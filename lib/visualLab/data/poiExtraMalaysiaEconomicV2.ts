@@ -3,7 +3,1312 @@ import type { POI } from "./poi";
 
 export const poiExtraMalaysiaEconomicV2: POI[] = [
   {
-    id: "port-klang-trade-hub-economic-v2",
+    id: "port-klang-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galeri Diraja Sultan Abdul Aziz",
+                  "text": "Eine königliche Galerie in Klang, die die Geschichte und das Erbe der königlichen Familie von Selangor beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        101.449222,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Majlis Bandaraya Diraja Klang",
+                  "text": "Das administrative Rathausgebäude der königlichen Stadt Klang.",
+                  "category": "historical",
+                  "coords": [
+                        101.444692,
+                        3.044851
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "Eine markante katholische Kirche in Klang, die für ihre gotische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "Eine bedeutende Sikh-Kultstätte, die der lokalen Gemeinschaft in Klang dient.",
+                  "category": "religious",
+                  "coords": [
+                        101.444596,
+                        3.041068
+                  ]
+            },
+            {
+                  "name": "Jambatan Kota",
+                  "text": "Eine historische Doppelstockbrücke, die den Fluss Klang überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448772,
+                        3.047533
+                  ]
+            },
+            {
+                  "name": "Jambatan Ketiga Klang",
+                  "text": "Eine Brücke über den Fluss Klang, die ursprünglich 1917 errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427095,
+                        3.051518
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiul Ehsani",
+                  "text": "Eine bekannte lokale Moschee im Handelshubgebiet von Port Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.445791,
+                        2.939128
+                  ]
+            },
+            {
+                  "name": "Rumah Papan Pandamaran",
+                  "text": "Ein lokales Museum in einem traditionellen Holzgebäude in Pandamaran.",
+                  "category": "museum",
+                  "coords": [
+                        101.418153,
+                        3.011344
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Eine traditionelle chinesische Kultstätte in der Nähe des Handelsknotenpunkts Port Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.431958,
+                        3.041504
+                  ]
+            },
+            {
+                  "name": "Masjid Istana Diraja",
+                  "text": "Eine königliche Moschee, die mit dem Palastgelände in der Gegend von Klang verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.448793,
+                        3.035067
+                  ]
+            },
+            {
+                  "name": "Soon Hock Palace",
+                  "text": "Ein traditioneller Tempel, der den Gläubigen in der geschäftigen Region Port Klang dient.",
+                  "category": "religious",
+                  "coords": [
+                        101.412933,
+                        3.004004
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sijangkang",
+                  "text": "Ein belebter öffentlicher Markt, der die Sijangkang-Gemeinde in der Nähe von Port Klang bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        101.45667,
+                        2.945315
+                  ]
+            },
+            {
+                  "name": "SEGI FRESH",
+                  "text": "Ein lokaler Markt für frische Produkte in der Nähe des Handelsknotenpunkts Port Klang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.411475,
+                        3.070546
+                  ]
+            },
+            {
+                  "name": "Pasar Pandamaran",
+                  "text": "Ein belebter lokaler Markt, der den Bewohnern der Gegend von Pandamaran dient.",
+                  "category": "cultural",
+                  "coords": [
+                        101.414587,
+                        3.006676
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar Jawa",
+                  "text": "Ein lebhafter Marktkomplex in der Region Klang, der für traditionelle Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        101.446393,
+                        3.047498
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "Eine lebendige kulturelle Enklave in Klang mit traditionellen indischen Geschäften und Restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "Ein Erholungspark in der Nähe von Port Klang, der Platz im Freien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045992
+                  ]
+            },
+            {
+                  "name": "Tanjung Harapan",
+                  "text": "Eine Küstenpromenade in Port Klang, die für ihren Meerblick und ihre Fischrestaurants beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.362393,
+                        3.004767
+                  ]
+            },
+            {
+                  "name": "Hoh Thian Kiong",
+                  "text": "Ein taoistischer Tempelkomplex im Bezirk Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.399701,
+                        3.084857
+                  ]
+            },
+            {
+                  "name": "Surau Haji Omar",
+                  "text": "Ein lokaler muslimischer Gebetsraum für die Gläubigen in Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.401261,
+                        3.069767
+                  ]
+            },
+            {
+                  "name": "Surau Sungai Saim",
+                  "text": "Ein muslimischer Andachtsraum in der Nachbarschaft nahe der Gegend des Flusses Saim.",
+                  "category": "landmark",
+                  "coords": [
+                        101.395246,
+                        3.055411
+                  ]
+            },
+            {
+                  "name": "Surau Asassudin",
+                  "text": "Eine lokale muslimische Gebetseinrichtung in der Handelshubregion Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.380082,
+                        3.030935
+                  ]
+            },
+            {
+                  "name": "Surau Al-Kautsar",
+                  "text": "Eine kleine muslimische Kultstätte, die sich um die lokale Gemeinschaft in Port Klang kümmert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.402349,
+                        2.982327
+                  ]
+            },
+            {
+                  "name": "Surau Medan Selera Tanjung Harapan",
+                  "text": "Ein praktischer muslimischer Gebetsraum am Food Court Tanjung Harapan.",
+                  "category": "landmark",
+                  "coords": [
+                        101.373867,
+                        3.00312
+                  ]
+            },
+            {
+                  "name": "Surau Haji Manaf",
+                  "text": "Ein lokaler muslimischer Versammlungsraum in Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.455435,
+                        2.947884
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muhsin",
+                  "text": "Ein muslimischer Andachtsraum in der Nähe des geschäftigen Handelsknotenpunkts Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.465513,
+                        2.947986
+                  ]
+            },
+            {
+                  "name": "True Jesus Church Klang",
+                  "text": "Eine lokale christliche Kirchenversammlung, die den Gläubigen in der Gegend von Klang dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445549,
+                        3.054857
+                  ]
+            },
+            {
+                  "name": "Masjid Dato' Dagang",
+                  "text": "Eine historische lokale Moschee in Klang, die für ihre unverwechselbare historische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46125,
+                        3.028952
+                  ]
+            },
+            {
+                  "name": "Masjid Kota Raja",
+                  "text": "Eine prominente lokale Moschee im historischen Viertel Kota Raja von Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459883,
+                        3.022878
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "Eine farbenfrohe hinduistische Kultstätte, die Lord Murugan gewidmet ist und der lokalen tamilischen Gemeinde im Hafengebiet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439837,
+                        3.039298
+                  ]
+            },
+            {
+                  "name": "Perumal Temple",
+                  "text": "Ein farbenfrohes hinduistisches Heiligtum, das Lord Perumal gewidmet ist und einen ruhigen religiösen Rückzugsort inmitten der umliegenden Industrie- und Handelszentren bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.4376,
+                        3.033819
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ein lokaler islamischer Gebetssaal mit einer charakteristischen Kuppel, in dem sich die maritime Gemeinschaft zu den täglichen Gebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.424408,
+                        3.031908
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiqiah",
+                  "text": "Ein bescheidener islamischer Gebetssaal, der einen friedlichen Raum für die tägliche Anbetung innerhalb der geschäftigen Handelszone bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410376,
+                        3.051165
+                  ]
+            },
+            {
+                  "name": "Surau Haji Musran",
+                  "text": "Ein auf die Gemeinschaft ausgerichteter islamischer Gebetsraum, der einen spirituellen Anker für die lokalen muslimischen Bewohner darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.415996,
+                        3.055223
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmadi",
+                  "text": "Eine markante lokale Moschee, die an ihrem Minarett erkennbar ist und als Mittelpunkt für Freitagsversammlungen in der Hafenstadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.408412,
+                        3.058481
+                  ]
+            },
+            {
+                  "name": "Surau Haji Ahmad",
+                  "text": "Eine muslimische Gebetseinrichtung in der Nachbarschaft, die der umliegenden städtischen Gemeinschaft tägliche spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410698,
+                        3.065504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galeri Diraja Sultan Abdul Aziz",
+                  "text": "A Selangor királyi család történelmét és örökségét bemutató galéria Klangban.",
+                  "category": "museum",
+                  "coords": [
+                        101.449222,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Majlis Bandaraya Diraja Klang",
+                  "text": "Klang királyi város közigazgatási városháza épülete.",
+                  "category": "historical",
+                  "coords": [
+                        101.444692,
+                        3.044851
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "Egy kiemelkedő katolikus templom Klangban, amely gótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "A klangi helyi közösséget szolgáló kiemelkedő szikh istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        101.444596,
+                        3.041068
+                  ]
+            },
+            {
+                  "name": "Jambatan Kota",
+                  "text": "A Klang folyót átívelő történelmi emeletes híd.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448772,
+                        3.047533
+                  ]
+            },
+            {
+                  "name": "Jambatan Ketiga Klang",
+                  "text": "A Klang folyón átívelő, eredetileg 1917-ben épült híd.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427095,
+                        3.051518
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiul Ehsani",
+                  "text": "Egy jól ismert helyi mecset a Port Klang-i kereskedelmi csomópont területén.",
+                  "category": "religious",
+                  "coords": [
+                        101.445791,
+                        2.939128
+                  ]
+            },
+            {
+                  "name": "Rumah Papan Pandamaran",
+                  "text": "Egy hagyományos pandamarani faépületben helyet kapó helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        101.418153,
+                        3.011344
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "A Port Klang-i kereskedelmi csomópont közelében található hagyományos kínai istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        101.431958,
+                        3.041504
+                  ]
+            },
+            {
+                  "name": "Masjid Istana Diraja",
+                  "text": "A klangi palota területéhez tartozó királyi mecset.",
+                  "category": "religious",
+                  "coords": [
+                        101.448793,
+                        3.035067
+                  ]
+            },
+            {
+                  "name": "Soon Hock Palace",
+                  "text": "A nyüzsgő Port Klang régió hívőit szolgáló hagyományos templom.",
+                  "category": "religious",
+                  "coords": [
+                        101.412933,
+                        3.004004
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sijangkang",
+                  "text": "A Port Klang melletti Sijangkang közösséget szolgáló nyüzsgő nyilvános piac.",
+                  "category": "cultural",
+                  "coords": [
+                        101.45667,
+                        2.945315
+                  ]
+            },
+            {
+                  "name": "SEGI FRESH",
+                  "text": "A Port Klang-i kereskedelmi központ közelében található helyi frissáru-piac.",
+                  "category": "cultural",
+                  "coords": [
+                        101.411475,
+                        3.070546
+                  ]
+            },
+            {
+                  "name": "Pasar Pandamaran",
+                  "text": "A Pandamaran terület lakóit kiszolgáló forgalmas helyi piac.",
+                  "category": "cultural",
+                  "coords": [
+                        101.414587,
+                        3.006676
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar Jawa",
+                  "text": "A Klang régióban hagyományos áruiról ismert nyüzsgő piackomplexum.",
+                  "category": "cultural",
+                  "coords": [
+                        101.446393,
+                        3.047498
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "Egy élénk kulturális enklávé Klangban hagyományos indiai üzletekkel és éttermekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "A Port Klang közelében szabadtéri kikapcsolódást kínáló rekreációs park.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045992
+                  ]
+            },
+            {
+                  "name": "Tanjung Harapan",
+                  "text": "Tengeri kilátásáról és tengeri herkentyűket kínáló éttermeiről népszerű tengerparti sétány Port Klangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.362393,
+                        3.004767
+                  ]
+            },
+            {
+                  "name": "Hoh Thian Kiong",
+                  "text": "A Port Klang negyedben található taoista templomkomplexum.",
+                  "category": "landmark",
+                  "coords": [
+                        101.399701,
+                        3.084857
+                  ]
+            },
+            {
+                  "name": "Surau Haji Omar",
+                  "text": "A hívőket szolgáló helyi muszlim imaterem Port Klangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.401261,
+                        3.069767
+                  ]
+            },
+            {
+                  "name": "Surau Sungai Saim",
+                  "text": "A Saim folyó környékén található környékbeli muszlim istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        101.395246,
+                        3.055411
+                  ]
+            },
+            {
+                  "name": "Surau Asassudin",
+                  "text": "Helyi muszlim imádkozóhely a Port Klang-i kereskedelmi központ régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.380082,
+                        3.030935
+                  ]
+            },
+            {
+                  "name": "Surau Al-Kautsar",
+                  "text": "A Port Klang-i helyi közösséget ellátó kis muszlim istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        101.402349,
+                        2.982327
+                  ]
+            },
+            {
+                  "name": "Surau Medan Selera Tanjung Harapan",
+                  "text": "A Tanjung Harapan ételudvaron található kényelmes muszlim imaterem.",
+                  "category": "landmark",
+                  "coords": [
+                        101.373867,
+                        3.00312
+                  ]
+            },
+            {
+                  "name": "Surau Haji Manaf",
+                  "text": "Egy helyi muszlim gyülekezeti tér Port Klangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.455435,
+                        2.947884
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muhsin",
+                  "text": "A nyüzsgő Port Klang-i kereskedelmi központ közelében található muszlim istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        101.465513,
+                        2.947986
+                  ]
+            },
+            {
+                  "name": "True Jesus Church Klang",
+                  "text": "A klangi hívőket szolgáló helyi keresztény gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445549,
+                        3.054857
+                  ]
+            },
+            {
+                  "name": "Masjid Dato' Dagang",
+                  "text": "Jellegzetes örökségi építészetéről elismert történelmi helyi mecset Klangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46125,
+                        3.028952
+                  ]
+            },
+            {
+                  "name": "Masjid Kota Raja",
+                  "text": "A klangi történelmi Kota Raja területen fekvő kiemelkedő helyi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459883,
+                        3.022878
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "Egy élénk színű, Murugan istennek szentelt hindu istentiszteleti hely, amely a kikötőnegyed helyi tamil közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439837,
+                        3.039298
+                  ]
+            },
+            {
+                  "name": "Perumal Temple",
+                  "text": "Egy színes, Perumal istennek szentelt hindu szentély, amely békés vallási menedéket nyújt a környező ipari és kereskedelmi központok között.",
+                  "category": "landmark",
+                  "coords": [
+                        101.4376,
+                        3.033819
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Egy jellegzetes kupolával rendelkező helyi iszlám imaterem, amely a tengerészeti közösséget gyűjti össze a napi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        101.424408,
+                        3.031908
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiqiah",
+                  "text": "Egy szerény iszlám imaterem, amely békés teret kínál a napi istentiszteletekhez a forgalmas kereskedelmi övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410376,
+                        3.051165
+                  ]
+            },
+            {
+                  "name": "Surau Haji Musran",
+                  "text": "Egy közösségközpontú iszlám imaterem, amely spirituális horgonyt jelent a helyi muszlim lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.415996,
+                        3.055223
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmadi",
+                  "text": "Egy feltűnő helyi mecset, amely a minaretjéről ismerhető fel, és a kikötőváros pénteki gyülekezeteinek központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.408412,
+                        3.058481
+                  ]
+            },
+            {
+                  "name": "Surau Haji Ahmad",
+                  "text": "Egy szomszédsági muszlim imahely, amely napi spirituális szolgáltatásokat nyújt a környező városi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410698,
+                        3.065504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galeri Diraja Sultan Abdul Aziz",
+                  "text": "O galerie regală în Klang, care evidențiază istoria și moștenirea familiei regale din Selangor.",
+                  "category": "museum",
+                  "coords": [
+                        101.449222,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Majlis Bandaraya Diraja Klang",
+                  "text": "Clădirea administrativă a primăriei pentru orașul regal Klang.",
+                  "category": "historical",
+                  "coords": [
+                        101.444692,
+                        3.044851
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "O biserică catolică proeminentă din Klang, cunoscută pentru arhitectura sa gotică.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "Un loc de cult proeminent sikh care servește comunitatea locală din Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.444596,
+                        3.041068
+                  ]
+            },
+            {
+                  "name": "Jambatan Kota",
+                  "text": "Un pod istoric cu etaj dublu care traversează râul Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448772,
+                        3.047533
+                  ]
+            },
+            {
+                  "name": "Jambatan Ketiga Klang",
+                  "text": "Un pod care traversează râul Klang, înființat inițial în 1917.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427095,
+                        3.051518
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiul Ehsani",
+                  "text": "O moschee locală bine cunoscută situată în zona comercială Port Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.445791,
+                        2.939128
+                  ]
+            },
+            {
+                  "name": "Rumah Papan Pandamaran",
+                  "text": "Un muzeu local găzduit într-o clădire tradițională din lemn din Pandamaran.",
+                  "category": "museum",
+                  "coords": [
+                        101.418153,
+                        3.011344
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Un lăcaș de cult tradițional chinezesc situat în apropierea centrului comercial Port Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.431958,
+                        3.041504
+                  ]
+            },
+            {
+                  "name": "Masjid Istana Diraja",
+                  "text": "O moschee regală asociată cu domeniul palatului din zona Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.448793,
+                        3.035067
+                  ]
+            },
+            {
+                  "name": "Soon Hock Palace",
+                  "text": "Un templu tradițional care servește credincioșii din aglomerata regiune Port Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.412933,
+                        3.004004
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sijangkang",
+                  "text": "O piață publică plină de viață care deservește comunitatea Sijangkang din apropiere de Port Klang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.45667,
+                        2.945315
+                  ]
+            },
+            {
+                  "name": "SEGI FRESH",
+                  "text": "O piață locală de produse proaspete lângă centrul comercial Port Klang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.411475,
+                        3.070546
+                  ]
+            },
+            {
+                  "name": "Pasar Pandamaran",
+                  "text": "O piață locală aglomerată care deservește locuitorii zonei Pandamaran.",
+                  "category": "cultural",
+                  "coords": [
+                        101.414587,
+                        3.006676
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar Jawa",
+                  "text": "Un complex de piețe plin de viață, cunoscut pentru bunurile tradiționale din regiunea Klang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.446393,
+                        3.047498
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "O enclavă culturală vibrantă din Klang, cu magazine și restaurante tradiționale indiene.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "Un parc de recreere care oferă spațiu în aer liber lângă Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045992
+                  ]
+            },
+            {
+                  "name": "Tanjung Harapan",
+                  "text": "O esplanadă de coastă din Port Klang, populară pentru priveliștile la mare și restaurantele cu fructe de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.362393,
+                        3.004767
+                  ]
+            },
+            {
+                  "name": "Hoh Thian Kiong",
+                  "text": "Un complex de temple taoiste situat în cartierul Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.399701,
+                        3.084857
+                  ]
+            },
+            {
+                  "name": "Surau Haji Omar",
+                  "text": "O sală de rugăciune musulmană locală care servește credincioșii din Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.401261,
+                        3.069767
+                  ]
+            },
+            {
+                  "name": "Surau Sungai Saim",
+                  "text": "Un spațiu de cult musulman de cartier situat în apropierea zonei râului Saim.",
+                  "category": "landmark",
+                  "coords": [
+                        101.395246,
+                        3.055411
+                  ]
+            },
+            {
+                  "name": "Surau Asassudin",
+                  "text": "O facilitate de rugăciune musulmană locală situată în regiunea comercială Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.380082,
+                        3.030935
+                  ]
+            },
+            {
+                  "name": "Surau Al-Kautsar",
+                  "text": "Un mic lăcaș de cult musulman care deservește comunitatea locală din Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.402349,
+                        2.982327
+                  ]
+            },
+            {
+                  "name": "Surau Medan Selera Tanjung Harapan",
+                  "text": "Un spațiu convenabil de rugăciune musulmană situat la zona de restaurante Tanjung Harapan.",
+                  "category": "landmark",
+                  "coords": [
+                        101.373867,
+                        3.00312
+                  ]
+            },
+            {
+                  "name": "Surau Haji Manaf",
+                  "text": "Un spațiu local de adunare musulmană situat în Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.455435,
+                        2.947884
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muhsin",
+                  "text": "O zonă de cult musulmană situată lângă aglomeratul centru comercial Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.465513,
+                        2.947986
+                  ]
+            },
+            {
+                  "name": "True Jesus Church Klang",
+                  "text": "O adunare bisericească creștină locală care servește credincioșii din zona Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445549,
+                        3.054857
+                  ]
+            },
+            {
+                  "name": "Masjid Dato' Dagang",
+                  "text": "O moschee istorică locală din Klang recunoscută pentru arhitectura sa de patrimoniu distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46125,
+                        3.028952
+                  ]
+            },
+            {
+                  "name": "Masjid Kota Raja",
+                  "text": "O moschee locală proeminentă situată în zona istorică Kota Raja din Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459883,
+                        3.022878
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "Un lăcaș de cult hindus vibrant dedicat zeului Murugan, care deservește comunitatea tamilă locală din zona portuară.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439837,
+                        3.039298
+                  ]
+            },
+            {
+                  "name": "Perumal Temple",
+                  "text": "Un sanctuar hindus colorat dedicat lordului Perumal, oferind un refugiu religios senin în mijlocul huburilor industriale și comerciale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.4376,
+                        3.033819
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "O sală de rugăciune islamică locală cu o cupolă caracteristică, care adună comunitatea maritimă pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.424408,
+                        3.031908
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiqiah",
+                  "text": "O sală modestă de rugăciune islamică, care oferă un spațiu liniștit pentru închinarea zilnică în cadrul zonei comerciale aglomerate.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410376,
+                        3.051165
+                  ]
+            },
+            {
+                  "name": "Surau Haji Musran",
+                  "text": "O cameră de rugăciune islamică axată pe comunitate, oferind o ancoră spirituală pentru locuitorii musulmani locali.",
+                  "category": "landmark",
+                  "coords": [
+                        101.415996,
+                        3.055223
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmadi",
+                  "text": "O moschee locală proeminentă, recunoscută după minaretul său, servind ca punct central pentru congregațiile de vineri din orașul-port.",
+                  "category": "landmark",
+                  "coords": [
+                        101.408412,
+                        3.058481
+                  ]
+            },
+            {
+                  "name": "Surau Haji Ahmad",
+                  "text": "O facilitate de rugăciune musulmană de cartier, care oferă servicii spirituale zilnice comunității urbane înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410698,
+                        3.065504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultan Abdul Aziz Royal Gallery",
+                  "text": "A royal gallery in Klang highlighting the history and heritage of the Selangor royal family.",
+                  "category": "museum",
+                  "coords": [
+                        101.449222,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Klang Royal City Council",
+                  "text": "The administrative town hall building for the royal city of Klang.",
+                  "category": "historical",
+                  "coords": [
+                        101.444692,
+                        3.044851
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "A prominent Catholic church in Klang known for its distinct Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "A prominent Sikh place of worship serving the local community in Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.444596,
+                        3.041068
+                  ]
+            },
+            {
+                  "name": "Kota Bridge",
+                  "text": "A historic double-deck bridge crossing the Klang River.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448772,
+                        3.047533
+                  ]
+            },
+            {
+                  "name": "Klang Third Bridge",
+                  "text": "A bridge spanning the Klang River, originally established in 1917.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427095,
+                        3.051518
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiul Ehsani",
+                  "text": "A well-known local mosque situated in the Port Klang trade hub area.",
+                  "category": "religious",
+                  "coords": [
+                        101.445791,
+                        2.939128
+                  ]
+            },
+            {
+                  "name": "Rumah Papan Pandamaran",
+                  "text": "A local museum housed in a traditional wooden building in Pandamaran.",
+                  "category": "museum",
+                  "coords": [
+                        101.418153,
+                        3.011344
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "A traditional Chinese place of worship situated near the Port Klang trade hub.",
+                  "category": "religious",
+                  "coords": [
+                        101.431958,
+                        3.041504
+                  ]
+            },
+            {
+                  "name": "Masjid Istana Diraja",
+                  "text": "A royal mosque associated with the palace grounds in the Klang area.",
+                  "category": "religious",
+                  "coords": [
+                        101.448793,
+                        3.035067
+                  ]
+            },
+            {
+                  "name": "Soon Hock Palace",
+                  "text": "A traditional temple serving devotees in the bustling Port Klang region.",
+                  "category": "religious",
+                  "coords": [
+                        101.412933,
+                        3.004004
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sijangkang",
+                  "text": "A bustling public marketplace serving the Sijangkang community near Port Klang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.45667,
+                        2.945315
+                  ]
+            },
+            {
+                  "name": "SEGI FRESH",
+                  "text": "A local fresh produce marketplace near the Port Klang trade hub.",
+                  "category": "cultural",
+                  "coords": [
+                        101.411475,
+                        3.070546
+                  ]
+            },
+            {
+                  "name": "Pasar Pandamaran",
+                  "text": "A busy local market serving the residents of the Pandamaran area.",
+                  "category": "cultural",
+                  "coords": [
+                        101.414587,
+                        3.006676
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar Jawa",
+                  "text": "A lively market complex known for traditional goods in the Klang region.",
+                  "category": "cultural",
+                  "coords": [
+                        101.446393,
+                        3.047498
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "A vibrant cultural enclave in Klang featuring traditional Indian shops and eateries.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "A recreational park area offering outdoor space near Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045992
+                  ]
+            },
+            {
+                  "name": "Tanjung Harapan",
+                  "text": "A coastal esplanade in Port Klang popular for its sea views and seafood restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        101.362393,
+                        3.004767
+                  ]
+            },
+            {
+                  "name": "Hoh Thian Kiong",
+                  "text": "A Taoist temple complex located within the Port Klang district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.399701,
+                        3.084857
+                  ]
+            },
+            {
+                  "name": "Surau Haji Omar",
+                  "text": "A local Muslim prayer room serving the faithful in Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.401261,
+                        3.069767
+                  ]
+            },
+            {
+                  "name": "Surau Sungai Saim",
+                  "text": "A neighborhood Muslim worship space located near the Saim River area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.395246,
+                        3.055411
+                  ]
+            },
+            {
+                  "name": "Surau Asassudin",
+                  "text": "A local Muslim prayer facility situated in the Port Klang trade hub region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.380082,
+                        3.030935
+                  ]
+            },
+            {
+                  "name": "Surau Al-Kautsar",
+                  "text": "A small Muslim place of worship catering to the local community in Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.402349,
+                        2.982327
+                  ]
+            },
+            {
+                  "name": "Surau Medan Selera Tanjung Harapan",
+                  "text": "A convenient Muslim prayer space located at the Tanjung Harapan food court.",
+                  "category": "landmark",
+                  "coords": [
+                        101.373867,
+                        3.00312
+                  ]
+            },
+            {
+                  "name": "Surau Haji Manaf",
+                  "text": "A local Muslim congregation space situated in Port Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.455435,
+                        2.947884
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muhsin",
+                  "text": "A Muslim worship area situated near the bustling Port Klang trade hub.",
+                  "category": "landmark",
+                  "coords": [
+                        101.465513,
+                        2.947986
+                  ]
+            },
+            {
+                  "name": "True Jesus Church Klang",
+                  "text": "A local Christian church gathering serving the faithful in the Klang area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445549,
+                        3.054857
+                  ]
+            },
+            {
+                  "name": "Masjid Dato' Dagang",
+                  "text": "A historic local mosque in Klang recognized for its distinctive heritage architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46125,
+                        3.028952
+                  ]
+            },
+            {
+                  "name": "Masjid Kota Raja",
+                  "text": "A prominent local mosque situated in the historic Kota Raja area of Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459883,
+                        3.022878
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "A vibrant Hindu place of worship dedicated to Lord Murugan, serving the local Tamil community in the port area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439837,
+                        3.039298
+                  ]
+            },
+            {
+                  "name": "Perumal Temple",
+                  "text": "A colorful Hindu sanctuary dedicated to Lord Perumal, providing a serene religious retreat amidst the surrounding industrial and trade hubs.",
+                  "category": "landmark",
+                  "coords": [
+                        101.4376,
+                        3.033819
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local Islamic prayer hall featuring a characteristic dome, gathering the maritime community for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.424408,
+                        3.031908
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiqiah",
+                  "text": "A modest Islamic prayer hall offering a peaceful space for daily worship within the busy trade zone.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410376,
+                        3.051165
+                  ]
+            },
+            {
+                  "name": "Surau Haji Musran",
+                  "text": "A community-focused Islamic prayer room providing a spiritual anchor for the local Muslim residents.",
+                  "category": "landmark",
+                  "coords": [
+                        101.415996,
+                        3.055223
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmadi",
+                  "text": "A prominent local mosque recognizable by its minaret, serving as a focal point for Friday congregations in the port town.",
+                  "category": "landmark",
+                  "coords": [
+                        101.408412,
+                        3.058481
+                  ]
+            },
+            {
+                  "name": "Surau Haji Ahmad",
+                  "text": "A neighborhood Muslim prayer facility providing daily spiritual services to the surrounding urban community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410698,
+                        3.065504
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MY-10",
     coords: [101.396, 3.003],
@@ -99,7 +1404,1348 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bayan-lepas-ftez-industry-economic-v2",
+    id: "bayan-lepas-ftez-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snake Temple",
+                  "text": "Dieser berühmte chinesische Tempel wird von zahlreichen giftigen Waglers Lanzenottern bewohnt, die sich frei über die Altäre hängen.",
+                  "category": "religious",
+                  "coords": [
+                        100.285261,
+                        5.314103
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Ibnu Al-Khattab Bayan Baru",
+                  "text": "Diese markante Kultstätte besticht durch ihre auffällige moderne islamische Architektur und dient als spiritueller Anker in der geschäftigen Gemeinde Bayan Baru.",
+                  "category": "religious",
+                  "coords": [
+                        100.285832,
+                        5.323849
+                  ]
+            },
+            {
+                  "name": "Jambatan Sultan Abdul Halim Mu'adzam Shah",
+                  "text": "Mit einer Länge von 24 Kilometern über die Meerenge verbindet diese riesige zweispurige Mautbrücke die Insel mit der Festlandhalbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.353823,
+                        5.257498
+                  ]
+            },
+            {
+                  "name": "Bukit Tepus",
+                  "text": "Dieser hoch gelegene Berggipfel erhebt sich steil aus der umgebenden Landschaft und bietet Wanderern einen Panoramablick auf die Industrie- und Küstenzonen.",
+                  "category": "natural",
+                  "coords": [
+                        100.246412,
+                        5.302705
+                  ]
+            },
+            {
+                  "name": "Bukit Papan",
+                  "text": "Dieser lokale Gipfel zeichnet sich durch steile bewaldete Hänge aus und bietet einen natürlichen grünen Zufluchtsort im geschäftigen südlichen Bezirk.",
+                  "category": "natural",
+                  "coords": [
+                        100.241983,
+                        5.30916
+                  ]
+            },
+            {
+                  "name": "Bukit Gambir",
+                  "text": "Dieser markante Hügel verfügt über einen dicht bewachsenen Gipfel, der die darunter liegenden städtischen Gebiete und das Universitätsgelände überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        100.248569,
+                        5.315392
+                  ]
+            },
+            {
+                  "name": "Bukit Kenari",
+                  "text": "Als markante geografische Erhebung der Region ist dieser Gipfel mit tropischem Laubwerk bedeckt und bietet unwegsames Gelände für Erkundungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        100.257643,
+                        5.317102
+                  ]
+            },
+            {
+                  "name": "Bukit Penduk",
+                  "text": "Der schroffe Gipfel dieses Hügels hebt sich von der Skyline der Insel ab und ist von natürlichen Felsvorsprüngen und dichtem Dschungelwachstum geprägt.",
+                  "category": "natural",
+                  "coords": [
+                        100.250206,
+                        5.304347
+                  ]
+            },
+            {
+                  "name": "Bukit Gedung",
+                  "text": "Dieser Gipfel erhebt sich in der Nähe der geschäftigen Industriegebiete und bietet einen ruhigen, natürlichen Aussichtspunkt inmitten der weitläufigen Elektronikfabriken.",
+                  "category": "natural",
+                  "coords": [
+                        100.279765,
+                        5.313665
+                  ]
+            },
+            {
+                  "name": "Bukit Jambul",
+                  "text": "Dieser bekannte Berggipfel ist berühmt für seine steilen Wanderwege, die sich durch den Wald schlängeln und Kletterer mit einem weiten Blick auf die Küste belohnen.",
+                  "category": "natural",
+                  "coords": [
+                        100.286333,
+                        5.342892
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Kecil",
+                  "text": "Dieser kleinere Küstenhügel fällt zum Meer hin ab und wirft einen grünen Schatten auf die traditionellen Fischerboote in der Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        100.27377,
+                        5.269411
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Besar",
+                  "text": "Mit Blick auf die weite Bucht bietet dieser markante Gipfel dramatische Küstenhänge, die in Richtung der Küstenlinie abfallen.",
+                  "category": "natural",
+                  "coords": [
+                        100.27797,
+                        5.262131
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Maung",
+                  "text": "Dieser felsige Gipfel thront über der Südostspitze der Insel und hat aus seiner Zeit als militärische Festung eine tiefe historische Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        100.288681,
+                        5.28048
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Masjid",
+                  "text": "Dieser bewaldete Gipfel, der sich direkt hinter der Dorfgemeinschaft erhebt, dient als natürliche grüne Kulisse für die lokalen Landhäuser.",
+                  "category": "natural",
+                  "coords": [
+                        100.282624,
+                        5.276035
+                  ]
+            },
+            {
+                  "name": "Bukit Payung",
+                  "text": "Dieser regenschirmförmige Berggipfel ist über kurvenreiche Feldwege erreichbar und bietet einen ungehinderten Aussichtspunkt über das südliche Flachland.",
+                  "category": "natural",
+                  "coords": [
+                        100.250985,
+                        5.282638
+                  ]
+            },
+            {
+                  "name": "Bukit Hj Pak Pajuh",
+                  "text": "Dieses Gipfelgebiet ist mit dichtem tropischem Unterholz bedeckt und markiert eine der weniger bekannten natürlichen Erhebungen der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        100.245673,
+                        5.277164
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Bongkok",
+                  "text": "Dieser schroffe Gipfel, der in der Nähe des Küstenkaps herausragt, weist verwitterte felsige Klippen auf, die der Meeresbrise ausgesetzt sind.",
+                  "category": "natural",
+                  "coords": [
+                        100.221955,
+                        5.280864
+                  ]
+            },
+            {
+                  "name": "Tua Peh Kong",
+                  "text": "Dieses traditionelle Denkmal ist eine dauerhafte steinerne Hommage an die verehrte taoistische Gottheit des Wohlstands und der lokalen Vormundschaft.",
+                  "category": "historical",
+                  "coords": [
+                        100.253111,
+                        5.306047
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong temple",
+                  "text": "Dieser lebendige taoistische Kultort ist dem Gott des Wohlstands gewidmet und besticht durch komplizierte Dachschnitzereien und dichte Weihrauchwolken.",
+                  "category": "religious",
+                  "coords": [
+                        100.277725,
+                        5.330822
+                  ]
+            },
+            {
+                  "name": "Dewan Masjid Maqbul Teluk Kumbar",
+                  "text": "Dieses islamische Gotteshaus umfasst ein eigenes Gemeindezentrum (Dewan), in dem gesellschaftliche Veranstaltungen und religiöse Zusammenkünfte für die Küstenstadt Teluk Kumbar stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        100.228674,
+                        5.294429
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "Diese zeitgenössische katholische Kirche bietet den Christen des Bezirks eine spirituelle Heimat und verfügt über ein geräumiges, natürlich beleuchtetes Heiligtum.",
+                  "category": "religious",
+                  "coords": [
+                        100.264371,
+                        5.315256
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieses lokale islamische Versammlungsgebäude bietet einen Ort der Anbetung für die Gemeinde in Bayan Lepas.",
+                  "category": "religious",
+                  "coords": [
+                        100.26338,
+                        5.311105
+                  ]
+            },
+            {
+                  "name": "Surau Sri Pantai",
+                  "text": "Diese Küstenmoschee in Bayan Lepas dient als spirituelles Zentrum in der Nähe des Strandes.",
+                  "category": "religious",
+                  "coords": [
+                        100.299584,
+                        5.312957
+                  ]
+            },
+            {
+                  "name": "Sam Poh Temple",
+                  "text": "Diese Kultstätte in Bayan Lepas ist dem kulturellen Erbe des Admirals Zheng He gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        100.290679,
+                        5.285044
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Casa Anggun",
+                  "text": "Dieses temporäre Hawker-Zentrum in Bayan Lepas bietet verschiedene Streetfood-Stände in der Nähe der Casa Anggun.",
+                  "category": "cultural",
+                  "coords": [
+                        100.301786,
+                        5.3385
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Jalan Pantai Jerjak 13",
+                  "text": "Dieser temporäre Markt liegt an der Jalan Pantai Jerjak 13 und bietet lokale Streetfood-Verkäufer in Bayan Lepas.",
+                  "category": "cultural",
+                  "coords": [
+                        100.303819,
+                        5.339932
+                  ]
+            },
+            {
+                  "name": "Dataran Pantai Queensbay",
+                  "text": "Dieser Küstenmarktplatz in Bayan Lepas bietet Einkaufsmöglichkeiten direkt an der Uferpromenade von Queensbay.",
+                  "category": "cultural",
+                  "coords": [
+                        100.30758,
+                        5.329388
+                  ]
+            },
+            {
+                  "name": "Super Tanker Wet Market",
+                  "text": "Dieser geschäftige traditionelle Frischemarkt in Bayan Lepas ist bekannt für seine frischen Produkte und lokalen Essensstände.",
+                  "category": "cultural",
+                  "coords": [
+                        100.294951,
+                        5.342368
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Ria",
+                  "text": "Dieser Gemeindemarkt in Bayan Lepas versorgt die lokale Nachbarschaft mit Dingen des täglichen Bedarfs und frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        100.265947,
+                        5.317564
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan MBPP Jalan Rajawali",
+                  "text": "Dieser städtische Komplex an der Jalan Rajawali verfügt über einen lebhaften Frischemarkt sowie zahlreiche lokale Essensstände.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264876,
+                        5.306785
+                  ]
+            },
+            {
+                  "name": "Bayan Lepas Market",
+                  "text": "Als zentraler Marktplatz von Bayan Lepas bietet dieses geschäftige Handelszentrum frisches Fleisch, Gemüse und authentische lokale Küche.",
+                  "category": "cultural",
+                  "coords": [
+                        100.259236,
+                        5.295158
+                  ]
+            },
+            {
+                  "name": "Batu Maung Foodies",
+                  "text": "Dieser belebte Food-Court im Bezirk Batu Maung vereint eine große Auswahl an lokalen kulinarischen Köstlichkeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        100.293738,
+                        5.293225
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar, Makanan dan Pusat Komuniti Pagar Buloh, Sungai Ara",
+                  "text": "Diese Mehrzweckeinrichtung in Sungai Ara fungiert als Frischemarkt, Food-Court und Gemeindezentrum des Viertels.",
+                  "category": "cultural",
+                  "coords": [
+                        100.274329,
+                        5.332132
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Relau Jaya",
+                  "text": "An diesem Hawker-Standort im Wohngebiet Taman Relau Jaya versammeln sich lokale Verkäufer, die erschwingliches Streetfood anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        100.272646,
+                        5.339275
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan Teluk Kumbar Heights",
+                  "text": "Dieser Komplex in Teluk Kumbar Heights kombiniert einen täglichen Lebensmittelmarkt mit einer Auswahl an Essensständen.",
+                  "category": "cultural",
+                  "coords": [
+                        100.24931,
+                        5.288786
+                  ]
+            },
+            {
+                  "name": "PLS Downhill Trail",
+                  "text": "Abenteuerlustige besuchen diese schroffe Downhill-Mountainbike-Strecke im hügeligen Gelände von Bayan Lepas.",
+                  "category": "landmark",
+                  "coords": [
+                        100.252613,
+                        5.319231
+                  ]
+            },
+            {
+                  "name": "Limbongan Batu Maung",
+                  "text": "Dieses traditionelle Werftgebiet in Batu Maung bietet einen Einblick in die lokale Schifffahrts- und Bootsreparaturindustrie.",
+                  "category": "landmark",
+                  "coords": [
+                        100.29009,
+                        5.282495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snake Temple",
+                  "text": "Ezt a híres kínai templomot számos mérges Wagler-gödörvipera lakja, amelyek szabadon tekeregnek az oltárokon.",
+                  "category": "religious",
+                  "coords": [
+                        100.285261,
+                        5.314103
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Ibnu Al-Khattab Bayan Baru",
+                  "text": "Ez a kiemelkedő istentiszteleti hely lenyűgöző modern iszlám építészettel rendelkezik, és spirituális horgonyként szolgál Bayan Baru forgalmas városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        100.285832,
+                        5.323849
+                  ]
+            },
+            {
+                  "name": "Jambatan Sultan Abdul Halim Mu'adzam Shah",
+                  "text": "A szoroson 24 kilométer hosszan átívelő, hatalmas kétsávos fizetős híd köti össze a szigetet a szárazföldi félszigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.353823,
+                        5.257498
+                  ]
+            },
+            {
+                  "name": "Bukit Tepus",
+                  "text": "Ez a magasan fekvő hegycsúcs meredeken emelkedik ki a környező tájból, panorámás kilátást nyújtva a túrázóknak az ipari és tengerparti övezetekre.",
+                  "category": "natural",
+                  "coords": [
+                        100.246412,
+                        5.302705
+                  ]
+            },
+            {
+                  "name": "Bukit Papan",
+                  "text": "A meredek, erdős lejtőkkel jellemezhető helyi csúcs természetes zöld menedéket nyújt a forgalmas déli negyedben.",
+                  "category": "natural",
+                  "coords": [
+                        100.241983,
+                        5.30916
+                  ]
+            },
+            {
+                  "name": "Bukit Gambir",
+                  "text": "Ez a kiemelkedő domb sűrű növényzetű csúccsal rendelkezik, amely az alatta elterülő urbanizált területekre és egyetemi területekre néz.",
+                  "category": "natural",
+                  "coords": [
+                        100.248569,
+                        5.315392
+                  ]
+            },
+            {
+                  "name": "Bukit Kenari",
+                  "text": "A régió kiemelkedő földrajzi magaslata, ez a csúcs trópusi lombozattal borított, és zord terepet biztosít a szabadtéri felfedezésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        100.257643,
+                        5.317102
+                  ]
+            },
+            {
+                  "name": "Bukit Penduk",
+                  "text": "Ennek a dombnak a zord csúcsa kiemelkedik a sziget sziluettjéből, amelyet természetes sziklakiszögellések és sűrű dzsungel jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        100.250206,
+                        5.304347
+                  ]
+            },
+            {
+                  "name": "Bukit Gedung",
+                  "text": "A nyüzsgő ipari övezetek közelében emelkedő csúcs csendes természetes kilátópontot kínál az elterülő elektronikai gyárak között.",
+                  "category": "natural",
+                  "coords": [
+                        100.279765,
+                        5.313665
+                  ]
+            },
+            {
+                  "name": "Bukit Jambul",
+                  "text": "Ez a jól ismert hegycsúcs híres meredek túraútvonalairól, amelyek az erdőn keresztül kanyarogva széles partvidéki kilátással jutalmazzák a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        100.286333,
+                        5.342892
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Kecil",
+                  "text": "Ez a kisebb tengerparti domb a tenger felé lejt, zöld árnyékot vetve az öböl hagyományos halászhajóira.",
+                  "category": "natural",
+                  "coords": [
+                        100.27377,
+                        5.269411
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Besar",
+                  "text": "A tágas öbölre néző, kiemelkedő csúcs drámai tengerparti lejtőkkel rendelkezik, amelyek a partvonal felé zuhannak.",
+                  "category": "natural",
+                  "coords": [
+                        100.27797,
+                        5.262131
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Maung",
+                  "text": "Ez a sziklás csúcs a sziget délkeleti csücske fölé magasodik, és mély történelmi jelentőséggel bír katonai fellegvárként eltöltött idejéből.",
+                  "category": "natural",
+                  "coords": [
+                        100.288681,
+                        5.28048
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Masjid",
+                  "text": "Közvetlenül a faluközösség mögött emelkedik ez az erdős csúcs, amely természetes zöld hátteret biztosít a helyi vidéki házaknak.",
+                  "category": "natural",
+                  "coords": [
+                        100.282624,
+                        5.276035
+                  ]
+            },
+            {
+                  "name": "Bukit Payung",
+                  "text": "A kanyargós földutakon megközelíthető, esernyő alakú hegycsúcs akadálytalan kilátást nyújt a déli síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        100.250985,
+                        5.282638
+                  ]
+            },
+            {
+                  "name": "Bukit Hj Pak Pajuh",
+                  "text": "Ezt a csúcsterületet sűrű trópusi aljnövényzet borítja, amely a sziget egyik kevésbé ismert természetes magaslatát jelöli.",
+                  "category": "natural",
+                  "coords": [
+                        100.245673,
+                        5.277164
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Bongkok",
+                  "text": "A tengerparti fok közelében kinyúló, zord csúcs mállott sziklás szirtekkel rendelkezik, amelyek a tengeri széllel néznek szembe.",
+                  "category": "natural",
+                  "coords": [
+                        100.221955,
+                        5.280864
+                  ]
+            },
+            {
+                  "name": "Tua Peh Kong",
+                  "text": "Ez a hagyományos emlékmű tartós kőtisztelgésként áll a jólét és a helyi gyámság tisztelt taoista istensége előtt.",
+                  "category": "historical",
+                  "coords": [
+                        100.253111,
+                        5.306047
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong temple",
+                  "text": "A jólét istenének szentelt élénk taoista istentiszteleti hely bonyolult tetőfaragványokkal és sűrű füstölőfelhőkkel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        100.277725,
+                        5.330822
+                  ]
+            },
+            {
+                  "name": "Dewan Masjid Maqbul Teluk Kumbar",
+                  "text": "Ez az iszlám istentiszteleti központ magában foglal egy dedikált közösségi termet (dewan), amely társadalmi eseményeknek és vallási összejöveteleknek ad otthont Teluk Kumbar tengerparti városában.",
+                  "category": "religious",
+                  "coords": [
+                        100.228674,
+                        5.294429
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "Ez a kortárs katolikus templom spirituális otthont nyújt a kerület keresztényeinek, tágas, természetes megvilágítású szentélyével.",
+                  "category": "religious",
+                  "coords": [
+                        100.264371,
+                        5.315256
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a helyi iszlám gyülekezeti épület istentiszteleti helyet biztosít a Bayan Lepas-i közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        100.26338,
+                        5.311105
+                  ]
+            },
+            {
+                  "name": "Surau Sri Pantai",
+                  "text": "Ez a Bayan Lepasban található parti mecset szellemi központként szolgál a strand közelében.",
+                  "category": "religious",
+                  "coords": [
+                        100.299584,
+                        5.312957
+                  ]
+            },
+            {
+                  "name": "Sam Poh Temple",
+                  "text": "Ezt a Bayan Lepas-i istentiszteleti helyet Cseng Ho admirális kulturális örökségének szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        100.290679,
+                        5.285044
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Casa Anggun",
+                  "text": "Ez az ideiglenes Bayan Lepas-i árusítóhely különféle utcai ételeket kínál a Casa Anggun közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        100.301786,
+                        5.3385
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Jalan Pantai Jerjak 13",
+                  "text": "A Jalan Pantai Jerjak 13 mentén található ideiglenes piacon helyi utcai ételárusok kínálják portékáikat Bayan Lepasban.",
+                  "category": "cultural",
+                  "coords": [
+                        100.303819,
+                        5.339932
+                  ]
+            },
+            {
+                  "name": "Dataran Pantai Queensbay",
+                  "text": "Ez a parti piac Bayan Lepasban vásárlási lehetőségeket kínál közvetlenül a Queensbay vízpartján.",
+                  "category": "cultural",
+                  "coords": [
+                        100.30758,
+                        5.329388
+                  ]
+            },
+            {
+                  "name": "Super Tanker Wet Market",
+                  "text": "Ez a nyüzsgő, hagyományos Bayan Lepas-i piac friss termékeiről és helyi ételárusairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        100.294951,
+                        5.342368
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Ria",
+                  "text": "A helyi környéket kiszolgáló Bayan Lepas-i közösségi piac napi szükségleti cikkeket és friss élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        100.265947,
+                        5.317564
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan MBPP Jalan Rajawali",
+                  "text": "A Jalan Rajawali úton található önkormányzati komplexumban egy nyüzsgő piac és számos helyi ételárusító pavilon található.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264876,
+                        5.306785
+                  ]
+            },
+            {
+                  "name": "Bayan Lepas Market",
+                  "text": "Bayan Lepas központi piacaként ez a nyüzsgő kereskedelmi központ friss húst, zöldségeket és autentikus helyi konyhát kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        100.259236,
+                        5.295158
+                  ]
+            },
+            {
+                  "name": "Batu Maung Foodies",
+                  "text": "A Batu Maung negyedben található nyüzsgő ételudvar a helyi kulináris élvezetek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        100.293738,
+                        5.293225
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar, Makanan dan Pusat Komuniti Pagar Buloh, Sungai Ara",
+                  "text": "Ez a Sungai Arában található többcélú létesítmény a környék piacaként, ételudvaraként és közösségi központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        100.274329,
+                        5.332132
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Relau Jaya",
+                  "text": "Ezen a Taman Relau Jaya lakóövezetben található árusítóhelyen helyi árusok kínálnak megfizethető utcai ételeket.",
+                  "category": "cultural",
+                  "coords": [
+                        100.272646,
+                        5.339275
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan Teluk Kumbar Heights",
+                  "text": "A Teluk Kumbar Heights-ben található komplexum a napi élelmiszerpiacot a főtt ételeket kínáló standok széles választékával ötvözi.",
+                  "category": "cultural",
+                  "coords": [
+                        100.24931,
+                        5.288786
+                  ]
+            },
+            {
+                  "name": "PLS Downhill Trail",
+                  "text": "Az izgalomra vágyók felkeresik ezt a zord, hegyi kerékpáros ösvényt, amely Bayan Lepas dombos vidékén található.",
+                  "category": "landmark",
+                  "coords": [
+                        100.252613,
+                        5.319231
+                  ]
+            },
+            {
+                  "name": "Limbongan Batu Maung",
+                  "text": "A Batu Maungban található hagyományos hajógyári terület bepillantást enged a helyi tengerészeti és hajójavító iparba.",
+                  "category": "landmark",
+                  "coords": [
+                        100.29009,
+                        5.282495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snake Temple",
+                  "text": "Acest faimos templu chinezesc este locuit de numeroase vipere veninoase Wagler, care se așează liber pe altare.",
+                  "category": "religious",
+                  "coords": [
+                        100.285261,
+                        5.314103
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Ibnu Al-Khattab Bayan Baru",
+                  "text": "Acest lăcaș de cult proeminent prezintă o arhitectură islamică modernă izbitoare și servește ca ancoră spirituală în aglomeratul oraș Bayan Baru.",
+                  "category": "religious",
+                  "coords": [
+                        100.285832,
+                        5.323849
+                  ]
+            },
+            {
+                  "name": "Jambatan Sultan Abdul Halim Mu'adzam Shah",
+                  "text": "Întinzându-se pe 24 de kilometri peste strâmtoare, acest pod masiv cu taxă cu două benzi leagă insula de peninsula continentală.",
+                  "category": "landmark",
+                  "coords": [
+                        100.353823,
+                        5.257498
+                  ]
+            },
+            {
+                  "name": "Bukit Tepus",
+                  "text": "Acest vârf de deal înalt se ridică brusc din peisajul înconjurător, oferind excursioniștilor vederi panoramice ale zonelor industriale și de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        100.246412,
+                        5.302705
+                  ]
+            },
+            {
+                  "name": "Bukit Papan",
+                  "text": "Caracterizat de pante abrupte împădurite, acest vârf local oferă o evadare naturală verde în aglomeratul district sudic.",
+                  "category": "natural",
+                  "coords": [
+                        100.241983,
+                        5.30916
+                  ]
+            },
+            {
+                  "name": "Bukit Gambir",
+                  "text": "Acest deal proeminent are un vârf cu vegetație densă, care are vedere spre zonele urbanizate și terenurile universitare de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        100.248569,
+                        5.315392
+                  ]
+            },
+            {
+                  "name": "Bukit Kenari",
+                  "text": "O altitudine geografică proeminentă din regiune, acest vârf este acoperit de frunziș tropical și oferă un teren accidentat pentru explorare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        100.257643,
+                        5.317102
+                  ]
+            },
+            {
+                  "name": "Bukit Penduk",
+                  "text": "Vârful accidentat al acestui deal iese în evidență pe linia orizontului insulei, marcat de aflorimente stâncoase naturale și de o vegetație densă de junglă.",
+                  "category": "natural",
+                  "coords": [
+                        100.250206,
+                        5.304347
+                  ]
+            },
+            {
+                  "name": "Bukit Gedung",
+                  "text": "Ridicându-se în apropierea zonelor industriale pline de viață, acest vârf oferă un punct de observație natural liniștit în mijlocul fabricilor de electronice în plină expansiune.",
+                  "category": "natural",
+                  "coords": [
+                        100.279765,
+                        5.313665
+                  ]
+            },
+            {
+                  "name": "Bukit Jambul",
+                  "text": "Acest vârf de deal binecunoscut este faimos pentru traseele sale abrupte de drumeție care șerpuiesc prin pădure pentru a-i recompensa pe alpiniști cu vederi ample asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        100.286333,
+                        5.342892
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Kecil",
+                  "text": "Acest deal de coastă mai mic coboară spre mare, aruncând o umbră verde asupra bărcilor de pescuit tradiționale din golf.",
+                  "category": "natural",
+                  "coords": [
+                        100.27377,
+                        5.269411
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Besar",
+                  "text": "Având vedere la golful întins, acest vârf proeminent prezintă pante de coastă dramatice care se prăbușesc spre țărm.",
+                  "category": "natural",
+                  "coords": [
+                        100.27797,
+                        5.262131
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Maung",
+                  "text": "Acest vârf stâncos se înalță deasupra vârfului sud-estic al insulei, având o semnificație istorică profundă din perioada sa ca fortăreață militară.",
+                  "category": "natural",
+                  "coords": [
+                        100.288681,
+                        5.28048
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Masjid",
+                  "text": "Ridicându-se direct în spatele comunității satului, acest vârf împădurit servește ca fundal verde natural pentru casele rurale locale.",
+                  "category": "natural",
+                  "coords": [
+                        100.282624,
+                        5.276035
+                  ]
+            },
+            {
+                  "name": "Bukit Payung",
+                  "text": "Accesibil pe drumuri de pământ șerpuite, acest vârf de deal în formă de umbrelă oferă un punct de observație neobstrucționat asupra câmpiilor sudice.",
+                  "category": "natural",
+                  "coords": [
+                        100.250985,
+                        5.282638
+                  ]
+            },
+            {
+                  "name": "Bukit Hj Pak Pajuh",
+                  "text": "Această zonă de vârf este acoperită de tufișuri tropicale dense, marcând una dintre altitudinile naturale mai puțin cunoscute de pe insulă.",
+                  "category": "natural",
+                  "coords": [
+                        100.245673,
+                        5.277164
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Bongkok",
+                  "text": "Ieșind în evidență lângă capul de coastă, acest vârf accidentat prezintă stânci abrupte bătute de vreme, care înfruntă briza mării.",
+                  "category": "natural",
+                  "coords": [
+                        100.221955,
+                        5.280864
+                  ]
+            },
+            {
+                  "name": "Tua Peh Kong",
+                  "text": "Acest monument tradițional stă ca un tribut de piatră de durată adus veneratei zeități taoiste a prosperității și a tutelei locale.",
+                  "category": "historical",
+                  "coords": [
+                        100.253111,
+                        5.306047
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong temple",
+                  "text": "Dedicat Zeului Prosperității, acest lăcaș de cult taoist vibrant prezintă sculpturi complicate pe acoperiș și nori grei de tămâie.",
+                  "category": "religious",
+                  "coords": [
+                        100.277725,
+                        5.330822
+                  ]
+            },
+            {
+                  "name": "Dewan Masjid Maqbul Teluk Kumbar",
+                  "text": "Acest centru de cult islamic include o sală comunitară dedicată (dewan) care găzduiește evenimente sociale și adunări religioase pentru orașul de coastă Teluk Kumbar.",
+                  "category": "religious",
+                  "coords": [
+                        100.228674,
+                        5.294429
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "Această biserică catolică contemporană oferă un cămin spiritual creștinilor din district, având un sanctuar spațios, luminat natural.",
+                  "category": "religious",
+                  "coords": [
+                        100.264371,
+                        5.315256
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Această clădire locală de adunare islamică oferă un loc de cult pentru comunitatea din Bayan Lepas.",
+                  "category": "religious",
+                  "coords": [
+                        100.26338,
+                        5.311105
+                  ]
+            },
+            {
+                  "name": "Surau Sri Pantai",
+                  "text": "Situată în Bayan Lepas, această moschee de coastă servește drept centru spiritual lângă plajă.",
+                  "category": "religious",
+                  "coords": [
+                        100.299584,
+                        5.312957
+                  ]
+            },
+            {
+                  "name": "Sam Poh Temple",
+                  "text": "Acest lăcaș de cult din Bayan Lepas este dedicat patrimoniului cultural al amiralului Cheng Ho.",
+                  "category": "religious",
+                  "coords": [
+                        100.290679,
+                        5.285044
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Casa Anggun",
+                  "text": "Acest centru temporar de vânzători ambulanți din Bayan Lepas oferă diverse tarabe cu mâncare stradală lângă Casa Anggun.",
+                  "category": "cultural",
+                  "coords": [
+                        100.301786,
+                        5.3385
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Jalan Pantai Jerjak 13",
+                  "text": "Situată de-a lungul străzii Jalan Pantai Jerjak 13, această piață temporară găzduiește vânzători locali de mâncare stradală în Bayan Lepas.",
+                  "category": "cultural",
+                  "coords": [
+                        100.303819,
+                        5.339932
+                  ]
+            },
+            {
+                  "name": "Dataran Pantai Queensbay",
+                  "text": "Această piață de coastă din Bayan Lepas oferă oportunități de cumpărături chiar pe faleza din Queensbay.",
+                  "category": "cultural",
+                  "coords": [
+                        100.30758,
+                        5.329388
+                  ]
+            },
+            {
+                  "name": "Super Tanker Wet Market",
+                  "text": "Această piață tradițională plină de viață din Bayan Lepas este cunoscută pentru produsele sale proaspete și tarabele cu mâncare locală.",
+                  "category": "cultural",
+                  "coords": [
+                        100.294951,
+                        5.342368
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Ria",
+                  "text": "Deservind cartierul local, această piață comunitară din Bayan Lepas oferă necesități zilnice și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        100.265947,
+                        5.317564
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan MBPP Jalan Rajawali",
+                  "text": "Situat pe strada Jalan Rajawali, acest complex municipal are o piață aglomerată alături de numeroase tarabe cu mâncare locală.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264876,
+                        5.306785
+                  ]
+            },
+            {
+                  "name": "Bayan Lepas Market",
+                  "text": "Ca piață centrală din Bayan Lepas, acest centru comercial aglomerat oferă carne proaspătă, legume și bucătărie locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        100.259236,
+                        5.295158
+                  ]
+            },
+            {
+                  "name": "Batu Maung Foodies",
+                  "text": "Situată în districtul Batu Maung, această zonă de restaurante reunește o mare varietate de delicii culinare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        100.293738,
+                        5.293225
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar, Makanan dan Pusat Komuniti Pagar Buloh, Sungai Ara",
+                  "text": "Amplasată în Sungai Ara, această facilitate multifuncțională funcționează ca piață de cartier, zonă de restaurante și centru comunitar.",
+                  "category": "cultural",
+                  "coords": [
+                        100.274329,
+                        5.332132
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Relau Jaya",
+                  "text": "Acest spațiu pentru vânzători ambulanți din zona rezidențială Taman Relau Jaya adună comercianți locali care oferă mâncare stradală la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        100.272646,
+                        5.339275
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan Teluk Kumbar Heights",
+                  "text": "Situat în Teluk Kumbar Heights, acest complex combină o piață zilnică de alimente cu o selecție de tarabe cu mâncare gătită.",
+                  "category": "cultural",
+                  "coords": [
+                        100.24931,
+                        5.288786
+                  ]
+            },
+            {
+                  "name": "PLS Downhill Trail",
+                  "text": "Căutătorii de senzații tari vizitează acest traseu accidentat de mountain bike downhill, situat pe terenul deluros din Bayan Lepas.",
+                  "category": "landmark",
+                  "coords": [
+                        100.252613,
+                        5.319231
+                  ]
+            },
+            {
+                  "name": "Limbongan Batu Maung",
+                  "text": "Situată în Batu Maung, această zonă de șantier naval tradițional oferă o privire în industria maritimă locală și de reparații navale.",
+                  "category": "landmark",
+                  "coords": [
+                        100.29009,
+                        5.282495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snake Temple",
+                  "text": "This famous Chinese temple is inhabited by numerous venomous Wagler's pit vipers that drape themselves freely across the altars.",
+                  "category": "religious",
+                  "coords": [
+                        100.285261,
+                        5.314103
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Ibnu Al-Khattab Bayan Baru",
+                  "text": "This prominent place of worship features striking modern Islamic architecture and serves as a spiritual anchor in the busy township of Bayan Baru.",
+                  "category": "religious",
+                  "coords": [
+                        100.285832,
+                        5.323849
+                  ]
+            },
+            {
+                  "name": "Sultan Abdul Halim Mu'adzam Shah Bridge",
+                  "text": "Spanning 24 kilometers over the strait, this massive dual-carriageway toll bridge links the island to the mainland peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        100.353823,
+                        5.257498
+                  ]
+            },
+            {
+                  "name": "Bukit Tepus",
+                  "text": "This elevated hill peak rises sharply from the surrounding landscape, offering hikers panoramic views of the industrial and coastal zones.",
+                  "category": "natural",
+                  "coords": [
+                        100.246412,
+                        5.302705
+                  ]
+            },
+            {
+                  "name": "Bukit Papan",
+                  "text": "Characterized by steep forested slopes, this local peak provides a natural green escape within the busy southern district.",
+                  "category": "natural",
+                  "coords": [
+                        100.241983,
+                        5.30916
+                  ]
+            },
+            {
+                  "name": "Bukit Gambir",
+                  "text": "This prominent hill features a densely vegetated summit that overlooks the urbanized areas and university grounds below.",
+                  "category": "natural",
+                  "coords": [
+                        100.248569,
+                        5.315392
+                  ]
+            },
+            {
+                  "name": "Bukit Kenari",
+                  "text": "A prominent geographical elevation in the region, this peak is covered in tropical foliage and provides rugged terrain for outdoor exploration.",
+                  "category": "natural",
+                  "coords": [
+                        100.257643,
+                        5.317102
+                  ]
+            },
+            {
+                  "name": "Bukit Penduk",
+                  "text": "This hill's rugged summit stands out against the island skyline, marked by natural rocky outcrops and dense jungle growth.",
+                  "category": "natural",
+                  "coords": [
+                        100.250206,
+                        5.304347
+                  ]
+            },
+            {
+                  "name": "Bukit Gedung",
+                  "text": "Rising near the bustling industrial zones, this peak offers a quiet natural vantage point amidst the sprawling electronics factories.",
+                  "category": "natural",
+                  "coords": [
+                        100.279765,
+                        5.313665
+                  ]
+            },
+            {
+                  "name": "Bukit Jambul",
+                  "text": "This well-known hill peak is famous for its steep hiking trails that wind through the forest to reward climbers with sweeping coastal views.",
+                  "category": "natural",
+                  "coords": [
+                        100.286333,
+                        5.342892
+                  ]
+            },
+            {
+                  "name": "Bukit Teluk Tempoyak Kecil",
+                  "text": "This smaller coastal hill drops down towards the sea, casting a green shadow over the traditional fishing boats in the bay.",
+                  "category": "natural",
+                  "coords": [
+                        100.27377,
+                        5.269411
+                  ]
+            },
+            {
+                  "name": "Tempoyak Besar Bay Hill",
+                  "text": "Overlooking the expansive bay, this prominent peak features dramatic coastal slopes that plunge toward the shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        100.27797,
+                        5.262131
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Maung",
+                  "text": "This rocky peak towers over the southeastern tip of the island, holding deep historical significance from its time as a military stronghold.",
+                  "category": "natural",
+                  "coords": [
+                        100.288681,
+                        5.28048
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Masjid",
+                  "text": "Rising directly behind the village community, this forested peak serves as a natural green backdrop to the local rural houses.",
+                  "category": "natural",
+                  "coords": [
+                        100.282624,
+                        5.276035
+                  ]
+            },
+            {
+                  "name": "Bukit Payung",
+                  "text": "Reached by winding dirt tracks, this umbrella-shaped hill peak offers an unobstructed vantage point over the southern flatlands.",
+                  "category": "natural",
+                  "coords": [
+                        100.250985,
+                        5.282638
+                  ]
+            },
+            {
+                  "name": "Bukit Hj Pak Pajuh",
+                  "text": "This summit area is covered in dense tropical undergrowth, marking one of the lesser-known natural elevations on the island.",
+                  "category": "natural",
+                  "coords": [
+                        100.245673,
+                        5.277164
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Bongkok",
+                  "text": "Jutting out near the coastal cape, this rugged peak features weathered rocky cliffs that face the sea breeze.",
+                  "category": "natural",
+                  "coords": [
+                        100.221955,
+                        5.280864
+                  ]
+            },
+            {
+                  "name": "Tua Peh Kong",
+                  "text": "This traditional monument stands as a lasting stone tribute to the revered Taoist deity of prosperity and local guardianship.",
+                  "category": "historical",
+                  "coords": [
+                        100.253111,
+                        5.306047
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong temple",
+                  "text": "Dedicated to the God of Prosperity, this vibrant Taoist place of worship features intricate roof carvings and heavy clouds of incense.",
+                  "category": "religious",
+                  "coords": [
+                        100.277725,
+                        5.330822
+                  ]
+            },
+            {
+                  "name": "Dewan Masjid Maqbul Teluk Kumbar",
+                  "text": "This Islamic worship center includes a dedicated community hall (dewan) that hosts social events and religious gatherings for the coastal town of Teluk Kumbar.",
+                  "category": "religious",
+                  "coords": [
+                        100.228674,
+                        5.294429
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "This contemporary Catholic church provides a spiritual home for Christians in the district, featuring a spacious, naturally lit sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        100.264371,
+                        5.315256
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This local Islamic assembly building provides a place of worship for the community in Bayan Lepas.",
+                  "category": "religious",
+                  "coords": [
+                        100.26338,
+                        5.311105
+                  ]
+            },
+            {
+                  "name": "Surau Sri Pantai",
+                  "text": "Situated in Bayan Lepas, this coastal mosque serves as a spiritual center near the beach.",
+                  "category": "religious",
+                  "coords": [
+                        100.299584,
+                        5.312957
+                  ]
+            },
+            {
+                  "name": "Cheng Ho Footprint Temple",
+                  "text": "This Bayan Lepas place of worship is dedicated to the cultural heritage of Admiral Cheng Ho.",
+                  "category": "religious",
+                  "coords": [
+                        100.290679,
+                        5.285044
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Casa Anggun",
+                  "text": "This temporary hawker center in Bayan Lepas offers a variety of street food stalls near Casa Anggun.",
+                  "category": "cultural",
+                  "coords": [
+                        100.301786,
+                        5.3385
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Statik Sementera Jalan Pantai Jerjak 13",
+                  "text": "Located along Jalan Pantai Jerjak 13, this temporary marketplace features local street food vendors in Bayan Lepas.",
+                  "category": "cultural",
+                  "coords": [
+                        100.303819,
+                        5.339932
+                  ]
+            },
+            {
+                  "name": "Dataran Pantai Queensbay",
+                  "text": "This coastal marketplace square in Bayan Lepas provides shopping opportunities right by the Queensbay waterfront.",
+                  "category": "cultural",
+                  "coords": [
+                        100.30758,
+                        5.329388
+                  ]
+            },
+            {
+                  "name": "Super Tanker Wet Market",
+                  "text": "This bustling traditional wet market in Bayan Lepas is known for its fresh produce and local food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        100.294951,
+                        5.342368
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Ria",
+                  "text": "Serving the local neighborhood, this community market in Bayan Lepas provides daily necessities and fresh groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        100.265947,
+                        5.317564
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan MBPP Jalan Rajawali",
+                  "text": "Located on Jalan Rajawali, this municipal complex features a bustling wet market alongside numerous local food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264876,
+                        5.306785
+                  ]
+            },
+            {
+                  "name": "Bayan Lepas Market",
+                  "text": "As the central marketplace of Bayan Lepas, this busy commercial hub offers fresh meat, vegetables, and authentic local cuisine.",
+                  "category": "cultural",
+                  "coords": [
+                        100.259236,
+                        5.295158
+                  ]
+            },
+            {
+                  "name": "Batu Maung Foodies",
+                  "text": "Located in the Batu Maung district, this bustling food court brings together a wide variety of local culinary delights.",
+                  "category": "cultural",
+                  "coords": [
+                        100.293738,
+                        5.293225
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar, Makanan dan Pusat Komuniti Pagar Buloh, Sungai Ara",
+                  "text": "Set in Sungai Ara, this multi-purpose facility functions as a neighborhood wet market, food court, and community center.",
+                  "category": "cultural",
+                  "coords": [
+                        100.274329,
+                        5.332132
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Relau Jaya",
+                  "text": "This hawker site in the Taman Relau Jaya residential area gathers local vendors offering affordable street food.",
+                  "category": "cultural",
+                  "coords": [
+                        100.272646,
+                        5.339275
+                  ]
+            },
+            {
+                  "name": "Pasar & Kompleks Makanan Teluk Kumbar Heights",
+                  "text": "Situated in Teluk Kumbar Heights, this complex combines a daily grocery market with a selection of cooked food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        100.24931,
+                        5.288786
+                  ]
+            },
+            {
+                  "name": "PLS Downhill Trail",
+                  "text": "Thrill-seekers visit this rugged downhill mountain biking trail set in the hilly terrain of Bayan Lepas.",
+                  "category": "landmark",
+                  "coords": [
+                        100.252613,
+                        5.319231
+                  ]
+            },
+            {
+                  "name": "Limbongan Batu Maung",
+                  "text": "Located in Batu Maung, this traditional dockyard area offers a glimpse into the local maritime and boat-repairing industry.",
+                  "category": "landmark",
+                  "coords": [
+                        100.29009,
+                        5.282495
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MY-07",
     coords: [100.29, 5.29],
@@ -147,7 +2793,1132 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "rawang-automotive-industry-economic-v2",
+    id: "rawang-automotive-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Hulu Muncung",
+                  "text": "Bukit Hulu Muncung ist ein markanter Gipfel in der Landschaft von Rawang und bietet Wanderwege durch den umliegenden tropischen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        101.585449,
+                        3.277244
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Die Masjid Nurul Iman ist eine bedeutende lokale Moschee in Serendah, die sich durch ihre traditionellen islamischen Architekturmerkmale auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        101.604002,
+                        3.363937
+                  ]
+            },
+            {
+                  "name": "Trailhead Rawang Bypass",
+                  "text": "Der Trailhead Rawang Bypass markiert den Beginn eines malerischen Naturpfades, der sich unter den massiven Pfeilern der Hochstraße hindurchschlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594834,
+                        3.319523
+                  ]
+            },
+            {
+                  "name": "Rawang Bypass Viewpoint",
+                  "text": "Der Rawang Bypass Viewpoint bietet einen weiten Panoramablick auf die Hochstraße, während sie sich durch das üppige grüne Blätterdach schneidet.",
+                  "category": "natural",
+                  "coords": [
+                        101.59902,
+                        3.319025
+                  ]
+            },
+            {
+                  "name": "Taman Eko Rimba Kanching",
+                  "text": "Taman Eko Rimba Kanching ist ein üppiges Naturschutzgebiet, das für seinen beeindruckenden mehrstufigen Wasserfall bekannt ist, der eine felsige Schlucht hinabstürzt.",
+                  "category": "natural",
+                  "coords": [
+                        101.61959,
+                        3.302274
+                  ]
+            },
+            {
+                  "name": "Athi Devi Sri Karumaariamman",
+                  "text": "Athi Devi Sri Karumaariamman ist ein farbenfroh dekorierter Hindu-Tempel, der als spirituelles Zentrum in Rawang dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541211,
+                        3.332666
+                  ]
+            },
+            {
+                  "name": "Surau al Munawwwir",
+                  "text": "Surau al Munawwwir bietet der in Rawang ansässigen islamischen Gemeinschaft einen wichtigen Ort der Anbetung.",
+                  "category": "religious",
+                  "coords": [
+                        101.542653,
+                        3.326845
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah Palma",
+                  "text": "Surau Al-Hidayah Palma ist ein Gemeinde-Gebetsraum für den täglichen islamischen Gottesdienst im Bezirk Rawang.",
+                  "category": "religious",
+                  "coords": [
+                        101.538521,
+                        3.326073
+                  ]
+            },
+            {
+                  "name": "Surau Al-nur",
+                  "text": "Die Surau Al-nur dient dem Viertel Rawang als islamische Versammlungs- und Gebetshalle.",
+                  "category": "religious",
+                  "coords": [
+                        101.530992,
+                        3.326941
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Muttaqin Taman Velox",
+                  "text": "Die Surau Raudhatul Muttaqin in Taman Velox ist ein lokales muslimisches Gebetsgebäude für die Bewohner der Gegend.",
+                  "category": "religious",
+                  "coords": [
+                        101.522358,
+                        3.313696
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ikhlas Saujana Rawang",
+                  "text": "Die Surau Al-Ikhlas in Saujana Rawang bietet der lokalen islamischen Gemeinde eine ruhige Umgebung für den Gottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        101.513227,
+                        3.342682
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sg Serai",
+                  "text": "Die Masjid Jamek Sg Serai ist eine gut etablierte Moschee, die der Rawang-Gemeinde Freitagsgebete und islamische Lehren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.546853,
+                        3.28304
+                  ]
+            },
+            {
+                  "name": "Surau Al-Radhiyah",
+                  "text": "Surau Al-Radhiyah fungiert als eigener muslimischer Gebetsraum für die Gläubigen in der Umgebung von Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.58123,
+                        3.30226
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Tun Teja",
+                  "text": "Die Taman Tun Teja Moschee ist ein islamisches Gotteshaus mit besonderen architektonischen Details, das sich um die lokalen Gläubigen kümmert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.593205,
+                        3.295673
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Selva Vinayagar",
+                  "text": "Kuil Sri Selva Vinayagar ist ein farbenfroher Hindu-Tempel, der dem Gott Ganesha gewidmet ist und der lokalen tamilischen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.603958,
+                        3.36615
+                  ]
+            },
+            {
+                  "name": "Surau Al Kausar",
+                  "text": "Die Surau Al Kausar bietet einen ruhigen und speziellen Raum für islamische Gebete im Viertel Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.564882,
+                        3.319236
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Diese Gemeinde-Surau fungiert als lokaler Gebetsraum für muslimische Bewohner im Bezirk Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.615875,
+                        3.372827
+                  ]
+            },
+            {
+                  "name": "Masjid Cahaya Iman",
+                  "text": "Die Masjid Cahaya Iman ist eine markante Moschee mit geräumigen Gebetshallen für die islamische Gemeinschaft von Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.52649,
+                        3.329338
+                  ]
+            },
+            {
+                  "name": "Surau Baiturraundhah",
+                  "text": "Die Surau Baiturraundhah ist ein islamisches Gotteshaus und ein Treffpunkt der Gemeinde in der Gegend von Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.515808,
+                        3.337548
+                  ]
+            },
+            {
+                  "name": "Surau As-Siddiqin",
+                  "text": "Surau As-Siddiqin ist ein eigener islamischer Gebetsraum, der tägliche spirituelle Dienste in Rawang anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525587,
+                        3.282802
+                  ]
+            },
+            {
+                  "name": "Sri Selva Vinayagar Temple",
+                  "text": "Der Sri Selva Vinayagar Tempel ist ein markanter Hindu-Schrein in Rawang, der mit traditionellen dravidischen Architekturelementen verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554416,
+                        3.292435
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muttaqin",
+                  "text": "Die Surau Al-Muttaqin bietet einen ruhigen Rahmen für islamische Zusammenkünfte und tägliche Gebete in der Gemeinde Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.558073,
+                        3.30937
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Melayu Batu 16 Rawang",
+                  "text": "Die Masjid Kampung Melayu Batu 16 Rawang ist eine traditionelle Dorfmoschee, die der lokalen muslimischen Bevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594771,
+                        3.306431
+                  ]
+            },
+            {
+                  "name": "Tokong Kuan Tee Rawang",
+                  "text": "Der Tokong Kuan Tee Rawang ist ein traditioneller taoistischer Tempel, der mit leuchtend roten Laternen geschmückt und der Gottheit Guan Yu gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.575277,
+                        3.315702
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Die Nurul Iman Moschee ist ein wichtiges islamisches Gotteshaus, das der Gemeinde in Rawang Dienstleistungen und tägliche Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.578309,
+                        3.315543
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Rawang",
+                  "text": "Der Gurdwara Sahib Rawang ist ein Sikh-Tempel, der als spirituelles und kulturelles Zentrum für die lokale Punjabi-Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.574351,
+                        3.318262
+                  ]
+            },
+            {
+                  "name": "Tokong Kam Yin Teng",
+                  "text": "Der Tokong Kam Yin Teng ist ein friedlicher buddhistischer Tempel, der in Rawang eine heitere Atmosphäre für Meditationen und Opfergaben bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.573866,
+                        3.323386
+                  ]
+            },
+            {
+                  "name": "Tokong Sze Yeah Kong",
+                  "text": "Der Tokong Sze Yeah Kong ist ein historischer taoistischer Schrein mit komplizierten Drachen auf dem Dach und traditioneller chinesischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.576435,
+                        3.321492
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Kundang Jaya",
+                  "text": "Pasar Malam Kundang Jaya ist ein belebter Nachtmarkt, der eine große Auswahl an lokalem Streetfood und frischen Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        101.523386,
+                        3.285845
+                  ]
+            },
+            {
+                  "name": "Pasar Rawang",
+                  "text": "Der Pasar Rawang ist ein lebhafter zentraler Markt, auf dem sich die Einheimischen täglich treffen, um frische Zutaten und regionale Waren zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.577871,
+                        3.322999
+                  ]
+            },
+            {
+                  "name": "Pasar BCH",
+                  "text": "Ein lokaler Marktplatz in Rawang, an dem Verkäufer frische Produkte und Waren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        101.52721,
+                        3.326633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Hulu Muncung",
+                  "text": "A Bukit Hulu Muncung egy kiemelkedő csúcs a Rawang tájon, amely túraútvonalakat kínál a környező trópusi erdőn keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        101.585449,
+                        3.277244
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "A Masjid Nurul Iman egy jelentős helyi mecset Serendahban, amelyet hagyományos iszlám építészeti jegyei jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        101.604002,
+                        3.363937
+                  ]
+            },
+            {
+                  "name": "Trailhead Rawang Bypass",
+                  "text": "A Trailhead Rawang Bypass egy festői tanösvény kezdetét jelzi, amely a magasított autópálya hatalmas pillérei alatt kanyarog.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594834,
+                        3.319523
+                  ]
+            },
+            {
+                  "name": "Rawang Bypass Viewpoint",
+                  "text": "A Rawang Bypass Viewpoint elsöprő panorámát nyújt a magasított autópályára, ahogy az átszeli a buja zöld lombkoronát.",
+                  "category": "natural",
+                  "coords": [
+                        101.59902,
+                        3.319025
+                  ]
+            },
+            {
+                  "name": "Taman Eko Rimba Kanching",
+                  "text": "A Taman Eko Rimba Kanching egy buja természetvédelmi terület, amely egy sziklás szurdokban lezúduló, lenyűgöző többszintes vízeséséről híres.",
+                  "category": "natural",
+                  "coords": [
+                        101.61959,
+                        3.302274
+                  ]
+            },
+            {
+                  "name": "Athi Devi Sri Karumaariamman",
+                  "text": "Az Athi Devi Sri Karumaariamman egy élénken díszített hindu templom, amely spirituális központként szolgál Rawangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541211,
+                        3.332666
+                  ]
+            },
+            {
+                  "name": "Surau al Munawwwir",
+                  "text": "A Surau al Munawwwir elengedhetetlen istentiszteleti helyet biztosít a Rawangban élő iszlám közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        101.542653,
+                        3.326845
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah Palma",
+                  "text": "A Surau Al-Hidayah Palma egy közösségi imaterem, amelyet az iszlám napi imádatnak szenteltek a Rawang negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        101.538521,
+                        3.326073
+                  ]
+            },
+            {
+                  "name": "Surau Al-nur",
+                  "text": "A Surau Al-nur a Rawang negyed iszlám gyülekezeti és imatermeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        101.530992,
+                        3.326941
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Muttaqin Taman Velox",
+                  "text": "A Taman Velox-i Surau Raudhatul Muttaqin egy helyi muszlim imaépület, amelyet a környék lakóinak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        101.522358,
+                        3.313696
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ikhlas Saujana Rawang",
+                  "text": "A Saujana Rawang-i Surau Al-Ikhlas nyugodt istentiszteleti környezetet kínál a helyi iszlám gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        101.513227,
+                        3.342682
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sg Serai",
+                  "text": "A Masjid Jamek Sg Serai egy jól bejáratott mecset, amely pénteki imákat és iszlám tanításokat kínál a Rawang közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.546853,
+                        3.28304
+                  ]
+            },
+            {
+                  "name": "Surau Al-Radhiyah",
+                  "text": "A Surau Al-Radhiyah dedikált muszlim imateremként működik, amely a Rawang környéki hívőket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        101.58123,
+                        3.30226
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Tun Teja",
+                  "text": "A Taman Tun Teja mecset egy iszlám istentiszteleti hely, amely különleges építészeti részletekkel gondoskodik a helyi hívőkről.",
+                  "category": "landmark",
+                  "coords": [
+                        101.593205,
+                        3.295673
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Selva Vinayagar",
+                  "text": "A Kuil Sri Selva Vinayagar egy színes hindu templom, amelyet Ganesha úrnak szenteltek, és a helyi tamil közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.603958,
+                        3.36615
+                  ]
+            },
+            {
+                  "name": "Surau Al Kausar",
+                  "text": "A Surau Al Kausar csendes és dedikált teret biztosít az iszlám imákhoz a Rawang negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.564882,
+                        3.319236
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a közösségi surau helyi imateremként működik a muszlim lakosok számára a Rawang kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.615875,
+                        3.372827
+                  ]
+            },
+            {
+                  "name": "Masjid Cahaya Iman",
+                  "text": "A Masjid Cahaya Iman egy kiemelkedő mecset, amely tágas imatermekkel rendelkezik a rawangi iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.52649,
+                        3.329338
+                  ]
+            },
+            {
+                  "name": "Surau Baiturraundhah",
+                  "text": "A Surau Baiturraundhah egy iszlám istentiszteleti hely és közösségi gyülekezőhely Rawang környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        101.515808,
+                        3.337548
+                  ]
+            },
+            {
+                  "name": "Surau As-Siddiqin",
+                  "text": "A Surau As-Siddiqin egy dedikált iszlám imaterem, amely napi spirituális szolgáltatásokat nyújt Rawangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525587,
+                        3.282802
+                  ]
+            },
+            {
+                  "name": "Sri Selva Vinayagar Temple",
+                  "text": "A Sri Selva Vinayagar templom egy kiemelkedő hindu szentély, amelyet hagyományos dravida építészeti elemek díszítenek Rawangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554416,
+                        3.292435
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muttaqin",
+                  "text": "A Surau Al-Muttaqin nyugodt környezetet kínál az iszlám gyülekezethez és a napi imákhoz a Rawang közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.558073,
+                        3.30937
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Melayu Batu 16 Rawang",
+                  "text": "A Masjid Kampung Melayu Batu 16 Rawang egy hagyományos falusi mecset, amely a helyi muszlim lakosságot szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594771,
+                        3.306431
+                  ]
+            },
+            {
+                  "name": "Tokong Kuan Tee Rawang",
+                  "text": "A Tokong Kuan Tee Rawang egy hagyományos taoista templom, amelyet élénkpiros lámpások díszítenek, és Guan Yu istenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.575277,
+                        3.315702
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "A Nurul Iman mecset egy létfontosságú iszlám istentiszteleti hely, amely közösségi szolgáltatásokat és napi imákat kínál Rawangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.578309,
+                        3.315543
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Rawang",
+                  "text": "A Gurdwara Sahib Rawang egy szikh templom, amely spirituális és kulturális központként működik a helyi pandzsábi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.574351,
+                        3.318262
+                  ]
+            },
+            {
+                  "name": "Tokong Kam Yin Teng",
+                  "text": "A Tokong Kam Yin Teng egy békés buddhista templom, amely nyugodt légkört biztosít a meditációhoz és a felajánlásokhoz Rawangban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.573866,
+                        3.323386
+                  ]
+            },
+            {
+                  "name": "Tokong Sze Yeah Kong",
+                  "text": "A Tokong Sze Yeah Kong egy történelmi taoista szentély bonyolult tetőtéri sárkányokkal és hagyományos kínai építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.576435,
+                        3.321492
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Kundang Jaya",
+                  "text": "A Pasar Malam Kundang Jaya egy nyüzsgő éjszakai piac, amely helyi utcai ételek és friss termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        101.523386,
+                        3.285845
+                  ]
+            },
+            {
+                  "name": "Pasar Rawang",
+                  "text": "A Pasar Rawang egy nyüzsgő központi piac, ahol a helyiek naponta összegyűlnek, hogy friss alapanyagokat és regionális árukat vásároljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.577871,
+                        3.322999
+                  ]
+            },
+            {
+                  "name": "Pasar BCH",
+                  "text": "Egy helyi piac Rawangban, ahol az árusok friss termékeket és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.52721,
+                        3.326633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Hulu Muncung",
+                  "text": "Bukit Hulu Muncung este un vârf proeminent în peisajul din Rawang, oferind trasee de drumeții prin pădurea tropicală înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        101.585449,
+                        3.277244
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Masjid Nurul Iman este o moschee locală importantă situată în Serendah, caracterizată prin trăsăturile sale arhitecturale islamice tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        101.604002,
+                        3.363937
+                  ]
+            },
+            {
+                  "name": "Trailhead Rawang Bypass",
+                  "text": "Trailhead Rawang Bypass marchează începutul unui traseu natural pitoresc ce șerpuiește pe sub stâlpii masivi ai autostrăzii suspendate.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594834,
+                        3.319523
+                  ]
+            },
+            {
+                  "name": "Rawang Bypass Viewpoint",
+                  "text": "Rawang Bypass Viewpoint oferă o priveliște panoramică vastă a autostrăzii suspendate care taie prin coronamentul verde și luxuriant.",
+                  "category": "natural",
+                  "coords": [
+                        101.59902,
+                        3.319025
+                  ]
+            },
+            {
+                  "name": "Taman Eko Rimba Kanching",
+                  "text": "Taman Eko Rimba Kanching este o rezervație naturală luxuriantă, faimoasă pentru cascada sa impresionantă cu mai multe niveluri care coboară printr-un defileu stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        101.61959,
+                        3.302274
+                  ]
+            },
+            {
+                  "name": "Athi Devi Sri Karumaariamman",
+                  "text": "Athi Devi Sri Karumaariamman este un templu hindus decorat vibrant, care servește drept centru spiritual în Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541211,
+                        3.332666
+                  ]
+            },
+            {
+                  "name": "Surau al Munawwwir",
+                  "text": "Surau al Munawwwir oferă un loc de cult esențial pentru comunitatea islamică locală cu reședința în Rawang.",
+                  "category": "religious",
+                  "coords": [
+                        101.542653,
+                        3.326845
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah Palma",
+                  "text": "Surau Al-Hidayah Palma este o sală comunitară de rugăciune dedicată închinării islamice zilnice în districtul Rawang.",
+                  "category": "religious",
+                  "coords": [
+                        101.538521,
+                        3.326073
+                  ]
+            },
+            {
+                  "name": "Surau Al-nur",
+                  "text": "Surau Al-nur deservește cartierul Rawang ca o sală de adunare și rugăciune islamică.",
+                  "category": "religious",
+                  "coords": [
+                        101.530992,
+                        3.326941
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Muttaqin Taman Velox",
+                  "text": "Surau Raudhatul Muttaqin din Taman Velox este o clădire locală de rugăciune musulmană dedicată locuitorilor zonei.",
+                  "category": "religious",
+                  "coords": [
+                        101.522358,
+                        3.313696
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ikhlas Saujana Rawang",
+                  "text": "Surau Al-Ikhlas din Saujana Rawang oferă un mediu de închinare liniștit pentru congregația islamică locală.",
+                  "category": "religious",
+                  "coords": [
+                        101.513227,
+                        3.342682
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sg Serai",
+                  "text": "Masjid Jamek Sg Serai este o moschee bine stabilită care oferă rugăciuni de vineri și învățături islamice pentru comunitatea din Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.546853,
+                        3.28304
+                  ]
+            },
+            {
+                  "name": "Surau Al-Radhiyah",
+                  "text": "Surau Al-Radhiyah funcționează ca o sală de rugăciune musulmană dedicată, deservind credincioșii din zona Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.58123,
+                        3.30226
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Tun Teja",
+                  "text": "Moscheea Taman Tun Teja este un lăcaș de cult islamic cu detalii arhitecturale distincte, care se adresează credincioșilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        101.593205,
+                        3.295673
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Selva Vinayagar",
+                  "text": "Kuil Sri Selva Vinayagar este un templu hindus colorat, dedicat zeului Ganesha, care deservește comunitatea tamilă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.603958,
+                        3.36615
+                  ]
+            },
+            {
+                  "name": "Surau Al Kausar",
+                  "text": "Surau Al Kausar oferă un spațiu liniștit și dedicat pentru rugăciunile islamice în cartierul Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.564882,
+                        3.319236
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Această surau comunitară acționează ca o sală de rugăciune locală pentru rezidenții musulmani din districtul Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.615875,
+                        3.372827
+                  ]
+            },
+            {
+                  "name": "Masjid Cahaya Iman",
+                  "text": "Masjid Cahaya Iman este o moschee proeminentă care dispune de săli de rugăciune spațioase pentru comunitatea islamică din Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.52649,
+                        3.329338
+                  ]
+            },
+            {
+                  "name": "Surau Baiturraundhah",
+                  "text": "Surau Baiturraundhah este un lăcaș de cult islamic și un loc de adunare comunitară în zona Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.515808,
+                        3.337548
+                  ]
+            },
+            {
+                  "name": "Surau As-Siddiqin",
+                  "text": "Surau As-Siddiqin este o sală de rugăciune islamică dedicată ce oferă servicii spirituale zilnice în Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525587,
+                        3.282802
+                  ]
+            },
+            {
+                  "name": "Sri Selva Vinayagar Temple",
+                  "text": "Templul Sri Selva Vinayagar este un altar hindus proeminent, împodobit cu elemente arhitecturale tradiționale dravidiene în Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554416,
+                        3.292435
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muttaqin",
+                  "text": "Surau Al-Muttaqin oferă un cadru liniștit pentru congregația islamică și rugăciunile zilnice în comunitatea Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.558073,
+                        3.30937
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Melayu Batu 16 Rawang",
+                  "text": "Masjid Kampung Melayu Batu 16 Rawang este o moschee tradițională de sat care deservește populația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594771,
+                        3.306431
+                  ]
+            },
+            {
+                  "name": "Tokong Kuan Tee Rawang",
+                  "text": "Tokong Kuan Tee Rawang este un templu taoist tradițional decorat cu felinare roșii vibrante și dedicat zeității Guan Yu.",
+                  "category": "landmark",
+                  "coords": [
+                        101.575277,
+                        3.315702
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Moscheea Nurul Iman este un lăcaș de cult islamic vital, oferind servicii comunitare și rugăciuni zilnice în Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.578309,
+                        3.315543
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Rawang",
+                  "text": "Gurdwara Sahib Rawang este un templu sikh care acționează ca un centru spiritual și cultural pentru comunitatea locală punjabi.",
+                  "category": "landmark",
+                  "coords": [
+                        101.574351,
+                        3.318262
+                  ]
+            },
+            {
+                  "name": "Tokong Kam Yin Teng",
+                  "text": "Tokong Kam Yin Teng este un templu budist pașnic care oferă o atmosferă senină pentru meditație și ofrande în Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.573866,
+                        3.323386
+                  ]
+            },
+            {
+                  "name": "Tokong Sze Yeah Kong",
+                  "text": "Tokong Sze Yeah Kong este un altar taoist istoric ce prezintă dragoni complecși pe acoperiș și o arhitectură tradițională chineză.",
+                  "category": "landmark",
+                  "coords": [
+                        101.576435,
+                        3.321492
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Kundang Jaya",
+                  "text": "Pasar Malam Kundang Jaya este o piață de noapte plină de viață, care oferă o mare varietate de mâncare stradală locală și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        101.523386,
+                        3.285845
+                  ]
+            },
+            {
+                  "name": "Pasar Rawang",
+                  "text": "Pasar Rawang este o piață centrală animată unde localnicii se adună zilnic pentru a achiziționa ingrediente proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        101.577871,
+                        3.322999
+                  ]
+            },
+            {
+                  "name": "Pasar BCH",
+                  "text": "O piață locală din Rawang unde comercianții se adună pentru a vinde produse proaspete și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        101.52721,
+                        3.326633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Hulu Muncung",
+                  "text": "Bukit Hulu Muncung is a prominent peak rising in the Rawang landscape, offering hiking trails through the surrounding tropical forest.",
+                  "category": "natural",
+                  "coords": [
+                        101.585449,
+                        3.277244
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Masjid Nurul Iman is a significant local mosque located in Serendah, characterized by its traditional Islamic architectural features.",
+                  "category": "religious",
+                  "coords": [
+                        101.604002,
+                        3.363937
+                  ]
+            },
+            {
+                  "name": "Trailhead Rawang Bypass",
+                  "text": "The Trailhead Rawang Bypass marks the beginning of a scenic nature trail winding beneath the impressive pillars of the elevated highway.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594834,
+                        3.319523
+                  ]
+            },
+            {
+                  "name": "Rawang Bypass Viewpoint",
+                  "text": "Rawang Bypass Viewpoint provides sweeping panoramic vistas of the elevated highway as it cuts through the lush green canopy.",
+                  "category": "natural",
+                  "coords": [
+                        101.59902,
+                        3.319025
+                  ]
+            },
+            {
+                  "name": "Taman Eko Rimba Kanching",
+                  "text": "Taman Eko Rimba Kanching is a lush nature reserve famous for its impressive multi-tiered waterfall cascading down a rocky gorge.",
+                  "category": "natural",
+                  "coords": [
+                        101.61959,
+                        3.302274
+                  ]
+            },
+            {
+                  "name": "Athi Devi Sri Karumaariamman",
+                  "text": "Athi Devi Sri Karumaariamman is a vibrantly decorated Hindu temple serving as a spiritual center in Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541211,
+                        3.332666
+                  ]
+            },
+            {
+                  "name": "Surau al Munawwwir",
+                  "text": "Surau al Munawwwir provides an essential place of worship for the local Islamic community residing in Rawang.",
+                  "category": "religious",
+                  "coords": [
+                        101.542653,
+                        3.326845
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah Palma",
+                  "text": "Surau Al-Hidayah Palma is a community prayer room dedicated to Islamic daily worship within the Rawang district.",
+                  "category": "religious",
+                  "coords": [
+                        101.538521,
+                        3.326073
+                  ]
+            },
+            {
+                  "name": "Surau Al-nur",
+                  "text": "The Surau Al-nur serves the Rawang neighborhood as an Islamic assembly and prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        101.530992,
+                        3.326941
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Muttaqin Taman Velox",
+                  "text": "Surau Raudhatul Muttaqin in Taman Velox is a local Muslim prayer building dedicated to the area's residents.",
+                  "category": "religious",
+                  "coords": [
+                        101.522358,
+                        3.313696
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ikhlas Saujana Rawang",
+                  "text": "Surau Al-Ikhlas in Saujana Rawang offers a tranquil worship environment for the local Islamic congregation.",
+                  "category": "religious",
+                  "coords": [
+                        101.513227,
+                        3.342682
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sg Serai",
+                  "text": "Masjid Jamek Sg Serai is a well-established mosque providing Friday prayers and Islamic teachings for the Rawang community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.546853,
+                        3.28304
+                  ]
+            },
+            {
+                  "name": "Surau Al-Radhiyah",
+                  "text": "Surau Al-Radhiyah functions as a dedicated Muslim prayer hall serving worshippers in the Rawang area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.58123,
+                        3.30226
+                  ]
+            },
+            {
+                  "name": "Taman Tun Teja Mosque",
+                  "text": "Taman Tun Teja Mosque is an Islamic place of worship with distinct architectural details catering to the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        101.593205,
+                        3.295673
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Selva Vinayagar",
+                  "text": "Kuil Sri Selva Vinayagar is a colorful Hindu temple dedicated to Lord Ganesha, serving the local Tamil community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.603958,
+                        3.36615
+                  ]
+            },
+            {
+                  "name": "Surau Al Kausar",
+                  "text": "Surau Al Kausar provides a quiet and dedicated space for Islamic prayers in the Rawang neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        101.564882,
+                        3.319236
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This community surau acts as a local prayer room for Muslim residents in the Rawang district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.615875,
+                        3.372827
+                  ]
+            },
+            {
+                  "name": "Masjid Cahaya Iman",
+                  "text": "Masjid Cahaya Iman is a prominent mosque featuring spacious prayer halls for the Islamic community of Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.52649,
+                        3.329338
+                  ]
+            },
+            {
+                  "name": "Surau Baiturraundhah",
+                  "text": "Surau Baiturraundhah is an Islamic place of worship and community gathering spot in the Rawang area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.515808,
+                        3.337548
+                  ]
+            },
+            {
+                  "name": "Surau As-Siddiqin",
+                  "text": "Surau As-Siddiqin is a dedicated Islamic prayer room providing daily spiritual services in Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525587,
+                        3.282802
+                  ]
+            },
+            {
+                  "name": "Sri Selva Vinayagar Temple",
+                  "text": "Sri Selva Vinayagar Temple is a prominent Hindu shrine adorned with traditional Dravidian architectural elements in Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554416,
+                        3.292435
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muttaqin",
+                  "text": "Surau Al-Muttaqin offers a tranquil setting for Islamic congregation and daily prayers in the Rawang community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.558073,
+                        3.30937
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Melayu Batu 16 Rawang",
+                  "text": "Masjid Kampung Melayu Batu 16 Rawang is a traditional village mosque serving the local Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594771,
+                        3.306431
+                  ]
+            },
+            {
+                  "name": "Tokong Kuan Tee Rawang",
+                  "text": "Tokong Kuan Tee Rawang is a traditional Taoist temple decorated with vibrant red lanterns and dedicated to the deity Guan Yu.",
+                  "category": "landmark",
+                  "coords": [
+                        101.575277,
+                        3.315702
+                  ]
+            },
+            {
+                  "name": "Nurul Iman Mosque",
+                  "text": "Nurul Iman Mosque is a vital Islamic place of worship offering community services and daily prayers in Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.578309,
+                        3.315543
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Rawang",
+                  "text": "Gurdwara Sahib Rawang is a Sikh temple that acts as a spiritual and cultural hub for the local Punjabi community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.574351,
+                        3.318262
+                  ]
+            },
+            {
+                  "name": "Tokong Kam Yin Teng",
+                  "text": "Tokong Kam Yin Teng is a peaceful Buddhist temple providing a serene atmosphere for meditation and offerings in Rawang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.573866,
+                        3.323386
+                  ]
+            },
+            {
+                  "name": "Tokong Sze Yeah Kong",
+                  "text": "Tokong Sze Yeah Kong is a historic Taoist shrine featuring intricate rooftop dragons and traditional Chinese architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        101.576435,
+                        3.321492
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Kundang Jaya",
+                  "text": "Pasar Malam Kundang Jaya is a bustling night marketplace offering a wide variety of local street food and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        101.523386,
+                        3.285845
+                  ]
+            },
+            {
+                  "name": "Pasar Rawang",
+                  "text": "Pasar Rawang is a lively central marketplace where locals gather daily to purchase fresh ingredients and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.577871,
+                        3.322999
+                  ]
+            },
+            {
+                  "name": "Pasar BCH",
+                  "text": "A local marketplace in Rawang where vendors gather to sell fresh produce and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.52721,
+                        3.326633
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MY-10",
     coords: [101.57, 3.32],
@@ -195,7 +3966,844 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "kerteh-petrochemical-complex-energy-economic-v2",
+    id: "kerteh-petrochemical-complex-energy-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Kundur",
+                  "text": "Ein weltweit dokumentierter Berggipfel mit Blick auf die petrochemische Region Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.366676,
+                        4.477132
+                  ]
+            },
+            {
+                  "name": "Bukit Mempusi",
+                  "text": "Ein bemerkenswerter Gipfel, der einen erhöhten Blick auf die umliegende Industrielandschaft von Kerteh bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.415,
+                        4.503333
+                  ]
+            },
+            {
+                  "name": "Bukit Lusi",
+                  "text": "Ein anerkannter Berggipfel, der sich über dem petrochemischen Komplex von Kerteh erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        103.445,
+                        4.548333
+                  ]
+            },
+            {
+                  "name": "Bukit Labuhan",
+                  "text": "Eine markante Hügelkuppe vor der Kulisse der Industrie- und Küstenzone von Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.46397,
+                        4.527649
+                  ]
+            },
+            {
+                  "name": "Bukit Palus",
+                  "text": "Ein anerkannter Berggipfel, der Teil des Geländes in der Nähe des Energieknotenpunkts Kerteh ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.429381,
+                        4.454561
+                  ]
+            },
+            {
+                  "name": "Kertih Terminal breakwater, South head.",
+                  "text": "Ein maritimer Leuchtturm am südlichen Wellenbrecher des Terminals von Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.467445,
+                        4.585397
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Mizan Zainal Abidin",
+                  "text": "Eine weltweit bekannte islamische Kultstätte, die sich durch ihre markante Architektur in Kerteh auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        103.440228,
+                        4.501281
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Batu Putih",
+                  "text": "Eine anerkannte islamische Kultstätte, die der Gemeinschaft nahe der Industriezone von Kerteh dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.397561,
+                        4.567755
+                  ]
+            },
+            {
+                  "name": "Masjid Pengkalan Ranggon",
+                  "text": "Eine islamische Kultstätte für die Bewohner der petrochemischen Region Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.404507,
+                        4.550176
+                  ]
+            },
+            {
+                  "name": "Masjid Kg Labohan",
+                  "text": "Eine islamische Moschee in der Nähe des Labuhan-Hügels innerhalb der Wirtschaftszone von Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.45706,
+                        4.542729
+                  ]
+            },
+            {
+                  "name": "Surau Biru",
+                  "text": "Ein islamischer Gebetssaal, der das spirituelle Leben der lokalen Gemeinschaft in Kerteh unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43974,
+                        4.484333
+                  ]
+            },
+            {
+                  "name": "Masjid Chabang",
+                  "text": "Eine islamische Moschee, die Gläubigen in der Nähe des petrochemischen Komplexes von Kerteh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.404664,
+                        4.472308
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Feri",
+                  "text": "Ein islamischer Gebetsraum für die religiösen Bedürfnisse der Bewohner des Industriegebiets von Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.451437,
+                        4.424543
+                  ]
+            },
+            {
+                  "name": "Surau Hijau",
+                  "text": "Eine islamische Kultstätte, die einen Versammlungsort für die Gemeinde in der Region Kerteh bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.434228,
+                        4.478458
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ein lokaler islamischer Gebetsraum, der der Gemeinde in der Nähe des petrochemischen Komplexes Kerteh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.408492,
+                        4.480925
+                  ]
+            },
+            {
+                  "name": "Surau At Taqwa",
+                  "text": "Ein islamischer Gebetsraum namens At Taqwa, der der muslimischen Gemeinde rund um Kerteh als Kultstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.448142,
+                        4.518021
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tengah",
+                  "text": "Eine lokale Moschee im Kampung Tengah, die den religiösen Bedürfnissen des Dorfes in der Nähe von Kerteh gerecht wird.",
+                  "category": "religious",
+                  "coords": [
+                        103.448164,
+                        4.513015
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kerteh",
+                  "text": "Die islamische Hauptmoschee für die Region Kerteh, in der sich die lokale Gemeinde zu den Freitagsgebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.444775,
+                        4.513997
+                  ]
+            },
+            {
+                  "name": "Surau Taman Wan Adnan",
+                  "text": "Eine islamische Gebetsstätte im Taman Wan Adnan, die dem Wohnviertel in der Nähe des Industriekomplexes dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43771,
+                        4.508048
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Kampung Baru",
+                  "text": "Die alte islamische Moschee von Kampung Baru, die das traditionelle religiöse Erbe des Dorfes in der Nähe von Kerteh bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.4387,
+                        4.495635
+                  ]
+            },
+            {
+                  "name": "Masjid Lama",
+                  "text": "Eine historische islamische Moschee in der Umgebung von Kerteh, die die früheren architektonischen Stile lokaler Kultstätten widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452849,
+                        4.426316
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kemasek",
+                  "text": "Die Hauptversammlungsmoschee im benachbarten Kemasek, die als wichtiges islamisches spirituelles Zentrum in der Nähe von Kerteh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452198,
+                        4.42119
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Selasa",
+                  "text": "Ein lebhafter Dienstagnachtmarkt, der lokales Streetfood, frische Produkte und Waren in der Region Kerteh anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.439176,
+                        4.509241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Kundur",
+                  "text": "Egy globálisan dokumentált hegycsúcs, amely a kertehi petrolkémiai régióra néz.",
+                  "category": "natural",
+                  "coords": [
+                        103.366676,
+                        4.477132
+                  ]
+            },
+            {
+                  "name": "Bukit Mempusi",
+                  "text": "Egy nevezetes hegycsúcs, amely magaslati kilátást nyújt a környező kertehi ipari tájra.",
+                  "category": "natural",
+                  "coords": [
+                        103.415,
+                        4.503333
+                  ]
+            },
+            {
+                  "name": "Bukit Lusi",
+                  "text": "Egy elismert hegycsúcs, amely a kertehi petrolkémiai komplexum területe fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        103.445,
+                        4.548333
+                  ]
+            },
+            {
+                  "name": "Bukit Labuhan",
+                  "text": "Egy figyelemre méltó dombtető a kertehi ipari és tengerparti övezet hátterében.",
+                  "category": "natural",
+                  "coords": [
+                        103.46397,
+                        4.527649
+                  ]
+            },
+            {
+                  "name": "Bukit Palus",
+                  "text": "Egy elismert hegycsúcs, amely a kertehi energiaközpont közeli domborzatának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        103.429381,
+                        4.454561
+                  ]
+            },
+            {
+                  "name": "Kertih Terminal breakwater, South head.",
+                  "text": "Egy tengeri világítótorony, amely a kertehi terminál déli hullámtörőjén található.",
+                  "category": "landmark",
+                  "coords": [
+                        103.467445,
+                        4.585397
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Mizan Zainal Abidin",
+                  "text": "Egy világszerte ismert iszlám istentiszteleti hely, amely feltűnő építészetével tűnik ki Kertehben.",
+                  "category": "religious",
+                  "coords": [
+                        103.440228,
+                        4.501281
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Batu Putih",
+                  "text": "Egy elismert iszlám istentiszteleti hely, amely a kertehi ipari övezet közeli közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        103.397561,
+                        4.567755
+                  ]
+            },
+            {
+                  "name": "Masjid Pengkalan Ranggon",
+                  "text": "Egy iszlám istentiszteleti hely, amely a kertehi petrolkémiai régió lakóit látja el.",
+                  "category": "religious",
+                  "coords": [
+                        103.404507,
+                        4.550176
+                  ]
+            },
+            {
+                  "name": "Masjid Kg Labohan",
+                  "text": "Egy iszlám mecset a Labuhan-hegy közelében, a kertehi gazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.45706,
+                        4.542729
+                  ]
+            },
+            {
+                  "name": "Surau Biru",
+                  "text": "Egy iszlám imaterem, amely a helyi kertehi közösség spirituális életét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43974,
+                        4.484333
+                  ]
+            },
+            {
+                  "name": "Masjid Chabang",
+                  "text": "Egy iszlám mecset, amely a hívőket szolgálja a kertehi petrolkémiai komplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.404664,
+                        4.472308
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Feri",
+                  "text": "Egy iszlám imaterem, amely a kertehi iparvidék lakóinak vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.451437,
+                        4.424543
+                  ]
+            },
+            {
+                  "name": "Surau Hijau",
+                  "text": "Egy iszlám istentiszteleti hely, amely közösségi gyülekezési teret biztosít a Kerteh régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.434228,
+                        4.478458
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Helyi iszlám imaterem, amely a Kerteh petrolkémiai komplexum közelében lévő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.408492,
+                        4.480925
+                  ]
+            },
+            {
+                  "name": "Surau At Taqwa",
+                  "text": "Egy At Taqwa nevű iszlám imaterem, amely a Kerteh körüli muszlim közösség istentiszteleti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        103.448142,
+                        4.518021
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tengah",
+                  "text": "A Kampung Tengahban található helyi mecset, amely a Kerteh melletti falu vallási igényeit elégíti ki.",
+                  "category": "religious",
+                  "coords": [
+                        103.448164,
+                        4.513015
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kerteh",
+                  "text": "A Kerteh környékének iszlám főmecsete, amely a pénteki imákra gyűjti össze a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        103.444775,
+                        4.513997
+                  ]
+            },
+            {
+                  "name": "Surau Taman Wan Adnan",
+                  "text": "A Taman Wan Adnanban található iszlám imaház, amely az ipari komplexum közelében lévő lakónegyedet szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43771,
+                        4.508048
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Kampung Baru",
+                  "text": "Kampung Baru régi iszlám mecsete, amely megőrzi a Kerteh melletti falu hagyományos vallási örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        103.4387,
+                        4.495635
+                  ]
+            },
+            {
+                  "name": "Masjid Lama",
+                  "text": "Történelmi iszlám mecset Kerteh környékén, amely a helyi istentiszteleti helyek korábbi építészeti stílusait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452849,
+                        4.426316
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kemasek",
+                  "text": "A szomszédos Kemasek fő gyülekezeti mecsete, amely jelentős iszlám szellemi központként működik Kerteh közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452198,
+                        4.42119
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Selasa",
+                  "text": "Egy nyüzsgő kedd esti piac, amely helyi utcai ételeket, friss termékeket és árukat kínál a Kerteh térségben.",
+                  "category": "cultural",
+                  "coords": [
+                        103.439176,
+                        4.509241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Kundur",
+                  "text": "Un vârf muntos documentat la nivel mondial care are vedere spre regiunea petrochimică Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.366676,
+                        4.477132
+                  ]
+            },
+            {
+                  "name": "Bukit Mempusi",
+                  "text": "Un vârf notabil care oferă vederi ridicate ale peisajului industrial înconjurător din Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.415,
+                        4.503333
+                  ]
+            },
+            {
+                  "name": "Bukit Lusi",
+                  "text": "Un vârf muntos recunoscut care se înalță deasupra zonei complexului petrochimic Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.445,
+                        4.548333
+                  ]
+            },
+            {
+                  "name": "Bukit Labuhan",
+                  "text": "O caracteristică notabilă pe vârful unui deal pe fundalul zonei industriale și de coastă Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.46397,
+                        4.527649
+                  ]
+            },
+            {
+                  "name": "Bukit Palus",
+                  "text": "Un vârf muntos recunoscut care face parte din terenul din apropierea centrului energetic Kerteh.",
+                  "category": "natural",
+                  "coords": [
+                        103.429381,
+                        4.454561
+                  ]
+            },
+            {
+                  "name": "Kertih Terminal breakwater, South head.",
+                  "text": "Un far maritim situat pe digul sudic al terminalului Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.467445,
+                        4.585397
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Mizan Zainal Abidin",
+                  "text": "Un lăcaș de cult islamic remarcabil la nivel mondial, care se distinge prin arhitectura sa izbitoare din Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.440228,
+                        4.501281
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Batu Putih",
+                  "text": "Un lăcaș de cult islamic recunoscut, care deservește comunitatea din apropierea zonei industriale Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.397561,
+                        4.567755
+                  ]
+            },
+            {
+                  "name": "Masjid Pengkalan Ranggon",
+                  "text": "Un lăcaș de cult islamic care răspunde nevoilor rezidenților din regiunea petrochimică Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.404507,
+                        4.550176
+                  ]
+            },
+            {
+                  "name": "Masjid Kg Labohan",
+                  "text": "O moschee islamică situată lângă Dealul Labuhan, în zona economică Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.45706,
+                        4.542729
+                  ]
+            },
+            {
+                  "name": "Surau Biru",
+                  "text": "O sală de rugăciune islamică care sprijină viața spirituală a comunității locale din Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43974,
+                        4.484333
+                  ]
+            },
+            {
+                  "name": "Masjid Chabang",
+                  "text": "O moschee islamică care deservește credincioșii din vecinătatea complexului petrochimic Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.404664,
+                        4.472308
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Feri",
+                  "text": "O sală de rugăciune islamică care acomodează nevoile religioase ale rezidenților din zona industrială Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.451437,
+                        4.424543
+                  ]
+            },
+            {
+                  "name": "Surau Hijau",
+                  "text": "Un lăcaș de cult islamic care oferă un spațiu de adunare comunitară în regiunea Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.434228,
+                        4.478458
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "O sală de rugăciune islamică locală care deservește comunitatea de lângă complexul petrochimic Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.408492,
+                        4.480925
+                  ]
+            },
+            {
+                  "name": "Surau At Taqwa",
+                  "text": "O sală de rugăciune islamică numită At Taqwa, oferind un lăcaș de cult pentru comunitatea musulmană din jurul Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.448142,
+                        4.518021
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tengah",
+                  "text": "O moschee locală situată în Kampung Tengah, care răspunde nevoilor religioase ale satului din apropiere de Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.448164,
+                        4.513015
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kerteh",
+                  "text": "Principala moschee islamică a congregației din zona Kerteh, care adună comunitatea locală pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        103.444775,
+                        4.513997
+                  ]
+            },
+            {
+                  "name": "Surau Taman Wan Adnan",
+                  "text": "O facilitate de rugăciune islamică situată în Taman Wan Adnan, care deservește cartierul rezidențial de lângă complexul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43771,
+                        4.508048
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Kampung Baru",
+                  "text": "Vechea moschee islamică din Kampung Baru, păstrând moștenirea religioasă tradițională a satului din apropiere de Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.4387,
+                        4.495635
+                  ]
+            },
+            {
+                  "name": "Masjid Lama",
+                  "text": "O moschee islamică istorică din vecinătatea Kerteh, care reflectă stilurile arhitecturale anterioare ale lăcașurilor de cult locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452849,
+                        4.426316
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kemasek",
+                  "text": "Principala moschee congregațională din vecina Kemasek, acționând ca un centru spiritual islamic major lângă Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452198,
+                        4.42119
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Selasa",
+                  "text": "O piață de noapte plină de viață, deschisă marțea, care oferă mâncare stradală locală, produse proaspete și bunuri în zona Kerteh.",
+                  "category": "cultural",
+                  "coords": [
+                        103.439176,
+                        4.509241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Kundur",
+                  "text": "A globally documented mountain peak overlooking the Kerteh petrochemical region.",
+                  "category": "natural",
+                  "coords": [
+                        103.366676,
+                        4.477132
+                  ]
+            },
+            {
+                  "name": "Bukit Mempusi",
+                  "text": "A notable peak offering elevated views of the surrounding Kerteh industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        103.415,
+                        4.503333
+                  ]
+            },
+            {
+                  "name": "Lusi Mountain",
+                  "text": "A recognized mountain peak rising above the Kerteh petrochemical complex area.",
+                  "category": "natural",
+                  "coords": [
+                        103.445,
+                        4.548333
+                  ]
+            },
+            {
+                  "name": "Labuhan Hill",
+                  "text": "A notable hilltop feature set against the backdrop of the Kerteh industrial and coastal zone.",
+                  "category": "natural",
+                  "coords": [
+                        103.46397,
+                        4.527649
+                  ]
+            },
+            {
+                  "name": "Bukit Palus",
+                  "text": "A recognized mountain peak forming part of the terrain near the Kerteh energy hub.",
+                  "category": "natural",
+                  "coords": [
+                        103.429381,
+                        4.454561
+                  ]
+            },
+            {
+                  "name": "Kertih Terminal breakwater, South head.",
+                  "text": "A maritime lighthouse situated on the southern breakwater of the Kerteh Terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.467445,
+                        4.585397
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Mizan Zainal Abidin",
+                  "text": "A globally notable Islamic place of worship distinguished by its striking architecture in Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.440228,
+                        4.501281
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Batu Putih",
+                  "text": "A recognized Islamic place of worship serving the community near the Kerteh industrial zone.",
+                  "category": "religious",
+                  "coords": [
+                        103.397561,
+                        4.567755
+                  ]
+            },
+            {
+                  "name": "Pengkalan Ranggon Mosque",
+                  "text": "An Islamic place of worship catering to the residents of the Kerteh petrochemical region.",
+                  "category": "religious",
+                  "coords": [
+                        103.404507,
+                        4.550176
+                  ]
+            },
+            {
+                  "name": "Masjid Kg Labohan",
+                  "text": "An Islamic mosque located near Labuhan Hill within the Kerteh economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        103.45706,
+                        4.542729
+                  ]
+            },
+            {
+                  "name": "Surau Biru",
+                  "text": "An Islamic prayer hall supporting the spiritual life of the local Kerteh community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43974,
+                        4.484333
+                  ]
+            },
+            {
+                  "name": "Masjid Chabang",
+                  "text": "An Islamic mosque serving worshippers in the vicinity of the Kerteh petrochemical complex.",
+                  "category": "landmark",
+                  "coords": [
+                        103.404664,
+                        4.472308
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Feri",
+                  "text": "An Islamic prayer room accommodating the religious needs of the Kerteh industrial area's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        103.451437,
+                        4.424543
+                  ]
+            },
+            {
+                  "name": "Surau Hijau",
+                  "text": "An Islamic place of worship providing a community gathering space in the Kerteh region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.434228,
+                        4.478458
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "A local Islamic prayer room serving the community near the Kerteh Petrochemical Complex.",
+                  "category": "landmark",
+                  "coords": [
+                        103.408492,
+                        4.480925
+                  ]
+            },
+            {
+                  "name": "Surau At Taqwa",
+                  "text": "An Islamic prayer room named At Taqwa, providing a place of worship for the Muslim community around Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.448142,
+                        4.518021
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tengah",
+                  "text": "A local mosque situated in Kampung Tengah, catering to the religious needs of the village near Kerteh.",
+                  "category": "religious",
+                  "coords": [
+                        103.448164,
+                        4.513015
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kerteh",
+                  "text": "The main Islamic congregational mosque for the Kerteh area, gathering the local community for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.444775,
+                        4.513997
+                  ]
+            },
+            {
+                  "name": "Surau Taman Wan Adnan",
+                  "text": "An Islamic prayer facility located in Taman Wan Adnan, serving the residential neighborhood near the industrial complex.",
+                  "category": "landmark",
+                  "coords": [
+                        103.43771,
+                        4.508048
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Kampung Baru",
+                  "text": "The old Islamic mosque of Kampung Baru, preserving the traditional religious heritage of the village near Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.4387,
+                        4.495635
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "A historical Islamic mosque in the Kerteh vicinity, reflecting the earlier architectural styles of local places of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452849,
+                        4.426316
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kemasek",
+                  "text": "The principal congregational mosque in neighboring Kemasek, acting as a major Islamic spiritual center near Kerteh.",
+                  "category": "landmark",
+                  "coords": [
+                        103.452198,
+                        4.42119
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Selasa",
+                  "text": "A lively Tuesday night market offering local street food, fresh produce, and goods in the Kerteh area.",
+                  "category": "cultural",
+                  "coords": [
+                        103.439176,
+                        4.509241
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "MY-11",
     coords: [103.45, 4.51],
@@ -243,7 +4851,628 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "pasir-gudang-heavy-industry-economic-v2",
+    id: "pasir-gudang-heavy-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kite Museum Pasir Gudang",
+                  "text": "Das Kite Museum Pasir Gudang in Johor widmet sich der Geschichte und Handwerkskunst traditioneller Drachen (Wau).",
+                  "category": "museum",
+                  "coords": [
+                        103.906061,
+                        1.474044
+                  ]
+            },
+            {
+                  "name": "MMHE-Malaysia Marine Heavy Engineering",
+                  "text": "Von MMHE (Malaysia Marine Heavy Engineering) in Pasir Gudang hat man einen guten Blick auf die massiven Schiffs- und Offshore-Bauwerke.",
+                  "category": "natural",
+                  "coords": [
+                        103.880012,
+                        1.455138
+                  ]
+            },
+            {
+                  "name": "Menara Aqabah (Majlis Bandaraya Pasir Gudang)",
+                  "text": "Menara Aqabah dient als Hauptquartier des Stadtrats von Pasir Gudang und ist ein markantes städtisches Verwaltungsgebäude.",
+                  "category": "historical",
+                  "coords": [
+                        103.902259,
+                        1.467043
+                  ]
+            },
+            {
+                  "name": "Masjid Politeknik Ibrahim Sultan",
+                  "text": "Die Masjid Politeknik Ibrahim Sultan ist die zentrale Moschee auf dem Campus der Bildungseinrichtung in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918017,
+                        1.504382
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Cahaya Baru",
+                  "text": "Die Masjid Jamek Kampung Cahaya Baru ist eine Gemeindemoschee für die Bewohner des gleichnamigen Dorfes in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.932952,
+                        1.524737
+                  ]
+            },
+            {
+                  "name": "Surau Al - Husna",
+                  "text": "Surau Al-Husna ist ein lokaler islamischer Versammlungs- und Gebetsort im Stadtgebiet von Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881826,
+                        1.496492
+                  ]
+            },
+            {
+                  "name": "Surau Kancil",
+                  "text": "Surau Kancil ist eine kleinere Moschee, die alltägliche Gebetsdienste in Pasir Gudang anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        103.912111,
+                        1.496166
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hikmah",
+                  "text": "Surau Al-Hikmah dient als muslimischer Kultplatz in der Gemeinde von Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917205,
+                        1.496854
+                  ]
+            },
+            {
+                  "name": "Surau Alpinia",
+                  "text": "Surau Alpinia ist ein von den Anwohnern genutzter islamischer Gebetsraum in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918065,
+                        1.494185
+                  ]
+            },
+            {
+                  "name": "Majid Jamek Kampung Kopok Baru",
+                  "text": "Die Majid Jamek Kampung Kopok Baru ist die Hauptmoschee für die muslimische Bevölkerung in diesem Ortsteil von Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.926627,
+                        1.513425
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "Surau Raudhatul Jannah ist ein Gebets- und Gemeindezentrum für Muslime in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873447,
+                        1.477759
+                  ]
+            },
+            {
+                  "name": "Al-Kauthar",
+                  "text": "Al-Kauthar ist eine islamische Kultstätte im Umkreis von Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877726,
+                        1.489334
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajirin",
+                  "text": "Die Masjid Al-Muhajirin bietet der örtlichen Gemeinde in Pasir Gudang spirituellen Raum.",
+                  "category": "landmark",
+                  "coords": [
+                        103.880532,
+                        1.490427
+                  ]
+            },
+            {
+                  "name": "Masjid Nusa Damai",
+                  "text": "Die Masjid Nusa Damai ist die zentrale Moschee für das Wohngebiet Nusa Damai in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899863,
+                        1.501154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser Surau in Pasir Gudang dient als Nachbarschaftsgebetsraum für die lokale muslimische Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        103.906769,
+                        1.498156
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Pasir Gudang",
+                  "text": "Die Masjid Jamek Pasir Gudang ist eine große Hauptmoschee, die das städtische Zentrum von Pasir Gudang dominiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.90281,
+                        1.475177
+                  ]
+            },
+            {
+                  "name": "IKHDZA Enterprise",
+                  "text": "IKHDZA Enterprise ist ein lokaler Marktplatz für Handelswaren im Industriegürtel von Pasir Gudang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930875,
+                        1.522883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kite Museum Pasir Gudang",
+                  "text": "A johori Kite Museum Pasir Gudang a hagyományos sárkányok (wau) történetének és kézművességének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        103.906061,
+                        1.474044
+                  ]
+            },
+            {
+                  "name": "MMHE-Malaysia Marine Heavy Engineering",
+                  "text": "A pasir gudangi MMHE (Malaysia Marine Heavy Engineering) kilátást nyújt a hatalmas hajó- és tengeri építményekre.",
+                  "category": "natural",
+                  "coords": [
+                        103.880012,
+                        1.455138
+                  ]
+            },
+            {
+                  "name": "Menara Aqabah (Majlis Bandaraya Pasir Gudang)",
+                  "text": "A Menara Aqabah a Pasir Gudang-i Városi Tanács központjaként működik, és egy jelentős városi közigazgatási épület.",
+                  "category": "historical",
+                  "coords": [
+                        103.902259,
+                        1.467043
+                  ]
+            },
+            {
+                  "name": "Masjid Politeknik Ibrahim Sultan",
+                  "text": "A Masjid Politeknik Ibrahim Sultan a pasir gudangi oktatási intézmény kampuszának központi mecsete.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918017,
+                        1.504382
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Cahaya Baru",
+                  "text": "A Masjid Jamek Kampung Cahaya Baru egy közösségi mecset az azonos nevű falu lakói számára Pasir Gudangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.932952,
+                        1.524737
+                  ]
+            },
+            {
+                  "name": "Surau Al - Husna",
+                  "text": "A Surau Al-Husna egy helyi iszlám gyülekezeti és imahely Pasir Gudang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881826,
+                        1.496492
+                  ]
+            },
+            {
+                  "name": "Surau Kancil",
+                  "text": "A Surau Kancil egy kisebb mecset, amely mindennapi imaszolgálatokat kínál Pasir Gudangban.",
+                  "category": "religious",
+                  "coords": [
+                        103.912111,
+                        1.496166
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hikmah",
+                  "text": "A Surau Al-Hikmah muszlim istentiszteleti helyként szolgál Pasir Gudang közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917205,
+                        1.496854
+                  ]
+            },
+            {
+                  "name": "Surau Alpinia",
+                  "text": "A Surau Alpinia a környékbeliek által használt iszlám imaterem Pasir Gudangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918065,
+                        1.494185
+                  ]
+            },
+            {
+                  "name": "Majid Jamek Kampung Kopok Baru",
+                  "text": "A Majid Jamek Kampung Kopok Baru a fő mecset a muszlim lakosság számára Pasir Gudang ezen városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.926627,
+                        1.513425
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "A Surau Raudhatul Jannah a muszlimok imaháza és közösségi központja Pasir Gudangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873447,
+                        1.477759
+                  ]
+            },
+            {
+                  "name": "Al-Kauthar",
+                  "text": "Az Al-Kauthar egy iszlám istentiszteleti hely Pasir Gudang környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877726,
+                        1.489334
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajirin",
+                  "text": "A Masjid Al-Muhajirin spirituális teret biztosít a helyi közösség számára Pasir Gudangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.880532,
+                        1.490427
+                  ]
+            },
+            {
+                  "name": "Masjid Nusa Damai",
+                  "text": "A Masjid Nusa Damai a Nusa Damai lakónegyed központi mecsete Pasir Gudangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899863,
+                        1.501154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a pasir gudangi surau a helyi muszlim lakosság szomszédsági imatermeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.906769,
+                        1.498156
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Pasir Gudang",
+                  "text": "A Masjid Jamek Pasir Gudang egy nagy fő mecset, amely Pasir Gudang városközpontját uralja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.90281,
+                        1.475177
+                  ]
+            },
+            {
+                  "name": "IKHDZA Enterprise",
+                  "text": "Az IKHDZA Enterprise egy helyi piactér és kereskedelmi központ Pasir Gudang ipari övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930875,
+                        1.522883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kite Museum Pasir Gudang",
+                  "text": "Muzeul Zmeielor Pasir Gudang din Johor este dedicat istoriei și meșteșugului zmeielor tradiționale (wau).",
+                  "category": "museum",
+                  "coords": [
+                        103.906061,
+                        1.474044
+                  ]
+            },
+            {
+                  "name": "MMHE-Malaysia Marine Heavy Engineering",
+                  "text": "MMHE (Malaysia Marine Heavy Engineering) din Pasir Gudang oferă o perspectivă asupra construcțiilor navale și offshore masive.",
+                  "category": "natural",
+                  "coords": [
+                        103.880012,
+                        1.455138
+                  ]
+            },
+            {
+                  "name": "Menara Aqabah (Majlis Bandaraya Pasir Gudang)",
+                  "text": "Menara Aqabah servește drept sediu al Consiliului Local Pasir Gudang și este o clădire administrativă municipală proeminentă.",
+                  "category": "historical",
+                  "coords": [
+                        103.902259,
+                        1.467043
+                  ]
+            },
+            {
+                  "name": "Masjid Politeknik Ibrahim Sultan",
+                  "text": "Masjid Politeknik Ibrahim Sultan este moscheea centrală din campusul instituției de învățământ din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918017,
+                        1.504382
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Cahaya Baru",
+                  "text": "Masjid Jamek Kampung Cahaya Baru este o moschee comunitară pentru locuitorii satului omonim din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.932952,
+                        1.524737
+                  ]
+            },
+            {
+                  "name": "Surau Al - Husna",
+                  "text": "Surau Al-Husna este un loc de adunare și rugăciune islamic local din zona urbană Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881826,
+                        1.496492
+                  ]
+            },
+            {
+                  "name": "Surau Kancil",
+                  "text": "Surau Kancil este o moschee mai mică, care oferă servicii de rugăciune zilnice în Pasir Gudang.",
+                  "category": "religious",
+                  "coords": [
+                        103.912111,
+                        1.496166
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hikmah",
+                  "text": "Surau Al-Hikmah servește drept lăcaș de cult musulman în comunitatea din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917205,
+                        1.496854
+                  ]
+            },
+            {
+                  "name": "Surau Alpinia",
+                  "text": "Surau Alpinia este o sală de rugăciune islamică folosită de locuitorii din împrejurimi în Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918065,
+                        1.494185
+                  ]
+            },
+            {
+                  "name": "Majid Jamek Kampung Kopok Baru",
+                  "text": "Majid Jamek Kampung Kopok Baru este moscheea principală pentru populația musulmană din această parte a orașului Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.926627,
+                        1.513425
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "Surau Raudhatul Jannah este o sală de rugăciune și centru comunitar pentru musulmanii din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873447,
+                        1.477759
+                  ]
+            },
+            {
+                  "name": "Al-Kauthar",
+                  "text": "Al-Kauthar este un lăcaș de cult islamic în vecinătatea orașului Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877726,
+                        1.489334
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajirin",
+                  "text": "Masjid Al-Muhajirin oferă un spațiu spiritual comunității locale din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.880532,
+                        1.490427
+                  ]
+            },
+            {
+                  "name": "Masjid Nusa Damai",
+                  "text": "Masjid Nusa Damai este moscheea centrală pentru zona rezidențială Nusa Damai din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899863,
+                        1.501154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Acest surau din Pasir Gudang servește drept sală de rugăciune de cartier pentru populația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.906769,
+                        1.498156
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Pasir Gudang",
+                  "text": "Masjid Jamek Pasir Gudang este o moschee principală mare, care domină centrul urban din Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.90281,
+                        1.475177
+                  ]
+            },
+            {
+                  "name": "IKHDZA Enterprise",
+                  "text": "IKHDZA Enterprise este o piață locală de mărfuri comerciale în centura industrială din Pasir Gudang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930875,
+                        1.522883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kite Museum Pasir Gudang",
+                  "text": "The Kite Museum Pasir Gudang in Johor is dedicated to the history and craftsmanship of traditional kites (wau).",
+                  "category": "museum",
+                  "coords": [
+                        103.906061,
+                        1.474044
+                  ]
+            },
+            {
+                  "name": "MMHE-Malaysia Marine Heavy Engineering",
+                  "text": "MMHE (Malaysia Marine Heavy Engineering) in Pasir Gudang provides a viewpoint over massive maritime and offshore constructions.",
+                  "category": "natural",
+                  "coords": [
+                        103.880012,
+                        1.455138
+                  ]
+            },
+            {
+                  "name": "Menara Aqabah (Pasir Gudang City Council)",
+                  "text": "Menara Aqabah serves as the headquarters of the Pasir Gudang City Council, forming a prominent civic administrative building.",
+                  "category": "historical",
+                  "coords": [
+                        103.902259,
+                        1.467043
+                  ]
+            },
+            {
+                  "name": "Masjid Politeknik Ibrahim Sultan",
+                  "text": "Masjid Politeknik Ibrahim Sultan is the central mosque serving the campus of the educational institute in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918017,
+                        1.504382
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Cahaya Baru",
+                  "text": "Masjid Jamek Kampung Cahaya Baru is a community mosque for the residents of the titular village in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.932952,
+                        1.524737
+                  ]
+            },
+            {
+                  "name": "Surau Al - Husna",
+                  "text": "Surau Al-Husna is a local Islamic gathering and prayer place in the Pasir Gudang urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881826,
+                        1.496492
+                  ]
+            },
+            {
+                  "name": "Surau Kancil",
+                  "text": "Surau Kancil is a smaller mosque accommodating daily prayer services in Pasir Gudang.",
+                  "category": "religious",
+                  "coords": [
+                        103.912111,
+                        1.496166
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hikmah",
+                  "text": "Surau Al-Hikmah serves as a Muslim worship space within the Pasir Gudang community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917205,
+                        1.496854
+                  ]
+            },
+            {
+                  "name": "Surau Alpinia",
+                  "text": "Surau Alpinia is an Islamic prayer hall used by local residents in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.918065,
+                        1.494185
+                  ]
+            },
+            {
+                  "name": "Majid Jamek Kampung Kopok Baru",
+                  "text": "Majid Jamek Kampung Kopok Baru is the principal mosque for the Muslim populace in this part of Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.926627,
+                        1.513425
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "Surau Raudhatul Jannah is a prayer and community center for Muslims in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873447,
+                        1.477759
+                  ]
+            },
+            {
+                  "name": "Al-Kauthar",
+                  "text": "Al-Kauthar is an Islamic place of worship situated in the vicinity of Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877726,
+                        1.489334
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajirin",
+                  "text": "Masjid Al-Muhajirin provides a spiritual space for the local congregation in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.880532,
+                        1.490427
+                  ]
+            },
+            {
+                  "name": "Masjid Nusa Damai",
+                  "text": "Masjid Nusa Damai is the central mosque catering to the Nusa Damai residential area in Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899863,
+                        1.501154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This surau in Pasir Gudang serves as a neighborhood prayer hall for the local Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        103.906769,
+                        1.498156
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Pasir Gudang",
+                  "text": "Masjid Jamek Pasir Gudang is a large principal mosque that anchors the urban center of Pasir Gudang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.90281,
+                        1.475177
+                  ]
+            },
+            {
+                  "name": "IKHDZA Enterprise",
+                  "text": "IKHDZA Enterprise operates as a local marketplace for commercial goods within the Pasir Gudang industrial belt.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930875,
+                        1.522883
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MY-01",
     coords: [103.9, 1.46],
@@ -291,7 +5520,736 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bintulu-lng-complex-energy-economic-v2",
+    id: "bintulu-lng-complex-energy-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Clock Tower Bintulu",
+                  "text": "Der Uhrturm von Bintulu ist ein markantes Wahrzeichen und Denkmal im geschäftigen Zentrum dieser Energiemetropole.",
+                  "category": "historical",
+                  "coords": [
+                        113.03886,
+                        3.17325
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "Diese Außenskulptur bietet ein Stück öffentlicher Kunst für Einwohner und Besucher, die das Stadtzentrum von Bintulu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Tumbina Bintulu",
+                  "text": "Taman Tumbina in Bintulu ist ein kombinierter botanischer und zoologischer Garten auf einer hügeligen Landschaft nahe der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        113.047415,
+                        3.204337
+                  ]
+            },
+            {
+                  "name": "Batu Cape Beach",
+                  "text": "Batu Cape Beach ist eine malerische Küstenattraktion, die für ihre Sandstrände am Südchinesischen Meer in Bintulu bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046264,
+                        3.209828
+                  ]
+            },
+            {
+                  "name": "Jeti Perahu Pantai ABF",
+                  "text": "Der ABF Beach Perahu Jetty dient als malerischer Holzsteg für kleine traditionelle Boote entlang der Küste von Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.062714,
+                        3.227146
+                  ]
+            },
+            {
+                  "name": "BTU metrology",
+                  "text": "Der Metrologie-Standort BTU bietet einen klaren Aussichtspunkt über die Industrieanlagen und die Umgebung von Bintulu.",
+                  "category": "natural",
+                  "coords": [
+                        113.085722,
+                        3.220908
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Bintulu",
+                  "text": "Der Bintulu Night Market ist eine lebhafte Straßenattraktion, die unter Abendbeleuchtung lokales Streetfood und Waren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044303,
+                        3.171203
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Dieser traditionelle chinesisch-buddhistische Tempel bietet ein farbenfrohes, spirituelles Heiligtum für Gläubige in der Stadt Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.047186,
+                        3.176376
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong",
+                  "text": "Tokong Tua Pek Kong ist ein verzierter buddhistischer Tempel mit klassischer chinesischer Architektur in der Küstenstadt Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.041918,
+                        3.170627
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Diese lokale Methodistenkirche dient als christlicher Versammlungsort für Gottesdienste und Gemeindeveranstaltungen in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046788,
+                        3.17817
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa RPR Sebiew Bintulu",
+                  "text": "Masjid At-Taqwa RPR Sebiew ist eine bedeutende Moschee, die der muslimischen Gemeinde in Bintulu als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        113.049691,
+                        3.172364
+                  ]
+            },
+            {
+                  "name": "Sebiew Methodist Church",
+                  "text": "Die Sebiew Methodist Church ist ein etabliertes christliches Gotteshaus im Wohngebiet Sebiew von Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.064656,
+                        3.178052
+                  ]
+            },
+            {
+                  "name": "The Church of God of Bintulu",
+                  "text": "The Church of God of Bintulu heißt Gläubige zu ihren christlichen Gottesdiensten in dieser energiegeladenen ostmalaysischen Stadt willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        113.063965,
+                        3.198435
+                  ]
+            },
+            {
+                  "name": "seaside mosque",
+                  "text": "Diese malerische Moschee am Meer bietet eine ruhige Atmosphäre für muslimische Gebete mit Blick auf das Wasser in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.048882,
+                        3.213372
+                  ]
+            },
+            {
+                  "name": "Emmanuel Methodist Church",
+                  "text": "Die Emmanuel Methodist Church ist ein christliches Gemeindegebäude, das lokale Familien und das religiöse Leben in Bintulu unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.065402,
+                        3.22824
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "Die große Assyakirin-Moschee ist ein bedeutendes islamisches Zentrum für Gebete und religiöse Zusammenkünfte in der Stadt Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.054688,
+                        3.202147
+                  ]
+            },
+            {
+                  "name": "Surau Darus Syakirin",
+                  "text": "Surau Darus Syakirin ist eine kleinere Nachbarschaftsmoschee, die den in Bintulu lebenden Muslimen die täglichen Gebete erleichtert.",
+                  "category": "religious",
+                  "coords": [
+                        113.078239,
+                        3.281221
+                  ]
+            },
+            {
+                  "name": "Pasar Utama Bintulu",
+                  "text": "Pasar Utama Bintulu ist die überdachte Markthalle, in der Einheimische frisches Obst und Gemüse, Fleisch und Dinge des täglichen Bedarfs einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        113.040461,
+                        3.170423
+                  ]
+            },
+            {
+                  "name": "open air stall",
+                  "text": "Dieser Open-Air-Stand bietet ein ungezwungenes Markterlebnis, bei dem Verkäufer Snacks und Kleinigkeiten in Bintulu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        113.079249,
+                        3.195294
+                  ]
+            },
+            {
+                  "name": "Pasar Tamu Baru BDA (Lembaga Kemajuan Bintulu)",
+                  "text": "Dieser modernisierte Tamu-Markt, der von der lokalen Entwicklungsbehörde überwacht wird, verbindet ländliche Bauern mit städtischen Käufern in Bintulu.",
+                  "category": "cultural",
+                  "coords": [
+                        113.101046,
+                        3.267094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clock Tower Bintulu",
+                  "text": "A Bintulu óratorony kiemelkedő tájékozódási pont és műemlék ennek az energiaközpont-városnak a nyüzsgő szívében.",
+                  "category": "historical",
+                  "coords": [
+                        113.03886,
+                        3.17325
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "Ez a szabadtéri szobor egy köztéri műalkotás a Bintulu városközpontját felfedező lakosok és látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Tumbina Bintulu",
+                  "text": "A bintului Taman Tumbina egy kombinált botanikus és zoológiai kert, amely a város közelében, egy dombos vidéken fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        113.047415,
+                        3.204337
+                  ]
+            },
+            {
+                  "name": "Batu Cape Beach",
+                  "text": "A Batu Cape Beach egy festői tengerparti látványosság, amely homokos partjairól ismert a Dél-kínai-tenger mentén, Bintuluban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046264,
+                        3.209828
+                  ]
+            },
+            {
+                  "name": "Jeti Perahu Pantai ABF",
+                  "text": "Az ABF Beach Perahu móló festői fa dokkként szolgál kis hagyományos csónakok számára a Bintulu partvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        113.062714,
+                        3.227146
+                  ]
+            },
+            {
+                  "name": "BTU metrology",
+                  "text": "A BTU metrológiai helyszín tiszta kilátást nyújt a bintului ipari létesítményekre és a környező területekre.",
+                  "category": "natural",
+                  "coords": [
+                        113.085722,
+                        3.220908
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Bintulu",
+                  "text": "A Bintulu éjszakai piac egy nyüzsgő utcai látványosság, amely esti fények alatt kínál helyi utcai ételeket és árukat.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044303,
+                        3.171203
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Ez a hagyományos kínai buddhista templom színes, spirituális szentélyt nyújt a hívők számára Bintulu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.047186,
+                        3.176376
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong",
+                  "text": "A Tokong Tua Pek Kong egy díszes buddhista templom, klasszikus kínai építészettel Bintulu tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.041918,
+                        3.170627
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Ez a helyi metodista templom keresztény gyülekezeti helyként szolgál istentiszteletek és közösségi események számára Bintuluban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046788,
+                        3.17817
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa RPR Sebiew Bintulu",
+                  "text": "A Masjid At-Taqwa RPR Sebiew egy kiemelkedő mecset, amely imádkozási helyet biztosít a bintului muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        113.049691,
+                        3.172364
+                  ]
+            },
+            {
+                  "name": "Sebiew Methodist Church",
+                  "text": "A Sebiew Metodista Templom egy bejáratott keresztény istentiszteleti hely Bintulu Sebiew lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        113.064656,
+                        3.178052
+                  ]
+            },
+            {
+                  "name": "The Church of God of Bintulu",
+                  "text": "A Bintulu-i Isten Egyháza üdvözli a hívőket keresztény istentiszteletein ebben az energikus kelet-malajziai városban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.063965,
+                        3.198435
+                  ]
+            },
+            {
+                  "name": "seaside mosque",
+                  "text": "Ez a festői tengerparti mecset nyugodt légkört kínál a muszlim imákhoz, kilátással Bintulu vizeire.",
+                  "category": "landmark",
+                  "coords": [
+                        113.048882,
+                        3.213372
+                  ]
+            },
+            {
+                  "name": "Emmanuel Methodist Church",
+                  "text": "Az Emmanuel Metodista Templom egy keresztény gyülekezeti épület, amely a helyi családokat és a vallási életet támogatja Bintuluban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.065402,
+                        3.22824
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "A nagyszerű Assyakirin mecset a bintului iszlám imádkozás és vallási összejövetelek egyik fő központja.",
+                  "category": "landmark",
+                  "coords": [
+                        113.054688,
+                        3.202147
+                  ]
+            },
+            {
+                  "name": "Surau Darus Syakirin",
+                  "text": "A Surau Darus Syakirin egy kisebb környékbeli mecset, amely megkönnyíti a Bintuluban élő muszlimok napi imáit.",
+                  "category": "religious",
+                  "coords": [
+                        113.078239,
+                        3.281221
+                  ]
+            },
+            {
+                  "name": "Pasar Utama Bintulu",
+                  "text": "A Pasar Utama Bintulu a fő fedett piac, ahol a helyiek friss terményeket, húst és napi szükségleti cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        113.040461,
+                        3.170423
+                  ]
+            },
+            {
+                  "name": "open air stall",
+                  "text": "Ez a szabadtéri stand kötetlen piaci élményt kínál, ahol az árusok harapnivalókat és apró cikkeket árulnak Bintuluban.",
+                  "category": "cultural",
+                  "coords": [
+                        113.079249,
+                        3.195294
+                  ]
+            },
+            {
+                  "name": "Pasar Tamu Baru BDA (Lembaga Kemajuan Bintulu)",
+                  "text": "A helyi fejlesztési hatóság által felügyelt modernizált Tamu piac összeköti a vidéki gazdákat a bintului városi vásárlókkal.",
+                  "category": "cultural",
+                  "coords": [
+                        113.101046,
+                        3.267094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clock Tower Bintulu",
+                  "text": "Turnul cu ceas Bintulu este un reper și un monument proeminent aflat în inima plină de viață a acestui oraș energetic.",
+                  "category": "historical",
+                  "coords": [
+                        113.03886,
+                        3.17325
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "Această sculptură în aer liber oferă o operă de artă publică pentru rezidenții și vizitatorii care explorează centrul orașului Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Tumbina Bintulu",
+                  "text": "Taman Tumbina din Bintulu este o grădină botanică și zoologică combinată, situată pe un peisaj deluros în apropierea orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        113.047415,
+                        3.204337
+                  ]
+            },
+            {
+                  "name": "Batu Cape Beach",
+                  "text": "Batu Cape Beach este o atracție de coastă pitorească, cunoscută pentru țărmurile sale de nisip de-a lungul Mării Chinei de Sud din Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046264,
+                        3.209828
+                  ]
+            },
+            {
+                  "name": "Jeti Perahu Pantai ABF",
+                  "text": "Debarcaderul ABF Beach Perahu servește ca un doc pitoresc din lemn pentru bărcile tradiționale mici de-a lungul coastei Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.062714,
+                        3.227146
+                  ]
+            },
+            {
+                  "name": "BTU metrology",
+                  "text": "Situl de metrologie BTU oferă un punct de belvedere clar asupra instalațiilor industriale și a zonelor înconjurătoare din Bintulu.",
+                  "category": "natural",
+                  "coords": [
+                        113.085722,
+                        3.220908
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Bintulu",
+                  "text": "Piața de noapte din Bintulu este o atracție stradală plină de viață, care oferă mâncare stradală locală și bunuri sub luminile serii.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044303,
+                        3.171203
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Acest templu budist chinezesc tradițional oferă un sanctuar spiritual colorat pentru credincioșii din orașul Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.047186,
+                        3.176376
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong",
+                  "text": "Tokong Tua Pek Kong este un templu budist ornamentat, cu o arhitectură chineză clasică, în orașul de coastă Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.041918,
+                        3.170627
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Această biserică metodistă locală servește ca loc de adunare creștin pentru închinare și evenimente comunitare în Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046788,
+                        3.17817
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa RPR Sebiew Bintulu",
+                  "text": "Masjid At-Taqwa RPR Sebiew este o moschee proeminentă care oferă un loc de rugăciune pentru comunitatea musulmană din Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.049691,
+                        3.172364
+                  ]
+            },
+            {
+                  "name": "Sebiew Methodist Church",
+                  "text": "Biserica metodistă Sebiew este un lăcaș de cult creștin consacrat, situat în zona rezidențială Sebiew din Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.064656,
+                        3.178052
+                  ]
+            },
+            {
+                  "name": "The Church of God of Bintulu",
+                  "text": "Biserica lui Dumnezeu din Bintulu întâmpină credincioșii la slujbele sale creștine în acest oraș energic din Malaezia de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        113.063965,
+                        3.198435
+                  ]
+            },
+            {
+                  "name": "seaside mosque",
+                  "text": "Această moschee pitorească de pe litoral oferă o atmosferă liniștită pentru rugăciunile musulmane, cu vedere la apele din Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.048882,
+                        3.213372
+                  ]
+            },
+            {
+                  "name": "Emmanuel Methodist Church",
+                  "text": "Biserica Metodistă Emmanuel este o clădire de congregație creștină care sprijină familiile locale și viața religioasă din Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.065402,
+                        3.22824
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "Marea Moschee Assyakirin este un centru islamic major pentru rugăciune și adunare religioasă în orașul Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.054688,
+                        3.202147
+                  ]
+            },
+            {
+                  "name": "Surau Darus Syakirin",
+                  "text": "Surau Darus Syakirin este o moschee mai mică de cartier care facilitează rugăciunile zilnice pentru musulmanii care trăiesc în Bintulu.",
+                  "category": "religious",
+                  "coords": [
+                        113.078239,
+                        3.281221
+                  ]
+            },
+            {
+                  "name": "Pasar Utama Bintulu",
+                  "text": "Pasar Utama Bintulu este principala piață acoperită unde localnicii achiziționează produse proaspete, carne și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        113.040461,
+                        3.170423
+                  ]
+            },
+            {
+                  "name": "open air stall",
+                  "text": "Această tarabă în aer liber oferă o experiență de piață casual, unde vânzătorii vând gustări și articole mici în Bintulu.",
+                  "category": "cultural",
+                  "coords": [
+                        113.079249,
+                        3.195294
+                  ]
+            },
+            {
+                  "name": "Pasar Tamu Baru BDA (Lembaga Kemajuan Bintulu)",
+                  "text": "Supravegheată de autoritatea locală de dezvoltare, această piață modernizată Tamu conectează fermierii din mediul rural cu cumpărătorii urbani din Bintulu.",
+                  "category": "cultural",
+                  "coords": [
+                        113.101046,
+                        3.267094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clock Tower Bintulu",
+                  "text": "The Clock Tower Bintulu is a prominent landmark and monument standing in the bustling heart of this energy-hub city.",
+                  "category": "historical",
+                  "coords": [
+                        113.03886,
+                        3.17325
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "This outdoor sculpture provides a piece of public art for residents and visitors exploring the Bintulu city centre.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Tumbina Bintulu",
+                  "text": "Taman Tumbina in Bintulu is a combined botanical and zoological garden situated on a hilly landscape near the town.",
+                  "category": "recreational",
+                  "coords": [
+                        113.047415,
+                        3.204337
+                  ]
+            },
+            {
+                  "name": "Batu Cape Beach",
+                  "text": "Batu Cape Beach is a scenic coastal attraction known for its sandy shores along the South China Sea in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046264,
+                        3.209828
+                  ]
+            },
+            {
+                  "name": "ABF Beach Perahu Jetty",
+                  "text": "The ABF Beach Perahu Jetty serves as a picturesque wooden dock for small traditional boats along the Bintulu coast.",
+                  "category": "landmark",
+                  "coords": [
+                        113.062714,
+                        3.227146
+                  ]
+            },
+            {
+                  "name": "BTU metrology",
+                  "text": "The BTU metrology site offers a clear viewpoint over the industrial installations and surrounding areas of Bintulu.",
+                  "category": "natural",
+                  "coords": [
+                        113.085722,
+                        3.220908
+                  ]
+            },
+            {
+                  "name": "Bintulu Night Market",
+                  "text": "The Bintulu Night Market is a bustling street attraction offering local street food and goods under evening lights.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044303,
+                        3.171203
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "This traditional Chinese Buddhist temple provides a colourful, spiritual sanctuary for worshippers in the city of Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.047186,
+                        3.176376
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong",
+                  "text": "Tokong Tua Pek Kong is an ornate Buddhist temple featuring classic Chinese architecture in the coastal town of Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.041918,
+                        3.170627
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "This local Methodist church serves as a Christian gathering place for worship and community events in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.046788,
+                        3.17817
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa RPR Sebiew Bintulu",
+                  "text": "Masjid At-Taqwa RPR Sebiew is a prominent mosque providing a place of prayer for the Muslim community in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.049691,
+                        3.172364
+                  ]
+            },
+            {
+                  "name": "Sebiew Methodist Church",
+                  "text": "The Sebiew Methodist Church is an established Christian place of worship located in the Sebiew residential area of Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.064656,
+                        3.178052
+                  ]
+            },
+            {
+                  "name": "The Church of God of Bintulu",
+                  "text": "The Church of God of Bintulu welcomes worshippers to its Christian services in this energetic East Malaysian city.",
+                  "category": "landmark",
+                  "coords": [
+                        113.063965,
+                        3.198435
+                  ]
+            },
+            {
+                  "name": "seaside mosque",
+                  "text": "This scenic seaside mosque offers a tranquil atmosphere for Muslim prayers overlooking the waters in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.048882,
+                        3.213372
+                  ]
+            },
+            {
+                  "name": "Emmanuel Methodist Church",
+                  "text": "Emmanuel Methodist Church is a Christian congregation building supporting local families and religious life in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.065402,
+                        3.22824
+                  ]
+            },
+            {
+                  "name": "Assyakirin Mosque",
+                  "text": "The grand Assyakirin Mosque is a major Islamic centre for prayer and religious gathering in the city of Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.054688,
+                        3.202147
+                  ]
+            },
+            {
+                  "name": "Surau Darus Syakirin",
+                  "text": "Surau Darus Syakirin is a smaller neighbourhood mosque facilitating daily prayers for Muslims living in Bintulu.",
+                  "category": "religious",
+                  "coords": [
+                        113.078239,
+                        3.281221
+                  ]
+            },
+            {
+                  "name": "Pasar Utama Bintulu",
+                  "text": "Pasar Utama Bintulu is the main covered market where locals purchase fresh produce, meat, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        113.040461,
+                        3.170423
+                  ]
+            },
+            {
+                  "name": "open air stall",
+                  "text": "This open air stall offers a casual marketplace experience where vendors sell snacks and small items in Bintulu.",
+                  "category": "cultural",
+                  "coords": [
+                        113.079249,
+                        3.195294
+                  ]
+            },
+            {
+                  "name": "Pasar Tamu Baru BDA (Lembaga Kemajuan Bintulu)",
+                  "text": "Supervised by the local development authority, this modernised Tamu market connects rural farmers with urban buyers in Bintulu.",
+                  "category": "cultural",
+                  "coords": [
+                        113.101046,
+                        3.267094
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "MY-13",
     coords: [113.06, 3.25],
@@ -339,7 +6297,1384 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "penang-port-trade-hub-economic-v2",
+    id: "penang-port-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jambatan Sungai Perai",
+                  "text": "Eine große Schrägseilbrücke über den Prai-Fluss, die die Industriegebiete verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376249,
+                        5.389709
+                  ]
+            },
+            {
+                  "name": "Jambatan Pulau Pinang",
+                  "text": "Diese markante, im September 1985 eröffnete mautpflichtige Doppelbrücke verbindet die Insel Penang mit dem Festland.",
+                  "category": "landmark",
+                  "coords": [
+                        100.351717,
+                        5.354146
+                  ]
+            },
+            {
+                  "name": "Bukit Pelanduk",
+                  "text": "Ein markanter regionaler Gipfel, bekannt als Bukit Pelanduk.",
+                  "category": "natural",
+                  "coords": [
+                        100.425193,
+                        5.410021
+                  ]
+            },
+            {
+                  "name": "Bukit Merah",
+                  "text": "Eine bemerkenswerte natürliche Erhebung in der Landschaft mit der Bezeichnung Bukit Merah.",
+                  "category": "natural",
+                  "coords": [
+                        100.430867,
+                        5.409862
+                  ]
+            },
+            {
+                  "name": "Globalart",
+                  "text": "Ein kreatives Kunstzentrum, das Programme und Workshops für lokale Talente anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        100.398784,
+                        5.395922
+                  ]
+            },
+            {
+                  "name": "Hong San Than",
+                  "text": "Die Kultstätte Hong San Than dient als spiritueller Treffpunkt für die chinesische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        100.370809,
+                        5.407642
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Sri Maha Muniswarar Dewi Maha Anggala Paramesvary",
+                  "text": "Eine hinduistischen Gottheiten gewidmete Kultstätte, die die Hingabe der Gemeinde fördert.",
+                  "category": "religious",
+                  "coords": [
+                        100.374183,
+                        5.396659
+                  ]
+            },
+            {
+                  "name": "Hope Assembly",
+                  "text": "Ein lokaler Versammlungsraum und Gotteshaus für die Religionsgemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        100.379316,
+                        5.400857
+                  ]
+            },
+            {
+                  "name": "Surau BHPetrol",
+                  "text": "Eine praktische Moschee an einer BHPetrol-Tankstelle für die Gebete von Reisenden.",
+                  "category": "religious",
+                  "coords": [
+                        100.414548,
+                        5.422546
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mukmin",
+                  "text": "Die Moschee Surau Al-Mukmin ist ein Nachbarschaftszentrum für die täglichen islamischen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        100.406674,
+                        5.393504
+                  ]
+            },
+            {
+                  "name": "Dewan Persatuan Tan Si Eng",
+                  "text": "Ein Gotteshaus und Verbandssaal, das der Tan-Si-Eng-Gemeinschaft gehört.",
+                  "category": "religious",
+                  "coords": [
+                        100.378571,
+                        5.419069
+                  ]
+            },
+            {
+                  "name": "Tapak Tempat Ibadat Bukan Islam Ampang Jajar",
+                  "text": "Eine ausgewiesene nicht-muslimische Kultstätte im Gebiet Ampang Jajar.",
+                  "category": "religious",
+                  "coords": [
+                        100.401385,
+                        5.417356
+                  ]
+            },
+            {
+                  "name": "Hock Teik Soo",
+                  "text": "Die Kultstätte Hock Teik Soo zeichnet sich durch traditionelle architektonische Details aus.",
+                  "category": "religious",
+                  "coords": [
+                        100.385864,
+                        5.422532
+                  ]
+            },
+            {
+                  "name": "Masjid SMK Datuk Haji Ahmad Said",
+                  "text": "Ein Gotteshaus, das in das Schulgelände der SMK Datuk Haji Ahmad Said integriert ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.431876,
+                        5.443899
+                  ]
+            },
+            {
+                  "name": "Uptown Bandar Perda",
+                  "text": "Der Uptown Bandar Perda ist ein aktiver Nachtmarkt, der für lokales Streetfood beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        100.427326,
+                        5.367809
+                  ]
+            },
+            {
+                  "name": "Jeti Lama Public Market",
+                  "text": "Ein traditioneller öffentlicher Markt in der Nähe des historischen Jeti Lama.",
+                  "category": "cultural",
+                  "coords": [
+                        100.370939,
+                        5.411849
+                  ]
+            },
+            {
+                  "name": "Ropewalk Bagan",
+                  "text": "Ein weitläufiger lokaler Marktplatz in Bagan, bekannt als Ropewalk, der vielfältige Alltagswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        100.36751,
+                        5.402129
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Bandar",
+                  "text": "Der Pasar Awam Sri Bandar dient als zentraler öffentlicher Markt für lokale Händler.",
+                  "category": "cultural",
+                  "coords": [
+                        100.372326,
+                        5.405634
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Bagan",
+                  "text": "Ein geschäftiger öffentlicher Marktkomplex, der die Bewohner von Taman Bagan versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        100.383551,
+                        5.410154
+                  ]
+            },
+            {
+                  "name": "Seberang Perai Temporary Market",
+                  "text": "Eine temporäre Marktstruktur für Händler in Seberang Perai.",
+                  "category": "cultural",
+                  "coords": [
+                        100.396321,
+                        5.394146
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Chai Leng",
+                  "text": "Der öffentliche Markt in Taman Chai Leng bietet eine Vielzahl an frischen Produkten und regionalen Zutaten.",
+                  "category": "cultural",
+                  "coords": [
+                        100.391211,
+                        5.38521
+                  ]
+            },
+            {
+                  "name": "Gerai Penjaja Pasar Awam Taman Samagagah",
+                  "text": "Die Imbissstände auf dem öffentlichen Markt von Taman Samagagah bieten eine Reihe frisch zubereiteter Mahlzeiten an.",
+                  "category": "cultural",
+                  "coords": [
+                        100.41172,
+                        5.411877
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Uda",
+                  "text": "Der öffentliche Marktplatz von Sri Uda ist ein lebendiger Ort für den täglichen lokalen Einkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        100.386501,
+                        5.43385
+                  ]
+            },
+            {
+                  "name": "Kompleks Makanan Taman Sin Tatt",
+                  "text": "Das Sin Tatt Garden Hawker Centre ist ein kulinarisches Zentrum, das für seine zahlreichen Essensstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        100.384788,
+                        5.432719
+                  ]
+            },
+            {
+                  "name": "Pasar Awam",
+                  "text": "Ein allgemeiner lokaler öffentlicher Markt, der die umliegenden Viertel mit Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        100.431782,
+                        5.446
+                  ]
+            },
+            {
+                  "name": "Butterworth Art Walk",
+                  "text": "Eine Freiluftattraktion in Butterworth mit Straßenkunst und Wandgemälden, die das lokale Erbe feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        100.370355,
+                        5.409721
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Wesley",
+                  "text": "Diese christliche Gemeinde in der geschäftigen Hafenstadt versammelt Gläubige zu methodistischen Gottesdiensten und Gemeindeveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        100.365771,
+                        5.39691
+                  ]
+            },
+            {
+                  "name": "Butterworth Nine Emperor Gods Temple",
+                  "text": "Gläubige in diesem lokalen taoistischen Tempel feiern das lebhafte Fest der Neun Kaisergötter mit traditionellen Ritualen und Gebeten.",
+                  "category": "landmark",
+                  "coords": [
+                        100.366178,
+                        5.399215
+                  ]
+            },
+            {
+                  "name": "Surau MCD",
+                  "text": "Dieser lokale islamische Gebetsraum bietet einen ruhigen Ort für die täglichen Gebete und dient der umliegenden muslimischen Gemeinde im Handelszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        100.416404,
+                        5.355367
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Belah Dua",
+                  "text": "Dieser islamische Gebetssaal dient den Bewohnern von Kampung Belah Dua und veranstaltet tägliche Gemeinschaftsgebete und religiöse Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        100.420343,
+                        5.378044
+                  ]
+            },
+            {
+                  "name": "Harvest Revival Centre",
+                  "text": "Dieses lokale christliche Erweckungszentrum fördert spirituelles Wachstum und Gemeinschaft durch regelmäßige Gottesdienste in der Hafenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.391616,
+                        5.382925
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tok Sani",
+                  "text": "Diese lokale islamische Einrichtung in Kampung Tok Sani bietet einen speziellen Raum für tägliche Gebete und Gemeindegottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405378,
+                        5.436815
+                  ]
+            },
+            {
+                  "name": "Butterworth Chinese Methodist Church",
+                  "text": "Diese methodistische Kirche richtet sich an die chinesischsprachige christliche Gemeinde in Butterworth und veranstaltet regelmäßige Sonntagsgottesdienste und Gemeinschaftsevents.",
+                  "category": "landmark",
+                  "coords": [
+                        100.390282,
+                        5.43327
+                  ]
+            },
+            {
+                  "name": "Bethany Assembly of God",
+                  "text": "Diese Gemeinde der Assembly of God bietet einen Raum für pfingstlerisch-christliche Gottesdienste, Gebetstreffen und Gemeinschaftsunterstützung im Handelszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376776,
+                        5.427432
+                  ]
+            },
+            {
+                  "name": "Surau Tuna",
+                  "text": "Dieser islamische Gebetsraum im Viertel bietet Muslimen eine bequeme und friedliche Umgebung, um ihre täglichen Gebete zu verrichten.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405495,
+                        5.394267
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Kadir",
+                  "text": "Diese etablierte Moschee, die der lokalen muslimischen Bevölkerung dient, zeichnet sich durch traditionelle islamische Architektur aus und veranstaltet regelmäßige Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        100.373027,
+                        5.413396
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kubang Buaya",
+                  "text": "Als zentraler Treffpunkt für die Gemeinde Kubang Buaya bietet diese Jamek-Moschee Platz für große Versammlungen zu den Freitagsgebeten.",
+                  "category": "landmark",
+                  "coords": [
+                        100.374896,
+                        5.420229
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Telaga Air",
+                  "text": "Diese prominente Jamek-Moschee in der Nähe von Telaga Air ist ein wichtiges Zentrum für islamische Gottesdienste und Gemeindeaktivitäten in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        100.375994,
+                        5.413804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jambatan Sungai Perai",
+                  "text": "A Prai-folyón átívelő nagy ferdekábeles híd, amely az ipari területeket köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376249,
+                        5.389709
+                  ]
+            },
+            {
+                  "name": "Jambatan Pulau Pinang",
+                  "text": "Az 1985 szeptemberében megnyílt, kiemelkedő fizetős kettős híd összeköti Penang szigetét a szárazfölddel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.351717,
+                        5.354146
+                  ]
+            },
+            {
+                  "name": "Bukit Pelanduk",
+                  "text": "Egy kiemelkedő regionális csúcs, a Bukit Pelanduk.",
+                  "category": "natural",
+                  "coords": [
+                        100.425193,
+                        5.410021
+                  ]
+            },
+            {
+                  "name": "Bukit Merah",
+                  "text": "A Bukit Merah nevű figyelemre méltó természetes magaslat a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        100.430867,
+                        5.409862
+                  ]
+            },
+            {
+                  "name": "Globalart",
+                  "text": "Kreatív művészeti központ, amely programokat és workshopokat kínál a helyi tehetségeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        100.398784,
+                        5.395922
+                  ]
+            },
+            {
+                  "name": "Hong San Than",
+                  "text": "A Hong San Than imahely a kínai közösség spirituális gyülekezeti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        100.370809,
+                        5.407642
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Sri Maha Muniswarar Dewi Maha Anggala Paramesvary",
+                  "text": "Egy hindu istenségek tiszteletére szentelt imahely, amely elősegíti a közösségi áhítatot.",
+                  "category": "religious",
+                  "coords": [
+                        100.374183,
+                        5.396659
+                  ]
+            },
+            {
+                  "name": "Hope Assembly",
+                  "text": "Helyi gyülekezeti tér és imahely a vallási közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        100.379316,
+                        5.400857
+                  ]
+            },
+            {
+                  "name": "Surau BHPetrol",
+                  "text": "Egy kényelmes mecset a BHPetrol benzinkútnál az utazók imáihoz.",
+                  "category": "religious",
+                  "coords": [
+                        100.414548,
+                        5.422546
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mukmin",
+                  "text": "A Surau Al-Mukmin mecset egy szomszédsági központ a napi iszlám imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        100.406674,
+                        5.393504
+                  ]
+            },
+            {
+                  "name": "Dewan Persatuan Tan Si Eng",
+                  "text": "A Tan Si Eng közösséghez tartozó imahely és egyesületi terem.",
+                  "category": "religious",
+                  "coords": [
+                        100.378571,
+                        5.419069
+                  ]
+            },
+            {
+                  "name": "Tapak Tempat Ibadat Bukan Islam Ampang Jajar",
+                  "text": "Egy kijelölt nem muszlim imahely az Ampang Jajar területén.",
+                  "category": "religious",
+                  "coords": [
+                        100.401385,
+                        5.417356
+                  ]
+            },
+            {
+                  "name": "Hock Teik Soo",
+                  "text": "A Hock Teik Soo imahely hagyományos építészeti részletekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        100.385864,
+                        5.422532
+                  ]
+            },
+            {
+                  "name": "Masjid SMK Datuk Haji Ahmad Said",
+                  "text": "Az SMK Datuk Haji Ahmad Said iskola területén belül található imahely.",
+                  "category": "religious",
+                  "coords": [
+                        100.431876,
+                        5.443899
+                  ]
+            },
+            {
+                  "name": "Uptown Bandar Perda",
+                  "text": "Az Uptown Bandar Perda egy aktív éjszakai piac, amely népszerű a helyi street foodok körében.",
+                  "category": "cultural",
+                  "coords": [
+                        100.427326,
+                        5.367809
+                  ]
+            },
+            {
+                  "name": "Jeti Lama Public Market",
+                  "text": "Egy hagyományos közpiac a történelmi Jeti Lama közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        100.370939,
+                        5.411849
+                  ]
+            },
+            {
+                  "name": "Ropewalk Bagan",
+                  "text": "Egy kiterjedt helyi piac Baganban, amely Ropewalk néven ismert, és különféle mindennapi cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        100.36751,
+                        5.402129
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Bandar",
+                  "text": "A Pasar Awam Sri Bandar központi közpiacként szolgál a helyi árusok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        100.372326,
+                        5.405634
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Bagan",
+                  "text": "Egy nyüzsgő közpiaci komplexum, amely Taman Bagan lakóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        100.383551,
+                        5.410154
+                  ]
+            },
+            {
+                  "name": "Seberang Perai Temporary Market",
+                  "text": "Egy ideiglenes piac, amelyet a Seberang Perai-i árusok számára hoztak létre.",
+                  "category": "cultural",
+                  "coords": [
+                        100.396321,
+                        5.394146
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Chai Leng",
+                  "text": "A Taman Chai Leng-i közpiac különféle friss termékeket és regionális alapanyagokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        100.391211,
+                        5.38521
+                  ]
+            },
+            {
+                  "name": "Gerai Penjaja Pasar Awam Taman Samagagah",
+                  "text": "A Taman Samagagah közpiac árusító standjai frissen főtt ételek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        100.41172,
+                        5.411877
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Uda",
+                  "text": "A Sri Uda közpiac a napi helyi vásárlás nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        100.386501,
+                        5.43385
+                  ]
+            },
+            {
+                  "name": "Kompleks Makanan Taman Sin Tatt",
+                  "text": "A Sin Tatt Garden Hawker Centre egy kulináris központ, amely számos ételstandjáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        100.384788,
+                        5.432719
+                  ]
+            },
+            {
+                  "name": "Pasar Awam",
+                  "text": "Egy általános helyi közpiac, amely a környező városrészeket látja el a mindennapi szükségletekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        100.431782,
+                        5.446
+                  ]
+            },
+            {
+                  "name": "Butterworth Art Walk",
+                  "text": "Szabadtéri látványosság Butterworth-ben, amely a helyi örökséget ünneplő utcai művészetet és falfestményeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        100.370355,
+                        5.409721
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Wesley",
+                  "text": "Ez a keresztény gyülekezet a forgalmas kikötővárosban metodista istentiszteletekre és közösségi eseményekre gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        100.365771,
+                        5.39691
+                  ]
+            },
+            {
+                  "name": "Butterworth Nine Emperor Gods Temple",
+                  "text": "A helyi taoista templom hívei hagyományos rituálékkal és imákkal ünneplik a Kilenc Császáristen színes fesztiválját.",
+                  "category": "landmark",
+                  "coords": [
+                        100.366178,
+                        5.399215
+                  ]
+            },
+            {
+                  "name": "Surau MCD",
+                  "text": "A mindennapi imákhoz csendes teret biztosító helyi iszlám imaterem a kereskedelmi központ muszlim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.416404,
+                        5.355367
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Belah Dua",
+                  "text": "A Kampung Belah Dua lakóit szolgáló iszlám imaterem mindennapi közösségi imáknak és vallási összejöveteleknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        100.420343,
+                        5.378044
+                  ]
+            },
+            {
+                  "name": "Harvest Revival Centre",
+                  "text": "Ez a helyi keresztény ébredési központ rendszeres istentiszteletekkel segíti a spirituális növekedést és a közösségépítést a kikötővárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.391616,
+                        5.382925
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tok Sani",
+                  "text": "A Kampung Tok Sani területén található helyi iszlám létesítmény dedikált teret biztosít a mindennapi imákhoz és a közösségi istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405378,
+                        5.436815
+                  ]
+            },
+            {
+                  "name": "Butterworth Chinese Methodist Church",
+                  "text": "A Butterworth kínai nyelvű keresztény közösségét kiszolgáló metodista templom rendszeres vasárnapi istentiszteleteknek és közösségi eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        100.390282,
+                        5.43327
+                  ]
+            },
+            {
+                  "name": "Bethany Assembly of God",
+                  "text": "Ez az Isten Gyülekezete gyülekezet teret biztosít a pünkösdi keresztény istentiszteleteknek, imaköröknek és a közösségi támogatásnak a kereskedelmi központban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376776,
+                        5.427432
+                  ]
+            },
+            {
+                  "name": "Surau Tuna",
+                  "text": "Ez a környékbeli iszlám imaterem kényelmes és békés környezetet biztosít a muszlimok számára mindennapi imáik elvégzéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405495,
+                        5.394267
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Kadir",
+                  "text": "A helyi muszlim lakosságot szolgáló, hagyományos iszlám építészeti stílusú mecset rendszeres pénteki imáknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        100.373027,
+                        5.413396
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kubang Buaya",
+                  "text": "A Kubang Buaya közösség központi találkozóhelyeként ez a Jamek mecset nagy gyülekezeteket fogad be a pénteki imák alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        100.374896,
+                        5.420229
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Telaga Air",
+                  "text": "A Telaga Air közelében található kiemelkedő Jamek mecset az iszlám istentiszteletek és közösségi tevékenységek kulcsfontosságú központja a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.375994,
+                        5.413804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jambatan Sungai Perai",
+                  "text": "Un pod hobanat important care traversează râul Prai, conectând zonele industriale.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376249,
+                        5.389709
+                  ]
+            },
+            {
+                  "name": "Jambatan Pulau Pinang",
+                  "text": "Deschis în septembrie 1985, acest pod cu taxă proeminent cu două benzi leagă insula Penang de continent.",
+                  "category": "landmark",
+                  "coords": [
+                        100.351717,
+                        5.354146
+                  ]
+            },
+            {
+                  "name": "Bukit Pelanduk",
+                  "text": "Un vârf regional proeminent cunoscut sub numele de Bukit Pelanduk.",
+                  "category": "natural",
+                  "coords": [
+                        100.425193,
+                        5.410021
+                  ]
+            },
+            {
+                  "name": "Bukit Merah",
+                  "text": "O elevație naturală notabilă din peisaj, desemnată ca Bukit Merah.",
+                  "category": "natural",
+                  "coords": [
+                        100.430867,
+                        5.409862
+                  ]
+            },
+            {
+                  "name": "Globalart",
+                  "text": "Un centru de arte creative care oferă programe și ateliere pentru talentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        100.398784,
+                        5.395922
+                  ]
+            },
+            {
+                  "name": "Hong San Than",
+                  "text": "Lăcașul de cult Hong San Than servește drept loc de adunare spirituală pentru comunitatea chineză.",
+                  "category": "religious",
+                  "coords": [
+                        100.370809,
+                        5.407642
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Sri Maha Muniswarar Dewi Maha Anggala Paramesvary",
+                  "text": "Un lăcaș de cult dedicat zeităților hinduse, promovând devotamentul comunității.",
+                  "category": "religious",
+                  "coords": [
+                        100.374183,
+                        5.396659
+                  ]
+            },
+            {
+                  "name": "Hope Assembly",
+                  "text": "Un spațiu local de adunare și lăcaș de cult pentru comunitatea religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        100.379316,
+                        5.400857
+                  ]
+            },
+            {
+                  "name": "Surau BHPetrol",
+                  "text": "O moschee convenabilă situată la o stație BHPetrol pentru rugăciunile călătorilor.",
+                  "category": "religious",
+                  "coords": [
+                        100.414548,
+                        5.422546
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mukmin",
+                  "text": "Moscheea Surau Al-Mukmin este un centru de cartier pentru rugăciunile islamice zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        100.406674,
+                        5.393504
+                  ]
+            },
+            {
+                  "name": "Dewan Persatuan Tan Si Eng",
+                  "text": "Un lăcaș de cult și sală de asociație aparținând comunității Tan Si Eng.",
+                  "category": "religious",
+                  "coords": [
+                        100.378571,
+                        5.419069
+                  ]
+            },
+            {
+                  "name": "Tapak Tempat Ibadat Bukan Islam Ampang Jajar",
+                  "text": "Un loc de cult non-musulman desemnat, situat în zona Ampang Jajar.",
+                  "category": "religious",
+                  "coords": [
+                        100.401385,
+                        5.417356
+                  ]
+            },
+            {
+                  "name": "Hock Teik Soo",
+                  "text": "Lăcașul de cult Hock Teik Soo prezintă detalii arhitecturale tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        100.385864,
+                        5.422532
+                  ]
+            },
+            {
+                  "name": "Masjid SMK Datuk Haji Ahmad Said",
+                  "text": "Un lăcaș de cult integrat în incinta școlii SMK Datuk Haji Ahmad Said.",
+                  "category": "religious",
+                  "coords": [
+                        100.431876,
+                        5.443899
+                  ]
+            },
+            {
+                  "name": "Uptown Bandar Perda",
+                  "text": "Uptown Bandar Perda este o piață de noapte activă, populară pentru mâncarea stradală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        100.427326,
+                        5.367809
+                  ]
+            },
+            {
+                  "name": "Jeti Lama Public Market",
+                  "text": "O piață publică tradițională situată lângă istoricul Jeti Lama.",
+                  "category": "cultural",
+                  "coords": [
+                        100.370939,
+                        5.411849
+                  ]
+            },
+            {
+                  "name": "Ropewalk Bagan",
+                  "text": "O piață locală întinsă din Bagan, cunoscută sub numele de Ropewalk, care oferă diverse bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        100.36751,
+                        5.402129
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Bandar",
+                  "text": "Pasar Awam Sri Bandar servește drept piață publică centrală pentru vânzătorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        100.372326,
+                        5.405634
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Bagan",
+                  "text": "Un complex de piețe publice plin de viață care deservește locuitorii din Taman Bagan.",
+                  "category": "cultural",
+                  "coords": [
+                        100.383551,
+                        5.410154
+                  ]
+            },
+            {
+                  "name": "Seberang Perai Temporary Market",
+                  "text": "O structură de piață temporară înființată pentru a găzdui vânzătorii din Seberang Perai.",
+                  "category": "cultural",
+                  "coords": [
+                        100.396321,
+                        5.394146
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Chai Leng",
+                  "text": "Piața publică din Taman Chai Leng oferă o varietate de produse proaspete și ingrediente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        100.391211,
+                        5.38521
+                  ]
+            },
+            {
+                  "name": "Gerai Penjaja Pasar Awam Taman Samagagah",
+                  "text": "Tarabele comercianților de la piața publică Taman Samagagah oferă o gamă de mese proaspăt gătite.",
+                  "category": "cultural",
+                  "coords": [
+                        100.41172,
+                        5.411877
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Uda",
+                  "text": "Piața publică Sri Uda este un loc vibrant pentru cumpărăturile zilnice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        100.386501,
+                        5.43385
+                  ]
+            },
+            {
+                  "name": "Kompleks Makanan Taman Sin Tatt",
+                  "text": "Sin Tatt Garden Hawker Centre este un centru culinar cunoscut pentru numeroasele sale tarabe cu mâncare.",
+                  "category": "cultural",
+                  "coords": [
+                        100.384788,
+                        5.432719
+                  ]
+            },
+            {
+                  "name": "Pasar Awam",
+                  "text": "O piață publică locală generică care deservește cartierele din jur cu articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        100.431782,
+                        5.446
+                  ]
+            },
+            {
+                  "name": "Butterworth Art Walk",
+                  "text": "O atracție în aer liber în Butterworth, care prezintă artă stradală și picturi murale care celebrează patrimoniul local.",
+                  "category": "landmark",
+                  "coords": [
+                        100.370355,
+                        5.409721
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Wesley",
+                  "text": "Această congregație creștină din orașul-port aglomerat adună credincioșii pentru slujbe metodiste și evenimente comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        100.365771,
+                        5.39691
+                  ]
+            },
+            {
+                  "name": "Butterworth Nine Emperor Gods Temple",
+                  "text": "Credincioșii de la acest templu taoist local sărbătoresc vibrantul festival al celor Nouă Zei Împărați cu ritualuri și rugăciuni tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        100.366178,
+                        5.399215
+                  ]
+            },
+            {
+                  "name": "Surau MCD",
+                  "text": "Oferind un spațiu liniștit pentru rugăciunile zilnice, această sală de rugăciune islamică locală deservește comunitatea musulmană din centrul comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        100.416404,
+                        5.355367
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Belah Dua",
+                  "text": "Deservind locuitorii din Kampung Belah Dua, această sală de rugăciune islamică găzduiește rugăciuni congregaționale zilnice și adunări religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        100.420343,
+                        5.378044
+                  ]
+            },
+            {
+                  "name": "Harvest Revival Centre",
+                  "text": "Acest centru de renaștere creștină local promovează creșterea spirituală și părtășia prin slujbe de închinare regulate în orașul-port.",
+                  "category": "landmark",
+                  "coords": [
+                        100.391616,
+                        5.382925
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tok Sani",
+                  "text": "Situată în Kampung Tok Sani, această facilitate islamică locală oferă un spațiu dedicat pentru rugăciunile zilnice și închinarea comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405378,
+                        5.436815
+                  ]
+            },
+            {
+                  "name": "Butterworth Chinese Methodist Church",
+                  "text": "Deservind comunitatea creștină vorbitoare de chineză din Butterworth, această biserică metodistă găzduiește slujbe duminicale regulate și evenimente de părtășie.",
+                  "category": "landmark",
+                  "coords": [
+                        100.390282,
+                        5.43327
+                  ]
+            },
+            {
+                  "name": "Bethany Assembly of God",
+                  "text": "Această congregație Adunarea lui Dumnezeu oferă un spațiu pentru închinare creștină penticostală, întâlniri de rugăciune și sprijin comunitar în centrul comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376776,
+                        5.427432
+                  ]
+            },
+            {
+                  "name": "Surau Tuna",
+                  "text": "Această sală de rugăciune islamică de cartier oferă un cadru convenabil și pașnic pentru ca musulmanii să-și îndeplinească rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405495,
+                        5.394267
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Kadir",
+                  "text": "Deservind populația musulmană locală, această moschee consacrată prezintă o arhitectură islamică tradițională și găzduiește rugăciuni regulate de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        100.373027,
+                        5.413396
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kubang Buaya",
+                  "text": "Fiind un punct central de adunare pentru comunitatea din Kubang Buaya, această moschee Jamek găzduiește congregații mari pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        100.374896,
+                        5.420229
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Telaga Air",
+                  "text": "Situată lângă Telaga Air, această moschee proeminentă Jamek este un centru cheie pentru închinarea islamică și activitățile comunității din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        100.375994,
+                        5.413804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prai River Bridge",
+                  "text": "A major cable-stayed bridge spanning the Prai River, connecting the industrial areas.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376249,
+                        5.389709
+                  ]
+            },
+            {
+                  "name": "Penang Bridge",
+                  "text": "Opened in September 1985, this prominent dual-carriageway toll bridge links Penang Island with the mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        100.351717,
+                        5.354146
+                  ]
+            },
+            {
+                  "name": "Bukit Pelanduk",
+                  "text": "A prominent regional peak known as Bukit Pelanduk.",
+                  "category": "natural",
+                  "coords": [
+                        100.425193,
+                        5.410021
+                  ]
+            },
+            {
+                  "name": "Bukit Merah",
+                  "text": "A notable natural elevation in the landscape designated as Bukit Merah.",
+                  "category": "natural",
+                  "coords": [
+                        100.430867,
+                        5.409862
+                  ]
+            },
+            {
+                  "name": "Globalart",
+                  "text": "A creative arts centre offering programs and workshops for local talent.",
+                  "category": "cultural",
+                  "coords": [
+                        100.398784,
+                        5.395922
+                  ]
+            },
+            {
+                  "name": "Hong San Than",
+                  "text": "The Hong San Than place of worship serves as a spiritual gathering place for the Chinese community.",
+                  "category": "religious",
+                  "coords": [
+                        100.370809,
+                        5.407642
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Sri Maha Muniswarar Dewi Maha Anggala Paramesvary",
+                  "text": "A dedicated place of worship honoring Hindu deities, fostering community devotion.",
+                  "category": "religious",
+                  "coords": [
+                        100.374183,
+                        5.396659
+                  ]
+            },
+            {
+                  "name": "Hope Assembly",
+                  "text": "A local assembly space and place of worship for the religious community.",
+                  "category": "religious",
+                  "coords": [
+                        100.379316,
+                        5.400857
+                  ]
+            },
+            {
+                  "name": "Surau BHPetrol",
+                  "text": "A convenient mosque facility located at a BHPetrol station for travelers' prayers.",
+                  "category": "religious",
+                  "coords": [
+                        100.414548,
+                        5.422546
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mukmin",
+                  "text": "The Surau Al-Mukmin mosque is a neighborhood center for daily Islamic prayers.",
+                  "category": "religious",
+                  "coords": [
+                        100.406674,
+                        5.393504
+                  ]
+            },
+            {
+                  "name": "Dewan Persatuan Tan Si Eng",
+                  "text": "A place of worship and association hall belonging to the Tan Si Eng community.",
+                  "category": "religious",
+                  "coords": [
+                        100.378571,
+                        5.419069
+                  ]
+            },
+            {
+                  "name": "Tapak Tempat Ibadat Bukan Islam Ampang Jajar",
+                  "text": "A designated non-Muslim place of worship site situated in the Ampang Jajar area.",
+                  "category": "religious",
+                  "coords": [
+                        100.401385,
+                        5.417356
+                  ]
+            },
+            {
+                  "name": "Hock Teik Soo",
+                  "text": "The Hock Teik Soo place of worship features traditional architectural details.",
+                  "category": "religious",
+                  "coords": [
+                        100.385864,
+                        5.422532
+                  ]
+            },
+            {
+                  "name": "Masjid SMK Datuk Haji Ahmad Said",
+                  "text": "A place of worship integrated within the SMK Datuk Haji Ahmad Said school grounds.",
+                  "category": "religious",
+                  "coords": [
+                        100.431876,
+                        5.443899
+                  ]
+            },
+            {
+                  "name": "Uptown Bandar Perda",
+                  "text": "The Uptown Bandar Perda is an active night marketplace popular for local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        100.427326,
+                        5.367809
+                  ]
+            },
+            {
+                  "name": "Jeti Lama Public Market",
+                  "text": "A traditional public market located near the historic Jeti Lama.",
+                  "category": "cultural",
+                  "coords": [
+                        100.370939,
+                        5.411849
+                  ]
+            },
+            {
+                  "name": "Ropewalk Bagan",
+                  "text": "A sprawling local marketplace in Bagan known as Ropewalk, offering diverse everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        100.36751,
+                        5.402129
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Bandar",
+                  "text": "The Pasar Awam Sri Bandar serves as a central public market for local vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        100.372326,
+                        5.405634
+                  ]
+            },
+            {
+                  "name": "Taman Bagan Public Market",
+                  "text": "A bustling public market complex that caters to the residents of Taman Bagan.",
+                  "category": "cultural",
+                  "coords": [
+                        100.383551,
+                        5.410154
+                  ]
+            },
+            {
+                  "name": "Seberang Perai Temporary Market",
+                  "text": "A temporary marketplace structure set up to accommodate vendors in Seberang Perai.",
+                  "category": "cultural",
+                  "coords": [
+                        100.396321,
+                        5.394146
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Taman Chai Leng",
+                  "text": "The public market in Taman Chai Leng offers a variety of fresh produce and regional ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        100.391211,
+                        5.38521
+                  ]
+            },
+            {
+                  "name": "Gerai Penjaja Pasar Awam Taman Samagagah",
+                  "text": "The hawker stalls at the Taman Samagagah public market provide an array of freshly cooked meals.",
+                  "category": "cultural",
+                  "coords": [
+                        100.41172,
+                        5.411877
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sri Uda",
+                  "text": "The Sri Uda public marketplace is a vibrant spot for daily local shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        100.386501,
+                        5.43385
+                  ]
+            },
+            {
+                  "name": "Sin Tatt Garden Hawker Centre",
+                  "text": "The Sin Tatt Garden Hawker Centre is a culinary hub known for its numerous food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        100.384788,
+                        5.432719
+                  ]
+            },
+            {
+                  "name": "Pasar Awam",
+                  "text": "A generic local public market serving the surrounding neighborhoods with everyday essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        100.431782,
+                        5.446
+                  ]
+            },
+            {
+                  "name": "Butterworth Art Walk",
+                  "text": "An outdoor attraction in Butterworth featuring street art and murals celebrating local heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        100.370355,
+                        5.409721
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Wesley",
+                  "text": "This Christian congregation in the bustling port city gathers worshippers for Methodist services and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        100.365771,
+                        5.39691
+                  ]
+            },
+            {
+                  "name": "Butterworth Nine Emperor Gods Temple",
+                  "text": "Worshippers at this local Taoist temple celebrate the vibrant Nine Emperor Gods festival with traditional rituals and prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        100.366178,
+                        5.399215
+                  ]
+            },
+            {
+                  "name": "Surau MCD",
+                  "text": "Providing a quiet space for daily prayers, this local Islamic prayer room serves the surrounding Muslim community in the trade hub.",
+                  "category": "landmark",
+                  "coords": [
+                        100.416404,
+                        5.355367
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Belah Dua",
+                  "text": "Serving the residents of Kampung Belah Dua, this Islamic prayer hall hosts daily congregational prayers and religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        100.420343,
+                        5.378044
+                  ]
+            },
+            {
+                  "name": "Harvest Revival Centre",
+                  "text": "This local Christian revival centre fosters spiritual growth and fellowship through regular worship services in the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        100.391616,
+                        5.382925
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Tok Sani",
+                  "text": "Situated within Kampung Tok Sani, this local Islamic facility provides a dedicated space for daily prayers and community worship.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405378,
+                        5.436815
+                  ]
+            },
+            {
+                  "name": "Butterworth Chinese Methodist Church",
+                  "text": "Catering to the Chinese-speaking Christian community in Butterworth, this Methodist church hosts regular Sunday services and fellowship events.",
+                  "category": "landmark",
+                  "coords": [
+                        100.390282,
+                        5.43327
+                  ]
+            },
+            {
+                  "name": "Bethany Assembly of God",
+                  "text": "This Assembly of God congregation offers a space for Pentecostal Christian worship, prayer meetings, and community support in the trade hub.",
+                  "category": "landmark",
+                  "coords": [
+                        100.376776,
+                        5.427432
+                  ]
+            },
+            {
+                  "name": "Surau Tuna",
+                  "text": "This neighborhood Islamic prayer room provides a convenient and peaceful setting for Muslims to perform their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        100.405495,
+                        5.394267
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Kadir",
+                  "text": "Serving the local Muslim population, this established mosque features traditional Islamic architecture and hosts regular Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        100.373027,
+                        5.413396
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kubang Buaya",
+                  "text": "As a central gathering point for the Kubang Buaya community, this Jamek mosque accommodates large congregations for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        100.374896,
+                        5.420229
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Telaga Air",
+                  "text": "Located near Telaga Air, this prominent Jamek mosque is a key center for Islamic worship and community activities in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        100.375994,
+                        5.413804
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MY-07",
     coords: [100.35, 5.41],
@@ -387,7 +7722,916 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "mamut-copper-mine-mine-economic-v2",
+    id: "mamut-copper-mine-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adenna Rafflesia Garden",
+                  "text": "Der Adenna Rafflesia Garden bietet Besuchern die seltene Gelegenheit, die berühmten, riesigen und streng riechenden Blüten im dichten Dschungel zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        116.718232,
+                        6.033941
+                  ]
+            },
+            {
+                  "name": "Tagal Luanti (Fish spa)",
+                  "text": "Tagal Luanti bietet ein Flusserlebnis, bei dem wilde Pelian-Fische im fließenden Wasser sanft abgestorbene Haut abknabbern, um eine natürliche Massage zu bewirken.",
+                  "category": "landmark",
+                  "coords": [
+                        116.769312,
+                        5.946275
+                  ]
+            },
+            {
+                  "name": "Ranau sports complex paragliding",
+                  "text": "Der Gleitschirmflugplatz am Sportkomplex Ranau bietet erhöhte Startplätze, um sanft über die bewaldeten Täler von Sabah zu schweben.",
+                  "category": "landmark",
+                  "coords": [
+                        116.685912,
+                        5.992523
+                  ]
+            },
+            {
+                  "name": "Lohan Paragliding Advantur",
+                  "text": "Lohan Paragliding Advantur lädt Abenteurer ein, Bergaufwinde zu nutzen und einen weiten Panoramablick über das tief liegende landwirtschaftliche Tal zu genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.679309,
+                        5.995892
+                  ]
+            },
+            {
+                  "name": "Tugu Sabah 100 Tahun",
+                  "text": "Tugu Sabah 100 Tahun ist ein Gedenkstein, der errichtet wurde, um ein Jahrhundert historischen Fortschritts und staatlichen Erbes in der Region zu markieren.",
+                  "category": "historical",
+                  "coords": [
+                        116.664259,
+                        5.953087
+                  ]
+            },
+            {
+                  "name": "Kokob Rafflesia Conservation Garden",
+                  "text": "Der Kokob Rafflesia Conservation Garden führt Wanderer über schattige Waldpfade zu den Bodengewächsen dieser ikonischen parasitären Riesenblume.",
+                  "category": "landmark",
+                  "coords": [
+                        116.703845,
+                        5.975268
+                  ]
+            },
+            {
+                  "name": "Kolam Noguros Fishing Center",
+                  "text": "Das Kolam Noguros Fishing Center bietet gut besetzte Süßwasserteiche, in denen Angler an grasbewachsenen Ufern in einer ruhigen Umgebung entspannen können.",
+                  "category": "landmark",
+                  "coords": [
+                        116.695951,
+                        5.973666
+                  ]
+            },
+            {
+                  "name": "Bombon Kg. Marakau (Fish Spa)",
+                  "text": "Bombon Kg. Marakau schützt einen klaren Flussabschnitt, in dem Besucher durch das flache Wasser waten und direkt farbenfrohe einheimische Fische füttern können.",
+                  "category": "landmark",
+                  "coords": [
+                        116.692906,
+                        5.94437
+                  ]
+            },
+            {
+                  "name": "Bukit Sumang",
+                  "text": "Der Gipfel des Bukit Sumang belohnt Wanderer, die den steilen Pfad durch die dichte tropische Vegetation bezwungen haben, mit einer ungehinderten Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        116.639226,
+                        5.934595
+                  ]
+            },
+            {
+                  "name": "Canopy Walk",
+                  "text": "Der Canopy Walk besteht aus schmalen Hängebrücken, die hoch oben durch das Blätterdach gespannt sind und atemberaubende Ausblicke auf den Regenwald bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        116.699222,
+                        6.04817
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "Der umschlossene Schmetterlingsgarten ist mit leuchtenden Nektarpflanzen gefüllt, die zahlreiche Arten zarter, flatternder Insekten anziehen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70141,
+                        6.047369
+                  ]
+            },
+            {
+                  "name": "Bamboo Walk",
+                  "text": "Der Bamboo Walk führt Fußgänger durch einen ruhigen Korridor, der vollständig von hoch aufragenden, dicken grünen Bambushalmen beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70281,
+                        6.044899
+                  ]
+            },
+            {
+                  "name": "Vivian's Garden",
+                  "text": "Vivian's Garden präsentiert farbenfrohe Blumenbeete und Zierpflanzen, die im kühlen Mikroklima der umliegenden Hügel wunderbar gedeihen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.706918,
+                        6.045847
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Die Masjid Ar-Rahman verfügt über eine markante Minarettstruktur und dient als primärer islamischer Gebetsraum für die lokale muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        116.666634,
+                        5.9502
+                  ]
+            },
+            {
+                  "name": "St Bede's Catholic Church",
+                  "text": "Die katholische Kirche St. Bede bietet mit ihrem spitz zulaufenden Holzdach einen warmen, einladenden Ort für regelmäßige Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.702059,
+                        5.976265
+                  ]
+            },
+            {
+                  "name": "Dewan Perjumpaan Saksi-Saksi Yehuwa, Ranau",
+                  "text": "Dieser funktionale Königreichssaal in Ranau bietet der örtlichen Gemeinde der Zeugen Jehovas einen Raum für Bibelstudien und spirituelle Vorträge.",
+                  "category": "religious",
+                  "coords": [
+                        116.66036,
+                        5.93929
+                  ]
+            },
+            {
+                  "name": "Basel Christian Church of Malaysia Ranau",
+                  "text": "Die Basel Christian Church of Malaysia in Ranau versammelt ihre protestantische Gemeinde in einem Gebäude mit schlichtem, aber modernem kreuzförmigen Design.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663927,
+                        5.94956
+                  ]
+            },
+            {
+                  "name": "Gereja SIB Sarapong",
+                  "text": "Gereja SIB Sarapong ist eine bescheidene evangelische Holzkirche, die der Dorfgemeinschaft im ländlichen Borneo als Ort der Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        116.638018,
+                        5.916197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser Surau bietet als kleines islamisches Versammlungsgebäude einen leicht zugänglichen Gebetsraum für die täglichen Verpflichtungen muslimischer Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        116.632109,
+                        5.913369
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio",
+                  "text": "Dieser christliche Schrein ist dem heiligen Padre Pio gewidmet und verfügt über einen ruhigen Altarbereich für persönliche Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        116.631819,
+                        5.91222
+                  ]
+            },
+            {
+                  "name": "St. Peter Claver's Catholic Church",
+                  "text": "Die offene Architektur der katholischen Kirche St. Peter Claver ermöglicht es der kühlen Brise, den großzügigen Gemeindesaal während der Gottesdienste zu durchlüften.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663478,
+                        5.954781
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Injil Borneo Pekan Ranau",
+                  "text": "Das direkt im Stadtzentrum gelegene SIB-Kirchengebäude beherbergt die lebendigen musikalischen Gottesdienste der evangelischen Gemeinde in Borneo.",
+                  "category": "landmark",
+                  "coords": [
+                        116.674599,
+                        5.958918
+                  ]
+            },
+            {
+                  "name": "Pasar Terbuka Pekan Ranau",
+                  "text": "Auf dem Pasar Terbuka, einem weitläufigen Freiluftmarkt, türmen sich frisch geerntetes Blattgemüse und lokale Früchte unter einfachen bunten Planen.",
+                  "category": "cultural",
+                  "coords": [
+                        116.664504,
+                        5.951303
+                  ]
+            },
+            {
+                  "name": "Ranau Night Market",
+                  "text": "Der Ranau Night Market erwacht nach Sonnenuntergang zum Leben und bietet Reihen von beleuchteten Ständen mit zischenden Pfannen voller würzigem Street Food.",
+                  "category": "cultural",
+                  "coords": [
+                        116.666153,
+                        5.953424
+                  ]
+            },
+            {
+                  "name": "Kedai Runcit Sinurambi",
+                  "text": "Kedai Runcit Sinurambi ist ein lokales Lebensmittelgeschäft, dessen Regale vollgepackt sind mit Haushaltswaren und Snacks für die direkte Nachbarschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        116.659344,
+                        5.93215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adenna Rafflesia Garden",
+                  "text": "Az Adenna Rafflesia Kert ritka lehetőséget nyújt a látogatóknak, hogy a sűrű dzsungelben csodálják meg a híres, hatalmas és erős illatú virágokat.",
+                  "category": "landmark",
+                  "coords": [
+                        116.718232,
+                        6.033941
+                  ]
+            },
+            {
+                  "name": "Tagal Luanti (Fish spa)",
+                  "text": "A Tagal Luanti különleges folyami élményt kínál, ahol a vadon élő pelian halak a sebes vízben leharapdálják az elhalt hámsejteket egy természetes masszázs keretében.",
+                  "category": "landmark",
+                  "coords": [
+                        116.769312,
+                        5.946275
+                  ]
+            },
+            {
+                  "name": "Ranau sports complex paragliding",
+                  "text": "A ranaui sportkomplexum siklóernyős központja magaslati indulópontokat kínál, hogy a sportolók lágyan szárnyalhassanak Sabah erdős völgyei felett.",
+                  "category": "landmark",
+                  "coords": [
+                        116.685912,
+                        5.992523
+                  ]
+            },
+            {
+                  "name": "Lohan Paragliding Advantur",
+                  "text": "A Lohan Paragliding Advantur a hegyi termikek kihasználására és a mélyen fekvő mezőgazdasági völgyre nyíló, széles panoráma élvezetére invitálja a kalandvágyókat.",
+                  "category": "landmark",
+                  "coords": [
+                        116.679309,
+                        5.995892
+                  ]
+            },
+            {
+                  "name": "Tugu Sabah 100 Tahun",
+                  "text": "A Tugu Sabah 100 Tahun egy emlékkő, amelyet a régió történelmi fejlődésének és állami örökségének századik évfordulója alkalmából emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        116.664259,
+                        5.953087
+                  ]
+            },
+            {
+                  "name": "Kokob Rafflesia Conservation Garden",
+                  "text": "A Kokob Rafflesia Védett Kert árnyas erdei ösvényeken vezeti a túrázókat az ikonikus parazita óriásvirág talajszinti élőhelyeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        116.703845,
+                        5.975268
+                  ]
+            },
+            {
+                  "name": "Kolam Noguros Fishing Center",
+                  "text": "A Kolam Noguros Horgászközpont halban gazdag édesvizű tavakat kínál, ahol a horgászok a füves partokon, csendes környezetben lazíthatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        116.695951,
+                        5.973666
+                  ]
+            },
+            {
+                  "name": "Bombon Kg. Marakau (Fish Spa)",
+                  "text": "A Bombon Kg. Marakau egy tiszta folyószakaszt véd, ahol a látogatók a sekély vízben gázolva közvetlenül etethetik a színes helyi halakat.",
+                  "category": "landmark",
+                  "coords": [
+                        116.692906,
+                        5.94437
+                  ]
+            },
+            {
+                  "name": "Bukit Sumang",
+                  "text": "A Bukit Sumang csúcsa zavartalan kilátással jutalmazza a sűrű trópusi növényzeten át vezető, meredek ösvényt leküzdő túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        116.639226,
+                        5.934595
+                  ]
+            },
+            {
+                  "name": "Canopy Walk",
+                  "text": "A Canopy Walk magasan a lombkorona alatt kifeszített keskeny függőhidakból áll, amelyek lélegzetelállító kilátást nyújtanak az esőerdőre.",
+                  "category": "landmark",
+                  "coords": [
+                        116.699222,
+                        6.04817
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "A zárt lepkeház tele van élénk színű nektárnövényekkel, amelyek számos törékeny, csapkodó rovarfajt vonzanak magukhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70141,
+                        6.047369
+                  ]
+            },
+            {
+                  "name": "Bamboo Walk",
+                  "text": "A Bambusz sétány egy csendes folyosón vezeti át a gyalogosokat, amelyet a magasba nyúló, vastag zöld bambuszszárak teljesen beárnyékolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70281,
+                        6.044899
+                  ]
+            },
+            {
+                  "name": "Vivian's Garden",
+                  "text": "A Vivian kert színes virágágyásokat és dísznövényeket mutat be, amelyek a környező dombok hűvös mikroklímájában csodálatosan virágoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        116.706918,
+                        6.045847
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "A Masjid Ar-Rahman jellegzetes minaretjével a helyi muszlim közösség elsődleges iszlám imatereként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        116.666634,
+                        5.9502
+                  ]
+            },
+            {
+                  "name": "St Bede's Catholic Church",
+                  "text": "A St Bede katolikus templom csúcsos fatetejével meleg, hívogató teret kínál a rendszeres misék megtartásához.",
+                  "category": "landmark",
+                  "coords": [
+                        116.702059,
+                        5.976265
+                  ]
+            },
+            {
+                  "name": "Dewan Perjumpaan Saksi-Saksi Yehuwa, Ranau",
+                  "text": "Ez a funkcionális ranaui Királyság-terem a helyi Jehova Tanúi gyülekezet számára biztosít helyet a bibliatanulmányozáshoz és az előadásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        116.66036,
+                        5.93929
+                  ]
+            },
+            {
+                  "name": "Basel Christian Church of Malaysia Ranau",
+                  "text": "A ranaui Malajziai Bázeli Keresztény Egyház egy egyszerű, de modern, kereszt alakú épületben gyűjti össze protestáns gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663927,
+                        5.94956
+                  ]
+            },
+            {
+                  "name": "Gereja SIB Sarapong",
+                  "text": "A Gereja SIB Sarapong egy szerény, fából épült evangéliumi templom, amely a vidéki borneói faluközösség imádkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        116.638018,
+                        5.916197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a surau egy kis iszlám gyülekezeti épületként könnyen megközelíthető imatermet biztosít a muszlim lakosok napi vallási kötelezettségeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        116.632109,
+                        5.913369
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio",
+                  "text": "A Szent Pio atyának szentelt keresztény kegyhely egy csendes oltárrésszel is rendelkezik, amely a személyes imák színhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        116.631819,
+                        5.91222
+                  ]
+            },
+            {
+                  "name": "St. Peter Claver's Catholic Church",
+                  "text": "A Claver Szent Péter katolikus templom nyitott építészete lehetővé teszi, hogy a hűsítő szellő átjárja a tágas gyülekezeti termet az istentiszteletek alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663478,
+                        5.954781
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Injil Borneo Pekan Ranau",
+                  "text": "A közvetlenül a városközpontban található SIB templomépület ad otthont a borneói evangéliumi gyülekezet élénk, zenés istentiszteleteinek.",
+                  "category": "landmark",
+                  "coords": [
+                        116.674599,
+                        5.958918
+                  ]
+            },
+            {
+                  "name": "Pasar Terbuka Pekan Ranau",
+                  "text": "A Pasar Terbuka kiterjedt szabadtéri piacán az egyszerű, színes ponyvák alatt frissen betakarított leveles zöldségek és helyi gyümölcsök tornyosulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        116.664504,
+                        5.951303
+                  ]
+            },
+            {
+                  "name": "Ranau Night Market",
+                  "text": "A ranaui éjszakai piac napnyugta után kel életre, és kivilágított standok sorát kínálja, ahol fűszeres utcai ételek sercegnek a serpenyőkben.",
+                  "category": "cultural",
+                  "coords": [
+                        116.666153,
+                        5.953424
+                  ]
+            },
+            {
+                  "name": "Kedai Runcit Sinurambi",
+                  "text": "A Kedai Runcit Sinurambi egy helyi kisbolt, amelynek polcai roskadoznak a háztartási cikkektől és a környékbelieknek szánt rágcsálnivalóktól.",
+                  "category": "cultural",
+                  "coords": [
+                        116.659344,
+                        5.93215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adenna Rafflesia Garden",
+                  "text": "Grădina Adenna Rafflesia oferă vizitatorilor șansa rară de a observa faimoasele flori uriașe, cu miros înțepător, în jungla deasă.",
+                  "category": "landmark",
+                  "coords": [
+                        116.718232,
+                        6.033941
+                  ]
+            },
+            {
+                  "name": "Tagal Luanti (Fish spa)",
+                  "text": "Tagal Luanti oferă o experiență fluvială unde peștii sălbatici Pelian ciugulesc ușor pielea moartă în apele curgătoare, pentru un masaj natural.",
+                  "category": "landmark",
+                  "coords": [
+                        116.769312,
+                        5.946275
+                  ]
+            },
+            {
+                  "name": "Ranau sports complex paragliding",
+                  "text": "Locul de parapantă al complexului sportiv Ranau oferă puncte de lansare înalte pentru a zbura lin deasupra văilor împădurite din Sabah.",
+                  "category": "landmark",
+                  "coords": [
+                        116.685912,
+                        5.992523
+                  ]
+            },
+            {
+                  "name": "Lohan Paragliding Advantur",
+                  "text": "Lohan Paragliding Advantur invită aventurierii să prindă curenții de aer de munte și să se bucure de o vedere panoramică amplă a văii agricole aflate mai jos.",
+                  "category": "landmark",
+                  "coords": [
+                        116.679309,
+                        5.995892
+                  ]
+            },
+            {
+                  "name": "Tugu Sabah 100 Tahun",
+                  "text": "Tugu Sabah 100 Tahun este un monument de piatră ridicat pentru a marca un secol de progres istoric și moștenire a statului în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        116.664259,
+                        5.953087
+                  ]
+            },
+            {
+                  "name": "Kokob Rafflesia Conservation Garden",
+                  "text": "Grădina de Conservare Kokob Rafflesia conduce drumeții pe poteci de pădure umbrite către zonele de la nivelul solului ale acestei flori parazitare gigantice și iconice.",
+                  "category": "landmark",
+                  "coords": [
+                        116.703845,
+                        5.975268
+                  ]
+            },
+            {
+                  "name": "Kolam Noguros Fishing Center",
+                  "text": "Centrul de pescuit Kolam Noguros oferă iazuri cu apă dulce bine populate, unde pescarii se pot relaxa pe malurile înierbate într-un mediu liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        116.695951,
+                        5.973666
+                  ]
+            },
+            {
+                  "name": "Bombon Kg. Marakau (Fish Spa)",
+                  "text": "Bombon Kg. Marakau protejează o secțiune de râu limpede unde vizitatorii pot merge prin apele puțin adânci pentru a hrăni direct pești locali colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        116.692906,
+                        5.94437
+                  ]
+            },
+            {
+                  "name": "Bukit Sumang",
+                  "text": "Vârful Bukit Sumang îi răsplătește pe drumeții care cuceresc poteca abruptă prin vegetația tropicală densă cu priveliști neobstrucționate.",
+                  "category": "natural",
+                  "coords": [
+                        116.639226,
+                        5.934595
+                  ]
+            },
+            {
+                  "name": "Canopy Walk",
+                  "text": "Canopy Walk prezintă poduri suspendate înguste, întinse sus, printre frunzișul copacilor, oferind o priveliște uimitoare asupra pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.699222,
+                        6.04817
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "Grădina închisă cu fluturi este plină cu plante vibrante, producătoare de nectar, care atrag numeroase specii de insecte delicate și zburătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70141,
+                        6.047369
+                  ]
+            },
+            {
+                  "name": "Bamboo Walk",
+                  "text": "Aleea de bambus conduce pietonii printr-un coridor liniștit, complet umbrit de tulpini înalte și groase de bambus verde.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70281,
+                        6.044899
+                  ]
+            },
+            {
+                  "name": "Vivian's Garden",
+                  "text": "Grădina Vivian prezintă straturi de flori colorate și plante ornamentale care prosperă perfect în microclimatul răcoros al dealurilor înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        116.706918,
+                        6.045847
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Masjid Ar-Rahman are o structură distinctă a minaretului și servește ca spațiu principal de rugăciune islamică pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        116.666634,
+                        5.9502
+                  ]
+            },
+            {
+                  "name": "St Bede's Catholic Church",
+                  "text": "Biserica Catolică St Bede oferă un spațiu cald și primitor pentru slujbele regulate, remarcându-se prin acoperișul său ascuțit din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        116.702059,
+                        5.976265
+                  ]
+            },
+            {
+                  "name": "Dewan Perjumpaan Saksi-Saksi Yehuwa, Ranau",
+                  "text": "Această Sală a Regatului funcțională din Ranau oferă spațiu congregației locale a Martorilor lui Iehova pentru studii biblice și discursuri spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        116.66036,
+                        5.93929
+                  ]
+            },
+            {
+                  "name": "Basel Christian Church of Malaysia Ranau",
+                  "text": "Biserica Creștină Basel din Malaezia, situată în Ranau, își adună congregația protestantă într-o clădire cu un design cruciform simplu, dar modern.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663927,
+                        5.94956
+                  ]
+            },
+            {
+                  "name": "Gereja SIB Sarapong",
+                  "text": "Gereja SIB Sarapong este o biserică evanghelică modestă din lemn, care servește drept loc de cult pentru comunitatea satului din zona rurală Borneo.",
+                  "category": "landmark",
+                  "coords": [
+                        116.638018,
+                        5.916197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Această Surau, fiind o mică clădire de adunare islamică, oferă o sală de rugăciune accesibilă pentru obligațiile zilnice ale locuitorilor musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        116.632109,
+                        5.913369
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio",
+                  "text": "Dedicat Sfântului Padre Pio, acest altar creștin are o zonă liniștită a altarului, destinată rugăciunilor personale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.631819,
+                        5.91222
+                  ]
+            },
+            {
+                  "name": "St. Peter Claver's Catholic Church",
+                  "text": "Arhitectura deschisă a Bisericii Catolice Sfântul Petru Claver permite brizei răcoroase să ventileze sala spațioasă a congregației în timpul slujbelor.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663478,
+                        5.954781
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Injil Borneo Pekan Ranau",
+                  "text": "Situată chiar în centrul orașului, această clădire a bisericii SIB găzduiește slujbele evanghelice muzicale pline de viață ale comunității din Borneo.",
+                  "category": "landmark",
+                  "coords": [
+                        116.674599,
+                        5.958918
+                  ]
+            },
+            {
+                  "name": "Pasar Terbuka Pekan Ranau",
+                  "text": "La Pasar Terbuka, o piață întinsă în aer liber, legumele cu frunze proaspăt recoltate și fructele locale sunt stivuite sub prelate colorate simple.",
+                  "category": "cultural",
+                  "coords": [
+                        116.664504,
+                        5.951303
+                  ]
+            },
+            {
+                  "name": "Ranau Night Market",
+                  "text": "Piața de noapte din Ranau prinde viață după apus, oferind rânduri de tarabe iluminate, unde sfârâie tigăile cu mâncare stradală condimentată.",
+                  "category": "cultural",
+                  "coords": [
+                        116.666153,
+                        5.953424
+                  ]
+            },
+            {
+                  "name": "Kedai Runcit Sinurambi",
+                  "text": "Kedai Runcit Sinurambi este un magazin alimentar local, cu rafturile pline de produse de uz casnic și gustări pentru cartierul din imediata apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        116.659344,
+                        5.93215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adenna Rafflesia Garden",
+                  "text": "The Adenna Rafflesia Garden gives visitors a rare chance to observe the famous, massive, pungent blooms within the dense jungle.",
+                  "category": "landmark",
+                  "coords": [
+                        116.718232,
+                        6.033941
+                  ]
+            },
+            {
+                  "name": "Tagal Luanti (Fish spa)",
+                  "text": "Tagal Luanti offers a river experience where wild Pelian fish gently nibble dead skin away in the flowing waters for a natural massage.",
+                  "category": "landmark",
+                  "coords": [
+                        116.769312,
+                        5.946275
+                  ]
+            },
+            {
+                  "name": "Ranau sports complex paragliding",
+                  "text": "The Ranau sports complex paragliding site provides elevated launch points for soaring gently above the forested valleys of Sabah.",
+                  "category": "landmark",
+                  "coords": [
+                        116.685912,
+                        5.992523
+                  ]
+            },
+            {
+                  "name": "Lohan Paragliding Advantur",
+                  "text": "Lohan Paragliding Advantur invites adventurers to catch mountain updrafts and enjoy a wide panoramic view of the low-lying agricultural valley.",
+                  "category": "landmark",
+                  "coords": [
+                        116.679309,
+                        5.995892
+                  ]
+            },
+            {
+                  "name": "Tugu Sabah 100 Tahun",
+                  "text": "Tugu Sabah 100 Tahun is a stone monument erected to mark a century of historical progress and state heritage in the region.",
+                  "category": "historical",
+                  "coords": [
+                        116.664259,
+                        5.953087
+                  ]
+            },
+            {
+                  "name": "Kokob Rafflesia Conservation Garden",
+                  "text": "The Kokob Rafflesia Conservation Garden leads hikers along shaded forest paths to the ground-level blooming sites of this iconic parasitic giant flower.",
+                  "category": "landmark",
+                  "coords": [
+                        116.703845,
+                        5.975268
+                  ]
+            },
+            {
+                  "name": "Kolam Noguros Fishing Center",
+                  "text": "The Kolam Noguros Fishing Center features stocked freshwater ponds where anglers can relax along the grassy banks in a quiet environment.",
+                  "category": "landmark",
+                  "coords": [
+                        116.695951,
+                        5.973666
+                  ]
+            },
+            {
+                  "name": "Bombon Kg. Marakau (Fish Spa)",
+                  "text": "Bombon Kg. Marakau protects a clear river section where visitors can wade into the shallows to directly feed colorful local fish.",
+                  "category": "landmark",
+                  "coords": [
+                        116.692906,
+                        5.94437
+                  ]
+            },
+            {
+                  "name": "Bukit Sumang",
+                  "text": "The peak of Bukit Sumang rewards hikers who conquer the steep trail through dense tropical vegetation with unobstructed views.",
+                  "category": "natural",
+                  "coords": [
+                        116.639226,
+                        5.934595
+                  ]
+            },
+            {
+                  "name": "Canopy Walk",
+                  "text": "The Canopy Walk features narrow suspension bridges strung high through the treetops, offering sweeping, elevated views of the rainforest canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        116.699222,
+                        6.04817
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "The enclosed Butterfly Garden is filled with vibrant nectar plants that attract and sustain numerous species of delicate, fluttering insects.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70141,
+                        6.047369
+                  ]
+            },
+            {
+                  "name": "Bamboo Walk",
+                  "text": "The Bamboo Walk guides pedestrians down a tranquil corridor entirely shaded by towering, thick stalks of green bamboo.",
+                  "category": "landmark",
+                  "coords": [
+                        116.70281,
+                        6.044899
+                  ]
+            },
+            {
+                  "name": "Vivian's Garden",
+                  "text": "Vivian's Garden presents colorful flowerbeds and ornamental plants that thrive perfectly in the cool microclimate of the surrounding hills.",
+                  "category": "landmark",
+                  "coords": [
+                        116.706918,
+                        6.045847
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Masjid Ar-Rahman features a distinctive minaret structure and serves as the primary Islamic prayer space for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        116.666634,
+                        5.9502
+                  ]
+            },
+            {
+                  "name": "St Bede's Catholic Church",
+                  "text": "St Bede's Catholic Church provides a warm, welcoming space for regular mass under its distinctly pitched wooden roof.",
+                  "category": "landmark",
+                  "coords": [
+                        116.702059,
+                        5.976265
+                  ]
+            },
+            {
+                  "name": "Dewan Perjumpaan Saksi-Saksi Yehuwa, Ranau",
+                  "text": "This functional Kingdom Hall in Ranau provides space for the local Jehovah's Witnesses congregation to gather for bible study and spiritual talks.",
+                  "category": "religious",
+                  "coords": [
+                        116.66036,
+                        5.93929
+                  ]
+            },
+            {
+                  "name": "Basel Christian Church of Malaysia Ranau",
+                  "text": "The Basel Christian Church of Malaysia in Ranau gathers its Protestant congregation within a building of simple yet modern cruciform design.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663927,
+                        5.94956
+                  ]
+            },
+            {
+                  "name": "Gereja SIB Sarapong",
+                  "text": "Gereja SIB Sarapong is a modest wooden Evangelical church serving as a place of worship for the rural Borneo village community.",
+                  "category": "landmark",
+                  "coords": [
+                        116.638018,
+                        5.916197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This Surau, acting as a small Islamic assembly building, provides an accessible prayer room for the daily obligations of Muslim residents.",
+                  "category": "landmark",
+                  "coords": [
+                        116.632109,
+                        5.913369
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio",
+                  "text": "Dedicated to Saint Padre Pio, this Christian shrine features a tranquil altar area designated for personal prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        116.631819,
+                        5.91222
+                  ]
+            },
+            {
+                  "name": "St. Peter Claver's Catholic Church",
+                  "text": "The open-air architecture of St. Peter Claver's Catholic Church allows cool breezes to ventilate the spacious congregational hall during services.",
+                  "category": "landmark",
+                  "coords": [
+                        116.663478,
+                        5.954781
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Injil Borneo Pekan Ranau",
+                  "text": "Situated right in the town center, this SIB church building hosts the lively musical worship sessions of the Borneo Evangelical community.",
+                  "category": "landmark",
+                  "coords": [
+                        116.674599,
+                        5.958918
+                  ]
+            },
+            {
+                  "name": "Pasar Terbuka Pekan Ranau",
+                  "text": "At Pasar Terbuka, a sprawling open-air market, freshly harvested leafy vegetables and local fruits are piled high under simple colorful tarps.",
+                  "category": "cultural",
+                  "coords": [
+                        116.664504,
+                        5.951303
+                  ]
+            },
+            {
+                  "name": "Ranau Night Market",
+                  "text": "The Ranau Night Market comes alive after sunset, featuring rows of illuminated stalls with sizzling pans of spiced street food.",
+                  "category": "cultural",
+                  "coords": [
+                        116.666153,
+                        5.953424
+                  ]
+            },
+            {
+                  "name": "Kedai Runcit Sinurambi",
+                  "text": "Kedai Runcit Sinurambi is a local grocery shop with shelves densely packed with household essentials and snacks for the immediate neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        116.659344,
+                        5.93215
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "MY-12",
     coords: [116.69, 5.97],
@@ -435,7 +8679,1312 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kulim-hitech-park-industry-economic-v2",
+    id: "kulim-hitech-park-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Tok Konan",
+                  "text": "Dieser als markanter Gipfel in der Kulim-Region anerkannte Hügel bietet einen Panoramablick über den umliegenden High-Tech-Industriepark.",
+                  "category": "natural",
+                  "coords": [
+                        100.522138,
+                        5.340232
+                  ]
+            },
+            {
+                  "name": "Bukit Seraya",
+                  "text": "Dieser markante Hügel, der sich über die Landschaft von Kulim erhebt, ist als bemerkenswertes geografisches Merkmal dokumentiert, das Pfade und Naturlandschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.505797,
+                        5.36396
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Teluk Bukit",
+                  "text": "Dieser anerkannte Hügel in der Nähe von Kampung Teluk Bukit bietet einen natürlichen grünen Rückzugsort innerhalb des sich entwickelnden Industriegebiets.",
+                  "category": "natural",
+                  "coords": [
+                        100.501676,
+                        5.353619
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Binjai",
+                  "text": "Dieser national anerkannte Gipfel in der Nähe von Kampung Binjai verleiht dem überwiegend industriellen Gelände von Kulim eine natürliche Erhebung.",
+                  "category": "natural",
+                  "coords": [
+                        100.503831,
+                        5.351337
+                  ]
+            },
+            {
+                  "name": "Bukit Kolam (Bukit 800)",
+                  "text": "Dieser lokal als Bukit 800 bekannte, gut dokumentierte Gipfel dient als markantes Wahrzeichen für Wanderer, die die Hügel von Kulim erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        100.498363,
+                        5.366038
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang Ulu",
+                  "text": "Als anerkannter geografischer Gipfel in der Region bietet diese natürliche Erhebung Outdoor-Erholung abseits des nahegelegenen Technologieparks.",
+                  "category": "natural",
+                  "coords": [
+                        100.512779,
+                        5.383665
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang",
+                  "text": "Dieser bemerkenswerte malaysische Hügel bietet malerische Aussichtspunkte über die sich entwickelnde Landschaft des High-Tech-Zentrums Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.515352,
+                        5.396084
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "Dieser markante Hügel ist für seine Naturpfade dokumentiert und ein beliebtes Ziel für Naturliebhaber, die die Industriestadt besuchen.",
+                  "category": "natural",
+                  "coords": [
+                        100.508256,
+                        5.406542
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Lalang",
+                  "text": "Dieser anerkannte Gipfel mit Blick auf Kampung Lalang bietet einen natürlichen topografischen Kontrast zu den flachen Industriezonen von Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.516182,
+                        5.412691
+                  ]
+            },
+            {
+                  "name": "Bukit Gua Gempas",
+                  "text": "Dieser national anerkannte Hügel bietet einen bewaldeten Rückzugsort und potenzielle Höhlenerkundungsmöglichkeiten in der Umgebung von Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.495811,
+                        5.421495
+                  ]
+            },
+            {
+                  "name": "Bukit Sungai Ular",
+                  "text": "Dieser dokumentierte Hügel, der nach dem Schlangenfluss benannt ist, verfügt über ein natürliches Gelände, das lokale Wanderer aus dem nahegelegenen Technologiepark anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        100.626294,
+                        5.373978
+                  ]
+            },
+            {
+                  "name": "Bukit Jelutong",
+                  "text": "Dieser anerkannte geografische Gipfel erhebt sich über die umliegende Landschaft und verleiht Kulims wachsender vorstädtischer und industrieller Mischung strukturelle Vielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        100.571937,
+                        5.407276
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Sungai Limau",
+                  "text": "Dieser markante Hügel in der Nähe des Dorfes am Limau-Fluss bietet einen natürlichen Aussichtspunkt auf die landwirtschaftlichen und industriellen Entwicklungen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        100.525027,
+                        5.412806
+                  ]
+            },
+            {
+                  "name": "Bukit Badak Mati",
+                  "text": "Dieser gut dokumentierte Hügel trägt einen markanten lokalen Namen und ist ein erkennbares natürliches Wahrzeichen inmitten der Industrielandschaft von Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.530214,
+                        5.331284
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Padang Penyangga",
+                  "text": "Dieser dokumentierte geografische Gipfel überblickt ein lokales Dorf und bietet ein Stück natürlicher Wildnis in der Nähe der geschäftigen High-Tech-Zonen.",
+                  "category": "natural",
+                  "coords": [
+                        100.528819,
+                        5.321516
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser lokale islamische Gebetssaal bietet Arbeitern und Anwohnern im Industriegebiet einen ruhigen und zugänglichen Raum für ihre täglichen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        100.492678,
+                        5.397546
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Suria",
+                  "text": "Diese lokale Moschee dient dem Wohnviertel Taman Ara Suria und veranstaltet tägliche Gemeinschaftsgebete und Gemeindeversammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        100.522093,
+                        5.432449
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Jaya",
+                  "text": "Diese islamische Einrichtung in der Wohnsiedlung Taman Ara Jaya ist ein spirituelles Zentrum für die täglichen Gottesdienste der lokalen muslimischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        100.515609,
+                        5.438013
+                  ]
+            },
+            {
+                  "name": "Pusat Modal Insan",
+                  "text": "Diese Einrichtung fungiert sowohl als Moschee als auch als Zentrum für die Entwicklung von Humankapital und fördert die islamische Bildung und den Gemeindeaufbau in Kulim.",
+                  "category": "religious",
+                  "coords": [
+                        100.539734,
+                        5.334652
+                  ]
+            },
+            {
+                  "name": "Lunas Market",
+                  "text": "Dieser geschäftige traditionelle Markt in Lunas bietet den Bewohnern der umliegenden Bezirke frische lokale Produkte, Streetfood und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        100.534139,
+                        5.429894
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Machang Bubuk",
+                  "text": "Dieser in den frühen Morgenstunden geöffnete Markt in Machang Bubuk ist ein beliebter Ort für Einheimische, um frisches Gemüse und Frühstücksartikel zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        100.508449,
+                        5.336317
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kilang Lama",
+                  "text": "Dieser historische öffentliche Markt in der Gegend von Kilang Lama ist nach wie vor ein wichtiges Handelszentrum für frische Lebensmittel und lokale kulinarische Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        100.565687,
+                        5.389821
+                  ]
+            },
+            {
+                  "name": "KM5",
+                  "text": "Dieser lokale Orientierungspunkt in Kulim markiert einen bemerkenswerten Meilenstein entlang des wachsenden vorstädtischen und industriellen Straßennetzes der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593721,
+                        5.428293
+                  ]
+            },
+            {
+                  "name": "KM2",
+                  "text": "Dieser als anerkannte Markierung innerhalb der Stadtgrenzen fungierende Ort ist Teil der befahrenen Infrastruktur rund um den High-Tech-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588232,
+                        5.424719
+                  ]
+            },
+            {
+                  "name": "Infineon Technologies (Kulim) Sdn. Bhd.",
+                  "text": "Diese riesige Halbleiterfabrik ist ein Eckpfeiler des Kulim Hi-Tech Parks und stellt eine bedeutende globale technologische Investition dar.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590648,
+                        5.399599
+                  ]
+            },
+            {
+                  "name": "TIAHEERA HALL",
+                  "text": "Diese geräumige lokale Veranstaltungshalle in Kulim veranstaltet häufig Gemeindeversammlungen, Hochzeiten und Firmenfeiern für die umliegenden Industriegebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        100.526433,
+                        5.363437
+                  ]
+            },
+            {
+                  "name": "Masjid Aceh Ara Kuda",
+                  "text": "Eine lokale Moschee, die der muslimischen Gemeinschaft in der Nähe des Kulim Hi-Tech Parks dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512471,
+                        5.441106
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Al Fateh",
+                  "text": "Diese nach Muhammad Al Fateh benannte Moschee ist ein wichtiges islamisches Gotteshaus in der Region Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.637606,
+                        5.433666
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Ara Kuda",
+                  "text": "Die Masjid Jamek Ara Kuda ist eine islamische Freitagsmoschee, die Gläubige aus der Umgebung von Kulim anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512244,
+                        5.437045
+                  ]
+            },
+            {
+                  "name": "Surau Taman Jambu",
+                  "text": "Ein kleiner islamischer Gebetsraum, der sich im Wohngebiet Taman Jambu bei Kulim befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512179,
+                        5.333759
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kariah Machang Bubuk",
+                  "text": "Diese Freitagsmoschee dient als zentraler islamischer Treffpunkt für die Gemeinde Machang Bubuk nahe Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.513901,
+                        5.338297
+                  ]
+            },
+            {
+                  "name": "Hai Tong Ma Temple",
+                  "text": "Der Hai Tong Ma Tempel ist eine friedliche buddhistische Kultstätte in der Nähe der Kulim-Industriezone.",
+                  "category": "landmark",
+                  "coords": [
+                        100.52228,
+                        5.348012
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek kampung Mengkuang",
+                  "text": "Eine islamische Hauptmoschee inmitten des traditionellen Dorfes Kampung Mengkuang bei Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.496307,
+                        5.400609
+                  ]
+            },
+            {
+                  "name": "Wat Rajaphohong",
+                  "text": "Dieser Tempel zeichnet sich durch seine thailändische buddhistische Architektur aus und bietet einen spirituellen Rückzugsort nahe Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.510245,
+                        5.428072
+                  ]
+            },
+            {
+                  "name": "Surau Taman Desa Pemai",
+                  "text": "Dieser lokale islamische Gebetsraum befindet sich im Viertel Taman Desa Permai in der Nähe von Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.53576,
+                        5.439929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "Die Masjid Al-Huda ist eine islamische Kultstätte, die der muslimischen Gemeinde im Raum Kulim zur Verfügung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        100.562522,
+                        5.391117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Tok Konan",
+                  "text": "A Kulim régió egyik figyelemre méltó csúcsaként számon tartott domb panorámás kilátást nyújt a környező high-tech ipari parkra.",
+                  "category": "natural",
+                  "coords": [
+                        100.522138,
+                        5.340232
+                  ]
+            },
+            {
+                  "name": "Bukit Seraya",
+                  "text": "A Kulim tájából kiemelkedő domb dokumentált földrajzi képződmény, amely ösvényeket és természeti látványt kínál.",
+                  "category": "natural",
+                  "coords": [
+                        100.505797,
+                        5.36396
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Teluk Bukit",
+                  "text": "A Kampung Teluk Bukit közelében található, elismert domb természetes zöld menedéket nyújt a fejlődő ipari negyedben.",
+                  "category": "natural",
+                  "coords": [
+                        100.501676,
+                        5.353619
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Binjai",
+                  "text": "Ez a Kampung Binjai közelében található, országosan elismert csúcs egy kis természetes magaslatot ad Kulim túlnyomórészt ipari terepének.",
+                  "category": "natural",
+                  "coords": [
+                        100.503831,
+                        5.351337
+                  ]
+            },
+            {
+                  "name": "Bukit Kolam (Bukit 800)",
+                  "text": "A helyiek által Bukit 800 néven ismert, jól dokumentált csúcs kiemelkedő tájékozódási pontként szolgál a Kulim dombjain túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        100.498363,
+                        5.366038
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang Ulu",
+                  "text": "A régió elismert földrajzi csúcsaként ez a természetes magaslat szabadtéri kikapcsolódást kínál a közeli technológiai parktól távol.",
+                  "category": "natural",
+                  "coords": [
+                        100.512779,
+                        5.383665
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang",
+                  "text": "Ez a figyelemre méltó malajziai domb festői kilátópontokat kínál a kulimi csúcstechnológiai központ fejlődő tájára.",
+                  "category": "natural",
+                  "coords": [
+                        100.515352,
+                        5.396084
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "A természetes ösvényeiről dokumentált, kiemelkedő domb népszerű célpont az iparvárosba látogató természetbarátok körében.",
+                  "category": "natural",
+                  "coords": [
+                        100.508256,
+                        5.406542
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Lalang",
+                  "text": "A Kampung Lalangra néző, elismert csúcs természetes domborzati kontrasztot kínál Kulim lapos ipari zónáival szemben.",
+                  "category": "natural",
+                  "coords": [
+                        100.516182,
+                        5.412691
+                  ]
+            },
+            {
+                  "name": "Bukit Gua Gempas",
+                  "text": "Ez az országosan elismert domb erdős menedéket és potenciális barlangászati lehetőségeket kínál Kulim térségében.",
+                  "category": "natural",
+                  "coords": [
+                        100.495811,
+                        5.421495
+                  ]
+            },
+            {
+                  "name": "Bukit Sungai Ular",
+                  "text": "A Kígyó-folyóról elnevezett, dokumentált domb olyan természetes terepet kínál, amely vonzza a közeli technológiai park helyi túrázóit.",
+                  "category": "natural",
+                  "coords": [
+                        100.626294,
+                        5.373978
+                  ]
+            },
+            {
+                  "name": "Bukit Jelutong",
+                  "text": "A környező tájból kiemelkedő, elismert földrajzi csúcs strukturális változatosságot ad Kulim bővülő külvárosi és ipari keverékéhez.",
+                  "category": "natural",
+                  "coords": [
+                        100.571937,
+                        5.407276
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Sungai Limau",
+                  "text": "A Limau-folyó falva közelében található figyelemre méltó domb természetes kilátópontot kínál a régió mezőgazdasági és ipari fejlesztéseire.",
+                  "category": "natural",
+                  "coords": [
+                        100.525027,
+                        5.412806
+                  ]
+            },
+            {
+                  "name": "Bukit Badak Mati",
+                  "text": "A különleges helyi nevet viselő, jól dokumentált domb egy felismerhető természeti tájékozódási pont Kulim ipari tájában.",
+                  "category": "natural",
+                  "coords": [
+                        100.530214,
+                        5.331284
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Padang Penyangga",
+                  "text": "Egy helyi falura néző, dokumentált földrajzi csúcs a természetes vadon egy szeletét nyújtja a nyüzsgő high-tech zónák közelében.",
+                  "category": "natural",
+                  "coords": [
+                        100.528819,
+                        5.321516
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a helyi iszlám imaterem csendes és könnyen elérhető teret biztosít a mindennapi imákhoz az ipartelepen dolgozók és lakók számára.",
+                  "category": "religious",
+                  "coords": [
+                        100.492678,
+                        5.397546
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Suria",
+                  "text": "A Taman Ara Suria lakónegyedet szolgáló helyi mecset mindennapi közösségi imáknak és közösségi összejöveteleknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        100.522093,
+                        5.432449
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Jaya",
+                  "text": "A Taman Ara Jaya lakótelepen található iszlám létesítmény a helyi muszlim közösség mindennapi istentiszteleteinek spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        100.515609,
+                        5.438013
+                  ]
+            },
+            {
+                  "name": "Pusat Modal Insan",
+                  "text": "A mecsetként és humántőke-fejlesztési központként is működő létesítmény az iszlám oktatást és a közösségépítést népszerűsíti Kulimban.",
+                  "category": "religious",
+                  "coords": [
+                        100.539734,
+                        5.334652
+                  ]
+            },
+            {
+                  "name": "Lunas Market",
+                  "text": "Ez a Lunasban található nyüzsgő, hagyományos piac friss helyi termékeket, utcai ételeket és mindennapi cikkeket kínál a környező kerületek lakóinak.",
+                  "category": "cultural",
+                  "coords": [
+                        100.534139,
+                        5.429894
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Machang Bubuk",
+                  "text": "A kora reggel működő Machang Bubuk-i reggeli piac népszerű hely a helyiek körében a friss zöldségek és reggeli ételek beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        100.508449,
+                        5.336317
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kilang Lama",
+                  "text": "Ez a történelmi közpiac a Kilang Lama területén továbbra is a friss élelmiszerek és a helyi kulináris specialitások létfontosságú kereskedelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        100.565687,
+                        5.389821
+                  ]
+            },
+            {
+                  "name": "KM5",
+                  "text": "Ez a kulimi helyi nevezetesség egy figyelemre méltó mérföldkövet jelöl a város bővülő külvárosi és ipari úthálózatán.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593721,
+                        5.428293
+                  ]
+            },
+            {
+                  "name": "KM2",
+                  "text": "A városhatáron belüli elismert jelzésként funkcionáló hely a csúcstechnológiai parkot körülvevő navigált infrastruktúra része.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588232,
+                        5.424719
+                  ]
+            },
+            {
+                  "name": "Infineon Technologies (Kulim) Sdn. Bhd.",
+                  "text": "Ez a hatalmas félvezetőgyár a Kulim Hi-Tech Park sarokköve, amely jelentős globális technológiai befektetést képvisel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590648,
+                        5.399599
+                  ]
+            },
+            {
+                  "name": "TIAHEERA HALL",
+                  "text": "Ez a tágas helyi rendezvényterem Kulimban gyakran ad otthont közösségi összejöveteleknek, esküvőknek és céges rendezvényeknek a környező ipari negyedek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.526433,
+                        5.363437
+                  ]
+            },
+            {
+                  "name": "Masjid Aceh Ara Kuda",
+                  "text": "Egy helyi mecset, amely a Kulim Hi-Tech Park közelében élő muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512471,
+                        5.441106
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Al Fateh",
+                  "text": "Ez a Muhammad Al Fatehről elnevezett mecset egy fontos iszlám istentiszteleti hely Kulim régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.637606,
+                        5.433666
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Ara Kuda",
+                  "text": "A Masjid Jamek Ara Kuda egy iszlám pénteki mecset, amely Kulim környékéről vonzza a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512244,
+                        5.437045
+                  ]
+            },
+            {
+                  "name": "Surau Taman Jambu",
+                  "text": "Egy kis iszlám imaterem, amely a Kulim melletti Taman Jambu lakóövezetben található.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512179,
+                        5.333759
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kariah Machang Bubuk",
+                  "text": "Ez a pénteki mecset központi iszlám találkozóhelyként szolgál a Kulim melletti Machang Bubuk közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.513901,
+                        5.338297
+                  ]
+            },
+            {
+                  "name": "Hai Tong Ma Temple",
+                  "text": "A Hai Tong Ma templom egy békés buddhista istentiszteleti hely a Kulim ipari zóna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.52228,
+                        5.348012
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek kampung Mengkuang",
+                  "text": "Egy iszlám központi mecset a Kulim melletti hagyományos Kampung Mengkuang faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.496307,
+                        5.400609
+                  ]
+            },
+            {
+                  "name": "Wat Rajaphohong",
+                  "text": "Ez a templom thai buddhista építészetével tűnik ki, és spirituális menedéket nyújt Kulim közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.510245,
+                        5.428072
+                  ]
+            },
+            {
+                  "name": "Surau Taman Desa Pemai",
+                  "text": "Ez a helyi iszlám imaterem a Kulim melletti Taman Desa Permai negyedben található.",
+                  "category": "landmark",
+                  "coords": [
+                        100.53576,
+                        5.439929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "A Masjid Al-Huda egy iszlám istentiszteleti hely, amely a Kulim térségében élő muszlim közösség rendelkezésére áll.",
+                  "category": "landmark",
+                  "coords": [
+                        100.562522,
+                        5.391117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Tok Konan",
+                  "text": "Recunoscut ca un vârf notabil în regiunea Kulim, acest deal înalt oferă vederi panoramice asupra parcului industrial de înaltă tehnologie din jur.",
+                  "category": "natural",
+                  "coords": [
+                        100.522138,
+                        5.340232
+                  ]
+            },
+            {
+                  "name": "Bukit Seraya",
+                  "text": "Ridicându-se deasupra peisajului Kulim, acest deal proeminent este documentat ca o caracteristică geografică notabilă, oferind trasee și peisaje naturale.",
+                  "category": "natural",
+                  "coords": [
+                        100.505797,
+                        5.36396
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Teluk Bukit",
+                  "text": "Situat lângă Kampung Teluk Bukit, acest deal recunoscut oferă o evadare naturală verde în cadrul districtului industrial în curs de dezvoltare.",
+                  "category": "natural",
+                  "coords": [
+                        100.501676,
+                        5.353619
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Binjai",
+                  "text": "Acest vârf recunoscut la nivel național din apropiere de Kampung Binjai adaugă o notă de elevație naturală terenului predominant industrial din Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.503831,
+                        5.351337
+                  ]
+            },
+            {
+                  "name": "Bukit Kolam (Bukit 800)",
+                  "text": "Cunoscut local sub numele de Bukit 800, acest vârf bine documentat servește ca un punct de reper important pentru drumeții care explorează dealurile Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.498363,
+                        5.366038
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang Ulu",
+                  "text": "Ca un vârf geografic recunoscut în regiune, această elevație naturală oferă recreere în aer liber departe de parcul tehnologic din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        100.512779,
+                        5.383665
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang",
+                  "text": "Acest deal notabil din Malaezia oferă puncte de observație pitorești asupra peisajului în curs de dezvoltare al centrului de înaltă tehnologie din Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.515352,
+                        5.396084
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "Documentat pentru traseele sale naturale, acest deal proeminent este o destinație populară pentru pasionații de natură care vizitează orașul industrial.",
+                  "category": "natural",
+                  "coords": [
+                        100.508256,
+                        5.406542
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Lalang",
+                  "text": "Cu vedere la Kampung Lalang, acest vârf recunoscut oferă un contrast topografic natural față de zonele industriale plate din Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.516182,
+                        5.412691
+                  ]
+            },
+            {
+                  "name": "Bukit Gua Gempas",
+                  "text": "Acest deal recunoscut la nivel național oferă o evadare împădurită și potențiale oportunități de explorare a peșterilor în zona Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.495811,
+                        5.421495
+                  ]
+            },
+            {
+                  "name": "Bukit Sungai Ular",
+                  "text": "Numit după Râul Șarpelui, acest deal documentat are un teren natural care atrage drumeții locali din parcul tehnologic din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        100.626294,
+                        5.373978
+                  ]
+            },
+            {
+                  "name": "Bukit Jelutong",
+                  "text": "Ridicându-se deasupra peisajului înconjurător, acest vârf geografic recunoscut adaugă diversitate structurală amestecului suburban și industrial în expansiune din Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.571937,
+                        5.407276
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Sungai Limau",
+                  "text": "Situat lângă satul de pe râul Limau, acest deal notabil oferă un punct de belvedere natural cu vedere la dezvoltările agricole și industriale ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        100.525027,
+                        5.412806
+                  ]
+            },
+            {
+                  "name": "Bukit Badak Mati",
+                  "text": "Purtând un nume local distinct, acest deal bine documentat este un punct de reper natural recunoscut în mijlocul peisajului industrial din Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.530214,
+                        5.331284
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Padang Penyangga",
+                  "text": "Cu vedere la un sat local, acest vârf geografic documentat oferă o felie de sălbăticie naturală lângă zonele de înaltă tehnologie pline de viață.",
+                  "category": "natural",
+                  "coords": [
+                        100.528819,
+                        5.321516
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Această sală de rugăciune islamică locală oferă un spațiu liniștit și accesibil pentru rugăciunile zilnice pentru muncitorii și rezidenții din zona industrială.",
+                  "category": "religious",
+                  "coords": [
+                        100.492678,
+                        5.397546
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Suria",
+                  "text": "Deservind cartierul rezidențial Taman Ara Suria, această moschee locală găzduiește rugăciuni congregaționale zilnice și adunări ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        100.522093,
+                        5.432449
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Jaya",
+                  "text": "Situată în cadrul complexului de locuințe Taman Ara Jaya, această facilitate islamică este un centru spiritual pentru închinarea zilnică a comunității musulmane locale.",
+                  "category": "religious",
+                  "coords": [
+                        100.515609,
+                        5.438013
+                  ]
+            },
+            {
+                  "name": "Pusat Modal Insan",
+                  "text": "Funcționând atât ca moschee, cât și ca centru de dezvoltare a capitalului uman, această facilitate promovează educația islamică și construirea comunității în Kulim.",
+                  "category": "religious",
+                  "coords": [
+                        100.539734,
+                        5.334652
+                  ]
+            },
+            {
+                  "name": "Lunas Market",
+                  "text": "Acest piață tradițională plină de viață din Lunas oferă produse locale proaspete, mâncare de stradă și bunuri de zi cu zi locuitorilor din districtele înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        100.534139,
+                        5.429894
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Machang Bubuk",
+                  "text": "Funcționând la primele ore ale zilei, această piață de dimineață din Machang Bubuk este un loc popular pentru localnici pentru a achiziționa legume proaspete și produse pentru micul dejun.",
+                  "category": "cultural",
+                  "coords": [
+                        100.508449,
+                        5.336317
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kilang Lama",
+                  "text": "Această piață publică istorică din zona Kilang Lama rămâne un centru comercial vital pentru alimente proaspete și specialități culinare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        100.565687,
+                        5.389821
+                  ]
+            },
+            {
+                  "name": "KM5",
+                  "text": "Acest punct de interes local din Kulim marchează o piatră de hotar notabilă de-a lungul rețelei de drumuri suburbane și industriale în expansiune a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593721,
+                        5.428293
+                  ]
+            },
+            {
+                  "name": "KM2",
+                  "text": "Funcționând ca un marcaj recunoscut în limitele orașului, această locație face parte din infrastructura navigată din jurul parcului de înaltă tehnologie.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588232,
+                        5.424719
+                  ]
+            },
+            {
+                  "name": "Infineon Technologies (Kulim) Sdn. Bhd.",
+                  "text": "Această fabrică masivă de fabricare a semiconductorilor este o piatră de temelie a parcului Hi-Tech din Kulim, reprezentând o investiție tehnologică globală majoră.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590648,
+                        5.399599
+                  ]
+            },
+            {
+                  "name": "TIAHEERA HALL",
+                  "text": "Această sală de evenimente locală spațioasă din Kulim găzduiește frecvent adunări comunitare, nunți și funcții corporative pentru districtele industriale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        100.526433,
+                        5.363437
+                  ]
+            },
+            {
+                  "name": "Masjid Aceh Ara Kuda",
+                  "text": "O moschee locală care deservește comunitatea musulmană din apropierea Kulim Hi-Tech Park.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512471,
+                        5.441106
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Al Fateh",
+                  "text": "Numită după Muhammad Al Fateh, această moschee este un important lăcaș de cult islamic din regiunea Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.637606,
+                        5.433666
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Ara Kuda",
+                  "text": "Masjid Jamek Ara Kuda este o moschee islamică de vineri care atrage credincioșii din zona Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512244,
+                        5.437045
+                  ]
+            },
+            {
+                  "name": "Surau Taman Jambu",
+                  "text": "O mică sală de rugăciune islamică situată în zona rezidențială Taman Jambu de lângă Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512179,
+                        5.333759
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kariah Machang Bubuk",
+                  "text": "Această moschee de vineri servește ca punct central de întâlnire islamică pentru parohia Machang Bubuk de lângă Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.513901,
+                        5.338297
+                  ]
+            },
+            {
+                  "name": "Hai Tong Ma Temple",
+                  "text": "Templul Hai Tong Ma este un lăcaș de cult budist liniștit în apropierea zonei industriale Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.52228,
+                        5.348012
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek kampung Mengkuang",
+                  "text": "O moschee islamică principală situată în satul tradițional Kampung Mengkuang de lângă Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.496307,
+                        5.400609
+                  ]
+            },
+            {
+                  "name": "Wat Rajaphohong",
+                  "text": "Acest templu se distinge prin arhitectura sa budistă thailandeză, oferind un refugiu spiritual lângă Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.510245,
+                        5.428072
+                  ]
+            },
+            {
+                  "name": "Surau Taman Desa Pemai",
+                  "text": "Această sală locală de rugăciune islamică este situată în cartierul Taman Desa Permai, lângă Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.53576,
+                        5.439929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "Masjid Al-Huda este un lăcaș de cult islamic care deservește comunitatea musulmană din zona Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.562522,
+                        5.391117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Tok Konan",
+                  "text": "Recognized as a notable peak in the Kulim region, this elevated hill offers panoramic views over the surrounding high-tech industrial park.",
+                  "category": "natural",
+                  "coords": [
+                        100.522138,
+                        5.340232
+                  ]
+            },
+            {
+                  "name": "Bukit Seraya",
+                  "text": "Rising above the Kulim landscape, this prominent hill is documented as a notable geographic feature offering trails and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        100.505797,
+                        5.36396
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Teluk Bukit",
+                  "text": "Situated near Kampung Teluk Bukit, this recognized hill provides a natural green escape within the developing industrial district.",
+                  "category": "natural",
+                  "coords": [
+                        100.501676,
+                        5.353619
+                  ]
+            },
+            {
+                  "name": "Bukit Kg Binjai",
+                  "text": "This nationally recognized peak near Kampung Binjai adds a touch of natural elevation to the predominantly industrial terrain of Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.503831,
+                        5.351337
+                  ]
+            },
+            {
+                  "name": "Bukit Kolam (Bukit 800)",
+                  "text": "Known locally as Bukit 800, this well-documented peak serves as a prominent landmark for hikers navigating the Kulim hills.",
+                  "category": "natural",
+                  "coords": [
+                        100.498363,
+                        5.366038
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang Ulu",
+                  "text": "As a recognized geographic summit in the region, this natural elevation offers outdoor recreation away from the nearby technology park.",
+                  "category": "natural",
+                  "coords": [
+                        100.512779,
+                        5.383665
+                  ]
+            },
+            {
+                  "name": "Bukit Mengkuang",
+                  "text": "This notable Malaysian hill provides scenic vantage points over the developing landscape of the Kulim high-tech hub.",
+                  "category": "natural",
+                  "coords": [
+                        100.515352,
+                        5.396084
+                  ]
+            },
+            {
+                  "name": "Langkap Hill",
+                  "text": "Documented for its natural trails, this prominent hill is a popular destination for nature enthusiasts visiting the industrial city.",
+                  "category": "natural",
+                  "coords": [
+                        100.508256,
+                        5.406542
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Lalang",
+                  "text": "Overlooking Kampung Lalang, this recognized peak offers a natural topographical contrast to the flat industrial zones of Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.516182,
+                        5.412691
+                  ]
+            },
+            {
+                  "name": "Bukit Gua Gempas",
+                  "text": "This nationally recognized hill provides a forested escape and potential cave exploration opportunities in the Kulim area.",
+                  "category": "natural",
+                  "coords": [
+                        100.495811,
+                        5.421495
+                  ]
+            },
+            {
+                  "name": "Bukit Sungai Ular",
+                  "text": "Named after the Snake River, this documented hill features natural terrain that attracts local hikers from the nearby technology park.",
+                  "category": "natural",
+                  "coords": [
+                        100.626294,
+                        5.373978
+                  ]
+            },
+            {
+                  "name": "Bukit Jelutong",
+                  "text": "Rising above the surrounding landscape, this recognized geographic peak adds structural diversity to Kulim's expanding suburban and industrial mix.",
+                  "category": "natural",
+                  "coords": [
+                        100.571937,
+                        5.407276
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Sungai Limau",
+                  "text": "Situated near the Limau River village, this notable hill offers a natural viewpoint overlooking the region's agricultural and industrial developments.",
+                  "category": "natural",
+                  "coords": [
+                        100.525027,
+                        5.412806
+                  ]
+            },
+            {
+                  "name": "Bukit Badak Mati",
+                  "text": "Carrying a distinct local name, this well-documented hill is a recognizable natural landmark amidst the industrial landscape of Kulim.",
+                  "category": "natural",
+                  "coords": [
+                        100.530214,
+                        5.331284
+                  ]
+            },
+            {
+                  "name": "Bukit Kampung Padang Penyangga",
+                  "text": "Overlooking a local village, this documented geographical peak provides a slice of natural wilderness near the bustling high-tech zones.",
+                  "category": "natural",
+                  "coords": [
+                        100.528819,
+                        5.321516
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This local Islamic prayer hall provides a quiet and accessible space for daily prayers for workers and residents in the industrial area.",
+                  "category": "religious",
+                  "coords": [
+                        100.492678,
+                        5.397546
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Suria",
+                  "text": "Serving the residential neighborhood of Taman Ara Suria, this local mosque hosts daily congregational prayers and community gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        100.522093,
+                        5.432449
+                  ]
+            },
+            {
+                  "name": "Surau Taman Ara Jaya",
+                  "text": "Situated within the Taman Ara Jaya housing estate, this Islamic facility is a spiritual center for the local Muslim community's daily worship.",
+                  "category": "religious",
+                  "coords": [
+                        100.515609,
+                        5.438013
+                  ]
+            },
+            {
+                  "name": "Pusat Modal Insan",
+                  "text": "Functioning as both a mosque and a human capital development center, this facility promotes Islamic education and community building in Kulim.",
+                  "category": "religious",
+                  "coords": [
+                        100.539734,
+                        5.334652
+                  ]
+            },
+            {
+                  "name": "Lunas Market",
+                  "text": "This bustling traditional market in Lunas offers fresh local produce, street food, and everyday goods to the residents of the surrounding districts.",
+                  "category": "cultural",
+                  "coords": [
+                        100.534139,
+                        5.429894
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Machang Bubuk",
+                  "text": "Operating early in the day, this morning market in Machang Bubuk is a popular spot for locals to purchase fresh vegetables and breakfast items.",
+                  "category": "cultural",
+                  "coords": [
+                        100.508449,
+                        5.336317
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kilang Lama",
+                  "text": "This historic public market in the Kilang Lama area remains a vital trading hub for fresh groceries and local culinary specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        100.565687,
+                        5.389821
+                  ]
+            },
+            {
+                  "name": "KM5",
+                  "text": "This local point of interest in Kulim marks a notable milestone along the town's expanding suburban and industrial road network.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593721,
+                        5.428293
+                  ]
+            },
+            {
+                  "name": "KM2",
+                  "text": "Functioning as a recognized marker within the city limits, this location is part of the navigated infrastructure surrounding the high-tech park.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588232,
+                        5.424719
+                  ]
+            },
+            {
+                  "name": "Infineon Technologies (Kulim) Sdn. Bhd.",
+                  "text": "This massive semiconductor manufacturing plant is a cornerstone of the Kulim Hi-Tech Park, representing a major global technological investment.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590648,
+                        5.399599
+                  ]
+            },
+            {
+                  "name": "TIAHEERA HALL",
+                  "text": "This spacious local event hall in Kulim frequently hosts community gatherings, weddings, and corporate functions for the surrounding industrial districts.",
+                  "category": "landmark",
+                  "coords": [
+                        100.526433,
+                        5.363437
+                  ]
+            },
+            {
+                  "name": "Masjid Aceh Ara Kuda",
+                  "text": "A local mosque serving the Muslim community near the Kulim Hi-Tech Park.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512471,
+                        5.441106
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Al Fateh",
+                  "text": "Named after Muhammad Al Fateh, this mosque is an important Islamic place of worship in the Kulim region.",
+                  "category": "landmark",
+                  "coords": [
+                        100.637606,
+                        5.433666
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Ara Kuda",
+                  "text": "Masjid Jamek Ara Kuda is an Islamic congregational mosque that gathers worshippers from the Kulim area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512244,
+                        5.437045
+                  ]
+            },
+            {
+                  "name": "Surau Taman Jambu",
+                  "text": "A small Islamic prayer hall located in the Taman Jambu residential area near Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.512179,
+                        5.333759
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kariah Machang Bubuk",
+                  "text": "This congregational mosque serves as a central Islamic gathering place for the Machang Bubuk parish near Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.513901,
+                        5.338297
+                  ]
+            },
+            {
+                  "name": "Hai Tong Ma Temple",
+                  "text": "The Hai Tong Ma Temple is a peaceful Buddhist place of worship near the Kulim industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        100.52228,
+                        5.348012
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek kampung Mengkuang",
+                  "text": "A main Islamic congregational mosque set within the traditional village of Kampung Mengkuang near Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.496307,
+                        5.400609
+                  ]
+            },
+            {
+                  "name": "Rajchaphohong Thai Buddhist Temple",
+                  "text": "Distinguished by its Thai Buddhist architecture, this temple provides a spiritual retreat near Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.510245,
+                        5.428072
+                  ]
+            },
+            {
+                  "name": "Surau Taman Desa Pemai",
+                  "text": "This local Islamic prayer hall is located in the Taman Desa Permai neighborhood near Kulim.",
+                  "category": "landmark",
+                  "coords": [
+                        100.53576,
+                        5.439929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "Masjid Al-Huda is an Islamic place of worship serving the Muslim community in the Kulim area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.562522,
+                        5.391117
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MY-02",
     coords: [100.58, 5.39],
@@ -483,7 +10032,988 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "klia-aeropolis-trade-hub-economic-v2",
+    id: "klia-aeropolis-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al-Ulum",
+                  "text": "Eine bekannte Moschee im KLIA Aeropolis-Gebiet, die an ihrem modernen islamischen Design zu erkennen ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.673497,
+                        2.659996
+                  ]
+            },
+            {
+                  "name": "Anjung Spotter",
+                  "text": "Ein beliebter Aussichtspunkt im Freien in der Nähe des Flughafens, von dem aus man startende und landende Flugzeuge beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        101.712001,
+                        2.716374
+                  ]
+            },
+            {
+                  "name": "Masjid Salak Tinggi",
+                  "text": "Die Hauptmoschee von Salak Tinggi, die einer großen Gemeinde von Gläubigen Platz bietet.",
+                  "category": "religious",
+                  "coords": [
+                        101.748317,
+                        2.794666
+                  ]
+            },
+            {
+                  "name": "Muzium Automobil Nasional",
+                  "text": "Ein Museum, das die Geschichte und Entwicklung der malaysischen Automobilindustrie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        101.731686,
+                        2.759319
+                  ]
+            },
+            {
+                  "name": "Mural Art @ BBST Walk",
+                  "text": "Eine farbenfrohe Ausstellung von Street-Art-Wandmalereien, die die Fußgängerwege des BBST Walk schmücken.",
+                  "category": "landmark",
+                  "coords": [
+                        101.737803,
+                        2.811619
+                  ]
+            },
+            {
+                  "name": "Aza Aquarium",
+                  "text": "Ein lokales Aquarium, in dem eine Vielzahl bunter Zierfische und Wasserpflanzen ausgestellt sind.",
+                  "category": "recreational",
+                  "coords": [
+                        101.692327,
+                        2.81909
+                  ]
+            },
+            {
+                  "name": "Masjid Pekan Sepang",
+                  "text": "Die markante Stadtmoschee in Sepang, die einen zentralen Ort für islamische Gebete bietet.",
+                  "category": "religious",
+                  "coords": [
+                        101.752264,
+                        2.694525
+                  ]
+            },
+            {
+                  "name": "Rimba",
+                  "text": "Eine Anfang 2026 eröffnete Attraktion, die Besuchern eine kuratierte Umgebung mit Waldthema bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.713606,
+                        2.747985
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ein kleiner islamischer Gebetsraum im Bereich des Handelszentrums KLIA Aeropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        101.681226,
+                        2.768414
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "Ein muslimisches Gotteshaus im KLIA-Gebiet, das Einheimischen und Reisenden spirituelle Zuflucht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.667441,
+                        2.672349
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Abu Bakar",
+                  "text": "Eine nach Saidina Abu Bakar benannte islamische Moschee, in der tägliche Gemeinschaftsgebete abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        101.779959,
+                        2.765074
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "Ein islamischer Gebetsraum in der Gemeinde, der tägliche Gottesdienste im Bezirk anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.762238,
+                        2.758805
+                  ]
+            },
+            {
+                  "name": "Musolla KLIA",
+                  "text": "Ein ausgewiesener muslimischer Gebetsbereich in der Nähe des internationalen Flughafens.",
+                  "category": "landmark",
+                  "coords": [
+                        101.70276,
+                        2.755074
+                  ]
+            },
+            {
+                  "name": "Surau Al-Musawwir",
+                  "text": "Ein nach Al-Musawwir benannter islamischer Gebetsraum, der den spirituellen Bedürfnissen der Anwohner in der Nähe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.712641,
+                        2.800746
+                  ]
+            },
+            {
+                  "name": "Surau Desa Bestari",
+                  "text": "Ein eigener islamischer Gebetsraum für die Gemeinde Desa Bestari.",
+                  "category": "landmark",
+                  "coords": [
+                        101.753182,
+                        2.801094
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "Eine muslimische Gemeindeeinrichtung, die tägliche Gebetssitzungen für die örtlichen Arbeitskräfte anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.625116,
+                        2.769722
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Abdul Samad",
+                  "text": "Eine große Moschee in der Gegend, die zu Ehren von Sultan Abdul Samad benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676315,
+                        2.787864
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Lembah Paya",
+                  "text": "Ein dörflicher Gebetsraum, der der islamischen Gemeinschaft von Kampung Lembah Paya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.751792,
+                        2.769731
+                  ]
+            },
+            {
+                  "name": "Bandar Enstek Mosque",
+                  "text": "Die zentrale Gemeindemoschee für die Wohngebiete von Bandar Enstek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.763002,
+                        2.745093
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Faizin",
+                  "text": "Ein lokaler Surau, der einen friedlichen Raum für islamische Kontemplation und tägliche Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.73508,
+                        2.821103
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Hisamuddin",
+                  "text": "Eine stattliche Moschee, benannt nach Sultan Hisamuddin, die als Wahrzeichen des Bezirks dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.733097,
+                        2.820331
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "Ein islamischer Gemeinschaftsraum namens Al-Hijrah, in dem tägliche spirituelle Zusammenkünfte stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        101.706231,
+                        2.825707
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Ein islamisches Gotteshaus für die muslimische Gemeinschaft im KLIA Aeropolis Trade Hub.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655553,
+                        2.803441
+                  ]
+            },
+            {
+                  "name": "Wanlly Dragon Fruit",
+                  "text": "Ein lokaler Markt im KLIA Aeropolis Trade Hub, der auf den Verkauf von Drachenfrüchten spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        101.741713,
+                        2.68069
+                  ]
+            },
+            {
+                  "name": "Pasar Segar MZA",
+                  "text": "Ein Markt für frische Produkte im Bereich des KLIA Aeropolis Trade Hub.",
+                  "category": "cultural",
+                  "coords": [
+                        101.705216,
+                        2.825131
+                  ]
+            },
+            {
+                  "name": "UBL Mart",
+                  "text": "Eine Markteinrichtung, die Arbeiter und Besucher im KLIA Aeropolis Trade Hub mit dem Notwendigsten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694522,
+                        2.821831
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sepang",
+                  "text": "Ein öffentlicher Markt, der der lokalen Gemeinschaft in der Nähe des KLIA Aeropolis Trade Hub in Sepang dient.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750371,
+                        2.690291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al-Ulum",
+                  "text": "A KLIA Aeropolis területét kiszolgáló nevezetes mecset, amely modern iszlám dizájnjáról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        101.673497,
+                        2.659996
+                  ]
+            },
+            {
+                  "name": "Anjung Spotter",
+                  "text": "Egy népszerű szabadtéri kilátópont a repülőtér közelében a fel- és leszálló repülőgépek megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        101.712001,
+                        2.716374
+                  ]
+            },
+            {
+                  "name": "Masjid Salak Tinggi",
+                  "text": "Salak Tinggi fő mecsete, amely a hívők nagy gyülekezetének ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        101.748317,
+                        2.794666
+                  ]
+            },
+            {
+                  "name": "Muzium Automobil Nasional",
+                  "text": "A malajziai autóipar történetét és fejlődését bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        101.731686,
+                        2.759319
+                  ]
+            },
+            {
+                  "name": "Mural Art @ BBST Walk",
+                  "text": "A BBST Walk sétálóutcáit díszítő utcai művészeti falfestmények színes kiállítása.",
+                  "category": "landmark",
+                  "coords": [
+                        101.737803,
+                        2.811619
+                  ]
+            },
+            {
+                  "name": "Aza Aquarium",
+                  "text": "Egy helyi akvárium, amely különféle színes díszhalakat és vízinövényeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        101.692327,
+                        2.81909
+                  ]
+            },
+            {
+                  "name": "Masjid Pekan Sepang",
+                  "text": "Sepang kiemelkedő városi mecsete, amely az iszlám imák központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        101.752264,
+                        2.694525
+                  ]
+            },
+            {
+                  "name": "Rimba",
+                  "text": "Egy 2026 elején megnyitott látványosság, amely gondosan kialakított erdei témájú környezetet kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.713606,
+                        2.747985
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Egy kisebb iszlám imaterem a KLIA Aeropolis kereskedelmi központ területén.",
+                  "category": "landmark",
+                  "coords": [
+                        101.681226,
+                        2.768414
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "Egy muszlim istentiszteleti hely a KLIA területén, amely spirituális menedéket nyújt a helyieknek és az utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.667441,
+                        2.672349
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Abu Bakar",
+                  "text": "Egy Saidina Abu Bakarról elnevezett iszlám mecset, ahol napi közösségi imákat tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.779959,
+                        2.765074
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "Egy közösségi iszlám imaterem, amely napi istentiszteleteket kínál a kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.762238,
+                        2.758805
+                  ]
+            },
+            {
+                  "name": "Musolla KLIA",
+                  "text": "Egy kijelölt muszlim imádkozóhely a nemzetközi repülőtér közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        101.70276,
+                        2.755074
+                  ]
+            },
+            {
+                  "name": "Surau Al-Musawwir",
+                  "text": "Egy Al-Musawwirról elnevezett iszlám imaterem, amely a közeli lakosok spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.712641,
+                        2.800746
+                  ]
+            },
+            {
+                  "name": "Surau Desa Bestari",
+                  "text": "Egy dedikált környékbeli iszlám imádkozóhely a Desa Bestari közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.753182,
+                        2.801094
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "Egy muszlim gyülekezeti létesítmény, amely napi imádkozásokat kínál a helyi munkaerő számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.625116,
+                        2.769722
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Abdul Samad",
+                  "text": "Egy nagy mecset a környéken, amelyet Abdul Samad szultán tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676315,
+                        2.787864
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Lembah Paya",
+                  "text": "Egy falusi imaterem, amely Kampung Lembah Paya iszlám közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.751792,
+                        2.769731
+                  ]
+            },
+            {
+                  "name": "Bandar Enstek Mosque",
+                  "text": "A Bandar Enstek lakóövezeteit kiszolgáló központi gyülekezeti mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        101.763002,
+                        2.745093
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Faizin",
+                  "text": "Egy helyi surau, amely békés teret biztosít az iszlám elmélkedéshez és a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        101.73508,
+                        2.821103
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Hisamuddin",
+                  "text": "A Hisamuddin szultánról elnevezett tekintélyes mecset, amely a kerület nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        101.733097,
+                        2.820331
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "Az Al-Hijrah nevű iszlám közösségi tér, amely elősegíti a napi spirituális összejöveteleket.",
+                  "category": "landmark",
+                  "coords": [
+                        101.706231,
+                        2.825707
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "A KLIA Aeropolis Trade Hub muszlim közösségét szolgáló iszlám istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655553,
+                        2.803441
+                  ]
+            },
+            {
+                  "name": "Wanlly Dragon Fruit",
+                  "text": "Helyi piac a KLIA Aeropolis Trade Hub területén, amely sárkánygyümölcs árusítására specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        101.741713,
+                        2.68069
+                  ]
+            },
+            {
+                  "name": "Pasar Segar MZA",
+                  "text": "Friss termékeket árusító piac a KLIA Aeropolis Trade Hub területén.",
+                  "category": "cultural",
+                  "coords": [
+                        101.705216,
+                        2.825131
+                  ]
+            },
+            {
+                  "name": "UBL Mart",
+                  "text": "Piac, amely a dolgozókat és a látogatókat látja el a szükséges árucikkekkel a KLIA Aeropolis Trade Hub területén.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694522,
+                        2.821831
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sepang",
+                  "text": "Nyilvános piac a KLIA Aeropolis Trade Hub közelében, amely a sepangi helyi közösséget szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750371,
+                        2.690291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al-Ulum",
+                  "text": "O moschee notabilă care deservește zona KLIA Aeropolis, recunoscută prin designul său islamic modern.",
+                  "category": "religious",
+                  "coords": [
+                        101.673497,
+                        2.659996
+                  ]
+            },
+            {
+                  "name": "Anjung Spotter",
+                  "text": "Un punct de belvedere popular în aer liber, aproape de aeroport, pentru a urmări avioanele decolând și aterizând.",
+                  "category": "natural",
+                  "coords": [
+                        101.712001,
+                        2.716374
+                  ]
+            },
+            {
+                  "name": "Masjid Salak Tinggi",
+                  "text": "Moscheea principală din Salak Tinggi, găzduind o mare congregație de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        101.748317,
+                        2.794666
+                  ]
+            },
+            {
+                  "name": "Muzium Automobil Nasional",
+                  "text": "Un muzeu care prezintă istoria și dezvoltarea industriei auto din Malaezia.",
+                  "category": "museum",
+                  "coords": [
+                        101.731686,
+                        2.759319
+                  ]
+            },
+            {
+                  "name": "Mural Art @ BBST Walk",
+                  "text": "O expoziție colorată de picturi murale de artă stradală care decorează căile pietonale din BBST Walk.",
+                  "category": "landmark",
+                  "coords": [
+                        101.737803,
+                        2.811619
+                  ]
+            },
+            {
+                  "name": "Aza Aquarium",
+                  "text": "Un acvariu local care expune o varietate de pești ornamentali colorați și plante acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        101.692327,
+                        2.81909
+                  ]
+            },
+            {
+                  "name": "Masjid Pekan Sepang",
+                  "text": "Moscheea proeminentă din Sepang, oferind un loc central pentru rugăciunile islamice.",
+                  "category": "religious",
+                  "coords": [
+                        101.752264,
+                        2.694525
+                  ]
+            },
+            {
+                  "name": "Rimba",
+                  "text": "O atracție lansată la începutul anului 2026, oferind vizitatorilor un mediu tematic forestier amenajat.",
+                  "category": "landmark",
+                  "coords": [
+                        101.713606,
+                        2.747985
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "O mică facilitate de rugăciune islamică situată în zona centrului comercial KLIA Aeropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        101.681226,
+                        2.768414
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "Un lăcaș de cult musulman din zona KLIA care oferă un refugiu spiritual pentru localnici și călători.",
+                  "category": "landmark",
+                  "coords": [
+                        101.667441,
+                        2.672349
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Abu Bakar",
+                  "text": "O moschee islamică numită după Saidina Abu Bakar, care găzduiește rugăciuni comune zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.779959,
+                        2.765074
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "O sală de rugăciune islamică comunitară care oferă slujbe zilnice de închinare în district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.762238,
+                        2.758805
+                  ]
+            },
+            {
+                  "name": "Musolla KLIA",
+                  "text": "O zonă de rugăciune desemnată pentru musulmani, situată în vecinătatea aeroportului internațional.",
+                  "category": "landmark",
+                  "coords": [
+                        101.70276,
+                        2.755074
+                  ]
+            },
+            {
+                  "name": "Surau Al-Musawwir",
+                  "text": "O sală de rugăciune islamică numită Al-Musawwir, care servește nevoilor spirituale ale locuitorilor din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        101.712641,
+                        2.800746
+                  ]
+            },
+            {
+                  "name": "Surau Desa Bestari",
+                  "text": "Un spațiu de rugăciune islamic dedicat cartierului pentru comunitatea Desa Bestari.",
+                  "category": "landmark",
+                  "coords": [
+                        101.753182,
+                        2.801094
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "O facilitate a congregației musulmane care oferă sesiuni zilnice de rugăciune pentru forța de muncă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.625116,
+                        2.769722
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Abdul Samad",
+                  "text": "O mare moschee din zonă numită în onoarea sultanului Abdul Samad.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676315,
+                        2.787864
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Lembah Paya",
+                  "text": "O sală de rugăciune din sat care deservește comunitatea islamică din Kampung Lembah Paya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.751792,
+                        2.769731
+                  ]
+            },
+            {
+                  "name": "Bandar Enstek Mosque",
+                  "text": "Moscheea centrală a congregației care deservește zonele rezidențiale din Bandar Enstek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.763002,
+                        2.745093
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Faizin",
+                  "text": "Un surau local care oferă un spațiu liniștit pentru contemplare islamică și rugăciuni zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.73508,
+                        2.821103
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Hisamuddin",
+                  "text": "O moschee impunătoare numită după sultanul Hisamuddin, servind ca punct de reper în district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.733097,
+                        2.820331
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "Un spațiu comunitar islamic numit Al-Hijrah, care facilitează adunările spirituale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.706231,
+                        2.825707
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Un lăcaș de cult islamic care deservește comunitatea musulmană din KLIA Aeropolis Trade Hub.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655553,
+                        2.803441
+                  ]
+            },
+            {
+                  "name": "Wanlly Dragon Fruit",
+                  "text": "O piață locală din KLIA Aeropolis Trade Hub specializată în vânzarea de fructul dragonului.",
+                  "category": "cultural",
+                  "coords": [
+                        101.741713,
+                        2.68069
+                  ]
+            },
+            {
+                  "name": "Pasar Segar MZA",
+                  "text": "O piață de produse proaspete situată în zona KLIA Aeropolis Trade Hub.",
+                  "category": "cultural",
+                  "coords": [
+                        101.705216,
+                        2.825131
+                  ]
+            },
+            {
+                  "name": "UBL Mart",
+                  "text": "O piață care oferă produse de necesitate pentru lucrătorii și vizitatorii din KLIA Aeropolis Trade Hub.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694522,
+                        2.821831
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Sepang",
+                  "text": "O piață publică care deservește comunitatea locală din apropierea KLIA Aeropolis Trade Hub din Sepang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750371,
+                        2.690291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al-Ulum",
+                  "text": "A notable mosque serving the KLIA Aeropolis area, recognizable by its modern Islamic design.",
+                  "category": "religious",
+                  "coords": [
+                        101.673497,
+                        2.659996
+                  ]
+            },
+            {
+                  "name": "Anjung Spotter",
+                  "text": "A popular outdoor viewpoint near the airport for watching planes take off and land.",
+                  "category": "natural",
+                  "coords": [
+                        101.712001,
+                        2.716374
+                  ]
+            },
+            {
+                  "name": "Masjid Salak Tinggi",
+                  "text": "The principal mosque of Salak Tinggi, accommodating a large congregation of worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        101.748317,
+                        2.794666
+                  ]
+            },
+            {
+                  "name": "National Automobile Museum",
+                  "text": "A museum showcasing the history and development of the Malaysian automotive industry.",
+                  "category": "museum",
+                  "coords": [
+                        101.731686,
+                        2.759319
+                  ]
+            },
+            {
+                  "name": "Mural Art @ BBST Walk",
+                  "text": "A colorful display of street art murals decorating the pedestrian pathways of BBST Walk.",
+                  "category": "landmark",
+                  "coords": [
+                        101.737803,
+                        2.811619
+                  ]
+            },
+            {
+                  "name": "Aza Aquarium",
+                  "text": "A local aquarium displaying a variety of colorful ornamental fish and aquatic plants.",
+                  "category": "recreational",
+                  "coords": [
+                        101.692327,
+                        2.81909
+                  ]
+            },
+            {
+                  "name": "Masjid Pekan Sepang",
+                  "text": "The prominent town mosque in Sepang, providing a central place for Islamic prayers.",
+                  "category": "religious",
+                  "coords": [
+                        101.752264,
+                        2.694525
+                  ]
+            },
+            {
+                  "name": "Rimba",
+                  "text": "An attraction launched in early 2026, offering visitors a curated forest-themed environment.",
+                  "category": "landmark",
+                  "coords": [
+                        101.713606,
+                        2.747985
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "A small Islamic prayer facility located in the KLIA Aeropolis trade hub area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.681226,
+                        2.768414
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "A Muslim place of worship in the KLIA area providing spiritual refuge for locals and travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.667441,
+                        2.672349
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Abu Bakar",
+                  "text": "An Islamic mosque named after Saidina Abu Bakar, hosting daily congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.779959,
+                        2.765074
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "A community Islamic prayer room offering daily worship services in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.762238,
+                        2.758805
+                  ]
+            },
+            {
+                  "name": "Musolla KLIA",
+                  "text": "A designated Muslim prayer area situated within the vicinity of the international airport.",
+                  "category": "landmark",
+                  "coords": [
+                        101.70276,
+                        2.755074
+                  ]
+            },
+            {
+                  "name": "Surau Al-Musawwir",
+                  "text": "An Islamic prayer room named Al-Musawwir serving the spiritual needs of nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        101.712641,
+                        2.800746
+                  ]
+            },
+            {
+                  "name": "Surau Desa Bestari",
+                  "text": "A dedicated neighborhood Islamic prayer space for the Desa Bestari community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.753182,
+                        2.801094
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "A Muslim congregation facility offering daily prayer sessions for the local workforce.",
+                  "category": "landmark",
+                  "coords": [
+                        101.625116,
+                        2.769722
+                  ]
+            },
+            {
+                  "name": "Sultan Abdul Samad Mosque",
+                  "text": "A grand mosque in the area named in honor of Sultan Abdul Samad.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676315,
+                        2.787864
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Lembah Paya",
+                  "text": "A village prayer room serving the Islamic community of Kampung Lembah Paya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.751792,
+                        2.769731
+                  ]
+            },
+            {
+                  "name": "Bandar Enstek Mosque",
+                  "text": "The central congregational mosque serving the residential areas of Bandar Enstek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.763002,
+                        2.745093
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Faizin",
+                  "text": "A local surau providing a peaceful space for Islamic contemplation and daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.73508,
+                        2.821103
+                  ]
+            },
+            {
+                  "name": "Sultan Hisamuddin Mosque",
+                  "text": "A stately mosque named after Sultan Hisamuddin, serving as a landmark in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.733097,
+                        2.820331
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "An Islamic community space named Al-Hijrah, facilitating daily spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        101.706231,
+                        2.825707
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "An Islamic place of worship serving the Muslim community in the KLIA Aeropolis Trade Hub.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655553,
+                        2.803441
+                  ]
+            },
+            {
+                  "name": "Wanlly Dragon Fruit",
+                  "text": "A local marketplace in the KLIA Aeropolis Trade Hub specializing in dragon fruit sales.",
+                  "category": "cultural",
+                  "coords": [
+                        101.741713,
+                        2.68069
+                  ]
+            },
+            {
+                  "name": "Pasar Segar MZA",
+                  "text": "A fresh produce market situated within the KLIA Aeropolis Trade Hub area.",
+                  "category": "cultural",
+                  "coords": [
+                        101.705216,
+                        2.825131
+                  ]
+            },
+            {
+                  "name": "UBL Mart",
+                  "text": "A market facility providing necessities for workers and visitors in the KLIA Aeropolis Trade Hub.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694522,
+                        2.821831
+                  ]
+            },
+            {
+                  "name": "Sepang Public Market",
+                  "text": "A public marketplace serving the local community near the KLIA Aeropolis Trade Hub in Sepang.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750371,
+                        2.690291
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "MY-10",
     coords: [101.70, 2.74],
@@ -531,7 +11061,628 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bukit-beruntung-industrial-park-industry-economic-v2",
+    id: "bukit-beruntung-industrial-park-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Sentosa",
+                  "text": "Ein malerischer Aussichtspunkt mit einem erhöhten Panoramablick über das Gebiet von Bukit Beruntung.",
+                  "category": "natural",
+                  "coords": [
+                        101.580345,
+                        3.403457
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "Ein lokaler islamischer Gebetssaal, der der umliegenden Industrieparkgemeinde regelmäßige spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.550237,
+                        3.439544
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Thandayuthapani Kampung Sungai Buaya",
+                  "text": "Ein lebendiger hinduistischer Tempel, der den Gläubigen im Viertel Kampung Sungai Buaya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525097,
+                        3.394791
+                  ]
+            },
+            {
+                  "name": "Surau Al-Faaizeen",
+                  "text": "Ein Surau in der Nachbarschaft, das der lokalen muslimischen Gemeinschaft einen bequemen und friedlichen Ort der Anbetung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541267,
+                        3.410342
+                  ]
+            },
+            {
+                  "name": "Surau Al-Furqan",
+                  "text": "Ein islamischer Gebetsraum, der dem täglichen Gemeinschaftsgebet in der Gemeinde gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.559829,
+                        3.398828
+                  ]
+            },
+            {
+                  "name": "Surau Al-Khairiah",
+                  "text": "Ein lokaler muslimischer Gebetssaal, der aktiv die täglichen religiösen Bedürfnisse von Anwohnern und nahegelegenen Arbeitern erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554794,
+                        3.419262
+                  ]
+            },
+            {
+                  "name": "Surau Al-Rasyidin",
+                  "text": "Eine lokale Moschee, die als zentraler Ort für spirituelle Dienste und Gemeindetreffen in der Gegend fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        101.566547,
+                        3.418282
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salam",
+                  "text": "Eine islamische Gebetsstätte, die der muslimischen Gemeinschaft in der Nähe von Bukit Beruntung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.569237,
+                        3.404206
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mutaqqin",
+                  "text": "Ein lokaler muslimischer Gebetsraum im Industriepark von Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.581021,
+                        3.419711
+                  ]
+            },
+            {
+                  "name": "Surau Hayatul Islam",
+                  "text": "Ein islamischer Versammlungsraum für die täglichen Gebete im Industriegebiet von Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.583187,
+                        3.415496
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Ali",
+                  "text": "Eine muslimische Freitagsmoschee für die Gläubigen in Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.587546,
+                        3.41439
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amien",
+                  "text": "Eine kleine Moschee in der Nachbarschaft, die einen Ort für islamische Gottesdienste in Bukit Beruntung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        101.590237,
+                        3.411349
+                  ]
+            },
+            {
+                  "name": "Surau Nur Syakirin",
+                  "text": "Eine lokale Moschee, die die islamische Gemeinschaft zu den Gebeten in Bukit Beruntung willkommen heißt.",
+                  "category": "religious",
+                  "coords": [
+                        101.602499,
+                        3.406753
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "Ein muslimischer Gebetsraum, der spirituelle Führung in Bukit Beruntung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594678,
+                        3.427998
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Raudhah",
+                  "text": "Ein islamischer Gebetssaal, der die lokale muslimische Bevölkerung in Bukit Beruntung beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.5914,
+                        3.431532
+                  ]
+            },
+            {
+                  "name": "Surau Abu Otman Ali Bashah",
+                  "text": "Eine muslimische Gottesdiensteinrichtung für die täglichen Gebete in der Region Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.555716,
+                        3.443936
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Bunga Raya",
+                  "text": "Ein belebter Marktplatz für lokale Händler und Streetfood in Bukit Beruntung.",
+                  "category": "cultural",
+                  "coords": [
+                        101.545201,
+                        3.444241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Sentosa",
+                  "text": "Egy festői kilátó, ahonnan magaslati panoráma nyílik a Bukit Beruntung területre.",
+                  "category": "natural",
+                  "coords": [
+                        101.580345,
+                        3.403457
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "Egy helyi iszlám imaterem, amely rendszeres spirituális szolgáltatásokat nyújt a környező ipari park közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        101.550237,
+                        3.439544
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Thandayuthapani Kampung Sungai Buaya",
+                  "text": "Egy nyüzsgő hindu templom, amely a Kampung Sungai Buaya negyedben található híveket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525097,
+                        3.394791
+                  ]
+            },
+            {
+                  "name": "Surau Al-Faaizeen",
+                  "text": "Egy környékbeli surau, amely kényelmes és békés istentiszteleti helyet biztosít a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541267,
+                        3.410342
+                  ]
+            },
+            {
+                  "name": "Surau Al-Furqan",
+                  "text": "Egy iszlám imatér, amelyet a közösség napi gyülekezeti imáinak elősegítésére hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        101.559829,
+                        3.398828
+                  ]
+            },
+            {
+                  "name": "Surau Al-Khairiah",
+                  "text": "Egy helyi muszlim imaterem, amely aktívan kiszolgálja a lakosok és a közeli dolgozók napi vallási igényeit.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554794,
+                        3.419262
+                  ]
+            },
+            {
+                  "name": "Surau Al-Rasyidin",
+                  "text": "Egy helyi mecset, amely a spirituális szolgáltatások és a közösségi összejövetelek központi helyszíneként működik a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        101.566547,
+                        3.418282
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salam",
+                  "text": "Egy iszlám imahely, amely a Bukit Beruntung melletti muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.569237,
+                        3.404206
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mutaqqin",
+                  "text": "Egy helyi muszlim imaterem a Bukit Beruntung ipari parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.581021,
+                        3.419711
+                  ]
+            },
+            {
+                  "name": "Surau Hayatul Islam",
+                  "text": "Egy iszlám gyülekezeti tér a napi imákhoz Bukit Beruntung ipari területén.",
+                  "category": "landmark",
+                  "coords": [
+                        101.583187,
+                        3.415496
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Ali",
+                  "text": "Egy muszlim gyülekezeti mecset, amely a Bukit Beruntung-i hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.587546,
+                        3.41439
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amien",
+                  "text": "Egy környékbeli mecset, amely az iszlám istentisztelet helyszínét biztosítja Bukit Beruntungban.",
+                  "category": "religious",
+                  "coords": [
+                        101.590237,
+                        3.411349
+                  ]
+            },
+            {
+                  "name": "Surau Nur Syakirin",
+                  "text": "Egy helyi mecset, amely az iszlám közösséget várja imára Bukit Beruntungban.",
+                  "category": "religious",
+                  "coords": [
+                        101.602499,
+                        3.406753
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "Egy muszlim imaterem, amely spirituális útmutatást kínál Bukit Beruntungban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594678,
+                        3.427998
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Raudhah",
+                  "text": "Egy iszlám imaterem, amely a helyi muszlim lakosságot fogadja Bukit Beruntungban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.5914,
+                        3.431532
+                  ]
+            },
+            {
+                  "name": "Surau Abu Otman Ali Bashah",
+                  "text": "Egy muszlim istentiszteleti létesítmény, amelyet a napi imáknak szenteltek Bukit Beruntung területén.",
+                  "category": "landmark",
+                  "coords": [
+                        101.555716,
+                        3.443936
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Bunga Raya",
+                  "text": "Egy nyüzsgő piac a helyi árusok és a street food számára Bukit Beruntungban.",
+                  "category": "cultural",
+                  "coords": [
+                        101.545201,
+                        3.444241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Sentosa",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi panoramice, la înălțime, asupra zonei Bukit Beruntung.",
+                  "category": "natural",
+                  "coords": [
+                        101.580345,
+                        3.403457
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "O sală de rugăciune islamică locală, care oferă servicii spirituale regulate comunității parcului industrial din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.550237,
+                        3.439544
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Thandayuthapani Kampung Sungai Buaya",
+                  "text": "Un templu hindus plin de viață care deservește credincioșii aflați în cartierul Kampung Sungai Buaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525097,
+                        3.394791
+                  ]
+            },
+            {
+                  "name": "Surau Al-Faaizeen",
+                  "text": "O surau de cartier, care oferă un lăcaș de cult convenabil și liniștit pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541267,
+                        3.410342
+                  ]
+            },
+            {
+                  "name": "Surau Al-Furqan",
+                  "text": "Un spațiu de rugăciune islamic dedicat facilitării rugăciunilor zilnice în congregație din cadrul comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        101.559829,
+                        3.398828
+                  ]
+            },
+            {
+                  "name": "Surau Al-Khairiah",
+                  "text": "O sală de rugăciune musulmană locală, care deservește activ nevoile religioase zilnice ale rezidenților și ale lucrătorilor din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554794,
+                        3.419262
+                  ]
+            },
+            {
+                  "name": "Surau Al-Rasyidin",
+                  "text": "O moschee locală care funcționează ca un spațiu central pentru servicii spirituale și adunări comunitare în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        101.566547,
+                        3.418282
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salam",
+                  "text": "Un lăcaș de cult islamic care deservește comunitatea musulmană din apropiere de Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.569237,
+                        3.404206
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mutaqqin",
+                  "text": "O sală de rugăciune musulmană locală situată în parcul industrial Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.581021,
+                        3.419711
+                  ]
+            },
+            {
+                  "name": "Surau Hayatul Islam",
+                  "text": "Un spațiu de adunare islamic pentru rugăciunile zilnice în zona industrială din Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.583187,
+                        3.415496
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Ali",
+                  "text": "O moschee congregațională musulmană care deservește credincioșii din Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.587546,
+                        3.41439
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amien",
+                  "text": "O moschee de cartier care oferă un loc pentru cultul islamic în Bukit Beruntung.",
+                  "category": "religious",
+                  "coords": [
+                        101.590237,
+                        3.411349
+                  ]
+            },
+            {
+                  "name": "Surau Nur Syakirin",
+                  "text": "O moschee locală care primește comunitatea islamică pentru rugăciuni în Bukit Beruntung.",
+                  "category": "religious",
+                  "coords": [
+                        101.602499,
+                        3.406753
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "O sală de rugăciune musulmană care oferă îndrumare spirituală în Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594678,
+                        3.427998
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Raudhah",
+                  "text": "O sală de rugăciune islamică care găzduiește populația musulmană locală din Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.5914,
+                        3.431532
+                  ]
+            },
+            {
+                  "name": "Surau Abu Otman Ali Bashah",
+                  "text": "O unitate de cult musulmană dedicată rugăciunilor zilnice în zona Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.555716,
+                        3.443936
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Bunga Raya",
+                  "text": "O piață plină de viață pentru vânzătorii locali și mâncare stradală din Bukit Beruntung.",
+                  "category": "cultural",
+                  "coords": [
+                        101.545201,
+                        3.444241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Sentosa",
+                  "text": "A scenic vantage point offering elevated, panoramic views overlooking the Bukit Beruntung area.",
+                  "category": "natural",
+                  "coords": [
+                        101.580345,
+                        3.403457
+                  ]
+            },
+            {
+                  "name": "Surau Raudhatul Jannah",
+                  "text": "A local Islamic prayer hall providing regular spiritual services to the surrounding industrial park community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.550237,
+                        3.439544
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Thandayuthapani Kampung Sungai Buaya",
+                  "text": "A vibrant Hindu temple serving the devotees located in the Kampung Sungai Buaya neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        101.525097,
+                        3.394791
+                  ]
+            },
+            {
+                  "name": "Surau Al-Faaizeen",
+                  "text": "A neighborhood surau providing a convenient and peaceful place of worship for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.541267,
+                        3.410342
+                  ]
+            },
+            {
+                  "name": "Surau Al-Furqan",
+                  "text": "An Islamic prayer space dedicated to facilitating daily congregational prayers in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.559829,
+                        3.398828
+                  ]
+            },
+            {
+                  "name": "Surau Al-Khairiah",
+                  "text": "A local Muslim prayer hall actively serving the daily religious needs of residents and nearby workers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.554794,
+                        3.419262
+                  ]
+            },
+            {
+                  "name": "Surau Al-Rasyidin",
+                  "text": "A local mosque functioning as a central space for spiritual services and community gatherings in the area.",
+                  "category": "religious",
+                  "coords": [
+                        101.566547,
+                        3.418282
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salam",
+                  "text": "An Islamic place of worship serving the Muslim community near Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.569237,
+                        3.404206
+                  ]
+            },
+            {
+                  "name": "Surau Al-Mutaqqin",
+                  "text": "A local Muslim prayer room situated within the Bukit Beruntung industrial park.",
+                  "category": "landmark",
+                  "coords": [
+                        101.581021,
+                        3.419711
+                  ]
+            },
+            {
+                  "name": "Surau Hayatul Islam",
+                  "text": "An Islamic gathering space for daily prayers in the industrial area of Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.583187,
+                        3.415496
+                  ]
+            },
+            {
+                  "name": "Masjid Saidina Ali",
+                  "text": "A Muslim congregational mosque serving worshippers in Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.587546,
+                        3.41439
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amien",
+                  "text": "A neighbourhood mosque providing a place for Islamic worship in Bukit Beruntung.",
+                  "category": "religious",
+                  "coords": [
+                        101.590237,
+                        3.411349
+                  ]
+            },
+            {
+                  "name": "Surau Nur Syakirin",
+                  "text": "A local mosque welcoming the Islamic community for prayers in Bukit Beruntung.",
+                  "category": "religious",
+                  "coords": [
+                        101.602499,
+                        3.406753
+                  ]
+            },
+            {
+                  "name": "Surau Al Hidayah",
+                  "text": "A Muslim prayer room offering spiritual guidance in Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594678,
+                        3.427998
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Raudhah",
+                  "text": "An Islamic prayer hall accommodating the local Muslim population in Bukit Beruntung.",
+                  "category": "landmark",
+                  "coords": [
+                        101.5914,
+                        3.431532
+                  ]
+            },
+            {
+                  "name": "Surau Abu Otman Ali Bashah",
+                  "text": "A Muslim worship facility dedicated to daily prayers in the Bukit Beruntung area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.555716,
+                        3.443936
+                  ]
+            },
+            {
+                  "name": "Tapak Penjaja Taman Bunga Raya",
+                  "text": "A bustling marketplace for local vendors and street food in Bukit Beruntung.",
+                  "category": "cultural",
+                  "coords": [
+                        101.545201,
+                        3.444241
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MY-10",
     coords: [101.54, 3.42],
@@ -579,7 +11730,1384 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "manjung-power-plant-energy-economic-v2",
+    id: "manjung-power-plant-energy-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kota Belanda",
+                  "text": "Die historischen Ziegelreste einer kolonialen niederländischen Festung aus dem 17. Jahrhundert, die zur Kontrolle des lokalen Zinnhandels errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575962,
+                        4.200494
+                  ]
+            },
+            {
+                  "name": "Sitiawan Settlement Museum",
+                  "text": "Ein lokales Museum in einem historischen Gebäude, das die Geschichte und die Artefakte der frühen Foochow-Siedler in Sitiawan bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        100.700193,
+                        4.196159
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Tiga",
+                  "text": "Ein markanter lokaler Hügel, der Wanderwege und einen Panoramablick über den umliegenden Bezirk Manjung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.629641,
+                        4.166777
+                  ]
+            },
+            {
+                  "name": "Surau Al Hijrah",
+                  "text": "Ein islamischer Gebetsraum in der Nachbarschaft, der den täglichen religiösen Bedürfnissen der Gemeinde im Gebiet Manjung dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.672267,
+                        4.196851
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Simpang Dua",
+                  "text": "Ein belebter öffentlicher Markt in Simpang Dua, auf dem Einheimische mit frischen Produkten, Fleisch und Gütern des täglichen Bedarfs handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        100.72965,
+                        4.198678
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kampung Koh",
+                  "text": "Ein lebendiger lokaler Frischmarkt in Kampung Koh, der für seine Stände mit frischen Lebensmitteln und seine starke Gemeinschaftsatmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        100.704685,
+                        4.193507
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Seri Manjung",
+                  "text": "Der zentrale öffentliche Marktkomplex von Seri Manjung, der eine große Auswahl an lokalen Lebensmitteln, Meeresfrüchten und Waren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        100.6692,
+                        4.198096
+                  ]
+            },
+            {
+                  "name": "Pantai Teluk Segadas",
+                  "text": "Ein abgelegenes, von Bäumen gesäumtes Küstengebiet in der Nähe von Manjung, ideal für friedliche Picknicks am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        100.573154,
+                        4.191083
+                  ]
+            },
+            {
+                  "name": "Samudera Methodist Church",
+                  "text": "Eine lokale christlich-methodistische Gemeinde, die in einem modernen Gebäude im Gebiet Manjung untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66248,
+                        4.201275
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "Eine geräumige islamische Moschee, die der muslimischen Gemeinde in Manjung als zentraler Ort der Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.724367,
+                        4.162554
+                  ]
+            },
+            {
+                  "name": "Wat Sitawanaram",
+                  "text": "Ein thailändisch-buddhistischer Tempelkomplex im Gebiet Manjung mit traditioneller, kunstvoller Architektur und goldenen Dächern.",
+                  "category": "landmark",
+                  "coords": [
+                        100.69998,
+                        4.197914
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ittihad",
+                  "text": "Ein muslimischer Gemeindegebetsraum, der den täglichen religiösen Bedürfnissen der Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.711443,
+                        4.172595
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muafiqiyyah",
+                  "text": "Eine lokale islamische Gebetsstätte in den Wohnvierteln des Bezirks Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.718297,
+                        4.157572
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Wataniah",
+                  "text": "Eine große, auf die Gemeinde ausgerichtete Moschee, die als markantes spirituelles Zentrum für Muslime im Gebiet Manjung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.687718,
+                        4.169291
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong Temple",
+                  "text": "Ein berühmter chinesisch-buddhistischer Tempel mit Blick auf das Meer in Manjung, der für seine kolossalen Götterstatuen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.688597,
+                        4.163298
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "Ein spezieller muslimischer Gebetsraum in der Nachbarschaft, der die täglichen spirituellen Routinen der lokalen Gemeinde in Manjung unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.707488,
+                        4.183316
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "Ein bescheidener lokaler Surau, der eine friedliche Umgebung für das tägliche islamische Gemeinschaftsgebet in Manjung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.674845,
+                        4.198569
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamiah",
+                  "text": "Ein islamischer Gebetsraum inmitten der lokalen Gemeinschaft, der die tägliche Andacht im Gebiet Manjung erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.686193,
+                        4.198876
+                  ]
+            },
+            {
+                  "name": "Surau Madah",
+                  "text": "Eine muslimische Gebetsstätte in der Nachbarschaft, die sich inmitten der Wohnblöcke des Bezirks Manjung befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.673705,
+                        4.202114
+                  ]
+            },
+            {
+                  "name": "Church of St. Francis De Sales",
+                  "text": "Eine katholische Pfarrkirche, die der christlichen Gemeinde mit regelmäßigen Gottesdiensten in Manjung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697938,
+                        4.210883
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Sitiawan",
+                  "text": "Ein traditioneller Sikh-Tempel, der als religiöses und soziales Zentrum für die Punjabi-Gemeinde in Sitiawan fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.698257,
+                        4.213478
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasriyah",
+                  "text": "Die Masjid An-Nasriyah ist ein lokales islamisches Gotteshaus, das der muslimischen Gemeinschaft nahe dem Kraftwerk Manjung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.694865,
+                        4.21428
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Tamil Sitiawan",
+                  "text": "Die Sitiawan Tamil Methodist Church ist eine christliche Gemeinde, die tamilischsprachige Gläubige im Distrikt Manjung versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697307,
+                        4.216353
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Subramaniyar",
+                  "text": "Kuil Sri Subramaniyar ist ein farbenfroher hinduistischer Tempel, der Lord Murugan gewidmet ist und sich in der Gegend von Manjung befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692743,
+                        4.224228
+                  ]
+            },
+            {
+                  "name": "Simpang Ampat Chinese Methodist Church",
+                  "text": "Die Simpang Ampat Chinese Methodist Church bietet der lokalen chinesischen Gemeinschaft nahe Manjung einen Raum für den christlichen Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        100.704731,
+                        4.214241
+                  ]
+            },
+            {
+                  "name": "Wesley Methodist Church",
+                  "text": "Die Wesley Methodist Church ist ein etabliertes christliches Heiligtum, in dem regelmäßige Gottesdienste für Gläubige in der Region Manjung abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700696,
+                        4.202989
+                  ]
+            },
+            {
+                  "name": "Church of Sitiawan",
+                  "text": "Die Church of Sitiawan ist ein markantes christliches Zentrum, das den lokalen Familien in der Region Manjung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700204,
+                        4.200022
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Hasanah",
+                  "text": "Surau Nurul Hasanah ist ein bescheidener islamischer Gebetsraum, der einen ruhigen Ort für die täglichen Gebete in der Gemeinde Manjung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.706266,
+                        4.195833
+                  ]
+            },
+            {
+                  "name": "Surau Al-Azim",
+                  "text": "Surau Al-Azim fungiert als wichtige islamische Gebetsstätte für die muslimischen Bewohner in der Umgebung von Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692117,
+                        4.231915
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah",
+                  "text": "Die Masjid Al-Khairiah ist eine islamische Moschee, in der Gemeinschaftsgebete für die muslimischen Gläubigen im Gebiet Manjung stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692959,
+                        4.242485
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Hidayah",
+                  "text": "Die Masjid Nurul Hidayah ist ein aktives islamisches Gemeindezentrum und eine Moschee in der Region Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66399,
+                        4.198142
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Al-Ikhwan",
+                  "text": "Die Masjid Jamek Al-Ikhwan versammelt die muslimische Gemeinschaft zum Freitagsgebet und zu religiösen Veranstaltungen nahe dem Kraftwerk Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.644127,
+                        4.208201
+                  ]
+            },
+            {
+                  "name": "Surau Bukit Permata",
+                  "text": "Surau Bukit Permata ist ein islamisches Gebetshaus auf einer leichten Anhöhe, das der Nachbarschaft Bukit Permata in Manjung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.635928,
+                        4.205686
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Badr 1000 Selawat",
+                  "text": "Die Al-Badr 1000 Selawat Moschee ist ein optisch auffälliges islamisches Gotteshaus in Manjung, das für seine verzierten Außendetails bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.579408,
+                        4.195449
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Diese allgemeine lokale Surau fungiert als kleine islamische Gebetshalle für die täglichen Andachten in der Nachbarschaft von Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.642099,
+                        4.160878
+                  ]
+            },
+            {
+                  "name": "Surau Nahdatul Syiffa",
+                  "text": "Surau Nahdatul Syiffa bietet eine engagierte, ruhige islamische Gebetsumgebung für die lokalen Gläubigen im Distrikt Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.661362,
+                        4.180149
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Alang Iskandar Shah",
+                  "text": "Die Masjid Sultan Alang Iskandar Shah ist eine große islamische Moschee, die sich durch ihre imposante Architektur in der Gegend von Manjung auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.652797,
+                        4.181999
+                  ]
+            },
+            {
+                  "name": "Surau Al-Qassam",
+                  "text": "Surau Al-Qassam bietet der lokalen muslimischen Gemeinschaft, die in der Nähe von Manjung lebt, eine praktische islamische Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        100.65674,
+                        4.188537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kota Belanda",
+                  "text": "Egy 17. századi gyarmati holland erőd történelmi tégla maradványai, amelyet a helyi ónkereskedelem ellenőrzésére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575962,
+                        4.200494
+                  ]
+            },
+            {
+                  "name": "Sitiawan Settlement Museum",
+                  "text": "Egy műemléképületben helyet kapó helyi múzeum, amely a korai Foochow telepesek történetét és tárgyi emlékeit őrzi Sitiawanban.",
+                  "category": "museum",
+                  "coords": [
+                        100.700193,
+                        4.196159
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Tiga",
+                  "text": "Egy kiemelkedő helyi dombtető, amely túraútvonalakat és panorámás kilátást kínál a környező Manjung körzetre.",
+                  "category": "natural",
+                  "coords": [
+                        100.629641,
+                        4.166777
+                  ]
+            },
+            {
+                  "name": "Surau Al Hijrah",
+                  "text": "Egy környékbeli iszlám imaterem, amely a közösség napi vallási igényeit szolgálja ki a Manjung térségben.",
+                  "category": "religious",
+                  "coords": [
+                        100.672267,
+                        4.196851
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Simpang Dua",
+                  "text": "Egy nyüzsgő nyilvános piac Simpang Duában, ahol a helyiek friss termékekkel, húsokkal és napi cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        100.72965,
+                        4.198678
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kampung Koh",
+                  "text": "Egy élénk helyi termelői piac Kampung Kohban, amely friss élelmiszereket árusító standjairól és erős közösségi légköréről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        100.704685,
+                        4.193507
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Seri Manjung",
+                  "text": "Seri Manjung központi piackomplexuma, amely helyi élelmiszerek, tenger gyümölcsei és egyéb áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        100.6692,
+                        4.198096
+                  ]
+            },
+            {
+                  "name": "Pantai Teluk Segadas",
+                  "text": "Egy félreeső, fákkal szegélyezett tengerparti terület Manjung közelében, amely ideális békés tengerparti piknikezéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        100.573154,
+                        4.191083
+                  ]
+            },
+            {
+                  "name": "Samudera Methodist Church",
+                  "text": "Egy helyi keresztény metodista gyülekezet, amely egy modern épületben kapott helyet a Manjung térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66248,
+                        4.201275
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "Egy tágas iszlám mecset, amely központi istentiszteleti helyként szolgál a muszlim közösség számára Manjungban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.724367,
+                        4.162554
+                  ]
+            },
+            {
+                  "name": "Wat Sitawanaram",
+                  "text": "Egy thai buddhista templomkomplexum a Manjung térségben, amely hagyományos, díszes, aranytetős építészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        100.69998,
+                        4.197914
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ittihad",
+                  "text": "Egy közösségi muszlim imaterem, amelyet a helyi lakosok mindennapi vallási igényeinek kielégítésére hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        100.711443,
+                        4.172595
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muafiqiyyah",
+                  "text": "Egy helyi iszlám imaház, amely a Manjung körzet lakónegyedeiben található.",
+                  "category": "landmark",
+                  "coords": [
+                        100.718297,
+                        4.157572
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Wataniah",
+                  "text": "Egy nagy, közösségközpontú mecset, amely kiemelkedő spirituális központként szolgál a muszlimok számára a Manjung térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        100.687718,
+                        4.169291
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong Temple",
+                  "text": "Egy híres, tengerre néző kínai buddhista templom Manjungban, amely hatalmas istenszobrairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.688597,
+                        4.163298
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "Egy dedikált környékbeli muszlim imaterem, amely a helyi közösség napi spirituális rutinjait támogatja Manjungban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.707488,
+                        4.183316
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "Egy szerény helyi surau, amely békés környezetet biztosít a napi iszlám gyülekezeti imákhoz Manjungban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.674845,
+                        4.198569
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamiah",
+                  "text": "A helyi közösségbe beágyazott iszlám imaterem, amely megkönnyíti a mindennapi istentiszteletet a Manjung térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        100.686193,
+                        4.198876
+                  ]
+            },
+            {
+                  "name": "Surau Madah",
+                  "text": "Egy környékbeli muszlim imaház, amely a Manjung körzet lakótömbjei között található.",
+                  "category": "landmark",
+                  "coords": [
+                        100.673705,
+                        4.202114
+                  ]
+            },
+            {
+                  "name": "Church of St. Francis De Sales",
+                  "text": "Egy katolikus plébániatemplom, amely rendszeres misékkel szolgálja a keresztény közösséget Manjungban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697938,
+                        4.210883
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Sitiawan",
+                  "text": "Egy hagyományos szikh templom, amely a pandzsábi közösség vallási és társadalmi központjaként működik Sitiawanban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.698257,
+                        4.213478
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasriyah",
+                  "text": "A Masjid An-Nasriyah egy helyi iszlám istentiszteleti hely, amely a Manjung erőmű környéki muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.694865,
+                        4.21428
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Tamil Sitiawan",
+                  "text": "A Sitiawan Tamil Metodista Templom egy keresztény gyülekezet, amely a tamil nyelvű hívőket fogja össze Manjung körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697307,
+                        4.216353
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Subramaniyar",
+                  "text": "A Kuil Sri Subramaniyar egy színes, Murugan istennek szentelt hindu templom, amely a Manjung térségben található.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692743,
+                        4.224228
+                  ]
+            },
+            {
+                  "name": "Simpang Ampat Chinese Methodist Church",
+                  "text": "A Simpang Ampat Kínai Metodista Templom keresztény istentiszteleti helyet biztosít a Manjung környéki helyi kínai közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.704731,
+                        4.214241
+                  ]
+            },
+            {
+                  "name": "Wesley Methodist Church",
+                  "text": "A Wesley Metodista Templom egy bejáratott keresztény szentély, amely rendszeres istentiszteleteket tart a Manjung térségében élő hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700696,
+                        4.202989
+                  ]
+            },
+            {
+                  "name": "Church of Sitiawan",
+                  "text": "A Sitiawani Templom egy kiemelkedő keresztény központ, amely a Manjung környéki helyi családokat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700204,
+                        4.200022
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Hasanah",
+                  "text": "A Surau Nurul Hasanah egy szerény iszlám imaterem, amely csendes teret biztosít a napi imákhoz a manjangi közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        100.706266,
+                        4.195833
+                  ]
+            },
+            {
+                  "name": "Surau Al-Azim",
+                  "text": "A Surau Al-Azim alapvető iszlám imaházként működik a Manjung környéki muszlim lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692117,
+                        4.231915
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah",
+                  "text": "A Masjid Al-Khairiah egy iszlám mecset, amely gyülekezeti imáknak ad otthont a Manjung térségben élő muszlim hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692959,
+                        4.242485
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Hidayah",
+                  "text": "A Masjid Nurul Hidayah egy aktív iszlám közösségi központ és mecset a Manjung régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66399,
+                        4.198142
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Al-Ikhwan",
+                  "text": "A Masjid Jamek Al-Ikhwan pénteki imákra és vallási eseményekre gyűjti össze a muszlim közösséget a manjangi erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.644127,
+                        4.208201
+                  ]
+            },
+            {
+                  "name": "Surau Bukit Permata",
+                  "text": "A Surau Bukit Permata egy iszlám imaház, amely egy enyhe magaslaton található, és a manjangi Bukit Permata negyedet szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        100.635928,
+                        4.205686
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Badr 1000 Selawat",
+                  "text": "Az Al-Badr 1000 Selawat mecset egy látványos iszlám istentiszteleti hely Manjungban, amely díszes külső részleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.579408,
+                        4.195449
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez az általános helyi Surau egy kis szomszédsági iszlám imateremként szolgál a mindennapi áhítathoz Manjungban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.642099,
+                        4.160878
+                  ]
+            },
+            {
+                  "name": "Surau Nahdatul Syiffa",
+                  "text": "A Surau Nahdatul Syiffa nyugodt iszlám imakörnyezetet kínál a helyi hívők számára Manjung körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.661362,
+                        4.180149
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Alang Iskandar Shah",
+                  "text": "A Masjid Sultan Alang Iskandar Shah egy nagy iszlám mecset, amelyet impozáns építészete jellemez a Manjung térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        100.652797,
+                        4.181999
+                  ]
+            },
+            {
+                  "name": "Surau Al-Qassam",
+                  "text": "A Surau Al-Qassam kényelmes iszlám imalehetőséget biztosít a Manjung közelében élő helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.65674,
+                        4.188537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kota Belanda",
+                  "text": "Rămășițele istorice din cărămidă ale unei fortărețe coloniale olandeze din secolul al XVII-lea, construită pentru a controla comerțul local cu staniu.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575962,
+                        4.200494
+                  ]
+            },
+            {
+                  "name": "Sitiawan Settlement Museum",
+                  "text": "Un muzeu local găzduit într-o clădire de patrimoniu, care păstrează istoria și artefactele primilor coloniști Foochow din Sitiawan.",
+                  "category": "museum",
+                  "coords": [
+                        100.700193,
+                        4.196159
+                  ]
+            },
+            {
+                  "name": "Bukit Batu Tiga",
+                  "text": "Un deal local proeminent care oferă trasee de drumeție și vederi panoramice asupra districtului Manjung înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        100.629641,
+                        4.166777
+                  ]
+            },
+            {
+                  "name": "Surau Al Hijrah",
+                  "text": "O sală de rugăciune islamică de cartier care deservește nevoile religioase zilnice ale comunității din zona Manjung.",
+                  "category": "religious",
+                  "coords": [
+                        100.672267,
+                        4.196851
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Simpang Dua",
+                  "text": "O piață publică plină de viață în Simpang Dua, unde localnicii fac comerț cu produse proaspete, carne și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        100.72965,
+                        4.198678
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kampung Koh",
+                  "text": "O piață locală vibrantă în Kampung Koh, cunoscută pentru tarabele sale cu alimente proaspete și atmosfera comunitară puternică.",
+                  "category": "cultural",
+                  "coords": [
+                        100.704685,
+                        4.193507
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Seri Manjung",
+                  "text": "Complexul central al pieței publice din Seri Manjung, care oferă o gamă largă de alimente locale, fructe de mare și bunuri.",
+                  "category": "cultural",
+                  "coords": [
+                        100.6692,
+                        4.198096
+                  ]
+            },
+            {
+                  "name": "Pantai Teluk Segadas",
+                  "text": "O zonă de coastă retrasă, mărginită de copaci, lângă Manjung, ideală pentru picnicuri liniștite pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        100.573154,
+                        4.191083
+                  ]
+            },
+            {
+                  "name": "Samudera Methodist Church",
+                  "text": "O congregație creștină metodistă locală găzduită într-o clădire modernă din zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66248,
+                        4.201275
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "O moschee islamică spațioasă care oferă un lăcaș central de cult pentru comunitatea musulmană din Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.724367,
+                        4.162554
+                  ]
+            },
+            {
+                  "name": "Wat Sitawanaram",
+                  "text": "Un complex de temple budiste thailandeze din zona Manjung, caracterizat prin arhitectura sa tradițională ornamentată, cu acoperișuri aurii.",
+                  "category": "landmark",
+                  "coords": [
+                        100.69998,
+                        4.197914
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ittihad",
+                  "text": "O sală de rugăciune musulmană comunitară dedicată deservirii nevoilor religioase zilnice ale rezidenților locali.",
+                  "category": "landmark",
+                  "coords": [
+                        100.711443,
+                        4.172595
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muafiqiyyah",
+                  "text": "O facilitate de rugăciune islamică locală situată în cartierele rezidențiale ale districtului Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.718297,
+                        4.157572
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Wataniah",
+                  "text": "O moschee mare, axată pe comunitate, care servește drept centru spiritual proeminent pentru musulmanii din zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.687718,
+                        4.169291
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong Temple",
+                  "text": "Un renumit templu budist chinezesc cu fața spre mare în Manjung, faimos pentru statuile sale colosale ale zeităților.",
+                  "category": "landmark",
+                  "coords": [
+                        100.688597,
+                        4.163298
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "O sală de rugăciune musulmană dedicată cartierului, care susține rutinele spirituale zilnice ale comunității locale din Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.707488,
+                        4.183316
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "Un surau local modest, care oferă un mediu liniștit pentru rugăciunile congregaționale islamice zilnice din Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.674845,
+                        4.198569
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamiah",
+                  "text": "O sală de rugăciune islamică integrată în comunitatea locală, facilitând închinarea zilnică în zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.686193,
+                        4.198876
+                  ]
+            },
+            {
+                  "name": "Surau Madah",
+                  "text": "O facilitate de rugăciune musulmană de cartier, situată printre blocurile rezidențiale din districtul Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.673705,
+                        4.202114
+                  ]
+            },
+            {
+                  "name": "Church of St. Francis De Sales",
+                  "text": "O biserică parohială catolică care deservește comunitatea creștină cu slujbe regulate în Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697938,
+                        4.210883
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Sitiawan",
+                  "text": "Un templu tradițional sikh care acționează ca inima religioasă și socială a comunității punjabi din Sitiawan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.698257,
+                        4.213478
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasriyah",
+                  "text": "Masjid An-Nasriyah este un lăcaș de cult islamic local care deservește comunitatea musulmană din apropierea centralei electrice Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.694865,
+                        4.21428
+                  ]
+            },
+            {
+                  "name": "Gereja Methodist Tamil Sitiawan",
+                  "text": "Biserica Metodistă Tamilă din Sitiawan este o congregație creștină care adună credincioși vorbitori de limba tamilă în districtul Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697307,
+                        4.216353
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Subramaniyar",
+                  "text": "Kuil Sri Subramaniyar este un templu hindus plin de culoare dedicat zeului Murugan, situat în zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692743,
+                        4.224228
+                  ]
+            },
+            {
+                  "name": "Simpang Ampat Chinese Methodist Church",
+                  "text": "Biserica Metodistă Chineză din Simpang Ampat oferă un spațiu de cult creștin pentru comunitatea chineză locală din apropiere de Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.704731,
+                        4.214241
+                  ]
+            },
+            {
+                  "name": "Wesley Methodist Church",
+                  "text": "Biserica Metodistă Wesley este un sanctuar creștin consacrat care ține slujbe regulate pentru credincioșii din zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700696,
+                        4.202989
+                  ]
+            },
+            {
+                  "name": "Church of Sitiawan",
+                  "text": "Biserica din Sitiawan este un centru creștin proeminent care deservește familiile locale din zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700204,
+                        4.200022
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Hasanah",
+                  "text": "Surau Nurul Hasanah este o modestă sală de rugăciune islamică, oferind un spațiu liniștit pentru rugăciunile zilnice în comunitatea Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.706266,
+                        4.195833
+                  ]
+            },
+            {
+                  "name": "Surau Al-Azim",
+                  "text": "Surau Al-Azim acționează ca o facilitate esențială de rugăciune islamică pentru rezidenții musulmani din vecinătatea orașului Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692117,
+                        4.231915
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah",
+                  "text": "Masjid Al-Khairiah este o moschee islamică care găzduiește rugăciuni comune pentru credincioșii musulmani din zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692959,
+                        4.242485
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Hidayah",
+                  "text": "Masjid Nurul Hidayah este un centru comunitar islamic activ și o moschee situată în regiunea Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66399,
+                        4.198142
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Al-Ikhwan",
+                  "text": "Masjid Jamek Al-Ikhwan adună comunitatea musulmană pentru rugăciunile de vineri și evenimentele religioase din apropierea centralei electrice Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.644127,
+                        4.208201
+                  ]
+            },
+            {
+                  "name": "Surau Bukit Permata",
+                  "text": "Surau Bukit Permata este o casă de rugăciune islamică situată pe o ușoară altitudine pentru a deservi cartierul Bukit Permata din Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.635928,
+                        4.205686
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Badr 1000 Selawat",
+                  "text": "Moscheea Al-Badr 1000 Selawat este un lăcaș de cult islamic impresionant vizual, cunoscut pentru detaliile sale exterioare ornamentate din Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.579408,
+                        4.195449
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Acest Surau local generic funcționează ca o mică sală de rugăciune islamică de cartier pentru devoțiunile zilnice din Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.642099,
+                        4.160878
+                  ]
+            },
+            {
+                  "name": "Surau Nahdatul Syiffa",
+                  "text": "Surau Nahdatul Syiffa oferă un mediu de rugăciune islamic dedicat și senin pentru credincioșii locali din districtul Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.661362,
+                        4.180149
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Alang Iskandar Shah",
+                  "text": "Masjid Sultan Alang Iskandar Shah este o mare moschee islamică caracterizată prin arhitectura sa impunătoare din zona Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.652797,
+                        4.181999
+                  ]
+            },
+            {
+                  "name": "Surau Al-Qassam",
+                  "text": "Surau Al-Qassam oferă o facilitate convenabilă de rugăciune islamică pentru comunitatea musulmană locală care locuiește în apropiere de Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.65674,
+                        4.188537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dutch Fort",
+                  "text": "The historic brick remnants of a 17th-century colonial Dutch stronghold built to control the local tin trade.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575962,
+                        4.200494
+                  ]
+            },
+            {
+                  "name": "Sitiawan Settlement Museum",
+                  "text": "A local museum housed in a heritage building, preserving the history and artifacts of the early Foochow settlers in Sitiawan.",
+                  "category": "museum",
+                  "coords": [
+                        100.700193,
+                        4.196159
+                  ]
+            },
+            {
+                  "name": "Batu Tiga Hill",
+                  "text": "A prominent local hilltop offering hiking trails and panoramic views over the surrounding Manjung district.",
+                  "category": "natural",
+                  "coords": [
+                        100.629641,
+                        4.166777
+                  ]
+            },
+            {
+                  "name": "Surau Al Hijrah",
+                  "text": "A neighborhood Islamic prayer room serving the daily religious needs of the community in the Manjung area.",
+                  "category": "religious",
+                  "coords": [
+                        100.672267,
+                        4.196851
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Simpang Dua",
+                  "text": "A bustling public market in Simpang Dua where locals trade fresh produce, meat, and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        100.72965,
+                        4.198678
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Kampung Koh",
+                  "text": "A vibrant local wet market in Kampung Koh known for its fresh food stalls and strong community atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        100.704685,
+                        4.193507
+                  ]
+            },
+            {
+                  "name": "Pasar Awam Seri Manjung",
+                  "text": "The central public market complex of Seri Manjung, offering a wide array of local groceries, seafood, and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        100.6692,
+                        4.198096
+                  ]
+            },
+            {
+                  "name": "Teluk Segadas Beach",
+                  "text": "A secluded, tree-lined coastal area near Manjung, ideal for peaceful picnics by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        100.573154,
+                        4.191083
+                  ]
+            },
+            {
+                  "name": "Samudera Methodist Church",
+                  "text": "A local Christian Methodist congregation housed in a modern building in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66248,
+                        4.201275
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Raudhah",
+                  "text": "A spacious Islamic mosque providing a central place of worship for the Muslim community in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.724367,
+                        4.162554
+                  ]
+            },
+            {
+                  "name": "Wat Sitawanaram",
+                  "text": "A Thai Buddhist temple complex in the Manjung area featuring traditional ornate, golden-roofed architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.69998,
+                        4.197914
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ittihad",
+                  "text": "A community Muslim prayer hall dedicated to serving the daily religious needs of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        100.711443,
+                        4.172595
+                  ]
+            },
+            {
+                  "name": "Surau Al-Muafiqiyyah",
+                  "text": "A local Islamic prayer facility located within the residential neighborhoods of the Manjung district.",
+                  "category": "landmark",
+                  "coords": [
+                        100.718297,
+                        4.157572
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Wataniah",
+                  "text": "A large, community-focused mosque serving as a prominent spiritual center for Muslims in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.687718,
+                        4.169291
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong Temple",
+                  "text": "A renowned Chinese Buddhist temple facing the sea in Manjung, famous for its colossal statues of deities.",
+                  "category": "landmark",
+                  "coords": [
+                        100.688597,
+                        4.163298
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "A dedicated neighborhood Muslim prayer hall supporting the daily spiritual routines of the local community in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.707488,
+                        4.183316
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "A modest local surau providing a peaceful environment for daily Islamic congregational prayers in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.674845,
+                        4.198569
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamiah",
+                  "text": "An Islamic prayer room embedded within the local community, facilitating daily worship in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.686193,
+                        4.198876
+                  ]
+            },
+            {
+                  "name": "Surau Madah",
+                  "text": "A neighborhood Muslim prayer facility situated amidst the residential blocks of the Manjung district.",
+                  "category": "landmark",
+                  "coords": [
+                        100.673705,
+                        4.202114
+                  ]
+            },
+            {
+                  "name": "Church of St. Francis De Sales",
+                  "text": "A Catholic parish church serving the Christian community with regular mass services in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697938,
+                        4.210883
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Sitiawan",
+                  "text": "A traditional Sikh temple acting as the religious and social heart for the Punjabi community in Sitiawan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.698257,
+                        4.213478
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasriyah",
+                  "text": "Masjid An-Nasriyah is a local Islamic place of worship serving the Muslim community near the Manjung power plant area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.694865,
+                        4.21428
+                  ]
+            },
+            {
+                  "name": "Sitiawan Tamil Methodist Church",
+                  "text": "The Sitiawan Tamil Methodist Church is a Christian congregation gathering Tamil-speaking worshippers in the Manjung district.",
+                  "category": "landmark",
+                  "coords": [
+                        100.697307,
+                        4.216353
+                  ]
+            },
+            {
+                  "name": "Kuil Sri Subramaniyar",
+                  "text": "Kuil Sri Subramaniyar is a colourful Hindu temple dedicated to Lord Murugan, located in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692743,
+                        4.224228
+                  ]
+            },
+            {
+                  "name": "Simpang Ampat Chinese Methodist Church",
+                  "text": "The Simpang Ampat Chinese Methodist Church provides a space for Christian worship for the local Chinese community near Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.704731,
+                        4.214241
+                  ]
+            },
+            {
+                  "name": "Wesley Methodist Church",
+                  "text": "The Wesley Methodist Church is an established Christian sanctuary holding regular services for believers in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700696,
+                        4.202989
+                  ]
+            },
+            {
+                  "name": "Church of Sitiawan",
+                  "text": "The Church of Sitiawan is a prominent Christian center serving local families in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.700204,
+                        4.200022
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Hasanah",
+                  "text": "Surau Nurul Hasanah is a modest Islamic prayer room offering a quiet space for daily prayers in the Manjung community.",
+                  "category": "landmark",
+                  "coords": [
+                        100.706266,
+                        4.195833
+                  ]
+            },
+            {
+                  "name": "Surau Al-Azim",
+                  "text": "Surau Al-Azim acts as an essential Islamic prayer facility for the Muslim residents in the vicinity of Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692117,
+                        4.231915
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah",
+                  "text": "Masjid Al-Khairiah is an Islamic mosque hosting congregational prayers for the Muslim faithful in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.692959,
+                        4.242485
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Hidayah",
+                  "text": "Masjid Nurul Hidayah is an active Islamic community center and mosque situated in the Manjung region.",
+                  "category": "landmark",
+                  "coords": [
+                        100.66399,
+                        4.198142
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Al-Ikhwan",
+                  "text": "Masjid Jamek Al-Ikhwan gathers the Muslim community for Friday prayers and religious events near the Manjung power plant.",
+                  "category": "landmark",
+                  "coords": [
+                        100.644127,
+                        4.208201
+                  ]
+            },
+            {
+                  "name": "Surau Bukit Permata",
+                  "text": "Surau Bukit Permata is an Islamic prayer house positioned on a slight elevation to serve the Bukit Permata neighbourhood in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.635928,
+                        4.205686
+                  ]
+            },
+            {
+                  "name": "Al-Badr 1000 Selawat Mosque",
+                  "text": "Al-Badr 1000 Selawat Mosque is a visually striking Islamic place of worship known for its ornate exterior details in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.579408,
+                        4.195449
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This generic local Surau acts as a small, neighbourhood Islamic prayer hall for daily devotions in Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.642099,
+                        4.160878
+                  ]
+            },
+            {
+                  "name": "Surau Nahdatul Syiffa",
+                  "text": "Surau Nahdatul Syiffa offers a dedicated, serene Islamic prayer environment for the local believers in the Manjung district.",
+                  "category": "landmark",
+                  "coords": [
+                        100.661362,
+                        4.180149
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Alang Iskandar Shah",
+                  "text": "Masjid Sultan Alang Iskandar Shah is a grand Islamic mosque characterized by its imposing architecture in the Manjung area.",
+                  "category": "landmark",
+                  "coords": [
+                        100.652797,
+                        4.181999
+                  ]
+            },
+            {
+                  "name": "Surau Al-Qassam",
+                  "text": "Surau Al-Qassam provides a convenient Islamic prayer facility for the local Muslim community living near Manjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.65674,
+                        4.188537
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "MY-08",
     coords: [100.64, 4.19],
@@ -627,7 +13155,232 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "johor-port-trade-hub-economic-v2",
+    id: "johor-port-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "shrimp pond",
+                  "text": "Diese gewerbliche Garnelenteichanlage im Gebiet des Hafens von Johor nutzt bewirtschaftete Wassersysteme für die lokale Aquakultur.",
+                  "category": "recreational",
+                  "coords": [
+                        103.942696,
+                        1.475517
+                  ]
+            },
+            {
+                  "name": "amigos horse riding",
+                  "text": "Die Anlage Amigos Horse Riding bietet Reitaktivitäten und Freiluftpfade in der Nähe des Industriegebiets von Johor Port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93812,
+                        1.441447
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Die Masjid At-Taqwa bietet Arbeitern und Anwohnern im Geschäftszentrum des Hafens von Johor einen islamischen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951273,
+                        1.481222
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Dieser taoistische Tempel nahe dem Johor Port zeichnet sich durch seine traditionellen chinesischen Architekturelemente aus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.944138,
+                        1.492886
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Pasir Putih",
+                  "text": "Die Masjid Taman Pasir Putih ist eine Moschee, die die religiösen Bedürfnisse der Wohnbevölkerung rund um den Hafen von Johor erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933342,
+                        1.477379
+                  ]
+            },
+            {
+                  "name": "Pasar Pasir Gudang",
+                  "text": "Der Pasar Pasir Gudang ist ein aktiver Marktplatz, auf dem die Einheimischen der Region Johor Port ihre täglichen Lebensmittel und frischen Waren einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.91333,
+                        1.458954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "shrimp pond",
+                  "text": "Ez a Johor kikötője területén található kereskedelmi garnélarák-tó létesítmény kezelt vízrendszereket használ a helyi akvakultúrához.",
+                  "category": "recreational",
+                  "coords": [
+                        103.942696,
+                        1.475517
+                  ]
+            },
+            {
+                  "name": "amigos horse riding",
+                  "text": "Az Amigos Horse Riding lovaglási tevékenységeket és szabadtéri ösvényeket kínál a Johor Port ipari terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93812,
+                        1.441447
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "A Masjid At-Taqwa iszlám imatermet biztosít a munkásoknak és a lakosoknak Johor kikötőjének üzleti központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951273,
+                        1.481222
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Ezt a Johor Port közelében lévő taoista templomot hagyományos kínai építészeti elemei jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.944138,
+                        1.492886
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Pasir Putih",
+                  "text": "A Masjid Taman Pasir Putih egy mecset, amely a Johor kikötője körüli lakosság vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933342,
+                        1.477379
+                  ]
+            },
+            {
+                  "name": "Pasar Pasir Gudang",
+                  "text": "A Pasar Pasir Gudang egy aktív piac, ahol a Johor Port régió helyi lakosai megvásárolják mindennapi élelmiszereiket és friss áruikat.",
+                  "category": "cultural",
+                  "coords": [
+                        103.91333,
+                        1.458954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "shrimp pond",
+                  "text": "Această fermă comercială de creveți din zona portului Johor utilizează sisteme de apă gestionate pentru acvacultura locală.",
+                  "category": "recreational",
+                  "coords": [
+                        103.942696,
+                        1.475517
+                  ]
+            },
+            {
+                  "name": "amigos horse riding",
+                  "text": "Amigos Horse Riding oferă activități ecvestre și trasee în aer liber lângă zona industrială din Portul Johor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93812,
+                        1.441447
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa oferă un spațiu de rugăciune islamic lucrătorilor și rezidenților din centrul comercial al Portului Johor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951273,
+                        1.481222
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Acest templu taoist de lângă Portul Johor este caracterizat de elementele sale arhitecturale tradiționale chinezești.",
+                  "category": "landmark",
+                  "coords": [
+                        103.944138,
+                        1.492886
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Pasir Putih",
+                  "text": "Masjid Taman Pasir Putih este o moschee care satisface nevoile religioase ale populației rezidențiale din jurul Portului Johor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933342,
+                        1.477379
+                  ]
+            },
+            {
+                  "name": "Pasar Pasir Gudang",
+                  "text": "Pasar Pasir Gudang este o piață activă de unde localnicii din regiunea Portului Johor își cumpără alimentele zilnice și produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        103.91333,
+                        1.458954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "shrimp pond",
+                  "text": "This commercial shrimp pond facility in the Johor Port area utilizes managed water systems for local aquaculture.",
+                  "category": "recreational",
+                  "coords": [
+                        103.942696,
+                        1.475517
+                  ]
+            },
+            {
+                  "name": "amigos horse riding",
+                  "text": "Amigos Horse Riding provides equestrian activities and outdoor trails near the industrial area of Johor Port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93812,
+                        1.441447
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa provides an Islamic prayer space for workers and residents in the trade hub of Johor Port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951273,
+                        1.481222
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "This Taoist temple near Johor Port is characterized by its traditional Chinese architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        103.944138,
+                        1.492886
+                  ]
+            },
+            {
+                  "name": "Masjid Taman Pasir Putih",
+                  "text": "Masjid Taman Pasir Putih is a mosque catering to the religious needs of the residential population around Johor Port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933342,
+                        1.477379
+                  ]
+            },
+            {
+                  "name": "Pasar Pasir Gudang",
+                  "text": "Pasar Pasir Gudang is an active marketplace where locals of the Johor Port region purchase their daily groceries and fresh goods.",
+                  "category": "cultural",
+                  "coords": [
+                        103.91333,
+                        1.458954
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MY-01",
     coords: [103.91, 1.45],
@@ -675,7 +13428,1420 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "sungai-besi-mine-mine-economic-v2",
+    id: "sungai-besi-mine-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "Dieser anerkannte islamische Gebetssaal ist so bemerkenswert, dass er einen eigenen Wikipedia-Eintrag hat und der Gemeinde Sungai Besi dient.",
+                  "category": "religious",
+                  "coords": [
+                        101.765345,
+                        3.05435
+                  ]
+            },
+            {
+                  "name": "Surau Impian Ihsan",
+                  "text": "Ein bekanntes islamisches Gemeindezentrum in der Gegend, das weithin für die Organisation von Gemeindegebeten für die Anwohner bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.753199,
+                        3.017946
+                  ]
+            },
+            {
+                  "name": "Masjid Manbaeil Uloom",
+                  "text": "Diese bemerkenswerte islamische Moschee dient als zentraler Pfeiler für religiöse Bildung und große Freitagsversammlungen in ihrem Bezirk.",
+                  "category": "religious",
+                  "coords": [
+                        101.761236,
+                        3.026444
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "Dieser mit der Religionsschule SMA Persekutuan verbundene islamische Gebetssaal verbindet das Lernen der Schüler mit dem täglichen Gemeindegottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        101.782584,
+                        3.019326
+                  ]
+            },
+            {
+                  "name": "Masjid Sungai Sekamat",
+                  "text": "Diese etablierte islamische Moschee in der Nähe des Flusses Sekamat bildet einen Mittelpunkt für die Gläubigen des umliegenden Dorfes.",
+                  "category": "religious",
+                  "coords": [
+                        101.775453,
+                        3.020631
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "Dieses anerkannte islamische Gotteshaus in Taman Serdang Raya verfügt über markante architektonische Elemente für die Gemeindemitglieder des Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        101.703376,
+                        3.042955
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "Ein prominenter islamischer Gebetsraum, der zu einem offiziell anerkannten spirituellen Wahrzeichen für die lokale Gemeinde geworden ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.752979,
+                        3.057475
+                  ]
+            },
+            {
+                  "name": "Masjid Ubudiah",
+                  "text": "Diese bedeutende islamische Moschee dient dem Dorf Kampung Sungai Raya und ist ein Eckpfeiler des ländlichen Gemeindelebens und der Freitagsgebete.",
+                  "category": "religious",
+                  "coords": [
+                        101.769645,
+                        3.067337
+                  ]
+            },
+            {
+                  "name": "Masjid Taming Jaya",
+                  "text": "Eine wichtige islamische Moschee in der Industrie- und Wohnzone Taming Jaya, die dafür bekannt ist, eine große Gemeinde der Arbeiterklasse aufzunehmen.",
+                  "category": "religious",
+                  "coords": [
+                        101.738401,
+                        3.024613
+                  ]
+            },
+            {
+                  "name": "Intelligence Traceability Sdn Bhd",
+                  "text": "Dieser gewerbliche Gebäudekomplex beherbergt ein kleines, spezielles Gotteshaus des Unternehmens für seine Mitarbeiter und lokalen Arbeiter.",
+                  "category": "religious",
+                  "coords": [
+                        101.701178,
+                        3.083149
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Shui Jin Tang Malaysia",
+                  "text": "Ein Tempel der chinesischen Volksreligion, der von einer lokalen Vereinigung verwaltet wird und der Verehrung des Wassergottes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.68902,
+                        3.081853
+                  ]
+            },
+            {
+                  "name": "Colmo Tech",
+                  "text": "Dieser Firmenschrein befindet sich in einem Industrietechnologieunternehmen und bietet den Mitarbeitern einen speziellen Raum zur Ausübung ihrer täglichen religiösen Rituale.",
+                  "category": "religious",
+                  "coords": [
+                        101.718502,
+                        3.079578
+                  ]
+            },
+            {
+                  "name": "Datuk Kong",
+                  "text": "Ein markanter sino-malaiischer Schrein für lokale Gottheiten, in charakteristischen leuchtenden Farben gestrichen, der den Schutzgeist des unmittelbaren Landes ehrt.",
+                  "category": "religious",
+                  "coords": [
+                        101.735998,
+                        3.052781
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Na Du Gong Serdang Lama Selangor",
+                  "text": "Diese organisierte Tempelvereinigung in Serdang Lama widmet sich der Verehrung der lokalen Erdgeister Na Du Gong.",
+                  "category": "religious",
+                  "coords": [
+                        101.719605,
+                        3.01722
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Diese zweckmäßige Viertelmoschee bietet einen praktischen, offenen Gebetssaal für die täglichen religiösen Bedürfnisse der lokalen islamischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        101.707911,
+                        3.071711
+                  ]
+            },
+            {
+                  "name": "Persatuan Pengurusan Rumah Berhala Sze Chu",
+                  "text": "Eine aktive chinesische Tempelverwaltungsvereinigung, die eine traditionelle Gebetshalle mit aufwändigen Altarschnitzereien unterhält.",
+                  "category": "religious",
+                  "coords": [
+                        101.740309,
+                        3.080702
+                  ]
+            },
+            {
+                  "name": "Pertubuhan Penganut Dewa Kwan Kung Kuala Lumpur dan Selangor",
+                  "text": "Eine kriegerische chinesische Tempelorganisation, die hauptsächlich Kwan Kung gewidmet ist und mit imposanten Statuen des verehrten Generals und der Gottheit aufwartet.",
+                  "category": "religious",
+                  "coords": [
+                        101.793848,
+                        3.0536
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Segar",
+                  "text": "Dieser geschäftige Nachtmarkt in Taman Segar verwandelt die abendlichen Straßen mit zahlreichen Ständen, die frisches lokales Streetfood und Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742386,
+                        3.089745
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Gembira",
+                  "text": "Dieser Open-Air-Abendmarkt, der in der Abenddämmerung in Taman Bukit Gembira aufgebaut wird, ist ein lebhafter Hotspot für regionale Snacks und gesellige Zusammenkünfte in der Nachbarschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        101.688147,
+                        3.082928
+                  ]
+            },
+            {
+                  "name": "Wet and dry market",
+                  "text": "Dieser belebte Markt bietet eine bunte Auswahl an frischen regionalen Produkten und alltäglichen Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        101.672776,
+                        3.074111
+                  ]
+            },
+            {
+                  "name": "Pasar Sri Petaling",
+                  "text": "Dieser lebhafte Markt in Sri Petaling dient der lokalen Gemeinschaft und ist ein Zentrum für frische Lebensmittel und authentisches malaysisches Streetfood.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694731,
+                        3.070598
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Jalan Jujur",
+                  "text": "Dieser lebhafte Nachtmarkt erstreckt sich entlang der Jalan Jujur und erwacht abends mit beleuchteten Ständen zum Leben, an denen lokale Snacks verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721816,
+                        3.087981
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Terbuka DBKL",
+                  "text": "Dieser unter freiem Himmel stattfindende Morgenmarkt bietet schon früh am Tag eine reiche Auswahl an frischem Fleisch, Gemüse und Dingen des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721629,
+                        3.086958
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Taynton",
+                  "text": "Dieser Nachtmarkt im Viertel Taman Taynton bietet Reihen von Straßenhändlern, die unter provisorischen Zelten warme Mahlzeiten kochen und günstige Kleidung verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.73552,
+                        3.089053
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Desa Cheras",
+                  "text": "Dieser Nachtmarkt erleuchtet nach Einbruch der Dunkelheit die Straßen von Desa Cheras und ist ein beliebter Treffpunkt für duftendes Streetfood und günstige Schnäppchen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.738387,
+                        3.058987
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Cheras",
+                  "text": "In der hügeligen Gemeinde Taman Bukit Cheras gelegen, ist dieser Abendbasar voll von dicht gedrängten Ständen, die asiatische Köstlichkeiten und frisches Obst anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748578,
+                        3.069489
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Kampung Batu 11 Cheras",
+                  "text": "Dieser traditionelle Morgenmarkt in Kampung Batu 11 weckt die Nachbarschaft mit dem frühen Handel von fangfrischem Fisch und saftigem Blattgemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        101.772492,
+                        3.04561
+                  ]
+            },
+            {
+                  "name": "Quinocycle Box & Packaging",
+                  "text": "Diese als spezialisiertes Handelszentrum fungierende Anlage konzentriert sich auf die Bereitstellung von robusten Verpackungsmaterialien und Kartons im Großhandel.",
+                  "category": "cultural",
+                  "coords": [
+                        101.739969,
+                        3.019653
+                  ]
+            },
+            {
+                  "name": "Tapak Laman Niaga Bandar Sungai Long",
+                  "text": "Auf diesem ausgewiesenen Freilufthandelsplatz in Bandar Sungai Long verkaufen zahlreiche Händler unter provisorischen Vordächern alltägliche lokale Waren und Speisen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.794145,
+                        3.038516
+                  ]
+            },
+            {
+                  "name": "BMC Marketplace",
+                  "text": "Ein moderner kommerzieller Marktplatz mit gut organisierten Gängen, die mit einer großen Auswahl an frischen Lebensmitteln und Haushaltswaren gefüllt sind.",
+                  "category": "cultural",
+                  "coords": [
+                        101.793347,
+                        3.058883
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Sungai Besi",
+                  "text": "In der Altstadt von Sungai Besi gelegen, bietet dieser energiegeladene Nachtmarkt ein farbenfrohes Bild von brutzelnden Woks und lebhaften Straßenständen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.709734,
+                        3.060428
+                  ]
+            },
+            {
+                  "name": "Pasar Sungai Besi",
+                  "text": "Dieser traditionelle Frischmarkt ist unter einem großen überdachten Gebäude untergebracht und der historische Kern von Sungai Besi für den Kauf von Geflügel und Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.710599,
+                        3.063953
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Connaught",
+                  "text": "Bekannt als einer der längsten Straßenmärkte der Region, erstreckt sich dieser weitläufige Nachtbasar kilometerweit mit endlosen Essens- und Kleidungsständen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.737083,
+                        3.081587
+                  ]
+            },
+            {
+                  "name": "Alam Damai Market (Temporaly)",
+                  "text": "Dieser temporäre Markt in Alam Damai, der unter freiem Himmel stattfindet, versorgt die lokale Gemeinschaft mit frischem saisonalem Gemüse und frisch gekochten Snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        101.745165,
+                        3.057256
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Anggerik",
+                  "text": "Eingebettet in Taman Bukit Anggerik, leuchtet dieser nächtliche Markt unter beleuchteten Baldachinen, während Händler heißes lokales Streetfood direkt vor Ihren Augen zubereiten.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748681,
+                        3.058508
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar & Komuniti Suntex",
+                  "text": "Dieser mehrstöckige Komplex fungiert als Gemeindezentrum und beherbergt neben verschiedenen städtischen Einrichtungen für die Bewohner von Suntex auch einen belebten überdachten Frischmarkt.",
+                  "category": "cultural",
+                  "coords": [
+                        101.764999,
+                        3.072066
+                  ]
+            },
+            {
+                  "name": "Damai Perdana Morning Market",
+                  "text": "Ein morgendlicher Handelsplatz in Damai Perdana, an dem Einheimische unter bunten Regenschirmen um Fleisch und leuchtende tropische Früchte feilschen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.740642,
+                        3.047261
+                  ]
+            },
+            {
+                  "name": "Pasar Cheras Utama",
+                  "text": "Dieser belebte tägliche Markt bedient die dichten Wohnblöcke von Cheras Utama und ist hoch gestapelt mit Trockenwaren, lokalen Gewürzen und frischem Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750714,
+                        3.10318
+                  ]
+            },
+            {
+                  "name": "Pasar Taman Cheras",
+                  "text": "Dieser Gemeinschaftsmarktplatz im Herzen von Taman Cheras verfügt über dicht gedrängte Stände, die von frisch gebackenem Brot bis hin zu rohen Meeresfrüchten alles anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742443,
+                        3.101005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "Ez az elismert iszlám imaterem elég nevezetes ahhoz, hogy saját Wikipédia-bejegyzéssel rendelkezzen, és a Sungai Besi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        101.765345,
+                        3.05435
+                  ]
+            },
+            {
+                  "name": "Surau Impian Ihsan",
+                  "text": "A környék kiemelkedő iszlám közösségi központja, amely széles körben ismert a helyi lakosok számára szervezett gyülekezeti imákról.",
+                  "category": "religious",
+                  "coords": [
+                        101.753199,
+                        3.017946
+                  ]
+            },
+            {
+                  "name": "Masjid Manbaeil Uloom",
+                  "text": "Ez a nevezetes iszlám mecset a vallásoktatás és a nagyszabású pénteki összejövetelek központi pilléreként szolgál a kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        101.761236,
+                        3.026444
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "Az SMA Persekutuan vallási iskolához kapcsolódó iszlám imaterem integrálja a diákok tanulását a napi gyülekezeti istentisztelettel.",
+                  "category": "religious",
+                  "coords": [
+                        101.782584,
+                        3.019326
+                  ]
+            },
+            {
+                  "name": "Masjid Sungai Sekamat",
+                  "text": "A Sekamat folyó környékén található, elismert iszlám mecset a környező falu hívőinek központja.",
+                  "category": "religious",
+                  "coords": [
+                        101.775453,
+                        3.020631
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "A Taman Serdang Raya területén található, elismert iszlám istentiszteleti hely jellegzetes építészeti elemekkel várja a környékbeli híveket.",
+                  "category": "religious",
+                  "coords": [
+                        101.703376,
+                        3.042955
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "Kiemelkedő iszlám imaterem, amely a helyi közösség hivatalosan is elismert spirituális nevezetességévé vált.",
+                  "category": "religious",
+                  "coords": [
+                        101.752979,
+                        3.057475
+                  ]
+            },
+            {
+                  "name": "Masjid Ubudiah",
+                  "text": "A Kampung Sungai Raya falut kiszolgáló jelentős iszlám mecset a vidéki közösségi élet és a pénteki imák sarokköve.",
+                  "category": "religious",
+                  "coords": [
+                        101.769645,
+                        3.067337
+                  ]
+            },
+            {
+                  "name": "Masjid Taming Jaya",
+                  "text": "A Taming Jaya ipari és lakóövezeten belüli fontos iszlám mecset, amely a munkásosztály nagy létszámú gyülekezetének befogadásáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        101.738401,
+                        3.024613
+                  ]
+            },
+            {
+                  "name": "Intelligence Traceability Sdn Bhd",
+                  "text": "Ez a kereskedelmi épületegyüttes egy kis, dedikált vállalati istentiszteleti helynek ad otthont alkalmazottai és a helyi munkások számára.",
+                  "category": "religious",
+                  "coords": [
+                        101.701178,
+                        3.083149
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Shui Jin Tang Malaysia",
+                  "text": "A helyi egyesület által fenntartott kínai népi vallási templom, amelyet a Vízisten tiszteletének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        101.68902,
+                        3.081853
+                  ]
+            },
+            {
+                  "name": "Colmo Tech",
+                  "text": "Az ipari technológiai cégen belül található vállalati szentély külön teret biztosít az alkalmazottak számára a napi vallási rituálék gyakorlásához.",
+                  "category": "religious",
+                  "coords": [
+                        101.718502,
+                        3.079578
+                  ]
+            },
+            {
+                  "name": "Datuk Kong",
+                  "text": "Egy jellegzetes, élénk színekre festett kínai-maláj helyi istenségszentély, amely a közvetlen föld védőszellemét tiszteli.",
+                  "category": "religious",
+                  "coords": [
+                        101.735998,
+                        3.052781
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Na Du Gong Serdang Lama Selangor",
+                  "text": "A Serdang Lamában található szervezett templomi egyesület a lokalizált Na Du Gong földszellemek imádatának szentelte magát.",
+                  "category": "religious",
+                  "coords": [
+                        101.719605,
+                        3.01722
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a funkcionális környékbeli mecset praktikus, nyitott terű imatermet kínál a helyi iszlám közösség mindennapi vallási igényeihez.",
+                  "category": "religious",
+                  "coords": [
+                        101.707911,
+                        3.071711
+                  ]
+            },
+            {
+                  "name": "Persatuan Pengurusan Rumah Berhala Sze Chu",
+                  "text": "Egy aktív kínai templomfenntartó egyesület, amely egy hagyományos imatermet tart fenn bonyolult oltárfafaragásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        101.740309,
+                        3.080702
+                  ]
+            },
+            {
+                  "name": "Pertubuhan Penganut Dewa Kwan Kung Kuala Lumpur dan Selangor",
+                  "text": "Főként Kwan Kungnak szentelt harci kínai templomi szervezet, amely a tisztelt tábornok és istenség impozáns szobraival büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        101.793848,
+                        3.0536
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Segar",
+                  "text": "Ez a nyüzsgő éjszakai piac a Taman Segarban számos friss helyi utcai ételeket és árukat árusító standdal alakítja át az esti utcákat.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742386,
+                        3.089745
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Gembira",
+                  "text": "A Taman Bukit Gembirában szürkületkor felállított szabadtéri esti piac a regionális harapnivalók és a szomszédsági társasági élet nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        101.688147,
+                        3.082928
+                  ]
+            },
+            {
+                  "name": "Wet and dry market",
+                  "text": "Ez a nyüzsgő piac friss helyi termékek és mindennapi háztartási cikkek színes választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        101.672776,
+                        3.074111
+                  ]
+            },
+            {
+                  "name": "Pasar Sri Petaling",
+                  "text": "A helyi közösséget kiszolgáló, nyüzsgő Sri Petaling-i piac a friss élelmiszerek és az autentikus maláj utcai ételek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694731,
+                        3.070598
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Jalan Jujur",
+                  "text": "A Jalan Jujur mentén húzódó, nyüzsgő éjszakai piac sötétedés után kel életre a helyi harapnivalókat árusító kivilágított bódékkal.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721816,
+                        3.087981
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Terbuka DBKL",
+                  "text": "Ez a szabadtéri reggeli piac a korai órákban friss hús, zöldség és mindennapi szükségleti cikkek gazdag választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721629,
+                        3.086958
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Taynton",
+                  "text": "A Taman Taynton negyedben található éjszakai piacon utcai árusok sorakoznak, akik rögtönzött sátrak alatt meleg ételeket készítenek és megfizethető ruházati cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.73552,
+                        3.089053
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Desa Cheras",
+                  "text": "A Desa Cheras utcáit sötétedés után megvilágító éjszakai piac az illatos utcai ételek és az olcsó áruk népszerű lelőhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        101.738387,
+                        3.058987
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Cheras",
+                  "text": "A domboldali Taman Bukit Cheras közösségében található esti bazár tele van szorosan egymás mellett lévő standokkal, amelyek ázsiai finomságokat és friss gyümölcsöket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748578,
+                        3.069489
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Kampung Batu 11 Cheras",
+                  "text": "Ez a hagyományos Kampung Batu 11-i reggeli piac a frissen fogott halak és lédús leveles zöldségek korai árusításával ébreszti a környéket.",
+                  "category": "cultural",
+                  "coords": [
+                        101.772492,
+                        3.04561
+                  ]
+            },
+            {
+                  "name": "Quinocycle Box & Packaging",
+                  "text": "Speciális kereskedelmi központként ez a létesítmény masszív csomagolóanyagok és kartondobozok nagykereskedelmi értékesítésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        101.739969,
+                        3.019653
+                  ]
+            },
+            {
+                  "name": "Tapak Laman Niaga Bandar Sungai Long",
+                  "text": "Ez a kijelölt Bandar Sungai Long-i szabadtéri kereskedelmi terület számos árusnak ad otthont, akik rögtönzött sátortetők alatt árulják a mindennapi helyi árukat és ételeket.",
+                  "category": "cultural",
+                  "coords": [
+                        101.794145,
+                        3.038516
+                  ]
+            },
+            {
+                  "name": "BMC Marketplace",
+                  "text": "Modern kereskedelmi piac, amelynek jól szervezett sorai friss élelmiszerek és háztartási cikkek széles választékával vannak tele.",
+                  "category": "cultural",
+                  "coords": [
+                        101.793347,
+                        3.058883
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Sungai Besi",
+                  "text": "A Sungai Besi óvárosában található energikus éjszakai piac a sercegő wokok és a színes utcai standok élénk látványát nyújtja.",
+                  "category": "cultural",
+                  "coords": [
+                        101.709734,
+                        3.060428
+                  ]
+            },
+            {
+                  "name": "Pasar Sungai Besi",
+                  "text": "Egy nagy fedett szerkezet alatt kapott helyet ez a hagyományos piac, amely Sungai Besi történelmi központja a baromfi és fűszerek beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        101.710599,
+                        3.063953
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Connaught",
+                  "text": "A régió egyik leghosszabb utcai piacaként ismert, kiterjedt éjszakai bazár kilométereken át húzódik a végtelen étel- és ruhásbódékkal.",
+                  "category": "cultural",
+                  "coords": [
+                        101.737083,
+                        3.081587
+                  ]
+            },
+            {
+                  "name": "Alam Damai Market (Temporaly)",
+                  "text": "Az Alam Damaiban ideiglenes szabadtéri jelleggel működő piac friss szezonális zöldségekkel és frissen főzött harapnivalókkal látja el a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        101.745165,
+                        3.057256
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Anggerik",
+                  "text": "A Taman Bukit Anggerikben megbújó éjszakai piac sátorfényekben úszik, miközben az árusok közvetlenül a szeme előtt készítik el a forró helyi utcai ételeket.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748681,
+                        3.058508
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar & Komuniti Suntex",
+                  "text": "Ez a többszintes komplexum közösségi központként működik, és a Suntex lakói számára fenntartott különféle civil létesítmények mellett egy nyüzsgő fedett piaccal is rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        101.764999,
+                        3.072066
+                  ]
+            },
+            {
+                  "name": "Damai Perdana Morning Market",
+                  "text": "Reggeli kereskedelmi helyszín Damai Perdanában, ahol a helyiek színes esernyők alatt alkudoznak a húsokra és a trópusi gyümölcsökre.",
+                  "category": "cultural",
+                  "coords": [
+                        101.740642,
+                        3.047261
+                  ]
+            },
+            {
+                  "name": "Pasar Cheras Utama",
+                  "text": "A Cheras Utama sűrű lakótömbjeit kiszolgáló nyüzsgő napi piacon magasan sorakoznak a szárazáruk, a helyi fűszerek és a friss zöldségek.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750714,
+                        3.10318
+                  ]
+            },
+            {
+                  "name": "Pasar Taman Cheras",
+                  "text": "A Taman Cheras szívében található közösségi piacon szorosan egymás mellett lévő standok kínálnak mindent a frissen sült kenyértől a nyers tenger gyümölcseiig.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742443,
+                        3.101005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "Această sală de rugăciune islamică recunoscută este suficient de notabilă pentru a avea propria pagină Wikipedia, deservind comunitatea Sungai Besi.",
+                  "category": "religious",
+                  "coords": [
+                        101.765345,
+                        3.05435
+                  ]
+            },
+            {
+                  "name": "Surau Impian Ihsan",
+                  "text": "Un centru islamic comunitar proeminent din zonă, cunoscut pe scară largă pentru organizarea rugăciunilor comune pentru rezidenții locali.",
+                  "category": "religious",
+                  "coords": [
+                        101.753199,
+                        3.017946
+                  ]
+            },
+            {
+                  "name": "Masjid Manbaeil Uloom",
+                  "text": "Această moschee islamică notabilă servește ca pilon central pentru educația religioasă și marile adunări de vineri din districtul său.",
+                  "category": "religious",
+                  "coords": [
+                        101.761236,
+                        3.026444
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "Asociată cu școala religioasă SMA Persekutuan, această sală de rugăciune islamică integrează învățarea elevilor cu închinarea zilnică a congregației.",
+                  "category": "religious",
+                  "coords": [
+                        101.782584,
+                        3.019326
+                  ]
+            },
+            {
+                  "name": "Masjid Sungai Sekamat",
+                  "text": "Situată în apropierea râului Sekamat, această moschee islamică consacrată oferă un punct central pentru credincioșii satului din împrejurimi.",
+                  "category": "religious",
+                  "coords": [
+                        101.775453,
+                        3.020631
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "Situat în Taman Serdang Raya, acest lăcaș de cult islamic recunoscut prezintă elemente arhitecturale distinctive pentru congregația din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        101.703376,
+                        3.042955
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "O sală de rugăciune islamică proeminentă care a devenit un punct de reper spiritual recunoscut oficial pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        101.752979,
+                        3.057475
+                  ]
+            },
+            {
+                  "name": "Masjid Ubudiah",
+                  "text": "Deservind satul Kampung Sungai Raya, această moschee islamică semnificativă este o piatră de temelie a vieții comunitare rurale și a rugăciunilor de vineri.",
+                  "category": "religious",
+                  "coords": [
+                        101.769645,
+                        3.067337
+                  ]
+            },
+            {
+                  "name": "Masjid Taming Jaya",
+                  "text": "O importantă moschee islamică din zona industrială și rezidențială Taming Jaya, cunoscută pentru găzduirea unei mari congregații din clasa muncitoare.",
+                  "category": "religious",
+                  "coords": [
+                        101.738401,
+                        3.024613
+                  ]
+            },
+            {
+                  "name": "Intelligence Traceability Sdn Bhd",
+                  "text": "Acest complex de clădiri comerciale găzduiește un mic lăcaș de cult corporativ dedicat personalului și muncitorilor locali.",
+                  "category": "religious",
+                  "coords": [
+                        101.701178,
+                        3.083149
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Shui Jin Tang Malaysia",
+                  "text": "Un templu al religiei populare chineze administrat de o asociație locală dedicată venerării Zeului Apei.",
+                  "category": "religious",
+                  "coords": [
+                        101.68902,
+                        3.081853
+                  ]
+            },
+            {
+                  "name": "Colmo Tech",
+                  "text": "Amplasat în cadrul unei firme de tehnologie industrială, acest altar corporativ oferă un spațiu dedicat angajaților pentru a-și practica ritualurile religioase zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        101.718502,
+                        3.079578
+                  ]
+            },
+            {
+                  "name": "Datuk Kong",
+                  "text": "Un altar distinct al zeității locale sino-malaeziene, pictat în culori strălucitoare caracteristice, onorând spiritul protector al pământului imediat.",
+                  "category": "religious",
+                  "coords": [
+                        101.735998,
+                        3.052781
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Na Du Gong Serdang Lama Selangor",
+                  "text": "Situată în Serdang Lama, această asociație organizată de temple este dedicată venerării spiritelor locale ale pământului Na Du Gong.",
+                  "category": "religious",
+                  "coords": [
+                        101.719605,
+                        3.01722
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Această moschee funcțională de cartier oferă o sală de rugăciune practică, în plan deschis, pentru nevoile religioase zilnice ale comunității islamice locale.",
+                  "category": "religious",
+                  "coords": [
+                        101.707911,
+                        3.071711
+                  ]
+            },
+            {
+                  "name": "Persatuan Pengurusan Rumah Berhala Sze Chu",
+                  "text": "O asociație activă de management al templelor chinezești care menține o sală tradițională de cult cu sculpturi elaborate în lemn pe altar.",
+                  "category": "religious",
+                  "coords": [
+                        101.740309,
+                        3.080702
+                  ]
+            },
+            {
+                  "name": "Pertubuhan Penganut Dewa Kwan Kung Kuala Lumpur dan Selangor",
+                  "text": "O organizație marțială a templului chinezesc dedicată în primul rând lui Kwan Kung, prezentând statui impunătoare ale veneratului general și zeitate.",
+                  "category": "religious",
+                  "coords": [
+                        101.793848,
+                        3.0536
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Segar",
+                  "text": "Această piață de noapte plină de viață din Taman Segar transformă străzile de seară cu numeroase tarabe care vând mâncare stradală locală proaspătă și bunuri.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742386,
+                        3.089745
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Gembira",
+                  "text": "Amenajată la lăsarea întunericului în Taman Bukit Gembira, această piață de seară în aer liber este un punct de atracție plin de viață pentru gustări regionale și socializare în cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        101.688147,
+                        3.082928
+                  ]
+            },
+            {
+                  "name": "Wet and dry market",
+                  "text": "Această piață aglomerată oferă o gamă vibrantă de produse regionale proaspete și bunuri de uz casnic de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        101.672776,
+                        3.074111
+                  ]
+            },
+            {
+                  "name": "Pasar Sri Petaling",
+                  "text": "Servind comunitatea locală, această piață vibrantă din Sri Petaling este un centru pentru alimente proaspete și mâncare stradală autentică din Malaezia.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694731,
+                        3.070598
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Jalan Jujur",
+                  "text": "Întinzându-se de-a lungul străzii Jalan Jujur, această piață de noapte prinde viață seara cu tarabe luminate care vând gustări locale.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721816,
+                        3.087981
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Terbuka DBKL",
+                  "text": "Această piață matinală în aer liber este un centru plin de viață dimineața devreme, oferind o selecție bogată de carne proaspătă, legume și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721629,
+                        3.086958
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Taynton",
+                  "text": "Situată în cartierul Taman Taynton, această piață de noapte prezintă rânduri de vânzători ambulanți care gătesc mese calde și vând haine la prețuri accesibile sub corturi improvizate.",
+                  "category": "cultural",
+                  "coords": [
+                        101.73552,
+                        3.089053
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Desa Cheras",
+                  "text": "Iluminând străzile din Desa Cheras după lăsarea întunericului, această piață de noapte este un loc popular de adunare pentru mâncare stradală aromată și chilipiruri.",
+                  "category": "cultural",
+                  "coords": [
+                        101.738387,
+                        3.058987
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Cheras",
+                  "text": "Situat în comunitatea de pe deal Taman Bukit Cheras, acest bazar de seară este plin de tarabe înghesuite care oferă delicatese asiatice și fructe proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748578,
+                        3.069489
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Kampung Batu 11 Cheras",
+                  "text": "Această piață tradițională de dimineață din Kampung Batu 11 trezește cartierul cu comerțul timpuriu de pește proaspăt prins și verdețuri suculente.",
+                  "category": "cultural",
+                  "coords": [
+                        101.772492,
+                        3.04561
+                  ]
+            },
+            {
+                  "name": "Quinocycle Box & Packaging",
+                  "text": "Funcționând ca un centru comercial specializat, această facilitate se concentrează pe furnizarea de materiale de ambalare robuste și cutii de carton cu ridicata.",
+                  "category": "cultural",
+                  "coords": [
+                        101.739969,
+                        3.019653
+                  ]
+            },
+            {
+                  "name": "Tapak Laman Niaga Bandar Sungai Long",
+                  "text": "Acest loc de tranzacționare în aer liber din Bandar Sungai Long găzduiește numeroși vânzători sub copertine improvizate care vând mărfuri locale de zi cu zi și preparate culinare.",
+                  "category": "cultural",
+                  "coords": [
+                        101.794145,
+                        3.038516
+                  ]
+            },
+            {
+                  "name": "BMC Marketplace",
+                  "text": "O piață comercială modernă, cu rânduri bine organizate, pline cu o selecție extinsă de alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        101.793347,
+                        3.058883
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Sungai Besi",
+                  "text": "Situată în zona orașului vechi din Sungai Besi, această piață de noapte plină de energie oferă o expunere vibrantă de wok-uri sfârâitoare și tarabe stradale pline de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        101.709734,
+                        3.060428
+                  ]
+            },
+            {
+                  "name": "Pasar Sungai Besi",
+                  "text": "Găzduită sub o structură mare acoperită, această piață tradițională este nucleul istoric al orașului Sungai Besi pentru achiziționarea de păsări de curte și condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        101.710599,
+                        3.063953
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Connaught",
+                  "text": "Renumit ca una dintre cele mai lungi piețe stradale din regiune, acest vast bazar de noapte se întinde pe kilometri întregi, având nenumărate tarabe cu mâncare și haine.",
+                  "category": "cultural",
+                  "coords": [
+                        101.737083,
+                        3.081587
+                  ]
+            },
+            {
+                  "name": "Alam Damai Market (Temporaly)",
+                  "text": "Funcționând dintr-un spațiu temporar în aer liber în Alam Damai, această piață tranzitorie oferă comunității locale legume proaspete de sezon și gustări proaspăt gătite.",
+                  "category": "cultural",
+                  "coords": [
+                        101.745165,
+                        3.057256
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Anggerik",
+                  "text": "Ascunsă în Taman Bukit Anggerik, această piață de noapte strălucește sub luminile copertinelor, în timp ce vânzătorii pregătesc mâncare stradală locală fierbinte chiar în fața ochilor tăi.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748681,
+                        3.058508
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar & Komuniti Suntex",
+                  "text": "Funcționând ca un centru comunitar pe mai multe niveluri, acest complex dispune de o piață interioară plină de viață, alături de diverse facilități civice pentru rezidenții Suntex.",
+                  "category": "cultural",
+                  "coords": [
+                        101.764999,
+                        3.072066
+                  ]
+            },
+            {
+                  "name": "Damai Perdana Morning Market",
+                  "text": "Un loc de tranzacționare matinal în Damai Perdana, unde localnicii negociază pentru carne și fructe tropicale vibrante sub umbrele colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        101.740642,
+                        3.047261
+                  ]
+            },
+            {
+                  "name": "Pasar Cheras Utama",
+                  "text": "Deservind blocurile rezidențiale dense din Cheras Utama, această piață zilnică plină de viață este ticsită cu produse uscate, condimente locale și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750714,
+                        3.10318
+                  ]
+            },
+            {
+                  "name": "Pasar Taman Cheras",
+                  "text": "Situată în inima cartierului Taman Cheras, această piață comunitară are tarabe strâns împachetate, care oferă totul, de la pâine proaspăt coaptă la fructe de mare crude.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742443,
+                        3.101005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "This recognized Islamic prayer hall is notable enough to have its own Wikipedia entry, serving the Sungai Besi community.",
+                  "category": "religious",
+                  "coords": [
+                        101.765345,
+                        3.05435
+                  ]
+            },
+            {
+                  "name": "Surau Impian Ihsan",
+                  "text": "A prominent community Islamic center in the area, widely known for organizing congregational prayers for local residents.",
+                  "category": "religious",
+                  "coords": [
+                        101.753199,
+                        3.017946
+                  ]
+            },
+            {
+                  "name": "Masjid Manbaeil Uloom",
+                  "text": "This notable Islamic mosque serves as a central pillar for religious education and large-scale Friday gatherings in its district.",
+                  "category": "religious",
+                  "coords": [
+                        101.761236,
+                        3.026444
+                  ]
+            },
+            {
+                  "name": "Surau Al-Ehsan",
+                  "text": "Associated with the SMA Persekutuan religious school, this Islamic prayer hall integrates student learning with daily congregational worship.",
+                  "category": "religious",
+                  "coords": [
+                        101.782584,
+                        3.019326
+                  ]
+            },
+            {
+                  "name": "Sungai Sekamat Mosque",
+                  "text": "Located near the Sekamat River area, this established Islamic mosque provides a focal point for the surrounding village's faithful.",
+                  "category": "religious",
+                  "coords": [
+                        101.775453,
+                        3.020631
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "Situated in Taman Serdang Raya, this recognized Islamic house of worship features distinctive architectural elements for neighborhood congregants.",
+                  "category": "religious",
+                  "coords": [
+                        101.703376,
+                        3.042955
+                  ]
+            },
+            {
+                  "name": "Surau Nurul Iman",
+                  "text": "A prominent Islamic prayer room that has become an officially recognized spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        101.752979,
+                        3.057475
+                  ]
+            },
+            {
+                  "name": "Masjid Ubudiah",
+                  "text": "Serving the Kampung Sungai Raya village, this significant Islamic mosque is a cornerstone of rural community life and Friday prayers.",
+                  "category": "religious",
+                  "coords": [
+                        101.769645,
+                        3.067337
+                  ]
+            },
+            {
+                  "name": "Masjid Taming Jaya",
+                  "text": "An important Islamic mosque within the Taming Jaya industrial and residential zone, known for accommodating a large working-class congregation.",
+                  "category": "religious",
+                  "coords": [
+                        101.738401,
+                        3.024613
+                  ]
+            },
+            {
+                  "name": "Intelligence Traceability Sdn Bhd",
+                  "text": "This commercial building complex houses a small, dedicated corporate place of worship for its staff and local workers.",
+                  "category": "religious",
+                  "coords": [
+                        101.701178,
+                        3.083149
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Shui Jin Tang Malaysia",
+                  "text": "A Chinese folk religion temple managed by a local association dedicated to the veneration of the Water God.",
+                  "category": "religious",
+                  "coords": [
+                        101.68902,
+                        3.081853
+                  ]
+            },
+            {
+                  "name": "Colmo Tech",
+                  "text": "Set within an industrial technology firm, this corporate shrine provides a dedicated space for employees to practice their daily religious rituals.",
+                  "category": "religious",
+                  "coords": [
+                        101.718502,
+                        3.079578
+                  ]
+            },
+            {
+                  "name": "Datuk Kong",
+                  "text": "A distinct Sino-Malay local deity shrine painted in characteristic bright colors, honoring the guardian spirit of the immediate land.",
+                  "category": "religious",
+                  "coords": [
+                        101.735998,
+                        3.052781
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Dewa Na Du Gong Serdang Lama Selangor",
+                  "text": "Located in Serdang Lama, this organized temple association is dedicated to the worship of the localized Na Du Gong earth spirits.",
+                  "category": "religious",
+                  "coords": [
+                        101.719605,
+                        3.01722
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This functional neighborhood mosque offers a practical, open-plan prayer hall for the daily religious needs of the local Islamic community.",
+                  "category": "religious",
+                  "coords": [
+                        101.707911,
+                        3.071711
+                  ]
+            },
+            {
+                  "name": "Persatuan Pengurusan Rumah Berhala Sze Chu",
+                  "text": "An active Chinese temple management association maintaining a traditional hall of worship with elaborate altar woodcarvings.",
+                  "category": "religious",
+                  "coords": [
+                        101.740309,
+                        3.080702
+                  ]
+            },
+            {
+                  "name": "Pertubuhan Penganut Dewa Kwan Kung Kuala Lumpur dan Selangor",
+                  "text": "A martial Chinese temple organization primarily devoted to Kwan Kung, featuring imposing statues of the revered general and deity.",
+                  "category": "religious",
+                  "coords": [
+                        101.793848,
+                        3.0536
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Segar",
+                  "text": "This bustling night market in Taman Segar transforms the evening streets with numerous stalls selling fresh local street food and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742386,
+                        3.089745
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Gembira",
+                  "text": "Setting up at dusk in Taman Bukit Gembira, this open-air evening market is a lively hotspot for regional snacks and neighborhood socializing.",
+                  "category": "cultural",
+                  "coords": [
+                        101.688147,
+                        3.082928
+                  ]
+            },
+            {
+                  "name": "Wet and dry market",
+                  "text": "This bustling wet and dry market offers a vibrant array of fresh regional produce and everyday household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.672776,
+                        3.074111
+                  ]
+            },
+            {
+                  "name": "Pasar Sri Petaling",
+                  "text": "Serving the local community, this vibrant market in Sri Petaling is a hub for fresh groceries and authentic Malaysian street food.",
+                  "category": "cultural",
+                  "coords": [
+                        101.694731,
+                        3.070598
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Jalan Jujur",
+                  "text": "Stretching along Jalan Jujur, this lively night market comes alive in the evening with illuminated stalls selling local snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721816,
+                        3.087981
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Terbuka DBKL",
+                  "text": "This open-air morning market is a bustling early-day hub for securing fresh meat, vegetables, and daily household necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        101.721629,
+                        3.086958
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Taynton",
+                  "text": "Set in the Taman Taynton neighborhood, this night market features rows of street vendors cooking hot meals and selling affordable apparel beneath temporary canopies.",
+                  "category": "cultural",
+                  "coords": [
+                        101.73552,
+                        3.089053
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Desa Cheras",
+                  "text": "Illuminating the streets of Desa Cheras after dark, this night market is a popular gathering spot for aromatic regional delicacies and bargain goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.738387,
+                        3.058987
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Cheras",
+                  "text": "Located in the hillside community of Taman Bukit Cheras, this evening bazaar is packed with stalls offering aromatic Asian street food and fresh tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748578,
+                        3.069489
+                  ]
+            },
+            {
+                  "name": "Pasar Pagi Kampung Batu 11 Cheras",
+                  "text": "This traditional morning market in Kampung Batu 11 wakes the neighborhood with early trades of freshly caught fish and leafy greens.",
+                  "category": "cultural",
+                  "coords": [
+                        101.772492,
+                        3.04561
+                  ]
+            },
+            {
+                  "name": "Quinocycle Box & Packaging",
+                  "text": "Functioning as a specialized commercial hub, this facility focuses on providing wholesale cardboard boxes and resilient packaging materials.",
+                  "category": "cultural",
+                  "coords": [
+                        101.739969,
+                        3.019653
+                  ]
+            },
+            {
+                  "name": "Tapak Laman Niaga Bandar Sungai Long",
+                  "text": "This designated outdoor trading site in Bandar Sungai Long hosts numerous vendors beneath makeshift canopies selling everyday local commodities and cooked dishes.",
+                  "category": "cultural",
+                  "coords": [
+                        101.794145,
+                        3.038516
+                  ]
+            },
+            {
+                  "name": "BMC Marketplace",
+                  "text": "A modern commercial marketplace featuring well-organized aisles filled with an extensive selection of fresh groceries and household retail goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.793347,
+                        3.058883
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Sungai Besi",
+                  "text": "Situated in the old town area of Sungai Besi, this energetic night market offers a vibrant display of sizzling woks and colorful street stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        101.709734,
+                        3.060428
+                  ]
+            },
+            {
+                  "name": "Sungai Besi Market",
+                  "text": "Housed under a large roofed structure, this traditional wet market serves as the historical core of Sungai Besi for purchasing freshly butchered poultry and raw spices.",
+                  "category": "cultural",
+                  "coords": [
+                        101.710599,
+                        3.063953
+                  ]
+            },
+            {
+                  "name": "Connaught Garden Night Market",
+                  "text": "Renowned as one of the longest street markets in the region, this sprawling night bazaar stretches for kilometers with endless rows of food and clothing stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        101.737083,
+                        3.081587
+                  ]
+            },
+            {
+                  "name": "Alam Damai Market (Temporaly)",
+                  "text": "Operating from a temporary open-air setup in Alam Damai, this transient market provides the local community with fresh seasonal vegetables and freshly cooked snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        101.745165,
+                        3.057256
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Taman Bukit Anggerik",
+                  "text": "Nestled in Taman Bukit Anggerik, this neighborhood night market glows with canopy lights as vendors prepare hot local street food right before your eyes.",
+                  "category": "cultural",
+                  "coords": [
+                        101.748681,
+                        3.058508
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasar & Komuniti Suntex",
+                  "text": "Functioning as a multi-level community hub, this complex features a bustling indoor wet market alongside various civic facilities for the Suntex residents.",
+                  "category": "cultural",
+                  "coords": [
+                        101.764999,
+                        3.072066
+                  ]
+            },
+            {
+                  "name": "Damai Perdana Morning Market",
+                  "text": "An energetic early-day trading spot in Damai Perdana where locals haggle for fresh meats and vibrant tropical fruits under colorful umbrellas.",
+                  "category": "cultural",
+                  "coords": [
+                        101.740642,
+                        3.047261
+                  ]
+            },
+            {
+                  "name": "Pasar Cheras Utama",
+                  "text": "Serving the dense residential blocks of Cheras Utama, this bustling daily market features closely packed stalls brimming with dry goods, local spices, and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        101.750714,
+                        3.10318
+                  ]
+            },
+            {
+                  "name": "Pasar Taman Cheras",
+                  "text": "Located in the heart of Taman Cheras, this local marketplace features tightly packed stalls offering everything from freshly baked goods to raw seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        101.742443,
+                        3.101005
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "MY-14",
     coords: [101.71, 3.06],
@@ -723,7 +14889,592 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "gebeng-industrial-estate-industry-economic-v2",
+    id: "gebeng-industrial-estate-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pantai Balok",
+                  "text": "Ein bekanntes Windsurf-Ziel mit einem langen Sandstrand in der Nähe des Industriegebiets Gebeng.",
+                  "category": "recreational",
+                  "coords": [
+                        103.373108,
+                        3.925207
+                  ]
+            },
+            {
+                  "name": "Bukit Balok",
+                  "text": "Ein lokaler Hügel im Landesinneren, der eine natürliche Kulisse für das Balok-Gebiet bildet.",
+                  "category": "natural",
+                  "coords": [
+                        103.331298,
+                        3.978501
+                  ]
+            },
+            {
+                  "name": "Pantai Baluk",
+                  "text": "Ein markantes Küstenerholungsgebiet, das für seine starken Winde und Wassersportmöglichkeiten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        103.378972,
+                        3.936035
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameen Aspa Cottage",
+                  "text": "Eine Gemeindemoschee, die den Bewohnern der Wohnsiedlung Aspa Cottage dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.334757,
+                        3.943907
+                  ]
+            },
+            {
+                  "name": "Surau Nur Hidayah",
+                  "text": "Eine lokale islamische Gebetsstätte, die für die spirituellen Bedürfnisse der angrenzenden Nachbarschaften in Gebeng sorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.361957,
+                        3.943287
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Abdullah Al-Haj",
+                  "text": "Eine große Moschee, die der lokalen muslimischen Bevölkerung im Bezirk Balok für Gemeinschaftsgebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.362431,
+                        3.924096
+                  ]
+            },
+            {
+                  "name": "Surau Ar Raudah",
+                  "text": "Ein lokales Surau in Gebeng, das einen eigenen Raum für die täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.375883,
+                        3.937389
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Panglima Perang Tengku Muhammad",
+                  "text": "Eine bedeutende Bezirksmoschee in der Region Gebeng, die moderne islamische Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.36346,
+                        3.896341
+                  ]
+            },
+            {
+                  "name": "Surau Perumahan Balok Permai",
+                  "text": "Ein Gebetssaal innerhalb des Wohngebiets Balok Permai für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        103.365165,
+                        3.934737
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah Balok Baru",
+                  "text": "Die Hauptmoschee für die Gemeinde des Townships Balok Baru.",
+                  "category": "religious",
+                  "coords": [
+                        103.361872,
+                        3.939717
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "Ein kleines islamisches Gemeindezentrum mit Gebetsräumen im Gebiet Gebeng.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373811,
+                        3.936674
+                  ]
+            },
+            {
+                  "name": "Surau Balok Perdana",
+                  "text": "Ein lokales Surau für die Bewohner der Wohnsiedlung Balok Perdana.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373953,
+                        3.960059
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "Ein bescheidener Gebetsraum in Gebeng, der die täglichen Gottesdienste der Muslime im örtlichen Bezirk erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.37128,
+                        3.933094
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sungai Karang Darat",
+                  "text": "Die Jamek-Hauptmoschee für die Gemeinde im Landesinneren von Sungai Karang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.359369,
+                        3.902372
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "Ein islamischer Gebetsraum in Gebeng, der dem täglichen religiösen Leben der Anwohner gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381812,
+                        3.974745
+                  ]
+            },
+            {
+                  "name": "Pasar Balok",
+                  "text": "Der lokale Hauptmarkt in Balok, der frische Produkte und Dinge des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.367601,
+                        3.935629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantai Balok",
+                  "text": "Egy jól ismert szörfözőhely, amelynek hosszú homokos partja a Gebeng ipari terület közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        103.373108,
+                        3.925207
+                  ]
+            },
+            {
+                  "name": "Bukit Balok",
+                  "text": "A tengerparttól beljebb fekvő helyi domb, amely természetes hátteret biztosít a Balok térségnek.",
+                  "category": "natural",
+                  "coords": [
+                        103.331298,
+                        3.978501
+                  ]
+            },
+            {
+                  "name": "Pantai Baluk",
+                  "text": "Egy kiemelkedő tengerparti rekreációs terület, amely erős szeiről és vízi sportjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        103.378972,
+                        3.936035
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameen Aspa Cottage",
+                  "text": "Egy közösségi mecset, amely az Aspa Cottage lakónegyed lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.334757,
+                        3.943907
+                  ]
+            },
+            {
+                  "name": "Surau Nur Hidayah",
+                  "text": "Egy helyi iszlám imalétesítmény, amely a környező városrészek spirituális igényeit elégíti ki Gebengben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.361957,
+                        3.943287
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Abdullah Al-Haj",
+                  "text": "Egy nagy gyülekezeti mecset, amely a helyi muszlim lakosságot szolgálja a Balok kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.362431,
+                        3.924096
+                  ]
+            },
+            {
+                  "name": "Surau Ar Raudah",
+                  "text": "Egy helyi surau Gebengben, amely dedikált teret biztosít a napi iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.375883,
+                        3.937389
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Panglima Perang Tengku Muhammad",
+                  "text": "Egy jelentős kerületi mecset a Gebeng régióban, amely a modern iszlám építészetet képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        103.36346,
+                        3.896341
+                  ]
+            },
+            {
+                  "name": "Surau Perumahan Balok Permai",
+                  "text": "Imaterem a Balok Permai lakóövezetben a helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.365165,
+                        3.934737
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah Balok Baru",
+                  "text": "A Balok Baru település közösségének elsődleges gyülekezeti mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        103.361872,
+                        3.939717
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "Egy kis iszlám közösségi központ imádkozási lehetőségekkel a Gebeng térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373811,
+                        3.936674
+                  ]
+            },
+            {
+                  "name": "Surau Balok Perdana",
+                  "text": "Egy helyi surau, amely a Balok Perdana lakópark lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373953,
+                        3.960059
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "Egy szerény imaterem Gebengben, amely a muszlimok napi istentiszteletét segíti a helyi kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.37128,
+                        3.933094
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sungai Karang Darat",
+                  "text": "A szárazföld belsejében fekvő Sungai Karang közösségének fő Jamek mecsete.",
+                  "category": "landmark",
+                  "coords": [
+                        103.359369,
+                        3.902372
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "Egy iszlám imatér Gebengben, amely a helyi lakosok napi vallási rutinját szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381812,
+                        3.974745
+                  ]
+            },
+            {
+                  "name": "Pasar Balok",
+                  "text": "A fő helyi piac Balokban, amely friss termékeket és napi szükségleti cikkeket biztosít.",
+                  "category": "cultural",
+                  "coords": [
+                        103.367601,
+                        3.935629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pantai Balok",
+                  "text": "O destinație de windsurfing bine cunoscută, cu o întindere lungă de nisip lângă zona industrială Gebeng.",
+                  "category": "recreational",
+                  "coords": [
+                        103.373108,
+                        3.925207
+                  ]
+            },
+            {
+                  "name": "Bukit Balok",
+                  "text": "Un deal local situat în interiorul coastei, oferind un fundal natural pentru zona Balok.",
+                  "category": "natural",
+                  "coords": [
+                        103.331298,
+                        3.978501
+                  ]
+            },
+            {
+                  "name": "Pantai Baluk",
+                  "text": "O zonă de recreere de coastă proeminentă cunoscută pentru briza sa puternică și sporturile nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        103.378972,
+                        3.936035
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameen Aspa Cottage",
+                  "text": "O moschee comunitară care deservește locuitorii enclavei rezidențiale Aspa Cottage.",
+                  "category": "landmark",
+                  "coords": [
+                        103.334757,
+                        3.943907
+                  ]
+            },
+            {
+                  "name": "Surau Nur Hidayah",
+                  "text": "O unitate locală de rugăciune islamică din Gebeng care răspunde nevoilor spirituale ale cartierelor din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        103.361957,
+                        3.943287
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Abdullah Al-Haj",
+                  "text": "O mare moschee de congregație care deservește populația musulmană locală din districtul Balok.",
+                  "category": "landmark",
+                  "coords": [
+                        103.362431,
+                        3.924096
+                  ]
+            },
+            {
+                  "name": "Surau Ar Raudah",
+                  "text": "Un surau de cartier din Gebeng care oferă un spațiu dedicat pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.375883,
+                        3.937389
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Panglima Perang Tengku Muhammad",
+                  "text": "O moschee districtuală majoră care prezintă o arhitectură islamică modernă în regiunea Gebeng.",
+                  "category": "landmark",
+                  "coords": [
+                        103.36346,
+                        3.896341
+                  ]
+            },
+            {
+                  "name": "Surau Perumahan Balok Permai",
+                  "text": "O sală de rugăciune situată în zona rezidențială Balok Permai pentru închinătorii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        103.365165,
+                        3.934737
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah Balok Baru",
+                  "text": "Moscheea principală de congregație pentru comunitatea din Balok Baru.",
+                  "category": "religious",
+                  "coords": [
+                        103.361872,
+                        3.939717
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "Un mic centru comunitar islamic care oferă facilități de rugăciune în zona Gebeng.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373811,
+                        3.936674
+                  ]
+            },
+            {
+                  "name": "Surau Balok Perdana",
+                  "text": "Un surau local de cartier care deservește rezidenții complexului de locuințe Balok Perdana.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373953,
+                        3.960059
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "O sală de rugăciune modestă din Gebeng care facilitează cultul musulman zilnic în districtul local.",
+                  "category": "landmark",
+                  "coords": [
+                        103.37128,
+                        3.933094
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sungai Karang Darat",
+                  "text": "Principala moschee Jamek care deservește comunitatea interioară din Sungai Karang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.359369,
+                        3.902372
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "Un spațiu de rugăciune islamic din Gebeng, dedicat rutinelor religioase zilnice ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381812,
+                        3.974745
+                  ]
+            },
+            {
+                  "name": "Pasar Balok",
+                  "text": "Principala piață locală din Balok care furnizează produse proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        103.367601,
+                        3.935629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balok Beach",
+                  "text": "A well-known windsurfing destination featuring a long stretch of sand near the Gebeng industrial area.",
+                  "category": "recreational",
+                  "coords": [
+                        103.373108,
+                        3.925207
+                  ]
+            },
+            {
+                  "name": "Bukit Balok",
+                  "text": "A local hill situated inland from the coast, providing a natural backdrop to the Balok area.",
+                  "category": "natural",
+                  "coords": [
+                        103.331298,
+                        3.978501
+                  ]
+            },
+            {
+                  "name": "Pantai Baluk",
+                  "text": "A prominent coastal recreation area known for its strong breezes and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        103.378972,
+                        3.936035
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameen Aspa Cottage",
+                  "text": "A community mosque serving the residents of the Aspa Cottage residential enclave.",
+                  "category": "landmark",
+                  "coords": [
+                        103.334757,
+                        3.943907
+                  ]
+            },
+            {
+                  "name": "Surau Nur Hidayah",
+                  "text": "A local Islamic prayer facility catering to the spiritual needs of the nearby neighborhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        103.361957,
+                        3.943287
+                  ]
+            },
+            {
+                  "name": "Masjid Tengku Abdullah Al-Haj",
+                  "text": "A large congregational mosque serving the local Muslim population in the Balok district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.362431,
+                        3.924096
+                  ]
+            },
+            {
+                  "name": "Surau Ar Raudah",
+                  "text": "A neighborhood surau providing a dedicated space for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.375883,
+                        3.937389
+                  ]
+            },
+            {
+                  "name": "Tengku Panglima Perang Tengku Muhammad Mosque",
+                  "text": "A major district mosque showcasing modern Islamic architecture in the Gebeng region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.36346,
+                        3.896341
+                  ]
+            },
+            {
+                  "name": "Surau Perumahan Balok Permai",
+                  "text": "A prayer hall situated within the Balok Permai residential area for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.365165,
+                        3.934737
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Khairiah Balok Baru",
+                  "text": "The primary congregational mosque for the Balok Baru township community.",
+                  "category": "religious",
+                  "coords": [
+                        103.361872,
+                        3.939717
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "A small Islamic community center providing prayer facilities in the Gebeng area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373811,
+                        3.936674
+                  ]
+            },
+            {
+                  "name": "Surau Balok Perdana",
+                  "text": "A local neighborhood surau serving the residents of the Balok Perdana housing estate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.373953,
+                        3.960059
+                  ]
+            },
+            {
+                  "name": "Surau Al-Amin",
+                  "text": "A modest prayer room facilitating daily Muslim worship in the local district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.37128,
+                        3.933094
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sungai Karang Darat",
+                  "text": "The main Jamek mosque serving the inland community of Sungai Karang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.359369,
+                        3.902372
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "An Islamic prayer space dedicated to the daily religious routines of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381812,
+                        3.974745
+                  ]
+            },
+            {
+                  "name": "Pasar Balok",
+                  "text": "The main local marketplace in Balok providing fresh produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        103.367601,
+                        3.935629
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MY-06",
     coords: [103.41, 3.96],
@@ -819,7 +15570,160 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bukit-ibam-mine-mine-economic-v2",
+    id: "bukit-ibam-mine-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Berembun",
+                  "text": "Dieser anerkannte Gipfel erhebt sich über die umliegende Landschaft und bietet Wanderern anspruchsvolle Pfade in der Nähe von Bukit Ibam.",
+                  "category": "natural",
+                  "coords": [
+                        102.802619,
+                        3.05359
+                  ]
+            },
+            {
+                  "name": "Bukit Pandan",
+                  "text": "Diese natürliche Erhebung in der Region Bukit Ibam zeichnet sich durch bewaldete Hänge und Panoramablicke von ihrem Gipfel aus.",
+                  "category": "natural",
+                  "coords": [
+                        102.733117,
+                        3.143623
+                  ]
+            },
+            {
+                  "name": "Bukit Lebah",
+                  "text": "Dieser Gipfel in der Nähe von Bukit Ibam zeichnet sich durch seine markante topografische Präsenz aus und zieht Outdoor-Enthusiasten sowie Naturliebhaber an.",
+                  "category": "natural",
+                  "coords": [
+                        102.745846,
+                        3.154175
+                  ]
+            },
+            {
+                  "name": "Bukit Cemingat",
+                  "text": "Ein anerkannter Berggipfel in der Gegend, der abenteuerlustigen Kletterern, die Bukit Ibam erkunden, eine steile natürliche Steigung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.808452,
+                        3.17087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Berembun",
+                  "text": "A környező táj fölé magasodó, elismert hegycsúcs kihívást jelentő túraútvonalakat kínál Bukit Ibam közelében.",
+                  "category": "natural",
+                  "coords": [
+                        102.802619,
+                        3.05359
+                  ]
+            },
+            {
+                  "name": "Bukit Pandan",
+                  "text": "Ez a természetes magaslat a Bukit Ibam régióban erdős lejtőkkel és a csúcsról nyíló panorámával büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        102.733117,
+                        3.143623
+                  ]
+            },
+            {
+                  "name": "Bukit Lebah",
+                  "text": "A domborzati szempontból kiemelkedő, Bukit Ibam melletti hegycsúcs vonzza a szabadtéri tevékenységek és a természet szerelmeseit.",
+                  "category": "natural",
+                  "coords": [
+                        102.745846,
+                        3.154175
+                  ]
+            },
+            {
+                  "name": "Bukit Cemingat",
+                  "text": "A terület egyik elismert hegycsúcsa, amely meredek természetes emelkedőt kínál a Bukit Ibamot felfedező kalandvágyó hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        102.808452,
+                        3.17087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Berembun",
+                  "text": "Ridicându-se deasupra peisajului înconjurător, acest vârf recunoscut oferă drumeților trasee provocatoare în apropiere de Bukit Ibam.",
+                  "category": "natural",
+                  "coords": [
+                        102.802619,
+                        3.05359
+                  ]
+            },
+            {
+                  "name": "Bukit Pandan",
+                  "text": "Această altitudine naturală din regiunea Bukit Ibam prezintă pante împădurite și vederi panoramice de la vârful său.",
+                  "category": "natural",
+                  "coords": [
+                        102.733117,
+                        3.143623
+                  ]
+            },
+            {
+                  "name": "Bukit Lebah",
+                  "text": "Caracterizat de prezența sa topografică proeminentă, acest vârf din apropiere de Bukit Ibam atrage pasionații de aer liber și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        102.745846,
+                        3.154175
+                  ]
+            },
+            {
+                  "name": "Bukit Cemingat",
+                  "text": "Un vârf de munte recunoscut din zonă, oferind o pantă naturală abruptă pentru alpiniștii aventuroși care explorează Bukit Ibam.",
+                  "category": "natural",
+                  "coords": [
+                        102.808452,
+                        3.17087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Berembun",
+                  "text": "Rising above the surrounding landscape, this recognized peak offers hikers challenging trails near Bukit Ibam.",
+                  "category": "natural",
+                  "coords": [
+                        102.802619,
+                        3.05359
+                  ]
+            },
+            {
+                  "name": "Bukit Pandan",
+                  "text": "This natural elevation in the Bukit Ibam region features forested slopes and panoramic views from its summit.",
+                  "category": "natural",
+                  "coords": [
+                        102.733117,
+                        3.143623
+                  ]
+            },
+            {
+                  "name": "Bukit Lebah",
+                  "text": "Characterized by its prominent topographical presence, this peak near Bukit Ibam attracts outdoor enthusiasts and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        102.745846,
+                        3.154175
+                  ]
+            },
+            {
+                  "name": "Bukit Cemingat",
+                  "text": "A recognized mountain summit in the area, offering a steep natural incline for adventurous climbers exploring Bukit Ibam.",
+                  "category": "natural",
+                  "coords": [
+                        102.808452,
+                        3.17087
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "MY-06",
     coords: [102.8, 3.1],
@@ -867,7 +15771,1348 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "cyberjaya-trade-hub-economic-v2",
+    id: "cyberjaya-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Majlis Perbandaran Sepang",
+                  "text": "Der Hauptverwaltungssitz des Bezirks Sepang, der für lokale kommunale Angelegenheiten und Stadtentwicklungsdienste zuständig ist.",
+                  "category": "historical",
+                  "coords": [
+                        101.645609,
+                        2.933906
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Gemilang",
+                  "text": "Eine prunkvolle zeremonielle Brücke mit majestätischen dekorativen Türmen und eleganten strukturellen Bögen, die den Putrajaya-See überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.679088,
+                        2.899979
+                  ]
+            },
+            {
+                  "name": "SplashMania",
+                  "text": "Ein weitläufiger Wasser-Themenpark, der aufregende Wasserrutschen, Wellenbäder und interaktive Attraktionen für die Unterhaltung der ganzen Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        101.616693,
+                        2.890151
+                  ]
+            },
+            {
+                  "name": "Masjid Jameatus Solehah",
+                  "text": "Eine markante lokale Moschee, die sich durch ihre traditionelle islamische Architektur auszeichnet und einen großen Gebetssaal für die örtliche Gemeinde bietet.",
+                  "category": "religious",
+                  "coords": [
+                        101.678958,
+                        2.85822
+                  ]
+            },
+            {
+                  "name": "Bukit Tampoi",
+                  "text": "Eine markante natürliche Erhebung in der Landschaft, die bei Wanderern und Naturliebhabern auf der Suche nach malerischen Ausblicken über die Umgebung beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        101.672353,
+                        2.846459
+                  ]
+            },
+            {
+                  "name": "Bukit Air Hitam",
+                  "text": "Ein bewaldeter Hügel, der kurvenreiche Pfade bietet und als ruhiger natürlicher Rückzugsort abseits der nahe gelegenen städtischen Entwicklungen dient.",
+                  "category": "natural",
+                  "coords": [
+                        101.618141,
+                        2.975797
+                  ]
+            },
+            {
+                  "name": "Commonwealth Games 1998 Statue",
+                  "text": "Eine monumentale Skulptur zur Erinnerung an das prestigeträchtige Multisportereignis, das in Malaysia stattfand und das sportliche Erbe der Nation widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        101.661248,
+                        2.83341
+                  ]
+            },
+            {
+                  "name": "Yasmin Cyberjaya",
+                  "text": "Ein modernes Gotteshaus im Hightech-Viertel, das sorgfältig in die zeitgenössische Stadtlandschaft integriert wurde.",
+                  "category": "religious",
+                  "coords": [
+                        101.651037,
+                        2.925594
+                  ]
+            },
+            {
+                  "name": "Pasar Dengkil",
+                  "text": "Ein geschäftiges, traditionelles Marktzentrum, in dem lokale Verkäufer zusammenkommen, um frische Produkte, Fleisch und alltägliche Konsumgüter zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.680789,
+                        2.855484
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Taman Tasik Cyberjaya",
+                  "text": "Ein Open-Air-Bauernmarkt in der Nähe des Sees, der sich auf lokal angebautes Obst, Gemüse und regionale Streetfood-Delikatessen spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        101.644054,
+                        2.936326
+                  ]
+            },
+            {
+                  "name": "Paya Indah Wetlands",
+                  "text": "Ein ausgedehntes Naturschutzgebiet aus Seen und Sumpfgebieten, das für Vogelbeobachtungen, Flusspferdfütterungen und Krokodilgehege bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.631877,
+                        2.859804
+                  ]
+            },
+            {
+                  "name": "Taman Kucing",
+                  "text": "Ein spezieller, katzenfreundlicher Park, der sich der Pflege und Freude an Katzen widmet und interaktive Bereiche für Tierliebhaber bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.644173,
+                        2.937938
+                  ]
+            },
+            {
+                  "name": "Surau SEG",
+                  "text": "Ein kompakter islamischer Gebetsraum, der eingerichtet wurde, um den spirituellen Bedürfnissen von Studenten und Mitarbeitern im umliegenden Bildungszentrum gerecht zu werden.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637721,
+                        2.936628
+                  ]
+            },
+            {
+                  "name": "Surau Smk Cyberjaya",
+                  "text": "Eine spezielle Gebetsstätte auf dem Gelände der weiterführenden Schule, die Schülern und Lehrern einen ruhigen Ort für ihre täglichen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.638937,
+                        2.918907
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ein bescheidener Nachbarschaftsgebetsraum, der der muslimischen Gemeinschaft einen bequemen Ort für Versammlungen und Kontemplation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637195,
+                        2.918885
+                  ]
+            },
+            {
+                  "name": "Musolla",
+                  "text": "Ein ausgewiesener Innenbereich für rituelle Gebete, der an anstrengenden Tagen eine friedliche Umgebung für spirituelle Reflexion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.630435,
+                        2.910359
+                  ]
+            },
+            {
+                  "name": "Surau Desa Timah Langat",
+                  "text": "Ein Gemeindegebetsraum für das Wohngebiet Desa Timah Langat, ausgestattet mit traditionellen architektonischen Elementen und Waschgelegenheiten.",
+                  "category": "landmark",
+                  "coords": [
+                        101.664083,
+                        2.882628
+                  ]
+            },
+            {
+                  "name": "Surau Al-Falah Kg Lalang",
+                  "text": "Eine Dorfmoschee, die den Einwohnern von Kampung Lalang dient und sowohl als spirituelles Zentrum als auch als Knotenpunkt für den Religionsunterricht der Gemeinde fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.696286,
+                        2.863402
+                  ]
+            },
+            {
+                  "name": "Surau Taman Gemilang",
+                  "text": "Ein islamisches Gemeindezentrum, das einen eigenen Gebetsraum für die Wohnsiedlung Taman Gemilang und die umliegenden Straßen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.689464,
+                        2.857894
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "Ein auf die Gemeinde ausgerichteter islamischer Gebetsraum, der lokalen Gläubigen einen friedlichen Zufluchtsort bietet und regelmäßig religiöse Vorträge veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.674921,
+                        2.866283
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jabbar",
+                  "text": "Eine ruhige muslimische Gebetsstätte, die sich durch ihren einladenden Gebetssaal und regelmäßige gemeinschaftliche Aktivitäten auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.677804,
+                        2.866369
+                  ]
+            },
+            {
+                  "name": "Surau Hj Moksin",
+                  "text": "Eine lokal finanzierte islamische Einrichtung, die dem umliegenden Wohngebiet tägliche Gemeindedienste und spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.635638,
+                        2.835587
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamaiyah",
+                  "text": "Ein gemeinschaftliches Gebetshaus, das die lokale muslimische Bevölkerung durch gemeinsame tägliche Gebete und religiöse Feste vereinen soll.",
+                  "category": "landmark",
+                  "coords": [
+                        101.642282,
+                        2.840978
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "Ein engagierter Gebetsraum in der Nachbarschaft, der ein friedliches Interieur für fromme Meditationen und islamische Gemeindeaktivitäten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.65121,
+                        2.849288
+                  ]
+            },
+            {
+                  "name": "Madrasah Nurulhuda",
+                  "text": "Eine islamische Bildungseinrichtung mit Schwerpunkt auf Koranstudien, die sowohl als lokale Schule als auch als Gemeindegebetszentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.63832,
+                        2.862332
+                  ]
+            },
+            {
+                  "name": "Surau R&R Dengkil",
+                  "text": "Ein praktischer Gebetsraum an der Autobahnraststätte Dengkil, der Reisenden einen sauberen Ort für ihre religiösen Pflichten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.610221,
+                        2.90786
+                  ]
+            },
+            {
+                  "name": "Surau Al Muttaqeen",
+                  "text": "Eine Nachbarschaftsgebetsstätte mit grundlegenden islamischen Annehmlichkeiten und einem geräumigen, mit Teppich ausgelegten Bereich für die täglichen Gemeindegebete.",
+                  "category": "landmark",
+                  "coords": [
+                        101.609606,
+                        2.935369
+                  ]
+            },
+            {
+                  "name": "Surau Plaza Tol SKVE Saujana Putra",
+                  "text": "Eine kleine Gebetsstätte am Straßenrand bei der SKVE-Mautstation, die Autofahrern einen schnellen und zugänglichen spirituellen Zwischenstopp bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580875,
+                        2.948164
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "Ein lebendiger lokaler Gebetsraum, der für sein starkes Gemeindenetzwerk und seine Rolle bei der Organisation regionaler islamischer Veranstaltungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580492,
+                        2.954638
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "Ein hell erleuchteter und gut belüfteter muslimischer Gebetsraum, der den Anwohnern eine ruhige Atmosphäre für ihre Andachten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.586058,
+                        2.947253
+                  ]
+            },
+            {
+                  "name": "Masjid Meranti",
+                  "text": "Die Meranti Mosque ist eine moderne islamische Gebetsstätte im Zentrum von Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.640833,
+                        2.969153
+                  ]
+            },
+            {
+                  "name": "Surau Al Falah TM Cyberjaya",
+                  "text": "Das Surau Al Falah TM Cyberjaya ist ein islamischer Gebetsraum, der der lokalen muslimischen Gemeinschaft für tägliche Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.657762,
+                        2.93077
+                  ]
+            },
+            {
+                  "name": "Masjid Raja Haji Fi Sabilillah",
+                  "text": "Die Raja Haji Fi Sabilillah Mosque in Cyberjaya ist bekannt für ihre umweltfreundliche, energieeffiziente Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.647803,
+                        2.931884
+                  ]
+            },
+            {
+                  "name": "Pusat Buddhis Dhammaduta Malaysia",
+                  "text": "Das Pusat Buddhis Dhammaduta Malaysia ist ein buddhistisches Zentrum in Cyberjaya, das sich der Lehre des Dhamma und der Meditation widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.663308,
+                        2.89137
+                  ]
+            },
+            {
+                  "name": "Masjid Cyber 10",
+                  "text": "Die Cyber 10 Mosque ist eine moderne Moschee, die die religiösen Bedürfnisse des Cyber 10-Viertels in Cyberjaya erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.632193,
+                        2.900703
+                  ]
+            },
+            {
+                  "name": "Surau Al-Iman",
+                  "text": "Das Surau Al-Iman bietet den muslimischen Anwohnern in Cyberjaya einen ruhigen Raum für tägliche Gebete und Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        101.670435,
+                        2.874097
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ilmi",
+                  "text": "Die Al-Ilmi Mosque ist eine wichtige islamische Gebetsstätte, die für die wachsende Gemeinschaft in Cyberjaya errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        101.669271,
+                        2.879317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Majlis Perbandaran Sepang",
+                  "text": "Sepang körzetének elsődleges közigazgatási központja, amely a helyi önkormányzati ügyeket és a városfejlesztési szolgáltatásokat irányítja.",
+                  "category": "historical",
+                  "coords": [
+                        101.645609,
+                        2.933906
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Gemilang",
+                  "text": "Egy grandiózus ceremoniális híd fenséges dísztornyokkal és elegáns szerkezeti boltívekkel, amely átível a Putrajaya tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        101.679088,
+                        2.899979
+                  ]
+            },
+            {
+                  "name": "SplashMania",
+                  "text": "Hatalmas vízi vidámpark, amely izgalmas vízicsúszdákkal, hullámmedencékkel és interaktív attrakciókkal várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        101.616693,
+                        2.890151
+                  ]
+            },
+            {
+                  "name": "Masjid Jameatus Solehah",
+                  "text": "Hagyományos iszlám építészetéről ismert kiemelkedő helyi mecset, amely tágas imatermet biztosít a helyi gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        101.678958,
+                        2.85822
+                  ]
+            },
+            {
+                  "name": "Bukit Tampoi",
+                  "text": "Különleges természeti magaslat a tájban, amelyet előszeretettel látogatnak túrázók és természetbarátok, hogy megcsodálják a környező vidékre nyíló festői kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        101.672353,
+                        2.846459
+                  ]
+            },
+            {
+                  "name": "Bukit Air Hitam",
+                  "text": "Jelentős erdős domb, amely kanyargós ösvényeket kínál, és csendes természeti menedékként szolgál a közeli városi fejlesztésektől távol.",
+                  "category": "natural",
+                  "coords": [
+                        101.618141,
+                        2.975797
+                  ]
+            },
+            {
+                  "name": "Commonwealth Games 1998 Statue",
+                  "text": "A Malajziában megrendezett rangos több sportágat felölelő eseménynek emléket állító monumentális szobor, amely a nemzet sportörökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        101.661248,
+                        2.83341
+                  ]
+            },
+            {
+                  "name": "Yasmin Cyberjaya",
+                  "text": "Modern istentiszteleti hely a csúcstechnológiás negyedben, amely átgondoltan illeszkedik a kortárs városi környezetbe.",
+                  "category": "religious",
+                  "coords": [
+                        101.651037,
+                        2.925594
+                  ]
+            },
+            {
+                  "name": "Pasar Dengkil",
+                  "text": "Nyüzsgő, hagyományos piacközpont, ahol a helyi árusok friss terményeket, húsokat és mindennapi közösségi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.680789,
+                        2.855484
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Taman Tasik Cyberjaya",
+                  "text": "A tó közelében található szabadtéri termelői piac, amely helyi beszerzésű gyümölcsökre, zöldségekre és regionális street food finomságokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        101.644054,
+                        2.936326
+                  ]
+            },
+            {
+                  "name": "Paya Indah Wetlands",
+                  "text": "Tavakból és mocsarakból álló hatalmas természetvédelmi terület, amely madármegfigyelésről, vízilóetetésről és krokodilkifutókról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        101.631877,
+                        2.859804
+                  ]
+            },
+            {
+                  "name": "Taman Kucing",
+                  "text": "Kifejezetten macskabarát park, amelyet a macskák gondozásának és élvezetének szenteltek, interaktív terekkel várva az állatbarátokat.",
+                  "category": "landmark",
+                  "coords": [
+                        101.644173,
+                        2.937938
+                  ]
+            },
+            {
+                  "name": "Surau SEG",
+                  "text": "Kompakt iszlám imaterem, amelyet a környező oktatási központ hallgatóinak és személyzetének spirituális igényeinek kielégítésére hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637721,
+                        2.936628
+                  ]
+            },
+            {
+                  "name": "Surau Smk Cyberjaya",
+                  "text": "A középiskola területén található dedikált imaház, amely csendes teret biztosít a diákok és a tanárok számára a napi imák elvégzéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.638937,
+                        2.918907
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Szerény környékbeli imaterem, amely kényelmes helyszínt biztosít a muszlim közösség számára a gyülekezéshez és az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637195,
+                        2.918885
+                  ]
+            },
+            {
+                  "name": "Musolla",
+                  "text": "A rituális imára kijelölt beltéri terület, amely békés környezetet biztosít a spirituális elmélyüléshez a sűrű munkanapok során.",
+                  "category": "landmark",
+                  "coords": [
+                        101.630435,
+                        2.910359
+                  ]
+            },
+            {
+                  "name": "Surau Desa Timah Langat",
+                  "text": "A Desa Timah Langat lakónegyedet kiszolgáló közösségi imaterem, amely hagyományos építészeti elemekkel és mosdóhelyiségekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.664083,
+                        2.882628
+                  ]
+            },
+            {
+                  "name": "Surau Al-Falah Kg Lalang",
+                  "text": "A helyi Kampung Lalang lakóit kiszolgáló falusi mecset, amely spirituális központként és a közösségi vallási órák központjaként is funkcionál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.696286,
+                        2.863402
+                  ]
+            },
+            {
+                  "name": "Surau Taman Gemilang",
+                  "text": "Környékbeli iszlám központ, amely dedikált imateret biztosít a Taman Gemilang lakótelep és a környező utcák számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.689464,
+                        2.857894
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "Közösségközpontú iszlám imaterem, amely békés menedéket nyújt a helyi hívőknek, és rendszeres vallási előadásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        101.674921,
+                        2.866283
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jabbar",
+                  "text": "Békés muszlim istentiszteleti hely, amelyet hívogató imaterme és rendszeres közösségi programjai tesznek különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        101.677804,
+                        2.866369
+                  ]
+            },
+            {
+                  "name": "Surau Hj Moksin",
+                  "text": "Helyi finanszírozású iszlám létesítmény, amely napi gyülekezeti szolgáltatásokat és spirituális útmutatást nyújt a környező lakóövezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.635638,
+                        2.835587
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamaiyah",
+                  "text": "Közösségi imaház, amelynek célja a helyi muszlim lakosság egyesítése a közös napi imák és vallási ünnepek révén.",
+                  "category": "landmark",
+                  "coords": [
+                        101.642282,
+                        2.840978
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "Dedikált környékbeli imaterem, amely békés belső teret kínál az áhítatos meditációhoz és az iszlám gyülekezeti tevékenységekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.65121,
+                        2.849288
+                  ]
+            },
+            {
+                  "name": "Madrasah Nurulhuda",
+                  "text": "Korán-tanulmányokra összpontosító iszlám oktatási intézmény, amely helyi iskolaként és közösségi imaközpontként is működik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.63832,
+                        2.862332
+                  ]
+            },
+            {
+                  "name": "Surau R&R Dengkil",
+                  "text": "A dengkili autópálya-pihenőhelyen található kényelmes imaterem, amely tiszta teret biztosít az utazók számára vallási kötelességeik elvégzéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.610221,
+                        2.90786
+                  ]
+            },
+            {
+                  "name": "Surau Al Muttaqeen",
+                  "text": "A környék istentiszteleti helye, amely alapvető iszlám kényelmi felszerelésekkel és tágas, szőnyeggel borított területtel rendelkezik a napi gyülekezeti imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        101.609606,
+                        2.935369
+                  ]
+            },
+            {
+                  "name": "Surau Plaza Tol SKVE Saujana Putra",
+                  "text": "Az SKVE fizetőkapunál található kis út menti imaház, amely gyors és hozzáférhető spirituális megállót kínál az autósoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580875,
+                        2.948164
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "Élettel teli helyi imaterem, amely erős közösségi hálózatáról és a regionális iszlám események szervezésében betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580492,
+                        2.954638
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "Világos és jól szellőző muszlim imaterem, amely békés légkört biztosít a helyi lakosok számára az áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        101.586058,
+                        2.947253
+                  ]
+            },
+            {
+                  "name": "Masjid Meranti",
+                  "text": "A Meranti mecset egy modern iszlám imahely Cyberjaya központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.640833,
+                        2.969153
+                  ]
+            },
+            {
+                  "name": "Surau Al Falah TM Cyberjaya",
+                  "text": "A Surau Al Falah TM Cyberjaya egy iszlám imaterem, amely a helyi muszlim közösséget szolgálja napi imákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        101.657762,
+                        2.93077
+                  ]
+            },
+            {
+                  "name": "Masjid Raja Haji Fi Sabilillah",
+                  "text": "A cyberjayai Raja Haji Fi Sabilillah mecset környezetbarát, energiahatékony építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.647803,
+                        2.931884
+                  ]
+            },
+            {
+                  "name": "Pusat Buddhis Dhammaduta Malaysia",
+                  "text": "A Pusat Buddhis Dhammaduta Malaysia egy buddhista központ Cyberjayában, amely a Dhamma tanításának és a meditációnak szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        101.663308,
+                        2.89137
+                  ]
+            },
+            {
+                  "name": "Masjid Cyber 10",
+                  "text": "A Cyber 10 Mosque egy modern mecset, amely a cyberjayai Cyber 10 negyed vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        101.632193,
+                        2.900703
+                  ]
+            },
+            {
+                  "name": "Surau Al-Iman",
+                  "text": "A Surau Al-Iman békés teret kínál a cyberjayai muszlim lakosok számára a napi imákhoz és összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.670435,
+                        2.874097
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ilmi",
+                  "text": "Az Al-Ilmi mecset egy fontos iszlám imahely, amelyet Cyberjaya növekvő közössége számára építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.669271,
+                        2.879317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Majlis Perbandaran Sepang",
+                  "text": "Sediul administrativ principal care guvernează districtul Sepang, gestionând afacerile municipale locale și serviciile de dezvoltare urbană.",
+                  "category": "historical",
+                  "coords": [
+                        101.645609,
+                        2.933906
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Gemilang",
+                  "text": "Un pod ceremonial grandios, cu turnuri decorative maiestuoase și arcade structurale elegante, care traversează lacul Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.679088,
+                        2.899979
+                  ]
+            },
+            {
+                  "name": "SplashMania",
+                  "text": "Un parc tematic acvatic extins, care oferă tobogane cu apă palpitante, piscine cu valuri și atracții interactive pentru divertisment în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        101.616693,
+                        2.890151
+                  ]
+            },
+            {
+                  "name": "Masjid Jameatus Solehah",
+                  "text": "O moschee locală proeminentă, caracterizată prin arhitectura sa islamică tradițională, oferind o sală mare de rugăciune pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        101.678958,
+                        2.85822
+                  ]
+            },
+            {
+                  "name": "Bukit Tampoi",
+                  "text": "O elevație naturală distinctă a peisajului, favorizată de drumeți și entuziaști ai naturii care caută priveliști pitorești asupra districtului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        101.672353,
+                        2.846459
+                  ]
+            },
+            {
+                  "name": "Bukit Air Hitam",
+                  "text": "Un deal împădurit proeminent, care oferă trasee șerpuite și servește drept un refugiu natural liniștit, departe de dezvoltările urbane din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        101.618141,
+                        2.975797
+                  ]
+            },
+            {
+                  "name": "Commonwealth Games 1998 Statue",
+                  "text": "O sculptură monumentală care comemorează prestigiosul eveniment multi-sport găzduit în Malaezia, reflectând moștenirea sportivă a națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        101.661248,
+                        2.83341
+                  ]
+            },
+            {
+                  "name": "Yasmin Cyberjaya",
+                  "text": "Un lăcaș de cult modern din districtul high-tech, integrat cu atenție în peisajul urban contemporan.",
+                  "category": "religious",
+                  "coords": [
+                        101.651037,
+                        2.925594
+                  ]
+            },
+            {
+                  "name": "Pasar Dengkil",
+                  "text": "Un centru comercial tradițional plin de viață, unde vânzătorii locali se adună pentru a vinde produse proaspete, carne și bunuri de uz comunitar zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        101.680789,
+                        2.855484
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Taman Tasik Cyberjaya",
+                  "text": "O piață agricolă în aer liber, situată lângă lac, specializată în fructe și legume din surse locale și delicatese regionale de tip street food.",
+                  "category": "cultural",
+                  "coords": [
+                        101.644054,
+                        2.936326
+                  ]
+            },
+            {
+                  "name": "Paya Indah Wetlands",
+                  "text": "O vastă zonă de conservare compusă din lacuri și mlaștini, renumită pentru observarea păsărilor, hrănirea hipopotamilor și incintele pentru crocodili.",
+                  "category": "landmark",
+                  "coords": [
+                        101.631877,
+                        2.859804
+                  ]
+            },
+            {
+                  "name": "Taman Kucing",
+                  "text": "Un parc specializat, prietenos cu felinele, dedicat îngrijirii și bucuriei pisicilor, oferind spații interactive pentru iubitorii de animale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.644173,
+                        2.937938
+                  ]
+            },
+            {
+                  "name": "Surau SEG",
+                  "text": "O sală de rugăciune islamică compactă, înființată pentru a răspunde nevoilor spirituale ale studenților și personalului din centrul educațional înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637721,
+                        2.936628
+                  ]
+            },
+            {
+                  "name": "Surau Smk Cyberjaya",
+                  "text": "O facilitate de rugăciune dedicată, situată în incinta școlii gimnaziale, oferind un spațiu liniștit pentru elevi și profesori pentru a-și îndeplini rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.638937,
+                        2.918907
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "O sală de rugăciune modestă de cartier, care deservește comunitatea musulmană cu o locație convenabilă pentru congregație și contemplare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637195,
+                        2.918885
+                  ]
+            },
+            {
+                  "name": "Musolla",
+                  "text": "O zonă interioară desemnată pentru rugăciunea rituală, oferind un mediu pașnic pentru reflecție spirituală în timpul unei zile aglomerate.",
+                  "category": "landmark",
+                  "coords": [
+                        101.630435,
+                        2.910359
+                  ]
+            },
+            {
+                  "name": "Surau Desa Timah Langat",
+                  "text": "O sală de rugăciune comunitară care deservește zona rezidențială Desa Timah Langat, având elemente arhitecturale tradiționale și facilități de abluțiune.",
+                  "category": "landmark",
+                  "coords": [
+                        101.664083,
+                        2.882628
+                  ]
+            },
+            {
+                  "name": "Surau Al-Falah Kg Lalang",
+                  "text": "O moschee din sat care deservește locuitorii din Kampung Lalang, acționând atât ca un centru spiritual, cât și ca un hub pentru cursurile religioase ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        101.696286,
+                        2.863402
+                  ]
+            },
+            {
+                  "name": "Surau Taman Gemilang",
+                  "text": "Un centru islamic de cartier care oferă un spațiu de rugăciune dedicat complexului rezidențial Taman Gemilang și străzilor înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.689464,
+                        2.857894
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "O sală de rugăciune islamică axată pe comunitate, care oferă un sanctuar pașnic pentru credincioșii locali și găzduiește periodic prelegeri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        101.674921,
+                        2.866283
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jabbar",
+                  "text": "Un lăcaș de cult musulman liniștit, care se distinge prin sala sa de rugăciune primitoare și activitățile regulate de implicare a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        101.677804,
+                        2.866369
+                  ]
+            },
+            {
+                  "name": "Surau Hj Moksin",
+                  "text": "O facilitate islamică finanțată local, care oferă servicii zilnice de congregație și îndrumare spirituală enclavei rezidențiale înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.635638,
+                        2.835587
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamaiyah",
+                  "text": "O casă de rugăciune comunală concepută pentru a uni populația musulmană locală prin rugăciuni zilnice comune și festivități religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        101.642282,
+                        2.840978
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "O sală de rugăciune de cartier dedicată, care oferă un interior pașnic pentru meditație devotată și activități islamice ale congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        101.65121,
+                        2.849288
+                  ]
+            },
+            {
+                  "name": "Madrasah Nurulhuda",
+                  "text": "O instituție de învățământ islamic axată pe studiile coranice, care servește atât ca școală locală, cât și ca centru de rugăciune comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        101.63832,
+                        2.862332
+                  ]
+            },
+            {
+                  "name": "Surau R&R Dengkil",
+                  "text": "O sală de rugăciune convenabilă, situată la popasul de pe autostrada Dengkil, oferind călătorilor un spațiu curat pentru îndatoririle lor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        101.610221,
+                        2.90786
+                  ]
+            },
+            {
+                  "name": "Surau Al Muttaqeen",
+                  "text": "Un lăcaș de cult de cartier, cu facilități islamice esențiale și o zonă spațioasă mochetată pentru rugăciunile zilnice ale congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        101.609606,
+                        2.935369
+                  ]
+            },
+            {
+                  "name": "Surau Plaza Tol SKVE Saujana Putra",
+                  "text": "O mică facilitate de rugăciune pe marginea drumului, situată la stația de taxare SKVE, oferind o oprire spirituală rapidă și accesibilă pentru șoferi.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580875,
+                        2.948164
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "O sală de rugăciune locală vibrantă, cunoscută pentru rețeaua sa comunitară puternică și pentru rolul său în organizarea de evenimente islamice regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580492,
+                        2.954638
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "O sală de rugăciune musulmană puternic luminată și bine ventilată, care oferă o atmosferă senină pentru ca locuitorii să-și îndeplinească devoțiunile.",
+                  "category": "landmark",
+                  "coords": [
+                        101.586058,
+                        2.947253
+                  ]
+            },
+            {
+                  "name": "Masjid Meranti",
+                  "text": "Moscheea Meranti este un lăcaș de cult islamic modern în centrul orașului Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.640833,
+                        2.969153
+                  ]
+            },
+            {
+                  "name": "Surau Al Falah TM Cyberjaya",
+                  "text": "Surau Al Falah TM Cyberjaya este o sală de rugăciune islamică care deservește comunitatea musulmană locală pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.657762,
+                        2.93077
+                  ]
+            },
+            {
+                  "name": "Masjid Raja Haji Fi Sabilillah",
+                  "text": "Moscheea Raja Haji Fi Sabilillah din Cyberjaya este cunoscută pentru arhitectura sa ecologică și eficientă din punct de vedere energetic.",
+                  "category": "landmark",
+                  "coords": [
+                        101.647803,
+                        2.931884
+                  ]
+            },
+            {
+                  "name": "Pusat Buddhis Dhammaduta Malaysia",
+                  "text": "Pusat Buddhis Dhammaduta Malaysia este un centru budist din Cyberjaya dedicat predării Dharmei și meditației.",
+                  "category": "landmark",
+                  "coords": [
+                        101.663308,
+                        2.89137
+                  ]
+            },
+            {
+                  "name": "Masjid Cyber 10",
+                  "text": "Moscheea Cyber 10 este o moschee modernă care satisface nevoile religioase ale cartierului Cyber 10 din Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.632193,
+                        2.900703
+                  ]
+            },
+            {
+                  "name": "Surau Al-Iman",
+                  "text": "Surau Al-Iman oferă rezidenților musulmani din Cyberjaya un spațiu liniștit pentru rugăciuni zilnice și adunări.",
+                  "category": "landmark",
+                  "coords": [
+                        101.670435,
+                        2.874097
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ilmi",
+                  "text": "Moscheea Al-Ilmi este un important lăcaș de cult islamic construit pentru comunitatea în creștere din Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.669271,
+                        2.879317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sepang Municipal Council",
+                  "text": "The primary administrative headquarters governing the Sepang district, managing local municipal affairs and urban development services.",
+                  "category": "historical",
+                  "coords": [
+                        101.645609,
+                        2.933906
+                  ]
+            },
+            {
+                  "name": "Seri Gemilang Bridge",
+                  "text": "A grand ceremonial bridge featuring majestic decorative towers and elegant structural arches that span the Putrajaya lake.",
+                  "category": "landmark",
+                  "coords": [
+                        101.679088,
+                        2.899979
+                  ]
+            },
+            {
+                  "name": "SplashMania",
+                  "text": "An expansive aquatic theme park offering thrilling water slides, wave pools, and interactive attractions for family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        101.616693,
+                        2.890151
+                  ]
+            },
+            {
+                  "name": "Masjid Jameatus Solehah",
+                  "text": "A prominent local mosque characterized by its traditional Islamic architecture, providing a large prayer hall for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        101.678958,
+                        2.85822
+                  ]
+            },
+            {
+                  "name": "Bukit Tampoi",
+                  "text": "A distinct natural elevation in the landscape, favored by hikers and nature enthusiasts seeking scenic views over the surrounding district.",
+                  "category": "natural",
+                  "coords": [
+                        101.672353,
+                        2.846459
+                  ]
+            },
+            {
+                  "name": "Bukit Air Hitam",
+                  "text": "A prominent forested hill offering winding trails and serving as a quiet natural retreat away from the nearby urban developments.",
+                  "category": "natural",
+                  "coords": [
+                        101.618141,
+                        2.975797
+                  ]
+            },
+            {
+                  "name": "Commonwealth Games 1998 Statue",
+                  "text": "A monumental sculpture commemorating the prestigious multi-sport event hosted in Malaysia, reflecting the nation's sporting heritage.",
+                  "category": "historical",
+                  "coords": [
+                        101.661248,
+                        2.83341
+                  ]
+            },
+            {
+                  "name": "Yasmin Cyberjaya",
+                  "text": "A modern place of worship within the high-tech district, thoughtfully integrated into the contemporary urban landscape.",
+                  "category": "religious",
+                  "coords": [
+                        101.651037,
+                        2.925594
+                  ]
+            },
+            {
+                  "name": "Dengkil Market",
+                  "text": "A bustling traditional market center where local vendors gather to sell fresh produce, meats, and everyday community goods.",
+                  "category": "cultural",
+                  "coords": [
+                        101.680789,
+                        2.855484
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Taman Tasik Cyberjaya",
+                  "text": "An open-air farmers' market set near the lake, specializing in locally sourced fruits, vegetables, and regional street food delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        101.644054,
+                        2.936326
+                  ]
+            },
+            {
+                  "name": "Paya Indah Wetlands",
+                  "text": "A vast conservation area composed of lakes and marshlands, famous for bird watching, hippopotamus feeding, and crocodile enclosures.",
+                  "category": "landmark",
+                  "coords": [
+                        101.631877,
+                        2.859804
+                  ]
+            },
+            {
+                  "name": "Taman Kucing",
+                  "text": "A specialized feline-friendly park dedicated to the care and enjoyment of cats, offering interactive spaces for animal lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.644173,
+                        2.937938
+                  ]
+            },
+            {
+                  "name": "Surau SEG",
+                  "text": "A compact Islamic prayer room established to accommodate the spiritual needs of students and staff in the surrounding educational hub.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637721,
+                        2.936628
+                  ]
+            },
+            {
+                  "name": "Surau Smk Cyberjaya",
+                  "text": "A dedicated prayer facility located within the secondary school grounds, providing a quiet space for students and teachers to perform their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.638937,
+                        2.918907
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "A modest neighborhood prayer room serving the Muslim community with a convenient location for congregation and contemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        101.637195,
+                        2.918885
+                  ]
+            },
+            {
+                  "name": "Musolla",
+                  "text": "A designated indoor area for ritual prayer, providing a peaceful environment for spiritual reflection during the busy day.",
+                  "category": "landmark",
+                  "coords": [
+                        101.630435,
+                        2.910359
+                  ]
+            },
+            {
+                  "name": "Surau Desa Timah Langat",
+                  "text": "A community prayer hall serving the Desa Timah Langat residential area, featuring traditional architectural elements and ablution facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        101.664083,
+                        2.882628
+                  ]
+            },
+            {
+                  "name": "Surau Al-Falah Kg Lalang",
+                  "text": "A village mosque serving the local Kampung Lalang residents, acting as both a spiritual center and a hub for community religious classes.",
+                  "category": "landmark",
+                  "coords": [
+                        101.696286,
+                        2.863402
+                  ]
+            },
+            {
+                  "name": "Surau Taman Gemilang",
+                  "text": "A neighborhood Islamic center providing a dedicated prayer space for the Taman Gemilang housing estate and surrounding streets.",
+                  "category": "landmark",
+                  "coords": [
+                        101.689464,
+                        2.857894
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hidayah",
+                  "text": "A community-focused Islamic prayer room offering a peaceful sanctuary for local worshippers and hosting regular religious lectures.",
+                  "category": "landmark",
+                  "coords": [
+                        101.674921,
+                        2.866283
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jabbar",
+                  "text": "A serene Muslim place of worship distinguished by its welcoming prayer hall and regular community engagement activities.",
+                  "category": "landmark",
+                  "coords": [
+                        101.677804,
+                        2.866369
+                  ]
+            },
+            {
+                  "name": "Surau Hj Moksin",
+                  "text": "A locally funded Islamic facility providing daily congregation services and spiritual guidance to the surrounding residential enclave.",
+                  "category": "landmark",
+                  "coords": [
+                        101.635638,
+                        2.835587
+                  ]
+            },
+            {
+                  "name": "Surau Al-Jamaiyah",
+                  "text": "A communal prayer house designed to unite the local Muslim population through shared daily prayers and religious festivities.",
+                  "category": "landmark",
+                  "coords": [
+                        101.642282,
+                        2.840978
+                  ]
+            },
+            {
+                  "name": "Surau As-Syakirin",
+                  "text": "A dedicated neighborhood prayer hall offering a peaceful interior for devout meditation and Islamic congregational activities.",
+                  "category": "landmark",
+                  "coords": [
+                        101.65121,
+                        2.849288
+                  ]
+            },
+            {
+                  "name": "Madrasah Nurulhuda",
+                  "text": "An Islamic educational institution focusing on Quranic studies, serving as both a local school and a community prayer center.",
+                  "category": "landmark",
+                  "coords": [
+                        101.63832,
+                        2.862332
+                  ]
+            },
+            {
+                  "name": "Surau R&R Dengkil",
+                  "text": "A convenient prayer room situated at the Dengkil highway rest stop, providing travelers with a clean space for their religious duties.",
+                  "category": "landmark",
+                  "coords": [
+                        101.610221,
+                        2.90786
+                  ]
+            },
+            {
+                  "name": "Surau Al Muttaqeen",
+                  "text": "A neighborhood place of worship featuring essential Islamic amenities and a spacious carpeted area for daily congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.609606,
+                        2.935369
+                  ]
+            },
+            {
+                  "name": "Surau Plaza Tol SKVE Saujana Putra",
+                  "text": "A small roadside prayer facility located at the SKVE toll plaza, offering a quick and accessible spiritual stop for motorists.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580875,
+                        2.948164
+                  ]
+            },
+            {
+                  "name": "Surau Al-Hijrah",
+                  "text": "A vibrant local prayer hall known for its strong community network and its role in organizing regional Islamic events.",
+                  "category": "landmark",
+                  "coords": [
+                        101.580492,
+                        2.954638
+                  ]
+            },
+            {
+                  "name": "Surau An-Nur",
+                  "text": "A brightly lit and well-ventilated Muslim prayer room providing a serene atmosphere for local residents to perform their devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        101.586058,
+                        2.947253
+                  ]
+            },
+            {
+                  "name": "Meranti Mosque",
+                  "text": "The Meranti Mosque is a modern Islamic place of worship in the center of Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.640833,
+                        2.969153
+                  ]
+            },
+            {
+                  "name": "Surau Al Falah TM Cyberjaya",
+                  "text": "Surau Al Falah TM Cyberjaya is an Islamic prayer hall serving the local Muslim community for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.657762,
+                        2.93077
+                  ]
+            },
+            {
+                  "name": "Raja Haji Fi Sabilillah Mosque",
+                  "text": "The Raja Haji Fi Sabilillah Mosque in Cyberjaya is known for its eco-friendly, energy-efficient architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        101.647803,
+                        2.931884
+                  ]
+            },
+            {
+                  "name": "Pusat Buddhis Dhammaduta Malaysia",
+                  "text": "Pusat Buddhis Dhammaduta Malaysia is a Buddhist center in Cyberjaya dedicated to Dhamma teachings and meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        101.663308,
+                        2.89137
+                  ]
+            },
+            {
+                  "name": "Cyber 10 Mosque",
+                  "text": "The Cyber 10 Mosque is a modern mosque fulfilling the religious needs of the Cyber 10 precinct in Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.632193,
+                        2.900703
+                  ]
+            },
+            {
+                  "name": "Surau Al-Iman",
+                  "text": "Surau Al-Iman provides Muslim residents in Cyberjaya with a peaceful space for daily prayers and gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        101.670435,
+                        2.874097
+                  ]
+            },
+            {
+                  "name": "Al-Ilmi Mosque",
+                  "text": "The Al-Ilmi Mosque is an important Islamic place of worship built for the growing community in Cyberjaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.669271,
+                        2.879317
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "MY-16",
     coords: [101.65, 2.92],
@@ -915,7 +17160,196 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     }
   },
   {
-    id: "kuantan-port-trade-hub-economic-v2",
+    id: "kuantan-port-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanjung Gelang Lighthouse",
+                  "text": "Ein maritimer Navigationsturm, der auf einer Landzunge mit Blick auf das Südchinesische Meer steht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.436915,
+                        3.963389
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Gebeng",
+                  "text": "Ein dörflicher Gebetssaal, der der traditionellen muslimischen Gemeinde in der Nähe des Kuantan-Hafens dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.406684,
+                        4.012435
+                  ]
+            },
+            {
+                  "name": "Masjid Pelabuhan Kuantan",
+                  "text": "Eine Moschee, die speziell auf die religiösen Bedürfnisse von Arbeitern und Besuchern im Kuantan-Hafen zugeschnitten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.414126,
+                        3.968796
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiq",
+                  "text": "Ein lokaler Gebetsraum, der einen ruhigen spirituellen Rückzugsort im geschäftigen Gebiet des Kuantan-Hafens bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.394712,
+                        4.039117
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Sungai Ular",
+                  "text": "Eine islamische Kultstätte in der Hafenregion von Kuantan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.39391,
+                        4.044016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanjung Gelang Lighthouse",
+                  "text": "Tengeri navigációs torony, amely a Dél-kínai-tengerre néző hegyfokon áll.",
+                  "category": "landmark",
+                  "coords": [
+                        103.436915,
+                        3.963389
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Gebeng",
+                  "text": "Falusi imaterem, amely a Kuantan kikötő közelében lévő hagyományos muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.406684,
+                        4.012435
+                  ]
+            },
+            {
+                  "name": "Masjid Pelabuhan Kuantan",
+                  "text": "Egy mecset, amely kifejezetten a Kuantan kikötőben dolgozók és látogatók vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.414126,
+                        3.968796
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiq",
+                  "text": "Egy helyi imaterem, amely csendes spirituális menedéket nyújt a forgalmas Kuantan kikötő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.394712,
+                        4.039117
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Sungai Ular",
+                  "text": "Egy iszlám istentiszteleti hely a Kuantan kikötőrégióban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.39391,
+                        4.044016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanjung Gelang Lighthouse",
+                  "text": "Un turn de navigație maritimă care se află pe un promontoriu cu vedere la Marea Chinei de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        103.436915,
+                        3.963389
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Gebeng",
+                  "text": "O sală de rugăciune a satului care deservește comunitatea musulmană tradițională din apropierea portului Kuantan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.406684,
+                        4.012435
+                  ]
+            },
+            {
+                  "name": "Masjid Pelabuhan Kuantan",
+                  "text": "O moschee care se adresează în mod special nevoilor religioase ale lucrătorilor și vizitatorilor din portul Kuantan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.414126,
+                        3.968796
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiq",
+                  "text": "O sală de rugăciune locală care oferă un refugiu spiritual liniștit în zona aglomerată a portului Kuantan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.394712,
+                        4.039117
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Sungai Ular",
+                  "text": "Un lăcaș de cult islamic situat în regiunea portuară Kuantan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.39391,
+                        4.044016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanjung Gelang Lighthouse",
+                  "text": "A maritime navigational tower standing on a promontory overlooking the South China Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        103.436915,
+                        3.963389
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Gebeng",
+                  "text": "A village prayer hall serving the traditional Muslim community near the port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.406684,
+                        4.012435
+                  ]
+            },
+            {
+                  "name": "Masjid Pelabuhan Kuantan",
+                  "text": "A mosque specifically catering to the religious needs of workers and visitors at Kuantan Port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.414126,
+                        3.968796
+                  ]
+            },
+            {
+                  "name": "Surau At-Taufiq",
+                  "text": "A local prayer room providing a quiet spiritual retreat in the bustling Kuantan Port area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.394712,
+                        4.039117
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Sungai Ular",
+                  "text": "An Islamic place of worship located in the Kuantan port region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.39391,
+                        4.044016
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MY-06",
     coords: [103.42, 3.97],

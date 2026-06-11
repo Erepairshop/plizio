@@ -403,7 +403,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Museo Renata Tebaldi",
-                  "text": "Ein der berühmten Sopranistin Renata Tebaldi gewidmetes Museum.",
+                  "text": "Museum, das der weltberühmten Sopranistin Renata Tebaldi gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         10.0363,
@@ -441,7 +441,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Museo Renata Tebaldi",
-                  "text": "A híres szoprán énekesnőnek, Renata Tebaldinak szentelt múzeum.",
+                  "text": "Múzeum, amely a világhírű szopránénekesnő, Renata Tebaldi emlékét őrzi.",
                   "category": "museum",
                   "coords": [
                         10.0363,
@@ -479,7 +479,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Museo Renata Tebaldi",
-                  "text": "Un muzeu dedicat celebrei soprane Renata Tebaldi.",
+                  "text": "Muzeu dedicat celebrei soprane Renata Tebaldi.",
                   "category": "museum",
                   "coords": [
                         10.0363,
@@ -517,7 +517,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Museo Renata Tebaldi",
-                  "text": "A museum dedicated to the famous soprano Renata Tebaldi.",
+                  "text": "Museum dedicated to the world-famous soprano Renata Tebaldi.",
                   "category": "museum",
                   "coords": [
                         10.0363,
@@ -601,7 +601,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Gran Serra",
-                  "text": "Ein vergletscherter Gipfel in der Gran-Paradiso-Gruppe in Italien.",
+                  "text": "3552 Meter hoher Berg im Gran-Paradiso-Massiv.",
                   "category": "landmark",
                   "coords": [
                         7.284907,
@@ -675,7 +675,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Gran Serra",
-                  "text": "Eljegesedett hegycsúcs az olaszországi Gran Paradiso-csoportban.",
+                  "text": "3552 méter magas hegy a Gran Paradiso masszívumban.",
                   "category": "landmark",
                   "coords": [
                         7.284907,
@@ -749,7 +749,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Gran Serra",
-                  "text": "Un vârf glaciar în grupul Gran Paradiso din Italia.",
+                  "text": "Munte de 3552 m în masivul Gran Paradiso.",
                   "category": "landmark",
                   "coords": [
                         7.284907,
@@ -823,7 +823,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Gran Serra",
-                  "text": "A glaciated peak in the Gran Paradiso group in Italy.",
+                  "text": "A 3,552-meter-high mountain in the Gran Paradiso massif.",
                   "category": "landmark",
                   "coords": [
                         7.284907,
@@ -1240,7 +1240,7 @@ export const italyReliefV2: POI[] = [
       "de": [
             {
                   "name": "Ex Sito Jupiter BITONTO CERASO",
-                  "text": "Ein Denkmal auf dem Murge-Plateau.",
+                  "text": "Archäologische Stätte eines antiken Jupiter-Tempels auf der Murge-Hochebene bei Bitonto.",
                   "category": "historical",
                   "coords": [
                         16.506496,
@@ -1260,7 +1260,7 @@ export const italyReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Ex Sito Jupiter BITONTO CERASO",
-                  "text": "Emlékmű a Murge-fennsíkon.",
+                  "text": "Egy ókori Jupiter-templom régészeti lelőhelye a Murge-fennsíkon, Bitonto közelében.",
                   "category": "historical",
                   "coords": [
                         16.506496,
@@ -1280,7 +1280,7 @@ export const italyReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Ex Sito Jupiter BITONTO CERASO",
-                  "text": "Un monument pe platoul Murge.",
+                  "text": "Sit arheologic al unui templu antic al lui Jupiter pe Podișul Murge, lângă Bitonto.",
                   "category": "historical",
                   "coords": [
                         16.506496,
@@ -1300,7 +1300,7 @@ export const italyReliefV2: POI[] = [
       "en": [
             {
                   "name": "Ex Sito Jupiter BITONTO CERASO",
-                  "text": "A monument located on the Murge Plateau.",
+                  "text": "Archaeological site of an ancient Jupiter temple on the Murge plateau near Bitonto.",
                   "category": "historical",
                   "coords": [
                         16.506496,
@@ -2059,7 +2059,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Chiesa di San Nicolao in Sillicano",
-                  "text": "Eine historische Kirche im romanischen Stil im Dorf Sillicano.",
+                  "text": "Romanische Kirche San Nicolao in Sillicano am Monte Cinto auf Korsika.",
                   "category": "religious",
                   "coords": [
                         10.361103,
@@ -2124,7 +2124,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Chiesa di San Nicolao in Sillicano",
-                  "text": "Sillicano falujában található történelmi templom, amely román stílusjegyeket hordoz.",
+                  "text": "San Nicolao román stílusú temploma Sillicanóban, Monte Cintón, Korzikán.",
                   "category": "religious",
                   "coords": [
                         10.361103,
@@ -2189,7 +2189,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Chiesa di San Nicolao in Sillicano",
-                  "text": "O biserică istorică în stil romanic situată în satul Sillicano.",
+                  "text": "Biserica romanică San Nicolao în Sillicano pe Muntele Cinto, Corsica.",
                   "category": "religious",
                   "coords": [
                         10.361103,
@@ -2254,7 +2254,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Chiesa di San Nicolao in Sillicano",
-                  "text": "A historical Romanesque-style church located in the village of Sillicano.",
+                  "text": "Romanesque church of San Nicolao in Sillicano on Monte Cinto, Corsica.",
                   "category": "religious",
                   "coords": [
                         10.361103,
@@ -2698,7 +2698,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Eremo di Morimondo (rovine)",
-                  "text": "Überreste einer ehemaligen Einsiedelei in der Nähe des Monte Nerone.",
+                  "text": "Verfallene Einsiedelei Morimondo auf dem Monte Nerone mit Panoramablick.",
                   "category": "historical",
                   "coords": [
                         12.536874,
@@ -2754,7 +2754,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Eremo di Morimondo (rovine)",
-                  "text": "Egykori remetelak maradványai a Monte Nerone közelében.",
+                  "text": "Romos Morimondo remetelak a Monte Nerone tetején, panorámás kilátással.",
                   "category": "historical",
                   "coords": [
                         12.536874,
@@ -2810,7 +2810,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Eremo di Morimondo (rovine)",
-                  "text": "Rămășițele unei foste sihăstrii în apropiere de Monte Nerone.",
+                  "text": "Schitul ruinat Morimondo pe Muntele Nerone, cu vedere panoramică.",
                   "category": "historical",
                   "coords": [
                         12.536874,
@@ -2866,7 +2866,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Eremo di Morimondo (rovine)",
-                  "text": "The remains of a former hermitage near Monte Nerone.",
+                  "text": "Ruined hermitage of Morimondo on Monte Nerone with panoramic views.",
                   "category": "historical",
                   "coords": [
                         12.536874,
@@ -4039,7 +4039,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Pietra del Verticchio",
-                  "text": "Eine lokale Sehenswürdigkeit in der Nähe des Monte Marsicano.",
+                  "text": "Große Felsformation auf dem Monte Marsicano, ein markanter Wanderpunkt.",
                   "category": "landmark",
                   "coords": [
                         13.858932,
@@ -4095,7 +4095,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Pietra del Verticchio",
-                  "text": "Helyi látványosság a Monte Marsicano közelében.",
+                  "text": "Nagy sziklaképződmény a Monte Marsicano hegyen, fontos túrajelezés.",
                   "category": "landmark",
                   "coords": [
                         13.858932,
@@ -4151,7 +4151,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Pietra del Verticchio",
-                  "text": "O atracție locală situată în apropiere de Monte Marsicano.",
+                  "text": "Formațiune mare de stâncă pe Muntele Marsicano, un reper pentru drumeții.",
                   "category": "landmark",
                   "coords": [
                         13.858932,
@@ -4207,7 +4207,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Pietra del Verticchio",
-                  "text": "A local attraction situated near Monte Marsicano.",
+                  "text": "Large rock formation on Monte Marsicano, a notable hiking landmark.",
                   "category": "landmark",
                   "coords": [
                         13.858932,
@@ -4570,7 +4570,7 @@ export const italyReliefV2: POI[] = [
       "de": [
             {
                   "name": "Monte Vecchio",
-                  "text": "Ein Gipfel im Apennin-Gebirge in der Nähe des Monte La Nuda.",
+                  "text": "Berggipfel in der Nähe des Monte La Nuda im Apennin.",
                   "category": "landmark",
                   "coords": [
                         10.413738,
@@ -4588,7 +4588,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte La Piella",
-                  "text": "Ein Gipfel im toskanisch-emilianischen Apennin-Nationalpark.",
+                  "text": "Berg in der Nähe des Monte La Nuda im Apennin.",
                   "category": "landmark",
                   "coords": [
                         10.405576,
@@ -4615,7 +4615,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "San Bartolomeo",
-                  "text": "Eine kleine Bergkapelle in der Region des Monte La Nuda.",
+                  "text": "Kapelle San Bartolomeo auf dem Gipfel des Monte La Nuda.",
                   "category": "landmark",
                   "coords": [
                         10.375652,
@@ -4626,7 +4626,7 @@ export const italyReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Monte Vecchio",
-                  "text": "Csúcs az Appenninekben, a Monte La Nuda közelében.",
+                  "text": "Hegycsúcs a Monte La Nuda közelében az Appenninekben.",
                   "category": "landmark",
                   "coords": [
                         10.413738,
@@ -4644,7 +4644,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte La Piella",
-                  "text": "Csúcs a Toszkán-Emilián Appenninek Nemzeti Parkban.",
+                  "text": "Hegy a Monte La Nuda közelében az Appenninekben.",
                   "category": "landmark",
                   "coords": [
                         10.405576,
@@ -4671,7 +4671,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "San Bartolomeo",
-                  "text": "Kis hegyi kápolna a Monte La Nuda régiójában.",
+                  "text": "San Bartolomeo kápolna a Monte La Nuda csúcsán.",
                   "category": "landmark",
                   "coords": [
                         10.375652,
@@ -4682,7 +4682,7 @@ export const italyReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Monte Vecchio",
-                  "text": "Un vârf în Munții Apenini, lângă Monte La Nuda.",
+                  "text": "Vârf muntos lângă Monte La Nuda în Apenini.",
                   "category": "landmark",
                   "coords": [
                         10.413738,
@@ -4700,7 +4700,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte La Piella",
-                  "text": "Un vârf în Parcul Național al Apeninilor Tosco-Emiliani.",
+                  "text": "Munte lângă Monte La Nuda în Apenini.",
                   "category": "landmark",
                   "coords": [
                         10.405576,
@@ -4727,7 +4727,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "San Bartolomeo",
-                  "text": "O mică capelă montană în regiunea Monte La Nuda.",
+                  "text": "Capela San Bartolomeo pe vârful Muntelui La Nuda.",
                   "category": "landmark",
                   "coords": [
                         10.375652,
@@ -4738,7 +4738,7 @@ export const italyReliefV2: POI[] = [
       "en": [
             {
                   "name": "Monte Vecchio",
-                  "text": "A peak in the Apennine Mountains near Monte La Nuda.",
+                  "text": "Mountain peak near Monte La Nuda in the Apennines.",
                   "category": "landmark",
                   "coords": [
                         10.413738,
@@ -4756,7 +4756,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte La Piella",
-                  "text": "A peak in the Tuscan-Emilian Apennines National Park.",
+                  "text": "Mountain near Monte La Nuda in the Apennines.",
                   "category": "landmark",
                   "coords": [
                         10.405576,
@@ -4783,7 +4783,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "San Bartolomeo",
-                  "text": "A small mountain chapel in the Monte La Nuda region.",
+                  "text": "Chapel of San Bartolomeo on the summit of Monte La Nuda.",
                   "category": "landmark",
                   "coords": [
                         10.375652,
@@ -4867,7 +4867,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Carpegna",
-                  "text": "Höchster Berggipfel der Region Montefeltro.",
+                  "text": "1415 Meter hoher Berg im Apennin, Namensgeber der Umgebung.",
                   "category": "landmark",
                   "coords": [
                         12.320161,
@@ -4876,7 +4876,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Canale",
-                  "text": "Berggipfel in der Gebirgskette des Monte Carpegna.",
+                  "text": "1410 Meter hoher Berg in der Nähe von Monte Carpegna.",
                   "category": "landmark",
                   "coords": [
                         12.267381,
@@ -4941,7 +4941,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Carpegna",
-                  "text": "A Montefeltro régió legmagasabb hegycsúcsa.",
+                  "text": "1415 méter magas hegy az Appenninekben, névadója a környéknek.",
                   "category": "landmark",
                   "coords": [
                         12.320161,
@@ -4950,7 +4950,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Canale",
-                  "text": "Hegycsúcs a Monte Carpegna hegyvonulatában.",
+                  "text": "1410 méter magas hegy Monte Carpegna közelében.",
                   "category": "landmark",
                   "coords": [
                         12.267381,
@@ -5015,7 +5015,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Carpegna",
-                  "text": "Cel mai înalt vârf montan din regiunea Montefeltro.",
+                  "text": "Munte de 1415 m în Apenini, care dă numele zonei.",
                   "category": "landmark",
                   "coords": [
                         12.320161,
@@ -5024,7 +5024,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Canale",
-                  "text": "Vârf montan în masivul Monte Carpegna.",
+                  "text": "Munte de 1410 m lângă Monte Carpegna.",
                   "category": "landmark",
                   "coords": [
                         12.267381,
@@ -5089,7 +5089,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Carpegna",
-                  "text": "The highest mountain peak in the Montefeltro region.",
+                  "text": "A 1,415-meter-high mountain in the Apennines, namesake of the surrounding area.",
                   "category": "landmark",
                   "coords": [
                         12.320161,
@@ -5098,7 +5098,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Canale",
-                  "text": "A mountain peak in the Monte Carpegna range.",
+                  "text": "A 1,410-meter-high mountain near Monte Carpegna.",
                   "category": "landmark",
                   "coords": [
                         12.267381,
@@ -5848,7 +5848,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Ravino",
-                  "text": "Ein Berggipfel, der zum Massiv des Monte Cusna gehört.",
+                  "text": "Berg in der Nähe des Monte Cusna im Apennin.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
@@ -5913,7 +5913,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Ravino",
-                  "text": "A Monte Cusna masszívumhoz tartozó hegycsúcs.",
+                  "text": "Hegy a Monte Cusna közelében az Appenninekben.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
@@ -5978,7 +5978,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Ravino",
-                  "text": "Un vârf muntos care face parte din masivul Monte Cusna.",
+                  "text": "Munte lângă Monte Cusna în Apenini.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
@@ -6043,7 +6043,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Ravino",
-                  "text": "A mountain peak belonging to the Monte Cusna massif.",
+                  "text": "Mountain near Monte Cusna in the Apennines.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
@@ -6163,7 +6163,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Alpicella del Cimone",
-                  "text": "Ein kleinerer Gipfel im Bergmassiv des Monte Cimone.",
+                  "text": "Alpine Wiese am Monte Cimone im Apennin.",
                   "category": "landmark",
                   "coords": [
                         10.669349,
@@ -6228,7 +6228,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Alpicella del Cimone",
-                  "text": "Kisebb hegycsúcs a Monte Cimone hegységben.",
+                  "text": "Alpesi rét a Monte Cimone-n az Appenninekben.",
                   "category": "landmark",
                   "coords": [
                         10.669349,
@@ -6293,7 +6293,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Alpicella del Cimone",
-                  "text": "Un vârf mai mic în masivul muntos Monte Cimone.",
+                  "text": "Pajiște alpină pe Monte Cimone în Apenini.",
                   "category": "landmark",
                   "coords": [
                         10.669349,
@@ -6358,7 +6358,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Alpicella del Cimone",
-                  "text": "A minor peak in the Monte Cimone mountain massif.",
+                  "text": "Alpine meadow on Monte Cimone in the Apennines.",
                   "category": "landmark",
                   "coords": [
                         10.669349,
@@ -7423,7 +7423,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "scavi di Torriglia Vecchia",
-                  "text": "Eine archäologische Ausgrabungsstätte mit historischen Überresten.",
+                  "text": "Ausgrabungen des verlassenen mittelalterlichen Dorfes Torriglia auf dem Monte Antola.",
                   "category": "historical",
                   "coords": [
                         9.160579,
@@ -7479,7 +7479,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "scavi di Torriglia Vecchia",
-                  "text": "Régészeti lelőhely történelmi maradványokkal.",
+                  "text": "Az elhagyatott középkori Torriglia falu feltárásai a Monte Antola hegyen.",
                   "category": "historical",
                   "coords": [
                         9.160579,
@@ -7535,7 +7535,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "scavi di Torriglia Vecchia",
-                  "text": "Un sit arheologic ce cuprinde vestigii istorice.",
+                  "text": "Săpături arheologice ale satului medieval abandonat Torriglia pe Muntele Antola.",
                   "category": "historical",
                   "coords": [
                         9.160579,
@@ -7591,7 +7591,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "scavi di Torriglia Vecchia",
-                  "text": "An archaeological site featuring historical remains.",
+                  "text": "Archaeological excavations of the abandoned medieval village of Torriglia on Monte Antola.",
                   "category": "historical",
                   "coords": [
                         9.160579,
@@ -7729,7 +7729,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "C.se Tugello",
-                  "text": "Ruinen eines alten Bauwerks in der Nähe des Monte Tobbio.",
+                  "text": "Historisches Landhaus (Cascina) Tugello an den Hängen des Monte Tobbio.",
                   "category": "historical",
                   "coords": [
                         8.776491,
@@ -7794,7 +7794,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "C.se Tugello",
-                  "text": "Egy régi építmény romjai a Monte Tobbio közelében.",
+                  "text": "Történelmi tanyaház (Cascina) Tugello a Monte Tobbio lejtőin.",
                   "category": "historical",
                   "coords": [
                         8.776491,
@@ -7859,7 +7859,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "C.se Tugello",
-                  "text": "Ruinele unei vechi structuri situate lângă Monte Tobbio.",
+                  "text": "Casă rurală istorică (Cascina) Tugello pe versanții Muntelui Tobbio.",
                   "category": "historical",
                   "coords": [
                         8.776491,
@@ -7924,7 +7924,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "C.se Tugello",
-                  "text": "Ruins of an old structure located near Monte Tobbio.",
+                  "text": "Historic rural house (Cascina) Tugello on the slopes of Monte Tobbio.",
                   "category": "historical",
                   "coords": [
                         8.776491,
@@ -10006,7 +10006,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Lerno",
-                  "text": "Ein markanter Berggipfel in der Region Monte Lerno.",
+                  "text": "1092 Meter hoher Berg auf Sardinien.",
                   "category": "landmark",
                   "coords": [
                         9.166361,
@@ -10035,7 +10035,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Lerno",
-                  "text": "Egy jelentős hegycsúcs Monte Lerno környékén.",
+                  "text": "1092 méter magas hegy Szardínián.",
                   "category": "landmark",
                   "coords": [
                         9.166361,
@@ -10064,7 +10064,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Lerno",
-                  "text": "Un vârf muntos proeminent din regiunea Monte Lerno.",
+                  "text": "Munte de 1092 m în Sardinia.",
                   "category": "landmark",
                   "coords": [
                         9.166361,
@@ -10093,7 +10093,7 @@ export const italyReliefV2: POI[] = [
             },
             {
                   "name": "Monte Lerno",
-                  "text": "A prominent mountain peak in the Monte Lerno region.",
+                  "text": "A 1,092-meter-high mountain on Sardinia.",
                   "category": "landmark",
                   "coords": [
                         9.166361,

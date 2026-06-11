@@ -224,7 +224,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hydra",
-                  "text": "Hydra ist ein Strandresort in Antibes.",
+                  "text": "Ein Wasserpark oder Aquazentrum namens Hydra in Antibes.",
                   "category": "family",
                   "coords": [
                         7.098479,
@@ -242,7 +242,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Les Mimosas",
-                  "text": "Die Piscine Les Mimosas ist ein Schwimmbad in Antibes.",
+                  "text": "Ein Schwimmbad namens Les Mimosas in Antibes.",
                   "category": "family",
                   "coords": [
                         7.095614,
@@ -251,7 +251,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Moustié",
-                  "text": "Le Moustié ist ein Schwimmbad in Antibes.",
+                  "text": "Ein Familienort in Antibes, möglicherweise ein Restaurant oder Park.",
                   "category": "family",
                   "coords": [
                         7.0971,
@@ -472,7 +472,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hydra",
-                  "text": "A Hydra egy tengerparti üdülőhely Antibes városában.",
+                  "text": "Vízipark vagy aquacentrum Hydra néven Antibes-ban.",
                   "category": "family",
                   "coords": [
                         7.098479,
@@ -490,7 +490,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Les Mimosas",
-                  "text": "A Piscine Les Mimosas egy uszoda Antibes városában.",
+                  "text": "Les Mimosas uszoda Antibes-ban.",
                   "category": "family",
                   "coords": [
                         7.095614,
@@ -499,7 +499,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Moustié",
-                  "text": "A Le Moustié egy uszoda Antibes városában.",
+                  "text": "Családi hely Antibes-ban, lehet étterem vagy park.",
                   "category": "family",
                   "coords": [
                         7.0971,
@@ -720,7 +720,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hydra",
-                  "text": "Hydra este o stațiune balneară situată în Antibes.",
+                  "text": "Un parc acvatic sau centru acvatic numit Hydra în Antibes.",
                   "category": "family",
                   "coords": [
                         7.098479,
@@ -738,7 +738,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Les Mimosas",
-                  "text": "Piscine Les Mimosas este un bazin de înot situat în Antibes.",
+                  "text": "O piscină numită Les Mimosas în Antibes.",
                   "category": "family",
                   "coords": [
                         7.095614,
@@ -747,7 +747,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Moustié",
-                  "text": "Le Moustié este un bazin de înot situat în Antibes.",
+                  "text": "Un loc pentru familii în Antibes, posibil un restaurant sau parc.",
                   "category": "family",
                   "coords": [
                         7.0971,
@@ -968,7 +968,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hydra",
-                  "text": "Hydra is a beach resort located in Antibes.",
+                  "text": "A water park or aquatic center named Hydra in Antibes.",
                   "category": "family",
                   "coords": [
                         7.098479,
@@ -986,7 +986,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Les Mimosas",
-                  "text": "Piscine Les Mimosas is a swimming pool located in Antibes.",
+                  "text": "A swimming pool named Les Mimosas in Antibes.",
                   "category": "family",
                   "coords": [
                         7.095614,
@@ -995,7 +995,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Moustié",
-                  "text": "Le Moustié is a swimming pool located in Antibes.",
+                  "text": "A family venue in Antibes, possibly a restaurant or park.",
                   "category": "family",
                   "coords": [
                         7.0971,
@@ -1493,7 +1493,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Escale Beauté Institut Spa",
-                  "text": "Escale Beauté Institut Spa ist ein Spa in Dijon Centre.",
+                  "text": "Ein Schönheitsinstitut und Spa in Dijon Bis.",
                   "category": "family",
                   "coords": [
                         5.043255,
@@ -1538,7 +1538,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine du Carrousel - Bassin Extérieur",
-                  "text": "Die Piscine du Carrousel - Bassin Extérieur ist ein Schwimmbad in Dijon Centre.",
+                  "text": "Ein Außenbecken im Schwimmbad Carrousel in Dijon Bis.",
                   "category": "family",
                   "coords": [
                         5.04556,
@@ -1585,7 +1585,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Escale Beauté Institut Spa",
-                  "text": "Az Escale Beauté Institut Spa egy gyógyfürdő Dijon Centre területén.",
+                  "text": "Szépségintézet és spa Dijon Bis-ben.",
                   "category": "family",
                   "coords": [
                         5.043255,
@@ -1630,7 +1630,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine du Carrousel - Bassin Extérieur",
-                  "text": "A Piscine du Carrousel - Bassin Extérieur egy uszoda Dijon Centre területén.",
+                  "text": "Külső medence a Carrousel uszodában Dijon Bis-ben.",
                   "category": "family",
                   "coords": [
                         5.04556,
@@ -1677,7 +1677,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Escale Beauté Institut Spa",
-                  "text": "Escale Beauté Institut Spa este un spa situat în Dijon Centre.",
+                  "text": "Un institut de înfrumusețare și spa în Dijon Bis.",
                   "category": "family",
                   "coords": [
                         5.043255,
@@ -1722,7 +1722,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine du Carrousel - Bassin Extérieur",
-                  "text": "Piscine du Carrousel - Bassin Extérieur este un bazin de înot situat în Dijon Centre.",
+                  "text": "O piscină exterioară la complexul Carrousel din Dijon Bis.",
                   "category": "family",
                   "coords": [
                         5.04556,
@@ -1769,7 +1769,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Escale Beauté Institut Spa",
-                  "text": "Escale Beauté Institut Spa is a spa located in Dijon Centre.",
+                  "text": "A beauty institute and spa in Dijon Bis.",
                   "category": "family",
                   "coords": [
                         5.043255,
@@ -1814,7 +1814,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine du Carrousel - Bassin Extérieur",
-                  "text": "Piscine du Carrousel - Bassin Extérieur is a swimming pool located in Dijon Centre.",
+                  "text": "An outdoor pool at the Carrousel swimming complex in Dijon Bis.",
                   "category": "family",
                   "coords": [
                         5.04556,
@@ -1881,7 +1881,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "Das Aquarium Georges BRESSE befindet sich in Besançon Nord.",
+                  "text": "Ein Aquarium, benannt nach Georges Bresse, in Besancon Bis.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -1890,7 +1890,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "Der Zoo Magasin à poudre befindet sich in Besançon Nord.",
+                  "text": "Ein ehemaliges Pulvermagazin, umgewandelt in eine Familienattraktion in Besancon Bis.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -1899,7 +1899,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "Der Jardin zoologique de la Citadelle de Besançon befindet sich in Besançon Nord.",
+                  "text": "Zoo in der Zitadelle von Besançon, einem UNESCO-Weltkulturerbe.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -1919,7 +1919,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "A Georges BRESSE akvárium Besançon Nordban található.",
+                  "text": "Georges Bresse akvárium Besancon Bis-ben.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -1928,7 +1928,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "A Magasin à poudre állatkert Besançon Nordban található.",
+                  "text": "Egykori lőporraktár, családi attrakcióvá alakítva Besancon Bis-ben.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -1937,7 +1937,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "A Jardin zoologique de la Citadelle de Besançon állatkert Besançon Nordban található.",
+                  "text": "Állatkert a besançoni citadellában, amely az UNESCO világörökség része.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -1957,7 +1957,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "Acvariul Georges BRESSE este situat în Besancon Nord.",
+                  "text": "Un acvariu numit după Georges Bresse în Besancon Bis.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -1966,7 +1966,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "Grădina zoologică Magasin à poudre este situată în Besancon Nord.",
+                  "text": "Un fost depozit de praf de pușcă transformat în atracție pentru familii în Besancon Bis.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -1975,7 +1975,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "Grădina zoologică de la Citadelle de Besançon este situată în Besancon Nord.",
+                  "text": "Grădină zoologică în citadela din Besançon, parte a patrimoniului UNESCO.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -1995,7 +1995,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "The Georges BRESSE aquarium is located in Besancon Nord.",
+                  "text": "An aquarium named after Georges Bresse in Besancon Bis.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -2004,7 +2004,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "The Magasin à poudre zoo is located in Besancon Nord.",
+                  "text": "A former gunpowder store turned into a family attraction in Besancon Bis.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -2013,7 +2013,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "The Jardin zoologique de la Citadelle de Besançon zoo is located in Besancon Nord.",
+                  "text": "Zoo within the Citadelle of Besançon, a UNESCO World Heritage site.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -2071,7 +2071,7 @@ export const franceCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jardin des oiseaux",
-                  "text": "Ein Vogelgarten und Zoo in Rouen Rive Gauche.",
+                  "text": "Ein Vogelgarten in Rouen Bis, der verschiedene Vogelarten zeigt.",
                   "category": "family",
                   "coords": [
                         1.055205,
@@ -2082,7 +2082,7 @@ export const franceCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jardin des oiseaux",
-                  "text": "Madárkert és állatkert Rouen Rive Gauche-ban.",
+                  "text": "Madárkert Rouen Bis-ben, különböző madárfajokkal.",
                   "category": "family",
                   "coords": [
                         1.055205,
@@ -2093,7 +2093,7 @@ export const franceCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jardin des oiseaux",
-                  "text": "O grădină de păsări și grădină zoologică situată în Rouen Rive Gauche.",
+                  "text": "O grădină cu păsări în Rouen Bis, cu diferite specii de păsări.",
                   "category": "family",
                   "coords": [
                         1.055205,
@@ -2104,7 +2104,7 @@ export const franceCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jardin des oiseaux",
-                  "text": "A bird garden and zoo located in Rouen Rive Gauche.",
+                  "text": "A bird garden in Rouen Bis, featuring various bird species.",
                   "category": "family",
                   "coords": [
                         1.055205,
@@ -2415,7 +2415,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "SPA Avenue 51",
-                  "text": "Das SPA Avenue 51 befindet sich in Reims Centre.",
+                  "text": "Ein Spa in der Avenue 51 in Reims Bis.",
                   "category": "family",
                   "coords": [
                         3.979625,
@@ -2424,7 +2424,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Connect (Salon de bien-être)",
-                  "text": "Das Schwimmbad Spa Connect befindet sich in Reims Centre.",
+                  "text": "Modernes Wellness-Spa im Herzen der Champagne in Reims.",
                   "category": "family",
                   "coords": [
                         4.02185,
@@ -2489,7 +2489,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "SPA Avenue 51",
-                  "text": "A SPA Avenue 51 gyógyfürdő Reims központjában található.",
+                  "text": "Spa a 51-es Avenue-n Reims Bis-ben.",
                   "category": "family",
                   "coords": [
                         3.979625,
@@ -2498,7 +2498,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Connect (Salon de bien-être)",
-                  "text": "A Spa Connect úszómedence Reims központjában található.",
+                  "text": "Modern wellness-spa a champagne-i Reims szívében.",
                   "category": "family",
                   "coords": [
                         4.02185,
@@ -2563,7 +2563,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "SPA Avenue 51",
-                  "text": "Centrul SPA Avenue 51 este situat în Reims Centre.",
+                  "text": "Un spa pe Avenue 51 în Reims Bis.",
                   "category": "family",
                   "coords": [
                         3.979625,
@@ -2572,7 +2572,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Connect (Salon de bien-être)",
-                  "text": "Piscina Spa Connect este situată în Reims Centre.",
+                  "text": "Spa modern de wellness în inima Champagnei, la Reims.",
                   "category": "family",
                   "coords": [
                         4.02185,
@@ -2637,7 +2637,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "SPA Avenue 51",
-                  "text": "The SPA Avenue 51 is located in Reims Centre.",
+                  "text": "A spa on Avenue 51 in Reims Bis.",
                   "category": "family",
                   "coords": [
                         3.979625,
@@ -2646,7 +2646,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Connect (Salon de bien-être)",
-                  "text": "The swimming pool Spa Connect is located in Reims Centre.",
+                  "text": "Modern wellness spa in the heart of the Champagne region in Reims.",
                   "category": "family",
                   "coords": [
                         4.02185,
@@ -3155,7 +3155,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fosse à plongeon",
-                  "text": "Fosse à plongeon ist ein Schwimmbad in Caen Centre.",
+                  "text": "Sprungbecken mit mehreren Plattformen in Caen nahe der Altstadt.",
                   "category": "family",
                   "coords": [
                         -0.369215,
@@ -3247,7 +3247,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fosse à plongeon",
-                  "text": "A Fosse à plongeon egy uszoda Caen Centre területén.",
+                  "text": "Többugrásos medence Caen óvárosához közel.",
                   "category": "family",
                   "coords": [
                         -0.369215,
@@ -3339,7 +3339,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fosse à plongeon",
-                  "text": "Fosse à plongeon este un bazin de înot în Caen Centre.",
+                  "text": "Bazin de sărituri cu mai multe platforme în Caen, aproape de centrul vechi.",
                   "category": "family",
                   "coords": [
                         -0.369215,
@@ -3431,7 +3431,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fosse à plongeon",
-                  "text": "Fosse à plongeon is a swimming pool located in Caen Centre.",
+                  "text": "Diving pit with multiple platforms in Caen near the old town.",
                   "category": "family",
                   "coords": [
                         -0.369215,
@@ -3688,7 +3688,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Animalier",
-                  "text": "Ein Tierbereich und Zoo in Nancy Nord.",
+                  "text": "Tierpark in Nancy mit einheimischen und exotischen Arten.",
                   "category": "family",
                   "coords": [
                         6.184027,
@@ -3697,7 +3697,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L’oasis",
-                  "text": "Ein Strandresort-Bereich in Nancy Nord.",
+                  "text": "Thematischer Ruhebereich mit tropischer Atmosphäre in Nancy.",
                   "category": "family",
                   "coords": [
                         6.207483,
@@ -3771,7 +3771,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Animalier",
-                  "text": "Állatpark és állatkert Nancy Nordban.",
+                  "text": "Állatpark Nancyban, helyi és egzotikus fajokkal.",
                   "category": "family",
                   "coords": [
                         6.184027,
@@ -3780,7 +3780,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L’oasis",
-                  "text": "Tengerparti üdülőhely Nancy Nordban.",
+                  "text": "Tematikus pihenőhely trópusi hangulattal Nancyban.",
                   "category": "family",
                   "coords": [
                         6.207483,
@@ -3854,7 +3854,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Animalier",
-                  "text": "Un spațiu cu animale și grădină zoologică în Nancy Nord.",
+                  "text": "Parcul animalier din Nancy cu specii locale și exotice.",
                   "category": "family",
                   "coords": [
                         6.184027,
@@ -3863,7 +3863,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L’oasis",
-                  "text": "O zonă de stațiune la plajă în Nancy Nord.",
+                  "text": "Zonă de relaxare tematică cu atmosferă tropicală în Nancy.",
                   "category": "family",
                   "coords": [
                         6.207483,
@@ -3937,7 +3937,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Animalier",
-                  "text": "An animal area and zoo in Nancy Nord.",
+                  "text": "Animal park in Nancy featuring local and exotic species.",
                   "category": "family",
                   "coords": [
                         6.184027,
@@ -3946,7 +3946,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L’oasis",
-                  "text": "A beach resort area in Nancy Nord.",
+                  "text": "Themed relaxation area with a tropical atmosphere in Nancy.",
                   "category": "family",
                   "coords": [
                         6.207483,
@@ -4040,7 +4040,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac du Vieux Pigeonnier",
-                  "text": "Der Lac du Vieux Pigeonnier in Toulouse ist ein charmantes Ziel für Naturliebhaber.",
+                  "text": "Natursee benannt nach einem alten Taubenschlag nahe Toulouse.",
                   "category": "natural",
                   "coords": [
                         1.35877,
@@ -4267,7 +4267,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac du Vieux Pigeonnier",
-                  "text": "A toulouse-i Lac du Vieux Pigeonnier bájos célpont a természetkedvelők számára.",
+                  "text": "Természetes tó, amely egy régi galambdúcról kapta a nevét Toulouse közelében.",
                   "category": "natural",
                   "coords": [
                         1.35877,
@@ -4494,7 +4494,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac du Vieux Pigeonnier",
-                  "text": "Lac du Vieux Pigeonnier din Toulouse este o destinație fermecătoare pentru iubitorii de natură.",
+                  "text": "Lac natural numit după un vechi porumbar lângă Toulouse.",
                   "category": "natural",
                   "coords": [
                         1.35877,
@@ -4721,7 +4721,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac du Vieux Pigeonnier",
-                  "text": "Lac du Vieux Pigeonnier in Toulouse is a charming destination for nature lovers.",
+                  "text": "Natural lake named after an old dovecote near Toulouse.",
                   "category": "natural",
                   "coords": [
                         1.35877,
@@ -4959,7 +4959,7 @@ export const franceCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Piscine",
-                  "text": "Das Schwimmbad Piscine befindet sich in Bordeaux Sud.",
+                  "text": "Öffentliches Schwimmbad in Bordeaux mit mehreren Becken.",
                   "category": "family",
                   "coords": [
                         -0.572322,
@@ -4968,7 +4968,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains de Cléopâtre",
-                  "text": "Das öffentliche Bad Les Bains de Cléopâtre befindet sich in Bordeaux Sud.",
+                  "text": "Cleopatra-thematisiertes Thermalbad in Bordeaux.",
                   "category": "family",
                   "coords": [
                         -0.569579,
@@ -4977,7 +4977,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Grand Hammam de Bordeaux",
-                  "text": "Das öffentliche Bad Le Grand Hammam de Bordeaux befindet sich in Bordeaux Sud.",
+                  "text": "Großes traditionelles Hammam in Bordeaux mit orientalischem Bad.",
                   "category": "family",
                   "coords": [
                         -0.567559,
@@ -4988,7 +4988,7 @@ export const franceCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Piscine",
-                  "text": "A Piscine úszómedence Bordeaux Sudban található.",
+                  "text": "Nyilvános uszoda Bordeaux-ban, több medencével.",
                   "category": "family",
                   "coords": [
                         -0.572322,
@@ -4997,7 +4997,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains de Cléopâtre",
-                  "text": "A Les Bains de Cléopâtre közfürdő Bordeaux Sudban található.",
+                  "text": "Kleopátra-tematikájú termálfürdő Bordeaux-ban.",
                   "category": "family",
                   "coords": [
                         -0.569579,
@@ -5006,7 +5006,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Grand Hammam de Bordeaux",
-                  "text": "A Le Grand Hammam de Bordeaux közfürdő Bordeaux Sudban található.",
+                  "text": "Nagy hagyományos hammam Bordeaux-ban orientális fürdővel.",
                   "category": "family",
                   "coords": [
                         -0.567559,
@@ -5017,7 +5017,7 @@ export const franceCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Piscine",
-                  "text": "Piscina Piscine este situată în Bordeaux Sud.",
+                  "text": "Piscină publică în Bordeaux cu mai multe bazine.",
                   "category": "family",
                   "coords": [
                         -0.572322,
@@ -5026,7 +5026,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains de Cléopâtre",
-                  "text": "Baia publică Les Bains de Cléopâtre este situată în Bordeaux Sud.",
+                  "text": "Baie termală cu tematică Cleopatra în Bordeaux.",
                   "category": "family",
                   "coords": [
                         -0.569579,
@@ -5035,7 +5035,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Grand Hammam de Bordeaux",
-                  "text": "Baia publică Le Grand Hammam de Bordeaux este situată în Bordeaux Sud.",
+                  "text": "Mare hamam tradițional în Bordeaux cu baie orientală.",
                   "category": "family",
                   "coords": [
                         -0.567559,
@@ -5046,7 +5046,7 @@ export const franceCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Piscine",
-                  "text": "The swimming pool Piscine is located in Bordeaux Sud.",
+                  "text": "Public swimming pool in Bordeaux with multiple basins.",
                   "category": "family",
                   "coords": [
                         -0.572322,
@@ -5055,7 +5055,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains de Cléopâtre",
-                  "text": "The public bath Les Bains de Cléopâtre is located in Bordeaux Sud.",
+                  "text": "Cleopatra-themed thermal bath in Bordeaux.",
                   "category": "family",
                   "coords": [
                         -0.569579,
@@ -5064,7 +5064,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Le Grand Hammam de Bordeaux",
-                  "text": "The public bath Le Grand Hammam de Bordeaux is located in Bordeaux Sud.",
+                  "text": "Large traditional hammam in Bordeaux with oriental baths.",
                   "category": "family",
                   "coords": [
                         -0.567559,
@@ -5366,7 +5366,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains He-Mal",
-                  "text": "Die Bains He-Mal sind ein öffentliches Bad in Lyon Nord.",
+                  "text": "Wellnessbad mit Hydrotherapie und Saunen in Lyon.",
                   "category": "family",
                   "coords": [
                         4.843675,
@@ -5384,7 +5384,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin ludique",
-                  "text": "Das Bassin ludique ist ein Schwimmbad in Lyon Nord.",
+                  "text": "Spielbecken mit Wasserrutschen und Springbrunnen in Lyon.",
                   "category": "family",
                   "coords": [
                         4.83845,
@@ -5393,7 +5393,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Résidentielle",
-                  "text": "Die Résidentielle ist ein Schwimmbad in Lyon Nord.",
+                  "text": "Ruhiger Spa-Bereich im Wohnstil mit Whirlpools in Lyon.",
                   "category": "family",
                   "coords": [
                         4.787164,
@@ -5431,7 +5431,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains He-Mal",
-                  "text": "A Bains He-Mal egy nyilvános fürdő Lyon Nord területén.",
+                  "text": "Wellness-fürdő hidroterápiával és szaunákkal Lyonban.",
                   "category": "family",
                   "coords": [
                         4.843675,
@@ -5449,7 +5449,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin ludique",
-                  "text": "A Bassin ludique egy uszoda Lyon Nord területén.",
+                  "text": "Játékmedence csúszdákkal és szökőkutakkal Lyonban.",
                   "category": "family",
                   "coords": [
                         4.83845,
@@ -5458,7 +5458,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Résidentielle",
-                  "text": "A Résidentielle egy uszoda Lyon Nord területén.",
+                  "text": "Csendes, lakóstílusú spa-terület pezsgőfürdőkkel Lyonban.",
                   "category": "family",
                   "coords": [
                         4.787164,
@@ -5496,7 +5496,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains He-Mal",
-                  "text": "Bains He-Mal este o baie publică situată în Lyon Nord.",
+                  "text": "Baie de wellness cu hidroterapie și saune în Lyon.",
                   "category": "family",
                   "coords": [
                         4.843675,
@@ -5514,7 +5514,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin ludique",
-                  "text": "Bassin ludique este un bazin de înot situat în Lyon Nord.",
+                  "text": "Bazin de joacă cu tobogane și fântâni în Lyon.",
                   "category": "family",
                   "coords": [
                         4.83845,
@@ -5523,7 +5523,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Résidentielle",
-                  "text": "Résidentielle este un bazin de înot situat în Lyon Nord.",
+                  "text": "Zonă de spa liniștită în stil rezidențial cu jacuzzi-uri în Lyon.",
                   "category": "family",
                   "coords": [
                         4.787164,
@@ -5561,7 +5561,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains He-Mal",
-                  "text": "Bains He-Mal is a public bath located in Lyon Nord.",
+                  "text": "Wellness bath with hydrotherapy and saunas in Lyon.",
                   "category": "family",
                   "coords": [
                         4.843675,
@@ -5579,7 +5579,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin ludique",
-                  "text": "Bassin ludique is a swimming pool located in Lyon Nord.",
+                  "text": "Recreational pool with slides and fountains in Lyon.",
                   "category": "family",
                   "coords": [
                         4.83845,
@@ -5588,7 +5588,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Résidentielle",
-                  "text": "Résidentielle is a swimming pool located in Lyon Nord.",
+                  "text": "Quiet spa area in a residential style with whirlpools in Lyon.",
                   "category": "family",
                   "coords": [
                         4.787164,
@@ -5664,7 +5664,7 @@ export const franceCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hammam Loubon",
-                  "text": "Das öffentliche Bad Hammam Loubon befindet sich in Marseille Nord.",
+                  "text": "Traditionelles Hammam in Marseille mit Dampfbad und Peeling.",
                   "category": "family",
                   "coords": [
                         5.383204,
@@ -5673,7 +5673,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Rong Shu Bodhi Spa",
-                  "text": "Das SPA Rong Shu Bodhi Spa befindet sich in Marseille Nord.",
+                  "text": "Spa mit banyanbaum-inspiriertem Design in Marseille.",
                   "category": "family",
                   "coords": [
                         5.3808,
@@ -5684,7 +5684,7 @@ export const franceCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hammam Loubon",
-                  "text": "A Hammam Loubon közfürdő Marseille Nordban található.",
+                  "text": "Hagyományos hammam Marseille-ben gőzfürdővel és bőrradírozással.",
                   "category": "family",
                   "coords": [
                         5.383204,
@@ -5693,7 +5693,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Rong Shu Bodhi Spa",
-                  "text": "A Rong Shu Bodhi Spa gyógyfürdő Marseille Nordban található.",
+                  "text": "Spa banyanfa által inspirált designnal Marseille-ben.",
                   "category": "family",
                   "coords": [
                         5.3808,
@@ -5704,7 +5704,7 @@ export const franceCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hammam Loubon",
-                  "text": "Baia publică Hammam Loubon este situată în Marseille Nord.",
+                  "text": "Hamam tradițional în Marsilia cu baie de aburi și exfoliere.",
                   "category": "family",
                   "coords": [
                         5.383204,
@@ -5713,7 +5713,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Rong Shu Bodhi Spa",
-                  "text": "Centrul SPA Rong Shu Bodhi Spa este situat în Marseille Nord.",
+                  "text": "Spa cu design inspirat de copacul banyan în Marsilia.",
                   "category": "family",
                   "coords": [
                         5.3808,
@@ -5724,7 +5724,7 @@ export const franceCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hammam Loubon",
-                  "text": "The public bath Hammam Loubon is located in Marseille Nord.",
+                  "text": "Traditional hammam in Marseille with steam bath and scrub.",
                   "category": "family",
                   "coords": [
                         5.383204,
@@ -5733,7 +5733,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Rong Shu Bodhi Spa",
-                  "text": "The SPA Rong Shu Bodhi Spa is located in Marseille Nord.",
+                  "text": "Spa with banyan tree-inspired design in Marseille.",
                   "category": "family",
                   "coords": [
                         5.3808,
@@ -6016,7 +6016,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Harim Essoltan",
-                  "text": "Ein traditionelles türkisches Bad in Paris Nord.",
+                  "text": "Hammam mit Sultan-themed Dekor in Paris nahe dem Bastille-Viertel.",
                   "category": "family",
                   "coords": [
                         2.392056,
@@ -6025,7 +6025,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Medina Center",
-                  "text": "Ein öffentliches Bad und Hammam in Paris Nord.",
+                  "text": "Hammam-Zentrum im Medina-Stil mit mehreren Baderäumen in Paris.",
                   "category": "family",
                   "coords": [
                         2.384396,
@@ -6034,7 +6034,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam",
-                  "text": "Eine öffentliche Badeanlage in Paris Nord.",
+                  "text": "Hammam im Institut der Islamischen Kulturen in Paris.",
                   "category": "family",
                   "coords": [
                         2.356267,
@@ -6043,7 +6043,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Jasmin de nuit",
-                  "text": "Ein öffentliches Bad und Spa in Paris Nord.",
+                  "text": "Spa mit Nachtjasmin-Duft und entspannenden Behandlungen in Paris.",
                   "category": "family",
                   "coords": [
                         2.340168,
@@ -6052,7 +6052,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin-école Grange-aux-Belles",
-                  "text": "Ein Lehrschwimmbecken in Paris Nord.",
+                  "text": "Lehrschwimmbecken im Viertel Grange-aux-Belles in Paris.",
                   "category": "family",
                   "coords": [
                         2.367919,
@@ -6061,7 +6061,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains d'Orient",
-                  "text": "Ein öffentliches Bad in Paris Nord.",
+                  "text": "Orientalische Bäder mit Mosaiken und warmen Steinbänken in Paris.",
                   "category": "family",
                   "coords": [
                         2.368758,
@@ -6070,7 +6070,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Cent Ciels",
-                  "text": "Ein öffentliches Bad und Entspannungsraum in Paris Nord.",
+                  "text": "Spa mit thematischen Räumen, die an verschiedene Himmel erinnern, in Paris.",
                   "category": "family",
                   "coords": [
                         2.372529,
@@ -6079,7 +6079,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Jardins Suspendus",
-                  "text": "Ein Spa in Paris Nord mit verschiedenen Anwendungen.",
+                  "text": "Dachgarten-Spa mit hängenden Gärten und Stadtblick in Paris.",
                   "category": "family",
                   "coords": [
                         2.385256,
@@ -6088,7 +6088,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Wave",
-                  "text": "Eine öffentliche Badeanlage in Paris Nord.",
+                  "text": "Wellenbad mit künstlichen Wellen und Strömungskanal in Paris.",
                   "category": "family",
                   "coords": [
                         2.317457,
@@ -6097,7 +6097,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-Douches - Rue de Rome",
-                  "text": "Öffentliche Bäder und Duschen in der Rue de Rome in Paris Nord.",
+                  "text": "Öffentliches Badehaus in der Rue de Rome in Paris mit Duschen und Umkleiden.",
                   "category": "family",
                   "coords": [
                         2.322434,
@@ -6151,7 +6151,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "Ein spezieller Kinderbereich und Freizeitpark in Paris Nord.",
+                  "text": "Piraten-thematisierte Kinderzone mit Spielgeräten in Paris.",
                   "category": "family",
                   "coords": [
                         2.389327,
@@ -6387,7 +6387,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Harim Essoltan",
-                  "text": "Hagyományos törökfürdő Paris Nordban.",
+                  "text": "Szultán-tematikájú hammam Párizsban, a Bastille negyed közelében.",
                   "category": "family",
                   "coords": [
                         2.392056,
@@ -6396,7 +6396,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Medina Center",
-                  "text": "Közfürdő és hammam Paris Nordban.",
+                  "text": "Medina stílusú hammam-központ több fürdőhelyiséggel Párizsban.",
                   "category": "family",
                   "coords": [
                         2.384396,
@@ -6405,7 +6405,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam",
-                  "text": "Közfürdő Paris Nordban.",
+                  "text": "Hammam az Iszlám Kultúrák Intézetében Párizsban.",
                   "category": "family",
                   "coords": [
                         2.356267,
@@ -6414,7 +6414,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Jasmin de nuit",
-                  "text": "Közfürdő és gyógyfürdő Paris Nordban.",
+                  "text": "Spa éjszakai jázmin illattal és pihentető kezelésekkel Párizsban.",
                   "category": "family",
                   "coords": [
                         2.340168,
@@ -6423,7 +6423,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin-école Grange-aux-Belles",
-                  "text": "Tanmedence Paris Nordban.",
+                  "text": "Tanmedence a párizsi Grange-aux-Belles negyedben.",
                   "category": "family",
                   "coords": [
                         2.367919,
@@ -6432,7 +6432,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains d'Orient",
-                  "text": "Közfürdő Paris Nordban.",
+                  "text": "Orientális fürdők mozaikokkal és meleg kőpadokkal Párizsban.",
                   "category": "family",
                   "coords": [
                         2.368758,
@@ -6441,7 +6441,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Cent Ciels",
-                  "text": "Közfürdő és relaxációs hely Paris Nordban.",
+                  "text": "Spa tematikus szobákkal, amelyek különböző egeket idéznek, Párizsban.",
                   "category": "family",
                   "coords": [
                         2.372529,
@@ -6450,7 +6450,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Jardins Suspendus",
-                  "text": "Gyógyfürdő Paris Nordban, amely különféle kezeléseket kínál.",
+                  "text": "Tetőkert spa függőkertekkel és városképpel Párizsban.",
                   "category": "family",
                   "coords": [
                         2.385256,
@@ -6459,7 +6459,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Wave",
-                  "text": "Közfürdő Paris Nordban.",
+                  "text": "Hullámmedence mesterséges hullámokkal és áramlási csatornával Párizsban.",
                   "category": "family",
                   "coords": [
                         2.317457,
@@ -6468,7 +6468,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-Douches - Rue de Rome",
-                  "text": "Közfürdők és zuhanyzók a Rue de Rome-on, Paris Nordban.",
+                  "text": "Nyilvános fürdőház a párizsi Rue de Rome-ban zuhanyzókkal és öltözőkkel.",
                   "category": "family",
                   "coords": [
                         2.322434,
@@ -6522,7 +6522,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "Speciális gyerekzóna és vidámpark Paris Nordban.",
+                  "text": "Kalóz-tematikájú gyerekzóna játékokkal Párizsban.",
                   "category": "family",
                   "coords": [
                         2.389327,
@@ -6758,7 +6758,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Harim Essoltan",
-                  "text": "O baie turcească tradițională în Paris Nord.",
+                  "text": "Hamam cu decor tematic sultan în Paris, lângă cartierul Bastilia.",
                   "category": "family",
                   "coords": [
                         2.392056,
@@ -6767,7 +6767,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Medina Center",
-                  "text": "O baie publică și hammam în Paris Nord.",
+                  "text": "Centru de hamam în stil medina cu mai multe încăperi de baie în Paris.",
                   "category": "family",
                   "coords": [
                         2.384396,
@@ -6776,7 +6776,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam",
-                  "text": "O unitate de baie publică în Paris Nord.",
+                  "text": "Hammam în cadrul Institutului Culturilor Islamice din Paris.",
                   "category": "family",
                   "coords": [
                         2.356267,
@@ -6785,7 +6785,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Jasmin de nuit",
-                  "text": "O baie publică și spa în Paris Nord.",
+                  "text": "Spa cu parfum de iasomie de noapte și tratamente relaxante în Paris.",
                   "category": "family",
                   "coords": [
                         2.340168,
@@ -6794,7 +6794,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin-école Grange-aux-Belles",
-                  "text": "O piscină de antrenament în Paris Nord.",
+                  "text": "Bazin de învățare în cartierul Grange-aux-Belles din Paris.",
                   "category": "family",
                   "coords": [
                         2.367919,
@@ -6803,7 +6803,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains d'Orient",
-                  "text": "O baie publică în Paris Nord.",
+                  "text": "Băi orientale cu mozaicuri și bănci de piatră caldă în Paris.",
                   "category": "family",
                   "coords": [
                         2.368758,
@@ -6812,7 +6812,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Cent Ciels",
-                  "text": "O baie publică și spațiu de relaxare în Paris Nord.",
+                  "text": "Spa cu camere tematice care amintesc de diferite ceruri în Paris.",
                   "category": "family",
                   "coords": [
                         2.372529,
@@ -6821,7 +6821,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Jardins Suspendus",
-                  "text": "Un spa în Paris Nord care oferă diverse tratamente.",
+                  "text": "Spa cu grădină suspendată și vedere panoramică în Paris.",
                   "category": "family",
                   "coords": [
                         2.385256,
@@ -6830,7 +6830,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Wave",
-                  "text": "O unitate de baie publică în Paris Nord.",
+                  "text": "Piscină cu valuri artificiale și canal de curent în Paris.",
                   "category": "family",
                   "coords": [
                         2.317457,
@@ -6839,7 +6839,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-Douches - Rue de Rome",
-                  "text": "Băi publice și dușuri pe Rue de Rome în Paris Nord.",
+                  "text": "Baie publică pe Rue de Rome în Paris cu dușuri și vestiare.",
                   "category": "family",
                   "coords": [
                         2.322434,
@@ -6893,7 +6893,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "O zonă dedicată copiilor și parc de distracții în Paris Nord.",
+                  "text": "Zonă pentru copii cu temă pirați și echipamente de joacă în Paris.",
                   "category": "family",
                   "coords": [
                         2.389327,
@@ -7129,7 +7129,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Harim Essoltan",
-                  "text": "A traditional Turkish bath in Paris Nord.",
+                  "text": "Hammam with sultan-themed decor in Paris near the Bastille district.",
                   "category": "family",
                   "coords": [
                         2.392056,
@@ -7138,7 +7138,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Medina Center",
-                  "text": "A public bath and hammam in Paris Nord.",
+                  "text": "Hammam center in medina style with multiple bath rooms in Paris.",
                   "category": "family",
                   "coords": [
                         2.384396,
@@ -7147,7 +7147,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam",
-                  "text": "A public bath facility in Paris Nord.",
+                  "text": "Hammam at the Institute of Islamic Cultures in Paris.",
                   "category": "family",
                   "coords": [
                         2.356267,
@@ -7156,7 +7156,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Spa Jasmin de nuit",
-                  "text": "A public bath and spa in Paris Nord.",
+                  "text": "Spa with night jasmine scent and relaxing treatments in Paris.",
                   "category": "family",
                   "coords": [
                         2.340168,
@@ -7165,7 +7165,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin-école Grange-aux-Belles",
-                  "text": "A training swimming pool in Paris Nord.",
+                  "text": "Teaching pool in the Grange-aux-Belles district of Paris.",
                   "category": "family",
                   "coords": [
                         2.367919,
@@ -7174,7 +7174,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Bains d'Orient",
-                  "text": "A public bath in Paris Nord.",
+                  "text": "Oriental baths with mosaics and warm stone benches in Paris.",
                   "category": "family",
                   "coords": [
                         2.368758,
@@ -7183,7 +7183,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Cent Ciels",
-                  "text": "A public bath and relaxation space in Paris Nord.",
+                  "text": "Spa with themed rooms evoking different skies in Paris.",
                   "category": "family",
                   "coords": [
                         2.372529,
@@ -7192,7 +7192,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Les Jardins Suspendus",
-                  "text": "A spa in Paris Nord offering various treatments.",
+                  "text": "Rooftop garden spa with hanging gardens and city views in Paris.",
                   "category": "family",
                   "coords": [
                         2.385256,
@@ -7201,7 +7201,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Wave",
-                  "text": "A public bath facility in Paris Nord.",
+                  "text": "Wave pool with artificial waves and current channel in Paris.",
                   "category": "family",
                   "coords": [
                         2.317457,
@@ -7210,7 +7210,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-Douches - Rue de Rome",
-                  "text": "Public baths and showers on Rue de Rome in Paris Nord.",
+                  "text": "Public bathhouse on Rue de Rome in Paris with showers and changing rooms.",
                   "category": "family",
                   "coords": [
                         2.322434,
@@ -7264,7 +7264,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "A dedicated kids' zone and theme park in Paris Nord.",
+                  "text": "Pirate-themed kids' zone with play equipment in Paris.",
                   "category": "family",
                   "coords": [
                         2.389327,
@@ -7358,7 +7358,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Follow Park",
-                  "text": "Follow Park in Lille Nord ist ein Ziel für Spiel und Spaß mit der Familie.",
+                  "text": "Park mit beschilderten Pfaden und Suchspielen für Familien in Lille.",
                   "category": "family",
                   "coords": [
                         3.065954,
@@ -7403,7 +7403,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo de Lille",
-                  "text": "Der Lille Zoo ist ein Zoo in Lille Nord. Er ist ein beliebtes Ziel für einen Familienausflug.",
+                  "text": "1950 eröffneter Zoo in Lille.",
                   "category": "family",
                   "coords": [
                         3.045981,
@@ -7468,7 +7468,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Follow Park",
-                  "text": "A Follow Park Lille Nord-ban a játék és a családi szórakozás helyszíne.",
+                  "text": "Park táblás ösvényekkel és keresőjátékokkal családoknak Lille-ben.",
                   "category": "family",
                   "coords": [
                         3.065954,
@@ -7513,7 +7513,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo de Lille",
-                  "text": "A Lille Zoo egy állatkert Lille Nord területén. Népszerű úti cél családi kirándulásokhoz.",
+                  "text": "1950-ben megnyílt állatkert Lille-ben.",
                   "category": "family",
                   "coords": [
                         3.045981,
@@ -7578,7 +7578,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Follow Park",
-                  "text": "Follow Park din Lille Nord este o destinație pentru jocuri și distracție în familie.",
+                  "text": "Parcul cu trasee semnalizate și jocuri de căutare pentru familii în Lille.",
                   "category": "family",
                   "coords": [
                         3.065954,
@@ -7623,7 +7623,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo de Lille",
-                  "text": "Lille Zoo este o grădină zoologică în Lille Nord. Este o destinație populară pentru o ieșire în familie.",
+                  "text": "Grădină zoologică deschisă în 1950 la Lille.",
                   "category": "family",
                   "coords": [
                         3.045981,
@@ -7688,7 +7688,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Follow Park",
-                  "text": "Follow Park in Lille Nord is a destination for games and family fun.",
+                  "text": "Park with signposted trails and scavenger hunts for families in Lille.",
                   "category": "family",
                   "coords": [
                         3.065954,
@@ -7733,7 +7733,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lille Zoo",
-                  "text": "Lille Zoo is a zoo located in Lille Nord. It is a popular destination for a family outing.",
+                  "text": "Zoo opened in 1950 in Lille.",
                   "category": "family",
                   "coords": [
                         3.045981,
@@ -7809,7 +7809,7 @@ export const franceCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Silence",
-                  "text": "Das öffentliche Bad Silence befindet sich in Grenoble Sud.",
+                  "text": "Stiller Ruheraum mit Klangtherapie und Dämmerlicht in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -7818,7 +7818,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "piscine tardy",
-                  "text": "Das Schwimmbad piscine tardy befindet sich in Grenoble Sud.",
+                  "text": "Schwimmbad mit verlängerten Öffnungszeiten am Abend in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.71023,
@@ -7827,7 +7827,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "Das öffentliche Bad Hamman café befindet sich in Grenoble Sud.",
+                  "text": "Café mit angeschlossenem Hammam und Teeauswahl in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -7836,7 +7836,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "Das öffentliche Bad Neroli befindet sich in Grenoble Sud.",
+                  "text": "Spa mit Behandlungen auf Basis von Neroli-Öl in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -7845,7 +7845,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "Das Schwimmbad Grand bassin befindet sich in Grenoble Sud.",
+                  "text": "Großes Schwimmbecken mit Sportbahnen in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -7854,7 +7854,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Petit Bassin",
-                  "text": "Das Schwimmbad Petit Bassin befindet sich in Grenoble Sud.",
+                  "text": "Kleines Kinderbecken mit flachem Wasser in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.754082,
@@ -7865,7 +7865,7 @@ export const franceCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Silence",
-                  "text": "A Silence közfürdő Grenoble Sudban található.",
+                  "text": "Csendes pihenőszoba hangterápiával és szürkületi fénnyel Grenoble-ban.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -7874,7 +7874,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "piscine tardy",
-                  "text": "A piscine tardy úszómedence Grenoble Sudban található.",
+                  "text": "Hosszabbított nyitva tartású uszoda esténként Grenoble-ban.",
                   "category": "family",
                   "coords": [
                         5.71023,
@@ -7883,7 +7883,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "A Hamman café közfürdő Grenoble Sudban található.",
+                  "text": "Kávézó hammammal és teaválasztékkal Grenoble-ban.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -7892,7 +7892,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "A Neroli közfürdő Grenoble Sudban található.",
+                  "text": "Spa neroli-olaj alapú kezelésekkel Grenoble-ban.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -7901,7 +7901,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "A Grand bassin úszómedence Grenoble Sudban található.",
+                  "text": "Nagy úszómedence sportpályákkal Grenoble-ban.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -7910,7 +7910,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Petit Bassin",
-                  "text": "A Petit Bassin úszómedence Grenoble Sudban található.",
+                  "text": "Kis gyermekmedence sekély vízzel Grenoble-ban.",
                   "category": "family",
                   "coords": [
                         5.754082,
@@ -7921,7 +7921,7 @@ export const franceCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Silence",
-                  "text": "Baia publică Silence este situată în Grenoble Sud.",
+                  "text": "Cameră de relaxare tăcută cu terapie sonoră și lumină crepusculară în Grenoble.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -7930,7 +7930,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "piscine tardy",
-                  "text": "Piscina piscine tardy este situată în Grenoble Sud.",
+                  "text": "Piscină cu program prelungit seara în Grenoble.",
                   "category": "family",
                   "coords": [
                         5.71023,
@@ -7939,7 +7939,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "Baia publică Hamman café este situată în Grenoble Sud.",
+                  "text": "Cafenea cu hamam atașat și selecție de ceaiuri în Grenoble.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -7948,7 +7948,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "Baia publică Neroli este situată în Grenoble Sud.",
+                  "text": "Spa cu tratamente pe bază de ulei de neroli în Grenoble.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -7957,7 +7957,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "Piscina Grand bassin este situată în Grenoble Sud.",
+                  "text": "Bazin mare de înot cu culoare de sport în Grenoble.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -7966,7 +7966,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Petit Bassin",
-                  "text": "Piscina Petit Bassin este situată în Grenoble Sud.",
+                  "text": "Bazin mic pentru copii cu apă puțin adâncă în Grenoble.",
                   "category": "family",
                   "coords": [
                         5.754082,
@@ -7977,7 +7977,7 @@ export const franceCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Silence",
-                  "text": "The public bath Silence is located in Grenoble Sud.",
+                  "text": "Quiet relaxation room with sound therapy and dim lighting in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -7986,7 +7986,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "piscine tardy",
-                  "text": "The swimming pool piscine tardy is located in Grenoble Sud.",
+                  "text": "Swimming pool with extended evening hours in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.71023,
@@ -7995,7 +7995,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "The public bath Hamman café is located in Grenoble Sud.",
+                  "text": "Café with attached hammam and tea selection in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -8004,7 +8004,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "The public bath Neroli is located in Grenoble Sud.",
+                  "text": "Spa with neroli oil-based treatments in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -8013,7 +8013,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "The swimming pool Grand bassin is located in Grenoble Sud.",
+                  "text": "Large swimming pool with sports lanes in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -8022,7 +8022,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Petit Bassin",
-                  "text": "The swimming pool Petit Bassin is located in Grenoble Sud.",
+                  "text": "Small children's pool with shallow water in Grenoble.",
                   "category": "family",
                   "coords": [
                         5.754082,
@@ -8143,7 +8143,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Quintessia Hôtel & Spa - Nantes Orvault",
-                  "text": "Ein Hotel und Spa in Nantes Orvault.",
+                  "text": "Hotel- und Spa-Resort in Orvault bei Nantes mit Innen- und Außenpool.",
                   "category": "family",
                   "coords": [
                         -1.589677,
@@ -8152,7 +8152,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire Honduras",
-                  "text": "Ein Planschbecken für Kinder in Nantes Nord.",
+                  "text": "Planschbecken mit Honduras-Thema und Palmen in Nantes.",
                   "category": "family",
                   "coords": [
                         -1.564525,
@@ -8161,7 +8161,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "La ménagerie",
-                  "text": "Ein kleiner Zoo oder eine Menagerie in Nantes Nord.",
+                  "text": "Kleiner Zoo mit Streichelgehege in Nantes.",
                   "category": "family",
                   "coords": [
                         -1.541165,
@@ -8244,7 +8244,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Quintessia Hôtel & Spa - Nantes Orvault",
-                  "text": "Szálloda és gyógyfürdő Nantes Orvault-ban.",
+                  "text": "Szálloda- és spa-komplexum Orvault-ban, Nantes mellett, fedett és szabadtéri medencével.",
                   "category": "family",
                   "coords": [
                         -1.589677,
@@ -8253,7 +8253,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire Honduras",
-                  "text": "Pancsolómedence gyerekeknek Nantes Nordban.",
+                  "text": "Honduras-tematikájú pancsolómedence pálmafákkal Nantes-ban.",
                   "category": "family",
                   "coords": [
                         -1.564525,
@@ -8262,7 +8262,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "La ménagerie",
-                  "text": "Kis állatkert vagy menazséria Nantes Nordban.",
+                  "text": "Kis állatkert simogatóval Nantes-ban.",
                   "category": "family",
                   "coords": [
                         -1.541165,
@@ -8345,7 +8345,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Quintessia Hôtel & Spa - Nantes Orvault",
-                  "text": "Un hotel și spa situat în Nantes Orvault.",
+                  "text": "Complex hotelier și spa în Orvault lângă Nantes cu piscină interioară și exterioară.",
                   "category": "family",
                   "coords": [
                         -1.589677,
@@ -8354,7 +8354,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire Honduras",
-                  "text": "O piscină pentru copii în Nantes Nord.",
+                  "text": "Bazin de stropit cu temă Honduras și palmieri în Nantes.",
                   "category": "family",
                   "coords": [
                         -1.564525,
@@ -8363,7 +8363,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "La ménagerie",
-                  "text": "O mică grădină zoologică sau menajerie în Nantes Nord.",
+                  "text": "Grădină zoologică mică cu zonă de mângâiat animale în Nantes.",
                   "category": "family",
                   "coords": [
                         -1.541165,
@@ -8446,7 +8446,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Quintessia Hôtel & Spa - Nantes Orvault",
-                  "text": "A hotel and spa located in Nantes Orvault.",
+                  "text": "Hotel and spa resort in Orvault near Nantes with indoor and outdoor pools.",
                   "category": "family",
                   "coords": [
                         -1.589677,
@@ -8455,7 +8455,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire Honduras",
-                  "text": "A paddling pool for children in Nantes Nord.",
+                  "text": "Paddling pool with Honduras theme and palm trees in Nantes.",
                   "category": "family",
                   "coords": [
                         -1.564525,
@@ -8464,7 +8464,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "La ménagerie",
-                  "text": "A small zoo or menagerie in Nantes Nord.",
+                  "text": "Small zoo with petting area in Nantes.",
                   "category": "family",
                   "coords": [
                         -1.541165,
@@ -8531,7 +8531,7 @@ export const franceCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pataugeoire",
-                  "text": "Die Pataugeoire ist ein Schwimmbad in Perpignan Nord.",
+                  "text": "Planschbecken für Kleinkinder in Perpignan.",
                   "category": "family",
                   "coords": [
                         2.904126,
@@ -8551,7 +8551,7 @@ export const franceCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pataugeoire",
-                  "text": "A Pataugeoire egy uszoda Perpignan Nord területén.",
+                  "text": "Pancsolómedence kisgyerekeknek Perpignan-ban.",
                   "category": "family",
                   "coords": [
                         2.904126,
@@ -8571,7 +8571,7 @@ export const franceCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pataugeoire",
-                  "text": "Pataugeoire este un bazin de înot în Perpignan Nord.",
+                  "text": "Bazin de stropit pentru copii mici în Perpignan.",
                   "category": "family",
                   "coords": [
                         2.904126,
@@ -8591,7 +8591,7 @@ export const franceCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pataugeoire",
-                  "text": "Pataugeoire is a swimming pool located in Perpignan Nord.",
+                  "text": "Paddling pool for toddlers in Perpignan.",
                   "category": "family",
                   "coords": [
                         2.904126,
@@ -8984,7 +8984,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Familienbecken",
-                  "text": "Das Bassin familial ist ein Schwimmbad in Mulhouse Centre.",
+                  "text": "Familienbecken mit flachem Einstieg und Spielbereich in Mulhouse.",
                   "category": "family",
                   "coords": [
                         7.319876,
@@ -8993,7 +8993,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Sprungturm",
-                  "text": "Das Plongeoir ist ein Schwimmbad in Mulhouse Centre.",
+                  "text": "Sprungturm mit 1-m-, 3-m- und 5-m-Brettern in Mulhouse.",
                   "category": "family",
                   "coords": [
                         7.319248,
@@ -9058,7 +9058,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin familial",
-                  "text": "A Bassin familial egy uszoda Mulhouse Centre területén.",
+                  "text": "Családi medence sekély bejárattal és játszótérrel Mulhouse-ban.",
                   "category": "family",
                   "coords": [
                         7.319876,
@@ -9067,7 +9067,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plongeoir",
-                  "text": "A Plongeoir egy uszoda Mulhouse Centre területén.",
+                  "text": "Ugrótorony 1 m, 3 m és 5 m-es deszkákkal Mulhouse-ban.",
                   "category": "family",
                   "coords": [
                         7.319248,
@@ -9132,7 +9132,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin familial",
-                  "text": "Bassin familial este un bazin de înot situat în Mulhouse Centre.",
+                  "text": "Bazin familial cu intrare în apă puțin adâncă și zonă de joacă în Mulhouse.",
                   "category": "family",
                   "coords": [
                         7.319876,
@@ -9141,7 +9141,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plongeoir",
-                  "text": "Plongeoir este un bazin de înot situat în Mulhouse Centre.",
+                  "text": "Trambulină cu platforme de 1 m, 3 m și 5 m în Mulhouse.",
                   "category": "family",
                   "coords": [
                         7.319248,
@@ -9206,7 +9206,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin familial",
-                  "text": "Bassin familial is a swimming pool located in Mulhouse Centre.",
+                  "text": "Family pool with shallow entry and play area in Mulhouse.",
                   "category": "family",
                   "coords": [
                         7.319876,
@@ -9215,7 +9215,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plongeoir",
-                  "text": "Plongeoir is a swimming pool located in Mulhouse Centre.",
+                  "text": "Diving tower with 1m, 3m, and 5m boards in Mulhouse.",
                   "category": "family",
                   "coords": [
                         7.319248,
@@ -9376,7 +9376,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "Das Aquarium Georges BRESSE befindet sich in Besançon Sud.",
+                  "text": "Aquarium mit Süß- und Salzwasserbecken, benannt nach Georges Bresse, in Besançon.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -9385,7 +9385,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "Der Zoo Magasin à poudre befindet sich in Besançon Sud.",
+                  "text": "Historisches Pulvermagazin aus dem 19. Jahrhundert in Besançon, heute für Veranstaltungen genutzt.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -9394,7 +9394,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "Der Jardin zoologique de la Citadelle de Besançon befindet sich in Besançon Sud.",
+                  "text": "Zoo in der Zitadelle von Besançon, einem UNESCO-Weltkulturerbe.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -9455,7 +9455,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "A Georges BRESSE akvárium Besançon Sudban található.",
+                  "text": "Akvárium édes- és sósvízi medencékkel, Georges Bresséről elnevezve, Besançonban.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -9464,7 +9464,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "A Magasin à poudre állatkert Besançon Sudban található.",
+                  "text": "19. századi lőporraktár Besançonban, ma rendezvényeknek ad otthont.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -9473,7 +9473,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "A Jardin zoologique de la Citadelle de Besançon állatkert Besançon Sudban található.",
+                  "text": "Állatkert a besançoni citadellában, amely az UNESCO világörökség része.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -9534,7 +9534,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "Acvariul Georges BRESSE este situat în Besancon Sud.",
+                  "text": "Acvariu cu bazine de apă dulce și sărată, numit după Georges Bresse, în Besançon.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -9543,7 +9543,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "Grădina zoologică Magasin à poudre este situată în Besancon Sud.",
+                  "text": "Fost depozit de pulbere din secolul al XIX-lea în Besançon, acum utilizat pentru evenimente.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -9552,7 +9552,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "Grădina zoologică de la Citadelle de Besançon este situată în Besancon Sud.",
+                  "text": "Grădină zoologică în citadela din Besançon, parte a patrimoniului UNESCO.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -9613,7 +9613,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium Georges BRESSE",
-                  "text": "The Georges BRESSE aquarium is located in Besancon Sud.",
+                  "text": "Aquarium with freshwater and saltwater tanks, named after Georges Bresse, in Besançon.",
                   "category": "family",
                   "coords": [
                         6.03446,
@@ -9622,7 +9622,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Magasin à poudre",
-                  "text": "The Magasin à poudre zoo is located in Besancon Sud.",
+                  "text": "19th-century powder magazine in Besançon, now used for events.",
                   "category": "family",
                   "coords": [
                         6.03574,
@@ -9631,7 +9631,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin zoologique de la Citadelle de Besançon",
-                  "text": "The Jardin zoologique de la Citadelle de Besançon zoo is located in Besancon Sud.",
+                  "text": "Zoo within the Citadelle of Besançon, a UNESCO World Heritage site.",
                   "category": "family",
                   "coords": [
                         6.035421,
@@ -10100,7 +10100,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Plongée des Docks",
-                  "text": "Der Wasserpark Scuba center befindet sich in Brest Centre.",
+                  "text": "Tauchzentrum mit Kursen und Ausrüstungsverleih in Brest.",
                   "category": "family",
                   "coords": [
                         -4.491125,
@@ -10109,7 +10109,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Océanopolis",
-                  "text": "Das Aquarium Océanopolis befindet sich in Brest Centre.",
+                  "text": "Meereserlebnispark mit Aquarien, Robben und interaktiven Ausstellungen in Brest.",
                   "category": "family",
                   "coords": [
                         -4.436154,
@@ -10210,7 +10210,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Plongée des Docks",
-                  "text": "A Scuba center vízi park Brest központjában található.",
+                  "text": "Búvárközpont tanfolyamokkal és felszereléskölcsönzéssel Brestben.",
                   "category": "family",
                   "coords": [
                         -4.491125,
@@ -10219,7 +10219,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Océanopolis",
-                  "text": "Az Océanopolis akvárium Brest központjában található.",
+                  "text": "Tengeri élménypark akváriumokkal, fókákkal és interaktív kiállításokkal Brestben.",
                   "category": "family",
                   "coords": [
                         -4.436154,
@@ -10320,7 +10320,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Espace Plongée des Docks",
-                  "text": "Parcul acvatic Scuba center este situat în Brest Centre.",
+                  "text": "Centru de scufundări cu cursuri și închiriere de echipament în Brest.",
                   "category": "family",
                   "coords": [
                         -4.491125,
@@ -10329,7 +10329,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Océanopolis",
-                  "text": "Acvariul Océanopolis este situat în Brest Centre.",
+                  "text": "Parcul marin Océanopolis cu acvarii, foci și expoziții interactive în Brest.",
                   "category": "family",
                   "coords": [
                         -4.436154,
@@ -10430,7 +10430,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Scuba center",
-                  "text": "The water park Scuba center is located in Brest Centre.",
+                  "text": "Scuba diving center with courses and equipment rental in Brest.",
                   "category": "family",
                   "coords": [
                         -4.491125,
@@ -10439,7 +10439,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Océanopolis",
-                  "text": "The Océanopolis aquarium is located in Brest Centre.",
+                  "text": "Ocean discovery park Océanopolis with aquariums, seals, and interactive exhibits in Brest.",
                   "category": "family",
                   "coords": [
                         -4.436154,
@@ -11003,7 +11003,7 @@ export const franceCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mini ferme",
-                  "text": "Der Zoo Mini ferme befindet sich in Tours Nord.",
+                  "text": "Kleiner Bauernhof mit Haustieren zum Streicheln in Tours Bis.",
                   "category": "family",
                   "coords": [
                         0.666921,
@@ -11012,7 +11012,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Flamants du Chili",
-                  "text": "Der Zoo Flamants du Chili befindet sich in Tours Nord.",
+                  "text": "Chilenische Flamingos in einem Teich in Tours Bis.",
                   "category": "family",
                   "coords": [
                         0.666864,
@@ -11023,7 +11023,7 @@ export const franceCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mini ferme",
-                  "text": "A Mini ferme állatkert Tours Nordban található.",
+                  "text": "Kis gazdaság háziállatokkal simogatásra Tours Bis-ben.",
                   "category": "family",
                   "coords": [
                         0.666921,
@@ -11032,7 +11032,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Flamants du Chili",
-                  "text": "A Flamants du Chili állatkert Tours Nordban található.",
+                  "text": "Chilei flamingók egy tóban Tours Bis-ben.",
                   "category": "family",
                   "coords": [
                         0.666864,
@@ -11043,7 +11043,7 @@ export const franceCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mini ferme",
-                  "text": "Grădina zoologică Mini ferme este situată în Tours Nord.",
+                  "text": "O mică fermă cu animale domestice de mângâiat în Tours Bis.",
                   "category": "family",
                   "coords": [
                         0.666921,
@@ -11052,7 +11052,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Flamants du Chili",
-                  "text": "Grădina zoologică Flamants du Chili este situată în Tours Nord.",
+                  "text": "Flamingi chilieni într-un iaz în Tours Bis.",
                   "category": "family",
                   "coords": [
                         0.666864,
@@ -11063,7 +11063,7 @@ export const franceCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mini ferme",
-                  "text": "The Mini ferme zoo is located in Tours Nord.",
+                  "text": "A small petting farm with domestic animals in Tours Bis.",
                   "category": "family",
                   "coords": [
                         0.666921,
@@ -11072,7 +11072,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Flamants du Chili",
-                  "text": "The Flamants du Chili zoo is located in Tours Nord.",
+                  "text": "Chilean flamingos in a pond in Tours Bis.",
                   "category": "family",
                   "coords": [
                         0.666864,
@@ -11923,7 +11923,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin Léo Lagrange",
-                  "text": "Das Grand bassin Léo Lagrange ist ein Schwimmbad in Toulouse Sud.",
+                  "text": "Großes Schwimmbecken nach Léo Lagrange benannt in Toulouse Süd.",
                   "category": "family",
                   "coords": [
                         1.45487,
@@ -11932,7 +11932,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin Castex",
-                  "text": "Das Bassin Castex ist ein Schwimmbad in Toulouse Sud.",
+                  "text": "Schwimmbecken namens Castex in Toulouse Süd.",
                   "category": "family",
                   "coords": [
                         1.434334,
@@ -11941,7 +11941,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "Die Pataugeoire ist ein Schwimmbad in Toulouse Sud.",
+                  "text": "Planschbecken für Kinder in Toulouse Süd.",
                   "category": "family",
                   "coords": [
                         1.436583,
@@ -12011,7 +12011,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin Léo Lagrange",
-                  "text": "A Grand bassin Léo Lagrange egy uszoda Toulouse Sud területén.",
+                  "text": "Léo Lagrange-ról elnevezett nagy medence Toulouse Délben.",
                   "category": "family",
                   "coords": [
                         1.45487,
@@ -12020,7 +12020,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin Castex",
-                  "text": "A Bassin Castex egy uszoda Toulouse Sud területén.",
+                  "text": "Castex nevű medence Toulouse Délben.",
                   "category": "family",
                   "coords": [
                         1.434334,
@@ -12029,7 +12029,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "A Pataugeoire egy uszoda Toulouse Sud területén.",
+                  "text": "Gyermek pancsolómedence Toulouse Délben.",
                   "category": "family",
                   "coords": [
                         1.436583,
@@ -12099,7 +12099,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin Léo Lagrange",
-                  "text": "Grand bassin Léo Lagrange este un bazin de înot situat în Toulouse Sud.",
+                  "text": "Bazin mare de înot numit după Léo Lagrange în Toulouse Sud.",
                   "category": "family",
                   "coords": [
                         1.45487,
@@ -12108,7 +12108,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin Castex",
-                  "text": "Bassin Castex este un bazin de înot situat în Toulouse Sud.",
+                  "text": "Bazinul Castex în Toulouse Sud.",
                   "category": "family",
                   "coords": [
                         1.434334,
@@ -12117,7 +12117,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "Pataugeoire este un bazin de înot în Toulouse Sud.",
+                  "text": "Bazin de joacă pentru copii în Toulouse Sud.",
                   "category": "family",
                   "coords": [
                         1.436583,
@@ -12187,7 +12187,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin Léo Lagrange",
-                  "text": "Grand bassin Léo Lagrange is a swimming pool located in Toulouse Sud.",
+                  "text": "Large swimming basin named after Léo Lagrange in Toulouse South.",
                   "category": "family",
                   "coords": [
                         1.45487,
@@ -12196,7 +12196,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin Castex",
-                  "text": "Bassin Castex is a swimming pool located in Toulouse Sud.",
+                  "text": "The Castex swimming basin in Toulouse South.",
                   "category": "family",
                   "coords": [
                         1.434334,
@@ -12205,7 +12205,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "Pataugeoire is a swimming pool located in Toulouse Sud.",
+                  "text": "A children’s paddling pool in Toulouse South.",
                   "category": "family",
                   "coords": [
                         1.436583,
@@ -12442,7 +12442,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine",
-                  "text": "Das Schwimmbad Piscine befindet sich in Nizza Süd.",
+                  "text": "Schwimmbad in Nizza Süd.",
                   "category": "family",
                   "coords": [
                         7.216138,
@@ -12478,7 +12478,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Cocoon Beach",
-                  "text": "Cocoon Beach ist ein Strandabschnitt in Nice-Sud am Mittelmeer.",
+                  "text": "Sandstrand mit entspannter Atmosphäre in Nizza Süd.",
                   "category": "recreational",
                   "coords": [
                         7.24178,
@@ -12487,7 +12487,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bambou Plage",
-                  "text": "Bambou Plage ist ein Strand in Nice-Sud an der Côte d'Azur.",
+                  "text": "Strand in Nizza an der Côte d’Azur.",
                   "category": "recreational",
                   "coords": [
                         7.244237,
@@ -12496,7 +12496,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Beach",
-                  "text": "Blue Beach ist ein zentraler Strandabschnitt in Nice-Sud.",
+                  "text": "Blauer Sandstrand am Mittelmeer in Nizza Süd.",
                   "category": "recreational",
                   "coords": [
                         7.259235,
@@ -12505,7 +12505,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des chiens Brigitte Bardot",
-                  "text": "Brigitte Bardot Beach ist ein Strand in Nice-Sud am Mittelmeer.",
+                  "text": "Nach Brigitte Bardot benannter Strand an der Côte d'Azur, Eröffnung 2026.",
                   "category": "recreational",
                   "coords": [
                         7.243139,
@@ -12638,7 +12638,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine",
-                  "text": "A Piscine úszómedence Nizza déli részén található.",
+                  "text": "Uszoda Nizza Délben.",
                   "category": "family",
                   "coords": [
                         7.216138,
@@ -12674,7 +12674,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Cocoon Beach",
-                  "text": "Cocoon Beach egy tengerparti szakasz Nice-Sud területén, a Földközi-tengernél.",
+                  "text": "Homokos strand nyugodt légkörrel Nizza Délben.",
                   "category": "recreational",
                   "coords": [
                         7.24178,
@@ -12683,7 +12683,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bambou Plage",
-                  "text": "Bambou Plage egy strand Nice-Sud területén, a francia Riviérán.",
+                  "text": "Strand Nizzában a Côte d’Azur-on.",
                   "category": "recreational",
                   "coords": [
                         7.244237,
@@ -12692,7 +12692,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Beach",
-                  "text": "Blue Beach egy központi strandrész Nice-Sud területén.",
+                  "text": "Kék homokos strand a Földközi-tengernél Nizza Délben.",
                   "category": "recreational",
                   "coords": [
                         7.259235,
@@ -12701,7 +12701,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des chiens Brigitte Bardot",
-                  "text": "Brigitte Bardot Beach egy strand Nice-Sud területén, a Földközi-tengernél.",
+                  "text": "Brigitte Bardotról elnevezett strand a Francia Riviérán, 2026-ban nyílik.",
                   "category": "recreational",
                   "coords": [
                         7.243139,
@@ -12834,7 +12834,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine",
-                  "text": "Piscina Piscine este situată în Nice Sud.",
+                  "text": "Piscină în Nice Sud.",
                   "category": "family",
                   "coords": [
                         7.216138,
@@ -12870,7 +12870,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Cocoon Beach",
-                  "text": "Cocoon Beach este o porțiune de plajă din Nice-Sud, la Marea Mediterană.",
+                  "text": "Plajă nisipoasă cu atmosferă relaxată în Nice Sud.",
                   "category": "recreational",
                   "coords": [
                         7.24178,
@@ -12879,7 +12879,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bambou Plage",
-                  "text": "Bambou Plage este o plajă din Nice-Sud, pe Coasta de Azur.",
+                  "text": "Plajă în Nisa pe Coasta de Azur.",
                   "category": "recreational",
                   "coords": [
                         7.244237,
@@ -12888,7 +12888,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Beach",
-                  "text": "Blue Beach este o secțiune centrală de plajă din Nice-Sud.",
+                  "text": "Plajă de nisip cu ape albastre în Nice Sud.",
                   "category": "recreational",
                   "coords": [
                         7.259235,
@@ -12897,7 +12897,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des chiens Brigitte Bardot",
-                  "text": "Brigitte Bardot Beach este o plajă din Nice-Sud, la Marea Mediterană.",
+                  "text": "Plajă numită după Brigitte Bardot pe Coasta de Azur, deschidere în 2026.",
                   "category": "recreational",
                   "coords": [
                         7.243139,
@@ -13030,7 +13030,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine",
-                  "text": "The swimming pool Piscine is located in Nice Sud.",
+                  "text": "A swimming pool in Nice South.",
                   "category": "family",
                   "coords": [
                         7.216138,
@@ -13066,7 +13066,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Cocoon Beach",
-                  "text": "Cocoon Beach is a beach area in Nice-Sud by the Mediterranean Sea.",
+                  "text": "A sandy beach with a relaxed cocoon-like vibe in Nice South.",
                   "category": "recreational",
                   "coords": [
                         7.24178,
@@ -13075,7 +13075,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bambou Plage",
-                  "text": "Bambou Plage is a beach in Nice-Sud on the French Riviera.",
+                  "text": "Beach in Nice on the Côte d’Azur.",
                   "category": "recreational",
                   "coords": [
                         7.244237,
@@ -13084,7 +13084,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Beach",
-                  "text": "Blue Beach is a central beach section in Nice-Sud.",
+                  "text": "Blue Beach, a sandy beach with azure waters in Nice South.",
                   "category": "recreational",
                   "coords": [
                         7.259235,
@@ -13093,7 +13093,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Brigitte Bardot Beach",
-                  "text": "Brigitte Bardot Beach is a beach in Nice-Sud by the Mediterranean Sea.",
+                  "text": "Beach named after Brigitte Bardot on the French Riviera, opening in 2026.",
                   "category": "recreational",
                   "coords": [
                         7.243139,
@@ -14686,7 +14686,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "David",
-                  "text": "Der Schwimmbereich David befindet sich in Marseille Sud.",
+                  "text": "Familienbereich namens David in Marseille Süd.",
                   "category": "family",
                   "coords": [
                         5.371488,
@@ -14695,7 +14695,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Huveaune",
-                  "text": "L'Huveaune ist ein Schwimmbereich in Marseille Sud.",
+                  "text": "Der Fluss Huveaune, ein Naherholungsgebiet in Marseille Süd.",
                   "category": "family",
                   "coords": [
                         5.374568,
@@ -14713,7 +14713,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Vieille Chapelle",
-                  "text": "Plage de la Vieille Chapelle ist ein Strand in Marseille-Sud.",
+                  "text": "Strand nahe einer alten Kapelle in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.372591,
@@ -14731,7 +14731,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Sablettes",
-                  "text": "Plage des Sablettes ist ein Strand in Marseille-Sud.",
+                  "text": "Sandstrand („Sablettes“) in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.360423,
@@ -14740,7 +14740,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Bonne Brise",
-                  "text": "Plage de la Bonne Brise ist ein Strand in Marseille-Sud.",
+                  "text": "Strand mit guter Brise in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.359937,
@@ -14749,7 +14749,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Phocéens",
-                  "text": "Plage des Phocéens ist ein Strand in Marseille-Sud.",
+                  "text": "Strand benannt nach den phokäischen Siedlern in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.361717,
@@ -14758,7 +14758,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Pointe Rouge",
-                  "text": "Plage de la Pointe Rouge ist der größte Sandstrand in Marseille.",
+                  "text": "Strand an der roten Spitze (Pointe Rouge) in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.371068,
@@ -14767,7 +14767,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Bonneveine",
-                  "text": "Plage de Bonneveine ist ein Strand in Marseille-Sud.",
+                  "text": "Strand im Stadtteil Bonneveine in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.37383,
@@ -14776,7 +14776,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Borély",
-                  "text": "Plage de Borély ist ein Strand in Marseille-Sud.",
+                  "text": "Strand angrenzend an den Borély-Park in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.375065,
@@ -14785,7 +14785,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Batterie",
-                  "text": "Plage de la Batterie ist ein Strand in Marseille-Sud.",
+                  "text": "Strand an einer ehemaligen Batteriestellung in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.362536,
@@ -14794,7 +14794,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage du Bain des Dames",
-                  "text": "Plage du Bain des Dames ist ein Strand in Marseille-Sud.",
+                  "text": "Historischer Frauenbadestrand in Marseille Süd.",
                   "category": "recreational",
                   "coords": [
                         5.362456,
@@ -14909,7 +14909,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "David",
-                  "text": "A David fürdőhely Marseille Sud-ban található.",
+                  "text": "David nevű családi terület Marseille Délben.",
                   "category": "family",
                   "coords": [
                         5.371488,
@@ -14918,7 +14918,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Huveaune",
-                  "text": "A L'Huveaune egy fürdőhely Marseille Sud-ban.",
+                  "text": "A Huveaune folyó, szabadidős terület Marseille Délben.",
                   "category": "family",
                   "coords": [
                         5.374568,
@@ -14936,7 +14936,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Vieille Chapelle",
-                  "text": "A Plage de la Vieille Chapelle egy strand Marseille-Sud városában.",
+                  "text": "Strand egy régi kápolna közelében Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.372591,
@@ -14954,7 +14954,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Sablettes",
-                  "text": "A Plage des Sablettes egy strand Marseille-Sud városában.",
+                  "text": "Homokos strand („Sablettes”) Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.360423,
@@ -14963,7 +14963,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Bonne Brise",
-                  "text": "A Plage de la Bonne Brise egy strand Marseille-Sud városában.",
+                  "text": "Strand jó szellővel Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.359937,
@@ -14972,7 +14972,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Phocéens",
-                  "text": "A Plage des Phocéens egy strand Marseille-Sud városában.",
+                  "text": "Strand, amely a phókai telepesekről kapta a nevét Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.361717,
@@ -14981,7 +14981,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Pointe Rouge",
-                  "text": "A Plage de la Pointe Rouge Marseille legnagyobb homokos strandja.",
+                  "text": "Strand a Vörös-foknál (Pointe Rouge) Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.371068,
@@ -14990,7 +14990,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Bonneveine",
-                  "text": "A Plage de Bonneveine egy strand Marseille-Sud városában.",
+                  "text": "Strand a Bonneveine negyedben Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.37383,
@@ -14999,7 +14999,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Borély",
-                  "text": "A Plage de Borély egy strand Marseille-Sud városában.",
+                  "text": "Strand a Borély park mellett Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.375065,
@@ -15008,7 +15008,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Batterie",
-                  "text": "A Plage de la Batterie egy strand Marseille-Sud városában.",
+                  "text": "Strand egy egykori ütegállásnál Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.362536,
@@ -15017,7 +15017,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage du Bain des Dames",
-                  "text": "A Plage du Bain des Dames egy strand Marseille-Sud városában.",
+                  "text": "Történelmi női strand Marseille Délben.",
                   "category": "recreational",
                   "coords": [
                         5.362456,
@@ -15132,7 +15132,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "David",
-                  "text": "Zona de înot David este situată în Marseille Sud.",
+                  "text": "Zonă familială numită David în Marseille Sud.",
                   "category": "family",
                   "coords": [
                         5.371488,
@@ -15141,7 +15141,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Huveaune",
-                  "text": "L'Huveaune este o zonă de înot din Marseille Sud.",
+                  "text": "Râul Huveaune, zonă de agrement în Marseille Sud.",
                   "category": "family",
                   "coords": [
                         5.374568,
@@ -15159,7 +15159,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Vieille Chapelle",
-                  "text": "Plage de la Vieille Chapelle este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă lângă o veche capelă în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.372591,
@@ -15177,7 +15177,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Sablettes",
-                  "text": "Plage des Sablettes este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă nisipoasă („Sablettes”) în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.360423,
@@ -15186,7 +15186,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Bonne Brise",
-                  "text": "Plage de la Bonne Brise este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă cu briză plăcută în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.359937,
@@ -15195,7 +15195,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Phocéens",
-                  "text": "Plage des Phocéens este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă numită după coloniștii foceni în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.361717,
@@ -15204,7 +15204,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Pointe Rouge",
-                  "text": "Plage de la Pointe Rouge este cea mai mare plajă cu nisip din Marsilia.",
+                  "text": "Plajă la vârful roșu (Pointe Rouge) în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.371068,
@@ -15213,7 +15213,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Bonneveine",
-                  "text": "Plage de Bonneveine este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă în cartierul Bonneveine în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.37383,
@@ -15222,7 +15222,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Borély",
-                  "text": "Plage de Borély este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă adiacentă parcului Borély în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.375065,
@@ -15231,7 +15231,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Batterie",
-                  "text": "Plage de la Batterie este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă la o fostă baterie de artilerie în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.362536,
@@ -15240,7 +15240,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage du Bain des Dames",
-                  "text": "Plage du Bain des Dames este o plajă situată în Marseille-Sud.",
+                  "text": "Plajă istorică pentru doamne în Marseille Sud.",
                   "category": "recreational",
                   "coords": [
                         5.362456,
@@ -15355,7 +15355,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "David",
-                  "text": "The David swimming area is located in Marseille Sud.",
+                  "text": "A family-friendly area named David in Marseille South.",
                   "category": "family",
                   "coords": [
                         5.371488,
@@ -15364,7 +15364,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "L'Huveaune",
-                  "text": "L'Huveaune is a swimming area in Marseille Sud.",
+                  "text": "The Huveaune river, a recreational area in Marseille South.",
                   "category": "family",
                   "coords": [
                         5.374568,
@@ -15382,7 +15382,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Vieille Chapelle",
-                  "text": "Plage de la Vieille Chapelle is a beach located in Marseille-Sud.",
+                  "text": "A beach next to an old chapel in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.372591,
@@ -15400,7 +15400,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Sablettes",
-                  "text": "Plage des Sablettes is a beach located in Marseille-Sud.",
+                  "text": "Sandy beach (Sablettes means little sands) in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.360423,
@@ -15409,7 +15409,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Bonne Brise",
-                  "text": "Plage de la Bonne Brise is a beach located in Marseille-Sud.",
+                  "text": "A beach known for its pleasant breeze in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.359937,
@@ -15418,7 +15418,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage des Phocéens",
-                  "text": "Plage des Phocéens is a beach located in Marseille-Sud.",
+                  "text": "A beach named after the Phocaean settlers in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.361717,
@@ -15427,7 +15427,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Pointe Rouge",
-                  "text": "Plage de la Pointe Rouge is the largest sandy beach in Marseille.",
+                  "text": "A beach at the red point (Pointe Rouge) in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.371068,
@@ -15436,7 +15436,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Bonneveine",
-                  "text": "Plage de Bonneveine is a beach located in Marseille-Sud.",
+                  "text": "A beach in the Bonneveine district in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.37383,
@@ -15445,7 +15445,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de Borély",
-                  "text": "Plage de Borély is a beach located in Marseille-Sud.",
+                  "text": "A beach adjacent to Borély Park in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.375065,
@@ -15454,7 +15454,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage de la Batterie",
-                  "text": "Plage de la Batterie is a beach located in Marseille-Sud.",
+                  "text": "A beach by a former military battery in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.362536,
@@ -15463,7 +15463,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Plage du Bain des Dames",
-                  "text": "Plage du Bain des Dames is a beach located in Marseille-Sud.",
+                  "text": "A historic ladies' bathing beach in Marseille South.",
                   "category": "recreational",
                   "coords": [
                         5.362456,
@@ -15772,7 +15772,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium tropical",
-                  "text": "Das Tropical aquarium befindet sich in Paris Sud.",
+                  "text": "Tropisches Aquarium im Palais de la Porte Dorée in Paris mit einem großen Süßwasserbecken.",
                   "category": "family",
                   "coords": [
                         2.409077,
@@ -15781,7 +15781,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Club Sauna",
-                  "text": "Das öffentliche Bad Hammam Club Sauna befindet sich in Paris Sud.",
+                  "text": "Hammam und Saunaclub in Paris Süd.",
                   "category": "family",
                   "coords": [
                         2.356132,
@@ -15799,7 +15799,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Ménagerie du Jardin des Plantes",
-                  "text": "Der Zoo Ménagerie du Jardin des Plantes befindet sich in Paris Sud.",
+                  "text": "Kleiner Zoo im Jardin des Plantes in Paris Süd.",
                   "category": "family",
                   "coords": [
                         2.360595,
@@ -15808,7 +15808,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-douches des Deux-Ponts",
-                  "text": "Das öffentliche Bad Bains-douches des Deux-Ponts befindet sich in Paris Sud.",
+                  "text": "Öffentliche Bäder und Duschen nahe der Deux-Ponts in Paris Süd.",
                   "category": "family",
                   "coords": [
                         2.356807,
@@ -16022,7 +16022,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium tropical",
-                  "text": "A Tropical aquarium akvárium Párizs déli részén található.",
+                  "text": "Trópusi akvárium a párizsi Palais de la Porte Dorée-ban, nagy édesvízi medencével.",
                   "category": "family",
                   "coords": [
                         2.409077,
@@ -16031,7 +16031,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Club Sauna",
-                  "text": "A Hammam Club Sauna közfürdő Párizs déli részén található.",
+                  "text": "Hammam és szauna klub Párizs Délben.",
                   "category": "family",
                   "coords": [
                         2.356132,
@@ -16049,7 +16049,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Ménagerie du Jardin des Plantes",
-                  "text": "A Ménagerie du Jardin des Plantes állatkert Párizs déli részén található.",
+                  "text": "Állatkert a Jardin des Plantes-ben Párizs Délben.",
                   "category": "family",
                   "coords": [
                         2.360595,
@@ -16058,7 +16058,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-douches des Deux-Ponts",
-                  "text": "A Bains-douches des Deux-Ponts közfürdő Párizs déli részén található.",
+                  "text": "Nyilvános fürdők és zuhanyzók a Deux-Ponts közelében Párizs Délben.",
                   "category": "family",
                   "coords": [
                         2.356807,
@@ -16272,7 +16272,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Aquarium tropical",
-                  "text": "Acvariul Tropical aquarium este situat în Paris Sud.",
+                  "text": "Acvariu tropical în Palais de la Porte Dorée din Paris, cu un bazin mare de apă dulce.",
                   "category": "family",
                   "coords": [
                         2.409077,
@@ -16281,7 +16281,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Club Sauna",
-                  "text": "Baia publică Hammam Club Sauna este situată în Paris Sud.",
+                  "text": "Hammam și club de saună în Paris Sud.",
                   "category": "family",
                   "coords": [
                         2.356132,
@@ -16299,7 +16299,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Ménagerie du Jardin des Plantes",
-                  "text": "Grădina zoologică Ménagerie du Jardin des Plantes este situată în Paris Sud.",
+                  "text": "Grădina zoologică a Jardin des Plantes în Paris Sud.",
                   "category": "family",
                   "coords": [
                         2.360595,
@@ -16308,7 +16308,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-douches des Deux-Ponts",
-                  "text": "Baia publică Bains-douches des Deux-Ponts este situată în Paris Sud.",
+                  "text": "Băi și dușuri publice lângă Deux-Ponts în Paris Sud.",
                   "category": "family",
                   "coords": [
                         2.356807,
@@ -16522,7 +16522,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Tropical aquarium",
-                  "text": "The Tropical aquarium is located in Paris Sud.",
+                  "text": "Tropical aquarium in the Palais de la Porte Dorée in Paris, featuring a large freshwater tank.",
                   "category": "family",
                   "coords": [
                         2.409077,
@@ -16531,7 +16531,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Club Sauna",
-                  "text": "The public bath Hammam Club Sauna is located in Paris Sud.",
+                  "text": "A hammam and sauna club in Paris South.",
                   "category": "family",
                   "coords": [
                         2.356132,
@@ -16549,7 +16549,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Ménagerie du Jardin des Plantes",
-                  "text": "The Ménagerie du Jardin des Plantes zoo is located in Paris Sud.",
+                  "text": "The zoo of the Jardin des Plantes in Paris South.",
                   "category": "family",
                   "coords": [
                         2.360595,
@@ -16558,7 +16558,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bains-douches des Deux-Ponts",
-                  "text": "The public bath Bains-douches des Deux-Ponts is located in Paris Sud.",
+                  "text": "Public baths and showers near the Deux-Ponts in Paris South.",
                   "category": "family",
                   "coords": [
                         2.356807,
@@ -17261,7 +17261,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Silence",
-                  "text": "Das öffentliche Bad Silence befindet sich in Grenoble Nord.",
+                  "text": "Ruhiger Rückzugsort namens Silence in Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -17279,7 +17279,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "Das Hamman café ist ein öffentliches Bad in Grenoble Nord.",
+                  "text": "Café mit Hamman in Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -17288,7 +17288,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "Neroli ist ein öffentliches Bad in Grenoble Nord.",
+                  "text": "Wellnessbereich namens Neroli in Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -17297,7 +17297,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "Das Schwimmbad Grand bassin befindet sich in Grenoble Nord.",
+                  "text": "Großes Schwimmbecken in Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -17467,7 +17467,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Silence",
-                  "text": "A Silence nyilvános fürdő Grenoble Nord-ban található.",
+                  "text": "Csendes pihenőhely, Silence néven, Grenoble Északban.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -17485,7 +17485,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "A Hamman café egy nyilvános fürdő Grenoble Nord-ban.",
+                  "text": "Kávézó hammammal Grenoble Északban.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -17494,7 +17494,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "A Neroli egy nyilvános fürdő Grenoble Nord-ban.",
+                  "text": "Neroli nevű wellness terület Grenoble Északban.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -17503,7 +17503,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "A Grand bassin uszoda Grenoble Nord-ban található.",
+                  "text": "Nagy medence Grenoble Északban.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -17673,7 +17673,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Silence",
-                  "text": "Baia publică Silence se află în Grenoble Nord.",
+                  "text": "Un loc liniștit numit Silence în Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -17691,7 +17691,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "Hamman café este o baie publică din Grenoble Nord.",
+                  "text": "Cafenea cu hammam în Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -17700,7 +17700,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "Neroli este o baie publică în Grenoble Nord.",
+                  "text": "Zonă de wellness numită Neroli în Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -17709,7 +17709,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "Piscina Grand bassin este situată în Grenoble Nord.",
+                  "text": "Bazin mare în Grenoble Nord.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -17879,7 +17879,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Silence",
-                  "text": "The Silence public bath is located in Grenoble Nord.",
+                  "text": "A quiet retreat called Silence in Grenoble North.",
                   "category": "family",
                   "coords": [
                         5.728414,
@@ -17897,7 +17897,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Hamman café",
-                  "text": "The Hamman café is a public bath in Grenoble Nord.",
+                  "text": "A café with a hammam in Grenoble North.",
                   "category": "family",
                   "coords": [
                         5.717744,
@@ -17906,7 +17906,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Neroli",
-                  "text": "Neroli is a public bath in Grenoble Nord.",
+                  "text": "A wellness area named Neroli in Grenoble North.",
                   "category": "family",
                   "coords": [
                         5.730072,
@@ -17915,7 +17915,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Grand bassin",
-                  "text": "The Grand bassin swimming pool is located in Grenoble Nord.",
+                  "text": "A large swimming basin in Grenoble North.",
                   "category": "family",
                   "coords": [
                         5.750851,
@@ -20664,7 +20664,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fonds regional d'art contemporain (FRAC)",
-                  "text": "Ein regionales Zentrum für zeitgenössische Kunst in Besançon.",
+                  "text": "FRAC Franche-Comté in Besançon, das zeitgenössische Kunst in einem modernen Gebäude zeigt.",
                   "category": "museum",
                   "coords": [
                         6.033958,
@@ -20807,7 +20807,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fonds regional d'art contemporain (FRAC)",
-                  "text": "Kortárs művészeti regionális központ Besançonban.",
+                  "text": "FRAC Franche-Comté Besançonban, kortárs művészeti kiállításokkal egy modern épületben.",
                   "category": "museum",
                   "coords": [
                         6.033958,
@@ -20950,7 +20950,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fonds regional d'art contemporain (FRAC)",
-                  "text": "Un centru regional de artă contemporană situat în Besançon.",
+                  "text": "FRAC Franche-Comté în Besançon, cu expoziții de artă contemporană într-o clădire modernă.",
                   "category": "museum",
                   "coords": [
                         6.033958,
@@ -21093,7 +21093,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Fonds regional d'art contemporain (FRAC)",
-                  "text": "A regional center for contemporary art located in Besançon.",
+                  "text": "FRAC Franche-Comté in Besançon, showcasing contemporary art in a modern building.",
                   "category": "museum",
                   "coords": [
                         6.033958,
@@ -23787,7 +23787,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin nordique",
-                  "text": "Das Schwimmbad Bassin nordique befindet sich in Avignon Sud.",
+                  "text": "Nordisches Kaltbecken in Avignon Süd.",
                   "category": "family",
                   "coords": [
                         4.840624,
@@ -23858,7 +23858,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin nordique",
-                  "text": "A Bassin nordique úszómedence Avignon déli részén található.",
+                  "text": "Skandináv hideg medence Avignon Délben.",
                   "category": "family",
                   "coords": [
                         4.840624,
@@ -23929,7 +23929,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin nordique",
-                  "text": "Piscina Bassin nordique este situată în Avignon Sud.",
+                  "text": "Bazin nordic cu apă rece în Avignon Sud.",
                   "category": "family",
                   "coords": [
                         4.840624,
@@ -24000,7 +24000,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Bassin nordique",
-                  "text": "The swimming pool Bassin nordique is located in Avignon Sud.",
+                  "text": "A Nordic cold plunge basin in Avignon South.",
                   "category": "family",
                   "coords": [
                         4.840624,
@@ -24580,7 +24580,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac de Chambray-lès-Tours",
-                  "text": "Dieser See in Tours Sud lädt zu einem Aufenthalt im Freien ein.",
+                  "text": "See von Chambray-lès-Tours in Tours Süd.",
                   "category": "natural",
                   "coords": [
                         0.720015,
@@ -24589,7 +24589,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac des Bretonnières",
-                  "text": "Der Lac des Bretonnières ist ein beliebtes Ziel für Spaziergänger in Tours Sud.",
+                  "text": "See der Bretonnières in Tours Süd.",
                   "category": "natural",
                   "coords": [
                         0.639542,
@@ -24749,7 +24749,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac de Chambray-lès-Tours",
-                  "text": "Ez a Tours Sud-i tó szabadtéri kikapcsolódásra hív.",
+                  "text": "Chambray-lès-Tours tava Tours Délben.",
                   "category": "natural",
                   "coords": [
                         0.720015,
@@ -24758,7 +24758,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac des Bretonnières",
-                  "text": "A Lac des Bretonnières népszerű célpont a sétálók körében Tours Sud-ben.",
+                  "text": "Bretonnières tava Tours Délben.",
                   "category": "natural",
                   "coords": [
                         0.639542,
@@ -24918,7 +24918,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac de Chambray-lès-Tours",
-                  "text": "Acest lac din Tours Sud invită la o ieșire în aer liber.",
+                  "text": "Lacul Chambray-lès-Tours în Tours Sud.",
                   "category": "natural",
                   "coords": [
                         0.720015,
@@ -24927,7 +24927,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac des Bretonnières",
-                  "text": "Lac des Bretonnières este o destinație populară pentru plimbări în Tours Sud.",
+                  "text": "Lacul Bretonnières în Tours Sud.",
                   "category": "natural",
                   "coords": [
                         0.639542,
@@ -25087,7 +25087,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac de Chambray-lès-Tours",
-                  "text": "This lake in Tours Sud invites for an outdoor stay.",
+                  "text": "Lake of Chambray-lès-Tours in Tours South.",
                   "category": "natural",
                   "coords": [
                         0.720015,
@@ -25096,7 +25096,7 @@ export const franceCitiesV2: POI[] = [
             },
             {
                   "name": "Lac des Bretonnières",
-                  "text": "The Lac des Bretonnières is a popular destination for walkers in Tours Sud.",
+                  "text": "Lake of the Bretonnières in Tours South.",
                   "category": "natural",
                   "coords": [
                         0.639542,

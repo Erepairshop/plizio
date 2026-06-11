@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraNorthkoreaEconomicV2: POI[] = [
   {
-    id: "chongjin-steel-works-economic-v2",
+    id: "chongjin-steel-works-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kim Jong-Il Monument",
+                  "text": "Ein monumentales Denkmal zu Ehren von Kim Jong-il, das das Stadtzentrum dieser wichtigen Industriestadt dominiert.",
+                  "category": "historical",
+                  "coords": [
+                        129.795174,
+                        41.788782
+                  ]
+            },
+            {
+                  "name": "North Hamgyong Provincial Revolutionary History Museum",
+                  "text": "Dieses Museum zeigt die regionale Geschichte des Widerstands und der industriellen Entwicklung in Nord-Hamgyong.",
+                  "category": "museum",
+                  "coords": [
+                        129.793758,
+                        41.788097
+                  ]
+            },
+            {
+                  "name": "Fine Art Museum",
+                  "text": "Ein Museum, das eine Sammlung nordkoreanischer Gemälde und Skulpturen lokaler Künstler aus der Hafenstadt ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "Sunam Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz, auf dem die Bewohner von Chongjin frische Waren und Haushaltsgüter handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        129.766584,
+                        41.790218
+                  ]
+            },
+            {
+                  "name": "Pohang Market",
+                  "text": "Ein zentraler städtischer Markt in Chongjin, der als wichtiger Handelsknotenpunkt für die lokale Bevölkerung dient.",
+                  "category": "cultural",
+                  "coords": [
+                        129.785054,
+                        41.786848
+                  ]
+            },
+            {
+                  "name": "Songpyeong Market",
+                  "text": "Ein lokaler Markt im Stadtteil Songpyeong, bekannt für sein Angebot an Kleidung und Alltagsgegenständen.",
+                  "category": "cultural",
+                  "coords": [
+                        129.752147,
+                        41.775186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kim Jong-Il Monument",
+                  "text": "Monumentális emlékmű Kim Dzsongil tiszteletére, amely e fontos iparváros központját uralja.",
+                  "category": "historical",
+                  "coords": [
+                        129.795174,
+                        41.788782
+                  ]
+            },
+            {
+                  "name": "North Hamgyong Provincial Revolutionary History Museum",
+                  "text": "Ez a múzeum Észak-Hamgjong ellenállási mozgalmának és ipari fejlődésének regionális történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        129.793758,
+                        41.788097
+                  ]
+            },
+            {
+                  "name": "Fine Art Museum",
+                  "text": "Múzeum, amely észak-koreai festményekből és helyi művészek szobraiból álló gyűjteményt mutat be a kikötővárosban.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "Sunam Market",
+                  "text": "Nyüzsgő helyi piactér, ahol Csongdzsin lakói friss árukkal és háztartási cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        129.766584,
+                        41.790218
+                  ]
+            },
+            {
+                  "name": "Pohang Market",
+                  "text": "Központi városi piac Csongdzsinban, amely a helyi lakosság fontos kereskedelmi csomópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        129.785054,
+                        41.786848
+                  ]
+            },
+            {
+                  "name": "Songpyeong Market",
+                  "text": "Helyi piac a Szongpjong negyedben, amely ruházati cikkeiről és mindennapi használati tárgyairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        129.752147,
+                        41.775186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kim Jong-Il Monument",
+                  "text": "Un monument monumental în onoarea lui Kim Jong-il, care domină centrul acestui important oraș industrial.",
+                  "category": "historical",
+                  "coords": [
+                        129.795174,
+                        41.788782
+                  ]
+            },
+            {
+                  "name": "North Hamgyong Provincial Revolutionary History Museum",
+                  "text": "Acest muzeu prezintă istoria regională a rezistenței și dezvoltării industriale din provincia Hamgyong de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        129.793758,
+                        41.788097
+                  ]
+            },
+            {
+                  "name": "Fine Art Museum",
+                  "text": "Un muzeu care expune o colecție de picturi și sculpturi nord-coreene ale artiștilor locali din orașul portuar.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "Sunam Market",
+                  "text": "O piață locală plină de viață, unde locuitorii din Chongjin comercializează produse proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        129.766584,
+                        41.790218
+                  ]
+            },
+            {
+                  "name": "Pohang Market",
+                  "text": "O piață urbană centrală în Chongjin, servind ca un punct comercial important pentru populația locală.",
+                  "category": "cultural",
+                  "coords": [
+                        129.785054,
+                        41.786848
+                  ]
+            },
+            {
+                  "name": "Songpyeong Market",
+                  "text": "O piață locală în districtul Songpyeong, cunoscută pentru oferta sa de îmbrăcăminte și obiecte de uz cotidian.",
+                  "category": "cultural",
+                  "coords": [
+                        129.752147,
+                        41.775186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kim Jong-Il Monument",
+                  "text": "A monumental memorial honoring Kim Jong-il, dominating the city center of this major industrial hub.",
+                  "category": "historical",
+                  "coords": [
+                        129.795174,
+                        41.788782
+                  ]
+            },
+            {
+                  "name": "North Hamgyong Provincial Revolutionary History Museum",
+                  "text": "This museum showcases the regional history of resistance and industrial development in North Hamgyong.",
+                  "category": "museum",
+                  "coords": [
+                        129.793758,
+                        41.788097
+                  ]
+            },
+            {
+                  "name": "Fine Art Museum",
+                  "text": "A museum displaying a collection of North Korean paintings and sculptures by local artists from the port city.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "Sunam Market",
+                  "text": "A bustling local marketplace where residents of Chongjin trade fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        129.766584,
+                        41.790218
+                  ]
+            },
+            {
+                  "name": "Pohang Market",
+                  "text": "A central urban market in Chongjin, serving as a major trading hub for the local population.",
+                  "category": "cultural",
+                  "coords": [
+                        129.785054,
+                        41.786848
+                  ]
+            },
+            {
+                  "name": "Songpyeong Market",
+                  "text": "A local market in the Songpyeong district, known for its variety of clothing and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        129.752147,
+                        41.775186
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-13",
     coords: [129.79, 41.81],
@@ -51,7 +276,88 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["L'une des plus grandes aciéries du pays.", "Produit une variété de produits sidérurgiques pour le marché intérieur et l'exportation.", "Étroitement liée au port voisin de Chongjin."],
     }, image: "/poi-images/chongjin-steel-works-economic-v2.webp"},
   {
-    id: "hungnam-fertilizer-complex-economic-v2",
+    id: "hungnam-fertilizer-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Majon Beach",
+                  "text": "Der Majon-Strand bietet einen langen feinen weißen Sandstrand, der von den rollenden Wellen des Ostkoreanischen Golfs umspült wird.",
+                  "category": "recreational",
+                  "coords": [
+                        127.691452,
+                        39.84245
+                  ]
+            },
+            {
+                  "name": "Hamhŭng-man",
+                  "text": "Hamhŭng-man ist eine weitläufige Küstenbucht, die starken Seeverkehr und die prominenten Fischereiflotten der Region unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        127.629211,
+                        39.817252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Majon Beach",
+                  "text": "A Madzson part egy hosszú, finom fehér homokos partszakasszal rendelkezik, amelyet a Kelet-koreai-öböl hullámai mosnak.",
+                  "category": "recreational",
+                  "coords": [
+                        127.691452,
+                        39.84245
+                  ]
+            },
+            {
+                  "name": "Hamhŭng-man",
+                  "text": "A Hamhung-öböl egy kiterjedt part menti tengeröböl, amely jelentős tengeri forgalmat és a régió kiemelkedő halászflottáit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        127.629211,
+                        39.817252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Majon Beach",
+                  "text": "Plaja Majon prezintă o întindere lungă de nisip alb și fin, sărutată de valurile unduitoare ale Golfului Coreean de Est.",
+                  "category": "recreational",
+                  "coords": [
+                        127.691452,
+                        39.84245
+                  ]
+            },
+            {
+                  "name": "Hamhŭng-man",
+                  "text": "Hamhŭng-man este un golf de coastă întins care susține traficul maritim greu și flotele de pescuit proeminente ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        127.629211,
+                        39.817252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Majon Beach",
+                  "text": "Majon Beach features a long stretch of fine white sand kissed by the rolling waves of the East Korean Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        127.691452,
+                        39.84245
+                  ]
+            },
+            {
+                  "name": "Hamhŭng-man",
+                  "text": "Hamhŭng-man is a sprawling coastal bay that supports heavy maritime traffic and the region's prominent fishing fleets.",
+                  "category": "landmark",
+                  "coords": [
+                        127.629211,
+                        39.817252
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-09",
     coords: [127.62, 39.83],
@@ -99,7 +405,52 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["L'un des plus grands et des plus anciens complexes chimiques de Corée du Nord.", "Produit du sulfate d'ammonium et d'autres produits chimiques.", "A été impliqué dans la production d'armes par le passé."],
     }, image: "/poi-images/hungnam-fertilizer-complex-economic-v2.webp"},
   {
-    id: "musan-iron-mine-economic-v2",
+    id: "musan-iron-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musan Market",
+                  "text": "Dieser lokale Markt befindet sich in der Nähe des riesigen Eisenerzbergwerks Musan und versorgt die umliegende Bergbaugemeinde mit Lebensmitteln und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        129.223674,
+                        42.228608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musan Market",
+                  "text": "A hatalmas musani vasércbánya közelében működő helyi piac a környező bányászközösséget látja el élelmiszerekkel és háztartási szükségleti cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        129.223674,
+                        42.228608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musan Market",
+                  "text": "Operând lângă colosala mină de fier Musan, această piață locală aprovizionează comunitatea minieră din jur cu alimente și necesități casnice.",
+                  "category": "cultural",
+                  "coords": [
+                        129.223674,
+                        42.228608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musan Market",
+                  "text": "Operating near the colossal Musan iron mine, this local market supplies the surrounding mining community with food and household necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        129.223674,
+                        42.228608
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KP-13",
     coords: [129.25, 42.22],
@@ -147,7 +498,124 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["Une mine à ciel ouvert avec d'immenses réserves estimées.", "Un pipeline de 98 km transporte le concentré de minerai de fer vers l'aciérie de Chongjin.", "La production est fortement dépendante de la disponibilité de l'électricité."],
     }, image: "/poi-images/musan-iron-mine-economic-v2.webp"},
   {
-    id: "rason-port-economic-v2",
+    id: "rason-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Art Gallery",
+                  "text": "Dieses städtische Museum zeigt eine kuratierte Sammlung regionaler Kunst und kultureller Artefakte aus der Hafenstadt Rason.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            },
+            {
+                  "name": "Changpyeong Market",
+                  "text": "Der Changpyeong-Markt ist ein geschäftiger Handelsknotenpunkt, an dem die Einheimischen frische Produkte und Dinge des täglichen Bedarfs kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        130.281065,
+                        42.235537
+                  ]
+            },
+            {
+                  "name": "Rajin Market",
+                  "text": "Der Rajin-Markt ist das lebhafte Handelszentrum der Wirtschaftszone und voller Händler, die Kleidung und regionale Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        130.309256,
+                        42.252534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art Gallery",
+                  "text": "Ez a városi múzeum a rasoni kikötőváros regionális művészeti és kulturális tárgyainak válogatott gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            },
+            {
+                  "name": "Changpyeong Market",
+                  "text": "A Csangpjong piac egy nyüzsgő kereskedelmi központ, ahol a helyiek összegyűlnek, hogy friss termékeket és napi szükségleti cikkeket vásároljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        130.281065,
+                        42.235537
+                  ]
+            },
+            {
+                  "name": "Rajin Market",
+                  "text": "A Rádzsin piac a gazdasági övezet nyüzsgő kereskedelmi központjaként szolgál, tele ruházatot és regionális árukat árusító árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        130.309256,
+                        42.252534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art Gallery",
+                  "text": "Acest muzeu municipal expune o colecție curatoriată de artă regională și artefacte culturale din orașul-port Rason.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            },
+            {
+                  "name": "Changpyeong Market",
+                  "text": "Piața Changpyeong este un centru comercial plin de viață unde localnicii se adună pentru a cumpăra produse proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        130.281065,
+                        42.235537
+                  ]
+            },
+            {
+                  "name": "Rajin Market",
+                  "text": "Piața Rajin servește drept centrul comercial vibrant al zonei economice, plin de vânzători care oferă îmbrăcăminte și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        130.309256,
+                        42.252534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Gallery",
+                  "text": "This municipal museum exhibits a curated collection of regional art and cultural artifacts from the port city of Rason.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            },
+            {
+                  "name": "Changpyeong Market",
+                  "text": "Changpyeong Market is a bustling trading hub where locals gather to buy fresh produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        130.281065,
+                        42.235537
+                  ]
+            },
+            {
+                  "name": "Rajin Market",
+                  "text": "Rajin Market serves as the vibrant commercial center of the economic zone, packed with vendors selling clothing and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        130.309256,
+                        42.252534
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KP-14",
     coords: [130.29, 42.26],
@@ -195,7 +663,196 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["Possède des quais spéciaux loués par la Chine et la Russie.", "Un point de transit majeur pour le charbon et d'autres marchandises.", "Central pour le développement de la zone économique spéciale."],
     }, image: "/poi-images/rason-port-economic-v2.webp"},
   {
-    id: "sinuiju-cosmetics-factory-economic-v2",
+    id: "sinuiju-cosmetics-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memorial Hall of the War to Resist US Aggression and Aid Korea",
+                  "text": "Dieses Museum in Sinuiju präsentiert umfassende Exponate und historische Artefakte mit Schwerpunkt auf der chinesischen Beteiligung am Koreakrieg.",
+                  "category": "museum",
+                  "coords": [
+                        124.359733,
+                        40.117422
+                  ]
+            },
+            {
+                  "name": "Memorial Tower of the War to Resist US Aggression and Aid Korea",
+                  "text": "Dieser imposante Gedenkturm in Sinuiju ehrt die Soldaten, die unter dem Banner des Widerstands gegen die US-Aggression am Koreakrieg teilgenommen haben.",
+                  "category": "historical",
+                  "coords": [
+                        124.358549,
+                        40.116199
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Die Leadership-Residenz in Sinuiju ist ein stark befestigtes Gelände mit einer großen Architektur, die mit den regionalen Behörden in Verbindung gebracht wird.",
+                  "category": "castle",
+                  "coords": [
+                        124.499344,
+                        40.081593
+                  ]
+            },
+            {
+                  "name": "North-South Yalu River Bridge",
+                  "text": "Diese große moderne Brücke überspannt den Yalu-Fluss und verbindet die nordkoreanische Stadt Sinuiju mit Dandong in China.",
+                  "category": "landmark",
+                  "coords": [
+                        124.369345,
+                        40.035535
+                  ]
+            },
+            {
+                  "name": "Sinuiju Youth Outdoor Theatre",
+                  "text": "Das Sinuiju Youth Outdoor Theatre ist ein Freilufttheater für große öffentliche Versammlungen und staatlich geförderte Kulturshows.",
+                  "category": "cultural",
+                  "coords": [
+                        124.42372,
+                        40.104368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memorial Hall of the War to Resist US Aggression and Aid Korea",
+                  "text": "Ez a sinuidzsu-i múzeum átfogó kiállításokat és történelmi leleteket mutat be, amelyek a koreai háborúban való kínai részvételre összpontosítanak.",
+                  "category": "museum",
+                  "coords": [
+                        124.359733,
+                        40.117422
+                  ]
+            },
+            {
+                  "name": "Memorial Tower of the War to Resist US Aggression and Aid Korea",
+                  "text": "Ez az impozáns emléktorony Sinuidzsuban azokat a katonákat tiszteli, akik az amerikai agresszió elleni ellenállás zászlaja alatt vettek részt a koreai háborúban.",
+                  "category": "historical",
+                  "coords": [
+                        124.358549,
+                        40.116199
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "A sinuidzsu-i vezetőségi rezidencia egy erősen megerősített épületegyüttes, amely a regionális hatóságokhoz kapcsolódó nagyszerű építészettel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        124.499344,
+                        40.081593
+                  ]
+            },
+            {
+                  "name": "North-South Yalu River Bridge",
+                  "text": "A Jalu-folyót átívelő nagy, modern híd az észak-koreai Sinuidzsu várost köti össze a kínai Tantunggal.",
+                  "category": "landmark",
+                  "coords": [
+                        124.369345,
+                        40.035535
+                  ]
+            },
+            {
+                  "name": "Sinuiju Youth Outdoor Theatre",
+                  "text": "A Sinuidzsu Ifjúsági Szabadtéri Színház egy szabadtéri előadóhely, amelyet nagy nyilvános összejövetelek és államilag támogatott kulturális műsorok számára terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        124.42372,
+                        40.104368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorial Hall of the War to Resist US Aggression and Aid Korea",
+                  "text": "Acest muzeu din Sinuiju prezintă expoziții detaliate și artefacte istorice care se concentrează pe implicarea Chinei în Războiul din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        124.359733,
+                        40.117422
+                  ]
+            },
+            {
+                  "name": "Memorial Tower of the War to Resist US Aggression and Aid Korea",
+                  "text": "Acest turn memorial impunător din Sinuiju îi onorează pe soldații care au participat la Războiul din Coreea sub stindardul rezistenței împotriva agresiunii SUA.",
+                  "category": "historical",
+                  "coords": [
+                        124.358549,
+                        40.116199
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Reședința Conducerii din Sinuiju este un complex puternic fortificat, cu o arhitectură grandioasă asociată cu autoritățile regionale.",
+                  "category": "castle",
+                  "coords": [
+                        124.499344,
+                        40.081593
+                  ]
+            },
+            {
+                  "name": "North-South Yalu River Bridge",
+                  "text": "Traversând râul Yalu, acest mare pod modern conectează orașul nord-coreean Sinuiju cu Dandong din China.",
+                  "category": "landmark",
+                  "coords": [
+                        124.369345,
+                        40.035535
+                  ]
+            },
+            {
+                  "name": "Sinuiju Youth Outdoor Theatre",
+                  "text": "Teatrul în Aer Liber pentru Tineret din Sinuiju este un spațiu de spectacole proiectat pentru adunări publice mari și spectacole culturale sponsorizate de stat.",
+                  "category": "cultural",
+                  "coords": [
+                        124.42372,
+                        40.104368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial Hall of the War to Resist US Aggression and Aid Korea",
+                  "text": "This museum in Sinuiju presents comprehensive exhibits and historical artifacts focusing on the Chinese involvement in the Korean War.",
+                  "category": "museum",
+                  "coords": [
+                        124.359733,
+                        40.117422
+                  ]
+            },
+            {
+                  "name": "Memorial Tower of the War to Resist US Aggression and Aid Korea",
+                  "text": "This imposing memorial tower in Sinuiju honors the soldiers who participated in the Korean War under the banner of resisting US aggression.",
+                  "category": "historical",
+                  "coords": [
+                        124.358549,
+                        40.116199
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "The Residence of Leadership in Sinuiju is a heavily fortified compound featuring grand architecture associated with regional authorities.",
+                  "category": "castle",
+                  "coords": [
+                        124.499344,
+                        40.081593
+                  ]
+            },
+            {
+                  "name": "North-South Yalu River Bridge",
+                  "text": "Spanning the Yalu River, this large modern bridge connects the North Korean city of Sinuiju with Dandong in China.",
+                  "category": "landmark",
+                  "coords": [
+                        124.369345,
+                        40.035535
+                  ]
+            },
+            {
+                  "name": "Sinuiju Youth Outdoor Theatre",
+                  "text": "The Sinuiju Youth Outdoor Theatre is an open-air performance venue designed for large public gatherings and state-sponsored cultural shows.",
+                  "category": "cultural",
+                  "coords": [
+                        124.42372,
+                        40.104368
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-03",
     coords: [124.41, 40.09],
@@ -336,7 +993,88 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["A été construite pendant l'occupation japonaise.", "A une capacité d'environ 700 MW.", "Un symbole de la coopération sino-nord-coréenne."],
     }, image: "/poi-images/supung-hydroelectric-plant-economic-v2.webp"},
   {
-    id: "hwanghae-iron-and-steel-complex-economic-v2",
+    id: "hwanghae-iron-and-steel-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gosan",
+                  "text": "Ein markanter Berggipfel in der Provinz Hwanghae-namdo mit Blick auf die umliegenden Industriekomplexe.",
+                  "category": "natural",
+                  "coords": [
+                        125.66871,
+                        38.826875
+                  ]
+            },
+            {
+                  "name": "Songnim Market",
+                  "text": "Ein geschäftiger Marktplatz in der Industriestadt Songnim, bekannt für den lokalen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        125.637084,
+                        38.759161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gosan",
+                  "text": "Hvanghe-namdo tartomány egyik jellegzetes hegycsúcsa, kilátással a környező ipari létesítményekre.",
+                  "category": "natural",
+                  "coords": [
+                        125.66871,
+                        38.826875
+                  ]
+            },
+            {
+                  "name": "Songnim Market",
+                  "text": "Forgalmas piactér Szongnim iparvárosában, amely a helyi kereskedelemről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        125.637084,
+                        38.759161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gosan",
+                  "text": "Un vârf muntos proeminent din provincia Hwanghae de Sud, cu vedere spre complexele industriale din jur.",
+                  "category": "natural",
+                  "coords": [
+                        125.66871,
+                        38.826875
+                  ]
+            },
+            {
+                  "name": "Songnim Market",
+                  "text": "O piață aglomerată în orașul industrial Songnim, cunoscută pentru comerțul local.",
+                  "category": "cultural",
+                  "coords": [
+                        125.637084,
+                        38.759161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gosan",
+                  "text": "A prominent mountain peak in South Hwanghae Province overlooking the surrounding industrial complexes.",
+                  "category": "natural",
+                  "coords": [
+                        125.66871,
+                        38.826875
+                  ]
+            },
+            {
+                  "name": "Songnim Market",
+                  "text": "A busy marketplace in the industrial city of Songnim, known for local trade.",
+                  "category": "cultural",
+                  "coords": [
+                        125.637084,
+                        38.759161
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-05",
     coords: [125.64, 38.74],
@@ -481,7 +1219,52 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["La région est souvent appelée la « mer des minéraux ».", "La mine est en exploitation depuis la période coloniale japonaise.", "La production est cruciale pour l'économie d'exportation de la Corée du Nord."],
     }, image: "/poi-images/kumgol-zinc-mine-economic-v2.webp"},
   {
-    id: "sunchon-vinalon-complex-economic-v2",
+    id: "sunchon-vinalon-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ryeonpo Market",
+                  "text": "Der Ryeonpo-Markt bedient die Arbeiter und Familien in der Nähe des Sunchon-Vinalon-Komplexes und bietet eine Vielzahl an wichtigen lokalen Waren und frischen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.965962,
+                        39.441345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ryeonpo Market",
+                  "text": "A Ryeonpo piac a Sunchon Vinalon komplexum közelében élő munkásokat és családokat szolgálja ki alapvető helyi árukkal és friss termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        125.965962,
+                        39.441345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ryeonpo Market",
+                  "text": "Piața Ryeonpo servește muncitorii și familiile din apropierea complexului Sunchon Vinalon, oferind o varietate de bunuri locale esențiale și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        125.965962,
+                        39.441345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ryeonpo Market",
+                  "text": "Ryeonpo Market serves the workers and families near the Sunchon Vinalon Complex, offering a variety of essential local goods and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        125.965962,
+                        39.441345
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-04",
     coords: [125.96, 39.4],
@@ -530,7 +1313,124 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       fr: ["Le Vinalon est souvent appelé « fibre Juche ».", "Le complexe est un symbole de l'indépendance économique de la Corée du Nord.", "La production a été irrégulière ces dernières années en raison du manque d'énergie et de ressources."],
     }, image: "/poi-images/sunchon-vinalon-complex-economic-v2.webp"},
   {
-    id: "pyongyang-textile-mill-economic-v2",
+    id: "pyongyang-textile-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Munsu Peak",
+                  "text": "Ein bewaldeter Gipfel in Pjöngjang, der Wanderwege und Ausblicke auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        125.80258,
+                        39.015489
+                  ]
+            },
+            {
+                  "name": "Munsu Peak Revolutionary Historic Site",
+                  "text": "Eine Gedenkstätte auf dem Munsu-Hügel, die mit revolutionären Ereignissen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.798885,
+                        39.016846
+                  ]
+            },
+            {
+                  "name": "Changchung Cathedral",
+                  "text": "Die einzige römisch-katholische Kathedrale in Nordkorea, die 1988 geweiht wurde.",
+                  "category": "religious",
+                  "coords": [
+                        125.778093,
+                        39.006867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Munsu Peak",
+                  "text": "Erdős hegycsúcs Phenjanban, amely túraútvonalakat és városi kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        125.80258,
+                        39.015489
+                  ]
+            },
+            {
+                  "name": "Munsu Peak Revolutionary Historic Site",
+                  "text": "A Munsu-dombon található emlékhely, amely forradalmi eseményekhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        125.798885,
+                        39.016846
+                  ]
+            },
+            {
+                  "name": "Changchung Cathedral",
+                  "text": "Észak-Korea egyetlen római katolikus székesegyháza, amelyet 1988-ban szenteltek fel.",
+                  "category": "religious",
+                  "coords": [
+                        125.778093,
+                        39.006867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Munsu Peak",
+                  "text": "Un vârf împădurit din Phenian, care oferă trasee de drumeție și vederi spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        125.80258,
+                        39.015489
+                  ]
+            },
+            {
+                  "name": "Munsu Peak Revolutionary Historic Site",
+                  "text": "Un sit comemorativ pe dealul Munsu, legat de evenimente revoluționare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.798885,
+                        39.016846
+                  ]
+            },
+            {
+                  "name": "Changchung Cathedral",
+                  "text": "Singura catedrală romano-catolică din Coreea de Nord, sfințită în 1988.",
+                  "category": "religious",
+                  "coords": [
+                        125.778093,
+                        39.006867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Munsu Peak",
+                  "text": "A forested peak in Pyongyang offering hiking trails and views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        125.80258,
+                        39.015489
+                  ]
+            },
+            {
+                  "name": "Munsu Peak Revolutionary Historic Site",
+                  "text": "A commemorative site on Munsu Hill associated with revolutionary events.",
+                  "category": "landmark",
+                  "coords": [
+                        125.798885,
+                        39.016846
+                  ]
+            },
+            {
+                  "name": "Changchung Cathedral",
+                  "text": "The only Roman Catholic cathedral in North Korea, consecrated in 1988.",
+                  "category": "religious",
+                  "coords": [
+                        125.778093,
+                        39.006867
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-01",
     coords: [125.79, 39.01],
@@ -676,7 +1576,124 @@ image: "/poi-images/taean-heavy-machine-complex-economic-v2.webp",
       fr: ["Produit des turbines, des générateurs et de grands transformateurs.", "Crucial pour la construction et l'entretien de l'infrastructure énergétique nord-coréenne.", "Nommé d'après le « système de travail de Taean », un modèle de gestion."],
     }, image: "/poi-images/taean-heavy-machine-complex-economic-v2.webp"},
   {
-    id: "ryongsong-machine-complex-economic-v2",
+    id: "ryongsong-machine-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Ein schlanker Obelisk aus weißem Stein, der die ewige Führung der Staatsgründer im Industrieviertel Ryongsong symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "Sonhwa Hall",
+                  "text": "Diese traditionelle Halle aus der Joseon-Dynastie diente einst als Büro des Provinzgouverneurs.",
+                  "category": "landmark",
+                  "coords": [
+                        127.523867,
+                        39.914031
+                  ]
+            },
+            {
+                  "name": "Hamhung Grand Theatre",
+                  "text": "Das 1984 eröffnete monumentale Gebäude ist mit rund 2500 Sitzplätzen eines der größten Theater des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        127.536791,
+                        39.91511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Karcsú, fehér kőből készült obeliszk, amely az államalapítók örök vezetését jelképezi a Rjongszong ipari negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "Sonhwa Hall",
+                  "text": "Ez a Csoszon-kori hagyományos csarnok egykor a tartományi kormányzó hivatalaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        127.523867,
+                        39.914031
+                  ]
+            },
+            {
+                  "name": "Hamhung Grand Theatre",
+                  "text": "Az 1984-ben megnyitott monumentális épület mintegy 2500 férőhelyével az ország egyik legnagyobb színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        127.536791,
+                        39.91511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Un obelisc zvelt din piatră albă, simbolizând conducerea eternă a fondatorilor statului în districtul industrial Ryongsong.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "Sonhwa Hall",
+                  "text": "Această sală tradițională din dinastia Joseon a servit odinioară drept birou al guvernatorului provincial.",
+                  "category": "landmark",
+                  "coords": [
+                        127.523867,
+                        39.914031
+                  ]
+            },
+            {
+                  "name": "Hamhung Grand Theatre",
+                  "text": "Această clădire monumentală, deschisă în 1984, este unul dintre cele mai mari teatre din țară, având aproximativ 2500 de locuri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.536791,
+                        39.91511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "A slender white stone obelisk symbolizing the eternal leadership of the state founders in the Ryongsong industrial district.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "Sonhwa Hall",
+                  "text": "This traditional Joseon-dynasty hall once served as the provincial governor's administrative office.",
+                  "category": "landmark",
+                  "coords": [
+                        127.523867,
+                        39.914031
+                  ]
+            },
+            {
+                  "name": "Hamhung Grand Theatre",
+                  "text": "Opened in 1984, this monumental building is one of the country's largest theaters, seating around 2,500 people.",
+                  "category": "cultural",
+                  "coords": [
+                        127.536791,
+                        39.91511
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KP-09",
     coords: [127.5, 39.95],
@@ -822,7 +1839,88 @@ image: "/poi-images/ryongsong-machine-complex-economic-v2.webp",
       fr: ["Les produits comprennent des tours, des fraiseuses et des perceuses.", "Soupçonnée d'être impliquée dans la fabrication de composants pour le programme de missiles.", "Un exemple de l'industrie de la construction mécanique du pays."],
     }, image: "/poi-images/kusong-machine-tool-factory-economic-v2.webp"},
   {
-    id: "anju-coal-mining-complex-economic-v2",
+    id: "anju-coal-mining-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Madu",
+                  "text": "Ein markanter Berggipfel, der die industrielle Landschaft der Kohleminen von Anju überragt.",
+                  "category": "natural",
+                  "coords": [
+                        125.696628,
+                        39.540218
+                  ]
+            },
+            {
+                  "name": "Madusan Revolutionary Battle Site Relief Document Preservation and Education Room",
+                  "text": "Ein Museum am Berg Madu, das Dokumente über die antijapanische Guerillatätigkeit in der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        125.712427,
+                        39.543747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Madu",
+                  "text": "Jellegzetes hegycsúcs, amely az andzsu-i szénbányák ipari vidéke fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        125.696628,
+                        39.540218
+                  ]
+            },
+            {
+                  "name": "Madusan Revolutionary Battle Site Relief Document Preservation and Education Room",
+                  "text": "A Madu-hegyen található múzeum, amely a japánellenes gerillatevékenység dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        125.712427,
+                        39.543747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Madu",
+                  "text": "Un vârf muntos proeminent care domină peisajul industrial al minelor de cărbune din Anju.",
+                  "category": "natural",
+                  "coords": [
+                        125.696628,
+                        39.540218
+                  ]
+            },
+            {
+                  "name": "Madusan Revolutionary Battle Site Relief Document Preservation and Education Room",
+                  "text": "Un muzeu de pe muntele Madu care păstrează documente despre activitatea de gherilă anti-japoneză din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        125.712427,
+                        39.543747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Madu",
+                  "text": "A prominent mountain peak overlooking the industrial landscape of the Anju coal mining complex.",
+                  "category": "natural",
+                  "coords": [
+                        125.696628,
+                        39.540218
+                  ]
+            },
+            {
+                  "name": "Madusan Revolutionary Battle Site Relief Document Preservation and Education Room",
+                  "text": "A museum on Mount Madu preserving documents related to anti-Japanese guerrilla activities in the region.",
+                  "category": "museum",
+                  "coords": [
+                        125.712427,
+                        39.543747
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KP-04",
     coords: [125.66, 39.62],
@@ -919,7 +2017,52 @@ image: "/poi-images/ryongsong-machine-complex-economic-v2.webp",
       fr: ["Centrale électrique fonctionnant au charbon.", "Fonctionne souvent à capacité réduite en raison du manque de combustible.", "Cruciale pour le maintien des services de base dans la capitale."],
     }, image: "/poi-images/pyongyang-east-thermal-power-plant-economic-v2.webp"},
   {
-    id: "wiwon-power-plant-economic-v2",
+    id: "wiwon-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+                  "text": "Dieses UNESCO-Welterbe der antiken Koguryo-Dynastie beeindruckt mit bemerkenswert gut erhaltenen Hügelgräbern und farbenfrohen Grabmalereien.",
+                  "category": "historical",
+                  "coords": [
+                        126.162746,
+                        41.146738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+                  "text": "Az ősi Kogurjo-dinasztia ezen UNESCO világörökségi helyszíne figyelemre méltóan jó állapotban fennmaradt halomsírokkal és színes falfestményekkel nyűgöz le.",
+                  "category": "historical",
+                  "coords": [
+                        126.162746,
+                        41.146738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+                  "text": "Acest sit din Patrimoniul Mondial UNESCO al vechii dinastii Koguryo impresionează prin tumulii săi remarcabil de bine conservați și picturile murale colorate.",
+                  "category": "historical",
+                  "coords": [
+                        126.162746,
+                        41.146738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+                  "text": "This UNESCO World Heritage site of the ancient Koguryo dynasty impresses with remarkably preserved burial mounds and colorful tomb murals.",
+                  "category": "historical",
+                  "coords": [
+                        126.162746,
+                        41.146738
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KP-12",
     coords: [126.1, 41.2],

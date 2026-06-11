@@ -700,7 +700,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Wellness Termalija",
-                  "text": "Ein modernes Thermalbad und Wasserpark in Podčetrtek.",
+                  "text": "Thermalbad mit Innen- und Außenbecken in Veliki Tabor.",
                   "category": "recreational",
                   "coords": [
                         15.607732,
@@ -718,7 +718,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Termalni park Aqualuna",
-                  "text": "Ein großer Wasserpark mit mehreren Rutschen und Becken.",
+                  "text": "Wasserpark mit Thermenrutschen und Wellenbecken.",
                   "category": "recreational",
                   "coords": [
                         15.605535,
@@ -727,7 +727,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Općina Desinić",
-                  "text": "Das Verwaltungszentrum und die Gemeinde Desinić.",
+                  "text": "Der Gemeindesitz von Desinić in Kroatien, nahe der Burg Veliki Tabor.",
                   "category": "landmark",
                   "coords": [
                         15.667916,
@@ -756,7 +756,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Wellness Termalija",
-                  "text": "Modern termálfürdő és aquapark Podčetrtekben.",
+                  "text": "Termálfürdő fedett és szabadtéri medencékkel Veliki Taborban.",
                   "category": "recreational",
                   "coords": [
                         15.607732,
@@ -774,7 +774,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Termalni park Aqualuna",
-                  "text": "Nagy aquapark számos csúszdával és medencével.",
+                  "text": "Termálvízi csúszdákkal és hullámmedencével felszerelt vízipark.",
                   "category": "recreational",
                   "coords": [
                         15.605535,
@@ -783,7 +783,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Općina Desinić",
-                  "text": "Desinić közigazgatási központja és községe.",
+                  "text": "Desinić község székhelye Horvátországban, Veliki Tabor vára közelében.",
                   "category": "landmark",
                   "coords": [
                         15.667916,
@@ -812,7 +812,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Wellness Termalija",
-                  "text": "Un centru spa termal modern și parc acvatic în Podčetrtek.",
+                  "text": "Stațiune termală cu piscine interioare și exterioare în Veliki Tabor.",
                   "category": "recreational",
                   "coords": [
                         15.607732,
@@ -830,7 +830,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Termalni park Aqualuna",
-                  "text": "Un parc acvatic mare, cu numeroase tobogane și piscine.",
+                  "text": "Parc acvatic termal cu tobogane și piscine cu valuri.",
                   "category": "recreational",
                   "coords": [
                         15.605535,
@@ -839,7 +839,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Općina Desinić",
-                  "text": "Centrul administrativ și municipalitatea din Desinić.",
+                  "text": "Sediul municipalității Desinić în Croația, lângă castelul Veliki Tabor.",
                   "category": "landmark",
                   "coords": [
                         15.667916,
@@ -868,7 +868,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Wellness Termalija",
-                  "text": "A modern thermal spa and water park in Podčetrtek.",
+                  "text": "Thermal spa with indoor and outdoor pools in Veliki Tabor.",
                   "category": "recreational",
                   "coords": [
                         15.607732,
@@ -886,7 +886,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Thermal park Aqualuna",
-                  "text": "A large water park with multiple slides and pools.",
+                  "text": "Thermal water park with slides and wave pools.",
                   "category": "recreational",
                   "coords": [
                         15.605535,
@@ -895,7 +895,7 @@ imageHint: "Trakošćan Castle reflected in lake",
             },
             {
                   "name": "Općina Desinić",
-                  "text": "The administrative center and municipality of Desinić.",
+                  "text": "The municipality seat of Desinić in Croatia, located near Veliki Tabor castle.",
                   "category": "landmark",
                   "coords": [
                         15.667916,
@@ -2458,7 +2458,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
       "de": [
             {
                   "name": "Veliki Makovnik",
-                  "text": "Gipfel in der Nähe der Festung Modruš.",
+                  "text": "Ein markanter Berggipfel nahe der Festung Modruš in der Velika-Kapela-Region.",
                   "category": "landmark",
                   "coords": [
                         15.260874,
@@ -2467,7 +2467,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Modruš",
-                  "text": "Ruinen der historischen Festung Modruš in Kroatien.",
+                  "text": "Die Ruine einer mittelalterlichen Festung in Modruš, Kroatien, einst Sitz der Familie Frankopan.",
                   "category": "historical",
                   "coords": [
                         15.246658,
@@ -2476,7 +2476,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Pavlinski samostan sv. Nikola Gvozd",
-                  "text": "Ruinen eines Paulinerklosters in Modruš.",
+                  "text": "Ruine eines Paulinerklosters aus dem Mittelalter nahe der Modruš-Festung.",
                   "category": "historical",
                   "coords": [
                         15.224464,
@@ -2487,7 +2487,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
       "hu": [
             {
                   "name": "Veliki Makovnik",
-                  "text": "Hegycsúcs a modrusi vár közelében.",
+                  "text": "Egy kiemelkedő hegycsúcs a Modruš erőd közelében, a Velika Kapela régióban.",
                   "category": "landmark",
                   "coords": [
                         15.260874,
@@ -2496,7 +2496,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Modruš",
-                  "text": "A történelmi Modrus várának romjai Horvátországban.",
+                  "text": "Egy középkori erőd romjai Modrušban, Horvátországban, egykor a Frankopan család székhelye.",
                   "category": "historical",
                   "coords": [
                         15.246658,
@@ -2505,7 +2505,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Pavlinski samostan sv. Nikola Gvozd",
-                  "text": "Egy pálos kolostor romjai Modrusban.",
+                  "text": "Középkori pálos kolostorrom a Modruš-erőd közelében.",
                   "category": "historical",
                   "coords": [
                         15.224464,
@@ -2516,7 +2516,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
       "ro": [
             {
                   "name": "Veliki Makovnik",
-                  "text": "Vârf muntos în apropierea cetății Modruš.",
+                  "text": "Un vârf de munte proeminent lângă cetatea Modruš, în regiunea Velika Kapela.",
                   "category": "landmark",
                   "coords": [
                         15.260874,
@@ -2525,7 +2525,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Modruš",
-                  "text": "Ruinele cetății istorice Modruš din Croația.",
+                  "text": "Ruinele unei fortărețe medievale în Modruš, Croația, odinioară sediul familiei Frankopan.",
                   "category": "historical",
                   "coords": [
                         15.246658,
@@ -2534,7 +2534,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Pavlinski samostan sv. Nikola Gvozd",
-                  "text": "Ruinele unei mănăstiri pauline din Modruš.",
+                  "text": "Ruina unei mănăstiri pauline medievale lângă fortăreața Modruš.",
                   "category": "historical",
                   "coords": [
                         15.224464,
@@ -2545,7 +2545,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
       "en": [
             {
                   "name": "Veliki Makovnik",
-                  "text": "Mountain peak near the Modruš Fortress.",
+                  "text": "A prominent mountain peak near Modruš Fortress in the Velika Kapela region.",
                   "category": "landmark",
                   "coords": [
                         15.260874,
@@ -2554,7 +2554,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Modruš",
-                  "text": "Ruins of the historic Modruš Fortress in Croatia.",
+                  "text": "The ruins of a medieval fortress in Modruš, Croatia, once a seat of the Frankopan family.",
                   "category": "historical",
                   "coords": [
                         15.246658,
@@ -2563,7 +2563,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Pavlinski samostan sv. Nikola Gvozd",
-                  "text": "Ruins of a Paulist monastery in Modruš.",
+                  "text": "Medieval Pauline monastery ruin near Modruš Fortress.",
                   "category": "historical",
                   "coords": [
                         15.224464,
@@ -3493,7 +3493,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Strand Jezinac",
-                  "text": "Ein charmanter Strand in Split, der für sein klares Wasser bekannt ist.",
+                  "text": "Kieselstrand unterhalb der Prokurative-Promenade in Split.",
                   "category": "recreational",
                   "coords": [
                         16.416593,
@@ -3558,7 +3558,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Plaža Ježinac",
-                  "text": "Bájós strand Splitben, amely tiszta vizéről ismert.",
+                  "text": "Kavicsos strand a spliti Prokurative sétány alatt.",
                   "category": "recreational",
                   "coords": [
                         16.416593,
@@ -3623,7 +3623,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Plaža Ježinac",
-                  "text": "O plajă fermecătoare în Split, cunoscută pentru apa sa limpede.",
+                  "text": "Plajă cu pietriș sub promenada Prokurative din Split.",
                   "category": "recreational",
                   "coords": [
                         16.416593,
@@ -3688,7 +3688,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
             },
             {
                   "name": "Beach Jezinac",
-                  "text": "A charming beach in Split, known for its clear water.",
+                  "text": "Pebble beach below the Prokurative promenade in Split.",
                   "category": "recreational",
                   "coords": [
                         16.416593,

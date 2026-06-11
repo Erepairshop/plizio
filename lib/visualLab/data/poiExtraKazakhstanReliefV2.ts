@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const poiExtraKazakhstanReliefV2: POI[] = [
       {
-    id: "charyn-canyon-relief-v2",
+    id: "charyn-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "vid na kan'on Temerlik",
+                  "text": "Ein Blick auf den Temerlik-Flusscanyon, der für seinen urzeitlichen Eschenhain bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        79.1506,
+                        43.366684
+                  ]
+            },
+            {
+                  "name": "Road to bottom of the canyon",
+                  "text": "Ein Zweig des Scharyn-Systems, der für seine markanten gelben Sandsteinwände und Türme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        79.123484,
+                        43.35186
+                  ]
+            },
+            {
+                  "name": "Ploshchadka u reki",
+                  "text": "Ein Bereich am Flussufer am Boden des Scharyn-Canyons, wo Besucher das Wasser erreichen können.",
+                  "category": "natural",
+                  "coords": [
+                        79.080586,
+                        43.351745
+                  ]
+            },
+            {
+                  "name": "Chiornyi Charynskii kan'on",
+                  "text": "Ein Aussichtspunkt über dem „Schwarzen Canyon“, der durch dunkle vulkanische Felsformationen geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        79.072963,
+                        43.335594
+                  ]
+            },
+            {
+                  "name": "Vid sverkhu na kan'on",
+                  "text": "Ein Panoramablick am Rand des Scharyn-Canyons, der dessen beeindruckende Tiefe zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        79.07122,
+                        43.354057
+                  ]
+            },
+            {
+                  "name": "Mu'nara shatk'aly",
+                  "text": "Malerische Felsformationen im Munara-Gebiet, Teil der schroffen Scharyn-Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        79.104137,
+                        43.356397
+                  ]
+            },
+            {
+                  "name": "Scharyn-Nationalpark",
+                  "text": "Eine spektakuläre, 154 Kilometer lange Schlucht mit rotem Sedimentgestein, geformt durch den Fluss Scharyn.",
+                  "category": "natural",
+                  "coords": [
+                        79.018563,
+                        43.317293
+                  ]
+            },
+            {
+                  "name": "Dolina Zamkov",
+                  "text": "Der beliebteste Abschnitt des Scharyn-Canyons mit erodierten Säulen, die mittelalterlichen Burgen ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        79.063763,
+                        43.354693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "vid na kan'on Temerlik",
+                  "text": "Kilátás a Temerlik-folyó kanyonjára, amely ősi kőriserdőjéről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        79.1506,
+                        43.366684
+                  ]
+            },
+            {
+                  "name": "Road to bottom of the canyon",
+                  "text": "A Sarin-rendszer egyik ága, amely feltűnő sárga homokkő falaival és tornyaival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        79.123484,
+                        43.35186
+                  ]
+            },
+            {
+                  "name": "Ploshchadka u reki",
+                  "text": "Folyóparti terület a Sarin-kanyon alján, ahol a látogatók lejuthatnak a vízhez.",
+                  "category": "natural",
+                  "coords": [
+                        79.080586,
+                        43.351745
+                  ]
+            },
+            {
+                  "name": "Chiornyi Charynskii kan'on",
+                  "text": "Kilátó a „Fekete-kanyon” felett, amelyet sötét vulkáni kőzetképződmények jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        79.072963,
+                        43.335594
+                  ]
+            },
+            {
+                  "name": "Vid sverkhu na kan'on",
+                  "text": "Panorámás kilátóhely a Sarin-kanyon peremén, amely feltárja annak drámai mélységét.",
+                  "category": "natural",
+                  "coords": [
+                        79.07122,
+                        43.354057
+                  ]
+            },
+            {
+                  "name": "Mu'nara shatk'aly",
+                  "text": "Festői sziklaképződmények a Munara-vidéken, a vadregényes Sarin-táj részeként.",
+                  "category": "landmark",
+                  "coords": [
+                        79.104137,
+                        43.356397
+                  ]
+            },
+            {
+                  "name": "Sharyn shatk'aly",
+                  "text": "Látványos, 154 kilométer hosszú szurdok vörös üledékes kőzetekkel, amelyet a Sarin-folyó vájt ki.",
+                  "category": "natural",
+                  "coords": [
+                        79.018563,
+                        43.317293
+                  ]
+            },
+            {
+                  "name": "Dolina Zamkov",
+                  "text": "A Sarin-kanyon legnépszerűbb része, ahol az erodált sziklaoszlopok középkori várakra emlékeztetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        79.063763,
+                        43.354693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "vid na kan'on Temerlik",
+                  "text": "O panoramă asupra canionului râului Temerlik, renumit pentru crângul său străvechi de frasini relicvă.",
+                  "category": "natural",
+                  "coords": [
+                        79.1506,
+                        43.366684
+                  ]
+            },
+            {
+                  "name": "Road to bottom of the canyon",
+                  "text": "O ramură a sistemului Charyn, cunoscută pentru pereții și turnurile sale izbitoare din gresie galbenă.",
+                  "category": "landmark",
+                  "coords": [
+                        79.123484,
+                        43.35186
+                  ]
+            },
+            {
+                  "name": "Ploshchadka u reki",
+                  "text": "O zonă pe malul râului, în partea de jos a canionului Charyn, unde vizitatorii pot ajunge la apă.",
+                  "category": "natural",
+                  "coords": [
+                        79.080586,
+                        43.351745
+                  ]
+            },
+            {
+                  "name": "Chiornyi Charynskii kan'on",
+                  "text": "Un punct de belvedere deasupra „Canionului Negru”, caracterizat prin formațiuni de rocă vulcanică întunecată.",
+                  "category": "natural",
+                  "coords": [
+                        79.072963,
+                        43.335594
+                  ]
+            },
+            {
+                  "name": "Vid sverkhu na kan'on",
+                  "text": "Un punct de observație panoramic pe marginea canionului Charyn, care îi dezvăluie adâncimea dramatică.",
+                  "category": "natural",
+                  "coords": [
+                        79.07122,
+                        43.354057
+                  ]
+            },
+            {
+                  "name": "Mu'nara shatk'aly",
+                  "text": "Formațiuni stâncoase pitorești în zona Munara, parte a peisajului accidentat al canionului Charyn.",
+                  "category": "landmark",
+                  "coords": [
+                        79.104137,
+                        43.356397
+                  ]
+            },
+            {
+                  "name": "Sharyn shatk'aly",
+                  "text": "Un defileu spectaculos lung de 154 km, cu rocă sedimentară roșie sculptată de râul Charyn.",
+                  "category": "natural",
+                  "coords": [
+                        79.018563,
+                        43.317293
+                  ]
+            },
+            {
+                  "name": "Dolina Zamkov",
+                  "text": "Cea mai populară secțiune a canionului Charyn, cu stâlpi erodați care seamănă cu niște castele medievale.",
+                  "category": "landmark",
+                  "coords": [
+                        79.063763,
+                        43.354693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View of the canyon Temerlik",
+                  "text": "An overlook of the Temerlik River canyon, famous for its ancient relic ash grove.",
+                  "category": "natural",
+                  "coords": [
+                        79.1506,
+                        43.366684
+                  ]
+            },
+            {
+                  "name": "Yellow canyon",
+                  "text": "A branch of the Charyn system known for its striking yellow sandstone walls and towers.",
+                  "category": "landmark",
+                  "coords": [
+                        79.123484,
+                        43.35186
+                  ]
+            },
+            {
+                  "name": "Ploshchadka u reki",
+                  "text": "A riverside area at the bottom of Charyn Canyon where visitors can reach the water.",
+                  "category": "natural",
+                  "coords": [
+                        79.080586,
+                        43.351745
+                  ]
+            },
+            {
+                  "name": "Chiornyi Charynskii kan'on",
+                  "text": "A viewpoint over the \"Black Canyon,\" characterized by dark volcanic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        79.072963,
+                        43.335594
+                  ]
+            },
+            {
+                  "name": "View from top of canyon",
+                  "text": "A panoramic viewpoint on the rim of the Charyn Canyon, showing its dramatic depth.",
+                  "category": "natural",
+                  "coords": [
+                        79.07122,
+                        43.354057
+                  ]
+            },
+            {
+                  "name": "Canyons of Munara",
+                  "text": "Scenic rock formations in the Munara area, part of the rugged Charyn landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        79.104137,
+                        43.356397
+                  ]
+            },
+            {
+                  "name": "Charyn Canyon",
+                  "text": "A spectacular 154-kilometer long gorge with red sedimentary rock carved by the Charyn River.",
+                  "category": "natural",
+                  "coords": [
+                        79.018563,
+                        43.317293
+                  ]
+            },
+            {
+                  "name": "Dolina Zamkov",
+                  "text": "The most popular section of Charyn Canyon, featuring eroded pillars that resemble medieval castles.",
+                  "category": "landmark",
+                  "coords": [
+                        79.063763,
+                        43.354693
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KZ-ALM",
     coords: [79.0833, 43.3500],
@@ -111,7 +408,52 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     },
   },
   {
-    id: "caspian-sea-coast-kz-relief-v2",
+    id: "caspian-sea-coast-kz-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "K'oshak' shyg'anag'y",
+                  "text": "Diese flache Küstenbucht kerbt die zerklüftete Küstenlinie entlang der östlichen Gewässer des Kaspischen Meeres ein.",
+                  "category": "landmark",
+                  "coords": [
+                        51.414939,
+                        44.554735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'oshak' shyg'anag'y",
+                  "text": "Ez a sekély tengerparti öböl a Kaszpi-tenger keleti vizeinek zord partvonalát tagolja.",
+                  "category": "landmark",
+                  "coords": [
+                        51.414939,
+                        44.554735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'oshak' shyg'anag'y",
+                  "text": "Acest golf de coastă puțin adânc crestează țărmul accidentat de-a lungul apelor estice ale Mării Caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.414939,
+                        44.554735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qoşaq Bay",
+                  "text": "This shallow coastal bay indents the rugged shoreline along the eastern waters of the Caspian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        51.414939,
+                        44.554735
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KZ-MAN",
     coords: [51.5000, 44.5000],
@@ -219,7 +561,448 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     }
   },
   {
-    id: "zailiysky-alatau-relief-v2",
+    id: "zailiysky-alatau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kok Zhailau",
+                  "text": "Ein weites Almplateau zwischen der Kleinen und Großen Almati-Schlucht, ideal für Bergwanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.004052,
+                        43.14244
+                  ]
+            },
+            {
+                  "name": "Batareika",
+                  "text": "Ein kleiner Hügel in der Nähe von Almaty mit Panoramablick auf die moderne Skyline der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        77.007782,
+                        43.140188
+                  ]
+            },
+            {
+                  "name": "Sokolinyi tsentr Sunkar",
+                  "text": "Eine Greifvogelstation in der Almarasan-Schlucht mit pädagogischen Flugschauen und Falknerei.",
+                  "category": "landmark",
+                  "coords": [
+                        76.90564,
+                        43.128166
+                  ]
+            },
+            {
+                  "name": "Aiusai 3",
+                  "text": "Der höchste der drei Wasserfälle in der Ajusai-Schlucht, der eindrucksvoll von einem Felsvorsprung stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945114,
+                        43.086825
+                  ]
+            },
+            {
+                  "name": "Ulken Almaty",
+                  "text": "Ein ikonischer, 3681 Meter hoher Gipfel mit einer spitzen Kuppe direkt über dem Großen Almati-See.",
+                  "category": "natural",
+                  "coords": [
+                        76.933592,
+                        43.055291
+                  ]
+            },
+            {
+                  "name": "Aleshkin most",
+                  "text": "Eine historische Holzbrücke, die den Fluss Prochodnaja im malerischen Almarasan-Tal überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.918649,
+                        43.042743
+                  ]
+            },
+            {
+                  "name": "Devich'i sliozy",
+                  "text": "Ein feiner, dünner Wasserfall, der über eine moosbewachsene Felswand in der Nähe von Almarasan rieselt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.907757,
+                        43.082262
+                  ]
+            },
+            {
+                  "name": "Oleni",
+                  "text": "Ein Wildgehege, in dem Besucher Maralhirsche in ihrer natürlichen Gebirgsumgebung beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        76.914792,
+                        43.117633
+                  ]
+            },
+            {
+                  "name": "Terra tazartu",
+                  "text": "Eine malerische Almwiese in der Prochodnoje-Schlucht, die für Camping in großer Höhe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913346,
+                        43.045787
+                  ]
+            },
+            {
+                  "name": "Alma-Arasan",
+                  "text": "Ein Erholungsgebiet in den Bergen, berühmt für seine natürlichen heißen Schwefelquellen.",
+                  "category": "landmark",
+                  "coords": [
+                        76.906157,
+                        43.083148
+                  ]
+            },
+            {
+                  "name": "Nu'rlytau",
+                  "text": "Eine moderne Moschee in den Ausläufern des Transili-Alatau, die durch ihre Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        76.903808,
+                        43.153163
+                  ]
+            },
+            {
+                  "name": "Tau spa",
+                  "text": "Ein großer Wellnesskomplex in der Almarasan-Schlucht mit verschiedenen Thermal- und Außenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        76.913231,
+                        43.118354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kok Zhailau",
+                  "text": "Széles alpesi fennsík a Kis- és Nagy-Almati-szurdok között, amely ideális hegyi túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        77.004052,
+                        43.14244
+                  ]
+            },
+            {
+                  "name": "Batareika",
+                  "text": "Egy kis domb Almati közelében, ahonnan panorámás kilátás nyílik a város modern sziluettjére.",
+                  "category": "landmark",
+                  "coords": [
+                        77.007782,
+                        43.140188
+                  ]
+            },
+            {
+                  "name": "Sokolinyi tsentr Sunkar",
+                  "text": "Ragadozómadár-központ az Almaraszan-szurdokban, ahol solymászbemutatókat tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        76.90564,
+                        43.128166
+                  ]
+            },
+            {
+                  "name": "Aiusai 3",
+                  "text": "Az Ajuszaj-szurdok három vízesése közül a legmagasabb, amely látványosan zúdul le egy sziklapárkányról.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945114,
+                        43.086825
+                  ]
+            },
+            {
+                  "name": "Ulken Almaty",
+                  "text": "Egy ikonikus, 3681 méter magas, hegyes csúcs közvetlenül a Nagy-Almati-tó felett.",
+                  "category": "natural",
+                  "coords": [
+                        76.933592,
+                        43.055291
+                  ]
+            },
+            {
+                  "name": "Aleshkin most",
+                  "text": "Történelmi fahíd a festői Almaraszan-völgyben, amely a Prohodnaja folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        76.918649,
+                        43.042743
+                  ]
+            },
+            {
+                  "name": "Devich'i sliozy",
+                  "text": "Egy finom, vékony vízesés, amely egy mohás sziklafalon csörgedezik Almaraszan közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        76.907757,
+                        43.082262
+                  ]
+            },
+            {
+                  "name": "Oleni",
+                  "text": "Vadaspark, ahol a látogatók maralszarvasokat figyelhetnek meg természetes erdei környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        76.914792,
+                        43.117633
+                  ]
+            },
+            {
+                  "name": "Terra tazartu",
+                  "text": "Festői alpesi rét a Prohodnoje-szurdokban, amely a magaslati táborozásról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913346,
+                        43.045787
+                  ]
+            },
+            {
+                  "name": "Alma-Arasan",
+                  "text": "Hegyi üdülőhely, amely természetes forró kénes forrásairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        76.906157,
+                        43.083148
+                  ]
+            },
+            {
+                  "name": "Nu'rlytau",
+                  "text": "Modern mecset a Transz-Ili Alatau lábánál, amely különleges építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        76.903808,
+                        43.153163
+                  ]
+            },
+            {
+                  "name": "Tau spa",
+                  "text": "Hatalmas wellness-komplexum az Almaraszan-szurdokban, különféle termál- és kültéri medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        76.913231,
+                        43.118354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kok Zhailau",
+                  "text": "Un platou alpin larg între defileele Mic și Mare Almaty, ideal pentru drumeții montane.",
+                  "category": "landmark",
+                  "coords": [
+                        77.004052,
+                        43.14244
+                  ]
+            },
+            {
+                  "name": "Batareika",
+                  "text": "Un mic deal lângă Almaty care oferă o vedere panoramică asupra orizontului modern al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        77.007782,
+                        43.140188
+                  ]
+            },
+            {
+                  "name": "Sokolinyi tsentr Sunkar",
+                  "text": "Un centru de șoimărit în defileul Almarasan, care găzduiește spectacole educative cu păsări de pradă.",
+                  "category": "landmark",
+                  "coords": [
+                        76.90564,
+                        43.128166
+                  ]
+            },
+            {
+                  "name": "Aiusai 3",
+                  "text": "Cea mai înaltă dintre cele trei cascade din defileul Ayusai, care cade spectaculos de pe o cornișă stâncoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945114,
+                        43.086825
+                  ]
+            },
+            {
+                  "name": "Ulken Almaty",
+                  "text": "Un vârf iconic de 3681 de metri, cu o culme ascuțită situat chiar deasupra Lacului Mare Almaty.",
+                  "category": "natural",
+                  "coords": [
+                        76.933592,
+                        43.055291
+                  ]
+            },
+            {
+                  "name": "Aleshkin most",
+                  "text": "Un pod istoric din lemn care traversează râul Prohodnaia în valea pitorească Almarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        76.918649,
+                        43.042743
+                  ]
+            },
+            {
+                  "name": "Devich'i sliozy",
+                  "text": "O cascadă fină și subțire care curge pe un perete de stâncă acoperit cu mușchi lângă Almarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        76.907757,
+                        43.082262
+                  ]
+            },
+            {
+                  "name": "Oleni",
+                  "text": "Un țarc de animale sălbatice unde vizitatorii pot observa cerbi maral în mediul lor montan natural.",
+                  "category": "recreational",
+                  "coords": [
+                        76.914792,
+                        43.117633
+                  ]
+            },
+            {
+                  "name": "Terra tazartu",
+                  "text": "O poiană alpină pitorească în defileul Prohodnoie, cunoscută pentru camping la mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913346,
+                        43.045787
+                  ]
+            },
+            {
+                  "name": "Alma-Arasan",
+                  "text": "O zonă de recreere montană renumită pentru izvoarele sale termale naturale cu sulf.",
+                  "category": "landmark",
+                  "coords": [
+                        76.906157,
+                        43.083148
+                  ]
+            },
+            {
+                  "name": "Nu'rlytau",
+                  "text": "O moschee modernă situată la poalele Trans-Ili Alatau, remarcabilă prin arhitectura sa.",
+                  "category": "landmark",
+                  "coords": [
+                        76.903808,
+                        43.153163
+                  ]
+            },
+            {
+                  "name": "Tau spa",
+                  "text": "Un complex spa mare în defileul Almarasan, dotat cu diverse piscine termale și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        76.913231,
+                        43.118354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kok Zhailau",
+                  "text": "A wide alpine plateau between the Small and Big Almaty Gorges, ideal for mountain hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        77.004052,
+                        43.14244
+                  ]
+            },
+            {
+                  "name": "Batareyka",
+                  "text": "A small hill near Almaty offering a panoramic view of the city's modern skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        77.007782,
+                        43.140188
+                  ]
+            },
+            {
+                  "name": "Sunkar Falcon Center",
+                  "text": "A bird of prey sanctuary in the Almarasan Gorge hosting educational falconry flight shows.",
+                  "category": "landmark",
+                  "coords": [
+                        76.90564,
+                        43.128166
+                  ]
+            },
+            {
+                  "name": "Ayusai 3",
+                  "text": "The tallest of the three waterfalls in the Ayusai Gorge, falling dramatically from a rocky ledge.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945114,
+                        43.086825
+                  ]
+            },
+            {
+                  "name": "Big Almaty",
+                  "text": "An iconic 3681-meter peak with a pointed summit located directly above Big Almaty Lake.",
+                  "category": "natural",
+                  "coords": [
+                        76.933592,
+                        43.055291
+                  ]
+            },
+            {
+                  "name": "Aleshkin most",
+                  "text": "A historic wooden bridge crossing the Prokhodnaya River in the scenic Almarasan valley.",
+                  "category": "landmark",
+                  "coords": [
+                        76.918649,
+                        43.042743
+                  ]
+            },
+            {
+                  "name": "Maiden tears",
+                  "text": "A delicate, thin waterfall trickling down a mossy rock face near the Almarasan area.",
+                  "category": "landmark",
+                  "coords": [
+                        76.907757,
+                        43.082262
+                  ]
+            },
+            {
+                  "name": "Oleni",
+                  "text": "A wildlife enclosure where visitors can observe maral deer in their natural mountain setting.",
+                  "category": "recreational",
+                  "coords": [
+                        76.914792,
+                        43.117633
+                  ]
+            },
+            {
+                  "name": "Terra glade",
+                  "text": "A scenic alpine meadow in the Prokhodnoye Gorge, known for high-altitude camping.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913346,
+                        43.045787
+                  ]
+            },
+            {
+                  "name": "Alma-Arasan",
+                  "text": "A mountain resort area famous for its natural hot sulfur springs.",
+                  "category": "landmark",
+                  "coords": [
+                        76.906157,
+                        43.083148
+                  ]
+            },
+            {
+                  "name": "Nu'rlytau",
+                  "text": "A contemporary mosque located in the foothills of the Trans-Ili Alatau, notable for its architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        76.903808,
+                        43.153163
+                  ]
+            },
+            {
+                  "name": "Tau spa",
+                  "text": "A large wellness complex in the Almarasan Gorge featuring various thermal and outdoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        76.913231,
+                        43.118354
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KZ-ALM",
     coords: [77.0000, 43.1000],
@@ -363,7 +1146,52 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
     }
   },
   {
-    id: "turgay-trough-relief-v2",
+    id: "turgay-trough-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "K'yzyloba zhelisi",
+                  "text": "Eine archäologische Stätte, die historische Überreste in der Region der Turgai-Senke bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        64.070381,
+                        49.021242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'yzyloba zhelisi",
+                  "text": "Régészeti lelőhely, amely a Turgaj-völgy területének történelmi maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        64.070381,
+                        49.021242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'yzyloba zhelisi",
+                  "text": "Un sit arheologic care conservă rămășițe istorice în zona Jgheabul Turgai.",
+                  "category": "historical",
+                  "coords": [
+                        64.070381,
+                        49.021242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "K'yzyloba zhelisi",
+                  "text": "An archaeological site preserving historical remnants in the Turgay Trough area.",
+                  "category": "historical",
+                  "coords": [
+                        64.070381,
+                        49.021242
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KZ-KUS",
     coords: [64.0000, 49.0000],

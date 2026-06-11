@@ -3,7 +3,700 @@ import type { POI } from "./poi";
 
 export const poiExtraAfghanistanLandmarksV2: POI[] = [
   {
-    id: "qargha-reservoir-landmarks-v2",
+    id: "qargha-reservoir-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ahli Bait",
+                  "text": "Islamische Gebetsstätte in der Nähe des malerischen Qargha-Stausees, die der Familie des Propheten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.041847,
+                        34.510047
+                  ]
+            },
+            {
+                  "name": "Teflan muslim mosque",
+                  "text": "Lokale Moschee in der Nähe der Gewässer von Qargha, die eine ruhige Umgebung für muslimische Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029403,
+                        34.499512
+                  ]
+            },
+            {
+                  "name": "Emam Hussain Mosque",
+                  "text": "Diese Moschee am Qargha-Stausee ehrt das Andenken von Imam Hussain und dient der örtlichen schiitischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05968,
+                        34.504568
+                  ]
+            },
+            {
+                  "name": "Batorian Mosque",
+                  "text": "Islamisches Nachbarschaftszentrum in der unmittelbaren Umgebung des Erholungsgebiets am Qargha-Stausee.",
+                  "category": "landmark",
+                  "coords": [
+                        69.063988,
+                        34.498448
+                  ]
+            },
+            {
+                  "name": "Emam Zaman Mosque",
+                  "text": "Diese Moschee ist dem Imam der Zeit (Mahdi) gewidmet und bietet in der Nähe von Qargha einen spirituellen Zufluchtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        69.061113,
+                        34.497626
+                  ]
+            },
+            {
+                  "name": "Zainulabidin mosque",
+                  "text": "Islamisches Heiligtum in der Nähe des Qargha-Stausees, das zu Ehren des gottesfürchtigen Imams Zainulabidin benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        69.050985,
+                        34.495804
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "Ein lokaler Ort der Niederwerfung in der Nähe des Qargha-Stausees, der dem edlen Gesandten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05457,
+                        34.493244
+                  ]
+            },
+            {
+                  "name": "Aba Salih Almahdi (Musala)",
+                  "text": "Offene Gebetshalle (Musala) in der Nähe von Qargha, die als Treffpunkt für besondere islamische Festgebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.0411,
+                        34.494613
+                  ]
+            },
+            {
+                  "name": "Qala Now Mosque",
+                  "text": "Lokale Moschee, die der Gemeinde Qala Now am Rande des Qargha-Stausees spirituelle Dienste leistet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043711,
+                        34.491318
+                  ]
+            },
+            {
+                  "name": "Shah Mardan Mosque",
+                  "text": "Spirituelles Zentrum in der Nähe des Qargha-Stausees, das den Titel \"König der Männer\" (Imam Ali) ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.08115,
+                        34.587038
+                  ]
+            },
+            {
+                  "name": "Kholafa-ye Rashedin Mosque",
+                  "text": "Islamisches Gotteshaus in der Nähe von Qargha, das dem historischen Vermächtnis der rechtgeleiteten Kalifen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.084758,
+                        34.587982
+                  ]
+            },
+            {
+                  "name": "Baqhiyatullah Azam",
+                  "text": "Diese Moschee mit ihrem großartigen Namen bietet eine friedliche Gebetsumgebung nahe den Ufern von Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.068265,
+                        34.499309
+                  ]
+            },
+            {
+                  "name": "Qayim Al Mohammmad",
+                  "text": "Spirituelles Zentrum am Qargha-Stausee zu Ehren des verheißenen Qaim aus dem Hause Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072783,
+                        34.525703
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Diese Imam Ali gewidmete Moschee dient als zentraler Anlaufpunkt für die Gläubigen in der Region Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.04828,
+                        34.497304
+                  ]
+            },
+            {
+                  "name": "Khulafai Rashidin Mosque",
+                  "text": "Diese nach den rechtgeleiteten Kalifen benannte Moschee bietet der Gemeinde im Bezirk Qargha regelmäßige Gebetsdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        69.044564,
+                        34.512249
+                  ]
+            },
+            {
+                  "name": "Khatamul Mursalin mosque",
+                  "text": "Islamische Gebetshalle am Qargha-Stausee zu Ehren des Propheten Mohammed, dem \"Siegel der Propheten\".",
+                  "category": "landmark",
+                  "coords": [
+                        69.039497,
+                        34.509285
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Die Al Zahra Moschee ist eine islamische Kultstätte, die in der Gegend um das Qargha-Reservoir für die täglichen Gebete der Gläubigen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.035324,
+                        34.50535
+                  ]
+            },
+            {
+                  "name": "masjidi Qamar Bani Hashim",
+                  "text": "Die Masjidi Qamar Bani Hashim ist ein muslimisches Gebetshaus, das sich in der Landschaft in der Nähe des Qargha-Stausees befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043749,
+                        34.503148
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Die Imam Mahdi Moschee ist ein islamisches Zentrum, das sich in der Nähe der Ufer des Qargha-Stausees befindet und der religiösen Gemeinde als Rückzugsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065147,
+                        34.508052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ahli Bait",
+                  "text": "Iszlám imádkozóhely a festői Qargha-víztározó közelében, amelyet a Próféta családjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.041847,
+                        34.510047
+                  ]
+            },
+            {
+                  "name": "Teflan muslim mosque",
+                  "text": "Helyi mecset a Qargha vizei közelében, amely békés környezetet biztosít a muszlim imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029403,
+                        34.499512
+                  ]
+            },
+            {
+                  "name": "Emam Hussain Mosque",
+                  "text": "Ez a Qargha-víztározónál található mecset Imam Husszein emlékét őrzi, és a helyi síita közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05968,
+                        34.504568
+                  ]
+            },
+            {
+                  "name": "Batorian Mosque",
+                  "text": "Iszlám közösségi központ a Qargha-víztározó rekreációs övezetének közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.063988,
+                        34.498448
+                  ]
+            },
+            {
+                  "name": "Emam Zaman Mosque",
+                  "text": "A terület ez a mecsete, amelyet az Idők Imámjának (Mahdi) szenteltek, spirituális menedéket nyújt Qargha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.061113,
+                        34.497626
+                  ]
+            },
+            {
+                  "name": "Zainulabidin mosque",
+                  "text": "Iszlám szentély a Qargha-víztározó közelében, amelyet a jámbor Imam Zainulabidin tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.050985,
+                        34.495804
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "Egy helyi leborulási hely a Qargha-víztározó közelében, amelyet a Nemes Küldöttnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05457,
+                        34.493244
+                  ]
+            },
+            {
+                  "name": "Aba Salih Almahdi (Musala)",
+                  "text": "Nyitott imaterem (Musala) Qargha közelében, amely különleges iszlám ünnepi imák gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.0411,
+                        34.494613
+                  ]
+            },
+            {
+                  "name": "Qala Now Mosque",
+                  "text": "Helyi mecset, amely a Qala Now közösségnek nyújt spirituális szolgáltatásokat a Qargha-víztározó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043711,
+                        34.491318
+                  ]
+            },
+            {
+                  "name": "Shah Mardan Mosque",
+                  "text": "A Qargha-víztározó közelében található spirituális központ, amely a „Férfiak Királya” (Imam Ali) címet viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        69.08115,
+                        34.587038
+                  ]
+            },
+            {
+                  "name": "Kholafa-ye Rashedin Mosque",
+                  "text": "Iszlám istentiszteleti hely Qargha közelében, amelyet az Igaz Úton Vezetett Kalifák történelmi örökségének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.084758,
+                        34.587982
+                  ]
+            },
+            {
+                  "name": "Baqhiyatullah Azam",
+                  "text": "Ez a fenséges nevet viselő mecset békés imakörnyezetet kínál Qargha partjaihoz közel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.068265,
+                        34.499309
+                  ]
+            },
+            {
+                  "name": "Qayim Al Mohammmad",
+                  "text": "Spirituális központ a Qargha-víztározónál a Mohamed házából származó megígért Qaim tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072783,
+                        34.525703
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Ez az Imam Alinak szentelt mecset a Qargha régió híveinek központi találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.04828,
+                        34.497304
+                  ]
+            },
+            {
+                  "name": "Khulafai Rashidin Mosque",
+                  "text": "Az Igaz Úton Vezetett Kalifákról elnevezett mecset rendszeres istentiszteleteket kínál a Qargha körzet közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        69.044564,
+                        34.512249
+                  ]
+            },
+            {
+                  "name": "Khatamul Mursalin mosque",
+                  "text": "Iszlám imaterem a Qargha-víztározónál Mohamed próféta, a „Próféták Pecsétje” tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        69.039497,
+                        34.509285
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Az Al Zahra mecset egy iszlám imahely, amely a Qargha-víztározó környékén szolgálja a hívők napi imáit.",
+                  "category": "landmark",
+                  "coords": [
+                        69.035324,
+                        34.50535
+                  ]
+            },
+            {
+                  "name": "masjidi Qamar Bani Hashim",
+                  "text": "A Masjidi Qamar Bani Hashim egy muszlim imaház, amely a Qargha-víztározó közelében lévő tájba simul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043749,
+                        34.503148
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Az Imam Mahdi mecset egy iszlám központ, amely a Qargha-víztározó partjai közelében található, és a vallási közösség menedékeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065147,
+                        34.508052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ahli Bait",
+                  "text": "Loc de rugăciune islamic lângă pitorescul lac de acumulare Qargha, dedicat familiei Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.041847,
+                        34.510047
+                  ]
+            },
+            {
+                  "name": "Teflan muslim mosque",
+                  "text": "Moschee locală lângă apele lacului Qargha, oferind un mediu senin pentru rugăciunile musulmane.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029403,
+                        34.499512
+                  ]
+            },
+            {
+                  "name": "Emam Hussain Mosque",
+                  "text": "Această moschee de lângă lacul de acumulare Qargha onorează memoria lui Imam Hussain, deservind comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05968,
+                        34.504568
+                  ]
+            },
+            {
+                  "name": "Batorian Mosque",
+                  "text": "Centru islamic de cartier situat în vecinătatea zonei de recreere a lacului de acumulare Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.063988,
+                        34.498448
+                  ]
+            },
+            {
+                  "name": "Emam Zaman Mosque",
+                  "text": "Dedicată Imamului Timpului (Mahdi), această moschee oferă un refugiu spiritual lângă Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.061113,
+                        34.497626
+                  ]
+            },
+            {
+                  "name": "Zainulabidin mosque",
+                  "text": "Sanctuar islamic lângă lacul de acumulare Qargha, numit în onoarea piosului Imam Zainulabidin.",
+                  "category": "landmark",
+                  "coords": [
+                        69.050985,
+                        34.495804
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "Un loc local de prosternare lângă lacul de acumulare Qargha, dedicat Nobilului Mesager.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05457,
+                        34.493244
+                  ]
+            },
+            {
+                  "name": "Aba Salih Almahdi (Musala)",
+                  "text": "Sală de rugăciune în aer liber (Musala) lângă Qargha, servind drept loc de adunare pentru rugăciunile speciale de sărbători.",
+                  "category": "landmark",
+                  "coords": [
+                        69.0411,
+                        34.494613
+                  ]
+            },
+            {
+                  "name": "Qala Now Mosque",
+                  "text": "Moschee locală care deservește comunitatea Qala Now pe marginea lacului de acumulare Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043711,
+                        34.491318
+                  ]
+            },
+            {
+                  "name": "Shah Mardan Mosque",
+                  "text": "Centru spiritual lângă lacul de acumulare Qargha onorând titlul de „Rege al bărbaților” (Imam Ali).",
+                  "category": "landmark",
+                  "coords": [
+                        69.08115,
+                        34.587038
+                  ]
+            },
+            {
+                  "name": "Kholafa-ye Rashedin Mosque",
+                  "text": "Lăcaș de cult islamic lângă Qargha, dedicat moștenirii istorice a Califilor Bine Călăuziți.",
+                  "category": "landmark",
+                  "coords": [
+                        69.084758,
+                        34.587982
+                  ]
+            },
+            {
+                  "name": "Baqhiyatullah Azam",
+                  "text": "Această moschee cu un nume grandios oferă un mediu pașnic de rugăciune lângă malurile lacului Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.068265,
+                        34.499309
+                  ]
+            },
+            {
+                  "name": "Qayim Al Mohammmad",
+                  "text": "Centru spiritual lângă lacul de acumulare Qargha onorând promisul Qaim din casa lui Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072783,
+                        34.525703
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Dedicată lui Imam Ali, această moschee servește drept punct central pentru credincioșii din regiunea Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.04828,
+                        34.497304
+                  ]
+            },
+            {
+                  "name": "Khulafai Rashidin Mosque",
+                  "text": "Numită după Califii Bine Călăuziți, această moschee oferă servicii de rugăciune comunității din districtul Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.044564,
+                        34.512249
+                  ]
+            },
+            {
+                  "name": "Khatamul Mursalin mosque",
+                  "text": "Sală de rugăciune islamică la lacul Qargha în onoarea Profetului Muhammad, „Pecetea Profeților”.",
+                  "category": "landmark",
+                  "coords": [
+                        69.039497,
+                        34.509285
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Moscheea Al Zahra este un lăcaș de cult islamic care servește credincioșilor pentru rugăciunile zilnice în zona lacului de acumulare Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.035324,
+                        34.50535
+                  ]
+            },
+            {
+                  "name": "masjidi Qamar Bani Hashim",
+                  "text": "Masjidi Qamar Bani Hashim este un lăcaș de cult musulman situat în peisajul din apropierea lacului de acumulare Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043749,
+                        34.503148
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Moscheea Imam Mahdi este un centru islamic situat aproape de malurile lacului de acumulare Qargha, oferind un refugiu pentru comunitatea religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065147,
+                        34.508052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahli Bait",
+                  "text": "Islamic prayer site near the scenic Qargha Reservoir dedicated to the revered household of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.041847,
+                        34.510047
+                  ]
+            },
+            {
+                  "name": "Teflan muslim mosque",
+                  "text": "Local mosque near the waters of Qargha providing a serene environment for Muslim worship.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029403,
+                        34.499512
+                  ]
+            },
+            {
+                  "name": "Emam Hussain Mosque",
+                  "text": "Honoring the memory of Imam Hussain, this mosque serves the faithful residing near the Qargha Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05968,
+                        34.504568
+                  ]
+            },
+            {
+                  "name": "Batorian Mosque",
+                  "text": "Neighborhood Islamic center located in the immediate vicinity of the Qargha Reservoir recreation area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.063988,
+                        34.498448
+                  ]
+            },
+            {
+                  "name": "Emam Zaman Mosque",
+                  "text": "Dedicated to the Imam of the Time (Mahdi), this mosque provides a spiritual haven near Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.061113,
+                        34.497626
+                  ]
+            },
+            {
+                  "name": "Zainulabidin mosque",
+                  "text": "Islamic sanctuary near the Qargha Reservoir named in honor of the pious Imam Zainulabidin.",
+                  "category": "landmark",
+                  "coords": [
+                        69.050985,
+                        34.495804
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "A local place of prostration near the Qargha Reservoir, dedicated to the Noble Messenger.",
+                  "category": "landmark",
+                  "coords": [
+                        69.05457,
+                        34.493244
+                  ]
+            },
+            {
+                  "name": "Aba Salih Almahdi (Musala)",
+                  "text": "Open-air prayer hall (Musala) near Qargha Reservoir serving as a gathering spot for special Islamic holiday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.0411,
+                        34.494613
+                  ]
+            },
+            {
+                  "name": "Qala Now Mosque",
+                  "text": "Local mosque serving the Qala Now community situated along the edge of the Qargha Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043711,
+                        34.491318
+                  ]
+            },
+            {
+                  "name": "Shah Mardan Mosque",
+                  "text": "Spiritual hub near the Qargha Reservoir honoring the title of 'The King of Men' (Imam Ali).",
+                  "category": "landmark",
+                  "coords": [
+                        69.08115,
+                        34.587038
+                  ]
+            },
+            {
+                  "name": "Kholafa-ye Rashedin Mosque",
+                  "text": "Islamic place of worship near Qargha dedicated to the historical legacy of the Rashidun Caliphs.",
+                  "category": "landmark",
+                  "coords": [
+                        69.084758,
+                        34.587982
+                  ]
+            },
+            {
+                  "name": "Baqhiyatullah Azam",
+                  "text": "Bearing a grand title, this mosque offers a peaceful prayer environment near the shores of Qargha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.068265,
+                        34.499309
+                  ]
+            },
+            {
+                  "name": "Qayim Al Mohammmad",
+                  "text": "Spiritual center near the Qargha Reservoir honoring the promised Qaim of the household of Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072783,
+                        34.525703
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Dedicated to Imam Ali, this mosque serves as a focal point for the faithful in the Qargha region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.04828,
+                        34.497304
+                  ]
+            },
+            {
+                  "name": "Khulafai Rashidin Mosque",
+                  "text": "Named for the Rightly Guided Caliphs, this mosque offers regular prayer services to the community in the Qargha district.",
+                  "category": "landmark",
+                  "coords": [
+                        69.044564,
+                        34.512249
+                  ]
+            },
+            {
+                  "name": "Khatamul Mursalin mosque",
+                  "text": "Islamic prayer hall near the Qargha Reservoir honoring the Prophet Muhammad, the 'Seal of the Prophets'.",
+                  "category": "landmark",
+                  "coords": [
+                        69.039497,
+                        34.509285
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "The Al Zahra Mosque is an Islamic place of worship serving the daily prayers of the faithful around the Qargha Reservoir area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.035324,
+                        34.50535
+                  ]
+            },
+            {
+                  "name": "masjidi Qamar Bani Hashim",
+                  "text": "Masjidi Qamar Bani Hashim is a Muslim house of worship situated in the landscape near the Qargha Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        69.043749,
+                        34.503148
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Imam Mahdi Mosque is an Islamic center located near the shores of the Qargha Reservoir, providing a retreat for the religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065147,
+                        34.508052
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.049, 34.549],
@@ -46,7 +739,772 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Construit dans les années 1930.", "Sert à l'irrigation et de lieu de loisirs.", "Aménagements sur les rives avec hôtel et restaurants.", "Destination prisée pour les excursions du week-end.", "Location de bateaux disponible sur le lac.", "Un symbole de stabilité dans la région.", "Situé à l'ouest de Kaboul.", "Source d'eau importante pour l'agriculture."],
     }, image: "/poi-images/qargha-reservoir-landmarks-v2.webp"},
   {
-    id: "national-museum-afghanistan-landmarks-v2",
+    id: "national-museum-afghanistan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabul Museum",
+                  "text": "Das afghanische Nationalmuseum in Kabul beherbergt eine umfangreiche Sammlung historischer Artefakte, die das reiche kulturelle Erbe des Landes zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        69.120061,
+                        34.467692
+                  ]
+            },
+            {
+                  "name": "Babaye Zangi Mosque",
+                  "text": "Die Babaye Zangi Moschee bietet einen Ort für das tägliche islamische Gebet unweit der historischen Sehenswürdigkeiten Kabuls.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129376,
+                        34.466733
+                  ]
+            },
+            {
+                  "name": "Bagher-al-olom",
+                  "text": "Bagher-al-olom fungiert als islamische religiöse Einrichtung und Gebetshalle im Museumsviertel der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.114022,
+                        34.485789
+                  ]
+            },
+            {
+                  "name": "Etifaq Mosque",
+                  "text": "Die Etifaq-Moschee dient als lokaler muslimischer Versammlungsort inmitten der städtischen Landschaft der afghanischen Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.086517,
+                        34.493114
+                  ]
+            },
+            {
+                  "name": "Sayed Ali Yakhsoz",
+                  "text": "Sayed Ali Yakhsoz ist ein islamischer Schrein oder Gebetsraum, der von den Gläubigen inmitten der belebten Straßen Kabuls aufgesucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.087038,
+                        34.497456
+                  ]
+            },
+            {
+                  "name": "Mosque of Qamar Bani Hashem",
+                  "text": "Die Moschee von Qamar Bani Hashem ist ein aktives muslimisches Gotteshaus, das die tief verwurzelte islamische Kultur der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.066319,
+                        34.491639
+                  ]
+            },
+            {
+                  "name": "Masjed Baqerul Olum",
+                  "text": "Masjed Baqerul Olum bietet spirituelle Führung und tägliche Gebetsmöglichkeiten für die muslimische Gemeinde nahe den Nationaldenkmälern.",
+                  "category": "landmark",
+                  "coords": [
+                        69.071736,
+                        34.485596
+                  ]
+            },
+            {
+                  "name": "Masjed Saidushuhada",
+                  "text": "Die Masjed Saidushuhada ist ein islamisches Religionszentrum, das den Einheimischen in Kabul Raum für gemeinsame Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072006,
+                        34.4809
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Die Imam-Mahdi-Moschee versammelt die lokale muslimische Gemeinde zu regelmäßigen Gottesdiensten und religiöser Bildung.",
+                  "category": "landmark",
+                  "coords": [
+                        69.067997,
+                        34.478153
+                  ]
+            },
+            {
+                  "name": "Qahraman Karbala Mosque",
+                  "text": "Die Qahraman Karbala Moschee bietet ein islamisches Refugium für Gebet und gemeinschaftliche Unterstützung im Herzen der Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065932,
+                        34.479247
+                  ]
+            },
+            {
+                  "name": "Hazrat Bilal",
+                  "text": "Als muslimischer Gebetsraum bietet die Einrichtung Hazrat Bilal Platz für regelmäßige islamische Riten in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        69.088877,
+                        34.50249
+                  ]
+            },
+            {
+                  "name": "Omer Faroq",
+                  "text": "Die Omer-Faroq-Moschee ist eine wichtige muslimische religiöse Stätte für die täglichen gemeinsamen Gebete im Museumsviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.092634,
+                        34.5022
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "Die Rasol-Akram-Moschee bietet den Gläubigen des Viertels einen traditionellen islamischen Rahmen für ihre täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094163,
+                        34.503462
+                  ]
+            },
+            {
+                  "name": "Sajjadia Mosque",
+                  "text": "Die Sajjadia-Moschee ist ein aktives islamisches Gotteshaus und bildet ein spirituelles Zentrum für die ansässigen Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        69.093815,
+                        34.497338
+                  ]
+            },
+            {
+                  "name": "Amam Hussain Mosque",
+                  "text": "Die Amam-Hussain-Moschee fungiert als prominentes islamisches Religionsgebäude, das den Gläubigen in der historischen Umgebung der Hauptstadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090961,
+                        34.494626
+                  ]
+            },
+            {
+                  "name": "Aba Salih Worship Place",
+                  "text": "Die Andachtsstätte Aba Salih ist eine islamische Einrichtung für Gebete und Gemeindetreffen in der Nähe von Kabuls nationalen Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        69.073123,
+                        34.479953
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Die \"Muslim Mosque\" dient als zentraler Gebetsort für die islamische Gemeinde im Museumsviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.080956,
+                        34.47366
+                  ]
+            },
+            {
+                  "name": "Hazrat Balal",
+                  "text": "Hazrat Balal dient als muslimisches Gebetshaus und erfüllt die religiösen Bedürfnisse der städtischen Bevölkerung in Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.083096,
+                        34.500429
+                  ]
+            },
+            {
+                  "name": "Quran Atrat",
+                  "text": "Quran Atrat bietet einen islamischen Raum, der dem Schriftstudium und den gemeinsamen Gebeten innerhalb der Stadt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090379,
+                        34.502636
+                  ]
+            },
+            {
+                  "name": "Hamam General Haidar",
+                  "text": "Der Hamam General Haidar ist ein traditionelles öffentliches Badehaus, das der lokalen Gemeinde die üblichen Wasch- und Entspannungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        69.06374,
+                        34.4885
+                  ]
+            },
+            {
+                  "name": "Shahin public bath",
+                  "text": "Das öffentliche Bad Shahin ist eine städtische Einrichtung, die den Bewohnern der Hauptstadt traditionelle Badedienste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        69.0781,
+                        34.483827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabul Museum",
+                  "text": "Az Afganisztáni Nemzeti Múzeum történelmi műtárgyak hatalmas gyűjteményének ad otthont, amely az ország gazdag kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.120061,
+                        34.467692
+                  ]
+            },
+            {
+                  "name": "Babaye Zangi Mosque",
+                  "text": "A Babaye Zangi mecset a napi iszlám istentiszteletek helyszíne Kabul történelmi nevezetességeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129376,
+                        34.466733
+                  ]
+            },
+            {
+                  "name": "Bagher-al-olom",
+                  "text": "A Bagher-al-olom iszlám vallási intézményként és imateremként működik a város múzeumi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.114022,
+                        34.485789
+                  ]
+            },
+            {
+                  "name": "Etifaq Mosque",
+                  "text": "Az Etifaq mecset egy helyi muszlim gyülekezeti hely, amelyet az afgán főváros városi tája vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        69.086517,
+                        34.493114
+                  ]
+            },
+            {
+                  "name": "Sayed Ali Yakhsoz",
+                  "text": "Sayed Ali Yakhsoz egy iszlám szentély vagy imatér, amelyet a hívők látogatnak Kabul nyüzsgő utcáin.",
+                  "category": "landmark",
+                  "coords": [
+                        69.087038,
+                        34.497456
+                  ]
+            },
+            {
+                  "name": "Mosque of Qamar Bani Hashem",
+                  "text": "A Qamar Bani Hashem mecset egy aktív muszlim istentiszteleti hely, amely a régió mélyen gyökerező iszlám kultúráját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.066319,
+                        34.491639
+                  ]
+            },
+            {
+                  "name": "Masjed Baqerul Olum",
+                  "text": "A Masjed Baqerul Olum spirituális útmutatást és napi imalehetőségeket kínál a muszlim közösség számára a nemzeti emlékművek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.071736,
+                        34.485596
+                  ]
+            },
+            {
+                  "name": "Masjed Saidushuhada",
+                  "text": "A Masjed Saidushuhada egy iszlám vallási központ, amely közös imateret kínál a helyieknek Kabulban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072006,
+                        34.4809
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Az Imam Mahdi mecset a helyi muszlim gyülekezetet gyűjti össze rendszeres istentiszteletre és vallási oktatásra.",
+                  "category": "landmark",
+                  "coords": [
+                        69.067997,
+                        34.478153
+                  ]
+            },
+            {
+                  "name": "Qahraman Karbala Mosque",
+                  "text": "A Qahraman Karbala mecset iszlám szentélyt nyújt az imádkozáshoz és a közösségi támogatáshoz a főváros szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065932,
+                        34.479247
+                  ]
+            },
+            {
+                  "name": "Hazrat Bilal",
+                  "text": "Muszlim imatérként a Hazrat Bilal létesítmény rendszeres iszlám rítusoknak ad helyet a környék számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.088877,
+                        34.50249
+                  ]
+            },
+            {
+                  "name": "Omer Faroq",
+                  "text": "Az Omer Faroq mecset egy fontos muszlim vallási helyszín a napi közös imák számára a múzeumi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        69.092634,
+                        34.5022
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "A Rasol Akram mecset hagyományos iszlám környezetet kínál a környék hívőinek napi imáik elvégzéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094163,
+                        34.503462
+                  ]
+            },
+            {
+                  "name": "Sajjadia Mosque",
+                  "text": "A Sajjadia mecset egy aktív iszlám istentiszteleti központ, amely spirituális központot biztosít a helyi muszlim lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.093815,
+                        34.497338
+                  ]
+            },
+            {
+                  "name": "Amam Hussain Mosque",
+                  "text": "Az Amam Hussain mecset kiemelkedő iszlám vallási épületként működik, amely a főváros történelmi környékén szolgálja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090961,
+                        34.494626
+                  ]
+            },
+            {
+                  "name": "Aba Salih Worship Place",
+                  "text": "Az Aba Salih istentiszteleti hely egy iszlám létesítmény imákhoz és közösségi összejövetelekhez Kabul nemzeti nevezetességeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.073123,
+                        34.479953
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "A \"Muslim Mosque\" központi imádságos helyként szolgál a múzeumi negyedben található iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.080956,
+                        34.47366
+                  ]
+            },
+            {
+                  "name": "Hazrat Balal",
+                  "text": "A Hazrat Balal egy muszlim imaház, amely Kabul városi lakosságának vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.083096,
+                        34.500429
+                  ]
+            },
+            {
+                  "name": "Quran Atrat",
+                  "text": "A Quran Atrat a szentírás-tanulmányozásnak és a közös imáknak szentelt iszlám teret biztosít a városon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090379,
+                        34.502636
+                  ]
+            },
+            {
+                  "name": "Hamam General Haidar",
+                  "text": "A Hamam General Haidar egy hagyományos nyilvános fürdő, amely megszokott mosakodási és relaxációs lehetőségeket kínál a helyi közösség számára.",
+                  "category": "recreational",
+                  "coords": [
+                        69.06374,
+                        34.4885
+                  ]
+            },
+            {
+                  "name": "Shahin public bath",
+                  "text": "A Shahin nyilvános fürdő egy helyi városi létesítmény, amely hagyományos fürdőszolgáltatásokat nyújt a főváros lakosainak.",
+                  "category": "recreational",
+                  "coords": [
+                        69.0781,
+                        34.483827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabul Museum",
+                  "text": "Muzeul Național al Afganistanului din Kabul găzduiește o vastă colecție de artefacte istorice care prezintă bogata moștenire culturală a țării.",
+                  "category": "museum",
+                  "coords": [
+                        69.120061,
+                        34.467692
+                  ]
+            },
+            {
+                  "name": "Babaye Zangi Mosque",
+                  "text": "Moscheea Babaye Zangi oferă un loc pentru rugăciunea islamică zilnică, fiind situată aproape de reperele istorice din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129376,
+                        34.466733
+                  ]
+            },
+            {
+                  "name": "Bagher-al-olom",
+                  "text": "Bagher-al-olom funcționează ca instituție religioasă islamică și sală de rugăciune în districtul muzeal al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.114022,
+                        34.485789
+                  ]
+            },
+            {
+                  "name": "Etifaq Mosque",
+                  "text": "Moscheea Etifaq servește ca loc de adunare musulman local, înconjurat de peisajul urban al capitalei afgane.",
+                  "category": "landmark",
+                  "coords": [
+                        69.086517,
+                        34.493114
+                  ]
+            },
+            {
+                  "name": "Sayed Ali Yakhsoz",
+                  "text": "Sayed Ali Yakhsoz este un altar islamic sau un spațiu de rugăciune vizitat de credincioși pe străzile pline de viață din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.087038,
+                        34.497456
+                  ]
+            },
+            {
+                  "name": "Mosque of Qamar Bani Hashem",
+                  "text": "Moscheea Qamar Bani Hashem este un lăcaș de cult musulman activ, reflectând cultura islamică profund înrădăcinată a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.066319,
+                        34.491639
+                  ]
+            },
+            {
+                  "name": "Masjed Baqerul Olum",
+                  "text": "Masjed Baqerul Olum oferă îndrumare spirituală și facilități zilnice de rugăciune pentru comunitatea musulmană din apropierea monumentelor naționale.",
+                  "category": "landmark",
+                  "coords": [
+                        69.071736,
+                        34.485596
+                  ]
+            },
+            {
+                  "name": "Masjed Saidushuhada",
+                  "text": "Masjed Saidushuhada este un centru religios islamic ce oferă spațiu comun de rugăciune pentru localnicii din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072006,
+                        34.4809
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Moscheea Imam Mahdi adună congregația musulmană locală pentru slujbe regulate și educație religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        69.067997,
+                        34.478153
+                  ]
+            },
+            {
+                  "name": "Qahraman Karbala Mosque",
+                  "text": "Moscheea Qahraman Karbala oferă un sanctuar islamic pentru rugăciune și sprijin comunitar în inima capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065932,
+                        34.479247
+                  ]
+            },
+            {
+                  "name": "Hazrat Bilal",
+                  "text": "Dedicată ca spațiu de rugăciune musulman, facilitatea Hazrat Bilal găzduiește rituri islamice regulate pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        69.088877,
+                        34.50249
+                  ]
+            },
+            {
+                  "name": "Omer Faroq",
+                  "text": "Moscheea Omer Faroq este un sit religios musulman esențial pentru rugăciunile comunale zilnice în districtul muzeal.",
+                  "category": "landmark",
+                  "coords": [
+                        69.092634,
+                        34.5022
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "Moscheea Rasol Akram oferă un cadru islamic tradițional pentru credincioșii din cartier pentru a-și efectua rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094163,
+                        34.503462
+                  ]
+            },
+            {
+                  "name": "Sajjadia Mosque",
+                  "text": "Moscheea Sajjadia este un centru activ de cult islamic, oferind un nucleu spiritual pentru rezidenții musulmani locali.",
+                  "category": "landmark",
+                  "coords": [
+                        69.093815,
+                        34.497338
+                  ]
+            },
+            {
+                  "name": "Amam Hussain Mosque",
+                  "text": "Moscheea Amam Hussain funcționează ca o clădire religioasă islamică proeminentă, deservind credincioșii din vecinătatea istorică a capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090961,
+                        34.494626
+                  ]
+            },
+            {
+                  "name": "Aba Salih Worship Place",
+                  "text": "Locul de cult Aba Salih este o facilitate islamică destinată rugăciunilor și adunărilor comunitare, situată aproape de reperele naționale din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.073123,
+                        34.479953
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "\"Muslim Mosque\" acționează ca un punct central de rugăciune pentru comunitatea islamică situată în cartierul muzeal.",
+                  "category": "landmark",
+                  "coords": [
+                        69.080956,
+                        34.47366
+                  ]
+            },
+            {
+                  "name": "Hazrat Balal",
+                  "text": "Hazrat Balal servește ca o casă de rugăciune musulmană, satisfăcând nevoile religioase ale populației urbane din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.083096,
+                        34.500429
+                  ]
+            },
+            {
+                  "name": "Quran Atrat",
+                  "text": "Quran Atrat oferă un spațiu islamic dedicat studiului scripturilor și rugăciunilor comunitare în cadrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090379,
+                        34.502636
+                  ]
+            },
+            {
+                  "name": "Hamam General Haidar",
+                  "text": "Hamam General Haidar este o baie publică tradițională care oferă facilități obișnuite de spălare și relaxare pentru comunitatea locală.",
+                  "category": "recreational",
+                  "coords": [
+                        69.06374,
+                        34.4885
+                  ]
+            },
+            {
+                  "name": "Shahin public bath",
+                  "text": "Baia publică Shahin este o facilitate urbană locală care oferă servicii tradiționale de baie locuitorilor din capitală.",
+                  "category": "recreational",
+                  "coords": [
+                        69.0781,
+                        34.483827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabul Museum",
+                  "text": "The National Museum of Afghanistan houses a vast collection of historical artifacts showcasing the country's rich cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        69.120061,
+                        34.467692
+                  ]
+            },
+            {
+                  "name": "Babaye Zangi Mosque",
+                  "text": "Babaye Zangi Mosque provides a place of daily Islamic worship situated near the historic landmarks of Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129376,
+                        34.466733
+                  ]
+            },
+            {
+                  "name": "Bagher-al-olom",
+                  "text": "Bagher-al-olom functions as an Islamic religious institution and prayer hall within the city's museum district.",
+                  "category": "landmark",
+                  "coords": [
+                        69.114022,
+                        34.485789
+                  ]
+            },
+            {
+                  "name": "Etifaq Mosque",
+                  "text": "The Etifaq Mosque serves as a local Muslim gathering space surrounded by the urban landscape of the Afghan capital.",
+                  "category": "landmark",
+                  "coords": [
+                        69.086517,
+                        34.493114
+                  ]
+            },
+            {
+                  "name": "Sayed Ali Yakhsoz",
+                  "text": "Sayed Ali Yakhsoz is an Islamic shrine or prayer space visited by the faithful amidst the bustling streets of Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.087038,
+                        34.497456
+                  ]
+            },
+            {
+                  "name": "Mosque of Qamar Bani Hashem",
+                  "text": "The Mosque of Qamar Bani Hashem is an active Muslim place of worship reflecting the deep-rooted Islamic culture of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.066319,
+                        34.491639
+                  ]
+            },
+            {
+                  "name": "Masjed Baqerul Olum",
+                  "text": "Masjed Baqerul Olum provides spiritual guidance and daily prayer facilities for the Muslim community near the national monuments.",
+                  "category": "landmark",
+                  "coords": [
+                        69.071736,
+                        34.485596
+                  ]
+            },
+            {
+                  "name": "Masjed Saidushuhada",
+                  "text": "Masjed Saidushuhada stands as an Islamic religious center offering communal prayer space for locals in Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072006,
+                        34.4809
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Imam Mahdi Mosque gathers the local Muslim congregation for regular worship and religious education.",
+                  "category": "landmark",
+                  "coords": [
+                        69.067997,
+                        34.478153
+                  ]
+            },
+            {
+                  "name": "Qahraman Karbala Mosque",
+                  "text": "The Qahraman Karbala Mosque provides an Islamic sanctuary for prayer and community support in the heart of the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        69.065932,
+                        34.479247
+                  ]
+            },
+            {
+                  "name": "Hazrat Bilal",
+                  "text": "Dedicated as a Muslim prayer space, the Hazrat Bilal facility accommodates regular Islamic rites for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        69.088877,
+                        34.50249
+                  ]
+            },
+            {
+                  "name": "Omer Faroq",
+                  "text": "The Omer Faroq mosque is an essential Muslim religious site for daily congregational prayers in the museum district.",
+                  "category": "landmark",
+                  "coords": [
+                        69.092634,
+                        34.5022
+                  ]
+            },
+            {
+                  "name": "Rasol Akram Mosque",
+                  "text": "Rasol Akram Mosque offers a traditional Islamic setting for the neighborhood's faithful to perform their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094163,
+                        34.503462
+                  ]
+            },
+            {
+                  "name": "Sajjadia Mosque",
+                  "text": "Sajjadia Mosque is an active Islamic worship center providing a spiritual hub for the local Muslim residents.",
+                  "category": "landmark",
+                  "coords": [
+                        69.093815,
+                        34.497338
+                  ]
+            },
+            {
+                  "name": "Amam Hussain Mosque",
+                  "text": "Amam Hussain Mosque operates as a prominent Islamic religious building serving the faithful within the capital's historic vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090961,
+                        34.494626
+                  ]
+            },
+            {
+                  "name": "Aba Salih Worship Place",
+                  "text": "Aba Salih Worship Place is an Islamic facility designated for prayers and community gatherings near Kabul's national landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        69.073123,
+                        34.479953
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "The Muslim Mosque acts as a central prayer point for the Islamic community located in the museum quarter.",
+                  "category": "landmark",
+                  "coords": [
+                        69.080956,
+                        34.47366
+                  ]
+            },
+            {
+                  "name": "Hazrat Balal",
+                  "text": "Hazrat Balal serves as a Muslim prayer house catering to the religious needs of the urban population in Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.083096,
+                        34.500429
+                  ]
+            },
+            {
+                  "name": "Quran Atrat",
+                  "text": "Quran Atrat provides an Islamic space dedicated to scripture study and congregational prayers within the city.",
+                  "category": "landmark",
+                  "coords": [
+                        69.090379,
+                        34.502636
+                  ]
+            },
+            {
+                  "name": "Hamam General Haidar",
+                  "text": "Hamam General Haidar is a traditional public bathhouse offering customary washing and relaxation facilities to the local community.",
+                  "category": "recreational",
+                  "coords": [
+                        69.06374,
+                        34.4885
+                  ]
+            },
+            {
+                  "name": "Shahin public bath",
+                  "text": "Shahin public bath is a local urban amenity providing traditional bathing services for residents in the capital.",
+                  "category": "recreational",
+                  "coords": [
+                        69.0781,
+                        34.483827
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.119, 34.466],
@@ -89,7 +1547,88 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Fondé en 1919 à Kaboul.", "La collection comprenait autrefois plus de 100 000 objets.", "Gravement endommagé pendant la guerre civile.", "De nombreux trésors ont été cachés par les employés.", "Abrite l'or célèbre de Bactriane.", "Réouverture après une restauration importante.", "Présente l'histoire culturelle diversifiée du pays.", "Situé dans le centre historique de Kaboul."],
     }, image: "/poi-images/national-museum-afghanistan-landmarks-v2.webp"},
   {
-    id: "band-e-amir-park-landmarks-v2",
+    id: "band-e-amir-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Band-e-Amir-Nationalpark",
+                  "text": "Der Nationalpark Band-e Amir beeindruckt mit einer Reihe von sechs tiefblauen Seen, die durch natürliche Travertindämme im Hochland des Hindukusch getrennt sind.",
+                  "category": "natural",
+                  "coords": [
+                        67.277666,
+                        34.876067
+                  ]
+            },
+            {
+                  "name": "Hazrat Ali Mosque",
+                  "text": "Die Hazrat-Ali-Moschee dient als islamische Kultstätte für Pilger und Besucher der malerischen Seen von Band-e Amir.",
+                  "category": "landmark",
+                  "coords": [
+                        67.193801,
+                        34.822185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Band-e-Amir Nemzeti Park",
+                  "text": "A Band-e Amir Nemzeti Park hat mélykék tóból álló, természetes mésztufagátakkal elválasztott tórendszerrel büszkélkedhet a Hindukus hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        67.277666,
+                        34.876067
+                  ]
+            },
+            {
+                  "name": "Hazrat Ali Mosque",
+                  "text": "A Hazrat Ali-mecset iszlám istentiszteleti helyként szolgál a festői Band-e Amir tavakhoz érkező zarándokok és látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        67.193801,
+                        34.822185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Band-e Amir National Park",
+                  "text": "Parcul Național Band-e Amir este renumit pentru seria sa uimitoare de șase lacuri de un albastru intens, separate prin baraje naturale de travertin în munții Hindukuș.",
+                  "category": "natural",
+                  "coords": [
+                        67.277666,
+                        34.876067
+                  ]
+            },
+            {
+                  "name": "Hazrat Ali Mosque",
+                  "text": "Moscheea Hazrat Ali servește drept lăcaș de cult islamic pentru pelerinii și vizitatorii care sosesc la pitoreștile lacuri Band-e Amir.",
+                  "category": "landmark",
+                  "coords": [
+                        67.193801,
+                        34.822185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Band-e Amir National Park",
+                  "text": "Band-e Amir National Park features a stunning series of six deep blue lakes separated by natural travertine dams high in the Hindu Kush.",
+                  "category": "natural",
+                  "coords": [
+                        67.277666,
+                        34.876067
+                  ]
+            },
+            {
+                  "name": "Hazrat Ali Mosque",
+                  "text": "The Hazrat Ali Mosque serves as an Islamic place of worship for pilgrims and visitors arriving at the scenic Band-e Amir lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        67.193801,
+                        34.822185
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AF-BAM",
     coords: [67.200, 34.833],
@@ -132,7 +1671,556 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Premier parc national d'Afghanistan (2009).", "Composé de 6 lacs distincts.", "Barrages naturels en travertin.", "L'eau est riche en carbonate de calcium.", "Situé à environ 3 000 m d'altitude.", "Le plus grand lac est le Band-e Zulfiqar.", "Important lieu de pèlerinage dans la région.", "Situé dans la province de Bamiyan."],
     }, image: "/poi-images/band-e-amir-park-landmarks-v2.webp"},
   {
-    id: "bagh-e-bala-palace-landmarks-v2",
+    id: "bagh-e-bala-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ismael Zabiullah Jame Mosque",
+                  "text": "Große Freitagsmoschee in der Nähe des Bagh-e-Bala-Palastes, in der die Ismael-Zabiullah-Gemeinde zusammenkommt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.156535,
+                        34.584063
+                  ]
+            },
+            {
+                  "name": "Madina",
+                  "text": "Nach der heiligen Stadt Medina benannter islamischer Gebetsraum im historischen Viertel Bagh-e-Bala.",
+                  "category": "landmark",
+                  "coords": [
+                        69.118904,
+                        34.525015
+                  ]
+            },
+            {
+                  "name": "Quete Mosque",
+                  "text": "Lokales muslimisches Gotteshaus in der Nähe des Bagh-e-Bala-Palastes, das der umliegenden Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.110086,
+                        34.520104
+                  ]
+            },
+            {
+                  "name": "Zainab Kobra",
+                  "text": "Islamische religiöse Stätte in der Gegend von Bagh-e-Bala, die der verehrten Figur Zainab Kobra gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105195,
+                        34.533315
+                  ]
+            },
+            {
+                  "name": "Takya Khana omemi Afshar",
+                  "text": "Traditionelle Takya Khana in der Nähe von Bagh-e-Bala, die einen speziellen Raum für schiitische Trauerzeremonien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112901,
+                        34.529901
+                  ]
+            },
+            {
+                  "name": "AbulfazlAbas Mosque",
+                  "text": "Diese Moschee in Bagh-e-Bala ehrt das Vermächtnis von Abul Fazl Abbas, einem wichtigen Märtyrer in der islamischen Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112812,
+                        34.537178
+                  ]
+            },
+            {
+                  "name": "Jaghoriha Mosque",
+                  "text": "Gemeindemoschee in der Nähe von Bagh-e-Bala, die traditionell ein spirituelles Zentrum für das Volk der Jaghori ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105952,
+                        34.537995
+                  ]
+            },
+            {
+                  "name": "Masjid Jami",
+                  "text": "Zentrale Freitagsmoschee (Masjid Jami), die die Gläubigen rund um den historischen Bagh-e-Bala-Palast zusammenbringt.",
+                  "category": "religious",
+                  "coords": [
+                        69.135537,
+                        34.538641
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Abdullah bin Masood",
+                  "text": "Nach einem Gefährten des Propheten benannte Jame-Moschee in Bagh-e-Bala für bedeutende Gemeindegebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.12343,
+                        34.541495
+                  ]
+            },
+            {
+                  "name": "KPU Teachers Mosque",
+                  "text": "Spezieller muslimischer Gebetsraum in der Nähe von Bagh-e-Bala, der hauptsächlich von den Pädagogen der Polytechnischen Universität Kabul genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.122946,
+                        34.535962
+                  ]
+            },
+            {
+                  "name": "Jomat Khana-e- Ismailia",
+                  "text": "Ismaelitische Jamatkhana in der Nähe von Bagh-e-Bala, die als spiritueller und sozialer Treffpunkt für die Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146099,
+                        34.553207
+                  ]
+            },
+            {
+                  "name": "Labe Jar Mosque",
+                  "text": "Lokales islamisches Gotteshaus, das die Gläubigen aus dem Viertel Labe Jar in der Nähe von Bagh-e-Bala versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147953,
+                        34.564954
+                  ]
+            },
+            {
+                  "name": "Imam Azam Masjid",
+                  "text": "Diese Moschee in der Gegend von Bagh-e-Bala ist Imam Azam (Abu Hanifa) gewidmet und bietet tägliche Gebetsdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        69.097242,
+                        34.52622
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Traditionelle afghanische Moschee, die einen spirituellen Rückzugsort in der Nähe des historischen Palastes Bagh-e-Bala bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.15777,
+                        34.556066
+                  ]
+            },
+            {
+                  "name": "Fruit Market",
+                  "text": "Lebhafter lokaler Basar in der Nähe von Bagh-e-Bala, auf dem saisonale afghanische Früchte und frische Produkte verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149042,
+                        34.534988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ismael Zabiullah Jame Mosque",
+                  "text": "Nagy pénteki mecset a Bagh-e-Bala palota közelében, ahol az Ismael Zabiullah közösség gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        69.156535,
+                        34.584063
+                  ]
+            },
+            {
+                  "name": "Madina",
+                  "text": "A szent Medina városáról elnevezett iszlám imaterem a történelmi Bagh-e-Bala negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        69.118904,
+                        34.525015
+                  ]
+            },
+            {
+                  "name": "Quete Mosque",
+                  "text": "A Bagh-e-Bala palota közelében található helyi muszlim istentiszteleti hely, amely a környező negyedet szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.110086,
+                        34.520104
+                  ]
+            },
+            {
+                  "name": "Zainab Kobra",
+                  "text": "Iszlám vallási hely a Bagh-e-Bala térségben, amelyet a tisztelt Zainab Kobra emlékének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105195,
+                        34.533315
+                  ]
+            },
+            {
+                  "name": "Takya Khana omemi Afshar",
+                  "text": "Hagyományos Takya Khana Bagh-e-Bala közelében, amely különleges helyszínt biztosít a síita gyászszertartások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112901,
+                        34.529901
+                  ]
+            },
+            {
+                  "name": "AbulfazlAbas Mosque",
+                  "text": "Ez a Bagh-e-Bala-i mecset Abul Fazl Abbas, az iszlám történelem egy fontos mártírjának örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112812,
+                        34.537178
+                  ]
+            },
+            {
+                  "name": "Jaghoriha Mosque",
+                  "text": "Közösségi mecset Bagh-e-Bala közelében, amely hagyományosan a Jaghori közösség spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105952,
+                        34.537995
+                  ]
+            },
+            {
+                  "name": "Masjid Jami",
+                  "text": "Központi pénteki mecset (Masjid Jami), amely összefogja a hívőket a történelmi Bagh-e-Bala palota környékén.",
+                  "category": "religious",
+                  "coords": [
+                        69.135537,
+                        34.538641
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Abdullah bin Masood",
+                  "text": "A Próféta egyik társáról elnevezett Jame mecset Bagh-e-Balában, amely a jelentős közösségi imáknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        69.12343,
+                        34.541495
+                  ]
+            },
+            {
+                  "name": "KPU Teachers Mosque",
+                  "text": "Bagh-e-Bala közeli dedikált muszlim imatér, amelyet elsősorban a Kabuli Politechnikai Egyetem oktatói használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        69.122946,
+                        34.535962
+                  ]
+            },
+            {
+                  "name": "Jomat Khana-e- Ismailia",
+                  "text": "Bagh-e-Bala közeli iszmáilita Dzsamatkhana, amely spirituális és társadalmi találkozóhelyként szolgál a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146099,
+                        34.553207
+                  ]
+            },
+            {
+                  "name": "Labe Jar Mosque",
+                  "text": "Helyi iszlám istentiszteleti hely, amely a Bagh-e-Bala közeli Labe Jar negyed híveit gyűjti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147953,
+                        34.564954
+                  ]
+            },
+            {
+                  "name": "Imam Azam Masjid",
+                  "text": "Ez a Bagh-e-Bala térségében található mecset Imam Azam (Abu Hanifa) tiszteletére épült, és napi istentiszteleteket tart.",
+                  "category": "landmark",
+                  "coords": [
+                        69.097242,
+                        34.52622
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Hagyományos afgán mecset, amely spirituális menedéket nyújt a történelmi Bagh-e-Bala palota közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.15777,
+                        34.556066
+                  ]
+            },
+            {
+                  "name": "Fruit Market",
+                  "text": "Nyüzsgő helyi bazár Bagh-e-Bala közelében, ahol szezonális afgán gyümölcsöket és friss termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149042,
+                        34.534988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ismael Zabiullah Jame Mosque",
+                  "text": "Mare moschee de vineri lângă Palatul Bagh-e-Bala, unde se reunește congregația Ismael Zabiullah.",
+                  "category": "landmark",
+                  "coords": [
+                        69.156535,
+                        34.584063
+                  ]
+            },
+            {
+                  "name": "Madina",
+                  "text": "Sală de rugăciune islamică din cartierul istoric Bagh-e-Bala, numită după orașul sfânt Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        69.118904,
+                        34.525015
+                  ]
+            },
+            {
+                  "name": "Quete Mosque",
+                  "text": "Lăcaș de cult musulman local de lângă Palatul Bagh-e-Bala, care deservește cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        69.110086,
+                        34.520104
+                  ]
+            },
+            {
+                  "name": "Zainab Kobra",
+                  "text": "Sit religios islamic din zona Bagh-e-Bala, dedicat veneratei figuri Zainab Kobra.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105195,
+                        34.533315
+                  ]
+            },
+            {
+                  "name": "Takya Khana omemi Afshar",
+                  "text": "Takya Khana tradițională lângă Bagh-e-Bala, oferind un spațiu dedicat pentru ceremoniile de doliu șiite.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112901,
+                        34.529901
+                  ]
+            },
+            {
+                  "name": "AbulfazlAbas Mosque",
+                  "text": "Această moschee din Bagh-e-Bala onorează moștenirea lui Abul Fazl Abbas, un martir important în istoria islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112812,
+                        34.537178
+                  ]
+            },
+            {
+                  "name": "Jaghoriha Mosque",
+                  "text": "Moschee comunitară lângă Bagh-e-Bala, devenită un centru spiritual tradițional pentru comunitatea Jaghori.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105952,
+                        34.537995
+                  ]
+            },
+            {
+                  "name": "Masjid Jami",
+                  "text": "Moscheea centrală de vineri (Masjid Jami) care reunește credincioșii din jurul istoricului Palat Bagh-e-Bala.",
+                  "category": "religious",
+                  "coords": [
+                        69.135537,
+                        34.538641
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Abdullah bin Masood",
+                  "text": "Numită după un tovarăș al Profetului, această moschee Jame din Bagh-e-Bala găzduiește rugăciunile importante.",
+                  "category": "landmark",
+                  "coords": [
+                        69.12343,
+                        34.541495
+                  ]
+            },
+            {
+                  "name": "KPU Teachers Mosque",
+                  "text": "Spațiu de rugăciune musulman lângă Bagh-e-Bala, utilizat în principal de profesorii Universității Politehnice din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.122946,
+                        34.535962
+                  ]
+            },
+            {
+                  "name": "Jomat Khana-e- Ismailia",
+                  "text": "Jamatkhana ismailiților de lângă Bagh-e-Bala, servind drept punct de întâlnire spiritual și social pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146099,
+                        34.553207
+                  ]
+            },
+            {
+                  "name": "Labe Jar Mosque",
+                  "text": "Lăcaș de cult islamic local care adună credincioșii din cartierul Labe Jar de lângă Bagh-e-Bala.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147953,
+                        34.564954
+                  ]
+            },
+            {
+                  "name": "Imam Azam Masjid",
+                  "text": "Dedicată lui Imam Azam (Abu Hanifa), această moschee din zona Bagh-e-Bala oferă servicii de rugăciune zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.097242,
+                        34.52622
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Moschee tradițională afgană, oferind un refugiu spiritual lângă istoricul Palat Bagh-e-Bala.",
+                  "category": "landmark",
+                  "coords": [
+                        69.15777,
+                        34.556066
+                  ]
+            },
+            {
+                  "name": "Fruit Market",
+                  "text": "Bazar local plin de viață lângă Bagh-e-Bala, unde se vând fructe afgane de sezon și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149042,
+                        34.534988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ismael Zabiullah Jame Mosque",
+                  "text": "Large congregational Friday mosque near the Bagh-e-Bala Palace serving the Ismael Zabiullah faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        69.156535,
+                        34.584063
+                  ]
+            },
+            {
+                  "name": "Madina",
+                  "text": "Islamic prayer hall in the historic Bagh-e-Bala district, named after the holy city of Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        69.118904,
+                        34.525015
+                  ]
+            },
+            {
+                  "name": "Quete Mosque",
+                  "text": "Local Muslim house of worship near the Bagh-e-Bala Palace serving the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        69.110086,
+                        34.520104
+                  ]
+            },
+            {
+                  "name": "Zainab Kobra",
+                  "text": "Islamic religious site in the Bagh-e-Bala area dedicated to the revered figure Zainab Kobra.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105195,
+                        34.533315
+                  ]
+            },
+            {
+                  "name": "Takya Khana omemi Afshar",
+                  "text": "Traditional Takya Khana near Bagh-e-Bala providing a dedicated space for Shia Muslim mourning ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112901,
+                        34.529901
+                  ]
+            },
+            {
+                  "name": "AbulfazlAbas Mosque",
+                  "text": "This mosque in Bagh-e-Bala honors the legacy of Abul Fazl Abbas, a significant martyr in Islamic history.",
+                  "category": "landmark",
+                  "coords": [
+                        69.112812,
+                        34.537178
+                  ]
+            },
+            {
+                  "name": "Jaghoriha Mosque",
+                  "text": "Community mosque near Bagh-e-Bala, traditionally serving as a spiritual center for the Jaghori people.",
+                  "category": "landmark",
+                  "coords": [
+                        69.105952,
+                        34.537995
+                  ]
+            },
+            {
+                  "name": "Masjid Jami",
+                  "text": "Main congregational Friday mosque (Masjid Jami) gathering the faithful around the historic Bagh-e-Bala Palace.",
+                  "category": "religious",
+                  "coords": [
+                        69.135537,
+                        34.538641
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Abdullah bin Masood",
+                  "text": "Named after a companion of the Prophet, this Jame mosque in Bagh-e-Bala gathers locals for significant prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.12343,
+                        34.541495
+                  ]
+            },
+            {
+                  "name": "KPU Teachers Mosque",
+                  "text": "Dedicated Muslim prayer space near Bagh-e-Bala utilized primarily by the educators of Kabul Polytechnic University.",
+                  "category": "landmark",
+                  "coords": [
+                        69.122946,
+                        34.535962
+                  ]
+            },
+            {
+                  "name": "Jomat Khana-e- Ismailia",
+                  "text": "Ismaili Jamatkhana near Bagh-e-Bala serving as a spiritual and social assembly point for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146099,
+                        34.553207
+                  ]
+            },
+            {
+                  "name": "Labe Jar Mosque",
+                  "text": "Local Islamic place of worship gathering the faithful from the Labe Jar neighborhood near Bagh-e-Bala.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147953,
+                        34.564954
+                  ]
+            },
+            {
+                  "name": "Imam Azam Masjid",
+                  "text": "Dedicated to Imam Azam (Abu Hanifa), this mosque offers daily Islamic prayer services in the Bagh-e-Bala area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.097242,
+                        34.52622
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Traditional Afghan mosque offering a spiritual retreat near the historic Bagh-e-Bala Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        69.15777,
+                        34.556066
+                  ]
+            },
+            {
+                  "name": "Fruit Market",
+                  "text": "Bustling local bazaar near Bagh-e-Bala selling seasonal Afghan fruits and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149042,
+                        34.534988
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.133, 34.544],
@@ -218,7 +2306,88 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Relie le nord et le sud de l'Afghanistan.", "Atteint une altitude de 3 878 mètres.", "Le tunnel de Salang est long de 2,6 km.", "Construit avec le soutien soviétique (1964).", "Souvent fermé en hiver en raison des risques d'avalanches.", "Route militaire stratégiquement importante.", "A réduit considérablement le temps de trajet.", "Fait partie de la route internationale A-76."],
     }, image: "/poi-images/salang-pass-landmarks-v2.webp"},
   {
-    id: "wazir-akbar-khan-mosque-landmarks-v2",
+    id: "wazir-akbar-khan-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Jami Sardar Madinah",
+                  "text": "Die Masjid Jami Sardar Madinah ist eine weitläufige islamische Gebetsstätte mit einem großen Innenhof, in dem Hunderte von Gläubigen Platz finden.",
+                  "category": "landmark",
+                  "coords": [
+                        69.177293,
+                        34.539075
+                  ]
+            },
+            {
+                  "name": "Masjid Rasool Akram",
+                  "text": "Die Masjid Rasool Akram ist eine wichtige islamische Einrichtung im Viertel, die sich durch ihre wunderschön verzierten Gebetsnischen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.161866,
+                        34.554382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Jami Sardar Madinah",
+                  "text": "A Masjid Jami Sardar Madinah egy kiterjedt iszlám istentiszteleti hely, amelynek nagy központi udvara több száz imádkozó befogadására alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        69.177293,
+                        34.539075
+                  ]
+            },
+            {
+                  "name": "Masjid Rasool Akram",
+                  "text": "A Masjid Rasool Akram alapvető környékbeli iszlám intézményként szolgál, amelyet gyönyörűen díszített imafülkék jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.161866,
+                        34.554382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Jami Sardar Madinah",
+                  "text": "Masjid Jami Sardar Madinah este un vast lăcaș de cult islamic cu o mare curte centrală pentru a găzdui sute de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        69.177293,
+                        34.539075
+                  ]
+            },
+            {
+                  "name": "Masjid Rasool Akram",
+                  "text": "Masjid Rasool Akram este o instituție islamică esențială din cartier, caracterizată prin nișele sale de rugăciune frumos decorate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.161866,
+                        34.554382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Jami Sardar Madinah",
+                  "text": "The Masjid Jami Sardar Madinah is an expansive Islamic worship site featuring a large central courtyard to accommodate hundreds of worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.177293,
+                        34.539075
+                  ]
+            },
+            {
+                  "name": "Masjid Rasool Akram",
+                  "text": "Masjid Rasool Akram stands as an essential neighborhood Islamic institution, characterized by its beautifully decorated prayer niches.",
+                  "category": "landmark",
+                  "coords": [
+                        69.161866,
+                        34.554382
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.176, 34.535],
@@ -262,7 +2431,52 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "abdul-rahman-mosque-landmarks-v2",
+    id: "abdul-rahman-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Archive of Afghanistan",
+                  "text": "Dieses Museum, untergebracht in einem historischen Palast, bewahrt wertvolle afghanische Manuskripte und staatliche Dokumente auf.",
+                  "category": "museum",
+                  "coords": [
+                        69.167778,
+                        34.524661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Archive of Afghanistan",
+                  "text": "Ez a történelmi palotában működő múzeum értékes afgán kéziratokat és régi állami dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        69.167778,
+                        34.524661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Archive of Afghanistan",
+                  "text": "Acest muzeu, găzduit într-un palat istoric, păstrează manuscrise afgane valoroase și documente de stat antice.",
+                  "category": "museum",
+                  "coords": [
+                        69.167778,
+                        34.524661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Archive of Afghanistan",
+                  "text": "Housed within an elegant historic palace, this museum preserves crucial Afghan manuscripts and vital state documents.",
+                  "category": "museum",
+                  "coords": [
+                        69.167778,
+                        34.524661
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.174, 34.526],
@@ -305,7 +2519,124 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["L'une des plus grandes mosquées d'Afghanistan.", "Inaugurée en 2012.", "Peut accueillir 10 000 fidèles.", "Financée par l'homme d'affaires Haji Abdul Rahman.", "Dispose d'une bibliothèque et d'une madrassa.", "Domine le panorama du centre de Kaboul.", "34 coupoles et 2 minaretes.", "Symbole de la reconstruction de la ville."],
     }, image: "/poi-images/abdul-rahman-mosque-landmarks-v2.webp"},
   {
-    id: "id-gah-mosque-landmarks-v2",
+    id: "id-gah-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hozori Park",
+                  "text": "Dieser weitläufige öffentliche Park und Sportplatz in der Nähe der Eid-Gah-Moschee wird oft für große nationale Feste genutzt.",
+                  "category": "park",
+                  "coords": [
+                        69.195462,
+                        34.51476
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Theater",
+                  "text": "Diese nationale Kultureinrichtung ist der zentrale Veranstaltungsort für die Aufführung klassischer und moderner afghanischer Bühnenwerke.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199969,
+                        34.515783
+                  ]
+            },
+            {
+                  "name": "Eid Gah",
+                  "text": "In dieser bedeutenden islamischen Moschee mit ihren markanten Minaretten werden traditionell die großen festlichen Eid-Gebete der Stadt abgehalten.",
+                  "category": "religious",
+                  "coords": [
+                        69.190092,
+                        34.517705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hozori Park",
+                  "text": "Ezt az Eid Gah mecset közelében fekvő hatalmas, nyitott parkot és sportpályát gyakran használják nagy nemzeti ünnepek helyszíneként.",
+                  "category": "park",
+                  "coords": [
+                        69.195462,
+                        34.51476
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Theater",
+                  "text": "Ez a nemzeti kulturális intézmény a klasszikus és modern afgán színpadi művek előadásának központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199969,
+                        34.515783
+                  ]
+            },
+            {
+                  "name": "Eid Gah",
+                  "text": "Ebben a jellegzetes minaretekkel rendelkező, jelentős iszlám mecsetben tartják a város legnagyobb ünnepi, Eid imáit és bejelentéseit.",
+                  "category": "religious",
+                  "coords": [
+                        69.190092,
+                        34.517705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hozori Park",
+                  "text": "Acest mare parc public și teren de sport de lângă Moscheea Eid Gah este frecvent folosit pentru festivaluri naționale importante.",
+                  "category": "park",
+                  "coords": [
+                        69.195462,
+                        34.51476
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Theater",
+                  "text": "Această instituție culturală națională servește drept loc principal pentru spectacole de teatru afgan, atât clasic, cât și modern.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199969,
+                        34.515783
+                  ]
+            },
+            {
+                  "name": "Eid Gah",
+                  "text": "În această importantă moschee islamică, remarcată prin minaretele sale, se oficiază în mod tradițional marile rugăciuni festive de Eid.",
+                  "category": "religious",
+                  "coords": [
+                        69.190092,
+                        34.517705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hozori Park",
+                  "text": "This expansive public park and sports ground near the Eid Gah Mosque is frequently utilized for large national festivals and events.",
+                  "category": "park",
+                  "coords": [
+                        69.195462,
+                        34.51476
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Theater",
+                  "text": "This national cultural venue serves as the primary stage for both classic and contemporary Afghan theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199969,
+                        34.515783
+                  ]
+            },
+            {
+                  "name": "Eid Gah",
+                  "text": "Characterized by its prominent minarets, this major Islamic mosque is the traditional and historic site for the city's large Eid prayers.",
+                  "category": "religious",
+                  "coords": [
+                        69.190092,
+                        34.517705
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.186, 34.516],
@@ -348,7 +2679,304 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Construite à la fin du XIXe siècle.", "Lieu principal pour les prières nationales de l'Aïd.", "Le nom signifie « lieu de la prière de fête ».", "D'importantes annonces politiques y ont été faites.", "Située dans l'est de Kaboul.", "Historiquement plus importante que beaucoup de mosquées plus grandes.", "Théâtre de cérémonies de couronnement.", "Vaste cour ouverte pouvant accueillir des milliers de personnes."],
     }, image: "/poi-images/id-gah-mosque-landmarks-v2.webp"},
   {
-    id: "pul-e-khishti-mosque-landmarks-v2",
+    id: "pul-e-khishti-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maiwand",
+                  "text": "Ein hohes Denkmal zur Erinnerung an den afghanischen Sieg über die Briten in der Schlacht von Maiwand 1880.",
+                  "category": "historical",
+                  "coords": [
+                        69.181323,
+                        34.513842
+                  ]
+            },
+            {
+                  "name": "Asheqan-wa-Arefan-Schrein",
+                  "text": "Historischer Schrein in der Altstadt von Kabul, Grabstätte zweier als Heilige verehrter Brüder.",
+                  "category": "religious",
+                  "coords": [
+                        69.179054,
+                        34.507221
+                  ]
+            },
+            {
+                  "name": "Puli Khishti Jamia Masjid",
+                  "text": "Eine große Freitagsmoschee mit blauer Kuppel, die direkt am Kabul-Fluss im belebten Basarviertel steht.",
+                  "category": "religious",
+                  "coords": [
+                        69.180533,
+                        34.515576
+                  ]
+            },
+            {
+                  "name": "Timur Shah Mausoleum",
+                  "text": "Das achteckige Grabmal von Timur Schah aus dem 18. Jahrhundert, dem zweiten Herrscher des Durrani-Reiches.",
+                  "category": "landmark",
+                  "coords": [
+                        69.175393,
+                        34.516361
+                  ]
+            },
+            {
+                  "name": "Mahdia Chindawol",
+                  "text": "Eine schiitische Moschee im historischen Chindawol-Viertel von Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.170377,
+                        34.510874
+                  ]
+            },
+            {
+                  "name": "Jafaria Chindawol",
+                  "text": "Eine religiöse Stätte für die lokale schiitische Gemeinde im Chindawol-Viertel von Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173784,
+                        34.511029
+                  ]
+            },
+            {
+                  "name": "Takya Khana Chindawol",
+                  "text": "Ein traditionelles schiitisches Versammlungshaus für religiöse Trauerzeremonien in Chindawol.",
+                  "category": "landmark",
+                  "coords": [
+                        69.172503,
+                        34.512226
+                  ]
+            },
+            {
+                  "name": "Ka Faroshi",
+                  "text": "Eine lebhafte enge Gasse, die für ihre Käfige mit exotischen Singvögeln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.179718,
+                        34.514286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maiwand",
+                  "text": "Magas emlékmű, amely az 1880-as maiwandi csatában a britek felett aratott afgán győzelemnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        69.181323,
+                        34.513842
+                  ]
+            },
+            {
+                  "name": "Ashuquan O Arefan Shrine",
+                  "text": "Történelmi kegyhely Kabul óvárosában, két szentként tisztelt fivér temetkezési helye.",
+                  "category": "religious",
+                  "coords": [
+                        69.179054,
+                        34.507221
+                  ]
+            },
+            {
+                  "name": "Puli Khishti Jamia Masjid",
+                  "text": "Nagy, kék kupolás pénteki mecset, amely közvetlenül a Kabul-folyó partján, a nyüzsgő bazárnegyedben áll.",
+                  "category": "religious",
+                  "coords": [
+                        69.180533,
+                        34.515576
+                  ]
+            },
+            {
+                  "name": "Timur Shah Mausoleum",
+                  "text": "Timur Sah Durrani, a második afgán uralkodó 18. századi nyolcszögletű síremléke.",
+                  "category": "landmark",
+                  "coords": [
+                        69.175393,
+                        34.516361
+                  ]
+            },
+            {
+                  "name": "Mahdia Chindawol",
+                  "text": "Síita mecset Kabul történelmi Csindavol negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.170377,
+                        34.510874
+                  ]
+            },
+            {
+                  "name": "Jafaria Chindawol",
+                  "text": "Vallási központ a kabuli Csindavol negyed síita közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173784,
+                        34.511029
+                  ]
+            },
+            {
+                  "name": "Takya Khana Chindawol",
+                  "text": "Hagyományos síita gyülekezeti csarnok vallási gyászszertartásokhoz Csindavolban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.172503,
+                        34.512226
+                  ]
+            },
+            {
+                  "name": "Ka Faroshi",
+                  "text": "Hangulatos szűk utca, amely egzotikus énekesmadarakkal teli kalitkáiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        69.179718,
+                        34.514286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maiwand",
+                  "text": "Un monument înalt care comemorează victoria afgană asupra britanicilor în bătălia de la Maiwand din 1880.",
+                  "category": "historical",
+                  "coords": [
+                        69.181323,
+                        34.513842
+                  ]
+            },
+            {
+                  "name": "Ashuquan O Arefan Shrine",
+                  "text": "Sanctuar istoric în orașul vechi din Kabul, locul de înmormântare a doi frați venerați ca sfinți.",
+                  "category": "religious",
+                  "coords": [
+                        69.179054,
+                        34.507221
+                  ]
+            },
+            {
+                  "name": "Puli Khishti Jamia Masjid",
+                  "text": "O moschee mare de vineri, cu cupolă albastră, situată chiar lângă râul Kabul, în cartierul aglomerat al bazarului.",
+                  "category": "religious",
+                  "coords": [
+                        69.180533,
+                        34.515576
+                  ]
+            },
+            {
+                  "name": "Timur Shah Mausoleum",
+                  "text": "Mausoleul octogonal din secolul al XVIII-al al lui Timur Shah, al doilea împărat Durrani.",
+                  "category": "landmark",
+                  "coords": [
+                        69.175393,
+                        34.516361
+                  ]
+            },
+            {
+                  "name": "Mahdia Chindawol",
+                  "text": "O moschee șiită situată în cartierul istoric Chindawol din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.170377,
+                        34.510874
+                  ]
+            },
+            {
+                  "name": "Jafaria Chindawol",
+                  "text": "Un sit religios care deservește comunitatea șiită locală din zona Chindawol din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173784,
+                        34.511029
+                  ]
+            },
+            {
+                  "name": "Takya Khana Chindawol",
+                  "text": "O sală tradițională de adunare șiită folosită pentru ceremonii religioase de doliu în Chindawol.",
+                  "category": "landmark",
+                  "coords": [
+                        69.172503,
+                        34.512226
+                  ]
+            },
+            {
+                  "name": "Ka Faroshi",
+                  "text": "O alee îngustă și vibrantă, faimoasă pentru coliviile cu păsări cântătoare exotice.",
+                  "category": "cultural",
+                  "coords": [
+                        69.179718,
+                        34.514286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maiwand",
+                  "text": "A tall monument commemorating the Afghan victory over the British in the 1880 Battle of Maiwand.",
+                  "category": "historical",
+                  "coords": [
+                        69.181323,
+                        34.513842
+                  ]
+            },
+            {
+                  "name": "Ashuquan O Arefan Shrine",
+                  "text": "Historic shrine in Kabul's old city, burial site of two brothers revered as saints.",
+                  "category": "religious",
+                  "coords": [
+                        69.179054,
+                        34.507221
+                  ]
+            },
+            {
+                  "name": "Puli Khishti Jamia Masjid",
+                  "text": "A large blue-domed Friday mosque standing right by the Kabul River in the busy bazaar district.",
+                  "category": "religious",
+                  "coords": [
+                        69.180533,
+                        34.515576
+                  ]
+            },
+            {
+                  "name": "Timur Shah Mausoleum",
+                  "text": "The 18th-century octagonal tomb of the second Durrani emperor, Timur Shah.",
+                  "category": "landmark",
+                  "coords": [
+                        69.175393,
+                        34.516361
+                  ]
+            },
+            {
+                  "name": "Mahdia Chindawol",
+                  "text": "A Shia mosque located in the historic Chindawol district of Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.170377,
+                        34.510874
+                  ]
+            },
+            {
+                  "name": "Jafaria Chindawol",
+                  "text": "A religious site serving the local Shia community in Kabul's Chindawol area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173784,
+                        34.511029
+                  ]
+            },
+            {
+                  "name": "Takya Khana Chindawol",
+                  "text": "A traditional Shia assembly hall used for religious mourning ceremonies in Chindawol.",
+                  "category": "landmark",
+                  "coords": [
+                        69.172503,
+                        34.512226
+                  ]
+            },
+            {
+                  "name": "Bird Market",
+                  "text": "A vibrant narrow alleyway famous for its cages of exotic singing birds.",
+                  "category": "cultural",
+                  "coords": [
+                        69.179718,
+                        34.514286
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.178, 34.514],
@@ -391,7 +3019,160 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["La plus grande mosquée du centre de Kaboul.", "Grand dôme bleu distinctif.", "Reconstruction dans les années 1960.", "Située près du bazar principal de la ville.", "Centre important de la vie religieuse.", "A remplacé un édifice plus petit du XVIIIe siècle.", "Visitée par des milliers de personnes chaque jour.", "Un monument clé de la vieille ville."],
     }, image: "/poi-images/pul-e-khishti-mosque-landmarks-v2.webp"},
   {
-    id: "shah-do-shamshira-landmarks-v2",
+    id: "shah-do-shamshira-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farkhunda Memorial Munurate",
+                  "text": "Ein Denkmal in Kabul, gewidmet Farkhunda Malikzada, die 2015 Opfer eines brutalen Lynchmordes wurde.",
+                  "category": "historical",
+                  "coords": [
+                        69.173323,
+                        34.516993
+                  ]
+            },
+            {
+                  "name": "Shah-i du Shamshira",
+                  "text": "Eine markante gelbe Moschee im neoklassizistischen italienischen Stil, erbaut während der Herrschaft von Amanullah Khan.",
+                  "category": "religious",
+                  "coords": [
+                        69.171494,
+                        34.515721
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Gallery",
+                  "text": "Kabuler Kunstgalerie, die eine Sammlung historischer und zeitgenössischer afghanischer Gemälde beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        69.17121,
+                        34.517462
+                  ]
+            },
+            {
+                  "name": "Hazrati Nabavi",
+                  "text": "Eine historische Moschee und religiöse Stätte im alten Stadtzentrum von Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.169119,
+                        34.516688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farkhunda Memorial Munurate",
+                  "text": "Kabuli emlékmű, amelyet Farkhunda Malikzadának szenteltek, aki 2015-ben brutális lincselés áldozata lett.",
+                  "category": "historical",
+                  "coords": [
+                        69.173323,
+                        34.516993
+                  ]
+            },
+            {
+                  "name": "Shah-i du Shamshira",
+                  "text": "Jellegzetes sárga mecset neoklasszicista olasz stílusban, amely Amanullah kán uralkodása alatt épült.",
+                  "category": "religious",
+                  "coords": [
+                        69.171494,
+                        34.515721
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Gallery",
+                  "text": "Kabuli művészeti galéria, amely történelmi és kortárs afgán festmények gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        69.17121,
+                        34.517462
+                  ]
+            },
+            {
+                  "name": "Hazrati Nabavi",
+                  "text": "Történelmi mecset és vallási helyszín Kabul régi városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        69.169119,
+                        34.516688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farkhunda Memorial Munurate",
+                  "text": "Un monument în Kabul dedicat lui Farkhunda Malikzada, victima unui lincșaj brutal în 2015.",
+                  "category": "historical",
+                  "coords": [
+                        69.173323,
+                        34.516993
+                  ]
+            },
+            {
+                  "name": "Shah-i du Shamshira",
+                  "text": "O moschee galbenă distinctivă în stil neoclasic italian, construită în timpul domniei lui Amanullah Khan.",
+                  "category": "religious",
+                  "coords": [
+                        69.171494,
+                        34.515721
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Gallery",
+                  "text": "Galerie de artă din Kabul care adăpostește o colecție de picturi afgane istorice și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        69.17121,
+                        34.517462
+                  ]
+            },
+            {
+                  "name": "Hazrati Nabavi",
+                  "text": "O moschee istorică și sit religios situat în centrul vechi al orașului Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.169119,
+                        34.516688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farkhunda Memorial Munurate",
+                  "text": "A memorial in Kabul dedicated to Farkhunda Malikzada, victim of a brutal mob attack in 2015.",
+                  "category": "historical",
+                  "coords": [
+                        69.173323,
+                        34.516993
+                  ]
+            },
+            {
+                  "name": "Shah-i du Shamshira",
+                  "text": "A distinctive yellow mosque in a neoclassical Italianate style, built during the reign of Amanullah Khan.",
+                  "category": "religious",
+                  "coords": [
+                        69.171494,
+                        34.515721
+                  ]
+            },
+            {
+                  "name": "Afghanistan National Gallery",
+                  "text": "Kabul art gallery housing a collection of historic and contemporary Afghan paintings.",
+                  "category": "museum",
+                  "coords": [
+                        69.17121,
+                        34.517462
+                  ]
+            },
+            {
+                  "name": "Hazrati Nabavi",
+                  "text": "A historic mosque and religious site located in the old city center of Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.169119,
+                        34.516688
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.172, 34.518],
@@ -434,7 +3215,376 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Construite dans les années 1920.", "Architecture inspirée du style européen.", "Conception très atypique pour une mosquée.", "Située directement sur les rives de la rivière Kaboul.", "Nommée d'après un conquérant arabe.", "Fait partie de la modernisation du roi Amanullah Khan.", "Possède des façades en stuc et des balcons.", "Édifice remarquable de deux étages."],
     }, image: "/poi-images/shah-do-shamshira-landmarks-v2.webp"},
   {
-    id: "tv-hill-landmarks-v2",
+    id: "tv-hill-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asmayi Mountain",
+                  "text": "Ein markanter Berg im Zentrum von Kabul, auf dem sich Fernsehtürme befinden und der weite Stadtblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        69.161097,
+                        34.517683
+                  ]
+            },
+            {
+                  "name": "The National museum of Nuristan",
+                  "text": "Ein Museum in Kabul, das sich dem einzigartigen kulturellen Erbe und dem Holzhandwerk der Region Nuristan widmet.",
+                  "category": "museum",
+                  "coords": [
+                        69.160923,
+                        34.526293
+                  ]
+            },
+            {
+                  "name": "Sakhi Shrine",
+                  "text": "Ein prachtvoller, blau gefliester Schrein, an dem der Überlieferung nach der Mantel des Propheten Mohammed ruhte.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146585,
+                        34.519953
+                  ]
+            },
+            {
+                  "name": "Imam Hadi",
+                  "text": "Lokale Moschee und religiöses Zentrum, das der Gemeinschaft im Westen von Kabul dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.140905,
+                        34.521975
+                  ]
+            },
+            {
+                  "name": "Najib Zarab",
+                  "text": "Ein spezialisiertes Handelsviertel in Kabul, das für seine Finanzdienstleistungen und den Goldhandel bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.155013,
+                        34.532539
+                  ]
+            },
+            {
+                  "name": "Car Parts",
+                  "text": "Ein geschäftiges Marktviertel, das auf Ersatzteile und Zubehör für Kraftfahrzeuge spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153638,
+                        34.531623
+                  ]
+            },
+            {
+                  "name": "Car Batteries",
+                  "text": "Ein konzentrierter Marktabschnitt für den Verkauf und Service von Autobatterien.",
+                  "category": "cultural",
+                  "coords": [
+                        69.152672,
+                        34.533256
+                  ]
+            },
+            {
+                  "name": "Fresh Fruits",
+                  "text": "Ein lebendiger Markt, bekannt für seine Auswahl an afghanischen Melonen und Granatäpfeln.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149532,
+                        34.534578
+                  ]
+            },
+            {
+                  "name": "Power Tools",
+                  "text": "Ein spezialisierter Basar für industrielle Werkzeuge und Baumaschinen in der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.157317,
+                        34.530856
+                  ]
+            },
+            {
+                  "name": "Car Spare Parts",
+                  "text": "Zentraler Anlaufpunkt für mechanische Ersatzteile und Kfz-Reparaturwerkstätten.",
+                  "category": "cultural",
+                  "coords": [
+                        69.159976,
+                        34.529544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asmayi Mountain",
+                  "text": "Kabul központjában található hegy, amelyen tévétornyok állnak, és panorámás kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        69.161097,
+                        34.517683
+                  ]
+            },
+            {
+                  "name": "The National museum of Nuristan",
+                  "text": "Kabuli múzeum, amely Nuristan régió egyedülálló kulturális örökségének és fafaragásainak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        69.160923,
+                        34.526293
+                  ]
+            },
+            {
+                  "name": "Sakhi Shrine",
+                  "text": "Pompás, kék csempével díszített kegyhely, ahol a hagyomány szerint Mohamed próféta köpenye megpihent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146585,
+                        34.519953
+                  ]
+            },
+            {
+                  "name": "Imam Hadi",
+                  "text": "Helyi mecset és vallási központ, amely Nyugat-Kabul közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.140905,
+                        34.521975
+                  ]
+            },
+            {
+                  "name": "Najib Zarab",
+                  "text": "Speciális kereskedelmi negyed Kabulban, amely pénzügyi szolgáltatásairól és aranykereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.155013,
+                        34.532539
+                  ]
+            },
+            {
+                  "name": "Car Parts",
+                  "text": "Nyüzsgő piaci negyed, amely gépjármű-alkatrészekre és tartozékokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153638,
+                        34.531623
+                  ]
+            },
+            {
+                  "name": "Car Batteries",
+                  "text": "Koncentrált piaci részleg autó akkumulátorok eladására és szervizelésére.",
+                  "category": "cultural",
+                  "coords": [
+                        69.152672,
+                        34.533256
+                  ]
+            },
+            {
+                  "name": "Fresh Fruits",
+                  "text": "Élénk piac, amely az afgán dinnyék és gránátalmák széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149532,
+                        34.534578
+                  ]
+            },
+            {
+                  "name": "Power Tools",
+                  "text": "Ipari szerszámokra és építőipari gépekre szakosodott bazár a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        69.157317,
+                        34.530856
+                  ]
+            },
+            {
+                  "name": "Car Spare Parts",
+                  "text": "Mechanikus alkatrészek és gépjárműjavító műhelyek központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        69.159976,
+                        34.529544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asmayi Mountain",
+                  "text": "Un munte proeminent în centrul Kabulului, unde se află turnuri de televiziune și care oferă vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        69.161097,
+                        34.517683
+                  ]
+            },
+            {
+                  "name": "The National museum of Nuristan",
+                  "text": "Un muzeu din Kabul dedicat moștenirii culturale unice și meșteșugurilor în lemn din regiunea Nuristan.",
+                  "category": "museum",
+                  "coords": [
+                        69.160923,
+                        34.526293
+                  ]
+            },
+            {
+                  "name": "Sakhi Shrine",
+                  "text": "Un sanctuar splendid cu plăci albastre, unde se spune că s-a odihnit mantia Profetului Mahomed.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146585,
+                        34.519953
+                  ]
+            },
+            {
+                  "name": "Imam Hadi",
+                  "text": "Moschee locală și centru religios care deservește comunitatea din vestul Kabulului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.140905,
+                        34.521975
+                  ]
+            },
+            {
+                  "name": "Najib Zarab",
+                  "text": "Un cartier comercial specializat în Kabul, cunoscut pentru serviciile financiare și comerțul cu aur.",
+                  "category": "cultural",
+                  "coords": [
+                        69.155013,
+                        34.532539
+                  ]
+            },
+            {
+                  "name": "Car Parts",
+                  "text": "Un cartier de piață plin de viață, specializat în piese de schimb și accesorii auto.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153638,
+                        34.531623
+                  ]
+            },
+            {
+                  "name": "Car Batteries",
+                  "text": "O secțiune de piață concentrată pentru vânzarea și service-ul bateriilor auto.",
+                  "category": "cultural",
+                  "coords": [
+                        69.152672,
+                        34.533256
+                  ]
+            },
+            {
+                  "name": "Fresh Fruits",
+                  "text": "O piață vibrantă, cunoscută pentru selecția de pepeni și rodii afgane.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149532,
+                        34.534578
+                  ]
+            },
+            {
+                  "name": "Power Tools",
+                  "text": "Un bazar specializat în unelte industriale și utilaje de construcție din capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        69.157317,
+                        34.530856
+                  ]
+            },
+            {
+                  "name": "Car Spare Parts",
+                  "text": "Punct central pentru piese de schimb mecanice și ateliere de reparații auto.",
+                  "category": "cultural",
+                  "coords": [
+                        69.159976,
+                        34.529544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asmayi Mountain",
+                  "text": "A prominent mountain in central Kabul topped with TV towers, offering panoramic city views.",
+                  "category": "natural",
+                  "coords": [
+                        69.161097,
+                        34.517683
+                  ]
+            },
+            {
+                  "name": "The National museum of Nuristan",
+                  "text": "A museum in Kabul dedicated to the unique cultural heritage and woodcrafts of the Nuristan region.",
+                  "category": "museum",
+                  "coords": [
+                        69.160923,
+                        34.526293
+                  ]
+            },
+            {
+                  "name": "Sakhi Shrine",
+                  "text": "A splendid blue-tiled shrine where the cloak of the Prophet Muhammad is said to have rested.",
+                  "category": "landmark",
+                  "coords": [
+                        69.146585,
+                        34.519953
+                  ]
+            },
+            {
+                  "name": "Imam Hadi",
+                  "text": "Local mosque and religious center serving the community in western Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.140905,
+                        34.521975
+                  ]
+            },
+            {
+                  "name": "Najib Zarab",
+                  "text": "A specialized commercial district in Kabul known for financial services and gold trade.",
+                  "category": "cultural",
+                  "coords": [
+                        69.155013,
+                        34.532539
+                  ]
+            },
+            {
+                  "name": "Car Parts",
+                  "text": "A bustling market area specialized in automotive spare parts and accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153638,
+                        34.531623
+                  ]
+            },
+            {
+                  "name": "Car Batteries",
+                  "text": "A concentrated market section for the sale and service of car batteries.",
+                  "category": "cultural",
+                  "coords": [
+                        69.152672,
+                        34.533256
+                  ]
+            },
+            {
+                  "name": "Fresh Fruits",
+                  "text": "A vibrant market known for its selection of Afghan melons and pomegranates.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149532,
+                        34.534578
+                  ]
+            },
+            {
+                  "name": "Power Tools",
+                  "text": "A specialized bazaar for industrial tools and construction machinery in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        69.157317,
+                        34.530856
+                  ]
+            },
+            {
+                  "name": "Car Spare Parts",
+                  "text": "Central hub for mechanical spare parts and automotive repair workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        69.159976,
+                        34.529544
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.162, 34.522],
@@ -478,7 +3628,52 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "chihil-sutun-palace-landmarks-v2",
+    id: "chihil-sutun-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr-e Chehel Sotun",
+                  "text": "Der Chihil-Sutun-Palast ist ein historisches königliches Schloss in Kabul, das für seine einstige Pracht und die umliegenden Gärten bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        69.152275,
+                        34.467293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr-e Chehel Sotun",
+                  "text": "A Chihil Sutun palota egy történelmi királyi kastély Kabulban, amely egykori pompájáról és a környező kertjeiről híres.",
+                  "category": "castle",
+                  "coords": [
+                        69.152275,
+                        34.467293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr-e Chehel Sotun",
+                  "text": "Palatul Chihil Sutun este un castel regal istoric situat în Kabul, celebrat pentru grandoarea sa de odinioară și grădinile înconjurătoare.",
+                  "category": "castle",
+                  "coords": [
+                        69.152275,
+                        34.467293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr-e Chehel Sotun",
+                  "text": "The Chihil Sutun Palace is a historic royal castle situated in Kabul, celebrated for its former grandeur and surrounding gardens.",
+                  "category": "castle",
+                  "coords": [
+                        69.152275,
+                        34.467293
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.155, 34.482],
@@ -521,7 +3716,124 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Le nom signifie « Palais des quarante colonnes ».", "Amplement restauré et rouvert en 2019.", "Situé dans un grand parc public.", "Construit à l'origine au XIXe siècle.", "Servit de maison d'hôtes pour le gouvernement.", "Symbole de la reconstruction en Afghanistan.", "Lieu important pour les événements d'État.", "Lieu de détente prisé par la population urbaine."],
     }, image: "/poi-images/chihil-sutun-palace-landmarks-v2.webp"},
   {
-    id: "tajbeg-palace-landmarks-v2",
+    id: "tajbeg-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tajbeg-Palast",
+                  "text": "Dieser in den 1920er Jahren errichtete Palast, auch als Palast der Königin bekannt, thront markant auf einem Hügel.",
+                  "category": "castle",
+                  "coords": [
+                        69.113572,
+                        34.454693
+                  ]
+            },
+            {
+                  "name": "The tomb of Muhammad Daud",
+                  "text": "Diese Gedenkstätte in der Nähe des Tajbeg-Palastes markiert das Grab von Mohammed Daoud Khan, dem ersten Präsidenten von Afghanistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094128,
+                        34.463733
+                  ]
+            },
+            {
+                  "name": "Masjid Naw",
+                  "text": "Diese islamische Moschee in der Nachbarschaft des Tajbeg-Palastes dient der lokalen muslimischen Gemeinde für ihre täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.128236,
+                        34.439072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tajbeg Palace",
+                  "text": "Ez az 1920-as években épült, a Királynő Palotájaként is ismert kastély egy kiemelkedő dombtetőn áll.",
+                  "category": "castle",
+                  "coords": [
+                        69.113572,
+                        34.454693
+                  ]
+            },
+            {
+                  "name": "The tomb of Muhammad Daud",
+                  "text": "Ez a Tajbeg-palota közelében található síremlék Mohammed Daud Khannak, Afganisztán első elnökének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094128,
+                        34.463733
+                  ]
+            },
+            {
+                  "name": "Masjid Naw",
+                  "text": "Ez a Tajbeg-palota szomszédságában található muszlim mecset a helyi közösség mindennapi imáit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.128236,
+                        34.439072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tajbeg Palace",
+                  "text": "Construit în anii 1920, acest palat așezat pe un deal proeminent este cunoscut popular sub numele de Palatul Reginei.",
+                  "category": "castle",
+                  "coords": [
+                        69.113572,
+                        34.454693
+                  ]
+            },
+            {
+                  "name": "The tomb of Muhammad Daud",
+                  "text": "Acest mormânt situat lângă Palatul Tajbeg adăpostește rămășițele lui Mohammed Daud Khan, primul președinte al Afganistanului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094128,
+                        34.463733
+                  ]
+            },
+            {
+                  "name": "Masjid Naw",
+                  "text": "Această moschee islamică situată în vecinătatea Palatului Tajbeg deservește comunitatea musulmană locală pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.128236,
+                        34.439072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tajbeg Palace",
+                  "text": "Built in the 1920s atop a prominent hill, this historic landmark is widely known as the Queen's Palace.",
+                  "category": "castle",
+                  "coords": [
+                        69.113572,
+                        34.454693
+                  ]
+            },
+            {
+                  "name": "The tomb of Muhammad Daud",
+                  "text": "Located near the Tajbeg Palace, this memorial marks the final resting place of Mohammed Daud Khan, the first President of Afghanistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.094128,
+                        34.463733
+                  ]
+            },
+            {
+                  "name": "Masjid Naw",
+                  "text": "Situated in the neighborhood of the Tajbeg Palace, this Islamic mosque serves the local Muslim congregation for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.128236,
+                        34.439072
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.114, 34.456],
@@ -564,7 +3876,124 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Construit dans les années 1920 sous le roi Amanullah Khan.", "Imposante architecture néoclassique.", "Lieu de l'assaut du palais en 1979.", "Est resté en ruines pendant des décennies.", "Récemment restauré entièrement.", "Symbole de la reconstruction afghane.", "Situé au sud-ouest du centre-ville.", "Prévu à l'origine pour la famille royale."],
     }, image: "/poi-images/tajbeg-palace-landmarks-v2.webp"},
   {
-    id: "arg-presidential-palace-landmarks-v2",
+    id: "arg-presidential-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "Ein Kulturzentrum in der Nähe des Arg-Palastes, das Französischkurse und Kunstausstellungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.175521,
+                        34.522735
+                  ]
+            },
+            {
+                  "name": "Königlicher Palast",
+                  "text": "Der befestigte Präsidentenpalast in Kabul, der ursprünglich im späten 19. Jahrhundert erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        69.179172,
+                        34.523645
+                  ]
+            },
+            {
+                  "name": "Presidential Arg",
+                  "text": "Der historische Regierungssitz in Kabul, geschützt durch hohe Verteidigungsmauern und Türme.",
+                  "category": "castle",
+                  "coords": [
+                        69.181116,
+                        34.526676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "Kulturális központ az Arg-palota közelében, amely nyelvtanfolyamoknak és művészeti kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        69.175521,
+                        34.522735
+                  ]
+            },
+            {
+                  "name": "Arg",
+                  "text": "Megerődített elnöki palotakomplexum Kabulban, amely eredetileg a 19. század végén épült.",
+                  "category": "castle",
+                  "coords": [
+                        69.179172,
+                        34.523645
+                  ]
+            },
+            {
+                  "name": "Presidential Arg",
+                  "text": "Kabul történelmi hatalmi központja, amelyet magas védőfalak és tornyok óvnak.",
+                  "category": "castle",
+                  "coords": [
+                        69.181116,
+                        34.526676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "Un centru cultural lângă palatul Arg, care găzduiește cursuri de limba franceză și expoziții de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        69.175521,
+                        34.522735
+                  ]
+            },
+            {
+                  "name": "Arg",
+                  "text": "Complexul fortificat al palatului prezidențial din Kabul, construit inițial la sfârșitul secolului al XIX-lea.",
+                  "category": "castle",
+                  "coords": [
+                        69.179172,
+                        34.523645
+                  ]
+            },
+            {
+                  "name": "Presidential Arg",
+                  "text": "Sediul istoric al puterii din Kabul, protejat de ziduri de apărare înalte și turnuri.",
+                  "category": "castle",
+                  "coords": [
+                        69.181116,
+                        34.526676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Français",
+                  "text": "A cultural hub near the Arg palace hosting French language classes and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        69.175521,
+                        34.522735
+                  ]
+            },
+            {
+                  "name": "Arg",
+                  "text": "The fortified presidential palace complex in Kabul, originally built in the late 19th century.",
+                  "category": "castle",
+                  "coords": [
+                        69.179172,
+                        34.523645
+                  ]
+            },
+            {
+                  "name": "Presidential Arg",
+                  "text": "The historic seat of power in Kabul, protected by high defensive walls and towers.",
+                  "category": "castle",
+                  "coords": [
+                        69.181116,
+                        34.526676
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.178, 34.525],
@@ -607,7 +4036,268 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Siège officiel du président de l'Afghanistan.", "Construit à la fin du XIXe siècle.", "Le nom « Arg » signifie citadelle.", "Couvre une superficie d'environ 34 hectares.", "Centre du gouvernement afghan.", "Fut le théâtre de nombreux renversements politiques.", "Complexe hautement fortifié à Kaboul.", "Abrite plusieurs bâtiments distincts et des jardins."],
     }, image: "/poi-images/arg-presidential-palace-landmarks-v2.webp"},
   {
-    id: "kabul-zoo-landmarks-v2",
+    id: "kabul-zoo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabuler Zoo",
+                  "text": "Dieser 1960 eröffnete Tierpark am Ufer des Flusses Kabul beherbergt verschiedene einheimische und exotische Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        69.155735,
+                        34.509604
+                  ]
+            },
+            {
+                  "name": "Emam Hasan Mujtaba",
+                  "text": "Diese islamische Gebetsstätte in der Nähe des Zoos von Kabul ist ein Ort der Besinnung für die Gläubigen der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11025,
+                        34.505209
+                  ]
+            },
+            {
+                  "name": "Emam Riza",
+                  "text": "Diese der muslimischen Gemeinde dienende Moschee unweit des Zoos bietet Platz für die täglichen gemeinschaftlichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11241,
+                        34.505116
+                  ]
+            },
+            {
+                  "name": "Salman Farsi",
+                  "text": "Dieses islamische Gotteshaus nahe der Universität ist ein aktives Zentrum für religiöse Zusammenkünfte der ansässigen Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        69.160369,
+                        34.508091
+                  ]
+            },
+            {
+                  "name": "Kabul Universiy Mosque",
+                  "text": "Diese direkt auf dem Campus der Universität Kabul gelegene Moschee bietet den Studenten und Lehrkräften einen Ort für ihre Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129849,
+                        34.515479
+                  ]
+            },
+            {
+                  "name": "Madrasa Khatamunabiyen",
+                  "text": "Diese bedeutende schiitische Madrasa fungiert als wichtiges Zentrum für religiöse Bildung und theologische Studien in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147577,
+                        34.504267
+                  ]
+            },
+            {
+                  "name": "Computer Market",
+                  "text": "Dieser spezialisierte Marktplatz ist ein zentraler und belebter Anlaufpunkt für den Handel mit Computern und elektronischem Zubehör.",
+                  "category": "cultural",
+                  "coords": [
+                        69.117856,
+                        34.510826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabul Zoo",
+                  "text": "Ez az 1960-ban alapított, a Kabul folyó partján fekvő állatkert számos hazai és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        69.155735,
+                        34.509604
+                  ]
+            },
+            {
+                  "name": "Emam Hasan Mujtaba",
+                  "text": "Ez a kabuli állatkert közelében fekvő muszlim mecset a környék hívőinek fontos imádkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11025,
+                        34.505209
+                  ]
+            },
+            {
+                  "name": "Emam Riza",
+                  "text": "Ez a kabuli állatkerthez közeli muszlim mecset a mindennapi közösségi imák és vallási összejövetelek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11241,
+                        34.505116
+                  ]
+            },
+            {
+                  "name": "Salman Farsi",
+                  "text": "Ez az egyetem közelében található iszlám imahely a helyi muszlimok vallási összejöveteleinek aktív központja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.160369,
+                        34.508091
+                  ]
+            },
+            {
+                  "name": "Kabul Universiy Mosque",
+                  "text": "A Kabuli Egyetem campusán található mecset a diákok és a tanárok számára biztosít kényelmes helyet a vallásgyakorláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129849,
+                        34.515479
+                  ]
+            },
+            {
+                  "name": "Madrasa Khatamunabiyen",
+                  "text": "Ez a jelentős síita medresze a vallási oktatás és a teológiai tanulmányok fontos központjaként működik a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147577,
+                        34.504267
+                  ]
+            },
+            {
+                  "name": "Computer Market",
+                  "text": "Ez a specializált piac a számítógépek és különféle elektronikai kiegészítők kereskedelmének nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.117856,
+                        34.510826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabul Zoo",
+                  "text": "Inaugurată în 1960, această grădină zoologică situată pe malul râului Kabul găzduiește o varietate de specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        69.155735,
+                        34.509604
+                  ]
+            },
+            {
+                  "name": "Emam Hasan Mujtaba",
+                  "text": "Această moschee islamică din apropierea grădinii zoologice este un lăcaș de rugăciune dedicat credincioșilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11025,
+                        34.505209
+                  ]
+            },
+            {
+                  "name": "Emam Riza",
+                  "text": "Această moschee musulmană aflată nu departe de grădina zoologică servește drept loc pentru rugăciunile comunitare zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11241,
+                        34.505116
+                  ]
+            },
+            {
+                  "name": "Salman Farsi",
+                  "text": "Acest lăcaș de cult islamic din zona universității este un centru activ pentru adunările religioase ale musulmanilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        69.160369,
+                        34.508091
+                  ]
+            },
+            {
+                  "name": "Kabul Universiy Mosque",
+                  "text": "Situată chiar în campusul Universității din Kabul, această moschee oferă studenților și profesorilor un spațiu accesibil pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129849,
+                        34.515479
+                  ]
+            },
+            {
+                  "name": "Madrasa Khatamunabiyen",
+                  "text": "Această importantă madrasa șiită funcționează ca un centru major pentru educația religioasă și studiile teologice avansate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147577,
+                        34.504267
+                  ]
+            },
+            {
+                  "name": "Computer Market",
+                  "text": "Această piață comercială specializată este un hub central și aglomerat pentru achiziționarea de computere și echipamente electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        69.117856,
+                        34.510826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabul Zoo",
+                  "text": "Opened in 1960 along the banks of the Kabul River, this zoological garden houses various regional and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        69.155735,
+                        34.509604
+                  ]
+            },
+            {
+                  "name": "Emam Hasan Mujtaba",
+                  "text": "This Islamic mosque located near the Kabul Zoo provides a dedicated space for local congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11025,
+                        34.505209
+                  ]
+            },
+            {
+                  "name": "Emam Riza",
+                  "text": "Situated a short distance from the zoo, this Islamic mosque serves the surrounding community for their daily communal worship.",
+                  "category": "landmark",
+                  "coords": [
+                        69.11241,
+                        34.505116
+                  ]
+            },
+            {
+                  "name": "Salman Farsi",
+                  "text": "This Islamic place of worship near the university area is an active center for religious gatherings of local Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        69.160369,
+                        34.508091
+                  ]
+            },
+            {
+                  "name": "Kabul Universiy Mosque",
+                  "text": "Located right on the campus of Kabul University, this mosque provides a convenient place of worship for students and faculty.",
+                  "category": "landmark",
+                  "coords": [
+                        69.129849,
+                        34.515479
+                  ]
+            },
+            {
+                  "name": "Madrasa Khatamunabiyen",
+                  "text": "This major Shia madrasa serves as a significant educational institution for advanced theological and religious studies in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        69.147577,
+                        34.504267
+                  ]
+            },
+            {
+                  "name": "Computer Market",
+                  "text": "This specialized commercial marketplace is a bustling central hub dedicated to the trade of computers and electronic accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        69.117856,
+                        34.510826
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.155, 34.508],
@@ -650,7 +4340,88 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Inauguré en 1967.", "Seul zoo de tout l'Afghanistan.", "Le lion Marjan est devenu le symbole de la survie.", "Lourdement endommagé pendant la guerre civile.", "Reconstruit avec l'aide internationale.", "Lieu de détente important pour les enfants à Kaboul.", "Abrite principalement des espèces animales locales.", "Situé sur les rives de la rivière Kaboul."],
     }, image: "/poi-images/kabul-zoo-landmarks-v2.webp"},
   {
-    id: "khost-great-mosque-landmarks-v2",
+    id: "khost-great-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tana;Tanah",
+                  "text": "Überreste alter Lehmwallstrukturen in der Nähe der Stadt Khost.",
+                  "category": "historical",
+                  "coords": [
+                        69.965842,
+                        33.288481
+                  ]
+            },
+            {
+                  "name": "Haji Husain Miakhel Mosque",
+                  "text": "Eine bedeutende lokale islamische Gebetsstätte für die Gemeinde in Khost.",
+                  "category": "landmark",
+                  "coords": [
+                        69.925947,
+                        33.319628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tana;Tanah",
+                  "text": "Ókori vályogfalú építmények maradványai Khost városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        69.965842,
+                        33.288481
+                  ]
+            },
+            {
+                  "name": "Haji Husain Miakhel Mosque",
+                  "text": "Jelentős helyi iszlám istentiszteleti hely Khost közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.925947,
+                        33.319628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tana;Tanah",
+                  "text": "Rămășițe ale unor structuri antice cu ziduri de lut situate lângă orașul Khost.",
+                  "category": "historical",
+                  "coords": [
+                        69.965842,
+                        33.288481
+                  ]
+            },
+            {
+                  "name": "Haji Husain Miakhel Mosque",
+                  "text": "Un lăcaș de cult islamic local proeminent care deservește comunitatea din Khost.",
+                  "category": "landmark",
+                  "coords": [
+                        69.925947,
+                        33.319628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tana;Tanah",
+                  "text": "Remnants of ancient mud-walled structures located near the city of Khost.",
+                  "category": "historical",
+                  "coords": [
+                        69.965842,
+                        33.288481
+                  ]
+            },
+            {
+                  "name": "Haji Husain Miakhel Mosque",
+                  "text": "A prominent local place of Islamic worship serving the community in Khost.",
+                  "category": "landmark",
+                  "coords": [
+                        69.925947,
+                        33.319628
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-KHO",
     coords: [69.925, 33.333],
@@ -693,7 +4464,124 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Mosquée centrale de la ville et de la province de Khost.", "Design moderne avec une grande coupole.", "Dispose de hauts minarets visibles de loin.", "Lieu de rassemblement important pour la communauté.", "Offre de la place pour des milliers de fidèles.", "Reflète l'identité islamique de la région.", "Située au cœur de la ville de Khost.", "Monument architectural de l'est de l'Afghanistan."],
     }, image: "/poi-images/khost-great-mosque-landmarks-v2.webp"},
   {
-    id: "minaret-of-chakari-landmarks-v2",
+    id: "minaret-of-chakari-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`a Muhsen",
+                  "text": "Die Ruinen einer alten Lehmziegelfestung im malerischen Logar-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        69.336407,
+                        34.484629
+                  ]
+            },
+            {
+                  "name": "Habibullah Zazai Park",
+                  "text": "Ein großer Freizeitpark an einem Hang in Kabul mit Panoramablick auf die Skyline der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        69.335705,
+                        34.474121
+                  ]
+            },
+            {
+                  "name": "Shewaki Stupa",
+                  "text": "Ein restauriertes buddhistisches Monument aus der Kuschan-Ära südlich von Kabul.",
+                  "category": "historical",
+                  "coords": [
+                        69.281288,
+                        34.441039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`a Muhsen",
+                  "text": "Egy régi vályogtéglából épült erőd romjai a látványos Logar-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        69.336407,
+                        34.484629
+                  ]
+            },
+            {
+                  "name": "Habibullah Zazai Park",
+                  "text": "Nagyméretű vidámpark egy domboldalon Kabulban, panorámás kilátással a városra.",
+                  "category": "recreational",
+                  "coords": [
+                        69.335705,
+                        34.474121
+                  ]
+            },
+            {
+                  "name": "Shewaki Stupa",
+                  "text": "A Kusán-korszakból származó, restaurált buddhista emlékmű Kabultól délre.",
+                  "category": "historical",
+                  "coords": [
+                        69.281288,
+                        34.441039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`a Muhsen",
+                  "text": "Ruinele unei vechi cetăți din cărămidă de lut, situată în pitoreasca Vale Logar.",
+                  "category": "historical",
+                  "coords": [
+                        69.336407,
+                        34.484629
+                  ]
+            },
+            {
+                  "name": "Habibullah Zazai Park",
+                  "text": "Un parc de distracții mare pe un deal din Kabul, oferind vedere panoramică asupra orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        69.335705,
+                        34.474121
+                  ]
+            },
+            {
+                  "name": "Shewaki Stupa",
+                  "text": "Un monument budist restaurat din epoca Kushan, situat la sud de Kabul.",
+                  "category": "historical",
+                  "coords": [
+                        69.281288,
+                        34.441039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`a Muhsen",
+                  "text": "The ruins of an old mud-brick fortress situated in the scenic Logar Valley.",
+                  "category": "historical",
+                  "coords": [
+                        69.336407,
+                        34.484629
+                  ]
+            },
+            {
+                  "name": "Habibullah Zazai Park",
+                  "text": "A large hillside amusement park in Kabul offering panoramic views of the city skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        69.335705,
+                        34.474121
+                  ]
+            },
+            {
+                  "name": "Shewaki Stupa",
+                  "text": "A restored Buddhist monument from the Kushan era, located south of Kabul.",
+                  "category": "historical",
+                  "coords": [
+                        69.281288,
+                        34.441039
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AF-KAB",
     coords: [69.300, 34.433],
@@ -736,7 +4624,232 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Monument bouddhiste de l'époque kouchan.", "Servait de repère sur la Route de la Soie.", "Exemple de l'art du Gandhara.", "À l'origine, une colonne très haute.", "Situé sur une crête au sud-est de Kaboul.", "Témoignage du passé bouddhiste de l'Afghanistan.", "Endommagé par les guerres et les séismes.", "Entièrement détruit en 1998."],
     }, image: "/poi-images/minaret-of-chakari-landmarks-v2.webp"},
   {
-    id: "omar-mine-museum-landmarks-v2",
+    id: "omar-mine-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ghulam Mohammad Maimanagi Art Course",
+                  "text": "Dieses Kunstzentrum, benannt nach einem berühmten afghanischen Maler, bietet kreative Zeichenkurse und kulturelle Ausstellungen an.",
+                  "category": "cultural",
+                  "coords": [
+                        69.19819,
+                        34.532872
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Rasul",
+                  "text": "Diese traditionelle Befestigungsanlage vermittelt einen authentischen Eindruck der historischen Verteidigungsarchitektur aus Lehmziegeln der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.240364,
+                        34.606808
+                  ]
+            },
+            {
+                  "name": "Yadgar masjid",
+                  "text": "Diese dem Gedenken gewidmete Moschee ist ein fester spiritueller Bestandteil des muslimischen Gemeindelebens in diesem Stadtteil.",
+                  "category": "landmark",
+                  "coords": [
+                        69.176973,
+                        34.548862
+                  ]
+            },
+            {
+                  "name": "Wazir Akbar Khan Mosque",
+                  "text": "Diese markante islamische Moschee befindet sich zentral im prestigeträchtigen und gut bewachten Diplomatenviertel Wazir Akbar Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.182292,
+                        34.53551
+                  ]
+            },
+            {
+                  "name": "Mecrorayan Bazar",
+                  "text": "Dieser belebte Marktplatz versorgt die Bewohner der von den Sowjets erbauten Macroyan-Wohnblöcke mit frischen Lebensmitteln und Alltagsgütern.",
+                  "category": "cultural",
+                  "coords": [
+                        69.202919,
+                        34.543346
+                  ]
+            },
+            {
+                  "name": "Qaazi Plaza",
+                  "text": "Dieses moderne kommerzielle Einkaufszentrum beherbergt eine Vielzahl von Einzelhandelsgeschäften und städtischen Dienstleistern.",
+                  "category": "cultural",
+                  "coords": [
+                        69.196431,
+                        34.540428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghulam Mohammad Maimanagi Art Course",
+                  "text": "Ez a híres afgán festőről elnevezett művészeti központ kreatív rajztanfolyamokat és kulturális kiállításokat szervez.",
+                  "category": "cultural",
+                  "coords": [
+                        69.19819,
+                        34.532872
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Rasul",
+                  "text": "Ez a hagyományos erődítmény hiteles képet ad a régió történelmi, vályogtéglás védelmi építészetéről.",
+                  "category": "landmark",
+                  "coords": [
+                        69.240364,
+                        34.606808
+                  ]
+            },
+            {
+                  "name": "Yadgar masjid",
+                  "text": "Ez az emlékezetnek szentelt mecset a környékbeli muszlim közösség spirituális életének szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        69.176973,
+                        34.548862
+                  ]
+            },
+            {
+                  "name": "Wazir Akbar Khan Mosque",
+                  "text": "Ez a kiemelkedő iszlám mecset központi helyen, a tekintélyes és jól őrzött Wazir Akbar Khan diplomatanegyedben található.",
+                  "category": "landmark",
+                  "coords": [
+                        69.182292,
+                        34.53551
+                  ]
+            },
+            {
+                  "name": "Mecrorayan Bazar",
+                  "text": "Ez a forgalmas piac a szovjetek által épített Macroyan lakótelep lakóit látja el friss élelmiszerekkel és mindennapi cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        69.202919,
+                        34.543346
+                  ]
+            },
+            {
+                  "name": "Qaazi Plaza",
+                  "text": "Ez a modern kereskedelmi bevásárlóközpont számos kiskereskedelmi üzletnek és városi szolgáltatónak ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.196431,
+                        34.540428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghulam Mohammad Maimanagi Art Course",
+                  "text": "Acest centru de artă, numit după un renumit pictor afgan, găzduiește cursuri creative de desen și expoziții culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.19819,
+                        34.532872
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Rasul",
+                  "text": "Această structură tradițională fortificată oferă o imagine autentică a arhitecturii defensive istorice din cărămidă de lut a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.240364,
+                        34.606808
+                  ]
+            },
+            {
+                  "name": "Yadgar masjid",
+                  "text": "Această moschee cu rol comemorativ este o parte spirituală integrantă a vieții comunității musulmane din acest cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        69.176973,
+                        34.548862
+                  ]
+            },
+            {
+                  "name": "Wazir Akbar Khan Mosque",
+                  "text": "Această moschee islamică proeminentă este situată central în prestigiosul cartier diplomatic Wazir Akbar Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.182292,
+                        34.53551
+                  ]
+            },
+            {
+                  "name": "Mecrorayan Bazar",
+                  "text": "Această piață aglomerată aprovizionează rezidenții complexurilor de apartamente Macroyan, construite de sovietici, cu alimente și bunuri esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.202919,
+                        34.543346
+                  ]
+            },
+            {
+                  "name": "Qaazi Plaza",
+                  "text": "Acest centru comercial modern găzduiește o varietate de magazine de vânzare cu amănuntul și furnizori de servicii urbane.",
+                  "category": "cultural",
+                  "coords": [
+                        69.196431,
+                        34.540428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghulam Mohammad Maimanagi Art Course",
+                  "text": "Named after a renowned Afghan painter, this arts center provides creative drawing courses and hosts local cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        69.19819,
+                        34.532872
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Rasul",
+                  "text": "This traditional fortified structure provides an authentic look at the region's historic mud-brick defensive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.240364,
+                        34.606808
+                  ]
+            },
+            {
+                  "name": "Yadgar masjid",
+                  "text": "This memorial mosque is an integral spiritual part of the daily life of the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.176973,
+                        34.548862
+                  ]
+            },
+            {
+                  "name": "Wazir Akbar Khan Mosque",
+                  "text": "This prominent Islamic mosque is centrally located in the prestigious and heavily secured Wazir Akbar Khan diplomatic neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        69.182292,
+                        34.53551
+                  ]
+            },
+            {
+                  "name": "Mecrorayan Bazar",
+                  "text": "This bustling bazaar supplies the residents of the Soviet-built Macroyan apartment complexes with fresh groceries and essential daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.202919,
+                        34.543346
+                  ]
+            },
+            {
+                  "name": "Qaazi Plaza",
+                  "text": "This modern commercial plaza houses a variety of retail shops and local urban business services.",
+                  "category": "cultural",
+                  "coords": [
+                        69.196431,
+                        34.540428
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.183, 34.538],
@@ -822,7 +4935,268 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       fr: ["Lieu de villégiature estivale traditionnel depuis les années 1920.", "Abrite l'arc de triomphe Taq-e Zafar.", "Autrefois appelé le „Jardin de l'Europe“.", "Modernisé sous le roi Amanullah Khan.", "Fortement détruit pendant les guerres.", "Un nouveau grand complexe palatial a été construit récemment.", "Apprécié pour son climat plus frais.", "Situé dans une vallée verdoyante à l'ouest de Kaboul."],
     }, image: "/poi-images/paghman-gardens-landmarks-v2.webp"},
   {
-    id: "darunta-dam-landmarks-v2",
+    id: "darunta-dam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`ah-ye Wazir",
+                  "text": "Ruinen einer historischen Festung, die sich auf einer Anhöhe über dem Darunta-Stausee befinden.",
+                  "category": "historical",
+                  "coords": [
+                        70.305571,
+                        34.532456
+                  ]
+            },
+            {
+                  "name": "Syahsang",
+                  "text": "Antike archäologische Stätte mit historischen Überresten in der Nähe des Kabul-Flussufers.",
+                  "category": "historical",
+                  "coords": [
+                        70.367896,
+                        34.403913
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine schlichte Moschee in der Nähe des Darunta-Wasserkraftwerks für die lokale Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        70.366134,
+                        34.476378
+                  ]
+            },
+            {
+                  "name": "Sediq Khan Mosque",
+                  "text": "Traditionelle Moschee, die der ländlichen Gemeinschaft in der Gegend von Darunta dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.29761,
+                        34.412324
+                  ]
+            },
+            {
+                  "name": "Bilal Masque",
+                  "text": "Islamisches Gebetshaus, benannt nach Bilal ibn Rabah, dem ersten Muezzin des Islam.",
+                  "category": "religious",
+                  "coords": [
+                        70.329345,
+                        34.421146
+                  ]
+            },
+            {
+                  "name": "Hazart Naib Masjid",
+                  "text": "Eine lokale Gemeindemoschee in der ländlichen Region unweit des Kabul-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        70.368626,
+                        34.432059
+                  ]
+            },
+            {
+                  "name": "Char Bagh Jami Masjid",
+                  "text": "Die zentrale Freitagsmoschee des Char-Bagh-Distrikts, genutzt für große wöchentliche Predigten.",
+                  "category": "landmark",
+                  "coords": [
+                        70.380503,
+                        34.435147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`ah-ye Wazir",
+                  "text": "Egy történelmi erőd romjai, amelyek a Darunta-víztározó feletti dombon találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        70.305571,
+                        34.532456
+                  ]
+            },
+            {
+                  "name": "Syahsang",
+                  "text": "Ókori régészeti lelőhely történelmi maradványokkal a Kabul-folyó partjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        70.367896,
+                        34.403913
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egyszerű mecset a Darunta vízerőmű közelében a helyi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.366134,
+                        34.476378
+                  ]
+            },
+            {
+                  "name": "Sediq Khan Mosque",
+                  "text": "Hagyományos mecset, amely Darunta környékének vidéki közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        70.29761,
+                        34.412324
+                  ]
+            },
+            {
+                  "name": "Bilal Masque",
+                  "text": "Iszlám imaház, amely Bilal ibn Rabah-ról, az iszlám első müezzinjéről kapta nevét.",
+                  "category": "religious",
+                  "coords": [
+                        70.329345,
+                        34.421146
+                  ]
+            },
+            {
+                  "name": "Hazart Naib Masjid",
+                  "text": "Helyi közösségi mecset a vidéki régióban, nem messze a Kabul-folyótól.",
+                  "category": "landmark",
+                  "coords": [
+                        70.368626,
+                        34.432059
+                  ]
+            },
+            {
+                  "name": "Char Bagh Jami Masjid",
+                  "text": "A Char Bagh körzet központi pénteki mecsetje, amelyet a nagy heti prédikációkhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        70.380503,
+                        34.435147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`ah-ye Wazir",
+                  "text": "Ruinele unei fortărețe istorice situate pe o colină deasupra lacului de acumulare Darunta.",
+                  "category": "historical",
+                  "coords": [
+                        70.305571,
+                        34.532456
+                  ]
+            },
+            {
+                  "name": "Syahsang",
+                  "text": "Sit arheologic antic cu vestigii istorice situat în apropierea malurilor râului Kabul.",
+                  "category": "historical",
+                  "coords": [
+                        70.367896,
+                        34.403913
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee simplă situată lângă hidrocentrala Darunta pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.366134,
+                        34.476378
+                  ]
+            },
+            {
+                  "name": "Sediq Khan Mosque",
+                  "text": "O moschee tradițională care deservește comunitatea rurală din zona Darunta.",
+                  "category": "landmark",
+                  "coords": [
+                        70.29761,
+                        34.412324
+                  ]
+            },
+            {
+                  "name": "Bilal Masque",
+                  "text": "Casă de rugăciune islamică, numită după Bilal ibn Rabah, primul muezin al islamului.",
+                  "category": "religious",
+                  "coords": [
+                        70.329345,
+                        34.421146
+                  ]
+            },
+            {
+                  "name": "Hazart Naib Masjid",
+                  "text": "O moschee comunitară locală în regiunea rurală, nu departe de râul Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        70.368626,
+                        34.432059
+                  ]
+            },
+            {
+                  "name": "Char Bagh Jami Masjid",
+                  "text": "Moscheea centrală de vineri a districtului Char Bagh, utilizată pentru marile predici săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        70.380503,
+                        34.435147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`ah-ye Wazir",
+                  "text": "Ruins of a historic fort situated on a hill overlooking the Darunta Dam reservoir.",
+                  "category": "historical",
+                  "coords": [
+                        70.305571,
+                        34.532456
+                  ]
+            },
+            {
+                  "name": "Syahsang",
+                  "text": "Ancient archaeological site featuring historic remains near the Kabul River banks.",
+                  "category": "historical",
+                  "coords": [
+                        70.367896,
+                        34.403913
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple mosque located near the Darunta hydroelectric station for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        70.366134,
+                        34.476378
+                  ]
+            },
+            {
+                  "name": "Sediq Khan Mosque",
+                  "text": "Traditional mosque serving the rural community in the Darunta area.",
+                  "category": "landmark",
+                  "coords": [
+                        70.29761,
+                        34.412324
+                  ]
+            },
+            {
+                  "name": "Bilal Masque",
+                  "text": "Islamic house of worship named after Bilal ibn Rabah, the first muezzin of Islam.",
+                  "category": "religious",
+                  "coords": [
+                        70.329345,
+                        34.421146
+                  ]
+            },
+            {
+                  "name": "Hazart Naib Masjid",
+                  "text": "A local community mosque in the rural region, not far from the Kabul River.",
+                  "category": "landmark",
+                  "coords": [
+                        70.368626,
+                        34.432059
+                  ]
+            },
+            {
+                  "name": "Char Bagh Jami Masjid",
+                  "text": "The central Friday mosque of the Char Bagh district, used for major weekly sermons.",
+                  "category": "landmark",
+                  "coords": [
+                        70.380503,
+                        34.435147
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AF-NAN",
     coords: [70.366, 34.466],

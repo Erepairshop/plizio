@@ -1666,7 +1666,7 @@ imageHint: "Lim channel Istria fjord",
       "de": [
             {
                   "name": "Bajnski dvori",
-                  "text": "Ein historisches Schlossensemble in der Nähe von Varaždin.",
+                  "text": "Ein Schloss aus dem 19. Jahrhundert in Vinica, Kroatien, umgeben vom Arboretum Opeka.",
                   "category": "castle",
                   "coords": [
                         16.152887,
@@ -1684,7 +1684,7 @@ imageHint: "Lim channel Istria fjord",
             },
             {
                   "name": "Burg Vinica",
-                  "text": "Eine mittelalterliche Burganlage in der Region.",
+                  "text": "Burgruine oberhalb des Arboretums Opeka auf einem Hügel.",
                   "category": "castle",
                   "coords": [
                         16.134108,
@@ -1704,7 +1704,7 @@ imageHint: "Lim channel Istria fjord",
       "hu": [
             {
                   "name": "Bajnski dvori",
-                  "text": "Történelmi kastélyegyüttes Varaždin közelében.",
+                  "text": "19. századi kastély Vinicában, Horvátországban, az Opeka Arborétummal körülvéve.",
                   "category": "castle",
                   "coords": [
                         16.152887,
@@ -1722,7 +1722,7 @@ imageHint: "Lim channel Istria fjord",
             },
             {
                   "name": "Burg Vinica",
-                  "text": "Középkori várépítmény a régióban.",
+                  "text": "Romvár az Opekai Arborétum feletti dombon.",
                   "category": "castle",
                   "coords": [
                         16.134108,
@@ -1742,7 +1742,7 @@ imageHint: "Lim channel Istria fjord",
       "ro": [
             {
                   "name": "Bajnski dvori",
-                  "text": "Un complex istoric de castele situat lângă Varaždin.",
+                  "text": "Un castel din secolul XIX în Vinica, Croația, înconjurat de Arboretumul Opeka.",
                   "category": "castle",
                   "coords": [
                         16.152887,
@@ -1760,7 +1760,7 @@ imageHint: "Lim channel Istria fjord",
             },
             {
                   "name": "Burg Vinica",
-                  "text": "O cetate medievală situată în regiune.",
+                  "text": "Ruinele unui castel pe dealul deasupra Arboretum Opeka.",
                   "category": "castle",
                   "coords": [
                         16.134108,
@@ -1780,7 +1780,7 @@ imageHint: "Lim channel Istria fjord",
       "en": [
             {
                   "name": "Bajnski dvori",
-                  "text": "A historic castle complex located near Varaždin.",
+                  "text": "A 19th-century castle in Vinica, Croatia, surrounded by the Opeka arboretum.",
                   "category": "castle",
                   "coords": [
                         16.152887,
@@ -1798,7 +1798,7 @@ imageHint: "Lim channel Istria fjord",
             },
             {
                   "name": "Burg Vinica",
-                  "text": "A medieval castle fortification located in the region.",
+                  "text": "Castle ruins on a hill above Arboretum Opeka.",
                   "category": "castle",
                   "coords": [
                         16.134108,

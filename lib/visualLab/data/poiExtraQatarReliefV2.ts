@@ -179,7 +179,52 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "dahl-al-misfir-relief-v2",
+    id: "dahl-al-misfir-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musfur Cave",
+                  "text": "Diese tiefe Karsthöhle enthält Gipskristalle und ist die tiefste zugängliche natürliche Höhle in Katar.",
+                  "category": "natural",
+                  "coords": [
+                        51.21172,
+                        25.175141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musfur Cave",
+                  "text": "Ez a mély karsztbarlang gipszkristályokat tartalmaz, és Katar legmélyebb látogatható természetes barlangja.",
+                  "category": "natural",
+                  "coords": [
+                        51.21172,
+                        25.175141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musfur Cave",
+                  "text": "Această peșteră carstică adâncă conține cristale de ghips și este cea mai adâncă peșteră naturală accesibilă din Qatar.",
+                  "category": "natural",
+                  "coords": [
+                        51.21172,
+                        25.175141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musfur Cave",
+                  "text": "This deep karst cave features gypsum crystals and is the deepest accessible natural cave in Qatar.",
+                  "category": "natural",
+                  "coords": [
+                        51.21172,
+                        25.175141
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "QA-RA",
     coords: [51.2155, 25.2422],
@@ -311,7 +356,52 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "jebel-fuwayrit-relief-v2",
+    id: "jebel-fuwayrit-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuwairit heritage village",
+                  "text": "Ein verlassenes historisches Küstendorf mit Überresten traditioneller katarischer Häuser.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371736,
+                        26.024263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuwairit heritage village",
+                  "text": "Elhagyatott történelmi parti falu hagyományos katari házak romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371736,
+                        26.024263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuwairit heritage village",
+                  "text": "Un sat istoric de coastă abandonat, cu resturi de case tradiționale qatariene.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371736,
+                        26.024263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuwairit heritage village",
+                  "text": "A deserted historic coastal village featuring remains of traditional Qatari stone houses.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371736,
+                        26.024263
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "QA-MS",
     coords: [51.3736, 26.0233],
@@ -443,7 +533,196 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "wadi-al-banat-relief-v2",
+    id: "wadi-al-banat-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qatar University Mosque",
+                  "text": "Die Moschee der Universität von Katar bietet den Studenten und akademischen Mitarbeitern auf dem Universitätscampus eine gut erreichbare, großzügige Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.49084,
+                        25.376481
+                  ]
+            },
+            {
+                  "name": "Nasser bin Rashid Al-Misned Mosque",
+                  "text": "Die Nasser bin Rashid Al-Misned Moschee ist ein bemerkenswertes religiöses Gebäude, das die Gemeinde des Bezirks Wadi Al Banat unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452163,
+                        25.377464
+                  ]
+            },
+            {
+                  "name": "Nasser Khaled Al-Rabban",
+                  "text": "Nasser Khaled Al-Rabban ist ein aktives islamisches Gottesdienstzentrum, das tief in die Wohnstruktur von Wadi Al Banat integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473422,
+                        25.376341
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 16",
+                  "text": "Al Furjan Markets 16 ist Teil einer lokalen Handelsinitiative, die den Bewohnern von Wadi Al Banat eine Vielzahl von Gütern des täglichen Bedarfs bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477528,
+                        25.375872
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 17",
+                  "text": "Diese Filiale der Al Furjan Markets (17) bietet im Gebiet von Wadi Al Banat einen leicht zugänglichen Einzelhandel auf Gemeindeebene.",
+                  "category": "cultural",
+                  "coords": [
+                        51.476851,
+                        25.372718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qatar University Mosque",
+                  "text": "A Katari Egyetem mecsete kényelmes, nagy léptékű imádkozási lehetőséget biztosít az egyetemi kampusz hallgatói és akadémiai személyzete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.49084,
+                        25.376481
+                  ]
+            },
+            {
+                  "name": "Nasser bin Rashid Al-Misned Mosque",
+                  "text": "A Nasser bin Rashid Al-Misned mecset egy jelentős vallási épület, amely a Wadi Al Banat kerület közösségét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452163,
+                        25.377464
+                  ]
+            },
+            {
+                  "name": "Nasser Khaled Al-Rabban",
+                  "text": "A Nasser Khaled Al-Rabban egy aktív iszlám istentiszteleti központ, amely mélyen integrálódik a Wadi Al Banat lakóövezetének elrendezésébe.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473422,
+                        25.376341
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 16",
+                  "text": "Az Al Furjan Markets 16 egy helyi kereskedelmi kezdeményezés része, amely különféle napi cikkeket kínál a Wadi Al Banat lakosainak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477528,
+                        25.375872
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 17",
+                  "text": "Az Al Furjan Markets ezen ága (17) elérhető, közösségi szintű kiskereskedelmi vásárlást biztosít a Wadi Al Banat területén.",
+                  "category": "cultural",
+                  "coords": [
+                        51.476851,
+                        25.372718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qatar University Mosque",
+                  "text": "Moscheea Universității din Qatar oferă o facilitate de rugăciune convenabilă și pe scară largă pentru studenții și personalul academic din campusul universitar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.49084,
+                        25.376481
+                  ]
+            },
+            {
+                  "name": "Nasser bin Rashid Al-Misned Mosque",
+                  "text": "Moscheea Nasser bin Rashid Al-Misned este o clădire religioasă notabilă care sprijină comunitatea din districtul Wadi Al Banat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452163,
+                        25.377464
+                  ]
+            },
+            {
+                  "name": "Nasser Khaled Al-Rabban",
+                  "text": "Nasser Khaled Al-Rabban este un centru activ de cult islamic, integrat profund în structura rezidențială din Wadi Al Banat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473422,
+                        25.376341
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 16",
+                  "text": "Al Furjan Markets 16 face parte dintr-o inițiativă comercială locală, oferind o varietate de bunuri zilnice rezidenților din Wadi Al Banat.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477528,
+                        25.375872
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 17",
+                  "text": "Această ramură a Al Furjan Markets (17) oferă cumpărături cu amănuntul accesibile la nivel comunitar în zona Wadi Al Banat.",
+                  "category": "cultural",
+                  "coords": [
+                        51.476851,
+                        25.372718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qatar University Mosque",
+                  "text": "Qatar University Mosque provides a convenient, large-scale prayer facility for the students and academic staff on the university campus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.49084,
+                        25.376481
+                  ]
+            },
+            {
+                  "name": "Nasser bin Rashid Al-Misned Mosque",
+                  "text": "The Nasser bin Rashid Al-Misned Mosque is a notable religious building supporting the community of the Wadi Al Banat district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452163,
+                        25.377464
+                  ]
+            },
+            {
+                  "name": "Nasser Khaled Al-Rabban",
+                  "text": "Nasser Khaled Al-Rabban is an active Islamic worship center deeply integrated into the residential layout of Wadi Al Banat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473422,
+                        25.376341
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 16",
+                  "text": "Al Furjan Markets 16 is part of a local commercial initiative, offering a variety of daily goods to Wadi Al Banat residents.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477528,
+                        25.375872
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 17",
+                  "text": "This branch of the Al Furjan Markets (17) provides accessible, community-level retail shopping within the Wadi Al Banat area.",
+                  "category": "cultural",
+                  "coords": [
+                        51.476851,
+                        25.372718
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "QA-DA",
     coords: [51.4589, 25.3781],
@@ -531,7 +810,52 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "umm-tais-relief-v2",
+    id: "umm-tais-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mafjar Beach",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke über den Persischen Golf und Mangrovenwälder bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.291295,
+                        26.13751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mafjar Beach",
+                  "text": "Kilátópont, amely széles kilátást nyújt a Perzsa-öbölre és a mangrovékra.",
+                  "category": "natural",
+                  "coords": [
+                        51.291295,
+                        26.13751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mafjar Beach",
+                  "text": "Un punct de observare care oferă vederi largi asupra Golfului Persic și a pădurilor de mangrove.",
+                  "category": "natural",
+                  "coords": [
+                        51.291295,
+                        26.13751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mafjar Beach",
+                  "text": "A viewpoint offering wide vistas over the Persian Gulf and mangrove forests.",
+                  "category": "natural",
+                  "coords": [
+                        51.291295,
+                        26.13751
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "QA-MS",
     coords: [51.2789, 26.1475],
@@ -575,7 +899,232 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "wadi-al-sail-relief-v2",
+    id: "wadi-al-sail-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "shameem pharm hmc women home",
+                  "text": "Eine prächtige Privatresidenz in Wadi Al Sail, die durch ihre festungsähnliche Architektur auffällt.",
+                  "category": "castle",
+                  "coords": [
+                        51.481503,
+                        25.308569
+                  ]
+            },
+            {
+                  "name": "Fire Station Museum",
+                  "text": "Ein Kunstort in Doha, der bedeutende Ausstellungen mit Werken der Meister Picasso und Giacometti beherbergt hat.",
+                  "category": "museum",
+                  "coords": [
+                        51.507695,
+                        25.303249
+                  ]
+            },
+            {
+                  "name": "Jami'a Mar'yam",
+                  "text": "Eine elegante Moschee in Wadi Al Sail, bekannt für ihr markantes Minarett und den hellen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.495314,
+                        25.300759
+                  ]
+            },
+            {
+                  "name": "Hitmi",
+                  "text": "Eine Nachbarschaftsmoschee in Wadi Al Sail mit traditionellem islamischem Design für die lokale Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491669,
+                        25.298883
+                  ]
+            },
+            {
+                  "name": "Aysha Mosque",
+                  "text": "Eine moderne Gebetsstätte im Bezirk Wadi Al Sail, charakterisiert durch schlichte architektonische Formen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.494857,
+                        25.304212
+                  ]
+            },
+            {
+                  "name": "Green Mosque",
+                  "text": "Diese für ihre grünen Akzente bekannte Moschee ist ein markantes lokales Wahrzeichen im Viertel Wadi Al Sail.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498294,
+                        25.299217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "shameem pharm hmc women home",
+                  "text": "Pompás magánrezidencia Wadi Al Sailban, amely erődszerű építészetével tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        51.481503,
+                        25.308569
+                  ]
+            },
+            {
+                  "name": "Fire Station Museum",
+                  "text": "Művészeti helyszín Dohában, amely Picasso és Giacometti mesterműveinek jelentős kiállításainak adott otthont.",
+                  "category": "museum",
+                  "coords": [
+                        51.507695,
+                        25.303249
+                  ]
+            },
+            {
+                  "name": "Jami'a Mar'yam",
+                  "text": "Elegáns mecset Wadi Al Sailban, amely jellegzetes minaretjéről és világos imaterméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.495314,
+                        25.300759
+                  ]
+            },
+            {
+                  "name": "Hitmi",
+                  "text": "Wadi Al Sail környékbeli mecsete, amely hagyományos iszlám kialakítással szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491669,
+                        25.298883
+                  ]
+            },
+            {
+                  "name": "Aysha Mosque",
+                  "text": "Modern imaház Wadi Al Sail negyedében, amelyet egyszerű építészeti formák jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        51.494857,
+                        25.304212
+                  ]
+            },
+            {
+                  "name": "Green Mosque",
+                  "text": "A zöld díszítéseiről ismert mecset Wadi Al Sail negyedének jellegzetes helyi nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498294,
+                        25.299217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "shameem pharm hmc women home",
+                  "text": "O reședință privată grandioasă în Wadi Al Sail, care se remarcă prin arhitectura sa asemănătoare unei cetăți.",
+                  "category": "castle",
+                  "coords": [
+                        51.481503,
+                        25.308569
+                  ]
+            },
+            {
+                  "name": "Fire Station Museum",
+                  "text": "O locație de artă din Doha care a găzduit expoziții importante cu operele maeștrilor Picasso și Giacometti.",
+                  "category": "museum",
+                  "coords": [
+                        51.507695,
+                        25.303249
+                  ]
+            },
+            {
+                  "name": "Jami'a Mar'yam",
+                  "text": "O moschee elegantă în Wadi Al Sail, cunoscută pentru minaretul său distinctiv și sala de rugăciune luminoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.495314,
+                        25.300759
+                  ]
+            },
+            {
+                  "name": "Hitmi",
+                  "text": "O moschee de cartier în Wadi Al Sail, cu un design islamic tradițional pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491669,
+                        25.298883
+                  ]
+            },
+            {
+                  "name": "Aysha Mosque",
+                  "text": "Un lăcaș de rugăciune modern în districtul Wadi Al Sail, caracterizat prin forme arhitecturale simple.",
+                  "category": "landmark",
+                  "coords": [
+                        51.494857,
+                        25.304212
+                  ]
+            },
+            {
+                  "name": "Green Mosque",
+                  "text": "Cunoscută pentru accentele sale verzi, această moschee este un punct de reper local în cartierul Wadi Al Sail.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498294,
+                        25.299217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "shameem pharm hmc women home",
+                  "text": "A grand private residence in Wadi Al Sail, notable for its fortress-like architecture.",
+                  "category": "castle",
+                  "coords": [
+                        51.481503,
+                        25.308569
+                  ]
+            },
+            {
+                  "name": "Picasso Giacometti",
+                  "text": "An art venue in Doha that has hosted significant exhibitions of works by masters Picasso and Giacometti.",
+                  "category": "museum",
+                  "coords": [
+                        51.507695,
+                        25.303249
+                  ]
+            },
+            {
+                  "name": "Jami'a Mar'yam",
+                  "text": "An elegant mosque in Wadi Al Sail known for its distinctive minaret and bright prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        51.495314,
+                        25.300759
+                  ]
+            },
+            {
+                  "name": "Hitmi",
+                  "text": "A neighborhood mosque in Wadi Al Sail featuring traditional Islamic design for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491669,
+                        25.298883
+                  ]
+            },
+            {
+                  "name": "Aysha Mosque",
+                  "text": "A modern place of worship in the Wadi Al Sail district, characterized by simple architectural forms.",
+                  "category": "landmark",
+                  "coords": [
+                        51.494857,
+                        25.304212
+                  ]
+            },
+            {
+                  "name": "Green Mosque",
+                  "text": "Known for its green accents, this mosque is a distinctive local landmark in the Wadi Al Sail neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498294,
+                        25.299217
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "QA-DA",
     coords: [51.5039, 25.3061],
@@ -707,7 +1256,124 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "fuwayrit-beach-relief-v2",
+    id: "fuwayrit-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Ghariya Beach",
+                  "text": "Ein beliebter Küstenabschnitt, der für sein klares Wasser und die Ruhe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359373,
+                        26.071895
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach Qatar",
+                  "text": "Dieser Strand ist ein bekannter Nistplatz für die gefährdete Echte Karettschildkröte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359668,
+                        26.074073
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach",
+                  "text": "Ein unberührter Sandstrand im Norden Katars, ideal zum Kitesurfen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        51.374694,
+                        26.031372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Ghariya Beach",
+                  "text": "Népszerű tengerparti szakasz, amely tiszta vizéről és nyugalmáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359373,
+                        26.071895
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach Qatar",
+                  "text": "Ez a strand a veszélyeztetett közönséges cserepesteknősök ismert fészkelőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359668,
+                        26.074073
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach",
+                  "text": "Érintetlen homokos tengerpart Katar északi részén, ideális kitesurfinghez.",
+                  "category": "recreational",
+                  "coords": [
+                        51.374694,
+                        26.031372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Ghariya Beach",
+                  "text": "O porțiune populară de coastă, cunoscută pentru apele sale limpezi și liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359373,
+                        26.071895
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach Qatar",
+                  "text": "Această plajă este un loc de cuibărit cunoscut pentru broasca țestoasă Hawksbill, aflată în pericol.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359668,
+                        26.074073
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach",
+                  "text": "O plajă de nisip virgină în nordul Qatarului, ideală pentru kitesurfing și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        51.374694,
+                        26.031372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Ghariya Beach",
+                  "text": "A popular stretch of coastline known for its clear waters and tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359373,
+                        26.071895
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach Qatar",
+                  "text": "This beach is a known nesting ground for the endangered hawksbill sea turtle.",
+                  "category": "landmark",
+                  "coords": [
+                        51.359668,
+                        26.074073
+                  ]
+            },
+            {
+                  "name": "Fuwairit Beach",
+                  "text": "A pristine sandy beach in northern Qatar, ideal for kitesurfing and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        51.374694,
+                        26.031372
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "QA-MS",
     coords: [51.3789, 26.0372],
@@ -839,7 +1505,448 @@ export const poiExtraQatarReliefV2: POI[] = [
     }
   },
   {
-    id: "wadi-msheireb-relief-v2",
+    id: "wadi-msheireb-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hassanesco company",
+                  "text": "Ein modernes Geschäftsgebäude im Viertel Wadi Msheireb, das den zeitgenössischen Baustil Dohas verkörpert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512558,
+                        25.266271
+                  ]
+            },
+            {
+                  "name": "Muntazah Park",
+                  "text": "Ein öffentlicher Park im Bezirk Al Muntazah, der grüne Erholung und Ausblicke auf die umliegenden Wohngebiete bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.523084,
+                        25.265911
+                  ]
+            },
+            {
+                  "name": "Hbk contracting co. Wll",
+                  "text": "Ein bedeutender Firmensitz in Wadi Msheireb, der die moderne architektonische Landschaft des Geschäftsviertels prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522414,
+                        25.280324
+                  ]
+            },
+            {
+                  "name": "Youth Theater Center",
+                  "text": "Ein moderner Veranstaltungsort für darstellende Künste und kulturelle Bildung für Jugendliche.",
+                  "category": "cultural",
+                  "coords": [
+                        51.49791,
+                        25.249479
+                  ]
+            },
+            {
+                  "name": "4th Watch",
+                  "text": "Ein lokales christliches Gebetshaus, das der internationalen Gemeinde in Msheireb dient.",
+                  "category": "religious",
+                  "coords": [
+                        51.535363,
+                        25.244496
+                  ]
+            },
+            {
+                  "name": "Muhammad Abdulrahman Al-Zaman Mosque (60)",
+                  "text": "Eine elegante Moschee im Herzen von Msheireb, die sich durch ihre zeitgenössische islamische Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510532,
+                        25.260202
+                  ]
+            },
+            {
+                  "name": "Muhammad bin Hassan Al-Hajji Al-Sulaiti Mosque",
+                  "text": "Eine ruhige Nachbarschaftsmoschee, die als lokaler Gebetsort in der Nähe des Wadi-Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.511374,
+                        25.2568
+                  ]
+            },
+            {
+                  "name": "Al Olbaidi Mosque",
+                  "text": "Ein lokaler Ort der Anbetung für die muslimische Gemeinschaft mit traditionellen dekorativen Elementen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522203,
+                        25.235831
+                  ]
+            },
+            {
+                  "name": "Alia and Moza Rashid Al-Hitmi Mosque",
+                  "text": "Diese Gemeinschaftsmoschee bietet einen friedlichen Raum für die täglichen Gebete im Msheireb-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.515037,
+                        25.25781
+                  ]
+            },
+            {
+                  "name": "Aisha Bint Ahmed Mosque (504)",
+                  "text": "Eine Moschee mit klaren Linien und moderner Gestaltung, die sich in die urbane Erneuerung von Doha einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.513312,
+                        25.261845
+                  ]
+            },
+            {
+                  "name": "Al-M Market",
+                  "text": "Ein lokaler Marktplatz im Wadi-Viertel, der eine Vielzahl von Waren für den täglichen Bedarf anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        51.529032,
+                        25.28088
+                  ]
+            },
+            {
+                  "name": "Souq Al-Haraj",
+                  "text": "Ein lebhafter Marktplatz, der für seine große Auswahl an gebrauchten Möbeln und Haushaltswaren berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        51.539814,
+                        25.270946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hassanesco company",
+                  "text": "Wadi Msheireb negyedének modern üzleti épülete, amely Doha kortárs építészeti stílusát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512558,
+                        25.266271
+                  ]
+            },
+            {
+                  "name": "Muntazah Park",
+                  "text": "Al Muntazah negyed nyilvános parkja, amely zöld kikapcsolódást és kilátást nyújt a környező lakóövezetekre.",
+                  "category": "natural",
+                  "coords": [
+                        51.523084,
+                        25.265911
+                  ]
+            },
+            {
+                  "name": "Hbk contracting co. Wll",
+                  "text": "Jelentős vállalati központ Wadi Msheirebben, amely meghatározza az üzleti negyed modern építészeti arculatát.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522414,
+                        25.280324
+                  ]
+            },
+            {
+                  "name": "Youth Theater Center",
+                  "text": "A fiatalok előadóművészetének és kulturális oktatásának szentelt modern helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        51.49791,
+                        25.249479
+                  ]
+            },
+            {
+                  "name": "4th Watch",
+                  "text": "Helyi keresztény imaház, amely a msheirebi nemzetközi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        51.535363,
+                        25.244496
+                  ]
+            },
+            {
+                  "name": "Muhammad Abdulrahman Al-Zaman Mosque (60)",
+                  "text": "Elegáns mecset Msheireb szívében, amely kortárs iszlám építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510532,
+                        25.260202
+                  ]
+            },
+            {
+                  "name": "Muhammad bin Hassan Al-Hajji Al-Sulaiti Mosque",
+                  "text": "Csendes szomszédsági mecset, amely helyi imádkozóhelyként szolgál a Vádi negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.511374,
+                        25.2568
+                  ]
+            },
+            {
+                  "name": "Al Olbaidi Mosque",
+                  "text": "Helyi istentiszteleti hely a muszlim közösség számára, hagyományos díszítőelemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522203,
+                        25.235831
+                  ]
+            },
+            {
+                  "name": "Alia and Moza Rashid Al-Hitmi Mosque",
+                  "text": "Ez a közösségi mecset békés helyet biztosít a napi imákhoz Msheireb negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.515037,
+                        25.25781
+                  ]
+            },
+            {
+                  "name": "Aisha Bint Ahmed Mosque (504)",
+                  "text": "Letisztult vonalvezetésű, modern kialakítású mecset, amely illeszkedik Doha városi megújulásához.",
+                  "category": "landmark",
+                  "coords": [
+                        51.513312,
+                        25.261845
+                  ]
+            },
+            {
+                  "name": "Al-M Market",
+                  "text": "Helyi piactér a Vádi negyedben, amely különféle árucikkeket kínál a mindennapi szükségletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        51.529032,
+                        25.28088
+                  ]
+            },
+            {
+                  "name": "Souq Al-Haraj",
+                  "text": "Nyüzsgő piactér, amely használt bútorok és háztartási cikkek széles választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        51.539814,
+                        25.270946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hassanesco company",
+                  "text": "O clădire comercială modernă în cartierul Wadi Msheireb, reflectând stilul arhitectural contemporan al orașului Doha.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512558,
+                        25.266271
+                  ]
+            },
+            {
+                  "name": "Muntazah Park",
+                  "text": "Un parc public în districtul Al Muntazah, oferind recreere în aer liber și vederi spre zonele rezidențiale învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        51.523084,
+                        25.265911
+                  ]
+            },
+            {
+                  "name": "Hbk contracting co. Wll",
+                  "text": "Un sediu corporativ important în Wadi Msheireb, care definește peisajul arhitectural modern al districtului de afaceri.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522414,
+                        25.280324
+                  ]
+            },
+            {
+                  "name": "Youth Theater Center",
+                  "text": "Un loc modern dedicat artelor spectacolului și educației culturale pentru tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        51.49791,
+                        25.249479
+                  ]
+            },
+            {
+                  "name": "4th Watch",
+                  "text": "O casă de rugăciune creștină locală care deservește comunitatea internațională din Msheireb.",
+                  "category": "religious",
+                  "coords": [
+                        51.535363,
+                        25.244496
+                  ]
+            },
+            {
+                  "name": "Muhammad Abdulrahman Al-Zaman Mosque (60)",
+                  "text": "O moschee elegantă în inima cartierului Msheireb, remarcabilă prin arhitectura sa islamică contemporană.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510532,
+                        25.260202
+                  ]
+            },
+            {
+                  "name": "Muhammad bin Hassan Al-Hajji Al-Sulaiti Mosque",
+                  "text": "O moschee liniștită de cartier, care servește ca loc de rugăciune local lângă zona Wadi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.511374,
+                        25.2568
+                  ]
+            },
+            {
+                  "name": "Al Olbaidi Mosque",
+                  "text": "Un loc de cult local pentru comunitatea musulmană, cu elemente decorative tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522203,
+                        25.235831
+                  ]
+            },
+            {
+                  "name": "Alia and Moza Rashid Al-Hitmi Mosque",
+                  "text": "Această moschee comunitară oferă un spațiu liniștit pentru rugăciunile zilnice în cartierul Msheireb.",
+                  "category": "landmark",
+                  "coords": [
+                        51.515037,
+                        25.25781
+                  ]
+            },
+            {
+                  "name": "Aisha Bint Ahmed Mosque (504)",
+                  "text": "O moschee cu linii clare și design modern, integrată în regenerarea urbană a orașului Doha.",
+                  "category": "landmark",
+                  "coords": [
+                        51.513312,
+                        25.261845
+                  ]
+            },
+            {
+                  "name": "Al-M Market",
+                  "text": "O piață locală în districtul Wadi, care oferă o varietate de mărfuri pentru nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        51.529032,
+                        25.28088
+                  ]
+            },
+            {
+                  "name": "Souq Al-Haraj",
+                  "text": "O piață plină de viață, faimoasă pentru varietatea sa largă de mobilier second-hand și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        51.539814,
+                        25.270946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hassanesco company",
+                  "text": "A modern commercial building in the Wadi Msheireb district, reflecting Doha's contemporary architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512558,
+                        25.266271
+                  ]
+            },
+            {
+                  "name": "Muntazah Park",
+                  "text": "A public park in the Al Muntazah district providing green recreation and views of surrounding residential areas.",
+                  "category": "natural",
+                  "coords": [
+                        51.523084,
+                        25.265911
+                  ]
+            },
+            {
+                  "name": "Hbk contracting co. Wll",
+                  "text": "A major corporate headquarters in Wadi Msheireb, defining the modern architectural landscape of the business district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522414,
+                        25.280324
+                  ]
+            },
+            {
+                  "name": "Youth Theater Center",
+                  "text": "A modern venue dedicated to youth performing arts and cultural education.",
+                  "category": "cultural",
+                  "coords": [
+                        51.49791,
+                        25.249479
+                  ]
+            },
+            {
+                  "name": "4th Watch",
+                  "text": "A local Christian house of prayer serving the international community in Msheireb.",
+                  "category": "religious",
+                  "coords": [
+                        51.535363,
+                        25.244496
+                  ]
+            },
+            {
+                  "name": "Muhammad Abdulrahman Al-Zaman Mosque (60)",
+                  "text": "An elegant mosque in the heart of Msheireb, notable for its contemporary Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510532,
+                        25.260202
+                  ]
+            },
+            {
+                  "name": "Muhammad bin Hassan Al-Hajji Al-Sulaiti Mosque",
+                  "text": "A quiet neighborhood mosque serving as a local prayer site near the Wadi district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.511374,
+                        25.2568
+                  ]
+            },
+            {
+                  "name": "Al Olbaidi Mosque",
+                  "text": "A local place of worship for the Muslim community featuring traditional decorative elements.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522203,
+                        25.235831
+                  ]
+            },
+            {
+                  "name": "Alia and Moza Rashid Al-Hitmi Mosque",
+                  "text": "This community mosque provides a peaceful space for daily prayers in the Msheireb district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.515037,
+                        25.25781
+                  ]
+            },
+            {
+                  "name": "Aisha Bint Ahmed Mosque (504)",
+                  "text": "A mosque with clean lines and modern design, integrated into the urban renewal of Doha.",
+                  "category": "landmark",
+                  "coords": [
+                        51.513312,
+                        25.261845
+                  ]
+            },
+            {
+                  "name": "Al-M Market",
+                  "text": "A local marketplace in the Wadi district offering a variety of goods for daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        51.529032,
+                        25.28088
+                  ]
+            },
+            {
+                  "name": "Souq Al-Haraj",
+                  "text": "A bustling marketplace famous for its wide variety of second-hand furniture and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        51.539814,
+                        25.270946
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "QA-DA",
     coords: [51.5275, 25.2833],

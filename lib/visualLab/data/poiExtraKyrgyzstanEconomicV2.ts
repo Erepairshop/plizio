@@ -147,7 +147,88 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "tash-kumyr-hpp-economic-v2",
+    id: "tash-kumyr-hpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park",
+                  "text": "Dieser Erholungspark in Tasch-Kümür bietet gestaltete Grünflächen und Fahrgeschäfte für Familienausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224803,
+                        41.345053
+                  ]
+            },
+            {
+                  "name": "tsentral'naia mechet'",
+                  "text": "Die islamische Zentralmoschee in Tasch-Kümür ist das religiöse Hauptgebäude der Stadt für große gemeinschaftliche Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224189,
+                        41.348706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park",
+                  "text": "Ez a Taskümürben található vidámpark parkosított zöldterületekkel és játékokkal várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224803,
+                        41.345053
+                  ]
+            },
+            {
+                  "name": "tsentral'naia mechet'",
+                  "text": "Taskümür iszlám központi mecsete a város fő vallási épülete, amely a nagy közös imáknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224189,
+                        41.348706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park",
+                  "text": "Acest parc tematic din Taș-Kumyr oferă spații verzi amenajate și atracții pentru ieșirile în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224803,
+                        41.345053
+                  ]
+            },
+            {
+                  "name": "tsentral'naia mechet'",
+                  "text": "Moscheea islamică centrală din Taș-Kumyr este clădirea religioasă principală a orașului pentru marile rugăciuni comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224189,
+                        41.348706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park",
+                  "text": "This theme park in Tash-Kumyr features landscaped green areas and amusement rides for family outings.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224803,
+                        41.345053
+                  ]
+            },
+            {
+                  "name": "tsentral'naia mechet'",
+                  "text": "The central Islamic mosque in Tash-Kumyr is the town's main religious building for large congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224189,
+                        41.348706
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KG-J",
     coords: [72.2222, 41.3411],
@@ -183,7 +264,88 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "shamaldy-say-hpp-economic-v2",
+    id: "shamaldy-say-hpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "mechit",
+                  "text": "Eine lokale islamische Gebetsstätte in der wirtschaftlich bedeutenden Siedlung rund um das Wasserkraftwerk von Shamaldy-Say.",
+                  "category": "landmark",
+                  "coords": [
+                        72.176648,
+                        41.197574
+                  ]
+            },
+            {
+                  "name": "Banya",
+                  "text": "Dieses traditionelle Badehaus bietet den Arbeitern in der Nähe der Energieanlagen von Shamaldy-Say erholsame Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        72.175467,
+                        41.197249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mechit",
+                  "text": "Egy helyi iszlám imaház a Shamaldy-Say vízierőmű körüli gazdaságilag jelentős településen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.176648,
+                        41.197574
+                  ]
+            },
+            {
+                  "name": "Banya",
+                  "text": "Ez a hagyományos fürdő pihentető kikapcsolódást kínál a Shamaldy-Say energetikai létesítményei közelében dolgozóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        72.175467,
+                        41.197249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mechit",
+                  "text": "Un lăcaș de cult islamic local în așezarea importantă din punct de vedere economic din jurul hidrocentralei Shamaldy-Say.",
+                  "category": "landmark",
+                  "coords": [
+                        72.176648,
+                        41.197574
+                  ]
+            },
+            {
+                  "name": "Banya",
+                  "text": "Această baie tradițională oferă relaxare revigorantă muncitorilor din apropierea instalațiilor energetice din Shamaldy-Say.",
+                  "category": "recreational",
+                  "coords": [
+                        72.175467,
+                        41.197249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "A local Islamic place of worship in the economically significant settlement around the Shamaldy-Say hydroelectric power plant.",
+                  "category": "landmark",
+                  "coords": [
+                        72.176648,
+                        41.197574
+                  ]
+            },
+            {
+                  "name": "Banya",
+                  "text": "This traditional bathhouse offers restorative relaxation to the workers near the energy facilities of Shamaldy-Say.",
+                  "category": "recreational",
+                  "coords": [
+                        72.175467,
+                        41.197249
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KG-J",
     coords: [72.1750, 41.1969],
@@ -219,7 +381,304 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "uch-kurgan-hpp-economic-v2",
+    id: "uch-kurgan-hpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madaniiat saroii",
+                  "text": "Dieses imposante Theatergebäude fungiert als primärer Kulturpalast für die künstlerischen Veranstaltungen der Uch-Kurgan-Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        72.077865,
+                        41.113696
+                  ]
+            },
+            {
+                  "name": "Xoʻja Said jome' masjidi",
+                  "text": "Diese Freitagsmoschee in Uch-Kurgan verfügt über eine geräumige Haupthalle, die für große Freitagsgemeinden ausgelegt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.120284,
+                        41.128239
+                  ]
+            },
+            {
+                  "name": "Buzrukxoʻja eshon jome' masjidi",
+                  "text": "Diese lokale Jome-Moschee dient als unverzichtbares spirituelles Zentrum für die wöchentlichen Freitagsgebete der Gemeinde in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.092484,
+                        41.129699
+                  ]
+            },
+            {
+                  "name": "Saidxon eshon jome' masjidi",
+                  "text": "Diese traditionelle Freitagsmoschee zeichnet sich durch ihre klassische regionale Architektur und ihre zentrale Rolle im islamischen Gemeindeleben aus.",
+                  "category": "landmark",
+                  "coords": [
+                        72.073691,
+                        41.117835
+                  ]
+            },
+            {
+                  "name": "Magazin",
+                  "text": "Dieser geschäftige lokale Marktplatz bietet den Bewohnern von Uch-Kurgan eine Vielzahl von Alltagsgütern und regionalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        72.08543,
+                        41.126855
+                  ]
+            },
+            {
+                  "name": "Sof savdo",
+                  "text": "Sof savdo ist ein lokaler Markt, auf dem frische Produkte und regionale Waren aus der Umgebung von Uch-Kurgan angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        72.086822,
+                        41.126726
+                  ]
+            },
+            {
+                  "name": "Uchkurgon Dekhkon Bozori",
+                  "text": "Der Uchkurgon Dekhkon Bozori ist der traditionelle Bauernmarkt der Stadt, auf dem lokale Landwirte ihre frische Ernte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.084179,
+                        41.127363
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Dieser lebhafte Basar ist ein lokaler Handelsplatz im Raum Uch-Kurgan, auf dem Gewürze und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        72.087886,
+                        41.126271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madaniiat saroii",
+                  "text": "Ez az impozáns színházépület az Ucs-Kurgan közösség művészeti eseményeinek elsődleges kultúrpalotájaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        72.077865,
+                        41.113696
+                  ]
+            },
+            {
+                  "name": "Xoʻja Said jome' masjidi",
+                  "text": "Ez az Ucs-Kurganban található pénteki mecset tágas főteremmel rendelkezik, amelyet a nagy pénteki gyülekezetek befogadására terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        72.120284,
+                        41.128239
+                  ]
+            },
+            {
+                  "name": "Buzrukxoʻja eshon jome' masjidi",
+                  "text": "Ez a helyi Jome mecset alapvető spirituális központként szolgál a környék heti közösségi pénteki imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.092484,
+                        41.129699
+                  ]
+            },
+            {
+                  "name": "Saidxon eshon jome' masjidi",
+                  "text": "Ezt a hagyományos pénteki mecsetet a klasszikus regionális építészet és az iszlám közösségi életben betöltött központi szerepe különbözteti meg.",
+                  "category": "landmark",
+                  "coords": [
+                        72.073691,
+                        41.117835
+                  ]
+            },
+            {
+                  "name": "Magazin",
+                  "text": "Ez a nyüzsgő helyi piac Ucs-Kurgan lakóinak különféle mindennapi cikkeket és regionális termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        72.08543,
+                        41.126855
+                  ]
+            },
+            {
+                  "name": "Sof savdo",
+                  "text": "A Sof savdo egy helyi piac, ahol friss termékeket és regionális árukat kínálnak az Ucs-Kurgán környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        72.086822,
+                        41.126726
+                  ]
+            },
+            {
+                  "name": "Uchkurgon Dekhkon Bozori",
+                  "text": "Az Ucs-Kurgán Dehkon Bozori a város hagyományos termelői piaca, ahol a helyi gazdák friss terméseiket árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        72.084179,
+                        41.127363
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ez a nyüzsgő bazár az ucs-kurgáni térség helyi kereskedelmi központja, ahol fűszereket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        72.087886,
+                        41.126271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madaniiat saroii",
+                  "text": "Această clădire impunătoare a teatrului funcționează ca palat principal de cultură pentru evenimentele artistice ale comunității Uch-Kurgan.",
+                  "category": "cultural",
+                  "coords": [
+                        72.077865,
+                        41.113696
+                  ]
+            },
+            {
+                  "name": "Xoʻja Said jome' masjidi",
+                  "text": "Această moschee de vineri din Uch-Kurgan are o sală principală spațioasă concepută pentru a găzdui congregațiile mari de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.120284,
+                        41.128239
+                  ]
+            },
+            {
+                  "name": "Buzrukxoʻja eshon jome' masjidi",
+                  "text": "Această moschee locală Jome servește ca centru spiritual esențial pentru rugăciunile comunale săptămânale de vineri din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        72.092484,
+                        41.129699
+                  ]
+            },
+            {
+                  "name": "Saidxon eshon jome' masjidi",
+                  "text": "Această moschee tradițională de vineri se distinge prin arhitectura regională clasică și rolul central în viața comunității islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        72.073691,
+                        41.117835
+                  ]
+            },
+            {
+                  "name": "Magazin",
+                  "text": "Această piață locală plină de viață oferă rezidenților din Uch-Kurgan o varietate de bunuri de zi cu zi și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        72.08543,
+                        41.126855
+                  ]
+            },
+            {
+                  "name": "Sof savdo",
+                  "text": "Sof savdo este o piață locală unde se găsesc produse proaspete și mărfuri regionale din zona Uch-Kurgan.",
+                  "category": "cultural",
+                  "coords": [
+                        72.086822,
+                        41.126726
+                  ]
+            },
+            {
+                  "name": "Uchkurgon Dekhkon Bozori",
+                  "text": "Uchkurgon Dekhkon Bozori este piața agricolă tradițională a orașului, unde fermierii locali își vând recoltele.",
+                  "category": "cultural",
+                  "coords": [
+                        72.084179,
+                        41.127363
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Acest bazar plin de viață este un nod comercial local din zona Uch-Kurgan, unde se vând condimente și produse de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        72.087886,
+                        41.126271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madaniiat saroii",
+                  "text": "This imposing theatre building functions as the primary palace of culture for the Uch-Kurgan community's artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        72.077865,
+                        41.113696
+                  ]
+            },
+            {
+                  "name": "Xoʻja Said jome' masjidi",
+                  "text": "This Friday mosque in Uch-Kurgan features a spacious main hall designed to accommodate large Friday congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        72.120284,
+                        41.128239
+                  ]
+            },
+            {
+                  "name": "Buzrukxoʻja eshon jome' masjidi",
+                  "text": "This local Jome mosque serves as an essential spiritual hub for weekly communal Friday prayers in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.092484,
+                        41.129699
+                  ]
+            },
+            {
+                  "name": "Saidxon eshon jome' masjidi",
+                  "text": "This traditional Friday mosque is distinguished by its classic regional architecture and central role in Islamic community life.",
+                  "category": "landmark",
+                  "coords": [
+                        72.073691,
+                        41.117835
+                  ]
+            },
+            {
+                  "name": "Magazin",
+                  "text": "This bustling local marketplace offers residents of Uch-Kurgan a variety of everyday goods and regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        72.08543,
+                        41.126855
+                  ]
+            },
+            {
+                  "name": "Sof savdo",
+                  "text": "Sof savdo is a local marketplace offering fresh produce and regional goods in the Uch-Kurgan area.",
+                  "category": "cultural",
+                  "coords": [
+                        72.086822,
+                        41.126726
+                  ]
+            },
+            {
+                  "name": "Uchkurgon Dekhkon Bozori",
+                  "text": "The Uchkurgon Dekhkon Bozori is the city's traditional agricultural market, where local farmers sell their fresh harvest.",
+                  "category": "cultural",
+                  "coords": [
+                        72.084179,
+                        41.127363
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "This bustling bazaar is a local trading hub in the Uch-Kurgan area, offering spices and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        72.087886,
+                        41.126271
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KG-J",
     coords: [72.1333, 41.1667],
@@ -291,7 +750,268 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "bishkek-tpp-economic-v2",
+    id: "bishkek-tpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namazkana",
+                  "text": "Ein spezieller Gebetsraum (Namaschkana) in der Nähe des Wärmekraftwerks Bischkek, der Muslimen einen ruhigen Ort für ihre täglichen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638625,
+                        42.887686
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas in Bischkek, der als Gottesdienst- und Bibelstudienort für die lokale Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.655612,
+                        42.878375
+                  ]
+            },
+            {
+                  "name": "Obnovlenie",
+                  "text": "Eine christliche religiöse Einrichtung in der Industriezone in der Nähe des Wärmekraftwerks Bischkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.664077,
+                        42.888261
+                  ]
+            },
+            {
+                  "name": "Chynar bazar",
+                  "text": "Ein geschäftiger Marktplatz in Bischkek, der den Bewohnern in der Nähe des Kraftwerksviertels der Stadt eine Vielzahl von lokalen Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        74.690044,
+                        42.877331
+                  ]
+            },
+            {
+                  "name": "Ptichii rynok",
+                  "text": "Ein spezieller Vogel- und Haustiermarkt in Bischkek, auf dem Einheimische mit verschiedenen Tieren und entsprechendem Zubehör handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640513,
+                        42.886462
+                  ]
+            },
+            {
+                  "name": "Madina rynok",
+                  "text": "Ein bekannter Basar in Bischkek, der vor allem für seine umfangreiche Auswahl an Stoffen, Textilien und Kleidung bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640261,
+                        42.872062
+                  ]
+            },
+            {
+                  "name": "Alamedin-1",
+                  "text": "Ein belebter Marktabschnitt im Bezirk Alamedin von Bischkek, der den täglichen Einkaufsbedarf der umliegenden Wohngebiete deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.67913,
+                        42.87755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namazkana",
+                  "text": "Egy dedikált imaterem (Namazkana) a biskeki hőerőmű közelében, amely csendes helyet biztosít a muszlimok számára napi imáik elvégzéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638625,
+                        42.887686
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Jehova Tanúinak Királyság-terme Biskekben, amely a helyi gyülekezet istentiszteleti és bibliatanulmányozási helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        74.655612,
+                        42.878375
+                  ]
+            },
+            {
+                  "name": "Obnovlenie",
+                  "text": "Keresztény vallási létesítmény az ipari övezetben, a biskeki hőerőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.664077,
+                        42.888261
+                  ]
+            },
+            {
+                  "name": "Chynar bazar",
+                  "text": "Biskek egy nyüzsgő piaca, amely különféle helyi árukat és termékeket kínál a város erőművi negyede közelében élő lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        74.690044,
+                        42.877331
+                  ]
+            },
+            {
+                  "name": "Ptichii rynok",
+                  "text": "Egy speciális madár- és kisállatpiac Biskekben, ahol a helyiek különféle állatokkal és kapcsolódó kellékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640513,
+                        42.886462
+                  ]
+            },
+            {
+                  "name": "Madina rynok",
+                  "text": "Biskek egy kiemelkedő bazárja, amely elsősorban a szövetek, textíliák és ruházati cikkek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640261,
+                        42.872062
+                  ]
+            },
+            {
+                  "name": "Alamedin-1",
+                  "text": "Biskek Alamedin kerületének egy forgalmas piacrésze, amely a környező lakónegyedek napi bevásárlási igényeit elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        74.67913,
+                        42.87755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namazkana",
+                  "text": "O cameră de rugăciune dedicată (Namazkana) lângă centrala termoelectrică Bișkek, oferind un spațiu liniștit musulmanilor pentru a-și efectua rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638625,
+                        42.887686
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova din Bișkek, care servește ca lăcaș de cult și studiu biblic pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        74.655612,
+                        42.878375
+                  ]
+            },
+            {
+                  "name": "Obnovlenie",
+                  "text": "O facilitate religioasă creștină situată în zona industrială de lângă centrala termoelectrică Bișkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.664077,
+                        42.888261
+                  ]
+            },
+            {
+                  "name": "Chynar bazar",
+                  "text": "O piață plină de viață în Bișkek, care oferă o varietate de bunuri și produse locale rezidenților din apropierea districtului centralei electrice a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        74.690044,
+                        42.877331
+                  ]
+            },
+            {
+                  "name": "Ptichii rynok",
+                  "text": "O piață specializată de păsări și animale de companie din Bișkek, unde localnicii tranzacționează diverse animale și consumabile aferente.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640513,
+                        42.886462
+                  ]
+            },
+            {
+                  "name": "Madina rynok",
+                  "text": "Un bazar proeminent din Bișkek, cunoscut în principal pentru selecția sa extinsă de țesături, textile și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640261,
+                        42.872062
+                  ]
+            },
+            {
+                  "name": "Alamedin-1",
+                  "text": "O secțiune de piață aglomerată din districtul Alamedin din Bișkek, care deservește nevoile zilnice de cumpărături ale zonelor rezidențiale din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        74.67913,
+                        42.87755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namazkana",
+                  "text": "A dedicated prayer room (Namazkana) near the Bishkek Thermal Power Plant, providing a quiet space for Muslims to perform their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638625,
+                        42.887686
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses in Bishkek, serving as a place of worship and Bible study for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        74.655612,
+                        42.878375
+                  ]
+            },
+            {
+                  "name": "Obnovlenie",
+                  "text": "A Christian religious facility situated in the industrial zone near the Bishkek Thermal Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.664077,
+                        42.888261
+                  ]
+            },
+            {
+                  "name": "Chynar bazar",
+                  "text": "A bustling marketplace in Bishkek, offering a variety of local goods and produce to the residents near the city's power plant district.",
+                  "category": "cultural",
+                  "coords": [
+                        74.690044,
+                        42.877331
+                  ]
+            },
+            {
+                  "name": "Ptichii rynok",
+                  "text": "A specialized bird and pet market in Bishkek, where locals trade various animals and related supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640513,
+                        42.886462
+                  ]
+            },
+            {
+                  "name": "Madina rynok",
+                  "text": "A prominent bazaar in Bishkek primarily known for its extensive selection of fabrics, textiles, and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        74.640261,
+                        42.872062
+                  ]
+            },
+            {
+                  "name": "Alamedin-1",
+                  "text": "A busy marketplace section within the Alamedin district of Bishkek, serving the daily shopping needs of the surrounding residential areas.",
+                  "category": "cultural",
+                  "coords": [
+                        74.67913,
+                        42.87755
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KG-GB",
     coords: [74.6542, 42.8778],
@@ -327,7 +1047,376 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "dordoi-bazaar-economic-v2",
+    id: "dordoi-bazaar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamiatnik V.I.Leninu",
+                  "text": "Ein erhaltenes Denkmal für Wladimir Lenin aus der Sowjetzeit innerhalb der riesigen Marktzone von Dordoi.",
+                  "category": "historical",
+                  "coords": [
+                        74.667051,
+                        42.977315
+                  ]
+            },
+            {
+                  "name": "Dordoi Markt",
+                  "text": "Einer der größten Freiluftmärkte Zentralasiens, ein riesiges Labyrinth aus Schiffscontainern mit Waren aller Art.",
+                  "category": "cultural",
+                  "coords": [
+                        74.62014,
+                        42.93935
+                  ]
+            },
+            {
+                  "name": "Dom molitvy",
+                  "text": "Ein christliches Gebetshaus, das geistliche Dienste für die Händler und Bewohner rund um das Dordoi-Basargebiet anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        74.60227,
+                        42.930823
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Ein Versammlungssaal der Zeugen Jehovas am nördlichen Stadtrand von Bischkek nahe der Dordoi-Marktzone.",
+                  "category": "landmark",
+                  "coords": [
+                        74.609492,
+                        42.932778
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Eine lokale Moschee, die den muslimischen Händlern und Besuchern des weitläufigen Dordoi-Basars dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.624208,
+                        42.960329
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Ein eigenes Gebetshaus der Zeugen Jehovas im Bezirk Leninskoje, direkt nördlich des Dordoi-Marktes.",
+                  "category": "landmark",
+                  "coords": [
+                        74.676434,
+                        42.985729
+                  ]
+            },
+            {
+                  "name": "Tserkov' s. Leninskoe",
+                  "text": "Die Dorfkirche von Leninskoje, ein Zentrum für die örtliche christliche Gemeinschaft nördlich der Stadtgrenze von Bischkek.",
+                  "category": "religious",
+                  "coords": [
+                        74.666069,
+                        42.976644
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok <<Altyn Kazyk>>",
+                  "text": "Ein spezialisierter Viehmarkt nahe Dordoi, auf dem in den frühen Morgenstunden Schafe, Pferde und Rinder gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        74.551529,
+                        42.943167
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "Ein umfangreicher Bereich des Dordoi-Marktes, der ausschließlich dem Handel mit Kfz-Ersatzteilen und Zubehör gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.619887,
+                        42.94556
+                  ]
+            },
+            {
+                  "name": "Chekish-Ata rynok",
+                  "text": "Ein regionaler Marktplatz innerhalb des Dordoi-Komplexes mit einer großen Auswahl an Kleidung, Schuhen und Konsumgütern.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630981,
+                        42.919155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamiatnik V.I.Leninu",
+                  "text": "Vlagyimir Lenin szovjet korszakból fennmaradt emlékműve a hatalmas Dordoi piaci övezet területén.",
+                  "category": "historical",
+                  "coords": [
+                        74.667051,
+                        42.977315
+                  ]
+            },
+            {
+                  "name": "Dordoi",
+                  "text": "Közép-Ázsia egyik legnagyobb szabadtéri piaca, szállítókonténerekből álló hatalmas labirintus, ahol mindenféle áru kapható.",
+                  "category": "cultural",
+                  "coords": [
+                        74.62014,
+                        42.93935
+                  ]
+            },
+            {
+                  "name": "Dom molitvy",
+                  "text": "Keresztény imaház, amely lelki szolgáltatásokat nyújt a Dordoi bazár környékén dolgozó kereskedők és lakók számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.60227,
+                        42.930823
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Jehova Tanúi gyülekezeti terme Biskek északi peremén, a Dordoi piaci övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.609492,
+                        42.932778
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Helyi mecset, amely a kiterjedt Dordoi bazár muszlim kereskedőit és látogatóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.624208,
+                        42.960329
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Jehova Tanúi imaháza Leninszkoje negyedben, közvetlenül a Dordoi piactól északra.",
+                  "category": "landmark",
+                  "coords": [
+                        74.676434,
+                        42.985729
+                  ]
+            },
+            {
+                  "name": "Tserkov' s. Leninskoe",
+                  "text": "Leninszkoje falusi temploma, amely a helyi keresztény közösség központja Biskek városhatárától északra.",
+                  "category": "religious",
+                  "coords": [
+                        74.666069,
+                        42.976644
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok <<Altyn Kazyk>>",
+                  "text": "Speciális állatpiac Dordoi közelében, ahol a kora reggeli órákban juhokkal, lovakkal és szarvasmarhákkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        74.551529,
+                        42.943167
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "A Dordoi piac kiterjedt részlege, amely kizárólag gépjármű-alkatrészek és tartozékok kereskedelmére szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        74.619887,
+                        42.94556
+                  ]
+            },
+            {
+                  "name": "Chekish-Ata rynok",
+                  "text": "Regionális piactér a Dordoi komplexumban, amely ruhák, lábbelik és fogyasztási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630981,
+                        42.919155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamiatnik V.I.Leninu",
+                  "text": "Un monument al lui Vladimir Lenin conservat din epoca sovietică, situat în vasta zonă comercială Dordoi.",
+                  "category": "historical",
+                  "coords": [
+                        74.667051,
+                        42.977315
+                  ]
+            },
+            {
+                  "name": "Dordoi",
+                  "text": "Una dintre cele mai mari piețe în aer liber din Asia Centrală, un labirint masiv de containere care vând tot felul de mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        74.62014,
+                        42.93935
+                  ]
+            },
+            {
+                  "name": "Dom molitvy",
+                  "text": "O casă de rugăciune creștină care oferă servicii spirituale pentru comercianții și rezidenții din zona bazarului Dordoi.",
+                  "category": "religious",
+                  "coords": [
+                        74.60227,
+                        42.930823
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "O sală de întruniri a Martorilor lui Iehova situată la periferia de nord a orașului Bișkek, lângă zona comercială Dordoi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.609492,
+                        42.932778
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "O moschee locală care deservește comercianții și vizitatorii musulmani ai extinsului bazar Dordoi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.624208,
+                        42.960329
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Un lăcaș de cult dedicat Martorilor lui Iehova în districtul Leninskoe, imediat la nord de piața Dordoi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.676434,
+                        42.985729
+                  ]
+            },
+            {
+                  "name": "Tserkov' s. Leninskoe",
+                  "text": "Biserica satului Leninskoe, un punct focal pentru comunitatea creștină locală de la nord de limitele orașului Bișkek.",
+                  "category": "religious",
+                  "coords": [
+                        74.666069,
+                        42.976644
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok <<Altyn Kazyk>>",
+                  "text": "O piață specializată de animale lângă Dordoi, unde se tranzacționează oi, cai și vite în orele dimineții.",
+                  "category": "cultural",
+                  "coords": [
+                        74.551529,
+                        42.943167
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "O secțiune extinsă a pieței Dordoi, dedicată exclusiv comerțului cu piese de schimb și accesorii auto.",
+                  "category": "cultural",
+                  "coords": [
+                        74.619887,
+                        42.94556
+                  ]
+            },
+            {
+                  "name": "Chekish-Ata rynok",
+                  "text": "O piață regională din cadrul complexului Dordoi, oferind o mare varietate de haine, încălțăminte și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630981,
+                        42.919155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamiatnik V.I.Leninu",
+                  "text": "A surviving Soviet-era monument of Vladimir Lenin standing within the vast Dordoi market zone.",
+                  "category": "historical",
+                  "coords": [
+                        74.667051,
+                        42.977315
+                  ]
+            },
+            {
+                  "name": "Dordoi Bazaar",
+                  "text": "One of Central Asia's largest open-air markets, a massive labyrinth of shipping containers selling all kinds of goods.",
+                  "category": "cultural",
+                  "coords": [
+                        74.62014,
+                        42.93935
+                  ]
+            },
+            {
+                  "name": "Dom molitvy",
+                  "text": "A Christian house of prayer providing spiritual services for traders and residents around the Dordoi bazaar area.",
+                  "category": "religious",
+                  "coords": [
+                        74.60227,
+                        42.930823
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "A gathering hall for Jehovah's Witnesses located on the northern outskirts of Bishkek near the Dordoi market zone.",
+                  "category": "landmark",
+                  "coords": [
+                        74.609492,
+                        42.932778
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "A local mosque serving the Muslim traders and visitors of the extensive Dordoi Bazaar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.624208,
+                        42.960329
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovahs Witnesses",
+                  "text": "A dedicated place of worship for Jehovah's Witnesses in the Leninskoye district, just north of the Dordoi market.",
+                  "category": "landmark",
+                  "coords": [
+                        74.676434,
+                        42.985729
+                  ]
+            },
+            {
+                  "name": "Tserkov' s. Leninskoe",
+                  "text": "The village church of Leninskoye, a focal point for the local Christian community north of the Bishkek city limits.",
+                  "category": "religious",
+                  "coords": [
+                        74.666069,
+                        42.976644
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok <<Altyn Kazyk>>",
+                  "text": "A specialized livestock market near Dordoi where sheep, horses, and cattle are traded in the early morning hours.",
+                  "category": "cultural",
+                  "coords": [
+                        74.551529,
+                        42.943167
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "An extensive section of the Dordoi market dedicated exclusively to the trade of automotive spare parts and accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        74.619887,
+                        42.94556
+                  ]
+            },
+            {
+                  "name": "Chekish-Ata rynok",
+                  "text": "A regional marketplace within the Dordoi complex offering a wide variety of clothes, footwear, and consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630981,
+                        42.919155
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "KG-GB",
     coords: [74.6214, 42.9231],
@@ -363,7 +1452,556 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kara-suu-bazaar-economic-v2",
+    id: "kara-suu-bazaar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madaniiat UIU",
+                  "text": "Madaniiat UIU ist ein lokales Kunst- und Kulturzentrum, das Ausstellungen und Kurse für das Gebiet Kara-Suu anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        72.897108,
+                        40.643812
+                  ]
+            },
+            {
+                  "name": "Imam Azam",
+                  "text": "Imam Azam ist eine muslimische Kultstätte, die in Kara-Suu Raum für Gebet und Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.824325,
+                        40.622601
+                  ]
+            },
+            {
+                  "name": "moscue",
+                  "text": "Diese lokale Moschee bietet der muslimischen Gemeinde in Kara-Suu einen spirituellen Raum für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        72.831589,
+                        40.634218
+                  ]
+            },
+            {
+                  "name": "R.Boboxonov jome' masjidi",
+                  "text": "Die R.Boboxonov jome' masjidi ist ein islamisches Versammlungszentrum für das Freitagsgebet in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.740665,
+                        40.700466
+                  ]
+            },
+            {
+                  "name": "Navroʻz jome' masjidi",
+                  "text": "Die Navroʻz jome' masjidi dient als lokale Freitagsmoschee für die muslimische Gemeinde in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.770008,
+                        40.722306
+                  ]
+            },
+            {
+                  "name": "Mirzoqul boʻlish jome' masjidi",
+                  "text": "Die Mirzoqul boʻlish jome' masjidi ist eine islamische Gemeindemoschee, die Gläubige in Kara-Suu versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.760432,
+                        40.743265
+                  ]
+            },
+            {
+                  "name": "Qoʻshtepa jome' masjidi",
+                  "text": "Die Qoʻshtepa jome' masjidi bietet einen ausgewiesenen Ort für das muslimische Freitagsgebet in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.804735,
+                        40.752718
+                  ]
+            },
+            {
+                  "name": "Toʻrachek jome' masjidi",
+                  "text": "Die Toʻrachek jome' masjidi ist ein islamisches religiöses Zentrum, in dem Freitagsgebete für die Gemeinde in Kara-Suu stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        72.841639,
+                        40.759242
+                  ]
+            },
+            {
+                  "name": "Maʼmurobod jome' masjidi",
+                  "text": "Die Maʼmurobod jome' masjidi ist eine gut besuchte muslimische Freitagsmoschee in der Gegend von Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.807324,
+                        40.723108
+                  ]
+            },
+            {
+                  "name": "Khozhi Mukhammad",
+                  "text": "Die Khozhi Mukhammad ist eine islamische Kultstätte, die das religiöse Leben im Gebiet von Kara-Suu prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.83745,
+                        40.695197
+                  ]
+            },
+            {
+                  "name": "Imom muslim jome' masjidi",
+                  "text": "Diese islamische Freitagsmoschee bietet einen zentralen Versammlungsort für das wöchentliche Gebet in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883411,
+                        40.771189
+                  ]
+            },
+            {
+                  "name": "Uch tegirmon jome' masjidi",
+                  "text": "Die Uch Tegirmon Jome-Moschee ist ein islamisches Gotteshaus, das sich auf Freitagsgebete in Kara-Suu konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.89321,
+                        40.73088
+                  ]
+            },
+            {
+                  "name": "Ramazon qori jome' masjidi",
+                  "text": "In dieser islamischen Moschee in Kara-Suu versammeln sich die Gläubigen der Region zu den rituellen Freitagsgebeten.",
+                  "category": "landmark",
+                  "coords": [
+                        72.758901,
+                        40.720585
+                  ]
+            },
+            {
+                  "name": "Yunus Ali Oxun jome' masjidi",
+                  "text": "Die Freitagsmoschee Yunus Ali Oxun dient der islamischen Gemeinschaft in Kara-Suu als spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        72.886404,
+                        40.723929
+                  ]
+            },
+            {
+                  "name": "Dehqon bozori",
+                  "text": "Der traditionelle Dehqon-Bauernmarkt bietet eine Vielzahl lokaler landwirtschaftlicher Produkte und Waren in Kara-Suu.",
+                  "category": "cultural",
+                  "coords": [
+                        72.760008,
+                        40.722596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madaniiat UIU",
+                  "text": "A Madaniiat UIU egy helyi művészeti és kulturális központ, amely kiállításokat és tanfolyamokat kínál Kara-Szú térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        72.897108,
+                        40.643812
+                  ]
+            },
+            {
+                  "name": "Imam Azam",
+                  "text": "Az Imam Azam egy muszlim istentiszteleti hely, amely teret ad az imának és az elmélkedésnek Kara-Szúban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.824325,
+                        40.622601
+                  ]
+            },
+            {
+                  "name": "moscue",
+                  "text": "Ez a helyi mecset spirituális teret biztosít a muszlim közösség számára a napi imákhoz Kara-Szúban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.831589,
+                        40.634218
+                  ]
+            },
+            {
+                  "name": "R.Boboxonov jome' masjidi",
+                  "text": "A R.Boboxonov jome' masjidi egy iszlám gyülekezeti központ a pénteki imákhoz Kara-Szúban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.740665,
+                        40.700466
+                  ]
+            },
+            {
+                  "name": "Navroʻz jome' masjidi",
+                  "text": "A Navroʻz jome' masjidi helyi pénteki mecsetként szolgál a muszlim közösség számára Kara-Szúban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.770008,
+                        40.722306
+                  ]
+            },
+            {
+                  "name": "Mirzoqul boʻlish jome' masjidi",
+                  "text": "A Mirzoqul boʻlish jome' masjidi egy iszlám közösségi mecset, amely összegyűjti a hívőket Kara-Szúban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.760432,
+                        40.743265
+                  ]
+            },
+            {
+                  "name": "Qoʻshtepa jome' masjidi",
+                  "text": "A Qoʻshtepa jome' masjidi kijelölt helyet biztosít a muszlim pénteki imához Kara-Szúban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.804735,
+                        40.752718
+                  ]
+            },
+            {
+                  "name": "Toʻrachek jome' masjidi",
+                  "text": "A Toʻrachek jome' masjidi egy iszlám vallási központ, ahol pénteki imákat tartanak a Kara-Szú-i közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.841639,
+                        40.759242
+                  ]
+            },
+            {
+                  "name": "Maʼmurobod jome' masjidi",
+                  "text": "A Maʼmurobod jome' masjidi egy jól látogatott muszlim pénteki mecset Kara-Szú környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.807324,
+                        40.723108
+                  ]
+            },
+            {
+                  "name": "Khozhi Mukhammad",
+                  "text": "A Khozhi Mukhammad egy iszlám imahely, amely Kara-Suu vallási életét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.83745,
+                        40.695197
+                  ]
+            },
+            {
+                  "name": "Imom muslim jome' masjidi",
+                  "text": "Ez az iszlám pénteki mecset a heti közös imák központi helyszíne Kara-Suu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883411,
+                        40.771189
+                  ]
+            },
+            {
+                  "name": "Uch tegirmon jome' masjidi",
+                  "text": "Az Uch Tegirmon Jome mecset egy iszlám szentély, amely Kara-Suu pénteki imáinak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        72.89321,
+                        40.73088
+                  ]
+            },
+            {
+                  "name": "Ramazon qori jome' masjidi",
+                  "text": "Ebben a Kara-Suu-i iszlám mecsetben gyűlnek össze a hívők a hagyományos pénteki imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        72.758901,
+                        40.720585
+                  ]
+            },
+            {
+                  "name": "Yunus Ali Oxun jome' masjidi",
+                  "text": "A Yunus Ali Oxun pénteki mecset a Kara-Suu-i iszlám közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.886404,
+                        40.723929
+                  ]
+            },
+            {
+                  "name": "Dehqon bozori",
+                  "text": "A hagyományos Dehqon termelői piac helyi mezőgazdasági termékek és áruk széles választékát kínálja Kara-Suu-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.760008,
+                        40.722596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madaniiat UIU",
+                  "text": "Madaniiat UIU este un centru local de arte și cultură care oferă expoziții și cursuri pentru zona Kara-Suu.",
+                  "category": "cultural",
+                  "coords": [
+                        72.897108,
+                        40.643812
+                  ]
+            },
+            {
+                  "name": "Imam Azam",
+                  "text": "Imam Azam este un lăcaș de cult musulman care oferă spațiu pentru rugăciune și reflecție în Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.824325,
+                        40.622601
+                  ]
+            },
+            {
+                  "name": "moscue",
+                  "text": "Această moschee locală oferă un spațiu spiritual pentru rugăciunile zilnice ale comunității musulmane din Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.831589,
+                        40.634218
+                  ]
+            },
+            {
+                  "name": "R.Boboxonov jome' masjidi",
+                  "text": "R.Boboxonov jome' masjidi este un centru islamic de adunare pentru rugăciunea de vineri în Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.740665,
+                        40.700466
+                  ]
+            },
+            {
+                  "name": "Navroʻz jome' masjidi",
+                  "text": "Navroʻz jome' masjidi servește ca o moschee de vineri locală pentru comunitatea musulmană din Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.770008,
+                        40.722306
+                  ]
+            },
+            {
+                  "name": "Mirzoqul boʻlish jome' masjidi",
+                  "text": "Mirzoqul boʻlish jome' masjidi este o moschee congregațională islamică care adună credincioșii în Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.760432,
+                        40.743265
+                  ]
+            },
+            {
+                  "name": "Qoʻshtepa jome' masjidi",
+                  "text": "Qoʻshtepa jome' masjidi oferă un loc desemnat pentru rugăciunea de vineri musulmană în Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.804735,
+                        40.752718
+                  ]
+            },
+            {
+                  "name": "Toʻrachek jome' masjidi",
+                  "text": "Toʻrachek jome' masjidi este un centru religios islamic unde au loc rugăciunile de vineri pentru comunitatea din Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.841639,
+                        40.759242
+                  ]
+            },
+            {
+                  "name": "Maʼmurobod jome' masjidi",
+                  "text": "Maʼmurobod jome' masjidi este o moschee de vineri musulmană bine frecventată în zona Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.807324,
+                        40.723108
+                  ]
+            },
+            {
+                  "name": "Khozhi Mukhammad",
+                  "text": "Khozhi Mukhammad este un lăcaș de cult islamic care deservește comunitatea musulmană din zona Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.83745,
+                        40.695197
+                  ]
+            },
+            {
+                  "name": "Imom muslim jome' masjidi",
+                  "text": "Această moschee islamică de vineri oferă un loc central de adunare pentru rugăciunea săptămânală din Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883411,
+                        40.771189
+                  ]
+            },
+            {
+                  "name": "Uch tegirmon jome' masjidi",
+                  "text": "Moscheea Uch Tegirmon Jome este un lăcaș de cult islamic concentrat pe rugăciunile de vineri din Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.89321,
+                        40.73088
+                  ]
+            },
+            {
+                  "name": "Ramazon qori jome' masjidi",
+                  "text": "În această moschee islamică din Kara-Suu, credincioșii se adună pentru rugăciunile rituale de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.758901,
+                        40.720585
+                  ]
+            },
+            {
+                  "name": "Yunus Ali Oxun jome' masjidi",
+                  "text": "Moscheea de vineri Yunus Ali Oxun servește ca centru spiritual pentru comunitatea islamică din Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.886404,
+                        40.723929
+                  ]
+            },
+            {
+                  "name": "Dehqon bozori",
+                  "text": "Piața tradițională a fermierilor Dehqon oferă o varietate de produse agricole și mărfuri locale în Kara-Suu.",
+                  "category": "cultural",
+                  "coords": [
+                        72.760008,
+                        40.722596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madaniiat UIU",
+                  "text": "Madaniiat UIU is a local arts and cultural center offering exhibitions and classes for the Kara-Suu area.",
+                  "category": "cultural",
+                  "coords": [
+                        72.897108,
+                        40.643812
+                  ]
+            },
+            {
+                  "name": "Imam Azam",
+                  "text": "Imam Azam is a Muslim site of worship providing space for prayer and reflection in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.824325,
+                        40.622601
+                  ]
+            },
+            {
+                  "name": "moscue",
+                  "text": "This local mosque provides a spiritual space for daily prayers for the Muslim community in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.831589,
+                        40.634218
+                  ]
+            },
+            {
+                  "name": "R.Boboxonov jome' masjidi",
+                  "text": "R.Boboxonov jome' masjidi is an Islamic congregational center for Friday prayers situated in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.740665,
+                        40.700466
+                  ]
+            },
+            {
+                  "name": "Navroʻz jome' masjidi",
+                  "text": "Navroʻz jome' masjidi serves as a local Friday mosque for the Muslim community in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.770008,
+                        40.722306
+                  ]
+            },
+            {
+                  "name": "Mirzoqul boʻlish jome' masjidi",
+                  "text": "Mirzoqul boʻlish jome' masjidi is a congregational Islamic mosque that gathers worshippers in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.760432,
+                        40.743265
+                  ]
+            },
+            {
+                  "name": "Qoʻshtepa jome' masjidi",
+                  "text": "Qoʻshtepa jome' masjidi provides a designated place for the Muslim Friday prayers in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.804735,
+                        40.752718
+                  ]
+            },
+            {
+                  "name": "Toʻrachek jome' masjidi",
+                  "text": "Toʻrachek jome' masjidi is an Islamic religious center where Friday prayers take place for the Kara-Suu community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.841639,
+                        40.759242
+                  ]
+            },
+            {
+                  "name": "Maʼmurobod jome' masjidi",
+                  "text": "Maʼmurobod jome' masjidi is a well-attended Muslim Friday mosque situated in the Kara-Suu area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.807324,
+                        40.723108
+                  ]
+            },
+            {
+                  "name": "Khozhi Mukhammad",
+                  "text": "Khozhi Mukhammad is an Islamic place of worship that serves the Muslim community in the Kara-Suu area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.83745,
+                        40.695197
+                  ]
+            },
+            {
+                  "name": "Imom muslim jome' masjidi",
+                  "text": "This Islamic Friday mosque provides a central gathering place for weekly congregational prayers in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883411,
+                        40.771189
+                  ]
+            },
+            {
+                  "name": "Uch tegirmon jome' masjidi",
+                  "text": "The Uch Tegirmon Jome Mosque is an Islamic place of worship focused on congregational Friday prayers in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.89321,
+                        40.73088
+                  ]
+            },
+            {
+                  "name": "Ramazon qori jome' masjidi",
+                  "text": "This Islamic congregational mosque in Kara-Suu gathers local worshippers for ritual Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.758901,
+                        40.720585
+                  ]
+            },
+            {
+                  "name": "Yunus Ali Oxun jome' masjidi",
+                  "text": "The Yunus Ali Oxun Friday mosque serves as a spiritual center for the Islamic community in Kara-Suu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.886404,
+                        40.723929
+                  ]
+            },
+            {
+                  "name": "Dehqon bozori",
+                  "text": "The traditional Dehqon farmer's market offers a variety of local agricultural produce and goods in Kara-Suu.",
+                  "category": "cultural",
+                  "coords": [
+                        72.760008,
+                        40.722596
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "KG-O",
     coords: [72.8531, 40.7078],
@@ -399,7 +2037,304 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
     {
-    id: "kara-balta-mining-plant-economic-v2",
+    id: "kara-balta-mining-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei boevoi trudovoi slavy",
+                  "text": "Dieses Museum in Kara-Balta dokumentiert die militärische Geschichte und die industrielle Entwicklung des lokalen Bergbaukombinats.",
+                  "category": "museum",
+                  "coords": [
+                        73.844003,
+                        42.822079
+                  ]
+            },
+            {
+                  "name": "Zhaiyl baatyra",
+                  "text": "Das Museum ist dem kirgisischen Nationalhelden Jaiyl Baatyr gewidmet und bewahrt das kulturelle Erbe der Region Kara-Balta.",
+                  "category": "museum",
+                  "coords": [
+                        73.880325,
+                        42.829214
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "Auf diesem traditionellen Viehmarkt in Kara-Balta handeln Einheimische mit Schafen, Rindern und Pferden aus der Umgebung.",
+                  "category": "cultural",
+                  "coords": [
+                        73.840563,
+                        42.837424
+                  ]
+            },
+            {
+                  "name": "Rynok sena",
+                  "text": "Dieser spezialisierte Markt dient dem Handel mit Heu und Tierfutter für die Landwirte der Region Kara-Balta.",
+                  "category": "cultural",
+                  "coords": [
+                        73.879255,
+                        42.829005
+                  ]
+            },
+            {
+                  "name": "Rynok Bereke",
+                  "text": "Der Bereke-Markt ist ein lebendiger Basar, auf dem frische lokale Lebensmittel und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842836,
+                        42.823142
+                  ]
+            },
+            {
+                  "name": "Nizhnii rynok Bereke",
+                  "text": "Dieser Teil des Bereke-Marktes bietet eine Vielzahl an preiswerten Textilien, Haushaltswaren und lokalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842961,
+                        42.825039
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Die Barakholka ist ein typischer Flohmarkt, auf dem man von gebrauchten Werkzeugen bis hin zu kuriosen Antiquitäten alles finden kann.",
+                  "category": "cultural",
+                  "coords": [
+                        73.841391,
+                        42.830457
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Dieses öffentliche Badehaus bietet traditionelle Dampfbäder und Erholung für die Einwohner von Kara-Balta.",
+                  "category": "recreational",
+                  "coords": [
+                        73.848891,
+                        42.824516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei boevoi trudovoi slavy",
+                  "text": "Ez a kara-baltai múzeum a helyi bányászati üzem katonai történetét és ipari fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        73.844003,
+                        42.822079
+                  ]
+            },
+            {
+                  "name": "Zhaiyl baatyra",
+                  "text": "A múzeumot Jaiyl Baatyr kirgiz nemzeti hősnek szentelték, megőrizve a Kara-Balta régió kulturális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        73.880325,
+                        42.829214
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "Ezen a hagyományos kara-baltai állatpiacon a helyiek a környékről származó juhokkal, szarvasmarhákkal és lovakkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        73.840563,
+                        42.837424
+                  ]
+            },
+            {
+                  "name": "Rynok sena",
+                  "text": "Ez a szakosodott piac a széna és állati takarmány kereskedelmét szolgálja a Kara-Balta régió gazdái számára.",
+                  "category": "cultural",
+                  "coords": [
+                        73.879255,
+                        42.829005
+                  ]
+            },
+            {
+                  "name": "Rynok Bereke",
+                  "text": "A Bereke piac egy élénk bazár, ahol friss helyi élelmiszereket és mindennapi használati cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842836,
+                        42.823142
+                  ]
+            },
+            {
+                  "name": "Nizhnii rynok Bereke",
+                  "text": "A Bereke piac ezen része olcsó textilek, háztartási cikkek és helyi termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842961,
+                        42.825039
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "A Barakholka egy tipikus bolhapiac, ahol a használt szerszámoktól a különleges régiségekig minden megtalálható.",
+                  "category": "cultural",
+                  "coords": [
+                        73.841391,
+                        42.830457
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Ez a nyilvános fürdő hagyományos gőzfürdőt és kikapcsolódást kínál Kara-Balta lakói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        73.848891,
+                        42.824516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei boevoi trudovoi slavy",
+                  "text": "Acest muzeu din Kara-Balta documentează istoria militară și dezvoltarea industrială a combinatului minier local.",
+                  "category": "museum",
+                  "coords": [
+                        73.844003,
+                        42.822079
+                  ]
+            },
+            {
+                  "name": "Zhaiyl baatyra",
+                  "text": "Muzeul este dedicat eroului național kârgâz Jaiyl Baatyr și păstrează moștenirea culturală a regiunii Kara-Balta.",
+                  "category": "museum",
+                  "coords": [
+                        73.880325,
+                        42.829214
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "La această piață tradițională de vite din Kara-Balta, localnicii comercializează oi, vite și cai din împrejurimi.",
+                  "category": "cultural",
+                  "coords": [
+                        73.840563,
+                        42.837424
+                  ]
+            },
+            {
+                  "name": "Rynok sena",
+                  "text": "Această piață specializată servește comerțului cu fân și furaje pentru fermierii din regiunea Kara-Balta.",
+                  "category": "cultural",
+                  "coords": [
+                        73.879255,
+                        42.829005
+                  ]
+            },
+            {
+                  "name": "Rynok Bereke",
+                  "text": "Piața Bereke este un bazar plin de viață, unde se oferă alimente locale proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842836,
+                        42.823142
+                  ]
+            },
+            {
+                  "name": "Nizhnii rynok Bereke",
+                  "text": "Această parte a pieței Bereke oferă o varietate de textile ieftine, articole de uz casnic și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842961,
+                        42.825039
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Barakholka este un talcioc tipic unde puteți găsi orice, de la unelte uzate la antichități curioase.",
+                  "category": "cultural",
+                  "coords": [
+                        73.841391,
+                        42.830457
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Această baie publică oferă băi tradiționale cu aburi și relaxare pentru locuitorii din Kara-Balta.",
+                  "category": "recreational",
+                  "coords": [
+                        73.848891,
+                        42.824516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei boevoi trudovoi slavy",
+                  "text": "This museum in Kara-Balta documents the military history and industrial development of the local mining plant.",
+                  "category": "museum",
+                  "coords": [
+                        73.844003,
+                        42.822079
+                  ]
+            },
+            {
+                  "name": "Zhaiyl baatyra",
+                  "text": "The museum is dedicated to the Kyrgyz national hero Jaiyl Baatyr, preserving the cultural heritage of the Kara-Balta region.",
+                  "category": "museum",
+                  "coords": [
+                        73.880325,
+                        42.829214
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "At this traditional livestock market in Kara-Balta, locals trade sheep, cattle, and horses from the surrounding area.",
+                  "category": "cultural",
+                  "coords": [
+                        73.840563,
+                        42.837424
+                  ]
+            },
+            {
+                  "name": "Rynok sena",
+                  "text": "This specialized market serves the trade of hay and animal fodder for farmers in the Kara-Balta region.",
+                  "category": "cultural",
+                  "coords": [
+                        73.879255,
+                        42.829005
+                  ]
+            },
+            {
+                  "name": "Rynok Bereke",
+                  "text": "The Bereke market is a lively bazaar offering fresh local food products and everyday consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842836,
+                        42.823142
+                  ]
+            },
+            {
+                  "name": "Nizhnii rynok Bereke",
+                  "text": "This part of the Bereke market offers a variety of inexpensive textiles, household goods, and local products.",
+                  "category": "cultural",
+                  "coords": [
+                        73.842961,
+                        42.825039
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "The Barakholka is a typical flea market where you can find everything from used tools to curious antiques.",
+                  "category": "cultural",
+                  "coords": [
+                        73.841391,
+                        42.830457
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "This public bathhouse offers traditional steam baths and relaxation for the residents of Kara-Balta.",
+                  "category": "recreational",
+                  "coords": [
+                        73.848891,
+                        42.824516
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KG-C",
     coords: [73.8472, 42.8250],
@@ -435,7 +2370,52 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     }
   },
   {
-    id: "khaidarkan-mercury-plant-economic-v2",
+    id: "khaidarkan-mercury-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsentral'nyi Rynok",
+                  "text": "Der zentrale Marktplatz für tägliche Lebensmittel in der Nähe der Khaidarkan-Quecksilberanlage.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341046,
+                        39.946882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsentral'nyi Rynok",
+                  "text": "A napi élelmiszerek központi piaca a Khaidarkan higanyüzem közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341046,
+                        39.946882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsentral'nyi Rynok",
+                  "text": "Piața centrală pentru alimente zilnice în apropierea fabricii de mercur Khaidarkan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341046,
+                        39.946882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsentral'nyi Rynok",
+                  "text": "The central marketplace for daily groceries near the Khaidarkan Mercury Plant.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341046,
+                        39.946882
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KG-B",
     coords: [71.3411, 39.9481],
@@ -471,7 +2451,160 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kadamjay-antimony-plant-economic-v2",
+    id: "kadamjay-antimony-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "Das Muzei Abdykadyra Orozbekova ist ein historisches Museum in Kadamdschai, das dem Leben des Politikers Abdykadyr Orozbekov gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        71.722013,
+                        40.131302
+                  ]
+            },
+            {
+                  "name": "Yo'ldoshxoji jome' masjidi",
+                  "text": "Die Yo'ldoshxoji jome' masjidi ist eine lokale Freitagsmoschee, in der sich die muslimische Gemeinde von Kadamdschai zum Gebet versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.738629,
+                        40.176764
+                  ]
+            },
+            {
+                  "name": "Ho'ja Ahmad Vali jome' masjidi",
+                  "text": "Die Ho'ja Ahmad Vali jome' masjidi dient der muslimischen Gemeinde in Kadamdschai als zentrale Moschee für das wöchentliche Freitagsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725966,
+                        40.174804
+                  ]
+            },
+            {
+                  "name": "Vodil bozori",
+                  "text": "Vodil bozori ist ein belebter Freiluftmarkt, der frische Produkte und lokale Waren in der Region Kadamdschai anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        71.730492,
+                        40.177557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "A Muzei Abdykadyra Orozbekova egy történelmi múzeum Kadamdzsajban, amelyet Abdykadyr Orozbekov politikus életének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        71.722013,
+                        40.131302
+                  ]
+            },
+            {
+                  "name": "Yo'ldoshxoji jome' masjidi",
+                  "text": "A Yo'ldoshxoji jome' masjidi egy helyi pénteki mecset, ahol Kadamdzsaj muszlim közössége összegyűlik imádkozni.",
+                  "category": "landmark",
+                  "coords": [
+                        71.738629,
+                        40.176764
+                  ]
+            },
+            {
+                  "name": "Ho'ja Ahmad Vali jome' masjidi",
+                  "text": "A Ho'ja Ahmad Vali jome' masjidi a kadamdzsaji muszlim közösség központi mecsetjeként szolgál a heti pénteki imák alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725966,
+                        40.174804
+                  ]
+            },
+            {
+                  "name": "Vodil bozori",
+                  "text": "A Vodil bozori egy nyüzsgő szabadtéri piac, amely friss termékeket és helyi árukat kínál a Kadamdzsaj régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        71.730492,
+                        40.177557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "Muzei Abdykadyra Orozbekova este un muzeu istoric din Kadamjay dedicat vieții politicianului Abdykadyr Orozbekov.",
+                  "category": "museum",
+                  "coords": [
+                        71.722013,
+                        40.131302
+                  ]
+            },
+            {
+                  "name": "Yo'ldoshxoji jome' masjidi",
+                  "text": "Yo'ldoshxoji jome' masjidi este o moschee de vineri unde comunitatea musulmană din Kadamjay se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        71.738629,
+                        40.176764
+                  ]
+            },
+            {
+                  "name": "Ho'ja Ahmad Vali jome' masjidi",
+                  "text": "Ho'ja Ahmad Vali jome' masjidi servește drept moschee centrală pentru rugăciunea săptămânală de vineri a comunității musulmane din Kadamjay.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725966,
+                        40.174804
+                  ]
+            },
+            {
+                  "name": "Vodil bozori",
+                  "text": "Vodil bozori este o piață în aer liber aglomerată, care oferă produse proaspete și mărfuri locale în regiunea Kadamjay.",
+                  "category": "cultural",
+                  "coords": [
+                        71.730492,
+                        40.177557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "Muzei Abdykadyra Orozbekova is a history museum in Kadamjay dedicated to the life of politician Abdykadyr Orozbekov.",
+                  "category": "museum",
+                  "coords": [
+                        71.722013,
+                        40.131302
+                  ]
+            },
+            {
+                  "name": "Yo'ldoshxoji jome' masjidi",
+                  "text": "Yo'ldoshxoji jome' masjidi is a local Friday mosque where the Muslim community of Kadamjay gathers for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        71.738629,
+                        40.176764
+                  ]
+            },
+            {
+                  "name": "Ho'ja Ahmad Vali jome' masjidi",
+                  "text": "Ho'ja Ahmad Vali jome' masjidi serves as a central mosque for the weekly Friday prayers of the Muslim community in Kadamjay.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725966,
+                        40.174804
+                  ]
+            },
+            {
+                  "name": "Vodil bozori",
+                  "text": "Vodil bozori is a bustling open-air marketplace offering fresh produce and local goods in the Kadamjay region.",
+                  "category": "cultural",
+                  "coords": [
+                        71.730492,
+                        40.177557
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KG-B",
     coords: [71.7258, 40.1278],
@@ -507,7 +2640,88 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kyzyl-kiya-coal-mine-economic-v2",
+    id: "kyzyl-kiya-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Umar Bin Khattab",
+                  "text": "Eine islamische Moschee in der Kohlebauregion Kysyl-Kija, die Umar ibn al-Chattab, dem zweiten der rechtgeleiteten Kalifen, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.115444,
+                        40.261577
+                  ]
+            },
+            {
+                  "name": "maszhid",
+                  "text": "Eine lokale Moschee, die einen Ort für tägliche islamische Gebete in der Nähe der Kohleminen von Kysyl-Kija bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126038,
+                        40.250416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Umar Bin Khattab",
+                  "text": "Iszlám mecset a Kyzyl-Kiya szénbányászati ​​régióban, amelyet Umar ibn al-Hattábnak, a második rásidún kalifának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        72.115444,
+                        40.261577
+                  ]
+            },
+            {
+                  "name": "maszhid",
+                  "text": "Egy helyi mecset, amely helyet biztosít a napi iszlám imákhoz a Kyzyl-Kiya szénbányák közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126038,
+                        40.250416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Umar Bin Khattab",
+                  "text": "O moschee islamică în regiunea minieră de cărbune Kyzyl-Kiya, dedicată lui Umar bin Al-Khattab, al doilea calif Rashidun.",
+                  "category": "landmark",
+                  "coords": [
+                        72.115444,
+                        40.261577
+                  ]
+            },
+            {
+                  "name": "maszhid",
+                  "text": "O moschee locală care oferă un loc pentru rugăciunile islamice zilnice în apropierea minelor de cărbune Kyzyl-Kiya.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126038,
+                        40.250416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Umar Bin Khattab",
+                  "text": "An Islamic mosque in the Kyzyl-Kiya coal mining region, dedicated to Umar bin Al-Khattab, the second Rashidun caliph.",
+                  "category": "landmark",
+                  "coords": [
+                        72.115444,
+                        40.261577
+                  ]
+            },
+            {
+                  "name": "maszhid",
+                  "text": "A local mosque providing a place for daily Islamic prayers near the Kyzyl-Kiya coal mines.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126038,
+                        40.250416
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KG-B",
     coords: [72.1283, 40.2581],
@@ -579,7 +2793,340 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     }
   },
   {
-    id: "kant-cement-plant-economic-v2",
+    id: "kant-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dubovyi park",
+                  "text": "Eine friedliche Grünanlage in Kant, die von alten Eichen beschattet wird und zu Spaziergängen nahe dem Stadtzentrum einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            },
+            {
+                  "name": "Novopokrovskaia tserkov'",
+                  "text": "Ein lokales christliches Gebetshaus, das der spirituellen Gemeinschaft der Industriestadt Kant dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.755666,
+                        42.872467
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Ein moderner Königreichssaal, der als Versammlungsort für die örtliche Gemeinde der Zeugen Jehovas in Kant dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.835308,
+                        42.88406
+                  ]
+            },
+            {
+                  "name": "Tserkov' EKhB",
+                  "text": "Eine Kirche der Evangeliumschristen-Baptisten, die eine aktive Rolle im religiösen Leben der Stadt Kant spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.84734,
+                        42.880124
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presiatoi Bogoroditsy",
+                  "text": "Eine orthodoxe Kirche, die dem Schutz der Heiligen Jungfrau gewidmet ist und der russischsprachigen Bevölkerung in Kant dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.851248,
+                        42.88285
+                  ]
+            },
+            {
+                  "name": "Khram pamiati sviatogo blagovernogo kniazia Aleksandra Nevskogo",
+                  "text": "Ein orthodoxes Sakralgebäude zum Gedenken an den Heiligen Alexander Newski, gelegen in der Nähe des Luftstützpunktes Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865474,
+                        42.88022
+                  ]
+            },
+            {
+                  "name": "Tserkov' ili mechet'",
+                  "text": "Ein lokales christliches Sakralgebäude, das zur religiösen Vielfalt der Region Tschu im Osten von Kant beiträgt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.799959,
+                        42.969004
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Der belebte Hauptmarkt von Kant, auf dem lokale Bauern frische Produkte, Gewürze und Textilien verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        74.849143,
+                        42.889823
+                  ]
+            },
+            {
+                  "name": "Ala Too",
+                  "text": "Ein öffentliches Badehaus in Kant, das traditionelle Dampfbäder und Saunas zur Erholung nach der Arbeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        74.849137,
+                        42.897741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dubovyi park",
+                  "text": "Békés zöldövezet Kantban, amelyet öreg tölgyfák árnyékolnak, kedvelt sétatér a városközpont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            },
+            {
+                  "name": "Novopokrovskaia tserkov'",
+                  "text": "Helyi keresztény imaház, amely Kant iparváros hívő közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.755666,
+                        42.872467
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Modern Királyság-terem, amely a Jehova Tanúi helyi gyülekezetének találkozóhelye Kantban.",
+                  "category": "religious",
+                  "coords": [
+                        74.835308,
+                        42.88406
+                  ]
+            },
+            {
+                  "name": "Tserkov' EKhB",
+                  "text": "Az evangéliumi keresztény baptista közösség temploma, amely aktív szerepet játszik Kant vallási életében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.84734,
+                        42.880124
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presiatoi Bogoroditsy",
+                  "text": "A Szent Szűz Oltalmának szentelt ortodox templom, amely Kant orosz ajkú lakosságát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.851248,
+                        42.88285
+                  ]
+            },
+            {
+                  "name": "Khram pamiati sviatogo blagovernogo kniazia Aleksandra Nevskogo",
+                  "text": "Szent Alekszandr Nyevszkij emlékére emelt ortodox templom a kanti légibázis közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865474,
+                        42.88022
+                  ]
+            },
+            {
+                  "name": "Tserkov' ili mechet'",
+                  "text": "Helyi keresztény egyházi épület, amely hozzájárul a Csu-régió vallási sokszínűségéhez Kant keleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.799959,
+                        42.969004
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Kant forgalmas főpiaca, ahol a helyi gazdák friss terményeket, fűszereket és textíliákat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        74.849143,
+                        42.889823
+                  ]
+            },
+            {
+                  "name": "Ala Too",
+                  "text": "Nyilvános fürdőház Kantban, amely tradicionális gőzfürdővel és szaunával várja a pihenni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        74.849137,
+                        42.897741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dubovyi park",
+                  "text": "Un spațiu verde liniștit în Kant, umbrit de stejari bătrâni, popular pentru plimbări în apropierea centrului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            },
+            {
+                  "name": "Novopokrovskaia tserkov'",
+                  "text": "O casă de rugăciune creștină locală care deservește comunitatea spirituală din orașul industrial Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.755666,
+                        42.872467
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "O Sală a Regatului modernă, care oferă un loc de adunare pentru congregația locală a Martorilor lui Iehova din Kant.",
+                  "category": "religious",
+                  "coords": [
+                        74.835308,
+                        42.88406
+                  ]
+            },
+            {
+                  "name": "Tserkov' EKhB",
+                  "text": "O biserică a comunității Creștinilor Evanghelici Baptiști, care joacă un rol activ în viața religioasă a orașului Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.84734,
+                        42.880124
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presiatoi Bogoroditsy",
+                  "text": "O biserică ortodoxă dedicată Acoperământului Maicii Domnului, care deservește populația rusofonă din Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.851248,
+                        42.88285
+                  ]
+            },
+            {
+                  "name": "Khram pamiati sviatogo blagovernogo kniazia Aleksandra Nevskogo",
+                  "text": "Un lăcaș de cult ortodox construit în memoria Sfântului Alexandru Nevski, situat în apropierea bazei aeriene din Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865474,
+                        42.88022
+                  ]
+            },
+            {
+                  "name": "Tserkov' ili mechet'",
+                  "text": "O clădire religioasă creștină locală care contribuie la diversitatea religioasă a regiunii Chu, în estul orașului Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.799959,
+                        42.969004
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Piața principală aglomerată din Kant, unde fermierii locali vând produse proaspete, condimente și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        74.849143,
+                        42.889823
+                  ]
+            },
+            {
+                  "name": "Ala Too",
+                  "text": "O baie publică din Kant care oferă băi de aburi tradiționale și saune pentru relaxare după muncă.",
+                  "category": "recreational",
+                  "coords": [
+                        74.849137,
+                        42.897741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dubovyi park",
+                  "text": "A peaceful green space in Kant shaded by mature oak trees, popular for strolls near the town center.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            },
+            {
+                  "name": "hurch",
+                  "text": "A local Christian house of prayer serving the spiritual community of the industrial town of Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.755666,
+                        42.872467
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "A modern Kingdom Hall providing a gathering place for the local congregation of Jehovah's Witnesses in Kant.",
+                  "category": "religious",
+                  "coords": [
+                        74.835308,
+                        42.88406
+                  ]
+            },
+            {
+                  "name": "Tserkov' EKhB",
+                  "text": "A church for the Evangelical Christian Baptist community, playing an active role in the religious life of Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.84734,
+                        42.880124
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presiatoi Bogoroditsy",
+                  "text": "An Orthodox church dedicated to the Intercession of the Holy Virgin, serving the Russian-speaking population in Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.851248,
+                        42.88285
+                  ]
+            },
+            {
+                  "name": "Khram pamiati sviatogo blagovernogo kniazia Aleksandra Nevskogo",
+                  "text": "An Orthodox place of worship built in memory of Saint Alexander Nevsky, located near the Kant airbase.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865474,
+                        42.88022
+                  ]
+            },
+            {
+                  "name": "Tserkov' ili mechet'",
+                  "text": "A local Christian religious building contributing to the religious diversity of the Chu region in eastern Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.799959,
+                        42.969004
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "The busy main market of Kant, where local farmers sell fresh produce, spices, and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        74.849143,
+                        42.889823
+                  ]
+            },
+            {
+                  "name": "Ala Too",
+                  "text": "A public bathhouse in Kant providing traditional steam rooms and saunas for relaxation after work.",
+                  "category": "recreational",
+                  "coords": [
+                        74.849137,
+                        42.897741
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KG-C",
     coords: [74.8467, 42.8872],
@@ -615,7 +3162,52 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mailuu-suu-lightbulb-factory-economic-v2",
+    id: "mailuu-suu-lightbulb-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "stekliannaia svalka",
+                  "text": "Ein Aussichtspunkt in der Nähe der ehemaligen sowjetischen Glühbirnenfabrik, einem Wahrzeichen der Industriegeschichte.",
+                  "category": "natural",
+                  "coords": [
+                        72.426492,
+                        41.257026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "stekliannaia svalka",
+                  "text": "Kilátó az egykori szovjet villanykörtegyár közelében, amely az ipartörténet egyik mérföldköve.",
+                  "category": "natural",
+                  "coords": [
+                        72.426492,
+                        41.257026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "stekliannaia svalka",
+                  "text": "Un punct de observație lângă fosta fabrică sovietică de becuri, un reper al istoriei industriale.",
+                  "category": "natural",
+                  "coords": [
+                        72.426492,
+                        41.257026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dump site of the bulb factory",
+                  "text": "A viewpoint near the former Soviet lightbulb factory, a landmark of industrial history.",
+                  "category": "natural",
+                  "coords": [
+                        72.426492,
+                        41.257026
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KG-J",
     coords: [72.4578, 41.2597],
@@ -651,7 +3243,412 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "balykchy-port-economic-v2",
+    id: "balykchy-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pliazh s komarami i korovami (voda griaznaia)",
+                  "text": "Sandstrand direkt am Seeufer am westlichen Ende des Issyk-Kul.",
+                  "category": "recreational",
+                  "coords": [
+                        76.274392,
+                        42.474395
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi Aeroport Balykchi",
+                  "text": "Überreste einer ehemaligen Luftverkehrsanlage aus der Sowjetzeit.",
+                  "category": "historical",
+                  "coords": [
+                        76.122767,
+                        42.430779
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh",
+                  "text": "Öffentlicher Badebereich in der Hafenstadt Balyktschy am Issyk-Kul.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198755,
+                        42.451734
+                  ]
+            },
+            {
+                  "name": "Blazhennoi Ksenii Peterburzhskoi",
+                  "text": "Kleine orthodoxe Kirche, die den Gläubigen in Balyktschy dient.",
+                  "category": "religious",
+                  "coords": [
+                        76.179772,
+                        42.451164
+                  ]
+            },
+            {
+                  "name": "Al'-Amin mechiti",
+                  "text": "Eine lokale Moschee mit Minarett im Stadtgebiet von Balyktschy.",
+                  "category": "landmark",
+                  "coords": [
+                        76.189922,
+                        42.455954
+                  ]
+            },
+            {
+                  "name": "Mechet' Umar",
+                  "text": "Moderne islamische Gebetsstätte für die Gemeinde in Balyktschy.",
+                  "category": "landmark",
+                  "coords": [
+                        76.185749,
+                        42.461827
+                  ]
+            },
+            {
+                  "name": "Iarmarka mioda",
+                  "text": "Straßenmarkt, der berühmt für den Berghonig der Issyk-Kul-Region ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.154698,
+                        42.455036
+                  ]
+            },
+            {
+                  "name": "Novyi Bazar",
+                  "text": "Lebhafter Markt für frische Produkte und lokale Waren in der Nähe des Hafens.",
+                  "category": "cultural",
+                  "coords": [
+                        76.181988,
+                        42.461128
+                  ]
+            },
+            {
+                  "name": "Staryi Bazar",
+                  "text": "Traditioneller Basar mit zahlreichen Ständen für Kleidung und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        76.177335,
+                        42.455597
+                  ]
+            },
+            {
+                  "name": "Sary oi",
+                  "text": "Öffentliches Badehaus in unmittelbarer Nähe zum Ufer des Issyk-Kul-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        76.209665,
+                        42.462038
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Öffentliche Badeanstalt, die traditionelle Dampfbehandlungen und Waschräume bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        76.193218,
+                        42.462067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pliazh s komarami i korovami (voda griaznaia)",
+                  "text": "Homokos tóparti strand az Isszik-kul nyugati csücskénél.",
+                  "category": "recreational",
+                  "coords": [
+                        76.274392,
+                        42.474395
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi Aeroport Balykchi",
+                  "text": "Egy egykori szovjet korszakbeli repülőtér maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        76.122767,
+                        42.430779
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh",
+                  "text": "Nyilvános fürdőhely Balikcsi kikötővárosában, az Isszik-kulnál.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198755,
+                        42.451734
+                  ]
+            },
+            {
+                  "name": "Blazhennoi Ksenii Peterburzhskoi",
+                  "text": "Kis ortodox templom a balikcsi hívők szolgálatában.",
+                  "category": "religious",
+                  "coords": [
+                        76.179772,
+                        42.451164
+                  ]
+            },
+            {
+                  "name": "Al'-Amin mechiti",
+                  "text": "Helyi mecset minarettel Balikcsi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        76.189922,
+                        42.455954
+                  ]
+            },
+            {
+                  "name": "Mechet' Umar",
+                  "text": "Modern iszlám imaház a balikcsi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        76.185749,
+                        42.461827
+                  ]
+            },
+            {
+                  "name": "Iarmarka mioda",
+                  "text": "Útszéli piac, amely az Isszik-kul környéki hegyi mézről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        76.154698,
+                        42.455036
+                  ]
+            },
+            {
+                  "name": "Novyi Bazar",
+                  "text": "Élénk piac friss termékekkel és helyi árukkal a kikötő közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        76.181988,
+                        42.461128
+                  ]
+            },
+            {
+                  "name": "Staryi Bazar",
+                  "text": "Hagyományos bazár számos ruházati és háztartási cikket kínáló standdal.",
+                  "category": "cultural",
+                  "coords": [
+                        76.177335,
+                        42.455597
+                  ]
+            },
+            {
+                  "name": "Sary oi",
+                  "text": "Közfürdő az Iszik-köl-tó partjának közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        76.209665,
+                        42.462038
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Közfürdő, amely hagyományos gőzölési lehetőséget és mosdókat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        76.193218,
+                        42.462067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pliazh s komarami i korovami (voda griaznaia)",
+                  "text": "Plajă cu nisip pe malul lacului, la extremitatea vestică a acestuia.",
+                  "category": "recreational",
+                  "coords": [
+                        76.274392,
+                        42.474395
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi Aeroport Balykchi",
+                  "text": "Rămășițele unei foste facilități de aviație din epoca sovietică.",
+                  "category": "historical",
+                  "coords": [
+                        76.122767,
+                        42.430779
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh",
+                  "text": "Zonă publică de înot în orașul port Balykchy.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198755,
+                        42.451734
+                  ]
+            },
+            {
+                  "name": "Blazhennoi Ksenii Peterburzhskoi",
+                  "text": "O mică biserică ortodoxă care deservește credincioșii din Balykchy.",
+                  "category": "religious",
+                  "coords": [
+                        76.179772,
+                        42.451164
+                  ]
+            },
+            {
+                  "name": "Al'-Amin mechiti",
+                  "text": "O moschee locală cu minaret în orașul Balykchy.",
+                  "category": "landmark",
+                  "coords": [
+                        76.189922,
+                        42.455954
+                  ]
+            },
+            {
+                  "name": "Mechet' Umar",
+                  "text": "Locaș de cult islamic modern pentru comunitatea din Balykchy.",
+                  "category": "landmark",
+                  "coords": [
+                        76.185749,
+                        42.461827
+                  ]
+            },
+            {
+                  "name": "Iarmarka mioda",
+                  "text": "Piață la marginea drumului, renumită pentru mierea de munte din regiunea Issyk-Kul.",
+                  "category": "cultural",
+                  "coords": [
+                        76.154698,
+                        42.455036
+                  ]
+            },
+            {
+                  "name": "Novyi Bazar",
+                  "text": "Piață plină de viață cu produse proaspete și bunuri locale lângă port.",
+                  "category": "cultural",
+                  "coords": [
+                        76.181988,
+                        42.461128
+                  ]
+            },
+            {
+                  "name": "Staryi Bazar",
+                  "text": "Bazar tradițional cu numeroase tarabe care oferă îmbrăcăminte și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        76.177335,
+                        42.455597
+                  ]
+            },
+            {
+                  "name": "Sary oi",
+                  "text": "Baie publică situată în imediata apropiere a malului lacului Issyk-Kul.",
+                  "category": "recreational",
+                  "coords": [
+                        76.209665,
+                        42.462038
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Baie publică care oferă tratamente tradiționale cu aburi și facilități de spălare.",
+                  "category": "recreational",
+                  "coords": [
+                        76.193218,
+                        42.462067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pliazh s komarami i korovami (voda griaznaia)",
+                  "text": "Sandy lakefront beach at the western tip of the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        76.274392,
+                        42.474395
+                  ]
+            },
+            {
+                  "name": "Balykchy Airport",
+                  "text": "Remnants of a former Soviet-era aviation facility.",
+                  "category": "historical",
+                  "coords": [
+                        76.122767,
+                        42.430779
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh",
+                  "text": "Public swimming area in the port city of Balykchy.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198755,
+                        42.451734
+                  ]
+            },
+            {
+                  "name": "Ksenii Piterburgskoy",
+                  "text": "Small Orthodox church serving the faithful in Balykchy.",
+                  "category": "religious",
+                  "coords": [
+                        76.179772,
+                        42.451164
+                  ]
+            },
+            {
+                  "name": "Al'-Amin mechiti",
+                  "text": "A local mosque with a minaret in the city of Balykchy.",
+                  "category": "landmark",
+                  "coords": [
+                        76.189922,
+                        42.455954
+                  ]
+            },
+            {
+                  "name": "Mechet' Umar",
+                  "text": "Modern Islamic place of worship for the Balykchy community.",
+                  "category": "landmark",
+                  "coords": [
+                        76.185749,
+                        42.461827
+                  ]
+            },
+            {
+                  "name": "Honey market",
+                  "text": "Roadside marketplace famous for Issyk-Kul mountain honey.",
+                  "category": "cultural",
+                  "coords": [
+                        76.154698,
+                        42.455036
+                  ]
+            },
+            {
+                  "name": "Novyi Bazar",
+                  "text": "Lively market for fresh produce and local goods near the port area.",
+                  "category": "cultural",
+                  "coords": [
+                        76.181988,
+                        42.461128
+                  ]
+            },
+            {
+                  "name": "Staryi Bazar",
+                  "text": "Traditional bazaar with numerous stalls offering clothing and household hardware.",
+                  "category": "cultural",
+                  "coords": [
+                        76.177335,
+                        42.455597
+                  ]
+            },
+            {
+                  "name": "Sary oi",
+                  "text": "Public bathhouse located in close proximity to the shores of Lake Issyk-Kul.",
+                  "category": "recreational",
+                  "coords": [
+                        76.209665,
+                        42.462038
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Public bath facility offering traditional steam treatments and washing rooms.",
+                  "category": "recreational",
+                  "coords": [
+                        76.193218,
+                        42.462067
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KG-Y",
     coords: [76.1856, 42.4633],

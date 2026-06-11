@@ -7,7 +7,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque Acuatico Texincal",
-                  "text": "Der Parque Acuatico Texincal ist ein beliebtes Ausflugsziel für Wasserspaß in Soyapango.",
+                  "text": "Ein Familienwasserpark in Soyapango mit mehreren Pools und Rutschen.",
                   "category": "family",
                   "coords": [
                         -89.167337,
@@ -25,7 +25,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca",
-                  "text": "Die Pinacoteca in Soyapango ist eine Galerie, die lokale Kunstwerke ausstellt.",
+                  "text": "Ein Kunstmuseum in Soyapango, das salvadorianische Gemälde und Skulpturen zeigt.",
                   "category": "museum",
                   "coords": [
                         -89.153167,
@@ -36,7 +36,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Acuatico Texincal",
-                  "text": "A Parque Acuatico Texincal népszerű vízi élménypark Soyapango városában.",
+                  "text": "Családi vízipark Soyapangóban, több medencével és csúszdával.",
                   "category": "family",
                   "coords": [
                         -89.167337,
@@ -54,7 +54,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca",
-                  "text": "A soyapangói Pinacoteca egy galéria, amely helyi műalkotásokat mutat be.",
+                  "text": "Művészeti múzeum Soyapangóban, salvadori festmények és szobrok kiállításával.",
                   "category": "museum",
                   "coords": [
                         -89.153167,
@@ -65,7 +65,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Acuatico Texincal",
-                  "text": "Parque Acuatico Texincal este o destinație populară pentru distracție acvatică în Soyapango.",
+                  "text": "Un parc acvatic familial în Soyapango, cu mai multe piscine și tobogane.",
                   "category": "family",
                   "coords": [
                         -89.167337,
@@ -83,7 +83,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca",
-                  "text": "Pinacoteca din Soyapango este o galerie care expune opere de artă locale.",
+                  "text": "Un muzeu de artă în Soyapango, care prezintă picturi și sculpturi salvadoriene.",
                   "category": "museum",
                   "coords": [
                         -89.153167,
@@ -94,7 +94,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque Acuatico Texincal",
-                  "text": "Parque Acuatico Texincal is a popular destination for water fun in Soyapango.",
+                  "text": "A family water park in Soyapango with multiple pools and slides.",
                   "category": "family",
                   "coords": [
                         -89.167337,
@@ -112,7 +112,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca",
-                  "text": "The Pinacoteca in Soyapango is a gallery showcasing local artworks.",
+                  "text": "An art museum in Soyapango showcasing Salvadoran paintings and sculptures.",
                   "category": "museum",
                   "coords": [
                         -89.153167,
@@ -1009,7 +1009,916 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "antiguo-cuscatlan-cities-v2", "sights": {"de": [{"name": "Museo Nacional de Antropología \"David J. Guzmán\"", "text": "Dieses Nationalmuseum in Antiguo Cuscatlán zeigt bedeutende archäologische Funde El Salvadors.", "category": "museum", "coords": [-89.238583, 13.687159]}, {"name": "Teatro Presidente", "text": "Das Teatro Presidente ist eines der wichtigsten Theater des Landes in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.241458, 13.693423]}, {"name": "Auditorio \"Ignacio Ellacuría\"", "text": "Dieses Auditorium in Antiguo Cuscatlán ist ein wichtiger Ort für kulturelle Veranstaltungen.", "category": "cultural", "coords": [-89.236012, 13.680877]}, {"name": "Auditorio", "text": "Ein zentraler Ort für Vorträge und Aufführungen in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.233709, 13.673462]}, {"name": "Concha Acústica", "text": "Diese Freilichtbühne in Antiguo Cuscatlán wird für Konzerte und Veranstaltungen genutzt.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Auditorio FEPADE", "text": "Das FEPADE-Auditorium ist ein modernes Zentrum für Konferenzen und Kultur in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.253835, 13.679295]}, {"name": "Teatro", "text": "Ein lokaler Veranstaltungsort für darstellende Künste in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Museo Forma", "text": "Das Museo Forma ist das erste Kunstmuseum El Salvadors und befindet sich in Antiguo Cuscatlán.", "category": "museum", "coords": [-89.225695, 13.700783]}, {"name": "Monumento al Divino Salvador del Mundo", "text": "Dieses berühmte Denkmal in Antiguo Cuscatlán ist ein nationales Symbol von El Salvador.", "category": "historical", "coords": [-89.224454, 13.701275]}, {"name": "Jardín Botánico La Laguna", "text": "Dieser botanische Garten in Antiguo Cuscatlán liegt in einem Krater und zeigt exotische Pflanzen.", "category": "park", "coords": [-89.246948, 13.669915]}, {"name": "Centro Cultural de España en El Salvador", "text": "Ein Zentrum zur Förderung des kulturellen Austauschs zwischen Spanien und El Salvador.", "category": "cultural", "coords": [-89.233322, 13.69393]}, {"name": "Plaza Brasil", "text": "Im Herzen von Antiguo Cuscatlán, El Salvador, liegt die Plaza Brasil als öffentliches Denkmal und Treffpunkt. Zwar weitab vom Meerstrand, prägt eine einladende städtische Atmosphäre diesen Platz, der den Besuchern Gelegenheit zum Ausruhen bietet. Man kann hier wunderbar flanieren und das lokale Stadtbild auf sich wirken lassen. Für eine kurze Verschnaufpause während eines Stadtrundgangs ist dieser Ort ideal.", "category": "historical", "coords": [-89.235779, 13.69465]}, {"name": "Monumento al Soldado Salvadoreño", "text": "Dieses Denkmal ehrt den salvadorianischen Soldaten in Antiguo Cuscatlán.", "category": "historical", "coords": [-89.241217, 13.682939]}, {"name": "Atlacatl", "text": "Ein lokales Denkmal zu Ehren der legendären indigenen Figur Atlacatl.", "category": "historical", "coords": [-89.243293, 13.674545]}, {"name": "Plaza Libertad de Expresión", "text": "Die Plaza Libertad de Expresión in Antiguo Cuscatlán, El Salvador, ehrt als Denkmalplatz die Meinungsfreiheit. Dieser städtische Ort bietet Besuchern eine ruhige, reflektierende Atmosphäre fernab vom Trubel. Anstatt maritimer Freuden erwartet Gäste hier ein schöner Rahmen für nachdenkliche Spaziergänge im Stadtgebiet. Ein abendlicher Besuch unterstreicht die besondere Stimmung des Platzes.", "category": "historical", "coords": [-89.23598, 13.660813]}, {"name": "Monumento de Beethoven", "text": "Im Herzen von Antiguo Cuscatlan erhebt sich das eindrucksvolle Monumento de Beethoven. Dieses historische Denkmal ehrt den großen deutschen Komponisten Ludwig van Beethoven und seine universelle Musik. Für kulturinteressierte Besucher ist es ein bedeutender Anziehungspunkt in El Salvador.", "category": "historical", "coords": [-89.23287, 13.702611]}, {"name": "Plaza Guatemala", "text": "Die Plaza Guatemala in Antiguo Cuscatlán ist ein Symbol der Verbundenheit zwischen El Salvador und seinem Nachbarland. Besucher tauchen hier in das entspannte urbane Leben ein, das den gepflegten Denkmalplatz umgibt. Der Ort lädt dazu ein, bei einem gemächlichen Spaziergang die architektonischen Details zu betrachten. Es ist ein empfehlenswerter Zwischenstopp, um die lokale Kultur auf entspannte Weise zu erleben.", "category": "historical", "coords": [-89.242651, 13.681269]}, {"name": "Monumento Hermano Bienvenido a Casa", "text": "Ein markantes Denkmal, das Reisende in der Stadt willkommen heißt.", "category": "historical", "coords": [-89.21806, 13.684686]}, {"name": "Plaza Italia", "text": "Mitten in Antiguo Cuscatlán in El Salvador zeugt die Plaza Italia von den kulturellen Bindungen an Italien. Dieser einladende städtische Treffpunkt bietet eine familiäre Atmosphäre, die sich ideal für kurze Pausen eignet. Auch wenn es kein Strand ist, können Gäste hier wunderbar flanieren und das lokale Wetter genießen. Ein Eis oder Kaffee in der Nähe macht den Aufenthalt komplett.", "category": "historical", "coords": [-89.239868, 13.689839]}, {"name": "Monumento de Jose de San Martin", "text": "Ein Denkmal zu Ehren des südamerikanischen Befreiers José de San Martín.", "category": "historical", "coords": [-89.232961, 13.701601]}, {"name": "Orden de Malta", "text": "Ein Denkmal, das dem Souveränen Malteserorden gewidmet ist.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Juan Pablo Duarte y Díez", "text": "Ein Denkmal zu Ehren des dominikanischen Gründungsvaters Juan Pablo Duarte.", "category": "historical", "coords": [-89.254237, 13.708602]}, {"name": "Plaza Palestina", "text": "Im Herzen von Antiguo Cuscatlan bietet die Plaza Palestina einen besonderen Raum der Erinnerung, der der palästinensischen Kultur gewidmet ist. Die ruhige Atmosphäre des Denkmalplatzes lädt Einheimische und Besucher zu entspannten Spaziergängen ein. Hier kann man dem städtischen Trubel für einen Moment entfliehen und die kulturelle Bedeutung des Ortes auf sich wirken lassen. Ein Besuch am späten Nachmittag empfiehlt sich, wenn das Licht die Anlage besonders schön zur Geltung bringt.", "category": "historical", "coords": [-89.237968, 13.707311]}, {"name": "Monumento a Walter Thilo Deininger", "text": "Ein Denkmal zu Ehren des Wohltäters Walter Thilo Deininger.", "category": "historical", "coords": [-89.247635, 13.676988]}, {"name": "Alianza Francesa San Salvador", "text": "Ein Kulturzentrum, das die französische Sprache und Kunst fördert.", "category": "cultural", "coords": [-89.237132, 13.697385]}], "hu": [{"name": "Museo Nacional de Antropología \"David J. Guzmán\"", "text": "Ez az Antiguo Cuscatlán-i nemzeti múzeum Salvador jelentős régészeti leleteit mutatja be.", "category": "museum", "coords": [-89.238583, 13.687159]}, {"name": "Teatro Presidente", "text": "A Teatro Presidente az ország egyik legfontosabb színháza Antiguo Cuscatlánban.", "category": "cultural", "coords": [-89.241458, 13.693423]}, {"name": "Auditorio \"Ignacio Ellacuría\"", "text": "Ez az Antiguo Cuscatlán-i auditórium a kulturális események fontos helyszíne.", "category": "cultural", "coords": [-89.236012, 13.680877]}, {"name": "Auditorio", "text": "Előadások és produkciók központi helyszíne Antiguo Cuscatlánban.", "category": "cultural", "coords": [-89.233709, 13.673462]}, {"name": "Concha Acústica", "text": "Ezt az Antiguo Cuscatlán-i szabadtéri színpadot koncertekre és rendezvényekre használják.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Auditorio FEPADE", "text": "A FEPADE auditórium modern konferencia- és kulturális központ Antiguo Cuscatlánban.", "category": "cultural", "coords": [-89.253835, 13.679295]}, {"name": "Teatro", "text": "Az előadóművészetek helyi színhelye Antiguo Cuscatlánban.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Museo Forma", "text": "A Museo Forma Salvador első művészeti múzeuma, amely Antiguo Cuscatlánban található.", "category": "museum", "coords": [-89.225695, 13.700783]}, {"name": "Monumento al Divino Salvador del Mundo", "text": "Ez a híres Antiguo Cuscatlán-i emlékmű Salvador nemzeti szimbóluma.", "category": "historical", "coords": [-89.224454, 13.701275]}, {"name": "Jardín Botánico La Laguna", "text": "Ez az Antiguo Cuscatlán-i botanikus kert egy kráterben található, és egzotikus növényeket mutat be.", "category": "park", "coords": [-89.246948, 13.669915]}, {"name": "Centro Cultural de España en El Salvador", "text": "A Spanyolország és Salvador közötti kulturális csereprogramokat elősegítő központ.", "category": "cultural", "coords": [-89.233322, 13.69393]}, {"name": "Plaza Brasil", "text": "A salvadori Antiguo Cuscatlán szívében fekszik a Plaza Brasil, amely nyilvános emlékműként és találkozóhelyként szolgál. Bár messze van a tengerparttól, hívogató városi légkör jellemzi ezt a teret, amely lehetőséget nyújt a látogatóknak a pihenésre. Itt csodálatosan lehet sétálni és hagyni, hogy a helyi városkép hasson ránk. Egy városnéző túra során tartott rövid pihenőhöz ez a hely ideális.", "category": "historical", "coords": [-89.235779, 13.69465]}, {"name": "Monumento al Soldado Salvadoreño", "text": "Ez az emlékmű a salvadori katonák tiszteletére készült Antiguo Cuscatlánban.", "category": "historical", "coords": [-89.241217, 13.682939]}, {"name": "Atlacatl", "text": "Helyi emlékmű a legendás őslakos figura, Atlacatl tiszteletére.", "category": "historical", "coords": [-89.243293, 13.674545]}, {"name": "Plaza Libertad de Expresión", "text": "A salvadori Antiguo Cuscatlánban található Plaza Libertad de Expresión emléktérként tiszteleg a véleménynyilvánítás szabadsága előtt. Ez a városi hely csendes, elmélkedő légkört kínál a látogatóknak, távol a nyüzsgéstől. A tengeri örömök helyett a vendégeket itt egy gyönyörű környezet várja a városi sétákhoz. Egy esti látogatás még jobban kiemeli a tér különleges hangulatát.", "category": "historical", "coords": [-89.23598, 13.660813]}, {"name": "Monumento de Beethoven", "text": "Antiguo Cuscatlan szívében emelkedik a lenyűgöző Monumento de Beethoven. Ez a történelmi emlékmű a nagy német zeneszerző, Ludwig van Beethoven és egyetemes zenéje előtt tiszteleg. A kultúra iránt érdeklődő látogatók számára jelentős vonzerőt jelent El Salvadorban.", "category": "historical", "coords": [-89.23287, 13.702611]}, {"name": "Plaza Guatemala", "text": "Az Antiguo Cuscatlánban található Plaza Guatemala a Salvador és szomszédos országa közötti kötelék szimbóluma. A látogatók itt elmerülhetnek a laza városi életben, amely a jól karbantartott emlékműteret veszi körül. A hely arra invitál, hogy egy kényelmes séta során megfigyeljük az építészeti részleteket. Ajánlott megállóhely a helyi kultúra nyugodt megismeréséhez.", "category": "historical", "coords": [-89.242651, 13.681269]}, {"name": "Monumento Hermano Bienvenido a Casa", "text": "Jellegzetes emlékmű, amely köszönti az utazókat a városban.", "category": "historical", "coords": [-89.21806, 13.684686]}, {"name": "Plaza Italia", "text": "A salvadori Antiguo Cuscatlán közepén fekvő Plaza Italia az Olaszországhoz fűződő kulturális kötelékekről tanúskodik. Ez a hívogató városi találkozóhely családias légkört kínál, amely ideális rövid pihenőkhöz. Bár ez nem egy strand, a vendégek itt csodálatosan sétálhatnak és élvezhetik a helyi időjárást. Egy közeli fagylalt vagy kávé teszi teljessé a látogatást.", "category": "historical", "coords": [-89.239868, 13.689839]}, {"name": "Monumento de Jose de San Martin", "text": "Emlékmű a dél-amerikai felszabadító, José de San Martín tiszteletére.", "category": "historical", "coords": [-89.232961, 13.701601]}, {"name": "Orden de Malta", "text": "A Szuverén Máltai Lovagrendnek szentelt emlékmű.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Juan Pablo Duarte y Díez", "text": "Emlékmű a dominikai alapító atya, Juan Pablo Duarte tiszteletére.", "category": "historical", "coords": [-89.254237, 13.708602]}, {"name": "Plaza Palestina", "text": "Antiguo Cuscatlan szívében a Plaza Palestina egy különleges emléktér, amelyet a palesztin kultúrának szenteltek. Az emlékmű tér nyugodt légköre pihentető sétákra hívja a helyieket és a látogatókat egyaránt. Itt egy pillanatra elmenekülhet a városi nyüzsgés elől, miközben elmélyedhet a hely kulturális jelentőségében. Érdemes a késő délutáni órákban érkezni, amikor a fények kellemes hangulatot teremtenek.", "category": "historical", "coords": [-89.237968, 13.707311]}, {"name": "Monumento a Walter Thilo Deininger", "text": "Emlékmű a jótevő Walter Thilo Deininger tiszteletére.", "category": "historical", "coords": [-89.247635, 13.676988]}, {"name": "Alianza Francesa San Salvador", "text": "A francia nyelvet és művészetet népszerűsítő kulturális központ.", "category": "cultural", "coords": [-89.237132, 13.697385]}], "ro": [{"name": "Museo Nacional de Antropología \"David J. Guzmán\"", "text": "Acest muzeu național din Antiguo Cuscatlán expune descoperiri arheologice importante din El Salvador.", "category": "museum", "coords": [-89.238583, 13.687159]}, {"name": "Teatro Presidente", "text": "Teatro Presidente este unul dintre cele mai importante teatre din țară, situat în Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.241458, 13.693423]}, {"name": "Auditorio \"Ignacio Ellacuría\"", "text": "Acest auditoriu din Antiguo Cuscatlán este un loc important pentru evenimente culturale.", "category": "cultural", "coords": [-89.236012, 13.680877]}, {"name": "Auditorio", "text": "Un loc central pentru conferințe și spectacole în Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.233709, 13.673462]}, {"name": "Concha Acústica", "text": "Această scenă în aer liber din Antiguo Cuscatlán este utilizată pentru concerte și evenimente.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Auditorio FEPADE", "text": "Auditoriul FEPADE este un centru modern pentru conferințe și cultură din Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.253835, 13.679295]}, {"name": "Teatro", "text": "Un loc local pentru artele spectacolului în Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Museo Forma", "text": "Museo Forma este primul muzeu de artă din El Salvador, situat în Antiguo Cuscatlán.", "category": "museum", "coords": [-89.225695, 13.700783]}, {"name": "Monumento al Divino Salvador del Mundo", "text": "Acest monument faimos din Antiguo Cuscatlán este un simbol național al El Salvadorului.", "category": "historical", "coords": [-89.224454, 13.701275]}, {"name": "Jardín Botánico La Laguna", "text": "Această grădină botanică din Antiguo Cuscatlán este situată într-un crater și prezintă plante exotice.", "category": "park", "coords": [-89.246948, 13.669915]}, {"name": "Centro Cultural de España en El Salvador", "text": "Un centru pentru promovarea schimburilor culturale între Spania și El Salvador.", "category": "cultural", "coords": [-89.233322, 13.69393]}, {"name": "Plaza Brasil", "text": "În inima orașului Antiguo Cuscatlán, El Salvador, se află Plaza Brasil, ca monument public și punct de întâlnire. Deși departe de plaja mării, o atmosferă urbană primitoare caracterizează această piață, care oferă vizitatorilor șansa de a se odihni. Vă puteți plimba de minune aici și puteți absorbi peisajul urban local. Pentru un scurt respiro în timpul unui tur al orașului, acest loc este ideal.", "category": "historical", "coords": [-89.235779, 13.69465]}, {"name": "Monumento al Soldado Salvadoreño", "text": "Acest monument onorează soldatul salvadorian din Antiguo Cuscatlán.", "category": "historical", "coords": [-89.241217, 13.682939]}, {"name": "Atlacatl", "text": "Un monument local în onoarea figurii indigene legendare Atlacatl.", "category": "historical", "coords": [-89.243293, 13.674545]}, {"name": "Plaza Libertad de Expresión", "text": "Plaza Libertad de Expresión din Antiguo Cuscatlán, El Salvador, onorează libertatea de exprimare ca piață memorială. Această locație urbană oferă vizitatorilor o atmosferă liniștită, reflexivă, departe de agitație. În loc de bucurii maritime, oaspeții pot aștepta un cadru frumos pentru plimbări gânditoare în zona orașului. O vizită seara subliniază atmosfera specială a pieței.", "category": "historical", "coords": [-89.23598, 13.660813]}, {"name": "Monumento de Beethoven", "text": "Monumentul impresionant Monumento de Beethoven se înalță în inima orașului Antiguo Cuscatlan. Acest monument istoric îl onorează pe marele compozitor german Ludwig van Beethoven și muzica sa universală. Pentru vizitatorii interesați de cultură, este o atracție semnificativă în El Salvador.", "category": "historical", "coords": [-89.23287, 13.702611]}, {"name": "Plaza Guatemala", "text": "Plaza Guatemala din Antiguo Cuscatlán este un simbol al legăturii dintre El Salvador și țara sa vecină. Vizitatorii se scufundă aici în viața urbană relaxată care înconjoară piața monumentală bine întreținută. Locul vă invită să admirați detaliile arhitecturale în timpul unei plimbări pe îndelete. Este o oprire recomandată pentru a experimenta cultura locală într-un mod relaxat.", "category": "historical", "coords": [-89.242651, 13.681269]}, {"name": "Monumento Hermano Bienvenido a Casa", "text": "Un monument distinctiv care urează bun venit călătorilor în oraș.", "category": "historical", "coords": [-89.21806, 13.684686]}, {"name": "Plaza Italia", "text": "Chiar în mijlocul orașului Antiguo Cuscatlán din El Salvador, Plaza Italia este o mărturie a legăturilor culturale cu Italia. Acest punct de întâlnire urban primitor oferă o atmosferă familiară care este ideală pentru scurte pauze. Deși nu este o plajă, oaspeții se pot plimba de minune aici și se pot bucura de vremea locală. O înghețată sau o cafea în apropiere fac ca șederea să fie completă.", "category": "historical", "coords": [-89.239868, 13.689839]}, {"name": "Monumento de Jose de San Martin", "text": "Un monument în onoarea eliberatorului sud-american José de San Martín.", "category": "historical", "coords": [-89.232961, 13.701601]}, {"name": "Orden de Malta", "text": "Un monument dedicat Ordinului Suveran de Malta.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Juan Pablo Duarte y Díez", "text": "Un monument în onoarea tatălui fondator dominican Juan Pablo Duarte.", "category": "historical", "coords": [-89.254237, 13.708602]}, {"name": "Plaza Palestina", "text": "În inima orașului Antiguo Cuscatlan, Plaza Palestina oferă un spațiu deosebit dedicat culturii palestiniene. Atmosfera liniștită a acestei piețe monumentale invită atât localnicii, cât și vizitatorii la plimbări relaxante. Aici vă puteți deconecta o clipă de la agitația urbană, descoperind însemnătatea culturală a locului. O vizită spre seară este ideală pentru a vă bucura de o plimbare liniștită.", "category": "historical", "coords": [-89.237968, 13.707311]}, {"name": "Monumento a Walter Thilo Deininger", "text": "Un monument în onoarea binefăcătorului Walter Thilo Deininger.", "category": "historical", "coords": [-89.247635, 13.676988]}, {"name": "Alianza Francesa San Salvador", "text": "Un centru cultural care promovează limba și arta franceză.", "category": "cultural", "coords": [-89.237132, 13.697385]}], "en": [{"name": "Museo Nacional de Antropología \"David J. Guzmán\"", "text": "This national museum in Antiguo Cuscatlán showcases significant archaeological finds from El Salvador.", "category": "museum", "coords": [-89.238583, 13.687159]}, {"name": "Teatro Presidente", "text": "Teatro Presidente is one of the country's most important theaters, located in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.241458, 13.693423]}, {"name": "Auditorio \"Ignacio Ellacuría\"", "text": "This auditorium in Antiguo Cuscatlán is an important venue for cultural events.", "category": "cultural", "coords": [-89.236012, 13.680877]}, {"name": "Auditorio", "text": "A central venue for lectures and performances in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.233709, 13.673462]}, {"name": "Concha Acústica", "text": "This open-air stage in Antiguo Cuscatlán is used for concerts and events.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Auditorio FEPADE", "text": "The FEPADE auditorium is a modern center for conferences and culture in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.253835, 13.679295]}, {"name": "Teatro", "text": "A local venue for performing arts in Antiguo Cuscatlán.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Museo Forma", "text": "Museo Forma is the first art museum in El Salvador, located in Antiguo Cuscatlán.", "category": "museum", "coords": [-89.225695, 13.700783]}, {"name": "Monumento al Divino Salvador del Mundo", "text": "This famous monument in Antiguo Cuscatlán is a national symbol of El Salvador.", "category": "historical", "coords": [-89.224454, 13.701275]}, {"name": "Jardín Botánico La Laguna", "text": "This botanical garden in Antiguo Cuscatlán is located in a crater and features exotic plants.", "category": "park", "coords": [-89.246948, 13.669915]}, {"name": "Centro Cultural de España en El Salvador", "text": "A center for promoting cultural exchange between Spain and El Salvador.", "category": "cultural", "coords": [-89.233322, 13.69393]}, {"name": "Plaza Brasil", "text": "In the heart of Antiguo Cuscatlán, El Salvador, lies Plaza Brasil as a public monument and meeting point. Although far from a sea beach, an inviting urban atmosphere characterizes this square, offering visitors a chance to rest. You can enjoy a wonderful stroll here and take in the local cityscape. For a short breather during a city tour, this location is ideal.", "category": "historical", "coords": [-89.235779, 13.69465]}, {"name": "Monumento al Soldado Salvadoreño", "text": "This monument honors the Salvadoran soldier in Antiguo Cuscatlán.", "category": "historical", "coords": [-89.241217, 13.682939]}, {"name": "Atlacatl", "text": "A local monument honoring the legendary indigenous figure Atlacatl.", "category": "historical", "coords": [-89.243293, 13.674545]}, {"name": "Plaza Libertad de Expresión", "text": "Plaza Libertad de Expresión in Antiguo Cuscatlán, El Salvador, honors freedom of expression as a memorial square. This urban location offers visitors a quiet, reflective atmosphere away from the hustle and bustle. Instead of maritime joys, guests will find a beautiful setting for thoughtful walks in the city area. An evening visit highlights the special mood of the square.", "category": "historical", "coords": [-89.23598, 13.660813]}, {"name": "Monumento de Beethoven", "text": "The impressive Monumento de Beethoven rises in the heart of Antiguo Cuscatlan. This historical monument honors the great German composer Ludwig van Beethoven and his universal music. It is a significant attraction in El Salvador for culturally interested visitors.", "category": "historical", "coords": [-89.23287, 13.702611]}, {"name": "Plaza Guatemala", "text": "Plaza Guatemala in Antiguo Cuscatlán is a symbol of the bond between El Salvador and its neighboring country. Visitors immerse themselves in the relaxed urban life that surrounds this well-maintained memorial square. The site invites you to observe the architectural details during a leisurely stroll. It is a highly recommended stop to experience local culture in a relaxed manner.", "category": "historical", "coords": [-89.242651, 13.681269]}, {"name": "Monumento Hermano Bienvenido a Casa", "text": "A distinctive monument welcoming travelers to the city.", "category": "historical", "coords": [-89.21806, 13.684686]}, {"name": "Plaza Italia", "text": "Right in the middle of Antiguo Cuscatlán in El Salvador, Plaza Italia bears witness to the cultural ties with Italy. This inviting urban meeting point offers a familiar atmosphere that is ideal for short breaks. Even though it is not a beach, guests can take a wonderful stroll here and enjoy the local weather. Having an ice cream or coffee nearby makes the visit complete.", "category": "historical", "coords": [-89.239868, 13.689839]}, {"name": "Monumento de Jose de San Martin", "text": "A monument honoring the South American liberator José de San Martín.", "category": "historical", "coords": [-89.232961, 13.701601]}, {"name": "Orden de Malta", "text": "A monument dedicated to the Sovereign Military Order of Malta.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Juan Pablo Duarte y Díez", "text": "A monument honoring the Dominican founding father Juan Pablo Duarte.", "category": "historical", "coords": [-89.254237, 13.708602]}, {"name": "Plaza Palestina", "text": "Located in the urban setting of Antiguo Cuscatlan, Plaza Palestina stands as a dedicated memorial square celebrating Palestinian culture. The peaceful atmosphere of this monument area invites both locals and visitors for relaxing strolls. Guests can take a quiet break from the city bustle while appreciating the cultural significance of the space. It is best to visit during the late afternoon to enjoy a leisurely walk.", "category": "historical", "coords": [-89.237968, 13.707311]}, {"name": "Monumento a Walter Thilo Deininger", "text": "A monument honoring the benefactor Walter Thilo Deininger.", "category": "historical", "coords": [-89.247635, 13.676988]}, {"name": "Alianza Francesa San Salvador", "text": "A cultural centre promoting French language and arts.", "category": "cultural", "coords": [-89.237132, 13.697385]}]},
+    id: "antiguo-cuscatlan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "Dieses Nationalmuseum in Antiguo Cuscatlán zeigt bedeutende archäologische Funde El Salvadors.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "Das Teatro Presidente ist eines der wichtigsten Theater des Landes in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "Dieses Auditorium in Antiguo Cuscatlán ist ein wichtiger Ort für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Ein zentraler Ort für Vorträge und Aufführungen in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Diese Freilichtbühne in Antiguo Cuscatlán wird für Konzerte und Veranstaltungen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "Das FEPADE-Auditorium ist ein modernes Zentrum für Konferenzen und Kultur in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "Das Museo Forma ist das erste Kunstmuseum El Salvadors und befindet sich in Antiguo Cuscatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "Dieses berühmte Denkmal in Antiguo Cuscatlán ist ein nationales Symbol von El Salvador.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "Dieser botanische Garten in Antiguo Cuscatlán liegt in einem Krater und zeigt exotische Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "Ein Zentrum zur Förderung des kulturellen Austauschs zwischen Spanien und El Salvador.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "Im Herzen von Antiguo Cuscatlán, El Salvador, liegt die Plaza Brasil als öffentliches Denkmal und Treffpunkt. Zwar weitab vom Meerstrand, prägt eine einladende städtische Atmosphäre diesen Platz, der den Besuchern Gelegenheit zum Ausruhen bietet. Man kann hier wunderbar flanieren und das lokale Stadtbild auf sich wirken lassen. Für eine kurze Verschnaufpause während eines Stadtrundgangs ist dieser Ort ideal.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "Dieses Denkmal ehrt den salvadorianischen Soldaten in Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "Ein lokales Denkmal zu Ehren der legendären indigenen Figur Atlacatl.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "Die Plaza Libertad de Expresión in Antiguo Cuscatlán, El Salvador, ehrt als Denkmalplatz die Meinungsfreiheit. Dieser städtische Ort bietet Besuchern eine ruhige, reflektierende Atmosphäre fernab vom Trubel. Anstatt maritimer Freuden erwartet Gäste hier ein schöner Rahmen für nachdenkliche Spaziergänge im Stadtgebiet. Ein abendlicher Besuch unterstreicht die besondere Stimmung des Platzes.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "Im Herzen von Antiguo Cuscatlan erhebt sich das eindrucksvolle Monumento de Beethoven. Dieses historische Denkmal ehrt den großen deutschen Komponisten Ludwig van Beethoven und seine universelle Musik. Für kulturinteressierte Besucher ist es ein bedeutender Anziehungspunkt in El Salvador.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "Die Plaza Guatemala in Antiguo Cuscatlán ist ein Symbol der Verbundenheit zwischen El Salvador und seinem Nachbarland. Besucher tauchen hier in das entspannte urbane Leben ein, das den gepflegten Denkmalplatz umgibt. Der Ort lädt dazu ein, bei einem gemächlichen Spaziergang die architektonischen Details zu betrachten. Es ist ein empfehlenswerter Zwischenstopp, um die lokale Kultur auf entspannte Weise zu erleben.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "Ein markantes Denkmal, das Reisende in der Stadt willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "Mitten in Antiguo Cuscatlán in El Salvador zeugt die Plaza Italia von den kulturellen Bindungen an Italien. Dieser einladende städtische Treffpunkt bietet eine familiäre Atmosphäre, die sich ideal für kurze Pausen eignet. Auch wenn es kein Strand ist, können Gäste hier wunderbar flanieren und das lokale Wetter genießen. Ein Eis oder Kaffee in der Nähe macht den Aufenthalt komplett.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "Ein Denkmal zu Ehren des südamerikanischen Befreiers José de San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Ein Denkmal, das dem Souveränen Malteserorden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "Ein Denkmal zu Ehren des dominikanischen Gründungsvaters Juan Pablo Duarte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "Im Herzen von Antiguo Cuscatlan bietet die Plaza Palestina einen besonderen Raum der Erinnerung, der der palästinensischen Kultur gewidmet ist. Die ruhige Atmosphäre des Denkmalplatzes lädt Einheimische und Besucher zu entspannten Spaziergängen ein. Hier kann man dem städtischen Trubel für einen Moment entfliehen und die kulturelle Bedeutung des Ortes auf sich wirken lassen. Ein Besuch am späten Nachmittag empfiehlt sich, wenn das Licht die Anlage besonders schön zur Geltung bringt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "Ein Denkmal für den deutschen Naturforscher Walter Thilo Deininger in Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "Ein Kulturzentrum in Cuscatlán, das Französischkurse und kulturelle Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "Ez az Antiguo Cuscatlán-i nemzeti múzeum Salvador jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "A Teatro Presidente az ország egyik legfontosabb színháza Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "Ez az Antiguo Cuscatlán-i auditórium a kulturális események fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Előadások és produkciók központi helyszíne Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Ezt az Antiguo Cuscatlán-i szabadtéri színpadot koncertekre és rendezvényekre használják.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "A FEPADE auditórium modern konferencia- és kulturális központ Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Az előadóművészetek helyi színhelye Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "A Museo Forma Salvador első művészeti múzeuma, amely Antiguo Cuscatlánban található.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "Ez a híres Antiguo Cuscatlán-i emlékmű Salvador nemzeti szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "Ez az Antiguo Cuscatlán-i botanikus kert egy kráterben található, és egzotikus növényeket mutat be.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "A Spanyolország és Salvador közötti kulturális csereprogramokat elősegítő központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "A salvadori Antiguo Cuscatlán szívében fekszik a Plaza Brasil, amely nyilvános emlékműként és találkozóhelyként szolgál. Bár messze van a tengerparttól, hívogató városi légkör jellemzi ezt a teret, amely lehetőséget nyújt a látogatóknak a pihenésre. Itt csodálatosan lehet sétálni és hagyni, hogy a helyi városkép hasson ránk. Egy városnéző túra során tartott rövid pihenőhöz ez a hely ideális.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "Ez az emlékmű a salvadori katonák tiszteletére készült Antiguo Cuscatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "Helyi emlékmű a legendás őslakos figura, Atlacatl tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "A salvadori Antiguo Cuscatlánban található Plaza Libertad de Expresión emléktérként tiszteleg a véleménynyilvánítás szabadsága előtt. Ez a városi hely csendes, elmélkedő légkört kínál a látogatóknak, távol a nyüzsgéstől. A tengeri örömök helyett a vendégeket itt egy gyönyörű környezet várja a városi sétákhoz. Egy esti látogatás még jobban kiemeli a tér különleges hangulatát.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "Antiguo Cuscatlan szívében emelkedik a lenyűgöző Monumento de Beethoven. Ez a történelmi emlékmű a nagy német zeneszerző, Ludwig van Beethoven és egyetemes zenéje előtt tiszteleg. A kultúra iránt érdeklődő látogatók számára jelentős vonzerőt jelent El Salvadorban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "Az Antiguo Cuscatlánban található Plaza Guatemala a Salvador és szomszédos országa közötti kötelék szimbóluma. A látogatók itt elmerülhetnek a laza városi életben, amely a jól karbantartott emlékműteret veszi körül. A hely arra invitál, hogy egy kényelmes séta során megfigyeljük az építészeti részleteket. Ajánlott megállóhely a helyi kultúra nyugodt megismeréséhez.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "Jellegzetes emlékmű, amely köszönti az utazókat a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "A salvadori Antiguo Cuscatlán közepén fekvő Plaza Italia az Olaszországhoz fűződő kulturális kötelékekről tanúskodik. Ez a hívogató városi találkozóhely családias légkört kínál, amely ideális rövid pihenőkhöz. Bár ez nem egy strand, a vendégek itt csodálatosan sétálhatnak és élvezhetik a helyi időjárást. Egy közeli fagylalt vagy kávé teszi teljessé a látogatást.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "Emlékmű a dél-amerikai felszabadító, José de San Martín tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A Szuverén Máltai Lovagrendnek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "Emlékmű a dominikai alapító atya, Juan Pablo Duarte tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "Antiguo Cuscatlan szívében a Plaza Palestina egy különleges emléktér, amelyet a palesztin kultúrának szenteltek. Az emlékmű tér nyugodt légköre pihentető sétákra hívja a helyieket és a látogatókat egyaránt. Itt egy pillanatra elmenekülhet a városi nyüzsgés elől, miközben elmélyedhet a hely kulturális jelentőségében. Érdemes a késő délutáni órákban érkezni, amikor a fények kellemes hangulatot teremtenek.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "Emlékmű Walter Thilo Deininger német természettudós tiszteletére Cuscatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "Kulturális központ Cuscatlánban, francia nyelvtanfolyamokat és kulturális eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "Acest muzeu național din Antiguo Cuscatlán expune descoperiri arheologice importante din El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "Teatro Presidente este unul dintre cele mai importante teatre din țară, situat în Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "Acest auditoriu din Antiguo Cuscatlán este un loc important pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Un loc central pentru conferințe și spectacole în Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Această scenă în aer liber din Antiguo Cuscatlán este utilizată pentru concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "Auditoriul FEPADE este un centru modern pentru conferințe și cultură din Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Un loc local pentru artele spectacolului în Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "Museo Forma este primul muzeu de artă din El Salvador, situat în Antiguo Cuscatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "Acest monument faimos din Antiguo Cuscatlán este un simbol național al El Salvadorului.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "Această grădină botanică din Antiguo Cuscatlán este situată într-un crater și prezintă plante exotice.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "Un centru pentru promovarea schimburilor culturale între Spania și El Salvador.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "În inima orașului Antiguo Cuscatlán, El Salvador, se află Plaza Brasil, ca monument public și punct de întâlnire. Deși departe de plaja mării, o atmosferă urbană primitoare caracterizează această piață, care oferă vizitatorilor șansa de a se odihni. Vă puteți plimba de minune aici și puteți absorbi peisajul urban local. Pentru un scurt respiro în timpul unui tur al orașului, acest loc este ideal.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "Acest monument onorează soldatul salvadorian din Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "Un monument local în onoarea figurii indigene legendare Atlacatl.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "Plaza Libertad de Expresión din Antiguo Cuscatlán, El Salvador, onorează libertatea de exprimare ca piață memorială. Această locație urbană oferă vizitatorilor o atmosferă liniștită, reflexivă, departe de agitație. În loc de bucurii maritime, oaspeții pot aștepta un cadru frumos pentru plimbări gânditoare în zona orașului. O vizită seara subliniază atmosfera specială a pieței.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "Monumentul impresionant Monumento de Beethoven se înalță în inima orașului Antiguo Cuscatlan. Acest monument istoric îl onorează pe marele compozitor german Ludwig van Beethoven și muzica sa universală. Pentru vizitatorii interesați de cultură, este o atracție semnificativă în El Salvador.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "Plaza Guatemala din Antiguo Cuscatlán este un simbol al legăturii dintre El Salvador și țara sa vecină. Vizitatorii se scufundă aici în viața urbană relaxată care înconjoară piața monumentală bine întreținută. Locul vă invită să admirați detaliile arhitecturale în timpul unei plimbări pe îndelete. Este o oprire recomandată pentru a experimenta cultura locală într-un mod relaxat.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "Un monument distinctiv care urează bun venit călătorilor în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "Chiar în mijlocul orașului Antiguo Cuscatlán din El Salvador, Plaza Italia este o mărturie a legăturilor culturale cu Italia. Acest punct de întâlnire urban primitor oferă o atmosferă familiară care este ideală pentru scurte pauze. Deși nu este o plajă, oaspeții se pot plimba de minune aici și se pot bucura de vremea locală. O înghețată sau o cafea în apropiere fac ca șederea să fie completă.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "Un monument în onoarea eliberatorului sud-american José de San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Un monument dedicat Ordinului Suveran de Malta.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "Un monument în onoarea tatălui fondator dominican Juan Pablo Duarte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "În inima orașului Antiguo Cuscatlan, Plaza Palestina oferă un spațiu deosebit dedicat culturii palestiniene. Atmosfera liniștită a acestei piețe monumentale invită atât localnicii, cât și vizitatorii la plimbări relaxante. Aici vă puteți deconecta o clipă de la agitația urbană, descoperind însemnătatea culturală a locului. O vizită spre seară este ideală pentru a vă bucura de o plimbare liniștită.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "Un monument dedicat naturalistului german Walter Thilo Deininger în Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "Un centru cultural în Cuscatlán, care oferă cursuri de franceză și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "This national museum in Antiguo Cuscatlán showcases significant archaeological finds from El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "Teatro Presidente is one of the country's most important theaters, located in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "This auditorium in Antiguo Cuscatlán is an important venue for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "A central venue for lectures and performances in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "This open-air stage in Antiguo Cuscatlán is used for concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "The FEPADE auditorium is a modern center for conferences and culture in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "A local venue for performing arts in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "Museo Forma is the first art museum in El Salvador, located in Antiguo Cuscatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "This famous monument in Antiguo Cuscatlán is a national symbol of El Salvador.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "This botanical garden in Antiguo Cuscatlán is located in a crater and features exotic plants.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "A center for promoting cultural exchange between Spain and El Salvador.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "In the heart of Antiguo Cuscatlán, El Salvador, lies Plaza Brasil as a public monument and meeting point. Although far from a sea beach, an inviting urban atmosphere characterizes this square, offering visitors a chance to rest. You can enjoy a wonderful stroll here and take in the local cityscape. For a short breather during a city tour, this location is ideal.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "This monument honors the Salvadoran soldier in Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "A local monument honoring the legendary indigenous figure Atlacatl.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "Plaza Libertad de Expresión in Antiguo Cuscatlán, El Salvador, honors freedom of expression as a memorial square. This urban location offers visitors a quiet, reflective atmosphere away from the hustle and bustle. Instead of maritime joys, guests will find a beautiful setting for thoughtful walks in the city area. An evening visit highlights the special mood of the square.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "The impressive Monumento de Beethoven rises in the heart of Antiguo Cuscatlan. This historical monument honors the great German composer Ludwig van Beethoven and his universal music. It is a significant attraction in El Salvador for culturally interested visitors.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "Plaza Guatemala in Antiguo Cuscatlán is a symbol of the bond between El Salvador and its neighboring country. Visitors immerse themselves in the relaxed urban life that surrounds this well-maintained memorial square. The site invites you to observe the architectural details during a leisurely stroll. It is a highly recommended stop to experience local culture in a relaxed manner.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "A distinctive monument welcoming travelers to the city.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "Right in the middle of Antiguo Cuscatlán in El Salvador, Plaza Italia bears witness to the cultural ties with Italy. This inviting urban meeting point offers a familiar atmosphere that is ideal for short breaks. Even though it is not a beach, guests can take a wonderful stroll here and enjoy the local weather. Having an ice cream or coffee nearby makes the visit complete.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "A monument honoring the South American liberator José de San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A monument dedicated to the Sovereign Military Order of Malta.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "A monument honoring the Dominican founding father Juan Pablo Duarte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "Located in the urban setting of Antiguo Cuscatlan, Plaza Palestina stands as a dedicated memorial square celebrating Palestinian culture. The peaceful atmosphere of this monument area invites both locals and visitors for relaxing strolls. Guests can take a quiet break from the city bustle while appreciating the cultural significance of the space. It is best to visit during the late afternoon to enjoy a leisurely walk.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "A monument dedicated to German naturalist Walter Thilo Deininger in Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "A cultural centre in Cuscatlán offering French courses and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LI",
     coords: [-89.245, 13.685],
@@ -3344,7 +4253,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Río de Montaña",
-                  "text": "Ein landschaftlich reizvoller Bergfluss, ideal für Naturbeobachtungen.",
+                  "text": "Ein malerischer Gebirgsfluss in Jujutla, beliebt zum Wandern.",
                   "category": "landmark",
                   "coords": [
                         -89.855003,
@@ -3355,7 +4264,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Río de Montaña",
-                  "text": "Festői hegyi folyó, ideális a természet megfigyelésére.",
+                  "text": "Egy festői hegyi folyó Jujutlában, népszerű túrázáshoz.",
                   "category": "landmark",
                   "coords": [
                         -89.855003,
@@ -3366,7 +4275,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Río de Montaña",
-                  "text": "Un râu de munte pitoresc, ideal pentru observarea naturii.",
+                  "text": "Un râu pitoresc de munte în Jujutla, popular pentru drumeții.",
                   "category": "landmark",
                   "coords": [
                         -89.855003,
@@ -3377,7 +4286,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Río de Montaña",
-                  "text": "A scenic mountain river ideal for nature observation.",
+                  "text": "A scenic mountain river in Jujutla, popular for hiking.",
                   "category": "landmark",
                   "coords": [
                         -89.855003,
@@ -3970,7 +4879,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco",
-                  "text": "Ein monumentaler Obelisk im Park von Panchimalco.",
+                  "text": "Ein steinerner Obelisk auf dem Hauptplatz von Panchimalco.",
                   "category": "historical",
                   "coords": [
                         -89.187096,
@@ -4125,7 +5034,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco",
-                  "text": "Egy monumentális obeliszk Panchimalco parkjában.",
+                  "text": "Egy kő obeliszk Panchimalco főterén.",
                   "category": "historical",
                   "coords": [
                         -89.187096,
@@ -4280,7 +5189,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco",
-                  "text": "Un obelisc monumental situat în parcul din Panchimalco.",
+                  "text": "Un obelisc de piatră în piața principală din Panchimalco.",
                   "category": "historical",
                   "coords": [
                         -89.187096,
@@ -4435,7 +5344,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco",
-                  "text": "A monumental obelisk located in the park of Panchimalco.",
+                  "text": "A stone obelisk on the main square of Panchimalco.",
                   "category": "historical",
                   "coords": [
                         -89.187096,
@@ -6101,7 +7010,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía municipal de Sacacoyo",
-                  "text": "Das Rathaus von Sacacoyo ist das Verwaltungszentrum der Gemeinde.",
+                  "text": "Das historische Rathausgebäude von Sacacoyo.",
                   "category": "historical",
                   "coords": [
                         -89.471229,
@@ -6121,7 +7030,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía municipal de Sacacoyo",
-                  "text": "Sacacoyo polgármesteri hivatala a község közigazgatási központja.",
+                  "text": "Sacacoyo történelmi városháza épülete.",
                   "category": "historical",
                   "coords": [
                         -89.471229,
@@ -6141,7 +7050,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía municipal de Sacacoyo",
-                  "text": "Primăria din Sacacoyo este centrul administrativ al municipalității.",
+                  "text": "Clădirea istorică a primăriei din Sacacoyo.",
                   "category": "historical",
                   "coords": [
                         -89.471229,
@@ -6161,7 +7070,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía municipal de Sacacoyo",
-                  "text": "The town hall of Sacacoyo is the administrative center of the municipality.",
+                  "text": "The historic town hall building of Sacacoyo.",
                   "category": "historical",
                   "coords": [
                         -89.471229,

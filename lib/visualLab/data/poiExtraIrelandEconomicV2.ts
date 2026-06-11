@@ -61,7 +61,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "Eine lokale Kirche in der Gemeinde Tang bei Ballymahon.",
+                  "text": "Eine Kirche in der Townland Tang bei Ballymahon.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -70,7 +70,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Matthew's Church",
-                  "text": "Eine christliche Kultstätte in der Region Ballymahon.",
+                  "text": "Eine Kirche der Church of Ireland im Gebiet Tang.",
                   "category": "religious",
                   "coords": [
                         -7.767249,
@@ -79,7 +79,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Catherine's Church",
-                  "text": "Eine dem heiligen Katharina geweihte Kirche in der Nähe von Ballymahon.",
+                  "text": "Eine römisch-katholische Kirche, die der heiligen Katharina in der ländlichen Pfarrei bei Ballymahon geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -7.762462,
@@ -117,7 +117,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "Helyi templom Tang községben, Ballymahon közelében.",
+                  "text": "Templom Tang településrészen, Ballymahon közelében.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -126,7 +126,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Matthew's Church",
-                  "text": "Keresztény istentiszteleti hely Ballymahon régiójában.",
+                  "text": "A Church of Ireland temploma Tang körzetében.",
                   "category": "religious",
                   "coords": [
                         -7.767249,
@@ -135,7 +135,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Catherine's Church",
-                  "text": "Szent Katalinnak szentelt templom Ballymahon közelében.",
+                  "text": "Szent Katalinnak szentelt római katolikus templom a Ballymahon melletti vidéki plébániában.",
                   "category": "religious",
                   "coords": [
                         -7.762462,
@@ -173,7 +173,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "O biserică locală în parohia Tang de lângă Ballymahon.",
+                  "text": "O biserică situată în townlandul Tang, lângă Ballymahon.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -182,7 +182,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Matthew's Church",
-                  "text": "Un lăcaș de cult creștin în regiunea Ballymahon.",
+                  "text": "O biserică a Bisericii Irlandei în zona Tang.",
                   "category": "religious",
                   "coords": [
                         -7.767249,
@@ -191,7 +191,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Catherine's Church",
-                  "text": "O biserică dedicată Sfintei Ecaterina lângă Ballymahon.",
+                  "text": "O biserică romano-catolică dedicată Sfintei Ecaterina în parohia rurală lângă Ballymahon.",
                   "category": "religious",
                   "coords": [
                         -7.762462,
@@ -229,7 +229,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "A local church in the Tang parish near Ballymahon.",
+                  "text": "A church located in the townland of Tang, near Ballymahon.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -238,7 +238,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Matthew's Church",
-                  "text": "A Christian place of worship in the Ballymahon region.",
+                  "text": "A Church of Ireland church in the Tang area.",
                   "category": "religious",
                   "coords": [
                         -7.767249,
@@ -247,7 +247,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "St. Catherine's Church",
-                  "text": "A church dedicated to Saint Catherine near Ballymahon.",
+                  "text": "A Roman Catholic church dedicated to St. Catherine in the rural parish near Ballymahon.",
                   "category": "religious",
                   "coords": [
                         -7.762462,
@@ -520,7 +520,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Pollardstown Fen Nature Reserve",
-                  "text": "Ein bedeutendes postglaziales Niedermoor und Naturschutzgebiet.",
+                  "text": "Pollardstown-Fen-Naturschutzgebiet, ein Feuchtgebiet mit Hochmooren bei Newbridge.",
                   "category": "natural",
                   "coords": [
                         -6.849659,
@@ -547,7 +547,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Athgarvan Bridge",
-                  "text": "Eine historische Steinbrücke, die den Fluss Liffey überquert.",
+                  "text": "Eine Steinbrücke über den Liffey in Athgarvan bei Newbridge.",
                   "category": "landmark",
                   "coords": [
                         -6.772309,
@@ -594,7 +594,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Pollardstown Fen Nature Reserve",
-                  "text": "Jelentős posztglaciális síkláp és természetvédelmi terület.",
+                  "text": "Pollardstown Fen Természetvédelmi Terület, egy lápos terület tőzeglápokkal Newbridge közelében.",
                   "category": "natural",
                   "coords": [
                         -6.849659,
@@ -621,7 +621,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Athgarvan Bridge",
-                  "text": "Történelmi kőhíd, amely a Liffey folyón ível át.",
+                  "text": "Kőhíd a Liffey folyón Athgarvanban, Newbridge közelében.",
                   "category": "landmark",
                   "coords": [
                         -6.772309,
@@ -668,7 +668,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Pollardstown Fen Nature Reserve",
-                  "text": "O importantă mlaștină post-glaciară și rezervație naturală.",
+                  "text": "Rezervația Naturală Pollardstown Fen, o zonă umedă cu mlaștini înalte lângă Newbridge.",
                   "category": "natural",
                   "coords": [
                         -6.849659,
@@ -695,7 +695,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Athgarvan Bridge",
-                  "text": "Un pod istoric din piatră care traversează râul Liffey.",
+                  "text": "Un pod de piatră peste râul Liffey la Athgarvan, lângă Newbridge.",
                   "category": "landmark",
                   "coords": [
                         -6.772309,
@@ -742,7 +742,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Pollardstown Fen Nature Reserve",
-                  "text": "A significant post-glacial fen and nature reserve.",
+                  "text": "Pollardstown Fen Nature Reserve, a wetland with raised bogs near Newbridge.",
                   "category": "natural",
                   "coords": [
                         -6.849659,
@@ -769,7 +769,7 @@ export const irelandEconomicV2: POI[] = [
             },
             {
                   "name": "Athgarvan Bridge",
-                  "text": "A historic stone bridge spanning the River Liffey.",
+                  "text": "A stone bridge spanning the River Liffey at Athgarvan near Newbridge.",
                   "category": "landmark",
                   "coords": [
                         -6.772309,

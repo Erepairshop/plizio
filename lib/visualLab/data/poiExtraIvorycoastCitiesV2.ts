@@ -7,7 +7,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Palais de la Culture d'Abidjan",
-                  "text": "Das Palais de la Culture d'Abidjan ist ein bekanntes Theater in Abidjan.",
+                  "text": "Großes Kulturzentrum für Konzerte und Ausstellungen im Plateau-Viertel von Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.011919,
@@ -16,7 +16,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Yelam's",
-                  "text": "Yelam's ist ein Theater in Abidjan.",
+                  "text": "Kulturstätte mit Kunstausstellungen und Livemusik im Cocody-Viertel von Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.007737,
@@ -25,7 +25,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Orcaland",
-                  "text": "Orcaland ist ein Freizeitpark in Abidjan.",
+                  "text": "Familien-Freizeitpark mit Fahrgeschäften und Wasserrutschen in Abidjan.",
                   "category": "family",
                   "coords": [
                         -3.984315,
@@ -34,7 +34,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine d’État de Treichville",
-                  "text": "Die Piscine d’État de Treichville ist ein Wasserpark in Abidjan.",
+                  "text": "Öffentliches olympisches Schwimmbad in der Gemeinde Treichville in Abidjan.",
                   "category": "family",
                   "coords": [
                         -4.001042,
@@ -43,7 +43,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Ambassade de France",
-                  "text": "Embassy of France ist ein Garten in Abidjan.",
+                  "text": "Park der französischen Botschaft in Abidjan mit Gartenanlagen.",
                   "category": "park",
                   "coords": [
                         -4.017045,
@@ -52,7 +52,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Institut français",
-                  "text": "Das Institut français ist ein Kunstzentrum in Abidjan.",
+                  "text": "Französisches Kulturinstitut mit Theater, Bibliothek und Sprachkursen in Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.008475,
@@ -61,7 +61,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Place de la République",
-                  "text": "Place de la République ist eine Sehenswürdigkeit in Abidjan.",
+                  "text": "Zentraler Platz mit Springbrunnen und Regierungsgebäuden im Plateau-Viertel von Abidjan.",
                   "category": "landmark",
                   "coords": [
                         -4.019533,
@@ -70,7 +70,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Nour-Al Hayat",
-                  "text": "Die Galerie Nour-Al Hayat ist ein Kunstzentrum in Abidjan.",
+                  "text": "Kunstgalerie mit zeitgenössischen ivorischen Künstlern im Marcory-Viertel von Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.018173,
@@ -79,7 +79,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Marché D'Art",
-                  "text": "Marché D'Art ist ein Kunstzentrum in Abidjan.",
+                  "text": "Freiluftmarkt für traditionelle Masken, Skulpturen und Kunsthandwerk an der Lagune von Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -3.988511,
@@ -88,7 +88,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Treichville",
-                  "text": "Mairie de Treichville ist das Rathaus in Abidjan.",
+                  "text": "Kolonialzeitliches Rathaus der Kommune Treichville in Abidjan.",
                   "category": "historical",
                   "coords": [
                         -4.012889,
@@ -97,7 +97,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Félix-Houphouët-Boigny",
-                  "text": "Pont Félix-Houphouët-Boigny ist eine Brücke in Abidjan.",
+                  "text": "Brücke über die Ébrié-Lagune, benannt nach dem ersten Präsidenten der Elfenbeinküste.",
                   "category": "landmark",
                   "coords": [
                         -4.01931,
@@ -106,7 +106,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Général-de-Gaulle",
-                  "text": "Pont Général-de-Gaulle ist eine Brücke in Abidjan.",
+                  "text": "Brücke über die Ébrié-Lagune, benannt nach Charles de Gaulle.",
                   "category": "landmark",
                   "coords": [
                         -4.0101,
@@ -115,7 +115,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Hôtel Ivoire",
-                  "text": "Das Hôtel Ivoire ist ein Hotel in Abidjan.",
+                  "text": "Wahrzeichen-Hotel mit Casino und Eisbahn im Cocody-Viertel von Abidjan.",
                   "category": "landmark",
                   "coords": [
                         -4.004412,
@@ -126,7 +126,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Palais de la Culture d'Abidjan",
-                  "text": "A Palais de la Culture d'Abidjan egy ismert színház Abidjan városában.",
+                  "text": "Nagy kulturális központ koncertek és kiállítások számára Abidjan Plateau negyedében.",
                   "category": "cultural",
                   "coords": [
                         -4.011919,
@@ -135,7 +135,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Yelam's",
-                  "text": "A Yelam's egy színház Abidjan városában.",
+                  "text": "Kulturális helyszín művészeti kiállításokkal és élőzenével abidjani Cocody negyedében.",
                   "category": "cultural",
                   "coords": [
                         -4.007737,
@@ -144,7 +144,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Orcaland",
-                  "text": "Az Orcaland egy vidámpark Abidjan városában.",
+                  "text": "Családi vidámpark játszótéri eszközökkel és csúszdákkal Abidjanban.",
                   "category": "family",
                   "coords": [
                         -3.984315,
@@ -153,7 +153,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine d’État de Treichville",
-                  "text": "A Piscine d’État de Treichville egy aquapark Abidjan városában.",
+                  "text": "Nyilvános olimpiai méretű uszoda a treichville-i községben, Abidjanban.",
                   "category": "family",
                   "coords": [
                         -4.001042,
@@ -162,7 +162,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Ambassade de France",
-                  "text": "Az Embassy of France egy kert Abidjan városában.",
+                  "text": "A francia nagykövetség parkja Abidjanban, kerttel.",
                   "category": "park",
                   "coords": [
                         -4.017045,
@@ -171,7 +171,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Institut français",
-                  "text": "Az Institut français egy művészeti központ Abidjan városában.",
+                  "text": "Francia kulturális intézet színházzal, könyvtárral és nyelvtanfolyamokkal Abidjanban.",
                   "category": "cultural",
                   "coords": [
                         -4.008475,
@@ -180,7 +180,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Place de la République",
-                  "text": "A Place de la République egy látványosság Abidjan városában.",
+                  "text": "Központi tér szökőkúttal és kormányzati épületekkel Abidjan Plateau negyedében.",
                   "category": "landmark",
                   "coords": [
                         -4.019533,
@@ -189,7 +189,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Nour-Al Hayat",
-                  "text": "A Galerie Nour-Al Hayat egy művészeti központ Abidjan városában.",
+                  "text": "Kortárs elefántcsontparti művészeket bemutató galéria az abidjani Marcory negyedben.",
                   "category": "cultural",
                   "coords": [
                         -4.018173,
@@ -198,7 +198,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Marché D'Art",
-                  "text": "A Marché D'Art egy művészeti központ Abidjan városában.",
+                  "text": "Szabadtéri piac hagyományos maszkokkal, szobrokkal és kézműves termékekkel az abidjani lagúnánál.",
                   "category": "cultural",
                   "coords": [
                         -3.988511,
@@ -207,7 +207,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Treichville",
-                  "text": "A Mairie de Treichville egy városháza Abidjan városában.",
+                  "text": "Gyarmati kori városháza Treichville községben, Abidjanban.",
                   "category": "historical",
                   "coords": [
                         -4.012889,
@@ -216,7 +216,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Félix-Houphouët-Boigny",
-                  "text": "A Pont Félix-Houphouët-Boigny egy híd Abidjan városában.",
+                  "text": "Híd az Ébrié-lagúna fölött, az elefántcsontparti első elnökről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -4.01931,
@@ -225,7 +225,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Général-de-Gaulle",
-                  "text": "A Pont Général-de-Gaulle egy híd Abidjan városában.",
+                  "text": "Híd az Ébrié-lagúna fölött, Charles de Gaulle-ról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -4.0101,
@@ -234,7 +234,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Hôtel Ivoire",
-                  "text": "A Hôtel Ivoire egy szálloda Abidjan városában.",
+                  "text": "Ikonikus szálloda kaszinóval és jégpályával az abidjani Cocody negyedben.",
                   "category": "landmark",
                   "coords": [
                         -4.004412,
@@ -245,7 +245,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Palais de la Culture d'Abidjan",
-                  "text": "Palais de la Culture d'Abidjan este un teatru notabil în Abidjan.",
+                  "text": "Centru cultural mare pentru concerte și expoziții în cartierul Plateau din Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.011919,
@@ -254,7 +254,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Yelam's",
-                  "text": "Yelam's este un teatru în Abidjan.",
+                  "text": "Locație culturală cu expoziții de artă și muzică live în cartierul Cocody din Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.007737,
@@ -263,7 +263,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Orcaland",
-                  "text": "Orcaland este un parc tematic în Abidjan.",
+                  "text": "Parcul de distracții pentru familii cu carusele și tobogane de apă în Abidjan.",
                   "category": "family",
                   "coords": [
                         -3.984315,
@@ -272,7 +272,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine d’État de Treichville",
-                  "text": "Piscine d’État de Treichville este un parc acvatic în Abidjan.",
+                  "text": "Piscină publică de dimensiuni olimpice în comuna Treichville din Abidjan.",
                   "category": "family",
                   "coords": [
                         -4.001042,
@@ -281,7 +281,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Ambassade de France",
-                  "text": "Embassy of France este o grădină în Abidjan.",
+                  "text": "Parcul Ambasadei Franței din Abidjan, cu grădini.",
                   "category": "park",
                   "coords": [
                         -4.017045,
@@ -290,7 +290,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Institut français",
-                  "text": "Institut français este un centru de artă în Abidjan.",
+                  "text": "Institut cultural francez cu teatru, bibliotecă și cursuri de limbă în Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.008475,
@@ -299,7 +299,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Place de la République",
-                  "text": "Place de la République este o atracție în Abidjan.",
+                  "text": "Piață centrală cu fântână și clădiri guvernamentale în cartierul Plateau din Abidjan.",
                   "category": "landmark",
                   "coords": [
                         -4.019533,
@@ -308,7 +308,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Nour-Al Hayat",
-                  "text": "Galerie Nour-Al Hayat este un centru de artă în Abidjan.",
+                  "text": "Galerie de artă cu artiști ivorieni contemporani în cartierul Marcory din Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.018173,
@@ -317,7 +317,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Marché D'Art",
-                  "text": "Marché D'Art este un centru de artă în Abidjan.",
+                  "text": "Piață în aer liber cu măști tradiționale, sculpturi și meșteșuguri lângă laguna Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -3.988511,
@@ -326,7 +326,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Treichville",
-                  "text": "Mairie de Treichville este o primărie în Abidjan.",
+                  "text": "Primărie din perioada colonială a comunei Treichville din Abidjan.",
                   "category": "historical",
                   "coords": [
                         -4.012889,
@@ -335,7 +335,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Félix-Houphouët-Boigny",
-                  "text": "Pont Félix-Houphouët-Boigny este un pod în Abidjan.",
+                  "text": "Pod peste Laguna Ébrié, numit după primul președinte al Coastei de Fildeș.",
                   "category": "landmark",
                   "coords": [
                         -4.01931,
@@ -344,7 +344,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Général-de-Gaulle",
-                  "text": "Pont Général-de-Gaulle este un pod în Abidjan.",
+                  "text": "Pod peste Laguna Ébrié, numit după Charles de Gaulle.",
                   "category": "landmark",
                   "coords": [
                         -4.0101,
@@ -353,7 +353,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Hôtel Ivoire",
-                  "text": "Hôtel Ivoire este un hotel în Abidjan.",
+                  "text": "Hotel emblematic cu cazinou și patinoar în cartierul Cocody din Abidjan.",
                   "category": "landmark",
                   "coords": [
                         -4.004412,
@@ -364,7 +364,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Palais de la Culture d'Abidjan",
-                  "text": "The Palais de la Culture d'Abidjan is a notable theatre in Abidjan.",
+                  "text": "Large cultural centre hosting concerts and exhibitions in the Plateau district of Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.011919,
@@ -373,7 +373,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Yelam's",
-                  "text": "Yelam's is a theatre in Abidjan.",
+                  "text": "Cultural venue with art exhibits and live music in Abidjan's Cocody area.",
                   "category": "cultural",
                   "coords": [
                         -4.007737,
@@ -382,7 +382,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Orcaland",
-                  "text": "Orcaland is a theme park in Abidjan.",
+                  "text": "Family amusement park with rides and water slides in Abidjan.",
                   "category": "family",
                   "coords": [
                         -3.984315,
@@ -391,7 +391,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine d’État de Treichville",
-                  "text": "The Piscine d’État de Treichville is a water park in Abidjan.",
+                  "text": "Public Olympic-size swimming pool in the Treichville commune of Abidjan.",
                   "category": "family",
                   "coords": [
                         -4.001042,
@@ -400,7 +400,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Embassy of France",
-                  "text": "Embassy of France is a garden in Abidjan.",
+                  "text": "Park of the French Embassy in Abidjan with gardens.",
                   "category": "park",
                   "coords": [
                         -4.017045,
@@ -409,7 +409,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Institut français",
-                  "text": "The Institut français is an arts centre in Abidjan.",
+                  "text": "French cultural institute with a theatre, library, and language courses in Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.008475,
@@ -418,7 +418,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Place de la République",
-                  "text": "Place de la République is an attraction in Abidjan.",
+                  "text": "Central square with a fountain and government buildings in Abidjan's Plateau district.",
                   "category": "landmark",
                   "coords": [
                         -4.019533,
@@ -427,7 +427,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Nour-Al Hayat",
-                  "text": "The Galerie Nour-Al Hayat is an arts centre in Abidjan.",
+                  "text": "Art gallery showcasing contemporary Ivorian artists in the Marcory area of Abidjan.",
                   "category": "cultural",
                   "coords": [
                         -4.018173,
@@ -436,7 +436,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Marché D'Art",
-                  "text": "Marché D'Art is an arts centre in Abidjan.",
+                  "text": "Outdoor market selling traditional masks, sculptures, and crafts near the Abidjan lagoon.",
                   "category": "cultural",
                   "coords": [
                         -3.988511,
@@ -445,7 +445,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Treichville",
-                  "text": "Mairie de Treichville is a town hall in Abidjan.",
+                  "text": "Colonial-era town hall of the Treichville commune in Abidjan.",
                   "category": "historical",
                   "coords": [
                         -4.012889,
@@ -454,7 +454,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Félix-Houphouët-Boigny",
-                  "text": "Pont Félix-Houphouët-Boigny is a bridge in Abidjan.",
+                  "text": "Bridge over the Ébrié Lagoon, named after the first president of Ivory Coast.",
                   "category": "landmark",
                   "coords": [
                         -4.01931,
@@ -463,7 +463,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Pont Général-de-Gaulle",
-                  "text": "Pont Général-de-Gaulle is a bridge in Abidjan.",
+                  "text": "Bridge over the Ébrié Lagoon, named after Charles de Gaulle.",
                   "category": "landmark",
                   "coords": [
                         -4.0101,
@@ -472,7 +472,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Hôtel Ivoire",
-                  "text": "The Hôtel Ivoire is a hotel in Abidjan.",
+                  "text": "Landmark hotel with a casino and ice rink in the Cocody district of Abidjan.",
                   "category": "landmark",
                   "coords": [
                         -4.004412,
@@ -581,7 +581,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Gbèkè",
-                  "text": "Das Monument du Gbèkè ist ein lokales Denkmal in Bouaké.",
+                  "text": "Monument zur Erinnerung an das Königreich Gbèkè im Zentrum von Bouaké.",
                   "category": "historical",
                   "coords": [
                         -5.031677,
@@ -590,7 +590,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Eléphant",
-                  "text": "Das Monument Eléphant ist ein öffentliches Denkmal in der Stadt Bouaké.",
+                  "text": "Elefantenskulptur, Wahrzeichen von Bouaké, an einer großen Kreuzung.",
                   "category": "historical",
                   "coords": [
                         -5.022929,
@@ -599,7 +599,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
-                  "text": "Das Centre Artisanal Lamine Fadiga pour les Handicapés ist ein Kunst- und Handwerkszentrum in Bouaké.",
+                  "text": "Handwerkszentrum für behinderte Kunsthandwerker, die gewebte Waren und Töpferwaren herstellen.",
                   "category": "cultural",
                   "coords": [
                         -5.02674,
@@ -628,7 +628,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Gbèkè",
-                  "text": "A Monument du Gbèkè egy helyi emlékmű Bouaké városában.",
+                  "text": "A Gbèkè királyság emlékműve Bouaké központjában.",
                   "category": "historical",
                   "coords": [
                         -5.031677,
@@ -637,7 +637,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Eléphant",
-                  "text": "A Monument Eléphant egy köztéri emlékmű Bouaké városában.",
+                  "text": "Elefántszobor, Bouaké jelképe, egy nagy kereszteződésnél.",
                   "category": "historical",
                   "coords": [
                         -5.022929,
@@ -646,7 +646,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
-                  "text": "A Centre Artisanal Lamine Fadiga pour les Handicapés egy művészeti központ Bouakéban.",
+                  "text": "Kézműves központ fogyatékkal élő iparosok számára, akik szövött árukat és kerámiát készítenek.",
                   "category": "cultural",
                   "coords": [
                         -5.02674,
@@ -675,7 +675,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Gbèkè",
-                  "text": "Monument du Gbèkè este un monument local situat în Bouaké.",
+                  "text": "Monument care comemorează regatul Gbèkè în centrul orașului Bouaké.",
                   "category": "historical",
                   "coords": [
                         -5.031677,
@@ -684,7 +684,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Eléphant",
-                  "text": "Monument Eléphant este un monument public situat în orașul Bouaké.",
+                  "text": "Sculptură de elefant, simbol al Bouaké, la o intersecție majoră.",
                   "category": "historical",
                   "coords": [
                         -5.022929,
@@ -693,7 +693,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
-                  "text": "Centre Artisanal Lamine Fadiga pour les Handicapés este un centru de arte din Bouaké.",
+                  "text": "Centru meșteșugăresc pentru artizani cu dizabilități, care produc țesături și obiecte de ceramică.",
                   "category": "cultural",
                   "coords": [
                         -5.02674,
@@ -722,7 +722,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Gbèkè",
-                  "text": "The Monument du Gbèkè is a notable local monument situated in Bouaké.",
+                  "text": "Monument commemorating the Gbèkè kingdom in the heart of Bouaké.",
                   "category": "historical",
                   "coords": [
                         -5.031677,
@@ -731,7 +731,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Eléphant",
-                  "text": "The Monument Eléphant is a distinctive public monument located in the city of Bouaké.",
+                  "text": "Sculpture of an elephant, symbol of Bouaké, located at a major intersection.",
                   "category": "historical",
                   "coords": [
                         -5.022929,
@@ -740,7 +740,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
-                  "text": "The Centre Artisanal Lamine Fadiga pour les Handicapés is an arts and crafts center in Bouaké.",
+                  "text": "Handicraft centre employing disabled artisans, producing woven goods and pottery.",
                   "category": "cultural",
                   "coords": [
                         -5.02674,
@@ -809,7 +809,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Place de la solidarité",
-                  "text": "Place de la Solidarité ist ein Denkmal in Daloa.",
+                  "text": "Zentraler Platz in Daloa mit einem Denkmal für die nationale Einheit.",
                   "category": "historical",
                   "coords": [
                         -6.449218,
@@ -818,7 +818,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel municipal",
-                  "text": "Das Kulturzentrum der Stadt Daloa.",
+                  "text": "Städtisches Kulturzentrum im Zentrum von Daloa mit Veranstaltungssaal und Galerien.",
                   "category": "cultural",
                   "coords": [
                         -6.449193,
@@ -845,7 +845,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Daloa",
-                  "text": "Das Rathaus von Daloa ist ein Verwaltungsgebäude der Stadt.",
+                  "text": "Rathaus von Daloa, erbaut in der Kolonialzeit.",
                   "category": "historical",
                   "coords": [
                         -6.45148,
@@ -856,7 +856,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Place de la solidarité",
-                  "text": "A Place de la Solidarité egy emlékmű Daloában.",
+                  "text": "Központi tér Daloa városában, a nemzeti egység emlékművével.",
                   "category": "historical",
                   "coords": [
                         -6.449218,
@@ -865,7 +865,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel municipal",
-                  "text": "Daloa város kulturális központja.",
+                  "text": "Városi kulturális központ Daloa központjában, kiállításokkal és előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -6.449193,
@@ -892,7 +892,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Daloa",
-                  "text": "Daloa városháza a város közigazgatási épülete.",
+                  "text": "Daloa városháza, a gyarmati időszakban épült.",
                   "category": "historical",
                   "coords": [
                         -6.45148,
@@ -903,7 +903,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Place de la solidarité",
-                  "text": "Place de la Solidarité este un monument din Daloa.",
+                  "text": "Piață centrală în Daloa cu un monument al unității naționale.",
                   "category": "historical",
                   "coords": [
                         -6.449218,
@@ -912,7 +912,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel municipal",
-                  "text": "Centrul cultural al orașului Daloa.",
+                  "text": "Centru cultural municipal în centrul orașului Daloa, cu săli de expoziții și spectacole.",
                   "category": "cultural",
                   "coords": [
                         -6.449193,
@@ -939,7 +939,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Daloa",
-                  "text": "Primăria orașului Daloa este clădirea administrativă locală.",
+                  "text": "Primăria orașului Daloa, construită în perioada colonială.",
                   "category": "historical",
                   "coords": [
                         -6.45148,
@@ -950,7 +950,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Place de la solidarité",
-                  "text": "Place de la Solidarité is a monument in Daloa.",
+                  "text": "Central square in Daloa with a monument to national unity.",
                   "category": "historical",
                   "coords": [
                         -6.449218,
@@ -959,7 +959,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel municipal",
-                  "text": "The municipal cultural centre of Daloa.",
+                  "text": "Municipal cultural centre in central Daloa hosting exhibitions and performances.",
                   "category": "cultural",
                   "coords": [
                         -6.449193,
@@ -986,7 +986,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Mairie de Daloa",
-                  "text": "The Daloa Town Hall is the municipal administrative building.",
+                  "text": "Town hall of Daloa, built during the colonial period.",
                   "category": "historical",
                   "coords": [
                         -6.45148,
@@ -1103,7 +1103,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre artistique de Korhogo",
-                  "text": "Das Centre artistique de Korhogo ist ein lokales Kunstzentrum in der Stadt Korhogo.",
+                  "text": "Künstlerzentrum in Korhogo, bekannt für traditionelle Elfenbeinküsten-Kunsthandwerksausstellungen.",
                   "category": "cultural",
                   "coords": [
                         -5.634901,
@@ -1123,7 +1123,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre artistique de Korhogo",
-                  "text": "A Centre artistique de Korhogo egy helyi művészeti központ Korhogo városában.",
+                  "text": "Művészeti központ Korhogóban, hagyományos elefántcsontparti kézműves kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         -5.634901,
@@ -1143,7 +1143,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre artistique de Korhogo",
-                  "text": "Centre artistique de Korhogo este un centru de arte local situat în orașul Korhogo.",
+                  "text": "Centru artistic în Korhogo, cu expoziții de artizanat tradițional ivorian.",
                   "category": "cultural",
                   "coords": [
                         -5.634901,
@@ -1163,7 +1163,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre artistique de Korhogo",
-                  "text": "The Centre artistique de Korhogo is a local arts centre promoting creativity in Korhogo.",
+                  "text": "Art centre in Korhogo featuring traditional Ivorian craft exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -5.634901,
@@ -1319,7 +1319,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Les moulins blanc",
-                  "text": "Les moulins blanc ist eine traditionelle Windmühle in der Stadt Gagnoa.",
+                  "text": "Wahrzeichen der weißen Mühlen in Gagnoa – mehrere weiß gestrichene Mühlenbauwerke.",
                   "category": "landmark",
                   "coords": [
                         -5.954235,
@@ -1328,7 +1328,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Sainte Anne",
-                  "text": "Die Cathédrale Sainte Anne ist eine religiöse Gebetsstätte in der Stadt Gagnoa.",
+                  "text": "Kathedrale Sainte Anne in Gagnoa, Bischofssitz des Bistums Gagnoa.",
                   "category": "religious",
                   "coords": [
                         -5.942972,
@@ -1339,7 +1339,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Les moulins blanc",
-                  "text": "A Les moulins blanc egy hagyományos szélmalom Gagnoa városában.",
+                  "text": "Fehér malmok Gagnoa-ban – több fehérre festett malomépület.",
                   "category": "landmark",
                   "coords": [
                         -5.954235,
@@ -1348,7 +1348,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Sainte Anne",
-                  "text": "A Cathédrale Sainte Anne egy vallási jelentőségű imahely Gagnoa városában.",
+                  "text": "Szent Anna-székesegyház Gagnoában, a Gagnoa-i egyházmegye székhelye.",
                   "category": "religious",
                   "coords": [
                         -5.942972,
@@ -1359,7 +1359,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Les moulins blanc",
-                  "text": "Les moulins blanc este o moară de vânt tradițională situată în orașul Gagnoa.",
+                  "text": "Moara albă din Gagnoa – mai multe construcții de mori vopsite în alb.",
                   "category": "landmark",
                   "coords": [
                         -5.954235,
@@ -1368,7 +1368,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Sainte Anne",
-                  "text": "Cathédrale Sainte Anne este un lăcaș de cult situat în orașul Gagnoa.",
+                  "text": "Catedrala Sfânta Ana din Gagnoa, sediul episcopiei de Gagnoa.",
                   "category": "religious",
                   "coords": [
                         -5.942972,
@@ -1379,7 +1379,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Les moulins blanc",
-                  "text": "Les moulins blanc is a traditional windmill located in the city of Gagnoa.",
+                  "text": "White mills landmark in Gagnoa – several white-painted mill structures.",
                   "category": "landmark",
                   "coords": [
                         -5.954235,
@@ -1388,7 +1388,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Sainte Anne",
-                  "text": "Cathédrale Sainte Anne is a place of worship situated in Gagnoa.",
+                  "text": "St. Anne's Cathedral in Gagnoa, seat of the Diocese of Gagnoa.",
                   "category": "religious",
                   "coords": [
                         -5.942972,
@@ -1448,7 +1448,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Conservatoire National des Arts et Métiers",
-                  "text": "Ein Museum für Kunst und Handwerk in Abengourou.",
+                  "text": "Nationalmuseum für Kunst und Handwerk in Abengourou mit Sammlungen traditioneller ivorischer Handwerkskunst.",
                   "category": "museum",
                   "coords": [
                         -3.499894,
@@ -1457,7 +1457,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Bieth",
-                  "text": "Das Bieth-Museum ist eine kulturelle Einrichtung in Abengourou.",
+                  "text": "Privates Kunstmuseum Bieth in Abengourou mit einer Sammlung moderner und traditioneller Werke.",
                   "category": "museum",
                   "coords": [
                         -3.498906,
@@ -1468,7 +1468,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Conservatoire National des Arts et Métiers",
-                  "text": "Művészeti és iparművészeti múzeum Abengourouban.",
+                  "text": "Nemzeti Művészeti és Kézműves Múzeum Abengourou-ban, hagyományos elefántcsontparti kézműves gyűjteményekkel.",
                   "category": "museum",
                   "coords": [
                         -3.499894,
@@ -1477,7 +1477,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Bieth",
-                  "text": "A Bieth Múzeum egy kulturális intézmény Abengourouban.",
+                  "text": "Bieth Művészeti Múzeum Abengourou-ban, modern és hagyományos művek gyűjteményével.",
                   "category": "museum",
                   "coords": [
                         -3.498906,
@@ -1488,7 +1488,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Conservatoire National des Arts et Métiers",
-                  "text": "Un muzeu de artă și meserii din Abengourou.",
+                  "text": "Muzeul Național de Arte și Meserii din Abengourou, cu colecții de meșteșuguri tradiționale ivoriene.",
                   "category": "museum",
                   "coords": [
                         -3.499894,
@@ -1497,7 +1497,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Bieth",
-                  "text": "Muzeul Bieth este o instituție culturală din Abengourou.",
+                  "text": "Muzeul de Artă Bieth din Abengourou, cu o colecție de opere moderne și tradiționale.",
                   "category": "museum",
                   "coords": [
                         -3.498906,
@@ -1508,7 +1508,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Conservatoire National des Arts et Métiers",
-                  "text": "A museum of arts and crafts in Abengourou.",
+                  "text": "National Museum of Arts and Crafts in Abengourou, displaying traditional Ivorian craftsmanship.",
                   "category": "museum",
                   "coords": [
                         -3.499894,
@@ -1517,7 +1517,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Bieth",
-                  "text": "The Bieth Museum is a cultural institution in Abengourou.",
+                  "text": "Bieth Art Museum in Abengourou, housing a collection of modern and traditional artworks.",
                   "category": "museum",
                   "coords": [
                         -3.498906,
@@ -1721,7 +1721,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Faidherbe",
-                  "text": "Fort Faidherbe ist eine historische Festung in Dabou.",
+                  "text": "Französisches Kolonialfort aus dem 19. Jahrhundert in Dabou an der Lagune.",
                   "category": "fortress",
                   "coords": [
                         -4.386437,
@@ -1730,7 +1730,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel de Dabou",
-                  "text": "Das Centre Culturel de Dabou ist ein Kunstzentrum in Dabou.",
+                  "text": "Kulturzentrum von Dabou am Lagunenarm gelegen, mit Werkstätten für lokale Kunst.",
                   "category": "cultural",
                   "coords": [
                         -4.376009,
@@ -1741,7 +1741,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Faidherbe",
-                  "text": "A Fort Faidherbe egy történelmi erőd Dabou városában.",
+                  "text": "19. századi francia gyarmati erőd Dabouban a lagúnánál.",
                   "category": "fortress",
                   "coords": [
                         -4.386437,
@@ -1750,7 +1750,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel de Dabou",
-                  "text": "A Centre Culturel de Dabou egy művészeti központ Dabou városában.",
+                  "text": "Dabou-i Kulturális Központ a lagúna mellett, helyi művészeti műhelyekkel.",
                   "category": "cultural",
                   "coords": [
                         -4.376009,
@@ -1761,7 +1761,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Faidherbe",
-                  "text": "Fort Faidherbe este o fortăreață istorică în Dabou.",
+                  "text": "Fortăreață colonială franceză din secolul al XIX-lea în Dabou la lagună.",
                   "category": "fortress",
                   "coords": [
                         -4.386437,
@@ -1770,7 +1770,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel de Dabou",
-                  "text": "Centre Culturel de Dabou este un centru de artă în Dabou.",
+                  "text": "Centrul Cultural din Dabou, situat lângă brațul lagunei, cu ateliere de artă locală.",
                   "category": "cultural",
                   "coords": [
                         -4.376009,
@@ -1781,7 +1781,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Faidherbe",
-                  "text": "Fort Faidherbe is a historic fort in Dabou.",
+                  "text": "19th-century French colonial fort in Dabou on the lagoon.",
                   "category": "fortress",
                   "coords": [
                         -4.386437,
@@ -1790,7 +1790,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel de Dabou",
-                  "text": "The Centre Culturel de Dabou is an arts centre in Dabou.",
+                  "text": "Cultural centre of Dabou by the lagoon arm, offering local art workshops.",
                   "category": "cultural",
                   "coords": [
                         -4.376009,
@@ -1898,7 +1898,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "BAR (le monde arabe)",
-                  "text": "BAR ist eine lokale Attraktion in Ferkessédougou.",
+                  "text": "Arabisch inspirierte Bar in Dougou mit orientalischem Ambiente und Musik.",
                   "category": "landmark",
                   "coords": [
                         -5.207471,
@@ -1909,7 +1909,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "BAR (le monde arabe)",
-                  "text": "A BAR egy helyi látnivaló Ferkessédougouban.",
+                  "text": "Arab világ bár Dougou-ban, keleti hangulattal és zenével.",
                   "category": "landmark",
                   "coords": [
                         -5.207471,
@@ -1920,7 +1920,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "BAR (le monde arabe)",
-                  "text": "BAR este o atracție locală din Ferkessédougou.",
+                  "text": "Bar cu tematică arabă în Dougou, cu ambianță orientală și muzică.",
                   "category": "landmark",
                   "coords": [
                         -5.207471,
@@ -1931,7 +1931,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "BAR (arabe world)",
-                  "text": "BAR is a local attraction in Ferkessédougou.",
+                  "text": "Arab World bar in Dougou with Oriental ambiance and music.",
                   "category": "landmark",
                   "coords": [
                         -5.207471,
@@ -2183,7 +2183,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cathédrale Saint-Augustin d'Odienné",
-                  "text": "Die Cathédrale Saint-Augustin d'Odienné ist eine bedeutende katholische Kathedrale in der Stadt Odienné.",
+                  "text": "Kathedrale Saint-Augustin in Odienné, Bischofssitz des Bistums Odienné.",
                   "category": "religious",
                   "coords": [
                         -7.561322,
@@ -2194,7 +2194,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cathédrale Saint-Augustin d'Odienné",
-                  "text": "A Cathédrale Saint-Augustin d'Odienné egy kiemelkedő katolikus katedrális Odienné városában.",
+                  "text": "Szent Ágoston-székesegyház Odiennében, az Odienné-i egyházmegye székhelye.",
                   "category": "religious",
                   "coords": [
                         -7.561322,
@@ -2205,7 +2205,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cathédrale Saint-Augustin d'Odienné",
-                  "text": "Cathédrale Saint-Augustin d'Odienné este o importantă catedrală catolică din Odienné.",
+                  "text": "Catedrala Sfântul Augustin din Odienné, sediul episcopiei de Odienné.",
                   "category": "religious",
                   "coords": [
                         -7.561322,
@@ -2216,7 +2216,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cathédrale Saint-Augustin d'Odienné",
-                  "text": "The Cathédrale Saint-Augustin d'Odienné is a prominent Catholic cathedral in Odienné.",
+                  "text": "St. Augustine's Cathedral in Odienné, seat of the Diocese of Odienné.",
                   "category": "religious",
                   "coords": [
                         -7.561322,
@@ -2276,7 +2276,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "Die Kathedrale Sainte-Jeanne-d'Arc ist ein markantes Gotteshaus in Katiola.",
+                  "text": "Moderne Kathedrale, die der heiligen Johanna von Orleans geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -5.092263,
@@ -2287,7 +2287,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "A Sainte-Jeanne-d'Arc székesegyház egy jelentős imaház Katiolában.",
+                  "text": "Modern katedrális, amely Szent Johanna tiszteletére épült.",
                   "category": "religious",
                   "coords": [
                         -5.092263,
@@ -2298,7 +2298,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "Catedrala Sainte-Jeanne-d'Arc este un lăcaș de cult proeminent din Katiola.",
+                  "text": "Catedrală modernă dedicată Sfintei Ioana d'Arc.",
                   "category": "religious",
                   "coords": [
                         -5.092263,
@@ -2309,7 +2309,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "The Sainte-Jeanne-d'Arc Cathedral is a prominent place of worship in Katiola.",
+                  "text": "Modern cathedral dedicated to Saint Joan of Arc.",
                   "category": "religious",
                   "coords": [
                         -5.092263,
@@ -2465,7 +2465,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Réserve naturelle de Dahlia Fleur",
-                  "text": "Ein Naturschutzgebiet in Bingerville.",
+                  "text": "Naturschutzgebiet Dahlia Fleur in Bingerville – bekannt für seine Dahlienblüten und Wanderwege.",
                   "category": "natural",
                   "coords": [
                         -3.914385,
@@ -2476,7 +2476,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Réserve naturelle de Dahlia Fleur",
-                  "text": "Természetvédelmi terület Bingerville-ben.",
+                  "text": "Dahlia Fleur Természetvédelmi Terület Bingerville-ben, híres dáliavirágairól és túraútvonalairól.",
                   "category": "natural",
                   "coords": [
                         -3.914385,
@@ -2487,7 +2487,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Réserve naturelle de Dahlia Fleur",
-                  "text": "O rezervație naturală din Bingerville.",
+                  "text": "Rezervația naturală Dahlia Fleur din Bingerville, cunoscută pentru florile de dalie și traseele de drumeție.",
                   "category": "natural",
                   "coords": [
                         -3.914385,
@@ -2498,7 +2498,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Réserve naturelle de Dahlia Fleur",
-                  "text": "A nature reserve in Bingerville.",
+                  "text": "Dahlia Fleur Nature Reserve in Bingerville, known for its dahlia blooms and hiking trails.",
                   "category": "natural",
                   "coords": [
                         -3.914385,
@@ -2558,7 +2558,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
-                  "text": "ROND POINT DE DE MAIRIE DE DANANÉ ist ein Denkmal in Danané.",
+                  "text": "Kreisverkehr vor dem Rathaus von Danané – historischer Treffpunkt im Stadtzentrum.",
                   "category": "historical",
                   "coords": [
                         -8.150247,
@@ -2569,7 +2569,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
-                  "text": "A ROND POINT DE DE MAIRIE DE DANANÉ egy emlékmű Danané városában.",
+                  "text": "Körforgalom a dananéi városháza előtt – történelmi találkozóhely a városközpontban.",
                   "category": "historical",
                   "coords": [
                         -8.150247,
@@ -2580,7 +2580,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
-                  "text": "ROND POINT DE DE MAIRIE DE DANANÉ este un monument în Danané.",
+                  "text": "Sensul giratoriu din fața primăriei din Danané – loc istoric de întâlnire în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -8.150247,
@@ -2591,7 +2591,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
-                  "text": "ROND POINT DE DE MAIRIE DE DANANÉ is a monument in Danané.",
+                  "text": "Roundabout in front of Danané town hall – a historic meeting point in the city centre.",
                   "category": "historical",
                   "coords": [
                         -8.150247,
@@ -2699,7 +2699,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel Oumé",
-                  "text": "Das Kulturzentrum in Oumé.",
+                  "text": "Kulturzentrum von Oumé mit regelmäßigen Konzerten und Theateraufführungen.",
                   "category": "cultural",
                   "coords": [
                         -5.416061,
@@ -2710,7 +2710,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel Oumé",
-                  "text": "Kulturális központ Ouméban.",
+                  "text": "Oumé-i Kulturális Központ, rendszeres koncertekkel és színházi előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -5.416061,
@@ -2721,7 +2721,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel Oumé",
-                  "text": "Centrul cultural din Oumé.",
+                  "text": "Centrul Cultural din Oumé, cu concerte și spectacole de teatru regulate.",
                   "category": "cultural",
                   "coords": [
                         -5.416061,
@@ -2732,7 +2732,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel Oumé",
-                  "text": "The cultural centre in Oumé.",
+                  "text": "Cultural centre of Oumé hosting regular concerts and theatre performances.",
                   "category": "cultural",
                   "coords": [
                         -5.416061,
@@ -2840,7 +2840,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mosquée de Tengréla",
-                  "text": "Die Mosquée de Tengréla ist eine Moschee für die lokale Gemeinschaft in der Stadt Tengréla.",
+                  "text": "Historische Lehmziegel-Moschee in Tengréla, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -6.41011,
@@ -2851,7 +2851,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mosquée de Tengréla",
-                  "text": "A Mosquée de Tengréla egy mecset Tengréla városában.",
+                  "text": "Történelmi vályog mecset Tengréla városában, műemlék.",
                   "category": "landmark",
                   "coords": [
                         -6.41011,
@@ -2862,7 +2862,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mosquée de Tengréla",
-                  "text": "Mosquée de Tengréla este o moschee situată în orașul Tengréla.",
+                  "text": "Moschee istorică din chirpici în Tengréla, monument protejat.",
                   "category": "landmark",
                   "coords": [
                         -6.41011,
@@ -2873,7 +2873,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mosquée de Tengréla",
-                  "text": "The Mosquée de Tengréla is a mosque serving the local Islamic community in Tengréla.",
+                  "text": "Historic mud-brick mosque in Tengréla, a protected monument.",
                   "category": "landmark",
                   "coords": [
                         -6.41011,
@@ -3413,7 +3413,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Boulevard Alassane Ouattara",
-                  "text": "Boulevard Alassane Ouattara ist ein Denkmal in Mankono.",
+                  "text": "Alassane-Ouattara-Boulevard in Mankono – zentrale Durchgangsstraße benannt nach dem Präsidenten.",
                   "category": "historical",
                   "coords": [
                         -6.193567,
@@ -3424,7 +3424,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Boulevard Alassane Ouattara",
-                  "text": "A Boulevard Alassane Ouattara egy emlékmű Mankono városában.",
+                  "text": "Alassane Ouattara sugárút Mankono-ban – a központi átmenő út, az elnökről elnevezve.",
                   "category": "historical",
                   "coords": [
                         -6.193567,
@@ -3435,7 +3435,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Boulevard Alassane Ouattara",
-                  "text": "Boulevard Alassane Ouattara este un monument în Mankono.",
+                  "text": "Bulevardul Alassane Ouattara din Mankono – arteră centrală de tranzit numită după președinte.",
                   "category": "historical",
                   "coords": [
                         -6.193567,
@@ -3446,7 +3446,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Boulevard Alassane Ouattara",
-                  "text": "Boulevard Alassane Ouattara is a monument in Mankono.",
+                  "text": "Alassane Ouattara Boulevard in Mankono – a main thoroughfare named after the president.",
                   "category": "historical",
                   "coords": [
                         -6.193567,
@@ -3890,7 +3890,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel d'Agnibilékrou",
-                  "text": "Das Centre Culturel d'Agnibilékrou ist ein Kunstzentrum in Agnibilékrou.",
+                  "text": "Kulturzentrum von Agnibilékrou mit Bibliothek und Ausstellungsräumen für lokale Künstler.",
                   "category": "cultural",
                   "coords": [
                         -3.201511,
@@ -3901,7 +3901,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel d'Agnibilékrou",
-                  "text": "A Centre Culturel d'Agnibilékrou egy művészeti központ Agnibilékrou városában.",
+                  "text": "Agnibilékrou-i Kulturális Központ, könyvtárral és helyi művészek kiállítótermeivel.",
                   "category": "cultural",
                   "coords": [
                         -3.201511,
@@ -3912,7 +3912,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel d'Agnibilékrou",
-                  "text": "Centre Culturel d'Agnibilékrou este un centru de artă în Agnibilékrou.",
+                  "text": "Centrul Cultural din Agnibilékrou, cu bibliotecă și săli de expoziție pentru artiști locali.",
                   "category": "cultural",
                   "coords": [
                         -3.201511,
@@ -3923,7 +3923,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel d'Agnibilékrou",
-                  "text": "The Centre Culturel d'Agnibilékrou is an arts centre in Agnibilékrou.",
+                  "text": "Cultural centre of Agnibilékrou with a library and exhibition spaces for local artists.",
                   "category": "cultural",
                   "coords": [
                         -3.201511,

@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraBruneiLandmarksV2: POI[] = [
   {
-    id: "taman-mahkota-jubli-emas-landmarks-v2",
+    id: "taman-mahkota-jubli-emas-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Von diesem erhöhten Aussichtspunkt kann man die weitreichenden Mauern und Kuppeln des riesigen Sultanspalastes sehen.",
+                  "category": "natural",
+                  "coords": [
+                        114.93229,
+                        4.875002
+                  ]
+            },
+            {
+                  "name": "Istana Darul Hana",
+                  "text": "Der Darul-Hana-Palast ist ein königliches Schloss, das von gepflegten Gärten und traditioneller Architektur umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        114.927322,
+                        4.87957
+                  ]
+            },
+            {
+                  "name": "Masjid Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah",
+                  "text": "Die Moschee Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah beeindruckt mit ihrer großen Gebetshalle und detaillierten Ornamenten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.932753,
+                        4.88274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Ebből a megemelt kilátópontból láthatóak a hatalmas szultáni palota kiterjedt falai és kupolái.",
+                  "category": "natural",
+                  "coords": [
+                        114.93229,
+                        4.875002
+                  ]
+            },
+            {
+                  "name": "Istana Darul Hana",
+                  "text": "A Darul Hana palota egy királyi kastély, amelyet gondozott kertek és hagyományos építészet vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        114.927322,
+                        4.87957
+                  ]
+            },
+            {
+                  "name": "Masjid Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah",
+                  "text": "A Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah mecset nagy imatermével és részletes díszítéseivel nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        114.932753,
+                        4.88274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sultan's Palace",
+                  "text": "Din acest punct de observație înalt se pot vedea zidurile întinse și cupolele vastului Palat al Sultanului.",
+                  "category": "natural",
+                  "coords": [
+                        114.93229,
+                        4.875002
+                  ]
+            },
+            {
+                  "name": "Istana Darul Hana",
+                  "text": "Palatul Darul Hana este un castel regal înconjurat de grădini îngrijite și de o arhitectură tradițională.",
+                  "category": "castle",
+                  "coords": [
+                        114.927322,
+                        4.87957
+                  ]
+            },
+            {
+                  "name": "Masjid Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah",
+                  "text": "Moscheea Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah impresionează cu sala sa mare de rugăciune și ornamentele detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.932753,
+                        4.88274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultan's Palace",
+                  "text": "From this elevated viewpoint, one can see the sweeping walls and domes of the vast Sultan's Palace.",
+                  "category": "natural",
+                  "coords": [
+                        114.93229,
+                        4.875002
+                  ]
+            },
+            {
+                  "name": "Darul Hana Palace",
+                  "text": "Darul Hana Palace is a royal castle surrounded by manicured gardens and traditional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        114.927322,
+                        4.87957
+                  ]
+            },
+            {
+                  "name": "Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah Mosque",
+                  "text": "The Duli Pengiran Muda Mahkota Pengiran Muda Haji Al-Muhtadee Billah Mosque impresses with its large prayer hall and detailed ornamentation.",
+                  "category": "landmark",
+                  "coords": [
+                        114.932753,
+                        4.88274
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9388, 4.8856],
@@ -46,7 +163,52 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Superficie : 12 hectares", "Ouverture : 22 octobre 2017", "Occasion : 50e anniversaire du couronnement du sultan", "Largeur de la promenade : 6 mètres", "Offre une vue sur Kampong Ayer", "Lieu : Bandar Seri Begawan", "Intègre des caractéristiques de conception durable", "Lieu important pour les fêtes nationales"],
     }, image: "/poi-images/taman-mahkota-jubli-emas-landmarks-v2.webp"},
   {
-    id: "tasek-lama-recreational-park-landmarks-v2",
+    id: "tasek-lama-recreational-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Town Viewpoint",
+                  "text": "Der Town Viewpoint bietet einen erhöhten Aussichtspunkt mit Panoramablick auf das Stadtgebiet und die bewaldeten Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        114.944941,
+                        4.896357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Town Viewpoint",
+                  "text": "A Town Viewpoint magaslati kilátópontot kínál, ahonnan panorámás kilátás nyílik a városra és az erdős dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        114.944941,
+                        4.896357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Town Viewpoint",
+                  "text": "Town Viewpoint oferă un punct de observație la înălțime, cu vedere panoramică asupra zonei urbane și a dealurilor împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        114.944941,
+                        4.896357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Town Viewpoint",
+                  "text": "The Town Viewpoint offers an elevated vantage point with a panoramic outlook over the urban area and forested hills.",
+                  "category": "natural",
+                  "coords": [
+                        114.944941,
+                        4.896357
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9422, 4.8988],
@@ -132,7 +294,52 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Longueur : 30 kilomètres", "Plus long pont d'Asie du Sud-Est", "Ouverture : Mars 2020", "Coût : 1,6 milliard de BND", "Période de construction : 2014-2020", "Relie l'enclave de Temburong", "Hauteur du pylône : 100 mètres", "Réduit le temps de trajet à moins de 30 minutes"],
     }, image: "/poi-images/sultan-haji-omar-ali-saifuddien-bridge-landmarks-v2.webp"},
   {
-    id: "raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2",
+    id: "raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al-Muhtadee Billah",
+                  "text": "Die Al-Muhtadee Billah Moschee ist ein architektonisches Highlight am Ufer der monumentalen Raja Isteri Pengiran Anak Hajah Saleha Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944146,
+                        4.879846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al-Muhtadee Billah",
+                  "text": "Az Al-Muhtadee Billah mecset építészeti látványosság a monumentális Raja Isteri Pengiran Anak Hajah Saleha híd tövében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944146,
+                        4.879846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al-Muhtadee Billah",
+                  "text": "Moscheea Al-Muhtadee Billah este un punct de atracție arhitectural la baza podului monumental Raja Isteri Pengiran Anak Hajah Saleha.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944146,
+                        4.879846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Muhtadee Billah Mosque",
+                  "text": "Al-Muhtadee Billah Mosque is an architectural highlight at the base of the monumental Raja Isteri Pengiran Anak Hajah Saleha Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944146,
+                        4.879846
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9458, 4.8778],
@@ -175,7 +382,304 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Hauteur du pylône : 157 mètres", "Longueur totale : 750 mètres", "Ouverture : 2017", "Nommé d'après la reine Saleha", "Type : Pont à haubans", "Le pylône a un dôme islamique", "Comprend une galerie de prière", "Relie le centre-ville à Sungai Kebun"],
     }, image: "/poi-images/raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2.webp"},
   {
-    id: "jerudong-park-landmarks-v2",
+    id: "jerudong-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "Der Wasserfall „X“ stürzt wunderschön über natürliche Felsformationen und zieht Wanderer und Naturliebhaber an.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863682,
+                        4.910804
+                  ]
+            },
+            {
+                  "name": "Bedasur Waterfall",
+                  "text": "Der Bedasur-Wasserfall zeichnet sich durch ein malerisches Gefälle aus, das eine ruhige Atmosphäre in der Wildnis schafft.",
+                  "category": "landmark",
+                  "coords": [
+                        114.865467,
+                        4.908129
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Bus Stop",
+                  "text": "Die Bushaltestelle Jerudong Park dient als wichtiger Transitpunkt für Besucher der Vergnügungsanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833806,
+                        4.935398
+                  ]
+            },
+            {
+                  "name": "Jerudong Ampitheatre",
+                  "text": "Das Jerudong Ampitheatre ist eine große Freiluftbühne, die für öffentliche Aufführungen und Konzerte konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.833299,
+                        4.933001
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Playground",
+                  "text": "Jerudong Park Playground ist ein weitläufiger Themenpark mit rasanten Fahrgeschäften und familienfreundlichen Karussells.",
+                  "category": "recreational",
+                  "coords": [
+                        114.83602,
+                        4.93521
+                  ]
+            },
+            {
+                  "name": "JP Waterpark",
+                  "text": "Der JP Waterpark bietet Wasserspaß mit seinen aufregenden Rutschen, künstlichen Wellenbädern und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        114.835813,
+                        4.93998
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser lokale Surau bietet einen von der Gemeinde gepflegten islamischen Gebetsraum für Besucher und Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833772,
+                        4.936903
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameerah Al-Hajjah Maryam",
+                  "text": "Die Masjid Al-Ameerah Al-Hajjah Maryam ist eine kunstvoll gestaltete Moschee, in der sich die lokale muslimische Gemeinde versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842691,
+                        4.939155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "Az „X” vízesés gyönyörűen zuhan alá a természetes sziklaképződményeken, vonzva a túrázókat és a természet szerelmeseit.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863682,
+                        4.910804
+                  ]
+            },
+            {
+                  "name": "Bedasur Waterfall",
+                  "text": "A Bedasur vízesés egy festői zuhataggal büszkélkedhet, amely nyugodt légkört teremt a vadonban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.865467,
+                        4.908129
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Bus Stop",
+                  "text": "A Jerudong Park buszmegálló kulcsfontosságú átszállási pontként szolgál a szórakoztató létesítmények látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833806,
+                        4.935398
+                  ]
+            },
+            {
+                  "name": "Jerudong Ampitheatre",
+                  "text": "A Jerudong Amfiteátrum egy nagy szabadtéri színpad, amelyet nyilvános előadások és koncertek lebonyolítására terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        114.833299,
+                        4.933001
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Playground",
+                  "text": "A Jerudong Park Playground egy kiterjedt vidámpark, amely izgalmas túrákat és családbarát körhintákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        114.83602,
+                        4.93521
+                  ]
+            },
+            {
+                  "name": "JP Waterpark",
+                  "text": "A JP Waterpark vízi szórakozást kínál izgalmas csúszdáival, mesterséges hullámmedencéivel és játszótereivel.",
+                  "category": "recreational",
+                  "coords": [
+                        114.835813,
+                        4.93998
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a helyi Surau a közösség által fenntartott iszlám imateret biztosít a látogatók és a lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833772,
+                        4.936903
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameerah Al-Hajjah Maryam",
+                  "text": "A Masjid Al-Ameerah Al-Hajjah Maryam egy művészien kialakított mecset, ahol a helyi muszlim közösség összegyűlik.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842691,
+                        4.939155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "Cascada „X” se prăbușește spectaculos peste formațiunile stâncoase naturale, atrăgând drumeții și iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863682,
+                        4.910804
+                  ]
+            },
+            {
+                  "name": "Bedasur Waterfall",
+                  "text": "Cascada Bedasur prezintă o cădere pitorească de apă ce creează o atmosferă liniștită în sălbăticie.",
+                  "category": "landmark",
+                  "coords": [
+                        114.865467,
+                        4.908129
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Bus Stop",
+                  "text": "Stația de autobuz Jerudong Park servește drept punct cheie de tranzit pentru vizitatorii facilităților de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833806,
+                        4.935398
+                  ]
+            },
+            {
+                  "name": "Jerudong Ampitheatre",
+                  "text": "Amfiteatrul Jerudong este o scenă mare în aer liber concepută pentru a găzdui spectacole și concerte publice.",
+                  "category": "cultural",
+                  "coords": [
+                        114.833299,
+                        4.933001
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Playground",
+                  "text": "Jerudong Park Playground este un parc tematic întins, care oferă curse palpitante și carusele pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        114.83602,
+                        4.93521
+                  ]
+            },
+            {
+                  "name": "JP Waterpark",
+                  "text": "JP Waterpark oferă distracție acvatică cu toboganele sale palpitante, piscinele cu valuri artificiale și zonele de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        114.835813,
+                        4.93998
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Acest Surau local oferă un spațiu de rugăciune islamic întreținut de comunitate pentru vizitatori și rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833772,
+                        4.936903
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameerah Al-Hajjah Maryam",
+                  "text": "Masjid Al-Ameerah Al-Hajjah Maryam este o moschee frumos decorată, unde se adună comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842691,
+                        4.939155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "The \"X\" Waterfall cascades beautifully over natural rock formations, attracting hikers and nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863682,
+                        4.910804
+                  ]
+            },
+            {
+                  "name": "Bedasur Waterfall",
+                  "text": "Bedasur Waterfall features a scenic drop creating a tranquil atmosphere in the wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        114.865467,
+                        4.908129
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Bus Stop",
+                  "text": "The Jerudong Park Bus Stop serves as a key transit point for visitors accessing the amusement facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833806,
+                        4.935398
+                  ]
+            },
+            {
+                  "name": "Jerudong Ampitheatre",
+                  "text": "Jerudong Ampitheatre is a large open-air stage designed for hosting public performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        114.833299,
+                        4.933001
+                  ]
+            },
+            {
+                  "name": "Jerudong Park Playground",
+                  "text": "Jerudong Park Playground is a sprawling theme park featuring thrilling amusement rides and family-friendly carousels.",
+                  "category": "recreational",
+                  "coords": [
+                        114.83602,
+                        4.93521
+                  ]
+            },
+            {
+                  "name": "JP Waterpark",
+                  "text": "JP Waterpark offers aquatic fun with its exciting slides, artificial wave pools, and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        114.835813,
+                        4.93998
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This local Surau provides a community-maintained Islamic prayer space for visitors and residents.",
+                  "category": "landmark",
+                  "coords": [
+                        114.833772,
+                        4.936903
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ameerah Al-Hajjah Maryam",
+                  "text": "Masjid Al-Ameerah Al-Hajjah Maryam is an elaborately decorated mosque where the local Muslim congregation gathers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842691,
+                        4.939155
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.8361, 4.9389],
@@ -261,7 +765,88 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Ouverture : 2000", "Superficie : 180 hectares", "Architecte : Leandro V. Locsin", "Dispose d'un terrain de golf conçu par Jack Nicklaus", "Plus de 500 chambres et villas", "Souvent qualifié d'hôtel 7 étoiles", "L'atrium s'élève sur plus de 8 étages", "Coût de construction de plus d'un milliard de dollars US"],
     }, image: "/poi-images/the-empire-brunei-landmarks-v2.webp"},
   {
-    id: "ash-shaliheen-mosque-landmarks-v2",
+    id: "ash-shaliheen-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "RBAF Museum",
+                  "text": "Das Museum der königlich-bruneiischen Streitkräfte zeigt eine umfangreiche Sammlung von Militärfahrzeugen, Waffen und der Geschichte der Landesverteidigung.",
+                  "category": "museum",
+                  "coords": [
+                        114.93619,
+                        4.927305
+                  ]
+            },
+            {
+                  "name": "Masjid Sufri Bolkiah",
+                  "text": "Masjid Sufri Bolkiah ist ein großes muslimisches Gotteshaus, das sofort an seiner großen, glänzenden goldenen Kuppel zu erkennen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.931838,
+                        4.931604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RBAF Museum",
+                  "text": "A Királyi Brunei Fegyveres Erők Múzeuma katonai járművek, fegyverek és a nemzetvédelem történetének kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.93619,
+                        4.927305
+                  ]
+            },
+            {
+                  "name": "Masjid Sufri Bolkiah",
+                  "text": "A Masjid Sufri Bolkiah egy nagyszerű muszlim istentiszteleti hely, amely azonnal felismerhető nagy, csillogó aranykupolájáról.",
+                  "category": "landmark",
+                  "coords": [
+                        114.931838,
+                        4.931604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RBAF Museum",
+                  "text": "Muzeul Forțelor Armate Regale din Brunei expune o colecție vastă de vehicule militare, armament și istorie a apărării naționale.",
+                  "category": "museum",
+                  "coords": [
+                        114.93619,
+                        4.927305
+                  ]
+            },
+            {
+                  "name": "Masjid Sufri Bolkiah",
+                  "text": "Masjid Sufri Bolkiah este un grandios lăcaș de cult musulman, recunoscut imediat după cupola sa mare și aurie strălucitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        114.931838,
+                        4.931604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Brunei Armed Forces Museum",
+                  "text": "The Royal Brunei Armed Forces Museum displays an extensive collection of military vehicles, weaponry, and national defense history.",
+                  "category": "museum",
+                  "coords": [
+                        114.93619,
+                        4.927305
+                  ]
+            },
+            {
+                  "name": "Masjid Sufri Bolkiah",
+                  "text": "Masjid Sufri Bolkiah is a grand Muslim place of worship, instantly recognizable by its large, gleaming golden dome.",
+                  "category": "landmark",
+                  "coords": [
+                        114.931838,
+                        4.931604
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9351, 4.9221],
@@ -304,7 +889,52 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Achevée : 2012", "Architecte : Abdel-Wahed El-Wakil", "Style : Inspiré du Maroc", "Capacité : 1000 fidèles", "Lieu : À proximité du bureau du Premier ministre", "Utilise des matériaux faits à la main", "Exemple de nouvelle architecture islamique classique"],
     }, image: "/poi-images/ash-shaliheen-mosque-landmarks-v2.webp"},
   {
-    id: "yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2",
+    id: "yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taman Mahkota Jubli Emas",
+                  "text": "Dieser 2017 zum goldenen Thronjubiläum des Sultans eröffnete Park am Flussufer bietet malerische Promenaden entlang des Flusses Kedayan.",
+                  "category": "park",
+                  "coords": [
+                        114.938201,
+                        4.88816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taman Mahkota Jubli Emas",
+                  "text": "A szultán aranyjubileuma alkalmából 2017-ben megnyílt folyóparti park festői sétányokat kínál a Kedayan-folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        114.938201,
+                        4.88816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taman Mahkota Jubli Emas",
+                  "text": "Inaugurat în 2017 pentru a comemora Jubileul de Aur al Sultanului, acest parc riveran oferă promenade pitorești de-a lungul râului Kedayan.",
+                  "category": "park",
+                  "coords": [
+                        114.938201,
+                        4.88816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Jubilee Crown Park",
+                  "text": "Opened in 2017 to commemorate the Sultan's Golden Jubilee, this riverfront park offers scenic promenades along the Kedayan River.",
+                  "category": "park",
+                  "coords": [
+                        114.938201,
+                        4.88816
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9397, 4.8872],
@@ -347,7 +977,88 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Ouverture : 1996", "C'est une fondation caritative", "Architecture : mélange moderne-malais", "Lieu : en face de la mosquée Omar Ali Saifuddien", "Relié par une passerelle piétonne", "Abrite des magasins, des restaurants et des bureaux", "Les bénéfices sont reversés à des œuvres caritatives", "Offre une vue sur Kampong Ayer"],
     }, image: "/poi-images/yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2.webp"},
   {
-    id: "taman-persiaran-damuan-landmarks-v2",
+    id: "taman-persiaran-damuan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balai khazanah",
+                  "text": "Balai Khazanah ist ein Museum, dessen Vitrinen antike islamische Manuskripte und historische Artefakte ausstellen.",
+                  "category": "museum",
+                  "coords": [
+                        114.919858,
+                        4.883729
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Beribi",
+                  "text": "Die Masjid Kampong Beribi hat einen markanten Turm und fungiert als zentraler Ort der Anbetung für das Dorf.",
+                  "category": "landmark",
+                  "coords": [
+                        114.900679,
+                        4.887699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balai khazanah",
+                  "text": "A Balai Khazanah egy múzeum, amelynek vitrinjeiben ősi iszlám kéziratokat és történelmi műtárgyakat állítanak ki.",
+                  "category": "museum",
+                  "coords": [
+                        114.919858,
+                        4.883729
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Beribi",
+                  "text": "A Masjid Kampong Beribi egy jellegzetes toronnyal rendelkezik, és a falu központi istentiszteleti helyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        114.900679,
+                        4.887699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balai khazanah",
+                  "text": "Balai Khazanah este un muzeu ale cărui vitrine expun manuscrise islamice antice și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        114.919858,
+                        4.883729
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Beribi",
+                  "text": "Masjid Kampong Beribi are un turn distinctiv și funcționează ca loc central de cult pentru sat.",
+                  "category": "landmark",
+                  "coords": [
+                        114.900679,
+                        4.887699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balai khazanah",
+                  "text": "Balai Khazanah is a museum whose glass cases exhibit ancient Islamic manuscripts and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        114.919858,
+                        4.883729
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Beribi",
+                  "text": "Masjid Kampong Beribi features a distinctive tower and functions as the central place of worship for the village.",
+                  "category": "landmark",
+                  "coords": [
+                        114.900679,
+                        4.887699
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9103, 4.8781],
@@ -390,7 +1101,88 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Parc de sculptures de l'ASEAN", "Sculptures de 6 nations de l'ASEAN", "Le symposium a eu lieu en 1985", "Offre une vue sur le palais Istana Nurul Iman", "Emplacement : Sur les rives de la rivière Damuan", "Prisé pour les promenades en soirée", "Allie art et nature", "Accès libre pour le public"],
     }, image: "/poi-images/taman-persiaran-damuan-landmarks-v2.webp"},
   {
-    id: "kampong-ayer-cultural-and-tourism-gallery-landmarks-v2",
+    id: "kampong-ayer-cultural-and-tourism-gallery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glass-enclosed Viewing Tower",
+                  "text": "Der verglaste Aussichtsturm ermöglicht Besuchern den Blick aus der Vogelperspektive auf die Holzstege des traditionellen Wasserdorfes.",
+                  "category": "natural",
+                  "coords": [
+                        114.944326,
+                        4.88426
+                  ]
+            },
+            {
+                  "name": "Arts and Handicraft Centre",
+                  "text": "Dieses Zentrum für Kunst und lokales Handwerk bietet Einblicke in die traditionellen Fertigkeiten rund um Kampong Ayer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.949889,
+                        4.88485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glass-enclosed Viewing Tower",
+                  "text": "Az üvegezett kilátótorony lehetővé teszi a látogatók számára, hogy madártávlatból lássák a hagyományos vízi falu fapallóit.",
+                  "category": "natural",
+                  "coords": [
+                        114.944326,
+                        4.88426
+                  ]
+            },
+            {
+                  "name": "Arts and Handicraft Centre",
+                  "text": "Ez a művészeti és kézműves központ betekintést nyújt a Kampong Ayer környéki hagyományos mesterségekbe.",
+                  "category": "landmark",
+                  "coords": [
+                        114.949889,
+                        4.88485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glass-enclosed Viewing Tower",
+                  "text": "Turnul de vizionare închis cu sticlă permite vizitatorilor să privească din perspectiva unei păsări podețele de lemn ale satului tradițional pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        114.944326,
+                        4.88426
+                  ]
+            },
+            {
+                  "name": "Arts and Handicraft Centre",
+                  "text": "Acest centru de artă și artizanat local oferă o privire asupra abilităților tradiționale din zona Kampong Ayer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.949889,
+                        4.88485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glass-enclosed Viewing Tower",
+                  "text": "The Glass-enclosed Viewing Tower allows visitors a bird's-eye view of the wooden walkways of the traditional water village.",
+                  "category": "natural",
+                  "coords": [
+                        114.944326,
+                        4.88426
+                  ]
+            },
+            {
+                  "name": "Arts and Handicraft Centre",
+                  "text": "This arts and local handicraft centre offers insights into the traditional skills around Kampong Ayer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.949889,
+                        4.88485
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9443, 4.8841],
@@ -433,7 +1225,52 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Ouverture : 2009", "Construite sur pilotis dans l'eau", "Documente l'histoire de Kampong Ayer", "Dispose d'une tour d'observation", "Vue panoramique à 360 degrés", "Présente des artefacts historiques", "Centre d'information pour les touristes", "L'entrée est gratuite"],
     }, image: "/poi-images/kampong-ayer-cultural-and-tourism-gallery-landmarks-v2.webp"},
   {
-    id: "bangunan-dewan-majlis-landmarks-v2",
+    id: "bangunan-dewan-majlis-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Ash-Shaliheen",
+                  "text": "Diese berühmte, prächtige Moschee besticht durch ihre komplizierte Architektur im marokkanischen Stil und ihre atemberaubenden, gefliesten Innenhöfe.",
+                  "category": "religious",
+                  "coords": [
+                        114.936008,
+                        4.918086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Ash-Shaliheen",
+                  "text": "Ez a híresen grandiózus mecset bonyolult marokkói stílusú építészettel és lenyűgöző csempézett udvarokkal büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        114.936008,
+                        4.918086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Ash-Shaliheen",
+                  "text": "Această mare moschee faimoasă prezintă o arhitectură complexă în stil marocan și curți interioare uimitoare cu gresie.",
+                  "category": "religious",
+                  "coords": [
+                        114.936008,
+                        4.918086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ash-Shaliheen Mosque",
+                  "text": "This famously grand mosque showcases intricate Moroccan-style architecture and stunning tiled courtyards.",
+                  "category": "religious",
+                  "coords": [
+                        114.936008,
+                        4.918086
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9365, 4.9192],
@@ -520,7 +1357,124 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Capacité : env. 28 000 spectateurs", "Ouvert : 23 septembre 1983", "Nommé d'après le Sultan Hassanal Bolkiah", "Utilisation principale : Matchs de football", "Dispose d'une piste d'athlétisme", "Lieu des Jeux d'Asie du Sud-Est 1999", "Fait partie d'un plus grand complexe sportif national", "Stade de l'équipe nationale du Brunei"],
     }, image: "/poi-images/hassanal-bolkiah-national-stadium-landmarks-v2.webp"},
   {
-    id: "tasek-merimbun-landmarks-v2",
+    id: "tasek-merimbun-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tasek Merimbun",
+                  "text": "Tasek Merimbun ist ein s-förmiger natürlicher Schwarzwassersee in Brunei, der von dichtem tropischem Wald umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.679914,
+                        4.594088
+                  ]
+            },
+            {
+                  "name": "Kampong Masjid Benutan Mosque",
+                  "text": "Die Moschee Kampong Masjid Benutan ist ein ländliches islamisches Gebetszentrum, das sich durch seine traditionelle Dorfarchitektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.719795,
+                        4.597915
+                  ]
+            },
+            {
+                  "name": "Ukong Mamagon",
+                  "text": "Ukong Mamagon ist ein lokaler Marktplatz, auf dem sich die Dorfbewohner der Umgebung treffen, um frische regionale Produkte und Waren zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        114.645354,
+                        4.667863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tasek Merimbun",
+                  "text": "A Tasek Merimbun egy sötét vizű, S-alakú természetes tó Bruneiben, amelyet sűrű trópusi erdő vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        114.679914,
+                        4.594088
+                  ]
+            },
+            {
+                  "name": "Kampong Masjid Benutan Mosque",
+                  "text": "A Kampong Masjid Benutan mecset egy vidéki iszlám imaközpont, amelyet hagyományos faluépítészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        114.719795,
+                        4.597915
+                  ]
+            },
+            {
+                  "name": "Ukong Mamagon",
+                  "text": "Az Ukong Mamagon egy helyi piac, ahol a környékbeli falusiak összegyűlnek, hogy friss regionális termékekkel és árukkal kereskedjenek.",
+                  "category": "cultural",
+                  "coords": [
+                        114.645354,
+                        4.667863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tasek Merimbun",
+                  "text": "Tasek Merimbun este un lac natural cu apă închisă la culoare, în formă de S, înconjurat de pădure tropicală densă în Brunei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.679914,
+                        4.594088
+                  ]
+            },
+            {
+                  "name": "Kampong Masjid Benutan Mosque",
+                  "text": "Moscheea Kampong Masjid Benutan este un centru de cult islamic rural caracterizat de arhitectura sa tradițională de sat.",
+                  "category": "landmark",
+                  "coords": [
+                        114.719795,
+                        4.597915
+                  ]
+            },
+            {
+                  "name": "Ukong Mamagon",
+                  "text": "Ukong Mamagon este o piață locală unde sătenii din apropiere se adună pentru a comercializa produse și mărfuri regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        114.645354,
+                        4.667863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tasek Merimbun",
+                  "text": "Tasek Merimbun is a dark-water, S-shaped natural lake surrounded by dense tropical forest in Brunei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.679914,
+                        4.594088
+                  ]
+            },
+            {
+                  "name": "Kampong Masjid Benutan Mosque",
+                  "text": "Kampong Masjid Benutan Mosque is a rural Islamic worship center characterized by its traditional village architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        114.719795,
+                        4.597915
+                  ]
+            },
+            {
+                  "name": "Ukong Mamagon",
+                  "text": "Ukong Mamagon is a local marketplace where nearby villagers gather to trade fresh regional produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        114.645354,
+                        4.667863
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-TU",
     coords: [114.6738, 4.5878],
@@ -563,7 +1517,124 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Le plus grand lac naturel du Brunei", "Forme : en S", "Couleur de l'eau : sombre à cause des tanins", "Déclaré parc du patrimoine de l'ASEAN (1984)", "Superficie du parc : 7 800 hectares", "Habitat du langur à tête blanche", "Comprend des forêts marécageuses", "Dispose d'un centre de recherche sur une île"],
     }, image: "/poi-images/tasek-merimbun-landmarks-v2.webp"},
   {
-    id: "ulu-temburong-canopy-walkway-landmarks-v2",
+    id: "ulu-temburong-canopy-walkway-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canopy Viewing Tower",
+                  "text": "Eine erhöhte Stahlkonstruktion in Ulu Temburong, die als malerischer Aussichtspunkt hoch über den Baumkronen des Regenwaldes fungiert.",
+                  "category": "natural",
+                  "coords": [
+                        115.159758,
+                        4.552092
+                  ]
+            },
+            {
+                  "name": "Hanging Bridge",
+                  "text": "Diese Hängebrücke im Gebiet Ulu Temburong bietet Besuchern einen schwankenden Steg hoch über dem dichten Kronendach des Regenwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        115.157169,
+                        4.553204
+                  ]
+            },
+            {
+                  "name": "Hiking Trail",
+                  "text": "Dieser Regenwaldpfad schlängelt sich durch das Gebiet Ulu Temburong und führt Wanderer über unebenes Gelände inmitten üppiger tropischer Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        115.156732,
+                        4.552287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canopy Viewing Tower",
+                  "text": "Egy magaslati acélszerkezet Ulu Temburongban, amely festői kilátópontként működik magasan az esőerdő lombkoronája felett.",
+                  "category": "natural",
+                  "coords": [
+                        115.159758,
+                        4.552092
+                  ]
+            },
+            {
+                  "name": "Hanging Bridge",
+                  "text": "Ez az Ulu Temburong területén található függőhíd egy ringatózó gyalogosutat kínál a sűrű esőerdő lombkoronája felett.",
+                  "category": "landmark",
+                  "coords": [
+                        115.157169,
+                        4.553204
+                  ]
+            },
+            {
+                  "name": "Hiking Trail",
+                  "text": "Ez az esőerdei ösvény Ulu Temburong területén kanyarog, egyenetlen terepen és buja trópusi növényzet között vezetve a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        115.156732,
+                        4.552287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canopy Viewing Tower",
+                  "text": "O structură de oțel ridicată în Ulu Temburong care funcționează ca un punct de belvedere pitoresc la mare înălțime deasupra coroanelor pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        115.159758,
+                        4.552092
+                  ]
+            },
+            {
+                  "name": "Hanging Bridge",
+                  "text": "Acest pod suspendat pietonal din zona Ulu Temburong oferă vizitatorilor o alee legănătoare deasupra coronamentului dens al pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        115.157169,
+                        4.553204
+                  ]
+            },
+            {
+                  "name": "Hiking Trail",
+                  "text": "Această potecă din pădurea tropicală șerpuiește prin zona Ulu Temburong, ghidând excursioniștii pe un teren accidentat înconjurat de vegetație luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.156732,
+                        4.552287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canopy Viewing Tower",
+                  "text": "An elevated steel structure in Ulu Temburong functioning as a scenic viewpoint high above the rainforest treetops.",
+                  "category": "natural",
+                  "coords": [
+                        115.159758,
+                        4.552092
+                  ]
+            },
+            {
+                  "name": "Hanging Bridge",
+                  "text": "This suspended footbridge in the Ulu Temburong area offers visitors a swaying walkway above the dense rainforest canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        115.157169,
+                        4.553204
+                  ]
+            },
+            {
+                  "name": "Hiking Trail",
+                  "text": "This rainforest path winds through the Ulu Temburong area, guiding trekkers across uneven terrain surrounded by lush tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        115.156732,
+                        4.552287
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-TE",
     coords: [115.1554, 4.5492],
@@ -735,7 +1806,52 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Ouvert : 2022", "Lieu : Ancien bâtiment des douanes (construit dans les années 1950)", "Thème : Industrie pétrolière et gazière de Brunei", "Sponsor principal : Brunei Shell Petroleum", "Musée interactif", "Sert également de centre artistique et culturel", "Lieu : Bord de l'eau de Bandar Seri Begawan", "Allie histoire et technologie moderne"],
     }, image: "/poi-images/brunei-energy-hub-dermaga-diraja-landmarks-v2.webp"},
   {
-    id: "lapau-landmarks-v2",
+    id: "lapau-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pusat Sejarah Brunei",
+                  "text": "Diese Museumseinrichtung widmet sich der Erhaltung und Ausstellung der königlichen Abstammung und der historischen Aufzeichnungen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        114.941485,
+                        4.891745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pusat Sejarah Brunei",
+                  "text": "Ez a múzeumi intézmény a régió királyi származásának és történelmi feljegyzéseinek megőrzésének és bemutatásának szentelte magát.",
+                  "category": "museum",
+                  "coords": [
+                        114.941485,
+                        4.891745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pusat Sejarah Brunei",
+                  "text": "Această instituție muzeală este dedicată conservării și expunerii descendenței regale și a documentelor istorice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        114.941485,
+                        4.891745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brunei History Centre",
+                  "text": "This museum institution is dedicated to preserving and exhibiting the royal lineage and historical records of the region.",
+                  "category": "museum",
+                  "coords": [
+                        114.941485,
+                        4.891745
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9416, 4.8911],
@@ -778,7 +1894,52 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Type : Salle de cérémonie royale", "Achevé : 1968", "Lieu du couronnement du Sultan Hassanal Bolkiah (1968)", "Inspiré par l'architecture malaise", "Dispose d'un dôme doré", "Utilisé pour les cérémonies d'État et royales", "Situé à côté de l'ancien bâtiment du parlement", "Symbole de la monarchie au Brunei"],
     }, image: "/poi-images/lapau-landmarks-v2.webp"},
   {
-    id: "agroteknologi-park-tungku-landmarks-v2",
+    id: "agroteknologi-park-tungku-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Universiti Brunei Darussalam",
+                  "text": "Die Universitätsmoschee von Brunei Darussalam befindet sich direkt auf dem Campus nahe dem Agroteknologie-Park Tungku.",
+                  "category": "landmark",
+                  "coords": [
+                        114.895909,
+                        4.977308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Universiti Brunei Darussalam",
+                  "text": "A Brunei Darussalam Egyetem mecsete közvetlenül a kampuszon található, a Tungku Agrotechnológiai Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.895909,
+                        4.977308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Universiti Brunei Darussalam",
+                  "text": "Moscheea Universității Brunei Darussalam este situată chiar în campus, lângă parcul de agrotehnologie Tungku.",
+                  "category": "landmark",
+                  "coords": [
+                        114.895909,
+                        4.977308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Universiti Brunei Darussalam Mosque",
+                  "text": "The Universiti Brunei Darussalam Mosque is located directly on campus near the Agroteknologi Park Tungku.",
+                  "category": "landmark",
+                  "coords": [
+                        114.895909,
+                        4.977308
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-BM",
     coords: [114.8851, 4.9542],
@@ -821,7 +1982,340 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       fr: ["Superficie : 500 hectares", "Objectif : Recherche agronomique, éducation, loisirs", "Présente des techniques agricoles modernes (hydroponie)", "Favorise la sécurité alimentaire de Brunei", "Dispose de vergers et de jardins de fleurs", "Vente de fruits de saison sur place", "Lieu prisé pour les sorties en famille", "Lieu : Proche de Tungku Beach"],
     }, image: "/poi-images/agroteknologi-park-tungku-landmarks-v2.webp"},
   {
-    id: "sungai-basong-recreation-park-landmarks-v2",
+    id: "sungai-basong-recreation-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sungai Bakiau",
+                  "text": "Der Aussichtspunkt Sungai Bakiau bietet einen klaren Blick auf den ruhigen Flusslauf nahe dem Sungai Basong Recreation Park.",
+                  "category": "natural",
+                  "coords": [
+                        114.664132,
+                        4.798093
+                  ]
+            },
+            {
+                  "name": "\"Sungai Tutong\" Sign",
+                  "text": "Das \"Sungai Tutong\" Schild ist eine farbenfrohe Markierung, die den Namensgeber des Distrikts am Rande des Erholungsparks hervorhebt.",
+                  "category": "historical",
+                  "coords": [
+                        114.657456,
+                        4.803508
+                  ]
+            },
+            {
+                  "name": "\"Pekan Tutong\" Sign",
+                  "text": "Das \"Pekan Tutong\" Schild fungiert als monumentales Ortsschild zur Begrüßung am Eingang des gleichnamigen Ortes.",
+                  "category": "historical",
+                  "coords": [
+                        114.657848,
+                        4.80562
+                  ]
+            },
+            {
+                  "name": "Mercu Tanda Kenangan",
+                  "text": "Das Mercu Tanda Kenangan ist ein lokales Erinnerungsmonument, das sich in die Grünanlagen des Sungai Basong Parks einfügt.",
+                  "category": "historical",
+                  "coords": [
+                        114.659241,
+                        4.807212
+                  ]
+            },
+            {
+                  "name": "Hassanal Bolkiah Mosque",
+                  "text": "Die Hassanal Bolkiah Moschee ist ein bedeutendes islamisches Gotteshaus im Distrikt Tutong mit eleganten, vergoldeten Details.",
+                  "category": "religious",
+                  "coords": [
+                        114.662069,
+                        4.806473
+                  ]
+            },
+            {
+                  "name": "\"Bukit Bendera\" Sign",
+                  "text": "Das \"Bukit Bendera\" Schild ist ein dekorativer Schriftzug am Fuße des traditionellen Flaggenhügels in Tutong.",
+                  "category": "historical",
+                  "coords": [
+                        114.660761,
+                        4.80746
+                  ]
+            },
+            {
+                  "name": "Gerai Selera Tutong",
+                  "text": "Der Gerai Selera Tutong ist ein lebhafter Open-Air-Markt, der authentische bruneiische Straßenküche anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        114.658926,
+                        4.805643
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasarneka dan Tamu Serambangun",
+                  "text": "Der Kompleks Pasarneka dan Tamu Serambangun ist ein überdachter Marktkomplex, auf dem Händler frische Produkte und handgemachte Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        114.650635,
+                        4.798057
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Tutong",
+                  "text": "Der Pasar Malam Pekan Tutong ist ein nächtlicher Markt, dessen Stände frisch gegrillte Snacks und lokale Delikatessen servieren.",
+                  "category": "cultural",
+                  "coords": [
+                        114.656406,
+                        4.803792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sungai Bakiau",
+                  "text": "A Sungai Bakiau kilátó tiszta rálátást biztosít a nyugodt folyószakaszra a Sungai Basong Rekreációs Park közelében.",
+                  "category": "natural",
+                  "coords": [
+                        114.664132,
+                        4.798093
+                  ]
+            },
+            {
+                  "name": "\"Sungai Tutong\" Sign",
+                  "text": "A \"Sungai Tutong\" felirat egy színes jelzés, amely a körzet névadóját emeli ki a rekreációs park szélén.",
+                  "category": "historical",
+                  "coords": [
+                        114.657456,
+                        4.803508
+                  ]
+            },
+            {
+                  "name": "\"Pekan Tutong\" Sign",
+                  "text": "A \"Pekan Tutong\" felirat monumentális helységnévtáblaként üdvözli az érkezőket az azonos nevű település bejáratánál.",
+                  "category": "historical",
+                  "coords": [
+                        114.657848,
+                        4.80562
+                  ]
+            },
+            {
+                  "name": "Mercu Tanda Kenangan",
+                  "text": "A Mercu Tanda Kenangan egy helyi emlékmű, amely a Sungai Basong Park zöldterületeibe illeszkedik.",
+                  "category": "historical",
+                  "coords": [
+                        114.659241,
+                        4.807212
+                  ]
+            },
+            {
+                  "name": "Hassanal Bolkiah Mosque",
+                  "text": "A Hassanal Bolkiah mecset egy jelentős iszlám istentiszteleti hely a Tutong körzetben, elegáns, aranyozott részletekkel.",
+                  "category": "religious",
+                  "coords": [
+                        114.662069,
+                        4.806473
+                  ]
+            },
+            {
+                  "name": "\"Bukit Bendera\" Sign",
+                  "text": "A \"Bukit Bendera\" felirat egy dekoratív jelzés a hagyományos zászlódomb lábánál Tutongban.",
+                  "category": "historical",
+                  "coords": [
+                        114.660761,
+                        4.80746
+                  ]
+            },
+            {
+                  "name": "Gerai Selera Tutong",
+                  "text": "A Gerai Selera Tutong egy nyüzsgő szabadtéri piac, amely autentikus brunei utcai ételeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        114.658926,
+                        4.805643
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasarneka dan Tamu Serambangun",
+                  "text": "A Kompleks Pasarneka dan Tamu Serambangun egy fedett piackomplexum, ahol az árusok friss terményeket és kézműves árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        114.650635,
+                        4.798057
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Tutong",
+                  "text": "A Pasar Malam Pekan Tutong egy éjszakai piac, amelynek standjai frissen grillezett rágcsálnivalókat és helyi finomságokat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        114.656406,
+                        4.803792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sungai Bakiau",
+                  "text": "Punctul de belvedere Sungai Bakiau oferă o vedere clară asupra cursului liniștit al râului de lângă Parcul de Recreere Sungai Basong.",
+                  "category": "natural",
+                  "coords": [
+                        114.664132,
+                        4.798093
+                  ]
+            },
+            {
+                  "name": "\"Sungai Tutong\" Sign",
+                  "text": "Semnul „Sungai Tutong” este un marcaj colorat care evidențiază râul ce dă numele districtului, la marginea parcului de recreere.",
+                  "category": "historical",
+                  "coords": [
+                        114.657456,
+                        4.803508
+                  ]
+            },
+            {
+                  "name": "\"Pekan Tutong\" Sign",
+                  "text": "Semnul „Pekan Tutong” servește drept indicator monumental de bun venit la intrarea în orașul cu același nume.",
+                  "category": "historical",
+                  "coords": [
+                        114.657848,
+                        4.80562
+                  ]
+            },
+            {
+                  "name": "Mercu Tanda Kenangan",
+                  "text": "Mercu Tanda Kenangan este un monument comemorativ local integrat în spațiile verzi ale Parcului Sungai Basong.",
+                  "category": "historical",
+                  "coords": [
+                        114.659241,
+                        4.807212
+                  ]
+            },
+            {
+                  "name": "Hassanal Bolkiah Mosque",
+                  "text": "Moscheea Hassanal Bolkiah este un important lăcaș de cult islamic din districtul Tutong, remarcat prin detaliile sale elegante și aurite.",
+                  "category": "religious",
+                  "coords": [
+                        114.662069,
+                        4.806473
+                  ]
+            },
+            {
+                  "name": "\"Bukit Bendera\" Sign",
+                  "text": "Semnul „Bukit Bendera” este o inscripție decorativă aflată la baza tradiționalului deal al steagului din Tutong.",
+                  "category": "historical",
+                  "coords": [
+                        114.660761,
+                        4.80746
+                  ]
+            },
+            {
+                  "name": "Gerai Selera Tutong",
+                  "text": "Gerai Selera Tutong este o piață în aer liber plină de viață, care oferă mâncare stradală autentică din Brunei.",
+                  "category": "cultural",
+                  "coords": [
+                        114.658926,
+                        4.805643
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasarneka dan Tamu Serambangun",
+                  "text": "Kompleks Pasarneka dan Tamu Serambangun este un complex de piață acoperit, unde comercianții vând produse proaspete și articole artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.650635,
+                        4.798057
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Tutong",
+                  "text": "Pasar Malam Pekan Tutong este o piață de noapte unde standurile servesc gustări proaspăt gătite pe grătar și delicatese locale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.656406,
+                        4.803792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sungai Bakiau",
+                  "text": "The Sungai Bakiau viewpoint offers a clear look at the tranquil river course near the Sungai Basong Recreation Park.",
+                  "category": "natural",
+                  "coords": [
+                        114.664132,
+                        4.798093
+                  ]
+            },
+            {
+                  "name": "\"Sungai Tutong\" Sign",
+                  "text": "The \"Sungai Tutong\" Sign is a colorful marker highlighting the district's namesake river on the edge of the recreation park.",
+                  "category": "historical",
+                  "coords": [
+                        114.657456,
+                        4.803508
+                  ]
+            },
+            {
+                  "name": "\"Pekan Tutong\" Sign",
+                  "text": "The \"Pekan Tutong\" Sign acts as a monumental welcome marker at the entrance to the town.",
+                  "category": "historical",
+                  "coords": [
+                        114.657848,
+                        4.80562
+                  ]
+            },
+            {
+                  "name": "Mercu Tanda Kenangan",
+                  "text": "Mercu Tanda Kenangan is a local memorial monument nestled in the green spaces of Sungai Basong Park.",
+                  "category": "historical",
+                  "coords": [
+                        114.659241,
+                        4.807212
+                  ]
+            },
+            {
+                  "name": "Hassanal Bolkiah Mosque",
+                  "text": "The Hassanal Bolkiah Mosque is a significant Islamic place of worship in the Tutong District, featuring elegant, gilded details.",
+                  "category": "religious",
+                  "coords": [
+                        114.662069,
+                        4.806473
+                  ]
+            },
+            {
+                  "name": "\"Bukit Bendera\" Sign",
+                  "text": "The \"Bukit Bendera\" Sign is a decorative lettering landmark at the foot of the traditional flag hill in Tutong.",
+                  "category": "historical",
+                  "coords": [
+                        114.660761,
+                        4.80746
+                  ]
+            },
+            {
+                  "name": "Gerai Selera Tutong",
+                  "text": "Gerai Selera Tutong is a lively open-air market offering authentic Bruneian street food dishes.",
+                  "category": "cultural",
+                  "coords": [
+                        114.658926,
+                        4.805643
+                  ]
+            },
+            {
+                  "name": "Kompleks Pasarneka dan Tamu Serambangun",
+                  "text": "Kompleks Pasarneka dan Tamu Serambangun is a covered market complex where vendors sell fresh produce and handmade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        114.650635,
+                        4.798057
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Pekan Tutong",
+                  "text": "Pasar Malam Pekan Tutong is a night market where stalls serve freshly grilled snacks and local delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        114.656406,
+                        4.803792
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BN-TU",
     coords: [114.6611, 4.7933],

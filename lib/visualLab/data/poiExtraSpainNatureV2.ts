@@ -180,7 +180,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Peñalba",
-                  "text": "Ein hoher Berggipfel im Picos-de-Europa-Gebirge.",
+                  "text": "Felsformation im Kalksteinmassiv der Picos de Europa.",
                   "category": "landmark",
                   "coords": [
                         -4.866955,
@@ -198,7 +198,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Altáiz",
-                  "text": "Gipfel im Zentralmassiv in der Nähe von Fuente Dé.",
+                  "text": "Zackiger Gipfel in den Picos de Europa mit Aussicht auf das Cares-Tal.",
                   "category": "landmark",
                   "coords": [
                         -4.82988,
@@ -254,7 +254,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Peñalba",
-                  "text": "Magas hegycsúcs a Picos de Europa hegységben.",
+                  "text": "Sziklaformáció a Picos de Europa mészkőhegységében.",
                   "category": "landmark",
                   "coords": [
                         -4.866955,
@@ -272,7 +272,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Altáiz",
-                  "text": "Hegycsúcs a központi masszívumban, Fuente Dé közelében.",
+                  "text": "Fogas csúcs a Picos de Europa-ban, kilátással a Cares-völgyre.",
                   "category": "landmark",
                   "coords": [
                         -4.82988,
@@ -328,7 +328,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Peñalba",
-                  "text": "Un vârf înalt în munții Picos de Europa.",
+                  "text": "Formațiune stâncoasă în masivul calcaros al Picos de Europa.",
                   "category": "landmark",
                   "coords": [
                         -4.866955,
@@ -346,7 +346,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Altáiz",
-                  "text": "Vârf în masivul central, situat lângă Fuente Dé.",
+                  "text": "Vârf zimțat în Picos de Europa cu vedere spre valea Cares.",
                   "category": "landmark",
                   "coords": [
                         -4.82988,
@@ -402,7 +402,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Peñalba",
-                  "text": "A high peak in the Picos de Europa mountains.",
+                  "text": "Rock formation in the limestone massif of the Picos de Europa.",
                   "category": "landmark",
                   "coords": [
                         -4.866955,
@@ -420,7 +420,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Torre Altáiz",
-                  "text": "Peak in the central massif near Fuente Dé.",
+                  "text": "Jagged peak in the Picos de Europa overlooking the Cares valley.",
                   "category": "landmark",
                   "coords": [
                         -4.82988,
@@ -933,7 +933,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador del Canal Vell",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über das Ebro-Delta.",
+                  "text": "Aussichtspunkt über den alten Kanal des Ebro-Deltas.",
                   "category": "natural",
                   "coords": [
                         0.792094,
@@ -951,7 +951,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador de Riumar",
-                  "text": "Von diesem Punkt aus hat man eine hervorragende Aussicht auf die Küste.",
+                  "text": "Aussichtspunkt mit Panoramablick auf die Strände und Dünen des Ebro-Deltas.",
                   "category": "natural",
                   "coords": [
                         0.842688,
@@ -1007,7 +1007,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador del Canal Vell",
-                  "text": "Kilátópont széles kilátással az Ebro-deltára.",
+                  "text": "Kilátó az Ebro-delta régi csatornája fölé.",
                   "category": "natural",
                   "coords": [
                         0.792094,
@@ -1025,7 +1025,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador de Riumar",
-                  "text": "Erről a pontról kiváló kilátás nyílik a tengerpartra.",
+                  "text": "Kilátó az Ebro-delta strandjaira és dűnéire nyíló panorámával.",
                   "category": "natural",
                   "coords": [
                         0.842688,
@@ -1081,7 +1081,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador del Canal Vell",
-                  "text": "Un punct de observație cu o vedere largă asupra Deltei Ebrului.",
+                  "text": "Punct de belvedere deasupra canalului vechi al deltei Ebrului.",
                   "category": "natural",
                   "coords": [
                         0.792094,
@@ -1099,7 +1099,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador de Riumar",
-                  "text": "Din acest punct se oferă o vedere excelentă asupra coastei.",
+                  "text": "Punct de belvedere cu vedere panoramică asupra plajelor și dunelor deltei Ebrului.",
                   "category": "natural",
                   "coords": [
                         0.842688,
@@ -1155,7 +1155,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador del Canal Vell",
-                  "text": "A viewpoint offering a wide vista over the Ebro Delta.",
+                  "text": "Viewpoint overlooking the old canal of the Ebro River delta.",
                   "category": "natural",
                   "coords": [
                         0.792094,
@@ -1173,7 +1173,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Mirador de Riumar",
-                  "text": "This point offers an excellent view of the coastline.",
+                  "text": "Viewpoint with panoramic views of the Ebro delta's beaches and dunes.",
                   "category": "natural",
                   "coords": [
                         0.842688,
@@ -1576,7 +1576,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "Ein Strand mit vulkanischem Sand im Dorf La Fabriquilla.",
+                  "text": "Kleiner Strand mit schwarzem Vulkansand und einer Höhle in Cabo de Gata.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1650,7 +1650,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "Vulkanikus homokos tengerpart La Fabriquilla faluban.",
+                  "text": "Kis strand fekete vulkáni homokkal és egy barlanggal Cabo de Gatában.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1724,7 +1724,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "O plajă cu nisip vulcanic în satul La Fabriquilla.",
+                  "text": "Plajă mică cu nisip negru vulcanic și o peșteră în Cabo de Gata.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1798,7 +1798,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "A beach with volcanic sand located in the village of La Fabriquilla.",
+                  "text": "Small beach with volcanic black sand and a cave at Cabo de Gata.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1866,7 +1866,7 @@ export const spainNatureV2: POI[] = [
       "de": [
             {
                   "name": "Pico Maldito",
-                  "text": "Ein markanter Berggipfel in den Pyrenäen nahe dem Aneto.",
+                  "text": "Berggipfel im Aneto-Massiv, einer der höchsten der Pyrenäen.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -1884,7 +1884,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Ein Berggipfel in der Nähe des Aneto in den Pyrenäen.",
+                  "text": "Spitzer Gipfel im Posets-Maladeta-Massiv nahe dem Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -1902,7 +1902,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "Ein Gipfel im Maladeta-Gebiet der zentralen Pyrenäen.",
+                  "text": "Dreitausender im Pyrenäen-Hauptkamm nahe dem Aneto-Gletscher.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -1920,7 +1920,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cap de la Vall",
-                  "text": "Ein Berggipfel in den zentralen Pyrenäen nahe dem Aneto.",
+                  "text": "Gipfel mit Aussicht auf den zentralen Pyrenäenkamm und das Maladeta-Massiv.",
                   "category": "landmark",
                   "coords": [
                         0.670552,
@@ -1929,7 +1929,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'Aragüells",
-                  "text": "Ein felsiger Gipfel im Maladeta-Massiv in Spanien.",
+                  "text": "Felsgipfel am Rand des Aneto-Gletschers in den Pyrenäen.",
                   "category": "landmark",
                   "coords": [
                         0.627827,
@@ -1940,7 +1940,7 @@ export const spainNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Pico Maldito",
-                  "text": "Jellegzetes hegycsúcs a Pireneusokban, az Aneto közelében.",
+                  "text": "Hegycsúcs az Aneto-masszívumban, a Pireneusok egyik legmagasabbja.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -1958,7 +1958,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Hegycsúcs a Pireneusokban, az Aneto közelében.",
+                  "text": "Hegyes csúcs a Posets-Maladeta-hegységben az Aneto közelében.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -1976,7 +1976,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "Hegycsúcs a központi Pireneusok Maladeta-vidékén.",
+                  "text": "Háromezres a Pireneusok főgerincén az Aneto-gleccser közelében.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -1994,7 +1994,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cap de la Vall",
-                  "text": "Hegycsúcs a központi Pireneusokban, az Aneto közelében.",
+                  "text": "Csúcs kilátással a központi Pireneusok gerincére és a Maladeta-hegységre.",
                   "category": "landmark",
                   "coords": [
                         0.670552,
@@ -2003,7 +2003,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'Aragüells",
-                  "text": "Sziklás hegycsúcs a spanyolországi Maladeta-masszívumban.",
+                  "text": "Sziklás csúcs az Aneto-gleccser szélén a Pireneusokban.",
                   "category": "landmark",
                   "coords": [
                         0.627827,
@@ -2014,7 +2014,7 @@ export const spainNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Pico Maldito",
-                  "text": "Un vârf muntos proeminent din Pirinei, situat lângă Aneto.",
+                  "text": "Vârf montan în masivul Aneto, unul dintre cele mai înalte din Pirinei.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -2032,7 +2032,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Un vârf muntos din Pirinei, situat în apropiere de Aneto.",
+                  "text": "Vârf ascuțit în masivul Posets-Maladeta lângă Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -2050,7 +2050,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "Un vârf din zona Maladeta a Pirineilor Centrali.",
+                  "text": "Vârf de peste 3000 m pe creasta principală a Pirineilor lângă ghețarul Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -2068,7 +2068,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cap de la Vall",
-                  "text": "Un vârf muntos din Pirineii Centrali, lângă Aneto.",
+                  "text": "Vârf cu vedere spre creasta centrală a Pirineilor și masivul Maladeta.",
                   "category": "landmark",
                   "coords": [
                         0.670552,
@@ -2077,7 +2077,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'Aragüells",
-                  "text": "Un vârf stâncos din masivul Maladeta din Spania.",
+                  "text": "Vârf stâncos la marginea ghețarului Aneto în Pirinei.",
                   "category": "landmark",
                   "coords": [
                         0.627827,
@@ -2088,7 +2088,7 @@ export const spainNatureV2: POI[] = [
       "en": [
             {
                   "name": "Pico Maldito",
-                  "text": "A prominent mountain peak in the Pyrenees near Aneto.",
+                  "text": "Mountain peak in the Aneto massif, one of the highest in the Pyrenees.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -2106,7 +2106,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "A mountain peak located in the Pyrenees near Aneto.",
+                  "text": "Sharp peak in the Posets-Maladeta massif near Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -2124,7 +2124,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "A peak in the Maladeta area of the Central Pyrenees.",
+                  "text": "3000-metre peak on the main Pyrenean ridge near the Aneto glacier.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -2142,7 +2142,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cap de la Vall",
-                  "text": "A mountain peak in the Central Pyrenees near Aneto.",
+                  "text": "Peak with views of the central Pyrenean ridge and the Maladeta massif.",
                   "category": "landmark",
                   "coords": [
                         0.670552,
@@ -2151,7 +2151,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Tuca d'Aragüells",
-                  "text": "A rocky peak in the Maladeta massif in Spain.",
+                  "text": "Rocky peak on the edge of the Aneto glacier in the Pyrenees.",
                   "category": "landmark",
                   "coords": [
                         0.627827,
@@ -2255,7 +2255,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Risco de los Claveles",
-                  "text": "Risco de los Claveles ist ein markanter Berggipfel in der Sierra de Guadarrama.",
+                  "text": "Granitfelsen in der Sierra de Guadarrama mit Kletterrouten.",
                   "category": "landmark",
                   "coords": [
                         -3.952329,
@@ -2320,7 +2320,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Risco de los Claveles",
-                  "text": "A Risco de los Claveles egy jellegzetes hegycsúcs a Sierra de Guadarramában.",
+                  "text": "Gránitszikla a Sierra de Guadarramában mászóutakkal.",
                   "category": "landmark",
                   "coords": [
                         -3.952329,
@@ -2385,7 +2385,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Risco de los Claveles",
-                  "text": "Risco de los Claveles este un vârf muntos proeminent din Sierra de Guadarrama.",
+                  "text": "Stâncă de granit în Sierra de Guadarrama cu trasee de cățărare.",
                   "category": "landmark",
                   "coords": [
                         -3.952329,
@@ -2450,7 +2450,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Risco de los Claveles",
-                  "text": "Risco de los Claveles is a prominent mountain peak in the Sierra de Guadarrama.",
+                  "text": "Granite rock formation in the Sierra de Guadarrama with climbing routes.",
                   "category": "landmark",
                   "coords": [
                         -3.952329,
@@ -2536,7 +2536,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Museo de la Memoria de Ribadelago",
-                  "text": "Ein Museum, das an die Geschichte und die Tragödie von Ribadelago erinnert.",
+                  "text": "Museum über das Dammbruch-Unglück von 1959, das das Dorf Ribadelago überflutete.",
                   "category": "museum",
                   "coords": [
                         -6.738746,
@@ -2601,7 +2601,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Museo de la Memoria de Ribadelago",
-                  "text": "Múzeum, amely Ribadelago történelmének és tragédiájának állít emléket.",
+                  "text": "Múzeum az 1959-es ribadelagói gátszakadás tragédiájáról, amely elárasztotta a falut.",
                   "category": "museum",
                   "coords": [
                         -6.738746,
@@ -2666,7 +2666,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Museo de la Memoria de Ribadelago",
-                  "text": "Un muzeu care comemorează istoria și tragedia localității Ribadelago.",
+                  "text": "Muzeu dedicat dezastrului barajului din 1959 care a inundat satul Ribadelago.",
                   "category": "museum",
                   "coords": [
                         -6.738746,
@@ -2731,7 +2731,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Museo de la Memoria de Ribadelago",
-                  "text": "A museum dedicated to the history and the tragedy of Ribadelago.",
+                  "text": "Museum documenting the 1959 Ribadelago dam disaster that submerged the village.",
                   "category": "museum",
                   "coords": [
                         -6.738746,
@@ -4076,7 +4076,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de Santa Anna",
-                  "text": "Die Überreste einer historischen Einsiedelei auf dem Berg.",
+                  "text": "Einsiedelei auf dem Montserrat-Berg, der heiligen Anna gewidmet, mit Aussicht.",
                   "category": "historical",
                   "coords": [
                         1.829597,
@@ -4150,7 +4150,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de Santa Anna",
-                  "text": "Egy történelmi remetelak maradványai a hegyen.",
+                  "text": "Remetelak a Montserrat-hegyen, Szent Annának szentelve, kilátással.",
                   "category": "historical",
                   "coords": [
                         1.829597,
@@ -4224,7 +4224,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de Santa Anna",
-                  "text": "Rămășițele unei schituri istorice de pe munte.",
+                  "text": "Schit pe muntele Montserrat, dedicat Sfintei Ana, cu vedere panoramică.",
                   "category": "historical",
                   "coords": [
                         1.829597,
@@ -4298,7 +4298,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de Santa Anna",
-                  "text": "The remains of a historical hermitage on the mountain.",
+                  "text": "Hermitage on Montserrat mountain, dedicated to Saint Anne, with views.",
                   "category": "historical",
                   "coords": [
                         1.829597,
@@ -4393,7 +4393,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Cala Petita",
-                  "text": "Eine kleine, naturbelassene Bucht, die über einen Wanderweg erreichbar ist.",
+                  "text": "Kleine Sandbucht in der Nähe der Drachenhöhlen auf Mallorca.",
                   "category": "recreational",
                   "coords": [
                         3.352988,
@@ -4431,7 +4431,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Cala Petita",
-                  "text": "Kicsi, természetes öböl, amely gyalogúton érhető el.",
+                  "text": "Kis homokos öböl a Drakula-barlangok közelében Mallorcán.",
                   "category": "recreational",
                   "coords": [
                         3.352988,
@@ -4469,7 +4469,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Cala Petita",
-                  "text": "Un golf mic și natural, accesibil printr-o potecă de drumeție.",
+                  "text": "Golfuleț nisipos mic lângă Peșterile Dragonului în Mallorca.",
                   "category": "recreational",
                   "coords": [
                         3.352988,
@@ -4507,7 +4507,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Small Beach",
-                  "text": "A small, natural cove accessible via a hiking trail.",
+                  "text": "Small sandy cove near the Dragon Caves in Mallorca.",
                   "category": "recreational",
                   "coords": [
                         3.352988,
@@ -5954,7 +5954,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Menhir de Santa Margarida",
-                  "text": "Ein antiker Menhir in der naturbelassenen Umgebung der Garrotxa.",
+                  "text": "Prähistorischer Menhir in der vulkanischen Landschaft von La Garrotxa.",
                   "category": "historical",
                   "coords": [
                         2.541527,
@@ -6028,7 +6028,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Menhir de Santa Margarida",
-                  "text": "Antik menhir a Garrotxa természetes környezetében.",
+                  "text": "Őskori menhir a Garrotxa vulkanikus táján.",
                   "category": "historical",
                   "coords": [
                         2.541527,
@@ -6102,7 +6102,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Menhir de Santa Margarida",
-                  "text": "Un menhir antic situat în cadrul natural din Garrotxa.",
+                  "text": "Menhir preistoric în peisajul vulcanic al Garrotxa.",
                   "category": "historical",
                   "coords": [
                         2.541527,
@@ -6176,7 +6176,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Menhir de Santa Margarida",
-                  "text": "An ancient menhir situated in the natural surroundings of Garrotxa.",
+                  "text": "Prehistoric standing stone in the volcanic landscape of Garrotxa.",
                   "category": "historical",
                   "coords": [
                         2.541527,
@@ -6361,7 +6361,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Piscina La Cañada",
-                  "text": "Piscina La Cañada ist eine Freizeitanlage mit Schwimmbecken in den Lagunas de Ruidera.",
+                  "text": "Natürliches Schwimmbecken in den Lagunas de Ruidera mit türkisfarbenem Wasser.",
                   "category": "recreational",
                   "coords": [
                         -2.856965,
@@ -6415,7 +6415,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de San Pedro de Verona",
-                  "text": "Die Ermita de San Pedro de Verona ist eine Kapelle im Gebiet der Ruidera-Lagunen.",
+                  "text": "Einsiedelei in der Nähe der Lagunas de Ruidera-Seen, dem heiligen Petrus von Verona gewidmet.",
                   "category": "religious",
                   "coords": [
                         -2.815606,
@@ -6444,7 +6444,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Piscina La Cañada",
-                  "text": "A Piscina La Cañada egy medencékkel rendelkező szabadidős létesítmény a Ruidera-lagúnáknál.",
+                  "text": "Természetes úszómedence a Ruidera-tavak türkizkék vizében.",
                   "category": "recreational",
                   "coords": [
                         -2.856965,
@@ -6498,7 +6498,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de San Pedro de Verona",
-                  "text": "Az Ermita de San Pedro de Verona egy kápolna a Ruidera-lagúnák területén.",
+                  "text": "Remetelak a Lagunas de Ruidera-tavak közelében, Veronai Szent Péternek szentelve.",
                   "category": "religious",
                   "coords": [
                         -2.815606,
@@ -6527,7 +6527,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Piscina La Cañada",
-                  "text": "Piscina La Cañada este o facilitate de agrement cu piscine în Lagunas de Ruidera.",
+                  "text": "Bazin natural de înot în apele turcoaz ale Lagunelor Ruidera.",
                   "category": "recreational",
                   "coords": [
                         -2.856965,
@@ -6581,7 +6581,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de San Pedro de Verona",
-                  "text": "Ermita de San Pedro de Verona este o capelă situată în zona lagunelor Ruidera.",
+                  "text": "Schit lângă lacurile Lagunas de Ruidera, dedicat Sfântului Petru din Verona.",
                   "category": "religious",
                   "coords": [
                         -2.815606,
@@ -6610,7 +6610,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Piscina La Cañada",
-                  "text": "Piscina La Cañada is a recreational facility with swimming pools in the Ruidera Lagoons.",
+                  "text": "Swimming area in the turquoise waters of the Lagunas de Ruidera.",
                   "category": "recreational",
                   "coords": [
                         -2.856965,
@@ -6664,7 +6664,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Ermita de San Pedro de Verona",
-                  "text": "Ermita de San Pedro de Verona is a chapel located in the area of the Ruidera Lagoons.",
+                  "text": "Hermitage near the Lagunas de Ruidera lakes, dedicated to Saint Peter of Verona.",
                   "category": "religious",
                   "coords": [
                         -2.815606,
@@ -6821,7 +6821,7 @@ export const spainNatureV2: POI[] = [
       "de": [
             {
                   "name": "Castelo dos Condes de Lemos",
-                  "text": "Mittelalterliche Burg über Castro Caldelas.",
+                  "text": "Mittelalterliche Burg auf einem Hügel über dem Sil-Canyon in Galicien.",
                   "category": "castle",
                   "coords": [
                         -7.415823,
@@ -6830,7 +6830,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Castro de San Martiño",
-                  "text": "Prähistorische Wallburg im Sil-Canyon.",
+                  "text": "Keltischer Hügelfestung mit Blick auf die Sil-Schlucht.",
                   "category": "historical",
                   "coords": [
                         -7.418707,
@@ -6839,7 +6839,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Muíño do Labrego",
-                  "text": "Historische traditionelle Wassermühle in der Sil-Region.",
+                  "text": "Traditionelle Wassermühle am Sil-Fluss in der Schlucht.",
                   "category": "historical",
                   "coords": [
                         -7.406492,
@@ -6848,7 +6848,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Miradoiro de Matacás",
-                  "text": "Aussichtspunkt mit Panoramablick auf den Sil-Canyon.",
+                  "text": "Aussichtspunkt mit Blick auf die Klippen und den Fluss der Sil-Schlucht.",
                   "category": "natural",
                   "coords": [
                         -7.437463,
@@ -6857,7 +6857,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Casa Grande do Couto",
-                  "text": "Traditionelles Herrenhaus im Gebiet des Flusses Sil.",
+                  "text": "Großes Landhaus im Tal der Sil-Schlucht.",
                   "category": "historical",
                   "coords": [
                         -7.439689,
@@ -6866,7 +6866,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Igrexa de San Salvador de Lumeares",
-                  "text": "Historische Pfarrkirche in der Sil-Schlucht.",
+                  "text": "Kirche in der Region Sil Canyon, im romanischen Stil.",
                   "category": "religious",
                   "coords": [
                         -7.461428,
@@ -6875,7 +6875,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Concello do Castro de Caldelas",
-                  "text": "Rathaus von Castro Caldelas.",
+                  "text": "Rathausgebäude in Castro Caldelas mit Blick auf den Sil Canyon.",
                   "category": "landmark",
                   "coords": [
                         -7.415364,
@@ -6886,7 +6886,7 @@ export const spainNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Castelo dos Condes de Lemos",
-                  "text": "Középkori vár Castro Caldelas felett.",
+                  "text": "Középkori vár egy dombon a Sil-szurdok felett Galiciában.",
                   "category": "castle",
                   "coords": [
                         -7.415823,
@@ -6895,7 +6895,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Castro de San Martiño",
-                  "text": "Őskori földvár a Sil-kanyonban.",
+                  "text": "Kelta domb erőd a Sil-szurdokra néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -7.418707,
@@ -6904,7 +6904,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Muíño do Labrego",
-                  "text": "Történelmi vízimalom a Sil régióban.",
+                  "text": "Hagyományos vízimalom a Sil-folyón a szurdokban.",
                   "category": "historical",
                   "coords": [
                         -7.406492,
@@ -6913,7 +6913,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Miradoiro de Matacás",
-                  "text": "Kilátó panorámás kilátással a Sil-kanyonra.",
+                  "text": "Kilátó a Sil-szurdok szikláira és folyójára néző kilátással.",
                   "category": "natural",
                   "coords": [
                         -7.437463,
@@ -6922,7 +6922,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Casa Grande do Couto",
-                  "text": "Hagyományos kúria a Sil folyó környékén.",
+                  "text": "Nagy kastély a Sil-szurdok völgyében.",
                   "category": "historical",
                   "coords": [
                         -7.439689,
@@ -6931,7 +6931,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Igrexa de San Salvador de Lumeares",
-                  "text": "Történelmi plébániatemplom a Sil-kanyonban.",
+                  "text": "Templom a Sil Canyon régióban, román stílusban.",
                   "category": "religious",
                   "coords": [
                         -7.461428,
@@ -6940,7 +6940,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Concello do Castro de Caldelas",
-                  "text": "Castro Caldelas városházája.",
+                  "text": "Városháza épület Castro Caldelasban, a Sil Canyonra néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         -7.415364,
@@ -6951,7 +6951,7 @@ export const spainNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Castelo dos Condes de Lemos",
-                  "text": "Castel medieval care domină Castro Caldelas.",
+                  "text": "Castel medieval pe o colină deasupra canionului Sil în Galicia.",
                   "category": "castle",
                   "coords": [
                         -7.415823,
@@ -6960,7 +6960,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Castro de San Martiño",
-                  "text": "Fortificație preistorică în canionul Sil.",
+                  "text": "Fortăreață celtică pe deal, cu vedere la Canionul Sil.",
                   "category": "historical",
                   "coords": [
                         -7.418707,
@@ -6969,7 +6969,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Muíño do Labrego",
-                  "text": "Moară de apă tradițională istorică în regiunea Sil.",
+                  "text": "Moară tradițională de apă pe râul Sil în canion.",
                   "category": "historical",
                   "coords": [
                         -7.406492,
@@ -6978,7 +6978,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Miradoiro de Matacás",
-                  "text": "Punct de belvedere cu vedere panoramică asupra canionului Sil.",
+                  "text": "Punct de belvedere cu vedere la stâncile și râul Canionului Sil.",
                   "category": "natural",
                   "coords": [
                         -7.437463,
@@ -6987,7 +6987,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Casa Grande do Couto",
-                  "text": "Conac tradițional în zona râului Sil.",
+                  "text": "Conac mare în valea Canionului Sil.",
                   "category": "historical",
                   "coords": [
                         -7.439689,
@@ -6996,7 +6996,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Igrexa de San Salvador de Lumeares",
-                  "text": "Biserică parohială istorică în canionul râului Sil.",
+                  "text": "Biserică în regiunea Canionul Sil, în stil romanic.",
                   "category": "religious",
                   "coords": [
                         -7.461428,
@@ -7005,7 +7005,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Concello do Castro de Caldelas",
-                  "text": "Primăria din Castro Caldelas.",
+                  "text": "Clădirea primăriei în Castro Caldelas, cu vedere spre Canionul Sil.",
                   "category": "landmark",
                   "coords": [
                         -7.415364,
@@ -7016,7 +7016,7 @@ export const spainNatureV2: POI[] = [
       "en": [
             {
                   "name": "Castelo dos Condes de Lemos",
-                  "text": "Medieval castle overlooking Castro Caldelas.",
+                  "text": "Medieval castle on a hill overlooking the Sil Canyon in Galicia.",
                   "category": "castle",
                   "coords": [
                         -7.415823,
@@ -7025,7 +7025,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Castro de San Martiño",
-                  "text": "Prehistoric hillfort site in the Sil Canyon.",
+                  "text": "Celtic hillfort overlooking the Sil Canyon.",
                   "category": "historical",
                   "coords": [
                         -7.418707,
@@ -7034,7 +7034,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Muíño do Labrego",
-                  "text": "Historic traditional watermill in the Sil region.",
+                  "text": "Traditional water mill on the Sil River in the canyon.",
                   "category": "historical",
                   "coords": [
                         -7.406492,
@@ -7043,7 +7043,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Miradoiro de Matacás",
-                  "text": "Viewpoint with panoramic vistas of the Sil Canyon.",
+                  "text": "Viewpoint offering views of the Sil Canyon's cliffs and river.",
                   "category": "natural",
                   "coords": [
                         -7.437463,
@@ -7052,7 +7052,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Casa Grande do Couto",
-                  "text": "Traditional manor house in the Sil River area.",
+                  "text": "Large country house in the Sil Canyon valley.",
                   "category": "historical",
                   "coords": [
                         -7.439689,
@@ -7061,7 +7061,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Igrexa de San Salvador de Lumeares",
-                  "text": "Historic parish church in the Sil River Canyon.",
+                  "text": "Church in the Sil Canyon region, in Romanesque style.",
                   "category": "religious",
                   "coords": [
                         -7.461428,
@@ -7070,7 +7070,7 @@ export const spainNatureV2: POI[] = [
             },
             {
                   "name": "Concello do Castro de Caldelas",
-                  "text": "Town hall building of Castro Caldelas.",
+                  "text": "Town hall building in Castro Caldelas, overlooking the Sil Canyon.",
                   "category": "landmark",
                   "coords": [
                         -7.415364,

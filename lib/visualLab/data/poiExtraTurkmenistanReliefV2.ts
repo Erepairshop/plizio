@@ -619,7 +619,124 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
     },
   },
   {
-    id: "hasardag-peak-relief-v2",
+    id: "hasardag-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magtymguly şäher Medeniýet Öýi",
+                  "text": "Dieses zentrale Theater in Magtymguly veranstaltet kulturelle Aufführungen und Gemeindeveranstaltungen, die die künstlerischen Traditionen der Region feiern.",
+                  "category": "cultural",
+                  "coords": [
+                        56.291051,
+                        38.433039
+                  ]
+            },
+            {
+                  "name": "Magtymguly adyndaky Müzeýi",
+                  "text": "Dieses engagierte Museum bewahrt das Erbe und die literarischen Werke des berühmten turkmenischen Dichters Magtymguly Pyragy.",
+                  "category": "museum",
+                  "coords": [
+                        56.269151,
+                        38.438902
+                  ]
+            },
+            {
+                  "name": "Daýhan bazary",
+                  "text": "Dieser lebhafte Bauernmarkt in der Region Magtymguly bietet Stände, die mit frischen landwirtschaftlichen Gütern und lokalen Waren überquellen.",
+                  "category": "cultural",
+                  "coords": [
+                        56.289357,
+                        38.435689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magtymguly şäher Medeniýet Öýi",
+                  "text": "Ez a központi színház Magtymgulyban olyan kulturális előadásoknak és közösségi eseményeknek ad otthont, amelyek a régió művészeti hagyományait ünneplik.",
+                  "category": "cultural",
+                  "coords": [
+                        56.291051,
+                        38.433039
+                  ]
+            },
+            {
+                  "name": "Magtymguly adyndaky Müzeýi",
+                  "text": "Ez az elkötelezett múzeum a neves türkmén költő, Magtymguly Pyragy örökségét és irodalmi műveit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        56.269151,
+                        38.438902
+                  ]
+            },
+            {
+                  "name": "Daýhan bazary",
+                  "text": "Ez a nyüzsgő termelői piac a Magtymguly környékén friss mezőgazdasági termékekkel és helyi árukkal teli standokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        56.289357,
+                        38.435689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magtymguly şäher Medeniýet Öýi",
+                  "text": "Acest teatru central din Magtymguly găzduiește spectacole culturale și evenimente comunitare care celebrează tradițiile artistice ale regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        56.291051,
+                        38.433039
+                  ]
+            },
+            {
+                  "name": "Magtymguly adyndaky Müzeýi",
+                  "text": "Acest muzeu dedicat păstrează moștenirea și operele literare ale renumitului poet turkmen Magtymguly Pyragy.",
+                  "category": "museum",
+                  "coords": [
+                        56.269151,
+                        38.438902
+                  ]
+            },
+            {
+                  "name": "Daýhan bazary",
+                  "text": "Această piață vibrantă a fermierilor din zona Magtymguly oferă tarabe pline de produse agricole proaspete și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        56.289357,
+                        38.435689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magtymguly City House of Culture",
+                  "text": "This central theatre in Magtymguly hosts cultural performances and community events celebrating the region's artistic traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        56.291051,
+                        38.433039
+                  ]
+            },
+            {
+                  "name": "Magtymguly adyndaky Müzeýi",
+                  "text": "This dedicated museum preserves the legacy and literary works of the renowned Turkmen poet Magtymguly Pyragy.",
+                  "category": "museum",
+                  "coords": [
+                        56.269151,
+                        38.438902
+                  ]
+            },
+            {
+                  "name": "Daýhan bazary",
+                  "text": "This vibrant farmers' market in the Magtymguly area provides stalls overflowing with fresh agricultural goods and local wares.",
+                  "category": "cultural",
+                  "coords": [
+                        56.289357,
+                        38.435689
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TM-B",
     coords: [56.3, 38.4],

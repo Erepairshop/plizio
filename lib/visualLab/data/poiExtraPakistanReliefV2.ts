@@ -139,7 +139,52 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-kharan-desert-relief-v2",
+    id: "pk-kharan-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kharan",
+                  "text": "Ein Tor zur Kharan-Wüste, bekannt für seine weiten Trockenebenen und die Nähe zu historischen Wüstenfestungen.",
+                  "category": "landmark",
+                  "coords": [
+                        65.490532,
+                        28.56142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kharan",
+                  "text": "A Karán-sivatag kapuja, amely tágas, száraz síkságairól és a közeli történelmi sivatagi erődökről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        65.490532,
+                        28.56142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kharan",
+                  "text": "O poartă către deșertul Kharan, cunoscută pentru câmpiile sale aride întinse și proximitatea față de fortărețele istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        65.490532,
+                        28.56142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kharan",
+                  "text": "A gateway to the Kharan Desert, known for its vast arid plains and proximity to historic desert forts.",
+                  "category": "landmark",
+                  "coords": [
+                        65.490532,
+                        28.56142
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "PK-BA",
     coords: [65.5, 28.5],
@@ -275,7 +320,124 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-pothohar-plateau-relief-v2",
+    id: "pk-pothohar-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eid Gah Jatli",
+                  "text": "Ein Freiluft-Gebetsplatz auf dem Pothohar-Plateau, der hauptsächlich für große gemeinsame Eid-Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106545,
+                        33.20995
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia",
+                  "text": "Ein islamisches Gotteshaus, das den Bewohnern inmitten des malerischen Reliefs des Pothohar-Plateaus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107245,
+                        33.204124
+                  ]
+            },
+            {
+                  "name": "Masjad Akbar",
+                  "text": "Eine lokale Moschee, die einen friedlichen Ort für die täglichen muslimischen Gebete auf dem Pothohar-Plateau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.105495,
+                        33.19818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eid Gah Jatli",
+                  "text": "Szabadtéri imaterület a Pothohar-fennsíkon, amelyet elsősorban nagy gyülekezeti ünnepi imákra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106545,
+                        33.20995
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia",
+                  "text": "Iszlám istentiszteleti hely, amely a Pothohar-fennsík festői domborzata között szolgálja a lakókat.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107245,
+                        33.204124
+                  ]
+            },
+            {
+                  "name": "Masjad Akbar",
+                  "text": "Helyi mecset, amely békés helyet biztosít a mindennapi muszlim imákhoz a Pothohar-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        73.105495,
+                        33.19818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eid Gah Jatli",
+                  "text": "Un teren de rugăciune în aer liber pe Podișul Pothohar, folosit în principal pentru rugăciunile mari de Eid ale congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106545,
+                        33.20995
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia",
+                  "text": "Un lăcaș de cult islamic care deservește locuitorii printre relieful pitoresc al Podișului Pothohar.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107245,
+                        33.204124
+                  ]
+            },
+            {
+                  "name": "Masjad Akbar",
+                  "text": "O moschee locală care oferă un loc liniștit pentru rugăciunile musulmane zilnice pe Podișul Pothohar.",
+                  "category": "landmark",
+                  "coords": [
+                        73.105495,
+                        33.19818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eid Gah Jatli",
+                  "text": "An open-air prayer ground on the Pothohar Plateau used primarily for large congregational Eid prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106545,
+                        33.20995
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia",
+                  "text": "An Islamic place of worship serving the residents amidst the scenic relief of the Pothohar Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107245,
+                        33.204124
+                  ]
+            },
+            {
+                  "name": "Masjad Akbar",
+                  "text": "A local mosque providing a peaceful place for daily Muslim prayers on the Pothohar Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        73.105495,
+                        33.19818
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "PK-PB",
     coords: [73.0, 33.2],
@@ -411,7 +573,412 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-neelum-valley-relief-v2",
+    id: "pk-neelum-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Shareef Shah Mohala Kababmarg",
+                  "text": "Eine Bergmoschee im abgelegenen Viertel Shah Mohala des gebirgigen Neelum Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        74.181022,
+                        34.526467
+                  ]
+            },
+            {
+                  "name": "Masjid Shareef Najar Mohala Kababmarg",
+                  "text": "Ein kleines islamisches Gotteshaus für die Anwohner von Najar Mohala in den Hügeln des Neelum Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        74.178864,
+                        34.530141
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Shareef Muqam Awoora",
+                  "text": "Die Jamia Masjid Shareef Muqam Awoora dient als lokales islamisches spirituelles Zentrum in den malerischen Tälern der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        74.182357,
+                        34.553489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Laderwan",
+                  "text": "Die Jamia Masjid Laderwan ist ein islamischer Gebetssaal für die lokale muslimische Gemeinde in der bergigen Region des Neelum-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        74.175011,
+                        34.543775
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Hirri Bala",
+                  "text": "Die in der Region des Neelum-Tals gelegene Jamia Masjid Hirri Bala ist eine bedeutende muslimische Gemeindemoschee für die lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        74.195767,
+                        34.526203
+                  ]
+            },
+            {
+                  "name": "Govt BHSS Mosque",
+                  "text": "Diese an die Government Boys Higher Secondary School angegliederte islamische Moschee bietet Schülern und Lehrern einen Raum für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.18894,
+                        34.526704
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kababmarg",
+                  "text": "Die Jamia Masjid Kababmarg ist ein zentraler islamischer Versammlungsort für das Freitagsgebet im weiteren Gebiet des Neelum-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        74.180629,
+                        34.529542
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Awoora",
+                  "text": "Diese große muslimische Moschee dient dem Dorf Awoora als Mittelpunkt des religiösen und gemeinschaftlichen Lebens.",
+                  "category": "landmark",
+                  "coords": [
+                        74.188662,
+                        34.556887
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Batergam",
+                  "text": "Die Jamia Masjid Batergam bietet in ihrem geräumigen Gebetssaal Platz für große muslimische Gemeinden beim Freitagsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.217793,
+                        34.529536
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kupwara",
+                  "text": "Die Jamia Masjid Kupwara ist ein wichtiges islamisches Wahrzeichen des Bezirks, das für seine Holzschnitzereien und spirituelle Bedeutung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261032,
+                        34.526647
+                  ]
+            },
+            {
+                  "name": "Darasgah Mosque",
+                  "text": "Die Darasgah-Moschee, die oft an eine islamische Religionsschule angegliedert ist, bietet einen ruhigen Rahmen für Gebete und Koranstudien.",
+                  "category": "landmark",
+                  "coords": [
+                        74.252485,
+                        34.527932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Shareef Shah Mohala Kababmarg",
+                  "text": "Hegyi mecset a hegyvidéki Neelum-völgy eldugott Shah Mohala negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.181022,
+                        34.526467
+                  ]
+            },
+            {
+                  "name": "Masjid Shareef Najar Mohala Kababmarg",
+                  "text": "Egy kis iszlám istentiszteleti hely Najar Mohala lakói számára a Neelum-völgy dombjain.",
+                  "category": "landmark",
+                  "coords": [
+                        74.178864,
+                        34.530141
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Shareef Muqam Awoora",
+                  "text": "A Jamia Masjid Shareef Muqam Awoora helyi iszlám szellemi központként szolgál a régió festői völgyeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        74.182357,
+                        34.553489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Laderwan",
+                  "text": "A Jamia Masjid Laderwan egy iszlám imaterem, amely a helyi muszlim közösséget szolgálja ki a hegyvidéki Neelum-völgy térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.175011,
+                        34.543775
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Hirri Bala",
+                  "text": "A Neelum-völgy régiójában található Jamia Masjid Hirri Bala egy jelentős muszlim gyülekezeti mecset a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.195767,
+                        34.526203
+                  ]
+            },
+            {
+                  "name": "Govt BHSS Mosque",
+                  "text": "A Government Boys Higher Secondary School fiúiskolához tartozó iszlám mecset napi imateret biztosít a diákok és a személyzet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.18894,
+                        34.526704
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kababmarg",
+                  "text": "A Jamia Masjid Kababmarg a pénteki imák központi iszlám gyülekezési helye a tágabb Neelum-völgy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.180629,
+                        34.529542
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Awoora",
+                  "text": "Az Awoora falut szolgáló nagy muszlim mecset a vallási és közösségi élet központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        74.188662,
+                        34.556887
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Batergam",
+                  "text": "A Jamia Masjid Batergam tágas imatermében nagy muszlim gyülekezeteknek ad helyet a pénteki imák alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        74.217793,
+                        34.529536
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kupwara",
+                  "text": "A Jamia Masjid Kupwara a kerület egyik legfontosabb iszlám nevezetessége, amely bonyolult famunkáiról és spirituális jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261032,
+                        34.526647
+                  ]
+            },
+            {
+                  "name": "Darasgah Mosque",
+                  "text": "A gyakran iszlám vallási iskolával együtt működő Darasgah mecset békés környezetet kínál az imához és a Korán tanulmányozásához.",
+                  "category": "landmark",
+                  "coords": [
+                        74.252485,
+                        34.527932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Shareef Shah Mohala Kababmarg",
+                  "text": "O moschee montană în cartierul izolat Shah Mohala din valea muntoasă Neelum.",
+                  "category": "landmark",
+                  "coords": [
+                        74.181022,
+                        34.526467
+                  ]
+            },
+            {
+                  "name": "Masjid Shareef Najar Mohala Kababmarg",
+                  "text": "Un mic lăcaș de cult islamic pentru locuitorii din Najar Mohala, pe dealurile Văii Neelum.",
+                  "category": "landmark",
+                  "coords": [
+                        74.178864,
+                        34.530141
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Shareef Muqam Awoora",
+                  "text": "Jamia Masjid Shareef Muqam Awoora servește ca centru spiritual islamic local în văile pitorești ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        74.182357,
+                        34.553489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Laderwan",
+                  "text": "Jamia Masjid Laderwan este o sală de rugăciune islamică care găzduiește comunitatea musulmană locală în zona muntoasă a văii Neelum.",
+                  "category": "landmark",
+                  "coords": [
+                        74.175011,
+                        34.543775
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Hirri Bala",
+                  "text": "Situată în regiunea Văii Neelum, Jamia Masjid Hirri Bala este o moschee congregațională musulmană importantă pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        74.195767,
+                        34.526203
+                  ]
+            },
+            {
+                  "name": "Govt BHSS Mosque",
+                  "text": "Atașată la Government Boys Higher Secondary School, această moschee islamică oferă un spațiu de rugăciune zilnică pentru studenți și personal.",
+                  "category": "landmark",
+                  "coords": [
+                        74.18894,
+                        34.526704
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kababmarg",
+                  "text": "Jamia Masjid Kababmarg este un loc central de adunare islamică pentru rugăciunile de vineri din zona mai largă a văii Neelum.",
+                  "category": "landmark",
+                  "coords": [
+                        74.180629,
+                        34.529542
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Awoora",
+                  "text": "Deservind satul Awoora, această mare moschee musulmană funcționează ca punct central pentru viața religioasă și comunală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.188662,
+                        34.556887
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Batergam",
+                  "text": "Jamia Masjid Batergam găzduiește mari congregații musulmane pentru rugăciunile de vineri în sala sa spațioasă de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        74.217793,
+                        34.529536
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kupwara",
+                  "text": "Jamia Masjid Kupwara este un punct de reper islamic cheie în district, cunoscut pentru sculpturile sale complicate în lemn și semnificația spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261032,
+                        34.526647
+                  ]
+            },
+            {
+                  "name": "Darasgah Mosque",
+                  "text": "Funcționând adesea alături de o școală religioasă islamică, Moscheea Darasgah oferă un cadru liniștit pentru rugăciune și studiu coranic.",
+                  "category": "landmark",
+                  "coords": [
+                        74.252485,
+                        34.527932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Shareef Shah Mohala Kababmarg",
+                  "text": "A mountain mosque in the secluded Shah Mohala neighborhood of the mountainous Neelum Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        74.181022,
+                        34.526467
+                  ]
+            },
+            {
+                  "name": "Masjid Shareef Najar Mohala Kababmarg",
+                  "text": "A small Islamic house of worship for the residents of Najar Mohala in the hills of the Neelum Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        74.178864,
+                        34.530141
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Shareef Muqam Awoora",
+                  "text": "The Jamia Masjid Shareef Muqam Awoora serves as a local Islamic spiritual center in the scenic valleys of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        74.182357,
+                        34.553489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Laderwan",
+                  "text": "The Jamia Masjid Laderwan is an Islamic prayer hall accommodating the local Muslim community in the mountainous Neelum Valley area.",
+                  "category": "landmark",
+                  "coords": [
+                        74.175011,
+                        34.543775
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Hirri Bala",
+                  "text": "Set in the Neelum Valley region, Jamia Masjid Hirri Bala is a prominent Muslim congregation mosque for the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        74.195767,
+                        34.526203
+                  ]
+            },
+            {
+                  "name": "Govt BHSS Mosque",
+                  "text": "Attached to the Government Boys Higher Secondary School, this Islamic mosque provides a daily prayer space for students and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        74.18894,
+                        34.526704
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kababmarg",
+                  "text": "Jamia Masjid Kababmarg is a central Islamic gathering place for Friday prayers in the wider Neelum Valley area.",
+                  "category": "landmark",
+                  "coords": [
+                        74.180629,
+                        34.529542
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Awoora",
+                  "text": "Serving the village of Awoora, this grand Muslim mosque functions as the focal point for religious and communal life.",
+                  "category": "landmark",
+                  "coords": [
+                        74.188662,
+                        34.556887
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Batergam",
+                  "text": "The Jamia Masjid Batergam accommodates large Muslim congregations for Jum'ah prayers in its spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        74.217793,
+                        34.529536
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Kupwara",
+                  "text": "The Jamia Masjid Kupwara is a key Islamic landmark in the district, known for its intricate woodwork and spiritual significance.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261032,
+                        34.526647
+                  ]
+            },
+            {
+                  "name": "Darasgah Mosque",
+                  "text": "Often functioning alongside an Islamic religious school, the Darasgah Mosque offers a peaceful setting for prayer and Quranic study.",
+                  "category": "landmark",
+                  "coords": [
+                        74.252485,
+                        34.527932
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-JK",
     coords: [74.2, 34.6],
@@ -479,7 +1046,52 @@ export const poiExtraPakistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pk-swat-valley-relief-v2",
+    id: "pk-swat-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suspension bridge",
+                  "text": "Eine schmale Fußgänger-Hängebrücke, die sich über das tosende Wasser des Swat-Flusses spannt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.38684,
+                        35.146119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suspension bridge",
+                  "text": "Egy keskeny gyalogos függőhíd, amely a Swat-folyó zúgó vize felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        72.38684,
+                        35.146119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suspension bridge",
+                  "text": "Un pod suspendat îngust pentru pietoni, care traversează apele învolburate ale râului Swat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.38684,
+                        35.146119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suspension bridge",
+                  "text": "A narrow pedestrian suspension bridge spanning across the rushing waters of the Swat River.",
+                  "category": "landmark",
+                  "coords": [
+                        72.38684,
+                        35.146119
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-KP",
     coords: [72.3, 35.1],
@@ -615,7 +1227,52 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-kumrat-valley-relief-v2",
+    id: "pk-kumrat-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thal Village",
+                  "text": "Ein malerisches Bergdorf, bekannt für seine kunstvoll geschnitzte Moschee aus Zedernholz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.245514,
+                        35.478232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thal Village",
+                  "text": "Festői hegyi falu, amely művészien faragott cédrusfa mecsetjéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        72.245514,
+                        35.478232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thal Village",
+                  "text": "Un sat montan pitoresc, cunoscut pentru moscheea sa din lemn de cedru sculptată artistic.",
+                  "category": "landmark",
+                  "coords": [
+                        72.245514,
+                        35.478232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thal Village",
+                  "text": "A picturesque mountain village known for its artistically carved cedarwood mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        72.245514,
+                        35.478232
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-KP",
     coords: [72.2, 35.5],
@@ -683,7 +1340,268 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-kalasha-valleys-relief-v2",
+    id: "pk-kalasha-valleys-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rumboor valley (Grum village)",
+                  "text": "Eines der drei Kalasha-Täler, bekannt für seine einzigartige indigene Kultur und die traditionellen Holzhäuser im Dorf Grum.",
+                  "category": "landmark",
+                  "coords": [
+                        71.693277,
+                        35.775187
+                  ]
+            },
+            {
+                  "name": "Bamburait valley",
+                  "text": "Das größte der Kalasha-Täler, charakterisiert durch seine terrassierten Felder und die lebendigen traditionellen Feste der lokalen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        71.691357,
+                        35.700072
+                  ]
+            },
+            {
+                  "name": "Kalasha Dur Museum",
+                  "text": "Ein Kulturzentrum im Dorf Brun, das die handgefertigten Textilien, den Schmuck und die Geschichte des Kalasha-Volkes ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        71.682162,
+                        35.697459
+                  ]
+            },
+            {
+                  "name": "Bashaleni kalasha Maternity Home",
+                  "text": "Ein traditionelles Absonderungshaus der Kalasha, in dem Frauen während der Menstruation und der Geburt nach alten Bräuchen verweilen.",
+                  "category": "landmark",
+                  "coords": [
+                        71.677368,
+                        35.695939
+                  ]
+            },
+            {
+                  "name": "Jashta Khan",
+                  "text": "Ein heiliger Tempel der Kalasha, der Jashta gewidmet ist, der Schutzgottheit der Kinder und des häuslichen Herdes.",
+                  "category": "landmark",
+                  "coords": [
+                        71.683398,
+                        35.699248
+                  ]
+            },
+            {
+                  "name": "Bashaleni Maternity Home",
+                  "text": "Dieses Gebäude dient der rituellen Isolation der Kalasha-Frauen und ist ein wesentlicher Bestandteil ihrer sozialen und religiösen Ordnung.",
+                  "category": "landmark",
+                  "coords": [
+                        71.684309,
+                        35.699805
+                  ]
+            },
+            {
+                  "name": "Bashaleni",
+                  "text": "Ein Gemeinschaftsbereich im Kalasha-Tal, der mit den traditionellen Lebensweisen und den rituellen Räumen der Frauen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        71.689299,
+                        35.698868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rumboor valley (Grum village)",
+                  "text": "A három Kalasha-völgy egyike, amely egyedülálló őslakos kultúrájáról és Grum falu hagyományos faházairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        71.693277,
+                        35.775187
+                  ]
+            },
+            {
+                  "name": "Bamburait valley",
+                  "text": "A legnagyobb Kalasha-völgy, amelyet teraszos földjei és a helyi közösség élénk hagyományos fesztiváljai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        71.691357,
+                        35.700072
+                  ]
+            },
+            {
+                  "name": "Kalasha Dur Museum",
+                  "text": "Brun faluban található kulturális központ, amely a kalas nép kézzel készített textíliáit, ékszereit és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        71.682162,
+                        35.697459
+                  ]
+            },
+            {
+                  "name": "Bashaleni kalasha Maternity Home",
+                  "text": "Hagyományos kalas különélő ház, ahol a nők a menstruáció és a szülés idején tartózkodnak az ősi szokások szerint.",
+                  "category": "landmark",
+                  "coords": [
+                        71.677368,
+                        35.695939
+                  ]
+            },
+            {
+                  "name": "Jashta Khan",
+                  "text": "A kalasok szent temploma, amelyet Jastának, a gyermekek és a családi tűzhely védőistenségének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        71.683398,
+                        35.699248
+                  ]
+            },
+            {
+                  "name": "Bashaleni Maternity Home",
+                  "text": "Ez az épület a kalas nők rituális elkülönítésére szolgál, és alapvető része társadalmi és vallási rendjüknek.",
+                  "category": "landmark",
+                  "coords": [
+                        71.684309,
+                        35.699805
+                  ]
+            },
+            {
+                  "name": "Bashaleni",
+                  "text": "Közösségi terület a Kalasha-völgyben, amely a hagyományos életmódhoz és a nők rituális tereihez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        71.689299,
+                        35.698868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rumboor valley (Grum village)",
+                  "text": "Una dintre cele trei văi Kalasha, cunoscută pentru cultura sa indigenă unică și casele tradiționale din lemn din satul Grum.",
+                  "category": "landmark",
+                  "coords": [
+                        71.693277,
+                        35.775187
+                  ]
+            },
+            {
+                  "name": "Bamburait valley",
+                  "text": "Cea mai mare dintre văile Kalasha, caracterizată prin câmpurile sale terasate și festivalurile tradiționale vibrante ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        71.691357,
+                        35.700072
+                  ]
+            },
+            {
+                  "name": "Kalasha Dur Museum",
+                  "text": "Un centru cultural în satul Brun, care expune textilele lucrate manual, bijuteriile și istoria poporului Kalasha.",
+                  "category": "museum",
+                  "coords": [
+                        71.682162,
+                        35.697459
+                  ]
+            },
+            {
+                  "name": "Bashaleni kalasha Maternity Home",
+                  "text": "O casă tradițională de izolare a poporului Kalasha, unde femeile stau în timpul menstruației și al nașterii, conform obiceiurilor vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        71.677368,
+                        35.695939
+                  ]
+            },
+            {
+                  "name": "Jashta Khan",
+                  "text": "Un templu sacru al poporului Kalasha, dedicat lui Jashta, divinitatea protectoare a copiilor și a căminului.",
+                  "category": "landmark",
+                  "coords": [
+                        71.683398,
+                        35.699248
+                  ]
+            },
+            {
+                  "name": "Bashaleni Maternity Home",
+                  "text": "Această clădire servește pentru izolarea rituală a femeilor Kalasha și este o parte esențială a ordinii lor sociale și religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        71.684309,
+                        35.699805
+                  ]
+            },
+            {
+                  "name": "Bashaleni",
+                  "text": "O zonă comunitară în valea Kalasha, legată de modurile tradiționale de viață și spațiile rituale ale femeilor.",
+                  "category": "landmark",
+                  "coords": [
+                        71.689299,
+                        35.698868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rumboor valley (Grum village)",
+                  "text": "One of the three Kalasha valleys, known for its unique indigenous culture and traditional wooden houses in Grum village.",
+                  "category": "landmark",
+                  "coords": [
+                        71.693277,
+                        35.775187
+                  ]
+            },
+            {
+                  "name": "Bamburait valley",
+                  "text": "The largest of the Kalasha valleys, characterized by its terraced fields and the vibrant traditional festivals of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        71.691357,
+                        35.700072
+                  ]
+            },
+            {
+                  "name": "Kalasha Dur Museum",
+                  "text": "A cultural center in Brun village showcasing the handcrafted textiles, jewelry, and history of the Kalasha people.",
+                  "category": "museum",
+                  "coords": [
+                        71.682162,
+                        35.697459
+                  ]
+            },
+            {
+                  "name": "Bashaleni kalasha Maternity Home",
+                  "text": "A traditional Kalasha seclusion house where women stay during menstruation and childbirth according to ancient customs.",
+                  "category": "landmark",
+                  "coords": [
+                        71.677368,
+                        35.695939
+                  ]
+            },
+            {
+                  "name": "Jashta Khan",
+                  "text": "A sacred Kalasha temple dedicated to Jashta, the deity protecting children and the home.",
+                  "category": "landmark",
+                  "coords": [
+                        71.683398,
+                        35.699248
+                  ]
+            },
+            {
+                  "name": "Bashaleni Maternity Home",
+                  "text": "This building is used for the ritual isolation of Kalasha women and is an essential part of their social and religious order.",
+                  "category": "landmark",
+                  "coords": [
+                        71.684309,
+                        35.699805
+                  ]
+            },
+            {
+                  "name": "Bashaleni",
+                  "text": "A community area in the Kalasha valley associated with traditional ways of life and women's ritual spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        71.689299,
+                        35.698868
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-KP",
     coords: [71.7, 35.7],
@@ -751,7 +1669,196 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-shigar-valley-relief-v2",
+    id: "pk-shigar-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shigar Cold Desert (Sarfaranga Desert)",
+                  "text": "Eine faszinierende Kältewüste mit hohen Sanddünen, die auf 2.500 Metern Höhe direkt an schneebedeckte Berge grenzen.",
+                  "category": "landmark",
+                  "coords": [
+                        75.724636,
+                        35.333559
+                  ]
+            },
+            {
+                  "name": "Shigar Polo Field",
+                  "text": "Ein traditioneller Platz im Shigar-Tal, auf dem das prestigeträchtige Polo-Spiel in extremer Höhe ausgetragen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738582,
+                        35.418642
+                  ]
+            },
+            {
+                  "name": "Shigar Fort",
+                  "text": "Eine restaurierte Palastfestung aus dem 17. Jahrhundert, die auf einem massiven Felsen thront und heute als Hotel dient.",
+                  "category": "castle",
+                  "coords": [
+                        75.742665,
+                        35.422687
+                  ]
+            },
+            {
+                  "name": "Masjid Khanqa Mollah",
+                  "text": "Ein traditionelles religiöses Gebäude im Shigar-Tal, bekannt für seine kunstvollen Holzschnitzereien im balti-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738724,
+                        35.422617
+                  ]
+            },
+            {
+                  "name": "Amburiq Mosque",
+                  "text": "Diese im 14. Jahrhundert erbaute Moschee ist eine der ältesten in Baltistan und erhielt einen UNESCO-Denkmalschutzpreis.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738189,
+                        35.413492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shigar Cold Desert (Sarfaranga Desert)",
+                  "text": "Lenyűgöző hideg sivatag magas homokdűnékkel, amely 2500 méteres magasságban közvetlenül a hófödte hegyek mellett terül el.",
+                  "category": "landmark",
+                  "coords": [
+                        75.724636,
+                        35.333559
+                  ]
+            },
+            {
+                  "name": "Shigar Polo Field",
+                  "text": "Hagyományos pálya a Shigar-völgyben, ahol a nagy magasságban zajló, látványos lovaspóló mérkőzéseket rendezik.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738582,
+                        35.418642
+                  ]
+            },
+            {
+                  "name": "Shigar Fort",
+                  "text": "Egy masszív sziklán trónoló, restaurált 17. századi palotaerőd, amely ma különleges szállodaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        75.742665,
+                        35.422687
+                  ]
+            },
+            {
+                  "name": "Masjid Khanqa Mollah",
+                  "text": "Hagyományos vallási épület a Shigar-völgyben, amely a balti stílusú, művészi fafaragásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738724,
+                        35.422617
+                  ]
+            },
+            {
+                  "name": "Amburiq Mosque",
+                  "text": "Ez a 14. században épült mecset Baltisztán egyik legrégebbi épülete, amely UNESCO örökségvédelmi díjat is kapott.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738189,
+                        35.413492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shigar Cold Desert (Sarfaranga Desert)",
+                  "text": "Un deșert rece fascinant, cu dune înalte de nisip, situat la 2.500 de metri altitudine, chiar lângă munții înzăpeziți.",
+                  "category": "landmark",
+                  "coords": [
+                        75.724636,
+                        35.333559
+                  ]
+            },
+            {
+                  "name": "Shigar Polo Field",
+                  "text": "Un teren tradițional în valea Shigar, unde se desfășoară prestigioasele meciuri de polo la mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738582,
+                        35.418642
+                  ]
+            },
+            {
+                  "name": "Shigar Fort",
+                  "text": "O fortăreață-palat restaurată din secolul al XVII-lea, situată pe o stâncă masivă, servind astăzi drept hotel.",
+                  "category": "castle",
+                  "coords": [
+                        75.742665,
+                        35.422687
+                  ]
+            },
+            {
+                  "name": "Masjid Khanqa Mollah",
+                  "text": "O clădire religioasă tradițională din valea Shigar, cunoscută pentru sculpturile sale artistice în lemn în stil balti.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738724,
+                        35.422617
+                  ]
+            },
+            {
+                  "name": "Amburiq Mosque",
+                  "text": "Construită în secolul al XIV-lea, această moschee este una dintre cele mai vechi din Baltistan și a primit un premiu UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738189,
+                        35.413492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shigar Cold Desert (Sarfaranga Desert)",
+                  "text": "A fascinating cold desert with high sand dunes located at 2,500 meters altitude, directly adjacent to snow-capped mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        75.724636,
+                        35.333559
+                  ]
+            },
+            {
+                  "name": "Polo field",
+                  "text": "A traditional ground in the Shigar Valley where high-altitude polo matches are played against a backdrop of peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738582,
+                        35.418642
+                  ]
+            },
+            {
+                  "name": "Shigar Fort",
+                  "text": "A restored 17th-century palace-fortress perched on a massive rock, now serving as a heritage hotel.",
+                  "category": "castle",
+                  "coords": [
+                        75.742665,
+                        35.422687
+                  ]
+            },
+            {
+                  "name": "Masjid Khanqa Mollah",
+                  "text": "A traditional religious building in the Shigar Valley, known for its intricate Balti-style woodwork and spiritual importance.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738724,
+                        35.422617
+                  ]
+            },
+            {
+                  "name": "Amburiq Mosque",
+                  "text": "Built in the 14th century, this mosque is one of the oldest in Baltistan and received a UNESCO heritage conservation award.",
+                  "category": "landmark",
+                  "coords": [
+                        75.738189,
+                        35.413492
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-GB",
     coords: [75.7, 35.4],
@@ -819,7 +1926,160 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-khaplu-valley-relief-v2",
+    id: "pk-khaplu-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "K2 viewpoint",
+                  "text": "Ein strategischer Punkt im Khaplu-Tal, um den fernen Gipfel des K2 über den Karakorum-Ketten zu erspähen.",
+                  "category": "natural",
+                  "coords": [
+                        76.214476,
+                        35.098563
+                  ]
+            },
+            {
+                  "name": "K2 mountain view point",
+                  "text": "Dieser Ort bietet Wanderern eine beeindruckende Sicht auf das Massiv des K2 inmitten der Hochgebirgswüste.",
+                  "category": "natural",
+                  "coords": [
+                        76.243476,
+                        35.152937
+                  ]
+            },
+            {
+                  "name": "View of K2, broad peak, and Gasherbrum over the lake",
+                  "text": "Von diesem Punkt blickt man über einen klaren See auf die Gipfel von K2, Broad Peak und Gasherbrum.",
+                  "category": "natural",
+                  "coords": [
+                        76.294055,
+                        35.076004
+                  ]
+            },
+            {
+                  "name": "Barah Broq k2 view point",
+                  "text": "Ein Aussichtspunkt am Barah Broq Trek, der einen weiten und freien Blick auf den K2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        76.227882,
+                        35.120979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K2 viewpoint",
+                  "text": "Stratégiai pont a Khaplu-völgyben, ahonnan megpillantható a K2 távoli csúcsa a Karakorum-láncok felett.",
+                  "category": "natural",
+                  "coords": [
+                        76.214476,
+                        35.098563
+                  ]
+            },
+            {
+                  "name": "K2 mountain view point",
+                  "text": "Ez a hely lenyűgöző kilátást nyújt a túrázóknak a K2 masszívumára a magashegyi sivatag közepén.",
+                  "category": "natural",
+                  "coords": [
+                        76.243476,
+                        35.152937
+                  ]
+            },
+            {
+                  "name": "View of K2, broad peak, and Gasherbrum over the lake",
+                  "text": "Innen rálátás nyílik a K2, a Broad Peak és a Gasherbrum csúcsaira egy tiszta tó felett.",
+                  "category": "natural",
+                  "coords": [
+                        76.294055,
+                        35.076004
+                  ]
+            },
+            {
+                  "name": "Barah Broq k2 view point",
+                  "text": "Kilátópont a Barah Broq túraútvonalon, ahonnan tágas és zavartalan kilátás nyílik a K2-re.",
+                  "category": "natural",
+                  "coords": [
+                        76.227882,
+                        35.120979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K2 viewpoint",
+                  "text": "Un punct strategic în Valea Khaplu pentru a zări vârful îndepărtat al K2 peste lanțurile Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        76.214476,
+                        35.098563
+                  ]
+            },
+            {
+                  "name": "K2 mountain view point",
+                  "text": "Acest loc oferă drumeților o vedere impresionantă asupra masivului K2 în mijlocul deșertului montan înalt.",
+                  "category": "natural",
+                  "coords": [
+                        76.243476,
+                        35.152937
+                  ]
+            },
+            {
+                  "name": "View of K2, broad peak, and Gasherbrum over the lake",
+                  "text": "Din acest punct se pot vedea vârfurile K2, Broad Peak și Gasherbrum peste un lac limpede.",
+                  "category": "natural",
+                  "coords": [
+                        76.294055,
+                        35.076004
+                  ]
+            },
+            {
+                  "name": "Barah Broq k2 view point",
+                  "text": "Un punct de belvedere pe traseul Barah Broq, care oferă o vedere vastă și neobstrucționată spre K2.",
+                  "category": "natural",
+                  "coords": [
+                        76.227882,
+                        35.120979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "K2 viewpoint",
+                  "text": "A strategic spot in the Khaplu valley to catch a glimpse of the distant peak of K2 over the Karakoram ranges.",
+                  "category": "natural",
+                  "coords": [
+                        76.214476,
+                        35.098563
+                  ]
+            },
+            {
+                  "name": "K2 mountain view point",
+                  "text": "This spot offers hikers an impressive view of the K2 massif amidst the high-altitude desert.",
+                  "category": "natural",
+                  "coords": [
+                        76.243476,
+                        35.152937
+                  ]
+            },
+            {
+                  "name": "View of K2, broad peak, and Gasherbrum over the lake",
+                  "text": "From this point, you can look over a clear lake at the peaks of K2, Broad Peak, and Gasherbrum.",
+                  "category": "natural",
+                  "coords": [
+                        76.294055,
+                        35.076004
+                  ]
+            },
+            {
+                  "name": "Barah Broq k2 view point",
+                  "text": "A viewpoint on the Barah Broq trek offering a wide and unobstructed view of K2.",
+                  "category": "natural",
+                  "coords": [
+                        76.227882,
+                        35.120979
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-GB",
     coords: [76.3, 35.1],
@@ -887,7 +2147,196 @@ export const poiExtraPakistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pk-astore-valley-relief-v2",
+    id: "pk-astore-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Small lake",
+                  "text": "Ein kleiner, friedlicher Bergsee inmitten der rauen und unberührten Natur des Astore-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        74.815113,
+                        35.361263
+                  ]
+            },
+            {
+                  "name": "Rama Lake",
+                  "text": "Ein kristallklarer Gletschersee auf etwa 3.400 Metern Höhe, umgeben von dichten Nadelwäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        74.785524,
+                        35.33013
+                  ]
+            },
+            {
+                  "name": "al madina masjid shakuliyate bulashber gorikot astore gb",
+                  "text": "Eine lokale Moschee im Astore-Tal, die ein spiritueller Mittelpunkt für die gläubigen Bewohner ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.847601,
+                        35.219
+                  ]
+            },
+            {
+                  "name": "abu bakar masjid tarzay",
+                  "text": "Ein einfaches muslimisches Gotteshaus im Dorf Tarzay, das der lokalen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.800794,
+                        35.222251
+                  ]
+            },
+            {
+                  "name": "jamia masjid chorit",
+                  "text": "Die Hauptmoschee von Chorit, ein wichtiger Ort für die täglichen Gebete der Dorfbewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        74.763557,
+                        35.233606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Small lake",
+                  "text": "Kicsi, békés hegyi tó az Astore-völgy zord és érintetlen természetének közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.815113,
+                        35.361263
+                  ]
+            },
+            {
+                  "name": "Rama Lake",
+                  "text": "Kristálytiszta gleccsertó kb. 3400 méteres magasságban, sűrű fenyvesekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        74.785524,
+                        35.33013
+                  ]
+            },
+            {
+                  "name": "al madina masjid shakuliyate bulashber gorikot astore gb",
+                  "text": "Helyi mecset az Astore-völgyben, amely a hívő lakosok spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.847601,
+                        35.219
+                  ]
+            },
+            {
+                  "name": "abu bakar masjid tarzay",
+                  "text": "Egyszerű muszlim imaház Tarzay faluban, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.800794,
+                        35.222251
+                  ]
+            },
+            {
+                  "name": "jamia masjid chorit",
+                  "text": "Chorit főmecsetje, amely a falusiak napi imádságainak fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        74.763557,
+                        35.233606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Small lake",
+                  "text": "Un lac montan mic și liniștit, în mijlocul naturii aspre și neatinse a văii Astore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.815113,
+                        35.361263
+                  ]
+            },
+            {
+                  "name": "Rama Lake",
+                  "text": "Un lac glaciar cu ape cristaline la aproximativ 3.400 de metri altitudine, înconjurat de păduri dese de conifere.",
+                  "category": "landmark",
+                  "coords": [
+                        74.785524,
+                        35.33013
+                  ]
+            },
+            {
+                  "name": "al madina masjid shakuliyate bulashber gorikot astore gb",
+                  "text": "O moschee locală din valea Astore, care este un centru spiritual pentru locuitorii credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        74.847601,
+                        35.219
+                  ]
+            },
+            {
+                  "name": "abu bakar masjid tarzay",
+                  "text": "Un lăcaș de cult musulman simplu din satul Tarzay, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.800794,
+                        35.222251
+                  ]
+            },
+            {
+                  "name": "jamia masjid chorit",
+                  "text": "Moscheea principală din Chorit, un loc important pentru rugăciunile zilnice ale sătenilor.",
+                  "category": "landmark",
+                  "coords": [
+                        74.763557,
+                        35.233606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Small lake",
+                  "text": "A small, peaceful mountain lake amidst the rugged and pristine nature of the Astore Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        74.815113,
+                        35.361263
+                  ]
+            },
+            {
+                  "name": "Rama Lake",
+                  "text": "A crystal-clear glacial lake at about 3,400 meters elevation, surrounded by dense pine forests.",
+                  "category": "landmark",
+                  "coords": [
+                        74.785524,
+                        35.33013
+                  ]
+            },
+            {
+                  "name": "al madina masjid shakuliyate bulashber gorikot astore gb",
+                  "text": "A local mosque in the Astore Valley that serves as a spiritual center for the devout residents.",
+                  "category": "landmark",
+                  "coords": [
+                        74.847601,
+                        35.219
+                  ]
+            },
+            {
+                  "name": "abu bakar masjid tarzay",
+                  "text": "A simple Muslim place of worship in Tarzay village serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        74.800794,
+                        35.222251
+                  ]
+            },
+            {
+                  "name": "jamia masjid chorit",
+                  "text": "The main mosque of Chorit, an important site for the daily prayers of the villagers.",
+                  "category": "landmark",
+                  "coords": [
+                        74.763557,
+                        35.233606
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-GB",
     coords: [74.8, 35.3],
@@ -955,7 +2404,124 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-naltar-valley-relief-v2",
+    id: "pk-naltar-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zero Point",
+                  "text": "Ein markanter Aussichtspunkt im Naltar-Tal, der weite Blicke auf die schroffen Berggipfel und Pinienwälder bietet.",
+                  "category": "natural",
+                  "coords": [
+                        74.189638,
+                        36.155289
+                  ]
+            },
+            {
+                  "name": "Markazi Jama Masjid Bargo Bala, gilgit Pakistan",
+                  "text": "Die zentrale Moschee des Dorfes Bargo Bala, ein wichtiger Treffpunkt für die lokale muslimische Gemeinde im Naltar-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        74.139202,
+                        36.052262
+                  ]
+            },
+            {
+                  "name": "Masjid e Abu-Talib Haideri Mohallah Bargo Bala",
+                  "text": "Eine lokale Gemeinschaftsmoschee im malerischen, hochgelegenen Naltar-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        74.13583,
+                        36.050968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zero Point",
+                  "text": "Jellegzetes kilátópont a Naltar-völgyben, ahonnan pazar kilátás nyílik a meredek bércekre és a fenyőerdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        74.189638,
+                        36.155289
+                  ]
+            },
+            {
+                  "name": "Markazi Jama Masjid Bargo Bala, gilgit Pakistan",
+                  "text": "Bargo Bala falu központi mecsetje, a Naltar-völgy helyi muszlim közösségének fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        74.139202,
+                        36.052262
+                  ]
+            },
+            {
+                  "name": "Masjid e Abu-Talib Haideri Mohallah Bargo Bala",
+                  "text": "Helyi közösségi mecset a festői, magashegyi Naltar-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        74.13583,
+                        36.050968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zero Point",
+                  "text": "Un punct de belvedere emblematic din valea Naltar, oferind vederi largi spre vârfurile muntoase abrupte și pădurile de pini.",
+                  "category": "natural",
+                  "coords": [
+                        74.189638,
+                        36.155289
+                  ]
+            },
+            {
+                  "name": "Markazi Jama Masjid Bargo Bala, gilgit Pakistan",
+                  "text": "Moscheea centrală a satului Bargo Bala, un loc de întâlnire esențial pentru comunitatea musulmană locală din valea Naltar.",
+                  "category": "religious",
+                  "coords": [
+                        74.139202,
+                        36.052262
+                  ]
+            },
+            {
+                  "name": "Masjid e Abu-Talib Haideri Mohallah Bargo Bala",
+                  "text": "O moschee locală situată în pitoreasca vale de mare altitudine Naltar.",
+                  "category": "religious",
+                  "coords": [
+                        74.13583,
+                        36.050968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zero Point",
+                  "text": "A prominent viewpoint in the Naltar Valley, offering sweeping vistas of the rugged mountain peaks and pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        74.189638,
+                        36.155289
+                  ]
+            },
+            {
+                  "name": "Markazi Jama Masjid Bargo Bala, gilgit Pakistan",
+                  "text": "The central mosque of Bargo Bala village, serving as a key gathering place for the local Muslim community in Naltar Valley.",
+                  "category": "religious",
+                  "coords": [
+                        74.139202,
+                        36.052262
+                  ]
+            },
+            {
+                  "name": "Masjid e Abu-Talib Haideri Mohallah Bargo Bala",
+                  "text": "A local community mosque situated in the scenic, high-altitude Naltar Valley.",
+                  "category": "religious",
+                  "coords": [
+                        74.13583,
+                        36.050968
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-GB",
     coords: [74.2, 36.1],
@@ -1091,7 +2657,196 @@ export const poiExtraPakistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pk-gasherbrum-1-relief-v2",
+    id: "pk-gasherbrum-1-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sia Kangri",
+                  "text": "Ein 7.422 Meter hoher Berg am Treffpunkt des Baltoro- und des Siachen-Gletschers im Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        76.761207,
+                        35.662955
+                  ]
+            },
+            {
+                  "name": "Urdok II",
+                  "text": "Ein hoher Gipfel im Karakorum nahe der Gasherbrum-Gruppe, der Bergsteiger mit seiner extremen Abgeschiedenheit fordert.",
+                  "category": "natural",
+                  "coords": [
+                        76.745946,
+                        35.68796
+                  ]
+            },
+            {
+                  "name": "Baltoro Kangri",
+                  "text": "Dieser 7.312 Meter hohe Gipfel, auch Goldener Thron genannt, überragt den oberen Teil des Baltoro-Gletschers.",
+                  "category": "natural",
+                  "coords": [
+                        76.665674,
+                        35.645668
+                  ]
+            },
+            {
+                  "name": "Gasherbrum I",
+                  "text": "Mit 8.080 Metern ist der Gasherbrum I, auch Hidden Peak genannt, der elfthöchste Berg der Erde.",
+                  "category": "natural",
+                  "coords": [
+                        76.697623,
+                        35.72468
+                  ]
+            },
+            {
+                  "name": "Urdok I",
+                  "text": "Ein seltener bestiegener 7.250 Meter hoher Gipfel in der abgelegenen Grenzregion zwischen Pakistan und China.",
+                  "category": "natural",
+                  "coords": [
+                        76.729167,
+                        35.704722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sia Kangri",
+                  "text": "7422 méter magas hegy a Karakorum Baltoro- és Siachen-gleccsereinek találkozásánál.",
+                  "category": "natural",
+                  "coords": [
+                        76.761207,
+                        35.662955
+                  ]
+            },
+            {
+                  "name": "Urdok II",
+                  "text": "Magas hegycsúcs a Karakorumban a Gasherbrum-csoport közelében, amely extrém elszigeteltségével próbára teszi a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        76.745946,
+                        35.68796
+                  ]
+            },
+            {
+                  "name": "Baltoro Kangri",
+                  "text": "Ez a 7312 méter magas csúcs, más néven Aranytrón, a Baltoro-gleccser felső szakasza fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        76.665674,
+                        35.645668
+                  ]
+            },
+            {
+                  "name": "Gasherbrum I",
+                  "text": "A 8080 méter magas Gasherbrum I, más néven Hidden Peak, a Föld tizenegyedik legmagasabb hegycsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        76.697623,
+                        35.72468
+                  ]
+            },
+            {
+                  "name": "Urdok I",
+                  "text": "Ritkán megmászott, 7250 méter magas hegycsúcs Pakisztán és Kína távoli határvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        76.729167,
+                        35.704722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sia Kangri",
+                  "text": "Un munte de 7.422 de metri situat la intersecția ghețarilor Baltoro și Siachen din Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        76.761207,
+                        35.662955
+                  ]
+            },
+            {
+                  "name": "Urdok II",
+                  "text": "Un vârf înalt din Karakorum, lângă grupul Gasherbrum, care provoacă alpiniștii prin izolarea sa extremă.",
+                  "category": "natural",
+                  "coords": [
+                        76.745946,
+                        35.68796
+                  ]
+            },
+            {
+                  "name": "Baltoro Kangri",
+                  "text": "Acest vârf de 7.312 metri, numit și Tronul de Aur, domină partea superioară a ghețarului Baltoro.",
+                  "category": "natural",
+                  "coords": [
+                        76.665674,
+                        35.645668
+                  ]
+            },
+            {
+                  "name": "Gasherbrum I",
+                  "text": "Cu o înălțime de 8.080 de metri, Gasherbrum I, numit și Hidden Peak, este al unsprezecelea cel mai înalt munte de pe Pământ.",
+                  "category": "natural",
+                  "coords": [
+                        76.697623,
+                        35.72468
+                  ]
+            },
+            {
+                  "name": "Urdok I",
+                  "text": "Un vârf de 7.250 de metri, rar escaladat, situat în regiunea de frontieră îndepărtată dintre Pakistan și China.",
+                  "category": "natural",
+                  "coords": [
+                        76.729167,
+                        35.704722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sia Kangri",
+                  "text": "A 7,422-meter mountain located at the junction of the Baltoro and Siachen glaciers in the Karakoram.",
+                  "category": "natural",
+                  "coords": [
+                        76.761207,
+                        35.662955
+                  ]
+            },
+            {
+                  "name": "Urdok II",
+                  "text": "A high peak in the Karakoram near the Gasherbrum group, challenging climbers with its extreme remoteness.",
+                  "category": "natural",
+                  "coords": [
+                        76.745946,
+                        35.68796
+                  ]
+            },
+            {
+                  "name": "Baltoro Kangri",
+                  "text": "This 7,312-meter peak, also called the Golden Throne, towers over the upper reaches of the Baltoro Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        76.665674,
+                        35.645668
+                  ]
+            },
+            {
+                  "name": "Gasherbrum I",
+                  "text": "At 8,080 meters, Gasherbrum I, also known as Hidden Peak, is the eleventh highest mountain on Earth.",
+                  "category": "natural",
+                  "coords": [
+                        76.697623,
+                        35.72468
+                  ]
+            },
+            {
+                  "name": "Urdok I",
+                  "text": "A rarely climbed 7,250-meter summit in the remote border region between Pakistan and China.",
+                  "category": "natural",
+                  "coords": [
+                        76.729167,
+                        35.704722
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-GB",
     coords: [76.7, 35.7],
@@ -1159,7 +2914,268 @@ export const poiExtraPakistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pk-gasherbrum-2-relief-v2",
+    id: "pk-gasherbrum-2-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gasherbrum VII",
+                  "text": "Ein technisch schwieriger 6.955 Meter hoher Gipfel, der Teil des massiven Gasherbrum-Komplexes ist.",
+                  "category": "natural",
+                  "coords": [
+                        76.600621,
+                        35.73879
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II East",
+                  "text": "Ein markanter Nebengipfel des Gasherbrum II, der eine Höhe von 7.772 Metern in der Karakorum-Hauptkette erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        76.667954,
+                        35.754595
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II",
+                  "text": "Der Gasherbrum II ist mit 8.035 Metern der dritthöchste Gipfel im Karakorum und ein beliebtes Ziel für Achttausender-Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        76.653269,
+                        35.757732
+                  ]
+            },
+            {
+                  "name": "Gasherbrum III",
+                  "text": "Ein fast achttausend Meter hoher Riese (7.952 m), der sich dramatisch zwischen seinen höheren Nachbarn erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        76.641946,
+                        35.759734
+                  ]
+            },
+            {
+                  "name": "Gasherbrum IV",
+                  "text": "Berühmt für seine fast 3.000 Meter hohe „Leuchtende Wand“, ist dieser 7.925 Meter hohe Berg eine Legende des Alpinismus.",
+                  "category": "natural",
+                  "coords": [
+                        76.616355,
+                        35.761682
+                  ]
+            },
+            {
+                  "name": "Gasherbrum V",
+                  "text": "Ein weniger bekannter, aber imposanter 7.147 Meter hoher Gipfel südlich der Hauptgruppe der Gasherbrums.",
+                  "category": "natural",
+                  "coords": [
+                        76.6137,
+                        35.729688
+                  ]
+            },
+            {
+                  "name": "Gasherbrum VI",
+                  "text": "Ein schroffer 6.979 Meter hoher Gipfel, der die wilde Hochgebirgslandschaft des Baltoro-Gletschers vervollständigt.",
+                  "category": "natural",
+                  "coords": [
+                        76.632223,
+                        35.708752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gasherbrum VII",
+                  "text": "Technikailag nehéz, 6955 méter magas hegycsúcs, amely a hatalmas Gasherbrum-masszívum része.",
+                  "category": "natural",
+                  "coords": [
+                        76.600621,
+                        35.73879
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II East",
+                  "text": "A Gasherbrum II egyik jellegzetes mellékcsúcsa, amely 7772 méteres magasságot ér el a Karakorum főgerincén.",
+                  "category": "natural",
+                  "coords": [
+                        76.667954,
+                        35.754595
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II",
+                  "text": "A 8035 méteres Gasherbrum II a Karakorum harmadik legmagasabb csúcsa és a nyolcezres hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        76.653269,
+                        35.757732
+                  ]
+            },
+            {
+                  "name": "Gasherbrum III",
+                  "text": "Közel nyolcezer méteres óriás (7952 m), amely drámai módon emelkedik ki magasabb szomszédai közül.",
+                  "category": "natural",
+                  "coords": [
+                        76.641946,
+                        35.759734
+                  ]
+            },
+            {
+                  "name": "Gasherbrum IV",
+                  "text": "Híres a közel 3000 méter magas „Ragyogó Faláról”, ez a 7925 méteres hegy az alpinizmus egyik legendája.",
+                  "category": "natural",
+                  "coords": [
+                        76.616355,
+                        35.761682
+                  ]
+            },
+            {
+                  "name": "Gasherbrum V",
+                  "text": "Kevésbé ismert, de impozáns, 7147 méter magas hegycsúcs a Gasherbrumok főcsoportjától délre.",
+                  "category": "natural",
+                  "coords": [
+                        76.6137,
+                        35.729688
+                  ]
+            },
+            {
+                  "name": "Gasherbrum VI",
+                  "text": "Sziklás, 6979 méter magas csúcs, amely a Baltoro-gleccser vad magashegyi tájképét teszi teljessé.",
+                  "category": "natural",
+                  "coords": [
+                        76.632223,
+                        35.708752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gasherbrum VII",
+                  "text": "Un vârf de 6.955 de metri, dificil din punct de vedere tehnic, care face parte din masivul complex Gasherbrum.",
+                  "category": "natural",
+                  "coords": [
+                        76.600621,
+                        35.73879
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II East",
+                  "text": "Un vârf secundar proeminent al lui Gasherbrum II, care atinge o înălțime de 7.772 de metri în lanțul principal Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        76.667954,
+                        35.754595
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II",
+                  "text": "Gasherbrum II, de 8.035 de metri, este al treilea cel mai înalt vârf din Karakorum și o destinație populară pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        76.653269,
+                        35.757732
+                  ]
+            },
+            {
+                  "name": "Gasherbrum III",
+                  "text": "Un gigant de aproape opt mii de metri (7.952 m), care se înalță dramatic între vecinii săi mai înalți.",
+                  "category": "natural",
+                  "coords": [
+                        76.641946,
+                        35.759734
+                  ]
+            },
+            {
+                  "name": "Gasherbrum IV",
+                  "text": "Faimos pentru „Zidul Strălucitor” de aproape 3.000 de metri, acest munte de 7.925 de metri este o legendă a alpinismului.",
+                  "category": "natural",
+                  "coords": [
+                        76.616355,
+                        35.761682
+                  ]
+            },
+            {
+                  "name": "Gasherbrum V",
+                  "text": "Un vârf mai puțin cunoscut, dar impunător, de 7.147 de metri, situat la sud de grupul principal Gasherbrum.",
+                  "category": "natural",
+                  "coords": [
+                        76.6137,
+                        35.729688
+                  ]
+            },
+            {
+                  "name": "Gasherbrum VI",
+                  "text": "Un vârf abrupt de 6.979 de metri care completează peisajul montan sălbatic al ghețarului Baltoro.",
+                  "category": "natural",
+                  "coords": [
+                        76.632223,
+                        35.708752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gasherbrum VII",
+                  "text": "A technically difficult 6,955-meter peak forming part of the massive Gasherbrum complex.",
+                  "category": "natural",
+                  "coords": [
+                        76.600621,
+                        35.73879
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II East",
+                  "text": "A prominent sub-peak of Gasherbrum II, reaching an elevation of 7,772 meters in the main Karakoram range.",
+                  "category": "natural",
+                  "coords": [
+                        76.667954,
+                        35.754595
+                  ]
+            },
+            {
+                  "name": "Gasherbrum II",
+                  "text": "Gasherbrum II is the third highest peak in the Karakoram at 8,035 meters and a popular goal for eight-thousander climbers.",
+                  "category": "natural",
+                  "coords": [
+                        76.653269,
+                        35.757732
+                  ]
+            },
+            {
+                  "name": "Gasherbrum III",
+                  "text": "An almost eight-thousand-meter giant (7,952 m) rising dramatically between its higher neighbors.",
+                  "category": "natural",
+                  "coords": [
+                        76.641946,
+                        35.759734
+                  ]
+            },
+            {
+                  "name": "Gasherbrum IV",
+                  "text": "Famous for its nearly 3,000-meter 'Shining Wall', this 7,925-meter mountain is a legend of alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        76.616355,
+                        35.761682
+                  ]
+            },
+            {
+                  "name": "Gasherbrum V",
+                  "text": "A lesser-known but imposing 7,147-meter peak situated south of the main Gasherbrum group.",
+                  "category": "natural",
+                  "coords": [
+                        76.6137,
+                        35.729688
+                  ]
+            },
+            {
+                  "name": "Gasherbrum VI",
+                  "text": "A rugged 6,979-meter peak that completes the wild high-mountain landscape of the Baltoro Glacier region.",
+                  "category": "natural",
+                  "coords": [
+                        76.632223,
+                        35.708752
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-GB",
     coords: [76.6, 35.75],
@@ -1227,7 +3243,88 @@ export const poiExtraPakistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pk-masherbrum-relief-v2",
+    id: "pk-masherbrum-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mandu Kangri",
+                  "text": "Ein imposanter 7.127 Meter hoher Gipfel in den Masherbrum-Bergen des Karakorum-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        76.277261,
+                        35.648369
+                  ]
+            },
+            {
+                  "name": "Masherbrum",
+                  "text": "Dieser markante 7.821 Meter hohe Riese, auch als K1 bekannt, ist einer der technisch anspruchsvollsten Gipfel der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        76.308096,
+                        35.643379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mandu Kangri",
+                  "text": "Impozáns, 7127 méter magas hegycsúcs a Karakorum-hegység Masherbrum-vonulatában.",
+                  "category": "natural",
+                  "coords": [
+                        76.277261,
+                        35.648369
+                  ]
+            },
+            {
+                  "name": "Masherbrum",
+                  "text": "Ez a jellegzetes, 7821 méter magas óriás, más néven K1, a világ egyik technikailag legnehezebb hegycsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        76.308096,
+                        35.643379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mandu Kangri",
+                  "text": "Un vârf impunător de 7.127 de metri în munții Masherbrum din masivul Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        76.277261,
+                        35.648369
+                  ]
+            },
+            {
+                  "name": "Masherbrum",
+                  "text": "Acest gigant distinctiv de 7.821 de metri, cunoscut și sub numele de K1, este unul dintre cele mai dificile vârfuri din lume.",
+                  "category": "natural",
+                  "coords": [
+                        76.308096,
+                        35.643379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mandu Kangri",
+                  "text": "An imposing 7,127-meter peak located in the Masherbrum Mountains of the Karakoram range.",
+                  "category": "natural",
+                  "coords": [
+                        76.277261,
+                        35.648369
+                  ]
+            },
+            {
+                  "name": "Masherbrum",
+                  "text": "This distinctive 7,821-meter giant, also known as K1, is one of the world's most technically challenging peaks.",
+                  "category": "natural",
+                  "coords": [
+                        76.308096,
+                        35.643379
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-GB",
     coords: [76.3, 35.6],
@@ -1295,7 +3392,196 @@ export const poiExtraPakistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pk-spantik-relief-v2",
+    id: "pk-spantik-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laila Peak",
+                  "text": "Ein auffallend nadelartiger Gipfel im Karakorum, bekannt für seine steilen und anspruchsvollen Flanken.",
+                  "category": "natural",
+                  "coords": [
+                        74.961575,
+                        35.956526
+                  ]
+            },
+            {
+                  "name": "Spantik",
+                  "text": "Dieser auch als „Goldener Gipfel“ bekannte Berg ist berühmt für seine markante Marmorwand.",
+                  "category": "natural",
+                  "coords": [
+                        74.964287,
+                        36.056905
+                  ]
+            },
+            {
+                  "name": "Phuparash",
+                  "text": "Ein hoher Berg im Karakorum-Gebirge, der über dem Bagrot-Tal in Gilgit-Baltistan aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        74.856463,
+                        36.038238
+                  ]
+            },
+            {
+                  "name": "Malubiting",
+                  "text": "Ein gewaltiger Siebentausender im Karakorum, der durch seine drei markanten Gipfel besticht.",
+                  "category": "natural",
+                  "coords": [
+                        74.875989,
+                        36.002868
+                  ]
+            },
+            {
+                  "name": "Miar Peak",
+                  "text": "Ein vergletscherter Gipfel in der Rakaposhi-Haramosh-Gruppe, umgeben von gewaltigen Eisströmen.",
+                  "category": "natural",
+                  "coords": [
+                        74.826252,
+                        36.047448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laila Peak",
+                  "text": "Jellegzetes tűszerű csúcs a Karakorumban, meredek és technikás falairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        74.961575,
+                        35.956526
+                  ]
+            },
+            {
+                  "name": "Spantik",
+                  "text": "Az „Arany-csúcsként” is ismert hegy híres jellegzetes márványfaláról.",
+                  "category": "natural",
+                  "coords": [
+                        74.964287,
+                        36.056905
+                  ]
+            },
+            {
+                  "name": "Phuparash",
+                  "text": "Magas hegy a Karakorum-hegységben, amely a gilgit-baltisztáni Bagrot-völgy fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        74.856463,
+                        36.038238
+                  ]
+            },
+            {
+                  "name": "Malubiting",
+                  "text": "Hatalmas hétezres csúcs a Karakorumban, amely három jellegzetes csúcsával nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        74.875989,
+                        36.002868
+                  ]
+            },
+            {
+                  "name": "Miar Peak",
+                  "text": "Eljegesedett csúcs a Rakaposi-Haramos-csoportban, hatalmas jégfolyamokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        74.826252,
+                        36.047448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laila Peak",
+                  "text": "Un vârf surprinzător sub formă de ac în Karakorum, cunoscut pentru flancurile sale abrupte și dificile.",
+                  "category": "natural",
+                  "coords": [
+                        74.961575,
+                        35.956526
+                  ]
+            },
+            {
+                  "name": "Spantik",
+                  "text": "Cunoscut și sub numele de „Vârful de Aur”, acest munte este faimos pentru peretele său de marmură distinctiv.",
+                  "category": "natural",
+                  "coords": [
+                        74.964287,
+                        36.056905
+                  ]
+            },
+            {
+                  "name": "Phuparash",
+                  "text": "Un munte înalt din lanțul Karakorum, care se înalță deasupra văii Bagrot din Gilgit-Baltistan.",
+                  "category": "natural",
+                  "coords": [
+                        74.856463,
+                        36.038238
+                  ]
+            },
+            {
+                  "name": "Malubiting",
+                  "text": "Un masiv vârf de peste șapte mii de metri din Karakorum, impresionant prin cele trei culmi ale sale.",
+                  "category": "natural",
+                  "coords": [
+                        74.875989,
+                        36.002868
+                  ]
+            },
+            {
+                  "name": "Miar Peak",
+                  "text": "Un vârf glaciar din grupul Rakaposhi-Haramosh, înconjurat de fluvii de gheață imense.",
+                  "category": "natural",
+                  "coords": [
+                        74.826252,
+                        36.047448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laila Peak",
+                  "text": "A striking needle-like peak in the Karakoram, known for its steep and challenging faces.",
+                  "category": "natural",
+                  "coords": [
+                        74.961575,
+                        35.956526
+                  ]
+            },
+            {
+                  "name": "Spantik",
+                  "text": "Also known as 'Golden Peak,' this mountain is famous for its distinctive marble wall.",
+                  "category": "natural",
+                  "coords": [
+                        74.964287,
+                        36.056905
+                  ]
+            },
+            {
+                  "name": "Phuparash Peak",
+                  "text": "A high mountain in the Karakoram range, towering over the Bagrot Valley in Gilgit-Baltistan.",
+                  "category": "natural",
+                  "coords": [
+                        74.856463,
+                        36.038238
+                  ]
+            },
+            {
+                  "name": "Malubiting",
+                  "text": "A massive 7,000-meter peak in the Karakoram, impressive for its three distinct summits.",
+                  "category": "natural",
+                  "coords": [
+                        74.875989,
+                        36.002868
+                  ]
+            },
+            {
+                  "name": "Miar Peak",
+                  "text": "A glaciated peak in the Rakaposhi-Haramosh group, surrounded by vast ice streams.",
+                  "category": "natural",
+                  "coords": [
+                        74.826252,
+                        36.047448
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-GB",
     coords: [74.9, 36.0],

@@ -457,7 +457,7 @@ export const liberiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Samuel Doe's House",
-                  "text": "Sehenswürdigkeit am Zwedru Handelsmarkt.",
+                  "text": "Das ehemalige Haus von Samuel Doe im Bereich des Zwedru-Marktes.",
                   "category": "landmark",
                   "coords": [
                         -8.134398,
@@ -466,7 +466,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Zwedru Stadium View Point",
-                  "text": "Aussichtspunkt am Zwedru Handelsmarkt.",
+                  "text": "Ein malerischer Aussichtspunkt oberhalb des Zwedru-Stadions nahe dem Markt.",
                   "category": "natural",
                   "coords": [
                         -8.135923,
@@ -477,7 +477,7 @@ export const liberiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Samuel Doe's House",
-                  "text": "Látnivaló a Zwedru Handelsmarkt-nál.",
+                  "text": "Samuel Doe egykori otthona a Zwedru piac területén.",
                   "category": "landmark",
                   "coords": [
                         -8.134398,
@@ -486,7 +486,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Zwedru Stadium View Point",
-                  "text": "Kilátópont a Zwedru Handelsmarkt-nál.",
+                  "text": "Egy festői kilátó a Zwedru Stadion felett a piac közelében.",
                   "category": "natural",
                   "coords": [
                         -8.135923,
@@ -497,7 +497,7 @@ export const liberiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Samuel Doe's House",
-                  "text": "Atracție în Zwedru Handelsmarkt.",
+                  "text": "Fosta casă a lui Samuel Doe în zona pieței Zwedru.",
                   "category": "landmark",
                   "coords": [
                         -8.134398,
@@ -506,7 +506,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Zwedru Stadium View Point",
-                  "text": "Punct de belvedere în Zwedru Handelsmarkt.",
+                  "text": "Un punct de belvedere pitoresc deasupra Stadionului Zwedru lângă piață.",
                   "category": "natural",
                   "coords": [
                         -8.135923,
@@ -517,7 +517,7 @@ export const liberiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Samuel Doe's House",
-                  "text": "Attraction in Zwedru Handelsmarkt.",
+                  "text": "The former home of Samuel Doe at the Zwedru Market area.",
                   "category": "landmark",
                   "coords": [
                         -8.134398,
@@ -526,7 +526,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Zwedru Stadium View Point",
-                  "text": "Viewpoint in Zwedru Handelsmarkt.",
+                  "text": "A scenic viewpoint above Zwedru Stadium near the market.",
                   "category": "natural",
                   "coords": [
                         -8.135923,
@@ -673,7 +673,7 @@ export const liberiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Millennium Sport Center",
-                  "text": "Das Millennium Sport Center ist ein Theater und Veranstaltungsort im Gbarnga Handelszentrum.",
+                  "text": "Das Millennium Sport Center im Komplex des Gbarnga Trade Centers.",
                   "category": "cultural",
                   "coords": [
                         -9.462269,
@@ -682,7 +682,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Bong Photo Star",
-                  "text": "Bong Photo Star ist eine Galerie im Gbarnga Handelszentrum.",
+                  "text": "Das Bong Photo Star Studio im Gbarnga Trade Center.",
                   "category": "museum",
                   "coords": [
                         -9.471331,
@@ -693,7 +693,7 @@ export const liberiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Millennium Sport Center",
-                  "text": "A Millennium Sport Center egy színház és rendezvényhelyszín a Gbarnga Handelszentrum területén.",
+                  "text": "A Millennium Sportközpont a Gbarnga Kereskedelmi Központ komplexumában.",
                   "category": "cultural",
                   "coords": [
                         -9.462269,
@@ -702,7 +702,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Bong Photo Star",
-                  "text": "A Bong Photo Star egy galéria a Gbarnga Handelszentrum területén.",
+                  "text": "A Bong Photo Star stúdió a Gbarnga Kereskedelmi Központban.",
                   "category": "museum",
                   "coords": [
                         -9.471331,
@@ -713,7 +713,7 @@ export const liberiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Millennium Sport Center",
-                  "text": "Millennium Sport Center este un teatru și o sală de evenimente din Gbarnga Handelszentrum.",
+                  "text": "Centrul Sportiv Mileniu situat în complexul Gbarnga Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -9.462269,
@@ -722,7 +722,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Bong Photo Star",
-                  "text": "Bong Photo Star este o galerie situată în Gbarnga Handelszentrum.",
+                  "text": "Studioul Bong Photo Star la Gbarnga Trade Center.",
                   "category": "museum",
                   "coords": [
                         -9.471331,
@@ -733,7 +733,7 @@ export const liberiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Millennium Sport Center",
-                  "text": "Millennium Sport Center is a theatre and venue located in Gbarnga Handelszentrum.",
+                  "text": "The Millennium Sport Center located at the Gbarnga Trade Center complex.",
                   "category": "cultural",
                   "coords": [
                         -9.462269,
@@ -742,7 +742,7 @@ export const liberiaEconomicV2: POI[] = [
             },
             {
                   "name": "Bong Photo Star",
-                  "text": "Bong Photo Star is a gallery situated in Gbarnga Handelszentrum.",
+                  "text": "Bong Photo Star studio at the Gbarnga Trade Center.",
                   "category": "museum",
                   "coords": [
                         -9.471331,
@@ -844,7 +844,7 @@ export const liberiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Pakistan Point",
-                  "text": "Denkmal in Voinjama.",
+                  "text": "Die historische Stätte Pakistan Point nahe des grenzüberschreitenden Handelspostens Voinjama.",
                   "category": "historical",
                   "coords": [
                         -9.753228,
@@ -855,7 +855,7 @@ export const liberiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Pakistan Point",
-                  "text": "Emlékmű Voinjamában.",
+                  "text": "A Pakistan Point történelmi helyszín a Voinjama határátkelő kereskedelmi poszt közelében.",
                   "category": "historical",
                   "coords": [
                         -9.753228,
@@ -866,7 +866,7 @@ export const liberiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Pakistan Point",
-                  "text": "Monument în Voinjama.",
+                  "text": "Situl istoric Pakistan Point lângă postul de comerț transfrontalier Voinjama.",
                   "category": "historical",
                   "coords": [
                         -9.753228,
@@ -877,7 +877,7 @@ export const liberiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Pakistan Point",
-                  "text": "Monument in Voinjama.",
+                  "text": "Pakistan Point historical site near the Voinjama cross-border trade post.",
                   "category": "historical",
                   "coords": [
                         -9.753228,

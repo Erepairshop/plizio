@@ -2785,7 +2785,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Neuberg",
-                  "text": "Ein markanter Gipfel in der Region an der Werra.",
+                  "text": "Der Neuberg an der Werra in Thüringen ist ein Hügel in der Nähe des Flusses.",
                   "category": "landmark",
                   "coords": [
                         10.353033,
@@ -2812,7 +2812,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Mockenberg",
-                  "text": "Ein bewaldeter Gipfel in der Nähe des Flusses Werra.",
+                  "text": "Der Mockenberg an der Werra in Thüringen ist ein weiterer Hügel in der Region.",
                   "category": "landmark",
                   "coords": [
                         10.312509,
@@ -2830,7 +2830,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kreuzberghäuschen",
-                  "text": "Ein kleiner Aussichtspunkt mit Hütte in der Region Werra.",
+                  "text": "Kreuzberghäuschen: eine Schutzhütte auf dem Kreuzberg im Thüringer Wald.",
                   "category": "natural",
                   "coords": [
                         10.404069,
@@ -2859,7 +2859,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Neuberg",
-                  "text": "Egy jellegzetes hegycsúcs a Werra-folyó vidékén.",
+                  "text": "A Neuberg a Werra folyónál Türingiában egy domb a folyó közelében.",
                   "category": "landmark",
                   "coords": [
                         10.353033,
@@ -2886,7 +2886,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Mockenberg",
-                  "text": "Erdős hegycsúcs a Werra folyó közelében.",
+                  "text": "A Mockenberg a Werra folyónál Türingiában egy másik domb a régióban.",
                   "category": "landmark",
                   "coords": [
                         10.312509,
@@ -2904,7 +2904,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kreuzberghäuschen",
-                  "text": "Kis kilátóhely kunyhóval a Werra-vidéken.",
+                  "text": "Kreuzberghäuschen: egy menedékház a Kreuzberg hegyen a Türingiai-erdőben.",
                   "category": "natural",
                   "coords": [
                         10.404069,
@@ -2933,7 +2933,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Neuberg",
-                  "text": "Un vârf montan proeminent din regiunea râului Werra.",
+                  "text": "Neuberg pe râul Werra din Turingia este un deal lângă râu.",
                   "category": "landmark",
                   "coords": [
                         10.353033,
@@ -2960,7 +2960,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Mockenberg",
-                  "text": "Un vârf împădurit situat în apropierea râului Werra.",
+                  "text": "Mockenberg pe râul Werra din Turingia este un alt deal în regiune.",
                   "category": "landmark",
                   "coords": [
                         10.312509,
@@ -2978,7 +2978,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kreuzberghäuschen",
-                  "text": "Un mic punct de observație cu un foișor în regiunea Werra.",
+                  "text": "Kreuzberghäuschen: o colibă de adăpost pe dealul Kreuzberg din Pădurea Turingiană.",
                   "category": "natural",
                   "coords": [
                         10.404069,
@@ -3007,7 +3007,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Neuberg",
-                  "text": "A prominent mountain peak in the Werra River region.",
+                  "text": "Neuberg on the Werra River in Thuringia is a hill near the river.",
                   "category": "landmark",
                   "coords": [
                         10.353033,
@@ -3034,7 +3034,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Mockenberg",
-                  "text": "A forested mountain peak located near the Werra River.",
+                  "text": "Mockenberg on the Werra River in Thuringia is another hill in the region.",
                   "category": "landmark",
                   "coords": [
                         10.312509,
@@ -3052,7 +3052,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kreuzberghäuschen",
-                  "text": "A small viewpoint with a shelter in the Werra region.",
+                  "text": "Kreuzberghäuschen: a shelter hut on the Kreuzberg hill in the Thuringian Forest.",
                   "category": "natural",
                   "coords": [
                         10.404069,
@@ -4733,7 +4733,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kinderspielplatz am Zoo",
-                  "text": "Der Kinderspielplatz am Zoo in Bremerhaven ist eine ideale Ergänzung für einen Familienausflug.",
+                  "text": "Kinderspielplatz am Zoo: ein Spielplatz direkt neben dem Zoo am Meer in Bremerhaven.",
                   "category": "family",
                   "coords": [
                         8.571405,
@@ -5037,7 +5037,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kinderspielplatz am Zoo",
-                  "text": "A bremerhaveni állatkert melletti játszótér ideális kiegészítője egy családi kirándulásnak.",
+                  "text": "Kinderspielplatz am Zoo: egy játszótér a bremerhaveni Zoo am Meer mellett.",
                   "category": "family",
                   "coords": [
                         8.571405,
@@ -5341,7 +5341,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kinderspielplatz am Zoo",
-                  "text": "Locul de joacă pentru copii de lângă grădina zoologică din Bremerhaven este o completare ideală pentru o excursie în familie.",
+                  "text": "Kinderspielplatz am Zoo: un loc de joacă lângă Zoo am Meer din Bremerhaven.",
                   "category": "family",
                   "coords": [
                         8.571405,
@@ -5645,7 +5645,7 @@ export const poiExtraDe4a: POI[] = [
             },
             {
                   "name": "Kinderspielplatz am Zoo",
-                  "text": "The playground at the zoo in Bremerhaven is an ideal addition to a family outing.",
+                  "text": "Kinderspielplatz am Zoo: a playground right next to the Zoo am Meer in Bremerhaven.",
                   "category": "family",
                   "coords": [
                         8.571405,

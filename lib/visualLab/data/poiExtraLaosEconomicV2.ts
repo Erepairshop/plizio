@@ -39,7 +39,52 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "xayaburi-dam-economic-v2",
+    id: "xayaburi-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Médical Plant Conservation ",
+                  "text": "Ein Schaugarten, der dem Erhalt und der Erforschung traditioneller laotischer Heilpflanzen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.775414,
+                        19.194715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Médical Plant Conservation ",
+                  "text": "Bemutatókert, amely a hagyományos laoszi gyógynövények megőrzését és kutatását szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.775414,
+                        19.194715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Médical Plant Conservation ",
+                  "text": "O grădină botanică dedicată conservării și cercetării plantelor medicinale tradiționale laoțiene.",
+                  "category": "landmark",
+                  "coords": [
+                        101.775414,
+                        19.194715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Médical Plant Conservation ",
+                  "text": "A display garden dedicated to the conservation and study of traditional Lao medicinal plants.",
+                  "category": "landmark",
+                  "coords": [
+                        101.775414,
+                        19.194715
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LA-XA",
     coords: [101.8152, 19.2430],
@@ -75,7 +120,124 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "sepon-mine-economic-v2",
+    id: "sepon-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phou Katia",
+                  "text": "Phou Katia ist ein markanter Gipfel in der Wirtschaftszone der Sepon-Mine, der einen weiten Blick über die umliegende Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        105.89812,
+                        16.965634
+                  ]
+            },
+            {
+                  "name": "Phou Thengkham",
+                  "text": "Phou Thengkham ist ein markanter Berggipfel in der Nähe der Sepon-Minenregion.",
+                  "category": "natural",
+                  "coords": [
+                        105.912196,
+                        16.954367
+                  ]
+            },
+            {
+                  "name": "Phou Padan",
+                  "text": "Phou Padan ist ein anerkannter Berggipfel, der die Landschaft nahe dem Sepon-Abbaugebiet überragt.",
+                  "category": "natural",
+                  "coords": [
+                        106.033304,
+                        16.965039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phou Katia",
+                  "text": "A Phou Katia egy határozott hegycsúcs a Sepon bánya gazdasági övezetében, ahonnan kiterjedt kilátás nyílik a környező hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        105.89812,
+                        16.965634
+                  ]
+            },
+            {
+                  "name": "Phou Thengkham",
+                  "text": "A Phou Thengkham egy kiemelkedő hegycsúcs a Sepon bányavidék közelében.",
+                  "category": "natural",
+                  "coords": [
+                        105.912196,
+                        16.954367
+                  ]
+            },
+            {
+                  "name": "Phou Padan",
+                  "text": "A Phou Padan egy elismert hegycsúcs, amely a Sepon bányászati terület melletti táj fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        106.033304,
+                        16.965039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phou Katia",
+                  "text": "Phou Katia este un vârf distinct situat în zona economică a minei Sepon, oferind vederi întinse asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        105.89812,
+                        16.965634
+                  ]
+            },
+            {
+                  "name": "Phou Thengkham",
+                  "text": "Phou Thengkham este un vârf montan proeminent situat în apropierea regiunii miniere Sepon.",
+                  "category": "natural",
+                  "coords": [
+                        105.912196,
+                        16.954367
+                  ]
+            },
+            {
+                  "name": "Phou Padan",
+                  "text": "Phou Padan este un vârf montan recunoscut care domină peisajul din apropierea zonei miniere Sepon.",
+                  "category": "natural",
+                  "coords": [
+                        106.033304,
+                        16.965039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Katia",
+                  "text": "Phou Katia is a distinct peak located in the Sepon Mine economic zone, offering expansive views over the surrounding mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        105.89812,
+                        16.965634
+                  ]
+            },
+            {
+                  "name": "Phou Thengkham",
+                  "text": "Phou Thengkham is a notable mountain peak standing near the Sepon mining region.",
+                  "category": "natural",
+                  "coords": [
+                        105.912196,
+                        16.954367
+                  ]
+            },
+            {
+                  "name": "Phou Padan",
+                  "text": "Phou Padan is a recognised mountain peak towering over the landscape near the Sepon mining area.",
+                  "category": "natural",
+                  "coords": [
+                        106.033304,
+                        16.965039
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "LA-SV",
     coords: [105.9750, 16.9416],
@@ -147,7 +309,556 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "vientiane-logistics-park-economic-v2",
+    id: "vientiane-logistics-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wang Bua Daeng Nong Khai",
+                  "text": "Dieses ausgedehnte Feuchtgebiet verwandelt sich in der kühlen Jahreszeit in eine spektakuläre Naturattraktion, wenn Millionen von rosaroten Seerosen auf der Seeoberfläche blühen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.689418,
+                        17.791742
+                  ]
+            },
+            {
+                  "name": "Wat Salakham",
+                  "text": "Dieser lokale buddhistische Tempelkomplex, der sich durch ein kunstvoll geschnitztes Eingangsportal auszeichnet, liegt ruhig inmitten alter tropischer Bäume in einem Dorf am Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        102.651093,
+                        17.875654
+                  ]
+            },
+            {
+                  "name": "ວັດ ປາສາມາຄີທັມ",
+                  "text": "Dieser abgelegene buddhistische Ort mit seiner friedlichen Waldtempel-Atmosphäre wird von großen Baumkronen stark beschattet, die die Wohnhütten der Mönche kühlen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64262,
+                        17.86877
+                  ]
+            },
+            {
+                  "name": "ວັດ ໂພເງິນ ລຸວັນ ນະ ໂພ ທາ ຮາມ",
+                  "text": "Dieses regionale Zentrum der buddhistischen Praxis heißt die Dorfbewohner in seiner geräumigen Versammlungshalle willkommen, deren Fassade von hoch aufragenden Schlangenwächtern geziert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626203,
+                        17.846655
+                  ]
+            },
+            {
+                  "name": "ວັດສິສະຫ່ວາງຫັມມຸງຄຸນ",
+                  "text": "Die brillante Goldschablonierung an den roten Holztüren dieses buddhistischen Heiligtums unterstreicht die Verbundenheit mit der klassischen südostasiatischen religiösen Kunstkunst.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634338,
+                        17.840319
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມທອງ",
+                  "text": "Dieser regionale Kultort ist von einem markanten spitzen Turm gekrönt und beherbergt zarte Wandmalereien, die klassische lokale Folklore und buddhistische Parabeln darstellen.",
+                  "category": "religious",
+                  "coords": [
+                        102.637065,
+                        17.83494
+                  ]
+            },
+            {
+                  "name": "Wat Yai Chaleunxai",
+                  "text": "Dieser große, zentrale buddhistische Tempel der Gemeinde wird von einem weitläufigen Innenhof geprägt, in dem jährlich lebhafte Klosterfeste stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        102.681113,
+                        17.831168
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າໂພທອງໜອງຄຳແສນ",
+                  "text": "Dieses rustikale buddhistische Kloster, das in der traditionellen Waldläufer-Linie operiert, bietet eine zutiefst ruhige, in die Natur eingebettete Umgebung für strenge Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.674181,
+                        17.831376
+                  ]
+            },
+            {
+                  "name": "Wat Phon Pong Wanaram",
+                  "text": "Umgeben von einer weiß getünchten Mauer und einem kunstvoll verzierten Eingangsbogen, dient dieses dörfliche buddhistische Gelände als Bildungs- und spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657545,
+                        17.795381
+                  ]
+            },
+            {
+                  "name": "ວັດ ຈຽມປາງ ໂຊຍະຮາມ",
+                  "text": "Eingebettet zwischen den Häusern des Dorfes, verfügt diese intime buddhistische Gebetsstätte über einen mittelgroßen, ziegelgedeckten Schrein, der eine Reihe von Bronzestatuen beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64506,
+                        17.835943
+                  ]
+            },
+            {
+                  "name": "ວັດ ນາກຫໍພ້າ ບຸນຕານຸສອນ",
+                  "text": "Watnakhopha Bountanouson ist eine ruhige buddhistische Tempelanlage in der Nähe des Vientiane Logistics Park.",
+                  "category": "landmark",
+                  "coords": [
+                        102.663374,
+                        17.822724
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງແວງ",
+                  "text": "Wat Nongvèng ist ein traditioneller buddhistischer Tempel, der der lokalen Gemeinde in der Nähe des Vientiane Logistics Park dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645017,
+                        17.879696
+                  ]
+            },
+            {
+                  "name": "Wat Thep Pon Praditthram",
+                  "text": "Der buddhistische Tempel Wat Thep Pon Praditthram weist klassische laotische religiöse Architektur im Bezirk Vientiane Logistics Park auf.",
+                  "category": "landmark",
+                  "coords": [
+                        102.669244,
+                        17.798
+                  ]
+            },
+            {
+                  "name": "Wat Sao Suwannaram",
+                  "text": "Wat Sao Suwannaram ist eine friedliche buddhistische Stätte, die einen spirituellen Rückzugsort in der geschäftigen Wirtschaftszone von Vientiane bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.667718,
+                        17.800065
+                  ]
+            },
+            {
+                  "name": "Market Baan Wiang Khuk",
+                  "text": "Der Markt Baan Wiang Khuk ist ein lebhafter Marktplatz, der frische Produkte und lokale Waren in der Nähe des Vientiane Logistics Park anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.666275,
+                        17.799553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wang Bua Daeng Nong Khai",
+                  "text": "Ez a hatalmas vizes élőhely a hűvös évszakban látványos természeti attrakcióvá változik, amikor rózsaszínes-piros tavirózsák milliói virágoznak a tó felszínén.",
+                  "category": "landmark",
+                  "coords": [
+                        102.689418,
+                        17.791742
+                  ]
+            },
+            {
+                  "name": "Wat Salakham",
+                  "text": "A bonyolult faragású bejárati portállal jelölt helyi buddhista templomegyüttes csendesen bújik meg az érett trópusi fák között egy folyóparti faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.651093,
+                        17.875654
+                  ]
+            },
+            {
+                  "name": "ວັດ ປາສາມາຄີທັມ",
+                  "text": "A békés erdei templomok hangulatát árasztó, eldugott buddhista szentélyt hatalmas lombsátrak árnyékolják be, hűsítve a szerzetesek lakókunyhóit.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64262,
+                        17.86877
+                  ]
+            },
+            {
+                  "name": "ວັດ ໂພເງິນ ລຸວັນ ນະ ໂພ ທາ ຮາມ",
+                  "text": "A buddhista gyakorlat e regionális központja tágas, tornyosuló kígyóőrszobrokkal szegélyezett gyülekezeti termében várja a falusiakat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626203,
+                        17.846655
+                  ]
+            },
+            {
+                  "name": "ວັດສິສະຫ່ວາງຫັມມຸງຄຸນ",
+                  "text": "E buddhista szentély piros faajtóinak ragyogó arany stencilezése kiemeli a klasszikus délkelet-ázsiai vallási művészet iránti elkötelezettségét.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634338,
+                        17.840319
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມທອງ",
+                  "text": "A feltűnő csúcsos toronnyal koronázott regionális istentiszteleti helyen klasszikus helyi folklórt és buddhista példázatokat ábrázoló finom falfestmények találhatók.",
+                  "category": "religious",
+                  "coords": [
+                        102.637065,
+                        17.83494
+                  ]
+            },
+            {
+                  "name": "Wat Yai Chaleunxai",
+                  "text": "A közösség e nagy, központi buddhista templomának horgonya egy tágas udvar, ahol évente nyüzsgő kolostori fesztiválokat rendeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.681113,
+                        17.831168
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າໂພທອງໜອງຄຳແສນ",
+                  "text": "A hagyományos erdei vonalvezetés szerint működő, rusztikus buddhista kolostor mélyen csendes, természetbe ágyazott környezetet biztosít a szigorú meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        102.674181,
+                        17.831376
+                  ]
+            },
+            {
+                  "name": "Wat Phon Pong Wanaram",
+                  "text": "A fehérre meszelt védőfallal és díszesen faragott bejárati boltívvel jellemzett falusi buddhista épületegyüttes oktatási és spirituális központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657545,
+                        17.795381
+                  ]
+            },
+            {
+                  "name": "ວັດ ຈຽມປາງ ໂຊຍະຮາມ",
+                  "text": "A falusi házak között megbúvó meghitt buddhista imahely egy közepes méretű, cseréptetős szentélyből áll, amely bronzszobrok sorát rejti.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64506,
+                        17.835943
+                  ]
+            },
+            {
+                  "name": "ວັດ ນາກຫໍພ້າ ບຸນຕານຸສອນ",
+                  "text": "A Watnakhopha Bountanouson egy békés buddhista templomegyüttes a Vientiane Logisztikai Park környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        102.663374,
+                        17.822724
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງແວງ",
+                  "text": "A Wat Nongvèng egy hagyományos buddhista templom, amely a helyi közösséget szolgálja a Vientiane Logisztikai Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645017,
+                        17.879696
+                  ]
+            },
+            {
+                  "name": "Wat Thep Pon Praditthram",
+                  "text": "A Wat Thep Pon Praditthram buddhista templom klasszikus laoszi vallási építészettel rendelkezik a Vientiane Logisztikai Park negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.669244,
+                        17.798
+                  ]
+            },
+            {
+                  "name": "Wat Sao Suwannaram",
+                  "text": "A Wat Sao Suwannaram egy békés buddhista imahely, amely spirituális menedéket nyújt a nyüzsgő vientianei gazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.667718,
+                        17.800065
+                  ]
+            },
+            {
+                  "name": "Market Baan Wiang Khuk",
+                  "text": "A Baan Wiang Khuk piac egy élénk piactér, amely friss terményeket és helyi árukat kínál a Vientiane Logisztikai Park közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        102.666275,
+                        17.799553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wang Bua Daeng Nong Khai",
+                  "text": "Această zonă umedă vastă se transformă într-o atracție naturală spectaculoasă în fiecare sezon răcoros, când milioane de nuferi roz-roșii înfloresc pe suprafața lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.689418,
+                        17.791742
+                  ]
+            },
+            {
+                  "name": "Wat Salakham",
+                  "text": "Marcat de un portal de intrare sculptat complex, acest complex de temple budiste locale stă liniștit printre copaci tropicali maturi, într-un sat de pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.651093,
+                        17.875654
+                  ]
+            },
+            {
+                  "name": "ວັດ ປາສາມາຄີທັມ",
+                  "text": "Îmbrățișând o atmosferă pașnică de templu forestier, acest sit budist retras este puternic umbrit de coronamente mari care răcoresc colibele rezidențiale ale călugărilor.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64262,
+                        17.86877
+                  ]
+            },
+            {
+                  "name": "ວັດ ໂພເງິນ ລຸວັນ ນະ ໂພ ທາ ຮາມ",
+                  "text": "Acest centru regional de practică budistă își întâmpină sătenii în sala sa de adunare spațioasă, care este precedată de figuri impunătoare de șerpi păzitori.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626203,
+                        17.846655
+                  ]
+            },
+            {
+                  "name": "ວັດສິສະຫ່ວາງຫັມມຸງຄຸນ",
+                  "text": "Șabloanele aurii strălucitoare de pe ușile roșii din lemn ale acestui sanctuar budist subliniază aderența sa la arta religioasă clasică din Asia de Sud-Est.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634338,
+                        17.840319
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມທອງ",
+                  "text": "Încoronat cu o turlă ascuțită izbitoare, acest lăcaș de cult regional găzduiește picturi murale delicate care înfățișează folclorul local clasic și pilde budiste.",
+                  "category": "religious",
+                  "coords": [
+                        102.637065,
+                        17.83494
+                  ]
+            },
+            {
+                  "name": "Wat Yai Chaleunxai",
+                  "text": "Acest templu budist mare, central în comunitate, este ancorat de o curte interioară vastă, unde se găzduiesc anual festivaluri monahale vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        102.681113,
+                        17.831168
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າໂພທອງໜອງຄຳແສນ",
+                  "text": "Funcționând în tradiția forestieră, această mănăstire budistă rustică oferă un mediu profund tăcut, imersat în natură, pentru meditație strictă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.674181,
+                        17.831376
+                  ]
+            },
+            {
+                  "name": "Wat Phon Pong Wanaram",
+                  "text": "Caracterizat de un zid înconjurător văruit și de un arc de intrare ornamentat cu măiestrie, acest complex budist sătesc servește drept centru educațional și spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657545,
+                        17.795381
+                  ]
+            },
+            {
+                  "name": "ວັດ ຈຽມປາງ ໂຊຍະຮາມ",
+                  "text": "Cuibărit strâns printre casele din sat, acest loc de rugăciune budist intim are un altar de dimensiuni medii, cu acoperiș de țiglă, care adăpostește o serie de statui de bronz.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64506,
+                        17.835943
+                  ]
+            },
+            {
+                  "name": "ວັດ ນາກຫໍພ້າ ບຸນຕານຸສອນ",
+                  "text": "Watnakhopha Bountanouson este un complex de temple budiste liniștit situat în zona Parcului Logistic din Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.663374,
+                        17.822724
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງແວງ",
+                  "text": "Wat Nongvèng este un templu budist tradițional care servește comunitatea locală de lângă Parcul Logistic din Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645017,
+                        17.879696
+                  ]
+            },
+            {
+                  "name": "Wat Thep Pon Praditthram",
+                  "text": "Templul budist Wat Thep Pon Praditthram prezintă arhitectură religioasă laoțiană clasică în districtul Parcului Logistic din Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.669244,
+                        17.798
+                  ]
+            },
+            {
+                  "name": "Wat Sao Suwannaram",
+                  "text": "Wat Sao Suwannaram este un așezământ budist pașnic, oferind un refugiu spiritual în agitata zonă economică din Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.667718,
+                        17.800065
+                  ]
+            },
+            {
+                  "name": "Market Baan Wiang Khuk",
+                  "text": "Piața Baan Wiang Khuk este un spațiu comercial plin de viață care oferă produse proaspete și mărfuri locale lângă Parcul Logistic din Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.666275,
+                        17.799553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wang Bua Daeng Nong Khai",
+                  "text": "This vast wetland transforms into a spectacular natural attraction each cool season when millions of pink-red water lilies bloom across the lake's surface.",
+                  "category": "landmark",
+                  "coords": [
+                        102.689418,
+                        17.791742
+                  ]
+            },
+            {
+                  "name": "Wat Salakham",
+                  "text": "Marked by an intricately carved entrance portal, this local Buddhist temple complex sits quietly amongst mature tropical trees in a riverside village.",
+                  "category": "landmark",
+                  "coords": [
+                        102.651093,
+                        17.875654
+                  ]
+            },
+            {
+                  "name": "Vat Pasamakhi Tham",
+                  "text": "Embracing a peaceful forest-temple atmosphere, this secluded Buddhist site is heavily shaded by large canopies that cool the monks' residential huts.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64262,
+                        17.86877
+                  ]
+            },
+            {
+                  "name": "Wat Phô Ngeun Lou Vannaphôthaham",
+                  "text": "This regional center of Buddhist practice welcomes villagers to its spacious assembly hall, which is fronted by towering serpent guardian figures.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626203,
+                        17.846655
+                  ]
+            },
+            {
+                  "name": "Vat Sisavang Ham Moung Khoun",
+                  "text": "The brilliant gold stenciling on the red wooden doors of this Buddhist sanctuary highlights its adherence to classical Southeast Asian religious artistry.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634338,
+                        17.840319
+                  ]
+            },
+            {
+                  "name": "Chormthong Temple",
+                  "text": "Crowned with a striking pointed spire, this regional place of worship houses delicate painted murals depicting classic local folklore and Buddhist parables.",
+                  "category": "religious",
+                  "coords": [
+                        102.637065,
+                        17.83494
+                  ]
+            },
+            {
+                  "name": "Wat Yai Chaleunxai",
+                  "text": "This large, focal Buddhist temple in the community is anchored by an expansive courtyard where vibrant monastic festivals are hosted annually.",
+                  "category": "landmark",
+                  "coords": [
+                        102.681113,
+                        17.831168
+                  ]
+            },
+            {
+                  "name": "Wat Pa Po Thong Nong Khamsan",
+                  "text": "Operating in the traditional forest-dwelling lineage, this rustic Buddhist monastery provides a deeply quiet, nature-immersed environment for strict meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.674181,
+                        17.831376
+                  ]
+            },
+            {
+                  "name": "Wat Phon Pong Wanaram",
+                  "text": "Characterized by a whitewashed enclosing wall and an ornately decorated entrance arch, this village Buddhist compound serves as an educational and spiritual hub.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657545,
+                        17.795381
+                  ]
+            },
+            {
+                  "name": "Wat Chiampang Xôgnaham",
+                  "text": "Nestled closely among village homes, this intimate Buddhist prayer site features a moderately sized, tile-roofed shrine housing an array of bronze statues.",
+                  "category": "landmark",
+                  "coords": [
+                        102.64506,
+                        17.835943
+                  ]
+            },
+            {
+                  "name": "Watnakhopha Bountanouson",
+                  "text": "Watnakhopha Bountanouson is a serene Buddhist temple complex situated near the Vientiane Logistics Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        102.663374,
+                        17.822724
+                  ]
+            },
+            {
+                  "name": "Wat Nongvèng",
+                  "text": "Wat Nongvèng is a traditional Buddhist temple serving the local community near the Vientiane Logistics Park.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645017,
+                        17.879696
+                  ]
+            },
+            {
+                  "name": "Wat Thep Pon Praditthram",
+                  "text": "The Buddhist temple of Wat Thep Pon Praditthram features classic Lao religious architecture in the Vientiane Logistics Park district.",
+                  "category": "landmark",
+                  "coords": [
+                        102.669244,
+                        17.798
+                  ]
+            },
+            {
+                  "name": "Wat Sao Suwannaram",
+                  "text": "Wat Sao Suwannaram is a peaceful Buddhist site providing a spiritual retreat within the bustling Vientiane economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        102.667718,
+                        17.800065
+                  ]
+            },
+            {
+                  "name": "Market Baan Wiang Khuk",
+                  "text": "Market Baan Wiang Khuk is a lively marketplace offering fresh produce and local goods near the Vientiane Logistics Park.",
+                  "category": "cultural",
+                  "coords": [
+                        102.666275,
+                        17.799553
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "LA-VT",
     coords: [102.6680, 17.8630],
@@ -219,7 +930,1240 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "savan-seno-special-economic-zone-economic-v2",
+    id: "savan-seno-special-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Si Mongkhon Tai",
+                  "text": "Ein historischer thailändischer Tempel am Mekong in Mukdahan, der wichtige buddhistische Reliquien der Savan-Seno-Grenzregion beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        104.731032,
+                        16.543668
+                  ]
+            },
+            {
+                  "name": "Phu Manorom",
+                  "text": "Dieser markante Hügel im Savan-Seno-Wirtschaftsraum bietet einen Panoramablick über das Mekong-Tal und beherbergt eine große Buddhastatue.",
+                  "category": "natural",
+                  "coords": [
+                        104.731015,
+                        16.482142
+                  ]
+            },
+            {
+                  "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+                  "text": "Ein paläontologisches Museum in der Wirtschaftszone Savan-Seno, das fossile Überreste von Dinosauriern ausstellt, die in der Region Savannakhet entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+                  "text": "Dieses Provinzmuseum dokumentiert die reiche Geschichte, die ethnische Vielfalt und das französische Kolonialerbe des Savan-Seno-Gebiets.",
+                  "category": "museum",
+                  "coords": [
+                        104.746301,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Ruean Jomphet",
+                  "text": "Ein Museum in einem traditionellen Holzhaus, das Einblicke in die historische Wohnkultur und Handwerkskunst der Region Savan-Seno bietet.",
+                  "category": "museum",
+                  "coords": [
+                        104.735687,
+                        16.601071
+                  ]
+            },
+            {
+                  "name": "Mahesak Shrine",
+                  "text": "Ein traditioneller Geisterschrein in der Wirtschaftszone Savan-Seno, der den lokalen Schutzgottheiten gewidmet ist und bei der einheimischen Bevölkerung tief verwurzelt ist.",
+                  "category": "religious",
+                  "coords": [
+                        104.744459,
+                        16.560474
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine Mukdahan",
+                  "text": "Der zentrale Stadtsäulen-Schrein von Mukdahan, der als spirituelles Zentrum der Grenzstadt in der Savan-Seno-Region gilt und von zahlreichen Pilgern besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        104.726658,
+                        16.543402
+                  ]
+            },
+            {
+                  "name": "Wat Niramit",
+                  "text": "Eine buddhistische Gebetsstätte im Wirtschaftsraum Savan-Seno, deren Tempelarchitektur typische Merkmale des laotisch-thailändischen Grenzgebiets aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        104.696492,
+                        16.559555
+                  ]
+            },
+            {
+                  "name": "Indochina Market",
+                  "text": "Ein weitläufiger Marktkomplex am Mekong-Ufer in der Savan-Seno-Zone, auf dem grenzüberschreitende Waren aus Thailand, Laos, Vietnam und China gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        104.731724,
+                        16.5418
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "Ein lebhafter Nachtmarkt in der Wirtschaftsregion Savan-Seno, der in den Abendstunden eine reiche Auswahl an lokalem Streetfood und handgefertigten Souvenirs bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        104.745191,
+                        16.555853
+                  ]
+            },
+            {
+                  "name": "Thepthala Market",
+                  "text": "Ein authentischer lokaler Markt im Gebiet Savan-Seno, auf dem Händler aus der Umgebung täglich frische Gewürze, Gemüse und landwirtschaftliche Erzeugnisse anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        104.750487,
+                        16.543595
+                  ]
+            },
+            {
+                  "name": "Pornpetch Food Market",
+                  "text": "Ein spezialisierter Lebensmittelmarkt in der Savan-Seno-Zone, der für sein breites Angebot an frischem Fleisch, Fisch aus dem Mekong und verzehrfertigen regionalen Gerichten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.73098,
+                        16.53142
+                  ]
+            },
+            {
+                  "name": "Indochina Market Mukdahan",
+                  "text": "Dieser geschäftige Grenzhändlermarkt in Mukdahan ist ein bedeutendes Handelszentrum der Savan-Seno-Region, das sich entlang der Uferpromenade des Mekong erstreckt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.732211,
+                        16.540843
+                  ]
+            },
+            {
+                  "name": "Thetsaban 2 Market",
+                  "text": "Dieser städtische Markt im Gebiet Savan-Seno ist ein wichtiger Anlaufpunkt für die lokale Bevölkerung, um Haushaltswaren und frische Zutaten zu erwerben.",
+                  "category": "cultural",
+                  "coords": [
+                        104.720305,
+                        16.537997
+                  ]
+            },
+            {
+                  "name": "Testsaban 5 Market",
+                  "text": "Ein weiterer kommunaler Marktplatz in der Savan-Seno-Wirtschaftszone, der mit seinen überdachten Ständen die tägliche Nahversorgung des Viertels sicherstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717053,
+                        16.542739
+                  ]
+            },
+            {
+                  "name": "Testsaban 1 Market",
+                  "text": "Der zentral gelegene städtische Markt Nummer eins in der Savan-Seno-Region ist bekannt für sein geschäftiges Treiben am frühen Morgen und die Vielfalt an Frischwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717651,
+                        16.541181
+                  ]
+            },
+            {
+                  "name": "Khok Suwan Market",
+                  "text": "Ein traditioneller Handelsplatz in der Savan-Seno-Gegend, auf dem Bauern aus den umliegenden Dörfern ihre saisonalen Ernten feilbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        104.721141,
+                        16.575536
+                  ]
+            },
+            {
+                  "name": "Talat Savan Xai",
+                  "text": "Der Hauptmarkt in der Sonderwirtschaftszone Savan-Seno, der sich durch eine riesige Auswahl an Textilien, laotischem Kunsthandwerk und regionalen Lebensmitteln auszeichnet.",
+                  "category": "cultural",
+                  "coords": [
+                        104.749917,
+                        16.577257
+                  ]
+            },
+            {
+                  "name": "Samakkhixay Market",
+                  "text": "Ein lebendiger Quartiersmarkt in der Wirtschaftszone Savan-Seno, auf dem die Einheimischen alltägliche Gebrauchsgüter und frische Snacks einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.766941,
+                        16.545728
+                  ]
+            },
+            {
+                  "name": "Mukdahan Tower",
+                  "text": "Ein markanter Aussichtsturm in Mukdahan, der einen weiten Blick über den Mekong und die Savan-Seno-Sonderwirtschaftszone in Laos bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.733124,
+                        16.52605
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "Eine Gedenkstätte in der Region Savan-Seno, die dem ehemaligen laotischen Präsidenten Kaysone Phomvihane gewidmet ist und seine politische Geschichte ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Wat Phu Manorom",
+                  "text": "Dieser auf einer Anhöhe gelegene buddhistische Tempel im Savan-Seno-Wirtschaftsraum ist berühmt für seine riesige weiße Buddhastatue, die über das Flusstal blickt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.727878,
+                        16.498032
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມແກ້ວ",
+                  "text": "Ein friedlicher buddhistischer Tempelkomplex in der Zone Savan-Seno, der kunstvolle Wandmalereien und traditionelle Tempeldächer aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.745298,
+                        16.568535
+                  ]
+            },
+            {
+                  "name": "ວັດສຸນັນທາຣາມ",
+                  "text": "Ein lokaler buddhistischer Wat in der Region Savan-Seno, der mit seinen reich verzierten Schreinen als religiöses Zentrum der Dorfgemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.750817,
+                        16.567511
+                  ]
+            },
+            {
+                  "name": "Wat Roi Phra Phutthabat Phu Manorom",
+                  "text": "Eine hochgelegene Tempelanlage im Savan-Seno-Gebiet, die nicht nur spirituelle Bedeutung für Buddhisten besitzt, sondern auch eine monumentale Naga-Statue am Berghang präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        104.728191,
+                        16.49904
+                  ]
+            },
+            {
+                  "name": "Si Suwan",
+                  "text": "Si Suwan ist ein buddhistischer Tempel, der der lokalen Gemeinschaft in der Sonderwirtschaftszone Savan-Seno dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.754349,
+                        16.495035
+                  ]
+            },
+            {
+                  "name": "Wat Si Sawang",
+                  "text": "Wat Si Sawang fungiert als buddhistische Kultstätte und spiritueller Rückzugsort in der Wirtschaftszone Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.766936,
+                        16.48537
+                  ]
+            },
+            {
+                  "name": "Wat Pa Samakkhi Ban Mueang Pa",
+                  "text": "Wat Pa Samakkhi Ban Mueang Pa fungiert als traditioneller buddhistischer Waldtempel in der Region Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.684444,
+                        16.520598
+                  ]
+            },
+            {
+                  "name": "Donxeng Temple",
+                  "text": "Der Donxeng-Tempel bietet ein buddhistisches Heiligtum für Gläubige in der Sonderwirtschaftszone Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.765919,
+                        16.516478
+                  ]
+            },
+            {
+                  "name": "Phonsavanh Temple",
+                  "text": "Der Phonsavanh-Tempel ist ein lokales buddhistisches Religionszentrum in der Wirtschaftsregion Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.752915,
+                        16.540227
+                  ]
+            },
+            {
+                  "name": "Wat Si Su Mang Na Ram",
+                  "text": "Wat Si Su Mang Na Ram ist ein buddhistischer Tempelkomplex, der Gläubige in der Region Savan-Seno willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732144,
+                        16.538212
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bunruang",
+                  "text": "Wat Sri Bunruang dient der buddhistischen Gemeinschaft als Ort für traditionelle Zeremonien in der Savan-Seno-Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732864,
+                        16.535445
+                  ]
+            },
+            {
+                  "name": "Wat Kham Sai Thong",
+                  "text": "Wat Kham Sai Thong fungiert als buddhistische Stätte der Anbetung und des Verdiensterwerbs im Gebiet Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.704396,
+                        16.535675
+                  ]
+            },
+            {
+                  "name": "Wat Lak Song",
+                  "text": "Wat Lak Song ist eine buddhistische Stätte, die der lokalen religiösen Praxis in der Wirtschaftsregion Savan-Seno gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.693172,
+                        16.545836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Si Mongkhon Tai",
+                  "text": "Történelmi thai templom a Mekong partján, Mukdahanban, amely a Savan-Seno határvidék fontos buddhista ereklyéit őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        104.731032,
+                        16.543668
+                  ]
+            },
+            {
+                  "name": "Phu Manorom",
+                  "text": "Ez a kiemelkedő hegy a Savan-Seno gazdasági övezetben panorámás kilátást nyújt a Mekong völgyére, és egy hatalmas Buddha-szobornak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        104.731015,
+                        16.482142
+                  ]
+            },
+            {
+                  "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+                  "text": "A Savan-Seno gazdasági övezet őslénytani múzeuma, amely a Savannakhet régióban felfedezett dinoszaurusz-kövületeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+                  "text": "Ez a tartományi múzeum a Savan-Seno terület gazdag történelmét, etnikai sokszínűségét és francia gyarmati örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        104.746301,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Ruean Jomphet",
+                  "text": "Hagyományos faházban berendezett múzeum, amely bepillantást enged a Savan-Seno régió történelmi lakáskultúrájába és kézművességébe.",
+                  "category": "museum",
+                  "coords": [
+                        104.735687,
+                        16.601071
+                  ]
+            },
+            {
+                  "name": "Mahesak Shrine",
+                  "text": "Hagyományos szellemszentély a Savan-Seno gazdasági övezetben, amelyet a helyi védőisteneknek szenteltek, és mélyen gyökerezik a helyi lakosság hitében.",
+                  "category": "religious",
+                  "coords": [
+                        104.744459,
+                        16.560474
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine Mukdahan",
+                  "text": "Mukdahan központi várososzlop-szentélye, amely a Savan-Seno régió határvárosának spirituális központja, és számos zarándok keresi fel.",
+                  "category": "religious",
+                  "coords": [
+                        104.726658,
+                        16.543402
+                  ]
+            },
+            {
+                  "name": "Wat Niramit",
+                  "text": "Buddhista imahely a Savan-Seno gazdasági térségben, amelynek templomépítészete a laoszi-thai határvidék jellegzetes vonásait hordozza.",
+                  "category": "religious",
+                  "coords": [
+                        104.696492,
+                        16.559555
+                  ]
+            },
+            {
+                  "name": "Indochina Market",
+                  "text": "Kiterjedt piackomplexum a Mekong partján a Savan-Seno zónában, ahol Thaiföldről, Laoszból, Vietnamból és Kínából származó, határon átnyúló árukat forgalmaznak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.731724,
+                        16.5418
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "Élénk éjszakai piac a Savan-Seno gazdasági régióban, amely az esti órákban helyi utcai ételek és kézműves ajándéktárgyak gazdag választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        104.745191,
+                        16.555853
+                  ]
+            },
+            {
+                  "name": "Thepthala Market",
+                  "text": "Autentikus helyi piac a Savan-Seno területén, ahol a környékbeli árusok naponta kínálnak friss fűszereket, zöldségeket és mezőgazdasági termékeket.",
+                  "category": "cultural",
+                  "coords": [
+                        104.750487,
+                        16.543595
+                  ]
+            },
+            {
+                  "name": "Pornpetch Food Market",
+                  "text": "A Savan-Seno zóna egyik specializált élelmiszerpiaca, amely a friss húsok, a Mekongból származó halak és a fogyasztásra kész regionális ételek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.73098,
+                        16.53142
+                  ]
+            },
+            {
+                  "name": "Indochina Market Mukdahan",
+                  "text": "Ez a forgalmas mukdahani határpiac a Savan-Seno régió fontos kereskedelmi központja, amely a Mekong parti sétánya mentén húzódik.",
+                  "category": "cultural",
+                  "coords": [
+                        104.732211,
+                        16.540843
+                  ]
+            },
+            {
+                  "name": "Thetsaban 2 Market",
+                  "text": "Ez a városi piac a Savan-Seno területén a helyi lakosság fontos találkozóhelye, ahol háztartási cikkeket és friss alapanyagokat szerezhetnek be.",
+                  "category": "cultural",
+                  "coords": [
+                        104.720305,
+                        16.537997
+                  ]
+            },
+            {
+                  "name": "Testsaban 5 Market",
+                  "text": "Egy másik önkormányzati piac a Savan-Seno gazdasági övezetben, amely fedett standjaival a környék napi élelmiszer-ellátását biztosítja.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717053,
+                        16.542739
+                  ]
+            },
+            {
+                  "name": "Testsaban 1 Market",
+                  "text": "A Savan-Seno régió központi fekvésű, egyes számú városi piaca, amely kora reggeli nyüzsgéséről és a friss áruk sokszínűségéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717651,
+                        16.541181
+                  ]
+            },
+            {
+                  "name": "Khok Suwan Market",
+                  "text": "Hagyományos kereskedelmi központ a Savan-Seno területén, ahol a környező falvak gazdái kínálják szezonális terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        104.721141,
+                        16.575536
+                  ]
+            },
+            {
+                  "name": "Talat Savan Xai",
+                  "text": "A Savan-Seno Különleges Gazdasági Övezet fő piaca, amely textíliák, laoszi kézműves termékek és regionális élelmiszerek hatalmas választékával tűnik ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.749917,
+                        16.577257
+                  ]
+            },
+            {
+                  "name": "Samakkhixay Market",
+                  "text": "Élénk negyedpiac a Savan-Seno gazdasági övezetben, ahol a helyiek mindennapi fogyasztási cikkeket és friss rágcsálnivalókat vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.766941,
+                        16.545728
+                  ]
+            },
+            {
+                  "name": "Mukdahan Tower",
+                  "text": "Jellegzetes kilátótorony Mukdahanban, ahonnan széles kilátás nyílik a Mekongra és a laoszi Savan-Seno Különleges Gazdasági Övezetre.",
+                  "category": "landmark",
+                  "coords": [
+                        104.733124,
+                        16.52605
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "A volt laoszi elnöknek, Kaysone Phomvihane-nak szentelt emlékhely a Savan-Seno régióban, amely politikai öröksége előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Wat Phu Manorom",
+                  "text": "Ez a Savan-Seno gazdasági térség magaslatán fekvő buddhista templom a folyóvölgyre néző hatalmas fehér Buddha-szobráról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        104.727878,
+                        16.498032
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມແກ້ວ",
+                  "text": "Békés buddhista templomkomplexum a Savan-Seno zónában, amely díszes falfestményekkel és hagyományos templomtetőkkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        104.745298,
+                        16.568535
+                  ]
+            },
+            {
+                  "name": "ວັດສຸນັນທາຣາມ",
+                  "text": "Helyi buddhista wat a Savan-Seno régióban, amely gazdagon díszített szentélyeivel a faluközösség vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.750817,
+                        16.567511
+                  ]
+            },
+            {
+                  "name": "Wat Roi Phra Phutthabat Phu Manorom",
+                  "text": "Egy magaslati templomkomplexum a Savan-Seno területén, amely nemcsak spirituális jelentőséggel bír a buddhisták számára, hanem egy monumentális Naga-szobrot is bemutat a hegyoldalban.",
+                  "category": "landmark",
+                  "coords": [
+                        104.728191,
+                        16.49904
+                  ]
+            },
+            {
+                  "name": "Si Suwan",
+                  "text": "A Si Suwan egy buddhista templom, amely a Savan-Seno különleges gazdasági övezet helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        104.754349,
+                        16.495035
+                  ]
+            },
+            {
+                  "name": "Wat Si Sawang",
+                  "text": "A Wat Si Sawang buddhista istentiszteleti és spirituális elvonulási helyként működik a Savan-Seno gazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.766936,
+                        16.48537
+                  ]
+            },
+            {
+                  "name": "Wat Pa Samakkhi Ban Mueang Pa",
+                  "text": "A Wat Pa Samakkhi Ban Mueang Pa hagyományos buddhista erdei templomként működik a Savan-Seno régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        104.684444,
+                        16.520598
+                  ]
+            },
+            {
+                  "name": "Donxeng Temple",
+                  "text": "A Donxeng templom buddhista szentélyt kínál a hívők számára a Savan-Seno különleges gazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.765919,
+                        16.516478
+                  ]
+            },
+            {
+                  "name": "Phonsavanh Temple",
+                  "text": "A Phonsavanh templom egy helyi buddhista vallási központ a Savan-Seno gazdasági régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        104.752915,
+                        16.540227
+                  ]
+            },
+            {
+                  "name": "Wat Si Su Mang Na Ram",
+                  "text": "A Wat Si Su Mang Na Ram egy buddhista templomkomplexum, amely a hívőket fogadja a Savan-Seno térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732144,
+                        16.538212
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bunruang",
+                  "text": "A Wat Sri Bunruang a buddhista közösséget szolgálja hagyományos szertartások helyszíneként a Savan-Seno övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732864,
+                        16.535445
+                  ]
+            },
+            {
+                  "name": "Wat Kham Sai Thong",
+                  "text": "A Wat Kham Sai Thong buddhista istentiszteleti és érdemszerzési helyként működik a Savan-Seno térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.704396,
+                        16.535675
+                  ]
+            },
+            {
+                  "name": "Wat Lak Song",
+                  "text": "A Wat Lak Song egy buddhista helyszín, amelyet a helyi vallási gyakorlatnak szenteltek a Savan-Seno gazdasági régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        104.693172,
+                        16.545836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Si Mongkhon Tai",
+                  "text": "Un templu thailandez istoric situat de-a lungul râului Mekong în Mukdahan, adăpostind relicve budiste importante din regiunea de frontieră Savan-Seno.",
+                  "category": "religious",
+                  "coords": [
+                        104.731032,
+                        16.543668
+                  ]
+            },
+            {
+                  "name": "Phu Manorom",
+                  "text": "Acest deal proeminent din zona economică Savan-Seno oferă o vedere panoramică asupra văii Mekong și găzduiește o mare statuie a lui Buddha.",
+                  "category": "natural",
+                  "coords": [
+                        104.731015,
+                        16.482142
+                  ]
+            },
+            {
+                  "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+                  "text": "Un muzeu paleontologic din zona Savan-Seno, care expune fosile de dinozauri descoperite în regiunea Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+                  "text": "Acest muzeu provincial documentează istoria bogată, diversitatea etnică și moștenirea colonială franceză a zonei Savan-Seno.",
+                  "category": "museum",
+                  "coords": [
+                        104.746301,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Ruean Jomphet",
+                  "text": "Un muzeu găzduit într-o casă tradițională de lemn, oferind o privire asupra culturii rezidențiale istorice și meșteșugurilor din regiunea Savan-Seno.",
+                  "category": "museum",
+                  "coords": [
+                        104.735687,
+                        16.601071
+                  ]
+            },
+            {
+                  "name": "Mahesak Shrine",
+                  "text": "Un altar animist tradițional din zona Savan-Seno, dedicat zeităților protectoare locale și profund înrădăcinat în credințele populației autohtone.",
+                  "category": "religious",
+                  "coords": [
+                        104.744459,
+                        16.560474
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine Mukdahan",
+                  "text": "Altarul central al stâlpului orașului Mukdahan, considerat centrul spiritual al orașului de graniță din regiunea Savan-Seno, vizitat de numeroși pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        104.726658,
+                        16.543402
+                  ]
+            },
+            {
+                  "name": "Wat Niramit",
+                  "text": "Un lăcaș de cult budist în zona economică Savan-Seno, a cărui arhitectură prezintă trăsături tipice regiunii de graniță lao-thailandeze.",
+                  "category": "religious",
+                  "coords": [
+                        104.696492,
+                        16.559555
+                  ]
+            },
+            {
+                  "name": "Indochina Market",
+                  "text": "Un complex de piață extins pe malul Mekongului din zona Savan-Seno, unde se comercializează bunuri transfrontaliere din Thailanda, Laos, Vietnam și China.",
+                  "category": "cultural",
+                  "coords": [
+                        104.731724,
+                        16.5418
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "O piață de noapte plină de viață în regiunea economică Savan-Seno, oferind o selecție bogată de mâncare stradală locală și suveniruri artizanale în orele serii.",
+                  "category": "cultural",
+                  "coords": [
+                        104.745191,
+                        16.555853
+                  ]
+            },
+            {
+                  "name": "Thepthala Market",
+                  "text": "O piață locală autentică în zona Savan-Seno, unde comercianții din împrejurimi oferă zilnic condimente proaspete, legume și produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        104.750487,
+                        16.543595
+                  ]
+            },
+            {
+                  "name": "Pornpetch Food Market",
+                  "text": "O piață alimentară specializată în zona Savan-Seno, cunoscută pentru gama sa largă de carne proaspătă, pește din Mekong și preparate regionale gata de consum.",
+                  "category": "cultural",
+                  "coords": [
+                        104.73098,
+                        16.53142
+                  ]
+            },
+            {
+                  "name": "Indochina Market Mukdahan",
+                  "text": "Această piață de graniță aglomerată din Mukdahan este un important centru comercial al regiunii Savan-Seno, care se întinde de-a lungul promenadei de pe malul râului Mekong.",
+                  "category": "cultural",
+                  "coords": [
+                        104.732211,
+                        16.540843
+                  ]
+            },
+            {
+                  "name": "Thetsaban 2 Market",
+                  "text": "Această piață municipală din zona Savan-Seno este un punct de referință important pentru populația locală pentru a achiziționa articole de uz casnic și ingrediente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        104.720305,
+                        16.537997
+                  ]
+            },
+            {
+                  "name": "Testsaban 5 Market",
+                  "text": "O altă piață municipală din zona economică Savan-Seno care, cu standurile sale acoperite, asigură aprovizionarea zilnică a cartierului.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717053,
+                        16.542739
+                  ]
+            },
+            {
+                  "name": "Testsaban 1 Market",
+                  "text": "Piața municipală centrală numărul unu din regiunea Savan-Seno este cunoscută pentru agitația dis-de-dimineață și varietatea de produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717651,
+                        16.541181
+                  ]
+            },
+            {
+                  "name": "Khok Suwan Market",
+                  "text": "Un centru comercial tradițional în zona Savan-Seno, unde fermierii din satele din jur își vând recoltele de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        104.721141,
+                        16.575536
+                  ]
+            },
+            {
+                  "name": "Talat Savan Xai",
+                  "text": "Piața principală din zona economică specială Savan-Seno, caracterizată printr-o selecție uriașă de textile, artizanat din Laos și alimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        104.749917,
+                        16.577257
+                  ]
+            },
+            {
+                  "name": "Samakkhixay Market",
+                  "text": "O piață de cartier vibrantă în zona economică Savan-Seno, unde localnicii cumpără bunuri de uz zilnic și gustări proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        104.766941,
+                        16.545728
+                  ]
+            },
+            {
+                  "name": "Mukdahan Tower",
+                  "text": "Un turn de observație proeminent în Mukdahan, care oferă o priveliște largă asupra râului Mekong și a zonei economice speciale Savan-Seno din Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        104.733124,
+                        16.52605
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "Un memorial din regiunea Savan-Seno dedicat fostului președinte laotian Kaysone Phomvihane, onorându-i istoria politică.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Wat Phu Manorom",
+                  "text": "Acest templu budist situat pe un deal din zona economică Savan-Seno este renumit pentru statuia uriașă albă a lui Buddha, cu vedere spre valea râului.",
+                  "category": "landmark",
+                  "coords": [
+                        104.727878,
+                        16.498032
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມແກ້ວ",
+                  "text": "Un complex de temple budiste pașnice din zona Savan-Seno, cu picturi murale ornamentate și acoperișuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        104.745298,
+                        16.568535
+                  ]
+            },
+            {
+                  "name": "ວັດສຸນັນທາຣາມ",
+                  "text": "Un wat budist local din regiunea Savan-Seno, care servește drept centru religios al comunității sătești prin sanctuarele sale bogat decorate.",
+                  "category": "landmark",
+                  "coords": [
+                        104.750817,
+                        16.567511
+                  ]
+            },
+            {
+                  "name": "Wat Roi Phra Phutthabat Phu Manorom",
+                  "text": "Un complex de temple la mare altitudine din zona Savan-Seno, care are nu numai o semnificație spirituală pentru budiști, ci și o statuie monumentală Naga pe versantul dealului.",
+                  "category": "landmark",
+                  "coords": [
+                        104.728191,
+                        16.49904
+                  ]
+            },
+            {
+                  "name": "Si Suwan",
+                  "text": "Si Suwan este un templu budist care deservește comunitatea locală din zona economică specială Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.754349,
+                        16.495035
+                  ]
+            },
+            {
+                  "name": "Wat Si Sawang",
+                  "text": "Wat Si Sawang funcționează ca lăcaș de cult budist și loc de retragere spirituală în zona economică Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.766936,
+                        16.48537
+                  ]
+            },
+            {
+                  "name": "Wat Pa Samakkhi Ban Mueang Pa",
+                  "text": "Wat Pa Samakkhi Ban Mueang Pa funcționează ca un templu budist tradițional de pădure în regiunea Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.684444,
+                        16.520598
+                  ]
+            },
+            {
+                  "name": "Donxeng Temple",
+                  "text": "Templul Donxeng oferă un sanctuar budist pentru credincioșii din zona economică specială Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.765919,
+                        16.516478
+                  ]
+            },
+            {
+                  "name": "Phonsavanh Temple",
+                  "text": "Templul Phonsavanh este un centru religios budist local din regiunea economică Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.752915,
+                        16.540227
+                  ]
+            },
+            {
+                  "name": "Wat Si Su Mang Na Ram",
+                  "text": "Wat Si Su Mang Na Ram este un complex de temple budiste care primește devotați în zona Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732144,
+                        16.538212
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bunruang",
+                  "text": "Wat Sri Bunruang servește comunitatea budistă ca loc pentru ceremonii tradiționale în zona Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732864,
+                        16.535445
+                  ]
+            },
+            {
+                  "name": "Wat Kham Sai Thong",
+                  "text": "Wat Kham Sai Thong acționează ca un lăcaș de cult budist și de obținere a meritelor în zona Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.704396,
+                        16.535675
+                  ]
+            },
+            {
+                  "name": "Wat Lak Song",
+                  "text": "Wat Lak Song este un sit budist dedicat practicii religioase locale din regiunea economică Savan-Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.693172,
+                        16.545836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Si Mongkhon Tai",
+                  "text": "An historic Thai temple situated along the Mekong River in Mukdahan, housing important Buddhist relics of the Savan-Seno border region.",
+                  "category": "religious",
+                  "coords": [
+                        104.731032,
+                        16.543668
+                  ]
+            },
+            {
+                  "name": "Phu Manorom",
+                  "text": "This prominent hill in the Savan-Seno economic zone offers a panoramic view over the Mekong Valley and hosts a massive Buddha statue.",
+                  "category": "natural",
+                  "coords": [
+                        104.731015,
+                        16.482142
+                  ]
+            },
+            {
+                  "name": "Dinosaur Museum",
+                  "text": "A paleontological museum in the Savan-Seno economic zone, exhibiting fossilized dinosaur remains discovered in the Savannakhet region.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum",
+                  "text": "This provincial museum documents the rich history, ethnic diversity, and French colonial heritage of the Savan-Seno area.",
+                  "category": "museum",
+                  "coords": [
+                        104.746301,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Ruean Jomphet",
+                  "text": "A museum housed in a traditional wooden building, offering insights into the historical residential culture and craftsmanship of the Savan-Seno region.",
+                  "category": "museum",
+                  "coords": [
+                        104.735687,
+                        16.601071
+                  ]
+            },
+            {
+                  "name": "Mahesak Shrine",
+                  "text": "A traditional spirit shrine in the Savan-Seno economic zone, dedicated to local protective deities and deeply revered by the native population.",
+                  "category": "religious",
+                  "coords": [
+                        104.744459,
+                        16.560474
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine Mukdahan",
+                  "text": "The central City Pillar Shrine of Mukdahan, serving as the spiritual heart of the border town in the Savan-Seno region and visited by numerous pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        104.726658,
+                        16.543402
+                  ]
+            },
+            {
+                  "name": "Wat Niramit",
+                  "text": "A Buddhist place of worship in the Savan-Seno economic area, featuring temple architecture typical of the Lao-Thai borderland.",
+                  "category": "religious",
+                  "coords": [
+                        104.696492,
+                        16.559555
+                  ]
+            },
+            {
+                  "name": "Indochina Market",
+                  "text": "An expansive market complex on the banks of the Mekong in the Savan-Seno zone, trading cross-border goods from Thailand, Laos, Vietnam, and China.",
+                  "category": "cultural",
+                  "coords": [
+                        104.731724,
+                        16.5418
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "A vibrant night market in the Savan-Seno economic region, offering a rich selection of local street food and handcrafted souvenirs during the evening hours.",
+                  "category": "cultural",
+                  "coords": [
+                        104.745191,
+                        16.555853
+                  ]
+            },
+            {
+                  "name": "Thepthala Market",
+                  "text": "An authentic local market in the Savan-Seno area, where regional vendors offer fresh spices, vegetables, and agricultural produce daily.",
+                  "category": "cultural",
+                  "coords": [
+                        104.750487,
+                        16.543595
+                  ]
+            },
+            {
+                  "name": "Pornpetch Food Market",
+                  "text": "A specialized food market in the Savan-Seno zone, known for its wide range of fresh meat, Mekong River fish, and ready-to-eat regional dishes.",
+                  "category": "cultural",
+                  "coords": [
+                        104.73098,
+                        16.53142
+                  ]
+            },
+            {
+                  "name": "Indochina Market Mukdahan",
+                  "text": "This bustling border trade market in Mukdahan is a major commercial hub of the Savan-Seno region, stretching along the Mekong River promenade.",
+                  "category": "cultural",
+                  "coords": [
+                        104.732211,
+                        16.540843
+                  ]
+            },
+            {
+                  "name": "Thetsaban 2 Market",
+                  "text": "This municipal market in the Savan-Seno area is an important hub for the local population to purchase household goods and fresh ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        104.720305,
+                        16.537997
+                  ]
+            },
+            {
+                  "name": "Testsaban 5 Market",
+                  "text": "Another municipal marketplace in the Savan-Seno economic zone, which ensures the daily local supply of the neighborhood with its covered stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717053,
+                        16.542739
+                  ]
+            },
+            {
+                  "name": "Testsaban 1 Market",
+                  "text": "The centrally located municipal market number one in the Savan-Seno region is known for its bustling early morning activity and variety of fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        104.717651,
+                        16.541181
+                  ]
+            },
+            {
+                  "name": "Khok Suwan Market",
+                  "text": "A traditional trading post in the Savan-Seno area where farmers from surrounding villages offer their seasonal harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        104.721141,
+                        16.575536
+                  ]
+            },
+            {
+                  "name": "Talat Savan Xai",
+                  "text": "The main market in the Savan-Seno Special Economic Zone, featuring a huge selection of textiles, Lao handicrafts, and regional foods.",
+                  "category": "cultural",
+                  "coords": [
+                        104.749917,
+                        16.577257
+                  ]
+            },
+            {
+                  "name": "Samakkhixay Market",
+                  "text": "A lively neighborhood market in the Savan-Seno economic zone where locals shop for everyday consumer goods and fresh snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        104.766941,
+                        16.545728
+                  ]
+            },
+            {
+                  "name": "Mukdahan Tower",
+                  "text": "A prominent observation tower in Mukdahan, offering sweeping views across the Mekong River and the Savan-Seno Special Economic Zone in Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        104.733124,
+                        16.52605
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "A memorial site in the Savan-Seno region dedicated to the former Lao President Kaysone Phomvihane, honoring his political history.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Wat Phu Manorom",
+                  "text": "This hilltop Buddhist temple in the Savan-Seno economic area is famous for its giant white Buddha statue overlooking the river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        104.727878,
+                        16.498032
+                  ]
+            },
+            {
+                  "name": "Wat Chomkeo",
+                  "text": "A peaceful Buddhist temple complex in the Savan-Seno zone, featuring ornate murals and traditional temple roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        104.745298,
+                        16.568535
+                  ]
+            },
+            {
+                  "name": "Wat Sounantha",
+                  "text": "A local Buddhist wat in the Savan-Seno region, serving as the religious center of the village community with its richly decorated shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        104.750817,
+                        16.567511
+                  ]
+            },
+            {
+                  "name": "Wat Roi Phra Phutthabat Phu Manorom",
+                  "text": "A high-altitude temple complex in the Savan-Seno area, holding not only spiritual significance for Buddhists but also presenting a monumental Naga statue on the hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        104.728191,
+                        16.49904
+                  ]
+            },
+            {
+                  "name": "Si Suwan",
+                  "text": "Si Suwan is a Buddhist temple serving the local community in the Savan-Seno Special Economic Zone area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.754349,
+                        16.495035
+                  ]
+            },
+            {
+                  "name": "Wat Si Sawang",
+                  "text": "Wat Si Sawang operates as a Buddhist place of worship and spiritual retreat in the Savan-Seno economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.766936,
+                        16.48537
+                  ]
+            },
+            {
+                  "name": "Wat Pa Samakkhi Ban Mueang Pa",
+                  "text": "Wat Pa Samakkhi Ban Mueang Pa functions as a traditional Buddhist forest temple within the Savan-Seno region.",
+                  "category": "landmark",
+                  "coords": [
+                        104.684444,
+                        16.520598
+                  ]
+            },
+            {
+                  "name": "Donxeng Temple",
+                  "text": "The Donxeng Temple provides a Buddhist sanctuary for worshippers in the Savan-Seno Special Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.765919,
+                        16.516478
+                  ]
+            },
+            {
+                  "name": "Phonsavanh Temple",
+                  "text": "Phonsavanh Temple stands as a local Buddhist religious centre in the Savan-Seno economic region.",
+                  "category": "landmark",
+                  "coords": [
+                        104.752915,
+                        16.540227
+                  ]
+            },
+            {
+                  "name": "Wat Si Su Mang Na Ram",
+                  "text": "Wat Si Su Mang Na Ram is a Buddhist temple complex welcoming devotees in the Savan-Seno area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732144,
+                        16.538212
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bunruang",
+                  "text": "Wat Sri Bunruang serves the Buddhist community as a place for traditional ceremonies in the Savan-Seno zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.732864,
+                        16.535445
+                  ]
+            },
+            {
+                  "name": "Wat Kham Sai Thong",
+                  "text": "Wat Kham Sai Thong acts as a Buddhist place of worship and merit-making in the Savan-Seno area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.704396,
+                        16.535675
+                  ]
+            },
+            {
+                  "name": "Wat Lak Song",
+                  "text": "Wat Lak Song is a Buddhist site dedicated to local religious practice in the Savan-Seno economic region.",
+                  "category": "landmark",
+                  "coords": [
+                        104.693172,
+                        16.545836
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LA-SV",
     coords: [104.7500, 16.5660],
@@ -255,7 +2199,268 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "thanaleng-dry-port-economic-v2",
+    id: "thanaleng-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tribal Park",
+                  "text": "Dieses Freilichtmuseum, das das ethnische Erbe der Region präsentiert, zeigt rekonstruierte traditionelle Behausungen und authentische Handwerkskunst der Stämme.",
+                  "category": "museum",
+                  "coords": [
+                        102.704435,
+                        17.882377
+                  ]
+            },
+            {
+                  "name": "Chom Mani Strand",
+                  "text": "Dieser breite Sandstreifen entlang des Mekong-Ufers, der nur bei Niedrigwasser in der Trockenzeit zum Vorschein kommt, ist ein beliebter lokaler Ort für Sonnenuntergänge und Picknicks.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710034,
+                        17.876626
+                  ]
+            },
+            {
+                  "name": "1st Thai–Lao Friendship Bridge (Nong Khai-Vientiane)",
+                  "text": "Diese monumentale Betonbrücke, die den breiten Mekong überspannt, trägt sowohl eine Autobahn als auch eine Eisenbahnstrecke und dient als wichtigstes Landtor zwischen Thailand und Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715103,
+                        17.880342
+                  ]
+            },
+            {
+                  "name": "Inpeng Riverside",
+                  "text": "Unmittelbar am Flussufer gelegen, bietet dieser familienfreundliche Wasserpark große Schwimmbecken, bunte Wasserrutschen und schattige Liegebereiche.",
+                  "category": "recreational",
+                  "coords": [
+                        102.705673,
+                        17.882208
+                  ]
+            },
+            {
+                  "name": "Wat Dongphosy",
+                  "text": "Inmitten eines ruhigen Wäldchens gelegen, dient dieses lokale buddhistische Zentrum der nahegelegenen Gemeinde mit einer kunstvoll vergoldeten Versammlungshalle im traditionellen laotischen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        102.718254,
+                        17.886577
+                  ]
+            },
+            {
+                  "name": "Wat Wapi Pradit Bungle",
+                  "text": "Dieses buddhistische Heiligtum zeichnet sich durch seine kunstvollen Holzarbeiten und ein geschwungenes, mehrstufiges Dach aus, das die goldenen Statuen in der Gebetshalle schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.706047,
+                        17.829379
+                  ]
+            },
+            {
+                  "name": "Nong Khai Station Night Market",
+                  "text": "Dieser geschäftige Basar unter freiem Himmel, der in der Abenddämmerung in der Nähe des Bahnhofs aufgebaut wird, wird von Lichterketten beleuchtet, während die Verkäufer billige Kleidung und Fleischspieße anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        102.727757,
+                        17.866746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tribal Park",
+                  "text": "A regionális etnikai örökség bemutatására tervezett szabadtéri múzeumban újjáépített hagyományos lakóházak és autentikus törzsi kézműves tárgyak láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        102.704435,
+                        17.882377
+                  ]
+            },
+            {
+                  "name": "Chom Mani Beach",
+                  "text": "A csak a száraz évszak alacsony vízállásakor felbukkanó széles homokos partszakasz a Mekong mentén népszerű helyi piknikező és naplemente-néző hely.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710034,
+                        17.876626
+                  ]
+            },
+            {
+                  "name": "1st Thai–Lao Friendship Bridge (Nong Khai-Vientiane)",
+                  "text": "A széles Mekong folyót átívelő monumentális betonhíd, amelyen autópálya és vasútvonal is fut, a Thaiföld és Laosz közötti elsődleges szárazföldi kapuként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715103,
+                        17.880342
+                  ]
+            },
+            {
+                  "name": "Inpeng Riverside",
+                  "text": "A folyó partján fekvő, családbarát vízi parkban hatalmas úszómedencék, színes csobbanócsúszdák és árnyékos pihenőhelyek várják a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.705673,
+                        17.882208
+                  ]
+            },
+            {
+                  "name": "Wat Dongphosy",
+                  "text": "A nyugodt ligetben fekvő helyi buddhista központ hagyományos laoszi stílusban épült, díszes, aranyozott gyülekezeti termével szolgálja a közeli közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        102.718254,
+                        17.886577
+                  ]
+            },
+            {
+                  "name": "Wat Wapi Pradit Bungle",
+                  "text": "Ezt a buddhista szentélyt bonyolult famunkái és a gyönyörűen ívelt, többszintes tetőzet különbözteti meg, amely arany szobrokat véd az imateremben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.706047,
+                        17.829379
+                  ]
+            },
+            {
+                  "name": "Nong Khai Station Night Market",
+                  "text": "A vasútállomás közelében szürkületkor felálló, nyüzsgő szabadtéri bazárt fényfüzérek világítják meg, miközben az árusok olcsó ruházati cikkeket és nyársra húzott húsokat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.727757,
+                        17.866746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tribal Park",
+                  "text": "Conceput pentru a prezenta moștenirea etnică regională, acest muzeu în aer liber prezintă locuințe tradiționale reconstruite și expoziții de meșteșuguri tribale autentice.",
+                  "category": "museum",
+                  "coords": [
+                        102.704435,
+                        17.882377
+                  ]
+            },
+            {
+                  "name": "Chom Mani Beach",
+                  "text": "Apărând doar în timpul apelor scăzute din sezonul uscat, această întindere largă de nisip de-a lungul malului râului Mekong este un loc local popular pentru apusuri și picnicuri.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710034,
+                        17.876626
+                  ]
+            },
+            {
+                  "name": "1st Thai–Lao Friendship Bridge (Nong Khai-Vientiane)",
+                  "text": "Traversând râul lat Mekong, acest pod monumental din beton susține atât o autostradă, cât și o cale ferată, servind drept principala poartă terestră între Thailanda și Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715103,
+                        17.880342
+                  ]
+            },
+            {
+                  "name": "Inpeng Riverside",
+                  "text": "Situat chiar pe malul râului, acest parc acvatic pentru familii are piscine mari, tobogane colorate și zone de relaxare umbrite.",
+                  "category": "recreational",
+                  "coords": [
+                        102.705673,
+                        17.882208
+                  ]
+            },
+            {
+                  "name": "Wat Dongphosy",
+                  "text": "Situat într-un crâng liniștit, acest centru budist local servește comunitatea din apropiere cu o sală de adunare aurită, ornamentată, construită în stilul tradițional laoțian.",
+                  "category": "landmark",
+                  "coords": [
+                        102.718254,
+                        17.886577
+                  ]
+            },
+            {
+                  "name": "Wat Wapi Pradit Bungle",
+                  "text": "Acest sanctuar budist se distinge prin lucrările sale complexe în lemn și un acoperiș elegant cu mai multe niveluri, care adăpostește statui de aur în sala de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        102.706047,
+                        17.829379
+                  ]
+            },
+            {
+                  "name": "Nong Khai Station Night Market",
+                  "text": "Înființat la lăsarea întunericului lângă gara feroviară, acest bazar aglomerat în aer liber este iluminat de ghirlande luminoase, în timp ce vânzătorii oferă îmbrăcăminte ieftină și frigărui de carne.",
+                  "category": "cultural",
+                  "coords": [
+                        102.727757,
+                        17.866746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tribal Park",
+                  "text": "Designed to showcase regional ethnic heritage, this open-air museum features reconstructed traditional dwellings and displays of authentic tribal craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        102.704435,
+                        17.882377
+                  ]
+            },
+            {
+                  "name": "Chom Mani Beach",
+                  "text": "Emerging only during the dry season's low waters, this wide sandy stretch along the Mekong riverbank is a popular local spot for sunsets and picnics.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710034,
+                        17.876626
+                  ]
+            },
+            {
+                  "name": "1st Thai–Lao Friendship Bridge (Nong Khai-Vientiane)",
+                  "text": "Spanning the wide Mekong River, this monumental concrete bridge carries both a highway and a railway track, serving as the primary land gateway between Thailand and Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715103,
+                        17.880342
+                  ]
+            },
+            {
+                  "name": "Inpeng Riverside",
+                  "text": "Situated closely alongside the river, this family-friendly water park features large swimming pools, colorful splash slides, and shaded lounging areas.",
+                  "category": "recreational",
+                  "coords": [
+                        102.705673,
+                        17.882208
+                  ]
+            },
+            {
+                  "name": "Wat Dongphosy",
+                  "text": "Set within a tranquil grove, this local Buddhist center serves its nearby community with an ornate, gilded assembly hall built in the traditional Lao style.",
+                  "category": "landmark",
+                  "coords": [
+                        102.718254,
+                        17.886577
+                  ]
+            },
+            {
+                  "name": "Wat Wapi Pradit Bungle",
+                  "text": "This Buddhist sanctuary is distinguished by its intricate woodwork and a sweeping, multi-tiered roof that shelters golden statues within its prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.706047,
+                        17.829379
+                  ]
+            },
+            {
+                  "name": "Nong Khai Station Night Market",
+                  "text": "Setting up at dusk near the train station, this bustling outdoor bazaar is illuminated by string lights as vendors sell cheap apparel and skewered meats.",
+                  "category": "cultural",
+                  "coords": [
+                        102.727757,
+                        17.866746
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LA-VT",
     coords: [102.6685, 17.8635],
@@ -291,7 +2496,88 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "hongsa-power-plant-economic-v2",
+    id: "hongsa-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"New\" Market",
+                  "text": "Der „Neue“ Markt wurde gebaut, um die wachsende Gemeinde in der Nähe des Kraftwerks Hongsa zu versorgen, und bietet moderne Stände für den täglichen Lebensmitteleinkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        101.326801,
+                        19.705965
+                  ]
+            },
+            {
+                  "name": "Hongsa Market",
+                  "text": "Als primärer kommerzieller Punkt des Bezirks versorgt der Hongsa-Markt die lokale Belegschaft und die Anwohner mit frischen regionalen Lebensmitteln und Vorräten.",
+                  "category": "cultural",
+                  "coords": [
+                        101.337834,
+                        19.707536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"New\" Market",
+                  "text": "A hongsa erőmű melletti növekvő közösség igényeinek kielégítésére épült \"Új\" piac modern standokat kínál a mindennapi élelmiszer-vásárláshoz.",
+                  "category": "cultural",
+                  "coords": [
+                        101.326801,
+                        19.705965
+                  ]
+            },
+            {
+                  "name": "Hongsa Market",
+                  "text": "A kerület elsődleges kereskedelmi pontjaként a Hongsa piac friss regionális élelmiszerekkel és ellátmányokkal látja el a helyi munkaerőt és a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        101.337834,
+                        19.707536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"New\" Market",
+                  "text": "Construită pentru a găzdui comunitatea în creștere de lângă centrala electrică Hongsa, Piața \"Nouă\" oferă tarabe moderne pentru cumpărăturile alimentare zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        101.326801,
+                        19.705965
+                  ]
+            },
+            {
+                  "name": "Hongsa Market",
+                  "text": "Ca punct comercial principal din district, Piața Hongsa aprovizionează forța de muncă locală și rezidenții cu alimente și provizii regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        101.337834,
+                        19.707536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"New\" Market",
+                  "text": "Built to accommodate the growing community near the Hongsa power plant, the \"New\" Market provides modern stalls for everyday grocery shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        101.326801,
+                        19.705965
+                  ]
+            },
+            {
+                  "name": "Hongsa Market",
+                  "text": "As a primary commercial point in the district, Hongsa Market supplies the local workforce and residents with fresh regional foods and supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        101.337834,
+                        19.707536
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LA-XA",
     coords: [101.3300, 19.7100],
@@ -363,7 +2649,196 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "vang-vieng-cement-plant-economic-v2",
+    id: "vang-vieng-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "Ein Aussichtspunkt, der für seine weite Sicht auf die bizarren Karstberge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Ein erhöhter Beobachtungspunkt mit Blick auf die Kalksteingipfel und ländlichen Farmen.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 1",
+                  "text": "Ein beliebtes Naturbad mit kristallklarem, türkisfarbenem Wasser am Fuße einer Höhle.",
+                  "category": "landmark",
+                  "coords": [
+                        102.395634,
+                        18.926695
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 2",
+                  "text": "Ein ruhigerer Badeort mit mehreren tiefblauen Becken, die von Bergquellen gespeist werden.",
+                  "category": "landmark",
+                  "coords": [
+                        102.377474,
+                        18.889394
+                  ]
+            },
+            {
+                  "name": "ຜາເງິນ",
+                  "text": "Eine steile Felswand, die besonders zum Sonnenuntergang einen Panoramablick über das Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.413123,
+                        18.916464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "Kilátóhely, amely a bizarr formájú karszthegyekre nyíló tágas panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Magaslati figyelőpont, ahonnan rálátni a mészkőcsúcsokra és a vidéki farmokra.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 1",
+                  "text": "Népszerű természetes fürdőhely kristálytiszta türkizkék vízzel egy barlang lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.395634,
+                        18.926695
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 2",
+                  "text": "Nyugodtabb fürdőhely több mélykék medencével, melyeket hegyi források táplálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.377474,
+                        18.889394
+                  ]
+            },
+            {
+                  "name": "ຜາເງິນ",
+                  "text": "Meredek sziklafal, amely különösen naplementekor nyújt panorámát a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        102.413123,
+                        18.916464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "Un punct de observație cunoscut pentru vederea panoramică asupra munților carstici bizari.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Un punct de observație ridicat cu vedere spre vârfurile calcaroase și fermele rurale.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 1",
+                  "text": "Un loc popular de scăldat cu apă turcoaz cristalină, situat la poalele unei peșteri.",
+                  "category": "landmark",
+                  "coords": [
+                        102.395634,
+                        18.926695
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 2",
+                  "text": "Un loc de scăldat mai liniștit, cu mai multe bazine albastru-închis alimentate de izvoare montane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.377474,
+                        18.889394
+                  ]
+            },
+            {
+                  "name": "ຜາເງິນ",
+                  "text": "Un perete de stâncă abrupt care oferă o panoramă asupra văii, în special la apus.",
+                  "category": "natural",
+                  "coords": [
+                        102.413123,
+                        18.916464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "A vantage point known for its sweeping views of the bizarrely shaped karst mountains.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "An elevated observation point overlooking the limestone peaks and rural farms.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 1",
+                  "text": "A popular natural swimming hole with crystal-clear turquoise water at the foot of a cave.",
+                  "category": "landmark",
+                  "coords": [
+                        102.395634,
+                        18.926695
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon 2",
+                  "text": "A quieter swimming area with several deep blue pools fed by mountain springs.",
+                  "category": "landmark",
+                  "coords": [
+                        102.377474,
+                        18.889394
+                  ]
+            },
+            {
+                  "name": "Silver Cliff",
+                  "text": "A steep rock face offering a panoramic view over the valley, especially at sunset.",
+                  "category": "natural",
+                  "coords": [
+                        102.413123,
+                        18.916464
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LA-VI",
     coords: [102.4300, 18.9100],
@@ -399,7 +2874,520 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "vientiane-industrial-and-trade-area-economic-v2",
+    id: "vientiane-industrial-and-trade-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ອານຸສາວະລີ ບ້ານດົງບັງ",
+                  "text": "Das Monument im Dorf Dongbang erinnert an lokale historische Ereignisse im Wirtschaftsraum von Vientiane.",
+                  "category": "historical",
+                  "coords": [
+                        102.733851,
+                        18.12368
+                  ]
+            },
+            {
+                  "name": "Wat Khoknoy",
+                  "text": "Wat Khoknoy ist ein friedlicher buddhistischer Tempel im Industrie- und Handelsgebiet von Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710513,
+                        18.051694
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານດົງບັງ",
+                  "text": "Der buddhistische Tempel von Dôngbang dient als spirituelles Zentrum für die Bewohner der Handelszone von Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.742492,
+                        18.122904
+                  ]
+            },
+            {
+                  "name": "ວັດ ບ້ານໄຜ່ລ້ອມ",
+                  "text": "Wat Ban Phailom ist eine buddhistische Anlage, die traditionelle Architektur in Vientianes Wirtschaftszone bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.775497,
+                        18.054624
+                  ]
+            },
+            {
+                  "name": "ວັດໂພໄຊຍະຮານ. ບ. ໂຊກນ້ອຍ",
+                  "text": "Wat Phôxaignahan Ban Xôk Noy bietet einen ruhigen buddhistischen Rückzugsort inmitten des geschäftigen Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.686414,
+                        18.009943
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າສັນຕິສຸຂ ບ້ານດອນໜູນ",
+                  "text": "Der buddhistische Tempel Wat Pasantisouk Ban Donnoun ist ein lokaler Andachtsort am Rande von Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.656776,
+                        18.044594
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງບົວ",
+                  "text": "Dieser dörfliche buddhistische Tempel in Nong Bua ist ein spiritueller Anker für die umliegende Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728126,
+                        18.092974
+                  ]
+            },
+            {
+                  "name": "ວັດໂນນແຍງ (ບ້ານນາສາລາ)",
+                  "text": "Der Tempel Non Yaeng in Ban Nasala dient der buddhistischen Glaubensgemeinschaft in der Region Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.732274,
+                        18.13734
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາມົນ",
+                  "text": "Der buddhistische Tempel im Dorf Namon ist ein Ort der Kontemplation in der Provinz Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751085,
+                        18.10685
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາສາລາ",
+                  "text": "Der Nasala-Tempel ist eine traditionelle buddhistische Stätte im dörflichen Umfeld von Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.7324,
+                        18.123698
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາລ້ອມ",
+                  "text": "Der dörfliche Tempel in Na Lom widmet sich den buddhistischen Ritualen der lokalen Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        102.736001,
+                        18.087818
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າເວລຸວັນ",
+                  "text": "Der Veruwan Forest Temple ist ein in die Natur eingebetteter buddhistischer Tempel bei Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755109,
+                        18.021315
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດດົງໝາກຄາຍ",
+                  "text": "Der öffentliche Markt von Dôngmakkhay ist ein lebhafter Handelsplatz für frische Lebensmittel und Waren in Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.670552,
+                        18.081745
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຊູມຊົນບ້ານນາສາລາ",
+                  "text": "Dieser Gemeinschaftsmarkt in Ban Nasala bietet lokale landwirtschaftliche Erzeugnisse und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        102.72928,
+                        18.115321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ອານຸສາວະລີ ບ້ານດົງບັງ",
+                  "text": "A Dongbang faluban található emlékmű a vientiane-i gazdasági övezet helyi történelmi eseményeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        102.733851,
+                        18.12368
+                  ]
+            },
+            {
+                  "name": "Wat Khoknoy",
+                  "text": "A Wat Khoknoy egy békés buddhista templom Vientiane ipari és kereskedelmi övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710513,
+                        18.051694
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານດົງບັງ",
+                  "text": "A dôngbangi buddhista templom spirituális központként szolgál a vientiane-i kereskedelmi zóna lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.742492,
+                        18.122904
+                  ]
+            },
+            {
+                  "name": "ວັດ ບ້ານໄຜ່ລ້ອມ",
+                  "text": "A Wat Ban Phailom egy hagyományos építészeti elemeket őrző buddhista létesítmény Vientiane gazdasági övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.775497,
+                        18.054624
+                  ]
+            },
+            {
+                  "name": "ວັດໂພໄຊຍະຮານ. ບ. ໂຊກນ້ອຍ",
+                  "text": "A Wat Phôxaignahan Ban Xôk Noy csendes buddhista menedéket nyújt Vientiane nyüzsgő kereskedelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.686414,
+                        18.009943
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າສັນຕິສຸຂ ບ້ານດອນໜູນ",
+                  "text": "A Wat Pasantisouk Ban Donnoun egy helyi buddhista istentiszteleti hely Vientiane külvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        102.656776,
+                        18.044594
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງບົວ",
+                  "text": "Ez a Nong Bua-i falusi buddhista templom a környező közösség spirituális horgonya.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728126,
+                        18.092974
+                  ]
+            },
+            {
+                  "name": "ວັດໂນນແຍງ (ບ້ານນາສາລາ)",
+                  "text": "A Ban Nasalában található Non Yaeng templom a Vientiane régió buddhista hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.732274,
+                        18.13734
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາມົນ",
+                  "text": "A Namon faluban található buddhista templom a csend és a szemlélődés helye Vientiane tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751085,
+                        18.10685
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາສາລາ",
+                  "text": "A Nasala templom egy hagyományos buddhista szentély Vientiane falusias környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.7324,
+                        18.123698
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາລ້ອມ",
+                  "text": "A Na Lom-i falusi templom a helyi lakosság buddhista rituáléinak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.736001,
+                        18.087818
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າເວລຸວັນ",
+                  "text": "A Veruwan Forest Temple egy természetbe ágyazott buddhista erdei templom Vientiane közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755109,
+                        18.021315
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດດົງໝາກຄາຍ",
+                  "text": "A Dôngmakkhay közpiac egy nyüzsgő kereskedelmi csomópont friss élelmiszerek és áruk számára Vientiane-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        102.670552,
+                        18.081745
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຊູມຊົນບ້ານນາສາລາ",
+                  "text": "Ez a Ban Nasala-i közösségi piac helyi mezőgazdasági termékeket és mindennapi árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        102.72928,
+                        18.115321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ອານຸສາວະລີ ບ້ານດົງບັງ",
+                  "text": "Monumentul din satul Dongbang comemorează evenimente istorice locale din zona economică Vientiane.",
+                  "category": "historical",
+                  "coords": [
+                        102.733851,
+                        18.12368
+                  ]
+            },
+            {
+                  "name": "Wat Khoknoy",
+                  "text": "Wat Khoknoy este un templu budist pașnic situat în zona industrială și comercială a orașului Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710513,
+                        18.051694
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານດົງບັງ",
+                  "text": "Templul budist din Dôngbang servește drept centru spiritual pentru locuitorii din zona comercială Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.742492,
+                        18.122904
+                  ]
+            },
+            {
+                  "name": "ວັດ ບ້ານໄຜ່ລ້ອມ",
+                  "text": "Wat Ban Phailom este un așezământ budist ce păstrează arhitectura tradițională în zona economică Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.775497,
+                        18.054624
+                  ]
+            },
+            {
+                  "name": "ວັດໂພໄຊຍະຮານ. ບ. ໂຊກນ້ອຍ",
+                  "text": "Wat Phôxaignahan Ban Xôk Noy oferă un refugiu budist liniștit în zona industrială aglomerată a orașului Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.686414,
+                        18.009943
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າສັນຕິສຸຂ ບ້ານດອນໜູນ",
+                  "text": "Templul budist Wat Pasantisouk Ban Donnoun este un lăcaș de cult local de la marginea orașului Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.656776,
+                        18.044594
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງບົວ",
+                  "text": "Acest templu budist sătesc din Nong Bua reprezintă un punct de reper spiritual pentru comunitatea din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728126,
+                        18.092974
+                  ]
+            },
+            {
+                  "name": "ວັດໂນນແຍງ (ບ້ານນາສາລາ)",
+                  "text": "Templul Non Yaeng din Ban Nasala deservește comunitatea budistă din regiunea Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.732274,
+                        18.13734
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາມົນ",
+                  "text": "Templul budist din satul Namon este un loc de contemplare în provincia Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751085,
+                        18.10685
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາສາລາ",
+                  "text": "Templul Nasala este un așezământ budist tradițional situat în zona rurală din jurul orașului Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.7324,
+                        18.123698
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາລ້ອມ",
+                  "text": "Templul sătesc din Na Lom găzduiește ritualurile budiste ale populației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.736001,
+                        18.087818
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າເວລຸວັນ",
+                  "text": "Templul Veruwan Forest este un așezământ budist înconjurat de natură, situat lângă Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755109,
+                        18.021315
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດດົງໝາກຄາຍ",
+                  "text": "Piața publică din Dôngmakkhay este un loc comercial plin de viață unde se vând alimente proaspete și bunuri în Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.670552,
+                        18.081745
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຊູມຊົນບ້ານນາສາລາ",
+                  "text": "Această piață comunitară din Ban Nasala oferă produse agricole locale și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        102.72928,
+                        18.115321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ອານຸສາວະລີ ບ້ານດົງບັງ",
+                  "text": "The monument in Dongbang village commemorates local historical events within the Vientiane economic zone.",
+                  "category": "historical",
+                  "coords": [
+                        102.733851,
+                        18.12368
+                  ]
+            },
+            {
+                  "name": "Wat Khoknoy",
+                  "text": "Wat Khoknoy is a peaceful Buddhist temple situated within Vientiane's industrial and trade area.",
+                  "category": "landmark",
+                  "coords": [
+                        102.710513,
+                        18.051694
+                  ]
+            },
+            {
+                  "name": "Dôngbang Temple",
+                  "text": "The Buddhist temple of Dôngbang serves as a spiritual hub for residents in the Vientiane trade zone.",
+                  "category": "landmark",
+                  "coords": [
+                        102.742492,
+                        18.122904
+                  ]
+            },
+            {
+                  "name": "Wat Ban Phailom",
+                  "text": "Wat Ban Phailom is a Buddhist compound preserving traditional architecture within Vientiane's economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        102.775497,
+                        18.054624
+                  ]
+            },
+            {
+                  "name": "Wat Phôxaignahan Ban Xôk Noy",
+                  "text": "Wat Phôxaignahan Ban Xôk Noy offers a quiet Buddhist retreat in the busy industrial area of Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.686414,
+                        18.009943
+                  ]
+            },
+            {
+                  "name": "Wat Pasantisouk Ban Donnoun",
+                  "text": "The Buddhist temple of Wat Pasantisouk Ban Donnoun is a local place of worship on the outskirts of Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.656776,
+                        18.044594
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໜອງບົວ",
+                  "text": "This village Buddhist temple in Nong Bua is a spiritual anchor for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728126,
+                        18.092974
+                  ]
+            },
+            {
+                  "name": "ວັດໂນນແຍງ (ບ້ານນາສາລາ)",
+                  "text": "The Non Yaeng temple in Ban Nasala serves the Buddhist faithful in the Vientiane region.",
+                  "category": "landmark",
+                  "coords": [
+                        102.732274,
+                        18.13734
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາມົນ",
+                  "text": "The Buddhist temple in Namon village is a place of contemplation in Vientiane province.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751085,
+                        18.10685
+                  ]
+            },
+            {
+                  "name": "Nasala Temple",
+                  "text": "The Nasala Temple is a traditional Buddhist site located in the rural outskirts of Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.7324,
+                        18.123698
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານນາລ້ອມ",
+                  "text": "The village temple in Na Lom is dedicated to the Buddhist rituals of the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        102.736001,
+                        18.087818
+                  ]
+            },
+            {
+                  "name": "Veruwan Forest Temple",
+                  "text": "The Veruwan Forest Temple is a nature-immersed Buddhist sanctuary near Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755109,
+                        18.021315
+                  ]
+            },
+            {
+                  "name": "Dôngmakkhay Public Market",
+                  "text": "The Dôngmakkhay Public Market is a bustling trading spot for fresh food and goods in Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.670552,
+                        18.081745
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຊູມຊົນບ້ານນາສາລາ",
+                  "text": "This community market in Ban Nasala provides local agricultural produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        102.72928,
+                        18.115321
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LA-VT",
     coords: [102.7200, 18.0500],
@@ -435,7 +3423,1096 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "pakse-japan-sme-sez-economic-v2",
+    id: "pakse-japan-sme-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tad Tameun rapids waterfall",
+                  "text": "Eine dynamische Naturattraktion mit einem Wasserfall und Stromschnellen an einem lokalen Fluss in der Nähe von Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.860642,
+                        15.062337
+                  ]
+            },
+            {
+                  "name": "Vat Bang Yor Museum",
+                  "text": "Ein regionales Museum, das der Erhaltung und Ausstellung lokaler Geschichte und Artefakte in Pakse gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        105.832936,
+                        15.092745
+                  ]
+            },
+            {
+                  "name": "ພູສະເລົາ",
+                  "text": "Ein markanter Aussichtspunkt auf einem Hügel mit einem großen goldenen Buddha und Blick auf Pakse und den Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        105.811757,
+                        15.095551
+                  ]
+            },
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "Ein Museum in Pakse, das traditionelle Textilien, Bronzetrommeln und historische Artefakte der Provinz Champasak ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick auf die umliegenden Landschaften nahe Pakse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "Eine prägende architektonische oder kulturelle Attraktion im Herzen der Wirtschaftszone von Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            },
+            {
+                  "name": "Cliff viewpoint",
+                  "text": "Ein dramatischer Aussichtspunkt an einer steilen Klippe, der spektakuläre Ausblicke in der Nähe von Pakse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        105.81536,
+                        15.085657
+                  ]
+            },
+            {
+                  "name": "Firely viewpoint",
+                  "text": "Ein spezieller Aussichtspunkt, der für die Beobachtung leuchtender Glühwürmchen in ihrem natürlichen Lebensraum bei Pakse bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        105.81724,
+                        15.089511
+                  ]
+            },
+            {
+                  "name": "Animist-Buddhist Ghost Small House",
+                  "text": "Ein kleines Geisterhaus, das die lokale Vermischung von buddhistischem und animistischem Glauben in Pakse widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.843453,
+                        15.086742
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay Temple",
+                  "text": "Ein buddhistischer Gemeindetempel, der den religiösen Bedürfnissen des Dorfes Ban Khone Lay bei Pakse dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.832035,
+                        15.077837
+                  ]
+            },
+            {
+                  "name": "Wat Ban Kè",
+                  "text": "Wat Ban Kè ist ein buddhistischer Tempel, der die lokale Religionsgemeinschaft in der Nähe des Pakse-Wirtschaftsgebietes bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.812302,
+                        15.127609
+                  ]
+            },
+            {
+                  "name": "Linh Bao Tu Temple",
+                  "text": "Der Linh Bao Tu Tempel ist ein taoistisches Heiligtum, das mit seinen traditionellen architektonischen Elementen die Stadt Pakse bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        105.804247,
+                        15.120913
+                  ]
+            },
+            {
+                  "name": "Wat Tham Fai (Wat Pha Bat)",
+                  "text": "Wat Tham Fai, auch als Wat Pha Bat bekannt, ist eine bedeutende buddhistische Stätte, die Pilger aus der Pakse-Region anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80873,
+                        15.121415
+                  ]
+            },
+            {
+                  "name": "ຈັດ ຮອງຄະຍອມ",
+                  "text": "Wat Hongkhayom ist eine traditionelle buddhistische Tempelanlage in Pakse, die als ruhiger Ort der Meditation dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.807175,
+                        15.116516
+                  ]
+            },
+            {
+                  "name": "Vat Phone Koung",
+                  "text": "Vat Phone Koung ist ein friedlicher buddhistischer Tempel, der in das alltägliche Leben der örtlichen Gemeinde von Pakse integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81101,
+                        15.114051
+                  ]
+            },
+            {
+                  "name": "Vat Phonsavanh",
+                  "text": "Die buddhistische Stätte Vat Phonsavanh bietet einen ruhigen religiösen Rückzugsort für Gläubige in der Region Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.816931,
+                        15.113496
+                  ]
+            },
+            {
+                  "name": "Vat Chinese Sopsé",
+                  "text": "Der Vat Chinese Sopsé ist ein taoistischer Tempel, dessen Architektur von der chinesischen Gemeinde in Pakse geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.794227,
+                        15.115516
+                  ]
+            },
+            {
+                  "name": "Viet Shrine",
+                  "text": "Der Viet Shrine ist ein taoistischer Schrein, der die kulturellen und spirituellen Traditionen der vietnamesischen Diaspora in Pakse pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803254,
+                        15.116515
+                  ]
+            },
+            {
+                  "name": "Thach Minh Dien Shrine",
+                  "text": "Der taoistische Schrein Thach Minh Dien lädt die Bewohner von Pakse mit seiner traditionellen Gestaltung zur stillen Andacht ein.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803668,
+                        15.123198
+                  ]
+            },
+            {
+                  "name": "Chùa Long Vân Temple",
+                  "text": "Der Chùa Long Vân Tempel ist ein taoistisches Heiligtum in der Region Pakse, das asiatische religiöse Architekturstile präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798758,
+                        15.125011
+                  ]
+            },
+            {
+                  "name": "Kengkeung Temple",
+                  "text": "Der buddhistische Kengkeung Tempel ist ein zentraler Treffpunkt für religiöse Feste und Gebete im Gebiet von Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.779675,
+                        15.12453
+                  ]
+            },
+            {
+                  "name": "Wat Chomphet",
+                  "text": "Die buddhistische Stätte Wat Chomphet in Pakse beeindruckt durch ihre detailreiche traditionelle Architektur und ruhige Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        105.745816,
+                        15.165206
+                  ]
+            },
+            {
+                  "name": "Ban Bang Yor Nonsavang Wooden Church",
+                  "text": "Die Ban Bang Yor Nonsavang Holzkirche in Pakse ist ein christliches Bauwerk, das durch seine charakteristische traditionelle Holzbauweise besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        105.835931,
+                        15.098434
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Die Sacred Heart Cathedral ist ein großes christliches Gebäude, das als geistliches Zentrum für die ansässige katholische Gemeinde in Pakse fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80139,
+                        15.117264
+                  ]
+            },
+            {
+                  "name": "ວັດ ຄັນເກີງ",
+                  "text": "Der Khangkeung Tempel fügt sich harmonisch in die Umgebung von Pakse ein und dient als buddhistischer Ort der Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        105.783566,
+                        15.122001
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay small market",
+                  "text": "Der kleine Markt von Ban Khone Lay ist ein belebter lokaler Handelsplatz in Pakse, auf dem täglich frische Produkte ausgetauscht werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.834258,
+                        15.079431
+                  ]
+            },
+            {
+                  "name": "Daoheuang",
+                  "text": "Der Daoheuang-Markt ist ein weitläufiger Handelspunkt in Pakse, der eine reiche Auswahl an lokalen Nahrungsmitteln und Textilien bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        105.81322,
+                        15.114653
+                  ]
+            },
+            {
+                  "name": "Pakse New Market",
+                  "text": "Der Pakse New Market ist ein modernes städtisches Marktzentrum, in dem Händler der Region Delikatessen und Alltagsgegenstände anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        105.814385,
+                        15.114926
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Dieser lokale Marktplatz in Pakse dient als pulsierendes Zentrum für den Erwerb von Lebensmitteln und traditionellen Handwerkswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        105.799272,
+                        15.119202
+                  ]
+            },
+            {
+                  "name": "Mysai Market",
+                  "text": "Auf dem Mysai Market in Pakse versorgen sich die Dorfbewohner mit erntefrischem Gemüse und wichtigen Gütern des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        105.788738,
+                        15.125126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tad Tameun rapids waterfall",
+                  "text": "Dinamikus természeti látványosság egy helyi folyón lévő vízeséssel és zuhataggal Pakse közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.860642,
+                        15.062337
+                  ]
+            },
+            {
+                  "name": "Vat Bang Yor Museum",
+                  "text": "Regionális múzeum, amely a helyi történelem és műtárgyak megőrzésének és kiállításának szenteli magát Pakse-ban.",
+                  "category": "museum",
+                  "coords": [
+                        105.832936,
+                        15.092745
+                  ]
+            },
+            {
+                  "name": "ພູສະເລົາ",
+                  "text": "Kiemelkedő hegyi kilátópont, ahol egy nagy arany Buddha néz Pakse-ra és a Mekong folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        105.811757,
+                        15.095551
+                  ]
+            },
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "A Champasak tartomány hagyományos textíliáit, bronzdobjait és történelmi műtárgyait bemutató múzeum Pakse-ban.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Festői kilátópont, amely lenyűgöző kilátást nyújt a környező tájakra Pakse közelében.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "Meghatározó építészeti vagy kulturális látványosság a Pakse gazdasági övezet szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            },
+            {
+                  "name": "Cliff viewpoint",
+                  "text": "Drámai kilátópont egy meredek szikla peremén, amely látványos kilátást nyújt Pakse közelében.",
+                  "category": "natural",
+                  "coords": [
+                        105.81536,
+                        15.085657
+                  ]
+            },
+            {
+                  "name": "Firely viewpoint",
+                  "text": "Speciális kilátópont, amely arról ismert, hogy világító szentjánosbogarakat lehet megfigyelni természetes élőhelyükön Pakse közelében.",
+                  "category": "natural",
+                  "coords": [
+                        105.81724,
+                        15.089511
+                  ]
+            },
+            {
+                  "name": "Animist-Buddhist Ghost Small House",
+                  "text": "Egy kis szellemház, amely a buddhista és animista hitvilág helyi keveredését tükrözi Pakse-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.843453,
+                        15.086742
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay Temple",
+                  "text": "A közösséget szolgáló buddhista templom a Ban Khone Lay falu vallási igényeinek kielégítésére Pakse közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.832035,
+                        15.077837
+                  ]
+            },
+            {
+                  "name": "Wat Ban Kè",
+                  "text": "A Wat Ban Kè egy buddhista templom, amely a helyi vallási közösséget szolgálja a Pakse gazdasági övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.812302,
+                        15.127609
+                  ]
+            },
+            {
+                  "name": "Linh Bao Tu Temple",
+                  "text": "A Linh Bao Tu templom egy taoista szentély, amely hagyományos építészeti elemeivel gazdagítja Pakse városát.",
+                  "category": "landmark",
+                  "coords": [
+                        105.804247,
+                        15.120913
+                  ]
+            },
+            {
+                  "name": "Wat Tham Fai (Wat Pha Bat)",
+                  "text": "A Wat Tham Fai, más néven Wat Pha Bat, egy jelentős buddhista zarándokhely, amely a Pakse régióból vonzza a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80873,
+                        15.121415
+                  ]
+            },
+            {
+                  "name": "ຈັດ ຮອງຄະຍອມ",
+                  "text": "A Wat Hongkhayom egy hagyományos buddhista templomkomplexum Pakse városában, amely a meditáció nyugodt helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        105.807175,
+                        15.116516
+                  ]
+            },
+            {
+                  "name": "Vat Phone Koung",
+                  "text": "A Vat Phone Koung egy békés buddhista templom, amely szervesen illeszkedik a helyi Pakse közösség mindennapi életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81101,
+                        15.114051
+                  ]
+            },
+            {
+                  "name": "Vat Phonsavanh",
+                  "text": "A Vat Phonsavanh buddhista szentély csendes vallási elvonulási lehetőséget kínál a hívők számára a Pakse régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.816931,
+                        15.113496
+                  ]
+            },
+            {
+                  "name": "Vat Chinese Sopsé",
+                  "text": "A Vat Chinese Sopsé egy taoista templom, amelynek építészetét a Pakse-i kínai közösség határozza meg.",
+                  "category": "landmark",
+                  "coords": [
+                        105.794227,
+                        15.115516
+                  ]
+            },
+            {
+                  "name": "Viet Shrine",
+                  "text": "A Viet Shrine egy taoista szentély, amely a Pakse környéki vietnámi diaszpóra kulturális és spirituális hagyományait ápolja.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803254,
+                        15.116515
+                  ]
+            },
+            {
+                  "name": "Thach Minh Dien Shrine",
+                  "text": "A Thach Minh Dien taoista szentély hagyományos kialakításával csendes áhítatra hívja Pakse lakóit.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803668,
+                        15.123198
+                  ]
+            },
+            {
+                  "name": "Chùa Long Vân Temple",
+                  "text": "A Chùa Long Vân templom egy taoista szentély a Pakse régióban, amely ázsiai vallási építészeti stílusokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798758,
+                        15.125011
+                  ]
+            },
+            {
+                  "name": "Kengkeung Temple",
+                  "text": "A buddhista Kengkeung templom a helyi lakosság vallási ünnepeinek és imádságainak központi találkozóhelye Pakse területén.",
+                  "category": "landmark",
+                  "coords": [
+                        105.779675,
+                        15.12453
+                  ]
+            },
+            {
+                  "name": "Wat Chomphet",
+                  "text": "A Pakse-ban található Wat Chomphet buddhista szentély részletgazdag hagyományos építészetével és nyugodt légkörével varázsol el.",
+                  "category": "landmark",
+                  "coords": [
+                        105.745816,
+                        15.165206
+                  ]
+            },
+            {
+                  "name": "Ban Bang Yor Nonsavang Wooden Church",
+                  "text": "A Pakse-i Ban Bang Yor Nonsavang fatemplom egy keresztény építmény, amely jellegzetes hagyományos faépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        105.835931,
+                        15.098434
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "A Sacred Heart Cathedral egy nagy keresztény épület, amely a Pakse-i katolikus közösség szellemi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80139,
+                        15.117264
+                  ]
+            },
+            {
+                  "name": "ວັດ ຄັນເກີງ",
+                  "text": "A Khangkeung templom harmonikusan illeszkedik Pakse környezetébe, és buddhista elvonulási helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        105.783566,
+                        15.122001
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay small market",
+                  "text": "A Ban Khone Lay kis piaca egy nyüzsgő helyi kereskedelmi központ Pakse-ban, ahol naponta cserélnek friss termékeket.",
+                  "category": "cultural",
+                  "coords": [
+                        105.834258,
+                        15.079431
+                  ]
+            },
+            {
+                  "name": "Daoheuang",
+                  "text": "A Daoheuang piac egy kiterjedt kereskedelmi központ Pakse-ban, amely helyi élelmiszerek és textíliák gazdag választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        105.81322,
+                        15.114653
+                  ]
+            },
+            {
+                  "name": "Pakse New Market",
+                  "text": "A Pakse New Market egy modern városi piacközpont, ahol a régió árusai finomságokat és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.814385,
+                        15.114926
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ez a helyi piactér Pakse városában élelmiszerek és hagyományos kézműves termékek beszerzésének lüktető központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        105.799272,
+                        15.119202
+                  ]
+            },
+            {
+                  "name": "Mysai Market",
+                  "text": "A Pakse-i Mysai piacon a falusiak frissen szedett zöldségekkel és a mindennapi élethez szükséges fontos cikkekkel látják el magukat.",
+                  "category": "cultural",
+                  "coords": [
+                        105.788738,
+                        15.125126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tad Tameun rapids waterfall",
+                  "text": "O atracție naturală dinamică, cu o cascadă și praguri pe un râu local din apropiere de Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.860642,
+                        15.062337
+                  ]
+            },
+            {
+                  "name": "Vat Bang Yor Museum",
+                  "text": "Un muzeu regional dedicat conservării și expunerii istoriei și artefactelor locale în Pakse.",
+                  "category": "museum",
+                  "coords": [
+                        105.832936,
+                        15.092745
+                  ]
+            },
+            {
+                  "name": "ພູສະເລົາ",
+                  "text": "Un punct de belvedere proeminent pe un deal, care prezintă un Buddha de aur mare, cu vedere la Pakse și la râul Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        105.811757,
+                        15.095551
+                  ]
+            },
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "Un muzeu în Pakse care expune textile tradiționale, tobe de bronz și artefacte istorice din provincia Champasak.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști largi asupra peisajelor înconjurătoare din apropiere de Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "O atracție arhitecturală sau culturală definitorie în inima zonei economice Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            },
+            {
+                  "name": "Cliff viewpoint",
+                  "text": "Un punct de belvedere dramatic cocoțat pe marginea unei stânci abrupte, oferind panorame spectaculoase lângă Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.81536,
+                        15.085657
+                  ]
+            },
+            {
+                  "name": "Firely viewpoint",
+                  "text": "Un punct de belvedere specific, renumit pentru observarea licuricilor strălucitori în habitatul lor natural din apropiere de Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.81724,
+                        15.089511
+                  ]
+            },
+            {
+                  "name": "Animist-Buddhist Ghost Small House",
+                  "text": "O mică casă a spiritelor care reflectă amestecul local al credințelor budiste și animiste din Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.843453,
+                        15.086742
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay Temple",
+                  "text": "Un templu budist comunitar care deservește nevoile religioase ale satului Ban Khone Lay din apropiere de Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.832035,
+                        15.077837
+                  ]
+            },
+            {
+                  "name": "Wat Ban Kè",
+                  "text": "Wat Ban Kè este un templu budist care servește comunitatea religioasă locală din apropierea zonei economice Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.812302,
+                        15.127609
+                  ]
+            },
+            {
+                  "name": "Linh Bao Tu Temple",
+                  "text": "Templul Linh Bao Tu este un sanctuar taoist care îmbogățește orașul Pakse cu elementele sale arhitecturale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        105.804247,
+                        15.120913
+                  ]
+            },
+            {
+                  "name": "Wat Tham Fai (Wat Pha Bat)",
+                  "text": "Wat Tham Fai, cunoscut și sub numele de Wat Pha Bat, este un loc budist important care atrage pelerini din regiunea Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80873,
+                        15.121415
+                  ]
+            },
+            {
+                  "name": "ຈັດ ຮອງຄະຍອມ",
+                  "text": "Wat Hongkhayom este un complex de temple budiste tradiționale din Pakse, servind drept un loc liniștit de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        105.807175,
+                        15.116516
+                  ]
+            },
+            {
+                  "name": "Vat Phone Koung",
+                  "text": "Vat Phone Koung este un templu budist pașnic, integrat în viața de zi cu zi a comunității locale din Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81101,
+                        15.114051
+                  ]
+            },
+            {
+                  "name": "Vat Phonsavanh",
+                  "text": "Așezământul budist Vat Phonsavanh oferă un refugiu religios liniștit pentru credincioșii din regiunea Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.816931,
+                        15.113496
+                  ]
+            },
+            {
+                  "name": "Vat Chinese Sopsé",
+                  "text": "Vat Chinese Sopsé este un templu taoist a cărui arhitectură este influențată de comunitatea chineză din Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.794227,
+                        15.115516
+                  ]
+            },
+            {
+                  "name": "Viet Shrine",
+                  "text": "Altarul Viet este un altar taoist care păstrează tradițiile culturale și spirituale ale diasporei vietnameze din Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803254,
+                        15.116515
+                  ]
+            },
+            {
+                  "name": "Thach Minh Dien Shrine",
+                  "text": "Altarul taoist Thach Minh Dien invită locuitorii din Pakse la meditație tăcută prin designul său tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803668,
+                        15.123198
+                  ]
+            },
+            {
+                  "name": "Chùa Long Vân Temple",
+                  "text": "Templul Chùa Long Vân este un sanctuar taoist din regiunea Pakse, care prezintă stiluri arhitecturale religioase asiatice.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798758,
+                        15.125011
+                  ]
+            },
+            {
+                  "name": "Kengkeung Temple",
+                  "text": "Templul budist Kengkeung este un loc central de întâlnire pentru festivalurile religioase și rugăciunile din zona Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.779675,
+                        15.12453
+                  ]
+            },
+            {
+                  "name": "Wat Chomphet",
+                  "text": "Așezământul budist Wat Chomphet din Pakse impresionează prin arhitectura sa tradițională detaliată și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        105.745816,
+                        15.165206
+                  ]
+            },
+            {
+                  "name": "Ban Bang Yor Nonsavang Wooden Church",
+                  "text": "Biserica de lemn Ban Bang Yor Nonsavang din Pakse este o structură creștină care impresionează prin construcția sa tradițională din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        105.835931,
+                        15.098434
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Catedrala Sacred Heart este o clădire creștină mare care funcționează ca centru spiritual pentru comunitatea catolică rezidentă din Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80139,
+                        15.117264
+                  ]
+            },
+            {
+                  "name": "ວັດ ຄັນເກີງ",
+                  "text": "Templul Khangkeung se integrează armonios în împrejurimile orașului Pakse și servește ca loc budist de retragere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        105.783566,
+                        15.122001
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay small market",
+                  "text": "Mica piață din Ban Khone Lay este un loc de comerț local animat în Pakse, unde se schimbă zilnic produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        105.834258,
+                        15.079431
+                  ]
+            },
+            {
+                  "name": "Daoheuang",
+                  "text": "Piața Daoheuang este un punct comercial extins în Pakse, oferind o selecție bogată de alimente locale și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        105.81322,
+                        15.114653
+                  ]
+            },
+            {
+                  "name": "Pakse New Market",
+                  "text": "Pakse New Market este un centru de piață urban modern unde comercianții din regiune oferă delicatese și articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        105.814385,
+                        15.114926
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Această piață locală din Pakse servește ca un centru vibrant pentru achiziționarea de alimente și bunuri artizanale tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.799272,
+                        15.119202
+                  ]
+            },
+            {
+                  "name": "Mysai Market",
+                  "text": "La piața Mysai din Pakse, sătenii se aprovizionează cu legume proaspăt culese și bunuri esențiale pentru viața de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        105.788738,
+                        15.125126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tad Tameun rapids waterfall",
+                  "text": "A dynamic natural attraction featuring a cascading waterfall and rapids on a local river near Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.860642,
+                        15.062337
+                  ]
+            },
+            {
+                  "name": "Vat Bang Yor Museum",
+                  "text": "A regional museum dedicated to preserving and exhibiting local history and artifacts in Pakse.",
+                  "category": "museum",
+                  "coords": [
+                        105.832936,
+                        15.092745
+                  ]
+            },
+            {
+                  "name": "Phou Salao",
+                  "text": "A prominent hill viewpoint featuring a large golden Buddha overlooking Pakse and the Mekong River.",
+                  "category": "natural",
+                  "coords": [
+                        105.811757,
+                        15.095551
+                  ]
+            },
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "A museum in Pakse displaying traditional textiles, bronze drums, and historical artifacts of Champasak Province.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "A picturesque viewpoint offering sweeping views of the surrounding landscapes near Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "A defining architectural or cultural attraction in the heart of the Pakse economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            },
+            {
+                  "name": "Cliff viewpoint",
+                  "text": "A dramatic viewpoint perched on a sheer cliff edge, offering spectacular vistas near Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.81536,
+                        15.085657
+                  ]
+            },
+            {
+                  "name": "Firely viewpoint",
+                  "text": "A specific viewpoint renowned for observing glowing fireflies in their natural habitat near Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.81724,
+                        15.089511
+                  ]
+            },
+            {
+                  "name": "Animist-Buddhist Ghost Small House",
+                  "text": "A small spirit house reflecting the local blending of Buddhist and Animist beliefs in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.843453,
+                        15.086742
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay Temple",
+                  "text": "A community Buddhist temple serving the religious needs of Ban Khone Lay village near Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.832035,
+                        15.077837
+                  ]
+            },
+            {
+                  "name": "Wat Ban Kè",
+                  "text": "Wat Ban Kè is a Buddhist temple serving the local religious community near the Pakse economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        105.812302,
+                        15.127609
+                  ]
+            },
+            {
+                  "name": "Linh Bao Tu Temple",
+                  "text": "Linh Bao Tu Temple is a Taoist sanctuary that enriches the city of Pakse with its traditional architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        105.804247,
+                        15.120913
+                  ]
+            },
+            {
+                  "name": "Wat Tham Fai (Wat Pha Bat)",
+                  "text": "Wat Tham Fai, also known as Wat Pha Bat, is a significant Buddhist site that attracts pilgrims from the Pakse region.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80873,
+                        15.121415
+                  ]
+            },
+            {
+                  "name": "Wat Hongkhayom",
+                  "text": "Wat Hongkhayom is a traditional Buddhist temple complex in Pakse, serving as a quiet place of meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        105.807175,
+                        15.116516
+                  ]
+            },
+            {
+                  "name": "Vat Phone Koung",
+                  "text": "Vat Phone Koung is a peaceful Buddhist temple integrated into the everyday life of the local community in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81101,
+                        15.114051
+                  ]
+            },
+            {
+                  "name": "Vat Phonsavanh",
+                  "text": "The Buddhist site Vat Phonsavanh offers a quiet religious retreat for believers in the Pakse region.",
+                  "category": "landmark",
+                  "coords": [
+                        105.816931,
+                        15.113496
+                  ]
+            },
+            {
+                  "name": "Vat Chinese Sopsé",
+                  "text": "Vat Chinese Sopsé is a Taoist temple whose architecture is influenced by the Chinese community in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.794227,
+                        15.115516
+                  ]
+            },
+            {
+                  "name": "Viet Shrine",
+                  "text": "The Viet Shrine is a Taoist shrine that maintains the cultural and spiritual traditions of the Vietnamese diaspora in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803254,
+                        15.116515
+                  ]
+            },
+            {
+                  "name": "Thach Minh Dien Shrine",
+                  "text": "The Taoist Thach Minh Dien Shrine invites the residents of Pakse to silent devotion with its traditional design.",
+                  "category": "landmark",
+                  "coords": [
+                        105.803668,
+                        15.123198
+                  ]
+            },
+            {
+                  "name": "Chùa Long Vân Temple",
+                  "text": "The Chùa Long Vân Temple is a Taoist sanctuary in the Pakse region that showcases Asian religious architectural styles.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798758,
+                        15.125011
+                  ]
+            },
+            {
+                  "name": "Kengkeung Temple",
+                  "text": "The Buddhist Kengkeung Temple is a central gathering place for religious festivals and prayers in the Pakse area.",
+                  "category": "landmark",
+                  "coords": [
+                        105.779675,
+                        15.12453
+                  ]
+            },
+            {
+                  "name": "Wat Chomphet",
+                  "text": "The Buddhist site Wat Chomphet in Pakse impresses with its detailed traditional architecture and tranquil atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        105.745816,
+                        15.165206
+                  ]
+            },
+            {
+                  "name": "Ban Bang Yor Nonsavang Wooden Church",
+                  "text": "The Ban Bang Yor Nonsavang Wooden Church in Pakse is a Christian structure that stands out with its distinctive traditional wooden construction.",
+                  "category": "landmark",
+                  "coords": [
+                        105.835931,
+                        15.098434
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "The Sacred Heart Cathedral is a large Christian building functioning as the spiritual center for the resident Catholic community in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.80139,
+                        15.117264
+                  ]
+            },
+            {
+                  "name": "Khangkeung Temple",
+                  "text": "The Khangkeung Temple blends harmoniously into the surroundings of Pakse and serves as a Buddhist place of retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        105.783566,
+                        15.122001
+                  ]
+            },
+            {
+                  "name": "Ban Khone Lay small market",
+                  "text": "The small market of Ban Khone Lay is a bustling local trading spot in Pakse where fresh produce is exchanged daily.",
+                  "category": "cultural",
+                  "coords": [
+                        105.834258,
+                        15.079431
+                  ]
+            },
+            {
+                  "name": "Daoheuang",
+                  "text": "Daoheuang Market is an expansive trading hub in Pakse offering a rich selection of local foods and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        105.81322,
+                        15.114653
+                  ]
+            },
+            {
+                  "name": "Pakse New Market",
+                  "text": "The Pakse New Market is a modern urban market center where traders from the region offer delicacies and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        105.814385,
+                        15.114926
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "This local marketplace in Pakse serves as a vibrant hub for purchasing food and traditional craft goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.799272,
+                        15.119202
+                  ]
+            },
+            {
+                  "name": "Mysai Market",
+                  "text": "At Mysai Market in Pakse, villagers stock up on freshly harvested vegetables and essential everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.788738,
+                        15.125126
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LA-CH",
     coords: [105.8000, 15.1100],
@@ -471,7 +4548,448 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "houayxay-port-economic-v2",
+    id: "houayxay-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaysone Monument",
+                  "text": "Ein Denkmal zu Ehren von Kaysone Phomvihane, dem ersten Anführer der laotischen Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Fort Carnot Viewpoint",
+                  "text": "Dieser Aussichtspunkt bei der alten französischen Festung bietet den besten Blick auf Houayxay und den Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        100.415179,
+                        20.272324
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "Ein lebhafter Morgenmarkt, auf dem lokale Bergvölker handgefertigte Waren und exotische Lebensmittel anbieten.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "Diese Stätte widmet sich dem seltenen Mekong-Riesenwels, einem der größten Süßwasserfische der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Choko Temple",
+                  "text": "Ein kleiner, beschaulicher buddhistischer Schrein, der im täglichen religiösen Leben der lokalen Flussgemeinschaft verankert ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.411339,
+                        20.236846
+                  ]
+            },
+            {
+                  "name": "Thung ngio Temple",
+                  "text": "Ein traditioneller buddhistischer Komplex, der für seine gepflegten Gärten und die friedliche Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.402668,
+                        20.210523
+                  ]
+            },
+            {
+                  "name": "Pratad Doi Mae Ya Mon Temple",
+                  "text": "Diese Bergpagode bietet Gläubigen einen Ort der Stille und Besuchern einen weiten Blick über die umliegenden Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        100.457038,
+                        20.195807
+                  ]
+            },
+            {
+                  "name": "Naga Shrine",
+                  "text": "Ein religiöser Schrein am Flussufer, der den mythischen Naga-Schlangen gewidmet ist, den Beschützern des Mekong.",
+                  "category": "religious",
+                  "coords": [
+                        100.460059,
+                        20.196466
+                  ]
+            },
+            {
+                  "name": "Chiangkhong Bible Church",
+                  "text": "Ein modernes christliches Gotteshaus in Houayxay, das die lokale internationale Gemeinschaft betreut.",
+                  "category": "religious",
+                  "coords": [
+                        100.408835,
+                        20.254915
+                  ]
+            },
+            {
+                  "name": "Wat Hau Vieng",
+                  "text": "Ein historischer Tempel, der für seine kunstvollen Holzschnitzereien und traditionelle laotische Kunstwerke bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.404968,
+                        20.272413
+                  ]
+            },
+            {
+                  "name": "Wat Phatthana Tua Yang",
+                  "text": "Ein zeitgenössisches buddhistisches Kloster, das sich auf Meditation und die Ausbildung junger Mönche konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.406652,
+                        20.26044
+                  ]
+            },
+            {
+                  "name": "Mouang Keo Market",
+                  "text": "Ein lokaler Handelsplatz, der auf traditionelle laotische Seide und gewebte Kunsthandwerksprodukte spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        100.417383,
+                        20.271829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaysone Monument",
+                  "text": "Emlékmű Kaysone Phomvihane, a laoszi forradalom első vezetőjének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Fort Carnot Viewpoint",
+                  "text": "A régi francia erőd melletti kilátópontról nyílik a legjobb rálátás Houayxay városára és a Mekongra.",
+                  "category": "natural",
+                  "coords": [
+                        100.415179,
+                        20.272324
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "Élénk reggeli piac, ahol a helyi hegyi törzsek kézműves termékeket és egzotikus élelmiszereket árusítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "Ez a helyszín a ritka Mekong-óriásharcsának, a világ egyik legnagyobb édesvízi halának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Choko Temple",
+                  "text": "Kicsi, meghitt buddhista szentély, amely a helyi folyóparti közösség mindennapi vallási életének része.",
+                  "category": "religious",
+                  "coords": [
+                        100.411339,
+                        20.236846
+                  ]
+            },
+            {
+                  "name": "Thung ngio Temple",
+                  "text": "Hagyományos buddhista templomegyüttes, amely gondozott kertjeiről és békés hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.402668,
+                        20.210523
+                  ]
+            },
+            {
+                  "name": "Pratad Doi Mae Ya Mon Temple",
+                  "text": "Ez a hegyi pagoda csendes helyet kínál a hívőknek, a látogatóknak pedig pazar kilátást a környező hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        100.457038,
+                        20.195807
+                  ]
+            },
+            {
+                  "name": "Naga Shrine",
+                  "text": "Folyóparti szentély a mitikus Naga-kígyóknak, a Mekong védelmezőinek tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        100.460059,
+                        20.196466
+                  ]
+            },
+            {
+                  "name": "Chiangkhong Bible Church",
+                  "text": "Modern keresztény templom Houayxay-ban, amely a helyi nemzetközi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        100.408835,
+                        20.254915
+                  ]
+            },
+            {
+                  "name": "Wat Hau Vieng",
+                  "text": "Történelmi templom, amely finom fafaragásairól és hagyományos laoszi műalkotásairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        100.404968,
+                        20.272413
+                  ]
+            },
+            {
+                  "name": "Wat Phatthana Tua Yang",
+                  "text": "Kortárs buddhista kolostor, amely a meditációra és a fiatal szerzetesek oktatására összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        100.406652,
+                        20.26044
+                  ]
+            },
+            {
+                  "name": "Mouang Keo Market",
+                  "text": "Helyi piac, amely hagyományos laoszi selyemárukra és szőtt kézműves termékekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        100.417383,
+                        20.271829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaysone Monument",
+                  "text": "Un monument ridicat în onoarea lui Kaysone Phomvihane, primul lider al revoluției laoțiene.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Fort Carnot Viewpoint",
+                  "text": "Acest punct de observare de lângă vechea fortăreață franceză oferă cea mai bună vedere asupra orașului Houayxay și a Mekongului.",
+                  "category": "natural",
+                  "coords": [
+                        100.415179,
+                        20.272324
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "O piață de dimineață plină de viață, unde triburile locale de munte vând produse artizanale și alimente exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "Acest sit este dedicat somnului gigant de Mekong, unul dintre cei mai mari pești de apă dulce din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Choko Temple",
+                  "text": "Un mic sanctuar budist liniștit, integrat în viața religioasă zilnică a comunității locale de pe malul râului.",
+                  "category": "religious",
+                  "coords": [
+                        100.411339,
+                        20.236846
+                  ]
+            },
+            {
+                  "name": "Thung ngio Temple",
+                  "text": "Un complex budist tradițional, cunoscut pentru grădinile sale îngrijite și atmosfera pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        100.402668,
+                        20.210523
+                  ]
+            },
+            {
+                  "name": "Pratad Doi Mae Ya Mon Temple",
+                  "text": "Această pagodă de pe deal oferă credincioșilor un loc de liniște și vizitatorilor o vedere panoramică asupra munților din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        100.457038,
+                        20.195807
+                  ]
+            },
+            {
+                  "name": "Naga Shrine",
+                  "text": "Un sanctuar religios pe malul râului, dedicat șerpilor mitici Naga, protectorii Mekongului.",
+                  "category": "religious",
+                  "coords": [
+                        100.460059,
+                        20.196466
+                  ]
+            },
+            {
+                  "name": "Chiangkhong Bible Church",
+                  "text": "Un lăcaș de cult creștin modern în Houayxay, care deservește comunitatea internațională locală.",
+                  "category": "religious",
+                  "coords": [
+                        100.408835,
+                        20.254915
+                  ]
+            },
+            {
+                  "name": "Wat Hau Vieng",
+                  "text": "Un templu istoric cunoscut pentru sculpturile sale complicate în lemn și operele de artă tradiționale laoțiene.",
+                  "category": "landmark",
+                  "coords": [
+                        100.404968,
+                        20.272413
+                  ]
+            },
+            {
+                  "name": "Wat Phatthana Tua Yang",
+                  "text": "O mănăstire budistă contemporană, concentrată pe meditație și educația tinerilor călugări.",
+                  "category": "landmark",
+                  "coords": [
+                        100.406652,
+                        20.26044
+                  ]
+            },
+            {
+                  "name": "Mouang Keo Market",
+                  "text": "Un centru comercial local specializat în mătase tradițională laoțiană și produse artizanale țesute.",
+                  "category": "cultural",
+                  "coords": [
+                        100.417383,
+                        20.271829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaysone Monument",
+                  "text": "A monument dedicated to Kaysone Phomvihane, the first leader of the Laotian revolution.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Fort Carnot Viewpoint",
+                  "text": "This viewpoint by the old French fort offers the best vantage point over Houayxay and the Mekong River.",
+                  "category": "natural",
+                  "coords": [
+                        100.415179,
+                        20.272324
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "A bustling morning market where local hill tribes sell handmade goods and exotic food items.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "This site is dedicated to the rare Mekong giant catfish, one of the world's largest freshwater fish.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Choko Temple",
+                  "text": "A small, quiet Buddhist shrine embedded in the daily religious life of the local riverside community.",
+                  "category": "religious",
+                  "coords": [
+                        100.411339,
+                        20.236846
+                  ]
+            },
+            {
+                  "name": "Thung ngio Temple",
+                  "text": "A traditional Buddhist complex known for its well-kept gardens and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        100.402668,
+                        20.210523
+                  ]
+            },
+            {
+                  "name": "Pratad Doi Mae Ya Mon Temple",
+                  "text": "This hilltop pagoda offers a quiet retreat for worshippers and a broad view of the surrounding mountains for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        100.457038,
+                        20.195807
+                  ]
+            },
+            {
+                  "name": "Naga Shrine",
+                  "text": "A riverside religious shrine dedicated to the mythical Naga serpents, the protectors of the Mekong.",
+                  "category": "religious",
+                  "coords": [
+                        100.460059,
+                        20.196466
+                  ]
+            },
+            {
+                  "name": "Chiangkhong Bible Church",
+                  "text": "A modern Christian place of worship in Houayxay serving the local international community.",
+                  "category": "religious",
+                  "coords": [
+                        100.408835,
+                        20.254915
+                  ]
+            },
+            {
+                  "name": "Wat Hau Vieng",
+                  "text": "A historic temple known for its intricate wood carvings and traditional Laotian artworks.",
+                  "category": "landmark",
+                  "coords": [
+                        100.404968,
+                        20.272413
+                  ]
+            },
+            {
+                  "name": "Wat Phatthana Tua Yang",
+                  "text": "A contemporary Buddhist monastery focused on meditation and the education of young monks.",
+                  "category": "landmark",
+                  "coords": [
+                        100.406652,
+                        20.26044
+                  ]
+            },
+            {
+                  "name": "Mouang Keo Market",
+                  "text": "A local market center specializing in traditional Laotian silk and woven handicraft products.",
+                  "category": "cultural",
+                  "coords": [
+                        100.417383,
+                        20.271829
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LA-BK",
     coords: [100.4100, 20.2700],
@@ -507,7 +5025,520 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "vientiane-port-economic-v2",
+    id: "vientiane-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ວັດ ຊຽງດາ",
+                  "text": "Ein klassischer buddhistischer Tempel in der Nähe des Hafengebiets von Vientiane mit einem friedlichen, von alten Bodhi-Bäumen beschatteten Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        102.670948,
+                        17.936765
+                  ]
+            },
+            {
+                  "name": "ວັດ ປະທຸມພອນ",
+                  "text": "Ein eleganter buddhistischer Tempel in Vientiane, der sich durch aufwendige goldene Schablonenmalereien und ein mehrstufiges Dach auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.650391,
+                        17.921621
+                  ]
+            },
+            {
+                  "name": "ວັດ ດົງສະຫວາດ",
+                  "text": "Dieses buddhistische Kloster liegt in der geschäftigen Wirtschaftszone von Vientiane und bietet einen ruhigen Raum für Meditation und tägliche Almosenvergabe.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642336,
+                        17.915405
+                  ]
+            },
+            {
+                  "name": "ໍໂພນສະເມ້ກໄຊຍາຣາມ",
+                  "text": "Eine lebendige buddhistische Stätte in Vientiane, die sich durch ihre detaillierten Wandmalereien auszeichnet, welche die Jataka-Geschichten aus den früheren Leben Buddhas darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.633849,
+                        17.929679
+                  ]
+            },
+            {
+                  "name": "ວັດສ້າງເຫວີຍ",
+                  "text": "Dieses lokale buddhistische Heiligtum in Vientiane heißt sowohl Mönche als auch Laien in seiner farbenfroh verzierten Gebetshalle willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626599,
+                        17.920534
+                  ]
+            },
+            {
+                  "name": "ວັດສີອຳມຜອນ",
+                  "text": "Ein wunderschön gepflegter buddhistischer Tempelkomplex in Vientiane mit vergoldeten Nagas, die den Haupteingang bewachen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624606,
+                        17.938109
+                  ]
+            },
+            {
+                  "name": "ວັດນັກ ວັດນັກ",
+                  "text": "Dieser markante buddhistische Tempel, der das Hafengebiet von Vientiane bedient, ist Austragungsort großer Gemeindefeste und traditioneller Gesangssitzungen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619126,
+                        17.935214
+                  ]
+            },
+            {
+                  "name": "Lao Vision Korean Church",
+                  "text": "Ein christliches Gotteshaus in Vientiane, das Gottesdienste und Gemeindeunterstützung hauptsächlich für die lokale koreanische Diaspora anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        102.616633,
+                        17.931137
+                  ]
+            },
+            {
+                  "name": "Phoxay",
+                  "text": "Eine ruhige buddhistische Anlage in Vientiane, in der die dort ansässigen Mönche täglich meditieren und die üppigen tropischen Gärten des Tempels pflegen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.618083,
+                        17.922698
+                  ]
+            },
+            {
+                  "name": "ວັດຫນອງໄຮນ້ອຍ",
+                  "text": "Dieser bescheidene buddhistische Tempel in der Nähe des Wirtschaftszentrums von Vientiane verfügt über einen wunderschön geschnitzten Holzaltar, der Buddha gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641914,
+                        17.909012
+                  ]
+            },
+            {
+                  "name": "Vat Nak Noy",
+                  "text": "Eine hochverehrte buddhistische Stätte in Vientiane, die für ihren friedlichen Stupa und ihre traditionellen klösterlichen Wohnstätten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622067,
+                        17.935072
+                  ]
+            },
+            {
+                  "name": "ວັດພັນຫມັ້ນ",
+                  "text": "Ein aktiver buddhistischer Versammlungsort in Vientiane, wo bunte Wimpel und Blumenopfer die Hauptgebetshalle schmücken.",
+                  "category": "landmark",
+                  "coords": [
+                        102.61715,
+                        17.926067
+                  ]
+            },
+            {
+                  "name": "ວັດໝອງໄຮ",
+                  "text": "Ein spirituelles Heiligtum in Vientiane, das als ruhiger Zufluchtsort inmitten der Aktivitäten des nahegelegenen Hafenviertels dient.",
+                  "category": "religious",
+                  "coords": [
+                        102.647325,
+                        17.901507
+                  ]
+            },
+            {
+                  "name": "Adina",
+                  "text": "Eine entspannende Spa-Einrichtung in Vientiane, die traditionelle laotische Massagen und verjüngende Wellness-Behandlungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.6189,
+                        17.931803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ວັດ ຊຽງດາ",
+                  "text": "Klasszikus buddhista templom Vientiane kikötőnegyedének közelében, amelynek békés udvarát öreg Bódhifák árnyékolják.",
+                  "category": "landmark",
+                  "coords": [
+                        102.670948,
+                        17.936765
+                  ]
+            },
+            {
+                  "name": "ວັດ ປະທຸມພອນ",
+                  "text": "Elegáns buddhista templom Vientiane-ban, amelyet bonyolult arany stencilezés és többszintes tetőzet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        102.650391,
+                        17.921621
+                  ]
+            },
+            {
+                  "name": "ວັດ ດົງສະຫວາດ",
+                  "text": "Vientiane nyüzsgő gazdasági övezetében található ez a buddhista kolostor, amely békés teret kínál a meditációra és a napi alamizsnaosztásra.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642336,
+                        17.915405
+                  ]
+            },
+            {
+                  "name": "ໍໂພນສະເມ້ກໄຊຍາຣາມ",
+                  "text": "Egy életteli buddhista imahely Vientiane-ban, amelyet a Buddha korábbi életeinek Dzsátaka-meséit ábrázoló részletes falfestményei tesznek különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        102.633849,
+                        17.929679
+                  ]
+            },
+            {
+                  "name": "ວັດສ້າງເຫວີຍ",
+                  "text": "Ez a helyi buddhista szentély Vientiane-ban a szerzeteseket és a világiakat egyaránt szeretettel várja fényesen díszített imatermében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626599,
+                        17.920534
+                  ]
+            },
+            {
+                  "name": "ວັດສີອຳມຜອນ",
+                  "text": "Egy gyönyörűen karbantartott buddhista templomkomplexum Vientiane-ban, amelynek főbejáratát aranyozott nagák őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624606,
+                        17.938109
+                  ]
+            },
+            {
+                  "name": "ວັດນັກ ວັດນັກ",
+                  "text": "A Vientiane kikötőnegyedét szolgáló, kiemelkedő buddhista templom nagy közösségi fesztiváloknak és hagyományos kántálásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619126,
+                        17.935214
+                  ]
+            },
+            {
+                  "name": "Lao Vision Korean Church",
+                  "text": "Keresztény imahely Vientiane-ban, amely istentiszteleteket és közösségi támogatást nyújt elsősorban a helyi koreai diaszpóra számára.",
+                  "category": "religious",
+                  "coords": [
+                        102.616633,
+                        17.931137
+                  ]
+            },
+            {
+                  "name": "Phoxay",
+                  "text": "Egy békés buddhista épületegyüttes Vientiane-ban, ahol a helyi szerzetesek napi meditációt gyakorolnak, és gondozzák a templom buja trópusi kertjeit.",
+                  "category": "landmark",
+                  "coords": [
+                        102.618083,
+                        17.922698
+                  ]
+            },
+            {
+                  "name": "ວັດຫນອງໄຮນ້ອຍ",
+                  "text": "Ez a Vientiane gazdasági központjához közeli, szerény buddhista templom egy gyönyörűen faragott, Buddhának szentelt faoltárral büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641914,
+                        17.909012
+                  ]
+            },
+            {
+                  "name": "Vat Nak Noy",
+                  "text": "Egy nagyra becsült buddhista zarándokhely Vientiane-ban, amely békés sztúpájáról és hagyományos szerzetesi lakhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622067,
+                        17.935072
+                  ]
+            },
+            {
+                  "name": "ວັດພັນຫມັ້ນ",
+                  "text": "Aktív buddhista gyülekezeti tér Vientiane-ban, ahol a fő imatermet színes zászlók és virágfelajánlások díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.61715,
+                        17.926067
+                  ]
+            },
+            {
+                  "name": "ວັດໝອງໄຮ",
+                  "text": "Spirituális szentély Vientiane-ban, amely csendes menedékként szolgál a közeli kikötői negyed forgatagában.",
+                  "category": "religious",
+                  "coords": [
+                        102.647325,
+                        17.901507
+                  ]
+            },
+            {
+                  "name": "Adina",
+                  "text": "Egy pihentető wellnessközpont Vientiane-ban, amely hagyományos laoszi masszázst és fiatalító kezeléseket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        102.6189,
+                        17.931803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ວັດ ຊຽງດາ",
+                  "text": "Un templu budist clasic situat în apropierea zonei portuare din Vientiane, cu o curte interioară pașnică umbrită de arbori Bodhi maturi.",
+                  "category": "landmark",
+                  "coords": [
+                        102.670948,
+                        17.936765
+                  ]
+            },
+            {
+                  "name": "ວັດ ປະທຸມພອນ",
+                  "text": "Un templu budist elegant în Vientiane, caracterizat prin șabloane aurii complexe și un acoperiș cu mai multe niveluri.",
+                  "category": "landmark",
+                  "coords": [
+                        102.650391,
+                        17.921621
+                  ]
+            },
+            {
+                  "name": "ວັດ ດົງສະຫວາດ",
+                  "text": "Situată în aglomerata zonă economică din Vientiane, această mănăstire budistă oferă un spațiu senin pentru meditație și pomana zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642336,
+                        17.915405
+                  ]
+            },
+            {
+                  "name": "ໍໂພນສະເມ້ກໄຊຍາຣາມ",
+                  "text": "Un sit budist vibrant din Vientiane, distins prin picturile murale detaliate care descriu poveștile Jataka din viețile anterioare ale lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        102.633849,
+                        17.929679
+                  ]
+            },
+            {
+                  "name": "ວັດສ້າງເຫວີຍ",
+                  "text": "Acest sanctuar budist local din Vientiane întâmpină atât călugării, cât și mirenii în sala sa de rugăciune viu ornamentată.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626599,
+                        17.920534
+                  ]
+            },
+            {
+                  "name": "ວັດສີອຳມຜອນ",
+                  "text": "Un complex de temple budiste frumos întreținut în Vientiane, având naga aurite care îi păzesc intrarea principală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624606,
+                        17.938109
+                  ]
+            },
+            {
+                  "name": "ວັດນັກ ວັດນັກ",
+                  "text": "Deservind zona portuară din Vientiane, acest templu budist proeminent găzduiește mari festivaluri comunitare și sesiuni tradiționale de incantații.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619126,
+                        17.935214
+                  ]
+            },
+            {
+                  "name": "Lao Vision Korean Church",
+                  "text": "Un lăcaș de cult creștin în Vientiane, oferind servicii și sprijin comunitar în primul rând pentru diaspora coreeană locală.",
+                  "category": "religious",
+                  "coords": [
+                        102.616633,
+                        17.931137
+                  ]
+            },
+            {
+                  "name": "Phoxay",
+                  "text": "Un complex budist senin în Vientiane, unde călugării rezidenți practică meditația zilnică și întrețin grădinile tropicale luxuriante ale templului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.618083,
+                        17.922698
+                  ]
+            },
+            {
+                  "name": "ວັດຫນອງໄຮນ້ອຍ",
+                  "text": "Acest templu budist modest, situat în apropierea centrului economic din Vientiane, are un altar din lemn frumos sculptat închinat lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641914,
+                        17.909012
+                  ]
+            },
+            {
+                  "name": "Vat Nak Noy",
+                  "text": "Un sit budist foarte venerat din Vientiane, cunoscut pentru stupa sa liniștită și locuințele monastice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622067,
+                        17.935072
+                  ]
+            },
+            {
+                  "name": "ວັດພັນຫມັ້ນ",
+                  "text": "Un spațiu activ al congregației budiste din Vientiane, unde fanioane colorate și ofrande florale decorează sala principală de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        102.61715,
+                        17.926067
+                  ]
+            },
+            {
+                  "name": "ວັດໝອງໄຮ",
+                  "text": "Un sanctuar spiritual în Vientiane care servește ca refugiu liniștit în mijlocul activității din cartierul portuar din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        102.647325,
+                        17.901507
+                  ]
+            },
+            {
+                  "name": "Adina",
+                  "text": "O facilitate spa relaxantă în Vientiane, oferind masaje tradiționale laotiene și tratamente de wellness pentru întinerire.",
+                  "category": "recreational",
+                  "coords": [
+                        102.6189,
+                        17.931803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Xiangda",
+                  "text": "A classic Buddhist temple near Vientiane's port area, featuring a peaceful courtyard shaded by mature Bodhi trees.",
+                  "category": "landmark",
+                  "coords": [
+                        102.670948,
+                        17.936765
+                  ]
+            },
+            {
+                  "name": "Wat Pathoumphon",
+                  "text": "An elegant Buddhist temple in Vientiane characterized by intricate golden stenciling and a multi-tiered roof.",
+                  "category": "landmark",
+                  "coords": [
+                        102.650391,
+                        17.921621
+                  ]
+            },
+            {
+                  "name": "Wat Dongsavath",
+                  "text": "Situated in the bustling economic zone of Vientiane, this Buddhist monastery offers a serene space for meditation and daily almsgiving.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642336,
+                        17.915405
+                  ]
+            },
+            {
+                  "name": "Phônsamék Xaignaram",
+                  "text": "A vibrant Buddhist site in Vientiane distinguished by its detailed murals depicting the Jataka tales of the Buddha's past lives.",
+                  "category": "landmark",
+                  "coords": [
+                        102.633849,
+                        17.929679
+                  ]
+            },
+            {
+                  "name": "Wat Seng Veuay",
+                  "text": "This local Buddhist sanctuary in Vientiane welcomes both monks and laypeople into its brightly ornamented prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626599,
+                        17.920534
+                  ]
+            },
+            {
+                  "name": "Wat Siamphon",
+                  "text": "A beautifully maintained Buddhist temple complex in Vientiane, featuring gilded nagas guarding its main entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624606,
+                        17.938109
+                  ]
+            },
+            {
+                  "name": "Watnak Nyai",
+                  "text": "Serving the Vientiane port area, this prominent Buddhist temple hosts large community festivals and traditional chanting sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619126,
+                        17.935214
+                  ]
+            },
+            {
+                  "name": "Lao Vision Korean Church",
+                  "text": "A Christian place of worship in Vientiane providing services and community support primarily for the local Korean diaspora.",
+                  "category": "religious",
+                  "coords": [
+                        102.616633,
+                        17.931137
+                  ]
+            },
+            {
+                  "name": "Phoxay",
+                  "text": "A serene Buddhist compound in Vientiane where resident monks practice daily meditation and maintain the temple's lush tropical gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        102.618083,
+                        17.922698
+                  ]
+            },
+            {
+                  "name": "Nong Hai Noy Temple",
+                  "text": "This modest Buddhist temple near Vientiane's economic center features a beautifully carved wooden altar dedicated to the Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641914,
+                        17.909012
+                  ]
+            },
+            {
+                  "name": "Vat Nak Noy",
+                  "text": "A highly revered Buddhist site in Vientiane known for its peaceful stupa and traditional monastic dwellings.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622067,
+                        17.935072
+                  ]
+            },
+            {
+                  "name": "Phanmanh Temple",
+                  "text": "An active Buddhist congregation space in Vientiane where colorful pennants and floral offerings decorate the main prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.61715,
+                        17.926067
+                  ]
+            },
+            {
+                  "name": "ວັດໝອງໄຮ",
+                  "text": "A spiritual sanctuary in Vientiane that serves as a quiet refuge amidst the activity of the nearby port district.",
+                  "category": "religious",
+                  "coords": [
+                        102.647325,
+                        17.901507
+                  ]
+            },
+            {
+                  "name": "Adina",
+                  "text": "A relaxing spa facility in Vientiane offering traditional Lao massages and rejuvenating wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        102.6189,
+                        17.931803
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LA-VT",
     coords: [102.6200, 17.9300],
@@ -543,7 +5574,124 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "nam-ou-river-cascade-economic-v2",
+    id: "nam-ou-river-cascade-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaysone Phomvihane Monument",
+                  "text": "Eine Statue, die dem ersten Führer der Revolutionären Volkspartei Laos gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        102.503009,
+                        21.081063
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "Ein lokaler Markt am Flussufer, der frische Lebensmittel und einfache Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.506143,
+                        20.981383
+                  ]
+            },
+            {
+                  "name": "Khua Market",
+                  "text": "Ein zentraler Marktplatz, auf dem Dorfbewohner saisonale Früchte und traditionelle Snacks tauschen.",
+                  "category": "cultural",
+                  "coords": [
+                        102.505027,
+                        21.081626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaysone Phomvihane Monument",
+                  "text": "Szobor, amelyet a Laoszi Népi Forradalmi Párt első vezetőjének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        102.503009,
+                        21.081063
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "Helyi folyóparti piac, amely friss termékeket és alapvető háztartási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        102.506143,
+                        20.981383
+                  ]
+            },
+            {
+                  "name": "Khua Market",
+                  "text": "Központi piactér, ahol a helyi falusiak szezonális gyümölcsökkel és hagyományos édességekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        102.505027,
+                        21.081626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaysone Phomvihane Monument",
+                  "text": "O statuie dedicată primului lider al Partidului Revoluționar al Poporului Lao.",
+                  "category": "historical",
+                  "coords": [
+                        102.503009,
+                        21.081063
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "O piață locală pe malul râului, care oferă produse proaspete și articole de uz casnic de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        102.506143,
+                        20.981383
+                  ]
+            },
+            {
+                  "name": "Khua Market",
+                  "text": "O piață centrală unde sătenii locali fac schimb de fructe de sezon și gustări tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        102.505027,
+                        21.081626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaysone Phomvihane Monument",
+                  "text": "A statue dedicated to the first leader of the Lao People's Revolutionary Party.",
+                  "category": "historical",
+                  "coords": [
+                        102.503009,
+                        21.081063
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "A local riverside market offering fresh produce and basic household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        102.506143,
+                        20.981383
+                  ]
+            },
+            {
+                  "name": "Khua Market",
+                  "text": "A central marketplace where local villagers trade seasonal fruits and traditional snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        102.505027,
+                        21.081626
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LA-PH",
     coords: [102.5000, 21.0000],
@@ -579,7 +5727,52 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "attapeu-sugar-factory-economic-v2",
+    id: "attapeu-sugar-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Siliawat That Inping",
+                  "text": "Eine traditionelle Kultstätte für die Gemeinde rund um das Industriegebiet Attapeu.",
+                  "category": "religious",
+                  "coords": [
+                        106.93369,
+                        14.810471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Siliawat That Inping",
+                  "text": "Hagyományos istentiszteleti hely, amely az Attapeu ipari övezet körüli közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        106.93369,
+                        14.810471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Siliawat That Inping",
+                  "text": "Un lăcaș de cult tradițional care deservește comunitatea din jurul zonei industriale Attapeu.",
+                  "category": "religious",
+                  "coords": [
+                        106.93369,
+                        14.810471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Siliawat That Inping",
+                  "text": "A traditional place of worship serving the community around the Attapeu industrial zone.",
+                  "category": "religious",
+                  "coords": [
+                        106.93369,
+                        14.810471
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LA-AT",
     coords: [106.9100, 14.8100],
@@ -615,7 +5808,196 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "luang-prabang-sez-economic-v2",
+    id: "luang-prabang-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Noun Sa Vath",
+                  "text": "Wat Noun Sa Vath ist ein ruhiger buddhistischer Tempel innerhalb der sich entwickelnden Sonderwirtschaftszone Luang Prabang.",
+                  "category": "landmark",
+                  "coords": [
+                        102.198743,
+                        19.880282
+                  ]
+            },
+            {
+                  "name": "Lao Air Navigation Services",
+                  "text": "Die Lao Air Navigation Services verfügen über einen kleinen Schrein auf dem Gelände, der als lokales Gotteshaus in der SEZ Luang Prabang dient.",
+                  "category": "religious",
+                  "coords": [
+                        102.169736,
+                        19.902687
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂຊກປະເສີດ",
+                  "text": "ຕະຫຼາດໂຊກປະເສີດ ist ein geschäftiger lokaler Marktplatz, der frische Produkte und Waren des täglichen Bedarfs in der SEZ Luang Prabang anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.198161,
+                        19.922441
+                  ]
+            },
+            {
+                  "name": "Manoluck Market",
+                  "text": "Der Manoluck Market ist ein beliebter Marktplatz voller Verkäufer, die lokale Köstlichkeiten und Notwendigkeiten in der SEZ Luang Prabang anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        102.18768,
+                        19.919141
+                  ]
+            },
+            {
+                  "name": "New Manoluck Market",
+                  "text": "Der New Manoluck Market ist ein kürzlich errichtetes Handelszentrum, das moderne Markteinrichtungen in der SEZ Luang Prabang bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.187623,
+                        19.917901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Noun Sa Vath",
+                  "text": "A Wat Noun Sa Vath egy nyugodt buddhista templom a fejlődő Luang Prabang Különleges Gazdasági Övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.198743,
+                        19.880282
+                  ]
+            },
+            {
+                  "name": "Lao Air Navigation Services",
+                  "text": "A Lao Air Navigation Services egy kis helyszíni szentéllyel rendelkezik, amely helyi istentiszteleti helyként működik a Luang Prabang Különleges Gazdasági Övezetben.",
+                  "category": "religious",
+                  "coords": [
+                        102.169736,
+                        19.902687
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂຊກປະເສີດ",
+                  "text": "A ຕະຫຼາດໂຊກປະເສີດ egy nyüzsgő helyi piac, amely friss termékeket és napi cikkeket kínál a Luang Prabang Különleges Gazdasági Övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        102.198161,
+                        19.922441
+                  ]
+            },
+            {
+                  "name": "Manoluck Market",
+                  "text": "A Manoluck piac egy népszerű piactér, amely tele van helyi finomságokat és közszükségleti cikkeket árusító árusokkal a Luang Prabang Különleges Gazdasági Övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        102.18768,
+                        19.919141
+                  ]
+            },
+            {
+                  "name": "New Manoluck Market",
+                  "text": "A New Manoluck piac egy nemrégiben létrehozott kereskedelmi központ, amely modern piaci létesítményeket biztosít a Luang Prabang Különleges Gazdasági Övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        102.187623,
+                        19.917901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Noun Sa Vath",
+                  "text": "Wat Noun Sa Vath este un templu budist liniștit situat în Zona Economică Specială Luang Prabang în curs de dezvoltare.",
+                  "category": "landmark",
+                  "coords": [
+                        102.198743,
+                        19.880282
+                  ]
+            },
+            {
+                  "name": "Lao Air Navigation Services",
+                  "text": "Lao Air Navigation Services are un mic altar la fața locului care funcționează ca un lăcaș de cult local în Zona Economică Specială Luang Prabang.",
+                  "category": "religious",
+                  "coords": [
+                        102.169736,
+                        19.902687
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂຊກປະເສີດ",
+                  "text": "ຕະຫຼາດໂຊກປະເສີດ este o piață locală plină de viață care oferă produse proaspete și bunuri de uz zilnic în Zona Economică Specială Luang Prabang.",
+                  "category": "cultural",
+                  "coords": [
+                        102.198161,
+                        19.922441
+                  ]
+            },
+            {
+                  "name": "Manoluck Market",
+                  "text": "Piața Manoluck este o piață populară plină de vânzători care vând delicatese locale și necesități în Zona Economică Specială Luang Prabang.",
+                  "category": "cultural",
+                  "coords": [
+                        102.18768,
+                        19.919141
+                  ]
+            },
+            {
+                  "name": "New Manoluck Market",
+                  "text": "Noua Piață Manoluck este un hub comercial recent înființat care oferă facilități moderne de piață în Zona Economică Specială Luang Prabang.",
+                  "category": "cultural",
+                  "coords": [
+                        102.187623,
+                        19.917901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Noun Sa Vath",
+                  "text": "Wat Noun Sa Vath is a serene Buddhist temple located within the developing Luang Prabang Special Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        102.198743,
+                        19.880282
+                  ]
+            },
+            {
+                  "name": "Lao Air Navigation Services",
+                  "text": "The Lao Air Navigation Services features a small on-site shrine functioning as a local place of worship in the Luang Prabang SEZ.",
+                  "category": "religious",
+                  "coords": [
+                        102.169736,
+                        19.902687
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂຊກປະເສີດ",
+                  "text": "ຕະຫຼາດໂຊກປະເສີດ is a bustling local marketplace offering fresh produce and daily goods in the Luang Prabang SEZ.",
+                  "category": "cultural",
+                  "coords": [
+                        102.198161,
+                        19.922441
+                  ]
+            },
+            {
+                  "name": "Manoluck Market",
+                  "text": "Manoluck Market is a popular marketplace filled with vendors selling local delicacies and necessities in the Luang Prabang SEZ.",
+                  "category": "cultural",
+                  "coords": [
+                        102.18768,
+                        19.919141
+                  ]
+            },
+            {
+                  "name": "New Manoluck Market",
+                  "text": "New Manoluck Market is a recently established commercial hub providing modern marketplace facilities in the Luang Prabang SEZ.",
+                  "category": "cultural",
+                  "coords": [
+                        102.187623,
+                        19.917901
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LA-LP",
     coords: [102.1600, 19.8900],
@@ -651,7 +6033,232 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "bokeo-international-trade-zone-economic-v2",
+    id: "bokeo-international-trade-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huaisai Man Viewpoint 1st",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Panoramablick über den Mekong und die Grenzregion zu Thailand bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.365939,
+                        20.349657
+                  ]
+            },
+            {
+                  "name": "Houay Si Man view point",
+                  "text": "Diese Plattform bietet Reisenden einen spektakulären Blick auf die Flusslandschaft von Bokeo bei Sonnenuntergang.",
+                  "category": "natural",
+                  "coords": [
+                        100.366453,
+                        20.350646
+                  ]
+            },
+            {
+                  "name": "Wat Phrabuddhajao Sri Chiang Khong",
+                  "text": "Ein goldfarbener Tempel am Flussufer, der als wichtiges religiöses Zentrum in der Nähe der Grenze dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.397302,
+                        20.275572
+                  ]
+            },
+            {
+                  "name": "Wat Pha Huai Kok temple",
+                  "text": "Dieser friedliche Tempel auf einem Hügel zeichnet sich durch seine traditionellen thailändisch-laotischen Zierelemente aus.",
+                  "category": "religious",
+                  "coords": [
+                        100.388884,
+                        20.286886
+                  ]
+            },
+            {
+                  "name": "Tepnimit Sud Ket Siam Temple",
+                  "text": "Ein Grenztempel am Mekong, der für seine große Buddha-Statue bekannt ist, die über den Fluss nach Thailand blickt.",
+                  "category": "religious",
+                  "coords": [
+                        100.378529,
+                        20.319112
+                  ]
+            },
+            {
+                  "name": "Wat Chom Khao Manilath",
+                  "text": "Der bedeutendste Tempel in Houayxay, bekannt für seine bunten Wandmalereien und die Aussicht auf die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413017,
+                        20.276929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huaisai Man Viewpoint 1st",
+                  "text": "Magaslati kilátópont, amely széles panorámát kínál a Mekong-folyóra és a thaiföldi határvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        100.365939,
+                        20.349657
+                  ]
+            },
+            {
+                  "name": "Houay Si Man view point",
+                  "text": "Ez a kilátóhely látványos rálátást biztosít Bokeo folyómenti tájára, különösen naplemente idején.",
+                  "category": "natural",
+                  "coords": [
+                        100.366453,
+                        20.350646
+                  ]
+            },
+            {
+                  "name": "Wat Phrabuddhajao Sri Chiang Khong",
+                  "text": "Arany színben pompázó folyóparti templom, amely fontos vallási központként szolgál a határ közelében.",
+                  "category": "religious",
+                  "coords": [
+                        100.397302,
+                        20.275572
+                  ]
+            },
+            {
+                  "name": "Wat Pha Huai Kok temple",
+                  "text": "Ez a békés dombtetőn álló templom hagyományos thai-laoszi díszítőelemeivel tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        100.388884,
+                        20.286886
+                  ]
+            },
+            {
+                  "name": "Tepnimit Sud Ket Siam Temple",
+                  "text": "Mekong-parti határmenti templom, amely a Thaiföld felé néző hatalmas Buddha-szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        100.378529,
+                        20.319112
+                  ]
+            },
+            {
+                  "name": "Wat Chom Khao Manilath",
+                  "text": "Houayxay legjelentősebb temploma, amely színes falfestményeiről és a városra nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413017,
+                        20.276929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huaisai Man Viewpoint 1st",
+                  "text": "Un punct de observare ridicat care oferă o panoramă vastă asupra râului Mekong și a regiunii de frontieră cu Thailanda.",
+                  "category": "natural",
+                  "coords": [
+                        100.365939,
+                        20.349657
+                  ]
+            },
+            {
+                  "name": "Houay Si Man view point",
+                  "text": "Această platformă oferă călătorilor o vedere spectaculoasă asupra peisajului fluvial din Bokeo, în special la apus.",
+                  "category": "natural",
+                  "coords": [
+                        100.366453,
+                        20.350646
+                  ]
+            },
+            {
+                  "name": "Wat Phrabuddhajao Sri Chiang Khong",
+                  "text": "Un templu auriu de pe malul râului, care servește ca un centru religios important în apropierea frontierei.",
+                  "category": "religious",
+                  "coords": [
+                        100.397302,
+                        20.275572
+                  ]
+            },
+            {
+                  "name": "Wat Pha Huai Kok temple",
+                  "text": "Acest templu liniștit de pe deal se remarcă prin elementele sale decorative tradiționale thailandezo-laoțiene.",
+                  "category": "religious",
+                  "coords": [
+                        100.388884,
+                        20.286886
+                  ]
+            },
+            {
+                  "name": "Tepnimit Sud Ket Siam Temple",
+                  "text": "Un templu de frontieră pe malul Mekongului, cunoscut pentru statuia sa mare de Buddha care privește peste râu spre Thailanda.",
+                  "category": "religious",
+                  "coords": [
+                        100.378529,
+                        20.319112
+                  ]
+            },
+            {
+                  "name": "Wat Chom Khao Manilath",
+                  "text": "Cel mai important templu din Houayxay, cunoscut pentru picturile sale murale colorate și vederea asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413017,
+                        20.276929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huaisai Man Viewpoint 1st",
+                  "text": "An elevated vantage point offering wide panoramic views over the Mekong River and the border region with Thailand.",
+                  "category": "natural",
+                  "coords": [
+                        100.365939,
+                        20.349657
+                  ]
+            },
+            {
+                  "name": "Houay Si Man view point",
+                  "text": "This viewpoint provides travelers with spectacular vistas of the Bokeo river landscape, especially at sunset.",
+                  "category": "natural",
+                  "coords": [
+                        100.366453,
+                        20.350646
+                  ]
+            },
+            {
+                  "name": "Wat Phrabuddhajao Sri Chiang Khong",
+                  "text": "A golden-hued riverside temple serving as a significant religious center near the border.",
+                  "category": "religious",
+                  "coords": [
+                        100.397302,
+                        20.275572
+                  ]
+            },
+            {
+                  "name": "Wat Pha Huai Kok temple",
+                  "text": "This peaceful hilltop temple is characterized by its traditional Thai-Lao decorative elements.",
+                  "category": "religious",
+                  "coords": [
+                        100.388884,
+                        20.286886
+                  ]
+            },
+            {
+                  "name": "Tepnimit Sud Ket Siam Temple",
+                  "text": "A border temple on the Mekong known for its large Buddha statue facing across the river toward Thailand.",
+                  "category": "religious",
+                  "coords": [
+                        100.378529,
+                        20.319112
+                  ]
+            },
+            {
+                  "name": "Wat Chom Khao Manilath",
+                  "text": "The most prominent temple in Houayxay, known for its colorful murals and views over the town.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413017,
+                        20.276929
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "LA-BK",
     coords: [100.4100, 20.2800],
@@ -687,7 +6294,88 @@ export const poiExtraLaosEconomicV2: POI[] = [
     },
   },
   {
-    id: "khammouane-potash-mine-economic-v2",
+    id: "khammouane-potash-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tha Falang - Lake Falang",
+                  "text": "Tha Falang ist ein malerischer See in Khammouane, der während der Kolonialzeit ein beliebter Badeort für die Franzosen war.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913154,
+                        17.468542
+                  ]
+            },
+            {
+                  "name": "Mesto dlia kupanii s det'mi, muzyka, navesy, eda",
+                  "text": "Dieser Freizeitpark in der Region Khammouane bietet einen familienfreundlichen Badebereich mit Musik, Überdachungen und Essensständen.",
+                  "category": "recreational",
+                  "coords": [
+                        104.9126,
+                        17.479395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tha Falang - Lake Falang",
+                  "text": "A Tha Falang egy festői tavi látványosság Khammouane-ban, amely a gyarmati korszakban a franciák népszerű fürdőhelye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913154,
+                        17.468542
+                  ]
+            },
+            {
+                  "name": "Mesto dlia kupanii s det'mi, muzyka, navesy, eda",
+                  "text": "Ez a Khammouane térségében található szabadidős vidámpark családbarát fürdőhelyet kínál zenével, napellenzőkkel és ételstandokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        104.9126,
+                        17.479395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tha Falang - Lake Falang",
+                  "text": "Tha Falang este o atracție pitorească a unui lac din Khammouane, odinioară un loc popular de înot pentru francezi în perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913154,
+                        17.468542
+                  ]
+            },
+            {
+                  "name": "Mesto dlia kupanii s det'mi, muzyka, navesy, eda",
+                  "text": "Acest parc tematic de agrement din zona Khammouane oferă un loc de înot potrivit pentru familii, dotat cu muzică, copertine și tarabe cu mâncare.",
+                  "category": "recreational",
+                  "coords": [
+                        104.9126,
+                        17.479395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tha Falang - Lake Falang",
+                  "text": "Tha Falang is a scenic lake attraction in Khammouane, once a popular swimming spot for the French during the colonial era.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913154,
+                        17.468542
+                  ]
+            },
+            {
+                  "name": "Mesto dlia kupanii s det'mi, muzyka, navesy, eda",
+                  "text": "This recreational theme park in the Khammouane area offers a family-friendly swimming spot complete with music, canopies, and food stalls.",
+                  "category": "recreational",
+                  "coords": [
+                        104.9126,
+                        17.479395
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "LA-KH",
     coords: [105.0000, 17.5000],

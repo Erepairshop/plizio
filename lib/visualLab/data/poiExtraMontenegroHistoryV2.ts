@@ -232,7 +232,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Lesendro",
-                  "text": "Eine historische Inselfestung im Skutarisee.",
+                  "text": "Osmanische Festung aus dem 19. Jahrhundert auf einer Insel im Skutarisee.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -261,7 +261,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Lesendro",
-                  "text": "Történelmi szigetvár a Skadar-tavon.",
+                  "text": "19. századi oszmán erőd egy kis szigeten a Skadari-tóban.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -290,7 +290,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Lesendro",
-                  "text": "O fortăreață istorică situată pe o insulă în lacul Skadar.",
+                  "text": "Fortăreață otomană din secolul al XIX-lea pe o insuliță în Lacul Skadar.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -319,7 +319,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Lesendro",
-                  "text": "A historic island fortress located in Lake Skadar.",
+                  "text": "19th-century Ottoman fortress on a small island in Lake Skadar.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -480,7 +480,196 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-vrmac-fort-history-v2.webp",
   },
   {
-    id: "montenegro-starigrad-ulcinj-history-v2", "sights": {"de": [{"name": "Sapore di Mare", "text": "Sapore di Mare befindet sich in der Altstadt von Ulcinj.", "category": "recreational", "coords": [19.211465, 41.919643]}, {"name": "Ženska plaža - Plazhi i Grave", "text": "Die Ženska plaža unweit der Altstadt von Ulcinj ist ein besonderer Badeplatz mit historischem und lokalem Charme. Inmitten der faszinierenden Küstenlandschaft finden Erholungssuchende hier eine geschützte Atmosphäre für ausgiebiges Sonnenbaden. Dieser malerische Strand ist der perfekte Ort, um nach einem Altstadtbummel neue Energie zu tanken.", "category": "recreational", "coords": [19.213402, 41.919896]}, {"name": "Aquarius White", "text": "Aquarius White ist ein Strand in der Nähe von Starigrad Ulcinj.", "category": "recreational", "coords": [19.209718, 41.920786]}, {"name": "Albatros beach", "text": "Nah der charmanten Altstadt von Ulcinj bietet der Albatros Strand eine wunderbare Kulisse für einen erholsamen Nachmittag. Besucher können die maritime Atmosphäre von Starigrad genießen und das kühle Nass des Meeres erkunden. Die felsigen Formationen rund um den Strand verleihen dem Ort einen wildromantischen Charakter.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Ibiza Beach", "text": "Ibiza Beach bringt lebhaftes Flair in die Nähe von Starigrad Ulcinj. Dieser Küstenabschnitt lockt Strandbesucher an, die eine gesellige und freundliche Umgebung am Meer schätzen. Perfekt geeignet für alle, die das Sonnenbaden gerne mit dem pulsierenden Leben der montenegrinischen Küste verbinden.", "category": "recreational", "coords": [19.210694, 41.920649]}], "hu": [{"name": "Sapore di Mare", "text": "A Sapore di Mare strand Ulcinj óvárosában található.", "category": "recreational", "coords": [19.211465, 41.919643]}, {"name": "Ženska plaža - Plazhi i Grave", "text": "Az Ulcinj óvárosától nem messze található Ženska plaža különleges fürdőhely történelmi és helyi bájjal. A lenyűgöző partmenti táj közepén a pihenni vágyók védett környezetet találnak itt a kiterjedt napozáshoz. Ez a festői strand tökéletes hely a feltöltődésre egy óvárosi séta után.", "category": "recreational", "coords": [19.213402, 41.919896]}, {"name": "Aquarius White", "text": "Aquarius White egy strand Starigrad Ulcinj közelében.", "category": "recreational", "coords": [19.209718, 41.920786]}, {"name": "Albatros beach", "text": "Ulcinj bájos óvárosához közel az Albatros strand csodálatos hátteret kínál egy pihentető délutánhoz. A látogatók élvezhetik Starigrad tengeri hangulatát, és felfedezhetik a tenger hűsítő vizét. A strand körüli sziklaképződmények vadregényes jelleget kölcsönöznek a helynek.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Ibiza Beach", "text": "Az Ibiza strand élénk hangulatot visz Starigrad Ulcinj környékére. Ez a partszakasz olyan strandolókat vonz, akik értékelik a társaságkedvelő és barátságos tengerparti környezetet. Tökéletes mindazok számára, akik szeretik a napozást a montenegrói tengerpart lüktető életével kombinálni.", "category": "recreational", "coords": [19.210694, 41.920649]}], "ro": [{"name": "Sapore di Mare", "text": "Sapore di Mare se află în orașul vechi Ulcinj.", "category": "recreational", "coords": [19.211465, 41.919643]}, {"name": "Ženska plaža - Plazhi i Grave", "text": "Ženska plaža, nu departe de orașul vechi din Ulcinj, este un loc special de scăldat, cu farmec istoric și local. În mijlocul peisajului de coastă fascinant, cei care caută relaxare vor găsi aici o atmosferă adăpostită pentru plajă extinsă. Această plajă pitorească este locul perfect pentru a vă reîncărca bateriile după o plimbare prin orașul vechi.", "category": "recreational", "coords": [19.213402, 41.919896]}, {"name": "Aquarius White", "text": "Aquarius White este o plajă situată lângă Starigrad Ulcinj.", "category": "recreational", "coords": [19.209718, 41.920786]}, {"name": "Albatros beach", "text": "Aproape de fermecătorul oraș vechi din Ulcinj, plaja Albatros oferă un fundal minunat pentru o după-amiază relaxantă. Vizitatorii se pot bucura de atmosfera maritimă din Starigrad și pot explora apele răcoroase ale mării. Formațiunile stâncoase din jurul plajei conferă locului un caracter sălbatic și romantic.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Ibiza Beach", "text": "Plaja Ibiza aduce un aer plin de viață în vecinătatea Starigrad Ulcinj. Această porțiune de coastă atrage iubitorii de plajă care apreciază un mediu sociabil și prietenos la malul mării. Perfect potrivită pentru oricine dorește să combine băile de soare cu viața vibrantă a coastei muntenegrene.", "category": "recreational", "coords": [19.210694, 41.920649]}], "en": [{"name": "Sapore di Mare", "text": "Sapore di Mare is located in the old town of Ulcinj.", "category": "recreational", "coords": [19.211465, 41.919643]}, {"name": "Ženska plaža - Plazhi i Grave", "text": "Ženska plaža, not far from the Old Town of Ulcinj, is a special swimming spot with historical and local charm. Amidst the fascinating coastal landscape, those seeking relaxation will find a sheltered atmosphere for extensive sunbathing here. This picturesque beach is the perfect place to recharge your batteries after a stroll through the old town.", "category": "recreational", "coords": [19.213402, 41.919896]}, {"name": "Aquarius White", "text": "Aquarius White is a beach near Starigrad Ulcinj.", "category": "recreational", "coords": [19.209718, 41.920786]}, {"name": "Albatros beach", "text": "Close to the charming Old Town of Ulcinj, Albatros beach offers a wonderful backdrop for a relaxing afternoon. Visitors can enjoy the maritime atmosphere of Starigrad and explore the cool waters of the sea. The rocky formations around the beach give the place a wildly romantic character.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Ibiza Beach", "text": "Ibiza Beach brings a lively flair to the vicinity of Starigrad Ulcinj. This coastal stretch attracts beachgoers who appreciate a sociable and friendly environment by the sea. Perfectly suited for anyone who likes to combine sunbathing with the vibrant life of the Montenegrin coast.", "category": "recreational", "coords": [19.210694, 41.920649]}]},
+    id: "montenegro-starigrad-ulcinj-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "Ein Lokal am Meer in der Altstadt von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Die Ženska plaža unweit der Altstadt von Ulcinj ist ein besonderer Badeplatz mit historischem und lokalem Charme. Inmitten der faszinierenden Küstenlandschaft finden Erholungssuchende hier eine geschützte Atmosphäre für ausgiebiges Sonnenbaden. Dieser malerische Strand ist der perfekte Ort, um nach einem Altstadtbummel neue Energie zu tanken.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Ein Club oder Strand in der Altstadt von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Nah der charmanten Altstadt von Ulcinj bietet der Albatros Strand eine wunderbare Kulisse für einen erholsamen Nachmittag. Besucher können die maritime Atmosphäre von Starigrad genießen und das kühle Nass des Meeres erkunden. Die felsigen Formationen rund um den Strand verleihen dem Ort einen wildromantischen Charakter.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Ibiza Beach bringt lebhaftes Flair in die Nähe von Starigrad Ulcinj. Dieser Küstenabschnitt lockt Strandbesucher an, die eine gesellige und freundliche Umgebung am Meer schätzen. Perfekt geeignet für alle, die das Sonnenbaden gerne mit dem pulsierenden Leben der montenegrinischen Küste verbinden.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "Tengerparti hely Ulcinj óvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Az Ulcinj óvárosától nem messze található Ženska plaža különleges fürdőhely történelmi és helyi bájjal. A lenyűgöző partmenti táj közepén a pihenni vágyók védett környezetet találnak itt a kiterjedt napozáshoz. Ez a festői strand tökéletes hely a feltöltődésre egy óvárosi séta után.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Klub vagy strand Ulcinj óvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Ulcinj bájos óvárosához közel az Albatros strand csodálatos hátteret kínál egy pihentető délutánhoz. A látogatók élvezhetik Starigrad tengeri hangulatát, és felfedezhetik a tenger hűsítő vizét. A strand körüli sziklaképződmények vadregényes jelleget kölcsönöznek a helynek.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Az Ibiza strand élénk hangulatot visz Starigrad Ulcinj környékére. Ez a partszakasz olyan strandolókat vonz, akik értékelik a társaságkedvelő és barátságos tengerparti környezetet. Tökéletes mindazok számára, akik szeretik a napozást a montenegrói tengerpart lüktető életével kombinálni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "Un local pe malul mării în orașul vechi al Ulcinjului.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Ženska plaža, nu departe de orașul vechi din Ulcinj, este un loc special de scăldat, cu farmec istoric și local. În mijlocul peisajului de coastă fascinant, cei care caută relaxare vor găsi aici o atmosferă adăpostită pentru plajă extinsă. Această plajă pitorească este locul perfect pentru a vă reîncărca bateriile după o plimbare prin orașul vechi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Un club sau plajă în orașul vechi al Ulcinjului.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Aproape de fermecătorul oraș vechi din Ulcinj, plaja Albatros oferă un fundal minunat pentru o după-amiază relaxantă. Vizitatorii se pot bucura de atmosfera maritimă din Starigrad și pot explora apele răcoroase ale mării. Formațiunile stâncoase din jurul plajei conferă locului un caracter sălbatic și romantic.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Plaja Ibiza aduce un aer plin de viață în vecinătatea Starigrad Ulcinj. Această porțiune de coastă atrage iubitorii de plajă care apreciază un mediu sociabil și prietenos la malul mării. Perfect potrivită pentru oricine dorește să combine băile de soare cu viața vibrantă a coastei muntenegrene.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "A seaside venue in the old town of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Ženska plaža, not far from the Old Town of Ulcinj, is a special swimming spot with historical and local charm. Amidst the fascinating coastal landscape, those seeking relaxation will find a sheltered atmosphere for extensive sunbathing here. This picturesque beach is the perfect place to recharge your batteries after a stroll through the old town.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "A club or beach in the old town of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Close to the charming Old Town of Ulcinj, Albatros beach offers a wonderful backdrop for a relaxing afternoon. Visitors can enjoy the maritime atmosphere of Starigrad and explore the cool waters of the sea. The rocky formations around the beach give the place a wildly romantic character.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Ibiza Beach brings a lively flair to the vicinity of Starigrad Ulcinj. This coastal stretch attracts beachgoers who appreciate a sociable and friendly environment by the sea. Perfectly suited for anyone who likes to combine sunbathing with the vibrant life of the Montenegrin coast.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ME",
     name: { de: "Altstadt von Ulcinj", hu: "Ulcinj óvárosa", ro: "Orașul vechi din Ulcinj", en: "Old Town of Ulcinj" },
@@ -1015,7 +1204,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Arza",
-                  "text": "Arza Strand bei Arza Fort.",
+                  "text": "Ein Strand unterhalb der Festung Arza.",
                   "category": "recreational",
                   "coords": [
                         18.573038,
@@ -1024,7 +1213,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Žanjice",
-                  "text": "Der Strand Žanjice liegt nahe der Festung Arza.",
+                  "text": "Ein weiterer Strand in der Bucht von Arza.",
                   "category": "recreational",
                   "coords": [
                         18.580147,
@@ -1033,7 +1222,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mirišta",
-                  "text": "Der Strand Mirišta befindet sich bei der Arza-Festung.",
+                  "text": "Ein ruhiger Strand in der Nähe von Arza.",
                   "category": "recreational",
                   "coords": [
                         18.579311,
@@ -1044,7 +1233,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Arza",
-                  "text": "Arza strand Arza Fort közelében.",
+                  "text": "Strand az Arza erőd alatt.",
                   "category": "recreational",
                   "coords": [
                         18.573038,
@@ -1053,7 +1242,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Žanjice",
-                  "text": "A Žanjice strand az Arza erőd közelében fekszik.",
+                  "text": "Egy másik strand az Arza-öbölben.",
                   "category": "recreational",
                   "coords": [
                         18.580147,
@@ -1062,7 +1251,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mirišta",
-                  "text": "Mirišta strandja az Arza erődnél található.",
+                  "text": "Csendes strand Arza közelében.",
                   "category": "recreational",
                   "coords": [
                         18.579311,
@@ -1073,7 +1262,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Arza",
-                  "text": "Plaja Arza lângă Fortul Arza.",
+                  "text": "O plajă sub fortăreața Arza.",
                   "category": "recreational",
                   "coords": [
                         18.573038,
@@ -1082,7 +1271,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Žanjice",
-                  "text": "Plaja Žanjice se află în apropierea Cetății Arza.",
+                  "text": "O altă plajă în golful Arza.",
                   "category": "recreational",
                   "coords": [
                         18.580147,
@@ -1091,7 +1280,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mirišta",
-                  "text": "Plaja Mirišta se află lângă fortăreața Arza.",
+                  "text": "O plajă liniștită lângă Arza.",
                   "category": "recreational",
                   "coords": [
                         18.579311,
@@ -1102,7 +1291,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Arza",
-                  "text": "Arza beach near Arza Fort.",
+                  "text": "A beach below Arza Fort.",
                   "category": "recreational",
                   "coords": [
                         18.573038,
@@ -1111,7 +1300,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Žanjice",
-                  "text": "Žanjice Beach is located near the Arza Fort.",
+                  "text": "Another beach in the Arza bay.",
                   "category": "recreational",
                   "coords": [
                         18.580147,
@@ -1120,7 +1309,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mirišta",
-                  "text": "Mirišta beach is located by the Arza Fort.",
+                  "text": "A quiet beach near Arza.",
                   "category": "recreational",
                   "coords": [
                         18.579311,
@@ -1276,7 +1465,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Castello",
-                  "text": "Ein historisches Schloss in der Umgebung des Reževići-Klosters.",
+                  "text": "Eine mittelalterliche Burg mit Blick auf das Kloster Reževići.",
                   "category": "castle",
                   "coords": [
                         18.937252,
@@ -1350,7 +1539,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Castello",
-                  "text": "Egy történelmi kastély a Reževići kolostor környékén.",
+                  "text": "Középkori vár a Reževići kolostorra néző kilátással.",
                   "category": "castle",
                   "coords": [
                         18.937252,
@@ -1424,7 +1613,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Castello",
-                  "text": "Un castel istoric situat în zona mănăstirii Reževići.",
+                  "text": "Un castel medieval cu vedere la mănăstirea Reževići.",
                   "category": "castle",
                   "coords": [
                         18.937252,
@@ -1498,7 +1687,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Castello",
-                  "text": "A historic castle located in the vicinity of the Reževići Monastery.",
+                  "text": "A medieval castle overlooking the Reževići monastery.",
                   "category": "castle",
                   "coords": [
                         18.937252,
@@ -1609,7 +1798,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Kraljičina plaža",
-                  "text": "Die Kraljičina plaža liegt in der Nähe des Klosters Praskvica.",
+                  "text": "Der Königinstrand in der Nähe des Klosters Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.892348,
@@ -1690,7 +1879,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Beach House ist ein Strandresort beim Kloster Praskvica.",
+                  "text": "Ein Strandhaus direkt am Wasser bei Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1699,7 +1888,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "Hotels Pool ist ein Schwimmbecken beim Kloster Praskvica.",
+                  "text": "Ein Hotelpool mit Meerblick in der Nähe von Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -1708,7 +1897,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Dudley Infnity Pool Club",
-                  "text": "Der Dudley Infinity Pool Club ist ein Schwimmbecken beim Kloster Praskvica.",
+                  "text": "Ein Infinity-Pool-Club mit Blick auf die Adria bei Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.859237,
@@ -1717,7 +1906,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "Pizana ist ein Schwimmbecken beim Kloster Praskvica.",
+                  "text": "Ein Strand oder eine Pizzeria in der Nähe des Klosters Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -1737,7 +1926,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Kraljičina plaža",
-                  "text": "A Kraljičina plaža strand a Praskvica kolostor közelében fekszik.",
+                  "text": "A Királynő strandja a Praskvica kolostor közelében.",
                   "category": "recreational",
                   "coords": [
                         18.892348,
@@ -1818,7 +2007,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "A Beach House egy strandüdülőhely a Praskvica-kolostor közelében.",
+                  "text": "Tengerparti ház a víz mellett Praskvica közelében.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1827,7 +2016,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "A Hotels pool egy úszómedence a Praskvica-kolostor közelében.",
+                  "text": "Szállodai medence tengerre néző kilátással Praskvica közelében.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -1836,7 +2025,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Dudley Infnity Pool Club",
-                  "text": "A Dudley Infinity Pool Club egy úszómedence a Praskvica-kolostor közelében.",
+                  "text": "Végtelenített medence klub az Adriára néző kilátással Praskvica mellett.",
                   "category": "recreational",
                   "coords": [
                         18.859237,
@@ -1845,7 +2034,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "A pizana egy úszómedence a Praskvica-kolostor közelében.",
+                  "text": "Strand vagy pizzéria a Praskvica kolostor közelében.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -1865,7 +2054,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Kraljičina plaža",
-                  "text": "Plaja Kraljičina se află în apropierea Mănăstirii Praskvica.",
+                  "text": "Plaja Reginei lângă mănăstirea Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.892348,
@@ -1946,7 +2135,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Beach House este o stațiune de plajă situată lângă mănăstirea Praskvica.",
+                  "text": "O casă de plajă chiar lângă apă lângă Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1955,7 +2144,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "Hotels pool este o piscină situată lângă mănăstirea Praskvica.",
+                  "text": "O piscină de hotel cu vedere la mare lângă Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -1964,7 +2153,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Dudley Infnity Pool Club",
-                  "text": "Dudley Infinity Pool Club este o piscină situată lângă mănăstirea Praskvica.",
+                  "text": "Un club cu piscină infinity cu vedere la Marea Adriatică lângă Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.859237,
@@ -1973,7 +2162,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "Pizana este o piscină situată lângă mănăstirea Praskvica.",
+                  "text": "O plajă sau pizzerie lângă mănăstirea Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -1993,7 +2182,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Kraljičina plaža",
-                  "text": "Kraljičina plaža is located near the Manastir Praskvica.",
+                  "text": "Queen's Beach near Praskvica Monastery.",
                   "category": "recreational",
                   "coords": [
                         18.892348,
@@ -2074,7 +2263,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Beach House is a beach resort located near Praskvica Monastery.",
+                  "text": "A beach house right on the water near Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -2083,7 +2272,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "Hotels pool is a swimming pool located near Praskvica Monastery.",
+                  "text": "A hotel pool with sea view near Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -2092,7 +2281,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Dudley Infnity Pool Club",
-                  "text": "Dudley Infinity Pool Club is a swimming pool located near Praskvica Monastery.",
+                  "text": "An infinity pool club overlooking the Adriatic near Praskvica.",
                   "category": "recreational",
                   "coords": [
                         18.859237,
@@ -2101,7 +2290,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "pizana is a swimming pool located near Praskvica Monastery.",
+                  "text": "A beach or pizzeria near Praskvica Monastery.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -2194,7 +2383,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Budva.",
+                  "text": "Serbisch-orthodoxes Kloster Podlastva in Manastir Podlastva, Montenegro.",
                   "category": "religious",
                   "coords": [
                         18.807832,
@@ -2239,7 +2428,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Uvala Podrupice",
-                  "text": "Eine kleine, ruhige Bucht an der Adriaküste.",
+                  "text": "Bucht oder Einfahrt Uvala Podrupice nahe dem Kloster Podlastva, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         18.786074,
@@ -2322,7 +2511,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Podlastva",
-                  "text": "Szerb ortodox kolostor Budva közelében.",
+                  "text": "Szerb ortodox kolostor Podlastva Manastir Podlastva-ban, Montenegróban.",
                   "category": "religious",
                   "coords": [
                         18.807832,
@@ -2367,7 +2556,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Uvala Podrupice",
-                  "text": "Kicsi, csendes öböl az Adriai-tenger partján.",
+                  "text": "Uvala Podrupice öböl vagy bejárat a Podlastva kolostor közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         18.786074,
@@ -2450,7 +2639,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă situată lângă Budva.",
+                  "text": "Mănăstire ortodoxă sârbă Podlastva în Manastir Podlastva, Muntenegru.",
                   "category": "religious",
                   "coords": [
                         18.807832,
@@ -2495,7 +2684,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Uvala Podrupice",
-                  "text": "Un mic golf liniștit pe coasta Mării Adriatice.",
+                  "text": "Golf sau intrare Uvala Podrupice lângă mănăstirea Podlastva, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         18.786074,
@@ -2578,7 +2767,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery located near Budva.",
+                  "text": "Serbian Orthodox monastery Podlastva in Manastir Podlastva, Montenegro.",
                   "category": "religious",
                   "coords": [
                         18.807832,
@@ -2623,7 +2812,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Uvala Podrupice",
-                  "text": "A small, quiet bay on the Adriatic coast.",
+                  "text": "Cove or inlet Uvala Podrupice near the Podlastva monastery, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         18.786074,
@@ -2770,7 +2959,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Lesendro",
-                  "text": "Eine Inselfestung im Skutarisee in Montenegro.",
+                  "text": "Osmanische Festung aus dem 19. Jahrhundert auf einer Insel im Skutarisee.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -2790,7 +2979,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Lesendro",
-                  "text": "Szigeterőd a Shkodrai-tavon Montenegróban.",
+                  "text": "19. századi oszmán erőd egy kis szigeten a Skadari-tóban.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -2810,7 +2999,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Lesendro",
-                  "text": "O fortăreață insulară pe lacul Skadar din Muntenegru.",
+                  "text": "Fortăreață otomană din secolul al XIX-lea pe o insuliță în Lacul Skadar.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -2830,7 +3019,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Lesendro",
-                  "text": "An island fortress in Lake Skadar, Montenegro.",
+                  "text": "19th-century Ottoman fortress on a small island in Lake Skadar.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -2896,7 +3085,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Vidrijak",
-                  "text": "Ein Berggipfel in der Nähe des Klosters Starčeva Gorica.",
+                  "text": "Wahrzeichen Vidrijak nahe dem Kloster Starčeva Gorica, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.171169,
@@ -2914,7 +3103,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "Ein Berggipfel im Gebiet des Klosters Starčeva Gorica.",
+                  "text": "Wahrzeichen Vesir nahe dem Kloster Starčeva Gorica, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -2925,7 +3114,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Vidrijak",
-                  "text": "Hegycsúcs a Starčeva Gorica-kolostor közelében.",
+                  "text": "Vidrijak nevezetesség a Starčeva Gorica kolostor közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.171169,
@@ -2943,7 +3132,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "Hegycsúcs a Starčeva Gorica-kolostor területén.",
+                  "text": "Vesir nevezetesség a Starčeva Gorica kolostor közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -2954,7 +3143,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Vidrijak",
-                  "text": "Un vârf montan lângă Mănăstirea Starčeva Gorica.",
+                  "text": "Reper Vidrijak lângă mănăstirea Starčeva Gorica, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.171169,
@@ -2972,7 +3161,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "Un vârf montan în zona Mănăstirii Starčeva Gorica.",
+                  "text": "Reper Vesir lângă mănăstirea Starčeva Gorica, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -2983,7 +3172,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Vidrijak",
-                  "text": "A mountain peak near the Starčeva Gorica Monastery.",
+                  "text": "Landmark Vidrijak near Starčeva Gorica monastery, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.171169,
@@ -3001,7 +3190,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "A mountain peak in the Starčeva Gorica Monastery area.",
+                  "text": "Landmark Vesir near Starčeva Gorica monastery, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -3085,7 +3274,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "Ein Berggipfel in der Nähe des Klosters Beška.",
+                  "text": "Wahrzeichen Vesir nahe dem Kloster Beška, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -3123,7 +3312,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "Természetes hegycsúcs a Beška-kolostor környékén.",
+                  "text": "Vesir nevezetesség a Beška kolostor közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -3161,7 +3350,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "Un vârf natural în vecinătatea mănăstirii Beška.",
+                  "text": "Reper Vesir lângă mănăstirea Beška, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -3199,7 +3388,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Vesir",
-                  "text": "A natural peak in the vicinity of the Beška Monastery.",
+                  "text": "Landmark Vesir near Beška monastery, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.180529,
@@ -3535,7 +3724,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mali Kurozeb",
-                  "text": "Der Mali Kurozeb ist ein markanter Gipfel in der Nähe des Klosters Dobrilovina.",
+                  "text": "Kleiner Gipfel Mali Kurozeb nahe dem Kloster Dobrilovina, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.313679,
@@ -3589,7 +3778,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Gradina",
-                  "text": "Gradina ist ein historischer Aussichtspunkt auf einem Berg nahe dem Kloster Dobrilovina.",
+                  "text": "Festungsruine Gradina nahe dem Kloster Dobrilovina, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.370748,
@@ -3609,7 +3798,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mali Kurozeb",
-                  "text": "A Mali Kurozeb egy jellegzetes hegycsúcs a Dobrilovina-kolostor közelében.",
+                  "text": "Mali Kurozeb kis csúcs a Dobrilovina kolostor közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.313679,
@@ -3663,7 +3852,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Gradina",
-                  "text": "Gradina egy történelmi kilátópont egy hegyen, a Dobrilovina-kolostor közelében.",
+                  "text": "Gradina erődrom a Dobrilovina kolostor közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.370748,
@@ -3683,7 +3872,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mali Kurozeb",
-                  "text": "Mali Kurozeb este un vârf proeminent situat în apropierea Mănăstirii Dobrilovina.",
+                  "text": "Vârf mic Mali Kurozeb lângă mănăstirea Dobrilovina, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.313679,
@@ -3737,7 +3926,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Gradina",
-                  "text": "Gradina este un punct de belvedere istoric situat pe un munte lângă Mănăstirea Dobrilovina.",
+                  "text": "Ruina cetății Gradina lângă mănăstirea Dobrilovina, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.370748,
@@ -3757,7 +3946,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Mali Kurozeb",
-                  "text": "Mali Kurozeb is a prominent peak located near the Dobrilovina Monastery.",
+                  "text": "Small peak Mali Kurozeb near Dobrilovina monastery, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.313679,
@@ -3811,7 +4000,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Gradina",
-                  "text": "Gradina is a historical viewpoint on a mountain near the Dobrilovina Monastery.",
+                  "text": "Fortress ruin Gradina near Dobrilovina monastery, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.370748,
@@ -4201,7 +4390,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Štrbina",
-                  "text": "Štrbina ist ein Strand bei der Festung Haj Nehaj.",
+                  "text": "Ein Strand an der Festung Haj Nehaj bei Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.029195,
@@ -4293,7 +4482,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Štrbina",
-                  "text": "Štrbina egy strand a Haj Nehaj erődnél.",
+                  "text": "Strand a Haj Nehaj erődnél Ulcinj közelében.",
                   "category": "recreational",
                   "coords": [
                         19.029195,
@@ -4385,7 +4574,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Štrbina",
-                  "text": "Štrbina este o plajă lângă fortăreața Haj Nehaj.",
+                  "text": "O plajă la fortăreața Haj Nehaj lângă Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.029195,
@@ -4477,7 +4666,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Štrbina",
-                  "text": "Štrbina is a beach by the Haj Nehaj fortress.",
+                  "text": "A beach at Haj Nehaj Fort near Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.029195,
@@ -4615,7 +4804,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Žalo",
-                  "text": "Der Strand Žalo befindet sich beim Kloster Savina.",
+                  "text": "Ein Strand in der Nähe des Klosters Savina in Herceg Novi.",
                   "category": "recreational",
                   "coords": [
                         18.535079,
@@ -4626,7 +4815,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Žalo",
-                  "text": "A Žalo strand a Savina kolostornál található.",
+                  "text": "Strand a Savina kolostor közelében Herceg Noviban.",
                   "category": "recreational",
                   "coords": [
                         18.535079,
@@ -4637,7 +4826,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Žalo",
-                  "text": "Plaja Žalo se află în apropierea Mănăstirii Savina.",
+                  "text": "O plajă lângă mănăstirea Savina din Herceg Novi.",
                   "category": "recreational",
                   "coords": [
                         18.535079,
@@ -4648,7 +4837,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Žalo",
-                  "text": "Žalo Beach is situated near the Manastir Savina.",
+                  "text": "A beach near Savina Monastery in Herceg Novi.",
                   "category": "recreational",
                   "coords": [
                         18.535079,
@@ -5119,7 +5308,7 @@ export const montenegroHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Rafaello",
-                  "text": "Rafaello liegt nahe der Tvrđava Marsal Marmont.",
+                  "text": "Ein Ausflugsort an der Festung Marsal Marmont in Herceg Novi.",
                   "category": "recreational",
                   "coords": [
                         18.522199,
@@ -5130,7 +5319,7 @@ export const montenegroHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Rafaello",
-                  "text": "Rafaello a Tvrđava Marsal Marmont közelében fekszik.",
+                  "text": "Kirándulóhely a Marsal Marmont erődnél Herceg Noviban.",
                   "category": "recreational",
                   "coords": [
                         18.522199,
@@ -5141,7 +5330,7 @@ export const montenegroHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Rafaello",
-                  "text": "Rafaello se află în apropierea Cetății Marsal Marmont.",
+                  "text": "Un loc de agrement la fortăreața Marsal Marmont din Herceg Novi.",
                   "category": "recreational",
                   "coords": [
                         18.522199,
@@ -5152,7 +5341,7 @@ export const montenegroHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Rafaello",
-                  "text": "Rafaello is situated near the Tvrđava Marsal Marmont.",
+                  "text": "A recreational spot at Marshal Marmont Fort in Herceg Novi.",
                   "category": "recreational",
                   "coords": [
                         18.522199,
@@ -5245,7 +5434,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Kunteljat",
-                  "text": "Ein Berggipfel in der Region der Altstadt von Bar.",
+                  "text": "Wahrzeichen Kunteljat in der Altstadt von Bar, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.179868,
@@ -5337,7 +5526,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Kunteljat",
-                  "text": "Hegycsúcs Bar óvárosának vidékén.",
+                  "text": "Kunteljat nevezetesség Bar óvárosában, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.179868,
@@ -5429,7 +5618,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Kunteljat",
-                  "text": "Un vârf montan în regiunea orașului vechi Bar.",
+                  "text": "Reper Kunteljat în orașul vechi Bar, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.179868,
@@ -5521,7 +5710,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Kunteljat",
-                  "text": "A mountain peak in the region of the Old Town of Bar.",
+                  "text": "Landmark Kunteljat in the old town of Bar, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.179868,
@@ -5817,7 +6006,88 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-ostros-history-v2.webp",
   },
   {
-    id: "montenegro-tvrđava-spanjola-history-v2", "sights": {"de": [{"name": "Topla", "text": "Topla liegt in der Nähe der Tvrđava Spanjola.", "category": "recreational", "coords": [18.525858, 42.454361]}, {"name": "Plaža kod tunela", "text": "Gelegen bei der eindrucksvollen Festung Spanjola, ist die Plaža kod tunela ein markanter Punkt an der montenegrinischen Riviera. Das klare Wasser und die felsige Kulisse machen diesen Küstenstreifen zu einem attraktiven Ziel für Sonnenanbeter. Um einen guten Platz zum Liegen zu ergattern, lohnt sich ein zeitiges Erscheinen am Vormittag.", "category": "recreational", "coords": [18.527926, 42.453219]}], "hu": [{"name": "Topla", "text": "Topla a Tvrđava Spanjola közelében fekszik.", "category": "recreational", "coords": [18.525858, 42.454361]}, {"name": "Plaža kod tunela", "text": "A lenyűgöző Spanjola erőd mellett található Plaža kod tunela feltűnő pont a montenegrói Riviérán. A tiszta víz és a sziklás háttér vonzó célponttá teszi ezt a partszakaszt a napimádók számára. A jó fekvőhely biztosítása érdekében érdemes már délelőtt korán érkezni.", "category": "recreational", "coords": [18.527926, 42.453219]}], "ro": [{"name": "Topla", "text": "Topla se află în apropierea Cetății Spanjola.", "category": "recreational", "coords": [18.525858, 42.454361]}, {"name": "Plaža kod tunela", "text": "Situată lângă impresionanta Cetate Spanjola, Plaža kod tunela este un loc remarcabil pe Riviera Muntenegreană. Apele limpezi și fundalul stâncos fac din această fâșie de coastă o destinație atractivă pentru iubitorii de soare. Pentru a vă asigura un loc bun de întins, merită să ajungeți dimineața devreme.", "category": "recreational", "coords": [18.527926, 42.453219]}], "en": [{"name": "Topla", "text": "Topla is situated near the Tvrđava Spanjola.", "category": "recreational", "coords": [18.525858, 42.454361]}, {"name": "Plaža kod tunela", "text": "Located by the impressive Spanjola Fortress, Plaža kod tunela is a striking spot on the Montenegrin Riviera. The clear waters and the rocky backdrop make this coastal strip an attractive destination for sun worshipers. To secure a good spot to lie down, arriving early in the morning is worthwhile.", "category": "recreational", "coords": [18.527926, 42.453219]}]},
+    id: "montenegro-tvrđava-spanjola-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Topla",
+                  "text": "Ein Strand an der Spanischen Festung in Herceg Novi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Gelegen bei der eindrucksvollen Festung Spanjola, ist die Plaža kod tunela ein markanter Punkt an der montenegrinischen Riviera. Das klare Wasser und die felsige Kulisse machen diesen Küstenstreifen zu einem attraktiven Ziel für Sonnenanbeter. Um einen guten Platz zum Liegen zu ergattern, lohnt sich ein zeitiges Erscheinen am Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Topla",
+                  "text": "Strand a Spanyol erődnél Herceg Noviban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "A lenyűgöző Spanjola erőd mellett található Plaža kod tunela feltűnő pont a montenegrói Riviérán. A tiszta víz és a sziklás háttér vonzó célponttá teszi ezt a partszakaszt a napimádók számára. A jó fekvőhely biztosítása érdekében érdemes már délelőtt korán érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Topla",
+                  "text": "O plajă la Fortăreața Spaniolă din Herceg Novi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Situată lângă impresionanta Cetate Spanjola, Plaža kod tunela este un loc remarcabil pe Riviera Muntenegreană. Apele limpezi și fundalul stâncos fac din această fâșie de coastă o destinație atractivă pentru iubitorii de soare. Pentru a vă asigura un loc bun de întins, merită să ajungeți dimineața devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Topla",
+                  "text": "A beach at the Spanish Fortress in Herceg Novi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Located by the impressive Spanjola Fortress, Plaža kod tunela is a striking spot on the Montenegrin Riviera. The clear waters and the rocky backdrop make this coastal strip an attractive destination for sun worshipers. To secure a good spot to lie down, arriving early in the morning is worthwhile.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung Španjola", hu: "Španjola erőd", ro: "Fortăreața Španjola", en: "Španjola Fortress" },
@@ -6415,7 +6685,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Muzej Stari Bar",
-                  "text": "Ein Museum, das der archäologischen Geschichte von Stari Bar gewidmet ist.",
+                  "text": "Ein Museum in der Altstadt von Bar bei Donja Briska.",
                   "category": "museum",
                   "coords": [
                         19.133233,
@@ -6442,7 +6712,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Küstenabschnitt am Meer in der Nähe der Stadt Bar.",
+                  "text": "Ein Strand im Hafen von Bar (Wiederholung, bei Donja Briska).",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -6507,7 +6777,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Muzej Stari Bar",
-                  "text": "Stari Bar régészeti történelmének szentelt múzeum.",
+                  "text": "Múzeum Bar óvárosában Donja Briska közelében.",
                   "category": "museum",
                   "coords": [
                         19.133233,
@@ -6534,7 +6804,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "Tengerparti szakasz Bar városa közelében.",
+                  "text": "Strand Bar kikötőjében (ismétlés, Donja Briska közelében).",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -6599,7 +6869,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Muzej Stari Bar",
-                  "text": "Un muzeu dedicat istoriei arheologice din Stari Bar.",
+                  "text": "Un muzeu în orașul vechi al Barului lângă Donja Briska.",
                   "category": "museum",
                   "coords": [
                         19.133233,
@@ -6626,7 +6896,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "O porțiune de plajă la mare situată în apropierea orașului Bar.",
+                  "text": "O plajă în portul Bar (repetare, lângă Donja Briska).",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -6691,7 +6961,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Museum Stari Bar",
-                  "text": "A museum dedicated to the archaeological history of Stari Bar.",
+                  "text": "A museum in the old town of Bar near Donja Briska.",
                   "category": "museum",
                   "coords": [
                         19.133233,
@@ -6718,7 +6988,7 @@ export const montenegroHistoryV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "A coastal beach section located near the city of Bar.",
+                  "text": "A beach in the Bar port area (repeat, near Donja Briska).",
                   "category": "recreational",
                   "coords": [
                         19.083607,

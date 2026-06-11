@@ -252,7 +252,7 @@ export const germanyLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Schmuggler Bucht",
-                  "text": "Die Schmuggler Bucht befindet sich in Konstanz.",
+                  "text": "Schmuggler Bucht in Konstanz, eine kleine Badebucht unterhalb des Konzilgebäudes am Bodensee.",
                   "category": "recreational",
                   "coords": [
                         9.193654,
@@ -263,7 +263,7 @@ export const germanyLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Schmuggler Bucht",
-                  "text": "A Schmuggler Bucht Konstanzban található.",
+                  "text": "Csempész-öböl Konstanzban, egy kis fürdőöböl a Konzilgebäude alatt a Bodeni-tónál.",
                   "category": "recreational",
                   "coords": [
                         9.193654,
@@ -274,7 +274,7 @@ export const germanyLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Schmuggler Bucht",
-                  "text": "Schmuggler Bucht este situat în Konstanz.",
+                  "text": "Golful Contrabandiștilor din Konstanz, o mică plajă de îmbăiere sub clădirea Konzil, pe lacul Constanța.",
                   "category": "recreational",
                   "coords": [
                         9.193654,
@@ -285,7 +285,7 @@ export const germanyLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Schmuggler Bucht",
-                  "text": "Schmuggler Bucht is located in Konstanz.",
+                  "text": "Smugglers' Cove in Konstanz, a small swimming cove below the Konzil building on Lake Constance.",
                   "category": "recreational",
                   "coords": [
                         9.193654,

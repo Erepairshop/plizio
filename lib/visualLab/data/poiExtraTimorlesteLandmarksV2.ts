@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraTimorlesteLandmarksV2: POI[] = [
   {
-    id: "jaco-island-landmarks-v2",
+    id: "jaco-island-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilha de Jacó",
+                  "text": "Ilha de Jacó fungiert als ein Wildtier-Zoo in jaco-island-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.323262,
+                        -8.42144
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia ist ein malerischer Strand in jaco-island-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.341558,
+                        -8.431316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilha de Jacó",
+                  "text": "Az Ilha de Jacó egy vadasparkként funkcionáló terület jaco-island-landmarks-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.323262,
+                        -8.42144
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Praia egy festői tengerpart jaco-island-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        127.341558,
+                        -8.431316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilha de Jacó",
+                  "text": "Ilha de Jacó funcționează ca o zonă de grădină zoologică în jaco-island-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.323262,
+                        -8.42144
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia este o plajă pitorească situată în jaco-island-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.341558,
+                        -8.431316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilha de Jacó",
+                  "text": "Ilha de Jacó functions as a wildlife zoo area in jaco-island-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.323262,
+                        -8.42144
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia is a picturesque beach located in jaco-island-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.341558,
+                        -8.431316
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-LA",
     coords: [127.3236, -8.4278],
@@ -39,7 +120,88 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tatamailau-statue-landmarks-v2",
+    id: "tatamailau-statue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tatamailau",
+                  "text": "Der Mount Ramelau, der höchste Berg in Osttimor, ist ein markanter Gipfel in tatamailau-statue-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.493536,
+                        -8.906496
+                  ]
+            },
+            {
+                  "name": "Open air church",
+                  "text": "Die Open air church ist eine christliche Stätte in tatamailau-statue-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.493152,
+                        -8.911719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tatamailau",
+                  "text": "A Mount Ramelau Kelet-Timor legmagasabb hegycsúcsa, amely a tatamailau-statue-landmarks-v2 területén található.",
+                  "category": "natural",
+                  "coords": [
+                        125.493536,
+                        -8.906496
+                  ]
+            },
+            {
+                  "name": "Open air church",
+                  "text": "A Open air church egy keresztény vallási hely tatamailau-statue-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.493152,
+                        -8.911719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tatamailau",
+                  "text": "Mount Ramelau, cel mai înalt munte din Timorul de Est, este un vârf proeminent situat în tatamailau-statue-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.493536,
+                        -8.906496
+                  ]
+            },
+            {
+                  "name": "Open air church",
+                  "text": "Biserica în aer liber este un sit creștin situat în tatamailau-statue-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.493152,
+                        -8.911719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Ramelau",
+                  "text": "Mount Ramelau is the highest mountain in East Timor and a prominent peak located in tatamailau-statue-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.493536,
+                        -8.906496
+                  ]
+            },
+            {
+                  "name": "Open air church",
+                  "text": "The Open air church is a Christian site located in tatamailau-statue-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.493152,
+                        -8.911719
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-AN",
     coords: [125.4925, -8.9056],
@@ -75,7 +237,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nino-konis-santana-landmarks-v2",
+    id: "nino-konis-santana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein rauer Sandstrand, eingebettet zwischen den markanten Naturdenkmälern der Region.",
+                  "category": "recreational",
+                  "coords": [
+                        127.155382,
+                        -8.354019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "A régió kiemelkedő természeti látványosságai között megbúvó zord homokos partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        127.155382,
+                        -8.354019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O porțiune stâncoasă de nisip de coastă cuibărită printre punctele de reper naturale proeminente ale regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        127.155382,
+                        -8.354019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A rugged stretch of coastal sand nestled among the prominent natural landmarks of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        127.155382,
+                        -8.354019
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-LA",
     coords: [127.1667, -8.4167],
@@ -111,7 +318,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tais-market-landmarks-v2",
+    id: "tais-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Resistensia de Timor-Leste",
+                  "text": "Das Museum Resistensia de Timor-Leste ist ein Museum in tais-market-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.577557,
+                        -8.555645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Resistensia de Timor-Leste",
+                  "text": "A Museum Resistensia de Timor-Leste egy múzeum tais-market-landmarks-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        125.577557,
+                        -8.555645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Resistensia de Timor-Leste",
+                  "text": "Museum Resistensia de Timor-Leste este un muzeu din tais-market-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.577557,
+                        -8.555645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Resistensia de Timor-Leste",
+                  "text": "Museum Resistensia de Timor-Leste is a museum located in tais-market-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.577557,
+                        -8.555645
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5786, -8.5564],
@@ -147,7 +399,232 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "marobo-hot-springs-landmarks-v2",
+    id: "marobo-hot-springs-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Be'e Manas Marobo",
+                  "text": "Hot spring Morobo ist eine geothermale Naturattraktion in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.313997,
+                        -8.986832
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora De Fatima",
+                  "text": "Die Igreja Nossa Senhora De Fatima ist ein christliches Bauwerk in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.327519,
+                        -8.978314
+                  ]
+            },
+            {
+                  "name": "Kapela Rai heu",
+                  "text": "Kapela Rai heu ist eine lokale Andachtsstätte in marobo-hot-springs-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.294061,
+                        -8.971068
+                  ]
+            },
+            {
+                  "name": "Capela Sao Luis",
+                  "text": "Die Capela Sao Luis ist eine christliche Kapelle in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.213593,
+                        -8.923938
+                  ]
+            },
+            {
+                  "name": "Igreja stasaun Cailaco",
+                  "text": "Igreja stasaun Cailaco ist eine bemerkenswerte christliche Kirche in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.209082,
+                        -8.882583
+                  ]
+            },
+            {
+                  "name": "Mercado marku",
+                  "text": "Mercado marku ist ein lokaler Marktplatz in marobo-hot-springs-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.211662,
+                        -8.88201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Be'e Manas Marobo",
+                  "text": "A Hot spring Morobo egy geotermikus természeti látványosság marobo-hot-springs-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.313997,
+                        -8.986832
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora De Fatima",
+                  "text": "Az Igreja Nossa Senhora De Fatima egy keresztény vallási épület marobo-hot-springs-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.327519,
+                        -8.978314
+                  ]
+            },
+            {
+                  "name": "Kapela Rai heu",
+                  "text": "A Kapela Rai heu egy istentiszteleti hely marobo-hot-springs-landmarks-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        125.294061,
+                        -8.971068
+                  ]
+            },
+            {
+                  "name": "Capela Sao Luis",
+                  "text": "A Capela Sao Luis egy keresztény kápolna marobo-hot-springs-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.213593,
+                        -8.923938
+                  ]
+            },
+            {
+                  "name": "Igreja stasaun Cailaco",
+                  "text": "Az Igreja stasaun Cailaco egy nevezetes keresztény templom marobo-hot-springs-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.209082,
+                        -8.882583
+                  ]
+            },
+            {
+                  "name": "Mercado marku",
+                  "text": "A Mercado marku egy helyi piac marobo-hot-springs-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.211662,
+                        -8.88201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Be'e Manas Marobo",
+                  "text": "Hot spring Morobo este o atracție naturală geotermală din marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.313997,
+                        -8.986832
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora De Fatima",
+                  "text": "Igreja Nossa Senhora De Fatima este o clădire religioasă creștină în marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.327519,
+                        -8.978314
+                  ]
+            },
+            {
+                  "name": "Kapela Rai heu",
+                  "text": "Kapela Rai heu este un lăcaș de cult situat în marobo-hot-springs-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.294061,
+                        -8.971068
+                  ]
+            },
+            {
+                  "name": "Capela Sao Luis",
+                  "text": "Capela Sao Luis este o capelă creștină din marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.213593,
+                        -8.923938
+                  ]
+            },
+            {
+                  "name": "Igreja stasaun Cailaco",
+                  "text": "Igreja stasaun Cailaco este o biserică creștină situată în marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.209082,
+                        -8.882583
+                  ]
+            },
+            {
+                  "name": "Mercado marku",
+                  "text": "Mercado marku este o piață locală situată în marobo-hot-springs-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.211662,
+                        -8.88201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hot spring Morobo",
+                  "text": "Hot spring Morobo is a geothermal natural attraction found in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.313997,
+                        -8.986832
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora De Fatima",
+                  "text": "Igreja Nossa Senhora De Fatima is a Christian religious building in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.327519,
+                        -8.978314
+                  ]
+            },
+            {
+                  "name": "Kapela Rai heu",
+                  "text": "Kapela Rai heu is a dedicated place of worship located in marobo-hot-springs-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.294061,
+                        -8.971068
+                  ]
+            },
+            {
+                  "name": "Capela Sao Luis",
+                  "text": "Capela Sao Luis is a Christian chapel serving the community of marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.213593,
+                        -8.923938
+                  ]
+            },
+            {
+                  "name": "Igreja stasaun Cailaco",
+                  "text": "Igreja stasaun Cailaco is a notable Christian church situated in marobo-hot-springs-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.209082,
+                        -8.882583
+                  ]
+            },
+            {
+                  "name": "Mercado marku",
+                  "text": "Mercado marku is a local marketplace located in marobo-hot-springs-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.211662,
+                        -8.88201
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-BO",
     coords: [125.2631, -8.9213],
@@ -183,7 +660,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tasi-tolu-park-landmarks-v2",
+    id: "tasi-tolu-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dili Rock Dive Site",
+                  "text": "Die Dili Rock Dive Site ist eine bemerkenswerte maritime Attraktion in tasi-tolu-park-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499203,
+                        -8.556533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dili Rock Dive Site",
+                  "text": "A Dili Rock Dive Site egy tengeri látványosság, amely tasi-tolu-park-landmarks-v2 területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499203,
+                        -8.556533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dili Rock Dive Site",
+                  "text": "Dili Rock Dive Site este o atracție maritimă situată în tasi-tolu-park-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499203,
+                        -8.556533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dili Rock Dive Site",
+                  "text": "Dili Rock Dive Site is a notable marine attraction located in tasi-tolu-park-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499203,
+                        -8.556533
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5050, -8.5630],
@@ -255,7 +777,340 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "baucau-pool-landmarks-v2",
+    id: "baucau-pool-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holy Cross Viewpoint",
+                  "text": "Der Holy Cross Viewpoint bietet einen Panoramablick in baucau-pool-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.45616,
+                        -8.46175
+                  ]
+            },
+            {
+                  "name": "Beautiful beach",
+                  "text": "Beautiful beach ist eine Naturattraktion in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44763,
+                        -8.431305
+                  ]
+            },
+            {
+                  "name": "Old Portuguese customs house",
+                  "text": "Das alte portugiesische Zollhaus ist eine historische Attraktion in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465555,
+                        -8.441137
+                  ]
+            },
+            {
+                  "name": "pink house",
+                  "text": "Das rosa Haus dient als bemerkenswerter Aussichtspunkt in baucau-pool-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.461567,
+                        -8.449165
+                  ]
+            },
+            {
+                  "name": "Piscina de Baucau",
+                  "text": "Piscina de Baucau ist eine beliebte Wasserattraktion in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.451875,
+                        -8.461228
+                  ]
+            },
+            {
+                  "name": "Portuguese building in ruins",
+                  "text": "Das portugiesische Gebäude in Ruinen ist eine faszinierende Attraktion in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456838,
+                        -8.457172
+                  ]
+            },
+            {
+                  "name": "Igreza Katedral Santo Antonio de Baucau",
+                  "text": "Die Igreza Katedral Santo Antonio de Baucau ist eine bedeutende christliche Kathedrale in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453792,
+                        -8.461907
+                  ]
+            },
+            {
+                  "name": "Rezidensia Episkopal",
+                  "text": "Die Rezidensia Episkopal ist eine christliche bischöfliche Residenz in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457874,
+                        -8.462268
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal (Disused)",
+                  "text": "Der stillgelegte Mercado Municipal ist ein historischer ehemaliger Marktplatz in baucau-pool-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.453021,
+                        -8.462835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holy Cross Viewpoint",
+                  "text": "A Holy Cross Viewpoint panorámás kilátást nyújt a baucau-pool-landmarks-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.45616,
+                        -8.46175
+                  ]
+            },
+            {
+                  "name": "Beautiful beach",
+                  "text": "A Beautiful beach egy természeti látványosság a baucau-pool-landmarks-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44763,
+                        -8.431305
+                  ]
+            },
+            {
+                  "name": "Old Portuguese customs house",
+                  "text": "A régi portugál vámház egy történelmi látványosság a baucau-pool-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465555,
+                        -8.441137
+                  ]
+            },
+            {
+                  "name": "pink house",
+                  "text": "A rózsaszín ház figyelemre méltó kilátópontként szolgál a baucau-pool-landmarks-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        126.461567,
+                        -8.449165
+                  ]
+            },
+            {
+                  "name": "Piscina de Baucau",
+                  "text": "A Piscina de Baucau egy népszerű vizes látványosság a baucau-pool-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.451875,
+                        -8.461228
+                  ]
+            },
+            {
+                  "name": "Portuguese building in ruins",
+                  "text": "A romos portugál épület egy érdekes látványosság a baucau-pool-landmarks-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456838,
+                        -8.457172
+                  ]
+            },
+            {
+                  "name": "Igreza Katedral Santo Antonio de Baucau",
+                  "text": "Az Igreza Katedral Santo Antonio de Baucau egy jelentős keresztény katedrális a baucau-pool-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453792,
+                        -8.461907
+                  ]
+            },
+            {
+                  "name": "Rezidensia Episkopal",
+                  "text": "A Rezidensia Episkopal egy keresztény püspöki rezidencia a baucau-pool-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457874,
+                        -8.462268
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal (Disused)",
+                  "text": "A használaton kívüli Mercado Municipal egy egykori történelmi piac a baucau-pool-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.453021,
+                        -8.462835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holy Cross Viewpoint",
+                  "text": "Holy Cross Viewpoint oferă vederi panoramice în baucau-pool-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.45616,
+                        -8.46175
+                  ]
+            },
+            {
+                  "name": "Beautiful beach",
+                  "text": "Beautiful beach este o atracție naturală situată în baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44763,
+                        -8.431305
+                  ]
+            },
+            {
+                  "name": "Old Portuguese customs house",
+                  "text": "Vechea vamă portugheză este o atracție istorică din baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465555,
+                        -8.441137
+                  ]
+            },
+            {
+                  "name": "pink house",
+                  "text": "Casa roz servește drept un punct de belvedere notabil în baucau-pool-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.461567,
+                        -8.449165
+                  ]
+            },
+            {
+                  "name": "Piscina de Baucau",
+                  "text": "Piscina de Baucau este o atracție acvatică populară din baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.451875,
+                        -8.461228
+                  ]
+            },
+            {
+                  "name": "Portuguese building in ruins",
+                  "text": "Clădirea portugheză în ruine este o atracție intrigantă din baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456838,
+                        -8.457172
+                  ]
+            },
+            {
+                  "name": "Igreza Katedral Santo Antonio de Baucau",
+                  "text": "Igreza Katedral Santo Antonio de Baucau este o importantă catedrală creștină situată în baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453792,
+                        -8.461907
+                  ]
+            },
+            {
+                  "name": "Rezidensia Episkopal",
+                  "text": "Rezidensia Episkopal este o reședință episcopală creștină situată în baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457874,
+                        -8.462268
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal (Disused)",
+                  "text": "Mercado Municipal (dezafectat) este o fostă piață istorică din baucau-pool-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.453021,
+                        -8.462835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Cross Viewpoint",
+                  "text": "The Holy Cross Viewpoint offers panoramic views in baucau-pool-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.45616,
+                        -8.46175
+                  ]
+            },
+            {
+                  "name": "Beautiful beach",
+                  "text": "Beautiful beach is a natural attraction located in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44763,
+                        -8.431305
+                  ]
+            },
+            {
+                  "name": "Old Portuguese customs house",
+                  "text": "The Old Portuguese customs house is a historical attraction in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465555,
+                        -8.441137
+                  ]
+            },
+            {
+                  "name": "pink house",
+                  "text": "The pink house serves as a notable viewpoint in baucau-pool-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.461567,
+                        -8.449165
+                  ]
+            },
+            {
+                  "name": "Piscina de Baucau",
+                  "text": "Piscina de Baucau is a popular water attraction in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.451875,
+                        -8.461228
+                  ]
+            },
+            {
+                  "name": "Portuguese building in ruins",
+                  "text": "The Portuguese building in ruins is an intriguing attraction in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456838,
+                        -8.457172
+                  ]
+            },
+            {
+                  "name": "Igreza Katedral Santo Antonio de Baucau",
+                  "text": "Igreza Katedral Santo Antonio de Baucau is a major Christian cathedral located in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453792,
+                        -8.461907
+                  ]
+            },
+            {
+                  "name": "Rezidensia Episkopal",
+                  "text": "Rezidensia Episkopal is a Christian episcopal residence situated in baucau-pool-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457874,
+                        -8.462268
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal (Disused)",
+                  "text": "The disused Mercado Municipal is a historic former marketplace in baucau-pool-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.453021,
+                        -8.462835
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-BA",
     coords: [126.4497, -8.4632],
@@ -291,7 +1146,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "xanana-reading-room-landmarks-v2",
+    id: "xanana-reading-room-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parlamento Nacional",
+                  "text": "Das Nationalparlament ist die Einkammer-Legislative Osttimors und dient als Sitz der Regierung des Landes.",
+                  "category": "historical",
+                  "coords": [
+                        125.578746,
+                        -8.554702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parlamento Nacional",
+                  "text": "A Nemzeti Parlament Kelet-Timor egykamarás nemzeti törvényhozása, amely az ország kormányának székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        125.578746,
+                        -8.554702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parlamento Nacional",
+                  "text": "Parlamentul Național este legislativul național unicameral al Timorului de Est, servind drept sediu al guvernului țării.",
+                  "category": "historical",
+                  "coords": [
+                        125.578746,
+                        -8.554702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parlamento Nacional",
+                  "text": "The National Parliament is the unicameral national legislature of East Timor, serving as the seat of the country's government.",
+                  "category": "historical",
+                  "coords": [
+                        125.578746,
+                        -8.554702
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5780, -8.5540],
@@ -327,7 +1227,340 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "valu-beach-landmarks-v2",
+    id: "valu-beach-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lost world",
+                  "text": "The Lost world ist ein malerischer Aussichtspunkt mit weitem Blick in valu-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            },
+            {
+                  "name": "Il kere kere",
+                  "text": "Il kere kere ist eine antike archäologische Stätte in valu-beach-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.28945,
+                        -8.39371
+                  ]
+            },
+            {
+                  "name": "cave",
+                  "text": "Diese natürliche Höhle ist eine beliebte Sehenswürdigkeit in valu-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.291463,
+                        -8.415063
+                  ]
+            },
+            {
+                  "name": "Ossadas de Baleia",
+                  "text": "Ossadas de Baleia ist ein einzigartiges Denkmal in valu-beach-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.309194,
+                        -8.417887
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia ist ein friedlicher Strand entlang der Küste in valu-beach-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.272846,
+                        -8.443558
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Valu Beach ist ein bekannter Sandstrand in valu-beach-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.299754,
+                        -8.410975
+                  ]
+            },
+            {
+                  "name": "Jerimalai archeological site",
+                  "text": "Die archäologische Stätte Jerimalai ist als historische Kultstätte in valu-beach-landmarks-v2 bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        127.29321,
+                        -8.413159
+                  ]
+            },
+            {
+                  "name": "lene hara archeological site",
+                  "text": "Die archäologische Stätte Lene Hara ist eine anerkannte Kultstätte in valu-beach-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.290557,
+                        -8.407772
+                  ]
+            },
+            {
+                  "name": "Igreja de São José de Tutuala",
+                  "text": "Igreja de São José de Tutuala ist eine christliche Kirche in valu-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.254883,
+                        -8.394917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lost world",
+                  "text": "A Lost world egy festői kilátó, amely lenyűgöző panorámát nyújt valu-beach-landmarks-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            },
+            {
+                  "name": "Il kere kere",
+                  "text": "Az Il kere kere egy ősi régészeti lelőhely valu-beach-landmarks-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        127.28945,
+                        -8.39371
+                  ]
+            },
+            {
+                  "name": "cave",
+                  "text": "Ez a természetes barlang egy népszerű látványosság valu-beach-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        127.291463,
+                        -8.415063
+                  ]
+            },
+            {
+                  "name": "Ossadas de Baleia",
+                  "text": "Az Ossadas de Baleia egy egyedi műemlék valu-beach-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        127.309194,
+                        -8.417887
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Praia egy békés tengerpart valu-beach-landmarks-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.272846,
+                        -8.443558
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Valu Beach egy jól ismert homokos tengerpart valu-beach-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        127.299754,
+                        -8.410975
+                  ]
+            },
+            {
+                  "name": "Jerimalai archeological site",
+                  "text": "A Jerimalai régészeti lelőhely egy történelmi istentiszteleti hely valu-beach-landmarks-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        127.29321,
+                        -8.413159
+                  ]
+            },
+            {
+                  "name": "lene hara archeological site",
+                  "text": "A Lene Hara régészeti lelőhely egy elismert istentiszteleti hely valu-beach-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        127.290557,
+                        -8.407772
+                  ]
+            },
+            {
+                  "name": "Igreja de São José de Tutuala",
+                  "text": "Az Igreja de São José de Tutuala egy keresztény templom valu-beach-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        127.254883,
+                        -8.394917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lost world",
+                  "text": "Lost world este un punct de belvedere panoramic din valu-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            },
+            {
+                  "name": "Il kere kere",
+                  "text": "Il kere kere este un sit arheologic antic situat în valu-beach-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.28945,
+                        -8.39371
+                  ]
+            },
+            {
+                  "name": "cave",
+                  "text": "Această peșteră naturală este o atracție din valu-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.291463,
+                        -8.415063
+                  ]
+            },
+            {
+                  "name": "Ossadas de Baleia",
+                  "text": "Ossadas de Baleia este un monument inedit din valu-beach-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.309194,
+                        -8.417887
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia este o plajă liniștită situată în valu-beach-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.272846,
+                        -8.443558
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Valu Beach este o plajă de nisip populară din valu-beach-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.299754,
+                        -8.410975
+                  ]
+            },
+            {
+                  "name": "Jerimalai archeological site",
+                  "text": "Situl arheologic Jerimalai este recunoscut istoric ca lăcaș de cult în valu-beach-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.29321,
+                        -8.413159
+                  ]
+            },
+            {
+                  "name": "lene hara archeological site",
+                  "text": "Situl arheologic Lene Hara este un lăcaș de cult recunoscut în valu-beach-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.290557,
+                        -8.407772
+                  ]
+            },
+            {
+                  "name": "Igreja de São José de Tutuala",
+                  "text": "Igreja de São José de Tutuala este o biserică creștină din valu-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.254883,
+                        -8.394917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lost world",
+                  "text": "The Lost world is a scenic viewpoint offering sweeping vistas in valu-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            },
+            {
+                  "name": "Il kere kere",
+                  "text": "Il kere kere is an ancient archaeological site situated in valu-beach-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.28945,
+                        -8.39371
+                  ]
+            },
+            {
+                  "name": "cave",
+                  "text": "This natural cave is a popular attraction in valu-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.291463,
+                        -8.415063
+                  ]
+            },
+            {
+                  "name": "Ossadas de Baleia",
+                  "text": "Ossadas de Baleia is a unique monument in valu-beach-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.309194,
+                        -8.417887
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia is a peaceful beach stretching along the coast in valu-beach-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.272846,
+                        -8.443558
+                  ]
+            },
+            {
+                  "name": "Valu Beach",
+                  "text": "Valu Beach is a well-known sandy coastal area in valu-beach-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        127.299754,
+                        -8.410975
+                  ]
+            },
+            {
+                  "name": "Jerimalai archeological site",
+                  "text": "The Jerimalai archeological site is historically recognized as a place of worship in valu-beach-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.29321,
+                        -8.413159
+                  ]
+            },
+            {
+                  "name": "lene hara archeological site",
+                  "text": "The Lene Hara archeological site is a recognized place of worship in valu-beach-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.290557,
+                        -8.407772
+                  ]
+            },
+            {
+                  "name": "Igreja de São José de Tutuala",
+                  "text": "Igreja de São José de Tutuala is a Christian church serving the community in valu-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.254883,
+                        -8.394917
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-LA",
     coords: [127.3000, -8.4140],
@@ -363,7 +1596,124 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lospalos-houses-landmarks-v2",
+    id: "lospalos-houses-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque At-Taqwa",
+                  "text": "Diese lokale Moschee zeichnet sich durch traditionelle islamische Architektur aus und dient den täglichen spirituellen Bedürfnissen der muslimischen Gemeinde in Lospalos.",
+                  "category": "landmark",
+                  "coords": [
+                        126.995049,
+                        -8.523544
+                  ]
+            },
+            {
+                  "name": "Igreja protestante",
+                  "text": "Eine bescheidene evangelische Kirche, die regelmäßige Gottesdienste und eine spirituelle Heimat für Gläubige in der Gegend von Lospalos bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.997671,
+                        -8.524661
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "Eine kleine, ruhige Kapelle, die einen eigenen Raum für christliche Andacht und stille Besinnung in Lospalos bietet.",
+                  "category": "religious",
+                  "coords": [
+                        126.998104,
+                        -8.533193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque At-Taqwa",
+                  "text": "Ez a helyi mecset hagyományos iszlám építészettel rendelkezik, és a Lospalos-i muszlim közösség napi spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        126.995049,
+                        -8.523544
+                  ]
+            },
+            {
+                  "name": "Igreja protestante",
+                  "text": "Egy szerény protestáns templom, amely rendszeres vallási szertartásokat és spirituális otthont biztosít a hívők számára a Lospalos területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.997671,
+                        -8.524661
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "Egy kicsi, csendes kápolna, amely dedikált teret kínál a keresztény áhítatnak és a csendes elmélkedésnek Lospalosban.",
+                  "category": "religious",
+                  "coords": [
+                        126.998104,
+                        -8.533193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque At-Taqwa",
+                  "text": "Această moschee locală prezintă o arhitectură islamică tradițională și servește nevoilor spirituale zilnice ale comunității musulmane din Lospalos.",
+                  "category": "landmark",
+                  "coords": [
+                        126.995049,
+                        -8.523544
+                  ]
+            },
+            {
+                  "name": "Igreja protestante",
+                  "text": "O biserică protestantă modestă care oferă slujbe religioase regulate și un cămin spiritual pentru credincioșii din zona Lospalos.",
+                  "category": "landmark",
+                  "coords": [
+                        126.997671,
+                        -8.524661
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "O capelă mică și liniștită care oferă un spațiu dedicat devoțiunii creștine și reflecției tăcute în Lospalos.",
+                  "category": "religious",
+                  "coords": [
+                        126.998104,
+                        -8.533193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque At-Taqwa",
+                  "text": "This local mosque features traditional Islamic architecture and serves the daily spiritual needs of the Muslim community in Lospalos.",
+                  "category": "landmark",
+                  "coords": [
+                        126.995049,
+                        -8.523544
+                  ]
+            },
+            {
+                  "name": "Igreja protestante",
+                  "text": "A modest Protestant church providing regular religious services and a spiritual home for believers in the Lospalos area.",
+                  "category": "landmark",
+                  "coords": [
+                        126.997671,
+                        -8.524661
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "A small, tranquil chapel offering a dedicated space for Christian devotion and quiet reflection in Lospalos.",
+                  "category": "religious",
+                  "coords": [
+                        126.998104,
+                        -8.533193
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-LA",
     coords: [126.9950, -8.5240],
@@ -399,7 +1749,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "one-dollar-beach-landmarks-v2",
+    id: "one-dollar-beach-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Metinaro",
+                  "text": "Diese Kirche liegt in Küstennähe unweit des One Dollar Beach und dient der Küstengemeinde von Metinaro.",
+                  "category": "religious",
+                  "coords": [
+                        125.738311,
+                        -8.529659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Metinaro",
+                  "text": "A parthoz közel, a One Dollar Beach-től nem messze található templom Metinaro tengerparti közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        125.738311,
+                        -8.529659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Metinaro",
+                  "text": "Situată în apropierea coastei, nu departe de One Dollar Beach, această biserică deservește comunitatea de coastă din Metinaro.",
+                  "category": "religious",
+                  "coords": [
+                        125.738311,
+                        -8.529659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Metinaro",
+                  "text": "Positioned near the coast not far from One Dollar Beach, this church serves the coastal community of Metinaro.",
+                  "category": "religious",
+                  "coords": [
+                        125.738311,
+                        -8.529659
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.7500, -8.5200],
@@ -435,7 +1830,268 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "beloi-beach-landmarks-v2",
+    id: "beloi-beach-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "bone caves",
+                  "text": "Die bone caves sind ein Aussichtspunkt in beloi-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.594223,
+                        -8.162506
+                  ]
+            },
+            {
+                  "name": "Walk path to Adara",
+                  "text": "Der Walk path to Adara ist eine Wanderattraktion in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.599952,
+                        -8.1925
+                  ]
+            },
+            {
+                  "name": "Arlo",
+                  "text": "Arlo ist eine bekannte Sehenswürdigkeit in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.591731,
+                        -8.186453
+                  ]
+            },
+            {
+                  "name": "Steep descent or ascent",
+                  "text": "Die Steep descent or ascent ist ein besonderer Streckenabschnitt in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.584184,
+                        -8.180802
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Die Cave ist eine Höhle und Attraktion in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.597924,
+                        -8.190936
+                  ]
+            },
+            {
+                  "name": "view point",
+                  "text": "Dieser View point bietet weite Ausblicke über beloi-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.636406,
+                        -8.179475
+                  ]
+            },
+            {
+                  "name": "Hotspring",
+                  "text": "Der Hotspring ist eine thermale Attraktion in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.640118,
+                        -8.164789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bone caves",
+                  "text": "A bone caves egy kilátópont a beloi-beach-landmarks-v2 nevű helyen.",
+                  "category": "natural",
+                  "coords": [
+                        125.594223,
+                        -8.162506
+                  ]
+            },
+            {
+                  "name": "Walk path to Adara",
+                  "text": "A Walk path to Adara egy túraútvonal és látványosság beloi-beach-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.599952,
+                        -8.1925
+                  ]
+            },
+            {
+                  "name": "Arlo",
+                  "text": "Arlo egy helyi látványosság beloi-beach-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.591731,
+                        -8.186453
+                  ]
+            },
+            {
+                  "name": "Steep descent or ascent",
+                  "text": "A Steep descent or ascent egy különleges természeti látványosság a beloi-beach-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.584184,
+                        -8.180802
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "A Cave egy helyi barlangi látványosság a beloi-beach-landmarks-v2 nevű területen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.597924,
+                        -8.190936
+                  ]
+            },
+            {
+                  "name": "view point",
+                  "text": "Ez a kilátó (view point) a beloi-beach-landmarks-v2 nevű helységben található.",
+                  "category": "natural",
+                  "coords": [
+                        125.636406,
+                        -8.179475
+                  ]
+            },
+            {
+                  "name": "Hotspring",
+                  "text": "A Hotspring egy hőforrás és látványosság beloi-beach-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.640118,
+                        -8.164789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bone caves",
+                  "text": "Bone caves este un punct de panoramă din beloi-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.594223,
+                        -8.162506
+                  ]
+            },
+            {
+                  "name": "Walk path to Adara",
+                  "text": "Walk path to Adara este un traseu de atracție situat în beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.599952,
+                        -8.1925
+                  ]
+            },
+            {
+                  "name": "Arlo",
+                  "text": "Arlo este o atracție din regiunea beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.591731,
+                        -8.186453
+                  ]
+            },
+            {
+                  "name": "Steep descent or ascent",
+                  "text": "Steep descent or ascent este o atracție din beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.584184,
+                        -8.180802
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Cave este o peșteră și atracție turistică din beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.597924,
+                        -8.190936
+                  ]
+            },
+            {
+                  "name": "view point",
+                  "text": "Acest punct de observație (view point) este situat în beloi-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.636406,
+                        -8.179475
+                  ]
+            },
+            {
+                  "name": "Hotspring",
+                  "text": "Hotspring este o atracție termală din beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.640118,
+                        -8.164789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bone caves",
+                  "text": "The bone caves function as a scenic viewpoint in beloi-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.594223,
+                        -8.162506
+                  ]
+            },
+            {
+                  "name": "Walk path to Adara",
+                  "text": "The Walk path to Adara is an attractive walking route in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.599952,
+                        -8.1925
+                  ]
+            },
+            {
+                  "name": "Arlo",
+                  "text": "Arlo is a local attraction situated in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.591731,
+                        -8.186453
+                  ]
+            },
+            {
+                  "name": "Steep descent or ascent",
+                  "text": "Steep descent or ascent is a notable trail feature and attraction in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.584184,
+                        -8.180802
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "The Cave is a natural attraction located in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.597924,
+                        -8.190936
+                  ]
+            },
+            {
+                  "name": "view point",
+                  "text": "This view point offers scenic perspectives in beloi-beach-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.636406,
+                        -8.179475
+                  ]
+            },
+            {
+                  "name": "Hotspring",
+                  "text": "The Hotspring is a natural attraction located in beloi-beach-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.640118,
+                        -8.164789
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-AT",
     coords: [125.6105, -8.2255],
@@ -471,7 +2127,556 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "arte-moris-landmarks-v2",
+    id: "arte-moris-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Seminario Maior Fatumeta",
+                  "text": "Die Igreja Seminario Maior Fatumeta in Dili ist die Kirche des großen Priesterseminars, das eine zentrale Rolle in der katholischen Ausbildung Osttimors spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.554507,
+                        -8.565862
+                  ]
+            },
+            {
+                  "name": "Gruta Manleuana",
+                  "text": "Die Gruta Manleuana in Dili ist eine als Grottenkapelle gestaltete Andachtsstätte in der Nähe von Arte Moris.",
+                  "category": "religious",
+                  "coords": [
+                        125.532474,
+                        -8.580652
+                  ]
+            },
+            {
+                  "name": "Capela São Jose Aimutin",
+                  "text": "Die Capela São Jose Aimutin in Dili ist eine christliche Kapelle, die dem Heiligen Josef gewidmet ist und dem Viertel Aimutin dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.546641,
+                        -8.557973
+                  ]
+            },
+            {
+                  "name": "Kmanek Trading Wholesale",
+                  "text": "Kmanek Trading Wholesale ist ein gewerbliches Bürogebäude in Dili, das für den lokalen Großhandel von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553349,
+                        -8.561769
+                  ]
+            },
+            {
+                  "name": "Capela do São Miguel Arcanjo",
+                  "text": "Die Capela do São Miguel Arcanjo in Dili ist eine dem Erzengel Michael geweihte christliche Kapelle.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553109,
+                        -8.564209
+                  ]
+            },
+            {
+                  "name": "Capela Manleuana",
+                  "text": "Die Capela Manleuana ist eine christliche Kapelle im Viertel Manleuana von Dili, die Anwohnern einen Ort der Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542628,
+                        -8.574542
+                  ]
+            },
+            {
+                  "name": "Capela Lisbutak",
+                  "text": "Die Capela Lisbutak in Dili ist ein lokales Gotteshaus, das der städtischen Bevölkerung als religiöser Versammlungsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        125.536423,
+                        -8.57725
+                  ]
+            },
+            {
+                  "name": "Capela Academi",
+                  "text": "Die Capela Academi in Dili ist eine Kapelle, die wahrscheinlich mit einer nahegelegenen Bildungseinrichtung in der Arte-Moris-Gegend verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        125.533834,
+                        -8.55123
+                  ]
+            },
+            {
+                  "name": "Capela Moris Foun",
+                  "text": "Die Capela Moris Foun in Dili ist eine christliche Kapelle, die Gläubigen aus der Umgebung des Kunstzentrums Arte Moris als spirituelle Zuflucht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.535035,
+                        -8.556276
+                  ]
+            },
+            {
+                  "name": "Visão Cristã Evangelical Church",
+                  "text": "Die Visão Cristã Evangelical Church ist eine evangelische Freikirche in Dili, die für ihre lebendigen Gottesdienste in der Hauptstadt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.533123,
+                        -8.556798
+                  ]
+            },
+            {
+                  "name": "INAP. IP",
+                  "text": "INAP. IP in Dili ist ein lokales Gotteshaus, das sich in der Nähe des städtischen Großmarkts befindet.",
+                  "category": "religious",
+                  "coords": [
+                        125.533319,
+                        -8.555179
+                  ]
+            },
+            {
+                  "name": "Dili Seventh-day Adventist Church",
+                  "text": "Die Dili Seventh-day Adventist Church in Dili ist die Heimatgemeinde der Siebenten-Tags-Adventisten in der osttimoresischen Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.538765,
+                        -8.558504
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Jose Aimutin",
+                  "text": "Die Igreja Sao Jose Aimutin in Dili ist eine weitere Erwähnung der christlichen Kirche, die den Heiligen Josef im Bezirk Aimutin ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543154,
+                        -8.554928
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Die Igreja Protestante in Dili ist eine evangelische Kirche, die der protestantischen Minderheit der Stadt einen eigenen Gebetsraum bietet.",
+                  "category": "religious",
+                  "coords": [
+                        125.537907,
+                        -8.554756
+                  ]
+            },
+            {
+                  "name": "Merkadu Manleuana",
+                  "text": "Der Merkadu Manleuana ist ein lokaler Marktplatz in Dili, auf dem Bewohner des Manleuana-Viertels frische Lebensmittel einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.535922,
+                        -8.572523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Seminario Maior Fatumeta",
+                  "text": "A dili Igreja Seminario Maior Fatumeta a nagy papnevelde temploma, amely központi szerepet játszik Kelet-Timor katolikus oktatásában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.554507,
+                        -8.565862
+                  ]
+            },
+            {
+                  "name": "Gruta Manleuana",
+                  "text": "A dili Gruta Manleuana egy barlangkápolnának kialakított imahely az Arte Moris kulturális központ közelében.",
+                  "category": "religious",
+                  "coords": [
+                        125.532474,
+                        -8.580652
+                  ]
+            },
+            {
+                  "name": "Capela São Jose Aimutin",
+                  "text": "A dili Capela São Jose Aimutin egy keresztény kápolna, amelyet Szent Józsefnek szenteltek, és az Aimutin negyedet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.546641,
+                        -8.557973
+                  ]
+            },
+            {
+                  "name": "Kmanek Trading Wholesale",
+                  "text": "A Kmanek Trading Wholesale egy kereskedelmi irodaépület Diliben, amely fontos a helyi nagykereskedelem számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553349,
+                        -8.561769
+                  ]
+            },
+            {
+                  "name": "Capela do São Miguel Arcanjo",
+                  "text": "A dili Capela do São Miguel Arcanjo egy Szent Mihály arkangyalnak szentelt keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553109,
+                        -8.564209
+                  ]
+            },
+            {
+                  "name": "Capela Manleuana",
+                  "text": "A Capela Manleuana egy keresztény kápolna Dili Manleuana negyedében, amely a helyiek számára kínál elmélkedési lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542628,
+                        -8.574542
+                  ]
+            },
+            {
+                  "name": "Capela Lisbutak",
+                  "text": "A dili Capela Lisbutak egy helyi imahely, amely a városi lakosság vallási gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        125.536423,
+                        -8.57725
+                  ]
+            },
+            {
+                  "name": "Capela Academi",
+                  "text": "A dili Capela Academi egy kápolna, amely valószínűleg egy közeli oktatási intézményhez kapcsolódik az Arte Moris környékén.",
+                  "category": "religious",
+                  "coords": [
+                        125.533834,
+                        -8.55123
+                  ]
+            },
+            {
+                  "name": "Capela Moris Foun",
+                  "text": "A dili Capela Moris Foun egy keresztény kápolna, amely az Arte Moris művészeti központ környékén élők spirituális menedéke.",
+                  "category": "landmark",
+                  "coords": [
+                        125.535035,
+                        -8.556276
+                  ]
+            },
+            {
+                  "name": "Visão Cristã Evangelical Church",
+                  "text": "A Visão Cristã Evangelical Church egy evangéliumi szabadegyházi közösség Diliben, amely élénk istentiszteleteiről ismert a fővárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.533123,
+                        -8.556798
+                  ]
+            },
+            {
+                  "name": "INAP. IP",
+                  "text": "Az INAP. IP Diliben egy helyi imaház, amely a városi nagybani piac közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        125.533319,
+                        -8.555179
+                  ]
+            },
+            {
+                  "name": "Dili Seventh-day Adventist Church",
+                  "text": "A Dili Seventh-day Adventist Church a Hetednapi Adventista Egyház közösségi otthona a kelet-timori fővárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.538765,
+                        -8.558504
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Jose Aimutin",
+                  "text": "A dili Igreja Sao Jose Aimutin a Szent Józsefet tisztelő keresztény templom újabb említése az Aimutin kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543154,
+                        -8.554928
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "A dili Igreja Protestante egy protestáns templom, amely a város protestáns kisebbségének biztosít saját imatermet.",
+                  "category": "religious",
+                  "coords": [
+                        125.537907,
+                        -8.554756
+                  ]
+            },
+            {
+                  "name": "Merkadu Manleuana",
+                  "text": "A Merkadu Manleuana egy helyi piac Diliben, ahol a Manleuana negyed lakói friss élelmiszereket vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.535922,
+                        -8.572523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Seminario Maior Fatumeta",
+                  "text": "Igreja Seminario Maior Fatumeta din Dili este biserica seminarului major, jucând un rol central în educația catolică din Timorul de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        125.554507,
+                        -8.565862
+                  ]
+            },
+            {
+                  "name": "Gruta Manleuana",
+                  "text": "Gruta Manleuana din Dili este o capelă în formă de grotă, situată în apropierea centrului Arte Moris.",
+                  "category": "religious",
+                  "coords": [
+                        125.532474,
+                        -8.580652
+                  ]
+            },
+            {
+                  "name": "Capela São Jose Aimutin",
+                  "text": "Capela São Jose Aimutin din Dili este o capelă creștină dedicată Sfântului Iosif, deservind cartierul Aimutin.",
+                  "category": "landmark",
+                  "coords": [
+                        125.546641,
+                        -8.557973
+                  ]
+            },
+            {
+                  "name": "Kmanek Trading Wholesale",
+                  "text": "Kmanek Trading Wholesale este o clădire de birouri comerciale din Dili, importantă pentru comerțul cu ridicata local.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553349,
+                        -8.561769
+                  ]
+            },
+            {
+                  "name": "Capela do São Miguel Arcanjo",
+                  "text": "Capela do São Miguel Arcanjo din Dili este o capelă creștină dedicată Arhanghelului Mihail.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553109,
+                        -8.564209
+                  ]
+            },
+            {
+                  "name": "Capela Manleuana",
+                  "text": "Capela Manleuana este o capelă creștină din cartierul Manleuana din Dili, oferind locuitorilor un spațiu de reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542628,
+                        -8.574542
+                  ]
+            },
+            {
+                  "name": "Capela Lisbutak",
+                  "text": "Capela Lisbutak din Dili este un lăcaș de cult local ce servește ca loc de adunare religioasă pentru populația urbană.",
+                  "category": "religious",
+                  "coords": [
+                        125.536423,
+                        -8.57725
+                  ]
+            },
+            {
+                  "name": "Capela Academi",
+                  "text": "Capela Academi din Dili este o capelă conectată, probabil, la o instituție de învățământ din zona Arte Moris.",
+                  "category": "religious",
+                  "coords": [
+                        125.533834,
+                        -8.55123
+                  ]
+            },
+            {
+                  "name": "Capela Moris Foun",
+                  "text": "Capela Moris Foun din Dili este o capelă creștină care servește ca refugiu spiritual pentru credincioșii din jurul centrului de artă Arte Moris.",
+                  "category": "landmark",
+                  "coords": [
+                        125.535035,
+                        -8.556276
+                  ]
+            },
+            {
+                  "name": "Visão Cristã Evangelical Church",
+                  "text": "Biserica Evanghelică Visão Cristã este o biserică liberă din Dili, cunoscută pentru slujbele sale pline de viață din capitală.",
+                  "category": "landmark",
+                  "coords": [
+                        125.533123,
+                        -8.556798
+                  ]
+            },
+            {
+                  "name": "INAP. IP",
+                  "text": "INAP. IP din Dili este un lăcaș de cult local situat în apropierea pieței en-gros a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        125.533319,
+                        -8.555179
+                  ]
+            },
+            {
+                  "name": "Dili Seventh-day Adventist Church",
+                  "text": "Biserica Adventistă de Ziua a Șaptea din Dili este parohia centrală a adventiștilor de ziua a șaptea din capitala Timorului de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        125.538765,
+                        -8.558504
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Jose Aimutin",
+                  "text": "Igreja Sao Jose Aimutin din Dili este o altă mențiune a bisericii creștine ce îl onorează pe Sfântul Iosif în cartierul Aimutin.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543154,
+                        -8.554928
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Igreja Protestante din Dili este o biserică evanghelică care oferă minorității protestante a orașului un spațiu propriu de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        125.537907,
+                        -8.554756
+                  ]
+            },
+            {
+                  "name": "Merkadu Manleuana",
+                  "text": "Merkadu Manleuana este o piață locală din Dili unde locuitorii cartierului Manleuana cumpără alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        125.535922,
+                        -8.572523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Seminario Maior Fatumeta",
+                  "text": "Igreja Seminario Maior Fatumeta in Dili is the major seminary church, playing a central role in East Timor's Catholic education.",
+                  "category": "landmark",
+                  "coords": [
+                        125.554507,
+                        -8.565862
+                  ]
+            },
+            {
+                  "name": "Gruta Manleuana",
+                  "text": "Gruta Manleuana in Dili is a grotto-style devotional chapel situated near the Arte Moris cultural center.",
+                  "category": "religious",
+                  "coords": [
+                        125.532474,
+                        -8.580652
+                  ]
+            },
+            {
+                  "name": "Capela São Jose Aimutin",
+                  "text": "Capela São Jose Aimutin in Dili is a Christian chapel dedicated to Saint Joseph, serving the Aimutin neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        125.546641,
+                        -8.557973
+                  ]
+            },
+            {
+                  "name": "Kmanek Trading Wholesale",
+                  "text": "Kmanek Trading Wholesale is a commercial office building in Dili, significant for the local wholesale trade sector.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553349,
+                        -8.561769
+                  ]
+            },
+            {
+                  "name": "Capela do São Miguel Arcanjo",
+                  "text": "Capela do São Miguel Arcanjo in Dili is a Christian chapel dedicated to Saint Michael the Archangel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553109,
+                        -8.564209
+                  ]
+            },
+            {
+                  "name": "Capela Manleuana",
+                  "text": "Capela Manleuana is a Christian chapel in the Manleuana neighborhood of Dili, providing local residents a space for reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542628,
+                        -8.574542
+                  ]
+            },
+            {
+                  "name": "Capela Lisbutak",
+                  "text": "Capela Lisbutak in Dili is a local place of worship functioning as a religious gathering spot for the urban population.",
+                  "category": "religious",
+                  "coords": [
+                        125.536423,
+                        -8.57725
+                  ]
+            },
+            {
+                  "name": "Capela Academi",
+                  "text": "Capela Academi in Dili is a church chapel likely affiliated with a nearby educational institution in the Arte Moris area.",
+                  "category": "religious",
+                  "coords": [
+                        125.533834,
+                        -8.55123
+                  ]
+            },
+            {
+                  "name": "Capela Moris Foun",
+                  "text": "Capela Moris Foun in Dili is a Christian chapel serving as a spiritual refuge for worshippers around the Arte Moris art center.",
+                  "category": "landmark",
+                  "coords": [
+                        125.535035,
+                        -8.556276
+                  ]
+            },
+            {
+                  "name": "Visão Cristã Evangelical Church",
+                  "text": "The Visão Cristã Evangelical Church is an evangelical free church in Dili, known for its vibrant worship services in the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        125.533123,
+                        -8.556798
+                  ]
+            },
+            {
+                  "name": "INAP. IP",
+                  "text": "INAP. IP in Dili is a local place of worship located near the city's wholesale market area.",
+                  "category": "religious",
+                  "coords": [
+                        125.533319,
+                        -8.555179
+                  ]
+            },
+            {
+                  "name": "Dili Seventh-day Adventist Church",
+                  "text": "The Dili Seventh-day Adventist Church is the central home for the Seventh-day Adventist community in the East Timorese capital.",
+                  "category": "landmark",
+                  "coords": [
+                        125.538765,
+                        -8.558504
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Jose Aimutin",
+                  "text": "Igreja Sao Jose Aimutin in Dili is another mention of the Christian church honoring Saint Joseph in the Aimutin district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543154,
+                        -8.554928
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Igreja Protestante in Dili is a Protestant church providing the city's Protestant minority with a dedicated space for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        125.537907,
+                        -8.554756
+                  ]
+            },
+            {
+                  "name": "Merkadu Manleuana",
+                  "text": "Merkadu Manleuana is a local marketplace in Dili where residents of the Manleuana neighborhood shop for fresh groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        125.535922,
+                        -8.572523
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5450, -8.5580],
@@ -543,7 +2748,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palacio-das-cinzas-landmarks-v2",
+    id: "palacio-das-cinzas-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cina Maromak",
+                  "text": "Der Chinese Temple of Dili ist eine bedeutende Andachtsstätte in palacio-das-cinzas-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.58057,
+                        -8.555287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cina Maromak",
+                  "text": "A Chinese Temple of Dili egy jelentős istentiszteleti hely palacio-das-cinzas-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.58057,
+                        -8.555287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cina Maromak",
+                  "text": "Chinese Temple of Dili este un lăcaș de cult important din palacio-das-cinzas-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.58057,
+                        -8.555287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chinese Temple of Dili",
+                  "text": "The Chinese Temple of Dili is a notable place of worship located in palacio-das-cinzas-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.58057,
+                        -8.555287
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5800, -8.5550],
@@ -579,7 +2829,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "dili-mosque-landmarks-v2",
+    id: "dili-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tais Market",
+                  "text": "Ein traditioneller Marktplatz, der lokale Textilien und Kunsthandwerk in der Nähe der Dili-Moschee anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        125.57,
+                        -8.55508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tais Market",
+                  "text": "Egy hagyományos piac, amely helyi textileket és kézműves termékeket kínál a Dili mecset nevezetességének közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        125.57,
+                        -8.55508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tais Market",
+                  "text": "O piață tradițională care oferă textile și obiecte de artizanat locale lângă Moscheea Dili.",
+                  "category": "cultural",
+                  "coords": [
+                        125.57,
+                        -8.55508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tais Market",
+                  "text": "A traditional marketplace offering local textiles and crafts near the Dili Mosque landmark.",
+                  "category": "cultural",
+                  "coords": [
+                        125.57,
+                        -8.55508
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5744, -8.5547],
@@ -615,7 +2910,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "voyager-shipwreck-landmarks-v2",
+    id: "voyager-shipwreck-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein malerischer Küstenstrand unweit der historischen Stätte des Voyager-Schiffswracks.",
+                  "category": "recreational",
+                  "coords": [
+                        125.792733,
+                        -9.146478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Festői tengerparti strand a Voyager hajóroncs történelmi helyszínének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        125.792733,
+                        -9.146478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă de coastă pitorească situată în apropierea sitului istoric al epavei Voyager.",
+                  "category": "recreational",
+                  "coords": [
+                        125.792733,
+                        -9.146478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A picturesque coastal beach lying near the historic site of the Voyager Shipwreck.",
+                  "category": "recreational",
+                  "coords": [
+                        125.792733,
+                        -9.146478
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-MF",
     coords: [125.7330, -9.1660],
@@ -651,7 +2991,52 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lourdes-grotto-landmarks-v2",
+    id: "lourdes-grotto-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foho Hatali",
+                  "text": "Foho Hatali ist ein Berggipfel in lourdes-grotto-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.440025,
+                        -8.770571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foho Hatali",
+                  "text": "A Foho Hatali egy hegycsúcs lourdes-grotto-landmarks-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        125.440025,
+                        -8.770571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foho Hatali",
+                  "text": "Foho Hatali este un vârf muntos din lourdes-grotto-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.440025,
+                        -8.770571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foho Hatali",
+                  "text": "Foho Hatali is a notable peak located in lourdes-grotto-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.440025,
+                        -8.770571
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-ER",
     coords: [125.4000, -8.7500],
@@ -687,7 +3072,340 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     },
   },
   {
-    id: "letefoho-coffee-landmarks-v2",
+    id: "letefoho-coffee-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foho Nautpailau",
+                  "text": "Foho Nautpailau ist ein Berggipfel in letefoho-coffee-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.447222,
+                        -8.779722
+                  ]
+            },
+            {
+                  "name": "Cristo Rei de Lete-Foho",
+                  "text": "Cristo Rei de Lete-Foho ist ein Denkmal in letefoho-coffee-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.445303,
+                        -8.839721
+                  ]
+            },
+            {
+                  "name": "Kapela SCDJ Eraulo",
+                  "text": "Die Kapela SCDJ Eraulo ist eine christliche Stätte in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.444103,
+                        -8.78173
+                  ]
+            },
+            {
+                  "name": "bairu Kaibui",
+                  "text": "bairu Kaibui ist ein christlicher Ort in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.442647,
+                        -8.781529
+                  ]
+            },
+            {
+                  "name": "Cruz tolu",
+                  "text": "Cruz tolu ist eine christliche Stätte in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.436181,
+                        -8.83872
+                  ]
+            },
+            {
+                  "name": "Capela Santa Madalena Hatulai",
+                  "text": "Die Capela Santa Madalena Hatulai ist eine christliche Stätte in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.476631,
+                        -8.793808
+                  ]
+            },
+            {
+                  "name": "Igreja protestante Cristão Jacob Hoholau",
+                  "text": "Die Igreja protestante Cristão Jacob Hoholau ist ein christliches Bauwerk in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478465,
+                        -8.786256
+                  ]
+            },
+            {
+                  "name": "Gruta Bairu 7 Poetali",
+                  "text": "Gruta Bairu 7 Poetali ist eine Kirche in letefoho-coffee-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.421637,
+                        -8.861142
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Die Igreja Protestante ist ein christliches Gebäude in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.497735,
+                        -8.816803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foho Nautpailau",
+                  "text": "A Foho Nautpailau egy hegycsúcs letefoho-coffee-landmarks-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        125.447222,
+                        -8.779722
+                  ]
+            },
+            {
+                  "name": "Cristo Rei de Lete-Foho",
+                  "text": "A Cristo Rei de Lete-Foho egy emlékmű letefoho-coffee-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        125.445303,
+                        -8.839721
+                  ]
+            },
+            {
+                  "name": "Kapela SCDJ Eraulo",
+                  "text": "A Kapela SCDJ Eraulo egy keresztény kápolna letefoho-coffee-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.444103,
+                        -8.78173
+                  ]
+            },
+            {
+                  "name": "bairu Kaibui",
+                  "text": "A bairu Kaibui egy keresztény központ letefoho-coffee-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.442647,
+                        -8.781529
+                  ]
+            },
+            {
+                  "name": "Cruz tolu",
+                  "text": "A Cruz tolu egy keresztény nevezetesség letefoho-coffee-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.436181,
+                        -8.83872
+                  ]
+            },
+            {
+                  "name": "Capela Santa Madalena Hatulai",
+                  "text": "A Capela Santa Madalena Hatulai egy keresztény kápolna letefoho-coffee-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.476631,
+                        -8.793808
+                  ]
+            },
+            {
+                  "name": "Igreja protestante Cristão Jacob Hoholau",
+                  "text": "Az Igreja protestante Cristão Jacob Hoholau egy keresztény templom letefoho-coffee-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478465,
+                        -8.786256
+                  ]
+            },
+            {
+                  "name": "Gruta Bairu 7 Poetali",
+                  "text": "A Gruta Bairu 7 Poetali egy templom letefoho-coffee-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.421637,
+                        -8.861142
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Az Igreja Protestante egy keresztény templom letefoho-coffee-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.497735,
+                        -8.816803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foho Nautpailau",
+                  "text": "Foho Nautpailau este un vârf montan din letefoho-coffee-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.447222,
+                        -8.779722
+                  ]
+            },
+            {
+                  "name": "Cristo Rei de Lete-Foho",
+                  "text": "Cristo Rei de Lete-Foho este un monument din letefoho-coffee-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.445303,
+                        -8.839721
+                  ]
+            },
+            {
+                  "name": "Kapela SCDJ Eraulo",
+                  "text": "Kapela SCDJ Eraulo este o capelă creștină din letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.444103,
+                        -8.78173
+                  ]
+            },
+            {
+                  "name": "bairu Kaibui",
+                  "text": "bairu Kaibui este un lăcaș creștin din letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.442647,
+                        -8.781529
+                  ]
+            },
+            {
+                  "name": "Cruz tolu",
+                  "text": "Cruz tolu este o locație creștină din letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.436181,
+                        -8.83872
+                  ]
+            },
+            {
+                  "name": "Capela Santa Madalena Hatulai",
+                  "text": "Capela Santa Madalena Hatulai este o capelă creștină din letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.476631,
+                        -8.793808
+                  ]
+            },
+            {
+                  "name": "Igreja protestante Cristão Jacob Hoholau",
+                  "text": "Igreja protestante Cristão Jacob Hoholau este un lăcaș creștin din letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478465,
+                        -8.786256
+                  ]
+            },
+            {
+                  "name": "Gruta Bairu 7 Poetali",
+                  "text": "Gruta Bairu 7 Poetali este o biserică din letefoho-coffee-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.421637,
+                        -8.861142
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Igreja Protestante este o biserică creștină din letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.497735,
+                        -8.816803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foho Nautpailau",
+                  "text": "Foho Nautpailau is a peak situated in letefoho-coffee-landmarks-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.447222,
+                        -8.779722
+                  ]
+            },
+            {
+                  "name": "Cristo Rei de Lete-Foho",
+                  "text": "Cristo Rei de Lete-Foho is a monument located in letefoho-coffee-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.445303,
+                        -8.839721
+                  ]
+            },
+            {
+                  "name": "Kapela SCDJ Eraulo",
+                  "text": "Kapela SCDJ Eraulo is a Christian site in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.444103,
+                        -8.78173
+                  ]
+            },
+            {
+                  "name": "bairu Kaibui",
+                  "text": "bairu Kaibui is a Christian site located in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.442647,
+                        -8.781529
+                  ]
+            },
+            {
+                  "name": "Cruz tolu",
+                  "text": "Cruz tolu is a Christian site in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.436181,
+                        -8.83872
+                  ]
+            },
+            {
+                  "name": "Capela Santa Madalena Hatulai",
+                  "text": "Capela Santa Madalena Hatulai is a Christian site situated in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.476631,
+                        -8.793808
+                  ]
+            },
+            {
+                  "name": "Igreja protestante Cristão Jacob Hoholau",
+                  "text": "Igreja protestante Cristão Jacob Hoholau is a Christian church in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478465,
+                        -8.786256
+                  ]
+            },
+            {
+                  "name": "Gruta Bairu 7 Poetali",
+                  "text": "Gruta Bairu 7 Poetali is a church located in letefoho-coffee-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.421637,
+                        -8.861142
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Igreja Protestante is a Christian church in letefoho-coffee-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.497735,
+                        -8.816803
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TL-ER",
     coords: [125.4333, -8.8333],

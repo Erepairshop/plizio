@@ -1104,7 +1104,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na Panství",
-                  "text": "Na Panství ist ein Museum am Historischen Marktplatz von Telč.",
+                  "text": "Museum in einem historischen Herrenhaus am Telčer Marktplatz.",
                   "category": "museum",
                   "coords": [
                         15.45105,
@@ -1113,7 +1113,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Vysočiny, Telč",
-                  "text": "Das Muzeum Vysočiny, Telč ist ein Museum am Historischen Marktplatz von Telč.",
+                  "text": "Regionalmuseum der Vysočina in einem Renaissance-Gebäude am Telčer Marktplatz.",
                   "category": "museum",
                   "coords": [
                         15.458569,
@@ -1131,7 +1131,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "náměstí Bratří Čapků",
-                  "text": "Náměstí Bratří Čapků ist ein Park am Historischen Marktplatz von Telč.",
+                  "text": "Der Platz der Brüder Čapek in Telč ist ein Platz, der den Schriftstellern Karel und Josef Čapek gewidmet ist.",
                   "category": "park",
                   "coords": [
                         15.453727,
@@ -1185,7 +1185,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "kaple sv. Karla Boromejského",
-                  "text": "Kaple sv. Karla Boromejského ist eine Kapelle am Historischen Marktplatz von Telč.",
+                  "text": "Die Kapelle des heiligen Karl Borromäus am Telčer Platz ist eine Barockkapelle auf dem Hauptplatz.",
                   "category": "religious",
                   "coords": [
                         15.421151,
@@ -1232,7 +1232,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na Panství",
-                  "text": "A Na Panství egy múzeum a Historischer Marktplatz von Telč területén.",
+                  "text": "Múzeum egy történelmi kúriában a telči főtéren.",
                   "category": "museum",
                   "coords": [
                         15.45105,
@@ -1241,7 +1241,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Vysočiny, Telč",
-                  "text": "A Muzeum Vysočiny, Telč egy múzeum a Historischer Marktplatz von Telč területén.",
+                  "text": "A Vysočina régió múzeuma egy reneszánsz épületben a telči főtéren.",
                   "category": "museum",
                   "coords": [
                         15.458569,
@@ -1259,7 +1259,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "náměstí Bratří Čapků",
-                  "text": "A Náměstí Bratří Čapků egy park a Historischer Marktplatz von Telč területén.",
+                  "text": "A Čapek testvérek tere Telčben egy tér, amely a Čapek írótestvérek emlékére készült.",
                   "category": "park",
                   "coords": [
                         15.453727,
@@ -1313,7 +1313,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "kaple sv. Karla Boromejského",
-                  "text": "A Kaple sv. Karla Boromejského egy kápolna a Historischer Marktplatz von Telč területén.",
+                  "text": "A Szent Károly Borromeo kápolna a Telči téren egy barokk kápolna a főtéren.",
                   "category": "religious",
                   "coords": [
                         15.421151,
@@ -1360,7 +1360,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na Panství",
-                  "text": "Na Panství este un muzeu situat în Historischer Marktplatz von Telč.",
+                  "text": "Muzeu într-un conac istoric în Piața Telč.",
                   "category": "museum",
                   "coords": [
                         15.45105,
@@ -1369,7 +1369,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Vysočiny, Telč",
-                  "text": "Muzeum Vysočiny, Telč este un muzeu situat în Historischer Marktplatz von Telč.",
+                  "text": "Muzeul regional Vysočina într-o clădire renascentistă în Piața Telč.",
                   "category": "museum",
                   "coords": [
                         15.458569,
@@ -1387,7 +1387,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "náměstí Bratří Čapků",
-                  "text": "Náměstí Bratří Čapků este un parc situat în Historischer Marktplatz von Telč.",
+                  "text": "Piața Fraților Čapek din Telč este o piață dedicată fraților scriitori Čapek.",
                   "category": "park",
                   "coords": [
                         15.453727,
@@ -1441,7 +1441,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "kaple sv. Karla Boromejského",
-                  "text": "Kaple sv. Karla Boromejského este o capelă situată în Historischer Marktplatz von Telč.",
+                  "text": "Capela Sfântului Carol Borromeo din Piața Telč este o capelă barocă în piața principală.",
                   "category": "religious",
                   "coords": [
                         15.421151,
@@ -1488,7 +1488,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na Panství",
-                  "text": "Na Panství is a museum situated at the Historischer Marktplatz von Telč.",
+                  "text": "Museum in a historic manor house on Telc Square.",
                   "category": "museum",
                   "coords": [
                         15.45105,
@@ -1497,7 +1497,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Muzeum Vysočiny, Telč",
-                  "text": "Muzeum Vysočiny, Telč is a museum located at the Historischer Marktplatz von Telč.",
+                  "text": "Regional museum of the Vysočina region in a Renaissance building on Telc Square.",
                   "category": "museum",
                   "coords": [
                         15.458569,
@@ -1515,7 +1515,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "náměstí Bratří Čapků",
-                  "text": "Náměstí Bratří Čapků is a park located at the Historischer Marktplatz von Telč.",
+                  "text": "The Brothers Čapek Square in Telč is a square dedicated to the writer brothers Čapek.",
                   "category": "park",
                   "coords": [
                         15.453727,
@@ -1569,7 +1569,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "kaple sv. Karla Boromejského",
-                  "text": "Kaple sv. Karla Boromejského is a chapel at the Historischer Marktplatz von Telč.",
+                  "text": "The Chapel of St. Charles Borromeo on Telč Square is a Baroque chapel on the main square.",
                   "category": "religious",
                   "coords": [
                         15.421151,
@@ -1720,7 +1720,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Plovárna",
-                  "text": "Eine öffentliche Badeanstalt und Wasserpark in Litomyšl.",
+                  "text": "Freibad im Gelände des Schlosses Litomyšl.",
                   "category": "recreational",
                   "coords": [
                         16.318101,
@@ -1785,7 +1785,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Plovárna",
-                  "text": "Nyilvános fürdőhely és vízi park Litomyšlben.",
+                  "text": "Szabadtéri uszoda a litomyšli vár területén.",
                   "category": "recreational",
                   "coords": [
                         16.318101,
@@ -1850,7 +1850,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Plovárna",
-                  "text": "O facilitate de scăldat publică și parc acvatic în Litomyšl.",
+                  "text": "Piscină în aer liber pe terenul Castelului Litomyšl.",
                   "category": "recreational",
                   "coords": [
                         16.318101,
@@ -1915,7 +1915,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Plovárna",
-                  "text": "A public bathing facility and water park in Litomyšl.",
+                  "text": "Outdoor swimming pool in the grounds of Litomyšl Castle.",
                   "category": "recreational",
                   "coords": [
                         16.318101,
@@ -2565,7 +2565,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Máchovy sady",
-                  "text": "Máchovy sady ist ein ruhiger öffentlicher Park in Třebíč.",
+                  "text": "Park, benannt nach dem Dichter Karel Hynek Mácha, im jüdischen Viertel von Třebíč.",
                   "category": "park",
                   "coords": [
                         15.887308,
@@ -2574,7 +2574,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Radostínské sady (Lísčí)",
-                  "text": "Radostínské sady ist ein weitläufiger Park, der Erholung im Freien in Třebíč bietet.",
+                  "text": "Park mit Obstbäumen im jüdischen Viertel von Třebíč.",
                   "category": "park",
                   "coords": [
                         15.894938,
@@ -2700,7 +2700,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Borovinský most",
-                  "text": "Der Borovinský most ist eine Brücke im Jüdischen Viertel in Třebíč.",
+                  "text": "Steinbrücke Borovinský most über die Jihlava, verbindet das jüdische Viertel von Třebíč.",
                   "category": "landmark",
                   "coords": [
                         15.871151,
@@ -2855,7 +2855,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Máchovy sady",
-                  "text": "A Máchovy sady egy csendes nyilvános park Třebíčben.",
+                  "text": "Karel Hynek Mácha költőről elnevezett park a trebíči zsidó negyedben.",
                   "category": "park",
                   "coords": [
                         15.887308,
@@ -2864,7 +2864,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Radostínské sady (Lísčí)",
-                  "text": "A Radostínské sady egy tágas park, amely szabadtéri kikapcsolódást kínál Třebíčben.",
+                  "text": "Gyümölcsfás park a trebíči zsidó negyedben.",
                   "category": "park",
                   "coords": [
                         15.894938,
@@ -2990,7 +2990,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Borovinský most",
-                  "text": "A Borovinský most egy híd a Jüdisches Viertel in Třebíč területén.",
+                  "text": "Borovinský most kőhíd a Jihlava folyón, összeköti Třebíč zsidó negyedét.",
                   "category": "landmark",
                   "coords": [
                         15.871151,
@@ -3145,7 +3145,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Máchovy sady",
-                  "text": "Máchovy sady este un parc public liniștit situat în Třebíč.",
+                  "text": "Parcul numit după poetul Karel Hynek Mácha, în Cartierul Evreiesc din Třebíč.",
                   "category": "park",
                   "coords": [
                         15.887308,
@@ -3154,7 +3154,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Radostínské sady (Lísčí)",
-                  "text": "Radostínské sady este un parc spațios care oferă recreere în aer liber în Třebíč.",
+                  "text": "Parcul cu pomi fructiferi în Cartierul Evreiesc din Třebíč.",
                   "category": "park",
                   "coords": [
                         15.894938,
@@ -3280,7 +3280,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Borovinský most",
-                  "text": "Borovinský most este un pod situat în Jüdisches Viertel in Třebíč.",
+                  "text": "Podul de piatră Borovinský peste râul Jihlava, leagă cartierul evreiesc din Třebíč.",
                   "category": "landmark",
                   "coords": [
                         15.871151,
@@ -3435,7 +3435,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Máchovy sady",
-                  "text": "Máchovy sady is a tranquil public park situated in Třebíč.",
+                  "text": "Park named after poet Karel Hynek Mácha in Trebic's Jewish Quarter.",
                   "category": "park",
                   "coords": [
                         15.887308,
@@ -3444,7 +3444,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Radostínské sady (Lísčí)",
-                  "text": "Radostínské sady is a spacious park offering outdoor leisure in Třebíč.",
+                  "text": "Orchard park with fruit trees in Trebic's Jewish Quarter.",
                   "category": "park",
                   "coords": [
                         15.894938,
@@ -3570,7 +3570,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Borovinský most",
-                  "text": "Borovinský most is a bridge located in the Jüdisches Viertel in Třebíč.",
+                  "text": "Stone bridge Borovinský most over the Jihlava river, connecting Třebíč's Jewish Quarter.",
                   "category": "landmark",
                   "coords": [
                         15.871151,
@@ -5191,7 +5191,7 @@ export const czechrepublicHistoryV2: POI[] = [
       "de": [
             {
                   "name": "tvrz Lina",
-                  "text": "Überreste einer mittelalterlichen Festung in der Nähe von Valeč.",
+                  "text": "Ruine der mittelalterlichen Feste Lina bei Valeč.",
                   "category": "castle",
                   "coords": [
                         13.276459,
@@ -5200,7 +5200,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "vodní tvrz Jeřeň",
-                  "text": "Archäologische Stätte einer ehemaligen Wasserburg.",
+                  "text": "Die Wasserburg Jeřeň in der Nähe des Schlosses Valeč ist eine mittelalterliche Wasserbefestigung.",
                   "category": "historical",
                   "coords": [
                         13.257519,
@@ -5236,7 +5236,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "sv. Markéta",
-                  "text": "Eine der heiligen Margareta gewidmete Kultstätte.",
+                  "text": "Die Statue der heiligen Margareta in der Nähe des Schlosses Valeč ist ein Denkmal der Heiligen.",
                   "category": "religious",
                   "coords": [
                         13.299599,
@@ -5265,7 +5265,7 @@ export const czechrepublicHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "tvrz Lina",
-                  "text": "Egy középkori erődítmény maradványai Valeč közelében.",
+                  "text": "Lina középkori várrom Valeč mellett.",
                   "category": "castle",
                   "coords": [
                         13.276459,
@@ -5274,7 +5274,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "vodní tvrz Jeřeň",
-                  "text": "Egy egykori vízi vár régészeti lelőhelye.",
+                  "text": "A Jeřeň vízivár a Valeč kastély közelében egy középkori vízerőd.",
                   "category": "historical",
                   "coords": [
                         13.257519,
@@ -5310,7 +5310,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "sv. Markéta",
-                  "text": "Szent Margitnak szentelt vallási helyszín.",
+                  "text": "Szent Margit szobra a Valeč kastély közelében a szent emlékműve.",
                   "category": "religious",
                   "coords": [
                         13.299599,
@@ -5339,7 +5339,7 @@ export const czechrepublicHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "tvrz Lina",
-                  "text": "Rămășițele unei cetăți medievale situată lângă Valeč.",
+                  "text": "Ruina fortăreței medievale Lina lângă Valeč.",
                   "category": "castle",
                   "coords": [
                         13.276459,
@@ -5348,7 +5348,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "vodní tvrz Jeřeň",
-                  "text": "Situl arheologic al unei foste cetăți de apă.",
+                  "text": "Fortăreața acvatică Jeřeň lângă Castelul Valeč este o fortificație medievală cu apă.",
                   "category": "historical",
                   "coords": [
                         13.257519,
@@ -5384,7 +5384,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "sv. Markéta",
-                  "text": "Lăcaș de cult dedicat Sfintei Margareta.",
+                  "text": "Statuia Sfintei Margareta lângă Castelul Valeč este un monument al sfintei.",
                   "category": "religious",
                   "coords": [
                         13.299599,
@@ -5413,7 +5413,7 @@ export const czechrepublicHistoryV2: POI[] = [
       "en": [
             {
                   "name": "tvrz Lina",
-                  "text": "Remains of a medieval fortress near Valeč.",
+                  "text": "Ruins of the medieval fortress Lina near Valeč.",
                   "category": "castle",
                   "coords": [
                         13.276459,
@@ -5422,7 +5422,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "vodní tvrz Jeřeň",
-                  "text": "Archaeological site of a former water fortress.",
+                  "text": "The water fortress Jeřeň near Valeč Chateau is a medieval water fortification.",
                   "category": "historical",
                   "coords": [
                         13.257519,
@@ -5458,7 +5458,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "sv. Markéta",
-                  "text": "A place of worship dedicated to Saint Margaret.",
+                  "text": "The statue of Saint Margaret near Valeč Chateau is a monument to the saint.",
                   "category": "religious",
                   "coords": [
                         13.299599,
@@ -5740,7 +5740,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na přehradě",
-                  "text": "Ein Freizeitpark in der Nähe der Burg Veveří.",
+                  "text": "Erholungsgebiet an der Talsperre bei Burg Veveří.",
                   "category": "recreational",
                   "coords": [
                         16.521174,
@@ -5749,7 +5749,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Venkovní bazén",
-                  "text": "Ein Freibad in der Umgebung der Burg Veveří.",
+                  "text": "Freibad bei Burg Veveří.",
                   "category": "recreational",
                   "coords": [
                         16.515578,
@@ -5868,7 +5868,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na přehradě",
-                  "text": "A Veveří vár közelében található vidámpark.",
+                  "text": "Szabadidős terület a Veveří vár melletti gátnál.",
                   "category": "recreational",
                   "coords": [
                         16.521174,
@@ -5877,7 +5877,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Venkovní bazén",
-                  "text": "Szabadtéri úszómedence a Veveří vár környékén.",
+                  "text": "Szabadtéri medence a Veveří vár mellett.",
                   "category": "recreational",
                   "coords": [
                         16.515578,
@@ -5996,7 +5996,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na přehradě",
-                  "text": "Un parc de distracții situat lângă Castelul Veveří.",
+                  "text": "Zonă de recreere la barajul de lângă Castelul Veveří.",
                   "category": "recreational",
                   "coords": [
                         16.521174,
@@ -6005,7 +6005,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Venkovní bazén",
-                  "text": "O piscină în aer liber în apropierea Castelului Veveří.",
+                  "text": "Piscină în aer liber lângă Castelul Veveří.",
                   "category": "recreational",
                   "coords": [
                         16.515578,
@@ -6124,7 +6124,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na přehradě",
-                  "text": "A theme park located near Veveří Castle.",
+                  "text": "Recreational area at the dam near Veveří Castle.",
                   "category": "recreational",
                   "coords": [
                         16.521174,
@@ -6133,7 +6133,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Venkovní bazén",
-                  "text": "An outdoor swimming pool located near Veveří Castle.",
+                  "text": "Outdoor pool near Veveří Castle.",
                   "category": "recreational",
                   "coords": [
                         16.515578,
@@ -6244,7 +6244,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Kokořín",
-                  "text": "Die Schlossanlage von Kokořín in der Tschechischen Republik.",
+                  "text": "Das Schloss Kokořín in der Region Kokořín ist eine gotische Burg.",
                   "category": "castle",
                   "coords": [
                         14.568582,
@@ -6289,7 +6289,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "ehemaliges Bad",
-                  "text": "Ein ehemaliges Schwimmbad in der Nähe der Burg Kokořín.",
+                  "text": "Ehemaliges Freibad Kokořín in der Nähe der Burg Kokořín.",
                   "category": "recreational",
                   "coords": [
                         14.580517,
@@ -6318,7 +6318,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Kokořín",
-                  "text": "A csehországi Kokořín várkastélya.",
+                  "text": "A Kokoříni kastély a Kokořín régióban egy gótikus vár.",
                   "category": "castle",
                   "coords": [
                         14.568582,
@@ -6363,7 +6363,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Bývalé koupaliště Kokořín",
-                  "text": "Egy egykori úszómedence a Kokořín-vár közelében.",
+                  "text": "Kokořín volt szabadtéri fürdője a Kokořín vár közelében.",
                   "category": "recreational",
                   "coords": [
                         14.580517,
@@ -6392,7 +6392,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Kokořín",
-                  "text": "Complexul castelului Kokořín din Republica Cehă.",
+                  "text": "Castelul Kokořín din regiunea Kokořín este un castel gotic.",
                   "category": "castle",
                   "coords": [
                         14.568582,
@@ -6437,7 +6437,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Bývalé koupaliště Kokořín",
-                  "text": "O fostă piscină situată în apropierea Castelului Kokořín.",
+                  "text": "Fosta piscină Kokořín lângă Castelul Kokořín.",
                   "category": "recreational",
                   "coords": [
                         14.580517,
@@ -6466,7 +6466,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Kokořín",
-                  "text": "The castle complex of Kokořín in the Czech Republic.",
+                  "text": "Kokořín Castle in the Kokořín region is a Gothic castle.",
                   "category": "castle",
                   "coords": [
                         14.568582,
@@ -6511,7 +6511,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Bývalé koupaliště Kokořín",
-                  "text": "A former swimming pool located near Kokořín Castle.",
+                  "text": "Former swimming pool Kokořín near Kokorin Castle.",
                   "category": "recreational",
                   "coords": [
                         14.580517,
@@ -7216,7 +7216,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na zaniklém hrádku",
-                  "text": "Die Ruinen einer kleinen mittelalterlichen Befestigungsanlage.",
+                  "text": "Historische Stätte einer verschwundenen Burg bei Burg Zruč.",
                   "category": "historical",
                   "coords": [
                         15.095807,
@@ -7272,7 +7272,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na zaniklém hrádku",
-                  "text": "Egy kis középkori erődítmény maradványai.",
+                  "text": "Eltűnt vár történelmi helyszíne a Zruč vár mellett.",
                   "category": "historical",
                   "coords": [
                         15.095807,
@@ -7328,7 +7328,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na zaniklém hrádku",
-                  "text": "Ruinele unei mici fortificații medievale.",
+                  "text": "Sit istoric al unui castel dispărut lângă Castelul Zruč.",
                   "category": "historical",
                   "coords": [
                         15.095807,
@@ -7384,7 +7384,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Na zaniklém hrádku",
-                  "text": "The ruins of a small medieval fortification.",
+                  "text": "Historical site of a vanished castle near Zruč Castle.",
                   "category": "historical",
                   "coords": [
                         15.095807,
@@ -7450,7 +7450,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Bílina",
-                  "text": "Ein barockes Schloss in der tschechischen Stadt Bílina.",
+                  "text": "Das Schloss Bílina wurde ursprünglich nach 1237 erbaut und später barock umgestaltet.",
                   "category": "castle",
                   "coords": [
                         13.776228,
@@ -7515,7 +7515,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Bílina",
-                  "text": "Barokk kastély a csehországi Bílina városában.",
+                  "text": "A Bílinai kastély eredetileg 1237 után épült, később barokk stílusban átalakították.",
                   "category": "castle",
                   "coords": [
                         13.776228,
@@ -7580,7 +7580,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Bílina",
-                  "text": "Un castel baroc situat în orașul ceh Bílina.",
+                  "text": "Castelul Bílina a fost construit inițial după 1237, ulterior transformat în stil baroc.",
                   "category": "castle",
                   "coords": [
                         13.776228,
@@ -7645,7 +7645,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Zámek Bílina",
-                  "text": "A Baroque chateau located in the Czech town of Bílina.",
+                  "text": "Bílina Castle was originally built after 1237, later remodeled in Baroque style.",
                   "category": "castle",
                   "coords": [
                         13.776228,
@@ -10294,7 +10294,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Ein markantes Denkmal in der Nähe von Schloss Vranov.",
+                  "text": "Obelisk in der Nähe von Schloss Vranov.",
                   "category": "historical",
                   "coords": [
                         15.84453,
@@ -10368,7 +10368,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Egy jellegzetes emlékmű a vranovi vár közelében.",
+                  "text": "Obeliszk a vranovi kastély közelében.",
                   "category": "historical",
                   "coords": [
                         15.84453,
@@ -10442,7 +10442,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Un monument remarcabil situat în apropierea Castelului Vranov.",
+                  "text": "Obelisc lângă Castelul Vranov.",
                   "category": "historical",
                   "coords": [
                         15.84453,
@@ -10516,7 +10516,7 @@ export const czechrepublicHistoryV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "A prominent monument located near Vranov Castle.",
+                  "text": "Obelisk near Vranov Castle.",
                   "category": "historical",
                   "coords": [
                         15.84453,

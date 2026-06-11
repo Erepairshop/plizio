@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraMaldivesHistoryV2: POI[] = [
   {
-    id: "mv-hukuru-miskiy-history-v2",
+    id: "mv-hukuru-miskiy-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "މަސްޖިދް ސުލްޠާނު މުޙައްމަދު އިމާދުއްދީން",
+                  "text": "Diese islamische Stätte im historischen Zentrum der Malediven ist ein Zeugnis der tief verwurzelten muslimischen Kultur des Inselstaates.",
+                  "category": "landmark",
+                  "coords": [
+                        73.513284,
+                        4.176711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "މަސްޖިދް ސުލްޠާނު މުޙައްމަދު އިމާދުއްދީން",
+                  "text": "Ez az iszlám emlékhely a Maldív-szigetek történelmi központjában a szigetország mélyen gyökerező muszlim kultúrájának bizonyítéka.",
+                  "category": "landmark",
+                  "coords": [
+                        73.513284,
+                        4.176711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "މަސްޖިދް ސުލްޠާނު މުޙައްމަދު އިމާދުއްދީން",
+                  "text": "Acest sit islamic din centrul istoric al Maldivelor este o mărturie a culturii musulmane profund înrădăcinate a statului insular.",
+                  "category": "landmark",
+                  "coords": [
+                        73.513284,
+                        4.176711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "މަސްޖިދް ސުލްޠާނު މުޙައްމަދު އިމާދުއްދީން",
+                  "text": "This Islamic site in the historical center of the Maldives is a testament to the island nation's deeply rooted Muslim culture.",
+                  "category": "landmark",
+                  "coords": [
+                        73.513284,
+                        4.176711
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-MLE",
     coords: [73.5134, 4.1755],
@@ -67,7 +112,196 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-utheemu-ganduvaru-history-v2",
+    id: "mv-utheemu-ganduvaru-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reclaimed Area",
+                  "text": "Die Reclaimed Area bei Utheemu ist ein künstlich aufgeschütteter Küstenabschnitt, der dem Meer Land abgerungen hat.",
+                  "category": "recreational",
+                  "coords": [
+                        72.94663,
+                        6.717337
+                  ]
+            },
+            {
+                  "name": "Ariticial Beach",
+                  "text": "Der Artificial Beach bei Utheemu ist ein künstlich angelegter Sandstrand, der der Gemeinde als Erholungsort dient.",
+                  "category": "recreational",
+                  "coords": [
+                        72.944422,
+                        6.716207
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Thazkiraa",
+                  "text": "Die Masjid Al-Thazkiraa ist eine lokale islamische Moschee, in der die muslimische Gemeinde von Utheemu betet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.947462,
+                        6.714699
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Avvaabeen",
+                  "text": "Die Masjid Al-Avvaabeen ist eine islamische Kultstätte bei Utheemu, die Gläubigen Raum für die täglichen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936346,
+                        6.748324
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "Die Baa Miskiyy ist eine traditionelle islamische Moschee, die als religiöser Treffpunkt in der Nähe von Utheemu dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.945962,
+                        6.714422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reclaimed Area",
+                  "text": "Az Utheemu melletti Reclaimed Area egy mesterségesen feltöltött partszakasz, amely a tengertől hódított el területet.",
+                  "category": "recreational",
+                  "coords": [
+                        72.94663,
+                        6.717337
+                  ]
+            },
+            {
+                  "name": "Ariticial Beach",
+                  "text": "Az Utheemu közelében található Artificial Beach egy mesterségesen kialakított homokos strand, amely a közösség pihenőhelyéül szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        72.944422,
+                        6.716207
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Thazkiraa",
+                  "text": "A Masjid Al-Thazkiraa egy helyi iszlám mecset, ahol az utheemui muszlim közösség imádkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        72.947462,
+                        6.714699
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Avvaabeen",
+                  "text": "A Masjid Al-Avvaabeen egy iszlám imahely Utheemu közelében, amely teret ad a hívők mindennapi imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936346,
+                        6.748324
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "A Baa Miskiyy egy hagyományos iszlám mecset, amely vallási találkozóhelyként szolgál Utheemu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.945962,
+                        6.714422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reclaimed Area",
+                  "text": "Reclaimed Area de lângă Utheemu este o porțiune de coastă recuperată artificial din apele oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        72.94663,
+                        6.717337
+                  ]
+            },
+            {
+                  "name": "Ariticial Beach",
+                  "text": "Artificial Beach de lângă Utheemu este o plajă artificială cu nisip, creată pentru recreerea comunității.",
+                  "category": "recreational",
+                  "coords": [
+                        72.944422,
+                        6.716207
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Thazkiraa",
+                  "text": "Masjid Al-Thazkiraa este o moschee islamică locală unde se roagă comunitatea musulmană din Utheemu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.947462,
+                        6.714699
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Avvaabeen",
+                  "text": "Masjid Al-Avvaabeen este un lăcaș de cult islamic lângă Utheemu, oferind spațiu pentru rugăciunile zilnice ale credincioșilor.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936346,
+                        6.748324
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "Baa Miskiyy este o moschee islamică tradițională care servește ca punct de întâlnire religios lângă Utheemu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.945962,
+                        6.714422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reclaimed Area",
+                  "text": "The Reclaimed Area near Utheemu is an artificially land-filled coastal stretch recovered from the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        72.94663,
+                        6.717337
+                  ]
+            },
+            {
+                  "name": "Ariticial Beach",
+                  "text": "The Artificial Beach near Utheemu is a man-made sandy shoreline created for community recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        72.944422,
+                        6.716207
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Thazkiraa",
+                  "text": "The Masjid Al-Thazkiraa is a local Islamic mosque providing a prayer space for the Utheemu Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.947462,
+                        6.714699
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Avvaabeen",
+                  "text": "The Masjid Al-Avvaabeen is an Islamic place of worship near Utheemu offering a space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936346,
+                        6.748324
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "The Baa Miskiyy is a traditional Islamic mosque serving as a religious gathering place near Utheemu.",
+                  "category": "landmark",
+                  "coords": [
+                        72.945962,
+                        6.714422
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-01",
     coords: [72.8942, 6.7644],
@@ -131,7 +365,124 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-medhu-ziyaaraiy-history-v2",
+    id: "mv-medhu-ziyaaraiy-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al Afeefudhdhdeen",
+                  "text": "Masjid Al Afeefudhdhdeen ist eine lokale Nachbarschaftsmoschee in der Nähe des historischen Medhu Ziyaaraiy-Schreins im Herzen von Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515617,
+                        4.174292
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iskandar",
+                  "text": "Die Masjid Al-Iskandar dient der muslimischen Gemeinde in Malé, wobei ihr markantes Minarett die Gläubigen in der Nähe der zentralen Denkmäler der Insel anleitet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515463,
+                        4.177738
+                  ]
+            },
+            {
+                  "name": "Masjid Al Taqwa",
+                  "text": "Masjid Al Taqwa ist ein gut erhaltenes islamisches Bethaus in der dicht besiedelten Hauptstadt der Malediven.",
+                  "category": "landmark",
+                  "coords": [
+                        73.514154,
+                        4.176121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al Afeefudhdhdeen",
+                  "text": "A Masjid Al Afeefudhdhdeen egy helyi negyed mecsete, amely a történelmi Medhu Ziyaaraiy szentély közelében található Malé szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515617,
+                        4.174292
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iskandar",
+                  "text": "A Masjid Al-Iskandar a maléi muszlim közösséget szolgálja, kiemelkedő minaretje a sziget központi műemlékeihez vezeti a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515463,
+                        4.177738
+                  ]
+            },
+            {
+                  "name": "Masjid Al Taqwa",
+                  "text": "A Masjid Al Taqwa egy jól karbantartott iszlám imaház a Maldív-szigetek sűrűn lakott fővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.514154,
+                        4.176121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al Afeefudhdhdeen",
+                  "text": "Masjid Al Afeefudhdhdeen este o moschee locală de cartier situată lângă altarul istoric Medhu Ziyaaraiy din inima orașului Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515617,
+                        4.174292
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iskandar",
+                  "text": "Masjid Al-Iskandar servește comunitatea musulmană din Malé, cu minaretul său proeminent îndrumând credincioșii în apropierea monumentelor centrale ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515463,
+                        4.177738
+                  ]
+            },
+            {
+                  "name": "Masjid Al Taqwa",
+                  "text": "Masjid Al Taqwa este o casă de rugăciune islamică bine întreținută, situată în capitala dens populată a Maldivelor.",
+                  "category": "landmark",
+                  "coords": [
+                        73.514154,
+                        4.176121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al Afeefudhdhdeen",
+                  "text": "Masjid Al Afeefudhdhdeen is a local neighborhood mosque located near the historic Medhu Ziyaaraiy shrine in the heart of Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515617,
+                        4.174292
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iskandar",
+                  "text": "Masjid Al-Iskandar serves the Muslim community in Malé with its prominent minaret guiding worshippers near the island's central monuments.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515463,
+                        4.177738
+                  ]
+            },
+            {
+                  "name": "Masjid Al Taqwa",
+                  "text": "Masjid Al Taqwa is a well-maintained Islamic prayer house situated in the densely populated capital city of the Maldives.",
+                  "category": "landmark",
+                  "coords": [
+                        73.514154,
+                        4.176121
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-MLE",
     coords: [73.5147, 4.1758],
@@ -387,7 +738,160 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-kuruhinna-thariagandu-history-v2",
+    id: "mv-kuruhinna-thariagandu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuruhinna Tharaagandu",
+                  "text": "Die archäologischen Ausgrabungen einer bedeutenden antiken buddhistischen Klosteranlage auf Kaashidhoo.",
+                  "category": "historical",
+                  "coords": [
+                        73.462958,
+                        4.956884
+                  ]
+            },
+            {
+                  "name": "Huras Magu",
+                  "text": "Ein idyllischer Sandweg, der durch die Vegetation direkt zum Strand der Insel führt.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468688,
+                        4.954818
+                  ]
+            },
+            {
+                  "name": "Uthuru Beach",
+                  "text": "Ein ruhiger Strandabschnitt an der Nordküste von Kaashidhoo, abseits der bewohnten Gebiete.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465493,
+                        4.966433
+                  ]
+            },
+            {
+                  "name": "Masjidhul Thauheedh",
+                  "text": "Eine moderne Moschee auf Kaashidhoo, die durch ihre schlichte weiße Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        73.465163,
+                        4.962751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuruhinna Tharaagandu",
+                  "text": "Egy jelentős ókori buddhista kolostoregyüttes régészeti feltárásai Kaashidhoo-n.",
+                  "category": "historical",
+                  "coords": [
+                        73.462958,
+                        4.956884
+                  ]
+            },
+            {
+                  "name": "Huras Magu",
+                  "text": "Idilli homokos út, amely a dús növényzeten keresztül vezet közvetlenül a sziget partjához.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468688,
+                        4.954818
+                  ]
+            },
+            {
+                  "name": "Uthuru Beach",
+                  "text": "Nyugodt tengerparti szakasz Kaashidhoo északi partján, távol a lakott területektől.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465493,
+                        4.966433
+                  ]
+            },
+            {
+                  "name": "Masjidhul Thauheedh",
+                  "text": "Modern mecset Kaashidhoo-n, amely letisztult fehér építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        73.465163,
+                        4.962751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuruhinna Tharaagandu",
+                  "text": "Săpăturile arheologice ale unui important complex monahal budist antic de pe Kaashidhoo.",
+                  "category": "historical",
+                  "coords": [
+                        73.462958,
+                        4.956884
+                  ]
+            },
+            {
+                  "name": "Huras Magu",
+                  "text": "O potecă de nisip idilică care duce prin vegetație direct către plaja insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468688,
+                        4.954818
+                  ]
+            },
+            {
+                  "name": "Uthuru Beach",
+                  "text": "O porțiune de plajă liniștită pe coasta de nord a insulei Kaashidhoo, departe de zonele locuite.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465493,
+                        4.966433
+                  ]
+            },
+            {
+                  "name": "Masjidhul Thauheedh",
+                  "text": "O moschee modernă pe Kaashidhoo, care se remarcă prin arhitectura sa albă simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.465163,
+                        4.962751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuruhinna Tharaagandu",
+                  "text": "The archaeological remains of a significant ancient Buddhist monastery complex on Kaashidhoo.",
+                  "category": "historical",
+                  "coords": [
+                        73.462958,
+                        4.956884
+                  ]
+            },
+            {
+                  "name": "Huras Magu",
+                  "text": "An idyllic sandy path leading through the vegetation directly to the island's shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468688,
+                        4.954818
+                  ]
+            },
+            {
+                  "name": "Uthuru Beach",
+                  "text": "A quiet stretch of beach on the northern coast of Kaashidhoo, away from the inhabited areas.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465493,
+                        4.966433
+                  ]
+            },
+            {
+                  "name": "Masjidhul Thauheedh",
+                  "text": "A modern mosque on Kaashidhoo notable for its clean white architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        73.465163,
+                        4.962751
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MV-26",
     coords: [73.4650, 4.9600],
@@ -451,7 +955,52 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-darumavanta-rasgefaanu-mosque-history-v2",
+    id: "mv-darumavanta-rasgefaanu-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidhul Salaahuhdheen",
+                  "text": "Masjidhul Salaahuhdheen ist eine ruhige Inselmoschee mit traditionellen maledivischen Architekturelementen für die täglichen islamischen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511584,
+                        4.174662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidhul Salaahuhdheen",
+                  "text": "A Masjidhul Salaahuhdheen egy békés szigeti mecset, amely hagyományos maldív építészeti elemekkel rendelkezik a napi iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511584,
+                        4.174662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidhul Salaahuhdheen",
+                  "text": "Masjidhul Salaahuhdheen este o moschee senină pe insulă, cu elemente arhitecturale tradiționale maldiveze pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511584,
+                        4.174662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidhul Salaahuhdheen",
+                  "text": "Masjidhul Salaahuhdheen is a serene island mosque featuring traditional Maldivian architectural elements for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511584,
+                        4.174662
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-MLE",
     coords: [73.5111, 4.1744],
@@ -515,7 +1064,52 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-eid-miskiy-history-v2",
+    id: "mv-eid-miskiy-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "Eine wunderschön angelegte Moschee auf den Malediven, die den Gläubigen eine spirituelle Zuflucht im warmen Inselklima bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511534,
+                        4.171069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "Egy gyönyörűen kialakított mecset a Maldív-szigeteken, amely spirituális menedéket nyújt a hívőknek a meleg szigeti éghajlaton.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511534,
+                        4.171069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "O moschee frumos amenajată în Maldive, oferind credincioșilor un refugiu spiritual în climatul cald al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511534,
+                        4.171069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "A beautifully designed mosque in the Maldives, offering worshippers a spiritual refuge in the warm island climate.",
+                  "category": "landmark",
+                  "coords": [
+                        73.511534,
+                        4.171069
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-MLE",
     coords: [73.5117, 4.1739],
@@ -579,7 +1173,88 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-kalhuvakaru-miskiy-history-v2",
+    id: "mv-kalhuvakaru-miskiy-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "އިބްރާހީމް މިސްކިތް",
+                  "text": "Die Ibrahim-Moschee ist ein markantes islamisches Gotteshaus in der Nähe der komplizierten Korallensteinstrukturen des historischen Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.51449,
+                        4.174534
+                  ]
+            },
+            {
+                  "name": "Masjid Shaheed Ali",
+                  "text": "Die Masjid Shaheed Ali ist zu Ehren eines historischen maledivischen Helden benannt und dient als wichtiger Gebetsraum der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515295,
+                        4.171981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "އިބްރާހީމް މިސްކިތް",
+                  "text": "Az Ibrahim mecset a történelmi Malé bonyolult korallkő építményei közelében kiemelkedő iszlám istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        73.51449,
+                        4.174534
+                  ]
+            },
+            {
+                  "name": "Masjid Shaheed Ali",
+                  "text": "A Masjid Shaheed Ali nevét egy történelmi maldív hősről kapta, és létfontosságú közösségi imateremként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515295,
+                        4.171981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "އިބްރާހީމް މިސްކިތް",
+                  "text": "Moscheea Ibrahim se înalță ca un lăcaș de cult islamic proeminent în apropierea structurilor complicate din piatră de coral ale istoricului Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.51449,
+                        4.174534
+                  ]
+            },
+            {
+                  "name": "Masjid Shaheed Ali",
+                  "text": "Masjid Shaheed Ali este numită în onoarea unui erou maldiv istoric și servește ca o sală vitală de rugăciune pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515295,
+                        4.171981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ibrahim Mosque",
+                  "text": "Ibrahim Mosque stands as a prominent place of Islamic worship near the intricate coral stone structures of historic Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.51449,
+                        4.174534
+                  ]
+            },
+            {
+                  "name": "Masjid Shaheed Ali",
+                  "text": "Masjid Shaheed Ali is named in honor of a historic Maldivian hero and serves as a vital community prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        73.515295,
+                        4.171981
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-MLE",
     coords: [73.5139, 4.1736],
@@ -643,7 +1318,52 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-thoddoo-buddhist-ruins-history-v2",
+    id: "mv-thoddoo-buddhist-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Der Sunset Beach auf Thoddoo ist ein ruhiger Sandstrand mit Westausrichtung, der sich ideal zur Beobachtung der Abenddämmerung eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        72.954013,
+                        4.435235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "A Thoddoo-n található Sunset Beach egy nyugodt, nyugatra néző homokos strand, amely ideális a naplementék megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        72.954013,
+                        4.435235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach de pe Thoddoo este o plajă liniștită cu nisip, orientată spre vest, ideală pentru a privi amurgul.",
+                  "category": "recreational",
+                  "coords": [
+                        72.954013,
+                        4.435235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach on Thoddoo is a tranquil, west-facing sandy beach ideal for watching the evening dusk.",
+                  "category": "recreational",
+                  "coords": [
+                        72.954013,
+                        4.435235
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MV-02",
     coords: [72.9583, 4.4361],
@@ -707,7 +1427,124 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-raf-base-gan-history-v2",
+    id: "mv-raf-base-gan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhandivaru Miskiy",
+                  "text": "Eine historische maledivische Moschee, die einen spirituellen Rückzugsort und Raum für tägliche Gebete auf der Südinsel Gan bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123828,
+                        -0.669318
+                  ]
+            },
+            {
+                  "name": "Masjidhul-Noor",
+                  "text": "Bekannt als die Moschee des Lichts, dient dieses islamische Zentrum den religiösen Bedürfnissen der auf der Insel Gan lebenden Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        73.122241,
+                        -0.669102
+                  ]
+            },
+            {
+                  "name": "Masjidhul Amaan",
+                  "text": "Ein friedliches Heiligtum in der Nachbarschaft, das eine engagierte Umgebung für Gemeindegebete inmitten der tropischen Kulisse der Insel Gan bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.135007,
+                        -0.68223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhandivaru Miskiy",
+                  "text": "Egy történelmi maldív mecset, amely spirituális menedéket és napi imateret kínál Gan déli szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123828,
+                        -0.669318
+                  ]
+            },
+            {
+                  "name": "Masjidhul-Noor",
+                  "text": "A Fény Mecsetjeként ismert iszlám központ a Gan szigetén élő helyi közösség vallási igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        73.122241,
+                        -0.669102
+                  ]
+            },
+            {
+                  "name": "Masjidhul Amaan",
+                  "text": "Békés környékbeli menedékhely, amely dedikált környezetet biztosít a gyülekezeti imákhoz Gan szigetének trópusi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.135007,
+                        -0.68223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhandivaru Miskiy",
+                  "text": "O moschee istorică maldiviană care oferă o retragere spirituală și un spațiu de rugăciune zilnică pe insula sudică Gan.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123828,
+                        -0.669318
+                  ]
+            },
+            {
+                  "name": "Masjidhul-Noor",
+                  "text": "Cunoscut sub numele de Moscheea Luminii, acest centru islamic servește nevoilor religioase ale comunității locale care locuiește pe insula Gan.",
+                  "category": "landmark",
+                  "coords": [
+                        73.122241,
+                        -0.669102
+                  ]
+            },
+            {
+                  "name": "Masjidhul Amaan",
+                  "text": "Un sanctuar pașnic de cartier care oferă un mediu dedicat pentru rugăciunile comune în mijlocul decorului tropical al insulei Gan.",
+                  "category": "landmark",
+                  "coords": [
+                        73.135007,
+                        -0.68223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhandivaru Miskiy",
+                  "text": "A historic Maldivian mosque offering a spiritual retreat and daily prayer space on the southern island of Gan.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123828,
+                        -0.669318
+                  ]
+            },
+            {
+                  "name": "Masjidhul-Noor",
+                  "text": "Known as the Mosque of Light, this Islamic center serves the religious needs of the local community residing on Gan Island.",
+                  "category": "landmark",
+                  "coords": [
+                        73.122241,
+                        -0.669102
+                  ]
+            },
+            {
+                  "name": "Masjidhul Amaan",
+                  "text": "A peaceful neighborhood sanctuary providing a dedicated environment for congregational prayers amidst the tropical setting of Gan Island.",
+                  "category": "landmark",
+                  "coords": [
+                        73.135007,
+                        -0.68223
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MV-00",
     coords: [73.1556, -0.6931],
@@ -835,7 +1672,160 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-landhoo-ruins-history-v2",
+    id: "mv-landhoo-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidhul Eesaar",
+                  "text": "Diese Moschee auf der Insel Landhoo bietet den Besuchern der historischen hawitta-Ruinen einen Ort für Gebet und Ruhe.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478961,
+                        5.829541
+                  ]
+            },
+            {
+                  "name": "Masjidhul Noor",
+                  "text": "Ein maledivischer Gebetsort auf Landhoo, der sich in der Nähe altertümlicher archäologischer Stätten befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.479142,
+                        5.83138
+                  ]
+            },
+            {
+                  "name": "Masjidul Munawwar",
+                  "text": "Diese lokale Moschee ergänzt das reiche kulturelle Erbe von Landhoo mit einem spirituellen Zentrum für die muslimische Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        73.480585,
+                        5.833105
+                  ]
+            },
+            {
+                  "name": "Zitahli Spa Reception",
+                  "text": "Die hölzerne Empfangshalle des Spas auf einem Luxusresort nahe Landhoo empfängt Gäste mit einem weiten Blick über den Indischen Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        73.377943,
+                        5.88363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidhul Eesaar",
+                  "text": "Ez a Landhoo szigetén található mecset az imádság és a nyugalom helyét kínálja a történelmi hawitta romok látogatóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478961,
+                        5.829541
+                  ]
+            },
+            {
+                  "name": "Masjidhul Noor",
+                  "text": "Egy maldív imahely Landhooban, amely az ősi régészeti lelőhelyek közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.479142,
+                        5.83138
+                  ]
+            },
+            {
+                  "name": "Masjidul Munawwar",
+                  "text": "Ez a helyi mecset egy spirituális központtal egészíti ki Landhoo gazdag kulturális örökségét a muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.480585,
+                        5.833105
+                  ]
+            },
+            {
+                  "name": "Zitahli Spa Reception",
+                  "text": "A Landhoo közeli luxusüdülőhely faépítésű spa recepciója az Indiai-óceánra nyíló széles panorámával várja a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        73.377943,
+                        5.88363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidhul Eesaar",
+                  "text": "Această moschee de pe insula Landhoo oferă vizitatorilor ruinelor istorice hawitta un loc de rugăciune și liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478961,
+                        5.829541
+                  ]
+            },
+            {
+                  "name": "Masjidhul Noor",
+                  "text": "Un loc de rugăciune maldivian pe Landhoo, situat în apropierea siturilor arheologice antice.",
+                  "category": "landmark",
+                  "coords": [
+                        73.479142,
+                        5.83138
+                  ]
+            },
+            {
+                  "name": "Masjidul Munawwar",
+                  "text": "Această moschee locală completează bogata moștenire culturală din Landhoo cu un centru spiritual pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        73.480585,
+                        5.833105
+                  ]
+            },
+            {
+                  "name": "Zitahli Spa Reception",
+                  "text": "Recepția din lemn a spa-ului de pe o stațiune de lux de lângă Landhoo își întâmpină oaspeții cu o vedere largă asupra Oceanului Indian.",
+                  "category": "recreational",
+                  "coords": [
+                        73.377943,
+                        5.88363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidhul Eesaar",
+                  "text": "This mosque on the island of Landhoo provides visitors to the historic hawitta ruins with a place for prayer and tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478961,
+                        5.829541
+                  ]
+            },
+            {
+                  "name": "Masjidhul Noor",
+                  "text": "A Maldivian place of prayer on Landhoo, located near ancient archaeological sites.",
+                  "category": "landmark",
+                  "coords": [
+                        73.479142,
+                        5.83138
+                  ]
+            },
+            {
+                  "name": "Masjidul Munawwar",
+                  "text": "This local mosque complements the rich cultural heritage of Landhoo with a spiritual center for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        73.480585,
+                        5.833105
+                  ]
+            },
+            {
+                  "name": "Zitahli Spa Reception",
+                  "text": "The wooden spa reception at a luxury resort near Landhoo welcomes guests with a sweeping view over the Indian Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        73.377943,
+                        5.88363
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MV-03",
     coords: [73.4667, 5.8667],
@@ -963,7 +1953,52 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-tomb-sultan-iskandar-history-v2",
+    id: "mv-tomb-sultan-iskandar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Centre for the Arts",
+                  "text": "Das Zentrum ist der wichtigste Veranstaltungsort für zeitgenössische Kunst und kulturelle Darbietungen in der Hauptstadt Malé.",
+                  "category": "cultural",
+                  "coords": [
+                        73.513085,
+                        4.174903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Centre for the Arts",
+                  "text": "A központ a kortárs művészetek és kulturális előadások fő helyszíne a fővárosban, Maléban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.513085,
+                        4.174903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Centre for the Arts",
+                  "text": "Centrul este principalul loc de desfășurare a evenimentelor de artă contemporană și spectacolelor culturale din capitala Malé.",
+                  "category": "cultural",
+                  "coords": [
+                        73.513085,
+                        4.174903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Centre for the Arts",
+                  "text": "The center is the primary venue for contemporary arts and cultural performances in the capital city, Malé.",
+                  "category": "cultural",
+                  "coords": [
+                        73.513085,
+                        4.174903
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-MLE",
     coords: [73.5131, 4.1754],
@@ -1027,7 +2062,124 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-vashafaru-ruins-history-v2",
+    id: "mv-vashafaru-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "Der Bikini Beach in Vashafaru ist ein speziell ausgewiesener Sandstrand für Touristen, an dem Badekleidung erlaubt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.155505,
+                        6.896823
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "Die Baa Miskiyy ist eine lokale islamische Moschee in Vashafaru, die der muslimischen Inselbevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.163514,
+                        6.898208
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "Die Hukuru Miskiyy ist die islamische Freitagsmoschee von Vashafaru, in der sich die Gemeinde zum wöchentlichen Hauptgebet versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.159734,
+                        6.8965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "A vashafarui Bikini Beach egy kifejezetten turisták számára kijelölt homokos part, ahol engedélyezett a fürdőruha viselése.",
+                  "category": "recreational",
+                  "coords": [
+                        73.155505,
+                        6.896823
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "A Baa Miskiyy egy helyi iszlám mecset Vashafaru szigetén, amely a muszlim lakosságot szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.163514,
+                        6.898208
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "A Hukuru Miskiyy Vashafaru iszlám pénteki mecsete, ahol a közösség összegyűlik a heti fő imára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.159734,
+                        6.8965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach din Vashafaru este o plajă cu nisip special desemnată pentru turiști, unde sunt permise costumele de baie.",
+                  "category": "recreational",
+                  "coords": [
+                        73.155505,
+                        6.896823
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "Baa Miskiyy este o moschee islamică locală din Vashafaru, care deservește populația musulmană a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.163514,
+                        6.898208
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "Hukuru Miskiyy este moscheea de vineri islamică din Vashafaru, unde comunitatea se adună pentru rugăciunea principală săptămânală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.159734,
+                        6.8965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "The Bikini Beach in Vashafaru is a specially designated sandy beach for tourists where swimwear is permitted.",
+                  "category": "recreational",
+                  "coords": [
+                        73.155505,
+                        6.896823
+                  ]
+            },
+            {
+                  "name": "Baa Miskiyy",
+                  "text": "The Baa Miskiyy is a local Islamic mosque in Vashafaru serving the island's Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        73.163514,
+                        6.898208
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "The Hukuru Miskiyy is the Islamic Friday mosque of Vashafaru where the community gathers for the main weekly prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        73.159734,
+                        6.8965
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MV-01",
     coords: [73.1500, 6.8833],
@@ -1091,7 +2243,52 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-dhadimagi-kilhi-sites-history-v2",
+    id: "mv-dhadimagi-kilhi-sites-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rasgefanno",
+                  "text": "Ein historisches Küstengebiet, das traditionell mit der lokalen Monarchie auf der Insel Fuvahmulah verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rasgefanno",
+                  "text": "Történelmi tengerparti terület, amely hagyományosan a helyi uralkodókhoz kötődik Fuvahmulah szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rasgefanno",
+                  "text": "O zonă de coastă istorică, asociată tradițional cu monarhia locală de pe insula Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rasgefanno",
+                  "text": "A historic coastal area traditionally associated with local royalty on Fuvahmulah island.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MV-29",
     coords: [73.4258, -0.2883],
@@ -1155,7 +2352,160 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
     },
   },
   {
-    id: "mv-kinbidhoo-ruins-history-v2",
+    id: "mv-kinbidhoo-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjidh Aisha",
+                  "text": "Eine lokale islamische Gebetsstätte für die Inselbewohner von Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.064494,
+                        2.168845
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine traditionelle Moschee, die der maledivischen Gemeinde auf Kinbidhoo als spirituelles Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        73.143081,
+                        2.206007
+                  ]
+            },
+            {
+                  "name": "ކުޑަ މިސްކިތް",
+                  "text": "Eine kleine maledivische Moschee, die sich in die ruhige Umgebung von Kinbidhoo einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.066167,
+                        2.168505
+                  ]
+            },
+            {
+                  "name": "މަސްޖިލުލް ސިޔާދާ",
+                  "text": "Ein islamisches Andachtszentrum in der Nähe der historischen Stätten von Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.067123,
+                        2.170008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjidh Aisha",
+                  "text": "Helyi iszlám imaház a Kinbidhoo szigetén élők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.064494,
+                        2.168845
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Hagyományos mecset, amely a Kinbidhoo szigetén élő maldív közösség spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        73.143081,
+                        2.206007
+                  ]
+            },
+            {
+                  "name": "ކުޑަ މިސްކިތް",
+                  "text": "Egy kis maldív mecset, amely beilleszkedik Kinbidhoo nyugodt környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        73.066167,
+                        2.168505
+                  ]
+            },
+            {
+                  "name": "މަސްޖިލުލް ސިޔާދާ",
+                  "text": "Iszlám áhítati központ Kinbidhoo történelmi emlékhelyeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.067123,
+                        2.170008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjidh Aisha",
+                  "text": "Un lăcaș de cult islamic local pentru locuitorii insulei Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.064494,
+                        2.168845
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee tradițională care servește drept centru spiritual pentru comunitatea din Maldive de pe Kinbidhoo.",
+                  "category": "religious",
+                  "coords": [
+                        73.143081,
+                        2.206007
+                  ]
+            },
+            {
+                  "name": "ކުޑަ މިސްކިތް",
+                  "text": "O mică moschee maldiviană care se integrează în mediul liniștit din Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.066167,
+                        2.168505
+                  ]
+            },
+            {
+                  "name": "މަސްޖިލުލް ސިޔާދާ",
+                  "text": "Un centru de devoțiune islamică în apropierea siturilor istorice din Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.067123,
+                        2.170008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjidh Aisha",
+                  "text": "A local Islamic place of worship for the islanders of Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.064494,
+                        2.168845
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A traditional mosque serving as a spiritual center for the Maldivian community on Kinbidhoo.",
+                  "category": "religious",
+                  "coords": [
+                        73.143081,
+                        2.206007
+                  ]
+            },
+            {
+                  "name": "ކުޑަ މިސްކިތް",
+                  "text": "A small Maldivian mosque blending into the peaceful surroundings of Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.066167,
+                        2.168505
+                  ]
+            },
+            {
+                  "name": "މަސްޖިލުލް ސިޔާދާ",
+                  "text": "An Islamic devotion center near the historical sites of Kinbidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.067123,
+                        2.170008
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MV-14",
     coords: [73.0667, 2.2000],

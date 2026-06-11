@@ -479,7 +479,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "Das Monumento a la Paz ist ein Denkmal in Moca, das dem Frieden gewidmet ist.",
+                  "text": "Friedensdenkmal in Moca.",
                   "category": "historical",
                   "coords": [
                         -70.519701,
@@ -517,7 +517,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "A Monumento a la Paz egy békének szentelt emlékmű Moca városában.",
+                  "text": "Békemlékmű Mocában.",
                   "category": "historical",
                   "coords": [
                         -70.519701,
@@ -555,7 +555,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "Monumento a la Paz este un monument dedicat păcii, situat în Moca.",
+                  "text": "Monument al păcii în Moca.",
                   "category": "historical",
                   "coords": [
                         -70.519701,
@@ -593,7 +593,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "Monumento a la Paz is a monument dedicated to peace located in Moca.",
+                  "text": "Peace monument in Moca.",
                   "category": "historical",
                   "coords": [
                         -70.519701,
@@ -818,7 +818,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centro de Damas",
-                  "text": "Das Centro de Damas ist eine kulturelle Einrichtung und ein Museum in Mao.",
+                  "text": "Museum in einem ehemaligen Damenzentrum in Mao.",
                   "category": "museum",
                   "coords": [
                         -71.073041,
@@ -836,7 +836,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Forestal Río Cana",
-                  "text": "Die Reserva Forestal Río Cana ist ein wichtiges Naturschutzgebiet in der Region Mao.",
+                  "text": "Waldschutzgebiet entlang des Río Cana in Mao.",
                   "category": "natural",
                   "coords": [
                         -71.241824,
@@ -847,7 +847,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centro de Damas",
-                  "text": "A Centro de Damas egy kulturális intézmény és múzeum Mao városában.",
+                  "text": "Múzeum egy egykori hölgyközpontban Maóban.",
                   "category": "museum",
                   "coords": [
                         -71.073041,
@@ -865,7 +865,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Forestal Río Cana",
-                  "text": "A Reserva Forestal Río Cana egy fontos természetvédelmi terület Mao régiójában.",
+                  "text": "Erdőrezervátum a Río Cana mentén Maóban.",
                   "category": "natural",
                   "coords": [
                         -71.241824,
@@ -876,7 +876,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centro de Damas",
-                  "text": "Centro de Damas este o instituție culturală și un muzeu din Mao.",
+                  "text": "Muzeu într-un fost centru pentru doamne în Mao.",
                   "category": "museum",
                   "coords": [
                         -71.073041,
@@ -894,7 +894,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Forestal Río Cana",
-                  "text": "Reserva Forestal Río Cana este o rezervație naturală importantă din regiunea Mao.",
+                  "text": "Rezervație forestieră de-a lungul râului Río Cana în Mao.",
                   "category": "natural",
                   "coords": [
                         -71.241824,
@@ -905,7 +905,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centro de Damas",
-                  "text": "Centro de Damas is a cultural institution and museum in Mao.",
+                  "text": "Museum in a former ladies' social center in Mao.",
                   "category": "museum",
                   "coords": [
                         -71.073041,
@@ -923,7 +923,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Forestal Río Cana",
-                  "text": "Reserva Forestal Río Cana is an important nature reserve in the Mao region.",
+                  "text": "Forest reserve along the Río Cana in Mao.",
                   "category": "natural",
                   "coords": [
                         -71.241824,
@@ -1244,7 +1244,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Arco del Triunfo",
-                  "text": "Der Arco del Triunfo ist ein markanter Triumphbogen und eine Sehenswürdigkeit in Barahona.",
+                  "text": "Triumphbogen in Barahona.",
                   "category": "landmark",
                   "coords": [
                         -71.100532,
@@ -1255,7 +1255,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Arco del Triunfo",
-                  "text": "Az Arco del Triunfo egy jellegzetes diadalív és látnivaló Barahona városában.",
+                  "text": "Diadalív Barahonában.",
                   "category": "landmark",
                   "coords": [
                         -71.100532,
@@ -1266,7 +1266,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Arco del Triunfo",
-                  "text": "Arco del Triunfo este un arc de triumf distinctiv și un obiectiv turistic din Barahona.",
+                  "text": "Arc de triumf în Barahona.",
                   "category": "landmark",
                   "coords": [
                         -71.100532,
@@ -1277,7 +1277,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Arco del Triunfo",
-                  "text": "Arco del Triunfo is a distinctive triumphal arch and attraction in Barahona.",
+                  "text": "Triumphal arch in Barahona.",
                   "category": "landmark",
                   "coords": [
                         -71.100532,
@@ -1430,7 +1430,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Las Marías",
-                  "text": "Das Monumento Natural Las Marías ist ein beliebtes Naturschutzgebiet mit natürlichen Quellen in Neiba.",
+                  "text": "Naturdenkmal Las Marías in Neiba.",
                   "category": "natural",
                   "coords": [
                         -71.377226,
@@ -1450,7 +1450,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Las Marías",
-                  "text": "A Monumento Natural Las Marías egy népszerű természetvédelmi terület Neibában, természetes forrásokkal.",
+                  "text": "Las Marías természeti emlékmű Neibában.",
                   "category": "natural",
                   "coords": [
                         -71.377226,
@@ -1470,7 +1470,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Las Marías",
-                  "text": "Monumento Natural Las Marías este o rezervație naturală populară din Neiba, cu izvoare naturale.",
+                  "text": "Monument natural Las Marías în Neiba.",
                   "category": "natural",
                   "coords": [
                         -71.377226,
@@ -1490,7 +1490,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Las Marías",
-                  "text": "Monumento Natural Las Marías is a popular nature reserve with natural springs in Neiba.",
+                  "text": "Natural monument Las Marías in Neiba.",
                   "category": "natural",
                   "coords": [
                         -71.377226,
@@ -1766,7 +1766,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Reserva Forestal Loma Novillero",
-                  "text": "Die Reserva Forestal Loma Novillero ist ein bewaldetes Naturschutzgebiet in Villa Altagracia.",
+                  "text": "Waldschutzgebiet auf dem Hügel Loma Novillero in Villa Altagracia.",
                   "category": "natural",
                   "coords": [
                         -70.176392,
@@ -1777,7 +1777,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Reserva Forestal Loma Novillero",
-                  "text": "A Reserva Forestal Loma Novillero egy erdős természetvédelmi terület Villa Altagracia közelében.",
+                  "text": "Erdőrezervátum a Loma Novillero dombon Villa Altagracia-ban.",
                   "category": "natural",
                   "coords": [
                         -70.176392,
@@ -1788,7 +1788,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Reserva Forestal Loma Novillero",
-                  "text": "Reserva Forestal Loma Novillero este o rezervație naturală forestieră din Villa Altagracia.",
+                  "text": "Rezervație forestieră pe dealul Loma Novillero în Villa Altagracia.",
                   "category": "natural",
                   "coords": [
                         -70.176392,
@@ -1799,7 +1799,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Reserva Forestal Loma Novillero",
-                  "text": "Reserva Forestal Loma Novillero is a forested nature reserve in Villa Altagracia.",
+                  "text": "Forest reserve on Loma Novillero hill in Villa Altagracia.",
                   "category": "natural",
                   "coords": [
                         -70.176392,
@@ -1943,7 +1943,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Yriel estuvo Aqui",
-                  "text": "Yriel estuvo Aqui ist ein lokaler Küstenabschnitt in Sabana de la Mar.",
+                  "text": "Erholungsort mit der Aufschrift \"Yriel estuvo Aqui\" in Sabana De La Mar.",
                   "category": "recreational",
                   "coords": [
                         -69.382775,
@@ -1970,7 +1970,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Héroes",
-                  "text": "Das Monumento de los Héroes ist ein Denkmal zur Ehrung historischer Persönlichkeiten in Sabana de la Mar.",
+                  "text": "Heldenmonument in Sabana De La Mar.",
                   "category": "historical",
                   "coords": [
                         -69.388757,
@@ -1999,7 +1999,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Yriel estuvo Aqui",
-                  "text": "Az Yriel estuvo Aqui egy helyi tengerparti szakasz Sabana de la Marban.",
+                  "text": "\"Yriel estuvo Aqui\" feliratú rekreációs hely Sabana De La Mar-ban.",
                   "category": "recreational",
                   "coords": [
                         -69.382775,
@@ -2026,7 +2026,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Héroes",
-                  "text": "A Monumento de los Héroes egy emlékmű Sabana de la Marban a történelmi hősök tiszteletére.",
+                  "text": "Hősök emlékműve Sabana De La Mar-ban.",
                   "category": "historical",
                   "coords": [
                         -69.388757,
@@ -2055,7 +2055,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Yriel estuvo Aqui",
-                  "text": "Yriel estuvo Aqui este o zonă de coastă locală din Sabana de la Mar.",
+                  "text": "Loc recreativ cu inscripția \"Yriel estuvo Aqui\" în Sabana De La Mar.",
                   "category": "recreational",
                   "coords": [
                         -69.382775,
@@ -2082,7 +2082,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Héroes",
-                  "text": "Monumento de los Héroes este un monument din Sabana de la Mar dedicat eroilor istorici.",
+                  "text": "Monumentul eroilor în Sabana De La Mar.",
                   "category": "historical",
                   "coords": [
                         -69.388757,
@@ -2111,7 +2111,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Yriel estuvo Aqui",
-                  "text": "Yriel estuvo Aqui is a local coastal area in Sabana de la Mar.",
+                  "text": "Recreational spot with the inscription \"Yriel estuvo Aqui\" in Sabana De La Mar.",
                   "category": "recreational",
                   "coords": [
                         -69.382775,
@@ -2138,7 +2138,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Héroes",
-                  "text": "Monumento de los Héroes is a monument in Sabana de la Mar honoring historical figures.",
+                  "text": "Monument to heroes in Sabana De La Mar.",
                   "category": "historical",
                   "coords": [
                         -69.388757,
@@ -2296,7 +2296,196 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-cabrera-cities-v2", "sights": {"de": [{"name": "Piscina Natural de Catalina", "text": "Die Piscina Natural de Catalina ist ein beliebter natürlicher Badeplatz an der Küste von Cabrera.", "category": "recreational", "coords": [-69.928437, 19.65246]}, {"name": "Orchid Bay", "text": "Orchid Bay ist ein malerischer Strandabschnitt in der Nähe von Cabrera.", "category": "recreational", "coords": [-69.892651, 19.628525]}, {"name": "Monumento Natural El Saltadero", "text": "Das Monumento Natural El Saltadero ist ein Naturschutzgebiet mit einem beeindruckenden Wasserfall in Cabrera.", "category": "natural", "coords": [-69.927629, 19.632428]}, {"name": "Caletón de los Enamorados", "text": "Caletón de los Enamorados ist eine kleine, romantische Bucht in Cabrera.", "category": "recreational", "coords": [-69.909184, 19.646675]}, {"name": "Playa El Puerto", "text": "Die Playa El Puerto ist ein authentischer lokaler Strand in der Gemeinde Cabrera in der Dominikanischen Republik. Dieser Ort versprüht einen landestypischen Charme und lädt Besucher ein, die Meeresbrise fernab der großen Touristenströme zu genießen. Ein Abstecher hierher lohnt sich, um das echte karibische Leben kennenzulernen.", "category": "recreational", "coords": [-69.91439, 19.647514]}], "hu": [{"name": "Piscina Natural de Catalina", "text": "A Piscina Natural de Catalina egy népszerű természetes fürdőhely Cabrera partjainál.", "category": "recreational", "coords": [-69.928437, 19.65246]}, {"name": "Orchid Bay", "text": "Az Orchid Bay egy festői tengerparti szakasz Cabrera közelében.", "category": "recreational", "coords": [-69.892651, 19.628525]}, {"name": "Monumento Natural El Saltadero", "text": "A Monumento Natural El Saltadero egy természetvédelmi terület egy lenyűgöző vízeséssel Cabrerában.", "category": "natural", "coords": [-69.927629, 19.632428]}, {"name": "Caletón de los Enamorados", "text": "A Caletón de los Enamorados egy kicsi, romantikus öböl Cabrerában.", "category": "recreational", "coords": [-69.909184, 19.646675]}, {"name": "Playa El Puerto", "text": "A Playa El Puerto egy autentikus helyi strand a Dominikai Köztársaságban, Cabrera településen. Ez a hely hamisítatlan helyi vonzerőt sugároz, és arra invitálja a látogatókat, hogy élvezzék a tengeri szellőt távol a nagy turistatömegektől. Érdemes ide ellátogatni, ha szeretnénk megismerni a valódi karibi életérzést.", "category": "recreational", "coords": [-69.91439, 19.647514]}], "ro": [{"name": "Piscina Natural de Catalina", "text": "Piscina Natural de Catalina este un loc natural de scăldat popular de pe coasta Cabrerei.", "category": "recreational", "coords": [-69.928437, 19.65246]}, {"name": "Orchid Bay", "text": "Orchid Bay este o porțiune pitorească de plajă situată lângă Cabrera.", "category": "recreational", "coords": [-69.892651, 19.628525]}, {"name": "Monumento Natural El Saltadero", "text": "Monumento Natural El Saltadero este o rezervație naturală cu o cascadă impresionantă din Cabrera.", "category": "natural", "coords": [-69.927629, 19.632428]}, {"name": "Caletón de los Enamorados", "text": "Caletón de los Enamorados este un golfuleț mic și romantic din Cabrera.", "category": "recreational", "coords": [-69.909184, 19.646675]}, {"name": "Playa El Puerto", "text": "Playa El Puerto este o plajă locală autentică din municipalitatea Cabrera, Republica Dominicană. Acest loc emană un farmec tipic local și invită vizitatorii să se bucure de briza mării departe de aglomerațiile turistice mari. O excursie aici merită din plin pentru a experimenta adevărata viață caraibiană.", "category": "recreational", "coords": [-69.91439, 19.647514]}], "en": [{"name": "Piscina Natural de Catalina", "text": "Piscina Natural de Catalina is a popular natural swimming spot on the coast of Cabrera.", "category": "recreational", "coords": [-69.928437, 19.65246]}, {"name": "Orchid Bay", "text": "Orchid Bay is a picturesque stretch of beach located near Cabrera.", "category": "recreational", "coords": [-69.892651, 19.628525]}, {"name": "Monumento Natural El Saltadero", "text": "Monumento Natural El Saltadero is a nature reserve featuring an impressive waterfall in Cabrera.", "category": "natural", "coords": [-69.927629, 19.632428]}, {"name": "Caletón de los Enamorados", "text": "Caletón de los Enamorados is a small, romantic cove located in Cabrera.", "category": "recreational", "coords": [-69.909184, 19.646675]}, {"name": "Playa El Puerto", "text": "Playa El Puerto is an authentic local beach in the municipality of Cabrera in the Dominican Republic. This spot exudes a typical local charm and invites visitors to enjoy the sea breeze away from large tourist crowds. A trip here is well worth it to experience authentic Caribbean life.", "category": "recreational", "coords": [-69.91439, 19.647514]}]},
+    id: "do-cabrera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Natürlicher Felsenpool in Catalina bei Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Bucht bekannt für Orchideen in Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "Das Monumento Natural El Saltadero ist ein Naturschutzgebiet mit einem beeindruckenden Wasserfall in Cabrera.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Kleine Bucht der Verliebten in Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "Die Playa El Puerto ist ein authentischer lokaler Strand in der Gemeinde Cabrera in der Dominikanischen Republik. Dieser Ort versprüht einen landestypischen Charme und lädt Besucher ein, die Meeresbrise fernab der großen Touristenströme zu genießen. Ein Abstecher hierher lohnt sich, um das echte karibische Leben kennenzulernen.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Természetes sziklamedence Catalina-nál, Cabrera közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Orchideáiról híres öböl Cabrera-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "A Monumento Natural El Saltadero egy természetvédelmi terület egy lenyűgöző vízeséssel Cabrerában.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Szerelmesek kis öble Cabrera-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "A Playa El Puerto egy autentikus helyi strand a Dominikai Köztársaságban, Cabrera településen. Ez a hely hamisítatlan helyi vonzerőt sugároz, és arra invitálja a látogatókat, hogy élvezzék a tengeri szellőt távol a nagy turistatömegektől. Érdemes ide ellátogatni, ha szeretnénk megismerni a valódi karibi életérzést.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Piscină naturală de stâncă la Catalina, lângă Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Golf cunoscut pentru orhidee în Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "Monumento Natural El Saltadero este o rezervație naturală cu o cascadă impresionantă din Cabrera.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Mica golf al îndrăgostiților în Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "Playa El Puerto este o plajă locală autentică din municipalitatea Cabrera, Republica Dominicană. Acest loc emană un farmec tipic local și invită vizitatorii să se bucure de briza mării departe de aglomerațiile turistice mari. O excursie aici merită din plin pentru a experimenta adevărata viață caraibiană.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Natural rock pool at Catalina near Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Bay known for orchids in Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "Monumento Natural El Saltadero is a nature reserve featuring an impressive waterfall in Cabrera.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Small cove of lovers in Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "Playa El Puerto is an authentic local beach in the municipality of Cabrera in the Dominican Republic. This spot exudes a typical local charm and invites visitors to enjoy the sea breeze away from large tourist crowds. A trip here is well worth it to experience authentic Caribbean life.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-14",
     coords: [-69.9042, 19.6417],
@@ -2884,7 +3073,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Ingenio Boca de Nigua",
-                  "text": "Eine historische Stätte einer ehemaligen Zuckermühle aus der Kolonialzeit.",
+                  "text": "Ehemalige Zuckermühle an der Mündung des Nigua-Flusses in San Gregorio De Nigua.",
                   "category": "landmark",
                   "coords": [
                         -70.060361,
@@ -2904,7 +3093,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Ingenio Boca de Nigua",
-                  "text": "Egy egykori gyarmati kori cukormalom történelmi helyszíne.",
+                  "text": "Cukormalom a Nigua folyó torkolatánál, San Gregorio De Niguában.",
                   "category": "landmark",
                   "coords": [
                         -70.060361,
@@ -2924,7 +3113,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Ingenio Boca de Nigua",
-                  "text": "Situl istoric al unei foste mori de zahăr din perioada colonială.",
+                  "text": "Fostă moară de zahăr la gura râului Nigua în San Gregorio De Nigua.",
                   "category": "landmark",
                   "coords": [
                         -70.060361,
@@ -2944,7 +3133,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             },
             {
                   "name": "Ingenio Boca de Nigua",
-                  "text": "The historic site of a former colonial-era sugar mill.",
+                  "text": "Former sugar mill at the mouth of the Nigua River in San Gregorio De Nigua.",
                   "category": "landmark",
                   "coords": [
                         -70.060361,

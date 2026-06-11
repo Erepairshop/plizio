@@ -1055,7 +1055,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club nautique hammamet C.N.H",
-                  "text": "Der Club nautique hammamet C.N.H ist ein Vergnügungs- und Freizeitpark in Hammamet.",
+                  "text": "Club nautique hammamet C.N.H ist ein Jachthafen und Segelclub in Hammamet.",
                   "category": "family",
                   "coords": [
                         10.611369,
@@ -1064,7 +1064,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hammamet Beach",
-                  "text": "Der Hammamet Beach ist ein beliebter Sandstrand in Hammamet.",
+                  "text": "Sandstrand an der Mittelmeerküste von Hammamet mit flachem Wasser.",
                   "category": "recreational",
                   "coords": [
                         10.617679,
@@ -1073,7 +1073,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dschabal al-Hammamat",
-                  "text": "Jabal Al Hammamat ist ein markanter Berggipfel in der Nähe von Hammamet.",
+                  "text": "Ein Kalksteinberg mit Höhlen nahe Hammamet in Tunesien.",
                   "category": "natural",
                   "coords": [
                         10.63059,
@@ -1091,7 +1091,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel International de Hammamet",
-                  "text": "Das International Culture Center of Hammamet ist ein Kunstzentrum, das für sein internationales Festival bekannt ist.",
+                  "text": "Das Internationale Kulturzentrum von Hammamet ist in der Festung der Altstadt untergebracht und beherbergt das Internationale Festival von Hammamet.",
                   "category": "cultural",
                   "coords": [
                         10.594646,
@@ -1100,7 +1100,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue d'un Soldat Martyr",
-                  "text": "Die Statue d'un Soldat Martyr ist ein Denkmal in Hammamet.",
+                  "text": "Marmorstatue eines gefallenen Soldaten auf dem Hauptplatz von Hammamet.",
                   "category": "historical",
                   "coords": [
                         10.630382,
@@ -1109,7 +1109,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre Plein Air de Hammamet",
-                  "text": "Das Théatre Plein Air de Hammamet ist ein kultureller Veranstaltungsort im Freien in Hammamet.",
+                  "text": "Freilichttheater nahe dem Strand von Hammamet mit Blick aufs Meer.",
                   "category": "cultural",
                   "coords": [
                         10.613498,
@@ -1118,7 +1118,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Des Fêtes Boussetta",
-                  "text": "Die Salle Des Fêtes Boussetta ist ein Kunst- und Veranstaltungszentrum in Hammamet.",
+                  "text": "Fest- und Veranstaltungssaal im Stadtzentrum von Hammamet.",
                   "category": "cultural",
                   "coords": [
                         10.628232,
@@ -1138,7 +1138,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club nautique hammamet C.N.H",
-                  "text": "A Club nautique hammamet C.N.H egy vidámpark és szabadidőpark Hammametben.",
+                  "text": "A Club nautique hammamet C.N.H egy kikötő és vitorlás klub Hammametben.",
                   "category": "family",
                   "coords": [
                         10.611369,
@@ -1147,7 +1147,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hammamet Beach",
-                  "text": "A Hammamet Beach egy népszerű homokos tengerpart Hammametben.",
+                  "text": "Homokos strand Hammametben, a Földközi-tenger partján, sekély vízzel.",
                   "category": "recreational",
                   "coords": [
                         10.617679,
@@ -1156,7 +1156,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Jabal Al Hammamat",
-                  "text": "A Jabal Al Hammamat egy kiemelkedő hegycsúcs Hammamet közelében.",
+                  "text": "Egy mészkőhegy barlangokkal Hammamet közelében, Tunéziában.",
                   "category": "natural",
                   "coords": [
                         10.63059,
@@ -1174,7 +1174,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel International de Hammamet",
-                  "text": "A Hammameti Nemzetközi Kulturális Központ egy művészeti központ, amely a város nemzetközi fesztiváljának ad otthont.",
+                  "text": "A Hammameti Nemzetközi Kulturális Központ az óváros erődjében található, és itt rendezik a Hammameti Nemzetközi Fesztivált.",
                   "category": "cultural",
                   "coords": [
                         10.594646,
@@ -1183,7 +1183,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue d'un Soldat Martyr",
-                  "text": "A Statue d'un Soldat Martyr egy emlékmű Hammametben.",
+                  "text": "Márvány katona szobor egy mártír katonáról Hammamet főterén.",
                   "category": "historical",
                   "coords": [
                         10.630382,
@@ -1192,7 +1192,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre Plein Air de Hammamet",
-                  "text": "A Théatre Plein Air de Hammamet egy szabadtéri kulturális művészeti helyszín Hammametben.",
+                  "text": "Szabadtéri színház Hammamet strandja közelében, tengerre néző nézőtérrel.",
                   "category": "cultural",
                   "coords": [
                         10.613498,
@@ -1201,7 +1201,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Des Fêtes Boussetta",
-                  "text": "A Salle Des Fêtes Boussetta egy művészeti és rendezvényközpont Hammametben.",
+                  "text": "Rendezvény- és bálterem Hammamet városközpontjában.",
                   "category": "cultural",
                   "coords": [
                         10.628232,
@@ -1221,7 +1221,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club nautique hammamet C.N.H",
-                  "text": "Club nautique hammamet C.N.H este un parc de distracții și agrement din Hammamet.",
+                  "text": "Club nautique hammamet C.N.H este o marină și un club de navigație în Hammamet.",
                   "category": "family",
                   "coords": [
                         10.611369,
@@ -1230,7 +1230,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hammamet Beach",
-                  "text": "Hammamet Beach este o plajă de nisip populară situată în Hammamet.",
+                  "text": "Plajă nisipoasă pe coasta mediteraneană a Hammametului, cu apă puțin adâncă.",
                   "category": "recreational",
                   "coords": [
                         10.617679,
@@ -1239,7 +1239,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Jabal Al Hammamat",
-                  "text": "Jabal Al Hammamat este un vârf muntos proeminent situat lângă Hammamet.",
+                  "text": "Un munte de calcar cu peșteri lângă Hammamet, Tunisia.",
                   "category": "natural",
                   "coords": [
                         10.63059,
@@ -1257,7 +1257,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel International de Hammamet",
-                  "text": "Centrul Internațional de Cultură din Hammamet este un centru de arte recunoscut pentru găzduirea festivalului internațional al orașului.",
+                  "text": "Centrul Cultural Internațional din Hammamet este găzduit în fortăreața medinei și găzduiește Festivalul Internațional de la Hammamet.",
                   "category": "cultural",
                   "coords": [
                         10.594646,
@@ -1266,7 +1266,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue d'un Soldat Martyr",
-                  "text": "Statue d'un Soldat Martyr este un monument comemorativ situat în Hammamet.",
+                  "text": "Statuie de marmură a unui soldat martir în piața principală din Hammamet.",
                   "category": "historical",
                   "coords": [
                         10.630382,
@@ -1275,7 +1275,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre Plein Air de Hammamet",
-                  "text": "Théatre Plein Air de Hammamet este un loc de artă culturală în aer liber din Hammamet.",
+                  "text": "Teatru în aer liber aproape de plaja din Hammamet, cu vedere la mare.",
                   "category": "cultural",
                   "coords": [
                         10.613498,
@@ -1284,7 +1284,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Des Fêtes Boussetta",
-                  "text": "Salle Des Fêtes Boussetta este un centru de arte și evenimente situat în Hammamet.",
+                  "text": "Sală de festivități în centrul orașului Hammamet.",
                   "category": "cultural",
                   "coords": [
                         10.628232,
@@ -1304,7 +1304,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club nautique hammamet C.N.H",
-                  "text": "Club nautique hammamet C.N.H is an amusement and leisure park in Hammamet.",
+                  "text": "Club nautique hammamet C.N.H is a marina and sailing club in Hammamet.",
                   "category": "family",
                   "coords": [
                         10.611369,
@@ -1313,7 +1313,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hammamet Beach",
-                  "text": "Hammamet Beach is a popular sandy shoreline situated in Hammamet.",
+                  "text": "Sandy beach on the Mediterranean coast of Hammamet with shallow water.",
                   "category": "recreational",
                   "coords": [
                         10.617679,
@@ -1322,7 +1322,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Jabal Al Hammamat",
-                  "text": "Jabal Al Hammamat is a prominent mountain peak located near Hammamet.",
+                  "text": "A limestone mountain with caves near Hammamet, Tunisia.",
                   "category": "natural",
                   "coords": [
                         10.63059,
@@ -1340,7 +1340,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "International Culture Center of Hammamet",
-                  "text": "The International Culture Center of Hammamet is an arts center known for hosting the city's international festival.",
+                  "text": "The International Culture Center of Hammamet is housed in the old medina fortress and hosts the International Festival of Hammamet.",
                   "category": "cultural",
                   "coords": [
                         10.594646,
@@ -1349,7 +1349,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue d'un Soldat Martyr",
-                  "text": "Statue d'un Soldat Martyr is a commemorative monument situated in Hammamet.",
+                  "text": "Marble statue of a martyr soldier on the main square of Hammamet.",
                   "category": "historical",
                   "coords": [
                         10.630382,
@@ -1358,7 +1358,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre Plein Air de Hammamet",
-                  "text": "Théatre Plein Air de Hammamet is an outdoor cultural arts venue in Hammamet.",
+                  "text": "Open-air theatre near Hammamet beach with sea views.",
                   "category": "cultural",
                   "coords": [
                         10.613498,
@@ -1367,7 +1367,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Des Fêtes Boussetta",
-                  "text": "Salle Des Fêtes Boussetta is an arts and events center located in Hammamet.",
+                  "text": "Festival and event hall in the city center of Hammamet.",
                   "category": "cultural",
                   "coords": [
                         10.628232,
@@ -1421,7 +1421,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Leuchtturm Zarzis",
-                  "text": "Ein Leuchtturm, der der Küstenstadt Zarzis dient.",
+                  "text": "Weißer Leuchtturm an der Küste von Zarzis, Wegweiser für Schiffe.",
                   "category": "landmark",
                   "coords": [
                         11.119708,
@@ -1441,7 +1441,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Leuchtturm Zarzis",
-                  "text": "Zarzis kikötővárosát kiszolgáló világítótorony.",
+                  "text": "Fehér világítótorony Zarzis partjainál, hajók irányjelzője.",
                   "category": "landmark",
                   "coords": [
                         11.119708,
@@ -1461,7 +1461,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Leuchtturm Zarzis",
-                  "text": "Un far care deservește orașul de coastă Zarzis.",
+                  "text": "Far alb pe coasta Zarzisului, reper pentru nave.",
                   "category": "landmark",
                   "coords": [
                         11.119708,
@@ -1481,7 +1481,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Leuchtturm Zarzis",
-                  "text": "A lighthouse serving the coastal city of Zarzis.",
+                  "text": "White lighthouse on the coast of Zarzis, guiding ships.",
                   "category": "landmark",
                   "coords": [
                         11.119708,
@@ -1640,7 +1640,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Roman Ruins of Sbeitla",
-                  "text": "Die römischen Ruinen von Sbeitla sind eine bedeutende archäologische Stätte in Sbeitla.",
+                  "text": "Römische Ruinenstadt mit gut erhaltenem Forum und mehreren Tempeln aus dem 2. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         9.118776,
@@ -1694,7 +1694,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle de Jucundus",
-                  "text": "Die Kapelle von Jucundus ist die Ruine eines historischen religiösen Gebäudes in Sbeitla.",
+                  "text": "Kleine Kapelle des Jucundus innerhalb der römischen Ruinen von Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.119609,
@@ -1703,7 +1703,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Citernes",
-                  "text": "Die Citernes sind historische zerstörte Wasserreservoirs in Sbeitla.",
+                  "text": "Römische Zisternen mit gewölbten Kammern nahe dem Forum in Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.120682,
@@ -1730,7 +1730,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église des martyrs",
-                  "text": "Die Kirche der Märtyrer ist eine zerstörte Stätte von historischer religiöser Bedeutung in Sbeitla.",
+                  "text": "Frühchristliche Basilika mit drei Schiffen und Baptisterium in den Ruinen von Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.120741,
@@ -1741,7 +1741,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Roman Ruins of Sbeitla",
-                  "text": "Sbeitla római romjai egy jelentős régészeti lelőhely Sbeitlában.",
+                  "text": "Római romváros jól megőrzött fórummal és több templommal a 2. századból.",
                   "category": "historical",
                   "coords": [
                         9.118776,
@@ -1795,7 +1795,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle de Jucundus",
-                  "text": "A Jucundus-kápolna egy történelmi vallási épület romja Sbeitlában.",
+                  "text": "Jucundus kis kápolnája Sbeitla római romjai között.",
                   "category": "historical",
                   "coords": [
                         9.119609,
@@ -1804,7 +1804,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Citernes",
-                  "text": "A Citernes történelmi romos víztározók Sbeitlában.",
+                  "text": "Római ciszternák boltozott kamrákkal a fórum közelében Sbeitlában.",
                   "category": "historical",
                   "coords": [
                         9.120682,
@@ -1831,7 +1831,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église des martyrs",
-                  "text": "A Mártírok temploma egy történelmi vallási jelentőségű romterület Sbeitlában.",
+                  "text": "Kora keresztény bazilika három hajóval és keresztelőkápolnával Sbeitla romjai között.",
                   "category": "historical",
                   "coords": [
                         9.120741,
@@ -1842,7 +1842,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ruinele romane din Sbeitla",
-                  "text": "Ruinele romane din Sbeitla reprezintă un sit arheologic important din Sbeitla.",
+                  "text": "Oraș roman ruinat cu forum bine păstrat și mai multe temple din secolul al II-lea.",
                   "category": "historical",
                   "coords": [
                         9.118776,
@@ -1896,7 +1896,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle de Jucundus",
-                  "text": "Capela lui Jucundus reprezintă ruinele unei clădiri religioase istorice din Sbeitla.",
+                  "text": "Capela lui Jucundus, situată în ruinele romane din Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.119609,
@@ -1905,7 +1905,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Citernes",
-                  "text": "Cisternele sunt rezervoare istorice de apă în ruină situate în Sbeitla.",
+                  "text": "Cisterna romană cu camere boltite lângă forumul din Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.120682,
@@ -1932,7 +1932,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église des martyrs",
-                  "text": "Biserica Martirilor este un sit în ruină cu importanță istorică religioasă din Sbeitla.",
+                  "text": "Basilică paleocreștină cu trei nave și baptisteriu în ruinele Sbeitlei.",
                   "category": "historical",
                   "coords": [
                         9.120741,
@@ -1943,7 +1943,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roman Ruins of Sbeitla",
-                  "text": "The Roman Ruins of Sbeitla is a significant archaeological site in Sbeitla.",
+                  "text": "Roman ruins with a well-preserved forum and several temples from the 2nd century.",
                   "category": "historical",
                   "coords": [
                         9.118776,
@@ -1997,7 +1997,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chapel of Jucundus",
-                  "text": "The Chapel of Jucundus is the ruins of a historical religious building in Sbeitla.",
+                  "text": "Small chapel of Jucundus within the Roman ruins of Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.119609,
@@ -2006,7 +2006,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Citernes",
-                  "text": "The Citernes are historical ruined water reservoirs located in Sbeitla.",
+                  "text": "Roman cisterns with vaulted chambers near the forum in Sbeitla.",
                   "category": "historical",
                   "coords": [
                         9.120682,
@@ -2033,7 +2033,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Martyrs",
-                  "text": "The Church of the Martyrs is a ruined site of historical religious importance in Sbeitla.",
+                  "text": "Early Christian basilica with three naves and a baptistery within the Sbeitla ruins.",
                   "category": "historical",
                   "coords": [
                         9.120741,
@@ -2144,7 +2144,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Église De Maxula-Rades",
-                  "text": "Die Église De Maxula-Rades ist ein historisches Gotteshaus in Radès.",
+                  "text": "Eine ehemalige katholische Kirche aus der Kolonialzeit in Radès.",
                   "category": "religious",
                   "coords": [
                         10.275582,
@@ -2155,7 +2155,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Église De Maxula-Rades",
-                  "text": "Az Église De Maxula-Rades egy történelmi istentiszteleti hely Radèsben.",
+                  "text": "Egy egykori katolikus templom a gyarmati korból Radèsben.",
                   "category": "religious",
                   "coords": [
                         10.275582,
@@ -2166,7 +2166,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Église De Maxula-Rades",
-                  "text": "Église De Maxula-Rades este un lăcaș de cult istoric situat în Radès.",
+                  "text": "O fostă biserică catolică din perioada colonială în Radès.",
                   "category": "religious",
                   "coords": [
                         10.275582,
@@ -2177,7 +2177,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Église De Maxula-Rades",
-                  "text": "Église De Maxula-Rades is a historical place of worship located in Radès.",
+                  "text": "A former Catholic church from the colonial period in Radès.",
                   "category": "religious",
                   "coords": [
                         10.275582,
@@ -2222,7 +2222,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ḥalq al-Wādī",
-                  "text": "Ein Leuchtturm in der Hafenstadt La Goulette.",
+                  "text": "Kanalmündung, die den Tunissee mit dem Mittelmeer verbindet – historische Einfahrt von La Goulette.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
@@ -2231,7 +2231,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram Beach",
-                  "text": "Ein Sandstrand im Viertel Le Kram.",
+                  "text": "Sandstrand im Vorort Le Kram von Tunis mit Promenade.",
                   "category": "recreational",
                   "coords": [
                         10.31885,
@@ -2240,7 +2240,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Goulette Ship Monument",
-                  "text": "Ein Denkmal in Form eines Schiffes in La Goulette.",
+                  "text": "Schiffsförmiges Denkmal im Hafen von La Goulette, das an die Seefahrt erinnert.",
                   "category": "historical",
                   "coords": [
                         10.295893,
@@ -2249,7 +2249,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Ein bedeutendes Ausstellungs- und Handelszentrum in der Region Tunis.",
+                  "text": "Modernes Ausstellungs- und Messezentrum am Hafen von Le Kram.",
                   "category": "cultural",
                   "coords": [
                         10.301343,
@@ -2258,7 +2258,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Augustin-et-Saint-Fidèle",
-                  "text": "Eine historische katholische Kirche in La Goulette.",
+                  "text": "Die Kirche St. Augustine und St. Fidelis ist eine katholische Kirche aus dem 19. Jahrhundert in La Goulette mit einer Mischung aus maurischen und gotischen Stilen.",
                   "category": "religious",
                   "coords": [
                         10.30161,
@@ -2269,7 +2269,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "La Goulette Lighthouse",
-                  "text": "La Goulette kikötővárosában található világítótorony.",
+                  "text": "Csatorna torkolat, amely a Tuniszi-tavat a Földközi-tengerrel köti össze – La Goulette történelmi bejárata.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
@@ -2278,7 +2278,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram Beach",
-                  "text": "Homokos tengerpart Le Kram negyedében.",
+                  "text": "Homokos strand Tunisz Le Kram külvárosában, sétánnyal.",
                   "category": "recreational",
                   "coords": [
                         10.31885,
@@ -2287,7 +2287,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Goulette Ship Monument",
-                  "text": "Hajó formájú emlékmű La Goulette-ben.",
+                  "text": "Hajó alakú emlékmű La Goulette kikötőjében, a tengeri hajózás emlékére.",
                   "category": "historical",
                   "coords": [
                         10.295893,
@@ -2296,7 +2296,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Jelentős kiállítási és kereskedelmi központ Tunisz környékén.",
+                  "text": "Modern kiállítási és vásárközpont Le Kram kikötőjénél.",
                   "category": "cultural",
                   "coords": [
                         10.301343,
@@ -2305,7 +2305,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Augustin-et-Saint-Fidèle",
-                  "text": "Történelmi katolikus templom La Goulette-ben.",
+                  "text": "A Szent Ágoston és Szent Fidelisz-templom egy 19. századi katolikus templom La Goulette-ben, mór és gótikus stílusok keverékével.",
                   "category": "religious",
                   "coords": [
                         10.30161,
@@ -2316,7 +2316,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "La Goulette Lighthouse",
-                  "text": "Un far situat în orașul-port La Goulette.",
+                  "text": "Gura canalului care leagă Lacul Tunis de Marea Mediterană – intrarea istorică a La Goulette.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
@@ -2325,7 +2325,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram Beach",
-                  "text": "O plajă cu nisip situată în districtul Le Kram.",
+                  "text": "Plajă nisipoasă în suburbia Le Kram a Tunisului, cu promenadă.",
                   "category": "recreational",
                   "coords": [
                         10.31885,
@@ -2334,7 +2334,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Goulette Ship Monument",
-                  "text": "Un monument în formă de navă în La Goulette.",
+                  "text": "Monument în formă de navă în portul La Goulette, amintind de navigația maritimă.",
                   "category": "historical",
                   "coords": [
                         10.295893,
@@ -2343,7 +2343,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Un centru major de expoziții și comerț în zona Tunis.",
+                  "text": "Centru modern de expoziții și târguri lângă portul Le Kram.",
                   "category": "cultural",
                   "coords": [
                         10.301343,
@@ -2352,7 +2352,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Augustin-et-Saint-Fidèle",
-                  "text": "O biserică catolică istorică în La Goulette.",
+                  "text": "Biserica Sf. Augustin și Sf. Fidelis este o biserică catolică din secolul al XIX-lea în La Goulette, cu un amestec de stiluri maure și gotice.",
                   "category": "religious",
                   "coords": [
                         10.30161,
@@ -2363,7 +2363,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ḥalq al-Wādī",
-                  "text": "A lighthouse located in the port town of La Goulette.",
+                  "text": "Canal mouth connecting Lake Tunis to the Mediterranean – the historic entrance of La Goulette.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
@@ -2372,7 +2372,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram Beach",
-                  "text": "A sandy beach located in the Le Kram district.",
+                  "text": "Sandy beach in the Le Kram suburb of Tunis with a promenade.",
                   "category": "recreational",
                   "coords": [
                         10.31885,
@@ -2381,7 +2381,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "The Ship monument",
-                  "text": "A monument shaped like a ship in La Goulette.",
+                  "text": "Ship-shaped monument in the port of La Goulette, commemorating seafaring.",
                   "category": "historical",
                   "coords": [
                         10.295893,
@@ -2390,7 +2390,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "A major exhibition and trade center in the Tunis area.",
+                  "text": "Modern exhibition and trade center near the port of Le Kram.",
                   "category": "cultural",
                   "coords": [
                         10.301343,
@@ -2399,7 +2399,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "St Augustine and St Fidelis Church",
-                  "text": "A historic Catholic church in La Goulette.",
+                  "text": "St Augustine and St Fidelis Church is a 19th-century Catholic church in La Goulette blending Moorish and Gothic styles.",
                   "category": "religious",
                   "coords": [
                         10.30161,
@@ -2891,7 +2891,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mausolée Sidi Ammar",
-                  "text": "Das Mausolée Sidi Ammar dient als lokales Museum in Ksar Hellal.",
+                  "text": "Weiß gekuppeltes Mausoleum des muslimischen Heiligen Sidi Ammar in Hellal.",
                   "category": "museum",
                   "coords": [
                         10.892351,
@@ -2911,7 +2911,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mausolée Sidi Ammar",
-                  "text": "A Mausolée Sidi Ammar helyi múzeumként működik Ksar Hellalban.",
+                  "text": "Fehér kupolás mauzóleum a muszlim szent Sidi Ammar számára Hellalban.",
                   "category": "museum",
                   "coords": [
                         10.892351,
@@ -2931,7 +2931,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mausolée Sidi Ammar",
-                  "text": "Mausolée Sidi Ammar servește ca muzeu local situat în Ksar Hellal.",
+                  "text": "Mausoleu cu cupolă albă al sfântului musulman Sidi Ammar în Hellal.",
                   "category": "museum",
                   "coords": [
                         10.892351,
@@ -2951,7 +2951,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mausolée Sidi Ammar",
-                  "text": "Mausolée Sidi Ammar serves as a local museum situated in Ksar Hellal.",
+                  "text": "White-domed mausoleum of the Muslim saint Sidi Ammar in Hellal.",
                   "category": "museum",
                   "coords": [
                         10.892351,
@@ -3080,7 +3080,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Opéra de Menzel Bourguiba",
-                  "text": "Opéra de Menzel Bourguiba ist ein Kunstzentrum in Menzel Bourguiba.",
+                  "text": "Modernes Opernhaus im Stadtzentrum von Menzel Bourguiba.",
                   "category": "cultural",
                   "coords": [
                         9.793658,
@@ -3089,7 +3089,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Salle Couverte de Menzel-Bourguiba ist ein Kunstzentrum in Menzel Bourguiba.",
+                  "text": "Sporthalle in Menzel-Bourguiba, genutzt für Basketball und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         9.803619,
@@ -3100,7 +3100,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Opéra de Menzel Bourguiba",
-                  "text": "Az Opéra de Menzel Bourguiba egy művészeti központ Menzel Bourguiba városában.",
+                  "text": "Modern operaház Menzel Bourguiba városközpontjában.",
                   "category": "cultural",
                   "coords": [
                         9.793658,
@@ -3109,7 +3109,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "A Salle Couverte de Menzel-Bourguiba egy művészeti központ Menzel Bourguiba városában.",
+                  "text": "Sportcsarnok Menzel-Bourguibában, kosárlabda- és koncerthelyszín.",
                   "category": "cultural",
                   "coords": [
                         9.803619,
@@ -3120,7 +3120,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Opéra de Menzel Bourguiba",
-                  "text": "Opéra de Menzel Bourguiba este un centru de arte în Menzel Bourguiba.",
+                  "text": "Operă modernă în centrul orașului Menzel Bourguiba.",
                   "category": "cultural",
                   "coords": [
                         9.793658,
@@ -3129,7 +3129,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Salle Couverte de Menzel-Bourguiba este un centru de arte în Menzel Bourguiba.",
+                  "text": "Sală sportivă în Menzel-Bourguiba, folosită pentru baschet și concerte.",
                   "category": "cultural",
                   "coords": [
                         9.803619,
@@ -3140,7 +3140,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Opéra de Menzel Bourguiba",
-                  "text": "Opéra de Menzel Bourguiba is an arts centre in Menzel Bourguiba.",
+                  "text": "Modern opera house in the city center of Menzel Bourguiba.",
                   "category": "cultural",
                   "coords": [
                         9.793658,
@@ -3149,7 +3149,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Salle Couverte de Menzel-Bourguiba is an arts centre in Menzel Bourguiba.",
+                  "text": "Indoor sports hall in Menzel-Bourguiba, used for basketball and concerts.",
                   "category": "cultural",
                   "coords": [
                         9.803619,
@@ -3566,7 +3566,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zama Minor",
-                  "text": "Eine antike archäologische Stätte in der Nähe von Makthar.",
+                  "text": "Zama Minor ist eine antike römische Stadtruine bei Makthar mit einem gut erhaltenen Forum und Tempeln.",
                   "category": "historical",
                   "coords": [
                         9.205708,
@@ -3593,7 +3593,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument punique",
-                  "text": "Antike punische Ruinen in Makthar.",
+                  "text": "Ein punisches Grabmonument in der antiken Stadt Makthar.",
                   "category": "historical",
                   "coords": [
                         9.202908,
@@ -3602,7 +3602,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilique d'Hildeguns",
-                  "text": "Ruinen einer frühchristlichen Basilika in Makthar.",
+                  "text": "Ruinen einer byzantinischen Basilika, die dem Heiligen Hildeguns geweiht ist, in Makthar.",
                   "category": "historical",
                   "coords": [
                         9.208084,
@@ -3620,7 +3620,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes du Capitole",
-                  "text": "Überreste römischer Thermen in der Nähe des Kapitols in Makthar.",
+                  "text": "Römische Badeanlage mit Mosaikböden und Kaltwasserbecken auf dem Kapitolshügel von Makthar.",
                   "category": "historical",
                   "coords": [
                         9.205756,
@@ -3629,7 +3629,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Thermes",
-                  "text": "Umfangreiche Ruinen der römischen Thermen in Makthar.",
+                  "text": "Große römische Thermenanlage mit Frigidarium in Makthar.",
                   "category": "historical",
                   "coords": [
                         9.208519,
@@ -3649,7 +3649,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zama Minor",
-                  "text": "Ősi régészeti lelőhely Makthar közelében.",
+                  "text": "Zama Minor egy ókori római városrom Makthar közelében, jól megőrzött fórummal és templomokkal.",
                   "category": "historical",
                   "coords": [
                         9.205708,
@@ -3676,7 +3676,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument punique",
-                  "text": "Ősi pun romok Maktharban.",
+                  "text": "Egy pun temetkezési emlékmű az ókori Maktharban.",
                   "category": "historical",
                   "coords": [
                         9.202908,
@@ -3685,7 +3685,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilique d'Hildeguns",
-                  "text": "Egy kora keresztény bazilika romjai Maktharban.",
+                  "text": "Egy Szent Hildegunnak szentelt bizánci bazilika romjai Maktharban.",
                   "category": "historical",
                   "coords": [
                         9.208084,
@@ -3703,7 +3703,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes du Capitole",
-                  "text": "Római fürdők maradványai a Capitolium közelében Maktharban.",
+                  "text": "Római fürdőkomplexum mozaikpadlóval és hidegvizes medencével Makthar Capitolium-dombján.",
                   "category": "historical",
                   "coords": [
                         9.205756,
@@ -3712,7 +3712,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Thermes",
-                  "text": "A makthari római termálfürdők kiterjedt romjai.",
+                  "text": "Nagy római termálfürdő frigidáriummal Maktharban.",
                   "category": "historical",
                   "coords": [
                         9.208519,
@@ -3732,7 +3732,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zama Minor",
-                  "text": "Un sit arheologic antic situat lângă Makthar.",
+                  "text": "Zama Minor este o ruină a unui oraș roman antic lângă Makthar, cu un forum și temple bine conservate.",
                   "category": "historical",
                   "coords": [
                         9.205708,
@@ -3759,7 +3759,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument punique",
-                  "text": "Ruine punice antice situate în Makthar.",
+                  "text": "Un monument funerar punic în orașul antic Makthar.",
                   "category": "historical",
                   "coords": [
                         9.202908,
@@ -3768,7 +3768,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilique d'Hildeguns",
-                  "text": "Ruinele unei basilici creștine timpurii în Makthar.",
+                  "text": "Ruinele unei bazilici bizantine dedicate Sfântului Hildeguns în Makthar.",
                   "category": "historical",
                   "coords": [
                         9.208084,
@@ -3786,7 +3786,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes du Capitole",
-                  "text": "Rămășițele unor băi romane lângă Capitoliu în Makthar.",
+                  "text": "Complex de băi romane cu podele de mozaic și bazin cu apă rece pe dealul Capitoliului din Makthar.",
                   "category": "historical",
                   "coords": [
                         9.205756,
@@ -3795,7 +3795,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Thermes",
-                  "text": "Ruine extinse ale băilor termale romane din Makthar.",
+                  "text": "Mari terme romane cu frigidarium în Makthar.",
                   "category": "historical",
                   "coords": [
                         9.208519,
@@ -3815,7 +3815,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zama Minor",
-                  "text": "An ancient archaeological site located near Makthar.",
+                  "text": "Zama Minor is an ancient Roman city ruin near Makthar with a well-preserved forum and temples.",
                   "category": "historical",
                   "coords": [
                         9.205708,
@@ -3842,7 +3842,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument punique",
-                  "text": "Ancient Punic ruins located in Makthar.",
+                  "text": "A Punic funerary monument in the ancient city of Makthar.",
                   "category": "historical",
                   "coords": [
                         9.202908,
@@ -3851,7 +3851,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Basilique of Hildeguns",
-                  "text": "Ruins of an early Christian basilica in Makthar.",
+                  "text": "Ruins of a Byzantine basilica dedicated to Saint Hildeguns in Makthar.",
                   "category": "historical",
                   "coords": [
                         9.208084,
@@ -3869,7 +3869,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Capitol Baths",
-                  "text": "Remains of the Roman baths near the Capitol in Makthar.",
+                  "text": "Roman bath complex with mosaic floors and a cold pool on the Capitol hill of Makthar.",
                   "category": "historical",
                   "coords": [
                         9.205756,
@@ -3878,7 +3878,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             },
             {
                   "name": "Large Baths",
-                  "text": "Extensive ruins of the Roman thermal baths in Makthar.",
+                  "text": "Large Roman thermae with a frigidarium in Makthar.",
                   "category": "historical",
                   "coords": [
                         9.208519,
@@ -4016,7 +4016,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Djebbel Kharroub",
-                  "text": "Djebbel Kharroub ist eine Ruinenstätte in Téboursouk.",
+                  "text": "Antike Siedlung auf einem Hügel mit Blick auf die Ebene von Teboursouk.",
                   "category": "historical",
                   "coords": [
                         9.263854,
@@ -4027,7 +4027,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Djebbel Kharroub",
-                  "text": "A Djebbel Kharroub egy romterület Téboursoukban.",
+                  "text": "Ősi település egy dombon, rálátással Teboursouk síkságára.",
                   "category": "historical",
                   "coords": [
                         9.263854,
@@ -4038,7 +4038,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Djebbel Kharroub",
-                  "text": "Djebbel Kharroub este un sit de ruine în Téboursouk.",
+                  "text": "Așezare antică pe o colină cu vedere spre câmpia Teboursouk.",
                   "category": "historical",
                   "coords": [
                         9.263854,
@@ -4049,7 +4049,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Djebbel Kharroub",
-                  "text": "Djebbel Kharroub is a ruins site in Téboursouk.",
+                  "text": "Ancient settlement on a hill overlooking the plain of Teboursouk.",
                   "category": "historical",
                   "coords": [
                         9.263854,

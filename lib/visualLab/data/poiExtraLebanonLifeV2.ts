@@ -3,7 +3,376 @@ import type { POI } from "./poi";
 
 export const poiExtraLebanonLifeV2: POI[] = [
   {
-    id: "al-shouf-cedar-reserve-life-v2",
+    id: "al-shouf-cedar-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barouk Cedar trees",
+                  "text": "Ein ikonischer Hain aus alten Libanon-Zedern im hochgelegenen Biosphärenreservat Schuf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675497,
+                        33.662196
+                  ]
+            },
+            {
+                  "name": "Town Entrance Monument",
+                  "text": "Ein Steindenkmal, das das Tor zur Bergstadt in der Nähe des Schuf-Zedernreservats markiert.",
+                  "category": "historical",
+                  "coords": [
+                        35.733394,
+                        33.644988
+                  ]
+            },
+            {
+                  "name": "The Oak Tree",
+                  "text": "Eine gewaltige, Jahrhunderte alte Eiche, die als natürliches Wahrzeichen und Treffpunkt der Gemeinde in den Bergen dient.",
+                  "category": "historical",
+                  "coords": [
+                        35.720406,
+                        33.638214
+                  ]
+            },
+            {
+                  "name": "Shouf Cedar Biosphere Reserve Limit",
+                  "text": "Die Grenze von Libanons größtem Naturschutzgebiet, das weite Wälder aus alten Libanon-Zedern und eine vielfältige Tierwelt schützt.",
+                  "category": "natural",
+                  "coords": [
+                        35.702701,
+                        33.663708
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine katholische Kirche mit traditioneller libanesischer Bergarhitektur und Panoramablick auf die umliegenden Täler.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703787,
+                        33.620947
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "Eine historische Steinkirche, die dem heiligen Michael geweiht ist und der christlichen Gemeinde im Herzen der Schuf-Region dient.",
+                  "category": "religious",
+                  "coords": [
+                        35.731505,
+                        33.641777
+                  ]
+            },
+            {
+                  "name": "Saturday's Market",
+                  "text": "Ein wöchentlicher Freiluftmarkt, auf dem lokale Bauern Bio-Bergprodukte, Honig und traditionelles Schuf-Handwerk verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.777459,
+                        33.635546
+                  ]
+            },
+            {
+                  "name": "Haddad",
+                  "text": "Ein lokaler, familiengeführter Marktplatz für den täglichen Bedarf und regionale Spezialitäten im malerischen Al-Schuf-Gebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.715883,
+                        33.64057
+                  ]
+            },
+            {
+                  "name": "salloum market",
+                  "text": "Ein belebter lokaler Lebensmittelmarkt mit einer Vielzahl regionaler Produkte und traditioneller Snacks in den Schuf-Bergen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.719002,
+                        33.640824
+                  ]
+            },
+            {
+                  "name": "Azzam",
+                  "text": "Ein Nachbarschaftsmarktplatz, der Haushaltswaren und lokales Berghandwerk für Bewohner und Besucher anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.716313,
+                        33.639536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barouk Cedar trees",
+                  "text": "Ősi libanoni cédrusok ikonikus ligete a magasan fekvő Shouf Bioszféra Rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675497,
+                        33.662196
+                  ]
+            },
+            {
+                  "name": "Town Entrance Monument",
+                  "text": "Kőmonumentum, amely a Shouf Cédrus Rezervátum melletti hegyi város kapuját jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        35.733394,
+                        33.644988
+                  ]
+            },
+            {
+                  "name": "The Oak Tree",
+                  "text": "Hatalmas, több évszázados tölgyfa, amely természetes tájékozódási pontként és közösségi találkozóhelyként szolgál a hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        35.720406,
+                        33.638214
+                  ]
+            },
+            {
+                  "name": "Shouf Cedar Biosphere Reserve Limit",
+                  "text": "Libanon legnagyobb természetvédelmi területének határa, amely ősi libanoni cédruserdőket és változatos vadvilágot védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        35.702701,
+                        33.663708
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Katolikus templom hagyományos libanoni hegyi építészettel és panorámás kilátással a környező völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703787,
+                        33.620947
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "Történelmi kőtemplom, amelyet Szent Mihálynak szenteltek, és a Shouf régió szívében élő keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        35.731505,
+                        33.641777
+                  ]
+            },
+            {
+                  "name": "Saturday's Market",
+                  "text": "Heti szabadtéri piac, ahol a helyi gazdák bio hegyi termékeket, mézet és hagyományos shoufi kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.777459,
+                        33.635546
+                  ]
+            },
+            {
+                  "name": "Haddad",
+                  "text": "Helyi, családi kézben lévő piactér, amely napi szükségleti cikkeket és regionális különlegességeket kínál a festői Al Shouf területén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.715883,
+                        33.64057
+                  ]
+            },
+            {
+                  "name": "salloum market",
+                  "text": "Nyüzsgő helyi élelmiszerpiac regionális termékekkel és hagyományos harapnivalókkal a Shouf-hegységben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.719002,
+                        33.640824
+                  ]
+            },
+            {
+                  "name": "Azzam",
+                  "text": "Környékbeli piactér, amely háztartási cikkeket és helyi hegyi kézműves termékeket kínál a lakóknak és a látogatóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.716313,
+                        33.639536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barouk Cedar trees",
+                  "text": "Un crâng iconic de arbori antici de Cedrus libani, situat în Rezervația Biosferei Shouf, la mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675497,
+                        33.662196
+                  ]
+            },
+            {
+                  "name": "Town Entrance Monument",
+                  "text": "Un monument de piatră care marchează poarta de intrare în orașul montan de lângă Rezervația de Cédri Shouf.",
+                  "category": "historical",
+                  "coords": [
+                        35.733394,
+                        33.644988
+                  ]
+            },
+            {
+                  "name": "The Oak Tree",
+                  "text": "Un stejar masiv, vechi de secole, care servește ca punct de reper natural și loc de întâlnire al comunității în munți.",
+                  "category": "historical",
+                  "coords": [
+                        35.720406,
+                        33.638214
+                  ]
+            },
+            {
+                  "name": "Shouf Cedar Biosphere Reserve Limit",
+                  "text": "Limita celei mai mari rezervații naturale din Liban, care protejează păduri vaste de Cedrus libani antici și o faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        35.702701,
+                        33.663708
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică catolică cu arhitectură tradițională libaneză montană și vedere panoramică spre văile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703787,
+                        33.620947
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "O biserică istorică din piatră dedicată Sfântului Mihail, care deservește comunitatea creștină din inima regiunii Chouf.",
+                  "category": "religious",
+                  "coords": [
+                        35.731505,
+                        33.641777
+                  ]
+            },
+            {
+                  "name": "Saturday's Market",
+                  "text": "O piață săptămânală în aer liber unde fermierii locali vând produse montane organice, miere și obiecte de artizanat tradiționale din Chouf.",
+                  "category": "cultural",
+                  "coords": [
+                        35.777459,
+                        33.635546
+                  ]
+            },
+            {
+                  "name": "Haddad",
+                  "text": "O piață locală administrată de o familie, care oferă produse esențiale zilnice și specialități regionale în zona pitorească Al Shouf.",
+                  "category": "cultural",
+                  "coords": [
+                        35.715883,
+                        33.64057
+                  ]
+            },
+            {
+                  "name": "salloum market",
+                  "text": "O piață locală de alimente plină de viață, care oferă o varietate de produse regionale și gustări tradiționale în munții Al Shouf.",
+                  "category": "cultural",
+                  "coords": [
+                        35.719002,
+                        33.640824
+                  ]
+            },
+            {
+                  "name": "Azzam",
+                  "text": "O piață de cartier care oferă bunuri de uz casnic și obiecte de artizanat montan local rezidenților și vizitatorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        35.716313,
+                        33.639536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barouk Cedar trees",
+                  "text": "An iconic grove of ancient Cedrus libani trees situated within the high-altitude Shouf Biosphere Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675497,
+                        33.662196
+                  ]
+            },
+            {
+                  "name": "Town Entrance Monument",
+                  "text": "A stone monument marking the gateway to the mountain town near the Shouf Cedar Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        35.733394,
+                        33.644988
+                  ]
+            },
+            {
+                  "name": "The Oak Tree",
+                  "text": "A massive, centuries-old oak tree serving as a natural landmark and community gathering spot in the mountains.",
+                  "category": "historical",
+                  "coords": [
+                        35.720406,
+                        33.638214
+                  ]
+            },
+            {
+                  "name": "Shouf Cedar Biosphere Reserve Limit",
+                  "text": "The boundary of Lebanon's largest nature reserve, protecting vast forests of ancient Cedrus libani and diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        35.702701,
+                        33.663708
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A Catholic church featuring traditional Lebanese mountain architecture and scenic views of the surrounding valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703787,
+                        33.620947
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "A historic stone church dedicated to St. Michael, serving the Christian community in the heart of the Chouf region.",
+                  "category": "religious",
+                  "coords": [
+                        35.731505,
+                        33.641777
+                  ]
+            },
+            {
+                  "name": "Saturday's Market",
+                  "text": "A weekly open-air market where local farmers sell organic mountain produce, honey, and traditional Shouf handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        35.777459,
+                        33.635546
+                  ]
+            },
+            {
+                  "name": "Haddad",
+                  "text": "A local family-run marketplace offering daily essentials and regional specialties in the scenic Al Shouf area.",
+                  "category": "cultural",
+                  "coords": [
+                        35.715883,
+                        33.64057
+                  ]
+            },
+            {
+                  "name": "salloum market",
+                  "text": "A bustling local food market providing a variety of regional products and traditional snacks in the Al Shouf mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        35.719002,
+                        33.640824
+                  ]
+            },
+            {
+                  "name": "Azzam",
+                  "text": "A neighborhood marketplace offering household goods and local mountain crafts to residents and visitors.",
+                  "category": "cultural",
+                  "coords": [
+                        35.716313,
+                        33.639536
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "LB-JL",
     coords: [35.70, 33.68],
@@ -39,7 +408,232 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "horsh-ehden-reserve-life-v2",
+    id: "horsh-ehden-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "Ein hoch gelegenes Naturschutzgebiet in Ehden, das einen vielfältigen Bergwald aus Zedern, Tannen und Wacholder schützt.",
+                  "category": "natural",
+                  "coords": [
+                        35.991107,
+                        34.306662
+                  ]
+            },
+            {
+                  "name": "Saydet al Chir",
+                  "text": "Ein christliches Heiligtum, das direkt in die steilen Felsklippen der Bergregion Ehden gebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        35.955246,
+                        34.284234
+                  ]
+            },
+            {
+                  "name": "Saydet al Intiqal",
+                  "text": "Eine christliche Kultstätte in der Gegend von Ehden, die Mariä Himmelfahrt gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.956561,
+                        34.284996
+                  ]
+            },
+            {
+                  "name": "marahem",
+                  "text": "Eine lokale christliche religiöse Stätte, eingebettet in das malerische Naturschutzgebiet von Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.914572,
+                        34.335918
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Ein lokales christliches Heiligtum, das dem Heiligen Elias gewidmet ist und sich inmitten des Naturschutzgebiets von Ehden befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933188,
+                        34.328569
+                  ]
+            },
+            {
+                  "name": "Kloster Mar Sarkis",
+                  "text": "Ein historisches maronitisches christliches Kloster in Ehden, das den frühen römischen Märtyrern der Heiligen Sergius und Bacchus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.982368,
+                        34.289924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "Magaslati természetvédelmi terület Ehdenben, amely a cédrusok, fenyők és borókák változatos hegyvidéki erdejét védi.",
+                  "category": "natural",
+                  "coords": [
+                        35.991107,
+                        34.306662
+                  ]
+            },
+            {
+                  "name": "Saydet al Chir",
+                  "text": "Az ehdeni hegyvidék meredek sziklaszirtjeibe épített keresztény szentély.",
+                  "category": "religious",
+                  "coords": [
+                        35.955246,
+                        34.284234
+                  ]
+            },
+            {
+                  "name": "Saydet al Intiqal",
+                  "text": "Mária mennybevételének szentelt keresztény imahely az ehdeni térségben.",
+                  "category": "religious",
+                  "coords": [
+                        35.956561,
+                        34.284996
+                  ]
+            },
+            {
+                  "name": "marahem",
+                  "text": "A festői ehdeni természetvédelmi területen megbúvó helyi keresztény vallási hely.",
+                  "category": "landmark",
+                  "coords": [
+                        35.914572,
+                        34.335918
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A Szent Illésnek szentelt helyi keresztény szentély az ehdeni természetvédelmi terület közepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933188,
+                        34.328569
+                  ]
+            },
+            {
+                  "name": "Monastère Saint-Serge-et-Saint-Bacchus",
+                  "text": "Egy történelmi maronita keresztény kolostor Ehdenben, amelyet a korai római vértanúknak, Szent Szergiosznak és Bakkhosznak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.982368,
+                        34.289924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "O rezervație naturală de mare altitudine în Ehden, care protejează o pădure montană diversă de cedri, brazi și ienuperi.",
+                  "category": "natural",
+                  "coords": [
+                        35.991107,
+                        34.306662
+                  ]
+            },
+            {
+                  "name": "Saydet al Chir",
+                  "text": "Un sanctuar creștin construit direct în stâncile abrupte ale regiunii muntoase Ehden.",
+                  "category": "religious",
+                  "coords": [
+                        35.955246,
+                        34.284234
+                  ]
+            },
+            {
+                  "name": "Saydet al Intiqal",
+                  "text": "Un lăcaș de cult creștin din zona Ehden dedicat Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        35.956561,
+                        34.284996
+                  ]
+            },
+            {
+                  "name": "marahem",
+                  "text": "Un lăcaș religios creștin local amplasat în rezervația naturală pitorească Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.914572,
+                        34.335918
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Un sanctuar creștin local dedicat Sfântului Ilie, situat în mijlocul rezervației naturale Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933188,
+                        34.328569
+                  ]
+            },
+            {
+                  "name": "Monastère Saint-Serge-et-Saint-Bacchus",
+                  "text": "O mănăstire creștină maronită istorică din Ehden, dedicată primilor martiri romani Sfinții Serghie și Vah.",
+                  "category": "landmark",
+                  "coords": [
+                        35.982368,
+                        34.289924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "A high-altitude nature reserve in Ehden protecting a diverse montane forest of cedars, firs, and junipers.",
+                  "category": "natural",
+                  "coords": [
+                        35.991107,
+                        34.306662
+                  ]
+            },
+            {
+                  "name": "Church of Saint Mary of the Cliff",
+                  "text": "A Christian sanctuary built directly into the steep rocky cliffs of the Ehden mountainous region.",
+                  "category": "religious",
+                  "coords": [
+                        35.955246,
+                        34.284234
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary the Assumption",
+                  "text": "A Christian place of worship in the Ehden area dedicated to the Assumption of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        35.956561,
+                        34.284996
+                  ]
+            },
+            {
+                  "name": "marahem",
+                  "text": "A local Christian religious site nestled within the scenic nature reserve of Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.914572,
+                        34.335918
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A local Christian sanctuary dedicated to Saint Elias, located amidst the nature reserve of Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933188,
+                        34.328569
+                  ]
+            },
+            {
+                  "name": "Monastère Saint-Serge-et-Saint-Bacchus",
+                  "text": "A historic Maronite Christian monastery in Ehden dedicated to the early Roman martyrs Saints Sergius and Bacchus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.982368,
+                        34.289924
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "LB-AS",
     coords: [35.98, 34.30],
@@ -147,7 +741,232 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "jabal-moussa-reserve-life-v2",
+    id: "jabal-moussa-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman stairs",
+                  "text": "Antike Steinstufen, die Teil einer historischen römischen Straße durch das Jabal-Moussa-Reservat sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.771599,
+                        34.052986
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "Ein traditioneller Steinbrunnen, der entlang der Wanderwege im Biosphärenreservat zu finden ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.769905,
+                        34.057347
+                  ]
+            },
+            {
+                  "name": "Hiata Cross",
+                  "text": "Ein großes religiöses Kreuz auf einem Bergrücken, das als markanter Orientierungspunkt dient.",
+                  "category": "religious",
+                  "coords": [
+                        35.721682,
+                        34.029231
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Eine Bergkirche, die dem berühmtesten Heiligen des Libanon gewidmet ist und in der Nähe von Jabal Moussa liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.698805,
+                        34.024132
+                  ]
+            },
+            {
+                  "name": "Sayedat El Daher Church",
+                  "text": "Eine historische Kirche, die für ihre Lage mit weitem Blick über die umliegenden Täler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.704214,
+                        34.035237
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine aus lokalem Stein errichtete Kirche, die eine abgelegene Berggemeinde in der Region Jbeil versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.759774,
+                        34.014564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman stairs",
+                  "text": "Ókori kőlépcsők, amelyek a Jabal Moussa rezervátumon áthaladó történelmi római út részei.",
+                  "category": "historical",
+                  "coords": [
+                        35.771599,
+                        34.052986
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "Hagyományos kőkút, amely a bioszféra-rezervátum túraútvonalai mentén található.",
+                  "category": "historical",
+                  "coords": [
+                        35.769905,
+                        34.057347
+                  ]
+            },
+            {
+                  "name": "Hiata Cross",
+                  "text": "Hatalmas vallási kereszt egy hegygerincen, amely feltűnő tájékozódási pontként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        35.721682,
+                        34.029231
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Libanon leghíresebb szentjének szentelt hegyi templom Jabal Moussa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.698805,
+                        34.024132
+                  ]
+            },
+            {
+                  "name": "Sayedat El Daher Church",
+                  "text": "Történelmi templom, amely a környező völgyekre nyíló tágas kilátást nyújtó fekvéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.704214,
+                        34.035237
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Helyi kőből épült templom, amely egy elszigetelt hegyi közösséget szolgál Jbeil régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.759774,
+                        34.014564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman stairs",
+                  "text": "Trepte de piatră antice, parte a unui drum roman istoric prin rezervația Jabal Moussa.",
+                  "category": "historical",
+                  "coords": [
+                        35.771599,
+                        34.052986
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "O fântână tradițională din piatră găsită de-a lungul traseelor de drumeție din rezervația biosferei.",
+                  "category": "historical",
+                  "coords": [
+                        35.769905,
+                        34.057347
+                  ]
+            },
+            {
+                  "name": "Hiata Cross",
+                  "text": "O cruce religioasă mare pe o creastă montană, servind ca punct de reper proeminent.",
+                  "category": "religious",
+                  "coords": [
+                        35.721682,
+                        34.029231
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "O biserică montană dedicată celui mai faimos sfânt al Libanului, situată lângă Jabal Moussa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.698805,
+                        34.024132
+                  ]
+            },
+            {
+                  "name": "Sayedat El Daher Church",
+                  "text": "O biserică istorică cunoscută pentru poziția sa ce oferă vederi largi asupra văilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.704214,
+                        34.035237
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică construită din piatră locală care deservește o comunitate montană izolată din regiunea Jbeil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.759774,
+                        34.014564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman stairs",
+                  "text": "Ancient stone steps forming part of a historical Roman road through the Jabal Moussa reserve.",
+                  "category": "historical",
+                  "coords": [
+                        35.771599,
+                        34.052986
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "A traditional stone well found along the hiking trails within the biosphere reserve.",
+                  "category": "historical",
+                  "coords": [
+                        35.769905,
+                        34.057347
+                  ]
+            },
+            {
+                  "name": "Hiata Cross",
+                  "text": "A large religious cross on a mountain ridge, serving as a prominent landmark.",
+                  "category": "religious",
+                  "coords": [
+                        35.721682,
+                        34.029231
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "A mountain church dedicated to Lebanon's most famous saint, located near Jabal Moussa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.698805,
+                        34.024132
+                  ]
+            },
+            {
+                  "name": "Sayedat El Daher Church",
+                  "text": "A historic church known for its position offering wide views over the surrounding valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        35.704214,
+                        34.035237
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A church built from local stone serving a remote mountain community in the Jbeil region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.759774,
+                        34.014564
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "LB-JL",
     coords: [35.76, 34.05],
@@ -183,7 +1002,628 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "bekaa-vineyards-life-v2",
+    id: "bekaa-vineyards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lebanese Museum Of The Heart Of The Rock",
+                  "text": "Ein einzigartiges Museum mit Skulpturen und Artefakten, die direkt in den Fels gehauen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        35.865999,
+                        33.866254
+                  ]
+            },
+            {
+                  "name": "chateau chahine",
+                  "text": "Ein steinernes Wohnhaus oder Weingut, das im traditionellen befestigten Stil erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            },
+            {
+                  "name": "Fakhr-al-Din al-Maani Castle",
+                  "text": "Eine Festungsruine aus dem 17. Jahrhundert auf einem Hügel mit Blick auf das Bekaa-Tal.",
+                  "category": "castle",
+                  "coords": [
+                        35.819541,
+                        33.797028
+                  ]
+            },
+            {
+                  "name": "Couvent jesus la vigne",
+                  "text": "Ein friedliches Kloster, umgeben von den berühmten Weinbergen der Bekaa-Ebene.",
+                  "category": "religious",
+                  "coords": [
+                        35.864771,
+                        33.816562
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Eine Gemeindemoschee im landwirtschaftlichen Herzen der Ebene.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861648,
+                        33.832352
+                  ]
+            },
+            {
+                  "name": "Saydit el Ma3onet",
+                  "text": "Eine maronitische Kirche, die Unserer Lieben Frau von der immerwährenden Hilfe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.865082,
+                        33.809216
+                  ]
+            },
+            {
+                  "name": "Masjid Khayr AlNisaa AlHashimi",
+                  "text": "Eine lokale Moschee mit Merkmalen der traditionellen islamischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.86442,
+                        33.807917
+                  ]
+            },
+            {
+                  "name": "st elias taalabaya",
+                  "text": "Eine christliche Kirche, die der Gemeinde in der Stadt Taalabaya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872064,
+                        33.816185
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine christliche Pfarrkirche, die dem Heiligen Georg gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816294,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "St Elias",
+                  "text": "Ein Gotteshaus, das dem Propheten Elias gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.821496,
+                        33.797761
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Church",
+                  "text": "Eine orthodoxe Kirche, die die christliche Gemeinde in der Bekaa-Ebene bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824464,
+                        33.795743
+                  ]
+            },
+            {
+                  "name": "St Emile",
+                  "text": "Eine kleine christliche Kirche in der landwirtschaftlich geprägten Region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.820058,
+                        33.794586
+                  ]
+            },
+            {
+                  "name": "Nasrat Market",
+                  "text": "Ein lokaler Marktplatz, auf dem Einwohner frische Produkte aus der Bekaa kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.862786,
+                        33.815255
+                  ]
+            },
+            {
+                  "name": "Abed badran",
+                  "text": "Ein traditionelles Marktviertel, das nach einer lokalen Persönlichkeit benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        35.871438,
+                        33.818636
+                  ]
+            },
+            {
+                  "name": "coop chtaura",
+                  "text": "Eine bekannte Genossenschaft in Chtaura, berühmt für frisches Labneh und lokale Milchprodukte.",
+                  "category": "cultural",
+                  "coords": [
+                        35.838106,
+                        33.81731
+                  ]
+            },
+            {
+                  "name": "sam market",
+                  "text": "Ein kleineres Handelszentrum für die lokale Bevölkerung in der Ebene.",
+                  "category": "cultural",
+                  "coords": [
+                        35.815984,
+                        33.807207
+                  ]
+            },
+            {
+                  "name": "souk taleta",
+                  "text": "Ein traditioneller Freiluftmarkt, auf dem lokale Bauern ihre Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875564,
+                        33.818837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lebanese Museum Of The Heart Of The Rock",
+                  "text": "Egyedülálló múzeum, amely közvetlenül a sziklába vésett szobrokat és műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.865999,
+                        33.866254
+                  ]
+            },
+            {
+                  "name": "chateau chahine",
+                  "text": "Hagyományos erődített stílusban épült kőház vagy borászat.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            },
+            {
+                  "name": "Fakhr-al-Din al-Maani Castle",
+                  "text": "Egy 17. századi várrom egy dombtetőn, ahonnan kilátás nyílik a Bekaa-völgyre.",
+                  "category": "castle",
+                  "coords": [
+                        35.819541,
+                        33.797028
+                  ]
+            },
+            {
+                  "name": "Couvent jesus la vigne",
+                  "text": "Békés kolostor a Bekaa-völgy híres szőlőültetvényei között.",
+                  "category": "religious",
+                  "coords": [
+                        35.864771,
+                        33.816562
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Közösségi mecset a völgy mezőgazdasági központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861648,
+                        33.832352
+                  ]
+            },
+            {
+                  "name": "Saydit el Ma3onet",
+                  "text": "Maronita templom, amelyet a Segítő Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.865082,
+                        33.809216
+                  ]
+            },
+            {
+                  "name": "Masjid Khayr AlNisaa AlHashimi",
+                  "text": "Helyi mecset hagyományos iszlám építészeti stílusjegyekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.86442,
+                        33.807917
+                  ]
+            },
+            {
+                  "name": "st elias taalabaya",
+                  "text": "Keresztény templom, amely Taalabaya városának közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872064,
+                        33.816185
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Szent Györgynek szentelt keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816294,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "St Elias",
+                  "text": "Illés prófétának szentelt imádkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        35.821496,
+                        33.797761
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Church",
+                  "text": "Ortodox templom, amely a Bekaa-völgy keresztény közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824464,
+                        33.795743
+                  ]
+            },
+            {
+                  "name": "St Emile",
+                  "text": "Kis keresztény templom a mezőgazdasági régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.820058,
+                        33.794586
+                  ]
+            },
+            {
+                  "name": "Nasrat Market",
+                  "text": "Helyi piac, ahol a lakosok friss Bekaa-völgyi termékeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.862786,
+                        33.815255
+                  ]
+            },
+            {
+                  "name": "Abed badran",
+                  "text": "Hagyományos piaci negyed, amelyet egy helyi személyiségről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        35.871438,
+                        33.818636
+                  ]
+            },
+            {
+                  "name": "coop chtaura",
+                  "text": "Egy jól ismert szövetkezet Chtaurában, amely friss labneh-ről és helyi tejtermékekről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        35.838106,
+                        33.81731
+                  ]
+            },
+            {
+                  "name": "sam market",
+                  "text": "Kisebb kereskedelmi központ a helyi lakosság számára a völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.815984,
+                        33.807207
+                  ]
+            },
+            {
+                  "name": "souk taleta",
+                  "text": "Hagyományos szabadtéri piac, ahol a helyi gazdák árulják portékáikat.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875564,
+                        33.818837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lebanese Museum Of The Heart Of The Rock",
+                  "text": "Un muzeu unic care prezintă sculpturi și artefacte sculptate direct în stâncă.",
+                  "category": "museum",
+                  "coords": [
+                        35.865999,
+                        33.866254
+                  ]
+            },
+            {
+                  "name": "chateau chahine",
+                  "text": "O reședință din piatră sau cramă construită în stil tradițional fortificat.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            },
+            {
+                  "name": "Fakhr-al-Din al-Maani Castle",
+                  "text": "O fortăreață în ruine din secolul al XVII-lea, pe un deal cu vedere spre Valea Bekaa.",
+                  "category": "castle",
+                  "coords": [
+                        35.819541,
+                        33.797028
+                  ]
+            },
+            {
+                  "name": "Couvent jesus la vigne",
+                  "text": "O mănăstire liniștită, înconjurată de faimoasele podgorii din Valea Bekaa.",
+                  "category": "religious",
+                  "coords": [
+                        35.864771,
+                        33.816562
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "O moschee comunitară situată în inima agricolă a văii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861648,
+                        33.832352
+                  ]
+            },
+            {
+                  "name": "Saydit el Ma3onet",
+                  "text": "O biserică maronită dedicată Maicii Domnului de Ajutor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.865082,
+                        33.809216
+                  ]
+            },
+            {
+                  "name": "Masjid Khayr AlNisaa AlHashimi",
+                  "text": "O moschee locală cu elemente de arhitectură islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        35.86442,
+                        33.807917
+                  ]
+            },
+            {
+                  "name": "st elias taalabaya",
+                  "text": "O biserică creștină care deservește comunitatea din orașul Taalabaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872064,
+                        33.816185
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "O biserică parohială creștină dedicată Sfântului Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816294,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "St Elias",
+                  "text": "Un lăcaș de cult dedicat Sfântului Proroc Ilie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.821496,
+                        33.797761
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Church",
+                  "text": "O biserică ortodoxă care deservește comunitatea creștină din Valea Bekaa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824464,
+                        33.795743
+                  ]
+            },
+            {
+                  "name": "St Emile",
+                  "text": "O mică biserică creștină situată în regiunea agricolă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.820058,
+                        33.794586
+                  ]
+            },
+            {
+                  "name": "Nasrat Market",
+                  "text": "O piață locală unde locuitorii cumpără produse proaspete din Bekaa.",
+                  "category": "cultural",
+                  "coords": [
+                        35.862786,
+                        33.815255
+                  ]
+            },
+            {
+                  "name": "Abed badran",
+                  "text": "O zonă de piață tradițională, numită după o personalitate locală.",
+                  "category": "cultural",
+                  "coords": [
+                        35.871438,
+                        33.818636
+                  ]
+            },
+            {
+                  "name": "coop chtaura",
+                  "text": "O cooperativă binecunoscută în Chtaura, faimoasă pentru labneh proaspăt și produse lactate locale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.838106,
+                        33.81731
+                  ]
+            },
+            {
+                  "name": "sam market",
+                  "text": "Un centru comercial mai mic pentru populația locală din vale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.815984,
+                        33.807207
+                  ]
+            },
+            {
+                  "name": "souk taleta",
+                  "text": "O piață tradițională în aer liber unde fermierii locali își vând marfa.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875564,
+                        33.818837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lebanese Museum Of The Heart Of The Rock",
+                  "text": "A unique museum featuring sculptures and artifacts carved directly into the rock.",
+                  "category": "museum",
+                  "coords": [
+                        35.865999,
+                        33.866254
+                  ]
+            },
+            {
+                  "name": "chateau chahine",
+                  "text": "A stone residence or winery built in a traditional fortified style.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            },
+            {
+                  "name": "Fakhr-al-Din al-Maani Castle",
+                  "text": "A ruined 17th-century fortress on a hilltop overlooking the Bekaa Valley.",
+                  "category": "castle",
+                  "coords": [
+                        35.819541,
+                        33.797028
+                  ]
+            },
+            {
+                  "name": "Couvent jesus la vigne",
+                  "text": "A peaceful convent surrounded by the famous vineyards of the Bekaa region.",
+                  "category": "religious",
+                  "coords": [
+                        35.864771,
+                        33.816562
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "A community mosque in the agricultural heart of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861648,
+                        33.832352
+                  ]
+            },
+            {
+                  "name": "Saydit el Ma3onet",
+                  "text": "A Maronite church dedicated to Our Lady of Succour.",
+                  "category": "landmark",
+                  "coords": [
+                        35.865082,
+                        33.809216
+                  ]
+            },
+            {
+                  "name": "Masjid Khayr AlNisaa AlHashimi",
+                  "text": "A local mosque with traditional Islamic architectural features.",
+                  "category": "landmark",
+                  "coords": [
+                        35.86442,
+                        33.807917
+                  ]
+            },
+            {
+                  "name": "st elias taalabaya",
+                  "text": "A Christian church serving the community in the town of Taalabaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872064,
+                        33.816185
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A Christian parish church dedicated to Saint George.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816294,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "St Elias",
+                  "text": "A place of worship dedicated to the prophet Elijah.",
+                  "category": "landmark",
+                  "coords": [
+                        35.821496,
+                        33.797761
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Church",
+                  "text": "An Orthodox church serving the Christian community in the Bekaa region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824464,
+                        33.795743
+                  ]
+            },
+            {
+                  "name": "St Emile",
+                  "text": "A small Christian church in the agricultural region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.820058,
+                        33.794586
+                  ]
+            },
+            {
+                  "name": "Nasrat Market",
+                  "text": "A local marketplace where residents buy fresh Bekaa produce.",
+                  "category": "cultural",
+                  "coords": [
+                        35.862786,
+                        33.815255
+                  ]
+            },
+            {
+                  "name": "Abed badran",
+                  "text": "A traditional market area named after a local figure.",
+                  "category": "cultural",
+                  "coords": [
+                        35.871438,
+                        33.818636
+                  ]
+            },
+            {
+                  "name": "coop chtaura",
+                  "text": "A well-known cooperative in Chtaura, famous for fresh labneh and local dairy products.",
+                  "category": "cultural",
+                  "coords": [
+                        35.838106,
+                        33.81731
+                  ]
+            },
+            {
+                  "name": "sam market",
+                  "text": "A smaller commercial center for the local population in the valley.",
+                  "category": "cultural",
+                  "coords": [
+                        35.815984,
+                        33.807207
+                  ]
+            },
+            {
+                  "name": "souk taleta",
+                  "text": "A traditional open-air market where local farmers sell their wares.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875564,
+                        33.818837
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LB-BI",
     coords: [35.88, 33.83],
@@ -219,7 +1659,52 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "tannourine-cedar-life-v2",
+    id: "tannourine-cedar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tannourine Cedars Forest Nature Reserve",
+                  "text": "Ein geschütztes bergiges Naturschutzgebiet, das für seinen dichten und alten Libanonzedernwald bei Tannourine bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.930192,
+                        34.20764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tannourine Cedars Forest Nature Reserve",
+                  "text": "Védett hegyvidéki természetvédelmi terület, amely sűrű és ősi libanoni cédruserdejéről ismert Tannourine közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.930192,
+                        34.20764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tannourine Cedars Forest Nature Reserve",
+                  "text": "O rezervație naturală montană protejată, cunoscută pentru pădurea sa deasă și străveche de cedri libanezi de lângă Tannourine.",
+                  "category": "natural",
+                  "coords": [
+                        35.930192,
+                        34.20764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tannourine Cedars Forest Nature Reserve",
+                  "text": "A protected mountainous nature reserve near Tannourine known for its dense and ancient Lebanese cedar forest.",
+                  "category": "natural",
+                  "coords": [
+                        35.930192,
+                        34.20764
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "LB-AS",
     coords: [35.93, 34.21],
@@ -291,7 +1776,160 @@ export const poiExtraLebanonLifeV2: POI[] = [
     },
   },
   {
-    id: "bentael-reserve-life-v2",
+    id: "bentael-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castel Mare Beach Hotel & Resort",
+                  "text": "Ein Hotel am Wasser in Jbeil mit Pools und weitem Blick auf das Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631693,
+                        34.17877
+                  ]
+            },
+            {
+                  "name": "Abandoned Maronite village",
+                  "text": "Steinruinen einer verlassenen maronitischen Siedlung im Naturschutzgebiet Bentael.",
+                  "category": "historical",
+                  "coords": [
+                        35.670011,
+                        34.160423
+                  ]
+            },
+            {
+                  "name": "Bentael Natur Reserve",
+                  "text": "Das älteste Naturschutzgebiet des Libanon mit Wanderwegen durch Eichen- und Pinienwälder.",
+                  "category": "natural",
+                  "coords": [
+                        35.700793,
+                        34.138944
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "Eine christliche Kirche am Rande des waldreichen Bentael-Naturreservats.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663197,
+                        34.13918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castel Mare Beach Hotel & Resort",
+                  "text": "Vízparti szálloda Jbeilben medencékkel és pazar kilátással a Földközi-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631693,
+                        34.17877
+                  ]
+            },
+            {
+                  "name": "Abandoned Maronite village",
+                  "text": "Egy elhagyatott maronita település kőromjai a Bentael Természetvédelmi Területen belül.",
+                  "category": "historical",
+                  "coords": [
+                        35.670011,
+                        34.160423
+                  ]
+            },
+            {
+                  "name": "Bentael Natur Reserve",
+                  "text": "Libanon legrégebbi természetvédelmi területe, tölgy- és fenyőerdőkön átvezető túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        35.700793,
+                        34.138944
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "Keresztény templom a sűrű erdővel borított Bentael Természetvédelmi Terület szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663197,
+                        34.13918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castel Mare Beach Hotel & Resort",
+                  "text": "Un hotel la malul mării în Jbeil, cu piscine și vedere spre Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631693,
+                        34.17877
+                  ]
+            },
+            {
+                  "name": "Abandoned Maronite village",
+                  "text": "Ruinele din piatră ale unei așezări maronite părăsite în cadrul Rezervației Naturale Bentael.",
+                  "category": "historical",
+                  "coords": [
+                        35.670011,
+                        34.160423
+                  ]
+            },
+            {
+                  "name": "Bentael Natur Reserve",
+                  "text": "Cea mai veche rezervație naturală din Liban, cu trasee de drumeție prin păduri de stejar și pin.",
+                  "category": "natural",
+                  "coords": [
+                        35.700793,
+                        34.138944
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "O biserică creștină situată la marginea rezervației naturale împădurite Bentael.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663197,
+                        34.13918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castel Mare Beach Hotel & Resort",
+                  "text": "A waterfront hotel in the Jbeil area featuring swimming pools and views of the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631693,
+                        34.17877
+                  ]
+            },
+            {
+                  "name": "Abandoned Maronite village",
+                  "text": "The stone ruins of a deserted Maronite settlement located within the Bentael Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        35.670011,
+                        34.160423
+                  ]
+            },
+            {
+                  "name": "Bentael Natur Reserve",
+                  "text": "Lebanon's oldest nature reserve, offering hiking trails through lush oak and pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        35.700793,
+                        34.138944
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "A Christian church situated on the edge of the forested Bentael Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663197,
+                        34.13918
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "LB-JL",
     coords: [35.67, 34.13],
@@ -327,7 +1965,808 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "rene-moawad-garden-life-v2",
+    id: "rene-moawad-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masdjid Djamil",
+                  "text": "Eine Moschee mit traditionellem Mauerwerk, die eine ruhige Gebetsstätte nahe dem Rene-Moawad-Garten bietet.",
+                  "category": "museum",
+                  "coords": [
+                        35.489173,
+                        33.894339
+                  ]
+            },
+            {
+                  "name": "Bbeit Amir",
+                  "text": "Ein Kulturzentrum, das in einem sorgfältig restaurierten libanesischen Haus aus der osmanischen Ära untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        35.490204,
+                        33.89682
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of the American University of Beirut",
+                  "text": "Das 1868 gegründete Museum auf dem AUB-Campus ist eines der ältesten archäologischen Museen im Nahen Osten.",
+                  "category": "museum",
+                  "coords": [
+                        35.483632,
+                        33.899488
+                  ]
+            },
+            {
+                  "name": "AUB Beach Resort",
+                  "text": "Ein exklusiver Strandclub der Universität mit direktem Zugang zum Mittelmeer und mehreren Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        35.481895,
+                        33.903274
+                  ]
+            },
+            {
+                  "name": "Metro Al Madina",
+                  "text": "Ein alternativer Veranstaltungsort im Untergrund von Hamra, bekannt für Kabarett und experimentelles Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        35.485599,
+                        33.895461
+                  ]
+            },
+            {
+                  "name": "AUB Byblos Bank Art Gallery",
+                  "text": "Eine zeitgenössische Kunstgalerie der AUB, die Ausstellungen lokaler und internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.481326,
+                        33.899568
+                  ]
+            },
+            {
+                  "name": "Ammache Mosque",
+                  "text": "Diese vom Architekten Nabil Tabbara entworfene Moschee besticht durch ihre moderne, geometrische Linienführung.",
+                  "category": "religious",
+                  "coords": [
+                        35.483627,
+                        33.892845
+                  ]
+            },
+            {
+                  "name": "Théâtre Piccadilly",
+                  "text": "Ein legendäres Theater in Hamra, das einst ein glanzvolles Zentrum für internationale Konzerte und Stücke war.",
+                  "category": "cultural",
+                  "coords": [
+                        35.483695,
+                        33.89503
+                  ]
+            },
+            {
+                  "name": "Art on Spears",
+                  "text": "Eine moderne Kunstgalerie in der Spears Street, die innovative Werke in einem urbanen Umfeld präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        35.493631,
+                        33.894801
+                  ]
+            },
+            {
+                  "name": "Qasr Bechara el-Khouri",
+                  "text": "Die verlassene Villa von Bechara el-Khouri, dem ersten Präsidenten des Libanon, ist ein Juwel der Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496397,
+                        33.889489
+                  ]
+            },
+            {
+                  "name": "Ancienne Résidence de Charles de Gaulle",
+                  "text": "In diesem historischen Gebäude residierte General Charles de Gaulle während seiner Aufenthalte in Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493453,
+                        33.887606
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Eine evangelische Kirche in Ras Beirut, die für ihre aktive Gemeindearbeit und Gottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481728,
+                        33.894366
+                  ]
+            },
+            {
+                  "name": "Adler",
+                  "text": "Ein Gebetshaus im historischen Viertel, das an die vielfältige religiöse Geschichte der Gegend erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        35.491485,
+                        33.894439
+                  ]
+            },
+            {
+                  "name": "Église Nationale Évangélique",
+                  "text": "Die Nationale Evangelische Kirche ist die älteste arabischsprachige protestantische Gemeinde der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.896859
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Eine katholische Kirche, die zur Gemeinschaft der Rosenkranzschwestern gehört und eine Schule umfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487358,
+                        33.896255
+                  ]
+            },
+            {
+                  "name": "Al Farooq",
+                  "text": "Eine große Moschee in Zokak el-Blat, bekannt für ihr soziales Engagement und ihr markantes Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490226,
+                        33.888698
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Eine Kirche, die dem heiligen Charbel gewidmet ist, dem meistverehrten maronitischen Heiligen des Libanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48883,
+                        33.88028
+                  ]
+            },
+            {
+                  "name": "Aisha Bakkar Mosque",
+                  "text": "Diese Moschee ist berühmt für ihre avantgardistische Architektur und ihr einzigartiges, modernes Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487228,
+                        33.88888
+                  ]
+            },
+            {
+                  "name": "Al Kassar",
+                  "text": "Eine lokale Moschee im Stadtteil Kassar, die als wichtiger Treffpunkt für die muslimische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.889291
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Diese Mar-Elias-Kirche ist ein klassisches Beispiel für die traditionelle libanesische Steinbauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48691,
+                        33.877706
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Eine schlichte und elegante Moschee, die nach dem Frieden benannt ist und nahe der Sanayeh-Gärten liegt.",
+                  "category": "religious",
+                  "coords": [
+                        35.485255,
+                        33.882778
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein lebhafter Straßenmarkt, auf dem Einheimische frisches Obst, Gemüse und traditionelle Waren kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.487726,
+                        33.880109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masdjid Djamil",
+                  "text": "Hagyományos falazatú mecset, amely nyugodt imádkozóhelyet kínál a Rene Moawad kert közelében.",
+                  "category": "museum",
+                  "coords": [
+                        35.489173,
+                        33.894339
+                  ]
+            },
+            {
+                  "name": "Bbeit Amir",
+                  "text": "Kulturális központ, amely egy gondosan felújított, oszmán kori libanoni házban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        35.490204,
+                        33.89682
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of the American University of Beirut",
+                  "text": "Az 1868-ban alapított múzeum az AUB kampuszán a Közel-Kelet egyik legrégebbi régészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        35.483632,
+                        33.899488
+                  ]
+            },
+            {
+                  "name": "AUB Beach Resort",
+                  "text": "Az egyetem exkluzív strandklubja közvetlen kijárattal a Földközi-tengerhez és több úszómedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        35.481895,
+                        33.903274
+                  ]
+            },
+            {
+                  "name": "Metro Al Madina",
+                  "text": "Alternatív földalatti helyszín Hamrában, amely kabaréiról és kísérleti színházáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.485599,
+                        33.895461
+                  ]
+            },
+            {
+                  "name": "AUB Byblos Bank Art Gallery",
+                  "text": "Az AUB kortárs művészeti galériája, ahol helyi és nemzetközi művészek kiállításait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        35.481326,
+                        33.899568
+                  ]
+            },
+            {
+                  "name": "Ammache Mosque",
+                  "text": "Ez a Nabil Tabbara építész által tervezett mecset modern, geometrikus vonalaival hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "coords": [
+                        35.483627,
+                        33.892845
+                  ]
+            },
+            {
+                  "name": "Théâtre Piccadilly",
+                  "text": "Legendás színház Hamrában, amely egykor a nemzetközi koncertek és színdarabok ragyogó központja volt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.483695,
+                        33.89503
+                  ]
+            },
+            {
+                  "name": "Art on Spears",
+                  "text": "Modern művészeti galéria a Spears utcában, amely innovatív műveket mutat be városi környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        35.493631,
+                        33.894801
+                  ]
+            },
+            {
+                  "name": "Qasr Bechara el-Khouri",
+                  "text": "Bechara el-Khouri, Libanon első elnökének elhagyatott villája az építészet egyik gyöngyszeme.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496397,
+                        33.889489
+                  ]
+            },
+            {
+                  "name": "Ancienne Résidence de Charles de Gaulle",
+                  "text": "Ebben a történelmi épületben lakott Charles de Gaulle tábornok bejrúti tartózkodásai alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493453,
+                        33.887606
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Evangéliumi templom Ras Bejrútban, amely aktív közösségi munkájáról és istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481728,
+                        33.894366
+                  ]
+            },
+            {
+                  "name": "Adler",
+                  "text": "Imaház a történelmi negyedben, amely a környék sokszínű vallási múltjára emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        35.491485,
+                        33.894439
+                  ]
+            },
+            {
+                  "name": "Église Nationale Évangélique",
+                  "text": "A Nemzeti Evangéliumi Templom a régió legrégebbi arab nyelvű protestáns gyülekezete.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.896859
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "A Rózsafüzér Nővérek közösségéhez tartozó katolikus templom, amelyhez egy iskola is tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487358,
+                        33.896255
+                  ]
+            },
+            {
+                  "name": "Al Farooq",
+                  "text": "Nagy mecset Zokak el-Blatban, amely szociális elkötelezettségéről és jellegzetes minaretjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490226,
+                        33.888698
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Szent Charbelnek, Libanon legtiszteltebb maronita szentjének szentelt templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48883,
+                        33.88028
+                  ]
+            },
+            {
+                  "name": "Aisha Bakkar Mosque",
+                  "text": "Ez a mecset avantgárd építészetéről és egyedülálló, modern minaretjéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487228,
+                        33.88888
+                  ]
+            },
+            {
+                  "name": "Al Kassar",
+                  "text": "Helyi mecset a Kassar negyedben, amely a muszlim közösség fontos találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.889291
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Ez a Mar Elias-templom a hagyományos libanoni kőépítészet klasszikus példája.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48691,
+                        33.877706
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Egyszerű és elegáns mecset, amelyet a békéről neveztek el, és a Sanayeh-kertek közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        35.485255,
+                        33.882778
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Nyüzsgő utcai piac, ahol a helyiek friss gyümölcsöt, zöldséget és hagyományos árukat vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.487726,
+                        33.880109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masdjid Djamil",
+                  "text": "O moschee cu zidărie tradițională, oferind un loc de rugăciune liniștit lângă Grădina Rene Moawad.",
+                  "category": "museum",
+                  "coords": [
+                        35.489173,
+                        33.894339
+                  ]
+            },
+            {
+                  "name": "Bbeit Amir",
+                  "text": "Un centru cultural găzduit într-o casă libaneză din epoca otomană, restaurată cu grijă.",
+                  "category": "museum",
+                  "coords": [
+                        35.490204,
+                        33.89682
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of the American University of Beirut",
+                  "text": "Fondat în 1868, acest muzeu din campusul AUB este unul dintre cele mai vechi muzee arheologice din Orientul Mijlociu.",
+                  "category": "museum",
+                  "coords": [
+                        35.483632,
+                        33.899488
+                  ]
+            },
+            {
+                  "name": "AUB Beach Resort",
+                  "text": "Un club de plajă exclusiv al universității, cu acces direct la Marea Mediterană și mai multe piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        35.481895,
+                        33.903274
+                  ]
+            },
+            {
+                  "name": "Metro Al Madina",
+                  "text": "O locație subterană alternativă în Hamra, cunoscută pentru cabaret și teatru experimental.",
+                  "category": "cultural",
+                  "coords": [
+                        35.485599,
+                        33.895461
+                  ]
+            },
+            {
+                  "name": "AUB Byblos Bank Art Gallery",
+                  "text": "O galerie de artă contemporană a AUB, care prezintă expoziții ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        35.481326,
+                        33.899568
+                  ]
+            },
+            {
+                  "name": "Ammache Mosque",
+                  "text": "Această moschee proiectată de arhitectul Nabil Tabbara impresionează prin liniile sale geometrice moderne.",
+                  "category": "religious",
+                  "coords": [
+                        35.483627,
+                        33.892845
+                  ]
+            },
+            {
+                  "name": "Théâtre Piccadilly",
+                  "text": "Un teatru legendar din Hamra, care a fost odată un centru strălucitor pentru concerte și piese internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.483695,
+                        33.89503
+                  ]
+            },
+            {
+                  "name": "Art on Spears",
+                  "text": "O galerie de artă modernă de pe strada Spears, care prezintă lucrări inovatoare într-un cadru urban.",
+                  "category": "museum",
+                  "coords": [
+                        35.493631,
+                        33.894801
+                  ]
+            },
+            {
+                  "name": "Qasr Bechara el-Khouri",
+                  "text": "Vila abandonată a lui Bechara el-Khouri, primul președinte al Libanului, este o bijuterie arhitecturală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496397,
+                        33.889489
+                  ]
+            },
+            {
+                  "name": "Ancienne Résidence de Charles de Gaulle",
+                  "text": "În această clădire istorică a locuit generalul Charles de Gaulle în timpul șederilor sale la Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493453,
+                        33.887606
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "O biserică evanghelică din Ras Beirut, cunoscută pentru activitatea sa comunitară și serviciile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481728,
+                        33.894366
+                  ]
+            },
+            {
+                  "name": "Adler",
+                  "text": "O casă de rugăciune din cartierul istoric, care amintește de istoria religioasă diversă a zonei.",
+                  "category": "religious",
+                  "coords": [
+                        35.491485,
+                        33.894439
+                  ]
+            },
+            {
+                  "name": "Église Nationale Évangélique",
+                  "text": "Biserica Națională Evanghelică este cea mai veche comunitate protestantă de limbă arabă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.896859
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "O biserică catolică aparținând comunității Surorilor Rozariului, care include și o școală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487358,
+                        33.896255
+                  ]
+            },
+            {
+                  "name": "Al Farooq",
+                  "text": "O moschee mare din Zokak el-Blat, cunoscută pentru implicarea sa socială și minaretul său distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490226,
+                        33.888698
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "O biserică dedicată Sfântului Charbel, cel mai venerat sfânt maronit din Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48883,
+                        33.88028
+                  ]
+            },
+            {
+                  "name": "Aisha Bakkar Mosque",
+                  "text": "Această moschee este celebră pentru arhitectura sa avangardistă și minaretul său modern unic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487228,
+                        33.88888
+                  ]
+            },
+            {
+                  "name": "Al Kassar",
+                  "text": "O moschee locală din cartierul Kassar, servind ca loc de întâlnire important pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.889291
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Această biserică Mar Elias este un exemplu clasic al construcției tradiționale libaneze din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48691,
+                        33.877706
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "O moschee simplă și elegantă, numită după pace, situată lângă Grădinile Sanayeh.",
+                  "category": "religious",
+                  "coords": [
+                        35.485255,
+                        33.882778
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață stradală plină de viață, unde localnicii cumpără fructe proaspete, legume și mărfuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.487726,
+                        33.880109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masdjid Djamil",
+                  "text": "A mosque with traditional masonry, offering a peaceful place of prayer near the Rene Moawad Garden.",
+                  "category": "museum",
+                  "coords": [
+                        35.489173,
+                        33.894339
+                  ]
+            },
+            {
+                  "name": "Bbeit Amir",
+                  "text": "A cultural center housed in a meticulously restored Ottoman-era Lebanese house.",
+                  "category": "museum",
+                  "coords": [
+                        35.490204,
+                        33.89682
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of the American University of Beirut",
+                  "text": "Founded in 1868, this museum on the AUB campus is one of the oldest archaeological museums in the Middle East.",
+                  "category": "museum",
+                  "coords": [
+                        35.483632,
+                        33.899488
+                  ]
+            },
+            {
+                  "name": "AUB Beach Resort",
+                  "text": "An exclusive university beach club with direct Mediterranean access and multiple swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.481895,
+                        33.903274
+                  ]
+            },
+            {
+                  "name": "Metro Al Madina",
+                  "text": "An alternative underground venue in Hamra, famous for its cabaret and experimental theater.",
+                  "category": "cultural",
+                  "coords": [
+                        35.485599,
+                        33.895461
+                  ]
+            },
+            {
+                  "name": "AUB Byblos Bank Art Gallery",
+                  "text": "A contemporary art gallery at AUB hosting exhibitions by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        35.481326,
+                        33.899568
+                  ]
+            },
+            {
+                  "name": "Ammache Mosque",
+                  "text": "Designed by architect Nabil Tabbara, this mosque features striking modern geometric lines.",
+                  "category": "religious",
+                  "coords": [
+                        35.483627,
+                        33.892845
+                  ]
+            },
+            {
+                  "name": "Piccadilly Theatre",
+                  "text": "A legendary theater in Hamra that was once a glamorous hub for international concerts and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        35.483695,
+                        33.89503
+                  ]
+            },
+            {
+                  "name": "Art on Spears",
+                  "text": "A modern art gallery on Spears Street presenting innovative works in an urban setting.",
+                  "category": "museum",
+                  "coords": [
+                        35.493631,
+                        33.894801
+                  ]
+            },
+            {
+                  "name": "Qasr Bechara el-Khouri abandoned mansion",
+                  "text": "The abandoned mansion of Bechara el-Khouri, Lebanon's first president, is an architectural gem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496397,
+                        33.889489
+                  ]
+            },
+            {
+                  "name": "Old Residence of Charles de Gaule",
+                  "text": "General Charles de Gaulle resided in this historic building during his stays in Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493453,
+                        33.887606
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "An evangelical church in Ras Beirut known for its active community work and services.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481728,
+                        33.894366
+                  ]
+            },
+            {
+                  "name": "Adler",
+                  "text": "A place of worship in the historic quarter, reflecting the area's diverse religious history.",
+                  "category": "religious",
+                  "coords": [
+                        35.491485,
+                        33.894439
+                  ]
+            },
+            {
+                  "name": "Église Nationale Évangélique",
+                  "text": "The National Evangelical Church is the oldest Arabic-speaking Protestant congregation in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.896859
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "A Catholic church belonging to the Rosary Sisters community, including a school complex.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487358,
+                        33.896255
+                  ]
+            },
+            {
+                  "name": "Al Farooq",
+                  "text": "A large mosque in Zokak el-Blat, known for its social services and prominent minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490226,
+                        33.888698
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "A church dedicated to Saint Charbel, Lebanon's most revered Maronite hermit saint.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48883,
+                        33.88028
+                  ]
+            },
+            {
+                  "name": "Aisha Bakkar Mosque",
+                  "text": "This mosque is famous for its avant-garde architecture and unique modern minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487228,
+                        33.88888
+                  ]
+            },
+            {
+                  "name": "Al Kassar",
+                  "text": "A local mosque in the Kassar district serving as an important gathering place for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486195,
+                        33.889291
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "This Mar Elias church is a classic example of traditional Lebanese stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.48691,
+                        33.877706
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "A simple and elegant mosque named after peace, located near the Sanayeh Gardens.",
+                  "category": "religious",
+                  "coords": [
+                        35.485255,
+                        33.882778
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A bustling street market where locals buy fresh fruit, vegetables, and traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        35.487726,
+                        33.880109
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LB-BA",
     coords: [35.49, 33.89],
@@ -363,7 +2802,700 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "horsh-beirut-life-v2",
+    id: "horsh-beirut-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "No-Saffé-Land",
+                  "text": "Ein Erholungsbereich in der Nähe von Horsh Beirut, der Raum für Freizeitaktivitäten im Freien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501543,
+                        33.880959
+                  ]
+            },
+            {
+                  "name": "Fantasy World - Kids",
+                  "text": "Ein familienfreundlicher Freizeitpark in Beirut mit verschiedenen Fahrgeschäften und Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        35.49494,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Elissar",
+                  "text": "Eine lokale Sehenswürdigkeit im Viertel Horsh Beirut, die für ihre kulturelle oder unterhaltende Bedeutung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505028,
+                        33.85386
+                  ]
+            },
+            {
+                  "name": "Jnah Stone Monument",
+                  "text": "Ein steinernes Denkmal im Jnah-Viertel von Beirut, das an ein bedeutendes lokales Ereignis erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        35.486399,
+                        33.864987
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Diese Moschee ist ein markantes religiöses Gebäude im Stadtteil Horsh Beirut mit einer großen Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500394,
+                        33.871591
+                  ]
+            },
+            {
+                  "name": "Mausoleum of martyr Sayyed Hassan Nasrallah",
+                  "text": "Ein bedeutender muslimischer Gedenkort im südlichen Beirut, der als Mausoleum für Sayyed Hassan Nasrallah dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.495913,
+                        33.845818
+                  ]
+            },
+            {
+                  "name": "Kurdish Mosque",
+                  "text": "Diese Moschee in Beirut dient der kurdischen Gemeinde als religiöses und soziales Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        35.496751,
+                        33.8553
+                  ]
+            },
+            {
+                  "name": "Al Hassanein Mosque",
+                  "text": "Die Al-Hassanein-Moschee ist ein wichtiges schiitisches Gotteshaus im Vorort Haret Hreik in Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50615,
+                        33.85414
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine dem Heiligen Josef geweihte christliche Kirche, die einen ruhigen Ort für Gebete inmitten des Stadtlebens bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506617,
+                        33.852015
+                  ]
+            },
+            {
+                  "name": "Al Furkan Mosque",
+                  "text": "Diese Moschee in Beirut ist bekannt für ihre engagierte Gemeinde und ihre Rolle bei lokalen religiösen Festen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501331,
+                        33.848796
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Die St.-Michael-Kirche ist ein christliches Gotteshaus mit einer markanten Architektur in der Nähe von Horsh Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5188,
+                        33.858063
+                  ]
+            },
+            {
+                  "name": "Al Qaem Mosque",
+                  "text": "Die Al-Qaem-Moschee ist ein großes religiöses Zentrum in den südlichen Vororten von Beirut, bekannt für ihre weite Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518174,
+                        33.848363
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "Diese dem Imam Sadiq gewidmete Moschee ist ein wichtiger Treffpunkt für religiöse Unterweisung und Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        35.507259,
+                        33.865796
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdul Aziz Mosque",
+                  "text": "Ein muslimisches Gotteshaus in Beirut, das nach dem Kalifen Omar Bin Abdul Aziz benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50136,
+                        33.875003
+                  ]
+            },
+            {
+                  "name": "Abdul Nasser Mosque",
+                  "text": "Die Abdul-Nasser-Moschee ist ein markantes Bauwerk in Beirut, das durch sein klassisches Minarett auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500069,
+                        33.878144
+                  ]
+            },
+            {
+                  "name": "Al-Khashokji Mosque",
+                  "text": "Diese große Moschee am Rande von Horsh Beirut besticht durch ihren osmanischen Stil und ihre zentrale Lage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506718,
+                        33.869308
+                  ]
+            },
+            {
+                  "name": "Matar Mosque",
+                  "text": "Eine muslimische Gebetsstätte in Beirut, die als lokaler Versammlungsort für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50444,
+                        33.862597
+                  ]
+            },
+            {
+                  "name": "Boubes Mosque",
+                  "text": "Diese Moschee in Beirut ist ein geschätzter Ort der Ruhe und des Glaubens für die umliegenden Bewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486748,
+                        33.876457
+                  ]
+            },
+            {
+                  "name": "MM2",
+                  "text": "Ein lokaler Marktplatz in der Nähe von Horsh Beirut, der für seine frischen Lebensmittel und lebendige Atmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        35.517412,
+                        33.856346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "No-Saffé-Land",
+                  "text": "Kikapcsolódási terület a Horsh Beirut közelében, amely helyet biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501543,
+                        33.880959
+                  ]
+            },
+            {
+                  "name": "Fantasy World - Kids",
+                  "text": "Családbarát vidámpark Bejrútban, különféle játékokkal és látványosságokkal a gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        35.49494,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Elissar",
+                  "text": "Helyi látnivaló a Horsh Beirut negyedben, amely kulturális vagy szórakoztató értékéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505028,
+                        33.85386
+                  ]
+            },
+            {
+                  "name": "Jnah Stone Monument",
+                  "text": "Kőemlékmű Bejrút Jnah negyedében, amely egy jelentős helyi eseménynek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        35.486399,
+                        33.864987
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Ez a mecset a Horsh Beirut negyed egyik jellegzetes vallási épülete, tágas imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500394,
+                        33.871591
+                  ]
+            },
+            {
+                  "name": "Mausoleum of martyr Sayyed Hassan Nasrallah",
+                  "text": "Jelentős muszlim emlékhely Bejrút déli részén, amely Sayyed Hassan Nasrallah mauzóleumaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.495913,
+                        33.845818
+                  ]
+            },
+            {
+                  "name": "Kurdish Mosque",
+                  "text": "Ez a bejrúti mecset a kurd közösség vallási és társadalmi központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        35.496751,
+                        33.8553
+                  ]
+            },
+            {
+                  "name": "Al Hassanein Mosque",
+                  "text": "Az Al-Hassanein mecset egy fontos síita imaház Bejrút Haret Hreik negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50615,
+                        33.85414
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Szent Józsefnek szentelt keresztény templom, amely a városi forgatagban kínál csendes helyet az imádsághoz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506617,
+                        33.852015
+                  ]
+            },
+            {
+                  "name": "Al Furkan Mosque",
+                  "text": "Ez a bejrúti mecset elkötelezett közösségéről és a helyi vallási ünnepekben betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501331,
+                        33.848796
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "A Szent Mihály-templom egy jellegzetes építészetű keresztény imaház a Horsh Beirut közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5188,
+                        33.858063
+                  ]
+            },
+            {
+                  "name": "Al Qaem Mosque",
+                  "text": "Az Al-Qaem mecset egy nagy vallási központ Bejrút déli külvárosában, amely hatalmas kupolájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518174,
+                        33.848363
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "Ez az Imám Szadiknak szentelt mecset a vallási oktatás és az imádságok fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.507259,
+                        33.865796
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdul Aziz Mosque",
+                  "text": "Bejrúti muszlim imaház, amelyet Omar Bin Abdul Aziz kalifáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50136,
+                        33.875003
+                  ]
+            },
+            {
+                  "name": "Abdul Nasser Mosque",
+                  "text": "Az Abdul Nasszer mecset Bejrút egyik jellegzetes épülete, amely klasszikus minaretjével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500069,
+                        33.878144
+                  ]
+            },
+            {
+                  "name": "Al-Khashokji Mosque",
+                  "text": "Ez a Horsh Beirut szélén található nagy mecset oszmán stílusával és központi elhelyezkedésével nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506718,
+                        33.869308
+                  ]
+            },
+            {
+                  "name": "Matar Mosque",
+                  "text": "Bejrúti muszlim imaház, amely a napi imádságok helyi gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50444,
+                        33.862597
+                  ]
+            },
+            {
+                  "name": "Boubes Mosque",
+                  "text": "Ez a bejrúti mecset a környék lakói számára a nyugalom és a hit megbecsült helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486748,
+                        33.876457
+                  ]
+            },
+            {
+                  "name": "MM2",
+                  "text": "Helyi piac a Horsh Beirut közelében, amely friss élelmiszereiről és élénk hangulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.517412,
+                        33.856346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "No-Saffé-Land",
+                  "text": "O zonă de recreere situată lângă Horsh Beirut, oferind spațiu pentru activități de petrecere a timpului liber în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501543,
+                        33.880959
+                  ]
+            },
+            {
+                  "name": "Fantasy World - Kids",
+                  "text": "Un parc de distracții pentru familii din Beirut, cu diverse carusele și atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.49494,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Elissar",
+                  "text": "O atracție locală din cartierul Horsh Beirut, cunoscută pentru importanța sa culturală sau de divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505028,
+                        33.85386
+                  ]
+            },
+            {
+                  "name": "Jnah Stone Monument",
+                  "text": "Un monument de piatră în cartierul Jnah din Beirut, ridicat pentru a comemora un eveniment local semnificativ.",
+                  "category": "historical",
+                  "coords": [
+                        35.486399,
+                        33.864987
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Această moschee este o clădire religioasă proeminentă din cartierul Horsh Beirut, având o sală mare de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500394,
+                        33.871591
+                  ]
+            },
+            {
+                  "name": "Mausoleum of martyr Sayyed Hassan Nasrallah",
+                  "text": "Un loc de comemorare musulman important din sudul Beirutului, servind drept mausoleu pentru Sayyed Hassan Nasrallah.",
+                  "category": "landmark",
+                  "coords": [
+                        35.495913,
+                        33.845818
+                  ]
+            },
+            {
+                  "name": "Kurdish Mosque",
+                  "text": "Această moschee din Beirut servește comunității kurde drept centru religios și social.",
+                  "category": "religious",
+                  "coords": [
+                        35.496751,
+                        33.8553
+                  ]
+            },
+            {
+                  "name": "Al Hassanein Mosque",
+                  "text": "Moscheea Al Hassanein este un lăcaș de cult șiit important din cartierul Haret Hreik din Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50615,
+                        33.85414
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică creștină închinată Sfântului Iosif, oferind un spațiu liniștit pentru rugăciune în mijlocul vieții urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506617,
+                        33.852015
+                  ]
+            },
+            {
+                  "name": "Al Furkan Mosque",
+                  "text": "Această moschee din Beirut este cunoscută pentru comunitatea sa activă și rolul în festivalurile religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501331,
+                        33.848796
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Biserica Sfântul Mihail este un lăcaș de cult creștin cu o arhitectură distinctivă, situată lângă Horsh Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5188,
+                        33.858063
+                  ]
+            },
+            {
+                  "name": "Al Qaem Mosque",
+                  "text": "Moscheea Al Qaem este un centru religios mare din suburbiile sudice ale Beirutului, cunoscută pentru cupola sa vastă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518174,
+                        33.848363
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "Această moschee dedicată lui Imam Sadiq este un punct de întâlnire important pentru educație religioasă și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.507259,
+                        33.865796
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdul Aziz Mosque",
+                  "text": "Un lăcaș de cult musulman din Beirut, numit după califul Omar Bin Abdul Aziz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50136,
+                        33.875003
+                  ]
+            },
+            {
+                  "name": "Abdul Nasser Mosque",
+                  "text": "Moscheea Abdul Nasser este o structură proeminentă în Beirut, remarcându-se prin minaretul său clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500069,
+                        33.878144
+                  ]
+            },
+            {
+                  "name": "Al-Khashokji Mosque",
+                  "text": "Această moschee mare de la marginea Horsh Beirut impresionează prin stilul său otoman și locația centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506718,
+                        33.869308
+                  ]
+            },
+            {
+                  "name": "Matar Mosque",
+                  "text": "Un lăcaș de cult musulman din Beirut, care servește ca loc de adunare locală pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50444,
+                        33.862597
+                  ]
+            },
+            {
+                  "name": "Boubes Mosque",
+                  "text": "Această moschee din Beirut este un loc de liniște și credință apreciat de locuitorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486748,
+                        33.876457
+                  ]
+            },
+            {
+                  "name": "MM2",
+                  "text": "O piață locală lângă Horsh Beirut, cunoscută pentru produsele alimentare proaspete și atmosfera plină de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        35.517412,
+                        33.856346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "No-Saffé-Land",
+                  "text": "A recreational area near Horsh Beirut providing space for outdoor leisure activities and relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501543,
+                        33.880959
+                  ]
+            },
+            {
+                  "name": "Fantasy World - Kids",
+                  "text": "A family-friendly theme park in Beirut featuring various rides and attractions designed for children.",
+                  "category": "recreational",
+                  "coords": [
+                        35.49494,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Elissar",
+                  "text": "A local attraction in the Horsh Beirut neighborhood known for its cultural or entertainment significance.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505028,
+                        33.85386
+                  ]
+            },
+            {
+                  "name": "Jnah Stone Monument",
+                  "text": "A stone monument in the Jnah district of Beirut, commemorating a significant local event or figure.",
+                  "category": "historical",
+                  "coords": [
+                        35.486399,
+                        33.864987
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "This mosque is a prominent religious building in the Horsh Beirut area, featuring a large prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500394,
+                        33.871591
+                  ]
+            },
+            {
+                  "name": "Mausoleum of martyr Sayyed Hassan Nasrallah",
+                  "text": "A significant Muslim commemorative site in southern Beirut, serving as the mausoleum for Sayyed Hassan Nasrallah.",
+                  "category": "landmark",
+                  "coords": [
+                        35.495913,
+                        33.845818
+                  ]
+            },
+            {
+                  "name": "Kurdish Mosque",
+                  "text": "This mosque in Beirut serves the Kurdish community as a vital religious and social gathering place.",
+                  "category": "religious",
+                  "coords": [
+                        35.496751,
+                        33.8553
+                  ]
+            },
+            {
+                  "name": "Al Hassanein Mosque",
+                  "text": "Al Hassanein Mosque is a major Shia house of worship located in the Haret Hreik suburb of Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50615,
+                        33.85414
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A Christian church dedicated to Saint Joseph, providing a quiet space for prayer amidst the urban bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506617,
+                        33.852015
+                  ]
+            },
+            {
+                  "name": "Al Furkan Mosque",
+                  "text": "This mosque in Beirut is known for its active community and its role in local religious observances.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501331,
+                        33.848796
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "St. Michael Church is a Christian house of worship featuring distinctive architecture near Horsh Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5188,
+                        33.858063
+                  ]
+            },
+            {
+                  "name": "Al Qaem Mosque",
+                  "text": "Al Qaem Mosque is a large religious center in Beirut's southern suburbs, known for its expansive dome.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518174,
+                        33.848363
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "This mosque dedicated to Imam Sadiq is a key venue for religious instruction and community prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.507259,
+                        33.865796
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdul Aziz Mosque",
+                  "text": "A Muslim house of worship in Beirut named after the Caliph Omar Bin Abdul Aziz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50136,
+                        33.875003
+                  ]
+            },
+            {
+                  "name": "Abdul Nasser Mosque",
+                  "text": "Abdul Nasser Mosque is a prominent structure in Beirut, distinguished by its classical minaret design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500069,
+                        33.878144
+                  ]
+            },
+            {
+                  "name": "Al-Khashokji Mosque",
+                  "text": "This large mosque on the edge of Horsh Beirut features an Ottoman-style design and a central location.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506718,
+                        33.869308
+                  ]
+            },
+            {
+                  "name": "Matar Mosque",
+                  "text": "A Muslim place of worship in Beirut serving as a local gathering spot for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.50444,
+                        33.862597
+                  ]
+            },
+            {
+                  "name": "Boubes Mosque",
+                  "text": "This mosque in Beirut is a valued place of quietude and faith for the surrounding residents.",
+                  "category": "landmark",
+                  "coords": [
+                        35.486748,
+                        33.876457
+                  ]
+            },
+            {
+                  "name": "MM2",
+                  "text": "A local marketplace near Horsh Beirut known for its fresh food products and vibrant atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        35.517412,
+                        33.856346
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LB-BA",
     coords: [35.50, 33.87],
@@ -399,7 +3531,160 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "animal-city-lebanon-life-v2",
+    id: "animal-city-lebanon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pelicans",
+                  "text": "Im Tierpark Animal City können Besucher diese imposanten Wasservögel in ihrem speziell angelegten Gehege beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.623751,
+                        33.945058
+                  ]
+            },
+            {
+                  "name": "HAENSEL MEMORIAL",
+                  "text": "Dieses Denkmal innerhalb von Animal City erinnert an bedeutende Persönlichkeiten oder Ereignisse in der Geschichte des Parks.",
+                  "category": "historical",
+                  "coords": [
+                        35.615284,
+                        33.925874
+                  ]
+            },
+            {
+                  "name": "Rio Lento",
+                  "text": "Dieser beliebte Wasserpark im Zouk Mosbeh Tal bietet zahlreiche Rutschen und Pools für Familienunterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609609,
+                        33.946262
+                  ]
+            },
+            {
+                  "name": "NDU Chapel",
+                  "text": "Die moderne Kapelle auf dem Campus der Notre Dame University-Louaize ist ein architektonisch interessanter Ort der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        35.612207,
+                        33.949832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelicans",
+                  "text": "Az Animal City állatparkban a látogatók speciálisan kialakított kifutójukban figyelhetik meg ezeket az impozáns vízimadarakat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.623751,
+                        33.945058
+                  ]
+            },
+            {
+                  "name": "HAENSEL MEMORIAL",
+                  "text": "Ez az Animal City területén található emlékmű a park történetének jelentős személyiségeire vagy eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        35.615284,
+                        33.925874
+                  ]
+            },
+            {
+                  "name": "Rio Lento",
+                  "text": "Ez a népszerű vízipark a Zouk Mosbeh-völgyben számos csúszdát és medencét kínál a családok kikapcsolódására.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609609,
+                        33.946262
+                  ]
+            },
+            {
+                  "name": "NDU Chapel",
+                  "text": "A Notre Dame University-Louaize kampuszán található modern kápolna építészetileg is érdekes, csendes helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        35.612207,
+                        33.949832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pelicans",
+                  "text": "În parcul Animal City, vizitatorii pot observa aceste păsări de apă impunătoare în habitatul lor special amenajat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.623751,
+                        33.945058
+                  ]
+            },
+            {
+                  "name": "HAENSEL MEMORIAL",
+                  "text": "Acest monument din cadrul Animal City comemorează figuri sau evenimente importante din istoria parcului.",
+                  "category": "historical",
+                  "coords": [
+                        35.615284,
+                        33.925874
+                  ]
+            },
+            {
+                  "name": "Rio Lento",
+                  "text": "Acest parc acvatic popular din valea Zouk Mosbeh oferă numeroase tobogane și piscine pentru distracția întregii familii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609609,
+                        33.946262
+                  ]
+            },
+            {
+                  "name": "NDU Chapel",
+                  "text": "Capela modernă de pe campusul Universității Notre Dame-Louaize este un loc liniștit, interesant din punct de vedere arhitectural.",
+                  "category": "religious",
+                  "coords": [
+                        35.612207,
+                        33.949832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pelicans",
+                  "text": "Visitors to Animal City can observe these large water birds within their specially designed aquatic enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        35.623751,
+                        33.945058
+                  ]
+            },
+            {
+                  "name": "HAENSEL MEMORIAL",
+                  "text": "Located within the grounds of Animal City, this memorial commemorates significant figures or events related to the park.",
+                  "category": "historical",
+                  "coords": [
+                        35.615284,
+                        33.925874
+                  ]
+            },
+            {
+                  "name": "Rio Lento",
+                  "text": "A popular water park in the Zouk Mosbeh valley featuring numerous slides and pools for family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609609,
+                        33.946262
+                  ]
+            },
+            {
+                  "name": "NDU Chapel",
+                  "text": "The modern chapel on the Notre Dame University-Louaize campus is an architecturally unique space for quiet prayer.",
+                  "category": "religious",
+                  "coords": [
+                        35.612207,
+                        33.949832
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "LB-JL",
     coords: [35.61, 33.95],
@@ -435,7 +3720,1312 @@ export const poiExtraLebanonLifeV2: POI[] = [
     },
   },
   {
-    id: "waves-aqua-park-life-v2",
+    id: "waves-aqua-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seidenmuseum",
+                  "text": "Eine restaurierte Seidenfabrik aus dem 19. Jahrhundert mit üppigen Terrassengärten.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "Hope for Peace",
+                  "text": "Ein 30 Meter hohes Monument aus Panzern und Militärfahrzeugen, die in Beton eingegossen sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.557756,
+                        33.839711
+                  ]
+            },
+            {
+                  "name": "Elie Gharzouzi Castle",
+                  "text": "Ein privates Wohnhaus, das einer mittelalterlichen Festung mit Steintürmen nachempfunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        35.545161,
+                        33.84729
+                  ]
+            },
+            {
+                  "name": "Römischer Tempel",
+                  "text": "Antike Kalksteinruinen eines Heiligtums, das bis in die römische Zeit zurückreicht.",
+                  "category": "historical",
+                  "coords": [
+                        35.597858,
+                        33.855826
+                  ]
+            },
+            {
+                  "name": "Théatre Jean-Paul II",
+                  "text": "Ein modernes Auditorium, das für Bildungs- und Kulturaufführungen in Jamhour genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584715,
+                        33.859176
+                  ]
+            },
+            {
+                  "name": "Théatre Vert",
+                  "text": "Ein von viel Grün umgebenes Freilichttheater, das für Sommerveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        35.585717,
+                        33.85976
+                  ]
+            },
+            {
+                  "name": "Salle F. Bernard Sudres",
+                  "text": "Ein Veranstaltungsort für kulturellen Austausch und lokales Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577895,
+                        33.865048
+                  ]
+            },
+            {
+                  "name": "Auditorium du Mont La Salle",
+                  "text": "Ein großes Auditorium innerhalb des Mont-La-Salle-Komplexes für regionale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576988,
+                        33.865348
+                  ]
+            },
+            {
+                  "name": "Église Mar Elias",
+                  "text": "Traditionelle maronitische Kirche in den bewaldeten Hügeln der Region.",
+                  "category": "religious",
+                  "coords": [
+                        35.570437,
+                        33.808406
+                  ]
+            },
+            {
+                  "name": "Arcangel Raffael convent",
+                  "text": "Ein ruhiges religiöses Kloster, das für seine friedliche und meditative Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.589441,
+                        33.863571
+                  ]
+            },
+            {
+                  "name": "Saint Claire",
+                  "text": "Kloster der Armen Klarissen, ein Ort des stillen Gebets und der Kontemplation.",
+                  "category": "religious",
+                  "coords": [
+                        35.557225,
+                        33.835703
+                  ]
+            },
+            {
+                  "name": "Saint Micheal's Church",
+                  "text": "Diese christliche Kirche in den Hügeln dient der örtlichen Gemeinde als Ort der Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        35.566814,
+                        33.821251
+                  ]
+            },
+            {
+                  "name": "santa theresa",
+                  "text": "Ein lokaler Marktplatz in der Nachbarschaft, der frische Lebensmittel und Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577596,
+                        33.855955
+                  ]
+            },
+            {
+                  "name": "h market",
+                  "text": "Ein kleiner Handelsplatz, der als bequemer Anlaufpunkt für die Bewohner der Umgebung dient.",
+                  "category": "cultural",
+                  "coords": [
+                        35.579295,
+                        33.852968
+                  ]
+            },
+            {
+                  "name": "Prime Pictures",
+                  "text": "Dieser lokale Laden in der Nähe des Wasserparks bietet spezialisierte Waren und Dienstleistungen an.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545545,
+                        33.843343
+                  ]
+            },
+            {
+                  "name": "Tony Chicken",
+                  "text": "Ein Marktplatz mit Schwerpunkt auf Geflügel und Lebensmitteln für die lokale Bevölkerung.",
+                  "category": "cultural",
+                  "coords": [
+                        35.55925,
+                        33.81215
+                  ]
+            },
+            {
+                  "name": "mbarak",
+                  "text": "Dieser traditionelle Nachbarschaftsmarkt ist eine wichtige Anlaufstelle für den täglichen Einkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531593,
+                        33.833124
+                  ]
+            },
+            {
+                  "name": "Baaklineh",
+                  "text": "Ein lokaler Lebensmittelpunkt, der die Bewohner mit frischen Waren in der Hügelregion versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530376,
+                        33.836761
+                  ]
+            },
+            {
+                  "name": "the village",
+                  "text": "Dieses kleine Handelszentrum bildet einen gemeinschaftlichen Treffpunkt für Besorgungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.532711,
+                        33.835045
+                  ]
+            },
+            {
+                  "name": "saadeh",
+                  "text": "Ein inhabergeführter Markt, der für seine Auswahl an lokalen Spezialitäten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533853,
+                        33.833756
+                  ]
+            },
+            {
+                  "name": "naim",
+                  "text": "Dieser verkehrsgünstig gelegene Laden deckt den Grundbedarf der umliegenden Siedlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533526,
+                        33.83059
+                  ]
+            },
+            {
+                  "name": "abou ghazali",
+                  "text": "Ein kleiner Familienmarkt, der seit Generationen die lokale Nachbarschaft bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534525,
+                        33.829934
+                  ]
+            },
+            {
+                  "name": "Keyrouz",
+                  "text": "Dieses Lebensmittelgeschäft in den Hügeln bietet eine weite Aussicht und frische Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537738,
+                        33.83055
+                  ]
+            },
+            {
+                  "name": "Smaha",
+                  "text": "Ein lokaler Handelsplatz, der für seine freundliche Atmosphäre und frischen Produkte geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537949,
+                        33.829419
+                  ]
+            },
+            {
+                  "name": "Diana",
+                  "text": "Dieser Laden bietet eine Vielzahl an Haushaltswaren und Lebensmitteln für die Vorstädter.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534911,
+                        33.848876
+                  ]
+            },
+            {
+                  "name": "Marché Hanna",
+                  "text": "Ein traditioneller Marktplatz, der eine authentische Auswahl an regionalen Lebensmitteln bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.544894,
+                        33.824468
+                  ]
+            },
+            {
+                  "name": "Abi Nader",
+                  "text": "Ein familiengeführter Lebensmittelladen, der die Gemeinde mit täglichen Vorräten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545523,
+                        33.825489
+                  ]
+            },
+            {
+                  "name": "farid helo",
+                  "text": "Dieser Marktplatz in der Nähe der Hauptstraße ist ein wichtiger Stopp für lokale Einkäufe.",
+                  "category": "cultural",
+                  "coords": [
+                        35.543397,
+                        33.833324
+                  ]
+            },
+            {
+                  "name": "honein",
+                  "text": "Ein kommerzieller Punkt in der Nachbarschaft, der die Bewohner mit wichtigen Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537249,
+                        33.83342
+                  ]
+            },
+            {
+                  "name": "gaby karam",
+                  "text": "Dieser Laden in Familienbesitz bietet eine persönliche Beratung und frische Obstwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534637,
+                        33.838616
+                  ]
+            },
+            {
+                  "name": "diab market",
+                  "text": "Ein lokales Lebensmittelzentrum, das als zentraler Marktplatz für die Hügelsiedlung fungiert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531821,
+                        33.840574
+                  ]
+            },
+            {
+                  "name": "karam",
+                  "text": "Ein Marktplatz mit einer Auswahl an Grundnahrungsmitteln für die nähere Umgebung.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531837,
+                        33.844691
+                  ]
+            },
+            {
+                  "name": "Karout Shoping",
+                  "text": "Ein größeres Einkaufsgeschäft, das eine breite Palette an Haushalts- und Konsumgütern abdeckt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.52139,
+                        33.8494
+                  ]
+            },
+            {
+                  "name": "anatir zbeyde",
+                  "text": "Diese antiken Ruinen zeigen beeindruckende römische Steinbögen, die einst ein Tal überspannten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556781,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Aqueducs Romains de Zoubayda",
+                  "text": "Ein monumentales römisches Aquädukt, das die Ingenieurskunst der Antike im Flusstal veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557683,
+                        33.850135
+                  ]
+            },
+            {
+                  "name": "Église Al Sayde",
+                  "text": "Eine christliche Gebetsstätte, die friedlich am Hang über der Küstenebene liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562294,
+                        33.811914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silk Museum",
+                  "text": "19. századi selyemgyár épületében berendezett múzeum buja teraszos kertekkel.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "Hope for Peace",
+                  "text": "30 méter magas emlékmű betonba ágyazott harckocsikból és katonai járművekből.",
+                  "category": "historical",
+                  "coords": [
+                        35.557756,
+                        33.839711
+                  ]
+            },
+            {
+                  "name": "Elie Gharzouzi Castle",
+                  "text": "Középkori erődítményre emlékeztető magánrezidencia kőtornyokkal és bástyákkal.",
+                  "category": "castle",
+                  "coords": [
+                        35.545161,
+                        33.84729
+                  ]
+            },
+            {
+                  "name": "Temple Romain",
+                  "text": "Egy szentély ókori mészkőromjai, amelyek a római korig nyúlnak vissza.",
+                  "category": "historical",
+                  "coords": [
+                        35.597858,
+                        33.855826
+                  ]
+            },
+            {
+                  "name": "Théatre Jean-Paul II",
+                  "text": "Modern auditorium Jamhourban, amelyet oktatási és kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584715,
+                        33.859176
+                  ]
+            },
+            {
+                  "name": "Théatre Vert",
+                  "text": "Zöldövezettel körülvett szabadtéri színház, amelyet nyári eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.585717,
+                        33.85976
+                  ]
+            },
+            {
+                  "name": "Salle F. Bernard Sudres",
+                  "text": "Kulturális csereprogramoknak és helyi színházi produkcióknak helyet adó előadótér.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577895,
+                        33.865048
+                  ]
+            },
+            {
+                  "name": "Auditorium du Mont La Salle",
+                  "text": "A Mont La Salle komplexum nagy előadóterme regionális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576988,
+                        33.865348
+                  ]
+            },
+            {
+                  "name": "Église Mar Elias",
+                  "text": "Hagyományos maronita templom a régió erdős dombjai között.",
+                  "category": "religious",
+                  "coords": [
+                        35.570437,
+                        33.808406
+                  ]
+            },
+            {
+                  "name": "Arcangel Raffael convent",
+                  "text": "Csendes kolostor, amely békés és meditatív légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        35.589441,
+                        33.863571
+                  ]
+            },
+            {
+                  "name": "Saint Claire",
+                  "text": "Szent Klára-rendi kolostor, a csendes ima és az elmélkedés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        35.557225,
+                        33.835703
+                  ]
+            },
+            {
+                  "name": "Saint Micheal's Church",
+                  "text": "Ez a domboldalon fekvő keresztény templom a helyi közösség hitéleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        35.566814,
+                        33.821251
+                  ]
+            },
+            {
+                  "name": "santa theresa",
+                  "text": "Helyi piaci helyszín a környéken, amely friss élelmiszereket és napi szükségleti cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577596,
+                        33.855955
+                  ]
+            },
+            {
+                  "name": "h market",
+                  "text": "Kisméretű kereskedelmi pont, amely kényelmes bevásárlási lehetőséget nyújt a környéken lakóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.579295,
+                        33.852968
+                  ]
+            },
+            {
+                  "name": "Prime Pictures",
+                  "text": "Ez a vízipark közelében található helyi üzlet specializált árukat és szolgáltatásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545545,
+                        33.843343
+                  ]
+            },
+            {
+                  "name": "Tony Chicken",
+                  "text": "Baromfihúsra és élelmiszerekre szakosodott piaci helyszín a helyi lakosság számára.",
+                  "category": "cultural",
+                  "coords": [
+                        35.55925,
+                        33.81215
+                  ]
+            },
+            {
+                  "name": "mbarak",
+                  "text": "Ez a hagyományos környékbeli piac a napi bevásárlások fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531593,
+                        33.833124
+                  ]
+            },
+            {
+                  "name": "Baaklineh",
+                  "text": "Helyi élelmiszerpont, amely friss árukkal látja el a domvidéki terület lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530376,
+                        33.836761
+                  ]
+            },
+            {
+                  "name": "the village",
+                  "text": "Ez a kis kereskedelmi központ közösségi találkozóhelyként szolgál a bevásárlásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        35.532711,
+                        33.835045
+                  ]
+            },
+            {
+                  "name": "saadeh",
+                  "text": "Tulajdonos által vezetett üzlet, amely helyi különlegességek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533853,
+                        33.833756
+                  ]
+            },
+            {
+                  "name": "naim",
+                  "text": "Ez a kedvező fekvésű üzlet a környező települések alapvető szükségleteit elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533526,
+                        33.83059
+                  ]
+            },
+            {
+                  "name": "abou ghazali",
+                  "text": "Kisméretű családi piac, amely generációk óta szolgálja a helyi szomszédságot.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534525,
+                        33.829934
+                  ]
+            },
+            {
+                  "name": "Keyrouz",
+                  "text": "Ez a domboldali élelmiszerüzlet szép kilátást és friss árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537738,
+                        33.83055
+                  ]
+            },
+            {
+                  "name": "Smaha",
+                  "text": "Helyi kereskedelmi helyszín, amelyet barátságos légköre és friss termékei miatt kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537949,
+                        33.829419
+                  ]
+            },
+            {
+                  "name": "Diana",
+                  "text": "Ez az üzlet számos háztartási cikket és élelmiszert kínál az elővárosban lakóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534911,
+                        33.848876
+                  ]
+            },
+            {
+                  "name": "Marché Hanna",
+                  "text": "Hagyományos piactér, amely a regionális élelmiszerek hiteles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        35.544894,
+                        33.824468
+                  ]
+            },
+            {
+                  "name": "Abi Nader",
+                  "text": "Családi élelmiszerbolt, amely napi készletekkel látja el a közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545523,
+                        33.825489
+                  ]
+            },
+            {
+                  "name": "farid helo",
+                  "text": "Ez a főút közelében található piactér a helyi bevásárlások fontos állomása.",
+                  "category": "cultural",
+                  "coords": [
+                        35.543397,
+                        33.833324
+                  ]
+            },
+            {
+                  "name": "honein",
+                  "text": "Környékbeli kereskedelmi pont, amely alapvető élelmiszerkészleteket biztosít a lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537249,
+                        33.83342
+                  ]
+            },
+            {
+                  "name": "gaby karam",
+                  "text": "Ez a családi tulajdonú üzlet személyes kiszolgálást és friss gyümölcsöket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534637,
+                        33.838616
+                  ]
+            },
+            {
+                  "name": "diab market",
+                  "text": "Helyi élelmiszerközpont, amely a domboldali település központi piacaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531821,
+                        33.840574
+                  ]
+            },
+            {
+                  "name": "karam",
+                  "text": "Alapvető élelmiszereket kínáló piaci helyszín a közvetlen környezet számára.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531837,
+                        33.844691
+                  ]
+            },
+            {
+                  "name": "Karout Shoping",
+                  "text": "Nagyobb bevásárlóhely, amely háztartási és fogyasztási cikkek széles skáláját fedi le.",
+                  "category": "cultural",
+                  "coords": [
+                        35.52139,
+                        33.8494
+                  ]
+            },
+            {
+                  "name": "anatir zbeyde",
+                  "text": "Ezek az antik romok lenyűgöző római kőíveket mutatnak be, amelyek egykor egy völgyet íveltek át.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556781,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Aqueducs Romains de Zoubayda",
+                  "text": "Monumentális római vízvezeték, amely az ókori mérnöki tudást szemlélteti a folyóvölgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557683,
+                        33.850135
+                  ]
+            },
+            {
+                  "name": "Église Al Sayde",
+                  "text": "Keresztény imádságos hely, amely békésen fekszik a tengerparti síkság feletti domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562294,
+                        33.811914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silk Museum",
+                  "text": "O fabrică de mătase restaurată din secolul al XIX-lea, transformată în muzeu cu grădini luxuriante.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "Hope for Peace",
+                  "text": "Un monument înalt de 30 de metri realizat din tancuri și vehicule militare încastrate în beton.",
+                  "category": "historical",
+                  "coords": [
+                        35.557756,
+                        33.839711
+                  ]
+            },
+            {
+                  "name": "Elie Gharzouzi Castle",
+                  "text": "O reședință privată care seamănă cu o cetate medievală, cu turnuri de piatră și bastioane.",
+                  "category": "castle",
+                  "coords": [
+                        35.545161,
+                        33.84729
+                  ]
+            },
+            {
+                  "name": "Temple Romain",
+                  "text": "Ruine antice de calcar ale unui sanctuar care datează din epoca romană.",
+                  "category": "historical",
+                  "coords": [
+                        35.597858,
+                        33.855826
+                  ]
+            },
+            {
+                  "name": "Théatre Jean-Paul II",
+                  "text": "Un auditorium modern folosit pentru spectacole educaționale și culturale în Jamhour.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584715,
+                        33.859176
+                  ]
+            },
+            {
+                  "name": "Théatre Vert",
+                  "text": "Un teatru în aer liber înconjurat de verdeață, folosit pentru evenimente de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        35.585717,
+                        33.85976
+                  ]
+            },
+            {
+                  "name": "Salle F. Bernard Sudres",
+                  "text": "Un spațiu de spectacol dedicat schimburilor culturale și teatrului local.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577895,
+                        33.865048
+                  ]
+            },
+            {
+                  "name": "Auditorium du Mont La Salle",
+                  "text": "Un auditorium mare în cadrul complexului Mont La Salle pentru evenimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576988,
+                        33.865348
+                  ]
+            },
+            {
+                  "name": "Église Mar Elias",
+                  "text": "Biserică maronită tradițională situată în dealurile împădurite ale regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        35.570437,
+                        33.808406
+                  ]
+            },
+            {
+                  "name": "Arcangel Raffael convent",
+                  "text": "O mănăstire religioasă liniștită, cunoscută pentru atmosfera sa serenă și meditativă.",
+                  "category": "religious",
+                  "coords": [
+                        35.589441,
+                        33.863571
+                  ]
+            },
+            {
+                  "name": "Saint Claire",
+                  "text": "Mănăstirea Clariselor, un loc de rugăciune tăcută și contemplație.",
+                  "category": "religious",
+                  "coords": [
+                        35.557225,
+                        33.835703
+                  ]
+            },
+            {
+                  "name": "Saint Micheal's Church",
+                  "text": "Această biserică creștină situată pe dealuri servește comunității locale ca loc de reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        35.566814,
+                        33.821251
+                  ]
+            },
+            {
+                  "name": "santa theresa",
+                  "text": "O piață locală din cartier care oferă alimente proaspete și produse de primă necesitate.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577596,
+                        33.855955
+                  ]
+            },
+            {
+                  "name": "h market",
+                  "text": "Un mic punct comercial care servește ca loc convenabil de aprovizionare pentru locuitorii din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        35.579295,
+                        33.852968
+                  ]
+            },
+            {
+                  "name": "Prime Pictures",
+                  "text": "Acest magazin local de lângă parcul acvatic oferă mărfuri și servicii specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545545,
+                        33.843343
+                  ]
+            },
+            {
+                  "name": "Tony Chicken",
+                  "text": "O piață specializată în produse avicole și alimentare pentru populația locală.",
+                  "category": "cultural",
+                  "coords": [
+                        35.55925,
+                        33.81215
+                  ]
+            },
+            {
+                  "name": "mbarak",
+                  "text": "Această piață tradițională de cartier este un punct important pentru cumpărăturile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531593,
+                        33.833124
+                  ]
+            },
+            {
+                  "name": "Baaklineh",
+                  "text": "Un punct alimentar local care aprovizionează locuitorii cu produse proaspete în regiunea deluroasă.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530376,
+                        33.836761
+                  ]
+            },
+            {
+                  "name": "the village",
+                  "text": "Acest mic centru comercial formează un punct de întâlnire comunitar pentru cumpărături.",
+                  "category": "cultural",
+                  "coords": [
+                        35.532711,
+                        33.835045
+                  ]
+            },
+            {
+                  "name": "saadeh",
+                  "text": "O piață administrată de proprietar, cunoscută pentru selecția de specialități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533853,
+                        33.833756
+                  ]
+            },
+            {
+                  "name": "naim",
+                  "text": "Acest magazin situat convenabil acoperă nevoile de bază ale așezărilor din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533526,
+                        33.83059
+                  ]
+            },
+            {
+                  "name": "abou ghazali",
+                  "text": "O mică piață de familie care servește cartierul local de generații.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534525,
+                        33.829934
+                  ]
+            },
+            {
+                  "name": "Keyrouz",
+                  "text": "Acest magazin alimentar de pe deal oferă o vedere largă și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537738,
+                        33.83055
+                  ]
+            },
+            {
+                  "name": "Smaha",
+                  "text": "Un punct comercial local apreciat pentru atmosfera sa prietenoasă și produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537949,
+                        33.829419
+                  ]
+            },
+            {
+                  "name": "Diana",
+                  "text": "Acest magazin oferă o varietate de articole de uz casnic și alimente pentru suburbani.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534911,
+                        33.848876
+                  ]
+            },
+            {
+                  "name": "Marché Hanna",
+                  "text": "O piață tradițională care oferă o selecție autentică de alimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.544894,
+                        33.824468
+                  ]
+            },
+            {
+                  "name": "Abi Nader",
+                  "text": "Un magazin alimentar de familie care furnizează comunității provizii zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545523,
+                        33.825489
+                  ]
+            },
+            {
+                  "name": "farid helo",
+                  "text": "Această piață de lângă drumul principal este o oprire importantă pentru cumpărăturile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.543397,
+                        33.833324
+                  ]
+            },
+            {
+                  "name": "honein",
+                  "text": "Un punct comercial de cartier care furnizează provizii alimentare esențiale rezidenților locali.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537249,
+                        33.83342
+                  ]
+            },
+            {
+                  "name": "gaby karam",
+                  "text": "Acest magazin de familie oferă consiliere personală și fructe proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534637,
+                        33.838616
+                  ]
+            },
+            {
+                  "name": "diab market",
+                  "text": "Un centru alimentar local care funcționează ca piață centrală pentru așezarea de pe deal.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531821,
+                        33.840574
+                  ]
+            },
+            {
+                  "name": "karam",
+                  "text": "O piață cu o selekție de alimente de bază pentru zona înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531837,
+                        33.844691
+                  ]
+            },
+            {
+                  "name": "Karout Shoping",
+                  "text": "Un magazin de cumpărături mai mare, care acoperă o gamă largă de bunuri de uz casnic și de consum.",
+                  "category": "cultural",
+                  "coords": [
+                        35.52139,
+                        33.8494
+                  ]
+            },
+            {
+                  "name": "anatir zbeyde",
+                  "text": "Aceste ruine antice prezintă arcade impresionante de piatră romane care traversau odinioară o vale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556781,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Aqueducs Romains de Zoubayda",
+                  "text": "Un apeduct roman monumental care ilustrează ingineria antichității în valea râului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557683,
+                        33.850135
+                  ]
+            },
+            {
+                  "name": "Église Al Sayde",
+                  "text": "Un lăcaș de cult creștin situat liniștit pe panta de deasupra câmpiei de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562294,
+                        33.811914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silk Museum",
+                  "text": "A restored 19th-century silk factory converted into a museum with lush terraced gardens.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "Hope for Peace",
+                  "text": "A 30-meter high monument made of tanks and armored vehicles set in concrete.",
+                  "category": "historical",
+                  "coords": [
+                        35.557756,
+                        33.839711
+                  ]
+            },
+            {
+                  "name": "Elie Gharzouzi Castle",
+                  "text": "A private residence resembling a medieval fortress with stone towers and battlements.",
+                  "category": "castle",
+                  "coords": [
+                        35.545161,
+                        33.84729
+                  ]
+            },
+            {
+                  "name": "Roman Temple",
+                  "text": "Ancient limestone ruins of a sanctuary dating back to the Roman era.",
+                  "category": "historical",
+                  "coords": [
+                        35.597858,
+                        33.855826
+                  ]
+            },
+            {
+                  "name": "Théatre Jean-Paul II",
+                  "text": "A modern auditorium used for educational and cultural performances in Jamhour.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584715,
+                        33.859176
+                  ]
+            },
+            {
+                  "name": "Théatre Vert",
+                  "text": "An open-air theatre surrounded by greenery, used for summer events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.585717,
+                        33.85976
+                  ]
+            },
+            {
+                  "name": "Salle F. Bernard Sudres",
+                  "text": "A performance space dedicated to cultural exchange and local theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577895,
+                        33.865048
+                  ]
+            },
+            {
+                  "name": "Mont La Salle Auditorium",
+                  "text": "A large auditorium within the Mont La Salle complex for regional events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576988,
+                        33.865348
+                  ]
+            },
+            {
+                  "name": "Église Mar Elias",
+                  "text": "A traditional Maronite church located in the wooded hills of the region.",
+                  "category": "religious",
+                  "coords": [
+                        35.570437,
+                        33.808406
+                  ]
+            },
+            {
+                  "name": "Arcangel Raffael convent",
+                  "text": "A quiet religious convent known for its serene and meditative atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        35.589441,
+                        33.863571
+                  ]
+            },
+            {
+                  "name": "Saint Claire",
+                  "text": "Monastery of the Poor Clares, a place of silent prayer and contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        35.557225,
+                        33.835703
+                  ]
+            },
+            {
+                  "name": "Saint Micheal's Church",
+                  "text": "This Christian church set in the hills serves as a place of worship for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        35.566814,
+                        33.821251
+                  ]
+            },
+            {
+                  "name": "santa theresa",
+                  "text": "A local neighborhood marketplace offering fresh groceries and daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        35.577596,
+                        33.855955
+                  ]
+            },
+            {
+                  "name": "h market",
+                  "text": "A small commercial spot serving as a convenient shopping point for nearby residents.",
+                  "category": "cultural",
+                  "coords": [
+                        35.579295,
+                        33.852968
+                  ]
+            },
+            {
+                  "name": "Prime Pictures",
+                  "text": "This local shop near the water park offers specialized goods and services to the community.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545545,
+                        33.843343
+                  ]
+            },
+            {
+                  "name": "Tony Chicken",
+                  "text": "A marketplace focused on poultry and groceries for the local population.",
+                  "category": "cultural",
+                  "coords": [
+                        35.55925,
+                        33.81215
+                  ]
+            },
+            {
+                  "name": "mbarak",
+                  "text": "This traditional neighborhood market is a key spot for daily grocery shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531593,
+                        33.833124
+                  ]
+            },
+            {
+                  "name": "Baaklineh",
+                  "text": "A local food hub supplying residents with fresh goods in the hilly region.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530376,
+                        33.836761
+                  ]
+            },
+            {
+                  "name": "the village",
+                  "text": "This small commercial cluster forms a community meeting point for errands.",
+                  "category": "cultural",
+                  "coords": [
+                        35.532711,
+                        33.835045
+                  ]
+            },
+            {
+                  "name": "saadeh",
+                  "text": "An owner-operated market known for its selection of local specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533853,
+                        33.833756
+                  ]
+            },
+            {
+                  "name": "naim",
+                  "text": "This conveniently located shop covers the basic needs of the surrounding settlements.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533526,
+                        33.83059
+                  ]
+            },
+            {
+                  "name": "abou ghazali",
+                  "text": "A small family market that has been serving the local neighborhood for generations.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534525,
+                        33.829934
+                  ]
+            },
+            {
+                  "name": "Keyrouz",
+                  "text": "This grocery store in the hills offers wide views and fresh goods to the area.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537738,
+                        33.83055
+                  ]
+            },
+            {
+                  "name": "Smaha",
+                  "text": "A local trading spot appreciated for its friendly atmosphere and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537949,
+                        33.829419
+                  ]
+            },
+            {
+                  "name": "Diana",
+                  "text": "This shop offers a variety of household goods and groceries for suburban residents.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534911,
+                        33.848876
+                  ]
+            },
+            {
+                  "name": "hanna market",
+                  "text": "A traditional marketplace offering an authentic selection of regional food items.",
+                  "category": "cultural",
+                  "coords": [
+                        35.544894,
+                        33.824468
+                  ]
+            },
+            {
+                  "name": "Abi Nader",
+                  "text": "A family-run grocery store supplying the community with daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545523,
+                        33.825489
+                  ]
+            },
+            {
+                  "name": "farid helo",
+                  "text": "This marketplace near the main road is a key stop for local shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        35.543397,
+                        33.833324
+                  ]
+            },
+            {
+                  "name": "honein",
+                  "text": "A neighborhood commercial point providing essential food supplies to the local residents.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537249,
+                        33.83342
+                  ]
+            },
+            {
+                  "name": "gaby karam",
+                  "text": "This family-owned shop offers personal service and fresh fruit produce.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534637,
+                        33.838616
+                  ]
+            },
+            {
+                  "name": "diab market",
+                  "text": "A local food hub that functions as a central marketplace for the hillside settlement.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531821,
+                        33.840574
+                  ]
+            },
+            {
+                  "name": "karam",
+                  "text": "A marketplace with a selection of staple foods for the immediate vicinity.",
+                  "category": "cultural",
+                  "coords": [
+                        35.531837,
+                        33.844691
+                  ]
+            },
+            {
+                  "name": "Karout Shoping",
+                  "text": "A larger shopping outlet covering a wide range of household and consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        35.52139,
+                        33.8494
+                  ]
+            },
+            {
+                  "name": "Anatir Zbeyde",
+                  "text": "These ancient ruins feature impressive Roman stone arches that once spanned a valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556781,
+                        33.850166
+                  ]
+            },
+            {
+                  "name": "Zoubayda Roman Aqueducts",
+                  "text": "A monumental Roman aqueduct demonstrating ancient engineering in the river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557683,
+                        33.850135
+                  ]
+            },
+            {
+                  "name": "Église Al Sayde",
+                  "text": "A Christian place of worship peacefully situated on the slope above the coastal plain.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562294,
+                        33.811914
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "LB-JL",
     coords: [35.55, 33.85],
@@ -471,7 +5061,628 @@ export const poiExtraLebanonLifeV2: POI[] = [
     },
   },
   {
-    id: "watergate-aqua-park-life-v2",
+    id: "watergate-aqua-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anghami",
+                  "text": "Ein lebendiger Veranstaltungsort für Live-Musik und moderne Kulturshows.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576718,
+                        33.904344
+                  ]
+            },
+            {
+                  "name": "Theatre Chateau Trianon",
+                  "text": "Ein elegantes Theater, das für traditionelle libanesische Stücke und Dramen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        35.574616,
+                        33.903569
+                  ]
+            },
+            {
+                  "name": "Rabieh Bridge",
+                  "text": "Eine hohe Straßenbrücke mit Panoramablick über das Rabieh-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605935,
+                        33.922333
+                  ]
+            },
+            {
+                  "name": "Purgatory",
+                  "text": "Eine bekannte Attraktion im Hafenviertel, die für ihr industrielles Design bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597769,
+                        33.924939
+                  ]
+            },
+            {
+                  "name": "JMR",
+                  "text": "Ein kleiner Theaterraum, der für unabhängige Produktionen und lokale Kunst genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612325,
+                        33.920025
+                  ]
+            },
+            {
+                  "name": "Totem",
+                  "text": "Ein zeitgenössisches künstlerisches Wahrzeichen in der Nähe der Autobahn von Dbayeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58305,
+                        33.905946
+                  ]
+            },
+            {
+                  "name": "Dbaye Conference Palace",
+                  "text": "Ein großer Mehrzweckbau für internationale Konferenzen und große Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584508,
+                        33.923152
+                  ]
+            },
+            {
+                  "name": "Mar abda church",
+                  "text": "Eine traditionelle Kirche auf einem Hügel mit Blick auf die Mittelmeerküste.",
+                  "category": "religious",
+                  "coords": [
+                        35.581006,
+                        33.909389
+                  ]
+            },
+            {
+                  "name": "Dayr sayidat al bir",
+                  "text": "Ein friedlicher maronitischer Klosterkomplex, der „Unserer Lieben Frau vom Brunnen“ gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.591824,
+                        33.896727
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "Eine lokale christliche Pfarrkirche mit einem klassischen mediterranen Glockenturm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.580406,
+                        33.906755
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Ein historisches Kirchengebäude, das als geistlicher Mittelpunkt der Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592631,
+                        33.944031
+                  ]
+            },
+            {
+                  "name": "Saoud Church",
+                  "text": "Eine kleine, einladende Kirche, die in den Hügeln über der Küste liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592137,
+                        33.936543
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "Eine maronitische Kirche mit traditionellem Mauerwerk und einem ruhigen Innenhof.",
+                  "category": "religious",
+                  "coords": [
+                        35.613768,
+                        33.923165
+                  ]
+            },
+            {
+                  "name": "Resurrection Church",
+                  "text": "Ein modernes religiöses Heiligtum, das für große Gemeindezusammenkünfte konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.616453,
+                        33.919267
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Eine dem Propheten Elias gewidmete Kirche in einer ruhigen Wohngegend.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61512,
+                        33.919889
+                  ]
+            },
+            {
+                  "name": "St Elie Antelias",
+                  "text": "Ein berühmtes maronitisches Kloster, das für die Geschichte von Antelias von zentraler Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.589046,
+                        33.915141
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "Eine Nachbarschaftskirche, die für ihre schönen Ikonen und religiöse Kunst bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602647,
+                        33.902911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anghami",
+                  "text": "Mozgalmas előadótér, amely élőzenének és modern kulturális show-knak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576718,
+                        33.904344
+                  ]
+            },
+            {
+                  "name": "Theatre Chateau Trianon",
+                  "text": "Elegáns színház, amely hagyományos libanoni darabok és drámák bemutatásáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.574616,
+                        33.903569
+                  ]
+            },
+            {
+                  "name": "Rabieh Bridge",
+                  "text": "Magas közúti híd, amely panorámás kilátást nyújt a Rabieh-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605935,
+                        33.922333
+                  ]
+            },
+            {
+                  "name": "Purgatory",
+                  "text": "Népszerű szórakozóhely a vízparti negyedben, amely indusztriális dizájnjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597769,
+                        33.924939
+                  ]
+            },
+            {
+                  "name": "JMR",
+                  "text": "Meghitt színházi helyszín, amelyet független produkciókhoz és helyi művészetekhez használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612325,
+                        33.920025
+                  ]
+            },
+            {
+                  "name": "Totem",
+                  "text": "Kortárs művészeti nevezetesség a forgalmas Dbayeh autópálya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58305,
+                        33.905946
+                  ]
+            },
+            {
+                  "name": "Dbaye Conference Palace",
+                  "text": "Hatalmas többcélú csarnok nemzetközi konferenciák és nagy színházi események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584508,
+                        33.923152
+                  ]
+            },
+            {
+                  "name": "Mar abda church",
+                  "text": "Hagyományos dombtetői templom, amely a földközi-tengeri partvidékre néz.",
+                  "category": "religious",
+                  "coords": [
+                        35.581006,
+                        33.909389
+                  ]
+            },
+            {
+                  "name": "Dayr sayidat al bir",
+                  "text": "Békés maronita kolostoregyüttes, melyet a Kút Miasszonyunknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.591824,
+                        33.896727
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "Helyi keresztény plébániatemplom klasszikus mediterrán harangtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.580406,
+                        33.906755
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Történelmi templomépület, amely a környék spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592631,
+                        33.944031
+                  ]
+            },
+            {
+                  "name": "Saoud Church",
+                  "text": "Kicsi, barátságos templom a part feletti dombok között megbújva.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592137,
+                        33.936543
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "Hagyományos kőfalazatú maronita templom csendes belső udvarral.",
+                  "category": "religious",
+                  "coords": [
+                        35.613768,
+                        33.923165
+                  ]
+            },
+            {
+                  "name": "Resurrection Church",
+                  "text": "Modern vallási szentély, amelyet nagy közösségi összejövetelekre terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.616453,
+                        33.919267
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Illés prófétának szentelt templom egy csendes lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61512,
+                        33.919889
+                  ]
+            },
+            {
+                  "name": "St Elie Antelias",
+                  "text": "Híres maronita kolostoregyüttes, amely központi szerepet játszik Antelias történelmében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.589046,
+                        33.915141
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "Környékbeli templom, amely gyönyörű ikonjairól és vallási művészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602647,
+                        33.902911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anghami",
+                  "text": "Un loc vibrant de spectacole care găzduiește muzică live și spectacole culturale moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576718,
+                        33.904344
+                  ]
+            },
+            {
+                  "name": "Theatre Chateau Trianon",
+                  "text": "Un teatru elegant cunoscut pentru găzduirea pieselor și dramelor tradiționale libaneze.",
+                  "category": "cultural",
+                  "coords": [
+                        35.574616,
+                        33.903569
+                  ]
+            },
+            {
+                  "name": "Rabieh Bridge",
+                  "text": "Un pod rutier înalt care oferă vedere panoramică asupra văii Rabieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605935,
+                        33.922333
+                  ]
+            },
+            {
+                  "name": "Purgatory",
+                  "text": "O atracție populară în zona falezei, cunoscută pentru designul său industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597769,
+                        33.924939
+                  ]
+            },
+            {
+                  "name": "JMR",
+                  "text": "O sală de teatru intimă, folosită pentru producții independente și artă locală.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612325,
+                        33.920025
+                  ]
+            },
+            {
+                  "name": "Totem",
+                  "text": "Un reper artistic contemporan situat lângă autostrada aglomerată Dbayeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58305,
+                        33.905946
+                  ]
+            },
+            {
+                  "name": "Dbaye Conference Palace",
+                  "text": "O sală multifuncțională grandioasă pentru conferințe internaționale și evenimente teatrale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584508,
+                        33.923152
+                  ]
+            },
+            {
+                  "name": "Mar abda church",
+                  "text": "O biserică tradițională pe deal, cu vedere la coasta mediteraneană.",
+                  "category": "religious",
+                  "coords": [
+                        35.581006,
+                        33.909389
+                  ]
+            },
+            {
+                  "name": "Dayr sayidat al bir",
+                  "text": "Un complex monahal maronit liniștit, dedicat Maicii Domnului de la Fântână.",
+                  "category": "landmark",
+                  "coords": [
+                        35.591824,
+                        33.896727
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "O biserică parohială creștină locală, cu o clopotniță mediteraneană clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        35.580406,
+                        33.906755
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "O clădire istorică de biserică ce servește ca centru spiritual pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592631,
+                        33.944031
+                  ]
+            },
+            {
+                  "name": "Saoud Church",
+                  "text": "O biserică mică și primitoare, situată în dealurile de deasupra coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592137,
+                        33.936543
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "O biserică maronită cu zidărie tradițională din piatră și o curte liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        35.613768,
+                        33.923165
+                  ]
+            },
+            {
+                  "name": "Resurrection Church",
+                  "text": "Un sanctuar religios modern, conceput pentru adunări mari ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.616453,
+                        33.919267
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Biserică dedicată Profetului Ilie, situată într-o zonă rezidențială liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61512,
+                        33.919889
+                  ]
+            },
+            {
+                  "name": "St Elie Antelias",
+                  "text": "Un faimos complex monahal maronit, central pentru istoria localității Antelias.",
+                  "category": "landmark",
+                  "coords": [
+                        35.589046,
+                        33.915141
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "O biserică de cartier cunoscută pentru icoanele sale frumoase și arta religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602647,
+                        33.902911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anghami",
+                  "text": "A vibrant performance venue hosting live music and modern cultural shows.",
+                  "category": "cultural",
+                  "coords": [
+                        35.576718,
+                        33.904344
+                  ]
+            },
+            {
+                  "name": "Theatre Chateau Trianon",
+                  "text": "An elegant theatre known for hosting traditional Lebanese plays and dramas.",
+                  "category": "cultural",
+                  "coords": [
+                        35.574616,
+                        33.903569
+                  ]
+            },
+            {
+                  "name": "Rabieh Bridge",
+                  "text": "An elevated road bridge offering panoramic views of the Rabieh valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.605935,
+                        33.922333
+                  ]
+            },
+            {
+                  "name": "Purgatory",
+                  "text": "A popular waterfront attraction and venue known for its industrial design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597769,
+                        33.924939
+                  ]
+            },
+            {
+                  "name": "JMR",
+                  "text": "An intimate theatre venue used for independent productions and local arts.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612325,
+                        33.920025
+                  ]
+            },
+            {
+                  "name": "Totem",
+                  "text": "A contemporary artistic landmark situated near the busy Dbayeh highway.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58305,
+                        33.905946
+                  ]
+            },
+            {
+                  "name": "Dbaye Conference Palace",
+                  "text": "A grand multi-purpose hall for international conferences and major theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.584508,
+                        33.923152
+                  ]
+            },
+            {
+                  "name": "Mar abda church",
+                  "text": "A traditional hilltop church overlooking the Mediterranean coast.",
+                  "category": "religious",
+                  "coords": [
+                        35.581006,
+                        33.909389
+                  ]
+            },
+            {
+                  "name": "Dayr sayidat al bir",
+                  "text": "A peaceful Maronite monastery complex dedicated to Our Lady of the Well.",
+                  "category": "landmark",
+                  "coords": [
+                        35.591824,
+                        33.896727
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "A local Christian parish church with a classic Mediterranean bell tower.",
+                  "category": "landmark",
+                  "coords": [
+                        35.580406,
+                        33.906755
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "A historic church building that serves as a spiritual hub for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592631,
+                        33.944031
+                  ]
+            },
+            {
+                  "name": "Saoud Church",
+                  "text": "A small, welcoming church nestled in the hills above the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        35.592137,
+                        33.936543
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "A Maronite church featuring traditional stone masonry and a quiet courtyard.",
+                  "category": "religious",
+                  "coords": [
+                        35.613768,
+                        33.923165
+                  ]
+            },
+            {
+                  "name": "Resurrection Church",
+                  "text": "A modern religious sanctuary designed for large community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        35.616453,
+                        33.919267
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "A church dedicated to the Prophet Elijah, located in a quiet residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.61512,
+                        33.919889
+                  ]
+            },
+            {
+                  "name": "St Elie Antelias",
+                  "text": "A famous Maronite monastery complex central to the history of Antelias.",
+                  "category": "landmark",
+                  "coords": [
+                        35.589046,
+                        33.915141
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "A neighborhood church known for its beautiful icons and religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602647,
+                        33.902911
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "LB-JL",
     coords: [35.59, 33.94],
@@ -507,7 +5718,196 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "rio-lento-park-life-v2",
+    id: "rio-lento-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Legend",
+                  "text": "Veranstaltungsort in der Nähe des geschichtsträchtigen Flusstals des Nahr el Kalb.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602677,
+                        33.954575
+                  ]
+            },
+            {
+                  "name": "Ruins of Nahr El Kalb",
+                  "text": "Gedenkstelen und Ruinen, die den antiken Pass am Hundefluss markieren.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597454,
+                        33.955467
+                  ]
+            },
+            {
+                  "name": "Water Gate Aqua Park",
+                  "text": "Freizeit-Wasserpark mit Pools und Rutschen in unmittelbarer Küstennähe.",
+                  "category": "recreational",
+                  "coords": [
+                        35.595874,
+                        33.948355
+                  ]
+            },
+            {
+                  "name": "Christus-König-Kloster",
+                  "text": "Großes Kloster mit einer monumentalen Christusstatue mit Blick auf das Mittelmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602371,
+                        33.95596
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Gemeindekirche am Hang mit Blick auf das Gebiet Zouk Mosbeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.601207,
+                        33.952698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Legend",
+                  "text": "Rendezvényhelyszín a történelmi jelentőségű Nahr el Kalb folyóvölgy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602677,
+                        33.954575
+                  ]
+            },
+            {
+                  "name": "Ruins of Nahr El Kalb",
+                  "text": "Emlékoszlopok és romok, amelyek a Kutya-folyó ókori hágóját jelzik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597454,
+                        33.955467
+                  ]
+            },
+            {
+                  "name": "Water Gate Aqua Park",
+                  "text": "Szórakoztató vízipark medencékkel és csúszdákkal közvetlenül a tengerpart közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        35.595874,
+                        33.948355
+                  ]
+            },
+            {
+                  "name": "Couvent du Christ-Roi",
+                  "text": "Hatalmas kolostor egy monumentális Krisztus-szoborral, amely a Földközi-tengerre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602371,
+                        33.95596
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Közösségi templom a domboldalon, kilátással Zouk Mosbeh környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        35.601207,
+                        33.952698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Legend",
+                  "text": "Locație pentru evenimente situată lângă valea râului Nahr el Kalb, plină de istorie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602677,
+                        33.954575
+                  ]
+            },
+            {
+                  "name": "Ruins of Nahr El Kalb",
+                  "text": "Stele comemorative și ruine care marchează trecătoarea antică de la Râul Câinelui.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597454,
+                        33.955467
+                  ]
+            },
+            {
+                  "name": "Water Gate Aqua Park",
+                  "text": "Parc acvatic recreativ cu piscine și tobogane situat în imediata apropiere a coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        35.595874,
+                        33.948355
+                  ]
+            },
+            {
+                  "name": "Couvent du Christ-Roi",
+                  "text": "Mănăstire mare cu o statuie monumentală a lui Hristos, cu vedere la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602371,
+                        33.95596
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Biserică comunitară situată pe deal, cu vedere spre zona Zouk Mosbeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.601207,
+                        33.952698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Legend",
+                  "text": "Venue for events located near the historic Nahr el Kalb river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602677,
+                        33.954575
+                  ]
+            },
+            {
+                  "name": "Ruins of Nahr El Kalb",
+                  "text": "Commemorative stelae and ruins marking the historic pass of the Dog River.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597454,
+                        33.955467
+                  ]
+            },
+            {
+                  "name": "Water Gate Aqua Park",
+                  "text": "Recreational water park with pools and slides located near the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        35.595874,
+                        33.948355
+                  ]
+            },
+            {
+                  "name": "Christ the King Convent",
+                  "text": "Large convent featuring a colossal statue of Christ overlooking the Mediterranean.",
+                  "category": "landmark",
+                  "coords": [
+                        35.602371,
+                        33.95596
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Community church situated on the hillside overlooking the Zouk Mosbeh area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.601207,
+                        33.952698
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "LB-JL",
     coords: [35.60, 33.95],
@@ -543,7 +5943,232 @@ export const poiExtraLebanonLifeV2: POI[] = [
     },
   },
   {
-    id: "bkassine-pine-forest-life-v2",
+    id: "bkassine-pine-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Issa's view",
+                  "text": "Ein Aussichtspunkt mit atemberaubendem Blick über den Pinienwald von Bkassine, einen der größten im Mittelmeerraum.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "Eine dem heiligen Maron, dem Schutzpatron der maronitischen Gemeinde, gewidmete Kirche in der Nähe von Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.512684,
+                        33.500612
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Eine traditionelle christliche Kirche, die dem heiligen Maron gewidmet ist und inmitten der alten Pinien von Bkassine liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528048,
+                        33.549203
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Eine historische Kirche, die dem heiligen Elias gewidmet ist und am Rande des malerischen Waldgebiets von Bkassine liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549206,
+                        33.528857
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "Ein örtliches christliches Gebetshaus, das dem heiligen Georg gewidmet ist und die tiefen Täler bei den Wäldern von Bkassine überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.550505,
+                        33.537732
+                  ]
+            },
+            {
+                  "name": "Saint Micheal Church",
+                  "text": "Eine christliche Kirche am Rande des Bkassine-Pinienwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.552652,
+                        33.537563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Issa's view",
+                  "text": "Kilátó, ahonnan lélegzetelállító panoráma nyílik a bkassine-i fenyőerdőre, amely a Földközi-tenger térségének egyik legnagyobbja.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "Szent Maronnak, a maronita közösség védőszentjének szentelt templom Bkassine közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.512684,
+                        33.500612
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Szent Maronnak szentelt hagyományos keresztény templom Bkassine ősi fenyőfái között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528048,
+                        33.549203
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Szent Illésnek szentelt történelmi templom a festői bkassine-i erdő szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549206,
+                        33.528857
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "Szent Györgynek szentelt helyi keresztény istentiszteleti hely, amely a Bkassine melletti mély völgyekre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.550505,
+                        33.537732
+                  ]
+            },
+            {
+                  "name": "Saint Micheal Church",
+                  "text": "Keresztény templom a Bkassine fenyőerdő szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.552652,
+                        33.537563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Issa's view",
+                  "text": "Un punct de belvedere care oferă vederi uluitoare asupra pădurii de pini Bkassine, una dintre cele mai mari din Mediterana.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "O biserică maronită dedicată Sfântului Maron, patronul comunității maronite, situată lângă Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.512684,
+                        33.500612
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "O biserică creștină tradițională dedicată Sfântului Maron, cuibărită printre pinii antici din Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528048,
+                        33.549203
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "O biserică istorică dedicată Sfântului Ilie, situată la marginea pitoreștii zone forestiere Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549206,
+                        33.528857
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "Un lăcaș de cult creștin local dedicat Sfântului Gheorghe, cu vedere la văile adânci de lângă pădurile Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.550505,
+                        33.537732
+                  ]
+            },
+            {
+                  "name": "Saint Micheal Church",
+                  "text": "O biserică creștină situată la marginea pădurii de pini Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.552652,
+                        33.537563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Issa's view",
+                  "text": "A scenic viewpoint offering breathtaking vistas over the Bkassine Pine Forest, one of the largest in the Mediterranean.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "A Maronite church dedicated to Saint Maron, the patron of the Maronite community, situated near Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.512684,
+                        33.500612
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A traditional Christian church dedicated to Saint Maron, nestled among the ancient pine trees of Bkassine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528048,
+                        33.549203
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "A historic church dedicated to Saint Elias, located on the edge of the scenic Bkassine forest area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.549206,
+                        33.528857
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "A local Christian place of worship dedicated to Saint George, overlooking the deep valleys near the Bkassine woods.",
+                  "category": "landmark",
+                  "coords": [
+                        35.550505,
+                        33.537732
+                  ]
+            },
+            {
+                  "name": "Saint Micheal Church",
+                  "text": "A Christian church situated at the edge of the Bkassine pine forest.",
+                  "category": "landmark",
+                  "coords": [
+                        35.552652,
+                        33.537563
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LB-JA",
     coords: [35.58, 33.53],
@@ -579,7 +6204,52 @@ export const poiExtraLebanonLifeV2: POI[] = [
     },
   },
   {
-    id: "litani-basin-agri-life-v2",
+    id: "litani-basin-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nebi Safa - Selsata Roman Temple",
+                  "text": "Eine archäologische Stätte mit den steinernen Ruinen eines klassischen römischen Tempels nahe dem Litani-Becken.",
+                  "category": "historical",
+                  "coords": [
+                        35.747181,
+                        33.496575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nebi Safa - Selsata Roman Temple",
+                  "text": "Régészeti lelőhely egy klasszikus római templom kőromjaival a Litani-folyó medencéje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.747181,
+                        33.496575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nebi Safa - Selsata Roman Temple",
+                  "text": "Un sit arheologic cu ruinele de piatră ale unui templu roman clasic în apropierea bazinului râului Litani.",
+                  "category": "historical",
+                  "coords": [
+                        35.747181,
+                        33.496575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nebi Safa - Selsata Roman Temple",
+                  "text": "An archaeological site featuring the stone ruins of a classical Roman temple near the Litani River basin.",
+                  "category": "historical",
+                  "coords": [
+                        35.747181,
+                        33.496575
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LB-BI",
     coords: [35.75, 33.55],
@@ -615,7 +6285,88 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "kfardebian-orchards-life-v2",
+    id: "kfardebian-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fireworks Faqra",
+                  "text": "Ein saisonaler Veranstaltungsort in der Hochgebirgsregion von Faqra, bekannt für ihre Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810429,
+                        33.984328
+                  ]
+            },
+            {
+                  "name": "St. Takla Church",
+                  "text": "Eine traditionelle Kirche im hochgelegenen Bergdorf Kfardebian, nahe den berühmten Kalksteinbrücken.",
+                  "category": "landmark",
+                  "coords": [
+                        35.738374,
+                        33.951424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fireworks Faqra",
+                  "text": "Szezonális rendezvényhelyszín Faqra magashegyi régiójában, amely sziklaalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810429,
+                        33.984328
+                  ]
+            },
+            {
+                  "name": "St. Takla Church",
+                  "text": "Hagyományos templom a magas fekvésű Kfardebian hegyi faluban, a híres mészkőhidak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.738374,
+                        33.951424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fireworks Faqra",
+                  "text": "Un loc de evenimente sezoniere în regiunea muntoasă înaltă Faqra, cunoscută pentru formațiunile sale stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810429,
+                        33.984328
+                  ]
+            },
+            {
+                  "name": "St. Takla Church",
+                  "text": "O biserică tradițională în satul montan înalt Kfardebian, lângă faimoasele poduri de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.738374,
+                        33.951424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fireworks Faqra",
+                  "text": "A seasonal event location in the high-altitude Faqra region, known for its rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810429,
+                        33.984328
+                  ]
+            },
+            {
+                  "name": "St. Takla Church",
+                  "text": "A traditional church in the high mountain village of Kfardebian, near the famous limestone bridges.",
+                  "category": "landmark",
+                  "coords": [
+                        35.738374,
+                        33.951424
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LB-JL",
     coords: [35.81, 33.99],
@@ -651,7 +6402,160 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "hasbaya-olives-life-v2",
+    id: "hasbaya-olives-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "kalaa al shahabeya",
+                  "text": "Ein historischer Palast in Hasbaya, der Sitz der Shehab-Emire mit markanter Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "Tall Zaghla",
+                  "text": "Ein Berggipfel bei Hasbaya, der weite Panoramablicke über die umliegenden Olivenhaine bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "Roman Temple ruins",
+                  "text": "Überreste eines antiken römischen Heiligtums in den Hügeln von Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.696679,
+                        33.368567
+                  ]
+            },
+            {
+                  "name": "Salah Elddin Mosque",
+                  "text": "Eine lokale Moschee in Hasbaya, benannt nach dem berühmten Anführer Saladin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695175,
+                        33.369549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "kalaa al shahabeya",
+                  "text": "Történelmi palota Hasbayában, a Sehab emírek székhelye, jellegzetes építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "Tall Zaghla",
+                  "text": "Hegycsúcs Hasbaya közelében, amely széles panorámát kínál a környező olajfaligetekre.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "Roman Temple ruins",
+                  "text": "Egy antik római szentély maradványai Hasbaya dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.696679,
+                        33.368567
+                  ]
+            },
+            {
+                  "name": "Salah Elddin Mosque",
+                  "text": "Helyi mecset Hasbayában, a híres hadvezérről, Szaladinról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695175,
+                        33.369549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "kalaa al shahabeya",
+                  "text": "Un palat istoric în Hasbaya, sediul emirilor Shehab, cu o arhitectură distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "Tall Zaghla",
+                  "text": "Un vârf montan lângă Hasbaya, care oferă vederi panoramice largi asupra livezilor de măslini din jur.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "Roman Temple ruins",
+                  "text": "Rămășițele unui vechi sanctuar roman situat pe dealurile din Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.696679,
+                        33.368567
+                  ]
+            },
+            {
+                  "name": "Salah Elddin Mosque",
+                  "text": "O moschee locală în Hasbaya, numită după faimosul lider Saladin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695175,
+                        33.369549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaa Al Shahabeya",
+                  "text": "A historic palace in Hasbaya, the seat of the Shehab emirs, featuring striking architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "Tall Zaghla",
+                  "text": "A mountain peak near Hasbaya offering wide panoramic views over the surrounding olive groves.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "Roman Temple Ruins",
+                  "text": "Remains of an ancient Roman sanctuary located in the hills of Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.696679,
+                        33.368567
+                  ]
+            },
+            {
+                  "name": "Salah Elddin Mosque",
+                  "text": "A local mosque in Hasbaya named after the famous leader Saladin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695175,
+                        33.369549
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "LB-NA",
     coords: [35.68, 33.39],
@@ -687,7 +6591,52 @@ export const poiExtraLebanonLifeV2: POI[] = [
     }
   },
   {
-    id: "ammiq-wetland-life-v2",
+    id: "ammiq-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Eine christliche Kirche nahe den Aammiq-Feuchtgebieten im Libanon, deren Steinmauern die lange maronitische Geschichte der Region widerspiegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766122,
+                        33.672527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Keresztény templom a libanoni Aammiq vizenyős élőhelyeinek közelében, melynek kőfalai a régió hosszú maronita történelmét tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766122,
+                        33.672527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "O biserică creștină lângă zonele umede Aammiq din Liban, ale cărei ziduri de piatră reflectă lunga istorie maronită a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766122,
+                        33.672527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A Christian church near the Aammiq wetlands in Lebanon, whose stone walls reflect the long Maronite history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766122,
+                        33.672527
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "LB-BI",
     coords: [35.77, 33.72],

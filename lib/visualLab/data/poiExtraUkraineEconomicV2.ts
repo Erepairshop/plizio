@@ -384,7 +384,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
             },
             {
                   "name": "Пляж Григорівка",
-                  "text": "Ein lokaler Strand in der Nähe von Port Pivdennyi am Schwarzen Meer.",
+                  "text": "Hryhorivka-Strand, ein Sandstrand in Port Piwdennyj.",
                   "category": "recreational",
                   "coords": [
                         31.01055,
@@ -404,7 +404,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
             },
             {
                   "name": "Пляж Григорівка",
-                  "text": "Helyi tengerpart a Fekete-tenger partján, Port Pivdennyi közelében.",
+                  "text": "Hryhorivka strand, egy homokos strand Port Pivdennyjben.",
                   "category": "recreational",
                   "coords": [
                         31.01055,
@@ -424,7 +424,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
             },
             {
                   "name": "Пляж Григорівка",
-                  "text": "O plajă locală lângă Port Pivdennyi, la Marea Neagră.",
+                  "text": "Plaja Hryhorivka, o plajă nisipoasă în Port Pivdennyi.",
                   "category": "recreational",
                   "coords": [
                         31.01055,
@@ -444,7 +444,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
             },
             {
                   "name": "Пляж Григорівка",
-                  "text": "A local beach near Port Pivdennyi on the Black Sea.",
+                  "text": "Hryhorivka Beach, a sandy beach in Port Pivdennyi.",
                   "category": "recreational",
                   "coords": [
                         31.01055,
@@ -1089,7 +1089,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
       "de": [
             {
                   "name": "Mistse Chornobil's'koyi iadernoyi katastrofi",
-                  "text": "Eine Gedenkstätte am Ort der Nuklearkatastrophe von Tschernobyl von 1986.",
+                  "text": "Der Ort der Nuklearkatastrophe von Tschernobyl ist ein Sperrgebiet nahe der Stadt Tschernobyl.",
                   "category": "historical",
                   "coords": [
                         30.099362,
@@ -1154,7 +1154,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
       "hu": [
             {
                   "name": "Mistse Chornobil's'koyi iadernoyi katastrofi",
-                  "text": "Emlékhely az 1986-os csernobili atomkatasztrófa helyszínén.",
+                  "text": "A csernobili atomerőmű-baleset helyszíne egy lezárt terület Csernobil közelében.",
                   "category": "historical",
                   "coords": [
                         30.099362,
@@ -1219,7 +1219,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
       "ro": [
             {
                   "name": "Mistse Chornobil's'koyi iadernoyi katastrofi",
-                  "text": "Un loc de comemorare la locul dezastrului nuclear de la Cernobîl din 1986.",
+                  "text": "Locul dezastrului nuclear de la Cernobîl este o zonă restricționată lângă Cernobîl.",
                   "category": "historical",
                   "coords": [
                         30.099362,
@@ -1284,7 +1284,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
       "en": [
             {
                   "name": "Site of the Chernobyl nuclear disaster",
-                  "text": "A memorial site at the location of the 1986 Chernobyl nuclear disaster.",
+                  "text": "The site of the Chernobyl nuclear disaster is a restricted area near Chernobyl.",
                   "category": "historical",
                   "coords": [
                         30.099362,

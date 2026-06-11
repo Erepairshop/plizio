@@ -467,7 +467,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "de": [
             {
                   "name": "Hundebadestelle Grunewaldsee",
-                  "text": "Der Grunewaldsee ist eine beliebte Badestelle für Hunde in Berlin.",
+                  "text": "Hundebadestelle am Grunewaldsee mit flachem Ufer und Parkplatz am Botanischen Garten.",
                   "category": "recreational",
                   "coords": [
                         13.26488,
@@ -478,7 +478,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "hu": [
             {
                   "name": "Hundebadestelle Grunewaldsee",
-                  "text": "A Grunewaldsee egy népszerű kutyás fürdőhely Berlinben.",
+                  "text": "Kutyafürdő a Grunewaldsee-nél sekély parttal és parkolóval a Botanikus Kert mellett.",
                   "category": "recreational",
                   "coords": [
                         13.26488,
@@ -489,7 +489,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "ro": [
             {
                   "name": "Hundebadestelle Grunewaldsee",
-                  "text": "Grunewaldsee este o zonă de îmbăiere populară pentru câini în Berlin.",
+                  "text": "Loc de baie pentru câini la Grunewaldsee, cu malul lin și parcare lângă Grădina Botanică.",
                   "category": "recreational",
                   "coords": [
                         13.26488,
@@ -500,7 +500,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "en": [
             {
                   "name": "Hundebadestelle Grunewaldsee",
-                  "text": "Grunewaldsee is a popular dog swimming spot in Berlin.",
+                  "text": "Dog bathing spot at Grunewaldsee with a shallow shore and parking near the Botanical Garden.",
                   "category": "recreational",
                   "coords": [
                         13.26488,
@@ -844,7 +844,124 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Superficie de 16 hectares dans la région des lacs du Mecklembourg", "Ouverture en 2006 par l'organisation VIER PFOTEN", "Plus grand centre de protection des ours d'Europe occidentale", "Accueille jusqu'à 20 ours bruns issus de mauvaises conditions de détention", "Comprend des enclos forestiers naturels avec étangs et prairies", "Le sentier des visiteurs mesure environ 2 kilomètres"],
     }, image: "/poi-images/animal-habitat-baerenwald-mueritz-extra.webp"},
   {
-    id: "kid-landmark-ozeaneum-stralsund-extra", "sights": {"de": [{"name": "Freibad Stralsund", "text": "Das Freibad Stralsund liegt nahe dem Ozeaneum.", "category": "recreational", "coords": [13.083862, 54.329813]}, {"name": "Strand Altefähr", "text": "Mit einem malerischen Blick auf die Skyline von Stralsund begrüßt der Strand Altefähr seine Gäste am Strelasund. Die maritime Atmosphäre der Ostseeküste lässt sich hier beim entspannten Baden oder Spazieren am flach abfallenden Ufer herrlich genießen. Familien und Paare schätzen die ruhige Ausstrahlung dieses charmanten Strandabschnitts. Es ist der perfekte Ort, um bei einem Picknick den Sonnenuntergang über den Dächern von Stralsund zu bewundern.", "category": "recreational", "coords": [13.119747, 54.330466]}, {"name": "Schwemmi", "text": "Strand in der Nähe des Ozeaneums Stralsund.", "category": "recreational", "coords": [13.118486, 54.313182]}], "hu": [{"name": "Freibad Stralsund", "text": "A Freibad Stralsund az Ozeaneum közelében található.", "category": "recreational", "coords": [13.083862, 54.329813]}, {"name": "Strand Altefähr", "text": "A stralsundi sziluettre nyíló festői kilátással az Altefähr strand a Strelasundnál várja vendégeit. A balti-tengeri partvidék tengeri hangulata itt csodálatosan élvezhető egy pihentető fürdőzés vagy egy séta során a lassan mélyülő parton. A családok és a párok egyaránt nagyra értékelik ennek a bájos partszakasznak a nyugodt kisugárzását. Tökéletes hely arra, hogy egy piknik keretében megcsodáljuk a naplementét Stralsund háztetői felett.", "category": "recreational", "coords": [13.119747, 54.330466]}, {"name": "Schwemmi", "text": "Strand a stralsundi Ozeaneum közelében.", "category": "recreational", "coords": [13.118486, 54.313182]}], "ro": [{"name": "Freibad Stralsund", "text": "Plaja Freibad Stralsund se află aproape de Ozeaneum.", "category": "recreational", "coords": [13.083862, 54.329813]}, {"name": "Strand Altefähr", "text": "Cu o vedere pitorească la orizontul orașului Stralsund, plaja Altefähr își întâmpină oaspeții pe Strelasund. Atmosfera maritimă a coastei Mării Baltice poate fi savurată minunat aici, în timpul unei băi relaxante sau al unei plimbări pe țărmul cu pante line. Familiile și cuplurile apreciază aura liniștită a acestei fermecătoare secțiuni de plajă. Este locul perfect pentru a admira apusul soarelui peste acoperișurile din Stralsund în timpul unui picnic.", "category": "recreational", "coords": [13.119747, 54.330466]}, {"name": "Schwemmi", "text": "O plajă lângă Ozeaneum Stralsund.", "category": "recreational", "coords": [13.118486, 54.313182]}], "en": [{"name": "Freibad Stralsund", "text": "Freibad Stralsund is located near the Ozeaneum.", "category": "recreational", "coords": [13.083862, 54.329813]}, {"name": "Strand Altefähr", "text": "Offering a highly picturesque view of the Stralsund skyline, Strand Altefähr brightly welcomes its guests along the Strelasund. The maritime atmosphere of the Baltic Sea coast can be wonderfully enjoyed here while taking a relaxed swim or walking along the gently sloping shore. Families and couples greatly appreciate the quiet radiance of this truly charming stretch of beach. It is absolutely the perfect place to admire the sunset over the roofs of Stralsund during a leisurely picnic.", "category": "recreational", "coords": [13.119747, 54.330466]}, {"name": "Schwemmi", "text": "A beach near the Ozeaneum Stralsund.", "category": "recreational", "coords": [13.118486, 54.313182]}]},
+    id: "kid-landmark-ozeaneum-stralsund-extra", "sights": {
+      "de": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Freibad mit 50-Meter-Becken, Sprungturm und Liegewiese nahe der Stralsunder Altstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Mit einem malerischen Blick auf die Skyline von Stralsund begrüßt der Strand Altefähr seine Gäste am Strelasund. Die maritime Atmosphäre der Ostseeküste lässt sich hier beim entspannten Baden oder Spazieren am flach abfallenden Ufer herrlich genießen. Familien und Paare schätzen die ruhige Ausstrahlung dieses charmanten Strandabschnitts. Es ist der perfekte Ort, um bei einem Picknick den Sonnenuntergang über den Dächern von Stralsund zu bewundern.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Naturbadestelle im Strelasund mit Sandstrand, Steg und Flachwasserzone.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Szabadtéri uszoda 50 méteres medencével, ugrótoronnyal és napozóréttel Stralsund óvárosa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "A stralsundi sziluettre nyíló festői kilátással az Altefähr strand a Strelasundnál várja vendégeit. A balti-tengeri partvidék tengeri hangulata itt csodálatosan élvezhető egy pihentető fürdőzés vagy egy séta során a lassan mélyülő parton. A családok és a párok egyaránt nagyra értékelik ennek a bájos partszakasznak a nyugodt kisugárzását. Tökéletes hely arra, hogy egy piknik keretében megcsodáljuk a naplementét Stralsund háztetői felett.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Természetes fürdőhely a Strelasundban homokos parttal, stéggel és sekély vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Ștrand cu bazin de 50 de metri, trambulină și zonă de relaxare lângă centrul vechi al Stralsundului.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Cu o vedere pitorească la orizontul orașului Stralsund, plaja Altefähr își întâmpină oaspeții pe Strelasund. Atmosfera maritimă a coastei Mării Baltice poate fi savurată minunat aici, în timpul unei băi relaxante sau al unei plimbări pe țărmul cu pante line. Familiile și cuplurile apreciază aura liniștită a acestei fermecătoare secțiuni de plajă. Este locul perfect pentru a admira apusul soarelui peste acoperișurile din Stralsund în timpul unui picnic.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Loc natural de înot în Strelasund, cu plajă nisipoasă, debarcader și apă puțin adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Outdoor pool with a 50-meter lane, diving tower and sunbathing lawn near Stralsund's old town.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Offering a highly picturesque view of the Stralsund skyline, Strand Altefähr brightly welcomes its guests along the Strelasund. The maritime atmosphere of the Baltic Sea coast can be wonderfully enjoyed here while taking a relaxed swim or walking along the gently sloping shore. Families and couples greatly appreciate the quiet radiance of this truly charming stretch of beach. It is absolutely the perfect place to admire the sunset over the roofs of Stralsund during a leisurely picnic.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Natural swimming spot in the Strelasund with a sandy beach, pier and shallow water.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-MV",
     coords: [13.097, 54.316],
@@ -1058,7 +1175,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "de": [
             {
                   "name": "Sandstrand Piratensee",
-                  "text": "Der Sandstrand Piratensee liegt im Eifelpark.",
+                  "text": "Sandstrand am Piratensee mit Spielplatz, Liegewiese und Tretbootverleih im Eifelpark.",
                   "category": "recreational",
                   "coords": [
                         6.613119,
@@ -1069,7 +1186,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "hu": [
             {
                   "name": "Sandstrand Piratensee",
-                  "text": "A Sandstrand Piratensee az Eifelparkban található.",
+                  "text": "Homokos part a Piratensee-nél játszótérrel, napozóréttel és vízibicikli-kölcsönzéssel az Eifelparkban.",
                   "category": "recreational",
                   "coords": [
                         6.613119,
@@ -1080,7 +1197,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "ro": [
             {
                   "name": "Sandstrand Piratensee",
-                  "text": "Sandstrand Piratensee este situat în Eifelpark.",
+                  "text": "Plajă nisipoasă la Piratensee, cu loc de joacă, zonă de relaxare și închiriere de bărci cu pedale în Eifelpark.",
                   "category": "recreational",
                   "coords": [
                         6.613119,
@@ -1091,7 +1208,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "en": [
             {
                   "name": "Sandstrand Piratensee",
-                  "text": "Sandstrand Piratensee is located in the Eifelpark.",
+                  "text": "Sandy beach at Piratensee with a playground, sunbathing lawn and pedal boat rental in Eifelpark.",
                   "category": "recreational",
                   "coords": [
                         6.613119,
@@ -1351,7 +1468,124 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Ouvert en 1952 dans le nord de la Saxe-Anhalt.", "La superficie du parc est d'environ 6 hectares au bord du lac de Stendal.", "Abrite environ 500 animaux de près de 75 espèces différentes.", "L'accent est mis sur la préservation des races rares d'animaux domestiques.", "Le zoo accueille environ 80 000 visiteurs par an.", "Dispose d'un centre d'éducation moderne pour la protection de la nature."],
     }, image: "/poi-images/animal-habitat-tiergarten-stendal-extra.webp"},
   {
-    id: "kid-landmark-elbauenpark-extra", "sights": {"de": [{"name": "cable island", "text": "Cable Island ist ein Freizeitbereich im Elbauenpark.", "category": "recreational", "coords": [11.638871, 52.175917]}, {"name": "Naherholungszentrum Neustädter See - FKK-Strand", "text": "Am Rande von Magdeburg bietet das Naherholungszentrum Neustädter See einen dedizierten FKK-Strand für Liebhaber der nahtlosen Bräune. Umgeben von entspannter Seestimmung können Besucher hier ungestört die Sonne genießen und sich im erfrischenden Wasser abkühlen. Der abgetrennte Bereich sorgt für eine lockere und tolerante Atmosphäre abseits des städtischen Alltags. Nehmen Sie sich Zeit für einen ausgedehnten, ruhigen Nachmittag im Einklang mit der Natur.", "category": "recreational", "coords": [11.648742, 52.177032]}, {"name": "Naherholungszentrum Neustädter See", "text": "Badestrand am Neustädter See im Magdeburger Elbauenpark.", "category": "recreational", "coords": [11.647786, 52.174124]}], "hu": [{"name": "cable island", "text": "A Cable Island egy szabadidős terület az Elbauenparkban.", "category": "recreational", "coords": [11.638871, 52.175917]}, {"name": "Naherholungszentrum Neustädter See - FKK-Strand", "text": "Magdeburg szélén a Neustädter See rekreációs központ egy dedikált nudista strandot kínál a varratmentes barnulás kedvelőinek. A pihentető tóparti hangulattal körülvett látogatók itt zavartalanul élvezhetik a napsütést, és lehűlhetnek a frissítő vízben. Az elkülönített terület laza és toleráns légkört biztosít a városi mindennapoktól távol. Szánjon időt egy hosszas, csendes délutánra a természettel harmóniában.", "category": "recreational", "coords": [11.648742, 52.177032]}, {"name": "Naherholungszentrum Neustädter See", "text": "Fürdőstrand a Neustädter See-nél, a magdeburgi Elbauenparkban.", "category": "recreational", "coords": [11.647786, 52.174124]}], "ro": [{"name": "cable island", "text": "Cable Island este o zonă de agrement în Elbauenpark.", "category": "recreational", "coords": [11.638871, 52.175917]}, {"name": "Naherholungszentrum Neustädter See - FKK-Strand", "text": "La marginea orașului Magdeburg, centrul de recreere Neustädter See oferă o plajă de nudiști dedicată iubitorilor de bronz uniform. Înconjurați de o atmosferă relaxantă pe malul lacului, vizitatorii se pot bucura netulburați de soare și se pot răcori în apa înviorătoare. Zona separată asigură o atmosferă relaxată și tolerantă, departe de viața urbană de zi cu zi. Fă-ți timp pentru o după-amiază lungă și liniștită în armonie cu natura.", "category": "recreational", "coords": [11.648742, 52.177032]}, {"name": "Naherholungszentrum Neustädter See", "text": "Plajă la lacul Neustädter din Parcul Elbauen, Magdeburg.", "category": "recreational", "coords": [11.647786, 52.174124]}], "en": [{"name": "cable island", "text": "Cable Island is a leisure area in the Elbauenpark.", "category": "recreational", "coords": [11.638871, 52.175917]}, {"name": "Naherholungszentrum Neustädter See - FKK-Strand", "text": "On the outskirts of Magdeburg, the Neustädter See local recreation center offers a dedicated nudist beach specifically for lovers of an even tan. Surrounded by a delightfully relaxed lakeside mood, visitors can enjoy the sun undisturbed here and cool off in the refreshing water. The comfortably separate area ensures a laid-back and distinctly tolerant atmosphere far away from everyday urban life. Take your time to enjoy an extended, profoundly quiet afternoon in pure harmony with nature.", "category": "recreational", "coords": [11.648742, 52.177032]}, {"name": "Naherholungszentrum Neustädter See", "text": "Bathing beach at Neustädter See in Magdeburg's Elbauenpark.", "category": "recreational", "coords": [11.647786, 52.174124]}]},
+    id: "kid-landmark-elbauenpark-extra", "sights": {
+      "de": [
+            {
+                  "name": "cable island",
+                  "text": "Insel im Elbauenpark mit Seilbahnstation, Aussichtsplattform und Themengärten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "Am Rande von Magdeburg bietet das Naherholungszentrum Neustädter See einen dedizierten FKK-Strand für Liebhaber der nahtlosen Bräune. Umgeben von entspannter Seestimmung können Besucher hier ungestört die Sonne genießen und sich im erfrischenden Wasser abkühlen. Der abgetrennte Bereich sorgt für eine lockere und tolerante Atmosphäre abseits des städtischen Alltags. Nehmen Sie sich Zeit für einen ausgedehnten, ruhigen Nachmittag im Einklang mit der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Badestrand am Neustädter See im Magdeburger Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cable island",
+                  "text": "Sziget az Elbauenparkban kötélpálya-állomással, kilátóval és tematikus kertekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "Magdeburg szélén a Neustädter See rekreációs központ egy dedikált nudista strandot kínál a varratmentes barnulás kedvelőinek. A pihentető tóparti hangulattal körülvett látogatók itt zavartalanul élvezhetik a napsütést, és lehűlhetnek a frissítő vízben. Az elkülönített terület laza és toleráns légkört biztosít a városi mindennapoktól távol. Szánjon időt egy hosszas, csendes délutánra a természettel harmóniában.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Fürdőstrand a Neustädter See-nél, a magdeburgi Elbauenparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cable island",
+                  "text": "Insulă în Parcul Elbauen, cu stație de telecabină, platformă de observație și grădini tematice.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "La marginea orașului Magdeburg, centrul de recreere Neustädter See oferă o plajă de nudiști dedicată iubitorilor de bronz uniform. Înconjurați de o atmosferă relaxantă pe malul lacului, vizitatorii se pot bucura netulburați de soare și se pot răcori în apa înviorătoare. Zona separată asigură o atmosferă relaxată și tolerantă, departe de viața urbană de zi cu zi. Fă-ți timp pentru o după-amiază lungă și liniștită în armonie cu natura.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Plajă la lacul Neustädter din Parcul Elbauen, Magdeburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cable island",
+                  "text": "Island in Elbauenpark with a cable car station, viewing platform and themed gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "On the outskirts of Magdeburg, the Neustädter See local recreation center offers a dedicated nudist beach specifically for lovers of an even tan. Surrounded by a delightfully relaxed lakeside mood, visitors can enjoy the sun undisturbed here and cool off in the refreshing water. The comfortably separate area ensures a laid-back and distinctly tolerant atmosphere far away from everyday urban life. Take your time to enjoy an extended, profoundly quiet afternoon in pure harmony with nature.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Bathing beach at Neustädter See in Magdeburg's Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-ST",
     coords: [11.670, 52.138],
@@ -2117,7 +2351,196 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Exemple mondial de premier plan d'usine connectée numériquement.", "Produit environ 17 millions de composants Simatic par an.", "Atteint un taux de qualité exceptionnel de 99,9988 %.", "La production est automatisée à environ 75 % par des robots et des machines.", "Distinguée plusieurs fois comme 'Usine de l'année' et 'Global Lighthouse'.", "Fondée en 1989 comme site d'électronique dans le Haut-Palatinat."],
     }, image: "/poi-images/industry-siemens-amberg-extra.webp"},
   {
-    id: "industry-siemensstadt-extra", "sights": {"de": [{"name": "Kiesgrube", "text": "Kiesgrube in der Nähe von Berlin-Siemensstadt.", "category": "recreational", "coords": [13.283863, 52.569132]}, {"name": "Strandbad Jungfernheide", "text": "Strandbad in Berlin-Siemensstadt.", "category": "recreational", "coords": [13.275165, 52.54392]}, {"name": "Reiswerder Strand", "text": "Ein echtes Berliner Inselidyll erwartet Erholungssuchende am Reiswerder Strand nahe der Siemensstadt. Versteckt auf der Insel Reiswerder im Tegeler See, bietet dieser Naturstrand eine herrlich ruhige Flucht aus der Großstadt. Besucher können hier durch den Sand schlendern, ins Wasser springen und das grüne Inselambiente auf sich wirken lassen. Da es sich um ein geschütztes Kleinod handelt, ist ein achtsamer Umgang mit der Natur hier besonders wichtig.", "category": "recreational", "coords": [13.256154, 52.568338]}, {"name": "Arbeiter Strand", "text": "Nostalgischen Charme versprüht der traditionsreiche Arbeiter Strand unweit von Siemensstadt Square. Einst als Erholungsort für Werksangehörige gedacht, ist er heute ein gemütlicher Treffpunkt für alle, die eine unkomplizierte Auszeit am Wasser schätzen. Die schattigen Bäume und das beschauliche Ufer laden zu geselligen Nachmittagen oder einem spontanen Sprung ins kühle Nass ein. Für einen rundum gelungenen Sommertag bringen Sie einfach ein gutes Buch und eine Decke mit.", "category": "recreational", "coords": [13.243776, 52.575531]}, {"name": "Kleiner Strand", "text": "Wie der Name schon verrät, ist der Kleine Strand bei Siemensstadt ein beschauliches Fleckchen für eine ruhige Pause. Die überschaubare Uferpartie bietet ein intimes Naturerlebnis fernab überfüllter Badeorte. Hier lässt es sich hervorragend den Gedanken nachhängen, während man die Füße ins kühle Wasser baumeln lässt. Besonders am frühen Morgen haben Sie gute Chancen, dieses idyllische Fleckchen ganz für sich allein zu genießen.", "category": "recreational", "coords": [13.238515, 52.570492]}], "hu": [{"name": "Kiesgrube", "text": "Kavicsbánya Berlin-Siemensstadt közelében.", "category": "recreational", "coords": [13.283863, 52.569132]}, {"name": "Strandbad Jungfernheide", "text": "Strandfürdő Berlin-Siemensstadtban.", "category": "recreational", "coords": [13.275165, 52.54392]}, {"name": "Reiswerder Strand", "text": "Egy igazi berlini szigeti idill várja a kikapcsolódni vágyókat a Siemensstadt közelében található Reiswerder strandon. A Tegeler See-ben lévő Reiswerder szigetén megbúvó természetes strand csodálatosan csendes menedéket nyújt a nagyváros elől. A látogatók itt sétálhatnak a homokban, beugorhatnak a vízbe, és hagyhatják, hogy a zöld szigeti hangulat hasson rájuk. Mivel ez egy védett kis gyöngyszem, a természettel való gondos bánásmód itt különösen fontos.", "category": "recreational", "coords": [13.256154, 52.568338]}, {"name": "Arbeiter Strand", "text": "A Siemensstadt Square közelében fekvő, nagy múltú Arbeiter Strand nosztalgikus bájt sugároz. Az egykor a gyári dolgozók pihenőhelyének szánt terület ma egy hangulatos találkozóhely mindazoknak, akik értékelik az egyszerű vízparti kikapcsolódást. Az árnyas fák és a csendes part társasági délutánokra vagy egy spontán csobbanásra hívogatnak a hűsítő vízbe. Egy minden szempontból sikeres nyári naphoz egyszerűen csak hozzon magával egy jó könyvet és egy takarót.", "category": "recreational", "coords": [13.243776, 52.575531]}, {"name": "Kleiner Strand", "text": "Ahogy a neve is elárulja, a Siemensstadt melletti Kleiner Strand egy szemlélődő hely a csendes pihenéshez. A jól áttekinthető partszakasz meghitt természeti élményt nyújt, távol a túlzsúfolt fürdőhelyektől. Itt nagyszerűen elmerülhetünk a gondolatainkban, miközben a lábunkat a hűs vízbe lógatjuk. Különösen kora reggel van rá jó esély, hogy ezt az idilli helyet teljesen egyedül élvezhesse.", "category": "recreational", "coords": [13.238515, 52.570492]}], "ro": [{"name": "Kiesgrube", "text": "Groapă de pietriș lângă Berlin-Siemensstadt.", "category": "recreational", "coords": [13.283863, 52.569132]}, {"name": "Strandbad Jungfernheide", "text": "Ștrand în Berlin-Siemensstadt.", "category": "recreational", "coords": [13.275165, 52.54392]}, {"name": "Reiswerder Strand", "text": "O adevărată idilă insulară berlineză îi așteaptă pe cei care caută relaxare pe plaja Reiswerder, lângă Siemensstadt. Ascunsă pe insula Reiswerder din lacul Tegeler See, această plajă naturală oferă o evadare minunat de liniștită din marele oraș. Vizitatorii se pot plimba pe nisip, pot sări în apă și pot lăsa ambianța verde a insulei să îi învăluie. Deoarece este o bijuterie protejată, interacțiunea atentă cu natura este deosebit de importantă aici.", "category": "recreational", "coords": [13.256154, 52.568338]}, {"name": "Arbeiter Strand", "text": "Plaja tradițională Arbeiter Strand, aflată nu departe de Siemensstadt Square, emană un farmec nostalgic. Destinată odată ca loc de recreere pentru angajații fabricii, astăzi este un punct de întâlnire confortabil pentru toți cei care apreciază o pauză necomplicată la malul apei. Copacii umbroși și țărmul liniștit te invită la după-amiezi sociabile sau la o săritură spontană în apa rece. Pentru o zi de vară reușită din toate punctele de vedere, pur și simplu aduceți o carte bună și o pătură.", "category": "recreational", "coords": [13.243776, 52.575531]}, {"name": "Kleiner Strand", "text": "După cum sugerează și numele, Kleiner Strand de lângă Siemensstadt este un loc contemplativ pentru o pauză liniștită. Secțiunea de țărm ușor de gestionat oferă o experiență naturală intimă, departe de stațiunile balneare aglomerate. Aici vă puteți lăsa pradă gândurilor în mod excelent, în timp ce vă bălăbăniți picioarele în apa rece. Mai ales dimineața devreme, aveți șanse mari să vă bucurați de acest loc idilic doar pentru dumneavoastră.", "category": "recreational", "coords": [13.238515, 52.570492]}], "en": [{"name": "Kiesgrube", "text": "Gravel pit near Berlin-Siemensstadt.", "category": "recreational", "coords": [13.283863, 52.569132]}, {"name": "Strandbad Jungfernheide", "text": "Beach resort in Berlin-Siemensstadt.", "category": "recreational", "coords": [13.275165, 52.54392]}, {"name": "Reiswerder Strand", "text": "A genuine Berlin island idyll naturally awaits those seeking relaxation at Reiswerder Strand near Siemensstadt. Tucked securely away on the island of Reiswerder in Lake Tegel, this natural beach offers a wonderfully quiet escape from the big city. Visitors can stroll directly through the sand, jump into the water, and truly soak up the verdant island ambiance. Since it is a protected gem, mindful interaction with the natural environment is especially important here.", "category": "recreational", "coords": [13.256154, 52.568338]}, {"name": "Arbeiter Strand", "text": "The highly traditional Arbeiter Strand, located not far from Siemensstadt Square, exudes a distinctly nostalgic charm. Once purely intended as a deeply relaxing retreat for factory employees, today it is a cozy meeting point for anyone who appreciates an uncomplicated break by the water. The genuinely shady trees and the tranquil shore invite sociable afternoons or a brilliantly spontaneous jump into the cool water. For a thoroughly successful summer day, simply bring along a good book and a comfortable blanket.", "category": "recreational", "coords": [13.243776, 52.575531]}, {"name": "Kleiner Strand", "text": "As the name already gives away, the Kleiner Strand near Siemensstadt is a deeply contemplative spot for a remarkably quiet break. The highly manageable shoreline section offers a wonderfully intimate nature experience far removed from terribly crowded seaside resorts. It is an excellent place to happily lose yourself in thought while lazily dangling your feet in the refreshingly cool water. Especially in the very early morning, you have a thoroughly excellent chance of enjoying this truly idyllic spot all to yourself.", "category": "recreational", "coords": [13.238515, 52.570492]}]},
+    id: "industry-siemensstadt-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Ehemalige Kiesgrube mit Bademöglichkeit, Tretbootverleih und Liegewiese in Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Strandbad am Jungfernheidesee mit Sandstrand, Beachvolleyball und Kiosk.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "Ein echtes Berliner Inselidyll erwartet Erholungssuchende am Reiswerder Strand nahe der Siemensstadt. Versteckt auf der Insel Reiswerder im Tegeler See, bietet dieser Naturstrand eine herrlich ruhige Flucht aus der Großstadt. Besucher können hier durch den Sand schlendern, ins Wasser springen und das grüne Inselambiente auf sich wirken lassen. Da es sich um ein geschütztes Kleinod handelt, ist ein achtsamer Umgang mit der Natur hier besonders wichtig.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "Nostalgischen Charme versprüht der traditionsreiche Arbeiter Strand unweit von Siemensstadt Square. Einst als Erholungsort für Werksangehörige gedacht, ist er heute ein gemütlicher Treffpunkt für alle, die eine unkomplizierte Auszeit am Wasser schätzen. Die schattigen Bäume und das beschauliche Ufer laden zu geselligen Nachmittagen oder einem spontanen Sprung ins kühle Nass ein. Für einen rundum gelungenen Sommertag bringen Sie einfach ein gutes Buch und eine Decke mit.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "Wie der Name schon verrät, ist der Kleine Strand bei Siemensstadt ein beschauliches Fleckchen für eine ruhige Pause. Die überschaubare Uferpartie bietet ein intimes Naturerlebnis fernab überfüllter Badeorte. Hier lässt es sich hervorragend den Gedanken nachhängen, während man die Füße ins kühle Wasser baumeln lässt. Besonders am frühen Morgen haben Sie gute Chancen, dieses idyllische Fleckchen ganz für sich allein zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Egykori kavicsbánya fürdőzési lehetőséggel, vízibicikli-kölcsönzéssel és napozóréttel Siemensstadtban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Strandfürdő a Jungfernheidesee-nél homokos parttal, strandröplabdával és büfével.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "Egy igazi berlini szigeti idill várja a kikapcsolódni vágyókat a Siemensstadt közelében található Reiswerder strandon. A Tegeler See-ben lévő Reiswerder szigetén megbúvó természetes strand csodálatosan csendes menedéket nyújt a nagyváros elől. A látogatók itt sétálhatnak a homokban, beugorhatnak a vízbe, és hagyhatják, hogy a zöld szigeti hangulat hasson rájuk. Mivel ez egy védett kis gyöngyszem, a természettel való gondos bánásmód itt különösen fontos.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "A Siemensstadt Square közelében fekvő, nagy múltú Arbeiter Strand nosztalgikus bájt sugároz. Az egykor a gyári dolgozók pihenőhelyének szánt terület ma egy hangulatos találkozóhely mindazoknak, akik értékelik az egyszerű vízparti kikapcsolódást. Az árnyas fák és a csendes part társasági délutánokra vagy egy spontán csobbanásra hívogatnak a hűsítő vízbe. Egy minden szempontból sikeres nyári naphoz egyszerűen csak hozzon magával egy jó könyvet és egy takarót.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "Ahogy a neve is elárulja, a Siemensstadt melletti Kleiner Strand egy szemlélődő hely a csendes pihenéshez. A jól áttekinthető partszakasz meghitt természeti élményt nyújt, távol a túlzsúfolt fürdőhelyektől. Itt nagyszerűen elmerülhetünk a gondolatainkban, miközben a lábunkat a hűs vízbe lógatjuk. Különösen kora reggel van rá jó esély, hogy ezt az idilli helyet teljesen egyedül élvezhesse.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Groapă de pietriș fostă, cu posibilitate de înot, închiriere de bărci cu pedale și zonă de relaxare în Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Ștrand la Jungfernheidesee, cu plajă nisipoasă, volei pe plajă și chioșc.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "O adevărată idilă insulară berlineză îi așteaptă pe cei care caută relaxare pe plaja Reiswerder, lângă Siemensstadt. Ascunsă pe insula Reiswerder din lacul Tegeler See, această plajă naturală oferă o evadare minunat de liniștită din marele oraș. Vizitatorii se pot plimba pe nisip, pot sări în apă și pot lăsa ambianța verde a insulei să îi învăluie. Deoarece este o bijuterie protejată, interacțiunea atentă cu natura este deosebit de importantă aici.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "Plaja tradițională Arbeiter Strand, aflată nu departe de Siemensstadt Square, emană un farmec nostalgic. Destinată odată ca loc de recreere pentru angajații fabricii, astăzi este un punct de întâlnire confortabil pentru toți cei care apreciază o pauză necomplicată la malul apei. Copacii umbroși și țărmul liniștit te invită la după-amiezi sociabile sau la o săritură spontană în apa rece. Pentru o zi de vară reușită din toate punctele de vedere, pur și simplu aduceți o carte bună și o pătură.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "După cum sugerează și numele, Kleiner Strand de lângă Siemensstadt este un loc contemplativ pentru o pauză liniștită. Secțiunea de țărm ușor de gestionat oferă o experiență naturală intimă, departe de stațiunile balneare aglomerate. Aici vă puteți lăsa pradă gândurilor în mod excelent, în timp ce vă bălăbăniți picioarele în apa rece. Mai ales dimineața devreme, aveți șanse mari să vă bucurați de acest loc idilic doar pentru dumneavoastră.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Former gravel pit with swimming, pedal boat rental and sunbathing lawn in Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Lido at Jungfernheidesee with a sandy beach, beach volleyball and kiosk.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "A genuine Berlin island idyll naturally awaits those seeking relaxation at Reiswerder Strand near Siemensstadt. Tucked securely away on the island of Reiswerder in Lake Tegel, this natural beach offers a wonderfully quiet escape from the big city. Visitors can stroll directly through the sand, jump into the water, and truly soak up the verdant island ambiance. Since it is a protected gem, mindful interaction with the natural environment is especially important here.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "The highly traditional Arbeiter Strand, located not far from Siemensstadt Square, exudes a distinctly nostalgic charm. Once purely intended as a deeply relaxing retreat for factory employees, today it is a cozy meeting point for anyone who appreciates an uncomplicated break by the water. The genuinely shady trees and the tranquil shore invite sociable afternoons or a brilliantly spontaneous jump into the cool water. For a thoroughly successful summer day, simply bring along a good book and a comfortable blanket.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "As the name already gives away, the Kleiner Strand near Siemensstadt is a deeply contemplative spot for a remarkably quiet break. The highly manageable shoreline section offers a wonderfully intimate nature experience far removed from terribly crowded seaside resorts. It is an excellent place to happily lose yourself in thought while lazily dangling your feet in the refreshingly cool water. Especially in the very early morning, you have a thoroughly excellent chance of enjoying this truly idyllic spot all to yourself.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-BE",
     coords: [13.273, 52.540],
@@ -2166,7 +2589,124 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Quartier historique de Berlin créé à partir de 1897 pour les employés de Siemens.", "Le projet 'Siemensstadt Square' couvre une superficie de 76 hectares.", "Environ 20 000 personnes travaillent aujourd'hui dans le secteur de Siemensstadt.", "Abritait autrefois le plus grand hall d'appareillage électrique au monde.", "Le réaménagement prévoit environ 2 700 nouveaux logements dans le quartier.", "Centre pour les technologies d'avenir comme la transition énergétique et l'Industrie 4.0."],
     }, image: "/poi-images/industry-siemensstadt-extra.webp"},
   {
-    id: "industry-tesla-brandenburg-extra", "sights": {"de": [{"name": "Werlsee Nordstrand", "text": "Nordstrand am Werlsee in der Nähe der Tesla-Werke.", "category": "recreational", "coords": [13.808399, 52.424028]}, {"name": "Strand am Peetzsee", "text": "In der malerischen Umgebung rund um die Tesla Gigafactory Berlin Brandenburg lädt der Strand am Peetzsee zu erholsamen Naturmomenten ein. Das bewaldete Ufer und das ruhige Wasser des Sees bilden eine harmonische Kulisse zum Schwimmen und für ausgedehnte Spaziergänge. Die ländliche Beschaulichkeit zieht Naturliebhaber an, die dem Alltag für ein paar Stunden entfliehen möchten. Ein idealer Ort, um an einem warmen Tag die Seele baumeln zu lassen.", "category": "recreational", "coords": [13.83703, 52.422787]}, {"name": "Werlsee Südstrand", "text": "Der Werlsee Südstrand liegt nahe der Tesla-Region in Brandenburg.", "category": "recreational", "coords": [13.817365, 52.418344]}], "hu": [{"name": "Werlsee Nordstrand", "text": "Nordstrand strand a Werlseenél, a Tesla-gyár közelében.", "category": "recreational", "coords": [13.808399, 52.424028]}, {"name": "Strand am Peetzsee", "text": "A Tesla Gigafactory Berlin Brandenburg körüli festői környezetben a Peetzsee strandja pihentető természeti pillanatokra invitál. Az erdős part és a tó nyugodt vize harmonikus hátteret biztosít az úszáshoz és a hosszú sétákhoz. A vidéki nyugalom vonzza azokat a természetkedvelőket, akik néhány órára szeretnének kiszakadni a mindennapokból. Ideális hely arra, hogy egy meleg napon egyszerűen csak ellazuljunk.", "category": "recreational", "coords": [13.83703, 52.422787]}, {"name": "Werlsee Südstrand", "text": "A Werlsee Südstrand a brandenburgi Tesla-régió közelében található.", "category": "recreational", "coords": [13.817365, 52.418344]}], "ro": [{"name": "Werlsee Nordstrand", "text": "Plaja Nordstrand la lacul Werlsee lângă fabricile Tesla.", "category": "recreational", "coords": [13.808399, 52.424028]}, {"name": "Strand am Peetzsee", "text": "În împrejurimile pitorești din jurul Tesla Gigafactory Berlin Brandenburg, plaja de pe Peetzsee vă invită la momente relaxante în natură. Țărmul împădurit și apele liniștite ale lacului formează un fundal armonios pentru înot și plimbări lungi. Liniștea rurală atrage iubitorii de natură care doresc să evadeze din viața de zi cu zi pentru câteva ore. Un loc ideal pentru a te relaxa pur și simplu într-o zi caldă.", "category": "recreational", "coords": [13.83703, 52.422787]}, {"name": "Werlsee Südstrand", "text": "Werlsee Südstrand se află lângă regiunea Tesla din Brandenburg.", "category": "recreational", "coords": [13.817365, 52.418344]}], "en": [{"name": "Werlsee Nordstrand", "text": "Nordstrand beach at Werlsee near the Tesla plants.", "category": "recreational", "coords": [13.808399, 52.424028]}, {"name": "Strand am Peetzsee", "text": "Set securely within the picturesque surroundings closely circling the Tesla Gigafactory Berlin Brandenburg, the beach at Peetzsee openly invites you to enjoy genuinely relaxing moments in nature. The deeply wooded shore and the remarkably calm waters of the lake form a thoroughly harmonious backdrop for swimming and delightfully extended walks. The profoundly rural tranquility gracefully attracts nature lovers eager to escape everyday life for a good few hours. It is an utterly ideal spot to let your soul completely unwind on a noticeably warm day.", "category": "recreational", "coords": [13.83703, 52.422787]}, {"name": "Werlsee Südstrand", "text": "Werlsee Südstrand is located near the Tesla region in Brandenburg.", "category": "recreational", "coords": [13.817365, 52.418344]}]},
+    id: "industry-tesla-brandenburg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Nördlicher Sandstrand des Werlsees mit Flachwasserzone und Liegewiese nahe Tesla Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "In der malerischen Umgebung rund um die Tesla Gigafactory Berlin Brandenburg lädt der Strand am Peetzsee zu erholsamen Naturmomenten ein. Das bewaldete Ufer und das ruhige Wasser des Sees bilden eine harmonische Kulisse zum Schwimmen und für ausgedehnte Spaziergänge. Die ländliche Beschaulichkeit zieht Naturliebhaber an, die dem Alltag für ein paar Stunden entfliehen möchten. Ein idealer Ort, um an einem warmen Tag die Seele baumeln zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "Der Werlsee Südstrand liegt nahe der Tesla-Region in Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "A Werlsee északi homokos partja sekély vízzel és napozóréttel a Tesla Brandenburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "A Tesla Gigafactory Berlin Brandenburg körüli festői környezetben a Peetzsee strandja pihentető természeti pillanatokra invitál. Az erdős part és a tó nyugodt vize harmonikus hátteret biztosít az úszáshoz és a hosszú sétákhoz. A vidéki nyugalom vonzza azokat a természetkedvelőket, akik néhány órára szeretnének kiszakadni a mindennapokból. Ideális hely arra, hogy egy meleg napon egyszerűen csak ellazuljunk.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "A Werlsee Südstrand a brandenburgi Tesla-régió közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Plaja nordică nisipoasă a lacului Werlsee, cu apă puțin adâncă și zonă de relaxare lângă Tesla Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "În împrejurimile pitorești din jurul Tesla Gigafactory Berlin Brandenburg, plaja de pe Peetzsee vă invită la momente relaxante în natură. Țărmul împădurit și apele liniștite ale lacului formează un fundal armonios pentru înot și plimbări lungi. Liniștea rurală atrage iubitorii de natură care doresc să evadeze din viața de zi cu zi pentru câteva ore. Un loc ideal pentru a te relaxa pur și simplu într-o zi caldă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "Werlsee Südstrand se află lângă regiunea Tesla din Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Northern sandy beach of Werlsee with a shallow water zone and sunbathing lawn near Tesla Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "Set securely within the picturesque surroundings closely circling the Tesla Gigafactory Berlin Brandenburg, the beach at Peetzsee openly invites you to enjoy genuinely relaxing moments in nature. The deeply wooded shore and the remarkably calm waters of the lake form a thoroughly harmonious backdrop for swimming and delightfully extended walks. The profoundly rural tranquility gracefully attracts nature lovers eager to escape everyday life for a good few hours. It is an utterly ideal spot to let your soul completely unwind on a noticeably warm day.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "Werlsee Südstrand is located near the Tesla region in Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-BB",
     coords: [13.791, 52.391],
@@ -2263,7 +2803,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "de": [
             {
                   "name": "Die Komplette Palette",
-                  "text": "Die Komplette Palette am Bremer Weserufer.",
+                  "text": "Farbenfroher Spielplatz mit Regenbogenfarben, Wasserspielen und Kletterelementen bei Mercedes-Benz Bremen.",
                   "category": "recreational",
                   "coords": [
                         8.875469,
@@ -2274,7 +2814,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "hu": [
             {
                   "name": "Die Komplette Palette",
-                  "text": "Die Komplette Palette a brémai Weser-parton.",
+                  "text": "Szivárványszínű játszótér vízi játékokkal és mászóelemekkel a Mercedes-Benz Bremen mellett.",
                   "category": "recreational",
                   "coords": [
                         8.875469,
@@ -2285,7 +2825,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "ro": [
             {
                   "name": "Die Komplette Palette",
-                  "text": "Die Komplette Palette pe malul râului Weser din Bremen.",
+                  "text": "Loc de joacă colorat în culorile curcubeului, cu jocuri de apă și elemente de cățărare lângă Mercedes-Benz Bremen.",
                   "category": "recreational",
                   "coords": [
                         8.875469,
@@ -2296,7 +2836,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       "en": [
             {
                   "name": "Die Komplette Palette",
-                  "text": "Die Komplette Palette on the Weser riverbank in Bremen.",
+                  "text": "Colorful playground with rainbow colors, water play features and climbing elements near Mercedes-Benz Bremen.",
                   "category": "recreational",
                   "coords": [
                         8.875469,

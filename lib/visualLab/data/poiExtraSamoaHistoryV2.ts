@@ -2928,7 +2928,232 @@ export const samoaHistoryV2: POI[] = [
     image: "/poi-images/samoa-salelologa-market-history-v2.webp",
   },
   {
-    id: "samoa-tufutafoe-historical-village-history-v2", "sights": {"de": [{"name": "Faleālupo Beach", "text": "Eingebettet im historischen Dorf Tufutafoe, bietet der Faleālupo Beach einen ruhigen Sandstreifen, der reich an natürlicher Schönheit ist. Die Umgebung sorgt für eine zutiefst gelassene und fast schon historische Atmosphäre am Meer. Besucher kommen oft hierher, um im klaren Wasser zu schwimmen oder beim stillen Spaziergang am Ufer nachzudenken. Ein Besuch hier fühlt sich an wie eine Reise in die Vergangenheit und ist ein exzellenter Ort, um modernen Ablenkungen zu entfliehen.", "category": "recreational", "coords": [-172.787927, -13.499202]}, {"name": "Seeti Beach", "text": "Der Seeti Beach befindet sich im historischen Dorf Tufutafoe und ist ein malerischer und friedlicher Abschnitt der Küstenlinie. Die abgeschiedene Atmosphäre lädt Besucher dazu ein, vollständig in die ruhige Schönheit der samoanischen Ufer einzutauchen. Es ist ein ideales Gebiet für ungestörtes Sonnenbaden, Waten im Wasser und das Beobachten der natürlichen Küstenlandschaft. Wenn man einfache Vorräte mitbringt, kann man hier stundenlang ungestört am Wasser entspannen.", "category": "recreational", "coords": [-172.790004, -13.501768]}, {"name": "Moso Footprint", "text": "Moso Footprint ist eine Sehenswürdigkeit im Historischen Dorf Tufutafoe.", "category": "landmark", "coords": [-172.766906, -13.501527]}, {"name": "House of Rock", "text": "House of Rock ist eine Attraktion im Historischen Dorf Tufutafoe.", "category": "landmark", "coords": [-172.785785, -13.496955]}, {"name": "Ancient Star Mound", "text": "Ancient Star Mound ist eine historische Sehenswürdigkeit im Historischen Dorf Tufutafoe.", "category": "landmark", "coords": [-172.801625, -13.515625]}, {"name": "Falealupo Catholic Church Ruins", "text": "Die Falealupo Catholic Church Ruins sind Ruinen im Historischen Dorf Tufutafoe.", "category": "historical", "coords": [-172.784001, -13.49376]}], "hu": [{"name": "Faleālupo Beach", "text": "A Tufutafoe történelmi faluban fészkelő Faleālupo Beach egy csendes, természeti szépségekben gazdag homokos partszakaszt kínál. A környezet mélyen nyugodt és kissé történelmi hangulatot biztosít a tenger mellett. A látogatók gyakran jönnek ide úszni a tiszta vizekbe, vagy elmélkedni egy csendes séta során a parton. Az itteni látogatás olyan, mintha visszalépnénk az időben, kiváló helyszínt biztosítva a modern világ zavaró tényezői előli meneküléshez.", "category": "recreational", "coords": [-172.787927, -13.499202]}, {"name": "Seeti Beach", "text": "A Tufutafoe történelmi falun belül elhelyezkedő Seeti Beach a partvidék festői és békés szakasza. Az elzárt hangulat arra invitálja a látogatókat, hogy teljesen elmerüljenek a szamoai partok csendes szépségében. Ideális terület a ráérős napozáshoz, fürdőzéshez és a természetes part menti táj megfigyeléséhez. Egyszerű készletek magunkkal hozatala lehetővé teszi, hogy órákig zavartalanul pihenjünk a víz mellett.", "category": "recreational", "coords": [-172.790004, -13.501768]}, {"name": "Moso Footprint", "text": "A Moso Footprint egy látványosság Tufutafoe történelmi falujában.", "category": "landmark", "coords": [-172.766906, -13.501527]}, {"name": "House of Rock", "text": "A House of Rock egy helyi látványosság Tufutafoe történelmi falujában.", "category": "landmark", "coords": [-172.785785, -13.496955]}, {"name": "Ancient Star Mound", "text": "Az Ancient Star Mound egy látványosság Tufutafoe falujában.", "category": "landmark", "coords": [-172.801625, -13.515625]}, {"name": "Falealupo Catholic Church Ruins", "text": "A Falealupo Catholic Church Ruins templomrom Tufutafoe történelmi falujában található.", "category": "historical", "coords": [-172.784001, -13.49376]}], "ro": [{"name": "Faleālupo Beach", "text": "Amplasată în satul istoric Tufutafoe, plaja Faleālupo oferă o porțiune liniștită de nisip, bogată în frumusețe naturală. Cadrul oferă o atmosferă profund senină și oarecum istorică la malul mării. Vizitatorii vin adesea aici pentru a înota în apele limpezi sau pentru a reflecta în timpul unei plimbări liniștite pe țărm. O vizită aici se simte ca o întoarcere în timp, făcând din ea un loc excelent pentru a scăpa de distragerile moderne.", "category": "recreational", "coords": [-172.787927, -13.499202]}, {"name": "Seeti Beach", "text": "Situată în satul istoric Tufutafoe, plaja Seeti este o secțiune pitorească și pașnică a coastei. Atmosfera izolată invită vizitatorii să se cufunde complet în frumusețea liniștită a țărmurilor samoane. Este o zonă ideală pentru plajă negrăbită, plimbare prin apă și observarea peisajului de coastă natural. Aducerea de provizii simple vă va permite să vă relaxați nederanjat ore întregi la apă.", "category": "recreational", "coords": [-172.790004, -13.501768]}, {"name": "Moso Footprint", "text": "Moso Footprint este o atracție situată în satul istoric Tufutafoe.", "category": "landmark", "coords": [-172.766906, -13.501527]}, {"name": "House of Rock", "text": "House of Rock este o atracție în satul istoric Tufutafoe.", "category": "landmark", "coords": [-172.785785, -13.496955]}, {"name": "Ancient Star Mound", "text": "Ancient Star Mound este o atracție în satul istoric Tufutafoe.", "category": "landmark", "coords": [-172.801625, -13.515625]}, {"name": "Falealupo Catholic Church Ruins", "text": "Falealupo Catholic Church Ruins reprezintă ruinele unei biserici din satul istoric Tufutafoe.", "category": "historical", "coords": [-172.784001, -13.49376]}], "en": [{"name": "Faleālupo Beach", "text": "Nestled in the Tufutafoe Historical Village, Faleālupo Beach offers a tranquil stretch of sand rich in natural beauty. The setting provides a deeply serene and somewhat historic atmosphere by the sea. Visitors often come here to swim in the clear waters or to reflect during a quiet walk along the shore. Visiting here feels like stepping back in time, making it an excellent spot to escape modern distractions.", "category": "recreational", "coords": [-172.787927, -13.499202]}, {"name": "Seeti Beach", "text": "Located within the Tufutafoe Historical Village, Seeti Beach is a picturesque and peaceful section of the coastline. The secluded atmosphere invites visitors to fully immerse themselves in the quiet beauty of the Samoan shores. It is an ideal area for unhurried sunbathing, wading, and observing the natural coastal landscape. Bringing simple supplies will allow you to relax undisturbed for hours by the water.", "category": "recreational", "coords": [-172.790004, -13.501768]}, {"name": "Moso Footprint", "text": "Moso Footprint is an attraction found in the historic village of Tufutafoe.", "category": "landmark", "coords": [-172.766906, -13.501527]}, {"name": "House of Rock", "text": "House of Rock is an attraction located in the historic village of Tufutafoe.", "category": "landmark", "coords": [-172.785785, -13.496955]}, {"name": "Ancient Star Mound", "text": "Ancient Star Mound is an attraction in the historic village of Tufutafoe.", "category": "landmark", "coords": [-172.801625, -13.515625]}, {"name": "Falealupo Catholic Church Ruins", "text": "The Falealupo Catholic Church Ruins are historical ruins located in the historic village of Tufutafoe.", "category": "historical", "coords": [-172.784001, -13.49376]}]},
+    id: "samoa-tufutafoe-historical-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "Eingebettet im historischen Dorf Tufutafoe, bietet der Faleālupo Beach einen ruhigen Sandstreifen, der reich an natürlicher Schönheit ist. Die Umgebung sorgt für eine zutiefst gelassene und fast schon historische Atmosphäre am Meer. Besucher kommen oft hierher, um im klaren Wasser zu schwimmen oder beim stillen Spaziergang am Ufer nachzudenken. Ein Besuch hier fühlt sich an wie eine Reise in die Vergangenheit und ist ein exzellenter Ort, um modernen Ablenkungen zu entfliehen.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "Der Seeti Beach befindet sich im historischen Dorf Tufutafoe und ist ein malerischer und friedlicher Abschnitt der Küstenlinie. Die abgeschiedene Atmosphäre lädt Besucher dazu ein, vollständig in die ruhige Schönheit der samoanischen Ufer einzutauchen. Es ist ein ideales Gebiet für ungestörtes Sonnenbaden, Waten im Wasser und das Beobachten der natürlichen Küstenlandschaft. Wenn man einfache Vorräte mitbringt, kann man hier stundenlang ungestört am Wasser entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "Legendärer Fußabdruck des Riesen Moso in Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "Felsformation, die einem Haus ähnelt, in Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Prähistorischer sternförmiger Erdhügel in Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "Ruinen einer katholischen Kirche in Falealupo, nahe Tufutafoe.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "A Tufutafoe történelmi faluban fészkelő Faleālupo Beach egy csendes, természeti szépségekben gazdag homokos partszakaszt kínál. A környezet mélyen nyugodt és kissé történelmi hangulatot biztosít a tenger mellett. A látogatók gyakran jönnek ide úszni a tiszta vizekbe, vagy elmélkedni egy csendes séta során a parton. Az itteni látogatás olyan, mintha visszalépnénk az időben, kiváló helyszínt biztosítva a modern világ zavaró tényezői előli meneküléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "A Tufutafoe történelmi falun belül elhelyezkedő Seeti Beach a partvidék festői és békés szakasza. Az elzárt hangulat arra invitálja a látogatókat, hogy teljesen elmerüljenek a szamoai partok csendes szépségében. Ideális terület a ráérős napozáshoz, fürdőzéshez és a természetes part menti táj megfigyeléséhez. Egyszerű készletek magunkkal hozatala lehetővé teszi, hogy órákig zavartalanul pihenjünk a víz mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "A Moso óriás legendás lábnyoma Tufutafoe-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "Házra emlékeztető sziklaalakzat Tufutafoe-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Őskori csillag alakú földhalom Tufutafoe-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "Katolikus templom romjai Falealupóban, Tufutafoe közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "Amplasată în satul istoric Tufutafoe, plaja Faleālupo oferă o porțiune liniștită de nisip, bogată în frumusețe naturală. Cadrul oferă o atmosferă profund senină și oarecum istorică la malul mării. Vizitatorii vin adesea aici pentru a înota în apele limpezi sau pentru a reflecta în timpul unei plimbări liniștite pe țărm. O vizită aici se simte ca o întoarcere în timp, făcând din ea un loc excelent pentru a scăpa de distragerile moderne.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "Situată în satul istoric Tufutafoe, plaja Seeti este o secțiune pitorească și pașnică a coastei. Atmosfera izolată invită vizitatorii să se cufunde complet în frumusețea liniștită a țărmurilor samoane. Este o zonă ideală pentru plajă negrăbită, plimbare prin apă și observarea peisajului de coastă natural. Aducerea de provizii simple vă va permite să vă relaxați nederanjat ore întregi la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "Amprenta legendară a uriașului Moso în Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "Formațiune stâncoasă asemănătoare unei case în Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Movilă de pământ preistorică în formă de stea în Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "Ruinele unei biserici catolice în Falealupo, lângă Tufutafoe.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "Nestled in the Tufutafoe Historical Village, Faleālupo Beach offers a tranquil stretch of sand rich in natural beauty. The setting provides a deeply serene and somewhat historic atmosphere by the sea. Visitors often come here to swim in the clear waters or to reflect during a quiet walk along the shore. Visiting here feels like stepping back in time, making it an excellent spot to escape modern distractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "Located within the Tufutafoe Historical Village, Seeti Beach is a picturesque and peaceful section of the coastline. The secluded atmosphere invites visitors to fully immerse themselves in the quiet beauty of the Samoan shores. It is an ideal area for unhurried sunbathing, wading, and observing the natural coastal landscape. Bringing simple supplies will allow you to relax undisturbed for hours by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "Legendary footprint of the giant Moso in Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "Rock formation resembling a house in Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Prehistoric star-shaped earth mound in Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "Ruins of a Catholic church in Falealupo, near Tufutafoe.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ]
+},
     parent: "WS",
     type: "village",
     name: { de: "Historisches Dorf Tufutafoe", hu: "Tufutafoe történelmi falu", ro: "Satul istoric Tufutafoe", en: "Tufutafoe Historical Village" },

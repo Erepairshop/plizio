@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraAfghanistanReliefV2: POI[] = [
   {
-    id: "noshaq-relief-v2",
+    id: "noshaq-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istor-o-Nal",
+                  "text": "Der dritthöchste Gipfel des Hindukusch, gelegen an der Grenze zwischen Pakistan und Afghanistan.",
+                  "category": "natural",
+                  "coords": [
+                        71.897511,
+                        36.377294
+                  ]
+            },
+            {
+                  "name": "Noschak",
+                  "text": "Der höchste Berg Afghanistans, der sich im Hindukusch-Gebirge auf 7.492 Meter erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        71.830264,
+                        36.432967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istor-o-Nal",
+                  "text": "A Hindukus harmadik legmagasabb csúcsa a pakisztáni-afgán határon.",
+                  "category": "natural",
+                  "coords": [
+                        71.897511,
+                        36.377294
+                  ]
+            },
+            {
+                  "name": "Noshaq",
+                  "text": "Afganisztán legmagasabb hegye, amely 7492 méterrel magasodik a Hindukusban.",
+                  "category": "natural",
+                  "coords": [
+                        71.830264,
+                        36.432967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istor-o-Nal",
+                  "text": "Al treilea cel mai înalt vârf din Hindu Kush, situat la granița dintre Pakistan și Afganistan.",
+                  "category": "natural",
+                  "coords": [
+                        71.897511,
+                        36.377294
+                  ]
+            },
+            {
+                  "name": "Noshaq",
+                  "text": "Cel mai înalt munte din Afganistan, care se înalță la 7.492 de metri în masivul Hindu Kush.",
+                  "category": "natural",
+                  "coords": [
+                        71.830264,
+                        36.432967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Istor-o-Nal",
+                  "text": "The third-highest peak of the Hindu Kush, located on the border between Pakistan and Afghanistan.",
+                  "category": "natural",
+                  "coords": [
+                        71.897511,
+                        36.377294
+                  ]
+            },
+            {
+                  "name": "Noshaq",
+                  "text": "The highest mountain in Afghanistan, rising to 7,492 meters in the Hindu Kush range.",
+                  "category": "natural",
+                  "coords": [
+                        71.830264,
+                        36.432967
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AF-BDS",
     coords: [71.8298, 36.4332],
@@ -214,7 +295,52 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     }
   },
   {
-    id: "koh-e-baba-relief-v2",
+    id: "koh-e-baba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuh-e Baba",
+                  "text": "Ein bedeutendes Gebirge in Zentralafghanistan mit Gipfeln über 5.000 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        67.397228,
+                        34.656507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuh-e Baba",
+                  "text": "Jelentős hegylánc Közép-Afganisztánban, 5000 méter feletti csúcsokkal.",
+                  "category": "natural",
+                  "coords": [
+                        67.397228,
+                        34.656507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuh-e Baba",
+                  "text": "Un lanț muntos major din centrul Afganistanului, cu vârfuri care depășesc 5.000 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        67.397228,
+                        34.656507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuh-e Baba",
+                  "text": "A major mountain range in central Afghanistan with peaks exceeding 5,000 metres.",
+                  "category": "natural",
+                  "coords": [
+                        67.397228,
+                        34.656507
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AF-BAM",
     coords: [67.3300, 34.6600],
@@ -249,7 +375,52 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       fr: ["Localisation : Centre de l'Afghanistan, province de Bamiyan", "Contrefort occidental de l'Hindou Kouch", "Sommet le plus élevé : Shah Fuladi (env. 5 048 m)", "Surnommé le 'château d'eau' de l'Afghanistan", "Source des fleuves Kaboul, Helmand et Hari Rud", "Peuplé principalement par les Hazaras", "Crucial pour l'approvisionnement en eau du pays", "Son nom signifie 'Montagne du Père'"],
     }, image: "/poi-images/koh-e-baba-relief-v2.webp"},
   {
-    id: "shah-e-fuladi-relief-v2",
+    id: "shah-e-fuladi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shah Fuladi",
+                  "text": "Der höchste Gipfel des Koh-e-Baba-Gebirges, der oft das ganze Jahr über schneebedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        67.624722,
+                        34.643066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shah Fuladi",
+                  "text": "A Koh-e Baba-hegység legmagasabb csúcsa, amelyet gyakran egész évben hó borít.",
+                  "category": "natural",
+                  "coords": [
+                        67.624722,
+                        34.643066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shah Fuladi",
+                  "text": "Cel mai înalt vârf din lanțul Koh-e Baba, adesea acoperit de zăpadă tot anul.",
+                  "category": "natural",
+                  "coords": [
+                        67.624722,
+                        34.643066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shah Fuladi",
+                  "text": "The highest peak of the Koh-e Baba range, often capped with snow year-round.",
+                  "category": "natural",
+                  "coords": [
+                        67.624722,
+                        34.643066
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AF-BAM",
     coords: [67.6250, 34.6450],
@@ -319,7 +490,88 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       fr: ["Localisation : centre de l'Afghanistan, province de Bamiyan", "Altitude : env. 2 500 mètres", "Patrimoine mondial de l'UNESCO depuis 2003", "Ancien centre bouddhiste majeur sur la route de la Soie", "Site de deux statues colossales de Bouddha (détruites en 2001)", "Entourée de falaises spectaculaires de grès rouge", "La vallée est habitée par les Hazaras", "Réputée pour sa culture de pommes de terre"],
     }, image: "/poi-images/bamyan-valley-relief-v2.webp"},
   {
-    id: "spin-ghar-relief-v2",
+    id: "spin-ghar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kharlachi Fort",
+                  "text": "Eine Grenzbefestigung in der Region Spin Ghar nahe dem Grenzübergang.",
+                  "category": "fortress",
+                  "coords": [
+                        69.955212,
+                        33.839652
+                  ]
+            },
+            {
+                  "name": "Imam Baba Shrine",
+                  "text": "Eine heilige Stätte, die einer verehrten Persönlichkeit gewidmet ist und in der Bergregion Spin Ghar liegt.",
+                  "category": "religious",
+                  "coords": [
+                        70.003114,
+                        33.938864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kharlachi Fort",
+                  "text": "Határerődítmény a Spin Ghar régióban, a határátkelő közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        69.955212,
+                        33.839652
+                  ]
+            },
+            {
+                  "name": "Imam Baba Shrine",
+                  "text": "Egy tisztelt személynek szentelt szent hely a Spin Ghar hegyvidéki terepén.",
+                  "category": "religious",
+                  "coords": [
+                        70.003114,
+                        33.938864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kharlachi Fort",
+                  "text": "O fortificație de frontieră situată în regiunea Spin Ghar, lângă punctul de trecere a frontierei.",
+                  "category": "fortress",
+                  "coords": [
+                        69.955212,
+                        33.839652
+                  ]
+            },
+            {
+                  "name": "Imam Baba Shrine",
+                  "text": "Un sit sacru dedicat unei figuri venerate, amplasat în relieful muntos al regiunii Spin Ghar.",
+                  "category": "religious",
+                  "coords": [
+                        70.003114,
+                        33.938864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kharlachi Fort",
+                  "text": "A frontier fortification situated in the Spin Ghar region near the border crossing.",
+                  "category": "fortress",
+                  "coords": [
+                        69.955212,
+                        33.839652
+                  ]
+            },
+            {
+                  "name": "Imam Baba Shrine",
+                  "text": "A sacred site dedicated to a revered figure nestled within the Spin Ghar mountainous terrain.",
+                  "category": "religious",
+                  "coords": [
+                        70.003114,
+                        33.938864
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AF-NAN",
     coords: [70.0000, 33.9000],
@@ -496,7 +748,52 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       fr: ["Localisation : province de Jowzjan, nord de l'Afghanistan", "Une vaste plaine désertique aride", "Site du massacre controversé de Dasht-e Leili en 2001", "Des prisonniers talibans y sont morts dans des conteneurs maritimes", "Marqué par un climat continental rude", "Le paysage se compose de sols sableux et argileux", "L'eau est une ressource rare dans la région", "Traditionnellement utilisé par les bergers nomades"],
     }, image: "/poi-images/dasht-e-leili-relief-v2.webp"},
   {
-    id: "korengal-valley-relief-v2",
+    id: "korengal-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chalas Ghar",
+                  "text": "Ein steiler Gebirgskamm, der die strategisch wichtige Korengal-Schlucht überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        70.80381,
+                        34.829693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chalas Ghar",
+                  "text": "Egy meredek hegygerinc, amely a stratégiailag fontos Korengal-szurdokra néz.",
+                  "category": "natural",
+                  "coords": [
+                        70.80381,
+                        34.829693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chalas Ghar",
+                  "text": "O creastă muntoasă abruptă care domină defileul Korengal, important din punct de vedere strategic.",
+                  "category": "natural",
+                  "coords": [
+                        70.80381,
+                        34.829693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chalas Ghar",
+                  "text": "A steep mountain ridge overlooking the strategically important Korengal gorge.",
+                  "category": "natural",
+                  "coords": [
+                        70.80381,
+                        34.829693
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AF-KNR",
     coords: [70.8200, 34.8800],
@@ -566,7 +863,88 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       fr: ["Étymologie : « Montagne Noire » en persan", "Nom de plusieurs chaînes de montagnes dans l'ouest et le centre de l'Afghanistan", "Une chaîne célèbre se trouve dans la province d'Hérat", "Caractérisée par des formations rocheuses sombres et escarpées", "Environnement sec avec une végétation clairsemée", "Altitude moindre par rapport à l'Hindou Kouch", "Influence le climat local et la disponibilité de l'eau", "A historiquement servi de barrière naturelle aux voyages"],
     }, image: "/poi-images/siah-koh-relief-v2.webp"},
   {
-    id: "shomali-plain-relief-v2",
+    id: "shomali-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bōstān",
+                  "text": "Archäologische Überreste einer alten Siedlung in der fruchtbaren Schomali-Ebene.",
+                  "category": "historical",
+                  "coords": [
+                        69.271738,
+                        34.736649
+                  ]
+            },
+            {
+                  "name": "Kariz Mosque",
+                  "text": "Eine lokale Moschee in der Region Schomali, benannt nach den traditionellen unterirdischen Bewässerungskanälen.",
+                  "category": "landmark",
+                  "coords": [
+                        69.189628,
+                        34.851511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bōstān",
+                  "text": "Egy ősi település régészeti maradványai a termékeny Somáli-síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        69.271738,
+                        34.736649
+                  ]
+            },
+            {
+                  "name": "Kariz Mosque",
+                  "text": "Helyi mecset a Somáli régióban, amely a hagyományos földalatti öntözőcsatornákról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        69.189628,
+                        34.851511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bōstān",
+                  "text": "Rămășițe arheologice ale unei așezări antice situate în câmpia fertilă Shomali.",
+                  "category": "historical",
+                  "coords": [
+                        69.271738,
+                        34.736649
+                  ]
+            },
+            {
+                  "name": "Kariz Mosque",
+                  "text": "O moschee locală din regiunea Shomali, numită după canalele tradiționale de irigații subterane.",
+                  "category": "landmark",
+                  "coords": [
+                        69.189628,
+                        34.851511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bōstān",
+                  "text": "Archaeological remains of an ancient settlement located on the fertile Shomali Plain.",
+                  "category": "historical",
+                  "coords": [
+                        69.271738,
+                        34.736649
+                  ]
+            },
+            {
+                  "name": "Kariz Mosque",
+                  "text": "A local mosque in the Shomali region, named after the traditional underground irrigation channels.",
+                  "category": "landmark",
+                  "coords": [
+                        69.189628,
+                        34.851511
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "AF-KAB",
     coords: [69.2500, 34.8000],
@@ -602,7 +980,340 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
     }
   },
   {
-    id: "pech-valley-relief-v2",
+    id: "pech-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Badayl Sar",
+                  "text": "Ein hoher Berggipfel über dem Pech-Tal, bekannt für seine steilen Hänge und das felsige Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        70.989684,
+                        34.840607
+                  ]
+            },
+            {
+                  "name": "Gatigal Sar",
+                  "text": "Ein Gipfel im Pech-Flussbecken, Teil der von tiefen Tälern geprägten Gebirgslandschaft von Kunar.",
+                  "category": "natural",
+                  "coords": [
+                        70.955522,
+                        34.855308
+                  ]
+            },
+            {
+                  "name": "Sawtalo Sar",
+                  "text": "Ein Gipfel in der Pech-Tal-Region im Osten Afghanistans, der zur komplexen Topographie des Gebiets beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        70.960183,
+                        34.869592
+                  ]
+            },
+            {
+                  "name": "Bakaro Ghar",
+                  "text": "Ein Gebirgsrücken im Pech-Tal mit den typischen buschbewachsenen Hängen des östlichen Hindukusch.",
+                  "category": "natural",
+                  "coords": [
+                        70.973861,
+                        34.915828
+                  ]
+            },
+            {
+                  "name": "Abbas Ghar",
+                  "text": "Ein prominenter Berggipfel in Kunar, der über den entlegenen Tälern des Pech-Distrikts wacht.",
+                  "category": "natural",
+                  "coords": [
+                        70.964394,
+                        34.897658
+                  ]
+            },
+            {
+                  "name": "Shoryak Sar",
+                  "text": "Ein Gipfel im Einzugsgebiet des Pech-Tals mit Blick auf die rauen Hochgebirgspässe Ostafghanistans.",
+                  "category": "natural",
+                  "coords": [
+                        71.041481,
+                        34.877411
+                  ]
+            },
+            {
+                  "name": "Karmul Ghar",
+                  "text": "Ein schroffer Berggipfel, der sich markant über dem Pech-Tal im Osten Afghanistans erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        71.040383,
+                        34.906972
+                  ]
+            },
+            {
+                  "name": "Gatigal",
+                  "text": "Ein hoher Berggipfel in den Ausläufern des Hindukusch-Gebirges in der Provinz Kunar.",
+                  "category": "natural",
+                  "coords": [
+                        70.934197,
+                        34.856831
+                  ]
+            },
+            {
+                  "name": "Angur Bagh",
+                  "text": "Ein bedeutender Gipfel, der das Talbecken in der gebirgigen Grenzregion überragt.",
+                  "category": "natural",
+                  "coords": [
+                        70.937663,
+                        34.839514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badayl Sar",
+                  "text": "Magas hegycsúcs a Pech-völgy felett, amely meredek lejtőiről és sziklás terepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        70.989684,
+                        34.840607
+                  ]
+            },
+            {
+                  "name": "Gatigal Sar",
+                  "text": "Hegycsúcs a Pech-folyó medencéjében, Kunar mély völgyekkel tarkított hegyvidéki tájának része.",
+                  "category": "natural",
+                  "coords": [
+                        70.955522,
+                        34.855308
+                  ]
+            },
+            {
+                  "name": "Sawtalo Sar",
+                  "text": "Hegycsúcs Kelet-Afganisztán Pech-völgyi régiójában, amely hozzájárul a terület összetett domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        70.960183,
+                        34.869592
+                  ]
+            },
+            {
+                  "name": "Bakaro Ghar",
+                  "text": "Hegység a Pech-völgy környékén, a keleti Hindu Kush jellemző bozótos lejtőivel.",
+                  "category": "natural",
+                  "coords": [
+                        70.973861,
+                        34.915828
+                  ]
+            },
+            {
+                  "name": "Abbas Ghar",
+                  "text": "Kiemelkedő hegycsúcs Kunarban, amely őrszemként áll a Pech körzet távoli völgyei felett.",
+                  "category": "natural",
+                  "coords": [
+                        70.964394,
+                        34.897658
+                  ]
+            },
+            {
+                  "name": "Shoryak Sar",
+                  "text": "A Pech-völgy vízgyűjtő területének egyik csúcsa, kilátással Kelet-Afganisztán zord magashegyi hágóira.",
+                  "category": "natural",
+                  "coords": [
+                        71.041481,
+                        34.877411
+                  ]
+            },
+            {
+                  "name": "Karmul Ghar",
+                  "text": "Egy zord hegycsúcs, amely markánsan emelkedik a kelet-afganisztáni Pech-völgy fölé.",
+                  "category": "natural",
+                  "coords": [
+                        71.040383,
+                        34.906972
+                  ]
+            },
+            {
+                  "name": "Gatigal",
+                  "text": "A Hindukus-hegység lábánál fekvő magas hegycsúcs Kunar tartományban.",
+                  "category": "natural",
+                  "coords": [
+                        70.934197,
+                        34.856831
+                  ]
+            },
+            {
+                  "name": "Angur Bagh",
+                  "text": "Egy jelentős hegycsúcs, amely a hegyvidéki határmenti régió völgykatlanára néz.",
+                  "category": "natural",
+                  "coords": [
+                        70.937663,
+                        34.839514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badayl Sar",
+                  "text": "Un vârf montan înalt care domină Valea Pech, cunoscut pentru pantele sale abrupte și terenul stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        70.989684,
+                        34.840607
+                  ]
+            },
+            {
+                  "name": "Gatigal Sar",
+                  "text": "Un vârf din bazinul râului Pech, parte a peisajului montan din Kunar, caracterizat prin văi adânci.",
+                  "category": "natural",
+                  "coords": [
+                        70.955522,
+                        34.855308
+                  ]
+            },
+            {
+                  "name": "Sawtalo Sar",
+                  "text": "Un vârf din regiunea Văii Pech din estul Afganistanului, contribuind la topografia complexă a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        70.960183,
+                        34.869592
+                  ]
+            },
+            {
+                  "name": "Bakaro Ghar",
+                  "text": "O creastă montană în zona Văii Pech, prezentând pantele tipice acoperite de tufișuri ale munților Hindu Kush de est.",
+                  "category": "natural",
+                  "coords": [
+                        70.973861,
+                        34.915828
+                  ]
+            },
+            {
+                  "name": "Abbas Ghar",
+                  "text": "Un vârf montan proeminent din Kunar, care stă ca o santinelă deasupra văilor izolate din districtul Pech.",
+                  "category": "natural",
+                  "coords": [
+                        70.964394,
+                        34.897658
+                  ]
+            },
+            {
+                  "name": "Shoryak Sar",
+                  "text": "Un vârf din bazinul hidrografic al Văii Pech, cu vedere spre trecătorile accidentate de mare altitudine din estul Afganistanului.",
+                  "category": "natural",
+                  "coords": [
+                        71.041481,
+                        34.877411
+                  ]
+            },
+            {
+                  "name": "Karmul Ghar",
+                  "text": "Un vârf muntos accidentat care se ridică proeminent deasupra văii Pech din estul Afganistanului.",
+                  "category": "natural",
+                  "coords": [
+                        71.040383,
+                        34.906972
+                  ]
+            },
+            {
+                  "name": "Gatigal",
+                  "text": "Un vârf muntos înalt situat la poalele munților Hindu Kush din provincia Kunar.",
+                  "category": "natural",
+                  "coords": [
+                        70.934197,
+                        34.856831
+                  ]
+            },
+            {
+                  "name": "Angur Bagh",
+                  "text": "Un vârf semnificativ care domină bazinul văii în regiunea montană de frontieră.",
+                  "category": "natural",
+                  "coords": [
+                        70.937663,
+                        34.839514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badayl Sar",
+                  "text": "A high mountain peak overlooking the Pech Valley, known for its steep slopes and rocky, inaccessible terrain.",
+                  "category": "natural",
+                  "coords": [
+                        70.989684,
+                        34.840607
+                  ]
+            },
+            {
+                  "name": "Gatigal Sar",
+                  "text": "A summit in the Pech River basin, part of the mountainous landscape of Kunar characterized by deep valleys.",
+                  "category": "natural",
+                  "coords": [
+                        70.955522,
+                        34.855308
+                  ]
+            },
+            {
+                  "name": "Sawtalo Sar",
+                  "text": "A peak in eastern Afghanistan's Pech Valley region, contributing to the area's complex and defensive topography.",
+                  "category": "natural",
+                  "coords": [
+                        70.960183,
+                        34.869592
+                  ]
+            },
+            {
+                  "name": "Bakaro Ghar",
+                  "text": "A mountain ridge in the Pech Valley area, featuring the typical scrub-covered slopes of the eastern Hindu Kush.",
+                  "category": "natural",
+                  "coords": [
+                        70.973861,
+                        34.915828
+                  ]
+            },
+            {
+                  "name": "Abbas Ghar",
+                  "text": "A prominent mountain peak in Kunar, standing as a sentinel over the remote valleys of the Pech district.",
+                  "category": "natural",
+                  "coords": [
+                        70.964394,
+                        34.897658
+                  ]
+            },
+            {
+                  "name": "Shoryak Sar",
+                  "text": "A peak in the Pech Valley watershed, overlooking the rugged high-altitude passes of eastern Afghanistan.",
+                  "category": "natural",
+                  "coords": [
+                        71.041481,
+                        34.877411
+                  ]
+            },
+            {
+                  "name": "Karmul Ghar",
+                  "text": "A rugged mountain peak rising prominently above the Pech Valley in eastern Afghanistan.",
+                  "category": "natural",
+                  "coords": [
+                        71.040383,
+                        34.906972
+                  ]
+            },
+            {
+                  "name": "Gatigal",
+                  "text": "A high mountain summit in the Hindu Kush foothills of the Kunar province.",
+                  "category": "natural",
+                  "coords": [
+                        70.934197,
+                        34.856831
+                  ]
+            },
+            {
+                  "name": "Angur Bagh",
+                  "text": "A significant peak overlooking the valley basin in the mountainous border region.",
+                  "category": "natural",
+                  "coords": [
+                        70.937663,
+                        34.839514
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AF-KNR",
     coords: [71.0000, 34.9000],

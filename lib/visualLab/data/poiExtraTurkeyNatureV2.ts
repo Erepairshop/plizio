@@ -527,7 +527,52 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-lake-cildir-nature-v2",
+    id: "turkey-lake-cildir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ch'ala church",
+                  "text": "Diese historischen Steinruinen gehören zu einem ehemaligen Gotteshaus nahe dem Ufer des Çıldır-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        43.334061,
+                        41.06153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ch'ala church",
+                  "text": "Ezek a történelmi kőromok egy egykori istentiszteleti helyhez tartoznak a Çıldır-tó partjának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        43.334061,
+                        41.06153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ch'ala church",
+                  "text": "Aceste ruine istorice din piatră aparțin unui fost lăcaș de cult situat lângă țărmul lacului Çıldır.",
+                  "category": "religious",
+                  "coords": [
+                        43.334061,
+                        41.06153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ch'ala church",
+                  "text": "These historic stone ruins belong to a former place of worship situated near the shores of Lake Çıldır.",
+                  "category": "religious",
+                  "coords": [
+                        43.334061,
+                        41.06153
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TR-75",
     coords: [43.2500, 41.0500],
@@ -850,7 +895,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
             },
             {
                   "name": "Fatih Rıfkı Altay Tabiat Parkı",
-                  "text": "Ein geschützter Naturpark im Belgrader Wald.",
+                  "text": "Fatih Rıfkı Altay Naturpark im Belgrader Wald, mit bewaldeten Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         28.964405,
@@ -924,7 +969,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
             },
             {
                   "name": "Fatih Rıfkı Altay Tabiat Parkı",
-                  "text": "Védett természetvédelmi terület a Belgrád-erdőben.",
+                  "text": "Fatih Rıfkı Altay Természeti Park a Belgrádi-erdőben, erdős túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         28.964405,
@@ -998,7 +1043,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
             },
             {
                   "name": "Fatih Rıfkı Altay Tabiat Parkı",
-                  "text": "Un parc natural protejat în Pădurea Belgrad.",
+                  "text": "Parcul Natural Fatih Rıfkı Altay din Pădurea Belgrad, cu trasee de drumeție împădurite.",
                   "category": "natural",
                   "coords": [
                         28.964405,
@@ -1072,7 +1117,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
             },
             {
                   "name": "Fatih Rıfkı Altay Tabiat Parkı",
-                  "text": "A protected nature park located in the Belgrad Forest.",
+                  "text": "Fatih Rıfkı Altay Nature Park, a wooded area in Belgrad Forest with walking trails.",
                   "category": "natural",
                   "coords": [
                         28.964405,
@@ -1527,7 +1572,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       "de": [
             {
                   "name": "Salda Milli Parki",
-                  "text": "Ein Naturschutzgebiet am Ufer des Salda-Sees.",
+                  "text": "Salda-Nationalpark, der die türkisblauen Ufer des Salda-Sees mit seinen weißen Sandstränden schützt.",
                   "category": "natural",
                   "coords": [
                         29.651559,
@@ -1547,7 +1592,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Salda Milli Parki",
-                  "text": "Természetvédelmi terület a Salda-tó partján.",
+                  "text": "Salda Nemzeti Park, amely a türkizkék Salda-tó partját védi fehér homokos strandjaival.",
                   "category": "natural",
                   "coords": [
                         29.651559,
@@ -1567,7 +1612,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Salda Milli Parki",
-                  "text": "O rezervație naturală pe malul lacului Salda.",
+                  "text": "Parcul Național Salda, care protejează malurile turcoaz ale Lacului Salda, cu plajele sale de nisip alb.",
                   "category": "natural",
                   "coords": [
                         29.651559,
@@ -1587,7 +1632,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       "en": [
             {
                   "name": "Salda Milli Parki",
-                  "text": "A nature reserve on the shores of Lake Salda.",
+                  "text": "Salda National Park, protecting the shores of Lake Salda with its white sand beaches.",
                   "category": "natural",
                   "coords": [
                         29.651559,

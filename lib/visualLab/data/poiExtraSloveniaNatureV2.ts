@@ -811,7 +811,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 5",
-                  "text": "Teil der Verteidigungsanlagen in der Nähe des Flusses Soča.",
+                  "text": "Srednja utrdba 5, eine Festung von 1939 am Fluss Soča.",
                   "category": "fortress",
                   "coords": [
                         13.615306,
@@ -820,7 +820,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 4",
-                  "text": "Eine Befestigungsanlage am Ufer der Soča.",
+                  "text": "Srednja utrdba 4, eine Festung von 1939 am Fluss Soča.",
                   "category": "fortress",
                   "coords": [
                         13.614768,
@@ -829,7 +829,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Topniška utrdba 8",
-                  "text": "Eine Artilleriefestung im Tal der Soča.",
+                  "text": "Topniška utrdba 8, eine Artilleriefestung von 1939 am Fluss Soča.",
                   "category": "fortress",
                   "coords": [
                         13.595545,
@@ -885,7 +885,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 5",
-                  "text": "A Soča-folyó közeli védművek egyike.",
+                  "text": "Srednja utrdba 5, egy 1939-es erőd a Száva folyónál.",
                   "category": "fortress",
                   "coords": [
                         13.615306,
@@ -894,7 +894,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 4",
-                  "text": "Erődítmény a Soča partján.",
+                  "text": "Srednja utrdba 4, egy 1939-es erőd a Száva folyónál.",
                   "category": "fortress",
                   "coords": [
                         13.614768,
@@ -903,7 +903,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Topniška utrdba 8",
-                  "text": "Tüzérségi erőd a Soča völgyében.",
+                  "text": "Topniška utrdba 8, egy 1939-es tüzérségi erőd a Száva folyónál.",
                   "category": "fortress",
                   "coords": [
                         13.595545,
@@ -959,7 +959,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 5",
-                  "text": "Parte a structurilor defensive din apropierea râului Soča.",
+                  "text": "Srednja utrdba 5, o fortăreață din 1939 pe râul Soča.",
                   "category": "fortress",
                   "coords": [
                         13.615306,
@@ -968,7 +968,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 4",
-                  "text": "O fortificație pe malul râului Soča.",
+                  "text": "Srednja utrdba 4, o fortăreață din 1939 pe râul Soča.",
                   "category": "fortress",
                   "coords": [
                         13.614768,
@@ -977,7 +977,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Topniška utrdba 8",
-                  "text": "O fortificație de artilerie în valea râului Soča.",
+                  "text": "Topniška utrdba 8, o fortăreață de artilerie din 1939 pe râul Soča.",
                   "category": "fortress",
                   "coords": [
                         13.595545,
@@ -1033,7 +1033,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 5",
-                  "text": "Part of the defensive structures near the Soča River.",
+                  "text": "Srednja utrdba 5, a fortress built in 1939 on the Soča River.",
                   "category": "fortress",
                   "coords": [
                         13.615306,
@@ -1042,7 +1042,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Srednja utrdba 4",
-                  "text": "A fortification on the banks of the Soča River.",
+                  "text": "Srednja utrdba 4, a fortress built in 1939 on the Soča River.",
                   "category": "fortress",
                   "coords": [
                         13.614768,
@@ -1051,7 +1051,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
             },
             {
                   "name": "Za Otoki Topniška utrdba 8",
-                  "text": "An artillery fortification in the Soča River valley.",
+                  "text": "Topniška utrdba 8, an artillery fortress built in 1939 on the Soča River.",
                   "category": "fortress",
                   "coords": [
                         13.595545,
@@ -2203,7 +2203,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
       "de": [
             {
                   "name": "Gozdni rezervat Klemenškova planina",
-                  "text": "Ein Naturschutzgebiet im malerischen Logartal.",
+                  "text": "Hochgelegenes Waldreservat auf der Klemenškova planina im Logartal.",
                   "category": "natural",
                   "coords": [
                         14.634304,
@@ -2221,7 +2221,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Veliki vrh (Veža)",
-                  "text": "Ein Gipfel im Gebirgsmassiv des Logartals.",
+                  "text": "Über 2000 m hoher Gipfel oberhalb des Logar-Tals mit Aussicht auf die Kamnik-Savinja-Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.669223,
@@ -2257,7 +2257,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Matkova kopa",
-                  "text": "Ein Berg im Gebiet des Logartals.",
+                  "text": "Berggipfel im Logar-Tal, Teil der Kamnik-Savinja-Alpen mit Almwiesen.",
                   "category": "landmark",
                   "coords": [
                         14.586183,
@@ -2277,7 +2277,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
       "hu": [
             {
                   "name": "Gozdni rezervat Klemenškova planina",
-                  "text": "Természetvédelmi terület a festői Logar-völgyben.",
+                  "text": "Magasan fekvő erdőrezervátum a Klemenškova planinán a Logar-völgyben.",
                   "category": "natural",
                   "coords": [
                         14.634304,
@@ -2295,7 +2295,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Veliki vrh (Veža)",
-                  "text": "Egy hegycsúcs a Logar-völgy vidékén.",
+                  "text": "Több mint 2000 m magas csúcs a Logar-völgy fölött, kilátással a Kamnik-Savinja-Alpokra.",
                   "category": "landmark",
                   "coords": [
                         14.669223,
@@ -2331,7 +2331,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Matkova kopa",
-                  "text": "Egy hegycsúcs a Logar-völgy térségében.",
+                  "text": "Hegycsúcs a Logar-völgyben, a Kamnik-Savinja-Alpok része havasi rétekkel.",
                   "category": "landmark",
                   "coords": [
                         14.586183,
@@ -2351,7 +2351,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
       "ro": [
             {
                   "name": "Gozdni rezervat Klemenškova planina",
-                  "text": "O rezervație naturală situată în pitoreasca vale Logar.",
+                  "text": "Rezervație forestieră de altitudine pe Klemenškova planina în Valea Logar.",
                   "category": "natural",
                   "coords": [
                         14.634304,
@@ -2369,7 +2369,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Veliki vrh (Veža)",
-                  "text": "Un vârf montan din regiunea văii Logar.",
+                  "text": "Vârf de peste 2000 m deasupra văii Logar, cu vedere spre Alpii Kamnik-Savinja.",
                   "category": "landmark",
                   "coords": [
                         14.669223,
@@ -2405,7 +2405,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Matkova kopa",
-                  "text": "Un vârf montan din zona văii Logar.",
+                  "text": "Vârf montan în valea Logar, parte a Alpilor Kamnik-Savinja, cu pajiști alpine.",
                   "category": "landmark",
                   "coords": [
                         14.586183,
@@ -2425,7 +2425,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
       "en": [
             {
                   "name": "Gozdni rezervat Klemenškova planina",
-                  "text": "A nature reserve located in the scenic Logar Valley.",
+                  "text": "High-altitude forest reserve on Klemenškova planina in Logar Valley.",
                   "category": "natural",
                   "coords": [
                         14.634304,
@@ -2443,7 +2443,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Veliki vrh (Veža)",
-                  "text": "A mountain peak located in the Logar Valley region.",
+                  "text": "Over 2000 m high peak above the Logar Valley with views of the Kamnik-Savinja Alps.",
                   "category": "landmark",
                   "coords": [
                         14.669223,
@@ -2479,7 +2479,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
             },
             {
                   "name": "Matkova kopa",
-                  "text": "A mountain peak in the Logar Valley area.",
+                  "text": "Mountain peak in the Logar Valley, part of the Kamnik-Savinja Alps with alpine meadows.",
                   "category": "landmark",
                   "coords": [
                         14.586183,
@@ -2592,7 +2592,7 @@ imageHint: "Planica valley ski flying hills mountains",
       "de": [
             {
                   "name": "Grad Trebnje",
-                  "text": "Grad Trebnje ist eine historische Burganlage in Slowenien, die das Stadtbild von Trebnje prägt.",
+                  "text": "Mittelalterliche Burgruine auf einer Klippe über dem Fluss Krka.",
                   "category": "castle",
                   "coords": [
                         15.00614,
@@ -2639,7 +2639,7 @@ imageHint: "Planica valley ski flying hills mountains",
       "hu": [
             {
                   "name": "Grad Trebnje",
-                  "text": "Grad Trebnje egy történelmi várkastély Szlovéniában, amely meghatározza Trebnje városképét.",
+                  "text": "Középkori várrom a Krka folyó feletti sziklán.",
                   "category": "castle",
                   "coords": [
                         15.00614,
@@ -2686,7 +2686,7 @@ imageHint: "Planica valley ski flying hills mountains",
       "ro": [
             {
                   "name": "Grad Trebnje",
-                  "text": "Grad Trebnje este un castel istoric din Slovenia, care domină peisajul urban din Trebnje.",
+                  "text": "Ruina unui castel medieval pe o stâncă deasupra râului Krka.",
                   "category": "castle",
                   "coords": [
                         15.00614,
@@ -2733,7 +2733,7 @@ imageHint: "Planica valley ski flying hills mountains",
       "en": [
             {
                   "name": "Grad Trebnje",
-                  "text": "Grad Trebnje is a historic castle in Slovenia that characterizes the townscape of Trebnje.",
+                  "text": "Medieval castle ruin on a cliff above the Krka River.",
                   "category": "castle",
                   "coords": [
                         15.00614,
@@ -3103,7 +3103,7 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       "de": [
             {
                   "name": "Turska gora",
-                  "text": "Ein hoher Gipfel in den Steiner Alpen in Slowenien.",
+                  "text": "2251 m hoher Gipfel in den Kamnik-Alpen mit charakteristischer Form.",
                   "category": "landmark",
                   "coords": [
                         14.577207,
@@ -3177,7 +3177,7 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       "hu": [
             {
                   "name": "Turska gora",
-                  "text": "Magas hegycsúcs a Steiner-Alpokban (Kamniki-Alpok), Szlovéniában.",
+                  "text": "2251 m magas csúcs a Kamnik-Alpokban, jellegzetes alakkal.",
                   "category": "landmark",
                   "coords": [
                         14.577207,
@@ -3251,7 +3251,7 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       "ro": [
             {
                   "name": "Turska gora",
-                  "text": "Un vârf înalt situat în Alpii Kamnik-Savinja din Slovenia.",
+                  "text": "Vârf de 2251 m în Alpii Kamnik, cu o formă distinctivă.",
                   "category": "landmark",
                   "coords": [
                         14.577207,
@@ -3325,7 +3325,7 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       "en": [
             {
                   "name": "Turska gora",
-                  "text": "A high peak in the Kamnik-Savinja Alps in Slovenia.",
+                  "text": "2251 m high peak in the Kamnik Alps with a distinctive shape.",
                   "category": "landmark",
                   "coords": [
                         14.577207,
@@ -3492,7 +3492,7 @@ imageHint: "Karawanks mountain range Slovenia border",
       "de": [
             {
                   "name": "Gozdni rezervat Snežnik",
-                  "text": "Ein geschütztes Waldreservat in der Nähe des Berges Snežnik.",
+                  "text": "Waldreservat an den Hängen des Berges Snežnik, Heimat seltener Tierarten.",
                   "category": "natural",
                   "coords": [
                         14.44994,
@@ -3519,7 +3519,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Mali Snežnik",
-                  "text": "Ein markanter Berggipfel im Snežnik-Massiv.",
+                  "text": "Ein Berggipfel im Snežnik-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         14.435892,
@@ -3537,7 +3537,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Sv. Juda Tadej",
-                  "text": "Ein religiöses Denkmal, das dem Heiligen Judas Thaddäus gewidmet ist.",
+                  "text": "Kapelle des Heiligen Judas Thaddäus auf dem Gipfel des Snežnik.",
                   "category": "historical",
                   "coords": [
                         14.437665,
@@ -3546,7 +3546,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Pogled na Snežnik",
-                  "text": "Ein Aussichtspunkt mit Panorama auf den Berg Snežnik.",
+                  "text": "Aussichtspunkt mit Panoramablick auf den Snežnik und die umliegenden Wälder.",
                   "category": "natural",
                   "coords": [
                         14.406083,
@@ -3557,7 +3557,7 @@ imageHint: "Karawanks mountain range Slovenia border",
       "hu": [
             {
                   "name": "Gozdni rezervat Snežnik",
-                  "text": "Védett erdőrezervátum a Snežnik-hegy közelében.",
+                  "text": "Erdőrezervátum a Snežnik hegy lejtőin, ritka állatfajok otthona.",
                   "category": "natural",
                   "coords": [
                         14.44994,
@@ -3584,7 +3584,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Mali Snežnik",
-                  "text": "Jellegzetes hegycsúcs a Snežnik-masszívumban.",
+                  "text": "Egy hegycsúcs a Snežnik területén.",
                   "category": "landmark",
                   "coords": [
                         14.435892,
@@ -3602,7 +3602,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Sv. Juda Tadej",
-                  "text": "Szent Júdás Tádénak szentelt vallási emlékmű.",
+                  "text": "Szent Júdás Tádé kápolna a Snežnik csúcsán.",
                   "category": "historical",
                   "coords": [
                         14.437665,
@@ -3611,7 +3611,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Pogled na Snežnik",
-                  "text": "Kilátópont panorámával a Snežnik-hegyre.",
+                  "text": "Kilátópont panorámakilátással a Snežnikra és a környező erdőkre.",
                   "category": "natural",
                   "coords": [
                         14.406083,
@@ -3622,7 +3622,7 @@ imageHint: "Karawanks mountain range Slovenia border",
       "ro": [
             {
                   "name": "Gozdni rezervat Snežnik",
-                  "text": "O rezervație forestieră protejată lângă muntele Snežnik.",
+                  "text": "Rezervație forestieră pe versanții muntelui Snežnik, habitat pentru specii rare.",
                   "category": "natural",
                   "coords": [
                         14.44994,
@@ -3649,7 +3649,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Mali Snežnik",
-                  "text": "Un vârf montan proeminent în masivul Snežnik.",
+                  "text": "Un vârf montan în zona Snežnik.",
                   "category": "landmark",
                   "coords": [
                         14.435892,
@@ -3667,7 +3667,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Sv. Juda Tadej",
-                  "text": "Un monument religios dedicat Sfântului Iuda Tadeu.",
+                  "text": "Capela Sfântul Iuda Tadeu pe vârful muntelui Snežnik.",
                   "category": "historical",
                   "coords": [
                         14.437665,
@@ -3676,7 +3676,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Pogled na Snežnik",
-                  "text": "Un punct de belvedere cu vedere panoramică spre muntele Snežnik.",
+                  "text": "Punct de belvedere cu vedere panoramică asupra muntelui Snežnik și pădurilor înconjurătoare.",
                   "category": "natural",
                   "coords": [
                         14.406083,
@@ -3687,7 +3687,7 @@ imageHint: "Karawanks mountain range Slovenia border",
       "en": [
             {
                   "name": "Gozdni rezervat Snežnik",
-                  "text": "A protected forest reserve near Mount Snežnik.",
+                  "text": "Forest reserve on the slopes of Mount Snežnik, home to rare species.",
                   "category": "natural",
                   "coords": [
                         14.44994,
@@ -3714,7 +3714,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Mali Snežnik",
-                  "text": "A prominent mountain peak in the Snežnik massif.",
+                  "text": "A mountain peak in the Snežnik area.",
                   "category": "landmark",
                   "coords": [
                         14.435892,
@@ -3732,7 +3732,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Sv. Juda Tadej",
-                  "text": "A religious monument dedicated to Saint Jude Thaddeus.",
+                  "text": "Chapel of St. Jude Thaddeus on the summit of Mount Snežnik.",
                   "category": "historical",
                   "coords": [
                         14.437665,
@@ -3741,7 +3741,7 @@ imageHint: "Karawanks mountain range Slovenia border",
             },
             {
                   "name": "Pogled na Snežnik",
-                  "text": "A viewpoint offering panoramas of Mount Snežnik.",
+                  "text": "Viewpoint with panoramic views of Mount Snežnik and surrounding forests.",
                   "category": "natural",
                   "coords": [
                         14.406083,
@@ -4016,7 +4016,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Peričnik",
-                  "text": "Ein beeindruckender Wasserfall im Vrata-Tal.",
+                  "text": "Ein Wasserfall in der Peričnik-Schlucht in den Julischen Alpen.",
                   "category": "landmark",
                   "coords": [
                         13.893528,
@@ -4025,7 +4025,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Macesnovec",
-                  "text": "Ein Berggipfel in den Julischen Alpen.",
+                  "text": "Bergaussichtspunkt oberhalb des Peričnik-Wasserfalls im Triglav-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         13.906835,
@@ -4034,7 +4034,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Kukova špica",
-                  "text": "Ein markanter Gipfel in der Martuljek-Gruppe.",
+                  "text": "Ein Gipfel nahe dem Peričnik-Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         13.854809,
@@ -4043,7 +4043,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Škrnatarica",
-                  "text": "Ein Berggipfel in den slowenischen Alpen.",
+                  "text": "Ein Berg in den Julischen Alpen nahe dem Peričnik-Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         13.849499,
@@ -4052,7 +4052,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Belopotoški Skočniki",
-                  "text": "Ein Aussichtspunkt in der Nähe des Peričnik-Wasserfalls.",
+                  "text": "Kaskadenwasserfälle am Beli Potok, nahe dem Peričnik-Wasserfall.",
                   "category": "natural",
                   "coords": [
                         13.861578,
@@ -4090,7 +4090,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Peričnik",
-                  "text": "Látványos vízesés a Vrata-völgyben.",
+                  "text": "Egy vízesés a Peričnik-szurdokban a Julian-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         13.893528,
@@ -4099,7 +4099,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Macesnovec",
-                  "text": "Hegycsúcs a Júliai-Alpokban.",
+                  "text": "Hegyi kilátópont a Peričnik-vízesés felett a Triglav Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         13.906835,
@@ -4108,7 +4108,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Kukova špica",
-                  "text": "Jellegzetes hegycsúcs a Martuljek-csoportban.",
+                  "text": "Egy csúcs a Peričnik-vízesés közelében.",
                   "category": "landmark",
                   "coords": [
                         13.854809,
@@ -4117,7 +4117,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Škrnatarica",
-                  "text": "Hegycsúcs a szlovén Alpokban.",
+                  "text": "Egy hegy a Julian-Alpokban, a Peričnik-vízesés közelében.",
                   "category": "landmark",
                   "coords": [
                         13.849499,
@@ -4126,7 +4126,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Belopotoški Skočniki",
-                  "text": "Kilátópont a Peričnik-vízesés közelében.",
+                  "text": "Kaszkád vízesések a Beli Potok patakon, a Peričnik-vízesés közelében.",
                   "category": "natural",
                   "coords": [
                         13.861578,
@@ -4164,7 +4164,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Peričnik",
-                  "text": "O cascadă spectaculoasă situată în Valea Vrata.",
+                  "text": "O cascadă în cheile Peričnik din Alpii Iulieni.",
                   "category": "landmark",
                   "coords": [
                         13.893528,
@@ -4173,7 +4173,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Macesnovec",
-                  "text": "Un vârf muntos în Alpii Iulieni.",
+                  "text": "Punct de belvedere montan deasupra cascadei Peričnik din Parcul Național Triglav.",
                   "category": "landmark",
                   "coords": [
                         13.906835,
@@ -4182,7 +4182,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Kukova špica",
-                  "text": "Un vârf proeminent în grupul Martuljek.",
+                  "text": "Un vârf lângă cascada Peričnik.",
                   "category": "landmark",
                   "coords": [
                         13.854809,
@@ -4191,7 +4191,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Škrnatarica",
-                  "text": "Un vârf muntos în Alpii sloveni.",
+                  "text": "Un munte în Alpii Iulieni lângă cascada Peričnik.",
                   "category": "landmark",
                   "coords": [
                         13.849499,
@@ -4200,7 +4200,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Belopotoški Skočniki",
-                  "text": "Un punct de belvedere în apropierea cascadei Peričnik.",
+                  "text": "Cascade în cascadă pe pârâul Beli Potok, lângă cascada Peričnik.",
                   "category": "natural",
                   "coords": [
                         13.861578,
@@ -4238,7 +4238,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Peričnik",
-                  "text": "A spectacular waterfall located in the Vrata Valley.",
+                  "text": "A waterfall in the Peričnik gorge in the Julian Alps.",
                   "category": "landmark",
                   "coords": [
                         13.893528,
@@ -4247,7 +4247,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Macesnovec",
-                  "text": "A mountain peak in the Julian Alps.",
+                  "text": "Mountain lookout point above the Peričnik Waterfall in Triglav National Park.",
                   "category": "landmark",
                   "coords": [
                         13.906835,
@@ -4256,7 +4256,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Kukova špica",
-                  "text": "A prominent peak in the Martuljek group.",
+                  "text": "A peak near the Peričnik waterfall.",
                   "category": "landmark",
                   "coords": [
                         13.854809,
@@ -4265,7 +4265,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Škrnatarica",
-                  "text": "A mountain peak in the Slovenian Alps.",
+                  "text": "A mountain in the Julian Alps near the Peričnik waterfall.",
                   "category": "landmark",
                   "coords": [
                         13.849499,
@@ -4274,7 +4274,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
             },
             {
                   "name": "Belopotoški Skočniki",
-                  "text": "A viewpoint located near the Peričnik Waterfall.",
+                  "text": "Cascading waterfalls on the Beli Potok stream near Peričnik Waterfall.",
                   "category": "natural",
                   "coords": [
                         13.861578,

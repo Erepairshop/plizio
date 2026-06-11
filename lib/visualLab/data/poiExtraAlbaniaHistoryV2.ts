@@ -310,7 +310,232 @@ imageHint: "Bashtove Castle walls in the field",
       fr: "Le château de Bashtovë est un monument médiéval unique en Albanie, car il est la seule forteresse du pays à avoir été construite sur une plaine et non sur une colline. Il est situé près de l'embouchure du fleuve Shkumbin dans la mer Adriatique et a été construit au XVe siècle, probablement par les Vénitiens, pour protéger les exportations de céréales et la région côtière stratégique. Le château présente un plan rectangulaire d'environ 60 mètres sur 90, avec des murs de neuf mètres de haut et des tours rondes et carrées aux angles et au milieu des côtés. Après la conquête ottomane, la forteresse a continué d'être utilisée et a été modifiée architecturalement pour répondre aux nouvelles exigences militaires. Son emplacement isolé au milieu des forêts de pins et des terres agricoles confère au site une atmosphère particulière. Bashtovë est aujourd'hui un monument culturel protégé et figure sur la liste indicative du patrimoine mondial de l'UNESCO en raison de sa singularité architecturale.",
     },
   },
-  { id: "albania-porto-palermo-castle-history-v2", "sights": {"de": [{"name": "Porto Palermo Beach", "text": "Direkt unterhalb der imposanten Burg von Porto Palermo erstreckt sich dieser malerische Strandabschnitt. Kristallklares Wasser und steinige Ufer laden zu einem Bad in einer geschichtsträchtigen Umgebung ein. Besucher genießen hier nach der Burgbesichtigung gern ein ausgiebiges Sonnenbad. Ein toller Ort für Fotografen und Geschichtsinteressierte, die das Schwimmen lieben.", "category": "recreational", "coords": [19.793402, 40.062494]}, {"name": "Plazhi i Llamanit", "text": "Strand bei der Burg Porto Palermo.", "category": "recreational", "coords": [19.766967, 40.08038]}, {"name": "Plazhi i Panormasë", "text": "Strand in der Nähe der Burg von Porto Palermo.", "category": "recreational", "coords": [19.802949, 40.052449]}, {"name": "Nemo Beach", "text": "Nemo Beach liegt in unmittelbarer Nähe zur historischen Burg Porto Palermo und fasziniert durch seine raue Küstenschönheit. Das einladende Wasser bietet hervorragende Bedingungen für erfrischende Schwimmrunden in idyllischer Ruhe. Die Umgebung wird vor allem von Naturfreunden und Entdeckern geschätzt. Festes Schuhwerk ist für den Zugang zum Strand sehr zu empfehlen.", "category": "recreational", "coords": [19.803024, 40.056569]}, {"name": "Plazhi i Porto Palermo", "text": "Strand bei der historischen Burg von Porto Palermo.", "category": "recreational", "coords": [19.789077, 40.069101]}, {"name": "Mateus beach", "text": "Als weiterer Strand bei der Burg Porto Palermo bietet Mateus Beach eine herrliche Kulisse für einen ruhigen Tag am Meer. Die abgeschiedene Atmosphäre ist ideal für entspannte Stunden abseits des Trubels. Besucher können im klaren Wasser schwimmen oder einfach die sonnige Küste genießen. Am besten nimmt man sich ein gutes Buch und etwas Zeit für die Natur mit.", "category": "recreational", "coords": [19.768163, 40.069511]}], "hu": [{"name": "Porto Palermo Beach", "text": "Közvetlenül a lenyűgöző Porto Palermo vára alatt húzódik ez a festői partszakasz. A kristálytiszta víz és a köves part egy történelmi környezetben történő fürdőzésre hív. A látogatók a várlátogatás után szívesen napoznak itt. Remek hely a fotósok és a történelem iránt érdeklődők számára, akik szeretnek úszni.", "category": "recreational", "coords": [19.793402, 40.062494]}, {"name": "Plazhi i Llamanit", "text": "Strand a Porto Palermo vár közelében.", "category": "recreational", "coords": [19.766967, 40.08038]}, {"name": "Plazhi i Panormasë", "text": "Strand a Porto Palermo-i vár közelében.", "category": "recreational", "coords": [19.802949, 40.052449]}, {"name": "Nemo Beach", "text": "A Nemo Beach közvetlenül a történelmi Porto Palermo vára közelében található, és nyers tengerparti szépségével nyűgöz le. A hívogató víz kiváló feltételeket kínál a frissítő úszáshoz, idilli nyugalomban. A környezetet különösen a természetbarátok és a felfedezők értékelik. Erősen ajánlott a zárt lábbeli viselése a strand megközelítéséhez.", "category": "recreational", "coords": [19.803024, 40.056569]}, {"name": "Plazhi i Porto Palermo", "text": "Strand a történelmi Porto Palermo-i várnál.", "category": "recreational", "coords": [19.789077, 40.069101]}, {"name": "Mateus beach", "text": "A Porto Palermo vára melletti másik strandként a Mateus Beach csodálatos hátteret kínál egy nyugodt tengerparti naphoz. Az eldugott légkör ideális a nyüzsgéstől távoli, pihentető órákhoz. A látogatók úszhatnak a tiszta vízben, vagy egyszerűen csak élvezhetik a napsütötte tengerpartot. A legjobb, ha egy jó könyvet és egy kis időt visz magával a természet számára.", "category": "recreational", "coords": [19.768163, 40.069511]}], "ro": [{"name": "Porto Palermo Beach", "text": "Această porțiune pitorească de plajă se întinde chiar sub impozantul castel Porto Palermo. Apa cristalină și țărmurile stâncoase te invită să te scalzi într-un cadru plin de istorie. Vizitatorii se bucură cu plăcere de plajă aici, după vizitarea castelului. Un loc minunat pentru fotografi și pasionații de istorie care iubesc înotul.", "category": "recreational", "coords": [19.793402, 40.062494]}, {"name": "Plazhi i Llamanit", "text": "Plajă lângă Castelul Porto Palermo.", "category": "recreational", "coords": [19.766967, 40.08038]}, {"name": "Plazhi i Panormasë", "text": "Plajă lângă castelul Porto Palermo.", "category": "recreational", "coords": [19.802949, 40.052449]}, {"name": "Nemo Beach", "text": "Nemo Beach este situată în imediata apropiere a istoricului castel Porto Palermo și fascinează prin frumusețea sa aspră de coastă. Apa primitoare oferă condiții excelente pentru sesiuni revigorante de înot într-o liniște idilică. Zona este apreciată în special de iubitorii de natură și de exploratori. Încălțămintea rezistentă este foarte recomandată pentru accesul la plajă.", "category": "recreational", "coords": [19.803024, 40.056569]}, {"name": "Plazhi i Porto Palermo", "text": "Plajă lângă castelul istoric Porto Palermo.", "category": "recreational", "coords": [19.789077, 40.069101]}, {"name": "Mateus beach", "text": "Fiind o altă plajă lângă castelul Porto Palermo, Mateus Beach oferă un fundal minunat pentru o zi liniștită la mare. Atmosfera retrasă este ideală pentru ore de relaxare departe de agitație. Vizitatorii pot înota în apa limpede sau se pot bucura pur și simplu de coasta însorită. Cel mai bine este să aduci o carte bună și puțin timp pentru natură.", "category": "recreational", "coords": [19.768163, 40.069511]}], "en": [{"name": "Porto Palermo Beach", "text": "This picturesque stretch of beach extends directly below the imposing castle of Porto Palermo. Crystal-clear water and stony shores invite for a swim in a setting steeped in history. Visitors like to enjoy extensive sunbathing here after a castle tour. A great place for photographers and history buffs who love swimming.", "category": "recreational", "coords": [19.793402, 40.062494]}, {"name": "Plazhi i Llamanit", "text": "Beach near Porto Palermo Castle.", "category": "recreational", "coords": [19.766967, 40.08038]}, {"name": "Plazhi i Panormasë", "text": "Beach near the Porto Palermo Castle.", "category": "recreational", "coords": [19.802949, 40.052449]}, {"name": "Nemo Beach", "text": "Nemo Beach is located in close proximity to the historic Porto Palermo Castle and fascinates with its rugged coastal beauty. The inviting water provides excellent conditions for refreshing swimming sessions in idyllic tranquility. The area is particularly appreciated by nature lovers and explorers. Sturdy footwear is highly recommended for accessing the beach.", "category": "recreational", "coords": [19.803024, 40.056569]}, {"name": "Plazhi i Porto Palermo", "text": "Beach near the historic Porto Palermo Castle.", "category": "recreational", "coords": [19.789077, 40.069101]}, {"name": "Mateus beach", "text": "As another beach near the Porto Palermo Castle, Mateus Beach offers a wonderful backdrop for a quiet day by the sea. The secluded atmosphere is ideal for relaxing hours away from the hustle and bustle. Visitors can swim in the clear water or simply enjoy the sunny coast. It is best to bring a good book and some time for nature.", "category": "recreational", "coords": [19.768163, 40.069511]}]},
+  { id: "albania-porto-palermo-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Direkt unterhalb der imposanten Burg von Porto Palermo erstreckt sich dieser malerische Strandabschnitt. Kristallklares Wasser und steinige Ufer laden zu einem Bad in einer geschichtsträchtigen Umgebung ein. Besucher genießen hier nach der Burgbesichtigung gern ein ausgiebiges Sonnenbad. Ein toller Ort für Fotografen und Geschichtsinteressierte, die das Schwimmen lieben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Sandstrand in einer geschützten Bucht unterhalb der Burg Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Kieselstrand in der Panorma-Bucht nahe der Burg Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Nemo Beach liegt in unmittelbarer Nähe zur historischen Burg Porto Palermo und fasziniert durch seine raue Küstenschönheit. Das einladende Wasser bietet hervorragende Bedingungen für erfrischende Schwimmrunden in idyllischer Ruhe. Die Umgebung wird vor allem von Naturfreunden und Entdeckern geschätzt. Festes Schuhwerk ist für den Zugang zum Strand sehr zu empfehlen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Strand direkt unter den Mauern der Burg Porto Palermo mit türkisfarbenem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "Als weiterer Strand bei der Burg Porto Palermo bietet Mateus Beach eine herrliche Kulisse für einen ruhigen Tag am Meer. Die abgeschiedene Atmosphäre ist ideal für entspannte Stunden abseits des Trubels. Besucher können im klaren Wasser schwimmen oder einfach die sonnige Küste genießen. Am besten nimmt man sich ein gutes Buch und etwas Zeit für die Natur mit.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Közvetlenül a lenyűgöző Porto Palermo vára alatt húzódik ez a festői partszakasz. A kristálytiszta víz és a köves part egy történelmi környezetben történő fürdőzésre hív. A látogatók a várlátogatás után szívesen napoznak itt. Remek hely a fotósok és a történelem iránt érdeklődők számára, akik szeretnek úszni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Homokos strand egy védett öbölben, a Porto Palermo vára alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Kavicsos strand a Panorma-öbölben, Porto Palermo vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "A Nemo Beach közvetlenül a történelmi Porto Palermo vára közelében található, és nyers tengerparti szépségével nyűgöz le. A hívogató víz kiváló feltételeket kínál a frissítő úszáshoz, idilli nyugalomban. A környezetet különösen a természetbarátok és a felfedezők értékelik. Erősen ajánlott a zárt lábbeli viselése a strand megközelítéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Strand közvetlenül a Porto Palermo vár falai alatt, türkiz vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "A Porto Palermo vára melletti másik strandként a Mateus Beach csodálatos hátteret kínál egy nyugodt tengerparti naphoz. Az eldugott légkör ideális a nyüzsgéstől távoli, pihentető órákhoz. A látogatók úszhatnak a tiszta vízben, vagy egyszerűen csak élvezhetik a napsütötte tengerpartot. A legjobb, ha egy jó könyvet és egy kis időt visz magával a természet számára.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Această porțiune pitorească de plajă se întinde chiar sub impozantul castel Porto Palermo. Apa cristalină și țărmurile stâncoase te invită să te scalzi într-un cadru plin de istorie. Vizitatorii se bucură cu plăcere de plajă aici, după vizitarea castelului. Un loc minunat pentru fotografi și pasionații de istorie care iubesc înotul.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Plajă nisipoasă într-un golf adăpostit sub castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Plajă de pietriș în golful Panorma, lângă castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Nemo Beach este situată în imediata apropiere a istoricului castel Porto Palermo și fascinează prin frumusețea sa aspră de coastă. Apa primitoare oferă condiții excelente pentru sesiuni revigorante de înot într-o liniște idilică. Zona este apreciată în special de iubitorii de natură și de exploratori. Încălțămintea rezistentă este foarte recomandată pentru accesul la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Plajă direct sub zidurile castelului Porto Palermo, cu apă turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "Fiind o altă plajă lângă castelul Porto Palermo, Mateus Beach oferă un fundal minunat pentru o zi liniștită la mare. Atmosfera retrasă este ideală pentru ore de relaxare departe de agitație. Vizitatorii pot înota în apa limpede sau se pot bucura pur și simplu de coasta însorită. Cel mai bine este să aduci o carte bună și puțin timp pentru natură.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "This picturesque stretch of beach extends directly below the imposing castle of Porto Palermo. Crystal-clear water and stony shores invite for a swim in a setting steeped in history. Visitors like to enjoy extensive sunbathing here after a castle tour. A great place for photographers and history buffs who love swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Sandy beach in a sheltered cove below Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Pebble beach in Panorma Bay near Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Nemo Beach is located in close proximity to the historic Porto Palermo Castle and fascinates with its rugged coastal beauty. The inviting water provides excellent conditions for refreshing swimming sessions in idyllic tranquility. The area is particularly appreciated by nature lovers and explorers. Sturdy footwear is highly recommended for accessing the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Beach directly beneath Porto Palermo Castle walls, with turquoise water.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "As another beach near the Porto Palermo Castle, Mateus Beach offers a wonderful backdrop for a quiet day by the sea. The secluded atmosphere is ideal for relaxing hours away from the hustle and bustle. Visitors can swim in the clear water or simply enjoy the sunny coast. It is best to bring a good book and some time for nature.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ]
+},
     parent: "AL",    type: "castle",
     name: { de: "Burg Porto Palermo", hu: "Porto Palermo vár", ro: "Castelul Porto Palermo", en: "Porto Palermo Castle"},
     image: "/poi-images/albania-porto-palermo-castle-history-v2.webp",
@@ -446,7 +671,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
       "de": [
             {
                   "name": "Guma",
-                  "text": "Guma Strand nahe der Burg Himara.",
+                  "text": "Kleine felsige Bucht Guma nahe der Burg Himara.",
                   "category": "recreational",
                   "coords": [
                         19.711031,
@@ -455,7 +680,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Livadhit",
-                  "text": "Strand bei der Burg Himara.",
+                  "text": "Sandstrand „Wiesenstrand“ unterhalb der Burg Himara.",
                   "category": "recreational",
                   "coords": [
                         19.724829,
@@ -464,7 +689,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Akuariumit",
-                  "text": "Versteckter Strand unterhalb der Burg von Himarë.",
+                  "text": "Aquariumstrand mit klarem, flachem Wasser nahe der Burg Himara.",
                   "category": "recreational",
                   "coords": [
                         19.712141,
@@ -475,7 +700,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
       "hu": [
             {
                   "name": "Guma",
-                  "text": "Guma strand a Himara vár közelében.",
+                  "text": "Kis sziklás öböl, Guma, a Himara vár közelében.",
                   "category": "recreational",
                   "coords": [
                         19.711031,
@@ -484,7 +709,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Livadhit",
-                  "text": "Strand a Himara vár közelében.",
+                  "text": "Homokos „Réti strand“ a Himara vár alatt.",
                   "category": "recreational",
                   "coords": [
                         19.724829,
@@ -493,7 +718,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Akuariumit",
-                  "text": "Rejtett strand Himarë vára alatt.",
+                  "text": "Akvárium strand tiszta, sekély vízzel a Himara vár közelében.",
                   "category": "recreational",
                   "coords": [
                         19.712141,
@@ -504,7 +729,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
       "ro": [
             {
                   "name": "Guma",
-                  "text": "Plaja Guma lângă Castelul Himara.",
+                  "text": "Golf mic stâncos, Guma, lângă castelul Himarë.",
                   "category": "recreational",
                   "coords": [
                         19.711031,
@@ -513,7 +738,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Livadhit",
-                  "text": "Plajă lângă Castelul Himara.",
+                  "text": "Plajă nisipoasă „Plaja Livadhit” sub castelul Himarë.",
                   "category": "recreational",
                   "coords": [
                         19.724829,
@@ -522,7 +747,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Akuariumit",
-                  "text": "Plajă ascunsă sub castelul din Himarë.",
+                  "text": "Plaja Acvariu, cu apă limpede și mică lângă castelul Himarë.",
                   "category": "recreational",
                   "coords": [
                         19.712141,
@@ -533,7 +758,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
       "en": [
             {
                   "name": "Guma",
-                  "text": "Guma beach near Himara Castle.",
+                  "text": "Small rocky cove Guma near Himara Castle.",
                   "category": "recreational",
                   "coords": [
                         19.711031,
@@ -542,7 +767,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Livadhit",
-                  "text": "Beach near Himara Castle.",
+                  "text": "Sandy 'Meadow Beach' below Himara Castle.",
                   "category": "recreational",
                   "coords": [
                         19.724829,
@@ -551,7 +776,7 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
             },
             {
                   "name": "Plazhi i Akuariumit",
-                  "text": "Hidden beach below Himara Castle.",
+                  "text": "Aquarium Beach with clear, shallow water near Himara Castle.",
                   "category": "recreational",
                   "coords": [
                         19.712141,
@@ -783,7 +1008,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
       "de": [
             {
                   "name": "Plazhi i Bunkerit",
-                  "text": "Strand bei der Burg Rodoni.",
+                  "text": "Bunkerstrand mit Überresten kommunistischer Bunker nahe der Burg Rodoni.",
                   "category": "recreational",
                   "coords": [
                         19.459582,
@@ -801,7 +1026,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
             },
             {
                   "name": "Kisha e Shna Ndout",
-                  "text": "Eine historische Kirche am Meer, die dem Heiligen Antonius gewidmet ist.",
+                  "text": "Kleine Kirche im Küstenschloss Rodoni.",
                   "category": "religious",
                   "coords": [
                         19.458287,
@@ -812,7 +1037,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
       "hu": [
             {
                   "name": "Plazhi i Bunkerit",
-                  "text": "Strand a Rodoni vár közelében.",
+                  "text": "Bunker strand kommunista kori bunkermaradványokkal a Rodoni vár közelében.",
                   "category": "recreational",
                   "coords": [
                         19.459582,
@@ -830,7 +1055,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
             },
             {
                   "name": "Kisha e Shna Ndout",
-                  "text": "Történelmi tengerparti templom, amelyet Szent Antalnak szenteltek.",
+                  "text": "Kis templom a tengerparti Rodoni várban.",
                   "category": "religious",
                   "coords": [
                         19.458287,
@@ -841,7 +1066,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
       "ro": [
             {
                   "name": "Plazhi i Bunkerit",
-                  "text": "Plajă lângă Castelul Rodoni.",
+                  "text": "Plaja Bunker, cu rămășițe de buncăre comuniste lângă castelul Rodoni.",
                   "category": "recreational",
                   "coords": [
                         19.459582,
@@ -859,7 +1084,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
             },
             {
                   "name": "Kisha e Shna Ndout",
-                  "text": "O biserică istorică de pe malul mării, dedicată Sfântului Anton.",
+                  "text": "Biserică mică în castelul de coastă Rodoni.",
                   "category": "religious",
                   "coords": [
                         19.458287,
@@ -870,7 +1095,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
       "en": [
             {
                   "name": "Plazhi i Bunkerit",
-                  "text": "Beach near Rodoni Castle.",
+                  "text": "Bunker Beach with remnants of communist bunkers near Rodoni Castle.",
                   "category": "recreational",
                   "coords": [
                         19.459582,
@@ -888,7 +1113,7 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
             },
             {
                   "name": "Church of St. Anthony",
-                  "text": "A historic seaside church dedicated to Saint Anthony.",
+                  "text": "Small church inside the coastal Rodoni Castle.",
                   "category": "religious",
                   "coords": [
                         19.458287,
@@ -1122,7 +1347,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "de": [
             {
                   "name": "Plazhi Mango",
-                  "text": "Mango Strand bei der Burg Lekuresi.",
+                  "text": "Mangostrand, eine Sandbucht am Fuße der Burg Lekuresi.",
                   "category": "recreational",
                   "coords": [
                         20.020531,
@@ -1133,7 +1358,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "hu": [
             {
                   "name": "Plazhi Mango",
-                  "text": "Mango strand a Lekuresi vár közelében.",
+                  "text": "Mango strand, homokos öböl a Lekuresi vár lábánál.",
                   "category": "recreational",
                   "coords": [
                         20.020531,
@@ -1144,7 +1369,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "ro": [
             {
                   "name": "Plazhi Mango",
-                  "text": "Plaja Mango lângă Castelul Lekuresi.",
+                  "text": "Plaja Mango, un golf nisipos la poalele castelului Lekuresi.",
                   "category": "recreational",
                   "coords": [
                         20.020531,
@@ -1155,7 +1380,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "en": [
             {
                   "name": "Plazhi Mango",
-                  "text": "Mango Beach near Lekuresi Castle.",
+                  "text": "Mango Beach, a sandy cove at the foot of Lekuresi Castle.",
                   "category": "recreational",
                   "coords": [
                         20.020531,
@@ -1257,7 +1482,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "de": [
             {
                   "name": "Plazhi i Rragamit",
-                  "text": "Strand bei der Burg Sarda.",
+                  "text": "Rragamstrand, ein abgelegener Kieselstrand nahe der Burg Sarda.",
                   "category": "recreational",
                   "coords": [
                         19.607362,
@@ -1268,7 +1493,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "hu": [
             {
                   "name": "Plazhi i Rragamit",
-                  "text": "Strand a Sarda vár közelében.",
+                  "text": "Rragam strand, egy félreeső kavicsos strand a Sarda vár közelében.",
                   "category": "recreational",
                   "coords": [
                         19.607362,
@@ -1279,7 +1504,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "ro": [
             {
                   "name": "Plazhi i Rragamit",
-                  "text": "Plajă lângă Castelul Sarda.",
+                  "text": "Plaja Rragam, o plajă izolată de pietriș lângă castelul Sarda.",
                   "category": "recreational",
                   "coords": [
                         19.607362,
@@ -1290,7 +1515,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "en": [
             {
                   "name": "Plazhi i Rragamit",
-                  "text": "Beach near Sarda Castle.",
+                  "text": "Rragam Beach, a secluded pebble beach near Sarda Castle.",
                   "category": "recreational",
                   "coords": [
                         19.607362,
@@ -1572,7 +1797,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "de": [
             {
                   "name": "Maestral",
-                  "text": "Maestral Strand in der Nähe des Klosters der Vierzig Heiligen.",
+                  "text": "Maestralstrand, eine windgeschützte Bucht nahe dem Vierzig-Heiligen-Kloster.",
                   "category": "recreational",
                   "coords": [
                         20.016122,
@@ -1592,7 +1817,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "hu": [
             {
                   "name": "Maestral",
-                  "text": "Maestral strand a Negyven Szent kolostorának közelében.",
+                  "text": "Maestral strand, egy szélvédett öböl a Negyven Szent kolostor közelében.",
                   "category": "recreational",
                   "coords": [
                         20.016122,
@@ -1612,7 +1837,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "ro": [
             {
                   "name": "Maestral",
-                  "text": "Plaja Maestral lângă Mănăstirea celor Patruzeci de Sfinți.",
+                  "text": "Plaja Maestral, un golf adăpostit de vânt lângă Mănăstirea Celor Patruzeci de Sfinți.",
                   "category": "recreational",
                   "coords": [
                         20.016122,
@@ -1632,7 +1857,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "en": [
             {
                   "name": "Maestral",
-                  "text": "Maestral beach near the Forty Saints Monastery.",
+                  "text": "Maestral beach, a wind-sheltered cove near Forty Saints Monastery.",
                   "category": "recreational",
                   "coords": [
                         20.016122,
@@ -2364,7 +2589,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "de": [
             {
                   "name": "Rera per Plazh",
-                  "text": "Rera per Plazh befindet sich nahe der Burg Grezhdan.",
+                  "text": "Sandstrand mit importiertem Sand nahe der Burg Grezhdan.",
                   "category": "recreational",
                   "coords": [
                         20.426384,
@@ -2375,7 +2600,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "hu": [
             {
                   "name": "Rera per Plazh",
-                  "text": "Rera per Plazh a Grezhdan vár közelében található.",
+                  "text": "Homokos strand importált homokkal a Grezhdan vár közelében.",
                   "category": "recreational",
                   "coords": [
                         20.426384,
@@ -2386,7 +2611,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "ro": [
             {
                   "name": "Rera per Plazh",
-                  "text": "Rera per Plazh se află lângă castelul Grezhdan.",
+                  "text": "Plajă nisipoasă cu nisip importat lângă castelul Grezhdan.",
                   "category": "recreational",
                   "coords": [
                         20.426384,
@@ -2397,7 +2622,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
       "en": [
             {
                   "name": "Rera per Plazh",
-                  "text": "Rera per Plazh is located near Grezhdan Castle.",
+                  "text": "Sandy beach with imported sand near Grezhdan Castle.",
                   "category": "recreational",
                   "coords": [
                         20.426384,
@@ -2877,7 +3102,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
             },
             {
                   "name": "Rrënoja",
-                  "text": "Historische Ruinen in der Nähe des Klosters Shirgi, die eine antike Stätte markieren.",
+                  "text": "Ruinen eines antiken Bauwerks nahe dem Shirgi-Kloster.",
                   "category": "historical",
                   "coords": [
                         19.373175,
@@ -2906,7 +3131,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
             },
             {
                   "name": "Rrënoja",
-                  "text": "Történelmi romok a Shirgi-kolostor területén, amelyek egy ősi helyszínt jelölnek.",
+                  "text": "Egy ősi építmény romjai a Shirgi kolostor közelében.",
                   "category": "historical",
                   "coords": [
                         19.373175,
@@ -2935,7 +3160,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
             },
             {
                   "name": "Rrënoja",
-                  "text": "Ruine istorice situate în zona Mănăstirii Shirgi, care marchează un sit antic.",
+                  "text": "Ruinele unei construcții antice lângă Mănăstirea Shirgi.",
                   "category": "historical",
                   "coords": [
                         19.373175,
@@ -2964,7 +3189,7 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
             },
             {
                   "name": "Rrënoja",
-                  "text": "Historical ruins located in the area of the Monastery of Shirgi.",
+                  "text": "Ruins of an ancient structure near Shirgi Monastery.",
                   "category": "historical",
                   "coords": [
                         19.373175,

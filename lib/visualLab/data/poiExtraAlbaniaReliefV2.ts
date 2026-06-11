@@ -451,7 +451,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
       "de": [
             {
                   "name": "Palio stratiotiko phulakio",
-                  "text": "Ein Aussichtspunkt mit Blick auf die Überreste eines alten Dorfes.",
+                  "text": "Ruinen eines alten steinernen Weilers in den abgelegenen Bergen von Mali I Gramosit.",
                   "category": "natural",
                   "coords": [
                         20.764919,
@@ -460,7 +460,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
             },
             {
                   "name": "Puramida",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf dem Berg Gramos.",
+                  "text": "Eine pyramidenförmige Spitze im Mali I Gramosit, die von weitem sichtbar ist.",
                   "category": "natural",
                   "coords": [
                         20.762108,
@@ -471,7 +471,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
       "hu": [
             {
                   "name": "Palio stratiotiko phulakio",
-                  "text": "Kilátópont, ahonnan egy régi falu maradványai láthatók.",
+                  "text": "Egy régi kőtanya romjai a távoli Mali I Gramos hegységben.",
                   "category": "natural",
                   "coords": [
                         20.764919,
@@ -480,7 +480,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
             },
             {
                   "name": "Puramida",
-                  "text": "Kilátópont panorámás kilátással a Gramosz-hegyen.",
+                  "text": "Egy piramis alakú csúcs a Mali I Gramosban, messziről látható.",
                   "category": "natural",
                   "coords": [
                         20.762108,
@@ -491,7 +491,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
       "ro": [
             {
                   "name": "Palio stratiotiko phulakio",
-                  "text": "Un punct de belvedere cu vedere spre resturile unui sat vechi.",
+                  "text": "Ruinele unui vechi cătun de piatră în munții îndepărtați Mali I Gramosit.",
                   "category": "natural",
                   "coords": [
                         20.764919,
@@ -500,7 +500,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
             },
             {
                   "name": "Puramida",
-                  "text": "Un punct de belvedere cu vedere panoramică pe muntele Gramos.",
+                  "text": "Un vârf în formă de piramidă în Mali I Gramosit, vizibil de departe.",
                   "category": "natural",
                   "coords": [
                         20.762108,
@@ -511,7 +511,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
       "en": [
             {
                   "name": "Old hamlet",
-                  "text": "A viewpoint overlooking the remains of an old village.",
+                  "text": "Ruins of an old stone hamlet in the remote Mali I Gramosit mountains.",
                   "category": "natural",
                   "coords": [
                         20.764919,
@@ -520,7 +520,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
             },
             {
                   "name": "Pyramid",
-                  "text": "A viewpoint with panoramic views on Mount Gramos.",
+                  "text": "A pyramid-shaped peak in Mali I Gramosit, visible from afar.",
                   "category": "natural",
                   "coords": [
                         20.762108,
@@ -587,7 +587,7 @@ imageHint: "Mount Gramos Albania border mountains",
             },
             {
                   "name": "Sopotit-Wasserfall",
-                  "text": "Ein natürlicher Wasserfall in der malerischen Nemërçka-Region.",
+                  "text": "Ein hoher Wasserfall, der über die Nemercka-Bergkette in einen Bergsee stürzt.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -616,7 +616,7 @@ imageHint: "Mount Gramos Albania border mountains",
             },
             {
                   "name": "Ujëvara e Sopotit",
-                  "text": "Természetes vízesés a festői Nemërçka-régióban.",
+                  "text": "Egy magas vízesés, amely a Nemercka-hegységen át egy hegyi tóba zuhan.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -645,7 +645,7 @@ imageHint: "Mount Gramos Albania border mountains",
             },
             {
                   "name": "Ujëvara e Sopotit",
-                  "text": "O cascadă naturală în regiunea pitorească Nemërçka.",
+                  "text": "O cascadă înaltă care se prăbușește peste Munții Nemercka într-un lac montan.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -674,7 +674,7 @@ imageHint: "Mount Gramos Albania border mountains",
             },
             {
                   "name": "Sopotit Waterfall",
-                  "text": "A natural waterfall located in the scenic Nemërçka region.",
+                  "text": "A tall waterfall cascading down the Nemercka Range into a mountain pool.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -970,7 +970,7 @@ imageHint: "Munella mountain northern Albania",
       "de": [
             {
                   "name": "Plazhi në Liqen \"LIO\"",
-                  "text": "Strand am See auf dem Dumre-Plateau.",
+                  "text": "Ein Sandstrand am Lio-See in der Karstlandschaft des Dumre-Plateaus.",
                   "category": "recreational",
                   "coords": [
                         19.867287,
@@ -981,7 +981,7 @@ imageHint: "Munella mountain northern Albania",
       "hu": [
             {
                   "name": "Plazhi në Liqen \"LIO\"",
-                  "text": "Tavi strand a Dumre-fennsíkon.",
+                  "text": "Egy homokos strand a Lio-tónál a Dumre-fennsík karsztos táján.",
                   "category": "recreational",
                   "coords": [
                         19.867287,
@@ -992,7 +992,7 @@ imageHint: "Munella mountain northern Albania",
       "ro": [
             {
                   "name": "Plazhi në Liqen \"LIO\"",
-                  "text": "Plajă pe lac pe platoul Dumre.",
+                  "text": "O plajă cu nisip pe lacul Lio în peisajul carstic al Podișului Dumre.",
                   "category": "recreational",
                   "coords": [
                         19.867287,
@@ -1003,7 +1003,7 @@ imageHint: "Munella mountain northern Albania",
       "en": [
             {
                   "name": "Plazhi në Liqen \"LIO\"",
-                  "text": "Beach on the lake on the Dumre Plateau.",
+                  "text": "A sandy beach on Lake Lio in the karst landscape of Dumre Plateau.",
                   "category": "recreational",
                   "coords": [
                         19.867287,
@@ -1070,7 +1070,7 @@ imageHint: "Dumre Plateau karst lakes Albania aerial",
             },
             {
                   "name": "Sopotit-Wasserfall",
-                  "text": "Ein malerischer Wasserfall in der Nähe von Maja e Papingut.",
+                  "text": "Ein Wasserfall an den Hängen der Maja E Papingut, dem höchsten Gipfel der Nemercka-Bergkette.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -1099,7 +1099,7 @@ imageHint: "Dumre Plateau karst lakes Albania aerial",
             },
             {
                   "name": "Ujëvara e Sopotit",
-                  "text": "Egy festői vízesés Maja e Papingut közelében.",
+                  "text": "Egy vízesés a Maja E Papingut lejtőin, a Nemercka-hegység legmagasabb csúcsán.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -1128,7 +1128,7 @@ imageHint: "Dumre Plateau karst lakes Albania aerial",
             },
             {
                   "name": "Ujëvara e Sopotit",
-                  "text": "O cascadă pitorească situată lângă Maja e Papingut.",
+                  "text": "O cascadă pe versanții Maja E Papingut, cel mai înalt vârf al Munților Nemercka.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -1157,7 +1157,7 @@ imageHint: "Dumre Plateau karst lakes Albania aerial",
             },
             {
                   "name": "Sopotit Waterfall",
-                  "text": "A scenic waterfall located near Maja e Papingut.",
+                  "text": "A waterfall on the slopes of Maja E Papingut, the highest peak of the Nemercka Range.",
                   "category": "landmark",
                   "coords": [
                         20.442693,
@@ -2101,7 +2101,7 @@ imageHint: "Lunxheria mountain Albania landscape",
       "de": [
             {
                   "name": "Plazhi i Shalës",
-                  "text": "Plazhi i Shalës ist ein Uferbereich bei Mali i Cukalit.",
+                  "text": "Ein Strand am Shala-Fluss am Fuße des Mali I Cukalit mit kristallklarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         19.807947,
@@ -2112,7 +2112,7 @@ imageHint: "Lunxheria mountain Albania landscape",
       "hu": [
             {
                   "name": "Plazhi i Shalës",
-                  "text": "Plazhi i Shalës egy partszakasz Mali i Cukalit közelében.",
+                  "text": "Egy strand a Shala folyónál a Mali I Cukalit lábánál, kristálytiszta vízzel.",
                   "category": "recreational",
                   "coords": [
                         19.807947,
@@ -2123,7 +2123,7 @@ imageHint: "Lunxheria mountain Albania landscape",
       "ro": [
             {
                   "name": "Plazhi i Shalës",
-                  "text": "Plazhi i Shalës este o zonă de țărm lângă Mali i Cukalit.",
+                  "text": "O plajă pe râul Shala la poalele Mali I Cukalit, cu apă cristalină.",
                   "category": "recreational",
                   "coords": [
                         19.807947,
@@ -2134,7 +2134,7 @@ imageHint: "Lunxheria mountain Albania landscape",
       "en": [
             {
                   "name": "Plazhi i Shalës",
-                  "text": "Plazhi i Shalës is a waterfront area near Mali i Cukalit.",
+                  "text": "A beach along the Shala River at the foot of Mali I Cukalit, with crystal-clear water.",
                   "category": "recreational",
                   "coords": [
                         19.807947,
@@ -2238,7 +2238,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
       "de": [
             {
                   "name": "Dhrale Beach",
-                  "text": "Kieselstrand am Fuße des Ceraunischen Gebirges.",
+                  "text": "Ein Kiesstrand an der Ionischen Küste in den Ceraunischen Bergen, abseits der Touristenpfade.",
                   "category": "recreational",
                   "coords": [
                         19.58773,
@@ -2247,7 +2247,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Plazhi i Palasës",
-                  "text": "Langer Strand in der Nähe von Palasa.",
+                  "text": "Ein Klippenstrand nahe dem Dorf Palasa mit türkisfarbenem Wasser und einem Steinbogen.",
                   "category": "recreational",
                   "coords": [
                         19.58551,
@@ -2265,7 +2265,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Cesar-Pass",
-                  "text": "Aussichtspunkt am Pass mit Blick auf die Küste.",
+                  "text": "Ein hoher Gebirgspass in den Ceraunischen Bergen mit Panoramablick auf das Ionische Meer.",
                   "category": "natural",
                   "coords": [
                         19.582662,
@@ -2274,7 +2274,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Bunker",
-                  "text": "Großer Militärbunker in den albanischen Bergen.",
+                  "text": "Ein großer Betonbunker aus der kommunistischen Ära auf einem Grat der Ceraunischen Berge.",
                   "category": "historical",
                   "coords": [
                         19.592743,
@@ -2283,7 +2283,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Flying Mammut",
-                  "text": "Freizeitatraktion in den Bergen.",
+                  "text": "Eine Felsformation, die einem fliegenden Mammut ähnelt, in den Ceraunischen Bergen.",
                   "category": "landmark",
                   "coords": [
                         19.599128,
@@ -2292,7 +2292,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Llogora 1912-1913",
-                  "text": "Historisches Denkmal am Llogara-Pass.",
+                  "text": "Der Ort der Schlacht am Llogara-Pass von 1912–1913 in den Ceraunischen Bergen.",
                   "category": "historical",
                   "coords": [
                         19.598476,
@@ -2303,7 +2303,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
       "hu": [
             {
                   "name": "Dhrale Beach",
-                  "text": "Kavicsos tengerpart az Akrokerauni-hegység lábánál.",
+                  "text": "Egy kavicsos strand a Jón-tenger partján a Cerauniai-hegységben, a turisták által kevéssé látogatott.",
                   "category": "recreational",
                   "coords": [
                         19.58773,
@@ -2312,7 +2312,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Plazhi i Palasës",
-                  "text": "Hosszú tengerparti strand Palasa közelében.",
+                  "text": "Egy sziklás strand Palasa falu közelében, türkizkék vízzel és egy kőívvel.",
                   "category": "recreational",
                   "coords": [
                         19.58551,
@@ -2330,7 +2330,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Cesar-Pass",
-                  "text": "Kilátópont a hágónál, panorámával a tengerpartra.",
+                  "text": "Egy magas hegyi hágó a Cerauniai-hegységben, panorámás kilátással a Jón-tengerre.",
                   "category": "natural",
                   "coords": [
                         19.582662,
@@ -2339,7 +2339,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Bunker",
-                  "text": "Nagyméretű katonai bunker az albán hegyekben.",
+                  "text": "Egy nagy betonbunker a kommunista korszakból a Cerauniai-hegység egyik gerincén.",
                   "category": "historical",
                   "coords": [
                         19.592743,
@@ -2348,7 +2348,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Flying Mammut",
-                  "text": "Szabadtéri szabadidős látványosság a hegyekben.",
+                  "text": "Egy repülő mamutra hasonlító sziklák a Cerauniai-hegységben.",
                   "category": "landmark",
                   "coords": [
                         19.599128,
@@ -2357,7 +2357,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Llogora 1912-1913",
-                  "text": "Történelmi emlékmű a Llogara-hágónál.",
+                  "text": "Az 1912–1913-as llogarai csata helyszíne a Cerauniai-hegységben.",
                   "category": "historical",
                   "coords": [
                         19.598476,
@@ -2368,7 +2368,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
       "ro": [
             {
                   "name": "Dhrale Beach",
-                  "text": "Plajă cu pietriș la poalele Munților Ceraunieni.",
+                  "text": "O plajă cu pietriș pe coasta ionică în Munții Ceraunieni, departe de drumurile bătute.",
                   "category": "recreational",
                   "coords": [
                         19.58773,
@@ -2377,7 +2377,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Plazhi i Palasës",
-                  "text": "Plajă lungă situată lângă Palasa.",
+                  "text": "O plajă pe stâncă lângă satul Palasa, cu apă turcoaz și un arc de piatră.",
                   "category": "recreational",
                   "coords": [
                         19.58551,
@@ -2395,7 +2395,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Cesar-Pass",
-                  "text": "Punct de observație în pas, cu vedere spre coastă.",
+                  "text": "Un pas montan înalt în Munții Ceraunieni, cu vedere panoramică asupra Mării Ionice.",
                   "category": "natural",
                   "coords": [
                         19.582662,
@@ -2404,7 +2404,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Bunker",
-                  "text": "Bunker militar mare în munții albanezi.",
+                  "text": "Un mare buncăr de beton din era comunistă, așezat pe o creastă a Munților Ceraunieni.",
                   "category": "historical",
                   "coords": [
                         19.592743,
@@ -2413,7 +2413,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Flying Mammut",
-                  "text": "Atractie de agrement în munți.",
+                  "text": "O formațiune stâncoasă asemănătoare unui mamut zburător în Munții Ceraunieni.",
                   "category": "landmark",
                   "coords": [
                         19.599128,
@@ -2422,7 +2422,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Llogora 1912-1913",
-                  "text": "Monument istoric în pasul Llogara.",
+                  "text": "Locul bătăliei de la Pasul Llogara din 1912–1913 în Munții Ceraunieni.",
                   "category": "historical",
                   "coords": [
                         19.598476,
@@ -2433,7 +2433,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
       "en": [
             {
                   "name": "Dhrale Beach",
-                  "text": "A pebble beach at the foot of the Ceraunian Mountains.",
+                  "text": "A pebble beach on the Ionian coast in the Ceraunian Mountains, off the beaten path.",
                   "category": "recreational",
                   "coords": [
                         19.58773,
@@ -2442,7 +2442,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Plazhi i Palasës",
-                  "text": "A long beach located near Palasa.",
+                  "text": "A cliffside beach near the Palasa village, with turquoise water and a stone arch.",
                   "category": "recreational",
                   "coords": [
                         19.58551,
@@ -2460,7 +2460,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Cesar-Pass",
-                  "text": "A viewpoint at the pass with views of the coast.",
+                  "text": "A high mountain pass in the Ceraunian Mountains, offering panoramic views of the Ionian Sea.",
                   "category": "natural",
                   "coords": [
                         19.582662,
@@ -2469,7 +2469,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Big bunker",
-                  "text": "A large military bunker in the Albanian mountains.",
+                  "text": "A large concrete military bunker from the communist era, perched on a ridge of the Ceraunian Mountains.",
                   "category": "historical",
                   "coords": [
                         19.592743,
@@ -2478,7 +2478,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Flying Mammut",
-                  "text": "A leisure attraction in the mountains.",
+                  "text": "A rock formation resembling a mammoth in flight, in the Ceraunian Mountains.",
                   "category": "landmark",
                   "coords": [
                         19.599128,
@@ -2487,7 +2487,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
             },
             {
                   "name": "Llogora 1912-1913",
-                  "text": "A historical monument at the Llogara Pass.",
+                  "text": "The site of the 1912–1913 Battle of Llogora in the Ceraunian Mountains.",
                   "category": "historical",
                   "coords": [
                         19.598476,

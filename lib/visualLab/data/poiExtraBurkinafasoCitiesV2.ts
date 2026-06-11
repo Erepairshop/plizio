@@ -246,7 +246,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rond-point Arba DIALLO",
-                  "text": "Rond-point Arba DIALLO ist eine Sehenswürdigkeit in Dori.",
+                  "text": "Kreisverkehr Arba Diallo in Dori.",
                   "category": "landmark",
                   "coords": [
                         -0.035278,
@@ -257,7 +257,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rond-point Arba DIALLO",
-                  "text": "A Rond-point Arba DIALLO egy látványosság Dori városában.",
+                  "text": "Arba Diallo körforgalom Dori városában.",
                   "category": "landmark",
                   "coords": [
                         -0.035278,
@@ -268,7 +268,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rond-point Arba DIALLO",
-                  "text": "Rond-point Arba DIALLO este o atracție situată în Dori.",
+                  "text": "Sensul giratoriu Arba Diallo din Dori.",
                   "category": "landmark",
                   "coords": [
                         -0.035278,
@@ -279,7 +279,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rond-point Arba DIALLO",
-                  "text": "Rond-point Arba DIALLO is an attraction located in Dori.",
+                  "text": "Arba Diallo roundabout in Dori.",
                   "category": "landmark",
                   "coords": [
                         -0.035278,
@@ -959,7 +959,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Espace culturel CELPAC",
-                  "text": "Espace culturel CELPAC ist ein Kunstzentrum in Nouna.",
+                  "text": "Kulturzentrum CELPAC in Nouna.",
                   "category": "cultural",
                   "coords": [
                         -3.862684,
@@ -970,7 +970,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Espace culturel CELPAC",
-                  "text": "Az Espace culturel CELPAC egy művészeti központ Nouna településen.",
+                  "text": "CELPAC kulturális központ Nounában.",
                   "category": "cultural",
                   "coords": [
                         -3.862684,
@@ -981,7 +981,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Espace culturel CELPAC",
-                  "text": "Espace culturel CELPAC este un centru de arte aflat în Nouna.",
+                  "text": "Centrul cultural CELPAC din Nouna.",
                   "category": "cultural",
                   "coords": [
                         -3.862684,
@@ -992,7 +992,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Espace culturel CELPAC",
-                  "text": "Espace culturel CELPAC is an arts centre situated in Nouna.",
+                  "text": "CELPAC cultural centre in Nouna.",
                   "category": "cultural",
                   "coords": [
                         -3.862684,
@@ -1601,7 +1601,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ancienne salle de cinéma",
-                  "text": "Ancienne salle de cinéma ist ein Theater in Kombissiri.",
+                  "text": "Ehemaliges Kino in Kombissiri.",
                   "category": "cultural",
                   "coords": [
                         -1.339074,
@@ -1610,7 +1610,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
             },
             {
                   "name": "NINTENGA",
-                  "text": "NINTENGA ist ein Aussichtspunkt in Kombissiri.",
+                  "text": "Natürlicher Ort Nintenga in der Nähe von Kombissiri.",
                   "category": "natural",
                   "coords": [
                         -1.357226,
@@ -1621,7 +1621,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ancienne salle de cinéma",
-                  "text": "Az Ancienne salle de cinéma egy színház Kombissiri városában.",
+                  "text": "Egykori mozi Kombissiriben.",
                   "category": "cultural",
                   "coords": [
                         -1.339074,
@@ -1630,7 +1630,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
             },
             {
                   "name": "NINTENGA",
-                  "text": "A NINTENGA egy kilátó Kombissiri városában.",
+                  "text": "Nintenga természeti hely Kombissiri közelében.",
                   "category": "natural",
                   "coords": [
                         -1.357226,
@@ -1641,7 +1641,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ancienne salle de cinéma",
-                  "text": "Ancienne salle de cinéma este un teatru situat în Kombissiri.",
+                  "text": "Fosta sală de cinema din Kombissiri.",
                   "category": "cultural",
                   "coords": [
                         -1.339074,
@@ -1650,7 +1650,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
             },
             {
                   "name": "NINTENGA",
-                  "text": "NINTENGA este un punct de belvedere situat în Kombissiri.",
+                  "text": "Situl natural Nintenga lângă Kombissiri.",
                   "category": "natural",
                   "coords": [
                         -1.357226,
@@ -1661,7 +1661,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ancienne salle de cinéma",
-                  "text": "Ancienne salle de cinéma is a theatre located in Kombissiri.",
+                  "text": "Former cinema hall in Kombissiri.",
                   "category": "cultural",
                   "coords": [
                         -1.339074,
@@ -1670,7 +1670,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
             },
             {
                   "name": "NINTENGA",
-                  "text": "NINTENGA is a viewpoint located in Kombissiri.",
+                  "text": "Nintenga natural site near Kombissiri.",
                   "category": "natural",
                   "coords": [
                         -1.357226,
@@ -2103,7 +2103,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Eco Musée de Diapaga",
-                  "text": "Das Eco Musée de Diapaga ist ein Museum in Diapaga.",
+                  "text": "Ökomuseum von Diapaga.",
                   "category": "museum",
                   "coords": [
                         1.786552,
@@ -2114,7 +2114,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Eco Musée de Diapaga",
-                  "text": "Az Eco Musée de Diapaga egy múzeum Diapaga városában.",
+                  "text": "Diapaga Ökomúzeuma.",
                   "category": "museum",
                   "coords": [
                         1.786552,
@@ -2125,7 +2125,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Eco Musée de Diapaga",
-                  "text": "Eco Musée de Diapaga este un muzeu situat în Diapaga.",
+                  "text": "Ecomuzeul din Diapaga.",
                   "category": "museum",
                   "coords": [
                         1.786552,
@@ -2136,7 +2136,7 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Eco Musée de Diapaga",
-                  "text": "Eco Musée de Diapaga is a museum located in Diapaga.",
+                  "text": "Eco-museum of Diapaga.",
                   "category": "museum",
                   "coords": [
                         1.786552,

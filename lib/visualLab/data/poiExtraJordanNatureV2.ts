@@ -3,7 +3,628 @@ import type { POI } from "./poi";
 
 export const poiExtraJordanNatureV2: POI[] = [
   {
-    id: "wadi-rum-nature-v2",
+    id: "wadi-rum-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canyon makharas",
+                  "text": "Ein schmaler Sandsteincanyon in Wadi Rum, der für seine hohen rötlichen Felswände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.454689,
+                        29.617614
+                  ]
+            },
+            {
+                  "name": "Anfishieh Inscriptions",
+                  "text": "An dieser Felswand befinden sich antiche thamudische und nabatäische Petroglyphen von Kamelen.",
+                  "category": "historical",
+                  "coords": [
+                        35.453008,
+                        29.555972
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "Diese antiken Felszeichnungen im Wüstensand zeigen Jagdszenen und Symbole früher Nomadenstämme.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411082,
+                        29.571738
+                  ]
+            },
+            {
+                  "name": "Rests of an old water channel",
+                  "text": "Ruinen eines nabatäischen Wassersystems, das einst Regenwasser durch die trockene Wüstenlandschaft leitete.",
+                  "category": "historical",
+                  "coords": [
+                        35.411682,
+                        29.570511
+                  ]
+            },
+            {
+                  "name": "Sanddüne",
+                  "text": "Eine massive rote Sanddüne am Fuße der Berge, die ein beliebter Ort zum Sandsurfen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.421672,
+                        29.528984
+                  ]
+            },
+            {
+                  "name": "Felsinschriften",
+                  "text": "Diese in den Sandstein gehauenen Inschriften dokumentieren die Namen und Reisen antiker Karawanenführer.",
+                  "category": "historical",
+                  "coords": [
+                        35.424003,
+                        29.520145
+                  ]
+            },
+            {
+                  "name": "Khazali-Schlucht",
+                  "text": "Eine enge Schlucht mit zahlreichen Felsgravuren, die Menschen und Tiere der antiken Tamud-Zivilisation zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.42347,
+                        29.517962
+                  ]
+            },
+            {
+                  "name": "Little Bridge",
+                  "text": "Ein kleiner, natürlicher Felsbogen aus Sandstein, der leicht zu besteigen ist und weite Wüstenblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443016,
+                        29.520406
+                  ]
+            },
+            {
+                  "name": "House of Lawrenze",
+                  "text": "Die Überreste einer nabatäischen Zisterne, in der T.E. Lawrence während des Arabischen Aufstands gelebt haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        35.459286,
+                        29.528332
+                  ]
+            },
+            {
+                  "name": "Al-Tbeqa",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Panoramablick über die weiten roten Sandebenen von Wadi Rum.",
+                  "category": "natural",
+                  "coords": [
+                        35.477204,
+                        29.511801
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "Eine markante, vom Wind geformte Sandsteinformation, die an die Gestalt eines riesigen Pilzes erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        35.493503,
+                        29.518053
+                  ]
+            },
+            {
+                  "name": "Barrah Canyon",
+                  "text": "Ein weitläufiger, hoher Canyon, der von steilen Klippen flankiert wird und ein beliebtes Ziel für Wanderer und Kletterer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490899,
+                        29.557996
+                  ]
+            },
+            {
+                  "name": "Ancient inscriptions",
+                  "text": "Diese antiken thamudischen Schriftzeichen an den Felswänden zeugen von den Reisenden vergangener Jahrtausende.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496681,
+                        29.59812
+                  ]
+            },
+            {
+                  "name": "Arch Tower",
+                  "text": "Eine natürliche Felsbrücke hoch oben in den Bergen, die einen dramatischen Blick auf das Wüstental bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.503333,
+                        29.574722
+                  ]
+            },
+            {
+                  "name": "Bird Stone",
+                  "text": "Diese ungewöhnliche Felsformation aus Sandstein hat durch natürliche Erosion die Form eines sitzenden Vogels erhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501401,
+                        29.57359
+                  ]
+            },
+            {
+                  "name": "Lawrence Face",
+                  "text": "Eine moderne Skulptur, die das Gesicht von T.E. Lawrence direkt in den roten Sandstein der Wüste ritzt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493336,
+                        29.619737
+                  ]
+            },
+            {
+                  "name": "Nabatäischer Tempel",
+                  "text": "Die Ruinen eines nabatäischen Tempels aus dem 1. Jahrhundert, der der Göttin Allat gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        35.415464,
+                        29.577929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canyon makharas",
+                  "text": "Egy szűk homokkő-kanyon a Wadi Rumban, amely magas, vöröses sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.454689,
+                        29.617614
+                  ]
+            },
+            {
+                  "name": "Anfishieh Inscriptions",
+                  "text": "Ezen a sziklafalon ősi tamúd és nabateus tevés sziklarajzok láthatóak.",
+                  "category": "historical",
+                  "coords": [
+                        35.453008,
+                        29.555972
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "Ezek az ősi sziklarajzok vadászjeleneteket és korai nomád törzsek szimbólumait ábrázolják.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411082,
+                        29.571738
+                  ]
+            },
+            {
+                  "name": "Rests of an old water channel",
+                  "text": "Egy nabateus vízrendszer maradványai, amely egykor esővizet vezetett át a száraz sivatagi tájon.",
+                  "category": "historical",
+                  "coords": [
+                        35.411682,
+                        29.570511
+                  ]
+            },
+            {
+                  "name": "Red Sand Dunes",
+                  "text": "Egy hatalmas vörös homokdűne a hegyek lábánál, amely népszerű hely a homokszörfözéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.421672,
+                        29.528984
+                  ]
+            },
+            {
+                  "name": "rock-inscriptions",
+                  "text": "Ezek a homokkőbe vésett feliratok az ősi karavánvezetők neveit és utazásait örökítik meg.",
+                  "category": "historical",
+                  "coords": [
+                        35.424003,
+                        29.520145
+                  ]
+            },
+            {
+                  "name": "Siq al Khazali",
+                  "text": "Egy szűk szurdok, ahol számos, az ősi tamúd civilizációból származó ember- és állatfigura látható.",
+                  "category": "landmark",
+                  "coords": [
+                        35.42347,
+                        29.517962
+                  ]
+            },
+            {
+                  "name": "Little Bridge",
+                  "text": "Egy kisméretű, természetes homokkő híd, amely könnyen megmászható és tágas kilátást nyújt a sivatagra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443016,
+                        29.520406
+                  ]
+            },
+            {
+                  "name": "House of Lawrenze",
+                  "text": "Egy nabateus ciszterna maradványai, ahol a hagyomány szerint Arábiai Lawrence lakott az arab felkelés idején.",
+                  "category": "landmark",
+                  "coords": [
+                        35.459286,
+                        29.528332
+                  ]
+            },
+            {
+                  "name": "Al-Tbeqa",
+                  "text": "Ez a magaslati kilátópont panorámás rálátást nyújt a Wadi Rum hatalmas vörös homoksíkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        35.477204,
+                        29.511801
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "Egy jellegzetes, szél marta homokkő képződmény, amely egy óriási gomba alakjára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        35.493503,
+                        29.518053
+                  ]
+            },
+            {
+                  "name": "Barrah Canyon",
+                  "text": "Egy tágas, magas szurdok, amelyet meredek sziklák határolnak, és a túrázók, sziklamászók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490899,
+                        29.557996
+                  ]
+            },
+            {
+                  "name": "Ancient inscriptions",
+                  "text": "Ezek az ősi tamúd feliratok a sziklafalakon a több évezreddel ezelőtti utazók nyomait őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496681,
+                        29.59812
+                  ]
+            },
+            {
+                  "name": "Arch Tower",
+                  "text": "Egy természetes kőhíd magasan a hegyekben, amely drámai kilátást nyújt a sivatagi völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.503333,
+                        29.574722
+                  ]
+            },
+            {
+                  "name": "Bird Stone",
+                  "text": "Ez a különleges homokkő sziklaalakzat a természetes erózió folytán egy ülő madár formáját vette fel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501401,
+                        29.57359
+                  ]
+            },
+            {
+                  "name": "Lawrence Face",
+                  "text": "Egy modern szobrászati alkotás, amely T.E. Lawrence arcát örökíti meg a sivatag vörös homokkövébe vésve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493336,
+                        29.619737
+                  ]
+            },
+            {
+                  "name": "Nabataean Temple",
+                  "text": "Egy 1. századi nabateus templom romjai, amelyet Allat istennő tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        35.415464,
+                        29.577929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canyon makharas",
+                  "text": "Un canion îngust de gresie în Wadi Rum, cunoscut pentru pereții săi înalți de stâncă roșiatică.",
+                  "category": "landmark",
+                  "coords": [
+                        35.454689,
+                        29.617614
+                  ]
+            },
+            {
+                  "name": "Anfishieh Inscriptions",
+                  "text": "Acest perete de stâncă prezintă petroglife antice tamudice și nabateene reprezentând cămile.",
+                  "category": "historical",
+                  "coords": [
+                        35.453008,
+                        29.555972
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "Aceste desene rupestre antice din deșert înfățișează scene de vânătoare și simboluri ale triburilor nomade timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411082,
+                        29.571738
+                  ]
+            },
+            {
+                  "name": "Rests of an old water channel",
+                  "text": "Ruinele unui sistem de apă nabateean care direcționa cândva apa de ploaie prin peisajul arid al deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        35.411682,
+                        29.570511
+                  ]
+            },
+            {
+                  "name": "Red Sand Dunes",
+                  "text": "O dună masivă de nisip roșu la baza munților, fiind un loc popular pentru sandboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        35.421672,
+                        29.528984
+                  ]
+            },
+            {
+                  "name": "rock-inscriptions",
+                  "text": "Aceste inscripții sculptate în gresie documentează numele și călătoriile vechilor conducători de caravane.",
+                  "category": "historical",
+                  "coords": [
+                        35.424003,
+                        29.520145
+                  ]
+            },
+            {
+                  "name": "Siq al Khazali",
+                  "text": "Un defileu îngust care conține numeroase gravuri rupestre ce înfățișează oameni și animale din antica civilizație Tamud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.42347,
+                        29.517962
+                  ]
+            },
+            {
+                  "name": "Little Bridge",
+                  "text": "Un arc natural mic de gresie, ușor de escaladat, care oferă vederi largi asupra deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443016,
+                        29.520406
+                  ]
+            },
+            {
+                  "name": "House of Lawrenze",
+                  "text": "Rămășițele unei cisterne nabateene unde se spune că T.E. Lawrence ar fi locuit în timpul Revoltei Arabe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.459286,
+                        29.528332
+                  ]
+            },
+            {
+                  "name": "Al-Tbeqa",
+                  "text": "Acest punct de observare ridicat oferă o vedere panoramică asupra vastelor câmpii de nisip roșu din Wadi Rum.",
+                  "category": "natural",
+                  "coords": [
+                        35.477204,
+                        29.511801
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "O formațiune de gresie distinctivă, modelată de vânt, care seamănă cu forma unei ciuperci gigantice.",
+                  "category": "historical",
+                  "coords": [
+                        35.493503,
+                        29.518053
+                  ]
+            },
+            {
+                  "name": "Barrah Canyon",
+                  "text": "Un canion larg și înalt, străjuit de stânci abrupte, fiind o destinație populară pentru drumeții și alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490899,
+                        29.557996
+                  ]
+            },
+            {
+                  "name": "Ancient inscriptions",
+                  "text": "Aceste inscripții antice tamudice de pe pereții de stâncă sunt mărturii ale călătorilor de acum câteva milenii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496681,
+                        29.59812
+                  ]
+            },
+            {
+                  "name": "Arch Tower",
+                  "text": "Un pod natural de stâncă aflat sus în munți, oferind o vedere dramatică asupra văii deșertului.",
+                  "category": "natural",
+                  "coords": [
+                        35.503333,
+                        29.574722
+                  ]
+            },
+            {
+                  "name": "Bird Stone",
+                  "text": "Această formațiune neobișnuită de gresie a căpătat, prin eroziune naturală, forma unei păsări așezate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501401,
+                        29.57359
+                  ]
+            },
+            {
+                  "name": "Lawrence Face",
+                  "text": "O sculptură modernă care înfățișează chipul lui T.E. Lawrence sculptat direct în gresia roșie a deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493336,
+                        29.619737
+                  ]
+            },
+            {
+                  "name": "Nabataean Temple",
+                  "text": "Ruinele unui templu nabateean din secolul I, care a fost dedicat zeiței Allat.",
+                  "category": "historical",
+                  "coords": [
+                        35.415464,
+                        29.577929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canyon makharas",
+                  "text": "A narrow sandstone canyon in Wadi Rum known for its high, reddish rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        35.454689,
+                        29.617614
+                  ]
+            },
+            {
+                  "name": "Anfishieh Inscriptions",
+                  "text": "This rock face features ancient Thamudic and Nabataean petroglyphs of camels.",
+                  "category": "historical",
+                  "coords": [
+                        35.453008,
+                        29.555972
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "These ancient rock carvings in the desert depict hunting scenes and symbols of early nomadic tribes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411082,
+                        29.571738
+                  ]
+            },
+            {
+                  "name": "Rests of an old water channel",
+                  "text": "Ruins of a Nabataean water system that once channeled rainwater through the arid desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        35.411682,
+                        29.570511
+                  ]
+            },
+            {
+                  "name": "Sand dune",
+                  "text": "A massive red sand dune at the foot of the mountains, which is a popular spot for sandboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        35.421672,
+                        29.528984
+                  ]
+            },
+            {
+                  "name": "rock-inscriptions",
+                  "text": "These inscriptions carved into the sandstone document the names and journeys of ancient caravan leaders.",
+                  "category": "historical",
+                  "coords": [
+                        35.424003,
+                        29.520145
+                  ]
+            },
+            {
+                  "name": "Siq al Khazali",
+                  "text": "A narrow canyon containing numerous rock carvings depicting humans and animals from the ancient Thamud civilization.",
+                  "category": "landmark",
+                  "coords": [
+                        35.42347,
+                        29.517962
+                  ]
+            },
+            {
+                  "name": "Little Bridge",
+                  "text": "A small, natural sandstone arch that is easy to climb and offers wide desert views.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443016,
+                        29.520406
+                  ]
+            },
+            {
+                  "name": "House of Lawrenze",
+                  "text": "The remains of a Nabataean cistern where T.E. Lawrence is said to have stayed during the Arab Revolt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.459286,
+                        29.528332
+                  ]
+            },
+            {
+                  "name": "Al-Tbeqa",
+                  "text": "This elevated viewpoint offers a panoramic outlook over the vast red sand plains of Wadi Rum.",
+                  "category": "natural",
+                  "coords": [
+                        35.477204,
+                        29.511801
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "A distinctive wind-eroded sandstone formation that resembles the shape of a giant mushroom.",
+                  "category": "historical",
+                  "coords": [
+                        35.493503,
+                        29.518053
+                  ]
+            },
+            {
+                  "name": "Barrah Canyon",
+                  "text": "A spacious, high canyon flanked by steep cliffs, being a popular destination for hikers and climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490899,
+                        29.557996
+                  ]
+            },
+            {
+                  "name": "Ancient inscriptions",
+                  "text": "These ancient Thamudic inscriptions on the rock walls are testimonies of travelers from millennia ago.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496681,
+                        29.59812
+                  ]
+            },
+            {
+                  "name": "Arch Tower",
+                  "text": "A natural rock bridge high up in the mountains, offering a dramatic view of the desert valley.",
+                  "category": "natural",
+                  "coords": [
+                        35.503333,
+                        29.574722
+                  ]
+            },
+            {
+                  "name": "Bird Stone",
+                  "text": "This unusual sandstone rock formation has taken the shape of a seated bird through natural erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        35.501401,
+                        29.57359
+                  ]
+            },
+            {
+                  "name": "Lawrence Face",
+                  "text": "A modern sculpture featuring the face of T.E. Lawrence carved directly into the red sandstone of the desert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.493336,
+                        29.619737
+                  ]
+            },
+            {
+                  "name": "Nabataean Temple",
+                  "text": "The ruins of a 1st-century Nabataean temple that was dedicated to the goddess Allat.",
+                  "category": "historical",
+                  "coords": [
+                        35.415464,
+                        29.577929
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JO-AQ",
     coords: [35.4208, 29.5758],
@@ -111,7 +732,52 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "mujib-reserve-nature-v2",
+    id: "mujib-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mudschib Biosphärenreservat",
+                  "text": "Das Naturschutzgebiet der Mujib-Biosphäre liegt in einer tiefen Wüstenschlucht und gilt als das am tiefsten gelegene Naturschutzgebiet der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        35.614375,
+                        31.482593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mujib Biosphere Reserve",
+                  "text": "A Mujib Bioszféra Rezervátum egy mély sivatagi szurdokban található, és a világ legalacsonyabban fekvő természetvédelmi területeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.614375,
+                        31.482593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mujib Biosphere Reserve",
+                  "text": "Rezervația Biosferei Mujib este situată într-un defileu deșertic adânc și este recunoscută drept cea mai joasă rezervație naturală din lume.",
+                  "category": "natural",
+                  "coords": [
+                        35.614375,
+                        31.482593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mujib Biosphere Reserve",
+                  "text": "The Mujib Biosphere Reserve is located within a deep desert gorge and is recognized as the lowest-elevation nature reserve in the world.",
+                  "category": "natural",
+                  "coords": [
+                        35.614375,
+                        31.482593
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JO-MD",
     coords: [35.6166, 31.4666],
@@ -147,7 +813,52 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "azraq-wetland-nature-v2",
+    id: "azraq-wetland-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Azraq Wetland Reserve",
+                  "text": "Dieses Naturschutzgebiet in der östlichen Wüste beheimatet den seltenen, endemischen Azraq-Kärpfling.",
+                  "category": "landmark",
+                  "coords": [
+                        36.82129,
+                        31.83377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Azraq Wetland Reserve",
+                  "text": "Ez a keleti sivatagban található védett terület a ritka, endemikus azraki fogasponty otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        36.82129,
+                        31.83377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Azraq Wetland Reserve",
+                  "text": "Această rezervație naturală din deșertul estic găzduiește rarul pește endemic Azraq killifish.",
+                  "category": "landmark",
+                  "coords": [
+                        36.82129,
+                        31.83377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Azraq Wetland Reserve",
+                  "text": "This nature reserve in the eastern desert is home to the rare, endemic Azraq killifish.",
+                  "category": "landmark",
+                  "coords": [
+                        36.82129,
+                        31.83377
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JO-AZ",
     coords: [36.8333, 31.8333],
@@ -183,7 +894,88 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "shaumari-wildlife-nature-v2",
+    id: "shaumari-wildlife-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr al-Uwaynid",
+                  "text": "Diese archäologische Stätte umfasst die Überreste eines kleinen römischen Wüstenforts, das als Kleinkastell bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.733657,
+                        31.784919
+                  ]
+            },
+            {
+                  "name": "Shaumari Wildlife Reserve",
+                  "text": "Dieses geschützte Naturschutzgebiet wurde als Zuchtzentrum für gefährdete Tierarten wie die Arabische Oryxantilope eingerichtet.",
+                  "category": "natural",
+                  "coords": [
+                        36.780829,
+                        31.742133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr al-Uwaynid",
+                  "text": "Ez a régészeti lelőhely egy kisméretű sivatagi római erőd, egy úgynevezett Kleinkastell maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        36.733657,
+                        31.784919
+                  ]
+            },
+            {
+                  "name": "Shaumari Wildlife Reserve",
+                  "text": "Ezt a védett természetvédelmi területet olyan veszélyeztetett fajok tenyésztőközpontjaként hozták létre, mint az arab bejzák.",
+                  "category": "natural",
+                  "coords": [
+                        36.780829,
+                        31.742133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr al-Uwaynid",
+                  "text": "Acest sit arheologic conține rămășițele unui mic fort roman, cunoscut sub numele de Kleinkastell, construit în deșert.",
+                  "category": "historical",
+                  "coords": [
+                        36.733657,
+                        31.784919
+                  ]
+            },
+            {
+                  "name": "Shaumari Wildlife Reserve",
+                  "text": "Această rezervație naturală protejată a fost înființată ca centru de reproducere pentru specii pe cale de dispariție, precum orixul arab.",
+                  "category": "natural",
+                  "coords": [
+                        36.780829,
+                        31.742133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Uweinid",
+                  "text": "This archaeological site contains the remains of a small Roman fort, known in German as a Kleinkastell, built in the desert.",
+                  "category": "historical",
+                  "coords": [
+                        36.733657,
+                        31.784919
+                  ]
+            },
+            {
+                  "name": "Shaumari Wildlife Reserve",
+                  "text": "This protected nature reserve was established as a breeding center for endangered species like the Arabian oryx.",
+                  "category": "natural",
+                  "coords": [
+                        36.780829,
+                        31.742133
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JO-AZ",
     coords: [36.8000, 31.7833],
@@ -219,7 +1011,268 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "ajloun-forest-nature-v2",
+    id: "ajloun-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Mar Elyas",
+                  "text": "Diese Ruinen gelten traditionell als Geburtsort des Propheten Elia und beherbergen Überreste byzantinischer Kirchen.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.366667
+                  ]
+            },
+            {
+                  "name": "Ancient wine press",
+                  "text": "Eine antike, in den Fels gehauene Weinpresse, die Zeugnis von der jahrtausendealten Landwirtschaft in der Region Ajloun ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        35.760773,
+                        32.383135
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maqlub",
+                  "text": "Die Überreste dieser antiken Siedlung liegen malerisch zwischen Olivenhainen in den Hügeln von Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat al Buwaydah",
+                  "text": "Antike Mauerreste einer einstigen Festung oder Siedlung, die auf einem strategischen Kamm bei Ajloun thronen.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Khirbat Fara",
+                  "text": "Eine abgelegene Ruinenstätte, an der massive Steinblöcke auf die einstige Bedeutung dieses Ortes hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Ajloun Forest Reserve",
+                  "text": "Ein hügeliges Naturschutzgebiet, das von immergrünen Eichen dominiert wird und für seine wiedereingeführten Rehe bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.755812,
+                        32.38287
+                  ]
+            },
+            {
+                  "name": "Salah Addin Great Mosque",
+                  "text": "Diese bedeutende Moschee in Ajloun stammt aus der ayyubidischen Zeit und ist ein Zentrum des städtischen Lebens.",
+                  "category": "landmark",
+                  "coords": [
+                        35.705927,
+                        32.407581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Mar Elyas",
+                  "text": "Ezeket a romokat hagyományosan Illés próféta szülőhelyének tekintik, és bizánci templomok maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.366667
+                  ]
+            },
+            {
+                  "name": "Ancient wine press",
+                  "text": "Sziklába vájt ókori szőlőprés, amely az Adzslún régió több évezredes mezőgazdaságáról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        35.760773,
+                        32.383135
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maqlub",
+                  "text": "Ennek az ókori településnek a maradványai festői módon, olajfaligetek között fekszenek az Adzslún-dombságban.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat al Buwaydah",
+                  "text": "Egy egykori erőd vagy település ókori falmaradványai, amelyek egy stratégiai gerincen trónolnak Adzslún közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Khirbat Fara",
+                  "text": "Elhagyatott romterület, ahol hatalmas kőtömbök utalnak a hely egykori jelentőségére.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Ajloun Forest Reserve",
+                  "text": "Dombvidéki természetvédelmi terület, amelyet örökzöld tölgyek uralnak, és a visszatelepített őzeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.755812,
+                        32.38287
+                  ]
+            },
+            {
+                  "name": "Salah Addin Great Mosque",
+                  "text": "Ez a jelentős adzslúni mecset az Ajjúbidák korából származik, és a városi élet központja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.705927,
+                        32.407581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Mar Elyas",
+                  "text": "Aceste ruine sunt considerate tradițional locul de naștere al profetului Ilie și adăpostesc resturi de biserici bizantine.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.366667
+                  ]
+            },
+            {
+                  "name": "Ancient wine press",
+                  "text": "Un teasc de vin antic săpat în stâncă, care depune mărturie despre agricultura milenară din regiunea Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.760773,
+                        32.383135
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maqlub",
+                  "text": "Rămășițele acestei așezări antice sunt situate pitoresc între livezi de măslini în dealurile Ajlounului.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat al Buwaydah",
+                  "text": "Resturi de ziduri antice ale unei foste fortărețe sau așezări, care tronează pe o creastă strategică lângă Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Khirbat Fara",
+                  "text": "Un sit cu ruine izolat, unde blocurile masive de piatră indică importanța de odinioară a acestui loc.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Ajloun Forest Reserve",
+                  "text": "O rezervație naturală deluroasă, dominată de stejari verzi și cunoscută pentru populația sa de căprioare reintrodusă.",
+                  "category": "natural",
+                  "coords": [
+                        35.755812,
+                        32.38287
+                  ]
+            },
+            {
+                  "name": "Salah Addin Great Mosque",
+                  "text": "Această moschee importantă din Ajloun datează din perioada ayyubidă și este un centru al vieții urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        35.705927,
+                        32.407581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Mar Elyas",
+                  "text": "These ruins are traditionally regarded as the birthplace of the Prophet Elijah and house remains of Byzantine churches.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.366667
+                  ]
+            },
+            {
+                  "name": "Ancient wine press",
+                  "text": "An ancient rock-cut wine press that bears witness to thousands of years of agriculture in the Ajloun region.",
+                  "category": "historical",
+                  "coords": [
+                        35.760773,
+                        32.383135
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maqlub",
+                  "text": "The remains of this ancient settlement are picturesquely situated among olive groves in the Ajloun hills.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat al Buwaydah",
+                  "text": "Ancient wall remains of a former fortress or settlement perched on a strategic ridge near Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Khirbat Fara",
+                  "text": "A remote ruin site where massive stone blocks hint at the former significance of this location.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.416667
+                  ]
+            },
+            {
+                  "name": "Ajloun Forest Reserve",
+                  "text": "A hilly nature reserve dominated by evergreen oaks and known for its reintroduced roe deer population.",
+                  "category": "natural",
+                  "coords": [
+                        35.755812,
+                        32.38287
+                  ]
+            },
+            {
+                  "name": "Salah Addin Great Mosque",
+                  "text": "This significant mosque in Ajloun dates back to the Ayyubid period and is a center of urban life.",
+                  "category": "landmark",
+                  "coords": [
+                        35.705927,
+                        32.407581
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "JO-AJ",
     coords: [35.7500, 32.3833],
@@ -255,7 +1308,124 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "dibbeen-forest-nature-v2",
+    id: "dibbeen-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monastery of Virgin Mary",
+                  "text": "Ein friedliches religiöses Denkmal in den mit Kiefern bewachsenen Hügeln des Dibbeen-Waldes.",
+                  "category": "historical",
+                  "coords": [
+                        35.825391,
+                        32.257175
+                  ]
+            },
+            {
+                  "name": "Khirbet Um Jawzeh",
+                  "text": "Antike Steinruinen, die zwischen den Eichen und Kiefern des Dibbeen-Waldes verborgen liegen.",
+                  "category": "historical",
+                  "coords": [
+                        35.796938,
+                        32.270483
+                  ]
+            },
+            {
+                  "name": "Dibeen Forest Reserve",
+                  "text": "Dieses Reservat schützt einen der größten verbliebenen Bestände an Aleppo-Kiefern und Eichen in Jordanien.",
+                  "category": "natural",
+                  "coords": [
+                        35.815099,
+                        32.238374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monastery of Virgin Mary",
+                  "text": "Egy békés vallási emlékmű a Dibbeen-erdő fenyvesekkel borított dombjai között.",
+                  "category": "historical",
+                  "coords": [
+                        35.825391,
+                        32.257175
+                  ]
+            },
+            {
+                  "name": "Khirbet Um Jawzeh",
+                  "text": "Ókori kőromok, amelyek a Dibbeen-erdő tölgyfái és fenyői között rejtőznek.",
+                  "category": "historical",
+                  "coords": [
+                        35.796938,
+                        32.270483
+                  ]
+            },
+            {
+                  "name": "Dibeen Forest Reserve",
+                  "text": "Ez a rezervátum Jordánia egyik legnagyobb megmaradt aleppói fenyő- és tölgyállományát védi.",
+                  "category": "natural",
+                  "coords": [
+                        35.815099,
+                        32.238374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monastery of Virgin Mary",
+                  "text": "Un monument religios liniștit situat în dealurile împădurite cu pini ale pădurii Dibbeen.",
+                  "category": "historical",
+                  "coords": [
+                        35.825391,
+                        32.257175
+                  ]
+            },
+            {
+                  "name": "Khirbet Um Jawzeh",
+                  "text": "Ruine antice de piatră ascunse printre stejarii și pinii pădurii Dibbeen.",
+                  "category": "historical",
+                  "coords": [
+                        35.796938,
+                        32.270483
+                  ]
+            },
+            {
+                  "name": "Dibeen Forest Reserve",
+                  "text": "Această rezervație protejează una dintre cele mai mari populații rămase de pini de Alep și stejari din Iordania.",
+                  "category": "natural",
+                  "coords": [
+                        35.815099,
+                        32.238374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Virgin Mary",
+                  "text": "A peaceful religious monument set within the pine-forested hills of the Dibbeen Forest.",
+                  "category": "historical",
+                  "coords": [
+                        35.825391,
+                        32.257175
+                  ]
+            },
+            {
+                  "name": "Khirbet Um Jawzeh",
+                  "text": "Ancient stone ruins hidden among the oak and pine trees of the Dibbeen Forest.",
+                  "category": "historical",
+                  "coords": [
+                        35.796938,
+                        32.270483
+                  ]
+            },
+            {
+                  "name": "Dibeen Forest Reserve",
+                  "text": "This reserve protects one of the largest remaining stands of Aleppo pine and oak trees in Jordan.",
+                  "category": "natural",
+                  "coords": [
+                        35.815099,
+                        32.238374
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "JO-JA",
     coords: [35.8333, 32.2333],
@@ -291,7 +1461,52 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "jordan-river-nature-v2",
+    id: "jordan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ramada Resort Beach",
+                  "text": "Der Ramada Resort Beach ist ein privater Sandstrand, an dem Gäste im stark salzhaltigen Wasser des Toten Meeres schweben können.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575208,
+                        31.759958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ramada Resort Beach",
+                  "text": "A Ramada Resort Beach egy privát homokos strand, ahol a vendégek a Holt-tenger magas sótartalmú vizében lebeghetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575208,
+                        31.759958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ramada Resort Beach",
+                  "text": "Ramada Resort Beach este o plajă privată cu nisip unde oaspeții pot pluti în apele extrem de sărate ale Mării Moarte.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575208,
+                        31.759958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ramada Resort Beach",
+                  "text": "Ramada Resort Beach is a private sandy shoreline where guests can float effortlessly in the hyper-saline waters of the Dead Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575208,
+                        31.759958
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JO-BA",
     coords: [35.5333, 31.7500],
@@ -327,7 +1542,664 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "yarmouk-river-nature-v2",
+    id: "yarmouk-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ein Sharir",
+                  "text": "Eine beständige Quelle an den Hängen, die auf das tief eingeschnittene Tal des Jarmuk-Flusses blickt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638954,
+                        32.710865
+                  ]
+            },
+            {
+                  "name": "Mitzpe Kinneret",
+                  "text": "Aussichtspunkt mit weitem Panorama über den See Genezareth und die südlichen Golanhöhen.",
+                  "category": "natural",
+                  "coords": [
+                        35.646216,
+                        32.700049
+                  ]
+            },
+            {
+                  "name": "Ein Aqov",
+                  "text": "Ein verstecktes Quellbecken im Golan, das von üppiger Vegetation und schattigen Plätzen umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.647182,
+                        32.70314
+                  ]
+            },
+            {
+                  "name": "Khirbat `Uyun",
+                  "text": "Antike Ruinenstätte oberhalb des Jarmuk-Tals mit Überresten früher landwirtschaftlicher Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        35.668887,
+                        32.719247
+                  ]
+            },
+            {
+                  "name": "`Ayn Kabritiyah",
+                  "text": "Überreste historischer Strukturen in der Nähe natürlicher Schwefelquellen im Jarmuk-Becken.",
+                  "category": "historical",
+                  "coords": [
+                        35.688889,
+                        32.719444
+                  ]
+            },
+            {
+                  "name": "Crocodile farm",
+                  "text": "Eine der größten Krokodilfarmen im Nahen Osten, integriert in das Hamat Gader Thermalbad-Resort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667093,
+                        32.685331
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Reste eines kleinen römischen Theaters, das einst Unterhaltung für die Besucher der Thermalbäder bot.",
+                  "category": "historical",
+                  "coords": [
+                        35.665628,
+                        32.683376
+                  ]
+            },
+            {
+                  "name": "Roman Baths",
+                  "text": "Umfangreiche Ausgrabungen antiker römischer Badeanlagen mit beeindruckenden gewölbten Hallen.",
+                  "category": "historical",
+                  "coords": [
+                        35.66461,
+                        32.682076
+                  ]
+            },
+            {
+                  "name": "Dabbusiyah",
+                  "text": "Ruinen eines verlassenen Dorfes an der Grenze, das strategisch günstig auf den Klippen über dem Fluss liegt.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Mintaqat az Zawiyah",
+                  "text": "Archäologische Zone mit Überresten antiker Befestigungen, die den Zugang zur Jarmuk-Schlucht bewachten.",
+                  "category": "historical",
+                  "coords": [
+                        35.75,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Amphi Golan",
+                  "text": "Ein modernes Freilufttheater für Veranstaltungen, das die natürliche Hanglage für seine Zuschauerränge nutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.691844,
+                        32.769617
+                  ]
+            },
+            {
+                  "name": "Omri Tal viewpoint",
+                  "text": "Gedenkstätte und Aussichtspunkt mit Blick auf das Dreiländereck von Israel, Jordanien und Syrien.",
+                  "category": "natural",
+                  "coords": [
+                        35.685431,
+                        32.768381
+                  ]
+            },
+            {
+                  "name": "Kafr Harib",
+                  "text": "Überreste eines historischen Dorfes auf der Klippe mit Panoramablick über das tief liegende Tal.",
+                  "category": "historical",
+                  "coords": [
+                        35.659229,
+                        32.759678
+                  ]
+            },
+            {
+                  "name": "Peace Lookout",
+                  "text": "Aussichtsplattform auf den Golanhöhen mit weitem Blick auf den See Genezareth und die Berge von Galiläa.",
+                  "category": "natural",
+                  "coords": [
+                        35.65832,
+                        32.758196
+                  ]
+            },
+            {
+                  "name": "Ein Shoko",
+                  "text": "Ein kleines, künstlich angelegtes Wasserbecken am Hang, das von einer natürlichen Quelle gespeist wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652136,
+                        32.738783
+                  ]
+            },
+            {
+                  "name": "Mount Nemron Observation Deck",
+                  "text": "Hochgelegener Aussichtspunkt mit Blick auf die vulkanische Landschaft des Golan und das Jarmuk-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        35.650558,
+                        32.722654
+                  ]
+            },
+            {
+                  "name": "Tel Dover",
+                  "text": "Archäologischer Hügel an der Mündung des Jarmuk in den Jordan mit Funden aus mehreren Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        35.629714,
+                        32.683827
+                  ]
+            },
+            {
+                  "name": "Hamat Gader",
+                  "text": "Bekannte Thermalquelle mit schwefelhaltigem Heilwasser, das bereits in der römischen Antike genutzt wurde.",
+                  "category": "park",
+                  "coords": [
+                        35.668248,
+                        32.685321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ein Sharir",
+                  "text": "Egy állandó forrás a hegyoldalban, amely a Jarmúk-folyó mély völgyére néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638954,
+                        32.710865
+                  ]
+            },
+            {
+                  "name": "Mitzpe Kinneret",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Galileai-tengerre és a déli Golán-fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        35.646216,
+                        32.700049
+                  ]
+            },
+            {
+                  "name": "Ein Aqov",
+                  "text": "Rejtett forrásmedence a Golánon, amelyet buja növényzet és árnyas pihenőhelyek vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        35.647182,
+                        32.70314
+                  ]
+            },
+            {
+                  "name": "Khirbat `Uyun",
+                  "text": "Ókori romterület a Jarmúk-völgy felett, korai mezőgazdasági települések maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.668887,
+                        32.719247
+                  ]
+            },
+            {
+                  "name": "`Ayn Kabritiyah",
+                  "text": "Történelmi építmények maradványai a Jarmúk-medence természetes kénes forrásai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.688889,
+                        32.719444
+                  ]
+            },
+            {
+                  "name": "Crocodile farm",
+                  "text": "A Közel-Kelet egyik legnagyobb krokodilfarmja a Hamat Gader termálfürdő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667093,
+                        32.685331
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Egy kisméretű római színház romjai, amely egykor a termálfürdő vendégeinek szórakoztatását szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        35.665628,
+                        32.683376
+                  ]
+            },
+            {
+                  "name": "Roman Baths",
+                  "text": "Ókori római fürdőkomplexum kiterjedt ásatásai, lenyűgöző boltíves csarnokokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.66461,
+                        32.682076
+                  ]
+            },
+            {
+                  "name": "Dabbusiyah",
+                  "text": "Egy elhagyatott határmenti falu romjai, amely stratégiai helyen, a folyó feletti sziklákon fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Mintaqat az Zawiyah",
+                  "text": "Régészeti terület ókori erődítmények maradványaival, amelyek a Jarmúk-szurdok bejáratát őrizték.",
+                  "category": "historical",
+                  "coords": [
+                        35.75,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Amphi Golan",
+                  "text": "Modern szabadtéri rendezvényszínház, amely a természetes lejtőt használja ki a nézőtér kialakításához.",
+                  "category": "cultural",
+                  "coords": [
+                        35.691844,
+                        32.769617
+                  ]
+            },
+            {
+                  "name": "Omri Tal viewpoint",
+                  "text": "Emlékhely és kilátópont, ahonnan rálátni Izrael, Jordánia és Szíria hármashatárára.",
+                  "category": "natural",
+                  "coords": [
+                        35.685431,
+                        32.768381
+                  ]
+            },
+            {
+                  "name": "Kafr Harib",
+                  "text": "Egy sziklára épült történelmi falu maradványai, panorámás kilátással a mély völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        35.659229,
+                        32.759678
+                  ]
+            },
+            {
+                  "name": "Peace Lookout",
+                  "text": "Kilátóterasz a Golánon, ahonnan belátni a Galileai-tengert és Galilea hegyeit.",
+                  "category": "natural",
+                  "coords": [
+                        35.65832,
+                        32.758196
+                  ]
+            },
+            {
+                  "name": "Ein Shoko",
+                  "text": "Egy kis mesterséges medence a domboldalon, amelyet egy természetes forrás táplál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652136,
+                        32.738783
+                  ]
+            },
+            {
+                  "name": "Mount Nemron Observation Deck",
+                  "text": "Magasan fekvő kilátópont, ahonnan rálátni a Golán vulkanikus tájára és a Jarmúk-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.650558,
+                        32.722654
+                  ]
+            },
+            {
+                  "name": "Tel Dover",
+                  "text": "Régészeti domb a Jarmúk és a Jordán folyók találkozásánál, több korszakból származó leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        35.629714,
+                        32.683827
+                  ]
+            },
+            {
+                  "name": "Hamat Gader",
+                  "text": "Ismert termálforrás gyógyhatású kénes vízzel, amelyet már a római korban is használtak.",
+                  "category": "park",
+                  "coords": [
+                        35.668248,
+                        32.685321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ein Sharir",
+                  "text": "Un izvor peren pe versanții ce domină valea adâncă a râului Yarmouk.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638954,
+                        32.710865
+                  ]
+            },
+            {
+                  "name": "Mitzpe Kinneret",
+                  "text": "Punct de observație cu o panoramă largă asupra Mării Galileii și a părții de sud a Înălțimilor Golan.",
+                  "category": "natural",
+                  "coords": [
+                        35.646216,
+                        32.700049
+                  ]
+            },
+            {
+                  "name": "Ein Aqov",
+                  "text": "Un bazin natural cu apă de izvor ascuns în Golan, înconjurat de vegetație luxuriantă și locuri umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        35.647182,
+                        32.70314
+                  ]
+            },
+            {
+                  "name": "Khirbat `Uyun",
+                  "text": "Sit cu ruine antice deasupra văii Yarmouk, cuprinzând resturi ale unor așezări agricole timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        35.668887,
+                        32.719247
+                  ]
+            },
+            {
+                  "name": "`Ayn Kabritiyah",
+                  "text": "Rămășițe ale unor structuri istorice situate lângă izvoarele sulfuroase naturale din bazinul Yarmouk.",
+                  "category": "historical",
+                  "coords": [
+                        35.688889,
+                        32.719444
+                  ]
+            },
+            {
+                  "name": "Crocodile farm",
+                  "text": "Una dintre cele mai mari ferme de crocodili din Orientul Mijlociu, parte a complexului termal Hamat Gader.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667093,
+                        32.685331
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Ruinele unui mic teatru roman care oferea odinioară divertisment vizitatorilor băilor termale.",
+                  "category": "historical",
+                  "coords": [
+                        35.665628,
+                        32.683376
+                  ]
+            },
+            {
+                  "name": "Roman Baths",
+                  "text": "Săpături ample ale complexului de băi romane antice, cu impresionante săli boltite.",
+                  "category": "historical",
+                  "coords": [
+                        35.66461,
+                        32.682076
+                  ]
+            },
+            {
+                  "name": "Dabbusiyah",
+                  "text": "Ruinele unui sat de frontieră abandonat, situat strategic pe stâncile de deasupra râului.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Mintaqat az Zawiyah",
+                  "text": "Zonă arheologică cu resturi de fortificații antice care păzeau accesul în defileul Yarmouk.",
+                  "category": "historical",
+                  "coords": [
+                        35.75,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Amphi Golan",
+                  "text": "Un teatru în aer liber modern pentru evenimente, care folosește panta naturală a dealului pentru tribune.",
+                  "category": "cultural",
+                  "coords": [
+                        35.691844,
+                        32.769617
+                  ]
+            },
+            {
+                  "name": "Omri Tal viewpoint",
+                  "text": "Memorial și punct de observație cu vedere spre punctul de întâlnire a frontierelor Israelului, Iordaniei și Siriei.",
+                  "category": "natural",
+                  "coords": [
+                        35.685431,
+                        32.768381
+                  ]
+            },
+            {
+                  "name": "Kafr Harib",
+                  "text": "Rămășițele unui sat istoric de pe faleză, oferind vederi panoramice peste valea adâncă.",
+                  "category": "historical",
+                  "coords": [
+                        35.659229,
+                        32.759678
+                  ]
+            },
+            {
+                  "name": "Peace Lookout",
+                  "text": "Platformă de observație în Golan, cu o vedere vastă asupra Mării Galileii și a munților Galileei.",
+                  "category": "natural",
+                  "coords": [
+                        35.65832,
+                        32.758196
+                  ]
+            },
+            {
+                  "name": "Ein Shoko",
+                  "text": "Un mic bazin cu apă amenajat pe versant, alimentat de un izvor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652136,
+                        32.738783
+                  ]
+            },
+            {
+                  "name": "Mount Nemron Observation Deck",
+                  "text": "Punct de observație situat la înălțime, cu vedere spre peisajul vulcanic al Golanului și valea Yarmouk.",
+                  "category": "natural",
+                  "coords": [
+                        35.650558,
+                        32.722654
+                  ]
+            },
+            {
+                  "name": "Tel Dover",
+                  "text": "Colină arheologică la confluența râurilor Yarmouk și Iordan, cu descoperiri din mai multe epoci.",
+                  "category": "historical",
+                  "coords": [
+                        35.629714,
+                        32.683827
+                  ]
+            },
+            {
+                  "name": "Hamat Gader",
+                  "text": "Izvor termal renumit cu apă sulfuroasă curativă, utilizat încă din perioada antichității romane.",
+                  "category": "park",
+                  "coords": [
+                        35.668248,
+                        32.685321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ein Sharir",
+                  "text": "A perennial spring on the slopes overlooking the deep valley of the Yarmouk River.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638954,
+                        32.710865
+                  ]
+            },
+            {
+                  "name": "Mitzpe Kinneret",
+                  "text": "Observation point featuring a wide panorama over the Sea of Galilee and the southern Golan Heights.",
+                  "category": "natural",
+                  "coords": [
+                        35.646216,
+                        32.700049
+                  ]
+            },
+            {
+                  "name": "Ein Aqov",
+                  "text": "A hidden spring pool in the Golan surrounded by lush vegetation and shaded resting spots.",
+                  "category": "landmark",
+                  "coords": [
+                        35.647182,
+                        32.70314
+                  ]
+            },
+            {
+                  "name": "Khirbat `Uyun",
+                  "text": "Ancient ruins site above the Yarmouk valley with remains of early agricultural settlements.",
+                  "category": "historical",
+                  "coords": [
+                        35.668887,
+                        32.719247
+                  ]
+            },
+            {
+                  "name": "`Ayn Kabritiyah",
+                  "text": "Remains of historical structures located near natural sulfur springs in the Yarmouk basin.",
+                  "category": "historical",
+                  "coords": [
+                        35.688889,
+                        32.719444
+                  ]
+            },
+            {
+                  "name": "Crocodile farm",
+                  "text": "One of the largest crocodile farms in the Middle East, integrated into the Hamat Gader thermal resort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667093,
+                        32.685331
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Remains of a small Roman theater that once provided entertainment for visitors to the thermal baths.",
+                  "category": "historical",
+                  "coords": [
+                        35.665628,
+                        32.683376
+                  ]
+            },
+            {
+                  "name": "Roman Baths",
+                  "text": "Extensive excavations of ancient Roman bathing facilities featuring impressive vaulted halls.",
+                  "category": "historical",
+                  "coords": [
+                        35.66461,
+                        32.682076
+                  ]
+            },
+            {
+                  "name": "Dabbusiyah",
+                  "text": "Ruins of an abandoned border village situated strategically on the cliffs above the river.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Mintaqat az Zawiyah",
+                  "text": "Archaeological zone featuring remains of ancient fortifications that guarded the Yarmouk gorge entry.",
+                  "category": "historical",
+                  "coords": [
+                        35.75,
+                        32.75
+                  ]
+            },
+            {
+                  "name": "Amphi Golan",
+                  "text": "A modern open-air theater for events, utilizing the natural hillside slope for its seating tiers.",
+                  "category": "cultural",
+                  "coords": [
+                        35.691844,
+                        32.769617
+                  ]
+            },
+            {
+                  "name": "Omri Tal viewpoint",
+                  "text": "Memorial site and viewpoint overlooking the triple border area of Israel, Jordan, and Syria.",
+                  "category": "natural",
+                  "coords": [
+                        35.685431,
+                        32.768381
+                  ]
+            },
+            {
+                  "name": "Kafr Harib",
+                  "text": "Remains of a historical cliffside village offering panoramic views over the deep valley below.",
+                  "category": "historical",
+                  "coords": [
+                        35.659229,
+                        32.759678
+                  ]
+            },
+            {
+                  "name": "Peace Lookout",
+                  "text": "Observation deck in the Golan providing a vast view of the Sea of Galilee and the Galilee mountains.",
+                  "category": "natural",
+                  "coords": [
+                        35.65832,
+                        32.758196
+                  ]
+            },
+            {
+                  "name": "Ein Shoko",
+                  "text": "A small man-made water pool on the hillside fed by a natural spring.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652136,
+                        32.738783
+                  ]
+            },
+            {
+                  "name": "Mount Nemron Observation Deck",
+                  "text": "High-altitude observation point overlooking the volcanic landscape of the Golan and the Yarmouk valley.",
+                  "category": "natural",
+                  "coords": [
+                        35.650558,
+                        32.722654
+                  ]
+            },
+            {
+                  "name": "Tel Dover",
+                  "text": "Archaeological mound at the confluence of the Yarmouk and Jordan rivers with finds from multiple eras.",
+                  "category": "historical",
+                  "coords": [
+                        35.629714,
+                        32.683827
+                  ]
+            },
+            {
+                  "name": "Hamat Gader",
+                  "text": "Famous thermal spring with medicinal sulfur water, used since Roman antiquity.",
+                  "category": "park",
+                  "coords": [
+                        35.668248,
+                        32.685321
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JO-IR",
     coords: [35.6833, 32.6833],
@@ -363,7 +2235,160 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "zarqa-river-nature-v2",
+    id: "zarqa-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aneiba",
+                  "text": "Antike Steinruinen auf einem Hügel in der Nähe des Zarqa-Flusses, die Überreste alter Siedlungen zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        32.233333
+                  ]
+            },
+            {
+                  "name": "Rujm Um Zurur",
+                  "text": "Die Überreste einer historischen Steinfestung, die strategisch günstig über dem Tal des Zarqa-Flusses liegt.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        32.1
+                  ]
+            },
+            {
+                  "name": "Dolmen field",
+                  "text": "Ein Feld mit prähistorischen Megalithgräbern, die aus massiven Steinplatten in der rauen Landschaft errichtet wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        36.002893,
+                        32.209649
+                  ]
+            },
+            {
+                  "name": "Dolmen",
+                  "text": "Ein antikes Tischgrab aus der Bronzezeit, bestehend aus zwei aufrecht stehenden Steinen und einer Deckplatte.",
+                  "category": "landmark",
+                  "coords": [
+                        36.001546,
+                        32.210069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aneiba",
+                  "text": "Ősi kőromok egy dombon a Zarqa-folyó közelében, amelyek egykori települések maradványait mutatják.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        32.233333
+                  ]
+            },
+            {
+                  "name": "Rujm Um Zurur",
+                  "text": "Egy történelmi kőerődítmény maradványai, amely stratégiai helyen, a Zarqa-folyó völgye felett fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        32.1
+                  ]
+            },
+            {
+                  "name": "Dolmen field",
+                  "text": "Prehisztorikus megalitikus sírok mezője, amelyeket hatalmas kőlapokból emeltek a vad tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        36.002893,
+                        32.209649
+                  ]
+            },
+            {
+                  "name": "Dolmen",
+                  "text": "Bronzkori ősi asztalsír, amely két álló kőből és egy fedőlapból áll.",
+                  "category": "landmark",
+                  "coords": [
+                        36.001546,
+                        32.210069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aneiba",
+                  "text": "Ruine antice de piatră pe un deal lângă râul Zarqa, prezentând vestigii ale unor așezări vechi.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        32.233333
+                  ]
+            },
+            {
+                  "name": "Rujm Um Zurur",
+                  "text": "Rămășițele unei fortificații istorice din piatră, situată strategic deasupra văii râului Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        32.1
+                  ]
+            },
+            {
+                  "name": "Dolmen field",
+                  "text": "Un câmp cu morminte megalitice preistorice, construite din lespezi masive de piatră în peisajul accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.002893,
+                        32.209649
+                  ]
+            },
+            {
+                  "name": "Dolmen",
+                  "text": "Un mormânt antic de tip masă din epoca bronzului, format din două pietre verticale și o lespede deasupra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.001546,
+                        32.210069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aneiba",
+                  "text": "Ancient stone ruins on a hill near the Zarqa River, showing remnants of old settlements.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        32.233333
+                  ]
+            },
+            {
+                  "name": "Rujm Um Zurur",
+                  "text": "The remnants of a historic stone fortification situated strategically above the Zarqa River valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        32.1
+                  ]
+            },
+            {
+                  "name": "Dolmen field",
+                  "text": "A field of prehistoric megalithic tombs constructed from massive stone slabs in the rugged landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        36.002893,
+                        32.209649
+                  ]
+            },
+            {
+                  "name": "Dolmen",
+                  "text": "An ancient table-shaped tomb from the Bronze Age, consisting of two upright stones and a cover slab.",
+                  "category": "landmark",
+                  "coords": [
+                        36.001546,
+                        32.210069
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JO-AZ",
     coords: [35.9166, 32.1833],
@@ -399,7 +2424,52 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-umm-ad-dami-nature-v2",
+    id: "jabal-umm-ad-dami-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Um Addami",
+                  "text": "Mit 1.854 Metern ist dies der höchste Berg Jordaniens und bietet Ausblicke bis nach Saudi-Arabien.",
+                  "category": "natural",
+                  "coords": [
+                        35.432931,
+                        29.307456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Um Ad-dami",
+                  "text": "Az 1854 méteres magasságával ez Jordánia legmagasabb hegye, ahonnan ellátni Szaúd-Arábiáig.",
+                  "category": "natural",
+                  "coords": [
+                        35.432931,
+                        29.307456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Um Ad-dami",
+                  "text": "Cu o înălțime de 1.854 metri, acesta este cel mai înalt munte din Iordania, oferind priveliști spre Arabia Saudită.",
+                  "category": "natural",
+                  "coords": [
+                        35.432931,
+                        29.307456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Um Ad-dami",
+                  "text": "At 1,854 metres, this is the highest mountain in Jordan, offering views toward Saudi Arabia.",
+                  "category": "natural",
+                  "coords": [
+                        35.432931,
+                        29.307456
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-AQ",
     coords: [35.4294, 29.3130],
@@ -435,7 +2505,196 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-ram-nature-v2",
+    id: "jabal-ram-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thamudic inscriptions",
+                  "text": "An den Wüstenfelsen finden sich antike Gravuren der thamudischen Kultur, die Menschen und Jagdszenen darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349486,
+                        29.646338
+                  ]
+            },
+            {
+                  "name": "Wadi Rum",
+                  "text": "Dieses UNESCO-geschützte Wüstental beeindruckt durch seine riesigen roten Sandsteinberge und prähistorischen Felszeichnungen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.336215,
+                        29.508444
+                  ]
+            },
+            {
+                  "name": "Lawrence-Quelle",
+                  "text": "Diese natürliche Quelle in der Wüste ist nach T.E. Lawrence benannt, der sie in seinen Schriften beschrieb.",
+                  "category": "landmark",
+                  "coords": [
+                        35.41019,
+                        29.559787
+                  ]
+            },
+            {
+                  "name": "Nabatean rock inscriptions",
+                  "text": "Die Sandsteinwände sind mit antiken nabatäischen Petroglyphen verziert, die Karawanen und Tiere zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411529,
+                        29.55899
+                  ]
+            },
+            {
+                  "name": "Abu Nukheila",
+                  "text": "Diese Ruinen einer neolithischen Siedlung gehören zu den ältesten sesshaften Spuren in der Region Wadi Rum.",
+                  "category": "historical",
+                  "coords": [
+                        35.4,
+                        29.55
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thamudic inscriptions",
+                  "text": "A sivatagi sziklákon a thamudi kultúra ősi metszetei láthatók, amelyek embereket és vadászjeleneteket ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349486,
+                        29.646338
+                  ]
+            },
+            {
+                  "name": "Wadi Rum",
+                  "text": "Ez az UNESCO által védett sivatagi völgy hatalmas vörös homokkő hegyeivel és őskori sziklarajzaival nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        35.336215,
+                        29.508444
+                  ]
+            },
+            {
+                  "name": "Lawrence's Spring",
+                  "text": "Ezt a sivatagi természetes forrást T.E. Lawrence-ről nevezték el, aki írásaiban is megemlítette.",
+                  "category": "landmark",
+                  "coords": [
+                        35.41019,
+                        29.559787
+                  ]
+            },
+            {
+                  "name": "Nabatean rock inscriptions",
+                  "text": "A homokkőfalakat ősi nabateus sziklarajzok díszítik, amelyek karavánokat és állatokat ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411529,
+                        29.55899
+                  ]
+            },
+            {
+                  "name": "Abu Nukheila",
+                  "text": "Egy neolitikumi település romjai ezek, amelyek a Wadi Rum régió legősibb letelepedett nyomai közé tartoznak.",
+                  "category": "historical",
+                  "coords": [
+                        35.4,
+                        29.55
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thamudic inscriptions",
+                  "text": "Pe stâncile deșertului se găsesc gravuri antice ale culturii thamudice, reprezentând oameni și scene de vânătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349486,
+                        29.646338
+                  ]
+            },
+            {
+                  "name": "Wadi Rum",
+                  "text": "Această vale deșertică protejată de UNESCO impresionează prin munții săi uriași de gresie roșie și desenele rupestre preistorice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.336215,
+                        29.508444
+                  ]
+            },
+            {
+                  "name": "Lawrence's Spring",
+                  "text": "Acest izvor natural din deșert poartă numele lui T.E. Lawrence, care l-a descris în scrierile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.41019,
+                        29.559787
+                  ]
+            },
+            {
+                  "name": "Nabatean rock inscriptions",
+                  "text": "Pereții de gresie sunt împodobiți cu petroglife antice nabateene care înfățișează caravane și animale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411529,
+                        29.55899
+                  ]
+            },
+            {
+                  "name": "Abu Nukheila",
+                  "text": "Aceste ruine ale unei așezări neolitice sunt printre cele mai vechi urme de sedentarism din regiunea Wadi Rum.",
+                  "category": "historical",
+                  "coords": [
+                        35.4,
+                        29.55
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thamudic inscriptions",
+                  "text": "Ancient engravings of the Thamudic culture depicting humans and hunting scenes can be found on the desert rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        35.349486,
+                        29.646338
+                  ]
+            },
+            {
+                  "name": "Wadi Rum",
+                  "text": "This UNESCO-protected desert valley impresses with its massive red sandstone mountains and prehistoric rock carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        35.336215,
+                        29.508444
+                  ]
+            },
+            {
+                  "name": "Lawrence's Spring",
+                  "text": "This natural spring in the desert is named after T.E. Lawrence, who described it in his writings.",
+                  "category": "landmark",
+                  "coords": [
+                        35.41019,
+                        29.559787
+                  ]
+            },
+            {
+                  "name": "Nabatean Rock Inscriptions",
+                  "text": "The sandstone walls are adorned with ancient Nabataean petroglyphs depicting caravans and animals.",
+                  "category": "landmark",
+                  "coords": [
+                        35.411529,
+                        29.55899
+                  ]
+            },
+            {
+                  "name": "Abu Nukheila",
+                  "text": "These ruins of a Neolithic settlement are among the oldest sedentary traces in the Wadi Rum region.",
+                  "category": "historical",
+                  "coords": [
+                        35.4,
+                        29.55
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-AQ",
     coords: [35.3977, 29.5719],
@@ -507,7 +2766,88 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "burqu-nature-reserve-nature-v2",
+    id: "burqu-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Burquʿ",
+                  "text": "Qasr Burquʿ ist ein historisches Wüstenschloss mit den Überresten antiker Steinbefestigungen.",
+                  "category": "castle",
+                  "coords": [
+                        37.962192,
+                        32.608381
+                  ]
+            },
+            {
+                  "name": "Burqu Nature Reserve",
+                  "text": "Das Burqu Nature Reserve ist eine geschützte Wüstenumgebung, die einheimische regionale Flora und Fauna beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        37.939473,
+                        32.672389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Burquʿ",
+                  "text": "A Qasr Burquʿ egy történelmi sivatagi kastély, amely ősi kőerődítmények maradványait rejti.",
+                  "category": "castle",
+                  "coords": [
+                        37.962192,
+                        32.608381
+                  ]
+            },
+            {
+                  "name": "Burqu Nature Reserve",
+                  "text": "A Burqu Természetvédelmi Terület egy védett sivatagi környezet, amely a régió őshonos növény- és állatvilágának ad menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        37.939473,
+                        32.672389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Burquʿ",
+                  "text": "Qasr Burquʿ este un castel istoric din deșert care prezintă rămășițele unor vechi fortificații de piatră.",
+                  "category": "castle",
+                  "coords": [
+                        37.962192,
+                        32.608381
+                  ]
+            },
+            {
+                  "name": "Burqu Nature Reserve",
+                  "text": "Rezervația Naturală Burqu este un mediu deșertic protejat care adăpostește flora și fauna regională nativă.",
+                  "category": "natural",
+                  "coords": [
+                        37.939473,
+                        32.672389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Burquʿ",
+                  "text": "Qasr Burquʿ is a historic desert castle featuring the remains of ancient stone fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        37.962192,
+                        32.608381
+                  ]
+            },
+            {
+                  "name": "Burqu Nature Reserve",
+                  "text": "Burqu Nature Reserve is a protected desert environment that shelters native regional flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        37.939473,
+                        32.672389
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JO-MA",
     coords: [37.9500, 32.6166],
@@ -543,7 +2883,88 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "yarmouk-forest-reserve-nature-v2",
+    id: "yarmouk-forest-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Burz",
+                  "text": "Die steinernen Überreste dieser antiken Anlage liegen auf einer Anhöhe im Yarmouk-Waldreservat.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.616667
+                  ]
+            },
+            {
+                  "name": "Yarmouk Forest Reserve",
+                  "text": "Dieses Reservat schützt die nördlichsten sommergrünen Eichenwälder Jordaniens und bietet Ausblicke auf die Golanhöhen.",
+                  "category": "natural",
+                  "coords": [
+                        35.710553,
+                        32.675233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Burz",
+                  "text": "Ennek az ókori építménynek a kőmaradványai a Jarmúk Erdőrezervátum egyik magaslatán találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.616667
+                  ]
+            },
+            {
+                  "name": "Yarmouk Forest Reserve",
+                  "text": "Ez a rezervátum Jordánia legészakibb lombhullató tölgyerdőit védi, és kilátást nyújt a Golán-fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        35.710553,
+                        32.675233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Burz",
+                  "text": "Rămășițele de piatră ale acestei structuri antice sunt situate pe o înălțime în Rezervația Forestieră Yarmouk.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.616667
+                  ]
+            },
+            {
+                  "name": "Yarmouk Forest Reserve",
+                  "text": "Această rezervație protejează cele mai nordice păduri de stejar foios din Iordania și oferă vederi spre Înălțimile Golan.",
+                  "category": "natural",
+                  "coords": [
+                        35.710553,
+                        32.675233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Burz",
+                  "text": "The stone remains of this ancient structure are situated on a hill within the Yarmouk Forest Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.616667
+                  ]
+            },
+            {
+                  "name": "Yarmouk Forest Reserve",
+                  "text": "This reserve protects Jordan's northernmost deciduous oak forests and offers views toward the Golan Heights.",
+                  "category": "natural",
+                  "coords": [
+                        35.710553,
+                        32.675233
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "JO-IR",
     coords: [35.7166, 32.6666],
@@ -579,7 +3000,88 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-mujib-river-nature-v2",
+    id: "wadi-mujib-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lots Frau",
+                  "text": "Diese markante Salzsäule über dem Wadi Mujib erinnert an die biblische Erzählung von Lots Frau.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563422,
+                        31.431061
+                  ]
+            },
+            {
+                  "name": "Wadi Mujib Beach access",
+                  "text": "Dieser Strand bietet direkten Zugang zum Toten Meer an der Mündung des Wadi Mujib Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        35.56641,
+                        31.470219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lot's Wife",
+                  "text": "Ez a Wadi Mujib feletti jellegzetes sószikla-alakzat Lót feleségének bibliai történetére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563422,
+                        31.431061
+                  ]
+            },
+            {
+                  "name": "Wadi Mujib Beach access",
+                  "text": "Ez a strand közvetlen hozzáférést biztosít a Holt-tengerhez a Vádi Mudzsib folyó torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        35.56641,
+                        31.470219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lot's Wife",
+                  "text": "Această formațiune distinctivă de sare deasupra Wadi Mujib amintește de relatarea biblică despre soția lui Lot.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563422,
+                        31.431061
+                  ]
+            },
+            {
+                  "name": "Wadi Mujib Beach access",
+                  "text": "Această plajă oferă acces direct la Marea Moartă, la gura de vărsare a râului Wadi Mujib.",
+                  "category": "recreational",
+                  "coords": [
+                        35.56641,
+                        31.470219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lot's Wife",
+                  "text": "This distinctive salt pillar formation overlooking Wadi Mujib is associated with the biblical story of Lot's wife.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563422,
+                        31.431061
+                  ]
+            },
+            {
+                  "name": "Wadi Mujib Beach access",
+                  "text": "This beach provides direct access to the Dead Sea at the mouth of the Wadi Mujib river.",
+                  "category": "recreational",
+                  "coords": [
+                        35.56641,
+                        31.470219
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JO-MD",
     coords: [35.5666, 31.4666],
@@ -615,7 +3117,52 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-hasa-nature-v2",
+    id: "wadi-hasa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Mashnaqah",
+                  "text": "Überreste eines Außenpostens in der Nähe der steilen Thermalquellen von Wadi Hasa.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        31.016667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Mashnaqah",
+                  "text": "Egy erődítmény vagy őrhely maradványai a Wadi Hasa meredek hévizes forrásai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        31.016667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Mashnaqah",
+                  "text": "Rămășițele unei cetăți sau avanpost situate lângă izvoarele termale abrupte din Wadi Hasa.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        31.016667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Mashnaqah",
+                  "text": "Remnants of a fortress or outpost located near the steep thermal springs of Wadi Hasa.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        31.016667
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JO-KA",
     coords: [35.4833, 31.0333],
@@ -651,7 +3198,196 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "king-talal-dam-nature-v2",
+    id: "king-talal-dam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Fawwara",
+                  "text": "Antike Steinruinen auf einem Hügel mit Blick auf das Reservoir der King-Talal-Talsperre.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.216667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rashuni",
+                  "text": "Eine historische archäologische Stätte inmitten der schroffen Felslandschaft des Tals.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Tell",
+                  "text": "Erhöhte Ruinen einer antiken Siedlung mit weitem Blick über das Zarqa-Flusstal.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.2
+                  ]
+            },
+            {
+                  "name": "Khirbat al Amin",
+                  "text": "Fragmente antiker Steinmauern markieren den Standort einer einstigen historischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.116667
+                  ]
+            },
+            {
+                  "name": "Ar Rumaymin Catholic Church",
+                  "text": "Eine aus Stein gebaute Kirche in einem Dorf, das für seine malerischen Wasserfälle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801336,
+                        32.107253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Fawwara",
+                  "text": "Ókori kőromok egy dombtetőn, kilátással a Talal király-gát víztározójára.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.216667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rashuni",
+                  "text": "Történelmi régészeti lelőhely a völgy zord, sziklás tájai között.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Tell",
+                  "text": "Egy ókori település magaslati romjai széles kilátással a Zarqa-folyó völgyére.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.2
+                  ]
+            },
+            {
+                  "name": "Khirbat al Amin",
+                  "text": "Ókori kőfaldarabok jelzik az egykori történelmi település helyét.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.116667
+                  ]
+            },
+            {
+                  "name": "Ar Rumaymin Catholic Church",
+                  "text": "Egy kőből épült templom egy faluban, amely festői vízeséseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801336,
+                        32.107253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Fawwara",
+                  "text": "Ruine antice de piatră pe un deal cu vedere la rezervorul barajului King Talal.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.216667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rashuni",
+                  "text": "Un sit arheologic istoric situat în peisajul stâncos și accidentat al văii.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Tell",
+                  "text": "Ruinele înalte ale unei așezări antice cu vederi largi asupra văii râului Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.2
+                  ]
+            },
+            {
+                  "name": "Khirbat al Amin",
+                  "text": "Fragmente de ziduri vechi de piatră marchează locul unei foste așezări istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.116667
+                  ]
+            },
+            {
+                  "name": "Ar Rumaymin Catholic Church",
+                  "text": "O biserică construită din piatră într-un sat renumit pentru cascadele sale pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801336,
+                        32.107253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Fawwara",
+                  "text": "Ancient stone ruins on a hilltop overlooking the King Talal Dam reservoir.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.216667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rashuni",
+                  "text": "A historical archaeological site situated within the rugged rocky landscape of the valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Tell",
+                  "text": "Elevated ruins of an ancient settlement with wide views over the Zarqa River valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.2
+                  ]
+            },
+            {
+                  "name": "Khirbat al Amin",
+                  "text": "Fragments of ancient stone walls mark the site of a former historical settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        32.116667
+                  ]
+            },
+            {
+                  "name": "Ar Rumaymin Catholic Church",
+                  "text": "A stone-built church located in a village famous for its picturesque waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801336,
+                        32.107253
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "JO-JA",
     coords: [35.8000, 32.1833],
@@ -687,7 +3423,52 @@ export const poiExtraJordanNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-numeira-nature-v2",
+    id: "wadi-numeira-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Numeira",
+                  "text": "Die archäologische Stätte Numeira liegt in einem Sandsteintal in der Nähe des Toten Meeres und enthüllt Reste einer befestigten Stadt aus der frühen Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.528792,
+                        31.131385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Numeira",
+                  "text": "A Holt-tenger közelében, egy homokkő völgyben található Numeira régészeti lelőhely egy kora bronzkori erődített város maradványait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        35.528792,
+                        31.131385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Numeira",
+                  "text": "Situat într-o vale de gresie de lângă Marea Moartă, situl arheologic Numeira dezvăluie rămășițele unui oraș fortificat din Epoca Timpurie a Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        35.528792,
+                        31.131385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Numeira",
+                  "text": "Located in a sandstone wadi near the Dead Sea, the Numeira archaeological site reveals the remains of an Early Bronze Age walled town.",
+                  "category": "historical",
+                  "coords": [
+                        35.528792,
+                        31.131385
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JO-KA",
     coords: [35.5333, 31.1333],

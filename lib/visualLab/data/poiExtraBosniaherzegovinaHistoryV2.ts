@@ -751,7 +751,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Stari grad Bužim",
-                  "text": "Eine mittelalterliche Burgruine in der Stadt Bužim.",
+                  "text": "Die Burg Stari grad Bužim ist eine mittelalterliche Burgruine auf einem Hügel oberhalb der Altstadt von Bužim.",
                   "category": "castle",
                   "coords": [
                         16.031053,
@@ -771,7 +771,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Stari grad Bužim",
-                  "text": "Középkori várrom Bužim városában.",
+                  "text": "A Stari grad Bužim egy középkori várrom a Bužim óvárosa feletti dombon.",
                   "category": "castle",
                   "coords": [
                         16.031053,
@@ -791,7 +791,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Stari grad Bužim",
-                  "text": "Ruinele unui castel medieval situat în orașul Bužim.",
+                  "text": "Castelul Stari grad Bužim este o ruină medievală pe un deal deasupra orașului vechi Bužim.",
                   "category": "castle",
                   "coords": [
                         16.031053,
@@ -811,7 +811,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Stari grad Bužim",
-                  "text": "A medieval castle ruin located in the town of Bužim.",
+                  "text": "Stari grad Bužim is a medieval castle ruin on a hill above the old town of Bužim.",
                   "category": "castle",
                   "coords": [
                         16.031053,
@@ -887,7 +887,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Ein Badeplatz am Ufer des Flusses Sana.",
+                  "text": "Alina luka ist ein Erholungsgebiet nahe der Festung Ključ, an einem Fluss.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -896,7 +896,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Ein kleiner Freizeitpark für Familien in Ključ.",
+                  "text": "Luna Park ist ein Vergnügungspark nahe der Festung Ključ.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -916,7 +916,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Fürdőhely a Szana-folyó partján.",
+                  "text": "Az Alina luka egy rekreációs terület Ključ erődje közelében, egy folyó mellett.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -925,7 +925,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Kisméretű vidámpark családoknak Ključban.",
+                  "text": "A Luna Park egy vidámpark Ključ erődje közelében.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -945,7 +945,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Un loc de scăldat pe malul râului Sana.",
+                  "text": "Alina luka este o zonă de recreere lângă Fortăreața Ključ, lângă un râu.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -954,7 +954,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Un mic parc de distracții pentru familii în Ključ.",
+                  "text": "Luna Park este un parc de distracții lângă Fortăreața Ključ.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -974,7 +974,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "A bathing spot on the banks of the Sana River.",
+                  "text": "Alina luka is a recreational spot near Ključ Fortress, by a river.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -983,7 +983,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "A small amusement park for families in Ključ.",
+                  "text": "Luna Park is an amusement park near Ključ Fortress.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -1658,7 +1658,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradsko kupalište \"Bjeline\"",
-                  "text": "Ein öffentlicher Badeplatz und Strand in Kotor-Varoš.",
+                  "text": "Das Stadtbad 'Bjeline' ist ein öffentlicher Badebereich in der Altstadt von Kotor Varoš.",
                   "category": "recreational",
                   "coords": [
                         17.380674,
@@ -1678,7 +1678,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradsko kupalište \"Bjeline\"",
-                  "text": "Nyilvános fürdőhely és strand Kotor-Varošban.",
+                  "text": "A 'Bjeline' városi fürdő egy nyilvános fürdőhely Kotor Varoš óvárosában.",
                   "category": "recreational",
                   "coords": [
                         17.380674,
@@ -1698,7 +1698,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradsko kupalište \"Bjeline\"",
-                  "text": "O zonă publică de scăldat și plajă în Kotor-Varoš.",
+                  "text": "Gradsko kupalište 'Bjeline' este o zonă publică de înot în Orașul Vechi Kotor Varoš.",
                   "category": "recreational",
                   "coords": [
                         17.380674,
@@ -1718,7 +1718,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradsko kupalište \"Bjeline\"",
-                  "text": "A public bathing area and beach in Kotor-Varoš.",
+                  "text": "Gradsko kupalište 'Bjeline' is a public swimming area in Kotor Varoš Old Town.",
                   "category": "recreational",
                   "coords": [
                         17.380674,
@@ -1910,7 +1910,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Nekropola Grošić Polje - Hrančići",
-                  "text": "Grosic Polje ist eine archäologische Fundstelle bei der Festung Veletovo.",
+                  "text": "Grosic Polje ist ein historisches Feld nahe der Festung Veletovo, möglicherweise ein Schlachtfeld.",
                   "category": "historical",
                   "coords": [
                         18.759091,
@@ -1921,7 +1921,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Nekropola Grošić Polje - Hrančići",
-                  "text": "Grosic Polje egy régészeti lelőhely a Veletovo erőd közelében.",
+                  "text": "A Grosic Polje egy történelmi mező Veletovo erődje közelében, valószínűleg csatatér.",
                   "category": "historical",
                   "coords": [
                         18.759091,
@@ -1932,7 +1932,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Nekropola Grošić Polje - Hrančići",
-                  "text": "Grosic Polje este un sit arheologic situat în apropierea cetății Veletovo.",
+                  "text": "Grosic Polje este un câmp istoric lângă Fortăreața Veletovo, posibil un câmp de luptă.",
                   "category": "historical",
                   "coords": [
                         18.759091,
@@ -1943,7 +1943,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Grosic Polje",
-                  "text": "Grosic Polje is an archaeological site located near the Veletovo Fortress.",
+                  "text": "Grosic Polje is a historical field near Veletovo Fortress, possibly a battle site.",
                   "category": "historical",
                   "coords": [
                         18.759091,
@@ -2153,7 +2153,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Perale",
-                  "text": "Ein Strandbereich am Flussufer bei Blagaj.",
+                  "text": "Perale ist ein Erholungsgebiet nahe der Festung Blagaj, wahrscheinlich an der Buna.",
                   "category": "recreational",
                   "coords": [
                         17.855309,
@@ -2227,7 +2227,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Perale",
-                  "text": "Folyóparti strandterület Blagajnál.",
+                  "text": "A Perale egy rekreációs terület Blagaj erődje közelében, valószínűleg a Buna folyó mellett.",
                   "category": "recreational",
                   "coords": [
                         17.855309,
@@ -2301,7 +2301,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Perale",
-                  "text": "O zonă de plajă pe malul râului lângă Blagaj.",
+                  "text": "Perale este o zonă de recreere lângă Fortăreața Blagaj, probabil lângă râul Buna.",
                   "category": "recreational",
                   "coords": [
                         17.855309,
@@ -2375,7 +2375,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Perale",
-                  "text": "A riverside beach area near Blagaj.",
+                  "text": "Perale is a recreational area near Blagaj Fortress, likely by the Buna River.",
                   "category": "recreational",
                   "coords": [
                         17.855309,
@@ -2441,7 +2441,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Strandbereich am Flussufer in der Altstadt von Ključ.",
+                  "text": "Alina luka ist ein Erholungsgebiet nahe Stari Grad Ključ.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -2450,7 +2450,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Ein Vergnügungspark in der Nähe der Altstadt von Ključ.",
+                  "text": "Vergnügungspark mit historischen Fahrgeschäften im Zentrum von Stari Grad Kljuc.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -2470,7 +2470,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Folyóparti strandterület Ključ óvárosában.",
+                  "text": "Az Alina luka egy rekreációs terület Stari Grad Ključ közelében.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -2479,7 +2479,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Vidámpark Ključ óvárosának közelében.",
+                  "text": "Vidámpark történelmi körhintákkal Stari Grad Kljuc központjában.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -2499,7 +2499,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Zonă de plajă la malul râului în orașul vechi Ključ.",
+                  "text": "Alina luka este o zonă de recreere lângă Stari Grad Ključ.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -2508,7 +2508,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Un parc de distracții situat în apropierea orașului vechi Ključ.",
+                  "text": "Parc de distracții cu mașini istorice în centrul orașului Stari Grad Kljuc.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -2528,7 +2528,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Alina luka",
-                  "text": "Riverside beach area in the Old Town of Ključ.",
+                  "text": "Alina luka is a recreational area near Stari Grad Ključ.",
                   "category": "recreational",
                   "coords": [
                         16.797084,
@@ -2537,7 +2537,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "An amusement park located near the Old Town of Ključ.",
+                  "text": "Amusement park with historic rides in the old town of Stari Grad Kljuc.",
                   "category": "recreational",
                   "coords": [
                         16.765619,
@@ -3458,7 +3458,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Partizansko spomen-groblje",
-                  "text": "Ein Gedenkfriedhof für Partisanen in Gornja Skakava.",
+                  "text": "Partisanenfriedhof aus dem Zweiten Weltkrieg in Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.797184,
@@ -3467,7 +3467,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Spomenik Dobri Jovanoviću",
-                  "text": "Ein Denkmal zu Ehren von Dobra Jovanović.",
+                  "text": "Denkmal für Dobri Jovanović, einen lokalen Würdenträger, in Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.809702,
@@ -3476,7 +3476,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Džamija Gunja",
-                  "text": "Ein islamisches Gebetshaus in Gornja Skakava.",
+                  "text": "Die Džamija Gunja ist eine Moschee im Dorf Gunja nahe Gornja Skakava.",
                   "category": "religious",
                   "coords": [
                         18.81981,
@@ -3485,7 +3485,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradska vijećnica",
-                  "text": "Das historische Rathausgebäude der Gemeinde.",
+                  "text": "Erbaut 1892 in Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.809675,
@@ -3496,7 +3496,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Partizansko spomen-groblje",
-                  "text": "Partizán emlékhely és temető Gornja Skakava faluban.",
+                  "text": "Második világháborús partizán temető Gornja Skakavában.",
                   "category": "historical",
                   "coords": [
                         18.797184,
@@ -3505,7 +3505,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Spomenik Dobri Jovanoviću",
-                  "text": "Dobra Jovanović tiszteletére emelt emlékmű.",
+                  "text": "Dobri Jovanović helyi méltóság emlékműve Gornja Skakavában.",
                   "category": "historical",
                   "coords": [
                         18.809702,
@@ -3514,7 +3514,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Džamija Gunja",
-                  "text": "Iszlám imaház Gornja Skakava településen.",
+                  "text": "A Džamija Gunja egy mecset Gunja faluban, Gornja Skakava közelében.",
                   "category": "religious",
                   "coords": [
                         18.81981,
@@ -3523,7 +3523,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradska vijećnica",
-                  "text": "A település történelmi városháza épülete.",
+                  "text": "Gornja Skakavában épült 1892-ben.",
                   "category": "historical",
                   "coords": [
                         18.809675,
@@ -3534,7 +3534,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Partizansko spomen-groblje",
-                  "text": "Un cimitir memorial al partizanilor în Gornja Skakava.",
+                  "text": "Cimitir al partizanilor din Al Doilea Război Mondial în Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.797184,
@@ -3543,7 +3543,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Spomenik Dobri Jovanoviću",
-                  "text": "Un monument ridicat în onoarea lui Dobra Jovanović.",
+                  "text": "Monumentul lui Dobri Jovanović, un demnitar local, în Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.809702,
@@ -3552,7 +3552,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Džamija Gunja",
-                  "text": "O casă de rugăciune islamică în Gornja Skakava.",
+                  "text": "Moscheea Džamija Gunja este o moschee în satul Gunja, lângă Gornja Skakava.",
                   "category": "religious",
                   "coords": [
                         18.81981,
@@ -3561,7 +3561,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradska vijećnica",
-                  "text": "Clădirea istorică a primăriei din localitate.",
+                  "text": "Construit în 1892 în Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.809675,
@@ -3572,7 +3572,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Partizansko spomen-groblje",
-                  "text": "A partisan memorial cemetery in Gornja Skakava.",
+                  "text": "World War II Partisan memorial cemetery in Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.797184,
@@ -3581,7 +3581,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Spomenik Dobri Jovanoviću",
-                  "text": "A monument dedicated to the memory of Dobra Jovanović.",
+                  "text": "Monument to local dignitary Dobri Jovanović in Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.809702,
@@ -3590,7 +3590,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Džamija Gunja",
-                  "text": "An Islamic place of worship in Gornja Skakava.",
+                  "text": "The Džamija Gunja is a mosque in the village of Gunja near Gornja Skakava.",
                   "category": "religious",
                   "coords": [
                         18.81981,
@@ -3599,7 +3599,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Gradska vijećnica",
-                  "text": "The historical town hall building of the municipality.",
+                  "text": "Built in 1892 in Gornja Skakava.",
                   "category": "historical",
                   "coords": [
                         18.809675,
@@ -3755,7 +3755,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Stećak necropolis Bare 1",
-                  "text": "Mittelalterliche Nekropole mit Stećci-Grabsteinen bei Sokolac.",
+                  "text": "Mittelalterliche Stećak-Nekropole mit Grabsteinen bei Bare nahe Sokolac.",
                   "category": "landmark",
                   "coords": [
                         18.845728,
@@ -3784,7 +3784,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Stećak necropolis Bare 1",
-                  "text": "Középkori nekropolisz stećak sírkövekkel Sokolac közelében.",
+                  "text": "Középkori stećak sírkő nekropolisz Bare mellett, Sokolac közelében.",
                   "category": "landmark",
                   "coords": [
                         18.845728,
@@ -3813,7 +3813,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Stećak necropolis Bare 1",
-                  "text": "Necropolă medievală cu pietre funerare de tip stećak lângă Sokolac.",
+                  "text": "Necropolă medievală de lespezi funerare stećak în Bare lângă Sokolac.",
                   "category": "landmark",
                   "coords": [
                         18.845728,
@@ -3842,7 +3842,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
             },
             {
                   "name": "Stećak necropolis Bare 1",
-                  "text": "Medieval necropolis with stećak tombstones near Sokolac.",
+                  "text": "Medieval stećak tombstone necropolis at Bare near Sokolac.",
                   "category": "landmark",
                   "coords": [
                         18.845728,

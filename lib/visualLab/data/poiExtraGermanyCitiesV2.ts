@@ -255,7 +255,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "Der Baggersee Epple Kirchentellinsfurt bei Reutlingen ist ein See, der sich gut für Spaziergänge in der Natur eignet.",
+                  "text": "Baggersee Epple in Kirchentellinsfurt bei Reutlingen, ein Badesee mit Liegewiesen.",
                   "category": "natural",
                   "coords": [
                         9.151052,
@@ -399,7 +399,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "Das Lehrschwimmbecken in Reutlingen ist ein schönes Ziel für Familien.",
+                  "text": "Lehrschwimmbecken in Reutlingen, ein Außenbecken für Anfänger und Kinder.",
                   "category": "family",
                   "coords": [
                         9.20469,
@@ -625,7 +625,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "A Reutlingen közelében fekvő Baggersee Epple Kirchentellinsfurt egy tó, amely kiválóan alkalmas erdei sétákhoz.",
+                  "text": "Epple-tó Kirchentellinsfurtban, Reutlingen közelében, strandolásra alkalmas tó napozórétekkel.",
                   "category": "natural",
                   "coords": [
                         9.151052,
@@ -769,7 +769,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "A Reutlingenben található Lehrschwimmbecken remek helyszín családok számára.",
+                  "text": "Tanuszoda Reutlingenben, egy szabadtéri medence kezdőknek és gyermekeknek.",
                   "category": "family",
                   "coords": [
                         9.20469,
@@ -995,7 +995,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "Baggersee Epple Kirchentellinsfurt de lângă Reutlingen este un lac potrivit pentru plimbări în natură.",
+                  "text": "Lacul de carieră Epple din Kirchentellinsfurt lângă Reutlingen, un lac de înot cu plaje cu iarbă.",
                   "category": "natural",
                   "coords": [
                         9.151052,
@@ -1139,7 +1139,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "Lehrschwimmbecken din Reutlingen este o destinație frumoasă pentru familii.",
+                  "text": "Bazin de înot didactic în Reutlingen, o piscină în aer liber pentru începători și copii.",
                   "category": "family",
                   "coords": [
                         9.20469,
@@ -1365,7 +1365,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "Baggersee Epple Kirchentellinsfurt near Reutlingen is a lake well-suited for nature walks.",
+                  "text": "Baggersee Epple in Kirchentellinsfurt near Reutlingen, a quarry lake popular for swimming and sunbathing.",
                   "category": "natural",
                   "coords": [
                         9.151052,
@@ -1509,7 +1509,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "The Lehrschwimmbecken in Reutlingen is a great destination for families.",
+                  "text": "Lehrschwimmbecken in Reutlingen, an outdoor teaching pool for beginners and children.",
                   "category": "family",
                   "coords": [
                         9.20469,
@@ -4596,7 +4596,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Das Erfahrungsfeld Sehen und Höhren in Bottrop ist ein Spielplatz, der die Sinne anspricht.",
+                  "text": "Erfahrungsfeld Sehen und Hören in Bottrop, ein interaktiver Sinnesgarten mit Stationen zu Sehen und Hören.",
                   "category": "family",
                   "coords": [
                         6.875715,
@@ -4866,7 +4866,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "A bottropi Erfahrungsfeld Sehen und Höhren játszótér a gyerekek érzékszerveire hat.",
+                  "text": "Látás és Hallás Élménypark Bottropban, interaktív érzéki park a látás és hallás témáival.",
                   "category": "family",
                   "coords": [
                         6.875715,
@@ -5136,7 +5136,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Terenul de experiență Văz și Auz din Bottrop este un loc de joacă ce stimulează simțurile.",
+                  "text": "Parcul senzorial Văz și Auz în Bottrop, un parc interactiv cu exponate despre vedere și auz.",
                   "category": "family",
                   "coords": [
                         6.875715,
@@ -5406,7 +5406,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "The Erfahrungsfeld Sehen und Höhren in Bottrop is a playground designed to stimulate the senses.",
+                  "text": "Erfahrungsfeld Sehen und Hören in Bottrop, an interactive sensory park with exhibits on vision and hearing.",
                   "category": "family",
                   "coords": [
                         6.875715,
@@ -5502,7 +5502,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wirgarten",
-                  "text": "Ein kleiner Tierpark in Fulda, der sich ideal für Familienausflüge eignet.",
+                  "text": "Wirgarten in Fulda, ein familienfreundlicher Gemeinschaftsgarten mit Spielbereichen und Gemüsebeeten.",
                   "category": "family",
                   "coords": [
                         9.654665,
@@ -5745,7 +5745,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Havelstraße",
-                  "text": "Ein familienfreundlicher Spielplatz in der Havelstraße in Fulda.",
+                  "text": "Havelstraße in Fulda, eine familienfreundliche Straße mit einem Spielplatz und Grünflächen.",
                   "category": "family",
                   "coords": [
                         9.678752,
@@ -5799,7 +5799,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Galgengraben",
-                  "text": "Ein familienfreundlicher Spielplatz am Galgengraben in Fulda.",
+                  "text": "Galgengraben in Fulda, eine Parkanlage auf dem Gelände eines ehemaligen Galgens, heute ein Erholungsort für Familien.",
                   "category": "family",
                   "coords": [
                         9.688661,
@@ -5855,7 +5855,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wirgarten",
-                  "text": "Kis állatpark Fuldában, amely ideális célpont családok számára.",
+                  "text": "Wirgarten Fulda, egy családbarát közösségi kert játszóterekkel és veteményeságyásokkal.",
                   "category": "family",
                   "coords": [
                         9.654665,
@@ -6098,7 +6098,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Havelstraße",
-                  "text": "Családbarát játszótér a fuldai Havelstraße utcában.",
+                  "text": "Havelstraße Fulda, egy családbarát utca játszótérrel és zöldterületekkel.",
                   "category": "family",
                   "coords": [
                         9.678752,
@@ -6152,7 +6152,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Galgengraben",
-                  "text": "Családbarát játszótér a fuldai Galgengrabennél.",
+                  "text": "Galgengraben Fulda, egy park egykori akasztófa helyén, ma családi kikapcsolódásra szolgál.",
                   "category": "family",
                   "coords": [
                         9.688661,
@@ -6208,7 +6208,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wirgarten",
-                  "text": "Un mic parc zoologic din Fulda, ideal pentru ieșiri în familie.",
+                  "text": "Wirgarten în Fulda, o grădină comunitară pentru familii cu zone de joacă și straturi de legume.",
                   "category": "family",
                   "coords": [
                         9.654665,
@@ -6451,7 +6451,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Havelstraße",
-                  "text": "Un teren de joacă pentru familii pe Havelstraße în Fulda.",
+                  "text": "Havelstraße în Fulda, o stradă prietenoasă familiilor, cu un loc de joacă și spații verzi.",
                   "category": "family",
                   "coords": [
                         9.678752,
@@ -6505,7 +6505,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Galgengraben",
-                  "text": "Un teren de joacă pentru familii la Galgengraben în Fulda.",
+                  "text": "Galgengraben în Fulda, un parc pe locul unei foste spânzurători, acum zonă de recreere pentru familii.",
                   "category": "family",
                   "coords": [
                         9.688661,
@@ -6561,7 +6561,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wirgarten",
-                  "text": "A small animal park in Fulda, ideal for family visits.",
+                  "text": "Wirgarten in Fulda, a family-friendly community garden with play areas and vegetable plots.",
                   "category": "family",
                   "coords": [
                         9.654665,
@@ -6804,7 +6804,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Havelstraße",
-                  "text": "A family-friendly playground in Havelstraße in Fulda.",
+                  "text": "Havelstraße in Fulda, a family-friendly street with a playground and green spaces.",
                   "category": "family",
                   "coords": [
                         9.678752,
@@ -6858,7 +6858,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Galgengraben",
-                  "text": "A family-friendly playground at Galgengraben in Fulda.",
+                  "text": "Galgengraben in Fulda, a park on the site of a former gallows, now a recreational area for families.",
                   "category": "family",
                   "coords": [
                         9.688661,
@@ -7180,7 +7180,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Großer Eichelgartensee",
-                  "text": "Der Großer Eichelgartensee in Speyer ist ein See, der sich gut für Erkundungen in der Natur eignet.",
+                  "text": "Großer Eichelgartensee bei Speyer, ein großer See, beliebt zum Angeln und Spazierengehen.",
                   "category": "natural",
                   "coords": [
                         8.51942,
@@ -7315,7 +7315,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Falknerei Birds of Prey",
-                  "text": "Die Falknerei Birds of Prey in Speyer ist ein interessantes Ziel für Familien.",
+                  "text": "2024 eröffnete Falknerei in Speyer.",
                   "category": "family",
                   "coords": [
                         8.448437,
@@ -7560,7 +7560,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Großer Eichelgartensee",
-                  "text": "A Speyerben lévő Großer Eichelgartensee egy tó, amely kiválóan alkalmas a természet felfedezésére.",
+                  "text": "Großer Eichelgartensee Speyer közelében, egy nagy tó, népszerű horgászathoz és sétához.",
                   "category": "natural",
                   "coords": [
                         8.51942,
@@ -7695,7 +7695,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Falknerei Birds of Prey",
-                  "text": "A Speyerben található Falknerei Birds of Prey érdekes célpont családok számára.",
+                  "text": "2024-ben megnyílt solymászat Speyerben.",
                   "category": "family",
                   "coords": [
                         8.448437,
@@ -7940,7 +7940,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Großer Eichelgartensee",
-                  "text": "Großer Eichelgartensee din Speyer este un lac potrivit pentru explorarea naturii.",
+                  "text": "Großer Eichelgartensee lângă Speyer, un lac mare, popular pentru pescuit și plimbări.",
                   "category": "natural",
                   "coords": [
                         8.51942,
@@ -8075,7 +8075,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Falknerei Birds of Prey",
-                  "text": "Falknerei Birds of Prey din Speyer este o destinație interesantă pentru familii.",
+                  "text": "Șoimărie deschisă în 2024 în Speyer.",
                   "category": "family",
                   "coords": [
                         8.448437,
@@ -8320,7 +8320,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Großer Eichelgartensee",
-                  "text": "Großer Eichelgartensee in Speyer is a lake well-suited for nature exploration.",
+                  "text": "Großer Eichelgartensee near Speyer, a large lake popular for fishing and walking.",
                   "category": "natural",
                   "coords": [
                         8.51942,
@@ -8455,7 +8455,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Falknerei Birds of Prey",
-                  "text": "The Falknerei Birds of Prey in Speyer is an interesting destination for families.",
+                  "text": "Falconry center opened in 2024 in Speyer.",
                   "category": "family",
                   "coords": [
                         8.448437,
@@ -10009,7 +10009,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Bottenbacher Weiher",
-                  "text": "Der Bottenbacher Weiher in Siegen ist ein See, der zum Entspannen in einer natürlichen Umgebung einlädt.",
+                  "text": "Bottenbacher Weiher in Siegen, ein kleiner Teich im Wald, ideal für Naturspaziergänge.",
                   "category": "natural",
                   "coords": [
                         8.01699,
@@ -10218,7 +10218,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Bottenbacher Weiher",
-                  "text": "A Siegen városában fekvő Bottenbacher Weiher egy tó, amely pihenésre hív a természetes környezetben.",
+                  "text": "Bottenbacher Weiher Siegenben, egy kis tó az erdőben, természeti sétákra alkalmas.",
                   "category": "natural",
                   "coords": [
                         8.01699,
@@ -10427,7 +10427,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Bottenbacher Weiher",
-                  "text": "Bottenbacher Weiher din Siegen este un lac ce invită la relaxare într-un cadru natural.",
+                  "text": "Bottenbacher Weiher în Siegen, un mic iaz în pădure, ideal pentru plimbări în natură.",
                   "category": "natural",
                   "coords": [
                         8.01699,
@@ -10636,7 +10636,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Bottenbacher Weiher",
-                  "text": "Bottenbacher Weiher in Siegen is a lake inviting for relaxation in a natural setting.",
+                  "text": "Bottenbacher Weiher in Siegen, a small pond surrounded by woodland, ideal for nature walks.",
                   "category": "natural",
                   "coords": [
                         8.01699,
@@ -11066,7 +11066,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Carl-Schade-Weg",
-                  "text": "Der Spielplatz Carl-Schade-Weg in Cuxhaven ist ein schöner Ort für einen Familiennachmittag.",
+                  "text": "Spielplatz Carl-Schade-Weg in Cuxhaven, mit Rutschen und Schaukeln für Kinder.",
                   "category": "family",
                   "coords": [
                         8.667659,
@@ -11356,7 +11356,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Carl-Schade-Weg",
-                  "text": "A cuxhaveni Carl-Schade-Weg játszótér remek hely egy családi délutánhoz.",
+                  "text": "Carl-Schade-Weg játszótér Cuxhavenben, csúszdákkal és hintákkal gyerekeknek.",
                   "category": "family",
                   "coords": [
                         8.667659,
@@ -11646,7 +11646,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Carl-Schade-Weg",
-                  "text": "Locul de joacă Carl-Schade-Weg din Cuxhaven este un loc frumos pentru o după-amiază în familie.",
+                  "text": "Loc de joacă Carl-Schade-Weg în Cuxhaven, cu tobogane și leagăne pentru copii.",
                   "category": "family",
                   "coords": [
                         8.667659,
@@ -11936,7 +11936,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Carl-Schade-Weg",
-                  "text": "The Carl-Schade-Weg playground in Cuxhaven is a nice place for a family afternoon.",
+                  "text": "Playground on Carl-Schade-Weg in Cuxhaven, with slides and swings for children.",
                   "category": "family",
                   "coords": [
                         8.667659,
@@ -14281,7 +14281,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Markbach und Jagdhauser Wald",
-                  "text": "Ein ausgedehntes bewaldetes Naturschutzgebiet bei Baden-Baden.",
+                  "text": "Der Markbach und Jagdhauser Wald ist ein geschütztes Waldgebiet bei Baden-Baden, bekannt für seine Wanderwege.",
                   "category": "natural",
                   "coords": [
                         8.191766,
@@ -14733,7 +14733,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Markbach und Jagdhauser Wald",
-                  "text": "Kiterjedt erdős természetvédelmi terület Baden-Baden mellett.",
+                  "text": "A Markbach und Jagdhauser Wald egy védett erdőterület Baden-Baden közelében, híres túraútvonalairól.",
                   "category": "natural",
                   "coords": [
                         8.191766,
@@ -15185,7 +15185,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Markbach und Jagdhauser Wald",
-                  "text": "O rezervație naturală forestieră extinsă lângă Baden-Baden.",
+                  "text": "Markbach und Jagdhauser Wald este o zonă forestieră protejată lângă Baden-Baden, cunoscută pentru traseele sale de drumeții.",
                   "category": "natural",
                   "coords": [
                         8.191766,
@@ -15637,7 +15637,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Markbach und Jagdhauser Wald",
-                  "text": "An extensive forested nature reserve near Baden-Baden.",
+                  "text": "Markbach und Jagdhauser Wald is a protected forest area near Baden-Baden, known for its hiking trails.",
                   "category": "natural",
                   "coords": [
                         8.191766,
@@ -16351,7 +16351,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Strabeach",
-                  "text": "Der Strabeach liegt in Speyer.",
+                  "text": "Strabeach in Speyer, ein Sandstrand am Rhein mit Bademöglichkeit.",
                   "category": "recreational",
                   "coords": [
                         6.774689,
@@ -16360,7 +16360,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hitdorfer See",
-                  "text": "Ein See in Dormagen, der sich gut für Spaziergänge am Ufer eignet.",
+                  "text": "Hitdorfer See bei Speyer, ein See für Wassersport und Erholung.",
                   "category": "natural",
                   "coords": [
                         6.930828,
@@ -16441,7 +16441,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wildpark im Tannenbusch",
-                  "text": "Der Wildpark im Tannenbusch in Dormagen ist ein ideales Ziel für Familien.",
+                  "text": "Wildpark im Tannenbusch bei Speyer, ein Tierpark mit heimischen Tieren und Streichelzoo.",
                   "category": "family",
                   "coords": [
                         6.788907,
@@ -16524,7 +16524,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Strabeach",
-                  "text": "A Strabeach Speyerben található.",
+                  "text": "Strabeach Speyerben, homokos strand a Rajna partján fürdőzési lehetőséggel.",
                   "category": "recreational",
                   "coords": [
                         6.774689,
@@ -16533,7 +16533,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hitdorfer See",
-                  "text": "Egy Dormagenben található tó, amely alkalmas parti sétákra.",
+                  "text": "Hitdorfer See Speyer közelében, vízi sportokhoz és pihenéshez.",
                   "category": "natural",
                   "coords": [
                         6.930828,
@@ -16614,7 +16614,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wildpark im Tannenbusch",
-                  "text": "A Dormagenben található Wildpark im Tannenbusch ideális célpont családok számára.",
+                  "text": "Vadaspark a Tannenbuschban Speyer közelében, őshonos állatokkal és simogatóval.",
                   "category": "family",
                   "coords": [
                         6.788907,
@@ -16697,7 +16697,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Strabeach",
-                  "text": "Zona Strabeach este situată în Speyer.",
+                  "text": "Strabeach în Speyer, o plajă cu nisip pe malul Rinului, cu posibilități de înot.",
                   "category": "recreational",
                   "coords": [
                         6.774689,
@@ -16706,7 +16706,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hitdorfer See",
-                  "text": "Un lac în Dormagen, potrivit pentru plimbări pe mal.",
+                  "text": "Hitdorfer See lângă Speyer, un lac pentru sporturi nautice și relaxare.",
                   "category": "natural",
                   "coords": [
                         6.930828,
@@ -16787,7 +16787,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wildpark im Tannenbusch",
-                  "text": "Wildpark im Tannenbusch din Dormagen este o destinație ideală pentru familii.",
+                  "text": "Parcul cu animale sălbatice din Tannenbusch lângă Speyer, cu animale native și zonă de mângâiat.",
                   "category": "family",
                   "coords": [
                         6.788907,
@@ -16870,7 +16870,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Strabeach",
-                  "text": "The Strabeach is located in Speyer.",
+                  "text": "Strabeach in Speyer, a sandy beach along the Rhine offering swimming.",
                   "category": "recreational",
                   "coords": [
                         6.774689,
@@ -16879,7 +16879,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hitdorfer See",
-                  "text": "A lake in Dormagen suitable for walks along the shore.",
+                  "text": "Hitdorfer See near Speyer, a lake for water sports and relaxation.",
                   "category": "natural",
                   "coords": [
                         6.930828,
@@ -16960,7 +16960,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Wildpark im Tannenbusch",
-                  "text": "The Wildpark im Tannenbusch in Dormagen is an ideal destination for families.",
+                  "text": "Wildpark im Tannenbusch near Speyer, a wildlife park with native animals and a petting zoo.",
                   "category": "family",
                   "coords": [
                         6.788907,
@@ -17057,7 +17057,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schloss Piflas",
-                  "text": "Ein historisches Landschloss im Landshuter Stadtteil Piflas.",
+                  "text": "Schloss Piflas ist ein historisches Schloss bei Landshut, umgeben von einem Park.",
                   "category": "castle",
                   "coords": [
                         12.168172,
@@ -17311,7 +17311,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schloss Piflas",
-                  "text": "Történelmi kastélyépület Landshut Piflas városrészében.",
+                  "text": "A Schloss Piflas egy történelmi kastély Landshut közelében, parkkal körülvéve.",
                   "category": "castle",
                   "coords": [
                         12.168172,
@@ -17565,7 +17565,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schloss Piflas",
-                  "text": "Un castel istoric situat în districtul Piflas din Landshut.",
+                  "text": "Schloss Piflas este un castel istoric lângă Landshut, înconjurat de un parc.",
                   "category": "castle",
                   "coords": [
                         12.168172,
@@ -17819,7 +17819,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schloss Piflas",
-                  "text": "A historic castle building located in the Piflas district of Landshut.",
+                  "text": "Schloss Piflas is a historic castle near Landshut, surrounded by a park.",
                   "category": "castle",
                   "coords": [
                         12.168172,
@@ -18159,7 +18159,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sommerbad",
-                  "text": "Sommerbad in Offenburg.",
+                  "text": "Sommerbad in Offenburg, ein Freibad mit Wasserrutschen und Liegewiesen.",
                   "category": "recreational",
                   "coords": [
                         7.891203,
@@ -18213,7 +18213,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Königswaldsee",
-                  "text": "Der Königswaldsee in Offenburg ist ein schöner Ort für Naturbeobachtungen.",
+                  "text": "Königswaldsee bei Offenburg, ein See im Königswald, beliebt zum Wandern und Picknicken.",
                   "category": "natural",
                   "coords": [
                         7.918853,
@@ -18231,7 +18231,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schutterwälder Baggersee",
-                  "text": "Der Schutterwälder Baggersee bei Offenburg lädt zur Erholung am Wasser ein.",
+                  "text": "Schutterwälder Baggersee bei Offenburg, ein Badesee zum Schwimmen und Windsurfen.",
                   "category": "natural",
                   "coords": [
                         7.887535,
@@ -18258,7 +18258,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Augustaplatz",
-                  "text": "Ein familienfreundlicher Spielplatz am Augustaplatz in Offenburg.",
+                  "text": "Spielplatz Augustaplatz in Offenburg, mit Klettergerüsten und Sandkästen.",
                   "category": "family",
                   "coords": [
                         7.951843,
@@ -18285,7 +18285,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Dreifaltigkeitskirche",
-                  "text": "Ein Spielplatz an der Dreifaltigkeitskirche in Offenburg für Familien.",
+                  "text": "Spielplatz an der Dreifaltigkeitskirche in Offenburg, mit Spielgeräten für Kleinkinder.",
                   "category": "family",
                   "coords": [
                         7.949301,
@@ -18294,7 +18294,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Brachfeldstraße",
-                  "text": "Ein kleiner Spielplatz in der Brachfeldstraße in Offenburg.",
+                  "text": "Spielplatz Brachfeldstraße in Offenburg, mit Basketballkorb und Schaukeln.",
                   "category": "family",
                   "coords": [
                         7.959009,
@@ -18312,7 +18312,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rindfleischgrund",
-                  "text": "Ein familienfreundlicher Spielplatz am Rindfleischgrund in Offenburg.",
+                  "text": "Spielplatz Rindfleischgrund in Offenburg, mit großer Wiese und Spielgeräten.",
                   "category": "family",
                   "coords": [
                         7.966471,
@@ -18348,7 +18348,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Berliner Straße",
-                  "text": "Ein Spielplatz in der Berliner Straße in Offenburg für Kinder.",
+                  "text": "Spielplatz Berliner Straße in Offenburg, mit Fußballfeld und Rutschen.",
                   "category": "family",
                   "coords": [
                         7.925586,
@@ -18375,7 +18375,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Badstraße/Mühlbach",
-                  "text": "Ein Spielplatz an der Badstraße/Mühlbach in Offenburg am Wasser.",
+                  "text": "Spielplatz an der Kreuzung Badstraße und Mühlbach in Offenburg, mit Klettergerüst und Schaukel.",
                   "category": "family",
                   "coords": [
                         7.942554,
@@ -18467,7 +18467,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sommerbad",
-                  "text": "Sommerbad fürdőhely Offenburgban.",
+                  "text": "Sommerbad Offenburgban, egy szabadtéri uszoda csúszdákkal és napozóterülettel.",
                   "category": "recreational",
                   "coords": [
                         7.891203,
@@ -18521,7 +18521,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Königswaldsee",
-                  "text": "Az offenburgi Königswaldsee szép hely a természet megfigyelésére.",
+                  "text": "Königswaldsee Offenburg közelében, egy tó a Königswaldban, népszerű túrázáshoz és piknikezéshez.",
                   "category": "natural",
                   "coords": [
                         7.918853,
@@ -18539,7 +18539,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schutterwälder Baggersee",
-                  "text": "Az Offenburg melletti Schutterwälder Baggersee kikapcsolódásra hív a vízparton.",
+                  "text": "Schutterwälder Baggersee Offenburg közelében, egy tó úszáshoz és szörfözéshez.",
                   "category": "natural",
                   "coords": [
                         7.887535,
@@ -18566,7 +18566,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Augustaplatz",
-                  "text": "Családbarát játszótér az offenburgi Augustaplatzon.",
+                  "text": "Augustaplatz játszótér Offenburgban, mászókákkal és homokozókkal.",
                   "category": "family",
                   "coords": [
                         7.951843,
@@ -18593,7 +18593,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Dreifaltigkeitskirche",
-                  "text": "Játszótér az offenburgi Dreifaltigkeitskirche mellett családoknak.",
+                  "text": "Játszótér a Dreifaltigkeitskirche mellett Offenburgban, kisgyermekek számára alkalmas játékokkal.",
                   "category": "family",
                   "coords": [
                         7.949301,
@@ -18602,7 +18602,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Brachfeldstraße",
-                  "text": "Kis játszótér az offenburgi Brachfeldstraße utcában.",
+                  "text": "Brachfeldstraße játszótér Offenburgban, kosárlabdapalánkkal és hintákkal.",
                   "category": "family",
                   "coords": [
                         7.959009,
@@ -18620,7 +18620,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rindfleischgrund",
-                  "text": "Családbarát játszótér az offenburgi Rindfleischgrundnál.",
+                  "text": "Rindfleischgrund játszótér Offenburgban, nagy füves területtel és játszóeszközökkel.",
                   "category": "family",
                   "coords": [
                         7.966471,
@@ -18656,7 +18656,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Berliner Straße",
-                  "text": "Játszótér az offenburgi Berliner Straße utcában gyermekeknek.",
+                  "text": "Berliner Straße játszótér Offenburgban, focipályával és csúszdákkal.",
                   "category": "family",
                   "coords": [
                         7.925586,
@@ -18683,7 +18683,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Badstraße/Mühlbach",
-                  "text": "Játszótér az offenburgi Badstraße/Mühlbachnál a víz mellett.",
+                  "text": "Játszótér Offenburgban, a Badstraße és Mühlbach kereszteződésénél, mászókával és hintával.",
                   "category": "family",
                   "coords": [
                         7.942554,
@@ -18775,7 +18775,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sommerbad",
-                  "text": "Plajă la Sommerbad din Offenburg.",
+                  "text": "Sommerbad în Offenburg, o piscină în aer liber cu tobogane și zone de bronzat.",
                   "category": "recreational",
                   "coords": [
                         7.891203,
@@ -18829,7 +18829,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Königswaldsee",
-                  "text": "Lacul Königswaldsee din Offenburg este un loc frumos pentru observarea naturii.",
+                  "text": "Königswaldsee lângă Offenburg, un lac în pădurea Königswald, popular pentru drumeții și picnicuri.",
                   "category": "natural",
                   "coords": [
                         7.918853,
@@ -18847,7 +18847,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schutterwälder Baggersee",
-                  "text": "Lacul Schutterwälder Baggersee de lângă Offenburg invită la relaxare pe malul apei.",
+                  "text": "Schutterwälder Baggersee lângă Offenburg, un lac de înot pentru înot și windsurfing.",
                   "category": "natural",
                   "coords": [
                         7.887535,
@@ -18874,7 +18874,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Augustaplatz",
-                  "text": "Un teren de joacă pentru familii în Augustaplatz din Offenburg.",
+                  "text": "Loc de joacă Augustaplatz în Offenburg, cu structuri de cățărat și cutii cu nisip.",
                   "category": "family",
                   "coords": [
                         7.951843,
@@ -18901,7 +18901,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Dreifaltigkeitskirche",
-                  "text": "Un teren de joacă lângă Dreifaltigkeitskirche din Offenburg pentru familii.",
+                  "text": "Loc de joacă lângă Biserica Sfânta Treime din Offenburg, cu echipamente pentru copii mici.",
                   "category": "family",
                   "coords": [
                         7.949301,
@@ -18910,7 +18910,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Brachfeldstraße",
-                  "text": "Un mic teren de joacă pe Brachfeldstraße în Offenburg.",
+                  "text": "Loc de joacă pe strada Brachfeld din Offenburg, cu coș de baschet și leagăne.",
                   "category": "family",
                   "coords": [
                         7.959009,
@@ -18928,7 +18928,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rindfleischgrund",
-                  "text": "Un teren de joacă pentru familii la Rindfleischgrund în Offenburg.",
+                  "text": "Loc de joacă Rindfleischgrund în Offenburg, cu o zonă mare de iarbă și structuri de joacă.",
                   "category": "family",
                   "coords": [
                         7.966471,
@@ -18964,7 +18964,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Berliner Straße",
-                  "text": "Un teren de joacă pe Berliner Straße în Offenburg pentru copii.",
+                  "text": "Loc de joacă pe strada Berliner din Offenburg, cu teren de fotbal și tobogane.",
                   "category": "family",
                   "coords": [
                         7.925586,
@@ -18991,7 +18991,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Badstraße/Mühlbach",
-                  "text": "Un teren de joacă pe Badstraße/Mühlbach în Offenburg, lângă apă.",
+                  "text": "Loc de joacă la intersecția străzilor Badstraße și Mühlbach din Offenburg, cu tiroliană și leagăn.",
                   "category": "family",
                   "coords": [
                         7.942554,
@@ -19083,7 +19083,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sommerbad",
-                  "text": "Sommerbad bathing area in Offenburg.",
+                  "text": "Sommerbad in Offenburg, an outdoor swimming pool with water slides and sunbathing areas.",
                   "category": "recreational",
                   "coords": [
                         7.891203,
@@ -19137,7 +19137,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Königswaldsee",
-                  "text": "The Königswaldsee in Offenburg is a beautiful place for nature observation.",
+                  "text": "Königswaldsee near Offenburg, a lake in the Königswald forest, popular for hiking and picnics.",
                   "category": "natural",
                   "coords": [
                         7.918853,
@@ -19155,7 +19155,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Schutterwälder Baggersee",
-                  "text": "The Schutterwälder Baggersee near Offenburg is a spot for relaxation by the water.",
+                  "text": "Schutterwälder Baggersee near Offenburg, a quarry lake suitable for swimming and windsurfing.",
                   "category": "natural",
                   "coords": [
                         7.887535,
@@ -19182,7 +19182,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Augustaplatz",
-                  "text": "A family-friendly playground at Augustaplatz in Offenburg.",
+                  "text": "Playground at Augustaplatz in Offenburg, with climbing frames and sandboxes.",
                   "category": "family",
                   "coords": [
                         7.951843,
@@ -19209,7 +19209,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Dreifaltigkeitskirche",
-                  "text": "A playground at the Dreifaltigkeitskirche in Offenburg for families.",
+                  "text": "Playground near Dreifaltigkeitskirche in Offenburg, with play equipment for toddlers.",
                   "category": "family",
                   "coords": [
                         7.949301,
@@ -19218,7 +19218,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Brachfeldstraße",
-                  "text": "A small playground in Brachfeldstraße in Offenburg.",
+                  "text": "Playground on Brachfeldstraße in Offenburg, featuring a basketball hoop and swings.",
                   "category": "family",
                   "coords": [
                         7.959009,
@@ -19236,7 +19236,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rindfleischgrund",
-                  "text": "A family-friendly playground at Rindfleischgrund in Offenburg.",
+                  "text": "Playground in Rindfleischgrund, Offenburg, with a large grassy area and play structures.",
                   "category": "family",
                   "coords": [
                         7.966471,
@@ -19272,7 +19272,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Berliner Straße",
-                  "text": "A playground in Berliner Straße in Offenburg for children.",
+                  "text": "Playground on Berliner Straße in Offenburg, with a soccer field and slides.",
                   "category": "family",
                   "coords": [
                         7.925586,
@@ -19299,7 +19299,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Badstraße/Mühlbach",
-                  "text": "A playground at Badstraße/Mühlbach in Offenburg by the water.",
+                  "text": "Playground at the corner of Badstraße and Mühlbach in Offenburg, with climbing frame and swing.",
                   "category": "family",
                   "coords": [
                         7.942554,
@@ -19486,7 +19486,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Friedensstraße",
-                  "text": "Ein Ort zum Spielen und Entdecken für Kinder in Velbert.",
+                  "text": "Friedensstraße in Arnsberg, eine verkehrsberuhigte Wohnstraße mit Spielmöglichkeiten.",
                   "category": "family",
                   "coords": [
                         7.048113,
@@ -19749,7 +19749,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Friedensstraße",
-                  "text": "Játék- és felfedezőhely gyermekek számára Velbertben.",
+                  "text": "Friedensstraße Arnsbergben, egy forgalomcsillapított lakóutca játszási lehetőségekkel.",
                   "category": "family",
                   "coords": [
                         7.048113,
@@ -20012,7 +20012,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Friedensstraße",
-                  "text": "Un loc de joacă și explorare pentru copii în Velbert.",
+                  "text": "Friedensstraße în Arnsberg, o stradă rezidențială cu trafic redus și locuri de joacă.",
                   "category": "family",
                   "coords": [
                         7.048113,
@@ -20275,7 +20275,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Friedensstraße",
-                  "text": "A place for children to play and discover in Velbert.",
+                  "text": "Friedensstraße in Arnsberg, a traffic-calmed residential street with play areas.",
                   "category": "family",
                   "coords": [
                         7.048113,
@@ -21744,7 +21744,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Tenderingssee",
-                  "text": "Der Tenderingssee bei Dinslaken ist ein beliebtes Ziel für Naturfreunde.",
+                  "text": "Tenderingssee in Dinslaken, ein natürlicher Badesee mit Liegewiesen.",
                   "category": "natural",
                   "coords": [
                         6.72144,
@@ -21753,7 +21753,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hügelstraße",
-                  "text": "Ein familienfreundlicher Spielplatz in der Hügelstraße in Dinslaken.",
+                  "text": "Hügelstraße in Dinslaken, eine ansteigende Wohnstraße mit Gärten und Spielplätzen.",
                   "category": "family",
                   "coords": [
                         6.771405,
@@ -21780,7 +21780,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Niederfeldstraße",
-                  "text": "Ein familienfreundlicher Spielplatz in der Niederfeldstraße in Dinslaken.",
+                  "text": "Niederfeldstraße in Dinslaken, eine ruhige Wohnstraße im Niederfeld-Viertel.",
                   "category": "family",
                   "coords": [
                         6.751233,
@@ -21798,7 +21798,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Roonstraße/Lessingstraße",
-                  "text": "Ein Spielplatz an der Roonstraße/Lessingstraße in Dinslaken.",
+                  "text": "Kreuzung Roonstraße/Lessingstraße in Dinslaken, mit einem kleinen Nachbarschaftsspielplatz.",
                   "category": "family",
                   "coords": [
                         6.737361,
@@ -21816,7 +21816,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sandrastraße",
-                  "text": "Ein familienfreundlicher Spielplatz in der Sandrastraße in Dinslaken.",
+                  "text": "Sandrastraße in Dinslaken, eine Wohnstraße mit altem Baumbestand und Sitzbänken.",
                   "category": "family",
                   "coords": [
                         6.744724,
@@ -21834,7 +21834,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Blumenanger",
-                  "text": "Ein familienfreundlicher Spielplatz am Blumenanger in Dinslaken.",
+                  "text": "Blumenanger in Dinslaken, eine begrünte Anlage mit Blumenbeeten und Spielgeräten.",
                   "category": "family",
                   "coords": [
                         6.755291,
@@ -21861,7 +21861,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rilkeweg",
-                  "text": "Ein familienfreundlicher Spielplatz im Rilkeweg in Dinslaken.",
+                  "text": "Spielplatz am Rilkeweg in Dinslaken, mit Rutsche, Schaukel und Sandkasten.",
                   "category": "family",
                   "coords": [
                         6.726208,
@@ -21870,7 +21870,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Memeler Straße",
-                  "text": "Ein Spielplatz in der Memeler Straße in Dinslaken für Kinder.",
+                  "text": "Spielplatz an der Memeler Straße in Dinslaken, mit Basketballkorb und Kletterturm.",
                   "category": "family",
                   "coords": [
                         6.72054,
@@ -21879,7 +21879,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Niesmannshof",
-                  "text": "Ein familienfreundlicher Spielplatz am Niesmannshof in Dinslaken.",
+                  "text": "Spielplatz am Niesmannshof in Dinslaken, umgeben von Hecken und mit Tischtennisplatte.",
                   "category": "family",
                   "coords": [
                         6.708459,
@@ -21888,7 +21888,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Windmühle",
-                  "text": "Der Spielplatz Windmühle in Dinslaken ist ein schönes Ziel für Familien.",
+                  "text": "Windmühle in Dinslaken, eine historische Turmwindmühle aus Backstein, heute für Familienausflüge geöffnet.",
                   "category": "family",
                   "coords": [
                         6.767274,
@@ -21906,7 +21906,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baßfeldshof",
-                  "text": "Ein familienfreundlicher Spielplatz am Baßfeldshof in Dinslaken.",
+                  "text": "Baßfeldshof in Dinslaken, ein ehemaliger Bauernhof mit Streichelzoo und Café.",
                   "category": "family",
                   "coords": [
                         6.735298,
@@ -21998,7 +21998,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Tenderingssee",
-                  "text": "A Dinslaken melletti Tenderingssee kedvelt célpont a természetbarátok számára.",
+                  "text": "Tenderingssee Dinslakenben, egy természetes fürdőtó napozórétrel.",
                   "category": "natural",
                   "coords": [
                         6.72144,
@@ -22007,7 +22007,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hügelstraße",
-                  "text": "Családbarát játszótér a dinslakeni Hügelstraße utcában.",
+                  "text": "Hügelstraße Dinslakenben, egy emelkedő lakóutca kertekkel és játszóterekkel.",
                   "category": "family",
                   "coords": [
                         6.771405,
@@ -22034,7 +22034,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Niederfeldstraße",
-                  "text": "Családbarát játszótér a dinslakeni Niederfeldstraße utcában.",
+                  "text": "Niederfeldstraße Dinslakenben, egy csendes lakóutca a Niederfeld negyedben.",
                   "category": "family",
                   "coords": [
                         6.751233,
@@ -22052,7 +22052,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Roonstraße/Lessingstraße",
-                  "text": "Játszótér a dinslakeni Roonstraße/Lessingstraße sarkán.",
+                  "text": "Roonstraße/Lessingstraße kereszteződés Dinslakenben, egy kis szomszédsági játszótérrel.",
                   "category": "family",
                   "coords": [
                         6.737361,
@@ -22070,7 +22070,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sandrastraße",
-                  "text": "Családbarát játszótér a dinslakeni Sandrastraße utcában.",
+                  "text": "Sandrastraße Dinslakenben, egy lakóutca régi fákkal és padokkal.",
                   "category": "family",
                   "coords": [
                         6.744724,
@@ -22088,7 +22088,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Blumenanger",
-                  "text": "Családbarát játszótér a dinslakeni Blumenangernél.",
+                  "text": "Blumenanger Dinslakenben, egy zöldövezet virágágyásokkal és játszóeszközökkel.",
                   "category": "family",
                   "coords": [
                         6.755291,
@@ -22115,7 +22115,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rilkeweg",
-                  "text": "Családbarát játszótér a dinslakeni Rilkewegen.",
+                  "text": "Játszótér a Rilkeweg mellett Dinslakenben, csúszdával, hintával és homokozóval.",
                   "category": "family",
                   "coords": [
                         6.726208,
@@ -22124,7 +22124,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Memeler Straße",
-                  "text": "Játszótér a dinslakeni Memeler Straße utcában gyermekeknek.",
+                  "text": "Játszótér a Memeler Straße mellett Dinslakenben, kosárlabdapalánkkal és mászótoronnyal.",
                   "category": "family",
                   "coords": [
                         6.72054,
@@ -22133,7 +22133,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Niesmannshof",
-                  "text": "Családbarát játszótér a dinslakeni Niesmannshofnál.",
+                  "text": "Játszótér a Niesmannshof mellett Dinslakenben, sövényekkel körülvéve és asztalitenisz-asztallal.",
                   "category": "family",
                   "coords": [
                         6.708459,
@@ -22142,7 +22142,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Windmühle",
-                  "text": "A dinslakeni Windmühle játszótér kedvelt célpont a családok számára.",
+                  "text": "Szélmalom Dinslakenben, egy történelmi tégla toronyszélmalom, ma családi kirándulásokra nyitva.",
                   "category": "family",
                   "coords": [
                         6.767274,
@@ -22160,7 +22160,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baßfeldshof",
-                  "text": "Családbarát játszótér a dinslakeni Baßfeldshofnál.",
+                  "text": "Baßfeldshof Dinslakenben, egy egykori tanya állatsimogatóval és kávézóval.",
                   "category": "family",
                   "coords": [
                         6.735298,
@@ -22252,7 +22252,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Tenderingssee",
-                  "text": "Lacul Tenderingssee de lângă Dinslaken este o destinație populară pentru iubitorii de natură.",
+                  "text": "Tenderingssee în Dinslaken, un lac natural de baie cu pajiști pentru plajă.",
                   "category": "natural",
                   "coords": [
                         6.72144,
@@ -22261,7 +22261,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hügelstraße",
-                  "text": "Un teren de joacă pentru familii pe Hügelstraße în Dinslaken.",
+                  "text": "Hügelstraße în Dinslaken, o stradă rezidențială în pantă cu grădini și locuri de joacă.",
                   "category": "family",
                   "coords": [
                         6.771405,
@@ -22288,7 +22288,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Niederfeldstraße",
-                  "text": "Un teren de joacă pentru familii pe Niederfeldstraße în Dinslaken.",
+                  "text": "Niederfeldstraße în Dinslaken, o stradă rezidențială liniștită în cartierul Niederfeld.",
                   "category": "family",
                   "coords": [
                         6.751233,
@@ -22306,7 +22306,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Roonstraße/Lessingstraße",
-                  "text": "Un teren de joacă la intersecția Roonstraße/Lessingstraße în Dinslaken.",
+                  "text": "Intersecția străzilor Roonstraße/Lessingstraße din Dinslaken, cu un mic loc de joacă de cartier.",
                   "category": "family",
                   "coords": [
                         6.737361,
@@ -22324,7 +22324,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sandrastraße",
-                  "text": "Un teren de joacă pentru familii pe Sandrastraße în Dinslaken.",
+                  "text": "Sandrastraße în Dinslaken, o stradă rezidențială cu arbori bătrâni și bănci.",
                   "category": "family",
                   "coords": [
                         6.744724,
@@ -22342,7 +22342,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Blumenanger",
-                  "text": "Un teren de joacă pentru familii la Blumenanger în Dinslaken.",
+                  "text": "Blumenanger în Dinslaken, un spațiu verde cu paturi de flori și echipamente de joacă.",
                   "category": "family",
                   "coords": [
                         6.755291,
@@ -22369,7 +22369,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rilkeweg",
-                  "text": "Un teren de joacă pentru familii pe Rilkeweg în Dinslaken.",
+                  "text": "Loc de joacă pe Rilkeweg în Dinslaken, cu tobogan, leagăn și nisipar.",
                   "category": "family",
                   "coords": [
                         6.726208,
@@ -22378,7 +22378,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Memeler Straße",
-                  "text": "Un teren de joacă pe Memeler Straße în Dinslaken pentru copii.",
+                  "text": "Loc de joacă pe Memeler Straße în Dinslaken, cu coș de baschet și turn de cățărare.",
                   "category": "family",
                   "coords": [
                         6.72054,
@@ -22387,7 +22387,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Niesmannshof",
-                  "text": "Un teren de joacă pentru familii la Niesmannshof în Dinslaken.",
+                  "text": "Loc de joacă la Niesmannshof în Dinslaken, înconjurat de gard viu, cu masă de tenis de masă.",
                   "category": "family",
                   "coords": [
                         6.708459,
@@ -22396,7 +22396,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Windmühle",
-                  "text": "Locul de joacă Windmühle din Dinslaken este o destinație frumoasă pentru familii.",
+                  "text": "Moara de vânt din Dinslaken, o moară istorică de cărămidă, deschisă pentru excursii de familie.",
                   "category": "family",
                   "coords": [
                         6.767274,
@@ -22414,7 +22414,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baßfeldshof",
-                  "text": "Un teren de joacă pentru familii la Baßfeldshof în Dinslaken.",
+                  "text": "Baßfeldshof în Dinslaken, o fostă fermă cu animale de companie și cafenea.",
                   "category": "family",
                   "coords": [
                         6.735298,
@@ -22506,7 +22506,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Tenderingssee",
-                  "text": "The Tenderingssee near Dinslaken is a popular destination for nature lovers.",
+                  "text": "Tenderingssee in Dinslaken, a natural swimming lake with grassy banks.",
                   "category": "natural",
                   "coords": [
                         6.72144,
@@ -22515,7 +22515,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Hügelstraße",
-                  "text": "A family-friendly playground in Hügelstraße in Dinslaken.",
+                  "text": "Hügelstraße in Dinslaken, a sloping residential street with gardens and playgrounds.",
                   "category": "family",
                   "coords": [
                         6.771405,
@@ -22542,7 +22542,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Niederfeldstraße",
-                  "text": "A family-friendly playground in Niederfeldstraße in Dinslaken.",
+                  "text": "Niederfeldstraße in Dinslaken, a quiet residential street in the Niederfeld district.",
                   "category": "family",
                   "coords": [
                         6.751233,
@@ -22560,7 +22560,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Roonstraße/Lessingstraße",
-                  "text": "A playground at Roonstraße/Lessingstraße in Dinslaken.",
+                  "text": "Roonstraße/Lessingstraße intersection in Dinslaken, with a small neighbourhood playground.",
                   "category": "family",
                   "coords": [
                         6.737361,
@@ -22578,7 +22578,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Sandrastraße",
-                  "text": "A family-friendly playground in Sandrastraße in Dinslaken.",
+                  "text": "Sandrastraße in Dinslaken, a residential street with old trees and benches.",
                   "category": "family",
                   "coords": [
                         6.744724,
@@ -22596,7 +22596,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Blumenanger",
-                  "text": "A family-friendly playground at Blumenanger in Dinslaken.",
+                  "text": "Blumenanger in Dinslaken, a green area with flower beds and play equipment.",
                   "category": "family",
                   "coords": [
                         6.755291,
@@ -22623,7 +22623,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Rilkeweg",
-                  "text": "A family-friendly playground in Rilkeweg in Dinslaken.",
+                  "text": "Playground on Rilkeweg in Dinslaken, with slide, swing and sandpit.",
                   "category": "family",
                   "coords": [
                         6.726208,
@@ -22632,7 +22632,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Memeler Straße",
-                  "text": "A playground in Memeler Straße in Dinslaken for children.",
+                  "text": "Playground on Memeler Straße in Dinslaken, with basketball hoop and climbing tower.",
                   "category": "family",
                   "coords": [
                         6.72054,
@@ -22641,7 +22641,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Spielplatz Niesmannshof",
-                  "text": "A family-friendly playground at Niesmannshof in Dinslaken.",
+                  "text": "Playground at Niesmannshof in Dinslaken, surrounded by hedges with a ping-pong table.",
                   "category": "family",
                   "coords": [
                         6.708459,
@@ -22650,7 +22650,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Windmühle",
-                  "text": "The Windmühle playground in Dinslaken is a nice destination for families.",
+                  "text": "Windmill in Dinslaken, a historic brick tower windmill, now open for family outings.",
                   "category": "family",
                   "coords": [
                         6.767274,
@@ -22668,7 +22668,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Baßfeldshof",
-                  "text": "A family-friendly playground at Baßfeldshof in Dinslaken.",
+                  "text": "Baßfeldshof in Dinslaken, a former farmstead with petting zoo and café.",
                   "category": "family",
                   "coords": [
                         6.735298,
@@ -22747,7 +22747,7 @@ export const germanyCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fliedner-See",
-                  "text": "Ein See in Ratingen, der sich gut für Spaziergänge in der Natur eignet.",
+                  "text": "Fliedner-See in Ratingen, ein künstlich angelegter See mit Rundweg und Ruhebänken.",
                   "category": "natural",
                   "coords": [
                         6.748828,
@@ -22783,7 +22783,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Membranbecken",
-                  "text": "Ein See in Ratingen, der zu Beobachtungen in der Natur einlädt.",
+                  "text": "Membranbecken in Ratingen, ein technisches Becken zur Wasseraufbereitung, umgeben von Grünflächen.",
                   "category": "natural",
                   "coords": [
                         6.893419,
@@ -22855,7 +22855,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Minigolf Blauer See",
-                  "text": "Die Minigolfanlage Blauer See in Ratingen ist ein schönes Ziel für einen gemeinsamen Familienausflug.",
+                  "text": "Minigolf am Blauen See in Ratingen, eine 18-Loch-Anlage mit Wasserhindernissen.",
                   "category": "family",
                   "coords": [
                         6.857224,
@@ -22891,7 +22891,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Märchenzoo Blauer See",
-                  "text": "Der Märchenzoo Blauer See in Ratingen ist ein tolles Ziel für Familien.",
+                  "text": "Märchenzoo am Blauen See in Ratingen, mit Tiergehegen und Märchenfiguren wie Rotkäppchen.",
                   "category": "family",
                   "coords": [
                         6.862139,
@@ -22902,7 +22902,7 @@ export const germanyCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fliedner-See",
-                  "text": "Ratingeni tó, amely alkalmas természetjáró sétákra.",
+                  "text": "Fliedner-tó Ratingenben, egy mesterséges tó sétányokkal és pihenőpadokkal.",
                   "category": "natural",
                   "coords": [
                         6.748828,
@@ -22938,7 +22938,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Membranbecken",
-                  "text": "Ratingeni tó, amely természetmegfigyelésre hív.",
+                  "text": "Membránmedence Ratingenben, egy víztisztító műszaki medence zöldterületekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         6.893419,
@@ -23010,7 +23010,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Minigolf Blauer See",
-                  "text": "A ratingeni Blauer See minigolfpálya remek úticél egy közös családi kiránduláshoz.",
+                  "text": "Mini golfozás a Kék tónál Ratingenben, egy 18 lyukú pálya vízakadályokkal.",
                   "category": "family",
                   "coords": [
                         6.857224,
@@ -23046,7 +23046,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Märchenzoo Blauer See",
-                  "text": "A Ratingenben található Märchenzoo Blauer See remek célpont családok számára.",
+                  "text": "Meseállatkert a Kék tónál Ratingenben, állatkifutókkal és mesefigurákkal, mint Piroska.",
                   "category": "family",
                   "coords": [
                         6.862139,
@@ -23057,7 +23057,7 @@ export const germanyCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fliedner-See",
-                  "text": "Un lac în Ratingen, potrivit pentru plimbări în natură.",
+                  "text": "Fliedner-See în Ratingen, un lac artificial cu alee circulară și bănci.",
                   "category": "natural",
                   "coords": [
                         6.748828,
@@ -23093,7 +23093,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Membranbecken",
-                  "text": "Un lac în Ratingen care invită la observații în natură.",
+                  "text": "Membranbecken în Ratingen, un bazin tehnic de tratare a apei, înconjurat de spații verzi.",
                   "category": "natural",
                   "coords": [
                         6.893419,
@@ -23165,7 +23165,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Minigolf Blauer See",
-                  "text": "Terenul de minigolf Blauer See din Ratingen este o destinație frumoasă pentru o excursie în familie.",
+                  "text": "Minigolf la Lacul Albastru din Ratingen, un teren de 18 găuri cu obstacole de apă.",
                   "category": "family",
                   "coords": [
                         6.857224,
@@ -23201,7 +23201,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Märchenzoo Blauer See",
-                  "text": "Märchenzoo Blauer See din Ratingen este o destinație minunată pentru familii.",
+                  "text": "Grădina zoologică de basm de la Lacul Albastru din Ratingen, cu țarcuri pentru animale și personaje de basm precum Scufița Roșie.",
                   "category": "family",
                   "coords": [
                         6.862139,
@@ -23212,7 +23212,7 @@ export const germanyCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fliedner-See",
-                  "text": "A lake in Ratingen suitable for walks in nature.",
+                  "text": "Fliedner-See in Ratingen, an artificial lake with a walking path and benches.",
                   "category": "natural",
                   "coords": [
                         6.748828,
@@ -23248,7 +23248,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Membranbecken",
-                  "text": "A lake in Ratingen inviting for nature observations.",
+                  "text": "Membranbecken in Ratingen, a technical water treatment basin surrounded by green spaces.",
                   "category": "natural",
                   "coords": [
                         6.893419,
@@ -23320,7 +23320,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Minigolf Blauer See",
-                  "text": "The Minigolf Blauer See in Ratingen is a great destination for a family outing.",
+                  "text": "Mini golf at Blue Lake in Ratingen, an 18-hole course with water hazards.",
                   "category": "family",
                   "coords": [
                         6.857224,
@@ -23356,7 +23356,7 @@ export const germanyCitiesV2: POI[] = [
             },
             {
                   "name": "Märchenzoo Blauer See",
-                  "text": "The Märchenzoo Blauer See in Ratingen is a great destination for families.",
+                  "text": "Fairy tale zoo at Blue Lake in Ratingen, with animal enclosures and storybook characters like Little Red Riding Hood.",
                   "category": "family",
                   "coords": [
                         6.862139,

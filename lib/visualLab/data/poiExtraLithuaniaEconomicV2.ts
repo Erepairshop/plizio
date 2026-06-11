@@ -194,7 +194,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Maisiejūnų II piliakalnis",
-                  "text": "Ein historischer litauischer Burghügel in der Nähe von Kruonis.",
+                  "text": "Eine Hügelburg nahe Maisiejūnai, die zweite von zwei.",
                   "category": "historical",
                   "coords": [
                         24.265806,
@@ -212,7 +212,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Burčiakų piliakalnis",
-                  "text": "Ein befestigter Hügel aus der Eisenzeit in Litauen.",
+                  "text": "Eine Hügelburg nahe dem Dorf Burčiakai.",
                   "category": "historical",
                   "coords": [
                         24.274861,
@@ -248,7 +248,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Strėvos atodanga",
-                  "text": "Ein geologischer Aufschluss am Fluss Strėva.",
+                  "text": "Ein Sandsteinfelsen am Fluss Strėva.",
                   "category": "landmark",
                   "coords": [
                         24.25744,
@@ -268,7 +268,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Maisiejūnų II piliakalnis",
-                  "text": "Történelmi litván várhely Kruonis közelében.",
+                  "text": "Egy földvár Maisiejūnai közelében, a kettő közül a második.",
                   "category": "historical",
                   "coords": [
                         24.265806,
@@ -286,7 +286,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Burčiakų piliakalnis",
-                  "text": "Vaskori erődített domb Litvániában.",
+                  "text": "Egy földvár Burčiakai falu közelében.",
                   "category": "historical",
                   "coords": [
                         24.274861,
@@ -322,7 +322,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Strėvos atodanga",
-                  "text": "Geológiai feltárás a Strėva-folyó mentén.",
+                  "text": "Homokkő sziklafal a Strėva folyónál.",
                   "category": "landmark",
                   "coords": [
                         24.25744,
@@ -342,7 +342,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Maisiejūnų II piliakalnis",
-                  "text": "Un sit arheologic istoric lângă Kruonis, Lituania.",
+                  "text": "O fortificație de deal lângă Maisiejūnai, a doua dintre cele două.",
                   "category": "historical",
                   "coords": [
                         24.265806,
@@ -360,7 +360,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Burčiakų piliakalnis",
-                  "text": "O colină fortificată din epoca fierului în Lituania.",
+                  "text": "O fortificație de deal lângă satul Burčiakai.",
                   "category": "historical",
                   "coords": [
                         24.274861,
@@ -396,7 +396,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Strėvos atodanga",
-                  "text": "Un afloriment geologic pe malul râului Strėva.",
+                  "text": "O expunere de gresie pe râul Strėva.",
                   "category": "landmark",
                   "coords": [
                         24.25744,
@@ -416,7 +416,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Maisiejūnų II piliakalnis",
-                  "text": "A historical Lithuanian hillfort site near Kruonis.",
+                  "text": "A hillfort near Maisiejūnai, the second of two.",
                   "category": "historical",
                   "coords": [
                         24.265806,
@@ -434,7 +434,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Burčiakų piliakalnis",
-                  "text": "An Iron Age fortified hill in Lithuania.",
+                  "text": "A hillfort near Burčiakai village.",
                   "category": "historical",
                   "coords": [
                         24.274861,
@@ -470,7 +470,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Strėvos atodanga",
-                  "text": "A geological outcrop along the Strėva River.",
+                  "text": "A sandstone cliff exposure on the Strėva River.",
                   "category": "landmark",
                   "coords": [
                         24.25744,
@@ -612,7 +612,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Karmėlavos Šv. Onos bažnyčios šventoriaus vartai",
-                  "text": "Ein erhaltenes Tor der St.-Anna-Kirche in Karmėlava, ein lokales Baudenkmal.",
+                  "text": "Das Tor der St.-Anna-Kirche in Karmėlava, ein historisches Kirchentor bei Kaunas Fez.",
                   "category": "landmark",
                   "coords": [
                         24.061269,
@@ -677,7 +677,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Karmėlavos Šv. Onos bažnyčios šventoriaus vartai",
-                  "text": "A karmėlavai Szent Anna-templom fennmaradt kapuja, helyi építészeti emlék.",
+                  "text": "A Karmėlava-i Szent Anna-templom kapuja, egy történelmi templomkapu Kaunas Fez közelében.",
                   "category": "landmark",
                   "coords": [
                         24.061269,
@@ -742,7 +742,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Karmėlavos Šv. Onos bažnyčios šventoriaus vartai",
-                  "text": "O poartă conservată a bisericii Sfânta Ana din Karmėlava, un monument local.",
+                  "text": "Poarta Bisericii Sf. Ana din Karmėlava, o poartă istorică de biserică lângă Kaunas Fez.",
                   "category": "landmark",
                   "coords": [
                         24.061269,
@@ -807,7 +807,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Gate of St. Anne's Church in Karmėlava",
-                  "text": "A preserved gate of St. Anne's Church in Karmėlava, a local architectural landmark.",
+                  "text": "Gate of St. Anne's Church in Karmėlava, a historic church gate near Kaunas Fez.",
                   "category": "landmark",
                   "coords": [
                         24.061269,
@@ -986,7 +986,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Rėkyvos ežero paplūdimys",
-                  "text": "Strand am Rėkyva-See beim Industriepark Šiauliai.",
+                  "text": "Der Rėkyva-See-Strand, ein beliebter Sandstrand am Rėkyva-See im Industriegebiet Šiauliai.",
                   "category": "recreational",
                   "coords": [
                         23.328154,
@@ -995,7 +995,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Maudyklės",
-                  "text": "Badebereich beim Industriepark Šiauliai.",
+                  "text": "Maudyklės, mehrere Badeplätze in der Industriezone Šiauliai.",
                   "category": "recreational",
                   "coords": [
                         23.332963,
@@ -1004,7 +1004,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Pabalių paplūdimys",
-                  "text": "Strand Pabaliai beim Industriepark Šiauliai.",
+                  "text": "Der Pabaliai-Strand, ein Erholungsstrand an einem See nahe dem Industriegebiet Šiauliai.",
                   "category": "recreational",
                   "coords": [
                         23.303542,
@@ -1015,7 +1015,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Rėkyvos ežero paplūdimys",
-                  "text": "Rėkyva-tavi strand a Šiauliai ipari parknál.",
+                  "text": "A Rėkyva-tó strand, egy népszerű homokos strand a Rėkyva-tónál a Šiauliai Ipari Parkban.",
                   "category": "recreational",
                   "coords": [
                         23.328154,
@@ -1024,7 +1024,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Maudyklės",
-                  "text": "Fürdőhely a Šiauliai ipari parknál.",
+                  "text": "Maudyklės, több fürdőhely a Šiauliai Ipari Park zónájában.",
                   "category": "recreational",
                   "coords": [
                         23.332963,
@@ -1033,7 +1033,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Pabalių paplūdimys",
-                  "text": "Pabaliai strand a Šiauliai ipari parknál.",
+                  "text": "A Pabaliai strand, egy rekreációs strand egy tó mellett a Šiauliai Ipari Park közelében.",
                   "category": "recreational",
                   "coords": [
                         23.303542,
@@ -1044,7 +1044,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Rėkyvos ežero paplūdimys",
-                  "text": "Plaja lacului Rėkyva lângă parcul industrial Šiauliai.",
+                  "text": "Plaja lacului Rėkyva, o plajă nisipoasă populară pe lacul Rėkyva în Parcul Industrial Šiauliai.",
                   "category": "recreational",
                   "coords": [
                         23.328154,
@@ -1053,7 +1053,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Maudyklės",
-                  "text": "Zonă de îmbăiere lângă parcul industrial Šiauliai.",
+                  "text": "Maudyklės, câteva zone de înot în zona Parcului Industrial Šiauliai.",
                   "category": "recreational",
                   "coords": [
                         23.332963,
@@ -1062,7 +1062,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Pabalių paplūdimys",
-                  "text": "Plaja Pabaliai lângă parcul industrial Šiauliai.",
+                  "text": "Plaja Pabaliai, o plajă de agrement pe un lac lângă Parcul Industrial Šiauliai.",
                   "category": "recreational",
                   "coords": [
                         23.303542,
@@ -1073,7 +1073,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Rėkyvos ežero paplūdimys",
-                  "text": "Rėkyva lake beach near Šiauliai Industrial Park.",
+                  "text": "Rėkyva Lake beach, a popular sandy beach on Lake Rėkyva in Šiauliai Industrial Park.",
                   "category": "recreational",
                   "coords": [
                         23.328154,
@@ -1082,7 +1082,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Maudyklės",
-                  "text": "Bathing beach near Šiauliai Industrial Park.",
+                  "text": "Maudyklės, several swimming areas in the Šiauliai Industrial Park zone.",
                   "category": "recreational",
                   "coords": [
                         23.332963,
@@ -1091,7 +1091,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Pabalių paplūdimys",
-                  "text": "Pabalių beach near Šiauliai Industrial Park.",
+                  "text": "Pabaliai beach, a recreational beach on a lake near Šiauliai Industrial Park.",
                   "category": "recreational",
                   "coords": [
                         23.303542,
@@ -1962,7 +1962,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Vieškūnų piliakalnis",
-                  "text": "Eine historische archäologische Stätte eines ehemaligen Burgwalls.",
+                  "text": "Eine Hügelburg nahe dem Dorf Vieškūnai.",
                   "category": "historical",
                   "coords": [
                         24.050472,
@@ -2016,7 +2016,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Lakštingalų slėnis",
-                  "text": "Ein malerisches Tal, das als schöner Aussichtspunkt dient.",
+                  "text": "Lakštingalų slėnis, ein nachtigallenreiches Tal nahe dem Kaunas-Intermodalterminal.",
                   "category": "natural",
                   "coords": [
                         24.063585,
@@ -2025,7 +2025,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tiltas per Kruną",
-                  "text": "Eine Brücke über den Fluss Kruna in der Region Kaunas.",
+                  "text": "Eine Brücke über den Fluss Kruna.",
                   "category": "landmark",
                   "coords": [
                         24.100612,
@@ -2034,7 +2034,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Perlinių danielių parkas",
-                  "text": "Ein Wildgehege beim Kaunas Intermodal Terminal.",
+                  "text": "Der Perlinių danielių parkas, ein Damhirschpark mit Perlenhirschen nahe dem Kaunas-Intermodalterminal.",
                   "category": "recreational",
                   "coords": [
                         24.154733,
@@ -2045,7 +2045,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Vieškūnų piliakalnis",
-                  "text": "Egy egykori várhely történelmi régészeti lelőhelye.",
+                  "text": "Egy földvár Vieškūnai falu közelében.",
                   "category": "historical",
                   "coords": [
                         24.050472,
@@ -2099,7 +2099,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Lakštingalų slėnis",
-                  "text": "Festői völgy, amely szép kilátóhelyként szolgál.",
+                  "text": "Lakštingalų slėnis, egy csalogányokkal teli völgy a Kaunas Intermodális Terminál közelében.",
                   "category": "natural",
                   "coords": [
                         24.063585,
@@ -2108,7 +2108,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tiltas per Kruną",
-                  "text": "Híd a Kruna-folyó felett a Kaunas-régióban.",
+                  "text": "Híd a Kruna folyón.",
                   "category": "landmark",
                   "coords": [
                         24.100612,
@@ -2117,7 +2117,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Perlinių danielių parkas",
-                  "text": "Állatkert a kaunasi intermodális terminálnál.",
+                  "text": "A Perlinių danielių parkas, egy dámvadas park gyöngyszarvasokkal a Kaunas Intermodális Terminál közelében.",
                   "category": "recreational",
                   "coords": [
                         24.154733,
@@ -2128,7 +2128,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Vieškūnų piliakalnis",
-                  "text": "Un sit arheologic istoric al unei foste așezări fortificate.",
+                  "text": "O fortificație de deal lângă satul Vieškūnai.",
                   "category": "historical",
                   "coords": [
                         24.050472,
@@ -2182,7 +2182,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Lakštingalų slėnis",
-                  "text": "O vale pitorească ce servește drept punct de observație frumos.",
+                  "text": "Lakštingalų slėnis, o vale plină de privighetoare lângă Terminalul Intermodal Kaunas.",
                   "category": "natural",
                   "coords": [
                         24.063585,
@@ -2191,7 +2191,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tiltas per Kruną",
-                  "text": "Un pod peste râul Kruna în regiunea Kaunas.",
+                  "text": "Un pod peste râul Kruna.",
                   "category": "landmark",
                   "coords": [
                         24.100612,
@@ -2200,7 +2200,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Perlinių danielių parkas",
-                  "text": "O grădină zoologică lângă Terminalul Intermodal Kaunas.",
+                  "text": "Parcul Perlinių danielių, un parc cu cerbi lopătari (daniele) lângă Terminalul Intermodal Kaunas.",
                   "category": "recreational",
                   "coords": [
                         24.154733,
@@ -2211,7 +2211,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Vieškūnų piliakalnis",
-                  "text": "A historic archaeological site of a former hillfort.",
+                  "text": "A hillfort near Vieškūnai village.",
                   "category": "historical",
                   "coords": [
                         24.050472,
@@ -2265,7 +2265,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Lakštingalų slėnis",
-                  "text": "A scenic valley that serves as a beautiful viewpoint.",
+                  "text": "Lakštingalų slėnis, a nightingale-filled valley near the Kaunas Intermodal Terminal.",
                   "category": "natural",
                   "coords": [
                         24.063585,
@@ -2274,7 +2274,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tiltas per Kruną",
-                  "text": "A bridge over the Kruna river in the Kaunas region.",
+                  "text": "A bridge over the Kruna River.",
                   "category": "landmark",
                   "coords": [
                         24.100612,
@@ -2283,7 +2283,7 @@ export const lithuaniaEconomicV2: POI[] = [
             },
             {
                   "name": "Perlinių danielių parkas",
-                  "text": "A zoo near the Kaunas Intermodal Terminal.",
+                  "text": "Perlinių danielių parkas, a fallow deer park near the Kaunas Intermodal Terminal.",
                   "category": "recreational",
                   "coords": [
                         24.154733,
@@ -2924,7 +2924,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Panevėžio nudistų paplūdimys",
-                  "text": "FKK-Strand Panevėžys beim Industriestandort Panevėžys.",
+                  "text": "Nudistenstrand im Industriegebiet von Panevėžys.",
                   "category": "recreational",
                   "coords": [
                         24.399724,
@@ -2935,7 +2935,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Panevėžio nudistų paplūdimys",
-                  "text": "Panevėžys nudista strand az ipari központnál.",
+                  "text": "Nudista strand Panevėžys ipari negyedében.",
                   "category": "recreational",
                   "coords": [
                         24.399724,
@@ -2946,7 +2946,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Panevėžio nudistų paplūdimys",
-                  "text": "Plaja de nudiști Panevėžys lângă zona industrială Panevėžys.",
+                  "text": "Plajă nudistă în zona industrială Panevėžys.",
                   "category": "recreational",
                   "coords": [
                         24.399724,
@@ -2957,7 +2957,7 @@ export const lithuaniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Panevėžio nudistų paplūdimys",
-                  "text": "Panevėžys nudist beach near Panevezys Industrial Hub.",
+                  "text": "Nudist beach located in the Panevėžys industrial hub.",
                   "category": "recreational",
                   "coords": [
                         24.399724,

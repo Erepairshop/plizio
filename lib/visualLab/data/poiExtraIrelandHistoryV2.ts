@@ -201,7 +201,268 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-skellig-michael-history-v2.webp",
   },
   {
-    id: "ireland-duncannon-fort-history-v2", "sights": {"de": [{"name": "Dromina Strand", "text": "Dromina Strand ruht in der Nähe des historischen Duncannon Forts und präsentiert sich als malerischer Abschnitt der irischen Küste. Gäste können sich auf friedliche Spaziergänge am Meer freuen, begleitet vom sanften Rauschen der Wellen. Die Gegend bietet einen schönen Kontrast zwischen der rauen Natur und der nahegelegenen historischen Stätte. Es empfiehlt sich, die geschichtliche Erkundung mit einem entspannten Strandbesuch zu verbinden.", "category": "recreational", "coords": [-6.973323, 52.206045]}, {"name": "Raheen Strand", "text": "Vor der Kulisse der Gegend um das Duncannon Fort entfaltet sich der Raheen Strand als charmanter Küstenabschnitt in Irland. Das einladende Ufer eignet sich bestens für entspannte Ausflüge und lässt Besucher die frische Meeresluft tief einatmen. Er verströmt eine ruhige Atmosphäre, die besonders Menschen anspricht, die ein entschleunigtes Erlebnis am Meer suchen. Ein sanfter Morgenspaziergang ist ideal, um die natürliche Schönheit zu würdigen.", "category": "recreational", "coords": [-6.976552, 52.213679]}, {"name": "Woodstown Strand", "text": "Nicht weit vom Duncannon Fort entfernt, erstreckt sich der Woodstown Strand elegant an der irischen Küste. Die weite Landschaft bietet viel Platz, um umherzuschweifen, die Gezeiten zu beobachten und die maritime Umgebung zu genießen. Die Atmosphäre ist hier meist sehr friedlich, was den Strand zu einem wunderbaren Rückzugsort macht. Ein Besuch am späten Nachmittag hüllt das Wasser oft in ein besonders weiches Licht.", "category": "recreational", "coords": [-6.976572, 52.197125]}, {"name": "Dollar Bay Beach", "text": "Gut versteckt in der Nähe des Duncannon Forts, entpuppt sich Dollar Bay Beach als abgelegenes Juwel der irischen Küste. Besucher können die intime, buchtartige Umgebung erkunden, die sich wunderbar geschützt und friedlich anfühlt. Es ist ein perfektes Ziel für ruhige Küstenwanderungen und um die raue Meereslandschaft auf sich wirken zu lassen. Ein Blick auf den Gezeitenkalender hilft dabei, den Besuch in dieser malerischen Bucht optimal zu planen.", "category": "recreational", "coords": [-6.90336, 52.196697]}, {"name": "Booley Bay Beach", "text": "In der Umgebung des Duncannon Forts gelegen, besticht der Booley Bay Beach durch seine beeindruckende natürliche Umgebung am Meer. Gäste entdecken hier einen ruhigen Sandstrand, der von markanten Küstenformationen gesäumt wird. Der Ort inspiriert zu ruhigen Momenten und ist ideal für einen entspannten Spaziergang am Ozean. Bei Ebbe zeigt sich die dramatische Küstenlinie mit ihren faszinierenden Gezeitentümpeln von ihrer besten Seite.", "category": "recreational", "coords": [-6.904723, 52.20099]}, {"name": "Arthurstown Beach", "text": "Als Teil der Küstenlandschaft in der Nähe des Duncannon Forts ist der Arthurstown Beach ein ruhiger Rückzugsort am Meer. Das Ufer lädt Besucher zu sanften Spaziergängen ein, während sie das lokale maritime Umfeld bewundern. Abseits der großen Touristenpfade bietet sich hier ein entspannender Ort, um einfach mal durchzuatmen. Bequeme Schuhe sind empfehlenswert, um die feine Schönheit dieses irischen Strandes in Ruhe zu erkunden.", "category": "recreational", "coords": [-6.953794, 52.242241]}, {"name": "Duncannon", "text": "Strand bei Duncannon Fort.", "category": "recreational", "coords": [-6.928816, 52.219041]}], "hu": [{"name": "Dromina Strand", "text": "A történelmi Duncannon Fort közelében elterülő Dromina Strand az ír partvidék egyik szép szakasza. A vendégek békés sétákra számíthatnak a part mentén, miközben a hullámok lágy hangját hallgatják. A terület gyönyörű kontrasztot teremt a természeti környezet és a közeli örökségi helyszín között. Érdemes a történelmi felfedezést egy pihentető itteni sétával egybekötni.", "category": "recreational", "coords": [-6.973323, 52.206045]}, {"name": "Raheen Strand", "text": "A Duncannon Fort térségének hátterében elhelyezkedő Raheen Strand egy bájos ír tengerparti szakasz. A hívogató part kiválóan alkalmas nyugodt kirándulásokra, lehetőséget adva a friss tengeri levegő mély belélegzésére. Csendes atmoszférája vonzza azokat, akik egy sietség nélküli, tengerparti élményre vágynak. Egy kellemes reggeli séta kifejezetten ajánlott a természeti szépség értékeléséhez.", "category": "recreational", "coords": [-6.976552, 52.213679]}, {"name": "Woodstown Strand", "text": "A Duncannon Forttól nem messze található Woodstown Strand elegánsan nyúlik el az ír partvonalon. A nyitott táj bőséges teret kínál a látogatóknak a sétához, az árapály megfigyeléséhez és a tengeri környezet élvezetéhez. A légkör általában rendkívül békés, így csodálatos menedéket nyújt a rohanó mindennapok elől. Érkezzen késő délután, hogy megtapasztalhassa a vízen tükröződő lágy fényeket.", "category": "recreational", "coords": [-6.976572, 52.197125]}, {"name": "Dollar Bay Beach", "text": "A Duncannon Fort közelében megbúvó Dollar Bay Beach egy eldugott gyöngyszem az ír tengerparton. A látogatók felfedezhetik a meghitt, öbölszerű környezetet, amely csodálatosan védett és békés érzést nyújt. Tökéletes úti cél csendes parti sétákhoz és a zord tengeri táj élvezetéhez. Érdemes figyelni az árapály menetrendjét, hogy a legtöbbet hozhassa ki az öböl nyújtotta élményből.", "category": "recreational", "coords": [-6.90336, 52.196697]}, {"name": "Booley Bay Beach", "text": "A Duncannon Fort környékén található Booley Bay Beach lenyűgöző természeti környezetet kínál a tenger mentén. A vendégek egy nyugodt homokos partszakaszt fedezhetnek fel, amelyet látványos parti képződmények szegélyeznek. A hely csendes elmélkedésre inspirál, és ideális egy sietség nélküli sétához az óceán mellett. Apály idején a drámai partvonal és az izgalmas árapály-medencék még inkább megmutatkoznak.", "category": "recreational", "coords": [-6.904723, 52.20099]}, {"name": "Arthurstown Beach", "text": "A Duncannon Fort közeli partvidék részét képező Arthurstown Beach egy csendes tengerparti menedék. A part hívogató a kellemes sétákhoz, miközben a látogatók a helyi tengeri környezetben gyönyörködhetnek. Pihentető hely, távol a főbb turistaútvonalaktól, tökéletes egy kis fellélegzésre. Hozzon magával kényelmes cipőt, hogy teljes mértékben felfedezhesse ennek az ír partszakasznak a finom szépségét.", "category": "recreational", "coords": [-6.953794, 52.242241]}, {"name": "Duncannon", "text": "Strand Duncannon Fort közelében.", "category": "recreational", "coords": [-6.928816, 52.219041]}], "ro": [{"name": "Dromina Strand", "text": "Aflată în apropierea istoricului Duncannon Fort, Dromina Strand reprezintă un segment minunat al țărmului irlandez. Oaspeții se pot bucura de plimbări pașnice de-a lungul coastei, însoțiți de sunetul blând al valurilor. Zona oferă un contrast frumos între mediul natural și situl de patrimoniu din apropiere. Luați în considerare combinarea explorării istorice cu o plimbare relaxantă aici.", "category": "recreational", "coords": [-6.973323, 52.206045]}, {"name": "Raheen Strand", "text": "Având ca fundal zona Duncannon Fort, Raheen Strand este o porțiune de coastă plină de farmec din Irlanda. Țărmul primitor este potrivit pentru ieșiri relaxate, oferind vizitatorilor șansa de a respira aerul proaspăt al mării. Are o atmosferă liniștită care îi atrage pe cei care caută o experiență fără grabă la malul mării. O plimbare ușoară dimineața este foarte recomandată pentru a-i aprecia frumusețea.", "category": "recreational", "coords": [-6.976552, 52.213679]}, {"name": "Woodstown Strand", "text": "Nu departe de Duncannon Fort, Woodstown Strand se întinde elegant de-a lungul coastei irlandeze. Peisajul deschis oferă un spațiu amplu pentru vizitatori să se plimbe, să observe mareele și să se bucure de cadrul marin. Atmosfera tinde să fie destul de pașnică, transformând locul într-un refugiu minunat din viața de zi cu zi. Ajungeți la sfârșitul după-amiezii pentru a vedea lumina blândă reflectându-se pe apă.", "category": "recreational", "coords": [-6.976572, 52.197125]}, {"name": "Dollar Bay Beach", "text": "Ascunsă frumos lângă Duncannon Fort, plaja Dollar Bay este o bijuterie retrasă pe coasta irlandeză. Vizitatorii pot explora cadrul intim asemănător unui golfuleț, care pare minunat de protejat și liniștit. Este o destinație perfectă pentru plimbări tăcute pe coastă și pentru a vă bucura de peisajul marin aspru. Urmăriți programul mareelor pentru a profita la maximum de vizita în acest golf fermecător.", "category": "recreational", "coords": [-6.90336, 52.196697]}, {"name": "Booley Bay Beach", "text": "Situată în vecinătatea Duncannon Fort, plaja Booley Bay oferă un mediu natural remarcabil de-a lungul mării. Oaspeții vor descoperi o întindere senină de nisip, mărginită de formațiuni de coastă impresionante. Locația inspiră la o reflecție liniștită și este ideală pentru o plimbare pe îndelete pe malul oceanului. Vizitarea în timpul refluxului dezvăluie și mai mult din țărmul dramatic și din fascinantele ochiuri de apă.", "category": "recreational", "coords": [-6.904723, 52.20099]}, {"name": "Arthurstown Beach", "text": "Făcând parte din peisajul de coastă de lângă Duncannon Fort, plaja Arthurstown este o retragere pașnică la malul mării. Țărmul invită vizitatorii să facă plimbări ușoare, admirând totodată mediul maritim local. Este un loc de relaxare departe de traseele turistice majore, perfect pentru a lua un moment de respiro. Purtați încălțăminte confortabilă pentru a explora pe deplin frumusețea subtilă a acestei plaje irlandeze.", "category": "recreational", "coords": [-6.953794, 52.242241]}, {"name": "Duncannon", "text": "Plajă lângă Duncannon Fort.", "category": "recreational", "coords": [-6.928816, 52.219041]}], "en": [{"name": "Dromina Strand", "text": "Resting near the historic Duncannon Fort, Dromina Strand presents a lovely segment of the Irish shoreline. Guests can look forward to peaceful walks along the coast, accompanied by the gentle sound of the waves. The area provides a beautiful contrast between the natural environment and the nearby heritage site. Consider combining your historical exploration with a relaxing stroll here.", "category": "recreational", "coords": [-6.973323, 52.206045]}, {"name": "Raheen Strand", "text": "Set against the backdrop of the Duncannon Fort area, Raheen Strand is a charming coastal stretch in Ireland. The welcoming shore is well-suited for relaxed outings, offering visitors the chance to breathe in the fresh sea air. It has a tranquil atmosphere that appeals to those seeking an unhurried seaside experience. A gentle morning walk is highly recommended to fully appreciate its natural beauty.", "category": "recreational", "coords": [-6.976552, 52.213679]}, {"name": "Woodstown Strand", "text": "Not far from Duncannon Fort, Woodstown Strand stretches elegantly along the Irish coastline. The open landscape provides ample space for visitors to wander, observe the local tides, and enjoy the marine setting. The atmosphere tends to be quite peaceful, making it a wonderful retreat from busy daily life. Arrive in the late afternoon to experience the soft light reflecting off the water.", "category": "recreational", "coords": [-6.976572, 52.197125]}, {"name": "Dollar Bay Beach", "text": "Tucked neatly near Duncannon Fort, Dollar Bay Beach is a secluded gem on the Irish coast. Visitors can explore the intimate cove-like setting, which feels wonderfully sheltered and peaceful. It is a perfect destination for quiet coastal walks and enjoying the rugged marine scenery. Keep an eye on the tide schedule to make the most of your visit to this charming bay.", "category": "recreational", "coords": [-6.90336, 52.196697]}, {"name": "Booley Bay Beach", "text": "Situated in the vicinity of Duncannon Fort, Booley Bay Beach offers a striking natural environment along the sea. Guests will discover a serene stretch of sand bordered by impressive coastal formations. The location inspires quiet reflection and is ideal for an unhurried walk by the ocean. Visiting during low tide reveals even more of the dramatic shoreline and fascinating tidal pools.", "category": "recreational", "coords": [-6.904723, 52.20099]}, {"name": "Arthurstown Beach", "text": "Forming part of the coastal landscape near Duncannon Fort, Arthurstown Beach is a quiet seaside retreat. The shoreline invites visitors to take gentle strolls while admiring the local maritime environment. It is a relaxing spot away from the major tourist paths, perfect for taking a moment to breathe. Bring comfortable walking shoes to fully explore the subtle beauty of this Irish strand.", "category": "recreational", "coords": [-6.953794, 52.242241]}, {"name": "Duncannon", "text": "Beach near Duncannon Fort.", "category": "recreational", "coords": [-6.928816, 52.219041]}]},
+    id: "ireland-duncannon-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "Dromina Strand ruht in der Nähe des historischen Duncannon Forts und präsentiert sich als malerischer Abschnitt der irischen Küste. Gäste können sich auf friedliche Spaziergänge am Meer freuen, begleitet vom sanften Rauschen der Wellen. Die Gegend bietet einen schönen Kontrast zwischen der rauen Natur und der nahegelegenen historischen Stätte. Es empfiehlt sich, die geschichtliche Erkundung mit einem entspannten Strandbesuch zu verbinden.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "Vor der Kulisse der Gegend um das Duncannon Fort entfaltet sich der Raheen Strand als charmanter Küstenabschnitt in Irland. Das einladende Ufer eignet sich bestens für entspannte Ausflüge und lässt Besucher die frische Meeresluft tief einatmen. Er verströmt eine ruhige Atmosphäre, die besonders Menschen anspricht, die ein entschleunigtes Erlebnis am Meer suchen. Ein sanfter Morgenspaziergang ist ideal, um die natürliche Schönheit zu würdigen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "Nicht weit vom Duncannon Fort entfernt, erstreckt sich der Woodstown Strand elegant an der irischen Küste. Die weite Landschaft bietet viel Platz, um umherzuschweifen, die Gezeiten zu beobachten und die maritime Umgebung zu genießen. Die Atmosphäre ist hier meist sehr friedlich, was den Strand zu einem wunderbaren Rückzugsort macht. Ein Besuch am späten Nachmittag hüllt das Wasser oft in ein besonders weiches Licht.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "Gut versteckt in der Nähe des Duncannon Forts, entpuppt sich Dollar Bay Beach als abgelegenes Juwel der irischen Küste. Besucher können die intime, buchtartige Umgebung erkunden, die sich wunderbar geschützt und friedlich anfühlt. Es ist ein perfektes Ziel für ruhige Küstenwanderungen und um die raue Meereslandschaft auf sich wirken zu lassen. Ein Blick auf den Gezeitenkalender hilft dabei, den Besuch in dieser malerischen Bucht optimal zu planen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "In der Umgebung des Duncannon Forts gelegen, besticht der Booley Bay Beach durch seine beeindruckende natürliche Umgebung am Meer. Gäste entdecken hier einen ruhigen Sandstrand, der von markanten Küstenformationen gesäumt wird. Der Ort inspiriert zu ruhigen Momenten und ist ideal für einen entspannten Spaziergang am Ozean. Bei Ebbe zeigt sich die dramatische Küstenlinie mit ihren faszinierenden Gezeitentümpeln von ihrer besten Seite.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Als Teil der Küstenlandschaft in der Nähe des Duncannon Forts ist der Arthurstown Beach ein ruhiger Rückzugsort am Meer. Das Ufer lädt Besucher zu sanften Spaziergängen ein, während sie das lokale maritime Umfeld bewundern. Abseits der großen Touristenpfade bietet sich hier ein entspannender Ort, um einfach mal durchzuatmen. Bequeme Schuhe sind empfehlenswert, um die feine Schönheit dieses irischen Strandes in Ruhe zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Duncannon, ein Erholungsgebiet am Fort Duncannon mit Küstenwegen und Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "A történelmi Duncannon Fort közelében elterülő Dromina Strand az ír partvidék egyik szép szakasza. A vendégek békés sétákra számíthatnak a part mentén, miközben a hullámok lágy hangját hallgatják. A terület gyönyörű kontrasztot teremt a természeti környezet és a közeli örökségi helyszín között. Érdemes a történelmi felfedezést egy pihentető itteni sétával egybekötni.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "A Duncannon Fort térségének hátterében elhelyezkedő Raheen Strand egy bájos ír tengerparti szakasz. A hívogató part kiválóan alkalmas nyugodt kirándulásokra, lehetőséget adva a friss tengeri levegő mély belélegzésére. Csendes atmoszférája vonzza azokat, akik egy sietség nélküli, tengerparti élményre vágynak. Egy kellemes reggeli séta kifejezetten ajánlott a természeti szépség értékeléséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "A Duncannon Forttól nem messze található Woodstown Strand elegánsan nyúlik el az ír partvonalon. A nyitott táj bőséges teret kínál a látogatóknak a sétához, az árapály megfigyeléséhez és a tengeri környezet élvezetéhez. A légkör általában rendkívül békés, így csodálatos menedéket nyújt a rohanó mindennapok elől. Érkezzen késő délután, hogy megtapasztalhassa a vízen tükröződő lágy fényeket.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "A Duncannon Fort közelében megbúvó Dollar Bay Beach egy eldugott gyöngyszem az ír tengerparton. A látogatók felfedezhetik a meghitt, öbölszerű környezetet, amely csodálatosan védett és békés érzést nyújt. Tökéletes úti cél csendes parti sétákhoz és a zord tengeri táj élvezetéhez. Érdemes figyelni az árapály menetrendjét, hogy a legtöbbet hozhassa ki az öböl nyújtotta élményből.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "A Duncannon Fort környékén található Booley Bay Beach lenyűgöző természeti környezetet kínál a tenger mentén. A vendégek egy nyugodt homokos partszakaszt fedezhetnek fel, amelyet látványos parti képződmények szegélyeznek. A hely csendes elmélkedésre inspirál, és ideális egy sietség nélküli sétához az óceán mellett. Apály idején a drámai partvonal és az izgalmas árapály-medencék még inkább megmutatkoznak.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "A Duncannon Fort közeli partvidék részét képező Arthurstown Beach egy csendes tengerparti menedék. A part hívogató a kellemes sétákhoz, miközben a látogatók a helyi tengeri környezetben gyönyörködhetnek. Pihentető hely, távol a főbb turistaútvonalaktól, tökéletes egy kis fellélegzésre. Hozzon magával kényelmes cipőt, hogy teljes mértékben felfedezhesse ennek az ír partszakasznak a finom szépségét.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Duncannon, egy rekreációs terület a Duncannon erődnél, tengerparti sétányokkal és stranddal.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "Aflată în apropierea istoricului Duncannon Fort, Dromina Strand reprezintă un segment minunat al țărmului irlandez. Oaspeții se pot bucura de plimbări pașnice de-a lungul coastei, însoțiți de sunetul blând al valurilor. Zona oferă un contrast frumos între mediul natural și situl de patrimoniu din apropiere. Luați în considerare combinarea explorării istorice cu o plimbare relaxantă aici.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "Având ca fundal zona Duncannon Fort, Raheen Strand este o porțiune de coastă plină de farmec din Irlanda. Țărmul primitor este potrivit pentru ieșiri relaxate, oferind vizitatorilor șansa de a respira aerul proaspăt al mării. Are o atmosferă liniștită care îi atrage pe cei care caută o experiență fără grabă la malul mării. O plimbare ușoară dimineața este foarte recomandată pentru a-i aprecia frumusețea.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "Nu departe de Duncannon Fort, Woodstown Strand se întinde elegant de-a lungul coastei irlandeze. Peisajul deschis oferă un spațiu amplu pentru vizitatori să se plimbe, să observe mareele și să se bucure de cadrul marin. Atmosfera tinde să fie destul de pașnică, transformând locul într-un refugiu minunat din viața de zi cu zi. Ajungeți la sfârșitul după-amiezii pentru a vedea lumina blândă reflectându-se pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "Ascunsă frumos lângă Duncannon Fort, plaja Dollar Bay este o bijuterie retrasă pe coasta irlandeză. Vizitatorii pot explora cadrul intim asemănător unui golfuleț, care pare minunat de protejat și liniștit. Este o destinație perfectă pentru plimbări tăcute pe coastă și pentru a vă bucura de peisajul marin aspru. Urmăriți programul mareelor pentru a profita la maximum de vizita în acest golf fermecător.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "Situată în vecinătatea Duncannon Fort, plaja Booley Bay oferă un mediu natural remarcabil de-a lungul mării. Oaspeții vor descoperi o întindere senină de nisip, mărginită de formațiuni de coastă impresionante. Locația inspiră la o reflecție liniștită și este ideală pentru o plimbare pe îndelete pe malul oceanului. Vizitarea în timpul refluxului dezvăluie și mai mult din țărmul dramatic și din fascinantele ochiuri de apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Făcând parte din peisajul de coastă de lângă Duncannon Fort, plaja Arthurstown este o retragere pașnică la malul mării. Țărmul invită vizitatorii să facă plimbări ușoare, admirând totodată mediul maritim local. Este un loc de relaxare departe de traseele turistice majore, perfect pentru a lua un moment de respiro. Purtați încălțăminte confortabilă pentru a explora pe deplin frumusețea subtilă a acestei plaje irlandeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Duncannon, o zonă de agrement la Fortul Duncannon, cu promenade costiere și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "Resting near the historic Duncannon Fort, Dromina Strand presents a lovely segment of the Irish shoreline. Guests can look forward to peaceful walks along the coast, accompanied by the gentle sound of the waves. The area provides a beautiful contrast between the natural environment and the nearby heritage site. Consider combining your historical exploration with a relaxing stroll here.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "Set against the backdrop of the Duncannon Fort area, Raheen Strand is a charming coastal stretch in Ireland. The welcoming shore is well-suited for relaxed outings, offering visitors the chance to breathe in the fresh sea air. It has a tranquil atmosphere that appeals to those seeking an unhurried seaside experience. A gentle morning walk is highly recommended to fully appreciate its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "Not far from Duncannon Fort, Woodstown Strand stretches elegantly along the Irish coastline. The open landscape provides ample space for visitors to wander, observe the local tides, and enjoy the marine setting. The atmosphere tends to be quite peaceful, making it a wonderful retreat from busy daily life. Arrive in the late afternoon to experience the soft light reflecting off the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "Tucked neatly near Duncannon Fort, Dollar Bay Beach is a secluded gem on the Irish coast. Visitors can explore the intimate cove-like setting, which feels wonderfully sheltered and peaceful. It is a perfect destination for quiet coastal walks and enjoying the rugged marine scenery. Keep an eye on the tide schedule to make the most of your visit to this charming bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "Situated in the vicinity of Duncannon Fort, Booley Bay Beach offers a striking natural environment along the sea. Guests will discover a serene stretch of sand bordered by impressive coastal formations. The location inspires quiet reflection and is ideal for an unhurried walk by the ocean. Visiting during low tide reveals even more of the dramatic shoreline and fascinating tidal pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Forming part of the coastal landscape near Duncannon Fort, Arthurstown Beach is a quiet seaside retreat. The shoreline invites visitors to take gentle strolls while admiring the local maritime environment. It is a relaxing spot away from the major tourist paths, perfect for taking a moment to breathe. Bring comfortable walking shoes to fully explore the subtle beauty of this Irish strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Duncannon, a recreational area at Duncannon Fort offering coastal walks and beach.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IE",
     name: { de: "Duncannon Fort", hu: "Duncannon erőd", ro: "Fortăreața Duncannon", en: "Duncannon Fort" },
@@ -349,7 +610,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Church",
-                  "text": "Ein historisches Kirchengebäude in der Stadt Ferns.",
+                  "text": "Mittelalterliche Kirche in der Nähe von Ferns Castle, Nationaldenkmal.",
                   "category": "religious",
                   "coords": [
                         -6.490499,
@@ -414,7 +675,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Church",
-                  "text": "Történelmi templomépület Ferns városában.",
+                  "text": "Középkori templom Ferns Castle közelében, nemzeti emlékmű.",
                   "category": "religious",
                   "coords": [
                         -6.490499,
@@ -479,7 +740,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Church",
-                  "text": "O clădire bisericească istorică situată în orașul Ferns.",
+                  "text": "Biserică medievală lângă Castelul Ferns, monument național.",
                   "category": "religious",
                   "coords": [
                         -6.490499,
@@ -544,7 +805,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Church",
-                  "text": "A historic church building located in the town of Ferns.",
+                  "text": "Medieval church near Ferns Castle, a national monument.",
                   "category": "religious",
                   "coords": [
                         -6.490499,
@@ -1771,7 +2032,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kells Priory Mill Museum",
-                  "text": "Ein Museum in einer ehemaligen Mühle, das die lokale Geschichte bei Kells Priory zeigt.",
+                  "text": "Kells-Priory-Mühlenmuseum, in den mittelalterlichen Prioreigebäuden mit landwirtschaftlichen Geräten.",
                   "category": "museum",
                   "coords": [
                         -7.271321,
@@ -1845,7 +2106,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kells Priory Mill Museum",
-                  "text": "Egy egykori malomban berendezett múzeum, amely a Kells-perjelség környékének történetét mutatja be.",
+                  "text": "Kells Priory Malommúzeum, a középkori prépostság épületeiben mezőgazdasági gépekkel.",
                   "category": "museum",
                   "coords": [
                         -7.271321,
@@ -1919,7 +2180,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kells Priory Mill Museum",
-                  "text": "Un muzeu situat într-o fostă moară, care prezintă istoria locală lângă Abația Kells.",
+                  "text": "Muzeul Morii Kells Priory, situat în clădirile medievale ale mănăstirii, cu utilaje agricole.",
                   "category": "museum",
                   "coords": [
                         -7.271321,
@@ -1993,7 +2254,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kells Priory Mill Museum",
-                  "text": "A museum located in a former mill, showcasing local history near Kells Priory.",
+                  "text": "Kells Priory Mill Museum, located in the medieval priory buildings, displays farming equipment.",
                   "category": "museum",
                   "coords": [
                         -7.271321,
@@ -2095,7 +2356,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Beale Strand",
-                  "text": "Ein sandiger Strandbereich an der Küste in der Nähe von Asdee.",
+                  "text": "Beale Strand, ein Sandstrand nahe Asdee, beliebt zum Schwimmen und Surfen.",
                   "category": "recreational",
                   "coords": [
                         -9.611299,
@@ -2115,7 +2376,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Beale Strand",
-                  "text": "Homokos strandterület Asdee közelében a tengerparton.",
+                  "text": "Beale Strand, egy homokos strand Asdee közelében, népszerű úszásra és szörfözésre.",
                   "category": "recreational",
                   "coords": [
                         -9.611299,
@@ -2135,7 +2396,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Beale Strand",
-                  "text": "O zonă de plajă cu nisip situată pe coastă, în apropiere de Asdee.",
+                  "text": "Beale Strand, o plajă cu nisip lângă Asdee, populară pentru înot și surfing.",
                   "category": "recreational",
                   "coords": [
                         -9.611299,
@@ -2155,7 +2416,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Beale Strand",
-                  "text": "A sandy beach area located on the coast near Asdee.",
+                  "text": "Beale Strand, a sandy beach near Asdee, popular for swimming and surfing.",
                   "category": "recreational",
                   "coords": [
                         -9.611299,
@@ -2806,7 +3067,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "Eine historische Burganlage in der Region Ballymore Abbey.",
+                  "text": "Kilkenny Castle, eine mittelalterliche Burg in Ballymore Abbey mit großem Torhaus.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -2844,7 +3105,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "Történelmi vár Ballymore Abbey régiójában.",
+                  "text": "Kilkenny Castle, egy középkori vár Ballymore Abbey-ben, nagy kaputoronnyal.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -2882,7 +3143,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "Un castel istoric situat în regiunea Ballymore Abbey.",
+                  "text": "Castelul Kilkenny, un castel medieval în Ballymore Abbey, cu un mare turn de poartă.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -2920,7 +3181,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "A historic castle located in the Ballymore Abbey region.",
+                  "text": "Kilkenny Castle, a medieval castle in Ballymore Abbey featuring a large gatehouse.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -3040,7 +3301,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "The Art Deco Theatre",
-                  "text": "Ein Theatergebäude im Art-déco-Stil in Ballymote.",
+                  "text": "The Art Deco Theatre, ein Kulturort im Ballymote Castle mit Live-Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -8.514637,
@@ -3049,7 +3310,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Rathdoney",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Ballymote.",
+                  "text": "Rathdoney, ein antiker Ringfort nahe Ballymote Castle mit Erdwällen.",
                   "category": "historical",
                   "coords": [
                         -8.539867,
@@ -3058,7 +3319,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Emlaghfad Church (ruins)",
-                  "text": "Die Überreste einer historischen Kirche in Ballymote.",
+                  "text": "Ruinen einer mittelalterlichen Kirche in der Nähe von Ballymote Castle, Nationaldenkmal.",
                   "category": "historical",
                   "coords": [
                         -8.507289,
@@ -3067,7 +3328,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Fighting 69th Monument",
-                  "text": "Ein Denkmal in Ballymote zu Ehren des 69. Regiments.",
+                  "text": "Fighting 69th Monument, ein Denkmal für das irische Regiment nahe Ballymote Castle.",
                   "category": "historical",
                   "coords": [
                         -8.520259,
@@ -3076,7 +3337,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "abbey",
-                  "text": "Die Ruinen einer alten Abtei in Ballymote.",
+                  "text": "Abteiruine nahe Ballymote Castle, eine mittelalterliche Klosteranlage.",
                   "category": "historical",
                   "coords": [
                         -8.554694,
@@ -3085,7 +3346,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Toberbride",
-                  "text": "Eine lokale Quelle in der Gegend von Ballymote.",
+                  "text": "Ein der heiligen Brigid geweihter heiliger Brunnen in der Townland Toberbride bei Ballymote.",
                   "category": "landmark",
                   "coords": [
                         -8.496081,
@@ -3094,7 +3355,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Church of the Immaculate Conception",
-                  "text": "Eine römisch-katholische Kirche in Ballymote.",
+                  "text": "Eine römisch-katholische Kirche, die der Unbefleckten Empfängnis in der Stadt Ballymote geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -8.5193,
@@ -3123,7 +3384,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "The Art Deco Theatre",
-                  "text": "Art deco stílusú színházépület Ballymote-ban.",
+                  "text": "The Art Deco Theatre, egy kulturális helyszín a Ballymote kastélyban élő előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -8.514637,
@@ -3132,7 +3393,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Rathdoney",
-                  "text": "Régészeti lelőhely Ballymote közelében.",
+                  "text": "Rathdoney, egy ősi gyűrűvár Ballymote kastély közelében, földsáncokkal.",
                   "category": "historical",
                   "coords": [
                         -8.539867,
@@ -3141,7 +3402,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Emlaghfad Church (ruins)",
-                  "text": "Egy történelmi templom maradványai Ballymote-ban.",
+                  "text": "Középkori templomrom Ballymote Castle közelében, nemzeti emlékmű.",
                   "category": "historical",
                   "coords": [
                         -8.507289,
@@ -3150,7 +3411,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Fighting 69th Monument",
-                  "text": "A 69. ezred tiszteletére emelt emlékmű Ballymote-ban.",
+                  "text": "Fighting 69th Monument, egy emlékmű az ír ezrednek Ballymote kastély közelében.",
                   "category": "historical",
                   "coords": [
                         -8.520259,
@@ -3159,7 +3420,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "abbey",
-                  "text": "Egy régi apátság romjai Ballymote-ban.",
+                  "text": "Apátságrom Ballymote kastély közelében, egy középkori kolostor.",
                   "category": "historical",
                   "coords": [
                         -8.554694,
@@ -3168,7 +3429,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Toberbride",
-                  "text": "Helyi forrás Ballymote környékén.",
+                  "text": "Szent Brigitta tiszteletére szentelt szent kút Toberbride településrészen, Ballymote közelében.",
                   "category": "landmark",
                   "coords": [
                         -8.496081,
@@ -3177,7 +3438,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Church of the Immaculate Conception",
-                  "text": "Római katolikus templom Ballymote-ban.",
+                  "text": "Szeplőtelen Fogantatásnak szentelt római katolikus templom Ballymote városában.",
                   "category": "religious",
                   "coords": [
                         -8.5193,
@@ -3206,7 +3467,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "The Art Deco Theatre",
-                  "text": "O clădire de teatru în stil Art Deco situată în Ballymote.",
+                  "text": "The Art Deco Theatre, un loc cultural în Castelul Ballymote cu spectacole live.",
                   "category": "cultural",
                   "coords": [
                         -8.514637,
@@ -3215,7 +3476,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Rathdoney",
-                  "text": "Un sit arheologic situat în apropiere de Ballymote.",
+                  "text": "Rathdoney, un fort circular antic lângă Castelul Ballymote, cu valuri de pământ.",
                   "category": "historical",
                   "coords": [
                         -8.539867,
@@ -3224,7 +3485,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Emlaghfad Church (ruins)",
-                  "text": "Ruinele unei biserici istorice din Ballymote.",
+                  "text": "Ruine de biserică medievală lângă Castelul Ballymote, monument național.",
                   "category": "historical",
                   "coords": [
                         -8.507289,
@@ -3233,7 +3494,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Fighting 69th Monument",
-                  "text": "Un monument în Ballymote ridicat în onoarea Regimentului 69.",
+                  "text": "Monumentul Fighting 69th, un memorial pentru regimentul irlandez lângă Castelul Ballymote.",
                   "category": "historical",
                   "coords": [
                         -8.520259,
@@ -3242,7 +3503,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "abbey",
-                  "text": "Ruinele unei vechi abații din Ballymote.",
+                  "text": "Ruinele unei abații lângă Castelul Ballymote, o mănăstire medievală.",
                   "category": "historical",
                   "coords": [
                         -8.554694,
@@ -3251,7 +3512,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Toberbride",
-                  "text": "Un izvor local situat în zona Ballymote.",
+                  "text": "Un puț sfânt dedicat Sfintei Brigita, situat în townlandul Toberbride lângă Ballymote.",
                   "category": "landmark",
                   "coords": [
                         -8.496081,
@@ -3260,7 +3521,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Church of the Immaculate Conception",
-                  "text": "O biserică romano-catolică situată în Ballymote.",
+                  "text": "O biserică romano-catolică dedicată Imaculatei Concepții în orașul Ballymote.",
                   "category": "religious",
                   "coords": [
                         -8.5193,
@@ -3289,7 +3550,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "The Art Deco Theatre",
-                  "text": "An Art Deco style theatre building located in Ballymote.",
+                  "text": "The Art Deco Theatre, a cultural venue within Ballymote Castle hosting live performances.",
                   "category": "cultural",
                   "coords": [
                         -8.514637,
@@ -3298,7 +3559,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Rathdoney",
-                  "text": "An archaeological site located near Ballymote.",
+                  "text": "Rathdoney, an ancient ringfort near Ballymote Castle with earthen ramparts.",
                   "category": "historical",
                   "coords": [
                         -8.539867,
@@ -3307,7 +3568,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Emlaghfad Church (ruins)",
-                  "text": "The remains of a historical church in Ballymote.",
+                  "text": "Ruins of a medieval church near Ballymote Castle, a national monument.",
                   "category": "historical",
                   "coords": [
                         -8.507289,
@@ -3316,7 +3577,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Fighting 69th Monument",
-                  "text": "A monument in Ballymote dedicated to the Fighting 69th regiment.",
+                  "text": "Fighting 69th Monument, a memorial to the Irish Brigade near Ballymote Castle.",
                   "category": "historical",
                   "coords": [
                         -8.520259,
@@ -3325,7 +3586,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "abbey",
-                  "text": "The ruins of an ancient abbey located in Ballymote.",
+                  "text": "Abbey ruins near Ballymote Castle, a medieval monastic site.",
                   "category": "historical",
                   "coords": [
                         -8.554694,
@@ -3334,7 +3595,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Toberbride",
-                  "text": "A local spring located in the Ballymote area.",
+                  "text": "A holy well dedicated to Saint Brigid, located in the townland of Toberbride near Ballymote.",
                   "category": "landmark",
                   "coords": [
                         -8.496081,
@@ -3343,7 +3604,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Church of the Immaculate Conception",
-                  "text": "A Roman Catholic church located in Ballymote.",
+                  "text": "A Roman Catholic church dedicated to the Immaculate Conception in Ballymote town.",
                   "category": "religious",
                   "coords": [
                         -8.5193,
@@ -3472,7 +3733,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "Ein historisches Schloss in der Region Ballymore.",
+                  "text": "Kilkenny Castle, eine Burg in Ballymore Fort mit Blick auf die Umgebung.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -3481,7 +3742,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "Eine lokale Kirche in der Gegend von Ballymore Fort.",
+                  "text": "Eine Kirche in der Townland Tang, die das Gebiet bei Ballymore versorgt.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -3510,7 +3771,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "Történelmi kastély Ballymore régiójában.",
+                  "text": "Kilkenny Castle, egy vár Ballymore Fort-ban, kilátással a környékre.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -3519,7 +3780,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "Helyi templom Ballymore Fort környékén.",
+                  "text": "Templom Tang településrészen, a Ballymore melletti területet szolgálja ki.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -3548,7 +3809,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "Un castel istoric situat în regiunea Ballymore.",
+                  "text": "Castelul Kilkenny, un castel în Ballymore Fort cu vedere asupra peisajului.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -3557,7 +3818,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "O biserică locală în zona Ballymore Fort.",
+                  "text": "O biserică situată în townlandul Tang, care deservește zona de lângă Ballymore.",
                   "category": "religious",
                   "coords": [
                         -7.793016,
@@ -3586,7 +3847,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Kilkenny Castle",
-                  "text": "A historical castle located in the Ballymore region.",
+                  "text": "Kilkenny Castle, a castle in Ballymore Fort overlooking the countryside.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
@@ -3595,7 +3856,7 @@ export const irelandHistoryV2: POI[] = [
             },
             {
                   "name": "Tang Church",
-                  "text": "A local church in the Ballymore Fort area.",
+                  "text": "A church located in the townland of Tang, serving the area near Ballymore.",
                   "category": "religious",
                   "coords": [
                         -7.793016,

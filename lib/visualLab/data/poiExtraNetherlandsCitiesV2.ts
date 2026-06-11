@@ -7,7 +7,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Surfstrand Almere Haven",
-                  "text": "Surfstrand in Almere Haven.",
+                  "text": "Surfstrand Almere Haven, ein Surfstrand in Almere Haven am Gooimeer, ideal zum Windsurfen.",
                   "category": "recreational",
                   "coords": [
                         5.205273,
@@ -16,7 +16,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedenwijkstrand",
-                  "text": "Stedenwijkstrand in Almere.",
+                  "text": "Stedenwijkstrand, ein Strand im Stadtteil Stedenwijk von Almere am Weerwater-See.",
                   "category": "recreational",
                   "coords": [
                         5.213725,
@@ -25,7 +25,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwemstrand Almere Haven",
-                  "text": "Zwemstrand in Almere Haven.",
+                  "text": "Zwemstrand Almere Haven, ein Badestrand in Almere Haven am Gooimeer.",
                   "category": "recreational",
                   "coords": [
                         5.211119,
@@ -34,7 +34,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lumièrestrand",
-                  "text": "Lumièrestrand in Almere.",
+                  "text": "Lumièrestrand, ein Strand am Weerwater in Almere mit künstlerischer Gestaltung.",
                   "category": "recreational",
                   "coords": [
                         5.23452,
@@ -43,7 +43,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fantasiestrand",
-                  "text": "Fantasiestrand in Almere.",
+                  "text": "Fantasiestrand, ein thematischer Strand am Markermeer in Almere.",
                   "category": "recreational",
                   "coords": [
                         5.216808,
@@ -52,7 +52,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Hoofdstrand",
-                  "text": "'t Hoofdstrand in Almere.",
+                  "text": "'t Hoofdstrand, der Hauptstrand von Almere am Markermeer.",
                   "category": "recreational",
                   "coords": [
                         5.21286,
@@ -61,7 +61,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordenplassenstrand",
-                  "text": "Noordenplassenstrand in Almere.",
+                  "text": "Noordenplassenstrand, ein Strand am Noordenplassen-See in Almere.",
                   "category": "recreational",
                   "coords": [
                         5.221926,
@@ -124,7 +124,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Den Uylpark",
-                  "text": "Ein beliebter Kinderbauernhof im Den Uylpark in Almere.",
+                  "text": "Kinderboerderij Den Uylpark, ein Streichelzoo im Den Uylpark in Almere.",
                   "category": "family",
                   "coords": [
                         5.207361,
@@ -214,7 +214,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bospoel",
-                  "text": "Bospoel in Almere ist ein See in ruhiger Umgebung.",
+                  "text": "Bospoel, ein Wald- und Wassergebiet in Almere, das zur Erholung einlädt.",
                   "category": "natural",
                   "coords": [
                         5.210025,
@@ -223,7 +223,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Markermeer",
-                  "text": "Markermeer in Almere ist ein großer See mit weiter Aussicht.",
+                  "text": "Markermeer, ein großer Süßwassersee, der an Almere grenzt und Teil des IJsselmeer-Systems ist.",
                   "category": "natural",
                   "coords": [
                         5.241534,
@@ -232,7 +232,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Weerwater",
-                  "text": "Weerwater in Almere ist ein See, der zur Erholung am Wasser einlädt.",
+                  "text": "Weerwater, ein künstlicher See im Zentrum von Almere, der für Freizeitaktivitäten genutzt wird.",
                   "category": "natural",
                   "coords": [
                         5.227426,
@@ -241,7 +241,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooimeer",
-                  "text": "Gooimeer in Almere ist ein See mit Möglichkeiten zur Freizeitgestaltung.",
+                  "text": "Gooimeer, ein See zwischen Almere und Gooise Meren, der zum Segeln einlädt.",
                   "category": "natural",
                   "coords": [
                         5.226447,
@@ -250,7 +250,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "IJmeer",
-                  "text": "IJmeer in Almere ist ein See mit einer natürlichen Landschaft.",
+                  "text": "IJmeer, ein See zwischen Almere und Amsterdam, Teil des Markermeers.",
                   "category": "natural",
                   "coords": [
                         5.05984,
@@ -259,7 +259,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplassen",
-                  "text": "Noorderplassen in Almere ist ein Seegebiet für Naturspaziergänge.",
+                  "text": "Noorderplassen, eine Kette von Seen im Norden Almeres, bekannt für Wassersport.",
                   "category": "natural",
                   "coords": [
                         5.197204,
@@ -268,7 +268,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Game Box",
-                  "text": "The Game Box in Almere bietet Spiele für die ganze Familie.",
+                  "text": "The Game Box, ein Indoor-Spiel- und Unterhaltungszentrum in Almere.",
                   "category": "family",
                   "coords": [
                         5.21868,
@@ -277,7 +277,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Glijbaan",
-                  "text": "Glijbaan in Almere ist ein Spielplatz für Kinder.",
+                  "text": "Glijbaan, eine große Rutsche und ein Spielplatz in Almere.",
                   "category": "family",
                   "coords": [
                         5.253921,
@@ -295,7 +295,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Wiebelbrug",
-                  "text": "De Wiebelbrug in Almere ist ein Spielplatz für aktiven Spaß.",
+                  "text": "De Wiebelbrug, eine Fußgänger-Wackelbrücke über den Weerwater in Almere.",
                   "category": "family",
                   "coords": [
                         5.197684,
@@ -304,7 +304,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'De Spin'",
-                  "text": "'De Spin' in Almere ist ein Spielplatz mit Outdoor-Aktivitäten für Kinder.",
+                  "text": "Ein familienfreundlicher Spielplatz mit einem riesigen Spinnennetz aus Seilen zum Klettern.",
                   "category": "family",
                   "coords": [
                         5.198617,
@@ -313,7 +313,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klimrek",
-                  "text": "Klimrek in Almere ist ein Spielplatz zum Klettern und Spielen.",
+                  "text": "Ein Klettergerüst mit einem großen Holzturm und mehreren Rutschen.",
                   "category": "family",
                   "coords": [
                         5.246087,
@@ -331,7 +331,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurlijke speeltuin",
-                  "text": "Natuurlijke speeltuin in Almere ist ein Spielplatz in der Natur.",
+                  "text": "Ein natürlicher Spielplatz mit einer Matschküche und einer Wasserpumpe.",
                   "category": "family",
                   "coords": [
                         5.212967,
@@ -351,7 +351,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Surfstrand Almere Haven",
-                  "text": "Surfstrand Almere Havenban.",
+                  "text": "Surfstrand Almere Haven, egy szörfstrand Almere Havenben a Gooimeer partján, ideális szélvitorlázáshoz.",
                   "category": "recreational",
                   "coords": [
                         5.205273,
@@ -360,7 +360,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedenwijkstrand",
-                  "text": "Stedenwijkstrand Almere városában.",
+                  "text": "Stedenwijkstrand, egy strand Almere Stedenwijk negyedében a Weerwater-tó partján.",
                   "category": "recreational",
                   "coords": [
                         5.213725,
@@ -369,7 +369,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwemstrand Almere Haven",
-                  "text": "Zwemstrand Almere Havenban.",
+                  "text": "Zwemstrand Almere Haven, egy fürdőstrand Almere Havenben a Gooimeer partján.",
                   "category": "recreational",
                   "coords": [
                         5.211119,
@@ -378,7 +378,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lumièrestrand",
-                  "text": "Lumièrestrand Almere városában.",
+                  "text": "Lumièrestrand, egy strand a Weerwater partján Almereben, művészi kialakítással.",
                   "category": "recreational",
                   "coords": [
                         5.23452,
@@ -387,7 +387,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fantasiestrand",
-                  "text": "Fantasiestrand Almere városában.",
+                  "text": "Fantasiestrand, egy tematikus strand a Markermeer partján Almereben.",
                   "category": "recreational",
                   "coords": [
                         5.216808,
@@ -396,7 +396,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Hoofdstrand",
-                  "text": "'t Hoofdstrand Almere városában.",
+                  "text": "'t Hoofdstrand, Almere fő strandja a Markermeer partján.",
                   "category": "recreational",
                   "coords": [
                         5.21286,
@@ -405,7 +405,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordenplassenstrand",
-                  "text": "Noordenplassenstrand Almere városában.",
+                  "text": "Noordenplassenstrand, egy strand a Noordenplassen-tó partján Almereben.",
                   "category": "recreational",
                   "coords": [
                         5.221926,
@@ -468,7 +468,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Den Uylpark",
-                  "text": "Népszerű állatsimogató a Den Uylparkban Almerében.",
+                  "text": "Kinderboerderij Den Uylpark, egy állatsimogató a den Uylparkban, Almereben.",
                   "category": "family",
                   "coords": [
                         5.207361,
@@ -558,7 +558,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bospoel",
-                  "text": "Az almerei Bospoel egy tó nyugodt környezetben.",
+                  "text": "Bospoel, egy erdős és vizes terület Almereben, pihenésre csábít.",
                   "category": "natural",
                   "coords": [
                         5.210025,
@@ -567,7 +567,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Markermeer",
-                  "text": "Az almerei Markermeer egy nagy tó, tágas kilátással.",
+                  "text": "Markermeer, egy nagy édesvizű tó, amely Almere határában található, az IJsselmeer rendszer része.",
                   "category": "natural",
                   "coords": [
                         5.241534,
@@ -576,7 +576,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Weerwater",
-                  "text": "Az almerei Weerwater egy tó, amely alkalmas a vízparti pihenésre.",
+                  "text": "Weerwater, egy mesterséges tó Almere központjában, szabadidős tevékenységekre használják.",
                   "category": "natural",
                   "coords": [
                         5.227426,
@@ -585,7 +585,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooimeer",
-                  "text": "Az almerei Gooimeer egy tó szabadidős lehetőségekkel.",
+                  "text": "Gooimeer, egy tó Almere és Gooise Meren között, vitorlázásra csábít.",
                   "category": "natural",
                   "coords": [
                         5.226447,
@@ -594,7 +594,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "IJmeer",
-                  "text": "Az almerei IJmeer egy természetes tájjal rendelkező tó.",
+                  "text": "IJmeer, egy tó Almere és Amszterdam között, a Markermeer része.",
                   "category": "natural",
                   "coords": [
                         5.05984,
@@ -603,7 +603,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplassen",
-                  "text": "Az almerei Noorderplassen egy tóvidék természeti sétákhoz.",
+                  "text": "Noorderplassen, tavak lánca Almere északi részén, vízi sportokról ismert.",
                   "category": "natural",
                   "coords": [
                         5.197204,
@@ -612,7 +612,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Game Box",
-                  "text": "Az almerei The Game Box játékokat kínál az egész családnak.",
+                  "text": "The Game Box, egy fedett játék- és szórakoztató központ Almereben.",
                   "category": "family",
                   "coords": [
                         5.21868,
@@ -621,7 +621,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Glijbaan",
-                  "text": "Az almerei Glijbaan egy játszótér a gyermekeknek.",
+                  "text": "Glijbaan, egy nagy csúszda és játszótér Almereben.",
                   "category": "family",
                   "coords": [
                         5.253921,
@@ -639,7 +639,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Wiebelbrug",
-                  "text": "Az almerei De Wiebelbrug egy játszótér az aktív szórakozáshoz.",
+                  "text": "De Wiebelbrug, egy gyalogos himbálóhíd a Weerwater felett Almereben.",
                   "category": "family",
                   "coords": [
                         5.197684,
@@ -648,7 +648,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'De Spin'",
-                  "text": "Az almerei 'De Spin' egy játszótér szabadtéri tevékenységekkel gyerekeknek.",
+                  "text": "Egy családi játszótér, amelyben egy hatalmas pókháló alakú mászóháló található.",
                   "category": "family",
                   "coords": [
                         5.198617,
@@ -657,7 +657,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klimrek",
-                  "text": "Az almerei Klimrek egy játszótér a mászáshoz és játékhoz.",
+                  "text": "Egy mászóka egy nagy fa toronnyal és több csúszdával.",
                   "category": "family",
                   "coords": [
                         5.246087,
@@ -675,7 +675,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurlijke speeltuin",
-                  "text": "Az almerei Natuurlijke speeltuin egy játszótér a természetben.",
+                  "text": "Egy természetes játszótér sárkonyhával és vízpumpával.",
                   "category": "family",
                   "coords": [
                         5.212967,
@@ -695,7 +695,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Surfstrand Almere Haven",
-                  "text": "Surfstrand în Almere Haven.",
+                  "text": "Surfstrand Almere Haven, o plajă de surf în Almere Haven pe Gooimeer, ideală pentru windsurfing.",
                   "category": "recreational",
                   "coords": [
                         5.205273,
@@ -704,7 +704,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedenwijkstrand",
-                  "text": "Stedenwijkstrand în Almere.",
+                  "text": "Stedenwijkstrand, o plajă în cartierul Stedenwijk din Almere, pe lacul Weerwater.",
                   "category": "recreational",
                   "coords": [
                         5.213725,
@@ -713,7 +713,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwemstrand Almere Haven",
-                  "text": "Zwemstrand în Almere Haven.",
+                  "text": "Zwemstrand Almere Haven, o plajă de înot în Almere Haven pe Gooimeer.",
                   "category": "recreational",
                   "coords": [
                         5.211119,
@@ -722,7 +722,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lumièrestrand",
-                  "text": "Lumièrestrand în Almere.",
+                  "text": "Lumièrestrand, o plajă pe Weerwater în Almere, cu un design artistic.",
                   "category": "recreational",
                   "coords": [
                         5.23452,
@@ -731,7 +731,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fantasiestrand",
-                  "text": "Fantasiestrand în Almere.",
+                  "text": "Fantasiestrand, o plajă tematică pe Markermeer în Almere.",
                   "category": "recreational",
                   "coords": [
                         5.216808,
@@ -740,7 +740,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Hoofdstrand",
-                  "text": "'t Hoofdstrand în Almere.",
+                  "text": "'t Hoofdstrand, plaja principală a orașului Almere pe Markermeer.",
                   "category": "recreational",
                   "coords": [
                         5.21286,
@@ -749,7 +749,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordenplassenstrand",
-                  "text": "Noordenplassenstrand în Almere.",
+                  "text": "Noordenplassenstrand, o plajă pe lacul Noordenplassen în Almere.",
                   "category": "recreational",
                   "coords": [
                         5.221926,
@@ -812,7 +812,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Den Uylpark",
-                  "text": "O fermă pentru copii populară în parcul Den Uyl din Almere.",
+                  "text": "Kinderboerderij Den Uylpark, o fermă de animale de companie în Den Uylpark, Almere.",
                   "category": "family",
                   "coords": [
                         5.207361,
@@ -902,7 +902,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bospoel",
-                  "text": "Bospoel din Almere este un lac într-un mediu liniștit.",
+                  "text": "Bospoel, o zonă împădurită și acvatică în Almere, propice recreerii.",
                   "category": "natural",
                   "coords": [
                         5.210025,
@@ -911,7 +911,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Markermeer",
-                  "text": "Markermeer din Almere este un lac mare cu o priveliște largă.",
+                  "text": "Markermeer, un lac mare de apă dulce care mărginește Almere, parte a sistemului IJsselmeer.",
                   "category": "natural",
                   "coords": [
                         5.241534,
@@ -920,7 +920,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Weerwater",
-                  "text": "Weerwater din Almere este un lac potrivit pentru recreere pe malul apei.",
+                  "text": "Weerwater, un lac artificial în centrul orașului Almere, folosit pentru activități recreative.",
                   "category": "natural",
                   "coords": [
                         5.227426,
@@ -929,7 +929,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooimeer",
-                  "text": "Gooimeer din Almere este un lac cu posibilități de agrement.",
+                  "text": "Gooimeer, un lac între Almere și Gooise Meren, popular pentru navigație.",
                   "category": "natural",
                   "coords": [
                         5.226447,
@@ -938,7 +938,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "IJmeer",
-                  "text": "IJmeer din Almere este un lac cu un peisaj natural.",
+                  "text": "IJmeer, un lac între Almere și Amsterdam, parte a Markermeer.",
                   "category": "natural",
                   "coords": [
                         5.05984,
@@ -947,7 +947,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplassen",
-                  "text": "Noorderplassen din Almere este o zonă de lacuri pentru plimbări în natură.",
+                  "text": "Noorderplassen, un lanț de lacuri în nordul Almere, cunoscut pentru sporturi nautice.",
                   "category": "natural",
                   "coords": [
                         5.197204,
@@ -956,7 +956,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Game Box",
-                  "text": "The Game Box din Almere oferă jocuri pentru întreaga familie.",
+                  "text": "The Game Box, un centru interior de jocuri și divertisment în Almere.",
                   "category": "family",
                   "coords": [
                         5.21868,
@@ -965,7 +965,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Glijbaan",
-                  "text": "Glijbaan din Almere este un loc de joacă pentru copii.",
+                  "text": "Glijbaan, un tobogan mare și un loc de joacă în Almere.",
                   "category": "family",
                   "coords": [
                         5.253921,
@@ -983,7 +983,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Wiebelbrug",
-                  "text": "De Wiebelbrug din Almere este un loc de joacă pentru distracție activă.",
+                  "text": "De Wiebelbrug, un pod pietonal care se balansează peste Weerwater în Almere.",
                   "category": "family",
                   "coords": [
                         5.197684,
@@ -992,7 +992,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'De Spin'",
-                  "text": "„De Spin” din Almere este un loc de joacă cu activități în aer liber pentru copii.",
+                  "text": "Un loc de joacă familial cu o pânză de păianjen uriașă din funii pentru cățărat.",
                   "category": "family",
                   "coords": [
                         5.198617,
@@ -1001,7 +1001,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klimrek",
-                  "text": "Klimrek din Almere este un loc de joacă pentru cățărat și joacă.",
+                  "text": "Un echipament de cățărare cu un turn mare de lemn și mai multe tobogane.",
                   "category": "family",
                   "coords": [
                         5.246087,
@@ -1019,7 +1019,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurlijke speeltuin",
-                  "text": "Natuurlijke speeltuin din Almere este un loc de joacă în natură.",
+                  "text": "Un loc de joacă natural cu o bucătărie de noroi și o pompă de apă.",
                   "category": "family",
                   "coords": [
                         5.212967,
@@ -1039,7 +1039,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Surfstrand Almere Haven",
-                  "text": "Surfstrand in Almere Haven.",
+                  "text": "Surfstrand Almere Haven, a surf beach in Almere Haven on the Gooimeer, ideal for windsurfing.",
                   "category": "recreational",
                   "coords": [
                         5.205273,
@@ -1048,7 +1048,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedenwijkstrand",
-                  "text": "Stedenwijkstrand in Almere.",
+                  "text": "Stedenwijkstrand, a beach in the Stedenwijk district of Almere on the Weerwater lake.",
                   "category": "recreational",
                   "coords": [
                         5.213725,
@@ -1057,7 +1057,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwemstrand Almere Haven",
-                  "text": "Zwemstrand in Almere Haven.",
+                  "text": "Zwemstrand Almere Haven, a swimming beach in Almere Haven on the Gooimeer.",
                   "category": "recreational",
                   "coords": [
                         5.211119,
@@ -1066,7 +1066,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lumièrestrand",
-                  "text": "Lumièrestrand in Almere.",
+                  "text": "Lumièrestrand, a beach on the Weerwater in Almere with an artistic design.",
                   "category": "recreational",
                   "coords": [
                         5.23452,
@@ -1075,7 +1075,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fantasiestrand",
-                  "text": "Fantasiestrand in Almere.",
+                  "text": "Fantasiestrand, a themed beach on the Markermeer in Almere.",
                   "category": "recreational",
                   "coords": [
                         5.216808,
@@ -1084,7 +1084,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Hoofdstrand",
-                  "text": "'t Hoofdstrand in Almere.",
+                  "text": "'t Hoofdstrand, the main beach of Almere on the Markermeer.",
                   "category": "recreational",
                   "coords": [
                         5.21286,
@@ -1093,7 +1093,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordenplassenstrand",
-                  "text": "Noordenplassenstrand in Almere.",
+                  "text": "Noordenplassenstrand, a beach on the Noordenplassen lake in Almere.",
                   "category": "recreational",
                   "coords": [
                         5.221926,
@@ -1156,7 +1156,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Den Uylpark",
-                  "text": "A popular petting zoo located in the Den Uylpark in Almere.",
+                  "text": "Kinderboerderij Den Uylpark, a petting zoo in Den Uylpark, Almere.",
                   "category": "family",
                   "coords": [
                         5.207361,
@@ -1246,7 +1246,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bospoel",
-                  "text": "Bospoel in Almere is a lake in a quiet setting.",
+                  "text": "Bospoel, a woodland and water area in Almere, ideal for recreation.",
                   "category": "natural",
                   "coords": [
                         5.210025,
@@ -1255,7 +1255,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Markermeer",
-                  "text": "Markermeer in Almere is a large lake with a wide view.",
+                  "text": "Markermeer, a large freshwater lake bordering Almere, part of the IJsselmeer system.",
                   "category": "natural",
                   "coords": [
                         5.241534,
@@ -1264,7 +1264,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Weerwater",
-                  "text": "Weerwater in Almere is a lake suitable for waterside recreation.",
+                  "text": "Weerwater, an artificial lake in central Almere, used for recreation.",
                   "category": "natural",
                   "coords": [
                         5.227426,
@@ -1273,7 +1273,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooimeer",
-                  "text": "Gooimeer in Almere is a lake with recreational opportunities.",
+                  "text": "Gooimeer, a lake between Almere and Gooise Meren, popular for sailing.",
                   "category": "natural",
                   "coords": [
                         5.226447,
@@ -1282,7 +1282,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "IJmeer",
-                  "text": "IJmeer in Almere is a lake with a natural landscape.",
+                  "text": "IJmeer, a lake between Almere and Amsterdam, part of the Markermeer.",
                   "category": "natural",
                   "coords": [
                         5.05984,
@@ -1291,7 +1291,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplassen",
-                  "text": "Noorderplassen in Almere is a lake area for nature walks.",
+                  "text": "Noorderplassen, a chain of lakes in northern Almere, known for water sports.",
                   "category": "natural",
                   "coords": [
                         5.197204,
@@ -1300,7 +1300,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Game Box",
-                  "text": "The Game Box in Almere offers games for the whole family.",
+                  "text": "The Game Box, an indoor play and entertainment center in Almere.",
                   "category": "family",
                   "coords": [
                         5.21868,
@@ -1309,7 +1309,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Glijbaan",
-                  "text": "Glijbaan in Almere is a playground for children.",
+                  "text": "Glijbaan, a large slide and playground in Almere.",
                   "category": "family",
                   "coords": [
                         5.253921,
@@ -1327,7 +1327,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Wiebelbrug",
-                  "text": "De Wiebelbrug in Almere is a playground for active fun.",
+                  "text": "De Wiebelbrug, a pedestrian wobble bridge over the Weerwater in Almere.",
                   "category": "family",
                   "coords": [
                         5.197684,
@@ -1336,7 +1336,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'De Spin'",
-                  "text": "'De Spin' in Almere is a playground with outdoor activities for kids.",
+                  "text": "A family playground with a giant spiderweb climbing net.",
                   "category": "family",
                   "coords": [
                         5.198617,
@@ -1345,7 +1345,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klimrek",
-                  "text": "Klimrek in Almere is a playground for climbing and playing.",
+                  "text": "A climbing frame with a large wooden tower and multiple slides.",
                   "category": "family",
                   "coords": [
                         5.246087,
@@ -1363,7 +1363,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurlijke speeltuin",
-                  "text": "Natuurlijke speeltuin in Almere is a playground in nature.",
+                  "text": "A natural playground with a mud kitchen and a water pump.",
                   "category": "family",
                   "coords": [
                         5.212967,
@@ -1429,7 +1429,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Orpheus",
-                  "text": "Das Orpheus ist ein bekanntes Theater und Kulturzentrum in Apeldoorn.",
+                  "text": "Ein 1920 erbautes Theater- und Kulturzentrum in Apeldoorn.",
                   "category": "cultural",
                   "coords": [
                         5.952953,
@@ -1438,7 +1438,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "CODA",
-                  "text": "CODA ist ein modernes Museum, Archiv und Bibliothek im Herzen von Apeldoorn.",
+                  "text": "Museum für moderne Kunst mit Schwerpunkt auf Papierkunst und Design.",
                   "category": "museum",
                   "coords": [
                         5.957146,
@@ -1456,7 +1456,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paleispark het Loo",
-                  "text": "Der Paleispark het Loo ist ein weitläufiges Naturschutzgebiet rund um das Schloss.",
+                  "text": "Der barocke Garten von Paleis Het Loo mit seinen Brunnen und Parterren.",
                   "category": "natural",
                   "coords": [
                         5.923632,
@@ -1474,7 +1474,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum in de Zevende Hemel",
-                  "text": "Das Museum in de Zevende Hemel ist ein charmantes Museum in Apeldoorn.",
+                  "text": "Ein Museum mit einer Sammlung von Engeln und Himmelsgloben in einer ehemaligen Kirche.",
                   "category": "museum",
                   "coords": [
                         5.946873,
@@ -1483,7 +1483,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kakelhoeve",
-                  "text": "De Kakelhoeve ist ein kleiner Streichelzoo in Apeldoorn.",
+                  "text": "Ein Streichelzoo mit Ziegen, Hühnern und einem Heulabyrinth.",
                   "category": "family",
                   "coords": [
                         6.00598,
@@ -1492,7 +1492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Laag Buurlo",
-                  "text": "Die Kinderboerderij Laag Buurlo ist ein beliebter Kinderbauernhof in Apeldoorn.",
+                  "text": "Ein Kinderbauernhof mit Alpakas und einem Gemüsegarten.",
                   "category": "family",
                   "coords": [
                         6.002534,
@@ -1510,7 +1510,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kanaalpark",
-                  "text": "Der Kanaalpark ist eine Grünanlage entlang des Kanals in Apeldoorn.",
+                  "text": "Ein Park entlang des Apeldoorns Kanaal mit einer Fußgängerbrücke.",
                   "category": "park",
                   "coords": [
                         5.987111,
@@ -1519,7 +1519,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oranjepark",
-                  "text": "Der Oranjepark ist ein historischer Stadtpark im Zentrum von Apeldoorn.",
+                  "text": "Ein Park mit einem Orangerie-Gebäude und einem Rosengarten.",
                   "category": "park",
                   "coords": [
                         5.960337,
@@ -1528,7 +1528,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mheenpark",
-                  "text": "Der Mheenpark ist ein großer öffentlicher Park in Apeldoorn.",
+                  "text": "Ein Park entlang des Mheen-Bachs mit einem naturnahen Spielplatz.",
                   "category": "park",
                   "coords": [
                         5.987831,
@@ -1537,7 +1537,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminapark",
-                  "text": "Der Wilhelminapark ist eine gepflegte Parkanlage in Apeldoorn.",
+                  "text": "Ein Park mit einer Statue von Königin Wilhelmina und einem Teich.",
                   "category": "park",
                   "coords": [
                         5.964221,
@@ -1546,7 +1546,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verzetsstrijderspark",
-                  "text": "Der Verzetsstrijderspark ist ein Park in Apeldoorn, der den Widerstandskämpfern gewidmet ist.",
+                  "text": "Park mit einem Denkmal für die Widerstandskämpfer des Zweiten Weltkriegs, enthält ein Monument.",
                   "category": "park",
                   "coords": [
                         5.967366,
@@ -1555,7 +1555,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "H10A",
-                  "text": "H10A ist eine Galerie für zeitgenössische Kunst in Apeldoorn.",
+                  "text": "Ein Museum in einer ehemaligen Kaserne mit lokalen Exponaten.",
                   "category": "museum",
                   "coords": [
                         6.005151,
@@ -1573,7 +1573,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie PS20",
-                  "text": "Die Galerie PS20 ist ein Ort für moderne Kunst in Apeldoorn.",
+                  "text": "Eine Kunstgalerie in einem ehemaligen Druckereigebäude.",
                   "category": "museum",
                   "coords": [
                         5.967162,
@@ -1582,7 +1582,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "DAP Muziekcentrum",
-                  "text": "Das DAP Muziekcentrum ist ein Zentrum für Musik und Kunst in Apeldoorn.",
+                  "text": "Ein Musikzentrum mit einer großen Pfeifenorgel in einer ehemaligen Kirche.",
                   "category": "cultural",
                   "coords": [
                         5.982485,
@@ -1600,7 +1600,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eben-Haëzerkerk",
-                  "text": "Die Eben-Haëzerkerk ist eine Kirche in Apeldoorn.",
+                  "text": "Moderne Kirche, erbaut 1995, bekannt für ihre markante Architektur.",
                   "category": "religious",
                   "coords": [
                         5.975954,
@@ -1762,7 +1762,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kindervreugd",
-                  "text": "Ein schöner Spielplatz in Apeldoorn für Kinder zum Austoben.",
+                  "text": "Ein Spielplatz mit einer großen Rutsche und einem Sandkasten.",
                   "category": "family",
                   "coords": [
                         5.937199,
@@ -1791,7 +1791,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Orpheus",
-                  "text": "Az Orpheus Apeldoorn ismert színháza és kulturális központja.",
+                  "text": "Egy 1920-ban épült színház és kulturális központ Apeldoornban.",
                   "category": "cultural",
                   "coords": [
                         5.952953,
@@ -1800,7 +1800,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "CODA",
-                  "text": "A CODA egy modern múzeum, archívum és könyvtár Apeldoorn szívében.",
+                  "text": "Modern művészeti múzeum, amely a papírművészetre és dizájnra összpontosít.",
                   "category": "museum",
                   "coords": [
                         5.957146,
@@ -1818,7 +1818,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paleispark het Loo",
-                  "text": "A Paleispark het Loo egy kiterjedt természetvédelmi terület a palota körül.",
+                  "text": "A Paleis Het Loo barokk kertje szökőkutakkal és virágágyásokkal.",
                   "category": "natural",
                   "coords": [
                         5.923632,
@@ -1836,7 +1836,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum in de Zevende Hemel",
-                  "text": "A Museum in de Zevende Hemel egy bájos múzeum Apeldoornban.",
+                  "text": "Egy múzeum angyalgyűjteménnyel és éggömbökkel egy egykori templomban.",
                   "category": "museum",
                   "coords": [
                         5.946873,
@@ -1845,7 +1845,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kakelhoeve",
-                  "text": "A De Kakelhoeve egy kis állatsimogató Apeldoornban.",
+                  "text": "Egy állatsimogató kecskékkel, csirkékkel és széna labirintussal.",
                   "category": "family",
                   "coords": [
                         6.00598,
@@ -1854,7 +1854,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Laag Buurlo",
-                  "text": "A Kinderboerderij Laag Buurlo egy népszerű állatsimogató Apeldoornban.",
+                  "text": "Egy gyerekfarm alpakákkal és veteményeskerttel.",
                   "category": "family",
                   "coords": [
                         6.002534,
@@ -1872,7 +1872,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kanaalpark",
-                  "text": "A Kanaalpark egy zöldövezet az apeldoorni csatorna mentén.",
+                  "text": "Egy park az Apeldoorni-csatorna mentén, gyalogoshíddal.",
                   "category": "park",
                   "coords": [
                         5.987111,
@@ -1881,7 +1881,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oranjepark",
-                  "text": "Az Oranjepark egy történelmi városi park Apeldoorn központjában.",
+                  "text": "Egy park narancsházzal és rózsakerttel.",
                   "category": "park",
                   "coords": [
                         5.960337,
@@ -1890,7 +1890,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mheenpark",
-                  "text": "A Mheenpark egy nagy nyilvános park Apeldoornban.",
+                  "text": "Egy park a Mheen-patak mentén, természetközeli játszótérrel.",
                   "category": "park",
                   "coords": [
                         5.987831,
@@ -1899,7 +1899,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminapark",
-                  "text": "A Wilhelminapark egy gondozott park Apeldoornban.",
+                  "text": "Egy park Wilhelmina királynő szobrával és egy tóval.",
                   "category": "park",
                   "coords": [
                         5.964221,
@@ -1908,7 +1908,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verzetsstrijderspark",
-                  "text": "A Verzetsstrijderspark egy park Apeldoornban, amelyet az ellenállóknak szenteltek.",
+                  "text": "Park a második világháborús ellenállók emlékművével, tartalmaz egy emlékművet.",
                   "category": "park",
                   "coords": [
                         5.967366,
@@ -1917,7 +1917,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "H10A",
-                  "text": "A H10A egy kortárs művészeti galéria Apeldoornban.",
+                  "text": "Egy múzeum egy egykori laktanyában, helyi történeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         6.005151,
@@ -1935,7 +1935,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie PS20",
-                  "text": "A Galerie PS20 a modern művészet egyik helyszíne Apeldoornban.",
+                  "text": "Egy művészeti galéria egy egykori nyomdaépületben.",
                   "category": "museum",
                   "coords": [
                         5.967162,
@@ -1944,7 +1944,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "DAP Muziekcentrum",
-                  "text": "A DAP Muziekcentrum egy zenei és művészeti központ Apeldoornban.",
+                  "text": "Egy zenei központ nagy orgonával egy egykori templomban.",
                   "category": "cultural",
                   "coords": [
                         5.982485,
@@ -1962,7 +1962,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eben-Haëzerkerk",
-                  "text": "Az Eben-Haëzerkerk egy templom Apeldoornban.",
+                  "text": "Modern templom, 1995-ben épült, feltűnő építészetéről ismert.",
                   "category": "religious",
                   "coords": [
                         5.975954,
@@ -2124,7 +2124,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kindervreugd",
-                  "text": "Egy szép játszótér Apeldoornban, ahol a gyerekek kedvükre játszhatnak.",
+                  "text": "Egy játszótér nagy csúszdával és homokozóval.",
                   "category": "family",
                   "coords": [
                         5.937199,
@@ -2153,7 +2153,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Orpheus",
-                  "text": "Orpheus este un teatru și centru cultural important din Apeldoorn.",
+                  "text": "Un teatru și centru cultural construit în 1920 în Apeldoorn.",
                   "category": "cultural",
                   "coords": [
                         5.952953,
@@ -2162,7 +2162,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "CODA",
-                  "text": "CODA este un muzeu modern, arhivă și bibliotecă în inima orașului Apeldoorn.",
+                  "text": "Muzeu de artă modernă cu accent pe arta hârtiei și design.",
                   "category": "museum",
                   "coords": [
                         5.957146,
@@ -2180,7 +2180,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paleispark het Loo",
-                  "text": "Paleispark het Loo este o rezervație naturală vastă în jurul palatului.",
+                  "text": "Grădina barocă a Palatului Het Loo, cu fântâni și partere.",
                   "category": "natural",
                   "coords": [
                         5.923632,
@@ -2198,7 +2198,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum in de Zevende Hemel",
-                  "text": "Museum in de Zevende Hemel este un muzeu fermecător din Apeldoorn.",
+                  "text": "Un muzeu cu o colecție de îngeri și globuri cerești într-o fostă biserică.",
                   "category": "museum",
                   "coords": [
                         5.946873,
@@ -2207,7 +2207,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kakelhoeve",
-                  "text": "De Kakelhoeve este o mică grădină zoologică interactivă din Apeldoorn.",
+                  "text": "O fermă de contact cu capre, găini și un labirint de paie.",
                   "category": "family",
                   "coords": [
                         6.00598,
@@ -2216,7 +2216,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Laag Buurlo",
-                  "text": "Kinderboerderij Laag Buurlo este o fermă de animale pentru copii populară în Apeldoorn.",
+                  "text": "O fermă pentru copii cu alpaca și o grădină de legume.",
                   "category": "family",
                   "coords": [
                         6.002534,
@@ -2234,7 +2234,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kanaalpark",
-                  "text": "Kanaalpark este un spațiu verde de-a lungul canalului din Apeldoorn.",
+                  "text": "Un parc de-a lungul canalului Apeldoorn, cu o punte pietonală.",
                   "category": "park",
                   "coords": [
                         5.987111,
@@ -2243,7 +2243,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oranjepark",
-                  "text": "Oranjepark este un parc orășenesc istoric în centrul orașului Apeldoorn.",
+                  "text": "Un parc cu o orangerie și o grădină de trandafiri.",
                   "category": "park",
                   "coords": [
                         5.960337,
@@ -2252,7 +2252,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mheenpark",
-                  "text": "Mheenpark este un parc public mare din Apeldoorn.",
+                  "text": "Un parc de-a lungul pârâului Mheen, cu un loc de joacă natural.",
                   "category": "park",
                   "coords": [
                         5.987831,
@@ -2261,7 +2261,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminapark",
-                  "text": "Wilhelminapark este un parc bine întreținut din Apeldoorn.",
+                  "text": "Un parc cu o statuie a Reginei Wilhelmina și un iaz.",
                   "category": "park",
                   "coords": [
                         5.964221,
@@ -2270,7 +2270,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verzetsstrijderspark",
-                  "text": "Verzetsstrijderspark este un parc din Apeldoorn dedicat luptătorilor din rezistență.",
+                  "text": "Parcul cu un memorial pentru luptătorii de rezistență din al Doilea Război Mondial, include un monument.",
                   "category": "park",
                   "coords": [
                         5.967366,
@@ -2279,7 +2279,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "H10A",
-                  "text": "H10A este o galerie de artă contemporană din Apeldoorn.",
+                  "text": "Un muzeu într-o fostă cazarmă, cu exponate locale.",
                   "category": "museum",
                   "coords": [
                         6.005151,
@@ -2297,7 +2297,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie PS20",
-                  "text": "Galerie PS20 este un loc dedicat artei moderne în Apeldoorn.",
+                  "text": "O galerie de artă într-o fostă clădire de tipografie.",
                   "category": "museum",
                   "coords": [
                         5.967162,
@@ -2306,7 +2306,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "DAP Muziekcentrum",
-                  "text": "DAP Muziekcentrum este un centru pentru muzică și artă în Apeldoorn.",
+                  "text": "Un centru muzical cu o orgă mare într-o fostă biserică.",
                   "category": "cultural",
                   "coords": [
                         5.982485,
@@ -2324,7 +2324,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eben-Haëzerkerk",
-                  "text": "Eben-Haëzerkerk este o biserică din Apeldoorn.",
+                  "text": "Biserică modernă construită în 1995, cunoscută pentru arhitectura sa izbitoare.",
                   "category": "religious",
                   "coords": [
                         5.975954,
@@ -2486,7 +2486,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kindervreugd",
-                  "text": "Un loc de joacă frumos în Apeldoorn, unde copiii se pot distra.",
+                  "text": "Un loc de joacă cu un tobogan mare și o cutie cu nisip.",
                   "category": "family",
                   "coords": [
                         5.937199,
@@ -2515,7 +2515,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Orpheus",
-                  "text": "Orpheus is a well-known theatre and cultural centre in Apeldoorn.",
+                  "text": "A theatre and cultural venue built in 1920 in Apeldoorn.",
                   "category": "cultural",
                   "coords": [
                         5.952953,
@@ -2524,7 +2524,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "CODA",
-                  "text": "CODA is a modern museum, archive, and library in the heart of Apeldoorn.",
+                  "text": "Modern art museum with a focus on paper art and design.",
                   "category": "museum",
                   "coords": [
                         5.957146,
@@ -2542,7 +2542,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paleispark het Loo",
-                  "text": "Paleispark het Loo is a vast nature reserve surrounding the palace.",
+                  "text": "The Baroque garden of Paleis Het Loo with its fountains and parterres.",
                   "category": "natural",
                   "coords": [
                         5.923632,
@@ -2560,7 +2560,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum in de Zevende Hemel",
-                  "text": "Museum in de Zevende Hemel is a charming museum in Apeldoorn.",
+                  "text": "A museum with a collection of angels and celestial globes in a former church.",
                   "category": "museum",
                   "coords": [
                         5.946873,
@@ -2569,7 +2569,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kakelhoeve",
-                  "text": "De Kakelhoeve is a small petting zoo in Apeldoorn.",
+                  "text": "A petting farm with goats, chickens and a hay maze.",
                   "category": "family",
                   "coords": [
                         6.00598,
@@ -2578,7 +2578,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Laag Buurlo",
-                  "text": "Kinderboerderij Laag Buurlo is a popular children's farm in Apeldoorn.",
+                  "text": "A children's farm with alpacas and a vegetable garden.",
                   "category": "family",
                   "coords": [
                         6.002534,
@@ -2596,7 +2596,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kanaalpark",
-                  "text": "Kanaalpark is a green area along the canal in Apeldoorn.",
+                  "text": "A park along the Apeldoorns Kanaal with a footbridge.",
                   "category": "park",
                   "coords": [
                         5.987111,
@@ -2605,7 +2605,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oranjepark",
-                  "text": "Oranjepark is a historic city park in the center of Apeldoorn.",
+                  "text": "A park with an orangery and a rose garden.",
                   "category": "park",
                   "coords": [
                         5.960337,
@@ -2614,7 +2614,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Mheenpark",
-                  "text": "Mheenpark is a large public park in Apeldoorn.",
+                  "text": "A park following the Mheen stream with a natural playground.",
                   "category": "park",
                   "coords": [
                         5.987831,
@@ -2623,7 +2623,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wilhelminapark",
-                  "text": "Wilhelminapark is a well-maintained park area in Apeldoorn.",
+                  "text": "A park with a statue of Queen Wilhelmina and a pond.",
                   "category": "park",
                   "coords": [
                         5.964221,
@@ -2632,7 +2632,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verzetsstrijderspark",
-                  "text": "Verzetsstrijderspark is a park in Apeldoorn dedicated to resistance fighters.",
+                  "text": "Park with a memorial to WWII resistance fighters, includes a monument.",
                   "category": "park",
                   "coords": [
                         5.967366,
@@ -2641,7 +2641,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "H10A",
-                  "text": "H10A is a contemporary art gallery in Apeldoorn.",
+                  "text": "A museum in a former army barracks displaying local history.",
                   "category": "museum",
                   "coords": [
                         6.005151,
@@ -2659,7 +2659,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie PS20",
-                  "text": "Galerie PS20 is a venue for modern art in Apeldoorn.",
+                  "text": "An art gallery in a former printing press building.",
                   "category": "museum",
                   "coords": [
                         5.967162,
@@ -2668,7 +2668,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "DAP Muziekcentrum",
-                  "text": "DAP Muziekcentrum is a centre for music and arts in Apeldoorn.",
+                  "text": "A music center with a large pipe organ in a former church.",
                   "category": "cultural",
                   "coords": [
                         5.982485,
@@ -2686,7 +2686,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eben-Haëzerkerk",
-                  "text": "Eben-Haëzerkerk is a church in Apeldoorn.",
+                  "text": "Modern church built in 1995, known for its striking architecture.",
                   "category": "religious",
                   "coords": [
                         5.975954,
@@ -2848,7 +2848,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kindervreugd",
-                  "text": "A nice playground in Apeldoorn for children to enjoy.",
+                  "text": "A playground with a giant slide and a sandpit.",
                   "category": "family",
                   "coords": [
                         5.937199,
@@ -2923,7 +2923,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dierenpark Amersfoort",
-                  "text": "Ein großer Zoo, der ideal für einen Familienausflug in Amersfoort ist.",
+                  "text": "Ein Zoo mit einem großen Freigehege für Lemuren und einem Streichelzoo.",
                   "category": "family",
                   "coords": [
                         5.345876,
@@ -2932,7 +2932,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Rozendaal",
-                  "text": "Ein Schwimmbad für Freizeitaktivitäten in Amersfoort.",
+                  "text": "Ein Freibad mit einer 50-Meter-Bahn und einem Sprungbrett.",
                   "category": "family",
                   "coords": [
                         5.433643,
@@ -2941,7 +2941,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vosheuvel",
-                  "text": "Ein Tierpark für Kinder in Amersfoort.",
+                  "text": "Ein Hügel mit einer Rutsche und einer Kletterwand für Kinder.",
                   "category": "family",
                   "coords": [
                         5.405702,
@@ -2995,7 +2995,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Musiom",
-                  "text": "Ein Museum für zeitgenössische Kunst in Amersfoort.",
+                  "text": "Ein Musikmuseum im Zentrum von Amersfoort.",
                   "category": "museum",
                   "coords": [
                         5.3906,
@@ -3024,7 +3024,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dierenpark Amersfoort",
-                  "text": "Nagy állatkert, amely ideális családi kiránduláshoz Amersfoortban.",
+                  "text": "Egy állatkert nagy lemur kifutóval és állatsimogatóval.",
                   "category": "family",
                   "coords": [
                         5.345876,
@@ -3033,7 +3033,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Rozendaal",
-                  "text": "Úszómedence szabadidős tevékenységekhez Amersfoortban.",
+                  "text": "Egy szabadtéri uszoda 50 méteres sávval és ugródeszkával.",
                   "category": "family",
                   "coords": [
                         5.433643,
@@ -3042,7 +3042,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vosheuvel",
-                  "text": "Állatpark gyerekeknek Amersfoortban.",
+                  "text": "Egy domb csúszdával és mászófallal gyerekeknek.",
                   "category": "family",
                   "coords": [
                         5.405702,
@@ -3096,7 +3096,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Musiom",
-                  "text": "Kortárs művészeti múzeum Amersfoortban.",
+                  "text": "Zenei múzeum Amersfoort központjában.",
                   "category": "museum",
                   "coords": [
                         5.3906,
@@ -3125,7 +3125,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dierenpark Amersfoort",
-                  "text": "O grădină zoologică mare, ideală pentru o excursie în familie în Amersfoort.",
+                  "text": "O grădină zoologică cu un țarc mare pentru lemuri și o fermă de contact.",
                   "category": "family",
                   "coords": [
                         5.345876,
@@ -3134,7 +3134,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Rozendaal",
-                  "text": "O piscină pentru activități de agrement în Amersfoort.",
+                  "text": "O piscină în aer liber cu o bandă de 50 de metri și o trambulină.",
                   "category": "family",
                   "coords": [
                         5.433643,
@@ -3143,7 +3143,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vosheuvel",
-                  "text": "Un parc de animale pentru copii în Amersfoort.",
+                  "text": "Un deal cu un tobogan și un perete de cățărare pentru copii.",
                   "category": "family",
                   "coords": [
                         5.405702,
@@ -3197,7 +3197,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Musiom",
-                  "text": "Un muzeu de artă contemporană din Amersfoort.",
+                  "text": "Un muzeu de muzică în centrul orașului Amersfoort.",
                   "category": "museum",
                   "coords": [
                         5.3906,
@@ -3226,7 +3226,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dierenpark Amersfoort",
-                  "text": "A large zoo ideal for a family outing in Amersfoort.",
+                  "text": "A zoo with a large outdoor enclosure for lemurs and a petting zoo.",
                   "category": "family",
                   "coords": [
                         5.345876,
@@ -3235,7 +3235,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Rozendaal",
-                  "text": "A swimming pool for leisure activities in Amersfoort.",
+                  "text": "An outdoor swimming pool with a 50-meter lane and a diving board.",
                   "category": "family",
                   "coords": [
                         5.433643,
@@ -3244,7 +3244,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vosheuvel",
-                  "text": "An animal park for children in Amersfoort.",
+                  "text": "A hill with a slide and a climbing wall for children.",
                   "category": "family",
                   "coords": [
                         5.405702,
@@ -3298,7 +3298,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Musiom",
-                  "text": "A museum for contemporary art located in Amersfoort.",
+                  "text": "A music museum in the centre of Amersfoort.",
                   "category": "museum",
                   "coords": [
                         5.3906,
@@ -3499,7 +3499,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "JJ Music House",
-                  "text": "Ein Zentrum für musikalisches Schaffen und Aufführungen in Zoetermeer.",
+                  "text": "Ein Musiklokal mit einer Bühne für lokale Bands und einem Café.",
                   "category": "cultural",
                   "coords": [
                         4.528861,
@@ -3652,7 +3652,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Plas van Poot",
-                  "text": "Plas van Poot in Zoetermeer ist ein See in einer natürlichen Umgebung.",
+                  "text": "Ein See mit einem kleinen Strand und einem Steg zum Angeln.",
                   "category": "natural",
                   "coords": [
                         4.519001,
@@ -3661,7 +3661,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordhovense Plas",
-                  "text": "Noordhovense Plas in Zoetermeer ist ein See für Spaziergänge am Wasser.",
+                  "text": "Ein See mit einem Naturpfad und Vogelbeobachtungshütten.",
                   "category": "natural",
                   "coords": [
                         4.521697,
@@ -3670,7 +3670,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benthuizer Plas",
-                  "text": "Benthuizer Plas in Zoetermeer ist ein See mit einer ruhigen Atmosphäre.",
+                  "text": "Ein See mit einem Segelclub und einem Restaurant.",
                   "category": "natural",
                   "coords": [
                         4.530391,
@@ -3679,7 +3679,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoetermeerse Plas",
-                  "text": "Zoetermeerse Plas in Zoetermeer ist ein See für Freizeitaktivitäten.",
+                  "text": "Ein großer See mit einem Wassersportzentrum und einer Promenade.",
                   "category": "natural",
                   "coords": [
                         4.508146,
@@ -3688,7 +3688,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vlietland",
-                  "text": "Vlietland in Zoetermeer ist ein Seegebiet zur Erholung.",
+                  "text": "Ein Naturschutzgebiet mit Kanälen und einem Besucherzentrum.",
                   "category": "natural",
                   "coords": [
                         4.451809,
@@ -3697,7 +3697,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rottemeren",
-                  "text": "Rottemeren in Zoetermeer ist ein See mit einer schönen Landschaft.",
+                  "text": "Eine Seenplatte mit Radwegen und einem Strand.",
                   "category": "natural",
                   "coords": [
                         4.552797,
@@ -3706,7 +3706,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ackerswoudse Plas",
-                  "text": "Ackerswoudse Plas in Zoetermeer ist ein See in ruhiger Lage.",
+                  "text": "Ein See mit einem Sandstrand und einem Spielplatz.",
                   "category": "natural",
                   "coords": [
                         4.446342,
@@ -3715,7 +3715,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jump One",
-                  "text": "Jump One in Zoetermeer ist ein Trampolinpark für Familienspaß.",
+                  "text": "Eine Indoor-Trampolinanlage mit einer Schaumstoffgrube und einem Basketball-Dunk-Lane.",
                   "category": "family",
                   "coords": [
                         4.498572,
@@ -3724,7 +3724,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelbos De Balij",
-                  "text": "Speelbos De Balij in Zoetermeer ist ein Waldspielplatz für Kinder.",
+                  "text": "Ein Waldspielplatz mit Seilbrücken und einem Baumhaus.",
                   "category": "family",
                   "coords": [
                         4.456567,
@@ -3742,7 +3742,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "\"Het Pleintje\"",
-                  "text": "\"Het Pleintje\" in Zoetermeer ist ein lokaler Spielplatz für Kinder.",
+                  "text": "Ein kleiner Platz mit einem Wasserspringbrunnen und Bänken.",
                   "category": "family",
                   "coords": [
                         4.479882,
@@ -3751,7 +3751,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin De Vrijbuiter",
-                  "text": "Natuurspeeltuin De Vrijbuiter in Zoetermeer ist ein Spielplatz für Familien.",
+                  "text": "Ein Naturspielplatz mit einer Seilbahn und einem Matschbecken.",
                   "category": "family",
                   "coords": [
                         4.535054,
@@ -3760,7 +3760,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Gat in de Markt",
-                  "text": "Het Gat in de Markt in Zoetermeer ist ein Spielplatz für Kinder.",
+                  "text": "Ein Spielplatz auf dem Marktplatz mit einem Kletternetz und einem Sandkasten.",
                   "category": "family",
                   "coords": [
                         4.494046,
@@ -3924,7 +3924,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "JJ Music House",
-                  "text": "Zenei kreativitás és előadások központja Zoetermeerben.",
+                  "text": "Egy zenei helyszín színpaddal helyi zenekarok számára és egy kávézóval.",
                   "category": "cultural",
                   "coords": [
                         4.528861,
@@ -4077,7 +4077,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Plas van Poot",
-                  "text": "A zoetermeeri Plas van Poot egy tó természeti környezetben.",
+                  "text": "Egy tó kis stranddal és egy horgászstéggel.",
                   "category": "natural",
                   "coords": [
                         4.519001,
@@ -4086,7 +4086,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordhovense Plas",
-                  "text": "A zoetermeeri Noordhovense Plas egy tó vízparti sétákhoz.",
+                  "text": "Egy tó természetösvénnyel és madárlesekkel.",
                   "category": "natural",
                   "coords": [
                         4.521697,
@@ -4095,7 +4095,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benthuizer Plas",
-                  "text": "A zoetermeeri Benthuizer Plas egy nyugodt légkörű tó.",
+                  "text": "Egy tó vitorlásklubbal és egy étteremmel.",
                   "category": "natural",
                   "coords": [
                         4.530391,
@@ -4104,7 +4104,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoetermeerse Plas",
-                  "text": "A zoetermeeri Zoetermeerse Plas egy tó szabadidős tevékenységekhez.",
+                  "text": "Egy nagy tó vízi sportközponttal és sétánnyal.",
                   "category": "natural",
                   "coords": [
                         4.508146,
@@ -4113,7 +4113,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vlietland",
-                  "text": "A zoetermeeri Vlietland egy tóvidék a kikapcsolódásra.",
+                  "text": "Egy természetvédelmi terület csatornákkal és látogatóközponttal.",
                   "category": "natural",
                   "coords": [
                         4.451809,
@@ -4122,7 +4122,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rottemeren",
-                  "text": "A zoetermeeri Rottemeren egy szép tájjal rendelkező tó.",
+                  "text": "Egy tórendszer kerékpárutakkal és egy stranddal.",
                   "category": "natural",
                   "coords": [
                         4.552797,
@@ -4131,7 +4131,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ackerswoudse Plas",
-                  "text": "A zoetermeeri Ackerswoudse Plas egy nyugodt fekvésű tó.",
+                  "text": "Egy tó homokos stranddal és játszótérrel.",
                   "category": "natural",
                   "coords": [
                         4.446342,
@@ -4140,7 +4140,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jump One",
-                  "text": "A zoetermeeri Jump One egy trambulinpark a család szórakozására.",
+                  "text": "Egy fedett trambulinpark habgödörrel és kosárlabda-dobó sávval.",
                   "category": "family",
                   "coords": [
                         4.498572,
@@ -4149,7 +4149,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelbos De Balij",
-                  "text": "A zoetermeeri Speelbos De Balij egy erdei játszótér gyermekeknek.",
+                  "text": "Egy erdei játszótér kötélhidakkal és egy fára épített házzal.",
                   "category": "family",
                   "coords": [
                         4.456567,
@@ -4167,7 +4167,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "\"Het Pleintje\"",
-                  "text": "A zoetermeeri \"Het Pleintje\" egy helyi játszótér a gyermekeknek.",
+                  "text": "Egy kis tér vízsugárral és padokkal.",
                   "category": "family",
                   "coords": [
                         4.479882,
@@ -4176,7 +4176,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin De Vrijbuiter",
-                  "text": "A zoetermeeri Natuurspeeltuin De Vrijbuiter egy játszótér családok számára.",
+                  "text": "Egy természetes játszótér kötélpályával és sármedencével.",
                   "category": "family",
                   "coords": [
                         4.535054,
@@ -4185,7 +4185,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Gat in de Markt",
-                  "text": "A zoetermeeri Het Gat in de Markt egy játszótér a gyermekeknek.",
+                  "text": "Egy játszótér a piacon, mászóhálóval és homokozóval.",
                   "category": "family",
                   "coords": [
                         4.494046,
@@ -4349,7 +4349,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "JJ Music House",
-                  "text": "Un centru pentru creativitate muzicală și spectacole situat în Zoetermeer.",
+                  "text": "Un local de muzică cu o scenă pentru trupe locale și o cafenea.",
                   "category": "cultural",
                   "coords": [
                         4.528861,
@@ -4502,7 +4502,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Plas van Poot",
-                  "text": "Plas van Poot din Zoetermeer este un lac într-un cadru natural.",
+                  "text": "Un lac cu o plajă mică și un ponton pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         4.519001,
@@ -4511,7 +4511,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordhovense Plas",
-                  "text": "Noordhovense Plas din Zoetermeer este un lac pentru plimbări pe malul apei.",
+                  "text": "Un lac cu un traseu natural și ascunzători pentru observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         4.521697,
@@ -4520,7 +4520,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benthuizer Plas",
-                  "text": "Benthuizer Plas din Zoetermeer este un lac cu o atmosferă liniștită.",
+                  "text": "Un lac cu un club de navigație și un restaurant.",
                   "category": "natural",
                   "coords": [
                         4.530391,
@@ -4529,7 +4529,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoetermeerse Plas",
-                  "text": "Zoetermeerse Plas din Zoetermeer este un lac pentru activități recreative.",
+                  "text": "Un lac mare cu un centru de sporturi nautice și o promenadă.",
                   "category": "natural",
                   "coords": [
                         4.508146,
@@ -4538,7 +4538,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vlietland",
-                  "text": "Vlietland din Zoetermeer este o zonă de lacuri pentru recreere.",
+                  "text": "O rezervație naturală cu canale și un centru de vizitare.",
                   "category": "natural",
                   "coords": [
                         4.451809,
@@ -4547,7 +4547,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rottemeren",
-                  "text": "Rottemeren din Zoetermeer este un lac cu un peisaj frumos.",
+                  "text": "Un grup de lacuri cu piste de biciclete și o plajă.",
                   "category": "natural",
                   "coords": [
                         4.552797,
@@ -4556,7 +4556,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ackerswoudse Plas",
-                  "text": "Ackerswoudse Plas din Zoetermeer este un lac situat într-o zonă liniștită.",
+                  "text": "Un lac cu o plajă nisipoasă și un loc de joacă.",
                   "category": "natural",
                   "coords": [
                         4.446342,
@@ -4565,7 +4565,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jump One",
-                  "text": "Jump One din Zoetermeer este un parc de trambuline pentru distracția familiei.",
+                  "text": "Un parc de trambuline acoperit cu o groapă cu spumă și o bandă de baschet.",
                   "category": "family",
                   "coords": [
                         4.498572,
@@ -4574,7 +4574,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelbos De Balij",
-                  "text": "Speelbos De Balij din Zoetermeer este un loc de joacă în pădure pentru copii.",
+                  "text": "Un loc de joacă în pădure cu poduri de frânghie și o căsuță în copac.",
                   "category": "family",
                   "coords": [
                         4.456567,
@@ -4592,7 +4592,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "\"Het Pleintje\"",
-                  "text": "„Het Pleintje” din Zoetermeer este un loc de joacă local pentru copii.",
+                  "text": "O piațetă cu o fântână arteziană și bănci.",
                   "category": "family",
                   "coords": [
                         4.479882,
@@ -4601,7 +4601,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin De Vrijbuiter",
-                  "text": "Natuurspeeltuin De Vrijbuiter din Zoetermeer este un loc de joacă pentru familii.",
+                  "text": "Un loc de joacă natural cu o tiroliană și o piscină de noroi.",
                   "category": "family",
                   "coords": [
                         4.535054,
@@ -4610,7 +4610,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Gat in de Markt",
-                  "text": "Het Gat in de Markt din Zoetermeer este un loc de joacă pentru copii.",
+                  "text": "Un loc de joacă în piață, cu o plasă de cățărare și o cutie cu nisip.",
                   "category": "family",
                   "coords": [
                         4.494046,
@@ -4774,7 +4774,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "JJ Music House",
-                  "text": "A center for musical creativity and performances located in Zoetermeer.",
+                  "text": "A music venue with a stage for local bands and a café.",
                   "category": "cultural",
                   "coords": [
                         4.528861,
@@ -4927,7 +4927,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Plas van Poot",
-                  "text": "Plas van Poot in Zoetermeer is a lake in a natural setting.",
+                  "text": "A lake with a small beach and a pontoon for fishing.",
                   "category": "natural",
                   "coords": [
                         4.519001,
@@ -4936,7 +4936,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noordhovense Plas",
-                  "text": "Noordhovense Plas in Zoetermeer is a lake for walks by the water.",
+                  "text": "A lake with a nature trail and bird hides.",
                   "category": "natural",
                   "coords": [
                         4.521697,
@@ -4945,7 +4945,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benthuizer Plas",
-                  "text": "Benthuizer Plas in Zoetermeer is a lake with a calm atmosphere.",
+                  "text": "A lake with a sailing club and a restaurant.",
                   "category": "natural",
                   "coords": [
                         4.530391,
@@ -4954,7 +4954,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoetermeerse Plas",
-                  "text": "Zoetermeerse Plas in Zoetermeer is a lake for recreational activities.",
+                  "text": "A large lake with a water sports centre and a promenade.",
                   "category": "natural",
                   "coords": [
                         4.508146,
@@ -4963,7 +4963,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vlietland",
-                  "text": "Vlietland in Zoetermeer is a lake area for recreation.",
+                  "text": "A nature reserve with canals and a visitor center.",
                   "category": "natural",
                   "coords": [
                         4.451809,
@@ -4972,7 +4972,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rottemeren",
-                  "text": "Rottemeren in Zoetermeer is a lake with a beautiful landscape.",
+                  "text": "A series of lakes with cycle paths and a beach.",
                   "category": "natural",
                   "coords": [
                         4.552797,
@@ -4981,7 +4981,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ackerswoudse Plas",
-                  "text": "Ackerswoudse Plas in Zoetermeer is a lake in a quiet location.",
+                  "text": "A lake with a sandy beach and a playground.",
                   "category": "natural",
                   "coords": [
                         4.446342,
@@ -4990,7 +4990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jump One",
-                  "text": "Jump One in Zoetermeer is a trampoline park for family fun.",
+                  "text": "An indoor trampoline park with a foam pit and a basketball dunk lane.",
                   "category": "family",
                   "coords": [
                         4.498572,
@@ -4999,7 +4999,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelbos De Balij",
-                  "text": "Speelbos De Balij in Zoetermeer is a forest playground for children.",
+                  "text": "A forest play area with rope bridges and a treehouse.",
                   "category": "family",
                   "coords": [
                         4.456567,
@@ -5017,7 +5017,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "\"Het Pleintje\"",
-                  "text": "\"Het Pleintje\" in Zoetermeer is a local playground for children.",
+                  "text": "A small square with a water fountain and benches.",
                   "category": "family",
                   "coords": [
                         4.479882,
@@ -5026,7 +5026,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin De Vrijbuiter",
-                  "text": "Natuurspeeltuin De Vrijbuiter in Zoetermeer is a playground for families.",
+                  "text": "A nature playground with a zip line and a mud pool.",
                   "category": "family",
                   "coords": [
                         4.535054,
@@ -5035,7 +5035,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Gat in de Markt",
-                  "text": "Het Gat in de Markt in Zoetermeer is a playground for children.",
+                  "text": "A playground in the market square with a climbing net and a sandbox.",
                   "category": "family",
                   "coords": [
                         4.494046,
@@ -5119,7 +5119,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kure-Janstrand",
-                  "text": "Kure-Janstrand in Zaanstad.",
+                  "text": "Ein Sandstrand entlang der Zaan mit einem Strandpavillon.",
                   "category": "recreational",
                   "coords": [
                         4.89446,
@@ -5128,7 +5128,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelsloot",
-                  "text": "Speelsloot Strand in Zaanstad.",
+                  "text": "Ein Spielbereich mit einem flachen Wasserbach und Holzbrücken.",
                   "category": "recreational",
                   "coords": [
                         4.897793,
@@ -5137,7 +5137,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vennegatstrand",
-                  "text": "Vennegatstrand in Zaanstad.",
+                  "text": "Ein Strand am Vennegat-See mit einem Volleyballfeld.",
                   "category": "recreational",
                   "coords": [
                         4.893879,
@@ -5146,7 +5146,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doesstrand",
-                  "text": "Doesstrand in Zaanstad.",
+                  "text": "Ein Strand an der Does mit einem Picknickbereich.",
                   "category": "recreational",
                   "coords": [
                         4.893637,
@@ -5155,7 +5155,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Leers",
-                  "text": "De Leers Strand in Zaanstad.",
+                  "text": "Ein Erholungsgebiet mit Fahrradwegen und einem Pfannkuchenrestaurant.",
                   "category": "recreational",
                   "coords": [
                         4.886101,
@@ -5164,7 +5164,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Schoorlstrand",
-                  "text": "'t Schoorlstrand in Zaanstad.",
+                  "text": "Ein Strand am Noordzeekanaal mit einer Sonnenliegewiese.",
                   "category": "recreational",
                   "coords": [
                         4.880428,
@@ -5200,7 +5200,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kunstgreep",
-                  "text": "De Kunstgreep ist ein Theater und Kulturzentrum in Zaanstad.",
+                  "text": "Ein Kulturzentrum mit Ausstellungsräumen in einem ehemaligen Lagerhaus.",
                   "category": "cultural",
                   "coords": [
                         4.875972,
@@ -5209,7 +5209,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaans Cultuurhuis",
-                  "text": "Das Zaans Cultuurhuis ist ein Ort für darstellende Künste in Zaanstad.",
+                  "text": "Ein Kulturhaus mit einem Theatersaal und einem Café.",
                   "category": "cultural",
                   "coords": [
                         4.81553,
@@ -5218,7 +5218,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaantheater",
-                  "text": "Das Zaantheater ist ein bekanntes Theater in Zaanstad.",
+                  "text": "Ein Theater mit einem historischen Zuschauerraum und einer modernen Bühne.",
                   "category": "cultural",
                   "coords": [
                         4.825397,
@@ -5227,7 +5227,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ZAMU",
-                  "text": "ZAMU ist ein Museum in Zaanstad.",
+                  "text": "Museum ZAMU in Zaanstad, eröffnet 2025.",
                   "category": "museum",
                   "coords": [
                         4.837972,
@@ -5245,7 +5245,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kuifeend",
-                  "text": "Kuifeend ist ein lokaler Strandbereich in Zaanstad.",
+                  "text": "Ein künstlicher See mit Vogelbeobachtungshütten, beliebt zum Vogelbeobachten in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.838526,
@@ -5263,7 +5263,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "MuziekHaven",
-                  "text": "MuziekHaven ist ein Theater und Konzertort in Zaanstad.",
+                  "text": "Ein Musikveranstaltungsort am Hafen mit Open-Air-Konzerten in Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.817771,
@@ -5272,7 +5272,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Podium De Flux",
-                  "text": "Podium De Flux ist ein Veranstaltungsort für Live-Musik in Zaanstad.",
+                  "text": "Ein Theater und eine Bühne in einem umgenutzten Industriegebäude in Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.819093,
@@ -5281,7 +5281,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aalscholverstrand",
-                  "text": "Aalscholverstrand ist ein Strand in Zaanstad.",
+                  "text": "Ein Sandstrand an einem See, benannt nach dem Kormoran, zum Sonnenbaden und Schwimmen in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.833724,
@@ -5290,7 +5290,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Watersnip",
-                  "text": "Watersnip ist ein Strandbereich in Zaanstad.",
+                  "text": "Ein Feuchtgebiet-Naturschutzgebiet mit Schilf und Wanderwegen in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.833849,
@@ -5299,7 +5299,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fuut",
-                  "text": "Fuut ist ein Strand in Zaanstad.",
+                  "text": "Ein See mit schwimmenden Nestern für Haubentaucher, ideal zum Vogelbeobachten in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.83126,
@@ -5308,7 +5308,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Smient",
-                  "text": "Smient ist ein Strandbereich in Zaanstad.",
+                  "text": "Eine Graswiese mit Gräben, ein Rastplatz für Pfeifenten in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.831596,
@@ -5317,7 +5317,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Veldmuis",
-                  "text": "Die Kinderboerderij De Veldmuis ist ein kleiner Zoo für Kinder in Zaanstad.",
+                  "text": "Ein Streichelzoo mit Ziegen, Kaninchen und einem Spielplatz in Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.805724,
@@ -5326,7 +5326,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Darwinpark",
-                  "text": "Die Stadsboerderij Darwinpark ist ein Stadtbauernhof in Zaanstad.",
+                  "text": "Ein Stadtbauernhof im Darwinpark mit Gemüsegärten und Nutztieren in Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.844852,
@@ -5335,7 +5335,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fronik Buurtboerderij",
-                  "text": "Fronik Buurtboerderij ist ein kleiner Gemeinschaftsbauernhof in Zaanstad.",
+                  "text": "Ein Nachbarschaftshof mit einem Bauernhof für Pflege und pädagogischen Aktivitäten in Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.805481,
@@ -5344,7 +5344,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Windjager",
-                  "text": "De Windjager ist eine historische Windmühle in Zaanstad.",
+                  "text": "Traditionelle niederländische Windmühle von 1789, zum Mahlen von Getreide genutzt.",
                   "category": "landmark",
                   "coords": [
                         4.851816,
@@ -5371,7 +5371,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volkspark",
-                  "text": "Der Volkspark ist eine öffentliche Grünanlage in Zaanstad.",
+                  "text": "Ein öffentlicher Park im Zentrum von Zaanstad (Zaandam).",
                   "category": "park",
                   "coords": [
                         4.813201,
@@ -5380,7 +5380,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vijfhoekpark",
-                  "text": "Der Vijfhoekpark ist eine Parkanlage in Zaanstad.",
+                  "text": "Fünfeckiger Park mit einem Teich und Spielplatz.",
                   "category": "park",
                   "coords": [
                         4.847329,
@@ -5389,7 +5389,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fluxus",
-                  "text": "Fluxus ist ein Zentrum für künstlerische Bildung und Kultur in Zaanstad.",
+                  "text": "Eine Kunstgalerie und Ausstellungsfläche in einem ehemaligen Fabrikgebäude in Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.818224,
@@ -5398,7 +5398,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Labyrint Darwinpark",
-                  "text": "Das Labyrint Darwinpark ist eine interessante Attraktion im Darwinpark in Zaanstad.",
+                  "text": "Ein grünes Heckelabyrinth im Darwinpark, geeignet für Spaziergänge in Zaanstad.",
                   "category": "landmark",
                   "coords": [
                         4.841203,
@@ -5407,7 +5407,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Vermaning",
-                  "text": "Die Doopsgezinde Vermaning ist eine historische mennonitische Kirche in Zaandam.",
+                  "text": "Mennonitisches Versammlungshaus aus dem 17. Jahrhundert mit einer versteckten Fassade.",
                   "category": "religious",
                   "coords": [
                         4.822182,
@@ -5443,7 +5443,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaanspoorbrug",
-                  "text": "Eine historische Eisenbahnbrücke in Zaanstad.",
+                  "text": "Hubbrücke über die Zaan, erbaut 1880.",
                   "category": "landmark",
                   "coords": [
                         4.81283,
@@ -5454,7 +5454,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kure-Janstrand",
-                  "text": "Kure-Janstrand strand Zaanstadban.",
+                  "text": "Egy homokos strand a Zaan folyó mentén, strandpavilonnal.",
                   "category": "recreational",
                   "coords": [
                         4.89446,
@@ -5463,7 +5463,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelsloot",
-                  "text": "Speelsloot strand Zaanstadban.",
+                  "text": "Egy játszóterület sekély vízfolyással és fahidakkal.",
                   "category": "recreational",
                   "coords": [
                         4.897793,
@@ -5472,7 +5472,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vennegatstrand",
-                  "text": "Vennegatstrand strand Zaanstadban.",
+                  "text": "Egy strand a Vennegat-tó partján, röplabdapályával.",
                   "category": "recreational",
                   "coords": [
                         4.893879,
@@ -5481,7 +5481,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doesstrand",
-                  "text": "Doesstrand strand Zaanstadban.",
+                  "text": "Egy strand a Does folyónál, piknikezőhellyel.",
                   "category": "recreational",
                   "coords": [
                         4.893637,
@@ -5490,7 +5490,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Leers",
-                  "text": "De Leers strand Zaanstadban.",
+                  "text": "Egy rekreációs terület kerékpárutakkal és palacsintázóval.",
                   "category": "recreational",
                   "coords": [
                         4.886101,
@@ -5499,7 +5499,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Schoorlstrand",
-                  "text": "'t Schoorlstrand strand Zaanstadban.",
+                  "text": "Egy strand a Noordzeekanaal partján, napozóréttel.",
                   "category": "recreational",
                   "coords": [
                         4.880428,
@@ -5535,7 +5535,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kunstgreep",
-                  "text": "A De Kunstgreep egy színház és kulturális központ Zaanstadban.",
+                  "text": "Egy kulturális központ kiállítótermekkel egy egykori raktárépületben.",
                   "category": "cultural",
                   "coords": [
                         4.875972,
@@ -5544,7 +5544,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaans Cultuurhuis",
-                  "text": "A Zaans Cultuurhuis az előadóművészetek egyik helyszíne Zaanstadban.",
+                  "text": "Egy kultúrház színházteremmel és kávézóval.",
                   "category": "cultural",
                   "coords": [
                         4.81553,
@@ -5553,7 +5553,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaantheater",
-                  "text": "A Zaantheater egy ismert színház Zaanstadban.",
+                  "text": "Egy színház történelmi nézőtérrel és modern színpaddal.",
                   "category": "cultural",
                   "coords": [
                         4.825397,
@@ -5562,7 +5562,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ZAMU",
-                  "text": "A ZAMU egy múzeum Zaanstadban.",
+                  "text": "ZAMU múzeum Zaanstadban, 2025-ben nyílik meg.",
                   "category": "museum",
                   "coords": [
                         4.837972,
@@ -5580,7 +5580,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kuifeend",
-                  "text": "A Kuifeend egy helyi strand Zaanstadban.",
+                  "text": "Mesterséges tó madármegfigyelő kunyhókkal, népszerű madármegfigyelésre Zaanstadban.",
                   "category": "recreational",
                   "coords": [
                         4.838526,
@@ -5598,7 +5598,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "MuziekHaven",
-                  "text": "A MuziekHaven egy színház és koncerthelyszín Zaanstadban.",
+                  "text": "Zenés helyszín a kikötőben szabadtéri koncertekkel Zaanstadban.",
                   "category": "cultural",
                   "coords": [
                         4.817771,
@@ -5607,7 +5607,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Podium De Flux",
-                  "text": "A Podium De Flux egy élőzenei helyszín Zaanstadban.",
+                  "text": "Színház és előadószínpad egy átalakított ipari épületben Zaanstadban.",
                   "category": "cultural",
                   "coords": [
                         4.819093,
@@ -5616,7 +5616,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aalscholverstrand",
-                  "text": "Az Aalscholverstrand egy strand Zaanstadban.",
+                  "text": "Homokos strand egy tavon, a kormoránról elnevezve, napozásra és úszásra Zaanstadban.",
                   "category": "recreational",
                   "coords": [
                         4.833724,
@@ -5625,7 +5625,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Watersnip",
-                  "text": "A Watersnip egy strand Zaanstadban.",
+                  "text": "Nedves területű természetvédelmi terület nádassal és sétányokkal Zaanstadban.",
                   "category": "recreational",
                   "coords": [
                         4.833849,
@@ -5634,7 +5634,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fuut",
-                  "text": "A Fuut egy strand Zaanstadban.",
+                  "text": "Tó úszó fészkekkel a búbos vöcskök számára, ideális madármegfigyelésre Zaanstadban.",
                   "category": "recreational",
                   "coords": [
                         4.83126,
@@ -5643,7 +5643,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Smient",
-                  "text": "A Smient egy strand Zaanstadban.",
+                  "text": "Füves rét csatornákkal, a nyílfarkú récék pihenőhelye Zaanstadban.",
                   "category": "recreational",
                   "coords": [
                         4.831596,
@@ -5652,7 +5652,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Veldmuis",
-                  "text": "A Kinderboerderij De Veldmuis egy kis állatsimogató gyerekeknek Zaanstadban.",
+                  "text": "Simogató állatkert kecskékkel, nyulakkal és játszótérrel Zaanstadban.",
                   "category": "family",
                   "coords": [
                         4.805724,
@@ -5661,7 +5661,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Darwinpark",
-                  "text": "A Stadsboerderij Darwinpark egy városi tanya Zaanstadban.",
+                  "text": "Városi gazdaság a Darwin Parkban zöldségeskertekkel és haszonállatokkal Zaanstadban.",
                   "category": "family",
                   "coords": [
                         4.844852,
@@ -5670,7 +5670,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fronik Buurtboerderij",
-                  "text": "A Fronik Buurtboerderij egy kis közösségi tanya Zaanstadban.",
+                  "text": "Szomszédsági gazdaság gondozófarmmal és oktatási tevékenységekkel Zaanstadban.",
                   "category": "family",
                   "coords": [
                         4.805481,
@@ -5679,7 +5679,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Windjager",
-                  "text": "A De Windjager egy történelmi szélmalom Zaanstadban.",
+                  "text": "Hagyományos holland szélmalom 1789-ből, gabona őrlésére használták.",
                   "category": "landmark",
                   "coords": [
                         4.851816,
@@ -5706,7 +5706,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volkspark",
-                  "text": "A Volkspark egy nyilvános zöldövezet Zaanstadban.",
+                  "text": "Közkert Zaanstad (Zaandam) központjában.",
                   "category": "park",
                   "coords": [
                         4.813201,
@@ -5715,7 +5715,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vijfhoekpark",
-                  "text": "A Vijfhoekpark egy park Zaanstadban.",
+                  "text": "Ötszög alakú park tóval és játszótérrel.",
                   "category": "park",
                   "coords": [
                         4.847329,
@@ -5724,7 +5724,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fluxus",
-                  "text": "A Fluxus egy művészeti oktatási és kulturális központ Zaanstadban.",
+                  "text": "Művészeti galéria és kiállítótér egy egykori gyárépületben Zaanstadban.",
                   "category": "cultural",
                   "coords": [
                         4.818224,
@@ -5733,7 +5733,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Labyrint Darwinpark",
-                  "text": "A Labyrint Darwinpark egy érdekes látnivaló a zaanstadi Darwinparkban.",
+                  "text": "Zöld sövénylabirintus a Darwin Parkban, sétákra alkalmas Zaanstadban.",
                   "category": "landmark",
                   "coords": [
                         4.841203,
@@ -5742,7 +5742,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Vermaning",
-                  "text": "A Doopsgezinde Vermaning egy történelmi mennonita templom Zaandamban.",
+                  "text": "17. századi mennonita gyülekezeti ház rejtett homlokzattal.",
                   "category": "religious",
                   "coords": [
                         4.822182,
@@ -5778,7 +5778,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaanspoorbrug",
-                  "text": "Egy történelmi vasúti híd Zaanstadban.",
+                  "text": "Emelhető vasúti híd a Zaan folyón, 1880-ban épült.",
                   "category": "landmark",
                   "coords": [
                         4.81283,
@@ -5789,7 +5789,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kure-Janstrand",
-                  "text": "Kure-Janstrand în Zaanstad.",
+                  "text": "O plajă nisipoasă de-a lungul râului Zaan, cu un pavilion de plajă.",
                   "category": "recreational",
                   "coords": [
                         4.89446,
@@ -5798,7 +5798,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelsloot",
-                  "text": "Speelsloot în Zaanstad.",
+                  "text": "O zonă de joacă cu un pârâu de apă puțin adânc și poduri de lemn.",
                   "category": "recreational",
                   "coords": [
                         4.897793,
@@ -5807,7 +5807,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vennegatstrand",
-                  "text": "Vennegatstrand în Zaanstad.",
+                  "text": "O plajă pe lacul Vennegat, cu un teren de volei.",
                   "category": "recreational",
                   "coords": [
                         4.893879,
@@ -5816,7 +5816,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doesstrand",
-                  "text": "Doesstrand în Zaanstad.",
+                  "text": "O plajă pe râul Does, cu o zonă de picnic.",
                   "category": "recreational",
                   "coords": [
                         4.893637,
@@ -5825,7 +5825,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Leers",
-                  "text": "De Leers în Zaanstad.",
+                  "text": "O zonă de agrement cu piste de biciclete și un restaurant de clătite.",
                   "category": "recreational",
                   "coords": [
                         4.886101,
@@ -5834,7 +5834,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Schoorlstrand",
-                  "text": "'t Schoorlstrand în Zaanstad.",
+                  "text": "O plajă pe canalul Noordzeekanaal, cu o pajiște pentru bronzat.",
                   "category": "recreational",
                   "coords": [
                         4.880428,
@@ -5870,7 +5870,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kunstgreep",
-                  "text": "De Kunstgreep este un teatru și centru cultural din Zaanstad.",
+                  "text": "Un centru cultural cu spații de expoziție într-un fost depozit.",
                   "category": "cultural",
                   "coords": [
                         4.875972,
@@ -5879,7 +5879,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaans Cultuurhuis",
-                  "text": "Zaans Cultuurhuis este un loc pentru artele spectacolului în Zaanstad.",
+                  "text": "O casă de cultură cu o sală de teatru și o cafenea.",
                   "category": "cultural",
                   "coords": [
                         4.81553,
@@ -5888,7 +5888,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaantheater",
-                  "text": "Zaantheater este un teatru bine-cunoscut din Zaanstad.",
+                  "text": "Un teatru cu un auditoriu istoric și o scenă modernă.",
                   "category": "cultural",
                   "coords": [
                         4.825397,
@@ -5897,7 +5897,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ZAMU",
-                  "text": "ZAMU este un muzeu din Zaanstad.",
+                  "text": "Muzeul ZAMU din Zaanstad, deschis în 2025.",
                   "category": "museum",
                   "coords": [
                         4.837972,
@@ -5915,7 +5915,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kuifeend",
-                  "text": "Kuifeend este o zonă de plajă locală din Zaanstad.",
+                  "text": "Un lac artificial cu colibe de observație a păsărilor, popular pentru observarea păsărilor în Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.838526,
@@ -5933,7 +5933,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "MuziekHaven",
-                  "text": "MuziekHaven este un teatru și loc de concerte din Zaanstad.",
+                  "text": "Un loc de muzică în port cu concerte în aer liber în Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.817771,
@@ -5942,7 +5942,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Podium De Flux",
-                  "text": "Podium De Flux este o sală de concerte din Zaanstad.",
+                  "text": "Un teatru și o scenă de spectacol într-o clădire industrială reutilizată în Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.819093,
@@ -5951,7 +5951,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aalscholverstrand",
-                  "text": "Aalscholverstrand este o plajă din Zaanstad.",
+                  "text": "O plajă nisipoasă pe un lac, numită după cormoran, pentru plajă și înot în Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.833724,
@@ -5960,7 +5960,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Watersnip",
-                  "text": "Watersnip este o zonă de plajă din Zaanstad.",
+                  "text": "O rezervație naturală umedă cu stuf și trasee de plimbare în Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.833849,
@@ -5969,7 +5969,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fuut",
-                  "text": "Fuut este o plajă din Zaanstad.",
+                  "text": "Un lac cu cuiburi plutitoare pentru lișițe, ideal pentru observarea păsărilor în Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.83126,
@@ -5978,7 +5978,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Smient",
-                  "text": "Smient este o zonă de plajă din Zaanstad.",
+                  "text": "O pajiște cu șanțuri, o zonă de odihnă pentru rațele fluierătoare în Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.831596,
@@ -5987,7 +5987,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Veldmuis",
-                  "text": "Kinderboerderij De Veldmuis este o mică grădină zoologică pentru copii în Zaanstad.",
+                  "text": "O fermă de animale de companie cu capre, iepuri și un loc de joacă în Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.805724,
@@ -5996,7 +5996,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Darwinpark",
-                  "text": "Stadsboerderij Darwinpark este o fermă urbană din Zaanstad.",
+                  "text": "O fermă urbană în Parcul Darwin cu grădini de legume și animale de fermă în Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.844852,
@@ -6005,7 +6005,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fronik Buurtboerderij",
-                  "text": "Fronik Buurtboerderij este o mică fermă comunitară din Zaanstad.",
+                  "text": "O fermă de cartier cu o fermă de îngrijire și activități educaționale în Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.805481,
@@ -6014,7 +6014,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Windjager",
-                  "text": "De Windjager este o moară de vânt istorică din Zaanstad.",
+                  "text": "Moară de vânt tradițională olandeză din 1789, folosită pentru măcinat cereale.",
                   "category": "landmark",
                   "coords": [
                         4.851816,
@@ -6041,7 +6041,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volkspark",
-                  "text": "Volkspark este un spațiu verde public din Zaanstad.",
+                  "text": "Un parc public în centrul orașului Zaanstad (Zaandam).",
                   "category": "park",
                   "coords": [
                         4.813201,
@@ -6050,7 +6050,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vijfhoekpark",
-                  "text": "Vijfhoekpark este un parc din Zaanstad.",
+                  "text": "Parcul în formă de pentagon cu un iaz și loc de joacă.",
                   "category": "park",
                   "coords": [
                         4.847329,
@@ -6059,7 +6059,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fluxus",
-                  "text": "Fluxus este un centru pentru educație artistică și cultură în Zaanstad.",
+                  "text": "O galerie de artă și spațiu expozițional într-o fostă clădire de fabrică în Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.818224,
@@ -6068,7 +6068,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Labyrint Darwinpark",
-                  "text": "Labyrint Darwinpark este o atracție interesantă din Darwinpark, Zaanstad.",
+                  "text": "Un labirint verde de gard viu în Parcul Darwin, potrivit pentru plimbări în Zaanstad.",
                   "category": "landmark",
                   "coords": [
                         4.841203,
@@ -6077,7 +6077,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Vermaning",
-                  "text": "Doopsgezinde Vermaning este o biserică menonită istorică din Zaandam.",
+                  "text": "Casă de întâlnire menonită din secolul al XVII-lea cu o fațadă ascunsă.",
                   "category": "religious",
                   "coords": [
                         4.822182,
@@ -6113,7 +6113,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaanspoorbrug",
-                  "text": "Un pod feroviar istoric în Zaanstad.",
+                  "text": "Pod feroviar basculant peste râul Zaan, construit în 1880.",
                   "category": "landmark",
                   "coords": [
                         4.81283,
@@ -6124,7 +6124,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kure-Janstrand",
-                  "text": "Kure-Janstrand in Zaanstad.",
+                  "text": "A sandy beach along the Zaan river with a beach pavilion.",
                   "category": "recreational",
                   "coords": [
                         4.89446,
@@ -6133,7 +6133,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelsloot",
-                  "text": "Speelsloot in Zaanstad.",
+                  "text": "A play area with a shallow water creek and wooden bridges.",
                   "category": "recreational",
                   "coords": [
                         4.897793,
@@ -6142,7 +6142,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vennegatstrand",
-                  "text": "Vennegatstrand in Zaanstad.",
+                  "text": "A beach on the Vennegat lake with a volleyball court.",
                   "category": "recreational",
                   "coords": [
                         4.893879,
@@ -6151,7 +6151,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doesstrand",
-                  "text": "Doesstrand in Zaanstad.",
+                  "text": "A beach on the Does river with a picnic area.",
                   "category": "recreational",
                   "coords": [
                         4.893637,
@@ -6160,7 +6160,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Leers",
-                  "text": "De Leers in Zaanstad.",
+                  "text": "A recreational area with bike trails and a pancake restaurant.",
                   "category": "recreational",
                   "coords": [
                         4.886101,
@@ -6169,7 +6169,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Schoorlstrand",
-                  "text": "'t Schoorlstrand in Zaanstad.",
+                  "text": "A beach on the Noordzeekanaal with a sunbathing lawn.",
                   "category": "recreational",
                   "coords": [
                         4.880428,
@@ -6205,7 +6205,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kunstgreep",
-                  "text": "De Kunstgreep is a theatre and cultural centre in Zaanstad.",
+                  "text": "A cultural center with exhibition spaces in a former warehouse.",
                   "category": "cultural",
                   "coords": [
                         4.875972,
@@ -6214,7 +6214,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaans Cultuurhuis",
-                  "text": "Zaans Cultuurhuis is a venue for performing arts in Zaanstad.",
+                  "text": "A cultural house with a theater hall and a café.",
                   "category": "cultural",
                   "coords": [
                         4.81553,
@@ -6223,7 +6223,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaantheater",
-                  "text": "Zaantheater is a well-known theatre in Zaanstad.",
+                  "text": "A theater with a historic auditorium and a modern stage.",
                   "category": "cultural",
                   "coords": [
                         4.825397,
@@ -6232,7 +6232,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ZAMU",
-                  "text": "ZAMU is a museum in Zaanstad.",
+                  "text": "ZAMU museum in Zaanstad, opened in 2025.",
                   "category": "museum",
                   "coords": [
                         4.837972,
@@ -6250,7 +6250,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kuifeend",
-                  "text": "Kuifeend is a local beach area in Zaanstad.",
+                  "text": "An artificial lake with bird observation huts, popular for birdwatching in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.838526,
@@ -6268,7 +6268,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "MuziekHaven",
-                  "text": "MuziekHaven is a theatre and concert venue in Zaanstad.",
+                  "text": "A music venue on the harbor with outdoor concerts in Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.817771,
@@ -6277,7 +6277,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Podium De Flux",
-                  "text": "Podium De Flux is a live music venue in Zaanstad.",
+                  "text": "A theater and performance stage in a repurposed industrial building in Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.819093,
@@ -6286,7 +6286,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aalscholverstrand",
-                  "text": "Aalscholverstrand is a beach in Zaanstad.",
+                  "text": "A sandy beach on a lake, named after the cormorant, for sunbathing and swimming in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.833724,
@@ -6295,7 +6295,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Watersnip",
-                  "text": "Watersnip is a beach area in Zaanstad.",
+                  "text": "A wetland nature reserve with reed beds and walking trails in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.833849,
@@ -6304,7 +6304,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fuut",
-                  "text": "Fuut is a beach in Zaanstad.",
+                  "text": "A lake with floating nests for grebes, ideal for birdwatching in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.83126,
@@ -6313,7 +6313,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Smient",
-                  "text": "Smient is a beach area in Zaanstad.",
+                  "text": "A grassland meadow with ditches, a resting area for wigeons in Zaanstad.",
                   "category": "recreational",
                   "coords": [
                         4.831596,
@@ -6322,7 +6322,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Veldmuis",
-                  "text": "Kinderboerderij De Veldmuis is a small children's zoo in Zaanstad.",
+                  "text": "A petting farm with goats, rabbits, and a playground in Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.805724,
@@ -6331,7 +6331,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Darwinpark",
-                  "text": "Stadsboerderij Darwinpark is an urban farm in Zaanstad.",
+                  "text": "A city farm in Darwin Park with vegetable gardens and farm animals in Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.844852,
@@ -6340,7 +6340,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fronik Buurtboerderij",
-                  "text": "Fronik Buurtboerderij is a small community farm in Zaanstad.",
+                  "text": "A neighbourhood farm with a care farm and educational activities in Zaanstad.",
                   "category": "family",
                   "coords": [
                         4.805481,
@@ -6349,7 +6349,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Windjager",
-                  "text": "De Windjager is a historic windmill in Zaanstad.",
+                  "text": "Traditional Dutch windmill from 1789, used for grinding corn.",
                   "category": "landmark",
                   "coords": [
                         4.851816,
@@ -6376,7 +6376,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volkspark",
-                  "text": "Volkspark is a public green area in Zaanstad.",
+                  "text": "A public park in the centre of Zaanstad (Zaandam).",
                   "category": "park",
                   "coords": [
                         4.813201,
@@ -6385,7 +6385,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vijfhoekpark",
-                  "text": "Vijfhoekpark is a park in Zaanstad.",
+                  "text": "Pentagon-shaped park with a pond and playground.",
                   "category": "park",
                   "coords": [
                         4.847329,
@@ -6394,7 +6394,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fluxus",
-                  "text": "Fluxus is a centre for artistic education and culture in Zaanstad.",
+                  "text": "An art gallery and exhibition space in a former factory building in Zaanstad.",
                   "category": "cultural",
                   "coords": [
                         4.818224,
@@ -6403,7 +6403,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Labyrint Darwinpark",
-                  "text": "Labyrint Darwinpark is an interesting attraction in the Darwinpark in Zaanstad.",
+                  "text": "A green hedge labyrinth in Darwin Park, suitable for walks in Zaanstad.",
                   "category": "landmark",
                   "coords": [
                         4.841203,
@@ -6412,7 +6412,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doopsgezinde Vermaning",
-                  "text": "The Doopsgezinde Vermaning is a historic Mennonite church in Zaandam.",
+                  "text": "17th-century Mennonite meeting house with a hidden facade.",
                   "category": "religious",
                   "coords": [
                         4.822182,
@@ -6448,7 +6448,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zaanspoorbrug",
-                  "text": "A historical railway bridge in Zaanstad.",
+                  "text": "Lifting railway bridge over the Zaan river, built in 1880.",
                   "category": "landmark",
                   "coords": [
                         4.81283,
@@ -6532,7 +6532,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater van C.",
-                  "text": "Theater van C. ist ein lokaler Veranstaltungsort für Kultur in Hoofddorp.",
+                  "text": "Ein Theater im Zentrum von Hoofddorp.",
                   "category": "cultural",
                   "coords": [
                         4.696735,
@@ -6550,7 +6550,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan de IJweg",
-                  "text": "Batterij aan de IJweg ist eine ehemalige Verteidigungsanlage in Hoofddorp.",
+                  "text": "Befestigte Batterie von etwa 1900, Teil der Stellung von Amsterdam.",
                   "category": "fortress",
                   "coords": [
                         4.677913,
@@ -6559,7 +6559,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan den Sloterweg",
-                  "text": "Die Battery on Sloterweg ist eine historische Verteidigungsstellung in Hoofddorp.",
+                  "text": "Eine Verteidigungsbatterie an der Sloterweg Straße nahe Hoofddorp.",
                   "category": "fortress",
                   "coords": [
                         4.703734,
@@ -6568,7 +6568,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "C. Het Oude Raadhuis",
-                  "text": "C. Het Oude Raadhuis ist ein Kulturzentrum und Theater in Hoofddorp.",
+                  "text": "Das alte Rathaus von Hoofddorp, heute für Ausstellungen und Veranstaltungen genutzt.",
                   "category": "cultural",
                   "coords": [
                         4.69172,
@@ -6595,7 +6595,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Buitenschot",
-                  "text": "Buitenschot ist ein innovativer Landschaftspark in Hoofddorp.",
+                  "text": "Ein großer Park mit einem Golfplatz und Spazierwegen in der Nähe des Flughafens Schiphol.",
                   "category": "park",
                   "coords": [
                         4.685829,
@@ -6604,7 +6604,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadspark Hoofddorp",
-                  "text": "Der Stadspark Hoofddorp ist eine zentrale Grünanlage in der Stadt.",
+                  "text": "Der zentrale Stadtpark von Hoofddorp mit einem Teich und Spielplatz.",
                   "category": "park",
                   "coords": [
                         4.699208,
@@ -6613,7 +6613,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toolenburgerplas",
-                  "text": "Toolenburgerplas ist ein beliebter Freizeitsee und Park in Hoofddorp.",
+                  "text": "Ein Erholungssee mit Park in Hoofddorp.",
                   "category": "park",
                   "coords": [
                         4.651227,
@@ -6631,7 +6631,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kick Pruijsbrug",
-                  "text": "Kick Pruijsbrug ist eine moderne Brücke für Fußgänger und Radfahrer in Hoofddorp.",
+                  "text": "Eine Brücke in Hoofddorp, benannt nach Fußballer Kick Pruijs.",
                   "category": "landmark",
                   "coords": [
                         4.715636,
@@ -6640,7 +6640,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbrug",
-                  "text": "Kruisbrug ist eine Brücke im Zentrum von Hoofddorp.",
+                  "text": "Eine Zugbrücke in Hoofddorp.",
                   "category": "landmark",
                   "coords": [
                         4.692668,
@@ -6649,7 +6649,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meerwijkplas",
-                  "text": "Der Meerwijkplas in Hoofddorp ist ein schöner See zum Spazierengehen und Entspannen.",
+                  "text": "Ein künstlicher See zum Schwimmen und Segeln in Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.664268,
@@ -6676,7 +6676,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verdonken plas",
-                  "text": "Der Verdonken plas in Hoofddorp ist ein naturbelassener See mit schöner Aussicht.",
+                  "text": "Ein versunkener See, entstanden durch Torfabbau, heute ein Naturschutzgebiet in Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.669293,
@@ -6712,7 +6712,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine Poel",
-                  "text": "Der Kleine Poel in Hoofddorp ist ein ruhiger See in schöner Umgebung.",
+                  "text": "Ein kleiner Teich, umgeben von Schilf, Heimat von Fröschen und Libellen in Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.737783,
@@ -6748,7 +6748,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "Der Castle Playground in Hoofddorp ist ein fantasievoller Ort zum Spielen.",
+                  "text": "Ein Spielplatz im Stil einer mittelalterlichen Burg mit Rutschen und Klettergerüsten in Hoofddorp.",
                   "category": "family",
                   "coords": [
                         4.67568,
@@ -6766,7 +6766,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijver",
-                  "text": "Der Spartelvijver ist ein ausgewiesener Naturbadebereich in Hoofddorp.",
+                  "text": "Ein flacher Teich zum Planschen und Spritzen, bei Kindern beliebt in Hoofddorp.",
                   "category": "recreational",
                   "coords": [
                         4.665057,
@@ -6804,7 +6804,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater van C.",
-                  "text": "A Theater van C. egy helyi kulturális helyszín Hoofddorpban.",
+                  "text": "Színház Hoofddorp központjában.",
                   "category": "cultural",
                   "coords": [
                         4.696735,
@@ -6822,7 +6822,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan de IJweg",
-                  "text": "A Batterij aan de IJweg egy egykori védelmi erődítmény Hoofddorpban.",
+                  "text": "Erődített üteg 1900 környékéről, az Amszterdam-védelmi vonal része.",
                   "category": "fortress",
                   "coords": [
                         4.677913,
@@ -6831,7 +6831,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan den Sloterweg",
-                  "text": "A Battery on Sloterweg egy történelmi védelmi állás Hoofddorpban.",
+                  "text": "Védelmi üteg a Sloterweg úton Hoofddorp közelében.",
                   "category": "fortress",
                   "coords": [
                         4.703734,
@@ -6840,7 +6840,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "C. Het Oude Raadhuis",
-                  "text": "A C. Het Oude Raadhuis egy kulturális központ és színház Hoofddorpban.",
+                  "text": "Hoofddorp régi városháza, ma kiállítások és rendezvények helyszíne.",
                   "category": "cultural",
                   "coords": [
                         4.69172,
@@ -6867,7 +6867,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Buitenschot",
-                  "text": "A Buitenschot egy innovatív tájpark Hoofddorpban.",
+                  "text": "Nagy park golfpályával és sétányokkal a Schiphol repülőtér közelében.",
                   "category": "park",
                   "coords": [
                         4.685829,
@@ -6876,7 +6876,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadspark Hoofddorp",
-                  "text": "A Stadspark Hoofddorp a város központi zöldterülete.",
+                  "text": "Hoofddorp központi városi parkja tóval és játszótérrel.",
                   "category": "park",
                   "coords": [
                         4.699208,
@@ -6885,7 +6885,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toolenburgerplas",
-                  "text": "A Toolenburgerplas egy népszerű szabadidős tó és park Hoofddorpban.",
+                  "text": "Rekreációs tó parkkal Hoofddorpban.",
                   "category": "park",
                   "coords": [
                         4.651227,
@@ -6903,7 +6903,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kick Pruijsbrug",
-                  "text": "A Kick Pruijsbrug egy modern gyalogos és kerékpáros híd Hoofddorpban.",
+                  "text": "Egy híd Hoofddorpban, mely Kick Pruijs labdarúgóról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         4.715636,
@@ -6912,7 +6912,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbrug",
-                  "text": "A Kruisbrug egy híd Hoofddorp központjában.",
+                  "text": "Felvonóhíd Hoofddorpban.",
                   "category": "landmark",
                   "coords": [
                         4.692668,
@@ -6921,7 +6921,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meerwijkplas",
-                  "text": "A hoofddorpi Meerwijkplas egy szép tó sétáláshoz és pihenéshez.",
+                  "text": "Mesterséges tó úszásra és vitorlázásra Hoofddorpban.",
                   "category": "natural",
                   "coords": [
                         4.664268,
@@ -6948,7 +6948,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verdonken plas",
-                  "text": "A hoofddorpi Verdonken plas egy természetközeli tó szép kilátással.",
+                  "text": "Egy elsüllyedt tó, amely tőzegkitermelés során keletkezett, ma természetvédelmi terület Hoofddorpban.",
                   "category": "natural",
                   "coords": [
                         4.669293,
@@ -6984,7 +6984,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine Poel",
-                  "text": "A hoofddorpi Kleine Poel egy nyugodt tó szép környezetben.",
+                  "text": "Kis tó nádas környezetben, békák és szitakötők otthona Hoofddorpban.",
                   "category": "natural",
                   "coords": [
                         4.737783,
@@ -7020,7 +7020,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "A hoofddorpi Castle Playground egy fantáziadús hely a játékra.",
+                  "text": "Középkori vár stílusú játszótér csúszdákkal és mászókákkal Hoofddorpban.",
                   "category": "family",
                   "coords": [
                         4.67568,
@@ -7038,7 +7038,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijver",
-                  "text": "A Spartelvijver egy kijelölt szabadtéri úszóhely Hoofddorpban.",
+                  "text": "Sekély tó pancsolásra és fröcskölésre, népszerű a gyerekek körében Hoofddorpban.",
                   "category": "recreational",
                   "coords": [
                         4.665057,
@@ -7076,7 +7076,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater van C.",
-                  "text": "Theater van C. este o locație culturală locală din Hoofddorp.",
+                  "text": "Un teatru în centrul orașului Hoofddorp.",
                   "category": "cultural",
                   "coords": [
                         4.696735,
@@ -7094,7 +7094,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan de IJweg",
-                  "text": "Batterij aan de IJweg este o fostă fortificație de apărare din Hoofddorp.",
+                  "text": "Baterie fortificată din jurul anului 1900, parte a liniei de apărare Stelling van Amsterdam.",
                   "category": "fortress",
                   "coords": [
                         4.677913,
@@ -7103,7 +7103,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan den Sloterweg",
-                  "text": "Bateria de pe Sloterweg este o poziție istorică de apărare din Hoofddorp.",
+                  "text": "O baterie de artilerie defensivă pe drumul Sloterweg lângă Hoofddorp.",
                   "category": "fortress",
                   "coords": [
                         4.703734,
@@ -7112,7 +7112,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "C. Het Oude Raadhuis",
-                  "text": "C. Het Oude Raadhuis este un centru cultural și teatru din Hoofddorp.",
+                  "text": "Vechea primărie din Hoofddorp, acum folosită pentru expoziții și evenimente.",
                   "category": "cultural",
                   "coords": [
                         4.69172,
@@ -7139,7 +7139,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Buitenschot",
-                  "text": "Buitenschot este un parc peisagistic inovator din Hoofddorp.",
+                  "text": "Un parc mare cu teren de golf și poteci de plimbare lângă Aeroportul Schiphol.",
                   "category": "park",
                   "coords": [
                         4.685829,
@@ -7148,7 +7148,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadspark Hoofddorp",
-                  "text": "Stadspark Hoofddorp este un spațiu verde central din oraș.",
+                  "text": "Parcul central al orașului Hoofddorp cu un iaz și loc de joacă.",
                   "category": "park",
                   "coords": [
                         4.699208,
@@ -7157,7 +7157,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toolenburgerplas",
-                  "text": "Toolenburgerplas este un lac de recreere și un parc popular din Hoofddorp.",
+                  "text": "Un lac de agrement cu parc în Hoofddorp.",
                   "category": "park",
                   "coords": [
                         4.651227,
@@ -7175,7 +7175,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kick Pruijsbrug",
-                  "text": "Kick Pruijsbrug este un pod modern pentru pietoni și bicicliști din Hoofddorp.",
+                  "text": "Un pod în Hoofddorp numit după fotbalistul Kick Pruijs.",
                   "category": "landmark",
                   "coords": [
                         4.715636,
@@ -7184,7 +7184,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbrug",
-                  "text": "Kruisbrug este un pod din centrul orașului Hoofddorp.",
+                  "text": "Un pod basculant în Hoofddorp.",
                   "category": "landmark",
                   "coords": [
                         4.692668,
@@ -7193,7 +7193,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meerwijkplas",
-                  "text": "Meerwijkplas din Hoofddorp este un lac frumos pentru plimbări și relaxare.",
+                  "text": "Un lac artificial pentru înot și navigație în Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.664268,
@@ -7220,7 +7220,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verdonken plas",
-                  "text": "Verdonken plas din Hoofddorp este un lac natural cu o priveliște frumoasă.",
+                  "text": "Un lac scufundat, format prin excavarea turbei, acum o rezervație naturală în Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.669293,
@@ -7256,7 +7256,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine Poel",
-                  "text": "Kleine Poel din Hoofddorp este un lac liniștit într-un cadru plăcut.",
+                  "text": "Un mic iaz înconjurat de stuf, casă pentru broaște și libelule în Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.737783,
@@ -7292,7 +7292,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "Locul de joacă Castle din Hoofddorp este un spațiu plin de imaginație pentru joacă.",
+                  "text": "Un loc de joacă în stilul unui castel medieval cu tobogane și cadre de cățărare în Hoofddorp.",
                   "category": "family",
                   "coords": [
                         4.67568,
@@ -7310,7 +7310,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijver",
-                  "text": "Spartelvijver este o zonă desemnată pentru înot în aer liber din Hoofddorp.",
+                  "text": "Un iaz de mică adâncime pentru bălăceală și stropit, popular printre copii în Hoofddorp.",
                   "category": "recreational",
                   "coords": [
                         4.665057,
@@ -7348,7 +7348,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater van C.",
-                  "text": "Theater van C. is a local cultural venue in Hoofddorp.",
+                  "text": "A theatre in the centre of Hoofddorp.",
                   "category": "cultural",
                   "coords": [
                         4.696735,
@@ -7366,7 +7366,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batterij aan de IJweg",
-                  "text": "Batterij aan de IJweg is a former defense battery in Hoofddorp.",
+                  "text": "Fortified battery from around 1900, part of the Stelling van Amsterdam defense line.",
                   "category": "fortress",
                   "coords": [
                         4.677913,
@@ -7375,7 +7375,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Battery on Sloterweg",
-                  "text": "The Battery on Sloterweg is a historical defense position in Hoofddorp.",
+                  "text": "A defensive artillery battery on the Sloterweg road near Hoofddorp.",
                   "category": "fortress",
                   "coords": [
                         4.703734,
@@ -7384,7 +7384,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "C. Het Oude Raadhuis",
-                  "text": "C. Het Oude Raadhuis is a cultural centre and theatre in Hoofddorp.",
+                  "text": "The old town hall of Hoofddorp, now used for exhibitions and events.",
                   "category": "cultural",
                   "coords": [
                         4.69172,
@@ -7411,7 +7411,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Buitenschot",
-                  "text": "Buitenschot is an innovative landscape park in Hoofddorp.",
+                  "text": "A large park with a golf course and walking paths near Schiphol Airport.",
                   "category": "park",
                   "coords": [
                         4.685829,
@@ -7420,7 +7420,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadspark Hoofddorp",
-                  "text": "Stadspark Hoofddorp is a central green space in the city.",
+                  "text": "The central city park of Hoofddorp with a pond and playground.",
                   "category": "park",
                   "coords": [
                         4.699208,
@@ -7429,7 +7429,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toolenburgerplas",
-                  "text": "Toolenburgerplas is a popular recreational lake and park in Hoofddorp.",
+                  "text": "A recreational lake and park in Hoofddorp.",
                   "category": "park",
                   "coords": [
                         4.651227,
@@ -7447,7 +7447,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kick Pruijsbrug",
-                  "text": "Kick Pruijsbrug is a modern bridge for pedestrians and cyclists in Hoofddorp.",
+                  "text": "A bridge in Hoofddorp named after footballer Kick Pruijs.",
                   "category": "landmark",
                   "coords": [
                         4.715636,
@@ -7456,7 +7456,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbrug",
-                  "text": "Kruisbrug is a bridge in the center of Hoofddorp.",
+                  "text": "A bascule bridge in Hoofddorp.",
                   "category": "landmark",
                   "coords": [
                         4.692668,
@@ -7465,7 +7465,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meerwijkplas",
-                  "text": "Meerwijkplas in Hoofddorp is a lovely lake for walking and relaxing.",
+                  "text": "A man-made lake for swimming and sailing in Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.664268,
@@ -7492,7 +7492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verdonken plas",
-                  "text": "Verdonken plas in Hoofddorp is a natural lake with a nice view.",
+                  "text": "A sunken lake formed by peat digging, now a nature reserve in Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.669293,
@@ -7528,7 +7528,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleine Poel",
-                  "text": "Kleine Poel in Hoofddorp is a calm lake in a lovely setting.",
+                  "text": "A small pond surrounded by reeds, home to frogs and dragonflies in Hoofddorp.",
                   "category": "natural",
                   "coords": [
                         4.737783,
@@ -7564,7 +7564,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "Castle Playground in Hoofddorp is an imaginative place for children to play.",
+                  "text": "A playground designed like a medieval castle with slides and climbing frames in Hoofddorp.",
                   "category": "family",
                   "coords": [
                         4.67568,
@@ -7582,7 +7582,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijver",
-                  "text": "Spartelvijver is a designated outdoor swimming area in Hoofddorp.",
+                  "text": "A shallow pond for paddling and splashing, popular with children in Hoofddorp.",
                   "category": "recreational",
                   "coords": [
                         4.665057,
@@ -7873,7 +7873,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Open Hof",
-                  "text": "Eine moderne Kirche in Ede.",
+                  "text": "Eine protestantische Kirche von 1972 in Ede, genannt De Open Hof.",
                   "category": "religious",
                   "coords": [
                         5.638751,
@@ -7900,7 +7900,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Drie Essen",
-                  "text": "De Drie Essen in Ede ist ein lokaler Spielplatz für Familien.",
+                  "text": "Ein Familienbauernhof mit drei Eschen und einem Streichelzoo in Ede.",
                   "category": "family",
                   "coords": [
                         5.648507,
@@ -7909,7 +7909,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "You Jump by Boaz",
-                  "text": "You Jump by Boaz in Ede ist ein Trampolinpark für Familienspaß.",
+                  "text": "Ein Indoor-Trampolinpark mit Schaumstoffgruben und Völkerball in Ede.",
                   "category": "family",
                   "coords": [
                         5.668747,
@@ -7918,7 +7918,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuinvereniging de Korenbloem",
-                  "text": "Speeltuinvereniging de Korenbloem in Ede ist ein Spielplatz für Kinder.",
+                  "text": "Ein Spielplatzverein mit einem großen Spielplatz, benannt nach der Kornblume in Ede.",
                   "category": "family",
                   "coords": [
                         5.659972,
@@ -7927,7 +7927,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Klauterlust",
-                  "text": "Speeltuin Klauterlust in Ede ist ein Spielplatz für aktive Kinder.",
+                  "text": "Ein Kletterspielplatz mit Seilen, Netzen und einer Holzburg in Ede.",
                   "category": "family",
                   "coords": [
                         5.66138,
@@ -7936,7 +7936,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hof van Ede",
-                  "text": "Hof van Ede in Ede bietet Minigolf für Familien.",
+                  "text": "Ein Gartenhof mit Café, Spielplatz und Minigolf in Ede.",
                   "category": "family",
                   "coords": [
                         5.645389,
@@ -8181,7 +8181,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Open Hof",
-                  "text": "Modern templom Edében.",
+                  "text": "Egy 1972-ben épült protestáns templom Edében, neve De Open Hof.",
                   "category": "religious",
                   "coords": [
                         5.638751,
@@ -8208,7 +8208,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Drie Essen",
-                  "text": "Az edei De Drie Essen egy helyi játszótér családok számára.",
+                  "text": "Családi gazdaság három kőrissel és simogató állatkerttel Ede-ben.",
                   "category": "family",
                   "coords": [
                         5.648507,
@@ -8217,7 +8217,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "You Jump by Boaz",
-                  "text": "Az edei You Jump by Boaz egy trambulinpark a család szórakozására.",
+                  "text": "Fedett trambulinpark habgödrökkel és dodgeballal Ede-ben.",
                   "category": "family",
                   "coords": [
                         5.668747,
@@ -8226,7 +8226,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuinvereniging de Korenbloem",
-                  "text": "Az edei Speeltuinvereniging de Korenbloem egy játszótér a gyermekeknek.",
+                  "text": "Játszótér-egyesület nagy játszótérrel, a búzavirágról elnevezve Ede-ben.",
                   "category": "family",
                   "coords": [
                         5.659972,
@@ -8235,7 +8235,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Klauterlust",
-                  "text": "Az edei Speeltuin Klauterlust egy játszótér aktív gyermekeknek.",
+                  "text": "Mászójátszótér kötelekkel, hálókkal és fából készült erőddel Ede-ben.",
                   "category": "family",
                   "coords": [
                         5.66138,
@@ -8244,7 +8244,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hof van Ede",
-                  "text": "Az edei Hof van Ede minigolfot kínál családok számára.",
+                  "text": "Kertudvar kávézóval, játszótérrel és minigolffal Ede-ben.",
                   "category": "family",
                   "coords": [
                         5.645389,
@@ -8489,7 +8489,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Open Hof",
-                  "text": "O biserică modernă din Ede.",
+                  "text": "O biserică protestantă construită în 1972 în Ede, numită De Open Hof.",
                   "category": "religious",
                   "coords": [
                         5.638751,
@@ -8516,7 +8516,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Drie Essen",
-                  "text": "De Drie Essen din Ede este un loc de joacă local pentru familii.",
+                  "text": "O fermă de familie cu trei frasini și o grădină zoologică de contact în Ede.",
                   "category": "family",
                   "coords": [
                         5.648507,
@@ -8525,7 +8525,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "You Jump by Boaz",
-                  "text": "You Jump by Boaz din Ede este un parc de trambuline pentru distracția familiei.",
+                  "text": "Un parc de trambuline acoperit cu gropi de spumă și dodgeball în Ede.",
                   "category": "family",
                   "coords": [
                         5.668747,
@@ -8534,7 +8534,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuinvereniging de Korenbloem",
-                  "text": "Speeltuinvereniging de Korenbloem din Ede este un loc de joacă pentru copii.",
+                  "text": "O asociație de locuri de joacă cu o zonă mare de joacă numită după albăstrea în Ede.",
                   "category": "family",
                   "coords": [
                         5.659972,
@@ -8543,7 +8543,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Klauterlust",
-                  "text": "Speeltuin Klauterlust din Ede este un loc de joacă pentru copii activi.",
+                  "text": "Un loc de joacă de cățărare cu frânghii, plase și o fortăreață din lemn în Ede.",
                   "category": "family",
                   "coords": [
                         5.66138,
@@ -8552,7 +8552,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hof van Ede",
-                  "text": "Hof van Ede din Ede oferă minigolf pentru familii.",
+                  "text": "O curte grădină cu o cafenea, loc de joacă și mini golf în Ede.",
                   "category": "family",
                   "coords": [
                         5.645389,
@@ -8797,7 +8797,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Open Hof",
-                  "text": "A modern church located in Ede.",
+                  "text": "A Protestant church built in 1972 in Ede, named De Open Hof.",
                   "category": "religious",
                   "coords": [
                         5.638751,
@@ -8824,7 +8824,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Drie Essen",
-                  "text": "De Drie Essen in Ede is a local playground for families.",
+                  "text": "A family farm with three ash trees and a petting zoo in Ede.",
                   "category": "family",
                   "coords": [
                         5.648507,
@@ -8833,7 +8833,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "You Jump by Boaz",
-                  "text": "You Jump by Boaz in Ede is a trampoline park for family fun.",
+                  "text": "An indoor trampoline park with foam pits and dodgeball in Ede.",
                   "category": "family",
                   "coords": [
                         5.668747,
@@ -8842,7 +8842,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuinvereniging de Korenbloem",
-                  "text": "Speeltuinvereniging de Korenbloem in Ede is a playground for children.",
+                  "text": "A playground association with a large play area named after the cornflower in Ede.",
                   "category": "family",
                   "coords": [
                         5.659972,
@@ -8851,7 +8851,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Klauterlust",
-                  "text": "Speeltuin Klauterlust in Ede is a playground for active children.",
+                  "text": "A climbing playground with ropes, nets, and a wooden fort in Ede.",
                   "category": "family",
                   "coords": [
                         5.66138,
@@ -8860,7 +8860,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hof van Ede",
-                  "text": "Hof van Ede in Ede offers miniature golf for families.",
+                  "text": "A garden courtyard with a café, playground, and miniature golf in Ede.",
                   "category": "family",
                   "coords": [
                         5.645389,
@@ -8960,7 +8960,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Oldehove",
-                  "text": "Der schiefe, unvollendete Kirchturm aus dem Jahr 1529 ist das Wahrzeichen der Stadt und bietet eine weite Aussicht.",
+                  "text": "Kinderbauernhof in Leeuwarden mit Ziegen, Schafen und Hühnern.",
                   "category": "castles/fortresses/towers",
                   "confidence": "high",
                   "coords": [
@@ -8970,7 +8970,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Museum",
-                  "text": "Ein modernes Museum, das die friesische Kultur, Geschichte und Kunst in einem preisgekrönten Neubau präsentiert.",
+                  "text": "De Blauwe Golf in Leeuwarden ist ein Freizeitbad mit Sauna, eröffnet 1992.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -9020,7 +9020,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "Diese neugotische Kreuzkirche aus dem Jahr 1884 besitzt einen 85 Meter hohen Turm, der das Stadtbild prägt.",
+                  "text": "Sint-Bonifatiuskerk, eine neugotische Kirche und Nationaldenkmal in Leeuwarden.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -9040,7 +9040,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Jacobijnerkerk",
-                  "text": "Die älteste Kirche der Stadt aus dem 13. Jahrhundert beherbergt die Grabgewölbe der nassauischen Statthalter.",
+                  "text": "1245 begonnene Jacobijnerkerk, Rijksmonument in Leeuwarden.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -9060,7 +9060,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Landbouwmuseum",
-                  "text": "Das Fries Landbouwmuseum in Leeuwarden zeigt landwirtschaftliche Geschichte.",
+                  "text": "Fries Landbouwmuseum, Museum der friesischen Landwirtschaft in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.789545,
@@ -9069,7 +9069,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Historisch Centrum Leeuwarden",
-                  "text": "Das Historisch Centrum Leeuwarden ist ein Museum zur Stadtgeschichte.",
+                  "text": "Museum zur Geschichte Leeuwardens im ehemaligen Rathaus aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         5.791559,
@@ -9078,7 +9078,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Poptaslot - Azingastate - Heringastate",
-                  "text": "Das Poptaslot bei Leeuwarden ist ein historisches Schlossmuseum.",
+                  "text": "Kanalhausmuseum aus dem 18. Jahrhundert mit originaler Einrichtung, bekannt als Poptaslot.",
                   "category": "museum",
                   "coords": [
                         5.729028,
@@ -9087,7 +9087,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huis Van Eysinga",
-                  "text": "Das Huis Van Eysinga ist ein Museum in Leeuwarden.",
+                  "text": "Ein Patrizierhausmuseum aus dem 17. Jahrhundert an einem Kanal in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.80086,
@@ -9096,7 +9096,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pier Pandertempel",
-                  "text": "Der Pier Pandertempel in Leeuwarden ist ein spezialisiertes Museum.",
+                  "text": "Museum in einem Nachbau eines chinesischen Tempels mit asiatischer Kunst.",
                   "category": "museum",
                   "coords": [
                         5.788795,
@@ -9105,7 +9105,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "Die Dekemastate ist ein historisches Schloss bei Leeuwarden.",
+                  "text": "1680 erbaute mennonitische Kirche, Rijksmonument in Leeuwarden.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -9132,7 +9132,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Terpzigt",
-                  "text": "Terpzigt ist eine historische Windmühle in Leeuwarden.",
+                  "text": "Zugbrücke über den Nieuwe Kanaal in Leeuwarden, benannt nach einem Warft.",
                   "category": "landmark",
                   "coords": [
                         5.724506,
@@ -9168,7 +9168,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum de Grutterswinkel",
-                  "text": "Museum de Grutterswinkel ist ein Museum in Leeuwarden.",
+                  "text": "Ein Museum für einen historischen Lebensmittelladen in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.793368,
@@ -9177,7 +9177,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsschouwburg de Harmonie",
-                  "text": "Stadsschouwburg de Harmonie ist ein Theater in Leeuwarden.",
+                  "text": "Ein historisches Theater im Zentrum von Leeuwarden.",
                   "category": "cultural",
                   "coords": [
                         5.790079,
@@ -9186,7 +9186,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Schakel",
-                  "text": "De Schakel ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Eine protestantische Kirche in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.836666,
@@ -9195,7 +9195,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Masjied Assalam",
-                  "text": "Masjied Assalam ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Eine Moschee in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.822939,
@@ -9213,7 +9213,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Deur",
-                  "text": "De Deur ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Kirche von 1979 namens 'De Deur' in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.817865,
@@ -9222,7 +9222,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "Bethelkerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Protestantische Kirche von 1986 in Leeuwarden, Bethelkerk.",
                   "category": "religious",
                   "coords": [
                         5.803411,
@@ -9231,7 +9231,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Morgenster",
-                  "text": "De Morgenster ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Moderne Kirche von 2004 in Leeuwarden, De Morgenster.",
                   "category": "religious",
                   "coords": [
                         5.814857,
@@ -9240,7 +9240,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitzichtgemeente",
-                  "text": "Die Uitzichtgemeente ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Kirchengemeinde von 1962 in Leeuwarden, Uitzichtgemeente.",
                   "category": "religious",
                   "coords": [
                         5.818219,
@@ -9249,7 +9249,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkerk",
-                  "text": "Die Adventkerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Adventistische Kirche von 1980 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.802678,
@@ -9258,7 +9258,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Fontein",
-                  "text": "De Fontein ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Kirche von 1969 namens De Fontein in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.802589,
@@ -9267,7 +9267,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Messiaanse Gemeente Rehoboth",
-                  "text": "Die Messiaanse Gemeente Rehoboth ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Messianisch-jüdische Gemeinde von 1930 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.809222,
@@ -9285,7 +9285,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "Die ISN Ulu Moskee ist ein islamisches Gotteshaus in Leeuwarden.",
+                  "text": "1870 erbaute Ulu-Moschee, Rijksmonument in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -9294,7 +9294,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelisch-Lutherse kerk",
-                  "text": "Die Evangelisch-Lutherse kerk ist ein historisches Gotteshaus in Leeuwarden.",
+                  "text": "Historische lutherische Kirche von 1776 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.801733,
@@ -9303,7 +9303,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galileakapel",
-                  "text": "Die Galileakapel ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Kapelle von 1850 in Leeuwarden, Galileakapel.",
                   "category": "religious",
                   "coords": [
                         5.80215,
@@ -9312,7 +9312,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuw-Apostolische Kerk",
-                  "text": "Die Nieuw-Apostolische Kerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Neuapostolische Kirche von 1934 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.803766,
@@ -9339,7 +9339,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kurioskerk",
-                  "text": "Die Kurioskerk ist ein Gotteshaus in Leeuwarden.",
+                  "text": "Eine Kirche in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.787729,
@@ -9348,7 +9348,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verlaatsbrug",
-                  "text": "Die Verlaatsbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Brücke von 1964 über einen Kanal in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.787652,
@@ -9357,7 +9357,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hermesbrug",
-                  "text": "Die Hermesbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Brücke von 1961 in Leeuwarden, Hermesbrug.",
                   "category": "landmark",
                   "coords": [
                         5.774552,
@@ -9366,7 +9366,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoeksterpijp",
-                  "text": "Die Hoeksterpijp ist eine Brücke in Leeuwarden.",
+                  "text": "Brücke über den Hoeksterpijp-Kanal von 1941.",
                   "category": "landmark",
                   "coords": [
                         5.801094,
@@ -9375,7 +9375,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "Die Wirdumerpoortsbrug ist eine Brücke in Leeuwarden.",
+                  "text": "1940 von Justus Zuidema erbaute Brücke in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -9402,7 +9402,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Greunsbrug",
-                  "text": "Die Greunsbrug ist eine Brücke in Leeuwarden.",
+                  "text": "Eine Brücke über den Greuns-Kanal in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.835877,
@@ -9420,7 +9420,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toren",
-                  "text": "Der Toren ist ein Turm in Leeuwarden.",
+                  "text": "Moderner Turm von 1990 in Leeuwarden.",
                   "category": "tower",
                   "coords": [
                         5.80807,
@@ -9429,7 +9429,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dr. Zamenhofpark",
-                  "text": "Der Dr. Zamenhofpark ist eine öffentliche Grünanlage in Leeuwarden.",
+                  "text": "Ein Park zu Ehren von L. L. Zamenhof, dem Erfinder des Esperanto, mit einer Statue und einem Rosengarten in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.815274,
@@ -9438,7 +9438,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerpark",
-                  "text": "Der Westerpark ist eine erholsame Parkanlage in Leeuwarden.",
+                  "text": "Der westliche Park von Leeuwarden mit einem großen Teich und Sportanlagen.",
                   "category": "park",
                   "coords": [
                         5.785653,
@@ -9447,7 +9447,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplantage",
-                  "text": "Die Noorderplantage ist eine historische Parkanlage in Leeuwarden.",
+                  "text": "Ein nördlicher Park mit einem historischen Arboretum und gewundenen Wegen in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.790056,
@@ -9456,7 +9456,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rengerspark",
-                  "text": "Der Rengerspark ist eine Grünfläche zur Erholung in Leeuwarden.",
+                  "text": "Ein Park um ein Herrenhaus aus dem 19. Jahrhundert mit einem Teich und monumentalen Bäumen in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.793146,
@@ -9465,7 +9465,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Abbingapark",
-                  "text": "Der Abbingapark ist eine öffentliche Parkanlage in Leeuwarden.",
+                  "text": "Ein Park mit einem großen Spielplatz und einem Skatepark in der Nähe des Stadtzentrums in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.81093,
@@ -9474,7 +9474,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museumhaven Leeuwarden",
-                  "text": "Das Museumhaven Leeuwarden zeigt historische Schiffe in Leeuwarden.",
+                  "text": "Ein Museumshafen mit historischen Schiffen und einem Schifffahrtsmuseum in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.794746,
@@ -9483,7 +9483,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Traditiekamer Vliegbasis Leeuwarden",
-                  "text": "Die Traditiekamer Vliegbasis Leeuwarden widmet sich der Geschichte des Flugplatzes.",
+                  "text": "Ein Traditionsraum auf dem Fliegerhorst Leeuwarden, der die Geschichte der Militärluftfahrt zeigt.",
                   "category": "museum",
                   "coords": [
                         5.766853,
@@ -9492,7 +9492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie De Roos van Tudor",
-                  "text": "Die Galerie De Roos van Tudor ist eine Kunstgalerie in Leeuwarden.",
+                  "text": "Eine Kunstgalerie in einem historischen Gebäude mit Schwerpunkt auf moderner Kunst in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.796884,
@@ -9501,7 +9501,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Peter van der Griend",
-                  "text": "Die Peter van der Griend Galerie ist ein Ausstellungsort für Kunst in Leeuwarden.",
+                  "text": "Ein Museum, das dem Werk des Malers Peter van der Griend gewidmet ist in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.791162,
@@ -9510,7 +9510,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "VHDG",
-                  "text": "VHDG ist eine Galerie für zeitgenössische Kunst in Leeuwarden.",
+                  "text": "VHDG ist ein zeitgenössischer Kunstraum mit wechselnden Ausstellungen in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.79725,
@@ -9519,7 +9519,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lieuwenburgzoom",
-                  "text": "Eine Grünzone in Leeuwarden, die zur Naherholung der Anwohner dient.",
+                  "text": "Ein linearer Park entlang eines Kanals mit Wander- und Radwegen in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.843853,
@@ -9530,7 +9530,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Oldehove",
-                  "text": "Az 1529-ben épült ferde, befejezetlen torony Leeuwarden szimbóluma, amely a talaj süllyedése miatt maradt torzó.",
+                  "text": "Gyerekfarm Leeuwardenben kecskékkel, birkákkal és csirkékkel.",
                   "category": "castles/fortresses/towers",
                   "confidence": "high",
                   "coords": [
@@ -9540,7 +9540,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Museum",
-                  "text": "Modern épületben helyet kapott múzeum, amely Friesland tartomány művészetét és történelmét mutatja be gazdagon.",
+                  "text": "A leeuwardeni De Blauwe Golf egy rekreációs fürdő szaunával, 1992-ben nyílt.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -9590,7 +9590,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "1884-ben épült neogótikus templom, melynek 85 méter magas tornya messziről jelzi a város fekvését.",
+                  "text": "Sint-Bonifatiuskerk, egy neogótikus templom és nemzeti műemlék Leeuwardenben.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -9610,7 +9610,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Jacobijnerkerk",
-                  "text": "A város legidősebb, 13. századi temploma, amely az Orániai-Nassau-ház helytartóinak temetkezési helye.",
+                  "text": "1245-ben épült Jacobijner-templom, Rijksmonument Leeuwardenben.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -9630,7 +9630,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Landbouwmuseum",
-                  "text": "A leeuwardeni Fries Landbouwmuseum a mezőgazdaság történetét mutatja be.",
+                  "text": "Fries Landbouwmuseum, a fríz mezőgazdaság múzeuma Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.789545,
@@ -9639,7 +9639,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Historisch Centrum Leeuwarden",
-                  "text": "A Historisch Centrum Leeuwarden egy városi múzeum.",
+                  "text": "Leeuwarden történetének múzeuma a 19. századi városházán.",
                   "category": "museum",
                   "coords": [
                         5.791559,
@@ -9648,7 +9648,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Poptaslot - Azingastate - Heringastate",
-                  "text": "A leeuwardeni Poptaslot egy történelmi kastélymúzeum.",
+                  "text": "18. századi csatornaház múzeum eredeti berendezéssel, Poptaslot néven.",
                   "category": "museum",
                   "coords": [
                         5.729028,
@@ -9657,7 +9657,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huis Van Eysinga",
-                  "text": "A Huis Van Eysinga egy múzeum Leeuwardenben.",
+                  "text": "Egy 17. századi patríciusház múzeum egy csatorna mellett Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.80086,
@@ -9666,7 +9666,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pier Pandertempel",
-                  "text": "A leeuwardeni Pier Pandertempel egy speciális múzeum.",
+                  "text": "Múzeum egy kínai templom másolatában, ázsiai művészettel.",
                   "category": "museum",
                   "coords": [
                         5.788795,
@@ -9675,7 +9675,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "A Dekemastate egy történelmi kastély Leeuwarden közelében.",
+                  "text": "1680-ban épült mennonita templom, Rijksmonument Leeuwardenben.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -9702,7 +9702,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Terpzigt",
-                  "text": "A Terpzigt egy történelmi szélmalom Leeuwardenben.",
+                  "text": "Felvonóhíd a Nieuwe Kanaal felett Leeuwardenben, egy terpről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         5.724506,
@@ -9738,7 +9738,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum de Grutterswinkel",
-                  "text": "A Museum de Grutterswinkel egy múzeum Leeuwardenben.",
+                  "text": "Történelmi élelmiszerbolt-múzeum Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.793368,
@@ -9747,7 +9747,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsschouwburg de Harmonie",
-                  "text": "A Stadsschouwburg de Harmonie egy színház Leeuwardenben.",
+                  "text": "Történelmi színház Leeuwarden központjában.",
                   "category": "cultural",
                   "coords": [
                         5.790079,
@@ -9756,7 +9756,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Schakel",
-                  "text": "A De Schakel egy istentiszteleti hely Leeuwardenben.",
+                  "text": "Protestáns templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.836666,
@@ -9765,7 +9765,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Masjied Assalam",
-                  "text": "A Masjied Assalam egy istentiszteleti hely Leeuwardenben.",
+                  "text": "Mecset Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.822939,
@@ -9783,7 +9783,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Deur",
-                  "text": "A De Deur egy istentiszteleti hely Leeuwardenben.",
+                  "text": "1979-ben épült templom 'De Deur' néven Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.817865,
@@ -9792,7 +9792,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "A Bethelkerk egy istentiszteleti hely Leeuwardenben.",
+                  "text": "1986-ban épült protestáns templom Leeuwardenben, Bethelkerk.",
                   "category": "religious",
                   "coords": [
                         5.803411,
@@ -9801,7 +9801,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Morgenster",
-                  "text": "A De Morgenster egy istentiszteleti hely Leeuwardenben.",
+                  "text": "2004-ben épült modern templom Leeuwardenben, De Morgenster.",
                   "category": "religious",
                   "coords": [
                         5.814857,
@@ -9810,7 +9810,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitzichtgemeente",
-                  "text": "A leeuwardeni Uitzichtgemeente egy istentiszteleti hely.",
+                  "text": "1962-ben alapított gyülekezet Leeuwardenben, Uitzichtgemeente.",
                   "category": "religious",
                   "coords": [
                         5.818219,
@@ -9819,7 +9819,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkerk",
-                  "text": "A leeuwardeni Adventkerk egy istentiszteleti hely.",
+                  "text": "1980-ban épült adventista templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.802678,
@@ -9828,7 +9828,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Fontein",
-                  "text": "A leeuwardeni De Fontein egy istentiszteleti hely.",
+                  "text": "1969-ben épült templom De Fontein néven Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.802589,
@@ -9837,7 +9837,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Messiaanse Gemeente Rehoboth",
-                  "text": "A leeuwardeni Messiaanse Gemeente Rehoboth egy istentiszteleti hely.",
+                  "text": "1930-ban alapított messiási zsidó gyülekezet Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.809222,
@@ -9855,7 +9855,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "A leeuwardeni ISN Ulu Moskee egy iszlám imaház.",
+                  "text": "1870-ben épült Ulu mecset, Rijksmonument Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -9864,7 +9864,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelisch-Lutherse kerk",
-                  "text": "Az evangélikus lutheránus templom (Evangelisch-Lutherse kerk) egy történelmi istentiszteleti hely Leeuwardenben.",
+                  "text": "1776-ban épült történelmi lutheránus templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.801733,
@@ -9873,7 +9873,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galileakapel",
-                  "text": "A leeuwardeni Galileakapel egy istentiszteleti hely.",
+                  "text": "1850-ben épült kápolna Leeuwardenben, Galileakapel.",
                   "category": "religious",
                   "coords": [
                         5.80215,
@@ -9882,7 +9882,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuw-Apostolische Kerk",
-                  "text": "A leeuwardeni Nieuw-Apostolische Kerk egy istentiszteleti hely.",
+                  "text": "1934-ben épült új apostoli templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.803766,
@@ -9909,7 +9909,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kurioskerk",
-                  "text": "A Kurioskerk egy istentiszteleti hely Leeuwardenben.",
+                  "text": "Templom Leeuwardenben.",
                   "category": "religious",
                   "coords": [
                         5.787729,
@@ -9918,7 +9918,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verlaatsbrug",
-                  "text": "A Verlaatsbrug egy híd Leeuwardenben.",
+                  "text": "1964-ben épült híd egy csatorna felett Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.787652,
@@ -9927,7 +9927,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hermesbrug",
-                  "text": "A Hermesbrug egy híd Leeuwardenben.",
+                  "text": "1961-ben épült híd Leeuwardenben, Hermesbrug.",
                   "category": "landmark",
                   "coords": [
                         5.774552,
@@ -9936,7 +9936,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoeksterpijp",
-                  "text": "A Hoeksterpijp egy híd Leeuwardenben.",
+                  "text": "Híd a Hoeksterpijp-csatorna felett 1941-ből.",
                   "category": "landmark",
                   "coords": [
                         5.801094,
@@ -9945,7 +9945,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "A Wirdumerpoortsbrug egy híd Leeuwardenben.",
+                  "text": "Justus Zuidema által 1940-ben tervezett híd Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -9972,7 +9972,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Greunsbrug",
-                  "text": "A Greunsbrug egy híd Leeuwardenben.",
+                  "text": "Híd a Greuns-csatorna felett Leeuwardenben.",
                   "category": "landmark",
                   "coords": [
                         5.835877,
@@ -9990,7 +9990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toren",
-                  "text": "A Toren egy torony Leeuwardenben.",
+                  "text": "Modern torony 1990-ből Leeuwardenben.",
                   "category": "tower",
                   "coords": [
                         5.80807,
@@ -9999,7 +9999,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dr. Zamenhofpark",
-                  "text": "A Dr. Zamenhofpark egy nyilvános zöldterület Leeuwarden városában.",
+                  "text": "Park L. L. Zamenhof, az eszperantó megalkotója tiszteletére, szoborral és rózsakerttel Leeuwardenben.",
                   "category": "park",
                   "coords": [
                         5.815274,
@@ -10008,7 +10008,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerpark",
-                  "text": "A Westerpark egy pihentető park Leeuwardenben.",
+                  "text": "Leeuwarden nyugati parkja nagy tóval és sportlétesítményekkel.",
                   "category": "park",
                   "coords": [
                         5.785653,
@@ -10017,7 +10017,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplantage",
-                  "text": "A Noorderplantage egy történelmi park Leeuwarden városában.",
+                  "text": "Északi park történelmi arborétummal és kanyargós ösvényekkel Leeuwardenben.",
                   "category": "park",
                   "coords": [
                         5.790056,
@@ -10026,7 +10026,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rengerspark",
-                  "text": "A Rengerspark egy pihenésre szolgáló zöldterület Leeuwardenben.",
+                  "text": "Park egy 19. századi kastély körül tóval és monumentális fákkal Leeuwardenben.",
                   "category": "park",
                   "coords": [
                         5.793146,
@@ -10035,7 +10035,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Abbingapark",
-                  "text": "Az Abbingapark egy nyilvános park Leeuwardenben.",
+                  "text": "Park nagy játszótérrel és gördeszkaparkkal a városközpont közelében Leeuwardenben.",
                   "category": "park",
                   "coords": [
                         5.81093,
@@ -10044,7 +10044,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museumhaven Leeuwarden",
-                  "text": "A Museumhaven Leeuwarden történelmi hajókat mutat be Leeuwardenben.",
+                  "text": "Múzeumkikötő történelmi hajókkal és tengerészeti múzeummal Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.794746,
@@ -10053,7 +10053,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Traditiekamer Vliegbasis Leeuwarden",
-                  "text": "A Traditiekamer Vliegbasis Leeuwarden a repülőtér történetével foglalkozik.",
+                  "text": "Hagyományőrző terem a Leeuwardeni Légibázison, a katonai repülés történetét bemutatva.",
                   "category": "museum",
                   "coords": [
                         5.766853,
@@ -10062,7 +10062,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie De Roos van Tudor",
-                  "text": "A Galerie De Roos van Tudor egy művészeti galéria Leeuwardenben.",
+                  "text": "Művészeti galéria egy történelmi épületben, modern művészetre összpontosítva Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.796884,
@@ -10071,7 +10071,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Peter van der Griend",
-                  "text": "A Peter van der Griend galéria egy művészeti kiállítóhely Leeuwardenben.",
+                  "text": "Múzeum Peter van der Griend festő munkásságának szentelve Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.791162,
@@ -10080,7 +10080,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "VHDG",
-                  "text": "A VHDG egy kortárs művészeti galéria Leeuwardenben.",
+                  "text": "A VHDG egy kortárs művészeti tér változó kiállításokkal Leeuwardenben.",
                   "category": "museum",
                   "coords": [
                         5.79725,
@@ -10089,7 +10089,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lieuwenburgzoom",
-                  "text": "Zöldövezet Leeuwardenben, amely a környék lakóinak pihenését szolgálja.",
+                  "text": "Lineáris park egy csatorna mentén sétáló- és kerékpárutakkal Leeuwardenben.",
                   "category": "park",
                   "coords": [
                         5.843853,
@@ -10100,7 +10100,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Oldehove",
-                  "text": "Turnul înclinat din 1529 este simbolul nefinalizat al orașului, oferind o priveliște panoramică asupra regiunii.",
+                  "text": "O fermă pentru copii în Leeuwarden cu capre, oi și găini.",
                   "category": "castles/fortresses/towers",
                   "confidence": "high",
                   "coords": [
@@ -10110,7 +10110,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Museum",
-                  "text": "Un muzeu modern ce expune cultura frizonă, istoria locală și arta contemporană într-un spațiu inovator.",
+                  "text": "De Blauwe Golf din Leeuwarden este un complex de înot și saună, deschis în 1992.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -10160,7 +10160,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "Biserică neogotică impunătoare din 1884, al cărei turn de 85 de metri domină orizontul orașului.",
+                  "text": "Sint-Bonifatiuskerk, o biserică neogotică și monument național în Leeuwarden.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -10180,7 +10180,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Jacobijnerkerk",
-                  "text": "Cea mai veche biserică din oraș, datând din secolul XIII, locul de odihnă al membrilor familiei Nassau.",
+                  "text": "Biserica Jacobijner, începută în 1245, Rijksmonument în Leeuwarden.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -10200,7 +10200,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Landbouwmuseum",
-                  "text": "Muzeul Fries Landbouwmuseum din Leeuwarden prezintă istoria agricolă.",
+                  "text": "Fries Landbouwmuseum, muzeul agriculturii frizone în Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.789545,
@@ -10209,7 +10209,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Historisch Centrum Leeuwarden",
-                  "text": "Historisch Centrum Leeuwarden este un muzeu dedicat istoriei orașului.",
+                  "text": "Muzeul istoriei orașului Leeuwarden în fosta primărie din secolul XIX.",
                   "category": "museum",
                   "coords": [
                         5.791559,
@@ -10218,7 +10218,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Poptaslot - Azingastate - Heringastate",
-                  "text": "Poptaslot, situat lângă Leeuwarden, este un muzeu-castel istoric.",
+                  "text": "Muzeu într-o casă de canal din secolul XVIII cu mobilier original, cunoscut ca Poptaslot.",
                   "category": "museum",
                   "coords": [
                         5.729028,
@@ -10227,7 +10227,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huis Van Eysinga",
-                  "text": "Huis Van Eysinga este un muzeu situat în Leeuwarden.",
+                  "text": "Muzeu într-o casă patriciană din secolul XVII pe un canal în Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.80086,
@@ -10236,7 +10236,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pier Pandertempel",
-                  "text": "Pier Pandertempel din Leeuwarden este un muzeu specializat.",
+                  "text": "Muzeu într-o replică a unui templu chinezesc, cu artă asiatică.",
                   "category": "museum",
                   "coords": [
                         5.788795,
@@ -10245,7 +10245,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "Dekemastate este un castel istoric situat lângă Leeuwarden.",
+                  "text": "Biserică menonită din 1680, Rijksmonument în Leeuwarden.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -10272,7 +10272,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Terpzigt",
-                  "text": "Terpzigt este o moară de vânt istorică din Leeuwarden.",
+                  "text": "Pod basculant peste Nieuwe Kanaal în Leeuwarden, numit după un terp.",
                   "category": "landmark",
                   "coords": [
                         5.724506,
@@ -10308,7 +10308,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum de Grutterswinkel",
-                  "text": "Museum de Grutterswinkel este un muzeu din Leeuwarden.",
+                  "text": "Un muzeu al unui magazin alimentar istoric din Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.793368,
@@ -10317,7 +10317,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsschouwburg de Harmonie",
-                  "text": "Stadsschouwburg de Harmonie este un teatru din Leeuwarden.",
+                  "text": "Un teatru istoric în centrul orașului Leeuwarden.",
                   "category": "cultural",
                   "coords": [
                         5.790079,
@@ -10326,7 +10326,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Schakel",
-                  "text": "De Schakel este un lăcaș de cult din Leeuwarden.",
+                  "text": "O biserică protestantă în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.836666,
@@ -10335,7 +10335,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Masjied Assalam",
-                  "text": "Masjied Assalam este un lăcaș de cult din Leeuwarden.",
+                  "text": "O moschee în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.822939,
@@ -10353,7 +10353,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Deur",
-                  "text": "De Deur este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserică construită în 1979 numită 'De Deur' în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.817865,
@@ -10362,7 +10362,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "Bethelkerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserică protestantă construită în 1986 în Leeuwarden, Bethelkerk.",
                   "category": "religious",
                   "coords": [
                         5.803411,
@@ -10371,7 +10371,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Morgenster",
-                  "text": "De Morgenster este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserică modernă construită în 2004 în Leeuwarden, De Morgenster.",
                   "category": "religious",
                   "coords": [
                         5.814857,
@@ -10380,7 +10380,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitzichtgemeente",
-                  "text": "Uitzichtgemeente este un lăcaș de cult din Leeuwarden.",
+                  "text": "Comunitate bisericească fondată în 1962 în Leeuwarden, Uitzichtgemeente.",
                   "category": "religious",
                   "coords": [
                         5.818219,
@@ -10389,7 +10389,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkerk",
-                  "text": "Adventkerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserică adventistă construită în 1980 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.802678,
@@ -10398,7 +10398,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Fontein",
-                  "text": "De Fontein este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserică construită în 1969 numită De Fontein în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.802589,
@@ -10407,7 +10407,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Messiaanse Gemeente Rehoboth",
-                  "text": "Messiaanse Gemeente Rehoboth este un lăcaș de cult din Leeuwarden.",
+                  "text": "Congregație evreiască mesianică fondată în 1930 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.809222,
@@ -10425,7 +10425,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "ISN Ulu Moskee este un lăcaș de cult islamic din Leeuwarden.",
+                  "text": "Moscheea Ulu construită în 1870, Rijksmonument în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -10434,7 +10434,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelisch-Lutherse kerk",
-                  "text": "Evangelisch-Lutherse kerk este un lăcaș de cult istoric din Leeuwarden.",
+                  "text": "Biserică istorică luterană construită în 1776 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.801733,
@@ -10443,7 +10443,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galileakapel",
-                  "text": "Galileakapel este un lăcaș de cult din Leeuwarden.",
+                  "text": "Capelă construită în 1850 în Leeuwarden, Galileakapel.",
                   "category": "religious",
                   "coords": [
                         5.80215,
@@ -10452,7 +10452,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuw-Apostolische Kerk",
-                  "text": "Nieuw-Apostolische Kerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "Biserică neo-apostolică construită în 1934 în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.803766,
@@ -10479,7 +10479,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kurioskerk",
-                  "text": "Kurioskerk este un lăcaș de cult din Leeuwarden.",
+                  "text": "O biserică în Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.787729,
@@ -10488,7 +10488,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verlaatsbrug",
-                  "text": "Verlaatsbrug este un pod în Leeuwarden.",
+                  "text": "Pod construit în 1964 peste un canal în Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.787652,
@@ -10497,7 +10497,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hermesbrug",
-                  "text": "Hermesbrug este un pod în Leeuwarden.",
+                  "text": "Pod construit în 1961 în Leeuwarden, Hermesbrug.",
                   "category": "landmark",
                   "coords": [
                         5.774552,
@@ -10506,7 +10506,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoeksterpijp",
-                  "text": "Hoeksterpijp este un pod în Leeuwarden.",
+                  "text": "Pod peste canalul Hoeksterpijp construit în 1941.",
                   "category": "landmark",
                   "coords": [
                         5.801094,
@@ -10515,7 +10515,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "Wirdumerpoortsbrug este un pod în Leeuwarden.",
+                  "text": "Pod construit în 1940, proiectat de Justus Zuidema în Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -10542,7 +10542,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Greunsbrug",
-                  "text": "Greunsbrug este un pod în Leeuwarden.",
+                  "text": "Un pod peste canalul Greuns din Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.835877,
@@ -10560,7 +10560,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toren",
-                  "text": "Toren este un turn în Leeuwarden.",
+                  "text": "Turn modern construit în 1990 în Leeuwarden.",
                   "category": "tower",
                   "coords": [
                         5.80807,
@@ -10569,7 +10569,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dr. Zamenhofpark",
-                  "text": "Dr. Zamenhofpark este un spațiu verde public din Leeuwarden.",
+                  "text": "Un parc dedicat lui L. L. Zamenhof, inventatorul esperanto, cu o statuie și o grădină de trandafiri în Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.815274,
@@ -10578,7 +10578,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerpark",
-                  "text": "Westerpark este un parc relaxant în Leeuwarden.",
+                  "text": "Parcul vestic al Leeuwardenului cu un iaz mare și facilități sportive.",
                   "category": "park",
                   "coords": [
                         5.785653,
@@ -10587,7 +10587,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplantage",
-                  "text": "Noorderplantage este un parc istoric din Leeuwarden.",
+                  "text": "Un parc nordic cu un arboretum istoric și poteci șerpuite în Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.790056,
@@ -10596,7 +10596,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rengerspark",
-                  "text": "Rengerspark este un spațiu verde pentru recreere în Leeuwarden.",
+                  "text": "Un parc în jurul unui conac din secolul al XIX-lea cu un iaz și copaci monumentali în Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.793146,
@@ -10605,7 +10605,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Abbingapark",
-                  "text": "Abbingapark este un parc public din Leeuwarden.",
+                  "text": "Un parc cu un loc de joacă mare și un parc de skate lângă centrul orașului în Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.81093,
@@ -10614,7 +10614,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museumhaven Leeuwarden",
-                  "text": "Museumhaven Leeuwarden expune nave istorice în Leeuwarden.",
+                  "text": "Un port muzeu cu nave istorice și un muzeu maritim în Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.794746,
@@ -10623,7 +10623,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Traditiekamer Vliegbasis Leeuwarden",
-                  "text": "Traditiekamer Vliegbasis Leeuwarden este dedicat istoriei aerodromului.",
+                  "text": "O cameră a tradițiilor la Baza Aeriană Leeuwarden, care expune istoria aviației militare.",
                   "category": "museum",
                   "coords": [
                         5.766853,
@@ -10632,7 +10632,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie De Roos van Tudor",
-                  "text": "Galerie De Roos van Tudor este o galerie de artă din Leeuwarden.",
+                  "text": "O galerie de artă găzduită într-o clădire istorică, concentrându-se pe arta modernă în Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.796884,
@@ -10641,7 +10641,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Peter van der Griend",
-                  "text": "Galeria Peter van der Griend este un spațiu expozițional de artă din Leeuwarden.",
+                  "text": "Un muzeu dedicat operei pictorului Peter van der Griend în Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.791162,
@@ -10650,7 +10650,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "VHDG",
-                  "text": "VHDG este o galerie de artă contemporană din Leeuwarden.",
+                  "text": "VHDG este un spațiu de artă contemporană cu expoziții rotative în Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.79725,
@@ -10659,7 +10659,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lieuwenburgzoom",
-                  "text": "O zonă verde din Leeuwarden, destinată recreerii locuitorilor din zonă.",
+                  "text": "Un parc liniar de-a lungul unui canal cu poteci de mers pe jos și cu bicicleta în Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.843853,
@@ -10670,7 +10670,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Oldehove",
-                  "text": "The leaning, unfinished church tower from 1529 is Leeuwarden's iconic symbol, offering wide city views.",
+                  "text": "A children's farm in Leeuwarden with goats, sheep and chickens.",
                   "category": "castles/fortresses/towers",
                   "confidence": "high",
                   "coords": [
@@ -10680,7 +10680,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Museum",
-                  "text": "A modern museum showcasing Frisian culture, history, and art in an award-winning contemporary building.",
+                  "text": "De Blauwe Golf in Leeuwarden is a recreational swimming and sauna complex, opened in 1992.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -10730,7 +10730,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Bonifatiuskerk",
-                  "text": "An impressive neo-Gothic church built in 1884, featuring a 114-meter spire that dominates the skyline.",
+                  "text": "Sint-Bonifatiuskerk, a neo-Gothic church and national monument in Leeuwarden.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -10750,7 +10750,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote of Jacobijnerkerk",
-                  "text": "The oldest building in town (13th century), housing the burial vaults of the Frisian House of Nassau.",
+                  "text": "Jacobijner church begun 1245, a Rijksmonument in Leeuwarden.",
                   "category": "churches/cathedrals",
                   "confidence": "high",
                   "coords": [
@@ -10770,7 +10770,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fries Landbouwmuseum",
-                  "text": "The Fries Landbouwmuseum in Leeuwarden showcases agricultural history.",
+                  "text": "Fries Landbouwmuseum, museum of Frisian agriculture in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.789545,
@@ -10779,7 +10779,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Historisch Centrum Leeuwarden",
-                  "text": "The Historisch Centrum Leeuwarden is a museum dedicated to local history.",
+                  "text": "Museum of Leeuwarden's history in the former 19th-century town hall.",
                   "category": "museum",
                   "coords": [
                         5.791559,
@@ -10788,7 +10788,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Poptaslot - Azingastate - Heringastate",
-                  "text": "The Poptaslot near Leeuwarden is a historic castle museum.",
+                  "text": "18th-century canal house museum with original interiors, known as Poptaslot.",
                   "category": "museum",
                   "coords": [
                         5.729028,
@@ -10797,7 +10797,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huis Van Eysinga",
-                  "text": "The Huis Van Eysinga is a museum in Leeuwarden.",
+                  "text": "A 17th-century patrician house museum on a canal in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.80086,
@@ -10806,7 +10806,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pier Pandertempel",
-                  "text": "The Pier Pandertempel in Leeuwarden is a specialized museum.",
+                  "text": "Museum in a replica Chinese temple, housing Asian art.",
                   "category": "museum",
                   "coords": [
                         5.788795,
@@ -10815,7 +10815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dekemastate",
-                  "text": "The Dekemastate is a historic castle near Leeuwarden.",
+                  "text": "Mennonite church from 1680, a Rijksmonument in Leeuwarden.",
                   "category": "castle",
                   "coords": [
                         5.783602,
@@ -10842,7 +10842,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Terpzigt",
-                  "text": "Terpzigt is a historic windmill in Leeuwarden.",
+                  "text": "Drawbridge over the Nieuwe Kanaal in Leeuwarden, named after a terp.",
                   "category": "landmark",
                   "coords": [
                         5.724506,
@@ -10878,7 +10878,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum de Grutterswinkel",
-                  "text": "Museum de Grutterswinkel is a museum in Leeuwarden.",
+                  "text": "A museum of a historic grocery store in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.793368,
@@ -10887,7 +10887,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsschouwburg de Harmonie",
-                  "text": "Stadsschouwburg de Harmonie is a theatre in Leeuwarden.",
+                  "text": "A historic theatre in the centre of Leeuwarden.",
                   "category": "cultural",
                   "coords": [
                         5.790079,
@@ -10896,7 +10896,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Schakel",
-                  "text": "De Schakel is a place of worship in Leeuwarden.",
+                  "text": "A Protestant church in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.836666,
@@ -10905,7 +10905,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Masjied Assalam",
-                  "text": "Masjied Assalam is a place of worship in Leeuwarden.",
+                  "text": "A mosque in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.822939,
@@ -10923,7 +10923,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Deur",
-                  "text": "De Deur is a place of worship in Leeuwarden.",
+                  "text": "Church built in 1979 named 'De Deur' in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.817865,
@@ -10932,7 +10932,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bethelkerk",
-                  "text": "Bethelkerk is a place of worship in Leeuwarden.",
+                  "text": "Protestant church built in 1986 in Leeuwarden, Bethelkerk.",
                   "category": "religious",
                   "coords": [
                         5.803411,
@@ -10941,7 +10941,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Morgenster",
-                  "text": "De Morgenster is a place of worship in Leeuwarden.",
+                  "text": "Modern church built in 2004 in Leeuwarden, De Morgenster.",
                   "category": "religious",
                   "coords": [
                         5.814857,
@@ -10950,7 +10950,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitzichtgemeente",
-                  "text": "Uitzichtgemeente is a place of worship in Leeuwarden.",
+                  "text": "Church community established in 1962 in Leeuwarden, Uitzichtgemeente.",
                   "category": "religious",
                   "coords": [
                         5.818219,
@@ -10959,7 +10959,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkerk",
-                  "text": "Adventkerk is a place of worship in Leeuwarden.",
+                  "text": "Adventist church built in 1980 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.802678,
@@ -10968,7 +10968,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Fontein",
-                  "text": "De Fontein is a place of worship in Leeuwarden.",
+                  "text": "Church built in 1969 called De Fontein in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.802589,
@@ -10977,7 +10977,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Messiaanse Gemeente Rehoboth",
-                  "text": "Messiaanse Gemeente Rehoboth is a place of worship in Leeuwarden.",
+                  "text": "Messianic Jewish congregation founded in 1930 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.809222,
@@ -10995,7 +10995,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "ISN Ulu Moskee",
-                  "text": "ISN Ulu Moskee is an Islamic place of worship in Leeuwarden.",
+                  "text": "Ulu mosque built 1870, a Rijksmonument in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.804099,
@@ -11004,7 +11004,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelisch-Lutherse kerk",
-                  "text": "Evangelisch-Lutherse kerk is a historic place of worship in Leeuwarden.",
+                  "text": "Historic Lutheran church built in 1776 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.801733,
@@ -11013,7 +11013,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galileakapel",
-                  "text": "Galileakapel is a place of worship in Leeuwarden.",
+                  "text": "Chapel built in 1850 in Leeuwarden, Galileakapel.",
                   "category": "religious",
                   "coords": [
                         5.80215,
@@ -11022,7 +11022,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuw-Apostolische Kerk",
-                  "text": "Nieuw-Apostolische Kerk is a place of worship in Leeuwarden.",
+                  "text": "New Apostolic church built in 1934 in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.803766,
@@ -11049,7 +11049,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kurioskerk",
-                  "text": "Kurioskerk is a place of worship in Leeuwarden.",
+                  "text": "A church in Leeuwarden.",
                   "category": "religious",
                   "coords": [
                         5.787729,
@@ -11058,7 +11058,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Verlaatsbrug",
-                  "text": "Verlaatsbrug is a bridge in Leeuwarden.",
+                  "text": "Bridge built in 1964 over a canal in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.787652,
@@ -11067,7 +11067,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hermesbrug",
-                  "text": "Hermesbrug is a bridge in Leeuwarden.",
+                  "text": "Bridge built in 1961 in Leeuwarden, Hermesbrug.",
                   "category": "landmark",
                   "coords": [
                         5.774552,
@@ -11076,7 +11076,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoeksterpijp",
-                  "text": "Hoeksterpijp is a bridge in Leeuwarden.",
+                  "text": "Bridge over the Hoeksterpijp canal built in 1941.",
                   "category": "landmark",
                   "coords": [
                         5.801094,
@@ -11085,7 +11085,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wirdumerpoortsbrug",
-                  "text": "Wirdumerpoortsbrug is a bridge in Leeuwarden.",
+                  "text": "Bridge built 1940, designed by Justus Zuidema in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.796694,
@@ -11112,7 +11112,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Greunsbrug",
-                  "text": "Greunsbrug is a bridge in Leeuwarden.",
+                  "text": "A bridge over the Greuns canal in Leeuwarden.",
                   "category": "landmark",
                   "coords": [
                         5.835877,
@@ -11130,7 +11130,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Toren",
-                  "text": "Toren is a tower in Leeuwarden.",
+                  "text": "Modern tower built in 1990 in Leeuwarden.",
                   "category": "tower",
                   "coords": [
                         5.80807,
@@ -11139,7 +11139,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dr. Zamenhofpark",
-                  "text": "Dr. Zamenhofpark is a public green space in Leeuwarden.",
+                  "text": "A park dedicated to L. L. Zamenhof, inventor of Esperanto, with a statue and rose garden in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.815274,
@@ -11148,7 +11148,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerpark",
-                  "text": "Westerpark is a relaxing park in Leeuwarden.",
+                  "text": "The western park of Leeuwarden with a large pond and sports facilities.",
                   "category": "park",
                   "coords": [
                         5.785653,
@@ -11157,7 +11157,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Noorderplantage",
-                  "text": "Noorderplantage is a historic park in Leeuwarden.",
+                  "text": "A northern park with a historic arboretum and winding paths in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.790056,
@@ -11166,7 +11166,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rengerspark",
-                  "text": "Rengerspark is a green space for recreation in Leeuwarden.",
+                  "text": "A park around a 19th-century country estate with a pond and monumental trees in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.793146,
@@ -11175,7 +11175,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Abbingapark",
-                  "text": "Abbingapark is a public park in Leeuwarden.",
+                  "text": "A park with a large playground and a skate park near the city centre in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.81093,
@@ -11184,7 +11184,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museumhaven Leeuwarden",
-                  "text": "Museumhaven Leeuwarden showcases historic ships in Leeuwarden.",
+                  "text": "A museum harbour with historic ships and a maritime museum in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.794746,
@@ -11193,7 +11193,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Traditiekamer Vliegbasis Leeuwarden",
-                  "text": "Traditiekamer Vliegbasis Leeuwarden is dedicated to the history of the airfield.",
+                  "text": "A tradition room at the Leeuwarden Air Base exhibiting military aviation history.",
                   "category": "museum",
                   "coords": [
                         5.766853,
@@ -11202,7 +11202,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie De Roos van Tudor",
-                  "text": "Galerie De Roos van Tudor is an art gallery in Leeuwarden.",
+                  "text": "An art gallery housed in a historic building, focusing on modern art in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.796884,
@@ -11211,7 +11211,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Peter van der Griend",
-                  "text": "The Peter van der Griend gallery is an art exhibition space in Leeuwarden.",
+                  "text": "A museum dedicated to the work of painter Peter van der Griend in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.791162,
@@ -11220,7 +11220,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "VHDG",
-                  "text": "VHDG is a contemporary art gallery in Leeuwarden.",
+                  "text": "VHDG is a contemporary art space with rotating exhibitions in Leeuwarden.",
                   "category": "museum",
                   "coords": [
                         5.79725,
@@ -11229,7 +11229,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lieuwenburgzoom",
-                  "text": "A green zone in Leeuwarden used for local recreation.",
+                  "text": "A linear park along a canal with walking and cycling paths in Leeuwarden.",
                   "category": "park",
                   "coords": [
                         5.843853,
@@ -11244,7 +11244,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zegerstrand",
-                  "text": "Zegerstrand in Alphen aan den Rijn.",
+                  "text": "Ein Sandstrand am Zegerplas-See, beliebt zum Schwimmen und Sonnenbaden in Alphen aan den Rijn.",
                   "category": "recreational",
                   "coords": [
                         4.678228,
@@ -11489,7 +11489,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zegerstrand",
-                  "text": "Zegerstrand Alphen aan den Rijn városában.",
+                  "text": "Homokos strand a Zegerplas-tavon, népszerű úszásra és napozásra Alphen aan den Rijnben.",
                   "category": "recreational",
                   "coords": [
                         4.678228,
@@ -11734,7 +11734,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zegerstrand",
-                  "text": "Zegerstrand în Alphen aan den Rijn.",
+                  "text": "O plajă nisipoasă pe lacul Zegerplas, populară pentru înot și plajă în Alphen aan den Rijn.",
                   "category": "recreational",
                   "coords": [
                         4.678228,
@@ -11979,7 +11979,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zegerstrand",
-                  "text": "Zegerstrand in Alphen aan den Rijn.",
+                  "text": "A sandy beach on the Zegerplas lake, popular for swimming and sunbathing in Alphen aan den Rijn.",
                   "category": "recreational",
                   "coords": [
                         4.678228,
@@ -12279,7 +12279,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum van Bommel van Dam",
-                  "text": "Ein Museum für moderne und zeitgenössische Kunst in Venlo.",
+                  "text": "Museum für moderne Kunst in einer Villa aus dem 19. Jahrhundert in Venlo.",
                   "category": "museum",
                   "coords": [
                         6.171313,
@@ -12342,7 +12342,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Hagerhof",
-                  "text": "Die Kinderboerderij Hagerhof ist ein Streichelzoo und Kinderbauernhof in Venlo.",
+                  "text": "Ein Streichelzoo mit Eseln, Schafen und einem Spielplatz in Venlo.",
                   "category": "recreational",
                   "coords": [
                         6.163963,
@@ -12371,7 +12371,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum van Bommel van Dam",
-                  "text": "Modern és kortárs művészeti múzeum Venlo városában.",
+                  "text": "Modern művészeti múzeum egy 19. századi villában Venlóban.",
                   "category": "museum",
                   "coords": [
                         6.171313,
@@ -12434,7 +12434,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Hagerhof",
-                  "text": "A Kinderboerderij Hagerhof egy állatsimogató és gyermekfarm Venloban.",
+                  "text": "Simogató állatkert szamarakkal, birkákkal és játszótérrel Venloban.",
                   "category": "recreational",
                   "coords": [
                         6.163963,
@@ -12463,7 +12463,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum van Bommel van Dam",
-                  "text": "Un muzeu de artă modernă și contemporană din Venlo.",
+                  "text": "Muzeu de artă modernă într-o vilă din secolul XIX în Venlo.",
                   "category": "museum",
                   "coords": [
                         6.171313,
@@ -12526,7 +12526,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Hagerhof",
-                  "text": "Kinderboerderij Hagerhof este o grădină zoologică cu animale domestice și o fermă pentru copii din Venlo.",
+                  "text": "O fermă de animale de companie cu măgari, oi și un loc de joacă în Venlo.",
                   "category": "recreational",
                   "coords": [
                         6.163963,
@@ -12555,7 +12555,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum van Bommel van Dam",
-                  "text": "A museum of modern and contemporary art located in Venlo.",
+                  "text": "Modern art museum in a 19th-century villa in Venlo.",
                   "category": "museum",
                   "coords": [
                         6.171313,
@@ -12618,7 +12618,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Hagerhof",
-                  "text": "Kinderboerderij Hagerhof is a children's petting zoo and farm in Venlo.",
+                  "text": "A petting farm with donkeys, sheep, and a playground in Venlo.",
                   "category": "recreational",
                   "coords": [
                         6.163963,
@@ -12702,7 +12702,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fotomuseum Hilversum",
-                  "text": "Ein Museum in Hilversum, das der Fotografie gewidmet ist.",
+                  "text": "Ein Fotomuseum in Hilversum.",
                   "category": "museum",
                   "coords": [
                         5.171432,
@@ -12711,7 +12711,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Snip",
-                  "text": "Ein Naturgebiet in Hilversum, das zur Erholung einlädt.",
+                  "text": "Ein Naturschutzgebiet mit Feuchtwiesen und einer Vogelbeobachtungshütte in Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.164343,
@@ -12720,7 +12720,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bussummerheide",
-                  "text": "Ein weitläufiges Heidegebiet in der Nähe von Hilversum.",
+                  "text": "Ein Heidegebiet mit Sanddünen und Heidekraut, Teil des Goois Naturschutzgebiets in Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.184329,
@@ -12738,7 +12738,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerveld",
-                  "text": "Ein ruhiges Naturgebiet in Hilversum.",
+                  "text": "Ein westliches Heidegebiet mit Sandböden und Heidekraut am Rand von Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.195584,
@@ -12747,7 +12747,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Zuid",
-                  "text": "Ein geschütztes Naturgebiet in Hilversum.",
+                  "text": "Ein südliches Heidegebiet mit Dünen und Kiefernwäldern nahe Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.191499,
@@ -12756,7 +12756,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laapersveld",
-                  "text": "Ein Naturschutzgebiet und Park in Hilversum.",
+                  "text": "Ein Gras- und Waldgebiet angrenzend an das Anwesen Laaper in Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.183238,
@@ -12765,7 +12765,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerheide",
-                  "text": "Ein großes Heide- und Waldgebiet bei Hilversum.",
+                  "text": "Eine Heidefläche im Westen Hilversums, bekannt für ihre blühenden violetten Heidekraut.",
                   "category": "natural",
                   "coords": [
                         5.190325,
@@ -12792,7 +12792,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pijnenburg-Kievitsdal",
-                  "text": "Ein Teil eines historischen Landgutes und Naturgebietes.",
+                  "text": "Ein Kiefernwald mit einem gewundenen Tal und einem kleinen Bach, ideal zum Wandern.",
                   "category": "natural",
                   "coords": [
                         5.211419,
@@ -12810,7 +12810,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vorstin",
-                  "text": "Ein bekanntes Pop-Podium und Veranstaltungszentrum in Hilversum.",
+                  "text": "Ein ehemaliges Kino, das in einen Popmusik- und Kulturort umgewandelt wurde.",
                   "category": "cultural",
                   "coords": [
                         5.178037,
@@ -12819,7 +12819,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater Gooiland",
-                  "text": "Ein bedeutendes Theater und Denkmal in Hilversum.",
+                  "text": "Ein historisches Art-Déco-Theater im Zentrum von Hilversum.",
                   "category": "cultural",
                   "coords": [
                         5.177436,
@@ -12855,7 +12855,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooilust",
-                  "text": "Ein historischer Außenort mit einem wunderschönen Park und Garten.",
+                  "text": "Ein Naturschutzgebiet mit einem historischen Herrenhaus und Landschaftsgärten.",
                   "category": "natural",
                   "coords": [
                         5.131963,
@@ -12864,7 +12864,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Land en Bosch",
-                  "text": "Ein Naturgebiet, das zum Wandern und Erholen einlädt.",
+                  "text": "Ein bewaldetes Anwesen mit alten Eichen und einem Landschaftspark.",
                   "category": "natural",
                   "coords": [
                         5.134952,
@@ -12873,7 +12873,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jagtlust",
-                  "text": "Ein Naturschutzgebiet in der Umgebung von Hilversum.",
+                  "text": "Ein ehemaliges Jagdschloss mit Heide, Wäldern und einem Teich.",
                   "category": "natural",
                   "coords": [
                         5.139467,
@@ -12882,7 +12882,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Amfitheater",
-                  "text": "Eine Freilichtbühne in Hilversum für kulturelle Veranstaltungen.",
+                  "text": "Ein Freiluftamphitheater in der Hilversumse Hei, das Sommerkonzerte beherbergt.",
                   "category": "cultural",
                   "coords": [
                         5.168672,
@@ -12891,7 +12891,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Corversbos",
-                  "text": "Ein abwechslungsreiches Waldgebiet in Hilversum.",
+                  "text": "Ein Mischwald mit Buchen und Eichen, durchzogen von Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         5.149356,
@@ -12945,7 +12945,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heuvellaan Hilversum",
-                  "text": "Ein kultureller Treffpunkt in Hilversum.",
+                  "text": "Eine von frühen Villen des 20. Jahrhunderts gesäumte Straße auf einem Hügel in Hilversum.",
                   "category": "cultural",
                   "coords": [
                         5.164012,
@@ -12954,7 +12954,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Anna's Berg",
-                  "text": "Ein erhöhter Punkt in Hilversum mit schöner Aussicht.",
+                  "text": "Ein kleiner Hügel mit einem Aussichtspunkt und Bänken, der einen Blick auf Hilversum bietet.",
                   "category": "natural",
                   "coords": [
                         5.206757,
@@ -13008,7 +13008,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regenboogkerk",
-                  "text": "Eine moderne christliche Kirche in Hilversum.",
+                  "text": "Kirche von 2001 in Hilversum, Regenboogkerk.",
                   "category": "religious",
                   "coords": [
                         5.177192,
@@ -13082,7 +13082,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fotomuseum Hilversum",
-                  "text": "A fotózásnak szentelt múzeum Hilversumban.",
+                  "text": "Fotomúzeum Hilversumban.",
                   "category": "museum",
                   "coords": [
                         5.171432,
@@ -13091,7 +13091,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Snip",
-                  "text": "Természeti terület Hilversumban, amely kikapcsolódásra hív.",
+                  "text": "Természetvédelmi terület nedves rétekkel és madármegfigyelő kunyhóval Hilversumban.",
                   "category": "natural",
                   "coords": [
                         5.164343,
@@ -13100,7 +13100,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bussummerheide",
-                  "text": "Egy kiterjedt fenyérterület Hilversum közelében.",
+                  "text": "Hangás terület homokdűnékkel és hangával, a Goois Természetvédelmi Terület része Hilversumban.",
                   "category": "natural",
                   "coords": [
                         5.184329,
@@ -13118,7 +13118,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerveld",
-                  "text": "Csendes természeti terület Hilversumban.",
+                  "text": "Egy nyugati hangás terület homokos talajjal, Hilversum szélén.",
                   "category": "natural",
                   "coords": [
                         5.195584,
@@ -13127,7 +13127,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Zuid",
-                  "text": "Védett természeti terület Hilversumban.",
+                  "text": "Egy déli hangás terület homokdűnékkel és fenyőerdőkkel Hilversum közelében.",
                   "category": "natural",
                   "coords": [
                         5.191499,
@@ -13136,7 +13136,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laapersveld",
-                  "text": "Természetvédelmi terület és park Hilversumban.",
+                  "text": "Egy füves és erdei terület a Laaper birtok mellett Hilversumban.",
                   "category": "natural",
                   "coords": [
                         5.183238,
@@ -13145,7 +13145,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerheide",
-                  "text": "Nagy fenyér- és erdőterület Hilversum mellett.",
+                  "text": "Egy hangás terület Hilversum nyugati részén, amely lila virágzásáról ismert.",
                   "category": "natural",
                   "coords": [
                         5.190325,
@@ -13172,7 +13172,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pijnenburg-Kievitsdal",
-                  "text": "Egy történelmi birtok és természeti terület része.",
+                  "text": "Egy fenyőerdő kanyargós völggyel és kis patakkal, ideális túrázáshoz.",
                   "category": "natural",
                   "coords": [
                         5.211419,
@@ -13190,7 +13190,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vorstin",
-                  "text": "Ismert popzenei helyszín és rendezvényközpont Hilversumban.",
+                  "text": "Egy egykori mozi, amelyet popzenei és kulturális központtá alakítottak.",
                   "category": "cultural",
                   "coords": [
                         5.178037,
@@ -13199,7 +13199,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater Gooiland",
-                  "text": "Jelentős színház és műemlék Hilversumban.",
+                  "text": "Egy historikus art déco színház Hilversum központjában.",
                   "category": "cultural",
                   "coords": [
                         5.177436,
@@ -13235,7 +13235,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooilust",
-                  "text": "Történelmi birtok gyönyörű parkkal és kerttel.",
+                  "text": "Egy természetvédelmi terület történelmi kastéllyal és díszkertekkel.",
                   "category": "natural",
                   "coords": [
                         5.131963,
@@ -13244,7 +13244,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Land en Bosch",
-                  "text": "Túrázásra és kikapcsolódásra hívó természeti terület.",
+                  "text": "Egy erdős birtok öreg tölgyekkel és parkkal.",
                   "category": "natural",
                   "coords": [
                         5.134952,
@@ -13253,7 +13253,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jagtlust",
-                  "text": "Természetvédelmi terület Hilversum környékén.",
+                  "text": "Egy egykori vadászkastély hangával, erdőkkel és tóval.",
                   "category": "natural",
                   "coords": [
                         5.139467,
@@ -13262,7 +13262,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Amfitheater",
-                  "text": "Szabadtéri színpad Hilversumban kulturális rendezvények számára.",
+                  "text": "Egy szabadtéri amfiteátrum a Hilversumse Hei-n, nyári koncertek helyszíne.",
                   "category": "cultural",
                   "coords": [
                         5.168672,
@@ -13271,7 +13271,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Corversbos",
-                  "text": "Változatos erdőterület Hilversumban.",
+                  "text": "Egy vegyes erdő bükk- és tölgyfákkal, túraútvonalakkal átszőve.",
                   "category": "natural",
                   "coords": [
                         5.149356,
@@ -13325,7 +13325,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heuvellaan Hilversum",
-                  "text": "Kulturális találkozóhely Hilversumban.",
+                  "text": "Egy utca a 20. század eleji villákkal, egy dombon Hilversumban.",
                   "category": "cultural",
                   "coords": [
                         5.164012,
@@ -13334,7 +13334,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Anna's Berg",
-                  "text": "Megemelt pont Hilversumban, szép kilátással.",
+                  "text": "Egy kis domb kilátóval és padokkal, rálátással Hilversumra.",
                   "category": "natural",
                   "coords": [
                         5.206757,
@@ -13388,7 +13388,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regenboogkerk",
-                  "text": "Modern keresztény templom Hilversumban.",
+                  "text": "2001-ben épült templom Hilversumban, Regenboogkerk.",
                   "category": "religious",
                   "coords": [
                         5.177192,
@@ -13462,7 +13462,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fotomuseum Hilversum",
-                  "text": "Un muzeu din Hilversum dedicat fotografiei.",
+                  "text": "Un muzeu de fotografie în Hilversum.",
                   "category": "museum",
                   "coords": [
                         5.171432,
@@ -13471,7 +13471,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Snip",
-                  "text": "O zonă naturală din Hilversum, ideală pentru recreere.",
+                  "text": "O rezervație naturală cu pajiști umede și un punct de observare a păsărilor în Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.164343,
@@ -13480,7 +13480,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bussummerheide",
-                  "text": "O zonă extinsă de pajiști cu iarbă neagră lângă Hilversum.",
+                  "text": "O zonă de pășune cu dune de nisip și iarbă de munte, parte a Rezervației Naturale Goois în Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.184329,
@@ -13498,7 +13498,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerveld",
-                  "text": "O zonă naturală liniștită din Hilversum.",
+                  "text": "O zonă de vest cu sol nisipos și tufișuri, la marginea orașului Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.195584,
@@ -13507,7 +13507,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Zuid",
-                  "text": "O zonă naturală protejată din Hilversum.",
+                  "text": "O zonă sudică de tufăriș cu dune de nisip și păduri de pini lângă Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.191499,
@@ -13516,7 +13516,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laapersveld",
-                  "text": "O rezervație naturală și un parc în Hilversum.",
+                  "text": "O zonă de pajiști și păduri adiacentă domeniului Laaper din Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.183238,
@@ -13525,7 +13525,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerheide",
-                  "text": "O zonă mare de pajiști și păduri de lângă Hilversum.",
+                  "text": "O zonă de tufăriș în vestul Hilversumului, cunoscută pentru înflorirea mov a ericii.",
                   "category": "natural",
                   "coords": [
                         5.190325,
@@ -13552,7 +13552,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pijnenburg-Kievitsdal",
-                  "text": "O parte a unei moșii istorice și zonă naturală.",
+                  "text": "O pădure de pini cu o vale sinuoasă și un pârâu mic, ideală pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         5.211419,
@@ -13570,7 +13570,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vorstin",
-                  "text": "O cunoscută scenă pop și centru de evenimente din Hilversum.",
+                  "text": "Un fost cinematograf transformat într-un spațiu pentru concerte și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         5.178037,
@@ -13579,7 +13579,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater Gooiland",
-                  "text": "Un teatru și monument important din Hilversum.",
+                  "text": "Un teatru istoric în stil Art Deco în centrul orașului Hilversum.",
                   "category": "cultural",
                   "coords": [
                         5.177436,
@@ -13615,7 +13615,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooilust",
-                  "text": "O moșie istorică cu un parc și o grădină superbe.",
+                  "text": "O rezervație naturală cu o conac istoric și grădini peisagistice.",
                   "category": "natural",
                   "coords": [
                         5.131963,
@@ -13624,7 +13624,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Land en Bosch",
-                  "text": "O zonă naturală care invită la drumeții și relaxare.",
+                  "text": "Un domeniu împădurit cu stejari bătrâni și un parc peisagistic.",
                   "category": "natural",
                   "coords": [
                         5.134952,
@@ -13633,7 +13633,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jagtlust",
-                  "text": "O rezervație naturală în împrejurimile orașului Hilversum.",
+                  "text": "Un fost domeniu de vânătoare cu tufișuri, păduri și un iaz.",
                   "category": "natural",
                   "coords": [
                         5.139467,
@@ -13642,7 +13642,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Amfitheater",
-                  "text": "Un amfiteatru în aer liber din Hilversum pentru evenimente culturale.",
+                  "text": "Un amfiteatru în aer liber în Hilversumse Hei, care găzduiește concerte de vară.",
                   "category": "cultural",
                   "coords": [
                         5.168672,
@@ -13651,7 +13651,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Corversbos",
-                  "text": "O zonă forestieră variată din Hilversum.",
+                  "text": "O pădure mixtă cu fagi și stejari, străbătută de poteci.",
                   "category": "natural",
                   "coords": [
                         5.149356,
@@ -13705,7 +13705,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heuvellaan Hilversum",
-                  "text": "Un punct de întâlnire cultural din Hilversum.",
+                  "text": "O stradă cu vile de la începutul secolului XX pe un deal din Hilversum.",
                   "category": "cultural",
                   "coords": [
                         5.164012,
@@ -13714,7 +13714,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Anna's Berg",
-                  "text": "Un punct înalt din Hilversum cu o priveliște frumoasă.",
+                  "text": "Un deal mic cu un punct de belvedere și bănci, oferind vedere asupra orașului Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.206757,
@@ -13768,7 +13768,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regenboogkerk",
-                  "text": "O biserică creștină modernă din Hilversum.",
+                  "text": "Biserică construită în 2001 în Hilversum, Regenboogkerk.",
                   "category": "religious",
                   "coords": [
                         5.177192,
@@ -13842,7 +13842,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fotomuseum Hilversum",
-                  "text": "A museum in Hilversum dedicated to photography.",
+                  "text": "A photography museum in Hilversum.",
                   "category": "museum",
                   "coords": [
                         5.171432,
@@ -13851,7 +13851,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Snip",
-                  "text": "A natural area in Hilversum, ideal for recreation.",
+                  "text": "A nature reserve with wet grasslands and a bird observation hide in Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.164343,
@@ -13860,7 +13860,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bussummerheide",
-                  "text": "An extensive heathland area located near Hilversum.",
+                  "text": "A heathland area with sand dunes and heather, part of the Goois Nature Reserve in Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.184329,
@@ -13878,7 +13878,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerveld",
-                  "text": "A peaceful natural area in Hilversum.",
+                  "text": "A western heathland with sandy soils and heather on the edge of Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.195584,
@@ -13887,7 +13887,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Zuid",
-                  "text": "A protected natural area in Hilversum.",
+                  "text": "A southern heathland with rolling dunes and pine forests near Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.191499,
@@ -13896,7 +13896,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Laapersveld",
-                  "text": "A nature reserve and park in Hilversum.",
+                  "text": "A grassy field and woodland area adjacent to the Laaper estate in Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.183238,
@@ -13905,7 +13905,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westerheide",
-                  "text": "A large heath and forest area near Hilversum.",
+                  "text": "A heathland on the west side of Hilversum, known for its purple heather in bloom.",
                   "category": "natural",
                   "coords": [
                         5.190325,
@@ -13932,7 +13932,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Pijnenburg-Kievitsdal",
-                  "text": "Part of a historical estate and natural area.",
+                  "text": "A pine forest with a winding valley and a small stream, ideal for hiking.",
                   "category": "natural",
                   "coords": [
                         5.211419,
@@ -13950,7 +13950,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Vorstin",
-                  "text": "A well-known pop stage and event center in Hilversum.",
+                  "text": "A former cinema turned into a pop music venue and cultural center.",
                   "category": "cultural",
                   "coords": [
                         5.178037,
@@ -13959,7 +13959,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater Gooiland",
-                  "text": "A significant theatre and monument in Hilversum.",
+                  "text": "A historic Art Deco theater in the center of Hilversum.",
                   "category": "cultural",
                   "coords": [
                         5.177436,
@@ -13995,7 +13995,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gooilust",
-                  "text": "A historical estate with a beautiful park and garden.",
+                  "text": "A nature reserve with a historic manor house and landscaped gardens.",
                   "category": "natural",
                   "coords": [
                         5.131963,
@@ -14004,7 +14004,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Land en Bosch",
-                  "text": "A natural area ideal for hiking and recreation.",
+                  "text": "A wooded estate with ancient oaks and a landscaped park.",
                   "category": "natural",
                   "coords": [
                         5.134952,
@@ -14013,7 +14013,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jagtlust",
-                  "text": "A nature reserve in the surroundings of Hilversum.",
+                  "text": "A former hunting estate with heathland, forests, and a pond.",
                   "category": "natural",
                   "coords": [
                         5.139467,
@@ -14022,7 +14022,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Amfitheater",
-                  "text": "An open-air theatre in Hilversum for cultural events.",
+                  "text": "An open-air amphitheater in the Hilversumse Hei, hosting summer concerts.",
                   "category": "cultural",
                   "coords": [
                         5.168672,
@@ -14031,7 +14031,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Corversbos",
-                  "text": "A varied forest area in Hilversum.",
+                  "text": "A mixed forest with beech and oak trees, crisscrossed by paths.",
                   "category": "natural",
                   "coords": [
                         5.149356,
@@ -14085,7 +14085,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Heuvellaan Hilversum",
-                  "text": "A cultural meeting place in Hilversum.",
+                  "text": "A street lined with early 20th-century villas on a hill in Hilversum.",
                   "category": "cultural",
                   "coords": [
                         5.164012,
@@ -14094,7 +14094,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Anna's Berg",
-                  "text": "An elevated point in Hilversum with a nice view.",
+                  "text": "A small hill with a lookout point and benches, offering views over Hilversum.",
                   "category": "natural",
                   "coords": [
                         5.206757,
@@ -14148,7 +14148,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Regenboogkerk",
-                  "text": "A modern Christian church in Hilversum.",
+                  "text": "Church built in 2001 in Hilversum, Regenboogkerk.",
                   "category": "religious",
                   "coords": [
                         5.177192,
@@ -14268,7 +14268,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schouwburg Hengelo",
-                  "text": "Ein lokales Theater in Hengelo für verschiedene Aufführungen.",
+                  "text": "Theater von 2001 in Hengelo, Schouwburg Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.795136,
@@ -14277,7 +14277,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Piet Blom Museum",
-                  "text": "Ein Museum in Hengelo, das dem Werk von Piet Blom gewidmet ist.",
+                  "text": "Ein Museum in Hengelo, das dem Architekten Piet Blom gewidmet ist, bekannt für seine Würfelhäuser.",
                   "category": "museum",
                   "coords": [
                         6.828437,
@@ -14295,7 +14295,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Chez Ratatouille",
-                  "text": "Ein Veranstaltungsort für Theateraufführungen in Hengelo.",
+                  "text": "Ein französisch orientiertes Restaurant und Kulturort in Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.797759,
@@ -14304,7 +14304,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Erve Weusthag",
-                  "text": "Ein kleiner Zoo und Streichelzoo in Hengelo.",
+                  "text": "Ein historischer Bauernhof, der als Kinderbauernhof mit Tieren und traditionellem Handwerk dient.",
                   "category": "family",
                   "coords": [
                         6.791384,
@@ -14313,7 +14313,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Waarbeek",
-                  "text": "Ein traditioneller Freizeitpark in Hengelo.",
+                  "text": "Ein Familienpark entlang eines Baches mit Spielplatz, Minigolf und einem Streichelzoo.",
                   "category": "family",
                   "coords": [
                         6.808854,
@@ -14322,7 +14322,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Twentebad",
-                  "text": "Ein Wasserpark und Schwimmzentrum in Hengelo.",
+                  "text": "Ein Schwimmbadkomplex mit mehreren Becken, Rutschen und einer Sauna in der Region Twente.",
                   "category": "family",
                   "coords": [
                         6.801213,
@@ -14331,7 +14331,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorfietsen",
-                  "text": "Eine Attraktion in Hengelo, bei der man auf Schienen radeln kann.",
+                  "text": "Eine Schienenfahrradstrecke auf einer ehemaligen Eisenbahnlinie mit landschaftlichen Ausblicken.",
                   "category": "landmark",
                   "coords": [
                         6.809381,
@@ -14340,7 +14340,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen van Trip",
-                  "text": "Die Überreste einer historischen Mühle in Hengelo.",
+                  "text": "Eine historische Windmühle (Holländerwindmühle), die zum Mahlen von Getreide genutzt wird und für Besichtigungen geöffnet ist.",
                   "category": "historical",
                   "coords": [
                         6.798283,
@@ -14349,7 +14349,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadhuis Hengelo",
-                  "text": "Das historische Rathausgebäude von Hengelo.",
+                  "text": "Rathaus aus dem frühen 20. Jahrhundert mit Turm in Hengelo.",
                   "category": "historical",
                   "coords": [
                         6.791751,
@@ -14358,7 +14358,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Onze Lieve Vrouwekerk",
-                  "text": "Eine katholische Kirche und ein Ort der Anbetung in Hengelo.",
+                  "text": "Katholische Kirche von 1926 in Hengelo, Onze Lieve Vrouwekerk.",
                   "category": "religious",
                   "coords": [
                         6.80615,
@@ -14405,7 +14405,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schouwburg Hengelo",
-                  "text": "Helyi színház Hengelóban különböző előadások számára.",
+                  "text": "2001-ben épült színház Hengelóban, Schouwburg Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.795136,
@@ -14414,7 +14414,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Piet Blom Museum",
-                  "text": "Piet Blom munkásságának szentelt múzeum Hengelóban.",
+                  "text": "Egy múzeum Hengelóban, amely Piet Blom építész munkásságát mutatja be, aki a kockaházakról ismert.",
                   "category": "museum",
                   "coords": [
                         6.828437,
@@ -14432,7 +14432,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Chez Ratatouille",
-                  "text": "Színházi előadások helyszíne Hengelóban.",
+                  "text": "Egy francia tematikájú étterem és kulturális helyszín Hengelóban.",
                   "category": "cultural",
                   "coords": [
                         6.797759,
@@ -14441,7 +14441,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Erve Weusthag",
-                  "text": "Egy kis állatkert és állatsimogató Hengelóban.",
+                  "text": "Egy történelmi tanya, amely gyerekfarmként szolgál állatokkal és népi mesterségekkel.",
                   "category": "family",
                   "coords": [
                         6.791384,
@@ -14450,7 +14450,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Waarbeek",
-                  "text": "Egy hagyományos vidámpark Hengelóban.",
+                  "text": "Egy családi park egy patak mentén, játszótérrel, minigolffal és állatsimogatóval.",
                   "category": "family",
                   "coords": [
                         6.808854,
@@ -14459,7 +14459,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Twentebad",
-                  "text": "Vizi park és úszóközpont Hengelóban.",
+                  "text": "Egy uszodakomplexum több medencével, csúszdákkal és szaunával a Twente régióban.",
                   "category": "family",
                   "coords": [
                         6.801213,
@@ -14468,7 +14468,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorfietsen",
-                  "text": "Attrakció Hengelóban, ahol síneken lehet kerékpározni.",
+                  "text": "Egy kerékpáros vasúti pálya egy egykori vasútvonalon, festői kilátással.",
                   "category": "landmark",
                   "coords": [
                         6.809381,
@@ -14477,7 +14477,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen van Trip",
-                  "text": "Egy történelmi malom maradványai Hengelóban.",
+                  "text": "Egy történelmi szélmalom (holland szélmalom), amelyet gabona őrlésére használnak, és látogatható.",
                   "category": "historical",
                   "coords": [
                         6.798283,
@@ -14486,7 +14486,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadhuis Hengelo",
-                  "text": "Hengelo történelmi városháza épülete.",
+                  "text": "Korai 20. századi városháza toronnyal Hengelóban.",
                   "category": "historical",
                   "coords": [
                         6.791751,
@@ -14495,7 +14495,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Onze Lieve Vrouwekerk",
-                  "text": "Egy katolikus templom és imaház Hengelóban.",
+                  "text": "1926-ban épült katolikus templom Hengelóban, Onze Lieve Vrouwekerk.",
                   "category": "religious",
                   "coords": [
                         6.80615,
@@ -14542,7 +14542,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schouwburg Hengelo",
-                  "text": "Un teatru local din Hengelo pentru diverse spectacole.",
+                  "text": "Teatru construit în 2001 în Hengelo, Schouwburg Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.795136,
@@ -14551,7 +14551,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Piet Blom Museum",
-                  "text": "Un muzeu din Hengelo dedicat operei lui Piet Blom.",
+                  "text": "Un muzeu în Hengelo dedicat arhitectului Piet Blom, cunoscut pentru casele cubice.",
                   "category": "museum",
                   "coords": [
                         6.828437,
@@ -14569,7 +14569,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Chez Ratatouille",
-                  "text": "O locație pentru spectacole de teatru în Hengelo.",
+                  "text": "Un restaurant cu tematică franceză și loc cultural în Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.797759,
@@ -14578,7 +14578,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Erve Weusthag",
-                  "text": "O grădină zoologică mică și zoo pentru copii în Hengelo.",
+                  "text": "O fermă istorică transformată într-o fermă pentru copii, cu animale și meșteșuguri tradiționale.",
                   "category": "family",
                   "coords": [
                         6.791384,
@@ -14587,7 +14587,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Waarbeek",
-                  "text": "Un parc de distracții tradițional în Hengelo.",
+                  "text": "Un parc de familie de-a lungul unui pârâu, cu teren de joacă, mini-golf și o zonă de animale.",
                   "category": "family",
                   "coords": [
                         6.808854,
@@ -14596,7 +14596,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Twentebad",
-                  "text": "Un parc acvatic și centru de înot în Hengelo.",
+                  "text": "Un complex de înot cu mai multe bazine, tobogane și o saună în regiunea Twente.",
                   "category": "family",
                   "coords": [
                         6.801213,
@@ -14605,7 +14605,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorfietsen",
-                  "text": "O atracție în Hengelo unde se poate pedala pe șine.",
+                  "text": "Un traseu de biciclete pe șine pe o fostă linie ferată, cu priveliști pitorești.",
                   "category": "landmark",
                   "coords": [
                         6.809381,
@@ -14614,7 +14614,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen van Trip",
-                  "text": "Rămășițele unei mori istorice în Hengelo.",
+                  "text": "O moară de vânt istorică (moară olandeză) folosită pentru măcinat cereale, deschisă pentru vizite.",
                   "category": "historical",
                   "coords": [
                         6.798283,
@@ -14623,7 +14623,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadhuis Hengelo",
-                  "text": "Clădirea istorică a primăriei din Hengelo.",
+                  "text": "Primărie de la începutul secolului XX cu turn în Hengelo.",
                   "category": "historical",
                   "coords": [
                         6.791751,
@@ -14632,7 +14632,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Onze Lieve Vrouwekerk",
-                  "text": "O biserică catolică și lăcaș de cult în Hengelo.",
+                  "text": "Biserică catolică construită în 1926 în Hengelo, Onze Lieve Vrouwekerk.",
                   "category": "religious",
                   "coords": [
                         6.80615,
@@ -14679,7 +14679,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schouwburg Hengelo",
-                  "text": "A local theatre in Hengelo for various performances.",
+                  "text": "Theatre built in 2001 in Hengelo, Schouwburg Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.795136,
@@ -14688,7 +14688,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Piet Blom Museum",
-                  "text": "A museum in Hengelo dedicated to the work of Piet Blom.",
+                  "text": "A museum in Hengelo dedicated to architect Piet Blom, famous for his cube houses.",
                   "category": "museum",
                   "coords": [
                         6.828437,
@@ -14706,7 +14706,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Chez Ratatouille",
-                  "text": "A venue for theatre performances in Hengelo.",
+                  "text": "A French-themed restaurant and cultural venue in Hengelo.",
                   "category": "cultural",
                   "coords": [
                         6.797759,
@@ -14715,7 +14715,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Erve Weusthag",
-                  "text": "A small zoo and petting farm in Hengelo.",
+                  "text": "A historic farmstead now a children's farm with animals and traditional crafts.",
                   "category": "family",
                   "coords": [
                         6.791384,
@@ -14724,7 +14724,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Waarbeek",
-                  "text": "A traditional amusement park in Hengelo.",
+                  "text": "A family park situated along a brook, with a playground, mini-golf, and a petting zoo.",
                   "category": "family",
                   "coords": [
                         6.808854,
@@ -14733,7 +14733,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Twentebad",
-                  "text": "A water park and swimming center in Hengelo.",
+                  "text": "A swimming pool complex with multiple pools, slides, and a sauna in the Twente region.",
                   "category": "family",
                   "coords": [
                         6.801213,
@@ -14742,7 +14742,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorfietsen",
-                  "text": "An attraction in Hengelo where you can cycle on rails.",
+                  "text": "A rail bike trail on a former railway line, offering scenic rides through the countryside.",
                   "category": "landmark",
                   "coords": [
                         6.809381,
@@ -14751,7 +14751,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen van Trip",
-                  "text": "The remains of a historical mill in Hengelo.",
+                  "text": "A historic windmill (smock mill) used for grinding grain, open for tours.",
                   "category": "historical",
                   "coords": [
                         6.798283,
@@ -14760,7 +14760,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadhuis Hengelo",
-                  "text": "The historical town hall building of Hengelo.",
+                  "text": "Early 20th-century town hall with a tower in Hengelo.",
                   "category": "historical",
                   "coords": [
                         6.791751,
@@ -14769,7 +14769,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Onze Lieve Vrouwekerk",
-                  "text": "A Catholic church and place of worship in Hengelo.",
+                  "text": "Catholic church built in 1926 in Hengelo, Onze Lieve Vrouwekerk.",
                   "category": "religious",
                   "coords": [
                         6.80615,
@@ -14862,7 +14862,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Purmerender Stadstoneel",
-                  "text": "Purmerender Stadstoneel ist ein Theater für lokale Aufführungen in Purmerend.",
+                  "text": "Ein städtisches Theater im Zentrum von Purmerend mit einem abwechslungsreichen Programm.",
                   "category": "cultural",
                   "coords": [
                         4.948244,
@@ -14880,7 +14880,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Ein lokaler Wildpark und Tiergehege in Purmerend.",
+                  "text": "Ein Damwildgehege mit einem Spielplatz und Picknickbereich im Stadtpark.",
                   "category": "family",
                   "coords": [
                         4.950178,
@@ -14889,7 +14889,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Neckermolen",
-                  "text": "Eine historische Windmühle in der Gemeinde Purmerend.",
+                  "text": "Historische Windmühle von 1631 in Purmerend, Neckermolen.",
                   "category": "landmark",
                   "coords": [
                         4.919741,
@@ -14916,7 +14916,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug",
-                  "text": "Eine Eisenbahnbrücke, die in Purmerend das Wasser überspannt.",
+                  "text": "Eisenbahnbrücke über den Noordhollandsch Kanaal in Purmerend.",
                   "category": "landmark",
                   "coords": [
                         4.946182,
@@ -14979,7 +14979,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Speelkraam",
-                  "text": "De Speelkraam in Purmerend ist ein beliebter Abenteuerspielplatz für Familien.",
+                  "text": "Ein großer Spielplatz mit Klettergerüsten und einem Sandkasten in Purmerend.",
                   "category": "family",
                   "coords": [
                         4.969501,
@@ -15008,7 +15008,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Purmerender Stadstoneel",
-                  "text": "A Purmerender Stadstoneel egy helyi előadásoknak otthont adó színház Purmerendben.",
+                  "text": "Egy városi színház Purmerend központjában, változatos programokkal.",
                   "category": "cultural",
                   "coords": [
                         4.948244,
@@ -15026,7 +15026,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Helyi szarvaspark és állatkert Purmerend városában.",
+                  "text": "Egy dámvadas kert játszótérrel és piknikezőhellyel a városi parkban.",
                   "category": "family",
                   "coords": [
                         4.950178,
@@ -15035,7 +15035,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Neckermolen",
-                  "text": "Purmerend községben található történelmi szélmalom.",
+                  "text": "1631-ben épült történelmi szélmalom Purmerendben, Neckermolen.",
                   "category": "landmark",
                   "coords": [
                         4.919741,
@@ -15062,7 +15062,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug",
-                  "text": "Purmerend vízi útjait átívelő vasúti híd.",
+                  "text": "Vasúti híd a Noordhollandsch Kanaal felett Purmerendben.",
                   "category": "landmark",
                   "coords": [
                         4.946182,
@@ -15125,7 +15125,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Speelkraam",
-                  "text": "A purmerendi De Speelkraam egy népszerű kalandjátszótér a családok körében.",
+                  "text": "Egy nagy játszótér mászókákkal és homokozóval Purmerendben.",
                   "category": "family",
                   "coords": [
                         4.969501,
@@ -15154,7 +15154,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Purmerender Stadstoneel",
-                  "text": "Purmerender Stadstoneel este un teatru pentru spectacole locale din Purmerend.",
+                  "text": "Un teatru orășenesc în centrul orașului Purmerend, cu un program variat.",
                   "category": "cultural",
                   "coords": [
                         4.948244,
@@ -15172,7 +15172,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Un parc local de cerbi și incintă pentru animale din Purmerend.",
+                  "text": "Un parc cu căprioare (damulă) cu teren de joacă și zonă de picnic în parcul orașului.",
                   "category": "family",
                   "coords": [
                         4.950178,
@@ -15181,7 +15181,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Neckermolen",
-                  "text": "O moară de vânt istorică situată în municipalitatea Purmerend.",
+                  "text": "Moară de vânt istorică construită în 1631 în Purmerend, Neckermolen.",
                   "category": "landmark",
                   "coords": [
                         4.919741,
@@ -15208,7 +15208,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug",
-                  "text": "Un pod feroviar care traversează apa în Purmerend.",
+                  "text": "Pod feroviar peste Noordhollandsch Kanaal în Purmerend.",
                   "category": "landmark",
                   "coords": [
                         4.946182,
@@ -15271,7 +15271,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Speelkraam",
-                  "text": "De Speelkraam din Purmerend este un loc de joacă de aventură popular printre familii.",
+                  "text": "Un teren de joacă mare cu structuri de cățărare și o groapă cu nisip în Purmerend.",
                   "category": "family",
                   "coords": [
                         4.969501,
@@ -15300,7 +15300,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Purmerender Stadstoneel",
-                  "text": "Purmerender Stadstoneel is a theatre for local performances in Purmerend.",
+                  "text": "A city theater in central Purmerend, known for its diverse program.",
                   "category": "cultural",
                   "coords": [
                         4.948244,
@@ -15318,7 +15318,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "A local deer park and animal enclosure in Purmerend.",
+                  "text": "A deer park with fallow deer and a children's playground in the Stadspark.",
                   "category": "family",
                   "coords": [
                         4.950178,
@@ -15327,7 +15327,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Neckermolen",
-                  "text": "A historic windmill located in the municipality of Purmerend.",
+                  "text": "Historic windmill built in 1631 in Purmerend, Neckermolen.",
                   "category": "landmark",
                   "coords": [
                         4.919741,
@@ -15354,7 +15354,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug",
-                  "text": "A railway bridge spanning the water in Purmerend.",
+                  "text": "Railway bridge over the Noordhollandsch Kanaal in Purmerend.",
                   "category": "landmark",
                   "coords": [
                         4.946182,
@@ -15417,7 +15417,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Speelkraam",
-                  "text": "De Speelkraam in Purmerend is a popular adventure playground for families.",
+                  "text": "A large playground with climbing structures and a sandpit in Purmerend.",
                   "category": "family",
                   "coords": [
                         4.969501,
@@ -15780,7 +15780,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "De Lievekamp",
-                  "text": "Ein regionales Theater in Oss für kulturelle Veranstaltungen.",
+                  "text": "Ein Kulturzentrum in Oss.",
                   "category": "cultural",
                   "coords": [
                         5.521359,
@@ -15789,7 +15789,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Jan Cunen",
-                  "text": "Ein Museum in einer ehemaligen Villa, das Kunst und Geschichte zeigt.",
+                  "text": "Ein Museum für moderne Kunst und Lokalgeschichte in Oss.",
                   "category": "museum",
                   "coords": [
                         5.526494,
@@ -15798,7 +15798,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Elzenhoek",
-                  "text": "Ein Kinderbauernhof und Zoo für Familien in Oss.",
+                  "text": "Ein Kinderbauernhof mit Ziegen, Hühnern und Streichelzoo im Viertel Elzenhoek in Oss.",
                   "category": "family",
                   "coords": [
                         5.503616,
@@ -15825,7 +15825,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Urban Ox Park",
-                  "text": "Ein öffentlicher Park in Oss zur Erholung und Freizeitgestaltung.",
+                  "text": "Ein Stadtpark in Oss.",
                   "category": "park",
                   "coords": [
                         5.521871,
@@ -15854,7 +15854,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "De Lievekamp",
-                  "text": "Regionális színház Ossban kulturális események számára.",
+                  "text": "Kulturális központ Ossban.",
                   "category": "cultural",
                   "coords": [
                         5.521359,
@@ -15863,7 +15863,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Jan Cunen",
-                  "text": "Művészetet és történelmet bemutató múzeum egy egykori villában.",
+                  "text": "Modern művészeti és helytörténeti múzeum Ossban.",
                   "category": "museum",
                   "coords": [
                         5.526494,
@@ -15872,7 +15872,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Elzenhoek",
-                  "text": "Gyermekeknek szóló állatfarm és állatkert Ossban.",
+                  "text": "Egy gyerekfarm kecskékkel, csirkékkel és állatsimogatóval az ossi Elzenhoek negyedben.",
                   "category": "family",
                   "coords": [
                         5.503616,
@@ -15899,7 +15899,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Urban Ox Park",
-                  "text": "Közpark Ossban kikapcsolódásra és szabadidős tevékenységekre.",
+                  "text": "Városi park Ossban.",
                   "category": "park",
                   "coords": [
                         5.521871,
@@ -15928,7 +15928,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "De Lievekamp",
-                  "text": "Un teatru regional în Oss pentru evenimente culturale.",
+                  "text": "Un centru cultural în Oss.",
                   "category": "cultural",
                   "coords": [
                         5.521359,
@@ -15937,7 +15937,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Jan Cunen",
-                  "text": "Un muzeu într-o fostă vilă care expune artă și istorie.",
+                  "text": "Un muzeu de artă modernă și istorie locală în Oss.",
                   "category": "museum",
                   "coords": [
                         5.526494,
@@ -15946,7 +15946,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Elzenhoek",
-                  "text": "O fermă pentru copii și grădină zoologică în Oss.",
+                  "text": "O fermă pentru copii cu capre, găini și o zonă de mângâiat animale, în cartierul Elzenhoek din Oss.",
                   "category": "family",
                   "coords": [
                         5.503616,
@@ -15973,7 +15973,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Urban Ox Park",
-                  "text": "Un parc public în Oss pentru recreere și petrecerea timpului liber.",
+                  "text": "Un parc urban în Oss.",
                   "category": "park",
                   "coords": [
                         5.521871,
@@ -16002,7 +16002,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "De Lievekamp",
-                  "text": "A regional theatre in Oss for cultural events.",
+                  "text": "A cultural centre in Oss.",
                   "category": "cultural",
                   "coords": [
                         5.521359,
@@ -16011,7 +16011,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Jan Cunen",
-                  "text": "A museum in a former villa showcasing art and history.",
+                  "text": "A museum of modern art and local history in Oss.",
                   "category": "museum",
                   "coords": [
                         5.526494,
@@ -16020,7 +16020,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Elzenhoek",
-                  "text": "A children's farm and zoo for families in Oss.",
+                  "text": "A children's farm with goats, chickens, and a petting zoo in the Elzenhoek neighborhood of Oss.",
                   "category": "family",
                   "coords": [
                         5.503616,
@@ -16047,7 +16047,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Urban Ox Park",
-                  "text": "A public park in Oss for recreation and leisure.",
+                  "text": "An urban park in Oss.",
                   "category": "park",
                   "coords": [
                         5.521871,
@@ -16122,7 +16122,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Quarantainestrand",
-                  "text": "Quarantainestrand in Schiedam.",
+                  "text": "Ein Sandstrand entlang der Nieuwe Waterweg, historisch als Quarantänestation genutzt, heute Erholungsgebiet.",
                   "category": "recreational",
                   "coords": [
                         4.409303,
@@ -16338,7 +16338,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Kethel",
-                  "text": "Eine Eisenbahnbrücke im Stadtteil Kethel in Schiedam.",
+                  "text": "Eisenbahnbrücke in Kethel, Teil der Strecke nach Schiedam.",
                   "category": "landmark",
                   "coords": [
                         4.391188,
@@ -16500,7 +16500,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jonkersbrug",
-                  "text": "Eine Brücke über das Wasser im Stadtgebiet von Schiedam.",
+                  "text": "Eine Brücke in Schiedam.",
                   "category": "landmark",
                   "coords": [
                         4.43335,
@@ -16590,7 +16590,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Groenoord",
-                  "text": "Das Zwembad Groenoord ist ein öffentlicher Schwimmbadkomplex in Schiedam.",
+                  "text": "Ein öffentliches Schwimmbad in Groenoord mit einem großen Außenbecken und Liegewiesen.",
                   "category": "recreational",
                   "coords": [
                         4.377788,
@@ -16617,7 +16617,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Heij",
-                  "text": "Die Kinderboerderij De Heij ist ein Streichelzoo und Lehrbauernhof in Schiedam.",
+                  "text": "Ein Kinderbauernhof in De Heij mit Ziegen, Kaninchen und einem kleinen Spielplatz.",
                   "category": "recreational",
                   "coords": [
                         4.424105,
@@ -16626,7 +16626,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Bokkesprong",
-                  "text": "De Bokkesprong ist ein Kinderbauernhof und Streichelzoo in Schiedam.",
+                  "text": "Ein Ziegenbauernhof mit Streichelzoo, Spielplatz und tiergestützten Aktivitäten.",
                   "category": "recreational",
                   "coords": [
                         4.428174,
@@ -16646,7 +16646,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Quarantainestrand",
-                  "text": "Quarantainestrand strand Schiedamban.",
+                  "text": "Egy homokos strand a Nieuwe Waterweg mentén, amelyet történelmileg karanténállomásként használtak, ma rekreációs terület.",
                   "category": "recreational",
                   "coords": [
                         4.409303,
@@ -16862,7 +16862,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Kethel",
-                  "text": "Vasúti híd Schiedam Kethel városnegyedében.",
+                  "text": "Vasúti híd Kethelben, a Schiedam-vonal része.",
                   "category": "landmark",
                   "coords": [
                         4.391188,
@@ -17024,7 +17024,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jonkersbrug",
-                  "text": "Schiedam városi területén található vízi híd.",
+                  "text": "Híd Schiedamban.",
                   "category": "landmark",
                   "coords": [
                         4.43335,
@@ -17114,7 +17114,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Groenoord",
-                  "text": "A Zwembad Groenoord egy nyilvános uszodakomplexum Schiedamban.",
+                  "text": "Egy nyilvános uszoda Groenoordban, nagy szabadtéri medencével és napozógyepekkel.",
                   "category": "recreational",
                   "coords": [
                         4.377788,
@@ -17141,7 +17141,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Heij",
-                  "text": "A Kinderboerderij De Heij egy állatsimogató és oktatófarm Schiedamban.",
+                  "text": "Egy gyerekfarm De Heijben, kecskékkel, nyulakkal és egy kis játszótérrel.",
                   "category": "recreational",
                   "coords": [
                         4.424105,
@@ -17150,7 +17150,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Bokkesprong",
-                  "text": "A De Bokkesprong egy gyermekfarm és állatsimogató Schiedamban.",
+                  "text": "Egy kecskefarm állatsimogatóval, játszótérrel és állatasszisztált tevékenységekkel.",
                   "category": "recreational",
                   "coords": [
                         4.428174,
@@ -17170,7 +17170,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Quarantainestrand",
-                  "text": "Plaja Quarantainestrand din Schiedam.",
+                  "text": "O plajă nisipoasă de-a lungul Nieuwe Waterweg, folosită istoric ca stație de carantină, acum zonă de agrement.",
                   "category": "recreational",
                   "coords": [
                         4.409303,
@@ -17386,7 +17386,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Kethel",
-                  "text": "Un pod feroviar situat în cartierul Kethel din Schiedam.",
+                  "text": "Pod feroviar în Kethel, parte a liniei Schiedam.",
                   "category": "landmark",
                   "coords": [
                         4.391188,
@@ -17548,7 +17548,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jonkersbrug",
-                  "text": "Un pod care traversează apa în zona orașului Schiedam.",
+                  "text": "Un pod în Schiedam.",
                   "category": "landmark",
                   "coords": [
                         4.43335,
@@ -17638,7 +17638,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Groenoord",
-                  "text": "Zwembad Groenoord este un complex public de piscine din Schiedam.",
+                  "text": "O piscină publică în Groenoord, cu un bazin mare în aer liber și peluze pentru plajă.",
                   "category": "recreational",
                   "coords": [
                         4.377788,
@@ -17665,7 +17665,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Heij",
-                  "text": "Kinderboerderij De Heij este o grădină zoologică cu animale domestice și o fermă educațională din Schiedam.",
+                  "text": "O fermă pentru copii în De Heij, cu capre, iepuri și un mic teren de joacă.",
                   "category": "recreational",
                   "coords": [
                         4.424105,
@@ -17674,7 +17674,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Bokkesprong",
-                  "text": "De Bokkesprong este o fermă pentru copii și o grădină zoologică cu animale domestice din Schiedam.",
+                  "text": "O fermă de capre cu o zonă de mângâiat animale, teren de joacă și activități asistate de animale.",
                   "category": "recreational",
                   "coords": [
                         4.428174,
@@ -17694,7 +17694,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Quarantainestrand",
-                  "text": "Quarantainestrand beach in Schiedam.",
+                  "text": "A sandy beach along the Nieuwe Waterweg, historically used as a quarantine station, now a recreational area.",
                   "category": "recreational",
                   "coords": [
                         4.409303,
@@ -17910,7 +17910,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Kethel",
-                  "text": "A railway bridge located in the Kethel neighborhood of Schiedam.",
+                  "text": "Railway bridge in Kethel, part of the Schiedam line.",
                   "category": "landmark",
                   "coords": [
                         4.391188,
@@ -18072,7 +18072,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jonkersbrug",
-                  "text": "A bridge crossing the water in the Schiedam city area.",
+                  "text": "A bridge in Schiedam.",
                   "category": "landmark",
                   "coords": [
                         4.43335,
@@ -18162,7 +18162,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Groenoord",
-                  "text": "Zwembad Groenoord is a public swimming pool complex in Schiedam.",
+                  "text": "A public swimming pool in Groenoord, with a large outdoor pool and sunbathing lawns.",
                   "category": "recreational",
                   "coords": [
                         4.377788,
@@ -18189,7 +18189,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Heij",
-                  "text": "Kinderboerderij De Heij is a petting zoo and educational farm in Schiedam.",
+                  "text": "A children's farm in De Heij, featuring goats, rabbits, and a small playground.",
                   "category": "recreational",
                   "coords": [
                         4.424105,
@@ -18198,7 +18198,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Bokkesprong",
-                  "text": "De Bokkesprong is a children's farm and petting zoo in Schiedam.",
+                  "text": "A goat farm with a petting zoo, playground, and animal-assisted activities.",
                   "category": "recreational",
                   "coords": [
                         4.428174,
@@ -18327,7 +18327,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand Museum",
-                  "text": "Dieses Museum erzählt die Geschichte der Landgewinnung und der Polderentstehung in der Provinz Flevoland.",
+                  "text": "Das Agora Theater en Congrescentrum ist ein modernes Kulturzentrum am Agoraplein in Lelystad.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -18387,7 +18387,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Larservaartbos",
-                  "text": "Das Larservaartbos ist ein Naturschutzgebiet in Lelystad.",
+                  "text": "Ein Wald entlang des Larservaart-Kanals mit Wegen zum Wandern und Radfahren.",
                   "category": "natural",
                   "coords": [
                         5.53585,
@@ -18396,7 +18396,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Flevohout",
-                  "text": "Das Flevohout ist ein Naturschutzgebiet in Lelystad.",
+                  "text": "Ein junger Plantagenwald in Flevoland mit einer Mischung aus Laub- und Nadelbäumen und einem Netz von Wegen.",
                   "category": "natural",
                   "coords": [
                         5.517267,
@@ -18405,7 +18405,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theather Posa",
-                  "text": "Das Theather Posa ist ein Theater in Lelystad.",
+                  "text": "Ein modernes Theater in Lelystad, bekannt für sein vielfältiges Programm aus Theaterstücken und Konzerten.",
                   "category": "cultural",
                   "coords": [
                         5.459001,
@@ -18414,7 +18414,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand",
-                  "text": "Batavialand ist ein Museum in Lelystad.",
+                  "text": "Ein Schifffahrtsmuseum mit einem originalgetreuen Nachbau des VOC-Schiffs Batavia und interaktiven Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         5.436977,
@@ -18423,7 +18423,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hollandse Hout",
-                  "text": "Das Hollandse Hout ist ein Naturschutzgebiet in Lelystad.",
+                  "text": "Ein Wald mit einer Mischung aus Gehölz und offenen Grasflächen, beliebt zum Wandern und Vogelbeobachten.",
                   "category": "natural",
                   "coords": [
                         5.438692,
@@ -18432,7 +18432,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bataviastrand",
-                  "text": "Der Bataviastrand ist ein Strand in Lelystad.",
+                  "text": "Ein Sandstrand am IJsselmeer mit einem Yachthafen und einem Strandcafé.",
                   "category": "recreational",
                   "coords": [
                         5.424323,
@@ -18441,7 +18441,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "kinderboerderij \"De Knotwilg\"",
-                  "text": "Die Kinderboerderij \"De Knotwilg\" ist ein Tierpark in Lelystad.",
+                  "text": "Ein Kinderbauernhof, benannt nach den Kopfweiden, mit Ziegen, Schafen und einem Spielbereich.",
                   "category": "family",
                   "coords": [
                         5.464702,
@@ -18450,7 +18450,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Stadspark",
-                  "text": "Die Dierenweide Stadspark ist ein Tiergehege in Lelystad.",
+                  "text": "Eine Tierwiese im Stadtpark von Lelystad, auf der Schafe, Ziegen und Hühner leben.",
                   "category": "family",
                   "coords": [
                         5.492136,
@@ -18468,7 +18468,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kubus",
-                  "text": "De Kubus ist ein Kunstzentrum in Lelystad.",
+                  "text": "Ein würfelförmiges Gebäude, das als Kulturzentrum für Ausstellungen und Veranstaltungen dient.",
                   "category": "cultural",
                   "coords": [
                         5.476694,
@@ -18477,7 +18477,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wild zwijn",
-                  "text": "Wild zwijn ist eine Touristenattraktion in Lelystad.",
+                  "text": "Eine Bronzestatue eines Wildschweins, ein beliebter Treffpunkt in Lelystad.",
                   "category": "landmark",
                   "coords": [
                         5.522203,
@@ -18486,7 +18486,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepsarcheologie",
-                  "text": "Scheepsarcheologie ist eine Attraktion in Lelystad.",
+                  "text": "Eine Ausstellung zur Schiffswrackarchäologie mit geborgenen Artefakten und Schiffsmodellen.",
                   "category": "landmark",
                   "coords": [
                         5.437969,
@@ -18495,7 +18495,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "Die Evangelische kerk De Pijler ist ein evangelisches Gotteshaus in Lelystad.",
+                  "text": "Die Evangelische Kirche De Pijler in Lelystad wurde 1984 erbaut.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -18504,7 +18504,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Die Ontmoetingskerk ist ein Gotteshaus in Lelystad.",
+                  "text": "Die Ontmoetingskerk in Lelystad wurde 1971 erbaut.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -18513,7 +18513,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavia",
-                  "text": "Die Batavia ist ein historisches Schiff in der Stadt Lelystad.",
+                  "text": "Der Nachbau des Segelschiffs Batavia von 1628 liegt im Bataviawerf in Lelystad.",
                   "category": "landmark",
                   "coords": [
                         5.435325,
@@ -18544,7 +18544,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand Museum",
-                  "text": "A múzeum Flevoland tartomány különleges történetét és a tenger alatti földnyerés folyamatát mutatja be.",
+                  "text": "Az Agora Theater en Congrescentrum egy modern kulturális központ az Agoraplein téren, Lelystadban.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -18604,7 +18604,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Larservaartbos",
-                  "text": "A Larservaartbos egy természetvédelmi terület Lelystadban.",
+                  "text": "Egy erdő a Larservaart-csatorna mentén, gyalogos és kerékpáros utakkal.",
                   "category": "natural",
                   "coords": [
                         5.53585,
@@ -18613,7 +18613,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Flevohout",
-                  "text": "A Flevohout egy természetvédelmi terület Lelystad városában.",
+                  "text": "Egy fiatal telepített erdő Flevolandban, lombhullató és tűlevelű fák keverékével, útvonalak hálózatával.",
                   "category": "natural",
                   "coords": [
                         5.517267,
@@ -18622,7 +18622,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theather Posa",
-                  "text": "A Theather Posa egy színház Lelystad városában.",
+                  "text": "Egy modern színház Lelystadban, amely sokszínű színházi és koncertprogramjáról ismert.",
                   "category": "cultural",
                   "coords": [
                         5.459001,
@@ -18631,7 +18631,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand",
-                  "text": "A Batavialand egy múzeum Lelystad városában.",
+                  "text": "Egy hajózási múzeum a VOC hajó, a Batavia élethű másolatával és interaktív kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         5.436977,
@@ -18640,7 +18640,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hollandse Hout",
-                  "text": "A Hollandse Hout egy természetvédelmi terület Lelystadban.",
+                  "text": "Egy erdő erdős és nyílt füves területek keverékével, népszerű túrázáshoz és madármegfigyeléshez.",
                   "category": "natural",
                   "coords": [
                         5.438692,
@@ -18649,7 +18649,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bataviastrand",
-                  "text": "A Bataviastrand egy strand Lelystad városában.",
+                  "text": "Egy homokos strand az IJsselmeer partján, kikötővel és strandbüfével.",
                   "category": "recreational",
                   "coords": [
                         5.424323,
@@ -18658,7 +18658,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "kinderboerderij \"De Knotwilg\"",
-                  "text": "A \"De Knotwilg\" gyermekfarm egy állatkert Lelystadban.",
+                  "text": "Egy gyerekfarm, amely a fűzfákról kapta a nevét, kecskékkel, birkákkal és játszótérrel.",
                   "category": "family",
                   "coords": [
                         5.464702,
@@ -18667,7 +18667,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Stadspark",
-                  "text": "A Dierenweide Stadspark egy állatkert Lelystad városában.",
+                  "text": "Egy állatrét Lelystad városi parkjában, ahol birkák, kecskék és csirkék élnek.",
                   "category": "family",
                   "coords": [
                         5.492136,
@@ -18685,7 +18685,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kubus",
-                  "text": "A De Kubus egy művészeti központ Lelystad városában.",
+                  "text": "Egy kocka alakú épület, amely kiállítások és események kulturális központjaként szolgál.",
                   "category": "cultural",
                   "coords": [
                         5.476694,
@@ -18694,7 +18694,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wild zwijn",
-                  "text": "A Wild zwijn egy turisztikai látványosság Lelystadban.",
+                  "text": "Egy vaddisznó bronzszobra, népszerű találkozópont Lelystadban.",
                   "category": "landmark",
                   "coords": [
                         5.522203,
@@ -18703,7 +18703,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepsarcheologie",
-                  "text": "A Scheepsarcheologie egy turisztikai látványosság Lelystad városában.",
+                  "text": "Egy kiállítás hajóroncs-archaeológiáról, kiemelt leletekkel és hajómodellekkel.",
                   "category": "landmark",
                   "coords": [
                         5.437969,
@@ -18712,7 +18712,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "Az Evangelische kerk De Pijler egy evangéliumi istentiszteleti hely Lelystadban.",
+                  "text": "A lelystadi De Pijler evangélikus templom 1984-ben épült.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -18721,7 +18721,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Az Ontmoetingskerk egy istentiszteleti hely Lelystad városában.",
+                  "text": "A lelystadi Ontmoetingskerk 1971-ben épült.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -18730,7 +18730,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavia",
-                  "text": "A Batavia egy történelmi hajó Lelystad városában.",
+                  "text": "Az 1628-as Batavia hajó másolata a Lelystad-i Bataviawerfben található.",
                   "category": "landmark",
                   "coords": [
                         5.435325,
@@ -18761,7 +18761,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Batavialand",
-                  "text": "Prezintă istoria unică a polderizării și a luptei olandezilor pentru a câștiga pământ de la mare.",
+                  "text": "Agora Theater en Congrescentrum este un centru cultural modern pe Agoraplein în Lelystad.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -18821,7 +18821,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Larservaartbos",
-                  "text": "Larservaartbos este o rezervație naturală situată în Lelystad.",
+                  "text": "O pădure de-a lungul canalului Larservaart, cu trasee pentru drumeții și ciclism.",
                   "category": "natural",
                   "coords": [
                         5.53585,
@@ -18830,7 +18830,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Flevohout",
-                  "text": "Flevohout este o rezervație naturală din orașul Lelystad.",
+                  "text": "O pădure tânără plantată în Flevoland, cu un amestec de foioase și conifere și o rețea de trasee.",
                   "category": "natural",
                   "coords": [
                         5.517267,
@@ -18839,7 +18839,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theather Posa",
-                  "text": "Theather Posa este un teatru situat în Lelystad.",
+                  "text": "Un teatru modern în Lelystad, cunoscut pentru programul variat de piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         5.459001,
@@ -18848,7 +18848,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand",
-                  "text": "Batavialand este un muzeu din Lelystad.",
+                  "text": "Un muzeu maritim cu o replică la scară reală a navei VOC Batavia și expoziții interactive.",
                   "category": "museum",
                   "coords": [
                         5.436977,
@@ -18857,7 +18857,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hollandse Hout",
-                  "text": "Hollandse Hout este o rezervație naturală în Lelystad.",
+                  "text": "O pădure cu un amestec de zone împădurite și pajiști deschise, populară pentru drumeții și observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         5.438692,
@@ -18866,7 +18866,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bataviastrand",
-                  "text": "Bataviastrand este o plajă situată în Lelystad.",
+                  "text": "O plajă nisipoasă pe malul IJsselmeer, cu o marina și o cafenea pe plajă.",
                   "category": "recreational",
                   "coords": [
                         5.424323,
@@ -18875,7 +18875,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "kinderboerderij \"De Knotwilg\"",
-                  "text": "Kinderboerderij \"De Knotwilg\" este un parc de animale din Lelystad.",
+                  "text": "O fermă pentru copii, numită după sălcii tăiate, cu capre, oi și o zonă de joacă.",
                   "category": "family",
                   "coords": [
                         5.464702,
@@ -18884,7 +18884,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Stadspark",
-                  "text": "Dierenweide Stadspark este un parc de animale din Lelystad.",
+                  "text": "O pajiște cu animale în parcul orașului Lelystad, cu oi, capre și găini.",
                   "category": "family",
                   "coords": [
                         5.492136,
@@ -18902,7 +18902,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kubus",
-                  "text": "De Kubus este un centru de arte situat în Lelystad.",
+                  "text": "O clădire în formă de cub, folosită ca centru cultural pentru expoziții și evenimente.",
                   "category": "cultural",
                   "coords": [
                         5.476694,
@@ -18911,7 +18911,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wild zwijn",
-                  "text": "Wild zwijn este o atracție turistică din Lelystad.",
+                  "text": "O statuie de bronz a unui mistreț, un punct de întâlnire popular în Lelystad.",
                   "category": "landmark",
                   "coords": [
                         5.522203,
@@ -18920,7 +18920,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepsarcheologie",
-                  "text": "Scheepsarcheologie este o atracție din Lelystad.",
+                  "text": "O expoziție de arheologie naufragiată, cu artefacte recuperate și modele de nave.",
                   "category": "landmark",
                   "coords": [
                         5.437969,
@@ -18929,7 +18929,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "Evangelische kerk De Pijler este un lăcaș de cult evanghelic din Lelystad.",
+                  "text": "Biserica evanghelică De Pijler din Lelystad a fost construită în 1984.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -18938,7 +18938,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Ontmoetingskerk este un lăcaș de cult situat în Lelystad.",
+                  "text": "Biserica Ontmoetingskerk din Lelystad a fost construită în 1971.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -18947,7 +18947,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavia",
-                  "text": "Batavia este o navă istorică situată în orașul Lelystad.",
+                  "text": "Replica navei Batavia din 1628 se află în Bataviawerf din Lelystad.",
                   "category": "landmark",
                   "coords": [
                         5.435325,
@@ -18978,7 +18978,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand Museum",
-                  "text": "Dedicated to the history of Flevoland's land reclamation and the Dutch mastery of water management.",
+                  "text": "A modern theatre and congress centre on the Agoraplein square in Lelystad.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -19038,7 +19038,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Larservaartbos",
-                  "text": "Larservaartbos is a nature reserve located in Lelystad.",
+                  "text": "A forest along the Larservaart canal, with paths for walking and cycling.",
                   "category": "natural",
                   "coords": [
                         5.53585,
@@ -19047,7 +19047,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Flevohout",
-                  "text": "Flevohout is a nature reserve in the city of Lelystad.",
+                  "text": "A young plantation forest in Flevoland, with a mix of deciduous and coniferous trees and a network of trails.",
                   "category": "natural",
                   "coords": [
                         5.517267,
@@ -19056,7 +19056,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theather Posa",
-                  "text": "Theather Posa is a theatre located in Lelystad.",
+                  "text": "A modern theater in Lelystad, known for its diverse program of plays and concerts.",
                   "category": "cultural",
                   "coords": [
                         5.459001,
@@ -19065,7 +19065,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavialand",
-                  "text": "Batavialand is a museum situated in Lelystad.",
+                  "text": "A maritime museum featuring a life-size replica of the VOC ship Batavia and interactive exhibits.",
                   "category": "museum",
                   "coords": [
                         5.436977,
@@ -19074,7 +19074,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hollandse Hout",
-                  "text": "Hollandse Hout is a nature reserve in Lelystad.",
+                  "text": "A forest with a mix of woodland and open grassland, popular for walking and birdwatching.",
                   "category": "natural",
                   "coords": [
                         5.438692,
@@ -19083,7 +19083,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bataviastrand",
-                  "text": "Bataviastrand is a beach located in Lelystad.",
+                  "text": "A sandy beach on the IJsselmeer, with a marina and a beachside café.",
                   "category": "recreational",
                   "coords": [
                         5.424323,
@@ -19092,7 +19092,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "kinderboerderij \"De Knotwilg\"",
-                  "text": "Kinderboerderij \"De Knotwilg\" is an animal park located in Lelystad.",
+                  "text": "A children's farm named after the pollard willow trees, with goats, sheep, and a play area.",
                   "category": "family",
                   "coords": [
                         5.464702,
@@ -19101,7 +19101,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Stadspark",
-                  "text": "Dierenweide Stadspark is an animal park in Lelystad.",
+                  "text": "An animal meadow in the Stadspark of Lelystad, home to sheep, goats, and chickens.",
                   "category": "family",
                   "coords": [
                         5.492136,
@@ -19119,7 +19119,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kubus",
-                  "text": "De Kubus is an arts centre situated in Lelystad.",
+                  "text": "A cube-shaped building used as a cultural center for exhibitions and events.",
                   "category": "cultural",
                   "coords": [
                         5.476694,
@@ -19128,7 +19128,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wild zwijn",
-                  "text": "Wild zwijn is a tourist attraction in Lelystad.",
+                  "text": "A bronze statue of a wild boar, a popular meeting point in Lelystad.",
                   "category": "landmark",
                   "coords": [
                         5.522203,
@@ -19137,7 +19137,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepsarcheologie",
-                  "text": "Scheepsarcheologie is an attraction in Lelystad.",
+                  "text": "An exhibition on shipwreck archaeology, featuring recovered artifacts and ship models.",
                   "category": "landmark",
                   "coords": [
                         5.437969,
@@ -19146,7 +19146,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelische kerk De Pijler",
-                  "text": "Evangelische kerk De Pijler is an evangelical place of worship in Lelystad.",
+                  "text": "De Pijler Evangelical Church in Lelystad was built in 1984.",
                   "category": "religious",
                   "coords": [
                         5.483335,
@@ -19155,7 +19155,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ontmoetingskerk",
-                  "text": "Ontmoetingskerk is a place of worship located in Lelystad.",
+                  "text": "Ontmoetingskerk church in Lelystad was built in 1971.",
                   "category": "religious",
                   "coords": [
                         5.493877,
@@ -19164,7 +19164,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Batavia",
-                  "text": "The Batavia is a historical ship located in the city of Lelystad.",
+                  "text": "A full-scale replica of the 1628 ship Batavia is docked at the Bataviawerf in Lelystad.",
                   "category": "landmark",
                   "coords": [
                         5.435325,
@@ -19197,7 +19197,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum voor de Kunsten",
-                  "text": "Ein Kulturzentrum in Spijkenisse für darstellende Künste.",
+                  "text": "Das Centrum voor de Kunsten in Spijkenisse bietet Theater, Konzerte und Kunstausstellungen in einem zeitgenössischen Gebäude.",
                   "category": "cultural",
                   "coords": [
                         4.327113,
@@ -19206,7 +19206,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Trotse Pauw",
-                  "text": "Ein beliebter Streichelzoo für Kinder in Spijkenisse.",
+                  "text": "Der Kinderbauernhof De Trotse Pauw in Spijkenisse beherbergt frei laufende Pfauen und andere Tiere.",
                   "category": "family",
                   "coords": [
                         4.330842,
@@ -19433,7 +19433,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum voor de Kunsten",
-                  "text": "Kulturális központ Spijkenisse városában az előadóművészetek számára.",
+                  "text": "A Spijkenisse-i Centrum voor de Kunsten színházi, koncert- és művészeti kiállításoknak ad otthont egy modern épületben.",
                   "category": "cultural",
                   "coords": [
                         4.327113,
@@ -19442,7 +19442,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Trotse Pauw",
-                  "text": "Népszerű állatsimogató gyerekeknek Spijkenisse városában.",
+                  "text": "A spijkenisse-i De Trotse Pauw gyermekfarmon szabadon kóborló pávák és más állatok élnek.",
                   "category": "family",
                   "coords": [
                         4.330842,
@@ -19669,7 +19669,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum voor de Kunsten",
-                  "text": "Un centru cultural din Spijkenisse pentru artele spectacolului.",
+                  "text": "Centrul pentru Arte din Spijkenisse găzduiește teatru, concerte și expoziții de artă într-o clădire contemporană.",
                   "category": "cultural",
                   "coords": [
                         4.327113,
@@ -19678,7 +19678,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Trotse Pauw",
-                  "text": "O fermă de animale pentru copii populară în Spijkenisse.",
+                  "text": "Ferma pentru copii De Trotse Pauw din Spijkenisse are păuni care umblă liberi și alte animale.",
                   "category": "family",
                   "coords": [
                         4.330842,
@@ -19905,7 +19905,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Centrum voor de Kunsten",
-                  "text": "A cultural center in Spijkenisse for performing arts.",
+                  "text": "The Centrum voor de Kunsten in Spijkenisse hosts theatre, concerts, and art exhibitions in a contemporary building.",
                   "category": "cultural",
                   "coords": [
                         4.327113,
@@ -19914,7 +19914,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Trotse Pauw",
-                  "text": "A popular petting zoo for children in Spijkenisse.",
+                  "text": "Children's farm De Trotse Pauw in Spijkenisse has roaming peacocks and other animals.",
                   "category": "family",
                   "coords": [
                         4.330842,
@@ -20169,7 +20169,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Theater Hof 88",
-                  "text": "Ein Kulturzentrum und Theater in Almelo.",
+                  "text": "Modernes Theater im Zentrum von Almelo, Hof 88.",
                   "category": "cultural",
                   "coords": [
                         6.670793,
@@ -20187,7 +20187,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedelijk Museum Almelo",
-                  "text": "Ein Museum, das die Stadtgeschichte von Almelo präsentiert.",
+                  "text": "Das Stedelijk Museum Almelo zeigt in einem historischen Gebäude die Stadtgeschichte und Kunst aus Twente.",
                   "category": "museum",
                   "coords": [
                         6.665148,
@@ -20214,7 +20214,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boardwalk",
-                  "text": "Ein Freizeit- und Themenparkbereich in Almelo.",
+                  "text": "Die Boardwalk in Almelo ist eine hölzerne Promenade entlang des Kanals, ideal für Spaziergänge.",
                   "category": "family",
                   "coords": [
                         6.681014,
@@ -20223,7 +20223,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huize Almelo",
-                  "text": "Ein historisches Landgut und Schloss in Almelo.",
+                  "text": "Schloss Huize Almelo in Almelo, erbaut 1662.",
                   "category": "castle",
                   "coords": [
                         6.669089,
@@ -20241,7 +20241,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Hoop",
-                  "text": "Eine restaurierte historische Windmühle in Almelo.",
+                  "text": "Historische Windmühle in Almelo zur Entwässerung, De Hoop.",
                   "category": "landmark",
                   "coords": [
                         6.655957,
@@ -20250,7 +20250,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "V1-lanceerinrichting",
-                  "text": "Die Ruinen einer ehemaligen V1-Raketenabschussanlage in Almelo.",
+                  "text": "Die V1-Lanceerinrichting in Almelo ist ein erhaltener Abschussplatz für V1-Flugbomben aus dem Zweiten Weltkrieg.",
                   "category": "historical",
                   "coords": [
                         6.681493,
@@ -20259,7 +20259,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Georgiusbasiliek",
-                  "text": "Eine Basilika und ein wichtiger Ort der Anbetung in Almelo.",
+                  "text": "Neugotische Basilika von 1901 in Almelo, Sint Georgiusbasiliek.",
                   "category": "religious",
                   "coords": [
                         6.664909,
@@ -20306,7 +20306,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Theater Hof 88",
-                  "text": "Kulturális központ és színház Almelóban.",
+                  "text": "Modern színház Almelo központjában, Hof 88.",
                   "category": "cultural",
                   "coords": [
                         6.670793,
@@ -20324,7 +20324,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedelijk Museum Almelo",
-                  "text": "Almelo várostörténetét bemutató múzeum.",
+                  "text": "Az Almelo-i Stedelijk Museum egy történelmi épületben mutatja be a város történelmét és Twente művészetét.",
                   "category": "museum",
                   "coords": [
                         6.665148,
@@ -20351,7 +20351,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boardwalk",
-                  "text": "Szabadidős és vidámparki terület Almelóban.",
+                  "text": "Az almelo-i Boardwalk fából készült sétány a csatorna mentén, ideális sétákhoz.",
                   "category": "family",
                   "coords": [
                         6.681014,
@@ -20360,7 +20360,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huize Almelo",
-                  "text": "Történelmi udvarház és kastély Almelóban.",
+                  "text": "Huize Almelo kastély Almelo városában, épült 1662-ben.",
                   "category": "castle",
                   "coords": [
                         6.669089,
@@ -20378,7 +20378,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Hoop",
-                  "text": "Restaurált történelmi szélmalom Almelóban.",
+                  "text": "Történelmi szélmalom Almelo-ban vízelvezetésre, De Hoop.",
                   "category": "landmark",
                   "coords": [
                         6.655957,
@@ -20387,7 +20387,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "V1-lanceerinrichting",
-                  "text": "Egy egykori V1 rakéta kilövőállomás maradványai Almelóban.",
+                  "text": "Az almelo-i V1-lanceerinrichting egy második világháborús V1 repülőbomba indítóhely maradványa.",
                   "category": "historical",
                   "coords": [
                         6.681493,
@@ -20396,7 +20396,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Georgiusbasiliek",
-                  "text": "Egy bazilika és fontos imaház Almelóban.",
+                  "text": "1901-ben épült neogótikus bazilika Almelo-ban, Sint Georgiusbasiliek.",
                   "category": "religious",
                   "coords": [
                         6.664909,
@@ -20443,7 +20443,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Theater Hof 88",
-                  "text": "Un centru cultural și teatru în Almelo.",
+                  "text": "Teatru modern în centrul Almelo, Hof 88.",
                   "category": "cultural",
                   "coords": [
                         6.670793,
@@ -20461,7 +20461,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedelijk Museum Almelo",
-                  "text": "Un muzeu care prezintă istoria orașului Almelo.",
+                  "text": "Muzeul Municipal Almelo expune istoria orașului și arta din Twente într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         6.665148,
@@ -20488,7 +20488,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boardwalk",
-                  "text": "O zonă de agrement și parc tematic în Almelo.",
+                  "text": "Boardwalk-ul din Almelo este o promenadă din lemn de-a lungul canalului, ideală pentru plimbări.",
                   "category": "family",
                   "coords": [
                         6.681014,
@@ -20497,7 +20497,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huize Almelo",
-                  "text": "O moșie istorică și castel în Almelo.",
+                  "text": "Castelul Huize Almelo din Almelo, construit în 1662.",
                   "category": "castle",
                   "coords": [
                         6.669089,
@@ -20515,7 +20515,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Hoop",
-                  "text": "O moară de vânt istorică restaurată în Almelo.",
+                  "text": "Moară de vânt istorică în Almelo pentru drenaj, De Hoop.",
                   "category": "landmark",
                   "coords": [
                         6.655957,
@@ -20524,7 +20524,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "V1-lanceerinrichting",
-                  "text": "Ruinele unei foste instalații de lansare a rachetelor V1 în Almelo.",
+                  "text": "Instalația de lansare V1 din Almelo este un loc de lansare păstrat pentru bombele zburătoare V1 din cel de-al Doilea Război Mondial.",
                   "category": "historical",
                   "coords": [
                         6.681493,
@@ -20533,7 +20533,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Georgiusbasiliek",
-                  "text": "O bazilică și un loc important de cult în Almelo.",
+                  "text": "Bazilică neogotică construită în 1901 în Almelo, Sint Georgiusbasiliek.",
                   "category": "religious",
                   "coords": [
                         6.664909,
@@ -20580,7 +20580,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Theater Hof 88",
-                  "text": "A cultural centre and theatre in Almelo.",
+                  "text": "Modern theatre in central Almelo, Hof 88.",
                   "category": "cultural",
                   "coords": [
                         6.670793,
@@ -20598,7 +20598,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stedelijk Museum Almelo",
-                  "text": "A museum showcasing the urban history of Almelo.",
+                  "text": "The Stedelijk Museum Almelo displays local history and Twente art in a historic building.",
                   "category": "museum",
                   "coords": [
                         6.665148,
@@ -20625,7 +20625,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Boardwalk",
-                  "text": "A leisure and theme park area in Almelo.",
+                  "text": "The Boardwalk in Almelo is a wooden promenade along the canal, perfect for strolls.",
                   "category": "family",
                   "coords": [
                         6.681014,
@@ -20634,7 +20634,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huize Almelo",
-                  "text": "A historical manor house and castle in Almelo.",
+                  "text": "Huize Almelo castle in Almelo, built in 1662.",
                   "category": "castle",
                   "coords": [
                         6.669089,
@@ -20652,7 +20652,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Hoop",
-                  "text": "A restored historical windmill in Almelo.",
+                  "text": "Historic windmill in Almelo used for drainage, De Hoop.",
                   "category": "landmark",
                   "coords": [
                         6.655957,
@@ -20661,7 +20661,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "V1-lanceerinrichting",
-                  "text": "The ruins of a former V1 rocket launch site in Almelo.",
+                  "text": "The V1 launch installation in Almelo is a preserved WWII V1 flying bomb launch site.",
                   "category": "historical",
                   "coords": [
                         6.681493,
@@ -20670,7 +20670,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint Georgiusbasiliek",
-                  "text": "A basilica and important place of worship in Almelo.",
+                  "text": "Neo-Gothic basilica built in 1901 in Almelo, Sint Georgiusbasiliek.",
                   "category": "religious",
                   "coords": [
                         6.664909,
@@ -20763,7 +20763,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zwembad Groenoord",
-                  "text": "Ein Schwimmbad für die Öffentlichkeit in Vlaardingen.",
+                  "text": "Das Zwembad Groenoord in Vlaardingen bietet ein Außen- und Innenbecken im Stadtteil Groenoord.",
                   "category": "family",
                   "coords": [
                         4.377788,
@@ -20772,7 +20772,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Zuid",
-                  "text": "Ein lokales Schwimmbad in Vlaardingen.",
+                  "text": "Das Zwembad Zuid in Vlaardingen ist ein Freibad im südlichen Teil der Stadt.",
                   "category": "family",
                   "coords": [
                         4.395532,
@@ -20781,7 +20781,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij 't Hoefblad",
-                  "text": "Ein Kinderbauernhof mit Tieren in Vlaardingen.",
+                  "text": "Der Kinderbauernhof 't Hoefblad in Vlaardingen hat Ziegen, Schafe und einen Spielplatz.",
                   "category": "family",
                   "coords": [
                         4.386988,
@@ -20790,7 +20790,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Het Hof",
-                  "text": "Ein Tierpark für einen Familienbesuch in Vlaardingen.",
+                  "text": "Die Dierenweide Het Hof in Vlaardingen ist eine freizugängliche Tierwiese mit Ziegen und Schafen im Hofviertel.",
                   "category": "family",
                   "coords": [
                         4.346837,
@@ -20799,7 +20799,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Holywood",
-                  "text": "Ein Bauernhof in der Stadt für Kinder in Vlaardingen.",
+                  "text": "Die Stadsboerderij Holywood in Vlaardingen ist ein Stadtbauernhof mit Gemüsegärten und Tieren im Viertel Holy.",
                   "category": "family",
                   "coords": [
                         4.350951,
@@ -20810,7 +20810,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zwembad Groenoord",
-                  "text": "Nyilvános úszómedence Vlaardingen városában.",
+                  "text": "A vlaardingeni Zwembad Groenoord egy kültéri és beltéri medencével rendelkező uszoda a Groenoord negyedben.",
                   "category": "family",
                   "coords": [
                         4.377788,
@@ -20819,7 +20819,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Zuid",
-                  "text": "Helyi úszómedence Vlaardingen városában.",
+                  "text": "A vlaardingeni Zwembad Zuid egy szabadtéri medence a város déli részén.",
                   "category": "family",
                   "coords": [
                         4.395532,
@@ -20828,7 +20828,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij 't Hoefblad",
-                  "text": "Gyerekfarm állatokkal Vlaardingen városában.",
+                  "text": "A vlaardingeni 't Hoefblad gyermekfarmon kecskék, birkák és játszótér található.",
                   "category": "family",
                   "coords": [
                         4.386988,
@@ -20837,7 +20837,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Het Hof",
-                  "text": "Állatpark családi látogatáshoz Vlaardingen városában.",
+                  "text": "A vlaardingeni Dierenweide Het Hof egy szabadon látogatható állatrét kecskékkel és birkákkal a Hof negyedben.",
                   "category": "family",
                   "coords": [
                         4.346837,
@@ -20846,7 +20846,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Holywood",
-                  "text": "Városi farm gyerekeknek Vlaardingen városában.",
+                  "text": "A vlaardingeni Stadsboerderij Holywood egy városi farm zöldségeskertekkel és állatokkal a Holy negyedben.",
                   "category": "family",
                   "coords": [
                         4.350951,
@@ -20857,7 +20857,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zwembad Groenoord",
-                  "text": "O piscină publică în Vlaardingen.",
+                  "text": "Zwembad Groenoord din Vlaardingen are un bazin exterior și unul interior în cartierul Groenoord.",
                   "category": "family",
                   "coords": [
                         4.377788,
@@ -20866,7 +20866,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Zuid",
-                  "text": "O piscină locală în Vlaardingen.",
+                  "text": "Zwembad Zuid din Vlaardingen este o piscină în aer liber în partea de sud a orașului.",
                   "category": "family",
                   "coords": [
                         4.395532,
@@ -20875,7 +20875,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij 't Hoefblad",
-                  "text": "O fermă pentru copii cu animale în Vlaardingen.",
+                  "text": "Ferma pentru copii 't Hoefblad din Vlaardingen are capre, oi și un loc de joacă.",
                   "category": "family",
                   "coords": [
                         4.386988,
@@ -20884,7 +20884,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Het Hof",
-                  "text": "Un parc de animale pentru o vizită în familie în Vlaardingen.",
+                  "text": "Dierenweide Het Hof din Vlaardingen este un pășune cu animale libere, cu capre și oi în cartierul Hof.",
                   "category": "family",
                   "coords": [
                         4.346837,
@@ -20893,7 +20893,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Holywood",
-                  "text": "O fermă urbană pentru copii în Vlaardingen.",
+                  "text": "Ferma urbană Stadsboerderij Holywood din Vlaardingen are grădini de legume și animale în cartierul Holy.",
                   "category": "family",
                   "coords": [
                         4.350951,
@@ -20904,7 +20904,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zwembad Groenoord",
-                  "text": "A public swimming pool in Vlaardingen.",
+                  "text": "Zwembad Groenoord in Vlaardingen has an outdoor and indoor pool in the Groenoord district.",
                   "category": "family",
                   "coords": [
                         4.377788,
@@ -20913,7 +20913,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Zuid",
-                  "text": "A local swimming pool in Vlaardingen.",
+                  "text": "Zwembad Zuid in Vlaardingen is an outdoor swimming pool in the south of the city.",
                   "category": "family",
                   "coords": [
                         4.395532,
@@ -20922,7 +20922,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij 't Hoefblad",
-                  "text": "A children's farm with animals in Vlaardingen.",
+                  "text": "Children's farm 't Hoefblad in Vlaardingen has goats, sheep, and a playground.",
                   "category": "family",
                   "coords": [
                         4.386988,
@@ -20931,7 +20931,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide Het Hof",
-                  "text": "An animal park for a family visit in Vlaardingen.",
+                  "text": "Dierenweide Het Hof in Vlaardingen is a free-access animal meadow with goats and sheep in the Hof district.",
                   "category": "family",
                   "coords": [
                         4.346837,
@@ -20940,7 +20940,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsboerderij Holywood",
-                  "text": "An urban farm for children in Vlaardingen.",
+                  "text": "Stadsboerderij Holywood in Vlaardingen is a city farm with vegetable gardens and animals in the Holy neighbourhood.",
                   "category": "family",
                   "coords": [
                         4.350951,
@@ -21060,7 +21060,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunsthal Helmond",
-                  "text": "Ein Museum für moderne und zeitgenössische Kunst im Zentrum von Helmond.",
+                  "text": "Die Kunsthal Helmond zeigt wechselnde Ausstellungen zeitgenössischer Kunst in einem modernen Ausstellungsraum.",
                   "category": "museum",
                   "coords": [
                         5.650235,
@@ -21141,7 +21141,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Park Goorloop",
-                  "text": "Ein langgestreckter Park entlang des Baches Goorloop in Helmond.",
+                  "text": "Der Park Goorloop in Helmond ist eine lineare Grünanlage entlang des Baches Goorloop mit Teichen und Wegen.",
                   "category": "park",
                   "coords": [
                         5.637884,
@@ -21240,7 +21240,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela",
-                  "text": "Eine nach Nelson Mandela benannte Brücke in Helmond.",
+                  "text": "Eine Statue von Nelson Mandela in Helmond.",
                   "category": "landmark",
                   "coords": [
                         5.661077,
@@ -21258,7 +21258,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ashorst",
-                  "text": "Eine Straßenbrücke in Helmond, die einen Wasserweg überquert.",
+                  "text": "Ein Wahrzeichen in Helmond.",
                   "category": "landmark",
                   "coords": [
                         5.631497,
@@ -21312,7 +21312,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leonardus",
-                  "text": "Leonardus in Helmond ist ein Spielplatz für Kinder und Familien.",
+                  "text": "Leonardus in Helmond ist ein Kinderbauernhof und Spielplatz im Viertel Leonardus mit Ziegen und Klettergerüsten.",
                   "category": "family",
                   "coords": [
                         5.669383,
@@ -21321,7 +21321,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Helmond - West",
-                  "text": "Speeltuin Helmond - West ist ein Spielplatz für den Familienspaß.",
+                  "text": "Der Spielplatz Helmond-West in Helmond bietet Schaukeln, Rutschen und Sandkästen im Westen der Stadt.",
                   "category": "family",
                   "coords": [
                         5.642235,
@@ -21330,7 +21330,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Renne",
-                  "text": "De Renne in Helmond ist ein lokaler Spielplatz für Kinder.",
+                  "text": "De Renne in Helmond ist ein Erholungsgebiet mit Spielplatz, Picknickplätzen und einem kleinen See.",
                   "category": "family",
                   "coords": [
                         5.648886,
@@ -21339,7 +21339,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kindervreugde",
-                  "text": "Kindervreugde in Helmond ist ein Spielplatz für Kinder.",
+                  "text": "Kindervreugde in Helmond ist ein Spielplatz mit einer großen Kletterburg und einem Trampolin.",
                   "category": "family",
                   "coords": [
                         5.660555,
@@ -21413,7 +21413,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunsthal Helmond",
-                  "text": "Modern és kortárs művészeti múzeum Helmond központjában.",
+                  "text": "A helmondi Kunsthal kortárs művészeti kiállításoknak ad otthont egy modern kiállítótérben.",
                   "category": "museum",
                   "coords": [
                         5.650235,
@@ -21494,7 +21494,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Park Goorloop",
-                  "text": "Hosszúkás park a Goorloop-patak mentén Helmondban.",
+                  "text": "A helmondi Park Goorloop egy lineáris park a Goorloop-patak mentén, tavakkal és ösvényekkel.",
                   "category": "park",
                   "coords": [
                         5.637884,
@@ -21593,7 +21593,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela",
-                  "text": "Nelson Mandeláról elnevezett híd Helmondban.",
+                  "text": "Nelson Mandela szobra Helmondban.",
                   "category": "landmark",
                   "coords": [
                         5.661077,
@@ -21611,7 +21611,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ashorst",
-                  "text": "Közúti híd Helmondban, amely egy vízi utat ível át.",
+                  "text": "Nevezetesség Helmondban.",
                   "category": "landmark",
                   "coords": [
                         5.631497,
@@ -21665,7 +21665,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leonardus",
-                  "text": "A helmondi Leonardus egy játszótér gyermekeknek és családoknak.",
+                  "text": "A helmondi Leonardus egy gyermekfarm és játszótér a Leonardus negyedben, kecskékkel és mászókákkal.",
                   "category": "family",
                   "coords": [
                         5.669383,
@@ -21674,7 +21674,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Helmond - West",
-                  "text": "A Speeltuin Helmond - West egy játszótér a családi szórakozáshoz.",
+                  "text": "A helmondi Helmond-West játszótér hintákat, csúszdákat és homokozókat kínál a város nyugati részén.",
                   "category": "family",
                   "coords": [
                         5.642235,
@@ -21683,7 +21683,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Renne",
-                  "text": "A helmondi De Renne egy helyi játszótér a gyermekeknek.",
+                  "text": "A helmondi De Renne egy rekreációs terület játszótérrel, piknikezőhelyekkel és egy kis tóval.",
                   "category": "family",
                   "coords": [
                         5.648886,
@@ -21692,7 +21692,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kindervreugde",
-                  "text": "A helmondi Kindervreugde egy játszótér a gyermekeknek.",
+                  "text": "A helmondi Kindervreugde egy játszótér nagy mászóvárral és trambulinnel.",
                   "category": "family",
                   "coords": [
                         5.660555,
@@ -21766,7 +21766,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunsthal Helmond",
-                  "text": "Un muzeu de artă modernă și contemporană în centrul orașului Helmond.",
+                  "text": "Kunsthal Helmond prezintă expoziții temporare de artă contemporană într-un spațiu modern.",
                   "category": "museum",
                   "coords": [
                         5.650235,
@@ -21847,7 +21847,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Park Goorloop",
-                  "text": "Un parc longitudinal de-a lungul pârâului Goorloop în Helmond.",
+                  "text": "Parcul Goorloop din Helmond este un parc liniar de-a lungul pârâului Goorloop, cu iazuri și alei.",
                   "category": "park",
                   "coords": [
                         5.637884,
@@ -21946,7 +21946,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela",
-                  "text": "Un pod numit după Nelson Mandela în Helmond.",
+                  "text": "O statuie a lui Nelson Mandela în Helmond.",
                   "category": "landmark",
                   "coords": [
                         5.661077,
@@ -21964,7 +21964,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ashorst",
-                  "text": "Un pod rutier în Helmond care traversează o cale navigabilă.",
+                  "text": "Un reper în Helmond.",
                   "category": "landmark",
                   "coords": [
                         5.631497,
@@ -22018,7 +22018,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leonardus",
-                  "text": "Leonardus din Helmond este un loc de joacă pentru copii și familii.",
+                  "text": "Leonardus din Helmond este o fermă pentru copii și loc de joacă în cartierul Leonardus, cu capre și echipamente de cățărat.",
                   "category": "family",
                   "coords": [
                         5.669383,
@@ -22027,7 +22027,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Helmond - West",
-                  "text": "Speeltuin Helmond - West este un loc de joacă pentru distracția familiei.",
+                  "text": "Locul de joacă Helmond-West din Helmond oferă leagăne, tobogane și cutii cu nisip în vestul orașului.",
                   "category": "family",
                   "coords": [
                         5.642235,
@@ -22036,7 +22036,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Renne",
-                  "text": "De Renne din Helmond este un loc de joacă local pentru copii.",
+                  "text": "De Renne din Helmond este o zonă de agrement cu loc de joacă, zone de picnic și un mic lac.",
                   "category": "family",
                   "coords": [
                         5.648886,
@@ -22045,7 +22045,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kindervreugde",
-                  "text": "Kindervreugde din Helmond este un loc de joacă pentru copii.",
+                  "text": "Kindervreugde din Helmond este un loc de joacă cu un castel mare de cățărat și o trambulină.",
                   "category": "family",
                   "coords": [
                         5.660555,
@@ -22119,7 +22119,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunsthal Helmond",
-                  "text": "A museum for modern and contemporary art located in the center of Helmond.",
+                  "text": "Kunsthal Helmond features rotating contemporary art exhibitions in a modern space.",
                   "category": "museum",
                   "coords": [
                         5.650235,
@@ -22200,7 +22200,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Park Goorloop",
-                  "text": "A linear park along the Goorloop stream in Helmond.",
+                  "text": "Park Goorloop in Helmond is a linear park along the Goorloop stream with ponds and paths.",
                   "category": "park",
                   "coords": [
                         5.637884,
@@ -22299,7 +22299,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela",
-                  "text": "A bridge named after Nelson Mandela in Helmond.",
+                  "text": "A statue of Nelson Mandela in Helmond.",
                   "category": "landmark",
                   "coords": [
                         5.661077,
@@ -22317,7 +22317,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Ashorst",
-                  "text": "A road bridge in Helmond crossing a waterway.",
+                  "text": "A landmark in Helmond.",
                   "category": "landmark",
                   "coords": [
                         5.631497,
@@ -22371,7 +22371,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leonardus",
-                  "text": "Leonardus in Helmond is a playground for children and families.",
+                  "text": "Leonardus in Helmond is a children's farm and playground in the Leonardus district with goats and climbing frames.",
                   "category": "family",
                   "coords": [
                         5.669383,
@@ -22380,7 +22380,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Helmond - West",
-                  "text": "Speeltuin Helmond - West is a playground for family fun.",
+                  "text": "Speeltuin Helmond-West in Helmond offers swings, slides, and sandpits in the west of the city.",
                   "category": "family",
                   "coords": [
                         5.642235,
@@ -22389,7 +22389,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Renne",
-                  "text": "De Renne in Helmond is a local playground for children.",
+                  "text": "De Renne in Helmond is a recreation area with a playground, picnic spots, and a small lake.",
                   "category": "family",
                   "coords": [
                         5.648886,
@@ -22398,7 +22398,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kindervreugde",
-                  "text": "Kindervreugde in Helmond is a playground for children.",
+                  "text": "Kindervreugde in Helmond is a playground with a large climbing castle and a trampoline.",
                   "category": "family",
                   "coords": [
                         5.660555,
@@ -22759,7 +22759,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoommeer",
-                  "text": "Ein See und Naturschutzgebiet in der Nähe von Bergen op Zoom.",
+                  "text": "Das Zoommeer bei Bergen op Zoom ist ein großer See, der zum Segeln und zur Vogelbeobachtung genutzt wird.",
                   "category": "natural",
                   "coords": [
                         4.214594,
@@ -22777,7 +22777,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kraaijenberg",
-                  "text": "Ein Museum in Bergen op Zoom, das lokale Themen präsentiert.",
+                  "text": "Das Museum Kraaijenberg in Bergen op Zoom liegt auf einem bewaldeten Hügel und zeigt lokale Exponate.",
                   "category": "museum",
                   "coords": [
                         4.291752,
@@ -22795,7 +22795,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort De Waterschans",
-                  "text": "Die Überreste einer historischen Festung in Bergen op Zoom.",
+                  "text": "Fort De Waterschans in Bergen op Zoom ist eine Festung aus dem 17. Jahrhundert mit Gräben und Wällen.",
                   "category": "fortress",
                   "coords": [
                         4.261088,
@@ -22804,7 +22804,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Augustapolder",
-                  "text": "Ein Polder und Naturschutzgebiet bei Bergen op Zoom.",
+                  "text": "Der Augustapolder bei Bergen op Zoom ist eine Polderlandschaft mit Gräben und Wiesen, ideal zum Wandern.",
                   "category": "natural",
                   "coords": [
                         4.295537,
@@ -22831,7 +22831,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoomland",
-                  "text": "Ein Naturpark und Waldgebiet bei Bergen op Zoom.",
+                  "text": "Der Zoomland-Park in Bergen op Zoom liegt entlang des Zoom-Bachs und hat alte Bäume und einen Spielplatz.",
                   "category": "park",
                   "coords": [
                         4.330905,
@@ -22876,7 +22876,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Emmertoren",
-                  "text": "Ein Aussichtspunkt in Bergen op Zoom mit weitem Blick.",
+                  "text": "Der Emmertoren in Bergen op Zoom ist ein hölzerner Aussichtsturm mit Blick über die Polder und das Zoommeer.",
                   "category": "natural",
                   "coords": [
                         4.287669,
@@ -22923,7 +22923,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoommeer",
-                  "text": "Tó és természetvédelmi terület Bergen op Zoom közelében.",
+                  "text": "A Bergen op Zoom melletti Zoommeer egy nagy tó, amelyet vitorlázásra és madármegfigyelésre használnak.",
                   "category": "natural",
                   "coords": [
                         4.214594,
@@ -22941,7 +22941,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kraaijenberg",
-                  "text": "Helyi témákat bemutató múzeum Bergen op Zoomban.",
+                  "text": "A bergen op zoomi Kraaijenberg múzeum egy erdős dombon fekszik, és helyi tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         4.291752,
@@ -22959,7 +22959,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort De Waterschans",
-                  "text": "Egy történelmi erőd maradványai Bergen op Zoomban.",
+                  "text": "A bergen op zoomi Fort De Waterschans egy 17. századi erődítmény árkokkal és sáncokkal.",
                   "category": "fortress",
                   "coords": [
                         4.261088,
@@ -22968,7 +22968,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Augustapolder",
-                  "text": "Polder és természetvédelmi terület Bergen op Zoomnál.",
+                  "text": "A Bergen op Zoom melletti Augustapolder egy polder táj árokkal és rétekkel, ideális a sétákhoz.",
                   "category": "natural",
                   "coords": [
                         4.295537,
@@ -22995,7 +22995,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoomland",
-                  "text": "Természetvédelmi park és erdős terület Bergen op Zoomnál.",
+                  "text": "A bergen op zoomi Zoomland park a Zoom-patak mentén fekszik, régi fákkal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         4.330905,
@@ -23040,7 +23040,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Emmertoren",
-                  "text": "Kilátópont Bergen op Zoomban széles körpanorámával.",
+                  "text": "A bergen op zoomi Emmertoren egy fából készült kilátótorony, rálátással a polderekre és a Zoommeerre.",
                   "category": "natural",
                   "coords": [
                         4.287669,
@@ -23087,7 +23087,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoommeer",
-                  "text": "Un lac și rezervație naturală lângă Bergen op Zoom.",
+                  "text": "Zoommeer lângă Bergen op Zoom este un lac mare folosit pentru navigație și observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         4.214594,
@@ -23105,7 +23105,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kraaijenberg",
-                  "text": "Un muzeu din Bergen op Zoom care prezintă teme locale.",
+                  "text": "Muzeul Kraaijenberg din Bergen op Zoom este situat pe un deal împădurit și prezintă exponate locale.",
                   "category": "museum",
                   "coords": [
                         4.291752,
@@ -23123,7 +23123,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort De Waterschans",
-                  "text": "Rămășițele unei fortărețe istorice în Bergen op Zoom.",
+                  "text": "Fort De Waterschans din Bergen op Zoom este o fortăreață din secolul al XVII-lea cu șanțuri și valuri de pământ.",
                   "category": "fortress",
                   "coords": [
                         4.261088,
@@ -23132,7 +23132,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Augustapolder",
-                  "text": "Un polder și rezervație naturală lângă Bergen op Zoom.",
+                  "text": "Augustapolder lângă Bergen op Zoom este un peisaj de polder cu șanțuri și pajiști, ideal pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         4.295537,
@@ -23159,7 +23159,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoomland",
-                  "text": "Un parc natural și zonă împădurită lângă Bergen op Zoom.",
+                  "text": "Parcul Zoomland din Bergen op Zoom este situat de-a lungul pârâului Zoom, cu copaci bătrâni și un loc de joacă.",
                   "category": "park",
                   "coords": [
                         4.330905,
@@ -23204,7 +23204,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Emmertoren",
-                  "text": "Un punct de observație în Bergen op Zoom cu vedere panoramică.",
+                  "text": "Emmertoren din Bergen op Zoom este un turn de observație din lemn, cu vedere asupra polderelor și a Zoommeer.",
                   "category": "natural",
                   "coords": [
                         4.287669,
@@ -23251,7 +23251,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoommeer",
-                  "text": "A lake and nature reserve near Bergen op Zoom.",
+                  "text": "Zoommeer near Bergen op Zoom is a large lake used for sailing and birdwatching.",
                   "category": "natural",
                   "coords": [
                         4.214594,
@@ -23269,7 +23269,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kraaijenberg",
-                  "text": "A museum in Bergen op Zoom showcasing local themes.",
+                  "text": "Kraaijenberg museum in Bergen op Zoom sits on a wooded hill and displays local artefacts.",
                   "category": "museum",
                   "coords": [
                         4.291752,
@@ -23287,7 +23287,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Fort De Waterschans",
-                  "text": "The remains of a historical fort in Bergen op Zoom.",
+                  "text": "Fort De Waterschans in Bergen op Zoom is a 17th-century fortress with moats and ramparts.",
                   "category": "fortress",
                   "coords": [
                         4.261088,
@@ -23296,7 +23296,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Augustapolder",
-                  "text": "A polder and nature reserve near Bergen op Zoom.",
+                  "text": "Augustapolder near Bergen op Zoom is a polder landscape with ditches and meadows, perfect for hiking.",
                   "category": "natural",
                   "coords": [
                         4.295537,
@@ -23323,7 +23323,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zoomland",
-                  "text": "A nature park and wooded area near Bergen op Zoom.",
+                  "text": "Zoomland park in Bergen op Zoom lies along the Zoom stream, with old trees and a playground.",
                   "category": "park",
                   "coords": [
                         4.330905,
@@ -23368,7 +23368,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Emmertoren",
-                  "text": "A viewpoint in Bergen op Zoom offering wide views.",
+                  "text": "Emmertoren in Bergen op Zoom is a wooden observation tower overlooking the polders and the Zoommeer.",
                   "category": "natural",
                   "coords": [
                         4.287669,
@@ -23488,7 +23488,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bergsche Voorplas",
-                  "text": "Die Bergsche Voorplas ist ein malerischer See, ideal für entspannte Momente.",
+                  "text": "Die Bergsche Voorplas in Capelle aan den IJssel ist ein Badesee mit Sandstrand und Surfspot.",
                   "category": "natural",
                   "coords": [
                         4.496238,
@@ -23587,7 +23587,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide",
-                  "text": "Ein kleiner Tierpark in Capelle Aan Den Ijssel.",
+                  "text": "Die Dierenweide in Capelle aan den IJssel ist eine kleine Tierwiese mit Ziegen und Kaninchen in einem Park.",
                   "category": "family",
                   "coords": [
                         4.56706,
@@ -23634,7 +23634,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bergsche Voorplas",
-                  "text": "A Bergsche Voorplas egy festői tó, ideális a pihentető pillanatokhoz.",
+                  "text": "A Capelle aan den IJssel-i Bergsche Voorplas egy fürdőtó homokos parttal és szörfhelyszínnel.",
                   "category": "natural",
                   "coords": [
                         4.496238,
@@ -23733,7 +23733,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide",
-                  "text": "Kis állatpark Capelle Aan Den Ijssel városában.",
+                  "text": "A Capelle aan den IJssel-i Dierenweide egy kis állatrét kecskékkel és nyulakkal egy parkban.",
                   "category": "family",
                   "coords": [
                         4.56706,
@@ -23780,7 +23780,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bergsche Voorplas",
-                  "text": "Bergsche Voorplas este un lac pitoresc, ideal pentru momente de relaxare.",
+                  "text": "Bergsche Voorplas din Capelle aan den IJssel este un lac de scăldat cu plajă nisipoasă și loc de surfing.",
                   "category": "natural",
                   "coords": [
                         4.496238,
@@ -23879,7 +23879,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide",
-                  "text": "Un mic parc de animale în Capelle Aan Den Ijssel.",
+                  "text": "Dierenweide din Capelle aan den IJssel este o mică pășune cu animale, cu capre și iepuri, într-un parc.",
                   "category": "family",
                   "coords": [
                         4.56706,
@@ -23926,7 +23926,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bergsche Voorplas",
-                  "text": "Bergsche Voorplas is a scenic lake, ideal for relaxed moments.",
+                  "text": "Bergsche Voorplas in Capelle aan den IJssel is a swimming lake with a sandy beach and surf spot.",
                   "category": "natural",
                   "coords": [
                         4.496238,
@@ -24025,7 +24025,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierenweide",
-                  "text": "A small animal park in Capelle Aan Den Ijssel.",
+                  "text": "Dierenweide in Capelle aan den IJssel is a small animal meadow with goats and rabbits in a park.",
                   "category": "family",
                   "coords": [
                         4.56706,
@@ -24271,7 +24271,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelotheek Veenendaal",
-                  "text": "Speelotheek Veenendaal ist ein Spielplatz für Familien.",
+                  "text": "Die Speelotheek Veenendaal ist eine Spielzeugbibliothek, in der Kinder Spielzeug ausleihen können.",
                   "category": "family",
                   "coords": [
                         5.544868,
@@ -24280,7 +24280,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin De Pol",
-                  "text": "Speeltuin De Pol in Veenendaal ist ein Spielplatz für Kinder.",
+                  "text": "Der Spielplatz De Pol in Veenendaal im Viertel De Pol hat eine Rutsche, Schaukeln und einen Sandkasten.",
                   "category": "family",
                   "coords": [
                         5.557007,
@@ -24289,7 +24289,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin 't Hoorntje",
-                  "text": "Speeltuin 't Hoorntje in Veenendaal ist ein Spielplatz für Kinder.",
+                  "text": "Der Spielplatz 't Hoorntje in Veenendaal im Gebiet 't Hoorntje hat eine Kletterpyramide und Wippen.",
                   "category": "family",
                   "coords": [
                         5.544206,
@@ -24298,7 +24298,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Linge",
-                  "text": "Linge in Veenendaal ist ein Spielplatz für Familien.",
+                  "text": "Linge in Veenendaal ist ein Erholungsgebiet entlang des Flusses Linge mit einem Spielplatz und Wanderwegen.",
                   "category": "family",
                   "coords": [
                         5.530946,
@@ -24307,7 +24307,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koenestraat",
-                  "text": "Koenestraat in Veenendaal ist ein lokaler Spielplatz für Kinder.",
+                  "text": "Der Spielplatz an der Koenestraat in Veenendaal ist ein kleiner Nachbarschaftsspielplatz mit Rutsche und Sandkasten.",
                   "category": "family",
                   "coords": [
                         5.585309,
@@ -24316,7 +24316,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsstrand",
-                  "text": "Stadsstrand in Veenendaal ist ein Spielplatz für Familien.",
+                  "text": "Der Stadsstrand in Veenendaal ist ein künstlicher Stadtstrand mit Sand und einem Schwimmbereich.",
                   "category": "family",
                   "coords": [
                         5.558008,
@@ -24325,7 +24325,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin",
-                  "text": "Natuurspeeltuin in Veenendaal ist ein Spielplatz in der Natur.",
+                  "text": "Der Natuurspeeltuin in Veenendaal ist ein Naturspielplatz mit Kletterbäumen, Matschbereich und Zipline.",
                   "category": "family",
                   "coords": [
                         5.536641,
@@ -24534,7 +24534,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelotheek Veenendaal",
-                  "text": "A veenendaali Speelotheek Veenendaal egy játszótér családok számára.",
+                  "text": "A veenendaali Speelotheek egy játékkönyvtár, ahol a gyerekek játékokat kölcsönözhetnek.",
                   "category": "family",
                   "coords": [
                         5.544868,
@@ -24543,7 +24543,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin De Pol",
-                  "text": "A veenendaali Speeltuin De Pol egy játszótér a gyermekeknek.",
+                  "text": "A veenendaali De Pol játszótér a De Pol negyedben csúszdát, hintákat és homokozót kínál.",
                   "category": "family",
                   "coords": [
                         5.557007,
@@ -24552,7 +24552,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin 't Hoorntje",
-                  "text": "A veenendaali Speeltuin 't Hoorntje egy játszótér a gyermekeknek.",
+                  "text": "A veenendaali 't Hoorntje játszótér a 't Hoorntje területen mászópiramissal és libikókákkal vár.",
                   "category": "family",
                   "coords": [
                         5.544206,
@@ -24561,7 +24561,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Linge",
-                  "text": "A veenendaali Linge egy játszótér családok számára.",
+                  "text": "A veenendaali Linge egy rekreációs terület a Linge folyó mentén, játszótérrel és sétányokkal.",
                   "category": "family",
                   "coords": [
                         5.530946,
@@ -24570,7 +24570,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koenestraat",
-                  "text": "A veenendaali Koenestraat egy helyi játszótér a gyermekeknek.",
+                  "text": "A veenendaali Koenestraat-i játszótér egy kis szomszédsági játszótér csúszdával és homokozóval.",
                   "category": "family",
                   "coords": [
                         5.585309,
@@ -24579,7 +24579,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsstrand",
-                  "text": "A veenendaali Stadsstrand egy játszótér családok számára.",
+                  "text": "A veenendaali Stadsstrand egy mesterséges városi strand homokkal és úszórészekkel.",
                   "category": "family",
                   "coords": [
                         5.558008,
@@ -24588,7 +24588,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin",
-                  "text": "A veenendaali Natuurspeeltuin egy játszótér a természetben.",
+                  "text": "A veenendaali Natuurspeeltuin egy természetes játszótér mászófákkal, sárpályával és csúszdával.",
                   "category": "family",
                   "coords": [
                         5.536641,
@@ -24797,7 +24797,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelotheek Veenendaal",
-                  "text": "Speelotheek Veenendaal este un loc de joacă pentru familii.",
+                  "text": "Speelotheek Veenendaal este o bibliotecă de jucării unde copiii pot împrumuta jucării.",
                   "category": "family",
                   "coords": [
                         5.544868,
@@ -24806,7 +24806,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin De Pol",
-                  "text": "Speeltuin De Pol din Veenendaal este un loc de joacă pentru copii.",
+                  "text": "Locul de joacă De Pol din Veenendaal, în cartierul De Pol, are tobogan, leagăne și o cutie cu nisip.",
                   "category": "family",
                   "coords": [
                         5.557007,
@@ -24815,7 +24815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin 't Hoorntje",
-                  "text": "Speeltuin 't Hoorntje din Veenendaal este un loc de joacă pentru copii.",
+                  "text": "Locul de joacă 't Hoorntje din Veenendaal, în zona 't Hoorntje, are o piramidă de cățărat și balansoare.",
                   "category": "family",
                   "coords": [
                         5.544206,
@@ -24824,7 +24824,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Linge",
-                  "text": "Linge din Veenendaal este un loc de joacă pentru familii.",
+                  "text": "Linge din Veenendaal este o zonă de agrement de-a lungul râului Linge, cu un loc de joacă și poteci.",
                   "category": "family",
                   "coords": [
                         5.530946,
@@ -24833,7 +24833,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koenestraat",
-                  "text": "Koenestraat din Veenendaal este un loc de joacă local pentru copii.",
+                  "text": "Locul de joacă de pe Koenestraat din Veenendaal este un mic loc de joacă de cartier, cu tobogan și cutie cu nisip.",
                   "category": "family",
                   "coords": [
                         5.585309,
@@ -24842,7 +24842,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsstrand",
-                  "text": "Stadsstrand din Veenendaal este un loc de joacă pentru familii.",
+                  "text": "Stadsstrand din Veenendaal este o plajă urbană artificială cu nisip și o zonă de înot.",
                   "category": "family",
                   "coords": [
                         5.558008,
@@ -24851,7 +24851,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin",
-                  "text": "Natuurspeeltuin din Veenendaal este un loc de joacă în natură.",
+                  "text": "Natuurspeeltuin din Veenendaal este un loc de joacă natural, cu copaci de cățărat, zonă de noroi și tiroliană.",
                   "category": "family",
                   "coords": [
                         5.536641,
@@ -25060,7 +25060,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speelotheek Veenendaal",
-                  "text": "Speelotheek Veenendaal is a playground for families.",
+                  "text": "Speelotheek Veenendaal is a toy library where children can borrow toys.",
                   "category": "family",
                   "coords": [
                         5.544868,
@@ -25069,7 +25069,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin De Pol",
-                  "text": "Speeltuin De Pol in Veenendaal is a playground for children.",
+                  "text": "Speeltuin De Pol in Veenendaal in the De Pol neighbourhood has a slide, swings, and a sandpit.",
                   "category": "family",
                   "coords": [
                         5.557007,
@@ -25078,7 +25078,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin 't Hoorntje",
-                  "text": "Speeltuin 't Hoorntje in Veenendaal is a playground for children.",
+                  "text": "Speeltuin 't Hoorntje in Veenendaal in the 't Hoorntje area has a climbing pyramid and seesaws.",
                   "category": "family",
                   "coords": [
                         5.544206,
@@ -25087,7 +25087,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Linge",
-                  "text": "Linge in Veenendaal is a playground for families.",
+                  "text": "Linge in Veenendaal is a recreation area along the Linge river with a playground and walking paths.",
                   "category": "family",
                   "coords": [
                         5.530946,
@@ -25096,7 +25096,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Koenestraat",
-                  "text": "Koenestraat in Veenendaal is a local playground for children.",
+                  "text": "The playground on Koenestraat in Veenendaal is a small neighbourhood playground with a slide and sandbox.",
                   "category": "family",
                   "coords": [
                         5.585309,
@@ -25105,7 +25105,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsstrand",
-                  "text": "Stadsstrand in Veenendaal is a playground for families.",
+                  "text": "Stadsstrand in Veenendaal is an artificial city beach with sand and a swimming area.",
                   "category": "family",
                   "coords": [
                         5.558008,
@@ -25114,7 +25114,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Natuurspeeltuin",
-                  "text": "Natuurspeeltuin in Veenendaal is a playground in nature.",
+                  "text": "Natuurspeeltuin in Veenendaal is a nature playground with climbing trees, a mud play area, and a zip line.",
                   "category": "family",
                   "coords": [
                         5.536641,
@@ -25225,7 +25225,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Torenmuseum",
-                  "text": "Ein kleines Museum, das in einem historischen Turm in Katwijk untergebracht ist.",
+                  "text": "Das Torenmuseum in Katwijk ist ein Museum im historischen Kirchturm mit Ausstellungen zur Seefahrtsgeschichte.",
                   "category": "museum",
                   "coords": [
                         4.432848,
@@ -25270,7 +25270,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Watersnip",
-                  "text": "Ein geschütztes Naturareal, das für seine reiche Vogelwelt bekannt ist.",
+                  "text": "De Watersnip in Katwijk ist ein Feuchtgebiet mit Vogelbeobachtungshütten und Wegen.",
                   "category": "natural",
                   "coords": [
                         4.447901,
@@ -25315,7 +25315,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunst en Ontspanning Katwijk",
-                  "text": "Ein lokales Zentrum für Kunst und kulturelle Freizeitgestaltung.",
+                  "text": "Kulturverein Kunst en Ontspanning in Katwijk, gegründet 1980.",
                   "category": "cultural",
                   "coords": [
                         4.398665,
@@ -25414,7 +25414,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "Ein kleiner See in Katwijk für ruhige Momente in der Natur.",
+                  "text": "Spriet in Katwijk ist ein Dünengebiet mit seltener Vegetation und Wanderdünen.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -25459,7 +25459,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Valkenburg",
-                  "text": "Ein schöner Spielplatz in Katwijk für den täglichen Familienspaß.",
+                  "text": "Der Spielplatz Valkenburg in Katwijk liegt nahe der Burgruine Valkenburg und hat Rutschen und Klettergerüste.",
                   "category": "family",
                   "coords": [
                         4.426933,
@@ -25533,7 +25533,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Torenmuseum",
-                  "text": "Katwijk egyik történelmi tornyában helyet kapott kis múzeum.",
+                  "text": "A katwijki Torenmuseum egy múzeum a történelmi templomtoronyban, a tengerészeti történelem kiállításaival.",
                   "category": "museum",
                   "coords": [
                         4.432848,
@@ -25578,7 +25578,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Watersnip",
-                  "text": "Gazdag madárvilágáról ismert védett természeti terület.",
+                  "text": "A katwijki De Watersnip egy vizes élőhely madármegfigyelő kunyhókkal és ösvényekkel.",
                   "category": "natural",
                   "coords": [
                         4.447901,
@@ -25623,7 +25623,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunst en Ontspanning Katwijk",
-                  "text": "A művészetek és a kulturális kikapcsolódás helyi központja.",
+                  "text": "Kunst en Ontspanning Katwijk kulturális egyesület, alapítva 1980-ban.",
                   "category": "cultural",
                   "coords": [
                         4.398665,
@@ -25722,7 +25722,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "Egy kis tó Katwijkban a természetbeni nyugodt pillanatokhoz.",
+                  "text": "A katwijki Spriet egy dűne terület ritka növényzettel és vándorló dűnékkel.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -25767,7 +25767,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Valkenburg",
-                  "text": "Szép játszótér Katwijkban a mindennapi családi szórakozáshoz.",
+                  "text": "A katwijki Valkenburg játszótér a Valkenburg várrom közelében található, csúszdákkal és mászókákkal.",
                   "category": "family",
                   "coords": [
                         4.426933,
@@ -25841,7 +25841,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Torenmuseum",
-                  "text": "Un mic muzeu situat într-un turn istoric din Katwijk.",
+                  "text": "Muzeul Torenmuseum din Katwijk este un muzeu în turnul istoric al bisericii, cu expoziții despre istoria maritimă.",
                   "category": "museum",
                   "coords": [
                         4.432848,
@@ -25886,7 +25886,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Watersnip",
-                  "text": "O zonă naturală protejată, cunoscută pentru fauna sa bogată de păsări.",
+                  "text": "De Watersnip din Katwijk este o zonă umedă cu ascunzători pentru observarea păsărilor și trasee.",
                   "category": "natural",
                   "coords": [
                         4.447901,
@@ -25931,7 +25931,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunst en Ontspanning Katwijk",
-                  "text": "Un centru local pentru artă și recreere culturală.",
+                  "text": "Asociația culturală Kunst en Ontspanning din Katwijk, fondată în 1980.",
                   "category": "cultural",
                   "coords": [
                         4.398665,
@@ -26030,7 +26030,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "Un mic lac în Katwijk pentru momente de liniște în natură.",
+                  "text": "Spriet din Katwijk este o zonă de dune cu vegetație rară și dune mobile.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -26075,7 +26075,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Valkenburg",
-                  "text": "Un loc de joacă frumos în Katwijk pentru distracția zilnică a familiei.",
+                  "text": "Locul de joacă Valkenburg din Katwijk este situat lângă ruinele castelului Valkenburg, cu tobogane și echipamente de cățărat.",
                   "category": "family",
                   "coords": [
                         4.426933,
@@ -26149,7 +26149,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Torenmuseum",
-                  "text": "A small museum housed in a historic tower in Katwijk.",
+                  "text": "Torenmuseum in Katwijk is a museum in the historic church tower, with exhibits on maritime history.",
                   "category": "museum",
                   "coords": [
                         4.432848,
@@ -26194,7 +26194,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Watersnip",
-                  "text": "A protected natural area known for its rich birdlife.",
+                  "text": "De Watersnip in Katwijk is a wetland with bird hides and trails.",
                   "category": "natural",
                   "coords": [
                         4.447901,
@@ -26239,7 +26239,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kunst en Ontspanning Katwijk",
-                  "text": "A local center for arts and cultural recreation.",
+                  "text": "Kunst en Ontspanning Katwijk cultural association, founded in 1980.",
                   "category": "cultural",
                   "coords": [
                         4.398665,
@@ -26338,7 +26338,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "A small lake in Katwijk for quiet moments in nature.",
+                  "text": "Spriet in Katwijk is a dune area with rare vegetation and shifting dunes.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -26383,7 +26383,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Valkenburg",
-                  "text": "A nice playground in Katwijk for daily family fun.",
+                  "text": "Speeltuin Valkenburg in Katwijk is near the Valkenburg castle ruins, with slides and climbing frames.",
                   "category": "family",
                   "coords": [
                         4.426933,
@@ -26458,7 +26458,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hertenkamp",
-                  "text": "Ein Gehege mit Hirschen in Zeist.",
+                  "text": "Der Hertenkamp in Zeist ist ein Damwildgehege, in dem Hirsche frei herumlaufen.",
                   "category": "family",
                   "coords": [
                         5.254756,
@@ -26539,7 +26539,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Die Kinderboerderij \"Dier en Wij\" ist ein gemeinschaftlicher Streichelzoo in Zeist.",
+                  "text": "Der Kinderbauernhof 'Dier en Wij' in Zeist hat Ziegen, Schafe und einen Gemüsegarten zum Mitmachen.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -26550,7 +26550,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hertenkamp",
-                  "text": "Szarvaskert Zeist városában.",
+                  "text": "A zeisti Hertenkamp egy dámvadas kert, ahol szarvasok szabadon kóborolnak.",
                   "category": "family",
                   "coords": [
                         5.254756,
@@ -26631,7 +26631,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "A Kinderboerderij \"Dier en Wij\" egy közösségi állatsimogató Zeistben.",
+                  "text": "A zeisti 'Dier en Wij' gyermekfarm kecskékkel, birkákkal és közösségi zöldségeskerttel várja a látogatókat.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -26642,7 +26642,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hertenkamp",
-                  "text": "Un parc cu căprioare în Zeist.",
+                  "text": "Hertenkamp din Zeist este un parc cu cerb lopătar, unde căprioarele umblă libere.",
                   "category": "family",
                   "coords": [
                         5.254756,
@@ -26723,7 +26723,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Kinderboerderij \"Dier en Wij\" este o grădină zoologică comunitară situată în Zeist.",
+                  "text": "Ferma pentru copii 'Dier en Wij' din Zeist are capre, oi și o grădină de legume participativă.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -26734,7 +26734,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hertenkamp",
-                  "text": "A deer park in Zeist.",
+                  "text": "Hertenkamp in Zeist is a deer park with fallow deer roaming freely.",
                   "category": "family",
                   "coords": [
                         5.254756,
@@ -26815,7 +26815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Kinderboerderij \"Dier en Wij\" is a community petting zoo located in Zeist.",
+                  "text": "Children's farm 'Dier en Wij' in Zeist has goats, sheep, and a community vegetable garden.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -28357,7 +28357,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tuintjes",
-                  "text": "Ruhiges Naturgebiet in Den Helder, ideal für Spaziergänge.",
+                  "text": "De Tuintjes in Den Helder sind eine Reihe kleiner öffentlicher Gärten mit Blumenbeeten und Sitzbänken.",
                   "category": "natural",
                   "coords": [
                         4.734298,
@@ -28375,7 +28375,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donkere Duinen",
-                  "text": "Bewaldetes Parkgebiet in den Dünen von Den Helder.",
+                  "text": "Die Donkere Duinen in Den Helder sind ein Dünenpark mit dunklem Sand und Wanderwegen.",
                   "category": "park",
                   "coords": [
                         4.72669,
@@ -28492,7 +28492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepswrak Pinas",
-                  "text": "Überreste eines historischen Schiffswracks in Den Helder.",
+                  "text": "Das gestrandete Wrack der Pinas am Strand von Den Helder.",
                   "category": "landmark",
                   "coords": [
                         4.768335,
@@ -28510,7 +28510,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Helderse Vallei",
-                  "text": "Ein Naturzentrum und Tierpark in Den Helder.",
+                  "text": "Der Helderse Vallei ist ein Familienpark mit Streichelzoo und Spielplatz in Den Helder.",
                   "category": "family",
                   "coords": [
                         4.732045,
@@ -28638,7 +28638,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tuintjes",
-                  "text": "Csendes természetvédelmi terület Den Helderben, ideális sétákhoz.",
+                  "text": "A den helderi De Tuintjes kis nyilvános kertek sorozata virágágyásokkal és padokkal.",
                   "category": "natural",
                   "coords": [
                         4.734298,
@@ -28656,7 +28656,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donkere Duinen",
-                  "text": "Erdős parkos terület Den Helder dűnéi között.",
+                  "text": "A den helderi Donkere Duinen egy dűnepark sötét homokkal és túraútvonalakkal.",
                   "category": "park",
                   "coords": [
                         4.72669,
@@ -28773,7 +28773,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepswrak Pinas",
-                  "text": "Egy történelmi hajóroncs maradványai Den Helderben.",
+                  "text": "A Pinas hajóroncs a den helderi strandon.",
                   "category": "landmark",
                   "coords": [
                         4.768335,
@@ -28791,7 +28791,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Helderse Vallei",
-                  "text": "Természetvédelmi központ és állatpark Den Helder városában.",
+                  "text": "A Helderse Vallei egy családi park állatsimogatóval és játszótérrel Den Helderben.",
                   "category": "family",
                   "coords": [
                         4.732045,
@@ -28919,7 +28919,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tuintjes",
-                  "text": "Zonă naturală liniștită în Den Helder, ideală pentru plimbări.",
+                  "text": "De Tuintjes din Den Helder este o serie de grădini publice mici cu paturi de flori și bănci.",
                   "category": "natural",
                   "coords": [
                         4.734298,
@@ -28937,7 +28937,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donkere Duinen",
-                  "text": "Zonă de parc împădurită în dunele din Den Helder.",
+                  "text": "Donkere Duinen din Den Helder este un parc de dune cu nisip întunecat și trasee de drumeție.",
                   "category": "park",
                   "coords": [
                         4.72669,
@@ -29054,7 +29054,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepswrak Pinas",
-                  "text": "Rămășițele unei epave istorice în Den Helder.",
+                  "text": "Epava Pinas eșuată pe plaja din Den Helder.",
                   "category": "landmark",
                   "coords": [
                         4.768335,
@@ -29072,7 +29072,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Helderse Vallei",
-                  "text": "Un centru de natură și parc de animale în Den Helder.",
+                  "text": "Helderse Vallei este un parc de familie cu o grădină zoologică și un loc de joacă în Den Helder.",
                   "category": "family",
                   "coords": [
                         4.732045,
@@ -29200,7 +29200,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Tuintjes",
-                  "text": "Quiet nature area in Den Helder, ideal for walks.",
+                  "text": "De Tuintjes in Den Helder are a series of small public gardens with flower beds and benches.",
                   "category": "natural",
                   "coords": [
                         4.734298,
@@ -29218,7 +29218,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donkere Duinen",
-                  "text": "Forested park area in the dunes of Den Helder.",
+                  "text": "Donkere Duinen in Den Helder is a dune park with dark sand and hiking trails.",
                   "category": "park",
                   "coords": [
                         4.72669,
@@ -29335,7 +29335,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Scheepswrak Pinas",
-                  "text": "Remains of a historic shipwreck in Den Helder.",
+                  "text": "The stranded shipwreck Pinas on the beach of Den Helder.",
                   "category": "landmark",
                   "coords": [
                         4.768335,
@@ -29353,7 +29353,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Helderse Vallei",
-                  "text": "A nature center and animal park in Den Helder.",
+                  "text": "De Helderse Vallei is a family park with a petting zoo and playground in Den Helder.",
                   "category": "family",
                   "coords": [
                         4.732045,
@@ -29608,7 +29608,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Harderstrand Noord",
-                  "text": "Harderstrand Noord bei Harderwijk.",
+                  "text": "Der nördliche Sandstrand von Harderwijk am Veluwemeer.",
                   "category": "recreational",
                   "coords": [
                         5.64105,
@@ -29617,7 +29617,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harderstrand Zuid",
-                  "text": "Harderstrand Zuid bei Harderwijk.",
+                  "text": "Der südliche Sandstrand von Harderwijk am Veluwemeer.",
                   "category": "recreational",
                   "coords": [
                         5.62316,
@@ -29707,7 +29707,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rietgorsstrand",
-                  "text": "Ein ruhiger Erholungsstrand am Rande von Harderwijk.",
+                  "text": "Der Rietgorsstrand ist ein vogelreicher Schilfstrand am Veluwemeer bei Harderwijk.",
                   "category": "recreational",
                   "coords": [
                         5.595656,
@@ -29806,7 +29806,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Waterpret",
-                  "text": "Eine Wasserattraktion für Familienspaß in Harderwijk.",
+                  "text": "Waterpret ist ein Wasserspielbrunnen im Zentrum von Harderwijk.",
                   "category": "landmark",
                   "coords": [
                         5.614986,
@@ -29815,7 +29815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Muziekpodium Estrado",
-                  "text": "Ein lokales Kulturzentrum und Veranstaltungsort für Musik in Harderwijk.",
+                  "text": "Muziekpodium Estrado ist ein Konzertsaal und Musikbühne in Harderwijk.",
                   "category": "cultural",
                   "coords": [
                         5.628562,
@@ -29925,7 +29925,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Harderstrand Noord",
-                  "text": "Harderstrand Noord Harderwijk közelében.",
+                  "text": "A harderwijki északi homokos strand a Veluwemeer partján.",
                   "category": "recreational",
                   "coords": [
                         5.64105,
@@ -29934,7 +29934,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harderstrand Zuid",
-                  "text": "Harderstrand Zuid Harderwijk közelében.",
+                  "text": "A harderwijki déli homokos strand a Veluwemeer partján.",
                   "category": "recreational",
                   "coords": [
                         5.62316,
@@ -30024,7 +30024,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rietgorsstrand",
-                  "text": "Nyugodt pihenőstrand Harderwijk szélén.",
+                  "text": "A Rietgorsstrand egy madárfigyelő strand nádasokkal a Veluwemeer partján, Harderwijk közelében.",
                   "category": "recreational",
                   "coords": [
                         5.595656,
@@ -30123,7 +30123,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Waterpret",
-                  "text": "Családi szórakozást kínáló vízi attrakció Harderwijkben.",
+                  "text": "A Waterpret egy vízi játszó szökőkút Harderwijk központjában.",
                   "category": "landmark",
                   "coords": [
                         5.614986,
@@ -30132,7 +30132,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Muziekpodium Estrado",
-                  "text": "Helyi kulturális központ és zenei helyszín Harderwijkben.",
+                  "text": "A Muziekpodium Estrado egy koncertterem és zenés színpad Harderwijkben.",
                   "category": "cultural",
                   "coords": [
                         5.628562,
@@ -30242,7 +30242,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Harderstrand Noord",
-                  "text": "Harderstrand Noord lângă Harderwijk.",
+                  "text": "Plaja de nisip nordică a orașului Harderwijk pe Veluwemeer.",
                   "category": "recreational",
                   "coords": [
                         5.64105,
@@ -30251,7 +30251,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harderstrand Zuid",
-                  "text": "Harderstrand Zuid lângă Harderwijk.",
+                  "text": "Plaja de nisip sudică a orașului Harderwijk pe Veluwemeer.",
                   "category": "recreational",
                   "coords": [
                         5.62316,
@@ -30341,7 +30341,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rietgorsstrand",
-                  "text": "O plajă liniștită de recreere la marginea orașului Harderwijk.",
+                  "text": "Plaja Rietgorsstrand este o plajă cu stuf și observare a păsărilor pe Veluwemeer lângă Harderwijk.",
                   "category": "recreational",
                   "coords": [
                         5.595656,
@@ -30440,7 +30440,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Waterpret",
-                  "text": "O atracție acvatică pentru distracție în familie în Harderwijk.",
+                  "text": "Waterpret este o fântână arteziană cu apă de joacă în centrul orașului Harderwijk.",
                   "category": "landmark",
                   "coords": [
                         5.614986,
@@ -30449,7 +30449,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Muziekpodium Estrado",
-                  "text": "Un centru cultural local și loc de desfășurare a evenimentelor muzicale în Harderwijk.",
+                  "text": "Muziekpodium Estrado este o sală de concerte și scenă muzicală în Harderwijk.",
                   "category": "cultural",
                   "coords": [
                         5.628562,
@@ -30559,7 +30559,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Harderstrand Noord",
-                  "text": "Harderstrand Noord near Harderwijk.",
+                  "text": "The northern sandy beach of Harderwijk on the Veluwemeer.",
                   "category": "recreational",
                   "coords": [
                         5.64105,
@@ -30568,7 +30568,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harderstrand Zuid",
-                  "text": "Harderstrand Zuid near Harderwijk.",
+                  "text": "The southern sandy beach of Harderwijk on the Veluwemeer.",
                   "category": "recreational",
                   "coords": [
                         5.62316,
@@ -30658,7 +30658,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rietgorsstrand",
-                  "text": "A quiet recreational beach on the edge of Harderwijk.",
+                  "text": "Rietgorsstrand is a bird-watching beach with reed beds on the Veluwemeer near Harderwijk.",
                   "category": "recreational",
                   "coords": [
                         5.595656,
@@ -30757,7 +30757,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Waterpret",
-                  "text": "A water attraction for family fun in Harderwijk.",
+                  "text": "Waterpret is a water play fountain in the center of Harderwijk.",
                   "category": "landmark",
                   "coords": [
                         5.614986,
@@ -30766,7 +30766,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Muziekpodium Estrado",
-                  "text": "A local arts centre and music venue in Harderwijk.",
+                  "text": "Muziekpodium Estrado is a concert hall and music stage in Harderwijk.",
                   "category": "cultural",
                   "coords": [
                         5.628562,
@@ -30922,7 +30922,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Stadsgehoorzaal Kampen",
-                  "text": "Historisches Stadttheater und Konzerthaus in Kampen.",
+                  "text": "Ein Konzertsaal im Zentrum von Kampen.",
                   "category": "cultural",
                   "coords": [
                         5.914318,
@@ -30949,7 +30949,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleinste huisje van Kampen",
-                  "text": "Ein winziges historisches Haus in Kampen, das als Museum erhalten ist.",
+                  "text": "Winziges Hausmuseum aus dem 17. Jahrhundert in Kampen.",
                   "category": "museum",
                   "coords": [
                         5.913648,
@@ -30958,7 +30958,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Reevediep",
-                  "text": "Naturschutzgebiet und Wasserweg bei Kampen.",
+                  "text": "Der Reevediep ist ein großer Baggersee, heute Naturschutzgebiet bei Kampen.",
                   "category": "natural",
                   "coords": [
                         5.908048,
@@ -31003,7 +31003,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Stadsboerderij",
-                  "text": "Museum in Kampen, das in einem historischen Stadtbauernhof untergebracht ist.",
+                  "text": "Museum Stadsboerderij zeigt die Stadtgeschichte in einem historischen Bauernhaus in Kampen.",
                   "category": "museum",
                   "coords": [
                         5.91434,
@@ -31129,7 +31129,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwendijkbrug",
-                  "text": "Eine lokale Brücke, die ein Gewässer in Kampen überspannt.",
+                  "text": "Zugbrücke über den Burgwal-Kanal in Kampen.",
                   "category": "landmark",
                   "coords": [
                         5.906847,
@@ -31140,7 +31140,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Stadsgehoorzaal Kampen",
-                  "text": "Kampen történelmi városházája és koncertterme.",
+                  "text": "Koncertterem Kampen központjában.",
                   "category": "cultural",
                   "coords": [
                         5.914318,
@@ -31167,7 +31167,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleinste huisje van Kampen",
-                  "text": "Egy apró történelmi ház Kampenben, amelyet múzeumként őriztek meg.",
+                  "text": "Apró 17. századi ház múzeum Kampenben.",
                   "category": "museum",
                   "coords": [
                         5.913648,
@@ -31176,7 +31176,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Reevediep",
-                  "text": "Természetvédelmi terület és vízi út Kampen közelében.",
+                  "text": "A Reevediep egy nagy, homokkitermelésből származó tó, ma természetvédelmi terület Kampen mellett.",
                   "category": "natural",
                   "coords": [
                         5.908048,
@@ -31221,7 +31221,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Stadsboerderij",
-                  "text": "Egy történelmi városi farmon kialakított múzeum Kampenben.",
+                  "text": "A Museum Stadsboerderij egy történelmi városi tanyán mutatja be Kampen történetét.",
                   "category": "museum",
                   "coords": [
                         5.91434,
@@ -31347,7 +31347,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwendijkbrug",
-                  "text": "Egy helyi híd, amely egy vízfelületet hidal át Kampenben.",
+                  "text": "Felvonóhíd a Burgwal-csatorna felett Kampenben.",
                   "category": "landmark",
                   "coords": [
                         5.906847,
@@ -31358,7 +31358,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Stadsgehoorzaal Kampen",
-                  "text": "Teatru municipal istoric și sală de concerte în Kampen.",
+                  "text": "O sală de concerte în centrul orașului Kampen.",
                   "category": "cultural",
                   "coords": [
                         5.914318,
@@ -31385,7 +31385,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleinste huisje van Kampen",
-                  "text": "O casă istorică minusculă din Kampen conservată ca muzeu.",
+                  "text": "Muzeu într-o casă minusculă din secolul XVII în Kampen.",
                   "category": "museum",
                   "coords": [
                         5.913648,
@@ -31394,7 +31394,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Reevediep",
-                  "text": "Rezervație naturală și cale navigabilă lângă Kampen.",
+                  "text": "Reevediep este un lac mare format prin extracția de nisip, acum rezervație naturală lângă Kampen.",
                   "category": "natural",
                   "coords": [
                         5.908048,
@@ -31439,7 +31439,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Stadsboerderij",
-                  "text": "Muzeu din Kampen amenajat într-o fermă urbană istorică.",
+                  "text": "Muzeul Stadsboerderii prezintă istoria orașului într-o fermă urbană istorică din Kampen.",
                   "category": "museum",
                   "coords": [
                         5.91434,
@@ -31565,7 +31565,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwendijkbrug",
-                  "text": "Un pod local care traversează o apă în Kampen.",
+                  "text": "Pod basculant peste canalul Burgwal în Kampen.",
                   "category": "landmark",
                   "coords": [
                         5.906847,
@@ -31576,7 +31576,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Stadsgehoorzaal Kampen",
-                  "text": "Historic municipal theatre and concert hall in Kampen.",
+                  "text": "A concert hall in the centre of Kampen.",
                   "category": "cultural",
                   "coords": [
                         5.914318,
@@ -31603,7 +31603,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kleinste huisje van Kampen",
-                  "text": "A tiny historic house in Kampen preserved as a museum.",
+                  "text": "Tiny 17th-century house museum in Kampen.",
                   "category": "museum",
                   "coords": [
                         5.913648,
@@ -31612,7 +31612,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Reevediep",
-                  "text": "Nature reserve and waterway near Kampen.",
+                  "text": "Reevediep is a large sand-extraction lake, now a nature reserve near Kampen.",
                   "category": "natural",
                   "coords": [
                         5.908048,
@@ -31657,7 +31657,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Stadsboerderij",
-                  "text": "Museum in Kampen housed in a historic city farm.",
+                  "text": "Museum Stadsboerderij displays local history in a historic city farmhouse in Kampen.",
                   "category": "museum",
                   "coords": [
                         5.91434,
@@ -31783,7 +31783,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nieuwendijkbrug",
-                  "text": "A local bridge spanning a body of water in Kampen.",
+                  "text": "Drawbridge over the Burgwal canal in Kampen.",
                   "category": "landmark",
                   "coords": [
                         5.906847,
@@ -31930,7 +31930,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oppenhuizerbrug",
-                  "text": "Eine funktionale Brücke in Sneek.",
+                  "text": "Zugbrücke über den Oppenhuizer Kanal nahe Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.666876,
@@ -31957,7 +31957,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harinxmabrug",
-                  "text": "Eine der Brücken in der Stadt Sneek.",
+                  "text": "Brücke über den Harinxmakanaal in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.663631,
@@ -31966,7 +31966,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dúvelsrak",
-                  "text": "Eine Brücke in Sneek, Teil der lokalen Infrastruktur.",
+                  "text": "Brücke über den Dúvelsrak-Kanal in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.647958,
@@ -31975,7 +31975,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woudvaartbrug",
-                  "text": "Eine Brücke in der Stadt Sneek.",
+                  "text": "Brücke über den Woudvaart-Kanal in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.662271,
@@ -31984,7 +31984,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westpolderbrêge",
-                  "text": "Eine lokale Brücke in Sneek.",
+                  "text": "Eine Brücke in Sneek über dem Wasser.",
                   "category": "landmark",
                   "coords": [
                         5.685781,
@@ -32094,7 +32094,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oppenhuizerbrug",
-                  "text": "Egy funkcionális híd Sneek városában.",
+                  "text": "Felvonóhíd az Oppenhuizer-csatorna felett Sneek közelében.",
                   "category": "landmark",
                   "coords": [
                         5.666876,
@@ -32121,7 +32121,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harinxmabrug",
-                  "text": "Sneek városának egyik hídja.",
+                  "text": "Híd a Harinxmakanaal felett Sneekben.",
                   "category": "landmark",
                   "coords": [
                         5.663631,
@@ -32130,7 +32130,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dúvelsrak",
-                  "text": "Egy híd Sneekben, a helyi infrastruktúra része.",
+                  "text": "Híd a Dúvelsrak-csatorna felett Sneekben.",
                   "category": "landmark",
                   "coords": [
                         5.647958,
@@ -32139,7 +32139,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woudvaartbrug",
-                  "text": "Egy híd Sneek városában.",
+                  "text": "Híd a Woudvaart-csatorna felett Sneekben.",
                   "category": "landmark",
                   "coords": [
                         5.662271,
@@ -32148,7 +32148,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westpolderbrêge",
-                  "text": "Egy helyi híd Sneekben.",
+                  "text": "Híd Sneekben a víz felett.",
                   "category": "landmark",
                   "coords": [
                         5.685781,
@@ -32258,7 +32258,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oppenhuizerbrug",
-                  "text": "Un pod funcțional în Sneek.",
+                  "text": "Pod basculant peste canalul Oppenhuizer lângă Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.666876,
@@ -32285,7 +32285,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harinxmabrug",
-                  "text": "Unul dintre podurile din orașul Sneek.",
+                  "text": "Pod peste Harinxmakanaal în Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.663631,
@@ -32294,7 +32294,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dúvelsrak",
-                  "text": "Un pod în Sneek, parte a infrastructurii locale.",
+                  "text": "Pod peste canalul Dúvelsrak în Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.647958,
@@ -32303,7 +32303,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woudvaartbrug",
-                  "text": "Un pod în orașul Sneek.",
+                  "text": "Pod peste canalul Woudvaart în Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.662271,
@@ -32312,7 +32312,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westpolderbrêge",
-                  "text": "Un pod local în Sneek.",
+                  "text": "Un pod în Sneek peste apă.",
                   "category": "landmark",
                   "coords": [
                         5.685781,
@@ -32422,7 +32422,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oppenhuizerbrug",
-                  "text": "A functional bridge in the city of Sneek.",
+                  "text": "Drawbridge over the Oppenhuizer canal near Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.666876,
@@ -32449,7 +32449,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Harinxmabrug",
-                  "text": "One of the bridges in the city of Sneek.",
+                  "text": "Bridge over the Harinxmakanaal in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.663631,
@@ -32458,7 +32458,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dúvelsrak",
-                  "text": "A bridge in Sneek, part of the local infrastructure.",
+                  "text": "Bridge over the Dúvelsrak canal in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.647958,
@@ -32467,7 +32467,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woudvaartbrug",
-                  "text": "A bridge in the city of Sneek.",
+                  "text": "Bridge over the Woudvaart canal in Sneek.",
                   "category": "landmark",
                   "coords": [
                         5.662271,
@@ -32476,7 +32476,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westpolderbrêge",
-                  "text": "A local bridge in Sneek.",
+                  "text": "A bridge in Sneek over the water.",
                   "category": "landmark",
                   "coords": [
                         5.685781,
@@ -32551,7 +32551,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbergsche Bosschen",
-                  "text": "Ein Naturschutzgebiet mit Wäldern in der Nähe von Doetinchem.",
+                  "text": "Die Kruisbergsche Bosschen sind ein bewaldeter Hügel mit Wanderwegen bei Doetinchem.",
                   "category": "natural",
                   "coords": [
                         6.2675,
@@ -32623,7 +32623,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benninkmolen",
-                  "text": "Eine traditionelle niederländische Windmühle in Doetinchem.",
+                  "text": "Benninkmolen in Doetinchem, eine Mühle aus dem Jahr 1870.",
                   "category": "landmark",
                   "coords": [
                         6.325836,
@@ -32706,7 +32706,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbergsche Bosschen",
-                  "text": "Erdős természetvédelmi terület Doetinchem közelében.",
+                  "text": "A Kruisbergsche Bosschen egy erdős domb túraútvonalakkal Doetinchem mellett.",
                   "category": "natural",
                   "coords": [
                         6.2675,
@@ -32778,7 +32778,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benninkmolen",
-                  "text": "Hagyományos holland szélmalom Doetinchemben.",
+                  "text": "Benninkmolen Doetinchemben, 1870-ből származó malom.",
                   "category": "landmark",
                   "coords": [
                         6.325836,
@@ -32861,7 +32861,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbergsche Bosschen",
-                  "text": "O rezervație naturală cu păduri în apropiere de Doetinchem.",
+                  "text": "Kruisbergsche Bosschen este o pădure deluroasă cu trasee de drumeție lângă Doetinchem.",
                   "category": "natural",
                   "coords": [
                         6.2675,
@@ -32933,7 +32933,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benninkmolen",
-                  "text": "O moară de vânt olandeză tradițională în Doetinchem.",
+                  "text": "Benninkmolen din Doetinchem, o moară din 1870.",
                   "category": "landmark",
                   "coords": [
                         6.325836,
@@ -33016,7 +33016,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kruisbergsche Bosschen",
-                  "text": "A nature reserve featuring woodlands near Doetinchem.",
+                  "text": "Kruisbergsche Bosschen is a forested hill with hiking trails near Doetinchem.",
                   "category": "natural",
                   "coords": [
                         6.2675,
@@ -33088,7 +33088,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Benninkmolen",
-                  "text": "A traditional Dutch windmill situated in Doetinchem.",
+                  "text": "Benninkmolen in Doetinchem, a mill dating from 1870.",
                   "category": "landmark",
                   "coords": [
                         6.325836,
@@ -33217,7 +33217,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Terneuzen",
-                  "text": "Ein familienfreundlicher Streichelzoo in Terneuzen.",
+                  "text": "Der Kinderbauernhof Terneuzen bietet Ziegen und Kaninchen zum Streicheln.",
                   "category": "family",
                   "coords": [
                         3.853133,
@@ -33244,7 +33244,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Artstudio Andrea Janssens",
-                  "text": "Ein lokales Kunststudio und Ausstellungsraum in Terneuzen.",
+                  "text": "Artstudio Andrea Janssens ist ein Arbeitsatelier der lokalen Malerin in Terneuzen.",
                   "category": "cultural",
                   "coords": [
                         3.82745,
@@ -33271,7 +33271,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Elimkerk",
-                  "text": "Ein Ort für Gottesdienste und Gemeinschaft in Terneuzen.",
+                  "text": "Kirche von 1977 in Terneuzen, Elimkerk.",
                   "category": "religious",
                   "coords": [
                         3.850713,
@@ -33381,7 +33381,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Terneuzen",
-                  "text": "Családbarát állatsimogató Terneuzen városában.",
+                  "text": "A Terneuzeni Gyermektanya kecskékkel és nyulakkal várja a simogatást.",
                   "category": "family",
                   "coords": [
                         3.853133,
@@ -33408,7 +33408,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Artstudio Andrea Janssens",
-                  "text": "Helyi művészeti stúdió és kiállítótér Terneuzenben.",
+                  "text": "Az Artstudio Andrea Janssens a helyi festőnő munkahelyi stúdiója Terneuzenben.",
                   "category": "cultural",
                   "coords": [
                         3.82745,
@@ -33435,7 +33435,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Elimkerk",
-                  "text": "Istentiszteletek és közösségi élet helyszíne Terneuzenben.",
+                  "text": "1977-ben épült templom Terneuzenben, Elimkerk.",
                   "category": "religious",
                   "coords": [
                         3.850713,
@@ -33545,7 +33545,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Terneuzen",
-                  "text": "O grădină zoologică pentru copii, potrivită pentru familii, în Terneuzen.",
+                  "text": "Ferma pentru copii din Terneuzen are capre și iepuri de mângâiat.",
                   "category": "family",
                   "coords": [
                         3.853133,
@@ -33572,7 +33572,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Artstudio Andrea Janssens",
-                  "text": "Un studio de artă local și spațiu de expoziție în Terneuzen.",
+                  "text": "Artstudio Andrea Janssens este atelierul de lucru al pictoriței locale din Terneuzen.",
                   "category": "cultural",
                   "coords": [
                         3.82745,
@@ -33599,7 +33599,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Elimkerk",
-                  "text": "Un loc pentru slujbe religioase și comunitate în Terneuzen.",
+                  "text": "Biserică construită în 1977 în Terneuzen, Elimkerk.",
                   "category": "religious",
                   "coords": [
                         3.850713,
@@ -33709,7 +33709,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Terneuzen",
-                  "text": "A family-friendly petting zoo in Terneuzen.",
+                  "text": "Kinderboerderij Terneuzen offers goats and rabbits to pet.",
                   "category": "family",
                   "coords": [
                         3.853133,
@@ -33736,7 +33736,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Artstudio Andrea Janssens",
-                  "text": "A local art studio and exhibition space in Terneuzen.",
+                  "text": "Artstudio Andrea Janssens is a working studio of local painter Andrea Janssens in Terneuzen.",
                   "category": "cultural",
                   "coords": [
                         3.82745,
@@ -33763,7 +33763,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Elimkerk",
-                  "text": "A place for worship and community in Terneuzen.",
+                  "text": "Church built in 1977 in Terneuzen, Elimkerk.",
                   "category": "religious",
                   "coords": [
                         3.850713,
@@ -33920,7 +33920,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Drachten",
-                  "text": "Ein Museum für moderne Kunst in Drachten.",
+                  "text": "Das Museum in Drachten zeigt moderne und zeitgenössische Kunst.",
                   "category": "museum",
                   "coords": [
                         6.097541,
@@ -33929,7 +33929,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lawei",
-                  "text": "Ein bekanntes Theater- und Kulturzentrum in Drachten.",
+                  "text": "De Lawei ist ein Theater- und Kulturzentrum in Drachten.",
                   "category": "cultural",
                   "coords": [
                         6.097494,
@@ -33938,7 +33938,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Peinder Mieden",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Drachten.",
+                  "text": "Die Peinder Mieden sind ein Naturschutzgebiet mit Feuchtwiesen und Vogelhabitaten bei Drachten.",
                   "category": "natural",
                   "coords": [
                         6.062761,
@@ -33947,7 +33947,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stichting Dierenparkje de Wiken",
-                  "text": "Ein kleiner Tierpark für Besucher in Drachten.",
+                  "text": "Das Dierenparkje de Wiken ist ein kleiner Tierpark mit heimischen Arten in Drachten.",
                   "category": "family",
                   "coords": [
                         6.117187,
@@ -33956,7 +33956,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Thalenpark",
-                  "text": "Ein öffentlicher Park im Zentrum von Drachten.",
+                  "text": "Ein Park im Zentrum von Drachten.",
                   "category": "park",
                   "coords": [
                         6.092635,
@@ -33974,7 +33974,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Naturij",
-                  "text": "Ein Freizeitzentrum und Park in Drachten.",
+                  "text": "De Naturij ist ein interaktives Naturerlebniszentrum in Drachten.",
                   "category": "landmark",
                   "coords": [
                         6.072778,
@@ -33983,7 +33983,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Blotevoetenpad",
-                  "text": "Ein Barfußpfad für Naturerlebnisse in Drachten.",
+                  "text": "Der Barfußpfad in Drachten führt über verschiedene natürliche Untergründe.",
                   "category": "landmark",
                   "coords": [
                         6.089969,
@@ -34019,7 +34019,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Die Hauptkirche von Drachten, ein historisches Bauwerk.",
+                  "text": "Die große protestantische Kirche im Zentrum von Drachten.",
                   "category": "religious",
                   "coords": [
                         6.10086,
@@ -34093,7 +34093,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Drachten",
-                  "text": "Modern művészeti múzeum Drachtenben.",
+                  "text": "A drachteni múzeum modern és kortárs művészetet mutat be.",
                   "category": "museum",
                   "coords": [
                         6.097541,
@@ -34102,7 +34102,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lawei",
-                  "text": "Ismert színház és kulturális központ Drachtenben.",
+                  "text": "A De Lawei egy színház és kulturális központ Drachtenben.",
                   "category": "cultural",
                   "coords": [
                         6.097494,
@@ -34111,7 +34111,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Peinder Mieden",
-                  "text": "Természetvédelmi terület Drachten közelében.",
+                  "text": "A Peinder Mieden egy nedves rétekkel és madárélőhelyekkel teli természetvédelmi terület Drachten mellett.",
                   "category": "natural",
                   "coords": [
                         6.062761,
@@ -34120,7 +34120,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stichting Dierenparkje de Wiken",
-                  "text": "Egy kis állatpark látogatók számára Drachtenben.",
+                  "text": "A Wiken Állatkert egy kis állatkert őshonos fajokkal Drachtenben.",
                   "category": "family",
                   "coords": [
                         6.117187,
@@ -34129,7 +34129,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Thalenpark",
-                  "text": "Nyilvános park Drachten központjában.",
+                  "text": "Park Drachten központjában.",
                   "category": "park",
                   "coords": [
                         6.092635,
@@ -34147,7 +34147,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Naturij",
-                  "text": "Szabadidős központ és park Drachtenben.",
+                  "text": "A De Naturij egy interaktív természetélmény-központ Drachtenben.",
                   "category": "landmark",
                   "coords": [
                         6.072778,
@@ -34156,7 +34156,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Blotevoetenpad",
-                  "text": "Mezítlábas ösvény a természet megtapasztalásához Drachtenben.",
+                  "text": "A drachteni mezítlábas ösvény különböző természetes felületeken halad át.",
                   "category": "landmark",
                   "coords": [
                         6.089969,
@@ -34192,7 +34192,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Drachten főtemploma, egy történelmi épület.",
+                  "text": "A nagy protestáns templom Drachten központjában.",
                   "category": "religious",
                   "coords": [
                         6.10086,
@@ -34266,7 +34266,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Drachten",
-                  "text": "Un muzeu de artă modernă în Drachten.",
+                  "text": "Muzeul din Drachten expune artă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
                         6.097541,
@@ -34275,7 +34275,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lawei",
-                  "text": "Un cunoscut teatru și centru cultural din Drachten.",
+                  "text": "De Lawei este un teatru și centru cultural în Drachten.",
                   "category": "cultural",
                   "coords": [
                         6.097494,
@@ -34284,7 +34284,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Peinder Mieden",
-                  "text": "O rezervație naturală în apropiere de Drachten.",
+                  "text": "Peinder Mieden este o rezervație naturală cu pajiști umede și habitate de păsări lângă Drachten.",
                   "category": "natural",
                   "coords": [
                         6.062761,
@@ -34293,7 +34293,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stichting Dierenparkje de Wiken",
-                  "text": "Un mic parc zoologic pentru vizitatori în Drachten.",
+                  "text": "Dierenparkje de Wiken este o grădină zoologică mică cu specii native în Drachten.",
                   "category": "family",
                   "coords": [
                         6.117187,
@@ -34302,7 +34302,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Thalenpark",
-                  "text": "Un parc public în centrul orașului Drachten.",
+                  "text": "Un parc în centrul orașului Drachten.",
                   "category": "park",
                   "coords": [
                         6.092635,
@@ -34320,7 +34320,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Naturij",
-                  "text": "Un centru de recreere și parc în Drachten.",
+                  "text": "De Naturij este un centru interactiv de descoperire a naturii în Drachten.",
                   "category": "landmark",
                   "coords": [
                         6.072778,
@@ -34329,7 +34329,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Blotevoetenpad",
-                  "text": "O potecă desculță pentru experiențe în natură în Drachten.",
+                  "text": "Poteca desculțului din Drachten traversează diferite suprafețe naturale.",
                   "category": "landmark",
                   "coords": [
                         6.089969,
@@ -34365,7 +34365,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "Biserica principală din Drachten, o clădire istorică.",
+                  "text": "Marea biserică protestantă din centrul orașului Drachten.",
                   "category": "religious",
                   "coords": [
                         6.10086,
@@ -34439,7 +34439,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Drachten",
-                  "text": "A museum for modern art located in Drachten.",
+                  "text": "Museum in Drachten exhibiting modern and contemporary art.",
                   "category": "museum",
                   "coords": [
                         6.097541,
@@ -34448,7 +34448,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lawei",
-                  "text": "A well-known theatre and cultural centre in Drachten.",
+                  "text": "De Lawei is a theater and cultural center in Drachten.",
                   "category": "cultural",
                   "coords": [
                         6.097494,
@@ -34457,7 +34457,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Peinder Mieden",
-                  "text": "A nature reserve located near Drachten.",
+                  "text": "De Peinder Mieden is a nature reserve with wet meadows and bird habitats near Drachten.",
                   "category": "natural",
                   "coords": [
                         6.062761,
@@ -34466,7 +34466,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stichting Dierenparkje de Wiken",
-                  "text": "A small zoo for visitors in Drachten.",
+                  "text": "Stichting Dierenparkje de Wiken is a small animal park with native species in Drachten.",
                   "category": "family",
                   "coords": [
                         6.117187,
@@ -34475,7 +34475,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Thalenpark",
-                  "text": "A public park in the center of Drachten.",
+                  "text": "A park in the centre of Drachten.",
                   "category": "park",
                   "coords": [
                         6.092635,
@@ -34493,7 +34493,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Naturij",
-                  "text": "A recreation centre and park in Drachten.",
+                  "text": "De Naturij is an interactive nature discovery center in Drachten.",
                   "category": "landmark",
                   "coords": [
                         6.072778,
@@ -34502,7 +34502,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Blotevoetenpad",
-                  "text": "A barefoot path for nature experiences in Drachten.",
+                  "text": "The barefoot path in Drachten goes over different natural surfaces.",
                   "category": "landmark",
                   "coords": [
                         6.089969,
@@ -34538,7 +34538,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Grote Kerk",
-                  "text": "The main church of Drachten, a historical building.",
+                  "text": "The large Protestant church in the centre of Drachten.",
                   "category": "religious",
                   "coords": [
                         6.10086,
@@ -34649,7 +34649,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "De Tavenu",
-                  "text": "Ein Theater- und Kulturzentrum in Waalwijk.",
+                  "text": "De Tavenu ist ein Kulturzentrum mit Musik und Kunstausstellungen in Waalwijk.",
                   "category": "cultural",
                   "coords": [
                         5.072939,
@@ -34658,7 +34658,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier Winterdijk 30b",
-                  "text": "Ein Atelier und kleiner Theaterraum in Waalwijk.",
+                  "text": "Das Atelier Winterdijk 30b ist ein Künstleratelier in Waalwijk.",
                   "category": "cultural",
                   "coords": [
                         5.06499,
@@ -34676,7 +34676,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dye Sprancke",
-                  "text": "Eine historische Windmühle in Sprang-Capelle bei Waalwijk.",
+                  "text": "Eine große Holzskulptur im Zentrum von Waalwijk.",
                   "category": "landmark",
                   "coords": [
                         5.042813,
@@ -34820,7 +34820,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Olympia",
-                  "text": "Ein öffentliches Schwimmbad in Waalwijk.",
+                  "text": "Das Freibad Olympia in Waalwijk hat Rutschen und Becken.",
                   "category": "recreational",
                   "coords": [
                         5.095052,
@@ -34840,7 +34840,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "De Tavenu",
-                  "text": "Színház és kulturális központ Waalwijkben.",
+                  "text": "A De Tavenu egy kulturális központ zenével és művészeti kiállításokkal Waalwijkben.",
                   "category": "cultural",
                   "coords": [
                         5.072939,
@@ -34849,7 +34849,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier Winterdijk 30b",
-                  "text": "Műterem és kis színházi tér Waalwijkben.",
+                  "text": "A Winterdijk 30b Műterem egy művészeti stúdió Waalwijkben.",
                   "category": "cultural",
                   "coords": [
                         5.06499,
@@ -34867,7 +34867,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dye Sprancke",
-                  "text": "Történelmi szélmalom a Waalwijk közeli Sprang-Capellében.",
+                  "text": "Egy nagy faszobor Waalwijk központjában.",
                   "category": "landmark",
                   "coords": [
                         5.042813,
@@ -35011,7 +35011,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Olympia",
-                  "text": "Közösségi úszómedence Waalwijk városában.",
+                  "text": "A Waalwijki Olympia Szabadtéri Uszoda csúszdákkal és medencékkel vár.",
                   "category": "recreational",
                   "coords": [
                         5.095052,
@@ -35031,7 +35031,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "De Tavenu",
-                  "text": "Un teatru și centru cultural în Waalwijk.",
+                  "text": "De Tavenu este un centru cultural cu muzică și expoziții de artă în Waalwijk.",
                   "category": "cultural",
                   "coords": [
                         5.072939,
@@ -35040,7 +35040,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier Winterdijk 30b",
-                  "text": "Un atelier și spațiu de teatru mic în Waalwijk.",
+                  "text": "Atelier Winterdijk 30b este un studio de artist în Waalwijk.",
                   "category": "cultural",
                   "coords": [
                         5.06499,
@@ -35058,7 +35058,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dye Sprancke",
-                  "text": "O moară de vânt istorică în Sprang-Capelle, lângă Waalwijk.",
+                  "text": "O sculptură mare din lemn în centrul orașului Waalwijk.",
                   "category": "landmark",
                   "coords": [
                         5.042813,
@@ -35202,7 +35202,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Olympia",
-                  "text": "O piscină publică situată în Waalwijk.",
+                  "text": "Piscina în aer liber Olympia din Waalwijk are tobogane și bazine.",
                   "category": "recreational",
                   "coords": [
                         5.095052,
@@ -35222,7 +35222,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "De Tavenu",
-                  "text": "A theatre and cultural centre located in Waalwijk.",
+                  "text": "De Tavenu is a cultural venue with music and art exhibitions in Waalwijk.",
                   "category": "cultural",
                   "coords": [
                         5.072939,
@@ -35231,7 +35231,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier Winterdijk 30b",
-                  "text": "An atelier and small theatre space in Waalwijk.",
+                  "text": "Atelier Winterdijk 30b is an artist's studio in Waalwijk.",
                   "category": "cultural",
                   "coords": [
                         5.06499,
@@ -35249,7 +35249,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dye Sprancke",
-                  "text": "A historic windmill in Sprang-Capelle near Waalwijk.",
+                  "text": "A large wooden sculpture in the centre of Waalwijk.",
                   "category": "landmark",
                   "coords": [
                         5.042813,
@@ -35393,7 +35393,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad Olympia",
-                  "text": "A public swimming pool facility located in Waalwijk.",
+                  "text": "Zwembad Olympia is an outdoor swimming pool with slides in Waalwijk.",
                   "category": "recreational",
                   "coords": [
                         5.095052,
@@ -35495,7 +35495,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nijstad",
-                  "text": "Ein Bereich zum Schwimmen in Hoogeveen.",
+                  "text": "Nijstad ist ein Familienpark mit Spielplatz und Tieren in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.424779,
@@ -35504,7 +35504,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dolfijnenbad",
-                  "text": "Ein Schwimmbad für die ganze Familie in Hoogeveen.",
+                  "text": "Das Dolfijnenbad ist ein Familienbad mit Delfin-thematisiertem Spielbereich in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.491054,
@@ -35513,7 +35513,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Ein Hirschpark für einen Spaziergang in Hoogeveen.",
+                  "text": "Der Hertenkamp in Hoogeveen ist ein Damwildgehege.",
                   "category": "family",
                   "coords": [
                         6.494922,
@@ -35522,7 +35522,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "de Beestenbult",
-                  "text": "Ein Streichelzoo für Kinder in Hoogeveen.",
+                  "text": "De Beestenbult ist ein Kinderstreichelzoo mit Ziegen und Hühnern in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.444216,
@@ -35531,7 +35531,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijvers",
-                  "text": "Ein Schwimmbereich für Kinder in Hoogeveen.",
+                  "text": "Die Spartelvijvers sind flache Planschbecken für Kinder in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.456893,
@@ -35540,7 +35540,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Spaarbankhoeve",
-                  "text": "Ein kleiner Wildpark in Hoogeveen.",
+                  "text": "Der Hertenkamp Spaarbankhoeve vereint ein Damwildgehege mit einem historischen Bauernhof in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.465172,
@@ -35596,7 +35596,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nijstad",
-                  "text": "Úszásra alkalmas terület Hoogeveen városában.",
+                  "text": "A Nijstad egy családi park játszótérrel és állatokkal Hoogeveenben.",
                   "category": "family",
                   "coords": [
                         6.424779,
@@ -35605,7 +35605,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dolfijnenbad",
-                  "text": "Úszómedence az egész családnak Hoogeveen városában.",
+                  "text": "A Dolfijnenbad egy családi uszoda delfin tematikájú játszótérrel Hoogeveenben.",
                   "category": "family",
                   "coords": [
                         6.491054,
@@ -35614,7 +35614,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Szarvaskert egy sétához Hoogeveen városában.",
+                  "text": "A hoogeveeni Hertenkamp egy dámvadas kert.",
                   "category": "family",
                   "coords": [
                         6.494922,
@@ -35623,7 +35623,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "de Beestenbult",
-                  "text": "Állatsimogató gyerekeknek Hoogeveen városában.",
+                  "text": "A Beestenbult egy gyermek állatsimogató kecskékkel és csirkékkel Hoogeveenben.",
                   "category": "family",
                   "coords": [
                         6.444216,
@@ -35632,7 +35632,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijvers",
-                  "text": "Pancsolóhely gyerekeknek Hoogeveen városában.",
+                  "text": "A Spartelvijvers sekély pancsolómedencék gyerekeknek Hoogeveenben.",
                   "category": "family",
                   "coords": [
                         6.456893,
@@ -35641,7 +35641,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Spaarbankhoeve",
-                  "text": "Kis vadaspark Hoogeveen városában.",
+                  "text": "A Spaarbankhoeve Szarvaspark egy dámvadas kertet és egy történelmi tanyát egyesít Hoogeveenben.",
                   "category": "family",
                   "coords": [
                         6.465172,
@@ -35697,7 +35697,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nijstad",
-                  "text": "O zonă pentru înot în Hoogeveen.",
+                  "text": "Nijstad este un parc de familie cu loc de joacă și animale în Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.424779,
@@ -35706,7 +35706,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dolfijnenbad",
-                  "text": "O piscină pentru întreaga familie în Hoogeveen.",
+                  "text": "Dolfijnenbad este o piscină de familie cu zonă de joacă tematică delfini în Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.491054,
@@ -35715,7 +35715,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Un parc cu căprioare pentru o plimbare în Hoogeveen.",
+                  "text": "Parcul cu cerbi din Hoogeveen este o gospodărie de cerbi lopătari.",
                   "category": "family",
                   "coords": [
                         6.494922,
@@ -35724,7 +35724,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "de Beestenbult",
-                  "text": "O fermă de animale pentru copii în Hoogeveen.",
+                  "text": "De Beestenbult este o grădină zoologică pentru copii cu capre și găini în Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.444216,
@@ -35733,7 +35733,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijvers",
-                  "text": "O zonă de înot pentru copii în Hoogeveen.",
+                  "text": "Spartelvijvers sunt bazine de joacă puțin adânci pentru copii în Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.456893,
@@ -35742,7 +35742,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Spaarbankhoeve",
-                  "text": "Un mic parc de animale în Hoogeveen.",
+                  "text": "Hertenkamp Spaarbankhoeve combină un parc de cerbi cu o fermă istorică în Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.465172,
@@ -35798,7 +35798,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Nijstad",
-                  "text": "An area for swimming in Hoogeveen.",
+                  "text": "Nijstad is a family park with playground and animals in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.424779,
@@ -35807,7 +35807,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dolfijnenbad",
-                  "text": "A swimming pool for the whole family in Hoogeveen.",
+                  "text": "Dolfijnenbad is a family swimming pool with dolphin-themed play area in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.491054,
@@ -35816,7 +35816,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "A deer park for a walk in Hoogeveen.",
+                  "text": "Hertenkamp is a deer park with fallow deer in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.494922,
@@ -35825,7 +35825,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "de Beestenbult",
-                  "text": "A petting farm for children in Hoogeveen.",
+                  "text": "De Beestenbult is a children's petting zoo with goats and chickens in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.444216,
@@ -35834,7 +35834,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spartelvijvers",
-                  "text": "A swimming area for children in Hoogeveen.",
+                  "text": "Spartelvijvers are shallow splash ponds for children in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.456893,
@@ -35843,7 +35843,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Spaarbankhoeve",
-                  "text": "A small wildlife park in Hoogeveen.",
+                  "text": "Hertenkamp Spaarbankhoeve combines a deer park with a historic farm in Hoogeveen.",
                   "category": "family",
                   "coords": [
                         6.465172,
@@ -36152,7 +36152,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater De Bolle Kater",
-                  "text": "Ein lokales Theater in Tiel für kulturelle Aufführungen.",
+                  "text": "Theater De Bolle Kater bietet Comedy- und Musikveranstaltungen in Tiel.",
                   "category": "cultural",
                   "coords": [
                         5.439009,
@@ -36161,7 +36161,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agnietenhof",
-                  "text": "Ein modernes Theater und Kulturzentrum in Tiel.",
+                  "text": "Das Agnietenhof ist ein ehemaliges Kloster, heute Kulturzentrum in Tiel.",
                   "category": "cultural",
                   "coords": [
                         5.436108,
@@ -36170,7 +36170,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Tiel",
-                  "text": "Ein Hirschpark in Tiel, beliebt für Spaziergänge.",
+                  "text": "Der Hertenkamp Tiel liegt im Stadtpark der Stadt.",
                   "category": "family",
                   "coords": [
                         5.434939,
@@ -36188,7 +36188,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Soelen",
-                  "text": "Ein historisches Landgut und Parkgelände bei Tiel.",
+                  "text": "Landgoed Soelen ist ein historisches Anwesen mit Gärten und Wäldern bei Tiel.",
                   "category": "park",
                   "coords": [
                         5.391703,
@@ -36224,7 +36224,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Tiel",
-                  "text": "Eine Eisenbahnbrücke über die Waal bei Tiel.",
+                  "text": "Eine Eisenbahnbrücke in Tiel, eröffnet im Jahr 2007.",
                   "category": "landmark",
                   "coords": [
                         5.452997,
@@ -36289,7 +36289,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater De Bolle Kater",
-                  "text": "Helyi színház Tielben kulturális előadások számára.",
+                  "text": "A De Bolle Kater Színház komédiás és zenei eseményeknek ad otthont Tielben.",
                   "category": "cultural",
                   "coords": [
                         5.439009,
@@ -36298,7 +36298,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agnietenhof",
-                  "text": "Modern színház és kulturális központ Tielben.",
+                  "text": "Az Agnietenhof egy egykori kolostor, ma kulturális központ Tielben.",
                   "category": "cultural",
                   "coords": [
                         5.436108,
@@ -36307,7 +36307,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Tiel",
-                  "text": "Szarvaspark Tielben, kedvelt hely sétákhoz.",
+                  "text": "A Tieli Hertenkamp a városi parkban található.",
                   "category": "family",
                   "coords": [
                         5.434939,
@@ -36325,7 +36325,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Soelen",
-                  "text": "Történelmi birtok és parkerdő Tiel közelében.",
+                  "text": "A Soelen Birtok egy történelmi kastély kerttel és erdőkkel Tiel mellett.",
                   "category": "park",
                   "coords": [
                         5.391703,
@@ -36361,7 +36361,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Tiel",
-                  "text": "Vasúti híd a Waal folyó felett Tielnél.",
+                  "text": "Vasúti híd Tielben, 2007-ben nyílt meg.",
                   "category": "landmark",
                   "coords": [
                         5.452997,
@@ -36426,7 +36426,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater De Bolle Kater",
-                  "text": "Un teatru local în Tiel pentru spectacole culturale.",
+                  "text": "Teatrul De Bolle Kater organizează spectacole de comedie și muzică în Tiel.",
                   "category": "cultural",
                   "coords": [
                         5.439009,
@@ -36435,7 +36435,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agnietenhof",
-                  "text": "Un teatru modern și centru cultural în Tiel.",
+                  "text": "Agnietenhof este o fostă mănăstire, acum centru cultural în Tiel.",
                   "category": "cultural",
                   "coords": [
                         5.436108,
@@ -36444,7 +36444,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Tiel",
-                  "text": "Un parc cu cerbi în Tiel, popular pentru plimbări.",
+                  "text": "Parcul cu cerbi din Tiel este situat în parcul orașului.",
                   "category": "family",
                   "coords": [
                         5.434939,
@@ -36462,7 +36462,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Soelen",
-                  "text": "Un domeniu istoric și o zonă de parc lângă Tiel.",
+                  "text": "Landgoed Soelen este o proprietate istorică cu grădini și păduri lângă Tiel.",
                   "category": "park",
                   "coords": [
                         5.391703,
@@ -36498,7 +36498,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Tiel",
-                  "text": "Un pod feroviar peste râul Waal la Tiel.",
+                  "text": "Un pod feroviar în Tiel, deschis în 2007.",
                   "category": "landmark",
                   "coords": [
                         5.452997,
@@ -36563,7 +36563,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Theater De Bolle Kater",
-                  "text": "A local theatre in Tiel for cultural performances.",
+                  "text": "Theater De Bolle Kater hosts comedy and music performances in Tiel.",
                   "category": "cultural",
                   "coords": [
                         5.439009,
@@ -36572,7 +36572,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Agnietenhof",
-                  "text": "A modern theatre and cultural centre in Tiel.",
+                  "text": "Agnietenhof is a former monastery, now a cultural center in Tiel.",
                   "category": "cultural",
                   "coords": [
                         5.436108,
@@ -36581,7 +36581,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hertenkamp Tiel",
-                  "text": "A deer park in Tiel, popular for walks.",
+                  "text": "Hertenkamp Tiel is a deer park in the city park of Tiel.",
                   "category": "family",
                   "coords": [
                         5.434939,
@@ -36599,7 +36599,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Soelen",
-                  "text": "A historic estate and park area near Tiel.",
+                  "text": "Landgoed Soelen is a historic estate with gardens and woodlands near Tiel.",
                   "category": "park",
                   "coords": [
                         5.391703,
@@ -36635,7 +36635,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spoorbrug Tiel",
-                  "text": "A railway bridge spanning the Waal river at Tiel.",
+                  "text": "A railway bridge in Tiel, opened in 2007.",
                   "category": "landmark",
                   "coords": [
                         5.452997,
@@ -37880,7 +37880,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beeklust",
-                  "text": "Ein lokales Naturschutzgebiet mit Wanderwegen in Wierden.",
+                  "text": "Beeklust ist ein Bach-Tal-Naturschutzgebiet mit Spazierwegen in Wierden.",
                   "category": "natural",
                   "coords": [
                         6.638909,
@@ -37916,7 +37916,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad De Kolk",
-                  "text": "Das Zwembad De Kolk ist eine öffentliche Schwimmhalle in Wierden.",
+                  "text": "Das Hallenbad De Kolk in Wierden hat einen Whirlpool.",
                   "category": "recreational",
                   "coords": [
                         6.593848,
@@ -37925,7 +37925,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beheercentrum Het Lageveld",
-                  "text": "Das Beheercentrum Het Lageveld ist ein Wasserpark und Erholungsgebiet in Wierden.",
+                  "text": "Das Beheercentrum Het Lageveld ist das Besucherzentrum des Erholungsgebiets bei Wierden.",
                   "category": "recreational",
                   "coords": [
                         6.592722,
@@ -37954,7 +37954,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beeklust",
-                  "text": "Helyi természetvédelmi terület túraútvonalakkal Wierdenben.",
+                  "text": "A Beeklust egy patakvölgyi természetvédelmi terület sétányokkal Wierdenben.",
                   "category": "natural",
                   "coords": [
                         6.638909,
@@ -37990,7 +37990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad De Kolk",
-                  "text": "A Zwembad De Kolk egy nyilvános uszoda Wierden városában.",
+                  "text": "A Wierdeni De Kolk fedett uszodában pezsgőfürdő is található.",
                   "category": "recreational",
                   "coords": [
                         6.593848,
@@ -37999,7 +37999,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beheercentrum Het Lageveld",
-                  "text": "A Beheercentrum Het Lageveld egy vízipark és szabadidős terület Wierdenben.",
+                  "text": "A Het Lageveld Látogatóközpont a Wierden melletti üdülőterület információs központja.",
                   "category": "recreational",
                   "coords": [
                         6.592722,
@@ -38028,7 +38028,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beeklust",
-                  "text": "O rezervație naturală locală cu trasee de drumeție în Wierden.",
+                  "text": "Beeklust este o rezervație naturală de vale de pârâu cu poteci de mers în Wierden.",
                   "category": "natural",
                   "coords": [
                         6.638909,
@@ -38064,7 +38064,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad De Kolk",
-                  "text": "Zwembad De Kolk este o facilitate publică de înot din Wierden.",
+                  "text": "Piscina interioară De Kolk din Wierden are un jacuzzi.",
                   "category": "recreational",
                   "coords": [
                         6.593848,
@@ -38073,7 +38073,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beheercentrum Het Lageveld",
-                  "text": "Beheercentrum Het Lageveld este un parc acvatic și o zonă recreativă din Wierden.",
+                  "text": "Beheercentrum Het Lageveld este centrul de vizitare al zonei de agrement de lângă Wierden.",
                   "category": "recreational",
                   "coords": [
                         6.592722,
@@ -38102,7 +38102,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beeklust",
-                  "text": "A local nature reserve with walking paths in Wierden.",
+                  "text": "Beeklust is a stream valley nature reserve with walking paths in Wierden.",
                   "category": "natural",
                   "coords": [
                         6.638909,
@@ -38138,7 +38138,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwembad De Kolk",
-                  "text": "Zwembad De Kolk is a public swimming pool facility in Wierden.",
+                  "text": "Zwembad De Kolk is an indoor swimming pool with a whirlpool in Wierden.",
                   "category": "recreational",
                   "coords": [
                         6.593848,
@@ -38147,7 +38147,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beheercentrum Het Lageveld",
-                  "text": "Beheercentrum Het Lageveld is a water park and recreational area in Wierden.",
+                  "text": "Beheercentrum Het Lageveld is the visitor center for the Het Lageveld recreation area near Wierden.",
                   "category": "recreational",
                   "coords": [
                         6.592722,
@@ -38240,7 +38240,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kloosterplantsoen",
-                  "text": "Speeltuin Kloosterplantsoen in Ijsselstein ist eine schöne Anlage für Familien inmitten der Stadt.",
+                  "text": "Der Spielplatz im ehemaligen Klostergarten in IJsselstein.",
                   "category": "family",
                   "coords": [
                         5.047813,
@@ -38305,7 +38305,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kloosterplantsoen",
-                  "text": "Az ijsselsteini Speeltuin Kloosterplantsoen egy szép családi játszótér a város szívében.",
+                  "text": "Játszótér az egykori kolostorkertben IJsselsteinben.",
                   "category": "family",
                   "coords": [
                         5.047813,
@@ -38370,7 +38370,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kloosterplantsoen",
-                  "text": "Speeltuin Kloosterplantsoen din Ijsselstein este un spațiu frumos pentru familii în centrul orașului.",
+                  "text": "Un loc de joacă în fosta grădină a mănăstirii din IJsselstein.",
                   "category": "family",
                   "coords": [
                         5.047813,
@@ -38435,7 +38435,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Speeltuin Kloosterplantsoen",
-                  "text": "Speeltuin Kloosterplantsoen in Ijsselstein is a beautiful facility for families in the city.",
+                  "text": "A playground in the former monastery garden in IJsselstein.",
                   "category": "family",
                   "coords": [
                         5.047813,
@@ -39199,7 +39199,628 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-ommen-cities-v2.webp",
   },
   {
-    id: "netherlands-heerenveen-cities-v2", "sights": {"de": [{"name": "Museum Heerenveen", "text": "Ein Museum, das die lokale Geschichte von Heerenveen zeigt.", "category": "museum", "coords": [5.92587, 52.959961]}, {"name": "Crackstate", "text": "Ein ehemaliges Herrenhaus, das heute als Rathaus von Heerenveen dient.", "category": "castle", "coords": [5.921839, 52.961252]}, {"name": "Posthuis Theater", "text": "Ein lokales Theater für kulturelle Aufführungen in Heerenveen.", "category": "cultural", "coords": [5.920919, 52.960435]}, {"name": "Museum Belvédère", "text": "Ein Museum für moderne und zeitgenössische Kunst in Heerenveen.", "category": "museum", "coords": [5.964438, 52.957435]}, {"name": "Batavus Fietsmuseum", "text": "Das Batavus Fietsmuseum in Heerenveen ist eine einzigartige Einrichtung, die sich der Geschichte der berühmten niederländischen Fahrradmarke widmet. Museumsbesucher werden faszinierende Ausstellungsstücke entdecken, welche die Entwicklung und Bedeutung der Batavus-Fahrräder im Laufe der Zeit detailliert beschreiben.", "category": "museum", "coords": [5.947531, 52.934446]}, {"name": "Dierenparkje Ten Woude", "text": "Ein kleiner Zoo in Heerenveen.", "category": "family", "coords": [5.939068, 52.949993]}, {"name": "Tjepkemamolen", "text": "Eine historische Windmühle in Heerenveen.", "category": "landmark", "coords": [5.918568, 52.963558]}, {"name": "De Overtuin", "text": "Ein öffentlicher Park in Heerenveen.", "category": "park", "coords": [5.97009, 52.948001]}, {"name": "Ateliers Majeur De Rinkelbom", "text": "Ein Zentrum für Künste und Kultur in Heerenveen.", "category": "cultural", "coords": [5.916244, 52.949685]}, {"name": "Woutersberg", "text": "Ein Aussichtspunkt in der Nähe von Heerenveen.", "category": "natural", "coords": [5.959225, 52.938149]}, {"name": "Rotondekerk", "text": "Ein Ort für Gottesdienste in Heerenveen.", "category": "religious", "coords": [5.919386, 52.97854]}, {"name": "Sionskerk", "text": "Ein Kirchengebäude in Heerenveen.", "category": "religious", "coords": [5.952092, 52.935746]}, {"name": "Tsjûkemar", "text": "Das Tsjûkemar bei Heerenveen ist ein großer See, der für seine schöne Aussicht und Wassersport bekannt ist.", "category": "natural", "coords": [5.794978, 52.894526]}, {"name": "Meer Wille", "text": "Meer Wille in Heerenveen ist ein attraktiver Spielplatz, der Freude und Bewegung an die frische Luft bringt.", "category": "family", "coords": [5.949502, 52.966406]}, {"name": "Speeltuin De Greiden", "text": "Speeltuin De Greiden in Heerenveen bietet Kindern zahlreiche Möglichkeiten zum Klettern und Spielen.", "category": "family", "coords": [5.914159, 52.95158]}, {"name": "Westindiëplein", "text": "Das Westindiëplein in Heerenveen ist ein öffentlicher Ort mit Spielbereichen für die Nachbarschaft.", "category": "family", "coords": [5.928835, 52.950109]}, {"name": "Berne Wille", "text": "Berne Wille in Heerenveen ist ein freundlicher Spielplatz für Kinder jeder Altersgruppe.", "category": "family", "coords": [5.955055, 52.937366]}], "hu": [{"name": "Museum Heerenveen", "text": "Heerenveen helytörténetét bemutató múzeum.", "category": "museum", "coords": [5.92587, 52.959961]}, {"name": "Crackstate", "text": "Egy egykori udvarház, amely ma Heerenveen városházájaként szolgál.", "category": "castle", "coords": [5.921839, 52.961252]}, {"name": "Posthuis Theater", "text": "Helyi színház kulturális előadásokhoz Heerenveenben.", "category": "cultural", "coords": [5.920919, 52.960435]}, {"name": "Museum Belvédère", "text": "Modern és kortárs művészeti múzeum Heerenveenben.", "category": "museum", "coords": [5.964438, 52.957435]}, {"name": "Batavus Fietsmuseum", "text": "A heerenveeni Batavus Fietsmuseum egy egyedülálló intézmény, amely a híres holland kerékpármárka történetének szenteli magát. A múzeum látogatói lenyűgöző kiállításokat fedezhetnek fel, amelyek részletezik a Batavus kerékpárok időbeli fejlődését és hatását.", "category": "museum", "coords": [5.947531, 52.934446]}, {"name": "Dierenparkje Ten Woude", "text": "Egy kis állatkert Heerenveenben.", "category": "family", "coords": [5.939068, 52.949993]}, {"name": "Tjepkemamolen", "text": "Egy történelmi szélmalom Heerenveenben.", "category": "landmark", "coords": [5.918568, 52.963558]}, {"name": "De Overtuin", "text": "Nyilvános park Heerenveenben.", "category": "park", "coords": [5.97009, 52.948001]}, {"name": "Ateliers Majeur De Rinkelbom", "text": "Művészeti és kulturális központ Heerenveenben.", "category": "cultural", "coords": [5.916244, 52.949685]}, {"name": "Woutersberg", "text": "Kilátópont Heerenveen közelében.", "category": "natural", "coords": [5.959225, 52.938149]}, {"name": "Rotondekerk", "text": "Istentiszteleti hely Heerenveenben.", "category": "religious", "coords": [5.919386, 52.97854]}, {"name": "Sionskerk", "text": "Templomépület Heerenveenben.", "category": "religious", "coords": [5.952092, 52.935746]}, {"name": "Tsjûkemar", "text": "A Heerenveen melletti Tsjûkemar egy nagy tó, amely szép kilátásáról és vízi sportjairól ismert.", "category": "natural", "coords": [5.794978, 52.894526]}, {"name": "Meer Wille", "text": "A Heerenveen-i Meer Wille egy vonzó játszótér, amely vidámságot és mozgást kínál a friss levegőn.", "category": "family", "coords": [5.949502, 52.966406]}, {"name": "Speeltuin De Greiden", "text": "A Heerenveen-i Speeltuin De Greiden számos mászó- és játéklehetőséget kínál a gyerekeknek.", "category": "family", "coords": [5.914159, 52.95158]}, {"name": "Westindiëplein", "text": "A Heerenveen-i Westindiëplein egy közösségi tér játszóterületekkel a környékbeliek számára.", "category": "family", "coords": [5.928835, 52.950109]}, {"name": "Berne Wille", "text": "A Heerenveen-i Berne Wille egy barátságos játszótér minden korosztály számára.", "category": "family", "coords": [5.955055, 52.937366]}], "ro": [{"name": "Museum Heerenveen", "text": "Un muzeu care prezintă istoria locală din Heerenveen.", "category": "museum", "coords": [5.92587, 52.959961]}, {"name": "Crackstate", "text": "Un fost conac care servește astăzi drept primărie în Heerenveen.", "category": "castle", "coords": [5.921839, 52.961252]}, {"name": "Posthuis Theater", "text": "Un teatru local pentru spectacole culturale în Heerenveen.", "category": "cultural", "coords": [5.920919, 52.960435]}, {"name": "Museum Belvédère", "text": "Un muzeu de artă modernă și contemporană în Heerenveen.", "category": "museum", "coords": [5.964438, 52.957435]}, {"name": "Batavus Fietsmuseum", "text": "Batavus Fietsmuseum din Heerenveen este o instituție unică dedicată istoriei celebrei mărci olandeze de biciclete. Vizitatorii muzeului vor descoperi exponate fascinante care detaliază evoluția și impactul bicicletelor Batavus de-a lungul timpului.", "category": "museum", "coords": [5.947531, 52.934446]}, {"name": "Dierenparkje Ten Woude", "text": "O mică grădină zoologică în Heerenveen.", "category": "family", "coords": [5.939068, 52.949993]}, {"name": "Tjepkemamolen", "text": "O moară de vânt istorică în Heerenveen.", "category": "landmark", "coords": [5.918568, 52.963558]}, {"name": "De Overtuin", "text": "Un parc public în Heerenveen.", "category": "park", "coords": [5.97009, 52.948001]}, {"name": "Ateliers Majeur De Rinkelbom", "text": "Un centru pentru arte și cultură în Heerenveen.", "category": "cultural", "coords": [5.916244, 52.949685]}, {"name": "Woutersberg", "text": "Un punct de belvedere în apropiere de Heerenveen.", "category": "natural", "coords": [5.959225, 52.938149]}, {"name": "Rotondekerk", "text": "Un lăcaș de cult în Heerenveen.", "category": "religious", "coords": [5.919386, 52.97854]}, {"name": "Sionskerk", "text": "O clădire de biserică în Heerenveen.", "category": "religious", "coords": [5.952092, 52.935746]}, {"name": "Tsjûkemar", "text": "Tsjûkemar de lângă Heerenveen este un lac mare, cunoscut pentru priveliștile frumoase și sporturile nautice.", "category": "natural", "coords": [5.794978, 52.894526]}, {"name": "Meer Wille", "text": "Meer Wille din Heerenveen este un loc de joacă atractiv, care aduce bucurie și mișcare în aer liber.", "category": "family", "coords": [5.949502, 52.966406]}, {"name": "Speeltuin De Greiden", "text": "Speeltuin De Greiden din Heerenveen oferă copiilor numeroase posibilități de cățărare și joacă.", "category": "family", "coords": [5.914159, 52.95158]}, {"name": "Westindiëplein", "text": "Westindiëplein din Heerenveen este un spațiu public cu zone de joacă pentru comunitate.", "category": "family", "coords": [5.928835, 52.950109]}, {"name": "Berne Wille", "text": "Berne Wille din Heerenveen este un loc de joacă prietenos pentru copiii de toate vârstele.", "category": "family", "coords": [5.955055, 52.937366]}], "en": [{"name": "Museum Heerenveen", "text": "A museum showcasing the local history of Heerenveen.", "category": "museum", "coords": [5.92587, 52.959961]}, {"name": "Crackstate", "text": "A former manor house that now serves as Heerenveen's town hall.", "category": "castle", "coords": [5.921839, 52.961252]}, {"name": "Posthuis Theater", "text": "A local theatre for cultural performances in Heerenveen.", "category": "cultural", "coords": [5.920919, 52.960435]}, {"name": "Museum Belvédère", "text": "A museum for modern and contemporary art in Heerenveen.", "category": "museum", "coords": [5.964438, 52.957435]}, {"name": "Batavus Fietsmuseum", "text": "The Batavus Fietsmuseum in Heerenveen is a unique institution dedicated to the history of the famous Dutch bicycle brand. Museum visitors will discover fascinating exhibits detailing the evolution and impact of Batavus bicycles over time.", "category": "museum", "coords": [5.947531, 52.934446]}, {"name": "Dierenparkje Ten Woude", "text": "A small zoo in Heerenveen.", "category": "family", "coords": [5.939068, 52.949993]}, {"name": "Tjepkemamolen", "text": "A historic windmill in Heerenveen.", "category": "landmark", "coords": [5.918568, 52.963558]}, {"name": "De Overtuin", "text": "A public park in Heerenveen.", "category": "park", "coords": [5.97009, 52.948001]}, {"name": "Ateliers Majeur De Rinkelbom", "text": "A centre for arts and culture in Heerenveen.", "category": "cultural", "coords": [5.916244, 52.949685]}, {"name": "Woutersberg", "text": "A viewpoint located near Heerenveen.", "category": "natural", "coords": [5.959225, 52.938149]}, {"name": "Rotondekerk", "text": "A place of worship in Heerenveen.", "category": "religious", "coords": [5.919386, 52.97854]}, {"name": "Sionskerk", "text": "A church building in Heerenveen.", "category": "religious", "coords": [5.952092, 52.935746]}, {"name": "Tsjûkemar", "text": "Tsjûkemar near Heerenveen is a large lake known for its beautiful views and water sports.", "category": "natural", "coords": [5.794978, 52.894526]}, {"name": "Meer Wille", "text": "Meer Wille in Heerenveen is an attractive playground that brings joy and movement outdoors.", "category": "family", "coords": [5.949502, 52.966406]}, {"name": "Speeltuin De Greiden", "text": "Speeltuin De Greiden in Heerenveen offers many opportunities for children to climb and play.", "category": "family", "coords": [5.914159, 52.95158]}, {"name": "Westindiëplein", "text": "Westindiëplein in Heerenveen is a public space with play areas for the neighborhood.", "category": "family", "coords": [5.928835, 52.950109]}, {"name": "Berne Wille", "text": "Berne Wille in Heerenveen is a friendly playground suitable for children of all ages.", "category": "family", "coords": [5.955055, 52.937366]}]},
+    id: "netherlands-heerenveen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Heerenveen",
+                  "text": "Heimatmuseum von Heerenveen im Stadtzentrum.",
+                  "category": "museum",
+                  "coords": [
+                        5.92587,
+                        52.959961
+                  ]
+            },
+            {
+                  "name": "Crackstate",
+                  "text": "Ein ehemaliges Herrenhaus, das heute als Rathaus von Heerenveen dient.",
+                  "category": "castle",
+                  "coords": [
+                        5.921839,
+                        52.961252
+                  ]
+            },
+            {
+                  "name": "Posthuis Theater",
+                  "text": "Ein lokales Theater für kulturelle Aufführungen in Heerenveen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.920919,
+                        52.960435
+                  ]
+            },
+            {
+                  "name": "Museum Belvédère",
+                  "text": "Ein Museum für moderne und zeitgenössische Kunst in Heerenveen.",
+                  "category": "museum",
+                  "coords": [
+                        5.964438,
+                        52.957435
+                  ]
+            },
+            {
+                  "name": "Batavus Fietsmuseum",
+                  "text": "Das Batavus Fietsmuseum in Heerenveen ist eine einzigartige Einrichtung, die sich der Geschichte der berühmten niederländischen Fahrradmarke widmet. Museumsbesucher werden faszinierende Ausstellungsstücke entdecken, welche die Entwicklung und Bedeutung der Batavus-Fahrräder im Laufe der Zeit detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        5.947531,
+                        52.934446
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Ten Woude",
+                  "text": "Der kleine Tierpark Ten Woude in Heerenveen zeigt Bauernhoftiere.",
+                  "category": "family",
+                  "coords": [
+                        5.939068,
+                        52.949993
+                  ]
+            },
+            {
+                  "name": "Tjepkemamolen",
+                  "text": "Eine historische Windmühle in der Nähe von Heerenveen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918568,
+                        52.963558
+                  ]
+            },
+            {
+                  "name": "De Overtuin",
+                  "text": "Ein Park in Heerenveen.",
+                  "category": "park",
+                  "coords": [
+                        5.97009,
+                        52.948001
+                  ]
+            },
+            {
+                  "name": "Ateliers Majeur De Rinkelbom",
+                  "text": "Ateliers Majeur De Rinkelbom sind ein Kollektiv von Künstlerateliers in einer ehemaligen Schule in Heerenveen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.916244,
+                        52.949685
+                  ]
+            },
+            {
+                  "name": "Woutersberg",
+                  "text": "Der Woutersberg ist ein bewaldeter Hügel mit Aussicht bei Heerenveen.",
+                  "category": "natural",
+                  "coords": [
+                        5.959225,
+                        52.938149
+                  ]
+            },
+            {
+                  "name": "Rotondekerk",
+                  "text": "Eine runde Kirche in Heerenveen.",
+                  "category": "religious",
+                  "coords": [
+                        5.919386,
+                        52.97854
+                  ]
+            },
+            {
+                  "name": "Sionskerk",
+                  "text": "Die Sionskerk, eine protestantische Kirche in Heerenveen, erbaut 1954.",
+                  "category": "religious",
+                  "coords": [
+                        5.952092,
+                        52.935746
+                  ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "Das Tsjûkemar bei Heerenveen ist ein großer See, der für seine schöne Aussicht und Wassersport bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "Meer Wille in Heerenveen ist ein attraktiver Spielplatz, der Freude und Bewegung an die frische Luft bringt.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "Speeltuin De Greiden in Heerenveen bietet Kindern zahlreiche Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "Das Westindiëplein in Heerenveen ist ein öffentlicher Ort mit Spielbereichen für die Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "Berne Wille in Heerenveen ist ein freundlicher Spielplatz für Kinder jeder Altersgruppe.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Heerenveen",
+                  "text": "Heerenveen helytörténeti múzeuma a városközpontban.",
+                  "category": "museum",
+                  "coords": [
+                        5.92587,
+                        52.959961
+                  ]
+            },
+            {
+                  "name": "Crackstate",
+                  "text": "Egy egykori udvarház, amely ma Heerenveen városházájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        5.921839,
+                        52.961252
+                  ]
+            },
+            {
+                  "name": "Posthuis Theater",
+                  "text": "Helyi színház kulturális előadásokhoz Heerenveenben.",
+                  "category": "cultural",
+                  "coords": [
+                        5.920919,
+                        52.960435
+                  ]
+            },
+            {
+                  "name": "Museum Belvédère",
+                  "text": "Modern és kortárs művészeti múzeum Heerenveenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.964438,
+                        52.957435
+                  ]
+            },
+            {
+                  "name": "Batavus Fietsmuseum",
+                  "text": "A heerenveeni Batavus Fietsmuseum egy egyedülálló intézmény, amely a híres holland kerékpármárka történetének szenteli magát. A múzeum látogatói lenyűgöző kiállításokat fedezhetnek fel, amelyek részletezik a Batavus kerékpárok időbeli fejlődését és hatását.",
+                  "category": "museum",
+                  "coords": [
+                        5.947531,
+                        52.934446
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Ten Woude",
+                  "text": "A Heerenveeni Ten Woude Kisállatkert haszonállatokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        5.939068,
+                        52.949993
+                  ]
+            },
+            {
+                  "name": "Tjepkemamolen",
+                  "text": "Történelmi szélmalom Heerenveen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918568,
+                        52.963558
+                  ]
+            },
+            {
+                  "name": "De Overtuin",
+                  "text": "Park Heerenveenben.",
+                  "category": "park",
+                  "coords": [
+                        5.97009,
+                        52.948001
+                  ]
+            },
+            {
+                  "name": "Ateliers Majeur De Rinkelbom",
+                  "text": "A Rinkelbom Műtermek művészkollektíva egy egykori iskolaépületben Heerenveenben.",
+                  "category": "cultural",
+                  "coords": [
+                        5.916244,
+                        52.949685
+                  ]
+            },
+            {
+                  "name": "Woutersberg",
+                  "text": "A Woutersberg egy erdős domb kilátással Heerenveen mellett.",
+                  "category": "natural",
+                  "coords": [
+                        5.959225,
+                        52.938149
+                  ]
+            },
+            {
+                  "name": "Rotondekerk",
+                  "text": "Kerek templom Heerenveenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.919386,
+                        52.97854
+                  ]
+            },
+            {
+                  "name": "Sionskerk",
+                  "text": "A Sionskerk, egy protestáns templom Heerenveenben, 1954-ben épült.",
+                  "category": "religious",
+                  "coords": [
+                        5.952092,
+                        52.935746
+                  ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "A Heerenveen melletti Tsjûkemar egy nagy tó, amely szép kilátásáról és vízi sportjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "A Heerenveen-i Meer Wille egy vonzó játszótér, amely vidámságot és mozgást kínál a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "A Heerenveen-i Speeltuin De Greiden számos mászó- és játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "A Heerenveen-i Westindiëplein egy közösségi tér játszóterületekkel a környékbeliek számára.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "A Heerenveen-i Berne Wille egy barátságos játszótér minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Heerenveen",
+                  "text": "Muzeul de istorie locală din Heerenveen, situat în centrul orașului.",
+                  "category": "museum",
+                  "coords": [
+                        5.92587,
+                        52.959961
+                  ]
+            },
+            {
+                  "name": "Crackstate",
+                  "text": "Un fost conac care servește astăzi drept primărie în Heerenveen.",
+                  "category": "castle",
+                  "coords": [
+                        5.921839,
+                        52.961252
+                  ]
+            },
+            {
+                  "name": "Posthuis Theater",
+                  "text": "Un teatru local pentru spectacole culturale în Heerenveen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.920919,
+                        52.960435
+                  ]
+            },
+            {
+                  "name": "Museum Belvédère",
+                  "text": "Un muzeu de artă modernă și contemporană în Heerenveen.",
+                  "category": "museum",
+                  "coords": [
+                        5.964438,
+                        52.957435
+                  ]
+            },
+            {
+                  "name": "Batavus Fietsmuseum",
+                  "text": "Batavus Fietsmuseum din Heerenveen este o instituție unică dedicată istoriei celebrei mărci olandeze de biciclete. Vizitatorii muzeului vor descoperi exponate fascinante care detaliază evoluția și impactul bicicletelor Batavus de-a lungul timpului.",
+                  "category": "museum",
+                  "coords": [
+                        5.947531,
+                        52.934446
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Ten Woude",
+                  "text": "Grădina zoologică mică Ten Woude din Heerenveen prezintă animale de fermă.",
+                  "category": "family",
+                  "coords": [
+                        5.939068,
+                        52.949993
+                  ]
+            },
+            {
+                  "name": "Tjepkemamolen",
+                  "text": "O moară de vânt istorică lângă Heerenveen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918568,
+                        52.963558
+                  ]
+            },
+            {
+                  "name": "De Overtuin",
+                  "text": "Un parc în Heerenveen.",
+                  "category": "park",
+                  "coords": [
+                        5.97009,
+                        52.948001
+                  ]
+            },
+            {
+                  "name": "Ateliers Majeur De Rinkelbom",
+                  "text": "Atelierele Majeur De Rinkelbom sunt un colectiv de ateliere de artă într-o fostă școală din Heerenveen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.916244,
+                        52.949685
+                  ]
+            },
+            {
+                  "name": "Woutersberg",
+                  "text": "Woutersberg este o colină împădurită cu vedere panoramică lângă Heerenveen.",
+                  "category": "natural",
+                  "coords": [
+                        5.959225,
+                        52.938149
+                  ]
+            },
+            {
+                  "name": "Rotondekerk",
+                  "text": "O biserică rotundă în Heerenveen.",
+                  "category": "religious",
+                  "coords": [
+                        5.919386,
+                        52.97854
+                  ]
+            },
+            {
+                  "name": "Sionskerk",
+                  "text": "Biserica Sionskerk, o biserică protestantă din Heerenveen, construită în 1954.",
+                  "category": "religious",
+                  "coords": [
+                        5.952092,
+                        52.935746
+                  ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "Tsjûkemar de lângă Heerenveen este un lac mare, cunoscut pentru priveliștile frumoase și sporturile nautice.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "Meer Wille din Heerenveen este un loc de joacă atractiv, care aduce bucurie și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "Speeltuin De Greiden din Heerenveen oferă copiilor numeroase posibilități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "Westindiëplein din Heerenveen este un spațiu public cu zone de joacă pentru comunitate.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "Berne Wille din Heerenveen este un loc de joacă prietenos pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Heerenveen",
+                  "text": "Local history museum of Heerenveen located in the city centre.",
+                  "category": "museum",
+                  "coords": [
+                        5.92587,
+                        52.959961
+                  ]
+            },
+            {
+                  "name": "Crackstate",
+                  "text": "A former manor house that now serves as Heerenveen's town hall.",
+                  "category": "castle",
+                  "coords": [
+                        5.921839,
+                        52.961252
+                  ]
+            },
+            {
+                  "name": "Posthuis Theater",
+                  "text": "A local theatre for cultural performances in Heerenveen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.920919,
+                        52.960435
+                  ]
+            },
+            {
+                  "name": "Museum Belvédère",
+                  "text": "A museum for modern and contemporary art in Heerenveen.",
+                  "category": "museum",
+                  "coords": [
+                        5.964438,
+                        52.957435
+                  ]
+            },
+            {
+                  "name": "Batavus Fietsmuseum",
+                  "text": "The Batavus Fietsmuseum in Heerenveen is a unique institution dedicated to the history of the famous Dutch bicycle brand. Museum visitors will discover fascinating exhibits detailing the evolution and impact of Batavus bicycles over time.",
+                  "category": "museum",
+                  "coords": [
+                        5.947531,
+                        52.934446
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Ten Woude",
+                  "text": "Dierenparkje Ten Woude is a small animal park with farm animals in Heerenveen.",
+                  "category": "family",
+                  "coords": [
+                        5.939068,
+                        52.949993
+                  ]
+            },
+            {
+                  "name": "Tjepkemamolen",
+                  "text": "A historic windmill near Heerenveen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918568,
+                        52.963558
+                  ]
+            },
+            {
+                  "name": "De Overtuin",
+                  "text": "A park in Heerenveen.",
+                  "category": "park",
+                  "coords": [
+                        5.97009,
+                        52.948001
+                  ]
+            },
+            {
+                  "name": "Ateliers Majeur De Rinkelbom",
+                  "text": "Ateliers Majeur De Rinkelbom is a collective of art studios in a former school in Heerenveen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.916244,
+                        52.949685
+                  ]
+            },
+            {
+                  "name": "Woutersberg",
+                  "text": "Woutersberg is a wooded hill with panoramic views near Heerenveen.",
+                  "category": "natural",
+                  "coords": [
+                        5.959225,
+                        52.938149
+                  ]
+            },
+            {
+                  "name": "Rotondekerk",
+                  "text": "A round-shaped church in Heerenveen.",
+                  "category": "religious",
+                  "coords": [
+                        5.919386,
+                        52.97854
+                  ]
+            },
+            {
+                  "name": "Sionskerk",
+                  "text": "Sionskerk, a Protestant church in Heerenveen built in 1954.",
+                  "category": "religious",
+                  "coords": [
+                        5.952092,
+                        52.935746
+                  ]
+            },
+            {
+                  "name": "Tsjûkemar",
+                  "text": "Tsjûkemar near Heerenveen is a large lake known for its beautiful views and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        5.794978,
+                        52.894526
+                  ]
+            },
+            {
+                  "name": "Meer Wille",
+                  "text": "Meer Wille in Heerenveen is an attractive playground that brings joy and movement outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.949502,
+                        52.966406
+                  ]
+            },
+            {
+                  "name": "Speeltuin De Greiden",
+                  "text": "Speeltuin De Greiden in Heerenveen offers many opportunities for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        5.914159,
+                        52.95158
+                  ]
+            },
+            {
+                  "name": "Westindiëplein",
+                  "text": "Westindiëplein in Heerenveen is a public space with play areas for the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        5.928835,
+                        52.950109
+                  ]
+            },
+            {
+                  "name": "Berne Wille",
+                  "text": "Berne Wille in Heerenveen is a friendly playground suitable for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        5.955055,
+                        52.937366
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Heerenveen", hu: "Heerenveen", ro: "Heerenveen", en: "Heerenveen" },
@@ -39550,7 +40171,412 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-bodegraven-cities-v2.webp",
   },
   {
-    id: "netherlands-lochem-cities-v2", "sights": {"de": [{"name": "Kasteel Ampsen", "text": "Ein historisches Schloss und Landgut in der Nähe von Lochem.", "category": "castle", "coords": [6.423351, 52.172984]}, {"name": "Schouwburg", "text": "Das Stadttheater von Lochem mit verschiedenen Aufführungen.", "category": "cultural", "coords": [6.417715, 52.16012]}, {"name": "Jansstheater", "text": "Ein kleines Theater in Lochem für intime Kulturveranstaltungen.", "category": "cultural", "coords": [6.418538, 52.158023]}, {"name": "Openlucht theather", "text": "Ein Freilichttheater für sommerliche Veranstaltungen im Freien.", "category": "cultural", "coords": [6.411804, 52.152367]}, {"name": "Zwiepse Molen", "text": "Eine traditionelle Windmühle, die in der Nähe von Lochem besichtigt werden kann.", "category": "landmark", "coords": [6.44885, 52.148374]}, {"name": "Voortmanskoele", "text": "Voortmanskoele fungiert als majestätischer natürlicher Aussichtspunkt in der niederländischen Gemeinde Lochem. Von diesem erhöhten Punkt aus werden Ausflügler mit weiten, ununterbrochenen Ausblicken über die malerische regionale Landschaft belohnt.", "category": "natural", "coords": [6.432809, 52.146102]}, {"name": "Berkelzomp afvaart", "text": "Eine Anlegestelle für Bootsfahrten mit der traditionellen Berkelzomp.", "category": "landmark", "coords": [6.424307, 52.162269]}, {"name": "Exelsebrug", "text": "Eine lokale Brücke bei der Ortschaft Exel in der Gemeinde Lochem.", "category": "landmark", "coords": [6.394867, 52.166702]}, {"name": "Lochemsebrug", "text": "Eine Brücke, die eine wichtige Verbindung in Lochem darstellt.", "category": "landmark", "coords": [6.422008, 52.165305]}, {"name": "Nettelhorsterbrug", "text": "Eine Brücke über den Twentekanal in der Nähe von Lochem.", "category": "landmark", "coords": [6.430027, 52.165602]}, {"name": "Ampsense Knoop", "text": "Eine Brücke oder ein Verkehrsknotenpunkt in der Nähe des Schlosses Ampsen.", "category": "landmark", "coords": [6.422504, 52.166519]}], "hu": [{"name": "Kasteel Ampsen", "text": "Történelmi kastély és birtok Lochem közelében.", "category": "castle", "coords": [6.423351, 52.172984]}, {"name": "Schouwburg", "text": "Lochem városi színháza különféle előadásokkal.", "category": "cultural", "coords": [6.417715, 52.16012]}, {"name": "Jansstheater", "text": "Kis színház Lochemben meghitt kulturális eseményekhez.", "category": "cultural", "coords": [6.418538, 52.158023]}, {"name": "Openlucht theather", "text": "Szabadtéri színház nyári, szabadtéri rendezvényekhez.", "category": "cultural", "coords": [6.411804, 52.152367]}, {"name": "Zwiepse Molen", "text": "Hagyományos szélmalom, amely Lochem közelében látogatható.", "category": "landmark", "coords": [6.44885, 52.148374]}, {"name": "Voortmanskoele", "text": "A Voortmanskoele fenséges természetes kilátópontként szolgál a hollandiai Lochem településen. Ebből a megemelt pontból a kirándulókat széles, zavartalan kilátás fogadja a festői regionális tájra.", "category": "natural", "coords": [6.432809, 52.146102]}, {"name": "Berkelzomp afvaart", "text": "Hajóállomás a hagyományos Berkelzomp hajókirándulásokhoz.", "category": "landmark", "coords": [6.424307, 52.162269]}, {"name": "Exelsebrug", "text": "Helyi híd Exel falu közelében, Lochem községben.", "category": "landmark", "coords": [6.394867, 52.166702]}, {"name": "Lochemsebrug", "text": "Egy híd, amely fontos közlekedési kapcsolatot biztosít Lochemben.", "category": "landmark", "coords": [6.422008, 52.165305]}, {"name": "Nettelhorsterbrug", "text": "Híd a Twente-csatorna felett Lochem közelében.", "category": "landmark", "coords": [6.430027, 52.165602]}, {"name": "Ampsense Knoop", "text": "Híd vagy közlekedési csomópont az Ampsen-kastély közelében.", "category": "landmark", "coords": [6.422504, 52.166519]}], "ro": [{"name": "Kasteel Ampsen", "text": "Un castel istoric și o moșie lângă Lochem.", "category": "castle", "coords": [6.423351, 52.172984]}, {"name": "Schouwburg", "text": "Teatrul municipal din Lochem, cu diverse spectacole.", "category": "cultural", "coords": [6.417715, 52.16012]}, {"name": "Jansstheater", "text": "Un teatru mic din Lochem pentru evenimente culturale intime.", "category": "cultural", "coords": [6.418538, 52.158023]}, {"name": "Openlucht theather", "text": "Un teatru în aer liber pentru evenimente estivale în natură.", "category": "cultural", "coords": [6.411804, 52.152367]}, {"name": "Zwiepse Molen", "text": "O moară de vânt tradițională care poate fi vizitată lângă Lochem.", "category": "landmark", "coords": [6.44885, 52.148374]}, {"name": "Voortmanskoele", "text": "Voortmanskoele acționează ca un punct de belvedere natural maiestuos situat în municipalitatea olandeză Lochem. Din acest loc înalt, vizitatorii sunt tratați cu vederi largi, neîntrerupte asupra peisajului regional pitoresc.", "category": "natural", "coords": [6.432809, 52.146102]}, {"name": "Berkelzomp afvaart", "text": "Un debarcader pentru plimbări cu barca tradițională Berkelzomp.", "category": "landmark", "coords": [6.424307, 52.162269]}, {"name": "Exelsebrug", "text": "Un pod local lângă satul Exel, în comuna Lochem.", "category": "landmark", "coords": [6.394867, 52.166702]}, {"name": "Lochemsebrug", "text": "Un pod care reprezintă o legătură importantă în Lochem.", "category": "landmark", "coords": [6.422008, 52.165305]}, {"name": "Nettelhorsterbrug", "text": "Un pod peste canalul Twente în apropiere de Lochem.", "category": "landmark", "coords": [6.430027, 52.165602]}, {"name": "Ampsense Knoop", "text": "Un pod sau un nod de trafic în apropierea castelului Ampsen.", "category": "landmark", "coords": [6.422504, 52.166519]}], "en": [{"name": "Kasteel Ampsen", "text": "A historic castle and estate near Lochem.", "category": "castle", "coords": [6.423351, 52.172984]}, {"name": "Schouwburg", "text": "The municipal theatre of Lochem featuring various performances.", "category": "cultural", "coords": [6.417715, 52.16012]}, {"name": "Jansstheater", "text": "A small theatre in Lochem for intimate cultural events.", "category": "cultural", "coords": [6.418538, 52.158023]}, {"name": "Openlucht theather", "text": "An open-air theatre for summer outdoor events.", "category": "cultural", "coords": [6.411804, 52.152367]}, {"name": "Zwiepse Molen", "text": "A traditional windmill that can be visited near Lochem.", "category": "landmark", "coords": [6.44885, 52.148374]}, {"name": "Voortmanskoele", "text": "Voortmanskoele acts as a majestic natural viewpoint situated in the Dutch municipality of Lochem. From this elevated spot, sightseers are treated to broad, uninterrupted views across the picturesque regional landscape.", "category": "natural", "coords": [6.432809, 52.146102]}, {"name": "Berkelzomp afvaart", "text": "A departure point for boat trips on the traditional Berkelzomp boat.", "category": "landmark", "coords": [6.424307, 52.162269]}, {"name": "Exelsebrug", "text": "A local bridge near the village of Exel in the Lochem municipality.", "category": "landmark", "coords": [6.394867, 52.166702]}, {"name": "Lochemsebrug", "text": "A bridge serving as an important connection in Lochem.", "category": "landmark", "coords": [6.422008, 52.165305]}, {"name": "Nettelhorsterbrug", "text": "A bridge over the Twentekanal near Lochem.", "category": "landmark", "coords": [6.430027, 52.165602]}, {"name": "Ampsense Knoop", "text": "A bridge or traffic junction located near Ampsen Castle.", "category": "landmark", "coords": [6.422504, 52.166519]}]},
+    id: "netherlands-lochem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasteel Ampsen",
+                  "text": "Eine mittelalterliche Burg mit Wassergraben in Lochem.",
+                  "category": "castle",
+                  "coords": [
+                        6.423351,
+                        52.172984
+                  ]
+            },
+            {
+                  "name": "Schouwburg",
+                  "text": "Das Stadttheater von Lochem mit verschiedenen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.417715,
+                        52.16012
+                  ]
+            },
+            {
+                  "name": "Jansstheater",
+                  "text": "Ein kleines Theater in Lochem für intime Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418538,
+                        52.158023
+                  ]
+            },
+            {
+                  "name": "Openlucht theather",
+                  "text": "Das Openlucht Theater ist eine Freilichtbühne im Wald von Lochem.",
+                  "category": "cultural",
+                  "coords": [
+                        6.411804,
+                        52.152367
+                  ]
+            },
+            {
+                  "name": "Zwiepse Molen",
+                  "text": "Eine traditionelle Windmühle, die in der Nähe von Lochem besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        6.44885,
+                        52.148374
+                  ]
+            },
+            {
+                  "name": "Voortmanskoele",
+                  "text": "Voortmanskoele fungiert als majestätischer natürlicher Aussichtspunkt in der niederländischen Gemeinde Lochem. Von diesem erhöhten Punkt aus werden Ausflügler mit weiten, ununterbrochenen Ausblicken über die malerische regionale Landschaft belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        6.432809,
+                        52.146102
+                  ]
+            },
+            {
+                  "name": "Berkelzomp afvaart",
+                  "text": "Eine Anlegestelle für Bootsfahrten mit der traditionellen Berkelzomp.",
+                  "category": "landmark",
+                  "coords": [
+                        6.424307,
+                        52.162269
+                  ]
+            },
+            {
+                  "name": "Exelsebrug",
+                  "text": "Eine lokale Brücke bei der Ortschaft Exel in der Gemeinde Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.394867,
+                        52.166702
+                  ]
+            },
+            {
+                  "name": "Lochemsebrug",
+                  "text": "Eine Brücke in Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422008,
+                        52.165305
+                  ]
+            },
+            {
+                  "name": "Nettelhorsterbrug",
+                  "text": "Eine Fußgängerbrücke über die Berkel in Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.430027,
+                        52.165602
+                  ]
+            },
+            {
+                  "name": "Ampsense Knoop",
+                  "text": "Eine Brücke oder ein Verkehrsknotenpunkt in der Nähe des Schlosses Ampsen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422504,
+                        52.166519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasteel Ampsen",
+                  "text": "Egy középkori vár árokkal Lochemben.",
+                  "category": "castle",
+                  "coords": [
+                        6.423351,
+                        52.172984
+                  ]
+            },
+            {
+                  "name": "Schouwburg",
+                  "text": "Lochem városi színháza különféle előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        6.417715,
+                        52.16012
+                  ]
+            },
+            {
+                  "name": "Jansstheater",
+                  "text": "Kis színház Lochemben meghitt kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418538,
+                        52.158023
+                  ]
+            },
+            {
+                  "name": "Openlucht theather",
+                  "text": "A Szabadtéri Színház egy erdei színpad Lochemben.",
+                  "category": "cultural",
+                  "coords": [
+                        6.411804,
+                        52.152367
+                  ]
+            },
+            {
+                  "name": "Zwiepse Molen",
+                  "text": "Hagyományos szélmalom, amely Lochem közelében látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        6.44885,
+                        52.148374
+                  ]
+            },
+            {
+                  "name": "Voortmanskoele",
+                  "text": "A Voortmanskoele fenséges természetes kilátópontként szolgál a hollandiai Lochem településen. Ebből a megemelt pontból a kirándulókat széles, zavartalan kilátás fogadja a festői regionális tájra.",
+                  "category": "natural",
+                  "coords": [
+                        6.432809,
+                        52.146102
+                  ]
+            },
+            {
+                  "name": "Berkelzomp afvaart",
+                  "text": "Hajóállomás a hagyományos Berkelzomp hajókirándulásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        6.424307,
+                        52.162269
+                  ]
+            },
+            {
+                  "name": "Exelsebrug",
+                  "text": "Helyi híd Exel falu közelében, Lochem községben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.394867,
+                        52.166702
+                  ]
+            },
+            {
+                  "name": "Lochemsebrug",
+                  "text": "Híd Lochemben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422008,
+                        52.165305
+                  ]
+            },
+            {
+                  "name": "Nettelhorsterbrug",
+                  "text": "Gyalogoshíd a Berkel folyó fölött Lochemben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.430027,
+                        52.165602
+                  ]
+            },
+            {
+                  "name": "Ampsense Knoop",
+                  "text": "Híd vagy közlekedési csomópont az Ampsen-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422504,
+                        52.166519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasteel Ampsen",
+                  "text": "Un castel medieval cu șanț în Lochem.",
+                  "category": "castle",
+                  "coords": [
+                        6.423351,
+                        52.172984
+                  ]
+            },
+            {
+                  "name": "Schouwburg",
+                  "text": "Teatrul municipal din Lochem, cu diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        6.417715,
+                        52.16012
+                  ]
+            },
+            {
+                  "name": "Jansstheater",
+                  "text": "Un teatru mic din Lochem pentru evenimente culturale intime.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418538,
+                        52.158023
+                  ]
+            },
+            {
+                  "name": "Openlucht theather",
+                  "text": "Teatrul în aer liber este o scenă în pădurea din Lochem.",
+                  "category": "cultural",
+                  "coords": [
+                        6.411804,
+                        52.152367
+                  ]
+            },
+            {
+                  "name": "Zwiepse Molen",
+                  "text": "O moară de vânt tradițională care poate fi vizitată lângă Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.44885,
+                        52.148374
+                  ]
+            },
+            {
+                  "name": "Voortmanskoele",
+                  "text": "Voortmanskoele acționează ca un punct de belvedere natural maiestuos situat în municipalitatea olandeză Lochem. Din acest loc înalt, vizitatorii sunt tratați cu vederi largi, neîntrerupte asupra peisajului regional pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        6.432809,
+                        52.146102
+                  ]
+            },
+            {
+                  "name": "Berkelzomp afvaart",
+                  "text": "Un debarcader pentru plimbări cu barca tradițională Berkelzomp.",
+                  "category": "landmark",
+                  "coords": [
+                        6.424307,
+                        52.162269
+                  ]
+            },
+            {
+                  "name": "Exelsebrug",
+                  "text": "Un pod local lângă satul Exel, în comuna Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.394867,
+                        52.166702
+                  ]
+            },
+            {
+                  "name": "Lochemsebrug",
+                  "text": "Un pod în Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422008,
+                        52.165305
+                  ]
+            },
+            {
+                  "name": "Nettelhorsterbrug",
+                  "text": "Un pod pietonal peste râul Berkel în Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.430027,
+                        52.165602
+                  ]
+            },
+            {
+                  "name": "Ampsense Knoop",
+                  "text": "Un pod sau un nod de trafic în apropierea castelului Ampsen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422504,
+                        52.166519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasteel Ampsen",
+                  "text": "A medieval castle with a moat in Lochem.",
+                  "category": "castle",
+                  "coords": [
+                        6.423351,
+                        52.172984
+                  ]
+            },
+            {
+                  "name": "Schouwburg",
+                  "text": "The municipal theatre of Lochem featuring various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.417715,
+                        52.16012
+                  ]
+            },
+            {
+                  "name": "Jansstheater",
+                  "text": "A small theatre in Lochem for intimate cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418538,
+                        52.158023
+                  ]
+            },
+            {
+                  "name": "Openlucht theather",
+                  "text": "The open-air theater is an outdoor stage in the woods of Lochem.",
+                  "category": "cultural",
+                  "coords": [
+                        6.411804,
+                        52.152367
+                  ]
+            },
+            {
+                  "name": "Zwiepse Molen",
+                  "text": "A traditional windmill that can be visited near Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.44885,
+                        52.148374
+                  ]
+            },
+            {
+                  "name": "Voortmanskoele",
+                  "text": "Voortmanskoele acts as a majestic natural viewpoint situated in the Dutch municipality of Lochem. From this elevated spot, sightseers are treated to broad, uninterrupted views across the picturesque regional landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.432809,
+                        52.146102
+                  ]
+            },
+            {
+                  "name": "Berkelzomp afvaart",
+                  "text": "A departure point for boat trips on the traditional Berkelzomp boat.",
+                  "category": "landmark",
+                  "coords": [
+                        6.424307,
+                        52.162269
+                  ]
+            },
+            {
+                  "name": "Exelsebrug",
+                  "text": "A local bridge near the village of Exel in the Lochem municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        6.394867,
+                        52.166702
+                  ]
+            },
+            {
+                  "name": "Lochemsebrug",
+                  "text": "A bridge in Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422008,
+                        52.165305
+                  ]
+            },
+            {
+                  "name": "Nettelhorsterbrug",
+                  "text": "A footbridge over the Berkel river in Lochem.",
+                  "category": "landmark",
+                  "coords": [
+                        6.430027,
+                        52.165602
+                  ]
+            },
+            {
+                  "name": "Ampsense Knoop",
+                  "text": "A bridge or traffic junction located near Ampsen Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        6.422504,
+                        52.166519
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Lochem", hu: "Lochem", ro: "Lochem", en: "Lochem" },
@@ -39599,7 +40625,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kasteel Cannenburch",
-                  "text": "Ein Schloss aus dem 16. Jahrhundert, das als Museum in Vaassen dient.",
+                  "text": "Ein Schloss aus dem 16. Jahrhundert in Apeldoorn, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         5.965213,
@@ -39608,7 +40634,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vaassen Historie",
-                  "text": "Ein Museum zur lokalen Geschichte von Vaassen.",
+                  "text": "Vaassen Historie ist ein Heimatmuseum in Vaassen bei Apeldoorn.",
                   "category": "museum",
                   "coords": [
                         5.968596,
@@ -39617,7 +40643,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed de Cannenburch",
-                  "text": "Ein Naturgebiet rund um das Schloss Cannenburch.",
+                  "text": "Landgoed de Cannenburch ist ein historisches Anwesen mit Schloss und Gärten bei Apeldoorn.",
                   "category": "natural",
                   "coords": [
                         5.962841,
@@ -39626,7 +40652,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Korte Broek",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Vaassen.",
+                  "text": "Korte Broek ist ein kurzes Sumpfgebiet nördlich von Apeldoorn.",
                   "category": "natural",
                   "coords": [
                         5.949639,
@@ -39635,7 +40661,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Daams' Molen",
-                  "text": "Eine restaurierte Windmühle in Vaassen.",
+                  "text": "Eine historische Windmühle im Norden von Apeldoorn, früher zum Getreidemahlen genutzt.",
                   "category": "landmark",
                   "coords": [
                         5.970648,
@@ -39673,7 +40699,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kasteel Cannenburch",
-                  "text": "16. századi kastély, amely múzeumként működik Vaassenben.",
+                  "text": "16. századi kastély Apeldoornban, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         5.965213,
@@ -39682,7 +40708,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vaassen Historie",
-                  "text": "Vaassen helytörténeti múzeuma.",
+                  "text": "A Vaassen Historie egy helytörténeti múzeum Vaassenben, Apeldoorn közelében.",
                   "category": "museum",
                   "coords": [
                         5.968596,
@@ -39691,7 +40717,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed de Cannenburch",
-                  "text": "Természeti terület a Cannenburch-kastély körül.",
+                  "text": "A Cannenburch Birtok egy történelmi kastélybirtok kerttel Apeldoorn mellett.",
                   "category": "natural",
                   "coords": [
                         5.962841,
@@ -39700,7 +40726,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Korte Broek",
-                  "text": "Természetvédelmi terület Vaassen közelében.",
+                  "text": "A Korte Broek egy rövid mocsaras terület Apeldoorntól északra.",
                   "category": "natural",
                   "coords": [
                         5.949639,
@@ -39709,7 +40735,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Daams' Molen",
-                  "text": "Egy felújított szélmalom Vaassenben.",
+                  "text": "Történelmi szélmalom Apeldoorn északi részén, korábban gabonát őröltek benne.",
                   "category": "landmark",
                   "coords": [
                         5.970648,
@@ -39747,7 +40773,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kasteel Cannenburch",
-                  "text": "Un castel din secolul al XVI-lea care servește ca muzeu în Vaassen.",
+                  "text": "Un castel din secolul al XVI-lea în Apeldoorn, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         5.965213,
@@ -39756,7 +40782,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vaassen Historie",
-                  "text": "Un muzeu despre istoria locală din Vaassen.",
+                  "text": "Vaassen Historie este un muzeu de istorie locală în Vaassen, lângă Apeldoorn.",
                   "category": "museum",
                   "coords": [
                         5.968596,
@@ -39765,7 +40791,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed de Cannenburch",
-                  "text": "O zonă naturală în jurul castelului Cannenburch.",
+                  "text": "Landgoed de Cannenburch este o proprietate istorică cu castel și grădini lângă Apeldoorn.",
                   "category": "natural",
                   "coords": [
                         5.962841,
@@ -39774,7 +40800,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Korte Broek",
-                  "text": "O rezervație naturală în apropiere de Vaassen.",
+                  "text": "Korte Broek este o zonă mlăștinoasă scurtă la nord de Apeldoorn.",
                   "category": "natural",
                   "coords": [
                         5.949639,
@@ -39783,7 +40809,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Daams' Molen",
-                  "text": "O moară de vânt restaurată în Vaassen.",
+                  "text": "O moară de vânt istorică în nordul Apeldoornului, folosită cândva pentru măcinat cereale.",
                   "category": "landmark",
                   "coords": [
                         5.970648,
@@ -39821,7 +40847,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kasteel Cannenburch",
-                  "text": "A 16th-century castle serving as a museum in Vaassen.",
+                  "text": "A 16th-century castle in Apeldoorn, now a museum.",
                   "category": "museum",
                   "coords": [
                         5.965213,
@@ -39830,7 +40856,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vaassen Historie",
-                  "text": "A museum about the local history of Vaassen.",
+                  "text": "Vaassen Historie is a local history museum in Vaassen near Apeldoorn.",
                   "category": "museum",
                   "coords": [
                         5.968596,
@@ -39839,7 +40865,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed de Cannenburch",
-                  "text": "A natural area surrounding Cannenburch Castle.",
+                  "text": "Landgoed de Cannenburch is a historic estate with a castle and gardens near Apeldoorn.",
                   "category": "natural",
                   "coords": [
                         5.962841,
@@ -39848,7 +40874,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Korte Broek",
-                  "text": "A nature reserve near Vaassen.",
+                  "text": "Korte Broek is a short wetland area north of Apeldoorn.",
                   "category": "natural",
                   "coords": [
                         5.949639,
@@ -39857,7 +40883,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Daams' Molen",
-                  "text": "A restored windmill in Vaassen.",
+                  "text": "A historic windmill in the north of Apeldoorn, formerly used for grinding grain.",
                   "category": "landmark",
                   "coords": [
                         5.970648,
@@ -39968,7 +40994,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crezéepolder",
-                  "text": "Ein Naturschutzgebiet und Poldergebiet in Ridderkerk.",
+                  "text": "Crezéepolder ist ein eingedeichtes Poldergebiet in Ridderkerk.",
                   "category": "natural",
                   "coords": [
                         4.640459,
@@ -39986,7 +41012,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudheidkamer Stichting Oud Ridderkerk",
-                  "text": "Ein Museum, das der Lokalgeschichte von Ridderkerk gewidmet ist.",
+                  "text": "Die Oudheidkamer Stichting Oud Ridderkerk ist ein Heimatmuseum mit Fundstücken aus Ridderkerk.",
                   "category": "museum",
                   "coords": [
                         4.601668,
@@ -40004,7 +41030,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kersenboom",
-                  "text": "Eine historische Getreidemühle in Ridderkerk.",
+                  "text": "Ein historisches Gebäude namens „Der Kirschbaum“ in Ridderkerk.",
                   "category": "landmark",
                   "coords": [
                         4.594284,
@@ -40013,7 +41039,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donckse Bos",
-                  "text": "Ein malerisches Waldparkgelände in Ridderkerk.",
+                  "text": "Donckse Bos ist ein bewaldeter Park in Ridderkerk.",
                   "category": "park",
                   "coords": [
                         4.594057,
@@ -40112,7 +41138,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crocustuin",
-                  "text": "Ein schöner Spielbereich in Ridderkerk für kleine Entdecker.",
+                  "text": "Der Crocustuin ist ein Garten in Ridderkerk, der im Frühling voller Krokusse steht.",
                   "category": "family",
                   "coords": [
                         4.59615,
@@ -40186,7 +41212,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crezéepolder",
-                  "text": "Természetvédelmi terület és polder Ridderkerkben.",
+                  "text": "A Crezéepolder egy polderterület Ridderkerkben.",
                   "category": "natural",
                   "coords": [
                         4.640459,
@@ -40204,7 +41230,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudheidkamer Stichting Oud Ridderkerk",
-                  "text": "Ridderkerk helytörténetének szentelt múzeum.",
+                  "text": "Az Oudheidkamer Stichting Oud Ridderkerk egy helytörténeti múzeum, amely Ridderkerk tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         4.601668,
@@ -40222,7 +41248,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kersenboom",
-                  "text": "Történelmi lisztelő malom Ridderkerkben.",
+                  "text": "Történelmi épület „A Cseresznyefa” néven Ridderkerkben.",
                   "category": "landmark",
                   "coords": [
                         4.594284,
@@ -40231,7 +41257,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donckse Bos",
-                  "text": "Festői erdős parkterület Ridderkerkben.",
+                  "text": "A Donckse Bos egy erdős park Ridderkerkben.",
                   "category": "park",
                   "coords": [
                         4.594057,
@@ -40330,7 +41356,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crocustuin",
-                  "text": "Szép játszóhely Ridderkerkben a kis felfedezők számára.",
+                  "text": "A Crocustuin egy kert Ridderkerkben, tavasszal tele krókuszokkal.",
                   "category": "family",
                   "coords": [
                         4.59615,
@@ -40377,7 +41403,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museum Johannes Postschool",
-                  "text": "Un muzeu situat într-o fostă clădire de școală din Ridderkerk.",
+                  "text": "Un muzeu într-o fostă clădire școlară în Ridderkerk.",
                   "category": "museum",
                   "coords": [
                         4.594749,
@@ -40404,7 +41430,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crezéepolder",
-                  "text": "O rezervație naturală și o zonă de polder în Ridderkerk.",
+                  "text": "Crezéepolder este o zonă de polder în Ridderkerk.",
                   "category": "natural",
                   "coords": [
                         4.640459,
@@ -40422,7 +41448,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudheidkamer Stichting Oud Ridderkerk",
-                  "text": "Un muzeu dedicat istoriei locale din Ridderkerk.",
+                  "text": "Oudheidkamer Stichting Oud Ridderkerk este un muzeu de istorie locală care expune artefacte din Ridderkerk.",
                   "category": "museum",
                   "coords": [
                         4.601668,
@@ -40440,7 +41466,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kersenboom",
-                  "text": "O moară de făină istorică situată în Ridderkerk.",
+                  "text": "O clădire istorică numită „Cireșul” în Ridderkerk.",
                   "category": "landmark",
                   "coords": [
                         4.594284,
@@ -40449,7 +41475,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donckse Bos",
-                  "text": "O zonă pitorească de parc împădurit în Ridderkerk.",
+                  "text": "Donckse Bos este un parc împădurit în Ridderkerk.",
                   "category": "park",
                   "coords": [
                         4.594057,
@@ -40548,7 +41574,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crocustuin",
-                  "text": "O zonă de joacă frumoasă în Ridderkerk pentru micii exploratori.",
+                  "text": "Crocustuin este o grădină în Ridderkerk, plină de brândușe primăvara.",
                   "category": "family",
                   "coords": [
                         4.59615,
@@ -40595,7 +41621,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museum Johannes Postschool",
-                  "text": "A museum located in a former school building in Ridderkerk.",
+                  "text": "A museum in a former school building in Ridderkerk.",
                   "category": "museum",
                   "coords": [
                         4.594749,
@@ -40622,7 +41648,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crezéepolder",
-                  "text": "A nature reserve and polder area in Ridderkerk.",
+                  "text": "Crezéepolder is a reclaimed polder area in Ridderkerk.",
                   "category": "natural",
                   "coords": [
                         4.640459,
@@ -40640,7 +41666,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudheidkamer Stichting Oud Ridderkerk",
-                  "text": "A museum dedicated to the local history of Ridderkerk.",
+                  "text": "Oudheidkamer Stichting Oud Ridderkerk is a local history museum displaying artifacts from Ridderkerk.",
                   "category": "museum",
                   "coords": [
                         4.601668,
@@ -40658,7 +41684,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kersenboom",
-                  "text": "A historic flour mill located in Ridderkerk.",
+                  "text": "A historic building called 'The Cherry Tree' in Ridderkerk.",
                   "category": "landmark",
                   "coords": [
                         4.594284,
@@ -40667,7 +41693,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Donckse Bos",
-                  "text": "A scenic wooded park area in Ridderkerk.",
+                  "text": "Donckse Bos is a wooded park in Ridderkerk.",
                   "category": "park",
                   "coords": [
                         4.594057,
@@ -40766,7 +41792,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Crocustuin",
-                  "text": "A lovely play area in Ridderkerk for little explorers.",
+                  "text": "Crocustuin is a garden in Ridderkerk filled with crocuses in spring.",
                   "category": "family",
                   "coords": [
                         4.59615,
@@ -41201,7 +42227,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Waterput",
-                  "text": "Eine archäologische Fundstelle in Steenwijk.",
+                  "text": "Der Waterput ist ein historischer Brunnen in Steenwijk.",
                   "category": "historical",
                   "coords": [
                         6.118209,
@@ -41210,7 +42236,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Rams Woerthe",
-                  "text": "Ein Museum in einer prächtigen Jugendstil-Villa in Steenwijk.",
+                  "text": "Villa Rams Woerthe ist ein Museum in einer historischen Villa mit Park in Steenwijk.",
                   "category": "museum",
                   "coords": [
                         6.112487,
@@ -41219,7 +42245,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Meenthe",
-                  "text": "Ein Kultur- und Theaterzentrum in Steenwijk.",
+                  "text": "Kulturzentrum De Meenthe in Steenwijk, eröffnet 1971.",
                   "category": "cultural",
                   "coords": [
                         6.11525,
@@ -41228,7 +42254,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmuseum Steenwijk",
-                  "text": "Ein Museum über die Geschichte der Stadt Steenwijk.",
+                  "text": "Das Stadsmuseum Steenwijk zeigt die Geschichte Steenwijks in einem historischen Gebäude.",
                   "category": "museum",
                   "coords": [
                         6.116907,
@@ -41237,7 +42263,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Woldberg",
-                  "text": "Ein Naturschutzgebiet mit Wald in Steenwijk.",
+                  "text": "Der De Woldberg ist ein bewaldeter Hügel bei Steenwijk.",
                   "category": "natural",
                   "coords": [
                         6.110027,
@@ -41246,7 +42272,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woldberg",
-                  "text": "Ein Hügel in der Nähe von Steenwijk mit Wanderwegen.",
+                  "text": "Ein bewaldeter Hügel in Steenwijk, beliebt zum Wandern.",
                   "category": "natural",
                   "coords": [
                         6.102898,
@@ -41255,7 +42281,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitkijktoren Woldberg (24,05 m)",
-                  "text": "Ein Aussichtsturm auf dem Woldberg bei Steenwijk.",
+                  "text": "Der Uitkijktoren Woldberg ist ein 24,05 m hoher Aussichtsturm mit Blick über Steenwijk.",
                   "category": "natural",
                   "coords": [
                         6.097765,
@@ -41264,7 +42290,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Geologisch monument Wolterholten",
-                  "text": "Ein geologisches Denkmal in der Nähe von Steenwijk.",
+                  "text": "Das Geologisch monument Wolterholten ist eine geologische Stätte mit markanten Felsformationen bei Steenwijk.",
                   "category": "landmark",
                   "coords": [
                         6.087865,
@@ -41320,7 +42346,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Waterput",
-                  "text": "Régészeti lelőhely Steenwijkben.",
+                  "text": "A Waterput egy történelmi kút Steenwijkben.",
                   "category": "historical",
                   "coords": [
                         6.118209,
@@ -41329,7 +42355,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Rams Woerthe",
-                  "text": "Múzeum egy pompás szecessziós villában Steenwijkben.",
+                  "text": "A Villa Rams Woerthe egy múzeum egy történelmi villában, parkkal Steenwijkben.",
                   "category": "museum",
                   "coords": [
                         6.112487,
@@ -41338,7 +42364,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Meenthe",
-                  "text": "Kulturális és színházi központ Steenwijkben.",
+                  "text": "De Meenthe kulturális központ Steenwijkben, 1971-ben nyílt meg.",
                   "category": "cultural",
                   "coords": [
                         6.11525,
@@ -41347,7 +42373,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmuseum Steenwijk",
-                  "text": "Múzeum Steenwijk városának történelméről.",
+                  "text": "A Stadsmuseum Steenwijk Steenwijk történelmét mutatja be egy történelmi épületben.",
                   "category": "museum",
                   "coords": [
                         6.116907,
@@ -41356,7 +42382,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Woldberg",
-                  "text": "Erdős természetvédelmi terület Steenwijkben.",
+                  "text": "A De Woldberg egy erdős domb Steenwijk mellett.",
                   "category": "natural",
                   "coords": [
                         6.110027,
@@ -41365,7 +42391,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woldberg",
-                  "text": "Egy domb Steenwijk közelében túraútvonalakkal.",
+                  "text": "Egy erdős domb Steenwijkben, népszerű túrázáshoz.",
                   "category": "natural",
                   "coords": [
                         6.102898,
@@ -41374,7 +42400,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitkijktoren Woldberg (24,05 m)",
-                  "text": "Kilátótorony a Steenwijk melletti Woldberg-en.",
+                  "text": "Az Uitkijktoren Woldberg egy 24,05 méteres kilátótorony, rálátással Steenwijkre.",
                   "category": "natural",
                   "coords": [
                         6.097765,
@@ -41383,7 +42409,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Geologisch monument Wolterholten",
-                  "text": "Geológiai emlékmű Steenwijk közelében.",
+                  "text": "A Geologisch monument Wolterholten egy geológiai emlékhely feltűnő sziklaformációkkal Steenwijk mellett.",
                   "category": "landmark",
                   "coords": [
                         6.087865,
@@ -41439,7 +42465,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Waterput",
-                  "text": "Un sit arheologic în Steenwijk.",
+                  "text": "Waterput este un puț istoric în Steenwijk.",
                   "category": "historical",
                   "coords": [
                         6.118209,
@@ -41448,7 +42474,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Rams Woerthe",
-                  "text": "Un muzeu într-o vilă splendidă în stil Art Nouveau din Steenwijk.",
+                  "text": "Villa Rams Woerthe este un muzeu găzduit într-o vilă istorică cu parc în Steenwijk.",
                   "category": "museum",
                   "coords": [
                         6.112487,
@@ -41457,7 +42483,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Meenthe",
-                  "text": "Un centru cultural și de teatru în Steenwijk.",
+                  "text": "Centrul cultural De Meenthe din Steenwijk, deschis în 1971.",
                   "category": "cultural",
                   "coords": [
                         6.11525,
@@ -41466,7 +42492,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmuseum Steenwijk",
-                  "text": "Un muzeu despre istoria orașului Steenwijk.",
+                  "text": "Stadsmuseum Steenwijk prezintă istoria orașului Steenwijk într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         6.116907,
@@ -41475,7 +42501,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Woldberg",
-                  "text": "O rezervație naturală cu pădure în Steenwijk.",
+                  "text": "De Woldberg este un deal împădurit lângă Steenwijk.",
                   "category": "natural",
                   "coords": [
                         6.110027,
@@ -41484,7 +42510,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woldberg",
-                  "text": "Un deal în apropiere de Steenwijk cu trasee de drumeție.",
+                  "text": "Un deal împădurit în Steenwijk, popular pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         6.102898,
@@ -41493,7 +42519,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitkijktoren Woldberg (24,05 m)",
-                  "text": "Un turn de belvedere pe Woldberg lângă Steenwijk.",
+                  "text": "Uitkijktoren Woldberg este un turn de observație de 24,05 m care oferă priveliști asupra Steenwijk.",
                   "category": "natural",
                   "coords": [
                         6.097765,
@@ -41502,7 +42528,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Geologisch monument Wolterholten",
-                  "text": "Un monument geologic lângă Steenwijk.",
+                  "text": "Geologisch monument Wolterholten este un sit geologic cu formațiuni stâncoase remarcabile lângă Steenwijk.",
                   "category": "landmark",
                   "coords": [
                         6.087865,
@@ -41558,7 +42584,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Waterput",
-                  "text": "An archaeological site in Steenwijk.",
+                  "text": "Waterput is a historical well in Steenwijk.",
                   "category": "historical",
                   "coords": [
                         6.118209,
@@ -41567,7 +42593,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Rams Woerthe",
-                  "text": "A museum in a grand Art Nouveau villa in Steenwijk.",
+                  "text": "Villa Rams Woerthe is a museum set in a historic villa with a park in Steenwijk.",
                   "category": "museum",
                   "coords": [
                         6.112487,
@@ -41576,7 +42602,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Meenthe",
-                  "text": "A cultural and theatre centre in Steenwijk.",
+                  "text": "De Meenthe cultural centre in Steenwijk, opened in 1971.",
                   "category": "cultural",
                   "coords": [
                         6.11525,
@@ -41585,7 +42611,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmuseum Steenwijk",
-                  "text": "A museum about the history of the city of Steenwijk.",
+                  "text": "Stadsmuseum Steenwijk showcases the history of Steenwijk in a historic building.",
                   "category": "museum",
                   "coords": [
                         6.116907,
@@ -41594,7 +42620,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Woldberg",
-                  "text": "A nature reserve with forest in Steenwijk.",
+                  "text": "De Woldberg is a wooded hill near Steenwijk.",
                   "category": "natural",
                   "coords": [
                         6.110027,
@@ -41603,7 +42629,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Woldberg",
-                  "text": "A hill near Steenwijk with hiking trails.",
+                  "text": "A wooded hill in Steenwijk, popular for hiking.",
                   "category": "natural",
                   "coords": [
                         6.102898,
@@ -41612,7 +42638,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Uitkijktoren Woldberg (24,05 m)",
-                  "text": "An observation tower on the Woldberg near Steenwijk.",
+                  "text": "Uitkijktoren Woldberg is a 24.05 m observation tower offering views over Steenwijk.",
                   "category": "natural",
                   "coords": [
                         6.097765,
@@ -41621,7 +42647,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Geologisch monument Wolterholten",
-                  "text": "A geological monument located near Steenwijk.",
+                  "text": "Geologisch monument Wolterholten is a geological site with striking rock formations near Steenwijk.",
                   "category": "landmark",
                   "coords": [
                         6.087865,
@@ -41741,7 +42767,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrachelse Heide",
-                  "text": "Ein malerisches Heide- und Waldgebiet in Oosterhout.",
+                  "text": "Die Vrachelse Heide ist ein Heidegebiet bei Oosterhout.",
                   "category": "natural",
                   "coords": [
                         4.824642,
@@ -41813,7 +42839,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Brakestein",
-                  "text": "Ein historischer Park und Gartenbereich in Oosterhout.",
+                  "text": "Der Brakestein ist ein Park mit Rasenflächen und Bäumen in Oosterhout.",
                   "category": "park",
                   "coords": [
                         4.860974,
@@ -41822,7 +42848,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bock",
-                  "text": "Eine Kunstgalerie und ein Ausstellungsraum in Oosterhout.",
+                  "text": "Das Bock ist ein Museum in Oosterhout zur Ortsgeschichte und Kultur.",
                   "category": "museum",
                   "coords": [
                         4.856634,
@@ -41905,7 +42931,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrachelse Heide",
-                  "text": "Festői fenyér- és erdőterület Oosterhoutban.",
+                  "text": "A Vrachelse Heide egy hangaföld Oosterhout mellett.",
                   "category": "natural",
                   "coords": [
                         4.824642,
@@ -41977,7 +43003,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Brakestein",
-                  "text": "Történelmi park- és kertterület Oosterhoutban.",
+                  "text": "A Brakestein egy park gyepes területekkel és fákkal Oosterhoutban.",
                   "category": "park",
                   "coords": [
                         4.860974,
@@ -41986,7 +43012,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bock",
-                  "text": "Művészeti galéria és kiállítótér Oosterhoutban.",
+                  "text": "A Bock egy múzeum Oosterhoutban, a helyi történelem és kultúra témájában.",
                   "category": "museum",
                   "coords": [
                         4.856634,
@@ -42069,7 +43095,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrachelse Heide",
-                  "text": "O zonă pitorească de mlaștină și pădure în Oosterhout.",
+                  "text": "Vrachelse Heide este o zonă de landă lângă Oosterhout.",
                   "category": "natural",
                   "coords": [
                         4.824642,
@@ -42141,7 +43167,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Brakestein",
-                  "text": "O zonă istorică de parc și grădină în Oosterhout.",
+                  "text": "Brakestein este un parc cu peluze și copaci în Oosterhout.",
                   "category": "park",
                   "coords": [
                         4.860974,
@@ -42150,7 +43176,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bock",
-                  "text": "O galerie de artă și spațiu de expoziție în Oosterhout.",
+                  "text": "Bock este un muzeu în Oosterhout dedicat istoriei și culturii locale.",
                   "category": "museum",
                   "coords": [
                         4.856634,
@@ -42233,7 +43259,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vrachelse Heide",
-                  "text": "A scenic heathland and forest area in Oosterhout.",
+                  "text": "Vrachelse Heide is a heathland area near Oosterhout.",
                   "category": "natural",
                   "coords": [
                         4.824642,
@@ -42305,7 +43331,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Brakestein",
-                  "text": "A historic park and garden area in Oosterhout.",
+                  "text": "Brakestein is a park with lawns and trees in Oosterhout.",
                   "category": "park",
                   "coords": [
                         4.860974,
@@ -42314,7 +43340,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bock",
-                  "text": "An art gallery and exhibition space in Oosterhout.",
+                  "text": "Bock is a museum in Oosterhout dedicated to local history and culture.",
                   "category": "museum",
                   "coords": [
                         4.856634,
@@ -42434,7 +43460,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Malpie",
-                  "text": "Ein weitläufiges Heide- und Naturgebiet bei Valkenswaard.",
+                  "text": "Die Malpie ist ein Naturschutzgebiet mit Heide und Mooren bei Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.436881,
@@ -42443,7 +43469,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leenderbos",
-                  "text": "Ein großes Waldgebiet mit vielen Wegen für Naturliebhaber.",
+                  "text": "Der Leenderbos ist ein großes Waldgebiet bei Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.509171,
@@ -42497,7 +43523,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jeroen Mettesplantsoen",
-                  "text": "Eine kleine Grünanlage in Valkenswaard zur Erholung.",
+                  "text": "Ein nach Jeroen Mettes benannter Park in Valkenswaard.",
                   "category": "park",
                   "coords": [
                         5.471065,
@@ -42506,7 +43532,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Egelven",
-                  "text": "Ein ruhiger Aussichtspunkt in der Natur von Valkenswaard.",
+                  "text": "Der Egelven ist ein kleines Moor, benannt nach Igeln, bei Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.489164,
@@ -42515,7 +43541,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Martinuskerk",
-                  "text": "Die historische Pfarrkirche des Ortsteils Dommelen.",
+                  "text": "Die St.-Martinus-Kirche in Valkenswaard, erbaut 1882.",
                   "category": "religious",
                   "coords": [
                         5.435784,
@@ -42571,7 +43597,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Malpie",
-                  "text": "Kiterjedt pusztaság és természetvédelmi terület Valkenswaard mellett.",
+                  "text": "A Malpie egy természetvédelmi terület hangafölddel és lápokkal Valkenswaard mellett.",
                   "category": "natural",
                   "coords": [
                         5.436881,
@@ -42580,7 +43606,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leenderbos",
-                  "text": "Hatalmas erdőterület sok ösvénnyel a természet kedvelőinek.",
+                  "text": "A Leenderbos egy nagy erdőterület Valkenswaard mellett.",
                   "category": "natural",
                   "coords": [
                         5.509171,
@@ -42634,7 +43660,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jeroen Mettesplantsoen",
-                  "text": "Kis zöldterület Valkenswaardban a pihenésre.",
+                  "text": "Jeroen Mettesről elnevezett park Valkenswaardban.",
                   "category": "park",
                   "coords": [
                         5.471065,
@@ -42643,7 +43669,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Egelven",
-                  "text": "Csendes kilátópont Valkenswaard természetközeli részén.",
+                  "text": "Az Egelven egy kis láp, amely a sünökről kapta a nevét, Valkenswaard mellett.",
                   "category": "natural",
                   "coords": [
                         5.489164,
@@ -42652,7 +43678,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Martinuskerk",
-                  "text": "Dommelen városrész történelmi plébániatemploma.",
+                  "text": "A Szent Márton-templom Valkenswaardban, 1882-ben épült.",
                   "category": "religious",
                   "coords": [
                         5.435784,
@@ -42708,7 +43734,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Malpie",
-                  "text": "O zonă întinsă de pajiște și natură lângă Valkenswaard.",
+                  "text": "Malpie este o rezervație naturală cu landă și mlaștini lângă Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.436881,
@@ -42717,7 +43743,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leenderbos",
-                  "text": "O zonă forestieră mare, cu multe trasee pentru iubitorii de natură.",
+                  "text": "Leenderbos este o zonă forestieră mare lângă Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.509171,
@@ -42771,7 +43797,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jeroen Mettesplantsoen",
-                  "text": "Un mic spațiu verde în Valkenswaard pentru relaxare.",
+                  "text": "Un parc numit după Jeroen Mettes în Valkenswaard.",
                   "category": "park",
                   "coords": [
                         5.471065,
@@ -42780,7 +43806,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Egelven",
-                  "text": "Un punct de observație liniștit în natura din Valkenswaard.",
+                  "text": "Egelven este o mică mlaștină numită după arici, lângă Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.489164,
@@ -42789,7 +43815,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Martinuskerk",
-                  "text": "Biserica parohială istorică a cartierului Dommelen.",
+                  "text": "Biserica Sfântul Martin din Valkenswaard, construită în 1882.",
                   "category": "religious",
                   "coords": [
                         5.435784,
@@ -42845,7 +43871,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Malpie",
-                  "text": "An extensive heath and nature area near Valkenswaard.",
+                  "text": "Malpie is a nature reserve with heath and fens near Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.436881,
@@ -42854,7 +43880,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leenderbos",
-                  "text": "A large forest area with many paths for nature lovers.",
+                  "text": "Leenderbos is a large forest area near Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.509171,
@@ -42908,7 +43934,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Jeroen Mettesplantsoen",
-                  "text": "A small green area in Valkenswaard for relaxation.",
+                  "text": "A park named after Jeroen Mettes in Valkenswaard.",
                   "category": "park",
                   "coords": [
                         5.471065,
@@ -42917,7 +43943,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Egelven",
-                  "text": "A quiet viewpoint in the nature of Valkenswaard.",
+                  "text": "Egelven is a small fen named after hedgehogs near Valkenswaard.",
                   "category": "natural",
                   "coords": [
                         5.489164,
@@ -42926,7 +43952,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Sint-Martinuskerk",
-                  "text": "The historic parish church of the Dommelen district.",
+                  "text": "St. Martin's Church in Valkenswaard, built in 1882.",
                   "category": "religious",
                   "coords": [
                         5.435784,
@@ -43019,7 +44045,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museum Staphorst",
-                  "text": "Ein Museum über die traditionelle Kultur von Staphorst.",
+                  "text": "Das Museum Staphorst zeigt Trachten und das Landleben in Staphorst.",
                   "category": "museum",
                   "coords": [
                         6.206994,
@@ -43028,7 +44054,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Samenzó",
-                  "text": "Ein Streichelzoo für Kinder in Staphorst.",
+                  "text": "Der Kinderboerderij Samenzó ist ein Streichelzoo in Staphorst, wo Kinder Tiere berühren können.",
                   "category": "family",
                   "coords": [
                         6.201907,
@@ -43057,7 +44083,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museum Staphorst",
-                  "text": "Múzeum Staphorst hagyományos kultúrájáról.",
+                  "text": "A Museum Staphorst bemutatja a hagyományos viseleteket és a vidéki életet Staphorstban.",
                   "category": "museum",
                   "coords": [
                         6.206994,
@@ -43066,7 +44092,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Samenzó",
-                  "text": "Állatsimogató gyerekeknek Staphorstban.",
+                  "text": "A Kinderboerderij Samenzó egy állatsimogató Staphorstban, ahol a gyerekek állatokkal érintkezhetnek.",
                   "category": "family",
                   "coords": [
                         6.201907,
@@ -43095,7 +44121,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museum Staphorst",
-                  "text": "Un muzeu despre cultura tradițională din Staphorst.",
+                  "text": "Muzeul Staphorst prezintă costume tradiționale și viața rurală în Staphorst.",
                   "category": "museum",
                   "coords": [
                         6.206994,
@@ -43104,7 +44130,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Samenzó",
-                  "text": "O grădină zoologică cu animale pentru copii în Staphorst.",
+                  "text": "Kinderboerderij Samenzó este o fermă de animale de companie în Staphorst, unde copiii pot interacționa cu animalele.",
                   "category": "family",
                   "coords": [
                         6.201907,
@@ -43133,7 +44159,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museum Staphorst",
-                  "text": "A museum about the traditional culture of Staphorst.",
+                  "text": "Museum Staphorst showcases traditional costumes and rural life in Staphorst.",
                   "category": "museum",
                   "coords": [
                         6.206994,
@@ -43142,7 +44168,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Samenzó",
-                  "text": "A petting zoo for children in Staphorst.",
+                  "text": "Kinderboerderij Samenzó is a petting farm in Staphorst where children can interact with animals.",
                   "category": "family",
                   "coords": [
                         6.201907,
@@ -43703,7 +44729,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museum Kennemerland",
-                  "text": "Ein Museum, das die Regionalgeschichte von Kennemerland präsentiert.",
+                  "text": "Ein Regionalmuseum in Heemskerk.",
                   "category": "museum",
                   "coords": [
                         4.644633,
@@ -43712,7 +44738,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Luchtoorlogmuseum Fort Veldhuis",
-                  "text": "Ein Luftkriegsmuseum, das in einem historischen Bunker untergebracht ist.",
+                  "text": "Ein Museum in einer ehemaligen Festung in Heemskerk, das sich dem Luftkrieg des Zweiten Weltkriegs widmet.",
                   "category": "museum",
                   "coords": [
                         4.705516,
@@ -43721,7 +44747,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierentuin Animal Farm",
-                  "text": "Ein kleiner Tierpark in Heemskerk, ideal für Kinder.",
+                  "text": "Ein Streichelzoo und Bauernhof in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.67113,
@@ -43739,7 +44765,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 11",
-                  "text": "Teil einer historischen Verteidigungslinie in der Nähe von Heemskerk.",
+                  "text": "Eine Lunette (Befestigung) der Beverwijk-Linie in Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.64558,
@@ -43757,7 +44783,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 12",
-                  "text": "Ein Überrest der alten Verteidigungslinie von Beverwijk.",
+                  "text": "Eine Lunette (Befestigung) der Beverwijk-Linie in Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.644057,
@@ -43784,7 +44810,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 8",
-                  "text": "Ein Teil der ehemaligen Verteidigungswerke in der Region.",
+                  "text": "Eine Lunette (Befestigung) der Beverwijk-Linie in Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.656475,
@@ -43811,7 +44837,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kennemertheater",
-                  "text": "Ein lokales Theater und kultureller Veranstaltungsort in Heemskerk.",
+                  "text": "Das Kennemertheater ist eine Spielstätte für darstellende Künste in Heemskerk.",
                   "category": "cultural",
                   "coords": [
                         4.657979,
@@ -43829,7 +44855,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Baak",
-                  "text": "Ein charmanter Streichelzoo für Kinder in Heemskerk.",
+                  "text": "Der Kinderboerderij De Baak ist ein Streichelzoo in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.642676,
@@ -43847,7 +44873,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marquette",
-                  "text": "Ein historisches Schloss und Landgut in Heemskerk.",
+                  "text": "Schloss Marquette in Heemskerk, erbaut 1250.",
                   "category": "castle",
                   "coords": [
                         4.667809,
@@ -43856,7 +44882,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierendorp",
-                  "text": "Ein kleiner Tierpark und Streichelzoo in Heemskerk.",
+                  "text": "Das Dierendorp ist ein Tierschaugehege mit verschiedenen Nutztieren in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.677264,
@@ -43865,7 +44891,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volière Scheybeeck",
-                  "text": "Eine historische Voliere im Parkgelände von Scheybeeck.",
+                  "text": "Die Volière Scheybeeck ist eine Voliere mit exotischen Vögeln in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.648816,
@@ -43874,7 +44900,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kasteel ter Wijc",
-                  "text": "Die Ruinen eines ehemaligen Schlosses und Herrenhauses in Heemskerk.",
+                  "text": "Eine mittelalterliche Burg mit Wassergraben und Turm in Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.67454,
@@ -43901,7 +44927,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Horeca de Jansheeren",
-                  "text": "Ein Kultur- und Gemeindezentrum in Heemskerk.",
+                  "text": "Die Horeca de Jansheeren ist ein Café und kultureller Treffpunkt in Heemskerk.",
                   "category": "cultural",
                   "coords": [
                         4.668494,
@@ -43910,7 +44936,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aagtenpark",
-                  "text": "Ein malerischer Aussichtspunkt und Parkbereich in Heemskerk.",
+                  "text": "Der Aagtenpark ist ein Park mit Grünflächen und Spazierwegen in Heemskerk.",
                   "category": "natural",
                   "coords": [
                         4.683825,
@@ -43919,7 +44945,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Akerendam",
-                  "text": "Ein wunderschönes Herrenhaus und Garten aus dem 17. Jahrhundert.",
+                  "text": "Herrenhaus von 1637 in Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.652937,
@@ -43937,7 +44963,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Beeckzangh",
-                  "text": "Eine historische Villa und ein Herrenhaus in Heemskerk.",
+                  "text": "Villa von 1824 in Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.647263,
@@ -43964,7 +44990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Baggerdepot Averijhaven",
-                  "text": "Ein See in Heemskerk, der zur Erholung in der Natur einlädt.",
+                  "text": "Das Baggerdepot Averijhaven ist ein ehemaliges Baggerdepot, das zum Naturgebiet am Hafen von Heemskerk wurde.",
                   "category": "natural",
                   "coords": [
                         4.576776,
@@ -44065,7 +45091,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museum Kennemerland",
-                  "text": "Múzeum, amely Kennemerland regionális történelmét mutatja be.",
+                  "text": "Regionális múzeum Heemskerkben.",
                   "category": "museum",
                   "coords": [
                         4.644633,
@@ -44074,7 +45100,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Luchtoorlogmuseum Fort Veldhuis",
-                  "text": "Egy történelmi bunkerben elhelyezett légiháborús múzeum.",
+                  "text": "Múzeum egy egykori erődben Heemskerkben, a második világháború légi hadműveleteire fókuszálva.",
                   "category": "museum",
                   "coords": [
                         4.705516,
@@ -44083,7 +45109,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierentuin Animal Farm",
-                  "text": "Kisebb állatpark Heemskerkben, amely ideális gyerekeknek.",
+                  "text": "Állatsimogató és farm Heemskerkben.",
                   "category": "family",
                   "coords": [
                         4.67113,
@@ -44101,7 +45127,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 11",
-                  "text": "Heemskerk közelében található történelmi védvonal része.",
+                  "text": "Lunetta (erődítés) a Beverwijk-vonalon Heemskerkben.",
                   "category": "fortress",
                   "coords": [
                         4.64558,
@@ -44119,7 +45145,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 12",
-                  "text": "Beverwijk régi védvonalának maradványa.",
+                  "text": "Lunetta (erődítés) a Beverwijk-vonalon Heemskerkben.",
                   "category": "fortress",
                   "coords": [
                         4.644057,
@@ -44146,7 +45172,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 8",
-                  "text": "A régió egykori védműveinek része.",
+                  "text": "Lunetta (erődítés) a Beverwijk-vonalon Heemskerkben.",
                   "category": "fortress",
                   "coords": [
                         4.656475,
@@ -44173,7 +45199,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kennemertheater",
-                  "text": "Helyi színház és kulturális helyszín Heemskerkben.",
+                  "text": "A Kennemertheater egy előadó-művészeti helyszín Heemskerkben.",
                   "category": "cultural",
                   "coords": [
                         4.657979,
@@ -44191,7 +45217,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Baak",
-                  "text": "Bájos állatsimogató gyerekeknek Heemskerkben.",
+                  "text": "A Kinderboerderij De Baak egy állatsimogató Heemskerkben.",
                   "category": "family",
                   "coords": [
                         4.642676,
@@ -44209,7 +45235,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marquette",
-                  "text": "Történelmi kastély és birtok Heemskerkben.",
+                  "text": "Marquette kastély Heemskerkben, épült 1250-ben.",
                   "category": "castle",
                   "coords": [
                         4.667809,
@@ -44218,7 +45244,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierendorp",
-                  "text": "Kis állatpark és állatsimogató Heemskerkben.",
+                  "text": "A Dierendorp egy állatfalu különféle háziállatokkal Heemskerkben.",
                   "category": "family",
                   "coords": [
                         4.677264,
@@ -44227,7 +45253,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volière Scheybeeck",
-                  "text": "Történelmi röpde a Scheybeeck park területén.",
+                  "text": "A Volière Scheybeeck egy madárház egzotikus madarakkal Heemskerkben.",
                   "category": "family",
                   "coords": [
                         4.648816,
@@ -44236,7 +45262,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kasteel ter Wijc",
-                  "text": "Egy egykori kastély és udvarház romjai Heemskerkben.",
+                  "text": "Középkori vár árokkal és toronnyal Heemskerkben.",
                   "category": "historical",
                   "coords": [
                         4.67454,
@@ -44263,7 +45289,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Horeca de Jansheeren",
-                  "text": "Kulturális és közösségi központ Heemskerkben.",
+                  "text": "A Horeca de Jansheeren egy kávézó és kulturális találkozóhely Heemskerkben.",
                   "category": "cultural",
                   "coords": [
                         4.668494,
@@ -44272,7 +45298,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aagtenpark",
-                  "text": "Gleccserhordalékos domb és kilátópont Heemskerkben.",
+                  "text": "Az Aagtenpark egy park zöldterületekkel és sétányokkal Heemskerkben.",
                   "category": "natural",
                   "coords": [
                         4.683825,
@@ -44281,7 +45307,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Akerendam",
-                  "text": "Gyönyörű 17. századi udvarház és kert.",
+                  "text": "1637-ben épült kúria Heemskerkben.",
                   "category": "historical",
                   "coords": [
                         4.652937,
@@ -44299,7 +45325,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Beeckzangh",
-                  "text": "Történelmi villa és udvarház Heemskerkben.",
+                  "text": "1824-ben épült villa Heemskerkben.",
                   "category": "historical",
                   "coords": [
                         4.647263,
@@ -44326,7 +45352,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Baggerdepot Averijhaven",
-                  "text": "Egy tó Heemskerk területén, amely természeti kikapcsolódásra hívogat.",
+                  "text": "A Baggerdepot Averijhaven egy egykori kotrási depó, amely természeti területté vált Heemskerk kikötőjénél.",
                   "category": "natural",
                   "coords": [
                         4.576776,
@@ -44427,7 +45453,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museum Kennemerland",
-                  "text": "Un muzeu care prezintă istoria regională a Kennemerlandului.",
+                  "text": "Un muzeu regional în Heemskerk.",
                   "category": "museum",
                   "coords": [
                         4.644633,
@@ -44436,7 +45462,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Luchtoorlogmuseum Fort Veldhuis",
-                  "text": "Un muzeu al războiului aerian, situat într-un buncăr istoric.",
+                  "text": "Un muzeu într-un fost fort din Heemskerk, dedicat războiului aerian din cel de-al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         4.705516,
@@ -44445,7 +45471,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierentuin Animal Farm",
-                  "text": "Un mic parc de animale în Heemskerk, ideal pentru copii.",
+                  "text": "O fermă zoo de contact în Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.67113,
@@ -44463,7 +45489,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 11",
-                  "text": "Parte a unei linii de apărare istorice de lângă Heemskerk.",
+                  "text": "O lunetă (fortificație) a Liniei Beverwijk din Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.64558,
@@ -44481,7 +45507,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 12",
-                  "text": "O rămășiță a vechii linii de apărare din Beverwijk.",
+                  "text": "O lunetă (fortificație) a Liniei Beverwijk din Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.644057,
@@ -44508,7 +45534,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 8",
-                  "text": "O parte a fostelor fortificații de apărare din regiune.",
+                  "text": "O lunetă (fortificație) a Liniei Beverwijk din Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.656475,
@@ -44535,7 +45561,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kennemertheater",
-                  "text": "Un teatru local și loc de desfășurare a evenimentelor culturale în Heemskerk.",
+                  "text": "Kennemertheater este un loc de spectacole în Heemskerk.",
                   "category": "cultural",
                   "coords": [
                         4.657979,
@@ -44553,7 +45579,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Baak",
-                  "text": "O grădină zoologică cu animale blânde pentru copii în Heemskerk.",
+                  "text": "Kinderboerderij De Baak este o fermă de animale de companie în Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.642676,
@@ -44571,7 +45597,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marquette",
-                  "text": "Un castel și domeniu istoric situat în Heemskerk.",
+                  "text": "Castelul Marquette din Heemskerk, construit în 1250.",
                   "category": "castle",
                   "coords": [
                         4.667809,
@@ -44580,7 +45606,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierendorp",
-                  "text": "Un mic parc de animale și grădină zoologică în Heemskerk.",
+                  "text": "Dierendorp este un sat de animale cu diverse animale de fermă în Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.677264,
@@ -44589,7 +45615,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volière Scheybeeck",
-                  "text": "O volieră istorică situată în zona parcului Scheybeeck.",
+                  "text": "Volière Scheybeeck este o volieră cu păsări exotice în Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.648816,
@@ -44598,7 +45624,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kasteel ter Wijc",
-                  "text": "Ruinele unui fost castel și conac din Heemskerk.",
+                  "text": "Un castel medieval cu șanț și turn în Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.67454,
@@ -44625,7 +45651,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Horeca de Jansheeren",
-                  "text": "Un centru cultural și comunitar în Heemskerk.",
+                  "text": "Horeca de Jansheeren este o cafenea și loc de întâlnire cultural în Heemskerk.",
                   "category": "cultural",
                   "coords": [
                         4.668494,
@@ -44634,7 +45660,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aagtenpark",
-                  "text": "Un punct de belvedere pitoresc și zonă de parc în Heemskerk.",
+                  "text": "Aagtenpark este un parc cu spații verzi și alei în Heemskerk.",
                   "category": "natural",
                   "coords": [
                         4.683825,
@@ -44643,7 +45669,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Akerendam",
-                  "text": "Un conac și o grădină superbe din secolul al XVII-lea.",
+                  "text": "Conac din 1637 în Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.652937,
@@ -44661,7 +45687,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Beeckzangh",
-                  "text": "O vilă istorică și un conac situat în Heemskerk.",
+                  "text": "Vilă construită în 1824 în Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.647263,
@@ -44688,7 +45714,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Baggerdepot Averijhaven",
-                  "text": "Un lac în Heemskerk, care invită la recreere în natură.",
+                  "text": "Baggerdepot Averijhaven este un depozit de dragare transformat în zonă naturală la portul Heemskerk.",
                   "category": "natural",
                   "coords": [
                         4.576776,
@@ -44789,7 +45815,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museum Kennemerland",
-                  "text": "A museum presenting the regional history of Kennemerland.",
+                  "text": "A regional museum in Heemskerk.",
                   "category": "museum",
                   "coords": [
                         4.644633,
@@ -44798,7 +45824,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Luchtoorlogmuseum Fort Veldhuis",
-                  "text": "An air war museum housed in a historic bunker.",
+                  "text": "A museum in a former fort in Heemskerk, focused on WWII air warfare.",
                   "category": "museum",
                   "coords": [
                         4.705516,
@@ -44807,7 +45833,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierentuin Animal Farm",
-                  "text": "A small animal park in Heemskerk, ideal for children.",
+                  "text": "A petting zoo and farm in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.67113,
@@ -44825,7 +45851,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 11",
-                  "text": "Part of a historic defense line near Heemskerk.",
+                  "text": "A lunette (fortification) of the Beverwijk Line in Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.64558,
@@ -44843,7 +45869,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 12",
-                  "text": "A remnant of the old defense line of Beverwijk.",
+                  "text": "A lunette (fortification) of the Beverwijk Line in Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.644057,
@@ -44870,7 +45896,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lunet 8",
-                  "text": "A part of the former defense works in the region.",
+                  "text": "A lunette (fortification) of the Beverwijk Line in Heemskerk.",
                   "category": "fortress",
                   "coords": [
                         4.656475,
@@ -44897,7 +45923,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kennemertheater",
-                  "text": "A local theatre and cultural venue in Heemskerk.",
+                  "text": "Kennemertheater is a performing arts venue in Heemskerk.",
                   "category": "cultural",
                   "coords": [
                         4.657979,
@@ -44915,7 +45941,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Baak",
-                  "text": "A charming petting zoo for children in Heemskerk.",
+                  "text": "Kinderboerderij De Baak is a petting farm in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.642676,
@@ -44933,7 +45959,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marquette",
-                  "text": "A historic castle and estate located in Heemskerk.",
+                  "text": "Marquette castle in Heemskerk, built in 1250.",
                   "category": "castle",
                   "coords": [
                         4.667809,
@@ -44942,7 +45968,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dierendorp",
-                  "text": "A small animal park and petting zoo in Heemskerk.",
+                  "text": "Dierendorp is an animal village with various farm animals in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.677264,
@@ -44951,7 +45977,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Volière Scheybeeck",
-                  "text": "A historic aviary located in the Scheybeeck park area.",
+                  "text": "Volière Scheybeeck is an aviary with exotic birds in Heemskerk.",
                   "category": "family",
                   "coords": [
                         4.648816,
@@ -44960,7 +45986,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kasteel ter Wijc",
-                  "text": "The ruins of a former castle and manor in Heemskerk.",
+                  "text": "A medieval castle with a moat and tower in Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.67454,
@@ -44987,7 +46013,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Horeca de Jansheeren",
-                  "text": "A cultural and community centre in Heemskerk.",
+                  "text": "Horeca de Jansheeren is a café and cultural meeting place in Heemskerk.",
                   "category": "cultural",
                   "coords": [
                         4.668494,
@@ -44996,7 +46022,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aagtenpark",
-                  "text": "A scenic viewpoint and park area in Heemskerk.",
+                  "text": "Aagtenpark is a park with greenery and walking paths in Heemskerk.",
                   "category": "natural",
                   "coords": [
                         4.683825,
@@ -45005,7 +46031,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Akerendam",
-                  "text": "A beautiful 17th-century manor house and garden.",
+                  "text": "17th-century estate built in 1637 in Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.652937,
@@ -45023,7 +46049,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Beeckzangh",
-                  "text": "A historic villa and manor located in Heemskerk.",
+                  "text": "19th-century villa built in 1824 in Heemskerk.",
                   "category": "historical",
                   "coords": [
                         4.647263,
@@ -45050,7 +46076,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Baggerdepot Averijhaven",
-                  "text": "A lake in Heemskerk that invites relaxation in nature.",
+                  "text": "Baggerdepot Averijhaven is a dredging depot turned natural area at the port of Heemskerk.",
                   "category": "natural",
                   "coords": [
                         4.576776,
@@ -45323,7 +46349,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Buurvrouw",
-                  "text": "De Buurvrouw ist ein lokales Theater und kultureller Veranstaltungsort in Berkel en Rodenrijs.",
+                  "text": "Die De Buurvrouw ist ein kultureller Ort in Berkel en Rodenrijs für Veranstaltungen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         4.471709,
@@ -45332,7 +46358,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schiebroekse Park",
-                  "text": "Der Schiebroekse Park ist eine großzügige öffentliche Grünanlage in Berkel en Rodenrijs.",
+                  "text": "Ein Park in Berkel en Rodenrijs.",
                   "category": "park",
                   "coords": [
                         4.475618,
@@ -45350,7 +46376,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier de Hichte",
-                  "text": "Atelier de Hichte ist ein Kunstzentrum und Atelier in Berkel en Rodenrijs.",
+                  "text": "Das Atelier de Hichte ist ein Künstleratelier und eine Galerie in Berkel en Rodenrijs.",
                   "category": "cultural",
                   "coords": [
                         4.474108,
@@ -45359,7 +46385,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Belevenisboerderij Schieveen",
-                  "text": "Die Belevenisboerderij Schieveen ist ein Erlebnisbauernhof für Besucher in Berkel en Rodenrijs.",
+                  "text": "Der Belevenisboerderij Schieveen ist ein Erlebnisbauernhof mit Aktivitäten für Kinder bei Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.440727,
@@ -45377,7 +46403,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikvors",
-                  "text": "De Kikvors ist eine Brücke in der Umgebung von Berkel en Rodenrijs.",
+                  "text": "Eine Froschstatue in Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.427967,
@@ -45424,7 +46450,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Buurvrouw",
-                  "text": "A De Buurvrouw egy helyi színház és kulturális helyszín Berkel en Rodenrijsben.",
+                  "text": "A De Buurvrouw egy kulturális helyszín Berkel en Rodenrijsben események és kiállítások számára.",
                   "category": "cultural",
                   "coords": [
                         4.471709,
@@ -45433,7 +46459,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schiebroekse Park",
-                  "text": "A Schiebroekse Park egy tágas közpark Berkel en Rodenrijs városában.",
+                  "text": "Park Berkel en Rodenrijsben.",
                   "category": "park",
                   "coords": [
                         4.475618,
@@ -45451,7 +46477,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier de Hichte",
-                  "text": "Az Atelier de Hichte egy művészeti központ és galéria Berkel en Rodenrijsben.",
+                  "text": "Az Atelier de Hichte egy művészstúdió és galéria Berkel en Rodenrijsben.",
                   "category": "cultural",
                   "coords": [
                         4.474108,
@@ -45460,7 +46486,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Belevenisboerderij Schieveen",
-                  "text": "A Belevenisboerderij Schieveen egy látogatható élménygazdaság Berkel en Rodenrijsben.",
+                  "text": "A Belevenisboerderij Schieveen egy élményfarm gyerekeknek szóló tevékenységekkel Berkel en Rodenrijs mellett.",
                   "category": "landmark",
                   "coords": [
                         4.440727,
@@ -45478,7 +46504,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikvors",
-                  "text": "A De Kikvors egy híd Berkel en Rodenrijs területén.",
+                  "text": "Béka szobor Berkel en Rodenrijsben.",
                   "category": "landmark",
                   "coords": [
                         4.427967,
@@ -45525,7 +46551,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Buurvrouw",
-                  "text": "De Buurvrouw este un teatru local și un centru cultural în Berkel en Rodenrijs.",
+                  "text": "De Buurvrouw este un loc cultural în Berkel en Rodenrijs care găzduiește evenimente și expoziții.",
                   "category": "cultural",
                   "coords": [
                         4.471709,
@@ -45534,7 +46560,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schiebroekse Park",
-                  "text": "Parcul Schiebroekse este o zonă verde publică în Berkel en Rodenrijs.",
+                  "text": "Un parc în Berkel en Rodenrijs.",
                   "category": "park",
                   "coords": [
                         4.475618,
@@ -45552,7 +46578,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier de Hichte",
-                  "text": "Atelier de Hichte este un centru de artă și atelier în Berkel en Rodenrijs.",
+                  "text": "Atelier de Hichte este un studio de artist și galerie în Berkel en Rodenrijs.",
                   "category": "cultural",
                   "coords": [
                         4.474108,
@@ -45561,7 +46587,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Belevenisboerderij Schieveen",
-                  "text": "Belevenisboerderij Schieveen este o fermă educațională situată în Berkel en Rodenrijs.",
+                  "text": "Belevenisboerderij Schieveen este o fermă experiență cu activități pentru copii lângă Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.440727,
@@ -45579,7 +46605,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikvors",
-                  "text": "De Kikvors este un pod situat în Berkel en Rodenrijs.",
+                  "text": "O statuie de broască în Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.427967,
@@ -45626,7 +46652,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Buurvrouw",
-                  "text": "De Buurvrouw is a local theatre and cultural venue in Berkel en Rodenrijs.",
+                  "text": "De Buurvrouw is a cultural venue in Berkel en Rodenrijs hosting events and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         4.471709,
@@ -45635,7 +46661,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Schiebroekse Park",
-                  "text": "Schiebroekse Park is a spacious public park in Berkel en Rodenrijs.",
+                  "text": "A park in Berkel en Rodenrijs.",
                   "category": "park",
                   "coords": [
                         4.475618,
@@ -45653,7 +46679,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Atelier de Hichte",
-                  "text": "Atelier de Hichte is an arts centre and studio in Berkel en Rodenrijs.",
+                  "text": "Atelier de Hichte is an artist's studio and gallery in Berkel en Rodenrijs.",
                   "category": "cultural",
                   "coords": [
                         4.474108,
@@ -45662,7 +46688,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Belevenisboerderij Schieveen",
-                  "text": "Belevenisboerderij Schieveen is an educational experience farm in Berkel en Rodenrijs.",
+                  "text": "Belevenisboerderij Schieveen is an experience farm with activities for children near Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.440727,
@@ -45680,7 +46706,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Kikvors",
-                  "text": "De Kikvors is a bridge located in Berkel en Rodenrijs.",
+                  "text": "A frog statue in Berkel en Rodenrijs.",
                   "category": "landmark",
                   "coords": [
                         4.427967,
@@ -45737,7 +46763,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Landgoed Huys te Warmont",
-                  "text": "Ein historisches Landgut und Naturschutzgebiet bei Sassenheim.",
+                  "text": "Das Landgoed Huys te Warmont ist ein Gutshof mit Gärten und Wald in Sassenheim.",
                   "category": "natural",
                   "coords": [
                         4.511129,
@@ -45755,7 +46781,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wassergeest",
-                  "text": "Ein ruhiges Naturschutzgebiet und Grünfläche in Sassenheim.",
+                  "text": "Der Wassergeist ist ein wasserreiches Naturgebiet bei Sassenheim.",
                   "category": "natural",
                   "coords": [
                         4.524535,
@@ -45764,7 +46790,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Klaprooshof",
-                  "text": "Ein freundlicher Streichelzoo für Familien in Sassenheim.",
+                  "text": "Der Kinderboerderij De Klaprooshof ist ein Streichelzoo mit Blumengarten in Sassenheim.",
                   "category": "family",
                   "coords": [
                         4.486525,
@@ -45782,7 +46808,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Oude Koningshuys",
-                  "text": "Ein historisches Gebäude und ehemaliges Herrenhaus in Sassenheim.",
+                  "text": "Schloss Het Oude Koningshuys in Sassenheim, erbaut 1628.",
                   "category": "castle",
                   "coords": [
                         4.517767,
@@ -45809,7 +46835,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Saksenhoeve",
-                  "text": "Ein gemeinschaftlicher Streichelzoo in Sassenheim.",
+                  "text": "Der Kinderboerderij Saksenhoeve ist ein Streichelzoo mit Ziegen und Hühnern in Sassenheim.",
                   "category": "family",
                   "coords": [
                         4.524761,
@@ -45818,7 +46844,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lisserpoelmolen",
-                  "text": "Eine historische Poldermühle in der Nähe von Sassenheim.",
+                  "text": "Eine Polderwindmühle in Sassenheim, zur Entwässerung genutzt.",
                   "category": "landmark",
                   "coords": [
                         4.552604,
@@ -45836,7 +46862,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen De Speelman",
-                  "text": "Eine traditionelle niederländische Windmühle in Sassenheim.",
+                  "text": "Eine Windmühle in Sassenheim, 1991 wiederaufgebaut.",
                   "category": "landmark",
                   "coords": [
                         4.512238,
@@ -45883,7 +46909,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Landgoed Huys te Warmont",
-                  "text": "Történelmi birtok és természetvédelmi terület Sassenheim közelében.",
+                  "text": "A Landgoed Huys te Warmont egy birtok kertekkel és erdővel Sassenheimben.",
                   "category": "natural",
                   "coords": [
                         4.511129,
@@ -45901,7 +46927,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wassergeest",
-                  "text": "Csendes természetvédelmi terület és zöldövezet Sassenheimben.",
+                  "text": "A Wassergeist egy vízben gazdag természeti terület Sassenheim mellett.",
                   "category": "natural",
                   "coords": [
                         4.524535,
@@ -45910,7 +46936,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Klaprooshof",
-                  "text": "Barátságos állatsimogató családoknak Sassenheimben.",
+                  "text": "A Kinderboerderij De Klaprooshof egy állatsimogató virágoskerttel Sassenheimben.",
                   "category": "family",
                   "coords": [
                         4.486525,
@@ -45928,7 +46954,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Oude Koningshuys",
-                  "text": "Történelmi épület és egykori udvarház Sassenheimben.",
+                  "text": "Het Oude Koningshuys kastély Sassenheimben, épült 1628-ban.",
                   "category": "castle",
                   "coords": [
                         4.517767,
@@ -45955,7 +46981,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Saksenhoeve",
-                  "text": "Közösségi állatsimogató Sassenheimben.",
+                  "text": "A Kinderboerderij Saksenhoeve egy állatsimogató kecskékkel és csirkékkel Sassenheimben.",
                   "category": "family",
                   "coords": [
                         4.524761,
@@ -45964,7 +46990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lisserpoelmolen",
-                  "text": "Történelmi poldermalom Sassenheim közelében.",
+                  "text": "Polderszélmalom Sassenheimben, vízelvezetésre használták.",
                   "category": "landmark",
                   "coords": [
                         4.552604,
@@ -45982,7 +47008,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen De Speelman",
-                  "text": "Hagyományos holland szélmalom Sassenheimben.",
+                  "text": "Szélmalom Sassenheimben, 1991-ben építették újjá.",
                   "category": "landmark",
                   "coords": [
                         4.512238,
@@ -46029,7 +47055,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Landgoed Huys te Warmont",
-                  "text": "Un domeniu istoric și rezervație naturală lângă Sassenheim.",
+                  "text": "Landgoed Huys te Warmont este o moșie cu grădini și pădure în Sassenheim.",
                   "category": "natural",
                   "coords": [
                         4.511129,
@@ -46047,7 +47073,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wassergeest",
-                  "text": "O rezervație naturală liniștită și zonă verde în Sassenheim.",
+                  "text": "Wassergeist este o zonă naturală bogată în apă lângă Sassenheim.",
                   "category": "natural",
                   "coords": [
                         4.524535,
@@ -46056,7 +47082,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Klaprooshof",
-                  "text": "O grădină zoologică cu animale blânde pentru familii în Sassenheim.",
+                  "text": "Kinderboerderij De Klaprooshof este o fermă de animale de companie cu grădină de flori în Sassenheim.",
                   "category": "family",
                   "coords": [
                         4.486525,
@@ -46074,7 +47100,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Oude Koningshuys",
-                  "text": "O clădire istorică și fost conac în Sassenheim.",
+                  "text": "Castelul Het Oude Koningshuys din Sassenheim, construit în 1628.",
                   "category": "castle",
                   "coords": [
                         4.517767,
@@ -46101,7 +47127,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Saksenhoeve",
-                  "text": "O grădină zoologică cu animale blânde situată în Sassenheim.",
+                  "text": "Kinderboerderij Saksenhoeve este o fermă de animale de companie cu capre și găini în Sassenheim.",
                   "category": "family",
                   "coords": [
                         4.524761,
@@ -46110,7 +47136,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lisserpoelmolen",
-                  "text": "O moară de vânt istorică de polder situată lângă Sassenheim.",
+                  "text": "O moară de vânt de polder în Sassenheim, folosită pentru drenaj.",
                   "category": "landmark",
                   "coords": [
                         4.552604,
@@ -46128,7 +47154,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen De Speelman",
-                  "text": "O moară de vânt olandeză tradițională situată în Sassenheim.",
+                  "text": "O moară de vânt în Sassenheim, reconstruită în 1991.",
                   "category": "landmark",
                   "coords": [
                         4.512238,
@@ -46175,7 +47201,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Landgoed Huys te Warmont",
-                  "text": "A historic estate and nature reserve near Sassenheim.",
+                  "text": "Landgoed Huys te Warmont is an estate with gardens and woodland in Sassenheim.",
                   "category": "natural",
                   "coords": [
                         4.511129,
@@ -46193,7 +47219,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Wassergeest",
-                  "text": "A quiet nature reserve and green area in Sassenheim.",
+                  "text": "Wassergeist is a water-rich natural area near Sassenheim.",
                   "category": "natural",
                   "coords": [
                         4.524535,
@@ -46202,7 +47228,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij De Klaprooshof",
-                  "text": "A friendly petting zoo for families in Sassenheim.",
+                  "text": "Kinderboerderij De Klaprooshof is a petting farm with a flower garden in Sassenheim.",
                   "category": "family",
                   "coords": [
                         4.486525,
@@ -46220,7 +47246,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Oude Koningshuys",
-                  "text": "A historic building and former manor in Sassenheim.",
+                  "text": "Het Oude Koningshuys castle in Sassenheim, built in 1628.",
                   "category": "castle",
                   "coords": [
                         4.517767,
@@ -46247,7 +47273,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Saksenhoeve",
-                  "text": "A community petting zoo located in Sassenheim.",
+                  "text": "Kinderboerderij Saksenhoeve is a petting farm with goats and chickens in Sassenheim.",
                   "category": "family",
                   "coords": [
                         4.524761,
@@ -46256,7 +47282,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lisserpoelmolen",
-                  "text": "A historic polder windmill located near Sassenheim.",
+                  "text": "A polder windmill in Sassenheim, used for drainage.",
                   "category": "landmark",
                   "coords": [
                         4.552604,
@@ -46274,7 +47300,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Molen De Speelman",
-                  "text": "A traditional Dutch windmill located in Sassenheim.",
+                  "text": "A windmill in Sassenheim, reconstructed in 1991.",
                   "category": "landmark",
                   "coords": [
                         4.512238,
@@ -46628,7 +47654,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klein Noorlloo",
-                  "text": "Ein kleines Naturschutzgebiet in Epe.",
+                  "text": "Das Klein Noorlloo ist ein kleines Naturschutzgebiet mit Wäldern und Wiesen in Epe.",
                   "category": "natural",
                   "coords": [
                         5.994221,
@@ -46655,7 +47681,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Norelbosch",
-                  "text": "Ein malerisches Waldgebiet und Naturschutzgebiet in Epe.",
+                  "text": "Der Het Norelbosch ist ein Waldgebiet mit Wanderwegen in Epe.",
                   "category": "natural",
                   "coords": [
                         5.993516,
@@ -46664,7 +47690,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vemdebroek",
-                  "text": "Ein Feuchtgebiets-Naturschutzgebiet in Epe.",
+                  "text": "Das Vemdebroek ist ein Sumpfgebiet im Vemde-Tal bei Epe.",
                   "category": "natural",
                   "coords": [
                         6.033893,
@@ -46682,7 +47708,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuuker Korenmolen",
-                  "text": "Eine historische Wassermühle im Ortsteil Zuuk von Epe.",
+                  "text": "Eine traditionelle Getreidemühle in Epe.",
                   "category": "landmark",
                   "coords": [
                         5.997789,
@@ -46691,7 +47717,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kopermolen",
-                  "text": "Eine historische ehemalige Kupfermühle in Epe.",
+                  "text": "Eine ehemalige Kupfermühle in Epe, an einem Bach gelegen.",
                   "category": "landmark",
                   "coords": [
                         5.987421,
@@ -46738,7 +47764,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klein Noorlloo",
-                  "text": "Kis természetvédelmi terület Epében.",
+                  "text": "A Klein Noorlloo egy kis természetvédelmi terület erdőkkel és rétekkel Epeben.",
                   "category": "natural",
                   "coords": [
                         5.994221,
@@ -46765,7 +47791,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Norelbosch",
-                  "text": "Festői erdős terület és természetvédelmi terület Epében.",
+                  "text": "A Het Norelbosch egy erdőterület sétányokkal Epeben.",
                   "category": "natural",
                   "coords": [
                         5.993516,
@@ -46774,7 +47800,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vemdebroek",
-                  "text": "Vizes élőhelyi természetvédelmi terület Epében.",
+                  "text": "A Vemdebroek egy mocsaras terület a Vemde-völgyben Epe mellett.",
                   "category": "natural",
                   "coords": [
                         6.033893,
@@ -46792,7 +47818,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuuker Korenmolen",
-                  "text": "Történelmi vízimalom Epe Zuuk negyedében.",
+                  "text": "Hagyományos gabonamalom Epeben.",
                   "category": "landmark",
                   "coords": [
                         5.997789,
@@ -46801,7 +47827,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kopermolen",
-                  "text": "Történelmi egykori rézmalom Epében.",
+                  "text": "Egykori rézmalom Epeben, egy patak mellett.",
                   "category": "landmark",
                   "coords": [
                         5.987421,
@@ -46848,7 +47874,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klein Noorlloo",
-                  "text": "O mică zonă de rezervație naturală situată în Epe.",
+                  "text": "Klein Noorlloo este o mică rezervație naturală cu păduri și pajiști în Epe.",
                   "category": "natural",
                   "coords": [
                         5.994221,
@@ -46875,7 +47901,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Norelbosch",
-                  "text": "O zonă pitorească împădurită și rezervație naturală în Epe.",
+                  "text": "Het Norelbosch este o zonă forestieră cu trasee de mers pe jos în Epe.",
                   "category": "natural",
                   "coords": [
                         5.993516,
@@ -46884,7 +47910,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vemdebroek",
-                  "text": "O zonă de rezervație naturală de mlaștină situată în Epe.",
+                  "text": "Vemdebroek este o zonă mlaștinoasă în valea Vemde lângă Epe.",
                   "category": "natural",
                   "coords": [
                         6.033893,
@@ -46902,7 +47928,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuuker Korenmolen",
-                  "text": "O moară de apă istorică situată în zona Zuuk din Epe.",
+                  "text": "O moară de cereale tradițională în Epe.",
                   "category": "landmark",
                   "coords": [
                         5.997789,
@@ -46911,7 +47937,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kopermolen",
-                  "text": "O moară de cupru istorică situată în Epe.",
+                  "text": "O fostă moară de cupru în Epe, situată lângă un pârâu.",
                   "category": "landmark",
                   "coords": [
                         5.987421,
@@ -46958,7 +47984,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Klein Noorlloo",
-                  "text": "A small nature reserve area located in Epe.",
+                  "text": "Klein Noorlloo is a small nature reserve with forests and meadows in Epe.",
                   "category": "natural",
                   "coords": [
                         5.994221,
@@ -46985,7 +48011,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Het Norelbosch",
-                  "text": "A scenic wooded area and nature reserve in Epe.",
+                  "text": "Het Norelbosch is a forest area with walking trails in Epe.",
                   "category": "natural",
                   "coords": [
                         5.993516,
@@ -46994,7 +48020,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Vemdebroek",
-                  "text": "A wetland nature reserve area located in Epe.",
+                  "text": "Vemdebroek is a marshy area in the Vemde valley near Epe.",
                   "category": "natural",
                   "coords": [
                         6.033893,
@@ -47012,7 +48038,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zuuker Korenmolen",
-                  "text": "A historic watermill located in the Zuuk area of Epe.",
+                  "text": "A traditional grain windmill in Epe.",
                   "category": "landmark",
                   "coords": [
                         5.997789,
@@ -47021,7 +48047,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kopermolen",
-                  "text": "A historic former copper mill located in Epe.",
+                  "text": "A former copper mill in Epe, located on a stream.",
                   "category": "landmark",
                   "coords": [
                         5.987421,
@@ -47393,7 +48419,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kristalmuseum",
-                  "text": "Ein Museum in Borculo, das Kristalle und Mineralien zeigt.",
+                  "text": "Ein Museum in Borculo, das Kristalle und Mineralien ausstellt.",
                   "category": "museum",
                   "coords": [
                         6.52302,
@@ -47402,7 +48428,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lebbenbrugge",
-                  "text": "Ein Museum in Borculo in einem historischen Gebäude.",
+                  "text": "Der Lebbenbrugge ist ein mittelalterlicher Bauernhof, der zum Museum in Borculo wurde.",
                   "category": "museum",
                   "coords": [
                         6.49194,
@@ -47429,7 +48455,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Erve Giegink",
-                  "text": "Ein malerisches Naturschutzgebiet auf einem Landgut in Borculo.",
+                  "text": "Das Landgoed Erve Giegink ist ein Landsitz mit Parks und Wald in Borculo.",
                   "category": "natural",
                   "coords": [
                         6.515275,
@@ -47485,7 +48511,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kristalmuseum",
-                  "text": "Kristályokat és ásványokat bemutató múzeum Borculóban.",
+                  "text": "Múzeum Borculóban, kristályokat és ásványokat bemutatva.",
                   "category": "museum",
                   "coords": [
                         6.52302,
@@ -47494,7 +48520,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lebbenbrugge",
-                  "text": "Múzeum Borculóban egy történelmi épületben.",
+                  "text": "A Lebbenbrugge egy középkori tanya, amely múzeummá vált Borculóban.",
                   "category": "museum",
                   "coords": [
                         6.49194,
@@ -47521,7 +48547,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Erve Giegink",
-                  "text": "Egy festői természetvédelmi terület egy birtokon Borculóban.",
+                  "text": "A Landgoed Erve Giegink egy kúria parkokkal és erdővel Borculóban.",
                   "category": "natural",
                   "coords": [
                         6.515275,
@@ -47586,7 +48612,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lebbenbrugge",
-                  "text": "Un muzeu în Borculo într-o clădire istorică.",
+                  "text": "Lebbenbrugge este o fermă medievală transformată în muzeu în Borculo.",
                   "category": "museum",
                   "coords": [
                         6.49194,
@@ -47613,7 +48639,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Erve Giegink",
-                  "text": "O rezervație naturală pitorească pe o moșie din Borculo.",
+                  "text": "Landgoed Erve Giegink este un conac cu parcuri și pădure în Borculo.",
                   "category": "natural",
                   "coords": [
                         6.515275,
@@ -47678,7 +48704,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Lebbenbrugge",
-                  "text": "A museum in Borculo housed in a historic building.",
+                  "text": "Lebbenbrugge is a medieval farmstead turned museum in Borculo.",
                   "category": "museum",
                   "coords": [
                         6.49194,
@@ -47705,7 +48731,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Landgoed Erve Giegink",
-                  "text": "A scenic nature reserve on an estate in Borculo.",
+                  "text": "Landgoed Erve Giegink is a country estate with parks and woodland in Borculo.",
                   "category": "natural",
                   "coords": [
                         6.515275,
@@ -47807,7 +48833,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hondenvijver",
-                  "text": "Hondenvijver Strand bei Holten.",
+                  "text": "Der Hondenvijver ist ein Teich in Holten, der speziell für Hunde zum Schwimmen angelegt wurde.",
                   "category": "recreational",
                   "coords": [
                         6.458719,
@@ -47861,7 +48887,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Henk Mulder",
-                  "text": "Eine Kunstgalerie in Holten, die lokale Werke präsentiert.",
+                  "text": "Das Henk Mulder ist ein Museum in Holten, das dem lokalen Künstler Henk Mulder gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         6.42553,
@@ -47888,7 +48914,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gemeentelijk openluchtzwembad Twenhaarsveld",
-                  "text": "Ein städtisches Freibad in Holten.",
+                  "text": "Das Gemeentelijk openluchtzwembad Twenhaarsveld ist ein Freibad im Ortsteil Twenhaarsveld von Holten.",
                   "category": "recreational",
                   "coords": [
                         6.445218,
@@ -47899,7 +48925,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hondenvijver",
-                  "text": "Hondenvijver strand, Holten közelében.",
+                  "text": "A Hondenvijver egy tó Holtenben, amelyet kifejezetten kutyák számára alakítottak ki úszásra.",
                   "category": "recreational",
                   "coords": [
                         6.458719,
@@ -47953,7 +48979,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Henk Mulder",
-                  "text": "Művészeti galéria Holtenben, amely helyi alkotásokat mutat be.",
+                  "text": "A Henk Mulder egy múzeum Holtenben, amely a helyi művész Henk Mulder munkásságának van szentelve.",
                   "category": "museum",
                   "coords": [
                         6.42553,
@@ -47980,7 +49006,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gemeentelijk openluchtzwembad Twenhaarsveld",
-                  "text": "Városi szabadtéri úszómedence Holtenben.",
+                  "text": "A Gemeentelijk openluchtzwembad Twenhaarsveld egy szabadtéri uszoda Holten Twenhaarsveld negyedében.",
                   "category": "recreational",
                   "coords": [
                         6.445218,
@@ -47991,7 +49017,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hondenvijver",
-                  "text": "Plaja Hondenvijver, lângă Holten.",
+                  "text": "Hondenvijver este un iaz în Holten amenajat special pentru câini pentru a înota.",
                   "category": "recreational",
                   "coords": [
                         6.458719,
@@ -48045,7 +49071,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Henk Mulder",
-                  "text": "O galerie de artă în Holten care prezintă lucrări locale.",
+                  "text": "Henk Mulder este un muzeu în Holten dedicat artistului local Henk Mulder.",
                   "category": "museum",
                   "coords": [
                         6.42553,
@@ -48072,7 +49098,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gemeentelijk openluchtzwembad Twenhaarsveld",
-                  "text": "O piscină municipală în aer liber situată în Holten.",
+                  "text": "Gemeentelijk openluchtzwembad Twenhaarsveld este o piscină în aer liber în zona Twenhaarsveld din Holten.",
                   "category": "recreational",
                   "coords": [
                         6.445218,
@@ -48083,7 +49109,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hondenvijver",
-                  "text": "Hondenvijver beach near Holten.",
+                  "text": "Hondenvijver is a pond in Holten specifically for dogs to swim.",
                   "category": "recreational",
                   "coords": [
                         6.458719,
@@ -48137,7 +49163,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Henk Mulder",
-                  "text": "An art gallery in Holten showcasing local works.",
+                  "text": "Henk Mulder is a museum in Holten dedicated to local artist Henk Mulder.",
                   "category": "museum",
                   "coords": [
                         6.42553,
@@ -48164,7 +49190,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gemeentelijk openluchtzwembad Twenhaarsveld",
-                  "text": "A municipal outdoor swimming pool located in Holten.",
+                  "text": "Gemeentelijk openluchtzwembad Twenhaarsveld is an outdoor swimming pool in the Twenhaarsveld area of Holten.",
                   "category": "recreational",
                   "coords": [
                         6.445218,
@@ -48257,7 +49283,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Story of Edam Cheese",
-                  "text": "Ein interaktives Museum zur Geschichte des Edamer Käses.",
+                  "text": "The Story of Edam Cheese ist ein Museum in Edam, das die Geschichte des Edamer Käses zeigt.",
                   "category": "museum",
                   "coords": [
                         5.048071,
@@ -48284,7 +49310,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kathammer",
-                  "text": "Eine historische Windmühle auf dem Deich bei Edam.",
+                  "text": "Eine Windmühle in Edam, erbaut 1896.",
                   "category": "landmark",
                   "coords": [
                         5.057115,
@@ -48302,7 +49328,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kaasmarkten Edam",
-                  "text": "Die berühmten traditionellen Käsemärkte in Edam.",
+                  "text": "Die Kaasmarkten Edam sind der historische Käsemarktplatz in der Altstadt von Edam.",
                   "category": "landmark",
                   "coords": [
                         5.047567,
@@ -48311,7 +49337,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maria van het Water",
-                  "text": "Ein Ort der Anbetung und spirituelle Stätte in Edam.",
+                  "text": "Eine der Unserer Lieben Frau vom Wasser geweihte Kirche in Edam.",
                   "category": "religious",
                   "coords": [
                         5.068146,
@@ -48374,7 +49400,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Slobbeland",
-                  "text": "Ein Spielplatz in Edam, der Freizeitvergnügen für Familien in Meeresnähe bietet.",
+                  "text": "Slobbeland ist ein familienfreundliches Ausflugsziel in Edam, benannt nach der Slobbe-Polder.",
                   "category": "family",
                   "coords": [
                         5.070111,
@@ -48430,7 +49456,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Story of Edam Cheese",
-                  "text": "Interaktív múzeum, amely az edami sajt történetét mutatja be.",
+                  "text": "A The Story of Edam Cheese múzeum Edamban, amely az edami sajt történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         5.048071,
@@ -48457,7 +49483,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kathammer",
-                  "text": "Történelmi szélmalom a gáton, Edam közelében.",
+                  "text": "Szélmalom Edamban, 1896-ban épült.",
                   "category": "landmark",
                   "coords": [
                         5.057115,
@@ -48475,7 +49501,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kaasmarkten Edam",
-                  "text": "A híres hagyományos sajtpiacok Edamban.",
+                  "text": "A Kaasmarkten Edam az edami óváros történelmi sajtpiaca.",
                   "category": "landmark",
                   "coords": [
                         5.047567,
@@ -48484,7 +49510,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maria van het Water",
-                  "text": "Istentiszteleti hely és spirituális központ Edamban.",
+                  "text": "A Víz Királynőjének szentelt templom Edamban.",
                   "category": "religious",
                   "coords": [
                         5.068146,
@@ -48547,7 +49573,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Slobbeland",
-                  "text": "Játszótér Edamban, amely családi szórakozást kínál a tenger közelében.",
+                  "text": "A Slobbeland egy családbarát látványosság Edamban, a Slobbe-polder után elnevezve.",
                   "category": "family",
                   "coords": [
                         5.070111,
@@ -48603,7 +49629,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Story of Edam Cheese",
-                  "text": "Un muzeu interactiv care explică istoria brânzei Edam.",
+                  "text": "The Story of Edam Cheese este un muzeu din Edam dedicat istoriei brânzei de Edam.",
                   "category": "museum",
                   "coords": [
                         5.048071,
@@ -48630,7 +49656,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kathammer",
-                  "text": "O moară de vânt istorică situată pe digul de lângă Edam.",
+                  "text": "O moară de vânt în Edam, construită în 1896.",
                   "category": "landmark",
                   "coords": [
                         5.057115,
@@ -48648,7 +49674,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kaasmarkten Edam",
-                  "text": "Faimoasele piețe tradiționale de brânză desfășurate în Edam.",
+                  "text": "Kaasmarkten Edam este piața istorică de brânză din centrul vechi al Edamului.",
                   "category": "landmark",
                   "coords": [
                         5.047567,
@@ -48657,7 +49683,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Maria van het Water",
-                  "text": "Un lăcaș de cult și sit spiritual în Edam.",
+                  "text": "O biserică dedicată Maicii Domnului Apei din Edam.",
                   "category": "religious",
                   "coords": [
                         5.068146,
@@ -48720,7 +49746,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Slobbeland",
-                  "text": "Un loc de joacă în Edam, care oferă divertisment pentru familii în apropierea mării.",
+                  "text": "Slobbeland este o atracție pentru familii din Edam, numită după polderul Slobbe.",
                   "category": "family",
                   "coords": [
                         5.070111,
@@ -48776,7 +49802,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "The Story of Edam Cheese",
-                  "text": "An interactive museum explaining the history of Edam cheese.",
+                  "text": "The Story of Edam Cheese is a museum in Edam that tells the history of Edam cheese.",
                   "category": "museum",
                   "coords": [
                         5.048071,
@@ -48803,7 +49829,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kathammer",
-                  "text": "A historic windmill located on the dike near Edam.",
+                  "text": "A windmill in Edam, built in 1896.",
                   "category": "landmark",
                   "coords": [
                         5.057115,
@@ -48821,7 +49847,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kaasmarkten Edam",
-                  "text": "The famous traditional cheese markets held in Edam.",
+                  "text": "Kaasmarkten Edam is the historic cheese market square in Edam's old town.",
                   "category": "landmark",
                   "coords": [
                         5.047567,
@@ -48830,7 +49856,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of the Water",
-                  "text": "A place of worship and spiritual site in Edam.",
+                  "text": "A church dedicated to Our Lady of the Water in Edam.",
                   "category": "religious",
                   "coords": [
                         5.068146,
@@ -48893,7 +49919,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Slobbeland",
-                  "text": "A playground in Edam offering family fun near the sea.",
+                  "text": "Slobbeland is a family-friendly attraction in Edam, named after the Slobbe polder.",
                   "category": "family",
                   "coords": [
                         5.070111,
@@ -49004,7 +50030,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwarte Meer",
-                  "text": "Das Zwarte Meer bei Genemuiden ist ein Natursee, der sich hervorragend für ruhige Beobachtungen eignet.",
+                  "text": "Das Zwarte Meer ist ein See in der Nähe von Genemuiden, ein Teil des Randmerengebiets.",
                   "category": "natural",
                   "coords": [
                         5.932514,
@@ -49087,7 +50113,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwarte Meer",
-                  "text": "A Genemuiden melletti Zwarte Meer egy természetes tó, amely kiválóan alkalmas a csendes megfigyelésre.",
+                  "text": "A Zwarte Meer egy tó Genemuiden közelében, a Randmeer-vidék része.",
                   "category": "natural",
                   "coords": [
                         5.932514,
@@ -49170,7 +50196,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwarte Meer",
-                  "text": "Zwarte Meer de lângă Genemuiden este un lac natural, excelent pentru observații liniștite.",
+                  "text": "Zwarte Meer este un lac lângă Genemuiden, parte a zonei Randmeren.",
                   "category": "natural",
                   "coords": [
                         5.932514,
@@ -49253,7 +50279,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwarte Meer",
-                  "text": "Zwarte Meer near Genemuiden is a natural lake, excellent for quiet observations.",
+                  "text": "Zwarte Meer is a lake near Genemuiden, part of the Randmeren region.",
                   "category": "natural",
                   "coords": [
                         5.932514,
@@ -49337,7 +50363,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lutjestrand.",
-                  "text": "Strand bei Wieringen, ein ruhiger Ort am Wasser.",
+                  "text": "Lutjestrand ist ein Sandstrand auf der Insel Wieringen am IJsselmeer.",
                   "category": "recreational",
                   "coords": [
                         4.911898,
@@ -49375,7 +50401,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lutjestrand.",
-                  "text": "Strand Wieringen mellett, csendes vízparti hely.",
+                  "text": "A Lutjestrand egy homokos strand Wieringen szigetén az IJsselmeer partján.",
                   "category": "recreational",
                   "coords": [
                         4.911898,
@@ -49413,7 +50439,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lutjestrand.",
-                  "text": "Plajă lângă Wieringen, un loc liniștit pe malul apei.",
+                  "text": "Lutjestrand este o plajă cu nisip pe insula Wieringen, pe malul IJsselmeer.",
                   "category": "recreational",
                   "coords": [
                         4.911898,
@@ -49451,7 +50477,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lutjestrand.",
-                  "text": "Beach near Wieringen, a quiet spot by the water.",
+                  "text": "Lutjestrand is a sandy beach on the island of Wieringen along the IJsselmeer.",
                   "category": "recreational",
                   "coords": [
                         4.911898,
@@ -49535,7 +50561,7 @@ export const netherlandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bornia",
-                  "text": "Ein vielfältiges Naturschutzgebiet mit Wäldern und Heidelandschaften.",
+                  "text": "Bornia ist ein Waldgebiet in Driebergen-Rijsenburg, Teil der Utrechtse Heuvelrug.",
                   "category": "natural",
                   "coords": [
                         5.298577,
@@ -49643,7 +50669,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zandhoeve",
-                  "text": "Ein Naturschutzgebiet in der Region Driebergen-Rijsenburg.",
+                  "text": "Zandhoeve ist eine sandige Naturfläche in Driebergen-Rijsenburg, ehemals eine Sandfarm.",
                   "category": "natural",
                   "coords": [
                         5.302581,
@@ -49652,7 +50678,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dubbeldijk",
-                  "text": "Ein geschütztes Naturgebiet in Driebergen-Rijsenburg.",
+                  "text": "Dubbeldijk ist ein Landschaftsgebiet mit einem Doppeldeich in Driebergen-Rijsenburg.",
                   "category": "natural",
                   "coords": [
                         5.263443,
@@ -49661,7 +50687,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Esselink",
-                  "text": "Ein kleineres Naturschutzgebiet in Driebergen-Rijsenburg.",
+                  "text": "Esselink ist ein Naturschutzgebiet in Driebergen-Rijsenburg, bekannt für seine Wälder.",
                   "category": "natural",
                   "coords": [
                         5.245447,
@@ -49670,7 +50696,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Groot Kruivestein",
-                  "text": "Ein weitläufiges Naturschutzgebiet in Driebergen-Rijsenburg.",
+                  "text": "Groot Kruivestein ist ein großes Landgut in Driebergen-Rijsenburg mit historischen Gärten.",
                   "category": "natural",
                   "coords": [
                         5.299382,
@@ -49706,7 +50732,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beukenrode",
-                  "text": "Ein bewaldetes Naturschutzgebiet in Driebergen-Rijsenburg.",
+                  "text": "Beukenrode ist ein Waldgebiet in Driebergen-Rijsenburg, benannt nach den Buchen (Beuken).",
                   "category": "natural",
                   "coords": [
                         5.317783,
@@ -49733,7 +50759,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Overplaats Lindenhorst",
-                  "text": "Ein Teil eines historischen Landguts in Driebergen-Rijsenburg.",
+                  "text": "Overplaats Lindenhorst ist ein ehemaliges Landgut in Driebergen-Rijsenburg, heute Naturschutzgebiet.",
                   "category": "natural",
                   "coords": [
                         5.302799,
@@ -49805,7 +50831,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Antropia",
-                  "text": "Ein Kultur- und Tagungszentrum in Driebergen-Rijsenburg.",
+                  "text": "Antropia ist ein kulturelles Zentrum in Driebergen-Rijsenburg mit Konferenzräumen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         5.261186,
@@ -49841,7 +50867,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Die Kinderboerderij \"Dier en Wij\" ist ein Streichelzoo für Kinder in Driebergen-Rijsenburg.",
+                  "text": "Der Kinderboerderij Dier en Wij ist ein Streichelzoo in Driebergen-Rijsenburg für Kinder.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -49852,7 +50878,7 @@ export const netherlandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bornia",
-                  "text": "Változatos természetvédelmi terület erdőkkel és fenyérekkel.",
+                  "text": "A Bornia egy erdős terület Driebergen-Rijsenburgban, az Utrechtse Heuvelrug része.",
                   "category": "natural",
                   "coords": [
                         5.298577,
@@ -49960,7 +50986,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zandhoeve",
-                  "text": "Természetvédelmi terület Driebergen-Rijsenburg régiójában.",
+                  "text": "A Zandhoeve egy homokos természeti terület Driebergen-Rijsenburgban, egykor homokfarm.",
                   "category": "natural",
                   "coords": [
                         5.302581,
@@ -49969,7 +50995,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dubbeldijk",
-                  "text": "Védett természeti terület Driebergen-Rijsenburgban.",
+                  "text": "A Dubbeldijk egy tájterület kettős gáttal Driebergen-Rijsenburgban.",
                   "category": "natural",
                   "coords": [
                         5.263443,
@@ -49978,7 +51004,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Esselink",
-                  "text": "Kisebb természetvédelmi terület Driebergen-Rijsenburgban.",
+                  "text": "Az Esselink egy természetvédelmi terület Driebergen-Rijsenburgban, erdeiről ismert.",
                   "category": "natural",
                   "coords": [
                         5.245447,
@@ -49987,7 +51013,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Groot Kruivestein",
-                  "text": "Kiterjedt természetvédelmi terület Driebergen-Rijsenburgban.",
+                  "text": "A Groot Kruivestein egy nagy birtok Driebergen-Rijsenburgban, történelmi kertekkel.",
                   "category": "natural",
                   "coords": [
                         5.299382,
@@ -50023,7 +51049,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beukenrode",
-                  "text": "Erdős természetvédelmi terület Driebergen-Rijsenburgban.",
+                  "text": "A Beukenrode egy erdős terület Driebergen-Rijsenburgban, a bükkfákról (Beuken) elnevezve.",
                   "category": "natural",
                   "coords": [
                         5.317783,
@@ -50050,7 +51076,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Overplaats Lindenhorst",
-                  "text": "Egy történelmi birtok része Driebergen-Rijsenburgban.",
+                  "text": "Az Overplaats Lindenhorst egy egykori birtok Driebergen-Rijsenburgban, ma természetvédelmi terület.",
                   "category": "natural",
                   "coords": [
                         5.302799,
@@ -50122,7 +51148,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Antropia",
-                  "text": "Kulturális és konferenciaközpont Driebergen-Rijsenburgban.",
+                  "text": "Az Antropia egy kulturális központ Driebergen-Rijsenburgban, konferenciatermekkel és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         5.261186,
@@ -50158,7 +51184,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "A Kinderboerderij \"Dier en Wij\" egy gyermekeknek szóló állatsimogató Driebergen-Rijsenburgban.",
+                  "text": "A Kinderboerderij Dier en Wij egy simogató állatkert Driebergen-Rijsenburgban gyermekek számára.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -50169,7 +51195,7 @@ export const netherlandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bornia",
-                  "text": "O rezervație naturală diversă, cu păduri și terenuri cu arbusti.",
+                  "text": "Bornia este o zonă împădurită în Driebergen-Rijsenburg, parte a Utrechtse Heuvelrug.",
                   "category": "natural",
                   "coords": [
                         5.298577,
@@ -50277,7 +51303,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zandhoeve",
-                  "text": "O rezervație naturală în regiunea Driebergen-Rijsenburg.",
+                  "text": "Zandhoeve este o zonă naturală nisipoasă în Driebergen-Rijsenburg, fostă fermă de nisip.",
                   "category": "natural",
                   "coords": [
                         5.302581,
@@ -50286,7 +51312,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dubbeldijk",
-                  "text": "O zonă naturală protejată în Driebergen-Rijsenburg.",
+                  "text": "Dubbeldijk este o zonă peisagistică cu un dig dublu în Driebergen-Rijsenburg.",
                   "category": "natural",
                   "coords": [
                         5.263443,
@@ -50295,7 +51321,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Esselink",
-                  "text": "O rezervație naturală mai mică în Driebergen-Rijsenburg.",
+                  "text": "Esselink este o rezervație naturală în Driebergen-Rijsenburg, cunoscută pentru pădurile sale.",
                   "category": "natural",
                   "coords": [
                         5.245447,
@@ -50304,7 +51330,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Groot Kruivestein",
-                  "text": "O rezervație naturală vastă în Driebergen-Rijsenburg.",
+                  "text": "Groot Kruivestein este o mare moșie în Driebergen-Rijsenburg, cu grădini istorice.",
                   "category": "natural",
                   "coords": [
                         5.299382,
@@ -50340,7 +51366,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beukenrode",
-                  "text": "O rezervație naturală împădurită în Driebergen-Rijsenburg.",
+                  "text": "Beukenrode este o zonă împădurită în Driebergen-Rijsenburg, numită după fagi (Beuken).",
                   "category": "natural",
                   "coords": [
                         5.317783,
@@ -50367,7 +51393,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Overplaats Lindenhorst",
-                  "text": "O parte a unei moșii istorice din Driebergen-Rijsenburg.",
+                  "text": "Overplaats Lindenhorst este o fostă moșie în Driebergen-Rijsenburg, acum rezervație naturală.",
                   "category": "natural",
                   "coords": [
                         5.302799,
@@ -50439,7 +51465,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Antropia",
-                  "text": "Un centru cultural și de conferințe în Driebergen-Rijsenburg.",
+                  "text": "Antropia este un centru cultural în Driebergen-Rijsenburg, cu săli de conferințe și evenimente.",
                   "category": "cultural",
                   "coords": [
                         5.261186,
@@ -50475,7 +51501,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Kinderboerderij \"Dier en Wij\" este o grădină zoologică cu animale domestice pentru copii din Driebergen-Rijsenburg.",
+                  "text": "Kinderboerderij Dier en Wij este o fermă de animale de mângâiat în Driebergen-Rijsenburg pentru copii.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -50486,7 +51512,7 @@ export const netherlandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bornia",
-                  "text": "A diverse nature reserve with forests and heathlands.",
+                  "text": "Bornia is a wooded area in Driebergen-Rijsenburg, part of the Utrechtse Heuvelrug.",
                   "category": "natural",
                   "coords": [
                         5.298577,
@@ -50594,7 +51620,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zandhoeve",
-                  "text": "A nature reserve located in the Driebergen-Rijsenburg area.",
+                  "text": "Zandhoeve is a sandy natural area in Driebergen-Rijsenburg, once a sand farm.",
                   "category": "natural",
                   "coords": [
                         5.302581,
@@ -50603,7 +51629,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Dubbeldijk",
-                  "text": "A protected natural area located in Driebergen-Rijsenburg.",
+                  "text": "Dubbeldijk is a landscape area featuring a double dike in Driebergen-Rijsenburg.",
                   "category": "natural",
                   "coords": [
                         5.263443,
@@ -50612,7 +51638,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Esselink",
-                  "text": "A smaller nature reserve located in Driebergen-Rijsenburg.",
+                  "text": "Esselink is a nature reserve in Driebergen-Rijsenburg, known for its forests.",
                   "category": "natural",
                   "coords": [
                         5.245447,
@@ -50621,7 +51647,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Groot Kruivestein",
-                  "text": "An extensive nature reserve in Driebergen-Rijsenburg.",
+                  "text": "Groot Kruivestein is a large estate in Driebergen-Rijsenburg with historic gardens.",
                   "category": "natural",
                   "coords": [
                         5.299382,
@@ -50657,7 +51683,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Beukenrode",
-                  "text": "A wooded nature reserve located in Driebergen-Rijsenburg.",
+                  "text": "Beukenrode is a woodland area in Driebergen-Rijsenburg, named after beech trees.",
                   "category": "natural",
                   "coords": [
                         5.317783,
@@ -50684,7 +51710,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Overplaats Lindenhorst",
-                  "text": "Part of a historic estate located in Driebergen-Rijsenburg.",
+                  "text": "Overplaats Lindenhorst is a former estate in Driebergen-Rijsenburg, now a nature reserve.",
                   "category": "natural",
                   "coords": [
                         5.302799,
@@ -50756,7 +51782,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Antropia",
-                  "text": "A cultural and conference centre located in Driebergen-Rijsenburg.",
+                  "text": "Antropia is a cultural centre in Driebergen-Rijsenburg featuring conference spaces and events.",
                   "category": "cultural",
                   "coords": [
                         5.261186,
@@ -50792,7 +51818,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Kinderboerderij \"Dier en Wij\" is a petting zoo for children in Driebergen-Rijsenburg.",
+                  "text": "Kinderboerderij Dier en Wij is a petting zoo in Driebergen-Rijsenburg for children.",
                   "category": "recreational",
                   "coords": [
                         5.240451,
@@ -51056,7 +52082,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lansing",
-                  "text": "Ein ruhiges Naturschutzgebiet in der Umgebung von Waddinxveen.",
+                  "text": "De Lansing ist ein Naturgebiet in Waddinxveen, ein Polder mit Wiesen und Wassergräben.",
                   "category": "natural",
                   "coords": [
                         4.679527,
@@ -51065,7 +52091,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cultuurhuys De Kroon",
-                  "text": "Ein lokales Theater und Kulturzentrum in Waddinxveen.",
+                  "text": "Cultuurhuys De Kroon ist ein Kulturhaus in Waddinxveen mit Theaterbühne und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         4.651576,
@@ -51074,7 +52100,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Contactweide",
-                  "text": "Ein kleiner Zoo in Waddinxveen, ideal für Familienbesuche.",
+                  "text": "Kinderboerderij Contactweide ist ein Bauernhof mit Tieren zum Anfassen in Waddinxveen.",
                   "category": "family",
                   "coords": [
                         4.644105,
@@ -51083,7 +52109,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gallerie 58",
-                  "text": "Eine Galerie in Waddinxveen, die zeitgenössische Kunst ausstellt.",
+                  "text": "Gallerie 58 ist eine Kunstgalerie in Waddinxveen mit wechselnden Ausstellungen zeitgenössischer Kunst.",
                   "category": "museum",
                   "coords": [
                         4.641358,
@@ -51137,7 +52163,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hefbrug Waddinxveen",
-                  "text": "Eine berühmte historische Hubbrücke über den Fluss Gouwe.",
+                  "text": "Eine Hubbrücke über den Gouwe-Kanal in Waddinxveen.",
                   "category": "landmark",
                   "coords": [
                         4.659681,
@@ -51146,7 +52172,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Prins Willem Alexandertunnel",
-                  "text": "Ein wichtiger Verkehrstunnel in der Nähe von Waddinxveen.",
+                  "text": "Ein nach Prinz Willem-Alexander benannter Tunnel in Waddinxveen.",
                   "category": "landmark",
                   "coords": [
                         4.649497,
@@ -51182,7 +52208,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westergouweplas",
-                  "text": "Ein neuer See in der Nähe von Waddinxveen für erholsame Spaziergänge.",
+                  "text": "Die Westergouweplas ist ein Badesee in Waddinxveen, umgeben von Grünflächen.",
                   "category": "natural",
                   "coords": [
                         4.68601,
@@ -51254,7 +52280,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'s-Gravenbroek",
-                  "text": "Ein weitläufiger See bei Waddinxveen, der zu Erkundungen einlädt.",
+                  "text": "'s-Gravenbroek ist ein Naturgebiet in Waddinxveen, ein Feuchtgebiet mit Röhricht und Wasserflächen.",
                   "category": "natural",
                   "coords": [
                         4.734098,
@@ -51425,7 +52451,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Dierendal",
-                  "text": "Die Kinderboerderij Dierendal ist ein kleiner Streichelzoo für Kinder in Waddinxveen.",
+                  "text": "Kinderboerderij Dierendal ist ein kinderfreundlicher Bauernhof in Waddinxveen mit Ziegen und Kaninchen.",
                   "category": "recreational",
                   "coords": [
                         4.652613,
@@ -51445,7 +52471,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lansing",
-                  "text": "Csendes természetvédelmi terület Waddinxveen környékén.",
+                  "text": "A De Lansing egy természeti terület Waddinxveenben, rétes és vízárkokkal tarkított polder.",
                   "category": "natural",
                   "coords": [
                         4.679527,
@@ -51454,7 +52480,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cultuurhuys De Kroon",
-                  "text": "Helyi színház és kulturális központ Waddinxveenben.",
+                  "text": "A Cultuurhuys De Kroon egy kultúrház Waddinxveenben, színpaddal és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         4.651576,
@@ -51463,7 +52489,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Contactweide",
-                  "text": "Kisméretű állatkert Waddinxveenben, ideális családi látogatásokhoz.",
+                  "text": "A Kinderboerderij Contactweide egy állatfarm Waddinxveenben, ahol a gyerekek megérinthetik az állatokat.",
                   "category": "family",
                   "coords": [
                         4.644105,
@@ -51472,7 +52498,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gallerie 58",
-                  "text": "Galéria Waddinxveenben, amely kortárs művészetet állít ki.",
+                  "text": "A Gallerie 58 egy művészeti galéria Waddinxveenben, kortárs művészeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         4.641358,
@@ -51526,7 +52552,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hefbrug Waddinxveen",
-                  "text": "Híres történelmi emelőhíd a Gouwe-folyó felett.",
+                  "text": "Emelhető híd a Gouwe-csatorna fölött Waddinxveenben.",
                   "category": "landmark",
                   "coords": [
                         4.659681,
@@ -51535,7 +52561,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Prins Willem Alexandertunnel",
-                  "text": "Fontos közlekedési alagút Waddinxveen közelében.",
+                  "text": "Willem-Alexander hercegről elnevezett alagút Waddinxveenben.",
                   "category": "landmark",
                   "coords": [
                         4.649497,
@@ -51571,7 +52597,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westergouweplas",
-                  "text": "Új tó Waddinxveen környékén a pihentető sétákhoz.",
+                  "text": "A Westergouweplas egy fürdőtó Waddinxveenben, zöldterületekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         4.68601,
@@ -51643,7 +52669,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'s-Gravenbroek",
-                  "text": "Tágas tó Waddinxveen közelében, amely felfedezésre hív.",
+                  "text": "A 's-Gravenbroek egy természeti terület Waddinxveenben, nádasokkal és vízfelületekkel.",
                   "category": "natural",
                   "coords": [
                         4.734098,
@@ -51814,7 +52840,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Dierendal",
-                  "text": "A Kinderboerderij Dierendal egy kis állatsimogató gyerekeknek Waddinxveenben.",
+                  "text": "A Kinderboerderij Dierendal egy gyermekbarát farm Waddinxveenben, kecskékkel és nyulakkal.",
                   "category": "recreational",
                   "coords": [
                         4.652613,
@@ -51834,7 +52860,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lansing",
-                  "text": "O rezervație naturală liniștită în zona Waddinxveen.",
+                  "text": "De Lansing este o zonă naturală în Waddinxveen, un polder cu pajiști și șanțuri de apă.",
                   "category": "natural",
                   "coords": [
                         4.679527,
@@ -51843,7 +52869,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cultuurhuys De Kroon",
-                  "text": "Un teatru local și centru cultural în Waddinxveen.",
+                  "text": "Cultuurhuys De Kroon este o casă de cultură în Waddinxveen, cu scenă de teatru și expoziții.",
                   "category": "cultural",
                   "coords": [
                         4.651576,
@@ -51852,7 +52878,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Contactweide",
-                  "text": "O mică grădină zoologică în Waddinxveen, ideală pentru vizite în familie.",
+                  "text": "Kinderboerderij Contactweide este o fermă cu animale de contact în Waddinxveen.",
                   "category": "family",
                   "coords": [
                         4.644105,
@@ -51861,7 +52887,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gallerie 58",
-                  "text": "O galerie în Waddinxveen care expune artă contemporană.",
+                  "text": "Gallerie 58 este o galerie de artă în Waddinxveen cu expoziții de artă contemporană.",
                   "category": "museum",
                   "coords": [
                         4.641358,
@@ -51915,7 +52941,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hefbrug Waddinxveen",
-                  "text": "Un celebru pod basculant istoric peste râul Gouwe.",
+                  "text": "Un pod mobil peste canalul Gouwe în Waddinxveen.",
                   "category": "landmark",
                   "coords": [
                         4.659681,
@@ -51924,7 +52950,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Prins Willem Alexandertunnel",
-                  "text": "Un tunel rutier important în apropiere de Waddinxveen.",
+                  "text": "Un tunel numit după Prințul Willem-Alexander în Waddinxveen.",
                   "category": "landmark",
                   "coords": [
                         4.649497,
@@ -51960,7 +52986,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westergouweplas",
-                  "text": "Un lac nou lângă Waddinxveen pentru plimbări relaxante.",
+                  "text": "Westergouweplas este un lac de înot în Waddinxveen, înconjurat de spații verzi.",
                   "category": "natural",
                   "coords": [
                         4.68601,
@@ -52032,7 +53058,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'s-Gravenbroek",
-                  "text": "Un lac întins lângă Waddinxveen, care invită la explorare.",
+                  "text": "'s-Gravenbroek este o zonă naturală în Waddinxveen, o zonă umedă cu stuf și luciu de apă.",
                   "category": "natural",
                   "coords": [
                         4.734098,
@@ -52203,7 +53229,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Dierendal",
-                  "text": "Kinderboerderij Dierendal este o mică grădină zoologică pentru copii în Waddinxveen.",
+                  "text": "Kinderboerderij Dierendal este o fermă prietenoasă pentru copii în Waddinxveen, cu capre și iepuri.",
                   "category": "recreational",
                   "coords": [
                         4.652613,
@@ -52223,7 +53249,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Lansing",
-                  "text": "A quiet nature reserve in the Waddinxveen area.",
+                  "text": "De Lansing is a natural area in Waddinxveen, a polder with meadows and ditches.",
                   "category": "natural",
                   "coords": [
                         4.679527,
@@ -52232,7 +53258,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cultuurhuys De Kroon",
-                  "text": "A local theatre and cultural centre in Waddinxveen.",
+                  "text": "Cultuurhuys De Kroon is a cultural centre in Waddinxveen with a theatre stage and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         4.651576,
@@ -52241,7 +53267,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Contactweide",
-                  "text": "A small zoo in Waddinxveen, ideal for family visits.",
+                  "text": "Kinderboerderij Contactweide is a petting farm in Waddinxveen where children can touch animals.",
                   "category": "family",
                   "coords": [
                         4.644105,
@@ -52250,7 +53276,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Gallerie 58",
-                  "text": "A gallery in Waddinxveen exhibiting contemporary art.",
+                  "text": "Gallerie 58 is an art gallery in Waddinxveen featuring rotating contemporary art exhibitions.",
                   "category": "museum",
                   "coords": [
                         4.641358,
@@ -52304,7 +53330,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hefbrug Waddinxveen",
-                  "text": "A famous historical lift bridge over the river Gouwe.",
+                  "text": "A lift bridge over the Gouwe canal in Waddinxveen.",
                   "category": "landmark",
                   "coords": [
                         4.659681,
@@ -52313,7 +53339,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Prins Willem Alexandertunnel",
-                  "text": "An important traffic tunnel near Waddinxveen.",
+                  "text": "A tunnel named after Prince Willem-Alexander in Waddinxveen.",
                   "category": "landmark",
                   "coords": [
                         4.649497,
@@ -52349,7 +53375,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Westergouweplas",
-                  "text": "A new lake near Waddinxveen for relaxing walks.",
+                  "text": "Westergouweplas is a swimming lake in Waddinxveen surrounded by green areas.",
                   "category": "natural",
                   "coords": [
                         4.68601,
@@ -52421,7 +53447,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'s-Gravenbroek",
-                  "text": "A vast lake near Waddinxveen that invites exploration.",
+                  "text": "'s-Gravenbroek is a natural area in Waddinxveen, a wetland with reeds and water bodies.",
                   "category": "natural",
                   "coords": [
                         4.734098,
@@ -52592,7 +53618,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij Dierendal",
-                  "text": "Kinderboerderij Dierendal is a small petting zoo for children in Waddinxveen.",
+                  "text": "Kinderboerderij Dierendal is a child-friendly farm in Waddinxveen with goats and rabbits.",
                   "category": "recreational",
                   "coords": [
                         4.652613,
@@ -52667,7 +53693,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Naturalis Biodiversity Centre",
-                  "text": "Ein weltweit bekanntes Museum und Forschungszentrum für biologische Vielfalt.",
+                  "text": "Ein Naturkundemuseum in Oegstgeest mit einer großen Fossiliensammlung.",
                   "category": "museum",
                   "coords": [
                         4.472888,
@@ -52811,7 +53837,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudenhofmolen",
-                  "text": "Eine historische Poldermühle in Oegstgeest.",
+                  "text": "Eine Windmühle in Oegstgeest, ursprünglich eine Getreidemühle.",
                   "category": "landmark",
                   "coords": [
                         4.473082,
@@ -52820,7 +53846,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwanburgermolen",
-                  "text": "Eine traditionelle Windmühle in der Nähe von Warmond.",
+                  "text": "Eine Polderwindmühle in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.512878,
@@ -52829,7 +53855,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Broekdijkmolen",
-                  "text": "Eine funktionsfähige Poldermühle bei Warmond.",
+                  "text": "Eine Windmühle in Oegstgeest, zur Entwässerung genutzt.",
                   "category": "landmark",
                   "coords": [
                         4.513666,
@@ -52838,7 +53864,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Poeltje",
-                  "text": "Eine kleine, charakteristische Windmühle in der Region.",
+                  "text": "Eine kleine Brücke über den Oegstgeesterkanaal.",
                   "category": "landmark",
                   "coords": [
                         4.493985,
@@ -52847,7 +53873,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmolen",
-                  "text": "Eine historische Windmühle im Stadtgebiet von Leiden.",
+                  "text": "Eine Windmühle in Oegstgeest, genannt „Stadsmolen“.",
                   "category": "landmark",
                   "coords": [
                         4.497909,
@@ -52856,7 +53882,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoop Doet Leven",
-                  "text": "Eine Poldermühle in Voorhout, die zur Entwässerung diente.",
+                  "text": "Eine Windmühle in Oegstgeest, genannt „Hoop Doet Leven“.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
@@ -52874,7 +53900,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk ist eine markante historische Windmühle in Oegstgeest.",
+                  "text": "De Valk ist eine historische Windmühle in Oegstgeest, ein Wahrzeichen der Region.",
                   "category": "landmark",
                   "coords": [
                         4.486407,
@@ -52892,7 +53918,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rembrandtbrug",
-                  "text": "Die Rembrandtbrug ist eine malerische Brücke in Oegstgeest.",
+                  "text": "Eine Brücke in Oegstgeest, benannt nach dem Maler Rembrandt.",
                   "category": "landmark",
                   "coords": [
                         4.482165,
@@ -52901,7 +53927,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bostelbrug",
-                  "text": "Die Bostelbrug ist eine funktionale Brücke im Stadtgebiet von Oegstgeest.",
+                  "text": "Eine Brücke in Oegstgeest, die die Oude Rijn überquert.",
                   "category": "landmark",
                   "coords": [
                         4.485335,
@@ -52919,7 +53945,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Haagbrug",
-                  "text": "Die Haagbrug ist eine Brücke, die die Infrastruktur von Oegstgeest ergänzt.",
+                  "text": "Eine Brücke in Oegstgeest, Teil des Kanalsystems der Stadt.",
                   "category": "landmark",
                   "coords": [
                         4.479854,
@@ -52928,7 +53954,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marepoortsbrug",
-                  "text": "Die Marepoortsbrug ist eine lokale Brücke im Stadtbild von Oegstgeest.",
+                  "text": "Eine Brücke in Oegstgeest in der Nähe des historischen Marepoort-Tors.",
                   "category": "landmark",
                   "coords": [
                         4.489422,
@@ -52946,7 +53972,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doelenpoortsbrug",
-                  "text": "Die Doelenpoortsbrug ist eine Brücke in der Nähe historischer Verteidigungsanlagen in Oegstgeest.",
+                  "text": "Eine Brücke in Oegstgeest in der Nähe des Doelenpoort-Tors.",
                   "category": "landmark",
                   "coords": [
                         4.48343,
@@ -52964,7 +53990,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huigpark",
-                  "text": "Der Huigpark ist ein Erholungsraum im Stadtgebiet von Oegstgeest.",
+                  "text": "Ein Park in Oegstgeest mit einem Teich und Spazierwegen.",
                   "category": "park",
                   "coords": [
                         4.497508,
@@ -52982,7 +54008,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "van Brouchovenhofje",
-                  "text": "Das van Brouchovenhofje ist ein gepflegter historischer Garten in Oegstgeest.",
+                  "text": "Ein historischer Begijnhof mit Garten in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.486488,
@@ -52991,7 +54017,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paviljoenshof",
-                  "text": "Der Paviljoenshof ist ein parkähnlicher Garten in Oegstgeest.",
+                  "text": "Ein Wohnhof mit zentralem Garten in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.484907,
@@ -53009,7 +54035,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aeldisbrug",
-                  "text": "Die Aeldisbrug ist eine moderne Brücke im Singelpark bei Oegstgeest.",
+                  "text": "Eine Brücke im Singelpark von Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.481945,
@@ -53018,7 +54044,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leidse Hout",
-                  "text": "Leidse Hout ist ein großer Stadtpark an der Grenze zwischen Leiden und Oegstgeest.",
+                  "text": "Leidse Hout ist ein großer Stadtpark in Oegstgeest, mit altem Baumbestand und Spielplätzen.",
                   "category": "park",
                   "coords": [
                         4.479133,
@@ -53027,7 +54053,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meermansburg",
-                  "text": "Meermansburg ist eine Gartenanlage mit historischer Bedeutung in Oegstgeest.",
+                  "text": "Ein Park in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.495096,
@@ -53036,7 +54062,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Norremeer",
-                  "text": "Ein ruhiger See in Oegstgeest, der sich gut für Naturspaziergänge eignet.",
+                  "text": "Der Norremeer ist ein kleiner See in Oegstgeest, ein Naherholungsgebiet für Spaziergänger.",
                   "category": "natural",
                   "coords": [
                         4.538377,
@@ -53072,7 +54098,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eijmerspoel",
-                  "text": "Ein lokaler See in Oegstgeest, der sich gut für kurze Wanderungen eignet.",
+                  "text": "Eijmerspoel ist ein Naturgebiet in Oegstgeest, ein Feuchtgebiet mit Teichen und Schilf.",
                   "category": "natural",
                   "coords": [
                         4.554453,
@@ -53099,7 +54125,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "Ein kleiner See in Oegstgeest, ideal für einen erholsamen Spaziergang.",
+                  "text": "Spriet ist ein schmaler Landschaftsstreifen in Oegstgeest, ein Grünzug entlang eines Bachs.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -53344,7 +54370,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Naturalis Biodiversity Centre",
-                  "text": "Világszerte ismert múzeum és kutatóközpont a biológiai sokféleségről.",
+                  "text": "Természettudományi múzeum Oegstgeestben, nagy fosszília-gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
                         4.472888,
@@ -53488,7 +54514,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudenhofmolen",
-                  "text": "Történelmi poldermalom Oegstgeestben.",
+                  "text": "Szélmalom Oegstgeestben, eredetileg gabonamalom.",
                   "category": "landmark",
                   "coords": [
                         4.473082,
@@ -53497,7 +54523,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwanburgermolen",
-                  "text": "Hagyományos szélmalom Warmond közelében.",
+                  "text": "Polderszélmalom Oegstgeestben.",
                   "category": "landmark",
                   "coords": [
                         4.512878,
@@ -53506,7 +54532,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Broekdijkmolen",
-                  "text": "Működőképes poldermalom Warmond közelében.",
+                  "text": "Szélmalom Oegstgeestben, vízelvezetésre használják.",
                   "category": "landmark",
                   "coords": [
                         4.513666,
@@ -53515,7 +54541,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Poeltje",
-                  "text": "Kisméretű, jellegzetes szélmalom a régióban.",
+                  "text": "Egy kis híd az Oegstgeester-csatorna fölött.",
                   "category": "landmark",
                   "coords": [
                         4.493985,
@@ -53524,7 +54550,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmolen",
-                  "text": "Történelmi szélmalom Leiden városterületén.",
+                  "text": "Szélmalom Oegstgeestben, „Stadsmolen” néven.",
                   "category": "landmark",
                   "coords": [
                         4.497909,
@@ -53533,7 +54559,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoop Doet Leven",
-                  "text": "Voorhouti poldermalom, amely vízelvezetésre szolgált.",
+                  "text": "Szélmalom Oegstgeestben, „Hoop Doet Leven” néven.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
@@ -53551,7 +54577,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk egy jellegzetes történelmi szélmalom Oegstgeestben.",
+                  "text": "A De Valk egy történelmi szélmalom Oegstgeestben, a vidék jelképe.",
                   "category": "landmark",
                   "coords": [
                         4.486407,
@@ -53569,7 +54595,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rembrandtbrug",
-                  "text": "A Rembrandtbrug egy festői híd Oegstgeestben.",
+                  "text": "Híd Oegstgeestben, Rembrandt festőről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         4.482165,
@@ -53578,7 +54604,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bostelbrug",
-                  "text": "A Bostelbrug egy funkcionális híd Oegstgeest városi területén.",
+                  "text": "Híd Oegstgeestben, amely az Oude Rijn folyón ível át.",
                   "category": "landmark",
                   "coords": [
                         4.485335,
@@ -53596,7 +54622,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Haagbrug",
-                  "text": "A Haagbrug egy híd, amely kiegészíti Oegstgeest infrastruktúráját.",
+                  "text": "Híd Oegstgeestben, a város csatornahálózatának része.",
                   "category": "landmark",
                   "coords": [
                         4.479854,
@@ -53605,7 +54631,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marepoortsbrug",
-                  "text": "A Marepoortsbrug egy helyi híd Oegstgeest városképében.",
+                  "text": "Híd Oegstgeestben, a történelmi Marepoort-kapu közelében.",
                   "category": "landmark",
                   "coords": [
                         4.489422,
@@ -53623,7 +54649,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doelenpoortsbrug",
-                  "text": "A Doelenpoortsbrug egy híd Oegstgeest történelmi védművei közelében.",
+                  "text": "Híd Oegstgeestben, a Doelenpoort-kapu közelében.",
                   "category": "landmark",
                   "coords": [
                         4.48343,
@@ -53641,7 +54667,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huigpark",
-                  "text": "A Huigpark egy pihenőhely Oegstgeest városi területén.",
+                  "text": "Park Oegstgeestben, tóval és sétányokkal.",
                   "category": "park",
                   "coords": [
                         4.497508,
@@ -53659,7 +54685,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "van Brouchovenhofje",
-                  "text": "A van Brouchovenhofje egy gondozott történelmi kert Oegstgeestben.",
+                  "text": "Történelmi alsóházegyüttes kerttel Oegstgeestben.",
                   "category": "park",
                   "coords": [
                         4.486488,
@@ -53668,7 +54694,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paviljoenshof",
-                  "text": "A Paviljoenshof egy parkosított kert Oegstgeestben.",
+                  "text": "Lakóudvar központi kerttel Oegstgeestben.",
                   "category": "park",
                   "coords": [
                         4.484907,
@@ -53686,7 +54712,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aeldisbrug",
-                  "text": "Az Aeldisbrug egy modern híd a Singelparkban, Oegstgeest közelében.",
+                  "text": "Híd az oegstgeesti Singelparkban.",
                   "category": "landmark",
                   "coords": [
                         4.481945,
@@ -53695,7 +54721,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leidse Hout",
-                  "text": "A Leidse Hout egy nagy városi park Leiden és Oegstgeest határán.",
+                  "text": "A Leidse Hout egy nagy városi park Oegstgeestben, idős fákkal és játszóterekkel.",
                   "category": "park",
                   "coords": [
                         4.479133,
@@ -53704,7 +54730,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meermansburg",
-                  "text": "Meermansburg egy történelmi jelentőségű kert Oegstgeestben.",
+                  "text": "Park Oegstgeestben.",
                   "category": "park",
                   "coords": [
                         4.495096,
@@ -53713,7 +54739,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Norremeer",
-                  "text": "Csendes tó Oegstgeest területén, amely alkalmas természeti sétákra.",
+                  "text": "A Norremeer egy kis tó Oegstgeestben, sétálók számára kialakított pihenőhely.",
                   "category": "natural",
                   "coords": [
                         4.538377,
@@ -53749,7 +54775,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eijmerspoel",
-                  "text": "Helyi tó Oegstgeestben, amely alkalmas rövid túrákra.",
+                  "text": "Az Eijmerspoel egy természeti terület Oegstgeestben, tavakkal és nádassal.",
                   "category": "natural",
                   "coords": [
                         4.554453,
@@ -53776,7 +54802,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "Kisebb tó Oegstgeestben, amely ideális egy pihentető sétához.",
+                  "text": "A Spriet egy keskeny tájcsík Oegstgeestben, egy patak menti zöldfolyosó.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -54021,7 +55047,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Naturalis Biodiversity Centre",
-                  "text": "Un muzeu și centru de cercetare de renume mondial pentru biodiversitate.",
+                  "text": "Un muzeu de istorie naturală în Oegstgeest, cu o colecție mare de fosile.",
                   "category": "museum",
                   "coords": [
                         4.472888,
@@ -54165,7 +55191,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudenhofmolen",
-                  "text": "O moară de polder istorică în Oegstgeest.",
+                  "text": "O moară de vânt în Oegstgeest, inițial o moară de cereale.",
                   "category": "landmark",
                   "coords": [
                         4.473082,
@@ -54174,7 +55200,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwanburgermolen",
-                  "text": "O moară de vânt tradițională situată lângă Warmond.",
+                  "text": "O moară de vânt de polder în Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.512878,
@@ -54183,7 +55209,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Broekdijkmolen",
-                  "text": "O moară de polder funcțională lângă Warmond.",
+                  "text": "O moară de vânt în Oegstgeest, folosită pentru drenaj.",
                   "category": "landmark",
                   "coords": [
                         4.513666,
@@ -54192,7 +55218,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Poeltje",
-                  "text": "O moară de vânt mică și caracteristică din regiune.",
+                  "text": "Un pod mic peste canalul Oegstgeester.",
                   "category": "landmark",
                   "coords": [
                         4.493985,
@@ -54201,7 +55227,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmolen",
-                  "text": "O moară de vânt istorică în zona urbană a Leidenului.",
+                  "text": "O moară de vânt în Oegstgeest, numită „Stadsmolen”.",
                   "category": "landmark",
                   "coords": [
                         4.497909,
@@ -54210,7 +55236,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoop Doet Leven",
-                  "text": "O moară de polder în Voorhout, folosită pentru drenaj.",
+                  "text": "O moară de vânt în Oegstgeest, numită „Hoop Doet Leven”.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
@@ -54228,7 +55254,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk este o moară de vânt istorică proeminentă în Oegstgeest.",
+                  "text": "De Valk este o moară de vânt istorică în Oegstgeest, un simbol al regiunii.",
                   "category": "landmark",
                   "coords": [
                         4.486407,
@@ -54246,7 +55272,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rembrandtbrug",
-                  "text": "Rembrandtbrug este un pod pitoresc situat în Oegstgeest.",
+                  "text": "Un pod în Oegstgeest, numit după pictorul Rembrandt.",
                   "category": "landmark",
                   "coords": [
                         4.482165,
@@ -54255,7 +55281,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bostelbrug",
-                  "text": "Bostelbrug este un pod funcțional situat în zona urbană Oegstgeest.",
+                  "text": "Un pod în Oegstgeest care traversează Oude Rijn.",
                   "category": "landmark",
                   "coords": [
                         4.485335,
@@ -54273,7 +55299,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Haagbrug",
-                  "text": "Haagbrug este un pod care completează infrastructura din Oegstgeest.",
+                  "text": "Un pod în Oegstgeest, parte a sistemului de canale al orașului.",
                   "category": "landmark",
                   "coords": [
                         4.479854,
@@ -54282,7 +55308,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marepoortsbrug",
-                  "text": "Marepoortsbrug este un pod local în peisajul urban din Oegstgeest.",
+                  "text": "Un pod în Oegstgeest lângă poarta istorică Marepoort.",
                   "category": "landmark",
                   "coords": [
                         4.489422,
@@ -54300,7 +55326,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doelenpoortsbrug",
-                  "text": "Doelenpoortsbrug este un pod în apropierea fortificațiilor istorice din Oegstgeest.",
+                  "text": "Un pod în Oegstgeest lângă poarta Doelenpoort.",
                   "category": "landmark",
                   "coords": [
                         4.48343,
@@ -54318,7 +55344,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huigpark",
-                  "text": "Huigpark este un spațiu de recreere în zona urbană din Oegstgeest.",
+                  "text": "Un parc în Oegstgeest cu un iaz și alei.",
                   "category": "park",
                   "coords": [
                         4.497508,
@@ -54336,7 +55362,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "van Brouchovenhofje",
-                  "text": "Van Brouchovenhofje este o grădină istorică bine întreținută în Oegstgeest.",
+                  "text": "Un complex istoric de case cu o grădină în Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.486488,
@@ -54345,7 +55371,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paviljoenshof",
-                  "text": "Paviljoenshof este o grădină amenajată ca un parc în Oegstgeest.",
+                  "text": "O curte rezidențială cu o grădină centrală în Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.484907,
@@ -54363,7 +55389,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aeldisbrug",
-                  "text": "Aeldisbrug este un pod modern situat în Singelpark lângă Oegstgeest.",
+                  "text": "Un pod în Singelpark din Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.481945,
@@ -54372,7 +55398,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leidse Hout",
-                  "text": "Leidse Hout este un parc urban mare la granița dintre Leiden și Oegstgeest.",
+                  "text": "Leidse Hout este un mare parc urban în Oegstgeest, cu arbori bătrâni și locuri de joacă.",
                   "category": "park",
                   "coords": [
                         4.479133,
@@ -54381,7 +55407,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meermansburg",
-                  "text": "Meermansburg este o grădină cu semnificație istorică în Oegstgeest.",
+                  "text": "Un parc în Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.495096,
@@ -54390,7 +55416,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Norremeer",
-                  "text": "Un lac liniștit în Oegstgeest, potrivit pentru plimbări în natură.",
+                  "text": "Norremeer este un mic lac în Oegstgeest, o zonă de agrement pentru plimbări.",
                   "category": "natural",
                   "coords": [
                         4.538377,
@@ -54426,7 +55452,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eijmerspoel",
-                  "text": "Un lac local în Oegstgeest, potrivit pentru drumeții scurte.",
+                  "text": "Eijmerspoel este o zonă naturală în Oegstgeest, o zonă umedă cu iazuri și stuf.",
                   "category": "natural",
                   "coords": [
                         4.554453,
@@ -54453,7 +55479,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "Un lac mic în Oegstgeest, ideal pentru o plimbare relaxantă.",
+                  "text": "Spriet este o fâșie îngustă de peisaj în Oegstgeest, un coridor verde de-a lungul unui pârâu.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -54698,7 +55724,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Naturalis Biodiversity Centre",
-                  "text": "A world-renowned museum and research centre for biodiversity.",
+                  "text": "A natural history museum in Oegstgeest, with a large fossil collection.",
                   "category": "museum",
                   "coords": [
                         4.472888,
@@ -54842,7 +55868,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Oudenhofmolen",
-                  "text": "A historic polder windmill located in Oegstgeest.",
+                  "text": "A windmill in Oegstgeest, originally a corn mill.",
                   "category": "landmark",
                   "coords": [
                         4.473082,
@@ -54851,7 +55877,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zwanburgermolen",
-                  "text": "A traditional windmill located near Warmond.",
+                  "text": "A polder windmill in Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.512878,
@@ -54860,7 +55886,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Broekdijkmolen",
-                  "text": "A functional polder windmill located near Warmond.",
+                  "text": "A windmill in Oegstgeest, used for drainage.",
                   "category": "landmark",
                   "coords": [
                         4.513666,
@@ -54869,7 +55895,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "'t Poeltje",
-                  "text": "A small, characteristic windmill in the region.",
+                  "text": "A small bridge over the Oegstgeesterkanaal.",
                   "category": "landmark",
                   "coords": [
                         4.493985,
@@ -54878,7 +55904,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Stadsmolen",
-                  "text": "A historic windmill located within the city of Leiden.",
+                  "text": "A windmill in Oegstgeest, called 'Stadsmolen'.",
                   "category": "landmark",
                   "coords": [
                         4.497909,
@@ -54887,7 +55913,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Hoop Doet Leven",
-                  "text": "A polder windmill in Voorhout, used for drainage.",
+                  "text": "A windmill in Oegstgeest, named 'Hoop Doet Leven'.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
@@ -54905,7 +55931,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Valk",
-                  "text": "De Valk is a prominent historical windmill in Oegstgeest.",
+                  "text": "De Valk is a historic windmill in Oegstgeest, a landmark of the area.",
                   "category": "landmark",
                   "coords": [
                         4.486407,
@@ -54923,7 +55949,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Rembrandtbrug",
-                  "text": "The Rembrandtbrug is a picturesque bridge in Oegstgeest.",
+                  "text": "A bridge in Oegstgeest, named after painter Rembrandt.",
                   "category": "landmark",
                   "coords": [
                         4.482165,
@@ -54932,7 +55958,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Bostelbrug",
-                  "text": "The Bostelbrug is a functional bridge in the urban area of Oegstgeest.",
+                  "text": "A bridge in Oegstgeest crossing the Oude Rijn.",
                   "category": "landmark",
                   "coords": [
                         4.485335,
@@ -54950,7 +55976,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Haagbrug",
-                  "text": "The Haagbrug is a bridge that complements the infrastructure of Oegstgeest.",
+                  "text": "A bridge in Oegstgeest, part of the city's canal system.",
                   "category": "landmark",
                   "coords": [
                         4.479854,
@@ -54959,7 +55985,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Marepoortsbrug",
-                  "text": "The Marepoortsbrug is a local bridge in the cityscape of Oegstgeest.",
+                  "text": "A bridge in Oegstgeest near the historic Marepoort gate.",
                   "category": "landmark",
                   "coords": [
                         4.489422,
@@ -54977,7 +56003,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Doelenpoortsbrug",
-                  "text": "The Doelenpoortsbrug is a bridge near historical defensive works in Oegstgeest.",
+                  "text": "A bridge in Oegstgeest near the Doelenpoort gate.",
                   "category": "landmark",
                   "coords": [
                         4.48343,
@@ -54995,7 +56021,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Huigpark",
-                  "text": "The Huigpark is a recreational space in the urban area of Oegstgeest.",
+                  "text": "A park in Oegstgeest with a pond and walking paths.",
                   "category": "park",
                   "coords": [
                         4.497508,
@@ -55013,7 +56039,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "van Brouchovenhofje",
-                  "text": "The van Brouchovenhofje is a well-maintained historical garden in Oegstgeest.",
+                  "text": "A historic almshouse complex with a garden in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.486488,
@@ -55022,7 +56048,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Paviljoenshof",
-                  "text": "The Paviljoenshof is a park-like garden in Oegstgeest.",
+                  "text": "A residential courtyard with a central garden in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.484907,
@@ -55040,7 +56066,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Aeldisbrug",
-                  "text": "The Aeldisbrug is a modern bridge in Singelpark near Oegstgeest.",
+                  "text": "A bridge in the Singelpark of Oegstgeest.",
                   "category": "landmark",
                   "coords": [
                         4.481945,
@@ -55049,7 +56075,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Leidse Hout",
-                  "text": "Leidse Hout is a large urban park on the border of Leiden and Oegstgeest.",
+                  "text": "Leidse Hout is a large urban park in Oegstgeest with old trees and playgrounds.",
                   "category": "park",
                   "coords": [
                         4.479133,
@@ -55058,7 +56084,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Meermansburg",
-                  "text": "Meermansburg is a garden area with historical significance in Oegstgeest.",
+                  "text": "A park in Oegstgeest.",
                   "category": "park",
                   "coords": [
                         4.495096,
@@ -55067,7 +56093,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Norremeer",
-                  "text": "A quiet lake in Oegstgeest suitable for nature walks.",
+                  "text": "Norremeer is a small lake in Oegstgeest, a recreational area for walkers.",
                   "category": "natural",
                   "coords": [
                         4.538377,
@@ -55103,7 +56129,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eijmerspoel",
-                  "text": "A local lake in Oegstgeest suitable for short hikes.",
+                  "text": "Eijmerspoel is a natural area in Oegstgeest, a wetland with ponds and reeds.",
                   "category": "natural",
                   "coords": [
                         4.554453,
@@ -55130,7 +56156,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Spriet",
-                  "text": "A small lake in Oegstgeest ideal for a relaxing walk.",
+                  "text": "Spriet is a narrow landscape strip in Oegstgeest, a green corridor along a stream.",
                   "category": "natural",
                   "coords": [
                         4.520251,
@@ -56096,7 +57122,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eintsje fan 'e Daam",
-                  "text": "Eintsje fan 'e Daam ist ein kleiner Leuchtturm im Hafen von Lemmer.",
+                  "text": "Eintsje fan 'e Daam in Lemmer, errichtet 1944.",
                   "category": "landmark",
                   "coords": [
                         5.708626,
@@ -56105,7 +57131,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Reus van Lemmer",
-                  "text": "De Reus van Lemmer ist ein markanter Leuchtturm in der Stadt Lemmer.",
+                  "text": "De Reus van Lemmer ist eine monumentale Riesenstatue in Lemmer, ein Foto-Hotspot.",
                   "category": "landmark",
                   "coords": [
                         5.70775,
@@ -56123,7 +57149,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zijlroedebrug",
-                  "text": "Die Zijlroedebrug ist eine wichtige Brücke für den Verkehr in Lemmer.",
+                  "text": "Eine Zugbrücke über das IJsselmeer in der Nähe von Lemmer.",
                   "category": "landmark",
                   "coords": [
                         5.700053,
@@ -56143,7 +57169,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eintsje fan 'e Daam",
-                  "text": "Az Eintsje fan 'e Daam egy kis világítótorony Lemmer kikötőjében.",
+                  "text": "Eintsje fan 'e Daam Lemmerben, 1944-ben állították.",
                   "category": "landmark",
                   "coords": [
                         5.708626,
@@ -56152,7 +57178,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Reus van Lemmer",
-                  "text": "De Reus van Lemmer egy jellegzetes világítótorony Lemmer városában.",
+                  "text": "A De Reus van Lemmer egy monumentális óriásszobor Lemmerben, fotózkodási pont.",
                   "category": "landmark",
                   "coords": [
                         5.70775,
@@ -56170,7 +57196,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zijlroedebrug",
-                  "text": "A Zijlroedebrug egy fontos közúti híd Lemmerben.",
+                  "text": "Felvonóhíd az IJsselmeer fölött Lemmer közelében.",
                   "category": "landmark",
                   "coords": [
                         5.700053,
@@ -56190,7 +57216,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eintsje fan 'e Daam",
-                  "text": "Eintsje fan 'e Daam este un far mic situat în portul din Lemmer.",
+                  "text": "Eintsje fan 'e Daam în Lemmer, ridicat în 1944.",
                   "category": "landmark",
                   "coords": [
                         5.708626,
@@ -56199,7 +57225,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Reus van Lemmer",
-                  "text": "De Reus van Lemmer este un far proeminent în orașul Lemmer.",
+                  "text": "De Reus van Lemmer este o statuie monumentală a unui uriaș în Lemmer, un punct de fotografiat.",
                   "category": "landmark",
                   "coords": [
                         5.70775,
@@ -56217,7 +57243,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zijlroedebrug",
-                  "text": "Zijlroedebrug este un pod important pentru traficul din Lemmer.",
+                  "text": "Un pod basculant peste IJsselmeer lângă Lemmer.",
                   "category": "landmark",
                   "coords": [
                         5.700053,
@@ -56237,7 +57263,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Eintsje fan 'e Daam",
-                  "text": "Eintsje fan 'e Daam is a small lighthouse in the harbor of Lemmer.",
+                  "text": "Eintsje fan 'e Daam in Lemmer, erected in 1944.",
                   "category": "landmark",
                   "coords": [
                         5.708626,
@@ -56246,7 +57272,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Reus van Lemmer",
-                  "text": "De Reus van Lemmer is a prominent lighthouse in the city of Lemmer.",
+                  "text": "De Reus van Lemmer is a monumental giant statue in Lemmer, a photo hotspot.",
                   "category": "landmark",
                   "coords": [
                         5.70775,
@@ -56264,7 +57290,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Zijlroedebrug",
-                  "text": "The Zijlroedebrug is an important bridge for traffic in Lemmer.",
+                  "text": "A drawbridge over the IJsselmeer near Lemmer.",
                   "category": "landmark",
                   "coords": [
                         5.700053,
@@ -56357,7 +57383,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Biessummerbos",
-                  "text": "Ein bewaldetes Naturgebiet in der Nähe von Delfzijl.",
+                  "text": "Der Biessummerbos ist ein Waldgebiet in Delfzijl, beliebt zum Wandern und Radfahren.",
                   "category": "natural",
                   "coords": [
                         6.884944,
@@ -56449,7 +57475,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Biessummerbos",
-                  "text": "Delfzijl közelében található erdős természeti terület.",
+                  "text": "A Biessummerbos egy erdős terület Delfzijlben, népszerű túrázók és kerékpárosok körében.",
                   "category": "natural",
                   "coords": [
                         6.884944,
@@ -56541,7 +57567,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Biessummerbos",
-                  "text": "O zonă naturală împădurită situată lângă Delfzijl.",
+                  "text": "Biessummerbos este o zonă împădurită în Delfzijl, populară pentru drumeții și ciclism.",
                   "category": "natural",
                   "coords": [
                         6.884944,
@@ -56633,7 +57659,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "Biessummerbos",
-                  "text": "A wooded nature area located near Delfzijl.",
+                  "text": "Biessummerbos is a forest in Delfzijl, popular for hiking and cycling.",
                   "category": "natural",
                   "coords": [
                         6.884944,
@@ -56852,7 +57878,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Beun",
-                  "text": "De Beun ist ein lokales Theater und Kulturzentrum in Heiloo.",
+                  "text": "De Beun ist ein Kulturzentrum in Heiloo mit einem Theater und Veranstaltungssaal.",
                   "category": "cultural",
                   "coords": [
                         4.71324,
@@ -57007,7 +58033,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Beun",
-                  "text": "A De Beun egy helyi színház és kulturális központ Heiloo városában.",
+                  "text": "A De Beun egy kulturális központ Heiloo-ban, színházzal és rendezvényteremmel.",
                   "category": "cultural",
                   "coords": [
                         4.71324,
@@ -57162,7 +58188,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Beun",
-                  "text": "De Beun este un teatru și centru cultural local în Heiloo.",
+                  "text": "De Beun este un centru cultural în Heiloo, cu un teatru și sală de evenimente.",
                   "category": "cultural",
                   "coords": [
                         4.71324,
@@ -57317,7 +58343,7 @@ export const netherlandsCitiesV2: POI[] = [
             },
             {
                   "name": "De Beun",
-                  "text": "De Beun is a local theatre and cultural centre in Heiloo.",
+                  "text": "De Beun is a cultural centre in Heiloo with a theatre and event hall.",
                   "category": "cultural",
                   "coords": [
                         4.71324,

@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraBahrainLifeV2: POI[] = [
   {
-    id: "salmaniya-garden-life-v2",
+    id: "salmaniya-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alter Palast",
+                  "text": "Eine historisch bedeutsame lokale Burg, die früher als administratives Zentrum der herrschenden Autoritäten diente.",
+                  "category": "castle",
+                  "coords": [
+                        50.587438,
+                        26.221958
+                  ]
+            },
+            {
+                  "name": "Assembly of God Church",
+                  "text": "Eine aktive christliche Gemeinde, die moderne Gottesdienste und Gemeindeunterstützungsprogramme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577561,
+                        26.21688
+                  ]
+            },
+            {
+                  "name": "The Bahrain Malayalee CSI Church",
+                  "text": "Ein wichtiges christliches spirituelles Zentrum, das speziell auf die spirituellen Traditionen der in Bahrain lebenden Malayalee-Gemeinschaft zugeschnitten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578955,
+                        26.217034
+                  ]
+            },
+            {
+                  "name": "Matam aladlia",
+                  "text": "Ein strukturierter Ort der Anbetung in der Gemeinde, an dem sich die lokale muslimische Gemeinde zu Besinnung und spezifischen zeremoniellen Rezitationen versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        50.586013,
+                        26.217506
+                  ]
+            },
+            {
+                  "name": "Bethel Christian BRETHREN ASSEMBLY",
+                  "text": "Ein spezieller Versammlungsort der christlichen Brüdergemeinde, der sich auf schriftgelehrte Zusammenkünfte und gemeinsame spirituelle Hingabe konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580859,
+                        26.214892
+                  ]
+            },
+            {
+                  "name": "St.Paul's Marthoma Parish",
+                  "text": "Gemäß der syrisch-christlichen Traditionen bildet diese Pfarrei einen Grundpfeiler für den Gottesdienst und die Gemeindedienste ihrer Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578629,
+                        26.217995
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Diese lokale Moschee bietet einen speziellen Gebetssaal für den regelmäßigen islamischen Gottesdienst im Herzen von Salmaniya.",
+                  "category": "religious",
+                  "coords": [
+                        50.580272,
+                        26.221662
+                  ]
+            },
+            {
+                  "name": "St. Mary's Indian Orthodox Cathedral",
+                  "text": "Die St. Mary's Indian Orthodox Cathedral dient als wichtiges spirituelles Zentrum für die indisch-orthodoxe Expat-Gemeinde in Salmaniya.",
+                  "category": "religious",
+                  "coords": [
+                        50.57451,
+                        26.22037
+                  ]
+            },
+            {
+                  "name": "Bohra Mosque",
+                  "text": "Die Bohra-Moschee ist ein besonderer Kultort, der auf die spirituellen und gemeinschaftlichen Bedürfnisse der lokalen dawooditisch-bohrischen muslimischen Gemeinde zugeschnitten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583324,
+                        26.222245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Palace",
+                  "text": "Történelmileg jelentős helyi kastély, amely korábban az uralkodó hatóságok közigazgatási központjaként működött.",
+                  "category": "castle",
+                  "coords": [
+                        50.587438,
+                        26.221958
+                  ]
+            },
+            {
+                  "name": "Assembly of God Church",
+                  "text": "Aktív keresztény gyülekezeti létesítmény, amely kortárs istentiszteleteket és közösségtámogató programokat biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577561,
+                        26.21688
+                  ]
+            },
+            {
+                  "name": "The Bahrain Malayalee CSI Church",
+                  "text": "Fontos keresztény spirituális központ, amely kifejezetten a külföldön élő malajálam közösség spirituális hagyományait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578955,
+                        26.217034
+                  ]
+            },
+            {
+                  "name": "Matam aladlia",
+                  "text": "Strukturált közösségi istentiszteleti hely, ahol a helyi muszlim gyülekezet elmélkedésre és specifikus ceremoniális felolvasásokra gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        50.586013,
+                        26.217506
+                  ]
+            },
+            {
+                  "name": "Bethel Christian BRETHREN ASSEMBLY",
+                  "text": "Keresztény Testvérgyülekezet dedikált találkozóhelye, amely a szentírás-alapú összejövetelekre és a közös spirituális áhítatra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580859,
+                        26.214892
+                  ]
+            },
+            {
+                  "name": "St.Paul's Marthoma Parish",
+                  "text": "A szír keresztény hagyományokat követve ez a plébánia az istentiszteletek és a közösségi szolgálatok sarokkövét jelenti a gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578629,
+                        26.217995
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Ez a helyi mecset egy dedikált imatermet biztosít a rendszeres iszlám istentiszteletekhez Salmaniya szívében.",
+                  "category": "religious",
+                  "coords": [
+                        50.580272,
+                        26.221662
+                  ]
+            },
+            {
+                  "name": "St. Mary's Indian Orthodox Cathedral",
+                  "text": "A St. Mary's indiai ortodox katedrális a külföldön élő indiai ortodox közösség jelentős spirituális központjaként szolgál Salmaniyában.",
+                  "category": "religious",
+                  "coords": [
+                        50.57451,
+                        26.22037
+                  ]
+            },
+            {
+                  "name": "Bohra Mosque",
+                  "text": "A Bohra mecset a helyi dawoodi bohra muszlim gyülekezet spirituális és közösségi igényeire szabott, különleges istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583324,
+                        26.222245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Palace",
+                  "text": "Un castel local cu o importanță istorică semnificativă, care anterior a funcționat ca un centru administrativ pentru autoritățile conducătoare.",
+                  "category": "castle",
+                  "coords": [
+                        50.587438,
+                        26.221958
+                  ]
+            },
+            {
+                  "name": "Assembly of God Church",
+                  "text": "O facilitate activă a congregației creștine care oferă servicii de închinare contemporane și programe de sprijin comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577561,
+                        26.21688
+                  ]
+            },
+            {
+                  "name": "The Bahrain Malayalee CSI Church",
+                  "text": "Un centru spiritual creștin esențial care se adresează în mod specific tradițiilor spirituale ale comunității de expatriați Malayalee.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578955,
+                        26.217034
+                  ]
+            },
+            {
+                  "name": "Matam aladlia",
+                  "text": "Un lăcaș de cult comunitar structurat în care congregația musulmană locală se adună pentru reflecție și recitări ceremoniale specifice.",
+                  "category": "religious",
+                  "coords": [
+                        50.586013,
+                        26.217506
+                  ]
+            },
+            {
+                  "name": "Bethel Christian BRETHREN ASSEMBLY",
+                  "text": "Un loc de întâlnire dedicat adunării Fraților Creștini, axat pe întruniri bazate pe scripturi și devotament spiritual comun.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580859,
+                        26.214892
+                  ]
+            },
+            {
+                  "name": "St.Paul's Marthoma Parish",
+                  "text": "Urmând tradițiile creștine siriace, această parohie oferă o piatră de temelie pentru închinare și servicii comunitare pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578629,
+                        26.217995
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Această moschee locală oferă o sală de rugăciune dedicată cultului islamic regulat în inima orașului Salmaniya.",
+                  "category": "religious",
+                  "coords": [
+                        50.580272,
+                        26.221662
+                  ]
+            },
+            {
+                  "name": "St. Mary's Indian Orthodox Cathedral",
+                  "text": "Catedrala Ortodoxă Indiană Sf. Maria servește ca un centru spiritual major pentru congregația ortodoxă indiană expatriată din Salmaniya.",
+                  "category": "religious",
+                  "coords": [
+                        50.57451,
+                        26.22037
+                  ]
+            },
+            {
+                  "name": "Bohra Mosque",
+                  "text": "Moscheea Bohra este un lăcaș de cult distinct, adaptat nevoilor spirituale și comunitare ale congregației musulmane locale Dawoodi Bohra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583324,
+                        26.222245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Palace",
+                  "text": "A historically significant local castle that formerly functioned as an administrative heart for the ruling authorities.",
+                  "category": "castle",
+                  "coords": [
+                        50.587438,
+                        26.221958
+                  ]
+            },
+            {
+                  "name": "Assembly of God Church",
+                  "text": "An active Christian congregational facility providing contemporary worship services and community support programs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577561,
+                        26.21688
+                  ]
+            },
+            {
+                  "name": "The Bahrain Malayalee CSI Church",
+                  "text": "An essential Christian spiritual center specifically catering to the spiritual traditions of the Malayalee expatriate community.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578955,
+                        26.217034
+                  ]
+            },
+            {
+                  "name": "Matam aladlia",
+                  "text": "A structured community place of worship where the local Muslim congregation gathers for reflection and specific ceremonial recitations.",
+                  "category": "religious",
+                  "coords": [
+                        50.586013,
+                        26.217506
+                  ]
+            },
+            {
+                  "name": "Bethel Christian BRETHREN ASSEMBLY",
+                  "text": "A dedicated Christian Brethren meeting place focused on scripture-based gatherings and shared spiritual devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580859,
+                        26.214892
+                  ]
+            },
+            {
+                  "name": "St.Paul's Marthoma Parish",
+                  "text": "Following the Syrian Christian traditions, this parish provides a cornerstone for worship and community services for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        50.578629,
+                        26.217995
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This local mosque provides a dedicated prayer hall for regular Islamic worship in the heart of Salmaniya.",
+                  "category": "religious",
+                  "coords": [
+                        50.580272,
+                        26.221662
+                  ]
+            },
+            {
+                  "name": "St. Mary's Indian Orthodox Cathedral",
+                  "text": "St. Mary's Indian Orthodox Cathedral serves as a major spiritual hub for the expatriate Indian Orthodox congregation in Salmaniya.",
+                  "category": "religious",
+                  "coords": [
+                        50.57451,
+                        26.22037
+                  ]
+            },
+            {
+                  "name": "Bohra Mosque",
+                  "text": "The Bohra Mosque is a distinct place of worship tailored to the spiritual and communal needs of the local Dawoodi Bohra Muslim congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583324,
+                        26.222245
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-13",
     coords: [50.5847, 26.2169],
@@ -51,7 +384,124 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Zugänglichkeit: Leicht erreichbar vom Stadtzentrum aus."
       ], image: "/poi-images/salmaniya-garden-life-v2.webp"},
   {
-    id: "water-garden-city-park-life-v2",
+    id: "water-garden-city-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Avanti",
+                  "text": "Eine moderne Freizeiteinrichtung am Wasser im Viertel Water Garden City.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "Ein privater Sandstrand an der Küste von Manama, der zum luxuriösen Resort gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539692,
+                        26.24525
+                  ]
+            },
+            {
+                  "name": "Al Seef Mosque",
+                  "text": "Eine moderne Moschee im Seef-Viertel in der Nähe der Uferpromenade.",
+                  "category": "landmark",
+                  "coords": [
+                        50.539249,
+                        26.236428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Avanti",
+                  "text": "Modern szabadidős létesítmény a Water Garden City vízparti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "Magán homokos strand Manama partjainál, a luxusüdülőhely részeként.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539692,
+                        26.24525
+                  ]
+            },
+            {
+                  "name": "Al Seef Mosque",
+                  "text": "Modern mecset a Seef negyedben, a vízparti sétány közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.539249,
+                        26.236428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Avanti",
+                  "text": "O locație modernă de divertisment situată în zona de promenadă Water Garden City.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "O plajă privată cu nisip pe coasta orașului Manama, parte a complexului de lux.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539692,
+                        26.24525
+                  ]
+            },
+            {
+                  "name": "Al Seef Mosque",
+                  "text": "O moschee modernă în districtul Seef, situată aproape de faleză.",
+                  "category": "landmark",
+                  "coords": [
+                        50.539249,
+                        26.236428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Avanti",
+                  "text": "A modern leisure attraction located within the Water Garden City waterfront development.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "A private sandy beach on the Manama coast, belonging to the luxury resort.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539692,
+                        26.24525
+                  ]
+            },
+            {
+                  "name": "Al Seef Mosque",
+                  "text": "A modern mosque serving the Seef district, located near the waterfront area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.539249,
+                        26.236428
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-13",
     coords: [50.5401, 26.2396],
@@ -99,7 +549,268 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Erreichbarkeit: In der Nähe von großen Einkaufszentren und Geschäftsvierteln."
       ], image: "/poi-images/water-garden-city-park-life-v2.webp"},
   {
-    id: "zallaq-springs-life-v2",
+    id: "zallaq-springs-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "Dieses alte Hügelgräberfeld bei Dar Kulayb bewahrt bedeutende archäologische Grabanlagen früher Zivilisationen.",
+                  "category": "historical",
+                  "coords": [
+                        50.505326,
+                        26.075394
+                  ]
+            },
+            {
+                  "name": "Al Dawali mosque",
+                  "text": "Dieses islamische Gotteshaus dient der lokalen muslimischen Gemeinde in der Gegend von Zallaq Springs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502357,
+                        26.067429
+                  ]
+            },
+            {
+                  "name": "Nour mosque",
+                  "text": "Diese muslimische Moschee dient den örtlichen Gläubigen und bietet einen friedlichen Raum für die täglichen Gebete im Bezirk Zallaq.",
+                  "category": "landmark",
+                  "coords": [
+                        50.495922,
+                        26.078455
+                  ]
+            },
+            {
+                  "name": "Jassim mosque",
+                  "text": "Diese Gemeindemoschee bietet einen architektonisch ansprechenden Raum für islamische Gemeinschaftsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        50.490112,
+                        26.083752
+                  ]
+            },
+            {
+                  "name": "Othman bin Affan Mosque",
+                  "text": "Diese traditionelle Moschee ist dem islamischen Gottesdienst gewidmet und nach dem dritten Kalifen benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.489606,
+                        26.046966
+                  ]
+            },
+            {
+                  "name": "Isa Muhammad Ali Mosque",
+                  "text": "Diese Viertelmoschee heißt muslimische Gläubige zu regelmäßigen Gottesdiensten und zur Besinnung willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.511559,
+                        26.075667
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Faisal bin Hamad Mosque",
+                  "text": "Dieses nach einem prominenten Scheich benannte islamische Zentrum versammelt die örtliche Gemeinde zur spirituellen Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        50.508326,
+                        26.069433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "Ez a Dar Kulayb melletti ősi halomsírmező a korai civilizációk jelentős régészeti temetkezési helyeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        50.505326,
+                        26.075394
+                  ]
+            },
+            {
+                  "name": "Al Dawali mosque",
+                  "text": "Ez az iszlám istentiszteleti hely a Zallaq Springs környéki helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502357,
+                        26.067429
+                  ]
+            },
+            {
+                  "name": "Nour mosque",
+                  "text": "A helyi hívőket szolgáló muszlim mecset békés teret kínál a napi imákhoz Zallaq negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.495922,
+                        26.078455
+                  ]
+            },
+            {
+                  "name": "Jassim mosque",
+                  "text": "Ez a közösségi mecset dedikált építészeti teret biztosít az iszlám gyülekezeti imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.490112,
+                        26.083752
+                  ]
+            },
+            {
+                  "name": "Othman bin Affan Mosque",
+                  "text": "Az iszlám istentiszteletnek szentelt hagyományos mecset a harmadik kalifa tiszteletére kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        50.489606,
+                        26.046966
+                  ]
+            },
+            {
+                  "name": "Isa Muhammad Ali Mosque",
+                  "text": "Ez a környékbeli mecset rendszeres vallási szertartásokra és elmélkedésre várja a muszlim hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        50.511559,
+                        26.075667
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Faisal bin Hamad Mosque",
+                  "text": "Egy kiemelkedő sejk nevét viselő iszlám központ spirituális áhítatra gyűjti össze a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        50.508326,
+                        26.069433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "Acest câmp antic de tumuli funerari din Dar Kulayb păstrează morminte arheologice semnificative ale civilizațiilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        50.505326,
+                        26.075394
+                  ]
+            },
+            {
+                  "name": "Al Dawali mosque",
+                  "text": "Acest lăcaș de cult islamic deservește comunitatea musulmană locală din zona Zallaq Springs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502357,
+                        26.067429
+                  ]
+            },
+            {
+                  "name": "Nour mosque",
+                  "text": "Deservind credincioșii locali, această moschee musulmană oferă un spațiu liniștit pentru rugăciunile zilnice în districtul Zallaq.",
+                  "category": "landmark",
+                  "coords": [
+                        50.495922,
+                        26.078455
+                  ]
+            },
+            {
+                  "name": "Jassim mosque",
+                  "text": "Această moschee comunitară oferă un spațiu arhitectural dedicat pentru rugăciunile congregaționale islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.490112,
+                        26.083752
+                  ]
+            },
+            {
+                  "name": "Othman bin Affan Mosque",
+                  "text": "Dedicată cultului islamic, această moschee tradițională poartă numele celui de-al treilea calif.",
+                  "category": "landmark",
+                  "coords": [
+                        50.489606,
+                        26.046966
+                  ]
+            },
+            {
+                  "name": "Isa Muhammad Ali Mosque",
+                  "text": "Această moschee de cartier întâmpină credincioșii musulmani pentru slujbe religioase regulate și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        50.511559,
+                        26.075667
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Faisal bin Hamad Mosque",
+                  "text": "Purtând numele unui șeic proeminent, acest centru islamic adună comunitatea locală pentru devoțiune spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        50.508326,
+                        26.069433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "This ancient burial mound field at Dar Kulayb preserves significant archaeological tombs from early civilizations.",
+                  "category": "historical",
+                  "coords": [
+                        50.505326,
+                        26.075394
+                  ]
+            },
+            {
+                  "name": "Al Dawali mosque",
+                  "text": "This Islamic place of worship serves the local Muslim community in the Zallaq Springs area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502357,
+                        26.067429
+                  ]
+            },
+            {
+                  "name": "Nour mosque",
+                  "text": "Serving the local faithful, this Muslim mosque offers a peaceful space for daily prayers in the Zallaq district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.495922,
+                        26.078455
+                  ]
+            },
+            {
+                  "name": "Jassim mosque",
+                  "text": "This community mosque provides a dedicated architectural space for Islamic congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.490112,
+                        26.083752
+                  ]
+            },
+            {
+                  "name": "Othman bin Affan Mosque",
+                  "text": "Dedicated to Islamic worship, this traditional mosque is named in honor of the third caliph.",
+                  "category": "landmark",
+                  "coords": [
+                        50.489606,
+                        26.046966
+                  ]
+            },
+            {
+                  "name": "Isa Muhammad Ali Mosque",
+                  "text": "This neighborhood mosque welcomes Muslim worshippers for regular religious services and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        50.511559,
+                        26.075667
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Faisal bin Hamad Mosque",
+                  "text": "Bearing the name of a prominent sheikh, this Islamic center gathers the local community for spiritual devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        50.508326,
+                        26.069433
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-14",
     coords: [50.4855, 26.0620],
@@ -195,7 +906,124 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Einrichtungen: Wege, Sitzgelegenheiten und offene Flächen."
       ], image: "/poi-images/hunnainiyah-park-life-v2.webp"},
   {
-    id: "umm-al-hassam-garden-life-v2",
+    id: "umm-al-hassam-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "PCC",
+                  "text": "Eine lokale Freizeit- und Gemeinschaftseinrichtung im Viertel Umm Al Hassam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "Eine moderne Moschee mit zeitgenössischer islamischer Architektur im Bezirk Umm Al Hassam.",
+                  "category": "religious",
+                  "coords": [
+                        50.583349,
+                        26.203337
+                  ]
+            },
+            {
+                  "name": "Sheikh Hussain Mosque",
+                  "text": "Eine Gemeindemoschee für die Bewohner des Wohngebiets Umm Al Hassam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58339,
+                        26.185032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PCC",
+                  "text": "Helyi szabadidős és közösségi létesítmény Umm Al Hassam negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "Modern mecset kortárs iszlám építészettel Umm Al Hassam negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        50.583349,
+                        26.203337
+                  ]
+            },
+            {
+                  "name": "Sheikh Hussain Mosque",
+                  "text": "Közösségi mecset Umm Al Hassam lakónegyedének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58339,
+                        26.185032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PCC",
+                  "text": "O facilitate recreativă și comunitară locală situată în cartierul Umm Al Hassam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "O moschee modernă cu arhitectură islamică contemporană în districtul Umm Al Hassam.",
+                  "category": "religious",
+                  "coords": [
+                        50.583349,
+                        26.203337
+                  ]
+            },
+            {
+                  "name": "Sheikh Hussain Mosque",
+                  "text": "O moschee comunitară care deservește rezidenții din zona rezidențială Umm Al Hassam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58339,
+                        26.185032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PCC",
+                  "text": "A local recreational and community facility situated in the Umm Al Hassam neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "A modern mosque featuring contemporary Islamic architecture in the Umm Al Hassam district.",
+                  "category": "religious",
+                  "coords": [
+                        50.583349,
+                        26.203337
+                  ]
+            },
+            {
+                  "name": "Sheikh Hussain Mosque",
+                  "text": "A community mosque serving the residents of the Umm Al Hassam residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58339,
+                        26.185032
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-13",
     coords: [50.5833, 26.2000],
@@ -243,7 +1071,268 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Besucher: Hauptsächlich Anwohner und Familien."
       ], image: "/poi-images/umm-al-hassam-garden-life-v2.webp"},
   {
-    id: "al-hidd-park-life-v2",
+    id: "al-hidd-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Grove Beach",
+                  "text": "Ein Küsten-Strandresort mit Sandstränden und Freizeiteinrichtungen direkt am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670014,
+                        26.277593
+                  ]
+            },
+            {
+                  "name": "Majid Al Hidd",
+                  "text": "Eine lokale islamische Kultstätte, die sich durch ihr traditionelles architektonisches Layout im Küstenviertel auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.643182,
+                        26.243109
+                  ]
+            },
+            {
+                  "name": "Halat Seltah Mosque",
+                  "text": "Diese Nachbarschaftsmoschee dient der lokalen muslimischen Gemeinde mit ihren Gebetsräumen und ihrem Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        50.638358,
+                        26.24347
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Abd Allah Al Zamel Mosque",
+                  "text": "Ein markantes islamisches Gotteshaus, das regelmäßige Gottesdienste für das umliegende Wohngebiet anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.64762,
+                        26.24444
+                  ]
+            },
+            {
+                  "name": "Ebrahim Mustafa Al Kooheji Mosque",
+                  "text": "Eine schön strukturierte Moschee, die eine ruhige Umgebung für die täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.649684,
+                        26.236146
+                  ]
+            },
+            {
+                  "name": "Ali bin Jaber Al Thani Mosque",
+                  "text": "Eine elegant gestaltete lokale Moschee, die spirituelle Führung und Versammlungsraum für Muslime bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.651302,
+                        26.240003
+                  ]
+            },
+            {
+                  "name": "Umm Ash-Shajar Mosque",
+                  "text": "Diese in der Gemeinde gelegene Moschee ist ein wichtiger religiöser Mittelpunkt mit traditionellen islamischen Motiven.",
+                  "category": "landmark",
+                  "coords": [
+                        50.656299,
+                        26.228253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Grove Beach",
+                  "text": "Tengerparti üdülőhely homokos partokkal és rekreációs létesítményekkel a víz mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670014,
+                        26.277593
+                  ]
+            },
+            {
+                  "name": "Majid Al Hidd",
+                  "text": "Helyi iszlám istentiszteleti hely, amelyet a tengerparti negyedben található hagyományos építészeti elrendezése jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        50.643182,
+                        26.243109
+                  ]
+            },
+            {
+                  "name": "Halat Seltah Mosque",
+                  "text": "Ez a környékbeli mecset a helyi muszlim közösséget szolgálja dedikált imatermeivel és minaretjével.",
+                  "category": "landmark",
+                  "coords": [
+                        50.638358,
+                        26.24347
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Abd Allah Al Zamel Mosque",
+                  "text": "Kiemelkedő iszlám istentiszteleti központ, amely rendszeres imádkozási lehetőséget biztosít a környező lakóövezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.64762,
+                        26.24444
+                  ]
+            },
+            {
+                  "name": "Ebrahim Mustafa Al Kooheji Mosque",
+                  "text": "Gyönyörű szerkezetű mecset, amely nyugodt környezetet biztosít a napi iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.649684,
+                        26.236146
+                  ]
+            },
+            {
+                  "name": "Ali bin Jaber Al Thani Mosque",
+                  "text": "Elegáns kialakítású helyi mecset, amely spirituális útmutatást és gyülekezeti teret biztosít a muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.651302,
+                        26.240003
+                  ]
+            },
+            {
+                  "name": "Umm Ash-Shajar Mosque",
+                  "text": "A közösségen belül található mecset fontos vallási központ, amelyet hagyományos iszlám motívumok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.656299,
+                        26.228253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Grove Beach",
+                  "text": "O stațiune balneară de coastă, cu plaje cu nisip și facilități de recreere de-a lungul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670014,
+                        26.277593
+                  ]
+            },
+            {
+                  "name": "Majid Al Hidd",
+                  "text": "Un lăcaș de cult islamic local, caracterizat de planul său arhitectural tradițional din cartierul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.643182,
+                        26.243109
+                  ]
+            },
+            {
+                  "name": "Halat Seltah Mosque",
+                  "text": "Această moschee de cartier deservește comunitatea musulmană locală cu sălile sale de rugăciune și minaretul său.",
+                  "category": "landmark",
+                  "coords": [
+                        50.638358,
+                        26.24347
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Abd Allah Al Zamel Mosque",
+                  "text": "Un centru de cult islamic proeminent care oferă servicii regulate de rugăciune pentru zona rezidențială înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        50.64762,
+                        26.24444
+                  ]
+            },
+            {
+                  "name": "Ebrahim Mustafa Al Kooheji Mosque",
+                  "text": "O moschee cu o structură frumoasă, care oferă un mediu liniștit pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.649684,
+                        26.236146
+                  ]
+            },
+            {
+                  "name": "Ali bin Jaber Al Thani Mosque",
+                  "text": "O moschee locală cu un design elegant, care oferă îndrumare spirituală și spațiu de adunare pentru musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        50.651302,
+                        26.240003
+                  ]
+            },
+            {
+                  "name": "Umm Ash-Shajar Mosque",
+                  "text": "Situată în cadrul comunității, această moschee este un punct focal religios cheie, prezentând motive islamice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        50.656299,
+                        26.228253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Grove Beach",
+                  "text": "A coastal beach resort featuring sandy shores and recreational facilities along the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670014,
+                        26.277593
+                  ]
+            },
+            {
+                  "name": "Majid Al Hidd",
+                  "text": "A local Islamic place of worship characterized by its traditional architectural layout in the coastal district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.643182,
+                        26.243109
+                  ]
+            },
+            {
+                  "name": "Halat Seltah Mosque",
+                  "text": "This neighborhood mosque serves the local Muslim community with its dedicated prayer halls and minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        50.638358,
+                        26.24347
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Abd Allah Al Zamel Mosque",
+                  "text": "A prominent Islamic worship center providing regular prayer services for the surrounding residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.64762,
+                        26.24444
+                  ]
+            },
+            {
+                  "name": "Ebrahim Mustafa Al Kooheji Mosque",
+                  "text": "A beautifully structured mosque that offers a tranquil environment for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.649684,
+                        26.236146
+                  ]
+            },
+            {
+                  "name": "Ali bin Jaber Al Thani Mosque",
+                  "text": "An elegantly designed local mosque providing spiritual guidance and congregation space for Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        50.651302,
+                        26.240003
+                  ]
+            },
+            {
+                  "name": "Umm Ash-Shajar Mosque",
+                  "text": "Situated within the community, this mosque is a key religious focal point featuring traditional Islamic motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.656299,
+                        26.228253
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-15",
     coords: [50.6473, 26.2415],
@@ -292,7 +1381,124 @@ export const poiExtraBahrainLifeV2: POI[] = [
       ]
   },
   {
-    id: "diraz-park-life-v2",
+    id: "diraz-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "26.212014039880437, 50.45630318342417",
+                  "text": "Die nach Fatima al-Zahra benannte Moschee ist ein islamischer spiritueller Treffpunkt im Viertel von Diraz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.456303,
+                        26.212014
+                  ]
+            },
+            {
+                  "name": "His Highness Sheikh Mohammed bin Khalifa bin Salman Al Khalifa Mosque",
+                  "text": "Diese nach einem Mitglied der Herrscherfamilie benannte Moschee in Diraz ist ein markantes Zentrum des islamischen Glaubens.",
+                  "category": "landmark",
+                  "coords": [
+                        50.448232,
+                        26.212966
+                  ]
+            },
+            {
+                  "name": "Latifa House Salon and Spa",
+                  "text": "Das Latifa House ist eine Wellness-Einrichtung, die in der Stadtlandschaft von Diraz entspannende Spa-Behandlungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        50.447403,
+                        26.216964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "26.212014039880437, 50.45630318342417",
+                  "text": "A Fatima al-Zahra nevét viselő mecset egy iszlám spirituális találkozóhely Diraz negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.456303,
+                        26.212014
+                  ]
+            },
+            {
+                  "name": "His Highness Sheikh Mohammed bin Khalifa bin Salman Al Khalifa Mosque",
+                  "text": "Ez az uralkodócsalád egyik tagjáról elnevezett dirazi mecset az iszlám hit kiemelkedő központja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.448232,
+                        26.212966
+                  ]
+            },
+            {
+                  "name": "Latifa House Salon and Spa",
+                  "text": "A Latifa House egy wellness létesítmény, amely pihentető spa kezeléseket kínál Diraz városképében.",
+                  "category": "recreational",
+                  "coords": [
+                        50.447403,
+                        26.216964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "26.212014039880437, 50.45630318342417",
+                  "text": "Moscheea numită după Fatima al-Zahra este un punct de întâlnire spiritual islamic în cartierul Diraz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.456303,
+                        26.212014
+                  ]
+            },
+            {
+                  "name": "His Highness Sheikh Mohammed bin Khalifa bin Salman Al Khalifa Mosque",
+                  "text": "Numită după un membru al familiei regale, această moschee din Diraz este un centru proeminent al credinței islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.448232,
+                        26.212966
+                  ]
+            },
+            {
+                  "name": "Latifa House Salon and Spa",
+                  "text": "Latifa House este o facilitate de wellness care oferă tratamente spa relaxante în peisajul urban din Diraz.",
+                  "category": "recreational",
+                  "coords": [
+                        50.447403,
+                        26.216964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alzahraa peace be upon her mosque",
+                  "text": "Named after Fatima al-Zahra, this mosque is an Islamic spiritual gathering place in the neighborhood of Diraz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.456303,
+                        26.212014
+                  ]
+            },
+            {
+                  "name": "His Highness Sheikh Mohammed bin Khalifa bin Salman Al Khalifa Mosque",
+                  "text": "Named after a member of the royal family, this Diraz mosque is a prominent center of the Islamic faith.",
+                  "category": "landmark",
+                  "coords": [
+                        50.448232,
+                        26.212966
+                  ]
+            },
+            {
+                  "name": "Latifa House Salon and Spa",
+                  "text": "Latifa House is a wellness facility offering relaxing spa treatments within the urban landscape of Diraz.",
+                  "category": "recreational",
+                  "coords": [
+                        50.447403,
+                        26.216964
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-17",
     coords: [50.4687, 26.2163],
@@ -341,7 +1547,124 @@ export const poiExtraBahrainLifeV2: POI[] = [
       ]
   },
   {
-    id: "saar-park-life-v2",
+    id: "saar-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saar UNESCO Archaeological Site",
+                  "text": "Die Saar UNESCO Archaeological Site bietet einen malerischen Aussichtspunkt in saar-park-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        50.489948,
+                        26.184
+                  ]
+            },
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "Die Saar Archeological Site enthält historisch bedeutsame Ruinen in saar-park-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Field",
+                  "text": "Die Saar Burial Mounds sind eine alte archäologische Stätte in saar-park-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saar UNESCO Archaeological Site",
+                  "text": "A Saar UNESCO Archaeological Site egy festői kilátóhelyet kínál saar-park-life-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        50.489948,
+                        26.184
+                  ]
+            },
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "A Saar Archeological Site történelmi jelentőségű romokat rejt saar-park-life-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Field",
+                  "text": "A Saar Burial Mounds egy ősi régészeti lelőhely saar-park-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saar UNESCO Archaeological Site",
+                  "text": "Saar UNESCO Archaeological Site oferă un punct de belvedere panoramic în saar-park-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        50.489948,
+                        26.184
+                  ]
+            },
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "Saar Archeological Site conține ruine cu importanță istorică în saar-park-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Field",
+                  "text": "Saar Burial Mounds reprezintă un sit arheologic antic situat în saar-park-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saar UNESCO Archaeological Site",
+                  "text": "The Saar UNESCO Archaeological Site offers a scenic viewpoint in saar-park-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        50.489948,
+                        26.184
+                  ]
+            },
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "The Saar Archeological Site contains historically significant ruins in saar-park-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Mounds",
+                  "text": "The Saar Burial Mounds are an ancient archaeological site located in saar-park-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-17",
     coords: [50.4851, 26.1770],
@@ -485,7 +1808,88 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Zweck: Bietet einen ruhigen Küstenrückzugsort."
       ], image: "/poi-images/askar-coast-park-life-v2.webp"},
   {
-    id: "hoora-garden-life-v2",
+    id: "hoora-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coral Beach",
+                  "text": "Ein beliebter Stadtstrand in Manama mit Blick auf die Skyline der Hauptstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        50.600522,
+                        26.229797
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Alseddiq Mosque",
+                  "text": "Eine markante Moschee im belebten Viertel Hoora mit einem verzierten Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593932,
+                        26.234928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coral Beach",
+                  "text": "Népszerű városi strand Manamában, kilátással a főváros sziluettjére.",
+                  "category": "recreational",
+                  "coords": [
+                        50.600522,
+                        26.229797
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Alseddiq Mosque",
+                  "text": "Jellegzetes mecset a nyüzsgő Hoora negyedben, díszes minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593932,
+                        26.234928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coral Beach",
+                  "text": "O plajă urbană populară în Manama, cu vedere la orizontul capitalei.",
+                  "category": "recreational",
+                  "coords": [
+                        50.600522,
+                        26.229797
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Alseddiq Mosque",
+                  "text": "O moschee distinctivă în cartierul plin de viață Hoora, cu un minaret decorat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593932,
+                        26.234928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coral Beach",
+                  "text": "A popular urban beach in Manama offering views of the capital's skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        50.600522,
+                        26.229797
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Alseddiq Mosque",
+                  "text": "A distinctive mosque in the busy Hoora district featuring an ornate minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593932,
+                        26.234928
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-13",
     coords: [50.5941, 26.2366],
@@ -534,7 +1938,160 @@ export const poiExtraBahrainLifeV2: POI[] = [
       ]
   },
   {
-    id: "segaya-garden-life-v2",
+    id: "segaya-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jallawi Gallery",
+                  "text": "Die Jallawi Gallery zeigt wechselnde Ausstellungen regionaler Kunstwerke und kreativer Stücke im Bezirk Segaya.",
+                  "category": "museum",
+                  "coords": [
+                        50.564514,
+                        26.20942
+                  ]
+            },
+            {
+                  "name": "St.Peters's Jacobite Syrian Orthodox Church",
+                  "text": "Die St. Peter's Jacobite Syrian Orthodox Church veranstaltet traditionelle Liturgien im westsyrischen Ritus für die Gemeinde in Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572523,
+                        26.219569
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "Die Imam-Sadiq-Moschee besticht durch ihre traditionelle islamische Architektur und ruft die Gläubigen im Viertel Segaya zum Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.567476,
+                        26.219902
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall",
+                  "text": "Der Königreichssaal bietet einen organisierten Treffpunkt für Bibelstudien und Gottesdienste der lokalen christlichen Gemeinde in Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572058,
+                        26.21218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jallawi Gallery",
+                  "text": "A Jallawi Galéria regionális művészeti alkotások és kreatív darabok változó kiállításait mutatja be a Segaya negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        50.564514,
+                        26.20942
+                  ]
+            },
+            {
+                  "name": "St.Peters's Jacobite Syrian Orthodox Church",
+                  "text": "A Szent Péter jakobita szír ortodox templom hagyományos nyugati szír rítusú liturgiákat tart a segayai gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572523,
+                        26.219569
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "Az Imam Sadiq mecset hagyományos iszlám építészetével tűnik ki, imára hívva a híveket a Segaya negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.567476,
+                        26.219902
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall",
+                  "text": "A Királyság-terem szervezett találkozóhelyet biztosít biblia-tanulmányozáshoz és istentiszteletekhez a helyi keresztény közösség számára Segayában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572058,
+                        26.21218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jallawi Gallery",
+                  "text": "Galeria Jallawi prezintă expoziții în schimbare de opere de artă regionale și piese creative în cartierul Segaya.",
+                  "category": "museum",
+                  "coords": [
+                        50.564514,
+                        26.20942
+                  ]
+            },
+            {
+                  "name": "St.Peters's Jacobite Syrian Orthodox Church",
+                  "text": "Biserica Ortodoxă Siriană Iacobită Sf. Petru găzduiește liturghii tradiționale de rit siriac de vest pentru congregația din Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572523,
+                        26.219569
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "Moscheea Imam Sadiq se remarcă prin arhitectura sa islamică tradițională, chemând credincioșii la rugăciune în cartierul Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.567476,
+                        26.219902
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall",
+                  "text": "Sala Regatului oferă un spațiu de întâlnire organizat pentru studiul biblic și slujbele religioase pentru comunitatea creștină locală din Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572058,
+                        26.21218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jallawi Gallery",
+                  "text": "The Jallawi Gallery features changing exhibitions of regional artworks and creative pieces within the Segaya district.",
+                  "category": "museum",
+                  "coords": [
+                        50.564514,
+                        26.20942
+                  ]
+            },
+            {
+                  "name": "St.Peters's Jacobite Syrian Orthodox Church",
+                  "text": "St. Peter's Jacobite Syrian Orthodox Church hosts traditional West Syriac Rite liturgies for the congregation in Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572523,
+                        26.219569
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq Mosque",
+                  "text": "The Imam Sadiq Mosque stands out with its traditional Islamic architecture, calling the faithful to prayer in the Segaya neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        50.567476,
+                        26.219902
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall",
+                  "text": "The Kingdom Hall provides an organized meeting space for Bible study and worship services for the local Christian community in Segaya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572058,
+                        26.21218
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-13",
     coords: [50.5750, 26.2100],
@@ -678,7 +2235,160 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Design: Multifunktional für eine große Bevölkerung."
       ], image: "/poi-images/isa-town-traditional-park-life-v2.webp"},
   {
-    id: "jid-ali-walkway-life-v2",
+    id: "jid-ali-walkway-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahrain Vape",
+                  "text": "Ein beliebtes Geschäft an der belebten Ladenstraße von Jid Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Nabih Saleh mosque",
+                  "text": "Eine friedliche Moschee auf der Insel Nabih Saleh, die traditionell für ihre natürlichen Quellen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580635,
+                        26.179383
+                  ]
+            },
+            {
+                  "name": "Matam Jidd Ali",
+                  "text": "Eine traditionelle schiitische Versammlungshalle im Herzen des Viertels Jid Ali.",
+                  "category": "religious",
+                  "coords": [
+                        50.561099,
+                        26.179728
+                  ]
+            },
+            {
+                  "name": "Al Iman School Mosque",
+                  "text": "Ein lokales Gotteshaus, das in den Bildungskomplex Al Iman in Jid Ali integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.55175,
+                        26.159359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahrain Vape",
+                  "text": "Népszerű üzlet Jid Ali forgalmas sétálóutcája mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Nabih Saleh mosque",
+                  "text": "Békés mecset Nabih Saleh szigetén, amely hagyományosan természetes forrásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580635,
+                        26.179383
+                  ]
+            },
+            {
+                  "name": "Matam Jidd Ali",
+                  "text": "Hagyományos síita gyülekezeti csarnok Jid Ali negyedének szívében.",
+                  "category": "religious",
+                  "coords": [
+                        50.561099,
+                        26.179728
+                  ]
+            },
+            {
+                  "name": "Al Iman School Mosque",
+                  "text": "Helyi istentiszteleti hely a Jid Ali-beli Al Iman oktatási komplexumba integrálva.",
+                  "category": "landmark",
+                  "coords": [
+                        50.55175,
+                        26.159359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahrain Vape",
+                  "text": "Un magazin popular situat de-a lungul promenadei comerciale animate din Jid Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Nabih Saleh mosque",
+                  "text": "O moschee liniștită de pe insula Nabih Saleh, cunoscută tradițional pentru izvoarele sale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580635,
+                        26.179383
+                  ]
+            },
+            {
+                  "name": "Matam Jidd Ali",
+                  "text": "O sală tradițională de adunare șiită situată în inima cartierului Jid Ali.",
+                  "category": "religious",
+                  "coords": [
+                        50.561099,
+                        26.179728
+                  ]
+            },
+            {
+                  "name": "Al Iman School Mosque",
+                  "text": "Un lăcaș de cult local integrat în complexul educațional Al Iman din Jid Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.55175,
+                        26.159359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahrain Vape",
+                  "text": "A popular shop located along the lively commercial walkway of Jid Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Nabih Saleh mosque",
+                  "text": "A serene mosque on the island of Nabih Saleh, traditionally known for its natural springs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.580635,
+                        26.179383
+                  ]
+            },
+            {
+                  "name": "Matam Jidd Ali",
+                  "text": "A traditional Shia congregational hall located in the heart of the Jid Ali neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        50.561099,
+                        26.179728
+                  ]
+            },
+            {
+                  "name": "Al Iman School Mosque",
+                  "text": "A local place of worship integrated with the Al Iman educational complex in Jid Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.55175,
+                        26.159359
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-14",
     coords: [50.5620, 26.1700],
@@ -774,7 +2484,52 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Zielgruppe: Läufer, Jogger und Fitness-Enthusiasten."
       ], image: "/poi-images/estiqlal-walkway-life-v2.webp"},
   {
-    id: "al-sayh-walkway-life-v2",
+    id: "al-sayh-walkway-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Diese Kulturinstitution präsentiert die von Dilmun inspirierten Kunstwerke und historischen Sammlungen des renommierten bahrainischen Künstlers.",
+                  "category": "museum",
+                  "coords": [
+                        50.617922,
+                        26.264181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Ez a kulturális intézmény a híres bahreini művész Dilmun ihlette alkotásait és történelmi gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        50.617922,
+                        26.264181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Această instituție culturală prezintă operele de artă inspirate de Dilmun și colecțiile istorice ale renumitului artist din Bahrain.",
+                  "category": "museum",
+                  "coords": [
+                        50.617922,
+                        26.264181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "This cultural institution showcases the Dilmun-inspired artwork and historical collections of the renowned Bahraini artist.",
+                  "category": "museum",
+                  "coords": [
+                        50.617922,
+                        26.264181
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-15",
     coords: [50.6250, 26.2650],
@@ -822,7 +2577,124 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Zielgruppe: Familien, Paare, Naturliebhaber."
       ], image: "/poi-images/al-sayh-walkway-life-v2.webp"},
   {
-    id: "ain-raya-park-life-v2",
+    id: "ain-raya-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor ist eine antike archäologische Stätte mit den Überresten einer historischen Wasserquelle, die einst die Dilmun-Siedlungen versorgte.",
+                  "category": "historical",
+                  "coords": [
+                        50.470411,
+                        26.22191
+                  ]
+            },
+            {
+                  "name": "Imam Ali Jami Mosque",
+                  "text": "Die Imam Ali Jami Moschee ist eine große Freitagsmoschee, die sich durch ihre robuste Architektur und den zentralen Gebetshof für lokale Gläubige auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.468421,
+                        26.236564
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq mosque (p)",
+                  "text": "Die Imam-Sadiq-Moschee dient als wichtiger Knotenpunkt für die religiöse Bildung und die täglichen schiitischen Gebete innerhalb ihrer Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        50.463725,
+                        26.223575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Az Ain Umm Sujoor egy ősi régészeti lelőhely, amely egy történelmi vízforrás maradványait mutatja be, amely egykor a Dilmun településeket látta el.",
+                  "category": "historical",
+                  "coords": [
+                        50.470411,
+                        26.22191
+                  ]
+            },
+            {
+                  "name": "Imam Ali Jami Mosque",
+                  "text": "Az Imam Ali Jami mecset egy nagy pénteki mecset, amelyet robusztus építészete és a helyi hívek számára kialakított központi imaudvar jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        50.468421,
+                        26.236564
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq mosque (p)",
+                  "text": "Az Imam Sadiq mecset fontos központként szolgál a vallási oktatás és a napi síita imák számára a közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.463725,
+                        26.223575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor este un sit arheologic antic, care prezintă rămășițele unui izvor istoric de apă care odinioară alimenta așezările Dilmun.",
+                  "category": "historical",
+                  "coords": [
+                        50.470411,
+                        26.22191
+                  ]
+            },
+            {
+                  "name": "Imam Ali Jami Mosque",
+                  "text": "Moscheea Imam Ali Jami este o moschee mare de vineri, caracterizată prin arhitectura sa robustă și curtea centrală de rugăciune pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.468421,
+                        26.236564
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq mosque (p)",
+                  "text": "Moscheea Imam Sadiq servește ca un centru important pentru educația religioasă și rugăciunile șiite zilnice din cadrul comunității sale.",
+                  "category": "landmark",
+                  "coords": [
+                        50.463725,
+                        26.223575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor is an ancient archaeological site featuring the remains of a historic water spring that once supplied the Dilmun settlements.",
+                  "category": "historical",
+                  "coords": [
+                        50.470411,
+                        26.22191
+                  ]
+            },
+            {
+                  "name": "Imam Ali Jami Mosque",
+                  "text": "The Imam Ali Jami Mosque is a large Friday mosque characterized by its robust architecture and central prayer courtyard for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.468421,
+                        26.236564
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq mosque (p)",
+                  "text": "The Imam Sadiq Mosque serves as an important hub for religious education and daily Shia prayers within its community.",
+                  "category": "landmark",
+                  "coords": [
+                        50.463725,
+                        26.223575
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BH-17",
     coords: [50.4700, 26.2200],
@@ -870,7 +2742,268 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Standort: Nord-Gouvernement."
       ], image: "/poi-images/ain-raya-park-life-v2.webp"},
   {
-    id: "karbabad-beach-park-life-v2",
+    id: "karbabad-beach-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magic Island",
+                  "text": "Ein Indoor-Freizeitpark mit verschiedenen Fahrgeschäften und Spielen in der Seef Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Jidhafs grand mosque",
+                  "text": "Eine große und bedeutende Moschee im Herzen von Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5375,
+                        26.219823
+                  ]
+            },
+            {
+                  "name": "West Al-Hota Mosque",
+                  "text": "Eine lokale muslimische Gebetsstätte im westlichen Teil von Al-Hota.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528865,
+                        26.216314
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdullah mosque",
+                  "text": "Eine traditionelle Moschee für die Gläubigen in der Gegend von Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.532196,
+                        26.225939
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim mosque",
+                  "text": "Eine lokale Moschee im Viertel Karbabad für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533919,
+                        26.225082
+                  ]
+            },
+            {
+                  "name": "Al-Tawhid mosque",
+                  "text": "Eine muslimische Gebetsstätte in der Nähe von Sanabis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537535,
+                        26.22649
+                  ]
+            },
+            {
+                  "name": "Almaqam mosque",
+                  "text": "Eine lokale Moschee, die der Gemeinschaft von Sanabis dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.529858,
+                        26.216371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magic Island",
+                  "text": "Fedett szabadidőpark különféle játékgépekkel és hullámvasutakkal a Seef Mallban.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Jidhafs grand mosque",
+                  "text": "Jidhafs központjának nagy és jelentős mecsetje.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5375,
+                        26.219823
+                  ]
+            },
+            {
+                  "name": "West Al-Hota Mosque",
+                  "text": "Helyi muszlim imaház Al-Hota nyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528865,
+                        26.216314
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdullah mosque",
+                  "text": "Hagyományos mecset a hívők számára Jidhafs környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.532196,
+                        26.225939
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim mosque",
+                  "text": "Helyi mecset Karbabad negyedében a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533919,
+                        26.225082
+                  ]
+            },
+            {
+                  "name": "Al-Tawhid mosque",
+                  "text": "Muszlim imaház Sanabis környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537535,
+                        26.22649
+                  ]
+            },
+            {
+                  "name": "Almaqam mosque",
+                  "text": "Sanabis közösségét szolgáló helyi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        50.529858,
+                        26.216371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magic Island",
+                  "text": "Un parc de distracții interior cu diverse caruseluri și jocuri, situat în Seef Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Jidhafs grand mosque",
+                  "text": "O moschee mare și importantă situată în centrul localității Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5375,
+                        26.219823
+                  ]
+            },
+            {
+                  "name": "West Al-Hota Mosque",
+                  "text": "O moschee locală situată în partea de vest a cartierului Al-Hota.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528865,
+                        26.216314
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdullah mosque",
+                  "text": "O moschee tradițională pentru credincioșii din zona Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.532196,
+                        26.225939
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim mosque",
+                  "text": "O moschee locală în cartierul Karbabad pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533919,
+                        26.225082
+                  ]
+            },
+            {
+                  "name": "Al-Tawhid mosque",
+                  "text": "Un lăcaș de cult musulman situat în apropiere de Sanabis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537535,
+                        26.22649
+                  ]
+            },
+            {
+                  "name": "Almaqam mosque",
+                  "text": "O moschee locală care deservește comunitatea din Sanabis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.529858,
+                        26.216371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magic Island",
+                  "text": "An indoor family entertainment centre featuring various rides and games, located within Seef Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Jidhafs grand mosque",
+                  "text": "A large and significant mosque located in the heart of the Jidhafs district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5375,
+                        26.219823
+                  ]
+            },
+            {
+                  "name": "West Al-Hota Mosque",
+                  "text": "A local Muslim place of worship situated in the western part of Al-Hota.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528865,
+                        26.216314
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdullah mosque",
+                  "text": "A traditional mosque serving the faithful in the Jidhafs area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.532196,
+                        26.225939
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim mosque",
+                  "text": "A local mosque in the Karbabad district used for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533919,
+                        26.225082
+                  ]
+            },
+            {
+                  "name": "Al-Tawhid mosque",
+                  "text": "A Muslim place of worship located in the vicinity of Sanabis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537535,
+                        26.22649
+                  ]
+            },
+            {
+                  "name": "Almaqam mosque",
+                  "text": "A local mosque serving the community of Sanabis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.529858,
+                        26.216371
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "BH-13",
     coords: [50.5350, 26.2330],
@@ -918,7 +3051,160 @@ export const poiExtraBahrainLifeV2: POI[] = [
         "Sicherheit: Sicherere Umgebung für Kinder am Meer."
       ], image: "/poi-images/karbabad-beach-park-life-v2.webp"},
   {
-    id: "hamad-town-park-life-v2",
+    id: "hamad-town-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dakar 6",
+                  "text": "Ein bekannter Kreisverkehr in Hamad Town, der als Treffpunkt und zentraler Zugang zu den umliegenden Wohnvierteln dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "nawaf",
+                  "text": "Eine private Sammlung oder ein kleines Museum in Hamad Town, das lokale Artefakte und kulturelle Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "Diese moderne islamische Gebetsstätte in Hamad Town dient der lokalen Gemeinschaft als spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504986,
+                        26.110171
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Kanoo Mosque - Al Khair Mosque",
+                  "text": "Eine markante Moschee in Hamad Town, die durch ihre traditionellen islamischen Architekturelemente besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505167,
+                        26.125254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dakar 6",
+                  "text": "Ismert körforgalom Hamad Townban, amely találkozóhelyként és a környező lakónegyedek központi bejárataként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "nawaf",
+                  "text": "Magángyűjtemény vagy kis múzeum Hamad Townban, amely helyi leleteket és kulturális tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "Ez a modern iszlám istentiszteleti hely Hamad Townban a helyi közösség szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504986,
+                        26.110171
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Kanoo Mosque - Al Khair Mosque",
+                  "text": "Hamad Town egyik kiemelkedő mecsete, amely hagyományos iszlám építészeti elemeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505167,
+                        26.125254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dakar 6",
+                  "text": "Un sens giratoriu cunoscut în Hamad Town, care servește ca punct de întâlnire și acces central către cartierele rezidențiale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "nawaf",
+                  "text": "O colecție privată sau un mic muzeu în Hamad Town, care expune artefacte locale și exponate culturale.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "Acest lăcaș de cult islamic modern din Hamad Town servește comunitatea locală ca centru spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504986,
+                        26.110171
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Kanoo Mosque - Al Khair Mosque",
+                  "text": "O moschee proeminentă din Hamad Town, care se remarcă prin elementele sale arhitecturale islamice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505167,
+                        26.125254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roundabout 6",
+                  "text": "A well-known roundabout in Hamad Town, serving as a meeting point and central access to the surrounding residential blocks.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "nawaf",
+                  "text": "A private collection or small museum in Hamad Town, exhibiting local artifacts and cultural items.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "This modern Islamic place of worship in Hamad Town serves the local community as a spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504986,
+                        26.110171
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Kanoo Mosque - Al Khair Mosque",
+                  "text": "A prominent mosque in Hamad Town featuring traditional Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505167,
+                        26.125254
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "BH-14",
     coords: [50.5050, 26.1150],

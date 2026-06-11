@@ -7,7 +7,7 @@ export const poiExtraCanadaRefill: POI[] = [
       "de": [
             {
                   "name": "Carnegie Bay",
-                  "text": "Carnegie Bay ist eine Bucht in den Thousand Islands.",
+                  "text": "Carnegie Bay ist eine Bucht in Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.902732,
@@ -34,7 +34,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
-                  "text": "Die Rockport Bootslinie bietet Kreuzfahrten in den Thousand Islands an.",
+                  "text": "Schifffahrtslinie mit Kreuzfahrten durch den Thousand-Islands-Archipel.",
                   "category": "landmark",
                   "coords": [
                         -75.932694,
@@ -52,7 +52,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc national des Îles-du-Saint-Laurent",
-                  "text": "Der Nationalpark der Inseln des Sankt-Lorenz-Stroms ist ein Naturschutzgebiet in den Thousand Islands.",
+                  "text": "Nationalpark, der die Inseln des Sankt-Lorenz-Stroms schützt.",
                   "category": "natural",
                   "coords": [
                         -76.003972,
@@ -61,7 +61,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Eye Harbour",
-                  "text": "Eye Harbour ist ein Hafen in den Thousand Islands.",
+                  "text": "Eye Harbour ist ein Hafen in Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.996845,
@@ -70,7 +70,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Fiddlers Elbow",
-                  "text": "Fiddlers Elbow ist eine Bucht in den Thousand Islands.",
+                  "text": "Fiddlers Elbow ist eine enge Durchfahrt in Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.995691,
@@ -106,7 +106,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Landons Bay",
-                  "text": "Landons Bay ist ein Naturschutzgebiet in der Thousand-Islands-Region.",
+                  "text": "Malerische Bucht am Sankt-Lorenz-Strom.",
                   "category": "natural",
                   "coords": [
                         -76.070044,
@@ -115,7 +115,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Murphy's Beach",
-                  "text": "Murphy's Beach ist ein Strand in der Thousand-Islands-Region.",
+                  "text": "Sandstrand, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -76.094477,
@@ -124,7 +124,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Cranberry Creek Wildlife Management Area",
-                  "text": "Das Cranberry Creek Wildlife Management Area ist ein Naturschutzgebiet in der Thousand-Islands-Region.",
+                  "text": "Schutzgebiet für Wildtiere am Cranberry Creek.",
                   "category": "natural",
                   "coords": [
                         -75.883627,
@@ -142,7 +142,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Saint Lawrence Episcopal Church",
-                  "text": "Die Saint Lawrence Episcopal Church in den Thousand Islands ist ein historisches Gotteshaus.",
+                  "text": "Die Saint Lawrence Episcopal Church steht auf Wellesley Island im Sankt-Lorenz-Strom.",
                   "category": "religious",
                   "coords": [
                         -75.921157,
@@ -178,7 +178,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Mary Island State Park",
-                  "text": "Der Mary Island State Park in den Thousand Islands ist ein State Park, der aus mehreren Inseln besteht.",
+                  "text": "Der Mary Island State Park auf Mary Island im Sankt-Lorenz-Strom bietet Camping und Bootfahren.",
                   "category": "park",
                   "coords": [
                         -75.921456,
@@ -196,7 +196,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Dewolf Point State Park",
-                  "text": "Der Dewolf Point State Park liegt in den Thousand Islands und ist ein State Park am St. Lawrence River.",
+                  "text": "Der Dewolf Point State Park am Sankt-Lorenz-Strom hat einen Campingplatz und eine Bootsrampe.",
                   "category": "park",
                   "coords": [
                         -75.98985,
@@ -205,7 +205,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Collins Landing Wildlife Management Area",
-                  "text": "Das Collins Landing Wildlife Management Area ist ein Naturschutzgebiet in der Thousand-Islands-Region.",
+                  "text": "Wildtierbewirtschaftungsgebiet an der Collins Landing.",
                   "category": "natural",
                   "coords": [
                         -75.975293,
@@ -214,7 +214,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Rock Island Lighthouse State Park",
-                  "text": "Der Rock Island Lighthouse State Park in den Thousand Islands umfasst einen historischen Leuchtturm.",
+                  "text": "Der Rock Island Lighthouse State Park umfasst einen historischen Leuchtturm auf Rock Island im Sankt-Lorenz-Strom.",
                   "category": "park",
                   "coords": [
                         -76.01671,
@@ -223,7 +223,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Grass Point State Park",
-                  "text": "Der Grass Point State Park in den Thousand Islands ist ein State Park mit Picknick- und Erholungsmöglichkeiten.",
+                  "text": "Der Grass Point State Park am Sankt-Lorenz-Strom ist für seinen Sandstrand bekannt.",
                   "category": "park",
                   "coords": [
                         -75.995861,
@@ -241,7 +241,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Butterfly House",
-                  "text": "Das Butterfly House in den Thousand Islands ist ein Schmetterlingshaus mit exotischen Schmetterlingen.",
+                  "text": "Innengewächshaus mit Hunderten lebender Schmetterlinge.",
                   "category": "landmark",
                   "coords": [
                         -76.033465,
@@ -250,7 +250,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe-Picnic Point State Park",
-                  "text": "Der Canoe-Picnic Point State Park in den Thousand Islands ist ein State Park, der Kanu- und Picknickmöglichkeiten bietet.",
+                  "text": "Der Canoe-Picnic Point State Park am Sankt-Lorenz-Strom eignet sich ideal zum Kanufahren und Picknicken.",
                   "category": "park",
                   "coords": [
                         -76.074836,
@@ -259,7 +259,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Wellesley Island State Park",
-                  "text": "Der Wellesley Island State Park in den Thousand Islands ist ein Naturschutzgebiet auf Wellesley Island.",
+                  "text": "Der Wellesley Island State Park auf Wellesley Island im Sankt-Lorenz-Strom hat einen Golfplatz und einen Yachthafen.",
                   "category": "natural",
                   "coords": [
                         -76.022514,
@@ -268,7 +268,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe Beach",
-                  "text": "Canoe Beach ist ein Strand in der Thousand-Islands-Region, der zum Kanufahren einlädt.",
+                  "text": "Strand, ideal zum Einsetzen von Kanus und Kajaks.",
                   "category": "recreational",
                   "coords": [
                         -76.097863,
@@ -279,7 +279,7 @@ export const poiExtraCanadaRefill: POI[] = [
       "hu": [
             {
                   "name": "Carnegie Bay",
-                  "text": "A Carnegie-öböl egy öböl a Thousand Islands-ben.",
+                  "text": "A Carnegie Bay egy öböl Islands Refillben.",
                   "category": "landmark",
                   "coords": [
                         -75.902732,
@@ -306,7 +306,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
-                  "text": "A Rockport hajójárat hajókázásokat kínál a Thousand Islands-ben.",
+                  "text": "Hajózási társaság hajóutakkal a Thousand Islands szigetvilágban.",
                   "category": "landmark",
                   "coords": [
                         -75.932694,
@@ -324,7 +324,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc national des Îles-du-Saint-Laurent",
-                  "text": "A Szent Lőrinc-szigetek Nemzeti Park egy természetvédelmi terület a Thousand Islands-ben.",
+                  "text": "Nemzeti park, amely a Szent Lőrinc-folyó szigeteit védi.",
                   "category": "natural",
                   "coords": [
                         -76.003972,
@@ -333,7 +333,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Eye Harbour",
-                  "text": "Az Eye Harbour egy kikötő a Thousand Islands-ben.",
+                  "text": "Az Eye Harbour egy kikötő Islands Refillben.",
                   "category": "landmark",
                   "coords": [
                         -75.996845,
@@ -342,7 +342,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Fiddlers Elbow",
-                  "text": "A Fiddlers Elbow egy öböl a Thousand Islands-ben.",
+                  "text": "A Fiddlers Elbow egy szoros átjáró Islands Refillben.",
                   "category": "landmark",
                   "coords": [
                         -75.995691,
@@ -378,7 +378,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Landons Bay",
-                  "text": "A Landons Bay egy természetvédelmi terület a Thousand Islands régióban.",
+                  "text": "Festői öböl a Szent Lőrinc-folyón.",
                   "category": "natural",
                   "coords": [
                         -76.070044,
@@ -387,7 +387,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Murphy's Beach",
-                  "text": "A Murphy's Beach egy strand a Thousand Islands régióban.",
+                  "text": "Homokos strand, népszerű fürdőzésre.",
                   "category": "recreational",
                   "coords": [
                         -76.094477,
@@ -396,7 +396,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Cranberry Creek Wildlife Management Area",
-                  "text": "A Cranberry Creek Wildlife Management Area egy természetvédelmi terület a Thousand Islands régióban.",
+                  "text": "Védett terület vadon élő állatok számára a Cranberry-patak mentén.",
                   "category": "natural",
                   "coords": [
                         -75.883627,
@@ -414,7 +414,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Saint Lawrence Episcopal Church",
-                  "text": "A Saint Lawrence Episcopal Church a Thousand Islands területén egy történelmi templom.",
+                  "text": "A Saint Lawrence Episcopal Church a Wellesley-szigeten áll a Szent Lőrinc-folyóban.",
                   "category": "religious",
                   "coords": [
                         -75.921157,
@@ -450,7 +450,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Mary Island State Park",
-                  "text": "A Mary Island State Park a Thousand Islands területén egy állami park, amely több szigetből áll.",
+                  "text": "A Mary Island State Park a Mary-szigeten a Szent Lőrinc-folyóban kempingezést és csónakázást kínál.",
                   "category": "park",
                   "coords": [
                         -75.921456,
@@ -468,7 +468,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Dewolf Point State Park",
-                  "text": "A Dewolf Point State Park a Thousand Islands területén található egy állami park a Szent Lőrinc folyó partján.",
+                  "text": "A Dewolf Point State Park a Szent Lőrinc-folyó partján kempinget és csónakrámpát kínál.",
                   "category": "park",
                   "coords": [
                         -75.98985,
@@ -477,7 +477,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Collins Landing Wildlife Management Area",
-                  "text": "A Collins Landing Wildlife Management Area egy természetvédelmi terület a Thousand Islands régióban.",
+                  "text": "Vadgazdálkodási terület a Collins Landingnél.",
                   "category": "natural",
                   "coords": [
                         -75.975293,
@@ -486,7 +486,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Rock Island Lighthouse State Park",
-                  "text": "A Rock Island Lighthouse State Park a Thousand Islands területén egy történelmi világítótornyot foglal magában.",
+                  "text": "A Rock Island Lighthouse State Park egy történelmi világítótornyot foglal magában a Rock Islanden a Szent Lőrinc-folyóban.",
                   "category": "park",
                   "coords": [
                         -76.01671,
@@ -495,7 +495,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Grass Point State Park",
-                  "text": "A Grass Point State Park a Thousand Islands területén egy állami park piknikezési és szabadidős lehetőségekkel.",
+                  "text": "A Grass Point State Park a Szent Lőrinc-folyó partján homokos strandjáról ismert.",
                   "category": "park",
                   "coords": [
                         -75.995861,
@@ -513,7 +513,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Butterfly House",
-                  "text": "A Butterfly House a Thousand Islands területén egy pillangóház, ahol egzotikus pillangók láthatók.",
+                  "text": "Beltéri konzervatórium százával élő pillangókkal.",
                   "category": "landmark",
                   "coords": [
                         -76.033465,
@@ -522,7 +522,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe-Picnic Point State Park",
-                  "text": "A Canoe-Picnic Point State Park a Thousand Islands területén egy állami park, amely kenuzási és piknikezési lehetőséget kínál.",
+                  "text": "A Canoe-Picnic Point State Park a Szent Lőrinc-folyó partján ideális kenuzáshoz és piknikezéshez.",
                   "category": "park",
                   "coords": [
                         -76.074836,
@@ -531,7 +531,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Wellesley Island State Park",
-                  "text": "A Wellesley Island State Park a Thousand Islands területén egy természetvédelmi terület Wellesley Islanden.",
+                  "text": "A Wellesley Island State Park a Wellesley-szigeten a Szent Lőrinc-folyóban golfpályával és kikötővel rendelkezik.",
                   "category": "natural",
                   "coords": [
                         -76.022514,
@@ -540,7 +540,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe Beach",
-                  "text": "A Canoe Beach egy strand a Thousand Islands régióban, amely kenuzásra csábít.",
+                  "text": "Strand, ideális kenu és kajak vízre bocsátásához.",
                   "category": "recreational",
                   "coords": [
                         -76.097863,
@@ -551,7 +551,7 @@ export const poiExtraCanadaRefill: POI[] = [
       "ro": [
             {
                   "name": "Carnegie Bay",
-                  "text": "Golful Carnegie este un golf în Insulele Thousand.",
+                  "text": "Carnegie Bay este un golf în Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.902732,
@@ -578,7 +578,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
-                  "text": "Linia de bărci Rockport oferă croaziere în Insulele Thousand.",
+                  "text": "Linie de bărci care oferă croaziere prin arhipelagul Thousand Islands.",
                   "category": "landmark",
                   "coords": [
                         -75.932694,
@@ -596,7 +596,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc national des Îles-du-Saint-Laurent",
-                  "text": "Parcul Național al Insulelor Sfântul Laurențiu este o rezervație naturală în Insulele Thousand.",
+                  "text": "Parcul național care protejează insulele râului St. Lawrence.",
                   "category": "natural",
                   "coords": [
                         -76.003972,
@@ -605,7 +605,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Eye Harbour",
-                  "text": "Portul Eye este un port în Insulele Thousand.",
+                  "text": "Eye Harbour este un port în Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.996845,
@@ -614,7 +614,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Fiddlers Elbow",
-                  "text": "Fiddlers Elbow este un golf în Insulele Thousand.",
+                  "text": "Fiddlers Elbow este un pasaj îngust în Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.995691,
@@ -650,7 +650,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Landons Bay",
-                  "text": "Landons Bay este o rezervație naturală în regiunea Thousand Islands.",
+                  "text": "Golf pitoresc pe râul St. Lawrence.",
                   "category": "natural",
                   "coords": [
                         -76.070044,
@@ -659,7 +659,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Murphy's Beach",
-                  "text": "Murphy's Beach este o plajă în regiunea Thousand Islands.",
+                  "text": "Plajă nisipoasă populară pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -76.094477,
@@ -668,7 +668,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Cranberry Creek Wildlife Management Area",
-                  "text": "Cranberry Creek Wildlife Management Area este o rezervație naturală în regiunea Thousand Islands.",
+                  "text": "Arie protejată pentru fauna sălbatică de-a lungul pârâului Cranberry.",
                   "category": "natural",
                   "coords": [
                         -75.883627,
@@ -686,7 +686,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Saint Lawrence Episcopal Church",
-                  "text": "Biserica Episcopală Saint Lawrence din Thousand Islands este un lăcaș de cult istoric.",
+                  "text": "Biserica Episcopală Saint Lawrence se află pe insula Wellesley în râul Sfântul Laurențiu.",
                   "category": "religious",
                   "coords": [
                         -75.921157,
@@ -722,7 +722,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Mary Island State Park",
-                  "text": "Parcul de stat Mary Island din Thousand Islands este un parc de stat format din mai multe insule.",
+                  "text": "Parcul de stat Mary Island de pe insula Mary în râul Sfântul Laurențiu oferă camping și plimbări cu barca.",
                   "category": "park",
                   "coords": [
                         -75.921456,
@@ -740,7 +740,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Dewolf Point State Park",
-                  "text": "Parcul de stat Dewolf Point se află în Thousand Islands, un parc de stat pe malul râului St. Lawrence.",
+                  "text": "Parcul de stat Dewolf Point pe râul Sfântul Laurențiu are un camping și o rampă pentru bărci.",
                   "category": "park",
                   "coords": [
                         -75.98985,
@@ -749,7 +749,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Collins Landing Wildlife Management Area",
-                  "text": "Collins Landing Wildlife Management Area este o rezervație naturală în regiunea Thousand Islands.",
+                  "text": "Zonă de gestionare a faunei sălbatice la Collins Landing.",
                   "category": "natural",
                   "coords": [
                         -75.975293,
@@ -758,7 +758,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Rock Island Lighthouse State Park",
-                  "text": "Parcul de stat Rock Island Lighthouse din Thousand Islands include un far istoric.",
+                  "text": "Parcul de stat Rock Island Lighthouse include un far istoric pe insula Rock în râul Sfântul Laurențiu.",
                   "category": "park",
                   "coords": [
                         -76.01671,
@@ -767,7 +767,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Grass Point State Park",
-                  "text": "Parcul de stat Grass Point din Thousand Islands este un parc de stat cu facilități de picnic și recreere.",
+                  "text": "Parcul de stat Grass Point pe râul Sfântul Laurențiu este cunoscut pentru plaja sa nisipoasă.",
                   "category": "park",
                   "coords": [
                         -75.995861,
@@ -785,7 +785,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Butterfly House",
-                  "text": "Butterfly House din Thousand Islands este o casă a fluturilor cu fluturi exotici.",
+                  "text": "Conservator interior cu sute de fluturi vii.",
                   "category": "landmark",
                   "coords": [
                         -76.033465,
@@ -794,7 +794,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe-Picnic Point State Park",
-                  "text": "Parcul de stat Canoe-Picnic Point din Thousand Islands este un parc de stat care oferă posibilități de canoe și picnic.",
+                  "text": "Parcul de stat Canoe-Picnic Point pe râul Sfântul Laurențiu este ideal pentru canotaj și picnicuri.",
                   "category": "park",
                   "coords": [
                         -76.074836,
@@ -803,7 +803,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Wellesley Island State Park",
-                  "text": "Parcul de stat Wellesley Island din Thousand Islands este o rezervație naturală pe insula Wellesley.",
+                  "text": "Parcul de stat Wellesley Island de pe insula Wellesley în râul Sfântul Laurențiu are un teren de golf și o marină.",
                   "category": "natural",
                   "coords": [
                         -76.022514,
@@ -812,7 +812,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe Beach",
-                  "text": "Canoe Beach este o plajă în regiunea Thousand Islands, care invită la canoe.",
+                  "text": "Plajă ideală pentru lansarea canoe și caiacelor.",
                   "category": "recreational",
                   "coords": [
                         -76.097863,
@@ -823,7 +823,7 @@ export const poiExtraCanadaRefill: POI[] = [
       "en": [
             {
                   "name": "Carnegie Bay",
-                  "text": "Carnegie Bay is a bay in the Thousand Islands.",
+                  "text": "Carnegie Bay is a bay in Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.902732,
@@ -850,7 +850,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
-                  "text": "Rockport Boat Line offers cruises in the Thousand Islands.",
+                  "text": "Boat line offering cruises through the Thousand Islands archipelago.",
                   "category": "landmark",
                   "coords": [
                         -75.932694,
@@ -868,7 +868,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc national des Îles-du-Saint-Laurent",
-                  "text": "Parc national des Îles-du-Saint-Laurent is a nature reserve in the Thousand Islands.",
+                  "text": "National park preserving the St. Lawrence River islands.",
                   "category": "natural",
                   "coords": [
                         -76.003972,
@@ -877,7 +877,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Eye Harbour",
-                  "text": "Eye Harbour is a harbour in the Thousand Islands.",
+                  "text": "Eye Harbour is a harbour in Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.996845,
@@ -886,7 +886,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Fiddlers Elbow",
-                  "text": "Fiddlers Elbow is a bay in the Thousand Islands.",
+                  "text": "Fiddlers Elbow is a narrow passage in Islands Refill.",
                   "category": "landmark",
                   "coords": [
                         -75.995691,
@@ -922,7 +922,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Landons Bay",
-                  "text": "Landons Bay is a nature reserve in the Thousand Islands region.",
+                  "text": "Scenic bay on the St. Lawrence River.",
                   "category": "natural",
                   "coords": [
                         -76.070044,
@@ -931,7 +931,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Murphy's Beach",
-                  "text": "Murphy's Beach is a beach in the Thousand Islands region.",
+                  "text": "Sandy beach popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -76.094477,
@@ -940,7 +940,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Cranberry Creek Wildlife Management Area",
-                  "text": "Cranberry Creek Wildlife Management Area is a nature reserve in the Thousand Islands region.",
+                  "text": "Protected area for wildlife along Cranberry Creek.",
                   "category": "natural",
                   "coords": [
                         -75.883627,
@@ -958,7 +958,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Saint Lawrence Episcopal Church",
-                  "text": "Saint Lawrence Episcopal Church in the Thousand Islands is a historic place of worship.",
+                  "text": "Saint Lawrence Episcopal Church stands on Wellesley Island in the St. Lawrence River.",
                   "category": "religious",
                   "coords": [
                         -75.921157,
@@ -994,7 +994,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Mary Island State Park",
-                  "text": "Mary Island State Park in the Thousand Islands is a state park comprising several islands.",
+                  "text": "Mary Island State Park on Mary Island in the St. Lawrence River offers camping and boating.",
                   "category": "park",
                   "coords": [
                         -75.921456,
@@ -1012,7 +1012,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Dewolf Point State Park",
-                  "text": "Dewolf Point State Park is located in the Thousand Islands, a state park on the St. Lawrence River.",
+                  "text": "Dewolf Point State Park on the St. Lawrence River has a campground and boat launch.",
                   "category": "park",
                   "coords": [
                         -75.98985,
@@ -1021,7 +1021,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Collins Landing Wildlife Management Area",
-                  "text": "Collins Landing Wildlife Management Area is a nature reserve in the Thousand Islands region.",
+                  "text": "Wildlife management area at Collins Landing.",
                   "category": "natural",
                   "coords": [
                         -75.975293,
@@ -1030,7 +1030,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Rock Island Lighthouse State Park",
-                  "text": "Rock Island Lighthouse State Park in the Thousand Islands includes a historic lighthouse.",
+                  "text": "Rock Island Lighthouse State Park features a historic lighthouse on Rock Island in the St. Lawrence River.",
                   "category": "park",
                   "coords": [
                         -76.01671,
@@ -1039,7 +1039,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Grass Point State Park",
-                  "text": "Grass Point State Park in the Thousand Islands is a state park with picnic and recreation facilities.",
+                  "text": "Grass Point State Park on the St. Lawrence River is known for its sandy beach.",
                   "category": "park",
                   "coords": [
                         -75.995861,
@@ -1057,7 +1057,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Butterfly House",
-                  "text": "Butterfly House in the Thousand Islands is a butterfly house featuring exotic butterflies.",
+                  "text": "Indoor conservatory housing hundreds of live butterflies.",
                   "category": "landmark",
                   "coords": [
                         -76.033465,
@@ -1066,7 +1066,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe-Picnic Point State Park",
-                  "text": "Canoe-Picnic Point State Park in the Thousand Islands is a state park offering canoeing and picnicking.",
+                  "text": "Canoe-Picnic Point State Park on the St. Lawrence River is ideal for canoeing and picnicking.",
                   "category": "park",
                   "coords": [
                         -76.074836,
@@ -1075,7 +1075,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Wellesley Island State Park",
-                  "text": "Wellesley Island State Park in the Thousand Islands is a nature reserve on Wellesley Island.",
+                  "text": "Wellesley Island State Park on Wellesley Island in the St. Lawrence River has a golf course and marina.",
                   "category": "natural",
                   "coords": [
                         -76.022514,
@@ -1084,7 +1084,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Canoe Beach",
-                  "text": "Canoe Beach is a beach in the Thousand Islands region inviting canoeing.",
+                  "text": "Beach ideal for launching canoes and kayaks.",
                   "category": "recreational",
                   "coords": [
                         -76.097863,
@@ -1166,7 +1166,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Berchmans",
-                  "text": "Eine dem heiligen Johannes Berchmans gewidmete katholische Kirche.",
+                  "text": "Die Église Saint-Jean-Berchmans ist eine katholische Kirche im Stadtteil Saint-Léonard von Montreal.",
                   "category": "religious",
                   "coords": [
                         -73.591203,
@@ -1184,7 +1184,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Caverne de Saint-Léonard",
-                  "text": "Eine natürliche Kalksteinhöhle im Stadtteil Saint-Léonard von Montreal.",
+                  "text": "Die Caverne de Saint-Léonard ist eine Kalksteinhöhle in Saint-Léonard, Montreal, die beim Steinbruch entdeckt wurde.",
                   "category": "natural",
                   "coords": [
                         -73.60795,
@@ -1274,7 +1274,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Sainte-Bernadette-Soubirous",
-                  "text": "Sainte-Bernadette-Soubirous ist ein Gotteshaus im Botanischen Garten von Montreal.",
+                  "text": "Sainte-Bernadette-Soubirous ist eine der Heiligen Bernadette geweihte Kirche in Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.590394,
@@ -1283,7 +1283,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "St. George Antiochian Orthodox",
-                  "text": "St. George Antiochian Orthodox ist ein Gotteshaus im Botanischen Garten von Montreal.",
+                  "text": "St. George Antiochian Orthodox ist eine antiochenisch-orthodoxe Kirche in Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.614212,
@@ -1292,7 +1292,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Ambroise",
-                  "text": "Die Église Saint-Ambroise ist ein Gotteshaus im Botanischen Garten von Montreal.",
+                  "text": "Église Saint-Ambroise ist eine Kirche in Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.600912,
@@ -1301,7 +1301,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Jardin alpin",
-                  "text": "Der Alpine Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "text": "Alpine Garden ist ein Alpengarten im Botanischen Garten von Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.559967,
@@ -1310,7 +1310,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Le Jardin de Chine",
-                  "text": "Der Chinese Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "text": "Chinese Garden ist ein chinesischer Garten im Botanischen Garten von Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.558782,
@@ -1319,7 +1319,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Jardin des Premières-Nations",
-                  "text": "Der First Nations Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "text": "First Nations Garden ist ein Garten der First Nations im Botanischen Garten von Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.561239,
@@ -1328,7 +1328,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Le Roseraie",
-                  "text": "Der Rose Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "text": "Rose Garden ist ein Rosengarten im Botanischen Garten von Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.557613,
@@ -1337,7 +1337,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc George-Vernot",
-                  "text": "Der Parc George-Vernot ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc George-Vernot ist ein Park im Stadtteil Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.615231,
@@ -1346,7 +1346,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Place Pierre-Falardeau",
-                  "text": "Die Place Pierre-Falardeau ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Place Pierre-Falardeau ist ein Platz (Park) in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.575259,
@@ -1355,7 +1355,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc du Pélican",
-                  "text": "Der Parc du Pélican ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc du Pélican ist ein Park mit Pelikan-Motiven in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.57418,
@@ -1364,7 +1364,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Micheline-Coulombe-Saint-Marcoux",
-                  "text": "Der Parc Micheline-Coulombe-Saint-Marcoux ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc Micheline-Coulombe-Saint-Marcoux ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.56577,
@@ -1373,7 +1373,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc des Ouvrières",
-                  "text": "Der Parc des Ouvrières ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc des Ouvrières ist ein Park zu Ehren der Arbeiterinnen in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.564404,
@@ -1382,7 +1382,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc J.-Arthur-Champagne",
-                  "text": "Der Parc J.-Arthur-Champagne ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc J.-Arthur-Champagne ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.561065,
@@ -1391,7 +1391,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Lavallée",
-                  "text": "Der Parc André-Lavallée ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc André-Lavallée ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.568389,
@@ -1400,7 +1400,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Beaubien",
-                  "text": "Der Parc Beaubien ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc Beaubien ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.590027,
@@ -1409,7 +1409,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Sainte-Bernadette",
-                  "text": "Der Parc Sainte-Bernadette ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc Sainte-Bernadette ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.588051,
@@ -1418,7 +1418,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Étienne-Desmarteau",
-                  "text": "Der Parc Étienne-Desmarteau ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc Étienne-Desmarteau ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.580272,
@@ -1427,7 +1427,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc de la Louisiane",
-                  "text": "Der Parc de la Louisiane ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc de la Louisiane ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.572306,
@@ -1436,7 +1436,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Ladauversière",
-                  "text": "Der Parc Ladauversière ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Parc Ladauversière ist ein Park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.583128,
@@ -1445,7 +1445,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Louis-Riel",
-                  "text": "Der Parc Louis-Riel ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Im Botanischen Garten Refill gelegener Park, benannt nach dem Métis-Führer Louis Riel.",
                   "category": "park",
                   "coords": [
                         -73.554535,
@@ -1454,7 +1454,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Cité-Jardin",
-                  "text": "Der Parc Cité-Jardin ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Park im Stil einer Gartenstadt im Botanischen Garten Refill.",
                   "category": "park",
                   "coords": [
                         -73.561943,
@@ -1463,7 +1463,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Léon-Provancher",
-                  "text": "Der Parc Léon-Provancher ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Park im Botanischen Garten Refill, benannt nach dem Naturforscher Léon Provancher.",
                   "category": "park",
                   "coords": [
                         -73.569386,
@@ -1472,7 +1472,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Laurendeau",
-                  "text": "Der Parc André-Laurendeau ist ein Park im Botanischen Garten von Montreal.",
+                  "text": "Park im Botanischen Garten Refill, benannt nach dem Journalisten André Laurendeau.",
                   "category": "park",
                   "coords": [
                         -73.570203,
@@ -1510,7 +1510,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Berchmans",
-                  "text": "Szent János Berchmans-nak szentelt katolikus templom.",
+                  "text": "Az Église Saint-Jean-Berchmans egy katolikus templom Montreal Saint-Léonard negyedében.",
                   "category": "religious",
                   "coords": [
                         -73.591203,
@@ -1528,7 +1528,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Caverne de Saint-Léonard",
-                  "text": "Természetes mészkőbarlang Montreal Saint-Léonard negyedében.",
+                  "text": "A Caverne de Saint-Léonard egy mészkőbarlang Saint-Léonardban, Montrealban, amelyet kőfejtés során fedeztek fel.",
                   "category": "natural",
                   "coords": [
                         -73.60795,
@@ -1618,7 +1618,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Sainte-Bernadette-Soubirous",
-                  "text": "A Sainte-Bernadette-Soubirous egy istentiszteleti hely a montréali botanikus kertben.",
+                  "text": "A Sainte-Bernadette-Soubirous egy Szent Bernadettének szentelt templom Botanical Garden Refillben.",
                   "category": "religious",
                   "coords": [
                         -73.590394,
@@ -1627,7 +1627,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "St. George Antiochian Orthodox",
-                  "text": "A St. George Antiochian Orthodox egy istentiszteleti hely a montréali botanikus kertben.",
+                  "text": "A St. George Antiochian Orthodox egy antiókhiai ortodox templom Botanical Garden Refillben.",
                   "category": "religious",
                   "coords": [
                         -73.614212,
@@ -1636,7 +1636,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Ambroise",
-                  "text": "Az Église Saint-Ambroise egy istentiszteleti hely a montréali botanikus kertben.",
+                  "text": "Az Église Saint-Ambroise egy templom Botanical Garden Refillben.",
                   "category": "religious",
                   "coords": [
                         -73.600912,
@@ -1645,7 +1645,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Jardin alpin",
-                  "text": "Az Alpine Garden egy látványosság a montréali botanikus kertben.",
+                  "text": "Az Alpine Garden egy alpesi kert a Botanical Garden Refill botanikus kertjében.",
                   "category": "landmark",
                   "coords": [
                         -73.559967,
@@ -1654,7 +1654,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Le Jardin de Chine",
-                  "text": "A Chinese Garden egy látványosság a montréali botanikus kertben.",
+                  "text": "A Chinese Garden egy kínai kert a Botanical Garden Refill botanikus kertjében.",
                   "category": "landmark",
                   "coords": [
                         -73.558782,
@@ -1663,7 +1663,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Jardin des Premières-Nations",
-                  "text": "A First Nations Garden egy látványosság a montréali botanikus kertben.",
+                  "text": "A First Nations Garden egy elsõ nemzetek kertje a Botanical Garden Refill botanikus kertjében.",
                   "category": "landmark",
                   "coords": [
                         -73.561239,
@@ -1672,7 +1672,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Le Roseraie",
-                  "text": "A Rose Garden egy látványosság a montréali botanikus kertben.",
+                  "text": "A Rose Garden egy rózsakert a Botanical Garden Refill botanikus kertjében.",
                   "category": "landmark",
                   "coords": [
                         -73.557613,
@@ -1681,7 +1681,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc George-Vernot",
-                  "text": "A Parc George-Vernot egy park a montréali botanikus kertben.",
+                  "text": "A Parc George-Vernot egy park Botanical Garden Refill negyedében.",
                   "category": "park",
                   "coords": [
                         -73.615231,
@@ -1690,7 +1690,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Place Pierre-Falardeau",
-                  "text": "A Place Pierre-Falardeau egy park a montréali botanikus kertben.",
+                  "text": "A Place Pierre-Falardeau egy tér (park) Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.575259,
@@ -1699,7 +1699,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc du Pélican",
-                  "text": "A Parc du Pélican egy park a montréali botanikus kertben.",
+                  "text": "A Parc du Pélican egy pelikán motívumú park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.57418,
@@ -1708,7 +1708,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Micheline-Coulombe-Saint-Marcoux",
-                  "text": "A Parc Micheline-Coulombe-Saint-Marcoux egy park a montréali botanikus kertben.",
+                  "text": "A Parc Micheline-Coulombe-Saint-Marcoux egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.56577,
@@ -1717,7 +1717,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc des Ouvrières",
-                  "text": "A Parc des Ouvrières egy park a montréali botanikus kertben.",
+                  "text": "A Parc des Ouvrières egy munkásnők tiszteletére elnevezett park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.564404,
@@ -1726,7 +1726,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc J.-Arthur-Champagne",
-                  "text": "A Parc J.-Arthur-Champagne egy park a montréali botanikus kertben.",
+                  "text": "A Parc J.-Arthur-Champagne egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.561065,
@@ -1735,7 +1735,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Lavallée",
-                  "text": "A Parc André-Lavallée egy park a montréali botanikus kertben.",
+                  "text": "A Parc André-Lavallée egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.568389,
@@ -1744,7 +1744,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Beaubien",
-                  "text": "A Parc Beaubien egy park a montréali botanikus kertben.",
+                  "text": "A Parc Beaubien egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.590027,
@@ -1753,7 +1753,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Sainte-Bernadette",
-                  "text": "A Parc Sainte-Bernadette egy park a montréali botanikus kertben.",
+                  "text": "A Parc Sainte-Bernadette egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.588051,
@@ -1762,7 +1762,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Étienne-Desmarteau",
-                  "text": "A Parc Étienne-Desmarteau egy park a montréali botanikus kertben.",
+                  "text": "A Parc Étienne-Desmarteau egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.580272,
@@ -1771,7 +1771,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc de la Louisiane",
-                  "text": "A Parc de la Louisiane egy park a montréali botanikus kertben.",
+                  "text": "A Parc de la Louisiane egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.572306,
@@ -1780,7 +1780,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Ladauversière",
-                  "text": "A Parc Ladauversière egy park a montréali botanikus kertben.",
+                  "text": "A Parc Ladauversière egy park Botanical Garden Refillben.",
                   "category": "park",
                   "coords": [
                         -73.583128,
@@ -1789,7 +1789,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Louis-Riel",
-                  "text": "A Parc Louis-Riel egy park a montréali botanikus kertben.",
+                  "text": "A Botanical Garden Refill területén található park, amely Louis Riel métis vezetőről kapta a nevét.",
                   "category": "park",
                   "coords": [
                         -73.554535,
@@ -1798,7 +1798,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Cité-Jardin",
-                  "text": "A Parc Cité-Jardin egy park a montréali botanikus kertben.",
+                  "text": "Kertvárosi stílusú park a Botanical Garden Refill területén.",
                   "category": "park",
                   "coords": [
                         -73.561943,
@@ -1807,7 +1807,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Léon-Provancher",
-                  "text": "A Parc Léon-Provancher egy park a montréali botanikus kertben.",
+                  "text": "A Léon Provancher természettudósról elnevezett park a Botanical Garden Refill területén.",
                   "category": "park",
                   "coords": [
                         -73.569386,
@@ -1816,7 +1816,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Laurendeau",
-                  "text": "A Parc André-Laurendeau egy park a montréali botanikus kertben.",
+                  "text": "A Botanical Garden Refill területén található park, André Laurendeau újságíróról elnevezve.",
                   "category": "park",
                   "coords": [
                         -73.570203,
@@ -1854,7 +1854,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Berchmans",
-                  "text": "O biserică catolică dedicată Sfântului Ioan Berchmans.",
+                  "text": "Biserica Saint-Jean-Berchmans este o biserică catolică în cartierul Saint-Léonard din Montreal.",
                   "category": "religious",
                   "coords": [
                         -73.591203,
@@ -1872,7 +1872,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Caverne de Saint-Léonard",
-                  "text": "O peșteră naturală de calcar situată în cartierul Saint-Léonard din Montreal.",
+                  "text": "Caverne de Saint-Léonard este o peșteră de calcar în Saint-Léonard, Montreal, descoperită în timpul exploatării unei cariere.",
                   "category": "natural",
                   "coords": [
                         -73.60795,
@@ -1962,7 +1962,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Sainte-Bernadette-Soubirous",
-                  "text": "Sainte-Bernadette-Soubirous este un lăcaș de cult în Grădina Botanică din Montreal.",
+                  "text": "Sainte-Bernadette-Soubirous este o biserică dedicată Sfintei Bernadeta în Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.590394,
@@ -1971,7 +1971,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "St. George Antiochian Orthodox",
-                  "text": "St. George Antiochian Orthodox este un lăcaș de cult în Grădina Botanică din Montreal.",
+                  "text": "St. George Antiochian Orthodox este o biserică ortodoxă antiohiană în Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.614212,
@@ -1980,7 +1980,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Ambroise",
-                  "text": "Église Saint-Ambroise este un lăcaș de cult în Grădina Botanică din Montreal.",
+                  "text": "Église Saint-Ambroise este o biserică în Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.600912,
@@ -1989,7 +1989,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Jardin alpin",
-                  "text": "Alpine Garden este o atracție în Grădina Botanică din Montreal.",
+                  "text": "Alpine Garden este o grădină alpină în grădina botanică din Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.559967,
@@ -1998,7 +1998,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Le Jardin de Chine",
-                  "text": "Chinese Garden este o atracție în Grădina Botanică din Montreal.",
+                  "text": "Chinese Garden este o grădină chinezească în grădina botanică din Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.558782,
@@ -2007,7 +2007,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Jardin des Premières-Nations",
-                  "text": "First Nations Garden este o atracție în Grădina Botanică din Montreal.",
+                  "text": "First Nations Garden este o grădină a primelor națiuni în grădina botanică din Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.561239,
@@ -2016,7 +2016,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Le Roseraie",
-                  "text": "Rose Garden este o atracție în Grădina Botanică din Montreal.",
+                  "text": "Rose Garden este o grădină de trandafiri în grădina botanică din Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.557613,
@@ -2025,7 +2025,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc George-Vernot",
-                  "text": "Parc George-Vernot este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc George-Vernot este un parc în cartierul Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.615231,
@@ -2034,7 +2034,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Place Pierre-Falardeau",
-                  "text": "Place Pierre-Falardeau este un parc în Grădina Botanică din Montreal.",
+                  "text": "Place Pierre-Falardeau este o piață (parc) în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.575259,
@@ -2043,7 +2043,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc du Pélican",
-                  "text": "Parc du Pélican este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc du Pélican este un parc cu motive de pelican în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.57418,
@@ -2052,7 +2052,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Micheline-Coulombe-Saint-Marcoux",
-                  "text": "Parc Micheline-Coulombe-Saint-Marcoux este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc Micheline-Coulombe-Saint-Marcoux este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.56577,
@@ -2061,7 +2061,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc des Ouvrières",
-                  "text": "Parc des Ouvrières este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc des Ouvrières este un parc în onoarea muncitoarelor în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.564404,
@@ -2070,7 +2070,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc J.-Arthur-Champagne",
-                  "text": "Parc J.-Arthur-Champagne este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc J.-Arthur-Champagne este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.561065,
@@ -2079,7 +2079,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Lavallée",
-                  "text": "Parc André-Lavallée este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc André-Lavallée este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.568389,
@@ -2088,7 +2088,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Beaubien",
-                  "text": "Parc Beaubien este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc Beaubien este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.590027,
@@ -2097,7 +2097,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Sainte-Bernadette",
-                  "text": "Parc Sainte-Bernadette este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc Sainte-Bernadette este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.588051,
@@ -2106,7 +2106,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Étienne-Desmarteau",
-                  "text": "Parc Étienne-Desmarteau este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc Étienne-Desmarteau este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.580272,
@@ -2115,7 +2115,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc de la Louisiane",
-                  "text": "Parc de la Louisiane este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc de la Louisiane este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.572306,
@@ -2124,7 +2124,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Ladauversière",
-                  "text": "Parc Ladauversière este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc Ladauversière este un parc în Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.583128,
@@ -2133,7 +2133,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Louis-Riel",
-                  "text": "Parc Louis-Riel este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parcul Louis-Riel, situat în Grădina Botanică Refill, numit după liderul metis Louis Riel.",
                   "category": "park",
                   "coords": [
                         -73.554535,
@@ -2142,7 +2142,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Cité-Jardin",
-                  "text": "Parc Cité-Jardin este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parc în stilul unui oraș-grădină, situat în Grădina Botanică Refill.",
                   "category": "park",
                   "coords": [
                         -73.561943,
@@ -2151,7 +2151,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Léon-Provancher",
-                  "text": "Parc Léon-Provancher este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parcul Léon-Provancher, numit după naturalistul Léon Provancher, în Grădina Botanică Refill.",
                   "category": "park",
                   "coords": [
                         -73.569386,
@@ -2160,7 +2160,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Laurendeau",
-                  "text": "Parc André-Laurendeau este un parc în Grădina Botanică din Montreal.",
+                  "text": "Parcul André-Laurendeau, numit după jurnalistul André Laurendeau, în Grădina Botanică Refill.",
                   "category": "park",
                   "coords": [
                         -73.570203,
@@ -2198,7 +2198,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Berchmans",
-                  "text": "A Catholic church dedicated to Saint John Berchmans.",
+                  "text": "Église Saint-Jean-Berchmans is a Catholic church in the Saint-Léonard borough of Montreal.",
                   "category": "religious",
                   "coords": [
                         -73.591203,
@@ -2216,7 +2216,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Caverne de Saint-Léonard",
-                  "text": "A natural limestone cave located in the Saint-Léonard district of Montreal.",
+                  "text": "Caverne de Saint-Léonard is a limestone cave in Saint-Léonard, Montreal, discovered during quarrying.",
                   "category": "natural",
                   "coords": [
                         -73.60795,
@@ -2306,7 +2306,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Sainte-Bernadette-Soubirous",
-                  "text": "Sainte-Bernadette-Soubirous is a place of worship in Montreal's Botanical Garden.",
+                  "text": "Sainte-Bernadette-Soubirous is a church dedicated to Saint Bernadette in Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.590394,
@@ -2315,7 +2315,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "St. George Antiochian Orthodox",
-                  "text": "St. George Antiochian Orthodox is a place of worship in Montreal's Botanical Garden.",
+                  "text": "St. George Antiochian Orthodox is an Antiochian Orthodox church in Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.614212,
@@ -2324,7 +2324,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Église Saint-Ambroise",
-                  "text": "Église Saint-Ambroise is a place of worship in Montreal's Botanical Garden.",
+                  "text": "Église Saint-Ambroise is a church in Botanical Garden Refill.",
                   "category": "religious",
                   "coords": [
                         -73.600912,
@@ -2333,7 +2333,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Alpine Garden",
-                  "text": "Alpine Garden is an attraction in Montreal's Botanical Garden.",
+                  "text": "Alpine Garden is an alpine garden in the botanical garden of Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.559967,
@@ -2342,7 +2342,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Chinese Garden",
-                  "text": "Chinese Garden is an attraction in Montreal's Botanical Garden.",
+                  "text": "Chinese Garden is a Chinese garden in the botanical garden of Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.558782,
@@ -2351,7 +2351,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "First Nations Garden",
-                  "text": "First Nations Garden is an attraction in Montreal's Botanical Garden.",
+                  "text": "First Nations Garden is a First Nations garden in the botanical garden of Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.561239,
@@ -2360,7 +2360,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Rose Garden",
-                  "text": "Rose Garden is an attraction in Montreal's Botanical Garden.",
+                  "text": "Rose Garden is a rose garden in the botanical garden of Botanical Garden Refill.",
                   "category": "landmark",
                   "coords": [
                         -73.557613,
@@ -2369,7 +2369,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc George-Vernot",
-                  "text": "Parc George-Vernot is a park in Montreal's Botanical Garden.",
+                  "text": "Parc George-Vernot is a park in the Botanical Garden Refill district.",
                   "category": "park",
                   "coords": [
                         -73.615231,
@@ -2378,7 +2378,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Place Pierre-Falardeau",
-                  "text": "Place Pierre-Falardeau is a park in Montreal's Botanical Garden.",
+                  "text": "Place Pierre-Falardeau is a square (park) in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.575259,
@@ -2387,7 +2387,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc du Pélican",
-                  "text": "Parc du Pélican is a park in Montreal's Botanical Garden.",
+                  "text": "Parc du Pélican is a park with pelican motifs in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.57418,
@@ -2396,7 +2396,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Micheline-Coulombe-Saint-Marcoux",
-                  "text": "Parc Micheline-Coulombe-Saint-Marcoux is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Micheline-Coulombe-Saint-Marcoux is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.56577,
@@ -2405,7 +2405,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc des Ouvrières",
-                  "text": "Parc des Ouvrières is a park in Montreal's Botanical Garden.",
+                  "text": "Parc des Ouvrières is a park honoring women workers in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.564404,
@@ -2414,7 +2414,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc J.-Arthur-Champagne",
-                  "text": "Parc J.-Arthur-Champagne is a park in Montreal's Botanical Garden.",
+                  "text": "Parc J.-Arthur-Champagne is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.561065,
@@ -2423,7 +2423,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Lavallée",
-                  "text": "Parc André-Lavallée is a park in Montreal's Botanical Garden.",
+                  "text": "Parc André-Lavallée is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.568389,
@@ -2432,7 +2432,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Beaubien",
-                  "text": "Parc Beaubien is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Beaubien is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.590027,
@@ -2441,7 +2441,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Sainte-Bernadette",
-                  "text": "Parc Sainte-Bernadette is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Sainte-Bernadette is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.588051,
@@ -2450,7 +2450,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Étienne-Desmarteau",
-                  "text": "Parc Étienne-Desmarteau is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Étienne-Desmarteau is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.580272,
@@ -2459,7 +2459,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc de la Louisiane",
-                  "text": "Parc de la Louisiane is a park in Montreal's Botanical Garden.",
+                  "text": "Parc de la Louisiane is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.572306,
@@ -2468,7 +2468,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Ladauversière",
-                  "text": "Parc Ladauversière is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Ladauversière is a park in Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.583128,
@@ -2477,7 +2477,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Louis-Riel",
-                  "text": "Parc Louis-Riel is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Louis-Riel: a park named after Métis leader Louis Riel, located in the Botanical Garden Refill area.",
                   "category": "park",
                   "coords": [
                         -73.554535,
@@ -2486,7 +2486,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Cité-Jardin",
-                  "text": "Parc Cité-Jardin is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Cité-Jardin: a garden-city-style park within the Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.561943,
@@ -2495,7 +2495,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc Léon-Provancher",
-                  "text": "Parc Léon-Provancher is a park in Montreal's Botanical Garden.",
+                  "text": "Parc Léon-Provancher: a park named after naturalist Léon Provancher, in the Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.569386,
@@ -2504,7 +2504,7 @@ export const poiExtraCanadaRefill: POI[] = [
             },
             {
                   "name": "Parc André-Laurendeau",
-                  "text": "Parc André-Laurendeau is a park in Montreal's Botanical Garden.",
+                  "text": "Parc André-Laurendeau: a park named after journalist André Laurendeau, located in the Botanical Garden Refill.",
                   "category": "park",
                   "coords": [
                         -73.570203,

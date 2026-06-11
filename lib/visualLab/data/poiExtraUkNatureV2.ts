@@ -351,7 +351,7 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
             },
             {
                   "name": "Runkerry Stand (Bushfoot)",
-                  "text": "Ein malerischer Strandabschnitt in der Nähe des Giant's Causeway.",
+                  "text": "Aussichtspunkt am Runkerry Strand mit Blick auf Golfplatz und Klippen.",
                   "category": "recreational",
                   "coords": [
                         -6.53085,
@@ -425,7 +425,7 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
             },
             {
                   "name": "Runkerry Stand (Bushfoot)",
-                  "text": "Festői tengerparti terület a Giant's Causeway közelében.",
+                  "text": "Kilátó a Runkerry strandon, golfpályára és sziklákra néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         -6.53085,
@@ -499,7 +499,7 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
             },
             {
                   "name": "Runkerry Stand (Bushfoot)",
-                  "text": "O zonă de plajă pitorească situată în apropiere de Giant's Causeway.",
+                  "text": "Punct de belvedere pe plaja Runkerry, cu vedere spre terenul de golf și stânci.",
                   "category": "recreational",
                   "coords": [
                         -6.53085,
@@ -573,7 +573,7 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
             },
             {
                   "name": "Runkerry Stand (Bushfoot)",
-                  "text": "A scenic beach area located near the Giant's Causeway.",
+                  "text": "Viewpoint on Runkerry beach overlooking the golf course and cliffs.",
                   "category": "recreational",
                   "coords": [
                         -6.53085,
@@ -730,7 +730,7 @@ imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
             },
             {
                   "name": "Crib Goch",
-                  "text": "Ein berühmter, schmaler Grat und Gipfel in der Snowdon-Region.",
+                  "text": "Crib Goch am Snowdon ist ein berühmter Grat (Messerfirst) und bei Wanderern beliebt.",
                   "category": "landmark",
                   "coords": [
                         -4.054589,
@@ -804,7 +804,7 @@ imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
             },
             {
                   "name": "Crib Goch",
-                  "text": "Híres, keskeny hegygerinc és csúcs a Snowdon-régióban.",
+                  "text": "A Crib Goch a Snowdonon egy híres gerinc (késél), népszerű a túrázók körében.",
                   "category": "landmark",
                   "coords": [
                         -4.054589,
@@ -878,7 +878,7 @@ imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
             },
             {
                   "name": "Crib Goch",
-                  "text": "O creastă îngustă și un vârf faimos din regiunea Snowdon.",
+                  "text": "Crib Goch pe Snowdon este o creastă faimoasă (muchie de cuțit), populară printre drumeți.",
                   "category": "landmark",
                   "coords": [
                         -4.054589,
@@ -952,7 +952,7 @@ imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
             },
             {
                   "name": "Crib Goch",
-                  "text": "A famous narrow arête and peak in the Snowdon region.",
+                  "text": "Crib Goch on Snowdon is a famous arête (knife-edge ridge), popular with hikers.",
                   "category": "landmark",
                   "coords": [
                         -4.054589,
@@ -1194,7 +1194,7 @@ imageHint: "Cheddar Gorge limestone cliffs and winding road",
       "de": [
             {
                   "name": "Hope Gap",
-                  "text": "Ein Strand unterhalb der Seven Sisters Klippen.",
+                  "text": "Bucht zwischen den Seven Sisters-Kreidefelsen, beliebt zum Klettern und Wandern.",
                   "category": "recreational",
                   "coords": [
                         0.139107,
@@ -1205,7 +1205,7 @@ imageHint: "Cheddar Gorge limestone cliffs and winding road",
       "hu": [
             {
                   "name": "Hope Gap",
-                  "text": "Strand a Seven Sisters sziklák alatt.",
+                  "text": "Öböl a Seven Sisters krétasziklái között, népszerű mászáshoz és túrázáshoz.",
                   "category": "recreational",
                   "coords": [
                         0.139107,
@@ -1216,7 +1216,7 @@ imageHint: "Cheddar Gorge limestone cliffs and winding road",
       "ro": [
             {
                   "name": "Hope Gap",
-                  "text": "O plajă sub stâncile Seven Sisters.",
+                  "text": "Golf între stâncile de cretă Seven Sisters, popular pentru cățărare și drumeții.",
                   "category": "recreational",
                   "coords": [
                         0.139107,
@@ -1227,7 +1227,7 @@ imageHint: "Cheddar Gorge limestone cliffs and winding road",
       "en": [
             {
                   "name": "Hope Gap",
-                  "text": "A beach below the Seven Sisters cliffs.",
+                  "text": "Cove between the Seven Sisters chalk cliffs, popular for climbing and hiking.",
                   "category": "recreational",
                   "coords": [
                         0.139107,
@@ -1740,7 +1740,7 @@ imageHint: "Lake Windermere with sailboats and green hills",
             },
             {
                   "name": "McKinnons's Cave",
-                  "text": "Eine natürliche Höhle an der Küste der Insel Staffa.",
+                  "text": "Meereshöhle aus Basaltsäulen auf der Insel Staffa, nahe der Fingalshöhle.",
                   "category": "landmark",
                   "coords": [
                         -6.343206,
@@ -1769,7 +1769,7 @@ imageHint: "Lake Windermere with sailboats and green hills",
             },
             {
                   "name": "McKinnons's Cave",
-                  "text": "Természetes barlang Staffa szigetének partján.",
+                  "text": "Tengeri barlang bazaltoszlopokkal Staffa szigetén, a Fingal-barlang közelében.",
                   "category": "landmark",
                   "coords": [
                         -6.343206,
@@ -1798,7 +1798,7 @@ imageHint: "Lake Windermere with sailboats and green hills",
             },
             {
                   "name": "McKinnons's Cave",
-                  "text": "O peșteră naturală pe coasta insulei Staffa.",
+                  "text": "Peșteră marină cu coloane de bazalt pe insula Staffa, lângă Peștera lui Fingal.",
                   "category": "landmark",
                   "coords": [
                         -6.343206,
@@ -1827,7 +1827,7 @@ imageHint: "Lake Windermere with sailboats and green hills",
             },
             {
                   "name": "McKinnons's Cave",
-                  "text": "A natural cave on the coast of Staffa island.",
+                  "text": "Sea cave with basalt columns on the island of Staffa, near Fingal's Cave.",
                   "category": "landmark",
                   "coords": [
                         -6.343206,

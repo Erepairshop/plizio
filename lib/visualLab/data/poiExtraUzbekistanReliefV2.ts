@@ -211,7 +211,124 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     }
   },
   {
-    id: "nuratau-mountains-relief-v2",
+    id: "nuratau-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gadaykhana",
+                  "text": "Diese verwitterten Steinruinen liegen eingebettet in das zerklüftete Gelände des Nuratau-Gebirges und bieten einen Einblick in die alten Hirtensiedlungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        66.518842,
+                        40.543481
+                  ]
+            },
+            {
+                  "name": "Chashma Buloq",
+                  "text": "Diese heilige islamische Quelle in den Bergtälern bietet frisches, mineralreiches Wasser, das Gläubige traditionell aufsuchen, um Segen zu erbitten.",
+                  "category": "landmark",
+                  "coords": [
+                        66.396789,
+                        40.512127
+                  ]
+            },
+            {
+                  "name": "Xonaqoh",
+                  "text": "Diese islamische Khanaqah fungierte historisch als Rückzugsort für Sufi-Derwische und bietet ein spirituelles Heiligtum inmitten der abgelegenen Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        66.397895,
+                        40.515678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gadaykhana",
+                  "text": "Ezek a viharvert kőromok a Nuratau-hegység zord terepén bújnak meg, bepillantást engedve a régió ősi pásztortelepüléseibe.",
+                  "category": "historical",
+                  "coords": [
+                        66.518842,
+                        40.543481
+                  ]
+            },
+            {
+                  "name": "Chashma Buloq",
+                  "text": "A hegyi völgyek között található szent iszlám forrás friss, ásványi anyagokban gazdag vizeivel várja a hívőket, akik hagyományosan áldást keresve jönnek ide.",
+                  "category": "landmark",
+                  "coords": [
+                        66.396789,
+                        40.512127
+                  ]
+            },
+            {
+                  "name": "Xonaqoh",
+                  "text": "Történelmileg a szúfi dervisek elvonulási helyeként működő iszlám khanaqah spirituális menedéket nyújt a távoli hegyi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        66.397895,
+                        40.515678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gadaykhana",
+                  "text": "Aceste ruine de piatră erodate se află amplasate în terenul accidentat al Munților Nuratau, oferind o privire asupra așezărilor pastorale antice ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        66.518842,
+                        40.543481
+                  ]
+            },
+            {
+                  "name": "Chashma Buloq",
+                  "text": "Situat printre văile munților, acest izvor sacru islamic oferă ape proaspete, bogate în minerale, unde credincioșii vin în mod tradițional pentru a căuta binecuvântări.",
+                  "category": "landmark",
+                  "coords": [
+                        66.396789,
+                        40.512127
+                  ]
+            },
+            {
+                  "name": "Xonaqoh",
+                  "text": "Funcționând istoric ca un refugiu pentru dervișii sufiți, acest khanaqah islamic oferă un sanctuar spiritual în peisajul montan îndepărtat.",
+                  "category": "landmark",
+                  "coords": [
+                        66.397895,
+                        40.515678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gadaykhana",
+                  "text": "These weathered stone ruins lie nestled within the rugged terrain of the Nuratau Mountains, offering a glimpse into the region's ancient pastoral settlements.",
+                  "category": "historical",
+                  "coords": [
+                        66.518842,
+                        40.543481
+                  ]
+            },
+            {
+                  "name": "Chashma Buloq",
+                  "text": "Located among the mountain valleys, this sacred Islamic spring features fresh, mineral-rich waters where believers traditionally come to seek blessings.",
+                  "category": "landmark",
+                  "coords": [
+                        66.396789,
+                        40.512127
+                  ]
+            },
+            {
+                  "name": "Xonaqoh",
+                  "text": "Functioning historically as a retreat for Sufi dervishes, this Islamic khanaqah provides a spiritual sanctuary within the remote mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        66.397895,
+                        40.515678
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-NW",
     coords: [66.5, 40.5],
@@ -507,7 +624,412 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     }
   },
   {
-    id: "karjantau-range-relief-v2",
+    id: "karjantau-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Razrushennyi avtobus",
+                  "text": "Das Wrack eines alten Busses dient in diesem Gebirgsteil des Karjantau als ungewöhnliche Landmarke.",
+                  "category": "landmark",
+                  "coords": [
+                        69.796941,
+                        41.513148
+                  ]
+            },
+            {
+                  "name": "Gorbatyi most",
+                  "text": "Die charakteristisch gewölbte Brücke überspannt einen Gebirgsbach im Karjantau-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        69.758029,
+                        41.575838
+                  ]
+            },
+            {
+                  "name": "Kruzhkovaia",
+                  "text": "Dieses Theatergebäude im Gebirge dient als lokales Zentrum für kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.808036,
+                        41.488475
+                  ]
+            },
+            {
+                  "name": "Chotqol sanatoriyasi",
+                  "text": "Dieses Sanatorium liegt in den Ausläufern des Karjantau und bietet Heilkuren in Bergluft an.",
+                  "category": "landmark",
+                  "coords": [
+                        69.789421,
+                        41.573281
+                  ]
+            },
+            {
+                  "name": "Sari qangli jome’ masjidi",
+                  "text": "Die Sari-qangli-Moschee ist ein lokales islamisches Gebetshaus in der Bergregion des Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.712335,
+                        41.537699
+                  ]
+            },
+            {
+                  "name": "Doniyor bin Ozod jome’ masjidi",
+                  "text": "Dieses muslimische Gotteshaus im Karjantau-Gebirge dient der örtlichen Gemeinde für tägliche Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.770726,
+                        41.556282
+                  ]
+            },
+            {
+                  "name": "Olimjon ota jome’ masjidi",
+                  "text": "Die Olimjon-ota-Moschee ist eine traditionelle Freitagsmoschee im Karjantau-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.782114,
+                        41.570588
+                  ]
+            },
+            {
+                  "name": "Imomi A’zam jome’ masjidi",
+                  "text": "Diese nach Imam A’zam benannte Moschee liegt in den malerischen Bergen des Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.720671,
+                        41.566488
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Vsekh skorbiashchikh Radoste>>",
+                  "text": "Diese christliche Kirche im Karjantau ist der Ikone der Gottesmutter „Aller Betrübten Freude“ geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        69.759807,
+                        41.562846
+                  ]
+            },
+            {
+                  "name": "paseka",
+                  "text": "Diese Bergbienenfarm ist ein lokaler Markt für frischen Honig aus dem Karjantau-Gebirge.",
+                  "category": "cultural",
+                  "coords": [
+                        69.905429,
+                        41.530015
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Dieser kleine Markt am Fuße des Karjantau-Gebirges bietet Waren für Wanderer und Einheimische.",
+                  "category": "cultural",
+                  "coords": [
+                        69.856256,
+                        41.542413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Razrushennyi avtobus",
+                  "text": "Egy régi busz roncsa szolgál szokatlan tájékozódási pontként a Karjantau-hegység ezen részén.",
+                  "category": "landmark",
+                  "coords": [
+                        69.796941,
+                        41.513148
+                  ]
+            },
+            {
+                  "name": "Gorbatyi most",
+                  "text": "A jellegzetes íves híd egy hegyi patakot ível át a Karjantau-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.758029,
+                        41.575838
+                  ]
+            },
+            {
+                  "name": "Kruzhkovaia",
+                  "text": "Ez a hegyvidéki színházépület a kulturális előadások helyi központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.808036,
+                        41.488475
+                  ]
+            },
+            {
+                  "name": "Chotqol sanatoriyasi",
+                  "text": "Ez a szanatórium a Karjantau lábánál fekszik, és hegyi levegőn végzett gyógykezeléseket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.789421,
+                        41.573281
+                  ]
+            },
+            {
+                  "name": "Sari qangli jome’ masjidi",
+                  "text": "A Sari qangli mecset egy helyi iszlám imaház a Karjantau hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        69.712335,
+                        41.537699
+                  ]
+            },
+            {
+                  "name": "Doniyor bin Ozod jome’ masjidi",
+                  "text": "Ez a Karjantau-hegységben található muszlim templom a helyi közösség napi imáit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.770726,
+                        41.556282
+                  ]
+            },
+            {
+                  "name": "Olimjon ota jome’ masjidi",
+                  "text": "Az Olimjon ota mecset egy hagyományos pénteki mecset a Karjantau-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        69.782114,
+                        41.570588
+                  ]
+            },
+            {
+                  "name": "Imomi A’zam jome’ masjidi",
+                  "text": "Ez az Imám A’zamról elnevezett mecset a Karjantau festői hegyei között található.",
+                  "category": "landmark",
+                  "coords": [
+                        69.720671,
+                        41.566488
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Vsekh skorbiashchikh Radoste>>",
+                  "text": "Ezt a keresztény templomot a Karjantau-hegységben a „Minden szomorkodók öröme” Istenszülő-ikonnak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        69.759807,
+                        41.562846
+                  ]
+            },
+            {
+                  "name": "paseka",
+                  "text": "Ez a hegyi méhészet a Karjantau-hegységből származó friss méz helyi piaca.",
+                  "category": "cultural",
+                  "coords": [
+                        69.905429,
+                        41.530015
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Ez a Karjantau-hegység lábánál található kis piac árukat kínál túrázóknak és helyieknek.",
+                  "category": "cultural",
+                  "coords": [
+                        69.856256,
+                        41.542413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Razrushennyi avtobus",
+                  "text": "Epava unui autobuz vechi servește ca reper neobișnuit în această parte a munților Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.796941,
+                        41.513148
+                  ]
+            },
+            {
+                  "name": "Gorbatyi most",
+                  "text": "Podul arcuit caracteristic traversează un pârâu de munte în masivul Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.758029,
+                        41.575838
+                  ]
+            },
+            {
+                  "name": "Kruzhkovaia",
+                  "text": "Această clădire de teatru din munți servește ca centru local pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.808036,
+                        41.488475
+                  ]
+            },
+            {
+                  "name": "Chotqol sanatoriyasi",
+                  "text": "Acest sanatoriu este situat la poalele munților Karjantau și oferă cure de recuperare în aer montan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.789421,
+                        41.573281
+                  ]
+            },
+            {
+                  "name": "Sari qangli jome’ masjidi",
+                  "text": "Moscheea Sari qangli este un lăcaș de cult islamic local în regiunea muntoasă Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.712335,
+                        41.537699
+                  ]
+            },
+            {
+                  "name": "Doniyor bin Ozod jome’ masjidi",
+                  "text": "Acest lăcaș de cult musulman din munții Karjantau deservește comunitatea locală pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.770726,
+                        41.556282
+                  ]
+            },
+            {
+                  "name": "Olimjon ota jome’ masjidi",
+                  "text": "Moscheea Olimjon ota este o moschee tradițională de vineri din zona Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.782114,
+                        41.570588
+                  ]
+            },
+            {
+                  "name": "Imomi A’zam jome’ masjidi",
+                  "text": "Această moschee numită după Imam A’zam este situată în munții pitorești din Karjantau.",
+                  "category": "landmark",
+                  "coords": [
+                        69.720671,
+                        41.566488
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Vsekh skorbiashchikh Radoste>>",
+                  "text": "Această biserică creștină din Karjantau este dedicată icoanei Maicii Domnului „Bucuria tuturor celor necăjiți”.",
+                  "category": "landmark",
+                  "coords": [
+                        69.759807,
+                        41.562846
+                  ]
+            },
+            {
+                  "name": "paseka",
+                  "text": "Această stupină montană este o piață locală pentru miere proaspătă din munții Karjantau.",
+                  "category": "cultural",
+                  "coords": [
+                        69.905429,
+                        41.530015
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Această mică piață de la poalele munților Karjantau oferă mărfuri pentru turiști și localnici.",
+                  "category": "cultural",
+                  "coords": [
+                        69.856256,
+                        41.542413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Razrushennyi avtobus",
+                  "text": "The wreckage of an old bus serves as an unusual landmark in this part of the Karjantau range.",
+                  "category": "landmark",
+                  "coords": [
+                        69.796941,
+                        41.513148
+                  ]
+            },
+            {
+                  "name": "Gorbaty Bridge",
+                  "text": "The characteristically arched bridge spans a mountain stream in the Karjantau massif.",
+                  "category": "landmark",
+                  "coords": [
+                        69.758029,
+                        41.575838
+                  ]
+            },
+            {
+                  "name": "Kruzhkovaia",
+                  "text": "This mountain theatre building serves as a local hub for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        69.808036,
+                        41.488475
+                  ]
+            },
+            {
+                  "name": "Chotqol sanatoriyasi",
+                  "text": "This sanatorium is located in the Karjantau foothills and offers health treatments in mountain air.",
+                  "category": "landmark",
+                  "coords": [
+                        69.789421,
+                        41.573281
+                  ]
+            },
+            {
+                  "name": "Sari qangli jome’ masjidi",
+                  "text": "The Sari qangli mosque is a local Islamic place of worship in the Karjantau mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.712335,
+                        41.537699
+                  ]
+            },
+            {
+                  "name": "Doniyor bin Ozod jome’ masjidi",
+                  "text": "This Muslim house of worship in the Karjantau mountains serves the local community for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.770726,
+                        41.556282
+                  ]
+            },
+            {
+                  "name": "Olimjon ota jome’ masjidi",
+                  "text": "The Olimjon ota mosque is a traditional Friday mosque in the Karjantau area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.782114,
+                        41.570588
+                  ]
+            },
+            {
+                  "name": "Imomi A’zam jome’ masjidi",
+                  "text": "This mosque named after Imam A’zam is located in the scenic Karjantau mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        69.720671,
+                        41.566488
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Vsekh skorbiashchikh Radoste>>",
+                  "text": "This Christian church in the Karjantau is dedicated to the 'Joy of All Who Sorrow' icon of the Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        69.759807,
+                        41.562846
+                  ]
+            },
+            {
+                  "name": "apiary",
+                  "text": "This mountain apiary is a local market for fresh honey from the Karjantau mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        69.905429,
+                        41.530015
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "This small market at the foot of the Karjantau mountains provides goods for hikers and locals.",
+                  "category": "cultural",
+                  "coords": [
+                        69.856256,
+                        41.542413
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-TK",
     coords: [69.8, 41.5],
@@ -571,7 +1093,52 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "ugam-range-relief-v2",
+    id: "ugam-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kara-Bulak",
+                  "text": "Eine natürliche Quelle im Ugam-Gebirge, die frisches Bergwasser und einen malerischen Rastplatz für Wanderer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        70.153212,
+                        41.746804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kara-Bulak",
+                  "text": "Az Ugam-hegységben található természetes forrás friss hegyi vizet és festői pihenőhelyet kínál a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        70.153212,
+                        41.746804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kara-Bulak",
+                  "text": "Un izvor natural din Munții Ugam care oferă apă proaspătă de munte și un loc de odihnă pitoresc pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        70.153212,
+                        41.746804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kara-Bulak",
+                  "text": "A natural spring in the Ugam Range providing fresh mountain water and a scenic resting spot for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        70.153212,
+                        41.746804
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-TK",
     coords: [70.1, 41.8],
@@ -635,7 +1202,52 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pskem-range-relief-v2",
+    id: "pskem-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sik'yrshylar alk'aby",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen dramatischen Blick über die schroffen Gipfel und tiefen Schluchten des Pskem-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        70.403077,
+                        42.116761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sik'yrshylar alk'aby",
+                  "text": "Erről a festői kilátópontról drámai panoráma nyílik a Pszkem-hegység zord csúcsaira és mély kanyonjaira.",
+                  "category": "natural",
+                  "coords": [
+                        70.403077,
+                        42.116761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sik'yrshylar alk'aby",
+                  "text": "Acest punct de belvedere pitoresc oferă o priveliște dramatică asupra vârfurilor accidentate și canioanelor adânci ale munților Pskem.",
+                  "category": "natural",
+                  "coords": [
+                        70.403077,
+                        42.116761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valley of the Witches",
+                  "text": "This scenic viewpoint offers a dramatic vista over the rugged peaks and deep canyons of the Pskem mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        70.403077,
+                        42.116761
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-TK",
     coords: [70.4, 42.1],
@@ -763,7 +1375,52 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "kugitangtau-range-relief-v2",
+    id: "kugitangtau-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "Diese Freitagsmoschee bietet der muslimischen Gemeinde im zerklüfteten Relief des Kugitangtau-Gebirges einen zentralen Ort der Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        66.810292,
+                        37.772994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "Ez a pénteki mecset a Kugitangtau-hegység zord domborzatán élő muszlim közösség központi imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        66.810292,
+                        37.772994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "Această moschee de vineri oferă comunității musulmane din relieful accidentat al munților Kugitangtau un loc central de devoțiune.",
+                  "category": "landmark",
+                  "coords": [
+                        66.810292,
+                        37.772994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "This Friday mosque offers the Muslim community in the rugged relief of the Kugitangtau mountains a central place of devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        66.810292,
+                        37.772994
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-SU",
     coords: [66.8, 37.8],
@@ -827,7 +1484,52 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "zarafshan-range-relief-v2",
+    id: "zarafshan-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na gory, stoiashchee mesto",
+                  "text": "Ein Haltepunkt am Wegesrand, der eine klare Sicht auf die gezackten Grate der Serafschan-Kette bietet.",
+                  "category": "natural",
+                  "coords": [
+                        67.805927,
+                        39.199132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na gory, stoiashchee mesto",
+                  "text": "Útszéli megállóhely, ahonnan tiszta kilátás nyílik a Zeravsán-hegység csipkés gerinceire.",
+                  "category": "natural",
+                  "coords": [
+                        67.805927,
+                        39.199132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na gory, stoiashchee mesto",
+                  "text": "Un popas la marginea drumului care oferă o vedere clară asupra crestelor zimțate ale lanțului Zarafshan.",
+                  "category": "natural",
+                  "coords": [
+                        67.805927,
+                        39.199132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vid na gory, stoiashchee mesto",
+                  "text": "A roadside stopping point providing a clear view of the jagged ridges of the Zarafshan Range.",
+                  "category": "natural",
+                  "coords": [
+                        67.805927,
+                        39.199132
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-SA",
     coords: [67.8, 39.2],
@@ -955,7 +1657,1348 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "chirchiq-valley-relief-v2",
+    id: "chirchiq-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shortepe",
+                  "text": "Die archäologischen Überreste einer alten befestigten Siedlung, die während der militärischen Eroberung Taschkents im 19. Jahrhundert eine Rolle spielte.",
+                  "category": "historical",
+                  "coords": [
+                        69.379478,
+                        41.339414
+                  ]
+            },
+            {
+                  "name": "Yangi O'zbekiston bog'i",
+                  "text": "Ein riesiger moderner Park mit einem massiven Unabhängigkeitsdenkmal und üppigen Gärten, der zum 30. Jahrestag Usbekistans angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        69.438451,
+                        41.328657
+                  ]
+            },
+            {
+                  "name": "Khvan Mag Gym",
+                  "text": "Ein spezialisiertes Museum im Tschirtschik-Tal, das lokale Geschichte und kulturelle Exponate präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        69.434235,
+                        41.255576
+                  ]
+            },
+            {
+                  "name": "Khumaiun",
+                  "text": "Ein Denkmal, das dem mythischen Humo-Vogel gewidmet ist, einem nationalen Symbol für Glück und Freiheit.",
+                  "category": "historical",
+                  "coords": [
+                        69.387584,
+                        41.344133
+                  ]
+            },
+            {
+                  "name": "Mustaqillik monumenti",
+                  "text": "Dieses Denkmal im Tschirtschik-Tal erinnert an die Erlangung der Unabhängigkeit Usbekistans.",
+                  "category": "historical",
+                  "coords": [
+                        69.438237,
+                        41.327129
+                  ]
+            },
+            {
+                  "name": "To'qaytepa",
+                  "text": "Ein antiker Siedlungshügel, der die frühe städtische Kultur in der Oase von Taschkent repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        69.419314,
+                        41.330802
+                  ]
+            },
+            {
+                  "name": "Karabashtepe",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten einer antiken Festung aus Lehmziegeln.",
+                  "category": "historical",
+                  "coords": [
+                        69.415506,
+                        41.306074
+                  ]
+            },
+            {
+                  "name": "Olen'",
+                  "text": "Eine Skulptur einer Gazelle, die die lokale Tierwelt der umliegenden Steppenlandschaft darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        69.361097,
+                        41.245772
+                  ]
+            },
+            {
+                  "name": "Pogimshim voinam na Velikoi Otechestvennoi voine",
+                  "text": "Ein Denkmal für die gefallenen Soldaten des Zweiten Weltkriegs mit einer ewigen Flamme.",
+                  "category": "historical",
+                  "coords": [
+                        69.486158,
+                        41.32303
+                  ]
+            },
+            {
+                  "name": "IV-VII",
+                  "text": "Ein historischer Siedlungshügel, an dem Keramikfragmente aus der Zeit der Seidenstraße entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        69.370124,
+                        41.269482
+                  ]
+            },
+            {
+                  "name": "Taukattepe",
+                  "text": "Ein archäologischer Fundplatz im Flusstal, der Spuren mittelalterlicher Befestigungen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        69.388785,
+                        41.302129
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi teatr satiry Uzbekistana",
+                  "text": "Ein Theater, das auf Komödien und soziale Satire spezialisiert ist und lokale Schauspielkunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.388276,
+                        41.352863
+                  ]
+            },
+            {
+                  "name": "Smartum",
+                  "text": "Ein modernes Kunstzentrum für kreative Bildung und zeitgenössische lokale Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354097,
+                        41.295626
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freiluft-Amphitheater für Konzerte und kulturelle Veranstaltungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        69.439402,
+                        41.329374
+                  ]
+            },
+            {
+                  "name": "Vodnik rynok",
+                  "text": "Ein lokaler Marktplatz im Vodnik-Viertel, bekannt für frischen Fisch und regionale Lebensmittel.",
+                  "category": "cultural",
+                  "coords": [
+                        69.375473,
+                        41.254822
+                  ]
+            },
+            {
+                  "name": "Shirin Bozori",
+                  "text": "Ein lebhafter Nachbarschaftsmarkt, der täglich frisches Obst, Gemüse und Brot anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.384592,
+                        41.35459
+                  ]
+            },
+            {
+                  "name": "Navro'z bozori",
+                  "text": "Ein traditioneller Basar, benannt nach dem Frühlingsfest, spezialisiert auf lokale Gewürze und Textilien.",
+                  "category": "cultural",
+                  "coords": [
+                        69.386738,
+                        41.354493
+                  ]
+            },
+            {
+                  "name": "Bazarchik Rokhat 6:00-20:00",
+                  "text": "Ein kleiner Markt, der für seine frischen regionalen Snacks und hausgemachten Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.364221,
+                        41.264875
+                  ]
+            },
+            {
+                  "name": "bazarchik",
+                  "text": "Ein gemütlicher lokaler Markt für den täglichen Bedarf der Bewohner im Tschirtschik-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        69.372708,
+                        41.249458
+                  ]
+            },
+            {
+                  "name": "Yangiobod bozori",
+                  "text": "Ein riesiger und berühmter Flohmarkt, auf dem man von Antiquitäten bis zu Ersatzteilen alles finden kann.",
+                  "category": "cultural",
+                  "coords": [
+                        69.358758,
+                        41.29134
+                  ]
+            },
+            {
+                  "name": "Avayhon shaxobchasi",
+                  "text": "Eine lokale Marktstation, die als wichtiger Verteilungspunkt für frische landwirtschaftliche Erzeugnisse dient.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354248,
+                        41.320408
+                  ]
+            },
+            {
+                  "name": "Uzumfermer",
+                  "text": "Ein Agrotourismus-Ziel mit Weinbergen, das Weinverkostungen inmitten der Natur anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.436547,
+                        41.355301
+                  ]
+            },
+            {
+                  "name": "Olimpiya olovi 🔥",
+                  "text": "Ein Denkmal mit einer olympischen Fackel, das den sportlichen Leistungen der Region gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.426478,
+                        41.324117
+                  ]
+            },
+            {
+                  "name": "Do'rmon jome' masjidi",
+                  "text": "Eine muslimische Gebetsstätte im Durmen-Viertel mit traditioneller lokaler Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        69.419334,
+                        41.364837
+                  ]
+            },
+            {
+                  "name": "Bordonko‘l jome’ masjidi",
+                  "text": "Die zentrale Freitagsmoschee von Bordonko‘l, erkennbar an ihrer markanten Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.411103,
+                        41.252919
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine lokale Jome-Moschee, die als wichtiges religiöses Zentrum für die Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.359521,
+                        41.243975
+                  ]
+            },
+            {
+                  "name": "HOLID IBN VALID jom`e masjidi",
+                  "text": "Eine große Kathedralmoschee, benannt nach dem berühmten Feldherrn Khalid ibn Walid.",
+                  "category": "landmark",
+                  "coords": [
+                        69.355439,
+                        41.269392
+                  ]
+            },
+            {
+                  "name": "Man-Min",
+                  "text": "Ein christliches Gebetshaus, das die religiöse Vielfalt im Tschirtschik-Tal widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.437246,
+                        41.251737
+                  ]
+            },
+            {
+                  "name": "Abdurahmon ibn Avf jome’ masjidi",
+                  "text": "Eine Jome-Moschee mit einem eleganten Minarett, benannt nach einem Gefährten des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        69.403245,
+                        41.305185
+                  ]
+            },
+            {
+                  "name": "Dorul Islom jome' masjidi",
+                  "text": "Ein islamisches Zentrum, das Bildungsprogramme und tägliche Gebete für die Gläubigen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.37979,
+                        41.279389
+                  ]
+            },
+            {
+                  "name": "Go‘zal jome’ masjidi",
+                  "text": "Eine kunstvoll gestaltete Moschee im Go‘zal-Viertel, ein Ort der Ruhe und des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364689,
+                        41.281937
+                  ]
+            },
+            {
+                  "name": "Abu Ali ibn Tolib",
+                  "text": "Eine dem Kalifen Abu Ali ibn Tolib gewidmete Moschee mit traditionellen blauen Kacheln.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364001,
+                        41.296772
+                  ]
+            },
+            {
+                  "name": "Olitin tepa",
+                  "text": "Die Olitin-tepa-Moschee befindet sich auf einem historischen Hügel und bietet einen weiten Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        69.358133,
+                        41.323866
+                  ]
+            },
+            {
+                  "name": "Leesang park",
+                  "text": "Ein Familien-Wasserpark mit mehreren Schwimmbecken und Wasserrutschen zur Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        69.367415,
+                        41.225928
+                  ]
+            },
+            {
+                  "name": "Mokhito i povaliatstsa",
+                  "text": "Ein Freizeitbad mit Entspannungsbereichen und tropischen Getränken an der Poolbar.",
+                  "category": "recreational",
+                  "coords": [
+                        69.407921,
+                        41.326205
+                  ]
+            },
+            {
+                  "name": "Kuioshcha nuri",
+                  "text": "Ein kleiner Freizeitpark für Kinder mit Karussells und Spielbereichen im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        69.378154,
+                        41.256422
+                  ]
+            },
+            {
+                  "name": "Grace garden",
+                  "text": "Ein landschaftlich gestalteter Wasserpark mit Gärten, ideal für einen erholsamen Tag am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        69.379259,
+                        41.2346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shortepe",
+                  "text": "Egy ősi erődített település régészeti maradványai, amely szerepet játszott Taskent 19. századi katonai meghódítása során.",
+                  "category": "historical",
+                  "coords": [
+                        69.379478,
+                        41.339414
+                  ]
+            },
+            {
+                  "name": "Yangi O'zbekiston bog'i",
+                  "text": "Hatalmas, modern park egy monumentális függetlenségi emlékművel és buja kertekkel, amelyet Üzbegisztán 30. évfordulójának tiszteletére hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        69.438451,
+                        41.328657
+                  ]
+            },
+            {
+                  "name": "Khvan Mag Gym",
+                  "text": "A Csircsik-völgyben található szakmúzeum, amely helyi történelmi és kulturális kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        69.434235,
+                        41.255576
+                  ]
+            },
+            {
+                  "name": "Khumaiun",
+                  "text": "A mitikus Humo-madárnak szentelt emlékmű, amely a boldogság és a szabadság nemzeti szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        69.387584,
+                        41.344133
+                  ]
+            },
+            {
+                  "name": "Mustaqillik monumenti",
+                  "text": "Ez a Csircsik-völgyben található emlékmű Üzbegisztán függetlenségének kivívására emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        69.438237,
+                        41.327129
+                  ]
+            },
+            {
+                  "name": "To'qaytepa",
+                  "text": "Egy ősi településhalom, amely a Taskent-oázis korai városi kultúráját képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        69.419314,
+                        41.330802
+                  ]
+            },
+            {
+                  "name": "Karabashtepe",
+                  "text": "Régészeti lelőhely, amely egy ősi, agyagtéglából épült erőd maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        69.415506,
+                        41.306074
+                  ]
+            },
+            {
+                  "name": "Olen'",
+                  "text": "Egy gazellát ábrázoló szobor, amely a környező sztyeppei táj helyi élővilágát jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        69.361097,
+                        41.245772
+                  ]
+            },
+            {
+                  "name": "Pogimshim voinam na Velikoi Otechestvennoi voine",
+                  "text": "A második világháború elesett katonáinak emelt emlékmű örökmécsessel.",
+                  "category": "historical",
+                  "coords": [
+                        69.486158,
+                        41.32303
+                  ]
+            },
+            {
+                  "name": "IV-VII",
+                  "text": "Történelmi településhalom, ahol a Selyemút idejéből származó kerámiatöredékeket fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        69.370124,
+                        41.269482
+                  ]
+            },
+            {
+                  "name": "Taukattepe",
+                  "text": "A folyóvölgyben található régészeti lelőhely, amely középkori erődítmények nyomait mutatja.",
+                  "category": "historical",
+                  "coords": [
+                        69.388785,
+                        41.302129
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi teatr satiry Uzbekistana",
+                  "text": "Vígjátékokra és társadalmi szatírára szakosodott színház, amely a helyi színjátszást mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        69.388276,
+                        41.352863
+                  ]
+            },
+            {
+                  "name": "Smartum",
+                  "text": "Modern művészeti központ, amely kreatív oktatásnak és kortárs helyi kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354097,
+                        41.295626
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Szabadtéri amfiteátrum koncertek és kulturális események megrendezésére.",
+                  "category": "cultural",
+                  "coords": [
+                        69.439402,
+                        41.329374
+                  ]
+            },
+            {
+                  "name": "Vodnik rynok",
+                  "text": "Helyi piac a Vodnik negyedben, amely friss halairól és regionális élelmiszereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.375473,
+                        41.254822
+                  ]
+            },
+            {
+                  "name": "Shirin Bozori",
+                  "text": "Hangulatos környékbeli piac, ahol naponta friss gyümölcsöt, zöldséget és kenyeret árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.384592,
+                        41.35459
+                  ]
+            },
+            {
+                  "name": "Navro'z bozori",
+                  "text": "A tavaszi ünnepről elnevezett hagyományos bazár, amely helyi fűszerekre és textilekre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.386738,
+                        41.354493
+                  ]
+            },
+            {
+                  "name": "Bazarchik Rokhat 6:00-20:00",
+                  "text": "Kisméretű piac, amely friss regionális harapnivalóiról és házi készítésű áruiról nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        69.364221,
+                        41.264875
+                  ]
+            },
+            {
+                  "name": "bazarchik",
+                  "text": "Hangulatos helyi piac a Csircsik-völgy lakóinak napi szükségleteihez.",
+                  "category": "cultural",
+                  "coords": [
+                        69.372708,
+                        41.249458
+                  ]
+            },
+            {
+                  "name": "Yangiobod bozori",
+                  "text": "Hatalmas és híres bolhapiac, ahol az antikvitásoktól a pótalkatrészekig minden megtalálható.",
+                  "category": "cultural",
+                  "coords": [
+                        69.358758,
+                        41.29134
+                  ]
+            },
+            {
+                  "name": "Avayhon shaxobchasi",
+                  "text": "Helyi piaci állomás, amely a friss mezőgazdasági termékek fontos elosztópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354248,
+                        41.320408
+                  ]
+            },
+            {
+                  "name": "Uzumfermer",
+                  "text": "Szőlőültetvényekkel rendelkező agroturisztikai célpont, amely borkóstolást kínál a természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        69.436547,
+                        41.355301
+                  ]
+            },
+            {
+                  "name": "Olimpiya olovi 🔥",
+                  "text": "Olimpiai lángot formázó emlékmű, amelyet a régió sporthírességeinek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.426478,
+                        41.324117
+                  ]
+            },
+            {
+                  "name": "Do'rmon jome' masjidi",
+                  "text": "Muszlim imaház a Durmen negyedben, hagyományos helyi építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.419334,
+                        41.364837
+                  ]
+            },
+            {
+                  "name": "Bordonko‘l jome’ masjidi",
+                  "text": "Bordonko‘l központi pénteki mecsetje, amely jellegzetes kupolájáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.411103,
+                        41.252919
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Helyi Jome-mecset, amely a közösség fontos vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.359521,
+                        41.243975
+                  ]
+            },
+            {
+                  "name": "HOLID IBN VALID jom`e masjidi",
+                  "text": "Hatalmas székesegyházi mecset, amelyet a híres hadvezérről, Khalid ibn Walidról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.355439,
+                        41.269392
+                  ]
+            },
+            {
+                  "name": "Man-Min",
+                  "text": "Keresztény imaház, amely a Csircsik-völgy vallási sokszínűségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.437246,
+                        41.251737
+                  ]
+            },
+            {
+                  "name": "Abdurahmon ibn Avf jome’ masjidi",
+                  "text": "Elegáns minarettel rendelkező Jome-mecset, amelyet a Próféta egyik társáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.403245,
+                        41.305185
+                  ]
+            },
+            {
+                  "name": "Dorul Islom jome' masjidi",
+                  "text": "Iszlám központ, amely oktatási programokat és napi imákat kínál a hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.37979,
+                        41.279389
+                  ]
+            },
+            {
+                  "name": "Go‘zal jome’ masjidi",
+                  "text": "Művészien kialakított mecset a Go‘zal negyedben, a nyugalom és az ima helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364689,
+                        41.281937
+                  ]
+            },
+            {
+                  "name": "Abu Ali ibn Tolib",
+                  "text": "Abu Ali ibn Tolib kalifának szentelt mecset, hagyományos kék csempékkel díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364001,
+                        41.296772
+                  ]
+            },
+            {
+                  "name": "Olitin tepa",
+                  "text": "Az Olitin-tepa mecset egy történelmi dombon található, széles kilátást nyújtva a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        69.358133,
+                        41.323866
+                  ]
+            },
+            {
+                  "name": "Leesang park",
+                  "text": "Családi vízi park több medencével és csúszdával a felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        69.367415,
+                        41.225928
+                  ]
+            },
+            {
+                  "name": "Mokhito i povaliatstsa",
+                  "text": "Szabadidős vízi park pihenőhelyekkel és trópusi italokkal a medenceparti bárban.",
+                  "category": "recreational",
+                  "coords": [
+                        69.407921,
+                        41.326205
+                  ]
+            },
+            {
+                  "name": "Kuioshcha nuri",
+                  "text": "Kisméretű vidámpark gyermekeknek körhintákkal és szabadtéri játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        69.378154,
+                        41.256422
+                  ]
+            },
+            {
+                  "name": "Grace garden",
+                  "text": "Parkosított vízi park kertekkel, ideális egy pihentető naphoz a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        69.379259,
+                        41.2346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shortepe",
+                  "text": "Rămășițele arheologice ale unei vechi așezări fortificate care a jucat un rol în timpul cuceririi militare a Tașkentului în secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        69.379478,
+                        41.339414
+                  ]
+            },
+            {
+                  "name": "Yangi O'zbekiston bog'i",
+                  "text": "Un parc modern vast, care cuprinde un monument masiv al independenței și grădini luxuriante, create pentru a celebra a 30-a aniversare a Uzbekistanului.",
+                  "category": "park",
+                  "coords": [
+                        69.438451,
+                        41.328657
+                  ]
+            },
+            {
+                  "name": "Khvan Mag Gym",
+                  "text": "Un muzeu specializat din Valea Chirchiq, care prezintă istoria locală și exponate culturale.",
+                  "category": "museum",
+                  "coords": [
+                        69.434235,
+                        41.255576
+                  ]
+            },
+            {
+                  "name": "Khumaiun",
+                  "text": "Un monument dedicat pasării mitice Humo, un simbol național al fericirii și libertății.",
+                  "category": "historical",
+                  "coords": [
+                        69.387584,
+                        41.344133
+                  ]
+            },
+            {
+                  "name": "Mustaqillik monumenti",
+                  "text": "Acest monument din Valea Chirchiq comemorează obținerea independenței Uzbekistanului.",
+                  "category": "historical",
+                  "coords": [
+                        69.438237,
+                        41.327129
+                  ]
+            },
+            {
+                  "name": "To'qaytepa",
+                  "text": "Un dâmb de așezare antică ce reprezintă cultura urbană timpurie din oaza Tașkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.419314,
+                        41.330802
+                  ]
+            },
+            {
+                  "name": "Karabashtepe",
+                  "text": "Un sit arheologic care adăpostește rămășițele unei vechi cetăți din cărămizi de lut.",
+                  "category": "historical",
+                  "coords": [
+                        69.415506,
+                        41.306074
+                  ]
+            },
+            {
+                  "name": "Olen'",
+                  "text": "O sculptură a unei gazele, reprezentând fauna locală a peisajului de stepă înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        69.361097,
+                        41.245772
+                  ]
+            },
+            {
+                  "name": "Pogimshim voinam na Velikoi Otechestvennoi voine",
+                  "text": "Un monument dedicat soldaților căzuți în cel de-al Doilea Război Mondial, prevăzut cu o flacără eternă.",
+                  "category": "historical",
+                  "coords": [
+                        69.486158,
+                        41.32303
+                  ]
+            },
+            {
+                  "name": "IV-VII",
+                  "text": "Un dâmb de așezare istorică unde au fost descoperite fragmente de ceramică din epoca Drumului Mătăsii.",
+                  "category": "historical",
+                  "coords": [
+                        69.370124,
+                        41.269482
+                  ]
+            },
+            {
+                  "name": "Taukattepe",
+                  "text": "Un sit arheologic din valea râului care prezintă urme ale unor fortificații medievale.",
+                  "category": "historical",
+                  "coords": [
+                        69.388785,
+                        41.302129
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi teatr satiry Uzbekistana",
+                  "text": "Un teatru specializat în comedie și satiră socială, care prezintă arta dramatică locală.",
+                  "category": "cultural",
+                  "coords": [
+                        69.388276,
+                        41.352863
+                  ]
+            },
+            {
+                  "name": "Smartum",
+                  "text": "Un centru de artă modern pentru educație creativă și expoziții locale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354097,
+                        41.295626
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru în aer liber utilizat pentru concerte și evenimente culturale sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        69.439402,
+                        41.329374
+                  ]
+            },
+            {
+                  "name": "Vodnik rynok",
+                  "text": "O piață locală în cartierul Vodnik, cunoscută pentru pește proaspăt și alimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.375473,
+                        41.254822
+                  ]
+            },
+            {
+                  "name": "Shirin Bozori",
+                  "text": "O piață de cartier plină de viață care oferă zilnic fructe proaspete, legume și pâine.",
+                  "category": "cultural",
+                  "coords": [
+                        69.384592,
+                        41.35459
+                  ]
+            },
+            {
+                  "name": "Navro'z bozori",
+                  "text": "Un bazar tradițional numit după festivalul primăverii, specializat în condimente și textile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.386738,
+                        41.354493
+                  ]
+            },
+            {
+                  "name": "Bazarchik Rokhat 6:00-20:00",
+                  "text": "O piață mică cunoscută pentru gustările sale regionale proaspete și produsele de casă.",
+                  "category": "cultural",
+                  "coords": [
+                        69.364221,
+                        41.264875
+                  ]
+            },
+            {
+                  "name": "bazarchik",
+                  "text": "O piață locală primitoare pentru nevoile zilnice ale locuitorilor din Valea Chirchiq.",
+                  "category": "cultural",
+                  "coords": [
+                        69.372708,
+                        41.249458
+                  ]
+            },
+            {
+                  "name": "Yangiobod bozori",
+                  "text": "O piață de vechituri uriașă și faimoasă, unde poți găsi orice, de la antichități la piese de schimb.",
+                  "category": "cultural",
+                  "coords": [
+                        69.358758,
+                        41.29134
+                  ]
+            },
+            {
+                  "name": "Avayhon shaxobchasi",
+                  "text": "O stație de piață locală care servește ca punct important de distribuție pentru produse agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354248,
+                        41.320408
+                  ]
+            },
+            {
+                  "name": "Uzumfermer",
+                  "text": "O destinație de agroturism cu podgorii, care oferă degustări de vin în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.436547,
+                        41.355301
+                  ]
+            },
+            {
+                  "name": "Olimpiya olovi 🔥",
+                  "text": "Un monument cu o torță olimpică, dedicat realizărilor sportive ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.426478,
+                        41.324117
+                  ]
+            },
+            {
+                  "name": "Do'rmon jome' masjidi",
+                  "text": "Un lăcaș de cult musulman în cartierul Durmen, cu arhitectură locală tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        69.419334,
+                        41.364837
+                  ]
+            },
+            {
+                  "name": "Bordonko‘l jome’ masjidi",
+                  "text": "Moscheea centrală de vineri din Bordonko‘l, recunoscută după cupola sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        69.411103,
+                        41.252919
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee Jome locală care servește ca centru religios important pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.359521,
+                        41.243975
+                  ]
+            },
+            {
+                  "name": "HOLID IBN VALID jom`e masjidi",
+                  "text": "O mare moschee catedrală numită după celebrul general Khalid ibn Walid.",
+                  "category": "landmark",
+                  "coords": [
+                        69.355439,
+                        41.269392
+                  ]
+            },
+            {
+                  "name": "Man-Min",
+                  "text": "O casă de rugăciune creștină care reflectă diversitatea religioasă din Valea Chirchiq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.437246,
+                        41.251737
+                  ]
+            },
+            {
+                  "name": "Abdurahmon ibn Avf jome’ masjidi",
+                  "text": "O moschee Jome cu un minaret elegant, numită după un însoțitor al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.403245,
+                        41.305185
+                  ]
+            },
+            {
+                  "name": "Dorul Islom jome' masjidi",
+                  "text": "Un centru islamic care oferă programe educaționale și rugăciuni zilnice pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        69.37979,
+                        41.279389
+                  ]
+            },
+            {
+                  "name": "Go‘zal jome’ masjidi",
+                  "text": "O moschee frumos decorată în cartierul Go‘zal, un loc de liniște și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364689,
+                        41.281937
+                  ]
+            },
+            {
+                  "name": "Abu Ali ibn Tolib",
+                  "text": "O moschee dedicată califului Abu Ali ibn Tolib, decorată cu plăci ceramice albastre tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364001,
+                        41.296772
+                  ]
+            },
+            {
+                  "name": "Olitin tepa",
+                  "text": "Moscheea Olitin-tepa este situată pe un deal istoric, oferind o panoramă largă asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        69.358133,
+                        41.323866
+                  ]
+            },
+            {
+                  "name": "Leesang park",
+                  "text": "Un parc acvatic pentru familii, cu mai multe piscine și tobogane pentru răcorire.",
+                  "category": "recreational",
+                  "coords": [
+                        69.367415,
+                        41.225928
+                  ]
+            },
+            {
+                  "name": "Mokhito i povaliatstsa",
+                  "text": "Un parc acvatic de agrement cu zone de relaxare și băuturi tropicale la barul de lângă piscină.",
+                  "category": "recreational",
+                  "coords": [
+                        69.407921,
+                        41.326205
+                  ]
+            },
+            {
+                  "name": "Kuioshcha nuri",
+                  "text": "Un mic parc de distracții pentru copii, cu carusele și zone de joacă în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        69.378154,
+                        41.256422
+                  ]
+            },
+            {
+                  "name": "Grace garden",
+                  "text": "Un parc acvatic amenajat cu grădini, ideal pentru o zi relaxantă lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        69.379259,
+                        41.2346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shortepe",
+                  "text": "The archaeological remains of an ancient fortified settlement that played a role during the 19th-century military conquest of Tashkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.379478,
+                        41.339414
+                  ]
+            },
+            {
+                  "name": "\"Yangi Uzbekistan\" park",
+                  "text": "A vast modern park featuring a massive independence monument and lush gardens created to celebrate Uzbekistan's 30th anniversary.",
+                  "category": "park",
+                  "coords": [
+                        69.438451,
+                        41.328657
+                  ]
+            },
+            {
+                  "name": "Khvan Mag Gym",
+                  "text": "A specialized museum in the Chirchiq Valley showcasing local history and cultural exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        69.434235,
+                        41.255576
+                  ]
+            },
+            {
+                  "name": "Xumoyun",
+                  "text": "A monument dedicated to the mythical Humo bird, a national symbol of happiness and freedom.",
+                  "category": "historical",
+                  "coords": [
+                        69.387584,
+                        41.344133
+                  ]
+            },
+            {
+                  "name": "Monument of Independence",
+                  "text": "This monument in the Chirchiq Valley commemorates the achievement of Uzbekistan's independence.",
+                  "category": "historical",
+                  "coords": [
+                        69.438237,
+                        41.327129
+                  ]
+            },
+            {
+                  "name": "Tukaytepa",
+                  "text": "An ancient settlement mound representing the early urban culture in the Tashkent oasis.",
+                  "category": "historical",
+                  "coords": [
+                        69.419314,
+                        41.330802
+                  ]
+            },
+            {
+                  "name": "Karabashtepa",
+                  "text": "An archaeological site containing the remains of an ancient mud-brick fortress.",
+                  "category": "historical",
+                  "coords": [
+                        69.415506,
+                        41.306074
+                  ]
+            },
+            {
+                  "name": "Kiyik",
+                  "text": "A sculpture of a gazelle, representing the local wildlife of the surrounding steppe landscape.",
+                  "category": "historical",
+                  "coords": [
+                        69.361097,
+                        41.245772
+                  ]
+            },
+            {
+                  "name": "Pogimshim voinam na Velikoi Otechestvennoi voine",
+                  "text": "A memorial to the fallen soldiers of World War II, featuring an eternal flame.",
+                  "category": "historical",
+                  "coords": [
+                        69.486158,
+                        41.32303
+                  ]
+            },
+            {
+                  "name": "Tarnaushtepa",
+                  "text": "A historical settlement mound where ceramic fragments from the Silk Road era were discovered.",
+                  "category": "historical",
+                  "coords": [
+                        69.370124,
+                        41.269482
+                  ]
+            },
+            {
+                  "name": "Taukattepe",
+                  "text": "An archaeological site in the river valley showing traces of medieval fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        69.388785,
+                        41.302129
+                  ]
+            },
+            {
+                  "name": "State Satire Theater of Uzbekistan",
+                  "text": "A theater specialized in comedy and social satire, showcasing local performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        69.388276,
+                        41.352863
+                  ]
+            },
+            {
+                  "name": "Smartum",
+                  "text": "A modern arts centre hosting creative education and contemporary local exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354097,
+                        41.295626
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "An open-air amphitheatre used for concerts and cultural events under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        69.439402,
+                        41.329374
+                  ]
+            },
+            {
+                  "name": "Vodnik rynok",
+                  "text": "A local marketplace in the Vodnik district, known for fresh fish and regional groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        69.375473,
+                        41.254822
+                  ]
+            },
+            {
+                  "name": "Shirin Bozori",
+                  "text": "A lively neighborhood market offering fresh fruit, vegetables, and bread daily.",
+                  "category": "cultural",
+                  "coords": [
+                        69.384592,
+                        41.35459
+                  ]
+            },
+            {
+                  "name": "Navruz bazar",
+                  "text": "A traditional bazaar named after the spring festival, specializing in local spices and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        69.386738,
+                        41.354493
+                  ]
+            },
+            {
+                  "name": "Bazarchik Rokhat 6:00-20:00",
+                  "text": "A small market known for its fresh regional snacks and homemade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.364221,
+                        41.264875
+                  ]
+            },
+            {
+                  "name": "bazarchik",
+                  "text": "A cozy local market for the daily needs of the residents in the Chirchiq Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        69.372708,
+                        41.249458
+                  ]
+            },
+            {
+                  "name": "Yangiobod bozori",
+                  "text": "A massive and famous flea market where you can find everything from antiques to spare parts.",
+                  "category": "cultural",
+                  "coords": [
+                        69.358758,
+                        41.29134
+                  ]
+            },
+            {
+                  "name": "Avayhon shaxobchasi",
+                  "text": "A local market station serving as an important distribution point for fresh agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        69.354248,
+                        41.320408
+                  ]
+            },
+            {
+                  "name": "Uzumfermer",
+                  "text": "An agrotourism destination with vineyards offering wine tastings amidst nature.",
+                  "category": "landmark",
+                  "coords": [
+                        69.436547,
+                        41.355301
+                  ]
+            },
+            {
+                  "name": "Olympic flame 🔥",
+                  "text": "A monument featuring an olympic torch, dedicated to the region's sporting achievements.",
+                  "category": "landmark",
+                  "coords": [
+                        69.426478,
+                        41.324117
+                  ]
+            },
+            {
+                  "name": "Durmen",
+                  "text": "A Muslim place of worship in the Durmen district with traditional local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.419334,
+                        41.364837
+                  ]
+            },
+            {
+                  "name": "Bordonko‘l jome’ masjidi",
+                  "text": "The central Friday mosque of Bordonko‘l, recognizable by its prominent dome.",
+                  "category": "landmark",
+                  "coords": [
+                        69.411103,
+                        41.252919
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A local Jome mosque serving as an important religious center for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.359521,
+                        41.243975
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque Khalid ibn Walid",
+                  "text": "A large cathedral mosque named after the famous military leader Khalid ibn Walid.",
+                  "category": "landmark",
+                  "coords": [
+                        69.355439,
+                        41.269392
+                  ]
+            },
+            {
+                  "name": "Man-Min",
+                  "text": "A Christian house of prayer reflecting the religious diversity in the Chirchiq Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        69.437246,
+                        41.251737
+                  ]
+            },
+            {
+                  "name": "Abdurahmon ibn Avf jome’ masjidi",
+                  "text": "A Jome mosque with an elegant minaret, named after a companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.403245,
+                        41.305185
+                  ]
+            },
+            {
+                  "name": "Darul Islam",
+                  "text": "An Islamic center offering educational programs and daily prayers for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        69.37979,
+                        41.279389
+                  ]
+            },
+            {
+                  "name": "Go‘zal jome’ masjidi",
+                  "text": "An ornately designed mosque in the Go‘zal neighborhood, a place of peace and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364689,
+                        41.281937
+                  ]
+            },
+            {
+                  "name": "Abu Ali ibn Tolib",
+                  "text": "A mosque dedicated to Caliph Abu Ali ibn Tolib, decorated with traditional blue tiles.",
+                  "category": "landmark",
+                  "coords": [
+                        69.364001,
+                        41.296772
+                  ]
+            },
+            {
+                  "name": "Olitin tepa",
+                  "text": "The Olitin-tepa mosque is located on a historical hill, offering a wide view of the surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        69.358133,
+                        41.323866
+                  ]
+            },
+            {
+                  "name": "Leesang park",
+                  "text": "A family water park featuring multiple pools and water slides for cooling off.",
+                  "category": "recreational",
+                  "coords": [
+                        69.367415,
+                        41.225928
+                  ]
+            },
+            {
+                  "name": "Mokhito i povaliatstsa",
+                  "text": "A leisure water park with relaxation areas and tropical drinks at the poolside bar.",
+                  "category": "recreational",
+                  "coords": [
+                        69.407921,
+                        41.326205
+                  ]
+            },
+            {
+                  "name": "Kuioshcha nuri",
+                  "text": "A small theme park for children featuring carousels and outdoor play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        69.378154,
+                        41.256422
+                  ]
+            },
+            {
+                  "name": "Grace garden",
+                  "text": "A landscaped water park with gardens, ideal for a relaxing day by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        69.379259,
+                        41.2346
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "UZ-TK",
     coords: [69.4, 41.3],
@@ -1083,7 +3126,160 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "pskem-valley-relief-v2",
+    id: "pskem-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "razmytyi most",
+                  "text": "Ein einzigartiger Aussichtspunkt mit Blick auf die Überreste einer Brücke im abgelegenen und wilden Pskem-Flusstal.",
+                  "category": "natural",
+                  "coords": [
+                        70.392121,
+                        41.937129
+                  ]
+            },
+            {
+                  "name": "Gorodishche Shakhdzhuvar",
+                  "text": "Diese archäologische Stätte enthält die Ruinen einer antiken Siedlung, die die lange Geschichte der menschlichen Besiedlung in den Bergen offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        70.381186,
+                        41.920869
+                  ]
+            },
+            {
+                  "name": "Tesniny Kaptarkumushsai",
+                  "text": "Eine dramatische Attraktion mit engen Kalksteinschluchten und steilen Felswänden, die vom Gebirgsbach geformt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        70.297729,
+                        41.836529
+                  ]
+            },
+            {
+                  "name": "“Urung‘och” Davlat Gidrologik Tabiat Yodgorligi",
+                  "text": "Bekannt für seine atemberaubenden türkisfarbenen Jade-Seen, schützt dieses Reservat ein einzigartiges alpines hydrologisches Ökosystem im Tienschan.",
+                  "category": "natural",
+                  "coords": [
+                        70.3141,
+                        41.921597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "razmytyi most",
+                  "text": "Egyedülálló kilátópont, ahonnan rálátni egy híd maradványaira a távoli és vad Pszkem-folyó völgyében.",
+                  "category": "natural",
+                  "coords": [
+                        70.392121,
+                        41.937129
+                  ]
+            },
+            {
+                  "name": "Gorodishche Shakhdzhuvar",
+                  "text": "Ez a régészeti lelőhely egy ősi település romjait őrzi, feltárva a hegyvidéki emberi jelenlét hosszú történelmét.",
+                  "category": "historical",
+                  "coords": [
+                        70.381186,
+                        41.920869
+                  ]
+            },
+            {
+                  "name": "Tesniny Kaptarkumushsai",
+                  "text": "Drámai látványosság szűk mészkő szurdokokkal és meredek sziklafalakkal, amelyeket a hegyi patak vájt ki.",
+                  "category": "landmark",
+                  "coords": [
+                        70.297729,
+                        41.836529
+                  ]
+            },
+            {
+                  "name": "“Urung‘och” Davlat Gidrologik Tabiat Yodgorligi",
+                  "text": "A lenyűgöző türkizkék jádetavairól híres rezervátum a Tien-san egyedülálló alpesi hidrológiai ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        70.3141,
+                        41.921597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "razmytyi most",
+                  "text": "Un punct de belvedere unic, cu vedere la rămășițele unui pod din valea izolată și sălbatică a râului Pskem.",
+                  "category": "natural",
+                  "coords": [
+                        70.392121,
+                        41.937129
+                  ]
+            },
+            {
+                  "name": "Gorodishche Shakhdzhuvar",
+                  "text": "Acest sit arheologic conține ruinele unei așezări antice, dezvăluind istoria lungă a locuirii umane în munți.",
+                  "category": "historical",
+                  "coords": [
+                        70.381186,
+                        41.920869
+                  ]
+            },
+            {
+                  "name": "Tesniny Kaptarkumushsai",
+                  "text": "O atracție dramatică ce prezintă chei înguste de calcar și pereți stâncoși abrupți sculptați de pârâul de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        70.297729,
+                        41.836529
+                  ]
+            },
+            {
+                  "name": "“Urung‘och” Davlat Gidrologik Tabiat Yodgorligi",
+                  "text": "Slavă pentru uimitoarele sale lacuri de jad turcoaz, această rezervație protejează un ecosistem hidrologic alpin unic în Tian-Șan.",
+                  "category": "natural",
+                  "coords": [
+                        70.3141,
+                        41.921597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "razmytyi most",
+                  "text": "A unique viewpoint overlooking the remnants of a bridge in the remote and wild Pskem River valley.",
+                  "category": "natural",
+                  "coords": [
+                        70.392121,
+                        41.937129
+                  ]
+            },
+            {
+                  "name": "Gorodishche Shakhdzhuvar",
+                  "text": "This archaeological site contains the ruins of an ancient settlement, revealing the long history of human habitation in the mountains.",
+                  "category": "historical",
+                  "coords": [
+                        70.381186,
+                        41.920869
+                  ]
+            },
+            {
+                  "name": "Tesniny Kaptarkumushsai",
+                  "text": "A dramatic attraction featuring narrow limestone gorges and steep rocky walls carved by the mountain stream.",
+                  "category": "landmark",
+                  "coords": [
+                        70.297729,
+                        41.836529
+                  ]
+            },
+            {
+                  "name": "\"Urungach\" State Hydrological Natural Monument",
+                  "text": "Famous for its stunning turquoise jade lakes, this reserve protects a unique alpine hydrological ecosystem in the Tien Shan.",
+                  "category": "natural",
+                  "coords": [
+                        70.3141,
+                        41.921597
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "UZ-TK",
     coords: [70.3, 41.9],
@@ -1147,7 +3343,124 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
     },
   },
   {
-    id: "sherabad-valley-relief-v2",
+    id: "sherabad-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jarkutan / Dzharkutan",
+                  "text": "Jarqo'ton ist eine bedeutende archäologische Stätte, die antike Überreste im Scherabad-Tal birgt.",
+                  "category": "historical",
+                  "coords": [
+                        66.96019,
+                        37.628202
+                  ]
+            },
+            {
+                  "name": "ABDUVAID XOJI jom`e masjidi",
+                  "text": "Die Abduvaid Khozhi Kathedralmoschee bietet einen großen muslimischen Gottesdienstraum im Scherabad-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070702,
+                        37.660755
+                  ]
+            },
+            {
+                  "name": "SHEROBOD jom`e masjidi",
+                  "text": "Die Sherabad Kathedralmoschee ist ein zentraler muslimischer Versammlungsort in der lokalen Talgemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        67.02512,
+                        37.668365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jarqo'ton",
+                  "text": "A Jarqo'ton egy jelentős régészeti lelőhely, amely ősi maradványokat rejt a Sherabad-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        66.96019,
+                        37.628202
+                  ]
+            },
+            {
+                  "name": "ABDUVAID XOJI jom`e masjidi",
+                  "text": "Az Abduvaid Khozhi katedrális mecset tágas muszlim istentiszteleti teret biztosít a Sherabad-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070702,
+                        37.660755
+                  ]
+            },
+            {
+                  "name": "SHEROBOD jom`e masjidi",
+                  "text": "A Sherabad katedrális mecset központi muszlim gyülekezési helyként áll a helyi völgyi közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.02512,
+                        37.668365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jarqo'ton",
+                  "text": "Jarqo'ton este un sit arheologic semnificativ care oferă rămășițe antice în valea Sherabad.",
+                  "category": "historical",
+                  "coords": [
+                        66.96019,
+                        37.628202
+                  ]
+            },
+            {
+                  "name": "ABDUVAID XOJI jom`e masjidi",
+                  "text": "Moscheea Catedrală Abduvaid Khozhi oferă un spațiu vast de cult musulman în valea Sherabad.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070702,
+                        37.660755
+                  ]
+            },
+            {
+                  "name": "SHEROBOD jom`e masjidi",
+                  "text": "Moscheea Catedrală Sherabad se remarcă drept un loc central de adunare musulmană în comunitatea locală a văii.",
+                  "category": "landmark",
+                  "coords": [
+                        67.02512,
+                        37.668365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jarqo'ton",
+                  "text": "Jarqo'ton is a significant archaeological site offering ancient remnants in the Sherabad Valley.",
+                  "category": "historical",
+                  "coords": [
+                        66.96019,
+                        37.628202
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque ABDUVAID KHOZHI",
+                  "text": "The Abduvaid Khozhi Cathedral Mosque provides a grand Muslim worship space within the Sherabad Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070702,
+                        37.660755
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque SHERABAD",
+                  "text": "The Sherabad Cathedral Mosque stands as a central Muslim gathering place in the local valley community.",
+                  "category": "landmark",
+                  "coords": [
+                        67.02512,
+                        37.668365
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "UZ-SU",
     coords: [67.0, 37.6],

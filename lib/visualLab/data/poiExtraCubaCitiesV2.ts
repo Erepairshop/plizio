@@ -282,7 +282,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Mausoleo José Manuel Seguí",
-                  "text": "Das Mausoleum von José Manuel Seguí in Güira de Melena.",
+                  "text": "Neoklassizistisches Mausoleum des kubanischen Politikers José Manuel Seguí.",
                   "category": "historical",
                   "coords": [
                         -82.505782,
@@ -302,7 +302,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Mausoleo José Manuel Seguí",
-                  "text": "José Manuel Seguí mauzóleuma Güira de Melenában.",
+                  "text": "José Manuel Seguí kubai politikus neoklasszikus mauzóleuma.",
                   "category": "historical",
                   "coords": [
                         -82.505782,
@@ -322,7 +322,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Mausoleo José Manuel Seguí",
-                  "text": "Mausoleul lui José Manuel Seguí din Güira de Melena.",
+                  "text": "Mausoleu neoclasic al politicianului cubanez José Manuel Seguí.",
                   "category": "historical",
                   "coords": [
                         -82.505782,
@@ -342,7 +342,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Mausoleo José Manuel Seguí",
-                  "text": "The mausoleum of José Manuel Seguí in Güira de Melena.",
+                  "text": "Neoclassical mausoleum of Cuban politician José Manuel Seguí.",
                   "category": "historical",
                   "coords": [
                         -82.505782,
@@ -1162,7 +1162,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Reguero",
-                  "text": "Ein traditionsreiches Theatergebäude in der Stadt Morón.",
+                  "text": "Historisches Theater mit aufwändiger Fassade in Morón.",
                   "category": "cultural",
                   "coords": [
                         -78.626176,
@@ -1171,7 +1171,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Antiguo Hotel Ritz",
-                  "text": "Das Gebäude des ehemaligen Hotels Ritz in Morón.",
+                  "text": "Ehemaliges Luxushotel aus dem frühen 20. Jahrhundert in Morón.",
                   "category": "landmark",
                   "coords": [
                         -78.626669,
@@ -1200,7 +1200,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Reguero",
-                  "text": "Nagy múltú színházépület Morón városában.",
+                  "text": "Történelmi színház díszes homlokzattal Morónban.",
                   "category": "cultural",
                   "coords": [
                         -78.626176,
@@ -1209,7 +1209,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Antiguo Hotel Ritz",
-                  "text": "Az egykori Hotel Ritz épülete Morónban.",
+                  "text": "Korábbi luxusszálloda a 20. század elejéről Morónban.",
                   "category": "landmark",
                   "coords": [
                         -78.626669,
@@ -1238,7 +1238,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Reguero",
-                  "text": "O clădire de teatru cu tradiție în orașul Morón.",
+                  "text": "Teatru istoric cu fațadă ornamentată în Morón.",
                   "category": "cultural",
                   "coords": [
                         -78.626176,
@@ -1247,7 +1247,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Antiguo Hotel Ritz",
-                  "text": "Clădirea fostului hotel Ritz din Morón.",
+                  "text": "Fost hotel de lux de la începutul secolului XX în Morón.",
                   "category": "landmark",
                   "coords": [
                         -78.626669,
@@ -1276,7 +1276,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Reguero",
-                  "text": "A traditional theatre building in the city of Morón.",
+                  "text": "Historic theater with ornate facade in Morón.",
                   "category": "cultural",
                   "coords": [
                         -78.626176,
@@ -1285,7 +1285,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Antiguo Hotel Ritz",
-                  "text": "The building of the former Ritz Hotel in Morón.",
+                  "text": "Former luxury hotel from the early 20th century in Morón.",
                   "category": "landmark",
                   "coords": [
                         -78.626669,
@@ -1480,7 +1480,736 @@ export const poiExtraCubaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Granma", "Ancien centre du mouvement d'indépendance", "Ville historique de l'est de Cuba"],
     }, image: "/poi-images/bayamo-cities-v2.webp"},
   {
-    id: "manzanillo-cities-v2", "sights": {"de": [{"name": "Playa Las Brisas", "text": "Sanfte Meeresbrisen und weicher Sand prägen das Bild der Playa Las Brisas in Manzanillo. Dieser weitläufige Strandabschnitt ist ein wunderbarer Ort, um bei einem Spaziergang die Gedanken schweifen zu lassen oder sich im Meer abzukühlen. Wer den Tag am Wasser ausklingen lassen möchte, findet hier eine wunderbare Kulisse für den Sonnenuntergang.", "category": "recreational", "coords": [-104.303045, 19.067485]}, {"name": "Iguanario", "text": "Ein Iguanen-Schutzgebiet in Manzanillo.", "category": "family", "coords": [-104.318337, 19.04696]}, {"name": "Museo de la Perversidad", "text": "Ein Museum in Manzanillo.", "category": "museum", "coords": [-104.315521, 19.053085]}, {"name": "Playa San Pedrito", "text": "Playa San Pedrito präsentiert sich als gemütlicher Küstenort im Herzen von Manzanillo. Familien und Einheimische schätzen den Strand für seine entspannte Atmosphäre und die gute Erreichbarkeit. Es empfiehlt sich, ein paar Snacks einzupacken und den Tag mit Blick auf das offene Wasser zu genießen.", "category": "recreational", "coords": [-104.304756, 19.057999]}, {"name": "Playa Las Coloradas", "text": "Etwas verborgener gelegen, verströmt die Playa Las Coloradas in Manzanillo einen Hauch von Abenteuer. Die naturnahe Umgebung lädt dazu ein, dem städtischen Trubel zu entfliehen und die raue Schönheit der Küste zu entdecken. Ein Besuch an diesem Strand verspricht ruhige Stunden, am besten bringt man ein gutes Buch mit.", "category": "recreational", "coords": [-104.329419, 19.047796]}, {"name": "Playa Puerta del Cielo", "text": "Übersetzt als \"Tor zum Himmel\", macht dieser Strand in Manzanillo seinem Namen durch eine faszinierende Kulisse alle Ehre. Besucher können sich hier auf herrliche Ausblicke über das endlose Meer freuen. Wer die magische Stimmung in voller Ruhe aufnehmen möchte, sollte am späten Nachmittag einen Spaziergang im Sand unternehmen.", "category": "recreational", "coords": [-104.32929, 19.050743]}, {"name": "Playa El Majo", "text": "Playa El Majo ist ein bezaubernder Rückzugsort an der Küste von Manzanillo, ideal für sonnenhungrige Urlauber. Der Strand zeichnet sich durch seine lockere Atmosphäre aus und lädt zum entspannten Beobachten der Wellen ein. Eine Decke und ein Picknickkorb sind die perfekten Begleiter für einen gemütlichen Nachmittag am Meer.", "category": "recreational", "coords": [-104.323271, 19.05481]}, {"name": "Playa El Viejo", "text": "Versteckt in Manzanillo bietet die Playa El Viejo eine urige und ruhige Umgebung am Ozean. Der Küstenabschnitt lockt vor allem Besucher, die die Natur schätzen und dem großen Trubel entgehen wollen. Es ist der perfekte Ort, um bei einem langen Spaziergang neue Energie zu tanken und die salzige Luft einzuatmen.", "category": "recreational", "coords": [-104.321777, 19.055737]}, {"name": "Valle Dorado Beach", "text": "Am Valle Dorado Beach in Manzanillo treffen feiner Sand und das glitzernde Meer aufeinander. Dieser reizvolle Küstenstrich bietet hervorragende Gelegenheiten, um ein wenig Sonne zu tanken oder sich am Strand spielerisch zu betätigen. An warmen Sommertagen ist es ratsam, einen eigenen Sonnenschirm für etwas Schatten mitzubringen.", "category": "recreational", "coords": [-104.330869, 19.043067]}, {"name": "Playa Ventanas", "text": "Die Playa Ventanas in Manzanillo ist ein fabelhafter Ort, um die Seele am Pazifik baumeln zu lassen. Der Strand lockt mit einer idyllischen Szenerie, die sich bestens für ausgedehnte Runden am Wasser eignet. Wer die Stille sucht, findet hier vor allem morgens ein wunderbar leeres Ufer vor.", "category": "recreational", "coords": [-104.332987, 19.03223]}, {"name": "Playa del Corsario", "text": "Mit einem klangvollen Namen zieht die Playa del Corsario in Manzanillo Strandgänger und Erholungssuchende an. Dieser Küstenabschnitt bietet reichlich Platz für ein entspanntes Sonnenbad und den Bau von Sandburgen. Ein Besuch lässt sich hervorragend mit einem Picknick verbinden, während man den Blick auf den Ozean richtet.", "category": "recreational", "coords": [-104.331052, 19.037268]}, {"name": "Playa Ángel", "text": "Wie ein himmlischer Zufluchtsort empfängt die Playa Ángel in Manzanillo ihre Gäste mit sanften Wellen. Das helle Ufer und die entspannte Atmosphäre laden zu einem unbeschwerten Tag am Wasser ein. Ein herrlicher Ort, um einfach mal die Füße hochzulegen und dem Alltag zu entfliehen.", "category": "recreational", "coords": [-104.331069, 19.040516]}, {"name": "Playa Las Piedritas", "text": "Charakterisiert durch kleine Kiesel und Steinchen bietet die Playa Las Piedritas in Manzanillo ein reizvolles Küstenbild. Dieser etwas andere Strand lädt dazu ein, Muscheln zu suchen und das klare Wasser an den Füßen zu spüren. Badeschuhe können hier hilfreich sein, um den Spaziergang am Ufer voll auszukosten.", "category": "recreational", "coords": [-104.332141, 19.035269]}, {"name": "Foro del Espíritu Santo", "text": "Theater in Manzanillo.", "category": "cultural", "coords": [-104.310802, 19.053715]}, {"name": "Manzanillo Sign", "text": "Sehenswürdigkeit in Manzanillo.", "category": "landmark", "coords": [-104.315454, 19.054173]}, {"name": "Barco Piloto", "text": "Denkmal in Manzanillo.", "category": "historical", "coords": [-104.3127, 19.053826]}, {"name": "Mirador de Vigía", "text": "Aussichtspunkt in Manzanillo.", "category": "natural", "coords": [-104.3205, 19.056592]}, {"name": "Mirador del Cerro de la Cruz", "text": "Aussichtspunkt in Manzanillo.", "category": "natural", "coords": [-104.323195, 19.052111]}, {"name": "Mirador Olimpo", "text": "Aussichtspunkt in Manzanillo.", "category": "natural", "coords": [-104.329716, 19.037118]}, {"name": "Pez Vela", "text": "Großes Segelfisch-Denkmal in Manzanillo.", "category": "historical", "coords": [-104.31681, 19.054221]}], "hu": [{"name": "Playa Las Brisas", "text": "Lágy tengeri szellők és puha homok jellemzi a Manzanillo városában található Playa Las Brisas képét. Ez a tágas partszakasz csodálatos helyszín ahhoz, hogy sétálás közben szabadon engedjük a gondolatainkat, vagy lehűtsük magunkat a tengerben. Aki a vízparton szeretné zárni a napot, csodás hátteret talál itt a naplementéhez.", "category": "recreational", "coords": [-104.303045, 19.067485]}, {"name": "Iguanario", "text": "Leguánrezervátum Manzanillóban.", "category": "family", "coords": [-104.318337, 19.04696]}, {"name": "Museo de la Perversidad", "text": "Múzeum Manzanillóban.", "category": "museum", "coords": [-104.315521, 19.053085]}, {"name": "Playa San Pedrito", "text": "A Playa San Pedrito egy hangulatos tengerparti helyszínként mutatkozik be Manzanillo szívében. A családok és a helyiek egyaránt értékelik a strandot nyugodt légköre és könnyű megközelíthetősége miatt. Érdemes néhány rágcsálnivalót csomagolni, és élvezni a napot a nyílt vízre nyíló kilátással.", "category": "recreational", "coords": [-104.304756, 19.057999]}, {"name": "Playa Las Coloradas", "text": "A kissé eldugottabb elhelyezkedésű Playa Las Coloradas Manzanillo városában a kaland érzését árasztja. A természetközeli környezet arra invitál, hogy elmeneküljünk a városi forgatagból, és felfedezzük a partvidék nyers szépségét. A strand meglátogatása csendes órákat ígér, a legjobb, ha egy jó könyvet is hozunk magunkkal.", "category": "recreational", "coords": [-104.329419, 19.047796]}, {"name": "Playa Puerta del Cielo", "text": "A \"Mennyország kapuja\" névre keresztelt manzanillói strand lenyűgöző díszletével méltó a nevéhez. A látogatók itt csodálatos kilátásban gyönyörködhetnek, amely a végtelen tengerre nyílik. Aki teljes békében szeretné befogadni a varázslatos hangulatot, tegyen egy késő délutáni sétát a homokban.", "category": "recreational", "coords": [-104.32929, 19.050743]}, {"name": "Playa El Majo", "text": "A Playa El Majo egy varázslatos menedék Manzanillo partján, amely ideális a napimádó nyaralóknak. A strand laza légkörével tűnik ki, és a hullámok pihentető megfigyelésére hív. Egy takaró és egy piknikkosár a tökéletes kísérő egy kényelmes, tengerparton töltött délutánhoz.", "category": "recreational", "coords": [-104.323271, 19.05481]}, {"name": "Playa El Viejo", "text": "A Manzanillóban megbúvó Playa El Viejo rusztikus és csendes környezetet kínál az óceán partján. A partszakasz elsősorban azokat a látogatókat vonzza, akik értékelik a természetet, és el akarják kerülni a nagy forgatagot. Tökéletes helyszín ahhoz, hogy egy hosszú séta során friss energiával töltődjünk fel, és beszívjuk a sós levegőt.", "category": "recreational", "coords": [-104.321777, 19.055737]}, {"name": "Valle Dorado Beach", "text": "A manzanillói Valle Dorado Beach partjainál finom homok és a csillogó tenger találkozik egymással. Ez a vonzó partszakasz kiváló lehetőségeket kínál arra, hogy egy kis napsugarat gyűjtsünk, vagy játékosan kikapcsolódjunk a strandon. A meleg nyári napokon ajánlott egy saját napernyőt is hozni az árnyék érdekében.", "category": "recreational", "coords": [-104.330869, 19.043067]}, {"name": "Playa Ventanas", "text": "A manzanillói Playa Ventanas mesés helyszín ahhoz, hogy a Csendes-óceán partján pihentessük a lelkünket. A strand idilli látvánnyal vonz, amely kiválóan alkalmas a vízparti kiterjedt sétákhoz. Aki a csendet keresi, az itt leginkább a reggeli órákban találhat csodálatosan üres partot.", "category": "recreational", "coords": [-104.332987, 19.03223]}, {"name": "Playa del Corsario", "text": "A dallamos hangzású Playa del Corsario Manzanillo városában vonzza a strandolókat és a pihenni vágyókat. Ez a partszakasz bőséges helyet kínál a nyugodt napozáshoz és a homokvárak építéséhez. A látogatást kiválóan össze lehet kötni egy piknikkel, miközben az óceán felé tekintünk.", "category": "recreational", "coords": [-104.331052, 19.037268]}, {"name": "Playa Ángel", "text": "Mennyei menedékként fogadja vendégeit lágy hullámaival a Playa Ángel Manzanillo partjainál. A világos part és a nyugodt légkör egy gondtalan vízparti napra invitál. Csodálatos helyszín ahhoz, hogy egyszerűen csak feltesszük a lábunkat, és elmenekülünk a hétköznapokból.", "category": "recreational", "coords": [-104.331069, 19.040516]}, {"name": "Playa Las Piedritas", "text": "Az apró kavicsok és kövek által jellemzett Playa Las Piedritas Manzanillo városában vonzó tengerparti képet mutat. Ez a kissé eltérő strand arra csábít, hogy kagylókat keressünk, és érezzük a tiszta vizet a lábunkon. A fürdőcipő itt hasznos lehet, hogy teljes mértékben kiélvezhessük a parti sétát.", "category": "recreational", "coords": [-104.332141, 19.035269]}, {"name": "Foro del Espíritu Santo", "text": "Színház Manzanillóban.", "category": "cultural", "coords": [-104.310802, 19.053715]}, {"name": "Manzanillo Sign", "text": "Látnivaló Manzanillóban.", "category": "landmark", "coords": [-104.315454, 19.054173]}, {"name": "Barco Piloto", "text": "Emlékmű Manzanillóban.", "category": "historical", "coords": [-104.3127, 19.053826]}, {"name": "Mirador de Vigía", "text": "Kilátópont Manzanillóban.", "category": "natural", "coords": [-104.3205, 19.056592]}, {"name": "Mirador del Cerro de la Cruz", "text": "Kilátópont Manzanillóban.", "category": "natural", "coords": [-104.323195, 19.052111]}, {"name": "Mirador Olimpo", "text": "Kilátópont Manzanillóban.", "category": "natural", "coords": [-104.329716, 19.037118]}, {"name": "Pez Vela", "text": "Óriási vitorláshal-szobor Manzanillóban.", "category": "historical", "coords": [-104.31681, 19.054221]}], "ro": [{"name": "Playa Las Brisas", "text": "Brizele blânde ale mării și nisipul moale definesc imaginea Playa Las Brisas din Manzanillo. Această porțiune vastă de plajă este un loc minunat pentru a-ți lăsa gândurile să zboare la o plimbare sau pentru a te răcori în mare. Cei care doresc să-și încheie ziua la malul apei vor găsi aici un decor minunat pentru apusul soarelui.", "category": "recreational", "coords": [-104.303045, 19.067485]}, {"name": "Iguanario", "text": "O rezervație de iguane în Manzanillo.", "category": "family", "coords": [-104.318337, 19.04696]}, {"name": "Museo de la Perversidad", "text": "Un muzeu în Manzanillo.", "category": "museum", "coords": [-104.315521, 19.053085]}, {"name": "Playa San Pedrito", "text": "Playa San Pedrito se prezintă ca o destinație de coastă primitoare în inima orașului Manzanillo. Familiile și localnicii apreciază plaja pentru atmosfera sa relaxată și accesibilitatea ușoară. Este recomandat să împachetați câteva gustări și să vă bucurați de o zi cu vedere spre apa deschisă.", "category": "recreational", "coords": [-104.304756, 19.057999]}, {"name": "Playa Las Coloradas", "text": "Situată ceva mai retras, Playa Las Coloradas din Manzanillo emană o atmosferă plină de aventură. Mediul apropiat de natură te invită să scapi de agitația orașului și să descoperi frumusețea brută a coastei. O vizită la această plajă promite ore liniștite, fiind ideal să aduceți cu voi o carte bună.", "category": "recreational", "coords": [-104.329419, 19.047796]}, {"name": "Playa Puerta del Cielo", "text": "Tradus ca \"Poarta spre cer\", această plajă din Manzanillo își onorează numele printr-un peisaj fascinant. Vizitatorii se pot aștepta la priveliști magnifice asupra mării nesfârșite. Cine dorește să absoarbă atmosfera magică în deplină liniște, ar trebui să facă o plimbare pe nisip după-amiaza târziu.", "category": "recreational", "coords": [-104.32929, 19.050743]}, {"name": "Playa El Majo", "text": "Playa El Majo este un refugiu încântător pe coasta din Manzanillo, ideal pentru turiștii dornici de soare. Plaja se remarcă prin atmosfera sa lejeră și te invită să privești relaxat valurile. O pătură și un coș de picnic sunt companioni perfecți pentru o după-amiază confortabilă la mare.", "category": "recreational", "coords": [-104.323271, 19.05481]}, {"name": "Playa El Viejo", "text": "Ascunsă în Manzanillo, Playa El Viejo oferă un mediu rustic și liniștit la ocean. Porțiunea de coastă atrage în principal vizitatorii care apreciază natura și doresc să evite agitația mare. Este locul perfect pentru a vă reîncărca bateriile în timpul unei plimbări lungi și a respira aerul sărat.", "category": "recreational", "coords": [-104.321777, 19.055737]}, {"name": "Valle Dorado Beach", "text": "La Valle Dorado Beach din Manzanillo, nisipul fin se întâlnește cu marea strălucitoare. Această porțiune de coastă fermecătoare oferă oportunități excelente pentru a face plajă sau pentru activități recreative pe nisip. În zilele calde de vară, este indicat să aduceți propria umbrelă pentru un pic de umbră.", "category": "recreational", "coords": [-104.330869, 19.043067]}, {"name": "Playa Ventanas", "text": "Playa Ventanas din Manzanillo este un loc fabulos pentru a vă lăsa sufletul să se relaxeze la Oceanul Pacific. Plaja te atrage cu un peisaj idilic, ideal pentru plimbări prelungite la malul apei. Cei care caută liniștea vor găsi aici un țărm minunat de gol, în special dimineața.", "category": "recreational", "coords": [-104.332987, 19.03223]}, {"name": "Playa del Corsario", "text": "Cu un nume sonor, Playa del Corsario din Manzanillo atrage pasionații de plajă și pe cei care caută relaxare. Această secțiune a coastei oferă spațiu generos pentru a face plajă în liniște și pentru a construi castele de nisip. O vizită se poate combina perfect cu un picnic, în timp ce priviți spre ocean.", "category": "recreational", "coords": [-104.331052, 19.037268]}, {"name": "Playa Ángel", "text": "Ca un refugiu ceresc, Playa Ángel din Manzanillo își întâmpină oaspeții cu valuri blânde. Țărmul luminos și atmosfera relaxată vă invită la o zi fără griji lângă apă. Un loc minunat pentru a pune pur și simplu picioarele sus și a evada din viața de zi cu zi.", "category": "recreational", "coords": [-104.331069, 19.040516]}, {"name": "Playa Las Piedritas", "text": "Caracterizată prin pietricele mici, Playa Las Piedritas din Manzanillo oferă o imagine de coastă fascinantă. Această plajă ușor diferită te invită să cauți scoici și să simți apa curată pe picioare. Pantofii de apă pot fi utili aici pentru a te bucura pe deplin de plimbarea pe țărm.", "category": "recreational", "coords": [-104.332141, 19.035269]}, {"name": "Foro del Espíritu Santo", "text": "Teatru în Manzanillo.", "category": "cultural", "coords": [-104.310802, 19.053715]}, {"name": "Manzanillo Sign", "text": "Atracție în Manzanillo.", "category": "landmark", "coords": [-104.315454, 19.054173]}, {"name": "Barco Piloto", "text": "Monument în Manzanillo.", "category": "historical", "coords": [-104.3127, 19.053826]}, {"name": "Mirador de Vigía", "text": "Punct de belvedere în Manzanillo.", "category": "natural", "coords": [-104.3205, 19.056592]}, {"name": "Mirador del Cerro de la Cruz", "text": "Punct de belvedere în Manzanillo.", "category": "natural", "coords": [-104.323195, 19.052111]}, {"name": "Mirador Olimpo", "text": "Punct de belvedere în Manzanillo.", "category": "natural", "coords": [-104.329716, 19.037118]}, {"name": "Pez Vela", "text": "Sculptură uriașă de pește-spadă în Manzanillo.", "category": "historical", "coords": [-104.31681, 19.054221]}], "en": [{"name": "Las Brisas Beach", "text": "Gentle sea breezes and soft sand define the image of Playa Las Brisas in Manzanillo. This expansive stretch of beach is a wonderful place to let your thoughts wander during a walk or to cool off in the sea. Those looking to end their day by the water will find a stunning backdrop for the sunset here.", "category": "recreational", "coords": [-104.303045, 19.067485]}, {"name": "Iguanario", "text": "An iguana sanctuary in Manzanillo.", "category": "family", "coords": [-104.318337, 19.04696]}, {"name": "Museo de la Perversidad", "text": "A museum in Manzanillo.", "category": "museum", "coords": [-104.315521, 19.053085]}, {"name": "San Pedrito Beach", "text": "Playa San Pedrito presents itself as a cozy coastal spot in the heart of Manzanillo. Families and locals alike appreciate the beach for its relaxed atmosphere and easy accessibility. It is a good idea to pack some snacks and spend the day enjoying the view over the open water.", "category": "recreational", "coords": [-104.304756, 19.057999]}, {"name": "Playa Las Coloradas", "text": "Situated a bit more out of the way, Playa Las Coloradas in Manzanillo exudes a touch of adventure. The natural surroundings invite you to escape the urban bustle and discover the raw beauty of the coast. A visit to this beach promises quiet hours, making it perfect to bring along a good book.", "category": "recreational", "coords": [-104.329419, 19.047796]}, {"name": "Playa Puerta del Cielo", "text": "Translated as \"Gate to Heaven,\" this beach in Manzanillo lives up to its name with a fascinating backdrop. Visitors can look forward to magnificent views over the endless sea. Those wishing to absorb the magical mood in complete tranquility should take a late afternoon stroll on the sand.", "category": "recreational", "coords": [-104.32929, 19.050743]}, {"name": "Playa El Majo", "text": "Playa El Majo is an enchanting retreat on the coast of Manzanillo, ideal for sun-seeking vacationers. The beach stands out with its laid-back atmosphere and invites you to relax while watching the waves. A blanket and a picnic basket make the perfect companions for a leisurely afternoon by the sea.", "category": "recreational", "coords": [-104.323271, 19.05481]}, {"name": "Playa El Viejo", "text": "Tucked away in Manzanillo, Playa El Viejo offers a rustic and tranquil environment by the ocean. The stretch of coastline primarily attracts visitors who appreciate nature and wish to avoid large crowds. It is the perfect place to recharge your energy during a long walk while breathing in the salty air.", "category": "recreational", "coords": [-104.321777, 19.055737]}, {"name": "Valle Dorado Beach", "text": "At Valle Dorado Beach in Manzanillo, fine sand and the glittering sea come together beautifully. This delightful stretch of coastline offers excellent opportunities to soak up some sun or engage in playful beach activities. On warm summer days, bringing your own umbrella for some shade is highly recommended.", "category": "recreational", "coords": [-104.330869, 19.043067]}, {"name": "Playa Ventanas", "text": "Playa Ventanas in Manzanillo is a fabulous spot to let your soul unwind by the Pacific Ocean. The beach tempts visitors with an idyllic scene that is perfect for long rounds of walking by the water. Those seeking tranquility will find a wonderfully empty shore here, especially in the morning.", "category": "recreational", "coords": [-104.332987, 19.03223]}, {"name": "Playa del Corsario", "text": "With its resounding name, Playa del Corsario in Manzanillo attracts beachgoers and those seeking relaxation. This stretch of coast offers plenty of space for laid-back sunbathing and building sandcastles. A visit here is perfectly paired with a picnic while keeping your eyes on the vast ocean.", "category": "recreational", "coords": [-104.331052, 19.037268]}, {"name": "Playa Ángel", "text": "Like a heavenly refuge, Playa Ángel in Manzanillo welcomes its guests with gentle waves. The bright shore and relaxed atmosphere invite you to enjoy a carefree day by the water. It is a wonderful spot to simply kick back, put your feet up, and escape everyday life.", "category": "recreational", "coords": [-104.331069, 19.040516]}, {"name": "Playa Las Piedritas", "text": "Characterized by small pebbles and stones, Playa Las Piedritas in Manzanillo offers a captivating coastal scene. This slightly different beach invites you to search for shells and feel the clear water on your feet. Wearing water shoes can be quite helpful here to fully enjoy your walk along the shore.", "category": "recreational", "coords": [-104.332141, 19.035269]}, {"name": "Foro del Espíritu Santo", "text": "Theatre in Manzanillo.", "category": "cultural", "coords": [-104.310802, 19.053715]}, {"name": "Manzanillo Sign", "text": "Attraction in Manzanillo.", "category": "landmark", "coords": [-104.315454, 19.054173]}, {"name": "Piloto Boat", "text": "Monument in Manzanillo.", "category": "historical", "coords": [-104.3127, 19.053826]}, {"name": "Mirador de Vigía", "text": "Viewpoint in Manzanillo.", "category": "natural", "coords": [-104.3205, 19.056592]}, {"name": "Mirador del Cerro de la Cruz", "text": "Viewpoint in Manzanillo.", "category": "natural", "coords": [-104.323195, 19.052111]}, {"name": "Mirador Olimpo", "text": "Viewpoint in Manzanillo.", "category": "natural", "coords": [-104.329716, 19.037118]}, {"name": "Giant Sailfish Sculpture", "text": "Giant sailfish sculpture in Manzanillo.", "category": "historical", "coords": [-104.31681, 19.054221]}]},
+    id: "manzanillo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Las Brisas",
+                  "text": "Sanfte Meeresbrisen und weicher Sand prägen das Bild der Playa Las Brisas in Manzanillo. Dieser weitläufige Strandabschnitt ist ein wunderbarer Ort, um bei einem Spaziergang die Gedanken schweifen zu lassen oder sich im Meer abzukühlen. Wer den Tag am Wasser ausklingen lassen möchte, findet hier eine wunderbare Kulisse für den Sonnenuntergang.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "Leguan-Schutzgebiet mit frei herumlaufenden Tieren in Manzanillo.",
+                  "category": "family",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Schrulliges Museum für Kuriositäten und Seltsamkeiten.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "Playa San Pedrito",
+                  "text": "Playa San Pedrito präsentiert sich als gemütlicher Küstenort im Herzen von Manzanillo. Familien und Einheimische schätzen den Strand für seine entspannte Atmosphäre und die gute Erreichbarkeit. Es empfiehlt sich, ein paar Snacks einzupacken und den Tag mit Blick auf das offene Wasser zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "Etwas verborgener gelegen, verströmt die Playa Las Coloradas in Manzanillo einen Hauch von Abenteuer. Die naturnahe Umgebung lädt dazu ein, dem städtischen Trubel zu entfliehen und die raue Schönheit der Küste zu entdecken. Ein Besuch an diesem Strand verspricht ruhige Stunden, am besten bringt man ein gutes Buch mit.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "Übersetzt als \"Tor zum Himmel\", macht dieser Strand in Manzanillo seinem Namen durch eine faszinierende Kulisse alle Ehre. Besucher können sich hier auf herrliche Ausblicke über das endlose Meer freuen. Wer die magische Stimmung in voller Ruhe aufnehmen möchte, sollte am späten Nachmittag einen Spaziergang im Sand unternehmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "Playa El Majo ist ein bezaubernder Rückzugsort an der Küste von Manzanillo, ideal für sonnenhungrige Urlauber. Der Strand zeichnet sich durch seine lockere Atmosphäre aus und lädt zum entspannten Beobachten der Wellen ein. Eine Decke und ein Picknickkorb sind die perfekten Begleiter für einen gemütlichen Nachmittag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "Versteckt in Manzanillo bietet die Playa El Viejo eine urige und ruhige Umgebung am Ozean. Der Küstenabschnitt lockt vor allem Besucher, die die Natur schätzen und dem großen Trubel entgehen wollen. Es ist der perfekte Ort, um bei einem langen Spaziergang neue Energie zu tanken und die salzige Luft einzuatmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "Am Valle Dorado Beach in Manzanillo treffen feiner Sand und das glitzernde Meer aufeinander. Dieser reizvolle Küstenstrich bietet hervorragende Gelegenheiten, um ein wenig Sonne zu tanken oder sich am Strand spielerisch zu betätigen. An warmen Sommertagen ist es ratsam, einen eigenen Sonnenschirm für etwas Schatten mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Die Playa Ventanas in Manzanillo ist ein fabelhafter Ort, um die Seele am Pazifik baumeln zu lassen. Der Strand lockt mit einer idyllischen Szenerie, die sich bestens für ausgedehnte Runden am Wasser eignet. Wer die Stille sucht, findet hier vor allem morgens ein wunderbar leeres Ufer vor.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "Mit einem klangvollen Namen zieht die Playa del Corsario in Manzanillo Strandgänger und Erholungssuchende an. Dieser Küstenabschnitt bietet reichlich Platz für ein entspanntes Sonnenbad und den Bau von Sandburgen. Ein Besuch lässt sich hervorragend mit einem Picknick verbinden, während man den Blick auf den Ozean richtet.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Wie ein himmlischer Zufluchtsort empfängt die Playa Ángel in Manzanillo ihre Gäste mit sanften Wellen. Das helle Ufer und die entspannte Atmosphäre laden zu einem unbeschwerten Tag am Wasser ein. Ein herrlicher Ort, um einfach mal die Füße hochzulegen und dem Alltag zu entfliehen.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Charakterisiert durch kleine Kiesel und Steinchen bietet die Playa Las Piedritas in Manzanillo ein reizvolles Küstenbild. Dieser etwas andere Strand lädt dazu ein, Muscheln zu suchen und das klare Wasser an den Füßen zu spüren. Badeschuhe können hier hilfreich sein, um den Spaziergang am Ufer voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Kulturzentrum in einer ehemaligen Kirche in Manzanillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Riesige Buchstaben auf dem Hügel mit Blick auf die Bucht von Manzanillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Barco Piloto",
+                  "text": "Erhaltenes Lotsenboot aus den 1920er Jahren in Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Aussichtspunkt mit Panoramablick auf die Stadt und die Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Aussichtspunkt mit einem großen Kreuz auf dem Hügel über dem Pazifik.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Aussichtspunkt Olimpo mit spektakulären Sonnenuntergängen.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Pez Vela",
+                  "text": "Riesige Segelfisch-Skulptur als Symbol der Fischereitradition.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Las Brisas",
+                  "text": "Lágy tengeri szellők és puha homok jellemzi a Manzanillo városában található Playa Las Brisas képét. Ez a tágas partszakasz csodálatos helyszín ahhoz, hogy sétálás közben szabadon engedjük a gondolatainkat, vagy lehűtsük magunkat a tengerben. Aki a vízparton szeretné zárni a napot, csodás hátteret talál itt a naplementéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "Leguan-menedékhely szabadon kószáló állatokkal Manzanillóban.",
+                  "category": "family",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Furcsa múzeum érdekességekkel és különlegességekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "Playa San Pedrito",
+                  "text": "A Playa San Pedrito egy hangulatos tengerparti helyszínként mutatkozik be Manzanillo szívében. A családok és a helyiek egyaránt értékelik a strandot nyugodt légköre és könnyű megközelíthetősége miatt. Érdemes néhány rágcsálnivalót csomagolni, és élvezni a napot a nyílt vízre nyíló kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "A kissé eldugottabb elhelyezkedésű Playa Las Coloradas Manzanillo városában a kaland érzését árasztja. A természetközeli környezet arra invitál, hogy elmeneküljünk a városi forgatagból, és felfedezzük a partvidék nyers szépségét. A strand meglátogatása csendes órákat ígér, a legjobb, ha egy jó könyvet is hozunk magunkkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "A \"Mennyország kapuja\" névre keresztelt manzanillói strand lenyűgöző díszletével méltó a nevéhez. A látogatók itt csodálatos kilátásban gyönyörködhetnek, amely a végtelen tengerre nyílik. Aki teljes békében szeretné befogadni a varázslatos hangulatot, tegyen egy késő délutáni sétát a homokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "A Playa El Majo egy varázslatos menedék Manzanillo partján, amely ideális a napimádó nyaralóknak. A strand laza légkörével tűnik ki, és a hullámok pihentető megfigyelésére hív. Egy takaró és egy piknikkosár a tökéletes kísérő egy kényelmes, tengerparton töltött délutánhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "A Manzanillóban megbúvó Playa El Viejo rusztikus és csendes környezetet kínál az óceán partján. A partszakasz elsősorban azokat a látogatókat vonzza, akik értékelik a természetet, és el akarják kerülni a nagy forgatagot. Tökéletes helyszín ahhoz, hogy egy hosszú séta során friss energiával töltődjünk fel, és beszívjuk a sós levegőt.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "A manzanillói Valle Dorado Beach partjainál finom homok és a csillogó tenger találkozik egymással. Ez a vonzó partszakasz kiváló lehetőségeket kínál arra, hogy egy kis napsugarat gyűjtsünk, vagy játékosan kikapcsolódjunk a strandon. A meleg nyári napokon ajánlott egy saját napernyőt is hozni az árnyék érdekében.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "A manzanillói Playa Ventanas mesés helyszín ahhoz, hogy a Csendes-óceán partján pihentessük a lelkünket. A strand idilli látvánnyal vonz, amely kiválóan alkalmas a vízparti kiterjedt sétákhoz. Aki a csendet keresi, az itt leginkább a reggeli órákban találhat csodálatosan üres partot.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "A dallamos hangzású Playa del Corsario Manzanillo városában vonzza a strandolókat és a pihenni vágyókat. Ez a partszakasz bőséges helyet kínál a nyugodt napozáshoz és a homokvárak építéséhez. A látogatást kiválóan össze lehet kötni egy piknikkel, miközben az óceán felé tekintünk.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Mennyei menedékként fogadja vendégeit lágy hullámaival a Playa Ángel Manzanillo partjainál. A világos part és a nyugodt légkör egy gondtalan vízparti napra invitál. Csodálatos helyszín ahhoz, hogy egyszerűen csak feltesszük a lábunkat, és elmenekülünk a hétköznapokból.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Az apró kavicsok és kövek által jellemzett Playa Las Piedritas Manzanillo városában vonzó tengerparti képet mutat. Ez a kissé eltérő strand arra csábít, hogy kagylókat keressünk, és érezzük a tiszta vizet a lábunkon. A fürdőcipő itt hasznos lehet, hogy teljes mértékben kiélvezhessük a parti sétát.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Kulturális központ egy egykori templomépületben Manzanillóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Óriás betűk a domboldalon, kilátással Manzanillo öblére.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Barco Piloto",
+                  "text": "Megőrzött révkalauz-hajó az 1920-as évekből Manzanillóban.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Kilátópont panorámás kilátással a városra és az öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Kilátó nagy kereszttel a dombtetőn, a Csendes-óceánra néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Olimpo kilátó látványos naplementékkel.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Pez Vela",
+                  "text": "Óriás vitorláshal-szobor a halászati hagyomány szimbólumaként.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Las Brisas",
+                  "text": "Brizele blânde ale mării și nisipul moale definesc imaginea Playa Las Brisas din Manzanillo. Această porțiune vastă de plajă este un loc minunat pentru a-ți lăsa gândurile să zboare la o plimbare sau pentru a te răcori în mare. Cei care doresc să-și încheie ziua la malul apei vor găsi aici un decor minunat pentru apusul soarelui.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "Sanctuar de iguane cu reptile care se plimbă liber în Manzanillo.",
+                  "category": "family",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Muzeu ciudat de curiozități și lucruri neobișnuite.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "Playa San Pedrito",
+                  "text": "Playa San Pedrito se prezintă ca o destinație de coastă primitoare în inima orașului Manzanillo. Familiile și localnicii apreciază plaja pentru atmosfera sa relaxată și accesibilitatea ușoară. Este recomandat să împachetați câteva gustări și să vă bucurați de o zi cu vedere spre apa deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "Situată ceva mai retras, Playa Las Coloradas din Manzanillo emană o atmosferă plină de aventură. Mediul apropiat de natură te invită să scapi de agitația orașului și să descoperi frumusețea brută a coastei. O vizită la această plajă promite ore liniștite, fiind ideal să aduceți cu voi o carte bună.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "Tradus ca \"Poarta spre cer\", această plajă din Manzanillo își onorează numele printr-un peisaj fascinant. Vizitatorii se pot aștepta la priveliști magnifice asupra mării nesfârșite. Cine dorește să absoarbă atmosfera magică în deplină liniște, ar trebui să facă o plimbare pe nisip după-amiaza târziu.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "Playa El Majo este un refugiu încântător pe coasta din Manzanillo, ideal pentru turiștii dornici de soare. Plaja se remarcă prin atmosfera sa lejeră și te invită să privești relaxat valurile. O pătură și un coș de picnic sunt companioni perfecți pentru o după-amiază confortabilă la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "Ascunsă în Manzanillo, Playa El Viejo oferă un mediu rustic și liniștit la ocean. Porțiunea de coastă atrage în principal vizitatorii care apreciază natura și doresc să evite agitația mare. Este locul perfect pentru a vă reîncărca bateriile în timpul unei plimbări lungi și a respira aerul sărat.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "La Valle Dorado Beach din Manzanillo, nisipul fin se întâlnește cu marea strălucitoare. Această porțiune de coastă fermecătoare oferă oportunități excelente pentru a face plajă sau pentru activități recreative pe nisip. În zilele calde de vară, este indicat să aduceți propria umbrelă pentru un pic de umbră.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Playa Ventanas din Manzanillo este un loc fabulos pentru a vă lăsa sufletul să se relaxeze la Oceanul Pacific. Plaja te atrage cu un peisaj idilic, ideal pentru plimbări prelungite la malul apei. Cei care caută liniștea vor găsi aici un țărm minunat de gol, în special dimineața.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "Cu un nume sonor, Playa del Corsario din Manzanillo atrage pasionații de plajă și pe cei care caută relaxare. Această secțiune a coastei oferă spațiu generos pentru a face plajă în liniște și pentru a construi castele de nisip. O vizită se poate combina perfect cu un picnic, în timp ce priviți spre ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Ca un refugiu ceresc, Playa Ángel din Manzanillo își întâmpină oaspeții cu valuri blânde. Țărmul luminos și atmosfera relaxată vă invită la o zi fără griji lângă apă. Un loc minunat pentru a pune pur și simplu picioarele sus și a evada din viața de zi cu zi.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Caracterizată prin pietricele mici, Playa Las Piedritas din Manzanillo oferă o imagine de coastă fascinantă. Această plajă ușor diferită te invită să cauți scoici și să simți apa curată pe picioare. Pantofii de apă pot fi utili aici pentru a te bucura pe deplin de plimbarea pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Centru cultural într-o fostă biserică în Manzanillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Litere uriașe pe deal cu vedere spre golful Manzanillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Barco Piloto",
+                  "text": "Barcă pilot păstrată din anii 1920 în Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Punct de belvedere cu vedere panoramică asupra orașului și golfului.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Belvedere cu o cruce mare pe deal, cu vedere spre Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Belvederea Olimpo cu apusuri spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Pez Vela",
+                  "text": "Sculptură uriașă de pește-spadă simbolizând tradiția pescuitului.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Brisas Beach",
+                  "text": "Gentle sea breezes and soft sand define the image of Playa Las Brisas in Manzanillo. This expansive stretch of beach is a wonderful place to let your thoughts wander during a walk or to cool off in the sea. Those looking to end their day by the water will find a stunning backdrop for the sunset here.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "Iguana sanctuary with free-roaming reptiles in Manzanillo.",
+                  "category": "family",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Quirky museum of oddities and curiosities.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "San Pedrito Beach",
+                  "text": "Playa San Pedrito presents itself as a cozy coastal spot in the heart of Manzanillo. Families and locals alike appreciate the beach for its relaxed atmosphere and easy accessibility. It is a good idea to pack some snacks and spend the day enjoying the view over the open water.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "Situated a bit more out of the way, Playa Las Coloradas in Manzanillo exudes a touch of adventure. The natural surroundings invite you to escape the urban bustle and discover the raw beauty of the coast. A visit to this beach promises quiet hours, making it perfect to bring along a good book.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "Translated as \"Gate to Heaven,\" this beach in Manzanillo lives up to its name with a fascinating backdrop. Visitors can look forward to magnificent views over the endless sea. Those wishing to absorb the magical mood in complete tranquility should take a late afternoon stroll on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "Playa El Majo is an enchanting retreat on the coast of Manzanillo, ideal for sun-seeking vacationers. The beach stands out with its laid-back atmosphere and invites you to relax while watching the waves. A blanket and a picnic basket make the perfect companions for a leisurely afternoon by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "Tucked away in Manzanillo, Playa El Viejo offers a rustic and tranquil environment by the ocean. The stretch of coastline primarily attracts visitors who appreciate nature and wish to avoid large crowds. It is the perfect place to recharge your energy during a long walk while breathing in the salty air.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "At Valle Dorado Beach in Manzanillo, fine sand and the glittering sea come together beautifully. This delightful stretch of coastline offers excellent opportunities to soak up some sun or engage in playful beach activities. On warm summer days, bringing your own umbrella for some shade is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Playa Ventanas in Manzanillo is a fabulous spot to let your soul unwind by the Pacific Ocean. The beach tempts visitors with an idyllic scene that is perfect for long rounds of walking by the water. Those seeking tranquility will find a wonderfully empty shore here, especially in the morning.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "With its resounding name, Playa del Corsario in Manzanillo attracts beachgoers and those seeking relaxation. This stretch of coast offers plenty of space for laid-back sunbathing and building sandcastles. A visit here is perfectly paired with a picnic while keeping your eyes on the vast ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Like a heavenly refuge, Playa Ángel in Manzanillo welcomes its guests with gentle waves. The bright shore and relaxed atmosphere invite you to enjoy a carefree day by the water. It is a wonderful spot to simply kick back, put your feet up, and escape everyday life.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Characterized by small pebbles and stones, Playa Las Piedritas in Manzanillo offers a captivating coastal scene. This slightly different beach invites you to search for shells and feel the clear water on your feet. Wearing water shoes can be quite helpful here to fully enjoy your walk along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Cultural center housed in a former church in Manzanillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Giant letters on the hillside overlooking Manzanillo Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Piloto Boat",
+                  "text": "Preserved pilot boat from the 1920s in Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Lookout point with panoramic views of the city and bay.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Hilltop cross viewpoint overlooking the Pacific Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Olimpo viewpoint with spectacular sunsets.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Giant Sailfish Sculpture",
+                  "text": "Giant sailfish sculpture symbolizing the fishing heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-12",
     coords: [-77.108, 20.343],
@@ -2726,7 +3455,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Das Kulturhaus der Stadt Placetas.",
+                  "text": "Kulturhaus mit lokalen Kunstausstellungen in einem Kolonialgebäude.",
                   "category": "cultural",
                   "coords": [
                         -79.654013,
@@ -2755,7 +3484,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Placetas városának művelődési háza.",
+                  "text": "Kulturház helyi művészeti kiállításokkal egy gyarmati épületben.",
                   "category": "cultural",
                   "coords": [
                         -79.654013,
@@ -2784,7 +3513,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Casa de cultură din orașul Placetas.",
+                  "text": "Casă de cultură cu expoziții de artă locală într-o clădire colonială.",
                   "category": "cultural",
                   "coords": [
                         -79.654013,
@@ -2813,7 +3542,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "The cultural house of the city of Placetas.",
+                  "text": "Cultural center hosting local art exhibitions in a colonial building.",
                   "category": "cultural",
                   "coords": [
                         -79.654013,
@@ -3086,7 +3815,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Municipal General de Cabaiguán",
-                  "text": "Das städtische Museum von Cabaiguán mit regionalen Exponaten.",
+                  "text": "Städtisches Museum mit Exponaten zur Geschichte von Cabaiguán.",
                   "category": "museum",
                   "coords": [
                         -79.503744,
@@ -3104,7 +3833,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de Faustino Pérez",
-                  "text": "Ein Denkmal für den Revolutionär Faustino Pérez in Cabaiguán.",
+                  "text": "Denkmal zu Ehren des Revolutionärs Faustino Pérez auf dem Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         -79.499787,
@@ -3115,7 +3844,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Municipal General de Cabaiguán",
-                  "text": "Cabaiguán városi múzeuma helyi kiállítási tárgyakkal.",
+                  "text": "Városi múzeum Cabaiguán történetét bemutató tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -79.503744,
@@ -3133,7 +3862,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de Faustino Pérez",
-                  "text": "Faustino Pérez forradalmár emlékműve Cabaiguánban.",
+                  "text": "Faustino Pérez forradalmár emlékműve a főtéren.",
                   "category": "historical",
                   "coords": [
                         -79.499787,
@@ -3144,7 +3873,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Municipal General de Cabaiguán",
-                  "text": "Muzeul municipal din Cabaiguán, cu exponate regionale.",
+                  "text": "Muzeu municipal cu exponate despre istoria orașului Cabaiguán.",
                   "category": "museum",
                   "coords": [
                         -79.503744,
@@ -3162,7 +3891,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de Faustino Pérez",
-                  "text": "Un monument dedicat revoluționarului Faustino Pérez în Cabaiguán.",
+                  "text": "Monument al revoluționarului Faustino Pérez în piața centrală.",
                   "category": "historical",
                   "coords": [
                         -79.499787,
@@ -3173,7 +3902,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Municipal General de Cabaiguán",
-                  "text": "The municipal museum of Cabaiguán featuring regional exhibits.",
+                  "text": "Municipal museum displaying local history of Cabaiguán.",
                   "category": "museum",
                   "coords": [
                         -79.503744,
@@ -3191,7 +3920,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de Faustino Pérez",
-                  "text": "A monument to the revolutionary Faustino Pérez in Cabaiguán.",
+                  "text": "Monument to revolutionary Faustino Pérez in the main square.",
                   "category": "historical",
                   "coords": [
                         -79.499787,
@@ -3914,7 +4643,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Casa de Cultura Rubén Martínez Villena",
-                  "text": "Ein nach Rubén Martínez Villena benanntes Kulturhaus in Urbano Noris.",
+                  "text": "Kulturzentrum benannt nach dem Dichter Rubén Martínez Villena in einem restaurierten Herrenhaus.",
                   "category": "cultural",
                   "coords": [
                         -76.133161,
@@ -3925,7 +4654,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Casa de Cultura Rubén Martínez Villena",
-                  "text": "Rubén Martínez Villenáról elnevezett művelődési ház Urbano Norisban.",
+                  "text": "Rubén Martínez Villena költőről elnevezett kulturális központ egy felújított kúriában.",
                   "category": "cultural",
                   "coords": [
                         -76.133161,
@@ -3936,7 +4665,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa de Cultura Rubén Martínez Villena",
-                  "text": "Casa de cultură Rubén Martínez Villena din Urbano Noris.",
+                  "text": "Centru cultural numit după poetul Rubén Martínez Villena într-un conac restaurat.",
                   "category": "cultural",
                   "coords": [
                         -76.133161,
@@ -3947,7 +4676,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Casa de Cultura Rubén Martínez Villena",
-                  "text": "The Rubén Martínez Villena cultural house in Urbano Noris.",
+                  "text": "Cultural center named after poet Rubén Martínez Villena in a restored mansion.",
                   "category": "cultural",
                   "coords": [
                         -76.133161,
@@ -4634,7 +5363,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Anfiteatro",
-                  "text": "Ein Amphitheater in Jagüey Grande für Veranstaltungen im Freien.",
+                  "text": "Freilicht-Amphitheater für Konzerte und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -81.129299,
@@ -4643,7 +5372,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Ceiba 300 años",
-                  "text": "Ein über 300 Jahre alter Ceiba-Baum in Jagüey Grande.",
+                  "text": "300 Jahre alter Ceiba-Baum auf dem Stadtplatz von Grande.",
                   "category": "landmark",
                   "coords": [
                         -81.13737,
@@ -4652,7 +5381,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Rolando Tomás Escardó",
-                  "text": "Ein Kulturzentrum in Jagüey Grande, benannt nach Rolando Tomás Escardó.",
+                  "text": "Kulturhaus mit Bezug zum Musiker Rolando Tomás Escardó in einem historischen Gebäude.",
                   "category": "cultural",
                   "coords": [
                         -81.127968,
@@ -4672,7 +5401,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Anfiteatro",
-                  "text": "Szabadtéri rendezvényeknek otthont adó amfiteátrum Jagüey Grandéban.",
+                  "text": "Szabadtéri amfiteátrum koncertek és rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         -81.129299,
@@ -4681,7 +5410,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Ceiba 300 años",
-                  "text": "Egy több mint 300 éves ceiba-fa Jagüey Grandéban.",
+                  "text": "300 éves ceiba fa Grande főterén.",
                   "category": "landmark",
                   "coords": [
                         -81.13737,
@@ -4690,7 +5419,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Rolando Tomás Escardó",
-                  "text": "Rolando Tomás Escardóról elnevezett kulturális központ Jagüey Grandéban.",
+                  "text": "Rolando Tomás Escardó zenészről elnevezett kultúrház egy történelmi épületben.",
                   "category": "cultural",
                   "coords": [
                         -81.127968,
@@ -4710,7 +5439,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Anfiteatro",
-                  "text": "Un amfiteatru în Jagüey Grande destinat evenimentelor în aer liber.",
+                  "text": "Amfiteatru în aer liber pentru concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -81.129299,
@@ -4719,7 +5448,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Ceiba 300 años",
-                  "text": "Un arbore ceiba vechi de peste 300 de ani în Jagüey Grande.",
+                  "text": "Copac ceiba de 300 de ani în piața orașului Grande.",
                   "category": "landmark",
                   "coords": [
                         -81.13737,
@@ -4728,7 +5457,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Rolando Tomás Escardó",
-                  "text": "Centrul cultural Rolando Tomás Escardó din Jagüey Grande.",
+                  "text": "Casă de cultură dedicată muzicianului Rolando Tomás Escardó într-o clădire istorică.",
                   "category": "cultural",
                   "coords": [
                         -81.127968,
@@ -4748,7 +5477,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Anfiteatro",
-                  "text": "An amphitheatre in Jagüey Grande for outdoor events.",
+                  "text": "Open-air amphitheater for concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -81.129299,
@@ -4757,7 +5486,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Ceiba 300 años",
-                  "text": "A ceiba tree over 300 years old in Jagüey Grande.",
+                  "text": "300-year-old ceiba tree in the town square of Grande.",
                   "category": "landmark",
                   "coords": [
                         -81.13737,
@@ -4766,7 +5495,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Rolando Tomás Escardó",
-                  "text": "The Rolando Tomás Escardó cultural centre in Jagüey Grande.",
+                  "text": "Cultural house dedicated to musician Rolando Tomás Escardó in a historic building.",
                   "category": "cultural",
                   "coords": [
                         -81.127968,
@@ -4883,7 +5612,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Raúl Gómez García",
-                  "text": "Das Raúl Gómez García Theater ist eine wichtige kulturelle Einrichtung in Cruces.",
+                  "text": "Neoklassizistisches Theater benannt nach dem Dichter Raúl Gómez García.",
                   "category": "cultural",
                   "coords": [
                         -80.273468,
@@ -4894,7 +5623,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Raúl Gómez García",
-                  "text": "A Raúl Gómez García Színház fontos kulturális intézmény Cruces városában.",
+                  "text": "Raúl Gómez García költőről elnevezett neoklasszicista színház.",
                   "category": "cultural",
                   "coords": [
                         -80.273468,
@@ -4905,7 +5634,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Raúl Gómez García",
-                  "text": "Teatrul Raúl Gómez García este o instituție culturală importantă din Cruces.",
+                  "text": "Teatru neoclasic numit după poetul Raúl Gómez García.",
                   "category": "cultural",
                   "coords": [
                         -80.273468,
@@ -4916,7 +5645,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Raúl Gómez García",
-                  "text": "The Raúl Gómez García Theatre is a key cultural institution in Cruces.",
+                  "text": "Neoclassical theater named after poet Raúl Gómez García.",
                   "category": "cultural",
                   "coords": [
                         -80.273468,
@@ -4976,7 +5705,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Napoleón",
-                  "text": "Ein Museum in Cumanayagua, das der napoleonischen Geschichte gewidmet ist.",
+                  "text": "Museum mit Erinnerungsstücken an Napoleon Bonaparte.",
                   "category": "museum",
                   "coords": [
                         -80.201441,
@@ -5005,7 +5734,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Napoleón",
-                  "text": "Napóleoni történelemmel foglalkozó múzeum Cumanayagua városában.",
+                  "text": "Napóleon Bonaparte emléktárgyait bemutató múzeum.",
                   "category": "museum",
                   "coords": [
                         -80.201441,
@@ -5034,7 +5763,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Napoleón",
-                  "text": "Un muzeu din Cumanayagua dedicat istoriei napoleoniene.",
+                  "text": "Muzeu cu obiecte memoriale legate de Napoleon Bonaparte.",
                   "category": "museum",
                   "coords": [
                         -80.201441,
@@ -5063,7 +5792,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Napoleón",
-                  "text": "A museum in Cumanayagua dedicated to Napoleonic history.",
+                  "text": "Museum dedicated to Napoleon Bonaparte with memorabilia.",
                   "category": "museum",
                   "coords": [
                         -80.201441,
@@ -5829,7 +6558,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Castillo de Rubens",
-                  "text": "Eine historische Festungsanlage in der Stadt Mariel.",
+                  "text": "Schlossartige Villa aus dem 19. Jahrhundert mit Blick auf die Bucht von Mariel.",
                   "category": "castle",
                   "coords": [
                         -82.748823,
@@ -5849,7 +6578,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Castillo de Rubens",
-                  "text": "Történelmi erődítmény Mariel városában.",
+                  "text": "19. századi kastély stílusú villa a Mariel-öbölre néző kilátással.",
                   "category": "castle",
                   "coords": [
                         -82.748823,
@@ -5869,7 +6598,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castillo de Rubens",
-                  "text": "O fortificație istorică situată în orașul Mariel.",
+                  "text": "Vilă în stil castel din secolul XIX cu vedere spre golful Mariel.",
                   "category": "castle",
                   "coords": [
                         -82.748823,
@@ -5889,7 +6618,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Castillo de Rubens",
-                  "text": "A historic fortification located in the city of Mariel.",
+                  "text": "19th-century castle-style mansion overlooking Mariel Bay.",
                   "category": "castle",
                   "coords": [
                         -82.748823,
@@ -6051,7 +6780,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Ein Zentrum für Kunst und Kultur in Perico.",
+                  "text": "Kulturzentrum in einem ehemaligen Kolonialhaus in Perico.",
                   "category": "cultural",
                   "coords": [
                         -81.019858,
@@ -6062,7 +6791,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Művészeti és kulturális központ Perico városában.",
+                  "text": "Kulturális központ egy egykori gyarmati házban Pericóban.",
                   "category": "cultural",
                   "coords": [
                         -81.019858,
@@ -6073,7 +6802,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Un centru pentru artă și cultură în Perico.",
+                  "text": "Centru cultural într-o fostă casă colonială în Perico.",
                   "category": "cultural",
                   "coords": [
                         -81.019858,
@@ -6084,7 +6813,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "A center for arts and culture in Perico.",
+                  "text": "Cultural center in a former colonial house in Perico.",
                   "category": "cultural",
                   "coords": [
                         -81.019858,
@@ -6190,7 +6919,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maceo",
-                  "text": "Ein Denkmal zu Ehren von Maceo in Quemado de Güines.",
+                  "text": "Denkmal für General Antonio Maceo in De Güines.",
                   "category": "historical",
                   "coords": [
                         -80.251007,
@@ -6201,7 +6930,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maceo",
-                  "text": "Maceo tiszteletére emelt emlékmű Quemado de Güines városában.",
+                  "text": "Antonio Maceo tábornok emlékműve De Güinesben.",
                   "category": "historical",
                   "coords": [
                         -80.251007,
@@ -6212,7 +6941,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maceo",
-                  "text": "Un monument dedicat lui Maceo în Quemado de Güines.",
+                  "text": "Monument al generalului Antonio Maceo în De Güines.",
                   "category": "historical",
                   "coords": [
                         -80.251007,
@@ -6223,7 +6952,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maceo",
-                  "text": "A monument dedicated to Maceo in Quemado de Güines.",
+                  "text": "Monument to General Antonio Maceo in De Güines.",
                   "category": "historical",
                   "coords": [
                         -80.251007,

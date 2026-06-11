@@ -97,7 +97,7 @@ export const barbadosEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Richard Stoute Amphitheatre",
-                  "text": "Theater in Warrens.",
+                  "text": "Freilufttheater benannt nach dem calypso-Sänger Richard Stoute im Geschäftsviertel Warrens.",
                   "category": "cultural",
                   "coords": [
                         -59.603221,
@@ -106,7 +106,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Touristenattraktion in Warrens.",
+                  "text": "Historisches Haus und Geburtsort von Sir Grantley Adams, erstem Premierminister von Barbados.",
                   "category": "landmark",
                   "coords": [
                         -59.607209,
@@ -115,7 +115,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Welches Great House",
-                  "text": "Herrenhaus in Warrens.",
+                  "text": "Historisches Plantagenhaus mit restaurierten Innenräumen und Gärten.",
                   "category": "historical",
                   "coords": [
                         -59.614306,
@@ -124,7 +124,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Cane Garden Plantation",
-                  "text": "Alte Windmühle in Warrens.",
+                  "text": "Ehemalige Zuckerplantage mit Herrenhaus und weitläufigen Gartenanlagen.",
                   "category": "landmark",
                   "coords": [
                         -59.593178,
@@ -133,7 +133,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Canewood Plantation",
-                  "text": "Alte Windmühle in Warrens.",
+                  "text": "Ehemalige Zuckerplantage mit tropischen Gärten und historischem Herrenhaus.",
                   "category": "landmark",
                   "coords": [
                         -59.593552,
@@ -142,7 +142,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Moravian Church",
-                  "text": "Herrnhuter Kirche in Warrens.",
+                  "text": "Moravianische Kirche aus dem 19. Jahrhundert mit buntem Glasfenster und Glockenturm.",
                   "category": "religious",
                   "coords": [
                         -59.60046,
@@ -153,7 +153,7 @@ export const barbadosEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Richard Stoute Amphitheatre",
-                  "text": "Színház Warrensben.",
+                  "text": "Szabadtéri színház, Richard Stoute calypso-énekesről elnevezve, a Warrens üzleti negyedben.",
                   "category": "cultural",
                   "coords": [
                         -59.603221,
@@ -162,7 +162,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Turistalátványosság Warrensben.",
+                  "text": "Történelmi ház és Sir Grantley Adams, Barbados első miniszterelnökének szülőhelye.",
                   "category": "landmark",
                   "coords": [
                         -59.607209,
@@ -171,7 +171,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Welches Great House",
-                  "text": "Udvarház Warrensben.",
+                  "text": "Történelmi ültetvényesi ház felújított belső terekkel és kertekkel.",
                   "category": "historical",
                   "coords": [
                         -59.614306,
@@ -180,7 +180,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Cane Garden Plantation",
-                  "text": "Régi szélmalom Warrensben.",
+                  "text": "Egykori cukorültetvény kúriával és kiterjedt kerttel.",
                   "category": "landmark",
                   "coords": [
                         -59.593178,
@@ -189,7 +189,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Canewood Plantation",
-                  "text": "Régi szélmalom Warrensben.",
+                  "text": "Egykori cukorültetvény trópusi kertekkel és történelmi kúriával.",
                   "category": "landmark",
                   "coords": [
                         -59.593552,
@@ -198,7 +198,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Moravian Church",
-                  "text": "Herrnhuti templom Warrensben.",
+                  "text": "19. századi morva templom színes üvegablakkal és harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         -59.60046,
@@ -209,7 +209,7 @@ export const barbadosEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Richard Stoute Amphitheatre",
-                  "text": "Teatru în Warrens.",
+                  "text": "Amfiteatru în aer liber numit după cântărețul de calypso Richard Stoute în districtul de afaceri Warrens.",
                   "category": "cultural",
                   "coords": [
                         -59.603221,
@@ -218,7 +218,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Atracție turistică în Warrens.",
+                  "text": "Casă istorică și locul nașterii lui Sir Grantley Adams, primul premier al Barbadosului.",
                   "category": "landmark",
                   "coords": [
                         -59.607209,
@@ -227,7 +227,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Welches Great House",
-                  "text": "Conac în Warrens.",
+                  "text": "Conac istoric de plantație cu interioare restaurate și grădini.",
                   "category": "historical",
                   "coords": [
                         -59.614306,
@@ -236,7 +236,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Cane Garden Plantation",
-                  "text": "Moară de vânt veche în Warrens.",
+                  "text": "Fostă plantație de zahăr cu conac și grădini întinse.",
                   "category": "landmark",
                   "coords": [
                         -59.593178,
@@ -245,7 +245,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Canewood Plantation",
-                  "text": "Moară de vânt veche în Warrens.",
+                  "text": "Fostă plantație de zahăr cu grădini tropicale și conac istoric.",
                   "category": "landmark",
                   "coords": [
                         -59.593552,
@@ -254,7 +254,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Moravian Church",
-                  "text": "Biserică moravă în Warrens.",
+                  "text": "Biserică moraviană din secolul al XIX-lea cu vitralii și turn clopotniță.",
                   "category": "religious",
                   "coords": [
                         -59.60046,
@@ -265,7 +265,7 @@ export const barbadosEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Richard Stoute Amphitheatre",
-                  "text": "Theatre in Warrens.",
+                  "text": "Open-air amphitheatre named after calypso singer Richard Stoute in the Warrens Business District.",
                   "category": "cultural",
                   "coords": [
                         -59.603221,
@@ -274,7 +274,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Tourist attraction in Warrens.",
+                  "text": "Historic house and birthplace of Sir Grantley Adams, first Premier of Barbados.",
                   "category": "landmark",
                   "coords": [
                         -59.607209,
@@ -283,7 +283,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Welches Great House",
-                  "text": "Manor in Warrens.",
+                  "text": "Historic plantation great house with restored interiors and gardens.",
                   "category": "historical",
                   "coords": [
                         -59.614306,
@@ -292,7 +292,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Cane Garden Plantation",
-                  "text": "Old windmill in Warrens.",
+                  "text": "Former sugar plantation with a great house and extensive gardens.",
                   "category": "landmark",
                   "coords": [
                         -59.593178,
@@ -301,7 +301,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Canewood Plantation",
-                  "text": "Old windmill in Warrens.",
+                  "text": "Former sugar plantation with tropical gardens and a historic great house.",
                   "category": "landmark",
                   "coords": [
                         -59.593552,
@@ -310,7 +310,7 @@ export const barbadosEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Moravian Church",
-                  "text": "Moravian church in Warrens.",
+                  "text": "19th-century Moravian church with stained glass and a bell tower.",
                   "category": "religious",
                   "coords": [
                         -59.60046,

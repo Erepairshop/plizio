@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraThailandReliefV2: POI[] = [
   {
-    id: "doi-pha-hom-pok-mountain-relief-v2",
+    id: "doi-pha-hom-pok-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doi San Ju",
+                  "text": "Ein markanter Berggipfel im Doi-Pha-Hom-Pok-Massiv mit Panoramablick auf die thailändisch-birmanische Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        99.096041,
+                        20.09045
+                  ]
+            },
+            {
+                  "name": "San Chu View Point",
+                  "text": "Ein Aussichtspunkt mit Blick auf die zerklüfteten, bewaldeten Rücken des Nationalparks Doi Pha Hom Pok.",
+                  "category": "natural",
+                  "coords": [
+                        99.127552,
+                        20.11294
+                  ]
+            },
+            {
+                  "name": "Doi Pa Kha",
+                  "text": "Ein hochgelegener Gipfel im entlegenen nördlichen Hochland, der Teil des Doi-Pha-Hom-Pok-Massivs ist.",
+                  "category": "natural",
+                  "coords": [
+                        99.193973,
+                        20.076494
+                  ]
+            },
+            {
+                  "name": "Mai Sap Chue Reservoir Viewpoint",
+                  "text": "Ein ruhiger Beobachtungspunkt mit Blick auf das stille Wasser des Mai-Sap-Chue-Stausees.",
+                  "category": "natural",
+                  "coords": [
+                        99.099823,
+                        19.981967
+                  ]
+            },
+            {
+                  "name": "Wat Tam Huay Bon Forest Monastery",
+                  "text": "Ein friedliches buddhistisches Waldkloster in den Bergwäldern in der Nähe von Doi Pha Hom Pok.",
+                  "category": "landmark",
+                  "coords": [
+                        99.184858,
+                        19.983488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doi San Ju",
+                  "text": "A Doi Pha Hom Pok-hegység egyik kiemelkedő csúcsa, panorámás kilátással a thai-mianmari határra.",
+                  "category": "natural",
+                  "coords": [
+                        99.096041,
+                        20.09045
+                  ]
+            },
+            {
+                  "name": "San Chu View Point",
+                  "text": "Panorámás kilátóhely, ahonnan a Doi Pha Hom Pok Nemzeti Park erdős gerinceire nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        99.127552,
+                        20.11294
+                  ]
+            },
+            {
+                  "name": "Doi Pa Kha",
+                  "text": "Magasan fekvő csúcs a távoli északi felföldön, a Doi Pha Hom Pok-hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        99.193973,
+                        20.076494
+                  ]
+            },
+            {
+                  "name": "Mai Sap Chue Reservoir Viewpoint",
+                  "text": "Csendes megfigyelőhely, ahonnan kilátás nyílik a Mai Sap Chue víztározó nyugodt vizére.",
+                  "category": "natural",
+                  "coords": [
+                        99.099823,
+                        19.981967
+                  ]
+            },
+            {
+                  "name": "Wat Tam Huay Bon Forest Monastery",
+                  "text": "Nyugodt buddhista erdei kolostor a Doi Pha Hom Pok közeli hegyi erdőkben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.184858,
+                        19.983488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doi San Ju",
+                  "text": "Un vârf montan proeminent în masivul Doi Pha Hom Pok, oferind vederi panoramice asupra graniței thailandezo-birmane.",
+                  "category": "natural",
+                  "coords": [
+                        99.096041,
+                        20.09045
+                  ]
+            },
+            {
+                  "name": "San Chu View Point",
+                  "text": "Un punct de belvedere pitoresc cu vedere la crestele împădurite ale Parcului Național Doi Pha Hom Pok.",
+                  "category": "natural",
+                  "coords": [
+                        99.127552,
+                        20.11294
+                  ]
+            },
+            {
+                  "name": "Doi Pa Kha",
+                  "text": "Un vârf de mare altitudine în zonele muntoase îndepărtate din nord, făcând parte din masivul Doi Pha Hom Pok.",
+                  "category": "natural",
+                  "coords": [
+                        99.193973,
+                        20.076494
+                  ]
+            },
+            {
+                  "name": "Mai Sap Chue Reservoir Viewpoint",
+                  "text": "Un punct de observație liniștit care oferă vedere spre apele imobile ale rezervorului Mai Sap Chue.",
+                  "category": "natural",
+                  "coords": [
+                        99.099823,
+                        19.981967
+                  ]
+            },
+            {
+                  "name": "Wat Tam Huay Bon Forest Monastery",
+                  "text": "O mănăstire budistă de pădure liniștită, cuibărită în pădurile montane de lângă Doi Pha Hom Pok.",
+                  "category": "landmark",
+                  "coords": [
+                        99.184858,
+                        19.983488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doi San Ju",
+                  "text": "A prominent mountain peak in the Doi Pha Hom Pok range offering panoramic views of the Thai-Burmese border.",
+                  "category": "natural",
+                  "coords": [
+                        99.096041,
+                        20.09045
+                  ]
+            },
+            {
+                  "name": "San Chu View Point",
+                  "text": "A scenic viewpoint overlooking the rugged, forested ridges of the Doi Pha Hom Pok National Park.",
+                  "category": "natural",
+                  "coords": [
+                        99.127552,
+                        20.11294
+                  ]
+            },
+            {
+                  "name": "Doi Pa Kha",
+                  "text": "A high-altitude peak in the remote northern highlands, part of the Doi Pha Hom Pok mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        99.193973,
+                        20.076494
+                  ]
+            },
+            {
+                  "name": "Mai Sap Chue Reservoir Viewpoint",
+                  "text": "A quiet observation spot offering views over the still waters of the Mai Sap Chue reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        99.099823,
+                        19.981967
+                  ]
+            },
+            {
+                  "name": "Wat Tam Huay Bon Forest Monastery",
+                  "text": "A tranquil Buddhist forest monastery nestled in the mountain woods near Doi Pha Hom Pok.",
+                  "category": "landmark",
+                  "coords": [
+                        99.184858,
+                        19.983488
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TH-50",
     coords: [99.146, 20.057],
@@ -97,7 +286,1132 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une chaîne de montagnes qui forme la ligne de partage des eaux entre le bassin du Chao Phraya et le plateau d'Isan, constituant une importante ligne de démarcation géographique.", "Situé sur le territoire du Royaume de Thaïlande.", "Influencé par le climat de mousson de l'Asie du Sud-Est."],
     }, image: "/poi-images/phetchabun-mountains-relief-v2.webp"},
   {
-    id: "ko-chang-coastline-relief-v2",
+    id: "ko-chang-coastline-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Half Moon Beach",
+                  "text": "Eine abgelegene, sichelförmige Sandbucht, die sich ideal für ruhiges Schwimmen und Entspannung eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.270213,
+                        12.144125
+                  ]
+            },
+            {
+                  "name": "Crocodile & Snake Show",
+                  "text": "Eine lebende Tierattraktion, die spannende tägliche Vorstellungen mit in Gefangenschaft gehaltenen Krokodilen und Schlangen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.280908,
+                        12.078044
+                  ]
+            },
+            {
+                  "name": "Coconut Beach Resort",
+                  "text": "Ein tropisches Küstenresort, das sich inmitten von Kokospalmen direkt am Sandstrand befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.281699,
+                        12.067489
+                  ]
+            },
+            {
+                  "name": "Paradise Resort",
+                  "text": "Ein Strandferienkomplex, der direkten Zugang zum Ozean und zu Freizeiteinrichtungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.283152,
+                        12.066757
+                  ]
+            },
+            {
+                  "name": "Klong Prao Resort",
+                  "text": "Eine Ferienanlage an der Küste mit direktem Zugang zum Sandstrand der Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        102.287793,
+                        12.061264
+                  ]
+            },
+            {
+                  "name": "Ao Khlong Prao",
+                  "text": "Eine breite, malerische Bucht auf Ko Chang, die für ihren ausgedehnten Sandstrand und das ruhige Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.282731,
+                        12.054752
+                  ]
+            },
+            {
+                  "name": "Chai Chet Resort",
+                  "text": "Ein Strandresort auf einem felsigen Kap mit Blick auf das tropische Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        102.27941,
+                        12.066783
+                  ]
+            },
+            {
+                  "name": "Tree Top Adventure Park",
+                  "text": "Ein Outdoor-Freizeitpark mit Seilgärten und Seilrutschen in den Baumkronen des Dschungels.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299046,
+                        11.986806
+                  ]
+            },
+            {
+                  "name": "Rock Of Monkey",
+                  "text": "Ein felsiger Küstenvorsprung, der häufig von einheimischen Makaken besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        102.326359,
+                        12.048194
+                  ]
+            },
+            {
+                  "name": "Lighthouse Scenic Point observation tower (Sylvan Resort)",
+                  "text": "Ein hoher Aussichtsturm an der Küste mit einem weiten Panoramablick über den Golf von Thailand.",
+                  "category": "natural",
+                  "coords": [
+                        102.291517,
+                        12.016568
+                  ]
+            },
+            {
+                  "name": "Ban Camp Chang",
+                  "text": "Ein tropischer Zoo und ein Camp, das Dschungel-Trekking auf dem Rücken asiatischer Elefanten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298709,
+                        12.04509
+                  ]
+            },
+            {
+                  "name": "Muay Thai Arena",
+                  "text": "Ein lokales Sporttheater, in dem traditionelle thailändische Kickboxkämpfe stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        102.293193,
+                        12.058025
+                  ]
+            },
+            {
+                  "name": "Elephant Camp",
+                  "text": "Eine Lichtung im Dschungel, auf der Besucher mit lokalen Elefanten interagieren und sie füttern können.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299629,
+                        12.05659
+                  ]
+            },
+            {
+                  "name": "Ban Changthai",
+                  "text": "Ein im Regenwald gelegenes Schutzgebiet, das der Pflege und Interaktion mit thailändischen Elefanten gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        102.300032,
+                        12.053402
+                  ]
+            },
+            {
+                  "name": "Thanmayom Waterfall",
+                  "text": "Ein mehrstufiger Wasserfall, der in klare, von dichtem Regenwald umgebene Becken stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.367338,
+                        12.076301
+                  ]
+            },
+            {
+                  "name": "Rasta View Point",
+                  "text": "Ein in Reggae-Farben dekorierter Aussichtspunkt auf einem Hügel mit weitem Blick auf die Küstenbuchten der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        102.31758,
+                        11.975163
+                  ]
+            },
+            {
+                  "name": "White Sand Beach",
+                  "text": "Ein lebhafter Küstenabschnitt mit feinem, hellem Sand und Palmen im Hintergrund.",
+                  "category": "recreational",
+                  "coords": [
+                        102.267109,
+                        12.112798
+                  ]
+            },
+            {
+                  "name": "Chai Chet Beach",
+                  "text": "Ein tropischer Sandstrand, der zu ruhigem Wasser hinabführt und von felsigen Landzungen begrenzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        102.286058,
+                        12.062456
+                  ]
+            },
+            {
+                  "name": "Bhu Tarn Koh Chang Resort",
+                  "text": "Ein tropisches Inselresort mit Unterkünften, die um eine üppige, wassergefüllte Lagune herum gebaut sind.",
+                  "category": "recreational",
+                  "coords": [
+                        102.289537,
+                        12.062854
+                  ]
+            },
+            {
+                  "name": "Bailan Beach",
+                  "text": "Ein ruhiger Küstenstreifen, der sich durch seine felsige Küstenlinie und eine entspannte Atmosphäre auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298116,
+                        11.993262
+                  ]
+            },
+            {
+                  "name": "Kai Bae Beach",
+                  "text": "Ein schmaler Sandstrand, der von Kokospalmen gesäumt ist und den Blick auf kleinere vorgelagerte Inseln freigibt.",
+                  "category": "recreational",
+                  "coords": [
+                        102.290594,
+                        12.024102
+                  ]
+            },
+            {
+                  "name": "Klong Prao Beach",
+                  "text": "Eine lange, geschwungene Sandküste, die durch eine Flussmündung geteilt wird, die vom Dschungel ins Meer fließt.",
+                  "category": "recreational",
+                  "coords": [
+                        102.293021,
+                        12.046276
+                  ]
+            },
+            {
+                  "name": "The Galaxy",
+                  "text": "Eine ungewöhnliche Küstenattraktion, die sich im gewaltigen Rumpf eines verlassenen Kreuzfahrtschiffes am Strand befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.333205,
+                        11.976301
+                  ]
+            },
+            {
+                  "name": "Bangbao Beach - Klong Kloi Beach",
+                  "text": "Ein tropischer Strand in einer geschützten Bucht, beschattet von dichten Bäumen in der Nähe eines traditionellen Fischerdorfes.",
+                  "category": "recreational",
+                  "coords": [
+                        102.325002,
+                        11.974281
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "Ein abgelegener Sandstrand, der eine friedliche Umgebung abseits der belebten Inselzentren bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.316556,
+                        11.974134
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Son",
+                  "text": "Ein ruhiger buddhistischer Tempelkomplex mit traditioneller thailändischer Architektur inmitten eines Wäldchens.",
+                  "category": "landmark",
+                  "coords": [
+                        102.27141,
+                        12.133602
+                  ]
+            },
+            {
+                  "name": "Radonezh",
+                  "text": "Eine markante christliche Kirche mit weißer Fassade und goldenen Kuppeln, die sich von der tropischen Vegetation abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.280131,
+                        12.129869
+                  ]
+            },
+            {
+                  "name": "Wat Chao Po Ko Chang",
+                  "text": "Ein farbenfroher buddhistischer Schrein im chinesischen Stil, der dem Schutzgeist der Insel gewidmet und mit verzierten roten Drachen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.275823,
+                        12.140479
+                  ]
+            },
+            {
+                  "name": "Wat Klong Prao",
+                  "text": "Ein klassisches buddhistisches Gotteshaus mit einer hell dekorierten Haupthalle, in der sich die Einheimischen der Insel versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        102.298673,
+                        12.048524
+                  ]
+            },
+            {
+                  "name": "Wat Salak Phet",
+                  "text": "Ein kunstvoller buddhistischer Tempel im südlichen Teil der Insel, der ein Museum mit lokalen historischen Artefakten beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.371784,
+                        12.004679
+                  ]
+            },
+            {
+                  "name": "Klong Prao Night Market",
+                  "text": "Ein abendlicher Open-Air-Markt mit Ständen, an denen frische lokale Meeresfrüchte und traditionelle thailändische Snacks gegrillt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        102.299595,
+                        12.049588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Half Moon Beach",
+                  "text": "Egy eldugott, félhold alakú homokos öböl, amely ideális a csendes úszáshoz és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        102.270213,
+                        12.144125
+                  ]
+            },
+            {
+                  "name": "Crocodile & Snake Show",
+                  "text": "Élőállatos látványosság, amely izgalmas napi bemutatókat kínál fogságban tartott krokodilokkal és kígyókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        102.280908,
+                        12.078044
+                  ]
+            },
+            {
+                  "name": "Coconut Beach Resort",
+                  "text": "Trópusi tengerparti üdülőhely, amely a homokos part közvetlen közelében, kókuszpálmák között fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        102.281699,
+                        12.067489
+                  ]
+            },
+            {
+                  "name": "Paradise Resort",
+                  "text": "Tengerparti nyaralókomplexum, amely közvetlen hozzáférést biztosít az óceánhoz és a rekreációs létesítményekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        102.283152,
+                        12.066757
+                  ]
+            },
+            {
+                  "name": "Klong Prao Resort",
+                  "text": "Tengerparti üdülőkomplexum, amely közvetlen hozzáférést biztosít a sziget homokos partjához.",
+                  "category": "recreational",
+                  "coords": [
+                        102.287793,
+                        12.061264
+                  ]
+            },
+            {
+                  "name": "Ao Khlong Prao",
+                  "text": "Széles, festői öböl Ko Changon, amely kiterjedt homokos strandjáról és nyugodt vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.282731,
+                        12.054752
+                  ]
+            },
+            {
+                  "name": "Chai Chet Resort",
+                  "text": "Trópusi vizekre néző, sziklás fokon elhelyezkedő tengerparti üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        102.27941,
+                        12.066783
+                  ]
+            },
+            {
+                  "name": "Tree Top Adventure Park",
+                  "text": "Szabadtéri kalandpark, amely a dzsungel lombkoronájában felfüggesztett kötélpályákat és drótkötélpályákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299046,
+                        11.986806
+                  ]
+            },
+            {
+                  "name": "Rock Of Monkey",
+                  "text": "Sziklás part menti kiszögellés, amelyet gyakran látogatnak a helyi makákók.",
+                  "category": "landmark",
+                  "coords": [
+                        102.326359,
+                        12.048194
+                  ]
+            },
+            {
+                  "name": "Lighthouse Scenic Point observation tower (Sylvan Resort)",
+                  "text": "Magas parti kilátótorony, ahonnan elsöprő panoráma nyílik a Thai-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        102.291517,
+                        12.016568
+                  ]
+            },
+            {
+                  "name": "Ban Camp Chang",
+                  "text": "Trópusi állatkert és tábor, amely ázsiai elefántok hátán kínál dzsungeltúrákat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298709,
+                        12.04509
+                  ]
+            },
+            {
+                  "name": "Muay Thai Arena",
+                  "text": "Helyi sportaréna, amely hagyományos thai kick-box mérkőzéseknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        102.293193,
+                        12.058025
+                  ]
+            },
+            {
+                  "name": "Elephant Camp",
+                  "text": "Erdei tisztás, ahol a látogatók találkozhatnak és etethetik a helyi elefántokat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299629,
+                        12.05659
+                  ]
+            },
+            {
+                  "name": "Ban Changthai",
+                  "text": "Az esőerdőben megbúvó menedékhely, amely a thai elefántok gondozásának és a velük való interakciónak szenteli magát.",
+                  "category": "recreational",
+                  "coords": [
+                        102.300032,
+                        12.053402
+                  ]
+            },
+            {
+                  "name": "Thanmayom Waterfall",
+                  "text": "Többlépcsős vízesés, amely a sűrű esőerdővel körülvett, kristálytiszta medencékbe zúdul.",
+                  "category": "landmark",
+                  "coords": [
+                        102.367338,
+                        12.076301
+                  ]
+            },
+            {
+                  "name": "Rasta View Point",
+                  "text": "Reggae színekben pompázó hegytetői kilátó, ahonnan lenyűgöző kilátás nyílik a sziget öbleire.",
+                  "category": "natural",
+                  "coords": [
+                        102.31758,
+                        11.975163
+                  ]
+            },
+            {
+                  "name": "White Sand Beach",
+                  "text": "Élénk tengerparti szakasz, amelyet finom, világos homok borít és pálmafák szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        102.267109,
+                        12.112798
+                  ]
+            },
+            {
+                  "name": "Chai Chet Beach",
+                  "text": "Trópusi homokos tengerpart, amely nyugodt vizekhez vezet, sziklás hegyfokokkal határolva.",
+                  "category": "recreational",
+                  "coords": [
+                        102.286058,
+                        12.062456
+                  ]
+            },
+            {
+                  "name": "Bhu Tarn Koh Chang Resort",
+                  "text": "Trópusi szigeti menedékhely, amely egy buja, vízzel teli lagúna köré épült szállásokkal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        102.289537,
+                        12.062854
+                  ]
+            },
+            {
+                  "name": "Bailan Beach",
+                  "text": "Csendes partszakasz, amelyet sziklás partvonal és nyugodt, pihentető légkör jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298116,
+                        11.993262
+                  ]
+            },
+            {
+                  "name": "Kai Bae Beach",
+                  "text": "Keskeny homokos tengerpart, amelyet hajladozó kókuszpálmák szegélyeznek, és a kisebb tengeri szigetekre néz.",
+                  "category": "recreational",
+                  "coords": [
+                        102.290594,
+                        12.024102
+                  ]
+            },
+            {
+                  "name": "Klong Prao Beach",
+                  "text": "Hosszú, íves homokos partvonal, amelyet a dzsungelből a tengerbe ömlő torkolat oszt ketté.",
+                  "category": "recreational",
+                  "coords": [
+                        102.293021,
+                        12.046276
+                  ]
+            },
+            {
+                  "name": "The Galaxy",
+                  "text": "Szokatlan part menti látványosság, amely egy elhagyott tengerjáró hajó hatalmas testében kapott helyet a strandon.",
+                  "category": "landmark",
+                  "coords": [
+                        102.333205,
+                        11.976301
+                  ]
+            },
+            {
+                  "name": "Bangbao Beach - Klong Kloi Beach",
+                  "text": "Trópusi strand egy védett öbölben, sűrű fákkal árnyékolva egy hagyományos halászfalu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        102.325002,
+                        11.974281
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "Félreeső homokos partszakasz, amely békés környezetet kínál a sziget forgalmas központjaitól távol.",
+                  "category": "recreational",
+                  "coords": [
+                        102.316556,
+                        11.974134
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Son",
+                  "text": "Csendes buddhista templomkomplexum, amely a hagyományos thai építészetet mutatja be fák ligetében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.27141,
+                        12.133602
+                  ]
+            },
+            {
+                  "name": "Radonezh",
+                  "text": "Jellegzetes keresztény templom, melynek fehér homlokzata és arany kupolái a trópusi növényzetből emelkednek ki.",
+                  "category": "landmark",
+                  "coords": [
+                        102.280131,
+                        12.129869
+                  ]
+            },
+            {
+                  "name": "Wat Chao Po Ko Chang",
+                  "text": "Élettel teli, kínai stílusú buddhista szentély, amelyet a sziget védőszellemének szenteltek és díszes piros sárkányok jelölnek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.275823,
+                        12.140479
+                  ]
+            },
+            {
+                  "name": "Wat Klong Prao",
+                  "text": "Klasszikus buddhista istentiszteleti helyszín, élénken díszített főcsarnokkal, ahol a helyi szigetlakók gyülekeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.298673,
+                        12.048524
+                  ]
+            },
+            {
+                  "name": "Wat Salak Phet",
+                  "text": "Díszes buddhista templom a sziget déli részén, amely a helyi történelmi leletek múzeumának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.371784,
+                        12.004679
+                  ]
+            },
+            {
+                  "name": "Klong Prao Night Market",
+                  "text": "Szabadtéri esti piac, tele friss helyi tengeri herkentyűket és hagyományos thai rágcsálnivalókat grillező standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        102.299595,
+                        12.049588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Half Moon Beach",
+                  "text": "Un golf izolat, în formă de semilună, cu nisip, ideal pentru înot liniștit și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        102.270213,
+                        12.144125
+                  ]
+            },
+            {
+                  "name": "Crocodile & Snake Show",
+                  "text": "O atracție cu animale vii, care prezintă spectacole zilnice palpitante cu crocodili și șerpi în captivitate.",
+                  "category": "recreational",
+                  "coords": [
+                        102.280908,
+                        12.078044
+                  ]
+            },
+            {
+                  "name": "Coconut Beach Resort",
+                  "text": "Un complex tropical de coastă amplasat printre palmieri de cocos chiar pe țărmul de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        102.281699,
+                        12.067489
+                  ]
+            },
+            {
+                  "name": "Paradise Resort",
+                  "text": "Un complex de vacanță pe malul mării, care oferă acces direct la ocean și facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        102.283152,
+                        12.066757
+                  ]
+            },
+            {
+                  "name": "Klong Prao Resort",
+                  "text": "Un complex de vacanță pe coastă, oferind acces direct la plaja de nisip a insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        102.287793,
+                        12.061264
+                  ]
+            },
+            {
+                  "name": "Ao Khlong Prao",
+                  "text": "Un golf larg și pitoresc pe Ko Chang, cunoscut pentru plaja sa întinsă de nisip și apele liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        102.282731,
+                        12.054752
+                  ]
+            },
+            {
+                  "name": "Chai Chet Resort",
+                  "text": "Un resort pe malul mării situat pe un cap stâncos cu vedere la apele tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        102.27941,
+                        12.066783
+                  ]
+            },
+            {
+                  "name": "Tree Top Adventure Park",
+                  "text": "Un parc de recreere în aer liber, cu trasee de corzi și tiroliene suspendate în coronamentul junglei.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299046,
+                        11.986806
+                  ]
+            },
+            {
+                  "name": "Rock Of Monkey",
+                  "text": "O stâncă de coastă vizitată frecvent de macacii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        102.326359,
+                        12.048194
+                  ]
+            },
+            {
+                  "name": "Lighthouse Scenic Point observation tower (Sylvan Resort)",
+                  "text": "Un turn de observație de coastă înalt, care oferă o panoramă vastă asupra Golfului Thailandei.",
+                  "category": "natural",
+                  "coords": [
+                        102.291517,
+                        12.016568
+                  ]
+            },
+            {
+                  "name": "Ban Camp Chang",
+                  "text": "O grădină zoologică tropicală și o tabără care oferă drumeții în junglă pe spatele elefanților asiatici.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298709,
+                        12.04509
+                  ]
+            },
+            {
+                  "name": "Muay Thai Arena",
+                  "text": "O arenă sportivă locală care găzduiește meciuri tradiționale de kickboxing thailandez.",
+                  "category": "cultural",
+                  "coords": [
+                        102.293193,
+                        12.058025
+                  ]
+            },
+            {
+                  "name": "Elephant Camp",
+                  "text": "O poiană în junglă unde vizitatorii pot interacționa cu elefanții locali și îi pot hrăni.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299629,
+                        12.05659
+                  ]
+            },
+            {
+                  "name": "Ban Changthai",
+                  "text": "Un sanctuar cuibărit în pădurea tropicală, dedicat îngrijirii și interacțiunii cu elefanții thailandezi.",
+                  "category": "recreational",
+                  "coords": [
+                        102.300032,
+                        12.053402
+                  ]
+            },
+            {
+                  "name": "Thanmayom Waterfall",
+                  "text": "O cascadă cu mai multe trepte care se varsă în bazine limpezi, înconjurată de o pădure tropicală deasă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.367338,
+                        12.076301
+                  ]
+            },
+            {
+                  "name": "Rasta View Point",
+                  "text": "Un punct de belvedere pe un deal, decorat în culori reggae, oferind o panoramă vastă a golfurilor insulei.",
+                  "category": "natural",
+                  "coords": [
+                        102.31758,
+                        11.975163
+                  ]
+            },
+            {
+                  "name": "White Sand Beach",
+                  "text": "O porțiune de coastă plină de viață, acoperită cu nisip fin, deschis la culoare și străjuită de palmieri.",
+                  "category": "recreational",
+                  "coords": [
+                        102.267109,
+                        12.112798
+                  ]
+            },
+            {
+                  "name": "Chai Chet Beach",
+                  "text": "O plajă tropicală de nisip care coboară spre ape liniștite, mărginită de promontorii stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        102.286058,
+                        12.062456
+                  ]
+            },
+            {
+                  "name": "Bhu Tarn Koh Chang Resort",
+                  "text": "O retragere tropicală pe insulă, cu unități de cazare construite în jurul unei lagune luxuriante.",
+                  "category": "recreational",
+                  "coords": [
+                        102.289537,
+                        12.062854
+                  ]
+            },
+            {
+                  "name": "Bailan Beach",
+                  "text": "O fâșie de coastă liniștită, caracterizată prin țărmul său stâncos și atmosfera relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298116,
+                        11.993262
+                  ]
+            },
+            {
+                  "name": "Kai Bae Beach",
+                  "text": "O plajă îngustă de nisip, mărginită de cocotieri înclinați, cu vedere spre insulițele din larg.",
+                  "category": "recreational",
+                  "coords": [
+                        102.290594,
+                        12.024102
+                  ]
+            },
+            {
+                  "name": "Klong Prao Beach",
+                  "text": "Un țărm de nisip lung și curbat, împărțit de un estuar care curge din junglă spre mare.",
+                  "category": "recreational",
+                  "coords": [
+                        102.293021,
+                        12.046276
+                  ]
+            },
+            {
+                  "name": "The Galaxy",
+                  "text": "O atracție neobișnuită de pe coastă, găzduită în carena impunătoare a unei nave de croazieră abandonate pe plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.333205,
+                        11.976301
+                  ]
+            },
+            {
+                  "name": "Bangbao Beach - Klong Kloi Beach",
+                  "text": "O plajă tropicală ascunsă într-un golf adăpostit, umbrită de copaci deși lângă un sat de pescari tradițional.",
+                  "category": "recreational",
+                  "coords": [
+                        102.325002,
+                        11.974281
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "O fâșie retrasă de nisip de coastă, oferind un mediu pașnic, departe de centrele aglomerate ale insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        102.316556,
+                        11.974134
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Son",
+                  "text": "Un complex de temple budiste senin, prezentând arhitectura tradițională thailandeză în mijlocul unei crânguri de copaci.",
+                  "category": "landmark",
+                  "coords": [
+                        102.27141,
+                        12.133602
+                  ]
+            },
+            {
+                  "name": "Radonezh",
+                  "text": "O biserică creștină distinctivă, cu o fațadă albă și cupole aurii care se înalță din verdeața tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.280131,
+                        12.129869
+                  ]
+            },
+            {
+                  "name": "Wat Chao Po Ko Chang",
+                  "text": "Un altar budist vibrant în stil chinezesc, dedicat spiritului protector al insulei, marcat de dragoni roșii ornamentați.",
+                  "category": "landmark",
+                  "coords": [
+                        102.275823,
+                        12.140479
+                  ]
+            },
+            {
+                  "name": "Wat Klong Prao",
+                  "text": "Un lăcaș de cult budist clasic, având o sală principală decorată luminos, unde se adună locuitorii insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        102.298673,
+                        12.048524
+                  ]
+            },
+            {
+                  "name": "Wat Salak Phet",
+                  "text": "Un templu budist ornamentat în partea de sud a insulei, care găzduiește un muzeu cu artefacte istorice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.371784,
+                        12.004679
+                  ]
+            },
+            {
+                  "name": "Klong Prao Night Market",
+                  "text": "O piață de seară în aer liber plină de tarabe unde se prăjesc fructe de mare locale proaspete și gustări tradiționale thailandeze.",
+                  "category": "cultural",
+                  "coords": [
+                        102.299595,
+                        12.049588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Half Moon Beach",
+                  "text": "A secluded, crescent-shaped sandy cove ideal for quiet swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        102.270213,
+                        12.144125
+                  ]
+            },
+            {
+                  "name": "Crocodile & Snake Show",
+                  "text": "A live animal attraction featuring thrilling daily performances with captive crocodiles and snakes.",
+                  "category": "recreational",
+                  "coords": [
+                        102.280908,
+                        12.078044
+                  ]
+            },
+            {
+                  "name": "Coconut Beach Resort",
+                  "text": "A tropical coastal resort nestled among coconut palms right on the sandy shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        102.281699,
+                        12.067489
+                  ]
+            },
+            {
+                  "name": "Paradise Resort",
+                  "text": "A beachfront vacation complex providing direct access to the ocean and recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        102.283152,
+                        12.066757
+                  ]
+            },
+            {
+                  "name": "Klong Prao Resort",
+                  "text": "A coastal holiday complex offering direct access to the island's sandy shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        102.287793,
+                        12.061264
+                  ]
+            },
+            {
+                  "name": "Ao Khlong Prao",
+                  "text": "A wide, scenic bay on Ko Chang known for its extensive sandy beach and calm waters.",
+                  "category": "landmark",
+                  "coords": [
+                        102.282731,
+                        12.054752
+                  ]
+            },
+            {
+                  "name": "Chai Chet Resort",
+                  "text": "A beachfront resort situated on a rocky cape overlooking the tropical waters.",
+                  "category": "recreational",
+                  "coords": [
+                        102.27941,
+                        12.066783
+                  ]
+            },
+            {
+                  "name": "Tree Top Adventure Park",
+                  "text": "An outdoor recreation park featuring rope courses and zip lines suspended in the jungle canopy.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299046,
+                        11.986806
+                  ]
+            },
+            {
+                  "name": "Rock Of Monkey",
+                  "text": "A rocky coastal outcrop frequently visited by local macaque monkeys.",
+                  "category": "landmark",
+                  "coords": [
+                        102.326359,
+                        12.048194
+                  ]
+            },
+            {
+                  "name": "Lighthouse Scenic Point observation tower (Sylvan Resort)",
+                  "text": "A tall coastal observation tower offering sweeping panoramic views over the Gulf of Thailand.",
+                  "category": "natural",
+                  "coords": [
+                        102.291517,
+                        12.016568
+                  ]
+            },
+            {
+                  "name": "Ban Camp Chang",
+                  "text": "A tropical zoo and camp offering jungle treks on the backs of Asian elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298709,
+                        12.04509
+                  ]
+            },
+            {
+                  "name": "Mauy Thai Arena",
+                  "text": "A local sports theatre hosting traditional Thai kickboxing matches.",
+                  "category": "cultural",
+                  "coords": [
+                        102.293193,
+                        12.058025
+                  ]
+            },
+            {
+                  "name": "Elephant Camp",
+                  "text": "A jungle clearing where visitors can interact with and feed local elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        102.299629,
+                        12.05659
+                  ]
+            },
+            {
+                  "name": "Ban Changthai",
+                  "text": "A sanctuary nestled in the rainforest dedicated to the care and interaction with Thai elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        102.300032,
+                        12.053402
+                  ]
+            },
+            {
+                  "name": "Thanmayom Waterfall",
+                  "text": "A multi-tiered waterfall plunging into clear pools surrounded by dense rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        102.367338,
+                        12.076301
+                  ]
+            },
+            {
+                  "name": "Rasta View Point",
+                  "text": "A hilltop lookout decorated in reggae colors, offering sweeping views of the island's coastal bays.",
+                  "category": "natural",
+                  "coords": [
+                        102.31758,
+                        11.975163
+                  ]
+            },
+            {
+                  "name": "White Sand Beach",
+                  "text": "A vibrant stretch of coastline covered in fine, light-colored sand and backed by palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        102.267109,
+                        12.112798
+                  ]
+            },
+            {
+                  "name": "Chai Chet Beach",
+                  "text": "A sandy tropical beach leading down to calm waters, bordered by rocky coastal headlands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.286058,
+                        12.062456
+                  ]
+            },
+            {
+                  "name": "Bhu Tarn Koh Chang Resort",
+                  "text": "A tropical island retreat featuring accommodations built around a lush, water-filled lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        102.289537,
+                        12.062854
+                  ]
+            },
+            {
+                  "name": "Bailan Beach",
+                  "text": "A quiet coastal strip characterized by its rocky shoreline and calm, relaxing atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        102.298116,
+                        11.993262
+                  ]
+            },
+            {
+                  "name": "Kai Bae Beach",
+                  "text": "A narrow sandy beach lined with leaning coconut palms and looking out towards smaller offshore islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.290594,
+                        12.024102
+                  ]
+            },
+            {
+                  "name": "Klong Prao Beach",
+                  "text": "A long, curving sandy shoreline divided by an estuary flowing from the jungle out to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        102.293021,
+                        12.046276
+                  ]
+            },
+            {
+                  "name": "The Galaxy",
+                  "text": "An unusual coastal attraction housed within the towering hull of an abandoned cruise ship on the beach.",
+                  "category": "landmark",
+                  "coords": [
+                        102.333205,
+                        11.976301
+                  ]
+            },
+            {
+                  "name": "Bangbao Beach - Klong Kloi Beach",
+                  "text": "A tropical beach nestled in a sheltered bay, shaded by dense trees near a traditional fishing village.",
+                  "category": "recreational",
+                  "coords": [
+                        102.325002,
+                        11.974281
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "A secluded strip of coastal sand offering a peaceful environment away from the busy island centers.",
+                  "category": "recreational",
+                  "coords": [
+                        102.316556,
+                        11.974134
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Son",
+                  "text": "A serene Buddhist temple complex showcasing traditional Thai architecture amidst a grove of trees.",
+                  "category": "landmark",
+                  "coords": [
+                        102.27141,
+                        12.133602
+                  ]
+            },
+            {
+                  "name": "Orthodox Christian Church",
+                  "text": "A distinctive Christian church featuring a white facade and golden domes rising against the tropical greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        102.280131,
+                        12.129869
+                  ]
+            },
+            {
+                  "name": "Wat Chao Po Ko Chang",
+                  "text": "A vibrant Chinese-style Buddhist shrine dedicated to the island's protective spirit, marked by ornate red dragons.",
+                  "category": "landmark",
+                  "coords": [
+                        102.275823,
+                        12.140479
+                  ]
+            },
+            {
+                  "name": "Wat Klong Prao",
+                  "text": "A classic Buddhist place of worship featuring a brightly decorated main hall where local islanders gather.",
+                  "category": "landmark",
+                  "coords": [
+                        102.298673,
+                        12.048524
+                  ]
+            },
+            {
+                  "name": "Wat Salak Phet",
+                  "text": "An ornate Buddhist temple in the southern part of the island, housing a museum of local historical artifacts.",
+                  "category": "landmark",
+                  "coords": [
+                        102.371784,
+                        12.004679
+                  ]
+            },
+            {
+                  "name": "Klong Prao Night Market",
+                  "text": "An open-air evening marketplace packed with stalls grilling fresh local seafood and traditional Thai snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        102.299595,
+                        12.049588
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TH-23",
     coords: [102.30, 12.06],
@@ -179,7 +1493,232 @@ export const poiExtraThailandReliefV2: POI[] = [
       en: ["A long mountain range forming the natural border between Thailand and Myanmar. It is known for its dense forests and rich biodiversity.", "Located within the Kingdom of Thailand.", "Shaped by the monsoon climate of Southeast Asia."],
     }, image: "/poi-images/tenasserim-hills-relief-v2.webp"},
   {
-    id: "doi-luang-chiang-dao-mountain-relief-v2",
+    id: "doi-luang-chiang-dao-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doi Lio Lom",
+                  "text": "Dieser Gipfel im Chiang-Dao-Massiv ist berühmt für seine spektakuläre Aussicht auf das „Nebelmeer“ bei Sonnenaufgang.",
+                  "category": "natural",
+                  "coords": [
+                        98.911281,
+                        19.333272
+                  ]
+            },
+            {
+                  "name": "Doi Nang",
+                  "text": "Der zerklüftete Kalksteingipfel trägt den Namen „Frauenberg“, da sein Profil an eine liegende Frau erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        98.917828,
+                        19.422003
+                  ]
+            },
+            {
+                  "name": "Doi San Kio Khom Phra",
+                  "text": "Markanter Gipfel im Kalksteinmassiv des Doi Luang Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.907512,
+                        19.479715
+                  ]
+            },
+            {
+                  "name": "Ban Saeng Tawan @ Chiang Dao",
+                  "text": "Aussichtspunkt mit Panoramablick auf das Kalksteinmassiv von Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.843818,
+                        19.414515
+                  ]
+            },
+            {
+                  "name": "Doi Kio Lom",
+                  "text": "Hoher Berggipfel in den zerklüfteten Kalksteinfelsen von Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.875232,
+                        19.348817
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pha Plong",
+                  "text": "Buddhistischer Waldtempel, der über eine Treppe mit mehr als 500 Stufen erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.91807,
+                        19.402175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doi Lio Lom",
+                  "text": "Ez a Chiang Dao-masszívumban található csúcs a napfelkeltekor látható látványos „ködtengerről” híres.",
+                  "category": "natural",
+                  "coords": [
+                        98.911281,
+                        19.333272
+                  ]
+            },
+            {
+                  "name": "Doi Nang",
+                  "text": "A csipkézett mészkőcsúcs a „Hölgy-hegy” nevet viseli, mivel profilja egy fekvő nőre emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        98.917828,
+                        19.422003
+                  ]
+            },
+            {
+                  "name": "Doi San Kio Khom Phra",
+                  "text": "Jellegzetes csúcs a Doi Luang Chiang Dao mészkőmasszívumában.",
+                  "category": "natural",
+                  "coords": [
+                        98.907512,
+                        19.479715
+                  ]
+            },
+            {
+                  "name": "Ban Saeng Tawan @ Chiang Dao",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a Chiang Dao mészkőhegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        98.843818,
+                        19.414515
+                  ]
+            },
+            {
+                  "name": "Doi Kio Lom",
+                  "text": "Magas hegycsúcs Chiang Dao sziklás mészkőhegyei között.",
+                  "category": "natural",
+                  "coords": [
+                        98.875232,
+                        19.348817
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pha Plong",
+                  "text": "Buddhista erdei templom, amely egy több mint 500 lépcsőfokból álló feljárón érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        98.91807,
+                        19.402175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doi Lio Lom",
+                  "text": "Acest vârf din masivul Chiang Dao este faimos pentru vederea spectaculoasă asupra „mării de ceață” la răsărit.",
+                  "category": "natural",
+                  "coords": [
+                        98.911281,
+                        19.333272
+                  ]
+            },
+            {
+                  "name": "Doi Nang",
+                  "text": "Acest vârf calcaros crestat poartă numele de „Muntele Doamnei”, deoarece profilul său seamănă cu o femeie culcată.",
+                  "category": "natural",
+                  "coords": [
+                        98.917828,
+                        19.422003
+                  ]
+            },
+            {
+                  "name": "Doi San Kio Khom Phra",
+                  "text": "Vârf proeminent în masivul calcaros Doi Luang Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.907512,
+                        19.479715
+                  ]
+            },
+            {
+                  "name": "Ban Saeng Tawan @ Chiang Dao",
+                  "text": "Punct de observare ce oferă o vedere panoramică asupra masivului calcaros Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.843818,
+                        19.414515
+                  ]
+            },
+            {
+                  "name": "Doi Kio Lom",
+                  "text": "Vârf muntos înalt situat printre crestele calcaroase din Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.875232,
+                        19.348817
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pha Plong",
+                  "text": "Templu budist de pădure, accesibil printr-o scară cu peste 500 de trepte.",
+                  "category": "landmark",
+                  "coords": [
+                        98.91807,
+                        19.402175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doi Lio Lom",
+                  "text": "This peak in the Chiang Dao massif is famous for its spectacular 'sea of mist' views at sunrise.",
+                  "category": "natural",
+                  "coords": [
+                        98.911281,
+                        19.333272
+                  ]
+            },
+            {
+                  "name": "Doi Nang",
+                  "text": "This jagged limestone peak is named 'Lady Mountain' because its profile resembles a reclining woman.",
+                  "category": "natural",
+                  "coords": [
+                        98.917828,
+                        19.422003
+                  ]
+            },
+            {
+                  "name": "Doi San Kio Khom Phra",
+                  "text": "Prominent summit in the Doi Luang Chiang Dao limestone massif.",
+                  "category": "natural",
+                  "coords": [
+                        98.907512,
+                        19.479715
+                  ]
+            },
+            {
+                  "name": "Ban Saeng Tawan @ Chiang Dao",
+                  "text": "Viewpoint offering a panoramic vista of the Chiang Dao limestone peaks.",
+                  "category": "natural",
+                  "coords": [
+                        98.843818,
+                        19.414515
+                  ]
+            },
+            {
+                  "name": "Doi Kio Lom",
+                  "text": "High mountain peak situated among the rugged limestone ridges of Chiang Dao.",
+                  "category": "natural",
+                  "coords": [
+                        98.875232,
+                        19.348817
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pha Plong",
+                  "text": "Buddhist forest temple reached by a long staircase of over 500 steps.",
+                  "category": "landmark",
+                  "coords": [
+                        98.91807,
+                        19.402175
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TH-50",
     coords: [98.922, 19.405],
@@ -226,7 +1765,844 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une montagne emblématique et réserve de biosphère avec une biodiversité riche.", "Situé sur le territoire du Royaume de Thaïlande.", "Marqué par le climat de mousson du sud-est asiatique."],
     }, image: "/poi-images/doi-luang-chiang-dao-mountain-relief-v2.webp"},
   {
-    id: "nan-river-valley-relief-v2",
+    id: "nan-river-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buranathai Buddha Casting Foundry (Cha Thavi)",
+                  "text": "Eine faszinierende Gießerei im Nan-Flusstal, in der Kunsthandwerker den traditionellen Bronzeguss von Buddha-Statuen vorführen.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267805,
+                        16.804982
+                  ]
+            },
+            {
+                  "name": "Black Buddha",
+                  "text": "Ein markantes dunkelhäutiges Buddha-Denkmal, das friedlich in der Landschaft des Nan-Flusstals sitzt.",
+                  "category": "historical",
+                  "coords": [
+                        100.290175,
+                        16.824481
+                  ]
+            },
+            {
+                  "name": "Central Phitsanulok",
+                  "text": "Ein großes, modernes Einkaufszentrum, das regionale Einkaufsmöglichkeiten in der Nähe des Nan-Flusstals bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        100.233066,
+                        16.840558
+                  ]
+            },
+            {
+                  "name": "Wat Chulamani",
+                  "text": "Die stimmungsvollen Ruinen von Wat Chulamani im Nan-Flusstal, einst der älteste erhaltene Tempelkomplex der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        100.217282,
+                        16.788062
+                  ]
+            },
+            {
+                  "name": "Textile Museum, Naresuan University",
+                  "text": "Ein von der Universität betriebenes Museum im Nan-Flusstal, das den komplizierten Mustern traditioneller thailändischer Textilien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        100.193542,
+                        16.750861
+                  ]
+            },
+            {
+                  "name": "Wat Makham Tia",
+                  "text": "Ein lokaler buddhistischer Tempel im Nan-Flusstal, der als ruhiges Zentrum für Mönche und Gläubige fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.269144,
+                        16.852079
+                  ]
+            },
+            {
+                  "name": "Wat Sakaeo Pathumthong",
+                  "text": "Ein regionaler Kultort vor der Kulisse des Nan-Flusstals, geschmückt mit traditionellen religiösen Motiven.",
+                  "category": "religious",
+                  "coords": [
+                        100.261925,
+                        16.805998
+                  ]
+            },
+            {
+                  "name": "Wat Chan Tawan Ok",
+                  "text": "Ein nach Osten ausgerichteter buddhistischer Tempelkomplex in den fruchtbaren Ebenen des Nan-Flusstals.",
+                  "category": "landmark",
+                  "coords": [
+                        100.244918,
+                        16.804471
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Christ's vision Church",
+                  "text": "Eine christliche Kirche mit einer aktiven Gemeinde, die den Gläubigen in der Region des Nan-Flusstals dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.219848,
+                        16.801556
+                  ]
+            },
+            {
+                  "name": "Christ Cvc Phitsanulok",
+                  "text": "Ein christlicher Kultort, der sich um die lokale Gemeinschaft im Nan-Flusstal kümmert.",
+                  "category": "religious",
+                  "coords": [
+                        100.218993,
+                        16.802897
+                  ]
+            },
+            {
+                  "name": "Wat Yang en",
+                  "text": "Eine lokale spirituelle Stätte, die inmitten der Landschaft des Nan-Flusstals einen Ort für Gottesdienst und ruhige Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        100.20539,
+                        16.766408
+                  ]
+            },
+            {
+                  "name": "Sakat Namman Temple",
+                  "text": "Ein traditioneller buddhistischer Tempel in der Umgebung des Nan-Flusstals, in dem regionale Andachtsbräuche gepflegt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        100.209034,
+                        16.758006
+                  ]
+            },
+            {
+                  "name": "Wat Lam.",
+                  "text": "Ein bescheidener Kultort im Nan-Flusstal, der als friedliches Heiligtum der Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.224225,
+                        16.746949
+                  ]
+            },
+            {
+                  "name": "Ban Laem Pho",
+                  "text": "Eine lokale Andachtsstätte, die der Gemeinde inmitten des malerischen Tals des Flusses Nan als spirituelles Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.173268,
+                        16.841889
+                  ]
+            },
+            {
+                  "name": "Wat Saeng Dao",
+                  "text": "Eine traditionelle thailändische Tempelanlage, die in die üppige Landschaft des Nan-Tals eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.242308,
+                        16.872615
+                  ]
+            },
+            {
+                  "name": "Wat Krommathan",
+                  "text": "Eine friedliche Kultstätte im Tal des Nan-Flusses, die durch ihre klassische thailändische Tempelarchitektur besticht.",
+                  "category": "religious",
+                  "coords": [
+                        100.334931,
+                        16.832196
+                  ]
+            },
+            {
+                  "name": "Wat Pikun Tong",
+                  "text": "Ein spirituelles Heiligtum mit traditionell verzierten Dächern in der Naturlandschaft der Nan-Flussregion.",
+                  "category": "religious",
+                  "coords": [
+                        100.281285,
+                        16.752095
+                  ]
+            },
+            {
+                  "name": "Wat Insi",
+                  "text": "Ein lokaler thailändischer Tempel in der Nähe des Flusses Nan, der eine ruhige Umgebung für Gebete und Meditation bietet.",
+                  "category": "religious",
+                  "coords": [
+                        100.239311,
+                        16.735319
+                  ]
+            },
+            {
+                  "name": "Phra Phiknet Shrine",
+                  "text": "Ein heiliger Schrein im Flusstal, der dem elefantenköpfigen Hindugott Ganesha, lokal als Phra Phiknet bekannt, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.245401,
+                        16.806793
+                  ]
+            },
+            {
+                  "name": "Maha Wihan Somdet Ong Pathom Suk Khithi 1",
+                  "text": "Ein großes buddhistisches Heiligtum (Maha Wihan), das im Tal errichtet wurde, um eine bedeutende Buddhastatue zu beherbergen.",
+                  "category": "landmark",
+                  "coords": [
+                        100.24551,
+                        16.807738
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Arom",
+                  "text": "Ein friedliches, mit heimischer Flora geschmücktes Tempelgelände, das einen Ort der Besinnung im Becken des Nan-Flusses bietet.",
+                  "category": "religious",
+                  "coords": [
+                        100.22032,
+                        16.794691
+                  ]
+            },
+            {
+                  "name": "Ancient Temple",
+                  "text": "Stimmungsvolle buddhistische Ruinen mit verwitterten Ziegelsteinfundamenten, eingebettet in die Vegetation des Nan-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        100.21223,
+                        16.759309
+                  ]
+            },
+            {
+                  "name": "Wat Pong Mo Khao",
+                  "text": "Ein ruhiges Heiligtum am Flussufer mit einer traditionellen Versammlungshalle, die von lokalen buddhistischen Gläubigen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        100.161226,
+                        16.791043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buranathai Buddha Casting Foundry (Cha Thavi)",
+                  "text": "Egy lenyűgöző öntöde a Nan folyó völgyében, ahol kézművesek mutatják be a Buddha-szobrok hagyományos bronzöntését.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267805,
+                        16.804982
+                  ]
+            },
+            {
+                  "name": "Black Buddha",
+                  "text": "Lenyűgöző sötét árnyalatú Buddha-emlékmű, amely békésen ül a Nan folyó völgyének tájában.",
+                  "category": "historical",
+                  "coords": [
+                        100.290175,
+                        16.824481
+                  ]
+            },
+            {
+                  "name": "Central Phitsanulok",
+                  "text": "Nagy modern bevásárlóközpont, amely regionális vásárlási lehetőségeket kínál a Nan folyó völgyének közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        100.233066,
+                        16.840558
+                  ]
+            },
+            {
+                  "name": "Wat Chulamani",
+                  "text": "A Wat Chulamani hangulatos romjai a Nan folyó völgyében, amely egykor a terület legrégebbi fennmaradt templomegyüttese volt.",
+                  "category": "historical",
+                  "coords": [
+                        100.217282,
+                        16.788062
+                  ]
+            },
+            {
+                  "name": "Textile Museum, Naresuan University",
+                  "text": "A Nan folyó völgyében található, egyetem által fenntartott múzeum a hagyományos thai textíliák bonyolult mintáinak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        100.193542,
+                        16.750861
+                  ]
+            },
+            {
+                  "name": "Wat Makham Tia",
+                  "text": "A Nan folyó völgyében található helyi buddhista templom, amely a szerzetesek és a hívők békés központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        100.269144,
+                        16.852079
+                  ]
+            },
+            {
+                  "name": "Wat Sakaeo Pathumthong",
+                  "text": "A Nan folyó völgyének hátterében álló regionális istentiszteleti hely, amelyet hagyományos vallási motívumok díszítenítnek.",
+                  "category": "religious",
+                  "coords": [
+                        100.261925,
+                        16.805998
+                  ]
+            },
+            {
+                  "name": "Wat Chan Tawan Ok",
+                  "text": "A Nan folyó völgyének termékeny síkságán található, keletre néző buddhista templomegyüttes.",
+                  "category": "landmark",
+                  "coords": [
+                        100.244918,
+                        16.804471
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Christ's vision Church",
+                  "text": "Egy aktív gyülekezettel rendelkező keresztény templom, amely a Nan folyó völgyében lévő hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.219848,
+                        16.801556
+                  ]
+            },
+            {
+                  "name": "Christ Cvc Phitsanulok",
+                  "text": "Dedikált keresztény istentiszteleti hely, amely a Nan folyó völgyének helyi közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        100.218993,
+                        16.802897
+                  ]
+            },
+            {
+                  "name": "Wat Yang en",
+                  "text": "Helyi szellemi központ, amely az istentisztelet és a csendes elmélkedés helyszíne a Nan folyó völgyének tájában.",
+                  "category": "religious",
+                  "coords": [
+                        100.20539,
+                        16.766408
+                  ]
+            },
+            {
+                  "name": "Sakat Namman Temple",
+                  "text": "Hagyományos buddhista templom a Nan folyó völgyében, amely a regionális áhítati szokásokat őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.209034,
+                        16.758006
+                  ]
+            },
+            {
+                  "name": "Wat Lam.",
+                  "text": "Szerény istentiszteleti hely a Nan folyó völgyében, amely békés környékbeli szentélyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        100.224225,
+                        16.746949
+                  ]
+            },
+            {
+                  "name": "Ban Laem Pho",
+                  "text": "A helyi közösség számára fontos imahely, amely a festői Nan-folyó völgyében fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        100.173268,
+                        16.841889
+                  ]
+            },
+            {
+                  "name": "Wat Saeng Dao",
+                  "text": "Hagyományos thai templomegyüttes, amely a Nan-folyó völgyének buja növényzetében bújik meg.",
+                  "category": "religious",
+                  "coords": [
+                        100.242308,
+                        16.872615
+                  ]
+            },
+            {
+                  "name": "Wat Krommathan",
+                  "text": "Békés imahely a Nan-folyó völgyében, amely a klasszikus thai vallási építészet stílusjegyeit viseli magán.",
+                  "category": "religious",
+                  "coords": [
+                        100.334931,
+                        16.832196
+                  ]
+            },
+            {
+                  "name": "Wat Pikun Tong",
+                  "text": "Hagyományos, díszes tetőszerkezetű spirituális menedék a Nan-folyó régiójának természetes környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        100.281285,
+                        16.752095
+                  ]
+            },
+            {
+                  "name": "Wat Insi",
+                  "text": "A Nan-folyó közelében fekvő helyi thai templom csendes környezetet biztosít az imádkozáshoz és a meditációhoz.",
+                  "category": "religious",
+                  "coords": [
+                        100.239311,
+                        16.735319
+                  ]
+            },
+            {
+                  "name": "Phra Phiknet Shrine",
+                  "text": "Az elefántfejű hindu istenségnek, az itt Phra Phiknet néven ismert Ganésának szentelt folyóvölgyi szentély.",
+                  "category": "religious",
+                  "coords": [
+                        100.245401,
+                        16.806793
+                  ]
+            },
+            {
+                  "name": "Maha Wihan Somdet Ong Pathom Suk Khithi 1",
+                  "text": "Egy hatalmas buddhista szentély (Maha Wihan) a völgyben, amelyet egy jelentős Buddha-szobor elhelyezésére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        100.24551,
+                        16.807738
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Arom",
+                  "text": "Helyi növényzettel díszített, békés templomkert, amely csendes elmélyülést kínál a Nan-folyó medencéjében.",
+                  "category": "religious",
+                  "coords": [
+                        100.22032,
+                        16.794691
+                  ]
+            },
+            {
+                  "name": "Ancient Temple",
+                  "text": "Hangulatos buddhista romok málladozó téglaalapokkal, amelyek a Nan-folyó völgyének növényzetében bújnak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        100.21223,
+                        16.759309
+                  ]
+            },
+            {
+                  "name": "Wat Pong Mo Khao",
+                  "text": "Csendes, folyóparti szentély hagyományos gyülekezeti teremmel, amelyet a helyi buddhista hívők használnak.",
+                  "category": "religious",
+                  "coords": [
+                        100.161226,
+                        16.791043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buranathai Buddha Casting Foundry (Cha Thavi)",
+                  "text": "O turnătorie fascinantă în valea râului Nan, unde artizanii demonstrează turnarea tradițională în bronz a statuilor lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267805,
+                        16.804982
+                  ]
+            },
+            {
+                  "name": "Black Buddha",
+                  "text": "Un monument izbitor cu Buddha de nuanță închisă, așezat liniștit în peisajul văii râului Nan.",
+                  "category": "historical",
+                  "coords": [
+                        100.290175,
+                        16.824481
+                  ]
+            },
+            {
+                  "name": "Central Phitsanulok",
+                  "text": "Un mare centru comercial modern, care oferă o experiență de cumpărături regională în apropierea văii râului Nan.",
+                  "category": "cultural",
+                  "coords": [
+                        100.233066,
+                        16.840558
+                  ]
+            },
+            {
+                  "name": "Wat Chulamani",
+                  "text": "Ruinele pline de atmosferă ale Wat Chulamani din valea râului Nan, cândva cel mai vechi complex de temple supraviețuitor din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        100.217282,
+                        16.788062
+                  ]
+            },
+            {
+                  "name": "Textile Museum, Naresuan University",
+                  "text": "Un muzeu administrat de universitate în valea râului Nan, dedicat modelelor complicate ale textilelor tradiționale thailandeze.",
+                  "category": "museum",
+                  "coords": [
+                        100.193542,
+                        16.750861
+                  ]
+            },
+            {
+                  "name": "Wat Makham Tia",
+                  "text": "Un templu budist local situat în valea râului Nan, care funcționează ca un centru senin pentru călugări și credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        100.269144,
+                        16.852079
+                  ]
+            },
+            {
+                  "name": "Wat Sakaeo Pathumthong",
+                  "text": "Un lăcaș de cult regional situat pe fundalul văii râului Nan, împodobit cu motive religioase tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        100.261925,
+                        16.805998
+                  ]
+            },
+            {
+                  "name": "Wat Chan Tawan Ok",
+                  "text": "Un complex de temple budiste orientat spre est, situat în câmpiile fertile ale văii râului Nan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.244918,
+                        16.804471
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Christ's vision Church",
+                  "text": "O biserică creștină cu o congregație activă care deservește credincioșii din regiunea văii râului Nan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.219848,
+                        16.801556
+                  ]
+            },
+            {
+                  "name": "Christ Cvc Phitsanulok",
+                  "text": "Un lăcaș de cult creștin dedicat, care slujește comunitatea locală din valea râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.218993,
+                        16.802897
+                  ]
+            },
+            {
+                  "name": "Wat Yang en",
+                  "text": "Un sit spiritual local care oferă un loc de închinare și reflecție liniștită în mijlocul peisajului văii râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.20539,
+                        16.766408
+                  ]
+            },
+            {
+                  "name": "Sakat Namman Temple",
+                  "text": "Un templu budist tradițional situat în mediul văii râului Nan, care păstrează obiceiurile devoționale regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        100.209034,
+                        16.758006
+                  ]
+            },
+            {
+                  "name": "Wat Lam.",
+                  "text": "Un lăcaș de cult modest situat în valea râului Nan, servind ca un sanctuar liniștit de cartier.",
+                  "category": "religious",
+                  "coords": [
+                        100.224225,
+                        16.746949
+                  ]
+            },
+            {
+                  "name": "Ban Laem Pho",
+                  "text": "Un lăcaș de cult local care deservește comunitatea așezată în pitoreasca vale a râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.173268,
+                        16.841889
+                  ]
+            },
+            {
+                  "name": "Wat Saeng Dao",
+                  "text": "Un complex de temple thailandeze tradiționale situat în peisajele luxuriante ale văii râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.242308,
+                        16.872615
+                  ]
+            },
+            {
+                  "name": "Wat Krommathan",
+                  "text": "Un lăcaș de cult senin care prezintă arhitectura religioasă clasică thailandeză în valea râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.334931,
+                        16.832196
+                  ]
+            },
+            {
+                  "name": "Wat Pikun Tong",
+                  "text": "Un sanctuar spiritual cu acoperișuri ornamentate tradiționale, situat în peisajul natural al regiunii râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.281285,
+                        16.752095
+                  ]
+            },
+            {
+                  "name": "Wat Insi",
+                  "text": "Un templu thailandez local care oferă un mediu liniștit pentru rugăciune și meditație în apropierea râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.239311,
+                        16.735319
+                  ]
+            },
+            {
+                  "name": "Phra Phiknet Shrine",
+                  "text": "Un sanctuar dedicat zeității hinduse cu cap de elefant, Ganesha, cunoscută local ca Phra Phiknet, situat în valea râului.",
+                  "category": "religious",
+                  "coords": [
+                        100.245401,
+                        16.806793
+                  ]
+            },
+            {
+                  "name": "Maha Wihan Somdet Ong Pathom Suk Khithi 1",
+                  "text": "Un grandios sanctuar budist, cunoscut sub numele de Maha Wihan, construit pentru a adăposti o statuie importantă a lui Buddha în vale.",
+                  "category": "landmark",
+                  "coords": [
+                        100.24551,
+                        16.807738
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Arom",
+                  "text": "Un teren pașnic de templu, împodobit cu floră locală, care oferă un spațiu de reflecție în bazinul râului Nan.",
+                  "category": "religious",
+                  "coords": [
+                        100.22032,
+                        16.794691
+                  ]
+            },
+            {
+                  "name": "Ancient Temple",
+                  "text": "Ruine budiste atmosferice, cu fundații din cărămidă erodată, amplasate în vegetația văii râului Nan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.21223,
+                        16.759309
+                  ]
+            },
+            {
+                  "name": "Wat Pong Mo Khao",
+                  "text": "Un sanctuar liniștit pe malul râului, care are o sală de adunare tradițională folosită de practicanții budiști locali.",
+                  "category": "religious",
+                  "coords": [
+                        100.161226,
+                        16.791043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buranathai Buddha Casting Foundry (Cha Thavi)",
+                  "text": "A fascinating foundry in the Nan River valley where artisans demonstrate the traditional bronze casting of Buddha images.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267805,
+                        16.804982
+                  ]
+            },
+            {
+                  "name": "Black Buddha",
+                  "text": "A striking dark-hued Buddha monument sitting peacefully within the landscape of the Nan River valley.",
+                  "category": "historical",
+                  "coords": [
+                        100.290175,
+                        16.824481
+                  ]
+            },
+            {
+                  "name": "Central Plaza Phitsanulok",
+                  "text": "A large modern shopping mall offering regional retail therapy near the Nan River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        100.233066,
+                        16.840558
+                  ]
+            },
+            {
+                  "name": "Wat Chulamani",
+                  "text": "The atmospheric ruins of Wat Chulamani in the Nan River valley, once the oldest surviving temple complex in the area.",
+                  "category": "historical",
+                  "coords": [
+                        100.217282,
+                        16.788062
+                  ]
+            },
+            {
+                  "name": "Textile Museum, Naresuan University",
+                  "text": "A university-operated museum in the Nan River valley dedicated to the intricate patterns of traditional Thai textiles.",
+                  "category": "museum",
+                  "coords": [
+                        100.193542,
+                        16.750861
+                  ]
+            },
+            {
+                  "name": "Wat Makham Tia",
+                  "text": "A local Buddhist temple situated in the Nan River valley, functioning as a serene center for monks and devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        100.269144,
+                        16.852079
+                  ]
+            },
+            {
+                  "name": "Wat Sakaeo Pathumthong",
+                  "text": "A regional place of worship set against the backdrop of the Nan River valley, adorned with traditional religious motifs.",
+                  "category": "religious",
+                  "coords": [
+                        100.261925,
+                        16.805998
+                  ]
+            },
+            {
+                  "name": "Wat Chan Tawan Ok",
+                  "text": "An eastern-facing Buddhist temple complex located in the fertile plains of the Nan River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        100.244918,
+                        16.804471
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Christ's vision Church",
+                  "text": "A Christian church with an active congregation serving believers in the Nan River valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        100.219848,
+                        16.801556
+                  ]
+            },
+            {
+                  "name": "Christ Cvc Phitsanulok",
+                  "text": "A dedicated Christian place of worship ministering to the local community in the Nan River valley.",
+                  "category": "religious",
+                  "coords": [
+                        100.218993,
+                        16.802897
+                  ]
+            },
+            {
+                  "name": "Wat Yang en",
+                  "text": "A local spiritual site providing a place for worship and quiet reflection amidst the Nan River valley's landscape.",
+                  "category": "religious",
+                  "coords": [
+                        100.20539,
+                        16.766408
+                  ]
+            },
+            {
+                  "name": "Sakat Namman Temple",
+                  "text": "A traditional Buddhist temple set in the Nan River valley environment, preserving regional devotional customs.",
+                  "category": "landmark",
+                  "coords": [
+                        100.209034,
+                        16.758006
+                  ]
+            },
+            {
+                  "name": "Wat Lam.",
+                  "text": "A modest place of worship situated in the Nan River valley, serving as a peaceful neighborhood sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        100.224225,
+                        16.746949
+                  ]
+            },
+            {
+                  "name": "Ban Laem Pho",
+                  "text": "A local place of worship serving the community nestled within the scenic terrain of the Nan River Valley.",
+                  "category": "religious",
+                  "coords": [
+                        100.173268,
+                        16.841889
+                  ]
+            },
+            {
+                  "name": "Wat Saeng Dao",
+                  "text": "A traditional Thai temple complex situated among the lush landscapes of the Nan River Valley.",
+                  "category": "religious",
+                  "coords": [
+                        100.242308,
+                        16.872615
+                  ]
+            },
+            {
+                  "name": "Wat Krommathan",
+                  "text": "A serene place of worship showcasing classic Thai religious architecture within the Nan River Valley.",
+                  "category": "religious",
+                  "coords": [
+                        100.334931,
+                        16.832196
+                  ]
+            },
+            {
+                  "name": "Wat Pikun Tong",
+                  "text": "A spiritual sanctuary featuring traditional ornate roofs, located in the natural setting of the Nan River region.",
+                  "category": "religious",
+                  "coords": [
+                        100.281285,
+                        16.752095
+                  ]
+            },
+            {
+                  "name": "Wat Insi",
+                  "text": "A local Thai temple providing a quiet environment for prayer and meditation near the Nan River.",
+                  "category": "religious",
+                  "coords": [
+                        100.239311,
+                        16.735319
+                  ]
+            },
+            {
+                  "name": "Phra Phiknet Shrine",
+                  "text": "A dedicated shrine honoring the elephant-headed Hindu deity Ganesha, locally known as Phra Phiknet, in the river valley.",
+                  "category": "religious",
+                  "coords": [
+                        100.245401,
+                        16.806793
+                  ]
+            },
+            {
+                  "name": "Maha Wihan Somdet Ong Pathom Suk Khithi 1",
+                  "text": "A grand Buddhist sanctuary, known as a Maha Wihan, constructed to enshrine a significant Buddha statue in the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        100.24551,
+                        16.807738
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Arom",
+                  "text": "A peaceful temple ground adorned with local flora, offering a reflective space in the Nan River basin.",
+                  "category": "religious",
+                  "coords": [
+                        100.22032,
+                        16.794691
+                  ]
+            },
+            {
+                  "name": "Ancient Temple",
+                  "text": "Atmospheric Buddhist ruins featuring weathered brick foundations nestled amidst the vegetation of the Nan River Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        100.21223,
+                        16.759309
+                  ]
+            },
+            {
+                  "name": "Wat Pong Mo Khao",
+                  "text": "A tranquil riverside sanctuary featuring a traditional assembly hall used by local Buddhist practitioners.",
+                  "category": "religious",
+                  "coords": [
+                        100.161226,
+                        16.791043
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TH-55",
     coords: [100.25, 16.80],
@@ -320,7 +2696,340 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une côte magnifique avec de nombreuses îles et des points de plongée.", "Situé sur le territoire du Royaume de Thaïlande.", "Marqué par le climat de mousson du sud-est asiatique."],
     }, image: "/poi-images/chumphon-archipelago-coast-relief-v2.webp"},
   {
-    id: "phu-hin-rong-kla-plateau-relief-v2",
+    id: "phu-hin-rong-kla-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Man Daeng Waterfall",
+                  "text": "Tief im Phu-Hin-Rong-Kla-Plateau versteckt, ist dieser kaskadenartige, mehrstufige Wasserfall während der kühlen Jahreszeit berühmt für seine leuchtend roten Ahornblätter.",
+                  "category": "landmark",
+                  "coords": [
+                        101.053177,
+                        16.936447
+                  ]
+            },
+            {
+                  "name": "Pha Chu Thong",
+                  "text": "Historisch von Aufständischen als Signalpunkt genutzt, bietet diese steile Klippe auf dem Plateau Besuchern heute einen dramatischen Panoramablick auf den darunter liegenden Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        100.993278,
+                        16.989409
+                  ]
+            },
+            {
+                  "name": "Pha Hua Dam",
+                  "text": "Dieser markante Aussichtspunkt auf dem Plateau besticht durch einen auffälligen, dunkel gefärbten Felsvorsprung, der über das weite Gebirgstal ragt.",
+                  "category": "natural",
+                  "coords": [
+                        100.991849,
+                        16.993078
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "Besucher dieses Plateaus können durch eine faszinierende Landschaft aus tiefen geologischen Spalten und rissigem, mit Moos und Farnen bedecktem Grundgestein navigieren.",
+                  "category": "natural",
+                  "coords": [
+                        100.98683,
+                        17.00662
+                  ]
+            },
+            {
+                  "name": "Rom Klao Pharadon Waterfall",
+                  "text": "Dieser Zweistrom-Wasserfall plätschert anmutig eine felsige Treppe im immergrünen Wald des Plateaus hinunter und bietet einen kühlen, schattigen Rastplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        101.015184,
+                        16.996059
+                  ]
+            },
+            {
+                  "name": "Huai Khamin Noi Waterfall",
+                  "text": "Dieser bescheidene, aber malerische Bach fließt über Kalksteinstufen und trägt zur ruhigen, natürlichen Schönheit des umliegenden Hochplateaus bei.",
+                  "category": "landmark",
+                  "coords": [
+                        101.009508,
+                        16.997646
+                  ]
+            },
+            {
+                  "name": "Phu Lom Lo Viewpoint",
+                  "text": "Dieser weitläufige Aussichtspunkt auf dem Plateau verwandelt sich jeden Januar in ein leuchtend rosa Tal, wenn Tausende von wilden Himalaya-Kirschbäumen auf den Hügeln blühen.",
+                  "category": "natural",
+                  "coords": [
+                        101.071709,
+                        16.982458
+                  ]
+            },
+            {
+                  "name": "Phu Phra",
+                  "text": "Eingebettet in das zerklüftete Terrain des Plateaus, beherbergt diese natürliche Felsenklause mehrere verehrte Buddhastatuen, die unter dem überhängenden Stein geschützt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        101.103453,
+                        17.008485
+                  ]
+            },
+            {
+                  "name": "Wat Pa Yen Sira Tham Prathip",
+                  "text": "Ein buddhistischer Tempelkomplex, der sich im rauen Gelände der Hochebene Phu Hin Rong Kla versteckt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.107367,
+                        17.00793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Man Daeng Waterfall",
+                  "text": "A Phu Hin Rong Kla fennsík mélyén megbúvó, többlépcsős vízesést a hűvösebb évszakban élénkpiros juharlevelek övezik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.053177,
+                        16.936447
+                  ]
+            },
+            {
+                  "name": "Pha Chu Thong",
+                  "text": "A fennsíkon található meredek sziklát, amelyet korábban a felkelők jelzőpontként használtak, ma a látogatók a lenti erdőre nyíló drámai panoráma miatt keresik fel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.993278,
+                        16.989409
+                  ]
+            },
+            {
+                  "name": "Pha Hua Dam",
+                  "text": "Ez a kiemelkedő fennsíki kilátóhely egy feltűnő, sötét színű sziklaszirttel rendelkezik, amely a tágas hegyi völgy fölé nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        100.991849,
+                        16.993078
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "A fennsíki kilátó látogatói mély geológiai hasadékokból és mohával, valamint páfrányokkal borított, repedezett alapkőzetből álló lenyűgöző tájon navigálhatnak.",
+                  "category": "natural",
+                  "coords": [
+                        100.98683,
+                        17.00662
+                  ]
+            },
+            {
+                  "name": "Rom Klao Pharadon Waterfall",
+                  "text": "A fennsík örökzöld erdejében, egy sziklás lépcsősoron kecsesen lezúduló, kétágú vízesés hűvös, árnyékos pihenőhelyet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.015184,
+                        16.996059
+                  ]
+            },
+            {
+                  "name": "Huai Khamin Noi Waterfall",
+                  "text": "Ez a szerény, de festői patak, amely mészkőteraszokon folyik keresztül, hozzájárul a környező magashegyi fennsík békés, természetes szépségéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.009508,
+                        16.997646
+                  ]
+            },
+            {
+                  "name": "Phu Lom Lo Viewpoint",
+                  "text": "Ez a kiterjedt fennsíki kilátó minden januárban élénk rózsaszín völggyé változik, amikor hegyoldalakon több ezer vad himalájai cseresznyefa virágzik.",
+                  "category": "natural",
+                  "coords": [
+                        101.071709,
+                        16.982458
+                  ]
+            },
+            {
+                  "name": "Phu Phra",
+                  "text": "A fennsík zord terepén megbúvó természetes sziklás enklávé számos tisztelt Buddha-szobornak ad otthont a kinyúló kő alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.103453,
+                        17.008485
+                  ]
+            },
+            {
+                  "name": "Wat Pa Yen Sira Tham Prathip",
+                  "text": "Egy buddhista templomegyüttes, amely a Phu Hin Rong Kla fennsík egyenetlen terepén bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        101.107367,
+                        17.00793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Man Daeng Waterfall",
+                  "text": "Ascunsă adânc în platoul Phu Hin Rong Kla, această cascadă pe mai multe niveluri este faimoasă pentru frunzele vibrante de arțar roșu care o înconjoară în sezonul rece.",
+                  "category": "landmark",
+                  "coords": [
+                        101.053177,
+                        16.936447
+                  ]
+            },
+            {
+                  "name": "Pha Chu Thong",
+                  "text": "Folosită istoric ca punct de semnalizare de către insurgenți, această stâncă abruptă de pe platou oferă acum vizitatorilor o vedere panoramică spectaculoasă a pădurii de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.993278,
+                        16.989409
+                  ]
+            },
+            {
+                  "name": "Pha Hua Dam",
+                  "text": "Acest punct de belvedere proeminent de pe platou prezintă o ieșitură stâncoasă de culoare închisă care se întinde peste valea largă a muntelui.",
+                  "category": "natural",
+                  "coords": [
+                        100.991849,
+                        16.993078
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "Vizitatorii acestui punct de observație de pe platou pot naviga printr-un peisaj fascinant de crevase geologice adânci și roci de bază crăpate, acoperite de mușchi și ferigi.",
+                  "category": "natural",
+                  "coords": [
+                        100.98683,
+                        17.00662
+                  ]
+            },
+            {
+                  "name": "Rom Klao Pharadon Waterfall",
+                  "text": "Căzută grațios pe o scară stâncoasă din pădurea veșnic verde a platoului, această cascadă cu două fluxuri oferă un loc de odihnă răcoros și umbrit.",
+                  "category": "landmark",
+                  "coords": [
+                        101.015184,
+                        16.996059
+                  ]
+            },
+            {
+                  "name": "Huai Khamin Noi Waterfall",
+                  "text": "Un pârâu modest, dar pitoresc, care curge peste terase de calcar, această cascadă contribuie la frumusețea naturală și liniștită a platoului de mare altitudine din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.009508,
+                        16.997646
+                  ]
+            },
+            {
+                  "name": "Phu Lom Lo Viewpoint",
+                  "text": "Acest punct de belvedere vast de pe platou se transformă într-o vale de roz vibrant în fiecare ianuarie, când mii de cireși sălbatici de Himalaya înfloresc pe dealuri.",
+                  "category": "natural",
+                  "coords": [
+                        101.071709,
+                        16.982458
+                  ]
+            },
+            {
+                  "name": "Phu Phra",
+                  "text": "Amplasată în terenul accidentat al platoului, această enclavă stâncoasă naturală adăpostește mai multe imagini venerate ale lui Buddha sub piatra suspendată.",
+                  "category": "landmark",
+                  "coords": [
+                        101.103453,
+                        17.008485
+                  ]
+            },
+            {
+                  "name": "Wat Pa Yen Sira Tham Prathip",
+                  "text": "Un complex de temple budiste ascuns pe terenul accidentat al platoului Phu Hin Rong Kla.",
+                  "category": "landmark",
+                  "coords": [
+                        101.107367,
+                        17.00793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Man Daeng Waterfall",
+                  "text": "Hidden deep within the Phu Hin Rong Kla plateau, this cascading multi-tiered waterfall is famously surrounded by vibrant red maple leaves during the cool season.",
+                  "category": "landmark",
+                  "coords": [
+                        101.053177,
+                        16.936447
+                  ]
+            },
+            {
+                  "name": "Pha Chu Thong",
+                  "text": "Historically used as a signalling point by insurgents, this steep cliff on the plateau now offers visitors dramatic panoramic views of the forest below.",
+                  "category": "landmark",
+                  "coords": [
+                        100.993278,
+                        16.989409
+                  ]
+            },
+            {
+                  "name": "Pha Hua Dam",
+                  "text": "This prominent plateau viewpoint features a striking, dark-colored rocky overhang that juts out over the expansive mountain valley.",
+                  "category": "natural",
+                  "coords": [
+                        100.991849,
+                        16.993078
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "Visitors to this plateau overlook can navigate through a fascinating landscape of deep geological crevices and cracked bedrock covered in moss and ferns.",
+                  "category": "natural",
+                  "coords": [
+                        100.98683,
+                        17.00662
+                  ]
+            },
+            {
+                  "name": "Rom Klao Pharadon Waterfall",
+                  "text": "Tumbling gracefully down a rocky staircase within the plateau's evergreen forest, this twin-stream waterfall provides a cool, shaded resting spot.",
+                  "category": "landmark",
+                  "coords": [
+                        101.015184,
+                        16.996059
+                  ]
+            },
+            {
+                  "name": "Huai Khamin Noi Waterfall",
+                  "text": "A modest but picturesque stream flowing over limestone tiers, this waterfall adds to the tranquil, natural beauty of the surrounding high-altitude plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        101.009508,
+                        16.997646
+                  ]
+            },
+            {
+                  "name": "Phu Lom Lo Viewpoint",
+                  "text": "This sweeping plateau viewpoint transforms into a valley of vibrant pink every January when thousands of Wild Himalayan Cherry trees blossom across the hills.",
+                  "category": "natural",
+                  "coords": [
+                        101.071709,
+                        16.982458
+                  ]
+            },
+            {
+                  "name": "Phu Phra",
+                  "text": "Nestled in the craggy terrain of the plateau, this natural rocky enclave houses several revered Buddha images sheltered beneath the overhanging stone.",
+                  "category": "landmark",
+                  "coords": [
+                        101.103453,
+                        17.008485
+                  ]
+            },
+            {
+                  "name": "Wat Pa Yen Sira Tham Prathip",
+                  "text": "A Buddhist temple complex tucked away on the rugged terrain of the Phu Hin Rong Kla plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        101.107367,
+                        17.00793
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "TH-65",
     coords: [101.05, 16.99],
@@ -416,7 +3125,160 @@ export const poiExtraThailandReliefV2: POI[] = [
     },
   },
   {
-    id: "khun-tan-range-relief-v2",
+    id: "khun-tan-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tat Moei Wasserfall",
+                  "text": "Ein mehrstufiger Wasserfall, der sich inmitten der dichten Bergwälder des Khun-Tan-Nationalparks befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.264273,
+                        18.532758
+                  ]
+            },
+            {
+                  "name": "Doi Khuntan National Park",
+                  "text": "Dieser Nationalpark erstreckt sich über das Khun-Tan-Gebirge und bietet Wanderwege durch immergrüne Bergwälder.",
+                  "category": "landmark",
+                  "coords": [
+                        99.26974,
+                        18.496116
+                  ]
+            },
+            {
+                  "name": "Khuntan Tunnel exit",
+                  "text": "Dies ist der Ausgang des längsten Eisenbahntunnels Thailands, der auf 1.352 Metern das Gebirge durchquert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.265462,
+                        18.498943
+                  ]
+            },
+            {
+                  "name": "Vilai Dairy Farm",
+                  "text": "Ein Agrotourismus-Bauernhof, der für seine frischen Milchprodukte und die Aussicht auf die sanften Hügel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.263074,
+                        18.552771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tat Moei Waterfall",
+                  "text": "Többszintes vízesés, amely a Khun Tan Nemzeti Park sűrű hegyi erdői között található.",
+                  "category": "landmark",
+                  "coords": [
+                        99.264273,
+                        18.532758
+                  ]
+            },
+            {
+                  "name": "Doi Khuntan National Park",
+                  "text": "Ez a nemzeti park a Khun Tan-hegységen húzódik keresztül, és túraútvonalakat kínál az örökzöld hegyi erdőkön át.",
+                  "category": "landmark",
+                  "coords": [
+                        99.26974,
+                        18.496116
+                  ]
+            },
+            {
+                  "name": "Khuntan Tunnel exit",
+                  "text": "Ez Thaiföld leghosszabb vasúti alagútjának kijárata, amely 1352 méter hosszan szeli át a hegységet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.265462,
+                        18.498943
+                  ]
+            },
+            {
+                  "name": "Vilai Dairy Farm",
+                  "text": "Agroturisztikai gazdaság, amely friss tejtermékeiről és a lankás dombokra nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.263074,
+                        18.552771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tat Moei Waterfall",
+                  "text": "O cascadă cu mai multe trepte, situată în mijlocul pădurilor dese de munte din Parcul Național Khun Tan.",
+                  "category": "landmark",
+                  "coords": [
+                        99.264273,
+                        18.532758
+                  ]
+            },
+            {
+                  "name": "Doi Khuntan National Park",
+                  "text": "Acest parc național se întinde peste munții Khun Tan și oferă trasee de drumeție prin păduri montane veșnic verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.26974,
+                        18.496116
+                  ]
+            },
+            {
+                  "name": "Khuntan Tunnel exit",
+                  "text": "Aceasta este ieșirea celui mai lung tunel feroviar din Thailanda, care traversează munții pe o distanță de 1.352 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.265462,
+                        18.498943
+                  ]
+            },
+            {
+                  "name": "Vilai Dairy Farm",
+                  "text": "O fermă agroturistică cunoscută pentru produsele lactate proaspete și vederea spre dealurile line.",
+                  "category": "landmark",
+                  "coords": [
+                        99.263074,
+                        18.552771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tat Moei Waterfall",
+                  "text": "A multi-tiered waterfall located amidst the dense mountain forests of Doi Khuntan National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        99.264273,
+                        18.532758
+                  ]
+            },
+            {
+                  "name": "Doi Khuntan National Park",
+                  "text": "This national park spans the Khun Tan Range and features hiking trails through evergreen mountain forests.",
+                  "category": "landmark",
+                  "coords": [
+                        99.26974,
+                        18.496116
+                  ]
+            },
+            {
+                  "name": "Khuntan Tunnel exit",
+                  "text": "This marks the exit of Thailand's longest railway tunnel, which spans 1,352 meters through the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        99.265462,
+                        18.498943
+                  ]
+            },
+            {
+                  "name": "Vilai Dairy Farm",
+                  "text": "An agrotourism farm known for its fresh dairy products and views of the rolling hills.",
+                  "category": "landmark",
+                  "coords": [
+                        99.263074,
+                        18.552771
+                  ]
+            }
+      ]
+},
     type: "mountain-range",
     parent: "TH-51",
     coords: [99.25, 18.5],
@@ -463,7 +3325,988 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une chaîne de montagnes dans le nord de la Thaïlande, connue pour le plus long tunnel ferroviaire du pays qui la traverse.", "Situé sur le territoire du Royaume de Thaïlande.", "Influencé par le climat de mousson de l'Asie du Sud-Est."],
     }, image: "/poi-images/khun-tan-range-relief-v2.webp"},
   {
-    id: "pran-buri-coast-relief-v2",
+    id: "pran-buri-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khao Kalok",
+                  "text": "Ein markanter, schädelförmiger Kalksteingipfel, der sich steil über der Küste von Pran Buri erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        99.999119,
+                        12.336221
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Viewpoint",
+                  "text": "Ein erhöhter Aussichtspunkt mit weitem Panoramablick über die Küste von Pran Buri.",
+                  "category": "natural",
+                  "coords": [
+                        99.998462,
+                        12.33902
+                  ]
+            },
+            {
+                  "name": "Chakhram Tower",
+                  "text": "Ein Aussichtsturm mit weitem Blick auf die umliegenden Küstenfeuchtgebiete und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        99.980751,
+                        12.396462
+                  ]
+            },
+            {
+                  "name": "Sai Noi Beach",
+                  "text": "Ein abgeschiedener Sandstrand, der von dramatischen Felsvorsprüngen an der Küste von Pran Buri flankiert wird.",
+                  "category": "recreational",
+                  "coords": [
+                        99.981644,
+                        12.45352
+                  ]
+            },
+            {
+                  "name": "Khao Tao Beach",
+                  "text": "Ein ruhiger Streifen feinen Sandstrandes in der Nähe des Küstendorfes Khao Tao.",
+                  "category": "recreational",
+                  "coords": [
+                        99.979374,
+                        12.458147
+                  ]
+            },
+            {
+                  "name": "Say Beach",
+                  "text": "Ein sandiger Küstenrückzugsort, der eine entspannende Umgebung am Meer entlang der Küste von Pran Buri bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        100.000992,
+                        12.335317
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Beach",
+                  "text": "Ein malerischer Sandstrand direkt am Fuße des markanten Khao Kalok Hügels.",
+                  "category": "recreational",
+                  "coords": [
+                        99.997987,
+                        12.345078
+                  ]
+            },
+            {
+                  "name": "Buddha statue",
+                  "text": "Eine ruhige buddhistische Statue, die als spirituelles Wahrzeichen mit Blick auf die Küstenregion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.980701,
+                        12.455836
+                  ]
+            },
+            {
+                  "name": "Samnaksong Tham Sawang",
+                  "text": "Eine buddhistische Klosterresidenz, die ein ruhiges Meditationszentrum inmitten der Landschaft von Pran Buri bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.979604,
+                        12.45624
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tao",
+                  "text": "Ein buddhistisches Heiligtum am Hang mit malerischem Blick auf das Küstendorf und den örtlichen Stausee.",
+                  "category": "landmark",
+                  "coords": [
+                        99.97571,
+                        12.462045
+                  ]
+            },
+            {
+                  "name": "Samnaksong Chittaphawana",
+                  "text": "Ein buddhistisches Meditationszentrum zur Förderung der spirituellen Praxis und Achtsamkeit in der Nähe der Küste von Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.951997,
+                        12.460816
+                  ]
+            },
+            {
+                  "name": "Chaopho Khao Khuang Shrine",
+                  "text": "Ein traditioneller taoistischer Schrein, der der Verehrung der Schutzgeister der lokalen Küstenumgebung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.944727,
+                        12.433588
+                  ]
+            },
+            {
+                  "name": "Wat Khao Kalok",
+                  "text": "Ein ruhiger buddhistischer Tempel in unmittelbarer Nähe der markanten Küstenkalksteinformationen von Khao Kalok.",
+                  "category": "landmark",
+                  "coords": [
+                        99.996233,
+                        12.334971
+                  ]
+            },
+            {
+                  "name": "Wat Ban Mai",
+                  "text": "Ein lokaler buddhistischer Gemeindetempel, der den religiösen Bedürfnissen der Region Ban Mai dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.982911,
+                        12.324437
+                  ]
+            },
+            {
+                  "name": "Wat Na Huai",
+                  "text": "Ein traditioneller buddhistischer Tempel in der Nähe der gewundenen Wasserstraßen des Bezirks Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.949258,
+                        12.368668
+                  ]
+            },
+            {
+                  "name": "Wat Kao Khao Noi",
+                  "text": "Eine historische buddhistische Stätte auf einem älteren, kleinen Hügel in der Region Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.981615,
+                        12.386915
+                  ]
+            },
+            {
+                  "name": "Wat Wang Phong",
+                  "text": "Ein zentraler buddhistischer Tempelkomplex, der das spirituelle Leben der Gemeinde Wang Phong verankert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.928741,
+                        12.403784
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi Lang",
+                  "text": "Ein tiefer gelegener buddhistischer Tempelkomplex am Hang, der ein friedliches religiöses Heiligtum in Pran Buri bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.909077,
+                        12.387348
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "Ein buddhistischer Tempel am Hang, der einen ruhigen spirituellen Rückzugsort in den Hügeln bei Pran Buri bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.903766,
+                        12.391805
+                  ]
+            },
+            {
+                  "name": "Wat Pran Buri",
+                  "text": "Der wichtigste buddhistische Tempel, der als primäres spirituelles Zentrum für die Hauptstadt Pran Buri dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.932124,
+                        12.37199
+                  ]
+            },
+            {
+                  "name": "Pran Buri City Pillar Shrine",
+                  "text": "Der bürgerliche und spirituelle Schrein, in dem die grundlegende Stadtsäule für den Bezirk Pran Buri steht.",
+                  "category": "religious",
+                  "coords": [
+                        99.934046,
+                        12.371373
+                  ]
+            },
+            {
+                  "name": "Wat Khao Din",
+                  "text": "Ein lokales buddhistisches Heiligtum auf den erdigen, natürlichen Erhebungen, die die Landschaft von Pran Buri prägen.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95699,
+                        12.444316
+                  ]
+            },
+            {
+                  "name": "Wat Rang Si Nimit",
+                  "text": "Dieser buddhistische Tempel bietet eine friedliche Atmosphäre zur Besinnung nahe der Küstenlandschaft von Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931107,
+                        12.428147
+                  ]
+            },
+            {
+                  "name": "Market Fair",
+                  "text": "Dieser lokale Marktplatz nahe der Küste von Pran Buri bietet Stände mit regionalen Produkten und Alltagsgegenständen.",
+                  "category": "cultural",
+                  "coords": [
+                        99.985386,
+                        12.389436
+                  ]
+            },
+            {
+                  "name": "Rotfai Market",
+                  "text": "Dieser traditionelle Eisenbahnmarkt in der Gegend von Pran Buri bietet Straßenessen und lokale Waren an.",
+                  "category": "cultural",
+                  "coords": [
+                        99.928496,
+                        12.38782
+                  ]
+            },
+            {
+                  "name": "Chat Kaeo Market",
+                  "text": "Besucher dieses Marktplatzes in Pran Buri können verschiedene Stände mit lokalen Zutaten und thailändischen Snacks erkunden.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902554,
+                        12.387381
+                  ]
+            },
+            {
+                  "name": "Ko Kaeo Night Market",
+                  "text": "Dieser lebhafte Abendmarkt nahe der Küste von Pran Buri erwacht in der Dämmerung mit frischen Essensständen und lokalem Kunsthandwerk zum Leben.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902951,
+                        12.385084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khao Kalok",
+                  "text": "A Pran Buri tengerpartja fölé hirtelen magasodó, jellegzetes koponya alakú mészkőcsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        99.999119,
+                        12.336221
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Viewpoint",
+                  "text": "Magasan fekvő kilátó, amely lenyűgöző panorámát nyújt Pran Buri partvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        99.998462,
+                        12.33902
+                  ]
+            },
+            {
+                  "name": "Chakhram Tower",
+                  "text": "A környező parti vizes élőhelyekre és a tengerre nyíló széles kilátást nyújtó kilátótorony.",
+                  "category": "natural",
+                  "coords": [
+                        99.980751,
+                        12.396462
+                  ]
+            },
+            {
+                  "name": "Sai Noi Beach",
+                  "text": "Elzárt homokos strand a Pran Buri parton, amelyet drámai sziklás hegyfokok szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        99.981644,
+                        12.45352
+                  ]
+            },
+            {
+                  "name": "Khao Tao Beach",
+                  "text": "Nyugodt, finom homokos partszakasz Khao Tao tengerparti falujának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        99.979374,
+                        12.458147
+                  ]
+            },
+            {
+                  "name": "Say Beach",
+                  "text": "Homokos tengerparti pihenőhely, amely pihentető tengerparti környezetet kínál a Pran Buri partvonalon.",
+                  "category": "recreational",
+                  "coords": [
+                        100.000992,
+                        12.335317
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Beach",
+                  "text": "Festői homokos part közvetlenül a kiemelkedő Khao Kalok domb lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        99.997987,
+                        12.345078
+                  ]
+            },
+            {
+                  "name": "Buddha statue",
+                  "text": "A tengerparti területre néző, spirituális mérföldkőként szolgáló békés buddhista szobor.",
+                  "category": "landmark",
+                  "coords": [
+                        99.980701,
+                        12.455836
+                  ]
+            },
+            {
+                  "name": "Samnaksong Tham Sawang",
+                  "text": "Egy buddhista kolostori rezidencia, amely csendes meditációs központot kínál a Pran Buri tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        99.979604,
+                        12.45624
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tao",
+                  "text": "Hegyi buddhista szentély, amely festői kilátást nyújt a tengerparti falura és a helyi víztározóra.",
+                  "category": "landmark",
+                  "coords": [
+                        99.97571,
+                        12.462045
+                  ]
+            },
+            {
+                  "name": "Samnaksong Chittaphawana",
+                  "text": "Buddhista meditációs központ, amely a spirituális gyakorlást és a tudatosságot ápolja a Pran Buri part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        99.951997,
+                        12.460816
+                  ]
+            },
+            {
+                  "name": "Chaopho Khao Khuang Shrine",
+                  "text": "A helyi tengerparti környezet védőszellemeinek tiszteletére szentelt hagyományos taoista szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        99.944727,
+                        12.433588
+                  ]
+            },
+            {
+                  "name": "Wat Khao Kalok",
+                  "text": "Khao Kalok lenyűgöző tengerparti mészkőképződményeinek közvetlen közelében található békés buddhista templom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.996233,
+                        12.334971
+                  ]
+            },
+            {
+                  "name": "Wat Ban Mai",
+                  "text": "A Ban Mai terület vallási igényeit szolgáló helyi buddhista közösségi templom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.982911,
+                        12.324437
+                  ]
+            },
+            {
+                  "name": "Wat Na Huai",
+                  "text": "Hagyományos buddhista templom a Pran Buri körzet kanyargós vízi útjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        99.949258,
+                        12.368668
+                  ]
+            },
+            {
+                  "name": "Wat Kao Khao Noi",
+                  "text": "Történelmi buddhista lelőhely, amely egy régebbi, kis dombon fészkel a Pran Buri régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        99.981615,
+                        12.386915
+                  ]
+            },
+            {
+                  "name": "Wat Wang Phong",
+                  "text": "Egy központi buddhista templomkomplexum, amely a Wang Phong közösség spirituális életének alapja.",
+                  "category": "landmark",
+                  "coords": [
+                        99.928741,
+                        12.403784
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi Lang",
+                  "text": "A hegyoldal alsó részén található buddhista templomkomplexum, amely békés vallási menedéket kínál Pran Buriban.",
+                  "category": "landmark",
+                  "coords": [
+                        99.909077,
+                        12.387348
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "A Pran Buri melletti dombok között megbúvó, csendes spirituális elvonulást biztosító hegyoldali buddhista templom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.903766,
+                        12.391805
+                  ]
+            },
+            {
+                  "name": "Wat Pran Buri",
+                  "text": "A Pran Buri fővárosának elsődleges spirituális központjaként szolgáló fő buddhista templom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.932124,
+                        12.37199
+                  ]
+            },
+            {
+                  "name": "Pran Buri City Pillar Shrine",
+                  "text": "A Pran Buri körzet alapító városi oszlopának otthont adó polgári és spirituális szentély.",
+                  "category": "religious",
+                  "coords": [
+                        99.934046,
+                        12.371373
+                  ]
+            },
+            {
+                  "name": "Wat Khao Din",
+                  "text": "Helyi buddhista szentély a Pran Buri tájat jellemző földes, természetes magaslatokon.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95699,
+                        12.444316
+                  ]
+            },
+            {
+                  "name": "Wat Rang Si Nimit",
+                  "text": "Ez a buddhista templom békés környezetet kínál a Pran Buri tengerparti tájainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931107,
+                        12.428147
+                  ]
+            },
+            {
+                  "name": "Market Fair",
+                  "text": "Ez a Pran Buri partjaihoz közeli helyi piac regionális termékeket és mindennapi cikkeket kínáló standokkal várja a vásárlókat.",
+                  "category": "cultural",
+                  "coords": [
+                        99.985386,
+                        12.389436
+                  ]
+            },
+            {
+                  "name": "Rotfai Market",
+                  "text": "Ez a hagyományos vasúti piac Pran Buri térségében utcai ételeket és helyi árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        99.928496,
+                        12.38782
+                  ]
+            },
+            {
+                  "name": "Chat Kaeo Market",
+                  "text": "A Pran Buri-i piac látogatói különböző standokat fedezhetnek fel, amelyek helyi alapanyagokat és thai harapnivalókat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902554,
+                        12.387381
+                  ]
+            },
+            {
+                  "name": "Ko Kaeo Night Market",
+                  "text": "Ez a vibráló esti piac a Pran Buri partvidék közelében szürkületkor telik meg élettel a friss ételeket és helyi kézműves termékeket kínáló standoknak köszönhetően.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902951,
+                        12.385084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khao Kalok",
+                  "text": "Un vârf de calcar distinctiv în formă de craniu, care se ridică brusc deasupra coastei Pran Buri.",
+                  "category": "natural",
+                  "coords": [
+                        99.999119,
+                        12.336221
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Viewpoint",
+                  "text": "Un punct de belvedere înalt care oferă o panoramă largă asupra coastei Pran Buri.",
+                  "category": "natural",
+                  "coords": [
+                        99.998462,
+                        12.33902
+                  ]
+            },
+            {
+                  "name": "Chakhram Tower",
+                  "text": "Un turn de observație ce oferă vederi extinse asupra zonelor umede de coastă din jur și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        99.980751,
+                        12.396462
+                  ]
+            },
+            {
+                  "name": "Sai Noi Beach",
+                  "text": "O plajă de nisip izolată, flancată de promontorii stâncoase dramatice pe coasta Pran Buri.",
+                  "category": "recreational",
+                  "coords": [
+                        99.981644,
+                        12.45352
+                  ]
+            },
+            {
+                  "name": "Khao Tao Beach",
+                  "text": "O fâșie liniștită de coastă cu nisip fin situată în apropierea satului de coastă Khao Tao.",
+                  "category": "recreational",
+                  "coords": [
+                        99.979374,
+                        12.458147
+                  ]
+            },
+            {
+                  "name": "Say Beach",
+                  "text": "Un refugiu de coastă cu nisip care oferă un mediu relaxant la malul mării de-a lungul coastei Pran Buri.",
+                  "category": "recreational",
+                  "coords": [
+                        100.000992,
+                        12.335317
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Beach",
+                  "text": "O coastă pitorească de nisip situată chiar la baza proeminentului deal Khao Kalok.",
+                  "category": "recreational",
+                  "coords": [
+                        99.997987,
+                        12.345078
+                  ]
+            },
+            {
+                  "name": "Buddha statue",
+                  "text": "O statuie budistă senină care servește ca punct de reper spiritual cu vedere la zona de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        99.980701,
+                        12.455836
+                  ]
+            },
+            {
+                  "name": "Samnaksong Tham Sawang",
+                  "text": "O reședință monahală budistă care oferă un centru de meditație liniștit în mijlocul peisajului Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.979604,
+                        12.45624
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tao",
+                  "text": "Un sanctuar budist pe deal, care oferă vederi pitorești asupra satului de coastă și a rezervorului local.",
+                  "category": "landmark",
+                  "coords": [
+                        99.97571,
+                        12.462045
+                  ]
+            },
+            {
+                  "name": "Samnaksong Chittaphawana",
+                  "text": "Un centru de meditație budist care promovează practica spirituală și atenția în apropierea coastei Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.951997,
+                        12.460816
+                  ]
+            },
+            {
+                  "name": "Chaopho Khao Khuang Shrine",
+                  "text": "Un altar taoist tradițional dedicat onorării spiritelor păzitoare ale mediului local de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        99.944727,
+                        12.433588
+                  ]
+            },
+            {
+                  "name": "Wat Khao Kalok",
+                  "text": "Un templu budist senin situat în imediata apropiere a formațiunilor calcaroase de coastă uimitoare din Khao Kalok.",
+                  "category": "landmark",
+                  "coords": [
+                        99.996233,
+                        12.334971
+                  ]
+            },
+            {
+                  "name": "Wat Ban Mai",
+                  "text": "Un templu budist comunitar local ce deservește nevoile religioase ale zonei Ban Mai.",
+                  "category": "landmark",
+                  "coords": [
+                        99.982911,
+                        12.324437
+                  ]
+            },
+            {
+                  "name": "Wat Na Huai",
+                  "text": "Un templu budist tradițional situat în apropierea căilor navigabile șerpuitoare din districtul Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.949258,
+                        12.368668
+                  ]
+            },
+            {
+                  "name": "Wat Kao Khao Noi",
+                  "text": "Un sit budist istoric cuibărit pe un deal mic și mai vechi din regiunea Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.981615,
+                        12.386915
+                  ]
+            },
+            {
+                  "name": "Wat Wang Phong",
+                  "text": "Un complex de temple budiste central care ancorează viața spirituală a comunității Wang Phong.",
+                  "category": "landmark",
+                  "coords": [
+                        99.928741,
+                        12.403784
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi Lang",
+                  "text": "Un complex de temple budiste situat pe versantul inferior, care oferă un sanctuar religios pașnic în Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.909077,
+                        12.387348
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "Un templu budist pe deal care oferă un refugiu spiritual liniștit amplasat în dealurile de lângă Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.903766,
+                        12.391805
+                  ]
+            },
+            {
+                  "name": "Wat Pran Buri",
+                  "text": "Templul budist principal care servește drept centru spiritual primar pentru orașul principal Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.932124,
+                        12.37199
+                  ]
+            },
+            {
+                  "name": "Pran Buri City Pillar Shrine",
+                  "text": "Altarul civic și spiritual care adăpostește pilonul orașului fondator pentru districtul Pran Buri.",
+                  "category": "religious",
+                  "coords": [
+                        99.934046,
+                        12.371373
+                  ]
+            },
+            {
+                  "name": "Wat Khao Din",
+                  "text": "Un sanctuar budist local situat pe înălțimile pământii și naturale care caracterizează peisajul Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95699,
+                        12.444316
+                  ]
+            },
+            {
+                  "name": "Wat Rang Si Nimit",
+                  "text": "Acest templu budist oferă un cadru liniștit pentru reflecție în apropierea peisajelor de coastă din Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931107,
+                        12.428147
+                  ]
+            },
+            {
+                  "name": "Market Fair",
+                  "text": "Această piață locală situată lângă coasta Pran Buri găzduiește tarabe cu produse regionale și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        99.985386,
+                        12.389436
+                  ]
+            },
+            {
+                  "name": "Rotfai Market",
+                  "text": "Această piață feroviară tradițională din zona Pran Buri dispune de comercianți care vând mâncare stradală și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        99.928496,
+                        12.38782
+                  ]
+            },
+            {
+                  "name": "Chat Kaeo Market",
+                  "text": "Vizitatorii acestei piețe din Pran Buri pot explora diverse tarabe care oferă ingrediente locale și gustări thailandeze.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902554,
+                        12.387381
+                  ]
+            },
+            {
+                  "name": "Ko Kaeo Night Market",
+                  "text": "Această piață vibrantă de seară, situată lângă coasta Pran Buri, prinde viață la amurg cu tarabe cu mâncare proaspătă și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902951,
+                        12.385084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khao Kalok",
+                  "text": "A distinctive skull-shaped limestone peak rising abruptly above the Pran Buri coastline.",
+                  "category": "natural",
+                  "coords": [
+                        99.999119,
+                        12.336221
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Viewpoint",
+                  "text": "An elevated viewpoint providing sweeping panoramic vistas over the coastline of Pran Buri.",
+                  "category": "natural",
+                  "coords": [
+                        99.998462,
+                        12.33902
+                  ]
+            },
+            {
+                  "name": "Chakhram Tower",
+                  "text": "An observation tower offering expansive views of the surrounding coastal wetlands and sea.",
+                  "category": "natural",
+                  "coords": [
+                        99.980751,
+                        12.396462
+                  ]
+            },
+            {
+                  "name": "Sai Noi Beach",
+                  "text": "A secluded sandy beach flanked by dramatic rocky headlands on the Pran Buri coast.",
+                  "category": "recreational",
+                  "coords": [
+                        99.981644,
+                        12.45352
+                  ]
+            },
+            {
+                  "name": "Khao Tao Beach",
+                  "text": "A tranquil strip of fine sandy shoreline nestled near the coastal village of Khao Tao.",
+                  "category": "recreational",
+                  "coords": [
+                        99.979374,
+                        12.458147
+                  ]
+            },
+            {
+                  "name": "Say Beach",
+                  "text": "A sandy coastal retreat offering a relaxing seaside environment along the Pran Buri coast.",
+                  "category": "recreational",
+                  "coords": [
+                        100.000992,
+                        12.335317
+                  ]
+            },
+            {
+                  "name": "Khao Kalok Beach",
+                  "text": "A scenic sandy shore situated directly at the base of the prominent Khao Kalok hill.",
+                  "category": "recreational",
+                  "coords": [
+                        99.997987,
+                        12.345078
+                  ]
+            },
+            {
+                  "name": "Buddha statue",
+                  "text": "A serene Buddhist statue serving as a spiritual landmark overlooking the coastal area.",
+                  "category": "landmark",
+                  "coords": [
+                        99.980701,
+                        12.455836
+                  ]
+            },
+            {
+                  "name": "Samnaksong Tham Sawang",
+                  "text": "A Buddhist monastic residence offering a quiet meditation center amid the Pran Buri landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        99.979604,
+                        12.45624
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tao",
+                  "text": "A hillside Buddhist sanctuary providing scenic views over the coastal village and local reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        99.97571,
+                        12.462045
+                  ]
+            },
+            {
+                  "name": "Samnaksong Chittaphawana",
+                  "text": "A Buddhist meditation center fostering spiritual practice and mindfulness near the Pran Buri coast.",
+                  "category": "landmark",
+                  "coords": [
+                        99.951997,
+                        12.460816
+                  ]
+            },
+            {
+                  "name": "Chaopho Khao Khuang Shrine",
+                  "text": "A traditional Taoist shrine dedicated to honoring the guardian spirits of the local coastal environment.",
+                  "category": "landmark",
+                  "coords": [
+                        99.944727,
+                        12.433588
+                  ]
+            },
+            {
+                  "name": "Wat Khao Kalok",
+                  "text": "A serene Buddhist temple situated in close proximity to the striking coastal limestone formations of Khao Kalok.",
+                  "category": "landmark",
+                  "coords": [
+                        99.996233,
+                        12.334971
+                  ]
+            },
+            {
+                  "name": "Wat Ban Mai",
+                  "text": "A local Buddhist community temple serving the religious needs of the Ban Mai area.",
+                  "category": "landmark",
+                  "coords": [
+                        99.982911,
+                        12.324437
+                  ]
+            },
+            {
+                  "name": "Wat Na Huai",
+                  "text": "A traditional Buddhist temple situated near the meandering waterways of the Pran Buri district.",
+                  "category": "landmark",
+                  "coords": [
+                        99.949258,
+                        12.368668
+                  ]
+            },
+            {
+                  "name": "Wat Kao Khao Noi",
+                  "text": "A historic Buddhist site nestled upon an older, small hill within the Pran Buri region.",
+                  "category": "landmark",
+                  "coords": [
+                        99.981615,
+                        12.386915
+                  ]
+            },
+            {
+                  "name": "Wat Wang Phong",
+                  "text": "A central Buddhist temple complex that anchors the spiritual life of the Wang Phong community.",
+                  "category": "landmark",
+                  "coords": [
+                        99.928741,
+                        12.403784
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi Lang",
+                  "text": "A lower hillside Buddhist temple complex offering a peaceful religious sanctuary in Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.909077,
+                        12.387348
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "A hillside Buddhist temple providing a quiet spiritual retreat nestled in the hills near Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.903766,
+                        12.391805
+                  ]
+            },
+            {
+                  "name": "Wat Pran Buri",
+                  "text": "The principal Buddhist temple serving as the primary spiritual center for the main town of Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.932124,
+                        12.37199
+                  ]
+            },
+            {
+                  "name": "Pran Buri City Pillar Shrine",
+                  "text": "The civic and spiritual shrine housing the foundational city pillar for the district of Pran Buri.",
+                  "category": "religious",
+                  "coords": [
+                        99.934046,
+                        12.371373
+                  ]
+            },
+            {
+                  "name": "Wat Khao Din",
+                  "text": "A local Buddhist sanctuary situated on the earthy, natural elevations characterizing the Pran Buri landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95699,
+                        12.444316
+                  ]
+            },
+            {
+                  "name": "Wat Rang Si Nimit",
+                  "text": "This Buddhist temple offers a peaceful setting for reflection near the coastal landscapes of Pran Buri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931107,
+                        12.428147
+                  ]
+            },
+            {
+                  "name": "Market Fair",
+                  "text": "This local marketplace near the Pran Buri coast features stalls selling regional produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        99.985386,
+                        12.389436
+                  ]
+            },
+            {
+                  "name": "Rotfai Market",
+                  "text": "This traditional railway market in the Pran Buri area features vendors selling street food and local wares.",
+                  "category": "cultural",
+                  "coords": [
+                        99.928496,
+                        12.38782
+                  ]
+            },
+            {
+                  "name": "Chat Kaeo Market",
+                  "text": "Visitors to this marketplace in Pran Buri can explore various stalls offering local ingredients and Thai snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902554,
+                        12.387381
+                  ]
+            },
+            {
+                  "name": "Ko Kaeo Night Market",
+                  "text": "This vibrant evening market near the Pran Buri coast lights up at dusk with fresh food stalls and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        99.902951,
+                        12.385084
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TH-77",
     coords: [99.98, 12.38],
@@ -510,7 +4353,520 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Un tronçon côtier paisible au sud de Hua Hin, connu pour ses plages immaculées et le parc forestier de Pran Buri avec ses mangroves.", "Situé sur le territoire du Royaume de Thaïlande.", "Influencé par le climat de mousson de l'Asie du Sud-Est."],
     }, image: "/poi-images/pran-buri-coast-relief-v2.webp"},
   {
-    id: "yom-river-valley-relief-v2",
+    id: "yom-river-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Pak Tho (Nuea)",
+                  "text": "Die historischen Ruinen eines ehemaligen Tempels im nördlichen Abschnitt des Flusstals.",
+                  "category": "historical",
+                  "coords": [
+                        99.725433,
+                        17.030419
+                  ]
+            },
+            {
+                  "name": "Wat Pak Tho Tai",
+                  "text": "Eine antike Tempelruine im südlichen Teil des historischen Flusstals.",
+                  "category": "historical",
+                  "coords": [
+                        99.725305,
+                        17.02567
+                  ]
+            },
+            {
+                  "name": "Wat Si Sewotwanaram",
+                  "text": "Ein bedeutendes lokales Kultobjekt, das als aktives spirituelles Zentrum in der Gemeinde fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        99.830444,
+                        17.002158
+                  ]
+            },
+            {
+                  "name": "Sangkhalok Museum",
+                  "text": "Eine kulturelle Einrichtung, die sich der Erhaltung und Ausstellung historischer Sangkhalok-Keramik und -Töpferei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        99.835507,
+                        17.012426
+                  ]
+            },
+            {
+                  "name": "Wat Ratchathani",
+                  "text": "Ein anerkanntes Kultobjekt mit traditioneller Architektur, das der lokalen Religionsgemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        99.818045,
+                        17.009763
+                  ]
+            },
+            {
+                  "name": "Wat Khuha Suwan",
+                  "text": "Eine bekannte historische Tempelanlage mit traditioneller thailändischer Sakralarchitektur in der Yom-Flusstalregion.",
+                  "category": "religious",
+                  "coords": [
+                        99.815993,
+                        17.009705
+                  ]
+            },
+            {
+                  "name": "Wat Thai Chumphon",
+                  "text": "Eine namhafte historische Kultstätte inmitten der malerischen Landschaft des Yom-Flusstals.",
+                  "category": "religious",
+                  "coords": [
+                        99.819849,
+                        17.015953
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Eine lokale religiöse Einrichtung, die der Gemeinde im Yom-Flusstal als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        99.782276,
+                        17.011658
+                  ]
+            },
+            {
+                  "name": "Tai Ming Zhen Temple",
+                  "text": "Ein lokaler taoistischer Tempel, der den spirituellen Bedürfnissen der chinesischen Gemeinde im Yom-Flusstal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.822366,
+                        17.019644
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Yo",
+                  "text": "Ein traditioneller buddhistischer Tempelkomplex in der ländlichen Landschaft des Yom-Flusstals.",
+                  "category": "landmark",
+                  "coords": [
+                        99.733725,
+                        17.104707
+                  ]
+            },
+            {
+                  "name": "Wat Baan Na",
+                  "text": "Ein regionaler buddhistischer Tempel, der als wichtiges spirituelles Zentrum im Yom-Flusstal fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.738899,
+                        17.016294
+                  ]
+            },
+            {
+                  "name": "Phra Mae Ya Shrine",
+                  "text": "Ein hochangesehener spiritueller Schrein, der von einheimischen Gläubigen aus dem gesamten Yom-Flusstal besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        99.825732,
+                        17.005354
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Ein lebhafter abendlicher Marktplatz, der regionale Streetfood-Spezialitäten und lokale Waren im Yom-Flusstal anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        99.815647,
+                        17.008763
+                  ]
+            },
+            {
+                  "name": "Public Market 1 Sukhothai Thani Municipality",
+                  "text": "Ein geschäftiger städtischer Markt in der Yom-Flusstalregion, auf dem Einheimische täglich frische Produkte einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        99.819807,
+                        17.010771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Pak Tho (Nuea)",
+                  "text": "Egy egykori templom történelmi romjai a folyóvölgy északi részén.",
+                  "category": "historical",
+                  "coords": [
+                        99.725433,
+                        17.030419
+                  ]
+            },
+            {
+                  "name": "Wat Pak Tho Tai",
+                  "text": "Ősi romos templomterület, amely a történelmi folyóvölgy déli részén található.",
+                  "category": "historical",
+                  "coords": [
+                        99.725305,
+                        17.02567
+                  ]
+            },
+            {
+                  "name": "Wat Si Sewotwanaram",
+                  "text": "Jelentős helyi istentiszteleti hely, amely a közösség aktív szellemi központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        99.830444,
+                        17.002158
+                  ]
+            },
+            {
+                  "name": "Sangkhalok Museum",
+                  "text": "Kulturális intézmény, amely a történelmi Sangkhalok kerámiák és fazekas termékek megőrzésére és bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        99.835507,
+                        17.012426
+                  ]
+            },
+            {
+                  "name": "Wat Ratchathani",
+                  "text": "Elismert istentiszteleti hely, amely hagyományos építészettel büszkélkedhet, és a helyi vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        99.818045,
+                        17.009763
+                  ]
+            },
+            {
+                  "name": "Wat Khuha Suwan",
+                  "text": "Egy ismert történelmi templom, amely a hagyományos thai vallási építészetet képviseli a Jom-folyó völgyében.",
+                  "category": "religious",
+                  "coords": [
+                        99.815993,
+                        17.009705
+                  ]
+            },
+            {
+                  "name": "Wat Thai Chumphon",
+                  "text": "Híres történelmi istentiszteleti hely, amely a festői Jom-folyó völgyében helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        99.819849,
+                        17.015953
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Helyi vallási építmény, amely a Jom-folyó völgyében élők közösségi istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        99.782276,
+                        17.011658
+                  ]
+            },
+            {
+                  "name": "Tai Ming Zhen Temple",
+                  "text": "Helyi taoista templom, amely a Jom-folyó völgyében élő kínai közösség hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        99.822366,
+                        17.019644
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Yo",
+                  "text": "Hagyományos buddhista templomkomplexum a Jom-folyó völgyének vidéki tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        99.733725,
+                        17.104707
+                  ]
+            },
+            {
+                  "name": "Wat Baan Na",
+                  "text": "Regionális buddhista templom, amely fontos szellemi központként működik a Jom-folyó völgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        99.738899,
+                        17.016294
+                  ]
+            },
+            {
+                  "name": "Phra Mae Ya Shrine",
+                  "text": "A helyi hívők által gyakran látogatott, nagy tiszteletben tartott szentély a Jom-folyó völgyében.",
+                  "category": "religious",
+                  "coords": [
+                        99.825732,
+                        17.005354
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Nyüzsgő esti piac a Jom-folyó völgyében, ahol regionális utcai ételeket és helyi árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        99.815647,
+                        17.008763
+                  ]
+            },
+            {
+                  "name": "Public Market 1 Sukhothai Thani Municipality",
+                  "text": "Nyüzsgő önkormányzati piac a Jom-folyó völgyében, ahol a helyiek mindennap friss termékeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        99.819807,
+                        17.010771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Pak Tho (Nuea)",
+                  "text": "Ruinele istorice ale unui fost templu situat în secțiunea de nord a văii râului.",
+                  "category": "historical",
+                  "coords": [
+                        99.725433,
+                        17.030419
+                  ]
+            },
+            {
+                  "name": "Wat Pak Tho Tai",
+                  "text": "Un sit cu un templu antic în ruină, situat în partea de sud a zonei istorice a văii râului.",
+                  "category": "historical",
+                  "coords": [
+                        99.725305,
+                        17.02567
+                  ]
+            },
+            {
+                  "name": "Wat Si Sewotwanaram",
+                  "text": "Un loc local notabil de cult care funcționează ca un centru spiritual activ în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        99.830444,
+                        17.002158
+                  ]
+            },
+            {
+                  "name": "Sangkhalok Museum",
+                  "text": "O instituție culturală dedicată conservării și expunerii ceramicii și olăritului istoric Sangkhalok.",
+                  "category": "museum",
+                  "coords": [
+                        99.835507,
+                        17.012426
+                  ]
+            },
+            {
+                  "name": "Wat Ratchathani",
+                  "text": "Un loc de cult recunoscut, care prezintă o arhitectură tradițională și servește comunității religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        99.818045,
+                        17.009763
+                  ]
+            },
+            {
+                  "name": "Wat Khuha Suwan",
+                  "text": "Un loc istoric de templu notabil, care prezintă arhitectura religioasă tradițională thailandeză în regiunea văii râului Yom.",
+                  "category": "religious",
+                  "coords": [
+                        99.815993,
+                        17.009705
+                  ]
+            },
+            {
+                  "name": "Wat Thai Chumphon",
+                  "text": "Un lăcaș de cult istoric notabil situat în peisajul pitoresc al văii râului Yom.",
+                  "category": "religious",
+                  "coords": [
+                        99.819849,
+                        17.015953
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "O structură religioasă locală care oferă un spațiu dedicat pentru cultul comunității în zona văii râului Yom.",
+                  "category": "religious",
+                  "coords": [
+                        99.782276,
+                        17.011658
+                  ]
+            },
+            {
+                  "name": "Tai Ming Zhen Temple",
+                  "text": "Un templu taoist local care deservește nevoile spirituale ale comunității chineze din valea râului Yom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.822366,
+                        17.019644
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Yo",
+                  "text": "Un complex de temple budiste tradiționale situat în peisajul rural al văii râului Yom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.733725,
+                        17.104707
+                  ]
+            },
+            {
+                  "name": "Wat Baan Na",
+                  "text": "Un templu budist regional care funcționează ca un important centru spiritual în valea râului Yom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.738899,
+                        17.016294
+                  ]
+            },
+            {
+                  "name": "Phra Mae Ya Shrine",
+                  "text": "Un altar spiritual foarte respectat, frecventat de credincioșii locali din întreaga vale a râului Yom.",
+                  "category": "religious",
+                  "coords": [
+                        99.825732,
+                        17.005354
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "O piață de seară vibrantă, care oferă mâncare stradală regională și mărfuri locale în valea râului Yom.",
+                  "category": "cultural",
+                  "coords": [
+                        99.815647,
+                        17.008763
+                  ]
+            },
+            {
+                  "name": "Public Market 1 Sukhothai Thani Municipality",
+                  "text": "O piață municipală plină de viață, unde localnicii cumpără produse proaspete zilnic în zona văii râului Yom.",
+                  "category": "cultural",
+                  "coords": [
+                        99.819807,
+                        17.010771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Pak Tho (Nuea)",
+                  "text": "The historical ruins of a former temple situated in the northern section of the river valley.",
+                  "category": "historical",
+                  "coords": [
+                        99.725433,
+                        17.030419
+                  ]
+            },
+            {
+                  "name": "Wat Pak Tho Tai",
+                  "text": "An ancient ruined temple site located in the southern part of the historic river valley area.",
+                  "category": "historical",
+                  "coords": [
+                        99.725305,
+                        17.02567
+                  ]
+            },
+            {
+                  "name": "Wat Si Sewotwanaram",
+                  "text": "A notable local place of worship functioning as an active spiritual center in the community.",
+                  "category": "religious",
+                  "coords": [
+                        99.830444,
+                        17.002158
+                  ]
+            },
+            {
+                  "name": "Sangkhalok Museum",
+                  "text": "A cultural institution dedicated to the preservation and display of historical Sangkhalok ceramics and pottery.",
+                  "category": "museum",
+                  "coords": [
+                        99.835507,
+                        17.012426
+                  ]
+            },
+            {
+                  "name": "Wat Ratchathani",
+                  "text": "A recognized place of worship featuring traditional architecture and serving the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        99.818045,
+                        17.009763
+                  ]
+            },
+            {
+                  "name": "Wat Khuha Suwan",
+                  "text": "A notable historic temple site featuring traditional Thai religious architecture in the Yom River valley region.",
+                  "category": "religious",
+                  "coords": [
+                        99.815993,
+                        17.009705
+                  ]
+            },
+            {
+                  "name": "Wat Thai Chumphon",
+                  "text": "A notable historic place of worship situated along the scenic Yom River valley setting.",
+                  "category": "religious",
+                  "coords": [
+                        99.819849,
+                        17.015953
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A local religious structure providing a dedicated space for community worship in the Yom River valley area.",
+                  "category": "religious",
+                  "coords": [
+                        99.782276,
+                        17.011658
+                  ]
+            },
+            {
+                  "name": "Tai Ming Zhen Temple",
+                  "text": "A local Taoist temple serving the spiritual needs of the Chinese community in the Yom River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        99.822366,
+                        17.019644
+                  ]
+            },
+            {
+                  "name": "Wat Khlong Yo",
+                  "text": "A traditional Buddhist temple complex situated within the rural landscape of the Yom River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        99.733725,
+                        17.104707
+                  ]
+            },
+            {
+                  "name": "Wat Baan Na",
+                  "text": "A regional Buddhist temple that functions as an important spiritual center in the Yom River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        99.738899,
+                        17.016294
+                  ]
+            },
+            {
+                  "name": "Phra Mae Ya Shrine",
+                  "text": "A highly respected spiritual shrine frequented by local worshippers throughout the Yom River valley.",
+                  "category": "religious",
+                  "coords": [
+                        99.825732,
+                        17.005354
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "A vibrant evening marketplace offering regional street food and local wares in the Yom River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        99.815647,
+                        17.008763
+                  ]
+            },
+            {
+                  "name": "Public Market 1 Sukhothai Thani Municipality",
+                  "text": "A bustling municipal marketplace where locals purchase fresh daily produce in the Yom River valley area.",
+                  "category": "cultural",
+                  "coords": [
+                        99.819807,
+                        17.010771
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TH-64",
     coords: [99.75, 17.02],
@@ -558,7 +4914,1312 @@ export const poiExtraThailandReliefV2: POI[] = [
     },
   },
   {
-    id: "phi-phi-islands-coast-relief-v2",
+    id: "phi-phi-islands-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Private Sunset Viewpoint",
+                  "text": "Der Private Sunset Viewpoint auf den Phi Phi Inseln bietet eine ungestörte Aussicht auf die untergehende Sonne über der Andamanensee.",
+                  "category": "natural",
+                  "coords": [
+                        98.758503,
+                        7.782839
+                  ]
+            },
+            {
+                  "name": "Ko Bida Nok",
+                  "text": "Die kleine Kalksteininsel Ko Bida Nok ist ein weltbekannter Tauchplatz in der Andamanensee, an dem häufig Leopardenhaie gesichtet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767631,
+                        7.654406
+                  ]
+            },
+            {
+                  "name": "Maya Bay",
+                  "text": "Die von steilen Klippen umschlossene Maya Bay auf den Phi Phi Inseln wurde durch den Film 'The Beach' weltberühmt.",
+                  "category": "natural",
+                  "coords": [
+                        98.766117,
+                        7.676625
+                  ]
+            },
+            {
+                  "name": "Palong wall",
+                  "text": "Die Palong Wall vor den Phi Phi Inseln ist eine steil abfallende Unterwasserklippe, die ein beliebtes Revier für das Tauchen mit Schwarzspitzenriffhaien ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763672,
+                        7.694003
+                  ]
+            },
+            {
+                  "name": "Schildkrötenfelsen",
+                  "text": "Turtle Rock ist eine markante Küstenformation vor den Phi Phi Inseln, an der Schnorchler häufig auf Meeresschildkröten treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763876,
+                        7.68692
+                  ]
+            },
+            {
+                  "name": "Viking Beach - Laem Hin",
+                  "text": "Der Viking Beach am Laem Hin ist eine schmale Sandbucht, von der aus ein Fußweg zur berühmten Viking-Höhle führt.",
+                  "category": "recreational",
+                  "coords": [
+                        98.782744,
+                        7.730193
+                  ]
+            },
+            {
+                  "name": "Nice corals and cliff",
+                  "text": "Diese Küstenstelle mit steilen Klippen auf den Phi Phi Inseln ist für ihre intakten Hartkorallenriffe bekannt, die zum Schnorcheln einladen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.790152,
+                        7.73516
+                  ]
+            },
+            {
+                  "name": "PP Mountain Beach Water Park",
+                  "text": "Der PP Mountain Beach Water Park bietet auf der Insel künstliche Pools und Wasserrutschen direkt in der hügeligen Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78554,
+                        7.735985
+                  ]
+            },
+            {
+                  "name": "Buck the Horse",
+                  "text": "Buck the Horse ist eine unkonventionelle Attraktion an der Küste von Phi Phi, bei der oft hölzerne Konstruktionen in Strandnähe zu sehen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        98.776815,
+                        7.739306
+                  ]
+            },
+            {
+                  "name": "Happy boat",
+                  "text": "Das Happy Boat bietet Bootsausflüge entlang der dramatischen Karstküste der Phi Phi Inseln an.",
+                  "category": "landmark",
+                  "coords": [
+                        98.772222,
+                        7.73845
+                  ]
+            },
+            {
+                  "name": "Ban La Na",
+                  "text": "Die Ruinen von Ban La Na auf den Phi Phi Inseln zeugen von einer verlassenen Küstensiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        98.765579,
+                        7.761024
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "Der Viewpoint 3 ist der höchste Aussichtspunkt der Phi Phi Inseln und bietet einen weiten Panoramablick über die Sandbank, die die beiden Meeresbuchten trennt.",
+                  "category": "natural",
+                  "coords": [
+                        98.779342,
+                        7.74921
+                  ]
+            },
+            {
+                  "name": "Viewpoint 2",
+                  "text": "Der Viewpoint 2 liegt auf halber Höhe und bietet einen ikonischen Blick auf die Landenge und die sichelförmigen Buchten Ton Sai und Loh Dalum.",
+                  "category": "natural",
+                  "coords": [
+                        98.778026,
+                        7.745865
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Der Viewpoint 1 ist der am leichtesten erreichbare Aussichtspunkt auf Phi Phi und gewährt den ersten Blick auf die markante Küstenform der Doppelbucht.",
+                  "category": "natural",
+                  "coords": [
+                        98.777326,
+                        7.742406
+                  ]
+            },
+            {
+                  "name": "Ao Ma Ya Noi Beach",
+                  "text": "Eine kleine sandige Bucht auf den Phi Phi-Inseln, bekannt für ihre dramatischen Kalksteinklippen und das klare Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        98.766862,
+                        7.679509
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "Ein unberührter weißer Sandstrand an der Nordspitze des Phi-Phi-Archipels.",
+                  "category": "recreational",
+                  "coords": [
+                        98.796912,
+                        7.818787
+                  ]
+            },
+            {
+                  "name": "Laem Thong Beach",
+                  "text": "Ein ruhiger Strand an der Nordostküste von Phi Phi Don, der hauptsächlich mit dem Boot erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        98.763058,
+                        7.777662
+                  ]
+            },
+            {
+                  "name": "Mosquitoe Beach",
+                  "text": "Ein abgelegener Sandstreifen auf Mosquito Island, umgeben von lebhaften Korallenriffen.",
+                  "category": "recreational",
+                  "coords": [
+                        98.774136,
+                        7.817485
+                  ]
+            },
+            {
+                  "name": "Het Beach",
+                  "text": "Eine abgelegene Sandküste, die sich zwischen den schroffen Küstenformationen der Phi-Phi-Inseln verbirgt.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770047,
+                        7.677626
+                  ]
+            },
+            {
+                  "name": "Lo Sa Ma Beach",
+                  "text": "Eine malerische Küstenbucht mit flachem, türkisfarbenem Wasser, flankiert von aufragenden Karstfelsen.",
+                  "category": "recreational",
+                  "coords": [
+                        98.768351,
+                        7.675861
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "Eine ruhige Sandbucht inmitten der malerischen Buchten des Phi-Phi-Archipels.",
+                  "category": "recreational",
+                  "coords": [
+                        98.791709,
+                        7.730191
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Ein weitläufiger, weicher, weißer Sandstrand auf Phi Phi Don, der einen klaren Blick auf Phi Phi Leh über das Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        98.786312,
+                        7.729238
+                  ]
+            },
+            {
+                  "name": "Loh Moo Dee Beach",
+                  "text": "Ein friedlicher, flacher Strand an der Ostküste von Phi Phi Don, gesäumt von wogenden Palmen.",
+                  "category": "recreational",
+                  "coords": [
+                        98.788895,
+                        7.734702
+                  ]
+            },
+            {
+                  "name": "Love Beach",
+                  "text": "Eine romantische, abgelegene Bucht mit feinem Sand, versteckt an der Küste von Phi Phi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78189,
+                        7.731932
+                  ]
+            },
+            {
+                  "name": "Ton Sai Beach",
+                  "text": "Der belebte Hauptstrand und Ankunftsort von Phi Phi Don, der auf einer schmalen Sandenge liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        98.76935,
+                        7.737454
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "Ein malerischer weißer Sandstrand vor einer üppigen Dschungelkulisse, der für die wilden Makaken am Ufer berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767404,
+                        7.730789
+                  ]
+            },
+            {
+                  "name": "Lang Long Beach",
+                  "text": "Ein abgelegener Küstenabschnitt hinter den Hauptbuchten, der ruhiges Wasser und eine entspannte Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761837,
+                        7.728059
+                  ]
+            },
+            {
+                  "name": "Loh Dalum Beach",
+                  "text": "Eine atemberaubend geschwungene Bucht auf der gegenüberliegenden Seite von Ton Sai mit flachem Wasser, das sich bei Ebbe weit zurückzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770385,
+                        7.740844
+                  ]
+            },
+            {
+                  "name": "La Na Beach",
+                  "text": "Eine weite, ruhige Bucht an der Nordwestküste von Phi Phi Don, hinter der sich dichte tropische Vegetation erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        98.765039,
+                        7.763587
+                  ]
+            },
+            {
+                  "name": "Nui Beach",
+                  "text": "Eine winzige, versteckte Sandbucht, eingerahmt von dramatischen Kalksteinspitzen, die ideal zum Schnorcheln ist.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761104,
+                        7.762923
+                  ]
+            },
+            {
+                  "name": "Phu Chalet Beach",
+                  "text": "Ein malerischer Strand neben einem Resort, der einen entspannten Blick über die Andamanensee bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        98.772206,
+                        7.765298
+                  ]
+            },
+            {
+                  "name": "Lo Ba Khao Beach",
+                  "text": "Eine lange, geschwungene Bucht an der Ostküste, gesäumt von Mangrovenwäldern und klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        98.773288,
+                        7.761008
+                  ]
+            },
+            {
+                  "name": "Phak Nam Beach",
+                  "text": "Dieser ruhige Sandstrand, auch als Relax Beach bekannt, liegt versteckt an der schroffen Ostküste.",
+                  "category": "recreational",
+                  "coords": [
+                        98.780841,
+                        7.755126
+                  ]
+            },
+            {
+                  "name": "Rantee Beach",
+                  "text": "Ein charmanter, entspannter Küstenort mit einem abfallenden Sandstrand mit Blick auf das offene Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        98.785181,
+                        7.747942
+                  ]
+            },
+            {
+                  "name": "Al-Islah Koh Phi Phi Mosque",
+                  "text": "Das wichtigste islamische Gotteshaus auf Phi Phi Don, das der örtlichen muslimischen Fischergemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        98.77599,
+                        7.736737
+                  ]
+            },
+            {
+                  "name": "Shrine & Buddha House",
+                  "text": "Ein traditionelles buddhistisches Heiligtum, das mit bunten Opfergaben und Geisterhäuschen unter dem tropischen Blätterdach geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.762039,
+                        7.774624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Private Sunset Viewpoint",
+                  "text": "A Phi Phi-szigeteken található Private Sunset Viewpoint zavartalan kilátást nyújt az Andamán-tenger felett lemenő napra.",
+                  "category": "natural",
+                  "coords": [
+                        98.758503,
+                        7.782839
+                  ]
+            },
+            {
+                  "name": "Ko Bida Nok",
+                  "text": "A kis Ko Bida Nok mészkősziget egy világhírű búvárhely az Andamán-tengerben, ahol gyakran láthatók leopárdcápák.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767631,
+                        7.654406
+                  ]
+            },
+            {
+                  "name": "Maya Bay",
+                  "text": "A meredek sziklákkal övezett Maya Bay a Phi Phi-szigeteken 'A part' című film révén vált világhírűvé.",
+                  "category": "natural",
+                  "coords": [
+                        98.766117,
+                        7.676625
+                  ]
+            },
+            {
+                  "name": "Palong wall",
+                  "text": "A Phi Phi-szigeteknél lévő Palong Wall egy meredeken lejtő víz alatti sziklafal, amely népszerű a feketeúszójú szirticápákkal való merüléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763672,
+                        7.694003
+                  ]
+            },
+            {
+                  "name": "Turtle Rock",
+                  "text": "A Turtle Rock egy jellegzetes part menti sziklaalakzat a Phi Phi-szigeteknél, ahol a sznorkelezők gyakran találkoznak tengeri teknősökkel.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763876,
+                        7.68692
+                  ]
+            },
+            {
+                  "name": "Viking Beach - Laem Hin",
+                  "text": "A Laem Hin-nél található Viking Beach egy keskeny homokos öböl, ahonnan ösvény vezet a híres Viking-barlanghoz.",
+                  "category": "recreational",
+                  "coords": [
+                        98.782744,
+                        7.730193
+                  ]
+            },
+            {
+                  "name": "Nice corals and cliff",
+                  "text": "Ez a meredek sziklákkal szegélyezett tengerparti rész a Phi Phi-szigeteken az érintetlen kőkorallzátonyairól ismert, amelyek sznorkelezésre csábítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        98.790152,
+                        7.73516
+                  ]
+            },
+            {
+                  "name": "PP Mountain Beach Water Park",
+                  "text": "A PP Mountain Beach Water Park mesterséges medencéket és csúszdákat kínál a szigeten, közvetlenül a dombos tengerparti tájban.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78554,
+                        7.735985
+                  ]
+            },
+            {
+                  "name": "Buck the Horse",
+                  "text": "A Buck the Horse egy szokatlan látványosság a Phi Phi-parton, ahol gyakran láthatók fából készült szerkezetek a strand közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        98.776815,
+                        7.739306
+                  ]
+            },
+            {
+                  "name": "Happy boat",
+                  "text": "A Happy Boat hajókirándulásokat kínál a Phi Phi-szigetek drámai karsztpartjai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        98.772222,
+                        7.73845
+                  ]
+            },
+            {
+                  "name": "Ban La Na",
+                  "text": "A Phi Phi-szigeteken található Ban La Na romjai egy elhagyatott tengerparti település emlékét őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        98.765579,
+                        7.761024
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "A Viewpoint 3 a Phi Phi-szigetek legmagasabb kilátópontja, amely széles panorámát nyújt a két tengeröblöt elválasztó homokpadra.",
+                  "category": "natural",
+                  "coords": [
+                        98.779342,
+                        7.74921
+                  ]
+            },
+            {
+                  "name": "Viewpoint 2",
+                  "text": "A félúton található Viewpoint 2 ikonikus kilátást nyújt a földszorosra, valamint a sarló alakú Ton Sai és Loh Dalum öblökre.",
+                  "category": "natural",
+                  "coords": [
+                        98.778026,
+                        7.745865
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "A Viewpoint 1 a legkönnyebben megközelíthető kilátó Phi Phi-n, és ez adja az első pillantást az ikeröböl jellegzetes partvonalára.",
+                  "category": "natural",
+                  "coords": [
+                        98.777326,
+                        7.742406
+                  ]
+            },
+            {
+                  "name": "Ao Ma Ya Noi Beach",
+                  "text": "Egy kis homokos öböl a Phi Phi-szigeteken, amely drámai mészkőszikláiról és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        98.766862,
+                        7.679509
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "Érintetlen, fehér homokos partszakasz a Phi Phi-szigetek északi csücskén.",
+                  "category": "recreational",
+                  "coords": [
+                        98.796912,
+                        7.818787
+                  ]
+            },
+            {
+                  "name": "Laem Thong Beach",
+                  "text": "Egy csendes strand Phi Phi Don északkeleti partján, amely főleg hajóval közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        98.763058,
+                        7.777662
+                  ]
+            },
+            {
+                  "name": "Mosquitoe Beach",
+                  "text": "Egy eldugott homokos sáv a Szúnyog-szigeten, amelyet élénk korallzátonyok vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        98.774136,
+                        7.817485
+                  ]
+            },
+            {
+                  "name": "Het Beach",
+                  "text": "Egy távoli, homokos part a Phi Phi-szigetek zord part menti sziklaalakzatai között elrejtve.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770047,
+                        7.677626
+                  ]
+            },
+            {
+                  "name": "Lo Sa Ma Beach",
+                  "text": "Festői tengerparti öböl, amelynek sekély, türkizkék vizét tornyosuló karsztsziklák szegélyezik.",
+                  "category": "recreational",
+                  "coords": [
+                        98.768351,
+                        7.675861
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "Csendes, homokos öböl a Phi Phi-szigetek festői tengerpartjai között.",
+                  "category": "recreational",
+                  "coords": [
+                        98.791709,
+                        7.730191
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Széles, puha, fehér homokos part Phi Phi Don szigetén, ahonnan tiszta kilátás nyílik a vízen túl fekvő Phi Phi Leh-re.",
+                  "category": "recreational",
+                  "coords": [
+                        98.786312,
+                        7.729238
+                  ]
+            },
+            {
+                  "name": "Loh Moo Dee Beach",
+                  "text": "Békés, sekély strand Phi Phi Don keleti partján, pálmafákkal szegélyezve.",
+                  "category": "recreational",
+                  "coords": [
+                        98.788895,
+                        7.734702
+                  ]
+            },
+            {
+                  "name": "Love Beach",
+                  "text": "Romantikus, eldugott kis öböl finom homokkal a Phi Phi partvonala mentén elrejtve.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78189,
+                        7.731932
+                  ]
+            },
+            {
+                  "name": "Ton Sai Beach",
+                  "text": "Phi Phi Don nyüzsgő fő strandja és érkezési pontja, amely egy keskeny, homokos földszoroson fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        98.76935,
+                        7.737454
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "Festői fehér homokos partszakasz buja dzsungellel a háttérben, amely a parton kószáló vad makákókról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767404,
+                        7.730789
+                  ]
+            },
+            {
+                  "name": "Lang Long Beach",
+                  "text": "A fő öblök mögött megbúvó eldugott partszakasz, amely nyugodt vizet és csendes légkört kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761837,
+                        7.728059
+                  ]
+            },
+            {
+                  "name": "Loh Dalum Beach",
+                  "text": "Lenyűgözően ívelt öböl a Ton Sai túloldalán, amelynek sekély vize apálykor messze visszahúzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770385,
+                        7.740844
+                  ]
+            },
+            {
+                  "name": "La Na Beach",
+                  "text": "Széles, csendes öböl Phi Phi Don északnyugati partján, mögötte sűrű trópusi növényzettel.",
+                  "category": "recreational",
+                  "coords": [
+                        98.765039,
+                        7.763587
+                  ]
+            },
+            {
+                  "name": "Nui Beach",
+                  "text": "Egy apró, rejtett homokos öböl drámai mészkőcsúcsokkal övezve, amely ideális sznorkelezésre.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761104,
+                        7.762923
+                  ]
+            },
+            {
+                  "name": "Phu Chalet Beach",
+                  "text": "Egy üdülőhely melletti festői strand, amely nyugodt tengerparti kilátást nyújt az Andamán-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        98.772206,
+                        7.765298
+                  ]
+            },
+            {
+                  "name": "Lo Ba Khao Beach",
+                  "text": "Egy hosszú, ívelt öböl a keleti parton, amelyet mangróveerdők és tiszta víz szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        98.773288,
+                        7.761008
+                  ]
+            },
+            {
+                  "name": "Phak Nam Beach",
+                  "text": "A Relax Beach néven is ismert csendes, homokos menedék a zord keleti parton bújik meg.",
+                  "category": "recreational",
+                  "coords": [
+                        98.780841,
+                        7.755126
+                  ]
+            },
+            {
+                  "name": "Rantee Beach",
+                  "text": "Bájos, laza hangulatú tengerparti hely, amelynek lejtős homokos partja a nyílt tengerre néz.",
+                  "category": "recreational",
+                  "coords": [
+                        98.785181,
+                        7.747942
+                  ]
+            },
+            {
+                  "name": "Al-Islah Koh Phi Phi Mosque",
+                  "text": "A fő iszlám istentiszteleti hely Phi Phi Don szigetén, amely a helyi muszlim halászközösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        98.77599,
+                        7.736737
+                  ]
+            },
+            {
+                  "name": "Shrine & Buddha House",
+                  "text": "Hagyományos buddhista szentély, amelyet színes felajánlások és szellemházak díszítenek a trópusi lombkorona alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.762039,
+                        7.774624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Private Sunset Viewpoint",
+                  "text": "Private Sunset Viewpoint din Insulele Phi Phi oferă o vedere nestingherită asupra soarelui la apus peste Marea Andaman.",
+                  "category": "natural",
+                  "coords": [
+                        98.758503,
+                        7.782839
+                  ]
+            },
+            {
+                  "name": "Ko Bida Nok",
+                  "text": "Mica insulă de calcar Ko Bida Nok este un loc de scufundări de renume mondial în Marea Andaman, vizitat frecvent de rechini leopard.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767631,
+                        7.654406
+                  ]
+            },
+            {
+                  "name": "Maya Bay",
+                  "text": "Înconjurată de stânci abrupte, Maya Bay din Insulele Phi Phi a devenit faimoasă la nivel mondial datorită filmului 'The Beach'.",
+                  "category": "natural",
+                  "coords": [
+                        98.766117,
+                        7.676625
+                  ]
+            },
+            {
+                  "name": "Palong wall",
+                  "text": "Palong Wall de lângă Insulele Phi Phi este o stâncă subacvatică abruptă, o locație populară pentru scufundări cu rechini de recif cu vârful negru.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763672,
+                        7.694003
+                  ]
+            },
+            {
+                  "name": "Turtle Rock",
+                  "text": "Turtle Rock este o formațiune de coastă distinctivă lângă Insulele Phi Phi, unde cei ce fac snorkeling întâlnesc adesea țestoase marine.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763876,
+                        7.68692
+                  ]
+            },
+            {
+                  "name": "Viking Beach - Laem Hin",
+                  "text": "Viking Beach de la Laem Hin este un golf îngust de nisip din care pornește o potecă pietonală spre faimoasa Peșteră Viking.",
+                  "category": "recreational",
+                  "coords": [
+                        98.782744,
+                        7.730193
+                  ]
+            },
+            {
+                  "name": "Nice corals and cliff",
+                  "text": "Acest punct de coastă cu stânci abrupte de pe Insulele Phi Phi este cunoscut pentru recifele sale intacte de corali duri, perfecte pentru snorkeling.",
+                  "category": "landmark",
+                  "coords": [
+                        98.790152,
+                        7.73516
+                  ]
+            },
+            {
+                  "name": "PP Mountain Beach Water Park",
+                  "text": "PP Mountain Beach Water Park oferă piscine artificiale și tobogane de apă pe insulă, integrate în peisajul colinar de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78554,
+                        7.735985
+                  ]
+            },
+            {
+                  "name": "Buck the Horse",
+                  "text": "Buck the Horse este o atracție neconvențională pe coasta Phi Phi, unde pot fi văzute adesea structuri din lemn aproape de plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        98.776815,
+                        7.739306
+                  ]
+            },
+            {
+                  "name": "Happy boat",
+                  "text": "Happy Boat oferă excursii cu barca de-a lungul coastei carstice dramatice a Insulelor Phi Phi.",
+                  "category": "landmark",
+                  "coords": [
+                        98.772222,
+                        7.73845
+                  ]
+            },
+            {
+                  "name": "Ban La Na",
+                  "text": "Ruinele de la Ban La Na de pe Insulele Phi Phi stau mărturie a unei așezări de coastă abandonate.",
+                  "category": "historical",
+                  "coords": [
+                        98.765579,
+                        7.761024
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "Viewpoint 3 este cel mai înalt punct de belvedere de pe Insulele Phi Phi, oferind o panoramă vastă asupra limbii de nisip care separă cele două golfuri.",
+                  "category": "natural",
+                  "coords": [
+                        98.779342,
+                        7.74921
+                  ]
+            },
+            {
+                  "name": "Viewpoint 2",
+                  "text": "Situat la jumătatea altitudinii, Viewpoint 2 oferă o vedere iconică asupra istmului și a golfurilor în formă de semilună Ton Sai și Loh Dalum.",
+                  "category": "natural",
+                  "coords": [
+                        98.778026,
+                        7.745865
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Viewpoint 1 este cel mai ușor accesibil punct de belvedere de pe Phi Phi, oferind prima perspectivă asupra formei distinctive a golfurilor gemene.",
+                  "category": "natural",
+                  "coords": [
+                        98.777326,
+                        7.742406
+                  ]
+            },
+            {
+                  "name": "Ao Ma Ya Noi Beach",
+                  "text": "Un mic golf cu nisip din insulele Phi Phi, cunoscut pentru stâncile sale dramatice de calcar și apele limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.766862,
+                        7.679509
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "O întindere imaculată de nisip alb pe vârful nordic al arhipelagului Phi Phi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.796912,
+                        7.818787
+                  ]
+            },
+            {
+                  "name": "Laem Thong Beach",
+                  "text": "O plajă liniștită pe coasta de nord-est a insulei Phi Phi Don, accesibilă în principal cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        98.763058,
+                        7.777662
+                  ]
+            },
+            {
+                  "name": "Mosquitoe Beach",
+                  "text": "O fâșie retrasă de nisip pe Insula Țânțarilor, înconjurată de recife de corali vibrante.",
+                  "category": "recreational",
+                  "coords": [
+                        98.774136,
+                        7.817485
+                  ]
+            },
+            {
+                  "name": "Het Beach",
+                  "text": "O coastă de nisip izolată, ascunsă printre formațiunile stâncoase de pe insulele Phi Phi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770047,
+                        7.677626
+                  ]
+            },
+            {
+                  "name": "Lo Sa Ma Beach",
+                  "text": "Un golf pitoresc cu ape turcoaz puțin adânci, flancat de stânci carstice falnice.",
+                  "category": "recreational",
+                  "coords": [
+                        98.768351,
+                        7.675861
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "Un golf liniștit cu nisip, amplasat printre golfurile pitorești din arhipelagul Phi Phi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.791709,
+                        7.730191
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "O întindere vastă de nisip alb și fin pe Phi Phi Don, oferind vederi clare către Phi Phi Leh peste apă.",
+                  "category": "recreational",
+                  "coords": [
+                        98.786312,
+                        7.729238
+                  ]
+            },
+            {
+                  "name": "Loh Moo Dee Beach",
+                  "text": "O plajă pașnică, puțin adâncă, pe coasta de est a insulei Phi Phi Don, mărginită de palmieri legănându-se.",
+                  "category": "recreational",
+                  "coords": [
+                        98.788895,
+                        7.734702
+                  ]
+            },
+            {
+                  "name": "Love Beach",
+                  "text": "Un golf romantic și retras cu nisip fin, ascuns de-a lungul coastei insulelor Phi Phi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78189,
+                        7.731932
+                  ]
+            },
+            {
+                  "name": "Ton Sai Beach",
+                  "text": "Plaja principală aglomerată și punctul de sosire pe Phi Phi Don, situată pe un istm îngust de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        98.76935,
+                        7.737454
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "O fâșie pitorească de nisip alb susținută de jungla luxuriantă, renumită pentru macacii sălbatici care se plimbă pe mal.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767404,
+                        7.730789
+                  ]
+            },
+            {
+                  "name": "Lang Long Beach",
+                  "text": "O întindere de coastă retrasă, ascunsă în spatele golfurilor principale, oferind ape calme și o atmosferă liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761837,
+                        7.728059
+                  ]
+            },
+            {
+                  "name": "Loh Dalum Beach",
+                  "text": "Un golf curbat uimitor pe partea opusă plajei Ton Sai, cu ape puțin adânci care se retrag mult la reflux.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770385,
+                        7.740844
+                  ]
+            },
+            {
+                  "name": "La Na Beach",
+                  "text": "Un golf larg și liniștit pe coasta de nord-vest a insulei Phi Phi Don, mărginit de o vegetație tropicală densă.",
+                  "category": "recreational",
+                  "coords": [
+                        98.765039,
+                        7.763587
+                  ]
+            },
+            {
+                  "name": "Nui Beach",
+                  "text": "Un golfuleț ascuns cu nisip, încadrat de vârfuri dramatice de calcar, ideal pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761104,
+                        7.762923
+                  ]
+            },
+            {
+                  "name": "Phu Chalet Beach",
+                  "text": "O plajă pitorească adiacentă unui complex turistic, oferind vederi relaxante spre Marea Andaman.",
+                  "category": "recreational",
+                  "coords": [
+                        98.772206,
+                        7.765298
+                  ]
+            },
+            {
+                  "name": "Lo Ba Khao Beach",
+                  "text": "Un golf lung și arcuit pe coasta de est, mărginit de păduri de mangrove și ape limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        98.773288,
+                        7.761008
+                  ]
+            },
+            {
+                  "name": "Phak Nam Beach",
+                  "text": "Cunoscută și sub numele de Relax Beach, această retragere liniștită cu nisip este ascunsă pe coasta de est accidentată.",
+                  "category": "recreational",
+                  "coords": [
+                        98.780841,
+                        7.755126
+                  ]
+            },
+            {
+                  "name": "Rantee Beach",
+                  "text": "Un loc de coastă fermecător și relaxat, cu un țărm înclinat de nisip orientat spre marea deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        98.785181,
+                        7.747942
+                  ]
+            },
+            {
+                  "name": "Al-Islah Koh Phi Phi Mosque",
+                  "text": "Principalul lăcaș de cult islamic de pe insula Phi Phi Don, care deservește comunitatea locală de pescari musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        98.77599,
+                        7.736737
+                  ]
+            },
+            {
+                  "name": "Shrine & Buddha House",
+                  "text": "Un sanctuar budist tradițional, împodobit cu ofrande colorate și case de spirite sub coronamentul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        98.762039,
+                        7.774624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Private Sunset Viewpoint",
+                  "text": "The Private Sunset Viewpoint on the Phi Phi Islands provides an undisturbed vantage point for watching the sun set over the Andaman Sea.",
+                  "category": "natural",
+                  "coords": [
+                        98.758503,
+                        7.782839
+                  ]
+            },
+            {
+                  "name": "Ko Bida Nok",
+                  "text": "The small limestone islet of Ko Bida Nok is a world-renowned scuba diving site in the Andaman Sea, frequently visited by leopard sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767631,
+                        7.654406
+                  ]
+            },
+            {
+                  "name": "Maya Bay",
+                  "text": "Enclosed by steep limestone cliffs, Maya Bay on the Phi Phi Islands gained global fame as the filming location for 'The Beach'.",
+                  "category": "natural",
+                  "coords": [
+                        98.766117,
+                        7.676625
+                  ]
+            },
+            {
+                  "name": "Palong wall",
+                  "text": "The Palong Wall off the Phi Phi Islands is a sheer underwater cliff that serves as a popular site for diving with blacktip reef sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763672,
+                        7.694003
+                  ]
+            },
+            {
+                  "name": "Turtle Rock",
+                  "text": "Turtle Rock is a distinct coastal formation off the Phi Phi Islands where snorkelers frequently encounter sea turtles.",
+                  "category": "landmark",
+                  "coords": [
+                        98.763876,
+                        7.68692
+                  ]
+            },
+            {
+                  "name": "Viking Beach - Laem Hin",
+                  "text": "Viking Beach at Laem Hin is a narrow sandy cove from which a footpath leads towards the famous Viking Cave.",
+                  "category": "recreational",
+                  "coords": [
+                        98.782744,
+                        7.730193
+                  ]
+            },
+            {
+                  "name": "Nice corals and cliff",
+                  "text": "This steep-cliff coastal spot on the Phi Phi Islands is known for its intact hard coral reefs that invite excellent snorkeling.",
+                  "category": "landmark",
+                  "coords": [
+                        98.790152,
+                        7.73516
+                  ]
+            },
+            {
+                  "name": "PP Mountain Beach Water Park",
+                  "text": "The PP Mountain Beach Water Park features artificial pools and water slides built directly into the island's hilly coastal landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78554,
+                        7.735985
+                  ]
+            },
+            {
+                  "name": "Buck the Horse",
+                  "text": "Buck the Horse is an unconventional coastal attraction on Phi Phi, often featuring wooden structures near the beachfront.",
+                  "category": "landmark",
+                  "coords": [
+                        98.776815,
+                        7.739306
+                  ]
+            },
+            {
+                  "name": "Happy boat",
+                  "text": "The Happy boat offers leisure boat tours along the dramatic karst coastline of the Phi Phi Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        98.772222,
+                        7.73845
+                  ]
+            },
+            {
+                  "name": "Ban La Na",
+                  "text": "The ruins of Ban La Na on the Phi Phi Islands stand as remnants of an abandoned coastal settlement.",
+                  "category": "historical",
+                  "coords": [
+                        98.765579,
+                        7.761024
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "Viewpoint 3 is the highest vantage point on the Phi Phi Islands, offering a sweeping panoramic view over the sandbar dividing the two ocean bays.",
+                  "category": "natural",
+                  "coords": [
+                        98.779342,
+                        7.74921
+                  ]
+            },
+            {
+                  "name": "Viewpoint 2",
+                  "text": "Situated halfway up, Viewpoint 2 provides the iconic, postcard-perfect view of the isthmus and the twin crescent bays of Ton Sai and Loh Dalum.",
+                  "category": "natural",
+                  "coords": [
+                        98.778026,
+                        7.745865
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Viewpoint 1 is the most easily accessible lookout on Phi Phi, granting visitors their first elevated glimpse of the island's striking twin-bay coastline.",
+                  "category": "natural",
+                  "coords": [
+                        98.777326,
+                        7.742406
+                  ]
+            },
+            {
+                  "name": "Ao Ma Ya Noi Beach",
+                  "text": "A small sandy inlet on the Phi Phi Islands, known for its dramatic limestone cliffs and clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        98.766862,
+                        7.679509
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "A pristine stretch of white sand on the northern tip of the Phi Phi archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        98.796912,
+                        7.818787
+                  ]
+            },
+            {
+                  "name": "Laem Thong Beach",
+                  "text": "A tranquil beach on the northeastern coast of Phi Phi Don, accessible mainly by boat.",
+                  "category": "recreational",
+                  "coords": [
+                        98.763058,
+                        7.777662
+                  ]
+            },
+            {
+                  "name": "Mosquitoe Beach",
+                  "text": "A secluded sandy strip on Mosquito Island, surrounded by vibrant coral reefs.",
+                  "category": "recreational",
+                  "coords": [
+                        98.774136,
+                        7.817485
+                  ]
+            },
+            {
+                  "name": "Het Beach",
+                  "text": "A remote sandy shore hidden among the rugged coastal formations of the Phi Phi Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770047,
+                        7.677626
+                  ]
+            },
+            {
+                  "name": "Lo Sa Ma Beach",
+                  "text": "A picturesque coastal cove featuring shallow turquoise waters flanked by towering karst rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        98.768351,
+                        7.675861
+                  ]
+            },
+            {
+                  "name": "Beach 2",
+                  "text": "A quiet sandy inlet nestled among the scenic bays of the Phi Phi archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        98.791709,
+                        7.730191
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "A sweeping stretch of soft white sand on Phi Phi Don, offering clear views of Phi Phi Leh across the water.",
+                  "category": "recreational",
+                  "coords": [
+                        98.786312,
+                        7.729238
+                  ]
+            },
+            {
+                  "name": "Loh Moo Dee Beach",
+                  "text": "A peaceful, shallow beach on the east coast of Phi Phi Don, lined with swaying palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        98.788895,
+                        7.734702
+                  ]
+            },
+            {
+                  "name": "Love Beach",
+                  "text": "A romantic, secluded cove with fine sand hidden along the Phi Phi coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        98.78189,
+                        7.731932
+                  ]
+            },
+            {
+                  "name": "Ton Sai Beach",
+                  "text": "The bustling main beach and arrival point of Phi Phi Don, located on a narrow sandy isthmus.",
+                  "category": "recreational",
+                  "coords": [
+                        98.76935,
+                        7.737454
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "A scenic strip of white sand backed by lush jungle, famous for its wild macaques roaming the shore.",
+                  "category": "landmark",
+                  "coords": [
+                        98.767404,
+                        7.730789
+                  ]
+            },
+            {
+                  "name": "Lang Long Beach",
+                  "text": "A secluded coastal stretch hidden behind the main bays, offering calm waters and a quiet atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761837,
+                        7.728059
+                  ]
+            },
+            {
+                  "name": "Loh Dalum Beach",
+                  "text": "A stunning curved bay on the opposite side of Ton Sai, featuring shallow waters that recede far out at low tide.",
+                  "category": "recreational",
+                  "coords": [
+                        98.770385,
+                        7.740844
+                  ]
+            },
+            {
+                  "name": "La Na Beach",
+                  "text": "A wide, quiet bay on the northwestern coast of Phi Phi Don, backed by dense tropical vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        98.765039,
+                        7.763587
+                  ]
+            },
+            {
+                  "name": "Nui Beach",
+                  "text": "A tiny, hidden sandy cove framed by dramatic limestone pinnacles, ideal for snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        98.761104,
+                        7.762923
+                  ]
+            },
+            {
+                  "name": "Phu Chalet Beach",
+                  "text": "A picturesque resort-adjacent beach offering relaxed coastal views over the Andaman Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        98.772206,
+                        7.765298
+                  ]
+            },
+            {
+                  "name": "Lo Ba Khao Beach",
+                  "text": "A long, sweeping bay on the eastern coast, bordered by mangrove forests and clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        98.773288,
+                        7.761008
+                  ]
+            },
+            {
+                  "name": "Phak Nam Beach",
+                  "text": "Also known as Relax Beach, this tranquil sandy retreat is tucked away on the rugged east coast.",
+                  "category": "recreational",
+                  "coords": [
+                        98.780841,
+                        7.755126
+                  ]
+            },
+            {
+                  "name": "Rantee Beach",
+                  "text": "A charming, laid-back coastal spot with a sloping sandy shore facing the open sea.",
+                  "category": "recreational",
+                  "coords": [
+                        98.785181,
+                        7.747942
+                  ]
+            },
+            {
+                  "name": "Al-Islah Koh Phi Phi Mosque",
+                  "text": "The primary Islamic place of worship on Phi Phi Don, serving the local Muslim fishing community.",
+                  "category": "landmark",
+                  "coords": [
+                        98.77599,
+                        7.736737
+                  ]
+            },
+            {
+                  "name": "Shrine & Buddha House",
+                  "text": "A traditional Buddhist sanctuary adorned with colorful offerings and spirit houses under the tropical canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        98.762039,
+                        7.774624
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TH-81",
     coords: [98.77, 7.74],
@@ -605,7 +6266,88 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Les côtes d'un archipel de renommée mondiale, connu pour ses falaises calcaires spectaculaires, ses eaux turquoise et ses récifs coralliens vibrants.", "Situé sur le territoire du Royaume de Thaïlande.", "Influencé par le climat de mousson de l'Asie du Sud-Est."],
     }, image: "/poi-images/phi-phi-islands-coast-relief-v2.webp"},
   {
-    id: "kaeng-krachan-reservoir-coast-relief-v2",
+    id: "kaeng-krachan-reservoir-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phanoen Thung View Point",
+                  "text": "In der Region Kaeng Krachan gelegen, bietet dieser Aussichtspunkt ein weites Panorama auf die umliegenden bewaldeten Berge.",
+                  "category": "natural",
+                  "coords": [
+                        99.363108,
+                        12.825561
+                  ]
+            },
+            {
+                  "name": "Khao Phanoen Thung Sea of Fog",
+                  "text": "Dieser hochgelegene Aussichtspunkt im Gebiet Kaeng Krachan ist berühmt für seine dramatischen Morgennebel, die einem Wolkenmeer über den Tälern gleichen.",
+                  "category": "natural",
+                  "coords": [
+                        99.328648,
+                        12.84031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phanoen Thung View Point",
+                  "text": "A Kaeng Krachan régióban található festői kilátó széles panorámát nyújt a környező erdős hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        99.363108,
+                        12.825561
+                  ]
+            },
+            {
+                  "name": "Khao Phanoen Thung Sea of Fog",
+                  "text": "Ez a Kaeng Krachan területén található magasan fekvő kilátó a völgyek felett felhőtengerként elterülő drámai reggeli ködről híres.",
+                  "category": "natural",
+                  "coords": [
+                        99.328648,
+                        12.84031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phanoen Thung View Point",
+                  "text": "Situat în regiunea Kaeng Krachan, acest punct de belvedere pitoresc oferă panorame ample ale munților împăduriți din jur.",
+                  "category": "natural",
+                  "coords": [
+                        99.363108,
+                        12.825561
+                  ]
+            },
+            {
+                  "name": "Khao Phanoen Thung Sea of Fog",
+                  "text": "Acest punct de belvedere de la mare altitudine din zona Kaeng Krachan este renumit pentru cețurile matinale spectaculoase, care seamănă cu o mare de nori deasupra văilor.",
+                  "category": "natural",
+                  "coords": [
+                        99.328648,
+                        12.84031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phanoen Thung View Point",
+                  "text": "Situated in the Kaeng Krachan region, this scenic viewpoint offers sweeping panoramas of the surrounding forested mountains.",
+                  "category": "natural",
+                  "coords": [
+                        99.363108,
+                        12.825561
+                  ]
+            },
+            {
+                  "name": "Khao Phanoen Thung Sea of Fog",
+                  "text": "This high-altitude viewpoint in the Kaeng Krachan area is famous for dramatic morning mists that resemble a sea of clouds over the valleys.",
+                  "category": "natural",
+                  "coords": [
+                        99.328648,
+                        12.84031
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TH-76",
     coords: [99.40, 12.89],
@@ -652,7 +6394,1096 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Le plus grand réservoir de Thaïlande avec une beauté naturelle scénique.", "Situé sur le territoire du Royaume de Thaïlande.", "Marqué par le climat de mousson du sud-est asiatique."],
     }, image: "/poi-images/kaeng-krachan-reservoir-coast-relief-v2.webp"},
   {
-    id: "wang-river-valley-relief-v2",
+    id: "wang-river-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "Eine bedeutende Kultstätte im birmanischen Stil im Wang-Flusstal, die weltweit für ihre verzierten Holzschnitzereien und Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaeo Don Tao",
+                  "text": "Eine historisch bedeutsame Tempelanlage im Wang-Flusstal, die berühmt dafür ist, einst den verehrten Smaragd-Buddha beherbergt zu haben.",
+                  "category": "religious",
+                  "coords": [
+                        99.509033,
+                        18.301201
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk",
+                  "text": "Eine historische Stätte, die außergewöhnlich erhaltene Tempelarchitektur im traditionellen Lanna-Stil im Wang-Flusstal zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        99.497,
+                        18.294642
+                  ]
+            },
+            {
+                  "name": "Phum La Kon Museum",
+                  "text": "Ein lokales Kulturmuseum, das die regionale Geschichte und traditionelle Artefakte des Wang-Flusstals präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "Ein faszinierendes lokales Museum, das in einem markanten traditionellen Lanna-Teakholz-Herrenhaus mit über 100 Säulen untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Dhanabadee Ceramic Museum",
+                  "text": "Ein spezialisiertes Museum im Wang-Flusstal, das die lokale Keramikindustrie und die Geschichte der traditionellen Hühnerschalenproduktion ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Thai Bank Museum",
+                  "text": "Ein lokales Museum, das die regionale Finanzgeschichte und die historischen Bankpraktiken im Wang-Flusstal detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Ein umfassendes Regionalmuseum, das das reiche kulturelle und historische Erbe der Region des Wang-Flusstals ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        99.503293,
+                        18.290158
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Ein markanter monumentaler Uhrturm, der als erkennbares zentrales Verkehrswahrzeichen in der Region des Wang-Flusstals steht.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "Ein historisches Bauwerk mit markanten lokalen Architekturelementen, die auf die Vergangenheit des Wang-Flusstals hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Ceramic Sala Otop",
+                  "text": "Ein Kunstzentrum, das sich der Förderung und dem Verkauf der renommierten lokalen Keramikhandwerkskunst im Wang-Flusstal widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        99.423901,
+                        18.217726
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Ein kommunales Kunstzentrum, das Ausstellungen veranstaltet und zeitgenössische lokale kreative Werke im Wang-Flusstal präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Muang Sart",
+                  "text": "Wat Muang Sart ist eine traditionelle Kultstätte, die sich in die malerische Landschaft des Wang-Tals einfügt.",
+                  "category": "religious",
+                  "coords": [
+                        99.497495,
+                        18.287873
+                  ]
+            },
+            {
+                  "name": "wat Pratupong",
+                  "text": "Dieser traditionelle Tempel in der Gegend des Wang-Tals bietet einen ruhigen Rahmen für buddhistische Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        99.505332,
+                        18.294561
+                  ]
+            },
+            {
+                  "name": "Wat Ku Kam",
+                  "text": "Vor der Kulisse des Wang-Tals ist Wat Ku Kam eine lokale religiöse Stätte mit klassischer thailändischer Tempelarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        99.494103,
+                        18.313888
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Dieser belebte Nachtmarkt im Tal des Wang erwacht nach Einbruch der Dunkelheit mit Ständen zum Leben, die lokales Streetfood und Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        99.487303,
+                        18.288698
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein lebendiger täglicher Marktplatz, der die Gemeinde im Wang-Tal mit frischen Produkten und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        99.500718,
+                        18.293636
+                  ]
+            },
+            {
+                  "name": "Lak Muang Lampang Market",
+                  "text": "Dieser geschäftige Markt in der Nähe der Stadtsäule ist ein wichtiger Treffpunkt für Einkäufer im Tal des Wang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.501859,
+                        18.289284
+                  ]
+            },
+            {
+                  "name": "San Chao Pung Thao Kong",
+                  "text": "Dieser traditionelle Schrein der chinesischen Volksreligion sticht im Tal des Wang durch seine bunten Drachenmotive und von Weihrauch erfüllten Innenhöfe hervor.",
+                  "category": "landmark",
+                  "coords": [
+                        99.49716,
+                        18.289584
+                  ]
+            },
+            {
+                  "name": "Wat Pa Fang",
+                  "text": "Inmitten einer ruhigen Umgebung im Tal des Wang bietet dieses buddhistische Kloster eine entspannte Atmosphäre für Meditationen.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505393,
+                        18.28466
+                  ]
+            },
+            {
+                  "name": "Wat Phra Chedi Sao Lang",
+                  "text": "Diese alte buddhistische Stätte ist berühmt für ihre markante Anordnung von zwanzig weißen Stupas und ein wichtiges Wahrzeichen im Tal des Wang.",
+                  "category": "landmark",
+                  "coords": [
+                        99.514933,
+                        18.322161
+                  ]
+            },
+            {
+                  "name": "Wat Tawimol)",
+                  "text": "Dieses ruhige buddhistische Heiligtum im Wang-Tal bietet einen spirituellen Zufluchtsort, der mit traditioneller nordthailändischer Handwerkskunst geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524589,
+                        18.314543
+                  ]
+            },
+            {
+                  "name": "Wat Chang Tham",
+                  "text": "Wat Chang Tham ist ein historischer buddhistischer Tempel im Wang-Tal, der sich durch charakteristische lokale Stupa-Designs auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.509771,
+                        18.303478
+                  ]
+            },
+            {
+                  "name": "Wat Nang Lieo",
+                  "text": "Eingebettet in das Tal des Wang ist dieser lokale buddhistische Tempel von schattigen Innenhöfen umgeben, die von der Gemeinde für Verdienstzeremonien genutzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        99.51001,
+                        18.300355
+                  ]
+            },
+            {
+                  "name": "Wat Ta Lor",
+                  "text": "Diese buddhistische Kultstätte im Tal des Wang dient mit ihren klassischen mehrstöckigen Dachlinien als friedlicher Rückzugsort.",
+                  "category": "landmark",
+                  "coords": [
+                        99.458123,
+                        18.313116
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Rai",
+                  "text": "Trotz seines Namens liegt dieser elegante buddhistische Tempel im Tal des Wang und präsentiert auffällige weiß getünchte Strukturen und zarte vergoldete Details.",
+                  "category": "landmark",
+                  "coords": [
+                        99.492094,
+                        18.290321
+                  ]
+            },
+            {
+                  "name": "Motana Presbyterian Church",
+                  "text": "Diese christliche Kirche bringt einen besonderen architektonischen Stil in das Wang-Tal und dient der lokalen evangelischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        99.489233,
+                        18.286997
+                  ]
+            },
+            {
+                  "name": "Wat Nam Lorn",
+                  "text": "Umgeben von der Natur im Tal des Wang bietet dieser buddhistische Klosterkomplex einen ruhigen Zufluchtsort für spirituelle Studien.",
+                  "category": "landmark",
+                  "coords": [
+                        99.499505,
+                        18.287572
+                  ]
+            },
+            {
+                  "name": "Suan Dok Temple",
+                  "text": "Ein verehrtes buddhistisches Heiligtum in der Landschaft des Wang-Tals, bemerkenswert für seine Blumengartenumgebung und die hoch aufragende glockenförmige Stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496102,
+                        18.288844
+                  ]
+            },
+            {
+                  "name": "Wat Srikeard",
+                  "text": "Wat Srikeard ist eine lokale buddhistische Enklave im Wang-Tal, in der sich Mönche zwischen traditionellen Pagoden mit goldenen Spitzen versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505101,
+                        18.290858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "A Wang-folyó völgyében található, burmai stílusú, díszes fafaragásairól és építészetéről világszerte ismert, jelentős istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaeo Don Tao",
+                  "text": "Történelmileg jelentős templomegyüttes a Wang-folyó völgyében, amely arról híres, hogy egykor a nagy becsben tartott Smaragd Buddhának adott otthont.",
+                  "category": "religious",
+                  "coords": [
+                        99.509033,
+                        18.301201
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk",
+                  "text": "Örökségi helyszín a Wang-folyó völgyében, amely kivételesen megőrzött, hagyományos Lanna stílusú templomépítészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        99.497,
+                        18.294642
+                  ]
+            },
+            {
+                  "name": "Phum La Kon Museum",
+                  "text": "A Wang-folyó völgyének regionális történelmét és hagyományos műtárgyait bemutató helyi kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "Lenyűgöző helyi múzeum egy jellegzetes hagyományos, több mint 100 oszlopon nyugvó Lanna tíkfa kúriában.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Dhanabadee Ceramic Museum",
+                  "text": "A helyi kerámiaipart és a hagyományos csirkés tálak gyártásának történetét bemutató szakmúzeum a Wang-folyó völgyében.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Thai Bank Museum",
+                  "text": "A Wang-folyó völgyének regionális pénzügyi történetét és történelmi banki gyakorlatát részletező helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Átfogó regionális múzeum, amely a Wang-folyó völgye gazdag kulturális és történelmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.503293,
+                        18.290158
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A Wang-folyó völgyének régiójában jól felismerhető, központi forgalmi tájékozódási pontként szolgáló kiemelkedő óratorony.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "A Wang-folyó völgyének múltjára utaló, jellegzetes helyi építészeti elemekkel rendelkező történelmi műemléképület.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Ceramic Sala Otop",
+                  "text": "A Wang-folyó völgyében található, a híres helyi kerámiaművészet népszerűsítésének és értékesítésének szentelt művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        99.423901,
+                        18.217726
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Közösségi művészeti központ a Wang-folyó völgyében, amely kiállításoknak ad otthont és kortárs helyi alkotásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Muang Sart",
+                  "text": "A Wat Muang Sart egy hagyományos istentiszteleti hely, amely a Wang folyó völgyének festői táján fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        99.497495,
+                        18.287873
+                  ]
+            },
+            {
+                  "name": "wat Pratupong",
+                  "text": "A Wang folyó völgyében található hagyományos templom csendes környezetet biztosít a buddhista szertartásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        99.505332,
+                        18.294561
+                  ]
+            },
+            {
+                  "name": "Wat Ku Kam",
+                  "text": "A Wang folyó völgyének hátterében álló Wat Ku Kam egy helyi vallási helyszín, amely klasszikus thai templomi építészetet mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        99.494103,
+                        18.313888
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Ez a nyüzsgő éjszakai piac a Wang folyó völgyében sötétedés után kel életre a helyi utcai ételeket és árukat kínáló standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        99.487303,
+                        18.288698
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Egy nyüzsgő mindennapi piac, amely a Wang folyó völgyének közösségét látja el friss termékekkel és mindennapi alapvető cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        99.500718,
+                        18.293636
+                  ]
+            },
+            {
+                  "name": "Lak Muang Lampang Market",
+                  "text": "A városi oszlop közelében található nyüzsgő piac fontos találkozóhely a vásárlók számára a Wang folyó völgyében.",
+                  "category": "cultural",
+                  "coords": [
+                        99.501859,
+                        18.289284
+                  ]
+            },
+            {
+                  "name": "San Chao Pung Thao Kong",
+                  "text": "Ez a hagyományos kínai népi vallási szentély a Wang folyó völgyében színes sárkánymotívumaival és füstölőkkel teli udvaraival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        99.49716,
+                        18.289584
+                  ]
+            },
+            {
+                  "name": "Wat Pa Fang",
+                  "text": "A Wang folyó völgyének nyugodt környezetében fekvő buddhista kolostor békés környezetet kínál a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505393,
+                        18.28466
+                  ]
+            },
+            {
+                  "name": "Wat Phra Chedi Sao Lang",
+                  "text": "A húsz fehér sztúpa lenyűgöző elrendezéséről híres ősi buddhista helyszín a Wang folyó völgyének egyik legfontosabb nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        99.514933,
+                        18.322161
+                  ]
+            },
+            {
+                  "name": "Wat Tawimol)",
+                  "text": "Ez a békés buddhista szentély a Wang folyó völgyében tradicionális észak-thai kézműves motívumokkal díszített spirituális menedéket nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524589,
+                        18.314543
+                  ]
+            },
+            {
+                  "name": "Wat Chang Tham",
+                  "text": "A Wat Chang Tham egy történelmi buddhista templom a Wang folyó völgyében, amelyet jellegzetes helyi sztúpa dizájn jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        99.509771,
+                        18.303478
+                  ]
+            },
+            {
+                  "name": "Wat Nang Lieo",
+                  "text": "A Wang folyó völgyében megbúvó helyi buddhista templomot árnyékos udvarok veszik körül, amelyeket a közösség érdemszerző szertartásokra használ.",
+                  "category": "landmark",
+                  "coords": [
+                        99.51001,
+                        18.300355
+                  ]
+            },
+            {
+                  "name": "Wat Ta Lor",
+                  "text": "Ez a buddhista istentiszteleti hely a Wang folyó völgyében klasszikus, többszintes tetővonalaival békés menedékként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        99.458123,
+                        18.313116
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Rai",
+                  "text": "Neve ellenére ez az elegáns buddhista templom a Wang folyó völgyében található, lenyűgöző, fehérre meszelt szerkezetekkel és finom aranyozott részletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        99.492094,
+                        18.290321
+                  ]
+            },
+            {
+                  "name": "Motana Presbyterian Church",
+                  "text": "Ez a keresztény templom különleges építészeti stílust hoz a Wang folyó völgyébe, és a helyi protestáns gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        99.489233,
+                        18.286997
+                  ]
+            },
+            {
+                  "name": "Wat Nam Lorn",
+                  "text": "A Wang folyó völgyének természetével körülvett buddhista kolostorkomplexum csendes menedéket nyújt a spirituális tanulmányokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        99.499505,
+                        18.287572
+                  ]
+            },
+            {
+                  "name": "Suan Dok Temple",
+                  "text": "A Wang folyó völgyének tisztelt buddhista szentélye, amely virágoskertes környezetéről és tornyosuló harang alakú sztúpájáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496102,
+                        18.288844
+                  ]
+            },
+            {
+                  "name": "Wat Srikeard",
+                  "text": "A Wat Srikeard egy helyi buddhista enklávé a Wang folyó völgyében, ahol szerzetesek gyülekeznek a hagyományos, aranytornyos pagodák között.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505101,
+                        18.290858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "Un lăcaș de cult notabil în stil birmanez, recunoscut la nivel mondial pentru sculpturile în lemn bogat ornamentate și arhitectura din valea râului Wang.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaeo Don Tao",
+                  "text": "Un templu cu semnificație istorică din valea râului Wang, faimos pentru că a adăpostit cândva veneratul Buddha de Smarald.",
+                  "category": "religious",
+                  "coords": [
+                        99.509033,
+                        18.301201
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk",
+                  "text": "Un sit de patrimoniu care prezintă o arhitectură tradițională de templu în stil Lanna excepțional de bine conservată în valea râului Wang.",
+                  "category": "landmark",
+                  "coords": [
+                        99.497,
+                        18.294642
+                  ]
+            },
+            {
+                  "name": "Phum La Kon Museum",
+                  "text": "Un muzeu cultural local care prezintă istoria regională și artefactele tradiționale din valea râului Wang.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "Un muzeu local fascinant, găzduit într-un conac tradițional distinctiv din lemn de tec Lanna, susținut de peste 100 de stâlpi.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Dhanabadee Ceramic Museum",
+                  "text": "Un muzeu specializat care expune industria ceramică locală și istoria producției tradiționale de boluri cu pui în valea râului Wang.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Thai Bank Museum",
+                  "text": "Un muzeu local care detaliază istoria financiară regională și practicile bancare istorice găsite în valea râului Wang.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Un muzeu regional cuprinzător care expune moștenirea culturală și istorică bogată a zonei văii râului Wang.",
+                  "category": "museum",
+                  "coords": [
+                        99.503293,
+                        18.290158
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Un turn cu ceas monumental proeminent, care se ridică ca un punct de reper central de trafic recunoscut în regiunea văii râului Wang.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "O clădire monument istoric cu elemente arhitecturale locale distinctive, indicative pentru trecutul văii râului Wang.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Ceramic Sala Otop",
+                  "text": "Un centru de artă dedicat promovării și vânzării măiestriei ceramice locale renumite din valea râului Wang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.423901,
+                        18.217726
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Un centru comunitar de artă care găzduiește expoziții și prezintă lucrări creative locale contemporane în valea râului Wang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Muang Sart",
+                  "text": "Wat Muang Sart este un lăcaș de cult tradițional amplasat în peisajul pitoresc al văii râului Wang.",
+                  "category": "religious",
+                  "coords": [
+                        99.497495,
+                        18.287873
+                  ]
+            },
+            {
+                  "name": "wat Pratupong",
+                  "text": "Situat în zona văii râului Wang, acest templu tradițional oferă un cadru liniștit pentru ceremoniile budiste.",
+                  "category": "religious",
+                  "coords": [
+                        99.505332,
+                        18.294561
+                  ]
+            },
+            {
+                  "name": "Wat Ku Kam",
+                  "text": "Având ca fundal valea râului Wang, Wat Ku Kam este un sit religios local cu arhitectură clasică de templu thailandez.",
+                  "category": "religious",
+                  "coords": [
+                        99.494103,
+                        18.313888
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Această piață de noapte plină de viață din valea râului Wang prinde viață după lăsarea întunericului, cu tarabe care vând mâncare stradală și bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        99.487303,
+                        18.288698
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață zilnică vibrantă, care deservește comunitatea din valea râului Wang cu produse proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        99.500718,
+                        18.293636
+                  ]
+            },
+            {
+                  "name": "Lak Muang Lampang Market",
+                  "text": "Situată lângă stâlpul orașului, această piață aglomerată este un punct cheie de adunare pentru cumpărătorii din valea râului Wang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.501859,
+                        18.289284
+                  ]
+            },
+            {
+                  "name": "San Chao Pung Thao Kong",
+                  "text": "Acest altar tradițional de religie populară chineză iese în evidență în valea râului Wang prin motivele sale colorate cu dragoni și curțile pline de tămâie.",
+                  "category": "landmark",
+                  "coords": [
+                        99.49716,
+                        18.289584
+                  ]
+            },
+            {
+                  "name": "Wat Pa Fang",
+                  "text": "Amplasată într-un cadru liniștit din valea râului Wang, această mănăstire budistă oferă un mediu senin pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505393,
+                        18.28466
+                  ]
+            },
+            {
+                  "name": "Wat Phra Chedi Sao Lang",
+                  "text": "Faimos pentru aranjamentul său izbitor de douăzeci de stupe albe, acest vechi sit budist este un reper major în valea râului Wang.",
+                  "category": "landmark",
+                  "coords": [
+                        99.514933,
+                        18.322161
+                  ]
+            },
+            {
+                  "name": "Wat Tawimol)",
+                  "text": "Acest sanctuar budist senin din valea râului Wang oferă un refugiu spiritual împodobit cu măiestria tradițională thailandeză de nord.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524589,
+                        18.314543
+                  ]
+            },
+            {
+                  "name": "Wat Chang Tham",
+                  "text": "Wat Chang Tham este un templu budist istoric din valea râului Wang, caracterizat prin modelele distinctive ale stupelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        99.509771,
+                        18.303478
+                  ]
+            },
+            {
+                  "name": "Wat Nang Lieo",
+                  "text": "Cuibărit în valea râului Wang, acest templu budist local este înconjurat de curți umbrite folosite pentru ceremoniile comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        99.51001,
+                        18.300355
+                  ]
+            },
+            {
+                  "name": "Wat Ta Lor",
+                  "text": "Acest lăcaș de cult budist din valea râului Wang servește drept un refugiu liniștit prin acoperișurile sale clasice cu mai multe niveluri.",
+                  "category": "landmark",
+                  "coords": [
+                        99.458123,
+                        18.313116
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Rai",
+                  "text": "În ciuda numelui său, acest templu budist elegant este situat în valea râului Wang, prezentând structuri uimitoare văruite în alb și detalii aurite delicate.",
+                  "category": "landmark",
+                  "coords": [
+                        99.492094,
+                        18.290321
+                  ]
+            },
+            {
+                  "name": "Motana Presbyterian Church",
+                  "text": "Această biserică creștină aduce un stil arhitectural distinct în valea râului Wang, deservind congregația protestantă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        99.489233,
+                        18.286997
+                  ]
+            },
+            {
+                  "name": "Wat Nam Lorn",
+                  "text": "Înconjurat de natură în valea râului Wang, acest complex monahal budist oferă un refugiu liniștit pentru studiul spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        99.499505,
+                        18.287572
+                  ]
+            },
+            {
+                  "name": "Suan Dok Temple",
+                  "text": "Un sanctuar budist venerat în peisajul văii râului Wang, remarcabil pentru grădina sa de flori și stupa în formă de clopot.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496102,
+                        18.288844
+                  ]
+            },
+            {
+                  "name": "Wat Srikeard",
+                  "text": "Wat Srikeard este o enclavă budistă locală în valea râului Wang, unde călugării se adună printre pagodele tradiționale cu turle aurii.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505101,
+                        18.290858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "A notable Burmese-style place of worship recognized globally for its ornate woodcarvings and architecture in the Wang River valley.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaeo Don Tao",
+                  "text": "A historically significant temple site in the Wang River valley that famously once housed the revered Emerald Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        99.509033,
+                        18.301201
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk",
+                  "text": "A recognized heritage site showcasing exceptionally preserved traditional Lanna-style temple architecture in the Wang River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        99.497,
+                        18.294642
+                  ]
+            },
+            {
+                  "name": "Phum La Kon Museum",
+                  "text": "A local cultural museum presenting the regional history and traditional artifacts of the Wang River valley.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "A fascinating local museum housed in a distinctive traditional Lanna teakwood mansion supported by over 100 pillars.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Dhanabadee Ceramic Museum",
+                  "text": "A specialized museum exhibiting the local ceramic industry and the history of traditional chicken bowl production in the Wang River valley.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Thai Bank Museum",
+                  "text": "A local museum detailing the regional financial history and historical banking practices found in the Wang River valley.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "A comprehensive regional museum exhibiting the rich cultural and historical legacy of the Wang River valley area.",
+                  "category": "museum",
+                  "coords": [
+                        99.503293,
+                        18.290158
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A prominent monumental clock structure standing as a recognizable central traffic landmark in the Wang River valley region.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "A historic monument building featuring distinctive local architectural elements indicative of the Wang River valley's past.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Ceramic Sala Otop",
+                  "text": "An arts center dedicated to the promotion and sale of renowned local ceramic craftsmanship in the Wang River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        99.423901,
+                        18.217726
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "A community arts hub hosting exhibitions and showcasing contemporary local creative works in the Wang River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Muang Sart",
+                  "text": "Wat Muang Sart is a traditional place of worship nestled within the scenic landscape of the Wang River valley.",
+                  "category": "religious",
+                  "coords": [
+                        99.497495,
+                        18.287873
+                  ]
+            },
+            {
+                  "name": "wat Pratupong",
+                  "text": "Located in the Wang River valley area, this traditional temple provides a quiet setting for Buddhist ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        99.505332,
+                        18.294561
+                  ]
+            },
+            {
+                  "name": "Wat Ku Kam",
+                  "text": "Set against the backdrop of the Wang River valley, Wat Ku Kam is a local religious site featuring classic Thai temple architecture.",
+                  "category": "religious",
+                  "coords": [
+                        99.494103,
+                        18.313888
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "This bustling night market in the Wang River valley comes alive after dark with stalls selling local street food and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        99.487303,
+                        18.288698
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A vibrant daily marketplace serving the Wang River valley community with fresh produce and everyday essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        99.500718,
+                        18.293636
+                  ]
+            },
+            {
+                  "name": "Lak Muang Lampang Market",
+                  "text": "Situated near the city pillar, this busy market is a key gathering point for shoppers in the Wang River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        99.501859,
+                        18.289284
+                  ]
+            },
+            {
+                  "name": "San Chao Pung Thao Kong",
+                  "text": "This traditional Chinese folk religion shrine stands out in the Wang River valley with its colorful dragon motifs and incense-filled courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        99.49716,
+                        18.289584
+                  ]
+            },
+            {
+                  "name": "Wat Pa Fang",
+                  "text": "Set amidst tranquil surroundings in the Wang River valley, this Buddhist monastery offers a serene environment for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505393,
+                        18.28466
+                  ]
+            },
+            {
+                  "name": "Wat Phra Chedi Sao Lang",
+                  "text": "Famous for its striking arrangement of twenty white stupas, this ancient Buddhist site is a major landmark in the Wang River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        99.514933,
+                        18.322161
+                  ]
+            },
+            {
+                  "name": "Wat Tawimol)",
+                  "text": "This serene Buddhist sanctuary in the Wang River valley provides a spiritual haven adorned with traditional northern Thai craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524589,
+                        18.314543
+                  ]
+            },
+            {
+                  "name": "Wat Chang Tham",
+                  "text": "Wat Chang Tham is a historic Buddhist temple in the Wang River valley, characterized by distinctive local stupa designs.",
+                  "category": "landmark",
+                  "coords": [
+                        99.509771,
+                        18.303478
+                  ]
+            },
+            {
+                  "name": "Wat Nang Lieo",
+                  "text": "Nestled in the Wang River valley, this local Buddhist temple is surrounded by shaded courtyards used for community merit-making.",
+                  "category": "landmark",
+                  "coords": [
+                        99.51001,
+                        18.300355
+                  ]
+            },
+            {
+                  "name": "Wat Ta Lor",
+                  "text": "This Buddhist place of worship in the Wang River valley serves as a peaceful retreat with its classic multi-tiered rooflines.",
+                  "category": "landmark",
+                  "coords": [
+                        99.458123,
+                        18.313116
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Rai",
+                  "text": "Despite its name, this elegant Buddhist temple is situated in the Wang River valley, showcasing striking white-washed structures and delicate gilded details.",
+                  "category": "landmark",
+                  "coords": [
+                        99.492094,
+                        18.290321
+                  ]
+            },
+            {
+                  "name": "Motana Presbyterian Church",
+                  "text": "This Christian church brings a distinct architectural style to the Wang River valley, serving the local Protestant congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        99.489233,
+                        18.286997
+                  ]
+            },
+            {
+                  "name": "Wat Nam Lorn",
+                  "text": "Surrounded by nature in the Wang River valley, this Buddhist monastery complex provides a quiet refuge for spiritual study.",
+                  "category": "landmark",
+                  "coords": [
+                        99.499505,
+                        18.287572
+                  ]
+            },
+            {
+                  "name": "Suan Dok Temple",
+                  "text": "A revered Buddhist sanctuary in the Wang River valley landscape, notable for its flower-garden setting and towering bell-shaped stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496102,
+                        18.288844
+                  ]
+            },
+            {
+                  "name": "Wat Srikeard",
+                  "text": "Wat Srikeard is a local Buddhist enclave in the Wang River valley where monks gather among traditional golden-spired pagodas.",
+                  "category": "landmark",
+                  "coords": [
+                        99.505101,
+                        18.290858
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TH-52",
     coords: [99.50, 18.25],
@@ -699,7 +7530,916 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une vallée historique dans le nord de la Thaïlande, où coule la rivière Wang et où se trouve Lampang.", "Situé dans le royaume de Thaïlande.", "Influencé par le climat de mousson d'Asie du Sud-Est."],
     }, image: "/poi-images/wang-river-valley-relief-v2.webp"},
   {
-    id: "sam-pan-bok-canyon-relief-v2",
+    id: "sam-pan-bok-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tat Ton Waterfall",
+                  "text": "Der Tat Ton Wasserfall stürzt über felsige Klippen der Region Ubon Ratchathani in ein schönes natürliches Badebecken.",
+                  "category": "landmark",
+                  "coords": [
+                        105.477963,
+                        15.253194
+                  ]
+            },
+            {
+                  "name": "Pha Taem National Park",
+                  "text": "Der Pha Taem Nationalpark ist ein landschaftliches Schutzgebiet im Canyon-Gebiet, das für seine markanten Felsformationen berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.497515,
+                        15.399612
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "Der Aussichtspunkt Lan Hin Taek bietet spektakuläre Panoramablicke über die zerklüftete Canyon-Landschaft der Sam Pan Bok Region.",
+                  "category": "natural",
+                  "coords": [
+                        105.501782,
+                        15.40396
+                  ]
+            },
+            {
+                  "name": "Pha Taem",
+                  "text": "Pha Taem ist eine markante Klippe über dem Mekong, die weltweit für ihre rund 3000 Jahre alten prähistorischen Felsmalereien bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        105.50919,
+                        15.397769
+                  ]
+            },
+            {
+                  "name": "The 2nd paintings group (Pha Taem)",
+                  "text": "Die zweite Gemäldegruppe an den Felsen von Pha Taem umfasst prähistorische rote Muster und Figuren, die in den rauen Stein gemalt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        105.512277,
+                        15.399261
+                  ]
+            },
+            {
+                  "name": "Two Color River",
+                  "text": "Am Two Color River fließt das bräunliche Wasser des Mekong mit dem bläulichen Wasser des Mun-Flusses in einem spektakulären Naturphänomen zusammen.",
+                  "category": "landmark",
+                  "coords": [
+                        105.50267,
+                        15.317035
+                  ]
+            },
+            {
+                  "name": "Kaeng Tana National Park",
+                  "text": "Der Kaeng Tana Nationalpark in der Region Ubon Ratchathani schützt eine raue Flusslandschaft mit massiven Wasserstromschnellen.",
+                  "category": "natural",
+                  "coords": [
+                        105.475726,
+                        15.293277
+                  ]
+            },
+            {
+                  "name": "Mun River Viewpoint",
+                  "text": "Vom Mun River Viewpoint aus eröffnet sich ein majestätischer Ausblick auf den Zusammenfluss des Flusses und die felsige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        105.475015,
+                        15.302146
+                  ]
+            },
+            {
+                  "name": "Wat Phu Yai",
+                  "text": "Wat Phu Yai ist ein buddhistischer Tempel in der Sam Pan Bok Region, der sich durch seine Nähe zu den einzigartigen Canyon-Formationen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        105.511113,
+                        15.246865
+                  ]
+            },
+            {
+                  "name": "Wit Nong Chat",
+                  "text": "Wit Nong Chat ist eine traditionelle buddhistische Stätte, die harmonisch in die raue, von Flüssen geprägte Landschaft integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492292,
+                        15.267281
+                  ]
+            },
+            {
+                  "name": "Khanu Ti Ko Monastery",
+                  "text": "Das Khanu Ti Ko Kloster ist eine isolierte buddhistische Anlage im ländlichen Thailand, die tiefe klösterliche Ausbildung ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        105.483588,
+                        15.250068
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pong",
+                  "text": "Der buddhistische Tempel Wat Tham Pong fügt sich mit seinen spirituellen Gebäuden dezent in die lokale ländliche Waldumgebung ein.",
+                  "category": "landmark",
+                  "coords": [
+                        105.459266,
+                        15.341989
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Weluwan",
+                  "text": "Wat Sawang Weluwan ist ein buddhistischer Tempel, dessen weitläufiges Gelände Pilgern einen Rückzugsort in der Canyon-Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461363,
+                        15.348168
+                  ]
+            },
+            {
+                  "name": "Wat Huai Phai",
+                  "text": "Der Tempel Wat Huai Phai dient der thailändischen buddhistischen Gemeinde in der Region um den Mekong als malerischer Ort für rituelle Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        105.456133,
+                        15.3528
+                  ]
+            },
+            {
+                  "name": "Wat Pha Taem Romyen",
+                  "text": "Der buddhistische Tempel Wat Pha Taem Romyen liegt spirituell eingebettet im Nationalpark nahe den berühmten Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492866,
+                        15.399803
+                  ]
+            },
+            {
+                  "name": "Wat Bup Pha Wan",
+                  "text": "Ein buddhistischer Tempelkomplex in der Region der Sam Phan Bok-Schlucht, der als lokaler Ort der Einkehr dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.493171,
+                        15.320819
+                  ]
+            },
+            {
+                  "name": "Wat Tham Kho Thamma Ram",
+                  "text": "Diese buddhistische Höhlentempelanlage in der Nähe der Sam Phan Bok-Schlucht ist in die natürliche Felslandschaft integriert.",
+                  "category": "landmark",
+                  "coords": [
+                        105.458354,
+                        15.331818
+                  ]
+            },
+            {
+                  "name": "Wat Tham Heo Sin Chai",
+                  "text": "Ein in einer natürlichen Schlucht und Höhle gelegener buddhistischer Tempel in der Umgebung von Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.485278,
+                        15.308741
+                  ]
+            },
+            {
+                  "name": "Wat Tha Phae",
+                  "text": "Ein buddhistischer Tempel am Ufer, der sich durch seine Lage an den Gewässern der Sam Phan Bok-Region auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        105.49462,
+                        15.299976
+                  ]
+            },
+            {
+                  "name": "Garuda and buddha statues",
+                  "text": "Eine Ansammlung buddhistischer Statuen, darunter Darstellungen des mythischen Vogels Garuda, in der Region Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.534013,
+                        15.284967
+                  ]
+            },
+            {
+                  "name": "Wat Khong Chiang",
+                  "text": "Ein traditioneller buddhistischer Wat in der Gemeinde Khong Chiam, der die lokale religiöse Architektur der Sam Phan Bok-Gegend widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.501758,
+                        15.316867
+                  ]
+            },
+            {
+                  "name": "Wat Tham Khuha Sawan",
+                  "text": "Ein buddhistischer Höhlentempel in der Region Sam Phan Bok, der in die natürlichen Felsen gehauen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.487654,
+                        15.322771
+                  ]
+            },
+            {
+                  "name": "Wat Huai Sakam",
+                  "text": "Ein buddhistischer Tempel an einem kleinen Wasserlauf, der als ruhiger spiritueller Ort nahe Sam Phan Bok dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475894,
+                        15.332322
+                  ]
+            },
+            {
+                  "name": "Khong Chiam Market",
+                  "text": "Ein belebter lokaler Markt in Khong Chiam nahe der Sam Phan Bok-Schlucht, auf dem frische landwirtschaftliche Erzeugnisse und Handwerkskunst gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.491486,
+                        15.317969
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "Ein moderner Supermarkt in der Region Sam Phan Bok, der die Einheimischen und Reisenden mit Lebensmitteln und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        105.49349,
+                        15.318175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tat Ton Waterfall",
+                  "text": "A Tat Ton vízesés Ubon Ratchathani régiójának sziklás szikláin keresztül zuhan egy szép természetes fürdőmedencébe.",
+                  "category": "landmark",
+                  "coords": [
+                        105.477963,
+                        15.253194
+                  ]
+            },
+            {
+                  "name": "Pha Taem National Park",
+                  "text": "A Pha Taem Nemzeti Park a kanyonvidék természetvédelmi területe, amely jellegzetes sziklaalakzatairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        105.497515,
+                        15.399612
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "A Lan Hin Taek kilátó látványos panorámát nyújt a Sam Pan Bok régió zord kanyonjaira.",
+                  "category": "natural",
+                  "coords": [
+                        105.501782,
+                        15.40396
+                  ]
+            },
+            {
+                  "name": "Pha Taem",
+                  "text": "A Pha Taem egy jellegzetes sziklaszirt a Mekong felett, amely mintegy 3000 éves történelem előtti sziklafestményeiről világszerte ismert.",
+                  "category": "natural",
+                  "coords": [
+                        105.50919,
+                        15.397769
+                  ]
+            },
+            {
+                  "name": "The 2nd paintings group (Pha Taem)",
+                  "text": "A Pha Taem szikláin található második festménycsoport történelem előtti vörös mintákat és alakokat tartalmaz, amelyeket a durva kőre festettek.",
+                  "category": "landmark",
+                  "coords": [
+                        105.512277,
+                        15.399261
+                  ]
+            },
+            {
+                  "name": "Two Color River",
+                  "text": "A Kétszínű folyónál a Mekong barnás vize és a Mun folyó kékes vize látványos természeti jelenség keretében olvad össze.",
+                  "category": "landmark",
+                  "coords": [
+                        105.50267,
+                        15.317035
+                  ]
+            },
+            {
+                  "name": "Kaeng Tana National Park",
+                  "text": "Az Ubon Ratchathani régióban található Kaeng Tana Nemzeti Park masszív vízi zuhatagokkal rendelkező zord folyóvidéket véd.",
+                  "category": "natural",
+                  "coords": [
+                        105.475726,
+                        15.293277
+                  ]
+            },
+            {
+                  "name": "Mun River Viewpoint",
+                  "text": "A Mun-folyó kilátóból fenséges kilátás nyílik a folyó összefolyására és a sziklás tájra.",
+                  "category": "natural",
+                  "coords": [
+                        105.475015,
+                        15.302146
+                  ]
+            },
+            {
+                  "name": "Wat Phu Yai",
+                  "text": "A Wat Phu Yai egy buddhista templom a Sam Pan Bok régióban, amelyet az egyedülálló kanyonképződmények közelsége jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        105.511113,
+                        15.246865
+                  ]
+            },
+            {
+                  "name": "Wit Nong Chat",
+                  "text": "A Wit Nong Chat egy hagyományos buddhista helyszín, amely harmonikusan illeszkedik a folyók által formált zord tájba.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492292,
+                        15.267281
+                  ]
+            },
+            {
+                  "name": "Khanu Ti Ko Monastery",
+                  "text": "A Khanu Ti Ko kolostor egy elszigetelt buddhista épületegyüttes Thaiföld vidéki részén, amely mély kolostori képzést tesz lehetővé.",
+                  "category": "landmark",
+                  "coords": [
+                        105.483588,
+                        15.250068
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pong",
+                  "text": "A Wat Tham Pong buddhista templom spirituális épületeivel diszkréten illeszkedik a helyi vidéki erdei környezetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        105.459266,
+                        15.341989
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Weluwan",
+                  "text": "A Wat Sawang Weluwan egy buddhista templom, amelynek tágas területe a zarándokok számára elvonulási lehetőséget kínál a kanyon régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461363,
+                        15.348168
+                  ]
+            },
+            {
+                  "name": "Wat Huai Phai",
+                  "text": "A Wat Huai Phai templom a Mekong környéki régió thai buddhista közösségének szolgál a rituális szertartások festői helyszíneként.",
+                  "category": "landmark",
+                  "coords": [
+                        105.456133,
+                        15.3528
+                  ]
+            },
+            {
+                  "name": "Wat Pha Taem Romyen",
+                  "text": "A Wat Pha Taem Romyen buddhista templom spirituálisan ágyazódik be a nemzeti parkba a híres sziklaalakzatok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492866,
+                        15.399803
+                  ]
+            },
+            {
+                  "name": "Wat Bup Pha Wan",
+                  "text": "Buddhista templomegyüttes a Sam Phan Bok kanyon közelében, amely helyi spirituális központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        105.493171,
+                        15.320819
+                  ]
+            },
+            {
+                  "name": "Wat Tham Kho Thamma Ram",
+                  "text": "A Sam Phan Bok kanyon közelében található buddhista barlangtemplom a természetes sziklakörnyezetbe illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        105.458354,
+                        15.331818
+                  ]
+            },
+            {
+                  "name": "Wat Tham Heo Sin Chai",
+                  "text": "A Sam Phan Bok környékén, egy természetes szurdok barlangjában megbúvó buddhista szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        105.485278,
+                        15.308741
+                  ]
+            },
+            {
+                  "name": "Wat Tha Phae",
+                  "text": "A Sam Phan Bok régió vízpartján található buddhista templom, amely a helyi vallási élet fontos színtere.",
+                  "category": "landmark",
+                  "coords": [
+                        105.49462,
+                        15.299976
+                  ]
+            },
+            {
+                  "name": "Garuda and buddha statues",
+                  "text": "A mitikus Garuda madarat és Buddhát ábrázoló vallási szoborcsoport a Sam Phan Bok kanyon közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.534013,
+                        15.284967
+                  ]
+            },
+            {
+                  "name": "Wat Khong Chiang",
+                  "text": "Hagyományos buddhista wat Khong Chiam közösségében, amely a Sam Phan Bok környékének vallási építészetét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        105.501758,
+                        15.316867
+                  ]
+            },
+            {
+                  "name": "Wat Tham Khuha Sawan",
+                  "text": "A Sam Phan Bok régióban található buddhista barlangtemplom, amelyet a természetes sziklába vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        105.487654,
+                        15.322771
+                  ]
+            },
+            {
+                  "name": "Wat Huai Sakam",
+                  "text": "A Sam Phan Bok közelében, egy kis patak mentén fekvő buddhista templom, amely csendes spirituális helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475894,
+                        15.332322
+                  ]
+            },
+            {
+                  "name": "Khong Chiam Market",
+                  "text": "Nyüzsgő helyi piac Khong Chiamban, a Sam Phan Bok kanyon közelében, ahol friss mezőgazdasági termékeket és kézműves árukat árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.491486,
+                        15.317969
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "Modern szupermarket a Sam Phan Bok régióban, amely élelmiszerekkel és napi szükségleti cikkekkel látja el a helyieket és az utazókat.",
+                  "category": "cultural",
+                  "coords": [
+                        105.49349,
+                        15.318175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tat Ton Waterfall",
+                  "text": "Cascada Tat Ton se prăvălește peste stâncile din regiunea Ubon Ratchathani într-un frumos bazin natural de înot.",
+                  "category": "landmark",
+                  "coords": [
+                        105.477963,
+                        15.253194
+                  ]
+            },
+            {
+                  "name": "Pha Taem National Park",
+                  "text": "Parcul Național Pha Taem este o rezervație pitorească din zona canionului, renumită pentru formațiunile sale stâncoase izbitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        105.497515,
+                        15.399612
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "Punctul de belvedere Lan Hin Taek oferă vederi panoramice spectaculoase asupra peisajului accidentat de canion din regiunea Sam Pan Bok.",
+                  "category": "natural",
+                  "coords": [
+                        105.501782,
+                        15.40396
+                  ]
+            },
+            {
+                  "name": "Pha Taem",
+                  "text": "Pha Taem este o stâncă proeminentă deasupra râului Mekong, renumită la nivel mondial pentru picturile sale rupestre preistorice vechi de aproximativ 3000 de ani.",
+                  "category": "natural",
+                  "coords": [
+                        105.50919,
+                        15.397769
+                  ]
+            },
+            {
+                  "name": "The 2nd paintings group (Pha Taem)",
+                  "text": "Al doilea grup de picturi de pe stâncile Pha Taem cuprinde modele roșii preistorice și figuri pictate pe piatra aspră.",
+                  "category": "landmark",
+                  "coords": [
+                        105.512277,
+                        15.399261
+                  ]
+            },
+            {
+                  "name": "Two Color River",
+                  "text": "La Râul în două culori, apa maronie a Mekong-ului se întâlnește cu apa albăstruie a râului Mun într-un fenomen natural spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        105.50267,
+                        15.317035
+                  ]
+            },
+            {
+                  "name": "Kaeng Tana National Park",
+                  "text": "Parcul Național Kaeng Tana din regiunea Ubon Ratchathani protejează un peisaj fluvial accidentat, cu praguri masive de apă.",
+                  "category": "natural",
+                  "coords": [
+                        105.475726,
+                        15.293277
+                  ]
+            },
+            {
+                  "name": "Mun River Viewpoint",
+                  "text": "Punctul de belvedere asupra râului Mun oferă o priveliște maiestuoasă asupra confluenței râului și a peisajului stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        105.475015,
+                        15.302146
+                  ]
+            },
+            {
+                  "name": "Wat Phu Yai",
+                  "text": "Wat Phu Yai este un templu budist din regiunea Sam Pan Bok, caracterizat prin apropierea sa de formațiunile unice de canion.",
+                  "category": "landmark",
+                  "coords": [
+                        105.511113,
+                        15.246865
+                  ]
+            },
+            {
+                  "name": "Wit Nong Chat",
+                  "text": "Wit Nong Chat este un loc budist tradițional, care se integrează armonios în peisajul accidentat, modelat de râuri.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492292,
+                        15.267281
+                  ]
+            },
+            {
+                  "name": "Khanu Ti Ko Monastery",
+                  "text": "Mănăstirea Khanu Ti Ko este un complex budist izolat din zona rurală a Thailandei, care permite pregătirea monahală profundă.",
+                  "category": "landmark",
+                  "coords": [
+                        105.483588,
+                        15.250068
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pong",
+                  "text": "Templul budist Wat Tham Pong, cu clădirile sale spirituale, se integrează subtil în mediul forestier rural local.",
+                  "category": "landmark",
+                  "coords": [
+                        105.459266,
+                        15.341989
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Weluwan",
+                  "text": "Wat Sawang Weluwan este un templu budist al cărui teren spațios oferă pelerinilor un refugiu în regiunea canionului.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461363,
+                        15.348168
+                  ]
+            },
+            {
+                  "name": "Wat Huai Phai",
+                  "text": "Templul Wat Huai Phai servește comunității budiste thailandeze din regiunea din jurul Mekongului drept loc pitoresc pentru ceremonii rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        105.456133,
+                        15.3528
+                  ]
+            },
+            {
+                  "name": "Wat Pha Taem Romyen",
+                  "text": "Templul budist Wat Pha Taem Romyen este așezat spiritual în parcul național din apropierea faimoaselor formațiuni stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492866,
+                        15.399803
+                  ]
+            },
+            {
+                  "name": "Wat Bup Pha Wan",
+                  "text": "Un templu budist situat în regiunea canionului Sam Phan Bok, oferind un spațiu pentru reculegere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        105.493171,
+                        15.320819
+                  ]
+            },
+            {
+                  "name": "Wat Tham Kho Thamma Ram",
+                  "text": "Un templu budist în peșteră din zona canionului Sam Phan Bok, integrat armonios în peisajul stâncos natural.",
+                  "category": "landmark",
+                  "coords": [
+                        105.458354,
+                        15.331818
+                  ]
+            },
+            {
+                  "name": "Wat Tham Heo Sin Chai",
+                  "text": "Un templu budist retras, situat într-o peșteră și un defileu natural din apropierea regiunii Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.485278,
+                        15.308741
+                  ]
+            },
+            {
+                  "name": "Wat Tha Phae",
+                  "text": "Un templu budist situat pe malul apei în regiunea Sam Phan Bok, folosit pentru ceremonii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        105.49462,
+                        15.299976
+                  ]
+            },
+            {
+                  "name": "Garuda and buddha statues",
+                  "text": "Un ansamblu de statui budiste, incluzând reprezentări ale păsării mitice Garuda, situat în zona Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.534013,
+                        15.284967
+                  ]
+            },
+            {
+                  "name": "Wat Khong Chiang",
+                  "text": "Un wat budist tradițional în comunitatea Khong Chiam, reflectând arhitectura religioasă din zona Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.501758,
+                        15.316867
+                  ]
+            },
+            {
+                  "name": "Wat Tham Khuha Sawan",
+                  "text": "Un templu budist amenajat într-o peșteră din regiunea Sam Phan Bok, valorificând relieful stâncos natural.",
+                  "category": "landmark",
+                  "coords": [
+                        105.487654,
+                        15.322771
+                  ]
+            },
+            {
+                  "name": "Wat Huai Sakam",
+                  "text": "Un templu budist situat de-a lungul unui pârâu, oferind un loc de liniște spirituală lângă Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475894,
+                        15.332322
+                  ]
+            },
+            {
+                  "name": "Khong Chiam Market",
+                  "text": "O piață locală aglomerată în Khong Chiam, lângă canionul Sam Phan Bok, unde se vând produse agricole proaspete și obiecte de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        105.491486,
+                        15.317969
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "Un supermarket modern în regiunea Sam Phan Bok, care aprovizionează localnicii și călătorii cu alimente și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        105.49349,
+                        15.318175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tat Ton Waterfall",
+                  "text": "The Tat Ton Waterfall plunges over rocky cliffs in the Ubon Ratchathani region into a beautiful natural swimming pool.",
+                  "category": "landmark",
+                  "coords": [
+                        105.477963,
+                        15.253194
+                  ]
+            },
+            {
+                  "name": "Pha Taem National Park",
+                  "text": "Pha Taem National Park is a scenic protected area in the canyon region, famous for its striking rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        105.497515,
+                        15.399612
+                  ]
+            },
+            {
+                  "name": "Lan Hin Taek",
+                  "text": "The Lan Hin Taek viewpoint offers spectacular panoramic views over the rugged canyon landscape of the Sam Pan Bok region.",
+                  "category": "natural",
+                  "coords": [
+                        105.501782,
+                        15.40396
+                  ]
+            },
+            {
+                  "name": "Pha Taem",
+                  "text": "Pha Taem is a prominent cliff above the Mekong River, internationally known for its prehistoric rock paintings dating back about 3000 years.",
+                  "category": "natural",
+                  "coords": [
+                        105.50919,
+                        15.397769
+                  ]
+            },
+            {
+                  "name": "The 2nd paintings group (Pha Taem)",
+                  "text": "The 2nd paintings group on the cliffs of Pha Taem includes prehistoric red patterns and figures painted onto the rough stone.",
+                  "category": "landmark",
+                  "coords": [
+                        105.512277,
+                        15.399261
+                  ]
+            },
+            {
+                  "name": "Two Color River",
+                  "text": "At the Two Color River, the brownish water of the Mekong merges with the bluish water of the Mun River in a spectacular natural phenomenon.",
+                  "category": "landmark",
+                  "coords": [
+                        105.50267,
+                        15.317035
+                  ]
+            },
+            {
+                  "name": "Kaeng Tana National Park",
+                  "text": "Kaeng Tana National Park in the Ubon Ratchathani region protects a rugged river landscape with massive water rapids.",
+                  "category": "natural",
+                  "coords": [
+                        105.475726,
+                        15.293277
+                  ]
+            },
+            {
+                  "name": "Mun River Viewpoint",
+                  "text": "The Mun River Viewpoint offers a majestic view of the river's confluence and the rocky landscape.",
+                  "category": "natural",
+                  "coords": [
+                        105.475015,
+                        15.302146
+                  ]
+            },
+            {
+                  "name": "Wat Phu Yai",
+                  "text": "Wat Phu Yai is a Buddhist temple in the Sam Pan Bok region, characterized by its proximity to the unique canyon formations.",
+                  "category": "landmark",
+                  "coords": [
+                        105.511113,
+                        15.246865
+                  ]
+            },
+            {
+                  "name": "Wit Nong Chat",
+                  "text": "Wit Nong Chat is a traditional Buddhist site harmoniously integrated into the rugged river-shaped landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492292,
+                        15.267281
+                  ]
+            },
+            {
+                  "name": "Khanu Ti Ko Monastery",
+                  "text": "Khanu Ti Ko Monastery is an isolated Buddhist complex in rural Thailand that facilitates deep monastic training.",
+                  "category": "landmark",
+                  "coords": [
+                        105.483588,
+                        15.250068
+                  ]
+            },
+            {
+                  "name": "Wat Tham Pong",
+                  "text": "The Buddhist temple Wat Tham Pong, with its spiritual buildings, subtly blends into the local rural forest environment.",
+                  "category": "landmark",
+                  "coords": [
+                        105.459266,
+                        15.341989
+                  ]
+            },
+            {
+                  "name": "Wat Sawang Weluwan",
+                  "text": "Wat Sawang Weluwan is a Buddhist temple whose spacious grounds offer pilgrims a retreat in the canyon region.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461363,
+                        15.348168
+                  ]
+            },
+            {
+                  "name": "Wat Huai Phai",
+                  "text": "The temple Wat Huai Phai serves the Thai Buddhist community in the region around the Mekong as a picturesque location for ritual ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        105.456133,
+                        15.3528
+                  ]
+            },
+            {
+                  "name": "Wat Pha Taem Romyen",
+                  "text": "The Buddhist temple Wat Pha Taem Romyen is spiritually nestled in the national park near the famous rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        105.492866,
+                        15.399803
+                  ]
+            },
+            {
+                  "name": "Wat Bup Pha Wan",
+                  "text": "A Buddhist temple complex in the Sam Phan Bok canyon region, serving as a local spiritual retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        105.493171,
+                        15.320819
+                  ]
+            },
+            {
+                  "name": "Wat Tham Kho Thamma Ram",
+                  "text": "A Buddhist cave temple facility near the Sam Phan Bok canyon, integrated into the natural rocky landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        105.458354,
+                        15.331818
+                  ]
+            },
+            {
+                  "name": "Wat Tham Heo Sin Chai",
+                  "text": "A secluded Buddhist temple set within a natural cave and ravine in the Sam Phan Bok area.",
+                  "category": "landmark",
+                  "coords": [
+                        105.485278,
+                        15.308741
+                  ]
+            },
+            {
+                  "name": "Wat Tha Phae",
+                  "text": "A riverside Buddhist temple in the Sam Phan Bok region, characterized by its location along the waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        105.49462,
+                        15.299976
+                  ]
+            },
+            {
+                  "name": "Garuda and buddha statues",
+                  "text": "A collection of Buddhist statues featuring the mythical Garuda bird and Buddha, located in the Sam Phan Bok area.",
+                  "category": "landmark",
+                  "coords": [
+                        105.534013,
+                        15.284967
+                  ]
+            },
+            {
+                  "name": "Wat Khong Chiang",
+                  "text": "A traditional Buddhist wat in the Khong Chiam community, reflecting the local religious architecture of the Sam Phan Bok area.",
+                  "category": "landmark",
+                  "coords": [
+                        105.501758,
+                        15.316867
+                  ]
+            },
+            {
+                  "name": "Wat Tham Khuha Sawan",
+                  "text": "A Buddhist cave temple in the Sam Phan Bok region, utilizing the natural rocky overhangs of the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        105.487654,
+                        15.322771
+                  ]
+            },
+            {
+                  "name": "Wat Huai Sakam",
+                  "text": "A Buddhist temple situated along a small stream, serving as a quiet spiritual location near Sam Phan Bok.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475894,
+                        15.332322
+                  ]
+            },
+            {
+                  "name": "Khong Chiam Market",
+                  "text": "A bustling local marketplace in Khong Chiam near the Sam Phan Bok canyon, trading in fresh agricultural produce and handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        105.491486,
+                        15.317969
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "A modern minimart in the Sam Phan Bok region, supplying locals and travelers with groceries and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        105.49349,
+                        15.318175
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TH-34",
     coords: [105.47, 15.32],
@@ -746,7 +8486,700 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Un tronçon du Mékong qui, en saison sèche, révèle des milliers de formations rocheuses semblables à des trous, créant un paysage lunaire.", "Situé sur le territoire du Royaume de Thaïlande.", "Influencé par le climat de mousson de l'Asie du Sud-Est."],
     }, image: "/poi-images/sam-pan-bok-canyon-relief-v2.webp"},
   {
-    id: "khao-sammuk-coast-relief-v2",
+    id: "khao-sammuk-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Canyon Chonburi",
+                  "text": "Dieser Aussichtspunkt an der Küste von Khao Sammuk bietet einen weiten Blick über die dramatischen Felsformationen des Grand Canyon Chonburi.",
+                  "category": "natural",
+                  "coords": [
+                        100.980656,
+                        13.321671
+                  ]
+            },
+            {
+                  "name": "Wat Saen Suk",
+                  "text": "Diese buddhistische Tempelanlage nahe der Küste ist bekannt für ihren detailreichen Höllengarten, der die Strafen der Unterwelt drastisch darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        100.9154,
+                        13.298748
+                  ]
+            },
+            {
+                  "name": "The Life Center (",
+                  "text": "Eine christliche Einrichtung im Küstengebiet, die den Gläubigen der Region als spiritueller Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.929074,
+                        13.289534
+                  ]
+            },
+            {
+                  "name": "Sila Chruch",
+                  "text": "Diese christliche Kirche bietet der lokalen Gemeinde nahe der Küste einen Ort für Gottesdienste und Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        100.926499,
+                        13.340502
+                  ]
+            },
+            {
+                  "name": "Khao Sam Muk Temple",
+                  "text": "Ein buddhistischer Tempel am Hügel Khao Sam Muk, der einen malerischen Blick über die Küste und die Bucht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.904713,
+                        13.310398
+                  ]
+            },
+            {
+                  "name": "San Cao Mae Sam Muk",
+                  "text": "Dieser buddhistische Schrein an der Küste ehrt den lokalen Schutzgeist Mae Sam Muk und zieht viele Pilger an.",
+                  "category": "landmark",
+                  "coords": [
+                        100.903646,
+                        13.316534
+                  ]
+            },
+            {
+                  "name": "Wat Khao Wang Ta Ko",
+                  "text": "Eine friedliche buddhistische Anlage, die in die leicht hügelige Küstenlandschaft eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.997056,
+                        13.290296
+                  ]
+            },
+            {
+                  "name": "Guan Yin Rim Sea Lam Thaen",
+                  "text": "Ein am Meer gelegener buddhistischer Schrein am Kap Lam Thaen, der der Barmherzigkeitsgöttin Guanyin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.897887,
+                        13.302826
+                  ]
+            },
+            {
+                  "name": "Jai Saman Church",
+                  "text": "Eine christliche Kirche im Küstengebiet von Khao Sam Muk, die spirituelle Dienste für die Gemeinde anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        100.944232,
+                        13.33993
+                  ]
+            },
+            {
+                  "name": "Lokut Tham Prateep Foundation",
+                  "text": "Eine religiöse Stiftung und spirituelle Stätte, die sich der Förderung lokaler Glaubenspraktiken widmet.",
+                  "category": "religious",
+                  "coords": [
+                        100.921709,
+                        13.327952
+                  ]
+            },
+            {
+                  "name": "San Chao Na Ja Sa Tai Chi",
+                  "text": "Dieser kunstvoll verzierte taoistische Tempelkomplex in Ang Sila ist für seine prächtigen Drachensäulen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.923126,
+                        13.328832
+                  ]
+            },
+            {
+                  "name": "Wat Komut Ratthanaram",
+                  "text": "Ein buddhistischer Tempel, der den Bewohnern der Küstenregion als Ort der Meditation und religiösen Zeremonien dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.920801,
+                        13.332948
+                  ]
+            },
+            {
+                  "name": "Deprivation",
+                  "text": "Eine religiöse Stätte im Gebiet von Khao Sam Muk, die für spirituelle Einkehr und Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        100.925103,
+                        13.328676
+                  ]
+            },
+            {
+                  "name": "Nong Mong Market",
+                  "text": "Ein belebter Marktplatz an der Küste, auf dem frische lokale Produkte und Alltagswaren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        100.936286,
+                        13.279226
+                  ]
+            },
+            {
+                  "name": "Thana Market Center",
+                  "text": "Ein zentraler Handelsplatz für die Gemeinden nahe der Küste von Khao Sam Muk, der Lebensmittel und Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        100.970255,
+                        13.349436
+                  ]
+            },
+            {
+                  "name": "Chor Supermarket",
+                  "text": "Ein moderner Marktplatz mit einem großen Angebot an Lebensmitteln für die Bewohner der Küstenregion.",
+                  "category": "cultural",
+                  "coords": [
+                        100.968453,
+                        13.338434
+                  ]
+            },
+            {
+                  "name": "Wang Muk Market",
+                  "text": "Auf diesem traditionellen Markt an der Bucht können Besucher regionale Snacks und frische Zutaten entdecken.",
+                  "category": "cultural",
+                  "coords": [
+                        100.929955,
+                        13.287103
+                  ]
+            },
+            {
+                  "name": "Nong Nan Fresh Shrimp",
+                  "text": "Ein lokaler Markt, der sich auf fangfrische Garnelen und andere Meeresfrüchte von den Booten der Region spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92359,
+                        13.331704
+                  ]
+            },
+            {
+                  "name": "Angsila Seafood Market",
+                  "text": "Ein bekannter Fischmarkt, auf dem man die frischen Fänge des Tages direkt am Meer kaufen kann.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92421,
+                        13.338334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Canyon Chonburi",
+                  "text": "Ez a kilátó a Khao Sammuk partján széles kilátást nyújt a Grand Canyon Chonburi drámai sziklaalakzataira.",
+                  "category": "natural",
+                  "coords": [
+                        100.980656,
+                        13.321671
+                  ]
+            },
+            {
+                  "name": "Wat Saen Suk",
+                  "text": "Ez a tengerpart közeli buddhista templomkomplexum a pokolkertjéről híres, amely drámaian mutatja be az alvilági büntetéseket.",
+                  "category": "religious",
+                  "coords": [
+                        100.9154,
+                        13.298748
+                  ]
+            },
+            {
+                  "name": "The Life Center (",
+                  "text": "Keresztény létesítmény a part menti térségben, amely a helyi hívők spirituális találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        100.929074,
+                        13.289534
+                  ]
+            },
+            {
+                  "name": "Sila Chruch",
+                  "text": "Ez a keresztény templom a part közelében fekvő helyi közösség számára nyújt istentiszteleti és találkozási helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.926499,
+                        13.340502
+                  ]
+            },
+            {
+                  "name": "Khao Sam Muk Temple",
+                  "text": "A Khao Sam Muk hegyen található buddhista templom, amely festői kilátást nyújt a partra és az öbölre.",
+                  "category": "landmark",
+                  "coords": [
+                        100.904713,
+                        13.310398
+                  ]
+            },
+            {
+                  "name": "San Cao Mae Sam Muk",
+                  "text": "Ez a part menti buddhista szentély Mae Sam Muk helyi védőszelleme előtt tiszteleg, és sok zarándokot vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        100.903646,
+                        13.316534
+                  ]
+            },
+            {
+                  "name": "Wat Khao Wang Ta Ko",
+                  "text": "Békés buddhista komplexum, amely a part menti enyhén dombos tájba ékelődik.",
+                  "category": "landmark",
+                  "coords": [
+                        100.997056,
+                        13.290296
+                  ]
+            },
+            {
+                  "name": "Guan Yin Rim Sea Lam Thaen",
+                  "text": "A Lam Thaen-fok tengerpartján található buddhista szentély, amelyet Guanyin, az irgalom istennőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        100.897887,
+                        13.302826
+                  ]
+            },
+            {
+                  "name": "Jai Saman Church",
+                  "text": "Keresztény templom a Khao Sam Muk partvidéken, amely spirituális szolgáltatásokat nyújt a közösségnek.",
+                  "category": "religious",
+                  "coords": [
+                        100.944232,
+                        13.33993
+                  ]
+            },
+            {
+                  "name": "Lokut Tham Prateep Foundation",
+                  "text": "Vallási alapítvány és spirituális helyszín, amely a helyi hitéleti gyakorlatok előmozdításának szenteli magát.",
+                  "category": "religious",
+                  "coords": [
+                        100.921709,
+                        13.327952
+                  ]
+            },
+            {
+                  "name": "San Chao Na Ja Sa Tai Chi",
+                  "text": "Ez a gazdagon díszített taoista templomkomplexum Ang Sila területén lenyűgöző sárkányos oszlopairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.923126,
+                        13.328832
+                  ]
+            },
+            {
+                  "name": "Wat Komut Ratthanaram",
+                  "text": "Egy buddhista templom, amely a part menti régió lakosainak szolgál meditációs és vallási szertartások helyszíneként.",
+                  "category": "landmark",
+                  "coords": [
+                        100.920801,
+                        13.332948
+                  ]
+            },
+            {
+                  "name": "Deprivation",
+                  "text": "Egy vallási hely a Khao Sam Muk területén, amelyet spirituális elvonulásra és istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        100.925103,
+                        13.328676
+                  ]
+            },
+            {
+                  "name": "Nong Mong Market",
+                  "text": "Nyüzsgő part menti piac, ahol friss helyi termékeket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        100.936286,
+                        13.279226
+                  ]
+            },
+            {
+                  "name": "Thana Market Center",
+                  "text": "Egy központi kereskedelmi helyszín a Khao Sam Muk part közelében lévő közösségek számára, amely élelmiszereket és háztartási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        100.970255,
+                        13.349436
+                  ]
+            },
+            {
+                  "name": "Chor Supermarket",
+                  "text": "Egy modern piac, amely széles élelmiszerválasztékot kínál a tengerparti régió lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        100.968453,
+                        13.338434
+                  ]
+            },
+            {
+                  "name": "Wang Muk Market",
+                  "text": "Ezen az öböl menti hagyományos piacon a látogatók regionális harapnivalókat és friss alapanyagokat fedezhetnek fel.",
+                  "category": "cultural",
+                  "coords": [
+                        100.929955,
+                        13.287103
+                  ]
+            },
+            {
+                  "name": "Nong Nan Fresh Shrimp",
+                  "text": "Egy helyi piac, amely a régió hajóiról származó friss garnélarákokra és tenger gyümölcseire specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92359,
+                        13.331704
+                  ]
+            },
+            {
+                  "name": "Angsila Seafood Market",
+                  "text": "Egy jól ismert halpiac, ahol a nap friss fogásait közvetlenül a tengerparton lehet megvásárolni.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92421,
+                        13.338334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Canyon Chonburi",
+                  "text": "Acest punct de belvedere de pe coasta Khao Sammuk oferă o priveliște largă asupra formațiunilor stâncoase dramatice ale Marelui Canion Chonburi.",
+                  "category": "natural",
+                  "coords": [
+                        100.980656,
+                        13.321671
+                  ]
+            },
+            {
+                  "name": "Wat Saen Suk",
+                  "text": "Acest complex de temple budiste din apropierea coastei este renumit pentru grădina sa a iadului, care descrie în detaliu pedepsele lumii de dincolo.",
+                  "category": "religious",
+                  "coords": [
+                        100.9154,
+                        13.298748
+                  ]
+            },
+            {
+                  "name": "The Life Center (",
+                  "text": "O unitate creștină din zona de coastă care servește drept punct de întâlnire spirituală pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        100.929074,
+                        13.289534
+                  ]
+            },
+            {
+                  "name": "Sila Chruch",
+                  "text": "Această biserică creștină oferă comunității locale din apropierea coastei un loc pentru slujbe și întâlniri.",
+                  "category": "landmark",
+                  "coords": [
+                        100.926499,
+                        13.340502
+                  ]
+            },
+            {
+                  "name": "Khao Sam Muk Temple",
+                  "text": "Un templu budist pe dealul Khao Sam Muk, care oferă o vedere pitorească asupra coastei și golfului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.904713,
+                        13.310398
+                  ]
+            },
+            {
+                  "name": "San Cao Mae Sam Muk",
+                  "text": "Acest altar budist de pe coastă onorează spiritul protector local Mae Sam Muk, atrăgând mulți pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        100.903646,
+                        13.316534
+                  ]
+            },
+            {
+                  "name": "Wat Khao Wang Ta Ko",
+                  "text": "Un complex budist pașnic, amplasat în peisajul de coastă ușor deluros.",
+                  "category": "landmark",
+                  "coords": [
+                        100.997056,
+                        13.290296
+                  ]
+            },
+            {
+                  "name": "Guan Yin Rim Sea Lam Thaen",
+                  "text": "Un altar budist situat la malul mării la capul Lam Thaen, dedicat zeiței milei, Guanyin.",
+                  "category": "landmark",
+                  "coords": [
+                        100.897887,
+                        13.302826
+                  ]
+            },
+            {
+                  "name": "Jai Saman Church",
+                  "text": "O biserică creștină din zona de coastă Khao Sam Muk, oferind servicii spirituale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        100.944232,
+                        13.33993
+                  ]
+            },
+            {
+                  "name": "Lokut Tham Prateep Foundation",
+                  "text": "O fundație religioasă și un sit spiritual dedicat promovării practicilor de credință locale.",
+                  "category": "religious",
+                  "coords": [
+                        100.921709,
+                        13.327952
+                  ]
+            },
+            {
+                  "name": "San Chao Na Ja Sa Tai Chi",
+                  "text": "Acest complex de temple taoiste bogat ornamentat din Ang Sila este cunoscut pentru coloanele sale magnifice cu dragoni.",
+                  "category": "landmark",
+                  "coords": [
+                        100.923126,
+                        13.328832
+                  ]
+            },
+            {
+                  "name": "Wat Komut Ratthanaram",
+                  "text": "Un templu budist care servește locuitorilor din regiunea de coastă ca loc de meditație și ceremonii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        100.920801,
+                        13.332948
+                  ]
+            },
+            {
+                  "name": "Deprivation",
+                  "text": "Un sit religios în zona Khao Sam Muk, folosit pentru reculegere spirituală și slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        100.925103,
+                        13.328676
+                  ]
+            },
+            {
+                  "name": "Nong Mong Market",
+                  "text": "O piață aglomerată de pe coastă unde sunt comercializate produse locale proaspete și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        100.936286,
+                        13.279226
+                  ]
+            },
+            {
+                  "name": "Thana Market Center",
+                  "text": "Un centru comercial central pentru comunitățile din apropierea coastei Khao Sam Muk, oferind alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        100.970255,
+                        13.349436
+                  ]
+            },
+            {
+                  "name": "Chor Supermarket",
+                  "text": "O piață modernă cu o gamă largă de alimente pentru locuitorii regiunii de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        100.968453,
+                        13.338434
+                  ]
+            },
+            {
+                  "name": "Wang Muk Market",
+                  "text": "În această piață tradițională din golf, vizitatorii pot descoperi gustări regionale și ingrediente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        100.929955,
+                        13.287103
+                  ]
+            },
+            {
+                  "name": "Nong Nan Fresh Shrimp",
+                  "text": "O piață locală specializată în creveți proaspeți și alte fructe de mare de la bărcile din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92359,
+                        13.331704
+                  ]
+            },
+            {
+                  "name": "Angsila Seafood Market",
+                  "text": "O piață de pește binecunoscută unde capturile proaspete ale zilei pot fi cumpărate chiar pe malul mării.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92421,
+                        13.338334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Canyon Chonburi",
+                  "text": "This viewpoint on the Khao Sammuk coast offers sweeping views over the dramatic rock formations of the Grand Canyon Chonburi.",
+                  "category": "natural",
+                  "coords": [
+                        100.980656,
+                        13.321671
+                  ]
+            },
+            {
+                  "name": "Wat Saen Suk",
+                  "text": "This Buddhist temple complex near the coast is famous for its elaborate hell garden depicting the punishments of the underworld.",
+                  "category": "religious",
+                  "coords": [
+                        100.9154,
+                        13.298748
+                  ]
+            },
+            {
+                  "name": "The Life Center (",
+                  "text": "A Christian facility in the coastal area that serves as a spiritual gathering place for local believers.",
+                  "category": "landmark",
+                  "coords": [
+                        100.929074,
+                        13.289534
+                  ]
+            },
+            {
+                  "name": "Sila Chruch",
+                  "text": "This Christian church provides a place of worship and fellowship for the local community near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        100.926499,
+                        13.340502
+                  ]
+            },
+            {
+                  "name": "Khao Sam Muk Temple",
+                  "text": "A Buddhist temple on Khao Sam Muk hill that offers a picturesque view over the coastline and the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        100.904713,
+                        13.310398
+                  ]
+            },
+            {
+                  "name": "San Cao Mae Sam Muk",
+                  "text": "This coastal Buddhist shrine honors the local guardian spirit Mae Sam Muk and attracts many pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        100.903646,
+                        13.316534
+                  ]
+            },
+            {
+                  "name": "Wat Khao Wang Ta Ko",
+                  "text": "A peaceful Buddhist complex nestled into the slightly hilly coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        100.997056,
+                        13.290296
+                  ]
+            },
+            {
+                  "name": "Guan Yin Rim Sea Lam Thaen",
+                  "text": "A seaside Buddhist shrine at Lam Thaen cape dedicated to Guanyin, the goddess of mercy.",
+                  "category": "landmark",
+                  "coords": [
+                        100.897887,
+                        13.302826
+                  ]
+            },
+            {
+                  "name": "Jai Saman Church",
+                  "text": "A Christian church in the Khao Sam Muk coastal area offering spiritual services for the congregation.",
+                  "category": "religious",
+                  "coords": [
+                        100.944232,
+                        13.33993
+                  ]
+            },
+            {
+                  "name": "Lokut Tham Prateep Foundation",
+                  "text": "A religious foundation and spiritual site dedicated to promoting local faith practices.",
+                  "category": "religious",
+                  "coords": [
+                        100.921709,
+                        13.327952
+                  ]
+            },
+            {
+                  "name": "San Chao Na Ja Sa Tai Chi",
+                  "text": "This elaborately decorated Taoist temple complex in Ang Sila is known for its magnificent dragon columns.",
+                  "category": "landmark",
+                  "coords": [
+                        100.923126,
+                        13.328832
+                  ]
+            },
+            {
+                  "name": "Wat Komut Ratthanaram",
+                  "text": "A Buddhist temple serving the residents of the coastal region as a place of meditation and religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        100.920801,
+                        13.332948
+                  ]
+            },
+            {
+                  "name": "Deprivation",
+                  "text": "A religious site in the Khao Sam Muk area utilized for spiritual retreat and worship.",
+                  "category": "religious",
+                  "coords": [
+                        100.925103,
+                        13.328676
+                  ]
+            },
+            {
+                  "name": "Nong Mong Market",
+                  "text": "A bustling coastal marketplace trading in fresh local produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        100.936286,
+                        13.279226
+                  ]
+            },
+            {
+                  "name": "Thana Market Center",
+                  "text": "A central trading hub for communities near the Khao Sam Muk coast, offering food and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        100.970255,
+                        13.349436
+                  ]
+            },
+            {
+                  "name": "Chor Supermarket",
+                  "text": "A modern marketplace with a wide range of groceries for the residents of the coastal region.",
+                  "category": "cultural",
+                  "coords": [
+                        100.968453,
+                        13.338434
+                  ]
+            },
+            {
+                  "name": "Wang Muk Market",
+                  "text": "At this traditional market by the bay, visitors can discover regional snacks and fresh ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        100.929955,
+                        13.287103
+                  ]
+            },
+            {
+                  "name": "Nong Nan Fresh Shrimp",
+                  "text": "A local market specializing in freshly caught shrimp and other seafood from the region's boats.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92359,
+                        13.331704
+                  ]
+            },
+            {
+                  "name": "Angsila Seafood Market",
+                  "text": "A well-known fish market where the day's fresh catches can be bought right by the sea.",
+                  "category": "cultural",
+                  "coords": [
+                        100.92421,
+                        13.338334
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TH-20",
     coords: [100.91, 13.30],
@@ -793,7 +9226,124 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une colline côtière célèbre pour sa population de singes et ses légendes locales.", "Situé sur le territoire du Royaume de Thaïlande.", "Marqué par le climat de mousson du sud-est asiatique."],
     }, image: "/poi-images/khao-sammuk-coast-relief-v2.webp"},
   {
-    id: "dawna-range-relief-v2",
+    id: "dawna-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "၀မ္​းဖာဂိတ္​",
+                  "text": "Ein lokales Wahrzeichen und Tor in der Nähe der Dawna-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        98.534457,
+                        16.82901
+                  ]
+            },
+            {
+                  "name": "​ေရႊကုကၠိဳ",
+                  "text": "Eine Attraktion in der Grenzentwicklungsstadt Shwe Kokko in der Nähe der Dawna-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        98.53313,
+                        16.821957
+                  ]
+            },
+            {
+                  "name": "Phra That Doi Din Ki (Hin Kio)",
+                  "text": "Eine heilige Kultstätte in der Bergregion der Dawna-Kette.",
+                  "category": "religious",
+                  "coords": [
+                        98.492726,
+                        16.762943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "၀မ္​းဖာဂိတ္​",
+                  "text": "Helyi tájékozódási pont és kapu a Dawna-hegység közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        98.534457,
+                        16.82901
+                  ]
+            },
+            {
+                  "name": "​ေရႊကုကၠိဳ",
+                  "text": "Látványosság a Dawna-hegység közelében fekvő Shwe Kokko határmenti fejlesztési városban.",
+                  "category": "landmark",
+                  "coords": [
+                        98.53313,
+                        16.821957
+                  ]
+            },
+            {
+                  "name": "Phra That Doi Din Ki (Hin Kio)",
+                  "text": "Szent istentiszteleti hely a hegyvidéki Dawna-hegység régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        98.492726,
+                        16.762943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "၀မ္​းဖာဂိတ္​",
+                  "text": "Un reper local și o poartă de acces situată în apropierea lanțului muntos Dawna.",
+                  "category": "landmark",
+                  "coords": [
+                        98.534457,
+                        16.82901
+                  ]
+            },
+            {
+                  "name": "​ေရႊကုကၠိဳ",
+                  "text": "O atracție situată în orașul de graniță Shwe Kokko, în apropiere de Munții Dawna.",
+                  "category": "landmark",
+                  "coords": [
+                        98.53313,
+                        16.821957
+                  ]
+            },
+            {
+                  "name": "Phra That Doi Din Ki (Hin Kio)",
+                  "text": "Un lăcaș de cult sacru poziționat în regiunea muntoasă Dawna.",
+                  "category": "religious",
+                  "coords": [
+                        98.492726,
+                        16.762943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "၀မ္​းဖာဂိတ္​",
+                  "text": "A local landmark and gateway situated near the Dawna Range.",
+                  "category": "landmark",
+                  "coords": [
+                        98.534457,
+                        16.82901
+                  ]
+            },
+            {
+                  "name": "​ေရႊကုကၠိဳ",
+                  "text": "An attraction located in the border development town of Shwe Kokko near the Dawna Range.",
+                  "category": "landmark",
+                  "coords": [
+                        98.53313,
+                        16.821957
+                  ]
+            },
+            {
+                  "name": "Phra That Doi Din Ki (Hin Kio)",
+                  "text": "A sacred place of worship positioned in the mountainous Dawna Range region.",
+                  "category": "religious",
+                  "coords": [
+                        98.492726,
+                        16.762943
+                  ]
+            }
+      ]
+},
     type: "mountain-range",
     parent: "TH-63",
     coords: [98.5, 16.8],
@@ -840,7 +9390,1348 @@ export const poiExtraThailandReliefV2: POI[] = [
       fr: ["Une chaîne de montagnes importante formant une partie de la frontière internationale.", "Situé sur le territoire du Royaume de Thaïlande.", "Marqué par le climat de mousson du sud-est asiatique."],
     }, image: "/poi-images/dawna-range-relief-v2.webp"},
   {
-    id: "ping-river-valley-relief-v2",
+    id: "ping-river-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Pa Koi Mosque",
+                  "text": "Eine Moschee mit einem einzigartigen Minarett, das einen traditionellen nordthailändischen Gong enthält.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "Baan Haw Mosque",
+                  "text": "Chiang Mais größte Moschee, die über dem Eingang der Gebetshalle mit eleganter chinesischer Kalligrafie verziert ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.001501,
+                        18.786733
+                  ]
+            },
+            {
+                  "name": "Chedi Liam Temple",
+                  "text": "Dieser Tempel zeichnet sich durch seinen markanten fünfstufigen quadratischen Chedi im Mon-Stil aus.",
+                  "category": "religious",
+                  "coords": [
+                        98.995738,
+                        18.753755
+                  ]
+            },
+            {
+                  "name": "Wat Chedi Luang",
+                  "text": "Beherbergt einen gewaltigen, ruinierten Chedi, der einst das höchste Bauwerk im alten Chiang Mai war.",
+                  "category": "religious",
+                  "coords": [
+                        98.986737,
+                        18.786883
+                  ]
+            },
+            {
+                  "name": "Wat Lok Molee",
+                  "text": "Ein historischer Tempel mit einem großen, verwitterten Backstein-Chedi und einem schönen Teakholz-Viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.982583,
+                        18.796386
+                  ]
+            },
+            {
+                  "name": "Mengrai Bridge",
+                  "text": "Eine bedeutende Brücke über den Ping-Fluss, benannt nach dem Gründer des Lanna-Königreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        99.003426,
+                        18.766217
+                  ]
+            },
+            {
+                  "name": "Highland People Discovery Museum",
+                  "text": "Dieses Museum dokumentiert die vielfältige Geschichte, Trachten und Handwerke der Bergvölker Nordthailands.",
+                  "category": "museum",
+                  "coords": [
+                        98.974715,
+                        18.82144
+                  ]
+            },
+            {
+                  "name": "Chiang Mai National Museum",
+                  "text": "Zeigt eine umfassende Sammlung von Artefakten im Lanna-Stil und religiöser Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        98.976429,
+                        18.811602
+                  ]
+            },
+            {
+                  "name": "Chiang Mai City Art & Cultural Center",
+                  "text": "Dieses Zentrum befindet sich in einem ehemaligen königlichen Gebäude und zeigt die lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        98.986895,
+                        18.790229
+                  ]
+            },
+            {
+                  "name": "Wiang Kum Kam",
+                  "text": "Eine archäologische Stätte einer ehemaligen Hauptstadt mit teilweise restaurierten Tempelruinen aus Backstein.",
+                  "category": "historical",
+                  "coords": [
+                        98.999675,
+                        18.750256
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "Eine einzigartige russisch-orthodoxe Kirche mit traditionellen goldenen Zwiebeltürmen und blauen Wänden.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Yuen",
+                  "text": "Ein alter Tempel, der historisch für die Krönungszeremonien der Lanna-Könige genutzt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Wat Don Chan",
+                  "text": "Ein weitläufiger Tempelkomplex, der für seine Gemeindeschule und Sozialprogramme bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.032566,
+                        18.760199
+                  ]
+            },
+            {
+                  "name": "Chiangmai Samakkee Charity Foundation",
+                  "text": "Eine chinesisch-thailändische Wohltätigkeitsstiftung mit einem traditionellen, farbenfrohen Schrein.",
+                  "category": "religious",
+                  "coords": [
+                        99.00145,
+                        18.783456
+                  ]
+            },
+            {
+                  "name": "Wat Chaimongkol",
+                  "text": "Dieser am Ping-Fluss gelegene Tempel zeigt eine Mischung aus Lanna- und Mon-Baustilen.",
+                  "category": "religious",
+                  "coords": [
+                        99.004616,
+                        18.780667
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Eine katholische Kathedrale mit modernem Design und dezenten, von Lanna inspirierten Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        99.003141,
+                        18.77506
+                  ]
+            },
+            {
+                  "name": "Wat Si Bun Rueang",
+                  "text": "Dieser Tempel ist bekannt für seine kunstvollen Holzschnitzereien im birmanischen Stil in der Gebetshalle.",
+                  "category": "religious",
+                  "coords": [
+                        98.999571,
+                        18.75349
+                  ]
+            },
+            {
+                  "name": "Wat Hua Fai",
+                  "text": "Ein ruhiger lokaler Tempel mit traditionellen nordthailändischen Wandmalereien und einem goldverzierten Viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.993595,
+                        18.773551
+                  ]
+            },
+            {
+                  "name": "Wat Yang Kuang",
+                  "text": "Verfügt über einen restaurierten Stupa im Lanna-Stil und ein hochverehrtes antikes Buddha-Bild.",
+                  "category": "religious",
+                  "coords": [
+                        98.989072,
+                        18.775805
+                  ]
+            },
+            {
+                  "name": "Wat Sai Moon Myanmar",
+                  "text": "Ein farbenfroher Tempel im birmanischen Stil, der den Einfluss der lokalen Shan-Gemeinschaft widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        98.991215,
+                        18.782133
+                  ]
+            },
+            {
+                  "name": "Wat Saimoonmuang",
+                  "text": "Ein ruhiger Tempel am Wassergraben mit einem goldenen Chedi und einem traditionellen Holz-Viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.992436,
+                        18.782603
+                  ]
+            },
+            {
+                  "name": "Wat Muentoom",
+                  "text": "Bekannt für sein kunstvolles Eingangstor im Lanna-Stil und die schönen dekorativen Stuckarbeiten.",
+                  "category": "religious",
+                  "coords": [
+                        98.98913,
+                        18.784141
+                  ]
+            },
+            {
+                  "name": "Wat Chet Lin - Wat Jedlin",
+                  "text": "Dieser Tempel verfügt über einen großen Teich mit einer Bambusbrücke und einem riesigen Buddha-Kopf aus Stein.",
+                  "category": "religious",
+                  "coords": [
+                        98.987882,
+                        18.783807
+                  ]
+            },
+            {
+                  "name": "Wat Chang Taem",
+                  "text": "Ein eleganter Tempel mit einer schönen Buddha-Statue im Lanna-Stil mit goldener Krone.",
+                  "category": "religious",
+                  "coords": [
+                        98.988057,
+                        18.785228
+                  ]
+            },
+            {
+                  "name": "Wat Sri Suphan",
+                  "text": "Berühmt für seinen beeindruckenden Silbernen Schrein, der vollständig mit handgefertigten, geprägten Metallplatten bedeckt ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.983314,
+                        18.77868
+                  ]
+            },
+            {
+                  "name": "Wat Phuak Taem",
+                  "text": "Historisch ein Zentrum für die Herstellung von Messing-Mönchsschalen nach traditionellen Gussverfahren.",
+                  "category": "religious",
+                  "coords": [
+                        98.983073,
+                        18.782419
+                  ]
+            },
+            {
+                  "name": "Wat Suan Dok",
+                  "text": "Bekannt für sein riesiges Feld aus weiß getünchten Chedis, in denen die Überreste des Lanna-Adels ruhen.",
+                  "category": "religious",
+                  "coords": [
+                        98.967784,
+                        18.788155
+                  ]
+            },
+            {
+                  "name": "Thep Montien",
+                  "text": "Ein bedeutender Hindu-Tempel in Chiang Mai, der Vishnu und Lakshmi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.990498,
+                        18.799161
+                  ]
+            },
+            {
+                  "name": "Wat Ku Tao",
+                  "text": "Verfügt über einen einzigartigen Chedi, der als Stapel von fünf Kugeln gestaltet ist, die Almosenschalen darstellen.",
+                  "category": "religious",
+                  "coords": [
+                        98.988637,
+                        18.802583
+                  ]
+            },
+            {
+                  "name": "Wat Saen Mueang Ma Luang",
+                  "text": "Ein prächtiger Tempel mit reich verzierten Dächern im birmanischen Stil und vergoldeten Details.",
+                  "category": "religious",
+                  "coords": [
+                        98.986348,
+                        18.794001
+                  ]
+            },
+            {
+                  "name": "Wat Mo Kham Tuang",
+                  "text": "Ein ruhiger Tempelkomplex mit traditioneller Lanna-Architektur und detaillierten floralen Motiven.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795017
+                  ]
+            },
+            {
+                  "name": "Wat Khuan Kama",
+                  "text": "Unverkennbar durch die Dutzenden von goldenen Pferdestatuen, die die äußere Tempelmauer säumen.",
+                  "category": "religious",
+                  "coords": [
+                        98.983724,
+                        18.795182
+                  ]
+            },
+            {
+                  "name": "Wat Pa Phrao Nai",
+                  "text": "Ein klassischer Nachbarschaftstempel mit einem fein geschnitzten Holzeingang zum Viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.980602,
+                        18.793294
+                  ]
+            },
+            {
+                  "name": "Wat Pha Bong",
+                  "text": "Dieser Tempel ist bekannt für seine ruhige Atmosphäre und die schönen Wandmalereien mit buddhistischen Geschichten.",
+                  "category": "religious",
+                  "coords": [
+                        98.982058,
+                        18.789755
+                  ]
+            },
+            {
+                  "name": "Wat Prasat",
+                  "text": "Ein seltenes Beispiel für Lanna-Architektur, bei dem der Viharn direkt mit dem Chedi verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.980999,
+                        18.789794
+                  ]
+            },
+            {
+                  "name": "Wat Phra Singh",
+                  "text": "Einer der wichtigsten Tempel von Chiang Mai, der das hochverehrte Phra Singh Buddha-Bild beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        98.981406,
+                        18.788589
+                  ]
+            },
+            {
+                  "name": "Massage für 120B",
+                  "text": "Bekannt für sein großes, friedvolles Buddha-Bild und die historische Gebetshalle im Lanna-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        98.983867,
+                        18.788122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Pa Koi Mosque",
+                  "text": "Egy mecset, amelynek egyedülálló minaretjébe egy hagyományos észak-thaiföldi gongot építettek be.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "Baan Haw Mosque",
+                  "text": "Chiang Mai legnagyobb mecsetje, amelynek imaházi bejárata felett elegáns kínai kalligráfia látható.",
+                  "category": "religious",
+                  "coords": [
+                        99.001501,
+                        18.786733
+                  ]
+            },
+            {
+                  "name": "Chedi Liam Temple",
+                  "text": "Ez a templom jellegzetes, ötszintes, négyzet alapú, mon stílusú csedijéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.995738,
+                        18.753755
+                  ]
+            },
+            {
+                  "name": "Wat Chedi Luang",
+                  "text": "Egy hatalmas, romos csedi otthona, amely egykor az ősi Csiangmaj legmagasabb építménye volt.",
+                  "category": "religious",
+                  "coords": [
+                        98.986737,
+                        18.786883
+                  ]
+            },
+            {
+                  "name": "Wat Lok Molee",
+                  "text": "Történelmi templom nagy, mállott tégla csedivel és egy gyönyörű teakfa viharnnal.",
+                  "category": "religious",
+                  "coords": [
+                        98.982583,
+                        18.796386
+                  ]
+            },
+            {
+                  "name": "Mengrai Bridge",
+                  "text": "A Ping-folyón átívelő jelentős híd, amelyet a Lanna Királyság alapítójáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        99.003426,
+                        18.766217
+                  ]
+            },
+            {
+                  "name": "Highland People Discovery Museum",
+                  "text": "Ez a múzeum Észak-Thaiföld hegyi törzseinek változatos történelmét, viseleteit és mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.974715,
+                        18.82144
+                  ]
+            },
+            {
+                  "name": "Chiang Mai National Museum",
+                  "text": "Lanna stílusú műtárgyak és vallási művészeti alkotások átfogó gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.976429,
+                        18.811602
+                  ]
+            },
+            {
+                  "name": "Chiang Mai City Art & Cultural Center",
+                  "text": "Egy egykori királyi épületben található központ a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.986895,
+                        18.790229
+                  ]
+            },
+            {
+                  "name": "Wiang Kum Kam",
+                  "text": "Egy korábbi főváros régészeti lelőhelye, részben restaurált tégla templomromokkal.",
+                  "category": "historical",
+                  "coords": [
+                        98.999675,
+                        18.750256
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "Egyedülálló ortodox templom hagyományos arany hagymakupolákkal és kék falakkal.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Yuen",
+                  "text": "Ősi templom, amelyet történelmileg a Lanna-királyok koronázási szertartásaihoz használtak.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Wat Don Chan",
+                  "text": "Kiterjedt templomkomplexum, amely közösségi iskolájáról és szociális programjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        99.032566,
+                        18.760199
+                  ]
+            },
+            {
+                  "name": "Chiangmai Samakkee Charity Foundation",
+                  "text": "Kínai-thai jótékonysági alapítvány, amely egy hagyományos, színes szentélynek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        99.00145,
+                        18.783456
+                  ]
+            },
+            {
+                  "name": "Wat Chaimongkol",
+                  "text": "A Ping-folyó partján fekvő templom a lanna és a mon építészeti stílusok keverékét mutatja.",
+                  "category": "religious",
+                  "coords": [
+                        99.004616,
+                        18.780667
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Katolikus székesegyház, amely modern dizájnnal és finom Lanna-ihletésű elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        99.003141,
+                        18.77506
+                  ]
+            },
+            {
+                  "name": "Wat Si Bun Rueang",
+                  "text": "Ez a templom az imacsarnok bonyolult, burmai stílusú fafaragásairól nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        98.999571,
+                        18.75349
+                  ]
+            },
+            {
+                  "name": "Wat Hua Fai",
+                  "text": "Csendes helyi templom hagyományos észak-thai falfestményekkel és aranyozott viharnnal.",
+                  "category": "religious",
+                  "coords": [
+                        98.993595,
+                        18.773551
+                  ]
+            },
+            {
+                  "name": "Wat Yang Kuang",
+                  "text": "Restaurált Lanna-stílusú sztúpa és egy nagy tiszteletben álló ősi Buddha-szobor jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        98.989072,
+                        18.775805
+                  ]
+            },
+            {
+                  "name": "Wat Sai Moon Myanmar",
+                  "text": "Színes, burmai stílusú templom, amely a helyi san közösség befolyását tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        98.991215,
+                        18.782133
+                  ]
+            },
+            {
+                  "name": "Wat Saimoonmuang",
+                  "text": "Csendes templom a városárok közelében, arany csedivel és hagyományos fa viharnnal.",
+                  "category": "religious",
+                  "coords": [
+                        98.992436,
+                        18.782603
+                  ]
+            },
+            {
+                  "name": "Wat Muentoom",
+                  "text": "Kidolgozott Lanna-stílusú bejárati kapujáról és gyönyörű dekoratív stukkómunkáiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.98913,
+                        18.784141
+                  ]
+            },
+            {
+                  "name": "Wat Chet Lin - Wat Jedlin",
+                  "text": "Ebben a templomban egy nagy tó található bambuszhíddal és egy hatalmas kő Buddha-fejjel.",
+                  "category": "religious",
+                  "coords": [
+                        98.987882,
+                        18.783807
+                  ]
+            },
+            {
+                  "name": "Wat Chang Taem",
+                  "text": "Elegáns templom, amely egy gyönyörű, aranykoronás, Lanna-stílusú Buddha-szobrot őriz.",
+                  "category": "religious",
+                  "coords": [
+                        98.988057,
+                        18.785228
+                  ]
+            },
+            {
+                  "name": "Wat Sri Suphan",
+                  "text": "Híres lenyűgöző Ezüst Szentélyéről, amelyet teljes egészében kézzel készített, dombornyomott fémlapok borítanak.",
+                  "category": "religious",
+                  "coords": [
+                        98.983314,
+                        18.77868
+                  ]
+            },
+            {
+                  "name": "Wat Phuak Taem",
+                  "text": "Történelmileg a sárgaréz szerzetesi tálak hagyományos öntési módszerekkel történő előállításának központja.",
+                  "category": "religious",
+                  "coords": [
+                        98.983073,
+                        18.782419
+                  ]
+            },
+            {
+                  "name": "Wat Suan Dok Monk Chat",
+                  "text": "Híres a fehérre meszelt csedik hatalmas mezőjéről, amelyek a lanna királyi család maradványait őrizik.",
+                  "category": "religious",
+                  "coords": [
+                        98.967784,
+                        18.788155
+                  ]
+            },
+            {
+                  "name": "Thep Montien",
+                  "text": "Csiangmaj jelentős hindu temploma, amelyet Visnunak és Laksminak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        98.990498,
+                        18.799161
+                  ]
+            },
+            {
+                  "name": "Wat Ku Tao",
+                  "text": "Egyedülálló csedije öt egymásra rakott gömbből áll, amelyek alamizsnagyűjtő tálakat jelképeznek.",
+                  "category": "religious",
+                  "coords": [
+                        98.988637,
+                        18.802583
+                  ]
+            },
+            {
+                  "name": "Wat Saen Mueang Ma Luang",
+                  "text": "Impozáns templom gazdagon díszített, burmai stílusú tetőkkel és aranyozott részletekkel.",
+                  "category": "religious",
+                  "coords": [
+                        98.986348,
+                        18.794001
+                  ]
+            },
+            {
+                  "name": "Wat Mo Kham Tuang",
+                  "text": "Csendes templomkomplexum hagyományos Lanna építészettel és részletes virágmotívumokkal.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795017
+                  ]
+            },
+            {
+                  "name": "Wat Khuan Kama",
+                  "text": "Jellegzetessége a külső templomfalat szegélyező több tucat arany lószobor.",
+                  "category": "religious",
+                  "coords": [
+                        98.983724,
+                        18.795182
+                  ]
+            },
+            {
+                  "name": "Wat Pa Phrao Nai",
+                  "text": "Klasszikus szomszédsági templom, finoman faragott fa viharn-bejárattal.",
+                  "category": "religious",
+                  "coords": [
+                        98.980602,
+                        18.793294
+                  ]
+            },
+            {
+                  "name": "Wat Pha Bong",
+                  "text": "Ez a templom nyugodt légköréről és buddhista történeteket ábrázoló szép falfestményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.982058,
+                        18.789755
+                  ]
+            },
+            {
+                  "name": "Wat Prasat",
+                  "text": "A Lanna építészet ritka példája, ahol a viharn közvetlenül kapcsolódik a csedihez.",
+                  "category": "religious",
+                  "coords": [
+                        98.980999,
+                        18.789794
+                  ]
+            },
+            {
+                  "name": "Wat Phra Singh",
+                  "text": "Csiangmaj egyik legfontosabb temploma, amely a nagy tiszteletben álló Phra Singh Buddha-szobrot őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        98.981406,
+                        18.788589
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "Híres nagy, békés Buddha-szobráról és történelmi, Lanna-stílusú imacsarnokáról.",
+                  "category": "religious",
+                  "coords": [
+                        98.983867,
+                        18.788122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Pa Koi Mosque",
+                  "text": "O moschee cu un minaret unic care încorporează un gong tradițional din nordul Thailandei.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "Baan Haw Mosque",
+                  "text": "Cea mai mare moschee din Chiang Mai, prezentând o caligrafie chineză elegantă inscripționată deasupra intrării în sala de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        99.001501,
+                        18.786733
+                  ]
+            },
+            {
+                  "name": "Chedi Liam Temple",
+                  "text": "Acest templu are un chedi pătrat distinct cu cinci niveluri, în stil Mon.",
+                  "category": "religious",
+                  "coords": [
+                        98.995738,
+                        18.753755
+                  ]
+            },
+            {
+                  "name": "Wat Chedi Luang",
+                  "text": "Adăpostește un chedi masiv în ruins, care a fost odată cea mai înaltă structură din vechiul Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.986737,
+                        18.786883
+                  ]
+            },
+            {
+                  "name": "Wat Lok Molee",
+                  "text": "Un templu istoric cu un chedi mare din cărămidă și un viharn frumos din lemn de tec.",
+                  "category": "religious",
+                  "coords": [
+                        98.982583,
+                        18.796386
+                  ]
+            },
+            {
+                  "name": "Mengrai Bridge",
+                  "text": "Un pod semnificativ peste râul Ping, numit după fondatorul Regatului Lanna.",
+                  "category": "landmark",
+                  "coords": [
+                        99.003426,
+                        18.766217
+                  ]
+            },
+            {
+                  "name": "Highland People Discovery Museum",
+                  "text": "Acest muzeu documentează istoria diversă, costumele și meșteșugurile triburilor de munte din nordul Thailandei.",
+                  "category": "museum",
+                  "coords": [
+                        98.974715,
+                        18.82144
+                  ]
+            },
+            {
+                  "name": "Chiang Mai National Museum",
+                  "text": "Expune o colecție cuprinzătoare de artefacte în stil Lanna și artă religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        98.976429,
+                        18.811602
+                  ]
+            },
+            {
+                  "name": "Chiang Mai City Art & Cultural Center",
+                  "text": "Situat într-o fostă clădire regală, acest centru prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        98.986895,
+                        18.790229
+                  ]
+            },
+            {
+                  "name": "Wiang Kum Kam",
+                  "text": "Un sit arheologic al unei foste capitale, cu ruine de temple din cărămidă parțial restaurate.",
+                  "category": "historical",
+                  "coords": [
+                        98.999675,
+                        18.750256
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "O biserică ortodoxă unică, cu cupole aurii tradiționale în formă de ceapă și pereți albaștri.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Yuen",
+                  "text": "Un templu antic folosit istoric pentru ceremoniile de încoronare a regilor Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Wat Don Chan",
+                  "text": "Un complex de temple întins, cunoscut pentru școala comunitară și programele de asistență socială.",
+                  "category": "religious",
+                  "coords": [
+                        99.032566,
+                        18.760199
+                  ]
+            },
+            {
+                  "name": "Chiangmai Samakkee Charity Foundation",
+                  "text": "O fundație de caritate chinezo-thailandeză, cu un altar tradițional colorat.",
+                  "category": "religious",
+                  "coords": [
+                        99.00145,
+                        18.783456
+                  ]
+            },
+            {
+                  "name": "Wat Chaimongkol",
+                  "text": "Situat pe râul Ping, acest templu prezintă un amestec de stiluri arhitecturale Lanna și Mon.",
+                  "category": "religious",
+                  "coords": [
+                        99.004616,
+                        18.780667
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "O catedrală catolică cu un design modern și elemente artistice subtile de inspirație Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        99.003141,
+                        18.77506
+                  ]
+            },
+            {
+                  "name": "Wat Si Bun Rueang",
+                  "text": "Acest templu este remarcabil pentru sculpturile sale complicate în lemn, în stil birmanez, din sala de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        98.999571,
+                        18.75349
+                  ]
+            },
+            {
+                  "name": "Wat Hua Fai",
+                  "text": "Un templu local liniștit, cu picturi murale tradiționale din nordul Thailandei și un viharn decorat cu aur.",
+                  "category": "religious",
+                  "coords": [
+                        98.993595,
+                        18.773551
+                  ]
+            },
+            {
+                  "name": "Wat Yang Kuang",
+                  "text": "Are un stupa restaurat în stil Lanna și o imagine antică a lui Buddha foarte venerată.",
+                  "category": "religious",
+                  "coords": [
+                        98.989072,
+                        18.775805
+                  ]
+            },
+            {
+                  "name": "Wat Sai Moon Myanmar",
+                  "text": "Un templu colorat în stil birmanez, care reflectă influența comunității locale Shan.",
+                  "category": "religious",
+                  "coords": [
+                        98.991215,
+                        18.782133
+                  ]
+            },
+            {
+                  "name": "Wat Saimoonmuang",
+                  "text": "Un templu senin lângă șanțul orașului, cu un chedi auriu și un viharn tradițional din lemn.",
+                  "category": "religious",
+                  "coords": [
+                        98.992436,
+                        18.782603
+                  ]
+            },
+            {
+                  "name": "Wat Muentoom",
+                  "text": "Cunoscut pentru poarta de intrare elaborată în stil Lanna și pentru frumoasele lucrări decorative în stuc.",
+                  "category": "religious",
+                  "coords": [
+                        98.98913,
+                        18.784141
+                  ]
+            },
+            {
+                  "name": "Wat Chet Lin - Wat Jedlin",
+                  "text": "Acest templu are un iaz mare cu un pod de bambus și un cap masiv de Buddha din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        98.987882,
+                        18.783807
+                  ]
+            },
+            {
+                  "name": "Wat Chang Taem",
+                  "text": "Un templu elegant care adăpostește o frumoasă imagine a lui Buddha în stil Lanna, cu o coroană de aur.",
+                  "category": "religious",
+                  "coords": [
+                        98.988057,
+                        18.785228
+                  ]
+            },
+            {
+                  "name": "Wat Sri Suphan",
+                  "text": "Celebru pentru Altarul său de Argint uimitor, acoperit în întregime cu plăci de metal embosate manual.",
+                  "category": "religious",
+                  "coords": [
+                        98.983314,
+                        18.77868
+                  ]
+            },
+            {
+                  "name": "Wat Phuak Taem",
+                  "text": "Istoric, un centru pentru producția de boluri de alamă pentru călugări, folosind metode tradiționale de turnare.",
+                  "category": "religious",
+                  "coords": [
+                        98.983073,
+                        18.782419
+                  ]
+            },
+            {
+                  "name": "Wat Suan Dok Monk Chat",
+                  "text": "Remarcabil pentru câmpul său vast de chedi-uri văruite în alb, care conțin rămășițele membrilor familiei regale Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        98.967784,
+                        18.788155
+                  ]
+            },
+            {
+                  "name": "Thep Montien",
+                  "text": "Un templu hindu proeminent din Chiang Mai, dedicat lui Vishnu și Lakshmi.",
+                  "category": "religious",
+                  "coords": [
+                        98.990498,
+                        18.799161
+                  ]
+            },
+            {
+                  "name": "Wat Ku Tao",
+                  "text": "Are un chedi unic proiectat ca o stivă de cinci sfere care reprezintă boluri de pomană.",
+                  "category": "religious",
+                  "coords": [
+                        98.988637,
+                        18.802583
+                  ]
+            },
+            {
+                  "name": "Wat Saen Mueang Ma Luang",
+                  "text": "Un templu grandios cu acoperișuri în stil birmanez puternic ornamentate și detalii aurite.",
+                  "category": "religious",
+                  "coords": [
+                        98.986348,
+                        18.794001
+                  ]
+            },
+            {
+                  "name": "Wat Mo Kham Tuang",
+                  "text": "Un complex de temple liniștit cu arhitectură tradițională Lanna și motive florale detaliate.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795017
+                  ]
+            },
+            {
+                  "name": "Wat Khuan Kama",
+                  "text": "Distinctiv prin zecile de statui de cai aurii care căptușesc peretele exterior al templului.",
+                  "category": "religious",
+                  "coords": [
+                        98.983724,
+                        18.795182
+                  ]
+            },
+            {
+                  "name": "Wat Pa Phrao Nai",
+                  "text": "Un templu clasic de cartier, cu o intrare în viharn din lemn sculptat fin.",
+                  "category": "religious",
+                  "coords": [
+                        98.980602,
+                        18.793294
+                  ]
+            },
+            {
+                  "name": "Wat Pha Bong",
+                  "text": "Acest templu este cunoscut pentru atmosfera sa liniștită și picturile murale frumoase care înfățișează povești budiste.",
+                  "category": "religious",
+                  "coords": [
+                        98.982058,
+                        18.789755
+                  ]
+            },
+            {
+                  "name": "Wat Prasat",
+                  "text": "Un exemplu rar de arhitectură Lanna în care viharn-ul este conectat direct la chedi.",
+                  "category": "religious",
+                  "coords": [
+                        98.980999,
+                        18.789794
+                  ]
+            },
+            {
+                  "name": "Wat Phra Singh",
+                  "text": "Unul dintre cele mai importante temple din Chiang Mai, care adăpostește imaginea extrem de venerată a lui Phra Singh Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        98.981406,
+                        18.788589
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "Remarcabil pentru imaginea sa mare și senină a lui Buddha și pentru sala de rugăciune istorică în stil Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        98.983867,
+                        18.788122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Pa Koi Mosque",
+                  "text": "A mosque featuring a unique minaret that incorporates a traditional Northern Thai gong.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "Baan Haw Mosque",
+                  "text": "Chiang Mai's largest mosque, featuring elegant Chinese calligraphy inscribed above the prayer hall entrance.",
+                  "category": "religious",
+                  "coords": [
+                        99.001501,
+                        18.786733
+                  ]
+            },
+            {
+                  "name": "Chedi Liam Temple",
+                  "text": "This temple features a distinct five-tiered square chedi in the Mon style.",
+                  "category": "religious",
+                  "coords": [
+                        98.995738,
+                        18.753755
+                  ]
+            },
+            {
+                  "name": "Wat Chedi Luang",
+                  "text": "Home to a massive ruined chedi that was once the tallest structure in ancient Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.986737,
+                        18.786883
+                  ]
+            },
+            {
+                  "name": "Wat Lok Molee",
+                  "text": "A historic temple featuring a large, weathered brick chedi and a beautiful teak viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.982583,
+                        18.796386
+                  ]
+            },
+            {
+                  "name": "Mengrai Bridge",
+                  "text": "A significant bridge spanning the Ping River, named after the founder of the Lanna Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.003426,
+                        18.766217
+                  ]
+            },
+            {
+                  "name": "Highland People Discovery Museum",
+                  "text": "This museum documents the diverse history, costumes, and crafts of Northern Thailand's hill tribes.",
+                  "category": "museum",
+                  "coords": [
+                        98.974715,
+                        18.82144
+                  ]
+            },
+            {
+                  "name": "Chiang Mai National Museum",
+                  "text": "Displays a comprehensive collection of Lanna-style artifacts and religious art.",
+                  "category": "museum",
+                  "coords": [
+                        98.976429,
+                        18.811602
+                  ]
+            },
+            {
+                  "name": "Chiang Mai City Art & Cultural Center",
+                  "text": "Located in a former royal building, this center showcases the local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        98.986895,
+                        18.790229
+                  ]
+            },
+            {
+                  "name": "Wiang Kum Kam",
+                  "text": "An archaeological site of a former capital, featuring partially restored brick temple ruins.",
+                  "category": "historical",
+                  "coords": [
+                        98.999675,
+                        18.750256
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "A unique Eastern Orthodox church featuring traditional golden onion domes and blue walls.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Yuen",
+                  "text": "An ancient temple historically used for the coronation ceremonies of Lanna kings.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Wat Don Chan",
+                  "text": "A sprawling temple complex known for its community school and social welfare programs.",
+                  "category": "religious",
+                  "coords": [
+                        99.032566,
+                        18.760199
+                  ]
+            },
+            {
+                  "name": "Chiangmai Samakkee Charity Foundation",
+                  "text": "A Chinese-Thai charitable foundation featuring a traditional colorful shrine.",
+                  "category": "religious",
+                  "coords": [
+                        99.00145,
+                        18.783456
+                  ]
+            },
+            {
+                  "name": "Wat Chaimongkol",
+                  "text": "Situated on the Ping River, this temple displays a mix of Lanna and Mon architectural styles.",
+                  "category": "religious",
+                  "coords": [
+                        99.004616,
+                        18.780667
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Catholic cathedral featuring a modern design with subtle Lanna-inspired artistic elements.",
+                  "category": "religious",
+                  "coords": [
+                        99.003141,
+                        18.77506
+                  ]
+            },
+            {
+                  "name": "Wat Si Bun Rueang",
+                  "text": "This temple is notable for its intricate Burmese-style wood carvings on the prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        98.999571,
+                        18.75349
+                  ]
+            },
+            {
+                  "name": "Wat Hua Fai",
+                  "text": "A quiet local temple featuring traditional northern Thai murals and a gold-trimmed viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.993595,
+                        18.773551
+                  ]
+            },
+            {
+                  "name": "Wat Yang Kuang",
+                  "text": "Features a restored Lanna-style stupa and a highly revered ancient Buddha image.",
+                  "category": "religious",
+                  "coords": [
+                        98.989072,
+                        18.775805
+                  ]
+            },
+            {
+                  "name": "Wat Sai Moon Myanmar",
+                  "text": "A colorful Burmese-style temple reflecting the influence of the local Shan community.",
+                  "category": "religious",
+                  "coords": [
+                        98.991215,
+                        18.782133
+                  ]
+            },
+            {
+                  "name": "Wat Saimoonmuang",
+                  "text": "A serene temple near the city moat, featuring a golden chedi and a traditional wooden viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.992436,
+                        18.782603
+                  ]
+            },
+            {
+                  "name": "Wat Muentoom",
+                  "text": "Known for its elaborate Lanna-style entrance gate and beautiful decorative stucco work.",
+                  "category": "religious",
+                  "coords": [
+                        98.98913,
+                        18.784141
+                  ]
+            },
+            {
+                  "name": "Wat Chet Lin - Wat Jedlin",
+                  "text": "This temple features a large pond with a bamboo bridge and a massive stone Buddha head.",
+                  "category": "religious",
+                  "coords": [
+                        98.987882,
+                        18.783807
+                  ]
+            },
+            {
+                  "name": "Wat Chang Taem",
+                  "text": "An elegant temple housing a beautiful Lanna-style Buddha image with a golden crown.",
+                  "category": "religious",
+                  "coords": [
+                        98.988057,
+                        18.785228
+                  ]
+            },
+            {
+                  "name": "Wat Sri Suphan",
+                  "text": "Famous for its striking Silver Shrine, entirely covered in hand-crafted embossed metal plates.",
+                  "category": "religious",
+                  "coords": [
+                        98.983314,
+                        18.77868
+                  ]
+            },
+            {
+                  "name": "Wat Phuak Taem",
+                  "text": "Historically a center for the production of brass monk bowls using traditional casting methods.",
+                  "category": "religious",
+                  "coords": [
+                        98.983073,
+                        18.782419
+                  ]
+            },
+            {
+                  "name": "Wat Suan Dok Monk Chat",
+                  "text": "Notable for its vast field of white-washed chedis containing the remains of Lanna royalty.",
+                  "category": "religious",
+                  "coords": [
+                        98.967784,
+                        18.788155
+                  ]
+            },
+            {
+                  "name": "Thep Montien",
+                  "text": "A prominent Hindu temple in Chiang Mai dedicated to Vishnu and Lakshmi.",
+                  "category": "religious",
+                  "coords": [
+                        98.990498,
+                        18.799161
+                  ]
+            },
+            {
+                  "name": "Wat Ku Tao",
+                  "text": "Features a unique chedi designed as a stack of five spheres representing alms bowls.",
+                  "category": "religious",
+                  "coords": [
+                        98.988637,
+                        18.802583
+                  ]
+            },
+            {
+                  "name": "Wat Saen Mueang Ma Luang",
+                  "text": "A grand temple with heavily ornamented Burmese-style roofs and gilded details.",
+                  "category": "religious",
+                  "coords": [
+                        98.986348,
+                        18.794001
+                  ]
+            },
+            {
+                  "name": "Wat Mo Kham Tuang",
+                  "text": "A quiet temple complex with traditional Lanna architecture and detailed floral motifs.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795017
+                  ]
+            },
+            {
+                  "name": "Wat Khuan Kama",
+                  "text": "Distinctive for the dozens of golden horse statues lining its outer temple wall.",
+                  "category": "religious",
+                  "coords": [
+                        98.983724,
+                        18.795182
+                  ]
+            },
+            {
+                  "name": "Wat Pa Phrao Nai",
+                  "text": "A classic neighborhood temple featuring a finely carved wooden viharn entrance.",
+                  "category": "religious",
+                  "coords": [
+                        98.980602,
+                        18.793294
+                  ]
+            },
+            {
+                  "name": "Wat Pha Bong",
+                  "text": "This temple is known for its serene atmosphere and beautiful murals depicting Buddhist stories.",
+                  "category": "religious",
+                  "coords": [
+                        98.982058,
+                        18.789755
+                  ]
+            },
+            {
+                  "name": "Wat Prasat",
+                  "text": "A rare example of Lanna architecture where the viharn is directly connected to the chedi.",
+                  "category": "religious",
+                  "coords": [
+                        98.980999,
+                        18.789794
+                  ]
+            },
+            {
+                  "name": "Wat Phra Singh",
+                  "text": "One of Chiang Mai's most important temples, housing the highly revered Phra Singh Buddha image.",
+                  "category": "religious",
+                  "coords": [
+                        98.981406,
+                        18.788589
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "Notable for its large, serene Buddha image and historic Lanna-style prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        98.983867,
+                        18.788122
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TH-50",
     coords: [99.0, 18.78],

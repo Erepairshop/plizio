@@ -7,7 +7,7 @@ export const ukLifeV2: POI[] = [
       "de": [
             {
                   "name": "The Hollows",
-                  "text": "The Hollows ist ein Uferbereich bei den Kew Gardens.",
+                  "text": "The Hollows ist ein versunkener Garten mit einem Teich und Rhododendren in den Kew Gardens.",
                   "category": "recreational",
                   "coords": [
                         -0.292826,
@@ -16,7 +16,7 @@ export const ukLifeV2: POI[] = [
             },
             {
                   "name": "Hog Hole",
-                  "text": "Hog Hole ist ein Uferbereich bei den Kew Gardens.",
+                  "text": "Hog Hole ist eine tiefe Senke mit einem Teich, ein ehemaliger Kiesabbau, jetzt ein Wildtierbereich in Kew.",
                   "category": "recreational",
                   "coords": [
                         -0.294668,
@@ -27,7 +27,7 @@ export const ukLifeV2: POI[] = [
       "hu": [
             {
                   "name": "The Hollows",
-                  "text": "A The Hollows egy vízparti terület a Kew Gardens közelében.",
+                  "text": "A The Hollows egy süllyesztett kert tóval és rododendronokkal a Kew Gardensben.",
                   "category": "recreational",
                   "coords": [
                         -0.292826,
@@ -36,7 +36,7 @@ export const ukLifeV2: POI[] = [
             },
             {
                   "name": "Hog Hole",
-                  "text": "A Hog Hole egy vízparti terület a Kew Gardens közelében.",
+                  "text": "A Hog Hole egy mély mélyedés tóval, egykori kavicsbánya, ma vadvilági terület Kew-ben.",
                   "category": "recreational",
                   "coords": [
                         -0.294668,
@@ -47,7 +47,7 @@ export const ukLifeV2: POI[] = [
       "ro": [
             {
                   "name": "The Hollows",
-                  "text": "The Hollows este o zonă riverană lângă Kew Gardens.",
+                  "text": "The Hollows este o grădină coborâtă cu un iaz și rododendroni în Grădinile Kew.",
                   "category": "recreational",
                   "coords": [
                         -0.292826,
@@ -56,7 +56,7 @@ export const ukLifeV2: POI[] = [
             },
             {
                   "name": "Hog Hole",
-                  "text": "Hog Hole este o zonă riverană lângă Kew Gardens.",
+                  "text": "Hog Hole este o adâncitură cu un iaz, fostă carieră de pietriș, acum zonă de viață sălbatică în Kew.",
                   "category": "recreational",
                   "coords": [
                         -0.294668,
@@ -67,7 +67,7 @@ export const ukLifeV2: POI[] = [
       "en": [
             {
                   "name": "The Hollows",
-                  "text": "The Hollows is a waterfront area near Kew Gardens.",
+                  "text": "The Hollows is a sunken garden with a pond and rhododendrons in Kew Gardens.",
                   "category": "recreational",
                   "coords": [
                         -0.292826,
@@ -76,7 +76,7 @@ export const ukLifeV2: POI[] = [
             },
             {
                   "name": "Hog Hole",
-                  "text": "Hog Hole is a waterfront area near Kew Gardens.",
+                  "text": "Hog Hole is a deep hollow with a pond, once a gravel pit, now a wildlife area in Kew.",
                   "category": "recreational",
                   "coords": [
                         -0.294668,
@@ -1121,7 +1121,7 @@ imageHint: "Slimbridge Wetland Centre with flamingos",
       "de": [
             {
                   "name": "Crinnis Beach",
-                  "text": "Crinnis Beach befindet sich nahe dem Eden Project.",
+                  "text": "Crinnis Beach ist ein Sandstrand mit Klippen und türkisfarbenem Wasser, nahe dem Eden Project.",
                   "category": "recreational",
                   "coords": [
                         -4.731422,
@@ -1132,7 +1132,7 @@ imageHint: "Slimbridge Wetland Centre with flamingos",
       "hu": [
             {
                   "name": "Crinnis Beach",
-                  "text": "A Crinnis Beach az Eden Project közelében található.",
+                  "text": "A Crinnis Beach egy homokos strand sziklákkal és türkizkék vízzel, az Eden Project közelében.",
                   "category": "recreational",
                   "coords": [
                         -4.731422,
@@ -1143,7 +1143,7 @@ imageHint: "Slimbridge Wetland Centre with flamingos",
       "ro": [
             {
                   "name": "Crinnis Beach",
-                  "text": "Crinnis Beach se află în apropierea Eden Project.",
+                  "text": "Crinnis Beach este o plajă cu nisip, cu stânci și apă turcoaz, lângă Eden Project.",
                   "category": "recreational",
                   "coords": [
                         -4.731422,
@@ -1154,7 +1154,7 @@ imageHint: "Slimbridge Wetland Centre with flamingos",
       "en": [
             {
                   "name": "Crinnis Beach",
-                  "text": "Crinnis Beach is located near the Eden Project.",
+                  "text": "Crinnis Beach is a sandy beach with cliffs and turquoise water, near the Eden Project.",
                   "category": "recreational",
                   "coords": [
                         -4.731422,
@@ -1212,7 +1212,7 @@ imageHint: "Eden Project geodesic biomes at dusk",
       "de": [
             {
                   "name": "Brockenhurst Beach",
-                  "text": "Brockenhurst Beach liegt in der Nähe des New Forest.",
+                  "text": "Der Brockenhurst Beach ist ein Süßwasserstrand an einem See im New Forest, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -1.570858,
@@ -1223,7 +1223,7 @@ imageHint: "Eden Project geodesic biomes at dusk",
       "hu": [
             {
                   "name": "Brockenhurst Beach",
-                  "text": "Brockenhurst strand New Forest közelében.",
+                  "text": "A Brockenhurst Beach egy édesvízi strand egy tó mellett a New Forestben, népszerű úszásra.",
                   "category": "recreational",
                   "coords": [
                         -1.570858,
@@ -1234,7 +1234,7 @@ imageHint: "Eden Project geodesic biomes at dusk",
       "ro": [
             {
                   "name": "Brockenhurst Beach",
-                  "text": "Plaja Brockenhurst lângă New Forest.",
+                  "text": "Brockenhurst Beach este o plajă de apă dulce pe un lac în New Forest, populară pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -1.570858,
@@ -1245,7 +1245,7 @@ imageHint: "Eden Project geodesic biomes at dusk",
       "en": [
             {
                   "name": "Brockenhurst Beach",
-                  "text": "Brockenhurst Beach is near the New Forest.",
+                  "text": "Brockenhurst Beach is a freshwater beach on a lake in the New Forest, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -1.570858,
@@ -1486,7 +1486,7 @@ imageHint: "Loch Lomond lake with mountains in Scotland",
             },
             {
                   "name": "Royston Beach",
-                  "text": "Ein Strand nahe dem Royal Botanic Garden Edinburgh.",
+                  "text": "Royston Beach ist ein kleiner Sandstrand an einem Teich im Royal Botanic Garden Edinburgh.",
                   "category": "recreational",
                   "coords": [
                         -3.239162,
@@ -1506,7 +1506,7 @@ imageHint: "Loch Lomond lake with mountains in Scotland",
             },
             {
                   "name": "Royston Beach",
-                  "text": "Strand a Royal Botanic Garden Edinburgh közelében.",
+                  "text": "A Royston Beach egy kis homokos strand egy tóparton a Royal Botanic Garden Edinburgh-ben.",
                   "category": "recreational",
                   "coords": [
                         -3.239162,
@@ -1526,7 +1526,7 @@ imageHint: "Loch Lomond lake with mountains in Scotland",
             },
             {
                   "name": "Royston Beach",
-                  "text": "O plajă lângă Royal Botanic Garden Edinburgh.",
+                  "text": "Royston Beach este o mică plajă cu nisip pe un iaz din Grădina Botanică Regală Edinburgh.",
                   "category": "recreational",
                   "coords": [
                         -3.239162,
@@ -1546,7 +1546,7 @@ imageHint: "Loch Lomond lake with mountains in Scotland",
             },
             {
                   "name": "Royston Beach",
-                  "text": "A beach near the Royal Botanic Garden Edinburgh.",
+                  "text": "Royston Beach is a small sandy beach on a pond in the Royal Botanic Garden Edinburgh.",
                   "category": "recreational",
                   "coords": [
                         -3.239162,
@@ -1650,7 +1650,7 @@ imageHint: "Strangford Lough aerial view with islands",
       "de": [
             {
                   "name": "Thornwick Bay",
-                  "text": "Thornwick Bay Strand bei den Bempton Cliffs.",
+                  "text": "Thornwick Bay ist eine abgeschiedene Bucht mit Kreidefelsen und Gezeitentümpeln, nahe den Bempton Cliffs.",
                   "category": "recreational",
                   "coords": [
                         -0.113309,
@@ -1659,7 +1659,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Speeton Sands",
-                  "text": "Ein Strand an den Klippen von Bempton.",
+                  "text": "Speeton Sands ist ein Sandstrand mit Tonklippen, bekannt für Fossilien und Geologie.",
                   "category": "recreational",
                   "coords": [
                         -0.23277,
@@ -1668,7 +1668,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Little Thornwick Bay",
-                  "text": "Little Thornwick Bay ist ein Strand bei den Bempton Cliffs.",
+                  "text": "Little Thornwick Bay ist eine kleine Bucht mit einem Kiesstrand und Meereshöhlen, nahe Bempton.",
                   "category": "recreational",
                   "coords": [
                         -0.116603,
@@ -1679,7 +1679,7 @@ imageHint: "Strangford Lough aerial view with islands",
       "hu": [
             {
                   "name": "Thornwick Bay",
-                  "text": "Thornwick Bay strand Bempton Cliffs közelében.",
+                  "text": "A Thornwick Bay egy félreeső öböl kréta sziklákkal és dagálymedencékkel, a Bempton Cliffs közelében.",
                   "category": "recreational",
                   "coords": [
                         -0.113309,
@@ -1688,7 +1688,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Speeton Sands",
-                  "text": "Strand a Bempton-szikláknál.",
+                  "text": "A Speeton Sands egy homokos strand agyagsziklákkal, fosszíliákról és geológiáról ismert.",
                   "category": "recreational",
                   "coords": [
                         -0.23277,
@@ -1697,7 +1697,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Little Thornwick Bay",
-                  "text": "Little Thornwick Bay egy strand a Bempton Cliffs-nél.",
+                  "text": "A Little Thornwick Bay egy kis öböl kavicsos stranddal és tengeri barlangokkal, Bempton közelében.",
                   "category": "recreational",
                   "coords": [
                         -0.116603,
@@ -1708,7 +1708,7 @@ imageHint: "Strangford Lough aerial view with islands",
       "ro": [
             {
                   "name": "Thornwick Bay",
-                  "text": "Plaja Thornwick Bay lângă Bempton Cliffs.",
+                  "text": "Thornwick Bay este un golf retras cu stânci de cretă și bălți de maree, lângă Bempton Cliffs.",
                   "category": "recreational",
                   "coords": [
                         -0.113309,
@@ -1717,7 +1717,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Speeton Sands",
-                  "text": "O plajă lângă stâncile din Bempton.",
+                  "text": "Speeton Sands este o plajă cu nisip cu stânci de argilă, cunoscută pentru fosile și geologie.",
                   "category": "recreational",
                   "coords": [
                         -0.23277,
@@ -1726,7 +1726,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Little Thornwick Bay",
-                  "text": "Little Thornwick Bay este o plajă lângă Bempton Cliffs.",
+                  "text": "Little Thornwick Bay este un mic golf cu o plajă de pietriș și peșteri marine, lângă Bempton.",
                   "category": "recreational",
                   "coords": [
                         -0.116603,
@@ -1737,7 +1737,7 @@ imageHint: "Strangford Lough aerial view with islands",
       "en": [
             {
                   "name": "Thornwick Bay",
-                  "text": "Thornwick Bay beach near Bempton Cliffs.",
+                  "text": "Thornwick Bay is a secluded bay with chalk cliffs and rock pools, near Bempton Cliffs.",
                   "category": "recreational",
                   "coords": [
                         -0.113309,
@@ -1746,7 +1746,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Speeton Sands",
-                  "text": "A beach by the Bempton Cliffs.",
+                  "text": "Speeton Sands is a sandy beach with clay cliffs, known for fossils and geology.",
                   "category": "recreational",
                   "coords": [
                         -0.23277,
@@ -1755,7 +1755,7 @@ imageHint: "Strangford Lough aerial view with islands",
             },
             {
                   "name": "Little Thornwick Bay",
-                  "text": "Little Thornwick Bay is a beach near Bempton Cliffs.",
+                  "text": "Little Thornwick Bay is a small bay with a shingle beach and sea caves, near Bempton.",
                   "category": "recreational",
                   "coords": [
                         -0.116603,
@@ -1958,7 +1958,7 @@ imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
             },
             {
                   "name": "Saint Andrew's Church",
-                  "text": "Eine historische Pfarrkirche in einer malerischen Umgebung.",
+                  "text": "Eine mittelalterliche Steinkirche mit Satteldachturm in Withypool, Exmoor-Nationalpark.",
                   "category": "religious",
                   "coords": [
                         -3.649386,
@@ -1996,7 +1996,7 @@ imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
             },
             {
                   "name": "Saint Andrew's Church",
-                  "text": "Történelmi plébániatemplom festői környezetben.",
+                  "text": "Egy középkori kőtemplom nyereg alakú toronnyal Withypoolban, Exmoor Nemzeti Parkban.",
                   "category": "religious",
                   "coords": [
                         -3.649386,
@@ -2034,7 +2034,7 @@ imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
             },
             {
                   "name": "Saint Andrew's Church",
-                  "text": "O biserică parohială istorică într-un cadru pitoresc.",
+                  "text": "O biserică medievală de piatră cu un turn în formă de șa în Withypool, Parcul Național Exmoor.",
                   "category": "religious",
                   "coords": [
                         -3.649386,
@@ -2072,7 +2072,7 @@ imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
             },
             {
                   "name": "Saint Andrew's Church",
-                  "text": "A historic parish church in a picturesque setting.",
+                  "text": "A medieval stone church with a saddleback tower in Withypool, Exmoor National Park.",
                   "category": "religious",
                   "coords": [
                         -3.649386,
@@ -2140,7 +2140,7 @@ imageHint: "Exmoor National Park moorland and wild ponies",
       "de": [
             {
                   "name": "Kraps Ring",
-                  "text": "Eine prähistorische Steinsetzung im Dartmoor-Nationalpark.",
+                  "text": "Ein prähistorischer Steinkreis auf Dartmoor, ein eingetragenes antikes Denkmal.",
                   "category": "historical",
                   "coords": [
                         -3.916353,
@@ -2205,7 +2205,7 @@ imageHint: "Exmoor National Park moorland and wild ponies",
       "hu": [
             {
                   "name": "Kraps Ring",
-                  "text": "Őskori kőalakzat a Dartmoor Nemzeti Parkban.",
+                  "text": "Egy őskori kőkör a Dartmoor-on, védett ősi műemlék.",
                   "category": "historical",
                   "coords": [
                         -3.916353,
@@ -2270,7 +2270,7 @@ imageHint: "Exmoor National Park moorland and wild ponies",
       "ro": [
             {
                   "name": "Kraps Ring",
-                  "text": "O structură de piatră preistorică în Parcul Național Dartmoor.",
+                  "text": "Un cerc de piatră preistoric pe Dartmoor, un monument antic înscris.",
                   "category": "historical",
                   "coords": [
                         -3.916353,
@@ -2335,7 +2335,7 @@ imageHint: "Exmoor National Park moorland and wild ponies",
       "en": [
             {
                   "name": "Kraps Ring",
-                  "text": "A prehistoric stone setting in Dartmoor National Park.",
+                  "text": "A prehistoric stone circle on Dartmoor, a scheduled ancient monument.",
                   "category": "historical",
                   "coords": [
                         -3.916353,

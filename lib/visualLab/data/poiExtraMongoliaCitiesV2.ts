@@ -3,7 +3,1060 @@ import type { POI } from "./poi";
 
 export const poiExtraMongoliaCitiesV2: POI[] = [
   {
-    id: "mn-ulaanbaatar-cities-v2",
+    id: "mn-ulaanbaatar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulaanbaatar Chuulga",
+                  "text": "Dieses Theater ist die Heimat des städtischen Ensembles, das traditionelle mongolische Tänze und Musik aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.929671,
+                        47.922971
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Das Museum zeigt historische Artefakte und kulturelle Exponate im Herzen der mongolischen Hauptstadt.",
+                  "category": "museum",
+                  "coords": [
+                        106.939076,
+                        47.919805
+                  ]
+            },
+            {
+                  "name": "MONTSAME News Agency",
+                  "text": "Dieser Aussichtspunkt bei der nationalen Nachrichtenagentur bietet einen Blick auf den zentralen Platz der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        106.914866,
+                        47.919592
+                  ]
+            },
+            {
+                  "name": "Uran zurgiin gallerei",
+                  "text": "Die Galerie präsentiert eine bedeutende Sammlung zeitgenössischer mongolischer Gemälde und Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        106.921232,
+                        47.919611
+                  ]
+            },
+            {
+                  "name": "Ulsyn filarmoni",
+                  "text": "Dieses staatliche Kulturzentrum ist der Hauptveranstaltungsort für klassische Konzerte der Philharmonie.",
+                  "category": "cultural",
+                  "coords": [
+                        106.920049,
+                        47.919534
+                  ]
+            },
+            {
+                  "name": "Museum of geology and mineral resources",
+                  "text": "Das Museum zeigt seltene Dinosaurierfossilien und eine beeindruckende Sammlung mongolischer Edelsteine.",
+                  "category": "museum",
+                  "coords": [
+                        106.924684,
+                        47.921688
+                  ]
+            },
+            {
+                  "name": "HYPE",
+                  "text": "Diese moderne Attraktion ist ein beliebter Treffpunkt für junge Leute im lebhaften Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.923909,
+                        47.925385
+                  ]
+            },
+            {
+                  "name": "Dashchoilin khiid",
+                  "text": "Dieses Kloster ist für seine hölzernen Tempel bekannt, die in der Form traditioneller mongolischer Jurten erbaut wurden.",
+                  "category": "religious",
+                  "coords": [
+                        106.920602,
+                        47.927532
+                  ]
+            },
+            {
+                  "name": "Mongolia Travel Guide",
+                  "text": "Dieser zentrale Aussichtspunkt bietet Orientierungshilfe und einen Panoramablick über die Stadtlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        106.914253,
+                        47.927541
+                  ]
+            },
+            {
+                  "name": "turegiin khoshoo",
+                  "text": "Dieses Denkmal erinnert an das antike türkische Erbe in der Region der mongolischen Steppe.",
+                  "category": "historical",
+                  "coords": [
+                        106.914364,
+                        47.925788
+                  ]
+            },
+            {
+                  "name": "Niisleliin shuukh",
+                  "text": "Vom Justizgebäude aus blickt man auf die geschäftigen Straßen und den administrativen Distrikt.",
+                  "category": "natural",
+                  "coords": [
+                        106.907181,
+                        47.920559
+                  ]
+            },
+            {
+                  "name": "Borchonzhiikhon",
+                  "text": "Dieser erhöhte Punkt bietet eine Sicht auf die Wohnviertel und die fernen Hügel am Stadtrand.",
+                  "category": "natural",
+                  "coords": [
+                        106.911056,
+                        47.929058
+                  ]
+            },
+            {
+                  "name": "Zanabazaryn muzei",
+                  "text": "Das Museum beherbergt eine weltberühmte Sammlung buddhistischer Kunstwerke und Skulpturen des Meisters Zanabazar.",
+                  "category": "museum",
+                  "coords": [
+                        106.909683,
+                        47.920121
+                  ]
+            },
+            {
+                  "name": "Mongolyn undesnii tuukhiin muzei",
+                  "text": "Das Museum präsentiert die Geschichte der Mongolei von der Steinzeit bis zur Ära des mächtigen Mongolenreiches.",
+                  "category": "museum",
+                  "coords": [
+                        106.915354,
+                        47.920838
+                  ]
+            },
+            {
+                  "name": "Khuukhdiin Urlan Buteekh Tov",
+                  "text": "Dieses Zentrum fördert die Kreativität von Kindern durch Werkstätten für traditionelles Handwerk und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        106.916138,
+                        47.926809
+                  ]
+            },
+            {
+                  "name": "Chingis khaan Undesnii muzei",
+                  "text": "Dieses moderne Museum wurde 2019 gegründet und zeigt Tausende von Exponaten über die mongolischen Khane.",
+                  "category": "museum",
+                  "coords": [
+                        106.914897,
+                        47.922636
+                  ]
+            },
+            {
+                  "name": "Ulsyn nogoon baiguulamzhyn undesnii khureelen",
+                  "text": "Dieses Schutzgebiet am Stadtrand bewahrt die einheimische Flora und bietet ruhige Grünflächen.",
+                  "category": "natural",
+                  "coords": [
+                        106.948572,
+                        47.983546
+                  ]
+            },
+            {
+                  "name": "Japanese War Cemetery",
+                  "text": "Dieses Denkmal ist den japanischen Kriegsgefangenen gewidmet und liegt in einer friedlichen Parkanlage.",
+                  "category": "historical",
+                  "coords": [
+                        106.944205,
+                        47.996929
+                  ]
+            },
+            {
+                  "name": "Bethany Village Church",
+                  "text": "Diese kleine christliche Kirche dient als spiritueller Treffpunkt für die lokale Gemeinde im Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        106.928653,
+                        47.921579
+                  ]
+            },
+            {
+                  "name": "Manaachiin post",
+                  "text": "Dieses religiöse Heiligtum ist ein Ort des Gebets und der Besinnung für die Gläubigen der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        106.924797,
+                        47.932353
+                  ]
+            },
+            {
+                  "name": "Uurdiin gegee sum",
+                  "text": "Diese Gebetsstätte bietet eine ruhige Atmosphäre für traditionelle buddhistische Rituale.",
+                  "category": "religious",
+                  "coords": [
+                        106.912655,
+                        47.928979
+                  ]
+            },
+            {
+                  "name": "Gegeenten Tomas Akvinagiin katolik sum",
+                  "text": "Diese katholische Kapelle ist dem Heiligen Thomas von Aquin gewidmet und ein Ort der Stille im Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        106.918607,
+                        47.927924
+                  ]
+            },
+            {
+                  "name": "Esusiin sum",
+                  "text": "Diese christliche Kirche beherbergt Gottesdienste für die wachsende lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        106.953124,
+                        47.988874
+                  ]
+            },
+            {
+                  "name": "Mamba datsan bish",
+                  "text": "Dieses buddhistische Kloster ist ein bekanntes Zentrum für die Erlernung der traditionellen mongolischen Medizin.",
+                  "category": "religious",
+                  "coords": [
+                        106.940638,
+                        47.929337
+                  ]
+            },
+            {
+                  "name": "Sum",
+                  "text": "Die Kirche dient als religiöser Mittelpunkt für christliche Gläubige in diesem Teil von Ulaanbaatar.",
+                  "category": "religious",
+                  "coords": [
+                        106.929557,
+                        47.927154
+                  ]
+            },
+            {
+                  "name": "Esus Khristiin Khozhmyn Ueiin Gegeentnuudiin Sum",
+                  "text": "Dieses markante moderne Gebäude ist das Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "religious",
+                  "coords": [
+                        106.934696,
+                        47.920066
+                  ]
+            },
+            {
+                  "name": "Khunsnii delguur",
+                  "text": "Dieser lokale Markt bietet eine Auswahl an frischen Lebensmitteln und Grundnahrungsmitteln für die Anwohner.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919541,
+                        47.924541
+                  ]
+            },
+            {
+                  "name": "Khaiag reklam",
+                  "text": "Dieser Marktplatz ist auf Werbematerialien und Schilder spezialisiert und bedient lokale Unternehmen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.917491,
+                        47.929308
+                  ]
+            },
+            {
+                  "name": "Belkh zakh",
+                  "text": "Ein lebhafter Stadtviertelmarkt, auf dem die Bewohner des Belkh-Distrikts ihre täglichen Waren kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.967424,
+                        47.993902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulaanbaatar Chuulga",
+                  "text": "Ez a színház ad otthont a városi társulatnak, amely hagyományos mongol táncokat és zenét mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        106.929671,
+                        47.922971
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "A múzeum történelmi leleteket és kulturális tárgyakat mutat be a mongol főváros szívében.",
+                  "category": "museum",
+                  "coords": [
+                        106.939076,
+                        47.919805
+                  ]
+            },
+            {
+                  "name": "MONTSAME News Agency",
+                  "text": "A nemzeti hírügynökség melletti kilátópontról rálátás nyílik a város központi terére.",
+                  "category": "natural",
+                  "coords": [
+                        106.914866,
+                        47.919592
+                  ]
+            },
+            {
+                  "name": "Uran zurgiin gallerei",
+                  "text": "A galéria kortárs mongol festményekből és szobrokból álló jelentős gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.921232,
+                        47.919611
+                  ]
+            },
+            {
+                  "name": "Ulsyn filarmoni",
+                  "text": "Ez az állami kulturális központ a filharmónia komolyzenei koncertjeinek fő helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        106.920049,
+                        47.919534
+                  ]
+            },
+            {
+                  "name": "Museum of geology and mineral resources",
+                  "text": "A múzeum ritka dinoszaurusz-fosszíliákat és mongol drágakövek lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.924684,
+                        47.921688
+                  ]
+            },
+            {
+                  "name": "HYPE",
+                  "text": "Ez a modern látványosság a fiatalok népszerű találkozóhelye a nyüzsgő negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        106.923909,
+                        47.925385
+                  ]
+            },
+            {
+                  "name": "Dashchoilin khiid",
+                  "text": "Ez a kolostor a hagyományos mongol jurták formájára épült fatemplomairól nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        106.920602,
+                        47.927532
+                  ]
+            },
+            {
+                  "name": "Mongolia Travel Guide",
+                  "text": "Ez a központi kilátópont tájékozódást és panorámás kilátást nyújt a városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        106.914253,
+                        47.927541
+                  ]
+            },
+            {
+                  "name": "turegiin khoshoo",
+                  "text": "Ez az emlékmű a mongol sztyeppe régiójának ősi türk örökségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        106.914364,
+                        47.925788
+                  ]
+            },
+            {
+                  "name": "Niisleliin shuukh",
+                  "text": "Az igazságügyi épülettől rálátás nyílik a forgalmas utcákra és a közigazgatási negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        106.907181,
+                        47.920559
+                  ]
+            },
+            {
+                  "name": "Borchonzhiikhon",
+                  "text": "Ez a magaslati pont rálátást biztosít a lakónegyedekre és a város szélén lévő távoli dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        106.911056,
+                        47.929058
+                  ]
+            },
+            {
+                  "name": "Zanabazaryn muzei",
+                  "text": "A múzeum Zanabazar mester világhírű buddhista műalkotásait és szobrait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        106.909683,
+                        47.920121
+                  ]
+            },
+            {
+                  "name": "Mongolyn undesnii tuukhiin muzei",
+                  "text": "A múzeum Mongólia történelmét mutatja be a kőkorszaktól egészen a hatalmas Mongol Birodalom koráig.",
+                  "category": "museum",
+                  "coords": [
+                        106.915354,
+                        47.920838
+                  ]
+            },
+            {
+                  "name": "Khuukhdiin Urlan Buteekh Tov",
+                  "text": "Ez a központ a gyermekek kreativitását ösztönzi hagyományos kézműves és művészeti műhelyekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        106.916138,
+                        47.926809
+                  ]
+            },
+            {
+                  "name": "Chingis khaan Undesnii muzei",
+                  "text": "Ezt a modern múzeumot 2019-ben alapították, és több ezer tárgyat mutat be a mongol kánokról.",
+                  "category": "museum",
+                  "coords": [
+                        106.914897,
+                        47.922636
+                  ]
+            },
+            {
+                  "name": "Ulsyn nogoon baiguulamzhyn undesnii khureelen",
+                  "text": "Ez a város szélén található védett terület az őshonos flórát őrzi és nyugodt zöldterületeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        106.948572,
+                        47.983546
+                  ]
+            },
+            {
+                  "name": "Japanese War Cemetery",
+                  "text": "Ez az emlékmű a japán hadifoglyoknak állít emléket egy békés parkosított környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        106.944205,
+                        47.996929
+                  ]
+            },
+            {
+                  "name": "Bethany Village Church",
+                  "text": "Ez a kis keresztény templom a helyi közösség spirituális találkozóhelyeként szolgál a negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        106.928653,
+                        47.921579
+                  ]
+            },
+            {
+                  "name": "Manaachiin post",
+                  "text": "Ez a vallási szentély az imádság és az elmélkedés helye a környék hívői számára.",
+                  "category": "religious",
+                  "coords": [
+                        106.924797,
+                        47.932353
+                  ]
+            },
+            {
+                  "name": "Uurdiin gegee sum",
+                  "text": "Ez az imaház nyugodt környezetet biztosít a hagyományos buddhista szertartásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        106.912655,
+                        47.928979
+                  ]
+            },
+            {
+                  "name": "Gegeenten Tomas Akvinagiin katolik sum",
+                  "text": "Ez a katolikus kápolna Aquinói Szent Tamásnak van szentelve, és a nyugalom szigete a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        106.918607,
+                        47.927924
+                  ]
+            },
+            {
+                  "name": "Esusiin sum",
+                  "text": "Ez a keresztény templom istentiszteleteknek ad otthont a növekvő helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.953124,
+                        47.988874
+                  ]
+            },
+            {
+                  "name": "Mamba datsan bish",
+                  "text": "Ez a buddhista kolostor a hagyományos mongol orvoslás oktatásának jól ismert központja.",
+                  "category": "religious",
+                  "coords": [
+                        106.940638,
+                        47.929337
+                  ]
+            },
+            {
+                  "name": "Sum",
+                  "text": "A templom vallási központként szolgál a keresztény hívők számára Ulánbátor ezen részén.",
+                  "category": "religious",
+                  "coords": [
+                        106.929557,
+                        47.927154
+                  ]
+            },
+            {
+                  "name": "Esus Khristiin Khozhmyn Ueiin Gegeentnuudiin Sum",
+                  "text": "Ez a jellegzetes modern épület Az Utolsó Napi Szentek Jézus Krisztus Egyházának gyülekezeti háza.",
+                  "category": "religious",
+                  "coords": [
+                        106.934696,
+                        47.920066
+                  ]
+            },
+            {
+                  "name": "Khunsnii delguur",
+                  "text": "Ez a helyi piac friss élelmiszereket és alapvető árucikkeket kínál a környéken lakóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919541,
+                        47.924541
+                  ]
+            },
+            {
+                  "name": "Khaiag reklam",
+                  "text": "Ez a piactér reklámanyagokra és táblákra specializálódott, kiszolgálva a helyi vállalkozásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        106.917491,
+                        47.929308
+                  ]
+            },
+            {
+                  "name": "Belkh zakh",
+                  "text": "Nyüzsgő környéki piac, ahol a Belkh negyed lakói szerzik be mindennapi árucikkeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        106.967424,
+                        47.993902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulaanbaatar Chuulga",
+                  "text": "Acest teatru găzduiește ansamblul orașului, care prezintă dansuri și muzică tradițională mongolă.",
+                  "category": "cultural",
+                  "coords": [
+                        106.929671,
+                        47.922971
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Muzeul expune artefacte istorice și exponate culturale în inima capitalei mongole.",
+                  "category": "museum",
+                  "coords": [
+                        106.939076,
+                        47.919805
+                  ]
+            },
+            {
+                  "name": "MONTSAME News Agency",
+                  "text": "Acest punct de observație de lângă agenția națională de presă oferă o vedere spre piața centrală a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        106.914866,
+                        47.919592
+                  ]
+            },
+            {
+                  "name": "Uran zurgiin gallerei",
+                  "text": "Galeria prezintă o colecție importantă de picturi și sculpturi mongole contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        106.921232,
+                        47.919611
+                  ]
+            },
+            {
+                  "name": "Ulsyn filarmoni",
+                  "text": "Acest centru cultural de stat este locul principal pentru concertele de muzică clasică ale filarmonicii.",
+                  "category": "cultural",
+                  "coords": [
+                        106.920049,
+                        47.919534
+                  ]
+            },
+            {
+                  "name": "Museum of geology and mineral resources",
+                  "text": "Muzeul expune fosile rare de dinozauri și o colecție impresionantă de pietre prețioase mongole.",
+                  "category": "museum",
+                  "coords": [
+                        106.924684,
+                        47.921688
+                  ]
+            },
+            {
+                  "name": "HYPE",
+                  "text": "Această atracție modernă este un loc de întâlnire popular pentru tineri într-un cartier plin de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        106.923909,
+                        47.925385
+                  ]
+            },
+            {
+                  "name": "Dashchoilin khiid",
+                  "text": "Această mănăstire este cunoscută pentru templele sale din lemn, construite în forma iurtelor tradiționale mongole.",
+                  "category": "religious",
+                  "coords": [
+                        106.920602,
+                        47.927532
+                  ]
+            },
+            {
+                  "name": "Mongolia Travel Guide",
+                  "text": "Acest punct de observație central oferă orientare și o vedere panoramică asupra peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        106.914253,
+                        47.927541
+                  ]
+            },
+            {
+                  "name": "turegiin khoshoo",
+                  "text": "Acest monument comemorează moștenirea turcică antică în regiunea stepei mongole.",
+                  "category": "historical",
+                  "coords": [
+                        106.914364,
+                        47.925788
+                  ]
+            },
+            {
+                  "name": "Niisleliin shuukh",
+                  "text": "De la clădirea instanței se pot vedea străzile aglomerate și districtul administrativ.",
+                  "category": "natural",
+                  "coords": [
+                        106.907181,
+                        47.920559
+                  ]
+            },
+            {
+                  "name": "Borchonzhiikhon",
+                  "text": "Acest punct ridicat oferă o vedere asupra cartierelor rezidențiale și a dealurilor îndepărtate de la marginea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        106.911056,
+                        47.929058
+                  ]
+            },
+            {
+                  "name": "Zanabazaryn muzei",
+                  "text": "Muzeul adăpostește o colecție de renume mondial de artă budistă și sculpturi realizate de maestrul Zanabazar.",
+                  "category": "museum",
+                  "coords": [
+                        106.909683,
+                        47.920121
+                  ]
+            },
+            {
+                  "name": "Mongolyn undesnii tuukhiin muzei",
+                  "text": "Muzeul prezintă istoria Mongoliei din epoca de piatră până în era puternicului Imperiu Mongol.",
+                  "category": "museum",
+                  "coords": [
+                        106.915354,
+                        47.920838
+                  ]
+            },
+            {
+                  "name": "Khuukhdiin Urlan Buteekh Tov",
+                  "text": "Acest centru promovează creativitatea copiilor prin ateliere de meșteșuguri tradiționale și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        106.916138,
+                        47.926809
+                  ]
+            },
+            {
+                  "name": "Chingis khaan Undesnii muzei",
+                  "text": "Acest muzeu modern, fondat în 2019, expune mii de piese despre hanii mongoli.",
+                  "category": "museum",
+                  "coords": [
+                        106.914897,
+                        47.922636
+                  ]
+            },
+            {
+                  "name": "Ulsyn nogoon baiguulamzhyn undesnii khureelen",
+                  "text": "Această rezervație de la marginea orașului conservă flora nativă și oferă spații verzi liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        106.948572,
+                        47.983546
+                  ]
+            },
+            {
+                  "name": "Japanese War Cemetery",
+                  "text": "Acest monument este dedicat prizonierilor de război japonezi și este situat într-un parc liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        106.944205,
+                        47.996929
+                  ]
+            },
+            {
+                  "name": "Bethany Village Church",
+                  "text": "Această mică biserică creștină servește ca loc de întâlnire spirituală pentru comunitatea locală din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        106.928653,
+                        47.921579
+                  ]
+            },
+            {
+                  "name": "Manaachiin post",
+                  "text": "Acest sanctuar religios este un loc de rugăciune și reflecție pentru credincioșii din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        106.924797,
+                        47.932353
+                  ]
+            },
+            {
+                  "name": "Uurdiin gegee sum",
+                  "text": "Acest lăcaș de rugăciune oferă o atmosferă liniștită pentru ritualurile budiste tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        106.912655,
+                        47.928979
+                  ]
+            },
+            {
+                  "name": "Gegeenten Tomas Akvinagiin katolik sum",
+                  "text": "Această chapelă catolică este dedicată Sfântului Toma de Aquino și este un loc de liniște în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        106.918607,
+                        47.927924
+                  ]
+            },
+            {
+                  "name": "Esusiin sum",
+                  "text": "Această biserică creștină găzduiește servicii religioase pentru comunitatea locală în creștere.",
+                  "category": "landmark",
+                  "coords": [
+                        106.953124,
+                        47.988874
+                  ]
+            },
+            {
+                  "name": "Mamba datsan bish",
+                  "text": "Această mănăstire budistă este un centru cunoscut pentru învățarea medicinei tradiționale mongole.",
+                  "category": "religious",
+                  "coords": [
+                        106.940638,
+                        47.929337
+                  ]
+            },
+            {
+                  "name": "Sum",
+                  "text": "Biserica servește ca punct central religios pentru credincioșii creștini din această parte a orașului Ulaanbaatar.",
+                  "category": "religious",
+                  "coords": [
+                        106.929557,
+                        47.927154
+                  ]
+            },
+            {
+                  "name": "Esus Khristiin Khozhmyn Ueiin Gegeentnuudiin Sum",
+                  "text": "Această clădire modernă distinctivă este casa de întruniri a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "religious",
+                  "coords": [
+                        106.934696,
+                        47.920066
+                  ]
+            },
+            {
+                  "name": "Khunsnii delguur",
+                  "text": "Această piață locală oferă o selecție de alimente proaspete și produse de bază pentru locuitorii din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919541,
+                        47.924541
+                  ]
+            },
+            {
+                  "name": "Khaiag reklam",
+                  "text": "Această piață este specializată în materiale publicitare și panouri, deservind afacerile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.917491,
+                        47.929308
+                  ]
+            },
+            {
+                  "name": "Belkh zakh",
+                  "text": "O piață de cartier plină de viață, unde locuitorii districtului Belkh își cumpără produsele zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.967424,
+                        47.993902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulaanbaatar Chuulga",
+                  "text": "This theater is home to the city ensemble, which performs traditional Mongolian dances and music.",
+                  "category": "cultural",
+                  "coords": [
+                        106.929671,
+                        47.922971
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "The museum displays historical artifacts and cultural exhibits in the heart of the Mongolian capital.",
+                  "category": "museum",
+                  "coords": [
+                        106.939076,
+                        47.919805
+                  ]
+            },
+            {
+                  "name": "MONTSAME News Agency",
+                  "text": "This viewpoint near the national news agency offers a look at the city's central square.",
+                  "category": "natural",
+                  "coords": [
+                        106.914866,
+                        47.919592
+                  ]
+            },
+            {
+                  "name": "Mongolian National Modern Art Gallery",
+                  "text": "The gallery showcases a significant collection of contemporary Mongolian paintings and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        106.921232,
+                        47.919611
+                  ]
+            },
+            {
+                  "name": "Ulsyn filarmoni",
+                  "text": "This state arts center is the primary venue for classical concerts by the national philharmonic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.920049,
+                        47.919534
+                  ]
+            },
+            {
+                  "name": "Museum of geology and mineral resources",
+                  "text": "The museum displays rare dinosaur fossils and an impressive collection of Mongolian gemstones.",
+                  "category": "museum",
+                  "coords": [
+                        106.924684,
+                        47.921688
+                  ]
+            },
+            {
+                  "name": "HYPE",
+                  "text": "This modern attraction is a popular gathering spot for young people in the lively district.",
+                  "category": "landmark",
+                  "coords": [
+                        106.923909,
+                        47.925385
+                  ]
+            },
+            {
+                  "name": "Dashchoilin Monastery",
+                  "text": "This monastery is notable for its wooden temples built in the shape of traditional Mongolian yurts.",
+                  "category": "religious",
+                  "coords": [
+                        106.920602,
+                        47.927532
+                  ]
+            },
+            {
+                  "name": "Mongolia Travel Guide",
+                  "text": "This central viewpoint provides orientation and a panoramic look across the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        106.914253,
+                        47.927541
+                  ]
+            },
+            {
+                  "name": "turegiin khoshoo",
+                  "text": "This monument commemorates the ancient Turkic heritage in the region of the Mongolian steppe.",
+                  "category": "historical",
+                  "coords": [
+                        106.914364,
+                        47.925788
+                  ]
+            },
+            {
+                  "name": "Niisleliin shuukh",
+                  "text": "From the court building area, one can view the busy streets and the administrative district.",
+                  "category": "natural",
+                  "coords": [
+                        106.907181,
+                        47.920559
+                  ]
+            },
+            {
+                  "name": "Borchonjiinhon",
+                  "text": "This elevated point provides a view of the residential neighborhoods and the distant hills on the city outskirts.",
+                  "category": "natural",
+                  "coords": [
+                        106.911056,
+                        47.929058
+                  ]
+            },
+            {
+                  "name": "The Fine Arts Zanabazar Museum",
+                  "text": "The museum houses a world-renowned collection of Buddhist fine arts and sculptures by the master Zanabazar.",
+                  "category": "museum",
+                  "coords": [
+                        106.909683,
+                        47.920121
+                  ]
+            },
+            {
+                  "name": "National Museum of Mongolia",
+                  "text": "The museum presents Mongolia's history from the Stone Age to the era of the mighty Mongol Empire.",
+                  "category": "museum",
+                  "coords": [
+                        106.915354,
+                        47.920838
+                  ]
+            },
+            {
+                  "name": "Khuukhdiin Urlan Buteekh Tov",
+                  "text": "This center promotes children's creativity through workshops for traditional crafts and art.",
+                  "category": "cultural",
+                  "coords": [
+                        106.916138,
+                        47.926809
+                  ]
+            },
+            {
+                  "name": "Chinggis Khaan National Museum",
+                  "text": "This modern museum, established in 2019, showcases thousands of artifacts related to the Mongolian Khans.",
+                  "category": "museum",
+                  "coords": [
+                        106.914897,
+                        47.922636
+                  ]
+            },
+            {
+                  "name": "Ulsyn nogoon baiguulamzhyn undesnii khureelen",
+                  "text": "This nature reserve on the city outskirts preserves native flora and offers quiet green spaces.",
+                  "category": "natural",
+                  "coords": [
+                        106.948572,
+                        47.983546
+                  ]
+            },
+            {
+                  "name": "Japanese War Cemetery",
+                  "text": "This monument is dedicated to Japanese prisoners of war and is set within a peaceful park area.",
+                  "category": "historical",
+                  "coords": [
+                        106.944205,
+                        47.996929
+                  ]
+            },
+            {
+                  "name": "Bethany Village Church",
+                  "text": "This small Christian church serves as a spiritual gathering place for the local community in the district.",
+                  "category": "religious",
+                  "coords": [
+                        106.928653,
+                        47.921579
+                  ]
+            },
+            {
+                  "name": "Manaachiin post",
+                  "text": "This religious sanctuary is a place for prayer and reflection for local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        106.924797,
+                        47.932353
+                  ]
+            },
+            {
+                  "name": "Uurdiin gegee sum",
+                  "text": "This place of worship offers a serene atmosphere for traditional Buddhist rituals.",
+                  "category": "religious",
+                  "coords": [
+                        106.912655,
+                        47.928979
+                  ]
+            },
+            {
+                  "name": "St. Saint Thomas Aquinas Chapel",
+                  "text": "This Catholic chapel is dedicated to Saint Thomas Aquinas and is a place of quiet in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        106.918607,
+                        47.927924
+                  ]
+            },
+            {
+                  "name": "Esusiin sum",
+                  "text": "This Christian church hosts services and gatherings for the growing local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        106.953124,
+                        47.988874
+                  ]
+            },
+            {
+                  "name": "Mambadatsan",
+                  "text": "This Buddhist monastery is a well-known center for learning traditional Mongolian medicine.",
+                  "category": "religious",
+                  "coords": [
+                        106.940638,
+                        47.929337
+                  ]
+            },
+            {
+                  "name": "Sum",
+                  "text": "The church serves as a religious hub for Christian believers in this part of Ulaanbaatar.",
+                  "category": "religious",
+                  "coords": [
+                        106.929557,
+                        47.927154
+                  ]
+            },
+            {
+                  "name": "Esus Khristiin Khozhmyn Ueiin Gegeentnuudiin Sum",
+                  "text": "This distinctive modern building is the meetinghouse for the Church of Jesus Christ of Latter-day Saints.",
+                  "category": "religious",
+                  "coords": [
+                        106.934696,
+                        47.920066
+                  ]
+            },
+            {
+                  "name": "Khunsnii delguur",
+                  "text": "This local market offers a selection of fresh foods and basic staples for neighborhood residents.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919541,
+                        47.924541
+                  ]
+            },
+            {
+                  "name": "Khaiag reklam",
+                  "text": "This marketplace specializes in advertising materials and signs, serving local businesses.",
+                  "category": "cultural",
+                  "coords": [
+                        106.917491,
+                        47.929308
+                  ]
+            },
+            {
+                  "name": "Belkh zakh",
+                  "text": "A bustling neighborhood market where residents of the Belkh district purchase their daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.967424,
+                        47.993902
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MN-1",
     coords: [106.9177, 47.9200],
@@ -64,7 +1117,196 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       en: ["Established in 1639 as a nomadic Buddhist monastic center.", "World's coldest capital city by annual average temperature.", "Home to approximately 1.6 million people as of 2024.", "Situated at 1,350 meters (4,430 ft) above sea level.", "The city's name means 'Red Hero' in the Mongolian language.", "The urban area covers approximately 4,704 square kilometers.", "Host to the Naadam Festival, celebrating the 'Three Manly Games'.", "The Trans-Mongolian Railway connects the city to Moscow and Beijing."],
     }, image: "/poi-images/mn-ulaanbaatar-cities-v2.webp"},
   {
-    id: "mn-erdenet-cities-v2",
+    id: "mn-erdenet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burkhan bagsh",
+                  "text": "Eine monumentale Buddha-Statue auf einem Hügel mit Blick auf das Stadtzentrum von Erdenet.",
+                  "category": "historical",
+                  "coords": [
+                        104.062514,
+                        49.038933
+                  ]
+            },
+            {
+                  "name": "Nairamdal ondorlog",
+                  "text": "Ein Freundschaftsmonument auf einer Anhöhe, das die Zusammenarbeit zwischen der Mongolei und Russland feiert.",
+                  "category": "historical",
+                  "coords": [
+                        104.060972,
+                        49.034608
+                  ]
+            },
+            {
+                  "name": "eson erdene zakh",
+                  "text": "Ein großer Markt in Erdenet, der für sein vielfältiges Angebot an Schmuck und Handwerk bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.064316,
+                        49.027191
+                  ]
+            },
+            {
+                  "name": "Gor'dlogo",
+                  "text": "Ein lokaler Marktplatz in Erdenet, der Waren für den täglichen Bedarf der Stadtbewohner führt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.070989,
+                        49.028022
+                  ]
+            },
+            {
+                  "name": "domog khunsnii zakh",
+                  "text": "Ein beliebter Lebensmittelmarkt in Erdenet, auf dem lokale Bauern ihre Erzeugnisse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.065985,
+                        49.025363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burkhan bagsh",
+                  "text": "Egy monumentális Buddha-szobor egy dombon, kilátással Erdenet városközpontjára.",
+                  "category": "historical",
+                  "coords": [
+                        104.062514,
+                        49.038933
+                  ]
+            },
+            {
+                  "name": "Nairamdal ondorlog",
+                  "text": "Egy barátság-emlékmű egy magaslaton, amely Mongólia és Oroszország együttműködését hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        104.060972,
+                        49.034608
+                  ]
+            },
+            {
+                  "name": "eson erdene zakh",
+                  "text": "Egy nagy piac Erdenetben, amely ékszerek és kézműves termékek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.064316,
+                        49.027191
+                  ]
+            },
+            {
+                  "name": "Gor'dlogo",
+                  "text": "Egy helyi piactér Erdenetben, amely a városlakók napi szükségleteit kielégítő árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        104.070989,
+                        49.028022
+                  ]
+            },
+            {
+                  "name": "domog khunsnii zakh",
+                  "text": "Egy népszerű élelmiszerpiac Erdenetben, ahol a helyi gazdák árulják termékeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        104.065985,
+                        49.025363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burkhan bagsh",
+                  "text": "O statuie monumentală a lui Buddha pe un deal cu vedere spre centrul orașului Erdenet.",
+                  "category": "historical",
+                  "coords": [
+                        104.062514,
+                        49.038933
+                  ]
+            },
+            {
+                  "name": "Nairamdal ondorlog",
+                  "text": "Un monument al prieteniei pe o înălțime, celebrând cooperarea dintre Mongolia și Rusia.",
+                  "category": "historical",
+                  "coords": [
+                        104.060972,
+                        49.034608
+                  ]
+            },
+            {
+                  "name": "eson erdene zakh",
+                  "text": "O piață mare din Erdenet, cunoscută pentru oferta sa variată de bijuterii și artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        104.064316,
+                        49.027191
+                  ]
+            },
+            {
+                  "name": "Gor'dlogo",
+                  "text": "O piață locală din Erdenet care oferă produse pentru nevoile zilnice ale locuitorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        104.070989,
+                        49.028022
+                  ]
+            },
+            {
+                  "name": "domog khunsnii zakh",
+                  "text": "O piață alimentară populară din Erdenet, unde fermierii locali își vând produsele.",
+                  "category": "cultural",
+                  "coords": [
+                        104.065985,
+                        49.025363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burkhan bagsh",
+                  "text": "A monumental Buddha statue on a hill overlooking the city center of Erdenet.",
+                  "category": "historical",
+                  "coords": [
+                        104.062514,
+                        49.038933
+                  ]
+            },
+            {
+                  "name": "Nairamdal ondorlog",
+                  "text": "A friendship monument on a high point celebrating the cooperation between Mongolia and Russia.",
+                  "category": "historical",
+                  "coords": [
+                        104.060972,
+                        49.034608
+                  ]
+            },
+            {
+                  "name": "eson erdene zakh",
+                  "text": "A large market in Erdenet known for its diverse range of jewelry and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        104.064316,
+                        49.027191
+                  ]
+            },
+            {
+                  "name": "Gor'dlogo",
+                  "text": "A local marketplace in Erdenet carrying goods for the daily needs of city residents.",
+                  "category": "cultural",
+                  "coords": [
+                        104.070989,
+                        49.028022
+                  ]
+            },
+            {
+                  "name": "domog khunsnii zakh",
+                  "text": "A popular food market in Erdenet where local farmers sell their produce.",
+                  "category": "cultural",
+                  "coords": [
+                        104.065985,
+                        49.025363
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-035",
     coords: [104.0833, 49.0333],
@@ -137,7 +1379,88 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Fondée en 1974 en tant qu'établissement soviéto-mongol planifié", "Population d'environ 100 000, 2e ville de Mongolie", "À 1 300 mètres d'altitude dans la province d'Orkhon", "L'une des plus grandes mines de cuivre et molybdène au monde", "Production annuelle d'environ 530 000 tonnes de concentré", "Part russe de 49 % vendue à la Mongolie en 2016", "Réserves de minerai estimées à 1,2 milliard de tonnes", "Fournit environ 25 % des revenus d'exportation de la Mongolie"],
     }, image: "/poi-images/mn-erdenet-cities-v2.webp"},
   {
-    id: "mn-darkhan-cities-v2", "sights": {"de": [{"name": "Khurimiin ordon", "text": "Хуримийн ордон ist ein lokaler Aussichtspunkt in der Stadt Darchan.", "category": "natural", "coords": [105.940174, 49.482611]}, {"name": "Morin khuur dursgal", "text": "Das Morin Khuur Monument ist ein bemerkenswertes Denkmal in Darchan.", "category": "historical", "coords": [105.948087, 49.475479]}], "hu": [{"name": "Khurimiin ordon", "text": "A Хуримийн ордон egy helyi kilátó Darchan városában.", "category": "natural", "coords": [105.940174, 49.482611]}, {"name": "Morin khuur dursgal", "text": "A Morin Khuur Monument egy figyelemre méltó emlékmű Darchan városában.", "category": "historical", "coords": [105.948087, 49.475479]}], "ro": [{"name": "Khurimiin ordon", "text": "Хуримийн ордон este un punct de belvedere local situat în orașul Darchan.", "category": "natural", "coords": [105.940174, 49.482611]}, {"name": "Morin khuur dursgal", "text": "Morin Khuur Monument este un monument notabil situat în Darchan.", "category": "historical", "coords": [105.948087, 49.475479]}], "en": [{"name": "Khurimiin ordon", "text": "Хуримийн ордон is a local viewpoint located in the city of Darchan.", "category": "natural", "coords": [105.940174, 49.482611]}, {"name": "Morin Khuur Monument", "text": "The Morin Khuur Monument is a notable monument situated in Darchan.", "category": "historical", "coords": [105.948087, 49.475479]}]},
+    id: "mn-darkhan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khurimiin ordon",
+                  "text": "Ein Naturgebiet in Darkhan, markiert durch einen traditionellen Ovoo (Steinhaufen) in der Steppe.",
+                  "category": "natural",
+                  "coords": [
+                        105.940174,
+                        49.482611
+                  ]
+            },
+            {
+                  "name": "Morin khuur dursgal",
+                  "text": "Ein Denkmal in Darkhan, gewidmet der Morin Khuur (Pferdekopfgeige), ein Symbol der mongolischen Musik.",
+                  "category": "historical",
+                  "coords": [
+                        105.948087,
+                        49.475479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khurimiin ordon",
+                  "text": "Egy természeti terület Darkhanban, egy hagyományos ovóval (kőkupaccal) a sztyeppén.",
+                  "category": "natural",
+                  "coords": [
+                        105.940174,
+                        49.482611
+                  ]
+            },
+            {
+                  "name": "Morin khuur dursgal",
+                  "text": "Egy emlékmű Darkhanban, a morin khuur (lófejű hegedű) tiszteletére, a mongol zene szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        105.948087,
+                        49.475479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khurimiin ordon",
+                  "text": "O zonă naturală în Darkhan, marcată de un ovoo tradițional (grămadă de pietre) pe stepă.",
+                  "category": "natural",
+                  "coords": [
+                        105.940174,
+                        49.482611
+                  ]
+            },
+            {
+                  "name": "Morin khuur dursgal",
+                  "text": "Un monument în Darkhan dedicat morin khuur (viorii cu cap de cal), simbol al muzicii mongole.",
+                  "category": "historical",
+                  "coords": [
+                        105.948087,
+                        49.475479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khurimiin ordon",
+                  "text": "A natural area in Darkhan, marked by a traditional ovoo (stone cairn) on the steppe.",
+                  "category": "natural",
+                  "coords": [
+                        105.940174,
+                        49.482611
+                  ]
+            },
+            {
+                  "name": "Morin Khuur Monument",
+                  "text": "A monument in Darkhan dedicated to the morin khuur (horsehead fiddle), symbol of Mongolian music.",
+                  "category": "historical",
+                  "coords": [
+                        105.948087,
+                        49.475479
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-037",
     coords: [105.9228, 49.4862],
@@ -210,7 +1533,376 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Fondée en 1961 en tant que ville industrielle socialiste", "Population d'environ 75 000, 3e plus grande ville de Mongolie", "À 220 kilomètres au nord d'Oulan-Bator", "Construite avec l'aide de l'URSS, de la RDA, de la Pologne et de la Tchécoslovaquie", "Le nom signifie forgeron en mongol", "La centrale de Kharaa alimente le nord de la Mongolie en électricité", "L'aciérie et la cimenterie marquent l'industrie", "Le monastère de Kharagiin conserve des statues de la purge de 1937"],
     }, image: "/poi-images/mn-darkhan-cities-v2.webp"},
   {
-    id: "mn-choibalsan-cities-v2",
+    id: "mn-choibalsan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buddha",
+                  "text": "Eine markante Buddha-Statue, die als spirituelles Wahrzeichen in Tschoibalsan, der Hauptstadt der Provinz Dornod, steht.",
+                  "category": "historical",
+                  "coords": [
+                        114.514793,
+                        48.067458
+                  ]
+            },
+            {
+                  "name": "Ts.Damdinsurengiin khoshoo ch * damdinsUrUng un qOsiye",
+                  "text": "Ein Denkmal zu Ehren des berühmten mongolischen Gelehrten und Schriftstellers Tsendiin Damdinsüren.",
+                  "category": "historical",
+                  "coords": [
+                        114.524872,
+                        48.069617
+                  ]
+            },
+            {
+                  "name": "Borte uzhinii khoshoo",
+                  "text": "Eine Statue zu Ehren von Börte, der ersten Frau Dschingis Khans, die die historische Bedeutung der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        114.52601,
+                        48.069655
+                  ]
+            },
+            {
+                  "name": "Mat' i ditia",
+                  "text": "Eine „Mutter und Kind“-Skulptur, die Familie und Leben auf einem öffentlichen Platz in Tschoibalsan symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        114.5337,
+                        48.067548
+                  ]
+            },
+            {
+                  "name": "Er khunii ovoo",
+                  "text": "Ein traditioneller Steinhaufen (Ovoo), an dem am Stadtrand von Tschoibalsan lokale Rituale durchgeführt werden.",
+                  "category": "historical",
+                  "coords": [
+                        114.507575,
+                        48.080609
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn Teatr",
+                  "text": "Das Musik- und Dramatheater von Tschoibalsan bietet Aufführungen traditioneller mongolischer Musik und Theaterstücke.",
+                  "category": "cultural",
+                  "coords": [
+                        114.516975,
+                        48.069396
+                  ]
+            },
+            {
+                  "name": "Choibalsan baptist sum",
+                  "text": "Ein modernes protestantisches Gotteshaus, das der christlichen Gemeinde in dieser buddhistisch geprägten Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.52911,
+                        48.070072
+                  ]
+            },
+            {
+                  "name": "Danrig Danzhailin khiid",
+                  "text": "Ein bedeutendes buddhistisches Kloster in Tschoibalsan, das nach Jahrzehnten der Unterdrückung in den 1990ern restauriert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.522015,
+                        48.074386
+                  ]
+            },
+            {
+                  "name": "Zurkhain gandan",
+                  "text": "Ein kleinerer buddhistischer Tempel, in dem Mönche tägliche Rituale und astrologische Lesungen durchführen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.523489,
+                        48.08121
+                  ]
+            },
+            {
+                  "name": "ETShA Market",
+                  "text": "Ein lebhafter lokaler Markt im Herzen von Tschoibalsan, auf dem Viehprodukte und Haushaltswaren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        114.549645,
+                        48.082192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buddha",
+                  "text": "Egy jellegzetes Buddha-szobor, amely Dornod tartomány fővárosának, Csojbalszannak a spirituális jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        114.514793,
+                        48.067458
+                  ]
+            },
+            {
+                  "name": "Ts.Damdinsurengiin khoshoo ch * damdinsUrUng un qOsiye",
+                  "text": "A híres mongol tudósnak és írónak, Csendín Damdinszürennek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        114.524872,
+                        48.069617
+                  ]
+            },
+            {
+                  "name": "Borte uzhinii khoshoo",
+                  "text": "Dzsingisz kán első feleségének, Börtének a szobra, amely a régió mély történelmi gyökereit tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        114.52601,
+                        48.069655
+                  ]
+            },
+            {
+                  "name": "Mat' i ditia",
+                  "text": "Az anyaságot és az életet jelképező „Anya és gyermeke” szobor egy csojbalszani közterületen.",
+                  "category": "historical",
+                  "coords": [
+                        114.5337,
+                        48.067548
+                  ]
+            },
+            {
+                  "name": "Er khunii ovoo",
+                  "text": "Hagyományos kőhalom (ovoo), ahol helyi rituálékat végeznek Csojbalszan külvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        114.507575,
+                        48.080609
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn Teatr",
+                  "text": "Csojbalszan zenés drámai színháza, amely hagyományos mongol zenei és színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        114.516975,
+                        48.069396
+                  ]
+            },
+            {
+                  "name": "Choibalsan baptist sum",
+                  "text": "Modern protestáns imaház, amely a keresztény közösséget szolgálja ebben a buddhista többségű városban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.52911,
+                        48.070072
+                  ]
+            },
+            {
+                  "name": "Danrig Danzhailin khiid",
+                  "text": "Jelentős buddhista kolostor Csojbalszanban, amelyet az 1990-es években állítottak helyre évtizednyi elnyomás után.",
+                  "category": "landmark",
+                  "coords": [
+                        114.522015,
+                        48.074386
+                  ]
+            },
+            {
+                  "name": "Zurkhain gandan",
+                  "text": "Kisebb buddhista templom, ahol a szerzetesek napi rituálékat és asztrológiai jóslásokat végeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        114.523489,
+                        48.08121
+                  ]
+            },
+            {
+                  "name": "ETShA Market",
+                  "text": "Nyüzsgő helyi piac Csojbalszan szívében, ahol állati termékeket és háztartási cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        114.549645,
+                        48.082192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buddha",
+                  "text": "O statuie proeminentă a lui Buddha, care servește ca reper spiritual în Choibalsan, capitala provinciei Dornod.",
+                  "category": "historical",
+                  "coords": [
+                        114.514793,
+                        48.067458
+                  ]
+            },
+            {
+                  "name": "Ts.Damdinsurengiin khoshoo ch * damdinsUrUng un qOsiye",
+                  "text": "Un monument dedicat renumitului savant și scriitor mongol Tsendiin Damdinsüren.",
+                  "category": "historical",
+                  "coords": [
+                        114.524872,
+                        48.069617
+                  ]
+            },
+            {
+                  "name": "Borte uzhinii khoshoo",
+                  "text": "O statuie care o onorează pe Börte, prima soție a lui Ginghis Han, reflectând legăturile istorice ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        114.52601,
+                        48.069655
+                  ]
+            },
+            {
+                  "name": "Mat' i ditia",
+                  "text": "O sculptură „Mamă și copil” care simbolizează familia și viața într-o piață publică din Choibalsan.",
+                  "category": "historical",
+                  "coords": [
+                        114.5337,
+                        48.067548
+                  ]
+            },
+            {
+                  "name": "Er khunii ovoo",
+                  "text": "O movilă tradițională de pietre (ovoo) unde se desfășoară ritualuri locale la periferia orașului Choibalsan.",
+                  "category": "historical",
+                  "coords": [
+                        114.507575,
+                        48.080609
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn Teatr",
+                  "text": "Teatrul muzical-dramatic din Choibalsan găzduiește spectacole de muzică tradițională mongolă și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        114.516975,
+                        48.069396
+                  ]
+            },
+            {
+                  "name": "Choibalsan baptist sum",
+                  "text": "Un lăcaș de cult protestant modern care deservește comunitatea creștină din acest oraș majoritar budist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.52911,
+                        48.070072
+                  ]
+            },
+            {
+                  "name": "Danrig Danzhailin khiid",
+                  "text": "O mănăstire budistă importantă din Choibalsan, restaurată în anii 1990 după decenii de suprimare.",
+                  "category": "landmark",
+                  "coords": [
+                        114.522015,
+                        48.074386
+                  ]
+            },
+            {
+                  "name": "Zurkhain gandan",
+                  "text": "Un templu budist mai mic unde călugării efectuează ritualuri zilnice și citiri astrologice.",
+                  "category": "landmark",
+                  "coords": [
+                        114.523489,
+                        48.08121
+                  ]
+            },
+            {
+                  "name": "ETShA Market",
+                  "text": "O piață locală plină de viață în inima orașului Choibalsan, unde se vând produse animaliere și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        114.549645,
+                        48.082192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buddha",
+                  "text": "A prominent Buddha statue serving as a spiritual landmark in Choibalsan, the capital of Dornod province.",
+                  "category": "historical",
+                  "coords": [
+                        114.514793,
+                        48.067458
+                  ]
+            },
+            {
+                  "name": "Ts.Damdinsurengiin khoshoo ch * damdinsUrUng un qOsiye",
+                  "text": "A monument dedicated to the renowned Mongolian scholar and writer Tsendiin Damdinsüren.",
+                  "category": "historical",
+                  "coords": [
+                        114.524872,
+                        48.069617
+                  ]
+            },
+            {
+                  "name": "Borte uzhinii khoshoo",
+                  "text": "A statue honoring Börte, the first wife of Genghis Khan, reflecting the region's deep historical ties.",
+                  "category": "historical",
+                  "coords": [
+                        114.52601,
+                        48.069655
+                  ]
+            },
+            {
+                  "name": "Mat' i ditia",
+                  "text": "A \"Mother and Child\" sculpture symbolizing family and life in a public square in Choibalsan.",
+                  "category": "historical",
+                  "coords": [
+                        114.5337,
+                        48.067548
+                  ]
+            },
+            {
+                  "name": "Er khunii ovoo",
+                  "text": "A traditional stone cairn (ovoo) where local rituals are performed on the outskirts of Choibalsan.",
+                  "category": "historical",
+                  "coords": [
+                        114.507575,
+                        48.080609
+                  ]
+            },
+            {
+                  "name": "Hogjimt dramin theater",
+                  "text": "Choibalsan's musical drama theatre hosts traditional Mongolian music and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        114.516975,
+                        48.069396
+                  ]
+            },
+            {
+                  "name": "Choibalsan baptist church",
+                  "text": "A modern Protestant place of worship serving the Christian community in this predominantly Buddhist city.",
+                  "category": "landmark",
+                  "coords": [
+                        114.52911,
+                        48.070072
+                  ]
+            },
+            {
+                  "name": "Danrig Danzhailin khiid",
+                  "text": "A significant Buddhist monastery in Choibalsan restored in the 1990s after decades of suppression.",
+                  "category": "landmark",
+                  "coords": [
+                        114.522015,
+                        48.074386
+                  ]
+            },
+            {
+                  "name": "Zurkhain gandan",
+                  "text": "A smaller Buddhist temple where monks perform daily rituals and astrological readings.",
+                  "category": "landmark",
+                  "coords": [
+                        114.523489,
+                        48.08121
+                  ]
+            },
+            {
+                  "name": "ETSHA Market",
+                  "text": "A bustling local market in the heart of Choibalsan where vendors sell livestock products and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        114.549645,
+                        48.082192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-061",
     coords: [114.5326, 48.0797],
@@ -356,7 +2048,196 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 38 000 habitants", "À 1 283 mètres d'altitude sur la rivière Delgermörön", "Capitale de la province de Khövsgöl depuis 1933", "À 100 kilomètres au sud du lac Khövsgöl", "Le lac Khövsgöl contient 70 % de l'eau douce de Mongolie", "Pierres de cerf de l'âge du bronze à Uushgiin Övör", "Région des Tsaatan, derniers éleveurs de rennes d'Asie", "Aéroport avec liaison quotidienne vers Oulan-Bator"],
     }, image: "/poi-images/mn-moron-cities-v2.webp"},
   {
-    id: "mn-khovd-cities-v2", "sights": {"de": [{"name": "Khovd central museum", "text": "Das Khovd central museum ist eine kulturelle Einrichtung in der Stadt Chowd.", "category": "museum", "coords": [91.640937, 48.006769]}, {"name": "Khovd ?", "text": "Das Khovd Theater ist ein Veranstaltungsort für darstellende Künste in Chowd.", "category": "cultural", "coords": [91.642816, 48.004162]}, {"name": "Khovd Park", "text": "Der Khovd Park ist ein Freizeitpark mit Erholungsflächen in Chowd.", "category": "family", "coords": [91.631495, 47.980804]}, {"name": "Ard Ayuush Monument", "text": "Ард Аюушийн хөшөө ist ein lokales Denkmal in der Stadt Chowd.", "category": "historical", "coords": [91.640591, 48.004216]}, {"name": "Sangiin kherem", "text": "Die Fortress of Hovd umfasst historische Ruinen in der Stadt Chowd.", "category": "historical", "coords": [91.64094, 48.012346]}], "hu": [{"name": "Khovd central museum", "text": "A Khovd central museum egy kulturális intézmény Chowd városában.", "category": "museum", "coords": [91.640937, 48.006769]}, {"name": "Khovd ?", "text": "A Khovd Theater egy előadó-művészeti helyszín Chowd városában.", "category": "cultural", "coords": [91.642816, 48.004162]}, {"name": "Khovd Park", "text": "A Khovd Park egy vidámpark és pihenőövezet Chowd városában.", "category": "family", "coords": [91.631495, 47.980804]}, {"name": "Ard Ayuush Monument", "text": "Az Ард Аюушийн хөшөө egy helyi emlékmű Chowd városában.", "category": "historical", "coords": [91.640591, 48.004216]}, {"name": "Sangiin kherem", "text": "A Fortress of Hovd történelmi romokat rejt Chowd városában.", "category": "historical", "coords": [91.64094, 48.012346]}], "ro": [{"name": "Muzeul central Khovd", "text": "Muzeul central Khovd este o instituție culturală situată în orașul Chowd.", "category": "museum", "coords": [91.640937, 48.006769]}, {"name": "Khovd ?", "text": "Khovd Theater este un centru de artele spectacolului situat în Chowd.", "category": "cultural", "coords": [91.642816, 48.004162]}, {"name": "Khovd Park", "text": "Khovd Park este un parc tematic ce oferă spații de recreere în Chowd.", "category": "family", "coords": [91.631495, 47.980804]}, {"name": "Ard Ayuush Monument", "text": "Ард Аюушийн хөшөө este un monument local situat în orașul Chowd.", "category": "historical", "coords": [91.640591, 48.004216]}, {"name": "Sangiin kherem", "text": "Fortăreața Hovd prezintă ruine istorice în orașul Chowd.", "category": "historical", "coords": [91.64094, 48.012346]}], "en": [{"name": "Khovd central museaum", "text": "The Khovd central museum is a cultural institution located in the city of Chowd.", "category": "museum", "coords": [91.640937, 48.006769]}, {"name": "Khovd Theater", "text": "Khovd Theater is a performing arts venue situated in Chowd.", "category": "cultural", "coords": [91.642816, 48.004162]}, {"name": "Khovd Park", "text": "Khovd Park is a theme park providing recreational spaces in Chowd.", "category": "family", "coords": [91.631495, 47.980804]}, {"name": "Ard Ayuush Monument", "text": "Ард Аюушийн хөшөө is a local monument located in the city of Chowd.", "category": "historical", "coords": [91.640591, 48.004216]}, {"name": "Fortress of Hovd", "text": "The Fortress of Hovd features historical ruins in the city of Chowd.", "category": "historical", "coords": [91.64094, 48.012346]}]},
+    id: "mn-khovd-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khovd central museum",
+                  "text": "Das Zentralmuseum der Provinz Khovd, das Artefakte zur lokalen Geschichte und kasachischen Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Khovd ?",
+                  "text": "Ein Theater in Khovd, das Schauspiel- und Musikvorführungen für die lokale Gemeinschaft veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642816,
+                        48.004162
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "Ein Familienpark in Khovd mit Spielplätzen, Spazierwegen und Picknickbereichen.",
+                  "category": "family",
+                  "coords": [
+                        91.631495,
+                        47.980804
+                  ]
+            },
+            {
+                  "name": "Ard Ayuush Monument",
+                  "text": "Ein Denkmal für Ard Ayuush, einen mongolischen Revolutionshelden, in Khovd.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Sangiin kherem",
+                  "text": "Die Fortress of Hovd umfasst historische Ruinen in der Stadt Chowd.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khovd central museum",
+                  "text": "Khovd tartomány központi múzeuma, amely a helyi történelem és a kazah kultúra tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Khovd ?",
+                  "text": "Egy színház Khovdban, amely színpadi és zenei előadásokat tart a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642816,
+                        48.004162
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "Egy családi park Khovdban játszóterekkel, sétányokkal és piknikezőhelyekkel.",
+                  "category": "family",
+                  "coords": [
+                        91.631495,
+                        47.980804
+                  ]
+            },
+            {
+                  "name": "Ard Ayuush Monument",
+                  "text": "Egy emlékmű Ard Ayuush-nak, egy mongol forradalmi hősnek, Khovdban.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Sangiin kherem",
+                  "text": "A Fortress of Hovd történelmi romokat rejt Chowd városában.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul central Khovd",
+                  "text": "Muzeul central al provinciei Khovd, care expune artefacte din istoria locală și cultura kazahă.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Khovd ?",
+                  "text": "Un teatru în Khovd, care găzduiește spectacole dramatice și muzicale pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642816,
+                        48.004162
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "Un parc familial în Khovd cu locuri de joacă, poteci de plimbare și zone de picnic.",
+                  "category": "family",
+                  "coords": [
+                        91.631495,
+                        47.980804
+                  ]
+            },
+            {
+                  "name": "Ard Ayuush Monument",
+                  "text": "Un monument în Khovd dedicat lui Ard Ayuush, un erou revoluționar mongol.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Sangiin kherem",
+                  "text": "Fortăreața Hovd prezintă ruine istorice în orașul Chowd.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khovd central museaum",
+                  "text": "The central museum of Khovd province, displaying artifacts from local history and Kazakh culture.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Khovd Theater",
+                  "text": "A theater in Khovd, hosting dramatic and musical performances for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642816,
+                        48.004162
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "A family park in Khovd with playgrounds, walking trails, and picnic areas.",
+                  "category": "family",
+                  "coords": [
+                        91.631495,
+                        47.980804
+                  ]
+            },
+            {
+                  "name": "Ard Ayuush Monument",
+                  "text": "A monument to Ard Ayuush, a Mongolian revolutionary hero, in Khovd.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Fortress of Hovd",
+                  "text": "The Fortress of Hovd features historical ruins in the city of Chowd.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-043",
     coords: [91.6419, 48.0056],
@@ -429,7 +2310,196 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Fondée en 1685 en tant que forteresse mandchoue", "Population d'environ 30 000 habitants", "À 1 405 mètres d'altitude sur la rivière Buyant", "17 groupes ethniques différents vivent dans la province", "Conquise sur la dynastie Qing par Magsarjav en 1912", "Université de Khovd depuis 1979", "Connue pour la culture de pastèques dans l'oasis de Buyant", "À 1 580 kilomètres à l'ouest d'Oulan-Bator"],
     }, image: "/poi-images/mn-khovd-cities-v2.webp"},
   {
-    id: "mn-olgii-cities-v2", "sights": {"de": [{"name": "Qazaq Dramatheater", "text": "Das Qazaq Dramatheater ist eine kulturelle Einrichtung in Ölgii.", "category": "cultural", "coords": [89.966736, 48.967109]}, {"name": "Bayan-Olgii Aimag Museum", "text": "Das Bayan-Ölgii Aimag Museum zeigt die Geschichte der Region.", "category": "museum", "coords": [89.970284, 48.969457]}, {"name": "Qymyzkhana", "text": "Die Qymyzkhana ist ein traditioneller Ort für Stutenmilch in Ölgii.", "category": "landmark", "coords": [89.962857, 48.968365]}, {"name": "olgii", "text": "Das Denkmal für Ikey Batir befindet sich in Ölgii.", "category": "historical", "coords": [89.971506, 48.968015]}, {"name": "Nairamdal tolgoi", "text": "Nayramdal Tolgoy ist ein Aussichtspunkt in Ölgii.", "category": "landmark", "coords": [89.981808, 48.979059]}], "hu": [{"name": "Qazaq Drámai Színház", "text": "A Qazaq Drámai Színház egy kulturális intézmény Ölgii-ben.", "category": "cultural", "coords": [89.966736, 48.967109]}, {"name": "Bayan-Ölgii Aimag Múzeum", "text": "A Bayan-Ölgii Aimag Múzeum a régió történelmét mutatja be.", "category": "museum", "coords": [89.970284, 48.969457]}, {"name": "Qymyzkhana", "text": "A Qymyzkhana egy hagyományos helyszín kancatej fogyasztására Ölgii-ben.", "category": "landmark", "coords": [89.962857, 48.968365]}, {"name": "olgii", "text": "Az Ikey Batir-emlékmű Ölgii városában található.", "category": "historical", "coords": [89.971506, 48.968015]}, {"name": "Nairamdal tolgoi", "text": "A Nayramdal Tolgoy egy kilátópont Ölgii-ben.", "category": "landmark", "coords": [89.981808, 48.979059]}], "ro": [{"name": "Teatrul de Dramă Qazaq", "text": "Teatrul de Dramă Qazaq este o instituție culturală în Ölgii.", "category": "cultural", "coords": [89.966736, 48.967109]}, {"name": "Bayan-Olgii Aimag Museum", "text": "Muzeul Bayan-Ölgii Aimag prezintă istoria regiunii.", "category": "museum", "coords": [89.970284, 48.969457]}, {"name": "Qymyzkhana", "text": "Qymyzkhana este un loc tradițional pentru lapte de iapă în Ölgii.", "category": "landmark", "coords": [89.962857, 48.968365]}, {"name": "olgii", "text": "Monumentul lui Ikey Batir se află în Ölgii.", "category": "historical", "coords": [89.971506, 48.968015]}, {"name": "Nairamdal tolgoi", "text": "Nayramdal Tolgoy este un punct de observare în Ölgii.", "category": "landmark", "coords": [89.981808, 48.979059]}], "en": [{"name": "Qazaq dram theatre", "text": "The Qazaq Drama Theatre is a cultural institution in Ölgii.", "category": "cultural", "coords": [89.966736, 48.967109]}, {"name": "Bayan-Ölgii Aimag Museum", "text": "The Bayan-Ölgii Aimag Museum showcases the history of the region.", "category": "museum", "coords": [89.970284, 48.969457]}, {"name": "Qymyzkhana", "text": "The Qymyzkhana is a traditional spot for mare's milk in Ölgii.", "category": "landmark", "coords": [89.962857, 48.968365]}, {"name": "Monument Ikey Batir", "text": "The Ikey Batir monument is located in Ölgii.", "category": "historical", "coords": [89.971506, 48.968015]}, {"name": "Nairamdal tolgoi", "text": "Nayramdal Tolgoy is a viewpoint in Ölgii.", "category": "landmark", "coords": [89.981808, 48.979059]}]},
+    id: "mn-olgii-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qazaq Dramatheater",
+                  "text": "Ein kasachischsprachiges Schauspieltheater in Olgii, das traditionelle und moderne Stücke zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.966736,
+                        48.967109
+                  ]
+            },
+            {
+                  "name": "Bayan-Olgii Aimag Museum",
+                  "text": "Museum des Bayan-Ölgii Aimag in Olgii, gegründet 1948.",
+                  "category": "museum",
+                  "coords": [
+                        89.970284,
+                        48.969457
+                  ]
+            },
+            {
+                  "name": "Qymyzkhana",
+                  "text": "Ein traditionelles Kumis-Haus in Olgii, das vergorene Stutenmilch in einer Jurte serviert.",
+                  "category": "landmark",
+                  "coords": [
+                        89.962857,
+                        48.968365
+                  ]
+            },
+            {
+                  "name": "olgii",
+                  "text": "Ein Denkmal für Ikey Batir, einen kasachischen Volkshelden, in Olgii.",
+                  "category": "historical",
+                  "coords": [
+                        89.971506,
+                        48.968015
+                  ]
+            },
+            {
+                  "name": "Nairamdal tolgoi",
+                  "text": "Ein Hügel-Wahrzeichen in Olgii, das Panoramablick auf das Altai-Gebirge bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.981808,
+                        48.979059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qazaq Drámai Színház",
+                  "text": "Egy kazah nyelvű drámaszínház Olgiiban, hagyományos és modern darabok bemutatásával.",
+                  "category": "cultural",
+                  "coords": [
+                        89.966736,
+                        48.967109
+                  ]
+            },
+            {
+                  "name": "Bayan-Ölgii Aimag Múzeum",
+                  "text": "Bayan-Ölgii Aimag múzeuma Olgii-ban, 1948-ban alapították.",
+                  "category": "museum",
+                  "coords": [
+                        89.970284,
+                        48.969457
+                  ]
+            },
+            {
+                  "name": "Qymyzkhana",
+                  "text": "Egy hagyományos kumisz-ház Olgiiban, ahol erjesztett kancatejet szolgálnak fel egy jurta környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        89.962857,
+                        48.968365
+                  ]
+            },
+            {
+                  "name": "olgii",
+                  "text": "Egy emlékmű Ikey Batir-nak, egy kazah népi hősnek, Olgiiban.",
+                  "category": "historical",
+                  "coords": [
+                        89.971506,
+                        48.968015
+                  ]
+            },
+            {
+                  "name": "Nairamdal tolgoi",
+                  "text": "Egy dombtetői nevezetesség Olgiiban, panorámás kilátással az Altaj-hegységre.",
+                  "category": "landmark",
+                  "coords": [
+                        89.981808,
+                        48.979059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatrul de Dramă Qazaq",
+                  "text": "Un teatru dramatic în limba kazahă în Olgii, care prezintă piese tradiționale și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        89.966736,
+                        48.967109
+                  ]
+            },
+            {
+                  "name": "Bayan-Olgii Aimag Museum",
+                  "text": "Muzeul Aimag-ului Bayan-Ölgii din Olgii, fondat în 1948.",
+                  "category": "museum",
+                  "coords": [
+                        89.970284,
+                        48.969457
+                  ]
+            },
+            {
+                  "name": "Qymyzkhana",
+                  "text": "O casă tradițională de kumis în Olgii, care servește lapte de iapă fermentat într-un cadru de iurtă.",
+                  "category": "landmark",
+                  "coords": [
+                        89.962857,
+                        48.968365
+                  ]
+            },
+            {
+                  "name": "olgii",
+                  "text": "Un monument în Olgii dedicat lui Ikey Batir, un erou popular kazah.",
+                  "category": "historical",
+                  "coords": [
+                        89.971506,
+                        48.968015
+                  ]
+            },
+            {
+                  "name": "Nairamdal tolgoi",
+                  "text": "Un reper pe vârful unui deal în Olgii, care oferă vederi panoramice asupra Munților Altai.",
+                  "category": "landmark",
+                  "coords": [
+                        89.981808,
+                        48.979059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qazaq dram theatre",
+                  "text": "A Kazakh-language drama theatre in Olgii, showcasing traditional and modern plays.",
+                  "category": "cultural",
+                  "coords": [
+                        89.966736,
+                        48.967109
+                  ]
+            },
+            {
+                  "name": "Bayan-Ölgii Aimag Museum",
+                  "text": "Bayan-Ölgii Aimag Museum in Olgii, founded in 1948.",
+                  "category": "museum",
+                  "coords": [
+                        89.970284,
+                        48.969457
+                  ]
+            },
+            {
+                  "name": "Qymyzkhana",
+                  "text": "A traditional kumis house in Olgii, serving fermented mare's milk in a yurt setting.",
+                  "category": "landmark",
+                  "coords": [
+                        89.962857,
+                        48.968365
+                  ]
+            },
+            {
+                  "name": "Monument Ikey Batir",
+                  "text": "A monument to Ikey Batir, a Kazakh folk hero, in Olgii.",
+                  "category": "historical",
+                  "coords": [
+                        89.971506,
+                        48.968015
+                  ]
+            },
+            {
+                  "name": "Nairamdal tolgoi",
+                  "text": "A hilltop landmark in Olgii, offering panoramic views of the Altai Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        89.981808,
+                        48.979059
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-071",
     coords: [89.9668, 48.9667],
@@ -575,7 +2645,304 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 27 000 habitants", "À 939 m d'altitude dans le bassin des Grands Lacs", "Capitale de la province d'Uvs depuis 1925", "À 30 km de l'Uvs Nuur, plus grand lac du pays", "Uvs Nuur classé à l'UNESCO depuis 2003", "Amplitude thermique de -50 à +40 degrés", "Foyer du groupe ethnique Dörwöd", "Origine monastique (lignée Sangiin) en 1757"],
     }, image: "/poi-images/mn-ulaangom-cities-v2.webp"},
   {
-    id: "mn-arvaikheer-cities-v2", "sights": {"de": [{"name": "Khulan ger", "text": "Хулан гэр ist eine Schlossanlage in Arwaicheer.", "category": "castle", "coords": [102.760735, 46.265644]}, {"name": "Uvurkhangai Aimag Music and Drama Theater", "text": "Өвөрхангай аймгийн хөгжимт драмын театр ist ein Theater in der Stadt Arwaicheer.", "category": "cultural", "coords": [102.778643, 46.266673]}, {"name": "Övörkhangai Aimag Museum", "text": "Das Övörkhangai Aimag Museum ist eine kulturelle Einrichtung in Arwaicheer.", "category": "museum", "coords": [102.779611, 46.263704]}, {"name": "Park", "text": "Парк ist ein Freizeit- und Erholungspark in Arwaicheer.", "category": "family", "coords": [102.788573, 46.263993]}, {"name": "Central Showerhouse", "text": "Das Central Showerhouse dient als lokaler Aussichtspunkt in Arwaicheer.", "category": "natural", "coords": [102.774, 46.265666]}, {"name": "Health Department", "text": "Das Gebäude des Health Department ist ein bekannter Aussichtspunkt in Arwaicheer.", "category": "natural", "coords": [102.783617, 46.268745]}, {"name": "GANDAN KhIID", "text": "ГАНДАН ХИЙД ist ein bemerkenswerter Aussichtspunkt in der Stadt Arwaicheer.", "category": "natural", "coords": [102.768789, 46.272357]}, {"name": "Ayuushiin ger", "text": "Ayush ger ist ein lokaler Aussichtspunkt in Arwaicheer.", "category": "natural", "coords": [102.781003, 46.26033]}], "hu": [{"name": "Khulan ger", "text": "A Хулан гэр egy kastélyépület Arwaicheer városában.", "category": "castle", "coords": [102.760735, 46.265644]}, {"name": "Uvurkhangai Aimag Music and Drama Theater", "text": "A Өвөрхангай аймгийн хөгжимт драмын театр egy színház Arwaicheer városában.", "category": "cultural", "coords": [102.778643, 46.266673]}, {"name": "Övörkhangai Aimag Museum", "text": "Az Övörkhangai Aimag Museum egy kulturális intézmény Arwaicheer városában.", "category": "museum", "coords": [102.779611, 46.263704]}, {"name": "Park", "text": "A Парк egy vidámpark és pihenőövezet Arwaicheer városában.", "category": "family", "coords": [102.788573, 46.263993]}, {"name": "Central Showerhouse", "text": "A Central Showerhouse egy helyi kilátópont Arwaicheer városában.", "category": "natural", "coords": [102.774, 46.265666]}, {"name": "Health Department", "text": "A Health Department épülete egy ismert kilátópont Arwaicheer városában.", "category": "natural", "coords": [102.783617, 46.268745]}, {"name": "GANDAN KhIID", "text": "A ГАНДАН ХИЙД egy jelentős kilátópont Arwaicheer városában.", "category": "natural", "coords": [102.768789, 46.272357]}, {"name": "Ayuushiin ger", "text": "Az Ayush ger egy helyi kilátópont Arwaicheer városában.", "category": "natural", "coords": [102.781003, 46.26033]}], "ro": [{"name": "Khulan ger", "text": "Хулан гэр este o structură de tip castel situată în Arwaicheer.", "category": "castle", "coords": [102.760735, 46.265644]}, {"name": "Uvurkhangai Aimag Music and Drama Theater", "text": "Өвөрхангай аймгийн хөгжимт драмын театр este un teatru din orașul Arwaicheer.", "category": "cultural", "coords": [102.778643, 46.266673]}, {"name": "Muzeul Övörkhangai Aimag", "text": "Muzeul Övörkhangai Aimag este o instituție culturală situată în Arwaicheer.", "category": "museum", "coords": [102.779611, 46.263704]}, {"name": "Park", "text": "Парк este un parc tematic și zonă de recreere aflat în Arwaicheer.", "category": "family", "coords": [102.788573, 46.263993]}, {"name": "Central Showerhouse", "text": "Central Showerhouse servește drept punct de belvedere local în Arwaicheer.", "category": "natural", "coords": [102.774, 46.265666]}, {"name": "Health Department", "text": "Clădirea Health Department este recunoscută ca un punct de belvedere în Arwaicheer.", "category": "natural", "coords": [102.783617, 46.268745]}, {"name": "GANDAN KhIID", "text": "ГАНДАН ХИЙД este un punct de belvedere notabil din orașul Arwaicheer.", "category": "natural", "coords": [102.768789, 46.272357]}, {"name": "Ayuushiin ger", "text": "Ayush ger este un punct de belvedere local aflat în Arwaicheer.", "category": "natural", "coords": [102.781003, 46.26033]}], "en": [{"name": "Khulan ger", "text": "Хулан гэр is a castle structure situated in Arwaicheer.", "category": "castle", "coords": [102.760735, 46.265644]}, {"name": "Uvurkhangai Aimag Music and Drama Theater", "text": "Өвөрхангай аймгийн хөгжимт драмын театр is a theatre in the city of Arwaicheer.", "category": "cultural", "coords": [102.778643, 46.266673]}, {"name": "Övörkhangai Aimag Museum", "text": "The Övörkhangai Aimag Museum is a cultural institution located in Arwaicheer.", "category": "museum", "coords": [102.779611, 46.263704]}, {"name": "Park", "text": "Парк is a theme park and recreational area located in Arwaicheer.", "category": "family", "coords": [102.788573, 46.263993]}, {"name": "Central Showerhouse", "text": "The Central Showerhouse serves as a local viewpoint in Arwaicheer.", "category": "natural", "coords": [102.774, 46.265666]}, {"name": "Health Department", "text": "The Health Department building is recognized as a viewpoint in Arwaicheer.", "category": "natural", "coords": [102.783617, 46.268745]}, {"name": "GANDAN KhIID", "text": "ГАНДАН ХИЙД is a notable viewpoint in the city of Arwaicheer.", "category": "natural", "coords": [102.768789, 46.272357]}, {"name": "Ayush ger", "text": "Ayush ger is a local viewpoint located in Arwaicheer.", "category": "natural", "coords": [102.781003, 46.26033]}]},
+    id: "mn-arvaikheer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khulan ger",
+                  "text": "Eine als Schloss gestaltete Jurte in Arvaikheer, die für kulturelle Veranstaltungen und Vorführungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        102.760735,
+                        46.265644
+                  ]
+            },
+            {
+                  "name": "Uvurkhangai Aimag Music and Drama Theater",
+                  "text": "Das Provinz-Musik- und Schauspieltheater von Övörkhangai in Arvaikheer.",
+                  "category": "cultural",
+                  "coords": [
+                        102.778643,
+                        46.266673
+                  ]
+            },
+            {
+                  "name": "Övörkhangai Aimag Museum",
+                  "text": "Museum des Övörkhangai Aimag in Arvaikheer, gegründet 1951.",
+                  "category": "museum",
+                  "coords": [
+                        102.779611,
+                        46.263704
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Ein zentraler Park in Arvaikheer mit einem Spielplatz und Spazierwegen.",
+                  "category": "family",
+                  "coords": [
+                        102.788573,
+                        46.263993
+                  ]
+            },
+            {
+                  "name": "Central Showerhouse",
+                  "text": "Das Central Showerhouse dient als lokaler Aussichtspunkt in Arwaicheer.",
+                  "category": "natural",
+                  "coords": [
+                        102.774,
+                        46.265666
+                  ]
+            },
+            {
+                  "name": "Health Department",
+                  "text": "Das Gebäude des Health Department ist ein bekannter Aussichtspunkt in Arwaicheer.",
+                  "category": "natural",
+                  "coords": [
+                        102.783617,
+                        46.268745
+                  ]
+            },
+            {
+                  "name": "GANDAN KhIID",
+                  "text": "Eine heilige Naturstätte in der Nähe von Arvaikheer, die mit dem Gandan-Kloster verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        102.768789,
+                        46.272357
+                  ]
+            },
+            {
+                  "name": "Ayuushiin ger",
+                  "text": "Eine traditionelle Jurte in einer natürlichen Umgebung außerhalb von Arvaikheer, die für den Kulturtourismus genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        102.781003,
+                        46.26033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khulan ger",
+                  "text": "Egy várrá alakított jurta Arvaikheerben, kulturális események és bemutatók céljára.",
+                  "category": "castle",
+                  "coords": [
+                        102.760735,
+                        46.265644
+                  ]
+            },
+            {
+                  "name": "Uvurkhangai Aimag Music and Drama Theater",
+                  "text": "Övörkhangai tartomány zenei és drámaszínháza Arvaikheerben.",
+                  "category": "cultural",
+                  "coords": [
+                        102.778643,
+                        46.266673
+                  ]
+            },
+            {
+                  "name": "Övörkhangai Aimag Museum",
+                  "text": "Övörkhangai Aimag múzeuma Arvaikheerben, 1951-ben alapították.",
+                  "category": "museum",
+                  "coords": [
+                        102.779611,
+                        46.263704
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Egy központi park Arvaikheerben játszótérrel és sétányokkal.",
+                  "category": "family",
+                  "coords": [
+                        102.788573,
+                        46.263993
+                  ]
+            },
+            {
+                  "name": "Central Showerhouse",
+                  "text": "A Central Showerhouse egy helyi kilátópont Arwaicheer városában.",
+                  "category": "natural",
+                  "coords": [
+                        102.774,
+                        46.265666
+                  ]
+            },
+            {
+                  "name": "Health Department",
+                  "text": "A Health Department épülete egy ismert kilátópont Arwaicheer városában.",
+                  "category": "natural",
+                  "coords": [
+                        102.783617,
+                        46.268745
+                  ]
+            },
+            {
+                  "name": "GANDAN KhIID",
+                  "text": "Egy szent természeti hely Arvaikheer közelében, a Gandan-kolostorhoz kapcsolódóan.",
+                  "category": "natural",
+                  "coords": [
+                        102.768789,
+                        46.272357
+                  ]
+            },
+            {
+                  "name": "Ayuushiin ger",
+                  "text": "Egy hagyományos jurta természetes környezetben Arvaikheer közelében, kulturális turizmusra használva.",
+                  "category": "natural",
+                  "coords": [
+                        102.781003,
+                        46.26033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khulan ger",
+                  "text": "Un iurtă proiectată ca un castel în Arvaikheer, folosită pentru evenimente culturale și demonstrații.",
+                  "category": "castle",
+                  "coords": [
+                        102.760735,
+                        46.265644
+                  ]
+            },
+            {
+                  "name": "Uvurkhangai Aimag Music and Drama Theater",
+                  "text": "Teatrul de muzică și dramă al provinciei Övörkhangai din Arvaikheer.",
+                  "category": "cultural",
+                  "coords": [
+                        102.778643,
+                        46.266673
+                  ]
+            },
+            {
+                  "name": "Muzeul Övörkhangai Aimag",
+                  "text": "Muzeul Aimag-ului Övörkhangai din Arvaikheer, fondat în 1951.",
+                  "category": "museum",
+                  "coords": [
+                        102.779611,
+                        46.263704
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Un parc central în Arvaikheer cu un loc de joacă și poteci de plimbare.",
+                  "category": "family",
+                  "coords": [
+                        102.788573,
+                        46.263993
+                  ]
+            },
+            {
+                  "name": "Central Showerhouse",
+                  "text": "Central Showerhouse servește drept punct de belvedere local în Arwaicheer.",
+                  "category": "natural",
+                  "coords": [
+                        102.774,
+                        46.265666
+                  ]
+            },
+            {
+                  "name": "Health Department",
+                  "text": "Clădirea Health Department este recunoscută ca un punct de belvedere în Arwaicheer.",
+                  "category": "natural",
+                  "coords": [
+                        102.783617,
+                        46.268745
+                  ]
+            },
+            {
+                  "name": "GANDAN KhIID",
+                  "text": "Un sit natural sacru lângă Arvaikheer, asociat cu Mănăstirea Gandan.",
+                  "category": "natural",
+                  "coords": [
+                        102.768789,
+                        46.272357
+                  ]
+            },
+            {
+                  "name": "Ayuushiin ger",
+                  "text": "Un iurtă tradițională într-un cadru natural lângă Arvaikheer, folosită pentru turism cultural.",
+                  "category": "natural",
+                  "coords": [
+                        102.781003,
+                        46.26033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khulan ger",
+                  "text": "A ger (yurt) designed as a castle in Arvaikheer, used for cultural events and demonstrations.",
+                  "category": "castle",
+                  "coords": [
+                        102.760735,
+                        46.265644
+                  ]
+            },
+            {
+                  "name": "Uvurkhangai Aimag Music and Drama Theater",
+                  "text": "The provincial music and drama theater of Övörkhangai in Arvaikheer.",
+                  "category": "cultural",
+                  "coords": [
+                        102.778643,
+                        46.266673
+                  ]
+            },
+            {
+                  "name": "Övörkhangai Aimag Museum",
+                  "text": "Övörkhangai Aimag Museum in Arvaikheer, founded in 1951.",
+                  "category": "museum",
+                  "coords": [
+                        102.779611,
+                        46.263704
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "A central park in Arvaikheer with a playground and walking paths.",
+                  "category": "family",
+                  "coords": [
+                        102.788573,
+                        46.263993
+                  ]
+            },
+            {
+                  "name": "Central Showerhouse",
+                  "text": "The Central Showerhouse serves as a local viewpoint in Arwaicheer.",
+                  "category": "natural",
+                  "coords": [
+                        102.774,
+                        46.265666
+                  ]
+            },
+            {
+                  "name": "Health Department",
+                  "text": "The Health Department building is recognized as a viewpoint in Arwaicheer.",
+                  "category": "natural",
+                  "coords": [
+                        102.783617,
+                        46.268745
+                  ]
+            },
+            {
+                  "name": "GANDAN KhIID",
+                  "text": "A sacred natural site near Arvaikheer, associated with the Gandan Monastery.",
+                  "category": "natural",
+                  "coords": [
+                        102.768789,
+                        46.272357
+                  ]
+            },
+            {
+                  "name": "Ayush ger",
+                  "text": "A traditional ger (yurt) in a natural setting outside Arvaikheer, used for cultural tourism.",
+                  "category": "natural",
+                  "coords": [
+                        102.781003,
+                        46.26033
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-055",
     coords: [102.7750, 46.2639],
@@ -648,7 +3015,700 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 26 000 habitants", "À 1 913 mètres d'altitude dans la steppe", "Capitale de la province d'Övörkhangai depuis 1942", "Le nom signifie \"cheval brun-orge\" d'après un cheval de course", "À 138 kilomètres des ruines de Karakorum", "Proche du monastère d'Erdene Zuu de 1585", "Vallée de l'Orkhon classée à l'UNESCO depuis 2004", "Route goudronnée vers Oulan-Bator depuis 2014"],
     }, image: "/poi-images/mn-arvaikheer-cities-v2.webp"},
   {
-    id: "mn-tsetserleg-cities-v2",
+    id: "mn-tsetserleg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minzhuuriin khoshoo",
+                  "text": "Ein Denkmal in Tsetserleg zu Ehren einer angesehenen lokalen Persönlichkeit aus der Region Arkhangai.",
+                  "category": "landmark",
+                  "coords": [
+                        101.456584,
+                        47.477048
+                  ]
+            },
+            {
+                  "name": "Zham'iaany khoshoo",
+                  "text": "Eine Statue und Gedenkstätte, die einer bedeutenden Persönlichkeit in der Stadtgeschichte gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.45483,
+                        47.476598
+                  ]
+            },
+            {
+                  "name": "Demid zhanzhiny khoshoo",
+                  "text": "Ein Denkmal auf einem Hügel für den mongolischen Militärführer mit Panoramablick über Tsetserleg.",
+                  "category": "natural",
+                  "coords": [
+                        101.453245,
+                        47.476685
+                  ]
+            },
+            {
+                  "name": "Bokh Bilegtiin khoshoo",
+                  "text": "Ein Denkmal im Stadtzentrum zu Ehren eines berühmten lokalen Ringers oder Helden.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454063,
+                        47.479603
+                  ]
+            },
+            {
+                  "name": "Balgas",
+                  "text": "Die verwitterten Erdreste einer alten Siedlung oder Festung am Rande der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        101.451241,
+                        47.480795
+                  ]
+            },
+            {
+                  "name": "Arkhangai Aimag Museum",
+                  "text": "Dieses in einem ehemaligen Kloster untergebrachte Museum zeigt nomadische Trachten und historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        101.452208,
+                        47.480699
+                  ]
+            },
+            {
+                  "name": "Zaiayn khuree Togs baiasgalant buian delgeruulekh khiid",
+                  "text": "Ein aktives buddhistisches Kloster, in dem Besucher Mönche während ihrer Morgengebete beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        101.451528,
+                        47.479565
+                  ]
+            },
+            {
+                  "name": "Bilge khaany khoshoo",
+                  "text": "Eine Statue des alten türkischen Herrschers, die die tiefe Geschichte des Orchon-Tals widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452235,
+                        47.473207
+                  ]
+            },
+            {
+                  "name": "Abandoned factory",
+                  "text": "Ein markantes Industrierelikt aus der sozialistischen Ära, das an die industrielle Vergangenheit der Stadt erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.474884,
+                        47.460085
+                  ]
+            },
+            {
+                  "name": "2 Modny rashaan",
+                  "text": "Eine natürliche Mineralquelle, benannt nach zwei markanten Bäumen, die ihren Standort kennzeichnen.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423333,
+                        47.482604
+                  ]
+            },
+            {
+                  "name": "Khondlon bulag",
+                  "text": "Eine Kaltwasserquelle, an der sich Einheimische versammeln, um frisches Trinkwasser zu holen.",
+                  "category": "landmark",
+                  "coords": [
+                        101.438422,
+                        47.488935
+                  ]
+            },
+            {
+                  "name": "Bulgan uul",
+                  "text": "Ein heiliger Granitberg, der über der Stadt thront und mit buddhistischen Felsmalereien verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449583,
+                        47.483819
+                  ]
+            },
+            {
+                  "name": "Zhamgany bulag",
+                  "text": "Eine lokale Wasserquelle, bekannt für ihre Reinheit, am Fuße der umliegenden Hügel gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454461,
+                        47.48835
+                  ]
+            },
+            {
+                  "name": "Gakhain bulag",
+                  "text": "Eine traditionelle Quellstätte, die von den Bewohnern der Region Tsetserleg seit Generationen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46325,
+                        47.490528
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn teatr",
+                  "text": "Ein regionales Theater, in dem traditionelle mongolische Musikdarbietungen und Dramen aufgeführt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        101.458556,
+                        47.472893
+                  ]
+            },
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "Ein Museum, das die Flora, Fauna und geologischen Proben der Provinz Arkhangai zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        101.451668,
+                        47.496853
+                  ]
+            },
+            {
+                  "name": "mod",
+                  "text": "Ein heiliger Baum, geschmückt mit blauen Gebetsfahnen, der als Ort für schamanische oder buddhistische Rituale dient.",
+                  "category": "religious",
+                  "coords": [
+                        101.445053,
+                        47.477725
+                  ]
+            },
+            {
+                  "name": "Khunsnii zakh",
+                  "text": "Ein lebhafter lokaler Markt, auf dem traditionelle Milchprodukte wie Aaruul und frisches Fleisch verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        101.460192,
+                        47.475945
+                  ]
+            },
+            {
+                  "name": "Khasu",
+                  "text": "Ein lebhafter Markt in Tsetserleg, der für sein traditionelles mongolisches Filzhandwerk und frische Yak-Milchprodukte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        101.456352,
+                        47.473569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minzhuuriin khoshoo",
+                  "text": "Emlékmű Tsetserlegben egy tisztelt helyi személyiség tiszteletére az Arkhangai régióból.",
+                  "category": "landmark",
+                  "coords": [
+                        101.456584,
+                        47.477048
+                  ]
+            },
+            {
+                  "name": "Zham'iaany khoshoo",
+                  "text": "Szobor és emlékhely a város történelmének egy nevezetes alakja előtt tisztelegve.",
+                  "category": "landmark",
+                  "coords": [
+                        101.45483,
+                        47.476598
+                  ]
+            },
+            {
+                  "name": "Demid zhanzhiny khoshoo",
+                  "text": "Domboldali emlékmű a mongol katonai vezetőnek, amely panorámás kilátást nyújt Tsetserlegre.",
+                  "category": "natural",
+                  "coords": [
+                        101.453245,
+                        47.476685
+                  ]
+            },
+            {
+                  "name": "Bokh Bilegtiin khoshoo",
+                  "text": "A városközpontban álló emlékmű egy híres helyi birkózó vagy hős tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454063,
+                        47.479603
+                  ]
+            },
+            {
+                  "name": "Balgas",
+                  "text": "Egy ősi település vagy erődítmény kopott földmaradványai a város szélén.",
+                  "category": "historical",
+                  "coords": [
+                        101.451241,
+                        47.480795
+                  ]
+            },
+            {
+                  "name": "Arkhangai Aimag Museum",
+                  "text": "Egy egykori kolostorban elhelyezett múzeum, amely nomád viseleteket és történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        101.452208,
+                        47.480699
+                  ]
+            },
+            {
+                  "name": "Zaiayn khuree Togs baiasgalant buian delgeruulekh khiid",
+                  "text": "Aktív buddhista kolostor, ahol a látogatók megfigyelhetik a szerzeteseket a reggeli ima közben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.451528,
+                        47.479565
+                  ]
+            },
+            {
+                  "name": "Bilge khaany khoshoo",
+                  "text": "Az ősi türk uralkodót ábrázoló szobor, amely az Orkhon-völgy mély történelmét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452235,
+                        47.473207
+                  ]
+            },
+            {
+                  "name": "Abandoned factory",
+                  "text": "A szocialista korszakból származó ipari ereklye, amely a város gyártási múltjára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.474884,
+                        47.460085
+                  ]
+            },
+            {
+                  "name": "2 Modny rashaan",
+                  "text": "Természetes ásványvízforrás, amelyet a helyét jelző két nevezetes fáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423333,
+                        47.482604
+                  ]
+            },
+            {
+                  "name": "Khondlon bulag",
+                  "text": "Hideg vizű forrás, ahol a helyiek friss ivóvizet gyűjtenek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.438422,
+                        47.488935
+                  ]
+            },
+            {
+                  "name": "Bulgan uul",
+                  "text": "A város fölé magasodó szent gránithegy, szikláin buddhista festményekkel díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449583,
+                        47.483819
+                  ]
+            },
+            {
+                  "name": "Zhamgany bulag",
+                  "text": "Tisztaságáról ismert helyi vízforrás a környező dombok tövében.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454461,
+                        47.48835
+                  ]
+            },
+            {
+                  "name": "Gakhain bulag",
+                  "text": "Hagyományos forráshely, amelyet a Tsetserleg környéki lakosok generációk óta használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46325,
+                        47.490528
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn teatr",
+                  "text": "Regionális színház, amely hagyományos mongol zenei előadásoknak és drámáknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        101.458556,
+                        47.472893
+                  ]
+            },
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "Az Arkhangai tartomány növény- és állatvilágát, valamint kőzetmintáit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        101.451668,
+                        47.496853
+                  ]
+            },
+            {
+                  "name": "mod",
+                  "text": "Kék imazászlókkal díszített szent fa, amely helyi sámánisztikus vagy buddhista rituálék helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        101.445053,
+                        47.477725
+                  ]
+            },
+            {
+                  "name": "Khunsnii zakh",
+                  "text": "Nyüzsgő helyi piac, ahol hagyományos tejtermékeket, például aarult és friss húst árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.460192,
+                        47.475945
+                  ]
+            },
+            {
+                  "name": "Khasu",
+                  "text": "Tsetserleg nyüzsgő piaca, amely hagyományos mongol nemeztermékeiről és friss jaktejből készült ételeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        101.456352,
+                        47.473569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minzhuuriin khoshoo",
+                  "text": "Un monument în Tsetserleg care onorează o figură locală respectată din regiunea Arkhangai.",
+                  "category": "landmark",
+                  "coords": [
+                        101.456584,
+                        47.477048
+                  ]
+            },
+            {
+                  "name": "Zham'iaany khoshoo",
+                  "text": "O statuie și un sit memorial dedicat unei figuri notabile din istoria orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        101.45483,
+                        47.476598
+                  ]
+            },
+            {
+                  "name": "Demid zhanzhiny khoshoo",
+                  "text": "Un monument pe deal dedicat liderului militar mongol, oferind o vedere panoramică asupra Tsetserleg.",
+                  "category": "natural",
+                  "coords": [
+                        101.453245,
+                        47.476685
+                  ]
+            },
+            {
+                  "name": "Bokh Bilegtiin khoshoo",
+                  "text": "Un monument care celebrează un luptător sau erou local faimos, situat în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454063,
+                        47.479603
+                  ]
+            },
+            {
+                  "name": "Balgas",
+                  "text": "Rămășițele de pământ erodate ale unei vechi așezări sau cetăți de la marginea orașului.",
+                  "category": "historical",
+                  "coords": [
+                        101.451241,
+                        47.480795
+                  ]
+            },
+            {
+                  "name": "Arkhangai Aimag Museum",
+                  "text": "Gazduit într-o fostă mănăstire, acest muzeu prezintă costume nomade și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        101.452208,
+                        47.480699
+                  ]
+            },
+            {
+                  "name": "Zaiayn khuree Togs baiasgalant buian delgeruulekh khiid",
+                  "text": "O mănăstire budistă activă unde vizitatorii pot observa călugării în timpul rugăciunilor de dimineață.",
+                  "category": "landmark",
+                  "coords": [
+                        101.451528,
+                        47.479565
+                  ]
+            },
+            {
+                  "name": "Bilge khaany khoshoo",
+                  "text": "O statuie care îl înfățișează pe vechiul conducător turcic, reflectând istoria profundă a văii Orhon.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452235,
+                        47.473207
+                  ]
+            },
+            {
+                  "name": "Abandoned factory",
+                  "text": "O relicvă industrială din epoca socialistă, care amintește de trecutul manufacturier al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        101.474884,
+                        47.460085
+                  ]
+            },
+            {
+                  "name": "2 Modny rashaan",
+                  "text": "Un izvor mineral natural numit după doi copaci proeminenți care îi marchează locația.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423333,
+                        47.482604
+                  ]
+            },
+            {
+                  "name": "Khondlon bulag",
+                  "text": "Un izvor de apă rece unde localnicii se adună pentru a colecta apă potabilă proaspătă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.438422,
+                        47.488935
+                  ]
+            },
+            {
+                  "name": "Bulgan uul",
+                  "text": "Un munte sacru de granit care domină orașul, împodobit cu picturi budiste pe stâncile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449583,
+                        47.483819
+                  ]
+            },
+            {
+                  "name": "Zhamgany bulag",
+                  "text": "O sursă locală de apă cunoscută pentru puritatea sa, situată la baza dealurilor înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454461,
+                        47.48835
+                  ]
+            },
+            {
+                  "name": "Gakhain bulag",
+                  "text": "Un sit cu izvor tradițional folosit de rezidenți de generații în zona Tsetserleg.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46325,
+                        47.490528
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn teatr",
+                  "text": "Un teatru regional care găzduiește spectacole muzicale tradiționale mongole și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        101.458556,
+                        47.472893
+                  ]
+            },
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "Un muzeu care prezintă flora, fauna și specimenele geologice din provincia Arkhangai.",
+                  "category": "museum",
+                  "coords": [
+                        101.451668,
+                        47.496853
+                  ]
+            },
+            {
+                  "name": "mod",
+                  "text": "Un copac sacru împodobit cu steaguri de rugăciune albastre, servind ca loc pentru ritualuri șamanice sau budiste.",
+                  "category": "religious",
+                  "coords": [
+                        101.445053,
+                        47.477725
+                  ]
+            },
+            {
+                  "name": "Khunsnii zakh",
+                  "text": "O piață locală vibrantă unde vânzătorii vând produse lactate tradiționale, cum ar fi aaruul, și carne proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        101.460192,
+                        47.475945
+                  ]
+            },
+            {
+                  "name": "Khasu",
+                  "text": "O piață plină de viață în Tsetserleg, cunoscută pentru artizanatul tradițional din pâslă și produsele proaspete din lapte de iac.",
+                  "category": "cultural",
+                  "coords": [
+                        101.456352,
+                        47.473569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minjuur memorial",
+                  "text": "A monument in Tsetserleg honoring a respected local figure from the Arkhangai region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.456584,
+                        47.477048
+                  ]
+            },
+            {
+                  "name": "Jamiyan memorial",
+                  "text": "A statue and memorial site dedicated to a notable figure in the town's history.",
+                  "category": "landmark",
+                  "coords": [
+                        101.45483,
+                        47.476598
+                  ]
+            },
+            {
+                  "name": "Demid's memorial",
+                  "text": "A hilltop monument to the Mongolian military leader, offering a panoramic view of Tsetserleg.",
+                  "category": "natural",
+                  "coords": [
+                        101.453245,
+                        47.476685
+                  ]
+            },
+            {
+                  "name": "Bukh Bilegt's memorial",
+                  "text": "A monument celebrating a famous local wrestler or hero in the center of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454063,
+                        47.479603
+                  ]
+            },
+            {
+                  "name": "Balgas",
+                  "text": "The weathered earthen remains of an ancient settlement or fortress on the outskirts of the town.",
+                  "category": "historical",
+                  "coords": [
+                        101.451241,
+                        47.480795
+                  ]
+            },
+            {
+                  "name": "Arkhangai Aimag Museum",
+                  "text": "Housed in a former monastery, this museum features nomadic costumes and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        101.452208,
+                        47.480699
+                  ]
+            },
+            {
+                  "name": "Tugs bayasgalant buyan delgeruuleh hiid",
+                  "text": "An active Buddhist monastery where visitors can observe monks during their morning prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.451528,
+                        47.479565
+                  ]
+            },
+            {
+                  "name": "Bilge king's statue",
+                  "text": "A statue depicting the ancient Turkic ruler, reflecting the deep history of the Orkhon Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452235,
+                        47.473207
+                  ]
+            },
+            {
+                  "name": "Abandoned factory",
+                  "text": "A stark industrial relic from the socialist era, standing as a reminder of the town's manufacturing past.",
+                  "category": "landmark",
+                  "coords": [
+                        101.474884,
+                        47.460085
+                  ]
+            },
+            {
+                  "name": "2 modnii spring",
+                  "text": "A natural mineral spring named after two prominent trees that mark its location.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423333,
+                        47.482604
+                  ]
+            },
+            {
+                  "name": "Khundlun spring",
+                  "text": "A cold-water spring where locals gather to collect fresh drinking water.",
+                  "category": "landmark",
+                  "coords": [
+                        101.438422,
+                        47.488935
+                  ]
+            },
+            {
+                  "name": "Bulgan Mountain",
+                  "text": "A sacred granite mountain towering over the town, adorned with Buddhist paintings on its rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449583,
+                        47.483819
+                  ]
+            },
+            {
+                  "name": "Jamgan spring",
+                  "text": "A local water source known for its purity, located at the base of the surrounding hills.",
+                  "category": "landmark",
+                  "coords": [
+                        101.454461,
+                        47.48835
+                  ]
+            },
+            {
+                  "name": "Gakhai spring",
+                  "text": "A traditional spring site used by residents for generations in the Tsetserleg area.",
+                  "category": "landmark",
+                  "coords": [
+                        101.46325,
+                        47.490528
+                  ]
+            },
+            {
+                  "name": "Khogzhimt Dramyn teatr",
+                  "text": "A regional theater hosting traditional Mongolian musical performances and dramatic plays.",
+                  "category": "cultural",
+                  "coords": [
+                        101.458556,
+                        47.472893
+                  ]
+            },
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "A museum showcasing the flora, fauna, and geological specimens of the Arkhangai province.",
+                  "category": "museum",
+                  "coords": [
+                        101.451668,
+                        47.496853
+                  ]
+            },
+            {
+                  "name": "mod",
+                  "text": "A sacred tree adorned with blue prayer flags, serving as a site for local shamanic or Buddhist rituals.",
+                  "category": "religious",
+                  "coords": [
+                        101.445053,
+                        47.477725
+                  ]
+            },
+            {
+                  "name": "Khunsnii zakh",
+                  "text": "A vibrant local market where vendors sell traditional dairy products like aaruul and fresh meat.",
+                  "category": "cultural",
+                  "coords": [
+                        101.460192,
+                        47.475945
+                  ]
+            },
+            {
+                  "name": "Khasu",
+                  "text": "A bustling market in Tsetserleg known for traditional Mongolian felt crafts and fresh yak dairy products.",
+                  "category": "cultural",
+                  "coords": [
+                        101.456352,
+                        47.473569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-073",
     coords: [101.4542, 47.4750],
@@ -721,7 +3781,88 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 21 000 habitants", "À 1 691 mètres d'altitude dans le massif du Khangai", "Capitale de la province de l'Arkhangai depuis 1923", "Monastère Zayain (1586) avec plus de 5 000 objets", "Le monastère a survécu aux purges comme entrepôt", "Source chaude de Tsenkher (86 degrés) à 28 km", "Proche du cratère Khorgo et du volcan Tariat", "Fondation de la ville en 1631 comme colonie monastique"],
     }, image: "/poi-images/mn-tsetserleg-cities-v2.webp"},
   {
-    id: "mn-sukhbaatar-cities-v2",
+    id: "mn-sukhbaatar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamgiin gazar",
+                  "text": "Ein erhöhter Aussichtspunkt in Sükhbaatar, der einen Panoramablick über die Grenzstadt am Selenge-Fluss bietet.",
+                  "category": "natural",
+                  "coords": [
+                        106.193933,
+                        50.243003
+                  ]
+            },
+            {
+                  "name": "Selenge baptist sum",
+                  "text": "Diese Kirche dient der wachsenden baptistischen Glaubensgemeinschaft in der Grenzregion Selenge.",
+                  "category": "religious",
+                  "coords": [
+                        106.212583,
+                        50.238528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamgiin gazar",
+                  "text": "Szühebátor magaslati kilátópontja, amely panorámás kilátást nyújt a Szelenge-folyó menti határvárosra.",
+                  "category": "natural",
+                  "coords": [
+                        106.193933,
+                        50.243003
+                  ]
+            },
+            {
+                  "name": "Selenge baptist sum",
+                  "text": "Ez a templom a Szelenge határvidékén növekvő baptista hívő közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        106.212583,
+                        50.238528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamgiin gazar",
+                  "text": "Un punct de observație înalt în Sükhbaatar, care oferă o vedere panoramică asupra orașului de frontieră de pe râul Selenge.",
+                  "category": "natural",
+                  "coords": [
+                        106.193933,
+                        50.243003
+                  ]
+            },
+            {
+                  "name": "Selenge baptist sum",
+                  "text": "Această biserică deservește comunitatea tot mai mare de credincioși baptiști din regiunea de frontieră Selenge.",
+                  "category": "religious",
+                  "coords": [
+                        106.212583,
+                        50.238528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamgiin gazar",
+                  "text": "An elevated viewpoint in Sükhbaatar offering a panoramic view over the border city by the Selenge River.",
+                  "category": "natural",
+                  "coords": [
+                        106.193933,
+                        50.243003
+                  ]
+            },
+            {
+                  "name": "Selenge baptist church",
+                  "text": "This church serves the growing Baptist community of faith in the Selenge border region.",
+                  "category": "religious",
+                  "coords": [
+                        106.212583,
+                        50.238528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-049",
     coords: [106.2078, 50.2314],
@@ -794,7 +3935,232 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Fondée en 1940 comme ville frontalière ferroviaire", "Population d'environ 22 000 habitants", "À 626 mètres d'altitude sur la rivière Selenge", "Capitale de la province de Selenge", "Nommée d'après le héros Sükhbaatar (1893-1923)", "À 24 kilomètres de la frontière russe", "La Selenge (1 024 km), plus long fleuve de Mongolie", "Principal poste frontière ferroviaire vers la Russie"],
     }, image: "/poi-images/mn-sukhbaatar-cities-v2.webp"},
   {
-    id: "mn-dalanzadgad-cities-v2", "sights": {"de": [{"name": "Music and Dance Theater", "text": "Хөгжим бүжгийн театр ist ein Theater in Dalandsadgad.", "category": "cultural", "coords": [104.424894, 43.584835]}, {"name": "Umnugovi Aimag Cultural Leisure Park", "text": "Өмнөговь аймгийн Соёл амралтын хүрээлэн ist ein Freizeitpark in Dalandsadgad.", "category": "family", "coords": [104.40664, 43.58674]}, {"name": "Demuul Monument", "text": "Дэмүүл ist ein lokales Denkmal in Dalandsadgad.", "category": "historical", "coords": [104.428377, 43.57434]}, {"name": "T.Bor", "text": "Т.Бор ist ein historisches Denkmal in der Stadt Dalandsadgad.", "category": "historical", "coords": [104.427843, 43.57308]}, {"name": "Azhnai talbai", "text": "Ажнай талбай ist ein bedeutendes Denkmal in Dalandsadgad.", "category": "historical", "coords": [104.426915, 43.576026]}, {"name": "Gobi 3-Day City Center", "text": "고비3일 도심 ist eine Touristenattraktion in Dalandsadgad.", "category": "landmark", "coords": [104.43028, 43.570625]}], "hu": [{"name": "Music and Dance Theater", "text": "A Хөгжим бүжгийн театр egy színházépület Dalandsadgad városában.", "category": "cultural", "coords": [104.424894, 43.584835]}, {"name": "Umnugovi Aimag Cultural Leisure Park", "text": "A Өмнөговь аймгийн Соёл амралтын хүрээлэн egy vidámpark Dalandsadgad városában.", "category": "family", "coords": [104.40664, 43.58674]}, {"name": "Demuul Monument", "text": "A Дэмүүл egy helyi emlékmű Dalandsadgad városában.", "category": "historical", "coords": [104.428377, 43.57434]}, {"name": "T.Bor", "text": "A Т.Бор egy történelmi emlékmű Dalandsadgad városában.", "category": "historical", "coords": [104.427843, 43.57308]}, {"name": "Azhnai talbai", "text": "Az Ажнай талбай egy jelentős emlékmű Dalandsadgad területén.", "category": "historical", "coords": [104.426915, 43.576026]}, {"name": "Gobi 3-Day City Center", "text": "A 고비3일 도심 egy turisztikai látványosság Dalandsadgad városában.", "category": "landmark", "coords": [104.43028, 43.570625]}], "ro": [{"name": "Music and Dance Theater", "text": "Хөгжим бүжгийн театр este un teatru situat în Dalandsadgad.", "category": "cultural", "coords": [104.424894, 43.584835]}, {"name": "Umnugovi Aimag Cultural Leisure Park", "text": "Өмнөговь аймгийн Соёл амралтын хүрээлэн este un parc tematic situat în Dalandsadgad.", "category": "family", "coords": [104.40664, 43.58674]}, {"name": "Demuul Monument", "text": "Дэмүүл este un monument local situat în Dalandsadgad.", "category": "historical", "coords": [104.428377, 43.57434]}, {"name": "T.Bor", "text": "Т.Бор este un monument istoric aflat în orașul Dalandsadgad.", "category": "historical", "coords": [104.427843, 43.57308]}, {"name": "Azhnai talbai", "text": "Ажнай талбай este un monument semnificativ situat în Dalandsadgad.", "category": "historical", "coords": [104.426915, 43.576026]}, {"name": "Gobi 3-Day City Center", "text": "고비3일 도심 este o atracție turistică aflată în Dalandsadgad.", "category": "landmark", "coords": [104.43028, 43.570625]}], "en": [{"name": "Music and Dance Theater", "text": "Хөгжим бүжгийн театр is a theatre venue situated in Dalandsadgad.", "category": "cultural", "coords": [104.424894, 43.584835]}, {"name": "Umnugovi Aimag Cultural Leisure Park", "text": "Өмнөговь аймгийн Соёл амралтын хүрээлэн is a theme park located in Dalandsadgad.", "category": "family", "coords": [104.40664, 43.58674]}, {"name": "Demuul Monument", "text": "Дэмүүл is a local monument standing in Dalandsadgad.", "category": "historical", "coords": [104.428377, 43.57434]}, {"name": "T.Bor", "text": "Т.Бор is a historical monument located in the city of Dalandsadgad.", "category": "historical", "coords": [104.427843, 43.57308]}, {"name": "Azhnai talbai", "text": "Ажнай талбай is a significant monument situated in Dalandsadgad.", "category": "historical", "coords": [104.426915, 43.576026]}, {"name": "Gobi 3-Day City Center", "text": "고비3일 도심 is a tourist attraction located in Dalandsadgad.", "category": "landmark", "coords": [104.43028, 43.570625]}]},
+    id: "mn-dalanzadgad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Music and Dance Theater",
+                  "text": "Das regionale Musik- und Tanztheater in Dalanzadgad.",
+                  "category": "cultural",
+                  "coords": [
+                        104.424894,
+                        43.584835
+                  ]
+            },
+            {
+                  "name": "Umnugovi Aimag Cultural Leisure Park",
+                  "text": "Ein Kultur- und Freizeitpark in Dalanzadgad, der Hauptstadt der Provinz Ömnögovi.",
+                  "category": "family",
+                  "coords": [
+                        104.40664,
+                        43.58674
+                  ]
+            },
+            {
+                  "name": "Demuul Monument",
+                  "text": "Ein Denkmal in Dalanzadgad, das dem Dichter und Schriftsteller Demuul gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        104.428377,
+                        43.57434
+                  ]
+            },
+            {
+                  "name": "T.Bor",
+                  "text": "Ein historisches Denkmal in Dalanzadgad zu Ehren von T. Bor.",
+                  "category": "historical",
+                  "coords": [
+                        104.427843,
+                        43.57308
+                  ]
+            },
+            {
+                  "name": "Azhnai talbai",
+                  "text": "Azhnai talbai (Mutterplatz), ein historischer Platz in Dalanzadgad, der für öffentliche Versammlungen genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        104.426915,
+                        43.576026
+                  ]
+            },
+            {
+                  "name": "Gobi 3-Day City Center",
+                  "text": "고비3일 도심 ist eine Touristenattraktion in Dalandsadgad.",
+                  "category": "landmark",
+                  "coords": [
+                        104.43028,
+                        43.570625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Music and Dance Theater",
+                  "text": "A regionális zene- és táncszínház Dalanzadgadban.",
+                  "category": "cultural",
+                  "coords": [
+                        104.424894,
+                        43.584835
+                  ]
+            },
+            {
+                  "name": "Umnugovi Aimag Cultural Leisure Park",
+                  "text": "Egy kulturális szabadidőpark Dalanzadgadban, Ömnögovi tartomány fővárosában.",
+                  "category": "family",
+                  "coords": [
+                        104.40664,
+                        43.58674
+                  ]
+            },
+            {
+                  "name": "Demuul Monument",
+                  "text": "Egy emlékmű Dalanzadgadban, a költőnek és írónak, Demuulnak szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        104.428377,
+                        43.57434
+                  ]
+            },
+            {
+                  "name": "T.Bor",
+                  "text": "Egy történelmi emlékmű Dalanzadgadban T. Bor tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        104.427843,
+                        43.57308
+                  ]
+            },
+            {
+                  "name": "Azhnai talbai",
+                  "text": "Azhnai talbai (Anyák tere), egy történelmi tér Dalanzadgadban, nyilvános találkozók helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        104.426915,
+                        43.576026
+                  ]
+            },
+            {
+                  "name": "Gobi 3-Day City Center",
+                  "text": "A 고비3일 도심 egy turisztikai látványosság Dalandsadgad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        104.43028,
+                        43.570625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Music and Dance Theater",
+                  "text": "Teatrul regional de muzică și dans din Dalanzadgad.",
+                  "category": "cultural",
+                  "coords": [
+                        104.424894,
+                        43.584835
+                  ]
+            },
+            {
+                  "name": "Umnugovi Aimag Cultural Leisure Park",
+                  "text": "Un parc cultural de agrement în Dalanzadgad, capitala provinciei Ömnögovi.",
+                  "category": "family",
+                  "coords": [
+                        104.40664,
+                        43.58674
+                  ]
+            },
+            {
+                  "name": "Demuul Monument",
+                  "text": "Un monument în Dalanzadgad dedicat poetului și scriitorului Demuul.",
+                  "category": "historical",
+                  "coords": [
+                        104.428377,
+                        43.57434
+                  ]
+            },
+            {
+                  "name": "T.Bor",
+                  "text": "Un monument istoric în Dalanzadgad în onoarea lui T. Bor.",
+                  "category": "historical",
+                  "coords": [
+                        104.427843,
+                        43.57308
+                  ]
+            },
+            {
+                  "name": "Azhnai talbai",
+                  "text": "Azhnai talbai (Piața Mamei), o piață istorică în Dalanzadgad, folosită pentru adunări publice.",
+                  "category": "historical",
+                  "coords": [
+                        104.426915,
+                        43.576026
+                  ]
+            },
+            {
+                  "name": "Gobi 3-Day City Center",
+                  "text": "고비3일 도심 este o atracție turistică aflată în Dalandsadgad.",
+                  "category": "landmark",
+                  "coords": [
+                        104.43028,
+                        43.570625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Music and Dance Theater",
+                  "text": "The regional music and dance theater in Dalanzadgad.",
+                  "category": "cultural",
+                  "coords": [
+                        104.424894,
+                        43.584835
+                  ]
+            },
+            {
+                  "name": "Umnugovi Aimag Cultural Leisure Park",
+                  "text": "A cultural leisure park in Dalanzadgad, capital of Ömnögovi Province.",
+                  "category": "family",
+                  "coords": [
+                        104.40664,
+                        43.58674
+                  ]
+            },
+            {
+                  "name": "Demuul Monument",
+                  "text": "A monument in Dalanzadgad dedicated to the poet and writer Demuul.",
+                  "category": "historical",
+                  "coords": [
+                        104.428377,
+                        43.57434
+                  ]
+            },
+            {
+                  "name": "T.Bor",
+                  "text": "A historical monument in Dalanzadgad honoring T. Bor.",
+                  "category": "historical",
+                  "coords": [
+                        104.427843,
+                        43.57308
+                  ]
+            },
+            {
+                  "name": "Azhnai talbai",
+                  "text": "Azhnai talbai (Mother's Square), a historic square in Dalanzadgad used for public gatherings.",
+                  "category": "historical",
+                  "coords": [
+                        104.426915,
+                        43.576026
+                  ]
+            },
+            {
+                  "name": "Gobi 3-Day City Center",
+                  "text": "고비3일 도심 is a tourist attraction located in Dalandsadgad.",
+                  "category": "landmark",
+                  "coords": [
+                        104.43028,
+                        43.570625
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-053",
     coords: [104.4250, 43.5708],
@@ -867,7 +4233,88 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 25 000 habitants", "À 1 470 mètres d'altitude à la lisière nord du Gobi", "Capitale de la province d'Ömnögovi depuis 1942", "Son nom signifie soixante-dix puits", "Porte du parc national de Gurvansaikhan (27 000 km²)", "Khongoryn Els : dunes chantantes, 180 km de long", "Falaises de Bayanzag : premiers œufs de dinosaure en 1922", "Route goudronnée vers Oulan-Bator depuis 2014"],
     }, image: "/poi-images/mn-dalanzadgad-cities-v2.webp"},
   {
-    id: "mn-sainshand-cities-v2", "sights": {"de": [{"name": "Saran Khokhoo Theater", "text": "Das Saran Khokhoo Theater ist ein bekanntes Theater in Sainschand.", "category": "cultural", "coords": [110.137522, 44.89269]}, {"name": "Denkmal der 6 Helden", "text": "Das Denkmal der 6 Helden ist eine Attraktion in Sainschand.", "category": "historical", "coords": [110.131817, 44.89497]}], "hu": [{"name": "Saran Khokhoo Színház", "text": "A Saran Khokhoo Színház egy neves színház Sainschandban.", "category": "cultural", "coords": [110.137522, 44.89269]}, {"name": "6 hős emlékműve", "text": "A 6 hős emlékműve egy látnivaló Sainschandban.", "category": "historical", "coords": [110.131817, 44.89497]}], "ro": [{"name": "Teatrul Saran Khokhoo", "text": "Teatrul Saran Khokhoo este un teatru notabil în Sainschand.", "category": "cultural", "coords": [110.137522, 44.89269]}, {"name": "Monumentul celor 6 eroi", "text": "Monumentul celor 6 eroi este o atracție în Sainschand.", "category": "historical", "coords": [110.131817, 44.89497]}], "en": [{"name": "Saran Khokhoo Theatre", "text": "The Saran Khokhoo Theatre is a notable theatre in Sainschand.", "category": "cultural", "coords": [110.137522, 44.89269]}, {"name": "monument to the 6 heroes", "text": "The monument to the 6 heroes is an attraction in Sainschand.", "category": "historical", "coords": [110.131817, 44.89497]}]},
+    id: "mn-sainshand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saran Khokhoo Theater",
+                  "text": "Das Saran-Khokhoo-Theater in Sainshand, ein Veranstaltungsort für Schauspiel und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.137522,
+                        44.89269
+                  ]
+            },
+            {
+                  "name": "Denkmal der 6 Helden",
+                  "text": "Ein Denkmal in Sainshand zu Ehren von sechs Lokalhelden, die für die Unabhängigkeit starben.",
+                  "category": "historical",
+                  "coords": [
+                        110.131817,
+                        44.89497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saran Khokhoo Színház",
+                  "text": "A Saran Khokhoo Színház Sainshandban, dráma- és kulturális események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        110.137522,
+                        44.89269
+                  ]
+            },
+            {
+                  "name": "6 hős emlékműve",
+                  "text": "Egy emlékmű Sainshandban hat helyi hős tiszteletére, akik a függetlenségért haltak meg.",
+                  "category": "historical",
+                  "coords": [
+                        110.131817,
+                        44.89497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatrul Saran Khokhoo",
+                  "text": "Teatrul Saran Khokhoo din Sainshand, o locație pentru teatru și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.137522,
+                        44.89269
+                  ]
+            },
+            {
+                  "name": "Monumentul celor 6 eroi",
+                  "text": "Un monument în Sainshand în cinstea a șase eroi locali care au murit pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        110.131817,
+                        44.89497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saran Khokhoo Theatre",
+                  "text": "The Saran Khokhoo Theatre in Sainshand, a venue for drama and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        110.137522,
+                        44.89269
+                  ]
+            },
+            {
+                  "name": "monument to the 6 heroes",
+                  "text": "A monument in Sainshand honoring six local heroes who died for independence.",
+                  "category": "historical",
+                  "coords": [
+                        110.131817,
+                        44.89497
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-063",
     coords: [110.1364, 44.8864],
@@ -940,7 +4387,52 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 25 000 habitants", "À 938 mètres d'altitude dans le Gobi oriental", "Capitale de la province de Dornogovi depuis 1942", "À mi-chemin sur le chemin de fer Transmongolien", "Monastère de Khamariin fondé en 1820 par Danzanravjaa", "Centre d'énergie Shambala, lieu de pèlerinage spirituel", "Riche en fossiles de dinosaures et forêts de saxaouls", "Exploitation d'uranium et de charbon depuis 2017"],
     }, image: "/poi-images/mn-sainshand-cities-v2.webp"},
   {
-    id: "mn-zuunmod-cities-v2",
+    id: "mn-zuunmod-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niitiin khaluun usny gazar",
+                  "text": "Dieses traditionelle öffentliche Badehaus in Zuunmod bietet den Einwohnern der Stadt wichtige gemeinschaftliche Waschgelegenheiten und heiße Duschen.",
+                  "category": "recreational",
+                  "coords": [
+                        106.950266,
+                        47.70931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niitiin khaluun usny gazar",
+                  "text": "Ez a hagyományos zuunmodi nyilvános fürdőház alapvető közösségi mosdási lehetőségeket és forró zuhanyokat biztosít a város lakói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        106.950266,
+                        47.70931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niitiin khaluun usny gazar",
+                  "text": "Această baie publică tradițională din Zuunmod oferă facilități comunale esențiale de spălare și dușuri calde pentru locuitorii orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        106.950266,
+                        47.70931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niitiin khaluun usny gazar",
+                  "text": "This traditional public bathhouse in Zuunmod provides essential communal washing facilities and hot showers for the town's residents.",
+                  "category": "recreational",
+                  "coords": [
+                        106.950266,
+                        47.70931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-047",
     coords: [106.9528, 47.7069],
@@ -1001,7 +4493,232 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       de: ["Bevölkerung rund 17.000 Einwohner", "Auf 1.529 Metern Höhe südlich des Bogd Khan Uul", "Hauptstadt der Provinz Töv seit 1942", "Name bedeutet hundert Bäume", "Manzushir-Kloster 1733 gegründet, 1937 zerstört", "Bogd Khan Uul (2.257 m) seit 1778 Naturschutzgebiet", "Zentrum landwirtschaftlicher Forschung für Weizen"]
     , es: ["Población de unos 17.000 habitantes", "A 1.529 m al sur del Bogd Khan Uul", "Capital de la provincia de Töv desde 1942", "Su nombre significa Cien Árboles", "Monasterio Manzushir fundado en 1733", "Bogd Khan Uul es reserva desde 1778", "Centro de investigación para el trigo"], pt: ["População de cerca de 17.000 habitantes", "A 1.529 metros a sul do Bogd Khan Uul", "Capital da província de Töv desde 1942", "Nome significa Cem Árvores", "Mosteiro Manzushir fundado em 1733", "Bogd Khan Uul protegido desde 1778", "Centro de investigação agrícola estatal"], fr: ["Population d'environ 17 000 habitants", "À 1 529 m au sud du Bogd Khan Uul", "Capitale de la province de Töv depuis 1942", "Son nom signifie Cent Arbres", "Monastère Manzushir fondé en 1733", "Bogd Khan Uul réserve naturelle depuis 1778", "Centre de recherche pour la culture du blé"]}, image: "/poi-images/mn-zuunmod-cities-v2.webp"},
   {
-    id: "mn-uliastai-cities-v2",
+    id: "mn-uliastai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei",
+                  "text": "Dieses örtliche Museum zeigt die regionale Geschichte und das kulturelle Erbe der Siedlung Uliastai.",
+                  "category": "museum",
+                  "coords": [
+                        96.846079,
+                        47.741799
+                  ]
+            },
+            {
+                  "name": "Dramyn teatr",
+                  "text": "Das regionale Schauspielhaus führt traditionelle und zeitgenössische mongolische Stücke für die Gemeinde Uliastai auf.",
+                  "category": "cultural",
+                  "coords": [
+                        96.847106,
+                        47.741606
+                  ]
+            },
+            {
+                  "name": "Uliastai Fortress",
+                  "text": "Diese archäologische Stätte enthält die Überreste einer bedeutenden Mandschu-Militärgarnison, die während der Qing-Dynastie in der Mongolei errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        96.873033,
+                        47.747497
+                  ]
+            },
+            {
+                  "name": "Tegsh",
+                  "text": "Tegsh ist ein traditionelles öffentliches Badehaus, das den Bewohnern von Uliastai Waschgelegenheiten mit heißem Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        96.858706,
+                        47.735608
+                  ]
+            },
+            {
+                  "name": "Khaluun us",
+                  "text": "Dieses öffentliche Bad, dessen Name „heißes Wasser“ bedeutet, bietet lebenswichtige beheizte Waschmöglichkeiten während der strengen mongolischen Winter.",
+                  "category": "recreational",
+                  "coords": [
+                        96.850087,
+                        47.751917
+                  ]
+            },
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "Diese Einrichtung, deren Name wörtlich \"öffentliches heißes Wasser\" bedeutet, bietet den Stadtbewohnern dringend benötigte heiße Dusch- und Badedienste.",
+                  "category": "recreational",
+                  "coords": [
+                        96.854596,
+                        47.737382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei",
+                  "text": "Ez a helyi múzeum Uliastai település regionális történetét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        96.846079,
+                        47.741799
+                  ]
+            },
+            {
+                  "name": "Dramyn teatr",
+                  "text": "A regionális drámai színház hagyományos és kortárs mongol előadásokat visz színre az uliastai közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        96.847106,
+                        47.741606
+                  ]
+            },
+            {
+                  "name": "Uliastai Fortress",
+                  "text": "Ez a régészeti lelőhely egy jelentős mandzsu katonai helyőrség maradványait rejti, amelyet a Csing-dinasztia mongóliai uralma alatt hoztak létre.",
+                  "category": "historical",
+                  "coords": [
+                        96.873033,
+                        47.747497
+                  ]
+            },
+            {
+                  "name": "Tegsh",
+                  "text": "A Tegsh egy hagyományos nyilvános fürdő, amely meleg vizes tisztálkodási lehetőséget biztosít Uliastai lakói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        96.858706,
+                        47.735608
+                  ]
+            },
+            {
+                  "name": "Khaluun us",
+                  "text": "A \"forró víz\"-et jelentő nyilvános fürdő alapvető fűtött tisztálkodási lehetőségeket biztosít a zord mongol telek során.",
+                  "category": "recreational",
+                  "coords": [
+                        96.850087,
+                        47.751917
+                  ]
+            },
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "A szó szerint \"nyilvános forró vizet\" jelentő létesítmény nagyon is szükséges meleg zuhanyzási és fürdési szolgáltatásokat kínál a helyi lakosoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        96.854596,
+                        47.737382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei",
+                  "text": "Acest muzeu local prezintă istoria regională și moștenirea culturală a așezării Uliastai.",
+                  "category": "museum",
+                  "coords": [
+                        96.846079,
+                        47.741799
+                  ]
+            },
+            {
+                  "name": "Dramyn teatr",
+                  "text": "Teatrul dramatic regional pune în scenă spectacole mongole tradiționale și contemporane pentru comunitatea din Uliastai.",
+                  "category": "cultural",
+                  "coords": [
+                        96.847106,
+                        47.741606
+                  ]
+            },
+            {
+                  "name": "Uliastai Fortress",
+                  "text": "Acest sit arheologic conține rămășițele unei importante garnizoane militare manciuriene înființate în timpul dominației dinastiei Qing asupra Mongoliei.",
+                  "category": "historical",
+                  "coords": [
+                        96.873033,
+                        47.747497
+                  ]
+            },
+            {
+                  "name": "Tegsh",
+                  "text": "Tegsh este o baie publică tradițională care oferă facilități de spălare cu apă caldă locuitorilor din Uliastai.",
+                  "category": "recreational",
+                  "coords": [
+                        96.858706,
+                        47.735608
+                  ]
+            },
+            {
+                  "name": "Khaluun us",
+                  "text": "Traducându-se prin „apă caldă”, această baie publică oferă facilități esențiale de spălare încălzită în timpul iernilor aspre mongole.",
+                  "category": "recreational",
+                  "coords": [
+                        96.850087,
+                        47.751917
+                  ]
+            },
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "Însemnând literal „apă caldă publică”, această facilitate oferă servicii mult necesare de duș și baie caldă locuitorilor orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        96.854596,
+                        47.737382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei",
+                  "text": "This local museum showcases the regional history and cultural heritage of the Uliastai settlement.",
+                  "category": "museum",
+                  "coords": [
+                        96.846079,
+                        47.741799
+                  ]
+            },
+            {
+                  "name": "Dramyn teatr",
+                  "text": "The regional dramatic theatre stages traditional and contemporary Mongolian performances for the Uliastai community.",
+                  "category": "cultural",
+                  "coords": [
+                        96.847106,
+                        47.741606
+                  ]
+            },
+            {
+                  "name": "Uliastai Fortress",
+                  "text": "This archaeological site contains the remnants of a significant Manchu military garrison established during the Qing dynasty rule over Mongolia.",
+                  "category": "historical",
+                  "coords": [
+                        96.873033,
+                        47.747497
+                  ]
+            },
+            {
+                  "name": "Tegsh",
+                  "text": "Tegsh is a traditional public bathhouse offering hot water washing facilities to residents in Uliastai.",
+                  "category": "recreational",
+                  "coords": [
+                        96.858706,
+                        47.735608
+                  ]
+            },
+            {
+                  "name": "Khaluun us",
+                  "text": "Translating to \"hot water\", this public bath provides essential heated washing amenities during the harsh Mongolian winters.",
+                  "category": "recreational",
+                  "coords": [
+                        96.850087,
+                        47.751917
+                  ]
+            },
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "Literally meaning \"public hot water,\" this facility offers much-needed hot shower and bathing services to the local townspeople.",
+                  "category": "recreational",
+                  "coords": [
+                        96.854596,
+                        47.737382
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-057",
     coords: [96.8444, 47.7417],
@@ -1078,7 +4795,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Old cinema theater ' Khan taishir'",
-                  "text": "Das alte Kino Khan Taishir ist ein Theater in Altai.",
+                  "text": "Ein altes Kino namens 'Khan Taishir' in Altai, das heute für kulturelle Vorführungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         96.25444,
@@ -1087,7 +4804,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             },
             {
                   "name": "Gobi-Altai Children's Department",
-                  "text": "Aussichtspunkt in Altai.",
+                  "text": "Ein Naturgebiet in Altai, das als Freiluftbildungszentrum für Kinder betrieben wird.",
                   "category": "natural",
                   "coords": [
                         96.260804,
@@ -1098,7 +4815,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Old cinema theater ' Khan taishir'",
-                  "text": "A régi Khan Taishir mozi egy színház Altai városában.",
+                  "text": "Egy régi mozi, 'Khan Taishir' néven, Altajban, ma kulturális vetítésekre használják.",
                   "category": "cultural",
                   "coords": [
                         96.25444,
@@ -1107,7 +4824,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             },
             {
                   "name": "Gobi-Altai Children's Department",
-                  "text": "Kilátópont Altai városában.",
+                  "text": "Egy természeti terület Altajban, amely gyermekek szabadtéri oktatási központjaként működik.",
                   "category": "natural",
                   "coords": [
                         96.260804,
@@ -1118,7 +4835,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Old cinema theater ' Khan taishir'",
-                  "text": "Vechiul cinematograf Khan Taishir este un teatru în Altai.",
+                  "text": "Un vechi cinematograf numit 'Khan Taishir' în Altai, acum folosit pentru proiecții culturale.",
                   "category": "cultural",
                   "coords": [
                         96.25444,
@@ -1127,7 +4844,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             },
             {
                   "name": "Gobi-Altai Children's Department",
-                  "text": "Punct de observație în Altai.",
+                  "text": "O zonă naturală în Altai, funcționând ca un centru de educație în aer liber pentru copii.",
                   "category": "natural",
                   "coords": [
                         96.260804,
@@ -1138,7 +4855,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Old cinema theater ' Khan taishir'",
-                  "text": "The old Khan Taishir cinema is a theatre in Altai.",
+                  "text": "An old cinema theater named 'Khan Taishir' in Altai, now used for cultural screenings.",
                   "category": "cultural",
                   "coords": [
                         96.25444,
@@ -1147,7 +4864,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             },
             {
                   "name": "Gobi-Altai Children's Department",
-                  "text": "Viewpoint in Altai.",
+                  "text": "A natural area in Altai operated as a children's outdoor education center.",
                   "category": "natural",
                   "coords": [
                         96.260804,
@@ -1228,7 +4945,196 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["À 2 181 mètres d'altitude dans les montagnes du Gobi-Altaï", "Population d'environ 18 000 habitants", "Capitale de la province de Govi-Altaï depuis 1940", "Ancien nom Yesönbulag (neuf sources)", "Précipitations inférieures à 100 millimètres par an", "Réserve du Grand Gobi A avec 4,4 millions d'hectares", "Abrite environ 40 ours du Gobi (Mazaalai)", "A survécu à un séisme de magnitude 7,5 en 2002"],
     }, image: "/poi-images/mn-altai-cities-v2.webp"},
   {
-    id: "mn-baruun-urt-cities-v2",
+    id: "mn-baruun-urt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "batsurin's mansion",
+                  "text": "Dieses prächtige Anwesen diente einst als Sitz regionaler Beamter und zeigt die Verwaltungsarchitektur von Baruun-Urt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.279712,
+                        46.683825
+                  ]
+            },
+            {
+                  "name": "mi casa",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Steppenlandschaft rund um die Stadt Baruun-Urt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        113.28217,
+                        46.684311
+                  ]
+            },
+            {
+                  "name": "Sukhbaatryn khoshoo /Tsairt 2008/",
+                  "text": "Eine moderne Statue aus dem Jahr 2008 zu Ehren des mongolischen Revolutionsführers Damdin Süchbaatar.",
+                  "category": "historical",
+                  "coords": [
+                        113.280308,
+                        46.68144
+                  ]
+            },
+            {
+                  "name": "Sukhbaatar Aimgiin Ugsaatny Zuin Muzei",
+                  "text": "Das 1949 gegründete Museum stellt traditionelle Nomadenausrüstung und die Geschichte der Provinz Süchbaatar aus.",
+                  "category": "museum",
+                  "coords": [
+                        113.278546,
+                        46.676862
+                  ]
+            },
+            {
+                  "name": "Haluun us",
+                  "text": "Ein lokales öffentliches Badehaus, das in der Steppenstadt Baruun-Urt als wichtiger sozialer Treffpunkt dient.",
+                  "category": "recreational",
+                  "coords": [
+                        113.294402,
+                        46.680155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "batsurin's mansion",
+                  "text": "Ez a pompás épület egykor regionális tisztviselők lakhelye volt, bemutatva Barún-Urt igazgatási építészetét.",
+                  "category": "landmark",
+                  "coords": [
+                        113.279712,
+                        46.683825
+                  ]
+            },
+            {
+                  "name": "mi casa",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Barún-Urt városát körülölelő sztyeppei tájra.",
+                  "category": "natural",
+                  "coords": [
+                        113.28217,
+                        46.684311
+                  ]
+            },
+            {
+                  "name": "Sukhbaatryn khoshoo /Tsairt 2008/",
+                  "text": "A mongol forradalmi vezetőnek, Damdin Szühebátornak emléket állító, 2008-ban felavatott modern szobor.",
+                  "category": "historical",
+                  "coords": [
+                        113.280308,
+                        46.68144
+                  ]
+            },
+            {
+                  "name": "Sukhbaatar Aimgiin Ugsaatny Zuin Muzei",
+                  "text": "Az 1949-ben alapított múzeum hagyományos nomád felszereléseket és a Szühebátor tartomány történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.278546,
+                        46.676862
+                  ]
+            },
+            {
+                  "name": "Haluun us",
+                  "text": "Helyi nyilvános fürdő, amely fontos közösségi találkozóhelyként szolgál Barún-Urt sztyeppei városában.",
+                  "category": "recreational",
+                  "coords": [
+                        113.294402,
+                        46.680155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "batsurin's mansion",
+                  "text": "Această reședință grandioasă a găzduit cândva oficiali regionali, expunând arhitectura administrativă din Baruun-Urt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.279712,
+                        46.683825
+                  ]
+            },
+            {
+                  "name": "mi casa",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra peisajului de stepă din jurul orașului Baruun-Urt.",
+                  "category": "natural",
+                  "coords": [
+                        113.28217,
+                        46.684311
+                  ]
+            },
+            {
+                  "name": "Sukhbaatryn khoshoo /Tsairt 2008/",
+                  "text": "O statuie modernă din 2008 care îl comemorează pe liderul revoluționar mongol Damdin Sükhbaatar.",
+                  "category": "historical",
+                  "coords": [
+                        113.280308,
+                        46.68144
+                  ]
+            },
+            {
+                  "name": "Sukhbaatar Aimgiin Ugsaatny Zuin Muzei",
+                  "text": "Fondat în 1949, muzeul expune echipamente tradiționale nomade și istoria locală a provinciei Sükhbaatar.",
+                  "category": "museum",
+                  "coords": [
+                        113.278546,
+                        46.676862
+                  ]
+            },
+            {
+                  "name": "Haluun us",
+                  "text": "O baie publică locală care servește ca punct de întâlnire social în orașul de stepă Baruun-Urt.",
+                  "category": "recreational",
+                  "coords": [
+                        113.294402,
+                        46.680155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ex-governors fancy house",
+                  "text": "This grand residence once housed regional officials, showcasing the administrative architecture of Baruun-Urt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.279712,
+                        46.683825
+                  ]
+            },
+            {
+                  "name": "mi casa",
+                  "text": "A viewpoint offering a panoramic vista of the steppe landscape surrounding the town of Baruun-Urt.",
+                  "category": "natural",
+                  "coords": [
+                        113.28217,
+                        46.684311
+                  ]
+            },
+            {
+                  "name": "Sukhbaatar monument /Tsairt 2008/",
+                  "text": "A modern statue from 2008 commemorating the Mongolian revolutionary leader Damdin Sükhbaatar.",
+                  "category": "historical",
+                  "coords": [
+                        113.280308,
+                        46.68144
+                  ]
+            },
+            {
+                  "name": "Sükhbaatar Aimag Ethnological Museum",
+                  "text": "Founded in 1949, the museum exhibits traditional nomadic gear and the local history of the Sükhbaatar province.",
+                  "category": "museum",
+                  "coords": [
+                        113.278546,
+                        46.676862
+                  ]
+            },
+            {
+                  "name": "Haluun us",
+                  "text": "A local public bathhouse serving as an essential social gathering spot in the steppe town of Baruun-Urt.",
+                  "category": "recreational",
+                  "coords": [
+                        113.294402,
+                        46.680155
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-051",
     coords: [113.2792, 46.6806],
@@ -1301,7 +5207,124 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 16 000 habitants", "À 981 mètres d'altitude dans la steppe orientale", "Capitale de la province de Sükhbaatar depuis 1942", "Les gazelles de Mongolie migrent en troupeaux de jusqu'à 30 000 animaux", "Mine de zinc de Tsagaan-Tolgoi en service depuis 2007", "Production annuelle de 95 000 tonnes de concentré de zinc", "Célèbre pour ses chevaux champions du Naadam", "Route goudronnée depuis Oulan-Bator depuis 2018"],
     }, image: "/poi-images/mn-baruun-urt-cities-v2.webp"},
   {
-    id: "mn-mandalgovi-cities-v2", "sights": {"de": [{"name": "Dundgov Aimgiin Muzei", "text": "Das Dundgovi Provincial Museum ist eine kulturelle Einrichtung in Mandalgowi.", "category": "museum", "coords": [106.273644, 45.767949]}, {"name": "Zasag dargyn tamgyn gazar", "text": "Засаг даргын тамгын газар dient als Aussichtspunkt in Mandalgowi.", "category": "natural", "coords": [106.269768, 45.767188]}, {"name": "Sharga Azarga Monument", "text": "Шарга азарганы хөшөө ist ein Denkmal in der Stadt Mandalgowi.", "category": "historical", "coords": [106.270849, 45.753567]}], "hu": [{"name": "Dundgov Aimgiin Muzei", "text": "A Dundgovi Provincial Museum egy kulturális intézmény Mandalgowi városában.", "category": "museum", "coords": [106.273644, 45.767949]}, {"name": "Zasag dargyn tamgyn gazar", "text": "A Засаг даргын тамгын газар kilátópontként szolgál Mandalgowi városában.", "category": "natural", "coords": [106.269768, 45.767188]}, {"name": "Sharga Azarga Monument", "text": "A Шарга азарганы хөшөө egy emlékmű Mandalgowi városában.", "category": "historical", "coords": [106.270849, 45.753567]}], "ro": [{"name": "Dundgov Aimgiin Muzei", "text": "Muzeul Provincial Dundgovi este o instituție culturală din Mandalgowi.", "category": "museum", "coords": [106.273644, 45.767949]}, {"name": "Zasag dargyn tamgyn gazar", "text": "Засаг даргын тамгын газар servește drept punct de belvedere în Mandalgowi.", "category": "natural", "coords": [106.269768, 45.767188]}, {"name": "Sharga Azarga Monument", "text": "Шарга азарганы хөшөө este un monument situat în orașul Mandalgowi.", "category": "historical", "coords": [106.270849, 45.753567]}], "en": [{"name": "Dundgovi Provincial Museum", "text": "The Dundgovi Provincial Museum is a cultural institution in Mandalgowi.", "category": "museum", "coords": [106.273644, 45.767949]}, {"name": "Zasag dargyn tamgyn gazar", "text": "Засаг даргын тамгын газар serves as a viewpoint in Mandalgowi.", "category": "natural", "coords": [106.269768, 45.767188]}, {"name": "Sharga Azarga Monument", "text": "Шарга азарганы хөшөө is a monument located in the city of Mandalgowi.", "category": "historical", "coords": [106.270849, 45.753567]}]},
+    id: "mn-mandalgovi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dundgov Aimgiin Muzei",
+                  "text": "Provinzmuseum Dundgovi in Mandalgovi, gegründet 1949.",
+                  "category": "museum",
+                  "coords": [
+                        106.273644,
+                        45.767949
+                  ]
+            },
+            {
+                  "name": "Zasag dargyn tamgyn gazar",
+                  "text": "Eine natürliche Felsformation in Mandalgovi, bekannt als 'Siegel des Gouverneurs'.",
+                  "category": "natural",
+                  "coords": [
+                        106.269768,
+                        45.767188
+                  ]
+            },
+            {
+                  "name": "Sharga Azarga Monument",
+                  "text": "Ein historisches Denkmal in Mandalgovi, das Sharga Azarga gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        106.270849,
+                        45.753567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dundgov Aimgiin Muzei",
+                  "text": "Dundgovi tartományi múzeum Mandalgoviban, 1949-ben alapították.",
+                  "category": "museum",
+                  "coords": [
+                        106.273644,
+                        45.767949
+                  ]
+            },
+            {
+                  "name": "Zasag dargyn tamgyn gazar",
+                  "text": "Egy természetes sziklaformáció Mandalgoviban, 'Kormányzó pecsétje' néven ismert.",
+                  "category": "natural",
+                  "coords": [
+                        106.269768,
+                        45.767188
+                  ]
+            },
+            {
+                  "name": "Sharga Azarga Monument",
+                  "text": "Egy történelmi emlékmű Mandalgoviban, Sharga Azargának szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        106.270849,
+                        45.753567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dundgov Aimgiin Muzei",
+                  "text": "Muzeul provincial Dundgovi din Mandalgovi, fondat în 1949.",
+                  "category": "museum",
+                  "coords": [
+                        106.273644,
+                        45.767949
+                  ]
+            },
+            {
+                  "name": "Zasag dargyn tamgyn gazar",
+                  "text": "O formațiune naturală de stâncă în Mandalgovi, cunoscută sub numele de 'Sigiliul Guvernatorului'.",
+                  "category": "natural",
+                  "coords": [
+                        106.269768,
+                        45.767188
+                  ]
+            },
+            {
+                  "name": "Sharga Azarga Monument",
+                  "text": "Un monument istoric în Mandalgovi dedicat lui Sharga Azarga.",
+                  "category": "historical",
+                  "coords": [
+                        106.270849,
+                        45.753567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dundgovi Provincial Museum",
+                  "text": "Dundgovi Provincial Museum in Mandalgovi, founded in 1949.",
+                  "category": "museum",
+                  "coords": [
+                        106.273644,
+                        45.767949
+                  ]
+            },
+            {
+                  "name": "Zasag dargyn tamgyn gazar",
+                  "text": "A natural rock formation in Mandalgovi known as the 'Governor's Seal'.",
+                  "category": "natural",
+                  "coords": [
+                        106.269768,
+                        45.767188
+                  ]
+            },
+            {
+                  "name": "Sharga Azarga Monument",
+                  "text": "A historical monument in Mandalgovi dedicated to Sharga Azarga.",
+                  "category": "historical",
+                  "coords": [
+                        106.270849,
+                        45.753567
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-059",
     coords: [106.2708, 45.7625],
@@ -1674,7 +5697,196 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 9 000 habitants", "À 1 281 mètres d'altitude sur le Transmongol", "Capitale de la province de Govisümber depuis 1994", "Base militaire soviétique avec 18 000 soldats jusqu'en 1992", "La population a chuté de 30 000 à 10 000 après le retrait", "Monument aux cosmonautes Gürragchaa, 7,2 mètres de haut", "Quai de gare de Choir de 320 mètres, particulièrement long", "240 kilomètres au sud-est d'Oulan-Bator"],
     }, image: "/poi-images/mn-choir-cities-v2.webp"},
   {
-    id: "mn-ondorkhaan-cities-v2", "sights": {"de": [{"name": "Sakhia lam", "text": "Museum in Öndörchaan.", "category": "museum", "coords": [110.680161, 47.340809]}, {"name": "Mergejiliin Surgalt Uildverleliin tev", "text": "Aussichtspunkt in Öndörchaan.", "category": "natural", "coords": [110.674423, 47.329191]}, {"name": "Kherlen sumyn zasag dargyn tamgyn gazar", "text": "Aussichtspunkt in Öndörchaan.", "category": "natural", "coords": [110.662921, 47.323933]}, {"name": "khan khentii", "text": "Denkmal in Öndörchaan.", "category": "historical", "coords": [110.647431, 47.319771]}, {"name": "Chingizkhan", "text": "Denkmal in Öndörchaan.", "category": "historical", "coords": [110.661988, 47.323861]}], "hu": [{"name": "Sakhia lam", "text": "Múzeum Öndörchaanban.", "category": "museum", "coords": [110.680161, 47.340809]}, {"name": "Mergejiliin Surgalt Uildverleliin tev", "text": "Kilátópont Öndörchaanban.", "category": "natural", "coords": [110.674423, 47.329191]}, {"name": "Kherlen sumyn zasag dargyn tamgyn gazar", "text": "Kilátópont Öndörchaanban.", "category": "natural", "coords": [110.662921, 47.323933]}, {"name": "khan khentii", "text": "Emlékmű Öndörchaanban.", "category": "historical", "coords": [110.647431, 47.319771]}, {"name": "Chingizkhan", "text": "Emlékmű Öndörchaanban.", "category": "historical", "coords": [110.661988, 47.323861]}], "ro": [{"name": "Sakhia lam", "text": "Muzeu în Öndörchaan.", "category": "museum", "coords": [110.680161, 47.340809]}, {"name": "Mergejiliin Surgalt Uildverleliin tev", "text": "Punct de observație în Öndörchaan.", "category": "natural", "coords": [110.674423, 47.329191]}, {"name": "Kherlen sumyn zasag dargyn tamgyn gazar", "text": "Punct de observație în Öndörchaan.", "category": "natural", "coords": [110.662921, 47.323933]}, {"name": "khan khentii", "text": "Monument în Öndörchaan.", "category": "historical", "coords": [110.647431, 47.319771]}, {"name": "Chingizkhan", "text": "Monument în Öndörchaan.", "category": "historical", "coords": [110.661988, 47.323861]}], "en": [{"name": "Sakhia lama", "text": "Museum in Öndörchaan.", "category": "museum", "coords": [110.680161, 47.340809]}, {"name": "Mergejiliin Surgalt Uildverleliin tev", "text": "Viewpoint in Öndörchaan.", "category": "natural", "coords": [110.674423, 47.329191]}, {"name": "Kherlen sumyn zasag dargyn tamgyn gazar", "text": "Viewpoint in Öndörchaan.", "category": "natural", "coords": [110.662921, 47.323933]}, {"name": "khan khentii", "text": "Monument in Öndörchaan.", "category": "historical", "coords": [110.647431, 47.319771]}, {"name": "Chingizkhan", "text": "Monument in Öndörchaan.", "category": "historical", "coords": [110.661988, 47.323861]}]},
+    id: "mn-ondorkhaan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sakhia lam",
+                  "text": "Ein Museum in Öndörkhaan, das dem prominenten buddhistischen Lama Sakhia gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        110.680161,
+                        47.340809
+                  ]
+            },
+            {
+                  "name": "Mergejiliin Surgalt Uildverleliin tev",
+                  "text": "Ein Naturgebiet in Öndörkhaan in der Nähe des Berufsbildungszentrums, das für Feldstudien genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        110.674423,
+                        47.329191
+                  ]
+            },
+            {
+                  "name": "Kherlen sumyn zasag dargyn tamgyn gazar",
+                  "text": "Eine natürliche Felsformation in Öndörkhaan, bekannt als 'Siegel des Gouverneurs des Kherlen-Bezirks'.",
+                  "category": "natural",
+                  "coords": [
+                        110.662921,
+                        47.323933
+                  ]
+            },
+            {
+                  "name": "khan khentii",
+                  "text": "Eine historische Stätte in Öndörkhaan, Teil der Region Khan Khentii, Geburtsort von Dschingis Khan.",
+                  "category": "historical",
+                  "coords": [
+                        110.647431,
+                        47.319771
+                  ]
+            },
+            {
+                  "name": "Chingizkhan",
+                  "text": "Ein Denkmal für Dschingis Khan in Öndörkhaan, das an den mongolischen Kaiser erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        110.661988,
+                        47.323861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sakhia lam",
+                  "text": "Egy múzeum Öndörkhaanban, a híres buddhista láma, Sakhia tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        110.680161,
+                        47.340809
+                  ]
+            },
+            {
+                  "name": "Mergejiliin Surgalt Uildverleliin tev",
+                  "text": "Egy természeti terület Öndörkhaanban, a szakképzési központhoz közel, terepi tanulmányokra használva.",
+                  "category": "natural",
+                  "coords": [
+                        110.674423,
+                        47.329191
+                  ]
+            },
+            {
+                  "name": "Kherlen sumyn zasag dargyn tamgyn gazar",
+                  "text": "Egy természetes sziklaformáció Öndörkhaanban, 'Kherlen körzet kormányzójának pecsétje' néven ismert.",
+                  "category": "natural",
+                  "coords": [
+                        110.662921,
+                        47.323933
+                  ]
+            },
+            {
+                  "name": "khan khentii",
+                  "text": "Egy történelmi helyszín Öndörkhaanban, a Khan Khentii régió része, Dzsingisz kán szülőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        110.647431,
+                        47.319771
+                  ]
+            },
+            {
+                  "name": "Chingizkhan",
+                  "text": "Egy emlékmű Dzsingisz kánnak Öndörkhaanban, a mongol császár tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        110.661988,
+                        47.323861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sakhia lam",
+                  "text": "Un muzeu în Öndörkhaan dedicat lama budist proeminent Sakhia.",
+                  "category": "museum",
+                  "coords": [
+                        110.680161,
+                        47.340809
+                  ]
+            },
+            {
+                  "name": "Mergejiliin Surgalt Uildverleliin tev",
+                  "text": "O zonă naturală în Öndörkhaan lângă centrul de formare profesională, folosită pentru studii de teren.",
+                  "category": "natural",
+                  "coords": [
+                        110.674423,
+                        47.329191
+                  ]
+            },
+            {
+                  "name": "Kherlen sumyn zasag dargyn tamgyn gazar",
+                  "text": "O formațiune naturală de stâncă în Öndörkhaan, cunoscută sub numele de 'Sigiliul Guvernatorului districtului Kherlen'.",
+                  "category": "natural",
+                  "coords": [
+                        110.662921,
+                        47.323933
+                  ]
+            },
+            {
+                  "name": "khan khentii",
+                  "text": "Un sit istoric în Öndörkhaan, parte a regiunii Khan Khentii, locul de naștere al lui Genghis Han.",
+                  "category": "historical",
+                  "coords": [
+                        110.647431,
+                        47.319771
+                  ]
+            },
+            {
+                  "name": "Chingizkhan",
+                  "text": "Un monument în Öndörkhaan dedicat lui Genghis Han, comemorând împăratul mongol.",
+                  "category": "historical",
+                  "coords": [
+                        110.661988,
+                        47.323861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sakhia lama",
+                  "text": "A museum in Öndörkhaan dedicated to Sakhia Lama, a prominent Buddhist lama.",
+                  "category": "museum",
+                  "coords": [
+                        110.680161,
+                        47.340809
+                  ]
+            },
+            {
+                  "name": "Mergejiliin Surgalt Uildverleliin tev",
+                  "text": "A natural area in Öndörkhaan near the vocational training center, used for field studies.",
+                  "category": "natural",
+                  "coords": [
+                        110.674423,
+                        47.329191
+                  ]
+            },
+            {
+                  "name": "Kherlen sumyn zasag dargyn tamgyn gazar",
+                  "text": "A natural rock formation in Öndörkhaan, known as the 'Seal of the Governor of Kherlen District'.",
+                  "category": "natural",
+                  "coords": [
+                        110.662921,
+                        47.323933
+                  ]
+            },
+            {
+                  "name": "khan khentii",
+                  "text": "A historical site in Öndörkhaan, part of the Khan Khentii region, birthplace of Genghis Khan.",
+                  "category": "historical",
+                  "coords": [
+                        110.647431,
+                        47.319771
+                  ]
+            },
+            {
+                  "name": "Chingizkhan",
+                  "text": "A monument to Genghis Khan in Öndörkhaan, commemorating the Mongol emperor.",
+                  "category": "historical",
+                  "coords": [
+                        110.661988,
+                        47.323861
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-039",
     coords: [110.6603, 47.3194],
@@ -1901,7 +6113,304 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 16 000 habitants", "À 880 m d'altitude dans la vallée du Kharaa", "175 km au nord d'Oulan-Bator", "Plus grande distillerie de vodka depuis 1970", "Vodka Genghis Khan primée internationalement", "Production de 4 millions de litres par an", "Culture majeure de blé et de tournesols", "Ville ferroviaire depuis les années 1940"],
     }, image: "/poi-images/mn-zuunkharaa-cities-v2.webp"},
   {
-    id: "mn-kharkhorin-cities-v2", "sights": {"de": [{"name": "Kharkhorum", "text": "Karakorum ist eine archäologische Stätte in Charchorin, die einst die Hauptstadt des Mongolischen Reiches war.", "category": "historical", "coords": [102.847838, 47.214526]}, {"name": "Kloster Erdene Dsuu", "text": "Erdene Zuu ist ein Kloster in Charchorin, das als das älteste noch erhaltene buddhistische Kloster der Mongolei gilt.", "category": "religious", "coords": [102.843149, 47.201618]}, {"name": "Soyoliin Tov", "text": "Soyoliin Tov ist ein Theater und kultureller Veranstaltungsort in Charchorin.", "category": "cultural", "coords": [102.816258, 47.192632]}, {"name": "Kharakhorum Museum", "text": "Das Kharakhorum Museum ist eine der Geschichte gewidmete Einrichtung in Charchorin.", "category": "museum", "coords": [102.839153, 47.195227]}, {"name": "Ögödei's palace", "text": "Ögödei's palace ist eine historische Schlossanlage in Charchorin.", "category": "castle", "coords": [102.840945, 47.207502]}, {"name": "Erdenesiin Khuree Calligraphy and Art Center", "text": "Das Erdenesiin Khuree Calligraphy and Art Center ist ein Museum in Charchorin.", "category": "museum", "coords": [102.835752, 47.196908]}, {"name": "Ovoo", "text": "Ovoo ist ein malerischer Aussichtspunkt in Charchorin.", "category": "natural", "coords": [102.851512, 47.181563]}, {"name": "Guriliin Uildver", "text": "Guriliin Uildver dient als lokaler Aussichtspunkt in Charchorin.", "category": "natural", "coords": [102.827111, 47.199565]}], "hu": [{"name": "Karakorum", "text": "Karakorum egy régészeti lelőhely Charchorin városában, amely egykor a Mongol Birodalom fővárosa volt.", "category": "historical", "coords": [102.847838, 47.214526]}, {"name": "Erdeni Dzú", "text": "Az Erdene Zuu egy kolostor Charchorin városában, amely Mongólia legrégebbi fennmaradt buddhista kolostoraként ismert.", "category": "religious", "coords": [102.843149, 47.201618]}, {"name": "Soyoliin Tov", "text": "A Soyoliin Tov egy színház és kulturális központ Charchorin városában.", "category": "cultural", "coords": [102.816258, 47.192632]}, {"name": "Kharakhorum Museum", "text": "A Kharakhorum Museum a történelemnek szentelt intézmény Charchorin városában.", "category": "museum", "coords": [102.839153, 47.195227]}, {"name": "Ögödei's palace", "text": "Az Ögödei's palace egy történelmi kastélyhelyszín Charchorin városában.", "category": "castle", "coords": [102.840945, 47.207502]}, {"name": "Erdenesiin Khuree Calligraphy and Art Center", "text": "Az Erdenesiin Khuree Calligraphy and Art Center egy múzeum Charchorin városában.", "category": "museum", "coords": [102.835752, 47.196908]}, {"name": "Ovoo", "text": "Az Ovoo egy festői kilátópont Charchorin városában.", "category": "natural", "coords": [102.851512, 47.181563]}, {"name": "Guriliin Uildver", "text": "A Guriliin Uildver helyi kilátóként szolgál Charchorin városában.", "category": "natural", "coords": [102.827111, 47.199565]}], "ro": [{"name": "Kharkhorum", "text": "Karakorum este un sit arheologic în Charchorin, care a fost cândva capitala Imperiului Mongol.", "category": "historical", "coords": [102.847838, 47.214526]}, {"name": "Erdene Zuu", "text": "Erdene Zuu este o mănăstire în Charchorin, cunoscută drept cea mai veche mănăstire budistă supraviețuitoare din Mongolia.", "category": "religious", "coords": [102.843149, 47.201618]}, {"name": "Soyoliin Tov", "text": "Soyoliin Tov este un teatru și centru cultural în Charchorin.", "category": "cultural", "coords": [102.816258, 47.192632]}, {"name": "Kharakhorum Museum", "text": "Muzeul Kharakhorum este o instituție dedicată istoriei în Charchorin.", "category": "museum", "coords": [102.839153, 47.195227]}, {"name": "Ögödei's palace", "text": "Ögödei's palace este un sit istoric al unui castel situat în Charchorin.", "category": "castle", "coords": [102.840945, 47.207502]}, {"name": "Erdenesiin Khuree Calligraphy and Art Center", "text": "Centrul de Artă și Caligrafie Erdenesiin Khuree este un muzeu aflat în Charchorin.", "category": "museum", "coords": [102.835752, 47.196908]}, {"name": "Ovoo", "text": "Ovoo este un punct de belvedere pitoresc situat în Charchorin.", "category": "natural", "coords": [102.851512, 47.181563]}, {"name": "Guriliin Uildver", "text": "Guriliin Uildver servește drept punct de belvedere local în Charchorin.", "category": "natural", "coords": [102.827111, 47.199565]}], "en": [{"name": "Karakorum", "text": "Karakorum is an archaeological site in Charchorin that was once the capital of the Mongol Empire.", "category": "historical", "coords": [102.847838, 47.214526]}, {"name": "Erdene Zuu", "text": "Erdene Zuu is a monastery in Charchorin, known as the oldest surviving Buddhist monastery in Mongolia.", "category": "religious", "coords": [102.843149, 47.201618]}, {"name": "Soyoliin Tov", "text": "Soyoliin Tov is a theatre and cultural venue in Charchorin.", "category": "cultural", "coords": [102.816258, 47.192632]}, {"name": "Kharakhorum Museum", "text": "The Kharakhorum Museum is an institution dedicated to history in Charchorin.", "category": "museum", "coords": [102.839153, 47.195227]}, {"name": "Ögödei's palace", "text": "Ögödei's palace is a historic castle site located in Charchorin.", "category": "castle", "coords": [102.840945, 47.207502]}, {"name": "Erdenesiin Khuree Calligraphy and Art Center", "text": "The Erdenesiin Khuree Calligraphy and Art Center is a museum situated in Charchorin.", "category": "museum", "coords": [102.835752, 47.196908]}, {"name": "Ovoo", "text": "Ovoo is a scenic viewpoint situated in Charchorin.", "category": "natural", "coords": [102.851512, 47.181563]}, {"name": "Guriliin Uildver", "text": "Guriliin Uildver serves as a local viewpoint in Charchorin.", "category": "natural", "coords": [102.827111, 47.199565]}]},
+    id: "mn-kharkhorin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kharkhorum",
+                  "text": "Karakorum ist eine archäologische Stätte in Charchorin, die einst die Hauptstadt des Mongolischen Reiches war.",
+                  "category": "historical",
+                  "coords": [
+                        102.847838,
+                        47.214526
+                  ]
+            },
+            {
+                  "name": "Kloster Erdene Dsuu",
+                  "text": "Erdene Zuu ist ein Kloster in Charchorin, das als das älteste noch erhaltene buddhistische Kloster der Mongolei gilt.",
+                  "category": "religious",
+                  "coords": [
+                        102.843149,
+                        47.201618
+                  ]
+            },
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "Das Kulturzentrum (Soyoliin Tov) in Kharkhorin, das Ausstellungen und Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "Das Kharakhorum-Museum in Kharkhorin, das Artefakte aus der alten mongolischen Hauptstadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        102.839153,
+                        47.195227
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "Der Palast von Ögedei Khan, dem zweiten Herrscher des Mongolischen Reiches, in Karakorum.",
+                  "category": "castle",
+                  "coords": [
+                        102.840945,
+                        47.207502
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "Ein Kalligrafie- und Kunstzentrum in Kharkhorin, in der Nähe des Erdene-Zuu-Klosters, das der mongolischen Schrift gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        102.835752,
+                        47.196908
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Ein traditioneller Ovoo (Steinhaufen) in Kharkhorin, eine heilige Stätte für Opfergaben und Gebete.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "Guriliin Uildver dient als lokaler Aussichtspunkt in Charchorin.",
+                  "category": "natural",
+                  "coords": [
+                        102.827111,
+                        47.199565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karakorum",
+                  "text": "Karakorum egy régészeti lelőhely Charchorin városában, amely egykor a Mongol Birodalom fővárosa volt.",
+                  "category": "historical",
+                  "coords": [
+                        102.847838,
+                        47.214526
+                  ]
+            },
+            {
+                  "name": "Erdeni Dzú",
+                  "text": "Az Erdene Zuu egy kolostor Charchorin városában, amely Mongólia legrégebbi fennmaradt buddhista kolostoraként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        102.843149,
+                        47.201618
+                  ]
+            },
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "A Soyoliin Tov kulturális központ Kharkhorinban, kiállításoknak és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "A Kharakhorum Múzeum Kharkhorinban, amely az ősi mongol főváros tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.839153,
+                        47.195227
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "Ögödei kán palotája, a Mongol Birodalom második uralkodójáé, Karakorumban.",
+                  "category": "castle",
+                  "coords": [
+                        102.840945,
+                        47.207502
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "Egy kalligráfiai és művészeti központ Kharkhorinban, az Erdene Zuu kolostor közelében, a mongol írásnak szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        102.835752,
+                        47.196908
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Egy hagyományos ovó (kőkupac) Kharkhorinban, egy szent hely áldozatok és imák számára.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "A Guriliin Uildver helyi kilátóként szolgál Charchorin városában.",
+                  "category": "natural",
+                  "coords": [
+                        102.827111,
+                        47.199565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kharkhorum",
+                  "text": "Karakorum este un sit arheologic în Charchorin, care a fost cândva capitala Imperiului Mongol.",
+                  "category": "historical",
+                  "coords": [
+                        102.847838,
+                        47.214526
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu",
+                  "text": "Erdene Zuu este o mănăstire în Charchorin, cunoscută drept cea mai veche mănăstire budistă supraviețuitoare din Mongolia.",
+                  "category": "religious",
+                  "coords": [
+                        102.843149,
+                        47.201618
+                  ]
+            },
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "Centrul cultural (Soyoliin Tov) din Kharkhorin, care găzduiește expoziții și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "Muzeul Kharakhorum din Kharkhorin, care expune artefacte din vechea capitală mongolă.",
+                  "category": "museum",
+                  "coords": [
+                        102.839153,
+                        47.195227
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "Palatul lui Ögedei Han, al doilea conducător al Imperiului Mongol, situat în Karakorum.",
+                  "category": "castle",
+                  "coords": [
+                        102.840945,
+                        47.207502
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "Un centru de caligrafie și artă în Kharkhorin, lângă Mănăstirea Erdene Zuu, dedicat scrisului mongol.",
+                  "category": "museum",
+                  "coords": [
+                        102.835752,
+                        47.196908
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Un ovoo tradițional (grămadă de pietre) în Kharkhorin, un loc sacru pentru ofrande și rugăciuni.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "Guriliin Uildver servește drept punct de belvedere local în Charchorin.",
+                  "category": "natural",
+                  "coords": [
+                        102.827111,
+                        47.199565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karakorum",
+                  "text": "Karakorum is an archaeological site in Charchorin that was once the capital of the Mongol Empire.",
+                  "category": "historical",
+                  "coords": [
+                        102.847838,
+                        47.214526
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu",
+                  "text": "Erdene Zuu is a monastery in Charchorin, known as the oldest surviving Buddhist monastery in Mongolia.",
+                  "category": "religious",
+                  "coords": [
+                        102.843149,
+                        47.201618
+                  ]
+            },
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "The cultural center (Soyoliin Tov) in Kharkhorin, hosting exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "The Kharakhorum Museum in Kharkhorin, displaying artifacts from the ancient Mongol capital.",
+                  "category": "museum",
+                  "coords": [
+                        102.839153,
+                        47.195227
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "The palace of Ögedei Khan, the second ruler of the Mongol Empire, located in Karakorum.",
+                  "category": "castle",
+                  "coords": [
+                        102.840945,
+                        47.207502
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "A calligraphy and art center in Kharkhorin, near Erdene Zuu Monastery, dedicated to Mongolian script.",
+                  "category": "museum",
+                  "coords": [
+                        102.835752,
+                        47.196908
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "A traditional ovoo (stone cairn) in Kharkhorin, a sacred site for offerings and prayers.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "Guriliin Uildver serves as a local viewpoint in Charchorin.",
+                  "category": "natural",
+                  "coords": [
+                        102.827111,
+                        47.199565
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-055",
     coords: [102.8238, 47.1975],
@@ -2120,7 +6629,88 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Fondée en 1965 comme colonie minière soviétique", "Population d'environ 8 000 (15 000 dans les années 80)", "À 850 mètres d'altitude dans la vallée de Sharyngol", "30 kilomètres à l'est de Darkhan", "L'une des plus grandes mines de lignite de Mongolie", "Production annuelle de 2,3 millions de tonnes de charbon", "Pouvoir calorifique du charbon d'environ 3 500 kcal/kg", "Baisse de la population d'environ moitié après 1990"],
     }, image: "/poi-images/mn-sharyn-gol-cities-v2.webp"},
   {
-    id: "mn-nalaikh-cities-v2", "sights": {"de": [{"name": "Davaajaviin khushuu", "text": "Davaajaviin khushuu ist ein Denkmal in der Stadt Nalaich.", "category": "historical", "coords": [107.254586, 47.772545]}, {"name": "PZM-2", "text": "PZM-2 ist ein markantes Denkmal in Nalaich.", "category": "historical", "coords": [107.260539, 47.788594]}], "hu": [{"name": "Davaajaviin khushuu", "text": "A Davaajaviin khushuu egy emlékmű Nalaich városában.", "category": "historical", "coords": [107.254586, 47.772545]}, {"name": "PZM-2", "text": "A PZM-2 egy kiemelkedő emlékmű Nalaich városában.", "category": "historical", "coords": [107.260539, 47.788594]}], "ro": [{"name": "Davaajaviin khushuu", "text": "Davaajaviin khushuu este un monument situat în orașul Nalaich.", "category": "historical", "coords": [107.254586, 47.772545]}, {"name": "PZM-2", "text": "PZM-2 este un monument proeminent situat în Nalaich.", "category": "historical", "coords": [107.260539, 47.788594]}], "en": [{"name": "Davaajaviin khushuu", "text": "Davaajaviin khushuu is a monument located in the city of Nalaich.", "category": "historical", "coords": [107.254586, 47.772545]}, {"name": "PZM-2", "text": "PZM-2 is a prominent monument situated in Nalaich.", "category": "historical", "coords": [107.260539, 47.788594]}]},
+    id: "mn-nalaikh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Davaajaviin khushuu",
+                  "text": "Ein historisches Denkmal am Stadtrand von Nalaikh.",
+                  "category": "historical",
+                  "coords": [
+                        107.254586,
+                        47.772545
+                  ]
+            },
+            {
+                  "name": "PZM-2",
+                  "text": "Ein historisches Relikt aus der Bergbau-Ära in Nalaikh.",
+                  "category": "historical",
+                  "coords": [
+                        107.260539,
+                        47.788594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Davaajaviin khushuu",
+                  "text": "Történelmi emlékmű Nalaikh külterületén.",
+                  "category": "historical",
+                  "coords": [
+                        107.254586,
+                        47.772545
+                  ]
+            },
+            {
+                  "name": "PZM-2",
+                  "text": "Történelmi emlék Nalaikh bányászkorszakából.",
+                  "category": "historical",
+                  "coords": [
+                        107.260539,
+                        47.788594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Davaajaviin khushuu",
+                  "text": "Un monument istoric la periferia orașului Nalaikh.",
+                  "category": "historical",
+                  "coords": [
+                        107.254586,
+                        47.772545
+                  ]
+            },
+            {
+                  "name": "PZM-2",
+                  "text": "O relicvă istorică din era mineritului din Nalaikh.",
+                  "category": "historical",
+                  "coords": [
+                        107.260539,
+                        47.788594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Davaajaviin khushuu",
+                  "text": "A historical monument on the outskirts of Nalaikh.",
+                  "category": "historical",
+                  "coords": [
+                        107.254586,
+                        47.772545
+                  ]
+            },
+            {
+                  "name": "PZM-2",
+                  "text": "A historical relic from the mining era in Nalaikh.",
+                  "category": "historical",
+                  "coords": [
+                        107.260539,
+                        47.788594
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-1",
     coords: [107.2833, 47.7667],
@@ -2327,7 +6917,52 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       fr: ["Population d'environ 7 500 habitants", "À 850 mètres d'altitude dans la vallée de l'Eg", "Fondée en 1982 comme colonie industrielle soviétique", "Plus grande cimenterie de Mongolie depuis 1985", "Construite avec l'aide de la Tchécoslovaquie", "Capacité annuelle d'environ 1 million de tonnes", "Répond à 70 % de la demande nationale", "240 kilomètres au nord d'Oulan-Bator"],
     }, image: "/poi-images/mn-khutul-cities-v2.webp"},
   {
-    id: "mn-zamyn-uud-cities-v2",
+    id: "mn-zamyn-uud-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dogdolgunsellin khiid",
+                  "text": "Dieses buddhistische Kloster ist ein kulturelles und religiöses Wahrzeichen in der Grenzstadt Zamyn-Uud.",
+                  "category": "landmark",
+                  "coords": [
+                        111.902179,
+                        43.721388
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dogdolgunsellin khiid",
+                  "text": "Ez a buddhista kolostor kulturális és vallási nevezetesség Zamyn-Uud határvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        111.902179,
+                        43.721388
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dogdolgunsellin khiid",
+                  "text": "Acest mănăstire budistă se înalță ca un punct de reper cultural și religios în orașul de graniță Zamyn-Uud.",
+                  "category": "landmark",
+                  "coords": [
+                        111.902179,
+                        43.721388
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dogdolgunsellin Monastery",
+                  "text": "This Buddhist monastery stands as a cultural and religious landmark in the border town of Zamyn-Uud.",
+                  "category": "landmark",
+                  "coords": [
+                        111.902179,
+                        43.721388
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MN-063",
     coords: [111.9053, 43.7192],

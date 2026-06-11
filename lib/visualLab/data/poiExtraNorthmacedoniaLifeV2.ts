@@ -619,7 +619,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Sharkova Dupka",
-                  "text": "Eine für Besucher erschlossene Höhle im Nationalpark Mavrovo.",
+                  "text": "Sharkos Loch ist eine tiefe Schachthöhle in der Region Mavrovo.",
                   "category": "landmark",
                   "coords": [
                         20.734164,
@@ -646,7 +646,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Uspenie na Presveta Bogoroditsa",
-                  "text": "Eine orthodoxe Kirche in der Ortschaft Mavrovo.",
+                  "text": "Die Entschlafung der Gottesmutter ist eine orthodoxe Kirche aus dem 19. Jahrhundert in Mavrovo.",
                   "category": "religious",
                   "coords": [
                         20.735983,
@@ -657,7 +657,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Sharkova Dupka",
-                  "text": "Látogatható barlang a Mavrovo Nemzeti Park területén.",
+                  "text": "A Sarkó-lyuk egy mély zsomboly a Mavrovo régióban.",
                   "category": "landmark",
                   "coords": [
                         20.734164,
@@ -684,7 +684,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Uspenie na Presveta Bogoroditsa",
-                  "text": "Ortodox templom Mavrovo településén.",
+                  "text": "Az Istenszülő elszenderülése egy 19. századi ortodox templom Mavrovóban.",
                   "category": "religious",
                   "coords": [
                         20.735983,
@@ -695,7 +695,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Sharkova Dupka",
-                  "text": "O peșteră amenajată pentru vizitatori în Parcul Național Mavrovo.",
+                  "text": "Groapa lui Sharko este o peșteră adâncă în regiunea Mavrovo.",
                   "category": "landmark",
                   "coords": [
                         20.734164,
@@ -722,7 +722,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Uspenie na Presveta Bogoroditsa",
-                  "text": "O biserică ortodoxă situată în localitatea Mavrovo.",
+                  "text": "Adormirea Maicii Domnului este o biserică ortodoxă din secolul al XIX-lea în Mavrovo.",
                   "category": "religious",
                   "coords": [
                         20.735983,
@@ -733,7 +733,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Sharko's hole",
-                  "text": "A show cave located within the Mavrovo National Park.",
+                  "text": "Sharko's Hole is a deep pit cave in the Mavrovo region.",
                   "category": "landmark",
                   "coords": [
                         20.734164,
@@ -760,7 +760,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Dormition of the Holy Mother of God",
-                  "text": "An Orthodox church in the village of Mavrovo.",
+                  "text": "Dormition of the Mother of God is a 19th-century Orthodox church in Mavrovo.",
                   "category": "religious",
                   "coords": [
                         20.735983,
@@ -1213,7 +1213,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Manastirets",
-                  "text": "Eine archäologische Stätte im Reservat am Schwarzen Drin.",
+                  "text": "Manastirec ist eine archäologische Stätte eines mittelalterlichen Klosters im Reservat Crn Drin.",
                   "category": "historical",
                   "coords": [
                         20.639494,
@@ -1240,7 +1240,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Tsrkvishte",
-                  "text": "Eine Ausgrabungsstätte in der Nähe des Schwarzen Drin.",
+                  "text": "Crkvishte sind die Ruinen einer mittelalterlichen Kirche im Reservat Crn Drin.",
                   "category": "historical",
                   "coords": [
                         20.587564,
@@ -1249,7 +1249,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Memorijalen tsentar Kodzhadzhik",
-                  "text": "Ein Gedenkzentrum und Museum im Black Drin Reserve.",
+                  "text": "Das Kodzhadzhik-Gedenkzentrum erinnert an den Ilinden-Aufstand von 1903 im Reservat Crn Drin.",
                   "category": "museum",
                   "coords": [
                         20.600977,
@@ -1258,7 +1258,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sveti Grad",
-                  "text": "Eine historische Festungsanlage in der Region des Schwarzen Drin.",
+                  "text": "Sveti Grad ist eine mittelalterliche Festungsruine auf einem Hügel im Reservat Crn Drin.",
                   "category": "castle",
                   "coords": [
                         20.593339,
@@ -1267,7 +1267,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nov Lokovski Manastir",
-                  "text": "Eine religiöse und kulturelle Sehenswürdigkeit in Lokov.",
+                  "text": "Das neue Kloster von Lokov ist ein modernes orthodoxes Kloster im Gebiet Crn Drin.",
                   "category": "landmark",
                   "coords": [
                         20.638548,
@@ -1278,7 +1278,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Manastirets",
-                  "text": "Régészeti lelőhely a Fekete-Drin menti rezervátumban.",
+                  "text": "A Manastirec egy középkori kolostor régészeti lelőhelye a Crn Drin rezervátumban.",
                   "category": "historical",
                   "coords": [
                         20.639494,
@@ -1305,7 +1305,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Tsrkvishte",
-                  "text": "Régészeti feltárási terület a Fekete-Drin közelében.",
+                  "text": "A Crkvishte egy középkori templom romjai a Crn Drin rezervátumban.",
                   "category": "historical",
                   "coords": [
                         20.587564,
@@ -1314,7 +1314,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Memorijalen tsentar Kodzhadzhik",
-                  "text": "Emlékközpont és múzeum a Fekete-Drin rezervátumban.",
+                  "text": "A Kodzhadzhik Emlékközpont az 1903-as Ilinden-felkelésre emlékezik a Crn Drin rezervátumban.",
                   "category": "museum",
                   "coords": [
                         20.600977,
@@ -1323,7 +1323,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sveti Grad",
-                  "text": "Történelmi erődítmény a Fekete-Drin régiójában.",
+                  "text": "A Sveti Grad egy középkori várrom a Crn Drin rezervátum egyik dombján.",
                   "category": "castle",
                   "coords": [
                         20.593339,
@@ -1332,7 +1332,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nov Lokovski Manastir",
-                  "text": "Vallási és kulturális látnivaló Lokovban.",
+                  "text": "A Lokovi új kolostor egy modern ortodox kolostor a Crn Drin területén.",
                   "category": "landmark",
                   "coords": [
                         20.638548,
@@ -1343,7 +1343,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Manastirets",
-                  "text": "Un sit arheologic în Rezervația Drinul Negru.",
+                  "text": "Manastirec este un sit arheologic al unei mănăstiri medievale în rezervația Crn Drin.",
                   "category": "historical",
                   "coords": [
                         20.639494,
@@ -1370,7 +1370,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Tsrkvishte",
-                  "text": "Un sit de excavare arheologică în apropierea Drinului Negru.",
+                  "text": "Crkvishte sunt ruinele unei biserici medievale în rezervația Crn Drin.",
                   "category": "historical",
                   "coords": [
                         20.587564,
@@ -1379,7 +1379,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Memorijalen tsentar Kodzhadzhik",
-                  "text": "Un centru memorial și muzeu în Rezervația Drinul Negru.",
+                  "text": "Centrul Memorial Kodzhadzhic comemorează Răscoala de la Ilinden din 1903 în rezervația Crn Drin.",
                   "category": "museum",
                   "coords": [
                         20.600977,
@@ -1388,7 +1388,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sveti Grad",
-                  "text": "O fortificație istorică în regiunea Drinului Negru.",
+                  "text": "Sveti Grad este o ruină de cetate medievală pe un deal în rezervația Crn Drin.",
                   "category": "castle",
                   "coords": [
                         20.593339,
@@ -1397,7 +1397,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nov Lokovski Manastir",
-                  "text": "O atracție religioasă și culturală în Lokov.",
+                  "text": "Noua Mănăstire Lokov este o mănăstire ortodoxă modernă în zona Crn Drin.",
                   "category": "landmark",
                   "coords": [
                         20.638548,
@@ -1408,7 +1408,7 @@ export const northmacedoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Manastirec",
-                  "text": "An archaeological site in the Black Drin Reserve.",
+                  "text": "Manastirec is an archaeological site of a medieval monastery in the Crn Drin reserve.",
                   "category": "historical",
                   "coords": [
                         20.639494,
@@ -1435,7 +1435,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Crkvishte",
-                  "text": "An archaeological excavation site near the Black Drin.",
+                  "text": "Crkvishte are the ruins of a medieval church in the Crn Drin reserve.",
                   "category": "historical",
                   "coords": [
                         20.587564,
@@ -1444,7 +1444,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Kodzhadzhik Memorial center",
-                  "text": "A memorial center and museum in the Black Drin Reserve.",
+                  "text": "Kodzhadzhik Memorial Center commemorates the 1903 Ilinden Uprising in the Crn Drin reserve.",
                   "category": "museum",
                   "coords": [
                         20.600977,
@@ -1453,7 +1453,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sveti Grad",
-                  "text": "A historical fortification in the Black Drin region.",
+                  "text": "Sveti Grad is a medieval fortress ruin on a hill in the Crn Drin reserve.",
                   "category": "castle",
                   "coords": [
                         20.593339,
@@ -1462,7 +1462,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "New monastery of Lokov",
-                  "text": "A religious and cultural attraction in Lokov.",
+                  "text": "New Monastery of Lokov is a modern Orthodox monastery in the Crn Drin area.",
                   "category": "landmark",
                   "coords": [
                         20.638548,
@@ -1681,7 +1681,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sv. Gjorgji",
-                  "text": "Eine orthodoxe Kirche in Resen, die dem Heiligen Georg gewidmet ist.",
+                  "text": "Orthodoxe Kirche des Heiligen Georg am Blato-Feuchtgebiet nahe Resen.",
                   "category": "religious",
                   "coords": [
                         21.00884,
@@ -1746,7 +1746,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sv. Gjorgji",
-                  "text": "Szent Györgynek szentelt ortodox templom Resenben.",
+                  "text": "Szent György ortodox templom a Blato-mocsárnál Resen mellett.",
                   "category": "religious",
                   "coords": [
                         21.00884,
@@ -1811,7 +1811,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Sv. Gjorgji",
-                  "text": "O biserică ortodoxă din Resen dedicată Sfântului Gheorghe.",
+                  "text": "Biserica ortodoxă Sfântul Gheorghe lângă zona umedă Blato, lângă Resen.",
                   "category": "religious",
                   "coords": [
                         21.00884,
@@ -1876,7 +1876,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "St. George",
-                  "text": "An Orthodox church in Resen dedicated to Saint George.",
+                  "text": "Orthodox Church of St. George near the Blato Wetland near Resen.",
                   "category": "religious",
                   "coords": [
                         21.00884,
@@ -2338,7 +2338,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Манастир Sv. Nikola",
-                  "text": "Ein dem Heiligen Nikolaus gewidmetes Kloster in Nordmazedonien.",
+                  "text": "Orthodoxes Kloster des Heiligen Nikolaus im Serava-Tal.",
                   "category": "landmark",
                   "coords": [
                         21.4696,
@@ -2347,7 +2347,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Manastir Sv. Ilija",
-                  "text": "Kleines Kloster in der Nähe des Flusses Serava.",
+                  "text": "Orthodoxes Kloster des Heiligen Elias im Serava-Tal.",
                   "category": "landmark",
                   "coords": [
                         21.409874,
@@ -2385,7 +2385,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Манастир Sv. Nikola",
-                  "text": "Szent Miklósnak szentelt kolostor Észak-Macedóniában.",
+                  "text": "Szent Miklósnak szentelt ortodox kolostor a Serava-völgyben.",
                   "category": "landmark",
                   "coords": [
                         21.4696,
@@ -2394,7 +2394,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Manastir Sv. Ilija",
-                  "text": "Kis kolostor a Serava-folyó közelében.",
+                  "text": "Illés prófétának szentelt ortodox kolostor a Serava-völgyben.",
                   "category": "landmark",
                   "coords": [
                         21.409874,
@@ -2432,7 +2432,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Манастир Sv. Nikola",
-                  "text": "O mănăstire dedicată Sfântului Nicolae în Macedonia de Nord.",
+                  "text": "Mănăstire ortodoxă dedicată Sfântului Nicolae în Valea Serava.",
                   "category": "landmark",
                   "coords": [
                         21.4696,
@@ -2441,7 +2441,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Manastir Sv. Ilija",
-                  "text": "O mănăstire mică situată în apropierea râului Serava.",
+                  "text": "Mănăstirea ortodoxă a Sfântului Ilie din Valea Serava.",
                   "category": "landmark",
                   "coords": [
                         21.409874,
@@ -2479,7 +2479,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Nicholas Monastery",
-                  "text": "A monastery dedicated to Saint Nicholas in North Macedonia.",
+                  "text": "Orthodox monastery dedicated to Saint Nicholas in the Serava Valley.",
                   "category": "landmark",
                   "coords": [
                         21.4696,
@@ -2488,7 +2488,7 @@ export const northmacedoniaLifeV2: POI[] = [
             },
             {
                   "name": "Monastery of St. Elijah",
-                  "text": "Small monastery located near the Serava river.",
+                  "text": "Orthodox monastery of Saint Elijah situated in the Serava Valley.",
                   "category": "landmark",
                   "coords": [
                         21.409874,

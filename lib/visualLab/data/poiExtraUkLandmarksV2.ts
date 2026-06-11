@@ -330,7 +330,7 @@ imageHint: "British Museum Great Court glass roof",
       "de": [
             {
                   "name": "York Beach",
-                  "text": "Ein Uferbereich in der Nähe des York Minster.",
+                  "text": "Der York Beach ist ein Sandstrand am Ufer der Ouse, nahe dem York Minster.",
                   "category": "recreational",
                   "coords": [
                         -1.084291,
@@ -341,7 +341,7 @@ imageHint: "British Museum Great Court glass roof",
       "hu": [
             {
                   "name": "York Beach",
-                  "text": "Partszakasz York Minster közelében.",
+                  "text": "A York Beach egy homokos folyóparti strand az Ouse partján, a York Minster közelében.",
                   "category": "recreational",
                   "coords": [
                         -1.084291,
@@ -352,7 +352,7 @@ imageHint: "British Museum Great Court glass roof",
       "ro": [
             {
                   "name": "York Beach",
-                  "text": "O zonă de mal lângă York Minster.",
+                  "text": "York Beach este o plajă nisipoasă pe malul râului Ouse, aproape de Catedrala York.",
                   "category": "recreational",
                   "coords": [
                         -1.084291,
@@ -363,7 +363,7 @@ imageHint: "British Museum Great Court glass roof",
       "en": [
             {
                   "name": "York Beach",
-                  "text": "A riverside area near York Minster.",
+                  "text": "York Beach is a sandy riverside beach on the River Ouse, close to York Minster.",
                   "category": "recreational",
                   "coords": [
                         -1.084291,

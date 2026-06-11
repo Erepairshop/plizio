@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraQatarEconomicV2: POI[] = [
   {
-    id: "ras-laffan-industrial-city-economic-v2",
+    id: "ras-laffan-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alasouad bin rabeea Masjed",
+                  "text": "Eine Moschee, die inmitten der riesigen Gasanlagen der Ras Laffan Industrial City einen eigenen Gottesdienstraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.462706,
+                        25.840103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alasouad bin rabeea Masjed",
+                  "text": "Mecset, amely dedikált istentiszteleti helyet biztosít a Ras Laffan ipari város hatalmas gázlétesítményei között.",
+                  "category": "landmark",
+                  "coords": [
+                        51.462706,
+                        25.840103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alasouad bin rabeea Masjed",
+                  "text": "O moschee care oferă un spațiu de cult dedicat în mijlocul instalațiilor masive de gaze din orașul industrial Ras Laffan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.462706,
+                        25.840103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alasouad bin rabeea Masjed",
+                  "text": "A mosque providing a dedicated worship space amidst the massive gas facilities of Ras Laffan Industrial City.",
+                  "category": "landmark",
+                  "coords": [
+                        51.462706,
+                        25.840103
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "QA-KH",
     coords: [51.5333, 25.8833],
@@ -51,7 +96,52 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "hamad-port-economic-v2",
+    id: "hamad-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "HAMAD PORT VISITOR CENTER",
+                  "text": "Ein modernes Informationszentrum, das die maritime Geschichte und die Technik des riesigen Hamad-Hafens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        51.582368,
+                        25.033698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HAMAD PORT VISITOR CENTER",
+                  "text": "Modern látogatóközpont, amely bemutatja a hatalmas Hamad-kikötő tengeri történelmét és technológiáját.",
+                  "category": "museum",
+                  "coords": [
+                        51.582368,
+                        25.033698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HAMAD PORT VISITOR CENTER",
+                  "text": "Un centru modern pentru vizitatori care prezintă istoria maritimă și tehnologia uriașului port Hamad.",
+                  "category": "museum",
+                  "coords": [
+                        51.582368,
+                        25.033698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HAMAD PORT VISITOR CENTER",
+                  "text": "A modern visitor center showcasing the maritime history and technology of the massive Hamad Port.",
+                  "category": "museum",
+                  "coords": [
+                        51.582368,
+                        25.033698
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "QA-WA",
     coords: [51.6086, 25.0272],
@@ -147,7 +237,196 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "dukhan-oil-field-economic-v2",
+    id: "dukhan-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewing platform",
+                  "text": "Die Aussichtsplattform ist eine Attraktion in Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Fountain with seating place",
+                  "text": "Dieser Springbrunnen mit Sitzgelegenheiten ist eine Attraktion in Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "Der erste Produktionsbrunnen ist eine Attraktion in Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "Der Dukhan View Point ist ein Aussichtspunkt in Dukhan Oil Field Economic V2.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            },
+            {
+                  "name": "Souq Dukhan",
+                  "text": "Souq Dukhan ist ein lokaler Marktplatz in Dukhan Oil Field Economic V2.",
+                  "category": "cultural",
+                  "coords": [
+                        50.793405,
+                        25.421226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewing platform",
+                  "text": "A kilátó egy látványosság a Dukhan Oil Field Economic V2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Fountain with seating place",
+                  "text": "Ez az ülőhelyekkel ellátott szökőkút egy látványosság a Dukhan Oil Field Economic V2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "Az első termelőkút egy látványosság a Dukhan Oil Field Economic V2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "A Dukhan View Point egy kilátó a Dukhan Oil Field Economic V2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            },
+            {
+                  "name": "Souq Dukhan",
+                  "text": "A Souq Dukhan egy helyi piac a Dukhan Oil Field Economic V2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        50.793405,
+                        25.421226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewing platform",
+                  "text": "Platforma de observare este o atracție în Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Fountain with seating place",
+                  "text": "Această fântână cu locuri de relaxare este o atracție în Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "Prima sondă de producție este o atracție în Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "Dukhan View Point este un punct de observare în Dukhan Oil Field Economic V2.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            },
+            {
+                  "name": "Souq Dukhan",
+                  "text": "Souq Dukhan este o piață locală din Dukhan Oil Field Economic V2.",
+                  "category": "cultural",
+                  "coords": [
+                        50.793405,
+                        25.421226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewing platform",
+                  "text": "The Viewing platform is an attraction located in Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Fountain with seating place",
+                  "text": "This Fountain with seating place is an attraction in Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "The First production well is an attraction in Dukhan Oil Field Economic V2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "Dukhan View Point is a viewpoint in Dukhan Oil Field Economic V2.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            },
+            {
+                  "name": "Souq Dukhan",
+                  "text": "Souq Dukhan is a local marketplace located in Dukhan Oil Field Economic V2.",
+                  "category": "cultural",
+                  "coords": [
+                        50.793405,
+                        25.421226
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "QA-SH",
     coords: [50.7833, 25.4333],
@@ -243,7 +522,124 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "qatar-science-and-technology-park-economic-v2",
+    id: "qatar-science-and-technology-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Miraculous Journey",
+                  "text": "Diese beeindruckende Freiluft-Kunstinstallation von Damien Hirst besteht aus 14 monumentalen Bronzeskulpturen, die die Entwicklung eines menschlichen Fötus darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444681,
+                        25.320915
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Dieser muslimische Gebetsraum befindet sich inmitten des Innovationszentrums und dient den Forschern und Mitarbeitern des nahe gelegenen Wissenschafts- und Technologieparks.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441952,
+                        25.339022
+                  ]
+            },
+            {
+                  "name": "Education City Mosque",
+                  "text": "Diese atemberaubende Moschee ruht auf fünf Säulen, die die Säulen des Islam darstellen, und verfügt über zwei geschwungene Minarette, die nach Mekka weisen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446924,
+                        25.317194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Miraculous Journey",
+                  "text": "Damien Hirst lenyűgöző szabadtéri művészeti installációja 14 monumentális bronzszoborból áll, amelyek az emberi magzat fejlődését ábrázolják.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444681,
+                        25.320915
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Az innovációs központban fészkelt muszlim imaterem a közeli Tudományos és Technológiai Park kutatóit és munkatársait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441952,
+                        25.339022
+                  ]
+            },
+            {
+                  "name": "Education City Mosque",
+                  "text": "Az iszlám öt pillérét jelképező oszlopokon nyugvó, lenyűgöző mecset két ívelt minarettel rendelkezik, amelyek Mekka felé mutatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446924,
+                        25.317194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Miraculous Journey",
+                  "text": "Creată de Damien Hirst, această impresionantă instalație de artă în aer liber constă din 14 sculpturi monumentale din bronz care înfățișează gestația unui făt uman.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444681,
+                        25.320915
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Amplasată în centrul de inovație, această sală de rugăciune musulmană deservește cercetătorii și personalul Parcului Științific și Tehnologic din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441952,
+                        25.339022
+                  ]
+            },
+            {
+                  "name": "Education City Mosque",
+                  "text": "Sprijinindu-se pe cinci stâlpi structurali care reprezintă stâlpii islamului, această moschee uimitoare prezintă două minarete curbate care indică spre Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446924,
+                        25.317194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Miraculous Journey",
+                  "text": "Created by Damien Hirst, this striking open-air art installation consists of 14 monumental bronze sculptures depicting the gestation of a human fetus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444681,
+                        25.320915
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Nestled within the innovation hub, this Muslim prayer room serves the researchers and staff of the nearby Science and Technology Park.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441952,
+                        25.339022
+                  ]
+            },
+            {
+                  "name": "Education City Mosque",
+                  "text": "Resting on five structural pillars representing the pillars of Islam, this stunning mosque features two sweeping minarets that point towards Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446924,
+                        25.317194
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "QA-DA",
     coords: [51.4350, 25.3220],
@@ -387,7 +783,52 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "qatar-steel-plant-economic-v2",
+    id: "qatar-steel-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "work",
+                  "text": "Eine industrielle Sehenswürdigkeit im Bereich des Stahlwerks von Katar, die Einblicke in die moderne Metallverarbeitung gibt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.582858,
+                        24.986124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "work",
+                  "text": "Ipari látványosság a katari acélmű területén, amely betekintést nyújt a modern fémfeldolgozásba.",
+                  "category": "landmark",
+                  "coords": [
+                        51.582858,
+                        24.986124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "work",
+                  "text": "O atracție industrială în zona oțelăriei din Qatar, care oferă o perspectivă asupra prelucrării moderne a metalelor.",
+                  "category": "landmark",
+                  "coords": [
+                        51.582858,
+                        24.986124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "work",
+                  "text": "An industrial attraction located within the Qatar steel plant area, showcasing modern metal processing.",
+                  "category": "landmark",
+                  "coords": [
+                        51.582858,
+                        24.986124
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "QA-WA",
     coords: [51.5600, 24.9750],
@@ -579,7 +1020,52 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "barzan-gas-project-economic-v2",
+    id: "barzan-gas-project-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjed alkhares",
+                  "text": "Eine islamische Gebetsstätte im industriellen Umfeld des Barzan-Gasprojekts.",
+                  "category": "landmark",
+                  "coords": [
+                        51.439216,
+                        25.859129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjed alkhares",
+                  "text": "Iszlám imalétesítmény a Barzan Gázprojekt ipari környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.439216,
+                        25.859129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjed alkhares",
+                  "text": "O facilitate de rugăciune islamică situată în mediul industrial al proiectului de gaze Barzan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.439216,
+                        25.859129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjed alkhares",
+                  "text": "An Islamic prayer facility located within the industrial environment of the Barzan Gas Project.",
+                  "category": "landmark",
+                  "coords": [
+                        51.439216,
+                        25.859129
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "QA-KH",
     coords: [51.5300, 25.8900],
@@ -627,7 +1113,124 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "doha-port-economic-v2",
+    id: "doha-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mina District",
+                  "text": "Dieses farbenfrohe Hafenviertel ist für seine pastellfarbenen Gebäude und den Blick auf das Meer bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        51.552093,
+                        25.301947
+                  ]
+            },
+            {
+                  "name": "Hafen von Doha",
+                  "text": "Der ehemalige Handelshafen wurde in ein Touristengebiet mit Kreuzfahrtterminal und farbenfrohen Gebäuden umgewandelt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.557934,
+                        25.305883
+                  ]
+            },
+            {
+                  "name": "Al-Riwaq Exhibition Hall",
+                  "text": "Diese geräumige Galerie in der Nähe des Hafens ist für die Präsentation großer zeitgenössischer Kunstinstallationen bekannt.",
+                  "category": "museum",
+                  "coords": [
+                        51.543294,
+                        25.293073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mina District",
+                  "text": "Ez a színes kikötői negyed pasztellszínű épületeiről és a tengerre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        51.552093,
+                        25.301947
+                  ]
+            },
+            {
+                  "name": "Port of Doha",
+                  "text": "Az egykori kereskedelmi kikötőt turisztikai övezetté alakították, sétahajó-terminállal és színes épületekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.557934,
+                        25.305883
+                  ]
+            },
+            {
+                  "name": "Al-Riwaq Exhibition Hall",
+                  "text": "Ez a kikötő közeli tágas galéria nagyszabású kortárs művészeti installációk bemutatásáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        51.543294,
+                        25.293073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mina District",
+                  "text": "Acest cartier portuar colorat este cunoscut pentru clădirile sale în culori pastelate și vederea la mare.",
+                  "category": "natural",
+                  "coords": [
+                        51.552093,
+                        25.301947
+                  ]
+            },
+            {
+                  "name": "Portul Doha",
+                  "text": "Fostul port comercial a fost transformat într-o zonă turistică, cu un terminal de croazieră și clădiri colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        51.557934,
+                        25.305883
+                  ]
+            },
+            {
+                  "name": "Al-Riwaq Exhibition Hall",
+                  "text": "Această galerie spațioasă de lângă port este cunoscută pentru prezentarea unor mari instalații de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        51.543294,
+                        25.293073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mina District",
+                  "text": "This colorful port district is known for its pastel-colored buildings and views of the sea.",
+                  "category": "natural",
+                  "coords": [
+                        51.552093,
+                        25.301947
+                  ]
+            },
+            {
+                  "name": "Port of Doha",
+                  "text": "The former commercial port has been transformed into a tourist area with a cruise terminal and colorful buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        51.557934,
+                        25.305883
+                  ]
+            },
+            {
+                  "name": "Al-Riwaq Exhibition Hall",
+                  "text": "This spacious gallery near the port is known for showcasing large-scale contemporary art installations.",
+                  "category": "museum",
+                  "coords": [
+                        51.543294,
+                        25.293073
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "QA-DA",
     coords: [51.5450, 25.2950],
@@ -723,7 +1326,340 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "ras-bufontas-free-zone-economic-v2",
+    id: "ras-bufontas-free-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Accurate Trading Ibhrahim bhai Job Location",
+                  "text": "Ein Wirtschaftsstandort in der Freihandelszone Ras Bufontas, der für den lokalen Handel von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.57564,
+                        25.209594
+                  ]
+            },
+            {
+                  "name": "Al Thumama St.",
+                  "text": "Ein Aussichtspunkt in Ras Bufontas, der einen weiten Blick über die modernen Wohn- und Industriegebiete bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.542394,
+                        25.228648
+                  ]
+            },
+            {
+                  "name": "Kahrama Awareness Park",
+                  "text": "Ein interaktives Bildungszentrum, das Besuchern moderne Technologien zur Wasser- und Stromeinsparung näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        51.547352,
+                        25.237475
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "Eine große Einkaufsgalerie in Ras Bufontas, die für ihre vielfältigen Abteilungen und Konsumgüter bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        51.568159,
+                        25.244278
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Rosary",
+                  "text": "Die erste christliche Kirche Katars, die 2008 eröffnet wurde und der römisch-katholischen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        51.521934,
+                        25.212678
+                  ]
+            },
+            {
+                  "name": "Malankara Orthodox Church",
+                  "text": "Diese Kirche dient der Malankara-Orthodoxen Gemeinde und ist ein wichtiges Zentrum für die indische Diaspora.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523269,
+                        25.213564
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "Ein christliches Gemeindezentrum in Ras Bufontas, das Gottesdienste für verschiedene evangelische Gruppen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523702,
+                        25.212608
+                  ]
+            },
+            {
+                  "name": "Ezdan Oasis Masjid",
+                  "text": "Diese Moschee liegt innerhalb der Ezdan Oasis Wohnanlage und bietet Platz für hunderte von Betern.",
+                  "category": "landmark",
+                  "coords": [
+                        51.517945,
+                        25.16247
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Funtas",
+                  "text": "Eine lokale Moschee im Stadtteil Abu Funtas, die durch ihr schlichtes und funktionales Design besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        51.607419,
+                        25.210738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Accurate Trading Ibhrahim bhai Job Location",
+                  "text": "Gazdasági helyszín a Ras Bufontas szabadkereskedelmi övezetben, amely fontos a helyi kereskedelem számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.57564,
+                        25.209594
+                  ]
+            },
+            {
+                  "name": "Al Thumama St.",
+                  "text": "Kilátópont Ras Bufontasban, ahonnan széles kilátás nyílik a modern lakó- és ipari területekre.",
+                  "category": "natural",
+                  "coords": [
+                        51.542394,
+                        25.228648
+                  ]
+            },
+            {
+                  "name": "Kahrama Awareness Park",
+                  "text": "Interaktív oktatási központ, amely a látogatóknak a víz- és áramtakarékosság modern technológiáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        51.547352,
+                        25.237475
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "Nagy bevásárlógaléria Ras Bufontasban, amely változatos részlegeiről és fogyasztási cikkeiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        51.568159,
+                        25.244278
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Rosary",
+                  "text": "Katar első keresztény temploma, amelyet 2008-ban nyitottak meg a római katolikus közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        51.521934,
+                        25.212678
+                  ]
+            },
+            {
+                  "name": "Malankara Orthodox Church",
+                  "text": "Ez a templom a Malankara Ortodox közösséget szolgálja, és az indiai diaszpóra fontos központja.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523269,
+                        25.213564
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "Keresztény közösségi központ Ras Bufontasban, amely istentiszteleteket kínál különböző evangélikus csoportoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523702,
+                        25.212608
+                  ]
+            },
+            {
+                  "name": "Ezdan Oasis Masjid",
+                  "text": "Ez a mecset az Ezdan Oasis lakóparkban található, és több száz hívő befogadására alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        51.517945,
+                        25.16247
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Funtas",
+                  "text": "Helyi mecset Abu Funtas negyedben, amely egyszerű és funkcionális kialakításával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.607419,
+                        25.210738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Accurate Trading Ibhrahim bhai Job Location",
+                  "text": "O locație economică în zona liberă Ras Bufontas, importantă pentru comerțul local.",
+                  "category": "landmark",
+                  "coords": [
+                        51.57564,
+                        25.209594
+                  ]
+            },
+            {
+                  "name": "Al Thumama St.",
+                  "text": "Un punct de observație în Ras Bufontas, oferind o vedere panoramică asupra zonelor rezidențiale și industriale moderne.",
+                  "category": "natural",
+                  "coords": [
+                        51.542394,
+                        25.228648
+                  ]
+            },
+            {
+                  "name": "Kahrama Awareness Park",
+                  "text": "Un centru educațional interactiv care prezintă vizitatorilor tehnologii moderne pentru conservarea apei și energiei electrice.",
+                  "category": "museum",
+                  "coords": [
+                        51.547352,
+                        25.237475
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "O galerie comercială mare în Ras Bufontas, cunoscută pentru departamentele sale diverse și bunurile de larg consum.",
+                  "category": "museum",
+                  "coords": [
+                        51.568159,
+                        25.244278
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Rosary",
+                  "text": "Prima biserică creștină din Qatar, deschisă în 2008, care deservește comunitatea romano-catolică.",
+                  "category": "religious",
+                  "coords": [
+                        51.521934,
+                        25.212678
+                  ]
+            },
+            {
+                  "name": "Malankara Orthodox Church",
+                  "text": "Această biserică deservește comunitatea ortodoxă Malankara și este un centru important pentru diaspora indiană.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523269,
+                        25.213564
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "Un centru comunitar creștin în Ras Bufontas, care oferă servicii religioase pentru diverse grupuri evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523702,
+                        25.212608
+                  ]
+            },
+            {
+                  "name": "Ezdan Oasis Masjid",
+                  "text": "Această moschee se află în complexul rezidențial Ezdan Oasis și are capacitatea de a primi sute de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        51.517945,
+                        25.16247
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Funtas",
+                  "text": "O moschee locală în cartierul Abu Funtas, remarcabilă prin designul său simplu și funcțional.",
+                  "category": "landmark",
+                  "coords": [
+                        51.607419,
+                        25.210738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Accurate Trading Ibhrahim bhai Job Location",
+                  "text": "An economic site within the Ras Bufontas Free Zone, important for local trade.",
+                  "category": "landmark",
+                  "coords": [
+                        51.57564,
+                        25.209594
+                  ]
+            },
+            {
+                  "name": "My home",
+                  "text": "A viewpoint in Ras Bufontas offering wide views over the modern residential and industrial areas.",
+                  "category": "natural",
+                  "coords": [
+                        51.542394,
+                        25.228648
+                  ]
+            },
+            {
+                  "name": "Kahrama Awareness Park",
+                  "text": "An interactive educational center teaching visitors about modern water and electricity conservation technologies.",
+                  "category": "museum",
+                  "coords": [
+                        51.547352,
+                        25.237475
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "A large shopping gallery in Ras Bufontas known for its diverse departments and consumer goods.",
+                  "category": "museum",
+                  "coords": [
+                        51.568159,
+                        25.244278
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Rosary",
+                  "text": "The first Christian church in Qatar, opened in 2008 to serve the Roman Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        51.521934,
+                        25.212678
+                  ]
+            },
+            {
+                  "name": "Malankara Orthodox Church, Qatar",
+                  "text": "This church serves the Malankara Orthodox community and is an important center for the Indian diaspora.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523269,
+                        25.213564
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "A Christian community center in Ras Bufontas offering services for various evangelical groups.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523702,
+                        25.212608
+                  ]
+            },
+            {
+                  "name": "Ezdan Oasis Masjid",
+                  "text": "This mosque is located within the Ezdan Oasis residential complex and can accommodate hundreds of worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.517945,
+                        25.16247
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Funtas",
+                  "text": "A local mosque in the Abu Funtas area, notable for its simple and functional design.",
+                  "category": "landmark",
+                  "coords": [
+                        51.607419,
+                        25.210738
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "QA-DA",
     coords: [51.5740, 25.2150],
@@ -771,7 +1707,52 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "umm-al-houl-power-plant-economic-v2",
+    id: "umm-al-houl-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coast guard",
+                  "text": "Die Küstenwache von Umm Al Houl überwacht den Schiffsverkehr nahe der Industriezone und des Hafens.",
+                  "category": "landmark",
+                  "coords": [
+                        51.618448,
+                        25.121961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coast guard",
+                  "text": "Az Umm Al Houl-i partőrség felügyeli a hajóforgalmat az ipari zóna és a kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.618448,
+                        25.121961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coast guard",
+                  "text": "Garda de coastă din Umm Al Houl supraveghează traficul maritim lângă zona industrială și port.",
+                  "category": "landmark",
+                  "coords": [
+                        51.618448,
+                        25.121961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coast guard",
+                  "text": "The coast guard station at Umm Al Houl monitors maritime traffic near the industrial zone and port.",
+                  "category": "landmark",
+                  "coords": [
+                        51.618448,
+                        25.121961
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "QA-WA",
     coords: [51.6250, 25.0760],
@@ -819,7 +1800,232 @@ export const poiExtraQatarEconomicV2: POI[] = [
     }
   },
   {
-    id: "al-rayyan-industrial-area-economic-v2",
+    id: "al-rayyan-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "hydraulic center",
+                  "text": "Ein Aussichtspunkt mit Blick auf die industrielle Infrastruktur und technischen Anlagen von Al Rayyan.",
+                  "category": "natural",
+                  "coords": [
+                        51.432857,
+                        25.197269
+                  ]
+            },
+            {
+                  "name": "Halul offshore",
+                  "text": "Dieser Punkt bietet Einblicke in die maritimen Offshore-Industrieaktivitäten, die für Katars Wirtschaft zentral sind.",
+                  "category": "natural",
+                  "coords": [
+                        51.445381,
+                        25.208629
+                  ]
+            },
+            {
+                  "name": "Asian Town Amphitheater",
+                  "text": "Ein großes Freiluft-Amphitheater in Asian Town, das kulturelle Darbietungen für Tausende von Zuschauern beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        51.464547,
+                        25.187026
+                  ]
+            },
+            {
+                  "name": "Street 14 hvac workshop",
+                  "text": "Ein lokaler Gebetsraum im Industriegebiet von Al Rayyan, der den Arbeitern in der Straße 14 dient.",
+                  "category": "religious",
+                  "coords": [
+                        51.42461,
+                        25.199069
+                  ]
+            },
+            {
+                  "name": "Bnaider united group workshop",
+                  "text": "Eine Gebetsstätte auf einem Industriegelände, die einen spirituellen Raum für die Belegschaft der Bnaider Group bietet.",
+                  "category": "religious",
+                  "coords": [
+                        51.432399,
+                        25.186916
+                  ]
+            },
+            {
+                  "name": "Al Attiya Market",
+                  "text": "Ein lebhafter Marktplatz in Al Rayyan, bekannt für preiswerte Waren und vielfältige internationale Garküchen.",
+                  "category": "cultural",
+                  "coords": [
+                        51.430135,
+                        25.195928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hydraulic center",
+                  "text": "Al Rayyan ipari infrastruktúrájára és műszaki létesítményeire néző kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        51.432857,
+                        25.197269
+                  ]
+            },
+            {
+                  "name": "Halul offshore",
+                  "text": "Ez a pont betekintést nyújt a Katar gazdasága szempontjából meghatározó tengeri és offshore ipari tevékenységekbe.",
+                  "category": "natural",
+                  "coords": [
+                        51.445381,
+                        25.208629
+                  ]
+            },
+            {
+                  "name": "Asian Town Amphitheater",
+                  "text": "Hatalmas szabadtéri amfiteátrum Asian Townban, amely több ezer néző számára rendez kulturális előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        51.464547,
+                        25.187026
+                  ]
+            },
+            {
+                  "name": "Street 14 hvac workshop",
+                  "text": "Al Rayyan ipari negyedében található helyi imatér, amely a 14. utca munkásait szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        51.42461,
+                        25.199069
+                  ]
+            },
+            {
+                  "name": "Bnaider united group workshop",
+                  "text": "Ipari területen lévő imaház, amely lelki teret biztosít a Bnaider Group munkatársai számára.",
+                  "category": "religious",
+                  "coords": [
+                        51.432399,
+                        25.186916
+                  ]
+            },
+            {
+                  "name": "Al Attiya Market",
+                  "text": "Nyüzsgő piactér Al Rayyanban, amely olcsó áruiról és változatos nemzetközi ételstandjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.430135,
+                        25.195928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hydraulic center",
+                  "text": "Un punct de observație cu vedere la infrastructura industrială și facilitățile tehnice din Al Rayyan.",
+                  "category": "natural",
+                  "coords": [
+                        51.432857,
+                        25.197269
+                  ]
+            },
+            {
+                  "name": "Halul offshore",
+                  "text": "Acest punct oferă perspective asupra activităților industriale maritime offshore, esențiale pentru economia Qatarului.",
+                  "category": "natural",
+                  "coords": [
+                        51.445381,
+                        25.208629
+                  ]
+            },
+            {
+                  "name": "Asian Town Amphitheater",
+                  "text": "Un mare amfiteatru în aer liber din Asian Town, care găzduiește spectacole culturale pentru mii de spectatori.",
+                  "category": "cultural",
+                  "coords": [
+                        51.464547,
+                        25.187026
+                  ]
+            },
+            {
+                  "name": "Street 14 hvac workshop",
+                  "text": "Un spațiu de rugăciune local în zona industrială din Al Rayyan, deservind lucrătorii de pe strada 14.",
+                  "category": "religious",
+                  "coords": [
+                        51.42461,
+                        25.199069
+                  ]
+            },
+            {
+                  "name": "Bnaider united group workshop",
+                  "text": "O facilitate de rugăciune într-un sit industrial, oferind un spațiu spiritual pentru personalul Bnaider Group.",
+                  "category": "religious",
+                  "coords": [
+                        51.432399,
+                        25.186916
+                  ]
+            },
+            {
+                  "name": "Al Attiya Market",
+                  "text": "O piață plină de viață în Al Rayyan, cunoscută pentru bunuri accesibile și diverse tarabe cu mâncare internațională.",
+                  "category": "cultural",
+                  "coords": [
+                        51.430135,
+                        25.195928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hydraulic center",
+                  "text": "A viewpoint overlooking the industrial infrastructure and technical facilities of Al Rayyan.",
+                  "category": "natural",
+                  "coords": [
+                        51.432857,
+                        25.197269
+                  ]
+            },
+            {
+                  "name": "Halul offshore",
+                  "text": "This point provides insights into the maritime offshore industrial operations central to Qatar's economy.",
+                  "category": "natural",
+                  "coords": [
+                        51.445381,
+                        25.208629
+                  ]
+            },
+            {
+                  "name": "Asian Town Amphitheater",
+                  "text": "A large outdoor amphitheater in Asian Town hosting cultural performances for thousands of spectators.",
+                  "category": "cultural",
+                  "coords": [
+                        51.464547,
+                        25.187026
+                  ]
+            },
+            {
+                  "name": "Street 14 hvac workshop",
+                  "text": "A local prayer space in the industrial area of Al Rayyan, serving the workers on Street 14.",
+                  "category": "religious",
+                  "coords": [
+                        51.42461,
+                        25.199069
+                  ]
+            },
+            {
+                  "name": "Bnaider united group workshop",
+                  "text": "An industrial-site prayer facility providing a spiritual space for the workforce of the Bnaider Group.",
+                  "category": "religious",
+                  "coords": [
+                        51.432399,
+                        25.186916
+                  ]
+            },
+            {
+                  "name": "Al Attiya Market",
+                  "text": "A bustling marketplace in Al Rayyan known for affordable goods and diverse international food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        51.430135,
+                        25.195928
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "QA-RA",
     coords: [51.4240, 25.1870],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraJordanHistoryV2: POI[] = [
   {
-    id: "petra-history-v2",
+    id: "petra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Urnengrab",
+                  "text": "Ein monumentales Grabmal, das im Jahr 446 n. Chr. in eine christliche Kathedrale umgewandelt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.449262,
+                        30.327551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Urn Tomb",
+                  "text": "Egy monumentális síremlék, amelyet i.sz. 446-ban keresztény katedrálissá alakítottak át.",
+                  "category": "landmark",
+                  "coords": [
+                        35.449262,
+                        30.327551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Urn Tomb",
+                  "text": "Un mormânt monumental care a fost transformat într-o catedrală creștină în anul 446 d.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.449262,
+                        30.327551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Urn Tomb",
+                  "text": "A monumental tomb that was converted into a Christian cathedral in 446 AD.",
+                  "category": "landmark",
+                  "coords": [
+                        35.449262,
+                        30.327551
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "JO-MN",
     coords: [35.4444, 30.3290],
@@ -67,7 +112,232 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "jerash-history-v2",
+    id: "jerash-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Westbäder",
+                  "text": "Diese verfallenen Badehäuser bieten einen Einblick in das antike öffentliche Leben und die Badekultur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893721,
+                        32.281995
+                  ]
+            },
+            {
+                  "name": "Kirche der Propyläen",
+                  "text": "Diese historische archäologische Stätte weist Überreste einer Kirche auf, die aus der Zeit zwischen 565 und 749 n. Chr. stammen.",
+                  "category": "historical",
+                  "coords": [
+                        35.893118,
+                        32.281024
+                  ]
+            },
+            {
+                  "name": "Die Kathedrale",
+                  "text": "Diese archäologischen Ruinen aus der Zeit um 450 bis 455 n. Chr. offenbaren die Grundmauern einer frühchristlichen Kathedrale.",
+                  "category": "historical",
+                  "coords": [
+                        35.891631,
+                        32.280541
+                  ]
+            },
+            {
+                  "name": "Kirche Johannes des Täufers",
+                  "text": "Die Ruinen dieser historischen Kirche zeigen christliche Architektur aus dem Jahr 533 n. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        35.889389,
+                        32.281319
+                  ]
+            },
+            {
+                  "name": "Artemis-Heiligtum",
+                  "text": "Diese weitläufige archäologische Stätte aus der Zeit um 135 n. Chr. war einst Schauplatz großer Rituale zu Ehren der Göttin.",
+                  "category": "historical",
+                  "coords": [
+                        35.891132,
+                        32.281824
+                  ]
+            },
+            {
+                  "name": "Gerasa",
+                  "text": "Diese bemerkenswert gut erhaltene antike römische Stadt besticht durch säulengesäumte Straßen und monumentale Tempel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890607,
+                        32.279942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Western Baths",
+                  "text": "Ezek a romos fürdőházak bepillantást engednek az ókori mindennapi közösségi életbe és fürdőzési rituálékba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893721,
+                        32.281995
+                  ]
+            },
+            {
+                  "name": "The Church of the Propylaea",
+                  "text": "Ez a történelmi régészeti lelőhely egy Kr. u. 565 és 749 közötti időszakból származó templom romjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        35.893118,
+                        32.281024
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "A körülbelül Kr. u. 450 és 455 között épült régészeti romok egy ókeresztény katedrális alapjait tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        35.891631,
+                        32.280541
+                  ]
+            },
+            {
+                  "name": "Church of St. John the Baptist",
+                  "text": "Ennek a történelmi templomnak a romjai a Kr. u. 533-ból származó keresztény építészetet mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        35.889389,
+                        32.281319
+                  ]
+            },
+            {
+                  "name": "The Sanctuary of Artemis",
+                  "text": "Ez a mintegy Kr. u. 135-ből származó kiterjedt régészeti lelőhely egykor az istennőnek szentelt nagyszabású rituálék helyszíne volt.",
+                  "category": "historical",
+                  "coords": [
+                        35.891132,
+                        32.281824
+                  ]
+            },
+            {
+                  "name": "Jerash",
+                  "text": "Ez a figyelemre méltóan jól megőrzött ókori római város oszlopsoros utcákkal és monumentális templomokkal büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890607,
+                        32.279942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Western Baths",
+                  "text": "Aceste băi ruinate oferă o privire asupra vieții publice și a ritualurilor de îmbăiere din antichitate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893721,
+                        32.281995
+                  ]
+            },
+            {
+                  "name": "The Church of the Propylaea",
+                  "text": "Acest sit arheologic istoric prezintă rămășițele unei biserici care datează din perioada dintre anii 565 și 749 d.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        35.893118,
+                        32.281024
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "Construite în jurul anilor 450-455 d.Hr., aceste ruine arheologice dezvăluie fundațiile unei catedrale creștine timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        35.891631,
+                        32.280541
+                  ]
+            },
+            {
+                  "name": "Church of St. John the Baptist",
+                  "text": "Ruinele acestei biserici istorice prezintă arhitectura creștină din anul 533 d.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        35.889389,
+                        32.281319
+                  ]
+            },
+            {
+                  "name": "The Sanctuary of Artemis",
+                  "text": "Acest vast sit arheologic, datând din jurul anului 135 d.Hr., a găzduit odinioară ritualuri grandioase dedicate zeiței.",
+                  "category": "historical",
+                  "coords": [
+                        35.891132,
+                        32.281824
+                  ]
+            },
+            {
+                  "name": "Jerash",
+                  "text": "Acest oraș antic roman, remarcabil de bine conservat, se mândrește cu străzi cu coloane și temple monumentale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890607,
+                        32.279942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Western Baths",
+                  "text": "These ruined bathhouses provide a glimpse into ancient daily public life and bathing rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893721,
+                        32.281995
+                  ]
+            },
+            {
+                  "name": "The Church of the Propylaea",
+                  "text": "This historical archaeological site features church remains dating back to the period between 565 and 749 AD.",
+                  "category": "historical",
+                  "coords": [
+                        35.893118,
+                        32.281024
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "Built around 450 to 455 AD, these archaeological ruins reveal the foundations of an early Christian cathedral.",
+                  "category": "historical",
+                  "coords": [
+                        35.891631,
+                        32.280541
+                  ]
+            },
+            {
+                  "name": "Church of St. John the Baptist",
+                  "text": "The ruins of this historical church showcase Christian architecture from the year 533 AD.",
+                  "category": "historical",
+                  "coords": [
+                        35.889389,
+                        32.281319
+                  ]
+            },
+            {
+                  "name": "The Sanctuary of Artemis",
+                  "text": "This sweeping archaeological site, dating to roughly 135 AD, once hosted grand rituals dedicated to the goddess.",
+                  "category": "historical",
+                  "coords": [
+                        35.891132,
+                        32.281824
+                  ]
+            },
+            {
+                  "name": "Jerash",
+                  "text": "This remarkably well-preserved ancient Roman city features colonnaded streets and monumental temples.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890607,
+                        32.279942
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "JO-JA",
     coords: [35.8914, 32.2818],
@@ -131,7 +401,448 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "amman-citadel-history-v2",
+    id: "amman-citadel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hedjaz Jordan Railway Museum",
+                  "text": "Das Museum zeigt historische Dampflokomotiven und Waggons der berühmten Hedschasbahn aus dem frühen 20. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        35.968183,
+                        31.968505
+                  ]
+            },
+            {
+                  "name": "Masjid Fatima Alzahraa",
+                  "text": "Eine moderne Gemeinschaftsmoschee in der Nähe der Zitadelle von Amman mit traditionellen Rundbögen.",
+                  "category": "religious",
+                  "coords": [
+                        35.990859,
+                        31.976561
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Park",
+                  "text": "Eine städtische Grünanlage am Fuße der Zitadelle, die Wanderwege und Ruhezonen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.950218,
+                        31.977207
+                  ]
+            },
+            {
+                  "name": "Qasr al Nuwayjis",
+                  "text": "Ein gut erhaltenes römisches Mausoleum aus dem 2. Jahrhundert, das einsam auf einer Anhöhe im Norden Ammans steht.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        31.982699
+                  ]
+            },
+            {
+                  "name": "Rujm al Mudawwara",
+                  "text": "Die Überreste eines antiken kreisförmigen Steinturms, der einst als Wachturm in der Region diente.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "'Ain Ghazal",
+                  "text": "Diese neolithische Ausgrabungsstätte ist weltberühmt für den Fund prähistorischer Kalkputzstatuen aus dem 7. Jahrtausend v. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        35.976311,
+                        31.988459
+                  ]
+            },
+            {
+                  "name": "Al Abbas mosque",
+                  "text": "Eine Moschee mit moderner Architektur und einer markanten Kuppel im Zitadellenviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964303,
+                        31.974808
+                  ]
+            },
+            {
+                  "name": "Muadh ibn Jabal Mosque",
+                  "text": "Ein bedeutendes islamisches Gebetshaus mit einer hellen Steinfassade und einem hohen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.968697,
+                        32.001477
+                  ]
+            },
+            {
+                  "name": "Faris bin Tawaleh Mosque",
+                  "text": "Eine lokale Nachbarschaftsmoschee, die die Bewohner im östlichen Teil des Zitadellenhügels bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.956749,
+                        31.980226
+                  ]
+            },
+            {
+                  "name": "Mosa Al-Hadban mosque",
+                  "text": "Ein zeitgenössisches religiöses Gebäude aus lokalem Kalkstein, das sich in die Architektur der Stadt einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964138,
+                        32.003933
+                  ]
+            },
+            {
+                  "name": "tariq ben ziyad mosque",
+                  "text": "Diese im Wohnviertel gelegene Moschee ist nach dem berühmten muslimischen Feldherrn Tariq ibn Ziyad benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.953256,
+                        32.00262
+                  ]
+            },
+            {
+                  "name": "Al Atrak Mosque",
+                  "text": "Ein bescheidenes islamisches Gotteshaus im Herzen eines der dicht besiedelten Viertel Ammans.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947373,
+                        31.985183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hedjaz Jordan Railway Museum",
+                  "text": "A múzeum a híres Hedzsáz-vasút 20. század eleji történelmi gőzmozdonyait és kocsijait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.968183,
+                        31.968505
+                  ]
+            },
+            {
+                  "name": "Masjid Fatima Alzahraa",
+                  "text": "Modern közösségi mecset az ammani citadella közelében, hagyományos kerek ívekkel.",
+                  "category": "religious",
+                  "coords": [
+                        35.990859,
+                        31.976561
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Park",
+                  "text": "Városi zöldterület a citadella lábánál, amely sétatösvényeket és pihenőhelyeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.950218,
+                        31.977207
+                  ]
+            },
+            {
+                  "name": "Qasr al Nuwayjis",
+                  "text": "Jó állapotban fennmaradt 2. századi római mauzóleum, amely magányosan áll egy dombtetőn Amman északi részén.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        31.982699
+                  ]
+            },
+            {
+                  "name": "Rujm al Mudawwara",
+                  "text": "Egy ősi, kör alakú kőtorony maradványai, amely egykor őrtoronyként szolgált a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "'Ain Ghazal",
+                  "text": "Ez a neolitikus régészeti lelőhely a Kr. e. 7. évezredből származó mészvakolat szobrairól világhírű.",
+                  "category": "historical",
+                  "coords": [
+                        35.976311,
+                        31.988459
+                  ]
+            },
+            {
+                  "name": "Al Abbas mosque",
+                  "text": "Modern építészetű mecset jellegzetes kupolával a citadella negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964303,
+                        31.974808
+                  ]
+            },
+            {
+                  "name": "Muadh ibn Jabal Mosque",
+                  "text": "Jelentős iszlám imaház világos kőhomlokzattal és magas minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.968697,
+                        32.001477
+                  ]
+            },
+            {
+                  "name": "Faris bin Tawaleh Mosque",
+                  "text": "Helyi szomszédsági mecset, amely a citadella-domb keleti részén élőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.956749,
+                        31.980226
+                  ]
+            },
+            {
+                  "name": "Mosa Al-Hadban mosque",
+                  "text": "Helyi mészkőből készült kortárs vallási épület, amely illeszkedik a város építészetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964138,
+                        32.003933
+                  ]
+            },
+            {
+                  "name": "tariq ben ziyad mosque",
+                  "text": "Ez a lakónegyedben található mecset a híres muszlim hadvezérről, Tárik ibn Zijádról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        35.953256,
+                        32.00262
+                  ]
+            },
+            {
+                  "name": "Al Atrak Mosque",
+                  "text": "Szerény iszlám imaház Amman egyik sűrűn lakott negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947373,
+                        31.985183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hedjaz Jordan Railway Museum",
+                  "text": "Muzeul expune locomotive cu abur istorice și vagoane ale faimoasei căi ferate Hedjaz de la începutul secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        35.968183,
+                        31.968505
+                  ]
+            },
+            {
+                  "name": "Masjid Fatima Alzahraa",
+                  "text": "O moschee comunitară modernă lângă Citadela din Amman, cu arcade rotunde tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        35.990859,
+                        31.976561
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Park",
+                  "text": "O zonă verde urbană la poalele Citadelei, care oferă alei de plimbare și zone de relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.950218,
+                        31.977207
+                  ]
+            },
+            {
+                  "name": "Qasr al Nuwayjis",
+                  "text": "Un mauzoleu roman bine conservat din secolul al II-lea, care stă singur pe o înălțime din nordul Ammanului.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        31.982699
+                  ]
+            },
+            {
+                  "name": "Rujm al Mudawwara",
+                  "text": "Rămășițele unui turn circular antic din piatră, care a servit odinioară drept turn de veghe în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "'Ain Ghazal",
+                  "text": "Acest sit arheologic neolitic este faimos în întreaga lume pentru descoperirea statuilor preistorice din ipsos de var din mileniul VII î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        35.976311,
+                        31.988459
+                  ]
+            },
+            {
+                  "name": "Al Abbas mosque",
+                  "text": "O moschee cu arhitectură modernă și o cupolă distinctivă în cartierul Citadelei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964303,
+                        31.974808
+                  ]
+            },
+            {
+                  "name": "Muadh ibn Jabal Mosque",
+                  "text": "Un lăcaș de cult islamic important, cu o fațadă de piatră deschisă la culoare și un minaret înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.968697,
+                        32.001477
+                  ]
+            },
+            {
+                  "name": "Faris bin Tawaleh Mosque",
+                  "text": "O moschee locală de cartier care deservește locuitorii din partea de est a dealului Citadelei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.956749,
+                        31.980226
+                  ]
+            },
+            {
+                  "name": "Mosa Al-Hadban mosque",
+                  "text": "O clădire religioasă contemporană construită din calcar local, care se integrează în arhitectura orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964138,
+                        32.003933
+                  ]
+            },
+            {
+                  "name": "tariq ben ziyad mosque",
+                  "text": "Această moschee situată într-o zonă rezidențială poartă numele faimosului general musulman Tariq ibn Ziyad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.953256,
+                        32.00262
+                  ]
+            },
+            {
+                  "name": "Al Atrak Mosque",
+                  "text": "Un lăcaș de cult islamic modest în inima unuia dintre cartierele dens populate ale Ammanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947373,
+                        31.985183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hedjaz Jordan Railway Museum",
+                  "text": "The museum showcases historic steam locomotives and carriages of the famous Hedjaz Railway from the early 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        35.968183,
+                        31.968505
+                  ]
+            },
+            {
+                  "name": "Masjid Fatima Alzahraa",
+                  "text": "A modern community mosque near the Amman Citadel, featuring traditional rounded arches.",
+                  "category": "religious",
+                  "coords": [
+                        35.990859,
+                        31.976561
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Park",
+                  "text": "An urban green space at the base of the Citadel, providing walking paths and relaxation areas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.950218,
+                        31.977207
+                  ]
+            },
+            {
+                  "name": "Qasr al Nuwayjis",
+                  "text": "A well-preserved 2nd-century Roman mausoleum standing alone on a high point in northern Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.95,
+                        31.982699
+                  ]
+            },
+            {
+                  "name": "Rujm al Mudawwara",
+                  "text": "The remnants of an ancient circular stone tower that once served as a watchtower in the region.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "'Ain Ghazal",
+                  "text": "This Neolithic archaeological site is world-famous for the discovery of prehistoric lime plaster statues from the 7th millennium BC.",
+                  "category": "historical",
+                  "coords": [
+                        35.976311,
+                        31.988459
+                  ]
+            },
+            {
+                  "name": "Al Abbas mosque",
+                  "text": "A mosque featuring modern architecture and a prominent dome in the Citadel district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964303,
+                        31.974808
+                  ]
+            },
+            {
+                  "name": "Muadh ibn Jabal Mosque",
+                  "text": "A prominent Islamic house of worship with a light stone facade and a tall minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.968697,
+                        32.001477
+                  ]
+            },
+            {
+                  "name": "Faris bin Tawaleh Mosque",
+                  "text": "A local neighborhood mosque serving the residents in the eastern part of the Citadel hill.",
+                  "category": "landmark",
+                  "coords": [
+                        35.956749,
+                        31.980226
+                  ]
+            },
+            {
+                  "name": "Mosa Al-Hadban mosque",
+                  "text": "A contemporary religious building constructed from local limestone, fitting the city's architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.964138,
+                        32.003933
+                  ]
+            },
+            {
+                  "name": "tariq ben ziyad mosque",
+                  "text": "Located in a residential area, this mosque is named after the famous Muslim general Tariq ibn Ziyad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.953256,
+                        32.00262
+                  ]
+            },
+            {
+                  "name": "Al Atrak Mosque",
+                  "text": "A modest Islamic house of worship in the heart of one of Amman's densely populated neighborhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947373,
+                        31.985183
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-AM",
     coords: [35.9376, 31.9544],
@@ -195,7 +906,160 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "roman-theater-amman-history-v2",
+    id: "roman-theater-amman-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jordan Folklore Museum",
+                  "text": "Dieses Museum am Römischen Theater zeigt traditionelles jordanisches Leben und Kleidung aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        35.93894,
+                        31.951741
+                  ]
+            },
+            {
+                  "name": "My home",
+                  "text": "Ein Aussichtspunkt auf einem Hügel, der einen Panoramablick über das historische Viertel des Römischen Theaters bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.988208,
+                        31.934727
+                  ]
+            },
+            {
+                  "name": "Hashemite Square Gardens",
+                  "text": "Ein öffentlicher Park und Platz vor dem Römischen Theater, der als beliebter Treffpunkt im Stadtzentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.939886,
+                        31.952241
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine lokale Moschee im historischen Viertel von Amman, die durch ihr schlankes Minarett gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947878,
+                        31.942463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jordan Folklore Museum",
+                  "text": "A Római Színháznál található múzeum a 19. századi hagyományos jordániai életet és viseleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.93894,
+                        31.951741
+                  ]
+            },
+            {
+                  "name": "My home",
+                  "text": "Domboldali kilátópont, ahonnan panorámás kilátás nyílik a Római Színház történelmi negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        35.988208,
+                        31.934727
+                  ]
+            },
+            {
+                  "name": "Hashemite Square Gardens",
+                  "text": "A Római Színház előtti nyilvános park és tér, amely a városközpont népszerű találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.939886,
+                        31.952241
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Amman történelmi negyedében található helyi mecset, amelyet karcsú minaretje jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947878,
+                        31.942463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jordan Folklore Museum",
+                  "text": "Acest muzeu de lângă Teatrul Roman prezintă viața tradițională iordaniană și portul popular din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        35.93894,
+                        31.951741
+                  ]
+            },
+            {
+                  "name": "My home",
+                  "text": "Un punct de observație pe deal care oferă o vedere panoramică asupra cartierului istoric al Teatrului Roman.",
+                  "category": "natural",
+                  "coords": [
+                        35.988208,
+                        31.934727
+                  ]
+            },
+            {
+                  "name": "Hashemite Square Gardens",
+                  "text": "Un parc public și o piață în fața Teatrului Roman, servind drept loc popular de întâlnire în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.939886,
+                        31.952241
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee locală din cartierul istoric al Ammanului, caracterizată prin minaretul său zvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947878,
+                        31.942463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jordan Folklore Museum",
+                  "text": "Located at the Roman Theater, this museum displays traditional Jordanian life and 19th-century costumes.",
+                  "category": "museum",
+                  "coords": [
+                        35.93894,
+                        31.951741
+                  ]
+            },
+            {
+                  "name": "My home",
+                  "text": "A hilltop vantage point offering panoramic views over the historic Roman Theater district.",
+                  "category": "natural",
+                  "coords": [
+                        35.988208,
+                        31.934727
+                  ]
+            },
+            {
+                  "name": "Hashemite Square Gardens",
+                  "text": "A public park and plaza in front of the Roman Theater, serving as a popular meeting spot in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.939886,
+                        31.952241
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local mosque in Amman's historic district, characterized by its slender minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.947878,
+                        31.942463
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "JO-AM",
     coords: [35.9392, 31.9516],
@@ -259,7 +1123,124 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "ajloun-castle-history-v2",
+    id: "ajloun-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Biddiyah",
+                  "text": "Eine archäologische Fundstätte mit den Ruinen eines antiken islamischen Dorfes und einer historischen Moschee.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Nilah",
+                  "text": "Diese antiken Ruinen auf einem Hügel bei Adschlun zeigen Überreste historischer Steinstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Festung Adschlun",
+                  "text": "Die im 12. Jahrhundert von den Ayyubiden errichtete Burg schützte einst die Region vor den Kreuzrittern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727362,
+                        32.325189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Biddiyah",
+                  "text": "Régészeti lelőhely egy ősi iszlám falu és egy történelmi mecset romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Nilah",
+                  "text": "Az Adzslun-közeli dombtetőn fekvő romterületen ősi kőépületek maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Ajlun Castle",
+                  "text": "A 12. századi ajluni várat az Ajjúbidák építették a keresztes lovagok elleni védekezésül.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727362,
+                        32.325189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Biddiyah",
+                  "text": "Un sit arheologic cu ruinele unui vechi sat islamic și ale unei moschei istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Nilah",
+                  "text": "Aceste ruine antice de pe un deal de lângă Ajloun păstrează vestigiile unor structuri istorice de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Ajlun Castle",
+                  "text": "Castelul din secolul al XII-lea a fost construit de ayyubizi pentru a proteja regiunea împotriva cruciaților.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727362,
+                        32.325189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Biddiyah",
+                  "text": "An archaeological site featuring the ruins of an ancient Islamic village and a historic mosque.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Khirbat al Nilah",
+                  "text": "These ancient hilltop ruins near Ajloun showcase the remains of historical stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Ajlun Castle",
+                  "text": "This 12th-century Ayyubid fortress was built to defend the region against the Crusaders.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727362,
+                        32.325189
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-AJ",
     coords: [35.7272, 32.3255],
@@ -323,7 +1304,484 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "kerak-castle-history-v2",
+    id: "kerak-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Zabuba",
+                  "text": "Diese antiken Steinruinen im Hochland von Kerak stammen aus den frühen Besiedlungsperioden der Region.",
+                  "category": "historical",
+                  "coords": [
+                        35.674444,
+                        31.235278
+                  ]
+            },
+            {
+                  "name": "Ruseifa",
+                  "text": "Diese baulichen Überreste in der Nähe von Kerak bieten einen Einblick in die historische ländliche Architektur Südjordaniens.",
+                  "category": "historical",
+                  "coords": [
+                        35.645556,
+                        31.178889
+                  ]
+            },
+            {
+                  "name": "Zahrat al Mataris",
+                  "text": "Eine Stätte verstreuter antiker Ruinen auf den Felsplateaus rund um die historische Stadt Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qurein",
+                  "text": "Antike Steinruinen auf einem schroffen Hügel nahe der Kreuzritterburg von Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "Al Mezareb",
+                  "text": "Verwitterte archäologische Stätte mit verstreuten Fundamenten in der Wüstenlandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.233333
+                  ]
+            },
+            {
+                  "name": "Museum Al-Karak",
+                  "text": "In den unteren Galerien der Burg untergebrachtes Museum mit Artefakten von der moabitischen bis zur osmanischen Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "Um al Udul",
+                  "text": "Wüstenruinen bestehend aus Steinumrissen und antikem Mauerwerk mit Blick auf das Wadi.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        31.1
+                  ]
+            },
+            {
+                  "name": "Khirbat al Naqqaz",
+                  "text": "Archäologische Überreste eines alten Außenpostens auf einem Hügel nahe dem historischen Burgviertel.",
+                  "category": "historical",
+                  "coords": [
+                        35.703956,
+                        31.15335
+                  ]
+            },
+            {
+                  "name": "Burg Kerak",
+                  "text": "Eine massive Kreuzritterfestung aus dem 12. Jahrhundert, bekannt für ihre dunklen Gewölbe und hohen Mauern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.701538,
+                        31.180466
+                  ]
+            },
+            {
+                  "name": "Khirbat Kufayraz",
+                  "text": "Zerfallende Steinstrukturen einer antiken ländlichen Siedlung im Hochland von Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.663284,
+                        31.10804
+                  ]
+            },
+            {
+                  "name": "Roman Church Hall",
+                  "text": "Überreste einer religiösen Halle aus der byzantinischen Ära im historischen Stadtkern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.706279,
+                        31.185799
+                  ]
+            },
+            {
+                  "name": "Abu Huraira mosque",
+                  "text": "Eine traditionelle Steinmoschee, die einem Gefährten des Propheten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.699162,
+                        31.135481
+                  ]
+            },
+            {
+                  "name": "Noah-Grab",
+                  "text": "Bedeutende Pilgerstätte mit einem grün gekuppelten Schrein, der als Grabstätte Noahs gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.700528,
+                        31.188874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Zabuba",
+                  "text": "Ezek az ősi kőromok Kerak felföldjén a régió korai települési korszakából származnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.674444,
+                        31.235278
+                  ]
+            },
+            {
+                  "name": "Ruseifa",
+                  "text": "Ezek a Kerak közeli építészeti maradványok betekintést nyújtanak Dél-Jordánia történelmi vidéki építészetébe.",
+                  "category": "historical",
+                  "coords": [
+                        35.645556,
+                        31.178889
+                  ]
+            },
+            {
+                  "name": "Zahrat al Mataris",
+                  "text": "Szétszórt ókori romok helyszíne a történelmi Kerak várost körülvevő sziklás fennsíkokon.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qurein",
+                  "text": "Ősi kőromok egy zord dombtetőn, a kerak-i keresztes lovagvár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "Al Mezareb",
+                  "text": "Megkopott régészeti lelőhely elszórt alapfalakkal a sivatagi tájban.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.233333
+                  ]
+            },
+            {
+                  "name": "Al-Karak Museum",
+                  "text": "A vár alsó galériáiban elhelyezett múzeum, amely a moabita és az oszmán kor közötti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "Um al Udul",
+                  "text": "Sivatagi romok kőfalakkal és ősi falazattal, kilátással a környező vádira.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        31.1
+                  ]
+            },
+            {
+                  "name": "Khirbat al Naqqaz",
+                  "text": "Egy ősi dombtetői őrhely régészeti maradványai a történelmi várnegyed közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.703956,
+                        31.15335
+                  ]
+            },
+            {
+                  "name": "Karak Castle",
+                  "text": "Hatalmas, 12. századi keresztes lovagvár, amely sötét boltíves termeiről és impozáns kőfalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.701538,
+                        31.180466
+                  ]
+            },
+            {
+                  "name": "Khirbat Kufayraz",
+                  "text": "Egy ősi vidéki település omladozó kőszerkezetei a Kerak-felföldön.",
+                  "category": "historical",
+                  "coords": [
+                        35.663284,
+                        31.10804
+                  ]
+            },
+            {
+                  "name": "Roman Church Hall",
+                  "text": "Egy bizánci kori vallási csarnok ősi falazatának maradványai a történelmi városmagban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.706279,
+                        31.185799
+                  ]
+            },
+            {
+                  "name": "Abu Huraira mosque",
+                  "text": "Hagyományos kőmecset, amelyet a Próféta egyik társának tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.699162,
+                        31.135481
+                  ]
+            },
+            {
+                  "name": "Prophet Nuh (Noah) Tomb",
+                  "text": "Jelentős zarándokhely zöld kupolás szentéllyel, amely a hagyomány szerint Noé nyughelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.700528,
+                        31.188874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Zabuba",
+                  "text": "Aceste ruine antice de piatră din zonele înalte ale Kerakului datează din primele perioade de așezare din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        35.674444,
+                        31.235278
+                  ]
+            },
+            {
+                  "name": "Ruseifa",
+                  "text": "Aceste rămășițe structurale de lângă Kerak oferă o privire asupra arhitecturii rurale istorice din sudul Iordaniei.",
+                  "category": "historical",
+                  "coords": [
+                        35.645556,
+                        31.178889
+                  ]
+            },
+            {
+                  "name": "Zahrat al Mataris",
+                  "text": "Un sit cu ruine antice împrăștiate, situat pe platourile stâncoase care înconjoară orașul istoric Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qurein",
+                  "text": "Ruine antice din piatră pe un deal accidentat, lângă castelul cruciat din Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "Al Mezareb",
+                  "text": "Sit arheologic degradat, cu fundații împrăștiate în peisajul deșertic.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.233333
+                  ]
+            },
+            {
+                  "name": "Al-Karak Museum",
+                  "text": "Muzeu situat în galeriile inferioare ale castelului, expunând artefacte din perioada moabită până în cea otomană.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "Um al Udul",
+                  "text": "Ruine deșertice constând în contururi de piatră și zidărie antică, cu vedere spre uadi.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        31.1
+                  ]
+            },
+            {
+                  "name": "Khirbat al Naqqaz",
+                  "text": "Rămășițe arheologice ale unui vechi avanpost pe deal, lângă districtul istoric al castelului.",
+                  "category": "historical",
+                  "coords": [
+                        35.703956,
+                        31.15335
+                  ]
+            },
+            {
+                  "name": "Karak Castle",
+                  "text": "O masivă fortăreață cruciată din secolul al XII-lea, cunoscută pentru sălile sale boltite întunecate și zidurile impunătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.701538,
+                        31.180466
+                  ]
+            },
+            {
+                  "name": "Khirbat Kufayraz",
+                  "text": "Structuri de piatră dărâmate reprezentând o veche așezare rurală în zonele înalte din Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.663284,
+                        31.10804
+                  ]
+            },
+            {
+                  "name": "Roman Church Hall",
+                  "text": "Rămășițe de zidărie antică dintr-o sală religioasă din era bizantină, găsite în centrul istoric al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.706279,
+                        31.185799
+                  ]
+            },
+            {
+                  "name": "Abu Huraira mosque",
+                  "text": "O moschee tradițională din piatră dedicată unui companion al Profetului, deservind comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.699162,
+                        31.135481
+                  ]
+            },
+            {
+                  "name": "Prophet Nuh (Noah) Tomb",
+                  "text": "Loc important de pelerinaj cu un sanctuar cu cupolă verde, considerat a fi mormântul lui Noe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.700528,
+                        31.188874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Zabuba",
+                  "text": "These ancient stone ruins in the Kerak highlands date back to early settlement periods in the region.",
+                  "category": "historical",
+                  "coords": [
+                        35.674444,
+                        31.235278
+                  ]
+            },
+            {
+                  "name": "Ruseifa",
+                  "text": "These structural remains near Kerak offer a glimpse into the historic rural architecture of southern Jordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.645556,
+                        31.178889
+                  ]
+            },
+            {
+                  "name": "Zahrat al Mataris",
+                  "text": "A site of scattered ancient ruins located on the rocky plateaus surrounding the historic city of Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qurein",
+                  "text": "Ancient stone remains situated on a rugged hill near the Crusader fortress of Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "Al Mezareb",
+                  "text": "Weathered archaeological site featuring scattered foundations in the desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.233333
+                  ]
+            },
+            {
+                  "name": "Al-Karak Museum",
+                  "text": "Housed within the lower galleries of the castle, displaying artifacts from the Moabite to Ottoman periods.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "Um al Udul",
+                  "text": "Desert ruins consisting of stone outlines and ancient masonry overlooking the surrounding wadi.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        31.1
+                  ]
+            },
+            {
+                  "name": "Khirbat al Naqqaz",
+                  "text": "Archaeological remains of an old hilltop outpost near the historic castle district.",
+                  "category": "historical",
+                  "coords": [
+                        35.703956,
+                        31.15335
+                  ]
+            },
+            {
+                  "name": "Karak Castle",
+                  "text": "A massive 12th-century Crusader fortress known for its dark vaulted halls and imposing stone walls.",
+                  "category": "landmark",
+                  "coords": [
+                        35.701538,
+                        31.180466
+                  ]
+            },
+            {
+                  "name": "Khirbat Kufayraz",
+                  "text": "Crumbling stone structures representing an ancient rural habitation in the highlands of Kerak.",
+                  "category": "historical",
+                  "coords": [
+                        35.663284,
+                        31.10804
+                  ]
+            },
+            {
+                  "name": "Roman Church Hall",
+                  "text": "Ancient Byzantine-era masonry remains of a religious hall found within the historic city core.",
+                  "category": "landmark",
+                  "coords": [
+                        35.706279,
+                        31.185799
+                  ]
+            },
+            {
+                  "name": "Abu Huraira mosque",
+                  "text": "A traditional stone mosque dedicated to a companion of the Prophet, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.699162,
+                        31.135481
+                  ]
+            },
+            {
+                  "name": "Prophet Nuh (Noah) Tomb",
+                  "text": "Significant pilgrimage site featuring a green-domed shrine believed to be the resting place of Noah.",
+                  "category": "landmark",
+                  "coords": [
+                        35.700528,
+                        31.188874
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-KA",
     coords: [35.7018, 31.1808],
@@ -387,7 +1845,484 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "mount-nebo-history-v2",
+    id: "mount-nebo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "bebo",
+                  "text": "Eine touristische Einrichtung am Berg Nebo, die Besucher der historischen Gedenkstätte empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695257,
+                        31.825608
+                  ]
+            },
+            {
+                  "name": "billllllal",
+                  "text": "Ein markanter Punkt innerhalb des religiösen Komplexes am Berg Nebo, nahe der Mosaik-Basilika.",
+                  "category": "landmark",
+                  "coords": [
+                        35.776465,
+                        31.820014
+                  ]
+            },
+            {
+                  "name": "Ayun ed Dib",
+                  "text": "Ruinen einer antiken Siedlung in der Nähe der Quellen am Fuße des Berges Nebo.",
+                  "category": "historical",
+                  "coords": [
+                        35.694296,
+                        31.709176
+                  ]
+            },
+            {
+                  "name": "Knaiseh Church",
+                  "text": "Ruinen einer byzantinischen Kirche am Berg Nebo, die für ihre gut erhaltenen Bodenmosaike bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.711791,
+                        31.753723
+                  ]
+            },
+            {
+                  "name": "Wadi Jadid Dolmens",
+                  "text": "Prähistorische Megalithgräber aus großen Steinplatten, die im Wadi Jadid nahe dem Berg Nebo verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.72189,
+                        31.728585
+                  ]
+            },
+            {
+                  "name": "Khirbet el Mekhayat",
+                  "text": "Die Ausgrabungen der antiken Stadt Nebo mit mehreren Kirchen und prachtvollen byzantinischen Mosaiken.",
+                  "category": "historical",
+                  "coords": [
+                        35.744352,
+                        31.749473
+                  ]
+            },
+            {
+                  "name": "The Brazen Serpent Monument",
+                  "text": "Eine moderne Skulptur von Giovanni Fantoni auf dem Gipfel des Berges Nebo, die die eherne Schlange des Mose darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725354,
+                        31.768305
+                  ]
+            },
+            {
+                  "name": "Tell Hesban",
+                  "text": "Ruinen der biblischen Stadt Heschbon mit Überresten aus der Eisenzeit bis zur Mamluken-Periode.",
+                  "category": "historical",
+                  "coords": [
+                        35.809088,
+                        31.800682
+                  ]
+            },
+            {
+                  "name": "Church of Deacon Thomas",
+                  "text": "Eine byzantinische Ausgrabungsstätte in Khirbet el-Mukhayyat, die kunstvolle Mosaike aus dem 6. Jahrhundert zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        35.735747,
+                        31.778434
+                  ]
+            },
+            {
+                  "name": "Tall el Hammam",
+                  "text": "Ein riesiger Siedlungshügel aus der Bronzezeit im südlichen Jordantal, der oft mit dem biblischen Sodom identifiziert wird.",
+                  "category": "historical",
+                  "coords": [
+                        35.674235,
+                        31.840548
+                  ]
+            },
+            {
+                  "name": "Haj Abu Suleiman al-Assaf Mosque",
+                  "text": "Diese lokale Moschee dient der Gemeinde in der kargen Hügellandschaft nahe der historischen Stätten des Berges Nebo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643903,
+                        31.816674
+                  ]
+            },
+            {
+                  "name": "Church of Amos and Casiseos",
+                  "text": "Die Ruinen dieser Kirche aus dem 6. Jahrhundert bewahren filigrane geometrische und tierische Mosaikmuster.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745681,
+                        31.749925
+                  ]
+            },
+            {
+                  "name": "Salah Al-deens Mosque",
+                  "text": "Dieses moderne islamische Gotteshaus ist nach dem Sultan Saladin benannt und überblickt das Umland von Nebo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750901,
+                        31.763622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bebo",
+                  "text": "Turisztikai létesítmény a Nebo-hegynél, amely a történelmi emlékhely látogatóit fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695257,
+                        31.825608
+                  ]
+            },
+            {
+                  "name": "billllllal",
+                  "text": "Jellegzetes pont a Nebo-hegyi vallási komplexumban, a mozaikos bazilika közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.776465,
+                        31.820014
+                  ]
+            },
+            {
+                  "name": "Ayun ed Dib",
+                  "text": "Egy ősi település romjai a Nebo-hegy lábánál található források közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.694296,
+                        31.709176
+                  ]
+            },
+            {
+                  "name": "Knaiseh Church",
+                  "text": "Egy bizánci templom romjai a Nebo-hegyen, amely jól megőrzött padlómozaikjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.711791,
+                        31.753723
+                  ]
+            },
+            {
+                  "name": "Wadi Jadid Dolmens",
+                  "text": "Hatalmas kőlapokból álló őskori megalitikus sírok a Nebo-hegy közeli Vadi-Jadid völgyében.",
+                  "category": "historical",
+                  "coords": [
+                        35.72189,
+                        31.728585
+                  ]
+            },
+            {
+                  "name": "Khirbet el Mekhayat",
+                  "text": "Nebo ősi városának ásatásai több templommal és pompás bizánci mozaikokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.744352,
+                        31.749473
+                  ]
+            },
+            {
+                  "name": "The Brazen Serpent Monument",
+                  "text": "Giovanni Fantoni modern szobra a Nebo-hegy csúcsán, amely Mózes rézkígyóját jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725354,
+                        31.768305
+                  ]
+            },
+            {
+                  "name": "Tell Hesban",
+                  "text": "A bibliai Hesbon városának romjai a vaskortól a mamlúk korszakig terjedő maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.809088,
+                        31.800682
+                  ]
+            },
+            {
+                  "name": "Church of Deacon Thomas",
+                  "text": "Bizánci ásatási terület Khirbet el-Mukhayyatban, amely 6. századi művészi mozaikokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        35.735747,
+                        31.778434
+                  ]
+            },
+            {
+                  "name": "Tall el Hammam",
+                  "text": "Hatalmas bronzkori településhalom a déli Jordán-völgyben, amelyet gyakran a bibliai Szodomával azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        35.674235,
+                        31.840548
+                  ]
+            },
+            {
+                  "name": "Haj Abu Suleiman al-Assaf Mosque",
+                  "text": "Ez a helyi mecset a Nebó-hegy történelmi helyszínei melletti kopár dombok között szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643903,
+                        31.816674
+                  ]
+            },
+            {
+                  "name": "Church of Amos and Casiseos",
+                  "text": "Ennek a 6. századi templomnak a romjai finom geometriai és állatokat ábrázoló mozaikmintákat őriznek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745681,
+                        31.749925
+                  ]
+            },
+            {
+                  "name": "Salah Al-deens Mosque",
+                  "text": "Ez a modern iszlám imaház Szaladin szultánról kapta a nevét, és a Nebó környéki vidékre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750901,
+                        31.763622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bebo",
+                  "text": "O facilitate turistică la Muntele Nebo, care primește vizitatorii sitului istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695257,
+                        31.825608
+                  ]
+            },
+            {
+                  "name": "billllllal",
+                  "text": "Un punct de interes în complexul religios de pe Muntele Nebo, situat lângă bazilica cu mozaicuri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.776465,
+                        31.820014
+                  ]
+            },
+            {
+                  "name": "Ayun ed Dib",
+                  "text": "Ruinele unei așezări antice în apropierea izvoarelor de la poalele Muntelentui Nebo.",
+                  "category": "historical",
+                  "coords": [
+                        35.694296,
+                        31.709176
+                  ]
+            },
+            {
+                  "name": "Knaiseh Church",
+                  "text": "Ruinele unei biserici bizantine de pe Muntele Nebo, cunoscută pentru mozaicurile sale de pardoseală bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        35.711791,
+                        31.753723
+                  ]
+            },
+            {
+                  "name": "Wadi Jadid Dolmens",
+                  "text": "Morminte megalitice preistorice din plăci mari de piatră, risipite în Wadi Jadid lângă Muntele Nebo.",
+                  "category": "historical",
+                  "coords": [
+                        35.72189,
+                        31.728585
+                  ]
+            },
+            {
+                  "name": "Khirbet el Mekhayat",
+                  "text": "Săpăturile vechiului oraș Nebo, care adăpostește mai multe biserici și mozaicuri bizantine superbe.",
+                  "category": "historical",
+                  "coords": [
+                        35.744352,
+                        31.749473
+                  ]
+            },
+            {
+                  "name": "The Brazen Serpent Monument",
+                  "text": "O sculptură modernă de Giovanni Fantoni pe vârful Muntelui Nebo, simbolizând șarpele de aramă al lui Moise.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725354,
+                        31.768305
+                  ]
+            },
+            {
+                  "name": "Tell Hesban",
+                  "text": "Ruinele orașului biblic Heșbon, cu vestigii din Epoca Fierului până în perioada mamelucă.",
+                  "category": "historical",
+                  "coords": [
+                        35.809088,
+                        31.800682
+                  ]
+            },
+            {
+                  "name": "Church of Deacon Thomas",
+                  "text": "Un sit arheologic bizantin în Khirbet el-Mukhayyat, care prezintă mozaicuri artistice din secolul al VI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        35.735747,
+                        31.778434
+                  ]
+            },
+            {
+                  "name": "Tall el Hammam",
+                  "text": "Un dâmb uriaș de așezare din Epoca Bronzului în sudul Văii Iordanului, identificat adesea cu Sodoma biblică.",
+                  "category": "historical",
+                  "coords": [
+                        35.674235,
+                        31.840548
+                  ]
+            },
+            {
+                  "name": "Haj Abu Suleiman al-Assaf Mosque",
+                  "text": "Această moschee locală deservește comunitatea din dealurile aride de lângă siturile istorice ale Muntelui Nebo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643903,
+                        31.816674
+                  ]
+            },
+            {
+                  "name": "Church of Amos and Casiseos",
+                  "text": "Ruinele acestei biserici din secolul al VI-lea păstrează modele delicate de mozaic geometric și animalier.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745681,
+                        31.749925
+                  ]
+            },
+            {
+                  "name": "Salah Al-deens Mosque",
+                  "text": "Acest lăcaș de cult islamic modern poartă numele sultanului Saladin și domină împrejurimile muntelui Nebo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750901,
+                        31.763622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bebo",
+                  "text": "A tourist facility at Mount Nebo serving visitors to the historic memorial site.",
+                  "category": "landmark",
+                  "coords": [
+                        35.695257,
+                        31.825608
+                  ]
+            },
+            {
+                  "name": "billllllal",
+                  "text": "A local marker within the religious complex at Mount Nebo, near the mosaic basilica.",
+                  "category": "landmark",
+                  "coords": [
+                        35.776465,
+                        31.820014
+                  ]
+            },
+            {
+                  "name": "Ayun ed Dib",
+                  "text": "Archaeological remains of an ancient settlement located near the springs at the foot of Mount Nebo.",
+                  "category": "historical",
+                  "coords": [
+                        35.694296,
+                        31.709176
+                  ]
+            },
+            {
+                  "name": "Knaiseh Church",
+                  "text": "Ruins of a Byzantine church on Mount Nebo, notable for its well-preserved floor mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        35.711791,
+                        31.753723
+                  ]
+            },
+            {
+                  "name": "Wadi Jadid Dolmens",
+                  "text": "Prehistoric megalithic tombs (dolmens) made of large stone slabs, scattered in the Wadi Jadid valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.72189,
+                        31.728585
+                  ]
+            },
+            {
+                  "name": "Khirbet el Mekhayat",
+                  "text": "Excavations of the ancient Town of Nebo, home to several churches with magnificent Byzantine mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        35.744352,
+                        31.749473
+                  ]
+            },
+            {
+                  "name": "The Brazen Serpent Monument",
+                  "text": "A modern sculpture by Giovanni Fantoni atop Mount Nebo, symbolizing the Brazen Serpent created by Moses.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725354,
+                        31.768305
+                  ]
+            },
+            {
+                  "name": "Tell Hesban",
+                  "text": "The ruins of the biblical city of Heshbon, showing layers from the Iron Age to the Mamluk period.",
+                  "category": "historical",
+                  "coords": [
+                        35.809088,
+                        31.800682
+                  ]
+            },
+            {
+                  "name": "Church of Deacon Thomas",
+                  "text": "A Byzantine archaeological site in Khirbet el-Mukhayyat featuring intricate 6th-century mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        35.735747,
+                        31.778434
+                  ]
+            },
+            {
+                  "name": "Tall el Hammam",
+                  "text": "A massive Bronze Age city mound in the southern Jordan Valley, often identified with the biblical city of Sodom.",
+                  "category": "historical",
+                  "coords": [
+                        35.674235,
+                        31.840548
+                  ]
+            },
+            {
+                  "name": "Haj Abu Suleiman al-Assaf Mosque",
+                  "text": "This local mosque serves the community in the arid hills near the historic sites of Mount Nebo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643903,
+                        31.816674
+                  ]
+            },
+            {
+                  "name": "Church of Amos and Casiseos",
+                  "text": "The ruins of this 6th-century church preserve delicate geometric and animal mosaic patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        35.745681,
+                        31.749925
+                  ]
+            },
+            {
+                  "name": "Salah Al-deens Mosque",
+                  "text": "This modern Islamic house of worship is named after Sultan Saladin and overlooks the Nebo countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        35.750901,
+                        31.763622
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-MD",
     coords: [35.7188, 31.7683],
@@ -451,7 +2386,520 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "madaba-map-history-v2",
+    id: "madaba-map-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Masuh",
+                  "text": "Diese archäologischen Überreste eines alten Dorfes umfassen Zisternen und Gebäudestrukturen aus byzantinischer Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.783333
+                  ]
+            },
+            {
+                  "name": "Kharabat Yusra",
+                  "text": "Verwitterte Steinruinen einer historischen Siedlung liegen hier in der ländlichen Umgebung von Madaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.75
+                  ]
+            },
+            {
+                  "name": "Befestigungsmauer aus der Eisenzeit auf der Westakropolis",
+                  "text": "Diese massiven Steinmauerreste stammen aus der Eisenzeit und dienten einst dem Schutz der antiken Akropolis.",
+                  "category": "historical",
+                  "coords": [
+                        35.792441,
+                        31.714772
+                  ]
+            },
+            {
+                  "name": "Kirche der Märtyrer",
+                  "text": "Die Ruinen dieser Kirche aus dem 6. Jahrhundert sind für ihren Mosaikboden bekannt, der den Märtyrern der Stadt gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.794669,
+                        31.716251
+                  ]
+            },
+            {
+                  "name": "Al Teim",
+                  "text": "Südlich von Madaba befinden sich diese Ruinen einer Siedlung, die bis in die biblische Zeit zurückreicht.",
+                  "category": "historical",
+                  "coords": [
+                        35.783198,
+                        31.701008
+                  ]
+            },
+            {
+                  "name": "Harbaj",
+                  "text": "Auf dem Hochplateau der Madaba-Region liegen diese verstreuten antiken Gebäudereste.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.666667
+                  ]
+            },
+            {
+                  "name": "Satihah",
+                  "text": "Inmitten der landwirtschaftlichen Flächen bei Madaba liegen die Fundamente dieser alten Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        31.65
+                  ]
+            },
+            {
+                  "name": "Lecture Hall",
+                  "text": "Dieser Raum im archäologischen Park von Madaba diente einst als Ort für Vorträge oder Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847812,
+                        31.751353
+                  ]
+            },
+            {
+                  "name": "Abdul Majeed Shoman Auditorium",
+                  "text": "Dieses moderne Auditorium im Stadtzentrum ist ein wichtiger Ort für kulturelle Veranstaltungen und Vorträge.",
+                  "category": "cultural",
+                  "coords": [
+                        35.846217,
+                        31.750928
+                  ]
+            },
+            {
+                  "name": "Apostelkirche",
+                  "text": "Diese Kirche aus dem 6. Jahrhundert ist berühmt für ein großes Mosaik, das die Personifizierung des Meeres darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794811,
+                        31.711851
+                  ]
+            },
+            {
+                  "name": "Schrein der Enthauptung von Johannes dem Täufer",
+                  "text": "Diese katholische Kirche bietet einen Glockenturm mit Panoramablick und bewahrt einen antiken Brunnen in ihrer Krypta.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793553,
+                        31.714846
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Dieser kleine, ruhige Gebetsraum im Stadtzentrum steht Muslimen für ihre täglichen Gebete offen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.799961,
+                        31.77753
+                  ]
+            },
+            {
+                  "name": "mousqe",
+                  "text": "Diese Stadtteilmoschee in der historischen Altstadt ist an ihrem markanten Minarett erkennbar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808366,
+                        31.796591
+                  ]
+            },
+            {
+                  "name": "Sankt-Georgs-Kirche",
+                  "text": "In dieser griechisch-orthodoxen Kirche befindet sich das berühmte Madaba-Mosaik, die älteste Karte des Heiligen Landes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794116,
+                        31.717685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Masuh",
+                  "text": "Egy ősi falu ezen régészeti maradványai bizánci kori ciszterneket és épületszerkezeteket foglalnak magukban.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.783333
+                  ]
+            },
+            {
+                  "name": "Kharabat Yusra",
+                  "text": "Egy történelmi település málló kőromjai találhatók itt Madaba vidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.75
+                  ]
+            },
+            {
+                  "name": "Iron Age Fortification Wall on West Acropolis",
+                  "text": "Ezek a masszív kőfalmaradványok a vaskorból származnak, és egykor az ősi akropolisz védelmét szolgálták.",
+                  "category": "historical",
+                  "coords": [
+                        35.792441,
+                        31.714772
+                  ]
+            },
+            {
+                  "name": "Martyrs' Church",
+                  "text": "Ennek a 6. századi templomnak a romjai a város mártírjainak szentelt mozaikpadlójukról ismertek.",
+                  "category": "historical",
+                  "coords": [
+                        35.794669,
+                        31.716251
+                  ]
+            },
+            {
+                  "name": "Al Teim",
+                  "text": "Madabától délre találhatók egy település ezen romjai, amely egészen a bibliai időkig nyúlik vissza.",
+                  "category": "historical",
+                  "coords": [
+                        35.783198,
+                        31.701008
+                  ]
+            },
+            {
+                  "name": "Harbaj",
+                  "text": "A Madaba-régió fennsíkján találhatók ezek a szétszórt ókori épületmaradványok.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.666667
+                  ]
+            },
+            {
+                  "name": "Satihah",
+                  "text": "A Madaba melletti mezőgazdasági területek közepén fekszenek ennek a régi településnek az alapjai.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        31.65
+                  ]
+            },
+            {
+                  "name": "Lecture Hall",
+                  "text": "A madabai régészeti parknak ez a terme egykor előadások vagy bemutatók helyszínéül szolgált.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847812,
+                        31.751353
+                  ]
+            },
+            {
+                  "name": "Abdul Majeed Shoman Auditorium",
+                  "text": "Ez a városközpontban található modern auditorium a kulturális események és előadások fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        35.846217,
+                        31.750928
+                  ]
+            },
+            {
+                  "name": "Church of Apostoles",
+                  "text": "Ez a 6. századi templom egy hatalmas mozaikról híres, amely a tenger megszemélyesítését ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794811,
+                        31.711851
+                  ]
+            },
+            {
+                  "name": "Shrine of the Beheading of Saint John the Baptist",
+                  "text": "Ez a katolikus templom harangtornyából panorámás kilátást nyújt, kriptájában pedig egy ősi kutat őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793553,
+                        31.714846
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Ez a városközpontban található kicsi, csendes imaszoba a muszlimok napi imádságai számára áll nyitva.",
+                  "category": "landmark",
+                  "coords": [
+                        35.799961,
+                        31.77753
+                  ]
+            },
+            {
+                  "name": "mousqe",
+                  "text": "Ez a történelmi óvárosban található negyedi mecset jellegzetes minaretjéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808366,
+                        31.796591
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Ebben a görög ortodox templomban található a híres Madaba-mozaik, a Szentföld legrégebbi térképe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794116,
+                        31.717685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Masuh",
+                  "text": "Aceste rămășițe arheologice ale unui sat vechi includ cisterne și structuri de clădiri din perioada bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.783333
+                  ]
+            },
+            {
+                  "name": "Kharabat Yusra",
+                  "text": "Ruine de piatră erodate ale unei așezări istorice se află aici, în zona rurală a Madabei.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.75
+                  ]
+            },
+            {
+                  "name": "Iron Age Fortification Wall on West Acropolis",
+                  "text": "Aceste rămășițe masive de zid de piatră datează din Epoca Fierului și au servit odinioară la protejarea acropolei antice.",
+                  "category": "historical",
+                  "coords": [
+                        35.792441,
+                        31.714772
+                  ]
+            },
+            {
+                  "name": "Martyrs' Church",
+                  "text": "Ruinele acestei biserici din secolul al VI-lea sunt cunoscute pentru podeaua de mozaic dedicată martirilor orașului.",
+                  "category": "historical",
+                  "coords": [
+                        35.794669,
+                        31.716251
+                  ]
+            },
+            {
+                  "name": "Al Teim",
+                  "text": "La sud de Madaba se află aceste ruine ale unei așezări care datează din timpurile biblice.",
+                  "category": "historical",
+                  "coords": [
+                        35.783198,
+                        31.701008
+                  ]
+            },
+            {
+                  "name": "Harbaj",
+                  "text": "Pe platoul înalt al regiunii Madaba se află aceste rămășițe de clădiri antice împrăștiate.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.666667
+                  ]
+            },
+            {
+                  "name": "Satihah",
+                  "text": "În mijlocul terenurilor agricole de lângă Madaba se află fundațiile acestei vechi așezări.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        31.65
+                  ]
+            },
+            {
+                  "name": "Lecture Hall",
+                  "text": "Această sală din parcul arheologic Madaba a servit odinioară ca loc pentru prelegeri sau spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847812,
+                        31.751353
+                  ]
+            },
+            {
+                  "name": "Abdul Majeed Shoman Auditorium",
+                  "text": "Acest auditorium modern din centrul orașului este un loc important pentru evenimente culturale și prelegeri.",
+                  "category": "cultural",
+                  "coords": [
+                        35.846217,
+                        31.750928
+                  ]
+            },
+            {
+                  "name": "Church of Apostoles",
+                  "text": "Această biserică din secolul al VI-lea este faimoasă pentru un mozaic mare care reprezintă personificarea mării.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794811,
+                        31.711851
+                  ]
+            },
+            {
+                  "name": "Shrine of the Beheading of Saint John the Baptist",
+                  "text": "Această biserică catolică oferă un turn cu clopot cu vedere panoramică și păstrează o fântână antică în cripta sa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793553,
+                        31.714846
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Această sală de rugăciune mică și liniștită din centrul orașului este deschisă musulmanilor pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.799961,
+                        31.77753
+                  ]
+            },
+            {
+                  "name": "mousqe",
+                  "text": "Această moschee de cartier din centrul istoric este recognoscibilă după minaretul său distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808366,
+                        31.796591
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "În această biserică greco-ortodoxă se află faimosul mozaic de la Madaba, cea mai veche hartă a Țării Sfinte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794116,
+                        31.717685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Masuh",
+                  "text": "These archaeological remains of an ancient village include cisterns and building structures from the Byzantine era.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.783333
+                  ]
+            },
+            {
+                  "name": "Kharabat Yusra",
+                  "text": "Weathered stone ruins of a historic settlement lie here in the rural surroundings of Madaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.75
+                  ]
+            },
+            {
+                  "name": "Iron Age Fortification Wall on West Acropolis",
+                  "text": "These massive stone wall remains date back to the Iron Age and once protected the ancient acropolis.",
+                  "category": "historical",
+                  "coords": [
+                        35.792441,
+                        31.714772
+                  ]
+            },
+            {
+                  "name": "Martyrs' Church",
+                  "text": "The ruins of this 6th-century church are known for their mosaic floor dedicated to the city's martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        35.794669,
+                        31.716251
+                  ]
+            },
+            {
+                  "name": "Al Teim",
+                  "text": "Located south of Madaba, these are the ruins of a settlement dating back to biblical times.",
+                  "category": "historical",
+                  "coords": [
+                        35.783198,
+                        31.701008
+                  ]
+            },
+            {
+                  "name": "Harbaj",
+                  "text": "Scattered ancient building remains are located on the high plateau of the Madaba region.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        31.666667
+                  ]
+            },
+            {
+                  "name": "Satihah",
+                  "text": "The foundations of this old settlement lie amidst the agricultural fields near Madaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.783333,
+                        31.65
+                  ]
+            },
+            {
+                  "name": "Lecture Hall",
+                  "text": "This space within the Madaba archaeological park once served as a venue for lectures or performances.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847812,
+                        31.751353
+                  ]
+            },
+            {
+                  "name": "Abdul Majeed Shoman Auditorium",
+                  "text": "This modern auditorium in the city center is a key venue for cultural events and lectures.",
+                  "category": "cultural",
+                  "coords": [
+                        35.846217,
+                        31.750928
+                  ]
+            },
+            {
+                  "name": "Church of Apostoles",
+                  "text": "This 6th-century church is famous for a large mosaic depicting the personification of the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794811,
+                        31.711851
+                  ]
+            },
+            {
+                  "name": "Shrine of the Beheading of Saint John the Baptist",
+                  "text": "This Catholic church offers a bell tower with panoramic views and preserves an ancient well in its crypt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793553,
+                        31.714846
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "This small, quiet prayer room in the city center is open to Muslims for their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.799961,
+                        31.77753
+                  ]
+            },
+            {
+                  "name": "mousqe",
+                  "text": "This neighborhood mosque in the historic old town is recognizable by its distinctive minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808366,
+                        31.796591
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "This Greek Orthodox church houses the famous Madaba Map, the oldest surviving mosaic map of the Holy Land.",
+                  "category": "landmark",
+                  "coords": [
+                        35.794116,
+                        31.717685
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-MD",
     coords: [35.7934, 31.7169],
@@ -515,7 +2963,52 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "quseir-amra-history-v2",
+    id: "quseir-amra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Al Amra",
+                  "text": "UNESCO-gelisteter Rückzugsort der Umayyaden, berühmt für seine detaillierten Fresken aus dem 8. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.587541,
+                        31.801816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quseir Amra",
+                  "text": "UNESCO világörökségi omajjád pihenőhely, amely részletes 8. századi freskóiról és fürdőjéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        36.587541,
+                        31.801816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quseir Amra",
+                  "text": "Retragere umayyadă din patrimoniul UNESCO, faimoasă pentru frescele sale detaliate din secolul al VIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        36.587541,
+                        31.801816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quseir Amra",
+                  "text": "UNESCO-listed Umayyad retreat famous for its detailed 8th-century frescoes and bath complex.",
+                  "category": "landmark",
+                  "coords": [
+                        36.587541,
+                        31.801816
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "JO-AZ",
     coords: [36.5866, 31.8019],
@@ -579,7 +3072,268 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "shobak-castle-history-v2",
+    id: "shobak-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huleila",
+                  "text": "Wüstenruinen einer antiken Siedlung in der kargen Landschaft unweit der Festung Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.516667,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Al Kur",
+                  "text": "Historische Überreste eines defensiven oder wohnwirtschaftlichen Außenpostens in der Region Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Bir Khidad",
+                  "text": "Die Überreste eines antiken Brunnens und umliegender Bauten in der trockenen Wüstenlandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        35.55,
+                        30.45
+                  ]
+            },
+            {
+                  "name": "Al Dawsaq",
+                  "text": "Ruinen eines mittelalterlichen Palastkomplexes der Ayyubiden-Dynastie in der Nähe von Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.616667,
+                        30.516667
+                  ]
+            },
+            {
+                  "name": "Khirbet ad-Dousaq",
+                  "text": "Eine archäologische Stätte mit den Überresten eines befestigten mittelalterlichen Jagdschlosses oder Landgutes.",
+                  "category": "historical",
+                  "coords": [
+                        35.616104,
+                        30.520746
+                  ]
+            },
+            {
+                  "name": "Khirbet Sihan",
+                  "text": "Überreste einer ländlichen Siedlung und landwirtschaftlicher Terrassen aus der byzantinischen Ära.",
+                  "category": "historical",
+                  "coords": [
+                        35.539365,
+                        30.540374
+                  ]
+            },
+            {
+                  "name": "Montreal",
+                  "text": "Eine imposante Kreuzfahrerfestung aus dem 12. Jahrhundert, die strategisch günstig auf einem kegelförmigen Hügel thront.",
+                  "category": "castle",
+                  "coords": [
+                        35.560896,
+                        30.531438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huleila",
+                  "text": "Egy ókori település sivatagi romjai a kopár tájon, nem messze Sobak várától.",
+                  "category": "historical",
+                  "coords": [
+                        35.516667,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Al Kur",
+                  "text": "Egy védelmi vagy lakóépületi előőrs történelmi maradványai Sobak régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Bir Khidad",
+                  "text": "Egy ősi kút és a környező építmények maradványai a száraz sivatagi tájon.",
+                  "category": "historical",
+                  "coords": [
+                        35.55,
+                        30.45
+                  ]
+            },
+            {
+                  "name": "Al Dawsaq",
+                  "text": "Egy középkori, Ajjúbida-dinasztia korabeli palotakomplexum romjai Sobak közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.616667,
+                        30.516667
+                  ]
+            },
+            {
+                  "name": "Khirbet ad-Dousaq",
+                  "text": "Régészeti lelőhely egy megerődített középkori vadászkastély vagy udvarház maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.616104,
+                        30.520746
+                  ]
+            },
+            {
+                  "name": "Khirbet Sihan",
+                  "text": "Egy vidéki település és mezőgazdasági teraszok maradványai a bizánci korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        35.539365,
+                        30.540374
+                  ]
+            },
+            {
+                  "name": "Shoubak",
+                  "text": "Impozáns 12. századi keresztes erőd, amely stratégiai helyen, egy kúp alakú domb tetején trónol.",
+                  "category": "castle",
+                  "coords": [
+                        35.560896,
+                        30.531438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huleila",
+                  "text": "Ruinele de deșert ale unei așezări antice în peisajul arid de lângă cetatea Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.516667,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Al Kur",
+                  "text": "Rămășițe istorice ale unui avanpost defensiv sau rezidențial din regiunea Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Bir Khidad",
+                  "text": "Rămășițele unei fântâni antice și ale structurilor înconjurătoare în peisajul arid de deșert.",
+                  "category": "historical",
+                  "coords": [
+                        35.55,
+                        30.45
+                  ]
+            },
+            {
+                  "name": "Al Dawsaq",
+                  "text": "Ruinele unui complex palatinal medieval din dinastia Ayyubidă, situat lângă Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.616667,
+                        30.516667
+                  ]
+            },
+            {
+                  "name": "Khirbet ad-Dousaq",
+                  "text": "Un sit arheologic cu rămășițele unei cabane de vânătoare sau ale unui conac medieval fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        35.616104,
+                        30.520746
+                  ]
+            },
+            {
+                  "name": "Khirbet Sihan",
+                  "text": "Rămășițele unei așezări rurale și ale teraselor agricole din epoca bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        35.539365,
+                        30.540374
+                  ]
+            },
+            {
+                  "name": "Shoubak",
+                  "text": "O fortăreață cruciată impunătoare din secolul al XII-lea, cocoțată strategic pe un deal în formă de con.",
+                  "category": "castle",
+                  "coords": [
+                        35.560896,
+                        30.531438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huleila",
+                  "text": "Desert ruins of an ancient settlement in the arid landscape near the Shobak fortress.",
+                  "category": "historical",
+                  "coords": [
+                        35.516667,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Al Kur",
+                  "text": "Historical remains of a defensive or residential outpost in the Shobak region.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.466667
+                  ]
+            },
+            {
+                  "name": "Bir Khidad",
+                  "text": "The remains of an ancient water well and surrounding structures in the arid desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        35.55,
+                        30.45
+                  ]
+            },
+            {
+                  "name": "Al Dawsaq",
+                  "text": "Ruins of a medieval palace complex from the Ayyubid dynasty located near Shobak.",
+                  "category": "historical",
+                  "coords": [
+                        35.616667,
+                        30.516667
+                  ]
+            },
+            {
+                  "name": "Khirbet ad-Dousaq",
+                  "text": "An archaeological site featuring the remains of a fortified medieval hunting lodge or manor.",
+                  "category": "historical",
+                  "coords": [
+                        35.616104,
+                        30.520746
+                  ]
+            },
+            {
+                  "name": "Khirbet Sihan",
+                  "text": "Remains of a rural settlement and agricultural terraces from the Byzantine era.",
+                  "category": "historical",
+                  "coords": [
+                        35.539365,
+                        30.540374
+                  ]
+            },
+            {
+                  "name": "Shoubak",
+                  "text": "An imposing 12th-century Crusader fortress strategically perched atop a cone-shaped hill.",
+                  "category": "castle",
+                  "coords": [
+                        35.560896,
+                        30.531438
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-MN",
     coords: [35.5606, 30.5317],
@@ -643,7 +3397,268 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "umm-qais-history-v2",
+    id: "umm-qais-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Zira",
+                  "text": "Archäologischer Siedlungshügel mit einem einzigartigen, fünf Meter tiefen artesischen Brunnen.",
+                  "category": "historical",
+                  "coords": [
+                        35.655934,
+                        32.620861
+                  ]
+            },
+            {
+                  "name": "Umm Qais Museum",
+                  "text": "Das Museum ist im restaurierten osmanischen Wohnhaus Beit Rusan inmitten der antiken Ruinen untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        35.679549,
+                        32.65584
+                  ]
+            },
+            {
+                  "name": "West Theatre",
+                  "text": "Die Überreste eines antiken Basalttheaters, das für seine markanten dunklen Steinreihen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.677941,
+                        32.655702
+                  ]
+            },
+            {
+                  "name": "Nymphäum",
+                  "text": "Ein römisches Nymphäum, das einst als öffentlicher Prachtbrunnen der antiken Stadt diente.",
+                  "category": "historical",
+                  "coords": [
+                        35.677936,
+                        32.656995
+                  ]
+            },
+            {
+                  "name": "Gadara",
+                  "text": "Historische griechisch-römische Stadt mit Panoramablick auf den See Genezareth und die Golanhöhen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675696,
+                        32.65633
+                  ]
+            },
+            {
+                  "name": "Byzantinische Thermen",
+                  "text": "Ruinen eines byzantinischen Badekomplexes mit Überresten von Hypokausten-Heizsystemen.",
+                  "category": "historical",
+                  "coords": [
+                        35.676778,
+                        32.656511
+                  ]
+            },
+            {
+                  "name": "Samma",
+                  "text": "Ein lokales islamisches Gebetshaus in der Nähe der archäologischen Stätten von Umm Qais.",
+                  "category": "religious",
+                  "coords": [
+                        35.684744,
+                        32.572242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Zira",
+                  "text": "Régészeti lelőhely egy mesterséges dombon, ahol egy különleges, öt méter mély artézi kút található.",
+                  "category": "historical",
+                  "coords": [
+                        35.655934,
+                        32.620861
+                  ]
+            },
+            {
+                  "name": "Umm Qais Museum",
+                  "text": "A múzeum a helyreállított oszmán kori Beit Rusan lakóházban kapott helyet az ókori romok között.",
+                  "category": "museum",
+                  "coords": [
+                        35.679549,
+                        32.65584
+                  ]
+            },
+            {
+                  "name": "West Theatre",
+                  "text": "Egy ókori bazaltszínház maradványai, amely jellegzetes sötét kőüléseiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.677941,
+                        32.655702
+                  ]
+            },
+            {
+                  "name": "Nymphaeum",
+                  "text": "Római nymphaeum, amely egykor az ókori város díszes nyilvános szökőkútjaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        35.677936,
+                        32.656995
+                  ]
+            },
+            {
+                  "name": "Gadara",
+                  "text": "Történelmi görög-római város, ahonnan panorámás kilátás nyílik a Galileai-tengerre és a Golán-fennsíkra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675696,
+                        32.65633
+                  ]
+            },
+            {
+                  "name": "Byzantine Baths",
+                  "text": "Egy bizánci fürdőkomplexum romjai, ahol a hypocaustum fűtőrendszer maradványai is láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.676778,
+                        32.656511
+                  ]
+            },
+            {
+                  "name": "Samma",
+                  "text": "Helyi iszlám imaház az Umm Qais-i régészeti lelőhelyek közvetlen közelében.",
+                  "category": "religious",
+                  "coords": [
+                        35.684744,
+                        32.572242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Zira",
+                  "text": "Situl arheologic de pe un colină artificială, renumit pentru fântâna sa arteziană adâncă de cinci metri.",
+                  "category": "historical",
+                  "coords": [
+                        35.655934,
+                        32.620861
+                  ]
+            },
+            {
+                  "name": "Umm Qais Museum",
+                  "text": "Muzeul este găzduit în casa otomană restaurată Beit Rusan, situată chiar în mijlocul ruinelor antice.",
+                  "category": "museum",
+                  "coords": [
+                        35.679549,
+                        32.65584
+                  ]
+            },
+            {
+                  "name": "West Theatre",
+                  "text": "Ruinele unui teatru antic din bazalt, cunoscut pentru rândurile sale distinctive de piatră neagră.",
+                  "category": "historical",
+                  "coords": [
+                        35.677941,
+                        32.655702
+                  ]
+            },
+            {
+                  "name": "Nymphaeum",
+                  "text": "Un nymphaeum roman care servea odinioară ca fântână publică monumentală a orașului antic.",
+                  "category": "historical",
+                  "coords": [
+                        35.677936,
+                        32.656995
+                  ]
+            },
+            {
+                  "name": "Gadara",
+                  "text": "Oraș istoric greco-roman ce oferă vederi panoramice asupra Mării Galileii și a Înălțimilor Golan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675696,
+                        32.65633
+                  ]
+            },
+            {
+                  "name": "Byzantine Baths",
+                  "text": "Ruinele unui complex de băi bizantine, incluzând resturi ale sistemului de încălzire prin hipocaust.",
+                  "category": "historical",
+                  "coords": [
+                        35.676778,
+                        32.656511
+                  ]
+            },
+            {
+                  "name": "Samma",
+                  "text": "Un lăcaș de cult islamic local situat în imediata apropiere a siturilor arheologice din Umm Qais.",
+                  "category": "religious",
+                  "coords": [
+                        35.684744,
+                        32.572242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Zira",
+                  "text": "Archaeological settlement mound featuring a unique five-meter deep artesian well.",
+                  "category": "historical",
+                  "coords": [
+                        35.655934,
+                        32.620861
+                  ]
+            },
+            {
+                  "name": "Umm Qais Museum",
+                  "text": "The museum is housed in the restored Ottoman-era Beit Rusan residence within the ancient ruins.",
+                  "category": "museum",
+                  "coords": [
+                        35.679549,
+                        32.65584
+                  ]
+            },
+            {
+                  "name": "West Theatre",
+                  "text": "The remains of an ancient basalt theater known for its distinctive dark stone seating.",
+                  "category": "historical",
+                  "coords": [
+                        35.677941,
+                        32.655702
+                  ]
+            },
+            {
+                  "name": "Nympheum",
+                  "text": "A Roman nymphaeum that once served as a grand public fountain for the ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        35.677936,
+                        32.656995
+                  ]
+            },
+            {
+                  "name": "Gadara",
+                  "text": "Historic Greco-Roman city offering panoramic views of the Sea of Galilee and the Golan Heights.",
+                  "category": "landmark",
+                  "coords": [
+                        35.675696,
+                        32.65633
+                  ]
+            },
+            {
+                  "name": "Byzantine Baths",
+                  "text": "Ruins of a Byzantine bathing complex including remnants of hypocaust heating systems.",
+                  "category": "historical",
+                  "coords": [
+                        35.676778,
+                        32.656511
+                  ]
+            },
+            {
+                  "name": "Samma",
+                  "text": "A local Islamic place of worship situated near the Umm Qais archaeological sites.",
+                  "category": "religious",
+                  "coords": [
+                        35.684744,
+                        32.572242
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "JO-IR",
     coords: [35.6791, 32.6565],
@@ -707,7 +3722,772 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "pella-history-v2",
+    id: "pella-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel `Artal",
+                  "text": "Archäologischer Hügel im Jordantal mit Siedlungsspuren aus der Bronze- und Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.566645,
+                        32.466669
+                  ]
+            },
+            {
+                  "name": "Al Kharijah",
+                  "text": "Historische Ruinen in der Nähe von Pella, die einen Einblick in die ländliche antike Architektur geben.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Beit Idis church",
+                  "text": "Ruinen einer byzantinischen Kirche in Beit Idis, bekannt für ihre filigranen Mosaikfragmente.",
+                  "category": "historical",
+                  "coords": [
+                        35.672122,
+                        32.44598
+                  ]
+            },
+            {
+                  "name": "Khirbat al Hudayb",
+                  "text": "Hügelruinen mit weitem Ausblick auf die fruchtbaren Ebenen des nördlichen Jordantals.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.466667
+                  ]
+            },
+            {
+                  "name": "Al Tantur",
+                  "text": "Antike Siedlungsreste auf einem Hügelkamm in der Region der Dekapolis-Stadt Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.633146,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "Pella Ruins & Resthouse",
+                  "text": "Besucherstätte bei den Pella-Ruinen, die einen Blick auf die Ausgrabungen der antiken Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617552,
+                        32.450349
+                  ]
+            },
+            {
+                  "name": "Natural Arch",
+                  "text": "Eine markante natürliche Felsformation in Form eines Bogens in den Bergen Nordjordaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619562,
+                        32.464826
+                  ]
+            },
+            {
+                  "name": "Khirbat Umeidat",
+                  "text": "Überreste einer historischen Anlage unweit des Pella-Zentrums in der Hügellandschaft von Gilead.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Ala'zieh",
+                  "text": "Archäologische Fundstätte im Jordantal, die für ihre Keramikfunde aus der klassischen Antike bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.609925,
+                        32.534264
+                  ]
+            },
+            {
+                  "name": "Jordan River Border Crossing",
+                  "text": "Ein wichtiger Grenzpunkt am Jordanfluss, der Jordanien mit Israel über die Sheikh-Hussein-Brücke verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.574697,
+                        32.496526
+                  ]
+            },
+            {
+                  "name": "Pella",
+                  "text": "Eingangsbereich zum archäologischen Park von Pella, dem Tor zu einer der Städte der Dekapolis.",
+                  "category": "landmark",
+                  "coords": [
+                        35.610616,
+                        32.449713
+                  ]
+            },
+            {
+                  "name": "Khirbat Fitnah",
+                  "text": "Ruinen einer befestigten Anlage auf einem Hügel mit strategischem Blick auf das mittlere Jordantal.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Abbasid Settlement",
+                  "text": "Überreste eines Wohnviertels aus der Abbasiden-Zeit innerhalb der antiken Stadtmauern von Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.614926,
+                        32.452301
+                  ]
+            },
+            {
+                  "name": "Roman Gate",
+                  "text": "Massives steinernes Stadttor aus der römischen Epoche, das einst den Haupteingang von Pella markierte.",
+                  "category": "historical",
+                  "coords": [
+                        35.615435,
+                        32.450494
+                  ]
+            },
+            {
+                  "name": "Civic Complex",
+                  "text": "Zentraler Gebäudekomplex in Pella mit einem römischen Odeon und einer byzantinischen Basilika.",
+                  "category": "historical",
+                  "coords": [
+                        35.615458,
+                        32.449561
+                  ]
+            },
+            {
+                  "name": "Tell al-Husn",
+                  "text": "Ein steiler Festungshügel in Pella mit Gräbern und Verteidigungsanlagen aus der Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.61502,
+                        32.447365
+                  ]
+            },
+            {
+                  "name": "Canaanite Temple",
+                  "text": "Ein massiver Sakralbau aus der kanaanäischen Zeit, der im Zentrum des Hauptfadens von Pella steht.",
+                  "category": "historical",
+                  "coords": [
+                        35.613683,
+                        32.449631
+                  ]
+            },
+            {
+                  "name": "Jesus Cave",
+                  "text": "Eine kleine Höhle bei Pella, die traditionell mit dem Zufluchtsort früher Christen in Verbindung gebracht wird.",
+                  "category": "historical",
+                  "coords": [
+                        35.681553,
+                        32.441757
+                  ]
+            },
+            {
+                  "name": "Nymphaeum",
+                  "text": "Ein prächtiges öffentliches Brunnenhaus aus der römischen Dekapolis-Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.618699,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "ja'far al tayyar mosque",
+                  "text": "Eine muslimische Kultstätte, die dem Gefährten des Propheten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691471,
+                        32.453667
+                  ]
+            },
+            {
+                  "name": "Mamluk mosque",
+                  "text": "Eine historische Moschee aus der Mamluken-Zeit mit traditionellem Mauerwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        35.612653,
+                        32.450471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel `Artal",
+                  "text": "Régészeti domb a Jordán-völgyben, bronzkori és vaskori településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.566645,
+                        32.466669
+                  ]
+            },
+            {
+                  "name": "Al Kharijah",
+                  "text": "Pella közelében található történelmi romok, amelyek betekintést nyújtanak az ókori vidéki építészetbe.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Beit Idis church",
+                  "text": "Egy bizánci templom romjai Beit Idis-ben, amely finom mozaiktöredékeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.672122,
+                        32.44598
+                  ]
+            },
+            {
+                  "name": "Khirbat al Hudayb",
+                  "text": "Dombi romok, ahonnan messzire ellátni az északi Jordán-völgy termékeny síkságaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.466667
+                  ]
+            },
+            {
+                  "name": "Al Tantur",
+                  "text": "Ókori településmaradványok egy dombháton, a dekapoliszi Pella városának régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.633146,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "Pella Ruins & Resthouse",
+                  "text": "Látogatóhely a pella-i romoknál, ahonnan rálátás nyílik az ókori város ásatásaira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617552,
+                        32.450349
+                  ]
+            },
+            {
+                  "name": "Natural Arch",
+                  "text": "Egy jellegzetes, ív alakú természetes sziklaformáció Észak-Jordánia hegyei között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619562,
+                        32.464826
+                  ]
+            },
+            {
+                  "name": "Khirbat Umeidat",
+                  "text": "Egy történelmi komplexum maradványai Pella központjától nem messze, Gileád dombos vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Ala'zieh",
+                  "text": "Régészeti lelőhely a Jordán-völgyben, amely a klasszikus ókorból származó kerámialeleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.609925,
+                        32.534264
+                  ]
+            },
+            {
+                  "name": "Jordan River Border Crossing",
+                  "text": "Fontos határátkelő a Jordán folyónál, amely a Sheikh Hussein-hídon keresztül köti össze Jordániát Izraellel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.574697,
+                        32.496526
+                  ]
+            },
+            {
+                  "name": "Pella",
+                  "text": "Pella régészeti parkjának bejárata, amely kapu a Dekapolisz egyik városához.",
+                  "category": "landmark",
+                  "coords": [
+                        35.610616,
+                        32.449713
+                  ]
+            },
+            {
+                  "name": "Khirbat Fitnah",
+                  "text": "Egy megerősített építmény romjai egy dombon, stratégiai kilátással a középső Jordán-völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Abbasid Settlement",
+                  "text": "Abbaszida-kori lakónegyed maradványai Pella ókori városfalain belül.",
+                  "category": "historical",
+                  "coords": [
+                        35.614926,
+                        32.452301
+                  ]
+            },
+            {
+                  "name": "Roman Gate",
+                  "text": "Masszív római kori kő városkapu, amely egykor Pella főbejáratát jelezte.",
+                  "category": "historical",
+                  "coords": [
+                        35.615435,
+                        32.450494
+                  ]
+            },
+            {
+                  "name": "Civic Complex",
+                  "text": "Központi épületegyüttes Pellában, egy római odeonnal és egy bizánci bazilikával.",
+                  "category": "historical",
+                  "coords": [
+                        35.615458,
+                        32.449561
+                  ]
+            },
+            {
+                  "name": "Tell al-Husn",
+                  "text": "Meredek erődített domb Pellában, bronzkori sírokkal és védművekkel.",
+                  "category": "historical",
+                  "coords": [
+                        35.61502,
+                        32.447365
+                  ]
+            },
+            {
+                  "name": "Canaanite Temple",
+                  "text": "Masszív kánaáni kori szakrális építmény, amely Pella fő dombjának központjában áll.",
+                  "category": "historical",
+                  "coords": [
+                        35.613683,
+                        32.449631
+                  ]
+            },
+            {
+                  "name": "Jesus Cave",
+                  "text": "Pella melletti kis barlang, amelyet a hagyomány a korai keresztények menedékhelyeként ismer.",
+                  "category": "historical",
+                  "coords": [
+                        35.681553,
+                        32.441757
+                  ]
+            },
+            {
+                  "name": "Nymphaeum",
+                  "text": "Pompás nyilvános díszkút a római Dekapolisz idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        35.618699,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "ja'far al tayyar mosque",
+                  "text": "A Próféta társának szentelt muszlim kegyhely.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691471,
+                        32.453667
+                  ]
+            },
+            {
+                  "name": "Mamluk mosque",
+                  "text": "Történelmi mecset a mamlúk korból, hagyományos kőfalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.612653,
+                        32.450471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel `Artal",
+                  "text": "Movilă arheologică în Valea Iordanului, cu urme de așezare din epoca bronzului și a fierului.",
+                  "category": "historical",
+                  "coords": [
+                        35.566645,
+                        32.466669
+                  ]
+            },
+            {
+                  "name": "Al Kharijah",
+                  "text": "Ruine istorice lângă Pella, care oferă o privire asupra arhitecturii rurale antice.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Beit Idis church",
+                  "text": "Ruinele unei biserici bizantine în Beit Idis, cunoscută pentru fragmentele sale fine de mozaic.",
+                  "category": "historical",
+                  "coords": [
+                        35.672122,
+                        32.44598
+                  ]
+            },
+            {
+                  "name": "Khirbat al Hudayb",
+                  "text": "Ruine pe deal cu o vedere largă asupra câmpiei fertile a Văii Iordanului de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.466667
+                  ]
+            },
+            {
+                  "name": "Al Tantur",
+                  "text": "Resturi de așezare antică pe o creastă de deal din regiunea orașului Decapolis Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.633146,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "Pella Ruins & Resthouse",
+                  "text": "Loc de vizită la ruinele Pella, oferind o panoramă asupra excavărilor orașului antic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617552,
+                        32.450349
+                  ]
+            },
+            {
+                  "name": "Natural Arch",
+                  "text": "O formațiune stâncoasă naturală distinctivă în formă de arc, în munții din nordul Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619562,
+                        32.464826
+                  ]
+            },
+            {
+                  "name": "Khirbat Umeidat",
+                  "text": "Rămășițele unui complex istoric nu departe de centrul Pella, în peisajul deluros al Gileadului.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Ala'zieh",
+                  "text": "Sit arheologic în Valea Iordanului, cunoscut pentru descoperirile de ceramică din antichitatea clasică.",
+                  "category": "historical",
+                  "coords": [
+                        35.609925,
+                        32.534264
+                  ]
+            },
+            {
+                  "name": "Jordan River Border Crossing",
+                  "text": "Un punct de frontieră important la râul Iordan, care leagă Iordania de Israel prin podul Sheikh Hussein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.574697,
+                        32.496526
+                  ]
+            },
+            {
+                  "name": "Pella",
+                  "text": "Zona de intrare în parcul arheologic Pella, poarta către unul dintre orașele Decapolis.",
+                  "category": "landmark",
+                  "coords": [
+                        35.610616,
+                        32.449713
+                  ]
+            },
+            {
+                  "name": "Khirbat Fitnah",
+                  "text": "Ruinele unei structuri fortificate pe un deal, cu o vedere strategică asupra Văii Iordanului de mijloc.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Abbasid Settlement",
+                  "text": "Rămășițele unui cartier rezidențial din epoca abbasidă în interiorul zidurilor orașului antic Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.614926,
+                        32.452301
+                  ]
+            },
+            {
+                  "name": "Roman Gate",
+                  "text": "Poartă masivă de piatră din epoca romană, care marca odinioară intrarea principală în Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.615435,
+                        32.450494
+                  ]
+            },
+            {
+                  "name": "Civic Complex",
+                  "text": "Complex central de clădiri în Pella, incluzând un odeon roman și o basilică bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        35.615458,
+                        32.449561
+                  ]
+            },
+            {
+                  "name": "Tell al-Husn",
+                  "text": "Un deal fortificat abrupt în Pella, cu morminte și structuri defensive din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        35.61502,
+                        32.447365
+                  ]
+            },
+            {
+                  "name": "Canaanite Temple",
+                  "text": "O structură sacră masivă din epoca canaanită, situată în centrul movilei principale din Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.613683,
+                        32.449631
+                  ]
+            },
+            {
+                  "name": "Jesus Cave",
+                  "text": "O mică peșteră lângă Pella, asociată tradițional cu refugiul primilor creștini.",
+                  "category": "historical",
+                  "coords": [
+                        35.681553,
+                        32.441757
+                  ]
+            },
+            {
+                  "name": "Nymphaeum",
+                  "text": "O fântână publică monumentală datând din perioada romană a Decapolisului.",
+                  "category": "historical",
+                  "coords": [
+                        35.618699,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "ja'far al tayyar mosque",
+                  "text": "Un lăcaș de cult musulman dedicat însoțitorului Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691471,
+                        32.453667
+                  ]
+            },
+            {
+                  "name": "Mamluk mosque",
+                  "text": "O moschee istorică din perioada mamelucă, construită din zidărie tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        35.612653,
+                        32.450471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel `Artal",
+                  "text": "Archaeological mound in the Jordan Valley containing settlement traces from the Bronze and Iron Ages.",
+                  "category": "historical",
+                  "coords": [
+                        35.566645,
+                        32.466669
+                  ]
+            },
+            {
+                  "name": "Al Kharijah",
+                  "text": "Historical ruins near Pella that offer a glimpse into rural ancient architecture.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Beit Idis church",
+                  "text": "Ruins of a Byzantine church in Beit Idis, known for its intricate mosaic fragments.",
+                  "category": "historical",
+                  "coords": [
+                        35.672122,
+                        32.44598
+                  ]
+            },
+            {
+                  "name": "Khirbat al Hudayb",
+                  "text": "Hilltop ruins offering expansive views over the fertile plains of the northern Jordan Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.466667
+                  ]
+            },
+            {
+                  "name": "Al Tantur",
+                  "text": "Ancient settlement remains on a ridge in the region of the Decapolis city of Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.633146,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "Pella Ruins & Resthouse",
+                  "text": "Visitor spot at the Pella ruins offering views over the excavations of the ancient city.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617552,
+                        32.450349
+                  ]
+            },
+            {
+                  "name": "Natural Arch",
+                  "text": "A striking natural rock formation in the shape of an arch in the mountains of northern Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619562,
+                        32.464826
+                  ]
+            },
+            {
+                  "name": "Khirbat Umeidat",
+                  "text": "Remains of a historical complex not far from the Pella center in the hilly landscape of Gilead.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Ala'zieh",
+                  "text": "Archaeological site in the Jordan Valley known for its pottery finds from classical antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        35.609925,
+                        32.534264
+                  ]
+            },
+            {
+                  "name": "Jordan River Border Crossing",
+                  "text": "An important border point at the Jordan River connecting Jordan and Israel via the Sheikh Hussein Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        35.574697,
+                        32.496526
+                  ]
+            },
+            {
+                  "name": "Pella Ruins Visitor Center Entrance",
+                  "text": "Entrance area to the Pella archaeological park, the gateway to one of the Decapolis cities.",
+                  "category": "landmark",
+                  "coords": [
+                        35.610616,
+                        32.449713
+                  ]
+            },
+            {
+                  "name": "Khirbat Fitnah",
+                  "text": "Ruins of a fortified structure on a hill with a strategic view of the middle Jordan Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.683333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Abbasid Settlement",
+                  "text": "Remains of an Abbasid-era residential quarter within the ancient city walls of Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.614926,
+                        32.452301
+                  ]
+            },
+            {
+                  "name": "Roman Gate",
+                  "text": "Massive Roman-era stone city gate that once marked the main entrance to Pella.",
+                  "category": "historical",
+                  "coords": [
+                        35.615435,
+                        32.450494
+                  ]
+            },
+            {
+                  "name": "Civic Complex",
+                  "text": "Central building complex in Pella featuring a Roman odeon and a Byzantine basilica.",
+                  "category": "historical",
+                  "coords": [
+                        35.615458,
+                        32.449561
+                  ]
+            },
+            {
+                  "name": "Tell al-Husn",
+                  "text": "A steep fortified hill at Pella containing Bronze Age tombs and defensive structures.",
+                  "category": "historical",
+                  "coords": [
+                        35.61502,
+                        32.447365
+                  ]
+            },
+            {
+                  "name": "Canaanite Temple",
+                  "text": "A massive Canaanite-era sacred structure located in the center of Pella's main tell.",
+                  "category": "historical",
+                  "coords": [
+                        35.613683,
+                        32.449631
+                  ]
+            },
+            {
+                  "name": "Jesus Cave",
+                  "text": "A small cave near Pella traditionally associated with the refuge of early Christians.",
+                  "category": "historical",
+                  "coords": [
+                        35.681553,
+                        32.441757
+                  ]
+            },
+            {
+                  "name": "Nymphaeum",
+                  "text": "A grand public fountain house dating back to the Roman Decapolis era.",
+                  "category": "historical",
+                  "coords": [
+                        35.618699,
+                        32.449843
+                  ]
+            },
+            {
+                  "name": "ja'far al tayyar mosque",
+                  "text": "A Muslim place of worship dedicated to the companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691471,
+                        32.453667
+                  ]
+            },
+            {
+                  "name": "Mamluk mosque",
+                  "text": "A historic mosque from the Mamluk era featuring traditional stonework.",
+                  "category": "landmark",
+                  "coords": [
+                        35.612653,
+                        32.450471
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "JO-IR",
     coords: [35.6111, 32.4500],
@@ -771,7 +4551,88 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "qasr-kharana-history-v2",
+    id: "qasr-kharana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kharaneh IV",
+                  "text": "Riesiger prähistorischer Lagerplatz, auf dem Tausende von Feuersteinwerkzeugen aus der Epipaläolithik gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        36.454319,
+                        31.72364
+                  ]
+            },
+            {
+                  "name": "Qasr Kharana",
+                  "text": "Gut erhaltenes umayyadisches Wüstenschloss mit hohen Mauern, Schießscharten und einem zentralen Innenhof.",
+                  "category": "castle",
+                  "coords": [
+                        36.46285,
+                        31.728948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kharaneh IV",
+                  "text": "Hatalmas őskori táborhely, ahol több ezer epipaleolitikumi tűzkő eszközt találtak.",
+                  "category": "historical",
+                  "coords": [
+                        36.454319,
+                        31.72364
+                  ]
+            },
+            {
+                  "name": "Qasr Al Kharanah",
+                  "text": "Jó állapotban fennmaradt omajjád sivatagi kastély magas falakkal, lőrésekkel és központi udvarral.",
+                  "category": "castle",
+                  "coords": [
+                        36.46285,
+                        31.728948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kharaneh IV",
+                  "text": "Vast sit de campare preistoric unde au fost găsite mii de unelte de silex din perioada epipaleolitică.",
+                  "category": "historical",
+                  "coords": [
+                        36.454319,
+                        31.72364
+                  ]
+            },
+            {
+                  "name": "Qasr Al Kharanah",
+                  "text": "Castel deșertic umayyad bine conservat, cu ziduri înalte, metereze și o curte centrală.",
+                  "category": "castle",
+                  "coords": [
+                        36.46285,
+                        31.728948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kharaneh IV",
+                  "text": "Vast prehistoric campsite where thousands of flint tools from the Epipaleolithic period were found.",
+                  "category": "historical",
+                  "coords": [
+                        36.454319,
+                        31.72364
+                  ]
+            },
+            {
+                  "name": "Qasr Al Kharanah",
+                  "text": "Well-preserved Umayyad desert castle with high walls, arrow slits, and a central courtyard.",
+                  "category": "castle",
+                  "coords": [
+                        36.46285,
+                        31.728948
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-AM",
     coords: [36.4628, 31.7289],
@@ -835,7 +4696,88 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "qasr-azraq-history-v2",
+    id: "qasr-azraq-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "Dieses kleine umayadische Fort aus schwarzem Basaltstein diente einst als befestigtes Bauernhaus.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Die Überreste der antiken Siedlung bestehen aus dunklen Basaltruinen in der Nähe der Festung von Azraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "Ez a fekete bazaltkőből épült kis omajjád erőd egykor megerősített tanyaházként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Az ősi település maradványai sötét bazaltromokból állnak az azraki erőd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "Această mică fortăreață omeyadă din piatră de bazalt negru a servit cândva drept fermă fortificată.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Rămășițele așezării antice constau în ruine de bazalt întunecat situate lângă castelul Azraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "This small Umayyad fort built from black basalt stone once served as a fortified farmhouse.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "The remains of the ancient settlement consist of dark basalt ruins near the Azraq fortress.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-AZ",
     coords: [36.8372, 31.8800],
@@ -899,7 +4841,304 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "machaerus-history-v2",
+    id: "machaerus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Safra",
+                  "text": "Hochgelegene Ruinen einer byzantinischen Siedlung mit Blick auf das Bergland.",
+                  "category": "historical",
+                  "coords": [
+                        35.6675,
+                        31.648056
+                  ]
+            },
+            {
+                  "name": "Dead Sea Access - Free",
+                  "text": "Ein naturbelassener Zugang zu den salzkrustigen Ufern des Toten Meeres.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560853,
+                        31.600843
+                  ]
+            },
+            {
+                  "name": "Wadi Zarqa Ma'in",
+                  "text": "Ein tiefes Tal, das für seine heißen Thermalquellen und Wasserfälle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567319,
+                        31.618123
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panorama Complex",
+                  "text": "Eine Terrasse auf den Klippen, die einen weiten Blick über das Tote Meer bis nach Israel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.584362,
+                        31.629541
+                  ]
+            },
+            {
+                  "name": "Machaerus",
+                  "text": "Die Bergfestung, in der Johannes der Täufer gefangen gehalten und hingerichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624106,
+                        31.5674
+                  ]
+            },
+            {
+                  "name": "Ayn al-Zara",
+                  "text": "Antike Thermalquellen und Ruinen des Hafens Callirrhoe am Ufer des Toten Meeres.",
+                  "category": "historical",
+                  "coords": [
+                        35.55919,
+                        31.596877
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panoramic Complex",
+                  "text": "Dieses Museum zeigt Ausstellungen zur einzigartigen Geologie und Geschichte des Toten Meeres.",
+                  "category": "museum",
+                  "coords": [
+                        35.585361,
+                        31.629227
+                  ]
+            },
+            {
+                  "name": "Ruines bishop malechios church",
+                  "text": "Überreste einer byzantinischen Kirche mit verwitterten Steinfundamenten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634604,
+                        31.567039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Safra",
+                  "text": "Egy bizánci település magasan fekvő romjai, kilátással a hegyvidékre.",
+                  "category": "historical",
+                  "coords": [
+                        35.6675,
+                        31.648056
+                  ]
+            },
+            {
+                  "name": "Dead Sea Access - Free",
+                  "text": "Egy természetes lejáró a Holt-tenger sókérges partjaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560853,
+                        31.600843
+                  ]
+            },
+            {
+                  "name": "Wadi Zarqa Ma'in",
+                  "text": "Egy mély völgy, amely forró termálforrásairól és vízeséseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567319,
+                        31.618123
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panorama Complex",
+                  "text": "Egy sziklaparti terasz, amely messzi kilátást nyújt a Holt-tengeren át Izraelig.",
+                  "category": "natural",
+                  "coords": [
+                        35.584362,
+                        31.629541
+                  ]
+            },
+            {
+                  "name": "Machaerus",
+                  "text": "A hegyi erőd, ahol Keresztelő Jánost fogva tartották és kivégezték.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624106,
+                        31.5674
+                  ]
+            },
+            {
+                  "name": "Ayn al-Zara",
+                  "text": "Ókori termálforrások és Kallirrhoé kikötőjének romjai a Holt-tenger partján.",
+                  "category": "historical",
+                  "coords": [
+                        35.55919,
+                        31.596877
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panoramic Complex",
+                  "text": "Ez a múzeum a Holt-tenger egyedülálló geológiáját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.585361,
+                        31.629227
+                  ]
+            },
+            {
+                  "name": "Ruines bishop malechios church",
+                  "text": "Egy bizánci templom maradványai kopott kőalapokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634604,
+                        31.567039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Safra",
+                  "text": "Ruinele unei așezări bizantine situate la înălțime, cu vedere spre regiunea muntoasă.",
+                  "category": "historical",
+                  "coords": [
+                        35.6675,
+                        31.648056
+                  ]
+            },
+            {
+                  "name": "Dead Sea Access - Free",
+                  "text": "Un punct de acces natural către malurile acoperite de sare ale Mării Moarte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560853,
+                        31.600843
+                  ]
+            },
+            {
+                  "name": "Wadi Zarqa Ma'in",
+                  "text": "O vale adâncă cunoscută pentru izvoarele sale termale fierbinți și cascade.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567319,
+                        31.618123
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panorama Complex",
+                  "text": "O terasă pe stânci care oferă o vedere largă peste Marea Moartă până în Israel.",
+                  "category": "natural",
+                  "coords": [
+                        35.584362,
+                        31.629541
+                  ]
+            },
+            {
+                  "name": "Machaerus",
+                  "text": "Cetatea de pe munte unde Ioan Botezătorul a fost întemnițat și executat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624106,
+                        31.5674
+                  ]
+            },
+            {
+                  "name": "Ayn al-Zara",
+                  "text": "Izvoare termale antice și ruinele portului Callirrhoe pe malul Mării Moarte.",
+                  "category": "historical",
+                  "coords": [
+                        35.55919,
+                        31.596877
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panoramic Complex",
+                  "text": "Acest muzeu prezintă exponate despre geologia și istoria unică a Mării Moarte.",
+                  "category": "museum",
+                  "coords": [
+                        35.585361,
+                        31.629227
+                  ]
+            },
+            {
+                  "name": "Ruines bishop malechios church",
+                  "text": "Rămășițele unei biserici bizantine cu fundații de piatră erodate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634604,
+                        31.567039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Safra",
+                  "text": "High-altitude ruins of a Byzantine settlement overlooking the mountainous region.",
+                  "category": "historical",
+                  "coords": [
+                        35.6675,
+                        31.648056
+                  ]
+            },
+            {
+                  "name": "Dead Sea Access - Free",
+                  "text": "A natural access point to the salt-crusted shores of the Dead Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560853,
+                        31.600843
+                  ]
+            },
+            {
+                  "name": "Wadi Zarqa Ma'in",
+                  "text": "A deep valley known for its hot thermal springs and waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567319,
+                        31.618123
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panorama Complex",
+                  "text": "A clifftop terrace providing sweeping views over the Dead Sea toward Israel.",
+                  "category": "natural",
+                  "coords": [
+                        35.584362,
+                        31.629541
+                  ]
+            },
+            {
+                  "name": "Machaerus",
+                  "text": "The hilltop fortress where John the Baptist was imprisoned and executed.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624106,
+                        31.5674
+                  ]
+            },
+            {
+                  "name": "Ayn al-Zara",
+                  "text": "Ancient thermal springs and ruins of the port Callirrhoe on the Dead Sea coast.",
+                  "category": "historical",
+                  "coords": [
+                        35.55919,
+                        31.596877
+                  ]
+            },
+            {
+                  "name": "Dead Sea Panoramic Complex",
+                  "text": "This museum features exhibits on the unique geology and history of the Dead Sea.",
+                  "category": "museum",
+                  "coords": [
+                        35.585361,
+                        31.629227
+                  ]
+            },
+            {
+                  "name": "Ruines bishop malechios church",
+                  "text": "Remains of a Byzantine church with weathered stone foundations.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634604,
+                        31.567039
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "JO-MD",
     coords: [35.6247, 31.5673],
@@ -963,7 +5202,808 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "al-maghtas-history-v2",
+    id: "al-maghtas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bethany Saphsaphas",
+                  "text": "Ruinen einer byzantinischen Kirche und eines Klosters an der biblischen Taufstelle am Jordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.566869,
+                        31.838141
+                  ]
+            },
+            {
+                  "name": "Cave Cells",
+                  "text": "In den weichen Fels gehauene Einsiedlerzellen, die einst von Mönchen in der Nähe der Taufstelle genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        35.551583,
+                        31.839091
+                  ]
+            },
+            {
+                  "name": "Romanian Church",
+                  "text": "Die Überreste einer rumänisch-orthodoxen Kapelle innerhalb des archäologischen Parks Al-Maghtas.",
+                  "category": "historical",
+                  "coords": [
+                        35.542628,
+                        31.82491
+                  ]
+            },
+            {
+                  "name": "Syrian Church",
+                  "text": "Archäologische Fundamente einer antiken syrischen Kirche an der heiligen Taufstelle am Jordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.541528,
+                        31.83161
+                  ]
+            },
+            {
+                  "name": "Allenby-Brücke",
+                  "text": "Eine strategische Brücke über den Jordan, die als wichtiger Grenzübergang zwischen Jordanien und dem Westjordanland dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540911,
+                        31.873872
+                  ]
+            },
+            {
+                  "name": "Qasr al Yahud",
+                  "text": "Die traditionelle Taufstelle Jesu am Westufer des Jordans, bekannt für ihre rituellen Treppen zum Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        35.546052,
+                        31.83703
+                  ]
+            },
+            {
+                  "name": "view on Jordan-river",
+                  "text": "Ein Aussichtspunkt, der einen direkten Blick auf den schmalen, geschichtsträchtigen Lauf des Jordanflusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.549518,
+                        31.835705
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Egyptian",
+                  "text": "Ruinen einer kleinen Kapelle, die der Heiligen Maria von Ägypten gewidmet ist, die hier als Einsiedlerin lebte.",
+                  "category": "historical",
+                  "coords": [
+                        35.549171,
+                        31.838808
+                  ]
+            },
+            {
+                  "name": "Taufstätte Bethanien jenseits des Jordans",
+                  "text": "UNESCO-Weltkulturerbe am Ostufer des Jordans, das als Wirkungsstätte von Johannes dem Täufer gilt.",
+                  "category": "historical",
+                  "coords": [
+                        35.55009,
+                        31.837358
+                  ]
+            },
+            {
+                  "name": "John the Baptist Spring",
+                  "text": "Eine antike Quelle, die seit der Antike die christlichen Gemeinschaften an der Taufstelle mit Wasser versorgt.",
+                  "category": "historical",
+                  "coords": [
+                        35.553122,
+                        31.83745
+                  ]
+            },
+            {
+                  "name": "The Pilgrims Station",
+                  "text": "Überreste einer antiken Raststation für Pilger, die die heiligen Stätten am Jordan besuchten.",
+                  "category": "historical",
+                  "coords": [
+                        35.555209,
+                        31.837662
+                  ]
+            },
+            {
+                  "name": "Tell er-Rameh",
+                  "text": "Ein archäologischer Hügel im Jordantal, der mit der antiken Stadt Livias identifiziert wird.",
+                  "category": "historical",
+                  "coords": [
+                        35.64455,
+                        31.8256
+                  ]
+            },
+            {
+                  "name": "Saint John Monastery",
+                  "text": "Ruinen eines Klosters aus dem 4. Jahrhundert, das Johannes dem Täufer gewidmet war und nahe dem Fluss liegt.",
+                  "category": "historical",
+                  "coords": [
+                        35.538916,
+                        31.838159
+                  ]
+            },
+            {
+                  "name": "Ethiopian Church",
+                  "text": "Die steinernen Überreste einer äthiopisch-orthodoxen Kirche an der heiligen Taufstelle Al-Maghtas.",
+                  "category": "historical",
+                  "coords": [
+                        35.54184,
+                        31.827636
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox museum",
+                  "text": "Ein kleines Museum, das archäologische Fundstücke und religiöse Kunst aus der Region der Taufstelle ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        35.551598,
+                        31.834937
+                  ]
+            },
+            {
+                  "name": "Bethany beyond the Jordan Archaeological Park",
+                  "text": "Ein archäologischer Park am Jordan, der mehrere antike Kirchenruinen und Taufbecken schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.561532,
+                        31.839161
+                  ]
+            },
+            {
+                  "name": "Al Katsair",
+                  "text": "Ein christliches Gedenkareal innerhalb des Al-Maghtas-Komplexes an der biblischen Taufstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.541601,
+                        31.83037
+                  ]
+            },
+            {
+                  "name": "Monasterio de San Juan el Bautista",
+                  "text": "Ein von Franziskanern geführtes Kloster und eine Kirche in unmittelbarer Nähe zum Jordanufer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543577,
+                        31.837146
+                  ]
+            },
+            {
+                  "name": "Surb Karapet Armenian Apostolic Church",
+                  "text": "Eine armenisch-apostolische Kirche am Jordan, die durch ihre traditionelle armenische Steinarchitektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556456,
+                        31.833728
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "Eine griechisch-orthodoxe Kirche mit markanten goldenen Kuppeln, die direkt am Ufer des Jordans liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547222,
+                        31.836734
+                  ]
+            },
+            {
+                  "name": "russkii Strannopriimnyi dom na meste Kreshcheniia Gospodnia v Iordanii",
+                  "text": "Ein russisches Pilgerhaus und eine Kapelle, die speziell für Besucher der heiligen Taufstätte errichtet wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547764,
+                        31.83143
+                  ]
+            },
+            {
+                  "name": "St. Garabed Armenian Apostolic Church",
+                  "text": "Eine armenische Kirche an der Taufstelle, erbaut im klassischen Kreuzkuppelstil aus lokalem Stein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.555674,
+                        31.832504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bethany Saphsaphas",
+                  "text": "Egy bizánci templom és kolostor romjai a Jordán-folyónál található bibliai keresztelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        35.566869,
+                        31.838141
+                  ]
+            },
+            {
+                  "name": "Cave Cells",
+                  "text": "A puha sziklába vájt remetecellák, amelyeket egykor szerzetesek használtak a keresztelőhely közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.551583,
+                        31.839091
+                  ]
+            },
+            {
+                  "name": "Romanian Church",
+                  "text": "Egy román ortodox kápolna maradványai az Al-Maghtas régészeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.542628,
+                        31.82491
+                  ]
+            },
+            {
+                  "name": "Syrian Church",
+                  "text": "Egy ősi szír templom régészeti alapjai a Jordán-folyó szent keresztelőhelyénél.",
+                  "category": "historical",
+                  "coords": [
+                        35.541528,
+                        31.83161
+                  ]
+            },
+            {
+                  "name": "Allenby Bridge",
+                  "text": "Stratégiai híd a Jordán-folyón, amely fontos határátkelőhelyként szolgál Jordánia és Ciszjordánia között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540911,
+                        31.873872
+                  ]
+            },
+            {
+                  "name": "Qasr al Yahud",
+                  "text": "Jézus hagyományos keresztelési helyszíne a Jordán nyugati partján, amely a vízhez vezető rituális lépcsőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.546052,
+                        31.83703
+                  ]
+            },
+            {
+                  "name": "view on Jordan-river",
+                  "text": "Kilátópont, amely közvetlen rálátást nyújt a Jordán-folyó keskeny, történelmi folyására.",
+                  "category": "natural",
+                  "coords": [
+                        35.549518,
+                        31.835705
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Egyptian",
+                  "text": "Egy kis kápolna romjai, amelyet Egyiptomi Szent Mária tiszteletére emeltek, aki itt élt remeteként.",
+                  "category": "historical",
+                  "coords": [
+                        35.549171,
+                        31.838808
+                  ]
+            },
+            {
+                  "name": "Bethany-beyond-the-Jordan Baptism Site",
+                  "text": "Az UNESCO Világörökség része a Jordán keleti partján, amelyet Keresztelő János tevékenységének helyszíneként tartanak számon.",
+                  "category": "historical",
+                  "coords": [
+                        35.55009,
+                        31.837358
+                  ]
+            },
+            {
+                  "name": "John the Baptist Spring",
+                  "text": "Ősi forrás, amely az ókor óta látja el vízzel a keresztelőhely keresztény közösségeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.553122,
+                        31.83745
+                  ]
+            },
+            {
+                  "name": "The Pilgrims Station",
+                  "text": "Egy ősi pihenőhely maradványai a Jordán menti szent helyeket felkereső zarándokok számára.",
+                  "category": "historical",
+                  "coords": [
+                        35.555209,
+                        31.837662
+                  ]
+            },
+            {
+                  "name": "Tell er-Rameh",
+                  "text": "Régészeti domb a Jordán-völgyben, amelyet az ókori Livias városával azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        35.64455,
+                        31.8256
+                  ]
+            },
+            {
+                  "name": "Saint John Monastery",
+                  "text": "Egy 4. századi, Keresztelő Jánosnak szentelt kolostor romjai a folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.538916,
+                        31.838159
+                  ]
+            },
+            {
+                  "name": "Ethiopian Church",
+                  "text": "Egy etióp ortodox templom kőmaradványai az Al-Maghtas szent keresztelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        35.54184,
+                        31.827636
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox museum",
+                  "text": "Kisméretű múzeum, amely a keresztelőhely környékéről származó régészeti leleteket és vallási műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.551598,
+                        31.834937
+                  ]
+            },
+            {
+                  "name": "Bethany beyond the Jordan Archaeological Park",
+                  "text": "Régészeti park a Jordán mentén, amely több ősi templomromot és keresztelőmedencét őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.561532,
+                        31.839161
+                  ]
+            },
+            {
+                  "name": "Al Katsair",
+                  "text": "Keresztény emlékhely az Al-Maghtas komplexumon belül, a bibliai keresztelőhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.541601,
+                        31.83037
+                  ]
+            },
+            {
+                  "name": "Monasterio de San Juan el Bautista",
+                  "text": "Ferences rendi kolostor és templom a Jordán-part közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543577,
+                        31.837146
+                  ]
+            },
+            {
+                  "name": "Surb Karapet Armenian Apostolic Church",
+                  "text": "Örmény apostoli templom a Jordánnál, amely hagyományos örmény kőépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556456,
+                        31.833728
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "Jellegzetes aranykupolás görög ortodox templom közvetlenül a Jordán-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547222,
+                        31.836734
+                  ]
+            },
+            {
+                  "name": "russkii Strannopriimnyi dom na meste Kreshcheniia Gospodnia v Iordanii",
+                  "text": "Orosz zarándokház és kápolna, amelyet kifejezetten a szent keresztelőhely látogatói számára építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547764,
+                        31.83143
+                  ]
+            },
+            {
+                  "name": "St. Garabed Armenian Apostolic Church",
+                  "text": "Örmény templom a keresztelőhelyen, amely klasszikus keresztkupolás stílusban, helyi kőből épült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.555674,
+                        31.832504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bethany Saphsaphas",
+                  "text": "Ruinele unei biserici și mănăstiri bizantine la locul biblic al botezului de lângă râul Iordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.566869,
+                        31.838141
+                  ]
+            },
+            {
+                  "name": "Cave Cells",
+                  "text": "Chilii de pustnici săpate în stânca moale, folosite odinioară de călugări în apropierea locului botezului.",
+                  "category": "historical",
+                  "coords": [
+                        35.551583,
+                        31.839091
+                  ]
+            },
+            {
+                  "name": "Romanian Church",
+                  "text": "Rămășițele unei capele ortodoxe românești în cadrul parcului arheologic Al-Maghtas.",
+                  "category": "historical",
+                  "coords": [
+                        35.542628,
+                        31.82491
+                  ]
+            },
+            {
+                  "name": "Syrian Church",
+                  "text": "Fundațiile arheologice ale unei vechi biserici siriene la locul sfânt al botezului de pe râul Iordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.541528,
+                        31.83161
+                  ]
+            },
+            {
+                  "name": "Allenby Bridge",
+                  "text": "Un pod strategic peste râul Iordan, care servește ca punct important de trecere a frontierei între Iordania și Cisiordania.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540911,
+                        31.873872
+                  ]
+            },
+            {
+                  "name": "Qasr al Yahud",
+                  "text": "Locul tradițional al botezului lui Iisus pe malul vestic al Iordanului, cunoscut pentru scările sale rituale către apă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.546052,
+                        31.83703
+                  ]
+            },
+            {
+                  "name": "view on Jordan-river",
+                  "text": "Un punct de observație care oferă o vedere directă asupra cursului îngust și istoric al râului Iordan.",
+                  "category": "natural",
+                  "coords": [
+                        35.549518,
+                        31.835705
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Egyptian",
+                  "text": "Ruinele unei mici capele dedicate Sfintei Maria Egipteanca, care a trăit aici ca pustnică.",
+                  "category": "historical",
+                  "coords": [
+                        35.549171,
+                        31.838808
+                  ]
+            },
+            {
+                  "name": "Bethany-beyond-the-Jordan Baptism Site",
+                  "text": "Sit aflat în patrimoniul UNESCO pe malul estic al Iordanului, considerat locul unde a activat Ioan Botezătorul.",
+                  "category": "historical",
+                  "coords": [
+                        35.55009,
+                        31.837358
+                  ]
+            },
+            {
+                  "name": "John the Baptist Spring",
+                  "text": "Un izvor antic care furnizează apă comunităților creștine de la locul botezului încă din antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        35.553122,
+                        31.83745
+                  ]
+            },
+            {
+                  "name": "The Pilgrims Station",
+                  "text": "Rămășițele unei vechi stații de odihnă pentru pelerinii care vizitau locurile sfinte de pe malul Iordanului.",
+                  "category": "historical",
+                  "coords": [
+                        35.555209,
+                        31.837662
+                  ]
+            },
+            {
+                  "name": "Tell er-Rameh",
+                  "text": "Un tumul arheologic în Valea Iordanului, identificat cu orașul antic Livias.",
+                  "category": "historical",
+                  "coords": [
+                        35.64455,
+                        31.8256
+                  ]
+            },
+            {
+                  "name": "Saint John Monastery",
+                  "text": "Ruinele unei mănăstiri din secolul al IV-lea dedicate lui Ioan Botezătorul, situată aproape de râu.",
+                  "category": "historical",
+                  "coords": [
+                        35.538916,
+                        31.838159
+                  ]
+            },
+            {
+                  "name": "Ethiopian Church",
+                  "text": "Rămășițele din piatră ale unei biserici ortodoxe etiopiene la locul sfânt al botezului Al-Maghtas.",
+                  "category": "historical",
+                  "coords": [
+                        35.54184,
+                        31.827636
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox museum",
+                  "text": "Un mic muzeu care expune artefacte arheologice și artă religioasă din regiunea locului botezului.",
+                  "category": "museum",
+                  "coords": [
+                        35.551598,
+                        31.834937
+                  ]
+            },
+            {
+                  "name": "Bethany beyond the Jordan Archaeological Park",
+                  "text": "Un parc arheologic de-a lungul Iordanului, care protejează mai multe ruine de biserici antice și bazine de botez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.561532,
+                        31.839161
+                  ]
+            },
+            {
+                  "name": "Al Katsair",
+                  "text": "O zonă memorială creștină în cadrul complexului Al-Maghtas de la locul biblic al botezului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.541601,
+                        31.83037
+                  ]
+            },
+            {
+                  "name": "Monasterio de San Juan el Bautista",
+                  "text": "O mănăstire și o biserică administrate de franciscani, situate în imediata apropiere a malului Iordanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543577,
+                        31.837146
+                  ]
+            },
+            {
+                  "name": "Surb Karapet Armenian Apostolic Church",
+                  "text": "Biserică apostolică armeană de lângă Iordan, care se remarcă prin arhitectura tradițională armeană din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556456,
+                        31.833728
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "O biserică ortodoxă greacă cu cupole aurii distinctive, situată chiar pe malul râului Iordan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547222,
+                        31.836734
+                  ]
+            },
+            {
+                  "name": "russkii Strannopriimnyi dom na meste Kreshcheniia Gospodnia v Iordanii",
+                  "text": "O casă de pelerini rusă și o chapelă construită special pentru vizitatorii locului sfânt al botezului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547764,
+                        31.83143
+                  ]
+            },
+            {
+                  "name": "St. Garabed Armenian Apostolic Church",
+                  "text": "O biserică armeană la locul botezului, construită în stil clasic cu cupolă în cruce din piatră locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.555674,
+                        31.832504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bethany Saphsaphas",
+                  "text": "Ruins of a Byzantine church and monastery at the biblical baptism site near the Jordan River.",
+                  "category": "historical",
+                  "coords": [
+                        35.566869,
+                        31.838141
+                  ]
+            },
+            {
+                  "name": "Cave Cells",
+                  "text": "Hermit cells carved into the soft rock, once used by monks near the baptism site.",
+                  "category": "historical",
+                  "coords": [
+                        35.551583,
+                        31.839091
+                  ]
+            },
+            {
+                  "name": "romanian church",
+                  "text": "The remains of a Romanian Orthodox chapel within the Al-Maghtas archaeological park.",
+                  "category": "historical",
+                  "coords": [
+                        35.542628,
+                        31.82491
+                  ]
+            },
+            {
+                  "name": "syrian church",
+                  "text": "Archaeological foundations of an ancient Syrian church at the holy baptism site on the Jordan River.",
+                  "category": "historical",
+                  "coords": [
+                        35.541528,
+                        31.83161
+                  ]
+            },
+            {
+                  "name": "Allenby Bridge",
+                  "text": "A strategic bridge over the Jordan River serving as a major border crossing between Jordan and the West Bank.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540911,
+                        31.873872
+                  ]
+            },
+            {
+                  "name": "Qasr al Yahud",
+                  "text": "The traditional site of Jesus' baptism on the western bank of the Jordan, known for its ritual stairs to the water.",
+                  "category": "landmark",
+                  "coords": [
+                        35.546052,
+                        31.83703
+                  ]
+            },
+            {
+                  "name": "view on Jordan-river",
+                  "text": "A vantage point offering a direct view over the narrow, historic course of the Jordan River.",
+                  "category": "natural",
+                  "coords": [
+                        35.549518,
+                        31.835705
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Egyptian",
+                  "text": "Ruins of a small chapel dedicated to Saint Mary the Egyptian, who lived here as a hermit.",
+                  "category": "historical",
+                  "coords": [
+                        35.549171,
+                        31.838808
+                  ]
+            },
+            {
+                  "name": "Bethany-beyond-the-Jordan Baptism Site",
+                  "text": "A UNESCO World Heritage site on the east bank of the Jordan, identified as where John the Baptist lived and baptized.",
+                  "category": "historical",
+                  "coords": [
+                        35.55009,
+                        31.837358
+                  ]
+            },
+            {
+                  "name": "John the Baptist Spring",
+                  "text": "An ancient spring providing water to the Christian communities at the baptism site since antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        35.553122,
+                        31.83745
+                  ]
+            },
+            {
+                  "name": "The Pilgrims Station",
+                  "text": "Remains of an ancient resting station for pilgrims visiting the holy sites along the Jordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.555209,
+                        31.837662
+                  ]
+            },
+            {
+                  "name": "Tell er-Rameh",
+                  "text": "An archaeological mound in the Jordan Valley identified with the ancient city of Livias.",
+                  "category": "historical",
+                  "coords": [
+                        35.64455,
+                        31.8256
+                  ]
+            },
+            {
+                  "name": "Saint John Monastery",
+                  "text": "Ruins of a 4th-century monastery dedicated to Saint John the Baptist, situated near the river.",
+                  "category": "historical",
+                  "coords": [
+                        35.538916,
+                        31.838159
+                  ]
+            },
+            {
+                  "name": "ethiopian church",
+                  "text": "The stone remnants of an Ethiopian Orthodox church at the Al-Maghtas holy baptism site.",
+                  "category": "historical",
+                  "coords": [
+                        35.54184,
+                        31.827636
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox museum",
+                  "text": "A small museum exhibiting archaeological finds and religious art from the baptism site region.",
+                  "category": "museum",
+                  "coords": [
+                        35.551598,
+                        31.834937
+                  ]
+            },
+            {
+                  "name": "Bethany beyond the Jordan Archaeological Park",
+                  "text": "An archaeological park along the Jordan protecting several ancient church ruins and baptismal pools.",
+                  "category": "landmark",
+                  "coords": [
+                        35.561532,
+                        31.839161
+                  ]
+            },
+            {
+                  "name": "Al Katsair",
+                  "text": "A Christian memorial area within the Al-Maghtas complex at the biblical baptism site.",
+                  "category": "landmark",
+                  "coords": [
+                        35.541601,
+                        31.83037
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Monastery (Franciscan Order)",
+                  "text": "A Franciscan-run monastery and church located in close proximity to the Jordan riverbank.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543577,
+                        31.837146
+                  ]
+            },
+            {
+                  "name": "Surb Karapet Armenian Apostolic Church",
+                  "text": "Armenian Apostolic church near the Jordan distinguished by its traditional Armenian stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556456,
+                        31.833728
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "A Greek Orthodox church with distinctive golden domes located right on the banks of the Jordan River.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547222,
+                        31.836734
+                  ]
+            },
+            {
+                  "name": "russkii Strannopriimnyi dom na meste Kreshcheniia Gospodnia v Iordanii",
+                  "text": "A Russian pilgrim house and chapel built specifically for visitors to the holy baptism site.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547764,
+                        31.83143
+                  ]
+            },
+            {
+                  "name": "St. Garabed Armenian Apostolic Church",
+                  "text": "An Armenian church at the baptism site built in the classic cross-dome style using local stone.",
+                  "category": "landmark",
+                  "coords": [
+                        35.555674,
+                        31.832504
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-BA",
     coords: [35.5461, 31.8375],
@@ -1027,7 +6067,412 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "umm-ar-rasas-history-v2",
+    id: "umm-ar-rasas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Muddeiyine",
+                  "text": "Antike archäologische Ruinen in der Nähe der UNESCO-Weltkulturerbestätte Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Um Shujeirat al Shiyab",
+                  "text": "Wüstenruinen aus der Antike mit verwitterten Steinmauern und historischen Siedlungsspuren.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.533301
+                  ]
+            },
+            {
+                  "name": "Al Ramah",
+                  "text": "Diese antiken Ruinen liegen in der kargen Wüstenlandschaft von Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.45
+                  ]
+            },
+            {
+                  "name": "Al Lahun",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die dramatische Schlucht des Wadi Mujib.",
+                  "category": "natural",
+                  "coords": [
+                        35.847487,
+                        31.461694
+                  ]
+            },
+            {
+                  "name": "Iglesia de los leones",
+                  "text": "Die Fundstätte ist bekannt für ein Mosaik, das zwei gegenüberliegende Löwen darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        35.921167,
+                        31.500596
+                  ]
+            },
+            {
+                  "name": "Musaytibah",
+                  "text": "Zerstreute Steinruinen zeugen hier von einer einstigen antiken Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al-Mudayna, Building 149",
+                  "text": "Diese eisenzeitliche Ausgrabungsstätte liegt markant auf einem hohen Plateau über dem Wadi.",
+                  "category": "historical",
+                  "coords": [
+                        35.907997,
+                        31.589012
+                  ]
+            },
+            {
+                  "name": "Umm er Rasas",
+                  "text": "Diese UNESCO-Welterbestätte ist berühmt für ihre außergewöhnlich gut erhaltenen byzantinischen Mosaike.",
+                  "category": "landmark",
+                  "coords": [
+                        35.921432,
+                        31.504117
+                  ]
+            },
+            {
+                  "name": "Kastron Mefa'a",
+                  "text": "Dies ist der befestigte Kern einer römisch-byzantinischen Siedlung innerhalb von Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.919901,
+                        31.4996
+                  ]
+            },
+            {
+                  "name": "Khirbat az-Zuna",
+                  "text": "Diese Anlage bewahrt die Überreste eines quadratischen römischen Kastells am Limes Arabicus.",
+                  "category": "historical",
+                  "coords": [
+                        35.936342,
+                        31.585096
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine schlichte Moschee aus Naturstein innerhalb des historischen Ausgrabungsgeländes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91663,
+                        31.499381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Muddeiyine",
+                  "text": "Ősi régészeti romok az UNESCO világörökség részét képező Umm ar-Rasas közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Um Shujeirat al Shiyab",
+                  "text": "Antik sivatagi romok málló kőfalakkal és történelmi településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.533301
+                  ]
+            },
+            {
+                  "name": "Al Ramah",
+                  "text": "Ősi romok Umm ar-Rasasz kietlen sivatagi táján.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.45
+                  ]
+            },
+            {
+                  "name": "Al Lahun",
+                  "text": "Ez a kilátópont széles panorámát nyújt a Wadi Mujib drámai szurdokára.",
+                  "category": "natural",
+                  "coords": [
+                        35.847487,
+                        31.461694
+                  ]
+            },
+            {
+                  "name": "Iglesia de los leones",
+                  "text": "A lelőhely egy két egymással szemben álló oroszlánt ábrázoló mozaikról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.921167,
+                        31.500596
+                  ]
+            },
+            {
+                  "name": "Musaytibah",
+                  "text": "Szétszóródott kőromok tanúskodnak itt egy egykori ókori településről.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al-Mudayna, Building 149",
+                  "text": "Ez a vaskori ásatási terület jellegzetesen egy magas fennsíkon fekszik a vádi felett.",
+                  "category": "historical",
+                  "coords": [
+                        35.907997,
+                        31.589012
+                  ]
+            },
+            {
+                  "name": "Umm er Rasas",
+                  "text": "Ez az UNESCO világörökségi helyszín kivételesen jó állapotban fennmaradt bizánci mozaikjairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        35.921432,
+                        31.504117
+                  ]
+            },
+            {
+                  "name": "Kastron Mefa'a",
+                  "text": "Ez egy római-bizánci település megerősített magja Umm ar-Rasasz területén belül.",
+                  "category": "historical",
+                  "coords": [
+                        35.919901,
+                        31.4996
+                  ]
+            },
+            {
+                  "name": "Khirbat az-Zuna",
+                  "text": "Ez a helyszín egy négyzetes római erőd maradványait őrzi a Limes Arabicus mentén.",
+                  "category": "historical",
+                  "coords": [
+                        35.936342,
+                        31.585096
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egy egyszerű terméskőből épült mecset a történelmi ásatási területen belül.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91663,
+                        31.499381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Muddeiyine",
+                  "text": "Ruine arheologice antice situate în apropierea sitului din patrimoniul mondial UNESCO Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Um Shujeirat al Shiyab",
+                  "text": "Ruine din deșert ce datează din antichitate, cu ziduri de piatră erodate și urme de așezări istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.533301
+                  ]
+            },
+            {
+                  "name": "Al Ramah",
+                  "text": "Ruine antice situate în peisajul deșertic arid de la Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.45
+                  ]
+            },
+            {
+                  "name": "Al Lahun",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra defileului dramatic Wadi Mujib.",
+                  "category": "natural",
+                  "coords": [
+                        35.847487,
+                        31.461694
+                  ]
+            },
+            {
+                  "name": "Iglesia de los leones",
+                  "text": "Situl este cunoscut pentru un mozaic care înfățișează doi lei față în față.",
+                  "category": "historical",
+                  "coords": [
+                        35.921167,
+                        31.500596
+                  ]
+            },
+            {
+                  "name": "Musaytibah",
+                  "text": "Ruine de piatră împrăștiate atestă aici existența unei foste așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al-Mudayna, Building 149",
+                  "text": "Acest sit arheologic din epoca fierului este situat proeminent pe un platou înalt deasupra văii.",
+                  "category": "historical",
+                  "coords": [
+                        35.907997,
+                        31.589012
+                  ]
+            },
+            {
+                  "name": "Umm er Rasas",
+                  "text": "Acest sit din patrimoniul mondial UNESCO este faimos pentru mozaicurile sale bizantine excepțional de bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.921432,
+                        31.504117
+                  ]
+            },
+            {
+                  "name": "Kastron Mefa'a",
+                  "text": "Acesta este nucleul fortificat al unei așezări romano-bizantine din cadrul sitului Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.919901,
+                        31.4996
+                  ]
+            },
+            {
+                  "name": "Khirbat az-Zuna",
+                  "text": "Acest sit păstrează resturile unui fort roman pătrat situat de-a lungul Limes Arabicus.",
+                  "category": "historical",
+                  "coords": [
+                        35.936342,
+                        31.585096
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee simplă din piatră naturală aflată în incinta sitului arheologic istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91663,
+                        31.499381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Muddeiyine",
+                  "text": "Ancient archaeological ruins located near the UNESCO World Heritage site of Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Um Shujeirat al Shiyab",
+                  "text": "Desert ruins from antiquity featuring weathered stone walls and historical settlement traces.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.533301
+                  ]
+            },
+            {
+                  "name": "Al Ramah",
+                  "text": "These ancient ruins are situated in the arid desert landscape of Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.45
+                  ]
+            },
+            {
+                  "name": "Al Lahun",
+                  "text": "This viewpoint offers a wide panorama over the dramatic Wadi Mujib gorge.",
+                  "category": "natural",
+                  "coords": [
+                        35.847487,
+                        31.461694
+                  ]
+            },
+            {
+                  "name": "Lions church",
+                  "text": "The site is known for a mosaic floor depicting two lions facing each other.",
+                  "category": "historical",
+                  "coords": [
+                        35.921167,
+                        31.500596
+                  ]
+            },
+            {
+                  "name": "Musaytibah",
+                  "text": "Scattered stone ruins here testify to a former ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al-Mudayna, Building 149",
+                  "text": "This Iron Age archaeological site is prominently situated on a high plateau above the wadi.",
+                  "category": "historical",
+                  "coords": [
+                        35.907997,
+                        31.589012
+                  ]
+            },
+            {
+                  "name": "Umm ar Rasas",
+                  "text": "This UNESCO World Heritage site is famous for its exceptionally well-preserved Byzantine mosaics.",
+                  "category": "landmark",
+                  "coords": [
+                        35.921432,
+                        31.504117
+                  ]
+            },
+            {
+                  "name": "Kastron Mefa'a",
+                  "text": "This is the fortified core of a Roman-Byzantine settlement within Umm ar-Rasas.",
+                  "category": "historical",
+                  "coords": [
+                        35.919901,
+                        31.4996
+                  ]
+            },
+            {
+                  "name": "Khirbat az-Zuna",
+                  "text": "This site preserves the remains of a square Roman fort along the Limes Arabicus.",
+                  "category": "historical",
+                  "coords": [
+                        35.936342,
+                        31.585096
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple stone mosque structure located within the historic archaeological complex.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91663,
+                        31.499381
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "JO-AM",
     coords: [35.9200, 31.4997],
@@ -1091,7 +6536,196 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "aqaba-fort-history-v2",
+    id: "aqaba-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Akaba",
+                  "text": "Ursprünglich von den Mamluken erbaut, diente diese historische Festung bekanntlich als Hochburg während der Arabischen Revolte.",
+                  "category": "castle",
+                  "coords": [
+                        35.002042,
+                        29.521377
+                  ]
+            },
+            {
+                  "name": "Alghandour",
+                  "text": "Dieser beliebte öffentliche Sandstrand am Golf von Akaba bietet direkten Zugang zum Wasser des Roten Meeres.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000804,
+                        29.525062
+                  ]
+            },
+            {
+                  "name": "Ayla",
+                  "text": "Diese ausgegrabenen Ruinen zeigen den Grundriss der ersten islamischen Stadt, die außerhalb der Arabischen Halbinsel gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        34.999935,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Sheik Zayed Mosque",
+                  "text": "Diese große Moschee mit Blick auf das Rote Meer zeichnet sich durch markante weiße Kuppeln und detaillierte Architekturmuster aus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012237,
+                        29.518408
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Bin Ali Moschee",
+                  "text": "Bekannt für ihre strahlend weiße Fassade und die eleganten Glasfenster, sticht diese religiöse Stätte im Stadtzentrum hervor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.002375,
+                        29.527661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqaba Castle",
+                  "text": "Az eredetileg a mamlúkok által épített történelmi erődítmény az arab felkelés idején fontos támaszpontként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        35.002042,
+                        29.521377
+                  ]
+            },
+            {
+                  "name": "Alghandour",
+                  "text": "Ez a népszerű nyilvános homokos partszakasz az Akabai-öböl mentén közvetlen hozzáférést biztosít a Vörös-tenger vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000804,
+                        29.525062
+                  ]
+            },
+            {
+                  "name": "Ayla",
+                  "text": "Ezek a feltárt romok az Arab-félszigeten kívül alapított első iszlám város alaprajzát tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        34.999935,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Sheik Zayed Mosque",
+                  "text": "A Vörös-tengerre néző nagymecsetet jellegzetes fehér kupolák és részletgazdag építészeti minták díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012237,
+                        29.518408
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Bin Ali Mosque",
+                  "text": "A csillogó fehér külsejéről és elegáns üvegablakairól ismert vallási épület a városközpont kiemelkedő látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        35.002375,
+                        29.527661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqaba Castle",
+                  "text": "Construită inițial de mameluci, această fortăreață istorică a servit drept bastion în timpul Revoltei Arabe.",
+                  "category": "castle",
+                  "coords": [
+                        35.002042,
+                        29.521377
+                  ]
+            },
+            {
+                  "name": "Alghandour",
+                  "text": "Această plajă publică populară cu nisip, situată de-a lungul Golfului Aqaba, oferă acces direct la apele Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000804,
+                        29.525062
+                  ]
+            },
+            {
+                  "name": "Ayla",
+                  "text": "Aceste ruine excavate dezvăluie structura primei așezări islamice fondate în afara Peninsulei Arabice.",
+                  "category": "historical",
+                  "coords": [
+                        34.999935,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Sheik Zayed Mosque",
+                  "text": "Având vedere la Marea Roșie, această mare moschee se remarcă prin cupolele sale albe proeminente și modelele arhitecturale detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012237,
+                        29.518408
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Bin Ali Mosque",
+                  "text": "Cunoscut pentru exteriorul său alb strălucitor și ferestrele elegante din sticlă, acest lăcaș religios iese în evidență în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.002375,
+                        29.527661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqaba Castle",
+                  "text": "Originally built by the Mamluks, this historic fortress famously served as a stronghold during the Arab Revolt.",
+                  "category": "castle",
+                  "coords": [
+                        35.002042,
+                        29.521377
+                  ]
+            },
+            {
+                  "name": "Alghandour",
+                  "text": "This popular public sandy shore along the Gulf of Aqaba offers direct access to the Red Sea waters.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000804,
+                        29.525062
+                  ]
+            },
+            {
+                  "name": "Ayla",
+                  "text": "These excavated ruins reveal the layout of the first Islamic city established outside the Arabian Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        34.999935,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Sheik Zayed Mosque",
+                  "text": "Overlooking the Red Sea, this grand mosque features prominent white domes and detailed architectural patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012237,
+                        29.518408
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Bin Ali Mosque",
+                  "text": "Known for its gleaming white exterior and elegant glass windows, this religious site stands out in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.002375,
+                        29.527661
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "JO-AQ",
     coords: [35.0006, 29.5218],
@@ -1219,7 +6853,196 @@ export const poiExtraJordanHistoryV2: POI[] = [
     },
   },
   {
-    id: "yarmouk-battlefield-history-v2",
+    id: "yarmouk-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Duwayriban",
+                  "text": "Verstreute Ruinen im Yarmouk-Tal, die die Stelle einer antiken Siedlung markieren.",
+                  "category": "historical",
+                  "coords": [
+                        35.801948,
+                        32.765382
+                  ]
+            },
+            {
+                  "name": "Khirbat Um al Amad",
+                  "text": "Fundamente einer alten Siedlung, die durch Steinsäulen und Mauerreste gekennzeichnet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.683333
+                  ]
+            },
+            {
+                  "name": "Qarqosh, Irbid, Jordan",
+                  "text": "Ein Aussichtspunkt in der Region Irbid mit Blick auf das zerklüftete Yarmouk-Flusstal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872477,
+                        32.710843
+                  ]
+            },
+            {
+                  "name": "Khirbat Qaraqush",
+                  "text": "Die zerfallenden Steinstrukturen einer historischen Stätte nahe der jordanischen Grenze.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.7
+                  ]
+            },
+            {
+                  "name": "Abila Quwayliba",
+                  "text": "Antike Stadt der Dekapolis mit gut erhaltenen römischen Tempeln und byzantinischen Kirchenruinen.",
+                  "category": "historical",
+                  "coords": [
+                        35.868826,
+                        32.682102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Duwayriban",
+                  "text": "Szétszórt romok a Jarmúk-völgyben, amelyek egy ókori település helyét jelzik.",
+                  "category": "historical",
+                  "coords": [
+                        35.801948,
+                        32.765382
+                  ]
+            },
+            {
+                  "name": "Khirbat Um al Amad",
+                  "text": "Kőoszlopokkal és falmaradványokkal jellemzett régi település alapjai.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.683333
+                  ]
+            },
+            {
+                  "name": "Qarqosh, Irbid, Jordan",
+                  "text": "Kilátóhely az Irbid régióban, kilátással a vadregényes Jarmúk-folyó völgyére.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872477,
+                        32.710843
+                  ]
+            },
+            {
+                  "name": "Khirbat Qaraqush",
+                  "text": "Egy történelmi helyszín omladozó kőszerkezetei a jordán határ közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.7
+                  ]
+            },
+            {
+                  "name": "Abila Quwayliba",
+                  "text": "Az ókori Dekapolisz egyik városa, római templomokkal és bizánci templomromokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.868826,
+                        32.682102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Duwayriban",
+                  "text": "Ruine împrăștiate în valea Yarmouk care marchează locul unei așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        35.801948,
+                        32.765382
+                  ]
+            },
+            {
+                  "name": "Khirbat Um al Amad",
+                  "text": "Fundațiile unei așezări vechi, caracterizate prin piloni de piatră și resturi de ziduri.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.683333
+                  ]
+            },
+            {
+                  "name": "Qarqosh, Irbid, Jordan",
+                  "text": "Un punct pitoresc în regiunea Irbid, cu vedere spre valea accidentată a râului Yarmouk.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872477,
+                        32.710843
+                  ]
+            },
+            {
+                  "name": "Khirbat Qaraqush",
+                  "text": "Structurile de piatră în paragină ale unui sit istoric situat lângă granița cu Iordania.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.7
+                  ]
+            },
+            {
+                  "name": "Abila Quwayliba",
+                  "text": "Oraș antic din Decapole, cu temple romane și ruine de biserici bizantine bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        35.868826,
+                        32.682102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Duwayriban",
+                  "text": "Scattered ruins in the Yarmouk valley that mark the site of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.801948,
+                        32.765382
+                  ]
+            },
+            {
+                  "name": "Khirbat Um al Amad",
+                  "text": "Foundations of an old settlement characterized by stone pillars and wall remains.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.683333
+                  ]
+            },
+            {
+                  "name": "Qarqosh, Irbid, Jordan",
+                  "text": "A scenic spot in the Irbid region overlooking the rugged Yarmouk River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.872477,
+                        32.710843
+                  ]
+            },
+            {
+                  "name": "Khirbat Qaraqush",
+                  "text": "The crumbling stone structures of a historic site located near the Jordanian border.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.7
+                  ]
+            },
+            {
+                  "name": "Abila Quwayliba",
+                  "text": "Ancient Decapolis city featuring well-preserved Roman temples and Byzantine church ruins.",
+                  "category": "historical",
+                  "coords": [
+                        35.868826,
+                        32.682102
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "JO-IR",
     coords: [35.8753, 32.7231],

@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthkoreaReliefV2: POI[] = [
   {
-    id: "saryangdo-island-coast-relief-v2",
+    id: "saryangdo-island-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deutsches Dorf",
+                  "text": "Eine besondere Siedlung, die von aus Deutschland zurückkehrenden koreanischen Auswanderern erbaut wurde, mit traditionellen weißen Wänden und roten Ziegeldächern.",
+                  "category": "landmark",
+                  "coords": [
+                        128.040129,
+                        34.799233
+                  ]
+            },
+            {
+                  "name": "Changseon Bridge",
+                  "text": "Eine markante Straßenbrücke, die die Inseln Namhae und Changseon über die schnellen Gezeitenströmungen hinweg verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        128.000207,
+                        34.834221
+                  ]
+            },
+            {
+                  "name": "Sesimsa",
+                  "text": "Ein ruhiger buddhistischer Tempel, der ein spirituelles Heiligtum inmitten der Küstenhügel der Inselregion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        128.047504,
+                        34.884841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namhae German Village",
+                  "text": "A Németországból hazatérő koreai emigránsok által épített különleges település, amely hagyományos fehér falakkal és piros cserepes tetőkkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        128.040129,
+                        34.799233
+                  ]
+            },
+            {
+                  "name": "Changseon Bridge",
+                  "text": "Jelentős közúti híd, amely a Namhae- és a Changseon-szigeteket köti össze a sebes árapályáramlatok felett.",
+                  "category": "landmark",
+                  "coords": [
+                        128.000207,
+                        34.834221
+                  ]
+            },
+            {
+                  "name": "Sesimsa",
+                  "text": "Egy csendes buddhista templom, amely spirituális menedéket nyújt a szigetvidék tengerparti dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        128.047504,
+                        34.884841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namhae German Village",
+                  "text": "O așezare distinctă construită de expatriații coreeni care se întorc din Germania, cu pereți albi tradiționali și acoperișuri cu țiglă roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        128.040129,
+                        34.799233
+                  ]
+            },
+            {
+                  "name": "Changseon Bridge",
+                  "text": "Un pod rutier notabil care leagă insulele Namhae și Changseon peste curenții rapizi ai mareei.",
+                  "category": "landmark",
+                  "coords": [
+                        128.000207,
+                        34.834221
+                  ]
+            },
+            {
+                  "name": "Sesimsa",
+                  "text": "Un templu budist liniștit, care oferă un sanctuar spiritual printre dealurile de coastă ale regiunii insulare.",
+                  "category": "landmark",
+                  "coords": [
+                        128.047504,
+                        34.884841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namhae German Village",
+                  "text": "A distinct settlement built by Korean expatriates returning from Germany, featuring traditional white walls and red-tiled roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        128.040129,
+                        34.799233
+                  ]
+            },
+            {
+                  "name": "Changseon Bridge",
+                  "text": "A notable road bridge linking the Namhae and Changseon islands across the swift tidal currents.",
+                  "category": "landmark",
+                  "coords": [
+                        128.000207,
+                        34.834221
+                  ]
+            },
+            {
+                  "name": "Sesimsa",
+                  "text": "A quiet Buddhist temple providing a spiritual sanctuary amid the coastal hills of the island region.",
+                  "category": "landmark",
+                  "coords": [
+                        128.047504,
+                        34.884841
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-48",
     coords: [128.09, 34.82],
@@ -51,7 +168,196 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "muju-gucheondong-valley-relief-v2",
+    id: "muju-gucheondong-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deokyusan National Park",
+                  "text": "Bekannt für seine alpinen Sommerblumen und schneebedeckten Tannen im Winter, bietet dieser Park atemberaubende Talwanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        127.775189,
+                        35.900555
+                  ]
+            },
+            {
+                  "name": "Ihanme Art Museum",
+                  "text": "Ein Raum für zeitgenössische Kunst in Muju, der Werke lokaler koreanischer Künstler in einer malerischen Naturkulisse zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        127.810466,
+                        35.824977
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Diese Galerie zeigt wechselnde Ausstellungen moderner Malerei und Bildhauerei in der Nähe des Nationalparkeingangs.",
+                  "category": "landmark",
+                  "coords": [
+                        127.77791,
+                        35.764456
+                  ]
+            },
+            {
+                  "name": "Songgye-sa",
+                  "text": "Ein ruhiger buddhistischer Tempel am nördlichen Fuß des Deokyusan, bekannt für die nahen, kristallklaren Bergbäche.",
+                  "category": "landmark",
+                  "coords": [
+                        127.823432,
+                        35.80302
+                  ]
+            },
+            {
+                  "name": "BAEGRYEONSA",
+                  "text": "Dieser historische „Weiße Lotos“-Tempel ist über einen malerischen Weg durch die 33 Sehenswürdigkeiten des Gucheondong-Tals erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        127.766266,
+                        35.860165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deokyusan National Park",
+                  "text": "A nyári alpesi virágairól és téli hófödte fenyőiről híres park lenyűgöző völgyi túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        127.775189,
+                        35.900555
+                  ]
+            },
+            {
+                  "name": "Ihanme Art Museum",
+                  "text": "Kortárs művészeti tér Mudzsuban, ahol helyi koreai művészek alkotásait mutatják be festői természeti környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        127.810466,
+                        35.824977
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Ez a galéria modern festészeti és szobrászati vándorkiállításoknak ad otthont a nemzeti park bejárata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        127.77791,
+                        35.764456
+                  ]
+            },
+            {
+                  "name": "Songgye-sa",
+                  "text": "Csendes buddhista templom a Deokyusan északi lábánál, amely a közeli kristálytiszta hegyi patakokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        127.823432,
+                        35.80302
+                  ]
+            },
+            {
+                  "name": "BAEGRYEONSA",
+                  "text": "Ez a történelmi „Fehér Lótusz” templom a Gucheondong-völgy 33 látnivalóján áthaladó festői ösvényen érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        127.766266,
+                        35.860165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deokyusan National Park",
+                  "text": "Faimos pentru florile sale alpine vara și brazii acoperiți de zăpadă iarna, acest parc oferă trasee uimitoare prin vale.",
+                  "category": "natural",
+                  "coords": [
+                        127.775189,
+                        35.900555
+                  ]
+            },
+            {
+                  "name": "Ihanme Art Museum",
+                  "text": "Un spațiu de artă contemporană din Muju care prezintă lucrări ale artiștilor coreeni locali într-un cadru natural pitoresc.",
+                  "category": "cultural",
+                  "coords": [
+                        127.810466,
+                        35.824977
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Această galerie prezintă expoziții rotative de pictură și sculptură modernă lângă intrarea în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        127.77791,
+                        35.764456
+                  ]
+            },
+            {
+                  "name": "Songgye-sa",
+                  "text": "Un templu budist liniștit situat la poalele nordice ale muntelui Deokyusan, cunoscut pentru pâraiele montane de cristal din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        127.823432,
+                        35.80302
+                  ]
+            },
+            {
+                  "name": "BAEGRYEONSA",
+                  "text": "Acest templu istoric al „Lotusului Alb” este accesibil printr-o potecă pitorească ce trece prin cele 33 de locuri pitorești ale văii Gucheondong.",
+                  "category": "landmark",
+                  "coords": [
+                        127.766266,
+                        35.860165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deokyusan National Park",
+                  "text": "Famous for its high alpine flowers in summer and snow-covered fir trees in winter, this park offers stunning valley trails.",
+                  "category": "natural",
+                  "coords": [
+                        127.775189,
+                        35.900555
+                  ]
+            },
+            {
+                  "name": "Ihanme Art Museum",
+                  "text": "A contemporary art space in Muju showcasing works by local Korean artists in a scenic natural setting.",
+                  "category": "cultural",
+                  "coords": [
+                        127.810466,
+                        35.824977
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "This gallery features rotating exhibitions of modern painting and sculpture near the entrance of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        127.77791,
+                        35.764456
+                  ]
+            },
+            {
+                  "name": "Songgyesa",
+                  "text": "A quiet Buddhist temple located at the northern foot of Deokyusan, known for the nearby crystal-clear mountain streams.",
+                  "category": "landmark",
+                  "coords": [
+                        127.823432,
+                        35.80302
+                  ]
+            },
+            {
+                  "name": "BAEGRYEONSA",
+                  "text": "This historic \"White Lotus\" temple is reached via a scenic trail through the 33 scenic spots of Gucheondong Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        127.766266,
+                        35.860165
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KR-45",
     coords: [127.75, 35.85],
@@ -99,7 +405,160 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "daegwallyeong-plateau-relief-v2",
+    id: "daegwallyeong-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "hwaranbong",
+                  "text": "Der Gipfel Hwaranbong zeichnet sich durch seine raue Felslandschaft und die weite Aussicht über das Daegwallyeong-Hochplateau aus.",
+                  "category": "natural",
+                  "coords": [
+                        128.789656,
+                        37.62622
+                  ]
+            },
+            {
+                  "name": "neunggyeongbong",
+                  "text": "Neunggyeongbong ist ein beliebter Wandergipfel, der den Übergang zwischen dem Hochland und den bewaldeten Tälern markiert.",
+                  "category": "natural",
+                  "coords": [
+                        128.765029,
+                        37.672805
+                  ]
+            },
+            {
+                  "name": "Alpensia ski jump center",
+                  "text": "Dieses ikonische Sportzentrum verfügt über eine riesige Skisprungschanze mit einem Aussichtsturm, der mit einer Einschienenbahn erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        128.678753,
+                        37.661032
+                  ]
+            },
+            {
+                  "name": "PyeongChang Olympics Memorial Hall",
+                  "text": "Diese Gedenkstätte befindet sich am ehemaligen Standort des Olympiastadions und erinnert an die Erfolge der Winterspiele 2018.",
+                  "category": "historical",
+                  "coords": [
+                        128.706631,
+                        37.666856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hwaranbong",
+                  "text": "A Hwaranbong-csúcsot vad sziklás tájai és a Daegwallyeong-fennsíkra nyíló tágas kilátás jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        128.789656,
+                        37.62622
+                  ]
+            },
+            {
+                  "name": "neunggyeongbong",
+                  "text": "Neunggyeongbong egy népszerű túracsúcs, amely a fennsík és az erdős völgyek közötti átmenetet jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        128.765029,
+                        37.672805
+                  ]
+            },
+            {
+                  "name": "Alpensia ski jump center",
+                  "text": "Ez az ikonikus sportközpont egy hatalmas síugró sánccal és egy egysínű vasúttal elérhető kilátótoronnyal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        128.678753,
+                        37.661032
+                  ]
+            },
+            {
+                  "name": "PyeongChang Olympics Memorial Hall",
+                  "text": "Ez az emlékhely az egykori olimpiai stadion helyén található, és a 2018-as téli játékok sikereire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        128.706631,
+                        37.666856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hwaranbong",
+                  "text": "Vârful Hwaranbong se caracterizează prin peisajul său stâncos accidentat și vederea largă peste platoul înalt Daegwallyeong.",
+                  "category": "natural",
+                  "coords": [
+                        128.789656,
+                        37.62622
+                  ]
+            },
+            {
+                  "name": "neunggyeongbong",
+                  "text": "Neunggyeongbong este un vârf de drumeție popular care marchează tranziția între platoul înalt și văile împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        128.765029,
+                        37.672805
+                  ]
+            },
+            {
+                  "name": "Alpensia ski jump center",
+                  "text": "Acest centru sportiv iconic are o trambulină uriașă de sărituri cu schiurile și un turn de observare accesibil cu un monorail.",
+                  "category": "natural",
+                  "coords": [
+                        128.678753,
+                        37.661032
+                  ]
+            },
+            {
+                  "name": "PyeongChang Olympics Memorial Hall",
+                  "text": "Această sală memorială se află pe fostul amplasament al stadionului olimpic și comemorează realizările Jocurilor de iarnă din 2018.",
+                  "category": "historical",
+                  "coords": [
+                        128.706631,
+                        37.666856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hwaranbong",
+                  "text": "Hwaranbong peak is characterized by its rugged rocky landscape and wide views across the Daegwallyeong high plateau.",
+                  "category": "natural",
+                  "coords": [
+                        128.789656,
+                        37.62622
+                  ]
+            },
+            {
+                  "name": "neunggyeongbong",
+                  "text": "Neunggyeongbong is a popular hiking peak that marks the transition between the high plateau and the forested valleys.",
+                  "category": "natural",
+                  "coords": [
+                        128.765029,
+                        37.672805
+                  ]
+            },
+            {
+                  "name": "Alpensia ski jump center",
+                  "text": "This iconic sports center features a massive ski jump ramp with an observation tower accessible by a monorail.",
+                  "category": "natural",
+                  "coords": [
+                        128.678753,
+                        37.661032
+                  ]
+            },
+            {
+                  "name": "PyeongChang Olympics Memorial Hall",
+                  "text": "This memorial hall stands on the former site of the Olympic Stadium, commemorating the achievements of the 2018 Winter Games.",
+                  "category": "historical",
+                  "coords": [
+                        128.706631,
+                        37.666856
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "KR-42",
     coords: [128.75, 37.68],
@@ -147,7 +606,520 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "sobaek-mountains-relief-v2",
+    id: "sobaek-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sobaeksan",
+                  "text": "Ein markanter Gipfel im Sobaek-Gebirge, der im Frühling für seine königlichen Azaleen berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        128.484897,
+                        36.957493
+                  ]
+            },
+            {
+                  "name": "Cheondong Cave",
+                  "text": "Eine Kalksteinhöhle mit einer Vielzahl von Stalaktiten und Stalagmiten.",
+                  "category": "natural",
+                  "coords": [
+                        128.422188,
+                        36.970925
+                  ]
+            },
+            {
+                  "name": "Je 1 Yeonhwabong",
+                  "text": "Ein Berggipfel im Sobaeksan-Nationalpark mit weitem Blick über das Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        128.462785,
+                        36.947428
+                  ]
+            },
+            {
+                  "name": "Yeonhwabong",
+                  "text": "Dieser Berggipfel beherbergt ein wichtiges astronomisches Observatorium.",
+                  "category": "natural",
+                  "coords": [
+                        128.460708,
+                        36.934238
+                  ]
+            },
+            {
+                  "name": "Sobaeksan National Park",
+                  "text": "Ein weitläufiges Schutzgebiet, das für den Birobong-Gipfel und seine reiche Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        128.489045,
+                        36.901941
+                  ]
+            },
+            {
+                  "name": "WONJUDONG",
+                  "text": "Ein Berggipfel, der über die bewaldeten Hänge des Sobaek-Gebirges ragt.",
+                  "category": "natural",
+                  "coords": [
+                        128.512866,
+                        36.935692
+                  ]
+            },
+            {
+                  "name": "Sangwolbong",
+                  "text": "Ein Granitgipfel im Nationalpark, der markante Felsformationen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.513397,
+                        36.976837
+                  ]
+            },
+            {
+                  "name": "Gukmangbong",
+                  "text": "Ein hoher Punkt im Sobaeksan-Gebirge mit Panoramablick auf die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        128.506389,
+                        36.973171
+                  ]
+            },
+            {
+                  "name": "sinseonbong",
+                  "text": "Ein Gipfel, der nach den legendären taoistischen Unsterblichen benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        128.504145,
+                        36.994247
+                  ]
+            },
+            {
+                  "name": "Jeonmangbawi)",
+                  "text": "Ein felsiger Aussichtspunkt, der einen weiten Blick über die Berglandschaft von Danyang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.43978,
+                        36.871481
+                  ]
+            },
+            {
+                  "name": "Huibangsa",
+                  "text": "Ein alter buddhistischer Tempel, der in der Nähe des Huibang-Wasserfalls liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.457121,
+                        36.919836
+                  ]
+            },
+            {
+                  "name": "Choamsa",
+                  "text": "Ein abgeschiedener buddhistischer Tempel am Fuße des Gukmangbong-Gipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        128.525867,
+                        36.944543
+                  ]
+            },
+            {
+                  "name": "Birosa",
+                  "text": "Ein historischer Tempel, der für seine steinernen Buddha-Statuen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        128.498906,
+                        36.939007
+                  ]
+            },
+            {
+                  "name": "Dae Catholic Church",
+                  "text": "Eine christliche Kirche, die die örtliche Gemeinde im Sobaek-Gebirge bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        128.523875,
+                        36.870275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sobaeksan",
+                  "text": "A Szobek-hegység kiemelkedő csúcsa, amely tavasszal a királyi azáleákról híres.",
+                  "category": "natural",
+                  "coords": [
+                        128.484897,
+                        36.957493
+                  ]
+            },
+            {
+                  "name": "Cheondong Cave",
+                  "text": "Mészkőbarlang változatos cseppkőképződményekkel.",
+                  "category": "natural",
+                  "coords": [
+                        128.422188,
+                        36.970925
+                  ]
+            },
+            {
+                  "name": "Je 1 Yeonhwabong",
+                  "text": "A Szobekszan Nemzeti Park egyik hegycsúcsa, kilátással a masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        128.462785,
+                        36.947428
+                  ]
+            },
+            {
+                  "name": "Yeonhwabong",
+                  "text": "Ez a hegycsúcs ad otthont egy fontos csillagászati obszervatóriumnak.",
+                  "category": "natural",
+                  "coords": [
+                        128.460708,
+                        36.934238
+                  ]
+            },
+            {
+                  "name": "Sobaeksan National Park",
+                  "text": "Kiterjedt védett terület, amely a Birobong-csúcsról és gazdag flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        128.489045,
+                        36.901941
+                  ]
+            },
+            {
+                  "name": "WONJUDONG",
+                  "text": "A Szobek-hegység erdős lejtői fölé magasodó hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        128.512866,
+                        36.935692
+                  ]
+            },
+            {
+                  "name": "Sangwolbong",
+                  "text": "Gránitcsúcs a nemzeti parkban, jellegzetes sziklaalakzatokkal.",
+                  "category": "natural",
+                  "coords": [
+                        128.513397,
+                        36.976837
+                  ]
+            },
+            {
+                  "name": "Gukmangbong",
+                  "text": "A Szobekszan-hegység egyik magaslati pontja, panorámás kilátással a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        128.506389,
+                        36.973171
+                  ]
+            },
+            {
+                  "name": "sinseonbong",
+                  "text": "A legendás taoista halhatatlanokról elnevezett hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        128.504145,
+                        36.994247
+                  ]
+            },
+            {
+                  "name": "Jeonmangbawi)",
+                  "text": "Sziklás kilátópont, ahonnan tágas kilátás nyílik Danjang hegyi tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        128.43978,
+                        36.871481
+                  ]
+            },
+            {
+                  "name": "Huibangsa",
+                  "text": "Régi buddhista templom a Huibang-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        128.457121,
+                        36.919836
+                  ]
+            },
+            {
+                  "name": "Choamsa",
+                  "text": "Elszigetelt buddhista templom a Gukmangbong-csúcs lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        128.525867,
+                        36.944543
+                  ]
+            },
+            {
+                  "name": "Birosa",
+                  "text": "Kőből faragott Buddha-szobrairól ismert történelmi templom.",
+                  "category": "landmark",
+                  "coords": [
+                        128.498906,
+                        36.939007
+                  ]
+            },
+            {
+                  "name": "Dae Catholic Church",
+                  "text": "Keresztény templom, amely a Szobek-hegység helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        128.523875,
+                        36.870275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sobaeksan",
+                  "text": "Un vârf proeminent din Munții Sobaek, renumit pentru azaleele regale în timpul primăverii.",
+                  "category": "natural",
+                  "coords": [
+                        128.484897,
+                        36.957493
+                  ]
+            },
+            {
+                  "name": "Cheondong Cave",
+                  "text": "O peșteră de calcar care prezintă o varietate de stalactite și stalagmite.",
+                  "category": "natural",
+                  "coords": [
+                        128.422188,
+                        36.970925
+                  ]
+            },
+            {
+                  "name": "Je 1 Yeonhwabong",
+                  "text": "Un vârf montan din Parcul Național Sobaeksan, cu vederi largi asupra masivului.",
+                  "category": "natural",
+                  "coords": [
+                        128.462785,
+                        36.947428
+                  ]
+            },
+            {
+                  "name": "Yeonhwabong",
+                  "text": "Acest vârf de munte găzduiește un important observator astronomic.",
+                  "category": "natural",
+                  "coords": [
+                        128.460708,
+                        36.934238
+                  ]
+            },
+            {
+                  "name": "Sobaeksan National Park",
+                  "text": "O arie protejată vastă, cunoscută pentru vârful Birobong și flora sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        128.489045,
+                        36.901941
+                  ]
+            },
+            {
+                  "name": "WONJUDONG",
+                  "text": "Un vârf montan care se ridică deasupra pantelor împădurite ale Munților Sobaek.",
+                  "category": "natural",
+                  "coords": [
+                        128.512866,
+                        36.935692
+                  ]
+            },
+            {
+                  "name": "Sangwolbong",
+                  "text": "Un vârf de granit în parcul național, oferind formațiuni stâncoase distincte.",
+                  "category": "natural",
+                  "coords": [
+                        128.513397,
+                        36.976837
+                  ]
+            },
+            {
+                  "name": "Gukmangbong",
+                  "text": "Un punct înalt din Munții Sobaeksan, oferind vederi panoramice asupra văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        128.506389,
+                        36.973171
+                  ]
+            },
+            {
+                  "name": "sinseonbong",
+                  "text": "Un vârf numit după legendarii nemuritori taoiști.",
+                  "category": "natural",
+                  "coords": [
+                        128.504145,
+                        36.994247
+                  ]
+            },
+            {
+                  "name": "Jeonmangbawi)",
+                  "text": "Un punct de observare stâncos care oferă vederi largi asupra peisajului montan din Danyang.",
+                  "category": "natural",
+                  "coords": [
+                        128.43978,
+                        36.871481
+                  ]
+            },
+            {
+                  "name": "Huibangsa",
+                  "text": "Un vechi templu budist situat în apropierea cascadei Huibang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.457121,
+                        36.919836
+                  ]
+            },
+            {
+                  "name": "Choamsa",
+                  "text": "Un templu budist retras la poalele vârfului Gukmangbong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.525867,
+                        36.944543
+                  ]
+            },
+            {
+                  "name": "Birosa",
+                  "text": "Un templu istoric cunoscut pentru statuile sale de Buddha sculptate în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        128.498906,
+                        36.939007
+                  ]
+            },
+            {
+                  "name": "Dae Catholic Church",
+                  "text": "O biserică creștină care deservește comunitatea locală din Munții Sobaek.",
+                  "category": "landmark",
+                  "coords": [
+                        128.523875,
+                        36.870275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sobaeksan",
+                  "text": "A prominent peak in the Sobaek Mountains, famous for royal azaleas during spring.",
+                  "category": "natural",
+                  "coords": [
+                        128.484897,
+                        36.957493
+                  ]
+            },
+            {
+                  "name": "Cheondong Cave",
+                  "text": "A limestone cave featuring a variety of stalactites and stalagmites.",
+                  "category": "natural",
+                  "coords": [
+                        128.422188,
+                        36.970925
+                  ]
+            },
+            {
+                  "name": "Je 1 Yeonhwabong",
+                  "text": "A mountain peak in Sobaeksan National Park with wide views over the massif.",
+                  "category": "natural",
+                  "coords": [
+                        128.462785,
+                        36.947428
+                  ]
+            },
+            {
+                  "name": "Yeonhwabong",
+                  "text": "This mountain peak is home to a major astronomical observatory.",
+                  "category": "natural",
+                  "coords": [
+                        128.460708,
+                        36.934238
+                  ]
+            },
+            {
+                  "name": "Sobaeksan National Park",
+                  "text": "A vast protected area known for the Birobong peak and its rich flora.",
+                  "category": "natural",
+                  "coords": [
+                        128.489045,
+                        36.901941
+                  ]
+            },
+            {
+                  "name": "WONJUDONG",
+                  "text": "A mountain peak rising above the forested slopes of the Sobaek Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        128.512866,
+                        36.935692
+                  ]
+            },
+            {
+                  "name": "Sangwolbong",
+                  "text": "A granite peak within the national park, offering distinct rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        128.513397,
+                        36.976837
+                  ]
+            },
+            {
+                  "name": "Gukmangbong",
+                  "text": "A high point in the Sobaeksan range with panoramic views of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        128.506389,
+                        36.973171
+                  ]
+            },
+            {
+                  "name": "sinseonbong",
+                  "text": "A peak named after the legendary Taoist immortals.",
+                  "category": "natural",
+                  "coords": [
+                        128.504145,
+                        36.994247
+                  ]
+            },
+            {
+                  "name": "Jeonmangbawi",
+                  "text": "A rocky vantage point offering wide views over the mountain landscape of Danyang.",
+                  "category": "natural",
+                  "coords": [
+                        128.43978,
+                        36.871481
+                  ]
+            },
+            {
+                  "name": "Huibangsa",
+                  "text": "An ancient Buddhist temple situated near the Huibang Waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        128.457121,
+                        36.919836
+                  ]
+            },
+            {
+                  "name": "Choamsa",
+                  "text": "A secluded Buddhist temple at the foot of the Gukmangbong peak.",
+                  "category": "landmark",
+                  "coords": [
+                        128.525867,
+                        36.944543
+                  ]
+            },
+            {
+                  "name": "Birosa",
+                  "text": "A historical temple known for its stone-carved Buddha statues.",
+                  "category": "landmark",
+                  "coords": [
+                        128.498906,
+                        36.939007
+                  ]
+            },
+            {
+                  "name": "Dae Catholic Church",
+                  "text": "A Christian church serving the local community in the Sobaek Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        128.523875,
+                        36.870275
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-43",
     coords: [128.45, 36.93],
@@ -195,7 +1167,520 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "byeonsan-peninsula-coast-relief-v2",
+    id: "byeonsan-peninsula-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haechangswimteo)",
+                  "text": "Ein Aussichtspunkt an der Küstenstraße, der einen weiten Blick über das Gelbe Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        126.576513,
+                        35.69968
+                  ]
+            },
+            {
+                  "name": "Byeonsan Hot Spring",
+                  "text": "Eine Kureinrichtung an der Küste, die entspannende Bäder in natürlichem Thermalwasser anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        126.56878,
+                        35.685518
+                  ]
+            },
+            {
+                  "name": "Byeonsan Beach",
+                  "text": "Ein weitläufiger Sandstrand, der für sein flaches Wasser und spektakuläre Sonnenuntergänge über dem Meer bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        126.531129,
+                        35.680318
+                  ]
+            },
+            {
+                  "name": "Chaeseokgang",
+                  "text": "Einzigartige Küstenklippen, deren Tausende von Sedimentschichten an einen Stapel alter Bücher erinnern.",
+                  "category": "natural",
+                  "coords": [
+                        126.468178,
+                        35.627036
+                  ]
+            },
+            {
+                  "name": "Geumguwon Jogak Exhibition Hall",
+                  "text": "Koreas erster privater Skulpturenpark, der eine Vielzahl von Kunstwerken in einer Gartenlandschaft ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        126.488823,
+                        35.620446
+                  ]
+            },
+            {
+                  "name": "Jeokbyeokgang",
+                  "text": "Eine beeindruckende Felsformation an der Küste, die für ihre markante rötliche Färbung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        126.464233,
+                        35.638287
+                  ]
+            },
+            {
+                  "name": "Mohang Beach",
+                  "text": "Ein ruhiger, kleiner Strand, der malerisch zwischen schroffen Felsen und dichten Kiefernwäldern liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        126.50748,
+                        35.582588
+                  ]
+            },
+            {
+                  "name": "Naesosa",
+                  "text": "Dieser alte Tempel ist berühmt für seinen wunderschönen, 600 Meter langen Zugangsweg durch einen Tannenwald.",
+                  "category": "religious",
+                  "coords": [
+                        126.587399,
+                        35.617659
+                  ]
+            },
+            {
+                  "name": "Saemangeum Exhibition Center",
+                  "text": "Ein Informationszentrum, das die Entstehung des gigantischen Saemangeum-Seedeichs, des längsten der Welt, dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        126.558542,
+                        35.697277
+                  ]
+            },
+            {
+                  "name": "National Saemangeum Reclamation Museum",
+                  "text": "Ein modernes Museum, das sich mit der Geschichte und der technologischen Leistung der Saemangeum-Landgewinnung befasst.",
+                  "category": "museum",
+                  "coords": [
+                        126.556553,
+                        35.696329
+                  ]
+            },
+            {
+                  "name": "Gosapo Beach",
+                  "text": "Ein langer Sandstrand mit einem angrenzenden Kiefernwald, der ideale Bedingungen zum Campen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        126.505406,
+                        35.660503
+                  ]
+            },
+            {
+                  "name": "Sangnok Beach",
+                  "text": "Ein familienfreundlicher Strand mit ruhigem, klarem Wasser und einer entspannten Küstenatmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        126.479392,
+                        35.601742
+                  ]
+            },
+            {
+                  "name": "Silsangsaji",
+                  "text": "Die historische Stätte eines ehemaligen buddhistischen Tempels, die heute Teil des Nationalparks ist.",
+                  "category": "landmark",
+                  "coords": [
+                        126.575627,
+                        35.636126
+                  ]
+            },
+            {
+                  "name": "Fisherman's Shrine",
+                  "text": "Eine traditionelle Gebetsstätte an der Küste von Byeonsan, die der Sicherheit der örtlichen Fischer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        126.460372,
+                        35.634794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haechangswimteo)",
+                  "text": "Kilátópont a parti út mentén, ahonnan széles körpanoráma nyílik a Sárga-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        126.576513,
+                        35.69968
+                  ]
+            },
+            {
+                  "name": "Byeonsan Hot Spring",
+                  "text": "Tengerparti gyógyfürdő, amely pihentető fürdőzést kínál természetes termálvízben.",
+                  "category": "recreational",
+                  "coords": [
+                        126.56878,
+                        35.685518
+                  ]
+            },
+            {
+                  "name": "Byeonsan Beach",
+                  "text": "Kiterjedt homokos strand, amely sekély vizéről és a tenger feletti látványos naplementékről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        126.531129,
+                        35.680318
+                  ]
+            },
+            {
+                  "name": "Chaeseokgang",
+                  "text": "Egyedülálló tengerparti sziklák, amelyek több ezer üledékes rétege régi könyvek kötegeire emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        126.468178,
+                        35.627036
+                  ]
+            },
+            {
+                  "name": "Geumguwon Jogak Exhibition Hall",
+                  "text": "Korea első magán szoborparkja, amely számos műalkotást mutat be egy kerti környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        126.488823,
+                        35.620446
+                  ]
+            },
+            {
+                  "name": "Jeokbyeokgang",
+                  "text": "Lenyűgöző tengerparti sziklaformáció, amely jellegzetes vöröses színezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        126.464233,
+                        35.638287
+                  ]
+            },
+            {
+                  "name": "Mohang Beach",
+                  "text": "Csendes, apró strand, amely festőien fekszik a szaggatott sziklák és a sűrű fenyőerdők között.",
+                  "category": "recreational",
+                  "coords": [
+                        126.50748,
+                        35.582588
+                  ]
+            },
+            {
+                  "name": "Naesosa",
+                  "text": "Ez az ősi templom a fenyőerdőn átvezető, gyönyörű 600 méteres bejárati útjáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        126.587399,
+                        35.617659
+                  ]
+            },
+            {
+                  "name": "Saemangeum Exhibition Center",
+                  "text": "Információs központ, amely a világ leghosszabb tengeri gátja, a Saemangeum építését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        126.558542,
+                        35.697277
+                  ]
+            },
+            {
+                  "name": "National Saemangeum Reclamation Museum",
+                  "text": "Modern múzeum, amely a Saemangeum területfeltöltés történetével és technológiai teljesítményével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        126.556553,
+                        35.696329
+                  ]
+            },
+            {
+                  "name": "Gosapo Beach",
+                  "text": "Hosszú homokos strand szomszédos fenyőerdővel, amely ideális feltételeket kínál a kempingezéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        126.505406,
+                        35.660503
+                  ]
+            },
+            {
+                  "name": "Sangnok Beach",
+                  "text": "Családbarát strand nyugodt, tiszta vízzel és pihentető tengerparti légkörrel.",
+                  "category": "recreational",
+                  "coords": [
+                        126.479392,
+                        35.601742
+                  ]
+            },
+            {
+                  "name": "Silsangsaji",
+                  "text": "Egy egykori buddhista templom történelmi helyszíne, amely ma a nemzeti park része.",
+                  "category": "landmark",
+                  "coords": [
+                        126.575627,
+                        35.636126
+                  ]
+            },
+            {
+                  "name": "Fisherman's Shrine",
+                  "text": "Hagyományos tengerparti szentély a Byeonsan-félszigeten, ahol a halászok biztonságáért imádkoznak.",
+                  "category": "religious",
+                  "coords": [
+                        126.460372,
+                        35.634794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haechangswimteo)",
+                  "text": "Un punct de observație pe drumul de coastă, care oferă o vedere largă asupra Mării Galbene.",
+                  "category": "natural",
+                  "coords": [
+                        126.576513,
+                        35.69968
+                  ]
+            },
+            {
+                  "name": "Byeonsan Hot Spring",
+                  "text": "O facilitate balneară de pe coastă, care oferă băi relaxante în apă termală naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        126.56878,
+                        35.685518
+                  ]
+            },
+            {
+                  "name": "Byeonsan Beach",
+                  "text": "O plajă întinsă cu nisip, cunoscută pentru apele sale puțin adânci și apusurile spectaculoase peste mare.",
+                  "category": "recreational",
+                  "coords": [
+                        126.531129,
+                        35.680318
+                  ]
+            },
+            {
+                  "name": "Chaeseokgang",
+                  "text": "Faleze de coastă unice, ale căror mii de straturi de sedimente seamănă cu un teanc de cărți vechi.",
+                  "category": "natural",
+                  "coords": [
+                        126.468178,
+                        35.627036
+                  ]
+            },
+            {
+                  "name": "Geumguwon Jogak Exhibition Hall",
+                  "text": "Primul parc privat de sculptură din Coreea, care expune o varietate de opere de artă într-un cadru de grădină.",
+                  "category": "museum",
+                  "coords": [
+                        126.488823,
+                        35.620446
+                  ]
+            },
+            {
+                  "name": "Jeokbyeokgang",
+                  "text": "O formațiune stâncoasă impresionantă de pe coastă, cunoscută pentru coloritul său roșiatic distinctiv.",
+                  "category": "natural",
+                  "coords": [
+                        126.464233,
+                        35.638287
+                  ]
+            },
+            {
+                  "name": "Mohang Beach",
+                  "text": "O plajă mică și liniștită, situată pitoresc între stânci colțuroase și păduri dese de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        126.50748,
+                        35.582588
+                  ]
+            },
+            {
+                  "name": "Naesosa",
+                  "text": "Acest templu antic este faimos pentru frumosul său drum de acces de 600 de metri printr-o pădure de brazi.",
+                  "category": "religious",
+                  "coords": [
+                        126.587399,
+                        35.617659
+                  ]
+            },
+            {
+                  "name": "Saemangeum Exhibition Center",
+                  "text": "Un centru de informare care documentează crearea gigantului dig marin Saemangeum, cel mai lung din lume.",
+                  "category": "museum",
+                  "coords": [
+                        126.558542,
+                        35.697277
+                  ]
+            },
+            {
+                  "name": "National Saemangeum Reclamation Museum",
+                  "text": "Un muzeu modern care prezintă istoria și realizările tehnologice ale proiectului de asanare Saemangeum.",
+                  "category": "museum",
+                  "coords": [
+                        126.556553,
+                        35.696329
+                  ]
+            },
+            {
+                  "name": "Gosapo Beach",
+                  "text": "O plajă lungă cu nisip și o pădure de pini adiacentă, care oferă condiții ideale pentru camping.",
+                  "category": "recreational",
+                  "coords": [
+                        126.505406,
+                        35.660503
+                  ]
+            },
+            {
+                  "name": "Sangnok Beach",
+                  "text": "O plajă potrivită pentru familii, cu apă liniștită și curată și o atmosferă relaxantă de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        126.479392,
+                        35.601742
+                  ]
+            },
+            {
+                  "name": "Silsangsaji",
+                  "text": "Situl istoric al unui fost templu budist, care astăzi face parte din parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        126.575627,
+                        35.636126
+                  ]
+            },
+            {
+                  "name": "Fisherman's Shrine",
+                  "text": "Un altar tradițional pe coasta peninsulei Byeonsan, dedicat siguranței pescariilor locali.",
+                  "category": "religious",
+                  "coords": [
+                        126.460372,
+                        35.634794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haechang Shelter",
+                  "text": "A rest area and viewpoint along the coastal road offering wide panoramas of the Yellow Sea.",
+                  "category": "natural",
+                  "coords": [
+                        126.576513,
+                        35.69968
+                  ]
+            },
+            {
+                  "name": "Byeonsan Hot Spring",
+                  "text": "A coastal spa facility offering relaxing baths in natural geothermal mineral waters.",
+                  "category": "recreational",
+                  "coords": [
+                        126.56878,
+                        35.685518
+                  ]
+            },
+            {
+                  "name": "Byeonsan Beach",
+                  "text": "An extensive sandy beach known for its shallow waters and spectacular sunsets over the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        126.531129,
+                        35.680318
+                  ]
+            },
+            {
+                  "name": "Chaeseokgang",
+                  "text": "Unique coastal cliffs where thousands of sedimentary layers resemble a massive stack of ancient books.",
+                  "category": "natural",
+                  "coords": [
+                        126.468178,
+                        35.627036
+                  ]
+            },
+            {
+                  "name": "Geumguwon Jogak Exhibition Hall",
+                  "text": "Korea's first private sculpture park, displaying a variety of artworks set within a landscaped garden.",
+                  "category": "museum",
+                  "coords": [
+                        126.488823,
+                        35.620446
+                  ]
+            },
+            {
+                  "name": "Jeokbyeokgang",
+                  "text": "An impressive coastal rock formation known for its striking reddish hue and jagged cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        126.464233,
+                        35.638287
+                  ]
+            },
+            {
+                  "name": "Mohang Beach",
+                  "text": "A tranquil, small beach picturesquely nestled between rugged rocks and thick pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        126.50748,
+                        35.582588
+                  ]
+            },
+            {
+                  "name": "Naesosa",
+                  "text": "This ancient temple is famous for its beautiful 600-meter approach path through a dense fir forest.",
+                  "category": "religious",
+                  "coords": [
+                        126.587399,
+                        35.617659
+                  ]
+            },
+            {
+                  "name": "Saemangeum Exhibition Center",
+                  "text": "An information center documenting the creation of the gigantic Saemangeum Seawall, the world's longest.",
+                  "category": "museum",
+                  "coords": [
+                        126.558542,
+                        35.697277
+                  ]
+            },
+            {
+                  "name": "National Saemangeum Reclamation Museum",
+                  "text": "A modern museum covering the history and technological achievements of the Saemangeum land reclamation project.",
+                  "category": "museum",
+                  "coords": [
+                        126.556553,
+                        35.696329
+                  ]
+            },
+            {
+                  "name": "Gosapo Beach",
+                  "text": "A long sandy beach with an adjacent pine forest that offers ideal conditions for seaside camping.",
+                  "category": "recreational",
+                  "coords": [
+                        126.505406,
+                        35.660503
+                  ]
+            },
+            {
+                  "name": "Sangnok Beach",
+                  "text": "A family-friendly beach with calm, clear waters and a relaxed coastal atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        126.479392,
+                        35.601742
+                  ]
+            },
+            {
+                  "name": "Silsangsaji",
+                  "text": "The historic site of a former Buddhist temple, now preserved as part of the national park lands.",
+                  "category": "landmark",
+                  "coords": [
+                        126.575627,
+                        35.636126
+                  ]
+            },
+            {
+                  "name": "Fisherman's Shrine",
+                  "text": "A traditional coastal shrine on the Byeonsan Peninsula dedicated to the safety of local fishermen.",
+                  "category": "religious",
+                  "coords": [
+                        126.460372,
+                        35.634794
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-45",
     coords: [126.50, 35.65],
@@ -243,7 +1728,520 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "palgongsan-mountain-relief-v2",
+    id: "palgongsan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brassware Museum",
+                  "text": "Koreas einziges Museum für Bangjja Yugi, das die Kunst handgehämmerter Messingwaren mit einer Legierung aus Kupfer und Zinn zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        128.701223,
+                        35.965528
+                  ]
+            },
+            {
+                  "name": "Palgongsan Hot Spring",
+                  "text": "Natürliche Mineral-Thermalquellen an den Hängen des heiligen Berges Palgongsan, bekannt für ihre gesundheitsfördernden Eigenschaften.",
+                  "category": "recreational",
+                  "coords": [
+                        128.691646,
+                        35.991039
+                  ]
+            },
+            {
+                  "name": "Jayeonyeomsaek Museum",
+                  "text": "Ein Fachmuseum für traditionelle koreanische Naturfärbetechniken und farbenfrohe Stoffe aus pflanzlichen Materialien.",
+                  "category": "museum",
+                  "coords": [
+                        128.636757,
+                        35.978995
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "Ein berühmter lebensgroßer Steinbuddha auf einem Berggipfel, erkennbar an dem flachen Stein-„Hut“ auf seinem Kopf.",
+                  "category": "landmark",
+                  "coords": [
+                        128.736752,
+                        35.981495
+                  ]
+            },
+            {
+                  "name": "Songgwangmae Memorial Hall",
+                  "text": "Ein einzigartiges Museum und eine Galerie, die sich um die Kultur der Pflaumenblüte und die Ästhetik traditioneller koreanischer Gärten drehen.",
+                  "category": "museum",
+                  "coords": [
+                        128.612551,
+                        35.996719
+                  ]
+            },
+            {
+                  "name": "Palgongsan National Park",
+                  "text": "Dieser weitläufige Park bietet gewaltige Granitgipfel und historische Tempel, die in die Berge bei Daegu eingebettet sind.",
+                  "category": "natural",
+                  "coords": [
+                        128.675012,
+                        36.015645
+                  ]
+            },
+            {
+                  "name": "Pyochung-Dan (Shrine)",
+                  "text": "Ein feierlicher Gedenkschrein für General Shin Sung-gyeom, der in der Schlacht von Gongsan sein Leben für seinen König opferte.",
+                  "category": "landmark",
+                  "coords": [
+                        128.641427,
+                        35.94259
+                  ]
+            },
+            {
+                  "name": "Daegu Safety Theme Park",
+                  "text": "Ein Bildungsmuseum mit interaktiven Katastrophenschutz-Simulationen, das nach dem U-Bahn-Brand von 2003 gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        128.691989,
+                        35.989044
+                  ]
+            },
+            {
+                  "name": "Dongwhasa Chamseongdang Templestay Hall",
+                  "text": "In dieser Halle des historischen Dongwhasa-Tempels können Besucher das tägliche Klosterleben und die Seon-Meditation erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        128.70692,
+                        35.99224
+                  ]
+            },
+            {
+                  "name": "Bulhyeonsa",
+                  "text": "Ein friedlicher buddhistischer Tempel in den Ausläufern des Palgongsan, bekannt für seine ruhige Atmosphäre und den Bergblick.",
+                  "category": "landmark",
+                  "coords": [
+                        128.775823,
+                        35.955081
+                  ]
+            },
+            {
+                  "name": "Yeongchwi-sa",
+                  "text": "Dieses abgelegene buddhistische Heiligtum bietet einen ruhigen Ort zum Gebet inmitten der dichten Wälder des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        128.788941,
+                        36.005897
+                  ]
+            },
+            {
+                  "name": "Gwaneumsa",
+                  "text": "Dieser dem Bodhisattva des Mitgefühls gewidmete Tempel zeichnet sich durch traditionelle Holzarchitektur und verzierte Buddha-Statuen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        128.786382,
+                        36.043735
+                  ]
+            },
+            {
+                  "name": "Oeunsa Temple",
+                  "text": "Ein Bergtempel, der einen spirituellen Rückzugsort bietet, mit malerischen Wanderwegen, die durch die umliegenden Gipfel führen.",
+                  "category": "landmark",
+                  "coords": [
+                        128.680544,
+                        36.03297
+                  ]
+            },
+            {
+                  "name": "Odoam Temple",
+                  "text": "Diese kleine Eremitage liegt an einem steilen Hang und wird für ihre Panoramablicke und ihre Abgeschiedenheit geschätzt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.691377,
+                        36.024561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brassware Museum",
+                  "text": "Korea egyetlen Bangjja Yugi múzeuma, amely a réz és ón ötvözetéből kézzel kalapált sárgaréz edények művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        128.701223,
+                        35.965528
+                  ]
+            },
+            {
+                  "name": "Palgongsan Hot Spring",
+                  "text": "Természetes ásványvízforrások és meleg vizes fürdők a szent Palgongsan-hegy lankáin, amelyek jótékony hatásaikról ismertek.",
+                  "category": "recreational",
+                  "coords": [
+                        128.691646,
+                        35.991039
+                  ]
+            },
+            {
+                  "name": "Jayeonyeomsaek Museum",
+                  "text": "A hagyományos koreai természetes festési technikáknak és a növényi alapú szöveteknek szentelt szakmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        128.636757,
+                        35.978995
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "Híres, életnagyságú kőbuddha egy hegycsúcson, amely a fején lévő lapos kő „kalapról” ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        128.736752,
+                        35.981495
+                  ]
+            },
+            {
+                  "name": "Songgwangmae Memorial Hall",
+                  "text": "Egyedülálló múzeum és galéria, amely a szilvavirágzás kultúrája és a hagyományos koreai kertesztétika köré épül.",
+                  "category": "museum",
+                  "coords": [
+                        128.612551,
+                        35.996719
+                  ]
+            },
+            {
+                  "name": "Palgongsan National Park",
+                  "text": "Ez a kiterjedt park hatalmas gránitcsúcsokkal és történelmi templomokkal büszkélkedhet a Tegu melletti hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        128.675012,
+                        36.015645
+                  ]
+            },
+            {
+                  "name": "Pyochung-Dan (Shrine)",
+                  "text": "Ünnepélyes emlékszentély Shin Sung-gyeom tábornok tiszteletére, aki életét áldozta királyáért a gongsani csatában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.641427,
+                        35.94259
+                  ]
+            },
+            {
+                  "name": "Daegu Safety Theme Park",
+                  "text": "Oktató múzeum interaktív katasztrófavédelmi szimulációkkal, amelyet a város 2003-as metrótüze után hoztak létre.",
+                  "category": "museum",
+                  "coords": [
+                        128.691989,
+                        35.989044
+                  ]
+            },
+            {
+                  "name": "Dongwhasa Chamseongdang Templestay Hall",
+                  "text": "A történelmi Dongwhasa templom ezen csarnoka lehetővé teszi a látogatók számára, hogy megtapasztalják a mindennapi szerzetesi életet és a szon-meditációt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.70692,
+                        35.99224
+                  ]
+            },
+            {
+                  "name": "Bulhyeonsa",
+                  "text": "Békés buddhista templom a Palgongsan lábánál, amely nyugodt légköréről és hegyi kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        128.775823,
+                        35.955081
+                  ]
+            },
+            {
+                  "name": "Yeongchwi-sa",
+                  "text": "Ez az eldugott buddhista szentély csendes helyet kínál az imádkozáshoz a nemzeti park sűrű erdői között.",
+                  "category": "landmark",
+                  "coords": [
+                        128.788941,
+                        36.005897
+                  ]
+            },
+            {
+                  "name": "Gwaneumsa",
+                  "text": "Ez a könyörületesség bódhiszattvájának szentelt templom hagyományos faépítészettel és díszes buddhista szobrokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        128.786382,
+                        36.043735
+                  ]
+            },
+            {
+                  "name": "Oeunsa Temple",
+                  "text": "Hegyi templom, amely spirituális elvonulást kínál, festői túraútvonalakkal a környező csúcsokon keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        128.680544,
+                        36.03297
+                  ]
+            },
+            {
+                  "name": "Odoam Temple",
+                  "text": "Ez a meredek lejtőn fekvő kis remetelak panorámás kilátásai és magánya miatt kedvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.691377,
+                        36.024561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brassware Museum",
+                  "text": "Singurul muzeu din Coreea dedicat Bangjja Yugi, prezentând arta veselei din alamă ciocănită manual dintr-un aliaj de cupru și staniu.",
+                  "category": "museum",
+                  "coords": [
+                        128.701223,
+                        35.965528
+                  ]
+            },
+            {
+                  "name": "Palgongsan Hot Spring",
+                  "text": "Izvoare termale minerale naturale situate pe versanții muntelui sacru Palgongsan, cunoscute pentru proprietățile lor curative.",
+                  "category": "recreational",
+                  "coords": [
+                        128.691646,
+                        35.991039
+                  ]
+            },
+            {
+                  "name": "Jayeonyeomsaek Museum",
+                  "text": "Un muzeu specializat dedicat tehnicilor tradiționale coreene de vopsire naturală și țesăturilor colorate pe bază de plante.",
+                  "category": "museum",
+                  "coords": [
+                        128.636757,
+                        35.978995
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "Un faimos Buddha de piatră în mărime naturală așezat pe un vârf de munte, recognoscibil după „pălăria” de piatră plată de pe cap.",
+                  "category": "landmark",
+                  "coords": [
+                        128.736752,
+                        35.981495
+                  ]
+            },
+            {
+                  "name": "Songgwangmae Memorial Hall",
+                  "text": "Un muzeu și o galerie unice centrate pe cultura florilor de prun și estetica grădinilor tradiționale coreene.",
+                  "category": "museum",
+                  "coords": [
+                        128.612551,
+                        35.996719
+                  ]
+            },
+            {
+                  "name": "Palgongsan National Park",
+                  "text": "Acest parc întins are vârfuri masive de granit și temple istorice cuibărite în munții de lângă Daegu.",
+                  "category": "natural",
+                  "coords": [
+                        128.675012,
+                        36.015645
+                  ]
+            },
+            {
+                  "name": "Pyochung-Dan (Shrine)",
+                  "text": "Un altar memorial solemn dedicat generalului Shin Sung-gyeom, care și-a sacrificat viața pentru regele său în timpul bătăliei de la Gongsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.641427,
+                        35.94259
+                  ]
+            },
+            {
+                  "name": "Daegu Safety Theme Park",
+                  "text": "Un muzeu educațional care oferă simulări interactive de răspuns la dezastre, înființat după incendiul de la metrou din 2003.",
+                  "category": "museum",
+                  "coords": [
+                        128.691989,
+                        35.989044
+                  ]
+            },
+            {
+                  "name": "Dongwhasa Chamseongdang Templestay Hall",
+                  "text": "Această sală de la istoricul templu Dongwhasa permite vizitatorilor să experimenteze viața monahală zilnică și meditația Seon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.70692,
+                        35.99224
+                  ]
+            },
+            {
+                  "name": "Bulhyeonsa",
+                  "text": "Un templu budist liniștit situat la poalele muntelui Palgongsan, cunoscut pentru atmosfera sa senină și vederea la munte.",
+                  "category": "landmark",
+                  "coords": [
+                        128.775823,
+                        35.955081
+                  ]
+            },
+            {
+                  "name": "Yeongchwi-sa",
+                  "text": "Acest sanctuar budist retras oferă un spațiu liniștit pentru rugăciune în mijlocul pădurilor dese ale parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        128.788941,
+                        36.005897
+                  ]
+            },
+            {
+                  "name": "Gwaneumsa",
+                  "text": "Dedicat Bodhisattva-ului Compasiunii, acest templu are o arhitectură tradițională din lemn și statui budiste ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        128.786382,
+                        36.043735
+                  ]
+            },
+            {
+                  "name": "Oeunsa Temple",
+                  "text": "Un templu de munte care oferă un refugiu spiritual, cu trasee de drumeție pitorești care duc prin vârfurile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        128.680544,
+                        36.03297
+                  ]
+            },
+            {
+                  "name": "Odoam Temple",
+                  "text": "Cocoțat pe un versant abrupt, acest mic schit este prețuit pentru vederile panoramice și singurătatea sa.",
+                  "category": "landmark",
+                  "coords": [
+                        128.691377,
+                        36.024561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brassware Museum",
+                  "text": "Korea's only museum for Bangjja Yugi, showcasing the art of hand-hammered brassware made from a copper and tin alloy.",
+                  "category": "museum",
+                  "coords": [
+                        128.701223,
+                        35.965528
+                  ]
+            },
+            {
+                  "name": "Palgongsan Hot Spring",
+                  "text": "Natural mineral hot springs located on the slopes of the sacred Palgongsan Mountain, known for their healing properties.",
+                  "category": "recreational",
+                  "coords": [
+                        128.691646,
+                        35.991039
+                  ]
+            },
+            {
+                  "name": "Jayeonyeomsaek Museum",
+                  "text": "A specialized museum dedicated to traditional Korean natural dyeing techniques and colorful plant-based fabrics.",
+                  "category": "museum",
+                  "coords": [
+                        128.636757,
+                        35.978995
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "A famous life-sized stone Buddha seated on a mountain peak, recognizable by the flat stone \"hat\" on its head.",
+                  "category": "landmark",
+                  "coords": [
+                        128.736752,
+                        35.981495
+                  ]
+            },
+            {
+                  "name": "Songgwangmae Memorial Hall",
+                  "text": "A unique museum and gallery centered around the culture of plum blossoms and traditional Korean garden aesthetics.",
+                  "category": "museum",
+                  "coords": [
+                        128.612551,
+                        35.996719
+                  ]
+            },
+            {
+                  "name": "Palgongsan National Park",
+                  "text": "This sprawling park features massive granite peaks and historic temples nestled in the mountains near Daegu.",
+                  "category": "natural",
+                  "coords": [
+                        128.675012,
+                        36.015645
+                  ]
+            },
+            {
+                  "name": "Pyochung-Dan (Shrine)",
+                  "text": "A solemn memorial shrine dedicated to General Shin Sung-gyeom, who sacrificed his life for his king during the Battle of Gongsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.641427,
+                        35.94259
+                  ]
+            },
+            {
+                  "name": "Daegu Safety Theme Park",
+                  "text": "An educational museum offering interactive disaster-response simulations, established after the city's 2003 subway fire.",
+                  "category": "museum",
+                  "coords": [
+                        128.691989,
+                        35.989044
+                  ]
+            },
+            {
+                  "name": "Dongwhasa Chamseongdang Templestay Hall",
+                  "text": "This hall at the historic Dongwhasa temple allows visitors to experience daily monastic life and Seon meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        128.70692,
+                        35.99224
+                  ]
+            },
+            {
+                  "name": "Bulhyeonsa",
+                  "text": "A peaceful Buddhist temple located in the foothills of Palgongsan, known for its serene atmosphere and mountain views.",
+                  "category": "landmark",
+                  "coords": [
+                        128.775823,
+                        35.955081
+                  ]
+            },
+            {
+                  "name": "Yeongchwi-sa",
+                  "text": "This secluded Buddhist sanctuary offers a quiet space for prayer amidst the dense forests of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        128.788941,
+                        36.005897
+                  ]
+            },
+            {
+                  "name": "Gwaneumsa",
+                  "text": "Dedicated to the Bodhisattva of Compassion, this temple features traditional wooden architecture and ornate Buddhist statues.",
+                  "category": "landmark",
+                  "coords": [
+                        128.786382,
+                        36.043735
+                  ]
+            },
+            {
+                  "name": "Oeunsa Temple",
+                  "text": "A mountain temple providing a spiritual retreat with scenic hiking trails leading through the surrounding peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        128.680544,
+                        36.03297
+                  ]
+            },
+            {
+                  "name": "Odoam Temple",
+                  "text": "Perched on a steep slope, this small hermitage is prized for its panoramic vistas and solitude.",
+                  "category": "landmark",
+                  "coords": [
+                        128.691377,
+                        36.024561
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-27",
     coords: [128.70, 36.01],
@@ -291,7 +2289,196 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "cheorwon-plain-relief-v2",
+    id: "cheorwon-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheorwon Korean Workers' Party Headquarters",
+                  "text": "Die erhaltenen Ruinen eines ehemaligen nordkoreanischen Parteihauptquartiers aus der Mitte des 20. Jahrhunderts.",
+                  "category": "landmark",
+                  "coords": [
+                        127.201924,
+                        38.255192
+                  ]
+            },
+            {
+                  "name": "Cheorwon Confucian School",
+                  "text": "Eine historische Bildungseinrichtung, die der traditionellen konfuzianischen Lehre diente.",
+                  "category": "landmark",
+                  "coords": [
+                        127.213343,
+                        38.239164
+                  ]
+            },
+            {
+                  "name": "Cheorwon Peace Observatorium",
+                  "text": "Ein Beobachtungsposten, der einen Panoramablick über die demilitarisierte Zone bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        127.251263,
+                        38.309325
+                  ]
+            },
+            {
+                  "name": "Second Infiltration Tunnel Museum",
+                  "text": "Ein Museum, das die Geschichte eines in der Region entdeckten unterirdischen Militärtunnels dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        127.31137,
+                        38.30955
+                  ]
+            },
+            {
+                  "name": "Gunjonggyogu Cheongseong Catholic Church",
+                  "text": "Eine katholische Kirche, die der lokalen Militärdiözese als spirituelles Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        127.217726,
+                        38.20045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheorwon Korean Workers' Party Headquarters",
+                  "text": "Egy egykori észak-koreai pártközpont fennmaradt romjai a 20. század közepéről.",
+                  "category": "landmark",
+                  "coords": [
+                        127.201924,
+                        38.255192
+                  ]
+            },
+            {
+                  "name": "Cheorwon Confucian School",
+                  "text": "Történelmi oktatási intézmény, amelyet a hagyományos konfuciánus tanításoknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        127.213343,
+                        38.239164
+                  ]
+            },
+            {
+                  "name": "Cheorwon Peace Observatory",
+                  "text": "Egy megfigyelőállomás, amely panorámás kilátást nyújt a demilitarizált övezetre.",
+                  "category": "landmark",
+                  "coords": [
+                        127.251263,
+                        38.309325
+                  ]
+            },
+            {
+                  "name": "Second Infiltration Tunnel Museum",
+                  "text": "Múzeum, amely a régióban felfedezett föld alatti katonai alagút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        127.31137,
+                        38.30955
+                  ]
+            },
+            {
+                  "name": "Gunjonggyogu Cheongseong Catholic Church",
+                  "text": "Egy katolikus templom, amely a helyi katonai egyházmegye gyülekezetét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        127.217726,
+                        38.20045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheorwon Korean Workers' Party Headquarters",
+                  "text": "Ruinele conservate ale unui fost sediu al partidului nord-coreean de la mijlocul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        127.201924,
+                        38.255192
+                  ]
+            },
+            {
+                  "name": "Cheorwon Confucian School",
+                  "text": "O facilitate educațională istorică dedicată învățăturilor confucianiste tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        127.213343,
+                        38.239164
+                  ]
+            },
+            {
+                  "name": "Cheorwon Peace Observatory",
+                  "text": "Un post de observare care oferă vederi panoramice peste Zona Demilitarizată.",
+                  "category": "landmark",
+                  "coords": [
+                        127.251263,
+                        38.309325
+                  ]
+            },
+            {
+                  "name": "Second Infiltration Tunnel Museum",
+                  "text": "Un muzeu care documentează istoria unui tunel militar subteran descoperit în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        127.31137,
+                        38.30955
+                  ]
+            },
+            {
+                  "name": "Gunjonggyogu Cheongseong Catholic Church",
+                  "text": "O biserică catolică care servește congregația diocezei militare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        127.217726,
+                        38.20045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheorwon Korean Workers' Party Headquarters",
+                  "text": "The preserved ruins of a former North Korean party headquarters building from the mid-20th century.",
+                  "category": "landmark",
+                  "coords": [
+                        127.201924,
+                        38.255192
+                  ]
+            },
+            {
+                  "name": "Cheorwon Confucian School",
+                  "text": "A historical educational facility dedicated to traditional Confucian teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        127.213343,
+                        38.239164
+                  ]
+            },
+            {
+                  "name": "Cheorwon Peace Observatory",
+                  "text": "An observation post offering panoramic views across the Demilitarized Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        127.251263,
+                        38.309325
+                  ]
+            },
+            {
+                  "name": "Second Infiltration Tunnel Museum",
+                  "text": "A museum documenting the history of a subterranean military tunnel discovered in the region.",
+                  "category": "museum",
+                  "coords": [
+                        127.31137,
+                        38.30955
+                  ]
+            },
+            {
+                  "name": "Gunjonggyogu Cheongseong Catholic Church",
+                  "text": "A Christian Catholic church serving the local military diocese congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        127.217726,
+                        38.20045
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "KR-42",
     coords: [127.25, 38.25],
@@ -339,7 +2526,556 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "ulleungdo-island-coast-relief-v2",
+    id: "ulleungdo-island-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snorkeling",
+                  "text": "Das glasklare Wasser rund um die Vulkaninsel bietet ideale Bedingungen zur Beobachtung von Algenwäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        130.916705,
+                        37.541584
+                  ]
+            },
+            {
+                  "name": "Jukam)",
+                  "text": "Diese markante Felsformation ragt wie eine Säule aus dem smaragdgrünen Meer empor.",
+                  "category": "landmark",
+                  "coords": [
+                        130.893362,
+                        37.54149
+                  ]
+            },
+            {
+                  "name": "View for Rocks",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick auf die schroffen vulkanischen Felsnadeln im Meer.",
+                  "category": "natural",
+                  "coords": [
+                        130.907109,
+                        37.548893
+                  ]
+            },
+            {
+                  "name": "Best View",
+                  "text": "Von hier aus genießt man ein Panorama der steilen Klippen und des tiefblauen Wassers der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        130.912783,
+                        37.541757
+                  ]
+            },
+            {
+                  "name": "Sajabawi)",
+                  "text": "Diese vulkanische Felsformation erinnert in ihrer Form an einen kauernden Löwen, der den Hafen bewacht.",
+                  "category": "landmark",
+                  "coords": [
+                        130.909378,
+                        37.542855
+                  ]
+            },
+            {
+                  "name": "Dokdo Volunteer Forces Memorial Hall",
+                  "text": "Die Ausstellung ehrt die Zivilisten, die freiwillig zur Verteidigung der Dokdo-Inseln beigetragen haben.",
+                  "category": "historical",
+                  "coords": [
+                        130.907684,
+                        37.537676
+                  ]
+            },
+            {
+                  "name": "Sillyeongsu",
+                  "text": "Ein Pfad führt durch den Urwald zu dieser heiligen Quelle, die für ihr reines Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        130.859937,
+                        37.50581
+                  ]
+            },
+            {
+                  "name": "Seonginbong (Mt.)",
+                  "text": "Mit 984 Metern ist dieser erloschene Vulkangipfel der höchste Punkt der gesamten Insel.",
+                  "category": "natural",
+                  "coords": [
+                        130.867047,
+                        37.498006
+                  ]
+            },
+            {
+                  "name": "Bongnae Waterfall",
+                  "text": "Der dreistufige Wasserfall ist die wichtigste natürliche Trinkwasserquelle für die Inselbewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        130.883296,
+                        37.498314
+                  ]
+            },
+            {
+                  "name": "Takeshima Museum",
+                  "text": "Dieses Spezialmuseum dokumentiert ausführlich die Geschichte und Geografie der Dokdo-Inseln.",
+                  "category": "museum",
+                  "coords": [
+                        130.90092,
+                        37.483328
+                  ]
+            },
+            {
+                  "name": "Haengnamdeungdae",
+                  "text": "Der weiße Leuchtturm steht am Ende eines spektakulären Klippenpfades mit Blick auf das offene Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        130.91943,
+                        37.48703
+                  ]
+            },
+            {
+                  "name": "Best Ocen View Observatory",
+                  "text": "Diese hölzerne Plattform bietet einen unverstellten Panoramablick über den weiten Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        130.797349,
+                        37.518567
+                  ]
+            },
+            {
+                  "name": "Footwat to Hyun Po",
+                  "text": "Der schmale Küstenpfad schlängelt sich durch das raue vulkanische Gelände in Richtung Hyun Po.",
+                  "category": "landmark",
+                  "coords": [
+                        130.800011,
+                        37.514949
+                  ]
+            },
+            {
+                  "name": "Dokdo Observatory",
+                  "text": "Das Observatorium ist per Seilbahn erreichbar und bietet bei klarer Sicht einen Blick bis nach Dokdo.",
+                  "category": "natural",
+                  "coords": [
+                        130.904072,
+                        37.47993
+                  ]
+            },
+            {
+                  "name": "Seongbulsa)",
+                  "text": "Dieser ruhige buddhistische Tempel liegt eingebettet in die grünen Hänge der Vulkanberge.",
+                  "category": "landmark",
+                  "coords": [
+                        130.855845,
+                        37.532363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snorkeling",
+                  "text": "A vulkáni sziget körüli kristálytiszta víz ideális feltételeket kínál az algák és tengeri élővilág megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        130.916705,
+                        37.541584
+                  ]
+            },
+            {
+                  "name": "Jukam)",
+                  "text": "Ez a jellegzetes sziklaformáció oszlopként emelkedik ki a smaragdzöld tengerből.",
+                  "category": "landmark",
+                  "coords": [
+                        130.893362,
+                        37.54149
+                  ]
+            },
+            {
+                  "name": "View for Rocks",
+                  "text": "Erről a kilátóról pazar kilátás nyílik a tengerben álló zord, vulkanikus sziklatűkre.",
+                  "category": "natural",
+                  "coords": [
+                        130.907109,
+                        37.548893
+                  ]
+            },
+            {
+                  "name": "Best View",
+                  "text": "Innen pazar panoráma nyílik a sziget meredek szikláira és mélykék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        130.912783,
+                        37.541757
+                  ]
+            },
+            {
+                  "name": "Sajabawi)",
+                  "text": "Ez a vulkáni sziklaformáció alakjával egy gubbasztó oroszlánra emlékeztet, amely a kikötőt őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        130.909378,
+                        37.542855
+                  ]
+            },
+            {
+                  "name": "Dokdo Volunteer Forces Memorial Hall",
+                  "text": "A kiállítás azok előtt a civilek előtt tiszteleg, akik önkéntesen hozzájárultak a Dokdo-szigetek védelméhez.",
+                  "category": "historical",
+                  "coords": [
+                        130.907684,
+                        37.537676
+                  ]
+            },
+            {
+                  "name": "Sillyeongsu",
+                  "text": "Az őserdőn keresztül vezető ösvény ehhez a szent forráshoz visz, amely tiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        130.859937,
+                        37.50581
+                  ]
+            },
+            {
+                  "name": "Seonginbong (Mt.)",
+                  "text": "984 méteres magasságával ez a kialudt vulkáni csúcs az egész sziget legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        130.867047,
+                        37.498006
+                  ]
+            },
+            {
+                  "name": "Bongnae Waterfall",
+                  "text": "A háromlépcsős vízesés a szigetlakók legfontosabb természetes ivóvízforrása.",
+                  "category": "landmark",
+                  "coords": [
+                        130.883296,
+                        37.498314
+                  ]
+            },
+            {
+                  "name": "Takeshima Museum",
+                  "text": "Ez a szakmúzeum részletesen dokumentálja a Dokdo-szigetek történelmét és földrajzát.",
+                  "category": "museum",
+                  "coords": [
+                        130.90092,
+                        37.483328
+                  ]
+            },
+            {
+                  "name": "Haengnamdeungdae",
+                  "text": "A fehér világítótorony egy látványos sziklaösvény végén áll, kilátással a nyílt tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        130.91943,
+                        37.48703
+                  ]
+            },
+            {
+                  "name": "Best Ocen View Observatory",
+                  "text": "Ez a fapadlós platform zavartalan panorámát nyújt a végtelen óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        130.797349,
+                        37.518567
+                  ]
+            },
+            {
+                  "name": "Footwat to Hyun Po",
+                  "text": "A keskeny tengerparti ösvény a zord vulkáni terepen keresztül kanyarog Hyun Po felé.",
+                  "category": "landmark",
+                  "coords": [
+                        130.800011,
+                        37.514949
+                  ]
+            },
+            {
+                  "name": "Dokdo Observatory",
+                  "text": "A csillagvizsgáló drótkötélpályán érhető el, és tiszta időben kilátást nyújt egészen Dokdo-ig.",
+                  "category": "natural",
+                  "coords": [
+                        130.904072,
+                        37.47993
+                  ]
+            },
+            {
+                  "name": "Seongbulsa)",
+                  "text": "Ez a csendes buddhista templom a vulkáni hegyek zöldellő lejtői közé ékelődik.",
+                  "category": "landmark",
+                  "coords": [
+                        130.855845,
+                        37.532363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snorkeling",
+                  "text": "Apele cristaline din jurul insulei vulcanice oferă condiții ideale pentru observarea pădurilor de alge.",
+                  "category": "landmark",
+                  "coords": [
+                        130.916705,
+                        37.541584
+                  ]
+            },
+            {
+                  "name": "Jukam)",
+                  "text": "Această formațiune stâncoasă proeminentă se înalță ca o coloană din marea de smarald.",
+                  "category": "landmark",
+                  "coords": [
+                        130.893362,
+                        37.54149
+                  ]
+            },
+            {
+                  "name": "View for Rocks",
+                  "text": "Acest punct de observare oferă o vedere largă asupra acelor stâncoase vulcanice abrupte din mare.",
+                  "category": "natural",
+                  "coords": [
+                        130.907109,
+                        37.548893
+                  ]
+            },
+            {
+                  "name": "Best View",
+                  "text": "De aici vă puteți bucura de o panoramă a stâncilor abrupte și a apelor albastre profund ale insulei.",
+                  "category": "natural",
+                  "coords": [
+                        130.912783,
+                        37.541757
+                  ]
+            },
+            {
+                  "name": "Sajabawi)",
+                  "text": "Această formațiune stâncoasă vulcanică amintește prin forma sa de un leu ghemuit care păzește portul.",
+                  "category": "landmark",
+                  "coords": [
+                        130.909378,
+                        37.542855
+                  ]
+            },
+            {
+                  "name": "Dokdo Volunteer Forces Memorial Hall",
+                  "text": "Expoziția îi onorează pe civilii care au contribuit voluntar la apărarea insulelor Dokdo.",
+                  "category": "historical",
+                  "coords": [
+                        130.907684,
+                        37.537676
+                  ]
+            },
+            {
+                  "name": "Sillyeongsu",
+                  "text": "O potecă prin pădurea virgină duce la acest izvor sacru, cunoscut pentru apa sa pură.",
+                  "category": "landmark",
+                  "coords": [
+                        130.859937,
+                        37.50581
+                  ]
+            },
+            {
+                  "name": "Seonginbong (Mt.)",
+                  "text": "Cu o înălțime de 984 de metri, acest vârf vulcanic stins este cel mai înalt punct al întregii insule.",
+                  "category": "natural",
+                  "coords": [
+                        130.867047,
+                        37.498006
+                  ]
+            },
+            {
+                  "name": "Bongnae Waterfall",
+                  "text": "Această cascadă în trei trepte este cea mai importantă sursă naturală de apă potabilă pentru insulari.",
+                  "category": "landmark",
+                  "coords": [
+                        130.883296,
+                        37.498314
+                  ]
+            },
+            {
+                  "name": "Takeshima Museum",
+                  "text": "Acest muzeu specializat documentează în detaliu istoria și geografia insulelor Dokdo.",
+                  "category": "museum",
+                  "coords": [
+                        130.90092,
+                        37.483328
+                  ]
+            },
+            {
+                  "name": "Haengnamdeungdae",
+                  "text": "Farul alb se află la capătul unei poteci spectaculoase pe faleză, cu vedere spre marea liberă.",
+                  "category": "landmark",
+                  "coords": [
+                        130.91943,
+                        37.48703
+                  ]
+            },
+            {
+                  "name": "Best Ocen View Observatory",
+                  "text": "Această platformă de lemn oferă o panoramă neîntreruptă asupra oceanului vast.",
+                  "category": "landmark",
+                  "coords": [
+                        130.797349,
+                        37.518567
+                  ]
+            },
+            {
+                  "name": "Footwat to Hyun Po",
+                  "text": "Poteca îngustă de coastă șerpuiește prin terenul vulcanic accidentat în direcția Hyun Po.",
+                  "category": "landmark",
+                  "coords": [
+                        130.800011,
+                        37.514949
+                  ]
+            },
+            {
+                  "name": "Dokdo Observatory",
+                  "text": "Observatorul este accesibil cu telecabina și oferă, în zilele senine, o vedere până la Dokdo.",
+                  "category": "natural",
+                  "coords": [
+                        130.904072,
+                        37.47993
+                  ]
+            },
+            {
+                  "name": "Seongbulsa)",
+                  "text": "Acest templu budist liniștit este cuibărit în pantele verzi ale munților vulcanici.",
+                  "category": "landmark",
+                  "coords": [
+                        130.855845,
+                        37.532363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snorkeling",
+                  "text": "The crystal-clear waters around the volcanic island offer ideal conditions for observing kelp forests and marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        130.916705,
+                        37.541584
+                  ]
+            },
+            {
+                  "name": "Jukam",
+                  "text": "This striking rock formation rises like a pillar from the emerald-green sea near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        130.893362,
+                        37.54149
+                  ]
+            },
+            {
+                  "name": "View for Rocks",
+                  "text": "This viewpoint offers a broad look at the rugged volcanic sea stacks jutting out of the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        130.907109,
+                        37.548893
+                  ]
+            },
+            {
+                  "name": "Best View",
+                  "text": "From here, you can enjoy a panorama of the island's steep cliffs and deep blue waters.",
+                  "category": "natural",
+                  "coords": [
+                        130.912783,
+                        37.541757
+                  ]
+            },
+            {
+                  "name": "Sajabawi",
+                  "text": "This volcanic rock formation resembles a crouching lion guarding the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        130.909378,
+                        37.542855
+                  ]
+            },
+            {
+                  "name": "Dokdo Volunteer Forces Memorial Hall",
+                  "text": "The exhibition honors the civilians who volunteered to defend the easternmost Dokdo islets.",
+                  "category": "historical",
+                  "coords": [
+                        130.907684,
+                        37.537676
+                  ]
+            },
+            {
+                  "name": "Sillyeongsu",
+                  "text": "A path leads through the primeval forest to this sacred spring, known for its pure water.",
+                  "category": "landmark",
+                  "coords": [
+                        130.859937,
+                        37.50581
+                  ]
+            },
+            {
+                  "name": "Seonginbong (Mt.)",
+                  "text": "At 984 meters, this extinct volcanic peak is the highest point on the entire island.",
+                  "category": "natural",
+                  "coords": [
+                        130.867047,
+                        37.498006
+                  ]
+            },
+            {
+                  "name": "Bongnae Waterfall",
+                  "text": "This three-tier waterfall is the primary natural source of drinking water for the island's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        130.883296,
+                        37.498314
+                  ]
+            },
+            {
+                  "name": "Takeshima Museum",
+                  "text": "This specialized museum documents the history and geography of the Dokdo islands in detail.",
+                  "category": "museum",
+                  "coords": [
+                        130.90092,
+                        37.483328
+                  ]
+            },
+            {
+                  "name": "Haengnamdeungdae",
+                  "text": "The white lighthouse stands at the end of a spectacular cliff path overlooking the open sea.",
+                  "category": "landmark",
+                  "coords": [
+                        130.91943,
+                        37.48703
+                  ]
+            },
+            {
+                  "name": "Best Ocen View Observatory",
+                  "text": "This wooden platform offers an unobstructed panoramic view over the wide ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        130.797349,
+                        37.518567
+                  ]
+            },
+            {
+                  "name": "Footwat to Hyun Po",
+                  "text": "The narrow coastal path winds through the rugged volcanic terrain towards the village of Hyeonpo.",
+                  "category": "landmark",
+                  "coords": [
+                        130.800011,
+                        37.514949
+                  ]
+            },
+            {
+                  "name": "Dokdo Observatory",
+                  "text": "Accessible by cable car, this observatory offers views as far as the Dokdo islets on clear days.",
+                  "category": "natural",
+                  "coords": [
+                        130.904072,
+                        37.47993
+                  ]
+            },
+            {
+                  "name": "Seongbulsa",
+                  "text": "This peaceful Buddhist temple is nestled within the green slopes of the volcanic mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        130.855845,
+                        37.532363
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-47",
     coords: [130.86, 37.50],
@@ -387,7 +3123,196 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "gangcheon-mountain-valley-relief-v2",
+    id: "gangcheon-mountain-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoengtanjeong",
+                  "text": "Ein eleganter traditioneller Holzpavillon am Flussufer, der Reisenden einen schattigen Rastplatz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        127.32775,
+                        35.303051
+                  ]
+            },
+            {
+                  "name": "Chichi-Poopoo Playground",
+                  "text": "Ein interaktives Museum, das sich spielerisch der Wissenschaft der Verdauung und der menschlichen Ausscheidung widmet.",
+                  "category": "museum",
+                  "coords": [
+                        127.309957,
+                        35.277194
+                  ]
+            },
+            {
+                  "name": "Gallery 107",
+                  "text": "Eine lokale Kunstgalerie in Gangcheon, die wechselnde Ausstellungen regionaler zeitgenössischer Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        127.294438,
+                        35.280972
+                  ]
+            },
+            {
+                  "name": "Gokseonggyoyuk Cultural Center",
+                  "text": "Ein regionales Kulturzentrum, das Kurse und Ausstellungen zur Förderung der lokalen Kunst und Bildung anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        127.289683,
+                        35.282
+                  ]
+            },
+            {
+                  "name": "Dorimsa",
+                  "text": "Ein buddhistischer Tempel, der für seine Lage in einem malerischen Tal mit glatten Granitfelsen und klaren Bächen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        127.257705,
+                        35.266975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoengtanjeong",
+                  "text": "Elegáns hagyományos fa pavilon a folyóparton, amely árnyékos pihenőhelyet kínál az utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        127.32775,
+                        35.303051
+                  ]
+            },
+            {
+                  "name": "Chichi-Poopoo Playground",
+                  "text": "Interaktív múzeum, amely játékos formában mutatja be az emésztés folyamatát és az emberi test működését.",
+                  "category": "museum",
+                  "coords": [
+                        127.309957,
+                        35.277194
+                  ]
+            },
+            {
+                  "name": "Gallery 107",
+                  "text": "Helyi művészeti galéria, amely a környékbeli kortárs művészek váltakozó kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        127.294438,
+                        35.280972
+                  ]
+            },
+            {
+                  "name": "Gokseonggyoyuk Cultural Center",
+                  "text": "Regionális kulturális központ, amely oktatási programokkal és kiállításokkal segíti a helyi művészeti életet.",
+                  "category": "cultural",
+                  "coords": [
+                        127.289683,
+                        35.282
+                  ]
+            },
+            {
+                  "name": "Dorimsa",
+                  "text": "Buddhista templom, amely a sima gránitszikláiról és tiszta patakjairól ismert festői völgyben fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        127.257705,
+                        35.266975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoengtanjeong",
+                  "text": "Un pavilion tradițional din lemn elegant pe malul râului, care oferă călătorilor un loc de odihnă umbrit.",
+                  "category": "landmark",
+                  "coords": [
+                        127.32775,
+                        35.303051
+                  ]
+            },
+            {
+                  "name": "Chichi-Poopoo Playground",
+                  "text": "Un muzeu interactiv care explorează în mod ludic știința digestiei și funcțiile corpului uman.",
+                  "category": "museum",
+                  "coords": [
+                        127.309957,
+                        35.277194
+                  ]
+            },
+            {
+                  "name": "Gallery 107",
+                  "text": "O galerie de artă locală care prezintă expoziții temporare ale artiștilor contemporani regionali.",
+                  "category": "museum",
+                  "coords": [
+                        127.294438,
+                        35.280972
+                  ]
+            },
+            {
+                  "name": "Gokseonggyoyuk Cultural Center",
+                  "text": "Un centru cultural regional care oferă cursuri și expoziții pentru promovarea artei și educației locale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.289683,
+                        35.282
+                  ]
+            },
+            {
+                  "name": "Dorimsa",
+                  "text": "Un templu budist cunoscut pentru locația sa într-o vale pitorească, cu formațiuni de granit netede și pârâuri limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        127.257705,
+                        35.266975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoengtanjeong",
+                  "text": "An elegant traditional wooden pavilion situated by the river, offering a shaded resting spot for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        127.32775,
+                        35.303051
+                  ]
+            },
+            {
+                  "name": "Chichi-Poopoo Playground",
+                  "text": "An interactive museum that playfully explores the science of digestion and human excretory functions.",
+                  "category": "museum",
+                  "coords": [
+                        127.309957,
+                        35.277194
+                  ]
+            },
+            {
+                  "name": "Gallery 107",
+                  "text": "A local art gallery showcasing rotating exhibitions by regional contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        127.294438,
+                        35.280972
+                  ]
+            },
+            {
+                  "name": "Gokseonggyoyuk Cultural Center",
+                  "text": "A regional cultural center offering classes and exhibitions to promote local arts and education.",
+                  "category": "cultural",
+                  "coords": [
+                        127.289683,
+                        35.282
+                  ]
+            },
+            {
+                  "name": "Dorimsa",
+                  "text": "A Buddhist temple known for its location in a scenic valley with smooth granite rock formations and clear streams.",
+                  "category": "landmark",
+                  "coords": [
+                        127.257705,
+                        35.266975
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KR-45",
     coords: [127.30, 35.35],
@@ -435,7 +3360,952 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "yudalsan-mountain-relief-v2",
+    id: "yudalsan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yangeulsan",
+                  "text": "Von diesem markanten Berggipfel aus können Wanderer weite Ausblicke über die Küstenlandschaft genießen.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
+                  "text": "Dieses spezielle Museum zeigt interessante Exponate zur regionalen Industriegeschichte oder lokalen Produktion.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "Gureung Art Museum",
+                  "text": "In diesem Kunstzentrum werden vor allem die Werke talentierter regionaler und zeitgenössischer Künstler ausgestellt.",
+                  "category": "cultural",
+                  "coords": [
+                        126.367447,
+                        34.795211
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Cable Car",
+                  "text": "Diese beliebte Seilbahn bietet den Fahrgästen atemberaubende Panoramablicke über das Meer und den nahen Berg.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "Yudal Mountain",
+                  "text": "Dieser felsige Berg ist berühmt für seine bizarren Steinformationen und den weiten Blick über den Hafen der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        126.372644,
+                        34.789913
+                  ]
+            },
+            {
+                  "name": "Art Theater Warehouse",
+                  "text": "Dieses Theater ist kreativ in einer umgebauten alten Lagerhalle untergebracht und bietet eine einzigartige Kulisse für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794167
+                  ]
+            },
+            {
+                  "name": "Mokpo culture hall",
+                  "text": "In diesem Museum können Besucher tief in die maritime Geschichte und die kulturellen Wurzeln der Hafenstadt eintauchen.",
+                  "category": "museum",
+                  "coords": [
+                        126.416956,
+                        34.792771
+                  ]
+            },
+            {
+                  "name": "Mokpo Culture & Arts Center",
+                  "text": "In dieser großen Einrichtung finden regelmäßig vielfältige künstlerische Darbietungen und Ausstellungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        126.418149,
+                        34.792199
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "Diese faszinierenden natürlichen Sandsteinformationen wurden im Laufe der Zeit vom Meer zu Formen verwittert, die an Mönche mit traditionellen Hüten erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        126.425532,
+                        34.79194
+                  ]
+            },
+            {
+                  "name": "Mokpo Natural History Museum",
+                  "text": "Dieses Naturkundemuseum beeindruckt mit seinen umfangreichen Dinosaurierfossilien und detaillierten ökologischen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        126.421029,
+                        34.793893
+                  ]
+            },
+            {
+                  "name": "Korea Saneopdoja Exhibition Hall",
+                  "text": "Diese Ausstellung widmet sich ganz der Präsentation traditioneller und industrieller koreanischer Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        126.419878,
+                        34.793509
+                  ]
+            },
+            {
+                  "name": "Namnong Memorial Hall",
+                  "text": "Dieses Museum ehrt das Leben und die bedeutenden Werke des berühmten traditionellen koreanischen Malers Namnong.",
+                  "category": "museum",
+                  "coords": [
+                        126.419569,
+                        34.792531
+                  ]
+            },
+            {
+                  "name": "National Haeyang Museum",
+                  "text": "Ein Schifffahrtsmuseum im Gebiet des Yudalsan-Gebirges, das die nautische Geschichte und Ozeanographie Koreas präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        126.421656,
+                        34.791838
+                  ]
+            },
+            {
+                  "name": "Songam Folk Village",
+                  "text": "Ein traditioneller Themenpark am Yudalsan, der historische koreanische Architektur und Volkskultur zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        126.435469,
+                        34.806989
+                  ]
+            },
+            {
+                  "name": "Meeting Waterfall",
+                  "text": "Ein malerischer Wasserfall in der Yudalsan-Bergregion, der einen erfrischenden Rückzugsort in der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.439533,
+                        34.803594
+                  ]
+            },
+            {
+                  "name": "Oryongsan (Mt. Oryong)",
+                  "text": "Ein markanter Berggipfel in der Nähe von Mokpo, der weite Ausblicke über die umliegende Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        126.463076,
+                        34.823519
+                  ]
+            },
+            {
+                  "name": "Mokpo Bridge",
+                  "text": "Eine große Brücke, die über die Küstengewässer führt und Mokpo mit den nahegelegenen Inseln verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.356835,
+                        34.788742
+                  ]
+            },
+            {
+                  "name": "Mokpo Modern History Museum",
+                  "text": "Ein Museum in einem Backsteingebäude aus der Kolonialzeit, das die Vergangenheit von Mokpo während der japanischen Besatzung detailliert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        126.382084,
+                        34.787539
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Science Museum",
+                  "text": "Ein Bildungszentrum im Yudalsan-Gebiet, das sich der regionalen Unterwasserwelt und den ozeanischen Ökosystemen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        126.388818,
+                        34.781935
+                  ]
+            },
+            {
+                  "name": "Mokpo Church of Christ",
+                  "text": "Ein lokales christliches Gotteshaus, das der Gemeinde rund um das Yudalsan-Gebirge dient.",
+                  "category": "landmark",
+                  "coords": [
+                        126.372323,
+                        34.810643
+                  ]
+            },
+            {
+                  "name": "Bukgyodong Catholic Church",
+                  "text": "Eine katholische Pfarrkirche im Viertel Bukgyo-dong am Rande der Yudalsan-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        126.378228,
+                        34.79325
+                  ]
+            },
+            {
+                  "name": "Daeseongdong Catholic Church",
+                  "text": "Ein katholisches Gotteshaus im Stadtteil Daeseong-dong nahe der Bergregion Yudalsan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.380022,
+                        34.801531
+                  ]
+            },
+            {
+                  "name": "Jesus Centered Church",
+                  "text": "Ein Versammlungsort einer christlichen Gemeinde in der Nähe des Yudalsan-Gebirgsreliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        126.384172,
+                        34.793037
+                  ]
+            },
+            {
+                  "name": "Yeondong Central Church",
+                  "text": "Eine markant gelegene Kirche, die spirituelle Führung in der Gegend von Yeondong anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        126.399646,
+                        34.791912
+                  ]
+            },
+            {
+                  "name": "Hangdong market",
+                  "text": "Ein belebter traditioneller Markt in der Yudalsan-Gegend, der für den Verkauf von frischen lokalen Meeresfrüchten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        126.385869,
+                        34.785007
+                  ]
+            },
+            {
+                  "name": "Jayu Market",
+                  "text": "Ein lebhaftes Handelszentrum in der Nähe von Yudalsan, wo Händler eine Reihe von traditionellen koreanischen Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        126.403061,
+                        34.79297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yangeulsan",
+                  "text": "Erről a kiemelkedő hegycsúcsról a túrázók széles kilátást élvezhetnek a tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
+                  "text": "Ez a különleges múzeum érdekes kiállítási tárgyakat mutat be a regionális ipartörténetről vagy a helyi termelésről.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "Gureung Art Museum",
+                  "text": "Ebben a művészeti központban elsősorban tehetséges regionális és kortárs művészek alkotásait állítják ki.",
+                  "category": "cultural",
+                  "coords": [
+                        126.367447,
+                        34.795211
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Cable Car",
+                  "text": "Ez a népszerű felvonó lélegzetelállító panorámát kínál az utasoknak a tengerre és a közeli hegyre.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "Yudal Mountain",
+                  "text": "Ez a sziklás hegy különleges sziklaalakzatairól és a városi kikötőre nyíló széles kilátásról híres.",
+                  "category": "natural",
+                  "coords": [
+                        126.372644,
+                        34.789913
+                  ]
+            },
+            {
+                  "name": "Art Theater Warehouse",
+                  "text": "Ez a színház kreatívan egy átalakított régi raktárépületben kapott helyet, és egyedülálló hátteret biztosít az előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794167
+                  ]
+            },
+            {
+                  "name": "Mokpo culture hall",
+                  "text": "Ebben a múzeumban a látogatók elmerülhetnek a kikötőváros tengerészeti történelmében és kulturális gyökereiben.",
+                  "category": "museum",
+                  "coords": [
+                        126.416956,
+                        34.792771
+                  ]
+            },
+            {
+                  "name": "Mokpo Culture & Arts Center",
+                  "text": "Ebben a nagy létesítményben rendszeresen tartanak változatos művészeti előadásokat és kiállításokat.",
+                  "category": "cultural",
+                  "coords": [
+                        126.418149,
+                        34.792199
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "Ezeket a lenyűgöző természetes homokkő képződményeket a tenger az idő múlásával olyan formákra koptatta, amelyek hagyományos kalapot viselő szerzetesekre emlékeztetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        126.425532,
+                        34.79194
+                  ]
+            },
+            {
+                  "name": "Mokpo Natural History Museum",
+                  "text": "Ez a természettudományi múzeum kiterjedt dinoszaurusz-kövületeivel és részletes ökológiai kiállításaival nyűgözi le a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        126.421029,
+                        34.793893
+                  ]
+            },
+            {
+                  "name": "Korea Saneopdoja Exhibition Hall",
+                  "text": "Ez a kiállítás teljes egészében a hagyományos és ipari koreai kerámiák bemutatásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        126.419878,
+                        34.793509
+                  ]
+            },
+            {
+                  "name": "Namnong Memorial Hall",
+                  "text": "Ez a múzeum a híres hagyományos koreai festő, Namnong életét és jelentős műveit tiszteli meg.",
+                  "category": "museum",
+                  "coords": [
+                        126.419569,
+                        34.792531
+                  ]
+            },
+            {
+                  "name": "National Haeyang Museum",
+                  "text": "A Mokpo melletti Yudalsan hegyvidékén található tengerészeti múzeum, amely Korea hajózási történelmét és óceánográfiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        126.421656,
+                        34.791838
+                  ]
+            },
+            {
+                  "name": "Songam Folk Village",
+                  "text": "A Yudalsan melletti hagyományos tematikus park, amely bemutatja a történelmi koreai építészetet és népi kultúrát.",
+                  "category": "recreational",
+                  "coords": [
+                        126.435469,
+                        34.806989
+                  ]
+            },
+            {
+                  "name": "Meeting Waterfall",
+                  "text": "Egy festői vízesés a Yudalsan hegyvidékén, amely frissítő természeti menedéket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        126.439533,
+                        34.803594
+                  ]
+            },
+            {
+                  "name": "Oryongsan (Mt. Oryong)",
+                  "text": "Egy kiemelkedő hegycsúcs Mokpo közelében, ahonnan pazar kilátás nyílik a környező tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        126.463076,
+                        34.823519
+                  ]
+            },
+            {
+                  "name": "Mokpo Bridge",
+                  "text": "Egy hatalmas híd a part menti vizek felett, amely Mokpót köti össze a közeli szigetekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        126.356835,
+                        34.788742
+                  ]
+            },
+            {
+                  "name": "Mokpo Modern History Museum",
+                  "text": "Egy gyarmati korszakból származó téglaépületben működő múzeum, amely Mokpo japán megszállás alatti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        126.382084,
+                        34.787539
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Science Museum",
+                  "text": "A Yudalsan térségében található oktatási központ, amelyet a regionális tengeri élőlényeknek és az óceáni ökoszisztémáknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        126.388818,
+                        34.781935
+                  ]
+            },
+            {
+                  "name": "Mokpo Church of Christ",
+                  "text": "Helyi keresztény istentiszteleti hely, amely a Yudalsan hegyvidéke körüli közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        126.372323,
+                        34.810643
+                  ]
+            },
+            {
+                  "name": "Bukgyodong Catholic Church",
+                  "text": "Katolikus plébániatemplom a Bukgyo-dong negyedben, a Yudalsan hegyek peremén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.378228,
+                        34.79325
+                  ]
+            },
+            {
+                  "name": "Daeseongdong Catholic Church",
+                  "text": "Katolikus istentiszteleti hely Daeseong-dong negyedében, a Yudalsan hegyvidék közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        126.380022,
+                        34.801531
+                  ]
+            },
+            {
+                  "name": "Jesus Centered Church",
+                  "text": "Egy keresztény gyülekezet találkozóhelye a Yudalsan hegyvidéki terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        126.384172,
+                        34.793037
+                  ]
+            },
+            {
+                  "name": "Yeondong Central Church",
+                  "text": "Egy kiemelkedő elhelyezkedésű templom, amely spirituális útmutatást nyújt a Yeondong térségben.",
+                  "category": "religious",
+                  "coords": [
+                        126.399646,
+                        34.791912
+                  ]
+            },
+            {
+                  "name": "Hangdong market",
+                  "text": "Nyüzsgő hagyományos piac a Yudalsan térségében, amely a friss helyi tengeri gyümölcsök árusításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        126.385869,
+                        34.785007
+                  ]
+            },
+            {
+                  "name": "Jayu Market",
+                  "text": "Nyüzsgő kereskedelmi központ Yudalsan közelében, ahol az árusok hagyományos koreai áruk széles skáláját kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        126.403061,
+                        34.79297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yangeulsan",
+                  "text": "De pe acest vârf muntos proeminent, drumeții se pot bucura de priveliști ample asupra peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
+                  "text": "Acest muzeu special prezintă exponate interesante despre istoria industrială regională sau producția locală.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "Gureung Art Museum",
+                  "text": "Acest centru de artă expune în principal lucrările artiștilor regionali și contemporani talentați.",
+                  "category": "cultural",
+                  "coords": [
+                        126.367447,
+                        34.795211
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Cable Car",
+                  "text": "Această telecabină populară oferă pasagerilor priveliști panoramice uluitoare asupra mării și a muntelui din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "Yudal Mountain",
+                  "text": "Acest munte stâncos este faimos pentru formațiunile sale ciudate de piatră și priveliștea largă asupra portului orașului.",
+                  "category": "natural",
+                  "coords": [
+                        126.372644,
+                        34.789913
+                  ]
+            },
+            {
+                  "name": "Art Theater Warehouse",
+                  "text": "Acest teatru este găzduit creativ într-un vechi depozit transformat, oferind un cadru unic pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794167
+                  ]
+            },
+            {
+                  "name": "Mokpo culture hall",
+                  "text": "În acest muzeu, vizitatorii pot pătrunde adânc în istoria maritimă și în rădăcinile culturale ale orașului portuar.",
+                  "category": "museum",
+                  "coords": [
+                        126.416956,
+                        34.792771
+                  ]
+            },
+            {
+                  "name": "Mokpo Culture & Arts Center",
+                  "text": "În această facilitate mare au loc cu regularitate diverse spectacole artistice și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        126.418149,
+                        34.792199
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "Aceste formațiuni naturale fascinante de gresie au fost erodate de mare de-a lungul timpului în forme care amintesc de călugări cu pălării tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        126.425532,
+                        34.79194
+                  ]
+            },
+            {
+                  "name": "Mokpo Natural History Museum",
+                  "text": "Acest muzeu de istorie naturală impresionează prin fosilele sale extinse de dinozauri și expozițiile ecologice detaliate.",
+                  "category": "museum",
+                  "coords": [
+                        126.421029,
+                        34.793893
+                  ]
+            },
+            {
+                  "name": "Korea Saneopdoja Exhibition Hall",
+                  "text": "Această expoziție este dedicată în întregime prezentării ceramicii coreene tradiționale și industriale.",
+                  "category": "museum",
+                  "coords": [
+                        126.419878,
+                        34.793509
+                  ]
+            },
+            {
+                  "name": "Namnong Memorial Hall",
+                  "text": "Acest muzeu onorează viața și operele importante ale faimosului pictor tradițional coreean Namnong.",
+                  "category": "museum",
+                  "coords": [
+                        126.419569,
+                        34.792531
+                  ]
+            },
+            {
+                  "name": "National Haeyang Museum",
+                  "text": "Un muzeu maritim în zona muntelui Yudalsan din Mokpo, care prezintă istoria nautică și oceanografia Coreei.",
+                  "category": "museum",
+                  "coords": [
+                        126.421656,
+                        34.791838
+                  ]
+            },
+            {
+                  "name": "Songam Folk Village",
+                  "text": "Un parc tematic tradițional lângă Yudalsan, care prezintă arhitectura istorică coreeană și cultura populară.",
+                  "category": "recreational",
+                  "coords": [
+                        126.435469,
+                        34.806989
+                  ]
+            },
+            {
+                  "name": "Meeting Waterfall",
+                  "text": "O cascadă pitorească în zona muntoasă Yudalsan, oferind un refugiu natural răcoritor.",
+                  "category": "landmark",
+                  "coords": [
+                        126.439533,
+                        34.803594
+                  ]
+            },
+            {
+                  "name": "Oryongsan (Mt. Oryong)",
+                  "text": "Un vârf de munte proeminent lângă Mokpo, care oferă vederi ample asupra peisajului de coastă înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        126.463076,
+                        34.823519
+                  ]
+            },
+            {
+                  "name": "Mokpo Bridge",
+                  "text": "Un pod mare care traversează apele de coastă, legând Mokpo de insulele sale din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        126.356835,
+                        34.788742
+                  ]
+            },
+            {
+                  "name": "Mokpo Modern History Museum",
+                  "text": "Un muzeu găzduit într-o clădire din cărămidă din epoca colonială, care detaliază trecutul orașului Mokpo în timpul ocupației japoneze.",
+                  "category": "museum",
+                  "coords": [
+                        126.382084,
+                        34.787539
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Science Museum",
+                  "text": "Un centru educațional din zona Yudalsan dedicat vieții marine regionale și ecosistemelor oceanice.",
+                  "category": "museum",
+                  "coords": [
+                        126.388818,
+                        34.781935
+                  ]
+            },
+            {
+                  "name": "Mokpo Church of Christ",
+                  "text": "Un lăcaș de cult creștin local care deservește comunitatea din jurul reliefului montan Yudalsan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.372323,
+                        34.810643
+                  ]
+            },
+            {
+                  "name": "Bukgyodong Catholic Church",
+                  "text": "O biserică parohială catolică în cartierul Bukgyo-dong, la marginea munților Yudalsan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.378228,
+                        34.79325
+                  ]
+            },
+            {
+                  "name": "Daeseongdong Catholic Church",
+                  "text": "O casă de cult catolică situată în cartierul Daeseong-dong din apropierea zonei muntoase Yudalsan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.380022,
+                        34.801531
+                  ]
+            },
+            {
+                  "name": "Jesus Centered Church",
+                  "text": "Un loc de adunare a unei congregații creștine situat lângă relieful montan Yudalsan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.384172,
+                        34.793037
+                  ]
+            },
+            {
+                  "name": "Yeondong Central Church",
+                  "text": "O biserică situată vizibil, care oferă îndrumare spirituală în zona Yeondong.",
+                  "category": "religious",
+                  "coords": [
+                        126.399646,
+                        34.791912
+                  ]
+            },
+            {
+                  "name": "Hangdong market",
+                  "text": "O piață tradițională plină de viață în zona Yudalsan, cunoscută pentru vânzarea de fructe de mare proaspete locale.",
+                  "category": "cultural",
+                  "coords": [
+                        126.385869,
+                        34.785007
+                  ]
+            },
+            {
+                  "name": "Jayu Market",
+                  "text": "Un centru comercial plin de viață lângă Yudalsan, unde comercianții vând o gamă largă de produse tradiționale coreene.",
+                  "category": "cultural",
+                  "coords": [
+                        126.403061,
+                        34.79297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yangeulsan",
+                  "text": "From this prominent mountain peak, hikers can enjoy sweeping views of the coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
+                  "text": "This specialized museum displays interesting exhibits on regional industrial history or local production.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "Gureung Art Museum",
+                  "text": "This art center primarily exhibits the works of talented regional and contemporary artists.",
+                  "category": "cultural",
+                  "coords": [
+                        126.367447,
+                        34.795211
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Cable Car",
+                  "text": "This popular cable car offers passengers breathtaking panoramic views over the sea and the nearby mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "Yudal Mountain",
+                  "text": "This rocky mountain is famous for its bizarre stone formations and sweeping views over the city harbor.",
+                  "category": "natural",
+                  "coords": [
+                        126.372644,
+                        34.789913
+                  ]
+            },
+            {
+                  "name": "Art Theater Warehouse",
+                  "text": "This theater is creatively housed in a converted old warehouse, providing a unique backdrop for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794167
+                  ]
+            },
+            {
+                  "name": "Mokpo culture hall",
+                  "text": "In this museum, visitors can delve deep into the maritime history and cultural roots of the port city.",
+                  "category": "museum",
+                  "coords": [
+                        126.416956,
+                        34.792771
+                  ]
+            },
+            {
+                  "name": "Mokpo Culture & Arts Center",
+                  "text": "Diverse artistic performances and exhibitions are regularly held in this large facility.",
+                  "category": "cultural",
+                  "coords": [
+                        126.418149,
+                        34.792199
+                  ]
+            },
+            {
+                  "name": "Gatbawi",
+                  "text": "These fascinating natural sandstone formations have been weathered by the sea over time into shapes resembling monks wearing traditional hats.",
+                  "category": "landmark",
+                  "coords": [
+                        126.425532,
+                        34.79194
+                  ]
+            },
+            {
+                  "name": "Mokpo Natural History Museum",
+                  "text": "This natural history museum impresses with its extensive dinosaur fossils and detailed ecological exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        126.421029,
+                        34.793893
+                  ]
+            },
+            {
+                  "name": "Korea Saneopdoja Exhibition Hall",
+                  "text": "This exhibition hall is entirely dedicated to showcasing traditional and industrial Korean ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        126.419878,
+                        34.793509
+                  ]
+            },
+            {
+                  "name": "Namnong Memorial Hall",
+                  "text": "This museum honors the life and significant works of the famous traditional Korean painter Namnong.",
+                  "category": "museum",
+                  "coords": [
+                        126.419569,
+                        34.792531
+                  ]
+            },
+            {
+                  "name": "National Haeyang Museum",
+                  "text": "A maritime museum near the Yudalsan Mountain area of Mokpo, showcasing Korea's nautical history and oceanography.",
+                  "category": "museum",
+                  "coords": [
+                        126.421656,
+                        34.791838
+                  ]
+            },
+            {
+                  "name": "Songam Folk Village",
+                  "text": "A traditional theme park near Yudalsan showcasing historical Korean architecture and folk culture.",
+                  "category": "recreational",
+                  "coords": [
+                        126.435469,
+                        34.806989
+                  ]
+            },
+            {
+                  "name": "Meeting Waterfall",
+                  "text": "A scenic cascade in the Yudalsan Mountain area offering a refreshing natural retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        126.439533,
+                        34.803594
+                  ]
+            },
+            {
+                  "name": "Oryongsan (Mt. Oryong)",
+                  "text": "A prominent mountain peak near Mokpo providing sweeping views over the surrounding coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        126.463076,
+                        34.823519
+                  ]
+            },
+            {
+                  "name": "Mokpo Bridge",
+                  "text": "A large bridge crossing the coastal waters to connect Mokpo with its nearby islands.",
+                  "category": "landmark",
+                  "coords": [
+                        126.356835,
+                        34.788742
+                  ]
+            },
+            {
+                  "name": "Mokpo Modern History Museum",
+                  "text": "A museum set in a colonial-era brick building detailing Mokpo's past during the Japanese occupation.",
+                  "category": "museum",
+                  "coords": [
+                        126.382084,
+                        34.787539
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Science Museum",
+                  "text": "An educational center in the Yudalsan area dedicated to regional marine life and oceanic ecosystems.",
+                  "category": "museum",
+                  "coords": [
+                        126.388818,
+                        34.781935
+                  ]
+            },
+            {
+                  "name": "Mokpo Church of Christ",
+                  "text": "A local Christian place of worship serving the community around the Yudalsan mountain relief.",
+                  "category": "landmark",
+                  "coords": [
+                        126.372323,
+                        34.810643
+                  ]
+            },
+            {
+                  "name": "Bukgyodong Catholic Church",
+                  "text": "A Catholic parish church in the Bukgyo-dong neighborhood on the fringes of the Yudalsan mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        126.378228,
+                        34.79325
+                  ]
+            },
+            {
+                  "name": "Daeseongdong Catholic Church",
+                  "text": "A Catholic house of worship located in the Daeseong-dong district near the Yudalsan mountain area.",
+                  "category": "landmark",
+                  "coords": [
+                        126.380022,
+                        34.801531
+                  ]
+            },
+            {
+                  "name": "Jesus Centered Church",
+                  "text": "A Christian congregation's gathering place situated near the Yudalsan mountain relief.",
+                  "category": "landmark",
+                  "coords": [
+                        126.384172,
+                        34.793037
+                  ]
+            },
+            {
+                  "name": "Yeondong Central Church",
+                  "text": "A prominently located church offering spiritual guidance in the Yeondong area.",
+                  "category": "religious",
+                  "coords": [
+                        126.399646,
+                        34.791912
+                  ]
+            },
+            {
+                  "name": "Hangdong market",
+                  "text": "A bustling traditional marketplace in the Yudalsan area, known for selling fresh local seafood and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        126.385869,
+                        34.785007
+                  ]
+            },
+            {
+                  "name": "Jayu Market",
+                  "text": "A lively commercial hub near Yudalsan where vendors sell an array of traditional Korean goods.",
+                  "category": "cultural",
+                  "coords": [
+                        126.403061,
+                        34.79297
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-46",
     coords: [126.37, 34.80],
@@ -483,7 +4353,196 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "sinduri-coastal-dune-relief-v2",
+    id: "sinduri-coastal-dune-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheollipo Arboretum)",
+                  "text": "Ein weltweit bekanntes Arboretum am Meer, das eine riesige Sammlung seltener Pflanzenarten beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.158651,
+                        36.812802
+                  ]
+            },
+            {
+                  "name": "Cheollipo Beach",
+                  "text": "Ein beliebter Sandstrand, der direkt an das berühmte Cheollipo-Arboretum angrenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        126.149883,
+                        36.802233
+                  ]
+            },
+            {
+                  "name": "Baengnipo Beach",
+                  "text": "Eine kleine, friedliche Bucht mit goldenem Sand, ideal für Ruhesuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        126.154528,
+                        36.812073
+                  ]
+            },
+            {
+                  "name": "Mallipo Beach",
+                  "text": "Einer der größten Strände an der Westküste, bekannt für seine weite Sandfläche und gute Surfbedingungen.",
+                  "category": "recreational",
+                  "coords": [
+                        126.140425,
+                        36.786431
+                  ]
+            },
+            {
+                  "name": "Taean National Maritime Museum",
+                  "text": "Dieses Museum zeigt beeindruckende Wracks und Relikte aus dem Gelben Meer.",
+                  "category": "museum",
+                  "coords": [
+                        126.151285,
+                        36.677042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheollipo Arboretum)",
+                  "text": "Világhírű tengerparti arborétum, amely ritka növényfajok hatalmas gyűjteményének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        126.158651,
+                        36.812802
+                  ]
+            },
+            {
+                  "name": "Cheollipo Beach",
+                  "text": "Népszerű homokos tengerpart, amely közvetlenül a híres Cheollipo Arborétum mellett fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        126.149883,
+                        36.802233
+                  ]
+            },
+            {
+                  "name": "Baengnipo Beach",
+                  "text": "Kicsi, békés öböl aranyló homokkal, ideális a nyugalomra vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        126.154528,
+                        36.812073
+                  ]
+            },
+            {
+                  "name": "Mallipo Beach",
+                  "text": "A nyugati part egyik legnagyobb strandja, amely széles homokos partjáról és jó szörfözési feltételeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        126.140425,
+                        36.786431
+                  ]
+            },
+            {
+                  "name": "Taean National Maritime Museum",
+                  "text": "A múzeum a Sárga-tengerből kiemelt lenyűgöző hajóroncsokat és tengeri leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        126.151285,
+                        36.677042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheollipo Arboretum)",
+                  "text": "Un arboretum de renume mondial, situat la malul mării, care găzduiește o colecție uriașă de specii rare de plante.",
+                  "category": "landmark",
+                  "coords": [
+                        126.158651,
+                        36.812802
+                  ]
+            },
+            {
+                  "name": "Cheollipo Beach",
+                  "text": "O plajă de nisip populară, situată chiar lângă faimosul Arboretum Cheollipo.",
+                  "category": "recreational",
+                  "coords": [
+                        126.149883,
+                        36.802233
+                  ]
+            },
+            {
+                  "name": "Baengnipo Beach",
+                  "text": "Un golf mic și liniștit cu nisip auriu, ideal pentru cei care caută relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        126.154528,
+                        36.812073
+                  ]
+            },
+            {
+                  "name": "Mallipo Beach",
+                  "text": "Una dintre cele mai mari plaje de pe coasta de vest, cunoscută pentru întinderea vastă de nisip și condițiile bune de surf.",
+                  "category": "recreational",
+                  "coords": [
+                        126.140425,
+                        36.786431
+                  ]
+            },
+            {
+                  "name": "Taean National Maritime Museum",
+                  "text": "Acest muzeu expune epave impresionante și relicve recuperate din Marea Galbenă.",
+                  "category": "museum",
+                  "coords": [
+                        126.151285,
+                        36.677042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheollipo Arboretum",
+                  "text": "A world-renowned seaside arboretum housing a vast collection of rare plant species.",
+                  "category": "landmark",
+                  "coords": [
+                        126.158651,
+                        36.812802
+                  ]
+            },
+            {
+                  "name": "Cheollipo Beach",
+                  "text": "A popular sandy beach located directly adjacent to the famous Cheollipo Arboretum.",
+                  "category": "recreational",
+                  "coords": [
+                        126.149883,
+                        36.802233
+                  ]
+            },
+            {
+                  "name": "Baengnipo Beach",
+                  "text": "A small, peaceful cove with golden sands, ideal for those seeking a quiet escape.",
+                  "category": "recreational",
+                  "coords": [
+                        126.154528,
+                        36.812073
+                  ]
+            },
+            {
+                  "name": "Mallipo Beach",
+                  "text": "One of the largest West Coast beaches, known for its vast sandy shoreline and surfing conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        126.140425,
+                        36.786431
+                  ]
+            },
+            {
+                  "name": "Taean National Maritime Museum",
+                  "text": "This museum displays impressive shipwrecks and ancient relics recovered from the Yellow Sea.",
+                  "category": "museum",
+                  "coords": [
+                        126.151285,
+                        36.677042
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-44",
     coords: [126.14, 36.75],
@@ -531,7 +4590,1312 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "gyeryongsan-mountain-relief-v2",
+    id: "gyeryongsan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Calvary Chapel",
+                  "text": "Ein modernes christliches Gotteshaus, das Teil der internationalen evangelikalen Calvary-Chapel-Bewegung ist.",
+                  "category": "religious",
+                  "coords": [
+                        127.352596,
+                        36.36055
+                  ]
+            },
+            {
+                  "name": "Dodeokbong",
+                  "text": "Ein markanter Gipfel im Gyeryongsan-Nationalpark, der Wanderern weite Ausblicke über die bewaldeten Gebirgskämme bietet.",
+                  "category": "natural",
+                  "coords": [
+                        127.277865,
+                        36.349025
+                  ]
+            },
+            {
+                  "name": "Geumsubong",
+                  "text": "Ein für seine schroffen Granitformationen bekannter Bergipfel, der ein beliebtes Ziel für Tageswanderungen in Daejeon ist.",
+                  "category": "natural",
+                  "coords": [
+                        127.280978,
+                        36.328917
+                  ]
+            },
+            {
+                  "name": "Ppuri Park",
+                  "text": "Ein einzigartiger Park mit über 100 Skulpturen, die die verschiedenen koreanischen Familiennamen und Ahnengeschichten darstellen.",
+                  "category": "park",
+                  "coords": [
+                        127.388249,
+                        36.284339
+                  ]
+            },
+            {
+                  "name": "Mubuljeongsa Buddhism Exhibition Hall",
+                  "text": "Eine Ausstellungshalle, die seltene buddhistische Artefakte und religiöse Kunstwerke aus der Region Gyeryongsan zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        127.33561,
+                        36.357037
+                  ]
+            },
+            {
+                  "name": "Dongsandogi Museum",
+                  "text": "Ein Museum, das sich der traditionellen koreanischen Töpferkunst und der Entwicklung keramischer Techniken widmet.",
+                  "category": "museum",
+                  "coords": [
+                        127.373938,
+                        36.319046
+                  ]
+            },
+            {
+                  "name": "Hanbat Education Museum",
+                  "text": "Das erste Bildungsmuseum Koreas, untergebracht in einem historischen Backsteingebäude aus den 1930er Jahren.",
+                  "category": "museum",
+                  "coords": [
+                        127.428755,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Buddhism Exhibition Hall",
+                  "text": "Diese Galerie präsentiert eine umfangreiche Sammlung buddhistischer Statuen, Schriften und ritueller Gegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        127.433489,
+                        36.328273
+                  ]
+            },
+            {
+                  "name": "Daejeon Expo Commemorate Center / World Expo Souvenirs Museum",
+                  "text": "Ein Gedenkmuseum zur Weltausstellung 1993, das Souvenirs und technische Errungenschaften der Expo in Daejeon zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        127.388733,
+                        36.376939
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Folk Museum",
+                  "text": "Ein Volkskundemuseum, das Einblicke in den traditionellen koreanischen Lebensstil und die Bräuche am Fuße des Berges Gyeryongsan gibt.",
+                  "category": "museum",
+                  "coords": [
+                        127.258971,
+                        36.372937
+                  ]
+            },
+            {
+                  "name": "Currency Museum",
+                  "text": "Das Währungsmuseum zeigt eine beeindruckende Sammlung von Münzen und Banknoten aus Korea und der ganzen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        127.370552,
+                        36.377519
+                  ]
+            },
+            {
+                  "name": "Geology Museum",
+                  "text": "Ein geologisches Museum mit imposanten Dinosaurierskeletten und einer umfangreichen Sammlung seltener Mineralien.",
+                  "category": "museum",
+                  "coords": [
+                        127.362268,
+                        36.37758
+                  ]
+            },
+            {
+                  "name": "Chungnam National University Museum (N8)",
+                  "text": "Das Universitätsmuseum beherbergt archäologische Funde und historische Dokumente zur regionalen Geschichte der Provinz Chungnam.",
+                  "category": "museum",
+                  "coords": [
+                        127.345382,
+                        36.371136
+                  ]
+            },
+            {
+                  "name": "Daejeon Prehistoric Museum",
+                  "text": "Ein Museum, das sich auf paläolithische und bronzezeitliche Funde aus den Ausgrabungen im Bezirk Noeun-dong spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        127.323865,
+                        36.371836
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Museum of Natural History",
+                  "text": "Dieses naturkundliche Museum ist bekannt für seine lebensgroßen Dinosaurier-Exponate und eine reiche Fossiliensammlung.",
+                  "category": "museum",
+                  "coords": [
+                        127.244815,
+                        36.36639
+                  ]
+            },
+            {
+                  "name": "Shrine of The Gwangsan Kim Clan",
+                  "text": "Ein traditioneller Ahnen-Schrein, der dem Gwangsan-Kim-Clan gewidmet ist und die konfuzianische Ahnenverehrung pflegt.",
+                  "category": "historical",
+                  "coords": [
+                        127.37327,
+                        36.379336
+                  ]
+            },
+            {
+                  "name": "Clock Square(Noeun Station Square)",
+                  "text": "Ein öffentlicher Platz am Bahnhof Noeun, der durch seinen markanten Uhrturm als lokaler Treffpunkt bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        127.318252,
+                        36.374144
+                  ]
+            },
+            {
+                  "name": "Chungnyeolsa (Shrine)",
+                  "text": "Ein patriotischer Schrein, der den Märtyrern der Region gewidmet ist und durch seine traditionelle koreanische Architektur besticht.",
+                  "category": "historical",
+                  "coords": [
+                        127.355667,
+                        36.398006
+                  ]
+            },
+            {
+                  "name": "Teoria Gallery",
+                  "text": "Ein zeitgenössisches Kunstzentrum, das innovative Werke lokaler Künstler in einer modernen Galerieatmosphäre präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        127.335394,
+                        36.29962
+                  ]
+            },
+            {
+                  "name": "Hongin Gallery",
+                  "text": "Diese Kunstgalerie bietet eine Plattform für wechselnde Ausstellungen moderner Malerei und Bildhauerei in Daejeon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.342899,
+                        36.356167
+                  ]
+            },
+            {
+                  "name": "Paichai Sporex Hall",
+                  "text": "Ein modernes Theater auf dem Campus der Paichai-Universität, das für studentische Aufführungen und kulturelle Events genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        127.367074,
+                        36.322055
+                  ]
+            },
+            {
+                  "name": "Gangneung Gallery",
+                  "text": "Ein Kulturzentrum in Daejeon, das den künstlerischen Austausch durch regelmäßige Ausstellungen und Workshops fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        127.396706,
+                        36.321099
+                  ]
+            },
+            {
+                  "name": "Daejeonyeonjeonggukak Cultural Center",
+                  "text": "Ein spezialisiertes Kunstzentrum, das sich der Aufführung und Bewahrung der traditionellen koreanischen Musik (Gukak) widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        127.416092,
+                        36.321871
+                  ]
+            },
+            {
+                  "name": "Igong Gallery",
+                  "text": "Eine etablierte Galerie in der Innenstadt, die für ihre Förderung experimenteller zeitgenössischer Kunst bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426744,
+                        36.325527
+                  ]
+            },
+            {
+                  "name": "Daejeonhyeondae Gallery",
+                  "text": "Diese Galerie konzentriert sich auf moderne koreanische Kunst und bietet Einblicke in aktuelle Trends der regionalen Szene.",
+                  "category": "cultural",
+                  "coords": [
+                        127.423363,
+                        36.325205
+                  ]
+            },
+            {
+                  "name": "Namdo Gallery",
+                  "text": "Ein Kunstzentrum, das Werke von Künstlern aus der Namdo-Region zeigt und den regionalen kulturellen Dialog stärkt.",
+                  "category": "cultural",
+                  "coords": [
+                        127.417353,
+                        36.335064
+                  ]
+            },
+            {
+                  "name": "Won Gallery",
+                  "text": "Eine private Kunstgalerie, die für ihre sorgfältig kuratierten Themenausstellungen zu moderner Bildhauerei bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        127.416502,
+                        36.332653
+                  ]
+            },
+            {
+                  "name": "Daedeokgu Art & Literature Center",
+                  "text": "Das Kulturzentrum des Daedeok-Bezirks, ein lebendiger Ort für Theateraufführungen, Konzerte und lokale Kunstkurse.",
+                  "category": "cultural",
+                  "coords": [
+                        127.420362,
+                        36.37408
+                  ]
+            },
+            {
+                  "name": "Dong Gallery",
+                  "text": "Eine charmante kleine Galerie, die sich auf die Ausstellung junger Nachwuchskünstler aus der Region spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42073,
+                        36.358957
+                  ]
+            },
+            {
+                  "name": "Samik Gallery",
+                  "text": "Eine moderne Kunstgalerie, die einen Schwerpunkt auf visuelle Medien und zeitgenössische Fotografie legt.",
+                  "category": "cultural",
+                  "coords": [
+                        127.448864,
+                        36.359558
+                  ]
+            },
+            {
+                  "name": "Yeojin Buddhism Art Museum",
+                  "text": "Museum für buddhistische Kunst mit einer Sammlung von Statuen und rituellen Reliefs.",
+                  "category": "cultural",
+                  "coords": [
+                        127.406289,
+                        36.410362
+                  ]
+            },
+            {
+                  "name": "Ibeu Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die Werke lokaler koreanischer Künstler präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        127.29667,
+                        36.350181
+                  ]
+            },
+            {
+                  "name": "Catholic Cultural Center",
+                  "text": "Ein katholisches Kulturzentrum, das religiöse Kunstausstellungen und Gemeindeveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426326,
+                        36.327021
+                  ]
+            },
+            {
+                  "name": "[W18] Woosong Art Hall",
+                  "text": "Ein moderner Veranstaltungssaal der Woosong-Universität für Konzerte und künstlerische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        127.446168,
+                        36.336348
+                  ]
+            },
+            {
+                  "name": "Outdoor Theater (W9)",
+                  "text": "Ein Freilufttheater auf dem Campus, das für studentische Aufführungen und kulturelle Festivals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        127.357958,
+                        36.37079
+                  ]
+            },
+            {
+                  "name": "Yean Global Church",
+                  "text": "Eine moderne protestantische Kirche, die als spirituelles Zentrum für die lokale Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        127.321949,
+                        36.367966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Calvary Chapel",
+                  "text": "Modern keresztény imaház, amely a nemzetközi evangéliumi Calvary Chapel mozgalom része.",
+                  "category": "religious",
+                  "coords": [
+                        127.352596,
+                        36.36055
+                  ]
+            },
+            {
+                  "name": "Dodeokbong",
+                  "text": "A Gjerjongszan Nemzeti Park egyik csúcsa, ahonnan pazar kilátás nyílik az erdős hegyvonulatokra.",
+                  "category": "natural",
+                  "coords": [
+                        127.277865,
+                        36.349025
+                  ]
+            },
+            {
+                  "name": "Geumsubong",
+                  "text": "Meredek gránitszikláiról ismert hegycsúcs, amely a Tedzson környéki túrázók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        127.280978,
+                        36.328917
+                  ]
+            },
+            {
+                  "name": "Ppuri Park",
+                  "text": "Különleges park, ahol több mint 100 szobor jelképezi a különböző koreai családneveket és eredetüket.",
+                  "category": "park",
+                  "coords": [
+                        127.388249,
+                        36.284339
+                  ]
+            },
+            {
+                  "name": "Mubuljeongsa Buddhism Exhibition Hall",
+                  "text": "Kiállítóterem, amely a Gjerjongszan régió ritka buddhista műtárgyait és vallási művészeti alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        127.33561,
+                        36.357037
+                  ]
+            },
+            {
+                  "name": "Dongsandogi Museum",
+                  "text": "A hagyományos koreai fazekasművészetnek és a kerámiatechnikák fejlődésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        127.373938,
+                        36.319046
+                  ]
+            },
+            {
+                  "name": "Hanbat Education Museum",
+                  "text": "Korea első oktatási múzeuma, amely egy történelmi, 1930-as évekből származó téglaépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        127.428755,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Buddhism Exhibition Hall",
+                  "text": "Ez a galéria buddhista szobrok, iratok és rituális tárgyak gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        127.433489,
+                        36.328273
+                  ]
+            },
+            {
+                  "name": "Daejeon Expo Commemorate Center / World Expo Souvenirs Museum",
+                  "text": "Az 1993-as világkiállítás emlékhelye, amely az expo emléktárgyait és technikai vívmányait mutatja be Tedzsonban.",
+                  "category": "museum",
+                  "coords": [
+                        127.388733,
+                        36.376939
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Folk Museum",
+                  "text": "Néprajzi múzeum, amely a Gjerjongszan-hegy lábánál élő hagyományos koreai életmódot és szokásokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        127.258971,
+                        36.372937
+                  ]
+            },
+            {
+                  "name": "Currency Museum",
+                  "text": "Pénztörténeti múzeum, amely koreai és a világ minden tájáról származó érmék és bankjegyek lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        127.370552,
+                        36.377519
+                  ]
+            },
+            {
+                  "name": "Geology Museum",
+                  "text": "Földtani múzeum impozáns dinoszauruszcsontvázakkal és ritka ásványok kiterjedt gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        127.362268,
+                        36.37758
+                  ]
+            },
+            {
+                  "name": "Chungnam National University Museum (N8)",
+                  "text": "Az egyetemi múzeum Cshungnam tartomány regionális történelméhez kapcsolódó régészeti leleteket és dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        127.345382,
+                        36.371136
+                  ]
+            },
+            {
+                  "name": "Daejeon Prehistoric Museum",
+                  "text": "Múzeum, amely a Noeun-dong negyedben feltárt paleolitikumi és bronzkori leletek bemutatására szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        127.323865,
+                        36.371836
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Museum of Natural History",
+                  "text": "Ez a természettudományi múzeum az élethű dinoszaurusz-kiállításairól és gazdag kövületgyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        127.244815,
+                        36.36639
+                  ]
+            },
+            {
+                  "name": "Shrine of The Gwangsan Kim Clan",
+                  "text": "Hagyományos ősi szentély a Gvangszan Kim klán tiszteletére, ahol a konfuciánus ősök tiszteletét gyakorolják.",
+                  "category": "historical",
+                  "coords": [
+                        127.37327,
+                        36.379336
+                  ]
+            },
+            {
+                  "name": "Clock Square(Noeun Station Square)",
+                  "text": "Közösségi tér a Noeun állomásnál, amely jellegzetes óratornyáról és helyi találkozóhelyként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        127.318252,
+                        36.374144
+                  ]
+            },
+            {
+                  "name": "Chungnyeolsa (Shrine)",
+                  "text": "A régió mártírjainak szentelt hazafias emlékhely, amely hagyományos koreai építészetével tűnik ki.",
+                  "category": "historical",
+                  "coords": [
+                        127.355667,
+                        36.398006
+                  ]
+            },
+            {
+                  "name": "Teoria Gallery",
+                  "text": "Kortárs művészeti központ, amely helyi művészek innovatív alkotásait mutatja be modern galériai környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        127.335394,
+                        36.29962
+                  ]
+            },
+            {
+                  "name": "Hongin Gallery",
+                  "text": "Ez a galéria változatos kiállításoknak ad otthont a modern festészet és szobrászat területén Tedzsonban.",
+                  "category": "cultural",
+                  "coords": [
+                        127.342899,
+                        36.356167
+                  ]
+            },
+            {
+                  "name": "Paichai Sporex Hall",
+                  "text": "A Paichai Egyetem kampuszán található modern színházterem, amely diákprodukcióknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        127.367074,
+                        36.322055
+                  ]
+            },
+            {
+                  "name": "Gangneung Gallery",
+                  "text": "Tedzsoni művészeti központ, amely rendszeres kiállításokkal és műhelyfoglalkozásokkal segíti a kulturális cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        127.396706,
+                        36.321099
+                  ]
+            },
+            {
+                  "name": "Daejeonyeonjeonggukak Cultural Center",
+                  "text": "A hagyományos koreai zene (Gukak) előadására és megőrzésére szakosodott kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        127.416092,
+                        36.321871
+                  ]
+            },
+            {
+                  "name": "Igong Gallery",
+                  "text": "A belvárosban található galéria, amely a kísérleti kortárs művészet támogatásáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426744,
+                        36.325527
+                  ]
+            },
+            {
+                  "name": "Daejeonhyeondae Gallery",
+                  "text": "Ez a galéria a modern koreai művészetre összpontosít, és betekintést nyújt a regionális szcéna legújabb irányaiba.",
+                  "category": "cultural",
+                  "coords": [
+                        127.423363,
+                        36.325205
+                  ]
+            },
+            {
+                  "name": "Namdo Gallery",
+                  "text": "Művészeti központ, amely a Namdo régióból származó alkotók műveit mutatja be, erősítve a helyi kulturális párbeszédet.",
+                  "category": "cultural",
+                  "coords": [
+                        127.417353,
+                        36.335064
+                  ]
+            },
+            {
+                  "name": "Won Gallery",
+                  "text": "Magángaléria, amely a modern szobrászattal kapcsolatos, gondosan válogatott tematikus kiállításairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        127.416502,
+                        36.332653
+                  ]
+            },
+            {
+                  "name": "Daedeokgu Art & Literature Center",
+                  "text": "Tedok-ku kulturális központja, amely színházi előadások, koncertek és helyi művészeti képzések élénk színhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        127.420362,
+                        36.37408
+                  ]
+            },
+            {
+                  "name": "Dong Gallery",
+                  "text": "Bájos kis galéria, amely a régió fiatal, feltörekvő művészeinek bemutatására szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42073,
+                        36.358957
+                  ]
+            },
+            {
+                  "name": "Samik Gallery",
+                  "text": "Modern művészeti galéria, amely a vizuális médiára és a kortárs fotográfiára helyezi a hangsúlyt.",
+                  "category": "cultural",
+                  "coords": [
+                        127.448864,
+                        36.359558
+                  ]
+            },
+            {
+                  "name": "Yeojin Buddhism Art Museum",
+                  "text": "Buddhista művészeti múzeum szobrokkal és rituális domborművekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        127.406289,
+                        36.410362
+                  ]
+            },
+            {
+                  "name": "Ibeu Gallery",
+                  "text": "Kortárs művészeti galéria, amely helyi koreai művészek alkotásait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        127.29667,
+                        36.350181
+                  ]
+            },
+            {
+                  "name": "Catholic Cultural Center",
+                  "text": "Katolikus kulturális központ, amely vallási művészeti kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426326,
+                        36.327021
+                  ]
+            },
+            {
+                  "name": "[W18] Woosong Art Hall",
+                  "text": "A Woosong Egyetem modern előadóterme koncertekhez és művészeti előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        127.446168,
+                        36.336348
+                  ]
+            },
+            {
+                  "name": "Outdoor Theater (W9)",
+                  "text": "Szabadtéri színház az egyetemi campuson, amelyet hallgatói előadásokra és kulturális fesztiválokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        127.357958,
+                        36.37079
+                  ]
+            },
+            {
+                  "name": "Yean Global Church",
+                  "text": "Modern protestáns templom, amely a helyi közösség spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        127.321949,
+                        36.367966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Calvary Chapel",
+                  "text": "Un lăcaș de cult creștin modern, care face parte din mișcarea evanghelică internațională Calvary Chapel.",
+                  "category": "religious",
+                  "coords": [
+                        127.352596,
+                        36.36055
+                  ]
+            },
+            {
+                  "name": "Dodeokbong",
+                  "text": "Un vârf proeminent din Parcul Național Gyeryongsan, oferind drumeților vederi panoramice peste crestele muntoase împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        127.277865,
+                        36.349025
+                  ]
+            },
+            {
+                  "name": "Geumsubong",
+                  "text": "Un vârf muntos cunoscut pentru formațiunile sale de granit abrupte, fiind o destinație populară pentru drumeții în Daejeon.",
+                  "category": "natural",
+                  "coords": [
+                        127.280978,
+                        36.328917
+                  ]
+            },
+            {
+                  "name": "Ppuri Park",
+                  "text": "Un parc unic cu peste 100 de sculpturi care reprezintă diferitele nume de familie coreene și originile acestora.",
+                  "category": "park",
+                  "coords": [
+                        127.388249,
+                        36.284339
+                  ]
+            },
+            {
+                  "name": "Mubuljeongsa Buddhism Exhibition Hall",
+                  "text": "O sală de expoziții care prezintă artefacte budiste rare și opere de artă religioasă din regiunea Gyeryongsan.",
+                  "category": "museum",
+                  "coords": [
+                        127.33561,
+                        36.357037
+                  ]
+            },
+            {
+                  "name": "Dongsandogi Museum",
+                  "text": "Un muzeu dedicat olăritului tradițional coreean și evoluției tehnicilor ceramice.",
+                  "category": "museum",
+                  "coords": [
+                        127.373938,
+                        36.319046
+                  ]
+            },
+            {
+                  "name": "Hanbat Education Museum",
+                  "text": "Primul muzeu al educației din Coreea, găzduit într-o clădire istorică din cărămidă din anii 1930.",
+                  "category": "museum",
+                  "coords": [
+                        127.428755,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Buddhism Exhibition Hall",
+                  "text": "Această galerie prezintă o colecție bogată de statui budiste, scrieri și obiecte ritualice.",
+                  "category": "museum",
+                  "coords": [
+                        127.433489,
+                        36.328273
+                  ]
+            },
+            {
+                  "name": "Daejeon Expo Commemorate Center / World Expo Souvenirs Museum",
+                  "text": "Un muzeu comemorativ al Expoziției Mondiale din 1993, care expune suveniruri și realizări tehnice de la Expo din Daejeon.",
+                  "category": "museum",
+                  "coords": [
+                        127.388733,
+                        36.376939
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Folk Museum",
+                  "text": "Un muzeu de folclor care oferă perspective asupra stilului de viață tradițional coreean și a obiceiurilor de la poalele muntelui Gyeryongsan.",
+                  "category": "museum",
+                  "coords": [
+                        127.258971,
+                        36.372937
+                  ]
+            },
+            {
+                  "name": "Currency Museum",
+                  "text": "Muzeul Valutar prezintă o colecție impresionantă de monede și bancnote din Coreea și din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        127.370552,
+                        36.377519
+                  ]
+            },
+            {
+                  "name": "Geology Museum",
+                  "text": "Un muzeu geologic care prezintă schelete impresionante de dinozauri și o colecție vastă de minerale rare.",
+                  "category": "museum",
+                  "coords": [
+                        127.362268,
+                        36.37758
+                  ]
+            },
+            {
+                  "name": "Chungnam National University Museum (N8)",
+                  "text": "Muzeul universitar găzduiește descoperiri arheologice și documente istorice legate de istoria regională a provinciei Chungnam.",
+                  "category": "museum",
+                  "coords": [
+                        127.345382,
+                        36.371136
+                  ]
+            },
+            {
+                  "name": "Daejeon Prehistoric Museum",
+                  "text": "Un muzeu specializat în descoperiri din paleolitic și epoca bronzului, provenite din excavațiile din districtul Noeun-dong.",
+                  "category": "museum",
+                  "coords": [
+                        127.323865,
+                        36.371836
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Museum of Natural History",
+                  "text": "Acest muzeu de istorie naturală este cunoscut pentru exponatele sale cu dinozauri în mărime naturală și o colecție bogată de fosile.",
+                  "category": "museum",
+                  "coords": [
+                        127.244815,
+                        36.36639
+                  ]
+            },
+            {
+                  "name": "Shrine of The Gwangsan Kim Clan",
+                  "text": "Un altar ancestral tradițional dedicat clanului Gwangsan Kim, care păstrează ritualurile confucianiste de venerare a strămoșilor.",
+                  "category": "historical",
+                  "coords": [
+                        127.37327,
+                        36.379336
+                  ]
+            },
+            {
+                  "name": "Clock Square(Noeun Station Square)",
+                  "text": "O piață publică lângă stația Noeun, cunoscută ca punct de întâlnire local datorită turnului său cu ceas distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        127.318252,
+                        36.374144
+                  ]
+            },
+            {
+                  "name": "Chungnyeolsa (Shrine)",
+                  "text": "Un altar patriotic dedicat martirilor regiunii, remarcabil prin arhitectura sa tradițională coreeană.",
+                  "category": "historical",
+                  "coords": [
+                        127.355667,
+                        36.398006
+                  ]
+            },
+            {
+                  "name": "Teoria Gallery",
+                  "text": "Un centru de artă contemporană care prezintă lucrări inovatoare ale artiștilor locali într-o atmosferă de galerie modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        127.335394,
+                        36.29962
+                  ]
+            },
+            {
+                  "name": "Hongin Gallery",
+                  "text": "Această galerie de artă oferă o platformă pentru expoziții temporare de pictură și sculptură modernă în Daejeon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.342899,
+                        36.356167
+                  ]
+            },
+            {
+                  "name": "Paichai Sporex Hall",
+                  "text": "Un teatru modern în campusul Universității Paichai, utilizat pentru spectacole studențești și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.367074,
+                        36.322055
+                  ]
+            },
+            {
+                  "name": "Gangneung Gallery",
+                  "text": "Un centru de artă din Daejeon care promovează schimbul cultural prin expoziții regulate și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        127.396706,
+                        36.321099
+                  ]
+            },
+            {
+                  "name": "Daejeonyeonjeonggukak Cultural Center",
+                  "text": "Un centru cultural specializat dedicat interpretării și conservării muzicii tradiționale coreene (Gukak).",
+                  "category": "cultural",
+                  "coords": [
+                        127.416092,
+                        36.321871
+                  ]
+            },
+            {
+                  "name": "Igong Gallery",
+                  "text": "O galerie consacrată din centrul orașului, cunoscută pentru promovarea artei contemporane experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426744,
+                        36.325527
+                  ]
+            },
+            {
+                  "name": "Daejeonhyeondae Gallery",
+                  "text": "Această galerie se concentrează pe arta coreeană modernă și oferă perspective asupra tendințelor actuale din scena regională.",
+                  "category": "cultural",
+                  "coords": [
+                        127.423363,
+                        36.325205
+                  ]
+            },
+            {
+                  "name": "Namdo Gallery",
+                  "text": "Un centru de artă care expune lucrări ale artiștilor din regiunea Namdo și consolidează dialogul cultural regional.",
+                  "category": "cultural",
+                  "coords": [
+                        127.417353,
+                        36.335064
+                  ]
+            },
+            {
+                  "name": "Won Gallery",
+                  "text": "O galerie de artă privată, cunoscută pentru expozițiile sale tematice atent curatoriate despre sculptura modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        127.416502,
+                        36.332653
+                  ]
+            },
+            {
+                  "name": "Daedeokgu Art & Literature Center",
+                  "text": "Centrul cultural al districtului Daedeok, un loc vibrant pentru spectacole de teatru, concerte și cursuri de artă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.420362,
+                        36.37408
+                  ]
+            },
+            {
+                  "name": "Dong Gallery",
+                  "text": "O galerie mică și fermecătoare, specializată în expunerea tinerilor artiști în curs de afirmare din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42073,
+                        36.358957
+                  ]
+            },
+            {
+                  "name": "Samik Gallery",
+                  "text": "O galerie de artă modernă care pune accent pe media vizuală și fotografia contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        127.448864,
+                        36.359558
+                  ]
+            },
+            {
+                  "name": "Yeojin Buddhism Art Museum",
+                  "text": "Muzeu de artă budistă ce adăpostește o colecție de statui și reliefuri ritualice.",
+                  "category": "cultural",
+                  "coords": [
+                        127.406289,
+                        36.410362
+                  ]
+            },
+            {
+                  "name": "Ibeu Gallery",
+                  "text": "O galerie de artă contemporană care prezintă lucrările artiștilor coreeni locali.",
+                  "category": "cultural",
+                  "coords": [
+                        127.29667,
+                        36.350181
+                  ]
+            },
+            {
+                  "name": "Catholic Cultural Center",
+                  "text": "Centru cultural catolic care găzduiește expoziții de artă religioasă și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426326,
+                        36.327021
+                  ]
+            },
+            {
+                  "name": "[W18] Woosong Art Hall",
+                  "text": "O sală de spectacole modernă a Universității Woosong pentru concerte și reprezentații artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        127.446168,
+                        36.336348
+                  ]
+            },
+            {
+                  "name": "Outdoor Theater (W9)",
+                  "text": "Teatru în aer liber în campusul universitar, utilizat pentru spectacole studențești și festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.357958,
+                        36.37079
+                  ]
+            },
+            {
+                  "name": "Yean Global Church",
+                  "text": "O biserică protestantă modernă care servește ca centru spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        127.321949,
+                        36.367966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Calvary Chapel",
+                  "text": "A modern Christian place of worship belonging to the international evangelical Calvary Chapel movement.",
+                  "category": "religious",
+                  "coords": [
+                        127.352596,
+                        36.36055
+                  ]
+            },
+            {
+                  "name": "Dodeokbong",
+                  "text": "A prominent peak within Gyeryongsan National Park, offering hikers expansive views over the forested mountain ridges.",
+                  "category": "natural",
+                  "coords": [
+                        127.277865,
+                        36.349025
+                  ]
+            },
+            {
+                  "name": "Geumsubong",
+                  "text": "A mountain peak known for its rugged granite formations, serving as a popular destination for day hikes in Daejeon.",
+                  "category": "natural",
+                  "coords": [
+                        127.280978,
+                        36.328917
+                  ]
+            },
+            {
+                  "name": "Ppuri Park",
+                  "text": "A unique park featuring over 100 sculptures representing different Korean family surnames and ancestral lineages.",
+                  "category": "park",
+                  "coords": [
+                        127.388249,
+                        36.284339
+                  ]
+            },
+            {
+                  "name": "Mubuljeongsa Buddhism Exhibition Hall",
+                  "text": "An exhibition hall displaying rare Buddhist artifacts and religious artworks from the Gyeryongsan region.",
+                  "category": "museum",
+                  "coords": [
+                        127.33561,
+                        36.357037
+                  ]
+            },
+            {
+                  "name": "Dongsandogi Museum",
+                  "text": "A museum dedicated to traditional Korean pottery and the development of ceramic techniques.",
+                  "category": "museum",
+                  "coords": [
+                        127.373938,
+                        36.319046
+                  ]
+            },
+            {
+                  "name": "Hanbat Education Museum",
+                  "text": "The first education museum in Korea, housed in a historic 1930s brick building.",
+                  "category": "museum",
+                  "coords": [
+                        127.428755,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Buddhism Exhibition Hall",
+                  "text": "This gallery presents an extensive collection of Buddhist statues, scriptures, and ritual objects.",
+                  "category": "museum",
+                  "coords": [
+                        127.433489,
+                        36.328273
+                  ]
+            },
+            {
+                  "name": "Daejeon Expo Commemorate Center / World Expo Souvenirs Museum",
+                  "text": "A commemorative museum for the 1993 World Expo, displaying souvenirs and technical achievements from the Daejeon event.",
+                  "category": "museum",
+                  "coords": [
+                        127.388733,
+                        36.376939
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Folk Museum",
+                  "text": "A folk museum providing insights into traditional Korean lifestyles and customs at the foot of Gyeryongsan Mountain.",
+                  "category": "museum",
+                  "coords": [
+                        127.258971,
+                        36.372937
+                  ]
+            },
+            {
+                  "name": "Currency Museum",
+                  "text": "The Currency Museum displays an impressive collection of coins and banknotes from Korea and around the world.",
+                  "category": "museum",
+                  "coords": [
+                        127.370552,
+                        36.377519
+                  ]
+            },
+            {
+                  "name": "Geology Museum",
+                  "text": "A geology museum featuring impressive dinosaur skeletons and a vast collection of rare minerals.",
+                  "category": "museum",
+                  "coords": [
+                        127.362268,
+                        36.37758
+                  ]
+            },
+            {
+                  "name": "Chungnam National University Museum (N8)",
+                  "text": "The university museum houses archaeological finds and historical documents related to the regional history of Chungnam province.",
+                  "category": "museum",
+                  "coords": [
+                        127.345382,
+                        36.371136
+                  ]
+            },
+            {
+                  "name": "Daejeon Prehistoric Museum",
+                  "text": "A museum specializing in Paleolithic and Bronze Age finds from excavations in the Noeun-dong district.",
+                  "category": "museum",
+                  "coords": [
+                        127.323865,
+                        36.371836
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan Museum of Natural History",
+                  "text": "This natural history museum is known for its life-sized dinosaur exhibits and a rich collection of fossils.",
+                  "category": "museum",
+                  "coords": [
+                        127.244815,
+                        36.36639
+                  ]
+            },
+            {
+                  "name": "Shrine of The Gwangsan Kim Clan",
+                  "text": "A traditional ancestral shrine dedicated to the Gwangsan Kim clan, maintaining Confucian rites of ancestor worship.",
+                  "category": "historical",
+                  "coords": [
+                        127.37327,
+                        36.379336
+                  ]
+            },
+            {
+                  "name": "Clock Square(Noeun Station Square)",
+                  "text": "A public square at Noeun Station, known as a local meeting point due to its prominent clock tower.",
+                  "category": "historical",
+                  "coords": [
+                        127.318252,
+                        36.374144
+                  ]
+            },
+            {
+                  "name": "Chungnyeolsa (Shrine)",
+                  "text": "A patriotic shrine dedicated to the region's martyrs, distinguished by its traditional Korean architecture.",
+                  "category": "historical",
+                  "coords": [
+                        127.355667,
+                        36.398006
+                  ]
+            },
+            {
+                  "name": "Teoria Gallery",
+                  "text": "A contemporary arts centre presenting innovative works by local artists in a modern gallery setting.",
+                  "category": "cultural",
+                  "coords": [
+                        127.335394,
+                        36.29962
+                  ]
+            },
+            {
+                  "name": "Hongin Gallery",
+                  "text": "This art gallery provides a platform for rotating exhibitions of modern painting and sculpture in Daejeon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.342899,
+                        36.356167
+                  ]
+            },
+            {
+                  "name": "Paichai Sporex Hall",
+                  "text": "A modern theatre on the Paichai University campus, used for student performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        127.367074,
+                        36.322055
+                  ]
+            },
+            {
+                  "name": "Gangneung Gallery",
+                  "text": "An arts centre in Daejeon promoting cultural exchange through regular exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        127.396706,
+                        36.321099
+                  ]
+            },
+            {
+                  "name": "Daejeonyeonjeonggukak Cultural Center",
+                  "text": "A specialized arts centre dedicated to the performance and preservation of traditional Korean music (Gukak).",
+                  "category": "cultural",
+                  "coords": [
+                        127.416092,
+                        36.321871
+                  ]
+            },
+            {
+                  "name": "Igong Gallery",
+                  "text": "An established downtown gallery known for its promotion of experimental contemporary art.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426744,
+                        36.325527
+                  ]
+            },
+            {
+                  "name": "Daejeonhyeondae Gallery",
+                  "text": "This gallery focuses on modern Korean art and provides insights into current trends in the regional scene.",
+                  "category": "cultural",
+                  "coords": [
+                        127.423363,
+                        36.325205
+                  ]
+            },
+            {
+                  "name": "Namdo Gallery",
+                  "text": "An arts centre showcasing works by artists from the Namdo region and strengthening regional cultural dialogue.",
+                  "category": "cultural",
+                  "coords": [
+                        127.417353,
+                        36.335064
+                  ]
+            },
+            {
+                  "name": "Won Gallery",
+                  "text": "A private art gallery known for its carefully curated themed exhibitions on modern sculpture.",
+                  "category": "cultural",
+                  "coords": [
+                        127.416502,
+                        36.332653
+                  ]
+            },
+            {
+                  "name": "Daedeokgu Art & Literature Center",
+                  "text": "The cultural center of the Daedeok district, a vibrant venue for theatre performances, concerts, and local art classes.",
+                  "category": "cultural",
+                  "coords": [
+                        127.420362,
+                        36.37408
+                  ]
+            },
+            {
+                  "name": "Dong Gallery",
+                  "text": "A charming small gallery specialized in exhibiting young, emerging artists from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42073,
+                        36.358957
+                  ]
+            },
+            {
+                  "name": "Samik Gallery",
+                  "text": "A modern art gallery that places an emphasis on visual media and contemporary photography.",
+                  "category": "cultural",
+                  "coords": [
+                        127.448864,
+                        36.359558
+                  ]
+            },
+            {
+                  "name": "Yeojin Buddhism Art Museum",
+                  "text": "A Buddhist art museum showcasing a collection of traditional sculptures and ritual reliefs.",
+                  "category": "cultural",
+                  "coords": [
+                        127.406289,
+                        36.410362
+                  ]
+            },
+            {
+                  "name": "Ibeu Gallery",
+                  "text": "A contemporary art gallery showcasing works by local Korean artists.",
+                  "category": "cultural",
+                  "coords": [
+                        127.29667,
+                        36.350181
+                  ]
+            },
+            {
+                  "name": "Catholic Cultural Center",
+                  "text": "A Catholic cultural center hosting religious art exhibitions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        127.426326,
+                        36.327021
+                  ]
+            },
+            {
+                  "name": "[W18] Woosong Art Hall",
+                  "text": "A modern performance hall at Woosong University used for concerts and artistic shows.",
+                  "category": "cultural",
+                  "coords": [
+                        127.446168,
+                        36.336348
+                  ]
+            },
+            {
+                  "name": "Outdoor Theater (W9)",
+                  "text": "An open-air theater on the university campus used for student performances and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        127.357958,
+                        36.37079
+                  ]
+            },
+            {
+                  "name": "Yean Global Church",
+                  "text": "A modern Protestant church serving as a spiritual hub for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        127.321949,
+                        36.367966
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-30",
     coords: [127.34, 36.35],
@@ -579,7 +5943,88 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "juwang-valley-relief-v2",
+    id: "juwang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheongsong Folk Museum",
+                  "text": "Ein Museum, das traditionelle bäuerliche Lebensweisen und lokale Bräuche bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        129.083435,
+                        36.389787
+                  ]
+            },
+            {
+                  "name": "Gullipcheongsongyasong Art Museum",
+                  "text": "Dieses Kunstzentrum in der Nähe des Juwangsan-Nationalparks zeigt großformatige Tuschemalereien des Künstlers Lee Won-jwa.",
+                  "category": "cultural",
+                  "coords": [
+                        129.1195,
+                        36.50545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheongsong Folk Museum",
+                  "text": "A hagyományos paraszti életmódot és helyi szokásokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        129.083435,
+                        36.389787
+                  ]
+            },
+            {
+                  "name": "Gullipcheongsongyasong Art Museum",
+                  "text": "Ez a művészeti központ a Juwangsan Nemzeti Park közelében Lee Von-dzsva művész nagyszabású tusfestményeit mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        129.1195,
+                        36.50545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheongsong Folk Museum",
+                  "text": "Un muzeu care conservă stilul de viață rural tradițional și obiceiurile locale.",
+                  "category": "museum",
+                  "coords": [
+                        129.083435,
+                        36.389787
+                  ]
+            },
+            {
+                  "name": "Gullipcheongsongyasong Art Museum",
+                  "text": "Acest centru de artă de lângă Parcul Național Juwangsan expune picturi în tuș la scară largă ale artistului Lee Won-jwa.",
+                  "category": "cultural",
+                  "coords": [
+                        129.1195,
+                        36.50545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheongsong Folk Museum",
+                  "text": "A museum preserving traditional rural lifestyles and local customs.",
+                  "category": "museum",
+                  "coords": [
+                        129.083435,
+                        36.389787
+                  ]
+            },
+            {
+                  "name": "Gullipcheongsongyasong Art Museum",
+                  "text": "This arts centre near Juwangsan National Park showcases large-scale ink wash paintings by the artist Lee Won-jwa.",
+                  "category": "cultural",
+                  "coords": [
+                        129.1195,
+                        36.50545
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KR-47",
     coords: [129.15, 36.42],
@@ -627,7 +6072,52 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "cheongnyangsan-mountain-relief-v2",
+    id: "cheongnyangsan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heungnyunsa",
+                  "text": "Ein ruhiger buddhistischer Tempel, eingebettet in das dramatische felsige Gelände und die tiefen Täler der Bergregion Cheongnyangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.940777,
+                        36.947456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heungnyunsa",
+                  "text": "Csendes buddhista templom a Cheongnyangsan hegyvidék drámai sziklás terepén és mély völgyeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        128.940777,
+                        36.947456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heungnyunsa",
+                  "text": "Un templu budist liniștit, cuibărit în terenul stâncos spectaculos și văile adânci ale regiunii muntoase Cheongnyangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.940777,
+                        36.947456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heungnyunsa",
+                  "text": "A tranquil Buddhist temple nestled within the dramatic rocky terrain and deep valleys of the Cheongnyangsan Mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        128.940777,
+                        36.947456
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-47",
     coords: [128.97, 36.88],
@@ -675,7 +6165,160 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "homigot-cape-coast-relief-v2",
+    id: "homigot-cape-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Lighthouse Museum",
+                  "text": "Es ist das einzige Museum Koreas, das ausschließlich der Geschichte der maritimen Leuchtsignale gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        129.568515,
+                        36.077813
+                  ]
+            },
+            {
+                  "name": "Yeongil Bay",
+                  "text": "Die weite Bucht ist bekannt für ihre Industrielandschaft und die jährlichen Sonnenaufgangsfeste.",
+                  "category": "landmark",
+                  "coords": [
+                        129.459155,
+                        36.054267
+                  ]
+            },
+            {
+                  "name": "Guryongpo Beach",
+                  "text": "Der Sandstrand liegt direkt neben einem historischen Viertel mit Häusern im japanischen Kolonialstil.",
+                  "category": "recreational",
+                  "coords": [
+                        129.566443,
+                        35.997214
+                  ]
+            },
+            {
+                  "name": "Samjeong Beach",
+                  "text": "Diese ruhige Bucht zeichnet sich durch eine Mischung aus Sand und vulkanischen Kieselsteinen aus.",
+                  "category": "recreational",
+                  "coords": [
+                        129.571327,
+                        36.003124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Lighthouse Museum",
+                  "text": "Ez Korea egyetlen múzeuma, amelyet kizárólag a tengeri fényjelzések történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        129.568515,
+                        36.077813
+                  ]
+            },
+            {
+                  "name": "Yeongil Bay",
+                  "text": "A tágas öböl ipari tájáról és az éves napfelkelte-fesztiválokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        129.459155,
+                        36.054267
+                  ]
+            },
+            {
+                  "name": "Guryongpo Beach",
+                  "text": "A homokos tengerpart közvetlenül egy japán gyarmati stílusú házakból álló történelmi negyed mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        129.566443,
+                        35.997214
+                  ]
+            },
+            {
+                  "name": "Samjeong Beach",
+                  "text": "Ez a csendes öböl a homok és a vulkáni kavicsok keverékével tűnik ki.",
+                  "category": "recreational",
+                  "coords": [
+                        129.571327,
+                        36.003124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Lighthouse Museum",
+                  "text": "Este singurul muzeu din Coreea dedicat exclusiv istoriei semnalelor luminoase maritime.",
+                  "category": "museum",
+                  "coords": [
+                        129.568515,
+                        36.077813
+                  ]
+            },
+            {
+                  "name": "Yeongil Bay",
+                  "text": "Golful vast este cunoscut pentru peisajul său industrial și festivalurile anuale ale răsăritului de soare.",
+                  "category": "landmark",
+                  "coords": [
+                        129.459155,
+                        36.054267
+                  ]
+            },
+            {
+                  "name": "Guryongpo Beach",
+                  "text": "Plaja cu nisip este situată chiar lângă un cartier istoric cu case în stil colonial japonez.",
+                  "category": "recreational",
+                  "coords": [
+                        129.566443,
+                        35.997214
+                  ]
+            },
+            {
+                  "name": "Samjeong Beach",
+                  "text": "Acest golf liniștit se caracterizează printr-un amestec de nisip și pietriș vulcanic.",
+                  "category": "recreational",
+                  "coords": [
+                        129.571327,
+                        36.003124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Lighthouse Museum",
+                  "text": "This is Korea's only museum dedicated exclusively to the history of maritime light signals.",
+                  "category": "museum",
+                  "coords": [
+                        129.568515,
+                        36.077813
+                  ]
+            },
+            {
+                  "name": "Yeongil Bay",
+                  "text": "The wide bay is known for its industrial landscape and annual sunrise festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        129.459155,
+                        36.054267
+                  ]
+            },
+            {
+                  "name": "Guryongpo Beach",
+                  "text": "The sandy beach is located right next to a historic neighborhood of Japanese colonial-style houses.",
+                  "category": "recreational",
+                  "coords": [
+                        129.566443,
+                        35.997214
+                  ]
+            },
+            {
+                  "name": "Samjeong Beach",
+                  "text": "This quiet cove features a distinct mix of sand and volcanic pebbles along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        129.571327,
+                        36.003124
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-47",
     coords: [129.56, 36.07],
@@ -723,7 +6366,88 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "danyang-dodam-sambong-peaks-relief-v2",
+    id: "danyang-dodam-sambong-peaks-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guinsa",
+                  "text": "Der Haupttempel des Cheontae-Ordens, der beeindruckend in einem schmalen Bergtal liegt.",
+                  "category": "religious",
+                  "coords": [
+                        128.479661,
+                        37.03129
+                  ]
+            },
+            {
+                  "name": "Suyanggye Museum",
+                  "text": "Ein Museum am Namhan-Fluss, das paläolithische Artefakte der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        128.331759,
+                        36.959491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guinsa",
+                  "text": "A Cshonte rend főtemploma, amely látványosan egy szűk hegyi völgyben fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        128.479661,
+                        37.03129
+                  ]
+            },
+            {
+                  "name": "Suyanggye Museum",
+                  "text": "A Namhan-folyó menti múzeum, amely a régió paleolit leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        128.331759,
+                        36.959491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guinsa",
+                  "text": "Templul principal al ordinului Cheontae, situat spectaculos într-o vale montană îngustă.",
+                  "category": "religious",
+                  "coords": [
+                        128.479661,
+                        37.03129
+                  ]
+            },
+            {
+                  "name": "Suyanggye Museum",
+                  "text": "Un muzeu de pe malul râului Namhan, care expune artefacte paleolitice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        128.331759,
+                        36.959491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guinsa",
+                  "text": "The head temple of the Cheontae order, impressively nestled in a narrow mountain valley.",
+                  "category": "religious",
+                  "coords": [
+                        128.479661,
+                        37.03129
+                  ]
+            },
+            {
+                  "name": "Suyanggye Museum",
+                  "text": "A museum by the Namhan River displaying Paleolithic artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        128.331759,
+                        36.959491
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-43",
     coords: [128.37, 37.03],
@@ -771,7 +6495,88 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "gariwangsan-mountain-relief-v2",
+    id: "gariwangsan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daehwa Catholic Church",
+                  "text": "Die katholische Kirche Daehwa ist ein christliches Gotteshaus in der malerischen Region des Berges Gariwangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.45672,
+                        37.495865
+                  ]
+            },
+            {
+                  "name": "Hyangcheonsa",
+                  "text": "Hyangcheonsa ist ein traditioneller buddhistischer Tempelkomplex nahe den Hängen des Berges Gariwangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.659736,
+                        37.449025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daehwa Catholic Church",
+                  "text": "A Daehwa katolikus templom egy keresztény istentiszteleti hely a Gariwangsan-hegy festői régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.45672,
+                        37.495865
+                  ]
+            },
+            {
+                  "name": "Hyangcheonsa",
+                  "text": "A Hyangcheonsa egy hagyományos buddhista templomkomplexum a Gariwangsan-hegy lejtőinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        128.659736,
+                        37.449025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daehwa Catholic Church",
+                  "text": "Biserica Catolică Daehwa este un lăcaș de cult creștin situat în regiunea pitorească a muntelui Gariwangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.45672,
+                        37.495865
+                  ]
+            },
+            {
+                  "name": "Hyangcheonsa",
+                  "text": "Hyangcheonsa este un complex tradițional de temple budiste situat lângă versanții muntelui Gariwangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.659736,
+                        37.449025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daehwa Catholic Church",
+                  "text": "Daehwa Catholic Church is a Christian place of worship nestled in the scenic region of Gariwangsan Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        128.45672,
+                        37.495865
+                  ]
+            },
+            {
+                  "name": "Hyangcheonsa",
+                  "text": "Hyangcheonsa is a traditional Buddhist temple complex situated near the slopes of Gariwangsan Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        128.659736,
+                        37.449025
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-42",
     coords: [128.55, 37.45],
@@ -819,7 +6624,268 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "naeyeon-mountain-valley-relief-v2",
+    id: "naeyeon-mountain-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daejeon 3.1 Uigeo Memorial Hall",
+                  "text": "Diese Gedenkstätte erinnert an die lokale Unabhängigkeitsbewegung vom 1. März während der japanischen Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        129.355513,
+                        36.25367
+                  ]
+            },
+            {
+                  "name": "Maebong",
+                  "text": "Ein markanter Berggipfel im Naeyeonsan-Gebirge, der Wanderern weite Ausblicke über die bewaldeten Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        129.244189,
+                        36.235221
+                  ]
+            },
+            {
+                  "name": "Wolpo Haesu Hot Spring",
+                  "text": "Diese Sauna nutzt natürliches Meerwasser für ihre entspannenden Mineralbäder in unmittelbarer Küstennähe.",
+                  "category": "recreational",
+                  "coords": [
+                        129.369916,
+                        36.201645
+                  ]
+            },
+            {
+                  "name": "Pohangsingwang Hot Spring",
+                  "text": "Ein Thermalbad am Fuße des Berges Biryong, das für sein alkalisches Mineralwasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        129.27711,
+                        36.162348
+                  ]
+            },
+            {
+                  "name": "Wolpo Beach",
+                  "text": "Ein flach abfallender Sandstrand am Ostmeer, der besonders bei Familien für sein ruhiges Wasser beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        129.37287,
+                        36.198102
+                  ]
+            },
+            {
+                  "name": "Bogyeong-sa",
+                  "text": "Ein historischer Tempel, der am Eingang eines Tales liegt, das für seine zwölf malerischen Wasserfälle berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        129.318499,
+                        36.252381
+                  ]
+            },
+            {
+                  "name": "Moonsooam",
+                  "text": "Eine abgeschiedene Einsiedelei hoch in den Bergen, die einen ruhigen Ort für Gebete und Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        129.309536,
+                        36.259458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daejeon 3.1 Uigeo Memorial Hall",
+                  "text": "Ez az emlékcsarnok a japán gyarmati uralom elleni helyi március 1-jei függetlenségi mozgalomnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        129.355513,
+                        36.25367
+                  ]
+            },
+            {
+                  "name": "Maebong",
+                  "text": "A Nejonszan-hegység egyik jellegzetes csúcsa, amely tágas kilátást nyújt a túrázóknak az erdős völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        129.244189,
+                        36.235221
+                  ]
+            },
+            {
+                  "name": "Wolpo Haesu Hot Spring",
+                  "text": "Ez a szauna természetes tengervizet használ pihentető ásványi fürdőihez a tengerpart közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        129.369916,
+                        36.201645
+                  ]
+            },
+            {
+                  "name": "Pohangsingwang Hot Spring",
+                  "text": "A Birjong-hegy lábánál fekvő termálfürdő, amely lúgos ásványvizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        129.27711,
+                        36.162348
+                  ]
+            },
+            {
+                  "name": "Wolpo Beach",
+                  "text": "Lassan mélyülő homokos strand a Keleti-tengernél, amely nyugodt vize miatt különösen népszerű a családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        129.37287,
+                        36.198102
+                  ]
+            },
+            {
+                  "name": "Bogyeong-sa",
+                  "text": "Történelmi templom egy olyan völgy bejáratánál, amely a tizenkét festői vízeséséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        129.318499,
+                        36.252381
+                  ]
+            },
+            {
+                  "name": "Moonsooam",
+                  "text": "Egy elszigetelt remetelak magasan a hegyekben, amely csendes helyet kínál az imádsághoz és a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        129.309536,
+                        36.259458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daejeon 3.1 Uigeo Memorial Hall",
+                  "text": "Această sală memorială comemorează mișcarea locală de independență de la 1 martie din timpul perioadei coloniale japoneze.",
+                  "category": "museum",
+                  "coords": [
+                        129.355513,
+                        36.25367
+                  ]
+            },
+            {
+                  "name": "Maebong",
+                  "text": "Un vârf muntos proeminent din lanțul Naeyeonsan, care oferă drumeților vederi largi peste văile împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        129.244189,
+                        36.235221
+                  ]
+            },
+            {
+                  "name": "Wolpo Haesu Hot Spring",
+                  "text": "Această saună folosește apă de mare naturală pentru băile sale minerale relaxante, chiar lângă coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        129.369916,
+                        36.201645
+                  ]
+            },
+            {
+                  "name": "Pohangsingwang Hot Spring",
+                  "text": "O baie termală situată la poalele muntelui Biryong, cunoscută pentru apa sa minerală alcalină.",
+                  "category": "recreational",
+                  "coords": [
+                        129.27711,
+                        36.162348
+                  ]
+            },
+            {
+                  "name": "Wolpo Beach",
+                  "text": "O plajă cu nisip fin de la Marea de Est, deosebit de populară în rândul familiilor pentru apele sale liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        129.37287,
+                        36.198102
+                  ]
+            },
+            {
+                  "name": "Bogyeong-sa",
+                  "text": "Un templu istoric situat la intrarea într-o vale faimoasă pentru cele douăsprezece cascade pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        129.318499,
+                        36.252381
+                  ]
+            },
+            {
+                  "name": "Moonsooam",
+                  "text": "Un schit izolat, cocoțat sus în munți, care oferă un loc liniștit pentru rugăciune și meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        129.309536,
+                        36.259458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daejeon 3.1 Uigeo Memorial Hall",
+                  "text": "This memorial hall commemorates the local March 1st independence movement during the Japanese colonial period.",
+                  "category": "museum",
+                  "coords": [
+                        129.355513,
+                        36.25367
+                  ]
+            },
+            {
+                  "name": "Maebong",
+                  "text": "A prominent mountain peak in the Naeyeonsan range offering hikers wide views over the forested valleys.",
+                  "category": "natural",
+                  "coords": [
+                        129.244189,
+                        36.235221
+                  ]
+            },
+            {
+                  "name": "Wolpo Haesu Hot Spring",
+                  "text": "This sauna utilizes natural seawater for its relaxing mineral baths right by the coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        129.369916,
+                        36.201645
+                  ]
+            },
+            {
+                  "name": "Pohangsingwang Hot Spring",
+                  "text": "A hot spring bath located at the foot of Mount Biryong, known for its alkaline mineral water.",
+                  "category": "recreational",
+                  "coords": [
+                        129.27711,
+                        36.162348
+                  ]
+            },
+            {
+                  "name": "Wolpo Beach",
+                  "text": "A shallow sandy beach on the East Sea, particularly popular with families for its calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        129.37287,
+                        36.198102
+                  ]
+            },
+            {
+                  "name": "Bogyeong-sa",
+                  "text": "A historic temple situated at the entrance of a valley famous for its twelve picturesque waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        129.318499,
+                        36.252381
+                  ]
+            },
+            {
+                  "name": "Moonsooam",
+                  "text": "A secluded hermitage perched high in the mountains, offering a quiet space for prayer and meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        129.309536,
+                        36.259458
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KR-47",
     coords: [129.28, 36.19],
@@ -867,7 +6933,268 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "seonyudo-island-coast-relief-v2",
+    id: "seonyudo-island-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Small beach",
+                  "text": "Eine ruhige Sandbucht auf der Insel Seonyudo mit Blick auf das weite Wattenmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        126.397342,
+                        35.812794
+                  ]
+            },
+            {
+                  "name": "Best view",
+                  "text": "Ein erhöhter Aussichtspunkt mit einem 360-Grad-Panorama über die malerische Gogunsan-Inselgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469405,
+                        35.815292
+                  ]
+            },
+            {
+                  "name": "Parking lot",
+                  "text": "Ein zentraler Ankunftspunkt für Besucher mit weitem Blick auf die zerklüftete Küstenlinie der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        126.413289,
+                        35.823401
+                  ]
+            },
+            {
+                  "name": "Sinsi Plaza",
+                  "text": "Ein großzügiger Platz am Ende des Saemangeum-Seedeichs, geschmückt mit modernen Skulpturen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.478633,
+                        35.818073
+                  ]
+            },
+            {
+                  "name": "Okdol Beach",
+                  "text": "Ein besonderer Strand mit glatten Kieselsteinen und einem hölzernen Wanderweg entlang der Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        126.409906,
+                        35.807678
+                  ]
+            },
+            {
+                  "name": "Senyudo Beach",
+                  "text": "Ein sichelförmiger Strand mit feinem weißen Sand und flachem, kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        126.411308,
+                        35.817192
+                  ]
+            },
+            {
+                  "name": "Seonyudo Church",
+                  "text": "Eine kleine christliche Kirche auf der Insel, die als spirituelles Zentrum der lokalen Fischergemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        126.412448,
+                        35.812217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Small beach",
+                  "text": "Csendes homokos öböl Seonyudo szigetén, kilátással a környező árapálysíkságokra.",
+                  "category": "landmark",
+                  "coords": [
+                        126.397342,
+                        35.812794
+                  ]
+            },
+            {
+                  "name": "Best view",
+                  "text": "Magaslati kilátópont, ahonnan 360 fokos panoráma nyílik a festői Gogunsan-szigetcsoportra.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469405,
+                        35.815292
+                  ]
+            },
+            {
+                  "name": "Parking lot",
+                  "text": "Központi érkezési pont a látogatók számára, tágas kilátással a sziget sziklás partvonalára.",
+                  "category": "landmark",
+                  "coords": [
+                        126.413289,
+                        35.823401
+                  ]
+            },
+            {
+                  "name": "Sinsi Plaza",
+                  "text": "Tágas tér a Saemangeum-tengeri gát végén, amelyet modern szobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        126.478633,
+                        35.818073
+                  ]
+            },
+            {
+                  "name": "Okdol Beach",
+                  "text": "Különleges, sima kavicsos tengerpart, sziklák mentén futó fa sétánnyal.",
+                  "category": "recreational",
+                  "coords": [
+                        126.409906,
+                        35.807678
+                  ]
+            },
+            {
+                  "name": "Senyudo Beach",
+                  "text": "Sarló alakú tengerpart finom fehér homokkal és sekély, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        126.411308,
+                        35.817192
+                  ]
+            },
+            {
+                  "name": "Seonyudo Church",
+                  "text": "Kicsiny keresztény templom a szigeten, amely a helyi halászközösség hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        126.412448,
+                        35.812217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Small beach",
+                  "text": "Un golfuleț nisipos liniștit pe insula Seonyudo, cu vedere spre zonele de maree din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        126.397342,
+                        35.812794
+                  ]
+            },
+            {
+                  "name": "Best view",
+                  "text": "Un punct de observație la înălțime, oferind o panoramă de 360 de grade asupra pitorescului arhipelag Gogunsan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469405,
+                        35.815292
+                  ]
+            },
+            {
+                  "name": "Parking lot",
+                  "text": "Un punct central de sosire pentru vizitatori, cu vederi largi asupra liniei de coastă accidentate a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        126.413289,
+                        35.823401
+                  ]
+            },
+            {
+                  "name": "Sinsi Plaza",
+                  "text": "O piață generoasă la capătul digului Saemangeum, decorată cu sculpturi moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        126.478633,
+                        35.818073
+                  ]
+            },
+            {
+                  "name": "Okdol Beach",
+                  "text": "O plajă deosebită cu pietriș neted și o pasarelă de lemn de-a lungul stâncilor de la mal.",
+                  "category": "recreational",
+                  "coords": [
+                        126.409906,
+                        35.807678
+                  ]
+            },
+            {
+                  "name": "Senyudo Beach",
+                  "text": "O plajă în formă de semilună, cu nisip alb fin și ape puțin adânci și cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        126.411308,
+                        35.817192
+                  ]
+            },
+            {
+                  "name": "Seonyudo Church",
+                  "text": "O mică biserică creștină de pe insulă, care servește drept centru spiritual pentru comunitatea de pescari.",
+                  "category": "landmark",
+                  "coords": [
+                        126.412448,
+                        35.812217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Small beach",
+                  "text": "A quiet sandy cove on Seonyudo Island with views over the surrounding tidal flats.",
+                  "category": "landmark",
+                  "coords": [
+                        126.397342,
+                        35.812794
+                  ]
+            },
+            {
+                  "name": "Best view",
+                  "text": "An elevated viewpoint offering a 360-degree panorama over the picturesque Gogunsan archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469405,
+                        35.815292
+                  ]
+            },
+            {
+                  "name": "Parking lot",
+                  "text": "A central arrival point for visitors offering wide views over the island's rugged coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        126.413289,
+                        35.823401
+                  ]
+            },
+            {
+                  "name": "Sinsi Plaza",
+                  "text": "A spacious plaza at the end of the Saemangeum Seawall, adorned with modern sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        126.478633,
+                        35.818073
+                  ]
+            },
+            {
+                  "name": "Okdol Beach",
+                  "text": "A unique smooth-pebble beach featuring a wooden boardwalk along the coastal rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        126.409906,
+                        35.807678
+                  ]
+            },
+            {
+                  "name": "Senyudo Beach",
+                  "text": "A crescent-shaped beach featuring fine white sand and shallow, crystal-clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        126.411308,
+                        35.817192
+                  ]
+            },
+            {
+                  "name": "Seonyudo Church",
+                  "text": "A small Christian church on the island serving as the spiritual hub for the local fishing community.",
+                  "category": "landmark",
+                  "coords": [
+                        126.412448,
+                        35.812217
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KR-45",
     coords: [126.41, 35.81],
@@ -915,7 +7242,88 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     },
   },
   {
-    id: "mindungsan-mountain-relief-v2",
+    id: "mindungsan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jeongseon Art Museum",
+                  "text": "Ein Kunstraum nahe dem Berg Mindungsan, der Werke zeigt, die von der lokalen Gebirgslandschaft inspiriert sind.",
+                  "category": "cultural",
+                  "coords": [
+                        128.833407,
+                        37.297979
+                  ]
+            },
+            {
+                  "name": "Yongcheonsa",
+                  "text": "Ein friedlicher buddhistischer Tempel im malerischen Hochland nahe dem Berg Mindungsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.803763,
+                        37.287118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jeongseon Art Museum",
+                  "text": "Művészeti tér a Mindungsan-hegy közelében, amely a helyi hegyvidéki táj ihlette alkotásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        128.833407,
+                        37.297979
+                  ]
+            },
+            {
+                  "name": "Yongcheonsa",
+                  "text": "Békés buddhista templom a Mindungsan-hegy közeli festői fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.803763,
+                        37.287118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jeongseon Art Museum",
+                  "text": "Un spațiu de artă lângă muntele Mindungsan, care expune lucrări inspirate de peisajele montane locale.",
+                  "category": "cultural",
+                  "coords": [
+                        128.833407,
+                        37.297979
+                  ]
+            },
+            {
+                  "name": "Yongcheonsa",
+                  "text": "Un templu budist liniștit situat în zonele înalte pitorești de lângă muntele Mindungsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.803763,
+                        37.287118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jeongseon Art Museum",
+                  "text": "An art space near Mount Mindungsan showcasing works inspired by the local mountain landscapes.",
+                  "category": "cultural",
+                  "coords": [
+                        128.833407,
+                        37.297979
+                  ]
+            },
+            {
+                  "name": "Yongcheonsa",
+                  "text": "A tranquil Buddhist temple located in the scenic highlands near Mount Mindungsan.",
+                  "category": "landmark",
+                  "coords": [
+                        128.803763,
+                        37.287118
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KR-42",
     coords: [128.81, 37.33],

@@ -757,7 +757,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Lý Thái Tổ",
-                  "text": "Das Lý Thái Tổ-Denkmal ist ein bedeutendes historisches Denkmal, das in Bắc Ninh errichtet wurde.",
+                  "text": "Statue von Kaiser Lý Thái Tổ in Ninh Bình, die an den Gründer der Lý-Dynastie erinnert.",
                   "category": "historical",
                   "coords": [
                         106.076388,
@@ -766,7 +766,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "Nhà tưởng niệm liệt sĩ Thị Cầu ist ein lokales Denkmal in Bắc Ninh.",
+                  "text": "Gedenkhaus für Kriegsgefallene in Thị Cầu, Ninh Bình, zu Ehren lokaler Soldaten.",
                   "category": "historical",
                   "coords": [
                         106.088221,
@@ -775,7 +775,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Đọ Xá",
-                  "text": "Do Xa Village Temple ist eine lokale Sehenswürdigkeit in Bắc Ninh.",
+                  "text": "Ein traditioneller Dorftempel in Do Xa, Ninh Bình, der einem lokalen Schutzgeist gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         106.061812,
@@ -784,7 +784,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Yên Mẫn",
-                  "text": "Đình Yên Mẫn ist eine Sehenswürdigkeit in der Stadt Bắc Ninh.",
+                  "text": "Das Gemeinschaftshaus Yên Mẫn in Ninh Bình ist ein traditionelles Holzgebäude für Dorffeste.",
                   "category": "landmark",
                   "coords": [
                         106.057301,
@@ -793,7 +793,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Y Na",
-                  "text": "Đình Y Na ist eine lokale Sehenswürdigkeit in Bắc Ninh.",
+                  "text": "Das Gemeinschaftshaus Y Na in Ninh Bình hat ein geschwungenes Dach und geschnitzte Säulen.",
                   "category": "landmark",
                   "coords": [
                         106.067242,
@@ -802,7 +802,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Cầu Như Nguyệt",
-                  "text": "Nhu Nguyet Bridge ist eine Brücke über den Fluss Cau in Bắc Ninh.",
+                  "text": "Die Như-Nguyệt-Brücke ist eine historische Steinbogenbrücke über den Fluss Như Nguyệt.",
                   "category": "landmark",
                   "coords": [
                         106.100127,
@@ -811,7 +811,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Cầu Thị Cầu",
-                  "text": "Thi Cau Bridge ist eine bemerkenswerte Brückeninfrastruktur in Bắc Ninh.",
+                  "text": "Die Thi-Cầu-Brücke ist eine geschwungene Steinbrücke über den Fluss Cầu.",
                   "category": "landmark",
                   "coords": [
                         106.091992,
@@ -831,7 +831,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Lý Thái Tổ",
-                  "text": "A Lý Thái Tổ emlékmű egy jelentős történelmi emlékmű Bắc Ninh városában.",
+                  "text": "Lý Thái Tổ császár szobra Ninh Bìnhben, a Lý-dinasztia alapítójának emlékére.",
                   "category": "historical",
                   "coords": [
                         106.076388,
@@ -840,7 +840,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "A Nhà tưởng niệm liệt sĩ Thị Cầu egy helyi emlékmű Bắc Ninh városában.",
+                  "text": "Háborús mártírok emlékháza Thị Cầu-ban, Ninh Bìnhben, a helyi katonák tiszteletére.",
                   "category": "historical",
                   "coords": [
                         106.088221,
@@ -849,7 +849,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Đọ Xá",
-                  "text": "A Do Xa Village Temple egy helyi látványosság Bắc Ninh városában.",
+                  "text": "Egy hagyományos falusi templom Do Xa-ban, Ninh Bìnhben, egy helyi védőszellemnek szentelve.",
                   "category": "landmark",
                   "coords": [
                         106.061812,
@@ -858,7 +858,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Yên Mẫn",
-                  "text": "A Đình Yên Mẫn egy látványosság Bắc Ninh városában.",
+                  "text": "A Yên Mẫn közösségi ház Ninh Bìnhben egy hagyományos faépület falusi ünnepségekhez.",
                   "category": "landmark",
                   "coords": [
                         106.057301,
@@ -867,7 +867,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Y Na",
-                  "text": "A Đình Y Na egy helyi látványosság Bắc Ninh városában.",
+                  "text": "A Y Na közösségi ház Ninh Bìnhben ívelt tetővel és faragott oszlopokkal rendelkezik.",
                   "category": "landmark",
                   "coords": [
                         106.067242,
@@ -876,7 +876,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Cầu Như Nguyệt",
-                  "text": "A Nhu Nguyet Bridge egy híd, amely a Cau folyón ível át Bắc Ninh területén.",
+                  "text": "A Như Nguyệt híd egy történelmi kőíves híd a Như Nguyệt folyó felett.",
                   "category": "landmark",
                   "coords": [
                         106.100127,
@@ -885,7 +885,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Cầu Thị Cầu",
-                  "text": "A Thi Cau Bridge egy figyelemre méltó híd Bắc Ninh városában.",
+                  "text": "A Thi Cầu híd egy ívelt kőhíd a Cầu folyó felett.",
                   "category": "landmark",
                   "coords": [
                         106.091992,
@@ -905,7 +905,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Lý Thái Tổ",
-                  "text": "Monumentul Ly Thai To este un monument istoric semnificativ ridicat în Bắc Ninh.",
+                  "text": "Statuia împăratului Lý Thái Tổ din Ninh Bình, comemorând fondatorul dinastiei Lý.",
                   "category": "historical",
                   "coords": [
                         106.076388,
@@ -914,7 +914,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "Nhà tưởng niệm liệt sĩ Thị Cầu este un monument local situat în Bắc Ninh.",
+                  "text": "Casa memorială a martirilor de război din Thị Cầu, Ninh Bình, în onoarea soldaților locali.",
                   "category": "historical",
                   "coords": [
                         106.088221,
@@ -923,7 +923,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Đọ Xá",
-                  "text": "Do Xa Village Temple este o atracție locală din Bắc Ninh.",
+                  "text": "Un templu tradițional de sat în Do Xa, Ninh Bình, dedicat unui spirit protector local.",
                   "category": "landmark",
                   "coords": [
                         106.061812,
@@ -932,7 +932,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Yên Mẫn",
-                  "text": "Đình Yên Mẫn este o atracție situată în orașul Bắc Ninh.",
+                  "text": "Casa comunală Yên Mẫn din Ninh Bình este o construcție tradițională din lemn pentru festivaluri sătești.",
                   "category": "landmark",
                   "coords": [
                         106.057301,
@@ -941,7 +941,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Y Na",
-                  "text": "Đình Y Na este o atracție locală situată în Bắc Ninh.",
+                  "text": "Casa comunală Y Na din Ninh Bình are un acoperiș curbat și stâlpi sculptați.",
                   "category": "landmark",
                   "coords": [
                         106.067242,
@@ -950,7 +950,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Cầu Như Nguyệt",
-                  "text": "Nhu Nguyet Bridge este un pod peste râul Cau în Bắc Ninh.",
+                  "text": "Podul Như Nguyệt este un pod istoric de piatră cu arc peste râul Như Nguyệt.",
                   "category": "landmark",
                   "coords": [
                         106.100127,
@@ -959,7 +959,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Cầu Thị Cầu",
-                  "text": "Thi Cau Bridge este un pod notabil situat în Bắc Ninh.",
+                  "text": "Podul Thi Cầu este un pod de piatră curbat peste râul Cầu.",
                   "category": "landmark",
                   "coords": [
                         106.091992,
@@ -979,7 +979,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Lý Thái Tổ",
-                  "text": "The Tượng đài Lý Thái Tổ is a significant historical monument erected in Bắc Ninh.",
+                  "text": "Statue of Emperor Lý Thái Tổ in Ninh Bình, commemorating the founder of the Lý dynasty.",
                   "category": "historical",
                   "coords": [
                         106.076388,
@@ -988,7 +988,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "Nhà tưởng niệm liệt sĩ Thị Cầu is a local monument situated in Bắc Ninh.",
+                  "text": "Memorial house for war martyrs in Thị Cầu, Ninh Bình, honoring local soldiers.",
                   "category": "historical",
                   "coords": [
                         106.088221,
@@ -997,7 +997,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Do Xa Village Temple",
-                  "text": "Do Xa Village Temple is a local attraction found in Bắc Ninh.",
+                  "text": "A traditional village temple in Do Xa, Ninh Bình, dedicated to a local guardian spirit.",
                   "category": "landmark",
                   "coords": [
                         106.061812,
@@ -1006,7 +1006,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Yên Mẫn",
-                  "text": "Đình Yên Mẫn is an attraction located in the city of Bắc Ninh.",
+                  "text": "Yên Mẫn Communal House in Ninh Bình, a traditional wood structure used for village festivals.",
                   "category": "landmark",
                   "coords": [
                         106.057301,
@@ -1015,7 +1015,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đình Y Na",
-                  "text": "Đình Y Na is a local attraction situated in Bắc Ninh.",
+                  "text": "Y Na Communal House in Ninh Bình, with a curved roof and carved pillars.",
                   "category": "landmark",
                   "coords": [
                         106.067242,
@@ -1024,7 +1024,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhu Nguyet Bridge",
-                  "text": "Nhu Nguyet Bridge is a bridge crossing the Cau River in Bắc Ninh.",
+                  "text": "The Nhu Nguyet Bridge is a historic stone arch bridge spanning the Nhu Nguyet River.",
                   "category": "landmark",
                   "coords": [
                         106.100127,
@@ -1033,7 +1033,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Thi Cau Bridge",
-                  "text": "Thi Cau Bridge is a notable bridge infrastructure located in Bắc Ninh.",
+                  "text": "The Thi Cau Bridge is a curved stone bridge over the Cau River.",
                   "category": "landmark",
                   "coords": [
                         106.091992,
@@ -1408,7 +1408,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
-                  "text": "Eine Zweigstelle des Provinzmuseums von Ninh Bình in Phủ Lý.",
+                  "text": "Provinzmuseum Ninh Bình (Außenstelle 3) in Ly zeigt archäologische Funde und Naturkunde der Region.",
                   "category": "museum",
                   "coords": [
                         105.903998,
@@ -1419,7 +1419,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
-                  "text": "A Ninh Bình tartományi múzeum egyik részlege Phủ Lýban.",
+                  "text": "Ninh Bình Megyei Múzeum (3. telephely) Ly-ban a régió régészeti leleteit és természeti kincseit mutatja be.",
                   "category": "museum",
                   "coords": [
                         105.903998,
@@ -1430,7 +1430,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
-                  "text": "O filială a muzeului provincial Ninh Bình situată în Phủ Lý.",
+                  "text": "Muzeul Provincial Ninh Bình (Sucursala 3) din Ly expune artefacte arheologice și istoria naturală a regiunii.",
                   "category": "museum",
                   "coords": [
                         105.903998,
@@ -1441,7 +1441,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
-                  "text": "A branch of the Ninh Bình provincial museum located in Phủ Lý.",
+                  "text": "Ninh Bình Provincial Museum (Branch 3) in Ly, displaying archaeological finds and natural history of the region.",
                   "category": "museum",
                   "coords": [
                         105.903998,
@@ -1501,7 +1501,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cau Lim",
-                  "text": "Die Lim-Brücke ist eine markante Konstruktion in der Stadt Ninh Binh.",
+                  "text": "Die Lim-Brücke in Bình ist eine historische Steinbrücke über einen Fluss.",
                   "category": "landmark",
                   "coords": [
                         105.975103,
@@ -1519,7 +1519,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Bruecke",
-                  "text": "Eine Brücke in Ninh Binh, die als lokaler Orientierungspunkt dient.",
+                  "text": "Die Brücke in Bình ist eine eiserne Fußgängerbrücke mit Geländern.",
                   "category": "landmark",
                   "coords": [
                         105.967611,
@@ -1557,7 +1557,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cau Lim",
-                  "text": "A Lim-híd Ninh Binh városának egyik jellegzetes építménye.",
+                  "text": "A Lim-híd Bình-ben egy történelmi kőhíd egy folyó felett.",
                   "category": "landmark",
                   "coords": [
                         105.975103,
@@ -1575,7 +1575,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Bruecke",
-                  "text": "Híd Ninh Binhben, amely helyi tájékozódási pontként szolgál.",
+                  "text": "A híd Bình-ben egy vasból készült gyalogoshíd korlátokkal.",
                   "category": "landmark",
                   "coords": [
                         105.967611,
@@ -1613,7 +1613,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cau Lim",
-                  "text": "Podul Lim este o construcție distinctivă din orașul Ninh Binh.",
+                  "text": "Podul Lim din Bình este un pod istoric de piatră peste un râu.",
                   "category": "landmark",
                   "coords": [
                         105.975103,
@@ -1631,7 +1631,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Bruecke",
-                  "text": "Un pod în Ninh Binh care servește ca punct de reper local.",
+                  "text": "Podul din Bình este un pod pietonal din fier cu balustrade.",
                   "category": "landmark",
                   "coords": [
                         105.967611,
@@ -1669,7 +1669,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lim Bridge",
-                  "text": "The Lim Bridge is a distinctive structure in the city of Ninh Binh.",
+                  "text": "Lim Bridge in Bình is a historic stone bridge crossing a river.",
                   "category": "landmark",
                   "coords": [
                         105.975103,
@@ -1687,7 +1687,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Bruecke",
-                  "text": "A bridge in Ninh Binh serving as a local landmark.",
+                  "text": "The bridge in Bình is an iron pedestrian bridge with railings.",
                   "category": "landmark",
                   "coords": [
                         105.967611,
@@ -1774,7 +1774,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bảo tàng tỉnh Bắc Giang",
-                  "text": "Bảo tàng tỉnh Bắc Giang ist ein regionales Museum in Bắc Giang.",
+                  "text": "Provinzmuseum Bắc Giang im Giang zeigt die lokale Kultur und Revolutionsgeschichte.",
                   "category": "museum",
                   "coords": [
                         106.193787,
@@ -1783,7 +1783,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà hát Chèo tỉnh Bắc Giang",
-                  "text": "Nhà hát Chèo tỉnh Bắc Giang ist ein lokales Theater in Bắc Giang.",
+                  "text": "Das Chèo-Theater Bắc Giang im Giang ist ein Veranstaltungsort für traditionelle vietnamesische Volksoper.",
                   "category": "cultural",
                   "coords": [
                         106.215126,
@@ -1792,7 +1792,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Công viên Ngô Gia Tự ( Ngo Gia Tu Park )",
-                  "text": "Der Ngo Gia Tu Park ist eine öffentliche Erholungsanlage in Bắc Giang.",
+                  "text": "Der Ngo Gia Tu Park in Giang ist eine Grünanlage mit einem Denkmal für den Revolutionär.",
                   "category": "landmark",
                   "coords": [
                         106.19306,
@@ -1803,7 +1803,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bảo tàng tỉnh Bắc Giang",
-                  "text": "A Bảo tàng tỉnh Bắc Giang egy regionális múzeum Bắc Giang városában.",
+                  "text": "Bắc Giang Megyei Múzeum Giangban a helyi kultúrát és a forradalom történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         106.193787,
@@ -1812,7 +1812,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà hát Chèo tỉnh Bắc Giang",
-                  "text": "A Nhà hát Chèo tỉnh Bắc Giang egy helyi színház Bắc Giang városában.",
+                  "text": "A Bắc Giang-i Chèo Színház Giangban a hagyományos vietnami népopera helyszíne.",
                   "category": "cultural",
                   "coords": [
                         106.215126,
@@ -1821,7 +1821,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Công viên Ngô Gia Tự ( Ngo Gia Tu Park )",
-                  "text": "A Ngo Gia Tu Park egy nyilvános rekreációs látványosság Bắc Giang városában.",
+                  "text": "A Ngo Gia Tu Park Giangban egy zöldterület egy, a forradalmárnak emléket állító szoborral.",
                   "category": "landmark",
                   "coords": [
                         106.19306,
@@ -1832,7 +1832,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bảo tàng tỉnh Bắc Giang",
-                  "text": "Bảo tàng tỉnh Bắc Giang este un muzeu regional situat în Bắc Giang.",
+                  "text": "Muzeul Provincial Bắc Giang din Giang prezintă cultura locală și istoria revoluționară.",
                   "category": "museum",
                   "coords": [
                         106.193787,
@@ -1841,7 +1841,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà hát Chèo tỉnh Bắc Giang",
-                  "text": "Nhà hát Chèo tỉnh Bắc Giang este un teatru local situat în Bắc Giang.",
+                  "text": "Teatrul Chèo Bắc Giang din Giang este un loc pentru opera populară tradițională vietnameză.",
                   "category": "cultural",
                   "coords": [
                         106.215126,
@@ -1850,7 +1850,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Công viên Ngô Gia Tự ( Ngo Gia Tu Park )",
-                  "text": "Ngo Gia Tu Park este o atracție recreativă publică situată în Bắc Giang.",
+                  "text": "Parcul Ngo Gia Tu din Giang este un spațiu verde cu un monument dedicat revoluționarului.",
                   "category": "landmark",
                   "coords": [
                         106.19306,
@@ -1861,7 +1861,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bảo tàng tỉnh Bắc Giang",
-                  "text": "Bảo tàng tỉnh Bắc Giang is a regional museum located in Bắc Giang.",
+                  "text": "Bắc Giang Provincial Museum in Giang, showcasing local culture and revolutionary history.",
                   "category": "museum",
                   "coords": [
                         106.193787,
@@ -1870,7 +1870,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Nhà hát Chèo tỉnh Bắc Giang",
-                  "text": "Nhà hát Chèo tỉnh Bắc Giang is a local theatre located in Bắc Giang.",
+                  "text": "Bắc Giang Chèo Theatre in Giang, a venue for traditional Vietnamese folk opera.",
                   "category": "cultural",
                   "coords": [
                         106.215126,
@@ -1879,7 +1879,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Ngo Gia Tu Park (Cong Vien Ngo Gia Tu)",
-                  "text": "Ngo Gia Tu Park is a public recreational attraction situated in Bắc Giang.",
+                  "text": "Ngo Gia Tu Park in Giang, a green space with a monument to the revolutionary figure.",
                   "category": "landmark",
                   "coords": [
                         106.19306,
@@ -1939,7 +1939,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "Ein Vergnügungs- und Wasserpark in der Stadt Móng Cái.",
+                  "text": "Das Unterhaltungszentrum Móng Cái in Cai bietet Spielhallen und eine Bowlingbahn.",
                   "category": "family",
                   "coords": [
                         107.974285,
@@ -1957,7 +1957,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đền Xã Tắc",
-                  "text": "Ein Tempel und eine kulturelle Sehenswürdigkeit in Móng Cái.",
+                  "text": "Der Xa Tac Tempel in Cai ist ein buddhistischer Tempel mit einer großen Buddha-Statue.",
                   "category": "landmark",
                   "coords": [
                         107.965281,
@@ -1968,7 +1968,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "Szórakoztató- és vízipark Móng Cái városában.",
+                  "text": "A Móng Cái Szórakoztató Központ Caiban játéktermekkel és bowlingpályával várja a családokat.",
                   "category": "family",
                   "coords": [
                         107.974285,
@@ -1986,7 +1986,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đền Xã Tắc",
-                  "text": "Templom és kulturális látnivaló Móng Cái városában.",
+                  "text": "A Xa Tac-templom Caiban egy buddhista templom egy hatalmas Buddha-szoborral.",
                   "category": "landmark",
                   "coords": [
                         107.965281,
@@ -1997,7 +1997,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "Un parc de distracții și acvatic în orașul Móng Cái.",
+                  "text": "Centrul de divertisment Móng Cái din Cai oferă săli de jocuri și o pistă de bowling.",
                   "category": "family",
                   "coords": [
                         107.974285,
@@ -2015,7 +2015,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đền Xã Tắc",
-                  "text": "Un templu și o atracție culturală în Móng Cái.",
+                  "text": "Templul Xa Tac din Cai este un templu budist cu o statuie mare a lui Buddha.",
                   "category": "landmark",
                   "coords": [
                         107.965281,
@@ -2026,7 +2026,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "An amusement and water park in the city of Móng Cái.",
+                  "text": "Móng Cái Entertainment Center in Cai, with arcade games and a bowling alley.",
                   "category": "family",
                   "coords": [
                         107.974285,
@@ -2044,7 +2044,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Xa Tac Temple",
-                  "text": "A temple and cultural attraction in Móng Cái.",
+                  "text": "Xa Tac Temple in Cai, a Buddhist temple with a large statue of Buddha.",
                   "category": "landmark",
                   "coords": [
                         107.965281,
@@ -2113,7 +2113,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
-                  "text": "Ein Denkmal in Lào Cai zu Ehren der gefallenen Soldaten.",
+                  "text": "Das Lao Cai-Märtyrerdenkmal in Cai gedenkt der Soldaten der Grenzkriege.",
                   "category": "historical",
                   "coords": [
                         103.96846,
@@ -2133,7 +2133,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
-                  "text": "A háborús hősök emlékére emelt emlékmű Lào Cai városában.",
+                  "text": "A Lao Cai mártíremlékmű Caiban a határháborúkban elesett katonák emlékére készült.",
                   "category": "historical",
                   "coords": [
                         103.96846,
@@ -2153,7 +2153,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
-                  "text": "Un monument în Lào Cai dedicat memoriei soldaților căzuți.",
+                  "text": "Memorialul martirilor Lao Cai din Cai comemorează soldații căzuți în războaiele de frontieră.",
                   "category": "historical",
                   "coords": [
                         103.96846,
@@ -2173,7 +2173,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Lao Cai Martyrs Memorial",
-                  "text": "A memorial in Lào Cai honoring fallen soldiers.",
+                  "text": "Lao Cai Martyrs Memorial in Cai, dedicated to soldiers who died in the border wars.",
                   "category": "historical",
                   "coords": [
                         103.96846,
@@ -2229,7 +2229,268 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "dien-bien-phu-cities-v2",
+    id: "dien-bien-phu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Đồi Him Lam",
+                  "text": "Ein strategischer Hügel, der während der Schlacht von Dien Bien Phu als wichtiger französischer Stützpunkt diente.",
+                  "category": "castle",
+                  "coords": [
+                        103.023514,
+                        21.40465
+                  ]
+            },
+            {
+                  "name": "Đồi D1",
+                  "text": "Eine historische Stätte mit einem massiven bronzenen Siegesdenkmal und Blick über das Tal.",
+                  "category": "historical",
+                  "coords": [
+                        103.01661,
+                        21.392356
+                  ]
+            },
+            {
+                  "name": "French 105 mm cannon",
+                  "text": "Ein erhaltenes Artilleriegeschütz, das von den französischen Truppen während der historischen Belagerung von 1954 verwendet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.009761,
+                        21.386184
+                  ]
+            },
+            {
+                  "name": "Bunker von Kommandant de Castries",
+                  "text": "Ein verstärkter Militärunterschlupf, der während des Konflikts für taktische Operationen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.010675,
+                        21.384944
+                  ]
+            },
+            {
+                  "name": "A1 Hügel",
+                  "text": "Ort intensiver Kämpfe, mit einem riesigen Krater, der durch die Explosion einer unterirdischen Mine entstand.",
+                  "category": "landmark",
+                  "coords": [
+                        103.016735,
+                        21.381015
+                  ]
+            },
+            {
+                  "name": "Dien Bien Phu Museum",
+                  "text": "Dieses Museum beherbergt militärische Ausrüstung und Dioramen, die die entscheidende Schlacht von 1954 detailliert darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        103.015194,
+                        21.380741
+                  ]
+            },
+            {
+                  "name": "Chợ Noong Bua",
+                  "text": "Ein lebhafter lokaler Markt, der für seine Vielfalt an frischen vietnamesischen Regionalspeisen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.030716,
+                        21.39002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Đồi Him Lam",
+                  "text": "Stratégiai dombtető, amely a Dien Bien Phu-i csata során kulcsfontosságú francia támaszpont volt.",
+                  "category": "castle",
+                  "coords": [
+                        103.023514,
+                        21.40465
+                  ]
+            },
+            {
+                  "name": "Đồi D1",
+                  "text": "Történelmi helyszín egy hatalmas bronz győzelmi emlékművel és kilátással a völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        103.01661,
+                        21.392356
+                  ]
+            },
+            {
+                  "name": "French 105 mm cannon",
+                  "text": "Egy megőrzött tüzérségi löveg, amelyet a francia erők használtak az 1954-es történelmi ostrom idején.",
+                  "category": "landmark",
+                  "coords": [
+                        103.009761,
+                        21.386184
+                  ]
+            },
+            {
+                  "name": "Hầm chỉ huy chiến dịch",
+                  "text": "Megerősített katonai óvóhely, amelyet taktikai műveletekhez használtak a konfliktus idején.",
+                  "category": "landmark",
+                  "coords": [
+                        103.010675,
+                        21.384944
+                  ]
+            },
+            {
+                  "name": "A1",
+                  "text": "Heves harcok helyszíne, egy földalatti aknafelrobbanásból származó óriási kráterrel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.016735,
+                        21.381015
+                  ]
+            },
+            {
+                  "name": "Dien Bien Phu Museum",
+                  "text": "A múzeum katonai felszereléseket és diorámákat mutat be, amelyek a döntő, 1954-es csatát részletezik.",
+                  "category": "museum",
+                  "coords": [
+                        103.015194,
+                        21.380741
+                  ]
+            },
+            {
+                  "name": "Chợ Noong Bua",
+                  "text": "Élénk helyi piac, amely a különféle friss vietnami regionális ételeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        103.030716,
+                        21.39002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Đồi Him Lam",
+                  "text": "O colină strategică ce a servit ca punct de sprijin francez cheie în timpul bătăliei de la Dien Bien Phu.",
+                  "category": "castle",
+                  "coords": [
+                        103.023514,
+                        21.40465
+                  ]
+            },
+            {
+                  "name": "Đồi D1",
+                  "text": "Un sit istoric cu un monument masiv al victoriei din bronz, cu vedere spre vale.",
+                  "category": "historical",
+                  "coords": [
+                        103.01661,
+                        21.392356
+                  ]
+            },
+            {
+                  "name": "French 105 mm cannon",
+                  "text": "O piesă de artilerie conservată, folosită de forțele franceze în timpul asediului istoric din 1954.",
+                  "category": "landmark",
+                  "coords": [
+                        103.009761,
+                        21.386184
+                  ]
+            },
+            {
+                  "name": "Hầm chỉ huy chiến dịch",
+                  "text": "Un adăpost militar întărit, folosit pentru operațiuni tactice în timpul conflictului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.010675,
+                        21.384944
+                  ]
+            },
+            {
+                  "name": "A1",
+                  "text": "Locul unor lupte intense, prezentând un crater uriaș de la o explozie minieră subterană.",
+                  "category": "landmark",
+                  "coords": [
+                        103.016735,
+                        21.381015
+                  ]
+            },
+            {
+                  "name": "Dien Bien Phu Museum",
+                  "text": "Acest muzeu adăpostește echipament militar și diorame care detaliază bătălia decisivă din 1954.",
+                  "category": "museum",
+                  "coords": [
+                        103.015194,
+                        21.380741
+                  ]
+            },
+            {
+                  "name": "Chợ Noong Bua",
+                  "text": "O piață locală plină de viață, cunoscută pentru varietatea sa de mâncăruri regionale vietnameze proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        103.030716,
+                        21.39002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Him Lam (Beatrice) Hill",
+                  "text": "A strategic hilltop that served as a key French strongpoint during the battle of Dien Bien Phu.",
+                  "category": "castle",
+                  "coords": [
+                        103.023514,
+                        21.40465
+                  ]
+            },
+            {
+                  "name": "D1 Hill",
+                  "text": "A historic site featuring a massive bronze victory monument with views over the valley.",
+                  "category": "historical",
+                  "coords": [
+                        103.01661,
+                        21.392356
+                  ]
+            },
+            {
+                  "name": "French 105 mm cannon",
+                  "text": "A preserved artillery piece used by French forces during the historic 1954 siege.",
+                  "category": "landmark",
+                  "coords": [
+                        103.009761,
+                        21.386184
+                  ]
+            },
+            {
+                  "name": "Commando Bunker",
+                  "text": "A reinforced military shelter used for tactical operations during the conflict.",
+                  "category": "landmark",
+                  "coords": [
+                        103.010675,
+                        21.384944
+                  ]
+            },
+            {
+                  "name": "A1 Hill",
+                  "text": "The site of intense fighting, featuring a giant crater from an underground mine explosion.",
+                  "category": "landmark",
+                  "coords": [
+                        103.016735,
+                        21.381015
+                  ]
+            },
+            {
+                  "name": "Dien Bien Phu Museum",
+                  "text": "This museum houses military equipment and dioramas detailing the decisive 1954 battle.",
+                  "category": "museum",
+                  "coords": [
+                        103.015194,
+                        21.380741
+                  ]
+            },
+            {
+                  "name": "Chợ Noong Bua",
+                  "text": "A lively local market known for its variety of fresh Vietnamese regional foods.",
+                  "category": "cultural",
+                  "coords": [
+                        103.030716,
+                        21.39002
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-01",
     coords: [103.02, 21.39],
@@ -2281,7 +2542,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Di tích Nhà tù Sơn La",
-                  "text": "Ein Museum, das in einem ehemaligen Gefängnis in Sơn La untergebracht ist.",
+                  "text": "Das Gefängnis Sơn La in La ist ein ehemaliges französisches Kolonialgefängnis, heute Museum.",
                   "category": "museum",
                   "coords": [
                         103.907908,
@@ -2290,7 +2551,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Văn Bia Quế Lâm ngự chế",
-                  "text": "Ein historisches Denkmal und eine Gedenkstätte in Sơn La.",
+                  "text": "Die königliche Stele Quế Lâm in La trägt ein Gedicht eines Nguyễn-Kaisers.",
                   "category": "historical",
                   "coords": [
                         103.909909,
@@ -2310,7 +2571,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Di tích Nhà tù Sơn La",
-                  "text": "Múzeum, amely egy egykori börtön épületében található Sơn Lában.",
+                  "text": "A Sơn La börtön La-ban egy egykori francia gyarmati börtön, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         103.907908,
@@ -2319,7 +2580,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Văn Bia Quế Lâm ngự chế",
-                  "text": "Történelmi emlékmű és emlékhely Sơn Lában.",
+                  "text": "A Quế Lâm királyi sztélé La-ban egy Nguyễn császár versét őrzi.",
                   "category": "historical",
                   "coords": [
                         103.909909,
@@ -2339,7 +2600,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Di tích Nhà tù Sơn La",
-                  "text": "Un muzeu situat într-o fostă închisoare din Sơn La.",
+                  "text": "Închisoarea Sơn La din La este o fostă închisoare colonială franceză, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         103.907908,
@@ -2348,7 +2609,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Văn Bia Quế Lâm ngự chế",
-                  "text": "Un monument istoric și loc memorial în Sơn La.",
+                  "text": "Stela regală Quế Lâm din La poartă o poezie a unui împărat Nguyễn.",
                   "category": "historical",
                   "coords": [
                         103.909909,
@@ -2368,7 +2629,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Di tích Nhà tù Sơn La",
-                  "text": "A museum housed in a former prison in Sơn La.",
+                  "text": "Son La Prison in La, a former French colonial prison turned museum.",
                   "category": "museum",
                   "coords": [
                         103.907908,
@@ -2377,7 +2638,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Văn Bia Quế Lâm ngự chế",
-                  "text": "A historic monument and memorial site in Sơn La.",
+                  "text": "The Quế Lâm royal stele in La, inscribed with a poem by a Nguyễn emperor.",
                   "category": "historical",
                   "coords": [
                         103.909909,
@@ -2464,7 +2725,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "PPC hall",
-                  "text": "Ein historisches Bauwerk im Stil einer Burg in Bến Tre.",
+                  "text": "Die PPC-Halle in Tre ist ein Kolonialgebäude, das an eine Burg erinnert.",
                   "category": "castle",
                   "coords": [
                         106.373315,
@@ -2511,7 +2772,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "PPC hall",
-                  "text": "Történelmi, kastélyszerű épület Bến Tre városában.",
+                  "text": "A PPC csarnok Tre-ben egy gyarmati kori épület, amely egy várra emlékeztet.",
                   "category": "castle",
                   "coords": [
                         106.373315,
@@ -2558,7 +2819,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "PPC hall",
-                  "text": "O construcție istorică în stil de castel din Bến Tre.",
+                  "text": "Sala PPC din Tre este o clădire colonială care amintește de un castel.",
                   "category": "castle",
                   "coords": [
                         106.373315,
@@ -2605,7 +2866,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "PPC hall",
-                  "text": "A historic castle-like building located in Bến Tre.",
+                  "text": "PPC Hall in Tre, a colonial-era building resembling a castle.",
                   "category": "castle",
                   "coords": [
                         106.373315,
@@ -2679,7 +2940,412 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "tra-vinh-cities-v2",
+    id: "tra-vinh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chùa Ong Mẹt ̣(Khmer)",
+                  "text": "Ein lebendiger Theravada-Buddhismus-Tempel, der der Gemeinschaft der Khmer Krom in Tra Vinh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341424,
+                        9.939179
+                  ]
+            },
+            {
+                  "name": "Thánh thất Trà Vinh",
+                  "text": "Ein markanter Cao-Dai-Tempel in Tra Vinh mit der charakteristischen farbenfrohen Architektur der Religion und dem Göttlichen Auge.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341474,
+                        9.9238
+                  ]
+            },
+            {
+                  "name": "Chùa Ông",
+                  "text": "Ein traditioneller Kultort in Tra Vinh, der das lokale chinesische spirituelle Erbe mit kunstvollen Altären widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        106.341322,
+                        9.934401
+                  ]
+            },
+            {
+                  "name": "Chùa Wat Kpong Ksan",
+                  "text": "Ein klassisches Khmer-buddhistisches Heiligtum in Tra Vinh, das an seinen geschwungenen Dächern und goldenen Türmen zu erkennen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.343427,
+                        9.927263
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "Ein ruhiger buddhistischer Tempel in Tra Vinh, der zur Truc-Lam-Zen-Linie gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344197,
+                        9.929464
+                  ]
+            },
+            {
+                  "name": "Chùa Lưỡng Xuyên",
+                  "text": "Ein historischer Gottesdienstort in Tra Vinh, der für seine Rolle im spirituellen und gemeinschaftlichen Leben der Region bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.341436,
+                        9.943353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà Vinh",
+                  "text": "Eine christliche Kirche, die der lokalen katholischen Diözese im Zentrum von Tra Vinh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.34153,
+                        9.940307
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "Eine bemerkenswerte buddhistische Pagode in Tra Vinh mit klassischer vietnamesischer Mahayana-Tempelarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344258,
+                        9.935871
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Hòa",
+                  "text": "Ein ruhiges buddhistisches Andachtszentrum, das einen stillen Rückzugsort in der geschäftigen Stadt Tra Vinh bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.335362,
+                        9.934132
+                  ]
+            },
+            {
+                  "name": "Chùa Phướng",
+                  "text": "Ein traditionelles buddhistisches Heiligtum in Tra Vinh, das mit kunstvollen spirituellen Motiven und Statuen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.333494,
+                        9.925202
+                  ]
+            },
+            {
+                  "name": "Chợ Trà Vinh",
+                  "text": "Ein lebendiges, geschäftiges Handelszentrum im Herzen von Tra Vinh, das eine Vielzahl regionaler Lebensmittel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.34269,
+                        9.935506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chùa Ong Mẹt ̣(Khmer)",
+                  "text": "Nyüzsgő théraváda buddhista templom, amely a Tra Vinh-i Khmer Krom közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341424,
+                        9.939179
+                  ]
+            },
+            {
+                  "name": "Thánh thất Trà Vinh",
+                  "text": "Egy jellegzetes Cao Dai templom Tra Vinhben, amely a vallás jellegzetes, színes építészetét és az Isteni Szemet vonultatja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341474,
+                        9.9238
+                  ]
+            },
+            {
+                  "name": "Chùa Ông",
+                  "text": "Hagyományos istentiszteleti hely Tra Vinhben, amely díszes oltáraival a helyi kínai spirituális örökséget tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        106.341322,
+                        9.934401
+                  ]
+            },
+            {
+                  "name": "Chùa Wat Kpong Ksan",
+                  "text": "Egy klasszikus khmer buddhista szentély Tra Vinhben, amely ívelt tetőiről és arany tornyairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.343427,
+                        9.927263
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "Nyugodt buddhista templom Tra Vinhben, amely a Truc Lam Zen vonal része.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344197,
+                        9.929464
+                  ]
+            },
+            {
+                  "name": "Chùa Lưỡng Xuyên",
+                  "text": "Történelmi istentiszteleti hely Tra Vinhben, amely a régió spirituális és közösségi életében betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        106.341436,
+                        9.943353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà Vinh",
+                  "text": "Keresztény templom, amely a helyi katolikus egyházmegyét szolgálja Tra Vinh központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.34153,
+                        9.940307
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "Egy nevezetes buddhista pagoda Tra Vinhben, amely a klasszikus vietnámi mahájána templomépítészetet vonultatja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344258,
+                        9.935871
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Hòa",
+                  "text": "Nyugodt buddhista istentiszteleti központ, amely csendes menedéket nyújt a nyüzsgő Tra Vinh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.335362,
+                        9.934132
+                  ]
+            },
+            {
+                  "name": "Chùa Phướng",
+                  "text": "Egy hagyományos buddhista szentély Tra Vinhben, amelyet bonyolult spirituális motívumok és szobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.333494,
+                        9.925202
+                  ]
+            },
+            {
+                  "name": "Chợ Trà Vinh",
+                  "text": "Élénk, nyüzsgő kereskedelmi központ Tra Vinh szívében, amely különféle regionális ételeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        106.34269,
+                        9.935506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chùa Ong Mẹt ̣(Khmer)",
+                  "text": "Un templu budist Theravada vibrant care servește comunitatea Khmer Krom din Tra Vinh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341424,
+                        9.939179
+                  ]
+            },
+            {
+                  "name": "Thánh thất Trà Vinh",
+                  "text": "Un templu Cao Dai distinctiv în Tra Vinh, prezentând arhitectura colorată caracteristică religiei și Ochiul Divin.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341474,
+                        9.9238
+                  ]
+            },
+            {
+                  "name": "Chùa Ông",
+                  "text": "Un lăcaș de cult tradițional din Tra Vinh, reflectând moștenirea spirituală chineză locală, cu altare ornamentate.",
+                  "category": "religious",
+                  "coords": [
+                        106.341322,
+                        9.934401
+                  ]
+            },
+            {
+                  "name": "Chùa Wat Kpong Ksan",
+                  "text": "Un sanctuar budist khmer clasic în Tra Vinh, recunoscut prin acoperișurile sale ample și turlele aurii.",
+                  "category": "landmark",
+                  "coords": [
+                        106.343427,
+                        9.927263
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "Un templu budist senin în Tra Vinh, parte a liniei Truc Lam Zen.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344197,
+                        9.929464
+                  ]
+            },
+            {
+                  "name": "Chùa Lưỡng Xuyên",
+                  "text": "Un lăcaș de cult istoric din Tra Vinh, cunoscut pentru rolul său în viața spirituală și comunitară a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        106.341436,
+                        9.943353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà Vinh",
+                  "text": "O biserică creștină care servește eparhia catolică locală din centrul orașului Tra Vinh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.34153,
+                        9.940307
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "O pagodă budistă notabilă din Tra Vinh, având arhitectura clasică a templului Mahayana vietnamez.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344258,
+                        9.935871
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Hòa",
+                  "text": "Un centru de cult budist liniștit, care oferă un refugiu pașnic în orașul aglomerat Tra Vinh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.335362,
+                        9.934132
+                  ]
+            },
+            {
+                  "name": "Chùa Phướng",
+                  "text": "Un sanctuar budist tradițional din Tra Vinh împodobit cu motive și statui spirituale complicate.",
+                  "category": "landmark",
+                  "coords": [
+                        106.333494,
+                        9.925202
+                  ]
+            },
+            {
+                  "name": "Chợ Trà Vinh",
+                  "text": "Un centru comercial vibrant și plin de viață în inima orașului Tra Vinh, oferind o varietate de alimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.34269,
+                        9.935506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chùa Ong Mẹt ̣(Khmer)",
+                  "text": "A vibrant Theravada Buddhist temple serving the Khmer Krom community in Tra Vinh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341424,
+                        9.939179
+                  ]
+            },
+            {
+                  "name": "Thánh thất Trà Vinh",
+                  "text": "A distinctive Cao Dai temple in Tra Vinh, featuring the religion's characteristic colorful architecture and the Divine Eye.",
+                  "category": "landmark",
+                  "coords": [
+                        106.341474,
+                        9.9238
+                  ]
+            },
+            {
+                  "name": "Chùa Ông",
+                  "text": "A traditional place of worship in Tra Vinh, reflecting local Chinese spiritual heritage with ornate altars.",
+                  "category": "religious",
+                  "coords": [
+                        106.341322,
+                        9.934401
+                  ]
+            },
+            {
+                  "name": "Chùa Wat Kpong Ksan",
+                  "text": "A classic Khmer Buddhist sanctuary in Tra Vinh, recognized by its sweeping roofs and golden spires.",
+                  "category": "landmark",
+                  "coords": [
+                        106.343427,
+                        9.927263
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "A serene Buddhist temple in Tra Vinh, part of the Truc Lam Zen lineage.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344197,
+                        9.929464
+                  ]
+            },
+            {
+                  "name": "Chùa Lưỡng Xuyên",
+                  "text": "A historic place of worship in Tra Vinh, known for its role in the region's spiritual and community life.",
+                  "category": "religious",
+                  "coords": [
+                        106.341436,
+                        9.943353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà Vinh",
+                  "text": "A Christian church serving the local Catholic diocese in the center of Tra Vinh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.34153,
+                        9.940307
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "A notable Buddhist pagoda in Tra Vinh featuring classic Vietnamese Mahayana temple architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        106.344258,
+                        9.935871
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Hòa",
+                  "text": "A tranquil Buddhist worship center providing a quiet retreat within the bustling city of Tra Vinh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.335362,
+                        9.934132
+                  ]
+            },
+            {
+                  "name": "Chùa Phướng",
+                  "text": "A traditional Buddhist sanctuary in Tra Vinh adorned with intricate spiritual motifs and statues.",
+                  "category": "landmark",
+                  "coords": [
+                        106.333494,
+                        9.925202
+                  ]
+            },
+            {
+                  "name": "Chợ Trà Vinh",
+                  "text": "A vibrant, bustling trading hub in the heart of Tra Vinh offering a variety of regional foods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.34269,
+                        9.935506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-51",
     coords: [106.34, 9.95],
@@ -2731,7 +3397,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nhà",
-                  "text": "Ein Theater und kultureller Veranstaltungsort in Vĩnh Long.",
+                  "text": "Ein Kulturhaus in Long für Gemeinschaftsveranstaltungen und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         105.964784,
@@ -2740,7 +3406,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Di tích Khám lớn Vĩnh Long",
-                  "text": "Museum in Vĩnh Long, das sich in einem ehemaligen Gefängnis befindet.",
+                  "text": "Das große Gefängnis Vĩnh Long in Long ist ein historischer Kerker, heute Museum zur Kriegsgeschichte.",
                   "category": "museum",
                   "coords": [
                         105.972037,
@@ -2787,7 +3453,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nhà",
-                  "text": "Színház és kulturális helyszín Vĩnh Longban.",
+                  "text": "Egy kultúrház Longban közösségi események és előadások számára.",
                   "category": "cultural",
                   "coords": [
                         105.964784,
@@ -2796,7 +3462,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Di tích Khám lớn Vĩnh Long",
-                  "text": "Múzeum Vĩnh Longban, amely egy egykori börtönben található.",
+                  "text": "A Vĩnh Long-i Nagy Börtön Longban egy történelmi fegyház, ma a háborús történelem múzeuma.",
                   "category": "museum",
                   "coords": [
                         105.972037,
@@ -2843,7 +3509,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nhà",
-                  "text": "Un teatru și loc de desfășurare a evenimentelor culturale în Vĩnh Long.",
+                  "text": "O casă de cultură în Long, folosită pentru evenimente comunitare și spectacole.",
                   "category": "cultural",
                   "coords": [
                         105.964784,
@@ -2852,7 +3518,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Di tích Khám lớn Vĩnh Long",
-                  "text": "Muzeu din Vĩnh Long, situat într-o fostă închisoare.",
+                  "text": "Marea închisoare Vĩnh Long din Long este o temniță istorică, acum muzeu al istoriei de război.",
                   "category": "museum",
                   "coords": [
                         105.972037,
@@ -2899,7 +3565,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "nha",
-                  "text": "A theatre and cultural venue in Vĩnh Long.",
+                  "text": "A cultural house in Long, used for community events and performances.",
                   "category": "cultural",
                   "coords": [
                         105.964784,
@@ -2908,7 +3574,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Di tích Khám lớn Vĩnh Long",
-                  "text": "Museum in Vĩnh Long located in a former prison.",
+                  "text": "Vĩnh Long Grand Prison in Long, a historic jail now a museum of wartime history.",
                   "category": "museum",
                   "coords": [
                         105.972037,
@@ -3093,7 +3759,736 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "chau-doc-cities-v2",
+    id: "chau-doc-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Công viên nước Hải Đến",
+                  "text": "Ein lebhafter lokaler Wasserpark in Châu Đốc mit bunten Wasserrutschen und erfrischenden Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        105.12897,
+                        10.698038
+                  ]
+            },
+            {
+                  "name": "Mubarak Mosque",
+                  "text": "Diese historische Moschee in An Giang stammt aus dem Jahr 1750 und zeichnet sich durch eine markante islamische Architektur mit einer majestätischen Kuppel aus.",
+                  "category": "religious",
+                  "coords": [
+                        105.128574,
+                        10.710368
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hồi giáo Ehsan",
+                  "text": "Eine prominente lokale Moschee mit einem elegant gestalteten Gebetssaal, die der muslimischen Cham-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.124366,
+                        10.724639
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Long",
+                  "text": "Eine ruhige buddhistische Pagode, deren geschwungene Dachlinien mit kunstvollen Drachenmotiven verziert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        105.135874,
+                        10.70376
+                  ]
+            },
+            {
+                  "name": "Thánh Đường Hồi giáo Jamiul-azhar",
+                  "text": "Eine der größten und ältesten Moscheen der Region, erkennbar an ihrer markant farbenfrohen gefliesten Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        105.137846,
+                        10.710032
+                  ]
+            },
+            {
+                  "name": "Chùa Ông Châu Đốc",
+                  "text": "Ein traditioneller Tempel im chinesischen Stil, der mit roten Laternen und kunstvollen Altarschnitzereien geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        105.119537,
+                        10.711982
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Viên",
+                  "text": "Ein friedliches buddhistisches Heiligtum mit einem ruhigen Innenhof für Meditation abseits der belebten Straßen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.116437,
+                        10.70697
+                  ]
+            },
+            {
+                  "name": "Chùa Trắng",
+                  "text": "Bekannt als die Weiße Pagode, zeichnet sich dieses markante Gotteshaus durch helle, makellose Außenwände aus.",
+                  "category": "religious",
+                  "coords": [
+                        105.115943,
+                        10.720184
+                  ]
+            },
+            {
+                  "name": "Đình thần Vĩnh Nguơn",
+                  "text": "Ein traditionelles vietnamesisches Gemeindehaus, in dem sich die Einheimischen versammeln, um schützende Dorfgottheiten und Ahnen zu ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        105.113265,
+                        10.719955
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Châu Đốc",
+                  "text": "Eine markante katholische Kirche mit einem hoch aufragenden Turm und luftigen Bogenfenstern.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12803,
+                        10.705829
+                  ]
+            },
+            {
+                  "name": "Tinh Xa Ngoc Chau Tp. Chau Doc",
+                  "text": "Ein weitläufiges buddhistisches Klosterzentrum, das für seinen achteckigen Hauptschrein und seine friedliche Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.132567,
+                        10.703731
+                  ]
+            },
+            {
+                  "name": "Ve Thuy Than Mieu",
+                  "text": "Ein Flussschrein, der den Wassergottheiten gewidmet und mit lebhaften Keramikmosaiken geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.140956,
+                        10.702689
+                  ]
+            },
+            {
+                  "name": "Thien Hau Thanh Mau",
+                  "text": "Ein lebhaft verzierter Tempel zu Ehren der Meeresgöttin Mazu, der über kunstvolle Säulen und rauchige Altäre verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.137905,
+                        10.703744
+                  ]
+            },
+            {
+                  "name": "Masjid Al Nia' Mah",
+                  "text": "Eine wunderschöne lokale Moschee, in der sich die islamische Cham-Gemeinde unter ihrem markanten Stern-und-Halbmond-Aufsatz versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.130553,
+                        10.719857
+                  ]
+            },
+            {
+                  "name": "Đình Đa Phước",
+                  "text": "Ein Gemeindetempel, der das lokale Erbe mit seiner Holzarchitektur und den zeremoniellen Trommeln bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12127,
+                        10.714198
+                  ]
+            },
+            {
+                  "name": "Đình thần Châu Phú",
+                  "text": "Ein prominentes Gemeindehaus, das für seine anmutig geschnitzten Holzbalken und Ahnenaltäre berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.120116,
+                        10.71091
+                  ]
+            },
+            {
+                  "name": "Thánh thất Châu Đốc",
+                  "text": "Ein visuell beeindruckender Cao-Dai-Tempel, der sich durch seine leuchtend gelbe Fassade und das Symbol des Göttlichen Auges auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        105.111595,
+                        10.716299
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Thạnh",
+                  "text": "Ein belebter Gemeindemarkt mit zahlreichen Ständen, die frische tropische Früchte und regionale Haushaltswaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.114204,
+                        10.717583
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Đốc",
+                  "text": "Das wichtigste Handelszentrum der Stadt, besonders berühmt für seine massiven Auslagen an pikanten fermentierten Fischpasten.",
+                  "category": "cultural",
+                  "coords": [
+                        105.118877,
+                        10.711077
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Nguơn",
+                  "text": "Ein belebter Grenzmarkt, der eine vielfältige Mischung aus grenzüberschreitenden Waren und alltäglichen vietnamesischen Lebensmitteln bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        105.11046,
+                        10.719103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Công viên nước Hải Đến",
+                  "text": "Élénk helyi vízipark Châu Đốcban, színes csúszdákkal és frissítő medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        105.12897,
+                        10.698038
+                  ]
+            },
+            {
+                  "name": "Mubarak Mosque",
+                  "text": "Az 1750-ből származó történelmi An Giang-i mecset jellegzetes iszlám építészettel és fenséges kupolával büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        105.128574,
+                        10.710368
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hồi giáo Ehsan",
+                  "text": "A cham muszlim közösséget kiszolgáló prominens helyi mecset, elegánsan kialakított imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        105.124366,
+                        10.724639
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Long",
+                  "text": "Egy békés buddhista pagoda, amelynek íves tetővonalát díszes sárkánymotívumok ékesítik.",
+                  "category": "landmark",
+                  "coords": [
+                        105.135874,
+                        10.70376
+                  ]
+            },
+            {
+                  "name": "Thánh Đường Hồi giáo Jamiul-azhar",
+                  "text": "A régió egyik legnagyobb és legrégebbi mecsete, amely jellegzetes, színes csempés homlokzatáról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        105.137846,
+                        10.710032
+                  ]
+            },
+            {
+                  "name": "Chùa Ông Châu Đốc",
+                  "text": "Hagyományos kínai stílusú templom, amelyet vörös lampionok és bonyolult oltárfaragványok díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        105.119537,
+                        10.711982
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Viên",
+                  "text": "Békés buddhista szentély, amely csendes udvart kínál a meditációhoz, távol a nyüzsgő városi utcáktól.",
+                  "category": "landmark",
+                  "coords": [
+                        105.116437,
+                        10.70697
+                  ]
+            },
+            {
+                  "name": "Chùa Trắng",
+                  "text": "A helyiek által Fehér Pagodaként ismert lenyűgöző istentiszteleti hely fényes, makulátlan külső falakkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        105.115943,
+                        10.720184
+                  ]
+            },
+            {
+                  "name": "Đình thần Vĩnh Nguơn",
+                  "text": "Hagyományos vietnámi közösségi ház, ahol a helyiek a védelmező faluistenségek és az ősök tiszteletére gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        105.113265,
+                        10.719955
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Châu Đốc",
+                  "text": "Egy jellegzetes katolikus templom, amely magasba nyúló toronnyal és szellős, boltíves ablakokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12803,
+                        10.705829
+                  ]
+            },
+            {
+                  "name": "Tinh Xa Ngoc Chau Tp. Chau Doc",
+                  "text": "Tágas buddhista szerzetesi központ, amely nyolcszögletű főszentélyéről és békés atmoszférájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        105.132567,
+                        10.703731
+                  ]
+            },
+            {
+                  "name": "Ve Thuy Than Mieu",
+                  "text": "A vízistenségeknek szentelt folyóparti szentély, amelyet élénk kerámiamozaikok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        105.140956,
+                        10.702689
+                  ]
+            },
+            {
+                  "name": "Thien Hau Thanh Mau",
+                  "text": "A tengeristennőnek, Mazunak szentelt, élénken díszített templom, oszlopokkal és füstös oltárokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        105.137905,
+                        10.703744
+                  ]
+            },
+            {
+                  "name": "Masjid Al Nia' Mah",
+                  "text": "Gyönyörű helyi mecset, ahol a cham iszlám közösség gyűlik össze a jellegzetes csillag-és-félhold tetődísz alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.130553,
+                        10.719857
+                  ]
+            },
+            {
+                  "name": "Đình Đa Phước",
+                  "text": "Közösségi templom, amely faépítészetével és szertartási dobjaival őrzi a helyi örökséget.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12127,
+                        10.714198
+                  ]
+            },
+            {
+                  "name": "Đình thần Châu Phú",
+                  "text": "Kiemelkedő faluház, amelyet kecsesen faragott fagerendái és ősi oltárai tesznek nevezetessé.",
+                  "category": "landmark",
+                  "coords": [
+                        105.120116,
+                        10.71091
+                  ]
+            },
+            {
+                  "name": "Thánh thất Châu Đốc",
+                  "text": "Lenyűgöző Cao Dai templom, amelyet élénksárga homlokzata és az Isteni Szem szimbóluma jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        105.111595,
+                        10.716299
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Thạnh",
+                  "text": "Nyüzsgő közösségi piac, ahol az árusok friss trópusi gyümölcsöket és regionális háztartási cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.114204,
+                        10.717583
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Đốc",
+                  "text": "A város fő kereskedelmi központja, amely különösen híres a csípős erjesztett halpaszták hatalmas választékáról.",
+                  "category": "cultural",
+                  "coords": [
+                        105.118877,
+                        10.711077
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Nguơn",
+                  "text": "Élénk határ menti piac, amely a határon átnyúló áruk és a mindennapi vietnámi élelmiszerek sokszínű keverékét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        105.11046,
+                        10.719103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Công viên nước Hải Đến",
+                  "text": "Un parc acvatic local plin de viață în Châu Đốc, cu tobogane colorate și piscine răcoritoare.",
+                  "category": "recreational",
+                  "coords": [
+                        105.12897,
+                        10.698038
+                  ]
+            },
+            {
+                  "name": "Mubarak Mosque",
+                  "text": "Datând din 1750, această moschee istorică din An Giang prezintă o arhitectură islamică distinctivă cu o cupolă maiestuoasă.",
+                  "category": "religious",
+                  "coords": [
+                        105.128574,
+                        10.710368
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hồi giáo Ehsan",
+                  "text": "O moschee locală proeminentă care deservește comunitatea musulmană Cham cu sala sa de rugăciune proiectată elegant.",
+                  "category": "landmark",
+                  "coords": [
+                        105.124366,
+                        10.724639
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Long",
+                  "text": "O pagodă budistă senină, unde motive de dragoni ornamentate decorează liniile curbate ale acoperișului.",
+                  "category": "landmark",
+                  "coords": [
+                        105.135874,
+                        10.70376
+                  ]
+            },
+            {
+                  "name": "Thánh Đường Hồi giáo Jamiul-azhar",
+                  "text": "Una dintre cele mai mari și mai vechi moschei din regiune, recunoscută prin fațada sa distinctiv colorată, din faianță.",
+                  "category": "religious",
+                  "coords": [
+                        105.137846,
+                        10.710032
+                  ]
+            },
+            {
+                  "name": "Chùa Ông Châu Đốc",
+                  "text": "Un templu tradițional în stil chinezesc, împodobit cu felinare roșii și sculpturi complicate pe altar.",
+                  "category": "religious",
+                  "coords": [
+                        105.119537,
+                        10.711982
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Viên",
+                  "text": "Un sanctuar budist liniștit care oferă o curte pașnică pentru meditație, departe de străzile pline de viață ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        105.116437,
+                        10.70697
+                  ]
+            },
+            {
+                  "name": "Chùa Trắng",
+                  "text": "Cunoscută local ca Pagoda Albă, acest lăcaș de cult uimitor prezintă pereți exteriori strălucitori și imaculați.",
+                  "category": "religious",
+                  "coords": [
+                        105.115943,
+                        10.720184
+                  ]
+            },
+            {
+                  "name": "Đình thần Vĩnh Nguơn",
+                  "text": "O casă comunală tradițională vietnameză unde localnicii se adună pentru a onora zeitățile protectoare ale satului și strămoșii.",
+                  "category": "landmark",
+                  "coords": [
+                        105.113265,
+                        10.719955
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Châu Đốc",
+                  "text": "O biserică catolică distinctivă, cu o turlă falnică și ferestre boltite, aerisite.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12803,
+                        10.705829
+                  ]
+            },
+            {
+                  "name": "Tinh Xa Ngoc Chau Tp. Chau Doc",
+                  "text": "Un centru monahal budist spațios, recunoscut pentru altarul său principal octogonal și atmosfera pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        105.132567,
+                        10.703731
+                  ]
+            },
+            {
+                  "name": "Ve Thuy Than Mieu",
+                  "text": "Un sanctuar pe malul râului dedicat zeităților apei, decorat cu mozaicuri vibrante din ceramică.",
+                  "category": "landmark",
+                  "coords": [
+                        105.140956,
+                        10.702689
+                  ]
+            },
+            {
+                  "name": "Thien Hau Thanh Mau",
+                  "text": "Un templu decorat viu, dedicat zeiței mării Mazu, cu stâlpi ornamentați și altare fumurii.",
+                  "category": "landmark",
+                  "coords": [
+                        105.137905,
+                        10.703744
+                  ]
+            },
+            {
+                  "name": "Masjid Al Nia' Mah",
+                  "text": "O frumoasă moschee locală unde comunitatea islamică Cham se adună sub decorația sa distinctivă cu stea și semilună.",
+                  "category": "landmark",
+                  "coords": [
+                        105.130553,
+                        10.719857
+                  ]
+            },
+            {
+                  "name": "Đình Đa Phước",
+                  "text": "Un templu comunal care păstrează moștenirea locală prin arhitectura sa din lemn și tobele ceremoniale.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12127,
+                        10.714198
+                  ]
+            },
+            {
+                  "name": "Đình thần Châu Phú",
+                  "text": "O sală a satului proeminentă, celebrată pentru grinzile sale din lemn sculptate cu grație și altarele ancestrale.",
+                  "category": "landmark",
+                  "coords": [
+                        105.120116,
+                        10.71091
+                  ]
+            },
+            {
+                  "name": "Thánh thất Châu Đốc",
+                  "text": "Un templu Cao Dai izbitor din punct de vedere vizual, caracterizat prin fațada sa galbenă strălucitoare și simbolul Ochiului Divin.",
+                  "category": "landmark",
+                  "coords": [
+                        105.111595,
+                        10.716299
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Thạnh",
+                  "text": "O piață comunitară plină de viață, cu vânzători care oferă fructe tropicale proaspete și bunuri de uz casnic regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.114204,
+                        10.717583
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Đốc",
+                  "text": "Principalul centru comercial al orașului, deosebit de renumit pentru vitrinele sale masive cu paste de pește fermentat cu miros înțepător.",
+                  "category": "cultural",
+                  "coords": [
+                        105.118877,
+                        10.711077
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Nguơn",
+                  "text": "O piață plină de viață în zona de frontieră, oferind un amestec divers de bunuri transfrontaliere și alimente zilnice vietnameze.",
+                  "category": "cultural",
+                  "coords": [
+                        105.11046,
+                        10.719103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Công viên nước Hải Đến",
+                  "text": "A lively local water park in Châu Đốc featuring colorful water slides and refreshing pools.",
+                  "category": "recreational",
+                  "coords": [
+                        105.12897,
+                        10.698038
+                  ]
+            },
+            {
+                  "name": "Mubarak Mosque",
+                  "text": "Dating back to 1750, this historic mosque in An Giang features distinctive Islamic architecture with a majestic dome.",
+                  "category": "religious",
+                  "coords": [
+                        105.128574,
+                        10.710368
+                  ]
+            },
+            {
+                  "name": "Al Ihsan mosque",
+                  "text": "A prominent local mosque serving the Cham Muslim community with its elegantly designed prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        105.124366,
+                        10.724639
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Long",
+                  "text": "A serene Buddhist pagoda where ornate dragon motifs decorate the curving rooflines.",
+                  "category": "landmark",
+                  "coords": [
+                        105.135874,
+                        10.70376
+                  ]
+            },
+            {
+                  "name": "Jamiul Azhar Mosque",
+                  "text": "One of the largest and oldest mosques in the region, recognized by its distinctively colorful tiled façade.",
+                  "category": "religious",
+                  "coords": [
+                        105.137846,
+                        10.710032
+                  ]
+            },
+            {
+                  "name": "Chua Ong Chau Doc",
+                  "text": "A traditional Chinese-style temple adorned with red lanterns and intricate altar carvings.",
+                  "category": "religious",
+                  "coords": [
+                        105.119537,
+                        10.711982
+                  ]
+            },
+            {
+                  "name": "Chùa Châu Viên",
+                  "text": "A peaceful Buddhist sanctuary offering a quiet courtyard for meditation away from the bustling city streets.",
+                  "category": "landmark",
+                  "coords": [
+                        105.116437,
+                        10.70697
+                  ]
+            },
+            {
+                  "name": "Chùa Trắng",
+                  "text": "Known locally as the White Pagoda, this striking place of worship features bright, unblemished exterior walls.",
+                  "category": "religious",
+                  "coords": [
+                        105.115943,
+                        10.720184
+                  ]
+            },
+            {
+                  "name": "Đình thần Vĩnh Nguơn",
+                  "text": "A traditional Vietnamese communal house where locals gather to honor protective village deities and ancestors.",
+                  "category": "landmark",
+                  "coords": [
+                        105.113265,
+                        10.719955
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Châu Đốc",
+                  "text": "A distinctive Catholic church with a towering spire and airy, arched windows.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12803,
+                        10.705829
+                  ]
+            },
+            {
+                  "name": "Tinh Xa Ngoc Chau Tp. Chau Doc",
+                  "text": "A spacious Buddhist monastic center known for its octagonal main shrine and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        105.132567,
+                        10.703731
+                  ]
+            },
+            {
+                  "name": "Ve Thuy Than Mieu",
+                  "text": "A riverside shrine dedicated to water deities, decorated with vibrant ceramic mosaics.",
+                  "category": "landmark",
+                  "coords": [
+                        105.140956,
+                        10.702689
+                  ]
+            },
+            {
+                  "name": "Thien Hau Thanh Mau",
+                  "text": "A vividly decorated temple dedicated to the sea goddess Mazu, featuring ornate pillars and smoky altars.",
+                  "category": "landmark",
+                  "coords": [
+                        105.137905,
+                        10.703744
+                  ]
+            },
+            {
+                  "name": "Masjid Al Nia' Mah",
+                  "text": "A beautiful local mosque where the Cham Islamic community gathers beneath its distinct star-and-crescent finial.",
+                  "category": "landmark",
+                  "coords": [
+                        105.130553,
+                        10.719857
+                  ]
+            },
+            {
+                  "name": "Đình Đa Phước",
+                  "text": "A communal temple preserving the local heritage with its wooden architecture and ceremonial drums.",
+                  "category": "landmark",
+                  "coords": [
+                        105.12127,
+                        10.714198
+                  ]
+            },
+            {
+                  "name": "Đình thần Châu Phú",
+                  "text": "A prominent village hall celebrated for its gracefully carved wooden beams and ancestral altars.",
+                  "category": "landmark",
+                  "coords": [
+                        105.120116,
+                        10.71091
+                  ]
+            },
+            {
+                  "name": "Thánh thất Châu Đốc",
+                  "text": "A visually striking Cao Dai temple characterized by its bright yellow facade and the Divine Eye symbol.",
+                  "category": "landmark",
+                  "coords": [
+                        105.111595,
+                        10.716299
+                  ]
+            },
+            {
+                  "name": "Chợ Châu Thạnh",
+                  "text": "A bustling community marketplace filled with vendors selling fresh tropical fruit and regional household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.114204,
+                        10.717583
+                  ]
+            },
+            {
+                  "name": "Chau Doc Market",
+                  "text": "The main trading hub of the town, particularly renowned for its massive displays of pungent fermented fish pastes.",
+                  "category": "cultural",
+                  "coords": [
+                        105.118877,
+                        10.711077
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Nguơn",
+                  "text": "A lively border-area market offering a diverse mix of cross-border goods and everyday Vietnamese groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        105.11046,
+                        10.719103
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-44",
     coords: [105.12, 10.7],
@@ -3163,7 +4558,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tháp 7 tầng",
-                  "text": "Ein markantes siebenstöckiges Bauwerk in Hà Tiên.",
+                  "text": "Der siebenstöckige Turm in Tien ist eine pagodenartige Struktur mit buddhistischen Reliquien.",
                   "category": "museum",
                   "coords": [
                         104.480559,
@@ -3172,7 +4567,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Chùa mộ bà cô",
-                  "text": "Eine religiöse Stätte in Hà Tiên, die dem Gedenken gewidmet ist.",
+                  "text": "Die Bà Cô-Grabpagode in Tien ist ein Schrein, der einem lokalen weiblichen Geist gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         104.479698,
@@ -3181,7 +4576,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "NƠI AN NGHỈ  BÀ PHỐI SƯ CAO KIM ĐƠN",
-                  "text": "Eine bedeutende historische Grabstätte in Hà Tiên.",
+                  "text": "Die Ruhestätte von Cao Kim Don in Tien ist ein aufwendig verziertes Mausoleum.",
                   "category": "castle",
                   "coords": [
                         104.49719,
@@ -3190,7 +4585,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Mac Cuu Tomb",
-                  "text": "Eine monumentale Gedenkstätte zu Ehren von Mạc Cửu in Hà Tiên.",
+                  "text": "Das Grab von Mạc Cửu in Tien ist die Ruhestätte des Gründers der Region Hà Tiên.",
                   "category": "historical",
                   "coords": [
                         104.48316,
@@ -3199,7 +4594,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Trân Vǎn Án",
-                  "text": "Ein Denkmal zu Ehren einer bedeutenden Persönlichkeit in Hà Tiên.",
+                  "text": "Die Gedenkstätte Trân Vǎn Án in Tien erinnert an einen lokalen Gelehrten.",
                   "category": "historical",
                   "coords": [
                         104.489365,
@@ -3237,7 +4632,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tháp 7 tầng",
-                  "text": "Jellegzetes hétszintes építmény Hà Tiênben.",
+                  "text": "A hétemeletes torony Tienben egy pagodaszerű építmény buddhista ereklyékkel.",
                   "category": "museum",
                   "coords": [
                         104.480559,
@@ -3246,7 +4641,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Chùa mộ bà cô",
-                  "text": "Emlékhely és vallási helyszín Hà Tiênben.",
+                  "text": "A Bà Cô sírpagóda Tienben egy szentély, amelyet egy helyi női szellemnek szenteltek.",
                   "category": "museum",
                   "coords": [
                         104.479698,
@@ -3255,7 +4650,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "NƠI AN NGHỈ  BÀ PHỐI SƯ CAO KIM ĐƠN",
-                  "text": "Jelentős történelmi nyughely Hà Tiênben.",
+                  "text": "Cao Kim Don nyughelye Tienben egy díszes mauzóleum.",
                   "category": "castle",
                   "coords": [
                         104.49719,
@@ -3264,7 +4659,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Mac Cuu Tomb",
-                  "text": "Monumentális emlékhely Mạc Cửu tiszteletére Hà Tiênben.",
+                  "text": "Mạc Cửu sírja Tienben a Hà Tiên régió alapítójának nyughelye.",
                   "category": "historical",
                   "coords": [
                         104.48316,
@@ -3273,7 +4668,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Trân Vǎn Án",
-                  "text": "Egy jelentős személyiség tiszteletére emelt emlékmű Hà Tiênben.",
+                  "text": "A Trân Vǎn Án emlékhely Tienben egy helyi tudósra emlékeztet.",
                   "category": "historical",
                   "coords": [
                         104.489365,
@@ -3311,7 +4706,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tháp 7 tầng",
-                  "text": "O structură distinctivă cu șapte etaje în Hà Tiên.",
+                  "text": "Turnul cu șapte etaje din Tien este o structură asemănătoare unei pagode, cu relicve budiste.",
                   "category": "museum",
                   "coords": [
                         104.480559,
@@ -3320,7 +4715,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Chùa mộ bà cô",
-                  "text": "Un sit religios în Hà Tiên dedicat memoriei.",
+                  "text": "Pagoda-mormânt Bà Cô din Tien este un altar dedicat unui spirit feminin local.",
                   "category": "museum",
                   "coords": [
                         104.479698,
@@ -3329,7 +4724,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "NƠI AN NGHỈ  BÀ PHỐI SƯ CAO KIM ĐƠN",
-                  "text": "Un loc de odihnă istoric important în Hà Tiên.",
+                  "text": "Locul de odihnă al lui Cao Kim Don în Tien este un mausoleu ornamentat.",
                   "category": "castle",
                   "coords": [
                         104.49719,
@@ -3338,7 +4733,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Mac Cuu Tomb",
-                  "text": "Un memorial monumental în cinstea lui Mạc Cửu în Hà Tiên.",
+                  "text": "Mormântul lui Mạc Cửu din Tien este locul de odihnă al fondatorului regiunii Hà Tiên.",
                   "category": "historical",
                   "coords": [
                         104.48316,
@@ -3347,7 +4742,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Trân Vǎn Án",
-                  "text": "Un monument ridicat în cinstea unei personalități importante din Hà Tiên.",
+                  "text": "Locul memorial Trân Vǎn Án din Tien comemorează un cărturar local.",
                   "category": "historical",
                   "coords": [
                         104.489365,
@@ -3385,7 +4780,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tháp 7 tầng",
-                  "text": "A distinctive seven-story structure in Hà Tiên.",
+                  "text": "Seven-Storey Tower in Tien, a pagoda-like structure housing Buddhist relics.",
                   "category": "museum",
                   "coords": [
                         104.480559,
@@ -3394,7 +4789,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Chùa mộ bà cô",
-                  "text": "A religious site in Hà Tiên dedicated to memory.",
+                  "text": "Bà Cô Tomb Pagoda in Tien, a shrine dedicated to a local female spirit.",
                   "category": "museum",
                   "coords": [
                         104.479698,
@@ -3403,7 +4798,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "MASTER's RESTING PLACE CAO KIM DON",
-                  "text": "A significant historic resting place in Hà Tiên.",
+                  "text": "Cao Kim Don's resting place in Tien, an elaborately decorated mausoleum.",
                   "category": "castle",
                   "coords": [
                         104.49719,
@@ -3412,7 +4807,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Mac Cuu Tomb",
-                  "text": "A monumental memorial honoring Mạc Cửu in Hà Tiên.",
+                  "text": "Mac Cuu Tomb in Tien, the burial site of the founder of the Hà Tiên region.",
                   "category": "historical",
                   "coords": [
                         104.48316,
@@ -3421,7 +4816,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Trân Vǎn Án",
-                  "text": "A monument honoring a significant person in Hà Tiên.",
+                  "text": "Trân Vǎn Án memorial site in Tien, commemorating a local scholar.",
                   "category": "historical",
                   "coords": [
                         104.489365,
@@ -3499,7 +4894,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Chiến thắng Bạc Liêu",
-                  "text": "Ein Denkmal in Bạc Liêu zur Erinnerung an historische Siege.",
+                  "text": "Das Siegesdenkmal Bạc Liêu in Lieu feiert den Sieg der Provinz im Krieg.",
                   "category": "historical",
                   "coords": [
                         105.719933,
@@ -3519,7 +4914,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Chiến thắng Bạc Liêu",
-                  "text": "Történelmi győzelmek emlékére állított emlékmű Bạc Liêu-ban.",
+                  "text": "A Bạc Liêu győzelmi emlékmű Lieu-ban a tartomány háborús győzelmét ünnepli.",
                   "category": "historical",
                   "coords": [
                         105.719933,
@@ -3539,7 +4934,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Chiến thắng Bạc Liêu",
-                  "text": "Un monument în Bạc Liêu care comemorează victorii istorice.",
+                  "text": "Monumentul Victoriei Bạc Liêu din Lieu celebrează victoria provinciei în război.",
                   "category": "historical",
                   "coords": [
                         105.719933,
@@ -3559,7 +4954,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             },
             {
                   "name": "Tượng đài Chiến thắng Bạc Liêu",
-                  "text": "A monument in Bạc Liêu commemorating historical victories.",
+                  "text": "Bạc Liêu Victory Monument in Lieu, celebrating the province's wartime victory.",
                   "category": "historical",
                   "coords": [
                         105.719933,
@@ -3615,7 +5010,556 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "kon-tum-cities-v2",
+    id: "kon-tum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kon Tum Museum",
+                  "text": "Das Kon Tum Museum zeigt Exponate zur einzigartigen Kultur und traditionellen Artefakten der ethnischen Minderheiten des zentralen Hochlands.",
+                  "category": "museum",
+                  "coords": [
+                        107.998733,
+                        14.346682
+                  ]
+            },
+            {
+                  "name": "Bishop of Kontum's Building",
+                  "text": "Diese historische Attraktion in Kon Tum zeichnet sich durch ihre besondere Mischung aus französischer Kolonial- und traditioneller einheimischer Holzarchitektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        108.01058,
+                        14.35111
+                  ]
+            },
+            {
+                  "name": "Highland Eco Tours",
+                  "text": "Highland Eco Tours betreibt eine Ausflugsbasis in Kon Tum, die geführte Trekkingtouren durch das üppige zentrale Hochland anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.017838,
+                        14.353369
+                  ]
+            },
+            {
+                  "name": "Nhà thờ chính tòa Kon Tum",
+                  "text": "Diese katholische Kathedrale in Kon Tum, die allgemein als Holzkirche bekannt ist, wurde 1913 vollständig aus Palisanderholz erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        108.013222,
+                        14.345118
+                  ]
+            },
+            {
+                  "name": "Ngục Kon Tum",
+                  "text": "Dieser historische Museumskomplex bewahrt die Überreste des Kon-Tum-Gefängnisses aus der Kolonialzeit, in dem einst politische Gefangene inhaftiert waren.",
+                  "category": "museum",
+                  "coords": [
+                        107.991,
+                        14.343486
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Lâm",
+                  "text": "Chùa Phước Lâm ist eine ruhige buddhistische Stätte in Kon Tum mit verzierten, geschwungenen Dächern und einer friedlichen Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        108.005444,
+                        14.35645
+                  ]
+            },
+            {
+                  "name": "Nữ Tu Viện Thánh Phao Lô",
+                  "text": "Das Kloster Saint Paul ist ein friedlicher religiöser Komplex in Kon Tum, in dem katholische Nonnen ein ruhiges Gartengelände pflegen.",
+                  "category": "religious",
+                  "coords": [
+                        108.005245,
+                        14.347834
+                  ]
+            },
+            {
+                  "name": "Điện Thánh Mẫu",
+                  "text": "Dieses Heiligtum der buddhistischen Muttergöttin in Kon Tum ist mit lebendigen traditionellen Altären für die lokale Andacht geschmückt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.003637,
+                        14.349158
+                  ]
+            },
+            {
+                  "name": "Hội dòng Ảnh Phép Lạ (Ảnh Vảy)",
+                  "text": "Dieses markante Gebäude der katholischen Kongregation in Kon Tum dient als Versammlungsort für den Gottesdienst der örtlichen Gemeindemitglieder.",
+                  "category": "religious",
+                  "coords": [
+                        108.012606,
+                        14.346157
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Phương Hoà",
+                  "text": "Die katholische Kirche Phuong Hoa ist eine markante christliche Stätte in Kon Tum mit einem hohen Kreuz auf ihrer Hauptfassade.",
+                  "category": "landmark",
+                  "coords": [
+                        107.989396,
+                        14.340123
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tân Hương",
+                  "text": "Nhà thờ Tân Hương ist eine elegante katholische Kirche in Kon Tum, in der regelmäßig Gemeindegottesdienste abgehalten werden.",
+                  "category": "religious",
+                  "coords": [
+                        108.005374,
+                        14.345892
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phương Nghĩa",
+                  "text": "Diese stattliche katholische Kathedrale in Kon Tum zeichnet sich durch klassische Kirchenarchitektur und einen geräumigen Vorplatz aus.",
+                  "category": "religious",
+                  "coords": [
+                        108.012374,
+                        14.350919
+                  ]
+            },
+            {
+                  "name": "Chợ hoa Xuân",
+                  "text": "Während der Mondneujahrszeit ist dieser lebhafte Marktplatz in Kon Tum voll von bunten, blühenden Tet-Blumen.",
+                  "category": "cultural",
+                  "coords": [
+                        108.018204,
+                        14.364003
+                  ]
+            },
+            {
+                  "name": "Chợ phường Nguyễn Trãi",
+                  "text": "Dieser lokale Marktplatz im Viertel Nguyen Trai bietet den Bewohnern von Kon Tum täglich frische Produkte und alltägliche Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        107.993376,
+                        14.337893
+                  ]
+            },
+            {
+                  "name": "Chợ Phường Thắng Lợi",
+                  "text": "Ein Nachbarschaftsmarkt im Bezirk Thang Loi, auf dem Händler frische Lebensmittel und lokales Streetfood verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        108.020754,
+                        14.353364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kon Tum Museum",
+                  "text": "A Kon Tum Múzeum a Közép-felföld etnikai kisebbségeinek egyedi kultúráját és hagyományos tárgyi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        107.998733,
+                        14.346682
+                  ]
+            },
+            {
+                  "name": "Bishop of Kontum's Building",
+                  "text": "Ez a kon tum-i történelmi látványosság a francia gyarmati és a hagyományos bennszülött faépítészet különleges keverékéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.01058,
+                        14.35111
+                  ]
+            },
+            {
+                  "name": "Highland Eco Tours",
+                  "text": "A Highland Eco Tours kirándulóközpontot üzemeltet Kon Tumban, amely vezetett túrákat kínál a buja Közép-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        108.017838,
+                        14.353369
+                  ]
+            },
+            {
+                  "name": "Nhà thờ chính tòa Kon Tum",
+                  "text": "A Kon Tumban található katolikus katedrális, amelyet gyakran Fatemplomként is emlegetnek, teljes egészében rózsafából épült 1913-ban.",
+                  "category": "religious",
+                  "coords": [
+                        108.013222,
+                        14.345118
+                  ]
+            },
+            {
+                  "name": "Ngục Kon Tum",
+                  "text": "Ez a történelmi múzeumkomplexum a gyarmati időkből származó kon tum-i börtön maradványait őrzi, ahol egykor politikai foglyokat tartottak fogva.",
+                  "category": "museum",
+                  "coords": [
+                        107.991,
+                        14.343486
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Lâm",
+                  "text": "A Chùa Phước Lâm egy nyugodt buddhista imahely Kon Tumban, díszes, ívelt tetőkkel és egy csendes imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        108.005444,
+                        14.35645
+                  ]
+            },
+            {
+                  "name": "Nữ Tu Viện Thánh Phao Lô",
+                  "text": "A Szent Pál Kolostor egy békés vallási komplexum Kon Tumban, ahol a katolikus apácák nyugodt kerteket gondoznak.",
+                  "category": "religious",
+                  "coords": [
+                        108.005245,
+                        14.347834
+                  ]
+            },
+            {
+                  "name": "Điện Thánh Mẫu",
+                  "text": "Ezt a kon tum-i buddhista anyaistennő szentélyt élénk, hagyományos oltárok díszítik a helyi hívek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        108.003637,
+                        14.349158
+                  ]
+            },
+            {
+                  "name": "Hội dòng Ảnh Phép Lạ (Ảnh Vảy)",
+                  "text": "Ez a különleges katolikus gyülekezeti épület Kon Tumban a helyi egyházközség tagjainak gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        108.012606,
+                        14.346157
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Phương Hoà",
+                  "text": "A Phuong Hoa katolikus templom egy kiemelkedő keresztény vallási hely Kon Tumban, amelynek fő homlokzatán egy magas kereszt áll.",
+                  "category": "landmark",
+                  "coords": [
+                        107.989396,
+                        14.340123
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tân Hương",
+                  "text": "A Nhà thờ Tân Hương egy elegáns katolikus templom Kon Tumban, ahol rendszeresen tartanak közösségi istentiszteleteket.",
+                  "category": "religious",
+                  "coords": [
+                        108.005374,
+                        14.345892
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phương Nghĩa",
+                  "text": "Ez a fenséges kon tum-i katolikus katedrális klasszikus egyházi építészettel és tágas előudvarral büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        108.012374,
+                        14.350919
+                  ]
+            },
+            {
+                  "name": "Chợ hoa Xuân",
+                  "text": "A holdújév idején ez a nyüzsgő kon tum-i piac megtelik színes, virágzó Tet-virágokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        108.018204,
+                        14.364003
+                  ]
+            },
+            {
+                  "name": "Chợ phường Nguyễn Trãi",
+                  "text": "Ez a Nguyen Trai kerületi helyi piac napi friss termékeket és mindennapi háztartási cikkeket kínál Kon Tum lakosainak.",
+                  "category": "cultural",
+                  "coords": [
+                        107.993376,
+                        14.337893
+                  ]
+            },
+            {
+                  "name": "Chợ Phường Thắng Lợi",
+                  "text": "Egy környékbeli piac a Thang Loi kerületben, ahol az árusok friss élelmiszereket és helyi utcai ételeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        108.020754,
+                        14.353364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kon Tum Museum",
+                  "text": "Muzeul Kon Tum prezintă expoziții despre cultura unică și artefactele tradiționale ale minorităților etnice din Zonele Înalte Centrale.",
+                  "category": "museum",
+                  "coords": [
+                        107.998733,
+                        14.346682
+                  ]
+            },
+            {
+                  "name": "Bishop of Kontum's Building",
+                  "text": "Această atracție istorică din Kon Tum se remarcă prin amestecul său distinct de arhitectură colonială franceză și arhitectură indigenă tradițională din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        108.01058,
+                        14.35111
+                  ]
+            },
+            {
+                  "name": "Highland Eco Tours",
+                  "text": "Highland Eco Tours operează o bază de excursii în Kon Tum, oferind drumeții ghidate prin zonele luxuriante din Podișul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        108.017838,
+                        14.353369
+                  ]
+            },
+            {
+                  "name": "Nhà thờ chính tòa Kon Tum",
+                  "text": "Cunoscută sub numele de Biserica de Lemn, această catedrală catolică din Kon Tum a fost construită integral din lemn de trandafir în 1913.",
+                  "category": "religious",
+                  "coords": [
+                        108.013222,
+                        14.345118
+                  ]
+            },
+            {
+                  "name": "Ngục Kon Tum",
+                  "text": "Acest complex muzeal istoric păstrează rămășițele închisorii Kon Tum din epoca colonială, unde au fost deținuți odinioară prizonieri politici.",
+                  "category": "museum",
+                  "coords": [
+                        107.991,
+                        14.343486
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Lâm",
+                  "text": "Chùa Phước Lâm este un lăcaș budist senin din Kon Tum, cu acoperișuri curbate ornamentate și o sală de rugăciune calmă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.005444,
+                        14.35645
+                  ]
+            },
+            {
+                  "name": "Nữ Tu Viện Thánh Phao Lô",
+                  "text": "Mănăstirea Sfântul Paul este un complex religios pașnic din Kon Tum, unde călugărițele catolice întrețin grădini liniștite.",
+                  "category": "religious",
+                  "coords": [
+                        108.005245,
+                        14.347834
+                  ]
+            },
+            {
+                  "name": "Điện Thánh Mẫu",
+                  "text": "Acest sanctuar al Zeiței Mame budiste din Kon Tum este împodobit cu altare tradiționale vibrante pentru devotamentul local.",
+                  "category": "landmark",
+                  "coords": [
+                        108.003637,
+                        14.349158
+                  ]
+            },
+            {
+                  "name": "Hội dòng Ảnh Phép Lạ (Ảnh Vảy)",
+                  "text": "Acest edificiu distinct al congregației catolice din Kon Tum servește ca lăcaș de adunare și cult pentru enoriașii locali.",
+                  "category": "religious",
+                  "coords": [
+                        108.012606,
+                        14.346157
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Phương Hoà",
+                  "text": "Biserica Catolică Phuong Hoa este un loc creștin proeminent din Kon Tum, cu o cruce înaltă deasupra fațadei sale principale.",
+                  "category": "landmark",
+                  "coords": [
+                        107.989396,
+                        14.340123
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tân Hương",
+                  "text": "Nhà thờ Tân Hương este o biserică catolică elegantă din Kon Tum, unde se țin slujbe comunitare regulate.",
+                  "category": "religious",
+                  "coords": [
+                        108.005374,
+                        14.345892
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phương Nghĩa",
+                  "text": "Această catedrală catolică impunătoare din Kon Tum prezintă o arhitectură ecleziastică clasică și o curte spațioasă.",
+                  "category": "religious",
+                  "coords": [
+                        108.012374,
+                        14.350919
+                  ]
+            },
+            {
+                  "name": "Chợ hoa Xuân",
+                  "text": "În timpul sezonului Anului Nou Lunar, această piață vibrantă din Kon Tum este plină de flori colorate de Tet, aflate în plină floare.",
+                  "category": "cultural",
+                  "coords": [
+                        108.018204,
+                        14.364003
+                  ]
+            },
+            {
+                  "name": "Chợ phường Nguyễn Trãi",
+                  "text": "Această piață locală din cartierul Nguyen Trai oferă produse proaspete zilnice și bunuri de uz casnic de zi cu zi pentru locuitorii din Kon Tum.",
+                  "category": "cultural",
+                  "coords": [
+                        107.993376,
+                        14.337893
+                  ]
+            },
+            {
+                  "name": "Chợ Phường Thắng Lợi",
+                  "text": "O piață de cartier în zona Thang Loi, unde vânzătorii se adună pentru a vinde alimente proaspete și mâncare stradală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        108.020754,
+                        14.353364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kon Tum Museum",
+                  "text": "The Kon Tum Museum displays exhibits on the unique culture and traditional artifacts of the Central Highlands' ethnic minorities.",
+                  "category": "museum",
+                  "coords": [
+                        107.998733,
+                        14.346682
+                  ]
+            },
+            {
+                  "name": "Bishop of Kontum's Building",
+                  "text": "This historic attraction in Kon Tum is notable for its distinct blend of French colonial and traditional wooden indigenous architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        108.01058,
+                        14.35111
+                  ]
+            },
+            {
+                  "name": "Highland Eco Tours",
+                  "text": "Highland Eco Tours operates an excursion base in Kon Tum, offering guided treks through the lush Central Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        108.017838,
+                        14.353369
+                  ]
+            },
+            {
+                  "name": "Kon Tum Cathedral",
+                  "text": "Commonly known as the Wooden Church, this Catholic cathedral in Kon Tum was built completely from rosewood in 1913.",
+                  "category": "religious",
+                  "coords": [
+                        108.013222,
+                        14.345118
+                  ]
+            },
+            {
+                  "name": "Kon Tum Prison",
+                  "text": "This historical museum complex preserves the remains of the colonial-era Kon Tum Prison where political prisoners were once held.",
+                  "category": "museum",
+                  "coords": [
+                        107.991,
+                        14.343486
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Lâm",
+                  "text": "Chùa Phước Lâm is a serene Buddhist site in Kon Tum featuring ornate curved roofs and a calm prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        108.005444,
+                        14.35645
+                  ]
+            },
+            {
+                  "name": "Convent of Saint Paul",
+                  "text": "The Convent of Saint Paul is a peaceful religious complex in Kon Tum where Catholic nuns maintain tranquil garden grounds.",
+                  "category": "religious",
+                  "coords": [
+                        108.005245,
+                        14.347834
+                  ]
+            },
+            {
+                  "name": "Điện Thánh Mẫu",
+                  "text": "This Buddhist Mother Goddess sanctuary in Kon Tum is adorned with vibrant traditional altars for local devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        108.003637,
+                        14.349158
+                  ]
+            },
+            {
+                  "name": "Hội dòng Ảnh Phép Lạ (Ảnh Vảy)",
+                  "text": "This distinct Catholic congregation building in Kon Tum serves as a gathering place of worship for local parishioners.",
+                  "category": "religious",
+                  "coords": [
+                        108.012606,
+                        14.346157
+                  ]
+            },
+            {
+                  "name": "Phuong Hoa Catholic Church",
+                  "text": "Phuong Hoa Catholic Church is a prominent Christian site in Kon Tum featuring a tall cross atop its main facade.",
+                  "category": "landmark",
+                  "coords": [
+                        107.989396,
+                        14.340123
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tân Hương",
+                  "text": "Nhà thờ Tân Hương is an elegant Catholic church in Kon Tum where regular community services are held.",
+                  "category": "religious",
+                  "coords": [
+                        108.005374,
+                        14.345892
+                  ]
+            },
+            {
+                  "name": "Phương Nghĩa Catholic church",
+                  "text": "This stately Catholic cathedral in Kon Tum features classical ecclesiastical architecture and a spacious forecourt.",
+                  "category": "religious",
+                  "coords": [
+                        108.012374,
+                        14.350919
+                  ]
+            },
+            {
+                  "name": "Tet flower market",
+                  "text": "During the lunar new year season, this vibrant marketplace in Kon Tum brims with colorful blooming Tet flowers.",
+                  "category": "cultural",
+                  "coords": [
+                        108.018204,
+                        14.364003
+                  ]
+            },
+            {
+                  "name": "Nguyen Trai ward market",
+                  "text": "This local marketplace in the Nguyen Trai ward offers daily fresh produce and everyday household goods for Kon Tum residents.",
+                  "category": "cultural",
+                  "coords": [
+                        107.993376,
+                        14.337893
+                  ]
+            },
+            {
+                  "name": "Thang Loi Ward Market",
+                  "text": "A neighbourhood marketplace in Thang Loi Ward where vendors gather to sell fresh groceries and local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        108.020754,
+                        14.353364
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-28",
     coords: [108.00, 14.35],
@@ -3889,7 +5833,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tượng đài Chiến thắng",
-                  "text": "Tượng đài Chiến thắng ist ein Denkmal in Đồng Xoài.",
+                  "text": "Das Siegesdenkmal in Xoai ehrt gefallene Soldaten mit einer Statue.",
                   "category": "historical",
                   "coords": [
                         106.896076,
@@ -3900,7 +5844,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tượng đài Chiến thắng",
-                  "text": "A Tượng đài Chiến thắng egy emlékmű Đồng Xoài városában.",
+                  "text": "A győzelmi emlékmű Xoai-ban egy szoborral tiszteleg az elesett katonák előtt.",
                   "category": "historical",
                   "coords": [
                         106.896076,
@@ -3911,7 +5855,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tượng đài Chiến thắng",
-                  "text": "Tượng đài Chiến thắng este un monument comemorativ situat în Đồng Xoài.",
+                  "text": "Monumentul Victoriei din Xoai onorează soldații căzuți cu o statuie.",
                   "category": "historical",
                   "coords": [
                         106.896076,
@@ -3922,7 +5866,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tượng đài Chiến thắng",
-                  "text": "Tượng đài Chiến thắng is a memorial monument located in Đồng Xoài.",
+                  "text": "Victory Monument in Xoai, a statue honoring fallen soldiers.",
                   "category": "historical",
                   "coords": [
                         106.896076,
@@ -4026,7 +5970,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "tam-diep-cities-v2",
+    id: "tam-diep-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Đền dâu",
+                  "text": "Đền dâu ist ein traditionelles Gotteshaus, das den spirituellen Bedürfnissen der Gemeinde in Tam Diep dient.",
+                  "category": "religious",
+                  "coords": [
+                        105.880106,
+                        20.139417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Đền dâu",
+                  "text": "A Đền dâu egy hagyományos istentiszteleti hely, amely a közösség spirituális igényeit szolgálja Tam Diepben.",
+                  "category": "religious",
+                  "coords": [
+                        105.880106,
+                        20.139417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Đền dâu",
+                  "text": "Đền dâu este un lăcaș de cult tradițional care servește nevoilor spirituale ale comunității din Tam Diep.",
+                  "category": "religious",
+                  "coords": [
+                        105.880106,
+                        20.139417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Đền dâu",
+                  "text": "Đền dâu is a traditional place of worship serving the spiritual needs of the community in Tam Diep.",
+                  "category": "religious",
+                  "coords": [
+                        105.880106,
+                        20.139417
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-19",
     coords: [105.88, 20.15],

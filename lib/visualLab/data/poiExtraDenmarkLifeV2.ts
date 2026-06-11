@@ -421,7 +421,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Archäologische Stätte mit prähistorischen Hügeln.",
+                  "text": "Eine Gruppe bronzezeitlicher Grabhügel im Nationalpark Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -504,7 +504,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Régészeti lelőhely őskori halmokkal.",
+                  "text": "Egy csoport bronzkori temetkezési halom a Mols Bjerge Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -587,7 +587,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Sit arheologic cu movile preistorice.",
+                  "text": "Un grup de movile funerare din epoca bronzului în Parcul Național Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -670,7 +670,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Archaeological site featuring prehistoric mounds.",
+                  "text": "A group of Bronze Age burial mounds in Mols Bjerge National Park.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -727,7 +727,7 @@ export const denmarkLifeV2: POI[] = [
       "de": [
             {
                   "name": "Borrevejle Strandpark",
-                  "text": "Borrevejle Strandpark liegt im Nationalpark Skjoldungernes Land.",
+                  "text": "Strandpark an der Küste des Skjoldungernes-Land-Nationalparks.",
                   "category": "recreational",
                   "coords": [
                         11.938762,
@@ -738,7 +738,7 @@ export const denmarkLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Borrevejle Strandpark",
-                  "text": "A Borrevejle Strandpark a Skjoldungernes Land Nemzeti Parkban található.",
+                  "text": "Tengerparti rekreációs terület a Skjoldungernes Land Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         11.938762,
@@ -749,7 +749,7 @@ export const denmarkLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Borrevejle Strandpark",
-                  "text": "Parcul de plajă Borrevejle este situat în Parcul Național Skjoldungernes Land.",
+                  "text": "Parc de plajă pe coasta Parcului Național Skjoldungernes Land.",
                   "category": "recreational",
                   "coords": [
                         11.938762,
@@ -760,7 +760,7 @@ export const denmarkLifeV2: POI[] = [
       "en": [
             {
                   "name": "Borrevejle Strandpark",
-                  "text": "Borrevejle Strandpark is located in Skjoldungernes Land National Park.",
+                  "text": "Beach park on the coast of Skjoldungernes Land National Park.",
                   "category": "recreational",
                   "coords": [
                         11.938762,
@@ -817,7 +817,7 @@ export const denmarkLifeV2: POI[] = [
       "de": [
             {
                   "name": "Tevandsbugten",
-                  "text": "Tevandsbugten liegt im Nationalpark Kongernes Nordsjælland.",
+                  "text": "Bucht im Kongernes-Nordsjaelland-Nationalpark, beliebt zum Baden.",
                   "category": "recreational",
                   "coords": [
                         12.359915,
@@ -828,7 +828,7 @@ export const denmarkLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Tevandsbugten",
-                  "text": "Tevandsbugten a Kongernes Nordsjælland Nemzeti Parkban található.",
+                  "text": "Öböl a Kongernes Nordsjaelland Nemzeti Parkban, kedvelt für úszás.",
                   "category": "recreational",
                   "coords": [
                         12.359915,
@@ -839,7 +839,7 @@ export const denmarkLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Tevandsbugten",
-                  "text": "Tevandsbugten este situată în Parcul Național Kongernes Nordsjælland.",
+                  "text": "Golf în Parcul Național Kongernes Nordsjaelland, popular pentru înot.",
                   "category": "recreational",
                   "coords": [
                         12.359915,
@@ -850,7 +850,7 @@ export const denmarkLifeV2: POI[] = [
       "en": [
             {
                   "name": "Tevandsbugten",
-                  "text": "Tevandsbugten is located in the Kongernes Nordsjælland National Park.",
+                  "text": "Bay in Kongernes Nordsjaelland National Park, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         12.359915,
@@ -1672,7 +1672,7 @@ export const denmarkLifeV2: POI[] = [
       "de": [
             {
                   "name": "Faarbjerg",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Skanderborg.",
+                  "text": "Ein Hügel mit Grabhügeln im Skanderborger Seengebiet.",
                   "category": "historical",
                   "coords": [
                         9.941098,
@@ -1717,7 +1717,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Perron1",
-                  "text": "Ein Museum für zeitgenössische Kunst in Skanderborg.",
+                  "text": "Museum in einem historischen Bahnsteig im Skanderborg-Seengebiet.",
                   "category": "museum",
                   "coords": [
                         9.92623,
@@ -1755,7 +1755,7 @@ export const denmarkLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Faarbjerg",
-                  "text": "Régészeti lelőhely Skanderborg közelében.",
+                  "text": "Egy halom temetkezési halmokkal a Skanderborgi-tóvidéken.",
                   "category": "historical",
                   "coords": [
                         9.941098,
@@ -1800,7 +1800,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Perron1",
-                  "text": "Kortárs művészeti múzeum Skanderborgban.",
+                  "text": "Múzeum egy történelmi vasúti peronon a Skanderborgi-tóvidéken.",
                   "category": "museum",
                   "coords": [
                         9.92623,
@@ -1838,7 +1838,7 @@ export const denmarkLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Faarbjerg",
-                  "text": "Un sit arheologic situat în apropiere de Skanderborg.",
+                  "text": "Un deal cu movile funerare în Districtul Lacurilor Skanderborg.",
                   "category": "historical",
                   "coords": [
                         9.941098,
@@ -1883,7 +1883,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Perron1",
-                  "text": "Un muzeu de artă contemporană din Skanderborg.",
+                  "text": "Muzeu într-o platformă feroviară istorică în Districtul Lacurilor Skanderborg.",
                   "category": "museum",
                   "coords": [
                         9.92623,
@@ -1921,7 +1921,7 @@ export const denmarkLifeV2: POI[] = [
       "en": [
             {
                   "name": "Faarbjerg",
-                  "text": "An archaeological site located near Skanderborg.",
+                  "text": "A hill with burial mounds in the Skanderborg Lake District.",
                   "category": "historical",
                   "coords": [
                         9.941098,
@@ -1966,7 +1966,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Perron1",
-                  "text": "A museum of contemporary art located in Skanderborg.",
+                  "text": "Museum housed in a historic railway platform in the Skanderborg Lake District.",
                   "category": "museum",
                   "coords": [
                         9.92623,
@@ -2050,7 +2050,7 @@ export const denmarkLifeV2: POI[] = [
       "de": [
             {
                   "name": "Østre Søbad",
-                  "text": "Eine Badestelle an den Seen von Silkeborg.",
+                  "text": "Østre Søbad, ein öffentliches Seeuferbad an einem der Silkeborg Seen.",
                   "category": "recreational",
                   "coords": [
                         9.55604,
@@ -2059,7 +2059,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Vestre Søbad",
-                  "text": "Eine Badestelle an den Seen von Silkeborg.",
+                  "text": "Historisches Freibad an den Silkeborg-Seen.",
                   "category": "recreational",
                   "coords": [
                         9.543666,
@@ -2068,7 +2068,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Aggerholm",
-                  "text": "Ein Uferabschnitt an den Seen von Silkeborg.",
+                  "text": "Erholungsgebiet mit Wanderwegen in den Silkeborg-Seen.",
                   "category": "recreational",
                   "coords": [
                         9.536475,
@@ -2079,7 +2079,7 @@ export const denmarkLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Østre Søbad",
-                  "text": "Fürdőhely a silkeborgi tavaknál.",
+                  "text": "Østre Søbad, egy nyilvános tóparti fürdőhely a Silkeborgi tavak egyikén.",
                   "category": "recreational",
                   "coords": [
                         9.55604,
@@ -2088,7 +2088,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Vestre Søbad",
-                  "text": "Fürdőhely a silkeborgi tavaknál.",
+                  "text": "Történelmi strandi fürdő a Silkeborgi-tavaknál.",
                   "category": "recreational",
                   "coords": [
                         9.543666,
@@ -2097,7 +2097,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Aggerholm",
-                  "text": "Partszakasz a silkeborgi tavaknál.",
+                  "text": "Rekreációs terület túraútvonalakkal a Silkeborgi-tavaknál.",
                   "category": "recreational",
                   "coords": [
                         9.536475,
@@ -2108,7 +2108,7 @@ export const denmarkLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Østre Søbad",
-                  "text": "O zonă de scăldat pe lacurile din Silkeborg.",
+                  "text": "Østre Søbad, o zonă publică de scăldat pe malul unuia dintre lacurile Silkeborg.",
                   "category": "recreational",
                   "coords": [
                         9.55604,
@@ -2117,7 +2117,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Vestre Søbad",
-                  "text": "O zonă de scăldat pe lacurile din Silkeborg.",
+                  "text": "Baie istorică de lac în zona Lacurilor Silkeborg.",
                   "category": "recreational",
                   "coords": [
                         9.543666,
@@ -2126,7 +2126,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Aggerholm",
-                  "text": "O secțiune de țărm pe lacurile din Silkeborg.",
+                  "text": "Zonă recreativă cu poteci de drumeție în Lacurile Silkeborg.",
                   "category": "recreational",
                   "coords": [
                         9.536475,
@@ -2137,7 +2137,7 @@ export const denmarkLifeV2: POI[] = [
       "en": [
             {
                   "name": "Østre Søbad",
-                  "text": "A bathing area located at the lakes in Silkeborg.",
+                  "text": "Østre Søbad, a public lakeside bathing area on one of the Silkeborg Lakes.",
                   "category": "recreational",
                   "coords": [
                         9.55604,
@@ -2146,7 +2146,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Vestre Søbad",
-                  "text": "A bathing area located at the lakes in Silkeborg.",
+                  "text": "Historic lakeside bathing spot on the Silkeborg Lakes.",
                   "category": "recreational",
                   "coords": [
                         9.543666,
@@ -2155,7 +2155,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Aggerholm",
-                  "text": "A stretch of shore at the lakes in Silkeborg.",
+                  "text": "Recreational area with hiking trails in the Silkeborg Lakes.",
                   "category": "recreational",
                   "coords": [
                         9.536475,
@@ -2959,7 +2959,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Kong Hans' Høj",
-                  "text": "Ein sagenumwobener Grabhügel, der nach einem dänischen König benannt ist.",
+                  "text": "Ein Grabhügel, der mit König Hans verbunden ist, im Tisvilde-Hege-Wald.",
                   "category": "historical",
                   "coords": [
                         12.075298,
@@ -3033,7 +3033,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Kong Hans' Høj",
-                  "text": "Egy legendás sírhalom, amelyet egy dán királyról neveztek el.",
+                  "text": "Egy temetkezési halom, amelyet Hans királyhoz kötnek, a Tisvilde Hegn erdőben.",
                   "category": "historical",
                   "coords": [
                         12.075298,
@@ -3107,7 +3107,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Kong Hans' Høj",
-                  "text": "Un tumul legendar numit după un rege danez.",
+                  "text": "Un movilă funerară asociată cu regele Hans în Pădurea Tisvilde Hegn.",
                   "category": "historical",
                   "coords": [
                         12.075298,
@@ -3181,7 +3181,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Kong Hans' Høj",
-                  "text": "A legendary burial mound named after a Danish king.",
+                  "text": "A burial mound associated with King Hans in Tisvilde Hegn Forest.",
                   "category": "historical",
                   "coords": [
                         12.075298,
@@ -3265,7 +3265,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rishøj",
-                  "text": "Ein antiker Grabhügel in der Region der Mols-Wälder.",
+                  "text": "Ein bronzezeitlicher Grabhügel im Mols-Bjerge-Wald.",
                   "category": "historical",
                   "coords": [
                         10.544185,
@@ -3274,7 +3274,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rugdalshøi",
-                  "text": "Prähistorische archäologische Stätte in den Mols-Wäldern.",
+                  "text": "Ein vorgeschichtlicher Grabhügel im Mols-Bjerge-Wald.",
                   "category": "historical",
                   "coords": [
                         10.518506,
@@ -3292,7 +3292,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Grøftebjerghøj",
-                  "text": "Historische Grabstätte in der Landschaft der Mols-Wälder.",
+                  "text": "Ein großer Grabhügel nahe einem Graben im Mols-Bjerge-Wald.",
                   "category": "historical",
                   "coords": [
                         10.54787,
@@ -3301,7 +3301,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Poulshøj",
-                  "text": "Ein prähistorischer Grabhügel in den Mols-Wäldern.",
+                  "text": "Ein benannter Grabhügel (Poulshøj) im Mols-Bjerge-Wald.",
                   "category": "historical",
                   "coords": [
                         10.52291,
@@ -3310,7 +3310,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Juling Høje",
-                  "text": "Alte archäologische Hügel in der Region Mols.",
+                  "text": "Eine Gruppe bronzezeitlicher Grabhügel (Juling Høje) im Mols-Bjerge-Wald.",
                   "category": "historical",
                   "coords": [
                         10.536074,
@@ -3319,7 +3319,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Prähistorische Grabmähler in der Gegend der Mols-Wälder.",
+                  "text": "Eine weitere Gruppe bronzezeitlicher Grabhügel (Julings Høje) im Mols-Bjerge-Wald.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -3339,7 +3339,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rishøj",
-                  "text": "Ősi sírhalom a Mols-erdők területén.",
+                  "text": "Egy bronzkori temetkezési halom a Mols Bjerge erdőben.",
                   "category": "historical",
                   "coords": [
                         10.544185,
@@ -3348,7 +3348,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rugdalshøi",
-                  "text": "Prehisztorikus régészeti lelőhely a Mols-erdőkben.",
+                  "text": "Egy őskori temetkezési halom a Mols Bjerge erdőben.",
                   "category": "historical",
                   "coords": [
                         10.518506,
@@ -3366,7 +3366,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Grøftebjerghøj",
-                  "text": "Történelmi temetkezési hely a Mols-erdők vidékén.",
+                  "text": "Egy nagy temetkezési halom egy árok mellett a Mols Bjerge erdőben.",
                   "category": "historical",
                   "coords": [
                         10.54787,
@@ -3375,7 +3375,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Poulshøj",
-                  "text": "Prehisztorikus sírhalom a Mols-erdőkben.",
+                  "text": "Egy névvel ellátott temetkezési halom (Poulshøj) a Mols Bjerge erdőben.",
                   "category": "historical",
                   "coords": [
                         10.52291,
@@ -3384,7 +3384,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Juling Høje",
-                  "text": "Ősi régészeti halmok a Mols régióban.",
+                  "text": "Egy csoport bronzkori temetkezési halom (Juling Høje) a Mols Bjerge erdőben.",
                   "category": "historical",
                   "coords": [
                         10.536074,
@@ -3393,7 +3393,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Prehisztorikus síremlékek a Mols-erdők környékén.",
+                  "text": "Egy másik csoport bronzkori temetkezési halom (Julings Høje) a Mols Bjerge erdőben.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -3413,7 +3413,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rishøj",
-                  "text": "Un tumul antic în regiunea pădurilor Mols.",
+                  "text": "Un movilă funerară din epoca bronzului în Pădurea Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.544185,
@@ -3422,7 +3422,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rugdalshøi",
-                  "text": "Sit arheologic preistoric în pădurile Mols.",
+                  "text": "Un movilă funerară preistorică în Pădurea Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.518506,
@@ -3440,7 +3440,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Grøftebjerghøj",
-                  "text": "Sit funerar istoric în peisajul pădurilor Mols.",
+                  "text": "Un movilă funerară mare lângă un șanț în Pădurea Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.54787,
@@ -3449,7 +3449,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Poulshøj",
-                  "text": "Un tumul preistoric în pădurile Mols.",
+                  "text": "Un movilă funerară cu nume (Poulshøj) în Pădurea Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.52291,
@@ -3458,7 +3458,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Juling Høje",
-                  "text": "Tumuli arheologici vechi în regiunea Mols.",
+                  "text": "Un grup de movile funerare din epoca bronzului (Juling Høje) în Pădurea Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.536074,
@@ -3467,7 +3467,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Monumente funerare preistorice în zona pădurilor Mols.",
+                  "text": "Un alt grup de movile funerare din epoca bronzului (Julings Høje) în Pădurea Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -3487,7 +3487,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rishøj",
-                  "text": "An ancient burial mound in the Mols Forests region.",
+                  "text": "A Bronze Age burial mound in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.544185,
@@ -3496,7 +3496,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Rugdalshøi",
-                  "text": "Prehistoric archaeological site in the Mols Forests.",
+                  "text": "A prehistoric burial mound in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.518506,
@@ -3514,7 +3514,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Grøftebjerghøj",
-                  "text": "Historical burial site in the Mols Forests landscape.",
+                  "text": "A large burial mound near a ditch in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.54787,
@@ -3523,7 +3523,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Poulshøj",
-                  "text": "A prehistoric burial mound in the Mols Forests.",
+                  "text": "A named burial mound (Poulshøj) in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.52291,
@@ -3532,7 +3532,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Juling Høje",
-                  "text": "Ancient archaeological mounds in the Mols region.",
+                  "text": "A group of Bronze Age burial mounds (Juling Høje) in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.536074,
@@ -3541,7 +3541,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Julings Høje",
-                  "text": "Prehistoric burial monuments in the Mols Forests area.",
+                  "text": "Another group of Bronze Age burial mounds (Julings Høje) in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.538063,
@@ -3598,7 +3598,7 @@ export const denmarkLifeV2: POI[] = [
       "de": [
             {
                   "name": "Havnevigen",
-                  "text": "Havnevigen ist ein Strandbereich am Rande der Amager Fælled.",
+                  "text": "Kleine Bucht und Hafen im Naturschutzgebiet Amager Fælled.",
                   "category": "recreational",
                   "coords": [
                         12.566272,
@@ -3609,7 +3609,7 @@ export const denmarkLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Havnevigen",
-                  "text": "Havnevigen egy strandterület az Amager Fælled szélén.",
+                  "text": "Kis öböl és kikötő az Amager Fælled természetvédelmi területen.",
                   "category": "recreational",
                   "coords": [
                         12.566272,
@@ -3620,7 +3620,7 @@ export const denmarkLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Havnevigen",
-                  "text": "Havnevigen este o zonă de plajă la marginea Amager Fælled.",
+                  "text": "Golfuleț și port în rezervația naturală Amager Fælled.",
                   "category": "recreational",
                   "coords": [
                         12.566272,
@@ -3631,7 +3631,7 @@ export const denmarkLifeV2: POI[] = [
       "en": [
             {
                   "name": "Havnevigen",
-                  "text": "Havnevigen is a beach area on the edge of Amager Fælled.",
+                  "text": "Small bay and harbour in the Amager Fælled nature reserve.",
                   "category": "recreational",
                   "coords": [
                         12.566272,
@@ -4534,7 +4534,7 @@ export const denmarkLifeV2: POI[] = [
       "de": [
             {
                   "name": "Røser i Vestermarie plantage",
-                  "text": "Alte Grabhügel oder Steinhaufen auf der Insel Bornholm.",
+                  "text": "Vorgeschichtliche Steinformationen in der Plantage Vestermarie auf Bornholm.",
                   "category": "historical",
                   "coords": [
                         14.850015,
@@ -4570,7 +4570,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Arboretet",
-                  "text": "Botanischer Garten mit einer Vielzahl von Baumarten.",
+                  "text": "Ein Arboretum im Gebiet Bornholm Natur und Wildtiere.",
                   "category": "park",
                   "coords": [
                         14.878027,
@@ -4599,7 +4599,7 @@ export const denmarkLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Røser i Vestermarie plantage",
-                  "text": "Ősi sírhalmok vagy kőrakások Bornholm szigetén.",
+                  "text": "Őskori kőalakzatok a vestermarie-i ültetvényen Bornholmon.",
                   "category": "historical",
                   "coords": [
                         14.850015,
@@ -4635,7 +4635,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Arboretet",
-                  "text": "Botanikus kert különféle fafajokkal.",
+                  "text": "Egy arborétum a Bornholmi Természeti és Vadvilág területén.",
                   "category": "park",
                   "coords": [
                         14.878027,
@@ -4664,7 +4664,7 @@ export const denmarkLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Røser i Vestermarie plantage",
-                  "text": "Gorgane vechi sau morminte de piatră pe insula Bornholm.",
+                  "text": "Formațiuni preistorice de piatră în plantația Vestermarie din Bornholm.",
                   "category": "historical",
                   "coords": [
                         14.850015,
@@ -4700,7 +4700,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Arboretet",
-                  "text": "Grădină botanică ce prezintă diverse specii de arbori.",
+                  "text": "Un arboretum în zona Natură și Faună Sălbatică Bornholm.",
                   "category": "park",
                   "coords": [
                         14.878027,
@@ -4729,7 +4729,7 @@ export const denmarkLifeV2: POI[] = [
       "en": [
             {
                   "name": "Røser i Vestermarie plantage",
-                  "text": "Ancient burial mounds or stone heaps on Bornholm.",
+                  "text": "Prehistoric stone formations in Vestermarie plantation on Bornholm.",
                   "category": "historical",
                   "coords": [
                         14.850015,
@@ -4765,7 +4765,7 @@ export const denmarkLifeV2: POI[] = [
             },
             {
                   "name": "Arboretet",
-                  "text": "Botanical garden showcasing diverse tree species.",
+                  "text": "An arboretum in the Bornholm Nature Wildlife area.",
                   "category": "park",
                   "coords": [
                         14.878027,

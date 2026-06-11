@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraCambodiaNatureV2: POI[] = [
   {
-    id: "tonle-sap-lake-nature-v2",
+    id: "tonle-sap-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "តំបន់ការពារបឹងទនេសាប",
+                  "text": "Ein großes Naturschutzgebiet, das das vielfältige Feuchtgebietsökosystem der Tonle-Sap-See-Region schützt.",
+                  "category": "natural",
+                  "coords": [
+                        104.001398,
+                        12.934227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "តំបន់ការពារបឹងទនេសាប",
+                  "text": "Egy nagy természetvédelmi terület, amely a Tonle Sap-tó régiójának változatos vizesélőhely-ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        104.001398,
+                        12.934227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "តំបន់ការពារបឹងទនេសាប",
+                  "text": "O rezervație naturală mare care protejează ecosistemul divers de zone umede al regiunii lacului Tonle Sap.",
+                  "category": "natural",
+                  "coords": [
+                        104.001398,
+                        12.934227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boeung Tonle Sap Protected Area",
+                  "text": "A large nature reserve protecting the diverse wetland ecosystem of the Tonle Sap lake region.",
+                  "category": "natural",
+                  "coords": [
+                        104.001398,
+                        12.934227
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KH-17",
     coords: [104.0500, 12.9667],
@@ -47,7 +92,196 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "phnom-kulen-national-park-nature-v2",
+    id: "phnom-kulen-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "មហេន្ទ្របវ៌ត",
+                  "text": "Verborgen unter dem dichten Blätterdach des Dschungels bewahrt diese archäologische Stätte eine frühe Hauptstadt des Khmer-Reiches aus dem 9. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        104.137969,
+                        13.547828
+                  ]
+            },
+            {
+                  "name": "កំណាយ​ឡ​បុរាណ",
+                  "text": "Diese archäologische Ausgrabungsstätte brachte alte Brennöfen zutage, die einst für die Herstellung klassischer Khmer-Keramik genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        104.141442,
+                        13.545616
+                  ]
+            },
+            {
+                  "name": "Poeng Eisei",
+                  "text": "Diese zerfallenen Felsformationen dienten einst als isolierte Einsiedelei tief im Kulen-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        104.147795,
+                        13.525397
+                  ]
+            },
+            {
+                  "name": "ព្រះអុង់ធំវត្ត",
+                  "text": "Diese aktive buddhistische Pagode ist berühmt für ihren kolossalen liegenden Buddha, der sorgfältig in einen massiven natürlichen Sandsteinfelsen gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        104.111191,
+                        13.563823
+                  ]
+            },
+            {
+                  "name": "ភ្នំគូលេន",
+                  "text": "Dieses heilige Gebirge wird in der hinduistischen Tradition hoch verehrt und besticht durch Flussbetten, in die Tausende von alten Lingas geschnitzt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        104.109177,
+                        13.569018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "មហេន្ទ្របវ៌ត",
+                  "text": "A dzsungel sűrű lombkoronája alatt megbúvó régészeti lelőhely a Khmer Birodalom egyik korai, 9. századi fővárosát őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        104.137969,
+                        13.547828
+                  ]
+            },
+            {
+                  "name": "កំណាយ​ឡ​បុរាណ",
+                  "text": "Ez a régészeti ásatási terület olyan ősi kemencéket tárt fel, amelyeket egykor klasszikus khmer kerámiák gyártására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        104.141442,
+                        13.545616
+                  ]
+            },
+            {
+                  "name": "Poeng Eisei",
+                  "text": "Ezek a romos sziklaalakzatok egykor elszigetelt remeteségként szolgáltak a Kulen-erdő mélyén.",
+                  "category": "historical",
+                  "coords": [
+                        104.147795,
+                        13.525397
+                  ]
+            },
+            {
+                  "name": "ព្រះអុង់ធំវត្ត",
+                  "text": "Ez az aktív buddhista pagoda arról a hatalmas fekvő Buddháról híres, amelyet aprólékosan egy masszív természetes homokkőtömbbe faragtak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.111191,
+                        13.563823
+                  ]
+            },
+            {
+                  "name": "ភ្នំគូលេន",
+                  "text": "Ezt a szent hegységet a hindu hagyományok nagy tiszteletben tartják, és folyómedreiben több ezer ősi lingam van kifaragva.",
+                  "category": "landmark",
+                  "coords": [
+                        104.109177,
+                        13.569018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "មហេន្ទ្របវ៌ត",
+                  "text": "Ascuns sub coronamentul gros al junglei, acest sit arheologic păstrează o capitală de la începutul secolului al IX-lea a Imperiului Khmer.",
+                  "category": "historical",
+                  "coords": [
+                        104.137969,
+                        13.547828
+                  ]
+            },
+            {
+                  "name": "កំណាយ​ឡ​បុរាណ",
+                  "text": "Acest sit de excavații arheologice a scos la iveală cuptoare antice folosite cândva pentru producerea ceramicii clasice khmere.",
+                  "category": "historical",
+                  "coords": [
+                        104.141442,
+                        13.545616
+                  ]
+            },
+            {
+                  "name": "Poeng Eisei",
+                  "text": "Aceste formațiuni stâncoase în ruine au servit cândva ca adăpost izolat pentru pustnici, adânc în pădurea Kulen.",
+                  "category": "historical",
+                  "coords": [
+                        104.147795,
+                        13.525397
+                  ]
+            },
+            {
+                  "name": "ព្រះអុង់ធំវត្ត",
+                  "text": "Această pagodă budistă activă este renumită pentru colosalul său Buddha culcat, sculptat cu meticulozitate într-un imens bolovan natural de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        104.111191,
+                        13.563823
+                  ]
+            },
+            {
+                  "name": "ភ្នំគូលេន",
+                  "text": "Acest lanț muntos sacru este foarte venerat în tradiția hindusă și prezintă albii sculptate cu mii de lingamuri antice.",
+                  "category": "landmark",
+                  "coords": [
+                        104.109177,
+                        13.569018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahendraparvata",
+                  "text": "Hidden beneath the thick jungle canopy, this archaeological site preserves an early 9th-century capital city of the Khmer Empire.",
+                  "category": "historical",
+                  "coords": [
+                        104.137969,
+                        13.547828
+                  ]
+            },
+            {
+                  "name": "កំណាយ​ឡ​បុរាណ",
+                  "text": "This archaeological excavation site has unearthed ancient kilns once used for producing classic Khmer ceramics.",
+                  "category": "historical",
+                  "coords": [
+                        104.141442,
+                        13.545616
+                  ]
+            },
+            {
+                  "name": "Poeng Eisei",
+                  "text": "These ruined rock formations once served as an isolated hermitage shelter deep in the Kulen forest.",
+                  "category": "historical",
+                  "coords": [
+                        104.147795,
+                        13.525397
+                  ]
+            },
+            {
+                  "name": "Preah Ong Thom Pagoda",
+                  "text": "This active Buddhist pagoda is famous for its colossal reclining Buddha meticulously carved into a massive natural sandstone boulder.",
+                  "category": "landmark",
+                  "coords": [
+                        104.111191,
+                        13.563823
+                  ]
+            },
+            {
+                  "name": "ភ្នំគូលេន",
+                  "text": "This sacred mountain range is highly revered in Hindu tradition and features riverbeds carved with thousands of ancient lingas.",
+                  "category": "landmark",
+                  "coords": [
+                        104.109177,
+                        13.569018
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KH-17",
     coords: [104.1000, 13.6000],
@@ -223,7 +457,412 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "ream-national-park-nature-v2",
+    id: "ream-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coral (snorkel)",
+                  "text": "Dieser Schnorchelplatz bietet Zugang zu einem bunten Korallenriff im flachen, warmen Küstenwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        103.579377,
+                        10.507744
+                  ]
+            },
+            {
+                  "name": "Fishing Village",
+                  "text": "Das traditionelle Fischerdorf besticht durch seine Holzboote und einfachen Pfahlbauten an der Flussmündung.",
+                  "category": "landmark",
+                  "coords": [
+                        103.604623,
+                        10.495381
+                  ]
+            },
+            {
+                  "name": "Monkey Maya",
+                  "text": "Monkey Maya ist ein von dichtem Dschungel umgebenes Strandresort, in dem man häufig wild lebende Affen beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        103.654343,
+                        10.499122
+                  ]
+            },
+            {
+                  "name": "Plankton Beach",
+                  "text": "Plankton Beach ist ein sandiger Küstenabschnitt, der nachts für sein blau leuchtendes biolumineszierendes Plankton berühmt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        103.592959,
+                        10.480035
+                  ]
+            },
+            {
+                  "name": "ឆ្នេររាម",
+                  "text": "Ream Beach ist ein unberührter, goldener Sandstrand, der direkt an das üppige Grün des gleichnamigen Nationalparks grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        103.715662,
+                        10.50365
+                  ]
+            },
+            {
+                  "name": "វត្ត​រាម",
+                  "text": "Wat Ream ist ein farbenfroher buddhistischer Tempelkomplex, der in die dichte Vegetation des Nationalparks eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.618917,
+                        10.515526
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Long Beach ist ein weitläufiger Streifen weißen Sandes, der sich kilometerlang am Rand des Naturschutzgebietes entlangzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        103.584889,
+                        10.495927
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach ist ein nach Osten ausgerichteter Sandstrand, der Besuchern spektakuläre morgendliche Ausblicke über den Ozean bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.601458,
+                        10.481093
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរកោះស្រមោច",
+                  "text": "Der Strand von Koh Sramaoch liegt auf einer kleinen, bewaldeten Insel und ist von kristallklarem Wasser umgeben.",
+                  "category": "recreational",
+                  "coords": [
+                        103.62503,
+                        10.496221
+                  ]
+            },
+            {
+                  "name": "Prek Chak Beach",
+                  "text": "Prek Chak Beach ist eine friedliche sandige Küstenlinie nahe einem schilfgesäumten Flussarm.",
+                  "category": "recreational",
+                  "coords": [
+                        103.647747,
+                        10.497606
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរកោះសំពោច",
+                  "text": "Der Strand von Sampouch Island bietet unberührten Korallensand an der Küste eines kleinen Eilandes im Golf von Thailand.",
+                  "category": "recreational",
+                  "coords": [
+                        103.665833,
+                        10.501877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coral (snorkel)",
+                  "text": "Ez a sznorkelező hely egy sekély, meleg parti vízben lévő színes korallzátonyhoz nyújt hozzáférést.",
+                  "category": "landmark",
+                  "coords": [
+                        103.579377,
+                        10.507744
+                  ]
+            },
+            {
+                  "name": "Fishing Village",
+                  "text": "A hagyományos halászfalu fakishajókkal és egyszerű cölöpházakkal büszkélkedhet a folyótorkolatnál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.604623,
+                        10.495381
+                  ]
+            },
+            {
+                  "name": "Monkey Maya",
+                  "text": "A Monkey Maya egy sűrű dzsungellel körülvett tengerparti üdülőhely, ahol gyakran láthatók vadon élő majmok.",
+                  "category": "recreational",
+                  "coords": [
+                        103.654343,
+                        10.499122
+                  ]
+            },
+            {
+                  "name": "Plankton Beach",
+                  "text": "A Plankton Beach egy homokos partszakasz, amely éjszaka kék fényben ragyogó biolumineszcens planktonjairól híres.",
+                  "category": "recreational",
+                  "coords": [
+                        103.592959,
+                        10.480035
+                  ]
+            },
+            {
+                  "name": "ឆ្នេររាម",
+                  "text": "A Ream Beach egy érintetlen, aranyhomokos strand, amely közvetlenül az azonos nevű nemzeti park buja növényzetével határos.",
+                  "category": "recreational",
+                  "coords": [
+                        103.715662,
+                        10.50365
+                  ]
+            },
+            {
+                  "name": "វត្ត​រាម",
+                  "text": "A Wat Ream egy színes buddhista templomkomplexum, amely a nemzeti park sűrű növényzetében bújik meg.",
+                  "category": "religious",
+                  "coords": [
+                        103.618917,
+                        10.515526
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "A Long Beach egy hatalmas fehér homokos partszakasz, amely kilométereken át húzódik a természetvédelmi terület peremén.",
+                  "category": "recreational",
+                  "coords": [
+                        103.584889,
+                        10.495927
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "A Sunrise Beach egy kelet felé néző homokos strand, amely látványos reggeli kilátást nyújt az óceánra a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        103.601458,
+                        10.481093
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរកោះស្រមោច",
+                  "text": "A Koh Sramaoch strand egy kis, erdős szigeten található, amelyet kristálytiszta víz vesz körül.",
+                  "category": "recreational",
+                  "coords": [
+                        103.62503,
+                        10.496221
+                  ]
+            },
+            {
+                  "name": "Prek Chak Beach",
+                  "text": "A Prek Chak Beach egy békés, homokos partszakasz egy náddal szegélyezett folyóág közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        103.647747,
+                        10.497606
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរកោះសំពោច",
+                  "text": "A Sampouch-sziget strandja érintetlen korallhomokot kínál egy kis thaiföldi-öböli sziget partján.",
+                  "category": "recreational",
+                  "coords": [
+                        103.665833,
+                        10.501877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coral (snorkel)",
+                  "text": "Acest loc pentru snorkeling oferă acces la un recif de corali colorat în apele de coastă calde și puțin adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        103.579377,
+                        10.507744
+                  ]
+            },
+            {
+                  "name": "Fishing Village",
+                  "text": "Satul tradițional de pescari se remarcă prin bărcile sale de lemn și casele simple pe piloni la gura râului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.604623,
+                        10.495381
+                  ]
+            },
+            {
+                  "name": "Monkey Maya",
+                  "text": "Monkey Maya este o stațiune pe plajă înconjurată de junglă deasă, unde adesea pot fi observate maimuțe sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        103.654343,
+                        10.499122
+                  ]
+            },
+            {
+                  "name": "Plankton Beach",
+                  "text": "Plankton Beach este o porțiune de coastă cu nisip, renumită noaptea pentru planctonul său bioluminiscent albastru.",
+                  "category": "recreational",
+                  "coords": [
+                        103.592959,
+                        10.480035
+                  ]
+            },
+            {
+                  "name": "ឆ្នេររាម",
+                  "text": "Ream Beach este o plajă cu nisip auriu, imaculată, mărginită de vegetația luxuriantă a parcului național omonim.",
+                  "category": "recreational",
+                  "coords": [
+                        103.715662,
+                        10.50365
+                  ]
+            },
+            {
+                  "name": "វត្ត​រាម",
+                  "text": "Wat Ream este un complex de temple budiste colorat, amplasat în vegetația densă a parcului național.",
+                  "category": "religious",
+                  "coords": [
+                        103.618917,
+                        10.515526
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Long Beach este o întindere vastă de nisip alb, care se prelungește pe kilometri la marginea rezervației naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        103.584889,
+                        10.495927
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach este o plajă orientată spre est, oferind vizitatorilor vederi spectaculoase de dimineață asupra oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        103.601458,
+                        10.481093
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរកោះស្រមោច",
+                  "text": "Plaja din Koh Sramaoch se află pe o mică insulă împădurită și este înconjurată de ape limpezi precum cristalul.",
+                  "category": "recreational",
+                  "coords": [
+                        103.62503,
+                        10.496221
+                  ]
+            },
+            {
+                  "name": "Prek Chak Beach",
+                  "text": "Prek Chak Beach este o linie de coastă nisipoasă pașnică, aproape de un braț de râu mărginit de stuf.",
+                  "category": "recreational",
+                  "coords": [
+                        103.647747,
+                        10.497606
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរកោះសំពោច",
+                  "text": "Plaja de pe insula Sampouch oferă nisip coraligen curat pe coasta unei mici insulițe din Golful Thailandei.",
+                  "category": "recreational",
+                  "coords": [
+                        103.665833,
+                        10.501877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coral (snorkel)",
+                  "text": "This snorkeling spot offers access to a vibrant coral reef in the shallow, warm coastal waters.",
+                  "category": "landmark",
+                  "coords": [
+                        103.579377,
+                        10.507744
+                  ]
+            },
+            {
+                  "name": "Fishing Village",
+                  "text": "The traditional fishing village is characterized by its wooden boats and simple stilted houses at the river estuary.",
+                  "category": "landmark",
+                  "coords": [
+                        103.604623,
+                        10.495381
+                  ]
+            },
+            {
+                  "name": "Monkey Maya",
+                  "text": "Monkey Maya is a beach resort surrounded by dense jungle, where wild monkeys are frequently spotted.",
+                  "category": "recreational",
+                  "coords": [
+                        103.654343,
+                        10.499122
+                  ]
+            },
+            {
+                  "name": "Plankton Beach",
+                  "text": "Plankton Beach is a sandy coastal stretch famous at night for its glowing blue bioluminescent plankton.",
+                  "category": "recreational",
+                  "coords": [
+                        103.592959,
+                        10.480035
+                  ]
+            },
+            {
+                  "name": "ឆ្នេររាម",
+                  "text": "Ream Beach is an unspoiled golden sandy shore bordering the lush greenery of the eponymous national park.",
+                  "category": "recreational",
+                  "coords": [
+                        103.715662,
+                        10.50365
+                  ]
+            },
+            {
+                  "name": "Wat Ream",
+                  "text": "Wat Ream is a colorful Buddhist temple complex nestled within the dense vegetation of the national park.",
+                  "category": "religious",
+                  "coords": [
+                        103.618917,
+                        10.515526
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Long Beach is an extensive strip of white sand stretching for kilometers along the edge of the nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        103.584889,
+                        10.495927
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach is an east-facing sandy shore that provides visitors with spectacular morning views across the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        103.601458,
+                        10.481093
+                  ]
+            },
+            {
+                  "name": "Koh Sramaoch Beach",
+                  "text": "Koh Sramaoch Beach is situated on a small, forested island surrounded by crystal-clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        103.62503,
+                        10.496221
+                  ]
+            },
+            {
+                  "name": "Prek Chak Beach",
+                  "text": "Prek Chak Beach is a peaceful sandy coastline near a reed-fringed river estuary.",
+                  "category": "recreational",
+                  "coords": [
+                        103.647747,
+                        10.497606
+                  ]
+            },
+            {
+                  "name": "Sampouch Island Beach",
+                  "text": "Sampouch Island Beach features pristine coral sand on the coast of a small islet in the Gulf of Thailand.",
+                  "category": "recreational",
+                  "coords": [
+                        103.665833,
+                        10.501877
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KH-18",
     coords: [103.6500, 10.5167],
@@ -267,7 +906,52 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "yeak-laom-lake-nature-v2",
+    id: "yeak-laom-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cultural Center",
+                  "text": "In der Nähe des unberührten Kratersees gelegen, zeigt dieses Museum das reiche Erbe und die traditionellen Artefakte der lokalen indigenen Gemeinschaften.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Az érintetlen krátertó közelében található múzeum a helyi őslakos közösségek gazdag örökségét és hagyományos tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Situat lângă lacul vulcanic imaculat, acest muzeu prezintă bogata moștenire și artefactele tradiționale ale comunităților indigene locale.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Situated near the pristine crater lake, this museum showcases the rich heritage and traditional artifacts of the local indigenous communities.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KH-16",
     coords: [107.0161, 13.7317],
@@ -311,7 +995,304 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kirirom-national-park-nature-v2",
+    id: "kirirom-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tree House",
+                  "text": "Der Aussichtspunkt Tree House bietet eine hochgelegene hölzerne Aussichtsplattform mit Blick auf die dichten Kiefernwälder von Kirirom.",
+                  "category": "natural",
+                  "coords": [
+                        104.076671,
+                        11.299862
+                  ]
+            },
+            {
+                  "name": "Naga sculpture",
+                  "text": "Dieses Denkmal zeigt eine mythische mehrköpfige Naga-Schlange, die aus Stein gehauen wurde und die Wege innerhalb des Nationalparks bewacht.",
+                  "category": "historical",
+                  "coords": [
+                        104.059691,
+                        11.340795
+                  ]
+            },
+            {
+                  "name": "Kirirom cliff",
+                  "text": "Die Kirirom-Klippe ist eine steile Felswand, die einen weiten Panoramablick auf die Kardamomberge und die darunter liegenden Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        104.052028,
+                        11.385743
+                  ]
+            },
+            {
+                  "name": "Angkorian Statue",
+                  "text": "Verstreut zwischen den Kiefern befinden sich diese verwitterten Steinruinen, darunter eine traditionelle Angkor-Statue, die das alte Khmer-Erbe repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        104.048568,
+                        11.334523
+                  ]
+            },
+            {
+                  "name": "King's Ruined Residence",
+                  "text": "Die Überreste der zerstörten Residenz des Königs bestehen aus einem moosbedeckten Betonfundament eines ehemaligen königlichen Rückzugsortes, der in den 1970er Jahren zerstört wurde.",
+                  "category": "historical",
+                  "coords": [
+                        104.040718,
+                        11.33522
+                  ]
+            },
+            {
+                  "name": "ឧទ្យានជាតិ គិរីរម្យ",
+                  "text": "Der Kirirom-Nationalpark ist ein hochgelegenes Naturschutzgebiet in den Kardamombergen, das für seine Kiefernwälder, Wasserfälle und sein einzigartiges Mikroklima bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        104.051383,
+                        11.307452
+                  ]
+            },
+            {
+                  "name": "Wat Kirirom",
+                  "text": "Wat Kirirom ist eine friedliche Bergpagode inmitten der Kiefernwälder, die den Besuchern des Nationalparks spirituellen Trost spendet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.077017,
+                        11.330394
+                  ]
+            },
+            {
+                  "name": "វត្តព្រះអង្គគោកធ្លក",
+                  "text": "Dieses hoch gelegene buddhistische Kloster verfügt über traditionelle religiöse Khmer-Strukturen vor der Kulisse der ruhigen Waldlandschaft von Kirirom.",
+                  "category": "landmark",
+                  "coords": [
+                        104.06986,
+                        11.333171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tree House",
+                  "text": "A Tree House (Lombház) kilátóhely egy magaslati fa megfigyelő platformot kínál, kilátással a Kirirom sűrű fenyőerdőire.",
+                  "category": "natural",
+                  "coords": [
+                        104.076671,
+                        11.299862
+                  ]
+            },
+            {
+                  "name": "Naga sculpture",
+                  "text": "Ez az emlékmű egy kőből faragott, mitikus többfejű Naga-kígyót ábrázol, amely a nemzeti parkon belüli ösvényeket őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        104.059691,
+                        11.340795
+                  ]
+            },
+            {
+                  "name": "Kirirom cliff",
+                  "text": "A Kirirom-szikla egy drámai sziklás meredély, amely lenyűgöző panorámát nyújt a Kardamom-hegységre és az alatta elterülő völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        104.052028,
+                        11.385743
+                  ]
+            },
+            {
+                  "name": "Angkorian Statue",
+                  "text": "A fenyőfák között elszórtan találhatók ezek az időjárás viszontagságainak kitett kőromok, köztük egy hagyományos angkori szobor, amely az ősi khmer örökséget képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        104.048568,
+                        11.334523
+                  ]
+            },
+            {
+                  "name": "King's Ruined Residence",
+                  "text": "A Király romos rezidenciájának maradványai egy egykori, az 1970-es években elpusztult királyi menedékhely mohával borított betonalapjából állnak.",
+                  "category": "historical",
+                  "coords": [
+                        104.040718,
+                        11.33522
+                  ]
+            },
+            {
+                  "name": "ឧទ្យានជាតិ គិរីរម្យ",
+                  "text": "A Kirirom Nemzeti Park a Kardamom-hegység egyik magasan fekvő természetvédelmi területe, amely fenyőerdőiről, vízeséseiről és egyedülálló mikroklímájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        104.051383,
+                        11.307452
+                  ]
+            },
+            {
+                  "name": "Wat Kirirom",
+                  "text": "A Wat Kirirom egy békés hegyi pagoda a fenyőerdő közepén, amely spirituális vigaszt nyújt a nemzeti park látogatóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.077017,
+                        11.330394
+                  ]
+            },
+            {
+                  "name": "វត្តព្រះអង្គគោកធ្លក",
+                  "text": "Ez a magasan fekvő buddhista kolostor hagyományos khmer vallási épületekkel rendelkezik Kirirom nyugodt erdei tájának hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.06986,
+                        11.333171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tree House",
+                  "text": "Punctul de belvedere Tree House oferă o platformă de observație din lemn la mare altitudine, cu vedere la pădurile dese de pini din Kirirom.",
+                  "category": "natural",
+                  "coords": [
+                        104.076671,
+                        11.299862
+                  ]
+            },
+            {
+                  "name": "Naga sculpture",
+                  "text": "Acest monument prezintă un șarpe Naga cu mai multe capete, sculptat în piatră, care păzește cărările din interiorul parcului național.",
+                  "category": "historical",
+                  "coords": [
+                        104.059691,
+                        11.340795
+                  ]
+            },
+            {
+                  "name": "Kirirom cliff",
+                  "text": "Faleza Kirirom este un povârniș stâncos dramatic, care oferă vederi panoramice ample ale Munților Cardamom și ale văilor de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        104.052028,
+                        11.385743
+                  ]
+            },
+            {
+                  "name": "Angkorian Statue",
+                  "text": "Împrăștiate printre pini, aceste ruine de piatră erodate includ o statuie angkoriană tradițională care reprezintă vechea moștenire khmeră.",
+                  "category": "historical",
+                  "coords": [
+                        104.048568,
+                        11.334523
+                  ]
+            },
+            {
+                  "name": "King's Ruined Residence",
+                  "text": "Rămășițele Reședinței Ruinate a Regelui constau dintr-o fundație de beton acoperită cu mușchi a unui fost refugiu regal distrus în anii 1970.",
+                  "category": "historical",
+                  "coords": [
+                        104.040718,
+                        11.33522
+                  ]
+            },
+            {
+                  "name": "ឧទ្យានជាតិ គិរីរម្យ",
+                  "text": "Parcul Național Kirirom este o rezervație naturală de mare altitudine, renumită pentru pădurile sale de pini, cascadele și microclimatul unic din Munții Cardamom.",
+                  "category": "natural",
+                  "coords": [
+                        104.051383,
+                        11.307452
+                  ]
+            },
+            {
+                  "name": "Wat Kirirom",
+                  "text": "Wat Kirirom este o pagodă de munte liniștită construită în mijlocul pădurii de pini, oferind alinare spirituală vizitatorilor parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        104.077017,
+                        11.330394
+                  ]
+            },
+            {
+                  "name": "វត្តព្រះអង្គគោកធ្លក",
+                  "text": "Această mănăstire budistă situată la altitudine prezintă structuri religioase khmere tradiționale pe fundalul peisajului forestier liniștit din Kirirom.",
+                  "category": "landmark",
+                  "coords": [
+                        104.06986,
+                        11.333171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tree House",
+                  "text": "The Tree House viewpoint offers a high-elevation wooden observation platform overlooking the dense pine forests of Kirirom.",
+                  "category": "natural",
+                  "coords": [
+                        104.076671,
+                        11.299862
+                  ]
+            },
+            {
+                  "name": "Naga sculpture",
+                  "text": "This monument features a mythical multi-headed Naga serpent carved from stone, guarding the pathways within the national park.",
+                  "category": "historical",
+                  "coords": [
+                        104.059691,
+                        11.340795
+                  ]
+            },
+            {
+                  "name": "Kirirom cliff",
+                  "text": "The Kirirom cliff is a dramatic rocky escarpment providing sweeping panoramic views of the Cardamom Mountains and the valleys below.",
+                  "category": "natural",
+                  "coords": [
+                        104.052028,
+                        11.385743
+                  ]
+            },
+            {
+                  "name": "Angkorian Statue",
+                  "text": "Scattered among the pine trees, these weathered stone ruins include a traditional Angkorian statue representing ancient Khmer heritage.",
+                  "category": "historical",
+                  "coords": [
+                        104.048568,
+                        11.334523
+                  ]
+            },
+            {
+                  "name": "King's Ruined Residence",
+                  "text": "The remnants of the King's Ruined Residence consist of a moss-covered concrete foundation of a former royal retreat destroyed in the 1970s.",
+                  "category": "historical",
+                  "coords": [
+                        104.040718,
+                        11.33522
+                  ]
+            },
+            {
+                  "name": "Kirirom National Park",
+                  "text": "Kirirom National Park is a high-altitude nature reserve famous for its elevated pine forests, waterfalls, and unique microclimate in the Cardamom Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        104.051383,
+                        11.307452
+                  ]
+            },
+            {
+                  "name": "Wat Kirirom",
+                  "text": "Wat Kirirom is a peaceful mountain pagoda constructed amidst the pine woods, providing spiritual solace to visitors of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        104.077017,
+                        11.330394
+                  ]
+            },
+            {
+                  "name": "វត្តព្រះអង្គគោកធ្លក",
+                  "text": "This elevated Buddhist monastery features traditional Khmer religious structures set against the tranquil forest scenery of Kirirom.",
+                  "category": "landmark",
+                  "coords": [
+                        104.06986,
+                        11.333171
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KH-05",
     coords: [104.0500, 11.3167],
@@ -355,7 +1336,736 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kep-national-park-nature-v2",
+    id: "kep-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ocean View",
+                  "text": "Der Aussichtspunkt Ocean View bietet hoch über den Baumwipfeln einen ungestörten Blick auf den Golf von Thailand.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "Sunset Rock ist ein markanter Felsvorsprung im Nationalpark, der als idealer Ort für die abendliche Sonnenuntergangsbeobachtung gilt.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "Little Buddha ist eine kleine, steinerne Buddhastatue, die von wilder Vegetation an einem friedlichen Dschungelpfad umschlossen ist.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "Der Kampot-Aussichtspunkt ist eine hölzerne Plattform am Berghang, die weite Blicke auf die landwirtschaftlichen Ebenen der Nachbarprovinz gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Der Angkor Beach Viewpoint bietet einen erhöhten Standpunkt mit Blick auf den gleichnamigen Küstenstreifen und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "Der Schmetterlingsgarten von Kep ist ein umnetztes Gehege, das zahlreiche einheimische tropische Falter inmitten blühender Flora beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "ខ្សែរ៉កលើដើមឈើ",
+                  "text": "Der Kep Rope Park bietet einen Abenteuerparcours mit Hängebrücken und Seilrutschen, die sicher zwischen den hohen Bäumen des Nationalparks gespannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        104.296344,
+                        10.479243
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "Die Buddha-Statue ist eine große, sitzende Skulptur auf einer Anhöhe im Nationalpark, die als spiritueller Rückzugsort dient.",
+                  "category": "historical",
+                  "coords": [
+                        104.297976,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Crab Statue",
+                  "text": "Das Krabbendenkmal ist eine massive Statue auf einem Betonpfeiler im Wasser, die den berühmten Meeresfrüchte-Export der Stadt feiert.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "Dieser nach Westen ausgerichtete Bergrücken bietet eine ideale Plattform, um die rot leuchtende Abendsonne über dem Ozean zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Das Unabhängigkeitsdenkmal von Kep ist ein steinernes Bauwerk im Zentrum, das mit traditionellen Khmermotiven an die nationale Souveränität erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Mangrove Forest",
+                  "text": "Ein geschütztes Küsten-Mangroven-Ökosystem in Kep, das als wichtiger Lebensraum für die lokale Tierwelt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.287457,
+                        10.513165
+                  ]
+            },
+            {
+                  "name": "Kep Museum",
+                  "text": "Ein lokales Museum, das die Kulturgeschichte, Artefakte und das regionale Erbe von Kep präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        104.317063,
+                        10.486147
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "Die Überreste einer historischen königlichen Residenz mit verwilderten tropischen Gärten an der Küste von Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.29032,
+                        10.479269
+                  ]
+            },
+            {
+                  "name": "The Coral Beach",
+                  "text": "Ein ruhiger, sandiger Küstenabschnitt am Kep-Nationalpark, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        104.288122,
+                        10.490793
+                  ]
+            },
+            {
+                  "name": "Wat Samathi",
+                  "text": "Ein friedlicher buddhistischer Tempel, eingebettet in die üppigen, grünen Wälder von Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.31374,
+                        10.500153
+                  ]
+            },
+            {
+                  "name": "Wat Samot Raingsei",
+                  "text": "Eine farbenfrohe buddhistische Pagode vor der malerischen Kulisse der ländlichen Umgebung von Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.304113,
+                        10.482641
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Eine traditionelle buddhistische Pagode, die einen friedlichen spirituellen Rückzugsort nahe dem Kep-Nationalpark bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.298616,
+                        10.481626
+                  ]
+            },
+            {
+                  "name": "Phsar Kep",
+                  "text": "Ein lebhafter lokaler Markt in Kep, der frische Meeresfrüchte, regionale Produkte und Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        104.32138,
+                        10.485878
+                  ]
+            },
+            {
+                  "name": "ផ្សារក្តាម",
+                  "text": "Keps berühmter Krabbenmarkt, bekannt für seine lebhafte Atmosphäre und den frischen Fang direkt aus dem Meer.",
+                  "category": "cultural",
+                  "coords": [
+                        104.288924,
+                        10.488925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ocean View",
+                  "text": "Az Ocean View kilátó a fák koronája felett zavartalan kilátást nyújt a Thaiföldi-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "A Sunset Rock egy feltűnő sziklakiszögellés a nemzeti parkban, amely ideális hely az esti naplemente megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "A Little Buddha egy kis kőből készült Buddha-szobor, amelyet vad növényzet vesz körül egy békés dzsungelösvény mentén.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "A Kampot kilátó egy fából készült emelvény a hegyoldalban, amely széles kilátást nyújt a szomszédos tartomány mezőgazdasági síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Az Angkor Beach Viewpoint egy megemelt pont, ahonnan kilátás nyílik az azonos nevű partszakaszra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "A kepi pillangókert egy hálóval körülvett kifutó, amely számos őshonos trópusi lepkét fogad be virágzó növényzet között.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "ខ្សែរ៉កលើដើមឈើ",
+                  "text": "A Kep Rope Park egy kalandpályát kínál függőhidakkal és kötélpályákkal, amelyek biztonságosan kifeszítve futnak a nemzeti park magas fái között.",
+                  "category": "landmark",
+                  "coords": [
+                        104.296344,
+                        10.479243
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "A Buddha-szobor egy nagyméretű, ülő alakzat egy dombon a nemzeti parkban, amely spirituális menedékhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        104.297976,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Crab Statue",
+                  "text": "A Rákszobor egy masszív alkotás egy vízi betonoszlopon, amely a város híres tenger gyümölcsei exportját ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "Ez a nyugat felé néző hegygerinc ideális platformot kínál a pirosló esti nap megfigyelésére az óceán felett.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "A kepi Függetlenségi Emlékmű egy központi kőépítmény, amely hagyományos khmer motívumokkal emlékezik meg a nemzeti szuverenitásról.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Mangrove Forest",
+                  "text": "Kep védett tengerparti mangrove ökoszisztémája, amely fontos élőhelye a helyi vadvilágnak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.287457,
+                        10.513165
+                  ]
+            },
+            {
+                  "name": "Kep Museum",
+                  "text": "A helyi múzeum bemutatja Kep kultúrtörténetét, műtárgyait és regionális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        104.317063,
+                        10.486147
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "Egy történelmi királyi rezidencia maradványai buja trópusi kertekkel Kep tengerpartja mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        104.29032,
+                        10.479269
+                  ]
+            },
+            {
+                  "name": "The Coral Beach",
+                  "text": "Békés, homokos partszakasz a Kep Nemzeti Park partjánál, amely kristálytiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        104.288122,
+                        10.490793
+                  ]
+            },
+            {
+                  "name": "Wat Samathi",
+                  "text": "Békés buddhista templom, amely Kep buja, zöld erdei környezetében bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        104.31374,
+                        10.500153
+                  ]
+            },
+            {
+                  "name": "Wat Samot Raingsei",
+                  "text": "Élénk színekben pompázó buddhista pagoda, melynek hátterét Kep festői vidéke adja.",
+                  "category": "landmark",
+                  "coords": [
+                        104.304113,
+                        10.482641
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Hagyományos buddhista pagoda, amely békés spirituális menedéket nyújt a Kep Nemzeti Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.298616,
+                        10.481626
+                  ]
+            },
+            {
+                  "name": "Phsar Kep",
+                  "text": "Nyüzsgő helyi piac Kepben, ahol friss tenger gyümölcseit, regionális terményeket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.32138,
+                        10.485878
+                  ]
+            },
+            {
+                  "name": "ផ្សារក្តាម",
+                  "text": "Kep híres rákpiaca, amely nyüzsgő hangulatáról és a tengerből frissen fogott rákjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.288924,
+                        10.488925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ocean View",
+                  "text": "Punctul de observație Ocean View oferă o vedere neobstrucționată asupra Golfului Thailandei, deasupra vârfurilor copacilor.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "Sunset Rock este o proeminență stâncoasă izbitoare în parcul național, considerată un loc ideal pentru observarea apusului.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "Little Buddha este o mică statuie din piatră a lui Buddha, înconjurată de vegetație sălbatică pe un traseu pașnic prin junglă.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "Punctul de belvedere Kampot este o platformă din lemn pe versantul dealului, care oferă vederi ample asupra câmpiilor agricole din provincia vecină.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Punctul de observație Angkor Beach oferă un loc ridicat cu vedere la fâșia de coastă omonimă și la mare.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "Grădina de fluturi din Kep este un habitat împrejmuit cu plasă, care găzduiește numeroase specii de fluturi tropicali indigeni printre plante înflorite.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "ខ្សែរ៉កលើដើមឈើ",
+                  "text": "Parcul de aventură cu frânghii Kep oferă un traseu de aventură cu poduri suspendate și tiroliene întinse în siguranță între copacii înalți ai parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        104.296344,
+                        10.479243
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "Statuia lui Buddha este o sculptură mare, așezată, situată pe o înălțime în parcul național, servind ca un loc de retragere spirituală.",
+                  "category": "historical",
+                  "coords": [
+                        104.297976,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Crab Statue",
+                  "text": "Monumentul Crabului este o statuie masivă pe un pilon de beton în apă, care celebrează exportul faimos de fructe de mare al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "Această creastă orientată spre vest oferă o platformă ideală pentru a privi soarele de seară strălucind roșu deasupra oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Monumentul Independenței din Kep este o structură centrală din piatră care comemorează suveranitatea națională cu motive tradiționale khmere.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Mangrove Forest",
+                  "text": "Un ecosistem de mangrove protejat pe coasta din Kep, care servește drept habitat important pentru fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        104.287457,
+                        10.513165
+                  ]
+            },
+            {
+                  "name": "Kep Museum",
+                  "text": "Un muzeu local care prezintă istoria culturală, artefactele și patrimoniul regional din Kep.",
+                  "category": "museum",
+                  "coords": [
+                        104.317063,
+                        10.486147
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "Rămășițele unei reședințe regale istorice cu grădini tropicale luxuriante, situată pe coasta din Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.29032,
+                        10.479269
+                  ]
+            },
+            {
+                  "name": "The Coral Beach",
+                  "text": "O coastă liniștită, cu nisip, la Parcul Național Kep, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        104.288122,
+                        10.490793
+                  ]
+            },
+            {
+                  "name": "Wat Samathi",
+                  "text": "Un templu budist liniștit, cuibărit în împrejurimile verzi și împădurite din Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.31374,
+                        10.500153
+                  ]
+            },
+            {
+                  "name": "Wat Samot Raingsei",
+                  "text": "O pagodă budistă vibrantă situată pe fundalul pitoresc al peisajului rural din Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.304113,
+                        10.482641
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "O pagodă budistă tradițională care oferă un refugiu spiritual pașnic lângă Parcul Național Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.298616,
+                        10.481626
+                  ]
+            },
+            {
+                  "name": "Phsar Kep",
+                  "text": "O piață locală plină de viață în Kep, care oferă fructe de mare proaspete, produse regionale și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        104.32138,
+                        10.485878
+                  ]
+            },
+            {
+                  "name": "ផ្សារក្តាម",
+                  "text": "Faimoasa piață de crabi din Kep, cunoscută pentru atmosfera sa plină de viață și capturile proaspete direct din mare.",
+                  "category": "cultural",
+                  "coords": [
+                        104.288924,
+                        10.488925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ocean View",
+                  "text": "The Ocean View viewpoint offers an unobstructed panorama of the Gulf of Thailand from high above the tree canopy.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "Sunset Rock is a prominent rocky outcrop in the national park, considered an ideal spot for evening sunset observation.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "Little Buddha is a small stone Buddha statue enclosed by wild vegetation along a peaceful jungle trail.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "Kampot Viewpoint is a wooden hillside platform providing sweeping views of the agricultural plains in the neighboring province.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Angkor Beach Viewpoint offers an elevated vantage point overlooking the eponymous coastal strip and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "Kep butterfly garden is a netted enclosure housing numerous indigenous tropical butterflies amidst blooming flora.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "Kep Rope Park",
+                  "text": "Kep Rope Park features an adventure course of suspension bridges and ziplines safely strung among the tall trees of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        104.296344,
+                        10.479243
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "The Buddha Statue is a large, seated sculpture on an elevation in the national park, serving as a spiritual retreat.",
+                  "category": "historical",
+                  "coords": [
+                        104.297976,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Crab Monument",
+                  "text": "The Crab Monument is a massive statue on a concrete pillar in the water, celebrating the town's famous seafood export.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "This west-facing ridge offers an ideal platform to watch the glowing red evening sun set over the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument of Kep is a stone structure in the center, commemorating national sovereignty with traditional Khmer motifs.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Mangrove Forest",
+                  "text": "A protected coastal mangrove ecosystem in Kep serving as an important habitat for local wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        104.287457,
+                        10.513165
+                  ]
+            },
+            {
+                  "name": "Kep Museum",
+                  "text": "A local museum showcasing the cultural history, artifacts, and regional heritage of Kep.",
+                  "category": "museum",
+                  "coords": [
+                        104.317063,
+                        10.486147
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "The remnants of a historic royal residence featuring overgrown tropical gardens overlooking the coast of Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.29032,
+                        10.479269
+                  ]
+            },
+            {
+                  "name": "The Coral Beach",
+                  "text": "A serene, sandy shoreline on the coast of Kep National Park known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        104.288122,
+                        10.490793
+                  ]
+            },
+            {
+                  "name": "Wat Samathi",
+                  "text": "A tranquil Buddhist temple nestled in the lush, green forested surroundings of Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.31374,
+                        10.500153
+                  ]
+            },
+            {
+                  "name": "Wat Samot Raingsei",
+                  "text": "A vibrant Buddhist pagoda set against the scenic backdrop of the rolling Kep countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        104.304113,
+                        10.482641
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "A traditional Buddhist pagoda providing a peaceful spiritual retreat near the borders of Kep National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        104.298616,
+                        10.481626
+                  ]
+            },
+            {
+                  "name": "Phsar Kep",
+                  "text": "A bustling local marketplace in Kep offering fresh seafood, regional produce, and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        104.32138,
+                        10.485878
+                  ]
+            },
+            {
+                  "name": "Phsar K'Dam",
+                  "text": "Kep's famous crab market, known for its lively atmosphere and fresh catches directly from the sea.",
+                  "category": "cultural",
+                  "coords": [
+                        104.288924,
+                        10.488925
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KH-23",
     coords: [104.3000, 10.4833],
@@ -399,7 +2109,232 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "bokor-national-park-nature-v2",
+    id: "bokor-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Popokvil Waterfall",
+                  "text": "Dieser spektakuläre Wasserfall im Bokor-Nationalpark stürzt über zwei Hauptstufen in ein flaches natürliches Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        104.051028,
+                        10.659196
+                  ]
+            },
+            {
+                  "name": "500 'Rice' Fields (rock fields)",
+                  "text": "Diese einzigartige geologische Attraktion im Bokor-Nationalpark besteht aus ungewöhnlichen natürlichen Felsformationen, die Hunderten von terrassierten Feldern ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977853,
+                        10.685684
+                  ]
+            },
+            {
+                  "name": "100 'Rice' Fields (rock fields)",
+                  "text": "Diese raue Attraktion im Bokor-Nationalpark zeichnet sich durch weitläufige, gemusterte Felsvorsprünge aus, die die Landschaft prägen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.009577,
+                        10.661041
+                  ]
+            },
+            {
+                  "name": "Meditation Stone",
+                  "text": "Diese große, isolierte Felsformation im Bokor-Nationalpark dient als ruhiger, malerischer Ort inmitten der Wildnis.",
+                  "category": "landmark",
+                  "coords": [
+                        103.978912,
+                        10.703367
+                  ]
+            },
+            {
+                  "name": "Temple Shape Stone",
+                  "text": "Dieser markante natürliche Felsvorsprung im Bokor-Nationalpark ahmt die architektonische Silhouette eines traditionellen Tempels eng nach.",
+                  "category": "landmark",
+                  "coords": [
+                        103.979481,
+                        10.69704
+                  ]
+            },
+            {
+                  "name": "Fleischfressende Kannenpflanzen",
+                  "text": "Diese natürliche Attraktion im Bokor-Nationalpark präsentiert die faszinierenden fleischfressenden Kannenpflanzen der Region, die in ihrem heimischen Hochlandlebensraum wachsen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.962502,
+                        10.694885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Popokvil Waterfall",
+                  "text": "Ez a látványos vízesés a Bokor Nemzeti Parkban két fő lépcsőn keresztül zuhan egy sekély, természetes medencébe.",
+                  "category": "landmark",
+                  "coords": [
+                        104.051028,
+                        10.659196
+                  ]
+            },
+            {
+                  "name": "500 'Rice' Fields (rock fields)",
+                  "text": "A Bokor Nemzeti Park ezen egyedülálló geológiai látványossága több száz teraszos mezőre emlékeztető, szokatlan természetes sziklaképződményeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977853,
+                        10.685684
+                  ]
+            },
+            {
+                  "name": "100 'Rice' Fields (rock fields)",
+                  "text": "A Bokor Nemzeti Parkban található zord látványosságot a tájat tarkító, hatalmas, mintás kőzetkibúvások jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        104.009577,
+                        10.661041
+                  ]
+            },
+            {
+                  "name": "Meditation Stone",
+                  "text": "Ez a nagy, elszigetelt sziklaképződmény a Bokor Nemzeti Parkban csendes, festői helyként szolgál a vadon közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.978912,
+                        10.703367
+                  ]
+            },
+            {
+                  "name": "Temple Shape Stone",
+                  "text": "Ez a jellegzetes természetes sziklakibúvás a Bokor Nemzeti Parkban szorosan utánozza egy hagyományos templom építészeti sziluettjét.",
+                  "category": "landmark",
+                  "coords": [
+                        103.979481,
+                        10.69704
+                  ]
+            },
+            {
+                  "name": "Nepenthes Flowers",
+                  "text": "Ez a természetes látványosság a Bokor Nemzeti Parkban a régió lenyűgöző húsevő kancsókáit mutatja be, amelyek a saját felvidéki élőhelyükön nőnek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.962502,
+                        10.694885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Popokvil Waterfall",
+                  "text": "Această cascadă spectaculoasă din Parcul Național Bokor se prăvălește pe două niveluri principale într-o piscină naturală de mică adâncime.",
+                  "category": "landmark",
+                  "coords": [
+                        104.051028,
+                        10.659196
+                  ]
+            },
+            {
+                  "name": "500 'Rice' Fields (rock fields)",
+                  "text": "Această atracție geologică unică din Parcul Național Bokor prezintă formațiuni stâncoase naturale neobișnuite care seamănă cu sute de câmpuri terasate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977853,
+                        10.685684
+                  ]
+            },
+            {
+                  "name": "100 'Rice' Fields (rock fields)",
+                  "text": "Situată în Parcul Național Bokor, această atracție accidentată se caracterizează prin aflorimente de piatră extinse și cu modele care împânzesc peisajul.",
+                  "category": "landmark",
+                  "coords": [
+                        104.009577,
+                        10.661041
+                  ]
+            },
+            {
+                  "name": "Meditation Stone",
+                  "text": "Această formațiune stâncoasă mare și izolată din Parcul Național Bokor servește drept un loc liniștit și pitoresc în mijlocul sălbăticiei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.978912,
+                        10.703367
+                  ]
+            },
+            {
+                  "name": "Temple Shape Stone",
+                  "text": "Acest afloriment de piatră natural, distinctiv, din Parcul Național Bokor imită îndeaproape silueta arhitecturală a unui templu tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        103.979481,
+                        10.69704
+                  ]
+            },
+            {
+                  "name": "Nepenthes Flowers",
+                  "text": "Această atracție naturală din Parcul Național Bokor prezintă fascinantele plante carnivore ulcior ale regiunii, care cresc în habitatul lor nativ de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        103.962502,
+                        10.694885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Popokvil Waterfall",
+                  "text": "This spectacular waterfall in Bokor National Park cascades over two main tiers into a shallow natural pool.",
+                  "category": "landmark",
+                  "coords": [
+                        104.051028,
+                        10.659196
+                  ]
+            },
+            {
+                  "name": "500 'Rice' Fields (rock fields)",
+                  "text": "This unique geological attraction in Bokor National Park features unusual natural rock formations resembling hundreds of terraced fields.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977853,
+                        10.685684
+                  ]
+            },
+            {
+                  "name": "100 'Rice' Fields (rock fields)",
+                  "text": "Situated within Bokor National Park, this rugged attraction is characterized by extensive, patterned stone outcrops dotting the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        104.009577,
+                        10.661041
+                  ]
+            },
+            {
+                  "name": "Meditation Stone",
+                  "text": "This large, isolated rock formation in Bokor National Park serves as a quiet, scenic spot amidst the wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        103.978912,
+                        10.703367
+                  ]
+            },
+            {
+                  "name": "Temple Shape Stone",
+                  "text": "This distinctive natural rock outcropping in Bokor National Park closely mimics the architectural silhouette of a traditional temple.",
+                  "category": "landmark",
+                  "coords": [
+                        103.979481,
+                        10.69704
+                  ]
+            },
+            {
+                  "name": "Nepenthes Flowers",
+                  "text": "This natural attraction in Bokor National Park showcases the region's fascinating carnivorous pitcher plants growing in their native highland habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.962502,
+                        10.694885
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KH-07",
     coords: [104.0333, 10.6500],
@@ -443,7 +2378,52 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "phnom-aural-nature-v2",
+    id: "phnom-aural-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phnom Aural",
+                  "text": "Als höchster Gipfel Kambodschas bietet dieser Berg anspruchsvolle Waldwanderungen in der Region phnom-aural-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        104.170885,
+                        12.03248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phnom Aural",
+                  "text": "Kambodzsa legmagasabb csúcsaként ez a hegy kihívást jelentő erdei túrákat kínál a phnom-aural-nature-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        104.170885,
+                        12.03248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phnom Aural",
+                  "text": "Fiind cel mai înalt vârf din Cambodgia, acest munte oferă drumeții forestiere provocatoare în regiunea phnom-aural-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        104.170885,
+                        12.03248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phnom Aural",
+                  "text": "Rising as the highest peak in Cambodia, this mountain offers challenging forest treks in the phnom-aural-nature-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        104.170885,
+                        12.03248
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-05",
     coords: [104.1667, 12.0333],
@@ -575,7 +2555,88 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "tonle-srepok-nature-v2",
+    id: "tonle-srepok-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sand Island",
+                  "text": "Eine natürliche sandige Formation in der Mitte des Flusses Tonle Srepok, die mit dem Boot erreichbar ist und wegen ihrer rauen Naturlandschaft beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.003469,
+                        13.540151
+                  ]
+            },
+            {
+                  "name": "រៀនភាសារុស្ស៊ី",
+                  "text": "Eine lokale Handelseinrichtung am Fluss Srepok, die spezialisierte Dienstleistungen anbietet, darunter russischsprachige Materialien.",
+                  "category": "cultural",
+                  "coords": [
+                        105.992254,
+                        13.531396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sand Island",
+                  "text": "Természetes homokos sziget a Tonle Srepok folyó közepén, amely hajóval megközelíthető, és érintetlen természeti tájáról népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        106.003469,
+                        13.540151
+                  ]
+            },
+            {
+                  "name": "រៀនភាសារុស្ស៊ី",
+                  "text": "Helyi kereskedelmi létesítmény a Srepok folyó mellett, amely speciális szolgáltatásokat kínál, beleértve az orosz nyelvű anyagokat.",
+                  "category": "cultural",
+                  "coords": [
+                        105.992254,
+                        13.531396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sand Island",
+                  "text": "O formațiune nisipoasă naturală în mijlocul râului Tonle Srepok, accesibilă cu barca și populară pentru peisajul său natural brut.",
+                  "category": "landmark",
+                  "coords": [
+                        106.003469,
+                        13.540151
+                  ]
+            },
+            {
+                  "name": "រៀនភាសារុស្ស៊ី",
+                  "text": "Un spațiu comercial local de pe râul Srepok care oferă servicii specializate, inclusiv materiale în limba rusă.",
+                  "category": "cultural",
+                  "coords": [
+                        105.992254,
+                        13.531396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sand Island",
+                  "text": "A natural sandy mid-river formation along the Tonle Srepok river, accessible by boat and popular for its raw natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        106.003469,
+                        13.540151
+                  ]
+            },
+            {
+                  "name": "រៀនភាសារុស្ស៊ី",
+                  "text": "A local commercial establishment by the Srepok river offering specialized services, including Russian language materials.",
+                  "category": "cultural",
+                  "coords": [
+                        105.992254,
+                        13.531396
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KH-19",
     coords: [106.0167, 13.5500],
@@ -619,7 +2680,52 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "keo-seima-wildlife-sanctuary-nature-v2",
+    id: "keo-seima-wildlife-sanctuary-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keov Seima Church",
+                  "text": "Eine ländliche Kultstätte innerhalb der grünen Grenzen des Keo Seima Wildlife Sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        106.864635,
+                        12.084927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keov Seima Church",
+                  "text": "Egy vidéki istentiszteleti hely a Keo Seima Vadvédelmi Terület zöldellő határain belül.",
+                  "category": "religious",
+                  "coords": [
+                        106.864635,
+                        12.084927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keov Seima Church",
+                  "text": "Un lăcaș de cult rural situat în granițele înverzite ale Sanctuarului Faunei Sălbatice Keo Seima.",
+                  "category": "religious",
+                  "coords": [
+                        106.864635,
+                        12.084927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keov Seima Church",
+                  "text": "A rural place of worship set within the verdant boundaries of the Keo Seima Wildlife Sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        106.864635,
+                        12.084927
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "KH-11",
     coords: [106.8333, 12.1667],
@@ -663,7 +2769,52 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "tatai-river-nature-v2",
+    id: "tatai-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ដែនជំរកសត្វព្រៃ ពាមក្រសោប",
+                  "text": "Das Naturschutzgebiet Peam Krasaep ist ein geschütztes Wildreservat am Tatai-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        103.06078,
+                        11.509451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ដែនជំរកសត្វព្រៃ ពាមក្រសោប",
+                  "text": "A Peam Krasaep Vadvédelmi Terület egy védett rezervátum a Tatai folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        103.06078,
+                        11.509451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ដែនជំរកសត្វព្រៃ ពាមក្រសោប",
+                  "text": "Sanctuarul Faunei Sălbatice Peam Krasaep este o rezervație protejată situată pe râul Tatai.",
+                  "category": "natural",
+                  "coords": [
+                        103.06078,
+                        11.509451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peam Krasaep Wildlife Sanctuary",
+                  "text": "Peam Krasaep Wildlife Sanctuary is a protected nature reserve located along the Tatai River.",
+                  "category": "natural",
+                  "coords": [
+                        103.06078,
+                        11.509451
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KH-09",
     coords: [103.1167, 11.5500],
@@ -707,7 +2858,52 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     },
   },
   {
-    id: "phnom-samkos-nature-v2",
+    id: "phnom-samkos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phnom Samkos",
+                  "text": "Der zweithöchste Gipfel in Kambodscha, gelegen in den zerklüfteten Kardamombergen.",
+                  "category": "natural",
+                  "coords": [
+                        103.043252,
+                        12.154996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phnom Samkos",
+                  "text": "Kambodzsa második legmagasabb csúcsa, amely a zord Kardamom-hegységben található.",
+                  "category": "natural",
+                  "coords": [
+                        103.043252,
+                        12.154996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phnom Samkos",
+                  "text": "Al doilea cel mai înalt vârf din Cambodgia, situat în Munții Cardamom, cu un relief accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        103.043252,
+                        12.154996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phnom Samkos",
+                  "text": "The second-highest peak in Cambodia, situated in the rugged Cardamom Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        103.043252,
+                        12.154996
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-15",
     coords: [103.0333, 12.1500],

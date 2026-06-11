@@ -97,7 +97,7 @@ export const montenegroLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Ričardova glava",
-                  "text": "Ričardova glava liegt bei der Zitadelle von Budva.",
+                  "text": "Das Kap Ričardova glava unterhalb der Zitadelle von Budva.",
                   "category": "recreational",
                   "coords": [
                         18.83653,
@@ -243,7 +243,7 @@ export const montenegroLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Ričardova glava",
-                  "text": "Ričardova glava a budvai fellegvár mellett fekszik.",
+                  "text": "A Ričardova glava-fok a Budvai Citadella alatt.",
                   "category": "recreational",
                   "coords": [
                         18.83653,
@@ -389,7 +389,7 @@ export const montenegroLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Ričardova glava",
-                  "text": "Ričardova glava se află lângă Cetatea Budva.",
+                  "text": "Capul Ričardova glava sub Cetatea Budva.",
                   "category": "recreational",
                   "coords": [
                         18.83653,
@@ -535,7 +535,7 @@ export const montenegroLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Ričardova glava",
-                  "text": "Ričardova glava is located by the Budva Citadel.",
+                  "text": "Richard's Head promontory below Budva Citadel.",
                   "category": "recreational",
                   "coords": [
                         18.83653,
@@ -727,7 +727,7 @@ export const montenegroLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Plaža Petrovac",
-                  "text": "Der Strand Petrovac liegt nahe der Festung Petrovac.",
+                  "text": "Der Hauptstrand von Petrovac an der Festung.",
                   "category": "recreational",
                   "coords": [
                         18.940348,
@@ -781,7 +781,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "Ein malerischer Strand in einer Bucht bei Petrovac.",
+                  "text": "Ein Strand in der Bucht von Perazića Do bei Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -808,7 +808,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "Der Light Land Family Recreation Park ist ein Freizeitpark bei der Festung Kastio.",
+                  "text": "Ein Familien-Freizeitpark mit Lichter-Show in Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -817,7 +817,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Lučice",
-                  "text": "Lučice ist ein Strandresort bei der Festung Kastio.",
+                  "text": "Ein Kieselstrand in einer kleinen Bucht bei Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.950787,
@@ -828,7 +828,7 @@ export const montenegroLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Plaža Petrovac",
-                  "text": "A Petrovac strand a Petrovac erőd közelében található.",
+                  "text": "Petrovac főstrandja az erődnél.",
                   "category": "recreational",
                   "coords": [
                         18.940348,
@@ -882,7 +882,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "Gleccser vájta öbölben fekvő festői strand Petrovac közelében.",
+                  "text": "Strand a Perazića Do-öbölben Petrovac mellett.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -909,7 +909,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "A Light Land Family Recreation Park egy élménypark a Kastio erőd közelében.",
+                  "text": "Családi szabadidőpark fényjátékkal Petrovacban.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -918,7 +918,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Lučice",
-                  "text": "Lučice egy strandüdülőhely a Kastio erőd közelében.",
+                  "text": "Kavicsos strand egy kis öbölben Petrovac közelében.",
                   "category": "recreational",
                   "coords": [
                         18.950787,
@@ -929,7 +929,7 @@ export const montenegroLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Plaža Petrovac",
-                  "text": "Plaja Petrovac este situată în apropierea Cetății Petrovac.",
+                  "text": "Plaja principală a Petrovacului lângă fortăreață.",
                   "category": "recreational",
                   "coords": [
                         18.940348,
@@ -983,7 +983,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "O plajă pitorească situată într-un golf lângă Petrovac.",
+                  "text": "O plajă în golful Perazića Do lângă Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -1010,7 +1010,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "Light Land Family Recreation Park este un parc tematic situat lângă cetatea Kastio.",
+                  "text": "Un parc de agrement familial cu spectacol de lumini în Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -1019,7 +1019,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Lučice",
-                  "text": "Lučice este o stațiune de plajă situată lângă cetatea Kastio.",
+                  "text": "O plajă cu pietriș într-un mic golf lângă Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.950787,
@@ -1030,7 +1030,7 @@ export const montenegroLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Plaža Petrovac",
-                  "text": "Petrovac Beach is located near the Petrovac Fort.",
+                  "text": "The main beach of Petrovac at the fortress.",
                   "category": "recreational",
                   "coords": [
                         18.940348,
@@ -1084,7 +1084,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "A picturesque beach located in a cove near Petrovac.",
+                  "text": "A beach in Perazića Do cove near Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -1111,7 +1111,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "Light Land Family Recreation Park is a theme park located near Kastio Fortress.",
+                  "text": "A family recreation park with light show in Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -1120,7 +1120,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Lučice",
-                  "text": "Lučice is a beach resort located near Kastio Fortress.",
+                  "text": "A pebble beach in a small bay near Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.950787,
@@ -1645,7 +1645,7 @@ export const montenegroLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Cetinjski Manastir",
-                  "text": "Das Kloster Cetinje ist ein bedeutendes serbisch-orthodoxes Kloster in Montenegro.",
+                  "text": "Historisches serbisch-orthodoxes Kloster in Cetinje, Montenegro, Sitz des Metropoliten.",
                   "category": "religious",
                   "coords": [
                         18.921819,
@@ -1654,7 +1654,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Das Regierungshaus beherbergt heute das Nationalmuseum von Montenegro.",
+                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -1663,7 +1663,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Muzej Kralja Nikole",
-                  "text": "Dieses Museum befindet sich im ehemaligen Königspalast von König Nikola I. Petrović.",
+                  "text": "Ehemaliger Königspalast von König Nikola I., mit originalgetreuen Räumen und Erinnerungsstücken.",
                   "category": "museum",
                   "coords": [
                         18.924431,
@@ -1690,7 +1690,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ljetnja pozornica",
-                  "text": "Die Sommerbühne ist ein Freilufttheater für kulturelle Veranstaltungen in Cetinje.",
+                  "text": "Sommerbühne am Cetinje Museum, errichtet 1951.",
                   "category": "cultural",
                   "coords": [
                         18.92083,
@@ -1701,7 +1701,7 @@ export const montenegroLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Cetinjski Manastir",
-                  "text": "A Cetinjei kolostor Montenegró egyik jelentős szerb ortodox kolostora.",
+                  "text": "Történelmi szerb ortodox kolostor Cetinjében, Montenegróban, a metropolita székhelye.",
                   "category": "religious",
                   "coords": [
                         18.921819,
@@ -1710,7 +1710,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "A Kormányzati Ház ma Montenegró Nemzeti Múzeumának ad otthont.",
+                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -1719,7 +1719,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Muzej Kralja Nikole",
-                  "text": "Ez a múzeum I. Miklós montenegrói király egykori királyi palotájában található.",
+                  "text": "I. Miklós király egykori palotája, korabeli szobákkal és emléktárgyakkal.",
                   "category": "museum",
                   "coords": [
                         18.924431,
@@ -1746,7 +1746,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ljetnja pozornica",
-                  "text": "A nyári színpad kulturális rendezvényeknek otthont adó szabadtéri színház Cetinjében.",
+                  "text": "Nyári színpad a Cetinje Múzeumnál, 1951-ben épült.",
                   "category": "cultural",
                   "coords": [
                         18.92083,
@@ -1757,7 +1757,7 @@ export const montenegroLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Cetinjski Manastir",
-                  "text": "Mănăstirea Cetinje este o mănăstire ortodoxă sârbă importantă din Muntenegru.",
+                  "text": "Mănăstire ortodoxă sârbă istorică în Cetinje, Muntenegru, sediul Mitropolitului.",
                   "category": "religious",
                   "coords": [
                         18.921819,
@@ -1766,7 +1766,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Casa Guvernului găzduiește astăzi Muzeul Național al Muntenegrului.",
+                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -1775,7 +1775,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Muzej Kralja Nikole",
-                  "text": "Acest muzeu este situat în fostul palat regal al regelui Nicolae I Petrović.",
+                  "text": "Fostul palat regal al regelui Nicolae I, cu camere de epocă și obiecte memoriale.",
                   "category": "museum",
                   "coords": [
                         18.924431,
@@ -1802,7 +1802,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ljetnja pozornica",
-                  "text": "Scena de vară este un teatru în aer liber pentru evenimente culturale în Cetinje.",
+                  "text": "Scenă de vară lângă Muzeul Cetinje, construită în 1951.",
                   "category": "cultural",
                   "coords": [
                         18.92083,
@@ -1813,7 +1813,7 @@ export const montenegroLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Cetinje Monastery",
-                  "text": "Cetinje Monastery is an important Serbian Orthodox monastery in Montenegro.",
+                  "text": "Historic Serbian Orthodox monastery in Cetinje, Montenegro, seat of the Metropolitan.",
                   "category": "religious",
                   "coords": [
                         18.921819,
@@ -1822,7 +1822,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Government House - National Museum of Montenegro",
-                  "text": "The Government House now houses the National Museum of Montenegro.",
+                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -1831,7 +1831,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum of King Nikola I Petrović",
-                  "text": "This museum is located in the former royal palace of King Nikola I Petrović.",
+                  "text": "Former royal palace of King Nikola I, with period rooms and memorabilia.",
                   "category": "museum",
                   "coords": [
                         18.924431,
@@ -1858,7 +1858,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Summer stage",
-                  "text": "The summer stage is an open-air theatre for cultural events in Cetinje.",
+                  "text": "Summer stage at Cetinje Museum, built in 1951.",
                   "category": "cultural",
                   "coords": [
                         18.92083,
@@ -2005,7 +2005,7 @@ export const montenegroLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Castana",
-                  "text": "Castana Strand bei Perast.",
+                  "text": "Ein Strand oder Restaurant am Turm von Perast.",
                   "category": "recreational",
                   "coords": [
                         18.657522,
@@ -2016,7 +2016,7 @@ export const montenegroLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Castana",
-                  "text": "Castana strand Perast közelében.",
+                  "text": "Strand vagy étterem a Perasti toronynál.",
                   "category": "recreational",
                   "coords": [
                         18.657522,
@@ -2027,7 +2027,7 @@ export const montenegroLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Castana",
-                  "text": "Plaja Castana lângă Perast.",
+                  "text": "O plajă sau restaurant la Turnul Perast.",
                   "category": "recreational",
                   "coords": [
                         18.657522,
@@ -2038,7 +2038,7 @@ export const montenegroLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Castana",
-                  "text": "Castana beach near Perast.",
+                  "text": "A beach or restaurant at Perast Tower.",
                   "category": "recreational",
                   "coords": [
                         18.657522,
@@ -2104,7 +2104,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Nationalmuseum im historischen Regierungsgebäude von Cetinje.",
+                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -2160,7 +2160,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Nemzeti múzeum Cetinje történelmi kormányépületében.",
+                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -2216,7 +2216,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Muzeul Național găzduit în clădirea istorică a Guvernului din Cetinje.",
+                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -2272,7 +2272,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Government House - National Museum of Montenegro",
-                  "text": "National museum housed in the historic Government House of Cetinje.",
+                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -2617,7 +2617,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "FKK Crvena glavica ist ein FKK-Strand nahe Sveti Stefan.",
+                  "text": "Ein FKK-Strand auf der Halbinsel Crvena glavica bei Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
                         18.896309,
@@ -2754,7 +2754,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "Az FKK Crvena glavica egy nudista strand Sveti Stefan közelében.",
+                  "text": "Naturista strand a Crvena glavica-félszigeten Sveti Stefan mellett.",
                   "category": "recreational",
                   "coords": [
                         18.896309,
@@ -2891,7 +2891,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "FKK Crvena glavica este o plajă de nudiști lângă Sveti Stefan.",
+                  "text": "O plajă nudistă pe peninsula Crvena glavica lângă Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
                         18.896309,
@@ -3028,7 +3028,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "FKK Crvena glavica is a naturist beach near Sveti Stefan.",
+                  "text": "A nudist beach on Crvena glavica peninsula near Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
                         18.896309,
@@ -3229,7 +3229,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Spomen dom Crvena komuna",
-                  "text": "Ein Museum zur Erinnerung an die lokale politische Geschichte.",
+                  "text": "Ein Denkmal an die Rote Kommune von 1919 in Petrovac.",
                   "category": "museum",
                   "coords": [
                         18.940832,
@@ -3238,7 +3238,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Remains of Roman villa",
-                  "text": "Antike Ausgrabungen einer römischen Villa mit Mosaiken.",
+                  "text": "Rest einer römischen Villa aus dem 1. Jahrhundert in Petrovac.",
                   "category": "historical",
                   "coords": [
                         18.939692,
@@ -3247,7 +3247,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "Ein malerischer Strand in einer Bucht nahe Petrovac.",
+                  "text": "Wiederholung: Strand in der Bucht Perazića Do bei Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -3256,7 +3256,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Buljarica",
-                  "text": "Einer der längsten Strände an der montenegrinischen Küste.",
+                  "text": "Der Strand von Buljarica, ein langer Sandstrand bei Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.970785,
@@ -3265,7 +3265,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Buljarica",
-                  "text": "Ein weitläufiger Kieselstrand in der Nähe von Petrovac.",
+                  "text": "Nochmals der Buljarica-Strand (explizit benannt) bei Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.964806,
@@ -3283,7 +3283,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "Der Light Land Family Recreation Park ist ein Freizeitpark bei den römischen Mosaiken von Petrovac.",
+                  "text": "Wiederholung: Familien-Freizeitpark Light Land in Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -3321,7 +3321,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Spomen dom Crvena komuna",
-                  "text": "A helyi politikai történelemnek emléket állító múzeum.",
+                  "text": "Az 1919-es Vörös Kommuna emlékműve Petrovacban.",
                   "category": "museum",
                   "coords": [
                         18.940832,
@@ -3330,7 +3330,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Remains of Roman villa",
-                  "text": "Egy római villa ókori maradványai mozaikokkal.",
+                  "text": "Egy 1. századi római villa maradványai Petrovacban.",
                   "category": "historical",
                   "coords": [
                         18.939692,
@@ -3339,7 +3339,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "Gleccser vájta öböl festői strandja Petrovac közelében.",
+                  "text": "Ismétlés: Strand a Perazića Do-öbölben Petrovac mellett.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -3348,7 +3348,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Buljarica",
-                  "text": "Montenegró tengerpartjának egyik leghosszabb strandja.",
+                  "text": "A Buljarica-strand, egy hosszú homokos strand Petrovac mellett.",
                   "category": "recreational",
                   "coords": [
                         18.970785,
@@ -3357,7 +3357,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Buljarica",
-                  "text": "Tágas kavicsos strand Petrovac környékén.",
+                  "text": "Ismét a Buljarica-strand (kifejezetten elnevezve) Petrovac mellett.",
                   "category": "recreational",
                   "coords": [
                         18.964806,
@@ -3375,7 +3375,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "A Light Land Family Recreation Park egy élménypark a petrovaci római mozaikok közelében.",
+                  "text": "Ismétlés: Light Land családi szabadidőpark Petrovacban.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -3413,7 +3413,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Spomen dom Crvena komuna",
-                  "text": "Un muzeu dedicat istoriei politice locale.",
+                  "text": "Un memorial al Comunei Roșii din 1919 în Petrovac.",
                   "category": "museum",
                   "coords": [
                         18.940832,
@@ -3422,7 +3422,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Remains of Roman villa",
-                  "text": "Rămășițele antice ale unei vile romane cu mozaicuri.",
+                  "text": "Vestigiile unei vile romane din secolul I în Petrovac.",
                   "category": "historical",
                   "coords": [
                         18.939692,
@@ -3431,7 +3431,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "O plajă pitorească situată într-un golf lângă Petrovac.",
+                  "text": "Repetare: plajă în golful Perazića Do lângă Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -3440,7 +3440,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Buljarica",
-                  "text": "Una dintre cele mai lungi plaje de pe coasta muntenegreană.",
+                  "text": "Plaja Buljarica, o plajă lungă de nisip lângă Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.970785,
@@ -3449,7 +3449,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Buljarica",
-                  "text": "O plajă extinsă cu pietriș în apropiere de Petrovac.",
+                  "text": "Din nou plaja Buljarica (numită explicit) lângă Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.964806,
@@ -3467,7 +3467,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "Light Land Family Recreation Park este un parc tematic situat lângă mozaicurile romane din Petrovac.",
+                  "text": "Repetare: parcul de agrement Light Land pentru familii în Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -3505,7 +3505,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "The Red Commune Memorial",
-                  "text": "A museum commemorating local political history.",
+                  "text": "A memorial to the Red Commune of 1919 in Petrovac.",
                   "category": "museum",
                   "coords": [
                         18.940832,
@@ -3514,7 +3514,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Remains of Roman villa",
-                  "text": "Ancient remains of a Roman villa featuring mosaics.",
+                  "text": "Remains of a 1st-century Roman villa in Petrovac.",
                   "category": "historical",
                   "coords": [
                         18.939692,
@@ -3523,7 +3523,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Perazića Do",
-                  "text": "A picturesque beach located in a cove near Petrovac.",
+                  "text": "Repeat: beach in Perazića Do cove near Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.924186,
@@ -3532,7 +3532,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Buljarica",
-                  "text": "One of the longest beaches on the Montenegrin coast.",
+                  "text": "Buljarica beach, a long sandy beach near Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.970785,
@@ -3541,7 +3541,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaža Buljarica",
-                  "text": "A spacious pebble beach in the vicinity of Petrovac.",
+                  "text": "Again Buljarica beach (explicitly named) near Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.964806,
@@ -3559,7 +3559,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Light Land Family Recreation Park",
-                  "text": "Light Land Family Recreation Park is a theme park located near the Roman Mosaics of Petrovac.",
+                  "text": "Repeat: Light Land family recreation park in Petrovac.",
                   "category": "recreational",
                   "coords": [
                         18.995831,
@@ -4156,7 +4156,7 @@ export const montenegroLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Mogren 2",
-                  "text": "Mogren 2 Strand in Budva.",
+                  "text": "Sandstrand unter den Klippen, erreichbar durch einen Tunnel von Mogren 1.",
                   "category": "recreational",
                   "coords": [
                         18.830641,
@@ -4228,7 +4228,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "Der Malaya Beach Club ist ein Strandresort in der Nähe der Ballerina-Statue in Budva.",
+                  "text": "Strandclub mit Liegen und Bar, direkt neben dem Budva-Ballett-Wahrzeichen.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -4264,7 +4264,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "Ein kleinerer Schwimmplatz an der Küste von Budva.",
+                  "text": "Kleine Kieselbucht in der Nähe des Budva-Ballett-Wahrzeichens.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -4284,7 +4284,7 @@ export const montenegroLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Mogren 2",
-                  "text": "Mogren 2 strand Budvában.",
+                  "text": "Homokos strand a sziklák alatt, elérhető egy alagúton át Mogren 1-ből.",
                   "category": "recreational",
                   "coords": [
                         18.830641,
@@ -4356,7 +4356,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "A Malaya Beach Club egy tengerparti klub Budvában, a Ballerina-szobor közelében.",
+                  "text": "Strandklub napozóágyakkal és bárral, közvetlenül a Budvai Balett nevezetesség mellett.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -4392,7 +4392,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "Kisebb fürdőhely Budva tengerpartján.",
+                  "text": "Kis kavicsos öböl a Budvai Balett nevezetesség közelében.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -4412,7 +4412,7 @@ export const montenegroLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Mogren 2",
-                  "text": "Plaja Mogren 2 în Budva.",
+                  "text": "Plajă nisipoasă sub stânci, accesibilă printr-un tunel de la Mogren 1.",
                   "category": "recreational",
                   "coords": [
                         18.830641,
@@ -4484,7 +4484,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "Malaya Beach Club este o stațiune de plajă lângă statuia Balerinei din Budva.",
+                  "text": "Club de plajă cu șezlonguri și bar, lângă reperul baletului din Budva.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -4520,7 +4520,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "Un loc de scăldat mai mic pe coasta orașului Budva.",
+                  "text": "Mică plajă cu pietriș într-un golf aproape de reperul baletului din Budva.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -4540,7 +4540,7 @@ export const montenegroLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Mogren 2",
-                  "text": "Mogren 2 beach in Budva.",
+                  "text": "Sandy beach below the cliffs, accessible via a tunnel from Mogren 1.",
                   "category": "recreational",
                   "coords": [
                         18.830641,
@@ -4612,7 +4612,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "Malaya Beach Club is a beach resort located near the Ballerina Statue in Budva.",
+                  "text": "Beach club with loungers and a bar, situated next to the Budva ballet landmark.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -4648,7 +4648,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "pizana",
-                  "text": "A smaller swimming spot located on the coast of Budva.",
+                  "text": "Small pebble beach in a cove near the Budva ballet landmark.",
                   "category": "recreational",
                   "coords": [
                         18.839957,
@@ -4858,7 +4858,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 1",
-                  "text": "Liman 1 befindet sich bei der Festung Ulcinj.",
+                  "text": "Sandstrand am Fuße der Festung Ulcinj, beliebt für sein flaches Wasser.",
                   "category": "recreational",
                   "coords": [
                         19.199358,
@@ -4867,7 +4867,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 2",
-                  "text": "Liman 2 befindet sich bei der Festung Ulcinj.",
+                  "text": "Ein weiterer Sandstrand neben Liman 1 mit Blick auf die Festung Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.196985,
@@ -4876,7 +4876,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ludvig",
-                  "text": "Der Strand Ludvig befindet sich unterhalb der Festung Ulcinj.",
+                  "text": "Abgeschiedene Strandbucht unter den Klippen nahe der Festung Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.204942,
@@ -4885,7 +4885,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Lugut të Xhemiles",
-                  "text": "Plazhi i Lugut të Xhemiles liegt bei der Festung Ulcinj.",
+                  "text": "Sandstrand in einer Wiesenlandschaft, nahe der Festung Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.180481,
@@ -4894,7 +4894,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Bashbylykut",
-                  "text": "Plazhi i Bashbylykut liegt bei der Festung Ulcinj.",
+                  "text": "Kieselstrand mit klarem Wasser, nahe der Festung Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.191454,
@@ -4903,7 +4903,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi Paneuropa",
-                  "text": "Plazhi Paneuropa liegt bei der Festung Ulcinj.",
+                  "text": "Sandstrand mit europäischem Ambiente, südlich der Festung Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.206526,
@@ -4941,7 +4941,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 1",
-                  "text": "Liman 1 az Ulcinji erődnél található.",
+                  "text": "Homokos strand az Ulcinji erőd lábánál, népszerű sekély vize miatt.",
                   "category": "recreational",
                   "coords": [
                         19.199358,
@@ -4950,7 +4950,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 2",
-                  "text": "Liman 2 az Ulcinji erődnél található.",
+                  "text": "Egy másik homokos strand Liman 1 mellett, az Ulcinji erődre néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         19.196985,
@@ -4959,7 +4959,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ludvig",
-                  "text": "A Ludvig strand az Ulcinji erőd alatt található.",
+                  "text": "Félreeső strandöböl a sziklák alatt, az Ulcinji erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         19.204942,
@@ -4968,7 +4968,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Lugut të Xhemiles",
-                  "text": "A Plazhi i Lugut të Xhemiles az Ulcinji erőd közelében található.",
+                  "text": "Homokos strand rétes környezetben, az Ulcinji erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         19.180481,
@@ -4977,7 +4977,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Bashbylykut",
-                  "text": "A Plazhi i Bashbylykut az Ulcinji erőd közelében található.",
+                  "text": "Kavicsos strand tiszta vízzel, az Ulcinji erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         19.191454,
@@ -4986,7 +4986,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi Paneuropa",
-                  "text": "A Plazhi Paneuropa az Ulcinji erőd közelében található.",
+                  "text": "Homokos strand európai hangulattal, az Ulcinji erődtől délre.",
                   "category": "recreational",
                   "coords": [
                         19.206526,
@@ -5024,7 +5024,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 1",
-                  "text": "Liman 1 se află lângă fortăreața Ulcinj.",
+                  "text": "Plajă nisipoasă la poalele Cetății Ulcinj, populară pentru apa sa puțin adâncă.",
                   "category": "recreational",
                   "coords": [
                         19.199358,
@@ -5033,7 +5033,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 2",
-                  "text": "Liman 2 se află lângă fortăreața Ulcinj.",
+                  "text": "O altă plajă nisipoasă adiacentă Liman 1, cu vedere la Cetatea Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.196985,
@@ -5042,7 +5042,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ludvig",
-                  "text": "Plaja Ludvig se află sub fortăreața din Ulcinj.",
+                  "text": "Golf de plajă retras sub stânci, lângă Cetatea Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.204942,
@@ -5051,7 +5051,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Lugut të Xhemiles",
-                  "text": "Plazhi i Lugut të Xhemiles se află lângă fortăreața din Ulcinj.",
+                  "text": "Plajă nisipoasă într-un decor de pajiște, aproape de Cetatea Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.180481,
@@ -5060,7 +5060,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Bashbylykut",
-                  "text": "Plazhi i Bashbylykut se află lângă fortăreața din Ulcinj.",
+                  "text": "Plajă cu pietriș și apă limpede, lângă Cetatea Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.191454,
@@ -5069,7 +5069,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi Paneuropa",
-                  "text": "Plazhi Paneuropa se află lângă fortăreața din Ulcinj.",
+                  "text": "Plajă nisipoasă cu ambianță europeană, la sud de Cetatea Ulcinj.",
                   "category": "recreational",
                   "coords": [
                         19.206526,
@@ -5107,7 +5107,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 1",
-                  "text": "Liman 1 is located by the Ulcinj fortress.",
+                  "text": "Sandy beach at the foot of Ulcinj Fortress, popular for its shallow water.",
                   "category": "recreational",
                   "coords": [
                         19.199358,
@@ -5116,7 +5116,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Liman 2",
-                  "text": "Liman 2 is located by the Ulcinj fortress.",
+                  "text": "Another sandy beach adjacent to Liman 1, with views of the Ulcinj Fortress.",
                   "category": "recreational",
                   "coords": [
                         19.196985,
@@ -5125,7 +5125,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Ludvig",
-                  "text": "Ludvig beach is located below the Ulcinj fortress.",
+                  "text": "Secluded beach cove beneath the cliffs near Ulcinj Fortress.",
                   "category": "recreational",
                   "coords": [
                         19.204942,
@@ -5134,7 +5134,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Lugut të Xhemiles",
-                  "text": "Plazhi i Lugut të Xhemiles is located near the Ulcinj fortress.",
+                  "text": "Sandy beach in a meadow setting, close to Ulcinj Fortress.",
                   "category": "recreational",
                   "coords": [
                         19.180481,
@@ -5143,7 +5143,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi i Bashbylykut",
-                  "text": "Plazhi i Bashbylykut is located near the Ulcinj fortress.",
+                  "text": "Pebble beach with clear water, near the Ulcinj Fortress.",
                   "category": "recreational",
                   "coords": [
                         19.191454,
@@ -5152,7 +5152,7 @@ export const montenegroLandmarksV2: POI[] = [
             },
             {
                   "name": "Plazhi Paneuropa",
-                  "text": "Plazhi Paneuropa is located near the Ulcinj fortress.",
+                  "text": "Sandy beach with a European ambiance, located south of Ulcinj Fortress.",
                   "category": "recreational",
                   "coords": [
                         19.206526,
@@ -5362,7 +5362,7 @@ export const montenegroLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Mogren 1",
-                  "text": "Mogren 1 Strand in Budva.",
+                  "text": "Sandstrand unterhalb von Klippen nahe der Altstadt von Budva, beliebt zum Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         18.832388,
@@ -5472,7 +5472,7 @@ export const montenegroLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Mogren 1",
-                  "text": "Mogren 1 strand Budvában.",
+                  "text": "Homokos strand a sziklák alatt Budva óvárosa közelében, népszerű napozásra.",
                   "category": "recreational",
                   "coords": [
                         18.832388,
@@ -5582,7 +5582,7 @@ export const montenegroLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Mogren 1",
-                  "text": "Plaja Mogren 1 în Budva.",
+                  "text": "Plajă nisipoasă sub stânci lângă orașul vechi Budva, populară pentru plajă.",
                   "category": "recreational",
                   "coords": [
                         18.832388,
@@ -5692,7 +5692,7 @@ export const montenegroLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Mogren 1",
-                  "text": "Mogren 1 beach in Budva.",
+                  "text": "Sandy beach below cliffs near Budva's old town, popular for sunbathing.",
                   "category": "recreational",
                   "coords": [
                         18.832388,

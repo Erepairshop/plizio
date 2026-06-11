@@ -693,7 +693,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk (Veliki nišan)",
-                  "text": "Dieser historische Obelisk bei Bijambare ist ein bedeutendes Denkmal aus der mittelalterlichen Zeit.",
+                  "text": "Großer Steinobelisk (Veliki nišan) in der Bergregion Bijambare.",
                   "category": "historical",
                   "coords": [
                         18.545836,
@@ -722,7 +722,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk (Veliki nišan)",
-                  "text": "Ez a Bijambare melletti történelmi obeliszk egy jelentős középkori emlékmű.",
+                  "text": "Nagy kő obeliszk (Veliki nišan) a Bijambare hegységben.",
                   "category": "historical",
                   "coords": [
                         18.545836,
@@ -751,7 +751,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk (Veliki nišan)",
-                  "text": "Acest obelisc istoric de lângă Bijambare este un monument important din perioada medievală.",
+                  "text": "Obelisc mare de piatră (Veliki nišan) în regiunea muntoasă Bijambare.",
                   "category": "historical",
                   "coords": [
                         18.545836,
@@ -780,7 +780,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk (Veliki nišan)",
-                  "text": "This historical obelisk near Bijambare is a significant monument from the medieval period.",
+                  "text": "Large stone obelisk (Veliki nišan) in the Bijambare highlands.",
                   "category": "historical",
                   "coords": [
                         18.545836,
@@ -1469,7 +1469,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Bregoč",
-                  "text": "Der höchste Gipfel des Zelengora-Gebirges.",
+                  "text": "Bregoč ist ein Gipfel in der Zelengora, einer der höchsten Gipfel des Gebirges.",
                   "category": "landmark",
                   "coords": [
                         18.567833,
@@ -1478,7 +1478,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Tovarnica",
-                  "text": "Ein Berggipfel in der malerischen Region Zelengora.",
+                  "text": "Tovarnica ist ein Gipfel in der Zelengora, bekannt für seine alpinen Wiesen.",
                   "category": "landmark",
                   "coords": [
                         18.607664,
@@ -1498,7 +1498,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Bregoč",
-                  "text": "A Zelengora-hegység legmagasabb csúcsa.",
+                  "text": "A Bregoč egy csúcs a Zelengorában, a hegység egyik legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         18.567833,
@@ -1507,7 +1507,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Tovarnica",
-                  "text": "Hegycsúcs a festői Zelengora régióban.",
+                  "text": "A Tovarnica egy csúcs a Zelengorában, alpesi rétjeiről ismert.",
                   "category": "landmark",
                   "coords": [
                         18.607664,
@@ -1527,7 +1527,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Bregoč",
-                  "text": "Cel mai înalt vârf al lanțului muntos Zelengora.",
+                  "text": "Bregoč este un vârf în Zelengora, unul dintre cele mai înalte vârfuri ale masivului.",
                   "category": "landmark",
                   "coords": [
                         18.567833,
@@ -1536,7 +1536,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Tovarnica",
-                  "text": "Un vârf muntos din regiunea pitorească Zelengora.",
+                  "text": "Tovarnica este un vârf în Zelengora, cunoscut pentru pajiștile sale alpine.",
                   "category": "landmark",
                   "coords": [
                         18.607664,
@@ -1556,7 +1556,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Bregoč",
-                  "text": "The highest peak of the Zelengora mountain range.",
+                  "text": "Bregoč is a peak in Zelengora, one of the highest summits of the range.",
                   "category": "landmark",
                   "coords": [
                         18.567833,
@@ -1565,7 +1565,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
             },
             {
                   "name": "Tovarnica",
-                  "text": "A mountain peak in the scenic Zelengora region.",
+                  "text": "Tovarnica is a peak in Zelengora, known for its alpine meadows.",
                   "category": "landmark",
                   "coords": [
                         18.607664,
@@ -1725,7 +1725,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Pločno",
-                  "text": "Der höchste Gipfel des Čvrsnica-Gebirges.",
+                  "text": "Pločno ist ein felsiger Gipfel auf dem Berg Čvrsnica, bekannt für alpine Landschaft.",
                   "category": "landmark",
                   "coords": [
                         17.564727,
@@ -1736,7 +1736,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Pločno",
-                  "text": "A Čvrsnica-hegység legmagasabb csúcsa.",
+                  "text": "A Pločno egy sziklás csúcs a Čvrsnica-hegyen, alpesi tájáról ismert.",
                   "category": "landmark",
                   "coords": [
                         17.564727,
@@ -1747,7 +1747,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Pločno",
-                  "text": "Cel mai înalt vârf din munții Čvrsnica.",
+                  "text": "Pločno este un vârf stâncos pe muntele Čvrsnica, cunoscut pentru peisajul alpin.",
                   "category": "landmark",
                   "coords": [
                         17.564727,
@@ -1758,7 +1758,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Pločno",
-                  "text": "The highest peak of the Čvrsnica mountain range.",
+                  "text": "Pločno is a rocky peak on Mount Čvrsnica, known for its alpine scenery.",
                   "category": "landmark",
                   "coords": [
                         17.564727,
@@ -2234,7 +2234,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Veliki Vran",
-                  "text": "Einer der höchsten Gipfel im Vran-Gebirge.",
+                  "text": "Veliki Vran ist ein Berg im Vran-Mountain-Park, der höchste Gipfel des Parks.",
                   "category": "landmark",
                   "coords": [
                         17.505548,
@@ -2272,7 +2272,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Veliki Vran",
-                  "text": "A Vran-hegység egyik legmagasabb csúcsa.",
+                  "text": "A Veliki Vran egy hegy a Vran Hegyi Parkban, a park legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         17.505548,
@@ -2310,7 +2310,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Veliki Vran",
-                  "text": "Unul dintre cele mai înalte vârfuri din munții Vran.",
+                  "text": "Veliki Vran este un munte în Parcul Montan Vran, cel mai înalt vârf al parcului.",
                   "category": "landmark",
                   "coords": [
                         17.505548,
@@ -2348,7 +2348,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Veliki Vran",
-                  "text": "One of the highest mountain peaks in the Vran range.",
+                  "text": "Veliki Vran is a mountain in Vran Mountain Park, the highest peak in the park.",
                   "category": "landmark",
                   "coords": [
                         17.505548,

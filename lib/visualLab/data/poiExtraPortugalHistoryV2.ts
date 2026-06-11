@@ -16,7 +16,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia do Beliche",
-                  "text": "Ein wunderschöner Strand bei Sagres, der von hohen Klippen umschlossen ist.",
+                  "text": "Praia do Beliche ist ein Sandstrand in einer Bucht mit Klippen, nahe der Festung von Sagres.",
                   "category": "recreational",
                   "coords": [
                         -8.96483,
@@ -90,7 +90,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia do Beliche",
-                  "text": "Gyönyörű strand Sagres közelében, amelyet magas sziklák vesznek körül.",
+                  "text": "A Praia do Beliche egy homokos öböl strand, sziklákkal, Sagres erődje közelében.",
                   "category": "recreational",
                   "coords": [
                         -8.96483,
@@ -164,7 +164,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia do Beliche",
-                  "text": "O plajă superbă lângă Sagres, înconjurată de stânci înalte.",
+                  "text": "Praia do Beliche este o plajă cu nisip într-un golf, cu faleze, lângă cetatea Sagres.",
                   "category": "recreational",
                   "coords": [
                         -8.96483,
@@ -238,7 +238,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia do Beliche",
-                  "text": "A beautiful beach near Sagres enclosed by high cliffs.",
+                  "text": "Praia do Beliche is a sandy cove beach with cliffs, near the Sagres fortress.",
                   "category": "recreational",
                   "coords": [
                         -8.96483,
@@ -664,7 +664,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "Eine kleine Kapelle in Terena, die dem heiligen Antonius gewidmet ist.",
+                  "text": "Eine Kapelle, dem Heiligen Antonius geweiht, in der Nähe der römischen Ruinen von Caladinho.",
                   "category": "religious",
                   "coords": [
                         -7.41214,
@@ -711,7 +711,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "Páduai Szent Antalnak szentelt kis kápolna Terenában.",
+                  "text": "Kápolna, Szent Antal tiszteletére szentelve, a Caladinho római romjainak közelében.",
                   "category": "religious",
                   "coords": [
                         -7.41214,
@@ -758,7 +758,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "O mică chapelă în Terena dedicată Sfântului Anton.",
+                  "text": "O capelă dedicată Sfântului Anton lângă ruinele romane de la Caladinho.",
                   "category": "religious",
                   "coords": [
                         -7.41214,
@@ -805,7 +805,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "A small chapel in Terena dedicated to Saint Anthony.",
+                  "text": "A chapel dedicated to Saint Anthony near the Roman ruins of Caladinho.",
                   "category": "religious",
                   "coords": [
                         -7.41214,
@@ -1024,7 +1024,7 @@ export const portugalHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Monte do Senhor da Boa Morte",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Torre de Pancas.",
+                  "text": "Hügel mit einer Kapelle des Senhor da Boa Morte und Aussicht auf die Umgebung von Torre de Pancas.",
                   "category": "natural",
                   "coords": [
                         -8.98863,
@@ -1033,7 +1033,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Convento de Santo António",
-                  "text": "Ein ehemaliges Kloster in der Region Torre de Pancas.",
+                  "text": "Franziskanerkloster gegründet 1402 in Torre de Pancas.",
                   "category": "religious",
                   "coords": [
                         -9.002104,
@@ -1042,7 +1042,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Sítio arqueológico de Monte dos Castelinhos",
-                  "text": "Eine archäologische Ausgrabungsstätte auf dem Monte dos Castelinhos.",
+                  "text": "Eine archäologische Stätte aus dem 1. Jahrhundert v. Chr. in Torre de Pancas.",
                   "category": "historical",
                   "coords": [
                         -8.974241,
@@ -1060,7 +1060,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Baloiço da Vala do Carregado",
-                  "text": "Eine Panorama-Schaukel in der Vala do Carregado.",
+                  "text": "Malerische Schaukel mit Blick auf das Tal Vala do Carregado in Torre de Pancas.",
                   "category": "landmark",
                   "coords": [
                         -8.945141,
@@ -1069,7 +1069,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal de Vila Franca de Xira",
-                  "text": "Die Piscina Municipal de Vila Franca de Xira ist ein Schwimmbecken am Torre de Pancas.",
+                  "text": "Hallenbad in Vila Franca de Xira mit Sportbecken und Freizeitbereich.",
                   "category": "recreational",
                   "coords": [
                         -8.986065,
@@ -1080,7 +1080,7 @@ export const portugalHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Monte do Senhor da Boa Morte",
-                  "text": "Természetvédelmi terület Torre de Pancas közelében.",
+                  "text": "Domb a Senhor da Boa Morte kápolnával és kilátással Torre de Pancas környékére.",
                   "category": "natural",
                   "coords": [
                         -8.98863,
@@ -1089,7 +1089,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Convento de Santo António",
-                  "text": "Egykori kolostor Torre de Pancas környékén.",
+                  "text": "Ferences kolostor 1402-ben alapítva Torre de Pancasban.",
                   "category": "religious",
                   "coords": [
                         -9.002104,
@@ -1098,7 +1098,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Sítio arqueológico de Monte dos Castelinhos",
-                  "text": "Régészeti lelőhely a Monte dos Castelinhos dombon.",
+                  "text": "Egy i. e. 1. századi régészeti lelőhely Torre de Pancasban.",
                   "category": "historical",
                   "coords": [
                         -8.974241,
@@ -1116,7 +1116,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Baloiço da Vala do Carregado",
-                  "text": "Panorámahinta a Vala do Carregado területén.",
+                  "text": "Festői hinta a Vala do Carregado völgyre néző kilátással Torre de Pancasban.",
                   "category": "landmark",
                   "coords": [
                         -8.945141,
@@ -1125,7 +1125,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal de Vila Franca de Xira",
-                  "text": "A Piscina Municipal de Vila Franca de Xira egy úszómedence a Torre de Pancas közelében.",
+                  "text": "Fedett uszoda Vila Franca de Xirában sportmedencével és pihenőrésszel.",
                   "category": "recreational",
                   "coords": [
                         -8.986065,
@@ -1136,7 +1136,7 @@ export const portugalHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Monte do Senhor da Boa Morte",
-                  "text": "O rezervație naturală în apropiere de Torre de Pancas.",
+                  "text": "Deal cu o capelă a Senhor da Boa Morte și vedere asupra zonei Torre de Pancas.",
                   "category": "natural",
                   "coords": [
                         -8.98863,
@@ -1145,7 +1145,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Convento de Santo António",
-                  "text": "O fostă mănăstire în regiunea Torre de Pancas.",
+                  "text": "Mănăstire franciscană fondată în 1402 în Torre de Pancas.",
                   "category": "religious",
                   "coords": [
                         -9.002104,
@@ -1154,7 +1154,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Sítio arqueológico de Monte dos Castelinhos",
-                  "text": "Un sit arheologic pe Monte dos Castelinhos.",
+                  "text": "Un sit arheologic din secolul I î.Hr. la Torre de Pancas.",
                   "category": "historical",
                   "coords": [
                         -8.974241,
@@ -1172,7 +1172,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Baloiço da Vala do Carregado",
-                  "text": "Un leagăn panoramic în Vala do Carregado.",
+                  "text": "Leagăn pitoresc cu vedere spre valea Vala do Carregado în Torre de Pancas.",
                   "category": "landmark",
                   "coords": [
                         -8.945141,
@@ -1181,7 +1181,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal de Vila Franca de Xira",
-                  "text": "Piscina Municipal de Vila Franca de Xira este o piscină situată lângă Torre de Pancas.",
+                  "text": "Piscină acoperită în Vila Franca de Xira cu bazin sportiv și zonă de relaxare.",
                   "category": "recreational",
                   "coords": [
                         -8.986065,
@@ -1192,7 +1192,7 @@ export const portugalHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Monte do Senhor da Boa Morte",
-                  "text": "A nature reserve located near Torre de Pancas.",
+                  "text": "Hill with a chapel of Senhor da Boa Morte offering views over Torre de Pancas.",
                   "category": "natural",
                   "coords": [
                         -8.98863,
@@ -1201,7 +1201,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Convento de Santo António",
-                  "text": "A former monastery in the Torre de Pancas region.",
+                  "text": "Franciscan convent founded in 1402 in Torre de Pancas.",
                   "category": "religious",
                   "coords": [
                         -9.002104,
@@ -1210,7 +1210,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Sítio arqueológico de Monte dos Castelinhos",
-                  "text": "An archaeological site located on Monte dos Castelinhos.",
+                  "text": "An archaeological site from the 1st century BCE at Torre de Pancas.",
                   "category": "historical",
                   "coords": [
                         -8.974241,
@@ -1228,7 +1228,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Baloiço da Vala do Carregado",
-                  "text": "A panoramic swing located in Vala do Carregado.",
+                  "text": "Scenic swing overlooking the Vala do Carregado valley in Torre de Pancas.",
                   "category": "landmark",
                   "coords": [
                         -8.945141,
@@ -1237,7 +1237,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal de Vila Franca de Xira",
-                  "text": "Piscina Municipal de Vila Franca de Xira is a swimming pool located near Torre de Pancas.",
+                  "text": "Indoor swimming pool in Vila Franca de Xira with a sports pool and leisure area.",
                   "category": "recreational",
                   "coords": [
                         -8.986065,
@@ -1510,7 +1510,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Anta da Lapeira 2",
-                  "text": "Ein antiker megalithischer Dolmen im Gebiet von Pavia.",
+                  "text": "Neolithischer Dolmen (Anta) aus der Jungsteinzeit in der Nähe von Castelo de Pavia.",
                   "category": "historical",
                   "coords": [
                         -8.008587,
@@ -1575,7 +1575,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Anta da Lapeira 2",
-                  "text": "Pavia területén található ókori megalitikus dolmen.",
+                  "text": "Neolitikus dolmen (anta) a kőkorból, Castelo de Pavia közelében.",
                   "category": "historical",
                   "coords": [
                         -8.008587,
@@ -1640,7 +1640,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Anta da Lapeira 2",
-                  "text": "Un dolmen megalitic antic găsit în zona Pavia.",
+                  "text": "Dolmen neolitic (anta) din epoca de piatră, lângă Castelo de Pavia.",
                   "category": "historical",
                   "coords": [
                         -8.008587,
@@ -1705,7 +1705,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Anta da Lapeira 2",
-                  "text": "An ancient megalithic dolmen found in the Pavia area.",
+                  "text": "Neolithic dolmen (anta) from the Stone Age near Castelo de Pavia.",
                   "category": "historical",
                   "coords": [
                         -8.008587,
@@ -2266,7 +2266,7 @@ export const portugalHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Praia Canidelo Norte",
-                  "text": "Ein Strand an der Atlantikküste bei Valadares.",
+                  "text": "Nördlicher Abschnitt des Canidelo-Strandes mit Strandbars und Blick auf den Atlantik.",
                   "category": "recreational",
                   "coords": [
                         -8.664472,
@@ -2302,7 +2302,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia Sereia da Costa Verde",
-                  "text": "Ein Küstenstrand im Gebiet von Valadares.",
+                  "text": "Beliebter Familienstrand mit ruhigem Wasser an der Costa Verde, benannt nach der Sereia.",
                   "category": "recreational",
                   "coords": [
                         -8.664044,
@@ -2320,7 +2320,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia dos Tesos",
-                  "text": "Ein kleiner Strandbereich in der Region Valadares.",
+                  "text": "Breiter Sandstrand nahe der Flussmündung, ideal zum Spazierengehen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         -8.659251,
@@ -2329,7 +2329,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Sul",
-                  "text": "Ein Strand im südlichen Teil des Gebiets Madalena.",
+                  "text": "Südlicher Teil des Madalena-Strandes mit felsigen Klippen und ruhigen Buchten.",
                   "category": "recreational",
                   "coords": [
                         -8.660372,
@@ -2338,7 +2338,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Norte",
-                  "text": "Ein Strand im nördlichen Teil der Küste von Madalena.",
+                  "text": "Nördlicher Teil des Madalena-Strandes in der Nähe des Yachthafens, mit Promenade.",
                   "category": "recreational",
                   "coords": [
                         -8.661936,
@@ -2358,7 +2358,7 @@ export const portugalHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Praia Canidelo Norte",
-                  "text": "Strand az atlanti parton, Valadares közelében.",
+                  "text": "A Canidelo-strand északi szakasza strandbárokkal és kilátással az Atlanti-óceánra.",
                   "category": "recreational",
                   "coords": [
                         -8.664472,
@@ -2394,7 +2394,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia Sereia da Costa Verde",
-                  "text": "Tengerparti strand Valadares környékén.",
+                  "text": "Népszerű családi strand nyugodt vízzel a Costa Verdén, a Sereia nevet viseli.",
                   "category": "recreational",
                   "coords": [
                         -8.664044,
@@ -2412,7 +2412,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia dos Tesos",
-                  "text": "Kis tengerparti szakasz Valadares régiójában.",
+                  "text": "Széles homokos strand a folyótorkolat közelében, ideális sétához és napozáshoz.",
                   "category": "recreational",
                   "coords": [
                         -8.659251,
@@ -2421,7 +2421,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Sul",
-                  "text": "Strand Madalena déli részén.",
+                  "text": "A Madalena-strand déli része sziklás szirtekkel és csendes öblökkel.",
                   "category": "recreational",
                   "coords": [
                         -8.660372,
@@ -2430,7 +2430,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Norte",
-                  "text": "Strand Madalena partvonalának északi részén.",
+                  "text": "A Madalena-strand északi része a marina közelében, sétánnyal.",
                   "category": "recreational",
                   "coords": [
                         -8.661936,
@@ -2450,7 +2450,7 @@ export const portugalHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Praia Canidelo Norte",
-                  "text": "O plajă situată pe coasta Atlanticului, lângă Valadares.",
+                  "text": "Secțiunea nordică a plajei Canidelo cu baruri de plajă și vedere la Atlantic.",
                   "category": "recreational",
                   "coords": [
                         -8.664472,
@@ -2486,7 +2486,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia Sereia da Costa Verde",
-                  "text": "O plajă de coastă situată în zona Valadares.",
+                  "text": "Plajă populară de familie cu apă calmă pe Costa Verde, numită Sereia.",
                   "category": "recreational",
                   "coords": [
                         -8.664044,
@@ -2504,7 +2504,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia dos Tesos",
-                  "text": "O mică zonă de plajă situată în regiunea Valadares.",
+                  "text": "Plajă largă de nisip lângă gura râului, ideală pentru plimbări și plajă.",
                   "category": "recreational",
                   "coords": [
                         -8.659251,
@@ -2513,7 +2513,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Sul",
-                  "text": "O plajă situată în partea de sud a zonei Madalena.",
+                  "text": "Partea de sud a plajei Madalena cu stânci și golfuri liniștite.",
                   "category": "recreational",
                   "coords": [
                         -8.660372,
@@ -2522,7 +2522,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Norte",
-                  "text": "O plajă situată în partea de nord a coastei Madalena.",
+                  "text": "Partea de nord a plajei Madalena lângă marina, cu promenadă.",
                   "category": "recreational",
                   "coords": [
                         -8.661936,
@@ -2542,7 +2542,7 @@ export const portugalHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Praia Canidelo Norte",
-                  "text": "A beach located on the Atlantic coast near Valadares.",
+                  "text": "Northern section of Canidelo beach with beach bars and Atlantic views.",
                   "category": "recreational",
                   "coords": [
                         -8.664472,
@@ -2578,7 +2578,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia Sereia da Costa Verde",
-                  "text": "A coastal beach located in the Valadares area.",
+                  "text": "Popular family beach with calm waters on the Costa Verde, named Sereia.",
                   "category": "recreational",
                   "coords": [
                         -8.664044,
@@ -2596,7 +2596,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia dos Tesos",
-                  "text": "A small beach area located in the Valadares region.",
+                  "text": "Wide sandy beach near the river mouth, ideal for walks and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         -8.659251,
@@ -2605,7 +2605,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Sul",
-                  "text": "A beach located in the southern part of the Madalena area.",
+                  "text": "Southern part of Madalena beach with rocky cliffs and quiet coves.",
                   "category": "recreational",
                   "coords": [
                         -8.660372,
@@ -2614,7 +2614,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Praia de Madalena Norte",
-                  "text": "A beach situated in the northern part of the Madalena coastline.",
+                  "text": "Northern part of Madalena beach near the marina, with a promenade.",
                   "category": "recreational",
                   "coords": [
                         -8.661936,
@@ -3274,7 +3274,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Cabeço de Alfarela",
-                  "text": "Eine archäologische Fundstätte in der Nähe von Torre de Moncorvo.",
+                  "text": "Cabeço de Alfarela ist ein denkmalgeschützter archäologischer Hügel nahe der Burg Torre de Moncorvo.",
                   "category": "historical",
                   "coords": [
                         -7.096518,
@@ -3319,7 +3319,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
-                  "text": "Eine öffentliche Hallenschwimmanlage in Torre de Moncorvo.",
+                  "text": "Hallenbadkomplex in Torre de Moncorvo mit Schwimmbecken und Sauna.",
                   "category": "recreational",
                   "coords": [
                         -7.057749,
@@ -3339,7 +3339,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Cabeço de Alfarela",
-                  "text": "Régészeti lelőhely Torre de Moncorvo közelében.",
+                  "text": "A Cabeço de Alfarela egy műemléki védettségű régészeti domb Torre de Moncorvo vára közelében.",
                   "category": "historical",
                   "coords": [
                         -7.096518,
@@ -3384,7 +3384,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
-                  "text": "Nyilvános fedett úszólétesítmény Torre de Moncorvóban.",
+                  "text": "Fedett uszodakomplexum Torre de Moncorvóban medencékkel és szaunával.",
                   "category": "recreational",
                   "coords": [
                         -7.057749,
@@ -3404,7 +3404,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Cabeço de Alfarela",
-                  "text": "Un sit arheologic situat în apropiere de Torre de Moncorvo.",
+                  "text": "Cabeço de Alfarela este un sit arheologic pe un deal, monument istoric, lângă castelul Torre de Moncorvo.",
                   "category": "historical",
                   "coords": [
                         -7.096518,
@@ -3449,7 +3449,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
-                  "text": "O unitate publică de înot acoperită situată în Torre de Moncorvo.",
+                  "text": "Complex de piscine acoperite în Torre de Moncorvo cu bazine și saună.",
                   "category": "recreational",
                   "coords": [
                         -7.057749,
@@ -3469,7 +3469,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Cabeço de Alfarela",
-                  "text": "An archaeological site located near Torre de Moncorvo.",
+                  "text": "Cabeço de Alfarela is a heritage-listed archaeological hill site near the castle of Torre de Moncorvo.",
                   "category": "historical",
                   "coords": [
                         -7.096518,
@@ -3514,7 +3514,7 @@ export const portugalHistoryV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
-                  "text": "A public indoor swimming facility located in Torre de Moncorvo.",
+                  "text": "Indoor swimming pool complex in Torre de Moncorvo with pools and sauna.",
                   "category": "recreational",
                   "coords": [
                         -7.057749,
@@ -3886,7 +3886,7 @@ export const portugalHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Palacete Visconde de Valdemouro",
-                  "text": "Ein prachtvolles herrschaftliches Gebäude in Paço de Valadares.",
+                  "text": "Palast aus dem 19. Jahrhundert mit kunstvollen Gärten, ehemaliger Sitz des Visconde de Valdemouro.",
                   "category": "castle",
                   "coords": [
                         -8.680669,
@@ -3933,7 +3933,7 @@ export const portugalHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Palacete Visconde de Valdemouro",
-                  "text": "Díszes úri palota Paço de Valadaresben.",
+                  "text": "19. századi palota díszkertekkel, a Valdemouro-i vikomt egykori rezidenciája.",
                   "category": "castle",
                   "coords": [
                         -8.680669,
@@ -3980,7 +3980,7 @@ export const portugalHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Palacete Visconde de Valdemouro",
-                  "text": "O clădire nobiliară impunătoare în Paço de Valadares.",
+                  "text": "Palat din secolul al XIX-lea cu grădini ornamentale, fostă reședință a viconte de Valdemouro.",
                   "category": "castle",
                   "coords": [
                         -8.680669,
@@ -4027,7 +4027,7 @@ export const portugalHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Palacete Visconde de Valdemouro",
-                  "text": "A grand stately building located in Paço de Valadares.",
+                  "text": "19th-century palace with ornate gardens, former residence of the Viscount of Valdemouro.",
                   "category": "castle",
                   "coords": [
                         -8.680669,

@@ -436,7 +436,160 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["São Luís is located between the São Marcos and São José bays.", "The city was named after King Louis IX of France (Saint Louis).", "It features the largest collection of colonial buildings in the Brazilian Northeast.", "The average annual temperature in São Luís is approximately 26°C.", "The Port of Itaqui handles over 100 million tons of cargo annually.", "São Luís is the birthplace of the famous Brazilian writer Aluísio Azevedo.", "The city's historical center was inscribed as a World Heritage site in 1997.", "The local Bumba-Meu-Boi groups often practice throughout the year for the June festivals."],
     }, image: "/poi-images/sao-luis-cities-v2.webp"},
   {
-    id: "sao-goncalo-cities-v2", "sights": {"de": [{"name": "Praia das Pedrinhas", "text": "Die Praia das Pedrinhas präsentiert sich als malerischer Küstenabschnitt in der lebhaften Stadt São Gonçalo. Der Strand verströmt eine authentische lokale Atmosphäre und lädt zu erholsamen Stunden am Wasser ein. Bei einem Spaziergang entlang der Uferlinie kann man den weiten Blick auf die Bucht und das sanfte Plätschern der Wellen auf sich wirken lassen. Für ein ungestörtes Erlebnis empfiehlt es sich, die ruhigen Vormittage unter der Woche zu nutzen.", "category": "recreational", "coords": [-43.072203, -22.810314]}, {"name": "Teatro George Savalla Gomes", "text": "Das Teatro George Savalla Gomes ist ein Theater für darstellende Künste in São Gonçalo.", "category": "cultural", "coords": [-43.049353, -22.825397]}, {"name": "GRES Unidos do Porto da Pedra", "text": "GRES Unidos do Porto da Pedra ist eine berühmte Sambaschule und Sehenswürdigkeit in São Gonçalo.", "category": "landmark", "coords": [-43.062688, -22.824019]}, {"name": "casa das artes", "text": "Casa das Artes ist eine Kunstgalerie mit verschiedenen Ausstellungen in São Gonçalo.", "category": "museum", "coords": [-43.05395, -22.828107]}], "hu": [{"name": "Praia das Pedrinhas", "text": "A Praia das Pedrinhas egy festői partszakaszként jelenik meg a nyüzsgő São Gonçalo városában. A strand autentikus helyi hangulatot áraszt, és pihentető órákra hívogat a vízparton. A part menti séta során az öbölre nyíló tágas kilátás és a hullámok lágy csobogása varázsolja el a látogatókat. A zavartalan élmény érdekében érdemes a csendes hétköznapi délelőttöket kihasználni.", "category": "recreational", "coords": [-43.072203, -22.810314]}, {"name": "Teatro George Savalla Gomes", "text": "A Teatro George Savalla Gomes egy előadóművészeti színház São Gonçalóban.", "category": "cultural", "coords": [-43.049353, -22.825397]}, {"name": "GRES Unidos do Porto da Pedra", "text": "A GRES Unidos do Porto da Pedra egy híres szambaiskola és látványosság São Gonçalóban.", "category": "landmark", "coords": [-43.062688, -22.824019]}, {"name": "casa das artes", "text": "A Casa das Artes egy művészeti galéria, amely különféle kiállításokat kínál São Gonçalóban.", "category": "museum", "coords": [-43.05395, -22.828107]}], "ro": [{"name": "Praia das Pedrinhas", "text": "Praia das Pedrinhas se prezintă ca o porțiune de coastă pitorească în vibrantul oraș São Gonçalo. Plaja emană o atmosferă locală autentică și invită la ore de relaxare la malul apei. La o plimbare de-a lungul țărmului, vă puteți bucura de priveliștea amplă asupra golfului și de clipocitul blând al valurilor. Pentru o experiență netulburată, este recomandat să profitați de diminețile liniștite din timpul săptămânii.", "category": "recreational", "coords": [-43.072203, -22.810314]}, {"name": "Teatro George Savalla Gomes", "text": "Teatro George Savalla Gomes este un teatru de arte spectacolului în São Gonçalo.", "category": "cultural", "coords": [-43.049353, -22.825397]}, {"name": "GRES Unidos do Porto da Pedra", "text": "GRES Unidos do Porto da Pedra este o renumită școală de samba și atracție din São Gonçalo.", "category": "landmark", "coords": [-43.062688, -22.824019]}, {"name": "casa das artes", "text": "Casa das Artes este o galerie de artă cu diverse expoziții în São Gonçalo.", "category": "museum", "coords": [-43.05395, -22.828107]}], "en": [{"name": "Praia das Pedrinhas", "text": "Praia das Pedrinhas presents itself as a picturesque coastal stretch within the bustling city of São Gonçalo. The beach exudes an authentic local atmosphere, inviting visitors for relaxing hours by the water. Taking a stroll along the shoreline allows you to take in the sweeping views of the bay and the gentle lapping of the waves. To enjoy an undisturbed experience, visiting during the quiet weekday mornings is highly recommended.", "category": "recreational", "coords": [-43.072203, -22.810314]}, {"name": "Teatro George Savalla Gomes", "text": "Teatro George Savalla Gomes is a performing arts theatre in São Gonçalo.", "category": "cultural", "coords": [-43.049353, -22.825397]}, {"name": "GRES Unidos do Porto da Pedra", "text": "GRES Unidos do Porto da Pedra is a renowned samba school and attraction in São Gonçalo.", "category": "landmark", "coords": [-43.062688, -22.824019]}, {"name": "casa das artes", "text": "Casa das Artes is an art gallery featuring various exhibits in São Gonçalo.", "category": "museum", "coords": [-43.05395, -22.828107]}]},
+    id: "sao-goncalo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Die Praia das Pedrinhas präsentiert sich als malerischer Küstenabschnitt in der lebhaften Stadt São Gonçalo. Der Strand verströmt eine authentische lokale Atmosphäre und lädt zu erholsamen Stunden am Wasser ein. Bei einem Spaziergang entlang der Uferlinie kann man den weiten Blick auf die Bucht und das sanfte Plätschern der Wellen auf sich wirken lassen. Für ein ungestörtes Erlebnis empfiehlt es sich, die ruhigen Vormittage unter der Woche zu nutzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "Theater, benannt nach dem berühmten brasilianischen Clown Carequinha, in Goncalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "GRES Unidos do Porto da Pedra ist eine berühmte Sambaschule und Sehenswürdigkeit in São Gonçalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "Casa das Artes ist eine Kunstgalerie mit verschiedenen Ausstellungen in São Gonçalo.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "A Praia das Pedrinhas egy festői partszakaszként jelenik meg a nyüzsgő São Gonçalo városában. A strand autentikus helyi hangulatot áraszt, és pihentető órákra hívogat a vízparton. A part menti séta során az öbölre nyíló tágas kilátás és a hullámok lágy csobogása varázsolja el a látogatókat. A zavartalan élmény érdekében érdemes a csendes hétköznapi délelőttöket kihasználni.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "A híres brazil bohóc, Carequinha névadó színháza Goncalóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "A GRES Unidos do Porto da Pedra egy híres szambaiskola és látványosság São Gonçalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "A Casa das Artes egy művészeti galéria, amely különféle kiállításokat kínál São Gonçalóban.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Praia das Pedrinhas se prezintă ca o porțiune de coastă pitorească în vibrantul oraș São Gonçalo. Plaja emană o atmosferă locală autentică și invită la ore de relaxare la malul apei. La o plimbare de-a lungul țărmului, vă puteți bucura de priveliștea amplă asupra golfului și de clipocitul blând al valurilor. Pentru o experiență netulburată, este recomandat să profitați de diminețile liniștite din timpul săptămânii.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "Teatru numit după celebrul clovn brazilian Carequinha în Gonçalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "GRES Unidos do Porto da Pedra este o renumită școală de samba și atracție din São Gonçalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "Casa das Artes este o galerie de artă cu diverse expoziții în São Gonçalo.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Praia das Pedrinhas presents itself as a picturesque coastal stretch within the bustling city of São Gonçalo. The beach exudes an authentic local atmosphere, inviting visitors for relaxing hours by the water. Taking a stroll along the shoreline allows you to take in the sweeping views of the bay and the gentle lapping of the waves. To enjoy an undisturbed experience, visiting during the quiet weekday mornings is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "Theatre named after famous Brazilian clown Carequinha in Gonçalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "GRES Unidos do Porto da Pedra is a renowned samba school and attraction in São Gonçalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "Casa das Artes is an art gallery featuring various exhibits in São Gonçalo.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.0631, -22.8269],
@@ -504,7 +657,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museu Ciência e Vida;Drogaria Pacheco",
-                  "text": "Das Museu Ciência e Vida in Duque de Caxias ist ein Museum für Wissenschaft.",
+                  "text": "Museu Ciência e Vida und Drogaria Pacheco ist ein Museum in Duque de Caxias, in einem historischen Apothekengebäude untergebracht.",
                   "category": "museum",
                   "coords": [
                         -43.306732,
@@ -513,7 +666,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Raul Cortez",
-                  "text": "Das Teatro Municipal Raul Cortez ist ein Theater in Duque de Caxias.",
+                  "text": "Städtisches Theater, benannt nach dem Schauspieler Raul Cortez, in Duque de Caxias.",
                   "category": "cultural",
                   "coords": [
                         -43.310363,
@@ -522,7 +675,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "G.R.E.S. Acadêmicos do Grande Rio",
-                  "text": "Acadêmicos do Grande Rio ist eine berühmte Samba-Schule in Duque de Caxias.",
+                  "text": "G.R.E.S. Acadêmicos do Grande Rio ist eine Sambaschule in Duque de Caxias, berühmt für Karnevalsumzüge.",
                   "category": "landmark",
                   "coords": [
                         -43.310266,
@@ -531,7 +684,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "GRES Acadêmicos de Vigário Geral",
-                  "text": "Acadêmicos de Vigário Geral ist eine Samba-Schule in Duque de Caxias.",
+                  "text": "GRES Acadêmicos de Vigário Geral ist eine Sambaschule aus Vigário Geral in Duque de Caxias.",
                   "category": "landmark",
                   "coords": [
                         -43.306838,
@@ -540,7 +693,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
-                  "text": "Lira de Ouro ist ein kulturelles Zentrum in Duque de Caxias.",
+                  "text": "Kulturzentrum und Musikverein Lira de Ouro in Duque de Caxias.",
                   "category": "cultural",
                   "coords": [
                         -43.31337,
@@ -551,7 +704,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museu Ciência e Vida;Drogaria Pacheco",
-                  "text": "A Duque de Caxiasban található Museu Ciência e Vida egy tudományos múzeum.",
+                  "text": "A Museu Ciência e Vida és Drogaria Pacheco egy múzeum Duque de Caxiasban, egy történelmi gyógyszertárépületben kapott helyet.",
                   "category": "museum",
                   "coords": [
                         -43.306732,
@@ -560,7 +713,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Raul Cortez",
-                  "text": "A Teatro Municipal Raul Cortez egy színház Duque de Caxiasban.",
+                  "text": "Raul Cortez színészről elnevezett városi színház Duque de Caxiasban.",
                   "category": "cultural",
                   "coords": [
                         -43.310363,
@@ -569,7 +722,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "G.R.E.S. Acadêmicos do Grande Rio",
-                  "text": "Az Acadêmicos do Grande Rio egy híres szambaiskola Duque de Caxiasban.",
+                  "text": "A G.R.E.S. Acadêmicos do Grande Rio egy samba iskola Duque de Caxiasban, híres karneváli felvonulásairól.",
                   "category": "landmark",
                   "coords": [
                         -43.310266,
@@ -578,7 +731,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "GRES Acadêmicos de Vigário Geral",
-                  "text": "Az Acadêmicos de Vigário Geral egy szambaiskola Duque de Caxiasban.",
+                  "text": "A GRES Acadêmicos de Vigário Geral egy samba iskola Vigário Geralból, Duque de Caxiasban.",
                   "category": "landmark",
                   "coords": [
                         -43.306838,
@@ -587,7 +740,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
-                  "text": "A Lira de Ouro egy kulturális központ Duque de Caxiasban.",
+                  "text": "Lira de Ouro kulturális központ és zenei társaság Duque de Caxiasban.",
                   "category": "cultural",
                   "coords": [
                         -43.31337,
@@ -598,7 +751,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museu Ciência e Vida;Drogaria Pacheco",
-                  "text": "Museu Ciência e Vida din Duque de Caxias este un muzeu de știință.",
+                  "text": "Museu Ciência e Vida și Drogaria Pacheco este un muzeu în Duque de Caxias, găzduit într-o fostă clădire de farmacie istorică.",
                   "category": "museum",
                   "coords": [
                         -43.306732,
@@ -607,7 +760,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Raul Cortez",
-                  "text": "Teatro Municipal Raul Cortez este un teatru din Duque de Caxias.",
+                  "text": "Teatru municipal numit după actorul Raul Cortez în Duque de Caxias.",
                   "category": "cultural",
                   "coords": [
                         -43.310363,
@@ -616,7 +769,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "G.R.E.S. Acadêmicos do Grande Rio",
-                  "text": "Acadêmicos do Grande Rio este o celebră școală de samba din Duque de Caxias.",
+                  "text": "G.R.E.S. Acadêmicos do Grande Rio este o școală de samba din Duque de Caxias, renumită pentru paradele de carnaval.",
                   "category": "landmark",
                   "coords": [
                         -43.310266,
@@ -625,7 +778,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "GRES Acadêmicos de Vigário Geral",
-                  "text": "Acadêmicos de Vigário Geral este o școală de samba din Duque de Caxias.",
+                  "text": "GRES Acadêmicos de Vigário Geral este o școală de samba din Vigário Geral, Duque de Caxias.",
                   "category": "landmark",
                   "coords": [
                         -43.306838,
@@ -634,7 +787,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
-                  "text": "Lira de Ouro este un centru cultural din Duque de Caxias.",
+                  "text": "Centru cultural și societate muzicală Lira de Ouro în Duque de Caxias.",
                   "category": "cultural",
                   "coords": [
                         -43.31337,
@@ -645,7 +798,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museu Ciência e Vida;Drogaria Pacheco",
-                  "text": "The Museu Ciência e Vida in Duque de Caxias is a science museum.",
+                  "text": "Museu Ciência e Vida and Drogaria Pacheco is a museum in Duque de Caxias, housed in a historic pharmacy building.",
                   "category": "museum",
                   "coords": [
                         -43.306732,
@@ -654,7 +807,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Raul Cortez",
-                  "text": "The Teatro Municipal Raul Cortez is a theatre in Duque de Caxias.",
+                  "text": "Municipal theatre named after actor Raul Cortez in Duque de Caxias.",
                   "category": "cultural",
                   "coords": [
                         -43.310363,
@@ -663,7 +816,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "G.R.E.S. Acadêmicos do Grande Rio",
-                  "text": "Acadêmicos do Grande Rio is a famous samba school in Duque de Caxias.",
+                  "text": "G.R.E.S. Acadêmicos do Grande Rio is a samba school in Duque de Caxias, famous for its Carnaval parades.",
                   "category": "landmark",
                   "coords": [
                         -43.310266,
@@ -672,7 +825,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "GRES Acadêmicos de Vigário Geral",
-                  "text": "Acadêmicos de Vigário Geral is a samba school in Duque de Caxias.",
+                  "text": "GRES Acadêmicos de Vigário Geral is a samba school from Vigário Geral in Duque de Caxias.",
                   "category": "landmark",
                   "coords": [
                         -43.306838,
@@ -681,7 +834,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
-                  "text": "Lira de Ouro is a cultural center in Duque de Caxias.",
+                  "text": "Cultural centre and musical society Lira de Ouro in Duque de Caxias.",
                   "category": "cultural",
                   "coords": [
                         -43.31337,
@@ -812,7 +965,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Cacilda Becker",
-                  "text": "Teatro Municipal Cacilda Becker ist ein Theater in São Bernardo do Campo.",
+                  "text": "Städtisches Theater, benannt nach der Schauspielerin Cacilda Becker, in São Bernardo do Campo.",
                   "category": "cultural",
                   "coords": [
                         -46.552127,
@@ -821,7 +974,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "Parque Central ist ein Theater in São Bernardo do Campo.",
+                  "text": "Zentraler Park für kulturelle Veranstaltungen in São Bernardo do Campo.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -830,7 +983,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC ist ein Museum in São Bernardo do Campo.",
+                  "text": "Museum der Veteranen des brasilianischen Expeditionskorps in São Bernardo do Campo.",
                   "category": "museum",
                   "coords": [
                         -46.55636,
@@ -848,7 +1001,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "Pinacoteca de São Bernardo do Campo ist eine öffentliche Kunstgalerie in São Bernardo do Campo.",
+                  "text": "Die Pinacoteca de São Bernardo do Campo zeigt eine Sammlung brasilianischer Gemälde.",
                   "category": "museum",
                   "coords": [
                         -46.555205,
@@ -857,7 +1010,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cruzeiro do Baeta",
-                  "text": "Cruzeiro do Baeta ist ein Denkmal in São Bernardo do Campo.",
+                  "text": "Historisches Kreuzdenkmal im Stadtteil Baeta von São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.538531,
@@ -866,7 +1019,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Carroça de Aço",
-                  "text": "Carroça de Aço ist ein Denkmal in São Bernardo do Campo.",
+                  "text": "Historisches Stahlwagon-Denkmal in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.532998,
@@ -875,7 +1028,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Casa da Baronesa",
-                  "text": "Antiga Casa da Baronesa ist eine Ruine in São Bernardo do Campo.",
+                  "text": "Ehemaliges Herrenhaus einer Baronin in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
@@ -902,7 +1055,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Santa Filomena",
-                  "text": "Igreja Santa Filomena ist eine Sehenswürdigkeit in São Bernardo do Campo.",
+                  "text": "Katholische Kirche der heiligen Filomena in São Bernardo do Campo.",
                   "category": "landmark",
                   "coords": [
                         -46.55123,
@@ -920,7 +1073,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fratemidade Cristã",
-                  "text": "Fratemidade Cristã ist ein Denkmal in São Bernardo do Campo.",
+                  "text": "Ehemaliges Gebäude einer christlichen Bruderschaft in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.553201,
@@ -949,7 +1102,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Cacilda Becker",
-                  "text": "A Teatro Municipal Cacilda Becker egy színház São Bernardo do Campo városában.",
+                  "text": "Cacilda Becker színésznőről elnevezett városi színház São Bernardo do Campóban.",
                   "category": "cultural",
                   "coords": [
                         -46.552127,
@@ -958,7 +1111,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "A Parque Central egy színház São Bernardo do Campo városában.",
+                  "text": "Központi park kulturális eseményekkel São Bernardo do Campóban.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -967,7 +1120,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "Az ANVFEB Associação Nacional dos Veteranos da FEB - SBC egy múzeum São Bernardo do Campo városában.",
+                  "text": "A Brazil Expedíciós Erő veteránjainak múzeuma São Bernardo do Campóban.",
                   "category": "museum",
                   "coords": [
                         -46.55636,
@@ -985,7 +1138,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "A Pinacoteca de São Bernardo do Campo egy nyilvános művészeti galéria São Bernardo do Campo városában.",
+                  "text": "A Pinacoteca de São Bernardo do Campo brazil festmények gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -46.555205,
@@ -994,7 +1147,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cruzeiro do Baeta",
-                  "text": "A Cruzeiro do Baeta egy emlékmű São Bernardo do Campo városában.",
+                  "text": "Történelmi kereszt emlékmű a Baeta negyedben, São Bernardo do Campóban.",
                   "category": "historical",
                   "coords": [
                         -46.538531,
@@ -1003,7 +1156,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Carroça de Aço",
-                  "text": "A Carroça de Aço egy emlékmű São Bernardo do Campo városában.",
+                  "text": "Történelmi acélkocsi-emlékmű São Bernardo do Campóban.",
                   "category": "historical",
                   "coords": [
                         -46.532998,
@@ -1012,7 +1165,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Casa da Baronesa",
-                  "text": "Az Antiga Casa da Baronesa egy rom São Bernardo do Campo városában.",
+                  "text": "Egy bárónő egykori háza São Bernardo do Campóban.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
@@ -1039,7 +1192,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Santa Filomena",
-                  "text": "Az Igreja Santa Filomena egy látványosság São Bernardo do Campo városában.",
+                  "text": "Szent Filomena katolikus temploma São Bernardo do Campóban.",
                   "category": "landmark",
                   "coords": [
                         -46.55123,
@@ -1057,7 +1210,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fratemidade Cristã",
-                  "text": "A Fratemidade Cristã egy emlékmű São Bernardo do Campo városában.",
+                  "text": "Egykori keresztény testvériség épülete São Bernardo do Campóban.",
                   "category": "historical",
                   "coords": [
                         -46.553201,
@@ -1086,7 +1239,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Cacilda Becker",
-                  "text": "Teatro Municipal Cacilda Becker este un teatru în São Bernardo do Campo.",
+                  "text": "Teatru municipal numit după actrița Cacilda Becker în São Bernardo do Campo.",
                   "category": "cultural",
                   "coords": [
                         -46.552127,
@@ -1095,7 +1248,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "Parque Central este un teatru în São Bernardo do Campo.",
+                  "text": "Parcul central pentru evenimente culturale în São Bernardo do Campo.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -1104,7 +1257,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC este un muzeu în São Bernardo do Campo.",
+                  "text": "Muzeul veteranilor Forței Expediționare Braziliene în São Bernardo do Campo.",
                   "category": "museum",
                   "coords": [
                         -46.55636,
@@ -1122,7 +1275,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "Pinacoteca de São Bernardo do Campo este o galerie de artă publică în São Bernardo do Campo.",
+                  "text": "Pinacoteca din São Bernardo do Campo expune o colecție de picturi braziliene.",
                   "category": "museum",
                   "coords": [
                         -46.555205,
@@ -1131,7 +1284,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cruzeiro do Baeta",
-                  "text": "Cruzeiro do Baeta este un monument în São Bernardo do Campo.",
+                  "text": "Monument istoric al crucii în cartierul Baeta din São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.538531,
@@ -1140,7 +1293,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Carroça de Aço",
-                  "text": "Carroça de Aço este un monument în São Bernardo do Campo.",
+                  "text": "Monument istoric al unui car de oțel în São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.532998,
@@ -1149,7 +1302,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Casa da Baronesa",
-                  "text": "Antiga Casa da Baronesa este o ruină în São Bernardo do Campo.",
+                  "text": "Fosta casă a unei baronese în São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
@@ -1176,7 +1329,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Santa Filomena",
-                  "text": "Igreja Santa Filomena este o atracție în São Bernardo do Campo.",
+                  "text": "Biserică catolică dedicată Sfintei Filomena în São Bernardo do Campo.",
                   "category": "landmark",
                   "coords": [
                         -46.55123,
@@ -1194,7 +1347,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fratemidade Cristã",
-                  "text": "Fratemidade Cristã este un monument în São Bernardo do Campo.",
+                  "text": "Fosta clădire a unei fraternități creștine în São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.553201,
@@ -1223,7 +1376,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Cacilda Becker",
-                  "text": "Teatro Municipal Cacilda Becker is a theatre located in São Bernardo do Campo.",
+                  "text": "Municipal theatre named after actress Cacilda Becker in São Bernardo do Campo.",
                   "category": "cultural",
                   "coords": [
                         -46.552127,
@@ -1232,7 +1385,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "Parque Central is a theatre located in São Bernardo do Campo.",
+                  "text": "Central park hosting cultural events in São Bernardo do Campo.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -1241,7 +1394,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC is a museum located in São Bernardo do Campo.",
+                  "text": "Museum of veterans of the Brazilian Expeditionary Force in São Bernardo do Campo.",
                   "category": "museum",
                   "coords": [
                         -46.55636,
@@ -1259,7 +1412,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "Pinacoteca de São Bernardo do Campo is a public art gallery located in São Bernardo do Campo.",
+                  "text": "The Pinacoteca de São Bernardo do Campo houses a collection of Brazilian paintings.",
                   "category": "museum",
                   "coords": [
                         -46.555205,
@@ -1268,7 +1421,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cruzeiro do Baeta",
-                  "text": "Cruzeiro do Baeta is a monument located in São Bernardo do Campo.",
+                  "text": "Historic cross monument in the Baeta neighborhood of São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.538531,
@@ -1277,7 +1430,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Carroça de Aço",
-                  "text": "Carroça de Aço is a monument located in São Bernardo do Campo.",
+                  "text": "Historic steel cart monument in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.532998,
@@ -1286,7 +1439,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Casa da Baronesa",
-                  "text": "Antiga Casa da Baronesa is a ruin located in São Bernardo do Campo.",
+                  "text": "Former residence of a baroness in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
@@ -1313,7 +1466,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Santa Filomena",
-                  "text": "Igreja Santa Filomena is an attraction located in São Bernardo do Campo.",
+                  "text": "Catholic church dedicated to Saint Philomena in São Bernardo do Campo.",
                   "category": "landmark",
                   "coords": [
                         -46.55123,
@@ -1331,7 +1484,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fratemidade Cristã",
-                  "text": "Fratemidade Cristã is a monument located in São Bernardo do Campo.",
+                  "text": "Former Christian fraternity building in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.553201,
@@ -1387,7 +1540,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Sylvio Monteiro",
-                  "text": "Das Teatro Sylvio Monteiro ist ein Kulturtheater in Nova Iguaçu.",
+                  "text": "Städtisches Theater Sylvio Monteiro in Iguacu.",
                   "category": "cultural",
                   "coords": [
                         -43.450154,
@@ -1414,7 +1567,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MIrante Vigné",
-                  "text": "Mirante Vigné ist ein malerischer Aussichtspunkt in Nova Iguaçu.",
+                  "text": "Aussichtspunkt mit Panoramablick über die Region Iguacu.",
                   "category": "natural",
                   "coords": [
                         -43.466911,
@@ -1434,7 +1587,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Sylvio Monteiro",
-                  "text": "A Teatro Sylvio Monteiro egy kulturális színház Nova Iguaçu városában.",
+                  "text": "Sylvio Monteiro városi színház Iguacuban.",
                   "category": "cultural",
                   "coords": [
                         -43.450154,
@@ -1461,7 +1614,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MIrante Vigné",
-                  "text": "A Mirante Vigné egy festői kilátó Nova Iguaçu városában.",
+                  "text": "Kilátó pont panorámás kilátással az Iguacu régióra.",
                   "category": "natural",
                   "coords": [
                         -43.466911,
@@ -1481,7 +1634,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Sylvio Monteiro",
-                  "text": "Teatro Sylvio Monteiro este un teatru cultural situat în Nova Iguaçu.",
+                  "text": "Teatrul municipal Sylvio Monteiro în Iguacu.",
                   "category": "cultural",
                   "coords": [
                         -43.450154,
@@ -1508,7 +1661,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MIrante Vigné",
-                  "text": "Mirante Vigné este un punct de observare pitoresc situat în Nova Iguaçu.",
+                  "text": "Punct de belvedere cu vedere panoramică asupra regiunii Iguacu.",
                   "category": "natural",
                   "coords": [
                         -43.466911,
@@ -1528,7 +1681,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Sylvio Monteiro",
-                  "text": "Teatro Sylvio Monteiro is a cultural theatre located in Nova Iguaçu.",
+                  "text": "Municipal theatre Sylvio Monteiro in Iguacu.",
                   "category": "cultural",
                   "coords": [
                         -43.450154,
@@ -1555,7 +1708,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MIrante Vigné",
-                  "text": "Mirante Vigné is a scenic viewpoint situated in Nova Iguaçu.",
+                  "text": "Scenic viewpoint overlooking the Iguacu region.",
                   "category": "natural",
                   "coords": [
                         -43.466911,
@@ -1649,7 +1802,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESI",
-                  "text": "Das Teatro do SESI ist ein Theater in São José dos Campos.",
+                  "text": "Theater des Sozialdienstes der Industrie (SESI) in São José dos Campos.",
                   "category": "cultural",
                   "coords": [
                         -45.884935,
@@ -1703,7 +1856,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bel France",
-                  "text": "Bel France ist eine Sehenswürdigkeit in São José dos Campos.",
+                  "text": "Wahrzeichen Bel France in São José dos Campos.",
                   "category": "landmark",
                   "coords": [
                         -45.888481,
@@ -1741,7 +1894,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESI",
-                  "text": "A Teatro do SESI egy színház São José dos Camposban.",
+                  "text": "Az Ipari Szociális Szolgálat (SESI) színháza São José dos Camposban.",
                   "category": "cultural",
                   "coords": [
                         -45.884935,
@@ -1795,7 +1948,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bel France",
-                  "text": "Bel France egy látnivaló São José dos Camposban.",
+                  "text": "Bel France nevezetesség São José dos Camposban.",
                   "category": "landmark",
                   "coords": [
                         -45.888481,
@@ -1833,7 +1986,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESI",
-                  "text": "Teatro do SESI este un teatru din São José dos Campos.",
+                  "text": "Teatrul Serviciului Social al Industriei (SESI) în São José dos Campos.",
                   "category": "cultural",
                   "coords": [
                         -45.884935,
@@ -1887,7 +2040,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bel France",
-                  "text": "Bel France este o atracție din São José dos Campos.",
+                  "text": "Punct de reper Bel France în São José dos Campos.",
                   "category": "landmark",
                   "coords": [
                         -45.888481,
@@ -1925,7 +2078,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESI",
-                  "text": "The Teatro do SESI is a theatre in São José dos Campos.",
+                  "text": "Theatre operated by SESI (Industrial Social Service) in São José dos Campos.",
                   "category": "cultural",
                   "coords": [
                         -45.884935,
@@ -1979,7 +2132,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bel France",
-                  "text": "Bel France is an attraction in São José dos Campos.",
+                  "text": "Landmark named Bel France in São José dos Campos.",
                   "category": "landmark",
                   "coords": [
                         -45.888481,
@@ -2044,7 +2197,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Municipal Maestro Flavio Florence",
-                  "text": "Teatro Municipal Maestro Flavio Florence ist ein Theater in Santo André.",
+                  "text": "Teatro Municipal Maestro Flavio Florence ist ein Theater in André, ein kulturelles Wahrzeichen der Stadt.",
                   "category": "cultural",
                   "coords": [
                         -46.532288,
@@ -2062,7 +2215,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Palco da Sede da Banda Lira",
-                  "text": "Palco da Sede da Banda Lira ist ein Theater in Santo André.",
+                  "text": "Bühne am Hauptsitz der Banda Lira in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.521562,
@@ -2071,7 +2224,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Anfiteatro Professor Doutor Milton Borrelli ist ein Theater in Santo André.",
+                  "text": "Amphitheater, benannt nach Professor Dr. Milton Borrelli, in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.555108,
@@ -2080,7 +2233,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "Museu Militar dos Expedicionários do ABCDMRR ist ein Museum in Santo André.",
+                  "text": "Militärmuseum der Expeditionsteilnehmer der ABCDMRR in Santo André.",
                   "category": "museum",
                   "coords": [
                         -46.546092,
@@ -2089,7 +2242,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "Parque Central ist ein Theater in Santo André.",
+                  "text": "Zentraler Park mit kulturellen Veranstaltungen in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -2098,7 +2251,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Concha Acústica de Santo André",
-                  "text": "Concha Acústica de Santo André ist ein Theater in Santo André.",
+                  "text": "Freiluft-Muschel (Concha Acústica) für Konzerte in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.526298,
@@ -2107,7 +2260,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Olhar Luiz Sacilotto",
-                  "text": "Visual Arts Center ist ein Kunstzentrum in Santo André.",
+                  "text": "Visual Arts Center ist ein Kulturzentrum in André, das Ausstellungen zeitgenössischer Kunst veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -46.525395,
@@ -2134,7 +2287,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Escola",
-                  "text": "Parque Escola ist eine Sehenswürdigkeit in Santo André.",
+                  "text": "Bildungspark, der Natur und Lernen vereint, in Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.551211,
@@ -2143,7 +2296,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "Casa Amarela do Centro Universitário Fundação Santo André ist ein Herrenhaus in Santo André.",
+                  "text": "Erbaut in den 1920er–1930er Jahren, geschütztes Kulturerbe (Klasse 8) in André.",
                   "category": "historical",
                   "coords": [
                         -46.553582,
@@ -2152,7 +2305,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mansão Tognato",
-                  "text": "Mansão Tognato ist ein Herrenhaus in Santo André.",
+                  "text": "Erbaut in den 1930er Jahren, geschütztes Kulturerbe (Klasse 8) in André.",
                   "category": "historical",
                   "coords": [
                         -46.538871,
@@ -2161,7 +2314,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "J.E.P. Bombas",
-                  "text": "J.E.P. Bombas ist ein Aussichtspunkt in Santo André.",
+                  "text": "Naturquelle oder Wasserpumpenbereich in Santo André.",
                   "category": "natural",
                   "coords": [
                         -46.521023,
@@ -2170,7 +2323,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Escola Livre de Cinema e Vídeo de Santo André ist ein Kunstzentrum in Santo André.",
+                  "text": "Freie Film- und Videoschule in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2179,7 +2332,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Graxa Pura",
-                  "text": "Graxa Pura ist ein Kunstzentrum in Santo André.",
+                  "text": "Kulturort namens Graxa Pura in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2188,7 +2341,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Nacional de Teatro",
-                  "text": "Escola Nacional de Teatro ist ein Kunstzentrum in Santo André.",
+                  "text": "Nationale Theaterschule in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.520259,
@@ -2197,7 +2350,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antônio Pezzollo - Chácara Pignatari",
-                  "text": "Parque Antônio Pezzollo - Chácara Pignatari ist eine Sehenswürdigkeit in Santo André.",
+                  "text": "Park auf dem ehemaligen Anwesen Chácara Pignatari in Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.530959,
@@ -2206,7 +2359,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
-                  "text": "Sociedade Cultural Ítalo-Brasileira de Santo André ist ein Kunstzentrum in Santo André.",
+                  "text": "Italienisch-brasilianische Kulturgesellschaft in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.53703,
@@ -2224,7 +2377,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "SESC Santo André",
-                  "text": "SESC Santo André ist ein Sportzentrum in Santo André.",
+                  "text": "Kultur- und Freizeitzentrum SESC in Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.547599,
@@ -2235,7 +2388,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Municipal Maestro Flavio Florence",
-                  "text": "A Teatro Municipal Maestro Flavio Florence egy színház Santo André városában.",
+                  "text": "A Teatro Municipal Maestro Flavio Florence egy színház Andréban, a város kulturális nevezetessége.",
                   "category": "cultural",
                   "coords": [
                         -46.532288,
@@ -2253,7 +2406,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Palco da Sede da Banda Lira",
-                  "text": "A Palco da Sede da Banda Lira egy színház Santo André városában.",
+                  "text": "A Banda Lira székhelyének színpada Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.521562,
@@ -2262,7 +2415,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Az Anfiteatro Professor Doutor Milton Borrelli egy színház Santo André városában.",
+                  "text": "Milton Borrelli professzorról elnevezett amfiteátrum Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.555108,
@@ -2271,7 +2424,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "A Museu Militar dos Expedicionários do ABCDMRR egy múzeum Santo André városában.",
+                  "text": "Az ABCDMRR expedíciós katonáinak múzeuma Santo Andréban.",
                   "category": "museum",
                   "coords": [
                         -46.546092,
@@ -2280,7 +2433,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "A Parque Central egy színház Santo André városában.",
+                  "text": "Központi park kulturális rendezvényekkel Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -2289,7 +2442,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Concha Acústica de Santo André",
-                  "text": "A Concha Acústica de Santo André egy színház Santo André városában.",
+                  "text": "Szabadtéri akusztikus kagylószínpad Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.526298,
@@ -2298,7 +2451,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Olhar Luiz Sacilotto",
-                  "text": "A Visual Arts Center egy művészeti központ Santo André városában.",
+                  "text": "A Visual Arts Center egy kulturális központ Andréban, kortárs művészeti kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -46.525395,
@@ -2325,7 +2478,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Escola",
-                  "text": "A Parque Escola egy látványosság Santo André városában.",
+                  "text": "Oktatási park, amely egyesíti a természetet és a tanulást, Santo Andréban.",
                   "category": "landmark",
                   "coords": [
                         -46.551211,
@@ -2334,7 +2487,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "A Casa Amarela do Centro Universitário Fundação Santo André egy udvarház Santo André városában.",
+                  "text": "Az 1920-as–1930-as években épült, védett örökségi helyszín (8. osztály) Andréban.",
                   "category": "historical",
                   "coords": [
                         -46.553582,
@@ -2343,7 +2496,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mansão Tognato",
-                  "text": "A Mansão Tognato egy udvarház Santo André városában.",
+                  "text": "Az 1930-as években épült, védett örökségi helyszín (8. osztály) Andréban.",
                   "category": "historical",
                   "coords": [
                         -46.538871,
@@ -2352,7 +2505,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "J.E.P. Bombas",
-                  "text": "A J.E.P. Bombas egy kilátó Santo André városában.",
+                  "text": "Természetes forrás vagy vízszivattyú terület Santo Andréban.",
                   "category": "natural",
                   "coords": [
                         -46.521023,
@@ -2361,7 +2514,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Az Escola Livre de Cinema e Vídeo de Santo André egy művészeti központ Santo André városában.",
+                  "text": "Szabad Film- és Videóiskola Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2370,7 +2523,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Graxa Pura",
-                  "text": "A Graxa Pura egy művészeti központ Santo André városában.",
+                  "text": "Graxa Pura nevű kulturális helyszín Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2379,7 +2532,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Nacional de Teatro",
-                  "text": "Az Escola Nacional de Teatro egy művészeti központ Santo André városában.",
+                  "text": "Nemzeti Színházi Iskola Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.520259,
@@ -2388,7 +2541,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antônio Pezzollo - Chácara Pignatari",
-                  "text": "A Parque Antônio Pezzollo - Chácara Pignatari egy látványosság Santo André városában.",
+                  "text": "Park a volt Chácara Pignatari birtokon Santo Andréban.",
                   "category": "landmark",
                   "coords": [
                         -46.530959,
@@ -2397,7 +2550,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
-                  "text": "A Sociedade Cultural Ítalo-Brasileira de Santo André egy művészeti központ Santo André városában.",
+                  "text": "Olasz-brazil kulturális társaság Santo Andréban.",
                   "category": "cultural",
                   "coords": [
                         -46.53703,
@@ -2415,7 +2568,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "SESC Santo André",
-                  "text": "A SESC Santo André egy sportközpont Santo André városában.",
+                  "text": "SESC kulturális és szabadidőközpont Santo Andréban.",
                   "category": "landmark",
                   "coords": [
                         -46.547599,
@@ -2426,7 +2579,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Municipal Maestro Flavio Florence",
-                  "text": "Teatro Municipal Maestro Flavio Florence este un teatru în Santo André.",
+                  "text": "Teatro Municipal Maestro Flavio Florence este un teatru în André, un reper cultural al orașului.",
                   "category": "cultural",
                   "coords": [
                         -46.532288,
@@ -2444,7 +2597,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Palco da Sede da Banda Lira",
-                  "text": "Palco da Sede da Banda Lira este un teatru în Santo André.",
+                  "text": "Scena de la sediul Banda Lira în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.521562,
@@ -2453,7 +2606,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Anfiteatro Professor Doutor Milton Borrelli este un teatru în Santo André.",
+                  "text": "Amfiteatru numit după profesorul doctor Milton Borrelli în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.555108,
@@ -2462,7 +2615,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "Museu Militar dos Expedicionários do ABCDMRR este un muzeu în Santo André.",
+                  "text": "Muzeul militar al expediționarilor ABCDMRR în Santo André.",
                   "category": "museum",
                   "coords": [
                         -46.546092,
@@ -2471,7 +2624,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "Parque Central este un teatru în Santo André.",
+                  "text": "Parcul central cu evenimente culturale în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -2480,7 +2633,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Concha Acústica de Santo André",
-                  "text": "Concha Acústica de Santo André este un teatru în Santo André.",
+                  "text": "Scoică acustică în aer liber pentru concerte în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.526298,
@@ -2489,7 +2642,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Olhar Luiz Sacilotto",
-                  "text": "Visual Arts Center este un centru de arte în Santo André.",
+                  "text": "Visual Arts Center este un centru cultural în André, care găzduiește expoziții de artă contemporană.",
                   "category": "cultural",
                   "coords": [
                         -46.525395,
@@ -2516,7 +2669,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Escola",
-                  "text": "Parque Escola este o atracție în Santo André.",
+                  "text": "Parcul educațional care combină natura și învățarea în Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.551211,
@@ -2525,7 +2678,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "Casa Amarela do Centro Universitário Fundação Santo André este un conac în Santo André.",
+                  "text": "Construit în anii 1920–1930, monument istoric clasă 8 în André.",
                   "category": "historical",
                   "coords": [
                         -46.553582,
@@ -2534,7 +2687,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mansão Tognato",
-                  "text": "Mansão Tognato este un conac în Santo André.",
+                  "text": "Construit în anii 1930, monument istoric clasă 8 în André.",
                   "category": "historical",
                   "coords": [
                         -46.538871,
@@ -2543,7 +2696,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "J.E.P. Bombas",
-                  "text": "J.E.P. Bombas este un punct de belvedere în Santo André.",
+                  "text": "Zonă naturală cu izvor sau pompă de apă în Santo André.",
                   "category": "natural",
                   "coords": [
                         -46.521023,
@@ -2552,7 +2705,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Escola Livre de Cinema e Vídeo de Santo André este un centru de arte în Santo André.",
+                  "text": "Școală Liberă de Film și Video în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2561,7 +2714,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Graxa Pura",
-                  "text": "Graxa Pura este un centru de arte în Santo André.",
+                  "text": "Locație culturală numită Graxa Pura în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2570,7 +2723,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Nacional de Teatro",
-                  "text": "Escola Nacional de Teatro este un centru de arte în Santo André.",
+                  "text": "Școala Națională de Teatru în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.520259,
@@ -2579,7 +2732,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antônio Pezzollo - Chácara Pignatari",
-                  "text": "Parque Antônio Pezzollo - Chácara Pignatari este o atracție în Santo André.",
+                  "text": "Parcul pe fosta proprietate Chácara Pignatari în Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.530959,
@@ -2588,7 +2741,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
-                  "text": "Sociedade Cultural Ítalo-Brasileira de Santo André este un centru de arte în Santo André.",
+                  "text": "Societatea Culturală Italo-Braziliană în Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.53703,
@@ -2606,7 +2759,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "SESC Santo André",
-                  "text": "SESC Santo André este un centru sportiv din Santo André.",
+                  "text": "Centrul cultural și de agrement SESC în Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.547599,
@@ -2617,7 +2770,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Municipal Maestro Flavio Florence",
-                  "text": "Teatro Municipal Maestro Flavio Florence is a theatre located in Santo André.",
+                  "text": "Teatro Municipal Maestro Flavio Florence is a theater in André, a cultural landmark in the city.",
                   "category": "cultural",
                   "coords": [
                         -46.532288,
@@ -2635,7 +2788,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Palco da Sede da Banda Lira",
-                  "text": "Palco da Sede da Banda Lira is a theatre located in Santo André.",
+                  "text": "Stage at the headquarters of Banda Lira in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.521562,
@@ -2644,7 +2797,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Anfiteatro Professor Doutor Milton Borrelli is a theatre located in Santo André.",
+                  "text": "Amphitheatre named after Professor Dr. Milton Borrelli in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.555108,
@@ -2653,7 +2806,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "Museu Militar dos Expedicionários do ABCDMRR is a museum located in Santo André.",
+                  "text": "Military museum of the ABCDMRR expeditionaries in Santo André.",
                   "category": "museum",
                   "coords": [
                         -46.546092,
@@ -2662,7 +2815,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Central",
-                  "text": "Parque Central is a theatre located in Santo André.",
+                  "text": "Central park for cultural events in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.528875,
@@ -2671,7 +2824,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Concha Acústica de Santo André",
-                  "text": "Concha Acústica de Santo André is a theatre located in Santo André.",
+                  "text": "Outdoor acoustic music shell in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.526298,
@@ -2680,7 +2833,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Visual Arts Center",
-                  "text": "Visual Arts Center is an arts centre located in Santo André.",
+                  "text": "Visual Arts Center is a cultural center in André, hosting exhibitions of contemporary art.",
                   "category": "cultural",
                   "coords": [
                         -46.525395,
@@ -2707,7 +2860,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Escola",
-                  "text": "Parque Escola is an attraction located in Santo André.",
+                  "text": "Educational park blending nature and learning in Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.551211,
@@ -2716,7 +2869,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "Casa Amarela do Centro Universitário Fundação Santo André is a manor located in Santo André.",
+                  "text": "Built in the 1920s–1930s, a protected heritage site (class 8) in André.",
                   "category": "historical",
                   "coords": [
                         -46.553582,
@@ -2725,7 +2878,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mansão Tognato",
-                  "text": "Mansão Tognato is a manor located in Santo André.",
+                  "text": "Built in the 1930s, a protected heritage site (class 8) in André.",
                   "category": "historical",
                   "coords": [
                         -46.538871,
@@ -2734,7 +2887,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "J.E.P. Bombas",
-                  "text": "J.E.P. Bombas is a viewpoint located in Santo André.",
+                  "text": "Natural spring or water pump area in Santo André.",
                   "category": "natural",
                   "coords": [
                         -46.521023,
@@ -2743,7 +2896,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Escola Livre de Cinema e Vídeo de Santo André is an arts centre located in Santo André.",
+                  "text": "Free film and video school in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2752,7 +2905,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Graxa Pura",
-                  "text": "Graxa Pura is an arts centre located in Santo André.",
+                  "text": "Cultural venue named Graxa Pura in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.530378,
@@ -2761,7 +2914,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Escola Nacional de Teatro",
-                  "text": "Escola Nacional de Teatro is an arts centre located in Santo André.",
+                  "text": "National theatre school in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.520259,
@@ -2770,7 +2923,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antônio Pezzollo - Chácara Pignatari",
-                  "text": "Parque Antônio Pezzollo - Chácara Pignatari is an attraction located in Santo André.",
+                  "text": "Park on the former Chácara Pignatari estate in Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.530959,
@@ -2779,7 +2932,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
-                  "text": "Sociedade Cultural Ítalo-Brasileira de Santo André is an arts centre located in Santo André.",
+                  "text": "Italian-Brazilian cultural society in Santo André.",
                   "category": "cultural",
                   "coords": [
                         -46.53703,
@@ -2797,7 +2950,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "SESC Santo André",
-                  "text": "SESC Santo André is a sports centre located in Santo André.",
+                  "text": "SESC cultural and leisure centre in Santo André.",
                   "category": "landmark",
                   "coords": [
                         -46.547599,
@@ -2853,7 +3006,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Ribeirão Preto",
-                  "text": "Das Teatro Municipal de Ribeirão Preto ist das städtische Haupttheater von Ribeirão Preto.",
+                  "text": "Städtisches Theater von Ribeirão Preto.",
                   "category": "cultural",
                   "coords": [
                         -47.799282,
@@ -2862,7 +3015,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro de Arena Doutor Jaime Zeiger",
-                  "text": "Das Teatro de Arena Doutor Jaime Zeiger ist ein Freilufttheater in Ribeirão Preto.",
+                  "text": "Arenatheater, benannt nach Dr. Jaime Zeiger, in Ribeirão Preto.",
                   "category": "cultural",
                   "coords": [
                         -47.799102,
@@ -2889,7 +3042,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MARP",
-                  "text": "MARP ist ein anerkanntes Kunstmuseum in Ribeirão Preto.",
+                  "text": "Das MARP-Museum in Preto wurde 1992 eröffnet.",
                   "category": "museum",
                   "coords": [
                         -47.806812,
@@ -2954,7 +3107,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Ribeirão Preto",
-                  "text": "A Teatro Municipal de Ribeirão Preto a város fő színháza Ribeirão Pretóban.",
+                  "text": "Ribeirão Preto városi színháza.",
                   "category": "cultural",
                   "coords": [
                         -47.799282,
@@ -2963,7 +3116,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro de Arena Doutor Jaime Zeiger",
-                  "text": "A Teatro de Arena Doutor Jaime Zeiger egy szabadtéri arénaszínház Ribeirão Pretóban.",
+                  "text": "Dr. Jaime Zeigerről elnevezett arénaszínház Ribeirão Pretóban.",
                   "category": "cultural",
                   "coords": [
                         -47.799102,
@@ -2990,7 +3143,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MARP",
-                  "text": "A MARP egy elismert művészeti múzeum Ribeirão Pretóban.",
+                  "text": "A MARP múzeum Pretóban 1992-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         -47.806812,
@@ -3055,7 +3208,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Ribeirão Preto",
-                  "text": "Teatro Municipal de Ribeirão Preto este teatrul municipal principal din Ribeirão Preto.",
+                  "text": "Teatrul municipal din Ribeirão Preto.",
                   "category": "cultural",
                   "coords": [
                         -47.799282,
@@ -3064,7 +3217,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro de Arena Doutor Jaime Zeiger",
-                  "text": "Teatro de Arena Doutor Jaime Zeiger este un teatru de tip arenă în aer liber din Ribeirão Preto.",
+                  "text": "Teatru arenă numit după doctorul Jaime Zeiger în Ribeirão Preto.",
                   "category": "cultural",
                   "coords": [
                         -47.799102,
@@ -3091,7 +3244,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MARP",
-                  "text": "MARP este un muzeu de artă recunoscut situat în Ribeirão Preto.",
+                  "text": "Muzeul MARP din Preto a fost deschis în 1992.",
                   "category": "museum",
                   "coords": [
                         -47.806812,
@@ -3156,7 +3309,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Ribeirão Preto",
-                  "text": "Teatro Municipal de Ribeirão Preto is the main municipal theatre of Ribeirão Preto.",
+                  "text": "Municipal theatre of Ribeirão Preto.",
                   "category": "cultural",
                   "coords": [
                         -47.799282,
@@ -3165,7 +3318,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro de Arena Doutor Jaime Zeiger",
-                  "text": "Teatro de Arena Doutor Jaime Zeiger is an open-air arena theatre in Ribeirão Preto.",
+                  "text": "Arena theatre named after Dr. Jaime Zeiger in Ribeirão Preto.",
                   "category": "cultural",
                   "coords": [
                         -47.799102,
@@ -3192,7 +3345,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MARP",
-                  "text": "MARP is a recognized art museum situated in Ribeirão Preto.",
+                  "text": "MARP is a museum opened in 1992 in Preto.",
                   "category": "museum",
                   "coords": [
                         -47.806812,
@@ -3284,7 +3437,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Reserva Ecológica de Manassu",
-                  "text": "Die Reserva Ecológica de Manassu in Jaboatão dos Guararapes ist ein Naturschutzgebiet.",
+                  "text": "Ökologisches Schutzgebiet Manassu in Jaboatão dos Guararapes.",
                   "category": "natural",
                   "coords": [
                         -35.01908,
@@ -3302,7 +3455,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Samuel Campelo",
-                  "text": "Das Cine Teatro Samuel Campelo ist ein kultureller Veranstaltungsort in Jaboatão dos Guararapes.",
+                  "text": "Kino und Theater Samuel Campelo in Jaboatão dos Guararapes.",
                   "category": "cultural",
                   "coords": [
                         -35.018344,
@@ -3311,7 +3464,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santa",
-                  "text": "Die Santa-Statue ist ein Denkmal in Jaboatão dos Guararapes.",
+                  "text": "Historische Stätte namens Santa in Jaboatão dos Guararapes.",
                   "category": "historical",
                   "coords": [
                         -34.992568,
@@ -3331,7 +3484,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Reserva Ecológica de Manassu",
-                  "text": "A Jaboatão dos Guararapes-i Reserva Ecológica de Manassu egy természetvédelmi terület.",
+                  "text": "Manassu ökológiai rezervátum Jaboatão dos Guararapesben.",
                   "category": "natural",
                   "coords": [
                         -35.01908,
@@ -3349,7 +3502,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Samuel Campelo",
-                  "text": "A Cine Teatro Samuel Campelo egy kulturális helyszín Jaboatão dos Guararapesban.",
+                  "text": "Samuel Campelo mozi és színház Jaboatão dos Guararapesben.",
                   "category": "cultural",
                   "coords": [
                         -35.018344,
@@ -3358,7 +3511,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santa",
-                  "text": "A Santa-szobor egy emlékmű Jaboatão dos Guararapesban.",
+                  "text": "Santa nevű történelmi helyszín Jaboatão dos Guararapesben.",
                   "category": "historical",
                   "coords": [
                         -34.992568,
@@ -3378,7 +3531,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Reserva Ecológica de Manassu",
-                  "text": "Reserva Ecológica de Manassu din Jaboatão dos Guararapes este o rezervație naturală.",
+                  "text": "Rezervația ecologică Manassu în Jaboatão dos Guararapes.",
                   "category": "natural",
                   "coords": [
                         -35.01908,
@@ -3396,7 +3549,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Samuel Campelo",
-                  "text": "Cine Teatro Samuel Campelo este un spațiu cultural din Jaboatão dos Guararapes.",
+                  "text": "Cinema și teatru Samuel Campelo în Jaboatão dos Guararapes.",
                   "category": "cultural",
                   "coords": [
                         -35.018344,
@@ -3405,7 +3558,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santa",
-                  "text": "Statuia Santa este un monument din Jaboatão dos Guararapes.",
+                  "text": "Sit istoric numit Santa în Jaboatão dos Guararapes.",
                   "category": "historical",
                   "coords": [
                         -34.992568,
@@ -3425,7 +3578,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Reserva Ecológica de Manassu",
-                  "text": "The Reserva Ecológica de Manassu in Jaboatão dos Guararapes is a nature reserve.",
+                  "text": "Ecological reserve of Manassu in Jaboatão dos Guararapes.",
                   "category": "natural",
                   "coords": [
                         -35.01908,
@@ -3443,7 +3596,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Samuel Campelo",
-                  "text": "The Cine Teatro Samuel Campelo is a cultural venue in Jaboatão dos Guararapes.",
+                  "text": "Cinema and theatre Samuel Campelo in Jaboatão dos Guararapes.",
                   "category": "cultural",
                   "coords": [
                         -35.018344,
@@ -3452,7 +3605,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santa",
-                  "text": "The Santa statue is a monument in Jaboatão dos Guararapes.",
+                  "text": "Historical site named Santa in Jaboatão dos Guararapes.",
                   "category": "historical",
                   "coords": [
                         -34.992568,
@@ -3508,7 +3661,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Minha casa",
-                  "text": "Minha casa ist eine Burg in Osasco.",
+                  "text": "Schlossartiges Gebäude namens Minha Casa in Osasco.",
                   "category": "castle",
                   "coords": [
                         -46.785008,
@@ -3517,7 +3670,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Gloria Giglio",
-                  "text": "Teatro Municipal Gloria Giglio ist ein Theater in Osasco.",
+                  "text": "Städtisches Theater Gloria Giglio in Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.768936,
@@ -3526,7 +3679,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Marco Monumental",
-                  "text": "Marco Monumental ist ein Denkmal in Osasco.",
+                  "text": "Ein historischer Monolith in Form einer Säule auf dem Hauptplatz von Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.770813,
@@ -3535,7 +3688,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Totem Inauguração Praça Ivano Ferrari",
-                  "text": "Totem Inauguração Praça Ivano Ferrari ist ein Denkmal in Osasco.",
+                  "text": "Ein Gedenk-Totempfahl auf der Praça Ivano Ferrari in Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.778653,
@@ -3544,7 +3697,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Santo Antônio",
-                  "text": "Arco de Santo Antônio ist ein Denkmal in Osasco.",
+                  "text": "Ein dem Heiligen Antonius geweihter Zierbogen am Kircheneingang in Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.781309,
@@ -3553,7 +3706,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatório Villa Lobos",
-                  "text": "Conservatório Villa Lobos ist ein Kunstzentrum in Osasco.",
+                  "text": "Ein nach Heitor Villa-Lobos benanntes Musikkonservatorium im Kulturviertel von Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.791804,
@@ -3562,7 +3715,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bombeiro",
-                  "text": "Bombeiro ist ein Denkmal in Osasco.",
+                  "text": "Eine Bronzestatue eines Feuerwehrmanns vor der Feuerwache in Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.788345,
@@ -3571,7 +3724,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Osasco",
-                  "text": "Arco de Osasco ist ein Denkmal in Osasco.",
+                  "text": "Ein historischer Torbogen, der den Eingang zur Stadt Osasco markiert.",
                   "category": "historical",
                   "coords": [
                         -46.772635,
@@ -3580,7 +3733,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Grande Otelo",
-                  "text": "Espaço Cultural Grande Otelo ist ein Kunstzentrum in Osasco.",
+                  "text": "Ein nach Grande Otelo benannter Kulturraum im Kunstviertel von Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.772887,
@@ -3589,7 +3742,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Oficina de Saberes",
-                  "text": "Oficina de Saberes ist ein Kunstzentrum in Osasco.",
+                  "text": "Eine Gemeinschaftswerkstatt für Kunst- und Handwerkskurse in Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.785509,
@@ -3598,7 +3751,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Central  de Osasco Walter Edson de Abreu",
-                  "text": "Mercado Central de Osasco Walter Edson de Abreu ist ein städtischer Marktplatz in Osasco.",
+                  "text": "Erbaut 1953 in Osasco.",
                   "category": "landmark",
                   "coords": [
                         -46.778927,
@@ -3609,7 +3762,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Minha casa",
-                  "text": "A Minha casa egy kastély Osasco városában.",
+                  "text": "Minha Casa nevű kastélyszerű épület Osascóban.",
                   "category": "castle",
                   "coords": [
                         -46.785008,
@@ -3618,7 +3771,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Gloria Giglio",
-                  "text": "A Teatro Municipal Gloria Giglio egy színház Osasco városában.",
+                  "text": "Gloria Giglio városi színház Osascóban.",
                   "category": "cultural",
                   "coords": [
                         -46.768936,
@@ -3627,7 +3780,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Marco Monumental",
-                  "text": "A Marco Monumental egy emlékmű Osasco városában.",
+                  "text": "Egy történelmi oszlop formájú emlékmű Osasco főterén.",
                   "category": "historical",
                   "coords": [
                         -46.770813,
@@ -3636,7 +3789,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Totem Inauguração Praça Ivano Ferrari",
-                  "text": "A Totem Inauguração Praça Ivano Ferrari egy emlékmű Osasco városában.",
+                  "text": "Egy emlék-totemoszlop a Praça Ivano Ferrari téren Osascóban.",
                   "category": "historical",
                   "coords": [
                         -46.778653,
@@ -3645,7 +3798,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Santo Antônio",
-                  "text": "Az Arco de Santo Antônio egy emlékmű Osasco városában.",
+                  "text": "Egy Szent Antalnak szentelt díszív egy osascói templom bejáratánál.",
                   "category": "historical",
                   "coords": [
                         -46.781309,
@@ -3654,7 +3807,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatório Villa Lobos",
-                  "text": "A Conservatório Villa Lobos egy művészeti központ Osasco városában.",
+                  "text": "Egy Heitor Villa-Lobosról elnevezett zenei konzervatórium Osasco kulturális negyedében.",
                   "category": "cultural",
                   "coords": [
                         -46.791804,
@@ -3663,7 +3816,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bombeiro",
-                  "text": "A Bombeiro egy emlékmű Osasco városában.",
+                  "text": "Egy tűzoltó bronzszobra az osascói tűzoltóállomás előtt.",
                   "category": "historical",
                   "coords": [
                         -46.788345,
@@ -3672,7 +3825,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Osasco",
-                  "text": "Az Arco de Osasco egy emlékmű Osasco városában.",
+                  "text": "Egy történelmi kapuív, amely Osasco városának bejáratát jelzi.",
                   "category": "historical",
                   "coords": [
                         -46.772635,
@@ -3681,7 +3834,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Grande Otelo",
-                  "text": "Az Espaço Cultural Grande Otelo egy művészeti központ Osasco városában.",
+                  "text": "Egy Grande Oteloról elnevezett kulturális tér Osasco művészeti negyedében.",
                   "category": "cultural",
                   "coords": [
                         -46.772887,
@@ -3690,7 +3843,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Oficina de Saberes",
-                  "text": "Az Oficina de Saberes egy művészeti központ Osasco városában.",
+                  "text": "Egy közösségi műhely, amely művészeti és kézműves tanfolyamokat kínál Osascóban.",
                   "category": "cultural",
                   "coords": [
                         -46.785509,
@@ -3699,7 +3852,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Central  de Osasco Walter Edson de Abreu",
-                  "text": "A Mercado Central de Osasco Walter Edson de Abreu egy városi piac Osasco városában.",
+                  "text": "Osascóban épült 1953-ban.",
                   "category": "landmark",
                   "coords": [
                         -46.778927,
@@ -3710,7 +3863,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Minha casa",
-                  "text": "Minha casa este un castel situat în Osasco.",
+                  "text": "Clădire asemănătoare unui castel numită Minha Casa în Osasco.",
                   "category": "castle",
                   "coords": [
                         -46.785008,
@@ -3719,7 +3872,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Gloria Giglio",
-                  "text": "Teatro Municipal Gloria Giglio este un teatru situat în Osasco.",
+                  "text": "Teatrul municipal Gloria Giglio în Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.768936,
@@ -3728,7 +3881,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Marco Monumental",
-                  "text": "Marco Monumental este un monument situat în Osasco.",
+                  "text": "Un monument istoric în formă de stâlp în piața principală din Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.770813,
@@ -3737,7 +3890,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Totem Inauguração Praça Ivano Ferrari",
-                  "text": "Totem Inauguração Praça Ivano Ferrari este un monument situat în Osasco.",
+                  "text": "Un totem comemorativ în piața Praça Ivano Ferrari din Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.778653,
@@ -3746,7 +3899,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Santo Antônio",
-                  "text": "Arco de Santo Antônio este un monument situat în Osasco.",
+                  "text": "Un arc decorativ dedicat Sfântului Antoniu la intrarea unei biserici din Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.781309,
@@ -3755,7 +3908,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatório Villa Lobos",
-                  "text": "Conservatório Villa Lobos este un centru de arte situat în Osasco.",
+                  "text": "Un conservator de muzică numit după Heitor Villa-Lobos în cartierul cultural din Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.791804,
@@ -3764,7 +3917,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bombeiro",
-                  "text": "Bombeiro este un monument situat în Osasco.",
+                  "text": "O statuie de bronz a unui pompier în fața stației de pompieri din Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.788345,
@@ -3773,7 +3926,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Osasco",
-                  "text": "Arco de Osasco este un monument situat în Osasco.",
+                  "text": "Un arc istoric de poartă care marchează intrarea în orașul Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.772635,
@@ -3782,7 +3935,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Grande Otelo",
-                  "text": "Espaço Cultural Grande Otelo este un centru de arte situat în Osasco.",
+                  "text": "Un spațiu cultural numit după Grande Otelo în cartierul artistic din Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.772887,
@@ -3791,7 +3944,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Oficina de Saberes",
-                  "text": "Oficina de Saberes este un centru de arte situat în Osasco.",
+                  "text": "Un atelier comunitar care oferă cursuri de arte și meserii în Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.785509,
@@ -3800,7 +3953,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Central  de Osasco Walter Edson de Abreu",
-                  "text": "Mercado Central de Osasco Walter Edson de Abreu este o piață municipală situată în Osasco.",
+                  "text": "Construit în 1953 în Osasco.",
                   "category": "landmark",
                   "coords": [
                         -46.778927,
@@ -3811,7 +3964,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Minha casa",
-                  "text": "Minha casa is a castle located in Osasco.",
+                  "text": "Castle-like building named 'Minha Casa' in Osasco.",
                   "category": "castle",
                   "coords": [
                         -46.785008,
@@ -3820,7 +3973,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal Gloria Giglio",
-                  "text": "Teatro Municipal Gloria Giglio is a theatre located in Osasco.",
+                  "text": "Municipal theatre Gloria Giglio in Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.768936,
@@ -3829,7 +3982,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Marco Monumental",
-                  "text": "Marco Monumental is a monument located in Osasco.",
+                  "text": "A historical monument in the shape of a pillar at the main square of Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.770813,
@@ -3838,7 +3991,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Totem Inauguração Praça Ivano Ferrari",
-                  "text": "Totem Inauguração Praça Ivano Ferrari is a monument located in Osasco.",
+                  "text": "A commemorative totem pole at Praça Ivano Ferrari square in Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.778653,
@@ -3847,7 +4000,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Santo Antônio",
-                  "text": "Arco de Santo Antônio is a monument located in Osasco.",
+                  "text": "A decorative arch dedicated to Saint Anthony at the entrance of a church in Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.781309,
@@ -3856,7 +4009,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatório Villa Lobos",
-                  "text": "Conservatório Villa Lobos is an arts centre located in Osasco.",
+                  "text": "A music conservatory named after Heitor Villa-Lobos in the cultural district of Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.791804,
@@ -3865,7 +4018,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bombeiro",
-                  "text": "Bombeiro is a monument located in Osasco.",
+                  "text": "A bronze statue of a firefighter in front of the fire station in Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.788345,
@@ -3874,7 +4027,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arco de Osasco",
-                  "text": "Arco de Osasco is a monument located in Osasco.",
+                  "text": "A historical gateway arch marking the entrance to the city of Osasco.",
                   "category": "historical",
                   "coords": [
                         -46.772635,
@@ -3883,7 +4036,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Grande Otelo",
-                  "text": "Espaço Cultural Grande Otelo is an arts centre located in Osasco.",
+                  "text": "A cultural space named after Grande Otelo in the arts district of Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.772887,
@@ -3892,7 +4045,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Oficina de Saberes",
-                  "text": "Oficina de Saberes is an arts centre located in Osasco.",
+                  "text": "A community workshop offering courses in arts and crafts in Osasco.",
                   "category": "cultural",
                   "coords": [
                         -46.785509,
@@ -3901,7 +4054,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Central  de Osasco Walter Edson de Abreu",
-                  "text": "Mercado Central de Osasco Walter Edson de Abreu is a municipal marketplace located in Osasco.",
+                  "text": "Built in 1953 in Osasco.",
                   "category": "landmark",
                   "coords": [
                         -46.778927,
@@ -3944,7 +4097,592 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Une ville en plein essor économique située à côté de São Paulo, passée d'un centre industriel à une plaque tournante de services.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/osasco-cities-v2.webp"},
   {
-    id: "uberlandia-cities-v2", "sights": {"de": [{"name": "Museu Municipal de Uberlândia", "text": "Das städtische Museum von Uberlândia bewahrt und stellt das historische Erbe der Stadt aus.", "category": "museum", "coords": [-48.281614, -18.923289]}, {"name": "Ágora Pública da Praça Olivia Calábria", "text": "Die Ágora Pública da Praça Olivia Calábria fungiert als Freilufttheater in Uberlândia.", "category": "cultural", "coords": [-48.290716, -18.928734]}, {"name": "Museu Dica - Laboratório de Projetos", "text": "Das Museu Dica - Laboratório de Projetos ist ein spezialisiertes Museum und Projektlabor in Uberlândia.", "category": "museum", "coords": [-48.254921, -18.918317]}, {"name": "Museu Mineral Da UFU", "text": "Das Mineralienmuseum der UFU zeigt eine umfangreiche Sammlung geologischer Proben in Uberlândia.", "category": "museum", "coords": [-48.26004, -18.919986]}, {"name": "Prainha do Praia Clube", "text": "Die Prainha do Praia Clube ist ein charmanter, lokaler Strandabschnitt in der Stadt Uberlândia. Dieser Ort ist ein beliebter Treffpunkt, um das warme Wetter zu genießen und eine Auszeit vom Alltag zu nehmen. Besucher finden hier ein einladendes Ambiente für gemütliche Stunden am Wasser oder einen entspannten Spaziergang. Gerade an sonnigen Nachmittagen entfaltet die Gegend ihren ganzen Reiz für Erholungsuchende.", "category": "recreational", "coords": [-48.292675, -18.934173]}, {"name": "Teatro Público da Praça", "text": "Das Teatro Público da Praça ist ein Theater, das der Kulturszene von Uberlândia dient.", "category": "cultural", "coords": [-48.284983, -18.923714]}, {"name": "Palco da Sérgio Pacheco", "text": "Palco da Sérgio Pacheco ist ein Veranstaltungsort für Theater in Uberlândia.", "category": "cultural", "coords": [-48.276334, -18.911898]}, {"name": "Mercado Municipal de Uberlândia", "text": "Der Mercado Municipal de Uberlândia ist ein historischer öffentlicher Markt, der für seine regionalen Produkte bekannt ist.", "category": "landmark", "coords": [-48.281884, -18.918361]}, {"name": "Memorial à Zumbi dos Palmares", "text": "Das Memorial à Zumbi dos Palmares ist ein öffentliches Denkmal in Uberlândia.", "category": "historical", "coords": [-48.279156, -18.923419]}, {"name": "Galeria Online de Artes - GOnA", "text": "Die Galeria Online de Artes - GOnA ist eine Galerie für bildende Kunst in Uberlândia.", "category": "museum", "coords": [-48.258505, -18.917789]}, {"name": "Monumento Nossa Senhora Do Carmo", "text": "Das Monumento Nossa Senhora Do Carmo ist ein Denkmal in Uberlândia.", "category": "historical", "coords": [-48.275458, -18.934239]}, {"name": "Conservatório", "text": "Das Conservatório ist ein Kunstzentrum in Uberlândia.", "category": "cultural", "coords": [-48.263669, -18.899746]}, {"name": "Trupe de Truões", "text": "Trupe de Truões ist ein Zentrum für darstellende Künste in Uberlândia.", "category": "cultural", "coords": [-48.25148, -18.919434]}, {"name": "Hospital Orthomed Center", "text": "Das Hospital Orthomed Center ist eine lokale Attraktion in Uberlândia.", "category": "landmark", "coords": [-48.286967, -18.930679]}, {"name": "Prefeitura de Uberlândia", "text": "Die Prefeitura de Uberlândia ist das Rathaus und der Verwaltungssitz der Gemeinde Uberlândia.", "category": "historical", "coords": [-48.256326, -18.911984]}, {"name": "Igreja Adventista Do Sétimo Dia", "text": "Die Igreja Adventista Do Sétimo Dia ist ein lokales Gotteshaus in Uberlândia.", "category": "religious", "coords": [-48.279547, -18.915167]}], "hu": [{"name": "Museu Municipal de Uberlândia", "text": "Az Uberlândia Városi Múzeum a város történelmi örökségét őrzi és mutatja be.", "category": "museum", "coords": [-48.281614, -18.923289]}, {"name": "Ágora Pública da Praça Olivia Calábria", "text": "A Praça Olivia Calábria közösségi tere szabadtéri színházként működik Uberlândiában.", "category": "cultural", "coords": [-48.290716, -18.928734]}, {"name": "Museu Dica - Laboratório de Projetos", "text": "A Museu Dica egy specializált múzeum és projektlaboratórium Uberlândiában.", "category": "museum", "coords": [-48.254921, -18.918317]}, {"name": "Museu Mineral Da UFU", "text": "Az UFU Ásványmúzeuma hatalmas geológiai gyűjteményt mutat be Uberlândiában.", "category": "museum", "coords": [-48.26004, -18.919986]}, {"name": "Prainha do Praia Clube", "text": "A Prainha do Praia Clube egy hangulatos, helyi partszakasz Uberlândia városában. Ez a hely egy népszerű találkozóhely a meleg idő élvezetére és a mindennapi életből való kiszakadásra. A látogatók hívogató környezetet találnak itt a kellemes vízparti órákhoz vagy egy pihentető sétához. Különösen a napsütéses délutánokon bontakozik ki a környék teljes vonzereje a pihenni vágyók számára.", "category": "recreational", "coords": [-48.292675, -18.934173]}, {"name": "Teatro Público da Praça", "text": "A Teatro Público da Praça egy színház, amely Uberlândia kulturális életét szolgálja.", "category": "cultural", "coords": [-48.284983, -18.923714]}, {"name": "Palco da Sérgio Pacheco", "text": "A Palco da Sérgio Pacheco egy színházi játszóhely Uberlândia városában.", "category": "cultural", "coords": [-48.276334, -18.911898]}, {"name": "Mercado Municipal de Uberlândia", "text": "A Mercado Municipal de Uberlândia egy történelmi nyilvános piac, amely regionális termékeiről ismert.", "category": "landmark", "coords": [-48.281884, -18.918361]}, {"name": "Memorial à Zumbi dos Palmares", "text": "A Memorial à Zumbi dos Palmares egy köztéri emlékmű Uberlândia városában.", "category": "historical", "coords": [-48.279156, -18.923419]}, {"name": "Galeria Online de Artes - GOnA", "text": "A Galeria Online de Artes - GOnA egy vizuális művészeteket bemutató galéria Uberlândia városában.", "category": "museum", "coords": [-48.258505, -18.917789]}, {"name": "Monumento Nossa Senhora Do Carmo", "text": "A Monumento Nossa Senhora Do Carmo egy emlékmű Uberlândia városában.", "category": "historical", "coords": [-48.275458, -18.934239]}, {"name": "Conservatório", "text": "A Conservatório egy művészeti központ Uberlândia városában.", "category": "cultural", "coords": [-48.263669, -18.899746]}, {"name": "Trupe de Truões", "text": "A Trupe de Truões egy művészeti központ Uberlândia városában.", "category": "cultural", "coords": [-48.25148, -18.919434]}, {"name": "Hospital Orthomed Center", "text": "A Hospital Orthomed Center egy helyi érdekeltségű pont Uberlândia városában.", "category": "landmark", "coords": [-48.286967, -18.930679]}, {"name": "Prefeitura de Uberlândia", "text": "A Prefeitura de Uberlândia a város polgármesteri hivatala és közigazgatási központja.", "category": "historical", "coords": [-48.256326, -18.911984]}, {"name": "Igreja Adventista Do Sétimo Dia", "text": "Az Igreja Adventista Do Sétimo Dia egy helyi istentiszteleti hely Uberlândia városában.", "category": "religious", "coords": [-48.279547, -18.915167]}], "ro": [{"name": "Museu Municipal de Uberlândia", "text": "Muzeul Municipal din Uberlândia păstrează și expune patrimoniul istoric al orașului.", "category": "museum", "coords": [-48.281614, -18.923289]}, {"name": "Ágora Pública da Praça Olivia Calábria", "text": "Ágora Pública da Praça Olivia Calábria funcționează ca un spațiu de teatru în aer liber în Uberlândia.", "category": "cultural", "coords": [-48.290716, -18.928734]}, {"name": "Museu Dica - Laboratório de Projetos", "text": "Museu Dica - Laboratório de Projetos este un muzeu specializat și laborator de proiecte în Uberlândia.", "category": "museum", "coords": [-48.254921, -18.918317]}, {"name": "Museu Mineral Da UFU", "text": "Muzeul de Minerale al UFU expune o vastă colecție de specimene geologice în Uberlândia.", "category": "museum", "coords": [-48.26004, -18.919986]}, {"name": "Prainha do Praia Clube", "text": "Prainha do Praia Clube este o porțiune de plajă locală, plină de farmec, în orașul Uberlândia. Acest loc este un punct de întâlnire popular pentru a vă bucura de vremea caldă și a lua o pauză de la viața de zi cu zi. Vizitatorii găsesc aici un mediu primitor pentru ore confortabile petrecute la malul apei sau pentru o plimbare relaxantă. Mai ales în după-amiezile însorite, zona își dezvăluie tot farmecul pentru cei care caută recreere.", "category": "recreational", "coords": [-48.292675, -18.934173]}, {"name": "Teatro Público da Praça", "text": "Teatro Público da Praça este un teatru care deservește scena culturală din Uberlândia.", "category": "cultural", "coords": [-48.284983, -18.923714]}, {"name": "Palco da Sérgio Pacheco", "text": "Palco da Sérgio Pacheco este un spațiu teatral situat în Uberlândia.", "category": "cultural", "coords": [-48.276334, -18.911898]}, {"name": "Mercado Municipal de Uberlândia", "text": "Mercado Municipal de Uberlândia este o piață publică istorică cunoscută pentru produsele sale regionale.", "category": "landmark", "coords": [-48.281884, -18.918361]}, {"name": "Memorial à Zumbi dos Palmares", "text": "Memorial à Zumbi dos Palmares este un monument public situat în Uberlândia.", "category": "historical", "coords": [-48.279156, -18.923419]}, {"name": "Galeria Online de Artes - GOnA", "text": "Galeria Online de Artes - GOnA este o galerie de arte vizuale situată în Uberlândia.", "category": "museum", "coords": [-48.258505, -18.917789]}, {"name": "Monumento Nossa Senhora Do Carmo", "text": "Monumento Nossa Senhora Do Carmo este un monument situat în Uberlândia.", "category": "historical", "coords": [-48.275458, -18.934239]}, {"name": "Conservatório", "text": "Conservatório este un centru de artă din Uberlândia.", "category": "cultural", "coords": [-48.263669, -18.899746]}, {"name": "Trupe de Truões", "text": "Trupe de Truões este un centru de artă situat în Uberlândia.", "category": "cultural", "coords": [-48.25148, -18.919434]}, {"name": "Hospital Orthomed Center", "text": "Hospital Orthomed Center este o atracție locală situată în Uberlândia.", "category": "landmark", "coords": [-48.286967, -18.930679]}, {"name": "Prefeitura de Uberlândia", "text": "Prefeitura de Uberlândia este primăria și sediul administrativ al municipalității Uberlândia.", "category": "historical", "coords": [-48.256326, -18.911984]}, {"name": "Igreja Adventista Do Sétimo Dia", "text": "Igreja Adventista Do Sétimo Dia este un lăcaș de cult local situat în Uberlândia.", "category": "religious", "coords": [-48.279547, -18.915167]}], "en": [{"name": "Museu Municipal de Uberlândia", "text": "The Municipal Museum of Uberlândia preserves and exhibits the historical heritage of the city.", "category": "museum", "coords": [-48.281614, -18.923289]}, {"name": "Ágora Pública da Praça Olivia Calábria", "text": "The Ágora Pública da Praça Olivia Calábria functions as an open-air theatre space in Uberlândia.", "category": "cultural", "coords": [-48.290716, -18.928734]}, {"name": "Museu Dica - Laboratório de Projetos", "text": "Museu Dica - Laboratório de Projetos is a specialized museum and project laboratory in Uberlândia.", "category": "museum", "coords": [-48.254921, -18.918317]}, {"name": "Museu Mineral Da UFU", "text": "The Mineral Museum of the UFU displays a vast collection of geological specimens in Uberlândia.", "category": "museum", "coords": [-48.26004, -18.919986]}, {"name": "Prainha do Praia Clube", "text": "Prainha do Praia Clube is a charming local beach spot located in the city of Uberlândia. This destination is a popular meeting point for enjoying the warm weather and taking a break from everyday routines. Visitors will find an inviting environment for spending cozy hours by the water or taking a relaxing walk. Especially on sunny afternoons, the area reveals its full appeal to those seeking recreation.", "category": "recreational", "coords": [-48.292675, -18.934173]}, {"name": "Teatro Público da Praça", "text": "Teatro Público da Praça is a theatre serving the cultural scene of Uberlândia.", "category": "cultural", "coords": [-48.284983, -18.923714]}, {"name": "Palco da Sérgio Pacheco", "text": "Palco da Sérgio Pacheco is a theatre venue located in Uberlândia.", "category": "cultural", "coords": [-48.276334, -18.911898]}, {"name": "Mercado Municipal de Uberlândia", "text": "Mercado Municipal de Uberlândia is a historic public market known for its regional products.", "category": "landmark", "coords": [-48.281884, -18.918361]}, {"name": "Memorial à Zumbi dos Palmares", "text": "Memorial à Zumbi dos Palmares is a public monument situated in Uberlândia.", "category": "historical", "coords": [-48.279156, -18.923419]}, {"name": "Galeria Online de Artes - GOnA", "text": "Galeria Online de Artes - GOnA is a gallery presenting visual arts in Uberlândia.", "category": "museum", "coords": [-48.258505, -18.917789]}, {"name": "Monumento Nossa Senhora Do Carmo", "text": "Monumento Nossa Senhora Do Carmo is a monument located in Uberlândia.", "category": "historical", "coords": [-48.275458, -18.934239]}, {"name": "Conservatório", "text": "Conservatório is an arts centre situated in Uberlândia.", "category": "cultural", "coords": [-48.263669, -18.899746]}, {"name": "Trupe de Truões", "text": "Trupe de Truões is an arts centre located in Uberlândia.", "category": "cultural", "coords": [-48.25148, -18.919434]}, {"name": "Hospital Orthomed Center", "text": "Hospital Orthomed Center is a local attraction situated in Uberlândia.", "category": "landmark", "coords": [-48.286967, -18.930679]}, {"name": "Prefeitura de Uberlândia", "text": "Prefeitura de Uberlândia is the town hall and administrative headquarters for the municipality of Uberlândia.", "category": "historical", "coords": [-48.256326, -18.911984]}, {"name": "Igreja Adventista Do Sétimo Dia", "text": "Igreja Adventista Do Sétimo Dia is a local place of worship located in Uberlândia.", "category": "religious", "coords": [-48.279547, -18.915167]}]},
+    id: "uberlandia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "Das städtische Museum von Uberlândia bewahrt und stellt das historische Erbe der Stadt aus.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "Die Ágora Pública da Praça Olivia Calábria fungiert als Freilufttheater in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "Ein Museum und Projektlabor in einem renovierten Lagerhaus in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "Das Mineralienmuseum der UFU zeigt eine umfangreiche Sammlung geologischer Proben in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "Die Prainha do Praia Clube ist ein charmanter, lokaler Strandabschnitt in der Stadt Uberlândia. Dieser Ort ist ein beliebter Treffpunkt, um das warme Wetter zu genießen und eine Auszeit vom Alltag zu nehmen. Besucher finden hier ein einladendes Ambiente für gemütliche Stunden am Wasser oder einen entspannten Spaziergang. Gerade an sonnigen Nachmittagen entfaltet die Gegend ihren ganzen Reiz für Erholungsuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "Ein Open-Air-Theater auf dem Hauptplatz von Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "Eine nach Sérgio Pacheco benannte Bühne auf dem zentralen Platz von Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "Der Mercado Municipal de Uberlândia ist ein historischer öffentlicher Markt, der für seine regionalen Produkte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "Ein Denkmal für Zumbi dos Palmares in einem Park in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "Eine digitale Plattform für zeitgenössische Kunst aus Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "Ein steinernes Monument Unserer Lieben Frau vom Karmel an einem Kirchenplatz in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "Ein Musik- und Darstellendes-Kunst-Konservatorium in einem historischen Gebäude in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "Ein Kulturort für die Theatergruppe Trupe de Truões in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "Ein bekanntes privates Krankenhaus mit moderner Fassade in Uberlândia.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "Das Rathaus von Uberlândia (Prefeitura) ist ein modernistischer Bau im Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten in Uberlândia.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "Az Uberlândia Városi Múzeum a város történelmi örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "A Praça Olivia Calábria közösségi tere szabadtéri színházként működik Uberlândiában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "Egy múzeum és projektlabor egy felújított raktárépületben Uberlândiában.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "Az UFU Ásványmúzeuma hatalmas geológiai gyűjteményt mutat be Uberlândiában.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "A Prainha do Praia Clube egy hangulatos, helyi partszakasz Uberlândia városában. Ez a hely egy népszerű találkozóhely a meleg idő élvezetére és a mindennapi életből való kiszakadásra. A látogatók hívogató környezetet találnak itt a kellemes vízparti órákhoz vagy egy pihentető sétához. Különösen a napsütéses délutánokon bontakozik ki a környék teljes vonzereje a pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "Egy szabadtéri színház Uberlândia főterén.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "Egy Sérgio Pachecoról elnevezett színpad Uberlândia központi terén.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "A Mercado Municipal de Uberlândia egy történelmi nyilvános piac, amely regionális termékeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "Zumbi dos Palmares-emlékmű egy parkban Uberlândiában.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "Egy digitális galéria, amely helyi művészek munkáit mutatja be Uberlândiából.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "Egy kőből készült Kármelhegyi Boldogasszony-emlékmű egy templomtéren Uberlândiában.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "Egy zenei és előadóművészeti konzervatórium egy történelmi épületben Uberlândiában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "Egy kulturális helyszín a Trupe de Truões színházi társulat számára Uberlândiában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "Egy jól ismert magánkórház modern homlokzattal Uberlândiában.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "Az Uberlândiai városháza egy modernista épület a városközpontban.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "Hetednapi Adventista templom Uberlândiában.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "Muzeul Municipal din Uberlândia păstrează și expune patrimoniul istoric al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "Ágora Pública da Praça Olivia Calábria funcționează ca un spațiu de teatru în aer liber în Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "Un muzeu și laborator de proiecte într-un depozit renovat din Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "Muzeul de Minerale al UFU expune o vastă colecție de specimene geologice în Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "Prainha do Praia Clube este o porțiune de plajă locală, plină de farmec, în orașul Uberlândia. Acest loc este un punct de întâlnire popular pentru a vă bucura de vremea caldă și a lua o pauză de la viața de zi cu zi. Vizitatorii găsesc aici un mediu primitor pentru ore confortabile petrecute la malul apei sau pentru o plimbare relaxantă. Mai ales în după-amiezile însorite, zona își dezvăluie tot farmecul pentru cei care caută recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "Un teatru în aer liber în piața principală din Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "O scenă numită după Sérgio Pacheco în piața centrală din Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "Mercado Municipal de Uberlândia este o piață publică istorică cunoscută pentru produsele sale regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "Un memorial pentru Zumbi dos Palmares într-un parc din Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "O galerie online de artă care expune lucrări ale artiștilor locali din Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "Un monument din piatră al Maicii Domnului din Carmel în piața unei biserici din Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "Un conservator de muzică și arte spectacolului într-o clădire istorică din Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "Un spațiu cultural pentru trupa de teatru Trupe de Truões din Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "Un spital privat binecunoscut cu fațadă modernă în Uberlândia.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "Primăria din Uberlândia este o clădire modernistă în centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "O biserică adventistă de ziua a șaptea în Uberlândia.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "The Municipal Museum of Uberlândia preserves and exhibits the historical heritage of the city.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "The Ágora Pública da Praça Olivia Calábria functions as an open-air theatre space in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "A museum and project laboratory in a renovated warehouse in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "The Mineral Museum of the UFU displays a vast collection of geological specimens in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "Prainha do Praia Clube is a charming local beach spot located in the city of Uberlândia. This destination is a popular meeting point for enjoying the warm weather and taking a break from everyday routines. Visitors will find an inviting environment for spending cozy hours by the water or taking a relaxing walk. Especially on sunny afternoons, the area reveals its full appeal to those seeking recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "An open-air public theater at the main square of Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "A performance stage named after Sérgio Pacheco in Uberlândia's central plaza.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "Mercado Municipal de Uberlândia is a historic public market known for its regional products.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "A memorial statue of Zumbi dos Palmares in a park in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "An online art gallery showcasing works by local artists from Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "A stone monument of Our Lady of Mount Carmel at a church square in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "A music and performing arts conservatory in a historic building in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "A cultural venue for the Trupe de Truões theater group in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "A well-known private hospital building with a modern façade in Uberlândia.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "The Uberlândia City Hall is a modernist building in the city center.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "A Seventh-day Adventist church in Uberlândia.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-MG",
     coords: [-48.2772, -18.9186],
@@ -4028,7 +4766,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cristo Redentor",
-                  "text": "Der Mini-Christus-Erlöser ist eine bekannte Statue in Sorocaba.",
+                  "text": "Eine kleinere Nachbildung der Christus-Erlöser-Statue von Rio auf einem Hügel in Sorocaba.",
                   "category": "historical",
                   "coords": [
                         -47.443104,
@@ -4046,7 +4784,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Aranha do Vergueiro",
-                  "text": "Die Aranha do Vergueiro ist eine markante Attraktion in Sorocaba.",
+                  "text": "Eine riesige metallene Spinnenskulptur an der Kreuzung Vergueiro in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.459516,
@@ -4055,7 +4793,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Usina Cultural Ettore Marangoni",
-                  "text": "Die Usina Cultural Ettore Marangoni ist ein Zentrum für Kultur in Sorocaba.",
+                  "text": "Ein Kulturzentrum in einer ehemaligen Industriemühle, benannt nach Ettore Marangoni in Sorocaba.",
                   "category": "cultural",
                   "coords": [
                         -47.450015,
@@ -4064,7 +4802,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Nippon Soracaba",
-                  "text": "Nippon Soracaba ist ein kulturelles Zentrum in Sorocaba.",
+                  "text": "Ein japanisches Kulturzentrum mit traditionellem Garten in Sorocaba.",
                   "category": "cultural",
                   "coords": [
                         -47.464809,
@@ -4073,7 +4811,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sorocaba",
-                  "text": "Die Kathedrale von Sorocaba ist eine bedeutende Kirche in Sorocaba.",
+                  "text": "Die Kathedrale von Sorocaba, Sitz des Bistums.",
                   "category": "religious",
                   "coords": [
                         -47.458563,
@@ -4082,7 +4820,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal de Sorocaba",
-                  "text": "Der städtische Markt von Sorocaba ist ein historisches Gebäude.",
+                  "text": "Erbaut 1938, geschütztes Kulturerbe (Klasse 8) in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.460358,
@@ -4091,7 +4829,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Benedito Paes de Almeida",
-                  "text": "Die Praça Benedito Paes de Almeida ist ein öffentlicher Platz in Sorocaba.",
+                  "text": "Ein nach dem Lokalpolitiker Benedito Paes de Almeida benannter Platz im Wohnviertel von Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.459216,
@@ -4100,7 +4838,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Sha'ar Haneguev",
-                  "text": "Die Praça Sha'ar Haneguev ist ein Freizeitareal in Sorocaba.",
+                  "text": "Ein Platz mit einem jüdischen Gedenkgarten namens Sha'ar Haneguev in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.466191,
@@ -4109,7 +4847,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Jorge Luís Prestes Del Cístia",
-                  "text": "Ein Platz in Sorocaba.",
+                  "text": "Ein nach Jorge Luís Prestes Del Cístia benannter Platz im nördlichen Bezirk von Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.479897,
@@ -4118,7 +4856,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Winston Churchill",
-                  "text": "Ein Platz in Sorocaba.",
+                  "text": "Ein nach Winston Churchill benannter Platz mit einer Büste in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.467056,
@@ -4174,7 +4912,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cristo Redentor",
-                  "text": "A Mini Krisztus Megváltó egy ismert szobor Sorocabában.",
+                  "text": "A Rio de Janeiro-i Megváltó Krisztus-szobor kisebb mása egy dombtetőn Sorocabában.",
                   "category": "historical",
                   "coords": [
                         -47.443104,
@@ -4192,7 +4930,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Aranha do Vergueiro",
-                  "text": "Az Aranha do Vergueiro egy jellegzetes látnivaló Sorocabában.",
+                  "text": "Egy hatalmas fém pókszobor a Vergueiro kereszteződésben Sorocabában.",
                   "category": "landmark",
                   "coords": [
                         -47.459516,
@@ -4201,7 +4939,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Usina Cultural Ettore Marangoni",
-                  "text": "Az Usina Cultural Ettore Marangoni egy kulturális központ Sorocabában.",
+                  "text": "Egy egykori ipari malomban kialakított kulturális központ, Ettore Marangoniról elnevezve Sorocabában.",
                   "category": "cultural",
                   "coords": [
                         -47.450015,
@@ -4210,7 +4948,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Nippon Soracaba",
-                  "text": "A Nippon Soracaba egy kulturális központ Sorocabában.",
+                  "text": "Egy japán kulturális központ hagyományos kerttel Sorocabában.",
                   "category": "cultural",
                   "coords": [
                         -47.464809,
@@ -4219,7 +4957,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sorocaba",
-                  "text": "A Sorocabai székesegyház egy jelentős templom Sorocabában.",
+                  "text": "A Sorocabai főszékesegyház, az egyházmegye székhelye.",
                   "category": "religious",
                   "coords": [
                         -47.458563,
@@ -4228,7 +4966,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal de Sorocaba",
-                  "text": "A Sorocabai Városi Piac egy történelmi épület.",
+                  "text": "1938-ban épült, védett örökségi helyszín (8. osztály) Sorocabában.",
                   "category": "landmark",
                   "coords": [
                         -47.460358,
@@ -4237,7 +4975,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Benedito Paes de Almeida",
-                  "text": "A Praça Benedito Paes de Almeida egy közterület Sorocabában.",
+                  "text": "Egy Benedito Paes de Almeida helyi politikusról elnevezett tér Sorocaba lakónegyedében.",
                   "category": "landmark",
                   "coords": [
                         -47.459216,
@@ -4246,7 +4984,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Sha'ar Haneguev",
-                  "text": "A Praça Sha'ar Haneguev egy rekreációs terület Sorocabában.",
+                  "text": "Egy Sha'ar Haneguev nevű zsidó emlékkerttel rendelkező tér Sorocabában.",
                   "category": "landmark",
                   "coords": [
                         -47.466191,
@@ -4255,7 +4993,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Jorge Luís Prestes Del Cístia",
-                  "text": "Tér Sorocabában.",
+                  "text": "Egy Jorge Luís Prestes Del Cístiáról elnevezett tér Sorocaba északi kerületében.",
                   "category": "landmark",
                   "coords": [
                         -47.479897,
@@ -4264,7 +5002,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Winston Churchill",
-                  "text": "Tér Sorocabában.",
+                  "text": "Egy Winston Churchillről elnevezett tér mellszoborral Sorocabában.",
                   "category": "landmark",
                   "coords": [
                         -47.467056,
@@ -4320,7 +5058,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cristo Redentor",
-                  "text": "Mini Hristos Mântuitorul este o statuie cunoscută din Sorocaba.",
+                  "text": "O replică mai mică a statuii lui Hristos Mântuitorul din Rio pe un deal în Sorocaba.",
                   "category": "historical",
                   "coords": [
                         -47.443104,
@@ -4338,7 +5076,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Aranha do Vergueiro",
-                  "text": "Aranha do Vergueiro este o atracție distinctivă din Sorocaba.",
+                  "text": "O sculptură gigantică de păianjen din metal la intersecția Vergueiro din Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.459516,
@@ -4347,7 +5085,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Usina Cultural Ettore Marangoni",
-                  "text": "Usina Cultural Ettore Marangoni este un centru cultural din Sorocaba.",
+                  "text": "Un centru cultural într-o fostă moară industrială, numit după Ettore Marangoni în Sorocaba.",
                   "category": "cultural",
                   "coords": [
                         -47.450015,
@@ -4356,7 +5094,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Nippon Soracaba",
-                  "text": "Nippon Soracaba este un centru cultural din Sorocaba.",
+                  "text": "Un centru cultural japonez cu o grădină tradițională în Sorocaba.",
                   "category": "cultural",
                   "coords": [
                         -47.464809,
@@ -4365,7 +5103,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sorocaba",
-                  "text": "Catedrala din Sorocaba este o biserică importantă din Sorocaba.",
+                  "text": "Catedrala mitropolitană din Sorocaba, reședința diecezei.",
                   "category": "religious",
                   "coords": [
                         -47.458563,
@@ -4374,7 +5112,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal de Sorocaba",
-                  "text": "Piața Municipală din Sorocaba este o clădire istorică.",
+                  "text": "Construit în 1938, monument istoric clasă 8 în Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.460358,
@@ -4383,7 +5121,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Benedito Paes de Almeida",
-                  "text": "Praça Benedito Paes de Almeida este o piață publică din Sorocaba.",
+                  "text": "O piață numită după politicianul local Benedito Paes de Almeida în cartierul rezidențial din Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.459216,
@@ -4392,7 +5130,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Sha'ar Haneguev",
-                  "text": "Praça Sha'ar Haneguev este o zonă de recreere din Sorocaba.",
+                  "text": "O piață cu o grădină memorială evreiască numită Sha'ar Haneguev în Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.466191,
@@ -4401,7 +5139,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Jorge Luís Prestes Del Cístia",
-                  "text": "O piață în Sorocaba.",
+                  "text": "O piață numită după Jorge Luís Prestes Del Cístia în districtul nordic din Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.479897,
@@ -4410,7 +5148,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Winston Churchill",
-                  "text": "O piață în Sorocaba.",
+                  "text": "O piață numită după Winston Churchill cu un bust comemorativ în Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.467056,
@@ -4466,7 +5204,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cristo Redentor",
-                  "text": "The Mini Christ the Redeemer is a well-known statue in Sorocaba.",
+                  "text": "A smaller replica of Rio de Janeiro's Christ the Redeemer statue on a hilltop in Sorocaba.",
                   "category": "historical",
                   "coords": [
                         -47.443104,
@@ -4484,7 +5222,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Aranha do Vergueiro",
-                  "text": "The Aranha do Vergueiro is a distinctive attraction in Sorocaba.",
+                  "text": "A giant metallic spider sculpture at the Vergueiro intersection in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.459516,
@@ -4493,7 +5231,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Usina Cultural Ettore Marangoni",
-                  "text": "The Usina Cultural Ettore Marangoni is a center for culture in Sorocaba.",
+                  "text": "A cultural center housed in a former industrial mill named after Ettore Marangoni in Sorocaba.",
                   "category": "cultural",
                   "coords": [
                         -47.450015,
@@ -4502,7 +5240,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Nippon Soracaba",
-                  "text": "Nippon Soracaba is a cultural center in Sorocaba.",
+                  "text": "A Japanese cultural center with a traditional garden in Sorocaba.",
                   "category": "cultural",
                   "coords": [
                         -47.464809,
@@ -4511,7 +5249,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sorocaba",
-                  "text": "The Cathedral of Sorocaba is a significant church in Sorocaba.",
+                  "text": "The metropolitan cathedral of Sorocaba, seat of the diocese.",
                   "category": "religious",
                   "coords": [
                         -47.458563,
@@ -4520,7 +5258,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal de Sorocaba",
-                  "text": "The Municipal Market of Sorocaba is a historic building.",
+                  "text": "Built in 1938, a protected heritage site (class 8) in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.460358,
@@ -4529,7 +5267,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Benedito Paes de Almeida",
-                  "text": "The Praça Benedito Paes de Almeida is a public square in Sorocaba.",
+                  "text": "A public square named after local politician Benedito Paes de Almeida in Sorocaba's residential area.",
                   "category": "landmark",
                   "coords": [
                         -47.459216,
@@ -4538,7 +5276,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Sha'ar Haneguev",
-                  "text": "The Praça Sha'ar Haneguev is a recreational area in Sorocaba.",
+                  "text": "A square with a Jewish memorial garden named Sha'ar Haneguev in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.466191,
@@ -4547,7 +5285,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Jorge Luís Prestes Del Cístia",
-                  "text": "A square in Sorocaba.",
+                  "text": "A square named after Jorge Luís Prestes Del Cístia in the northern district of Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.479897,
@@ -4556,7 +5294,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Winston Churchill",
-                  "text": "A square in Sorocaba.",
+                  "text": "A square named after Winston Churchill with a commemorative bust in Sorocaba.",
                   "category": "landmark",
                   "coords": [
                         -47.467056,
@@ -4603,7 +5341,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Estação Bernardo Monteiro",
-                  "text": "Estação Bernardo Monteiro ist ein Museum in Contagem.",
+                  "text": "Ein ehemaliger Bahnhof, der nach Bernardo Monteiro benannt und in ein Museum umgewandelt wurde, in Contagem.",
                   "category": "museum",
                   "coords": [
                         -44.080179,
@@ -4612,7 +5350,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da Casa Azul",
-                  "text": "Teatro da Casa Azul ist ein Theater in Contagem.",
+                  "text": "Ein Theater im Kulturkomplex Casa Azul in Contagem.",
                   "category": "cultural",
                   "coords": [
                         -44.0832,
@@ -4621,7 +5359,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Clube Arvoredo",
-                  "text": "Clube Arvoredo ist ein Wasserpark in Contagem.",
+                  "text": "Ein Familienfreizeitclub mit großem Garten und Pool in Contagem.",
                   "category": "family",
                   "coords": [
                         -44.085175,
@@ -4630,7 +5368,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Campestre Yucca Clube",
-                  "text": "Campestre Yucca Clube ist ein Wasserpark in Contagem.",
+                  "text": "Ein ländlicher Sportclub mit Tennisplätzen und See in Contagem.",
                   "category": "family",
                   "coords": [
                         -44.082254,
@@ -4641,7 +5379,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Estação Bernardo Monteiro",
-                  "text": "Az Estação Bernardo Monteiro egy múzeum Contagem városában.",
+                  "text": "Egy egykori vasútállomás, amelyet Bernardo Monteiroról neveztek el és múzeummá alakítottak Contagemben.",
                   "category": "museum",
                   "coords": [
                         -44.080179,
@@ -4650,7 +5388,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da Casa Azul",
-                  "text": "A Teatro da Casa Azul egy színház Contagem városában.",
+                  "text": "Egy színház a Casa Azul kulturális komplexumban Contagemben.",
                   "category": "cultural",
                   "coords": [
                         -44.0832,
@@ -4659,7 +5397,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Clube Arvoredo",
-                  "text": "A Clube Arvoredo egy vízi vidámpark Contagem városában.",
+                  "text": "Egy családi szabadidőklub nagy kerttel és medencével Contagemben.",
                   "category": "family",
                   "coords": [
                         -44.085175,
@@ -4668,7 +5406,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Campestre Yucca Clube",
-                  "text": "A Campestre Yucca Clube egy vízi vidámpark Contagem városában.",
+                  "text": "Egy vidéki sportklub teniszpályákkal és tóval Contagemben.",
                   "category": "family",
                   "coords": [
                         -44.082254,
@@ -4679,7 +5417,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Estação Bernardo Monteiro",
-                  "text": "Estação Bernardo Monteiro este un muzeu situat în Contagem.",
+                  "text": "O fostă gară, numită după Bernardo Monteiro, transformată în muzeu în Contagem.",
                   "category": "museum",
                   "coords": [
                         -44.080179,
@@ -4688,7 +5426,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da Casa Azul",
-                  "text": "Teatro da Casa Azul este un teatru situat în Contagem.",
+                  "text": "Un teatru în cadrul complexului cultural Casa Azul din Contagem.",
                   "category": "cultural",
                   "coords": [
                         -44.0832,
@@ -4697,7 +5435,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Clube Arvoredo",
-                  "text": "Clube Arvoredo este un parc acvatic situat în Contagem.",
+                  "text": "Un club de agrement pentru familie cu grădină mare și piscină în Contagem.",
                   "category": "family",
                   "coords": [
                         -44.085175,
@@ -4706,7 +5444,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Campestre Yucca Clube",
-                  "text": "Campestre Yucca Clube este un parc acvatic situat în Contagem.",
+                  "text": "Un club sportiv de țară cu terenuri de tenis și lac în Contagem.",
                   "category": "family",
                   "coords": [
                         -44.082254,
@@ -4717,7 +5455,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Estação Bernardo Monteiro",
-                  "text": "Estação Bernardo Monteiro is a museum located in Contagem.",
+                  "text": "A former train station turned museum, named after Bernardo Monteiro in Contagem.",
                   "category": "museum",
                   "coords": [
                         -44.080179,
@@ -4726,7 +5464,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da Casa Azul",
-                  "text": "Teatro da Casa Azul is a theatre located in Contagem.",
+                  "text": "A theater within the Casa Azul cultural complex in Contagem.",
                   "category": "cultural",
                   "coords": [
                         -44.0832,
@@ -4735,7 +5473,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Clube Arvoredo",
-                  "text": "Clube Arvoredo is a water park located in Contagem.",
+                  "text": "A family leisure club with a large garden and pool in Contagem.",
                   "category": "family",
                   "coords": [
                         -44.085175,
@@ -4744,7 +5482,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Campestre Yucca Clube",
-                  "text": "Campestre Yucca Clube is a water park located in Contagem.",
+                  "text": "A countryside sports club with tennis courts and a lake in Contagem.",
                   "category": "family",
                   "coords": [
                         -44.082254,
@@ -4808,7 +5546,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Margarida Ribeiro",
-                  "text": "Das Teatro Margarida Ribeiro ist ein Theater in Feira de Santana.",
+                  "text": "Ein nach der lokalen Mäzenin Margarida Ribeiro benanntes Theater in Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.947089,
@@ -4826,7 +5564,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Maestro Miro",
-                  "text": "Das Teatro Maestro Miro ist ein kultureller Theaterraum in Feira de Santana.",
+                  "text": "Ein nach dem Dirigenten Maestro Miro benanntes Theater in Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.970646,
@@ -4835,7 +5573,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Público Municipal",
-                  "text": "Das Arquivo Público Municipal ist ein Museum und Archiv in Feira de Santana.",
+                  "text": "Das kommunale öffentliche Archiv in einem historischen Gebäude in Feira de Santana.",
                   "category": "museum",
                   "coords": [
                         -38.965558,
@@ -4844,7 +5582,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
-                  "text": "Das Museu de Arte Contemporânea Raimundo de Oliveira ist ein Museum für zeitgenössische Kunst in Feira de Santana.",
+                  "text": "Ein nach dem Maler Raimundo de Oliveira benanntes Museum für zeitgenössische Kunst in Feira de Santana.",
                   "category": "museum",
                   "coords": [
                         -38.961507,
@@ -4853,7 +5591,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Caminhoneiro",
-                  "text": "Das Monumento ao Caminhoneiro ist ein Denkmal in Feira de Santana.",
+                  "text": "Eine Bronzestatue eines Lastwagenfahrers an der Autobahneinfahrt nach Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.964313,
@@ -4862,7 +5600,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Maria Quitéria",
-                  "text": "Das Monumento a Maria Quitéria ist ein öffentliches Denkmal in Feira de Santana.",
+                  "text": "Eine Statue der brasilianischen Heldin Maria Quitéria auf einem öffentlichen Platz in Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.954655,
@@ -4871,7 +5609,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Tropeiro",
-                  "text": "Das Monumento ao Tropeiro ist ein Denkmal in Feira de Santana.",
+                  "text": "Ein Denkmal für die Tropeiros (Maultiertreiber) am zentralen Markt in Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.969679,
@@ -4889,7 +5627,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Amélio Amorim",
-                  "text": "Das Centro de Cultura Amélio Amorim ist ein Kultur- und Kunstzentrum in Feira de Santana.",
+                  "text": "Ein nach der Künstlerin Amélio Amorim benanntes Kulturzentrum in Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.945072,
@@ -4898,7 +5636,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sant'Ana",
-                  "text": "Die Catedral Metropolitana de Sant'Ana ist die wichtigste katholische Kathedrale in Feira de Santana.",
+                  "text": "Die Catedral Metropolitana de Sant'Ana ist eine Kathedrale in Santana, der heiligen Anna geweiht.",
                   "category": "religious",
                   "coords": [
                         -38.96836,
@@ -4918,7 +5656,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Margarida Ribeiro",
-                  "text": "A Teatro Margarida Ribeiro egy színház Feira de Santana városában.",
+                  "text": "Egy Margarida Ribeiro helyi mecénásról elnevezett színház Feira de Santanában.",
                   "category": "cultural",
                   "coords": [
                         -38.947089,
@@ -4936,7 +5674,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Maestro Miro",
-                  "text": "A Teatro Maestro Miro egy színházi tér Feira de Santana városában.",
+                  "text": "Egy Maestro Miro karmesterről elnevezett színház Feira de Santanában.",
                   "category": "cultural",
                   "coords": [
                         -38.970646,
@@ -4945,7 +5683,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Público Municipal",
-                  "text": "Az Arquivo Público Municipal egy múzeumként és levéltárként működő intézmény Feira de Santana városában.",
+                  "text": "A városi közlevéltár egy történelmi épületben Feira de Santanában.",
                   "category": "museum",
                   "coords": [
                         -38.965558,
@@ -4954,7 +5692,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
-                  "text": "A Museu de Arte Contemporânea Raimundo de Oliveira egy kortárs művészeti múzeum Feira de Santana városában.",
+                  "text": "Egy Raimundo de Oliveira festőről elnevezett kortárs művészeti múzeum Feira de Santanában.",
                   "category": "museum",
                   "coords": [
                         -38.961507,
@@ -4963,7 +5701,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Caminhoneiro",
-                  "text": "A Monumento ao Caminhoneiro egy emlékmű Feira de Santana városában.",
+                  "text": "Egy teherautó-sofőr bronzszobra a Feira de Santana-i autópálya bejáratánál.",
                   "category": "historical",
                   "coords": [
                         -38.964313,
@@ -4972,7 +5710,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Maria Quitéria",
-                  "text": "A Monumento a Maria Quitéria egy köztéri emlékmű Feira de Santana városában.",
+                  "text": "Maria Quitéria brazil hősnő szobra egy közterén Feira de Santanában.",
                   "category": "historical",
                   "coords": [
                         -38.954655,
@@ -4981,7 +5719,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Tropeiro",
-                  "text": "A Monumento ao Tropeiro egy emlékmű Feira de Santana városában.",
+                  "text": "Egy emlékmű a tropeiróknak (öszvérhajcsároknak) a központi piacon Feira de Santanában.",
                   "category": "historical",
                   "coords": [
                         -38.969679,
@@ -4999,7 +5737,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Amélio Amorim",
-                  "text": "A Centro de Cultura Amélio Amorim egy művészeti központ Feira de Santana városában.",
+                  "text": "Egy Amélio Amorim művészről elnevezett kulturális központ Feira de Santanában.",
                   "category": "cultural",
                   "coords": [
                         -38.945072,
@@ -5008,7 +5746,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sant'Ana",
-                  "text": "A Catedral Metropolitana de Sant'Ana a legfőbb katolikus katedrális Feira de Santana városában.",
+                  "text": "A Catedral Metropolitana de Sant'Ana egy székesegyház Santanában, Szent Annának szentelve.",
                   "category": "religious",
                   "coords": [
                         -38.96836,
@@ -5028,7 +5766,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Margarida Ribeiro",
-                  "text": "Teatro Margarida Ribeiro este un teatru situat în Feira de Santana.",
+                  "text": "Un teatru numit după patroana locală Margarida Ribeiro în Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.947089,
@@ -5046,7 +5784,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Maestro Miro",
-                  "text": "Teatro Maestro Miro este un spațiu teatral situat în Feira de Santana.",
+                  "text": "Un teatru numit după dirijorul Maestro Miro în Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.970646,
@@ -5055,7 +5793,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Público Municipal",
-                  "text": "Arquivo Público Municipal este un muzeu și arhivă publică în Feira de Santana.",
+                  "text": "Arhiva publică municipală într-o clădire istorică din Feira de Santana.",
                   "category": "museum",
                   "coords": [
                         -38.965558,
@@ -5064,7 +5802,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
-                  "text": "Museu de Arte Contemporânea Raimundo de Oliveira este un muzeu de artă contemporană situat în Feira de Santana.",
+                  "text": "Un muzeu de artă contemporană numit după pictorul Raimundo de Oliveira în Feira de Santana.",
                   "category": "museum",
                   "coords": [
                         -38.961507,
@@ -5073,7 +5811,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Caminhoneiro",
-                  "text": "Monumento ao Caminhoneiro este un monument situat în Feira de Santana.",
+                  "text": "O statuie de bronz a unui șofer de camion la intrarea pe autostradă în Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.964313,
@@ -5082,7 +5820,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Maria Quitéria",
-                  "text": "Monumento a Maria Quitéria este un monument public situat în Feira de Santana.",
+                  "text": "O statuie a eroinei braziliene Maria Quitéria într-o piață publică din Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.954655,
@@ -5091,7 +5829,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Tropeiro",
-                  "text": "Monumento ao Tropeiro este un monument situat în Feira de Santana.",
+                  "text": "Un monument al tropeiros (căruțași cu catâri) la piața centrală din Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.969679,
@@ -5109,7 +5847,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Amélio Amorim",
-                  "text": "Centro de Cultura Amélio Amorim este un centru de artă situat în Feira de Santana.",
+                  "text": "Un centru cultural numit după artistul Amélio Amorim în Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.945072,
@@ -5118,7 +5856,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sant'Ana",
-                  "text": "Catedral Metropolitana de Sant'Ana este principala catedrală catolică din Feira de Santana.",
+                  "text": "Catedrala Mitropolitană Sant'Ana este o catedrală din Santana, dedicată Sfintei Ana.",
                   "category": "religious",
                   "coords": [
                         -38.96836,
@@ -5138,7 +5876,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Margarida Ribeiro",
-                  "text": "Teatro Margarida Ribeiro is a theatre located in Feira de Santana.",
+                  "text": "A theater named after local patron Margarida Ribeiro in Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.947089,
@@ -5156,7 +5894,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Maestro Miro",
-                  "text": "Teatro Maestro Miro is a cultural theatre space located in Feira de Santana.",
+                  "text": "A theater named after conductor Maestro Miro in Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.970646,
@@ -5165,7 +5903,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Público Municipal",
-                  "text": "Arquivo Público Municipal is a museum and public archive in Feira de Santana.",
+                  "text": "The municipal public archive housed in a historic building in Feira de Santana.",
                   "category": "museum",
                   "coords": [
                         -38.965558,
@@ -5174,7 +5912,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
-                  "text": "Museu de Arte Contemporânea Raimundo de Oliveira is a contemporary art museum in Feira de Santana.",
+                  "text": "A contemporary art museum named after painter Raimundo de Oliveira in Feira de Santana.",
                   "category": "museum",
                   "coords": [
                         -38.961507,
@@ -5183,7 +5921,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Caminhoneiro",
-                  "text": "Monumento ao Caminhoneiro is a monument located in Feira de Santana.",
+                  "text": "A bronze statue of a truck driver at the highway entrance to Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.964313,
@@ -5192,7 +5930,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Maria Quitéria",
-                  "text": "Monumento a Maria Quitéria is a public monument located in Feira de Santana.",
+                  "text": "A statue of Brazilian heroine Maria Quitéria in a public square in Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.954655,
@@ -5201,7 +5939,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Tropeiro",
-                  "text": "Monumento ao Tropeiro is a monument located in Feira de Santana.",
+                  "text": "A monument to the muleteers (troperos) at the central market in Feira de Santana.",
                   "category": "historical",
                   "coords": [
                         -38.969679,
@@ -5219,7 +5957,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Amélio Amorim",
-                  "text": "Centro de Cultura Amélio Amorim is an arts centre located in Feira de Santana.",
+                  "text": "A cultural center named after artist Amélio Amorim in Feira de Santana.",
                   "category": "cultural",
                   "coords": [
                         -38.945072,
@@ -5228,7 +5966,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral Metropolitana de Sant'Ana",
-                  "text": "Catedral Metropolitana de Sant'Ana is the main Catholic cathedral in Feira de Santana.",
+                  "text": "The Catedral Metropolitana de Sant'Ana is a cathedral in Santana dedicated to Saint Anne.",
                   "category": "religious",
                   "coords": [
                         -38.96836,
@@ -5301,7 +6039,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museu da Bicicleta de Joinville",
-                  "text": "Museum in Joinville, das der Geschichte des Fahrrads gewidmet ist.",
+                  "text": "Das Museu da Bicicleta de Joinville zeigt über 300 Fahrradmodelle.",
                   "category": "museum",
                   "coords": [
                         -48.845464,
@@ -5328,7 +6066,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Arqueológico de Sambaqui de Joinville",
-                  "text": "Archäologisches Museum in Joinville.",
+                  "text": "Archäologisches Museum der Sambaqui von Joinville, das Muschelhügel-Funde zeigt.",
                   "category": "museum",
                   "coords": [
                         -48.842911,
@@ -5337,7 +6075,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Juarez Machado",
-                  "text": "Theater in Joinville.",
+                  "text": "Ein nach dem Maler Juarez Machado benanntes Theater im Kulturviertel von Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.843762,
@@ -5346,7 +6084,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESC",
-                  "text": "Theater des SESC in Joinville.",
+                  "text": "Ein von SESC betriebenes Theater im Geschäftszentrum von Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.843715,
@@ -5355,7 +6093,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sambaqui",
-                  "text": "Archäologische Stätte in Joinville.",
+                  "text": "Eine prähistorische Muschelhügel-Stätte am Ufer des Cachoeira-Flusses in Joinville.",
                   "category": "historical",
                   "coords": [
                         -48.827765,
@@ -5364,7 +6102,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da AJOTE",
-                  "text": "Theater in Joinville.",
+                  "text": "Kleinere Bühne im Zentrum von Joinville, die lokale Theaterstücke und Kulturveranstaltungen zeigt.",
                   "category": "cultural",
                   "coords": [
                         -48.855729,
@@ -5373,7 +6111,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Zoobotânico de Joinville",
-                  "text": "Zoo in Joinville.",
+                  "text": "Park mit Zoo und botanischem Garten, der die Flora und Fauna des Atlantischen Regenwaldes zeigt.",
                   "category": "family",
                   "coords": [
                         -48.835214,
@@ -5382,7 +6120,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Complexo Estação da Memória",
-                  "text": "Kulturelle Attraktion in Joinville.",
+                  "text": "Ehemaliger Bahnhof, der zu einem kulturellen Erinnerungskomplex in Joinville umgebaut wurde.",
                   "category": "landmark",
                   "coords": [
                         -48.848791,
@@ -5391,7 +6129,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante Higino Aguiar",
-                  "text": "Aussichtspunkt in Joinville.",
+                  "text": "Aussichtspunkt auf einem Hügel mit Panoramablick auf Joinville und die Serra do Mar.",
                   "category": "natural",
                   "coords": [
                         -48.827012,
@@ -5400,7 +6138,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento à Barca",
-                  "text": "Denkmal in Joinville.",
+                  "text": "Denkmal, das an die Ankunft der ersten Einwanderer mit dem Boot in Joinville erinnert.",
                   "category": "historical",
                   "coords": [
                         -48.841425,
@@ -5409,7 +6147,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Janela para a Cidade",
-                  "text": "Aussichtspunkt in Joinville.",
+                  "text": "Natürlicher Aussichtspunkt in Form eines Fensters mit Blick auf die Stadt Joinville.",
                   "category": "natural",
                   "coords": [
                         -48.828309,
@@ -5418,7 +6156,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fundadores de Joinville",
-                  "text": "Denkmal für die Gründer von Joinville.",
+                  "text": "Denkmal zu Ehren der Gründer von Joinville, gelegen auf einem zentralen Platz.",
                   "category": "historical",
                   "coords": [
                         -48.843928,
@@ -5427,7 +6165,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Galeria de Arte Victor Kursancew",
-                  "text": "Kunstgalerie in Joinville.",
+                  "text": "Kunstgalerie, benannt nach Victor Kursancew, mit zeitgenössischen Werken in Joinville.",
                   "category": "museum",
                   "coords": [
                         -48.841667,
@@ -5436,7 +6174,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte de Joinville",
-                  "text": "Kunstmuseum in Joinville.",
+                  "text": "Hauptkunstmuseum von Joinville, untergebracht in einem historischen Gebäude.",
                   "category": "museum",
                   "coords": [
                         -48.855863,
@@ -5445,7 +6183,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cemitério dos Imigrantes",
-                  "text": "Historischer Friedhof in Joinville.",
+                  "text": "Historischer Friedhof in Joinville, auf dem frühe Einwanderer bestattet wurden.",
                   "category": "landmark",
                   "coords": [
                         -48.851883,
@@ -5454,7 +6192,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura e Serviços Anita Garibaldi",
-                  "text": "Kultur- und Servicezentrum in Joinville.",
+                  "text": "Kulturzentrum benannt nach Anita Garibaldi, das Veranstaltungen und Dienste in Joinville anbietet.",
                   "category": "cultural",
                   "coords": [
                         -48.846178,
@@ -5463,7 +6201,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Juarez Machado",
-                  "text": "Kunstinstitut und Galerie in Joinville.",
+                  "text": "Museum, das den Werken des Künstlers Juarez Machado in Joinville gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -48.853533,
@@ -5472,7 +6210,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Alameda Brüstlein",
-                  "text": "Öffentlicher Platz in Joinville.",
+                  "text": "Baumgesäumter Platz in Joinville, benannt nach der Familie Brüstlein.",
                   "category": "landmark",
                   "coords": [
                         -48.844668,
@@ -5483,7 +6221,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museu da Bicicleta de Joinville",
-                  "text": "Múzeum Joinville-ben, amely a kerékpározás történetével foglalkozik.",
+                  "text": "A joinville-i Kerékpármúzeum több mint 300 kerékpármodellt mutat be.",
                   "category": "museum",
                   "coords": [
                         -48.845464,
@@ -5510,7 +6248,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Arqueológico de Sambaqui de Joinville",
-                  "text": "Régészeti múzeum Joinville-ben.",
+                  "text": "A Joinville-i Sambaqui Régészeti Múzeum, amely kagylóhalom-leleteket mutat be.",
                   "category": "museum",
                   "coords": [
                         -48.842911,
@@ -5519,7 +6257,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Juarez Machado",
-                  "text": "Színház Joinville-ben.",
+                  "text": "Egy Juarez Machado festőről elnevezett színház Joinville kulturális negyedében.",
                   "category": "cultural",
                   "coords": [
                         -48.843762,
@@ -5528,7 +6266,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESC",
-                  "text": "A SESC színháza Joinville-ben.",
+                  "text": "Egy SESC által üzemeltetett színház Joinville üzleti központjában.",
                   "category": "cultural",
                   "coords": [
                         -48.843715,
@@ -5537,7 +6275,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sambaqui",
-                  "text": "Régészeti lelőhely Joinville-ben.",
+                  "text": "Egy őskori kagylódomb régészeti lelőhely a Cachoeira folyó partján Joinville-ben.",
                   "category": "historical",
                   "coords": [
                         -48.827765,
@@ -5546,7 +6284,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da AJOTE",
-                  "text": "Színház Joinville-ben.",
+                  "text": "Kis színház Joinville központjában, amely helyi színdaraboknak és kulturális eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -48.855729,
@@ -5555,7 +6293,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Zoobotânico de Joinville",
-                  "text": "Állatkert Joinville-ben.",
+                  "text": "Állatkertet és botanikus kertet ötvöző park, mely az atlanti őserdő növény- és állatvilágát mutatja be.",
                   "category": "family",
                   "coords": [
                         -48.835214,
@@ -5564,7 +6302,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Complexo Estação da Memória",
-                  "text": "Kulturális látnivaló Joinville-ben.",
+                  "text": "Egykori vasútállomás, amelyet Joinville-ben kulturális emlékközponttá alakítottak át.",
                   "category": "landmark",
                   "coords": [
                         -48.848791,
@@ -5573,7 +6311,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante Higino Aguiar",
-                  "text": "Kilátó Joinville-ben.",
+                  "text": "Kilátó egy dombon, panorámás kilátással Joinville-re és a Serra do Mar-hegységre.",
                   "category": "natural",
                   "coords": [
                         -48.827012,
@@ -5582,7 +6320,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento à Barca",
-                  "text": "Emlékmű Joinville-ben.",
+                  "text": "Emlékmű, amely az első bevándorlók hajóval történő érkezésére emlékeztet Joinville-ben.",
                   "category": "historical",
                   "coords": [
                         -48.841425,
@@ -5591,7 +6329,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Janela para a Cidade",
-                  "text": "Kilátó Joinville-ben.",
+                  "text": "Ablak alakú természetes kilátópont, amely rálátást nyújt Joinville városára.",
                   "category": "natural",
                   "coords": [
                         -48.828309,
@@ -5600,7 +6338,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fundadores de Joinville",
-                  "text": "Emlékmű Joinville alapítóinak.",
+                  "text": "Emlékmű Joinville alapítóinak tiszteletére, egy központi téren található.",
                   "category": "historical",
                   "coords": [
                         -48.843928,
@@ -5609,7 +6347,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Galeria de Arte Victor Kursancew",
-                  "text": "Művészeti galéria Joinville-ben.",
+                  "text": "Victor Kursancewről elnevezett művészeti galéria, kortárs alkotásokkal Joinville-ben.",
                   "category": "museum",
                   "coords": [
                         -48.841667,
@@ -5618,7 +6356,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte de Joinville",
-                  "text": "Művészeti múzeum Joinville-ben.",
+                  "text": "Joinville fő művészeti múzeuma, egy történelmi épületben található.",
                   "category": "museum",
                   "coords": [
                         -48.855863,
@@ -5627,7 +6365,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cemitério dos Imigrantes",
-                  "text": "Történelmi temető Joinville-ben.",
+                  "text": "Történelmi temető Joinville-ben, ahol a korai bevándorlók nyugszanak.",
                   "category": "landmark",
                   "coords": [
                         -48.851883,
@@ -5636,7 +6374,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura e Serviços Anita Garibaldi",
-                  "text": "Kulturális és szolgáltató központ Joinville-ben.",
+                  "text": "Anita Garibaldiról elnevezett kulturális központ, rendezvényeknek és szolgáltatásoknak ad otthont Joinville-ben.",
                   "category": "cultural",
                   "coords": [
                         -48.846178,
@@ -5645,7 +6383,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Juarez Machado",
-                  "text": "Művészeti intézet és galéria Joinville-ben.",
+                  "text": "Múzeum, amely Juarez Machado művész alkotásainak szentelt Joinville-ben.",
                   "category": "museum",
                   "coords": [
                         -48.853533,
@@ -5654,7 +6392,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Alameda Brüstlein",
-                  "text": "Közterület Joinville-ben.",
+                  "text": "Fákkal szegélyezett tér Joinville-ben, a Brüstlein családról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -48.844668,
@@ -5665,7 +6403,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museu da Bicicleta de Joinville",
-                  "text": "Muzeu în Joinville dedicat istoriei bicicletei.",
+                  "text": "Muzeul Bicicletei din Joinville expune peste 300 de modele de biciclete.",
                   "category": "museum",
                   "coords": [
                         -48.845464,
@@ -5692,7 +6430,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Arqueológico de Sambaqui de Joinville",
-                  "text": "Muzeu arheologic în Joinville.",
+                  "text": "Muzeul arheologic Sambaqui din Joinville, care prezintă descoperiri de movile de scoici.",
                   "category": "museum",
                   "coords": [
                         -48.842911,
@@ -5701,7 +6439,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Juarez Machado",
-                  "text": "Teatru în Joinville.",
+                  "text": "Un teatru numit după pictorul Juarez Machado în cartierul cultural din Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.843762,
@@ -5710,7 +6448,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESC",
-                  "text": "Teatrul SESC din Joinville.",
+                  "text": "Un teatru operat de SESC în centrul comercial din Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.843715,
@@ -5719,7 +6457,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sambaqui",
-                  "text": "Situl arheologic din Joinville.",
+                  "text": "Un sit arheologic preistoric de movilă de scoici pe malul râului Cachoeira din Joinville.",
                   "category": "historical",
                   "coords": [
                         -48.827765,
@@ -5728,7 +6466,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da AJOTE",
-                  "text": "Teatru în Joinville.",
+                  "text": "Un teatru mic în centrul orașului Joinville, care găzduiește piese de teatru locale și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -48.855729,
@@ -5737,7 +6475,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Zoobotânico de Joinville",
-                  "text": "Grădină zoologică în Joinville.",
+                  "text": "Un parc ce combină o grădină zoologică și una botanică, prezentând specii din pădurea Atlantică.",
                   "category": "family",
                   "coords": [
                         -48.835214,
@@ -5746,7 +6484,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Complexo Estação da Memória",
-                  "text": "Atracție culturală în Joinville.",
+                  "text": "Fosta gară transformată într-un complex cultural al memoriei în Joinville.",
                   "category": "landmark",
                   "coords": [
                         -48.848791,
@@ -5755,7 +6493,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante Higino Aguiar",
-                  "text": "Punct de belvedere în Joinville.",
+                  "text": "Un punct de belvedere pe un deal, oferind vederi panoramice asupra orașului Joinville și a munților Serra do Mar.",
                   "category": "natural",
                   "coords": [
                         -48.827012,
@@ -5764,7 +6502,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento à Barca",
-                  "text": "Monument în Joinville.",
+                  "text": "Monument care comemorează sosirea primilor imigranți cu barca în Joinville.",
                   "category": "historical",
                   "coords": [
                         -48.841425,
@@ -5773,7 +6511,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Janela para a Cidade",
-                  "text": "Punct de belvedere în Joinville.",
+                  "text": "Un punct de belvedere natural în formă de fereastră, privind spre orașul Joinville.",
                   "category": "natural",
                   "coords": [
                         -48.828309,
@@ -5782,7 +6520,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fundadores de Joinville",
-                  "text": "Monument în cinstea fondatorilor orașului Joinville.",
+                  "text": "Monument în onoarea fondatorilor orașului Joinville, situat într-o piață centrală.",
                   "category": "historical",
                   "coords": [
                         -48.843928,
@@ -5791,7 +6529,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Galeria de Arte Victor Kursancew",
-                  "text": "Galerie de artă în Joinville.",
+                  "text": "O galerie de artă numită după Victor Kursancew, cu lucrări contemporane în Joinville.",
                   "category": "museum",
                   "coords": [
                         -48.841667,
@@ -5800,7 +6538,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte de Joinville",
-                  "text": "Muzeu de artă în Joinville.",
+                  "text": "Principalul muzeu de artă din Joinville, găzduit într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         -48.855863,
@@ -5809,7 +6547,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cemitério dos Imigrantes",
-                  "text": "Cimitir istoric în Joinville.",
+                  "text": "Un cimitir istoric în Joinville, unde au fost îngropați primii imigranți.",
                   "category": "landmark",
                   "coords": [
                         -48.851883,
@@ -5818,7 +6556,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura e Serviços Anita Garibaldi",
-                  "text": "Centru cultural și de servicii în Joinville.",
+                  "text": "Centru cultural numit după Anita Garibaldi, care găzduiește evenimente și servicii în Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.846178,
@@ -5827,7 +6565,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Juarez Machado",
-                  "text": "Institut de artă și galerie în Joinville.",
+                  "text": "Muzeu dedicat operelor artistului Juarez Machado în Joinville.",
                   "category": "museum",
                   "coords": [
                         -48.853533,
@@ -5836,7 +6574,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Alameda Brüstlein",
-                  "text": "Piață publică în Joinville.",
+                  "text": "O piață cu arbori în Joinville, numită după familia Brüstlein.",
                   "category": "landmark",
                   "coords": [
                         -48.844668,
@@ -5847,7 +6585,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museu da Bicicleta de Joinville",
-                  "text": "Museum in Joinville dedicated to bicycle history.",
+                  "text": "The Joinville Bicycle Museum displays over 300 bicycle models.",
                   "category": "museum",
                   "coords": [
                         -48.845464,
@@ -5874,7 +6612,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Arqueológico de Sambaqui de Joinville",
-                  "text": "Archaeological museum in Joinville.",
+                  "text": "Archaeological museum of the Sambaqui of Joinville, displaying shell mound finds.",
                   "category": "museum",
                   "coords": [
                         -48.842911,
@@ -5883,7 +6621,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Juarez Machado",
-                  "text": "Theatre in Joinville.",
+                  "text": "A theater named after painter Juarez Machado in Joinville's cultural district.",
                   "category": "cultural",
                   "coords": [
                         -48.843762,
@@ -5892,7 +6630,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro do SESC",
-                  "text": "SESC Theatre in Joinville.",
+                  "text": "A theater operated by SESC in the commercial center of Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.843715,
@@ -5901,7 +6639,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Sambaqui",
-                  "text": "Archaeological site in Joinville.",
+                  "text": "A prehistoric shell mound archaeological site near the banks of the Cachoeira River in Joinville.",
                   "category": "historical",
                   "coords": [
                         -48.827765,
@@ -5910,7 +6648,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro da AJOTE",
-                  "text": "Theatre in Joinville.",
+                  "text": "A small theater in central Joinville hosting community plays and cultural events.",
                   "category": "cultural",
                   "coords": [
                         -48.855729,
@@ -5919,7 +6657,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Zoobotânico de Joinville",
-                  "text": "Zoo in Joinville.",
+                  "text": "A park combining a zoo and botanical garden, featuring Atlantic Forest species.",
                   "category": "family",
                   "coords": [
                         -48.835214,
@@ -5928,7 +6666,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Complexo Estação da Memória",
-                  "text": "Cultural attraction in Joinville.",
+                  "text": "A former railway station turned into a cultural memory center in Joinville.",
                   "category": "landmark",
                   "coords": [
                         -48.848791,
@@ -5937,7 +6675,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante Higino Aguiar",
-                  "text": "Viewpoint in Joinville.",
+                  "text": "A viewpoint on a hill offering panoramic views of Joinville and the Serra do Mar.",
                   "category": "natural",
                   "coords": [
                         -48.827012,
@@ -5946,7 +6684,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento à Barca",
-                  "text": "Monument in Joinville.",
+                  "text": "A monument commemorating the arrival of the first immigrants by boat in Joinville.",
                   "category": "historical",
                   "coords": [
                         -48.841425,
@@ -5955,7 +6693,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Janela para a Cidade",
-                  "text": "Viewpoint in Joinville.",
+                  "text": "A natural viewpoint shaped like a window, overlooking the city of Joinville.",
                   "category": "natural",
                   "coords": [
                         -48.828309,
@@ -5964,7 +6702,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Fundadores de Joinville",
-                  "text": "Monument to the founders of Joinville.",
+                  "text": "A monument honoring the founders of Joinville, located in a central square.",
                   "category": "historical",
                   "coords": [
                         -48.843928,
@@ -5973,7 +6711,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Galeria de Arte Victor Kursancew",
-                  "text": "Art gallery in Joinville.",
+                  "text": "An art gallery named after Victor Kursancew, featuring contemporary works in Joinville.",
                   "category": "museum",
                   "coords": [
                         -48.841667,
@@ -5982,7 +6720,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte de Joinville",
-                  "text": "Art museum in Joinville.",
+                  "text": "The main art museum in Joinville, housed in a historic building.",
                   "category": "museum",
                   "coords": [
                         -48.855863,
@@ -5991,7 +6729,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cemitério dos Imigrantes",
-                  "text": "Historic cemetery in Joinville.",
+                  "text": "A historic cemetery where early immigrants were buried, in Joinville.",
                   "category": "landmark",
                   "coords": [
                         -48.851883,
@@ -6000,7 +6738,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura e Serviços Anita Garibaldi",
-                  "text": "Cultural and service centre in Joinville.",
+                  "text": "A cultural center named after Anita Garibaldi, hosting events and services in Joinville.",
                   "category": "cultural",
                   "coords": [
                         -48.846178,
@@ -6009,7 +6747,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Juarez Machado",
-                  "text": "Art institute and gallery in Joinville.",
+                  "text": "A museum dedicated to the works of artist Juarez Machado in Joinville.",
                   "category": "museum",
                   "coords": [
                         -48.853533,
@@ -6018,7 +6756,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Alameda Brüstlein",
-                  "text": "Public square in Joinville.",
+                  "text": "A tree-lined square in Joinville, named after the Brüstlein family.",
                   "category": "landmark",
                   "coords": [
                         -48.844668,
@@ -6065,7 +6803,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Anfiteatro de Aparecida de Goiânia",
-                  "text": "Anfiteatro de Aparecida de Goiânia ist ein Theater in Aparecida de Goiânia.",
+                  "text": "Freiluft-Amphitheater in Aparecida de Goiânia, das für Konzerte und Shows genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         -49.256238,
@@ -6074,7 +6812,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Secretaria Executiva de Cultura",
-                  "text": "Secretaria Executiva de Cultura ist ein Kunstzentrum in Aparecida de Goiânia.",
+                  "text": "Exekutivsekretariat für Kultur in Goiânia, das lokale Kulturaktivitäten organisiert.",
                   "category": "cultural",
                   "coords": [
                         -49.255617,
@@ -6085,7 +6823,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Anfiteatro de Aparecida de Goiânia",
-                  "text": "Az Anfiteatro de Aparecida de Goiânia egy színház Aparecida de Goiânia városában.",
+                  "text": "Szabadtéri amfiteátrum Aparecida de Goiâniában, koncertek és előadások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -49.256238,
@@ -6094,7 +6832,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Secretaria Executiva de Cultura",
-                  "text": "A Secretaria Executiva de Cultura egy művészeti központ Aparecida de Goiânia városában.",
+                  "text": "A kultúra végrehajtó titkársága Goiâniában, amely helyi kulturális tevékenységeket szervez.",
                   "category": "cultural",
                   "coords": [
                         -49.255617,
@@ -6105,7 +6843,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Anfiteatro de Aparecida de Goiânia",
-                  "text": "Anfiteatro de Aparecida de Goiânia este un teatru situat în Aparecida de Goiânia.",
+                  "text": "Un amfiteatru în aer liber în Aparecida de Goiânia, folosit pentru concerte și spectacole.",
                   "category": "cultural",
                   "coords": [
                         -49.256238,
@@ -6114,7 +6852,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Secretaria Executiva de Cultura",
-                  "text": "Secretaria Executiva de Cultura este un centru de arte situat în Aparecida de Goiânia.",
+                  "text": "Secretariatul executiv al culturii în Goiânia, care organizează activități culturale locale.",
                   "category": "cultural",
                   "coords": [
                         -49.255617,
@@ -6125,7 +6863,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Anfiteatro de Aparecida de Goiânia",
-                  "text": "Anfiteatro de Aparecida de Goiânia is a theatre located in Aparecida de Goiânia.",
+                  "text": "An open-air amphitheater in Aparecida de Goiânia, used for concerts and shows.",
                   "category": "cultural",
                   "coords": [
                         -49.256238,
@@ -6134,7 +6872,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Secretaria Executiva de Cultura",
-                  "text": "Secretaria Executiva de Cultura is an arts centre located in Aparecida de Goiânia.",
+                  "text": "The executive secretariat of culture in Goiânia, organizing local cultural activities.",
                   "category": "cultural",
                   "coords": [
                         -49.255617,
@@ -6181,7 +6919,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Moderna de Londrina",
-                  "text": "Das Museu de Arte Moderna de Londrina ist ein Museum für moderne Kunst in Londrina.",
+                  "text": "Museum für moderne Kunst in Londrina mit zeitgenössischen Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -51.159274,
@@ -6190,7 +6928,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Marista",
-                  "text": "Das Teatro Marista ist ein lokales Theater in Londrina.",
+                  "text": "Theater an der Marista-Schule in Londrina, das für Schüleraufführungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         -51.180768,
@@ -6199,7 +6937,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Colégio Londrinense",
-                  "text": "Das Teatro Colégio Londrinense ist ein Theatersaal in Londrina.",
+                  "text": "Theater am Colégio Londrinense in Londrina, das Schulaufführungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -51.170954,
@@ -6208,7 +6946,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Café",
-                  "text": "Das Museum of Coffee ist ein Museum in Londrina.",
+                  "text": "Museum in Londrina, das der Geschichte und Produktion von Kaffee gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -51.153367,
@@ -6217,7 +6955,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Reverendo Jonas Dias Martins",
-                  "text": "Das Anfiteatro Reverendo Jonas Dias Martins ist ein Theaterraum in Londrina.",
+                  "text": "Amphitheater benannt nach Reverend Jonas Dias Martins in Londrina.",
                   "category": "cultural",
                   "coords": [
                         -51.163496,
@@ -6235,7 +6973,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Universitário Ouro Verde",
-                  "text": "Das Cine Teatro Universitário Ouro Verde ist ein traditionelles Kino und Theater in Londrina.",
+                  "text": "Historisches Kino und Theater Ouro Verde, heute Teil der Staatlichen Universität Londrina.",
                   "category": "landmark",
                   "coords": [
                         -51.15816,
@@ -6244,7 +6982,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "O Passageiro",
-                  "text": "O Passageiro ist ein öffentliches Denkmal in der Stadt Londrina.",
+                  "text": "Skulptur eines Passagiers in Londrina, die die Migration symbolisiert.",
                   "category": "historical",
                   "coords": [
                         -51.150075,
@@ -6253,7 +6991,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Rotary",
-                  "text": "Die Praça Rotary ist ein lokales Denkmal in Londrina.",
+                  "text": "Historischer Platz in Londrina, benannt nach Rotary International.",
                   "category": "historical",
                   "coords": [
                         -51.177616,
@@ -6262,7 +7000,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Relógio de Sol",
-                  "text": "Relógio de Sol ist ein Denkmal in Londrina.",
+                  "text": "Sonnenuhr-Denkmal in Londrina, das die Zeit im Stadtzentrum anzeigt.",
                   "category": "historical",
                   "coords": [
                         -51.150551,
@@ -6271,7 +7009,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Bíblico",
-                  "text": "Das Monumento Bíblico ist ein Denkmal in Londrina.",
+                  "text": "Biblisches Denkmal in Londrina, das Szenen aus der Bibel darstellt.",
                   "category": "historical",
                   "coords": [
                         -51.157929,
@@ -6280,7 +7018,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Clave do Sol",
-                  "text": "Das Espaço Cultural Clave do Sol ist ein Kunstzentrum in Londrina.",
+                  "text": "Kulturraum „Clave do Sol” (Sonnenschlüssel) in Londrina, der Musikveranstaltungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -51.183547,
@@ -6289,7 +7027,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santuário Mariano de Schoenstatt",
-                  "text": "Das Santuário Mariano de Schoenstatt ist eine lokale Attraktion in Londrina.",
+                  "text": "Marienheiligtum von Schönstatt in Londrina, ein Wallfahrtsort.",
                   "category": "landmark",
                   "coords": [
                         -51.159755,
@@ -6298,7 +7036,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa da Cultura UEL",
-                  "text": "Die Casa da Cultura UEL ist ein Kunstzentrum in Londrina.",
+                  "text": "Kulturhaus der Staatlichen Universität Londrina (UEL), das lokale Kunst ausstellt.",
                   "category": "cultural",
                   "coords": [
                         -51.163046,
@@ -6327,7 +7065,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Moderna de Londrina",
-                  "text": "A Museu de Arte Moderna de Londrina egy modern művészeti múzeum Londrina városában.",
+                  "text": "Modern Művészeti Múzeum Londrinában, kortárs kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -51.159274,
@@ -6336,7 +7074,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Marista",
-                  "text": "A Teatro Marista egy helyi színház Londrina városában.",
+                  "text": "Színház a Marista iskolában Londrinában, diákelőadások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -51.180768,
@@ -6345,7 +7083,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Colégio Londrinense",
-                  "text": "A Teatro Colégio Londrinense egy színházi tér Londrina városában.",
+                  "text": "Színház a Londrinense iskolában Londrinában, iskolai előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -51.170954,
@@ -6354,7 +7092,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Café",
-                  "text": "A Museum of Coffee egy múzeum Londrina városában.",
+                  "text": "Múzeum Londrinában, a kávé történetének és termelésének szentelve.",
                   "category": "museum",
                   "coords": [
                         -51.153367,
@@ -6363,7 +7101,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Reverendo Jonas Dias Martins",
-                  "text": "Az Anfiteatro Reverendo Jonas Dias Martins egy színházi tér Londrina városában.",
+                  "text": "Jonas Dias Martins tiszteletesről elnevezett amfiteátrum Londrinában.",
                   "category": "cultural",
                   "coords": [
                         -51.163496,
@@ -6381,7 +7119,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Universitário Ouro Verde",
-                  "text": "A Cine Teatro Universitário Ouro Verde egy hagyományos mozi és színház Londrina városában.",
+                  "text": "A történelmi Ouro Verde mozi és színház, ma a Londrinai Állami Egyetem része.",
                   "category": "landmark",
                   "coords": [
                         -51.15816,
@@ -6390,7 +7128,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "O Passageiro",
-                  "text": "Az O Passageiro egy köztéri emlékmű Londrina városában.",
+                  "text": "Egy utas szobra Londrinában, a migráció szimbóluma.",
                   "category": "historical",
                   "coords": [
                         -51.150075,
@@ -6399,7 +7137,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Rotary",
-                  "text": "A Praça Rotary egy helyi emlékmű Londrina városában.",
+                  "text": "Történelmi tér Londrinában, a Rotary Internationalről elnevezve.",
                   "category": "historical",
                   "coords": [
                         -51.177616,
@@ -6408,7 +7146,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Relógio de Sol",
-                  "text": "A Relógio de Sol egy emlékmű Londrina városában.",
+                  "text": "Napóra emlékmű Londrinában, amely a városközpontban jelzi az időt.",
                   "category": "historical",
                   "coords": [
                         -51.150551,
@@ -6417,7 +7155,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Bíblico",
-                  "text": "A Monumento Bíblico egy emlékmű Londrina városában.",
+                  "text": "Bibliai emlékmű Londrinában, bibliai jeleneteket ábrázol.",
                   "category": "historical",
                   "coords": [
                         -51.157929,
@@ -6426,7 +7164,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Clave do Sol",
-                  "text": "Az Espaço Cultural Clave do Sol egy művészeti központ Londrina városában.",
+                  "text": "„Clave do Sol” (Nap kulcsa) kulturális tér Londrinában, zenei események helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -51.183547,
@@ -6435,7 +7173,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santuário Mariano de Schoenstatt",
-                  "text": "A Santuário Mariano de Schoenstatt egy helyi látványosság Londrina városában.",
+                  "text": "Mária-kegyhely (Schönstatt) Londrinában, zarándokhely.",
                   "category": "landmark",
                   "coords": [
                         -51.159755,
@@ -6444,7 +7182,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa da Cultura UEL",
-                  "text": "A Casa da Cultura UEL egy művészeti központ Londrina városában.",
+                  "text": "A Londrinai Állami Egyetem (UEL) kultúrháza, helyi művészeti kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         -51.163046,
@@ -6473,7 +7211,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Moderna de Londrina",
-                  "text": "Museu de Arte Moderna de Londrina este un muzeu de artă modernă situat în Londrina.",
+                  "text": "Muzeul de artă modernă din Londrina, cu expoziții contemporane.",
                   "category": "museum",
                   "coords": [
                         -51.159274,
@@ -6482,7 +7220,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Marista",
-                  "text": "Teatro Marista este un teatru local situat în Londrina.",
+                  "text": "Un teatru la școala Marista din Londrina, folosit pentru producții școlare.",
                   "category": "cultural",
                   "coords": [
                         -51.180768,
@@ -6491,7 +7229,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Colégio Londrinense",
-                  "text": "Teatro Colégio Londrinense este o sală de teatru din Londrina.",
+                  "text": "Un teatru la Colégio Londrinense din Londrina, care găzduiește piese școlare.",
                   "category": "cultural",
                   "coords": [
                         -51.170954,
@@ -6500,7 +7238,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Café",
-                  "text": "Museum of Coffee este un muzeu din Londrina.",
+                  "text": "Un muzeu în Londrina dedicat istoriei și producției cafelei.",
                   "category": "museum",
                   "coords": [
                         -51.153367,
@@ -6509,7 +7247,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Reverendo Jonas Dias Martins",
-                  "text": "Anfiteatro Reverendo Jonas Dias Martins este un spațiu teatral situat în Londrina.",
+                  "text": "Un amfiteatru numit după Reverendul Jonas Dias Martins în Londrina.",
                   "category": "cultural",
                   "coords": [
                         -51.163496,
@@ -6527,7 +7265,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Universitário Ouro Verde",
-                  "text": "Cine Teatro Universitário Ouro Verde este un cinematograf și teatru tradițional din Londrina.",
+                  "text": "Cinematograful și teatrul istoric Ouro Verde, acum parte a Universității de Stat din Londrina.",
                   "category": "landmark",
                   "coords": [
                         -51.15816,
@@ -6536,7 +7274,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "O Passageiro",
-                  "text": "O Passageiro este un monument public situat în orașul Londrina.",
+                  "text": "O sculptură a unui pasager în Londrina, simbolizând migrația.",
                   "category": "historical",
                   "coords": [
                         -51.150075,
@@ -6545,7 +7283,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Rotary",
-                  "text": "Praça Rotary este un monument local situat în Londrina.",
+                  "text": "O piață istorică în Londrina, numită după Rotary International.",
                   "category": "historical",
                   "coords": [
                         -51.177616,
@@ -6554,7 +7292,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Relógio de Sol",
-                  "text": "Relógio de Sol este un monument situat în Londrina.",
+                  "text": "Un monument cu ceas solar în Londrina, care indică timpul în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -51.150551,
@@ -6563,7 +7301,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Bíblico",
-                  "text": "Monumento Bíblico este un monument situat în Londrina.",
+                  "text": "Un monument biblic în Londrina, înfățișând scene din Biblie.",
                   "category": "historical",
                   "coords": [
                         -51.157929,
@@ -6572,7 +7310,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Clave do Sol",
-                  "text": "Espaço Cultural Clave do Sol este un centru de artă situat în Londrina.",
+                  "text": "Un spațiu cultural „Clave do Sol” (Cheia Soarelui) în Londrina, care găzduiește evenimente muzicale.",
                   "category": "cultural",
                   "coords": [
                         -51.183547,
@@ -6581,7 +7319,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santuário Mariano de Schoenstatt",
-                  "text": "Santuário Mariano de Schoenstatt este o atracție locală situată în Londrina.",
+                  "text": "Un sanctuar marian de Schoenstatt în Londrina, loc de pelerinaj.",
                   "category": "landmark",
                   "coords": [
                         -51.159755,
@@ -6590,7 +7328,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa da Cultura UEL",
-                  "text": "Casa da Cultura UEL este un centru de artă din Londrina.",
+                  "text": "Casa de cultură a Universității de Stat din Londrina (UEL), care expune artă locală.",
                   "category": "cultural",
                   "coords": [
                         -51.163046,
@@ -6619,7 +7357,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Moderna de Londrina",
-                  "text": "Museu de Arte Moderna de Londrina is a modern art museum located in Londrina.",
+                  "text": "Modern art museum in Londrina featuring contemporary exhibitions.",
                   "category": "museum",
                   "coords": [
                         -51.159274,
@@ -6628,7 +7366,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Marista",
-                  "text": "Teatro Marista is a local theatre located in Londrina.",
+                  "text": "A theater at the Marista school in Londrina, used for student productions.",
                   "category": "cultural",
                   "coords": [
                         -51.180768,
@@ -6637,7 +7375,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Colégio Londrinense",
-                  "text": "Teatro Colégio Londrinense is a theatre venue situated in Londrina.",
+                  "text": "A theater at the Londrinense school in Londrina, hosting school plays.",
                   "category": "cultural",
                   "coords": [
                         -51.170954,
@@ -6646,7 +7384,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Coffee",
-                  "text": "Museum of Coffee is a museum situated in Londrina.",
+                  "text": "A museum in Londrina dedicated to the history and production of coffee.",
                   "category": "museum",
                   "coords": [
                         -51.153367,
@@ -6655,7 +7393,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Reverendo Jonas Dias Martins",
-                  "text": "Anfiteatro Reverendo Jonas Dias Martins is a theatre space situated in Londrina.",
+                  "text": "An amphitheater named after Reverend Jonas Dias Martins in Londrina.",
                   "category": "cultural",
                   "coords": [
                         -51.163496,
@@ -6673,7 +7411,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine Teatro Universitário Ouro Verde",
-                  "text": "Cine Teatro Universitário Ouro Verde is a traditional cinema and theatre located in Londrina.",
+                  "text": "Historic cinema and theatre Ouro Verde, now part of the State University of Londrina.",
                   "category": "landmark",
                   "coords": [
                         -51.15816,
@@ -6682,7 +7420,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "O Passageiro",
-                  "text": "O Passageiro is a public monument situated in the city of Londrina.",
+                  "text": "A sculpture of a passenger in Londrina, symbolizing migration.",
                   "category": "historical",
                   "coords": [
                         -51.150075,
@@ -6691,7 +7429,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Praça Rotary",
-                  "text": "Praça Rotary is a local monument situated in Londrina.",
+                  "text": "A historic square in Londrina, named after Rotary International.",
                   "category": "historical",
                   "coords": [
                         -51.177616,
@@ -6700,7 +7438,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Relógio de Sol",
-                  "text": "Relógio de Sol is a monument located in Londrina.",
+                  "text": "A sundial monument in Londrina, marking time in the city center.",
                   "category": "historical",
                   "coords": [
                         -51.150551,
@@ -6709,7 +7447,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Bíblico",
-                  "text": "Monumento Bíblico is a monument located in Londrina.",
+                  "text": "A biblical monument in Londrina, depicting scenes from the Bible.",
                   "category": "historical",
                   "coords": [
                         -51.157929,
@@ -6718,7 +7456,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Espaço Cultural Clave do Sol",
-                  "text": "Espaço Cultural Clave do Sol is an arts centre located in Londrina.",
+                  "text": "A cultural space called 'Clave do Sol' (Sun Key) in Londrina, hosting music events.",
                   "category": "cultural",
                   "coords": [
                         -51.183547,
@@ -6727,7 +7465,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Santuário Mariano de Schoenstatt",
-                  "text": "Santuário Mariano de Schoenstatt is a local attraction located in Londrina.",
+                  "text": "A Marian sanctuary of Schoenstatt in Londrina, a pilgrimage site.",
                   "category": "landmark",
                   "coords": [
                         -51.159755,
@@ -6736,7 +7474,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa da Cultura UEL",
-                  "text": "Casa da Cultura UEL is an arts centre situated in Londrina.",
+                  "text": "The culture house of the State University of Londrina (UEL), exhibiting local art.",
                   "category": "cultural",
                   "coords": [
                         -51.163046,
@@ -6792,7 +7530,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museu Ferroviário",
-                  "text": "Eisenbahnmuseum in Juiz de Fora.",
+                  "text": "Das Eisenbahnmuseum in Juiz de Fora zeigt historische Lokomotiven.",
                   "category": "museum",
                   "coords": [
                         -43.343788,
@@ -6810,7 +7548,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Forum da Cultura",
-                  "text": "Theater und kulturelles Forum in Juiz de Fora.",
+                  "text": "Kulturforum in Juiz de Fora, das Debatten und Ausstellungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -43.351162,
@@ -6819,7 +7557,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Solar",
-                  "text": "Theater in Juiz de Fora.",
+                  "text": "Theater „Solar” in Juiz de Fora, ein historisches Gebäude.",
                   "category": "cultural",
                   "coords": [
                         -43.354055,
@@ -6828,7 +7566,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Theatro Central",
-                  "text": "Historisches Theater in Juiz de Fora.",
+                  "text": "Historisches Kino-Theater in Juiz de Fora, in dem noch Filme gezeigt werden.",
                   "category": "cultural",
                   "coords": [
                         -43.347892,
@@ -6837,7 +7575,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MAMM Museu de Arte Murilo Mendes",
-                  "text": "Kunstmuseum in Juiz de Fora.",
+                  "text": "Murilo-Mendes-Kunstmuseum in Juiz de Fora, das dem Dichter gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -43.352213,
@@ -6855,7 +7593,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Halfeld",
-                  "text": "Park im Zentrum von Juiz de Fora.",
+                  "text": "Der Parque Halfeld ist ein zentraler Park in Juiz de Fora mit Brunnen und Bäumen.",
                   "category": "park",
                   "coords": [
                         -43.350514,
@@ -6864,7 +7602,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante do Morro do Cristo",
-                  "text": "Aussichtspunkt in Juiz de Fora.",
+                  "text": "Aussichtspunkt auf dem Cristo-Hügel mit Blick auf Juiz de Fora.",
                   "category": "natural",
                   "coords": [
                         -43.3573,
@@ -6873,7 +7611,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante de São Bernardo",
-                  "text": "Aussichtspunkt in Juiz de Fora.",
+                  "text": "Aussichtspunkt auf dem São-Bernardo-Hügel mit Ausblick auf Juiz de Fora.",
                   "category": "natural",
                   "coords": [
                         -43.339834,
@@ -6882,7 +7620,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "IAD",
-                  "text": "Kulturzentrum in Juiz de Fora.",
+                  "text": "Institut für Kunst und Design (IAD) in Juiz de Fora, eine Kultureinrichtung.",
                   "category": "cultural",
                   "coords": [
                         -43.37441,
@@ -6891,7 +7629,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centenário dos Batistas Mineiros 1889-1989",
-                  "text": "Denkmal in Juiz de Fora.",
+                  "text": "Denkmal zum 100-jährigen Jubiläum der Baptisten aus Minas Gerais (1889–1989) in Juiz de Fora.",
                   "category": "historical",
                   "coords": [
                         -43.350904,
@@ -6900,7 +7638,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Bernardo Mascarenhas",
-                  "text": "Kulturzentrum in Juiz de Fora.",
+                  "text": "Kulturzentrum benannt nach Bernardo Mascarenhas in Juiz de Fora.",
                   "category": "cultural",
                   "coords": [
                         -43.344664,
@@ -6909,7 +7647,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Tancredo Neves",
-                  "text": "Denkmal für Tancredo Neves in Juiz de Fora.",
+                  "text": "Denkmal für Tancredo Neves in Juiz de Fora, den verstorbenen Präsidenten.",
                   "category": "historical",
                   "coords": [
                         -43.344424,
@@ -6918,7 +7656,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Dnar Rocha",
-                  "text": "Kulturzentrum in Juiz de Fora.",
+                  "text": "Kulturzentrum benannt nach Dnar Rocha in Juiz de Fora.",
                   "category": "cultural",
                   "coords": [
                         -43.360832,
@@ -6936,7 +7674,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Catedral de Juiz de Fora",
-                  "text": "Kathedrale in Juiz de Fora.",
+                  "text": "Die Igreja Catedral de Juiz de Fora ist die Metropolitankathedrale, dem heiligen Antonius geweiht.",
                   "category": "religious",
                   "coords": [
                         -43.350116,
@@ -6947,7 +7685,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museu Ferroviário",
-                  "text": "Vasúti múzeum Juiz de Forában.",
+                  "text": "A juiz de forai Vasúti Múzeum történelmi mozdonyokat mutat be.",
                   "category": "museum",
                   "coords": [
                         -43.343788,
@@ -6965,7 +7703,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Forum da Cultura",
-                  "text": "Színház és kulturális fórum Juiz de Forában.",
+                  "text": "Kulturális fórum Juiz de Forában, viták és kiállítások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -43.351162,
@@ -6974,7 +7712,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Solar",
-                  "text": "Színház Juiz de Forában.",
+                  "text": "„Solar” színház Juiz de Forában, egy történelmi épület.",
                   "category": "cultural",
                   "coords": [
                         -43.354055,
@@ -6983,7 +7721,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Theatro Central",
-                  "text": "Történelmi színház Juiz de Forában.",
+                  "text": "Történelmi mozi-színház Juiz de Forában, ahol még mindig filmeket vetítenek.",
                   "category": "cultural",
                   "coords": [
                         -43.347892,
@@ -6992,7 +7730,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MAMM Museu de Arte Murilo Mendes",
-                  "text": "Művészeti múzeum Juiz de Forában.",
+                  "text": "Murilo Mendes Művészeti Múzeum Juiz de Forában, a költőnek szentelve.",
                   "category": "museum",
                   "coords": [
                         -43.352213,
@@ -7010,7 +7748,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Halfeld",
-                  "text": "Park Juiz de Fora központjában.",
+                  "text": "A Parque Halfeld egy központi park Juiz de Forában, szökőkutakkal és fákkal.",
                   "category": "park",
                   "coords": [
                         -43.350514,
@@ -7019,7 +7757,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante do Morro do Cristo",
-                  "text": "Kilátó Juiz de Forában.",
+                  "text": "Kilátó a Cristo-dombon, rálátással Juiz de Forára.",
                   "category": "natural",
                   "coords": [
                         -43.3573,
@@ -7028,7 +7766,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante de São Bernardo",
-                  "text": "Kilátó Juiz de Forában.",
+                  "text": "Kilátó a São Bernardo-dombon, Juiz de Forára nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         -43.339834,
@@ -7037,7 +7775,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "IAD",
-                  "text": "Kulturális központ Juiz de Forában.",
+                  "text": "Művészeti és Formatervezési Intézet (IAD) Juiz de Forában, kulturális intézmény.",
                   "category": "cultural",
                   "coords": [
                         -43.37441,
@@ -7046,7 +7784,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centenário dos Batistas Mineiros 1889-1989",
-                  "text": "Emlékmű Juiz de Forában.",
+                  "text": "Emlékmű a Minas Gerais-i baptisták 100. évfordulójára (1889–1989) Juiz de Forában.",
                   "category": "historical",
                   "coords": [
                         -43.350904,
@@ -7055,7 +7793,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Bernardo Mascarenhas",
-                  "text": "Kulturális központ Juiz de Forában.",
+                  "text": "Bernardo Mascarenhasról elnevezett kulturális központ Juiz de Forában.",
                   "category": "cultural",
                   "coords": [
                         -43.344664,
@@ -7064,7 +7802,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Tancredo Neves",
-                  "text": "Tancredo Neves emlékműve Juiz de Forában.",
+                  "text": "Tancredo Neves-emlékmű Juiz de Forában, az elhunyt elnök tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -43.344424,
@@ -7073,7 +7811,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Dnar Rocha",
-                  "text": "Kulturális központ Juiz de Forában.",
+                  "text": "Dnar Rocha nevét viselő kulturális központ Juiz de Forában.",
                   "category": "cultural",
                   "coords": [
                         -43.360832,
@@ -7091,7 +7829,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Catedral de Juiz de Fora",
-                  "text": "Katedrális Juiz de Forában.",
+                  "text": "A juiz de forai székesegyház a főegyházmegye katedrálisa, Szent Antalnak szentelve.",
                   "category": "religious",
                   "coords": [
                         -43.350116,
@@ -7102,7 +7840,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museu Ferroviário",
-                  "text": "Muzeu feroviar în Juiz de Fora.",
+                  "text": "Muzeul Feroviar din Juiz de Fora expune locomotive istorice.",
                   "category": "museum",
                   "coords": [
                         -43.343788,
@@ -7120,7 +7858,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Forum da Cultura",
-                  "text": "Teatru și forum cultural în Juiz de Fora.",
+                  "text": "Un forum cultural în Juiz de Fora, care găzduiește dezbateri și expoziții.",
                   "category": "cultural",
                   "coords": [
                         -43.351162,
@@ -7129,7 +7867,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Solar",
-                  "text": "Teatru în Juiz de Fora.",
+                  "text": "Teatrul „Solar” din Juiz de Fora, o clădire istorică.",
                   "category": "cultural",
                   "coords": [
                         -43.354055,
@@ -7138,7 +7876,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Theatro Central",
-                  "text": "Teatru istoric în Juiz de Fora.",
+                  "text": "Un cinematograf-teatru istoric în Juiz de Fora, care încă rulează filme.",
                   "category": "cultural",
                   "coords": [
                         -43.347892,
@@ -7147,7 +7885,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MAMM Museu de Arte Murilo Mendes",
-                  "text": "Muzeu de artă în Juiz de Fora.",
+                  "text": "Muzeul de Artă Murilo Mendes din Juiz de Fora, dedicat poetului.",
                   "category": "museum",
                   "coords": [
                         -43.352213,
@@ -7165,7 +7903,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Halfeld",
-                  "text": "Parc în centrul orașului Juiz de Fora.",
+                  "text": "Parcul Halfeld este un parc central din Juiz de Fora, cu fântâni și copaci.",
                   "category": "park",
                   "coords": [
                         -43.350514,
@@ -7174,7 +7912,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante do Morro do Cristo",
-                  "text": "Punct de belvedere în Juiz de Fora.",
+                  "text": "Un punct de belvedere pe dealul Cristo, privind spre Juiz de Fora.",
                   "category": "natural",
                   "coords": [
                         -43.3573,
@@ -7183,7 +7921,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante de São Bernardo",
-                  "text": "Punct de belvedere în Juiz de Fora.",
+                  "text": "Un punct de belvedere pe dealul São Bernardo, oferind vederi asupra orașului Juiz de Fora.",
                   "category": "natural",
                   "coords": [
                         -43.339834,
@@ -7192,7 +7930,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "IAD",
-                  "text": "Centru cultural în Juiz de Fora.",
+                  "text": "Institutul de Artă și Design (IAD) din Juiz de Fora, o instituție culturală.",
                   "category": "cultural",
                   "coords": [
                         -43.37441,
@@ -7201,7 +7939,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centenário dos Batistas Mineiros 1889-1989",
-                  "text": "Monument în Juiz de Fora.",
+                  "text": "Monument care comemorează 100 de ani de la întemeierea baptiștilor din Minas Gerais (1889–1989) în Juiz de Fora.",
                   "category": "historical",
                   "coords": [
                         -43.350904,
@@ -7210,7 +7948,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Bernardo Mascarenhas",
-                  "text": "Centru cultural în Juiz de Fora.",
+                  "text": "Centru cultural numit după Bernardo Mascarenhas în Juiz de Fora.",
                   "category": "cultural",
                   "coords": [
                         -43.344664,
@@ -7219,7 +7957,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Tancredo Neves",
-                  "text": "Monument dedicat lui Tancredo Neves în Juiz de Fora.",
+                  "text": "Monument dedicat lui Tancredo Neves în Juiz de Fora, fostul președinte.",
                   "category": "historical",
                   "coords": [
                         -43.344424,
@@ -7228,7 +7966,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Dnar Rocha",
-                  "text": "Centru cultural în Juiz de Fora.",
+                  "text": "Centru cultural numit după Dnar Rocha în Juiz de Fora.",
                   "category": "cultural",
                   "coords": [
                         -43.360832,
@@ -7246,7 +7984,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Catedral de Juiz de Fora",
-                  "text": "Catedrală în Juiz de Fora.",
+                  "text": "Catedrala din Juiz de Fora este catedrala mitropolitană, dedicată Sfântului Anton.",
                   "category": "religious",
                   "coords": [
                         -43.350116,
@@ -7257,7 +7995,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Railway Museum",
-                  "text": "Railway museum in Juiz de Fora.",
+                  "text": "The Railway Museum in Juiz de Fora displays historic locomotives.",
                   "category": "museum",
                   "coords": [
                         -43.343788,
@@ -7275,7 +8013,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Forum da Cultura",
-                  "text": "Theatre and cultural forum in Juiz de Fora.",
+                  "text": "A cultural forum in Juiz de Fora, hosting debates and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -43.351162,
@@ -7284,7 +8022,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Solar",
-                  "text": "Theatre in Juiz de Fora.",
+                  "text": "A theater named 'Solar' in Juiz de Fora, a historic building.",
                   "category": "cultural",
                   "coords": [
                         -43.354055,
@@ -7293,7 +8031,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Theatro Central",
-                  "text": "Historic theatre in Juiz de Fora.",
+                  "text": "A historic cinema-theater in Juiz de Fora, still showing films.",
                   "category": "cultural",
                   "coords": [
                         -43.347892,
@@ -7302,7 +8040,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "MAMM Museu de Arte Murilo Mendes",
-                  "text": "Art museum in Juiz de Fora.",
+                  "text": "The Murilo Mendes Art Museum in Juiz de Fora, dedicated to the poet.",
                   "category": "museum",
                   "coords": [
                         -43.352213,
@@ -7320,7 +8058,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Halfeld",
-                  "text": "Park in the centre of Juiz de Fora.",
+                  "text": "Parque Halfeld is a central square park in Juiz de Fora with fountains and trees.",
                   "category": "park",
                   "coords": [
                         -43.350514,
@@ -7329,7 +8067,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante do Morro do Cristo",
-                  "text": "Viewpoint in Juiz de Fora.",
+                  "text": "A viewpoint on Cristo Hill overlooking Juiz de Fora.",
                   "category": "natural",
                   "coords": [
                         -43.3573,
@@ -7338,7 +8076,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Mirante de São Bernardo",
-                  "text": "Viewpoint in Juiz de Fora.",
+                  "text": "A viewpoint on São Bernardo Hill offering views of Juiz de Fora.",
                   "category": "natural",
                   "coords": [
                         -43.339834,
@@ -7347,7 +8085,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "IAD",
-                  "text": "Arts centre in Juiz de Fora.",
+                  "text": "The Institute of Art and Design (IAD) in Juiz de Fora, a cultural institution.",
                   "category": "cultural",
                   "coords": [
                         -43.37441,
@@ -7356,7 +8094,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centenário dos Batistas Mineiros 1889-1989",
-                  "text": "Monument in Juiz de Fora.",
+                  "text": "A monument commemorating 100 years of Baptist miners (1889–1989) in Juiz de Fora.",
                   "category": "historical",
                   "coords": [
                         -43.350904,
@@ -7365,7 +8103,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Bernardo Mascarenhas",
-                  "text": "Arts centre in Juiz de Fora.",
+                  "text": "A cultural center named after Bernardo Mascarenhas in Juiz de Fora.",
                   "category": "cultural",
                   "coords": [
                         -43.344664,
@@ -7374,7 +8112,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Tancredo Neves",
-                  "text": "Monument to Tancredo Neves in Juiz de Fora.",
+                  "text": "A monument to Tancredo Neves in Juiz de Fora, the late president.",
                   "category": "historical",
                   "coords": [
                         -43.344424,
@@ -7383,7 +8121,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Dnar Rocha",
-                  "text": "Arts centre in Juiz de Fora.",
+                  "text": "A cultural center named after Dnar Rocha in Juiz de Fora.",
                   "category": "cultural",
                   "coords": [
                         -43.360832,
@@ -7401,7 +8139,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Catedral de Juiz de Fora",
-                  "text": "Cathedral in Juiz de Fora.",
+                  "text": "The Igreja Catedral de Juiz de Fora is the Metropolitan Cathedral dedicated to Saint Anthony.",
                   "category": "religious",
                   "coords": [
                         -43.350116,
@@ -7538,7 +8276,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Arquivo Histórico Municipal João Spadari Adami",
-                  "text": "Historisches Archiv und Museum in Caxias do Sul.",
+                  "text": "Städtisches Historisches Archiv João Spadari Adami in Do Sul, benannt nach dem Historiker.",
                   "category": "museum",
                   "coords": [
                         -51.164603,
@@ -7547,7 +8285,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Zambelli",
-                  "text": "Museum in Caxias do Sul.",
+                  "text": "Zambelli-Gedenkstätte in Do Sul, ein Museum zur lokalen Geschichte.",
                   "category": "museum",
                   "coords": [
                         -51.198795,
@@ -7556,7 +8294,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Stadttheater in Caxias do Sul.",
+                  "text": "Stadttheater in Do Sul, das Aufführungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -51.180254,
@@ -7565,7 +8303,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela",
-                  "text": "Museum in Caxias do Sul.",
+                  "text": "Gelbes Haus-Museum in Do Sul, ein historisches Gebäude.",
                   "category": "museum",
                   "coords": [
                         -51.152547,
@@ -7574,7 +8312,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Murialdo",
-                  "text": "Theater in Caxias do Sul.",
+                  "text": "Das Teatro Murialdo, benannt nach dem italienischen Heiligen Leonardo Murialdo, zeigt Theateraufführungen.",
                   "category": "cultural",
                   "coords": [
                         -51.1793,
@@ -7583,7 +8321,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Caxias do Sul",
-                  "text": "Städtisches Museum in Caxias do Sul.",
+                  "text": "Das Städtische Museum von Caxias do Sul dokumentiert die lokale Geschichte und Kultur.",
                   "category": "museum",
                   "coords": [
                         -51.181251,
@@ -7592,7 +8330,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu dos Ex-combatentes da FEB",
-                  "text": "Museum zur Geschichte der Veteranen in Caxias do Sul.",
+                  "text": "Das Museum der FEB-Veteranen ist den brasilianischen Soldaten des Zweiten Weltkriegs gewidmet.",
                   "category": "museum",
                   "coords": [
                         -51.181731,
@@ -7601,7 +8339,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Casa de Pedra",
-                  "text": "Museum in einem historischen Steinhaus in Caxias do Sul.",
+                  "text": "Das Museum Casa de Pedra ist in einem historischen Steinhaus untergebracht.",
                   "category": "museum",
                   "coords": [
                         -51.200237,
@@ -7610,7 +8348,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Ciências Naturais - UCS",
-                  "text": "Naturkundemuseum in Caxias do Sul.",
+                  "text": "Das Naturwissenschaftliche Museum der UCS zeigt Exponate zur regionalen Biodiversität.",
                   "category": "museum",
                   "coords": [
                         -51.152816,
@@ -7619,7 +8357,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Paixão Côrtes",
-                  "text": "Traditionelles Kulturzentrum in Caxias do Sul.",
+                  "text": "Das CTG Paixão Côrtes ist ein traditionelles Gaucho-Zentrum, benannt nach dem Folkloreforscher Paixão Côrtes.",
                   "category": "cultural",
                   "coords": [
                         -51.168379,
@@ -7628,7 +8366,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rincão da Lealdade",
-                  "text": "Kulturzentrum für gaúcho-Traditionen in Caxias do Sul.",
+                  "text": "Das CTG Rincão da Lealdade ist ein Gaucho-Zentrum, dessen Name 'Ecke der Loyalität' bedeutet.",
                   "category": "cultural",
                   "coords": [
                         -51.156364,
@@ -7646,7 +8384,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Campo dos Bugres",
-                  "text": "Kulturzentrum für regionale Traditionen in Caxias do Sul.",
+                  "text": "Das CTG Campo dos Bugres ist nach einem Feld benannt, das mit indigenen Völkern verbunden ist.",
                   "category": "cultural",
                   "coords": [
                         -51.154061,
@@ -7655,7 +8393,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Tem Gente Teatrando - Espaço Cultural",
-                  "text": "Theatralischer Kulturraum in Caxias do Sul.",
+                  "text": "Tem Gente Teatrando – Espaço Cultural ist ein Kulturraum, der sich auf Theater konzentriert.",
                   "category": "cultural",
                   "coords": [
                         -51.187721,
@@ -7664,7 +8402,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Itália",
-                  "text": "Italien-Denkmal in Caxias do Sul.",
+                  "text": "Das Monumento a Itália feiert die italienische Einwanderung und Kultur in Caxias do Sul.",
                   "category": "historical",
                   "coords": [
                         -51.188367,
@@ -7673,7 +8411,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Busto de Abramo Eberle",
-                  "text": "Büste von Abramo Eberle in Caxias do Sul.",
+                  "text": "Die Büste von Abramo Eberle ehrt den Industriellen, Gründer der Eberle-Metallwerke.",
                   "category": "historical",
                   "coords": [
                         -51.159082,
@@ -7682,7 +8420,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ogum",
-                  "text": "Monkument für Ogum in Caxias do Sul.",
+                  "text": "Ogum ist eine Statue des afro-brasilianischen Orixá Ogum.",
                   "category": "historical",
                   "coords": [
                         -51.203236,
@@ -7700,7 +8438,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rodeio Minuano",
-                  "text": "Kulturzentrum für regionale Traditionen in Caxias do Sul.",
+                  "text": "Das CTG Rodeio Minuano ist ein auf Rodeos spezialisiertes Gaucho-Zentrum, benannt nach dem Minuano-Wind.",
                   "category": "cultural",
                   "coords": [
                         -51.167211,
@@ -7718,7 +8456,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Beltrão de Queiroz",
-                  "text": "Kulturzentrum Beltrão de Queiroz in Caxias do Sul.",
+                  "text": "Das Centro Cultural Beltrão de Queiroz ist nach dem lokalen Schriftsteller und Historiker benannt.",
                   "category": "cultural",
                   "coords": [
                         -51.19458,
@@ -7727,7 +8465,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Florenza Motel (Demolido)",
-                  "text": "Ruinen des ehemaligen Florenza Motels in Caxias do Sul.",
+                  "text": "Das Florenza Motel (Demolido) ist ein ehemaliges, abgerissenes Motel.",
                   "category": "historical",
                   "coords": [
                         -51.184206,
@@ -7736,7 +8474,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cápsula do Tempo",
-                  "text": "Zeitkapsel in Caxias do Sul.",
+                  "text": "Die Cápsula do Tempo ist eine in der Stadt vergrabene Zeitkapsel.",
                   "category": "landmark",
                   "coords": [
                         -51.177604,
@@ -7754,7 +8492,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Letreiro da Festa da Uva",
-                  "text": "Wahrzeichen der Festa da Uva in Caxias do Sul.",
+                  "text": "Der Letreiro da Festa da Uva ist ein großes Schild, das an das jährliche Weinfest erinnert.",
                   "category": "historical",
                   "coords": [
                         -51.197623,
@@ -7763,7 +8501,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante",
-                  "text": "Denkmal zu Ehren der Einwanderer in Caxias do Sul.",
+                  "text": "Das Monumento ao Imigrante würdigt die Einwanderer, die die Region besiedelten.",
                   "category": "historical",
                   "coords": [
                         -51.15815,
@@ -7772,7 +8510,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
-                  "text": "Städtisches Kulturzentrum in Caxias do Sul.",
+                  "text": "Das Centro Municipal de Cultura Henrique Ordovás Filho ist nach dem Dichter Henrique Ordovás Filho benannt.",
                   "category": "cultural",
                   "coords": [
                         -51.180199,
@@ -7799,7 +8537,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Capela do Santo Sepulcro",
-                  "text": "Kapelle des Heiligen Grabes in Caxias do Sul.",
+                  "text": "Kapelle des Heiligen Grabes in Do Sul, eine Nachbildung der Grabeskirche.",
                   "category": "religious",
                   "coords": [
                         -51.168239,
@@ -7819,7 +8557,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Arquivo Histórico Municipal João Spadari Adami",
-                  "text": "Történelmi levéltár és múzeum Caxias do Sulban.",
+                  "text": "João Spadari Adami Városi Történeti Levéltár Do Sulban, a történészről elnevezve.",
                   "category": "museum",
                   "coords": [
                         -51.164603,
@@ -7828,7 +8566,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Zambelli",
-                  "text": "Múzeum Caxias do Sulban.",
+                  "text": "Zambelli-emlékmű Do Sulban, helytörténeti múzeum.",
                   "category": "museum",
                   "coords": [
                         -51.198795,
@@ -7837,7 +8575,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Városi színház Caxias do Sulban.",
+                  "text": "Városi színház Do Sulban, előadások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -51.180254,
@@ -7846,7 +8584,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela",
-                  "text": "Múzeum Caxias do Sulban.",
+                  "text": "Sárga Ház Múzeum Do Sulban, egy történelmi épület.",
                   "category": "museum",
                   "coords": [
                         -51.152547,
@@ -7855,7 +8593,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Murialdo",
-                  "text": "Színház Caxias do Sulban.",
+                  "text": "A Teatro Murialdo, amely Leonardo Murialdo olasz szentről kapta a nevét, színházi előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -51.1793,
@@ -7864,7 +8602,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Caxias do Sul",
-                  "text": "Városi múzeum Caxias do Sulban.",
+                  "text": "A Caxias do Sul-i Városi Múzeum a helyi történelmet és kultúrát mutatja be.",
                   "category": "museum",
                   "coords": [
                         -51.181251,
@@ -7873,7 +8611,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu dos Ex-combatentes da FEB",
-                  "text": "A veteránok történetével foglalkozó múzeum Caxias do Sulban.",
+                  "text": "A FEB-veteránok múzeuma a második világháborúban harcoló brazil katonák előtt tiszteleg.",
                   "category": "museum",
                   "coords": [
                         -51.181731,
@@ -7882,7 +8620,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Casa de Pedra",
-                  "text": "Múzeum egy történelmi kőházban Caxias do Sulban.",
+                  "text": "A Casa de Pedra Múzeum egy történelmi kőházban kapott helyet.",
                   "category": "museum",
                   "coords": [
                         -51.200237,
@@ -7891,7 +8629,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Ciências Naturais - UCS",
-                  "text": "Természettudományi múzeum Caxias do Sulban.",
+                  "text": "Az UCS Természettudományi Múzeuma a regionális biodiverzitás kiállításait kínálja.",
                   "category": "museum",
                   "coords": [
                         -51.152816,
@@ -7900,7 +8638,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Paixão Côrtes",
-                  "text": "Hagyományőrző kulturális központ Caxias do Sulban.",
+                  "text": "A CTG Paixão Côrtes egy hagyományos gaucho központ, amely a folklorista Paixão Côrtes nevét viseli.",
                   "category": "cultural",
                   "coords": [
                         -51.168379,
@@ -7909,7 +8647,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rincão da Lealdade",
-                  "text": "Gaúcho kulturális központ Caxias do Sulban.",
+                  "text": "A CTG Rincão da Lealdade egy gaucho központ, melynek neve 'Hűség sarkát' jelent.",
                   "category": "cultural",
                   "coords": [
                         -51.156364,
@@ -7927,7 +8665,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Campo dos Bugres",
-                  "text": "Regionális hagyományokat bemutató központ Caxias do Sulban.",
+                  "text": "A CTG Campo dos Bugres egy mezőről kapta a nevét, amely az őslakosokhoz kapcsolódik.",
                   "category": "cultural",
                   "coords": [
                         -51.154061,
@@ -7936,7 +8674,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Tem Gente Teatrando - Espaço Cultural",
-                  "text": "Színházi kulturális tér Caxias do Sulban.",
+                  "text": "A Tem Gente Teatrando – Espaço Cultural egy színházra fókuszáló kulturális tér.",
                   "category": "cultural",
                   "coords": [
                         -51.187721,
@@ -7945,7 +8683,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Itália",
-                  "text": "Olaszország-emlékmű Caxias do Sulban.",
+                  "text": "A Monumento a Itália az olasz bevándorlást és kultúrát ünnepli Caxias do Sulban.",
                   "category": "historical",
                   "coords": [
                         -51.188367,
@@ -7954,7 +8692,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Busto de Abramo Eberle",
-                  "text": "Abramo Eberle mellszobra Caxias do Sulban.",
+                  "text": "Abramo Eberle mellszobra az iparmágnást, az Eberle fémgyár alapítóját tiszteli.",
                   "category": "historical",
                   "coords": [
                         -51.159082,
@@ -7963,7 +8701,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ogum",
-                  "text": "Ogum-szobor Caxias do Sulban.",
+                  "text": "Az Ogum az afro-brazil orixá Ogum szobra.",
                   "category": "historical",
                   "coords": [
                         -51.203236,
@@ -7981,7 +8719,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rodeio Minuano",
-                  "text": "Regionális hagyományokat ápoló központ Caxias do Sulban.",
+                  "text": "A CTG Rodeio Minuano egy rodeókra szakosodott gaucho központ, a Minuano szélről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -51.167211,
@@ -7999,7 +8737,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Beltrão de Queiroz",
-                  "text": "Beltrão de Queiroz kulturális központ Caxias do Sulban.",
+                  "text": "A Centro Cultural Beltrão de Queiroz a helyi író és történész, Beltrão de Queiroz nevét viseli.",
                   "category": "cultural",
                   "coords": [
                         -51.19458,
@@ -8008,7 +8746,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Florenza Motel (Demolido)",
-                  "text": "Az egykori Florenza Motel romjai Caxias do Sulban.",
+                  "text": "A Florenza Motel (Demolido) egy lebontott egykori motel.",
                   "category": "historical",
                   "coords": [
                         -51.184206,
@@ -8017,7 +8755,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cápsula do Tempo",
-                  "text": "Időkapszula Caxias do Sulban.",
+                  "text": "A Cápsula do Tempo egy időzárvány, amelyet a városban ástak el.",
                   "category": "landmark",
                   "coords": [
                         -51.177604,
@@ -8035,7 +8773,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Letreiro da Festa da Uva",
-                  "text": "A Festa da Uva jelképe Caxias do Sulban.",
+                  "text": "A Letreiro da Festa da Uva egy nagy tábla, amely az éves Szőlőfesztiválra emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -51.197623,
@@ -8044,7 +8782,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante",
-                  "text": "A bevándorlók tiszteletére állított emlékmű Caxias do Sulban.",
+                  "text": "A Monumento ao Imigrante a térséget benépesítő bevándorlók előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         -51.15815,
@@ -8053,7 +8791,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
-                  "text": "Városi kulturális központ Caxias do Sulban.",
+                  "text": "A Centro Municipal de Cultura Henrique Ordovás Filho a költő Henrique Ordovás Filhóról kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         -51.180199,
@@ -8080,7 +8818,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Capela do Santo Sepulcro",
-                  "text": "Szent Sír-kápolna Caxias do Sulban.",
+                  "text": "A Szent Sír kápolna Do Sulban, a Szent Sír-templom másolata.",
                   "category": "religious",
                   "coords": [
                         -51.168239,
@@ -8100,7 +8838,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Arquivo Histórico Municipal João Spadari Adami",
-                  "text": "Arhivă istorică și muzeu în Caxias do Sul.",
+                  "text": "Arhiva istorică municipală João Spadari Adami din Do Sul, numită după istoric.",
                   "category": "museum",
                   "coords": [
                         -51.164603,
@@ -8109,7 +8847,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Zambelli",
-                  "text": "Muzeu în Caxias do Sul.",
+                  "text": "Memorialul Zambelli din Do Sul, un muzeu al istoriei locale.",
                   "category": "museum",
                   "coords": [
                         -51.198795,
@@ -8118,7 +8856,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Teatrul municipal din Caxias do Sul.",
+                  "text": "Teatrul municipal din Do Sul, care găzduiește spectacole.",
                   "category": "cultural",
                   "coords": [
                         -51.180254,
@@ -8127,7 +8865,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela",
-                  "text": "Muzeu în Caxias do Sul.",
+                  "text": "Muzeul Casa Galbenă din Do Sul, o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         -51.152547,
@@ -8136,7 +8874,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Murialdo",
-                  "text": "Teatru în Caxias do Sul.",
+                  "text": "Teatrul Murialdo, numit după sfântul italian Leonardo Murialdo, găzduiește spectacole de teatru.",
                   "category": "cultural",
                   "coords": [
                         -51.1793,
@@ -8145,7 +8883,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Caxias do Sul",
-                  "text": "Muzeu municipal în Caxias do Sul.",
+                  "text": "Muzeul Municipal din Caxias do Sul documentează istoria și cultura locală.",
                   "category": "museum",
                   "coords": [
                         -51.181251,
@@ -8154,7 +8892,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu dos Ex-combatentes da FEB",
-                  "text": "Muzeu dedicat istoriei veteranilor în Caxias do Sul.",
+                  "text": "Muzeul Veteranilor FEB este dedicat soldaților brazilieni din Al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         -51.181731,
@@ -8163,7 +8901,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Casa de Pedra",
-                  "text": "Muzeu într-o casă istorică din piatră în Caxias do Sul.",
+                  "text": "Muzeul Casa de Pedra este găzduit într-o casă istorică din piatră.",
                   "category": "museum",
                   "coords": [
                         -51.200237,
@@ -8172,7 +8910,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Ciências Naturais - UCS",
-                  "text": "Muzeu de științe naturale în Caxias do Sul.",
+                  "text": "Muzeul de Științe Naturale – UCS prezintă exponate despre biodiversitatea regională.",
                   "category": "museum",
                   "coords": [
                         -51.152816,
@@ -8181,7 +8919,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Paixão Côrtes",
-                  "text": "Centru cultural tradițional în Caxias do Sul.",
+                  "text": "CTG Paixão Côrtes este un centru tradițional gaucho, numit după folcloristul Paixão Côrtes.",
                   "category": "cultural",
                   "coords": [
                         -51.168379,
@@ -8190,7 +8928,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rincão da Lealdade",
-                  "text": "Centru cultural pentru tradițiile gaúcho în Caxias do Sul.",
+                  "text": "CTG Rincão da Lealdade este un centru gaucho al cărui nume înseamnă „Colțul Loialității”.",
                   "category": "cultural",
                   "coords": [
                         -51.156364,
@@ -8208,7 +8946,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Campo dos Bugres",
-                  "text": "Centru cultural pentru tradițiile regionale în Caxias do Sul.",
+                  "text": "CTG Campo dos Bugres este numit după un câmp asociat cu popoarele indigene.",
                   "category": "cultural",
                   "coords": [
                         -51.154061,
@@ -8217,7 +8955,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Tem Gente Teatrando - Espaço Cultural",
-                  "text": "Spațiu cultural teatral în Caxias do Sul.",
+                  "text": "Tem Gente Teatrando – Espaço Cultural este un spațiu cultural axat pe teatru.",
                   "category": "cultural",
                   "coords": [
                         -51.187721,
@@ -8226,7 +8964,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Itália",
-                  "text": "Monument dedicat Italiei în Caxias do Sul.",
+                  "text": "Monumento a Itália celebrează imigrația și cultura italiană în Caxias do Sul.",
                   "category": "historical",
                   "coords": [
                         -51.188367,
@@ -8235,7 +8973,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Busto de Abramo Eberle",
-                  "text": "Bustul lui Abramo Eberle în Caxias do Sul.",
+                  "text": "Bustul lui Abramo Eberle onorează industrialul, fondatorul fabricii de metal Eberle.",
                   "category": "historical",
                   "coords": [
                         -51.159082,
@@ -8244,7 +8982,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ogum",
-                  "text": "Monument dedicat lui Ogum în Caxias do Sul.",
+                  "text": "Ogum este o statuie a orixá-ului afro-brazilian Ogum.",
                   "category": "historical",
                   "coords": [
                         -51.203236,
@@ -8262,7 +9000,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rodeio Minuano",
-                  "text": "Centru cultural pentru tradițiile locale în Caxias do Sul.",
+                  "text": "CTG Rodeio Minuano este un centru gaucho specializat în rodeo-uri, numit după vântul Minuano.",
                   "category": "cultural",
                   "coords": [
                         -51.167211,
@@ -8280,7 +9018,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Beltrão de Queiroz",
-                  "text": "Centru cultural Beltrão de Queiroz în Caxias do Sul.",
+                  "text": "Centrul Cultural Beltrão de Queiroz poartă numele scriitorului și istoricului local Beltrão de Queiroz.",
                   "category": "cultural",
                   "coords": [
                         -51.19458,
@@ -8289,7 +9027,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Florenza Motel (Demolido)",
-                  "text": "Ruinele fostului motel Florenza în Caxias do Sul.",
+                  "text": "Florenza Motel (Demolido) este un fost motel demolat.",
                   "category": "historical",
                   "coords": [
                         -51.184206,
@@ -8298,7 +9036,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cápsula do Tempo",
-                  "text": "Capsulă a timpului în Caxias do Sul.",
+                  "text": "Cápsula do Tempo este o capsulă a timpului îngropată în oraș.",
                   "category": "landmark",
                   "coords": [
                         -51.177604,
@@ -8316,7 +9054,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Letreiro da Festa da Uva",
-                  "text": "Simbolul festivalului Festa da Uva în Caxias do Sul.",
+                  "text": "Letreiro da Festa da Uva este un semn mare care comemorează Festivalul anual al Strugurilor.",
                   "category": "historical",
                   "coords": [
                         -51.197623,
@@ -8325,7 +9063,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante",
-                  "text": "Monument în onoarea imigranților în Caxias do Sul.",
+                  "text": "Monumento ao Imigrante aduce un omagiu imigranților care au populat regiunea.",
                   "category": "historical",
                   "coords": [
                         -51.15815,
@@ -8334,7 +9072,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
-                  "text": "Centru municipal de cultură în Caxias do Sul.",
+                  "text": "Centrul Municipal de Cultură Henrique Ordovás Filho poartă numele poetului Henrique Ordovás Filho.",
                   "category": "cultural",
                   "coords": [
                         -51.180199,
@@ -8361,7 +9099,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Capela do Santo Sepulcro",
-                  "text": "Capela Sfântului Mormânt în Caxias do Sul.",
+                  "text": "Capela Sfântului Mormânt din Do Sul, o replică a Bisericii Sfântului Mormânt.",
                   "category": "religious",
                   "coords": [
                         -51.168239,
@@ -8381,7 +9119,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Arquivo Histórico Municipal João Spadari Adami",
-                  "text": "Historical archive and museum in Caxias do Sul.",
+                  "text": "Municipal historical archive João Spadari Adami in Do Sul, named after the historian.",
                   "category": "museum",
                   "coords": [
                         -51.164603,
@@ -8390,7 +9128,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Zambelli",
-                  "text": "Museum in Caxias do Sul.",
+                  "text": "The Zambelli Memorial in Do Sul, a museum of local history.",
                   "category": "museum",
                   "coords": [
                         -51.198795,
@@ -8399,7 +9137,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Municipal theatre in Caxias do Sul.",
+                  "text": "The municipal theater in Do Sul, hosting performances.",
                   "category": "cultural",
                   "coords": [
                         -51.180254,
@@ -8408,7 +9146,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Amarela",
-                  "text": "Museum in Caxias do Sul.",
+                  "text": "The Yellow House museum in Do Sul, a historic building.",
                   "category": "museum",
                   "coords": [
                         -51.152547,
@@ -8417,7 +9155,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Murialdo",
-                  "text": "Theatre in Caxias do Sul.",
+                  "text": "Teatro Murialdo, named after the Italian saint Leonardo Murialdo, hosts theatrical performances.",
                   "category": "cultural",
                   "coords": [
                         -51.1793,
@@ -8426,7 +9164,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Caxias do Sul",
-                  "text": "Municipal museum in Caxias do Sul.",
+                  "text": "Museu Municipal de Caxias do Sul, the city's municipal museum, documents local history and culture.",
                   "category": "museum",
                   "coords": [
                         -51.181251,
@@ -8435,7 +9173,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu dos Ex-combatentes da FEB",
-                  "text": "Museum dedicated to veteran history in Caxias do Sul.",
+                  "text": "Museu dos Ex-combatentes da FEB, dedicated to the Brazilian Expeditionary Force veterans of World War II.",
                   "category": "museum",
                   "coords": [
                         -51.181731,
@@ -8444,7 +9182,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Casa de Pedra",
-                  "text": "Museum in a historic stone house in Caxias do Sul.",
+                  "text": "Museu da Casa de Pedra, a museum housed in a historic stone building.",
                   "category": "museum",
                   "coords": [
                         -51.200237,
@@ -8453,7 +9191,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Ciências Naturais - UCS",
-                  "text": "Natural history museum in Caxias do Sul.",
+                  "text": "Museu de Ciências Naturais – UCS, a natural sciences museum at the University of Caxias do Sul with regional biodiversity exhibits.",
                   "category": "museum",
                   "coords": [
                         -51.152816,
@@ -8462,7 +9200,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Paixão Côrtes",
-                  "text": "Traditional cultural centre in Caxias do Sul.",
+                  "text": "CTG Paixão Côrtes, a traditional gaucho center named after the folklorist and writer Paixão Côrtes.",
                   "category": "cultural",
                   "coords": [
                         -51.168379,
@@ -8471,7 +9209,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rincão da Lealdade",
-                  "text": "Gaúcho cultural centre in Caxias do Sul.",
+                  "text": "CTG Rincão da Lealdade, a gaucho traditions center whose name means 'Corner of Loyalty'.",
                   "category": "cultural",
                   "coords": [
                         -51.156364,
@@ -8489,7 +9227,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Campo dos Bugres",
-                  "text": "Regional culture centre in Caxias do Sul.",
+                  "text": "CTG Campo dos Bugres, a gaucho center named after a field associated with indigenous peoples.",
                   "category": "cultural",
                   "coords": [
                         -51.154061,
@@ -8498,7 +9236,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Tem Gente Teatrando - Espaço Cultural",
-                  "text": "Theatrical cultural space in Caxias do Sul.",
+                  "text": "Tem Gente Teatrando – Espaço Cultural, a cultural space focused on theatre, named after a theatre group.",
                   "category": "cultural",
                   "coords": [
                         -51.187721,
@@ -8507,7 +9245,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Itália",
-                  "text": "Monument dedicated to Italy in Caxias do Sul.",
+                  "text": "Monumento a Itália, a monument celebrating Italian immigration and culture in Caxias do Sul.",
                   "category": "historical",
                   "coords": [
                         -51.188367,
@@ -8516,7 +9254,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Busto de Abramo Eberle",
-                  "text": "Bust of Abramo Eberle in Caxias do Sul.",
+                  "text": "Busto de Abramo Eberle, a bronze bust honouring industrialist Abramo Eberle, founder of the Eberle metalworks.",
                   "category": "historical",
                   "coords": [
                         -51.159082,
@@ -8525,7 +9263,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ogum",
-                  "text": "Monument dedicated to Ogum in Caxias do Sul.",
+                  "text": "Ogum, a statue of the Afro-Brazilian deity Ogum, associated with war and iron.",
                   "category": "historical",
                   "coords": [
                         -51.203236,
@@ -8543,7 +9281,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "CTG Rodeio Minuano",
-                  "text": "Centre for local traditions in Caxias do Sul.",
+                  "text": "CTG Rodeio Minuano, a gaucho center specializing in rodeos, named after the Minuano wind.",
                   "category": "cultural",
                   "coords": [
                         -51.167211,
@@ -8561,7 +9299,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Beltrão de Queiroz",
-                  "text": "Beltrão de Queiroz cultural centre in Caxias do Sul.",
+                  "text": "Centro Cultural Beltrão de Queiroz, a cultural centre named after local writer and historian Beltrão de Queiroz.",
                   "category": "cultural",
                   "coords": [
                         -51.19458,
@@ -8570,7 +9308,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Florenza Motel (Demolido)",
-                  "text": "Ruins of the former Florenza Motel in Caxias do Sul.",
+                  "text": "Florenza Motel (Demolido), a now-demolished former motel.",
                   "category": "historical",
                   "coords": [
                         -51.184206,
@@ -8579,7 +9317,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Cápsula do Tempo",
-                  "text": "Time capsule in Caxias do Sul.",
+                  "text": "Cápsula do Tempo, a time capsule buried in the city.",
                   "category": "landmark",
                   "coords": [
                         -51.177604,
@@ -8597,7 +9335,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Letreiro da Festa da Uva",
-                  "text": "Landmark of the Festa da Uva in Caxias do Sul.",
+                  "text": "Letreiro da Festa da Uva, a large sign commemorating the annual Grape Festival.",
                   "category": "historical",
                   "coords": [
                         -51.197623,
@@ -8606,7 +9344,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante",
-                  "text": "Monument in honor of immigrants in Caxias do Sul.",
+                  "text": "Monumento ao Imigrante, a monument paying tribute to the immigrants who settled the region.",
                   "category": "historical",
                   "coords": [
                         -51.15815,
@@ -8615,7 +9353,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
-                  "text": "Municipal cultural centre in Caxias do Sul.",
+                  "text": "Centro Municipal de Cultura Henrique Ordovás Filho, a municipal cultural centre named after the poet Henrique Ordovás Filho.",
                   "category": "cultural",
                   "coords": [
                         -51.180199,
@@ -8642,7 +9380,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Capela do Santo Sepulcro",
-                  "text": "Chapel of the Holy Sepulchre in Caxias do Sul.",
+                  "text": "Chapel of the Holy Sepulchre in Do Sul, a replica of the Church of the Holy Sepulchre.",
                   "category": "religious",
                   "coords": [
                         -51.168239,
@@ -8685,7 +9423,1096 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["A thriving industrial city in the mountainous region (Serra Gaúcha), deeply rooted in the history of Italian immigration.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
     }, image: "/poi-images/caxias-do-sul-cities-v2.webp"},
   {
-    id: "niteroi-cities-v2", "sights": {"de": [{"name": "Museu do Ingá", "text": "Das Museu do Ingá ist ein Museum für Geschichte und Kunst in Niterói.", "category": "museum", "coords": [-43.125394, -22.903601]}, {"name": "Museu de Arte Contemporânea", "text": "Das Niterói Contemporary Art Museum ist ein von Oscar Niemeyer entworfenes Kunstmuseum in Niterói.", "category": "museum", "coords": [-43.125869, -22.907933]}, {"name": "Teatro MPB-4", "text": "Teatro MPB-4 ist ein Theater in Niterói.", "category": "cultural", "coords": [-43.12567, -22.896631]}, {"name": "Museu Janete Costa de Arte Popular", "text": "Museu Janete Costa de Arte Popular ist ein Museum in Niterói.", "category": "museum", "coords": [-43.127849, -22.903577]}, {"name": "Teatro Abel", "text": "Teatro Abel ist ein Theater in Niterói.", "category": "cultural", "coords": [-43.109296, -22.899734]}, {"name": "Memorial Ponte Rio-Niterói", "text": "Memorial Ponte Rio-Niterói ist ein Museum in Niterói.", "category": "museum", "coords": [-43.114495, -22.877714]}, {"name": "Museu Antônio Parreiras", "text": "Museu Antônio Parreiras ist ein Museum in Niterói.", "category": "museum", "coords": [-43.126026, -22.901757]}, {"name": "Praia de Icaraí", "text": "Die Praia de Icaraí gehört zu den bekanntesten Stränden in Niterói und fasziniert mit einer herrlichen Aussicht auf die Bucht von Guanabara. Die belebte Uferpromenade zieht sowohl Einheimische als auch Touristen für ausgedehnte Spaziergänge und sportliche Aktivitäten an. Man kann wunderbar im Sand sitzen und den imposanten Blick auf Rio de Janeiro genießen. Ein Besuch zum Sonnenuntergang verspricht ein besonders stimmungsvolles Panorama.", "category": "recreational", "coords": [-43.113861, -22.908884]}, {"name": "Praia da Boa Viagem", "text": "Die Praia da Boa Viagem in Niterói besticht durch ihre charmante Lage und den Blick auf die kleine, vorgelagerte Insel gleichen Namens. Dieser eher ruhige Küstenstreifen ist ein wunderbarer Ort, um fernab der großen Touristenmassen am Wasser zu entspannen. Das sanfte Rauschen der Bucht lädt zum Träumen und zu gemütlichen Strandspaziergängen ein. Am besten kombiniert man den Strandbesuch mit einem Spaziergang zu den umliegenden historischen Sehenswürdigkeiten.", "category": "recreational", "coords": [-43.128253, -22.908578]}, {"name": "Centro Cultural Pascoal Carlos Magno", "text": "Centro Cultural Pascoal Carlos Magno ist ein Museum in Niterói.", "category": "museum", "coords": [-43.107435, -22.902954]}, {"name": "Theatro Municipal de Niterói", "text": "Theatro Municipal de Niterói ist ein Theater in Niterói.", "category": "cultural", "coords": [-43.123264, -22.895846]}, {"name": "Praia do Gragoatá", "text": "Die Praia do Gragoatá ist ein malerischer Strand in Niterói, der sich hervorragend für entspannte Stunden am Rande der Guanabara-Bucht eignet. Die friedliche Atmosphäre dieses Küstenabschnitts schätzen vor allem jene, die eine gemütliche Umgebung zum Lesen oder Sonnenbaden suchen. Von hier aus bietet sich ein reizvoller Blick auf das ruhige Wasser und die Skyline in der Ferne. Ein morgendlicher Besuch sorgt für einen frischen und inspirierenden Start in den Tag.", "category": "recreational", "coords": [-43.136171, -22.902154]}, {"name": "Praia Grande", "text": "Praia Grande erstreckt sich als ein weitläufiger Strandabschnitt in Niterói und lädt zu ausgiebigen Entdeckungstouren am Wasser ein. Das großzügige Ufer bietet reichlich Platz für sommerliche Aktivitäten, vom gemütlichen Spaziergang bis zum entspannten Verweilen im Sand. Die lokale Atmosphäre ist stets spürbar und macht den Ort zu einem authentischen Erlebnis für Küstenliebhaber. Bei einem Besuch empfiehlt es sich, die sanfte Meeresbrise bei einem langen Spaziergang zu genießen.", "category": "recreational", "coords": [-43.124877, -22.894909]}, {"name": "Teatro Popular de Niterói", "text": "Teatro Popular de Niterói ist ein Theater in Niterói.", "category": "cultural", "coords": [-43.12833, -22.889979]}, {"name": "Teatro Eduardo Kraichete", "text": "Teatro Eduardo Kraichete ist ein Theater in Niterói.", "category": "cultural", "coords": [-43.108598, -22.901033]}, {"name": "Praia das Flechas", "text": "Die Praia das Flechas ist ein attraktiver Strand in Niterói, der durch seine wunderbare Aussicht auf die Weiten der Bucht besticht. Dieser charmante Küstenstreifen ist ein beliebter Ort, um das maritime Flair der Region hautnah zu erleben. Besucher können hier auf den weichen Sandflächen entspannen und das sanfte Einrollen der Wellen beobachten. Am späten Nachmittag entfaltet sich hier ein besonders malerisches Licht, das zum Verweilen einlädt.", "category": "recreational", "coords": [-43.122699, -22.905447]}, {"name": "Morro da Armação", "text": "Morro da Armação ist ein Berggipfel in Niterói.", "category": "natural", "coords": [-43.128957, -22.880564]}, {"name": "Praça General Gomes Carneiro", "text": "Die Praça General Gomes Carneiro ist ein öffentlicher Park in Niterói.", "category": "park", "coords": [-43.121838, -22.895905]}, {"name": "G.R.E.S. Acadêmicos do Cubango", "text": "G.R.E.S. Acadêmicos do Cubango ist eine Sambaschule und Attraktion in Niterói.", "category": "landmark", "coords": [-43.095533, -22.889761]}, {"name": "Busto de Dom Pedro II", "text": "Busto de Dom Pedro II ist ein Denkmal in Niterói.", "category": "historical", "coords": [-43.130513, -22.899529]}, {"name": "Espaço Cultural dos Correios (ECC)", "text": "Espaço Cultural dos Correios (ECC) ist ein Kunstzentrum in Niterói.", "category": "cultural", "coords": [-43.12363, -22.894852]}, {"name": "Ponto de Encontro do passeio da Ilha da Boa Viagem", "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem ist eine Touristenattraktion in Niterói.", "category": "landmark", "coords": [-43.13084, -22.908387]}, {"name": "Triunfo da República", "text": "Triunfo da República ist ein Denkmal in Niterói.", "category": "historical", "coords": [-43.117056, -22.893978]}, {"name": "Fundação Oscar Niemeyer", "text": "Fundação Oscar Niemeyer ist ein Kunstzentrum in Niterói.", "category": "cultural", "coords": [-43.128343, -22.888593]}, {"name": "Centro Cultural Abrigo de Bondes", "text": "Centro Cultural Abrigo de Bondes ist ein Kunstzentrum in Niterói.", "category": "cultural", "coords": [-43.114633, -22.889802]}, {"name": "Centro de Artes da UFF", "text": "Centro de Artes da UFF ist ein Kunstzentrum in Niterói.", "category": "cultural", "coords": [-43.116596, -22.903193]}, {"name": "Centro Petrobras de Cinema", "text": "Centro Petrobras de Cinema ist ein Kunstzentrum in Niterói.", "category": "cultural", "coords": [-43.130761, -22.898144]}, {"name": "Catedral São João Batista", "text": "Die Catedral São João Batista ist die katholische Kathedrale von Niterói.", "category": "religious", "coords": [-43.12039, -22.891507]}, {"name": "Centro Cultural La Salle", "text": "Centro Cultural La Salle ist ein Sportzentrum in Niterói.", "category": "landmark", "coords": [-43.109073, -22.89875]}, {"name": "Casa de Oliveira Vianna", "text": "Casa de Oliveira Vianna ist ein Haus in Niterói.", "category": "landmark", "coords": [-43.108807, -22.880243]}], "hu": [{"name": "Museu do Ingá", "text": "A Museu do Ingá egy történelmi és művészeti múzeum Niterói városában.", "category": "museum", "coords": [-43.125394, -22.903601]}, {"name": "Museu de Arte Contemporânea", "text": "A Niterói Contemporary Art Museum egy Oscar Niemeyer által tervezett művészeti múzeum Niterói városában.", "category": "museum", "coords": [-43.125869, -22.907933]}, {"name": "Teatro MPB-4", "text": "A Teatro MPB-4 egy színház Niterói városában.", "category": "cultural", "coords": [-43.12567, -22.896631]}, {"name": "Museu Janete Costa de Arte Popular", "text": "A Museu Janete Costa de Arte Popular egy múzeum Niterói városában.", "category": "museum", "coords": [-43.127849, -22.903577]}, {"name": "Teatro Abel", "text": "A Teatro Abel egy színház Niterói városában.", "category": "cultural", "coords": [-43.109296, -22.899734]}, {"name": "Memorial Ponte Rio-Niterói", "text": "A Memorial Ponte Rio-Niterói egy múzeum Niterói városában.", "category": "museum", "coords": [-43.114495, -22.877714]}, {"name": "Museu Antônio Parreiras", "text": "A Museu Antônio Parreiras egy múzeum Niterói városában.", "category": "museum", "coords": [-43.126026, -22.901757]}, {"name": "Praia de Icaraí", "text": "A Praia de Icaraí Niterói egyik legismertebb strandja, amely a Guanabara-öbölre nyíló csodálatos kilátással büszkélkedhet. A forgalmas tengerparti sétány a helyieket és a turistákat egyaránt hosszú sétákra és sporttevékenységekre vonzza. Kiválóan lehet a homokban üldögélni, miközben Rio de Janeiróra nyíló impozáns látványban gyönyörködünk. Egy naplemente idején tett látogatás különösen hangulatos panorámát ígér.", "category": "recreational", "coords": [-43.113861, -22.908884]}, {"name": "Praia da Boa Viagem", "text": "A niterói Praia da Boa Viagem elragadó fekvésével és a hasonló nevű kis szigetre nyíló kilátásával varázsolja el a látogatókat. Ez a viszonylag csendes partszakasz csodálatos hely arra, hogy a nagy turistatömegektől távol, a vízparton lazítsunk. Az öböl lágy morajlása álmodozásra és kényelmes tengerparti sétákra hívogat. A strandolást érdemes a környező történelmi látnivalók felfedezésével összekötni.", "category": "recreational", "coords": [-43.128253, -22.908578]}, {"name": "Centro Cultural Pascoal Carlos Magno", "text": "A Centro Cultural Pascoal Carlos Magno egy múzeum Niterói városában.", "category": "museum", "coords": [-43.107435, -22.902954]}, {"name": "Theatro Municipal de Niterói", "text": "A Theatro Municipal de Niterói egy színház Niterói városában.", "category": "cultural", "coords": [-43.123264, -22.895846]}, {"name": "Praia do Gragoatá", "text": "A Praia do Gragoatá egy festői strand Niteróiban, amely kiválóan alkalmas a Guanabara-öböl partján eltöltött pihentető órákra. Ennek a partszakasznak a békés hangulatát különösen azok értékelik, akik kényelmes környezetet keresnek az olvasáshoz vagy a napozáshoz. Innen bájos kilátás nyílik a nyugodt vízre és a távoli sziluettre. Egy reggeli látogatás friss és inspiráló kezdést biztosít a napnak.", "category": "recreational", "coords": [-43.136171, -22.902154]}, {"name": "Praia Grande", "text": "A Praia Grande egy kiterjedt partszakaszként húzódik Niteróiban, és hosszú vízparti felfedezőutakra csábít. A tágas part bőséges helyet kínál a nyári tevékenységekhez, a kényelmes sétától a homokban való pihentető időtöltésig. A helyi atmoszféra folyamatosan érezhető, így a hely autentikus élményt nyújt a tengerpartok szerelmeseinek. Egy látogatás során érdemes egy hosszú séta keretében kiélvezni a lágy tengeri szellőt.", "category": "recreational", "coords": [-43.124877, -22.894909]}, {"name": "Teatro Popular de Niterói", "text": "A Teatro Popular de Niterói egy színház Niterói városában.", "category": "cultural", "coords": [-43.12833, -22.889979]}, {"name": "Teatro Eduardo Kraichete", "text": "A Teatro Eduardo Kraichete egy színház Niterói városában.", "category": "cultural", "coords": [-43.108598, -22.901033]}, {"name": "Praia das Flechas", "text": "A Praia das Flechas egy vonzó strand Niteróiban, amely az öböl tágas vizére nyíló csodálatos kilátásával ragadja meg az embert. Ez a bájos partszakasz kedvelt hely arra, hogy testközelből tapasztaljuk meg a régió tengeri hangulatát. A látogatók a puha homokban pihenhetnek, miközben a hullámok lágy gördülését figyelik. Késő délután különösen festői fények bontakoznak ki itt, amelyek hosszas időtöltésre csábítanak.", "category": "recreational", "coords": [-43.122699, -22.905447]}, {"name": "Morro da Armação", "text": "A Morro da Armação egy hegycsúcs Niterói városában.", "category": "natural", "coords": [-43.128957, -22.880564]}, {"name": "Praça General Gomes Carneiro", "text": "A Praça General Gomes Carneiro egy nyilvános park Niterói városában.", "category": "park", "coords": [-43.121838, -22.895905]}, {"name": "G.R.E.S. Acadêmicos do Cubango", "text": "A G.R.E.S. Acadêmicos do Cubango egy szambaiskola és turisztikai látványosság Niterói városában.", "category": "landmark", "coords": [-43.095533, -22.889761]}, {"name": "Busto de Dom Pedro II", "text": "A Busto de Dom Pedro II egy emlékmű Niterói városában.", "category": "historical", "coords": [-43.130513, -22.899529]}, {"name": "Espaço Cultural dos Correios (ECC)", "text": "Az Espaço Cultural dos Correios (ECC) egy művészeti központ Niterói városában.", "category": "cultural", "coords": [-43.12363, -22.894852]}, {"name": "Ponto de Encontro do passeio da Ilha da Boa Viagem", "text": "A Ponto de Encontro do passeio da Ilha da Boa Viagem egy turisztikai látványosság Niterói városában.", "category": "landmark", "coords": [-43.13084, -22.908387]}, {"name": "Triunfo da República", "text": "A Triunfo da República egy emlékmű Niterói városában.", "category": "historical", "coords": [-43.117056, -22.893978]}, {"name": "Fundação Oscar Niemeyer", "text": "A Fundação Oscar Niemeyer egy művészeti központ Niterói városában.", "category": "cultural", "coords": [-43.128343, -22.888593]}, {"name": "Centro Cultural Abrigo de Bondes", "text": "A Centro Cultural Abrigo de Bondes egy művészeti központ Niterói városában.", "category": "cultural", "coords": [-43.114633, -22.889802]}, {"name": "Centro de Artes da UFF", "text": "A Centro de Artes da UFF egy művészeti központ Niterói városában.", "category": "cultural", "coords": [-43.116596, -22.903193]}, {"name": "Centro Petrobras de Cinema", "text": "A Centro Petrobras de Cinema egy művészeti központ Niterói városában.", "category": "cultural", "coords": [-43.130761, -22.898144]}, {"name": "Catedral São João Batista", "text": "A Catedral São João Batista Niterói városának katolikus katedrálisa.", "category": "religious", "coords": [-43.12039, -22.891507]}, {"name": "Centro Cultural La Salle", "text": "A Centro Cultural La Salle egy sportközpont Niterói városában.", "category": "landmark", "coords": [-43.109073, -22.89875]}, {"name": "Casa de Oliveira Vianna", "text": "A Casa de Oliveira Vianna egy ház Niterói városában.", "category": "landmark", "coords": [-43.108807, -22.880243]}], "ro": [{"name": "Museu do Ingá", "text": "Museu do Ingá este un muzeu de istorie și artă situat în Niterói.", "category": "museum", "coords": [-43.125394, -22.903601]}, {"name": "Museu de Arte Contemporânea", "text": "Niterói Contemporary Art Museum este un muzeu de artă proiectat de Oscar Niemeyer în Niterói.", "category": "museum", "coords": [-43.125869, -22.907933]}, {"name": "Teatro MPB-4", "text": "Teatro MPB-4 este un teatru situat în Niterói.", "category": "cultural", "coords": [-43.12567, -22.896631]}, {"name": "Museu Janete Costa de Arte Popular", "text": "Museu Janete Costa de Arte Popular este un muzeu situat în Niterói.", "category": "museum", "coords": [-43.127849, -22.903577]}, {"name": "Teatro Abel", "text": "Teatro Abel este un teatru situat în Niterói.", "category": "cultural", "coords": [-43.109296, -22.899734]}, {"name": "Memorial Ponte Rio-Niterói", "text": "Memorial Ponte Rio-Niterói este un muzeu situat în Niterói.", "category": "museum", "coords": [-43.114495, -22.877714]}, {"name": "Museu Antônio Parreiras", "text": "Museu Antônio Parreiras este un muzeu situat în Niterói.", "category": "museum", "coords": [-43.126026, -22.901757]}, {"name": "Praia de Icaraí", "text": "Praia de Icaraí este una dintre cele mai faimoase plaje din Niterói, fascinând cu o priveliște magnifică asupra Golfului Guanabara. Promenada aglomerată atrage atât localnicii, cât și turiștii pentru plimbări lungi și activități sportive. Vă puteți așeza pe nisip și vă puteți bucura de priveliștea impunătoare spre Rio de Janeiro. O vizită la apusul soarelui promite o panoramă deosebit de plină de atmosferă.", "category": "recreational", "coords": [-43.113861, -22.908884]}, {"name": "Praia da Boa Viagem", "text": "Praia da Boa Viagem din Niterói captivează prin locația sa fermecătoare și vederea către mica insulă cu același nume din larg. Această fâșie de coastă destul de liniștită este un loc minunat pentru a vă relaxa la malul apei, departe de marile aglomerații turistice. Murmurul blând al golfului vă invită să visați și să faceți plimbări relaxante pe plajă. Cel mai bine este să combinați vizita la plajă cu o plimbare spre atracțiile istorice din jur.", "category": "recreational", "coords": [-43.128253, -22.908578]}, {"name": "Centro Cultural Pascoal Carlos Magno", "text": "Centro Cultural Pascoal Carlos Magno este un muzeu situat în Niterói.", "category": "museum", "coords": [-43.107435, -22.902954]}, {"name": "Theatro Municipal de Niterói", "text": "Theatro Municipal de Niterói este un teatru situat în Niterói.", "category": "cultural", "coords": [-43.123264, -22.895846]}, {"name": "Praia do Gragoatá", "text": "Praia do Gragoatá este o plajă pitorească din Niterói, excelentă pentru ore de relaxare pe malul Golfului Guanabara. Atmosfera pașnică a acestei porțiuni de coastă este apreciată în special de cei care caută un mediu confortabil pentru a citi sau a face plajă. De aici se oferă o priveliște fermecătoare asupra apei calme și a orizontului în depărtare. O vizită de dimineață asigură un început de zi proaspăt și plin de inspirație.", "category": "recreational", "coords": [-43.136171, -22.902154]}, {"name": "Praia Grande", "text": "Praia Grande se întinde ca o porțiune vastă de plajă în Niterói, invitând la excursii lungi de explorare la malul apei. Țărmul generos oferă spațiu din plin pentru activitățile de vară, de la o plimbare confortabilă la o odihnă relaxantă pe nisip. Atmosfera locală se face mereu simțită, transformând locul într-o experiență autentică pentru iubitorii de coastă. La o vizită, se recomandă să vă bucurați de briza blândă a mării în timpul unei plimbări lungi.", "category": "recreational", "coords": [-43.124877, -22.894909]}, {"name": "Teatro Popular de Niterói", "text": "Teatro Popular de Niterói este un teatru situat în Niterói.", "category": "cultural", "coords": [-43.12833, -22.889979]}, {"name": "Teatro Eduardo Kraichete", "text": "Teatro Eduardo Kraichete este un teatru situat în Niterói.", "category": "cultural", "coords": [-43.108598, -22.901033]}, {"name": "Praia das Flechas", "text": "Praia das Flechas este o plajă atractivă în Niterói, care impresionează prin priveliștea sa minunată asupra întinderilor golfului. Această fâșie fermecătoare de coastă este un loc popular pentru a experimenta îndeaproape flerul maritim al regiunii. Vizitatorii se pot relaxa aici pe nisipul moale și pot urmări rostogolirea blândă a valurilor. După-amiaza târziu se desfășoară aici o lumină deosebit de pitorească, care invită la zăbovire.", "category": "recreational", "coords": [-43.122699, -22.905447]}, {"name": "Morro da Armação", "text": "Morro da Armação este un vârf montan situat în Niterói.", "category": "natural", "coords": [-43.128957, -22.880564]}, {"name": "Praça General Gomes Carneiro", "text": "Praça General Gomes Carneiro este un parc public situat în Niterói.", "category": "park", "coords": [-43.121838, -22.895905]}, {"name": "G.R.E.S. Acadêmicos do Cubango", "text": "G.R.E.S. Acadêmicos do Cubango este o școală de samba și atracție turistică în Niterói.", "category": "landmark", "coords": [-43.095533, -22.889761]}, {"name": "Busto de Dom Pedro II", "text": "Busto de Dom Pedro II este un monument situat în Niterói.", "category": "historical", "coords": [-43.130513, -22.899529]}, {"name": "Espaço Cultural dos Correios (ECC)", "text": "Espaço Cultural dos Correios (ECC) este un centru de arte situat în Niterói.", "category": "cultural", "coords": [-43.12363, -22.894852]}, {"name": "Ponto de Encontro do passeio da Ilha da Boa Viagem", "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem este o atracție turistică situată în Niterói.", "category": "landmark", "coords": [-43.13084, -22.908387]}, {"name": "Triunfo da República", "text": "Triunfo da República este un monument situat în Niterói.", "category": "historical", "coords": [-43.117056, -22.893978]}, {"name": "Fundação Oscar Niemeyer", "text": "Fundação Oscar Niemeyer este un centru de arte situat în Niterói.", "category": "cultural", "coords": [-43.128343, -22.888593]}, {"name": "Centro Cultural Abrigo de Bondes", "text": "Centro Cultural Abrigo de Bondes este un centru de arte situat în Niterói.", "category": "cultural", "coords": [-43.114633, -22.889802]}, {"name": "Centro de Artes da UFF", "text": "Centro de Artes da UFF este un centru de arte situat în Niterói.", "category": "cultural", "coords": [-43.116596, -22.903193]}, {"name": "Centro Petrobras de Cinema", "text": "Centro Petrobras de Cinema este un centru de arte situat în Niterói.", "category": "cultural", "coords": [-43.130761, -22.898144]}, {"name": "Catedral São João Batista", "text": "Catedral São João Batista este catedrala catolică din Niterói.", "category": "religious", "coords": [-43.12039, -22.891507]}, {"name": "Centro Cultural La Salle", "text": "Centro Cultural La Salle este un centru sportiv din Niterói.", "category": "landmark", "coords": [-43.109073, -22.89875]}, {"name": "Casa de Oliveira Vianna", "text": "Casa de Oliveira Vianna este o casă situată în Niterói.", "category": "landmark", "coords": [-43.108807, -22.880243]}], "en": [{"name": "Museu do Ingá", "text": "The Museu do Ingá is a history and arts museum located in Niterói.", "category": "museum", "coords": [-43.125394, -22.903601]}, {"name": "Niterói Contemporary Art Museum", "text": "The Niterói Contemporary Art Museum is an art museum designed by Oscar Niemeyer in Niterói.", "category": "museum", "coords": [-43.125869, -22.907933]}, {"name": "Teatro MPB-4", "text": "Teatro MPB-4 is a theatre located in Niterói.", "category": "cultural", "coords": [-43.12567, -22.896631]}, {"name": "Museu Janete Costa de Arte Popular", "text": "Museu Janete Costa de Arte Popular is a museum located in Niterói.", "category": "museum", "coords": [-43.127849, -22.903577]}, {"name": "Teatro Abel", "text": "Teatro Abel is a theatre located in Niterói.", "category": "cultural", "coords": [-43.109296, -22.899734]}, {"name": "Memorial Ponte Rio-Niterói", "text": "Memorial Ponte Rio-Niterói is a museum located in Niterói.", "category": "museum", "coords": [-43.114495, -22.877714]}, {"name": "Museu Antônio Parreiras", "text": "Museu Antônio Parreiras is a museum located in Niterói.", "category": "museum", "coords": [-43.126026, -22.901757]}, {"name": "Praia de Icaraí", "text": "Praia de Icaraí is one of the most famous beaches in Niterói, captivating visitors with magnificent views over Guanabara Bay. The bustling waterfront promenade attracts both locals and tourists for long walks and outdoor sports. You can sit comfortably on the sand while admiring the impressive skyline of Rio de Janeiro. Visiting during sunset promises a particularly atmospheric and stunning panorama.", "category": "recreational", "coords": [-43.113861, -22.908884]}, {"name": "Praia da Boa Viagem", "text": "Praia da Boa Viagem in Niterói captivates with its charming location and views of the small offshore island bearing the same name. This rather quiet stretch of coastline is a wonderful place to relax by the water, away from large tourist crowds. The gentle murmur of the bay invites you to daydream and take leisurely strolls along the sand. It is best to combine your beach visit with a walk to the nearby historical landmarks.", "category": "recreational", "coords": [-43.128253, -22.908578]}, {"name": "Centro Cultural Pascoal Carlos Magno", "text": "Centro Cultural Pascoal Carlos Magno is a museum located in Niterói.", "category": "museum", "coords": [-43.107435, -22.902954]}, {"name": "Theatro Municipal de Niterói", "text": "Theatro Municipal de Niterói is a theatre located in Niterói.", "category": "cultural", "coords": [-43.123264, -22.895846]}, {"name": "Praia do Gragoatá", "text": "Praia do Gragoatá is a picturesque beach in Niterói, excellent for spending relaxing hours along the edge of Guanabara Bay. The peaceful atmosphere of this coastal stretch is highly appreciated by those seeking a cozy environment for reading or sunbathing. It offers a charming view of the calm waters and the distant skyline. A morning visit provides a fresh and inspiring start to your day.", "category": "recreational", "coords": [-43.136171, -22.902154]}, {"name": "Praia Grande", "text": "Praia Grande stretches out as an expansive section of beach in Niterói, inviting visitors for long, exploratory walks by the water. The generous shoreline provides plenty of space for summer activities, from a comfortable stroll to relaxing on the sand. The local atmosphere is always palpable, making this spot an authentic experience for coastal enthusiasts. When visiting, it is highly recommended to enjoy the gentle sea breeze during an extended walk.", "category": "recreational", "coords": [-43.124877, -22.894909]}, {"name": "Teatro Popular de Niterói", "text": "Teatro Popular de Niterói is a theatre located in Niterói.", "category": "cultural", "coords": [-43.12833, -22.889979]}, {"name": "Teatro Eduardo Kraichete", "text": "Teatro Eduardo Kraichete is a theatre located in Niterói.", "category": "cultural", "coords": [-43.108598, -22.901033]}, {"name": "Praia das Flechas", "text": "Praia das Flechas is an attractive beach in Niterói, captivating guests with its wonderful views over the expanses of the bay. This charming stretch of coastline is a favored spot for experiencing the maritime flair of the region up close. Visitors can relax on the soft sandy areas while watching the gentle roll of the waves. Late afternoon brings a particularly picturesque light here, making it hard to leave.", "category": "recreational", "coords": [-43.122699, -22.905447]}, {"name": "Morro da Armação", "text": "Morro da Armação is a peak situated in Niterói.", "category": "natural", "coords": [-43.128957, -22.880564]}, {"name": "Praça General Gomes Carneiro", "text": "Praça General Gomes Carneiro is a public park located in Niterói.", "category": "park", "coords": [-43.121838, -22.895905]}, {"name": "G.R.E.S. Acadêmicos do Cubango", "text": "G.R.E.S. Acadêmicos do Cubango is a samba school and tourist attraction located in Niterói.", "category": "landmark", "coords": [-43.095533, -22.889761]}, {"name": "Busto de Dom Pedro II", "text": "Busto de Dom Pedro II is a monument located in Niterói.", "category": "historical", "coords": [-43.130513, -22.899529]}, {"name": "Espaço Cultural dos Correios (ECC)", "text": "Espaço Cultural dos Correios (ECC) is an arts centre located in Niterói.", "category": "cultural", "coords": [-43.12363, -22.894852]}, {"name": "Ponto de Encontro do passeio da Ilha da Boa Viagem", "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem is a tourist attraction located in Niterói.", "category": "landmark", "coords": [-43.13084, -22.908387]}, {"name": "Triunfo da República", "text": "Triunfo da República is a monument located in Niterói.", "category": "historical", "coords": [-43.117056, -22.893978]}, {"name": "Fundação Oscar Niemeyer", "text": "Fundação Oscar Niemeyer is an arts centre located in Niterói.", "category": "cultural", "coords": [-43.128343, -22.888593]}, {"name": "Centro Cultural Abrigo de Bondes", "text": "Centro Cultural Abrigo de Bondes is an arts centre located in Niterói.", "category": "cultural", "coords": [-43.114633, -22.889802]}, {"name": "Centro de Artes da UFF", "text": "Centro de Artes da UFF is an arts centre located in Niterói.", "category": "cultural", "coords": [-43.116596, -22.903193]}, {"name": "Centro Petrobras de Cinema", "text": "Centro Petrobras de Cinema is an arts centre located in Niterói.", "category": "cultural", "coords": [-43.130761, -22.898144]}, {"name": "Catedral São João Batista", "text": "Catedral São João Batista is the Catholic cathedral of Niterói.", "category": "religious", "coords": [-43.12039, -22.891507]}, {"name": "Centro Cultural La Salle", "text": "Centro Cultural La Salle is a sports centre located in Niterói.", "category": "landmark", "coords": [-43.109073, -22.89875]}, {"name": "Casa de Oliveira Vianna", "text": "Casa de Oliveira Vianna is a house located in Niterói.", "category": "landmark", "coords": [-43.108807, -22.880243]}]},
+    id: "niteroi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Das Museu do Ingá ist in einem Palast aus dem 19. Jahrhundert in Niterói untergebracht und zeigt die Geschichte des Bundesstaates Rio de Janeiro.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "Das Niterói Contemporary Art Museum ist ein ikonisches UFO-förmiges Museum von Oscar Niemeyer über der Guanabara-Bucht.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "Das Teatro MPB-4 ist nach der brasilianischen Vokalgruppe MPB-4 benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "Das Museu Janete Costa de Arte Popular zeigt brasilianische Volkskunst, benannt nach der Kuratorin Janete Costa.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "Das Teatro Abel ist nach einer lokalen Persönlichkeit benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "Das Memorial Ponte Rio-Niterói ist dem Bau der Brücke zwischen Rio und Niterói gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "Das Museu Antônio Parreiras befindet sich im ehemaligen Wohnhaus des Landschaftsmalers und zeigt seine Werke.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "Die Praia de Icaraí gehört zu den bekanntesten Stränden in Niterói und fasziniert mit einer herrlichen Aussicht auf die Bucht von Guanabara. Die belebte Uferpromenade zieht sowohl Einheimische als auch Touristen für ausgedehnte Spaziergänge und sportliche Aktivitäten an. Man kann wunderbar im Sand sitzen und den imposanten Blick auf Rio de Janeiro genießen. Ein Besuch zum Sonnenuntergang verspricht ein besonders stimmungsvolles Panorama.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "Die Praia da Boa Viagem in Niterói besticht durch ihre charmante Lage und den Blick auf die kleine, vorgelagerte Insel gleichen Namens. Dieser eher ruhige Küstenstreifen ist ein wunderbarer Ort, um fernab der großen Touristenmassen am Wasser zu entspannen. Das sanfte Rauschen der Bucht lädt zum Träumen und zu gemütlichen Strandspaziergängen ein. Am besten kombiniert man den Strandbesuch mit einem Spaziergang zu den umliegenden historischen Sehenswürdigkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Das Centro Cultural Pascoal Carlos Magno ist nach dem Theaterregisseur Pascoal Carlos Magno benannt.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "Das Theatro Municipal de Niterói ist ein historisches Stadttheater mit neoklassizistischer Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "Die Praia do Gragoatá ist ein malerischer Strand in Niterói, der sich hervorragend für entspannte Stunden am Rande der Guanabara-Bucht eignet. Die friedliche Atmosphäre dieses Küstenabschnitts schätzen vor allem jene, die eine gemütliche Umgebung zum Lesen oder Sonnenbaden suchen. Von hier aus bietet sich ein reizvoller Blick auf das ruhige Wasser und die Skyline in der Ferne. Ein morgendlicher Besuch sorgt für einen frischen und inspirierenden Start in den Tag.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande erstreckt sich als ein weitläufiger Strandabschnitt in Niterói und lädt zu ausgiebigen Entdeckungstouren am Wasser ein. Das großzügige Ufer bietet reichlich Platz für sommerliche Aktivitäten, vom gemütlichen Spaziergang bis zum entspannten Verweilen im Sand. Die lokale Atmosphäre ist stets spürbar und macht den Ort zu einem authentischen Erlebnis für Küstenliebhaber. Bei einem Besuch empfiehlt es sich, die sanfte Meeresbrise bei einem langen Spaziergang zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "Das Teatro Popular de Niterói zeigt lokale und brasilianische Theaterstücke.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "Das Teatro Eduardo Kraichete ist nach dem Theaterproduzenten Eduardo Kraichete benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "Die Praia das Flechas ist ein attraktiver Strand in Niterói, der durch seine wunderbare Aussicht auf die Weiten der Bucht besticht. Dieser charmante Küstenstreifen ist ein beliebter Ort, um das maritime Flair der Region hautnah zu erleben. Besucher können hier auf den weichen Sandflächen entspannen und das sanfte Einrollen der Wellen beobachten. Am späten Nachmittag entfaltet sich hier ein besonders malerisches Licht, das zum Verweilen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação, ein Hügel in Niterói mit Panoramablick auf die Bucht von Guanabara.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Praça General Gomes Carneiro, ein Platz mit Gärten und einem Denkmal für den General.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "G.R.E.S. Acadêmicos do Cubango ist eine Sambaschule und Attraktion in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "Die Büste von Dom Pedro II zeigt den brasilianischen Kaiser auf einem Platz.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Der Espaço Cultural dos Correios (ECC) ist ein Kulturzentrum der brasilianischen Post mit Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "Der Treffpunkt auf der Ilha da Boa Viagem liegt an der malerischen Uferpromenade mit Blick auf die Guanabara-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "Triunfo da República ist ein Denkmal zur Erinnerung an die Ausrufung der Republik.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "Die Fundação Oscar Niemeyer ist dem Architekten gewidmet und befindet sich in einem von ihm entworfenen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "Das Centro Cultural Abrigo de Bondes ist in einem historischen Straßenbahndepot untergebracht.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "Das Centro de Artes da UFF ist ein Kunstzentrum der Bundesuniversität Fluminense mit kulturellen Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "Das Centro Petrobras de Cinema ist ein Kino- und Audiovisionszentrum, das vom staatlichen Ölkonzern Petrobras unterstützt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "Die Catedral São João Batista in Niterói ist eine neugotische Kathedrale.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "Das Centro Cultural La Salle ist dem La-Salle-Bildungsnetzwerk angeschlossen.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "Die Casa de Oliveira Vianna ist das ehemalige Wohnhaus des Soziologen Oliveira Vianna, heute ein Kulturraum.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "A Museu do Ingá egy 19. századi palotában kapott helyet Niteróiban, Rio de Janeiro állam történetét bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "A Niterói Kortárs Művészeti Múzeum egy ikonikus, csészealj alakú Oscar Niemeyer-épület a Guanabara-öböl fölött.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "A Teatro MPB-4 a brazil MPB-4 vokálegyüttesről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "A Museu Janete Costa de Arte Popular a kurátor Janete Costáról elnevezett népi művészeti múzeum, brazil népművészetet bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "A Teatro Abel egy helyi személyiségről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "A Memorial Ponte Rio-Niterói a Rio-Niterói híd építésének és történetének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "A Museu Antônio Parreiras a tájfestő egykori otthonában található, műveit kiállítva.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "A Praia de Icaraí Niterói egyik legismertebb strandja, amely a Guanabara-öbölre nyíló csodálatos kilátással büszkélkedhet. A forgalmas tengerparti sétány a helyieket és a turistákat egyaránt hosszú sétákra és sporttevékenységekre vonzza. Kiválóan lehet a homokban üldögélni, miközben Rio de Janeiróra nyíló impozáns látványban gyönyörködünk. Egy naplemente idején tett látogatás különösen hangulatos panorámát ígér.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "A niterói Praia da Boa Viagem elragadó fekvésével és a hasonló nevű kis szigetre nyíló kilátásával varázsolja el a látogatókat. Ez a viszonylag csendes partszakasz csodálatos hely arra, hogy a nagy turistatömegektől távol, a vízparton lazítsunk. Az öböl lágy morajlása álmodozásra és kényelmes tengerparti sétákra hívogat. A strandolást érdemes a környező történelmi látnivalók felfedezésével összekötni.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "A Centro Cultural Pascoal Carlos Magno a színházrendező Pascoal Carlos Magno nevét viseli.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "A Theatro Municipal de Niterói egy történelmi városi színház neoklasszicista építészettel.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "A Praia do Gragoatá egy festői strand Niteróiban, amely kiválóan alkalmas a Guanabara-öböl partján eltöltött pihentető órákra. Ennek a partszakasznak a békés hangulatát különösen azok értékelik, akik kényelmes környezetet keresnek az olvasáshoz vagy a napozáshoz. Innen bájos kilátás nyílik a nyugodt vízre és a távoli sziluettre. Egy reggeli látogatás friss és inspiráló kezdést biztosít a napnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy kiterjedt partszakaszként húzódik Niteróiban, és hosszú vízparti felfedezőutakra csábít. A tágas part bőséges helyet kínál a nyári tevékenységekhez, a kényelmes sétától a homokban való pihentető időtöltésig. A helyi atmoszféra folyamatosan érezhető, így a hely autentikus élményt nyújt a tengerpartok szerelmeseinek. Egy látogatás során érdemes egy hosszú séta keretében kiélvezni a lágy tengeri szellőt.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "A Teatro Popular de Niterói helyi és brazil színdarabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "A Teatro Eduardo Kraichete a színházi producer Eduardo Kraichtéről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "A Praia das Flechas egy vonzó strand Niteróiban, amely az öböl tágas vizére nyíló csodálatos kilátásával ragadja meg az embert. Ez a bájos partszakasz kedvelt hely arra, hogy testközelből tapasztaljuk meg a régió tengeri hangulatát. A látogatók a puha homokban pihenhetnek, miközben a hullámok lágy gördülését figyelik. Késő délután különösen festői fények bontakoznak ki itt, amelyek hosszas időtöltésre csábítanak.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação, egy domb Niteróiban, panorámás kilátással a Guanabara-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Praça General Gomes Carneiro, egy tér kertekkel és a tábornok emlékművével.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "A G.R.E.S. Acadêmicos do Cubango egy szambaiskola és turisztikai látványosság Niterói városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "II. Pedro császár mellszobra egy téren áll.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Az Espaço Cultural dos Correios (ECC) a brazil posta kulturális központja kiállításokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "A találkozási pont az Ilha da Boa Viagem sétányán a Guanabara-öbölre nyújt kilátást.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "A Triunfo da República a Köztársaság kikiáltásának emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "A Fundação Oscar Niemeyer az építésznek szentelt alapítvány, az általa tervezett épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "A Centro Cultural Abrigo de Bondes egy történelmi villamoskocsi-színben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "A Centro de Artes da UFF a Fluminense Szövetségi Egyetem művészeti központja kulturális eseményekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "A Centro Petrobras de Cinema egy mozi- és audiovizuális központ, amelyet az állami olajtársaság, a Petrobras támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "A Niterói-i São João Batista-székesegyház neogótikus stílusú.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "A Centro Cultural La Salle a La Salle oktatási hálózathoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "A Casa de Oliveira Vianna a szociológus egykori otthona, ma kulturális tér.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Muzeul Ingá este găzduit într-un palat din secolul al XIX-lea din Niterói, expunând istoria statului Rio de Janeiro.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "Muzeul de Artă Contemporană din Niterói este o clădire iconică în formă de farfurie zburătoare, proiectată de Oscar Niemeyer, deasupra golfului Guanabara.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "Teatrul MPB-4 poartă numele grupului vocal brazilian MPB-4.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "Muzeul Janete Costa de Artă Populară este un muzeu de artă populară numit după curatoarea Janete Costa, prezentând artă populară braziliană.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "Teatrul Abel poartă numele unei personalități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "Memorialul Ponte Rio-Niterói este dedicat construcției și istoriei Podului Rio-Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "Muzeul Antônio Parreiras se află în fosta casă a pictorului peisagist, expunând operele sale.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "Praia de Icaraí este una dintre cele mai faimoase plaje din Niterói, fascinând cu o priveliște magnifică asupra Golfului Guanabara. Promenada aglomerată atrage atât localnicii, cât și turiștii pentru plimbări lungi și activități sportive. Vă puteți așeza pe nisip și vă puteți bucura de priveliștea impunătoare spre Rio de Janeiro. O vizită la apusul soarelui promite o panoramă deosebit de plină de atmosferă.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "Praia da Boa Viagem din Niterói captivează prin locația sa fermecătoare și vederea către mica insulă cu același nume din larg. Această fâșie de coastă destul de liniștită este un loc minunat pentru a vă relaxa la malul apei, departe de marile aglomerații turistice. Murmurul blând al golfului vă invită să visați și să faceți plimbări relaxante pe plajă. Cel mai bine este să combinați vizita la plajă cu o plimbare spre atracțiile istorice din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Centrul Cultural Pascoal Carlos Magno poartă numele regizorului de teatru Pascoal Carlos Magno.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "Teatrul Municipal din Niterói este un teatru istoric cu arhitectură neoclasică.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "Praia do Gragoatá este o plajă pitorească din Niterói, excelentă pentru ore de relaxare pe malul Golfului Guanabara. Atmosfera pașnică a acestei porțiuni de coastă este apreciată în special de cei care caută un mediu confortabil pentru a citi sau a face plajă. De aici se oferă o priveliște fermecătoare asupra apei calme și a orizontului în depărtare. O vizită de dimineață asigură un început de zi proaspăt și plin de inspirație.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande se întinde ca o porțiune vastă de plajă în Niterói, invitând la excursii lungi de explorare la malul apei. Țărmul generos oferă spațiu din plin pentru activitățile de vară, de la o plimbare confortabilă la o odihnă relaxantă pe nisip. Atmosfera locală se face mereu simțită, transformând locul într-o experiență autentică pentru iubitorii de coastă. La o vizită, se recomandă să vă bucurați de briza blândă a mării în timpul unei plimbări lungi.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "Teatrul Popular din Niterói prezintă piese locale și braziliene.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "Teatrul Eduardo Kraichete poartă numele producătorului de teatru Eduardo Kraichete.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "Praia das Flechas este o plajă atractivă în Niterói, care impresionează prin priveliștea sa minunată asupra întinderilor golfului. Această fâșie fermecătoare de coastă este un loc popular pentru a experimenta îndeaproape flerul maritim al regiunii. Vizitatorii se pot relaxa aici pe nisipul moale și pot urmări rostogolirea blândă a valurilor. După-amiaza târziu se desfășoară aici o lumină deosebit de pitorească, care invită la zăbovire.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação, un deal din Niterói cu vedere panoramică asupra golfului Guanabara.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Praça General Gomes Carneiro, o piață cu grădini și un monument al generalului.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "G.R.E.S. Acadêmicos do Cubango este o școală de samba și atracție turistică în Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "Bustul lui Dom Pedro II îl înfățișează pe împăratul brazilian într-o piață.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Spațiul Cultural al Poștei (ECC) este un centru cultural al poștei braziliene, cu expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "Punctul de întâlnire de pe promenada Insulei Boa Viagem oferă vedere la Golful Guanabara.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "Triunfo da República este un monument care comemorează proclamarea Republicii.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "Fundația Oscar Niemeyer este dedicată arhitectului, găzduită într-o clădire proiectată de el.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "Centrul Cultural Abrigo de Bondes este găzduit într-un depou istoric de tramvaie.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "Centrul de Arte al UFF este un centru artistic al Universității Federale Fluminense, cu evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "Centrul Petrobras de Cinema este un centru de cinema și audiovizual sponsorizat de compania petrolieră de stat Petrobras.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "Catedrala São João Batista din Niterói este în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "Centrul Cultural La Salle este afiliat rețelei educaționale La Salle.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "Casa de Oliveira Vianna este fosta casă a sociologului Oliveira Vianna, acum un spațiu cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "The Museu do Ingá is housed in a 19th-century palace in Niterói, featuring the history of Rio de Janeiro state.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Niterói Contemporary Art Museum",
+                  "text": "The Niterói Contemporary Art Museum is an iconic flying-saucer-shaped museum designed by Oscar Niemeyer overlooking Guanabara Bay.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "Teatro MPB-4, a theatre named after the Brazilian vocal group MPB-4.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "Museu Janete Costa de Arte Popular, a folk art museum named after curator Janete Costa, showcasing Brazilian popular art.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "Teatro Abel, a theatre named after a local personality.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "Memorial Ponte Rio-Niterói, a memorial dedicated to the construction and history of the Rio-Niterói Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "Museu Antônio Parreiras, a museum in the former home of landscape painter Antônio Parreiras, displaying his works.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "Praia de Icaraí is one of the most famous beaches in Niterói, captivating visitors with magnificent views over Guanabara Bay. The bustling waterfront promenade attracts both locals and tourists for long walks and outdoor sports. You can sit comfortably on the sand while admiring the impressive skyline of Rio de Janeiro. Visiting during sunset promises a particularly atmospheric and stunning panorama.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "Praia da Boa Viagem in Niterói captivates with its charming location and views of the small offshore island bearing the same name. This rather quiet stretch of coastline is a wonderful place to relax by the water, away from large tourist crowds. The gentle murmur of the bay invites you to daydream and take leisurely strolls along the sand. It is best to combine your beach visit with a walk to the nearby historical landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Centro Cultural Pascoal Carlos Magno, a cultural centre named after theatre director Pascoal Carlos Magno.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "Theatro Municipal de Niterói, a historic municipal theatre with neoclassical architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "Praia do Gragoatá is a picturesque beach in Niterói, excellent for spending relaxing hours along the edge of Guanabara Bay. The peaceful atmosphere of this coastal stretch is highly appreciated by those seeking a cozy environment for reading or sunbathing. It offers a charming view of the calm waters and the distant skyline. A morning visit provides a fresh and inspiring start to your day.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande stretches out as an expansive section of beach in Niterói, inviting visitors for long, exploratory walks by the water. The generous shoreline provides plenty of space for summer activities, from a comfortable stroll to relaxing on the sand. The local atmosphere is always palpable, making this spot an authentic experience for coastal enthusiasts. When visiting, it is highly recommended to enjoy the gentle sea breeze during an extended walk.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "Teatro Popular de Niterói, a popular theatre presenting local and Brazilian plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "Teatro Eduardo Kraichete, a theatre named after theatre producer Eduardo Kraichete.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "Praia das Flechas is an attractive beach in Niterói, captivating guests with its wonderful views over the expanses of the bay. This charming stretch of coastline is a favored spot for experiencing the maritime flair of the region up close. Visitors can relax on the soft sandy areas while watching the gentle roll of the waves. Late afternoon brings a particularly picturesque light here, making it hard to leave.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação, a hill in Niterói offering panoramic views of Guanabara Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Praça General Gomes Carneiro, a square with gardens and a monument to the general.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "G.R.E.S. Acadêmicos do Cubango is a samba school and tourist attraction located in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "Busto de Dom Pedro II, a bronze bust of Emperor Dom Pedro II located in a square.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Espaço Cultural dos Correios (ECC), a cultural venue run by the Brazilian postal service, hosting exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem, a meeting point on the scenic promenade of Boa Viagem Island with views of Guanabara Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "Triunfo da República, a monument commemorating the proclamation of the Brazilian Republic.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "Fundação Oscar Niemeyer, a foundation dedicated to the architect Oscar Niemeyer, located in a building he designed.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "Centro Cultural Abrigo de Bondes, a cultural centre housed in a historic tram depot.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "Centro de Artes da UFF, an arts centre at the Federal Fluminense University, hosting cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "Centro Petrobras de Cinema, a cinema and audiovisual centre sponsored by the state oil company Petrobras.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "The Catedral São João Batista in Niterói is a neo-Gothic cathedral.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "Centro Cultural La Salle, a cultural centre affiliated with the La Salle educational network.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "Casa de Oliveira Vianna, the former home of sociologist Oliveira Vianna, now a cultural space.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.1228, -22.8833],
@@ -8981,7 +10808,304 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Un centre industriel majeur dans la métropole de São Paulo, connu pour la pétrochimie.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/maua-cities-v2.webp"},
   {
-    id: "sao-joao-de-meriti-cities-v2", "sights": {"de": [{"name": "Morro do Miguel", "text": "Berg in São João de Meriti.", "category": "natural", "coords": [-43.378314, -22.828185]}, {"name": "Pedra Rasa", "text": "Bergspitze in São João de Meriti.", "category": "natural", "coords": [-43.374936, -22.828016]}, {"name": "Morro do Botafogo", "text": "Der Morro do Botafogo ist eine markante natürliche Erhebung in São João de Meriti. Dieser brasilianische Hügel prägt das lokale Landschaftsbild der Stadt. Besucher der Gegend können die markante Form der Natur in ihrem städtischen Umfeld betrachten.", "category": "natural", "coords": [-43.375242, -22.821896]}, {"name": "Morro da Lagartixa", "text": "Inmitten von São João de Meriti erhebt sich der Morro da Lagartixa. Es handelt sich um einen bewachsenen Hügel, der einen Hauch Natur in die brasilianische Stadt bringt. Die Erhebung ist ein fester Bestandteil der lokalen Geografie und Orientierung.", "category": "natural", "coords": [-43.364922, -22.824911]}, {"name": "Morro da Conceição", "text": "Der natürliche Hügel Morro da Conceição ist ein bekanntes Landschaftsmerkmal in São João de Meriti. Er bietet in der brasilianischen Metropolregion einen geografischen Ankerpunkt. Die sanfte Steigung prägt das Panorama dieses Stadtgebiets.", "category": "natural", "coords": [-43.354111, -22.816665]}, {"name": "Morro da Pavuna", "text": "Ein weiteres Naturdenkmal in São João de Meriti ist der Morro da Pavuna. Dieser markante Hügel hebt sich deutlich vom restlichen Stadtbild ab. Wer sich in dieser Region Brasiliens aufhält, wird die landschaftliche Präsenz dieser Erhebung schnell bemerken.", "category": "natural", "coords": [-43.358044, -22.821925]}, {"name": "Arena Carioca Jovelina Pérola Negra", "text": "Kultur- und Veranstaltungszentrum in São João de Meriti.", "category": "cultural", "coords": [-43.358366, -22.807613]}, {"name": "Mirante Cristo do Gogó", "text": "Aussichtspunkt in São João de Meriti.", "category": "landmark", "coords": [-43.379371, -22.828975]}], "hu": [{"name": "Morro do Miguel", "text": "Hegy São João de Meritiben.", "category": "natural", "coords": [-43.378314, -22.828185]}, {"name": "Pedra Rasa", "text": "Hegycsúcs São João de Meritiben.", "category": "natural", "coords": [-43.374936, -22.828016]}, {"name": "Morro do Botafogo", "text": "A Morro do Botafogo egy feltűnő természetes magaslat São João de Meriti városában. Ez a brazil domb határozza meg a település helyi tájképét. A környékre látogatók megfigyelhetik a természet jellegzetes formáját a városi környezetben.", "category": "natural", "coords": [-43.375242, -22.821896]}, {"name": "Morro da Lagartixa", "text": "São João de Meriti szívében magasodik a Morro da Lagartixa. Ez egy növényzettel borított domb, amely egy csipetnyi természetet visz a brazil városba. A magaslat a helyi földrajz és tájékozódás szerves részét képezi.", "category": "natural", "coords": [-43.364922, -22.824911]}, {"name": "Morro da Conceição", "text": "A Morro da Conceição nevű természetes domb egy jól ismert tájelem São João de Meriti területén. Földrajzi horgonypontot kínál a brazil nagyvárosi régióban. Enyhe emelkedője meghatározza ennek a városrésznek a panorámáját.", "category": "natural", "coords": [-43.354111, -22.816665]}, {"name": "Morro da Pavuna", "text": "São João de Meriti egy másik természeti emléke a Morro da Pavuna. Ez a feltűnő domb egyértelműen kiemelkedik a városkép többi részéből. Aki Brazíliának ezen a vidékén tartózkodik, gyorsan észreveszi e magaslat tájképi jelenlétét.", "category": "natural", "coords": [-43.358044, -22.821925]}, {"name": "Arena Carioca Jovelina Pérola Negra", "text": "Kulturális és rendezvényközpont São João de Meritiben.", "category": "cultural", "coords": [-43.358366, -22.807613]}, {"name": "Mirante Cristo do Gogó", "text": "Kilátó São João de Meritiben.", "category": "landmark", "coords": [-43.379371, -22.828975]}], "ro": [{"name": "Morro do Miguel", "text": "Munte în São João de Meriti.", "category": "natural", "coords": [-43.378314, -22.828185]}, {"name": "Pedra Rasa", "text": "Vârf montan în São João de Meriti.", "category": "natural", "coords": [-43.374936, -22.828016]}, {"name": "Morro do Botafogo", "text": "Morro do Botafogo este o înălțime naturală proeminentă din São João de Meriti. Acest deal brazilian modelează peisajul local al orașului. Vizitatorii zonei pot observa forma distinctă a naturii în acest cadru urban.", "category": "natural", "coords": [-43.375242, -22.821896]}, {"name": "Morro da Lagartixa", "text": "În inima orașului São João de Meriti se înalță Morro da Lagartixa. Este un deal acoperit de vegetație care aduce un strop de natură în orașul brazilian. Această elevație este o parte integrantă a geografiei și orientării locale.", "category": "natural", "coords": [-43.364922, -22.824911]}, {"name": "Morro da Conceição", "text": "Dealul natural Morro da Conceição este o caracteristică de peisaj bine cunoscută în São João de Meriti. Oferă un punct de ancorare geografică în regiunea metropolitană braziliană. Panta sa blândă conturează panorama acestei zone urbane.", "category": "natural", "coords": [-43.354111, -22.816665]}, {"name": "Morro da Pavuna", "text": "Un alt monument natural din São João de Meriti este Morro da Pavuna. Acest deal izbitor iese clar în evidență față de restul peisajului urban. Oricine petrece timp în această regiune a Braziliei va remarca rapid prezența scenică a acestei înălțimi.", "category": "natural", "coords": [-43.358044, -22.821925]}, {"name": "Arena Carioca Jovelina Pérola Negra", "text": "Centru cultural și de evenimente în São João de Meriti.", "category": "cultural", "coords": [-43.358366, -22.807613]}, {"name": "Mirante Cristo do Gogó", "text": "Punct de observație în São João de Meriti.", "category": "landmark", "coords": [-43.379371, -22.828975]}], "en": [{"name": "Morro do Miguel", "text": "Mountain in São João de Meriti.", "category": "natural", "coords": [-43.378314, -22.828185]}, {"name": "Pedra Rasa", "text": "Mountain peak in São João de Meriti.", "category": "natural", "coords": [-43.374936, -22.828016]}, {"name": "Morro do Botafogo", "text": "Morro do Botafogo is a prominent natural elevation in São João de Meriti. This Brazilian hill shapes the local landscape of the city. Visitors to the area can observe the distinct form of nature set within its urban environment.", "category": "natural", "coords": [-43.375242, -22.821896]}, {"name": "Morro da Lagartixa", "text": "Rising in the midst of São João de Meriti is the Morro da Lagartixa. It is a vegetated hill that brings a touch of nature to the Brazilian city. The elevation is an integral part of the local geography and orientation.", "category": "natural", "coords": [-43.364922, -22.824911]}, {"name": "Morro da Conceição", "text": "The natural hill of Morro da Conceição is a well-known landscape feature in São João de Meriti. It provides a geographical anchor point within the Brazilian metropolitan region. Its gentle slope shapes the panorama of this urban area.", "category": "natural", "coords": [-43.354111, -22.816665]}, {"name": "Morro da Pavuna", "text": "Another natural landmark in São João de Meriti is the Morro da Pavuna. This striking hill stands out clearly from the rest of the cityscape. Anyone spending time in this region of Brazil will quickly notice the scenic presence of this elevation.", "category": "natural", "coords": [-43.358044, -22.821925]}, {"name": "Arena Carioca Jovelina Pérola Negra", "text": "Cultural and event centre in São João de Meriti.", "category": "cultural", "coords": [-43.358366, -22.807613]}, {"name": "Mirante Cristo do Gogó", "text": "Viewpoint in São João de Meriti.", "category": "landmark", "coords": [-43.379371, -22.828975]}]},
+    id: "sao-joao-de-meriti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Morro do Miguel, ein Hügel in João de Meriti, Teil der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Pedra Rasa, eine flache Felsformation in João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Der Morro do Botafogo ist eine markante natürliche Erhebung in São João de Meriti. Dieser brasilianische Hügel prägt das lokale Landschaftsbild der Stadt. Besucher der Gegend können die markante Form der Natur in ihrem städtischen Umfeld betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "Inmitten von São João de Meriti erhebt sich der Morro da Lagartixa. Es handelt sich um einen bewachsenen Hügel, der einen Hauch Natur in die brasilianische Stadt bringt. Die Erhebung ist ein fester Bestandteil der lokalen Geografie und Orientierung.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "Der natürliche Hügel Morro da Conceição ist ein bekanntes Landschaftsmerkmal in São João de Meriti. Er bietet in der brasilianischen Metropolregion einen geografischen Ankerpunkt. Die sanfte Steigung prägt das Panorama dieses Stadtgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Ein weiteres Naturdenkmal in São João de Meriti ist der Morro da Pavuna. Dieser markante Hügel hebt sich deutlich vom restlichen Stadtbild ab. Wer sich in dieser Region Brasiliens aufhält, wird die landschaftliche Präsenz dieser Erhebung schnell bemerken.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Die Arena Carioca Jovelina Pérola Negra ist nach der Sambasängerin benannt und für Musik und Tanz da.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Der Mirante Cristo do Gogó ist ein Aussichtspunkt auf einem Hügel mit einer Christusstatue mit Panoramablick auf João de Meriti.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Morro do Miguel, egy domb João de Meritiben, a helyi táj része.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Pedra Rasa, egy lapos sziklaformáció João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "A Morro do Botafogo egy feltűnő természetes magaslat São João de Meriti városában. Ez a brazil domb határozza meg a település helyi tájképét. A környékre látogatók megfigyelhetik a természet jellegzetes formáját a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "São João de Meriti szívében magasodik a Morro da Lagartixa. Ez egy növényzettel borított domb, amely egy csipetnyi természetet visz a brazil városba. A magaslat a helyi földrajz és tájékozódás szerves részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "A Morro da Conceição nevű természetes domb egy jól ismert tájelem São João de Meriti területén. Földrajzi horgonypontot kínál a brazil nagyvárosi régióban. Enyhe emelkedője meghatározza ennek a városrésznek a panorámáját.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "São João de Meriti egy másik természeti emléke a Morro da Pavuna. Ez a feltűnő domb egyértelműen kiemelkedik a városkép többi részéből. Aki Brazíliának ezen a vidékén tartózkodik, gyorsan észreveszi e magaslat tájképi jelenlétét.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Az Arena Carioca Jovelina Pérola Negra a szambás énekesnőről elnevezett aréna, zene és tánc számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "A Mirante Cristo do Gogó egy dombon álló Krisztus-szoborral rendelkező kilátópont, panorámakilátással João de Meritire.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Morro do Miguel, un deal în João de Meriti, parte a peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Pedra Rasa, o formațiune stâncoasă plată în João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Morro do Botafogo este o înălțime naturală proeminentă din São João de Meriti. Acest deal brazilian modelează peisajul local al orașului. Vizitatorii zonei pot observa forma distinctă a naturii în acest cadru urban.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "În inima orașului São João de Meriti se înalță Morro da Lagartixa. Este un deal acoperit de vegetație care aduce un strop de natură în orașul brazilian. Această elevație este o parte integrantă a geografiei și orientării locale.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "Dealul natural Morro da Conceição este o caracteristică de peisaj bine cunoscută în São João de Meriti. Oferă un punct de ancorare geografică în regiunea metropolitană braziliană. Panta sa blândă conturează panorama acestei zone urbane.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Un alt monument natural din São João de Meriti este Morro da Pavuna. Acest deal izbitor iese clar în evidență față de restul peisajului urban. Oricine petrece timp în această regiune a Braziliei va remarca rapid prezența scenică a acestei înălțimi.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Arena Carioca Jovelina Pérola Negra este o arenă numită după cântăreața de samba Jovelina Pérola Negra, dedicată muzicii și dansului.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Mirante Cristo do Gogó este un punct de belvedere pe un deal cu o statuie a lui Cristos, oferind vederi panoramice asupra João de Meriti.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Morro do Miguel, a hill in João de Meriti, part of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Pedra Rasa, a flat rock formation in João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Morro do Botafogo is a prominent natural elevation in São João de Meriti. This Brazilian hill shapes the local landscape of the city. Visitors to the area can observe the distinct form of nature set within its urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "Rising in the midst of São João de Meriti is the Morro da Lagartixa. It is a vegetated hill that brings a touch of nature to the Brazilian city. The elevation is an integral part of the local geography and orientation.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "The natural hill of Morro da Conceição is a well-known landscape feature in São João de Meriti. It provides a geographical anchor point within the Brazilian metropolitan region. Its gentle slope shapes the panorama of this urban area.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Another natural landmark in São João de Meriti is the Morro da Pavuna. This striking hill stands out clearly from the rest of the cityscape. Anyone spending time in this region of Brazil will quickly notice the scenic presence of this elevation.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Arena Carioca Jovelina Pérola Negra, an arena named after samba singer Jovelina Pérola Negra, dedicated to music and dance.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Mirante Cristo do Gogó, a viewpoint on a hill with a Christ statue offering panoramic views of João de Meriti.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.37, -22.8039],
@@ -9055,7 +11179,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centro de Cultura e Memória Expedicionários Mogianos",
-                  "text": "Das Centro de Cultura e Memória Expedicionários Mogianos ist ein Museum in Mogi das Cruzes.",
+                  "text": "Kultur- und Erinnerungszentrum Expedicionários Mogianos in Das Cruzes, das den Soldaten aus Mogi gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -46.190514,
@@ -9064,7 +11188,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Das Auditório ist ein lokales Theater in Mogi das Cruzes.",
+                  "text": "Städtisches Auditorium für kulturelle Veranstaltungen im Zentrum von Mogi das Cruzes.",
                   "category": "cultural",
                   "coords": [
                         -46.184958,
@@ -9073,7 +11197,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Vasquez",
-                  "text": "Das Theatro Vasquez ist ein Theater in der Stadt Mogi das Cruzes.",
+                  "text": "Historisches Teatro Vasquez, ein traditionsreicher Theatersaal in Mogi das Cruzes.",
                   "category": "cultural",
                   "coords": [
                         -46.189221,
@@ -9082,7 +11206,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
-                  "text": "Das Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo ist ein Kloster in Mogi das Cruzes.",
+                  "text": "Karmeliterkirche Unserer Lieben Frau vom Berge Karmel in Mogi das Cruzes.",
                   "category": "religious",
                   "coords": [
                         -46.18811,
@@ -9100,7 +11224,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Basquete Mogi",
-                  "text": "Basquete Mogi ist ein Denkmal in Mogi das Cruzes.",
+                  "text": "Historisches Basketball-Denkmal in Mogi das Cruzes, das an den lokalen Basketballsport erinnert.",
                   "category": "historical",
                   "coords": [
                         -46.180769,
@@ -9109,7 +11233,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bandeirante",
-                  "text": "Bandeirante ist ein Denkmal in Mogi das Cruzes.",
+                  "text": "Bandeirante-Denkmal in Mogi das Cruzes, das die portugiesischen Entdecker São Paulos ehrt.",
                   "category": "historical",
                   "coords": [
                         -46.206303,
@@ -9118,7 +11242,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de Mogi das Cruzes",
-                  "text": "Das Centro Cultural de Mogi das Cruzes ist ein Kunstzentrum in Mogi das Cruzes.",
+                  "text": "Kulturzentrum von Mogi das Cruzes mit Ausstellungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -46.191852,
@@ -9127,7 +11251,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante Japonês",
-                  "text": "Das Monumento ao Imigrante Japonês ist ein Denkmal in Mogi das Cruzes.",
+                  "text": "Denkmal für japanische Einwanderer in Mogi das Cruzes.",
                   "category": "historical",
                   "coords": [
                         -46.203467,
@@ -9136,7 +11260,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Histórico Historiador Isaac Grinberg",
-                  "text": "Das Arquivo Histórico Historiador Isaac Grinberg ist eine Sehenswürdigkeit in Mogi das Cruzes.",
+                  "text": "Historisches Archiv, benannt nach dem Historiker Isaac Grinberg, mit Dokumenten zur Stadtgeschichte.",
                   "category": "landmark",
                   "coords": [
                         -46.18873,
@@ -9147,7 +11271,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centro de Cultura e Memória Expedicionários Mogianos",
-                  "text": "A Centro de Cultura e Memória Expedicionários Mogianos egy múzeum Mogi das Cruzes városában.",
+                  "text": "Expedicionários Mogianos Kulturális és Emlékközpont Das Cruzesben, a mogi katonáknak szentelve.",
                   "category": "museum",
                   "coords": [
                         -46.190514,
@@ -9156,7 +11280,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Az Auditório egy helyi színház Mogi das Cruzes városában.",
+                  "text": "Városi előadóterem kulturális eseményekhez Mogi das Cruzes központjában.",
                   "category": "cultural",
                   "coords": [
                         -46.184958,
@@ -9165,7 +11289,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Vasquez",
-                  "text": "A Theatro Vasquez egy színház Mogi das Cruzes városában.",
+                  "text": "Történelmi Vasquez Színház, hagyományos színházterem Mogi das Cruzesben.",
                   "category": "cultural",
                   "coords": [
                         -46.189221,
@@ -9174,7 +11298,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
-                  "text": "Az Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo egy kolostor Mogi das Cruzes városában.",
+                  "text": "Kármelhegyi Boldogasszony templom Mogi das Cruzesben.",
                   "category": "religious",
                   "coords": [
                         -46.18811,
@@ -9192,7 +11316,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Basquete Mogi",
-                  "text": "A Basquete Mogi egy emlékmű Mogi das Cruzes városában.",
+                  "text": "Történelmi kosárlabda-emlékmű Mogi das Cruzesben, amely a helyi kosárlabdasportra emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -46.180769,
@@ -9201,7 +11325,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bandeirante",
-                  "text": "A Bandeirante egy emlékmű Mogi das Cruzesben.",
+                  "text": "Bandeirante-emlékmű Mogi das Cruzesben, amely São Paulo portugál felfedezőit tiszteli.",
                   "category": "historical",
                   "coords": [
                         -46.206303,
@@ -9210,7 +11334,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de Mogi das Cruzes",
-                  "text": "A Centro Cultural de Mogi das Cruzes egy művészeti központ Mogi das Cruzes városában.",
+                  "text": "Mogi das Cruzes kulturális központja kiállításokkal és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         -46.191852,
@@ -9219,7 +11343,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante Japonês",
-                  "text": "A Monumento ao Imigrante Japonês egy emlékmű Mogi das Cruzes településen.",
+                  "text": "Japán bevándorlók emlékműve Mogi das Cruzesben.",
                   "category": "historical",
                   "coords": [
                         -46.203467,
@@ -9228,7 +11352,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Histórico Historiador Isaac Grinberg",
-                  "text": "Az Arquivo Histórico Historiador Isaac Grinberg egy látványosság Mogi das Cruzes városában.",
+                  "text": "Isaac Grinberg történészről elnevezett történelmi levéltár, a város történetének dokumentumaival.",
                   "category": "landmark",
                   "coords": [
                         -46.18873,
@@ -9239,7 +11363,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centro de Cultura e Memória Expedicionários Mogianos",
-                  "text": "Centro de Cultura e Memória Expedicionários Mogianos este un muzeu din Mogi das Cruzes.",
+                  "text": "Centrul de Cultură și Memorie Expedicionários Mogianos din Das Cruzes, dedicat soldaților din Mogi.",
                   "category": "museum",
                   "coords": [
                         -46.190514,
@@ -9248,7 +11372,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Auditório este un teatru local situat în Mogi das Cruzes.",
+                  "text": "Auditoriu municipal pentru evenimente culturale în centrul orașului Mogi das Cruzes.",
                   "category": "cultural",
                   "coords": [
                         -46.184958,
@@ -9257,7 +11381,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Vasquez",
-                  "text": "Theatro Vasquez este un teatru din orașul Mogi das Cruzes.",
+                  "text": "Teatrul istoric Vasquez, o sală de spectacole tradițională în Mogi das Cruzes.",
                   "category": "cultural",
                   "coords": [
                         -46.189221,
@@ -9266,7 +11390,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
-                  "text": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo este o mănăstire situată în Mogi das Cruzes.",
+                  "text": "Biserica Carmelită a Maicii Domnului de pe Muntele Carmel din Mogi das Cruzes.",
                   "category": "religious",
                   "coords": [
                         -46.18811,
@@ -9284,7 +11408,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Basquete Mogi",
-                  "text": "Basquete Mogi este un monument situat în Mogi das Cruzes.",
+                  "text": "Monument istoric de baschet în Mogi das Cruzes, ce amintește de sportul local de baschet.",
                   "category": "historical",
                   "coords": [
                         -46.180769,
@@ -9293,7 +11417,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bandeirante",
-                  "text": "Bandeirante este un monument aflat în Mogi das Cruzes.",
+                  "text": "Monumentul Bandeirante din Mogi das Cruzes, care onorează exploratorii portughezi din São Paulo.",
                   "category": "historical",
                   "coords": [
                         -46.206303,
@@ -9302,7 +11426,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de Mogi das Cruzes",
-                  "text": "Centro Cultural de Mogi das Cruzes este un centru de arte situat în Mogi das Cruzes.",
+                  "text": "Centrul Cultural din Mogi das Cruzes, cu expoziții și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -46.191852,
@@ -9311,7 +11435,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante Japonês",
-                  "text": "Monumento ao Imigrante Japonês este un monument aflat în Mogi das Cruzes.",
+                  "text": "Monumentul imigranților japonezi din Mogi das Cruzes.",
                   "category": "historical",
                   "coords": [
                         -46.203467,
@@ -9320,7 +11444,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Histórico Historiador Isaac Grinberg",
-                  "text": "Arquivo Histórico Historiador Isaac Grinberg este o atracție turistică situată în Mogi das Cruzes.",
+                  "text": "Arhivă istorică numită după istoricul Isaac Grinberg, cu documente despre istoria orașului.",
                   "category": "landmark",
                   "coords": [
                         -46.18873,
@@ -9331,7 +11455,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centro de Cultura e Memória Expedicionários Mogianos",
-                  "text": "Centro de Cultura e Memória Expedicionários Mogianos is a museum located in Mogi das Cruzes.",
+                  "text": "Culture and Memory Centre Expedicionários Mogianos in Das Cruzes, dedicated to soldiers from Mogi.",
                   "category": "museum",
                   "coords": [
                         -46.190514,
@@ -9340,7 +11464,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Auditório is a local theatre situated in Mogi das Cruzes.",
+                  "text": "Municipal auditorium for cultural events in central Mogi das Cruzes.",
                   "category": "cultural",
                   "coords": [
                         -46.184958,
@@ -9349,7 +11473,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Vasquez",
-                  "text": "Theatro Vasquez is a theatre located in the city of Mogi das Cruzes.",
+                  "text": "Historic Teatro Vasquez, a traditional theatre hall in Mogi das Cruzes.",
                   "category": "cultural",
                   "coords": [
                         -46.189221,
@@ -9358,7 +11482,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
-                  "text": "The Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo is a monastery located in Mogi das Cruzes.",
+                  "text": "Carmelite church of Our Lady of Mount Carmel in Mogi das Cruzes.",
                   "category": "religious",
                   "coords": [
                         -46.18811,
@@ -9376,7 +11500,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Basquete Mogi",
-                  "text": "Basquete Mogi is a monument located in Mogi das Cruzes.",
+                  "text": "Historic basketball monument in Mogi das Cruzes, commemorating local basketball.",
                   "category": "historical",
                   "coords": [
                         -46.180769,
@@ -9385,7 +11509,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Bandeirante",
-                  "text": "Bandeirante is a monument situated in Mogi das Cruzes.",
+                  "text": "Bandeirante monument in Mogi das Cruzes, honoring the Portuguese explorers of São Paulo.",
                   "category": "historical",
                   "coords": [
                         -46.206303,
@@ -9394,7 +11518,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de Mogi das Cruzes",
-                  "text": "Centro Cultural de Mogi das Cruzes is an arts centre located in Mogi das Cruzes.",
+                  "text": "Cultural centre of Mogi das Cruzes with exhibitions and events.",
                   "category": "cultural",
                   "coords": [
                         -46.191852,
@@ -9403,7 +11527,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento ao Imigrante Japonês",
-                  "text": "Monumento ao Imigrante Japonês is a monument located in Mogi das Cruzes.",
+                  "text": "Monument to Japanese immigrants in Mogi das Cruzes.",
                   "category": "historical",
                   "coords": [
                         -46.203467,
@@ -9412,7 +11536,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             },
             {
                   "name": "Arquivo Histórico Historiador Isaac Grinberg",
-                  "text": "Arquivo Histórico Historiador Isaac Grinberg is a tourist attraction located in Mogi das Cruzes.",
+                  "text": "Historical archive named after historian Isaac Grinberg, with documents on the city's history.",
                   "category": "landmark",
                   "coords": [
                         -46.18873,

@@ -1157,7 +1157,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Izvor amenajat",
-                  "text": "Eine gestaltete natürliche Quelle in der Nähe des Klosters.",
+                  "text": "Izvor amenajat ist eine gestaltete Quelle am Kloster Hirbovat.",
                   "category": "landmark",
                   "coords": [
                         28.238143,
@@ -1175,7 +1175,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserică nefinisată",
-                  "text": "Ein unvollendeter Kirchenbau in der Region des Klosters.",
+                  "text": "Biserică nefinisată ist eine unvollendete Kirche am Kloster Hirbovat.",
                   "category": "landmark",
                   "coords": [
                         28.201091,
@@ -1184,7 +1184,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserica satului Oricova",
-                  "text": "Die lokale Dorfkirche von Oricova in Moldawien.",
+                  "text": "Die Dorfkirche von Oricova steht in der Nähe des Klosters Hirbovat.",
                   "category": "landmark",
                   "coords": [
                         28.232632,
@@ -1204,7 +1204,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Izvor amenajat",
-                  "text": "Kiépített természetes forrás a kolostor közelében.",
+                  "text": "Az Izvor amenajat egy kialakított forrás a Hirbovat-kolostornál.",
                   "category": "landmark",
                   "coords": [
                         28.238143,
@@ -1222,7 +1222,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserică nefinisată",
-                  "text": "Befejezetlen templomépület a kolostor környékén.",
+                  "text": "A Biserică nefinisată egy befejezetlen templom a Hirbovat-kolostornál.",
                   "category": "landmark",
                   "coords": [
                         28.201091,
@@ -1231,7 +1231,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserica satului Oricova",
-                  "text": "Oricova helyi falusi temploma Moldovában.",
+                  "text": "Az Oricova-i falusi templom a Hirbovat-kolostor közelében található.",
                   "category": "landmark",
                   "coords": [
                         28.232632,
@@ -1251,7 +1251,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Izvor amenajat",
-                  "text": "Un izvor natural amenajat situat în apropierea mănăstirii.",
+                  "text": "Izvor amenajat este un izvor amenajat la Mănăstirea Hirbovat.",
                   "category": "landmark",
                   "coords": [
                         28.238143,
@@ -1269,7 +1269,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserică nefinisată",
-                  "text": "O construcție de biserică neterminată în zona mănăstirii.",
+                  "text": "Biserică nefinisată este o biserică neterminată la Mănăstirea Hirbovat.",
                   "category": "landmark",
                   "coords": [
                         28.201091,
@@ -1278,7 +1278,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserica satului Oricova",
-                  "text": "Biserica locală din satul Oricova, Republica Moldova.",
+                  "text": "Biserica satului Oricova se află lângă Mănăstirea Hirbovat.",
                   "category": "landmark",
                   "coords": [
                         28.232632,
@@ -1298,7 +1298,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Izvor amenajat",
-                  "text": "A developed natural spring located near the monastery.",
+                  "text": "Izvor amenajat (developed spring) at Hirbovat Monastery, a landscaped water source.",
                   "category": "landmark",
                   "coords": [
                         28.238143,
@@ -1316,7 +1316,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserică nefinisată",
-                  "text": "An unfinished church building in the monastery area.",
+                  "text": "Biserică nefinisată (unfinished church) at Hirbovat Monastery, a partially built church.",
                   "category": "landmark",
                   "coords": [
                         28.201091,
@@ -1325,7 +1325,7 @@ export const moldovaHistoryV2: POI[] = [
             },
             {
                   "name": "Biserica satului Oricova",
-                  "text": "The local village church of Oricova in Moldova.",
+                  "text": "The village church of Oricova near Hirbovat Monastery is a local landmark.",
                   "category": "landmark",
                   "coords": [
                         28.232632,

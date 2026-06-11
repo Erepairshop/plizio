@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraSrilankaLandmarksV2: POI[] = [
   {
-    id: "lotus-tower-landmarks-v2",
+    id: "lotus-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Train Viewpoint",
+                  "text": "Ein Aussichtspunkt mit Blick auf das komplexe Schienennetz des Bahnhofs Maradana.",
+                  "category": "natural",
+                  "coords": [
+                        79.859915,
+                        6.928196
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Ein Museum, das die Eisenbahngeschichte Sri Lankas mit alten Dampflokomotiven zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        79.858871,
+                        6.931721
+                  ]
+            },
+            {
+                  "name": "Pettah Floating Market",
+                  "text": "Ein auf Booten und Holzstegen am Beira-See errichteter Markt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.855346,
+                        6.932657
+                  ]
+            },
+            {
+                  "name": "Colombo Lotus Tower",
+                  "text": "Der 350 Meter hohe Turm ist das höchste freistehende Bauwerk Südasiens.",
+                  "category": "tower",
+                  "coords": [
+                        79.858315,
+                        6.927027
+                  ]
+            },
+            {
+                  "name": "Dawson Street Mosque",
+                  "text": "Eine historische Moschee an der Dawson Street in Colombo.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858502,
+                        6.92173
+                  ]
+            },
+            {
+                  "name": "Captain's Garden Hindu Temple",
+                  "text": "Ein farbenfroher Hindu-Tempel mit kunstvollen Schnitzereien und Statuen von Gottheiten.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857064,
+                        6.930612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Train Viewpoint",
+                  "text": "Kilátópont a Maradana pályaudvar bonyolult vágányhálózatára.",
+                  "category": "natural",
+                  "coords": [
+                        79.859915,
+                        6.928196
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Srí Lanka vasúttörténetét bemutató múzeum régi gőzmozdonyokkal.",
+                  "category": "museum",
+                  "coords": [
+                        79.858871,
+                        6.931721
+                  ]
+            },
+            {
+                  "name": "Pettah Floating Market",
+                  "text": "A Beira-tavon, hajókon és fapallókon kialakított piac.",
+                  "category": "landmark",
+                  "coords": [
+                        79.855346,
+                        6.932657
+                  ]
+            },
+            {
+                  "name": "Colombo Lotus Tower",
+                  "text": "A 350 méter magas torony Dél-Ázsia legmagasabb önhordó szerkezete.",
+                  "category": "tower",
+                  "coords": [
+                        79.858315,
+                        6.927027
+                  ]
+            },
+            {
+                  "name": "Dawson Street Mosque",
+                  "text": "Történelmi mecset a colombói Dawson Streeten.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858502,
+                        6.92173
+                  ]
+            },
+            {
+                  "name": "Captain's Garden Hindu Temple",
+                  "text": "Színes hindu templom díszes faragványokkal és istenszobrokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857064,
+                        6.930612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Train Viewpoint",
+                  "text": "Un punct de observație cu vedere la rețeaua complexă de șine a gării Maradana.",
+                  "category": "natural",
+                  "coords": [
+                        79.859915,
+                        6.928196
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Un muzeu care prezintă istoria feroviară a Sri Lankăi cu vechi locomotive cu abur.",
+                  "category": "museum",
+                  "coords": [
+                        79.858871,
+                        6.931721
+                  ]
+            },
+            {
+                  "name": "Pettah Floating Market",
+                  "text": "O piață construită pe bărci și pontoane pe lacul Beira.",
+                  "category": "landmark",
+                  "coords": [
+                        79.855346,
+                        6.932657
+                  ]
+            },
+            {
+                  "name": "Colombo Lotus Tower",
+                  "text": "Turnul de 350 de metri este cea mai înaltă structură autoportantă din Asia de Sud.",
+                  "category": "tower",
+                  "coords": [
+                        79.858315,
+                        6.927027
+                  ]
+            },
+            {
+                  "name": "Dawson Street Mosque",
+                  "text": "O moschee istorică situată pe strada Dawson din Colombo.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858502,
+                        6.92173
+                  ]
+            },
+            {
+                  "name": "Captain's Garden Hindu Temple",
+                  "text": "Un templu hindu colorat cu sculpturi ornamentate și statui de zeități.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857064,
+                        6.930612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Train Viewpoint",
+                  "text": "A viewpoint overlooking the complex network of tracks at Maradana station.",
+                  "category": "natural",
+                  "coords": [
+                        79.859915,
+                        6.928196
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A museum showcasing Sri Lanka's railway history with vintage steam locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        79.858871,
+                        6.931721
+                  ]
+            },
+            {
+                  "name": "Pettah Floating Market",
+                  "text": "A scenic market built on boats and wooden walkways over Beira Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        79.855346,
+                        6.932657
+                  ]
+            },
+            {
+                  "name": "Colombo Lotus Tower",
+                  "text": "This 350-meter-tall tower is the highest self-supported structure in South Asia.",
+                  "category": "tower",
+                  "coords": [
+                        79.858315,
+                        6.927027
+                  ]
+            },
+            {
+                  "name": "Dawson Street Mosque",
+                  "text": "A historic mosque situated on Dawson Street in Colombo.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858502,
+                        6.92173
+                  ]
+            },
+            {
+                  "name": "Captain's Garden Hindu Temple",
+                  "text": "A colorful Hindu temple featuring ornate carvings and statues of deities.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857064,
+                        6.930612
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-11",
     coords: [79.8587, 6.9271],
@@ -39,7 +264,160 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "nine-arches-bridge-landmarks-v2",
+    id: "nine-arches-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slide & swing ella",
+                  "text": "Ein Abenteuer-Erlebnis in Ella mit einer großen Schaukel über dem malerischen Abgrund.",
+                  "category": "landmark",
+                  "coords": [
+                        81.063002,
+                        6.876853
+                  ]
+            },
+            {
+                  "name": "Nine Arches Bridge Viewpoint",
+                  "text": "Diese Stelle bietet den besten Blick auf die neun Bögen der Brücke und die vorbeifahrenden Züge.",
+                  "category": "natural",
+                  "coords": [
+                        81.061567,
+                        6.876043
+                  ]
+            },
+            {
+                  "name": "siva subramaniyar kovil",
+                  "text": "Ein kleiner Hindutempel in der Nähe der Neun-Bogen-Brücke, der Subramaniyar gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.07,
+                        6.878247
+                  ]
+            },
+            {
+                  "name": "Hela Pupula Temple",
+                  "text": "Ein buddhistischer Tempel auf einer Anhöhe, der die malerische Umgebung der Nine Arch Bridge überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        81.092347,
+                        6.890806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slide & swing ella",
+                  "text": "Kalandos élmény Ellában, egy hatalmas hintával a festői szakadék felett.",
+                  "category": "landmark",
+                  "coords": [
+                        81.063002,
+                        6.876853
+                  ]
+            },
+            {
+                  "name": "Nine Arches Bridge Viewpoint",
+                  "text": "Innen nyílik a legjobb kilátás a híd kilenc ívére és az elhaladó vonatokra.",
+                  "category": "natural",
+                  "coords": [
+                        81.061567,
+                        6.876043
+                  ]
+            },
+            {
+                  "name": "siva subramaniyar kovil",
+                  "text": "Subramaniyarnak szentelt kisméretű hindu templom a Kilenclyukú híd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.07,
+                        6.878247
+                  ]
+            },
+            {
+                  "name": "Hela Pupula Temple",
+                  "text": "Magaslaton fekvő buddhista templom, amely a Kilenclyukú híd festői környékére néz.",
+                  "category": "landmark",
+                  "coords": [
+                        81.092347,
+                        6.890806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slide & swing ella",
+                  "text": "O experiență de aventură în Ella, cu un leagăn imens deasupra prăpăstiei pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        81.063002,
+                        6.876853
+                  ]
+            },
+            {
+                  "name": "Nine Arches Bridge Viewpoint",
+                  "text": "Acest punct oferă cea mai bună vedere asupra celor nouă arcade ale podului și a trenurilor care trec.",
+                  "category": "natural",
+                  "coords": [
+                        81.061567,
+                        6.876043
+                  ]
+            },
+            {
+                  "name": "siva subramaniyar kovil",
+                  "text": "Un mic templu hindu dedicat lui Subramaniyar, situat lângă Podul cu Nouă Arcade.",
+                  "category": "landmark",
+                  "coords": [
+                        81.07,
+                        6.878247
+                  ]
+            },
+            {
+                  "name": "Hela Pupula Temple",
+                  "text": "Un templu budist situat pe o înălțime, care domină împrejurimile pitorești ale Podului cu Nouă Arcade.",
+                  "category": "landmark",
+                  "coords": [
+                        81.092347,
+                        6.890806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slide & swing ella",
+                  "text": "An adventure experience in Ella featuring a giant swing over the scenic drop.",
+                  "category": "landmark",
+                  "coords": [
+                        81.063002,
+                        6.876853
+                  ]
+            },
+            {
+                  "name": "Nine Arches Bridge Viewpoint",
+                  "text": "This spot offers the best view of the bridge's nine arches and the passing trains.",
+                  "category": "natural",
+                  "coords": [
+                        81.061567,
+                        6.876043
+                  ]
+            },
+            {
+                  "name": "siva subramaniyar kovil",
+                  "text": "A small Hindu temple dedicated to Subramaniyar, located near the Nine Arch Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        81.07,
+                        6.878247
+                  ]
+            },
+            {
+                  "name": "Hela Pupula Temple",
+                  "text": "A Buddhist temple on an elevation overlooking the scenic surroundings of the Nine Arch Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        81.092347,
+                        6.890806
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-81",
     coords: [81.0607, 6.8767],
@@ -75,7 +453,520 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "adams-peak-landmarks-v2",
+    id: "adams-peak-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meellakela",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die üppigen grünen Hügel Sri Lankas.",
+                  "category": "natural",
+                  "coords": [
+                        80.49238,
+                        6.811175
+                  ]
+            },
+            {
+                  "name": "Seethagangula",
+                  "text": "Ein heiliger Flusslauf, in dem Pilger traditionell baden, bevor sie den Berggipfel besteigen.",
+                  "category": "natural",
+                  "coords": [
+                        80.457666,
+                        6.82225
+                  ]
+            },
+            {
+                  "name": "Heramitipana",
+                  "text": "Eine hochgelegene Raststation auf der Pilgerroute, umgeben von nebligen Bergwäldern.",
+                  "category": "natural",
+                  "coords": [
+                        80.487055,
+                        6.810282
+                  ]
+            },
+            {
+                  "name": "Sri Paadaya Peak",
+                  "text": "Ein heiliger Berggipfel mit einer Felsformation, die als Fußabdruck verehrt wird.",
+                  "category": "natural",
+                  "coords": [
+                        80.499388,
+                        6.809421
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Eine große Buddha-Statue, die die Pilger auf ihrem Weg zum heiligen Gipfel begrüßt.",
+                  "category": "historical",
+                  "coords": [
+                        80.519908,
+                        6.825122
+                  ]
+            },
+            {
+                  "name": "Sleeping Buddha",
+                  "text": "Ein Denkmal des liegenden Buddha in einer friedlichen und spirituellen Bergkulisse.",
+                  "category": "historical",
+                  "coords": [
+                        80.512697,
+                        6.823835
+                  ]
+            },
+            {
+                  "name": "amman",
+                  "text": "Ein kleiner Tempel der Göttin am Pfad der Pilger zum Berggipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.520862,
+                        6.824272
+                  ]
+            },
+            {
+                  "name": "Sivan",
+                  "text": "Eine hinduistische Gebetsstätte, die Lord Shiva in der Hochlandregion gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.518641,
+                        6.823997
+                  ]
+            },
+            {
+                  "name": "Kalpa Wruksha Maha Viharaya",
+                  "text": "Ein buddhistisches Kloster und Tempelkomplex in den Ausläufern des Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        80.517668,
+                        6.824222
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ein traditioneller srilankischer Tempel, der der lokalen buddhistischen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.428938,
+                        6.780739
+                  ]
+            },
+            {
+                  "name": "Japanese Peace Temple",
+                  "text": "Eine strahlend weiße Stupa, die von japanischen Mönchen als Friedenssymbol errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        80.506249,
+                        6.824285
+                  ]
+            },
+            {
+                  "name": "valamalai sri muththumariamman temple",
+                  "text": "Ein hinduistischer Tempel mit farbenfrohen architektonischen Details im dravidischen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        80.532495,
+                        6.832069
+                  ]
+            },
+            {
+                  "name": "srijalandanaramaya",
+                  "text": "Ein lokales buddhistisches Heiligtum, das einen ruhigen Raum für Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.540601,
+                        6.844859
+                  ]
+            },
+            {
+                  "name": "Rathganga Gangarama Viharaya",
+                  "text": "Ein buddhistischer Tempel in der Nähe des Rathganga-Flusses, der oft von Pilgern auf dem Weg zum Adam's Peak besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        80.482575,
+                        6.73796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meellakela",
+                  "text": "Festői kilátópont, ahonnan kilátás nyílik Srí Lanka buja zöld dombjaira.",
+                  "category": "natural",
+                  "coords": [
+                        80.49238,
+                        6.811175
+                  ]
+            },
+            {
+                  "name": "Seethagangula",
+                  "text": "Szent folyó szakasz, ahol a zarándokok hagyományosan megfürdenek a hegycsúcs megmászása előtt.",
+                  "category": "natural",
+                  "coords": [
+                        80.457666,
+                        6.82225
+                  ]
+            },
+            {
+                  "name": "Heramitipana",
+                  "text": "Magasan fekvő pihenőhely a zarándokúton, ködös hegyi erdőkkel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        80.487055,
+                        6.810282
+                  ]
+            },
+            {
+                  "name": "Sri Paadaya Peak",
+                  "text": "Szent hegycsúcs, amelynek sziklaformációját lábnyomként tisztelik.",
+                  "category": "natural",
+                  "coords": [
+                        80.499388,
+                        6.809421
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Hatalmas Buddha-szobor, amely a szent csúcs felé tartó zarándokokat üdvözli.",
+                  "category": "historical",
+                  "coords": [
+                        80.519908,
+                        6.825122
+                  ]
+            },
+            {
+                  "name": "Sleeping Buddha",
+                  "text": "Fekvő Buddha emlékmű egy békés és spirituális hegyi környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        80.512697,
+                        6.823835
+                  ]
+            },
+            {
+                  "name": "amman",
+                  "text": "Az istennőnek szentelt kis templom a hegycsúcsra vezető zarándokúton.",
+                  "category": "landmark",
+                  "coords": [
+                        80.520862,
+                        6.824272
+                  ]
+            },
+            {
+                  "name": "Sivan",
+                  "text": "Siva istennek szentelt hindu imaház a felföldi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        80.518641,
+                        6.823997
+                  ]
+            },
+            {
+                  "name": "Kalpa Wruksha Maha Viharaya",
+                  "text": "Buddhista kolostor és templomkomplexum a hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        80.517668,
+                        6.824222
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Hagyományos srí lankai templom, amely a helyi buddhista közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.428938,
+                        6.780739
+                  ]
+            },
+            {
+                  "name": "Japanese Peace Temple",
+                  "text": "Vakítóan fehér sztúpa, amelyet japán szerzetesek építettek a béke szimbólumaként.",
+                  "category": "landmark",
+                  "coords": [
+                        80.506249,
+                        6.824285
+                  ]
+            },
+            {
+                  "name": "valamalai sri muththumariamman temple",
+                  "text": "Hindu templom színes, dravida stílusú építészeti részletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.532495,
+                        6.832069
+                  ]
+            },
+            {
+                  "name": "srijalandanaramaya",
+                  "text": "Helyi buddhista szentély, amely csendes helyet kínál a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        80.540601,
+                        6.844859
+                  ]
+            },
+            {
+                  "name": "Rathganga Gangarama Viharaya",
+                  "text": "Buddhista templom a Rathganga-folyó közelében, amelyet gyakran keresnek fel az Ádám-csúcs felé tartó zarándokok.",
+                  "category": "landmark",
+                  "coords": [
+                        80.482575,
+                        6.73796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meellakela",
+                  "text": "Un punct de belvedere pitoresc cu vedere la dealurile verzi luxuriante din Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        80.49238,
+                        6.811175
+                  ]
+            },
+            {
+                  "name": "Seethagangula",
+                  "text": "Un curs de râu sacru unde pelerinii se scaldă tradițional înainte de a urca pe vârful muntelui.",
+                  "category": "natural",
+                  "coords": [
+                        80.457666,
+                        6.82225
+                  ]
+            },
+            {
+                  "name": "Heramitipana",
+                  "text": "O stație de odihnă la altitudine mare pe traseul de pelerinaj, înconjurată de păduri montane înzăpezite.",
+                  "category": "natural",
+                  "coords": [
+                        80.487055,
+                        6.810282
+                  ]
+            },
+            {
+                  "name": "Sri Paadaya Peak",
+                  "text": "Un vârf de munte sacru cu o formațiune stâncoasă venerată ca o amprentă de picior.",
+                  "category": "natural",
+                  "coords": [
+                        80.499388,
+                        6.809421
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "O statuie mare a lui Buddha care îi întâmpină pe pelerini în drumul lor spre vârful sacru.",
+                  "category": "historical",
+                  "coords": [
+                        80.519908,
+                        6.825122
+                  ]
+            },
+            {
+                  "name": "Sleeping Buddha",
+                  "text": "Un monument al lui Buddha culcat, într-un cadru montan liniștit și spiritual.",
+                  "category": "historical",
+                  "coords": [
+                        80.512697,
+                        6.823835
+                  ]
+            },
+            {
+                  "name": "amman",
+                  "text": "Un mic templu dedicat zeiței pe cărarea pelerinilor spre vârful muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        80.520862,
+                        6.824272
+                  ]
+            },
+            {
+                  "name": "Sivan",
+                  "text": "Un lăcaș de cult hindu dedicat zeului Shiva în regiunea muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.518641,
+                        6.823997
+                  ]
+            },
+            {
+                  "name": "Kalpa Wruksha Maha Viharaya",
+                  "text": "O mănăstire budistă și un complex de temple la poalele muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        80.517668,
+                        6.824222
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Un templu tradițional din Sri Lanka care deservește comunitatea budistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        80.428938,
+                        6.780739
+                  ]
+            },
+            {
+                  "name": "Japanese Peace Temple",
+                  "text": "O stupă albă strălucitoare construită de călugări japonezi ca simbol al păcii.",
+                  "category": "landmark",
+                  "coords": [
+                        80.506249,
+                        6.824285
+                  ]
+            },
+            {
+                  "name": "valamalai sri muththumariamman temple",
+                  "text": "Un templu hindu cu detalii arhitecturale colorate în stil dravidian.",
+                  "category": "landmark",
+                  "coords": [
+                        80.532495,
+                        6.832069
+                  ]
+            },
+            {
+                  "name": "srijalandanaramaya",
+                  "text": "Un sanctuar budist local care oferă un spațiu liniștit pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        80.540601,
+                        6.844859
+                  ]
+            },
+            {
+                  "name": "Rathganga Gangarama Viharaya",
+                  "text": "Un templu budist situat lângă râul Rathganga, vizitat frecvent de pelerinii care se îndreaptă spre Vârful lui Adam.",
+                  "category": "landmark",
+                  "coords": [
+                        80.482575,
+                        6.73796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meellakela",
+                  "text": "A scenic vantage point offering views of the lush green hills of Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        80.49238,
+                        6.811175
+                  ]
+            },
+            {
+                  "name": "Seethagangula",
+                  "text": "A sacred stream crossing where pilgrims traditionally bathe before ascending the mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        80.457666,
+                        6.82225
+                  ]
+            },
+            {
+                  "name": "Heramitipana",
+                  "text": "A high-altitude resting station on the pilgrimage route, surrounded by misty mountain forests.",
+                  "category": "natural",
+                  "coords": [
+                        80.487055,
+                        6.810282
+                  ]
+            },
+            {
+                  "name": "Sri Pada Foot Print",
+                  "text": "A sacred mountain summit featuring a rock formation revered as a footprint.",
+                  "category": "natural",
+                  "coords": [
+                        80.499388,
+                        6.809421
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "A large Buddha statue greeting pilgrims on their journey toward the sacred summit.",
+                  "category": "historical",
+                  "coords": [
+                        80.519908,
+                        6.825122
+                  ]
+            },
+            {
+                  "name": "Sleeping Buddha",
+                  "text": "A reclining Buddha monument set in a peaceful and spiritual mountain setting.",
+                  "category": "historical",
+                  "coords": [
+                        80.512697,
+                        6.823835
+                  ]
+            },
+            {
+                  "name": "amman",
+                  "text": "A small temple dedicated to the goddess on the pilgrims' path to the peak.",
+                  "category": "landmark",
+                  "coords": [
+                        80.520862,
+                        6.824272
+                  ]
+            },
+            {
+                  "name": "Sivan",
+                  "text": "A Hindu place of worship dedicated to Lord Shiva in the highland region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.518641,
+                        6.823997
+                  ]
+            },
+            {
+                  "name": "Kalpa Wruksha Maha Viharaya",
+                  "text": "A Buddhist monastery and temple complex in the foothills of the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        80.517668,
+                        6.824222
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "A traditional Sri Lankan temple serving the local Buddhist community.",
+                  "category": "landmark",
+                  "coords": [
+                        80.428938,
+                        6.780739
+                  ]
+            },
+            {
+                  "name": "Japanese Peace Temple",
+                  "text": "A brilliant white stupa built by Japanese monks as a symbol of peace.",
+                  "category": "landmark",
+                  "coords": [
+                        80.506249,
+                        6.824285
+                  ]
+            },
+            {
+                  "name": "valamalai sri muththumariamman temple",
+                  "text": "A Hindu temple featuring colorful Dravidian-style architectural details.",
+                  "category": "landmark",
+                  "coords": [
+                        80.532495,
+                        6.832069
+                  ]
+            },
+            {
+                  "name": "srijalandanaramaya",
+                  "text": "A local Buddhist sanctuary providing a quiet space for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        80.540601,
+                        6.844859
+                  ]
+            },
+            {
+                  "name": "Rathganga Gangarama Viharaya",
+                  "text": "A Buddhist temple near the Rathganga River, often visited by pilgrims on their way to Adam's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        80.482575,
+                        6.73796
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-91",
     coords: [80.4999, 6.8096],
@@ -111,7 +1002,592 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pinnawala-elephant-orphanage-landmarks-v2",
+    id: "pinnawala-elephant-orphanage-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elephant bathing place",
+                  "text": "Ein malerischer Platz am Fluss Maha Oya, an dem Besucher Elefanten beim täglichen Baden beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        80.384189,
+                        7.300584
+                  ]
+            },
+            {
+                  "name": "Pinnawala Elephant Orphanage",
+                  "text": "Ein weltberühmtes Schutzzentrum für verwaiste asiatische Elefanten am Ufer des Maha Oya Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        80.387193,
+                        7.300512
+                  ]
+            },
+            {
+                  "name": "Gotabhaya Raja Maha Vihara",
+                  "text": "Ein antiker buddhistischer Tempel mit historischen Inschriften und Ruinen aus der Zeit von König Gotabhaya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.331094,
+                        7.321164
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmarama Maha viharaya",
+                  "text": "Ein friedlicher Tempelkomplex in der Nähe des Elefantenwaisenhauses, der für seine religiöse Ruhe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.464912,
+                        7.337256
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein kleiner buddhistischer Schrein am Flussufer, der oft von Besuchern auf dem Weg zum Fluss besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        80.436806,
+                        7.314935
+                  ]
+            },
+            {
+                  "name": "Sri Keerthirathnarama maha viharaya",
+                  "text": "Ein Dorftempel mit einem farbenfrohen Schreinraum und einem klassischen weißen Stupa inmitten von Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        80.400023,
+                        7.324145
+                  ]
+            },
+            {
+                  "name": "Daluggala Sri Bodhirajaramaya",
+                  "text": "Dieser ruhige buddhistische Tempel zeichnet sich durch seine weiße Stupa und einen heiligen Bodhi-Baum aus.",
+                  "category": "landmark",
+                  "coords": [
+                        80.393739,
+                        7.317788
+                  ]
+            },
+            {
+                  "name": "Nawagamuwa Paththini Devalaya",
+                  "text": "Ein hinduistischer Schrein, der der Göttin Pattini gewidmet ist und oft für Segnungen besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        80.389894,
+                        7.306368
+                  ]
+            },
+            {
+                  "name": "Naranbedda Temple",
+                  "text": "Ein dörflicher Tempel mit traditioneller buddhistischer Ikonografie inmitten tropischer Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        80.362316,
+                        7.314749
+                  ]
+            },
+            {
+                  "name": "Religon place",
+                  "text": "Eine lokale Gebetsstätte, die in die üppige grüne Landschaft der Region Pinnawala eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        80.394582,
+                        7.358641
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Shrine and Divine Mercy Retreat Center",
+                  "text": "Ein katholischer Wallfahrtsort mit einer der Muttergottes gewidmeten Grotte.",
+                  "category": "religious",
+                  "coords": [
+                        80.35968,
+                        7.36792
+                  ]
+            },
+            {
+                  "name": "Sumanarama Purana Rajamaha Viharaya",
+                  "text": "Ein alter königlicher Tempel (Rajamaha) von historischer Bedeutung im Distrikt Kegalle.",
+                  "category": "landmark",
+                  "coords": [
+                        80.383917,
+                        7.316635
+                  ]
+            },
+            {
+                  "name": "Kudagama palliya",
+                  "text": "Eine christliche Kirche, die der lokalen Gemeinde in der Nähe von Rambukkana dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.360611,
+                        7.367882
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ein ruhiges Heiligtum mit einer klassischen Dagoba, die typisch für sri-lankische Dörfer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.394341,
+                        7.381508
+                  ]
+            },
+            {
+                  "name": "Hataraliyadda Central Market",
+                  "text": "Ein belebtes lokales Zentrum, in dem Dorfbewohner mit frischen Produkten und Gewürzen handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        80.47042,
+                        7.333803
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Ein lokaler Basar, der für seine Vielfalt an tropischen Früchten und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        80.391929,
+                        7.322272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elephant bathing place",
+                  "text": "Glefestő helyszín a Maha Oya folyónál, ahol a látogatók megfigyelhetik az elefántok napi fürdőzését.",
+                  "category": "landmark",
+                  "coords": [
+                        80.384189,
+                        7.300584
+                  ]
+            },
+            {
+                  "name": "Pinnawala Elephant Orphanage",
+                  "text": "Világhírű menhely árva ázsiai elefántok számára, a Maha Oya folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        80.387193,
+                        7.300512
+                  ]
+            },
+            {
+                  "name": "Gotabhaya Raja Maha Vihara",
+                  "text": "Ősi buddhista templom történelmi feliratokkal és romokkal Gotabhaya király idejéből.",
+                  "category": "landmark",
+                  "coords": [
+                        80.331094,
+                        7.321164
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmarama Maha viharaya",
+                  "text": "Békés templomegyüttes az elefántárvaház közelében, amely vallási nyugalmáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.464912,
+                        7.337256
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Kisméretű buddhista szentély a folyóparton, amelyet gyakran felkeresnek a folyóhoz tartó látogatók.",
+                  "category": "landmark",
+                  "coords": [
+                        80.436806,
+                        7.314935
+                  ]
+            },
+            {
+                  "name": "Sri Keerthirathnarama maha viharaya",
+                  "text": "Falusi templom színes szentéllyel és klasszikus fehér sztúpával, kertek között.",
+                  "category": "landmark",
+                  "coords": [
+                        80.400023,
+                        7.324145
+                  ]
+            },
+            {
+                  "name": "Daluggala Sri Bodhirajaramaya",
+                  "text": "Ezt a nyugodt buddhista templomot fehér sztúpa és egy szent Bodhi-fa jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        80.393739,
+                        7.317788
+                  ]
+            },
+            {
+                  "name": "Nawagamuwa Paththini Devalaya",
+                  "text": "Pattini istennőnek szentelt hindu szentély, amelyet gyakran keresnek fel áldásért.",
+                  "category": "landmark",
+                  "coords": [
+                        80.389894,
+                        7.306368
+                  ]
+            },
+            {
+                  "name": "Naranbedda Temple",
+                  "text": "Hagyományos buddhista ikonográfiával díszített falusi templom a trópusi növényzet közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        80.362316,
+                        7.314749
+                  ]
+            },
+            {
+                  "name": "Religon place",
+                  "text": "A Pinnawala régió buja, zöld tájába ágyazott helyi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        80.394582,
+                        7.358641
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Shrine and Divine Mercy Retreat Center",
+                  "text": "Katolikus zarándokhely a Szűz Máriának szentelt barlanggal.",
+                  "category": "religious",
+                  "coords": [
+                        80.35968,
+                        7.36792
+                  ]
+            },
+            {
+                  "name": "Sumanarama Purana Rajamaha Viharaya",
+                  "text": "Történelmi jelentőségű ősi királyi templom (Rajamaha) a Kegalle körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        80.383917,
+                        7.316635
+                  ]
+            },
+            {
+                  "name": "Kudagama palliya",
+                  "text": "A Rambukkana közelében élő helyi közösséget kiszolgáló keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        80.360611,
+                        7.367882
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Csendes szentély a Srí Lanka-i falvakra jellemző klasszikus dagobával.",
+                  "category": "landmark",
+                  "coords": [
+                        80.394341,
+                        7.381508
+                  ]
+            },
+            {
+                  "name": "Hataraliyadda Central Market",
+                  "text": "Nyüzsgő helyi központ, ahol a falusiak friss terményekkel és fűszerekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        80.47042,
+                        7.333803
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Helyi bazár, amely trópusi gyümölcseiről és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        80.391929,
+                        7.322272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elephant bathing place",
+                  "text": "Un loc pitoresc pe râul Maha Oya, unde vizitatorii pot observa elefanții la scăldatul zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        80.384189,
+                        7.300584
+                  ]
+            },
+            {
+                  "name": "Pinnawala Elephant Orphanage",
+                  "text": "Un orfelinat renumit la nivel mondial pentru elefanții asiatici, situat pe malul râului Maha Oya.",
+                  "category": "recreational",
+                  "coords": [
+                        80.387193,
+                        7.300512
+                  ]
+            },
+            {
+                  "name": "Gotabhaya Raja Maha Vihara",
+                  "text": "Un templu budist antic cu inscripții istorice și ruine din timpul regelui Gotabhaya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.331094,
+                        7.321164
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmarama Maha viharaya",
+                  "text": "Un complex de temple liniștit lângă orfelinatul de elefanți, cunoscut pentru liniștea sa religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.464912,
+                        7.337256
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un mic altar budist pe malul râului, vizitat adesea de turiștii care merg spre apă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.436806,
+                        7.314935
+                  ]
+            },
+            {
+                  "name": "Sri Keerthirathnarama maha viharaya",
+                  "text": "Un templu sătesc cu o cameră de altar colorată și o stupa albă clasică, situat în mijlocul grădinilor.",
+                  "category": "landmark",
+                  "coords": [
+                        80.400023,
+                        7.324145
+                  ]
+            },
+            {
+                  "name": "Daluggala Sri Bodhirajaramaya",
+                  "text": "Acest templu budist liniștit este caracterizat de stupa sa albă și de un arbore Bodhi sacru.",
+                  "category": "landmark",
+                  "coords": [
+                        80.393739,
+                        7.317788
+                  ]
+            },
+            {
+                  "name": "Nawagamuwa Paththini Devalaya",
+                  "text": "Un sanctuar hindu dedicat zeiței Pattini, vizitat adesea pentru binecuvântări.",
+                  "category": "landmark",
+                  "coords": [
+                        80.389894,
+                        7.306368
+                  ]
+            },
+            {
+                  "name": "Naranbedda Temple",
+                  "text": "Un templu sătesc cu iconografie budistă tradițională, situat în mijlocul vegetației tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.362316,
+                        7.314749
+                  ]
+            },
+            {
+                  "name": "Religon place",
+                  "text": "Un lăcaș de cult local situat în peisajul verde luxuriant al regiunii Pinnawala.",
+                  "category": "religious",
+                  "coords": [
+                        80.394582,
+                        7.358641
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Shrine and Divine Mercy Retreat Center",
+                  "text": "Un loc de pelerinaj catolic cu o grotă dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        80.35968,
+                        7.36792
+                  ]
+            },
+            {
+                  "name": "Sumanarama Purana Rajamaha Viharaya",
+                  "text": "Un templu regal antic (Rajamaha) de importanță istorică în districtul Kegalle.",
+                  "category": "landmark",
+                  "coords": [
+                        80.383917,
+                        7.316635
+                  ]
+            },
+            {
+                  "name": "Kudagama palliya",
+                  "text": "O biserică creștină care deservește comunitatea locală de lângă Rambukkana.",
+                  "category": "landmark",
+                  "coords": [
+                        80.360611,
+                        7.367882
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Un sanctuar liniștit cu o dagoba clasică, tipică pentru satele din Sri Lanka.",
+                  "category": "landmark",
+                  "coords": [
+                        80.394341,
+                        7.381508
+                  ]
+            },
+            {
+                  "name": "Hataraliyadda Central Market",
+                  "text": "Un centru local plin de viață, unde sătenii fac schimb de produse proaspete și condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        80.47042,
+                        7.333803
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Un bazar local cunoscut pentru varietatea sa de fructe tropicale și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        80.391929,
+                        7.322272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elephant bathing place",
+                  "text": "A scenic spot on the Maha Oya river where visitors can watch elephants during their daily bathing.",
+                  "category": "landmark",
+                  "coords": [
+                        80.384189,
+                        7.300584
+                  ]
+            },
+            {
+                  "name": "Pinnawala Elephant Orphanage",
+                  "text": "A world-renowned sanctuary for orphaned Asian elephants, located on the banks of the Maha Oya river.",
+                  "category": "recreational",
+                  "coords": [
+                        80.387193,
+                        7.300512
+                  ]
+            },
+            {
+                  "name": "Gotabhaya Raja Maha Vihara",
+                  "text": "An ancient Buddhist temple featuring historical inscriptions and ruins from King Gotabhaya's era.",
+                  "category": "landmark",
+                  "coords": [
+                        80.331094,
+                        7.321164
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmarama Maha viharaya",
+                  "text": "A peaceful temple complex located near the elephant orphanage, known for its religious tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        80.464912,
+                        7.337256
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A small Buddhist shrine on the riverbank, often visited by those heading to the water.",
+                  "category": "landmark",
+                  "coords": [
+                        80.436806,
+                        7.314935
+                  ]
+            },
+            {
+                  "name": "Sri Keerthirathnarama maha viharaya",
+                  "text": "A village temple with a colorful shrine room and a classic white stupa set among gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        80.400023,
+                        7.324145
+                  ]
+            },
+            {
+                  "name": "Daluggala Sri Bodhirajaramaya",
+                  "text": "This serene Buddhist temple is characterized by its white stupa and a sacred Bodhi tree.",
+                  "category": "landmark",
+                  "coords": [
+                        80.393739,
+                        7.317788
+                  ]
+            },
+            {
+                  "name": "Nawagamuwa Paththini Devalaya",
+                  "text": "A Hindu shrine dedicated to Goddess Pattini, often visited for blessings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.389894,
+                        7.306368
+                  ]
+            },
+            {
+                  "name": "Naranbedda Temple",
+                  "text": "A village temple featuring traditional Buddhist iconography amidst tropical greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        80.362316,
+                        7.314749
+                  ]
+            },
+            {
+                  "name": "Religon place",
+                  "text": "A local place of worship embedded in the lush green landscape of the Pinnawala region.",
+                  "category": "religious",
+                  "coords": [
+                        80.394582,
+                        7.358641
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Shrine and Divine Mercy Retreat Center",
+                  "text": "A Catholic pilgrimage site featuring a grotto dedicated to Our Lady.",
+                  "category": "religious",
+                  "coords": [
+                        80.35968,
+                        7.36792
+                  ]
+            },
+            {
+                  "name": "Sumanarama Purana Rajamaha Viharaya",
+                  "text": "An ancient royal temple (Rajamaha) of historical significance in the Kegalle district.",
+                  "category": "landmark",
+                  "coords": [
+                        80.383917,
+                        7.316635
+                  ]
+            },
+            {
+                  "name": "Kudagama palliya",
+                  "text": "A Christian church serving the local community near Rambukkana.",
+                  "category": "landmark",
+                  "coords": [
+                        80.360611,
+                        7.367882
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "A quiet sanctuary with a classic dagoba (stupa) typical of Sri Lankan villages.",
+                  "category": "landmark",
+                  "coords": [
+                        80.394341,
+                        7.381508
+                  ]
+            },
+            {
+                  "name": "Hataraliyadda Central Market",
+                  "text": "A bustling local hub where villagers trade fresh produce and spices.",
+                  "category": "cultural",
+                  "coords": [
+                        80.47042,
+                        7.333803
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "A local bazaar known for its variety of tropical fruits and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        80.391929,
+                        7.322272
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-91",
     coords: [80.3872, 7.3015],
@@ -147,7 +1623,592 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "worlds-end-landmarks-v2",
+    id: "worlds-end-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paraviyangala",
+                  "text": "Ein zerklüfteter Berggipfel, der weite Panoramablicke über das srilankische Hochland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        80.795348,
+                        6.741298
+                  ]
+            },
+            {
+                  "name": "Brampton Falls",
+                  "text": "Ein malerischer Wasserfall, der inmitten der Teekönigreiche in die Tiefe stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.818038,
+                        6.73309
+                  ]
+            },
+            {
+                  "name": "Devil's Starcase",
+                  "text": "Ein dramatischer, steiler Gebirgspass, der für seine extremen Serpentinen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        80.841402,
+                        6.80033
+                  ]
+            },
+            {
+                  "name": "Huge Stone Viewpoint",
+                  "text": "Ein massiver Granitfelsen, der als Aussichtspunkt über tiefe Schluchten dient.",
+                  "category": "natural",
+                  "coords": [
+                        80.862266,
+                        6.790112
+                  ]
+            },
+            {
+                  "name": "Gommolli Kanda",
+                  "text": "Mit 2034 Metern ist dies der dritthöchste Berg Sri Lankas.",
+                  "category": "natural",
+                  "coords": [
+                        80.809026,
+                        6.766693
+                  ]
+            },
+            {
+                  "name": "Mini World's End",
+                  "text": "Ein steiler Abgrund, der eine ähnliche Aussicht wie das berühmte World's End bietet.",
+                  "category": "natural",
+                  "coords": [
+                        80.800309,
+                        6.785318
+                  ]
+            },
+            {
+                  "name": "Natural Water Reserve 111",
+                  "text": "Ein geschütztes Wassereinzugsgebiet im dichten Bergnebelwald.",
+                  "category": "natural",
+                  "coords": [
+                        80.877977,
+                        6.764687
+                  ]
+            },
+            {
+                  "name": "Pussella Temple",
+                  "text": "Ein ländlicher buddhistischer Tempel, der die umliegenden Bergdörfer versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.854412,
+                        6.763993
+                  ]
+            },
+            {
+                  "name": "Sri Suvisuddharamaya",
+                  "text": "Ein traditioneller buddhistischer Tempel vor einer Kulisse aus dichten Wäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        80.769044,
+                        6.720717
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "Ein Tempel mit einem heiligen Bo-Baum in der kühlen Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        80.76539,
+                        6.725341
+                  ]
+            },
+            {
+                  "name": "St.Mary Church",
+                  "text": "Eine christliche Kirche, die für die Arbeiter der lokalen Teeplantagen errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        80.771101,
+                        6.718807
+                  ]
+            },
+            {
+                  "name": "Thumbathenna Buddhist Center",
+                  "text": "Ein spirituelles Zentrum in der nebligen und kühlen Thumbathenna-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.811419,
+                        6.730259
+                  ]
+            },
+            {
+                  "name": "Marangahawela Temple",
+                  "text": "Ein kleiner buddhistischer Schrein, der in die grünen Hügel des Hochlands eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.835364,
+                        6.748428
+                  ]
+            },
+            {
+                  "name": "Karagasthalawa Temple",
+                  "text": "Ein lokaler Tempel am südlichen Rand des zentralen Hochlandes von Sri Lanka.",
+                  "category": "landmark",
+                  "coords": [
+                        80.782495,
+                        6.717706
+                  ]
+            },
+            {
+                  "name": "Soragune Purana Rajamaha Viharaya",
+                  "text": "Ein antiker königlicher Tempel mit historischer Architektur aus der Kandy-Ära.",
+                  "category": "landmark",
+                  "coords": [
+                        80.893977,
+                        6.746159
+                  ]
+            },
+            {
+                  "name": "Ginigathgala Sri Shailabimbarama Viharaya",
+                  "text": "Ein auf einem Felsvorsprung erbautes Kloster mit Blick auf die umliegende Wildnis.",
+                  "category": "landmark",
+                  "coords": [
+                        80.867589,
+                        6.771893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paraviyangala",
+                  "text": "Sziklás hegycsúcs, amely széles panorámát kínál Srí Lanka felföldjére.",
+                  "category": "natural",
+                  "coords": [
+                        80.795348,
+                        6.741298
+                  ]
+            },
+            {
+                  "name": "Brampton Falls",
+                  "text": "Festői vízesés, amely a teabirtokok szívében zúdul alá.",
+                  "category": "landmark",
+                  "coords": [
+                        80.818038,
+                        6.73309
+                  ]
+            },
+            {
+                  "name": "Devil's Starcase",
+                  "text": "Drámai, meredek hegyi hágó, amely extrém hajtűkanyarjairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        80.841402,
+                        6.80033
+                  ]
+            },
+            {
+                  "name": "Huge Stone Viewpoint",
+                  "text": "Hatalmas gránitszikla, amely kilátóként szolgál a mély szurdokokra.",
+                  "category": "natural",
+                  "coords": [
+                        80.862266,
+                        6.790112
+                  ]
+            },
+            {
+                  "name": "Gommolli Kanda",
+                  "text": "2034 méteres magasságával ez Srí Lanka tizenharmadik legmagasabb hegycsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        80.809026,
+                        6.766693
+                  ]
+            },
+            {
+                  "name": "Mini World's End",
+                  "text": "Meredek szakadék, amely a híres World’s End-hez hasonló kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        80.800309,
+                        6.785318
+                  ]
+            },
+            {
+                  "name": "Natural Water Reserve 111",
+                  "text": "Védett vízgyűjtő terület a sűrű hegyi köderdőben.",
+                  "category": "natural",
+                  "coords": [
+                        80.877977,
+                        6.764687
+                  ]
+            },
+            {
+                  "name": "Pussella Temple",
+                  "text": "Vidéki buddhista templom, amely a környező hegyi falvakat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.854412,
+                        6.763993
+                  ]
+            },
+            {
+                  "name": "Sri Suvisuddharamaya",
+                  "text": "Hagyományos buddhista templom sűrű erdőkkel övezett környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        80.769044,
+                        6.720717
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "Szent Bodhi-fával rendelkező templom a hűvös hegyi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        80.76539,
+                        6.725341
+                  ]
+            },
+            {
+                  "name": "St.Mary Church",
+                  "text": "Keresztény templom, amely a helyi teaültetvények munkásait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.771101,
+                        6.718807
+                  ]
+            },
+            {
+                  "name": "Thumbathenna Buddhist Center",
+                  "text": "Spirituális központ a ködös és hűvös Thumbathenna régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        80.811419,
+                        6.730259
+                  ]
+            },
+            {
+                  "name": "Marangahawela Temple",
+                  "text": "Kicsi buddhista szentély a felföld zöldellő dombjai közé ágyazva.",
+                  "category": "landmark",
+                  "coords": [
+                        80.835364,
+                        6.748428
+                  ]
+            },
+            {
+                  "name": "Karagasthalawa Temple",
+                  "text": "Helyi templom Srí Lanka központi felföldjének déli peremén.",
+                  "category": "landmark",
+                  "coords": [
+                        80.782495,
+                        6.717706
+                  ]
+            },
+            {
+                  "name": "Soragune Purana Rajamaha Viharaya",
+                  "text": "Ősi királyi templom a Kandy-korszakból származó történelmi építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.893977,
+                        6.746159
+                  ]
+            },
+            {
+                  "name": "Ginigathgala Sri Shailabimbarama Viharaya",
+                  "text": "Sziklakibúvásra épült kolostor, kilátással a környező vadonra.",
+                  "category": "landmark",
+                  "coords": [
+                        80.867589,
+                        6.771893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paraviyangala",
+                  "text": "Un vârf muntos accidentat care oferă vederi panoramice largi asupra zonelor înalte din Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        80.795348,
+                        6.741298
+                  ]
+            },
+            {
+                  "name": "Brampton Falls",
+                  "text": "O cascadă pitorească ce cade în mijlocul plantațiilor de ceai.",
+                  "category": "landmark",
+                  "coords": [
+                        80.818038,
+                        6.73309
+                  ]
+            },
+            {
+                  "name": "Devil's Starcase",
+                  "text": "O trecătoare montană dramatică și abruptă, cunoscută pentru serpentinele sale extreme.",
+                  "category": "natural",
+                  "coords": [
+                        80.841402,
+                        6.80033
+                  ]
+            },
+            {
+                  "name": "Huge Stone Viewpoint",
+                  "text": "O stâncă masivă de granit care servește drept punct de observare peste defileele adânci.",
+                  "category": "natural",
+                  "coords": [
+                        80.862266,
+                        6.790112
+                  ]
+            },
+            {
+                  "name": "Gommolli Kanda",
+                  "text": "Cu o înălțime de 2034 de metri, acesta este al treisprezecelea cel mai înalt vârf din Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        80.809026,
+                        6.766693
+                  ]
+            },
+            {
+                  "name": "Mini World's End",
+                  "text": "O prăpastie abruptă care oferă o priveliște similară cu faimosul World’s End.",
+                  "category": "natural",
+                  "coords": [
+                        80.800309,
+                        6.785318
+                  ]
+            },
+            {
+                  "name": "Natural Water Reserve 111",
+                  "text": "O zonă protejată de captare a apei în pădurea tropicală montană densă.",
+                  "category": "natural",
+                  "coords": [
+                        80.877977,
+                        6.764687
+                  ]
+            },
+            {
+                  "name": "Pussella Temple",
+                  "text": "Un templu budist rural care deservește satele montane din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        80.854412,
+                        6.763993
+                  ]
+            },
+            {
+                  "name": "Sri Suvisuddharamaya",
+                  "text": "Un templu budist tradițional situat pe fundalul pădurilor dese.",
+                  "category": "landmark",
+                  "coords": [
+                        80.769044,
+                        6.720717
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "Un templu care adăpostește un arbore Bodhi sacru în peisajul montan răcoros.",
+                  "category": "landmark",
+                  "coords": [
+                        80.76539,
+                        6.725341
+                  ]
+            },
+            {
+                  "name": "St.Mary Church",
+                  "text": "O biserică creștină construită pentru lucrătorii de pe plantațiile de ceai locale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.771101,
+                        6.718807
+                  ]
+            },
+            {
+                  "name": "Thumbathenna Buddhist Center",
+                  "text": "Un centru spiritual situat în regiunea ceațoasă și răcoroasă Thumbathenna.",
+                  "category": "landmark",
+                  "coords": [
+                        80.811419,
+                        6.730259
+                  ]
+            },
+            {
+                  "name": "Marangahawela Temple",
+                  "text": "Un mic altar budist cuibărit printre dealurile verzi ale zonei înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        80.835364,
+                        6.748428
+                  ]
+            },
+            {
+                  "name": "Karagasthalawa Temple",
+                  "text": "Un templu local situat la marginea sudică a zonelor înalte centrale din Sri Lanka.",
+                  "category": "landmark",
+                  "coords": [
+                        80.782495,
+                        6.717706
+                  ]
+            },
+            {
+                  "name": "Soragune Purana Rajamaha Viharaya",
+                  "text": "Un vechi templu regal cu arhitectură istorică din epoca Kandy.",
+                  "category": "landmark",
+                  "coords": [
+                        80.893977,
+                        6.746159
+                  ]
+            },
+            {
+                  "name": "Ginigathgala Sri Shailabimbarama Viharaya",
+                  "text": "O mănăstire construită pe o proeminență stâncoasă, cu vedere spre sălbăticia înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        80.867589,
+                        6.771893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paraviyangala",
+                  "text": "A rugged mountain peak offering wide panoramic views over the Sri Lankan highlands.",
+                  "category": "natural",
+                  "coords": [
+                        80.795348,
+                        6.741298
+                  ]
+            },
+            {
+                  "name": "Brampton Falls",
+                  "text": "A scenic waterfall cascading down amidst the tea country estates.",
+                  "category": "landmark",
+                  "coords": [
+                        80.818038,
+                        6.73309
+                  ]
+            },
+            {
+                  "name": "Devil's Starcase",
+                  "text": "A dramatic, steep mountain pass famous for its extreme hairpin turns.",
+                  "category": "natural",
+                  "coords": [
+                        80.841402,
+                        6.80033
+                  ]
+            },
+            {
+                  "name": "Huge Stone Viewpoint",
+                  "text": "A massive granite outcrop serving as a lookout point over deep gorges.",
+                  "category": "natural",
+                  "coords": [
+                        80.862266,
+                        6.790112
+                  ]
+            },
+            {
+                  "name": "Gommolli Kanda",
+                  "text": "Rising to 2034 metres, this is the 13th highest peak in Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        80.809026,
+                        6.766693
+                  ]
+            },
+            {
+                  "name": "Mini World's End",
+                  "text": "A sheer precipice offering a similar perspective to the famous World’s End cliff.",
+                  "category": "natural",
+                  "coords": [
+                        80.800309,
+                        6.785318
+                  ]
+            },
+            {
+                  "name": "Natural Water Reserve 111",
+                  "text": "A protected water catchment area within the dense montane cloud forest.",
+                  "category": "natural",
+                  "coords": [
+                        80.877977,
+                        6.764687
+                  ]
+            },
+            {
+                  "name": "Pussella Temple",
+                  "text": "A rural Buddhist temple serving the surrounding mountain villages.",
+                  "category": "landmark",
+                  "coords": [
+                        80.854412,
+                        6.763993
+                  ]
+            },
+            {
+                  "name": "Sri Suvisuddharamaya",
+                  "text": "A traditional Buddhist temple set against a backdrop of thick forests.",
+                  "category": "landmark",
+                  "coords": [
+                        80.769044,
+                        6.720717
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "A temple featuring a sacred Bo tree in the cool mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        80.76539,
+                        6.725341
+                  ]
+            },
+            {
+                  "name": "St.Mary Church",
+                  "text": "A Christian church built to serve the workers of the local tea plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        80.771101,
+                        6.718807
+                  ]
+            },
+            {
+                  "name": "Thumbathenna Buddhist Center",
+                  "text": "A spiritual center located in the misty and cool Thumbathenna region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.811419,
+                        6.730259
+                  ]
+            },
+            {
+                  "name": "Marangahawela Temple",
+                  "text": "A small Buddhist shrine nestled among the verdant hills of the highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        80.835364,
+                        6.748428
+                  ]
+            },
+            {
+                  "name": "Karagasthalawa Temple",
+                  "text": "A local temple situated on the southern edge of Sri Lanka's central highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        80.782495,
+                        6.717706
+                  ]
+            },
+            {
+                  "name": "Soragune Purana Rajamaha Viharaya",
+                  "text": "An ancient royal temple featuring historical architecture from the Kandy era.",
+                  "category": "landmark",
+                  "coords": [
+                        80.893977,
+                        6.746159
+                  ]
+            },
+            {
+                  "name": "Ginigathgala Sri Shailabimbarama Viharaya",
+                  "text": "A monastery built on a rocky outcrop overlooking the surrounding wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        80.867589,
+                        6.771893
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.8142, 6.7846],
@@ -183,7 +2244,304 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gangaramaya-temple-landmarks-v2",
+    id: "gangaramaya-temple-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golden Jubilee 1917-1967",
+                  "text": "Dieses Denkmal in der Nähe des Gangaramaya-Tempels erinnert an das goldene Jubiläum von 1917 bis 1967.",
+                  "category": "historical",
+                  "coords": [
+                        79.858193,
+                        6.91349
+                  ]
+            },
+            {
+                  "name": "Ceylon Pentecostal Mission - Colpetty",
+                  "text": "Diese Kirche der Pfingstbewegung, die in einem ehemaligen Bankgebäude untergebracht ist, dient als lebendiges Gemeindezentrum.",
+                  "category": "religious",
+                  "coords": [
+                        79.85271,
+                        6.912109
+                  ]
+            },
+            {
+                  "name": "Bishop's College Auditorium",
+                  "text": "Dieses moderne Auditorium gehört zum renommierten Bishop's College und ist ein wichtiger Veranstaltungsort für Konzerte und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854752,
+                        6.91507
+                  ]
+            },
+            {
+                  "name": "Chabad House",
+                  "text": "Dieses Chabad-Haus in Colombo bietet jüdischen Reisenden und der lokalen Gemeinde religiöse Dienste und koschere Mahlzeiten.",
+                  "category": "religious",
+                  "coords": [
+                        79.855411,
+                        6.911661
+                  ]
+            },
+            {
+                  "name": "Gangaramaya Temple",
+                  "text": "Der Gangaramaya-Tempel am Beira-See ist eine vielseitige Mischung aus buddhistischem Heiligtum, Museum und Bildungszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        79.856656,
+                        6.916645
+                  ]
+            },
+            {
+                  "name": "Gangarama Sima Malaka",
+                  "text": "Dieses elegante, auf dem Beira-See schwimmende buddhistische Heiligtum wurde vom Architekten Geoffrey Bawa entworfen.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854617,
+                        6.916795
+                  ]
+            },
+            {
+                  "name": "Methodist Church Kollupitiya",
+                  "text": "Diese Methodistenkirche in Kollupitiya ist ein markantes christliches Gotteshaus mit einer aktiven englisch- und singalesischsprachigen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        79.8491,
+                        6.911941
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque Kollupitiya",
+                  "text": "Die Jumma-Moschee in Kollupitiya ist ein zentraler Treffpunkt für Muslime im Herzen von Colombo.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850785,
+                        6.913242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golden Jubilee 1917-1967",
+                  "text": "Ez az emlékmű a Gangaramaya-templom közelében az 1917 és 1967 közötti aranyjubileumnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        79.858193,
+                        6.91349
+                  ]
+            },
+            {
+                  "name": "Ceylon Pentecostal Mission - Colpetty",
+                  "text": "Ez a pünkösdi missziós templom, amely egy korábbi banképületben kapott helyet, élénk közösségi központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        79.85271,
+                        6.912109
+                  ]
+            },
+            {
+                  "name": "Bishop's College Auditorium",
+                  "text": "Ez a modern auditórium a neves Bishop's College része, és fontos helyszín koncertek és színi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854752,
+                        6.91507
+                  ]
+            },
+            {
+                  "name": "Chabad House",
+                  "text": "Ez a colombói Chabad-ház vallási szolgáltatásokat és kóser étkezést kínál a zsidó utazók és a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        79.855411,
+                        6.911661
+                  ]
+            },
+            {
+                  "name": "Gangaramaya Temple",
+                  "text": "A Beira-tó partján álló Gangaramaya-templom buddhista szentély, múzeum és oktatási központ különleges keveréke.",
+                  "category": "landmark",
+                  "coords": [
+                        79.856656,
+                        6.916645
+                  ]
+            },
+            {
+                  "name": "Gangarama Sima Malaka",
+                  "text": "Ez az elegáns, a Beira-tón lebegő buddhista szentély Geoffrey Bawa építész tervei alapján készült.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854617,
+                        6.916795
+                  ]
+            },
+            {
+                  "name": "Methodist Church Kollupitiya",
+                  "text": "Ez a kollupitiyai metodista templom egy jellegzetes keresztény imaház aktív angol és szingaléz nyelvű közösséggel.",
+                  "category": "landmark",
+                  "coords": [
+                        79.8491,
+                        6.911941
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque Kollupitiya",
+                  "text": "A kollupitiyai Jumma-mecset a muszlim hívők központi találkozóhelye Colombo szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850785,
+                        6.913242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golden Jubilee 1917-1967",
+                  "text": "Acest monument din apropierea Templului Gangaramaya comemorează jubileul de aur din perioada 1917-1967.",
+                  "category": "historical",
+                  "coords": [
+                        79.858193,
+                        6.91349
+                  ]
+            },
+            {
+                  "name": "Ceylon Pentecostal Mission - Colpetty",
+                  "text": "Această biserică a Misiunii Penticostale, găzduită într-o fostă clădire bancară, servește ca un centru comunitar vibrant.",
+                  "category": "religious",
+                  "coords": [
+                        79.85271,
+                        6.912109
+                  ]
+            },
+            {
+                  "name": "Bishop's College Auditorium",
+                  "text": "Acest auditorium modern aparține prestigiosului Bishop's College și este un loc important pentru concerte și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854752,
+                        6.91507
+                  ]
+            },
+            {
+                  "name": "Chabad House",
+                  "text": "Această casă Chabad din Colombo oferă servicii religioase și mese cușer pentru călătorii evrei și comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        79.855411,
+                        6.911661
+                  ]
+            },
+            {
+                  "name": "Gangaramaya Temple",
+                  "text": "Templul Gangaramaya de pe malul lacului Beira este un amestec eclectic de sanctuar budist, muzeu și centru educațional.",
+                  "category": "landmark",
+                  "coords": [
+                        79.856656,
+                        6.916645
+                  ]
+            },
+            {
+                  "name": "Gangarama Sima Malaka",
+                  "text": "Acest sanctuar budist elegant, care plutește pe lacul Beira, a fost proiectat de arhitectul Geoffrey Bawa.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854617,
+                        6.916795
+                  ]
+            },
+            {
+                  "name": "Methodist Church Kollupitiya",
+                  "text": "Această biserică metodistă din Kollupitiya este un lăcaș de cult creștin distinctiv, cu o comunitate activă vorbitoare de engleză și sinhala.",
+                  "category": "landmark",
+                  "coords": [
+                        79.8491,
+                        6.911941
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque Kollupitiya",
+                  "text": "Moscheea Jumma din Kollupitiya este un punct central de adunare pentru musulmani, situat în inima orașului Colombo.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850785,
+                        6.913242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Jubilee 1917-1967",
+                  "text": "This monument near the Gangaramaya Temple commemorates the golden jubilee spanning from 1917 to 1967.",
+                  "category": "historical",
+                  "coords": [
+                        79.858193,
+                        6.91349
+                  ]
+            },
+            {
+                  "name": "Union Bank",
+                  "text": "This Pentecostal Mission church, housed in a former bank building, serves as a vibrant community center.",
+                  "category": "religious",
+                  "coords": [
+                        79.85271,
+                        6.912109
+                  ]
+            },
+            {
+                  "name": "Bishop's College Auditorium",
+                  "text": "This modern auditorium belongs to the prestigious Bishop's College and is a key venue for concerts and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854752,
+                        6.91507
+                  ]
+            },
+            {
+                  "name": "Chabad House",
+                  "text": "This Chabad House in Colombo provides religious services and kosher meals for Jewish travelers and the local community.",
+                  "category": "religious",
+                  "coords": [
+                        79.855411,
+                        6.911661
+                  ]
+            },
+            {
+                  "name": "Gangaramaya Temple",
+                  "text": "The Gangaramaya Temple on the shores of Beira Lake is an eclectic mix of Buddhist shrine, museum, and educational center.",
+                  "category": "landmark",
+                  "coords": [
+                        79.856656,
+                        6.916645
+                  ]
+            },
+            {
+                  "name": "Gangarama Sima Malaka",
+                  "text": "This elegant Buddhist assembly hall floating on Beira Lake was designed by the renowned architect Geoffrey Bawa.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854617,
+                        6.916795
+                  ]
+            },
+            {
+                  "name": "Methodist Church Kollupitiya",
+                  "text": "This Methodist church in Kollupitiya is a prominent Christian place of worship with an active English and Sinhala-speaking congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        79.8491,
+                        6.911941
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque Kollupitiya",
+                  "text": "The Jumma Mosque in Kollupitiya is a central gathering point for Muslims located in the heart of Colombo.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850785,
+                        6.913242
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-11",
     coords: [79.8569, 6.9157],
@@ -219,7 +2577,808 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "red-mosque-landmarks-v2",
+    id: "red-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old General Post Office Fort",
+                  "text": "Dieses markante Gebäude im Colombo Fort aus der britischen Kolonialzeit diente einst als Hauptpostamt der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        79.843413,
+                        6.936035
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Diese 1817 gegründete Kirche in Pettah ist das älteste methodistische Gotteshaus in ganz Asien.",
+                  "category": "religious",
+                  "coords": [
+                        79.856414,
+                        6.938992
+                  ]
+            },
+            {
+                  "name": "Wolvendaal Church",
+                  "text": "Diese niederländisch-reformierte Kirche aus dem Jahr 1749 ist für ihre dorische Architektur und historische Grabsteine bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        79.859027,
+                        6.942043
+                  ]
+            },
+            {
+                  "name": "Dutch Colonial Museum",
+                  "text": "Das Museum ist in der ehemaligen Residenz des niederländischen Gouverneurs aus dem 17. Jahrhundert untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        79.851649,
+                        6.936064
+                  ]
+            },
+            {
+                  "name": "Khan Clock Tower",
+                  "text": "Dieser historische Turm markiert den Eingang zum Pettah-Markt und wurde von der Mumbai-Familie Khan erbaut.",
+                  "category": "tower",
+                  "coords": [
+                        79.849265,
+                        6.937109
+                  ]
+            },
+            {
+                  "name": "Old Dutch Hospital",
+                  "text": "Als eines der ältesten Gebäude im Fort-Viertel beherbergt dieses ehemalige niederländische Krankenhaus heute Geschäfte und Cafés.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843538,
+                        6.933496
+                  ]
+            },
+            {
+                  "name": "Old Colombo Lighthouse;Chatham Street Clock Tower",
+                  "text": "Das 1829 errichtete Bauwerk im Stadtzentrum diente ursprünglich sowohl als Leuchtturm als auch als Uhrturm.",
+                  "category": "landmark",
+                  "coords": [
+                        79.842825,
+                        6.934726
+                  ]
+            },
+            {
+                  "name": "Lloyds Building",
+                  "text": "Dieses historische Kolonialgebäude im Fort-Viertel besticht durch sein klassisches britisches Architekturdesign.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844375,
+                        6.936585
+                  ]
+            },
+            {
+                  "name": "Colombo Lighthouse",
+                  "text": "Dieser 29 Meter hohe Leuchtturm am Indischen Ozean wird an seinem Sockel von vier markanten Betonlöwen bewacht.",
+                  "category": "landmark",
+                  "coords": [
+                        79.840791,
+                        6.936297
+                  ]
+            },
+            {
+                  "name": "Sambodhi Chaitya",
+                  "text": "Diese moderne buddhistische Stupa thront auf zwei massiven Stahlbetonbögen und bietet einen weiten Blick über den Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        79.841992,
+                        6.938302
+                  ]
+            },
+            {
+                  "name": "Jami Ul Alfar Mosque",
+                  "text": "Diese ikonische Moschee im Herzen von Pettah ist berühmt für ihr auffälliges rot-weiß gestreiftes Mauerwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851886,
+                        6.938435
+                  ]
+            },
+            {
+                  "name": "Fort Jumma Mosque",
+                  "text": "Ein bedeutendes Gotteshaus für die muslimische Gemeinde, gelegen im belebten Geschäftsviertel Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843848,
+                        6.934738
+                  ]
+            },
+            {
+                  "name": "Sammangodu Sri Kathirvelayutha Swamy Kovil",
+                  "text": "Dieser dem Gott Murugan geweihte Hindutempel in Pettah zeichnet sich durch seinen farbenfrohen Gopuram-Turm aus.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850647,
+                        6.937755
+                  ]
+            },
+            {
+                  "name": "New Kathiresan Kovil",
+                  "text": "Dieser Hindutempel ist für seine kunstvollen Schnitzereien bekannt und bildet ein Zentrum für religiöse Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854622,
+                        6.942123
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "Ein friedlicher buddhistischer Tempel in der Nähe des Hafens, der einen heiligen Bodhi-Baum beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857304,
+                        6.942443
+                  ]
+            },
+            {
+                  "name": "Masjid Muhiadeen Khadiriya Thakiya",
+                  "text": "Eine lokale Moschee im Geschäftsviertel, die einen ruhigen Ort für das tägliche Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        79.860873,
+                        6.940436
+                  ]
+            },
+            {
+                  "name": "Sri Bodhiraja Viharaya",
+                  "text": "Dieser buddhistische Tempel mit Kloster dient der Gemeinde in der Nähe des Ufers als spiritueller Zufluchtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        79.848156,
+                        6.936789
+                  ]
+            },
+            {
+                  "name": "St.Peter's Church",
+                  "text": "Diese ehemalige Banketthalle eines niederländischen Gouverneurs ist eine der ältesten kontinuierlich genutzten Kirchen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844732,
+                        6.937524
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "Eine anglikanische Kirche mit beeindruckender neugotischer Architektur und wunderschönen Buntglasfenstern.",
+                  "category": "religious",
+                  "coords": [
+                        79.854566,
+                        6.937712
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "Diese historische Stätte im Viertel New Bazaar ist ein bedeutendes Zentrum für den islamischen Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858959,
+                        6.94045
+                  ]
+            },
+            {
+                  "name": "St Phillip Neri Church",
+                  "text": "Diese römisch-katholische Kirche in der Nähe des Bahnhofs ist für ihre markante Fassade und zentrale Lage bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851795,
+                        6.934924
+                  ]
+            },
+            {
+                  "name": "Street Market",
+                  "text": "Ein energiegeladenes Netzwerk aus schmalen Gassen voller Stände, die von Textilien bis hin zu Elektronik alles anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854252,
+                        6.936606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old General Post Office Fort",
+                  "text": "Ez a brit gyarmati korszakból származó jellegzetes épület Colombo erődjében egykor a sziget főpostájaként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        79.843413,
+                        6.936035
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Ez az 1817-ben alapított pettahi templom egész Ázsia legrégebbi metodista imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        79.856414,
+                        6.938992
+                  ]
+            },
+            {
+                  "name": "Wolvendaal Church",
+                  "text": "Ez az 1749-ből származó holland református templom dór építészetéről és történelmi sírköveiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        79.859027,
+                        6.942043
+                  ]
+            },
+            {
+                  "name": "Dutch Colonial Museum",
+                  "text": "A múzeum a holland kormányzó egykori, 17. századi rezidenciájában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        79.851649,
+                        6.936064
+                  ]
+            },
+            {
+                  "name": "Khan Clock Tower",
+                  "text": "Ez a történelmi torony a Pettah piac bejáratát jelzi, és a mumbai Khan család építtette.",
+                  "category": "tower",
+                  "coords": [
+                        79.849265,
+                        6.937109
+                  ]
+            },
+            {
+                  "name": "Old Dutch Hospital",
+                  "text": "A Fort negyed egyik legrégebbi épülete; ez az egykori holland kórház ma üzleteknek és kávézóknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843538,
+                        6.933496
+                  ]
+            },
+            {
+                  "name": "Old Colombo Lighthouse;Chatham Street Clock Tower",
+                  "text": "Az 1829-ben épült különleges építmény a városközpontban egykor világítótoronyként és óratoronyként is szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        79.842825,
+                        6.934726
+                  ]
+            },
+            {
+                  "name": "Lloyds Building",
+                  "text": "Ez a Fort negyedben található történelmi gyarmati irodaépület klasszikus brit építészeti stílusjegyeket visel.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844375,
+                        6.936585
+                  ]
+            },
+            {
+                  "name": "Colombo Lighthouse",
+                  "text": "Ezt az Indiai-óceánra néző, 29 méter magas világítótornyot az alapzatánál négy betonoroszlán őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        79.840791,
+                        6.936297
+                  ]
+            },
+            {
+                  "name": "Sambodhi Chaitya",
+                  "text": "Ez a modern buddhista sztúpa két hatalmas vasbeton ívre épült, és kilátást nyújt a kikötőre.",
+                  "category": "landmark",
+                  "coords": [
+                        79.841992,
+                        6.938302
+                  ]
+            },
+            {
+                  "name": "Jami Ul Alfar Mosque",
+                  "text": "Ez az ikonikus mecset Pettah szívében híres a jellegzetes piros-fehér csíkos téglafalairól.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851886,
+                        6.938435
+                  ]
+            },
+            {
+                  "name": "Fort Jumma Mosque",
+                  "text": "A muszlim közösség jelentős temploma, amely a Fort negyed nyüzsgő üzleti területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843848,
+                        6.934738
+                  ]
+            },
+            {
+                  "name": "Sammangodu Sri Kathirvelayutha Swamy Kovil",
+                  "text": "Ez a Pettah negyedben található hindu templom Lord Murugannak van szentelve, és színes gopuram toronnyal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850647,
+                        6.937755
+                  ]
+            },
+            {
+                  "name": "New Kathiresan Kovil",
+                  "text": "Ez a gazdag faragványairól ismert hindu templom a vallási fesztiválok egyik fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854622,
+                        6.942123
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "A kikötő közelében fekvő békés buddhista templom, amelyben egy szent Bodhi-fa is található.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857304,
+                        6.942443
+                  ]
+            },
+            {
+                  "name": "Masjid Muhiadeen Khadiriya Thakiya",
+                  "text": "A kereskedelmi negyedben található helyi mecset, amely csendes helyet biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        79.860873,
+                        6.940436
+                  ]
+            },
+            {
+                  "name": "Sri Bodhiraja Viharaya",
+                  "text": "Ez a buddhista templom és kolostor spirituális menedékként szolgál a vízpart közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        79.848156,
+                        6.936789
+                  ]
+            },
+            {
+                  "name": "St.Peter's Church",
+                  "text": "Ez az egykori holland kormányzói díszterem a város egyik legrégebbi, folyamatosan működő keresztény temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844732,
+                        6.937524
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "Neogótikus stílusban épült anglikán templom, amelyet gyönyörű ólomüveg ablakok díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        79.854566,
+                        6.937712
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "A New Bazaar negyedben található történelmi mecset az iszlám hitélet egyik kiemelkedő központja.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858959,
+                        6.94045
+                  ]
+            },
+            {
+                  "name": "St Phillip Neri Church",
+                  "text": "Ez a pályaudvar közelében található római katolikus templom jellegzetes homlokzatáról és központi helyéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851795,
+                        6.934924
+                  ]
+            },
+            {
+                  "name": "Street Market",
+                  "text": "Szűk utcák mozgalmas hálózata, ahol az árusok a textíliáktól az elektronikáig mindent kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854252,
+                        6.936606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old General Post Office Fort",
+                  "text": "Această clădire distinctivă din Colombo Fort, din epoca colonială britanică, a servit odinioară ca sediu poștal principal al insulei.",
+                  "category": "museum",
+                  "coords": [
+                        79.843413,
+                        6.936035
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Această biserică din Pettah, fondată în 1817, este cel mai vechi lăcaș de cult metodist din întreaga Asia.",
+                  "category": "religious",
+                  "coords": [
+                        79.856414,
+                        6.938992
+                  ]
+            },
+            {
+                  "name": "Wolvendaal Church",
+                  "text": "Această biserică olandeză reformată din 1749 este cunoscută pentru arhitectura sa dorică și pietrele funerare istorice.",
+                  "category": "religious",
+                  "coords": [
+                        79.859027,
+                        6.942043
+                  ]
+            },
+            {
+                  "name": "Dutch Colonial Museum",
+                  "text": "Muzeul este găzduit în fosta reședință a guvernatorului olandez, clădire ce datează din secolul al XVII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        79.851649,
+                        6.936064
+                  ]
+            },
+            {
+                  "name": "Khan Clock Tower",
+                  "text": "Acest turn istoric marchează intrarea în piața Pettah și a fost construit de familia Khan din Mumbai.",
+                  "category": "tower",
+                  "coords": [
+                        79.849265,
+                        6.937109
+                  ]
+            },
+            {
+                  "name": "Old Dutch Hospital",
+                  "text": "Una dintre cele mai vechi clădiri din zona Fort, acest fost spital olandez găzduiește astăzi magazine și cafenele.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843538,
+                        6.933496
+                  ]
+            },
+            {
+                  "name": "Old Colombo Lighthouse;Chatham Street Clock Tower",
+                  "text": "Construită în 1829, această structură din centrul orașului a servit inițial atât ca far, cât și ca turn cu ceas.",
+                  "category": "landmark",
+                  "coords": [
+                        79.842825,
+                        6.934726
+                  ]
+            },
+            {
+                  "name": "Lloyds Building",
+                  "text": "Această clădire istorică de birouri din epoca colonială, situată în districtul Fort, prezintă un design arhitectural britanic clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844375,
+                        6.936585
+                  ]
+            },
+            {
+                  "name": "Colombo Lighthouse",
+                  "text": "Acest far înalt de 29 de metri, cu vedere la Oceanul Indian, este păzit la bază de patru lei de beton.",
+                  "category": "landmark",
+                  "coords": [
+                        79.840791,
+                        6.936297
+                  ]
+            },
+            {
+                  "name": "Sambodhi Chaitya",
+                  "text": "Această stupă budistă modernă este construită pe două arcuri masive de beton armat, oferind vedere spre port.",
+                  "category": "landmark",
+                  "coords": [
+                        79.841992,
+                        6.938302
+                  ]
+            },
+            {
+                  "name": "Jami Ul Alfar Mosque",
+                  "text": "Această moschee emblematică este celebră pentru zidăria sa frapantă în dungi roșii și albe, situată în inima cartierului Pettah.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851886,
+                        6.938435
+                  ]
+            },
+            {
+                  "name": "Fort Jumma Mosque",
+                  "text": "Un lăcaș de cult important pentru comunitatea musulmană, situat în zona comercială aglomerată Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843848,
+                        6.934738
+                  ]
+            },
+            {
+                  "name": "Sammangodu Sri Kathirvelayutha Swamy Kovil",
+                  "text": "Acest templu hindu din Pettah este dedicat zeului Murugan și prezintă un turn gopuram colorat vibrant.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850647,
+                        6.937755
+                  ]
+            },
+            {
+                  "name": "New Kathiresan Kovil",
+                  "text": "Cunoscut pentru sculpturile sale complicate, acest templu hindu este un punct central pentru festivalurile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854622,
+                        6.942123
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "Un templu budist liniștit situat lângă zona portului, având un arbore Bodhi sacru.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857304,
+                        6.942443
+                  ]
+            },
+            {
+                  "name": "Masjid Muhiadeen Khadiriya Thakiya",
+                  "text": "O moschee locală din districtul comercial, care oferă un spațiu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        79.860873,
+                        6.940436
+                  ]
+            },
+            {
+                  "name": "Sri Bodhiraja Viharaya",
+                  "text": "Acest templu și mănăstire budistă servește ca sanctuar spiritual pentru comunitatea de lângă malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        79.848156,
+                        6.936789
+                  ]
+            },
+            {
+                  "name": "St.Peter's Church",
+                  "text": "O fostă sală de banchet a guvernatorului olandez, aceasta este una dintre cele mai vechi biserici creștine din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844732,
+                        6.937524
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "O biserică anglicană cu o arhitectură neogotică frapantă și vitralii frumoase.",
+                  "category": "religious",
+                  "coords": [
+                        79.854566,
+                        6.937712
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "Acest sit istoric din cartierul New Bazaar este un centru major pentru cultul islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858959,
+                        6.94045
+                  ]
+            },
+            {
+                  "name": "St Phillip Neri Church",
+                  "text": "Această biserică romano-catolică de lângă gară este cunoscută pentru fațada sa distinctă și locația centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851795,
+                        6.934924
+                  ]
+            },
+            {
+                  "name": "Street Market",
+                  "text": "O rețea energică de alei înguste pline de tarabe care vând de toate, de la textile la electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854252,
+                        6.936606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old General Post Office Fort",
+                  "text": "This distinctive British colonial-era building in Colombo Fort once served as the island's main postal headquarters.",
+                  "category": "museum",
+                  "coords": [
+                        79.843413,
+                        6.936035
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Established in 1817, this church in Pettah is the oldest Methodist place of worship in all of Asia.",
+                  "category": "religious",
+                  "coords": [
+                        79.856414,
+                        6.938992
+                  ]
+            },
+            {
+                  "name": "Wolvendaal Church",
+                  "text": "This 1749 Dutch Reformed church is known for its Doric architecture and historic colonial tombstones.",
+                  "category": "religious",
+                  "coords": [
+                        79.859027,
+                        6.942043
+                  ]
+            },
+            {
+                  "name": "Dutch Colonial Museum",
+                  "text": "The museum is housed in the former 17th-century residence of the Dutch Governor of Ceylon.",
+                  "category": "museum",
+                  "coords": [
+                        79.851649,
+                        6.936064
+                  ]
+            },
+            {
+                  "name": "Khan Clock Tower",
+                  "text": "This historic tower marks the entrance to the Pettah Market and was built by the Mumbai-based Khan family.",
+                  "category": "tower",
+                  "coords": [
+                        79.849265,
+                        6.937109
+                  ]
+            },
+            {
+                  "name": "Old Dutch Hospital",
+                  "text": "One of the oldest buildings in the Fort area, this former Dutch hospital now houses a collection of shops and cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843538,
+                        6.933496
+                  ]
+            },
+            {
+                  "name": "Old Colombo Lighthouse;Chatham Street Clock Tower",
+                  "text": "Built in 1829, this unique structure in the city center originally served as both a lighthouse and a clock tower.",
+                  "category": "landmark",
+                  "coords": [
+                        79.842825,
+                        6.934726
+                  ]
+            },
+            {
+                  "name": "Lloyds Building",
+                  "text": "This historic colonial office building in the Fort district features classic British architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844375,
+                        6.936585
+                  ]
+            },
+            {
+                  "name": "Colombo Lighthouse",
+                  "text": "This 29-meter tall lighthouse overlooking the Indian Ocean is famously guarded by four concrete lions at its base.",
+                  "category": "landmark",
+                  "coords": [
+                        79.840791,
+                        6.936297
+                  ]
+            },
+            {
+                  "name": "Sambodhi Chaitya",
+                  "text": "This modern Buddhist stupa is built on two massive reinforced concrete arches, offering views over the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        79.841992,
+                        6.938302
+                  ]
+            },
+            {
+                  "name": "Red Mosque",
+                  "text": "This iconic mosque is famous for its striking red and white candy-striped brickwork in the heart of Pettah.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851886,
+                        6.938435
+                  ]
+            },
+            {
+                  "name": "Fort Jumma Mosque",
+                  "text": "A significant place of worship for the Muslim community, located within the busy Fort commercial area.",
+                  "category": "landmark",
+                  "coords": [
+                        79.843848,
+                        6.934738
+                  ]
+            },
+            {
+                  "name": "Sammangodu Sri Kathirvelayutha Swamy Kovil",
+                  "text": "This Hindu temple in Pettah is dedicated to Lord Murugan and features a vibrantly colored gopuram tower.",
+                  "category": "landmark",
+                  "coords": [
+                        79.850647,
+                        6.937755
+                  ]
+            },
+            {
+                  "name": "New Kathiresan Kovil",
+                  "text": "Known for its intricate carvings, this Hindu temple is a focal point for various religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        79.854622,
+                        6.942123
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirajaramaya",
+                  "text": "A peaceful Buddhist temple located near the port area, featuring a sacred Bodhi tree for devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        79.857304,
+                        6.942443
+                  ]
+            },
+            {
+                  "name": "Masjid Muhiadeen Khadiriya Thakiya",
+                  "text": "A local mosque in the commercial district providing a quiet space for daily prayers amidst the urban bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        79.860873,
+                        6.940436
+                  ]
+            },
+            {
+                  "name": "Sri Bodhiraja Viharaya",
+                  "text": "This Buddhist temple and monastery serves as a spiritual sanctuary for the community near the waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        79.848156,
+                        6.936789
+                  ]
+            },
+            {
+                  "name": "St.Peter's Church",
+                  "text": "Originally a Dutch governor's banquet hall, this is one of the oldest continuously used Christian churches in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        79.844732,
+                        6.937524
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "An Anglican church featuring striking Gothic Revival architecture and beautiful stained-glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        79.854566,
+                        6.937712
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "Located in the New Bazaar area, this historic mosque is a major center for Islamic worship.",
+                  "category": "landmark",
+                  "coords": [
+                        79.858959,
+                        6.94045
+                  ]
+            },
+            {
+                  "name": "St Phillip Neri Church",
+                  "text": "This Roman Catholic church near the railway station is known for its distinct facade and central location.",
+                  "category": "landmark",
+                  "coords": [
+                        79.851795,
+                        6.934924
+                  ]
+            },
+            {
+                  "name": "Street Market",
+                  "text": "An energetic network of narrow lanes filled with stalls selling everything from textiles to electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        79.854252,
+                        6.936606
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-11",
     coords: [79.8517, 6.9388],
@@ -255,7 +3414,304 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "seetha-amman-temple-landmarks-v2",
+    id: "seetha-amman-temple-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moon Plains",
+                  "text": "Ein weites Hochplateau, das einen Panoramablick auf die Gipfel des Pidurutalagala und des Kirigalpotta bietet.",
+                  "category": "natural",
+                  "coords": [
+                        80.820152,
+                        6.943077
+                  ]
+            },
+            {
+                  "name": "Bomburu Ella Waterfall",
+                  "text": "Sri Lankas breitester Wasserfall stürzt in mehreren Stufen inmitten der nebligen Bergwälder herab.",
+                  "category": "landmark",
+                  "coords": [
+                        80.830774,
+                        6.94706
+                  ]
+            },
+            {
+                  "name": "Seetha Amman Kovil",
+                  "text": "Dieser farbenfrohe Tempel am Flussufer markiert der Legende nach den Ort, an dem Prinzessin Sita gefangen gehalten wurde.",
+                  "category": "religious",
+                  "coords": [
+                        80.810646,
+                        6.933209
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ein kleiner buddhistischer Rückzugsort in der kühlen, nebligen Umgebung von Seetha Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.889003,
+                        6.95437
+                  ]
+            },
+            {
+                  "name": "Kovil",
+                  "text": "Ein hinduistischer Kovil, der mit kunstvollen Schnitzereien lokaler Gottheiten in den Highlands geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.886999,
+                        6.971041
+                  ]
+            },
+            {
+                  "name": "Sri Medhanandarama Viharaya",
+                  "text": "Ein lokales Vihara in Seetha Eliya, das für seine traditionelle Architektur und religiöse Bildung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.858638,
+                        6.953617
+                  ]
+            },
+            {
+                  "name": "Seetha Eliya Temple",
+                  "text": "Ein buddhistischer Tempel in unmittelbarer Nähe zum Seetha Amman Kovil, der die religiöse Vielfalt der Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.804661,
+                        6.934979
+                  ]
+            },
+            {
+                  "name": "Sri Rathanajothi Buddhist Center",
+                  "text": "Ein Zentrum für buddhistische Studien und Meditation in der ruhigen Umgebung von Seetha Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.872805,
+                        6.961345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moon Plains",
+                  "text": "Széles, magaslati fennsík, amely panorámás kilátást nyújt a Pidurutalagala és a Kirigalpotta csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        80.820152,
+                        6.943077
+                  ]
+            },
+            {
+                  "name": "Bomburu Ella Waterfall",
+                  "text": "Srí Lanka legszélesebb vízesése több lépcsőben zúdul le a ködös hegyi erdők közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        80.830774,
+                        6.94706
+                  ]
+            },
+            {
+                  "name": "Seetha Amman Kovil",
+                  "text": "Ez a színes folyóparti templom a legenda szerint azt a helyet jelöli, ahol Szíta hercegnőt fogva tartották.",
+                  "category": "religious",
+                  "coords": [
+                        80.810646,
+                        6.933209
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Egy kis buddhista elvonulóhely Seetha Eliya hűvös, ködös környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.889003,
+                        6.95437
+                  ]
+            },
+            {
+                  "name": "Kovil",
+                  "text": "Felföldi hindu kovil, amelyet helyi istenségek bonyolult faragványai díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.886999,
+                        6.971041
+                  ]
+            },
+            {
+                  "name": "Sri Medhanandarama Viharaya",
+                  "text": "Helyi vihara Seetha Eliyában, amely hagyományos építészetéről és vallási oktatásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.858638,
+                        6.953617
+                  ]
+            },
+            {
+                  "name": "Seetha Eliya Temple",
+                  "text": "Buddhista templom a Seetha Amman Kovil közvetlen közelében, amely a régió vallási sokszínűségét mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.804661,
+                        6.934979
+                  ]
+            },
+            {
+                  "name": "Sri Rathanajothi Buddhist Center",
+                  "text": "Buddhista tanulmányi és meditációs központ Seetha Eliya nyugodt környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.872805,
+                        6.961345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moon Plains",
+                  "text": "Un platou înalt și vast, care oferă vederi panoramice asupra vârfurilor Pidurutalagala și Kirigalpotta.",
+                  "category": "natural",
+                  "coords": [
+                        80.820152,
+                        6.943077
+                  ]
+            },
+            {
+                  "name": "Bomburu Ella Waterfall",
+                  "text": "Cea mai lată cascadă din Sri Lanka coboară în mai multe trepte în mijlocul pădurilor montane înzăpezite.",
+                  "category": "landmark",
+                  "coords": [
+                        80.830774,
+                        6.94706
+                  ]
+            },
+            {
+                  "name": "Seetha Amman Kovil",
+                  "text": "Acest templu colorat de pe malul râului marchează locul unde legenda spune că prințesa Sita a fost ținută captivă.",
+                  "category": "religious",
+                  "coords": [
+                        80.810646,
+                        6.933209
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Un mic refugiu budist în împrejurimile răcoroase și cețoase din Seetha Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.889003,
+                        6.95437
+                  ]
+            },
+            {
+                  "name": "Kovil",
+                  "text": "Un kovil hindu împodobit cu sculpturi complicate ale zeităților locale în zona muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.886999,
+                        6.971041
+                  ]
+            },
+            {
+                  "name": "Sri Medhanandarama Viharaya",
+                  "text": "O vihara locală în Seetha Eliya, cunoscută pentru arhitectura tradițională și educația religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.858638,
+                        6.953617
+                  ]
+            },
+            {
+                  "name": "Seetha Eliya Temple",
+                  "text": "Un templu budist situat în imediata apropiere a Seetha Amman Kovil, prezentând diversitatea religioasă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        80.804661,
+                        6.934979
+                  ]
+            },
+            {
+                  "name": "Sri Rathanajothi Buddhist Center",
+                  "text": "Un centru pentru studii budiste și meditație în împrejurimile calme din Seetha Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.872805,
+                        6.961345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moon Plains",
+                  "text": "A vast high-altitude plateau offering panoramic views of the Pidurutalagala and Kirigalpotta peaks.",
+                  "category": "natural",
+                  "coords": [
+                        80.820152,
+                        6.943077
+                  ]
+            },
+            {
+                  "name": "Bomburu Ella Waterfall",
+                  "text": "Sri Lanka's widest waterfall cascades down in several small falls amidst the misty mountain forests.",
+                  "category": "landmark",
+                  "coords": [
+                        80.830774,
+                        6.94706
+                  ]
+            },
+            {
+                  "name": "Seetha Amman Kovil",
+                  "text": "This colorful riverside temple marks the spot where legend says Princess Sita was held captive.",
+                  "category": "religious",
+                  "coords": [
+                        80.810646,
+                        6.933209
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "A small buddhist retreat set in the cool, misty environment of Seetha Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.889003,
+                        6.95437
+                  ]
+            },
+            {
+                  "name": "Kovil",
+                  "text": "A highland hindu kovil adorned with intricate carvings of local deities.",
+                  "category": "landmark",
+                  "coords": [
+                        80.886999,
+                        6.971041
+                  ]
+            },
+            {
+                  "name": "Sri Medhanandarama Viharaya",
+                  "text": "A local vihara in Seetha Eliya known for its traditional architecture and religious education.",
+                  "category": "landmark",
+                  "coords": [
+                        80.858638,
+                        6.953617
+                  ]
+            },
+            {
+                  "name": "Seetha Eliya Temple",
+                  "text": "A buddhist temple located in close proximity to the Seetha Amman Kovil, showcasing the area's religious diversity.",
+                  "category": "landmark",
+                  "coords": [
+                        80.804661,
+                        6.934979
+                  ]
+            },
+            {
+                  "name": "Sri Rathanajothi Buddhist Center",
+                  "text": "A center for buddhist studies and meditation set in the quiet surroundings of Seetha Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.872805,
+                        6.961345
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.8122, 6.9317],
@@ -291,7 +3747,1240 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ramboda-falls-landmarks-v2",
+    id: "ramboda-falls-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nice Viewpoint",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das neblige Ramboda-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        80.707881,
+                        7.042527
+                  ]
+            },
+            {
+                  "name": "Blue Fields Tea Factory",
+                  "text": "Eine Teefabrik in großer Höhe, in der man die Herstellung von Ceylon-Tee beobachten kann.",
+                  "category": "landmark",
+                  "coords": [
+                        80.696478,
+                        7.045376
+                  ]
+            },
+            {
+                  "name": "Monaragala",
+                  "text": "Ein Berg-Aussichtspunkt in der Nähe von Ramboda mit Blick auf die umliegenden Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        80.632385,
+                        7.084896
+                  ]
+            },
+            {
+                  "name": "plantation de thé escalier",
+                  "text": "Ein terrassierter Aussichtspunkt inmitten der grünen Teepflanzungen.",
+                  "category": "natural",
+                  "coords": [
+                        80.636562,
+                        7.111884
+                  ]
+            },
+            {
+                  "name": "Glenloch Tea Plantation",
+                  "text": "Eine historische Teeplantage in den Highlands, die für ihren hochwertigen Ceylon-Tee bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675984,
+                        7.077115
+                  ]
+            },
+            {
+                  "name": "Puna Ella Falls",
+                  "text": "Ein beeindruckender Zwillingswasserfall, bei dem zwei Bäche parallel in die Tiefe stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        80.695601,
+                        7.047058
+                  ]
+            },
+            {
+                  "name": "Ramboda Falls",
+                  "text": "Ein gewaltiger, 109 Meter hoher Wasserfall, der direkt an der Passstraße liegt.",
+                  "category": "natural",
+                  "coords": [
+                        80.699065,
+                        7.055871
+                  ]
+            },
+            {
+                  "name": "Amazing view of waterfall  and tea plantations",
+                  "text": "Ein Panorama-Aussichtspunkt mit Blick auf stürzende Wasserfälle und grüne Tee-Terrassen.",
+                  "category": "natural",
+                  "coords": [
+                        80.705924,
+                        7.056405
+                  ]
+            },
+            {
+                  "name": "Kothmale Panorama",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Kothmale-Stausee und das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        80.695601,
+                        7.056914
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein lokaler buddhistischer Tempel in der ruhigen Hügellandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648542,
+                        7.044856
+                  ]
+            },
+            {
+                  "name": "Thispane Sri Isipathanaramaya",
+                  "text": "Ein buddhistischer Tempel im Dorf Thispane, der dem lokalen Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.620839,
+                        7.034284
+                  ]
+            },
+            {
+                  "name": "Tispanekanda Sri Gunaratana Piriwena",
+                  "text": "Eine buddhistische Klosterschule und Tempelanlage in der Region Tispanekanda.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617083,
+                        7.043909
+                  ]
+            },
+            {
+                  "name": "Pusulpitiya Raja Maha Viharaya",
+                  "text": "Ein alter königlicher Tempel, der für seine historischen Holzschnitzereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648343,
+                        7.055243
+                  ]
+            },
+            {
+                  "name": "Sri Manthindaramaya Temple",
+                  "text": "Ein buddhistischer Tempel in den nebligen Hügeln des Hochlandes.",
+                  "category": "landmark",
+                  "coords": [
+                        80.637045,
+                        7.107252
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Eine christliche Kirche, die die Gemeinde in der Nähe von Pussellawa bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635371,
+                        7.113188
+                  ]
+            },
+            {
+                  "name": "Shri Bhakta Hanuman Kovil",
+                  "text": "Ein bedeutender Hindutempel, der Hanuman gewidmet ist und weite Talblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680594,
+                        7.073983
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirukkarama Viharaya",
+                  "text": "Ein buddhistischer Tempel mit einem heiligen Bodhi-Baum auf dem Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        80.682069,
+                        7.068005
+                  ]
+            },
+            {
+                  "name": "Puwakmal pidugoda viharaya",
+                  "text": "Ein friedlicher buddhistischer Tempel in ländlicher Hanglage.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674119,
+                        7.068067
+                  ]
+            },
+            {
+                  "name": "Sugatharamaya Temple",
+                  "text": "Ein lokaler buddhistischer Tempel mit traditioneller singhalesischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675428,
+                        7.075327
+                  ]
+            },
+            {
+                  "name": "Niyangamdora Rajamaha Viharaya",
+                  "text": "Ein historischer königlicher Tempel mit antiken Inschriften und religiöser Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        80.661673,
+                        7.049979
+                  ]
+            },
+            {
+                  "name": "Sri Abhayapura Viharaya",
+                  "text": "Ein buddhistischer Tempel, der das geistige Zentrum der lokalen Hochlandgemeinde bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611628,
+                        7.032224
+                  ]
+            },
+            {
+                  "name": "Handawalapitiya Jinendraramaya",
+                  "text": "Ein buddhistischer Tempel im Gebiet Handawalapitiya, umgeben von Grün.",
+                  "category": "landmark",
+                  "coords": [
+                        80.736752,
+                        7.125755
+                  ]
+            },
+            {
+                  "name": "sri muththumariyamman temple",
+                  "text": "Ein farbenfroher Hindutempel, der der Göttin Mariamman gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686751,
+                        7.127546
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ein traditioneller buddhistischer Schrein inmitten der nebligen Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        80.687692,
+                        7.065654
+                  ]
+            },
+            {
+                  "name": "Ambatahalawa Pragna Pradeepa Piriwena",
+                  "text": "Ein buddhistisches Bildungszentrum und Kloster in Ambatahalawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674956,
+                        7.055042
+                  ]
+            },
+            {
+                  "name": "Malhewa Dalada Karandu Purana Viharaya",
+                  "text": "Ein alter Tempel, der für seinen Schrein für das Reliquienkästchen des Zahns bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686505,
+                        7.05144
+                  ]
+            },
+            {
+                  "name": "Palagolla Temple",
+                  "text": "Ein kleiner, ruhiger buddhistischer Tempel im Dorf Palagolla.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700639,
+                        7.041965
+                  ]
+            },
+            {
+                  "name": "Sri Wardhanaramaya",
+                  "text": "Ein buddhistischer Tempel vor der Kulisse der nebligen zentralen Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63021,
+                        7.035749
+                  ]
+            },
+            {
+                  "name": "Morape Kataragama Maha Devalaya",
+                  "text": "Ein bedeutender Schrein, der der Gottheit Kataragama gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624568,
+                        7.06386
+                  ]
+            },
+            {
+                  "name": "Yathurugahu Liyadda Purana Rajamaha Viharaya",
+                  "text": "Ein historischer Rajamaha Viharaya mit Wurzeln in der antiken Königszeit.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633053,
+                        7.062047
+                  ]
+            },
+            {
+                  "name": "Mawela Temple",
+                  "text": "Ein dörflicher buddhistischer Tempel in der Gegend von Mawela.",
+                  "category": "landmark",
+                  "coords": [
+                        80.642926,
+                        7.071138
+                  ]
+            },
+            {
+                  "name": "Rajagiri Rajamaha Viharaya",
+                  "text": "Ein antiker Felsentempel mit Höhlenwohnungen in der Nähe von Pussellawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.627601,
+                        7.066246
+                  ]
+            },
+            {
+                  "name": "Delta Gemunupura Gemunuraja Viharaya",
+                  "text": "Ein Tempel auf dem Gelände des Delta-Anwesens, benannt nach König Gemunu.",
+                  "category": "landmark",
+                  "coords": [
+                        80.644329,
+                        7.098997
+                  ]
+            },
+            {
+                  "name": "pussellawa market",
+                  "text": "Ein geschäftiger lokaler Markt, bekannt für frisches Gemüse aus dem Hochland.",
+                  "category": "cultural",
+                  "coords": [
+                        80.634728,
+                        7.108737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nice Viewpoint",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a ködös Ramboda-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        80.707881,
+                        7.042527
+                  ]
+            },
+            {
+                  "name": "Blue Fields Tea Factory",
+                  "text": "Magasan fekvő teagyár, ahol megismerhető a Ceylon-tea készítésének folyamata.",
+                  "category": "landmark",
+                  "coords": [
+                        80.696478,
+                        7.045376
+                  ]
+            },
+            {
+                  "name": "Monaragala",
+                  "text": "Hegyi kilátópont Ramboda közelében, rálátással a környező csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        80.632385,
+                        7.084896
+                  ]
+            },
+            {
+                  "name": "plantation de thé escalier",
+                  "text": "Teraszos kilátópont a zöldellő teaültetvények közepén.",
+                  "category": "natural",
+                  "coords": [
+                        80.636562,
+                        7.111884
+                  ]
+            },
+            {
+                  "name": "Glenloch Tea Plantation",
+                  "text": "Történelmi felföldi teaültetvény, amely kiváló minőségű Ceylon-teájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675984,
+                        7.077115
+                  ]
+            },
+            {
+                  "name": "Puna Ella Falls",
+                  "text": "Lenyűgöző ikervízesés, ahol két patak zúdul le párhuzamosan a mélybe.",
+                  "category": "landmark",
+                  "coords": [
+                        80.695601,
+                        7.047058
+                  ]
+            },
+            {
+                  "name": "Ramboda Falls",
+                  "text": "Egy hatalmas, 109 méter magas vízesés közvetlenül a hágóút mellett.",
+                  "category": "natural",
+                  "coords": [
+                        80.699065,
+                        7.055871
+                  ]
+            },
+            {
+                  "name": "Amazing view of waterfall  and tea plantations",
+                  "text": "Panorámás kilátópont, rálátással a zúgó vízesésekre és a zöld teateraszokra.",
+                  "category": "natural",
+                  "coords": [
+                        80.705924,
+                        7.056405
+                  ]
+            },
+            {
+                  "name": "Kothmale Panorama",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Kothmale-víztározóra és a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        80.695601,
+                        7.056914
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Helyi buddhista templom a csendes dombvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648542,
+                        7.044856
+                  ]
+            },
+            {
+                  "name": "Thispane Sri Isipathanaramaya",
+                  "text": "Buddhista templom Thispane faluban, amely a helyi hitéletet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.620839,
+                        7.034284
+                  ]
+            },
+            {
+                  "name": "Tispanekanda Sri Gunaratana Piriwena",
+                  "text": "Buddhista kolostori iskola és templomegyüttes Tispanekanda régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617083,
+                        7.043909
+                  ]
+            },
+            {
+                  "name": "Pusulpitiya Raja Maha Viharaya",
+                  "text": "Ősi királyi templom, amely történelmi fafaragásairól és szobrairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648343,
+                        7.055243
+                  ]
+            },
+            {
+                  "name": "Sri Manthindaramaya Temple",
+                  "text": "Buddhista templom a felföld ködös dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        80.637045,
+                        7.107252
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Keresztény templom, amely a Pussellawa környéki közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635371,
+                        7.113188
+                  ]
+            },
+            {
+                  "name": "Shri Bhakta Hanuman Kovil",
+                  "text": "Jelentős hindu templom, amelyet Hanumánnak szenteltek, és széles kilátást nyújt a völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680594,
+                        7.073983
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirukkarama Viharaya",
+                  "text": "Buddhista templom, amelynek udvarán egy szent Bódhi-fa áll.",
+                  "category": "landmark",
+                  "coords": [
+                        80.682069,
+                        7.068005
+                  ]
+            },
+            {
+                  "name": "Puwakmal pidugoda viharaya",
+                  "text": "Békés buddhista templom egy vidéki domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674119,
+                        7.068067
+                  ]
+            },
+            {
+                  "name": "Sugatharamaya Temple",
+                  "text": "Helyi buddhista templom hagyományos szingaléz építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675428,
+                        7.075327
+                  ]
+            },
+            {
+                  "name": "Niyangamdora Rajamaha Viharaya",
+                  "text": "Történelmi királyi templom ősi feliratokkal és vallási jelentőséggel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.661673,
+                        7.049979
+                  ]
+            },
+            {
+                  "name": "Sri Abhayapura Viharaya",
+                  "text": "Buddhista templom, amely a helyi felföldi közösség szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611628,
+                        7.032224
+                  ]
+            },
+            {
+                  "name": "Handawalapitiya Jinendraramaya",
+                  "text": "Buddhista templom Handawalapitiya környékén, zöld környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        80.736752,
+                        7.125755
+                  ]
+            },
+            {
+                  "name": "sri muththumariyamman temple",
+                  "text": "Színes hindu templom, amelyet Mariamman istennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686751,
+                        7.127546
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Hagyományos buddhista szentély a ködös hegyek között.",
+                  "category": "landmark",
+                  "coords": [
+                        80.687692,
+                        7.065654
+                  ]
+            },
+            {
+                  "name": "Ambatahalawa Pragna Pradeepa Piriwena",
+                  "text": "Buddhista oktatási központ és kolostor Ambatahalawában.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674956,
+                        7.055042
+                  ]
+            },
+            {
+                  "name": "Malhewa Dalada Karandu Purana Viharaya",
+                  "text": "Ősi templom, amely a Szent Fog-ereklye tartójának szentelt oltáráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686505,
+                        7.05144
+                  ]
+            },
+            {
+                  "name": "Palagolla Temple",
+                  "text": "Kicsi, csendes buddhista templom Palagolla faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700639,
+                        7.041965
+                  ]
+            },
+            {
+                  "name": "Sri Wardhanaramaya",
+                  "text": "Buddhista templom a ködös központi hegyek hátterével.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63021,
+                        7.035749
+                  ]
+            },
+            {
+                  "name": "Morape Kataragama Maha Devalaya",
+                  "text": "Jelentős szentély, amelyet Kataragama istennek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624568,
+                        7.06386
+                  ]
+            },
+            {
+                  "name": "Yathurugahu Liyadda Purana Rajamaha Viharaya",
+                  "text": "Történelmi Rajamaha Viharaya, amely az ősi királyi időkig nyúlik vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633053,
+                        7.062047
+                  ]
+            },
+            {
+                  "name": "Mawela Temple",
+                  "text": "Falusi buddhista templom Mawela környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        80.642926,
+                        7.071138
+                  ]
+            },
+            {
+                  "name": "Rajagiri Rajamaha Viharaya",
+                  "text": "Ősi sziklatemplom barlanglakásokkal Pussellawa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.627601,
+                        7.066246
+                  ]
+            },
+            {
+                  "name": "Delta Gemunupura Gemunuraja Viharaya",
+                  "text": "A Delta-birtok területén található templom, amelyet Gemunu királyról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        80.644329,
+                        7.098997
+                  ]
+            },
+            {
+                  "name": "pussellawa market",
+                  "text": "Nyüzsgő helyi piac, amely friss felföldi zöldségeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        80.634728,
+                        7.108737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nice Viewpoint",
+                  "text": "Un punct de observație care oferă o panoramă largă asupra văii cețoase Ramboda.",
+                  "category": "natural",
+                  "coords": [
+                        80.707881,
+                        7.042527
+                  ]
+            },
+            {
+                  "name": "Blue Fields Tea Factory",
+                  "text": "O fabrică de ceai situată la mare altitudine, unde puteți observa producția de ceai Ceylon.",
+                  "category": "landmark",
+                  "coords": [
+                        80.696478,
+                        7.045376
+                  ]
+            },
+            {
+                  "name": "Monaragala",
+                  "text": "Un punct de observație montan lângă Ramboda, cu vedere spre vârfurile învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        80.632385,
+                        7.084896
+                  ]
+            },
+            {
+                  "name": "plantation de thé escalier",
+                  "text": "Un punct de observație terasat în mijlocul plantațiilor verzi de ceai.",
+                  "category": "natural",
+                  "coords": [
+                        80.636562,
+                        7.111884
+                  ]
+            },
+            {
+                  "name": "Glenloch Tea Plantation",
+                  "text": "O plantație istorică de ceai din zonele înalte, cunoscută pentru ceaiul său Ceylon de calitate.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675984,
+                        7.077115
+                  ]
+            },
+            {
+                  "name": "Puna Ella Falls",
+                  "text": "O cascadă gemenă impresionantă, unde două pârâuri cad în paralel în adâncuri.",
+                  "category": "landmark",
+                  "coords": [
+                        80.695601,
+                        7.047058
+                  ]
+            },
+            {
+                  "name": "Ramboda Falls",
+                  "text": "O cascadă masivă de 109 metri înălțime, situată chiar lângă drumul de trecătoare.",
+                  "category": "natural",
+                  "coords": [
+                        80.699065,
+                        7.055871
+                  ]
+            },
+            {
+                  "name": "Amazing view of waterfall  and tea plantations",
+                  "text": "Un punct panoramic cu vedere la cascadele repezi și terasele verzi de ceai.",
+                  "category": "natural",
+                  "coords": [
+                        80.705924,
+                        7.056405
+                  ]
+            },
+            {
+                  "name": "Kothmale Panorama",
+                  "text": "Un punct de observație cu vedere largă peste rezervorul Kothmale și vale.",
+                  "category": "natural",
+                  "coords": [
+                        80.695601,
+                        7.056914
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un templu budist local în peisajul deluros liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648542,
+                        7.044856
+                  ]
+            },
+            {
+                  "name": "Thispane Sri Isipathanaramaya",
+                  "text": "Un templu budist în satul Thispane, servind comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        80.620839,
+                        7.034284
+                  ]
+            },
+            {
+                  "name": "Tispanekanda Sri Gunaratana Piriwena",
+                  "text": "O școală monahală budistă și un complex de temple în regiunea Tispanekanda.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617083,
+                        7.043909
+                  ]
+            },
+            {
+                  "name": "Pusulpitiya Raja Maha Viharaya",
+                  "text": "Un templu regal antic, cunoscut pentru sculpturile sale istorice în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648343,
+                        7.055243
+                  ]
+            },
+            {
+                  "name": "Sri Manthindaramaya Temple",
+                  "text": "Un templu budist situat printre dealurile cețoase din zonele înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        80.637045,
+                        7.107252
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "O biserică creștină care deservește comunitatea din apropiere de Pussellawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635371,
+                        7.113188
+                  ]
+            },
+            {
+                  "name": "Shri Bhakta Hanuman Kovil",
+                  "text": "Un templu hindu important dedicat zeității Hanuman, oferind vederi largi spre vale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680594,
+                        7.073983
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirukkarama Viharaya",
+                  "text": "Un templu budist care are un arbore sacru Bodhi în incintă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.682069,
+                        7.068005
+                  ]
+            },
+            {
+                  "name": "Puwakmal pidugoda viharaya",
+                  "text": "Un templu budist liniștit situat pe un versant rural.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674119,
+                        7.068067
+                  ]
+            },
+            {
+                  "name": "Sugatharamaya Temple",
+                  "text": "Un templu budist local cu arhitectură tradițională sinhaleză.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675428,
+                        7.075327
+                  ]
+            },
+            {
+                  "name": "Niyangamdora Rajamaha Viharaya",
+                  "text": "Un templu regal istoric cu inscripții antice și semnificație religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.661673,
+                        7.049979
+                  ]
+            },
+            {
+                  "name": "Sri Abhayapura Viharaya",
+                  "text": "Un templu budist care formează centrul spiritual al comunității locale din zonele înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611628,
+                        7.032224
+                  ]
+            },
+            {
+                  "name": "Handawalapitiya Jinendraramaya",
+                  "text": "Un templu budist în zona Handawalapitiya, înconjurat de verdeață.",
+                  "category": "landmark",
+                  "coords": [
+                        80.736752,
+                        7.125755
+                  ]
+            },
+            {
+                  "name": "sri muththumariyamman temple",
+                  "text": "Un templu hindu colorat dedicat zeiței Mariamman.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686751,
+                        7.127546
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Un altar budist tradițional în mijlocul munților cețoși.",
+                  "category": "landmark",
+                  "coords": [
+                        80.687692,
+                        7.065654
+                  ]
+            },
+            {
+                  "name": "Ambatahalawa Pragna Pradeepa Piriwena",
+                  "text": "Un centru educațional budist și mănăstire în Ambatahalawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674956,
+                        7.055042
+                  ]
+            },
+            {
+                  "name": "Malhewa Dalada Karandu Purana Viharaya",
+                  "text": "Un templu antic cunoscut pentru altarul său dedicat casetei cu Relicva Dintelui.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686505,
+                        7.05144
+                  ]
+            },
+            {
+                  "name": "Palagolla Temple",
+                  "text": "Un mic și liniștit templu budist în satul Palagolla.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700639,
+                        7.041965
+                  ]
+            },
+            {
+                  "name": "Sri Wardhanaramaya",
+                  "text": "Un templu budist pe fundalul munților centrali cețoși.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63021,
+                        7.035749
+                  ]
+            },
+            {
+                  "name": "Morape Kataragama Maha Devalaya",
+                  "text": "Un altar important dedicat zeității Kataragama.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624568,
+                        7.06386
+                  ]
+            },
+            {
+                  "name": "Yathurugahu Liyadda Purana Rajamaha Viharaya",
+                  "text": "Un istoric Rajamaha Viharaya cu rădăcini care datează din epoca regală antică.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633053,
+                        7.062047
+                  ]
+            },
+            {
+                  "name": "Mawela Temple",
+                  "text": "Un templu budist sătesc în zona Mawela.",
+                  "category": "landmark",
+                  "coords": [
+                        80.642926,
+                        7.071138
+                  ]
+            },
+            {
+                  "name": "Rajagiri Rajamaha Viharaya",
+                  "text": "Un templu antic în stâncă, cu locuințe în peșteră, lângă Pussellawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.627601,
+                        7.066246
+                  ]
+            },
+            {
+                  "name": "Delta Gemunupura Gemunuraja Viharaya",
+                  "text": "Un templu situat pe domeniul Delta, numit după regele Gemunu.",
+                  "category": "landmark",
+                  "coords": [
+                        80.644329,
+                        7.098997
+                  ]
+            },
+            {
+                  "name": "pussellawa market",
+                  "text": "O piață locală plină de viață, cunoscută pentru legumele proaspete din zonele înalte.",
+                  "category": "cultural",
+                  "coords": [
+                        80.634728,
+                        7.108737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nice Viewpoint",
+                  "text": "A viewpoint offering wide vistas over the misty Ramboda valley.",
+                  "category": "natural",
+                  "coords": [
+                        80.707881,
+                        7.042527
+                  ]
+            },
+            {
+                  "name": "Blue Fields Tea Factory",
+                  "text": "A high-altitude tea factory where you can observe the production of Ceylon tea.",
+                  "category": "landmark",
+                  "coords": [
+                        80.696478,
+                        7.045376
+                  ]
+            },
+            {
+                  "name": "Monaragala",
+                  "text": "A mountain viewpoint near Ramboda overlooking the surrounding peaks.",
+                  "category": "natural",
+                  "coords": [
+                        80.632385,
+                        7.084896
+                  ]
+            },
+            {
+                  "name": "plantation de thé escalier",
+                  "text": "A terraced viewpoint set amidst the lush green tea plantations.",
+                  "category": "natural",
+                  "coords": [
+                        80.636562,
+                        7.111884
+                  ]
+            },
+            {
+                  "name": "Glenloch Tea Plantation",
+                  "text": "A historic highland tea plantation known for its high-quality Ceylon tea.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675984,
+                        7.077115
+                  ]
+            },
+            {
+                  "name": "Puna Ella Falls",
+                  "text": "An impressive twin waterfall where two streams plummet side-by-side.",
+                  "category": "landmark",
+                  "coords": [
+                        80.695601,
+                        7.047058
+                  ]
+            },
+            {
+                  "name": "Ramboda Falls",
+                  "text": "A massive 109-meter-high waterfall located right by the mountain pass road.",
+                  "category": "natural",
+                  "coords": [
+                        80.699065,
+                        7.055871
+                  ]
+            },
+            {
+                  "name": "Amazing view of waterfall  and tea plantations",
+                  "text": "A scenic viewpoint overlooking cascading waterfalls and green tea terraces.",
+                  "category": "natural",
+                  "coords": [
+                        80.705924,
+                        7.056405
+                  ]
+            },
+            {
+                  "name": "Kothmale Panorama",
+                  "text": "A viewpoint offering expansive vistas over the Kothmale Reservoir and valley.",
+                  "category": "natural",
+                  "coords": [
+                        80.695601,
+                        7.056914
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A local Buddhist temple situated in the quiet hillside landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648542,
+                        7.044856
+                  ]
+            },
+            {
+                  "name": "Thispane Sri Isipathanaramaya",
+                  "text": "A Buddhist temple in Thispane village serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        80.620839,
+                        7.034284
+                  ]
+            },
+            {
+                  "name": "Tispanekanda Sri Gunaratana Piriwena",
+                  "text": "A Buddhist monastic college and temple complex in the Tispanekanda region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617083,
+                        7.043909
+                  ]
+            },
+            {
+                  "name": "Pusulpitiya Raja Maha Viharaya",
+                  "text": "An ancient royal temple known for its historic wood carvings and sacred statues.",
+                  "category": "landmark",
+                  "coords": [
+                        80.648343,
+                        7.055243
+                  ]
+            },
+            {
+                  "name": "Sri Manthindaramaya Temple",
+                  "text": "A Buddhist temple nestled among the misty hills of the high country.",
+                  "category": "landmark",
+                  "coords": [
+                        80.637045,
+                        7.107252
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "A Christian church serving the community near Pussellawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635371,
+                        7.113188
+                  ]
+            },
+            {
+                  "name": "Shri Bhakta Hanuman Kovil",
+                  "text": "A significant Hindu temple dedicated to Hanuman, offering wide valley views.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680594,
+                        7.073983
+                  ]
+            },
+            {
+                  "name": "Sri Bodhirukkarama Viharaya",
+                  "text": "A Buddhist temple featuring a sacred Bodhi tree on its grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        80.682069,
+                        7.068005
+                  ]
+            },
+            {
+                  "name": "Puwakmal pidugoda viharaya",
+                  "text": "A peaceful Buddhist temple set on a rural hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674119,
+                        7.068067
+                  ]
+            },
+            {
+                  "name": "Sugatharamaya Temple",
+                  "text": "A local Buddhist temple with traditional Sinhalese architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        80.675428,
+                        7.075327
+                  ]
+            },
+            {
+                  "name": "Niyangamdora Rajamaha Viharaya",
+                  "text": "A historic royal temple with ancient inscriptions and religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        80.661673,
+                        7.049979
+                  ]
+            },
+            {
+                  "name": "Sri Abhayapura Viharaya",
+                  "text": "A Buddhist temple forming the spiritual center of the local highland community.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611628,
+                        7.032224
+                  ]
+            },
+            {
+                  "name": "Handawalapitiya Jinendraramaya",
+                  "text": "A Buddhist temple in the Handawalapitiya area, surrounded by greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        80.736752,
+                        7.125755
+                  ]
+            },
+            {
+                  "name": "sri muththumariyamman temple",
+                  "text": "A colorful Hindu temple dedicated to the goddess Mariamman.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686751,
+                        7.127546
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "A traditional Buddhist shrine set amidst the misty mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        80.687692,
+                        7.065654
+                  ]
+            },
+            {
+                  "name": "Ambatahalawa Pragna Pradeepa Piriwena",
+                  "text": "A Buddhist educational center and monastery in Ambatahalawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.674956,
+                        7.055042
+                  ]
+            },
+            {
+                  "name": "Malhewa Dalada Karandu Purana Viharaya",
+                  "text": "An ancient temple known for its shrine for the Sacred Tooth Relic casket.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686505,
+                        7.05144
+                  ]
+            },
+            {
+                  "name": "Palagolla Temple",
+                  "text": "A small, quiet Buddhist temple in Palagolla village.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700639,
+                        7.041965
+                  ]
+            },
+            {
+                  "name": "Sri Wardhanaramaya",
+                  "text": "A Buddhist temple set against the backdrop of the misty central mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63021,
+                        7.035749
+                  ]
+            },
+            {
+                  "name": "Morape Kataragama Maha Devalaya",
+                  "text": "A significant shrine dedicated to the deity Kataragama.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624568,
+                        7.06386
+                  ]
+            },
+            {
+                  "name": "Yathurugahu Liyadda Purana Rajamaha Viharaya",
+                  "text": "A historic Rajamaha Viharaya with roots dating back to the ancient royal era.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633053,
+                        7.062047
+                  ]
+            },
+            {
+                  "name": "Mawela Temple",
+                  "text": "A village Buddhist temple in the Mawela area.",
+                  "category": "landmark",
+                  "coords": [
+                        80.642926,
+                        7.071138
+                  ]
+            },
+            {
+                  "name": "Rajagiri Rajamaha Viharaya",
+                  "text": "An ancient rock temple with cave dwellings near Pussellawa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.627601,
+                        7.066246
+                  ]
+            },
+            {
+                  "name": "Delta Gemunupura Gemunuraja Viharaya",
+                  "text": "A temple located on the Delta estate grounds, named after King Gemunu.",
+                  "category": "landmark",
+                  "coords": [
+                        80.644329,
+                        7.098997
+                  ]
+            },
+            {
+                  "name": "pussellawa market",
+                  "text": "A bustling local market known for fresh highland vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        80.634728,
+                        7.108737
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.6983, 7.0504],
@@ -363,7 +5052,376 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gregory-lake-landmarks-v2",
+    id: "gregory-lake-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tea plantations view",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die sanft geschwungenen grünen Teefelder.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "Ein beliebter Wandergipfel mit Blick aus der Vogelperspektive auf den Gregory-See und Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "Ein Erholungsgebiet am Seeufer mit Bootsfahrten und Parkanlagen am Rande des Gregory-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        80.772344,
+                        6.962319
+                  ]
+            },
+            {
+                  "name": "Maria Siththi Vinayagar Aalayam",
+                  "text": "Ein dem Gott Ganesha geweihter Hindu-Tempel in der Nähe des Gregory-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721855,
+                        6.896837
+                  ]
+            },
+            {
+                  "name": "Rathnagiriya Temple",
+                  "text": "Ein buddhistischer Tempel auf einem Hügel mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        80.689604,
+                        6.938454
+                  ]
+            },
+            {
+                  "name": "Eastall divisin hindu temple",
+                  "text": "Eine hinduistische Gebetsstätte, die der Eastall-Abteilung der Teeplantage dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.733348,
+                        6.934853
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "Ein abgelegenes buddhistisches Kloster, das einen Rückzugsort für Meditationen im Hochland bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.778412,
+                        6.954008
+                  ]
+            },
+            {
+                  "name": "Nanu Oya Sri Wardhanaramaya",
+                  "text": "Ein buddhistischer Tempel in der Nähe des Bahnhofs und des Flusses Nanu Oya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.740806,
+                        6.939036
+                  ]
+            },
+            {
+                  "name": "hindu temple",
+                  "text": "Ein traditioneller hinduistischer Schrein für die lokale Bevölkerung in der Nähe des Gregory-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        80.735613,
+                        6.943311
+                  ]
+            },
+            {
+                  "name": "Swarnagiri Maha Viharaya",
+                  "text": "Ein buddhistischer Tempel auf einem markanten Hügel, der als religiöses Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.766384,
+                        6.954981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tea plantations view",
+                  "text": "Panorámás kilátópont, ahonnan elsöprő kilátás nyílik a hullámzó zöld teaültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "Népszerű túrázóhely, ahonnan madártávlatból nyílik kilátás a Gregory-tóra és Nuwara Eliyára.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "Tóparti szabadidős terület csónakázási lehetőséggel és parkokkal a Gregory-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        80.772344,
+                        6.962319
+                  ]
+            },
+            {
+                  "name": "Maria Siththi Vinayagar Aalayam",
+                  "text": "Ganésa istennek szentelt hindu templom a Gregory-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721855,
+                        6.896837
+                  ]
+            },
+            {
+                  "name": "Rathnagiriya Temple",
+                  "text": "Buddhista templom egy dombon, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        80.689604,
+                        6.938454
+                  ]
+            },
+            {
+                  "name": "Eastall divisin hindu temple",
+                  "text": "Hindu templom az Eastall teaültetvény-részleg kiszolgálására.",
+                  "category": "landmark",
+                  "coords": [
+                        80.733348,
+                        6.934853
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "Eldugott buddhist kolostor, amely meditációs menedéket nyújt a hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        80.778412,
+                        6.954008
+                  ]
+            },
+            {
+                  "name": "Nanu Oya Sri Wardhanaramaya",
+                  "text": "Buddhista templom a Nanu Oya vasútállomás és folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.740806,
+                        6.939036
+                  ]
+            },
+            {
+                  "name": "hindu temple",
+                  "text": "Hagyományos hindu szentély a helyi lakosság számára a Gregory-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.735613,
+                        6.943311
+                  ]
+            },
+            {
+                  "name": "Swarnagiri Maha Viharaya",
+                  "text": "Buddhista templom egy kiemelkedő dombon, amely vallási jelképként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        80.766384,
+                        6.954981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tea plantations view",
+                  "text": "Un punct de observație panoramic care oferă vederi largi asupra câmpurilor verzi de ceai.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "Un vârf popular pentru drumeții, care oferă o vedere panoramică asupra lacului Gregory și a orașului Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "O zonă de recreere pe malul lacului, cu plimbări cu barca și parcuri pe malul lacului Gregory.",
+                  "category": "recreational",
+                  "coords": [
+                        80.772344,
+                        6.962319
+                  ]
+            },
+            {
+                  "name": "Maria Siththi Vinayagar Aalayam",
+                  "text": "Un templu hindu dedicat lui Ganesha, situat în apropierea lacului Gregory.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721855,
+                        6.896837
+                  ]
+            },
+            {
+                  "name": "Rathnagiriya Temple",
+                  "text": "Un templu budist situat pe un deal, cu vedere la peisajul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        80.689604,
+                        6.938454
+                  ]
+            },
+            {
+                  "name": "Eastall divisin hindu temple",
+                  "text": "Un lăcaș de cult hindu care servește divizia de plantație de ceai Eastall.",
+                  "category": "landmark",
+                  "coords": [
+                        80.733348,
+                        6.934853
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "O mănăstire budistă retrasă, care oferă un loc de meditație în zonele înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        80.778412,
+                        6.954008
+                  ]
+            },
+            {
+                  "name": "Nanu Oya Sri Wardhanaramaya",
+                  "text": "Un templu budist situat lângă gara și râul Nanu Oya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.740806,
+                        6.939036
+                  ]
+            },
+            {
+                  "name": "hindu temple",
+                  "text": "Un altar hindu tradițional pentru populația locală din apropierea lacului Gregory.",
+                  "category": "landmark",
+                  "coords": [
+                        80.735613,
+                        6.943311
+                  ]
+            },
+            {
+                  "name": "Swarnagiri Maha Viharaya",
+                  "text": "Un templu budist situat pe un deal proeminent, servind ca reper religios.",
+                  "category": "landmark",
+                  "coords": [
+                        80.766384,
+                        6.954981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tea plantations view",
+                  "text": "A panoramic viewpoint offering sweeping vistas over the rolling green tea fields.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "A popular hiking peak offering a bird's-eye view of Lake Gregory and Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "A lakeside recreational area featuring boat rides and parklands on the shores of Lake Gregory.",
+                  "category": "recreational",
+                  "coords": [
+                        80.772344,
+                        6.962319
+                  ]
+            },
+            {
+                  "name": "Maria Siththi Vinayagar Aalayam",
+                  "text": "A Hindu temple dedicated to Ganesha, located in the vicinity of Lake Gregory.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721855,
+                        6.896837
+                  ]
+            },
+            {
+                  "name": "Rathnagiriya Temple",
+                  "text": "A Buddhist temple situated on a hill with views over the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        80.689604,
+                        6.938454
+                  ]
+            },
+            {
+                  "name": "Eastall divisin hindu temple",
+                  "text": "A Hindu place of worship serving the Eastall tea plantation division.",
+                  "category": "landmark",
+                  "coords": [
+                        80.733348,
+                        6.934853
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "A secluded Buddhist monastery providing a retreat for meditation in the highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        80.778412,
+                        6.954008
+                  ]
+            },
+            {
+                  "name": "Nanu Oya Sri Wardhanaramaya",
+                  "text": "A Buddhist temple located near the Nanu Oya railway station and river.",
+                  "category": "landmark",
+                  "coords": [
+                        80.740806,
+                        6.939036
+                  ]
+            },
+            {
+                  "name": "hindu temple",
+                  "text": "A traditional Hindu shrine serving the local population near Lake Gregory.",
+                  "category": "landmark",
+                  "coords": [
+                        80.735613,
+                        6.943311
+                  ]
+            },
+            {
+                  "name": "Swarnagiri Maha Viharaya",
+                  "text": "A Buddhist temple situated on a prominent hill, serving as a religious landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        80.766384,
+                        6.954981
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.7719, 6.9566],
@@ -399,7 +5457,376 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "diyaluma-falls-landmarks-v2",
+    id: "diyaluma-falls-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diyaluma Falls",
+                  "text": "Mit 220 Metern Fallhöhe ist dies der zweithöchste Wasserfall Sri Lankas.",
+                  "category": "natural",
+                  "coords": [
+                        81.031491,
+                        6.733292
+                  ]
+            },
+            {
+                  "name": "Sellaba Archeological Reserve",
+                  "text": "Ein archäologisches Reservat mit antiken Steinruinen und Inschriften.",
+                  "category": "historical",
+                  "coords": [
+                        81.094,
+                        6.708108
+                  ]
+            },
+            {
+                  "name": "Lipton's seat",
+                  "text": "Der berühmte Aussichtspunkt, von dem aus Sir Thomas Lipton seine Teeplantagen überblickte.",
+                  "category": "natural",
+                  "coords": [
+                        81.015507,
+                        6.780664
+                  ]
+            },
+            {
+                  "name": "Beautyful view point over tea plantations",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die smaragdgrünen Teegärten von Dambatenne.",
+                  "category": "natural",
+                  "coords": [
+                        81.014338,
+                        6.784867
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "Ein abgelegener Aussichtspunkt abseits der üblichen Touristenpfade im Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        81.003991,
+                        6.78811
+                  ]
+            },
+            {
+                  "name": "Dambatenne Tea Factory",
+                  "text": "Diese 1890 erbaut Fabrik ist eine der historischsten Teestätten der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        81.003436,
+                        6.783321
+                  ]
+            },
+            {
+                  "name": "Sellaba Ancient Temple",
+                  "text": "Ein historischer buddhistischer Tempel in der Nähe der antiken Sellaba-Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        81.096445,
+                        6.708554
+                  ]
+            },
+            {
+                  "name": "Koslanda Temple",
+                  "text": "Ein ruhiger Dorftempel in der kleinen Gemeinde Koslanda.",
+                  "category": "landmark",
+                  "coords": [
+                        81.017799,
+                        6.741024
+                  ]
+            },
+            {
+                  "name": "Local Church",
+                  "text": "Eine einfache christliche Kapelle inmitten der ländlichen Hügellandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        80.992614,
+                        6.786244
+                  ]
+            },
+            {
+                  "name": "Rathmalwehera Temple",
+                  "text": "Ein friedlich gelegener Tempel in der Nähe der tosenden Diyaluma-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        81.101256,
+                        6.756637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diyaluma Falls",
+                  "text": "220 méteres magasságával ez Srí Lanka második legmagasabb vízesése.",
+                  "category": "natural",
+                  "coords": [
+                        81.031491,
+                        6.733292
+                  ]
+            },
+            {
+                  "name": "Sellaba Archeological Reserve",
+                  "text": "Régészeti rezervátum ősi kőromokkal és feliratokkal.",
+                  "category": "historical",
+                  "coords": [
+                        81.094,
+                        6.708108
+                  ]
+            },
+            {
+                  "name": "Lipton's seat",
+                  "text": "A híres kilátópont, ahonnan Sir Thomas Lipton felügyelte teabirtokait.",
+                  "category": "natural",
+                  "coords": [
+                        81.015507,
+                        6.780664
+                  ]
+            },
+            {
+                  "name": "Beautyful view point over tea plantations",
+                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik Dambatenne smaragdzöld teakertjeire.",
+                  "category": "natural",
+                  "coords": [
+                        81.014338,
+                        6.784867
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "Félreeső kilátóhely a felföldi turisztikai útvonalaktól távol.",
+                  "category": "natural",
+                  "coords": [
+                        81.003991,
+                        6.78811
+                  ]
+            },
+            {
+                  "name": "Dambatenne Tea Factory",
+                  "text": "Ez az 1890-ben épült üzem a sziget egyik legtörténelmibb teagyára.",
+                  "category": "landmark",
+                  "coords": [
+                        81.003436,
+                        6.783321
+                  ]
+            },
+            {
+                  "name": "Sellaba Ancient Temple",
+                  "text": "Történelmi buddhista templom az ősi Sellaba lelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.096445,
+                        6.708554
+                  ]
+            },
+            {
+                  "name": "Koslanda Temple",
+                  "text": "Csendes falusi templom Koslanda kis közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.017799,
+                        6.741024
+                  ]
+            },
+            {
+                  "name": "Local Church",
+                  "text": "Egyszerű keresztény kápolna a vidéki dombvidék szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.992614,
+                        6.786244
+                  ]
+            },
+            {
+                  "name": "Rathmalwehera Temple",
+                  "text": "Békés fekvésű templom a dübörgő Diyaluma-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.101256,
+                        6.756637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diyaluma Falls",
+                  "text": "Cu o cădere de 220 de metri, aceasta este a doua cea mai înaltă cascadă din Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        81.031491,
+                        6.733292
+                  ]
+            },
+            {
+                  "name": "Sellaba Archeological Reserve",
+                  "text": "O rezervație arheologică ce conține ruine de piatră antice și inscripții.",
+                  "category": "historical",
+                  "coords": [
+                        81.094,
+                        6.708108
+                  ]
+            },
+            {
+                  "name": "Lipton's seat",
+                  "text": "Faimosul punct de observare de unde Sir Thomas Lipton își supraveghea plantațiile de ceai.",
+                  "category": "natural",
+                  "coords": [
+                        81.015507,
+                        6.780664
+                  ]
+            },
+            {
+                  "name": "Beautyful view point over tea plantations",
+                  "text": "Un punct de belvedere cu vedere panoramică peste grădinile de ceai smarald din Dambatenne.",
+                  "category": "natural",
+                  "coords": [
+                        81.014338,
+                        6.784867
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "Un punct de observație retras, departe de traseele turistice obișnuite din zonă.",
+                  "category": "natural",
+                  "coords": [
+                        81.003991,
+                        6.78811
+                  ]
+            },
+            {
+                  "name": "Dambatenne Tea Factory",
+                  "text": "Această fabrică construită în 1890 este una dintre cele mai istorice unități de ceai de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        81.003436,
+                        6.783321
+                  ]
+            },
+            {
+                  "name": "Sellaba Ancient Temple",
+                  "text": "Un templu budist istoric situat lângă situl antic Sellaba.",
+                  "category": "landmark",
+                  "coords": [
+                        81.096445,
+                        6.708554
+                  ]
+            },
+            {
+                  "name": "Koslanda Temple",
+                  "text": "Un templu sătesc liniștit în mica comunitate din Koslanda.",
+                  "category": "landmark",
+                  "coords": [
+                        81.017799,
+                        6.741024
+                  ]
+            },
+            {
+                  "name": "Local Church",
+                  "text": "O simplă capelă creștină în inima peisajului colinar rural.",
+                  "category": "landmark",
+                  "coords": [
+                        80.992614,
+                        6.786244
+                  ]
+            },
+            {
+                  "name": "Rathmalwehera Temple",
+                  "text": "Un templu situat liniștit în apropierea vuitoarei cascade Diyaluma.",
+                  "category": "landmark",
+                  "coords": [
+                        81.101256,
+                        6.756637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diyaluma Falls",
+                  "text": "Cascading down 220 metres, this is the second highest waterfall in Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        81.031491,
+                        6.733292
+                  ]
+            },
+            {
+                  "name": "Sellaba Archeological Reserve",
+                  "text": "An archaeological reserve containing ancient stone ruins and inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        81.094,
+                        6.708108
+                  ]
+            },
+            {
+                  "name": "Lipton's seat",
+                  "text": "The famous viewpoint where Sir Thomas Lipton used to survey his tea estates.",
+                  "category": "natural",
+                  "coords": [
+                        81.015507,
+                        6.780664
+                  ]
+            },
+            {
+                  "name": "Beautyful view point over tea plantations",
+                  "text": "A lookout point with sweeping views over the emerald tea gardens of Dambatenne.",
+                  "category": "natural",
+                  "coords": [
+                        81.014338,
+                        6.784867
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "A secluded lookout point away from the main tourist paths in the highlands.",
+                  "category": "natural",
+                  "coords": [
+                        81.003991,
+                        6.78811
+                  ]
+            },
+            {
+                  "name": "Dambatenne Tea Factory",
+                  "text": "Built in 1890, this factory is one of the most historic tea sites on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        81.003436,
+                        6.783321
+                  ]
+            },
+            {
+                  "name": "Sellaba Ancient Temple",
+                  "text": "A historic Buddhist temple located near the ancient Sellaba site.",
+                  "category": "landmark",
+                  "coords": [
+                        81.096445,
+                        6.708554
+                  ]
+            },
+            {
+                  "name": "Koslanda Temple",
+                  "text": "A quiet village temple in the small community of Koslanda.",
+                  "category": "landmark",
+                  "coords": [
+                        81.017799,
+                        6.741024
+                  ]
+            },
+            {
+                  "name": "Local Church",
+                  "text": "A simple Christian chapel in the heart of the rural hill country.",
+                  "category": "landmark",
+                  "coords": [
+                        80.992614,
+                        6.786244
+                  ]
+            },
+            {
+                  "name": "Rathmalwehera Temple",
+                  "text": "A peacefully situated temple near the thundering Diyaluma Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        81.101256,
+                        6.756637
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-81",
     coords: [81.0315, 6.7323],
@@ -435,7 +5862,1384 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kandy-lake-landmarks-v2",
+    id: "kandy-lake-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malwathu Maha Viharaya",
+                  "text": "Eines der bedeutendsten buddhistischen Klöster der Siam-Nikaya-Tradition, direkt am Kandy-See gelegen.",
+                  "category": "religious",
+                  "coords": [
+                        80.641348,
+                        7.289917
+                  ]
+            },
+            {
+                  "name": "Kandy Raja Pihilla",
+                  "text": "Eine historische archäologische Stätte, die früher als königlicher Badeplatz der Könige von Kandy diente.",
+                  "category": "historical",
+                  "coords": [
+                        80.64876,
+                        7.282891
+                  ]
+            },
+            {
+                  "name": "Kandyan Art Association",
+                  "text": "Ein Kulturzentrum am Seeufer, das tägliche Vorführungen traditioneller Kandyan-Tänze und lokaler Kunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        80.64241,
+                        7.292038
+                  ]
+            },
+            {
+                  "name": "Kandy Lake Club",
+                  "text": "Ein bekanntes Theater, das für seine spektakulären Aufführungen von rituellen Tänzen und Feuerläufen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        80.646923,
+                        7.292667
+                  ]
+            },
+            {
+                  "name": "Thalapitiya temple",
+                  "text": "Ein buddhistischer Tempel in einer ruhigen Wohngegend nahe dem südlichen Ufer des Kandy-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        80.651781,
+                        7.256593
+                  ]
+            },
+            {
+                  "name": "Pitiye Bandara Dewalaya",
+                  "text": "Ein verehrter Schrein, der der lokalen Gottheit Pitiye Bandara gewidmet ist und sich innerhalb eines Tempelkomplexes befindet.",
+                  "category": "religious",
+                  "coords": [
+                        80.695679,
+                        7.313103
+                  ]
+            },
+            {
+                  "name": "Thapowanaya temple",
+                  "text": "Ein buddhistischer Tempel, der als friedliches Meditationszentrum inmitten üppigen Grüns dient.",
+                  "category": "religious",
+                  "coords": [
+                        80.664001,
+                        7.257101
+                  ]
+            },
+            {
+                  "name": "Thilanka Hotel",
+                  "text": "Ein am Hang gelegenes Hotel mit Panoramablick über den Kandy-See und das angrenzende Udawattakele-Schutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649787,
+                        7.292644
+                  ]
+            },
+            {
+                  "name": "Kengalla Ambalama",
+                  "text": "Ein traditioneller Rastplatz aus Holz, der als Beispiel für die antike singhalesische Architektur an alten Reisewegen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721326,
+                        7.291799
+                  ]
+            },
+            {
+                  "name": "Sri Wardanaramaya",
+                  "text": "Ein buddhistisches Kloster mit einer traditionellen Architektur und einem ruhigen Innenhof für Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649126,
+                        7.293987
+                  ]
+            },
+            {
+                  "name": "Dhammavivekaramaya",
+                  "text": "Ein buddhistisches Zentrum für spirituelle Praxis, das lokale Zeremonien und religiöse Lehren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.652751,
+                        7.301328
+                  ]
+            },
+            {
+                  "name": "Kathiresan Kovil",
+                  "text": "Ein farbenfroher Hindutempel, der Lord Murugan gewidmet ist und durch seinen hoch aufragenden Dravidischen Gopuram besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        80.68258,
+                        7.352015
+                  ]
+            },
+            {
+                  "name": "Galpihilla Viharaya",
+                  "text": "Ein buddhistischer Tempel in der Nähe einer natürlichen Felsquelle, die namensgebend für den Ort ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.706447,
+                        7.348325
+                  ]
+            },
+            {
+                  "name": "Liyangaswathura Temple",
+                  "text": "Ein lokales buddhistisches Heiligtum, das von dichtem tropischem Wald und friedlicher Natur umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.722491,
+                        7.332096
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein traditioneller buddhistischer Schrein mit weiß gekalkten Mauern und einem klassischen roten Ziegeldach.",
+                  "category": "landmark",
+                  "coords": [
+                        80.715364,
+                        7.316056
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque",
+                  "text": "Eine zentrale Freitagsmoschee mit einem markanten Minarett und einer großen Gebetshalle für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700706,
+                        7.316755
+                  ]
+            },
+            {
+                  "name": "Ganadevi Kovila Purana Viharaya",
+                  "text": "Ein alter Tempelkomplex, der in seiner Anlage einen speziellen Schrein für die Gottheit Ganesh beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.702921,
+                        7.314217
+                  ]
+            },
+            {
+                  "name": "Menikhinna Pothgul Viharaya",
+                  "text": "Ein buddhistischer Tempel, der für seine Bibliothek mit heiligen Palmblatt-Schriften bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700655,
+                        7.315851
+                  ]
+            },
+            {
+                  "name": "Galpihilla Raja Maha Viharaya",
+                  "text": "Ein königlicher buddhistischer Tempel mit beeindruckender, in den Fels gehauener Architektur aus antiker Zeit.",
+                  "category": "landmark",
+                  "coords": [
+                        80.693324,
+                        7.312475
+                  ]
+            },
+            {
+                  "name": "Walala Raja Maha Viharaya",
+                  "text": "Ein historischer Tempelkomplex, der mit Wandmalereien im traditionellen Kandyan-Stil geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.692941,
+                        7.320304
+                  ]
+            },
+            {
+                  "name": "Raja Maha Viharaya",
+                  "text": "Ein altes königliches Kloster mit einem heiligen Bo-Baum und einer glockenförmigen Stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.673392,
+                        7.330947
+                  ]
+            },
+            {
+                  "name": "Pitiyegedara Rajamaha Viharaya",
+                  "text": "Ein bedeutender Tempel unter königlicher Schirmherrschaft, der kunstvolle buddhistische Skulpturen ausstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680716,
+                        7.33494
+                  ]
+            },
+            {
+                  "name": "Akbar Mosque",
+                  "text": "Eine moderne islamische Kultstätte mit einem markanten grünen Domdach und Bogenfenstern.",
+                  "category": "landmark",
+                  "coords": [
+                        80.67038,
+                        7.330804
+                  ]
+            },
+            {
+                  "name": "Jamiul Khairath Jumma Masjid",
+                  "text": "Die Hauptmoschee der lokalen Gemeinde mit einem großen Innenhof für die Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        80.66811,
+                        7.327537
+                  ]
+            },
+            {
+                  "name": "Sirimalwaththa Rajamaha Viharaya",
+                  "text": "Ein königlicher Tempelkomplex auf einem Hügel mit weitem Blick über das Tal von Kandy.",
+                  "category": "landmark",
+                  "coords": [
+                        80.657654,
+                        7.306098
+                  ]
+            },
+            {
+                  "name": "Degaldoruwa Raja Maha Viharaya",
+                  "text": "Ein berühmter Höhlentempel, bekannt für seine exquisiten Wandmalereien aus dem 18. Jahrhundert im Kandyan-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        80.664477,
+                        7.304527
+                  ]
+            },
+            {
+                  "name": "Sri Jayasundararamaya",
+                  "text": "Ein buddhistisches Kloster mit einem ruhigen Garten und einer friedlichen Meditationshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        80.669874,
+                        7.305918
+                  ]
+            },
+            {
+                  "name": "Gal Edanda Purana Viharaya",
+                  "text": "Ein alter Tempel, der nach einer natürlichen Felsformation benannt ist, die wie eine Steinbrücke aussieht.",
+                  "category": "landmark",
+                  "coords": [
+                        80.678164,
+                        7.304494
+                  ]
+            },
+            {
+                  "name": "Hathamuna Bodhirajaramaya",
+                  "text": "Ein Tempel, der um einen heiligen Bodhi-Baum und ein traditionelles Bilderhaus herum angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        80.685744,
+                        7.303852
+                  ]
+            },
+            {
+                  "name": "Galmaduwa Raja Maha Viharaya",
+                  "text": "Ein unvollendeter königlicher Tempel mit einer einzigartigen, pyramidenähnlichen Steinstruktur aus dem 18. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.676532,
+                        7.28567
+                  ]
+            },
+            {
+                  "name": "Tennekumbura Temple",
+                  "text": "Ein buddhistisches Heiligtum in der Nähe der Brücke über den Mahaweli-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        80.662597,
+                        7.284766
+                  ]
+            },
+            {
+                  "name": "Fatima",
+                  "text": "Ein katholischer Schrein, der Unserer Lieben Frau von Fatima gewidmet ist und eine moderne Kirchturmspitze besitzt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.668576,
+                        7.28008
+                  ]
+            },
+            {
+                  "name": "Gospel Church",
+                  "text": "Eine christliche Kirche, die sich auf Gemeinschaftsarbeit und regelmäßige Gebetsversammlungen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.670784,
+                        7.275706
+                  ]
+            },
+            {
+                  "name": "Monastery Of Blessed Sacrament Fathers",
+                  "text": "Eine religiöse Residenz und Kapelle der Kongregation der Väter vom Allerheiligsten Sakrament.",
+                  "category": "landmark",
+                  "coords": [
+                        80.655179,
+                        7.282835
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Eine Pfarrkirche mit kolonial beeinflusster Architektur und kunstvollen Buntglasfenstern.",
+                  "category": "landmark",
+                  "coords": [
+                        80.656404,
+                        7.279824
+                  ]
+            },
+            {
+                  "name": "Divrum Bodhiya",
+                  "text": "Eine historische buddhistische Stätte, an der unter dem heiligen Bodhi-Baum traditionell Eide geschworen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        80.663932,
+                        7.269502
+                  ]
+            },
+            {
+                  "name": "Sri Narendrasinghe Raja Maha Viharaya",
+                  "text": "Dieser buddhistische Tempel in der Nähe von Kandy ist nach einem ehemaligen König benannt und dient als lokales religiöses Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686196,
+                        7.274095
+                  ]
+            },
+            {
+                  "name": "Pallekele Devanampiyatissa Int. Meditation Centre",
+                  "text": "Ein friedliches Meditationszentrum in der Nähe des internationalen Stadions, das der buddhistischen Lehre gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.699186,
+                        7.28177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malwathu Maha Viharaya",
+                  "text": "A Sziámi Nikája hagyomány egyik legfontosabb buddhista kolostora, közvetlenül a Kandy-tó partján.",
+                  "category": "religious",
+                  "coords": [
+                        80.641348,
+                        7.289917
+                  ]
+            },
+            {
+                  "name": "Kandy Raja Pihilla",
+                  "text": "Történelmi régészeti lelőhely, amely egykor a kandy-i királyok királyi fürdőhelyeként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        80.64876,
+                        7.282891
+                  ]
+            },
+            {
+                  "name": "Kandyan Art Association",
+                  "text": "Tóparti kulturális központ, ahol naponta láthatók hagyományos kandy-i táncbemutatók és helyi művészeti alkotások.",
+                  "category": "cultural",
+                  "coords": [
+                        80.64241,
+                        7.292038
+                  ]
+            },
+            {
+                  "name": "Kandy Lake Club",
+                  "text": "Népszerű színház, amely látványos rituális táncbemutatóiról és parázson járásáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        80.646923,
+                        7.292667
+                  ]
+            },
+            {
+                  "name": "Thalapitiya temple",
+                  "text": "Buddhista templom egy csendes lakónegyedben, a Kandy-tó déli partjának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        80.651781,
+                        7.256593
+                  ]
+            },
+            {
+                  "name": "Pitiye Bandara Dewalaya",
+                  "text": "Pitiye Bandara helyi istenségnek szentelt tisztelt szentély egy templomkomplexumon belül.",
+                  "category": "religious",
+                  "coords": [
+                        80.695679,
+                        7.313103
+                  ]
+            },
+            {
+                  "name": "Thapowanaya temple",
+                  "text": "Buddhista templom, amely békés meditációs központként szolgál a buja zöld környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        80.664001,
+                        7.257101
+                  ]
+            },
+            {
+                  "name": "Thilanka Hotel",
+                  "text": "Domboldalon fekvő szálloda, ahonnan panorámás kilátás nyílik a Kandy-tóra és a szomszédos Udawattakele rezervátumra.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649787,
+                        7.292644
+                  ]
+            },
+            {
+                  "name": "Kengalla Ambalama",
+                  "text": "Hagyományos fa pihenőhely, amely az ősi szingaléz építészet példája a régi útvonalak mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721326,
+                        7.291799
+                  ]
+            },
+            {
+                  "name": "Sri Wardanaramaya",
+                  "text": "Buddhista kolostor hagyományos építészettel és csendes belső udvarral a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649126,
+                        7.293987
+                  ]
+            },
+            {
+                  "name": "Dhammavivekaramaya",
+                  "text": "Buddhista spirituális központ, amely helyi szertartásoknak és vallási tanításoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        80.652751,
+                        7.301328
+                  ]
+            },
+            {
+                  "name": "Kathiresan Kovil",
+                  "text": "Színpompás, Lord Murugannak szentelt hindu templom, jellegzetes magas dravida gopurammal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.68258,
+                        7.352015
+                  ]
+            },
+            {
+                  "name": "Galpihilla Viharaya",
+                  "text": "Buddhista templom egy természetes sziklaforrás közelében, amelyről a hely a nevét kapta.",
+                  "category": "landmark",
+                  "coords": [
+                        80.706447,
+                        7.348325
+                  ]
+            },
+            {
+                  "name": "Liyangaswathura Temple",
+                  "text": "Helyi buddhista szentély, amelyet sűrű trópusi erdő és békés természet vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        80.722491,
+                        7.332096
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Hagyományos buddhista szentély mészfehér falakkal és klasszikus vörös cseréptetővel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.715364,
+                        7.316056
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque",
+                  "text": "Központi pénteki mecset jellegzetes minarettel és nagy imacsarnokkal a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700706,
+                        7.316755
+                  ]
+            },
+            {
+                  "name": "Ganadevi Kovila Purana Viharaya",
+                  "text": "Ősi templomkomplexum, amely Ganesha istenségnek szentelt külön szentélyt is magában foglal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.702921,
+                        7.314217
+                  ]
+            },
+            {
+                  "name": "Menikhinna Pothgul Viharaya",
+                  "text": "Buddhista templom, amely szent pálmalevél-iratokat őrző könyvtáráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700655,
+                        7.315851
+                  ]
+            },
+            {
+                  "name": "Galpihilla Raja Maha Viharaya",
+                  "text": "Királyi buddhista templom, amely lenyűgöző, ókori kőbe vájt építészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        80.693324,
+                        7.312475
+                  ]
+            },
+            {
+                  "name": "Walala Raja Maha Viharaya",
+                  "text": "Történelmi templomkomplexum, amelyet hagyományos kandy-i stílusú falfestmények díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.692941,
+                        7.320304
+                  ]
+            },
+            {
+                  "name": "Raja Maha Viharaya",
+                  "text": "Ősi királyi kolostor szent Bo-fával és harang alakú sztúpával.",
+                  "category": "landmark",
+                  "coords": [
+                        80.673392,
+                        7.330947
+                  ]
+            },
+            {
+                  "name": "Pitiyegedara Rajamaha Viharaya",
+                  "text": "Jelentős királyi pártfogású templom, amely művészien kidolgozott buddhista szobrokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680716,
+                        7.33494
+                  ]
+            },
+            {
+                  "name": "Akbar Mosque",
+                  "text": "Modern iszlám templom jellegzetes zöld kupolatetővel és boltíves ablakokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.67038,
+                        7.330804
+                  ]
+            },
+            {
+                  "name": "Jamiul Khairath Jumma Masjid",
+                  "text": "A helyi közösség főmecsetje, amely tágas belső udvarral rendelkezik a pénteki imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        80.66811,
+                        7.327537
+                  ]
+            },
+            {
+                  "name": "Sirimalwaththa Rajamaha Viharaya",
+                  "text": "Domboldalon fekvő királyi templomkomplexum, ahonnan pazar kilátás nyílik a Kandy-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        80.657654,
+                        7.306098
+                  ]
+            },
+            {
+                  "name": "Degaldoruwa Raja Maha Viharaya",
+                  "text": "Híres barlangtemplom, amely kiváló 18. századi, kandy-i stílusú falfestményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.664477,
+                        7.304527
+                  ]
+            },
+            {
+                  "name": "Sri Jayasundararamaya",
+                  "text": "Buddhista kolostor csendes kerttel és békés meditációs csarnokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.669874,
+                        7.305918
+                  ]
+            },
+            {
+                  "name": "Gal Edanda Purana Viharaya",
+                  "text": "Ősi templom, amelyet egy kőhídra emlékeztető természetes sziklaalakzatról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        80.678164,
+                        7.304494
+                  ]
+            },
+            {
+                  "name": "Hathamuna Bodhirajaramaya",
+                  "text": "Szent Bodhi-fa és egy hagyományos képház köré épült templom.",
+                  "category": "landmark",
+                  "coords": [
+                        80.685744,
+                        7.303852
+                  ]
+            },
+            {
+                  "name": "Galmaduwa Raja Maha Viharaya",
+                  "text": "Befejezetlen királyi templom egyedülálló, piramisszerű 18. századi kőszerkezettel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.676532,
+                        7.28567
+                  ]
+            },
+            {
+                  "name": "Tennekumbura Temple",
+                  "text": "Buddhista szentély a Mahaweli-folyó hídjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.662597,
+                        7.284766
+                  ]
+            },
+            {
+                  "name": "Fatima",
+                  "text": "A Fatimai Szűzanyának szentelt katolikus szentély, modern templomtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.668576,
+                        7.28008
+                  ]
+            },
+            {
+                  "name": "Gospel Church",
+                  "text": "Keresztény templom, amely a közösségi munkára és a rendszeres imatalálkozókra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        80.670784,
+                        7.275706
+                  ]
+            },
+            {
+                  "name": "Monastery Of Blessed Sacrament Fathers",
+                  "text": "Az Oltáriszentség Atyák kongregációjának vallási rezidenciája és kápolnája.",
+                  "category": "landmark",
+                  "coords": [
+                        80.655179,
+                        7.282835
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Plébániatemplom gyarmati hatású építészettel és díszes ólomüveg ablakokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.656404,
+                        7.279824
+                  ]
+            },
+            {
+                  "name": "Divrum Bodhiya",
+                  "text": "Történelmi buddhista helyszín, ahol a szent Bodhi-fa alatt hagyományosan esküket tettek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.663932,
+                        7.269502
+                  ]
+            },
+            {
+                  "name": "Sri Narendrasinghe Raja Maha Viharaya",
+                  "text": "Ez a Kandy közeli buddhista templom egy egykori király nevét viseli, és fontos helyi vallási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686196,
+                        7.274095
+                  ]
+            },
+            {
+                  "name": "Pallekele Devanampiyatissa Int. Meditation Centre",
+                  "text": "A nemzetközi stadion közelében található békés meditációs központ, amely a buddhista tanításoknak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        80.699186,
+                        7.28177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malwathu Maha Viharaya",
+                  "text": "Una dintre cele mai importante mănăstiri budiste ale tradiției Siam Nikaya, situată chiar pe malul lacului Kandy.",
+                  "category": "religious",
+                  "coords": [
+                        80.641348,
+                        7.289917
+                  ]
+            },
+            {
+                  "name": "Kandy Raja Pihilla",
+                  "text": "Un sit arheologic istoric care a servit anterior ca loc de baie regal pentru regi din Kandy.",
+                  "category": "historical",
+                  "coords": [
+                        80.64876,
+                        7.282891
+                  ]
+            },
+            {
+                  "name": "Kandyan Art Association",
+                  "text": "Un centru cultural pe malul lacului, care prezintă spectacole zilnice de dans tradițional Kandyan și artă locală.",
+                  "category": "cultural",
+                  "coords": [
+                        80.64241,
+                        7.292038
+                  ]
+            },
+            {
+                  "name": "Kandy Lake Club",
+                  "text": "Un teatru popular renumit pentru spectacolele sale spectaculoase de dansuri rituale și mers pe cărbuni încinși.",
+                  "category": "cultural",
+                  "coords": [
+                        80.646923,
+                        7.292667
+                  ]
+            },
+            {
+                  "name": "Thalapitiya temple",
+                  "text": "Un templu budist situat într-o zonă rezidențială liniștită, aproape de malul sudic al lacului Kandy.",
+                  "category": "religious",
+                  "coords": [
+                        80.651781,
+                        7.256593
+                  ]
+            },
+            {
+                  "name": "Pitiye Bandara Dewalaya",
+                  "text": "Un altar venerat dedicat divinității locale Pitiye Bandara, situat în cadrul unui complex de temple.",
+                  "category": "religious",
+                  "coords": [
+                        80.695679,
+                        7.313103
+                  ]
+            },
+            {
+                  "name": "Thapowanaya temple",
+                  "text": "Un templu budist care servește ca centru de meditație liniștit în mijlocul vegetației luxuriante.",
+                  "category": "religious",
+                  "coords": [
+                        80.664001,
+                        7.257101
+                  ]
+            },
+            {
+                  "name": "Thilanka Hotel",
+                  "text": "Un hotel situat pe deal, oferind vedere panoramică asupra lacului Kandy și a rezervației adiacente Udawattakele.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649787,
+                        7.292644
+                  ]
+            },
+            {
+                  "name": "Kengalla Ambalama",
+                  "text": "Un loc de odihnă tradițional din lemn, care servește ca exemplu de arhitectură antică singaleză pe vechile rute.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721326,
+                        7.291799
+                  ]
+            },
+            {
+                  "name": "Sri Wardanaramaya",
+                  "text": "O mănăstire budistă cu arhitectură tradițională și o curte liniștită pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649126,
+                        7.293987
+                  ]
+            },
+            {
+                  "name": "Dhammavivekaramaya",
+                  "text": "Un centru budist pentru practică spirituală, care oferă ceremonii locale și învățături religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        80.652751,
+                        7.301328
+                  ]
+            },
+            {
+                  "name": "Kathiresan Kovil",
+                  "text": "Un templu hinduist colorat dedicat Domnului Murugan, remarcabil prin gopuram-ul său dravidian înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.68258,
+                        7.352015
+                  ]
+            },
+            {
+                  "name": "Galpihilla Viharaya",
+                  "text": "Un templu budist situat lângă un izvor natural de stâncă, care dă numele locului.",
+                  "category": "landmark",
+                  "coords": [
+                        80.706447,
+                        7.348325
+                  ]
+            },
+            {
+                  "name": "Liyangaswathura Temple",
+                  "text": "Un sanctuar budist local înconjurat de pădure tropicală densă și natură liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        80.722491,
+                        7.332096
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un altar budist tradițional cu pereți văruiți în alb și un acoperiș clasic din țiglă roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        80.715364,
+                        7.316056
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque",
+                  "text": "O moschee centrală de vineri, cu un minaret proeminent și o sală mare de rugăciune pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700706,
+                        7.316755
+                  ]
+            },
+            {
+                  "name": "Ganadevi Kovila Purana Viharaya",
+                  "text": "Un complex de temple vechi care găzduiește un altar special dedicat zeității Ganesha în incinta sa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.702921,
+                        7.314217
+                  ]
+            },
+            {
+                  "name": "Menikhinna Pothgul Viharaya",
+                  "text": "Un templu budist cunoscut pentru biblioteca sa care conține scripturi sfinte pe frunze de palmier.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700655,
+                        7.315851
+                  ]
+            },
+            {
+                  "name": "Galpihilla Raja Maha Viharaya",
+                  "text": "Un templu budist regal cu o arhitectură impresionantă sculptată în stâncă, datând din timpuri străvechi.",
+                  "category": "landmark",
+                  "coords": [
+                        80.693324,
+                        7.312475
+                  ]
+            },
+            {
+                  "name": "Walala Raja Maha Viharaya",
+                  "text": "Un complex istoric de temple decorat cu picturi murale în stil tradițional Kandyan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.692941,
+                        7.320304
+                  ]
+            },
+            {
+                  "name": "Raja Maha Viharaya",
+                  "text": "O mănăstire regală veche, cu un arbore Bo sacru și o stupă în formă de clopot.",
+                  "category": "landmark",
+                  "coords": [
+                        80.673392,
+                        7.330947
+                  ]
+            },
+            {
+                  "name": "Pitiyegedara Rajamaha Viharaya",
+                  "text": "Un templu important sub patronaj regal, care expune sculpturi budiste elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680716,
+                        7.33494
+                  ]
+            },
+            {
+                  "name": "Akbar Mosque",
+                  "text": "Un lăcaș de cult islamic modern, cu un acoperiș cu cupolă verde distinctiv și ferestre boltite.",
+                  "category": "landmark",
+                  "coords": [
+                        80.67038,
+                        7.330804
+                  ]
+            },
+            {
+                  "name": "Jamiul Khairath Jumma Masjid",
+                  "text": "Moscheea principală a comunității locale, cu o curte mare pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        80.66811,
+                        7.327537
+                  ]
+            },
+            {
+                  "name": "Sirimalwaththa Rajamaha Viharaya",
+                  "text": "Un complex de temple regale situat pe un deal, cu vedere largă asupra văii Kandy.",
+                  "category": "landmark",
+                  "coords": [
+                        80.657654,
+                        7.306098
+                  ]
+            },
+            {
+                  "name": "Degaldoruwa Raja Maha Viharaya",
+                  "text": "Un templu rupestru celebru, cunoscut pentru picturile sale murale rafinate din secolul al XVIII-lea în stil Kandyan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.664477,
+                        7.304527
+                  ]
+            },
+            {
+                  "name": "Sri Jayasundararamaya",
+                  "text": "O mănăstire budistă cu o grădină liniștită și o sală de meditație pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        80.669874,
+                        7.305918
+                  ]
+            },
+            {
+                  "name": "Gal Edanda Purana Viharaya",
+                  "text": "Un templu vechi numit după o formațiune stâncoasă naturală care seamănă cu un pod de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        80.678164,
+                        7.304494
+                  ]
+            },
+            {
+                  "name": "Hathamuna Bodhirajaramaya",
+                  "text": "Un templu centrat în jurul unui arbore Bodhi sacru și a unei case tradiționale a imaginilor.",
+                  "category": "landmark",
+                  "coords": [
+                        80.685744,
+                        7.303852
+                  ]
+            },
+            {
+                  "name": "Galmaduwa Raja Maha Viharaya",
+                  "text": "Un templu regal neterminat, cu o structură de piatră unică, asemănătoare unei piramide, din secolul al XVIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        80.676532,
+                        7.28567
+                  ]
+            },
+            {
+                  "name": "Tennekumbura Temple",
+                  "text": "Un sanctuar budist situat lângă podul de peste râul Mahaweli.",
+                  "category": "landmark",
+                  "coords": [
+                        80.662597,
+                        7.284766
+                  ]
+            },
+            {
+                  "name": "Fatima",
+                  "text": "Un altar catolic dedicat Maicii Domnului de la Fatima, cu o turlă modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.668576,
+                        7.28008
+                  ]
+            },
+            {
+                  "name": "Gospel Church",
+                  "text": "O biserică creștină concentrată pe activități comunitare și adunări regulate de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        80.670784,
+                        7.275706
+                  ]
+            },
+            {
+                  "name": "Monastery Of Blessed Sacrament Fathers",
+                  "text": "O reședință religioasă și capelă a congregației Părinților Sacramentini.",
+                  "category": "landmark",
+                  "coords": [
+                        80.655179,
+                        7.282835
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "O biserică parohială cu arhitectură de influență colonială și vitralii ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        80.656404,
+                        7.279824
+                  ]
+            },
+            {
+                  "name": "Divrum Bodhiya",
+                  "text": "Un sit budist istoric unde, sub arborele Bodhi sacru, se depuneau în mod tradițional jurăminte.",
+                  "category": "landmark",
+                  "coords": [
+                        80.663932,
+                        7.269502
+                  ]
+            },
+            {
+                  "name": "Sri Narendrasinghe Raja Maha Viharaya",
+                  "text": "Acest templu budist de lângă Kandy poartă numele unui fost rege și servește ca centru religios local.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686196,
+                        7.274095
+                  ]
+            },
+            {
+                  "name": "Pallekele Devanampiyatissa Int. Meditation Centre",
+                  "text": "Un centru de meditație liniștit lângă stadionul internațional, dedicat învățăturilor budiste.",
+                  "category": "landmark",
+                  "coords": [
+                        80.699186,
+                        7.28177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malwathu Maha Viharaya",
+                  "text": "One of the most significant Buddhist monasteries of the Siam Nikaya tradition, situated right by the Kandy Lake.",
+                  "category": "religious",
+                  "coords": [
+                        80.641348,
+                        7.289917
+                  ]
+            },
+            {
+                  "name": "Kandy Raja Pihilla",
+                  "text": "A historical archaeological site that formerly served as a royal bathing spot for the kings of Kandy.",
+                  "category": "historical",
+                  "coords": [
+                        80.64876,
+                        7.282891
+                  ]
+            },
+            {
+                  "name": "Kandyan Art Association",
+                  "text": "A lakeside cultural center showcasing daily performances of traditional Kandyan dance and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        80.64241,
+                        7.292038
+                  ]
+            },
+            {
+                  "name": "Kandy Lake Club",
+                  "text": "A popular theater renowned for its spectacular performances of ritual drumming and traditional fire-walking.",
+                  "category": "cultural",
+                  "coords": [
+                        80.646923,
+                        7.292667
+                  ]
+            },
+            {
+                  "name": "Thalapitiya temple",
+                  "text": "A Buddhist temple set in a quiet residential area near the southern shores of the Kandy Lake.",
+                  "category": "religious",
+                  "coords": [
+                        80.651781,
+                        7.256593
+                  ]
+            },
+            {
+                  "name": "Pitiye Bandara Dewalaya",
+                  "text": "A revered shrine dedicated to the local deity Pitiye Bandara, located within a temple complex.",
+                  "category": "religious",
+                  "coords": [
+                        80.695679,
+                        7.313103
+                  ]
+            },
+            {
+                  "name": "Thapowanaya temple",
+                  "text": "A Buddhist temple serving as a peaceful meditation retreat set amidst lush tropical greenery.",
+                  "category": "religious",
+                  "coords": [
+                        80.664001,
+                        7.257101
+                  ]
+            },
+            {
+                  "name": "Thilanka Hotel",
+                  "text": "A hillside hotel offering panoramic views over the Kandy Lake and the adjacent Udawattakele Sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649787,
+                        7.292644
+                  ]
+            },
+            {
+                  "name": "Kengalla Ambalama",
+                  "text": "A traditional wooden rest stop that serves as an example of ancient Sinhalese architecture along old travel routes.",
+                  "category": "landmark",
+                  "coords": [
+                        80.721326,
+                        7.291799
+                  ]
+            },
+            {
+                  "name": "Sri Wardanaramaya",
+                  "text": "A Buddhist monastery featuring traditional architecture and a tranquil courtyard for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        80.649126,
+                        7.293987
+                  ]
+            },
+            {
+                  "name": "Dhammavivekaramaya",
+                  "text": "A Buddhist center for spiritual practice hosting local ceremonies and religious teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.652751,
+                        7.301328
+                  ]
+            },
+            {
+                  "name": "Kathiresan Kovil",
+                  "text": "A colorful Hindu temple dedicated to Lord Murugan, notable for its towering Dravidian-style gopuram.",
+                  "category": "landmark",
+                  "coords": [
+                        80.68258,
+                        7.352015
+                  ]
+            },
+            {
+                  "name": "Galpihilla Viharaya",
+                  "text": "A Buddhist temple located near a natural rock spring which gives the site its name.",
+                  "category": "landmark",
+                  "coords": [
+                        80.706447,
+                        7.348325
+                  ]
+            },
+            {
+                  "name": "Liyangaswathura Temple",
+                  "text": "A local Buddhist sanctuary surrounded by dense tropical forest and peaceful natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.722491,
+                        7.332096
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A traditional Buddhist shrine featuring white-washed walls and a classic red-tiled roof.",
+                  "category": "landmark",
+                  "coords": [
+                        80.715364,
+                        7.316056
+                  ]
+            },
+            {
+                  "name": "Jumma Mosque",
+                  "text": "A central Friday mosque featuring a prominent minaret and a large prayer hall for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700706,
+                        7.316755
+                  ]
+            },
+            {
+                  "name": "Ganadevi Kovila Purana Viharaya",
+                  "text": "An ancient temple complex that houses a special shrine dedicated to the deity Ganesha within its grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        80.702921,
+                        7.314217
+                  ]
+            },
+            {
+                  "name": "Menikhinna Pothgul Viharaya",
+                  "text": "A Buddhist temple known for its library containing sacred palm-leaf scriptures.",
+                  "category": "landmark",
+                  "coords": [
+                        80.700655,
+                        7.315851
+                  ]
+            },
+            {
+                  "name": "Galpihilla Raja Maha Viharaya",
+                  "text": "A royal Buddhist temple featuring impressive rock-cut architecture dating back to ancient times.",
+                  "category": "landmark",
+                  "coords": [
+                        80.693324,
+                        7.312475
+                  ]
+            },
+            {
+                  "name": "Walala Raja Maha Viharaya",
+                  "text": "A historical temple complex adorned with wall paintings in the traditional Kandyan style.",
+                  "category": "landmark",
+                  "coords": [
+                        80.692941,
+                        7.320304
+                  ]
+            },
+            {
+                  "name": "Raja Maha Viharaya",
+                  "text": "An ancient royal monastery featuring a sacred Bo tree and a bell-shaped stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        80.673392,
+                        7.330947
+                  ]
+            },
+            {
+                  "name": "Pitiyegedara Rajamaha Viharaya",
+                  "text": "A significant temple under royal patronage showcasing elaborate Buddhist sculptures and art.",
+                  "category": "landmark",
+                  "coords": [
+                        80.680716,
+                        7.33494
+                  ]
+            },
+            {
+                  "name": "Akbar Mosque",
+                  "text": "A modern Islamic place of worship featuring a distinctive green domed roof and arched windows.",
+                  "category": "landmark",
+                  "coords": [
+                        80.67038,
+                        7.330804
+                  ]
+            },
+            {
+                  "name": "Jamiul Khairath Jumma Masjid",
+                  "text": "The main community mosque featuring a large courtyard for Friday congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        80.66811,
+                        7.327537
+                  ]
+            },
+            {
+                  "name": "Sirimalwaththa Rajamaha Viharaya",
+                  "text": "A royal temple complex situated on a hillside with wide views over the Kandy valley.",
+                  "category": "landmark",
+                  "coords": [
+                        80.657654,
+                        7.306098
+                  ]
+            },
+            {
+                  "name": "Degaldoruwa Raja Maha Viharaya",
+                  "text": "A famous cave temple known for its exquisite 18th-century wall paintings in the Kandyan style.",
+                  "category": "landmark",
+                  "coords": [
+                        80.664477,
+                        7.304527
+                  ]
+            },
+            {
+                  "name": "Sri Jayasundararamaya",
+                  "text": "A Buddhist monastery featuring a tranquil garden and a peaceful meditation hall.",
+                  "category": "landmark",
+                  "coords": [
+                        80.669874,
+                        7.305918
+                  ]
+            },
+            {
+                  "name": "Gal Edanda Purana Viharaya",
+                  "text": "An ancient temple named after a natural rock formation that resembles a stone bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        80.678164,
+                        7.304494
+                  ]
+            },
+            {
+                  "name": "Hathamuna Bodhirajaramaya",
+                  "text": "A temple centered around a sacred Bodhi tree and a traditional image house.",
+                  "category": "landmark",
+                  "coords": [
+                        80.685744,
+                        7.303852
+                  ]
+            },
+            {
+                  "name": "Galmaduwa Raja Maha Viharaya",
+                  "text": "An unfinished royal temple featuring a unique pyramid-like stone structure from the 18th century.",
+                  "category": "landmark",
+                  "coords": [
+                        80.676532,
+                        7.28567
+                  ]
+            },
+            {
+                  "name": "Tennekumbura Temple",
+                  "text": "A Buddhist sanctuary located near the bridge crossing the Mahaweli River.",
+                  "category": "landmark",
+                  "coords": [
+                        80.662597,
+                        7.284766
+                  ]
+            },
+            {
+                  "name": "Fatima",
+                  "text": "A Catholic shrine dedicated to Our Lady of Fatima, featuring a modern spire.",
+                  "category": "landmark",
+                  "coords": [
+                        80.668576,
+                        7.28008
+                  ]
+            },
+            {
+                  "name": "Gospel Church",
+                  "text": "A Christian church focused on community outreach and regular prayer gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.670784,
+                        7.275706
+                  ]
+            },
+            {
+                  "name": "Monastery Of Blessed Sacrament Fathers",
+                  "text": "A religious residence and chapel belonging to the congregation of the Blessed Sacrament Fathers.",
+                  "category": "landmark",
+                  "coords": [
+                        80.655179,
+                        7.282835
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A parish church featuring colonial-influenced architecture and ornate stained-glass windows.",
+                  "category": "landmark",
+                  "coords": [
+                        80.656404,
+                        7.279824
+                  ]
+            },
+            {
+                  "name": "Divrum Bodhiya",
+                  "text": "A historical Buddhist site where sacred oaths were traditionally sworn under the Bodhi tree.",
+                  "category": "landmark",
+                  "coords": [
+                        80.663932,
+                        7.269502
+                  ]
+            },
+            {
+                  "name": "Sri Narendrasinghe Raja Maha Viharaya",
+                  "text": "Named after a former king, this Buddhist temple near Kandy serves as a significant local religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        80.686196,
+                        7.274095
+                  ]
+            },
+            {
+                  "name": "Pallekele Devanampiyatissa Int. Meditation Centre",
+                  "text": "A peaceful meditation centre located near the international stadium, dedicated to Buddhist teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.699186,
+                        7.28177
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.6433, 7.2924],
@@ -471,7 +7275,196 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "galle-face-green-landmarks-v2",
+    id: "galle-face-green-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galle Face Green",
+                  "text": "Eine weitläufige städtische Uferpromenade am Ozean, die sich entlang der Küste im Herzen von Colombos Finanzdistrikt erstreckt.",
+                  "category": "park",
+                  "coords": [
+                        79.844708,
+                        6.924261
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Ein malerischer Sandstrand, der für seine leuchtenden Sonnenuntergänge und die heranrollenden Meereswellen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        79.828257,
+                        6.92781
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "Eine historische presbyterianische Kirche in Colombo, die sich durch schottische Architektureinflüsse und Buntglasfenster auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        79.847676,
+                        6.918976
+                  ]
+            },
+            {
+                  "name": "Christ Church of Galle",
+                  "text": "Ein etabliertes christliches Gotteshaus, das das religiöse Erbe der Küstenregion aus der Kolonialzeit widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.847943,
+                        6.922363
+                  ]
+            },
+            {
+                  "name": "Shahul Hameedhiya Jumma Musjidh",
+                  "text": "Eine lebendige lokale Moschee, in der sich die muslimische Gemeinschaft des Viertels zu den täglichen und den Freitagsgebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.849541,
+                        6.920598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galle Face Green",
+                  "text": "Egy hatalmas, óceánparti városi sétány, amely Colombo pénzügyi negyedének szívében húzódik a tengerpart mentén.",
+                  "category": "park",
+                  "coords": [
+                        79.844708,
+                        6.924261
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Festői homokos partvidék, amely ragyogó naplementéiről és hullámzó óceánjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        79.828257,
+                        6.92781
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "Egy történelmi presbiteriánus templom Colombóban, amely jellegzetes skót építészeti hatásokat és ólomüveg ablakokat mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        79.847676,
+                        6.918976
+                  ]
+            },
+            {
+                  "name": "Christ Church of Galle",
+                  "text": "Egy elismert keresztény istentiszteleti hely, amely a partvidék gyarmati korszakból származó vallási örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        79.847943,
+                        6.922363
+                  ]
+            },
+            {
+                  "name": "Shahul Hameedhiya Jumma Musjidh",
+                  "text": "Nyüzsgő helyi mecset, ahol a környék muszlim közössége gyűlik össze a napi és a pénteki dzsuma imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        79.849541,
+                        6.920598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galle Face Green",
+                  "text": "O promenadă urbană întinsă pe malul oceanului, care se desfășoară de-a lungul coastei în inima districtului financiar din Colombo.",
+                  "category": "park",
+                  "coords": [
+                        79.844708,
+                        6.924261
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "O porțiune pitorească de coastă nisipoasă, cunoscută pentru apusurile sale strălucitoare și valurile oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        79.828257,
+                        6.92781
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "O biserică presbiteriană istorică din Colombo, caracterizată prin influențe arhitecturale scoțiene distincte și vitralii.",
+                  "category": "religious",
+                  "coords": [
+                        79.847676,
+                        6.918976
+                  ]
+            },
+            {
+                  "name": "Christ Church of Galle",
+                  "text": "Un lăcaș de cult creștin consacrat, care reflectă moștenirea religioasă a zonei de coastă din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        79.847943,
+                        6.922363
+                  ]
+            },
+            {
+                  "name": "Shahul Hameedhiya Jumma Musjidh",
+                  "text": "O moschee locală vibrantă unde comunitatea musulmană din cartier se adună pentru rugăciunile zilnice și cele de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        79.849541,
+                        6.920598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galle Face Green",
+                  "text": "A sweeping urban ocean-side promenade stretching along the coast in the heart of Colombo's financial district.",
+                  "category": "park",
+                  "coords": [
+                        79.844708,
+                        6.924261
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "A picturesque stretch of sandy coastline known for its glowing sunsets and rolling ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        79.828257,
+                        6.92781
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "A historic Presbyterian church in Colombo featuring distinct Scottish architectural influences and stained-glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        79.847676,
+                        6.918976
+                  ]
+            },
+            {
+                  "name": "Christ Church of Galle",
+                  "text": "An established Christian place of worship reflecting the coastal area's colonial-era religious heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        79.847943,
+                        6.922363
+                  ]
+            },
+            {
+                  "name": "Shahul Hameedhiya Jumma Musjidh",
+                  "text": "A vibrant local mosque where the neighborhood's Muslim community gathers for daily and Friday Jumma prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        79.849541,
+                        6.920598
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-11",
     coords: [79.8458, 6.9240],
@@ -507,7 +7500,1132 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "unawatuna-beach-landmarks-v2",
+    id: "unawatuna-beach-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ship Rock",
+                  "text": "Eine markante Felsformation vor der Küste, die einem aus den Wellen auftauchenden Schiff ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.262085,
+                        6.000193
+                  ]
+            },
+            {
+                  "name": "Palm rope swing.",
+                  "text": "Eine berühmte Seilschwinge an einer Kokospalme, die Besuchern ermöglicht, über den Ozean zu schwingen.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26007,
+                        6.001374
+                  ]
+            },
+            {
+                  "name": "Blowhole",
+                  "text": "Ein natürlicher Felsspalt an der Küste, durch den das Meerwasser wie eine Fontäne in die Höhe schießt.",
+                  "category": "natural",
+                  "coords": [
+                        80.242464,
+                        6.006675
+                  ]
+            },
+            {
+                  "name": "Monkey View",
+                  "text": "Ein erhöhter Aussichtspunkt mit weitem Blick über den Dschungel und die Küste von Unawatuna.",
+                  "category": "landmark",
+                  "coords": [
+                        80.246957,
+                        6.010668
+                  ]
+            },
+            {
+                  "name": "Saffron Robes",
+                  "text": "Eine Kunstgalerie, die lebhafte Gemälde lokaler Künstler mit traditionellen und modernen Motiven ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        80.248079,
+                        6.012185
+                  ]
+            },
+            {
+                  "name": "Wijaya Beach",
+                  "text": "Ein beliebter Strand, der durch ein Korallenriff geschützt ist und so ein ruhiges Naturschwimmbecken bildet.",
+                  "category": "recreational",
+                  "coords": [
+                        80.26357,
+                        5.999863
+                  ]
+            },
+            {
+                  "name": "Delawella Beach",
+                  "text": "Ein malerischer Strandabschnitt, der für sein flaches, türkisfarbenes Wasser und seine Fotomotive bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        80.25878,
+                        6.00217
+                  ]
+            },
+            {
+                  "name": "Mihiripena beach",
+                  "text": "Ein ruhiger, familienfreundlicher Strand mit goldenem Sand und sanfter Brandung.",
+                  "category": "recreational",
+                  "coords": [
+                        80.269851,
+                        5.998603
+                  ]
+            },
+            {
+                  "name": "Unawatuna",
+                  "text": "Eine berühmte, hufeisenförmige Bucht mit goldenem Sand, die für ihre lebhafte Atmosphäre und Korallenriffe bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        80.247438,
+                        6.00897
+                  ]
+            },
+            {
+                  "name": "White Jungle beach",
+                  "text": "Eine abgelegene Bucht mit feinem weißen Sand am Rumassala-Hang, die ein ruhiges Schnorchelerlebnis bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        80.239448,
+                        6.018873
+                  ]
+            },
+            {
+                  "name": "Coco Bay",
+                  "text": "Ein ruhiger Strandabschnitt am Rande der Bucht von Unawatuna mit weitem Blick auf die Festung von Galle.",
+                  "category": "recreational",
+                  "coords": [
+                        80.242235,
+                        6.027547
+                  ]
+            },
+            {
+                  "name": "Sri Dhammaramaya",
+                  "text": "Ein traditioneller buddhistischer Dorftempel in Mihiripenna, der als spirituelles Zentrum für die lokale Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.287672,
+                        6.011183
+                  ]
+            },
+            {
+                  "name": "Maligakanda Raja Maha Viharaya",
+                  "text": "Ein historischer Tempel auf einem Hügel in Habaraduwa, der für seine friedliche Atmosphäre und klassische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.272416,
+                        6.019223
+                  ]
+            },
+            {
+                  "name": "Polduwa Sri Sunandaramaya",
+                  "text": "Ein lokales Heiligtum in Rathkindagoda, das für seine weißen Stupas und die schattigen Kokosnusshaine bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.2682,
+                        6.019041
+                  ]
+            },
+            {
+                  "name": "Shethrarama Viharaya",
+                  "text": "Ein kleiner, ruhiger buddhistischer Schrein in Unawatuna, der ideal für Meditation inmitten von tropischem Grün ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.256969,
+                        6.00766
+                  ]
+            },
+            {
+                  "name": "Ariyakara Maha Pirivena",
+                  "text": "Ein bedeutendes buddhistisches College für Mönche, in dem junge Novizen die heiligen Schriften in Pali und Sanskrit studieren.",
+                  "category": "landmark",
+                  "coords": [
+                        80.265536,
+                        6.003414
+                  ]
+            },
+            {
+                  "name": "Sri Wimalaramaya",
+                  "text": "Ein typischer Dorftempel mit einer kunstvoll verzierten Gebetshalle und einem alten Bodhi-Baum.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282023,
+                        5.999979
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmaramaya",
+                  "text": "Ein ruhiger Tempelkomplex in Mihiripenna, der abseits der touristischen Pfade einen Einblick in das lokale religiöse Leben bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282058,
+                        6.001284
+                  ]
+            },
+            {
+                  "name": "Welle Devalaya Temple",
+                  "text": "Ein am Meer gelegener Schrein für den Gott Devol auf einer Klippe, berühmt für seine dramatische Aussicht auf den Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243391,
+                        6.006094
+                  ]
+            },
+            {
+                  "name": "Bodhirukkarama Viharaya",
+                  "text": "Ein nach dem heiligen Bodhi-Baum benannter Tempel, der eine friedliche Umgebung für lokale Gläubige bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.249071,
+                        6.022506
+                  ]
+            },
+            {
+                  "name": "Rumassala Sri Viwekarama Vihara",
+                  "text": "Ein auf dem Rumassala-Hügel gelegener Tempel mit weitem Blick auf die Bucht und die japanische Friedenspagode.",
+                  "category": "landmark",
+                  "coords": [
+                        80.239995,
+                        6.015331
+                  ]
+            },
+            {
+                  "name": "Galketiya Temple",
+                  "text": "Ein lokaler buddhistischer Tempel, der für seine schlichte Architektur und die umliegenden Kokosnussplantagen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.245984,
+                        6.024447
+                  ]
+            },
+            {
+                  "name": "Siyambalagahawatte Sri Vijitharamaya",
+                  "text": "Ein abgelegener Viharaya, der einen ruhigen Rückzugsort für Meditation inmitten der üppigen Natur von Unawatuna bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243787,
+                        6.033055
+                  ]
+            },
+            {
+                  "name": "Neegrodharamaya",
+                  "text": "Ein schattiger Tempelkomplex, dessen Name auf die Anwesenheit von heiligen Banyanbäumen in seinen Gärten hindeutet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284448,
+                        6.079444
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein bescheidener buddhistischer Tempel mit einer strahlend weißen Dagoba, die aus den umliegenden Palmwedeln hervorragt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.269729,
+                        6.069357
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ein Ort der Andacht mit farbenfrohen Buddha-Statuen und einer ruhigen Atmosphäre für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.280545,
+                        6.062261
+                  ]
+            },
+            {
+                  "name": "Sri Sumangala Viharaya",
+                  "text": "Ein lokales Vihara mit einer kunstvoll bemalten Decke, die Szenen aus den Jataka-Erzählungen darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284701,
+                        6.052073
+                  ]
+            },
+            {
+                  "name": "Meegoda Sri Poorwaramaya",
+                  "text": "Ein jahrhundertealter Dorftempel in Meegoda, der den Mittelpunkt der religiösen Feste in Akmeemana bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.281464,
+                        6.043147
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "Ein friedlicher buddhistischer Zufluchtsort mit einer kleinen Meditationshalle und gepflegten Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        80.252994,
+                        6.049283
+                  ]
+            },
+            {
+                  "name": "Yatagala Raja Maha Viharaya",
+                  "text": "Ein 2.300 Jahre alter Felsentempel mit einer neun Meter langen liegenden Buddha-Statue und Wandmalereien im Kandyan-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26105,
+                        6.025001
+                  ]
+            },
+            {
+                  "name": "Andayamgodella Sri Khettaramaya",
+                  "text": "Ein spirituelles Zentrum in Akmeemana, das für seine gemeinschaftlichen Segnungszeremonien und seine ruhige Lage bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.259786,
+                        6.058396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ship Rock",
+                  "text": "Jellegzetes sziklaalakzat a part közelében, amely a hullámokból kiemelkedő hajóra hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        80.262085,
+                        6.000193
+                  ]
+            },
+            {
+                  "name": "Palm rope swing.",
+                  "text": "Híres kókuszpálmára szerelt kötélhinta, amellyel a látogatók az óceán fölé lendülhetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26007,
+                        6.001374
+                  ]
+            },
+            {
+                  "name": "Blowhole",
+                  "text": "Természetes sziklahasadék a parton, amelyen keresztül a tengervíz szökőkútszerűen tör a magasba.",
+                  "category": "natural",
+                  "coords": [
+                        80.242464,
+                        6.006675
+                  ]
+            },
+            {
+                  "name": "Monkey View",
+                  "text": "Magaslati kilátópont, ahonnan pazar kilátás nyílik a dzsungelre és Unawatuna partjaira.",
+                  "category": "landmark",
+                  "coords": [
+                        80.246957,
+                        6.010668
+                  ]
+            },
+            {
+                  "name": "Saffron Robes",
+                  "text": "Művészeti galéria, amely helyi művészek élénk színű, hagyományos és modern témájú festményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        80.248079,
+                        6.012185
+                  ]
+            },
+            {
+                  "name": "Wijaya Beach",
+                  "text": "Népszerű strand, amelyet korallzátony véd, így egy nyugodt, természetes úszómedencét alkot.",
+                  "category": "recreational",
+                  "coords": [
+                        80.26357,
+                        5.999863
+                  ]
+            },
+            {
+                  "name": "Delawella Beach",
+                  "text": "Glefestői strand szakasz, amely sekély, türkizkék vizéről és fotogén helyszíneiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        80.25878,
+                        6.00217
+                  ]
+            },
+            {
+                  "name": "Mihiripena beach",
+                  "text": "Csendes, családbarát strand aranyló homokkal és szelíd hullámveréssel.",
+                  "category": "recreational",
+                  "coords": [
+                        80.269851,
+                        5.998603
+                  ]
+            },
+            {
+                  "name": "Unawatuna",
+                  "text": "Híres, patkó alakú öböl aranyló homokkal, amely élénk hangulatáról és korallzátonyairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        80.247438,
+                        6.00897
+                  ]
+            },
+            {
+                  "name": "White Jungle beach",
+                  "text": "Egy eldugott, finom fehér homokos öböl a Rumassala-domboldalon, amely nyugodt környezetet kínál a búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        80.239448,
+                        6.018873
+                  ]
+            },
+            {
+                  "name": "Coco Bay",
+                  "text": "Csendes tengerparti szakasz az Unawatuna-öböl szélén, ahonnan tiszta kilátás nyílik a gallei erődre.",
+                  "category": "recreational",
+                  "coords": [
+                        80.242235,
+                        6.027547
+                  ]
+            },
+            {
+                  "name": "Sri Dhammaramaya",
+                  "text": "Hagyományos buddhista falusi templom Mihiripennában, amely a helyi közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        80.287672,
+                        6.011183
+                  ]
+            },
+            {
+                  "name": "Maligakanda Raja Maha Viharaya",
+                  "text": "Történelmi dombtetői templom Habaraduwában, amely békés légköréről és klasszikus építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.272416,
+                        6.019223
+                  ]
+            },
+            {
+                  "name": "Polduwa Sri Sunandaramaya",
+                  "text": "Helyi szentély Rathkindagodában, amely fehér sztúpáiról és az árnyas kókuszligetekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.2682,
+                        6.019041
+                  ]
+            },
+            {
+                  "name": "Shethrarama Viharaya",
+                  "text": "Kicsi, csendes buddhista szentély Unawatunában, amely ideális a meditációhoz a trópusi zöld környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        80.256969,
+                        6.00766
+                  ]
+            },
+            {
+                  "name": "Ariyakara Maha Pirivena",
+                  "text": "Jelentős buddhista szerzetesi kollégium, ahol fiatal novíciusok páli és szanszkrit nyelvű szentírásokat tanulmányoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        80.265536,
+                        6.003414
+                  ]
+            },
+            {
+                  "name": "Sri Wimalaramaya",
+                  "text": "Tipikus falusi templom díszes imacsarnokkal és egy ősi Bodhi-fával.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282023,
+                        5.999979
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmaramaya",
+                  "text": "Csendes templomkomplexum Mihiripennában, amely a turistaösvényektől távol nyújt betekintést a helyi vallási életbe.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282058,
+                        6.001284
+                  ]
+            },
+            {
+                  "name": "Welle Devalaya Temple",
+                  "text": "Tengerparti szentély a sziklafalon Devol isten tiszteletére, amely drámai kilátásáról híres az óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243391,
+                        6.006094
+                  ]
+            },
+            {
+                  "name": "Bodhirukkarama Viharaya",
+                  "text": "A szent Bodhi-fáról elnevezett templom, amely békés környezetet biztosít a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        80.249071,
+                        6.022506
+                  ]
+            },
+            {
+                  "name": "Rumassala Sri Viwekarama Vihara",
+                  "text": "A Rumassala-dombon található templom, ahonnan pazar kilátás nyílik az öbölre és a Japán Béke-pagodára.",
+                  "category": "landmark",
+                  "coords": [
+                        80.239995,
+                        6.015331
+                  ]
+            },
+            {
+                  "name": "Galketiya Temple",
+                  "text": "Helyi buddhista templom, amely egyszerű építészetéről és a környező kókuszültetvényekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.245984,
+                        6.024447
+                  ]
+            },
+            {
+                  "name": "Siyambalagahawatte Sri Vijitharamaya",
+                  "text": "Eldugott viharaya, amely csendes menedéket nyújt a meditációhoz Unawatuna dús növényzete közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243787,
+                        6.033055
+                  ]
+            },
+            {
+                  "name": "Neegrodharamaya",
+                  "text": "Árnyas templomkomplexum, amelynek neve a kertjében lévő szent banyánfákra utal.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284448,
+                        6.079444
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Szerény buddhista templom ragyogó fehér dagobával, amely kiemelkedik a környező pálmalevelek közül.",
+                  "category": "landmark",
+                  "coords": [
+                        80.269729,
+                        6.069357
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Helyi imádságos hely színes Buddha-szobrokkal és békés légkörrel a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        80.280545,
+                        6.062261
+                  ]
+            },
+            {
+                  "name": "Sri Sumangala Viharaya",
+                  "text": "Helyi vihara gazdagon festett mennyezettel, amely a Jataka-történetek jeleneteit ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284701,
+                        6.052073
+                  ]
+            },
+            {
+                  "name": "Meegoda Sri Poorwaramaya",
+                  "text": "Évszázados falusi templom Meegodában, amely az akmeemanai vallási ünnepek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.281464,
+                        6.043147
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "Békés buddhista menedékhely kis meditációs teremmel és gondozott kertekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.252994,
+                        6.049283
+                  ]
+            },
+            {
+                  "name": "Yatagala Raja Maha Viharaya",
+                  "text": "2300 éves sziklatemplom egy kilencméteres fekvő Buddha-szoborral és kandyi stílusú falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26105,
+                        6.025001
+                  ]
+            },
+            {
+                  "name": "Andayamgodella Sri Khettaramaya",
+                  "text": "Spirituális központ Akmeemanában, amely közösségi áldási szertartásairól és nyugodt elhelyezkedéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.259786,
+                        6.058396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ship Rock",
+                  "text": "O formațiune stâncoasă proeminentă în largul coastei, care seamănă cu o navă care iese din valuri.",
+                  "category": "landmark",
+                  "coords": [
+                        80.262085,
+                        6.000193
+                  ]
+            },
+            {
+                  "name": "Palm rope swing.",
+                  "text": "Un faimos leagăn de frânghie pe un palmier de cocos, care permite vizitatorilor să se balanseze deasupra oceanului.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26007,
+                        6.001374
+                  ]
+            },
+            {
+                  "name": "Blowhole",
+                  "text": "O fisură naturală în stânca de pe coastă prin care apa mării este propulsată în sus ca o fântână.",
+                  "category": "natural",
+                  "coords": [
+                        80.242464,
+                        6.006675
+                  ]
+            },
+            {
+                  "name": "Monkey View",
+                  "text": "Un punct de observație ridicat, cu vedere panoramică asupra junglei și coastei din Unawatuna.",
+                  "category": "landmark",
+                  "coords": [
+                        80.246957,
+                        6.010668
+                  ]
+            },
+            {
+                  "name": "Saffron Robes",
+                  "text": "O galerie de artă care expune picturi vibrante ale artiștilor locali, cu teme tradiționale și moderne.",
+                  "category": "museum",
+                  "coords": [
+                        80.248079,
+                        6.012185
+                  ]
+            },
+            {
+                  "name": "Wijaya Beach",
+                  "text": "O plajă populară protejată de un recif de corali, formând o piscină naturală liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        80.26357,
+                        5.999863
+                  ]
+            },
+            {
+                  "name": "Delawella Beach",
+                  "text": "O porțiune de plajă pitorească, cunoscută pentru apele sale turcoaz puțin adânci și locurile fotogenice.",
+                  "category": "recreational",
+                  "coords": [
+                        80.25878,
+                        6.00217
+                  ]
+            },
+            {
+                  "name": "Mihiripena beach",
+                  "text": "O plajă liniștită, potrivită pentru familii, cu nisip auriu și valuri blânde.",
+                  "category": "recreational",
+                  "coords": [
+                        80.269851,
+                        5.998603
+                  ]
+            },
+            {
+                  "name": "Unawatuna",
+                  "text": "Un golf faimos în formă de potcoavă, cu nisip auriu, cunoscut pentru atmosfera sa vibrantă și recifele de corali.",
+                  "category": "recreational",
+                  "coords": [
+                        80.247438,
+                        6.00897
+                  ]
+            },
+            {
+                  "name": "White Jungle beach",
+                  "text": "Un golf izolat cu nisip alb fin pe panta Rumassala, oferind o experiență liniștită de snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        80.239448,
+                        6.018873
+                  ]
+            },
+            {
+                  "name": "Coco Bay",
+                  "text": "O porțiune de plajă liniștită la marginea golfului Unawatuna, cu vedere largă spre Fortul Galle.",
+                  "category": "recreational",
+                  "coords": [
+                        80.242235,
+                        6.027547
+                  ]
+            },
+            {
+                  "name": "Sri Dhammaramaya",
+                  "text": "Un templu budist tradițional de sat în Mihiripenna, care servește ca centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        80.287672,
+                        6.011183
+                  ]
+            },
+            {
+                  "name": "Maligakanda Raja Maha Viharaya",
+                  "text": "Un templu istoric pe deal în Habaraduwa, cunoscut pentru atmosfera sa liniștită și arhitectura clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        80.272416,
+                        6.019223
+                  ]
+            },
+            {
+                  "name": "Polduwa Sri Sunandaramaya",
+                  "text": "Un sanctuar local în Rathkindagoda, cunoscut pentru stupele sale albe și livezile de nuc de cocos umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        80.2682,
+                        6.019041
+                  ]
+            },
+            {
+                  "name": "Shethrarama Viharaya",
+                  "text": "Un mic sanctuar budist liniștit în Unawatuna, ideal pentru meditație în mijlocul verdeții tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.256969,
+                        6.00766
+                  ]
+            },
+            {
+                  "name": "Ariyakara Maha Pirivena",
+                  "text": "Un colegiu monahal budist important, unde tinerii novici studiază scripturile sacre în pali și sanscrită.",
+                  "category": "landmark",
+                  "coords": [
+                        80.265536,
+                        6.003414
+                  ]
+            },
+            {
+                  "name": "Sri Wimalaramaya",
+                  "text": "Un templu de sat tipic, cu o sală de rugăciune decorată artistic și un arbore Bodhi străvechi.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282023,
+                        5.999979
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmaramaya",
+                  "text": "Un complex de temple liniștit în Mihiripenna, care oferă o perspectivă asupra vieții religioase locale, departe de traseele turistice.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282058,
+                        6.001284
+                  ]
+            },
+            {
+                  "name": "Welle Devalaya Temple",
+                  "text": "Un sanctuar de coastă pe o stâncă dedicat zeului Devol, renumit pentru vederea sa dramatică spre ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243391,
+                        6.006094
+                  ]
+            },
+            {
+                  "name": "Bodhirukkarama Viharaya",
+                  "text": "Un templu numit după arborele sacru Bodhi, oferind un mediu pașnic pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        80.249071,
+                        6.022506
+                  ]
+            },
+            {
+                  "name": "Rumassala Sri Viwekarama Vihara",
+                  "text": "Un templu situat pe dealul Rumassala, cu vedere largă spre golf și Pagoda Japoneză a Păcii.",
+                  "category": "landmark",
+                  "coords": [
+                        80.239995,
+                        6.015331
+                  ]
+            },
+            {
+                  "name": "Galketiya Temple",
+                  "text": "Un templu budist local, cunoscut pentru arhitectura sa simplă și plantațiile de nuc de cocos din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        80.245984,
+                        6.024447
+                  ]
+            },
+            {
+                  "name": "Siyambalagahawatte Sri Vijitharamaya",
+                  "text": "O viharaya retrasă care oferă un refugiu liniștit pentru meditație în mijlocul naturii luxuriante din Unawatuna.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243787,
+                        6.033055
+                  ]
+            },
+            {
+                  "name": "Neegrodharamaya",
+                  "text": "Un complex de temple umbrit, al cărui nume sugerează prezența arborilor banyan sacri în grădinile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284448,
+                        6.079444
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un templu budist modest cu o dagoba albă strălucitoare care se înalță deasupra frunzelor de palmier din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        80.269729,
+                        6.069357
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Un loc de cult cu statui colorate ale lui Buddha și o atmosferă liniștită pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        80.280545,
+                        6.062261
+                  ]
+            },
+            {
+                  "name": "Sri Sumangala Viharaya",
+                  "text": "O vihara locală cu un tavan pictat artistic, reprezentând scene din poveștile Jataka.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284701,
+                        6.052073
+                  ]
+            },
+            {
+                  "name": "Meegoda Sri Poorwaramaya",
+                  "text": "Un templu de sat vechi de secole în Meegoda, care formează punctul focal al festivalurilor religioase din Akmeemana.",
+                  "category": "landmark",
+                  "coords": [
+                        80.281464,
+                        6.043147
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "Un refugiu budist pașnic, cu o mică sală de meditație și grădini bine întreținute.",
+                  "category": "landmark",
+                  "coords": [
+                        80.252994,
+                        6.049283
+                  ]
+            },
+            {
+                  "name": "Yatagala Raja Maha Viharaya",
+                  "text": "Un templu în stâncă vechi de 2.300 de ani, cu o statuie a lui Buddha culcat de nouă metri și picturi murale în stil Kandyan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26105,
+                        6.025001
+                  ]
+            },
+            {
+                  "name": "Andayamgodella Sri Khettaramaya",
+                  "text": "Un centru spiritual în Akmeemana, cunoscut pentru ceremoniile sale comunitare de binecuvântare și locația liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        80.259786,
+                        6.058396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ship Rock",
+                  "text": "A distinct rock formation off the coast that resembles the hull of a ship emerging from the waves.",
+                  "category": "landmark",
+                  "coords": [
+                        80.262085,
+                        6.000193
+                  ]
+            },
+            {
+                  "name": "Paid Palm Rope Swing",
+                  "text": "A famous rope swing on a coconut palm where visitors can swing out over the ocean waves.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26007,
+                        6.001374
+                  ]
+            },
+            {
+                  "name": "Blowhole",
+                  "text": "A natural rock crevice on the coast where seawater is blasted upwards like a fountain.",
+                  "category": "natural",
+                  "coords": [
+                        80.242464,
+                        6.006675
+                  ]
+            },
+            {
+                  "name": "Monkey View",
+                  "text": "An elevated viewpoint offering sweeping vistas over the jungle and the Unawatuna coast.",
+                  "category": "landmark",
+                  "coords": [
+                        80.246957,
+                        6.010668
+                  ]
+            },
+            {
+                  "name": "Saffron Robes",
+                  "text": "An art gallery showcasing vibrant paintings by local artists featuring traditional and modern themes.",
+                  "category": "museum",
+                  "coords": [
+                        80.248079,
+                        6.012185
+                  ]
+            },
+            {
+                  "name": "Wijaya Beach",
+                  "text": "A popular beach protected by a coral reef, creating a calm natural swimming pool safe from currents.",
+                  "category": "recreational",
+                  "coords": [
+                        80.26357,
+                        5.999863
+                  ]
+            },
+            {
+                  "name": "Delawella Beach",
+                  "text": "A picturesque stretch of beach known for its shallow turquoise waters and iconic photo spots.",
+                  "category": "recreational",
+                  "coords": [
+                        80.25878,
+                        6.00217
+                  ]
+            },
+            {
+                  "name": "Mihiripena beach",
+                  "text": "A quiet, family-friendly beach featuring golden sand and gentle surf.",
+                  "category": "recreational",
+                  "coords": [
+                        80.269851,
+                        5.998603
+                  ]
+            },
+            {
+                  "name": "Unawatuna",
+                  "text": "A world-famous horseshoe-shaped bay featuring golden sand and vibrant coral reefs.",
+                  "category": "recreational",
+                  "coords": [
+                        80.247438,
+                        6.00897
+                  ]
+            },
+            {
+                  "name": "White Jungle beach",
+                  "text": "A secluded cove with fine white sand on the Rumassala hillside, offering a quiet snorkeling experience.",
+                  "category": "recreational",
+                  "coords": [
+                        80.239448,
+                        6.018873
+                  ]
+            },
+            {
+                  "name": "Coco Bay",
+                  "text": "A quiet stretch of beach at the edge of Unawatuna Bay, offering clear views of the Galle Fort across the water.",
+                  "category": "recreational",
+                  "coords": [
+                        80.242235,
+                        6.027547
+                  ]
+            },
+            {
+                  "name": "Sri Dhammaramaya",
+                  "text": "A traditional Buddhist village temple in Mihiripenna, serving as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        80.287672,
+                        6.011183
+                  ]
+            },
+            {
+                  "name": "Maligakanda Raja Maha Viharaya",
+                  "text": "A historic hillside temple in Habaraduwa, known for its peaceful atmosphere and traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        80.272416,
+                        6.019223
+                  ]
+            },
+            {
+                  "name": "Polduwa Sri Sunandaramaya",
+                  "text": "A local sanctuary in Rathkindagoda, known for its white stupas and shaded coconut groves.",
+                  "category": "landmark",
+                  "coords": [
+                        80.2682,
+                        6.019041
+                  ]
+            },
+            {
+                  "name": "Shethrarama Viharaya",
+                  "text": "A small, quiet Buddhist shrine in Unawatuna, ideal for meditation amidst tropical greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        80.256969,
+                        6.00766
+                  ]
+            },
+            {
+                  "name": "Ariyakara Maha Pirivena",
+                  "text": "An important Buddhist monastic college where young novices study sacred scriptures in Pali and Sanskrit.",
+                  "category": "landmark",
+                  "coords": [
+                        80.265536,
+                        6.003414
+                  ]
+            },
+            {
+                  "name": "Sri Wimalaramaya",
+                  "text": "A typical village temple featuring an ornately decorated prayer hall and an ancient Bodhi tree.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282023,
+                        5.999979
+                  ]
+            },
+            {
+                  "name": "Sri Sudharmaramaya",
+                  "text": "A serene temple complex in Mihiripenna offering a glimpse into local religious life away from the tourist crowds.",
+                  "category": "landmark",
+                  "coords": [
+                        80.282058,
+                        6.001284
+                  ]
+            },
+            {
+                  "name": "Welle Devalaya Temple",
+                  "text": "A seaside shrine to God Devol perched on a cliff, famous for its dramatic ocean views.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243391,
+                        6.006094
+                  ]
+            },
+            {
+                  "name": "Bodhirukkarama Viharaya",
+                  "text": "A temple named after the sacred Bodhi tree, providing a peaceful environment for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        80.249071,
+                        6.022506
+                  ]
+            },
+            {
+                  "name": "Rumassala Sri Viwekarama Vihara",
+                  "text": "A temple situated on Rumassala Hill, offering panoramic views of the bay and the Japanese Peace Pagoda.",
+                  "category": "landmark",
+                  "coords": [
+                        80.239995,
+                        6.015331
+                  ]
+            },
+            {
+                  "name": "Galketiya Temple",
+                  "text": "A local Buddhist temple known for its simple architecture and surrounding coconut plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        80.245984,
+                        6.024447
+                  ]
+            },
+            {
+                  "name": "Siyambalagahawatte Sri Vijitharamaya",
+                  "text": "A secluded viharaya providing a quiet retreat for meditation amidst the lush greenery of Unawatuna.",
+                  "category": "landmark",
+                  "coords": [
+                        80.243787,
+                        6.033055
+                  ]
+            },
+            {
+                  "name": "Neegrodharamaya",
+                  "text": "A shaded temple complex whose name hints at the presence of sacred banyan trees in its gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284448,
+                        6.079444
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A modest Buddhist temple featuring a bright white dagoba rising above the surrounding palm fronds.",
+                  "category": "landmark",
+                  "coords": [
+                        80.269729,
+                        6.069357
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "A place of worship featuring colorful Buddha statues and a serene atmosphere for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        80.280545,
+                        6.062261
+                  ]
+            },
+            {
+                  "name": "Sri Sumangala Viharaya",
+                  "text": "A local vihara featuring an elaborately painted ceiling depicting scenes from the Jataka tales.",
+                  "category": "landmark",
+                  "coords": [
+                        80.284701,
+                        6.052073
+                  ]
+            },
+            {
+                  "name": "Meegoda Sri Poorwaramaya",
+                  "text": "A centuries-old village temple in Meegoda that forms the focal point of religious festivals in Akmeemana.",
+                  "category": "landmark",
+                  "coords": [
+                        80.281464,
+                        6.043147
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "A peaceful Buddhist sanctuary featuring a small meditation hall and well-kept gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        80.252994,
+                        6.049283
+                  ]
+            },
+            {
+                  "name": "Yatagala Raja Maha Viharaya",
+                  "text": "A 2,300-year-old rock temple featuring a nine-meter reclining Buddha statue and Kandyan-style murals.",
+                  "category": "landmark",
+                  "coords": [
+                        80.26105,
+                        6.025001
+                  ]
+            },
+            {
+                  "name": "Andayamgodella Sri Khettaramaya",
+                  "text": "A spiritual center in Akmeemana known for its communal blessing ceremonies and tranquil setting.",
+                  "category": "landmark",
+                  "coords": [
+                        80.259786,
+                        6.058396
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-31",
     coords: [80.2483, 6.0125],
@@ -543,7 +8661,232 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pidurangala-rock-landmarks-v2",
+    id: "pidurangala-rock-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cave Inscriptions",
+                  "text": "Alte Inschriften in den Felsspalten bei Pidurangala, die von der frühen klösterlichen Geschichte der Region zeugen.",
+                  "category": "landmark",
+                  "coords": [
+                        80.761052,
+                        7.968089
+                  ]
+            },
+            {
+                  "name": "Bodikaraya",
+                  "text": "Eine archäologische Stätte am Fuße des Pidurangala-Felsens mit Ruinen eines alten buddhistischen Klosters.",
+                  "category": "historical",
+                  "coords": [
+                        80.760698,
+                        7.96944
+                  ]
+            },
+            {
+                  "name": "Sigiriya viewpoint",
+                  "text": "Ein Aussichtspunkt auf dem Pidurangala-Felsen, der einen direkten Blick auf die gegenüberliegende Sigiriya-Festung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        80.761852,
+                        7.965617
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Ein beliebter Ort auf dem Gipfel des Pidurangala-Felsens, um den Sonnenaufgang über dem srilankischen Dschungel zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        80.762351,
+                        7.966651
+                  ]
+            },
+            {
+                  "name": "Gallinda Purana Devalaya",
+                  "text": "Ein kleiner, alter Hindu-Schrein in der ländlichen Umgebung des Pidurangala-Gebietes.",
+                  "category": "landmark",
+                  "coords": [
+                        80.792917,
+                        7.994992
+                  ]
+            },
+            {
+                  "name": "Buddah",
+                  "text": "Ein heiliger Ort in einer Felshöhle mit einer beeindruckenden, liegenden Buddha-Statue aus Ziegeln und Lehm.",
+                  "category": "religious",
+                  "coords": [
+                        80.762703,
+                        7.969483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cave Inscriptions",
+                  "text": "Ősi feliratok a Pidurangala melletti sziklahasadékokban, amelyek a régió korai kolostori történelméről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        80.761052,
+                        7.968089
+                  ]
+            },
+            {
+                  "name": "Bodikaraya",
+                  "text": "Régészeti lelőhely a Pidurangala-szikla lábánál, egy ősi buddhista kolostor romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        80.760698,
+                        7.96944
+                  ]
+            },
+            {
+                  "name": "Sigiriya viewpoint",
+                  "text": "Kilátópont a Pidurangala-sziklán, ahonnan közvetlen kilátás nyílik a szemközti Szigirija-erődre.",
+                  "category": "natural",
+                  "coords": [
+                        80.761852,
+                        7.965617
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Népszerű hely a Pidurangala-szikla tetején a Srí Lanka-i dzsungel feletti napfelkelte megtekintésére.",
+                  "category": "natural",
+                  "coords": [
+                        80.762351,
+                        7.966651
+                  ]
+            },
+            {
+                  "name": "Gallinda Purana Devalaya",
+                  "text": "Kicsi, régi hindu szentély Pidurangala vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        80.792917,
+                        7.994992
+                  ]
+            },
+            {
+                  "name": "Buddah",
+                  "text": "Sziklabarlangban található szent hely, egy lenyűgöző, téglából és agyagból készült fekvő Buddha-szoborral.",
+                  "category": "religious",
+                  "coords": [
+                        80.762703,
+                        7.969483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cave Inscriptions",
+                  "text": "Inscripții antice în crăpăturile stâncilor de la Pidurangala, care atestă istoria monastică timpurie a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        80.761052,
+                        7.968089
+                  ]
+            },
+            {
+                  "name": "Bodikaraya",
+                  "text": "Un sit arheologic la baza stâncii Pidurangala, cu ruinele unei vechi mănăstiri budiste.",
+                  "category": "historical",
+                  "coords": [
+                        80.760698,
+                        7.96944
+                  ]
+            },
+            {
+                  "name": "Sigiriya viewpoint",
+                  "text": "Un punct de observație pe stânca Pidurangala, care oferă o vedere directă asupra fortăreței Sigiriya de vizavi.",
+                  "category": "natural",
+                  "coords": [
+                        80.761852,
+                        7.965617
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Un loc popular pe vârful stâncii Pidurangala pentru a observa răsăritul soarelui peste jungla din Sri Lanka.",
+                  "category": "natural",
+                  "coords": [
+                        80.762351,
+                        7.966651
+                  ]
+            },
+            {
+                  "name": "Gallinda Purana Devalaya",
+                  "text": "Un mic sanctuar hindu vechi situat în împrejurimile rurale ale zonei Pidurangala.",
+                  "category": "landmark",
+                  "coords": [
+                        80.792917,
+                        7.994992
+                  ]
+            },
+            {
+                  "name": "Buddah",
+                  "text": "Un loc sacru într-o peșteră de stâncă, cu o statuie impresionantă a lui Buddha culcat, realizată din cărămidă și lut.",
+                  "category": "religious",
+                  "coords": [
+                        80.762703,
+                        7.969483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cave Inscriptions",
+                  "text": "Ancient inscriptions in the rock crevices at Pidurangala, witnessing the early monastic history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.761052,
+                        7.968089
+                  ]
+            },
+            {
+                  "name": "Bodikaraya",
+                  "text": "An archaeological site at the base of Pidurangala Rock featuring the ruins of an ancient Buddhist monastery.",
+                  "category": "historical",
+                  "coords": [
+                        80.760698,
+                        7.96944
+                  ]
+            },
+            {
+                  "name": "Sigiriya viewpoint",
+                  "text": "A viewpoint on Pidurangala Rock offering a direct view of the Sigiriya fortress across the valley.",
+                  "category": "natural",
+                  "coords": [
+                        80.761852,
+                        7.965617
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "A popular spot on the summit of Pidurangala Rock for watching the sunrise over the Sri Lankan jungle.",
+                  "category": "natural",
+                  "coords": [
+                        80.762351,
+                        7.966651
+                  ]
+            },
+            {
+                  "name": "Gallinda Purana Devalaya",
+                  "text": "A small, ancient Hindu shrine located in the rural surroundings of the Pidurangala area.",
+                  "category": "landmark",
+                  "coords": [
+                        80.792917,
+                        7.994992
+                  ]
+            },
+            {
+                  "name": "Buddah",
+                  "text": "A sacred spot in a rock cave featuring an impressive reclining Buddha statue made of brick and clay.",
+                  "category": "religious",
+                  "coords": [
+                        80.762703,
+                        7.969483
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.7630, 7.9654],
@@ -579,7 +8922,1420 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bahirawakanda-buddha-landmarks-v2",
+    id: "bahirawakanda-buddha-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asgiri Maha Viharaya",
+                  "text": "Eines der wichtigsten Klöster Sri Lankas und Sitz des Asgiriya-Ordens in Kandy.",
+                  "category": "religious",
+                  "coords": [
+                        80.632183,
+                        7.299393
+                  ]
+            },
+            {
+                  "name": "Regal Cinema",
+                  "text": "Historisches Kino in Kandy, das eine klassische Atmosphäre für Kinobesucher bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        80.622391,
+                        7.283511
+                  ]
+            },
+            {
+                  "name": "Hindu Cultural Center",
+                  "text": "Veranstaltungsort für traditionelle südindische Tänze und karnatische Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625466,
+                        7.285821
+                  ]
+            },
+            {
+                  "name": "Small temple",
+                  "text": "Bescheidener Schrein am Straßenrand, an dem Einheimische für tägliche Gebete und Opfergaben anhalten.",
+                  "category": "religious",
+                  "coords": [
+                        80.623023,
+                        7.281718
+                  ]
+            },
+            {
+                  "name": "Kandurata Kalvary",
+                  "text": "Katholischer Wallfahrtsort am Hang mit einem Kreuzweg.",
+                  "category": "religious",
+                  "coords": [
+                        80.616313,
+                        7.287491
+                  ]
+            },
+            {
+                  "name": "Meera Maccam Jummah Masjid",
+                  "text": "Historische Moschee in Kandy, bekannt für ihre traditionelle Architektur und spirituelle Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        80.635201,
+                        7.298374
+                  ]
+            },
+            {
+                  "name": "Masjidul Huda Jumma Mosque",
+                  "text": "Moderne Freitagsmoschee für die muslimische Gemeinschaft in der Region Kandy.",
+                  "category": "religious",
+                  "coords": [
+                        80.599947,
+                        7.373836
+                  ]
+            },
+            {
+                  "name": "Katugastota Market",
+                  "text": "Lebhafter lokaler Marktplatz, der für seine Vielfalt an frischen tropischen Früchten und Gemüsen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625108,
+                        7.324601
+                  ]
+            },
+            {
+                  "name": "Asgiri Maha Vihara pirivena",
+                  "text": "Klosterhochschule, an der junge Mönche buddhistische Philosophie und Sprachen studieren.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633546,
+                        7.298448
+                  ]
+            },
+            {
+                  "name": "Sri Bodhimalu Viharaya",
+                  "text": "Buddhistischer Tempel, in dessen Zentrum eine erhöhte Terrasse für einen heiligen Bodhi-Baum steht.",
+                  "category": "landmark",
+                  "coords": [
+                        80.610498,
+                        7.288828
+                  ]
+            },
+            {
+                  "name": "Mulgampola Bodhiya",
+                  "text": "Lokaler Schrein in den Vororten von Kandy, der einen verehrten heiligen Feigenbaum beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617337,
+                        7.278991
+                  ]
+            },
+            {
+                  "name": "Thumbomaluwa Viharaya",
+                  "text": "Ruhiges buddhistisches Heiligtum, das eine friedliche Atmosphäre für lokale Gläubige bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617622,
+                        7.277072
+                  ]
+            },
+            {
+                  "name": "Suduhumpola Rjamaha Viharaya",
+                  "text": "Königlicher buddhistischer Tempel mit kunstvollen Schnitzereien und Wandmalereien aus der Kandy-Ära.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624526,
+                        7.280144
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Kovil",
+                  "text": "Hindutempel, der dem Gott Ganesha gewidmet ist und oft mit farbenfrohen Statuen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63269,
+                        7.293188
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Zeitgenössischer buddhistischer Tempel, bekannt für seinen modernen Schreinraum und seine friedlichen Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629027,
+                        7.286588
+                  ]
+            },
+            {
+                  "name": "Lighthouse Church",
+                  "text": "Christliches Gotteshaus, das der örtlichen Gemeinde als spiritueller Leuchtturm dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.622846,
+                        7.284417
+                  ]
+            },
+            {
+                  "name": "Sri Dharmaraja Piriwena",
+                  "text": "Traditionelle buddhistische Bildungseinrichtung für das Studium von Pali und Sanskrit.",
+                  "category": "landmark",
+                  "coords": [
+                        80.631225,
+                        7.315945
+                  ]
+            },
+            {
+                  "name": "Al Zamil Mosque",
+                  "text": "Lokale Moschee, die einen Gemeinschaftsraum für tägliche islamische Gebete und Studien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629382,
+                        7.319164
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Pfarrkirche, die für ihre sozialen Dienste und ihr klassisches Design bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630117,
+                        7.320542
+                  ]
+            },
+            {
+                  "name": "Mawilmada Sri Vishuddharamaya",
+                  "text": "Heiterer Dorftempel, der auf traditionelle buddhistische Rituale und das Gemeinschaftsleben ausgerichtet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635751,
+                        7.323638
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Temple",
+                  "text": "Lokaler buddhistischer Schrein, versteckt in einem ruhigen Wohnviertel von Kandy.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630654,
+                        7.323701
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Jumma Masjid",
+                  "text": "Wichtige Gemeindemoschee für die Freitagsgebete in Katugastota.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630578,
+                        7.321952
+                  ]
+            },
+            {
+                  "name": "Katugastota Grand Mosque",
+                  "text": "Diese große Moschee in Katugastota zeichnet sich durch ihre markanten Minarette und die zentrale Lage im Viertel aus.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624764,
+                        7.322941
+                  ]
+            },
+            {
+                  "name": "Wathuwalagala Rajamaha Viharaya",
+                  "text": "Ein geschichtsträchtiger buddhistischer Tempel, der als Rajamaha Viharaya unter einstigem königlichem Schutz stand.",
+                  "category": "landmark",
+                  "coords": [
+                        80.601173,
+                        7.327338
+                  ]
+            },
+            {
+                  "name": "Sri sanghabodhi Temple",
+                  "text": "Ein friedlicher buddhistischer Tempel, der für seine ruhige Atmosphäre und traditionelle singhalesische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.604196,
+                        7.322434
+                  ]
+            },
+            {
+                  "name": "Wegiriya Temple",
+                  "text": "Dieser Tempel ist für seine antiken Strukturen und die Lage inmitten der üppigen Vegetation Sri Lankas bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.615594,
+                        7.309579
+                  ]
+            },
+            {
+                  "name": "Udugama Sri Sudharshanaramaya Viharaya",
+                  "text": "Eine buddhistische Tempelanlage mit kunstvollen Wandmalereien, die Szenen aus dem Leben Buddhas darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611715,
+                        7.302978
+                  ]
+            },
+            {
+                  "name": "Sri Rathanapala Purana Viharaya",
+                  "text": "Ein alter Purana-Tempel, dessen traditioneller Schreinraum bedeutende historische Relikte beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611745,
+                        7.304434
+                  ]
+            },
+            {
+                  "name": "Welamada temple",
+                  "text": "Ein lokaler buddhistischer Tempel, der ein wichtiges spirituelles Zentrum für die Dorfgemeinschaft von Welamada bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600439,
+                        7.307593
+                  ]
+            },
+            {
+                  "name": "Wanahagala Rajamaha Viharaya",
+                  "text": "Dieser ehrwürdige Rajamaha Viharaya beeindruckt durch seine Lage an einem felsigen Hang mit weitem Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600756,
+                        7.320169
+                  ]
+            },
+            {
+                  "name": "Kulugammana Rajamaha Viharaya",
+                  "text": "Ein antiker königlicher Tempel in Kulugammana, der für seine gut erhaltenen Steinschnitzereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.591596,
+                        7.31646
+                  ]
+            },
+            {
+                  "name": "Sumanarama Viharaya",
+                  "text": "Ein ruhiger buddhistischer Rückzugsort, der durch seine weiße Stupa und die gepflegten Gartenanlagen besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        80.595839,
+                        7.311105
+                  ]
+            },
+            {
+                  "name": "Malagammana Raja Maha Viharaya",
+                  "text": "Dieser Rajamaha Viharaya in Malagammana blickt auf eine lange Geschichte unter der Schirmherrschaft singhalesischer Könige zurück.",
+                  "category": "landmark",
+                  "coords": [
+                        80.585219,
+                        7.325143
+                  ]
+            },
+            {
+                  "name": "Mapamadulla Sri Wardanaramaya",
+                  "text": "Ein traditioneller buddhistischer Tempel in Mapamadulla, der als Zentrum für lokale religiöse Feste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        80.588195,
+                        7.321158
+                  ]
+            },
+            {
+                  "name": "Uyanwatta Temple",
+                  "text": "Ein am Rande von Kandy gelegener Tempel, der für seine spirituellen Unterweisungen und die friedliche Umgebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.596892,
+                        7.327043
+                  ]
+            },
+            {
+                  "name": "Chethiyagiriya Viharaya",
+                  "text": "Ein historischer Tempel, der für seine markante Stupa auf einer Anhebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.59095,
+                        7.334246
+                  ]
+            },
+            {
+                  "name": "Temple with Ancient Bo Tree",
+                  "text": "Dieser buddhistische Tempel beherbergt einen uralten Bodhi-Baum, der als direkter Ableger des heiligen Baumes gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.586903,
+                        7.338179
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "Ein lokaler buddhistischer Schrein, der für seine farbenfrohen Statuen und die spirituelle Hingabe der Gläubigen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.5793,
+                        7.330064
+                  ]
+            },
+            {
+                  "name": "Thiththapajjala Maha Piriwena",
+                  "text": "Diese bedeutende Piriwena dient als wichtiges Bildungszentrum für junge buddhistische Mönche in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.578536,
+                        7.32776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asgiri Maha Viharaya",
+                  "text": "Srí Lanka egyik legfontosabb kolostora, amely az Asgiriya Nikaya rend székhelye Kandyban.",
+                  "category": "religious",
+                  "coords": [
+                        80.632183,
+                        7.299393
+                  ]
+            },
+            {
+                  "name": "Regal Cinema",
+                  "text": "Történelmi mozi Kandyban, amely klasszikus hangulatot kínál a nézőknek.",
+                  "category": "cultural",
+                  "coords": [
+                        80.622391,
+                        7.283511
+                  ]
+            },
+            {
+                  "name": "Hindu Cultural Center",
+                  "text": "Hagyományos dél-indiai táncoknak és karnatikus zenének szentelt előadóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625466,
+                        7.285821
+                  ]
+            },
+            {
+                  "name": "Small temple",
+                  "text": "Szerény útmenti szentély, ahol a helyiek megállnak napi imákra és felajánlásokra.",
+                  "category": "religious",
+                  "coords": [
+                        80.623023,
+                        7.281718
+                  ]
+            },
+            {
+                  "name": "Kandurata Kalvary",
+                  "text": "Domboldali katolikus zarándokhely keresztúttal.",
+                  "category": "religious",
+                  "coords": [
+                        80.616313,
+                        7.287491
+                  ]
+            },
+            {
+                  "name": "Meera Maccam Jummah Masjid",
+                  "text": "Történelmi mecset Kandyban, amely hagyományos építészetéről és spirituális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        80.635201,
+                        7.298374
+                  ]
+            },
+            {
+                  "name": "Masjidul Huda Jumma Mosque",
+                  "text": "Modern pénteki mecset, amely a Kandy régió muzulmán közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        80.599947,
+                        7.373836
+                  ]
+            },
+            {
+                  "name": "Katugastota Market",
+                  "text": "Nyüzsgő helyi piac, amely friss trópusi gyümölcseiről és zöldségeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625108,
+                        7.324601
+                  ]
+            },
+            {
+                  "name": "Asgiri Maha Vihara pirivena",
+                  "text": "Szerzetesi főiskola, ahol fiatal szerzetesek buddhista filozófiát és nyelveket tanulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633546,
+                        7.298448
+                  ]
+            },
+            {
+                  "name": "Sri Bodhimalu Viharaya",
+                  "text": "Buddhista templom, amelynek középpontjában egy szent Bodhi-fa számára kialakított emelt terasz áll.",
+                  "category": "landmark",
+                  "coords": [
+                        80.610498,
+                        7.288828
+                  ]
+            },
+            {
+                  "name": "Mulgampola Bodhiya",
+                  "text": "Helyi szentély Kandy külvárosában, amely egy tisztelt szent fügefának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617337,
+                        7.278991
+                  ]
+            },
+            {
+                  "name": "Thumbomaluwa Viharaya",
+                  "text": "Csendes buddhista szentély, amely békés légkört biztosít a helyi hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617622,
+                        7.277072
+                  ]
+            },
+            {
+                  "name": "Suduhumpola Rjamaha Viharaya",
+                  "text": "Királyi buddhista templom díszes faragványokkal és a Kandy-korszakból származó falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624526,
+                        7.280144
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Kovil",
+                  "text": "Ganésa istennek szentelt hindu templom, amelyet gyakran színes szobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63269,
+                        7.293188
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Kortárs buddhista templom, amely modern szentélyéről és békés kertjeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629027,
+                        7.286588
+                  ]
+            },
+            {
+                  "name": "Lighthouse Church",
+                  "text": "Keresztény istentiszteleti hely, amely lelki világítótoronyként szolgál a helyi gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        80.622846,
+                        7.284417
+                  ]
+            },
+            {
+                  "name": "Sri Dharmaraja Piriwena",
+                  "text": "Hagyományos buddhista oktatási intézmény a páli és a szanszkrit nyelv tanulmányozására.",
+                  "category": "landmark",
+                  "coords": [
+                        80.631225,
+                        7.315945
+                  ]
+            },
+            {
+                  "name": "Al Zamil Mosque",
+                  "text": "Helyi mecset, amely közösségi teret biztosít a napi iszlám imákhoz és tanulmányokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629382,
+                        7.319164
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Plébániatemplom, amely közösségi szolgálatairól és klasszikus kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630117,
+                        7.320542
+                  ]
+            },
+            {
+                  "name": "Mawilmada Sri Vishuddharamaya",
+                  "text": "Békés falusi templom, amely a hagyományos buddhista rituálékra és a közösségi életre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635751,
+                        7.323638
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Temple",
+                  "text": "Helyi buddhista szentély Kandy egyik csendes lakónegyedében megbújva.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630654,
+                        7.323701
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Jumma Masjid",
+                  "text": "Fontos közösségi mecset a pénteki imákhoz Katugastotában.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630578,
+                        7.321952
+                  ]
+            },
+            {
+                  "name": "Katugastota Grand Mosque",
+                  "text": "Ez a katugastotai nagymecset jellegzetes minaretjeivel a negyed egyik legfontosabb muszlim vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624764,
+                        7.322941
+                  ]
+            },
+            {
+                  "name": "Wathuwalagala Rajamaha Viharaya",
+                  "text": "Egy nagy múltú buddhista templom, amely Rajamaha Viharayaként egykor királyi pártfogást élvezett.",
+                  "category": "landmark",
+                  "coords": [
+                        80.601173,
+                        7.327338
+                  ]
+            },
+            {
+                  "name": "Sri sanghabodhi Temple",
+                  "text": "Egy békés buddhista templom, amely nyugodt légköréről és hagyományos szingaléz építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.604196,
+                        7.322434
+                  ]
+            },
+            {
+                  "name": "Wegiriya Temple",
+                  "text": "Ez a templom ősi építményeiről és a Srí Lanka-i dús vegetáció közepén fekvő elhelyezkedéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.615594,
+                        7.309579
+                  ]
+            },
+            {
+                  "name": "Udugama Sri Sudharshanaramaya Viharaya",
+                  "text": "Buddhista templomkomplexum díszes falfestményekkel, amelyek Buddha életének jeleneteit ábrázolják.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611715,
+                        7.302978
+                  ]
+            },
+            {
+                  "name": "Sri Rathanapala Purana Viharaya",
+                  "text": "Egy ősi Purana templom, amelynek hagyományos szentélye jelentős történelmi ereklyéket őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611745,
+                        7.304434
+                  ]
+            },
+            {
+                  "name": "Welamada temple",
+                  "text": "Helyi buddhista templom, amely Welamada faluközösségének fontos szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600439,
+                        7.307593
+                  ]
+            },
+            {
+                  "name": "Wanahagala Rajamaha Viharaya",
+                  "text": "Ez a tiszteletreméltó Rajamaha Viharaya lenyűgöző látványt nyújt a sziklás hegyoldalban fekvő elhelyezkedésével.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600756,
+                        7.320169
+                  ]
+            },
+            {
+                  "name": "Kulugammana Rajamaha Viharaya",
+                  "text": "Egy ősi királyi templom Kulugammanában, amely jól megőrzött kőfaragványairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.591596,
+                        7.31646
+                  ]
+            },
+            {
+                  "name": "Sumanarama Viharaya",
+                  "text": "Nyugodt buddhista menedékhely, amely fehér sztúpájával és gondozott kertjeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        80.595839,
+                        7.311105
+                  ]
+            },
+            {
+                  "name": "Malagammana Raja Maha Viharaya",
+                  "text": "Ez a malagammanai Rajamaha Viharaya hosszú múltra tekint vissza a szingaléz királyok védnöksége alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.585219,
+                        7.325143
+                  ]
+            },
+            {
+                  "name": "Mapamadulla Sri Wardanaramaya",
+                  "text": "Hagyományos buddhista templom Mapamadullában, amely a helyi vallási ünnepek központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        80.588195,
+                        7.321158
+                  ]
+            },
+            {
+                  "name": "Uyanwatta Temple",
+                  "text": "Kandy szélén fekvő templom, amely spirituális tanításairól és békés környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.596892,
+                        7.327043
+                  ]
+            },
+            {
+                  "name": "Chethiyagiriya Viharaya",
+                  "text": "Történelmi templom, amely egy emelkedőn álló jellegzetes sztúpájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.59095,
+                        7.334246
+                  ]
+            },
+            {
+                  "name": "Temple with Ancient Bo Tree",
+                  "text": "Ez a buddhista templom egy ősi Bodhi-fának ad otthont, amelyet a szent fa közvetlen leszármazottjának tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        80.586903,
+                        7.338179
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "Helyi buddhista szentély, amely színes szobrairól és a hívők spirituális áhítatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        80.5793,
+                        7.330064
+                  ]
+            },
+            {
+                  "name": "Thiththapajjala Maha Piriwena",
+                  "text": "Ez a jelentős piriwena fontos oktatási központként szolgál a régió fiatal buddhista szerzetesei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        80.578536,
+                        7.32776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asgiri Maha Viharaya",
+                  "text": "Una dintre cele mai importante mănăstiri din Sri Lanka, sediul ordinului Asgiriya din Kandy.",
+                  "category": "religious",
+                  "coords": [
+                        80.632183,
+                        7.299393
+                  ]
+            },
+            {
+                  "name": "Regal Cinema",
+                  "text": "Cinematograf istoric din Kandy, oferind o atmosferă clasică pentru cinefili.",
+                  "category": "cultural",
+                  "coords": [
+                        80.622391,
+                        7.283511
+                  ]
+            },
+            {
+                  "name": "Hindu Cultural Center",
+                  "text": "Loc de desfășurare a spectacolelor dedicate dansului tradițional sud-indian și muzicii carnatic.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625466,
+                        7.285821
+                  ]
+            },
+            {
+                  "name": "Small temple",
+                  "text": "Sanctuar umil de la marginea drumului, unde localnicii se opresc pentru rugăciuni și ofrande zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        80.623023,
+                        7.281718
+                  ]
+            },
+            {
+                  "name": "Kandurata Kalvary",
+                  "text": "Loc de pelerinaj catolic pe deal, cu Stațiile Crucii.",
+                  "category": "religious",
+                  "coords": [
+                        80.616313,
+                        7.287491
+                  ]
+            },
+            {
+                  "name": "Meera Maccam Jummah Masjid",
+                  "text": "Moschee istorică din Kandy, cunoscută pentru arhitectura sa tradițională și semnificația spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        80.635201,
+                        7.298374
+                  ]
+            },
+            {
+                  "name": "Masjidul Huda Jumma Mosque",
+                  "text": "Moschee congregațională modernă care servește comunitatea musulmană din regiunea Kandy.",
+                  "category": "religious",
+                  "coords": [
+                        80.599947,
+                        7.373836
+                  ]
+            },
+            {
+                  "name": "Katugastota Market",
+                  "text": "Piață locală vibrantă, faimoasă pentru varietatea sa de fructe și legume tropicale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625108,
+                        7.324601
+                  ]
+            },
+            {
+                  "name": "Asgiri Maha Vihara pirivena",
+                  "text": "Colegiu monastic unde tinerii călugări studiază filosofia budistă și limbile străine.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633546,
+                        7.298448
+                  ]
+            },
+            {
+                  "name": "Sri Bodhimalu Viharaya",
+                  "text": "Templu budist centrat în jurul unei terase ridicate pentru un arbore Bodhi sacru.",
+                  "category": "landmark",
+                  "coords": [
+                        80.610498,
+                        7.288828
+                  ]
+            },
+            {
+                  "name": "Mulgampola Bodhiya",
+                  "text": "Sanctuar local din suburbiile orașului Kandy, care adăpostește un smochin sacru venerat.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617337,
+                        7.278991
+                  ]
+            },
+            {
+                  "name": "Thumbomaluwa Viharaya",
+                  "text": "Sanctuar budist liniștit care oferă o atmosferă pașnică pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617622,
+                        7.277072
+                  ]
+            },
+            {
+                  "name": "Suduhumpola Rjamaha Viharaya",
+                  "text": "Templu budist regal cu sculpturi ornamentate și picturi murale din epoca Kandyan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624526,
+                        7.280144
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Kovil",
+                  "text": "Templu hindu dedicat zeului Ganesha, adesea împodobit cu statui colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63269,
+                        7.293188
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Templu budist contemporan cunoscut pentru camera sa modernă de sanctuar și grădinile liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629027,
+                        7.286588
+                  ]
+            },
+            {
+                  "name": "Lighthouse Church",
+                  "text": "Casă de cult creștină care servește ca far spiritual pentru congregația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        80.622846,
+                        7.284417
+                  ]
+            },
+            {
+                  "name": "Sri Dharmaraja Piriwena",
+                  "text": "Institut educațional budist tradițional pentru studiul limbilor pali și sanscrită.",
+                  "category": "landmark",
+                  "coords": [
+                        80.631225,
+                        7.315945
+                  ]
+            },
+            {
+                  "name": "Al Zamil Mosque",
+                  "text": "Moschee locală care oferă un spațiu comunitar pentru rugăciunile și studiile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629382,
+                        7.319164
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Biserică parohială cunoscută pentru serviciile sale comunitare religioase și designul clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630117,
+                        7.320542
+                  ]
+            },
+            {
+                  "name": "Mawilmada Sri Vishuddharamaya",
+                  "text": "Templu sătesc seren, axat pe ritualurile budiste tradiționale și pe viața comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635751,
+                        7.323638
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Temple",
+                  "text": "Sanctuar budist local ascuns într-o zonă rezidențială liniștită din Kandy.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630654,
+                        7.323701
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Jumma Masjid",
+                  "text": "Moschee comunitară importantă pentru rugăciunile de vineri din Katugastota.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630578,
+                        7.321952
+                  ]
+            },
+            {
+                  "name": "Katugastota Grand Mosque",
+                  "text": "Această mare moschee din Katugastota se remarcă prin minaretele sale și este un centru spiritual important al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624764,
+                        7.322941
+                  ]
+            },
+            {
+                  "name": "Wathuwalagala Rajamaha Viharaya",
+                  "text": "Un templu budist cu o istorie bogată, care a beneficiat de patronaj regal sub titulatura de Rajamaha Viharaya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.601173,
+                        7.327338
+                  ]
+            },
+            {
+                  "name": "Sri sanghabodhi Temple",
+                  "text": "Un templu budist liniștit, cunoscut pentru atmosfera sa calmă și arhitectura tradițională sinhaleză.",
+                  "category": "landmark",
+                  "coords": [
+                        80.604196,
+                        7.322434
+                  ]
+            },
+            {
+                  "name": "Wegiriya Temple",
+                  "text": "Acest templu este cunoscut pentru structurile sale vechi și amplasarea în mijlocul vegetației luxuriante din Sri Lanka.",
+                  "category": "landmark",
+                  "coords": [
+                        80.615594,
+                        7.309579
+                  ]
+            },
+            {
+                  "name": "Udugama Sri Sudharshanaramaya Viharaya",
+                  "text": "Un complex de temple budiste cu picturi murale elaborate care înfățișează scene din viața lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611715,
+                        7.302978
+                  ]
+            },
+            {
+                  "name": "Sri Rathanapala Purana Viharaya",
+                  "text": "Un vechi templu Purana, a cărui cameră tradițională de sanctuar adăpostește relicve istorice importante.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611745,
+                        7.304434
+                  ]
+            },
+            {
+                  "name": "Welamada temple",
+                  "text": "Un templu budist local care constituie un centru spiritual important pentru comunitatea din Welamada.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600439,
+                        7.307593
+                  ]
+            },
+            {
+                  "name": "Wanahagala Rajamaha Viharaya",
+                  "text": "Acest venerabil Rajamaha Viharaya impresionează prin locația sa pe un versant stâncos, oferind vederi largi.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600756,
+                        7.320169
+                  ]
+            },
+            {
+                  "name": "Kulugammana Rajamaha Viharaya",
+                  "text": "Un vechi templu regal din Kulugammana, cunoscut pentru sculpturile sale în piatră bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        80.591596,
+                        7.31646
+                  ]
+            },
+            {
+                  "name": "Sumanarama Viharaya",
+                  "text": "Un refugiu budist liniștit, care se remarcă prin stupa sa albă și grădinile bine întreținute.",
+                  "category": "landmark",
+                  "coords": [
+                        80.595839,
+                        7.311105
+                  ]
+            },
+            {
+                  "name": "Malagammana Raja Maha Viharaya",
+                  "text": "Acest Rajamaha Viharaya din Malagammana are o istorie lungă sub patronajul foștilor regi sinhalezi.",
+                  "category": "landmark",
+                  "coords": [
+                        80.585219,
+                        7.325143
+                  ]
+            },
+            {
+                  "name": "Mapamadulla Sri Wardanaramaya",
+                  "text": "Un templu budist tradițional din Mapamadulla, care servește drept centru pentru festivalurile religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.588195,
+                        7.321158
+                  ]
+            },
+            {
+                  "name": "Uyanwatta Temple",
+                  "text": "Un templu situat la marginea orașului Kandy, cunoscut pentru învățăturile spirituale și împrejurimile liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        80.596892,
+                        7.327043
+                  ]
+            },
+            {
+                  "name": "Chethiyagiriya Viharaya",
+                  "text": "Un templu istoric cunoscut pentru stupa sa distinctivă situată pe o ridicătură de teren.",
+                  "category": "landmark",
+                  "coords": [
+                        80.59095,
+                        7.334246
+                  ]
+            },
+            {
+                  "name": "Temple with Ancient Bo Tree",
+                  "text": "Acest templu budist adăpostește un arbore Bodhi străvechi, considerat un descendent direct al copacului sacru.",
+                  "category": "landmark",
+                  "coords": [
+                        80.586903,
+                        7.338179
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "Un altar budist local, cunoscut pentru statuile sale colorate și devotamentul spiritual al credincioșilor.",
+                  "category": "landmark",
+                  "coords": [
+                        80.5793,
+                        7.330064
+                  ]
+            },
+            {
+                  "name": "Thiththapajjala Maha Piriwena",
+                  "text": "Această piriwena importantă servește ca un centru educațional major pentru tinerii călugări budiști din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        80.578536,
+                        7.32776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asgiri Maha Viharaya",
+                  "text": "One of Sri Lanka's most important monasteries, serving as the seat of the Asgiriya Nikaya.",
+                  "category": "religious",
+                  "coords": [
+                        80.632183,
+                        7.299393
+                  ]
+            },
+            {
+                  "name": "Regal Cinema",
+                  "text": "Historic cinema hall in Kandy offering a classic atmosphere for moviegoers.",
+                  "category": "cultural",
+                  "coords": [
+                        80.622391,
+                        7.283511
+                  ]
+            },
+            {
+                  "name": "Hindu Cultural Center",
+                  "text": "Performance venue dedicated to traditional South Indian dance and Carnatic music.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625466,
+                        7.285821
+                  ]
+            },
+            {
+                  "name": "Small temple",
+                  "text": "Humble roadside shrine where locals stop for daily prayers and offerings.",
+                  "category": "religious",
+                  "coords": [
+                        80.623023,
+                        7.281718
+                  ]
+            },
+            {
+                  "name": "Kandurata Kalvary",
+                  "text": "Hillside Catholic pilgrimage site featuring the Stations of the Cross.",
+                  "category": "religious",
+                  "coords": [
+                        80.616313,
+                        7.287491
+                  ]
+            },
+            {
+                  "name": "Meera Maccam Jummah Masjid",
+                  "text": "Historic mosque in Kandy known for its traditional architecture and spiritual significance.",
+                  "category": "religious",
+                  "coords": [
+                        80.635201,
+                        7.298374
+                  ]
+            },
+            {
+                  "name": "Masjidul Huda Jumma Mosque",
+                  "text": "Modern congregational mosque serving the Muslim community in the Kandy region.",
+                  "category": "religious",
+                  "coords": [
+                        80.599947,
+                        7.373836
+                  ]
+            },
+            {
+                  "name": "Katugastota Market",
+                  "text": "Vibrant local marketplace famous for its variety of fresh tropical fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        80.625108,
+                        7.324601
+                  ]
+            },
+            {
+                  "name": "Asgiri Maha Vihara pirivena",
+                  "text": "Monastic college where young monks study Buddhist philosophy and languages.",
+                  "category": "landmark",
+                  "coords": [
+                        80.633546,
+                        7.298448
+                  ]
+            },
+            {
+                  "name": "Sri Bodhimalu Viharaya",
+                  "text": "Sri Bodhimalu Viharaya features a Buddhist temple centered around an elevated terrace for a sacred Bodhi tree.",
+                  "category": "landmark",
+                  "coords": [
+                        80.610498,
+                        7.288828
+                  ]
+            },
+            {
+                  "name": "Mulgampola Bodhiya",
+                  "text": "Local shrine in the Kandy suburbs housing a venerated sacred fig tree.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617337,
+                        7.278991
+                  ]
+            },
+            {
+                  "name": "Thumbomaluwa Viharaya",
+                  "text": "Quiet Buddhist sanctuary providing a peaceful atmosphere for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        80.617622,
+                        7.277072
+                  ]
+            },
+            {
+                  "name": "Suduhumpola Rjamaha Viharaya",
+                  "text": "Royal Buddhist temple featuring ornate carvings and Kandyan era wall paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624526,
+                        7.280144
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Kovil",
+                  "text": "Hindu temple dedicated to Lord Ganesha, often adorned with colorful statues.",
+                  "category": "landmark",
+                  "coords": [
+                        80.63269,
+                        7.293188
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Contemporary Buddhist temple known for its modern shrine room and peaceful gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629027,
+                        7.286588
+                  ]
+            },
+            {
+                  "name": "Lighthouse Church",
+                  "text": "Christian house of worship serving as a spiritual beacon for the local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        80.622846,
+                        7.284417
+                  ]
+            },
+            {
+                  "name": "Sri Dharmaraja Piriwena",
+                  "text": "Traditional Buddhist educational institute for the study of Pali and Sanskrit.",
+                  "category": "landmark",
+                  "coords": [
+                        80.631225,
+                        7.315945
+                  ]
+            },
+            {
+                  "name": "Al Zamil Mosque",
+                  "text": "Local mosque providing a community space for daily Islamic prayers and study.",
+                  "category": "landmark",
+                  "coords": [
+                        80.629382,
+                        7.319164
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Parish church known for its religious community services and classic design.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630117,
+                        7.320542
+                  ]
+            },
+            {
+                  "name": "Mawilmada Sri Vishuddharamaya",
+                  "text": "Serene village temple focused on traditional Buddhist rituals and community life.",
+                  "category": "landmark",
+                  "coords": [
+                        80.635751,
+                        7.323638
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Temple",
+                  "text": "Local Buddhist shrine tucked away in a quiet residential part of Kandy.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630654,
+                        7.323701
+                  ]
+            },
+            {
+                  "name": "Siyambalagastenna Jumma Masjid",
+                  "text": "Important community mosque for the Friday Jummah prayers in Katugastota.",
+                  "category": "landmark",
+                  "coords": [
+                        80.630578,
+                        7.321952
+                  ]
+            },
+            {
+                  "name": "Katugastota Grand Mosque",
+                  "text": "This prominent mosque in Katugastota features distinctive minarets and serves as a central place of worship for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        80.624764,
+                        7.322941
+                  ]
+            },
+            {
+                  "name": "Wathuwalagala Rajamaha Viharaya",
+                  "text": "A historic Buddhist temple that carries the Rajamaha Viharaya title, signifying its ancient royal patronage.",
+                  "category": "landmark",
+                  "coords": [
+                        80.601173,
+                        7.327338
+                  ]
+            },
+            {
+                  "name": "Sri sanghabodhi Temple",
+                  "text": "A serene Buddhist temple known for its peaceful atmosphere and traditional Sinhalese religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        80.604196,
+                        7.322434
+                  ]
+            },
+            {
+                  "name": "Wegiriya Temple",
+                  "text": "This temple is recognized for its ancient structures and its setting amidst the lush vegetation of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.615594,
+                        7.309579
+                  ]
+            },
+            {
+                  "name": "Udugama Sri Sudharshanaramaya Viharaya",
+                  "text": "A Buddhist temple complex featuring ornate murals that depict various scenes from the life of the Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611715,
+                        7.302978
+                  ]
+            },
+            {
+                  "name": "Sri Rathanapala Purana Viharaya",
+                  "text": "An ancient Purana temple whose traditional shrine room houses significant historical religious relics.",
+                  "category": "landmark",
+                  "coords": [
+                        80.611745,
+                        7.304434
+                  ]
+            },
+            {
+                  "name": "Welamada temple",
+                  "text": "A local Buddhist temple that serves as an important spiritual center for the surrounding village community of Welamada.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600439,
+                        7.307593
+                  ]
+            },
+            {
+                  "name": "Wanahagala Rajamaha Viharaya",
+                  "text": "This venerable Rajamaha Viharaya is notable for its location on a rocky hillside offering expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        80.600756,
+                        7.320169
+                  ]
+            },
+            {
+                  "name": "Kulugammana Rajamaha Viharaya",
+                  "text": "An ancient royal temple in Kulugammana renowned for its well-preserved traditional stone carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.591596,
+                        7.31646
+                  ]
+            },
+            {
+                  "name": "Sumanarama Viharaya",
+                  "text": "A tranquil Buddhist retreat distinguished by its gleaming white stupa and well-maintained garden grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        80.595839,
+                        7.311105
+                  ]
+            },
+            {
+                  "name": "Malagammana Raja Maha Viharaya",
+                  "text": "This Rajamaha Viharaya in Malagammana has a long history dating back to the patronage of former Sinhalese kings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.585219,
+                        7.325143
+                  ]
+            },
+            {
+                  "name": "Mapamadulla Sri Wardanaramaya",
+                  "text": "A traditional Buddhist temple in Mapamadulla that serves as a hub for local religious festivals and ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        80.588195,
+                        7.321158
+                  ]
+            },
+            {
+                  "name": "Uyanwatta Temple",
+                  "text": "A temple situated on the outskirts of Kandy, known for its spiritual teachings and peaceful natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        80.596892,
+                        7.327043
+                  ]
+            },
+            {
+                  "name": "Chethiyagiriya Viharaya",
+                  "text": "A historic temple recognized for its prominent stupa situated on a scenic elevated site.",
+                  "category": "landmark",
+                  "coords": [
+                        80.59095,
+                        7.334246
+                  ]
+            },
+            {
+                  "name": "Temple with Ancient Bo Tree",
+                  "text": "This Buddhist temple is home to an ancient Bo tree, revered as a sacred link to the enlightenment of the Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        80.586903,
+                        7.338179
+                  ]
+            },
+            {
+                  "name": "Sri Sudarshanaramaya",
+                  "text": "A local Buddhist shrine known for its colorful statues and the deep spiritual devotion of its visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        80.5793,
+                        7.330064
+                  ]
+            },
+            {
+                  "name": "Thiththapajjala Maha Piriwena",
+                  "text": "This significant Piriwena serves as a major educational institution for young Buddhist monks in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        80.578536,
+                        7.32776
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.6300, 7.2941],
@@ -615,7 +10371,88 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lovers-leap-waterfall-landmarks-v2",
+    id: "lovers-leap-waterfall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandatenna Temple",
+                  "text": "Ein ruhiger buddhistischer Tempel in den üppigen, hügeligen Teelandschaften in der Nähe von Nuwara Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.796869,
+                        6.956115
+                  ]
+            },
+            {
+                  "name": "Ashokaramaya",
+                  "text": "Ein traditionelles buddhistisches Heiligtum, eingebettet in das kühle Bergklima und die malerischen Täler in der Nähe des Lover's Leap-Wasserfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        80.788625,
+                        6.966826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandatenna Temple",
+                  "text": "Békés buddhista templom a Nuwara Eliya környéki buja, dombos teaültetvények vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        80.796869,
+                        6.956115
+                  ]
+            },
+            {
+                  "name": "Ashokaramaya",
+                  "text": "Hagyományos buddhista szentély, amely a hűvös hegyi klímában és a Lover's Leap vízesés melletti festői völgyekben bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        80.788625,
+                        6.966826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandatenna Temple",
+                  "text": "Un templu budist liniștit situat în peisajele deluroase și luxuriante ale plantațiilor de ceai de lângă Nuwara Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.796869,
+                        6.956115
+                  ]
+            },
+            {
+                  "name": "Ashokaramaya",
+                  "text": "Un sanctuar budist tradițional ascuns în climatul montan răcoros și văile pitorești de lângă cascada Lover's Leap.",
+                  "category": "landmark",
+                  "coords": [
+                        80.788625,
+                        6.966826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandatenna Temple",
+                  "text": "A serene Buddhist temple situated in the lush, hilly tea country landscapes near Nuwara Eliya.",
+                  "category": "landmark",
+                  "coords": [
+                        80.796869,
+                        6.956115
+                  ]
+            },
+            {
+                  "name": "Ashokaramaya",
+                  "text": "A traditional Buddhist sanctuary nestled amid the cool mountain climate and scenic valleys near Lover's Leap waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        80.788625,
+                        6.966826
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-21",
     coords: [80.7937, 6.9669],
@@ -651,7 +10488,880 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "arugam-bay-landmarks-v2",
+    id: "arugam-bay-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elephant Rock",
+                  "text": "Eine massive natürliche Felsformation mit Blick auf den Ozean, die bei Surfern wegen der an ihrem Fuß brechenden Wellen beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.847449,
+                        6.898154
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Center Urani",
+                  "text": "Ein Ausgangspunkt für Lagunen-Safaris in der Nähe der Arugam Bay, wo Besucher Mangrovenwälder erkunden und Wildtiere beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        81.837676,
+                        6.919514
+                  ]
+            },
+            {
+                  "name": "3rd Mile Post Archaeological Site",
+                  "text": "Eine archäologische Stätte in der Nähe von Pottuvil mit den Steinruinen einer alten buddhistischen Klosteranlage.",
+                  "category": "historical",
+                  "coords": [
+                        81.793745,
+                        6.882328
+                  ]
+            },
+            {
+                  "name": "Pankanda Hela Archaeological Ruins",
+                  "text": "Die Überreste einer alten Klostersiedlung auf einer bewaldeten Hügelkuppe mit Blick auf den umliegenden Ebenen.",
+                  "category": "historical",
+                  "coords": [
+                        81.823138,
+                        6.819827
+                  ]
+            },
+            {
+                  "name": "Shastrawela Monastic Temple",
+                  "text": "Überreste eines antiken buddhistischen Klosters, die im Küstendschungel nahe der Bucht liegen.",
+                  "category": "historical",
+                  "coords": [
+                        81.824119,
+                        6.810106
+                  ]
+            },
+            {
+                  "name": "Mani Naga Pabbatha Viharaya",
+                  "text": "Ruinen eines antiken Tempelkomplexes, der auf einem felsigen Hügel im Hinterland thront.",
+                  "category": "historical",
+                  "coords": [
+                        81.818352,
+                        6.809027
+                  ]
+            },
+            {
+                  "name": "Panama Beach",
+                  "text": "Ein einsamer, wilder Sandstrand, an dessen Lagunen oft Krokodile gesichtet werden.",
+                  "category": "recreational",
+                  "coords": [
+                        81.825652,
+                        6.766507
+                  ]
+            },
+            {
+                  "name": "Abayasinghepura Archaeological Site",
+                  "text": "Archäologische Stätte mit verstreuten Steinsäulen und Fundamenten einer antiken Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        81.814363,
+                        6.766502
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site II",
+                  "text": "Antike Ruinenstätte mit verwitterten Steinstrukturen in der Nähe des Radella-Stausees.",
+                  "category": "historical",
+                  "coords": [
+                        81.769837,
+                        6.821236
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site I",
+                  "text": "Historische Überreste eines buddhistischen Klosters mit markanten, in den Boden eingelassenen Steinen.",
+                  "category": "historical",
+                  "coords": [
+                        81.766068,
+                        6.816249
+                  ]
+            },
+            {
+                  "name": "Pottuvil Fishing Point",
+                  "text": "Ein sichelförmiger Sandstrand, der weltweit für seine langen Point-Break-Wellen zum Surfen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        81.832796,
+                        6.8452
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Ein weitläufiger, öffentlich zugänglicher Sandstrand mit Blick auf die Fischerboote der Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        81.839174,
+                        6.837942
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Beach",
+                  "text": "Ein ruhiger, abgelegener Strandabschnitt südlich der Hauptbucht, ideal für Naturbeobachtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        81.828355,
+                        6.823631
+                  ]
+            },
+            {
+                  "name": "Peanut Farm Beach",
+                  "text": "Ein abgelegener Surfspot an einem Sandstrand, der nach einer ehemaligen Erdnussfarm benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        81.82152,
+                        6.797668
+                  ]
+            },
+            {
+                  "name": "Arugambay Point Buddhist Temple",
+                  "text": "Ein kleiner buddhistischer Tempel, der direkt am felsigen Aussichtspunkt der Surferbucht liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833164,
+                        6.839443
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Bathriya  mosqe",
+                  "text": "Eine lokale Moschee für die Fischergemeinde, die unweit der Küstenlagune steht.",
+                  "category": "landmark",
+                  "coords": [
+                        81.826526,
+                        6.829555
+                  ]
+            },
+            {
+                  "name": "Ishraq School Mosque",
+                  "text": "Ein islamisches Gotteshaus im Dorf, das architektonisch in das lokale Schulviertel integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.824095,
+                        6.832344
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "Ein farbenfroher Hindu-Tempel mit kunstvollen Skulpturen, der dem Gott Murugan gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.842738,
+                        6.91351
+                  ]
+            },
+            {
+                  "name": "An Noor Mosque",
+                  "text": "Eine schlichte Gemeindemoschee im Herzen des Viertels, die als wichtiges religiöses Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833644,
+                        6.833673
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Temple",
+                  "text": "Ein kleiner Hindu-Schrein für Ganesha, erkennbar an seinen lebhaften Farben und Opfergaben.",
+                  "category": "landmark",
+                  "coords": [
+                        81.844989,
+                        6.922706
+                  ]
+            },
+            {
+                  "name": "Aauisha Masjith",
+                  "text": "Eine lokale Moschee mit einem schlanken Minarett, die das muslimische Viertel der Gegend prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        81.8146,
+                        6.921772
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Ein friedlicher buddhistischer Tempel mit einer weißen Stupa, umgeben von schattigen Bäumen.",
+                  "category": "landmark",
+                  "coords": [
+                        81.831784,
+                        6.85551
+                  ]
+            },
+            {
+                  "name": "Al-Aqsha masjeed",
+                  "text": "Eine moderne Moschee in Küstennähe, die der lokalen Bevölkerung als Gebetsraum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        81.83039,
+                        6.846531
+                  ]
+            },
+            {
+                  "name": "Panama Sri Bodhirukkharamaya",
+                  "text": "Ein Tempel im Dorf Panama, der für seinen heiligen Bodhi-Baum und seine ruhige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.804824,
+                        6.757026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elephant Rock",
+                  "text": "Hatalmas természetes sziklaképződmény az óceánra nézően, amely a lábánál megtörő hullámok miatt népszerű a szörfösök körében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.847449,
+                        6.898154
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Center Urani",
+                  "text": "Lagúna-szafarik kiindulópontja Arugam Bay közelében, ahol a látogatók mangroveerdőket fedezhetnek fel és vadon élő állatokat láthatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        81.837676,
+                        6.919514
+                  ]
+            },
+            {
+                  "name": "3rd Mile Post Archaeological Site",
+                  "text": "Pottuvil közeli régészeti lelőhely, amely egy ősi buddhista kolostorkomplexum kőromjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        81.793745,
+                        6.882328
+                  ]
+            },
+            {
+                  "name": "Pankanda Hela Archaeological Ruins",
+                  "text": "Egy ősi kolostori település maradványai egy erdős dombtetőn, ahonnan kilátás nyílik a környező síkságra.",
+                  "category": "historical",
+                  "coords": [
+                        81.823138,
+                        6.819827
+                  ]
+            },
+            {
+                  "name": "Shastrawela Monastic Temple",
+                  "text": "Egy ősi buddhista monostor romjai a tengerparti dzsungelben, közel az öbölhöz.",
+                  "category": "historical",
+                  "coords": [
+                        81.824119,
+                        6.810106
+                  ]
+            },
+            {
+                  "name": "Mani Naga Pabbatha Viharaya",
+                  "text": "Egy ősi templomkomplexum romjai, amely egy sziklás dombon magasodik a hátországban.",
+                  "category": "historical",
+                  "coords": [
+                        81.818352,
+                        6.809027
+                  ]
+            },
+            {
+                  "name": "Panama Beach",
+                  "text": "Egy magányos, vad homokos tengerpart, amelynek lagúnáiban gyakran látni krokodilokat.",
+                  "category": "recreational",
+                  "coords": [
+                        81.825652,
+                        6.766507
+                  ]
+            },
+            {
+                  "name": "Abayasinghepura Archaeological Site",
+                  "text": "Régészeti lelőhely ősi település szétszórt kőoszlopaival és alapjaival.",
+                  "category": "historical",
+                  "coords": [
+                        81.814363,
+                        6.766502
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site II",
+                  "text": "Ősi romterület mállott kőszerkezetekkel a Radella-víztározó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        81.769837,
+                        6.821236
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site I",
+                  "text": "Egy buddhista monostor történelmi maradványai jellegzetes, földbe süllyesztett kövekkel.",
+                  "category": "historical",
+                  "coords": [
+                        81.766068,
+                        6.816249
+                  ]
+            },
+            {
+                  "name": "Pottuvil Fishing Point",
+                  "text": "Kifli alakú homokos part, amely világszerte ismert a szörfözésre alkalmas hosszú hullámairól.",
+                  "category": "recreational",
+                  "coords": [
+                        81.832796,
+                        6.8452
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Tágas, nyilvános homokos tengerpart kilátással az öböl halászhajóira.",
+                  "category": "recreational",
+                  "coords": [
+                        81.839174,
+                        6.837942
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Beach",
+                  "text": "Csendes, félreeső tengerparti szakasz a fő öböltől délre, ideális a természet megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        81.828355,
+                        6.823631
+                  ]
+            },
+            {
+                  "name": "Peanut Farm Beach",
+                  "text": "Félreeső szörfhely egy homokos parton, amelyet egy korábbi földimogyoró-farmról neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        81.82152,
+                        6.797668
+                  ]
+            },
+            {
+                  "name": "Arugambay Point Buddhist Temple",
+                  "text": "Kicsi buddhista templom, amely közvetlenül a szörfös öböl sziklás kilátópontjánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833164,
+                        6.839443
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Bathriya  mosqe",
+                  "text": "A halászközösség helyi mecsetje, amely nem messze a part menti lagúnától áll.",
+                  "category": "landmark",
+                  "coords": [
+                        81.826526,
+                        6.829555
+                  ]
+            },
+            {
+                  "name": "Ishraq School Mosque",
+                  "text": "Iszlám imaház a faluban, amely építészetileg a helyi iskolai negyedbe integrálódik.",
+                  "category": "landmark",
+                  "coords": [
+                        81.824095,
+                        6.832344
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "Színpompás, díszes szobrokkal teli hindu templom, amelyet Murugan istennek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        81.842738,
+                        6.91351
+                  ]
+            },
+            {
+                  "name": "An Noor Mosque",
+                  "text": "Egyszerű közösségi mecset a negyed szívében, amely fontos vallási központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833644,
+                        6.833673
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Temple",
+                  "text": "Ganesának szentelt kis hindu szentély, amely élénk színeiről és áldozati ajándékairól felismerhető.",
+                  "category": "landmark",
+                  "coords": [
+                        81.844989,
+                        6.922706
+                  ]
+            },
+            {
+                  "name": "Aauisha Masjith",
+                  "text": "Helyi mecset karcsú minarettel, amely meghatározza a környék muszlim negyedét.",
+                  "category": "landmark",
+                  "coords": [
+                        81.8146,
+                        6.921772
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Békés buddhista templom fehér sztúpával, árnyas fák ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.831784,
+                        6.85551
+                  ]
+            },
+            {
+                  "name": "Al-Aqsha masjeed",
+                  "text": "Modern mecset a part közelében, amely imaházként szolgál a helyi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        81.83039,
+                        6.846531
+                  ]
+            },
+            {
+                  "name": "Panama Sri Bodhirukkharamaya",
+                  "text": "Panama falu temploma, amely szent Bodhi-fájáról és nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        81.804824,
+                        6.757026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elephant Rock",
+                  "text": "O formațiune stâncoasă naturală masivă cu vedere la ocean, populară printre surferi pentru valurile care se sparg la baza sa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.847449,
+                        6.898154
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Center Urani",
+                  "text": "Un punct de plecare pentru safariuri în lagună lângă Golful Arugam, unde vizitatorii pot explora pădurile de mangrove și pot observa fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        81.837676,
+                        6.919514
+                  ]
+            },
+            {
+                  "name": "3rd Mile Post Archaeological Site",
+                  "text": "Un sit arheologic lângă Pottuvil, care prezintă ruinele de piatră ale unui vechi complex monahal budist.",
+                  "category": "historical",
+                  "coords": [
+                        81.793745,
+                        6.882328
+                  ]
+            },
+            {
+                  "name": "Pankanda Hela Archaeological Ruins",
+                  "text": "Rămășițele unei vechi așezări monahale situate pe un deal împădurit, cu vedere la câmpiile înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        81.823138,
+                        6.819827
+                  ]
+            },
+            {
+                  "name": "Shastrawela Monastic Temple",
+                  "text": "Ruinele unei vechi mănăstiri budiste situate în jungla de coastă de lângă golf.",
+                  "category": "historical",
+                  "coords": [
+                        81.824119,
+                        6.810106
+                  ]
+            },
+            {
+                  "name": "Mani Naga Pabbatha Viharaya",
+                  "text": "Ruinele unui complex de temple antice cocoțate pe un deal stâncos din hinterland.",
+                  "category": "historical",
+                  "coords": [
+                        81.818352,
+                        6.809027
+                  ]
+            },
+            {
+                  "name": "Panama Beach",
+                  "text": "O plajă de nisip sălbatică și izolată, unde crocodilii sunt adesea văzuți în lagunele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        81.825652,
+                        6.766507
+                  ]
+            },
+            {
+                  "name": "Abayasinghepura Archaeological Site",
+                  "text": "Sit arheologic cu coloane de piatră împrăștiate și fundații ale unei așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        81.814363,
+                        6.766502
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site II",
+                  "text": "Sit de ruine antice cu structuri de piatră erodate lângă rezervorul Radella.",
+                  "category": "historical",
+                  "coords": [
+                        81.769837,
+                        6.821236
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site I",
+                  "text": "Rămășițe istorice ale unei mănăstiri budiste cu pietre distinctive înfipte în pământ.",
+                  "category": "historical",
+                  "coords": [
+                        81.766068,
+                        6.816249
+                  ]
+            },
+            {
+                  "name": "Pottuvil Fishing Point",
+                  "text": "O plajă de nisip în formă de semilună, renumită la nivel mondial pentru valurile sale lungi de surf.",
+                  "category": "recreational",
+                  "coords": [
+                        81.832796,
+                        6.8452
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "O plajă publică de nisip spațioasă, cu vedere la bărcile de pescuit din golf.",
+                  "category": "recreational",
+                  "coords": [
+                        81.839174,
+                        6.837942
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Beach",
+                  "text": "O secțiune de plajă liniștită și retrasă la sud de golful principal, ideală pentru observarea naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        81.828355,
+                        6.823631
+                  ]
+            },
+            {
+                  "name": "Peanut Farm Beach",
+                  "text": "Un loc de surf retras pe o plajă de nisip, numit după o fostă fermă de arahide.",
+                  "category": "recreational",
+                  "coords": [
+                        81.82152,
+                        6.797668
+                  ]
+            },
+            {
+                  "name": "Arugambay Point Buddhist Temple",
+                  "text": "Un mic templu budist situat direct la punctul de observație stâncos al golfului de surf.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833164,
+                        6.839443
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Bathriya  mosqe",
+                  "text": "O moschee locală pentru comunitatea de pescari, situată nu departe de laguna de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        81.826526,
+                        6.829555
+                  ]
+            },
+            {
+                  "name": "Ishraq School Mosque",
+                  "text": "Un lăcaș de cult islamic din sat, integrat arhitectural în cartierul școlar local.",
+                  "category": "landmark",
+                  "coords": [
+                        81.824095,
+                        6.832344
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "Un templu hindu colorat, cu sculpturi elaborate, dedicat zeului Murugan.",
+                  "category": "landmark",
+                  "coords": [
+                        81.842738,
+                        6.91351
+                  ]
+            },
+            {
+                  "name": "An Noor Mosque",
+                  "text": "O moschee comunitară simplă în inima cartierului, care servește ca un important centru religios.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833644,
+                        6.833673
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Temple",
+                  "text": "Un mic altar hindu dedicat lui Ganesha, recognoscibil după culorile sale vii și ofrande.",
+                  "category": "landmark",
+                  "coords": [
+                        81.844989,
+                        6.922706
+                  ]
+            },
+            {
+                  "name": "Aauisha Masjith",
+                  "text": "O moschee locală cu un minaret zvelt, care definește cartierul musulman al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        81.8146,
+                        6.921772
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "Un templu budist liniștit, cu o stupă albă, înconjurat de copaci umbroși.",
+                  "category": "landmark",
+                  "coords": [
+                        81.831784,
+                        6.85551
+                  ]
+            },
+            {
+                  "name": "Al-Aqsha masjeed",
+                  "text": "O moschee modernă lângă coastă, care servește drept spațiu de rugăciune pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        81.83039,
+                        6.846531
+                  ]
+            },
+            {
+                  "name": "Panama Sri Bodhirukkharamaya",
+                  "text": "Un templu din satul Panama, cunoscut pentru arborele său sacru Bodhi și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        81.804824,
+                        6.757026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elephant Rock",
+                  "text": "A massive natural rock formation overlooking the ocean, popular with surfers for the waves breaking at its base.",
+                  "category": "landmark",
+                  "coords": [
+                        81.847449,
+                        6.898154
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Center Urani",
+                  "text": "A gateway for lagoon safaris near Arugam Bay, where visitors can explore mangrove forests and spot local wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        81.837676,
+                        6.919514
+                  ]
+            },
+            {
+                  "name": "3rd Mile Post Archaeological Site",
+                  "text": "An archaeological site near Pottuvil featuring the stone ruins of an ancient Buddhist monastic complex.",
+                  "category": "historical",
+                  "coords": [
+                        81.793745,
+                        6.882328
+                  ]
+            },
+            {
+                  "name": "Pankanda Hela Archaeological Ruins",
+                  "text": "The remains of an ancient monastic settlement situated on a forested hilltop with views of the surrounding plains.",
+                  "category": "historical",
+                  "coords": [
+                        81.823138,
+                        6.819827
+                  ]
+            },
+            {
+                  "name": "Shastrawela Monastic Temple",
+                  "text": "Remains of an ancient Buddhist monastery nestled in the coastal jungle near the bay.",
+                  "category": "historical",
+                  "coords": [
+                        81.824119,
+                        6.810106
+                  ]
+            },
+            {
+                  "name": "Mani Naga Pabbatha Viharaya",
+                  "text": "Ruins of an ancient temple complex perched on a rocky hill in the hinterland.",
+                  "category": "historical",
+                  "coords": [
+                        81.818352,
+                        6.809027
+                  ]
+            },
+            {
+                  "name": "Panama Beach",
+                  "text": "A secluded, wild sandy beach where crocodiles are often spotted in the nearby lagoons.",
+                  "category": "recreational",
+                  "coords": [
+                        81.825652,
+                        6.766507
+                  ]
+            },
+            {
+                  "name": "Abayasinghepura Archaeological Site",
+                  "text": "Archaeological site featuring scattered stone pillars and foundations of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        81.814363,
+                        6.766502
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site II",
+                  "text": "Ancient ruins site with weathered stone structures located near the Radella reservoir.",
+                  "category": "historical",
+                  "coords": [
+                        81.769837,
+                        6.821236
+                  ]
+            },
+            {
+                  "name": "Radella Archaeological Site I",
+                  "text": "Historical remains of a Buddhist monastery featuring distinctive stones set into the ground.",
+                  "category": "historical",
+                  "coords": [
+                        81.766068,
+                        6.816249
+                  ]
+            },
+            {
+                  "name": "Arugam Bay Beach",
+                  "text": "A crescent-shaped sandy beach world-renowned for its long point-break surfing waves.",
+                  "category": "recreational",
+                  "coords": [
+                        81.832796,
+                        6.8452
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "A spacious public sandy beach offering views of the fishing boats in the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        81.839174,
+                        6.837942
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Beach",
+                  "text": "A quiet, secluded stretch of beach south of the main bay, ideal for nature watching.",
+                  "category": "recreational",
+                  "coords": [
+                        81.828355,
+                        6.823631
+                  ]
+            },
+            {
+                  "name": "Peanut Farm Beach",
+                  "text": "A remote surf spot on a sandy beach named after a former peanut farm.",
+                  "category": "recreational",
+                  "coords": [
+                        81.82152,
+                        6.797668
+                  ]
+            },
+            {
+                  "name": "Arugambay Point Buddhist Temple",
+                  "text": "A small Buddhist temple located directly at the rocky lookout point of the surf bay.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833164,
+                        6.839443
+                  ]
+            },
+            {
+                  "name": "Pasarichenai Bathriya  mosqe",
+                  "text": "A local mosque for the fishing community, standing not far from the coastal lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        81.826526,
+                        6.829555
+                  ]
+            },
+            {
+                  "name": "Ishraq School Mosque",
+                  "text": "An Islamic place of worship in the village, architecturally integrated into the local school district.",
+                  "category": "landmark",
+                  "coords": [
+                        81.824095,
+                        6.832344
+                  ]
+            },
+            {
+                  "name": "Murugan Temple",
+                  "text": "A colorful Hindu temple with ornate sculptures, dedicated to the god Murugan.",
+                  "category": "landmark",
+                  "coords": [
+                        81.842738,
+                        6.91351
+                  ]
+            },
+            {
+                  "name": "An Noor Mosque",
+                  "text": "A simple community mosque in the heart of the neighborhood, serving as an important religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        81.833644,
+                        6.833673
+                  ]
+            },
+            {
+                  "name": "Pillaiyar Temple",
+                  "text": "A small Hindu shrine for Ganesha, recognizable by its vibrant colors and offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        81.844989,
+                        6.922706
+                  ]
+            },
+            {
+                  "name": "Aauisha Masjith",
+                  "text": "A local mosque with a slender minaret that defines the Muslim quarter of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        81.8146,
+                        6.921772
+                  ]
+            },
+            {
+                  "name": "Sambodhi Viharaya",
+                  "text": "A peaceful Buddhist temple with a white stupa, surrounded by shady trees.",
+                  "category": "landmark",
+                  "coords": [
+                        81.831784,
+                        6.85551
+                  ]
+            },
+            {
+                  "name": "Al-Aqsha masjeed",
+                  "text": "A modern mosque near the coast, serving as a prayer space for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        81.83039,
+                        6.846531
+                  ]
+            },
+            {
+                  "name": "Panama Sri Bodhirukkharamaya",
+                  "text": "A temple in Panama village, known for its sacred Bodhi tree and tranquil atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        81.804824,
+                        6.757026
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-51",
     coords: [81.8267, 6.8436],
@@ -687,7 +11397,160 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "galle-lighthouse-landmarks-v2",
+    id: "galle-lighthouse-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point Utrecht Bastion",
+                  "text": "Diese strategische Eckbastion der Festung beherbergt heute den modernen Leuchtturm von Galle an der Südostküste.",
+                  "category": "historical",
+                  "coords": [
+                        80.219512,
+                        6.024436
+                  ]
+            },
+            {
+                  "name": "The Galle Fort At Gallery",
+                  "text": "In einem alten Stadthaus im Fort zeigt diese Galerie zeitgenössische srilankische Kunst und lokales Kunsthandwerk.",
+                  "category": "museum",
+                  "coords": [
+                        80.218832,
+                        6.025769
+                  ]
+            },
+            {
+                  "name": "Flag Rock Bastion",
+                  "text": "Diese südliche Bastion ist ein beliebter Aussichtspunkt, um Klippenspringer zu beobachten und den Sonnenuntergang über dem Indischen Ozean zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        80.217551,
+                        6.023703
+                  ]
+            },
+            {
+                  "name": "Zaviya Shazuliyyah",
+                  "text": "Diese kleine Sufi-Zaviya im muslimischen Viertel des Forts ist ein Ort der spirituellen Einkehr und des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        80.218531,
+                        6.024782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point Utrecht Bastion",
+                  "text": "Az erőd délkeleti sarkán található stratégiai bástya tetején áll Galle modern, fehér világítótornya.",
+                  "category": "historical",
+                  "coords": [
+                        80.219512,
+                        6.024436
+                  ]
+            },
+            {
+                  "name": "The Galle Fort At Gallery",
+                  "text": "Az erődben található galéria egy régi városi házban kapott helyet, ahol kortárs Srí Lanka-i művészetet mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        80.218832,
+                        6.025769
+                  ]
+            },
+            {
+                  "name": "Flag Rock Bastion",
+                  "text": "Az erőd legdélebbi bástyája kedvelt kilátópont, ahol gyakran láthatók sziklaugrók a naplemente idején.",
+                  "category": "natural",
+                  "coords": [
+                        80.217551,
+                        6.023703
+                  ]
+            },
+            {
+                  "name": "Zaviya Shazuliyyah",
+                  "text": "Az erőd muszlim negyedében található kis szúfi imaház a spirituális elvonulás és a közösségi imádság helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        80.218531,
+                        6.024782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point Utrecht Bastion",
+                  "text": "Această bastion strategic din colțul fortului găzduiește astăzi modernul far din Galle, oferind protecție coastei de sud-est.",
+                  "category": "historical",
+                  "coords": [
+                        80.219512,
+                        6.024436
+                  ]
+            },
+            {
+                  "name": "The Galle Fort At Gallery",
+                  "text": "Situată într-o casă veche din fort, această galerie expune artă contemporană din Sri Lanka și obiecte de artizanat local.",
+                  "category": "museum",
+                  "coords": [
+                        80.218832,
+                        6.025769
+                  ]
+            },
+            {
+                  "name": "Flag Rock Bastion",
+                  "text": "Acest bastion sudic este un punct de observație popular pentru a vedea săritorii în apă și apusul peste Oceanul Indian.",
+                  "category": "natural",
+                  "coords": [
+                        80.217551,
+                        6.023703
+                  ]
+            },
+            {
+                  "name": "Zaviya Shazuliyyah",
+                  "text": "Această mică zaviya sufi din cartierul musulman al fortului este un loc de reculegere spirituală și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        80.218531,
+                        6.024782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point Utrecht Bastion",
+                  "text": "This strategic corner bastion of the fort is home to the modern white lighthouse overlooking the southeastern coast.",
+                  "category": "historical",
+                  "coords": [
+                        80.219512,
+                        6.024436
+                  ]
+            },
+            {
+                  "name": "The Galle Fort At Gallery",
+                  "text": "Located in an old townhouse within the fort, this gallery showcases contemporary Sri Lankan art and local handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        80.218832,
+                        6.025769
+                  ]
+            },
+            {
+                  "name": "Flag Rock Bastion",
+                  "text": "This southernmost bastion is a popular viewpoint for watching cliff divers and enjoying sunsets over the Indian Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        80.217551,
+                        6.023703
+                  ]
+            },
+            {
+                  "name": "Zaviya Shazuliyyah",
+                  "text": "A small Sufi prayer hall in the fort's Muslim quarter, serving as a peaceful site for spiritual gathering and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        80.218531,
+                        6.024782
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LK-31",
     coords: [80.2173, 6.0248],

@@ -576,7 +576,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Kraviarske",
-                  "text": "Ein Berggipfel in der Bergkette der Kleinen Fatra.",
+                  "text": "Kraviarske ist ein Aussichtsgipfel im Nationalpark Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.016589,
@@ -585,7 +585,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Baraniarky",
-                  "text": "Ein Gipfel im Gebirge der Kleinen Fatra.",
+                  "text": "Baraniarky ist ein felsiger Gipfel im Gebirge Malá Fatra, beliebt bei Wanderern.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
@@ -594,7 +594,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Žitné",
-                  "text": "Ein Berggipfel im Gebiet des Nationalparks Malá Fatra.",
+                  "text": "Die Žitné ist eine grasbewachsene Almwiese auf dem Kamm der Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.016447,
@@ -603,7 +603,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Pekelník",
-                  "text": "Ein Berggipfel auf dem Hauptkamm der Kleinen Fatra.",
+                  "text": "Pekelník ist ein markanter kegelförmiger Gipfel im Nationalpark Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.018317,
@@ -612,7 +612,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Große Fatra",
-                  "text": "Der höchste Gipfel des Nationalparks Malá Fatra.",
+                  "text": "Veľký Kriváň ist mit 1.709 Metern der höchste Gipfel der Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.030854,
@@ -650,7 +650,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Kraviarske",
-                  "text": "Hegycsúcs a Kis-Fátra hegyláncában.",
+                  "text": "A Kraviarske egy kilátócsúcs a Kis-Fátra Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         19.016589,
@@ -659,7 +659,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Baraniarky",
-                  "text": "Hegycsúcs a Kis-Fátra hegységben.",
+                  "text": "A Baraniarky egy sziklás csúcs a Kis-Fátra hegységben, a túrázók körében népszerű.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
@@ -668,7 +668,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Žitné",
-                  "text": "Hegycsúcs a Kis-Fátra Nemzeti Park területén.",
+                  "text": "A Žitné egy füves havasi rét a Kis-Fátra gerincén.",
                   "category": "landmark",
                   "coords": [
                         19.016447,
@@ -677,7 +677,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Pekelník",
-                  "text": "Hegycsúcs a Kis-Fátra főgerincén.",
+                  "text": "A Pekelník egy jellegzetes kúp alakú csúcs a Kis-Fátra Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         19.018317,
@@ -686,7 +686,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Nagy-Kriván",
-                  "text": "A Kis-Fátra Nemzeti Park legmagasabb csúcsa.",
+                  "text": "A Veľký Kriváň 1709 méterével a Kis-Fátra legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         19.030854,
@@ -724,7 +724,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Kraviarske",
-                  "text": "Un vârf muntos în lanțul Malá Fatra.",
+                  "text": "Kraviarske este un vârf panoramic în Parcul Național Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.016589,
@@ -733,7 +733,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Baraniarky",
-                  "text": "Un vârf în munții Malá Fatra.",
+                  "text": "Baraniarky este un vârf stâncos în masivul Malá Fatra, popular printre drumeți.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
@@ -742,7 +742,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Žitné",
-                  "text": "Un vârf muntos în zona Parcului Național Malá Fatra.",
+                  "text": "Žitné este o poiană alpină ierboasă pe creasta Masivului Mala Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.016447,
@@ -751,7 +751,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Pekelník",
-                  "text": "Un vârf muntos pe creasta principală a munților Malá Fatra.",
+                  "text": "Pekelník este un vârf conic proeminent în Parcul Național Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.018317,
@@ -760,7 +760,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Veľký Kriváň",
-                  "text": "Cel mai înalt vârf din Parcul Național Malá Fatra.",
+                  "text": "Veľký Kriváň, cu 1.709 m, este cel mai înalt vârf al masivului Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.030854,
@@ -798,7 +798,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Kraviarske",
-                  "text": "A mountain peak in the Malá Fatra mountain range.",
+                  "text": "Kraviarske is a scenic viewpoint peak in the Malá Fatra National Park.",
                   "category": "landmark",
                   "coords": [
                         19.016589,
@@ -807,7 +807,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Baraniarky",
-                  "text": "A peak in the Malá Fatra mountains.",
+                  "text": "Baraniarky is a rocky peak in the Malá Fatra range, popular with hikers.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
@@ -816,7 +816,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Žitné",
-                  "text": "A mountain peak in the Malá Fatra National Park area.",
+                  "text": "Žitné is a grassy alpine meadow on the ridge of Malá Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.016447,
@@ -825,7 +825,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Pekelník",
-                  "text": "A mountain peak on the main ridge of the Malá Fatra.",
+                  "text": "Pekelník is a distinctive conical peak in the Malá Fatra National Park.",
                   "category": "landmark",
                   "coords": [
                         19.018317,
@@ -834,7 +834,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
             },
             {
                   "name": "Veľký Kriváň",
-                  "text": "The highest peak of the Malá Fatra National Park.",
+                  "text": "Veľký Kriváň is the highest peak of the Malá Fatra mountains, at 1,709 metres.",
                   "category": "landmark",
                   "coords": [
                         19.030854,
@@ -1208,7 +1208,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Saganovec",
-                  "text": "Ein Gipfel im Nationalpark Poloniny.",
+                  "text": "Der Saganovec ist ein bewaldeter Hügel im Nationalpark Poloniny, Teil der Bukovské vrchy.",
                   "category": "landmark",
                   "coords": [
                         22.369453,
@@ -1226,7 +1226,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Veľký Bukovec",
-                  "text": "Ein markanter Gipfel in der Region des Nationalparks Poloniny.",
+                  "text": "Veľký Bukovec ist mit 1.061 Metern der höchste Gipfel des Bukovské-vrchy-Gebirges im Nationalpark Poloniny.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -1246,7 +1246,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Saganovec",
-                  "text": "A Polonyinák Nemzeti Park területén található hegycsúcs.",
+                  "text": "A Saganovec egy erdős domb a Poloniny Nemzeti Parkban, a Bukovské vrchy része.",
                   "category": "landmark",
                   "coords": [
                         22.369453,
@@ -1264,7 +1264,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Veľký Bukovec",
-                  "text": "Jelentős hegycsúcs a Polonyinák Nemzeti Park régiójában.",
+                  "text": "A Veľký Bukovec 1061 méterével a Poloniny Nemzeti Parkban található Bukovské vrchy hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -1284,7 +1284,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Saganovec",
-                  "text": "Un vârf situat în cadrul Parcului Național Poloniny.",
+                  "text": "Saganovec este un deal împădurit din Parcul Național Poloniny, parte a Munților Bukovské vrchy.",
                   "category": "landmark",
                   "coords": [
                         22.369453,
@@ -1302,7 +1302,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Veľký Bukovec",
-                  "text": "Un vârf proeminent din regiunea Parcului Național Poloniny.",
+                  "text": "Veľký Bukovec, cu 1.061 m, este cel mai înalt vârf al munților Bukovské vrchy din Parcul Național Poloniny.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -1322,7 +1322,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Saganovec",
-                  "text": "A peak located within the Poloniny National Park.",
+                  "text": "Saganovec is a forested hill in Poloniny National Park, part of the Bukovské vrchy.",
                   "category": "landmark",
                   "coords": [
                         22.369453,
@@ -1340,7 +1340,7 @@ imageHint: "Muránska planina karst plateau",
             },
             {
                   "name": "Veľký Bukovec",
-                  "text": "A prominent peak in the Poloniny National Park region.",
+                  "text": "Veľký Bukovec is the highest peak of the Bukovské vrchy range in Poloniny National Park (1,061 m).",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -4971,7 +4971,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Bystrá",
-                  "text": "Ein markanter Berggipfel in der Westlichen Tatra.",
+                  "text": "Nižná Bystrá ist ein Gipfel in der Westtatra nahe dem Korytna-Tal-Schutzgebiet.",
                   "category": "landmark",
                   "coords": [
                         19.830665,
@@ -4980,7 +4980,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Magura",
-                  "text": "Ein Berggipfel in der Westlichen Tatra.",
+                  "text": "Die Nižná Magura ist ein runder Gipfel mit Panoramablick im Reservat Korytna-Tal.",
                   "category": "landmark",
                   "coords": [
                         19.795573,
@@ -4989,7 +4989,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Ježová",
-                  "text": "Ein Berggipfel in der Westlichen Tatra mit malerischer Aussicht.",
+                  "text": "Ježová ist ein Gipfel in der Westtatra mit Blick auf das Korytna-Tal.",
                   "category": "landmark",
                   "coords": [
                         19.834548,
@@ -4998,7 +4998,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Suchý hrádok",
-                  "text": "Ein Berggipfel in der Westlichen Tatra.",
+                  "text": "Der Suchý hrádok ist eine markante Felsformation, die wie eine Burgruine aussieht, im Korytna-Tal.",
                   "category": "landmark",
                   "coords": [
                         19.842248,
@@ -5007,7 +5007,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Kečka",
-                  "text": "Ein Berggipfel in der Westlichen Tatra.",
+                  "text": "Kečka ist ein felsiger Gipfel in der Westtatra innerhalb des Korytna-Tal-Schutzgebiets.",
                   "category": "landmark",
                   "coords": [
                         19.80954,
@@ -5016,7 +5016,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Klinovaté",
-                  "text": "Ein Berggipfel in der Westlichen Tatra.",
+                  "text": "Das Klinovaté ist eine schmale felsige Schlucht im Reservat Korytna-Tal.",
                   "category": "landmark",
                   "coords": [
                         19.774036,
@@ -5036,7 +5036,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Bystrá",
-                  "text": "A Liptói-Tátra egyik jelentős hegycsúcsa.",
+                  "text": "A Nižná Bystrá egy csúcs a Nyugati-Tátrában, a Korytna-völgy rezervátum közelében.",
                   "category": "landmark",
                   "coords": [
                         19.830665,
@@ -5045,7 +5045,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Magura",
-                  "text": "Egy hegycsúcs a Liptói-Tátrában.",
+                  "text": "A Nižná Magura egy kerek csúcs panorámakilátással a Korytna-völgy rezervátumban.",
                   "category": "landmark",
                   "coords": [
                         19.795573,
@@ -5054,7 +5054,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Ježová",
-                  "text": "Egy hegycsúcs a Liptói-Tátrában, amely szép kilátást kínál.",
+                  "text": "A Ježová egy csúcs a Nyugati-Tátrában, a Korytna-völgyre tekintve.",
                   "category": "landmark",
                   "coords": [
                         19.834548,
@@ -5063,7 +5063,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Suchý hrádok",
-                  "text": "Egy hegycsúcs a Liptói-Tátrában.",
+                  "text": "A Suchý hrádok egy jellegzetes sziklaalakzat, amely várromra emlékeztet a Korytna-völgyben.",
                   "category": "landmark",
                   "coords": [
                         19.842248,
@@ -5072,7 +5072,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Kečka",
-                  "text": "Egy hegycsúcs a Liptói-Tátrában.",
+                  "text": "A Kečka egy sziklás csúcs a Nyugati-Tátrában, a Korytna-völgy rezervátum területén.",
                   "category": "landmark",
                   "coords": [
                         19.80954,
@@ -5081,7 +5081,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Klinovaté",
-                  "text": "Egy hegycsúcs a Liptói-Tátrában.",
+                  "text": "A Klinovaté egy keskeny sziklás szurdok a Korytna-völgy rezervátumban.",
                   "category": "landmark",
                   "coords": [
                         19.774036,
@@ -5101,7 +5101,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Bystrá",
-                  "text": "Un vârf muntos proeminent din Tatra Occidentală.",
+                  "text": "Nižná Bystrá este un vârf în Tatra de Vest, lângă Rezervația Văii Korytna.",
                   "category": "landmark",
                   "coords": [
                         19.830665,
@@ -5110,7 +5110,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Magura",
-                  "text": "Un vârf muntos situat în Tatra Occidentală.",
+                  "text": "Nižná Magura este un vârf rotund cu vedere panoramică în Rezervația Văii Korytna.",
                   "category": "landmark",
                   "coords": [
                         19.795573,
@@ -5119,7 +5119,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Ježová",
-                  "text": "Un vârf din Tatra Occidentală care oferă vederi panoramice.",
+                  "text": "Ježová este un vârf în Tatra de Vest, cu vedere spre Văii Korytna.",
                   "category": "landmark",
                   "coords": [
                         19.834548,
@@ -5128,7 +5128,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Suchý hrádok",
-                  "text": "Un vârf muntos din Tatra Occidentală.",
+                  "text": "Suchý hrádok este o formațiune stâncoasă distinctivă care arată ca o ruină de castel, în Valea Korytna.",
                   "category": "landmark",
                   "coords": [
                         19.842248,
@@ -5137,7 +5137,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Kečka",
-                  "text": "Un vârf muntos situat în Tatra Occidentală.",
+                  "text": "Kečka este un vârf stâncos în Tatra de Vest, în Rezervația Văii Korytna.",
                   "category": "landmark",
                   "coords": [
                         19.80954,
@@ -5146,7 +5146,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Klinovaté",
-                  "text": "Un vârf muntos din Tatra Occidentală.",
+                  "text": "Klinovaté este o râpă îngustă stâncoasă în Rezervația Văii Korytna.",
                   "category": "landmark",
                   "coords": [
                         19.774036,
@@ -5166,7 +5166,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Bystrá",
-                  "text": "A prominent mountain peak in the Western Tatras.",
+                  "text": "Nižná Bystrá is a peak in the Western Tatras, near the Korytna Valley Reserve.",
                   "category": "landmark",
                   "coords": [
                         19.830665,
@@ -5175,7 +5175,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Nižná Magura",
-                  "text": "A mountain peak located in the Western Tatras.",
+                  "text": "Nižná Magura is a rounded peak with panoramic views in the Korytna Valley Reserve.",
                   "category": "landmark",
                   "coords": [
                         19.795573,
@@ -5184,7 +5184,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Ježová",
-                  "text": "A peak in the Western Tatras offering scenic views.",
+                  "text": "Ježová is a peak in the Western Tatras, overlooking the Korytna Valley.",
                   "category": "landmark",
                   "coords": [
                         19.834548,
@@ -5193,7 +5193,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Suchý hrádok",
-                  "text": "A mountain peak in the Western Tatras.",
+                  "text": "Suchý hrádok is a distinctive rock formation resembling a castle ruin in the Korytna Valley.",
                   "category": "landmark",
                   "coords": [
                         19.842248,
@@ -5202,7 +5202,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Kečka",
-                  "text": "A mountain peak situated in the Western Tatras.",
+                  "text": "Kečka is a rocky peak in the Western Tatras, within the Korytna Valley Reserve.",
                   "category": "landmark",
                   "coords": [
                         19.80954,
@@ -5211,7 +5211,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Klinovaté",
-                  "text": "A mountain peak in the Western Tatras.",
+                  "text": "Klinovaté is a narrow rocky gully in the Korytna Valley Reserve.",
                   "category": "landmark",
                   "coords": [
                         19.774036,
@@ -5358,7 +5358,7 @@ imageHint: "Compact beech forest Rožok",
       "de": [
             {
                   "name": "Obrovská priepasť",
-                  "text": "Ein imposanter Höhleneingang im Slowakischen Karst.",
+                  "text": "Die Obrovská priepasť (Riesenabgrund) ist ein tiefer Karstschlund im Arboretum des Slowakischen Karstes, über 100 Meter tief.",
                   "category": "landmark",
                   "coords": [
                         20.684958,
@@ -5385,7 +5385,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Körte-zsomboly",
-                  "text": "Eine Schachthöhle im Slowakischen Karst.",
+                  "text": "Der Körte-zsomboly ist ein birnenförmiger Karstschlund im Arboretum des Slowakischen Karstes.",
                   "category": "landmark",
                   "coords": [
                         20.727506,
@@ -5394,7 +5394,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Zsozsóka-zsomboly",
-                  "text": "Ein Höhlenschacht im Nationalpark Slowakischer Karst.",
+                  "text": "Der Zsozsóka-zsomboly ist ein senkrechter Karstschacht im Arboretum des Slowakischen Karstes.",
                   "category": "landmark",
                   "coords": [
                         20.699095,
@@ -5403,7 +5403,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Borsodi-zsomboly",
-                  "text": "Eingang einer Höhle im Karstgebiet der Slowakei.",
+                  "text": "Der Borsodi-zsomboly ist ein tiefer Kalksteinschacht nahe dem Arboretum des Slowakischen Karstes.",
                   "category": "landmark",
                   "coords": [
                         20.768065,
@@ -5412,7 +5412,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Fazekas-zsomboly",
-                  "text": "Eine weitere Karsthöhle im Slowakischen Karst.",
+                  "text": "Der Fazekas-zsomboly ist ein Karstschlund mit schmalem Eingang im Arboretum des Slowakischen Karstes.",
                   "category": "landmark",
                   "coords": [
                         20.749271,
@@ -5423,7 +5423,7 @@ imageHint: "Compact beech forest Rožok",
       "hu": [
             {
                   "name": "Óriás-zsomboly",
-                  "text": "Látványos barlangbejárat a Szlovák-karszt területén.",
+                  "text": "A Obrovská priepasť (Óriás-szakadék) egy mély karsztmélyedés a Szlovák-karszt Arborétumban, több mint 100 méter mély.",
                   "category": "landmark",
                   "coords": [
                         20.684958,
@@ -5450,7 +5450,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Körte-zsomboly",
-                  "text": "Zsomboly jellegű barlang a Szlovák-karszt területén.",
+                  "text": "A Körte-zsomboly egy körte alakú karsztakna a Szlovák-karszt Arborétumban.",
                   "category": "landmark",
                   "coords": [
                         20.727506,
@@ -5459,7 +5459,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Zsozsóka-zsomboly",
-                  "text": "Barlangi akna a Szlovák-karszt Nemzeti Parkban.",
+                  "text": "A Zsozsóka-zsomboly egy függőleges karsztakna a Szlovák-karszt Arborétumban.",
                   "category": "landmark",
                   "coords": [
                         20.699095,
@@ -5468,7 +5468,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Borsodi-zsomboly",
-                  "text": "Barlangbejárat Szlovákia karsztvidékén.",
+                  "text": "A Borsodi-zsomboly egy mély mészkőakna a Szlovák-karszt Arborétum közelében.",
                   "category": "landmark",
                   "coords": [
                         20.768065,
@@ -5477,7 +5477,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Fazekas-zsomboly",
-                  "text": "Újabb karsztbarlang a Szlovák-karszt területén.",
+                  "text": "A Fazekas-zsomboly egy karsztakna keskeny bejárattal a Szlovák-karszt Arborétumban.",
                   "category": "landmark",
                   "coords": [
                         20.749271,
@@ -5488,7 +5488,7 @@ imageHint: "Compact beech forest Rožok",
       "ro": [
             {
                   "name": "Obrovská priepasť",
-                  "text": "O intrare impresionantă de peșteră în Carstul Slovac.",
+                  "text": "Obrovská priepasť (Prăpastia Uriașă) este o adâncime carstică în Arboretul Carstului Slovac, cu peste 100 de metri adâncime.",
                   "category": "landmark",
                   "coords": [
                         20.684958,
@@ -5515,7 +5515,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Körte-zsomboly",
-                  "text": "O peșteră de tip avan în Carstul Slovac.",
+                  "text": "Körte-zsomboly este o groapă carstică în formă de pară în Arboretul Carstului Slovac.",
                   "category": "landmark",
                   "coords": [
                         20.727506,
@@ -5524,7 +5524,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Zsozsóka-zsomboly",
-                  "text": "Un puț de peșteră în Parcul Național Carstul Slovac.",
+                  "text": "Zsozsóka-zsomboly este o galerie carstică verticală în Arboretul Carstului Slovac.",
                   "category": "landmark",
                   "coords": [
                         20.699095,
@@ -5533,7 +5533,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Borsodi-zsomboly",
-                  "text": "Intrarea unei peșteri în regiunea carstică a Slovaciei.",
+                  "text": "Borsodi-zsomboly este o adâncime adâncă de calcar lângă Arboretul Carstului Slovac.",
                   "category": "landmark",
                   "coords": [
                         20.768065,
@@ -5542,7 +5542,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Fazekas-zsomboly",
-                  "text": "O altă peșteră carstică în Carstul Slovac.",
+                  "text": "Fazekas-zsomboly este o groapă carstică cu intrare îngustă în Arboretul Carstului Slovac.",
                   "category": "landmark",
                   "coords": [
                         20.749271,
@@ -5553,7 +5553,7 @@ imageHint: "Compact beech forest Rožok",
       "en": [
             {
                   "name": "Obrovská priepasť",
-                  "text": "An impressive cave entrance in the Slovak Karst area.",
+                  "text": "Obrovská priepasť (Giant Abyss) is a deep karst sinkhole in the Slovak Karst Arboretum, over 100 meters deep.",
                   "category": "landmark",
                   "coords": [
                         20.684958,
@@ -5580,7 +5580,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Körte-zsomboly",
-                  "text": "A shaft cave located in the Slovak Karst.",
+                  "text": "Körte-zsomboly is a pear-shaped karst sinkhole in the Slovak Karst Arboretum.",
                   "category": "landmark",
                   "coords": [
                         20.727506,
@@ -5589,7 +5589,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Zsozsóka-zsomboly",
-                  "text": "A cave shaft in the Slovak Karst National Park.",
+                  "text": "Zsozsóka-zsomboly is a vertical karst shaft in the Slovak Karst Arboretum.",
                   "category": "landmark",
                   "coords": [
                         20.699095,
@@ -5598,7 +5598,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Borsodi-zsomboly",
-                  "text": "Entrance of a cave in the karst region of Slovakia.",
+                  "text": "Borsodi-zsomboly is a deep limestone sinkhole near the Slovak Karst Arboretum.",
                   "category": "landmark",
                   "coords": [
                         20.768065,
@@ -5607,7 +5607,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Fazekas-zsomboly",
-                  "text": "Another karst cave in the Slovak Karst area.",
+                  "text": "Fazekas-zsomboly is a karst sinkhole with a narrow entrance in the Slovak Karst Arboretum.",
                   "category": "landmark",
                   "coords": [
                         20.749271,
@@ -5664,7 +5664,7 @@ imageHint: "Compact beech forest Rožok",
       "de": [
             {
                   "name": "Veľký Bukovec",
-                  "text": "Ein Gipfel im Nationalpark Poloniny.",
+                  "text": "Veľký Bukovec ist der höchste Gipfel des Bukovské-vrchy-Gebirges, mit Blick auf das Wisentgehege im Nationalpark Poloniny.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -5673,7 +5673,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Veža",
-                  "text": "Ein Berggipfel in der Region Poloniny.",
+                  "text": "Die Veža ist eine Felsformation, die wie ein Turm aussieht, im Bisongehege von Poloniny.",
                   "category": "landmark",
                   "coords": [
                         22.420084,
@@ -5702,7 +5702,7 @@ imageHint: "Compact beech forest Rožok",
       "hu": [
             {
                   "name": "Veľký Bukovec",
-                  "text": "Hegycsúcs a Poloniny Nemzeti Parkban.",
+                  "text": "A Veľký Bukovec a Bukovské vrchy hegység legmagasabb csúcsa, a Poloniny Nemzeti Parkban található bölénykifutó fölé magasodva.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -5711,7 +5711,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Veža",
-                  "text": "Hegycsúcs a Poloniny régióban.",
+                  "text": "A Veža egy toronyra emlékeztető sziklaalakzat a Poloninyi bölénykifutóban.",
                   "category": "landmark",
                   "coords": [
                         22.420084,
@@ -5740,7 +5740,7 @@ imageHint: "Compact beech forest Rožok",
       "ro": [
             {
                   "name": "Veľký Bukovec",
-                  "text": "Un vârf în Parcul Național Poloniny.",
+                  "text": "Veľký Bukovec este cel mai înalt vârf al munților Bukovské vrchy, deasupra incintei pentru zimbri din Parcul Național Poloniny.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -5749,7 +5749,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Veža",
-                  "text": "Un vârf montan în regiunea Poloniny.",
+                  "text": "Veža este o formațiune de stâncă ce arată ca un turn, în incinta zimbrilor din Poloniny.",
                   "category": "landmark",
                   "coords": [
                         22.420084,
@@ -5778,7 +5778,7 @@ imageHint: "Compact beech forest Rožok",
       "en": [
             {
                   "name": "Veľký Bukovec",
-                  "text": "A peak in the Poloniny National Park.",
+                  "text": "Veľký Bukovec is the highest peak of the Bukovské vrchy, overlooking the bison enclosure in Poloniny National Park.",
                   "category": "landmark",
                   "coords": [
                         22.435531,
@@ -5787,7 +5787,7 @@ imageHint: "Compact beech forest Rožok",
             },
             {
                   "name": "Veža",
-                  "text": "A mountain peak in the Poloniny region.",
+                  "text": "Veža is a rock formation resembling a tower, inside the Poloniny bison enclosure.",
                   "category": "landmark",
                   "coords": [
                         22.420084,

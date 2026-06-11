@@ -607,7 +607,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
             },
             {
                   "name": "Josephinenberg",
-                  "text": "Ein Aussichtspunkt auf einem der höchsten Hügel Litauens.",
+                  "text": "Der höchste Punkt Litauens mit 293 m.",
                   "category": "natural",
                   "coords": [
                         25.627783,
@@ -672,7 +672,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
             },
             {
                   "name": "Juozapinės kalnas",
-                  "text": "Kilátóhely Litvánia egyik legmagasabb dombján.",
+                  "text": "Litvánia legmagasabb pontja, 293 m.",
                   "category": "natural",
                   "coords": [
                         25.627783,
@@ -737,7 +737,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
             },
             {
                   "name": "Juozapinės kalnas",
-                  "text": "Un punct de observație pe unul dintre cele mai înalte dealuri din Lituania.",
+                  "text": "Cel mai înalt punct al Lituaniei, la 293 m.",
                   "category": "natural",
                   "coords": [
                         25.627783,
@@ -802,7 +802,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
             },
             {
                   "name": "Juozapinė Hill",
-                  "text": "A viewpoint on one of the highest hills in Lithuania.",
+                  "text": "The highest point in Lithuania at 293 m.",
                   "category": "natural",
                   "coords": [
                         25.627783,
@@ -1386,7 +1386,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių centrinis parkas",
-                  "text": "Eine weitläufige Grünanlage im Zentrum von Kėdainiai.",
+                  "text": "Zentralpark in der Altstadt von Kėdainiai.",
                   "category": "park",
                   "coords": [
                         23.977522,
@@ -1487,7 +1487,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių centrinis parkas",
-                  "text": "Kiterjedt park Kėdainiai központjában.",
+                  "text": "Központi park Kėdainiai óvárosában.",
                   "category": "park",
                   "coords": [
                         23.977522,
@@ -1588,7 +1588,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių centrinis parkas",
-                  "text": "Un parc central spațios în orașul Kėdainiai.",
+                  "text": "Parcul central din orașul vechi Kėdainiai.",
                   "category": "park",
                   "coords": [
                         23.977522,
@@ -1689,7 +1689,7 @@ imageHint: "Raudonė Castle red brick tower river view",
             },
             {
                   "name": "Kėdainių centrinis parkas",
-                  "text": "A spacious central park in the city of Kėdainiai.",
+                  "text": "Central park in the old town of Kėdainiai.",
                   "category": "park",
                   "coords": [
                         23.977522,
@@ -2535,7 +2535,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
       "de": [
             {
                   "name": "Akmenos nudistų paplūdimys",
-                  "text": "FKK-Strand Akmena nahe dem Herrenhaus Užutrakis.",
+                  "text": "Nudistenstrand in der Nähe des Herrenhauses Uzutrakis.",
                   "category": "recreational",
                   "coords": [
                         24.903886,
@@ -2546,7 +2546,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
       "hu": [
             {
                   "name": "Akmenos nudistų paplūdimys",
-                  "text": "Akmena nudista strand az Užutrakis kúria közelében.",
+                  "text": "Nudista strand az Uzutrakis-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         24.903886,
@@ -2557,7 +2557,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
       "ro": [
             {
                   "name": "Akmenos nudistų paplūdimys",
-                  "text": "Plaja de nudiști Akmena lângă conacul Užutrakis.",
+                  "text": "Plajă nudistă lângă conacul Uzutrakis.",
                   "category": "recreational",
                   "coords": [
                         24.903886,
@@ -2568,7 +2568,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
       "en": [
             {
                   "name": "Akmenos nudistų paplūdimys",
-                  "text": "Akmenos nudist beach near Uzutrakis Manor.",
+                  "text": "Nudist beach near Uzutrakis Manor.",
                   "category": "recreational",
                   "coords": [
                         24.903886,
@@ -3142,7 +3142,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
       "de": [
             {
                   "name": "Keramikos Pliažas",
-                  "text": "Der Keramikos-Strand in der Nähe der Burg Tauragė.",
+                  "text": "Keramikstrand in der Nähe der Burg Tauragė.",
                   "category": "recreational",
                   "coords": [
                         22.316327,
@@ -3153,7 +3153,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
       "hu": [
             {
                   "name": "Keramikos Pliažas",
-                  "text": "Keramikos strand a Tauragė kastély közelében.",
+                  "text": "Kerámia strand a Tauragė vár közelében.",
                   "category": "recreational",
                   "coords": [
                         22.316327,
@@ -3164,7 +3164,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
       "ro": [
             {
                   "name": "Keramikos Pliažas",
-                  "text": "Plaja Keramikos lângă castelul Tauragė.",
+                  "text": "Plaja ceramică lângă Castelul Tauragė.",
                   "category": "recreational",
                   "coords": [
                         22.316327,
@@ -3175,7 +3175,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
       "en": [
             {
                   "name": "Keramikos Pliažas",
-                  "text": "Keramikos beach near Tauragė Castle.",
+                  "text": "Ceramics Beach near Taurage Castle.",
                   "category": "recreational",
                   "coords": [
                         22.316327,
@@ -4394,7 +4394,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "de": [
             {
                   "name": "Lampėdžių paplūdimys",
-                  "text": "Lampėdžiai-Strand nahe der St.-Georgs-Kirche in Kaunas.",
+                  "text": "Strand in der Nähe der St.-Georgs-Kirche in Kaunas.",
                   "category": "recreational",
                   "coords": [
                         23.832533,
@@ -4405,7 +4405,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "hu": [
             {
                   "name": "Lampėdžių paplūdimys",
-                  "text": "Lampėdžiai strand a kaunasi Szent György templom közelében.",
+                  "text": "Strand a kaunasi Szent György-templom közelében.",
                   "category": "recreational",
                   "coords": [
                         23.832533,
@@ -4416,7 +4416,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "ro": [
             {
                   "name": "Lampėdžių paplūdimys",
-                  "text": "Plaja Lampėdžiai lângă biserica Sf. Gheorghe din Kaunas.",
+                  "text": "Plajă lângă Biserica Sf. Gheorghe din Kaunas.",
                   "category": "recreational",
                   "coords": [
                         23.832533,
@@ -4427,7 +4427,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "en": [
             {
                   "name": "Lampėdžių paplūdimys",
-                  "text": "Lampėdžių beach near St George Church Kaunas.",
+                  "text": "Beach near St. George Church in Kaunas.",
                   "category": "recreational",
                   "coords": [
                         23.832533,
@@ -5114,7 +5114,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "de": [
             {
                   "name": "Alytaus nudistų paplūdimys",
-                  "text": "FKK-Strand Alytus am Hügel Alytus.",
+                  "text": "Nudistenstrand am Alytus-Hügel.",
                   "category": "recreational",
                   "coords": [
                         24.09307,
@@ -5125,7 +5125,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "hu": [
             {
                   "name": "Alytaus nudistų paplūdimys",
-                  "text": "Alytus nudista strand az Alytus halomnál.",
+                  "text": "Nudista strand az Alytus-halmon.",
                   "category": "recreational",
                   "coords": [
                         24.09307,
@@ -5136,7 +5136,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "ro": [
             {
                   "name": "Alytaus nudistų paplūdimys",
-                  "text": "Plaja de nudiști Alytus lângă movila Alytus.",
+                  "text": "Plajă nudistă la Movila Alytus.",
                   "category": "recreational",
                   "coords": [
                         24.09307,
@@ -5147,7 +5147,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "en": [
             {
                   "name": "Alytaus nudistų paplūdimys",
-                  "text": "Alytus nudist beach near Alytus Mound.",
+                  "text": "Nudist beach at Alytus Mound.",
                   "category": "recreational",
                   "coords": [
                         24.09307,
@@ -5519,7 +5519,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "de": [
             {
                   "name": "Šivrintų miesto paplūdimys",
-                  "text": "Stadtstrand Širvintos bei der Kirche Širvintos.",
+                  "text": "Stadtstrand in der Nähe der Kirche von Širvintos.",
                   "category": "recreational",
                   "coords": [
                         24.960224,
@@ -5530,7 +5530,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "hu": [
             {
                   "name": "Šivrintų miesto paplūdimys",
-                  "text": "Širvintos városi strand a Širvintos templomnál.",
+                  "text": "Városi strand a širvintosi templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.960224,
@@ -5541,7 +5541,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "ro": [
             {
                   "name": "Šivrintų miesto paplūdimys",
-                  "text": "Plaja orașului Širvintos lângă biserica Širvintos.",
+                  "text": "Plajă urbană lângă Biserica Širvintos.",
                   "category": "recreational",
                   "coords": [
                         24.960224,
@@ -5552,7 +5552,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "en": [
             {
                   "name": "Šivrintų miesto paplūdimys",
-                  "text": "Šivrintai city beach near Širvintos Church.",
+                  "text": "City beach near Širvintos Church.",
                   "category": "recreational",
                   "coords": [
                         24.960224,
@@ -6149,7 +6149,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "de": [
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "Der Strand an der Ruderbasis Daugai nahe dem Daugai-Hügel.",
+                  "text": "Strand der Ruderbasis am Daugai-Hügel.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -6160,7 +6160,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "hu": [
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "A Daugai evezős bázis strandja a Daugai halom közelében.",
+                  "text": "Evezős bázis strand a Daugai-halmon.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -6171,7 +6171,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "ro": [
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "Plaja bazei de canotaj Daugai lângă movila Daugai.",
+                  "text": "Plajă a bazei de canotaj la Movila Daugai.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -6182,7 +6182,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
       "en": [
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "Daugai rowing base beach near Daugai Mound.",
+                  "text": "Rowing base beach at Daugai Mound.",
                   "category": "recreational",
                   "coords": [
                         24.345305,

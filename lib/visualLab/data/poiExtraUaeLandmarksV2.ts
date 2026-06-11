@@ -3,7 +3,556 @@ import type { POI } from "./poi";
 
 export const poiExtraUaeLandmarksV2: POI[] = [
   {
-    id: "burj-khalifa-landmarks-v2",
+    id: "burj-khalifa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fountain Watching Hill",
+                  "text": "Ein erhöhter Aussichtspunkt im Burj Park, der für die Beobachtung der synchronisierten Dubai Fountain Shows konzipiert wurde.",
+                  "category": "natural",
+                  "coords": [
+                        55.273843,
+                        25.195124
+                  ]
+            },
+            {
+                  "name": "Mondoir Art Gallery",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst in Downtown Dubai, der moderne digitale und physische Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.270856,
+                        25.191709
+                  ]
+            },
+            {
+                  "name": "w hotel",
+                  "text": "Ein luxuriöses Wahrzeichen in Downtown Dubai, bekannt für sein futuristisches Design und seine lebhafte Gesellschaftsszene.",
+                  "category": "landmark",
+                  "coords": [
+                        55.254015,
+                        25.182831
+                  ]
+            },
+            {
+                  "name": "Burj Khalifa",
+                  "text": "Der höchste Wolkenkratzer der Welt mit 828 Metern Höhe, der 2010 im Herzen von Dubai eröffnet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        55.274157,
+                        25.197208
+                  ]
+            },
+            {
+                  "name": "Burj Park",
+                  "text": "Ein gepflegter Inselpark am Fuße des Burj Khalifa, der einen freien Blick auf den Turm bietet.",
+                  "category": "park",
+                  "coords": [
+                        55.27343,
+                        25.194203
+                  ]
+            },
+            {
+                  "name": "Dubai Fountain",
+                  "text": "Das weltweit größte choreografierte Springbrunnensystem auf dem 12 Hektar großen, künstlich angelegten Burj Khalifa Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        55.275646,
+                        25.195409
+                  ]
+            },
+            {
+                  "name": "Dubai Opera",
+                  "text": "Ein in Form einer Dhau gestaltetes Zentrum für darstellende Künste in Downtown Dubai, das 2016 für Opern und Theater eröffnet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        55.271922,
+                        25.195644
+                  ]
+            },
+            {
+                  "name": "Masjid Aysha",
+                  "text": "Ein ruhiges Gotteshaus im Burj-Khalifa-Viertel mit traditionellen weißen Kuppeln und Minaretten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.255567,
+                        25.144931
+                  ]
+            },
+            {
+                  "name": "abdillah kutait masjid",
+                  "text": "Eine moderne Moschee in Downtown Dubai, die einen ruhigen Raum für Gebete inmitten der Wolkenkratzer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249561,
+                        25.151076
+                  ]
+            },
+            {
+                  "name": "AKK Mosque",
+                  "text": "Ein lokales Gebetshaus, das der Gemeinde in der Nähe des Erschließungsgebiets Burj Khalifa dient.",
+                  "category": "religious",
+                  "coords": [
+                        55.253243,
+                        25.142148
+                  ]
+            },
+            {
+                  "name": "Al Khail Mosque at Phase 1",
+                  "text": "Eine geräumige Moschee im Viertel Business Bay, gestaltet mit zeitgenössischen islamischen Elementen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2521,
+                        25.142741
+                  ]
+            },
+            {
+                  "name": "Al Safa Mosque",
+                  "text": "Eine Moschee im Viertel Al Safa mit traditionellen architektonischen Details und einer zentralen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.260082,
+                        25.193812
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ghafoor",
+                  "text": "Eine moderne Stadtviertel-Moschee in Downtown Dubai, die Anwohnern und Besuchern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2733,
+                        25.188742
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al Kubra",
+                  "text": "Eine markante Moschee in der Nähe des Dubai Water Canal mit elegantem islamischem Design.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270478,
+                        25.150846
+                  ]
+            },
+            {
+                  "name": "Carrefour",
+                  "text": "Ein großer Hypermarkt in der Dubai Mall, der im Herzen der Stadt eine riesige Auswahl an Waren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240836,
+                        25.169455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fountain Watching Hill",
+                  "text": "Magaslati kilátópont a Burj Parkban, amelyet a Dubai Fountain zenés műsorainak megtekintésére alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        55.273843,
+                        25.195124
+                  ]
+            },
+            {
+                  "name": "Mondoir Art Gallery",
+                  "text": "Kortárs művészeti galéria Dubai belvárosában, amely modern digitális és fizikai alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        55.270856,
+                        25.191709
+                  ]
+            },
+            {
+                  "name": "w hotel",
+                  "text": "Dubai belvárosának egyik luxusszállodája, amely futurisztikus dizájnjáról és pezsgő társasági életéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.254015,
+                        25.182831
+                  ]
+            },
+            {
+                  "name": "Burdzs Kalifa",
+                  "text": "A világ legmagasabb felhőkarcolója, amely 828 méter magas, és 2010-ben nyílt meg Dubai szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.274157,
+                        25.197208
+                  ]
+            },
+            {
+                  "name": "Burj Park",
+                  "text": "Gondozott park a Burj Khalifa lábánál, amely akadálytalan kilátást nyújt a toronyra.",
+                  "category": "park",
+                  "coords": [
+                        55.27343,
+                        25.194203
+                  ]
+            },
+            {
+                  "name": "Dubai Fountain",
+                  "text": "A világ legnagyobb koreografált szökőkútrendszere a 12 hektáros mesterséges Burj Khalifa-tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        55.275646,
+                        25.195409
+                  ]
+            },
+            {
+                  "name": "Dubai Opera",
+                  "text": "Dubai belvárosában található, dhow hajó alakú előadóművészeti központ, amely 2016-ban nyílt meg operák és színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        55.271922,
+                        25.195644
+                  ]
+            },
+            {
+                  "name": "Masjid Aysha",
+                  "text": "Békés imaház a Burj Khalifa negyedben, hagyományos fehér kupolákkal és minaretekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.255567,
+                        25.144931
+                  ]
+            },
+            {
+                  "name": "abdillah kutait masjid",
+                  "text": "Modern mecset Dubai belvárosában, amely csendes imateret biztosít a felhőkarcolók között.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249561,
+                        25.151076
+                  ]
+            },
+            {
+                  "name": "AKK Mosque",
+                  "text": "Helyi imaház a Burj Khalifa fejlesztési területének közelében lakók számára.",
+                  "category": "religious",
+                  "coords": [
+                        55.253243,
+                        25.142148
+                  ]
+            },
+            {
+                  "name": "Al Khail Mosque at Phase 1",
+                  "text": "Tágas mecset a Business Bay negyedben, kortárs iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2521,
+                        25.142741
+                  ]
+            },
+            {
+                  "name": "Al Safa Mosque",
+                  "text": "Az Al Safa negyed mecsete hagyományos építészeti részletekkel és központi kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        55.260082,
+                        25.193812
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ghafoor",
+                  "text": "Modern lakóövezeti mecset Dubai belvárosában, amely a helyieket és a látogatókat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2733,
+                        25.188742
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al Kubra",
+                  "text": "Jelentős mecset a Dubai-vízicsatorna közelében, elegáns iszlám dizájnnal.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270478,
+                        25.150846
+                  ]
+            },
+            {
+                  "name": "Carrefour",
+                  "text": "A Dubai Mallban található nagy hipermarket, amely termékek széles választékát kínálja a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240836,
+                        25.169455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fountain Watching Hill",
+                  "text": "Un punct de observare ridicat în Burj Park, conceput pentru vizionarea spectacolelor sincronizate ale Fântânii Dubai.",
+                  "category": "natural",
+                  "coords": [
+                        55.273843,
+                        25.195124
+                  ]
+            },
+            {
+                  "name": "Mondoir Art Gallery",
+                  "text": "Un spațiu de artă contemporană în centrul Dubaiului, care expune lucrări de artă moderne, atât digitale, cât și fizice.",
+                  "category": "museum",
+                  "coords": [
+                        55.270856,
+                        25.191709
+                  ]
+            },
+            {
+                  "name": "w hotel",
+                  "text": "Un punct de reper de lux în centrul Dubaiului, cunoscut pentru designul său futurist și scena socială vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.254015,
+                        25.182831
+                  ]
+            },
+            {
+                  "name": "Burj Khalifa",
+                  "text": "Cel mai înalt zgârie-nori din lume, cu o înălțime de 828 de metri, inaugurat în 2010 în inima Dubaiului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.274157,
+                        25.197208
+                  ]
+            },
+            {
+                  "name": "Burj Park",
+                  "text": "Un parc amenajat la baza Burj Khalifa, oferind vederi clare asupra turnului.",
+                  "category": "park",
+                  "coords": [
+                        55.27343,
+                        25.194203
+                  ]
+            },
+            {
+                  "name": "Dubai Fountain",
+                  "text": "Cel mai mare sistem de fântâni coregrafiate din lume, situat pe lacul artificial Burj Khalifa de 12 hectare.",
+                  "category": "landmark",
+                  "coords": [
+                        55.275646,
+                        25.195409
+                  ]
+            },
+            {
+                  "name": "Dubai Opera",
+                  "text": "Un centru de artele spectacolului în formă de dhow din centrul Dubaiului, deschis în 2016 pentru operă și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        55.271922,
+                        25.195644
+                  ]
+            },
+            {
+                  "name": "Masjid Aysha",
+                  "text": "Un lăcaș de cult liniștit în districtul Burj Khalifa, cu cupole albe tradiționale și minarete.",
+                  "category": "landmark",
+                  "coords": [
+                        55.255567,
+                        25.144931
+                  ]
+            },
+            {
+                  "name": "abdillah kutait masjid",
+                  "text": "O moschee modernă în centrul Dubaiului, oferind un spațiu liniștit pentru rugăciune printre zgârie-nori.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249561,
+                        25.151076
+                  ]
+            },
+            {
+                  "name": "AKK Mosque",
+                  "text": "O casă de rugăciune locală care deservește comunitatea din apropierea zonei de dezvoltare Burj Khalifa.",
+                  "category": "religious",
+                  "coords": [
+                        55.253243,
+                        25.142148
+                  ]
+            },
+            {
+                  "name": "Al Khail Mosque at Phase 1",
+                  "text": "O moschee spațioasă situată în zona Business Bay, proiectată cu elemente islamice contemporane.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2521,
+                        25.142741
+                  ]
+            },
+            {
+                  "name": "Al Safa Mosque",
+                  "text": "O moschee în cartierul Al Safa, cu detalii arhitecturale tradiționale și o cupolă centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        55.260082,
+                        25.193812
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ghafoor",
+                  "text": "O moschee de cartier modernă în centrul Dubaiului, deservind rezidenții și vizitatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2733,
+                        25.188742
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al Kubra",
+                  "text": "O moschee proeminentă situată lângă Canalul de Apă Dubai, cu un design islamic elegant.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270478,
+                        25.150846
+                  ]
+            },
+            {
+                  "name": "Carrefour",
+                  "text": "Un hipermarket major în cadrul Dubai Mall, oferind o gamă vastă de produse în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240836,
+                        25.169455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fountain Watching Hill",
+                  "text": "An elevated vantage point in Burj Park designed for viewing the synchronized Dubai Fountain shows.",
+                  "category": "natural",
+                  "coords": [
+                        55.273843,
+                        25.195124
+                  ]
+            },
+            {
+                  "name": "Mondoir Art Gallery",
+                  "text": "A contemporary art space in Downtown Dubai showcasing modern digital and physical artworks.",
+                  "category": "museum",
+                  "coords": [
+                        55.270856,
+                        25.191709
+                  ]
+            },
+            {
+                  "name": "w hotel",
+                  "text": "A luxury landmark in Downtown Dubai known for its futuristic design and vibrant social scene.",
+                  "category": "landmark",
+                  "coords": [
+                        55.254015,
+                        25.182831
+                  ]
+            },
+            {
+                  "name": "Burj Khalifa",
+                  "text": "The world's tallest skyscraper, standing at 828 meters and opened in 2010 in the heart of Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.274157,
+                        25.197208
+                  ]
+            },
+            {
+                  "name": "Burj Park",
+                  "text": "A manicured green island park at the base of the Burj Khalifa, offering clear views of the tower.",
+                  "category": "park",
+                  "coords": [
+                        55.27343,
+                        25.194203
+                  ]
+            },
+            {
+                  "name": "Dubai Fountain",
+                  "text": "The world's largest choreographed fountain system, set on the 30-acre man-made Burj Khalifa Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        55.275646,
+                        25.195409
+                  ]
+            },
+            {
+                  "name": "Dubai Opera",
+                  "text": "A dhow-shaped performing arts center in Downtown Dubai that opened in 2016 for opera and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        55.271922,
+                        25.195644
+                  ]
+            },
+            {
+                  "name": "Masjid Aysha",
+                  "text": "A serene place of worship in the Burj Khalifa district featuring traditional white domes and minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        55.255567,
+                        25.144931
+                  ]
+            },
+            {
+                  "name": "abdillah kutait masjid",
+                  "text": "A modern mosque in Downtown Dubai providing a quiet space for prayer amidst the skyscrapers.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249561,
+                        25.151076
+                  ]
+            },
+            {
+                  "name": "AKK Mosque",
+                  "text": "A local prayer house serving the community near the Burj Khalifa development area.",
+                  "category": "religious",
+                  "coords": [
+                        55.253243,
+                        25.142148
+                  ]
+            },
+            {
+                  "name": "Al Khail Mosque at Phase 1",
+                  "text": "A spacious mosque located in the Business Bay area, designed with contemporary Islamic elements.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2521,
+                        25.142741
+                  ]
+            },
+            {
+                  "name": "Al Safa Mosque",
+                  "text": "A mosque in the Al Safa neighborhood featuring traditional architectural details and a central dome.",
+                  "category": "landmark",
+                  "coords": [
+                        55.260082,
+                        25.193812
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ghafoor",
+                  "text": "A modern neighborhood mosque in Downtown Dubai serving residents and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2733,
+                        25.188742
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al Kubra",
+                  "text": "A prominent mosque located near the Dubai Water Canal, featuring elegant Islamic design.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270478,
+                        25.150846
+                  ]
+            },
+            {
+                  "name": "Carrefour",
+                  "text": "A major hypermarket within the Dubai Mall providing a vast range of goods in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240836,
+                        25.169455
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2744, 25.1972],
@@ -67,7 +616,268 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sheikh-zayed-grand-mosque-landmarks-v2",
+    id: "sheikh-zayed-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maqta Fort",
+                  "text": "Ein historisches Fort aus dem 18. Jahrhundert, das einst den Zugang zur Insel Abu Dhabi bewachte.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485454,
+                        24.421238
+                  ]
+            },
+            {
+                  "name": "Public park",
+                  "text": "Eine gepflegte Grünanlage in der Nähe der Großen Moschee, die Raum für Erholung im Freien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        54.476635,
+                        24.405497
+                  ]
+            },
+            {
+                  "name": "Miraj Islamic Art Centre",
+                  "text": "Ein Museum für islamische Kunst, das für seine exquisiten handgeknüpften Teppiche und kunstvollen Handarbeiten bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        54.456779,
+                        24.420898
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Bridge",
+                  "text": "Die von Zaha Hadid entworfene Brücke besticht durch ihre geschwungenen Bögen, die an Sanddünen erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485456,
+                        24.424128
+                  ]
+            },
+            {
+                  "name": "Jamia Bani Hashem",
+                  "text": "Eine beeindruckende Moschee mit mehreren weißen Kuppeln und aufwendig verzierten Minaretten.",
+                  "category": "landmark",
+                  "coords": [
+                        54.49372,
+                        24.409274
+                  ]
+            },
+            {
+                  "name": "Al Madina Al Riyadiyah Mosque",
+                  "text": "Eine moderne Moschee in der Zayed Sports City, die Gläubigen in der Nähe des Stadions dient.",
+                  "category": "landmark",
+                  "coords": [
+                        54.467838,
+                        24.411644
+                  ]
+            },
+            {
+                  "name": "Ibn Timia Mosque",
+                  "text": "Eine lokale Gebetsstätte mit traditioneller Architektur im Stadtteil Al Rawdah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.469526,
+                        24.413664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maqta Fort",
+                  "text": "18. századi történelmi erőd, amely egykor az Abu Dhabi szigetre vezető utat őrizte.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485454,
+                        24.421238
+                  ]
+            },
+            {
+                  "name": "Public park",
+                  "text": "Gondozott zöldterület a Nagymecset közelében, amely helyet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        54.476635,
+                        24.405497
+                  ]
+            },
+            {
+                  "name": "Miraj Islamic Art Centre",
+                  "text": "Iszlám művészeti központ, amely finom kézi csomózású szőnyegeiről és díszes kézműves tárgyairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        54.456779,
+                        24.420898
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Bridge",
+                  "text": "A Zaha Hadid által tervezett híd jellegzetes, homokdűnéket idéző hullámzó íveiről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485456,
+                        24.424128
+                  ]
+            },
+            {
+                  "name": "Jamia Bani Hashem",
+                  "text": "Lenyűgöző mecset több fehér kupolával és gazdagon díszített minaretekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        54.49372,
+                        24.409274
+                  ]
+            },
+            {
+                  "name": "Al Madina Al Riyadiyah Mosque",
+                  "text": "Modern mecset a Zayed Sports City területén, amely a stadion közelében lévő hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        54.467838,
+                        24.411644
+                  ]
+            },
+            {
+                  "name": "Ibn Timia Mosque",
+                  "text": "Helyi imaház hagyományos építészeti stílusban az Al Rawdah negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        54.469526,
+                        24.413664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maqta Fort",
+                  "text": "Un fort istoric din secolul al XVIII-lea, care păzea odinioară accesul pe insula Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485454,
+                        24.421238
+                  ]
+            },
+            {
+                  "name": "Public park",
+                  "text": "Un spațiu verde bine întreținut lângă Marea Moschee, oferind loc pentru recreere în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        54.476635,
+                        24.405497
+                  ]
+            },
+            {
+                  "name": "Miraj Islamic Art Centre",
+                  "text": "Un centru de artă islamică renumit pentru covoarele sale lucrate manual și obiectele de artizanat ornate.",
+                  "category": "museum",
+                  "coords": [
+                        54.456779,
+                        24.420898
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Bridge",
+                  "text": "Podul proiectat de Zaha Hadid este remarcabil pentru arcele sale ondulate care imită dunele de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485456,
+                        24.424128
+                  ]
+            },
+            {
+                  "name": "Jamia Bani Hashem",
+                  "text": "O moschee impresionantă cu multiple cupole albe și minarete ornamentate cu detalii complexe.",
+                  "category": "landmark",
+                  "coords": [
+                        54.49372,
+                        24.409274
+                  ]
+            },
+            {
+                  "name": "Al Madina Al Riyadiyah Mosque",
+                  "text": "O moschee modernă în Zayed Sports City, care deservește credincioșii din apropierea stadionului.",
+                  "category": "landmark",
+                  "coords": [
+                        54.467838,
+                        24.411644
+                  ]
+            },
+            {
+                  "name": "Ibn Timia Mosque",
+                  "text": "Un lăcaș de rugăciune local cu arhitectură tradițională, situat în cartierul Al Rawdah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.469526,
+                        24.413664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Maqtaa Fort",
+                  "text": "An 18th-century historical fort that once guarded the entrance to Abu Dhabi Island.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485454,
+                        24.421238
+                  ]
+            },
+            {
+                  "name": "Public park",
+                  "text": "A well-maintained green space near the Grand Mosque, providing room for outdoor recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        54.476635,
+                        24.405497
+                  ]
+            },
+            {
+                  "name": "Miraj Islamic Art Centre",
+                  "text": "An Islamic art center renowned for its exquisite hand-knotted carpets and ornate handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        54.456779,
+                        24.420898
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Bridge",
+                  "text": "Designed by Zaha Hadid, this bridge features striking undulating arches inspired by sand dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485456,
+                        24.424128
+                  ]
+            },
+            {
+                  "name": "Jamia Bani Hashem",
+                  "text": "An impressive mosque featuring multiple white domes and intricately decorated minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        54.49372,
+                        24.409274
+                  ]
+            },
+            {
+                  "name": "Al Madina Al Riyadiyah Mosque",
+                  "text": "A modern mosque located in Zayed Sports City, serving worshippers near the stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        54.467838,
+                        24.411644
+                  ]
+            },
+            {
+                  "name": "Ibn Timia Mosque",
+                  "text": "A local place of worship with traditional architecture located in the Al Rawdah district.",
+                  "category": "landmark",
+                  "coords": [
+                        54.469526,
+                        24.413664
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.4750, 24.4128],
@@ -131,7 +941,1276 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "burj-al-arab-landmarks-v2",
+    id: "burj-al-arab-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ski Dubai",
+                  "text": "Ein riesiges Indoor-Skigebiet in der Mall of the Emirates mit einem 85 Meter hohen künstlichen Berg.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198569,
+                        25.117237
+                  ]
+            },
+            {
+                  "name": "Wild Wadi Waterpark",
+                  "text": "Ein im arabischen Stil gestalteter Wasserpark im Freien vor dem Burj Al Arab mit über 30 Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        55.189303,
+                        25.139704
+                  ]
+            },
+            {
+                  "name": "Umm-Suqeim-Park",
+                  "text": "Ein ruhiger grüner Park im Viertel Umm Suqeim, der wegen seiner Nähe zum Public Beach beliebt ist.",
+                  "category": "park",
+                  "coords": [
+                        55.195711,
+                        25.147491
+                  ]
+            },
+            {
+                  "name": "La Bella Art Gallery & Cultural Hub",
+                  "text": "Ein lebendiger Kunstraum im Industriegebiet Al Quoz, der zeitgenössische Werke aus dem Nahen Osten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.218478,
+                        25.121117
+                  ]
+            },
+            {
+                  "name": "The Sima Collective",
+                  "text": "Ein multidisziplinärer Kunstraum in der Alserkal Avenue mit Fokus auf Performance und bildende Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        55.220486,
+                        25.120602
+                  ]
+            },
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "Eine spezialisierte Galerie, die eine exquisite Sammlung authentischer Perserteppiche und traditionellen Handwerks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.207359,
+                        25.125836
+                  ]
+            },
+            {
+                  "name": "Woo-hoo!",
+                  "text": "Ein interaktives Kindermuseum in Al Quoz mit zehn Themengalerien, die für spielerisches Lernen konzipiert sind.",
+                  "category": "museum",
+                  "coords": [
+                        55.225486,
+                        25.145881
+                  ]
+            },
+            {
+                  "name": "MAD Gallery Dubai",
+                  "text": "Eine einzigartige Galerie im Viertel Alserkal Avenue, die „Mechanical Art Devices“ und kinetischen Skulpturen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        55.225176,
+                        25.142947
+                  ]
+            },
+            {
+                  "name": "The National Gallery",
+                  "text": "Eine Galerie im Kunstviertel Al Quoz, die moderne emiratische und internationale Kunstwerke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.225874,
+                        25.14123
+                  ]
+            },
+            {
+                  "name": "Art Dubai",
+                  "text": "Eine führende internationale Kunstplattform im Madinat Jumeirah, die vielfältige Werke aus dem Nahen Osten und darüber hinaus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.187338,
+                        25.133841
+                  ]
+            },
+            {
+                  "name": "Nobel",
+                  "text": "Ein spezieller Ausstellungsraum, der die Geschichte und die Errungenschaften der Nobelpreisträger erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        55.22186,
+                        25.122217
+                  ]
+            },
+            {
+                  "name": "Golden Horses",
+                  "text": "Eine prachtvolle Skulptur goldener Pferde am Eingang des Hotels Al Qasr im Madinat Jumeirah.",
+                  "category": "historical",
+                  "coords": [
+                        55.185445,
+                        25.131138
+                  ]
+            },
+            {
+                  "name": "The Courtyard",
+                  "text": "Ein einzigartiges Gemeindetheater in einem Komplex im mediterranen Stil im Herzen von Al Quoz.",
+                  "category": "cultural",
+                  "coords": [
+                        55.223401,
+                        25.14349
+                  ]
+            },
+            {
+                  "name": "Miraj Islanic Art Centre",
+                  "text": "Das Zentrum präsentiert hochwertige islamische Kunstgegenstände, Kalligraphien und handgewebte Teppiche.",
+                  "category": "cultural",
+                  "coords": [
+                        55.217797,
+                        25.172729
+                  ]
+            },
+            {
+                  "name": "Al Madeena Mosque",
+                  "text": "Eine lokale Moschee im Viertel Al Quoz, die als ruhiger Gebetsort für die umliegende Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        55.253144,
+                        25.133058
+                  ]
+            },
+            {
+                  "name": "Al Manara Mosque",
+                  "text": "Diese markante Moschee an der Al Wasl Road zeichnet sich durch ihre sandfarbenen Fassaden und schlanken Minarette aus.",
+                  "category": "religious",
+                  "coords": [
+                        55.212069,
+                        25.167227
+                  ]
+            },
+            {
+                  "name": "Al Madina Grocery",
+                  "text": "Ein typischer lokaler Markt, der frische Lebensmittel und Waren des täglichen Bedarfs für Anwohner bereithält.",
+                  "category": "cultural",
+                  "coords": [
+                        55.238206,
+                        25.134238
+                  ]
+            },
+            {
+                  "name": "Right Bite",
+                  "text": "Ein auf gesunde Ernährung spezialisierter Markt, der frische Zutaten und Mahlzeiten für einen bewussten Lebensstil anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.242324,
+                        25.141638
+                  ]
+            },
+            {
+                  "name": "Najd Al Anze Grocery",
+                  "text": "Ein kleiner Nachbarschaftsmarkt, der für seine Auswahl an lokalen Gewürzen und Grundnahrungsmitteln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240631,
+                        25.134191
+                  ]
+            },
+            {
+                  "name": "Shezan Al Madina Grocery",
+                  "text": "Dieser lokale Lebensmittelpunkt versorgt das Viertel mit frischem Obst, Gemüse und traditionellen Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        55.255184,
+                        25.134388
+                  ]
+            },
+            {
+                  "name": "Tharal Grocery",
+                  "text": "Ein lokaler Marktplatz in Burj Al Arab, der eine praktische Auswahl an nahöstlichen Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.245111,
+                        25.123133
+                  ]
+            },
+            {
+                  "name": "Ozti Machines",
+                  "text": "Ein spezialisierter Ausstellungsraum für professionelle Großküchentechnik und Gastronomiebedarf.",
+                  "category": "landmark",
+                  "coords": [
+                        55.232388,
+                        25.118017
+                  ]
+            },
+            {
+                  "name": "Porsche Service Centre",
+                  "text": "Ein hochmodernes Zentrum für Luxusautomobile, das Einblicke in deutsche Ingenieurskunst bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.215806,
+                        25.125359
+                  ]
+            },
+            {
+                  "name": "Popeye Jetski rental",
+                  "text": "Dieser Verleih am Jumeirah Beach bietet geführte Jetski-Touren mit Blick auf das Burj Al Arab Hotel an.",
+                  "category": "landmark",
+                  "coords": [
+                        55.216018,
+                        25.173624
+                  ]
+            },
+            {
+                  "name": "Al Qouz Mini Mosque",
+                  "text": "Ein kleinerer Gebetsraum im Industriegebiet Al Quoz, der die täglichen spirituellen Bedürfnisse der Arbeiter erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.251216,
+                        25.129881
+                  ]
+            },
+            {
+                  "name": "Fatima Abdullah Mohammad Roshid Mosque",
+                  "text": "Eine lokale Moschee in einem Wohngebiet, die durch ihre schlichte, moderne islamische Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.194047,
+                        25.112797
+                  ]
+            },
+            {
+                  "name": "jibreel",
+                  "text": "Ein bescheidener muslimischer Gebetsraum, der als wichtiger Treffpunkt für die lokale Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198225,
+                        25.129013
+                  ]
+            },
+            {
+                  "name": "Umm Al-Sheif Central Mosque",
+                  "text": "Die zentrale Moschee des Viertels Umm Al-Sheif, bekannt für ihre großen Kuppeln und die friedliche Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        55.204272,
+                        25.131541
+                  ]
+            },
+            {
+                  "name": "Ahmed AlTayer Mosque",
+                  "text": "Eine moderne Moschee in Al Manara, die traditionelle Motive mit zeitgenössischem Design verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.21085,
+                        25.162696
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Diese Moschee dient als Ort für das wichtige Freitagsgebet und bietet Platz für eine große Anzahl von Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.225303,
+                        25.159
+                  ]
+            },
+            {
+                  "name": "Avis Mosque",
+                  "text": "Ein ruhiger Gebetsort im Herzen des Viertels, der einen Rückzugsort für tägliche Andachten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.141493
+                  ]
+            },
+            {
+                  "name": "Al Khail Gate Mosque",
+                  "text": "Die Moschee in der Wohnanlage Al Khail Gate zeichnet sich durch ihre zweckmäßige und einladende Struktur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249392,
+                        25.142357
+                  ]
+            },
+            {
+                  "name": "Mohammad Khamis Bin Hendi Almheiri Mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus, das nach einem prominenten Mitglied der Gemeinschaft benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        55.229535,
+                        25.159663
+                  ]
+            },
+            {
+                  "name": "AWRostamani Building Industries",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die modernen Industrie- und Geschäftsgebäude von Dubai.",
+                  "category": "natural",
+                  "coords": [
+                        55.243156,
+                        25.128356
+                  ]
+            },
+            {
+                  "name": "The Journey",
+                  "text": "Ein interaktiver Outdoor-Spielplatz, der Kindern die Natur durch Wasserläufe und Kletterstrukturen näherbringt.",
+                  "category": "recreational",
+                  "coords": [
+                        55.209463,
+                        25.164001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ski Dubai",
+                  "text": "Hatalmas fedett síközpont a Mall of the Emirates bevásárlóközpontban, 85 méter magas beltéri heggyel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198569,
+                        25.117237
+                  ]
+            },
+            {
+                  "name": "Wild Wadi Waterpark",
+                  "text": "Arab tematikájú szabadtéri vízipark a Burj Al Arab előtt, több mint 30 csúszdával és játékkal.",
+                  "category": "recreational",
+                  "coords": [
+                        55.189303,
+                        25.139704
+                  ]
+            },
+            {
+                  "name": "Umm Suqeim Park",
+                  "text": "Csendes zöld park az Umm Suqeim negyedben, amely a Public Beach közelsége miatt népszerű.",
+                  "category": "park",
+                  "coords": [
+                        55.195711,
+                        25.147491
+                  ]
+            },
+            {
+                  "name": "La Bella Art Gallery & Cultural Hub",
+                  "text": "Élénk művészeti központ az Al Quoz negyedben, amely kortárs közel-keleti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        55.218478,
+                        25.121117
+                  ]
+            },
+            {
+                  "name": "The Sima Collective",
+                  "text": "Multidiszciplináris művészeti tér az Alserkal Avenue-n, amely az előadó- és vizuális művészetekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        55.220486,
+                        25.120602
+                  ]
+            },
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "Különleges galéria, amely eredeti perzsaszőnyegek és hagyományos kézműves termékek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.207359,
+                        25.125836
+                  ]
+            },
+            {
+                  "name": "Woo-hoo!",
+                  "text": "Interaktív gyermekmúzeum Al Quozban, tíz tematikus galériával, amelyek a játékos tanulást szolgálják.",
+                  "category": "museum",
+                  "coords": [
+                        55.225486,
+                        25.145881
+                  ]
+            },
+            {
+                  "name": "MAD Gallery Dubai",
+                  "text": "Egyedülálló galéria az Alserkal Avenue negyedben, amely mechanikus művészeti eszközöket és kinetikus szobrokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        55.225176,
+                        25.142947
+                  ]
+            },
+            {
+                  "name": "The National Gallery",
+                  "text": "Galéria az Al Quoz művészeti negyedben, amely modern emírségekbeli és nemzetközi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        55.225874,
+                        25.14123
+                  ]
+            },
+            {
+                  "name": "Art Dubai",
+                  "text": "Kiemelkedő nemzetközi művészeti platform a Madinat Jumeirah-ban, közel-keleti és nemzetközi alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        55.187338,
+                        25.133841
+                  ]
+            },
+            {
+                  "name": "Nobel",
+                  "text": "Különleges kiállítótér, amely a Nobel-díjasok történetét és eredményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.22186,
+                        25.122217
+                  ]
+            },
+            {
+                  "name": "Golden Horses",
+                  "text": "Aranyozott lovakat ábrázoló monumentális szoborcsoport a Madinat Jumeirah Al Qasr szállodájának bejáratánál.",
+                  "category": "historical",
+                  "coords": [
+                        55.185445,
+                        25.131138
+                  ]
+            },
+            {
+                  "name": "The Courtyard",
+                  "text": "Egyedülálló közösségi színház egy mediterrán stílusú épületegyüttesben, Al Quoz szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        55.223401,
+                        25.14349
+                  ]
+            },
+            {
+                  "name": "Miraj Islanic Art Centre",
+                  "text": "A központ múzeumi minőségű iszlám művészeti tárgyakat, kalligráfiákat és kézzel szőtt szőnyegeket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        55.217797,
+                        25.172729
+                  ]
+            },
+            {
+                  "name": "Al Madeena Mosque",
+                  "text": "Egy helyi mecset Al Quoz negyedben, amely csendes imádkozóhelyként szolgál a környező közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        55.253144,
+                        25.133058
+                  ]
+            },
+            {
+                  "name": "Al Manara Mosque",
+                  "text": "Ez a jellegzetes mecset az Al Wasl úton homokszínű homlokzatával és karcsú minaretjeivel tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        55.212069,
+                        25.167227
+                  ]
+            },
+            {
+                  "name": "Al Madina Grocery",
+                  "text": "Egy tipikus helyi piac, amely friss élelmiszereket és napi szükségleti cikkeket kínál a lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        55.238206,
+                        25.134238
+                  ]
+            },
+            {
+                  "name": "Right Bite",
+                  "text": "Az egészséges táplálkozásra szakosodott piac, amely friss alapanyagokat kínál a tudatos életmódhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        55.242324,
+                        25.141638
+                  ]
+            },
+            {
+                  "name": "Najd Al Anze Grocery",
+                  "text": "Egy kis szomszédsági piac, amely a helyi fűszerek és alapvető élelmiszerek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240631,
+                        25.134191
+                  ]
+            },
+            {
+                  "name": "Shezan Al Madina Grocery",
+                  "text": "Ez a helyi élelmiszerpont friss gyümölccsel, zöldséggel és hagyományos árukkal látja el a negyedet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.255184,
+                        25.134388
+                  ]
+            },
+            {
+                  "name": "Tharal Grocery",
+                  "text": "Egy helyi piactér Burj Al Arabnál, amely közel-keleti termékek praktikus választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        55.245111,
+                        25.123133
+                  ]
+            },
+            {
+                  "name": "Ozti Machines",
+                  "text": "Speciális bemutatóterem professzionális nagykonyhai technológiák és gasztronómiai eszközök számára.",
+                  "category": "landmark",
+                  "coords": [
+                        55.232388,
+                        25.118017
+                  ]
+            },
+            {
+                  "name": "Porsche Service Centre",
+                  "text": "Egy ultramodern luxusautó-központ, amely betekintést nyújt a német mérnöki precizitásba.",
+                  "category": "landmark",
+                  "coords": [
+                        55.215806,
+                        25.125359
+                  ]
+            },
+            {
+                  "name": "Popeye Jetski rental",
+                  "text": "Ez a Jumeirah Beachen található kölcsönző vezetett jet-ski túrákat kínál kilátással a Burj Al Arabra.",
+                  "category": "landmark",
+                  "coords": [
+                        55.216018,
+                        25.173624
+                  ]
+            },
+            {
+                  "name": "Al Qouz Mini Mosque",
+                  "text": "Egy kisebb imaterem Al Quoz ipari negyedében, amely a munkások napi lelki igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.251216,
+                        25.129881
+                  ]
+            },
+            {
+                  "name": "Fatima Abdullah Mohammad Roshid Mosque",
+                  "text": "Egy lakóövezeti helyi mecset, amely egyszerű, modern iszlám építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.194047,
+                        25.112797
+                  ]
+            },
+            {
+                  "name": "jibreel",
+                  "text": "Egy szerény muszlim imaterem, amely fontos találkozási pontként szolgál a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198225,
+                        25.129013
+                  ]
+            },
+            {
+                  "name": "Umm Al-Sheif Central Mosque",
+                  "text": "Umm Al-Sheif negyed központi mecsetje, amely nagy kupoláiról és békés légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.204272,
+                        25.131541
+                  ]
+            },
+            {
+                  "name": "Ahmed AlTayer Mosque",
+                  "text": "Egy modern mecset Al Manarában, amely a hagyományos motívumokat kortárs dizájnnal ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.21085,
+                        25.162696
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Ez a mecset a fontos pénteki imádságok helyszíne, és nagyszámú hívő befogadására alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        55.225303,
+                        25.159
+                  ]
+            },
+            {
+                  "name": "Avis Mosque",
+                  "text": "Egy csendes imádkozóhely a negyed szívében, amely menedéket nyújt a napi áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.141493
+                  ]
+            },
+            {
+                  "name": "Al Khail Gate Mosque",
+                  "text": "Az Al Khail Gate lakópark mecsetje praktikus és hívogató felépítésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249392,
+                        25.142357
+                  ]
+            },
+            {
+                  "name": "Mohammad Khamis Bin Hendi Almheiri Mosque",
+                  "text": "Egy helyi muszlim imaház, amelyet a közösség egy prominens tagjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        55.229535,
+                        25.159663
+                  ]
+            },
+            {
+                  "name": "AWRostamani Building Industries",
+                  "text": "Erről a kilátópontról széles kilátás nyílik Dubaj modern ipari és üzleti épületeire.",
+                  "category": "natural",
+                  "coords": [
+                        55.243156,
+                        25.128356
+                  ]
+            },
+            {
+                  "name": "The Journey",
+                  "text": "Interaktív szabadtéri játszótér, amely vizesárokkal és mászókákkal hozza közelebb a természetet a gyerekekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        55.209463,
+                        25.164001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ski Dubai",
+                  "text": "O stațiune de schi interioară masivă în Mall of the Emirates, cu un munte interior înalt de 85 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198569,
+                        25.117237
+                  ]
+            },
+            {
+                  "name": "Wild Wadi Waterpark",
+                  "text": "Un parc acvatic în aer liber cu tematică arabă, situat în fața Burj Al Arab, cu peste 30 de atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        55.189303,
+                        25.139704
+                  ]
+            },
+            {
+                  "name": "Umm Suqeim Park",
+                  "text": "Un parc verde liniștit în cartierul Umm Suqeim, popular pentru proximitatea sa față de plaja publică.",
+                  "category": "park",
+                  "coords": [
+                        55.195711,
+                        25.147491
+                  ]
+            },
+            {
+                  "name": "La Bella Art Gallery & Cultural Hub",
+                  "text": "Un spațiu de artă vibrant în zona Al Quoz, care expune lucrări contemporane din Orientul Mijlociu.",
+                  "category": "museum",
+                  "coords": [
+                        55.218478,
+                        25.121117
+                  ]
+            },
+            {
+                  "name": "The Sima Collective",
+                  "text": "Un spațiu de artă multidisciplinar pe Alserkal Avenue, axat pe artele spectacolului și cele vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        55.220486,
+                        25.120602
+                  ]
+            },
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "O galerie specializată care expune o colecție fină de covoare persane autentice și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        55.207359,
+                        25.125836
+                  ]
+            },
+            {
+                  "name": "Woo-hoo!",
+                  "text": "Un muzeu interactiv pentru copii în Al Quoz, cu zece galerii tematice concepute pentru învățarea practică.",
+                  "category": "museum",
+                  "coords": [
+                        55.225486,
+                        25.145881
+                  ]
+            },
+            {
+                  "name": "MAD Gallery Dubai",
+                  "text": "O galerie unică dedicată dispozitivelor de artă mecanică și sculpturilor cinetice din districtul Alserkal Avenue.",
+                  "category": "museum",
+                  "coords": [
+                        55.225176,
+                        25.142947
+                  ]
+            },
+            {
+                  "name": "The National Gallery",
+                  "text": "O galerie în districtul de artă Al Quoz, care expune lucrări de artă moderne emirateze și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        55.225874,
+                        25.14123
+                  ]
+            },
+            {
+                  "name": "Art Dubai",
+                  "text": "O platformă internațională de artă de prim rang în Madinat Jumeirah, care expune diverse lucrări din Orientul Mijlociu și nu numai.",
+                  "category": "museum",
+                  "coords": [
+                        55.187338,
+                        25.133841
+                  ]
+            },
+            {
+                  "name": "Nobel",
+                  "text": "Un spațiu expozițional dedicat care explorează istoria și realizările laureaților Premiului Nobel.",
+                  "category": "museum",
+                  "coords": [
+                        55.22186,
+                        25.122217
+                  ]
+            },
+            {
+                  "name": "Golden Horses",
+                  "text": "O sculptură grandioasă cu cai aurii, situată la intrarea hotelului Al Qasr din Madinat Jumeirah.",
+                  "category": "historical",
+                  "coords": [
+                        55.185445,
+                        25.131138
+                  ]
+            },
+            {
+                  "name": "The Courtyard",
+                  "text": "Un teatru comunitar unic situat într-un complex în stil mediteranean în inima zonei Al Quoz.",
+                  "category": "cultural",
+                  "coords": [
+                        55.223401,
+                        25.14349
+                  ]
+            },
+            {
+                  "name": "Miraj Islanic Art Centre",
+                  "text": "Centrul prezintă obiecte de artă islamică de calitate muzeală, caligrafie și covoare țesute manual.",
+                  "category": "cultural",
+                  "coords": [
+                        55.217797,
+                        25.172729
+                  ]
+            },
+            {
+                  "name": "Al Madeena Mosque",
+                  "text": "O moschee locală din cartierul Al Quoz, care servește ca loc de rugăciune liniștit pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        55.253144,
+                        25.133058
+                  ]
+            },
+            {
+                  "name": "Al Manara Mosque",
+                  "text": "Această moschee distinctivă de pe Al Wasl Road se remarcă prin fațadele de culoarea nisipului și minaretele zvelte.",
+                  "category": "religious",
+                  "coords": [
+                        55.212069,
+                        25.167227
+                  ]
+            },
+            {
+                  "name": "Al Madina Grocery",
+                  "text": "O piață locală tipică ce oferă alimente proaspete și produse de strictă necesitate pentru rezidenți.",
+                  "category": "cultural",
+                  "coords": [
+                        55.238206,
+                        25.134238
+                  ]
+            },
+            {
+                  "name": "Right Bite",
+                  "text": "O piață specializată în nutriție sănătoasă, oferind ingrediente proaspete pentru un stil de viață conștient.",
+                  "category": "cultural",
+                  "coords": [
+                        55.242324,
+                        25.141638
+                  ]
+            },
+            {
+                  "name": "Najd Al Anze Grocery",
+                  "text": "O mică piață de cartier cunoscută pentru selecția sa de condimente locale și alimente de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240631,
+                        25.134191
+                  ]
+            },
+            {
+                  "name": "Shezan Al Madina Grocery",
+                  "text": "Acest punct alimentar local aprovizionează cartierul cu fructe, legume proaspete și mărfuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.255184,
+                        25.134388
+                  ]
+            },
+            {
+                  "name": "Tharal Grocery",
+                  "text": "O piață locală lângă Burj Al Arab care oferă o selecție practică de produse din Orientul Mijlociu.",
+                  "category": "cultural",
+                  "coords": [
+                        55.245111,
+                        25.123133
+                  ]
+            },
+            {
+                  "name": "Ozti Machines",
+                  "text": "Un showroom specializat pentru tehnologie profesională de bucătărie și echipamente gastronomice.",
+                  "category": "landmark",
+                  "coords": [
+                        55.232388,
+                        25.118017
+                  ]
+            },
+            {
+                  "name": "Porsche Service Centre",
+                  "text": "Un centru ultramodern pentru automobile de lux, oferind o privire asupra ingineriei germane de precizie.",
+                  "category": "landmark",
+                  "coords": [
+                        55.215806,
+                        25.125359
+                  ]
+            },
+            {
+                  "name": "Popeye Jetski rental",
+                  "text": "Acest punct de închirieri de pe plaja Jumeirah oferă tururi cu skijet-ul cu vedere spre hotelul Burj Al Arab.",
+                  "category": "landmark",
+                  "coords": [
+                        55.216018,
+                        25.173624
+                  ]
+            },
+            {
+                  "name": "Al Qouz Mini Mosque",
+                  "text": "O mică sală de rugăciune în zona industrială Al Quoz, care servește nevoilor spirituale zilnice ale lucrătorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        55.251216,
+                        25.129881
+                  ]
+            },
+            {
+                  "name": "Fatima Abdullah Mohammad Roshid Mosque",
+                  "text": "O moschee locală dintr-o zonă rezidențială, remarcabilă prin arhitectura sa islamică simplă și modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.194047,
+                        25.112797
+                  ]
+            },
+            {
+                  "name": "jibreel",
+                  "text": "Un lăcaș de rugăciune musulman modest care servește ca punct de întâlnire important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198225,
+                        25.129013
+                  ]
+            },
+            {
+                  "name": "Umm Al-Sheif Central Mosque",
+                  "text": "Moscheea centrală a cartierului Umm Al-Sheif, cunoscută pentru cupolele sale mari și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        55.204272,
+                        25.131541
+                  ]
+            },
+            {
+                  "name": "Ahmed AlTayer Mosque",
+                  "text": "O moschee modernă în Al Manara, care îmbină motivele tradiționale cu designul contemporan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.21085,
+                        25.162696
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Această moschee servește ca loc pentru rugăciunile importante de vineri, având capacitate pentru mulți credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        55.225303,
+                        25.159
+                  ]
+            },
+            {
+                  "name": "Avis Mosque",
+                  "text": "Un loc de rugăciune liniștit în inima cartierului, oferind un refugiu pentru devoțiunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.141493
+                  ]
+            },
+            {
+                  "name": "Al Khail Gate Mosque",
+                  "text": "Moscheea din complexul rezidențial Al Khail Gate se remarcă prin structura sa practică și primitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249392,
+                        25.142357
+                  ]
+            },
+            {
+                  "name": "Mohammad Khamis Bin Hendi Almheiri Mosque",
+                  "text": "Un lăcaș de cult musulman local, numit după un membru proeminent al comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        55.229535,
+                        25.159663
+                  ]
+            },
+            {
+                  "name": "AWRostamani Building Industries",
+                  "text": "Acest punct de observație oferü o vedere amplă asupra clădirilor industriale și comerciale moderne din Dubai.",
+                  "category": "natural",
+                  "coords": [
+                        55.243156,
+                        25.128356
+                  ]
+            },
+            {
+                  "name": "The Journey",
+                  "text": "Un teren de joacă interactiv în aer liber care apropie copiii de natură prin cursuri de apă și structuri de cățărat.",
+                  "category": "recreational",
+                  "coords": [
+                        55.209463,
+                        25.164001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ski Dubai",
+                  "text": "An massive indoor ski resort in the Mall of the Emirates featuring an 85-meter-high indoor mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198569,
+                        25.117237
+                  ]
+            },
+            {
+                  "name": "Wild Wadi Waterpark",
+                  "text": "An Arabian-themed outdoor water park situated in front of the Burj Al Arab with over 30 rides.",
+                  "category": "recreational",
+                  "coords": [
+                        55.189303,
+                        25.139704
+                  ]
+            },
+            {
+                  "name": "Umm Suqeim Park",
+                  "text": "A quiet green park in the Umm Suqeim district, popular for its proximity to Public Beach.",
+                  "category": "park",
+                  "coords": [
+                        55.195711,
+                        25.147491
+                  ]
+            },
+            {
+                  "name": "La Bella Art Gallery & Cultural Hub",
+                  "text": "A vibrant art space in the Al Quoz industrial area showcasing contemporary Middle Eastern works.",
+                  "category": "museum",
+                  "coords": [
+                        55.218478,
+                        25.121117
+                  ]
+            },
+            {
+                  "name": "The Sima Collective",
+                  "text": "A multidisciplinary art space in Alserkal Avenue focusing on performance and visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        55.220486,
+                        25.120602
+                  ]
+            },
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "A specialized gallery showcasing a fine collection of authentic Persian carpets and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        55.207359,
+                        25.125836
+                  ]
+            },
+            {
+                  "name": "Woo-hoo!",
+                  "text": "An interactive children's museum in Al Quoz featuring ten themed galleries designed for hands-on learning.",
+                  "category": "museum",
+                  "coords": [
+                        55.225486,
+                        25.145881
+                  ]
+            },
+            {
+                  "name": "MAD Gallery Dubai",
+                  "text": "A unique gallery dedicated to 'Mechanical Art Devices' and kinetic sculptures in the Alserkal Avenue district.",
+                  "category": "museum",
+                  "coords": [
+                        55.225176,
+                        25.142947
+                  ]
+            },
+            {
+                  "name": "The National Gallery",
+                  "text": "A gallery in the Al Quoz art district featuring modern Emirati and international artworks.",
+                  "category": "museum",
+                  "coords": [
+                        55.225874,
+                        25.14123
+                  ]
+            },
+            {
+                  "name": "Art Dubai",
+                  "text": "A premier international art platform in Madinat Jumeirah showcasing diverse works from the Middle East and beyond.",
+                  "category": "museum",
+                  "coords": [
+                        55.187338,
+                        25.133841
+                  ]
+            },
+            {
+                  "name": "Nobel",
+                  "text": "A dedicated exhibition space exploring the history and achievements of Nobel Prize laureates.",
+                  "category": "museum",
+                  "coords": [
+                        55.22186,
+                        25.122217
+                  ]
+            },
+            {
+                  "name": "Golden Horses",
+                  "text": "A grand sculpture of golden horses located at the entrance of the Al Qasr hotel in Madinat Jumeirah.",
+                  "category": "historical",
+                  "coords": [
+                        55.185445,
+                        25.131138
+                  ]
+            },
+            {
+                  "name": "The Courtyard",
+                  "text": "A unique community theatre located within a Mediterranean-style complex in the heart of Al Quoz.",
+                  "category": "cultural",
+                  "coords": [
+                        55.223401,
+                        25.14349
+                  ]
+            },
+            {
+                  "name": "Miraj Islanic Art Centre",
+                  "text": "The centre showcases museum-grade Islamic art pieces, intricate calligraphy, and hand-woven carpets.",
+                  "category": "cultural",
+                  "coords": [
+                        55.217797,
+                        25.172729
+                  ]
+            },
+            {
+                  "name": "Al Madeena Mosque",
+                  "text": "A local mosque in the Al Quoz district serving as a peaceful prayer space for the surrounding community.",
+                  "category": "religious",
+                  "coords": [
+                        55.253144,
+                        25.133058
+                  ]
+            },
+            {
+                  "name": "Al Manara Mosque",
+                  "text": "This prominent mosque on Al Wasl Road features sand-colored facades and slender minarets.",
+                  "category": "religious",
+                  "coords": [
+                        55.212069,
+                        25.167227
+                  ]
+            },
+            {
+                  "name": "Al Madina Grocery",
+                  "text": "A typical local marketplace providing fresh groceries and daily essentials for the neighborhood residents.",
+                  "category": "cultural",
+                  "coords": [
+                        55.238206,
+                        25.134238
+                  ]
+            },
+            {
+                  "name": "Right Bite",
+                  "text": "A market specialized in healthy nutrition, offering fresh ingredients and meals for a conscious lifestyle.",
+                  "category": "cultural",
+                  "coords": [
+                        55.242324,
+                        25.141638
+                  ]
+            },
+            {
+                  "name": "Najd Al Anze Grocery",
+                  "text": "A small neighborhood market known for its selection of local spices and staple food items.",
+                  "category": "cultural",
+                  "coords": [
+                        55.240631,
+                        25.134191
+                  ]
+            },
+            {
+                  "name": "Shezan Al Madina Grocery",
+                  "text": "This local grocery hub supplies the neighborhood with fresh fruits, vegetables, and traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.255184,
+                        25.134388
+                  ]
+            },
+            {
+                  "name": "Tharal Grocery",
+                  "text": "A local marketplace near Burj Al Arab providing a convenient selection of Middle Eastern products.",
+                  "category": "cultural",
+                  "coords": [
+                        55.245111,
+                        25.123133
+                  ]
+            },
+            {
+                  "name": "Ozti Machines",
+                  "text": "A specialized showroom displaying professional industrial kitchen machinery and catering equipment.",
+                  "category": "landmark",
+                  "coords": [
+                        55.232388,
+                        25.118017
+                  ]
+            },
+            {
+                  "name": "Porsche Service Centre",
+                  "text": "A state-of-the-art luxury automotive centre showcasing high-performance German engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        55.215806,
+                        25.125359
+                  ]
+            },
+            {
+                  "name": "Popeye Jetski rental",
+                  "text": "This rental spot at Jumeirah Beach offers guided jet ski tours with views of the Burj Al Arab hotel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.216018,
+                        25.173624
+                  ]
+            },
+            {
+                  "name": "Al Qouz Mini Mosque",
+                  "text": "A smaller prayer hall in the Al Quoz industrial area catering to the daily spiritual needs of workers.",
+                  "category": "landmark",
+                  "coords": [
+                        55.251216,
+                        25.129881
+                  ]
+            },
+            {
+                  "name": "Fatima Abdullah Mohammad Roshid Mosque",
+                  "text": "A local residential mosque featuring clean lines and modern Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        55.194047,
+                        25.112797
+                  ]
+            },
+            {
+                  "name": "jibreel",
+                  "text": "A modest Muslim prayer space serving as an essential spiritual hub for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.198225,
+                        25.129013
+                  ]
+            },
+            {
+                  "name": "Umm Al-Sheif Central Mosque",
+                  "text": "The central mosque of the Umm Al-Sheif district, noted for its large domes and peaceful ambiance.",
+                  "category": "landmark",
+                  "coords": [
+                        55.204272,
+                        25.131541
+                  ]
+            },
+            {
+                  "name": "Ahmed AlTayer Mosque",
+                  "text": "A modern mosque in Al Manara that blends traditional motifs with contemporary architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        55.21085,
+                        25.162696
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "This mosque serves as a location for the important Friday prayers, accommodating a large number of worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        55.225303,
+                        25.159
+                  ]
+            },
+            {
+                  "name": "Avis Mosque",
+                  "text": "A quiet prayer location in the heart of the district, providing a retreat for daily devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.141493
+                  ]
+            },
+            {
+                  "name": "Al Khail Gate Mosque",
+                  "text": "The mosque within the Al Khail Gate residential complex features a functional and welcoming structure.",
+                  "category": "landmark",
+                  "coords": [
+                        55.249392,
+                        25.142357
+                  ]
+            },
+            {
+                  "name": "Mohammad Khamis Bin Hendi Almheiri Mosque",
+                  "text": "A local Muslim place of worship named after a prominent member of the community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.229535,
+                        25.159663
+                  ]
+            },
+            {
+                  "name": "AWRostamani Building Industries",
+                  "text": "This viewpoint offers an expansive outlook over Dubai's modern industrial and commercial structures.",
+                  "category": "natural",
+                  "coords": [
+                        55.243156,
+                        25.128356
+                  ]
+            },
+            {
+                  "name": "The Journey",
+                  "text": "An interactive outdoor playground designed to connect children with nature through water streams and climbing structures.",
+                  "category": "recreational",
+                  "coords": [
+                        55.209463,
+                        25.164001
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1852, 25.1412],
@@ -195,7 +2274,304 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "louvre-abu-dhabi-landmarks-v2",
+    id: "louvre-abu-dhabi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "teamLab Phenomena Abu Dhabi",
+                  "text": "Dieses von MZ Architects entworfene immersive Erlebnismuseum erforscht Licht und Klang in Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.405019,
+                        24.527463
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Abu Dhabi",
+                  "text": "Dieser riesige Museumskomplex in Abu Dhabi wurde von Mecanoo entworfen und zeigt die Naturgeschichte der Erde.",
+                  "category": "museum",
+                  "coords": [
+                        54.403559,
+                        24.528554
+                  ]
+            },
+            {
+                  "name": "Soul Beach",
+                  "text": "Dieses Küstenstrandresort bietet Besuchern weiße Sandstrände und Freizeitaktivitäten am Wasser in Abu Dhabi.",
+                  "category": "recreational",
+                  "coords": [
+                        54.408446,
+                        24.539631
+                  ]
+            },
+            {
+                  "name": "Louvre Museum Abu Dhabi",
+                  "text": "Dieses renommierte Kunstmuseum in Abu Dhabi wurde 2017 eröffnet, von Jean Nouvel entworfen und verfügt über eine atemberaubende Netzkupel.",
+                  "category": "museum",
+                  "coords": [
+                        54.398595,
+                        24.533643
+                  ]
+            },
+            {
+                  "name": "Zayed National Museum",
+                  "text": "Dieses von Norman Foster entworfene Nationalmuseum feiert die Geschichte und Kultur der VAE in Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.406833,
+                        24.53362
+                  ]
+            },
+            {
+                  "name": "Manarat al Saadiyat",
+                  "text": "Ein lebendiges Museum und Kunstzentrum auf der Insel Saadiyat in Abu Dhabi, in dem Ausstellungen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "museum",
+                  "coords": [
+                        54.418805,
+                        24.534571
+                  ]
+            },
+            {
+                  "name": "Imam Al-Tayeb Mosque",
+                  "text": "Diese moderne, von David Adjaye entworfene muslimische Moschee ist Teil des Abrahamic Family House in Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.405149,
+                        24.530727
+                  ]
+            },
+            {
+                  "name": "Moses Ben Maimon Synagogue",
+                  "text": "Diese zeitgenössische jüdische Synagoge wurde von David Adjaye entworfen und ist ein Schlüsselbauwerk im Abrahamic Family House in Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.406092,
+                        24.530569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "teamLab Phenomena Abu Dhabi",
+                  "text": "Az MZ Architects által tervezett lenyűgöző élménymúzeum a fényt és a hangot fedeze fel Abu-Dzabiban.",
+                  "category": "museum",
+                  "coords": [
+                        54.405019,
+                        24.527463
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Abu Dhabi",
+                  "text": "A Mecanoo által tervezett hatalmas abu-dzabi múzeumkomplexum a Föld természetrajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        54.403559,
+                        24.528554
+                  ]
+            },
+            {
+                  "name": "Soul Beach",
+                  "text": "Ez a tengerparti üdülőhely fehér homokkal és vízparti szabadidős lehetőségekkel várja a látogatókat Abu-Dzabiban.",
+                  "category": "recreational",
+                  "coords": [
+                        54.408446,
+                        24.539631
+                  ]
+            },
+            {
+                  "name": "Louvre Museum Abu Dhabi",
+                  "text": "A 2017-ben megnyílt, Jean Nouvel által tervezett híres művészeti múzeum lenyűgöző hálós kupolával rendelkezik Abu-Dzabiban.",
+                  "category": "museum",
+                  "coords": [
+                        54.398595,
+                        24.533643
+                  ]
+            },
+            {
+                  "name": "Zayed National Museum",
+                  "text": "A Norman Foster által tervezett nemzeti múzeum az EAE történelmét és kultúráját ünnepli Abu-Dzabiban.",
+                  "category": "museum",
+                  "coords": [
+                        54.406833,
+                        24.53362
+                  ]
+            },
+            {
+                  "name": "Manarat al Saadiyat",
+                  "text": "Nyüzsgő múzeum és művészeti központ a Saadiyat-szigeten, Abu-Dzabiban, amely kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        54.418805,
+                        24.534571
+                  ]
+            },
+            {
+                  "name": "Imam Al-Tayeb Mosque",
+                  "text": "A David Adjaye által tervezett modern muszlim mecset az abu-dzabi Ábrahámi Családi Ház része.",
+                  "category": "landmark",
+                  "coords": [
+                        54.405149,
+                        24.530727
+                  ]
+            },
+            {
+                  "name": "Moses Ben Maimon Synagogue",
+                  "text": "A David Adjaye által tervezett kortárs zsidó zsinagóga az abu-dzabi Ábrahámi Családi Ház egyik kulcsfontosságú épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        54.406092,
+                        24.530569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "teamLab Phenomena Abu Dhabi",
+                  "text": "Proiectat de MZ Architects, acest muzeu experiențial imersiv explorează lumina și sunetul în Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.405019,
+                        24.527463
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Abu Dhabi",
+                  "text": "Proiectat de Mecanoo, acest vast complex muzeal din Abu Dhabi prezintă istoria naturală a Pământului.",
+                  "category": "museum",
+                  "coords": [
+                        54.403559,
+                        24.528554
+                  ]
+            },
+            {
+                  "name": "Soul Beach",
+                  "text": "Această stațiune de coastă pe plajă oferă vizitatorilor nisipuri albe și agrement pe malul apei în Abu Dhabi.",
+                  "category": "recreational",
+                  "coords": [
+                        54.408446,
+                        24.539631
+                  ]
+            },
+            {
+                  "name": "Louvre Museum Abu Dhabi",
+                  "text": "Deschis în 2017 și proiectat de Jean Nouvel, acest renumit muzeu de artă are o cupolă uimitoare cu plasă în Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.398595,
+                        24.533643
+                  ]
+            },
+            {
+                  "name": "Zayed National Museum",
+                  "text": "Proiectat de Norman Foster, acest muzeu național celebrează istoria și cultura Emiratelor Arabe Unite din Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.406833,
+                        24.53362
+                  ]
+            },
+            {
+                  "name": "Manarat al Saadiyat",
+                  "text": "Un muzeu și un centru de arte vibrant situat pe Insula Saadiyat din Abu Dhabi, găzduind expoziții și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        54.418805,
+                        24.534571
+                  ]
+            },
+            {
+                  "name": "Imam Al-Tayeb Mosque",
+                  "text": "Proiectată de David Adjaye, această moschee musulmană modernă face parte din Casa Familiei Abrahamice din Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.405149,
+                        24.530727
+                  ]
+            },
+            {
+                  "name": "Moses Ben Maimon Synagogue",
+                  "text": "Proiectată de David Adjaye, această sinagogă evreiască contemporană este o structură cheie în Casa Familiei Abrahamice din Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.406092,
+                        24.530569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "teamLab Phenomena Abu Dhabi",
+                  "text": "Designed by MZ Architects, this immersive experiential museum explores light and sound in Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.405019,
+                        24.527463
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Abu Dhabi",
+                  "text": "Designed by Mecanoo, this vast museum complex in Abu Dhabi showcases the natural history of the Earth.",
+                  "category": "museum",
+                  "coords": [
+                        54.403559,
+                        24.528554
+                  ]
+            },
+            {
+                  "name": "Soul Beach",
+                  "text": "This coastal beach resort provides visitors with white sands and waterfront leisure in Abu Dhabi.",
+                  "category": "recreational",
+                  "coords": [
+                        54.408446,
+                        24.539631
+                  ]
+            },
+            {
+                  "name": "Louvre Museum Abu Dhabi",
+                  "text": "Opened in 2017 and designed by Jean Nouvel, this renowned art museum features a stunning webbed dome in Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.398595,
+                        24.533643
+                  ]
+            },
+            {
+                  "name": "Zayed National Museum",
+                  "text": "Designed by Norman Foster, this national museum celebrates the history and culture of the UAE in Abu Dhabi.",
+                  "category": "museum",
+                  "coords": [
+                        54.406833,
+                        24.53362
+                  ]
+            },
+            {
+                  "name": "Manarat al Saadiyat",
+                  "text": "A vibrant museum and arts center located on Saadiyat Island in Abu Dhabi, hosting exhibitions and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        54.418805,
+                        24.534571
+                  ]
+            },
+            {
+                  "name": "Imam Al-Tayeb Mosque",
+                  "text": "Designed by David Adjaye, this modern Muslim mosque is part of the Abrahamic Family House in Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.405149,
+                        24.530727
+                  ]
+            },
+            {
+                  "name": "Moses Ben Maimon Synagogue",
+                  "text": "Designed by David Adjaye, this contemporary Jewish synagogue is a key structure in Abu Dhabi's Abrahamic Family House.",
+                  "category": "landmark",
+                  "coords": [
+                        54.406092,
+                        24.530569
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.4000, 24.5333],
@@ -259,7 +2635,160 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "the-dubai-mall-landmarks-v2",
+    id: "the-dubai-mall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "NFT",
+                  "text": "Eine innovative Galerie in der Dubai Mall, die sich auf digitale Kunst und NFTs spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        55.279146,
+                        25.198792
+                  ]
+            },
+            {
+                  "name": "Dubai Aquarium & Underwater Zoo",
+                  "text": "Ein riesiges Aquarium mit einem Glastunnel, durch den man Haie und Rochen aus nächster Nähe beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        55.278846,
+                        25.197715
+                  ]
+            },
+            {
+                  "name": "KidZania",
+                  "text": "Ein interaktives Bildungs- und Unterhaltungszentrum für Kinder, das als Miniaturstadt gestaltet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        55.279989,
+                        25.195031
+                  ]
+            },
+            {
+                  "name": "Shaikha Abdulla Salem",
+                  "text": "Ein Gebetsraum für muslimische Besucher innerhalb des weitläufigen Dubai Mall Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        55.28207,
+                        25.193102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NFT",
+                  "text": "Innovatív galéria a Dubai Mallban, amely digitális művészetre és NFT-kre szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        55.279146,
+                        25.198792
+                  ]
+            },
+            {
+                  "name": "Dubai Aquarium & Underwater Zoo",
+                  "text": "Hatalmas akvárium üvegalagúttal, amelyen keresztül testközelből figyelhetők meg a cápák és ráják.",
+                  "category": "recreational",
+                  "coords": [
+                        55.278846,
+                        25.197715
+                  ]
+            },
+            {
+                  "name": "KidZania",
+                  "text": "Interaktív oktatási és szórakoztató központ gyerekeknek, amelyet miniatűr városként alakítottak ki.",
+                  "category": "recreational",
+                  "coords": [
+                        55.279989,
+                        25.195031
+                  ]
+            },
+            {
+                  "name": "Shaikha Abdulla Salem",
+                  "text": "Imaház muszlim látogatók számára a tágas Dubai Mall komplexumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        55.28207,
+                        25.193102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NFT",
+                  "text": "O galerie inovatoare în Dubai Mall, specializată pe artă digitală și NFT-uri.",
+                  "category": "museum",
+                  "coords": [
+                        55.279146,
+                        25.198792
+                  ]
+            },
+            {
+                  "name": "Dubai Aquarium & Underwater Zoo",
+                  "text": "Un acvariu uriaș cu un tunel de sticlă prin care pot fi observați de aproape rechinii și pisicile de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        55.278846,
+                        25.197715
+                  ]
+            },
+            {
+                  "name": "KidZania",
+                  "text": "Un centru interactiv de educație și divertisment pentru copii, conceput ca un oraș în miniatură.",
+                  "category": "recreational",
+                  "coords": [
+                        55.279989,
+                        25.195031
+                  ]
+            },
+            {
+                  "name": "Shaikha Abdulla Salem",
+                  "text": "O sală de rugăciune pentru vizitatorii musulmani în cadrul vastului complex Dubai Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        55.28207,
+                        25.193102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ftNFT",
+                  "text": "An innovative gallery in the Dubai Mall specializing in digital art and NFTs.",
+                  "category": "museum",
+                  "coords": [
+                        55.279146,
+                        25.198792
+                  ]
+            },
+            {
+                  "name": "Dubai Aquarium & Underwater Zoo",
+                  "text": "A massive aquarium featuring a glass tunnel where you can observe sharks and rays up close.",
+                  "category": "recreational",
+                  "coords": [
+                        55.278846,
+                        25.197715
+                  ]
+            },
+            {
+                  "name": "KidZania",
+                  "text": "An interactive educational and entertainment center for children designed as a miniature city.",
+                  "category": "recreational",
+                  "coords": [
+                        55.279989,
+                        25.195031
+                  ]
+            },
+            {
+                  "name": "Shaikha Abdulla Salem",
+                  "text": "A prayer room for Muslim visitors located within the extensive Dubai Mall complex.",
+                  "category": "landmark",
+                  "coords": [
+                        55.28207,
+                        25.193102
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2785, 25.1975],
@@ -323,7 +2852,124 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "palm-jumeirah-landmarks-v2",
+    id: "palm-jumeirah-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "w astoria hotel",
+                  "text": "Ein luxuriöses Strandresort am östlichen Ende der Palm Jumeirah, bekannt für seine Architektur im Waldorf-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        55.150332,
+                        25.135999
+                  ]
+            },
+            {
+                  "name": "dokes hotel palm",
+                  "text": "Ein britisches Luxushotel auf der Palm Jumeirah mit einem markanten Infinity-Pool und privatem Strandzugang.",
+                  "category": "landmark",
+                  "coords": [
+                        55.138117,
+                        25.112732
+                  ]
+            },
+            {
+                  "name": "The View at The Palm",
+                  "text": "Eine Aussichtsplattform in 240 Meter Höhe, die einen 360-Grad-Blick über die gesamte Insel Palm Jumeirah bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.139833,
+                        25.11397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "w astoria hotel",
+                  "text": "Luxus tengerparti üdülőhely a Palm Jumeirah keleti ívén, amely a Waldorf-stílusú építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.150332,
+                        25.135999
+                  ]
+            },
+            {
+                  "name": "dokes hotel palm",
+                  "text": "Brit stílusú luxusszálloda a Palm Jumeirah-n, jellegzetes feszített víztükrű medencével és privát stranddal.",
+                  "category": "landmark",
+                  "coords": [
+                        55.138117,
+                        25.112732
+                  ]
+            },
+            {
+                  "name": "The View at The Palm",
+                  "text": "240 méter magas kilátóterasz, amely 360 fokos panorámát nyújt a teljes Palm Jumeirah szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        55.139833,
+                        25.11397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "w astoria hotel",
+                  "text": "Un complex de lux pe plajă, pe semiluna de est a Palm Jumeirah, cunoscut pentru arhitectura sa în stil Waldorf.",
+                  "category": "landmark",
+                  "coords": [
+                        55.150332,
+                        25.135999
+                  ]
+            },
+            {
+                  "name": "dokes hotel palm",
+                  "text": "Un hotel de lux în stil britanic pe Palm Jumeirah, cu o piscină infinity distinctivă și acces la plajă privată.",
+                  "category": "landmark",
+                  "coords": [
+                        55.138117,
+                        25.112732
+                  ]
+            },
+            {
+                  "name": "The View at The Palm",
+                  "text": "O platformă de observare la 240 de metri înălțime, care oferă o vedere de 360 de grade asupra întregii insule Palm Jumeirah.",
+                  "category": "natural",
+                  "coords": [
+                        55.139833,
+                        25.11397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "w astoria hotel",
+                  "text": "A luxury beachfront resort on the East Crescent of Palm Jumeirah, known for its Waldorf-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.150332,
+                        25.135999
+                  ]
+            },
+            {
+                  "name": "dokes hotel palm",
+                  "text": "A British-style luxury hotel on Palm Jumeirah featuring a distinct infinity pool and private beach access.",
+                  "category": "landmark",
+                  "coords": [
+                        55.138117,
+                        25.112732
+                  ]
+            },
+            {
+                  "name": "The View at The Palm",
+                  "text": "An observation deck at 240 meters height, offering 360-degree views over the entire Palm Jumeirah island.",
+                  "category": "natural",
+                  "coords": [
+                        55.139833,
+                        25.11397
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1390, 25.1124],
@@ -387,7 +3033,88 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qasr-al-watan-landmarks-v2",
+    id: "qasr-al-watan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surf Abu Dhabi",
+                  "text": "Eine Wellenbad-Attraktion in Abu Dhabi, die ideale Bedingungen zum künstlichen Surfen bieten soll.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331827,
+                        24.424224
+                  ]
+            },
+            {
+                  "name": "Al-Watan Palace",
+                  "text": "Dieser funktionierende Präsidentenpalast in Abu Dhabi zeichnet sich durch seine aufwendige arabische Architektur und seine weitläufigen Gärten aus.",
+                  "category": "castle",
+                  "coords": [
+                        54.305227,
+                        24.462859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surf Abu Dhabi",
+                  "text": "Hullámmedence-attrakció Abu-Dzabiban, amelyet arra terveztek, hogy ideális feltételeket biztosítson a mesterséges szörfözéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331827,
+                        24.424224
+                  ]
+            },
+            {
+                  "name": "Al-Watan Palace",
+                  "text": "Ez a működő elnöki palota Abu-Dzabiban bonyolult arab építészettel és hatalmas kertekkel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        54.305227,
+                        24.462859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surf Abu Dhabi",
+                  "text": "O atracție cu piscină cu valuri în Abu Dhabi, concepută pentru a oferi condiții ideale pentru surfing artificial.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331827,
+                        24.424224
+                  ]
+            },
+            {
+                  "name": "Al-Watan Palace",
+                  "text": "Acest palat prezidențial funcțional din Abu Dhabi are o arhitectură arabă complexă și grădini extinse.",
+                  "category": "castle",
+                  "coords": [
+                        54.305227,
+                        24.462859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surf Abu Dhabi",
+                  "text": "A wave pool attraction in Abu Dhabi designed to provide ideal conditions for artificial surfing.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331827,
+                        24.424224
+                  ]
+            },
+            {
+                  "name": "Al-Watan Palace",
+                  "text": "This working presidential palace in Abu Dhabi features intricate Arabian architecture and expansive gardens.",
+                  "category": "castle",
+                  "coords": [
+                        54.305227,
+                        24.462859
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.3167, 24.4614],
@@ -451,7 +3178,700 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ferrari-world-landmarks-v2",
+    id: "ferrari-world-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Du Arena",
+                  "text": "Ein großer Veranstaltungsort unter freiem Himmel, der für internationale Konzerte und Festivals bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        54.60618,
+                        24.481573
+                  ]
+            },
+            {
+                  "name": "barbecue place yas",
+                  "text": "Ein öffentlicher Grillplatz auf Yas Island, der für Picknicks in der Nähe der Freizeitparks angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        54.616533,
+                        24.479438
+                  ]
+            },
+            {
+                  "name": "Yas Kite Surfing site",
+                  "text": "Ein Küstenabschnitt, der aufgrund der beständigen Windverhältnisse ideal für Kitesurfer geeignet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        54.552068,
+                        24.512364
+                  ]
+            },
+            {
+                  "name": "Bend",
+                  "text": "Ein markanter Kurvenabschnitt in der Nähe der Yas Marina Rennstrecke mit Blick auf die moderne Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        54.5754,
+                        24.433388
+                  ]
+            },
+            {
+                  "name": "Yas Public Beach",
+                  "text": "Ein familienfreundlicher Strand mit weißem Sand und Liegestühlen am klaren Wasser von Yas Island.",
+                  "category": "recreational",
+                  "coords": [
+                        54.592215,
+                        24.462248
+                  ]
+            },
+            {
+                  "name": "Al Muneera Beach",
+                  "text": "Ein ruhiger Sandstrand an der Al Raha Promenade, der von modernen Wohngebäuden gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        54.604709,
+                        24.452615
+                  ]
+            },
+            {
+                  "name": "Al Zeina Beach",
+                  "text": "Ein privater Strandabschnitt innerhalb des Al Zeina Komplexes mit Blick auf Yas Island.",
+                  "category": "recreational",
+                  "coords": [
+                        54.612325,
+                        24.456807
+                  ]
+            },
+            {
+                  "name": "Ferrari World",
+                  "text": "Der weltweit erste Ferrari-Themenpark, der 2010 eröffnet wurde und die schnellste Achterbahn der Welt beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        54.607766,
+                        24.48438
+                  ]
+            },
+            {
+                  "name": "SeaWorld Abu Dhabi",
+                  "text": "Ein im Jahr 2023 eröffneter Meeres-Themenpark mit acht verschiedenen Welten und zahlreichen Meerestieren.",
+                  "category": "recreational",
+                  "coords": [
+                        54.619119,
+                        24.485499
+                  ]
+            },
+            {
+                  "name": "Fun Works",
+                  "text": "Ein großer Indoor-Spielbereich im Yas Mall, der speziell für Kinder mit interaktiven Attraktionen gestaltet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        54.608155,
+                        24.490428
+                  ]
+            },
+            {
+                  "name": "Warner Bros World Abu Dhabi",
+                  "text": "Ein vollständig überdachter Themenpark mit Welten, die von Batman, Superman und den Looney Tunes inspiriert sind.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600277,
+                        24.491908
+                  ]
+            },
+            {
+                  "name": "Yas Waterworld",
+                  "text": "Ein riesiger Wasserpark mit über 40 Rutschen, dessen Gestaltung auf der emiratischen Perlenfischerei basiert.",
+                  "category": "recreational",
+                  "coords": [
+                        54.599797,
+                        24.487852
+                  ]
+            },
+            {
+                  "name": "Yadi Yas Beach",
+                  "text": "Ein ruhiger Küstenstreifen auf Yas Island, der ideal für Spaziergänge am Wasser ist.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600963,
+                        24.487808
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach",
+                  "text": "Ein weitläufiger Sandstrand entlang der Al Raha Entwicklung mit Blick auf den modernen Mangroven-Kanal.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600863,
+                        24.485914
+                  ]
+            },
+            {
+                  "name": "Liwa Oasis Compound",
+                  "text": "Eine Wohnanlage, die architektonisch an die traditionelle Bauweise der Liwa-Oase angelehnt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        54.590074,
+                        24.413778
+                  ]
+            },
+            {
+                  "name": "Female Prayer Room",
+                  "text": "Ein ruhiger, nach Geschlechtern getrennter Raum für muslimische Gebete innerhalb des Yas Island Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        54.617027,
+                        24.432966
+                  ]
+            },
+            {
+                  "name": "Male Prayer Room",
+                  "text": "Ein sauberer und ruhiger Gebetsbereich für männliche Gläubige im Herzen des Yas-Freizeitviertels.",
+                  "category": "landmark",
+                  "coords": [
+                        54.61874,
+                        24.433095
+                  ]
+            },
+            {
+                  "name": "Masjid Jama al-Assadin",
+                  "text": "Eine lokale Moschee auf Yas Island mit traditionellem Minarett und Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579368,
+                        24.420128
+                  ]
+            },
+            {
+                  "name": "Ayoub bin Khalid bin Zaid Terminal 2 Masjid",
+                  "text": "Eine praktische Gebetsstätte für Reisende direkt am Terminal 2 des Flughafens von Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.653149,
+                        24.419564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Du Arena",
+                  "text": "Hatalmas szabadtéri rendezvényhelyszín, amely nemzetközi koncertekről és fesztiválokról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        54.60618,
+                        24.481573
+                  ]
+            },
+            {
+                  "name": "barbecue place yas",
+                  "text": "Nyilvános grillezőhely a Yas-szigeten, amelyet a vidámparkok közelében alakítottak ki piknikezéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        54.616533,
+                        24.479438
+                  ]
+            },
+            {
+                  "name": "Yas Kite Surfing site",
+                  "text": "Kiteszörfözésre alkalmas tengerparti szakasz, amely az állandó szélviszonyoknak köszönhetően népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        54.552068,
+                        24.512364
+                  ]
+            },
+            {
+                  "name": "Bend",
+                  "text": "Jellegzetes kanyarulat a Yas Marina versenypálya közelében, kilátással a modern építészetre.",
+                  "category": "landmark",
+                  "coords": [
+                        54.5754,
+                        24.433388
+                  ]
+            },
+            {
+                  "name": "Yas Public Beach",
+                  "text": "Családbarát strand fehér homokkal és napozóágyakkal a Yas-sziget tiszta vizénél.",
+                  "category": "recreational",
+                  "coords": [
+                        54.592215,
+                        24.462248
+                  ]
+            },
+            {
+                  "name": "Al Muneera Beach",
+                  "text": "Nyugodt homokos strand az Al Raha sétányon, amelyet modern lakóépületek szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        54.604709,
+                        24.452615
+                  ]
+            },
+            {
+                  "name": "Al Zeina Beach",
+                  "text": "Privát strand szakasz az Al Zeina komplexumon belül, kilátással a Yas-szigetre.",
+                  "category": "recreational",
+                  "coords": [
+                        54.612325,
+                        24.456807
+                  ]
+            },
+            {
+                  "name": "Ferrari World",
+                  "text": "A világ első Ferrari vidámparkja, amely 2010-ben nyílt meg, és a világ leggyorsabb hullámvasútjának ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        54.607766,
+                        24.48438
+                  ]
+            },
+            {
+                  "name": "SeaWorld Abu Dhabi",
+                  "text": "2023-ban megnyílt tengeri élménypark nyolc különböző világgal és számos tengeri állattal.",
+                  "category": "recreational",
+                  "coords": [
+                        54.619119,
+                        24.485499
+                  ]
+            },
+            {
+                  "name": "Fun Works",
+                  "text": "Hatalmas fedett játszóház a Yas Mallban, interaktív látványosságokkal kifejezetten gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        54.608155,
+                        24.490428
+                  ]
+            },
+            {
+                  "name": "Warner Bros World Abu Dhabi",
+                  "text": "Teljesen fedett vidámpark, amelyet Batman, Superman és a Bolondos Dallamok világa ihletett.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600277,
+                        24.491908
+                  ]
+            },
+            {
+                  "name": "Yas Waterworld",
+                  "text": "Hatalmas vízipark több mint 40 csúszdával, amelynek témája az emírségi gyöngyhalászaton alapul.",
+                  "category": "recreational",
+                  "coords": [
+                        54.599797,
+                        24.487852
+                  ]
+            },
+            {
+                  "name": "Yadi Yas Beach",
+                  "text": "Csendes tengerparti szakasz a Yas-szigeten, amely ideális vízparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600963,
+                        24.487808
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach",
+                  "text": "Hosszú homokos strand az Al Raha negyedben, kilátással a modern mangrove-csatornára.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600863,
+                        24.485914
+                  ]
+            },
+            {
+                  "name": "Liwa Oasis Compound",
+                  "text": "Lakópark, amely építészetileg a Liwa-oázis hagyományos stílusát idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.590074,
+                        24.413778
+                  ]
+            },
+            {
+                  "name": "Female Prayer Room",
+                  "text": "Csendes, nemek szerint elkülönített imaterem muszlimok számára a Yas-szigeti komplexumban.",
+                  "category": "landmark",
+                  "coords": [
+                        54.617027,
+                        24.432966
+                  ]
+            },
+            {
+                  "name": "Male Prayer Room",
+                  "text": "Tiszta és csendes imaterem férfi hívők számára a Yas szórakoztató negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.61874,
+                        24.433095
+                  ]
+            },
+            {
+                  "name": "Masjid Jama al-Assadin",
+                  "text": "Helyi mecset a Yas-szigeten hagyományos minarettel és imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579368,
+                        24.420128
+                  ]
+            },
+            {
+                  "name": "Ayoub bin Khalid bin Zaid Terminal 2 Masjid",
+                  "text": "Praktikus imádkozóhely utazók számára az Abu Dhabi repülőtér 2-es termináljánál.",
+                  "category": "landmark",
+                  "coords": [
+                        54.653149,
+                        24.419564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Du Arena",
+                  "text": "O arenă vastă în aer liber, cunoscută pentru găzduirea concertelor și festivalurilor internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        54.60618,
+                        24.481573
+                  ]
+            },
+            {
+                  "name": "barbecue place yas",
+                  "text": "Un loc public pentru grătar pe insula Yas, amenajat pentru picnicuri în apropierea parcurilor tematice.",
+                  "category": "landmark",
+                  "coords": [
+                        54.616533,
+                        24.479438
+                  ]
+            },
+            {
+                  "name": "Yas Kite Surfing site",
+                  "text": "O porțiune de coastă ideală pentru kitesurfing datorită condițiilor constante de vânt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.552068,
+                        24.512364
+                  ]
+            },
+            {
+                  "name": "Bend",
+                  "text": "O secțiune curbată distinctivă lângă circuitul Yas Marina, cu vedere la arhitectura modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        54.5754,
+                        24.433388
+                  ]
+            },
+            {
+                  "name": "Yas Public Beach",
+                  "text": "O plajă pentru familii, cu nisip alb și șezlonguri, situată lângă apele limpezi ale insulei Yas.",
+                  "category": "recreational",
+                  "coords": [
+                        54.592215,
+                        24.462248
+                  ]
+            },
+            {
+                  "name": "Al Muneera Beach",
+                  "text": "O plajă liniștită cu nisip pe faleza Al Raha, mărginită de clădiri rezidențiale moderne.",
+                  "category": "recreational",
+                  "coords": [
+                        54.604709,
+                        24.452615
+                  ]
+            },
+            {
+                  "name": "Al Zeina Beach",
+                  "text": "O secțiune de plajă privată în cadrul complexului Al Zeina, cu vedere spre insula Yas.",
+                  "category": "recreational",
+                  "coords": [
+                        54.612325,
+                        24.456807
+                  ]
+            },
+            {
+                  "name": "Ferrari World",
+                  "text": "Primul parc tematic Ferrari din lume, deschis în 2010, care găzduiește cel mai rapid roller coaster din lume.",
+                  "category": "recreational",
+                  "coords": [
+                        54.607766,
+                        24.48438
+                  ]
+            },
+            {
+                  "name": "SeaWorld Abu Dhabi",
+                  "text": "Un parc tematic marin deschis în 2023, cu opt lumi diferite și numeroase animale marine.",
+                  "category": "recreational",
+                  "coords": [
+                        54.619119,
+                        24.485499
+                  ]
+            },
+            {
+                  "name": "Fun Works",
+                  "text": "Un spațiu mare de joacă interior în Yas Mall, conceput pentru copii cu atracții interactive.",
+                  "category": "recreational",
+                  "coords": [
+                        54.608155,
+                        24.490428
+                  ]
+            },
+            {
+                  "name": "Warner Bros World Abu Dhabi",
+                  "text": "Un parc tematic acoperit integral, cu zone inspirate de Batman, Superman și Looney Tunes.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600277,
+                        24.491908
+                  ]
+            },
+            {
+                  "name": "Yas Waterworld",
+                  "text": "Un parc acvatic imens cu peste 40 de tobogane, inspirat de tradiția pescuitului de perle din Emirate.",
+                  "category": "recreational",
+                  "coords": [
+                        54.599797,
+                        24.487852
+                  ]
+            },
+            {
+                  "name": "Yadi Yas Beach",
+                  "text": "O fâșie de coastă liniștită pe insula Yas, ideală pentru plimbări pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600963,
+                        24.487808
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach",
+                  "text": "O plajă lungă cu nisip de-a lungul cartierului Al Raha, cu vedere spre canalul cu mangrove.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600863,
+                        24.485914
+                  ]
+            },
+            {
+                  "name": "Liwa Oasis Compound",
+                  "text": "Un complex rezidențial a cărui arhitectură evocă stilul tradițional al oazei Liwa.",
+                  "category": "landmark",
+                  "coords": [
+                        54.590074,
+                        24.413778
+                  ]
+            },
+            {
+                  "name": "Female Prayer Room",
+                  "text": "O sală de rugăciune liniștită pentru femei, situată în cadrul complexului de pe insula Yas.",
+                  "category": "landmark",
+                  "coords": [
+                        54.617027,
+                        24.432966
+                  ]
+            },
+            {
+                  "name": "Male Prayer Room",
+                  "text": "O zonă de rugăciune curată și liniștită pentru bărbați, în inima cartierului de divertisment Yas.",
+                  "category": "landmark",
+                  "coords": [
+                        54.61874,
+                        24.433095
+                  ]
+            },
+            {
+                  "name": "Masjid Jama al-Assadin",
+                  "text": "O moschee locală pe insula Yas, cu un minaret tradițional și o sală de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579368,
+                        24.420128
+                  ]
+            },
+            {
+                  "name": "Ayoub bin Khalid bin Zaid Terminal 2 Masjid",
+                  "text": "Un loc de rugăciune practic pentru călători, situat chiar la Terminalul 2 al aeroportului din Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.653149,
+                        24.419564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Du Arena",
+                  "text": "A massive open-air performance venue known for hosting international concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        54.60618,
+                        24.481573
+                  ]
+            },
+            {
+                  "name": "barbecue place yas",
+                  "text": "A public barbecue area on Yas Island designed for picnics near the major theme parks.",
+                  "category": "landmark",
+                  "coords": [
+                        54.616533,
+                        24.479438
+                  ]
+            },
+            {
+                  "name": "Yas Kite Surfing site",
+                  "text": "A coastal stretch ideal for kite surfing due to its consistent wind conditions.",
+                  "category": "landmark",
+                  "coords": [
+                        54.552068,
+                        24.512364
+                  ]
+            },
+            {
+                  "name": "Bend",
+                  "text": "A distinctive curved section near the Yas Marina Circuit with views of the modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        54.5754,
+                        24.433388
+                  ]
+            },
+            {
+                  "name": "Yas Public Beach",
+                  "text": "A family-friendly beach with white sand and loungers set by the clear waters of Yas Island.",
+                  "category": "recreational",
+                  "coords": [
+                        54.592215,
+                        24.462248
+                  ]
+            },
+            {
+                  "name": "Al Muneera Beach",
+                  "text": "A quiet sandy beach on the Al Raha promenade, lined by modern residential buildings.",
+                  "category": "recreational",
+                  "coords": [
+                        54.604709,
+                        24.452615
+                  ]
+            },
+            {
+                  "name": "Al Zeina Beach",
+                  "text": "A private beach section within the Al Zeina complex, offering views towards Yas Island.",
+                  "category": "recreational",
+                  "coords": [
+                        54.612325,
+                        24.456807
+                  ]
+            },
+            {
+                  "name": "Ferrari World",
+                  "text": "The world's first Ferrari-themed park, opened in 2010, home to the world's fastest roller coaster.",
+                  "category": "recreational",
+                  "coords": [
+                        54.607766,
+                        24.48438
+                  ]
+            },
+            {
+                  "name": "SeaWorld Abu Dhabi",
+                  "text": "A marine life theme park opened in 2023, featuring eight immersive realms and numerous aquatic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        54.619119,
+                        24.485499
+                  ]
+            },
+            {
+                  "name": "Fun Works",
+                  "text": "A large indoor play area in Yas Mall designed for children with interactive attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        54.608155,
+                        24.490428
+                  ]
+            },
+            {
+                  "name": "Warner Bros World Abu Dhabi",
+                  "text": "A fully indoor theme park featuring lands inspired by Batman, Superman, and the Looney Tunes.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600277,
+                        24.491908
+                  ]
+            },
+            {
+                  "name": "Yas Waterworld",
+                  "text": "A massive water park with over 40 rides, themed around Emirati pearl diving culture.",
+                  "category": "recreational",
+                  "coords": [
+                        54.599797,
+                        24.487852
+                  ]
+            },
+            {
+                  "name": "Yadi Yas Beach",
+                  "text": "A quiet coastal stretch on Yas Island, ideal for strolls along the water's edge.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600963,
+                        24.487808
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach",
+                  "text": "A long sandy beach along the Al Raha development, overlooking the modern mangrove canal.",
+                  "category": "recreational",
+                  "coords": [
+                        54.600863,
+                        24.485914
+                  ]
+            },
+            {
+                  "name": "Liwa Oasis Compound",
+                  "text": "A residential compound architecturally inspired by the traditional style of the Liwa Oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        54.590074,
+                        24.413778
+                  ]
+            },
+            {
+                  "name": "Female Prayer Room",
+                  "text": "A quiet, gender-segregated prayer room for Muslim women within the Yas Island complex.",
+                  "category": "landmark",
+                  "coords": [
+                        54.617027,
+                        24.432966
+                  ]
+            },
+            {
+                  "name": "Male Prayer Room",
+                  "text": "A clean and quiet prayer area for male worshippers in the heart of the Yas entertainment district.",
+                  "category": "landmark",
+                  "coords": [
+                        54.61874,
+                        24.433095
+                  ]
+            },
+            {
+                  "name": "Masjid Jama al-Assadin",
+                  "text": "A local mosque on Yas Island featuring a traditional minaret and prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579368,
+                        24.420128
+                  ]
+            },
+            {
+                  "name": "Ayoub bin Khalid bin Zaid Terminal 2 Masjid",
+                  "text": "A convenient prayer facility for travelers located right at Terminal 2 of Abu Dhabi Airport.",
+                  "category": "landmark",
+                  "coords": [
+                        54.653149,
+                        24.419564
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.6069, 24.4836],
@@ -515,7 +3935,772 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "dubai-frame-landmarks-v2",
+    id: "dubai-frame-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "DFC fireworks spot",
+                  "text": "Ein beliebter Ort am Ufer der Dubai Festival City, um abendliche Feuerwerke zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.347589,
+                        25.221696
+                  ]
+            },
+            {
+                  "name": "1 DUBAI TOURS",
+                  "text": "Ein lokales Reiseunternehmen, das auf geführte Wüstensafaris und kulturelle Stadtausflüge spezialisiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.340245,
+                        25.227914
+                  ]
+            },
+            {
+                  "name": "bikanerwal karama",
+                  "text": "Ein informelles Restaurant im Karama-Viertel, das für seine traditionellen indischen Straßensnacks bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302281,
+                        25.24859
+                  ]
+            },
+            {
+                  "name": "Pakistan Association Dubai",
+                  "text": "Ein Gemeindezentrum in Oud Metha, das das Erbe und das soziale Wohlergehen pakistanischer Expats fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315185,
+                        25.238552
+                  ]
+            },
+            {
+                  "name": "St Marys Catholic Church",
+                  "text": "Eine große katholische Kathedrale in Oud Metha, die seit 1967 als zentraler spiritueller Knotenpunkt dient.",
+                  "category": "religious",
+                  "coords": [
+                        55.317606,
+                        25.240233
+                  ]
+            },
+            {
+                  "name": "Al Karama Medical Fitness Service Center",
+                  "text": "Ein spezialisiertes Zentrum in Karama, das obligatorische Gesundheitschecks für Visumanträge durchführt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309593,
+                        25.245263
+                  ]
+            },
+            {
+                  "name": "International Art",
+                  "text": "Eine Kunstgalerie im Stadtzentrum, die eine Sammlung moderner internationaler Gemälde und Skulpturen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.311592,
+                        25.244326
+                  ]
+            },
+            {
+                  "name": "4 seasons Ramesh Gallery",
+                  "text": "Eine langjährige Kunstgalerie, die auf regionale Malerei und professionelle Rahmungen spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        55.307106,
+                        25.242458
+                  ]
+            },
+            {
+                  "name": "AYA",
+                  "text": "Ein immersives Licht- und Klangerlebnis im Einkaufszentrum WAFI City.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318711,
+                        25.229234
+                  ]
+            },
+            {
+                  "name": "Dubai Dolphinarium",
+                  "text": "Ein klimatisierter Veranstaltungsort im Creek Park, der Live-Shows mit Delfinen und Pelzrobben bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        55.326794,
+                        25.23458
+                  ]
+            },
+            {
+                  "name": "Jameel Arts Centre",
+                  "text": "Eine Institution für zeitgenössische Kunst am Ufer mit kreativen Galerien und einer Design-Bibliothek.",
+                  "category": "museum",
+                  "coords": [
+                        55.340778,
+                        25.22909
+                  ]
+            },
+            {
+                  "name": "Dubai Frame",
+                  "text": "Ein 150 Meter hohes architektonisches Wahrzeichen mit Panoramablick auf das alte und neue Dubai.",
+                  "category": "museum",
+                  "coords": [
+                        55.300368,
+                        25.235458
+                  ]
+            },
+            {
+                  "name": "Children's City",
+                  "text": "Eine interaktive Stadt für Kinder mit Themenbereichen zu Wissenschaft und Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        55.328498,
+                        25.235886
+                  ]
+            },
+            {
+                  "name": "Creek Park",
+                  "text": "Ein großer Stadtpark am Creek mit botanischen Gärten und Picknickplätzen am Wasser.",
+                  "category": "park",
+                  "coords": [
+                        55.327139,
+                        25.239084
+                  ]
+            },
+            {
+                  "name": "Wonderland Theme & Water Park",
+                  "text": "Großer Freizeit- und Wasserpark mit zahlreichen Rutschen und Fahrgeschäften für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        55.329979,
+                        25.232096
+                  ]
+            },
+            {
+                  "name": "St. Thomas Orthodox Cathedral",
+                  "text": "Bedeutende orthodoxe Kathedrale, die als geistliches Zentrum für die malankarische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315133,
+                        25.239626
+                  ]
+            },
+            {
+                  "name": "Hamad Dhaein Al Huwaidi masjid",
+                  "text": "Eine klassische Moschee mit traditioneller Architektur für die täglichen Gebete im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302354,
+                        25.237264
+                  ]
+            },
+            {
+                  "name": "Sheikh Hamdan Bin Rashid Masjid",
+                  "text": "Moderne islamische Gebetsstätte mit eleganter Fassade in der Nähe des Dubai Frame.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351458,
+                        25.238048
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Darrai",
+                  "text": "Örtliche Moschee, die durch ihre schlichte, funktionale Gestaltung für die Gemeinde besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346445,
+                        25.241988
+                  ]
+            },
+            {
+                  "name": "Al Majeed Mosque",
+                  "text": "Ein ruhiger Ort des Gebets mit markantem Minarett im Herzen des Stadtteils.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322231,
+                        25.21755
+                  ]
+            },
+            {
+                  "name": "Karama Market",
+                  "text": "Lebhafter Markt, der besonders für preiswerte Textilien, Kleidung und Lederwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        55.303747,
+                        25.23739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DFC fireworks spot",
+                  "text": "Népszerű vízparti helyszín a Dubai Festival Citynél az esti tűzijátékok megtekintésére.",
+                  "category": "landmark",
+                  "coords": [
+                        55.347589,
+                        25.221696
+                  ]
+            },
+            {
+                  "name": "1 DUBAI TOURS",
+                  "text": "Helyi utazási iroda, amely vezetett sivatagi szafarikra és kulturális városnézésekre specializálódott.",
+                  "category": "landmark",
+                  "coords": [
+                        55.340245,
+                        25.227914
+                  ]
+            },
+            {
+                  "name": "bikanerwal karama",
+                  "text": "Egy kötetlen étterem a Karama negyedben, amely hagyományos indiai utcai ételeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302281,
+                        25.24859
+                  ]
+            },
+            {
+                  "name": "Pakistan Association Dubai",
+                  "text": "Közösségi központ Oud Methában, amely a pakisztáni külföldiek örökségét és szociális jólétét segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315185,
+                        25.238552
+                  ]
+            },
+            {
+                  "name": "St Marys Catholic Church",
+                  "text": "Egy nagy katolikus székesegyház Oud Methában, amely 1967 óta a közösség központi lelki helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        55.317606,
+                        25.240233
+                  ]
+            },
+            {
+                  "name": "Al Karama Medical Fitness Service Center",
+                  "text": "Karama negyedben található speciális központ, amely a tartózkodási vízumhoz szükséges kötelező orvosi vizsgálatokat végzi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309593,
+                        25.245263
+                  ]
+            },
+            {
+                  "name": "International Art",
+                  "text": "Belvárosi művészeti galéria, amely modern nemzetközi festmények és szobrok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.311592,
+                        25.244326
+                  ]
+            },
+            {
+                  "name": "4 seasons Ramesh Gallery",
+                  "text": "Régóta működő művészeti galéria, amely regionális festményekre és professzionális képkeretezésre szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        55.307106,
+                        25.242458
+                  ]
+            },
+            {
+                  "name": "AYA",
+                  "text": "Magával ragadó fény- és hangélmény a WAFI City bevásárlóközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318711,
+                        25.229234
+                  ]
+            },
+            {
+                  "name": "Dubai Dolphinarium",
+                  "text": "Légkondicionált fedett helyszín a Creek Parkban, ahol élő delfin- és fókabemutatókat tartanak.",
+                  "category": "recreational",
+                  "coords": [
+                        55.326794,
+                        25.23458
+                  ]
+            },
+            {
+                  "name": "Jameel Arts Centre",
+                  "text": "Kortárs művészeti intézmény a vízparton, kreatív galériákkal és egy design-könyvtárral.",
+                  "category": "museum",
+                  "coords": [
+                        55.340778,
+                        25.22909
+                  ]
+            },
+            {
+                  "name": "Dubai Frame",
+                  "text": "150 méter magas építészeti nevezetesség, ahonnan panorámás kilátás nyílik a régi és az új Dubaira.",
+                  "category": "museum",
+                  "coords": [
+                        55.300368,
+                        25.235458
+                  ]
+            },
+            {
+                  "name": "Children's City",
+                  "text": "Interaktív oktató-szórakoztató központ gyerekeknek, tudományos és természeti tematikájú galériákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        55.328498,
+                        25.235886
+                  ]
+            },
+            {
+                  "name": "Creek Park",
+                  "text": "Nagy városi park a Creek partján, botanikus kertekkel és vízparti piknikezőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        55.327139,
+                        25.239084
+                  ]
+            },
+            {
+                  "name": "Wonderland Theme & Water Park",
+                  "text": "Hatalmas vidámpark és csúszdapark különféle vízi attrakciókkal a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        55.329979,
+                        25.232096
+                  ]
+            },
+            {
+                  "name": "St. Thomas Orthodox Cathedral",
+                  "text": "Jelentős ortodox székesegyház, amely a malankara közösség szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315133,
+                        25.239626
+                  ]
+            },
+            {
+                  "name": "Hamad Dhaein Al Huwaidi masjid",
+                  "text": "Hagyományos építészetű klasszikus mecset a negyedben a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302354,
+                        25.237264
+                  ]
+            },
+            {
+                  "name": "Sheikh Hamdan Bin Rashid Masjid",
+                  "text": "Modern iszlám imaház elegáns homlokzattal a Dubai Frame közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351458,
+                        25.238048
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Darrai",
+                  "text": "Helyi mecset, amely egyszerű és funkcionális kialakításával szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346445,
+                        25.241988
+                  ]
+            },
+            {
+                  "name": "Al Majeed Mosque",
+                  "text": "Csendes imaház jellegzetes minarettel a városnegyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322231,
+                        25.21755
+                  ]
+            },
+            {
+                  "name": "Karama Market",
+                  "text": "Élénk piac, amely különösen az olcsó textíliákról, ruhákról és bőrárukról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.303747,
+                        25.23739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DFC fireworks spot",
+                  "text": "O locație populară pe malul apei în Dubai Festival City pentru vizionarea spectacolelor pirotehnice de seară.",
+                  "category": "landmark",
+                  "coords": [
+                        55.347589,
+                        25.221696
+                  ]
+            },
+            {
+                  "name": "1 DUBAI TOURS",
+                  "text": "O companie locală de turism specializată în safari în deșert și excursii culturale în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        55.340245,
+                        25.227914
+                  ]
+            },
+            {
+                  "name": "bikanerwal karama",
+                  "text": "Un local informal din cartierul Karama, faimos pentru gustările sale tradiționale indiene de stradă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302281,
+                        25.24859
+                  ]
+            },
+            {
+                  "name": "Pakistan Association Dubai",
+                  "text": "Un centru comunitar din Oud Metha care promovează moștenirea și bunăstarea socială a expatriaților pakistanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315185,
+                        25.238552
+                  ]
+            },
+            {
+                  "name": "St Marys Catholic Church",
+                  "text": "O mare catedrală catolică din Oud Metha, care servește drept centru spiritual central pentru comunitate din 1967.",
+                  "category": "religious",
+                  "coords": [
+                        55.317606,
+                        25.240233
+                  ]
+            },
+            {
+                  "name": "Al Karama Medical Fitness Service Center",
+                  "text": "Un centru specializat din Karama care oferă controale medicale obligatorii pentru cererile de viză de rezidență.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309593,
+                        25.245263
+                  ]
+            },
+            {
+                  "name": "International Art",
+                  "text": "O galerie de artă din centrul orașului, care expune o colecție de picturi și sculpturi internaționale moderne.",
+                  "category": "museum",
+                  "coords": [
+                        55.311592,
+                        25.244326
+                  ]
+            },
+            {
+                  "name": "4 seasons Ramesh Gallery",
+                  "text": "O galerie de artă cu vechime, specializată în picturi regionale și înrămări profesionale personalizate.",
+                  "category": "museum",
+                  "coords": [
+                        55.307106,
+                        25.242458
+                  ]
+            },
+            {
+                  "name": "AYA",
+                  "text": "O experiență captivantă de lumină și sunet situată în centrul comercial WAFI City.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318711,
+                        25.229234
+                  ]
+            },
+            {
+                  "name": "Dubai Dolphinarium",
+                  "text": "O locație interioară cu climatizare care oferă spectacole live cu delfini și foci în Creek Park.",
+                  "category": "recreational",
+                  "coords": [
+                        55.326794,
+                        25.23458
+                  ]
+            },
+            {
+                  "name": "Jameel Arts Centre",
+                  "text": "O instituție de artă contemporană de pe malul apei, cu galerii creative și o bibliotecă de design.",
+                  "category": "museum",
+                  "coords": [
+                        55.340778,
+                        25.22909
+                  ]
+            },
+            {
+                  "name": "Dubai Frame",
+                  "text": "Un punct de reper arhitectural înalt de 150 de metri, care oferă vedere panoramică asupra vechiului și noului Dubai.",
+                  "category": "museum",
+                  "coords": [
+                        55.300368,
+                        25.235458
+                  ]
+            },
+            {
+                  "name": "Children's City",
+                  "text": "Un oraș interactiv pentru copii, cu galerii tematice despre știință și natură.",
+                  "category": "recreational",
+                  "coords": [
+                        55.328498,
+                        25.235886
+                  ]
+            },
+            {
+                  "name": "Creek Park",
+                  "text": "Un parc urban mare de pe malul pârâului, cu grădini botanice și locuri de picnic pe malul apei.",
+                  "category": "park",
+                  "coords": [
+                        55.327139,
+                        25.239084
+                  ]
+            },
+            {
+                  "name": "Wonderland Theme & Water Park",
+                  "text": "Parc tematic și acvatic vast, cu numeroase tobogane și atracții distractive pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        55.329979,
+                        25.232096
+                  ]
+            },
+            {
+                  "name": "St. Thomas Orthodox Cathedral",
+                  "text": "Catedrală ortodoxă importantă ce servește drept centru spiritual pentru comunitatea malankara.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315133,
+                        25.239626
+                  ]
+            },
+            {
+                  "name": "Hamad Dhaein Al Huwaidi masjid",
+                  "text": "O moschee clasică cu arhitectură tradițională pentru rugăciunile zilnice din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302354,
+                        25.237264
+                  ]
+            },
+            {
+                  "name": "Sheikh Hamdan Bin Rashid Masjid",
+                  "text": "Lăcaș de cult islamic modern, cu o fațadă elegantă în apropiere de Dubai Frame.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351458,
+                        25.238048
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Darrai",
+                  "text": "Moschee locală care se remarcă prin designul său simplu și funcțional pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346445,
+                        25.241988
+                  ]
+            },
+            {
+                  "name": "Al Majeed Mosque",
+                  "text": "Un loc liniștit de rugăciune, cu un minaret distinctiv în inima cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322231,
+                        25.21755
+                  ]
+            },
+            {
+                  "name": "Karama Market",
+                  "text": "Piață plină de viață, cunoscută în special pentru textile, îmbrăcăminte și articole din piele accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        55.303747,
+                        25.23739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DFC fireworks spot",
+                  "text": "A popular waterfront location in Dubai Festival City for viewing evening pyrotechnic displays.",
+                  "category": "landmark",
+                  "coords": [
+                        55.347589,
+                        25.221696
+                  ]
+            },
+            {
+                  "name": "1 DUBAI TOURS",
+                  "text": "A local tour company specializing in guided desert safaris and cultural city excursions.",
+                  "category": "landmark",
+                  "coords": [
+                        55.340245,
+                        25.227914
+                  ]
+            },
+            {
+                  "name": "bikanerwal karama",
+                  "text": "A casual eatery in the Karama district famous for its traditional Indian street snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302281,
+                        25.24859
+                  ]
+            },
+            {
+                  "name": "Pakistan Association Dubai",
+                  "text": "A community center in Oud Metha that promotes the heritage and social welfare of Pakistani expats.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315185,
+                        25.238552
+                  ]
+            },
+            {
+                  "name": "St Marys Catholic Church",
+                  "text": "A large Catholic cathedral in Oud Metha, serving as a central spiritual hub for the community since 1967.",
+                  "category": "religious",
+                  "coords": [
+                        55.317606,
+                        25.240233
+                  ]
+            },
+            {
+                  "name": "Al Karama Medical Fitness Service Center",
+                  "text": "A specialized center in Karama providing mandatory health check-ups for residency visa applications.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309593,
+                        25.245263
+                  ]
+            },
+            {
+                  "name": "International Art",
+                  "text": "An art gallery in the city center showcasing a collection of modern international paintings and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        55.311592,
+                        25.244326
+                  ]
+            },
+            {
+                  "name": "4 seasons Ramesh Gallery",
+                  "text": "A long-running art gallery specializing in regional paintings and professional custom framing.",
+                  "category": "museum",
+                  "coords": [
+                        55.307106,
+                        25.242458
+                  ]
+            },
+            {
+                  "name": "AYA",
+                  "text": "An immersive light and sound experience located within the WAFI City mall.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318711,
+                        25.229234
+                  ]
+            },
+            {
+                  "name": "Dubai Dolphinarium",
+                  "text": "A climate-controlled indoor venue offering live dolphin and fur seal shows in Creek Park.",
+                  "category": "recreational",
+                  "coords": [
+                        55.326794,
+                        25.23458
+                  ]
+            },
+            {
+                  "name": "Jameel Arts Centre",
+                  "text": "A contemporary art institution on the Jaddaf Waterfront featuring creative galleries and a design library.",
+                  "category": "museum",
+                  "coords": [
+                        55.340778,
+                        25.22909
+                  ]
+            },
+            {
+                  "name": "Dubai Frame",
+                  "text": "A 150-meter-tall architectural landmark offering panoramic views of old and new Dubai, opened in 2018.",
+                  "category": "museum",
+                  "coords": [
+                        55.300368,
+                        25.235458
+                  ]
+            },
+            {
+                  "name": "Children's City",
+                  "text": "An interactive \"edutainment\" city for kids in Creek Park featuring themed galleries on science and nature.",
+                  "category": "recreational",
+                  "coords": [
+                        55.328498,
+                        25.235886
+                  ]
+            },
+            {
+                  "name": "Creek Park",
+                  "text": "A large urban park on the creek featuring botanical gardens and waterfront picnic spots.",
+                  "category": "park",
+                  "coords": [
+                        55.327139,
+                        25.239084
+                  ]
+            },
+            {
+                  "name": "Wonderland Theme & Water Park",
+                  "text": "Large theme and water park featuring numerous slides and amusement rides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        55.329979,
+                        25.232096
+                  ]
+            },
+            {
+                  "name": "St. Thomas Orthodox Cathedral",
+                  "text": "Significant Orthodox cathedral serving as a spiritual center for the Malankara community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.315133,
+                        25.239626
+                  ]
+            },
+            {
+                  "name": "Hamad Dhaein Al Huwaidi masjid",
+                  "text": "A classic mosque with traditional architecture for daily prayers in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        55.302354,
+                        25.237264
+                  ]
+            },
+            {
+                  "name": "Sheikh Hamdan Bin Rashid Masjid",
+                  "text": "Modern Islamic place of worship with an elegant facade near the Dubai Frame.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351458,
+                        25.238048
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Darrai",
+                  "text": "Local mosque noted for its simple, functional design serving the community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346445,
+                        25.241988
+                  ]
+            },
+            {
+                  "name": "Al Majeed Mosque",
+                  "text": "A peaceful place of prayer with a distinctive minaret in the heart of the district.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322231,
+                        25.21755
+                  ]
+            },
+            {
+                  "name": "Karama Market",
+                  "text": "Lively market especially known for affordable textiles, clothing, and leather goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.303747,
+                        25.23739
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.3003, 25.2355],
@@ -579,7 +4764,376 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ain-dubai-landmarks-v2",
+    id: "ain-dubai-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "SplashPad",
+                  "text": "Ein interaktiver Wasserspielplatz für Kinder auf Bluewaters Island, direkt im Schatten des Ain Dubai Riesenrads.",
+                  "category": "recreational",
+                  "coords": [
+                        55.132608,
+                        25.078554
+                  ]
+            },
+            {
+                  "name": "Yacht Rental Dubai Marina",
+                  "text": "Ein Bootsverleih in der Dubai Marina, der private Fahrten entlang der luxuriösen Küste von Jumeirah Beach Residence anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        55.124389,
+                        25.072636
+                  ]
+            },
+            {
+                  "name": "Illusion City Dubai",
+                  "text": "Dieses interaktive Museum bietet verblüffende optische Täuschungen und Trick-Art-Installationen, die die menschliche Wahrnehmung herausfordern.",
+                  "category": "museum",
+                  "coords": [
+                        55.122729,
+                        25.079484
+                  ]
+            },
+            {
+                  "name": "Ibn Batuta Gate",
+                  "text": "Dieser monumentale Torbogen ist dem berühmten marokkanischen Entdecker des 14. Jahrhunderts gewidmet und zeigt beeindruckende arabische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        55.115804,
+                        25.04108
+                  ]
+            },
+            {
+                  "name": "Gurudwara Jabal Ali",
+                  "text": "Diese große Sikh-Andachtsstätte ist für ihre Gemeinschaftsküche bekannt, in der täglich kostenlose Mahlzeiten an Besucher ausgegeben werden.",
+                  "category": "landmark",
+                  "coords": [
+                        55.113648,
+                        25.027489
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi Church",
+                  "text": "Die katholische Kirche im Jebel Ali Village bedient die lokale Gemeinde und ist Teil des Apostolischen Vikariats Südliches Arabien.",
+                  "category": "religious",
+                  "coords": [
+                        55.113844,
+                        25.025855
+                  ]
+            },
+            {
+                  "name": "Ain Dubai",
+                  "text": "Mit 250 Metern Höhe auf Bluewaters Island ist dies das weltgrößte Riesenrad, das 2021 eröffnet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        55.123789,
+                        25.080051
+                  ]
+            },
+            {
+                  "name": "Marina Beach Dubai",
+                  "text": "Der helle Sandstrand an der JBR-Uferpromenade bietet einen weiten Blick auf den Persischen Golf und das Riesenrad Ain Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.133238,
+                        25.080978
+                  ]
+            },
+            {
+                  "name": "Skydive Dubai",
+                  "text": "Dieses Zentrum bietet Tandem-Fallschirmsprünge mit spektakulärer Aussicht auf die ikonische künstliche Insel Palm Jumeirah an.",
+                  "category": "landmark",
+                  "coords": [
+                        55.134005,
+                        25.090601
+                  ]
+            },
+            {
+                  "name": "Banya Forest",
+                  "text": "Dieses Wellnesszentrum bietet traditionelle russische Dampfbäder (Banyas) in rustikalen Holzhütten für ein authentisches Sauna-Erlebnis an.",
+                  "category": "recreational",
+                  "coords": [
+                        55.11965,
+                        25.079451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SplashPad",
+                  "text": "Interaktív vízi játszótér gyerekeknek a Bluewaters-szigeten, közvetlenül az Ain Dubai óriáskerék árnyékában.",
+                  "category": "recreational",
+                  "coords": [
+                        55.132608,
+                        25.078554
+                  ]
+            },
+            {
+                  "name": "Yacht Rental Dubai Marina",
+                  "text": "Hajókölcsönző a Dubai Marinában, amely privát utakat kínál a Jumeirah Beach Residence luxuspartja mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        55.124389,
+                        25.072636
+                  ]
+            },
+            {
+                  "name": "Illusion City Dubai",
+                  "text": "Ez az interaktív múzeum megdöbbentő optikai csalódásokkal és trükkös művészeti installációkkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        55.122729,
+                        25.079484
+                  ]
+            },
+            {
+                  "name": "Ibn Batuta Gate",
+                  "text": "Ez a monumentális boltív a 14. századi híres marokkói utazóról kapta a nevét, és pazar arab építészeti stílust mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        55.115804,
+                        25.04108
+                  ]
+            },
+            {
+                  "name": "Gurudwara Jabal Ali",
+                  "text": "Ez a hatalmas szikh templom a közösségi konyhájáról (langar) ismert, ahol naponta ingyenes ételeket szolgálnak fel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.113648,
+                        25.027489
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi Church",
+                  "text": "A Jebel Ali Village-ben található katolikus templom a helyi közösséget szolgálja, és a Dél-Arábiai Apostoli Vikariátus része.",
+                  "category": "religious",
+                  "coords": [
+                        55.113844,
+                        25.025855
+                  ]
+            },
+            {
+                  "name": "Ain Dubai",
+                  "text": "A Bluewaters-szigeten található, 250 méter magas óriáskerék a világ legnagyobbja, amelyet 2021-ben nyitottak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        55.123789,
+                        25.080051
+                  ]
+            },
+            {
+                  "name": "Marina Beach Dubai",
+                  "text": "A JBR sétány mentén fekvő homokos tengerpartról pazar kilátás nyílik a Perzsa-öbölre és az Ain Dubai óriáskerékre.",
+                  "category": "recreational",
+                  "coords": [
+                        55.133238,
+                        25.080978
+                  ]
+            },
+            {
+                  "name": "Skydive Dubai",
+                  "text": "Ez a központ tandem ejtőernyős ugrásokat kínál, lenyűgöző kilátással az ikonikus Pálma-szigetre (Palm Jumeirah).",
+                  "category": "landmark",
+                  "coords": [
+                        55.134005,
+                        25.090601
+                  ]
+            },
+            {
+                  "name": "Banya Forest",
+                  "text": "Ez a wellnessközpont hagyományos orosz gőzfürdőket (banyákat) kínál rusztikus faházakban, autentikus szaunaélményt nyújtva.",
+                  "category": "recreational",
+                  "coords": [
+                        55.11965,
+                        25.079451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SplashPad",
+                  "text": "Un teren de joacă acvatic interactiv pentru copii pe insula Bluewaters, situat chiar la umbra roții Ain Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.132608,
+                        25.078554
+                  ]
+            },
+            {
+                  "name": "Yacht Rental Dubai Marina",
+                  "text": "Un serviciu de închiriere iahturi în Dubai Marina, oferind croaziere private de-a lungul coastei luxoase JBR.",
+                  "category": "recreational",
+                  "coords": [
+                        55.124389,
+                        25.072636
+                  ]
+            },
+            {
+                  "name": "Illusion City Dubai",
+                  "text": "Acest muzeu interactiv prezintă iluzii optice uimitoare și instalații de artă care provoacă percepția vizitatorilor.",
+                  "category": "museum",
+                  "coords": [
+                        55.122729,
+                        25.079484
+                  ]
+            },
+            {
+                  "name": "Ibn Batuta Gate",
+                  "text": "Această arcadă monumentală este dedicată exploratorului marocan din secolul al XIV-al și prezintă o arhitectură arabă impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.115804,
+                        25.04108
+                  ]
+            },
+            {
+                  "name": "Gurudwara Jabal Ali",
+                  "text": "Acest lăcaș de cult sikh este renumit pentru bucătăria sa comunitară, unde se oferă zilnic mese gratuite vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        55.113648,
+                        25.027489
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi Church",
+                  "text": "Această biserică catolică din Jebel Ali deservește comunitatea locală și face parte din Vicariatul Apostolic al Arabiei de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        55.113844,
+                        25.025855
+                  ]
+            },
+            {
+                  "name": "Ain Dubai",
+                  "text": "Situată pe insula Bluewaters, această roată de observație de 250 de metri înălțime este cea mai mare din lume, fiind inaugurată în 2021.",
+                  "category": "landmark",
+                  "coords": [
+                        55.123789,
+                        25.080051
+                  ]
+            },
+            {
+                  "name": "Marina Beach Dubai",
+                  "text": "Această plajă cu nisip fin de-a lungul promenadei JBR oferă o vedere panoramică asupra Golfului Persic și a roții Ain Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.133238,
+                        25.080978
+                  ]
+            },
+            {
+                  "name": "Skydive Dubai",
+                  "text": "Acest centru de parașutism oferă salturi în tandem cu vederi spectaculoase asupra emblematicei insule artificiale Palm Jumeirah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.134005,
+                        25.090601
+                  ]
+            },
+            {
+                  "name": "Banya Forest",
+                  "text": "Acest centru de wellness oferă băi rusești tradiționale (banya) în cabane rustice de lemn, pentru o experiență autentică.",
+                  "category": "recreational",
+                  "coords": [
+                        55.11965,
+                        25.079451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SplashPad",
+                  "text": "An interactive water play area for children on Bluewaters Island, located right in the shadow of the Ain Dubai wheel.",
+                  "category": "recreational",
+                  "coords": [
+                        55.132608,
+                        25.078554
+                  ]
+            },
+            {
+                  "name": "Yacht Rental Dubai Marina",
+                  "text": "A yacht rental service in Dubai Marina offering private cruises along the luxury coastline of Jumeirah Beach Residence.",
+                  "category": "recreational",
+                  "coords": [
+                        55.124389,
+                        25.072636
+                  ]
+            },
+            {
+                  "name": "Illusion City Dubai",
+                  "text": "This interactive museum features mind-bending optical illusions and trick-art installations that challenge your perception.",
+                  "category": "museum",
+                  "coords": [
+                        55.122729,
+                        25.079484
+                  ]
+            },
+            {
+                  "name": "Ibn Batuta Gate",
+                  "text": "This monumental archway is dedicated to the famous 14th-century Moroccan explorer and features grand Arabian architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.115804,
+                        25.04108
+                  ]
+            },
+            {
+                  "name": "Gurudwara Jabal Ali",
+                  "text": "This large Sikh place of worship is known for its community kitchen (langar) which serves free meals to all visitors daily.",
+                  "category": "landmark",
+                  "coords": [
+                        55.113648,
+                        25.027489
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi Church",
+                  "text": "This Catholic church in Jebel Ali serves the local community and is part of the Apostolic Vicariate of Southern Arabia.",
+                  "category": "religious",
+                  "coords": [
+                        55.113844,
+                        25.025855
+                  ]
+            },
+            {
+                  "name": "Ain Dubai",
+                  "text": "Standing 250 meters tall on Bluewaters Island, this is the world's largest observation wheel, which opened in 2021.",
+                  "category": "landmark",
+                  "coords": [
+                        55.123789,
+                        25.080051
+                  ]
+            },
+            {
+                  "name": "Marina Beach Dubai",
+                  "text": "This sandy shoreline along the JBR waterfront offers expansive views of the Persian Gulf and the Ain Dubai wheel.",
+                  "category": "recreational",
+                  "coords": [
+                        55.133238,
+                        25.080978
+                  ]
+            },
+            {
+                  "name": "Skydive Dubai",
+                  "text": "This skydiving center offers tandem jumps with spectacular views over the iconic Palm Jumeirah man-made island.",
+                  "category": "landmark",
+                  "coords": [
+                        55.134005,
+                        25.090601
+                  ]
+            },
+            {
+                  "name": "Banya Forest",
+                  "text": "This wellness center offers traditional Russian steam baths (banyas) in rustic wooden cabins for an authentic sauna experience.",
+                  "category": "recreational",
+                  "coords": [
+                        55.11965,
+                        25.079451
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1228, 25.0797],
@@ -643,7 +5197,556 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "museum-of-the-future-landmarks-v2",
+    id: "museum-of-the-future-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Aquarium",
+                  "text": "Eines der größten Aquarien im Nahen Osten beherbergt Tausende von Meeresbewohnern in riesigen Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        55.273021,
+                        25.230159
+                  ]
+            },
+            {
+                  "name": "ProArt Gallery",
+                  "text": "Diese Galerie für zeitgenössische Kunst zeigt eine vielfältige Auswahl an Werken internationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        55.264909,
+                        25.234516
+                  ]
+            },
+            {
+                  "name": "The Empty Quarter Gallery",
+                  "text": "Diese spezialisierte Galerie zeigt beeindruckende Kunstfotografie, die sich auf die Wüstenlandschaften und die Kultur des Nahen Ostens konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        55.282383,
+                        25.213255
+                  ]
+            },
+            {
+                  "name": "The Theater Dubai",
+                  "text": "Ein luxuriöses Unterhaltungszentrum, das aufwendige Kabarett-Shows mit gehobener Gastronomie in einem prunkvollen Saal verbindet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.284195,
+                        25.226516
+                  ]
+            },
+            {
+                  "name": "Dubai Fine Arts",
+                  "text": "Diese zeitgenössische Kunstgalerie im Finanzviertel präsentiert Werke internationaler und lokaler Künstler in einem modernen Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        55.279204,
+                        25.21573
+                  ]
+            },
+            {
+                  "name": "Boat Model",
+                  "text": "Ein maritimes Denkmal, das eine traditionelle Dhau darstellt und an die reiche Seefahrtsgeschichte der Emirate erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        55.273239,
+                        25.239007
+                  ]
+            },
+            {
+                  "name": "Al Wasl Park",
+                  "text": "Ein gepflegter Stadtpark in der Nähe des World Trade Centre, der schattige Grünflächen inmitten der Wolkenkratzer bietet.",
+                  "category": "park",
+                  "coords": [
+                        55.265906,
+                        25.222593
+                  ]
+            },
+            {
+                  "name": "Zabeel Palace",
+                  "text": "Die offizielle Residenz der Herrscherfamilie, bekannt für ihre prächtigen Tore und die Pfauen, die oft auf dem Gelände herumlaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.301789,
+                        25.209276
+                  ]
+            },
+            {
+                  "name": "Latifa Tower",
+                  "text": "Ein im Jahr 2011 fertiggestellter, 56-stöckiger Wolkenkratzer an der Sheikh Zayed Road mit einer markanten Glasfassade.",
+                  "category": "tower",
+                  "coords": [
+                        55.280996,
+                        25.221686
+                  ]
+            },
+            {
+                  "name": "Museum Of The Future",
+                  "text": "Dieses architektonische Wunderwerk in Torusform ist mit arabischer Kalligrafie verziert und wurde am 22. Februar 2022 eröffnet.",
+                  "category": "museum",
+                  "coords": [
+                        55.281829,
+                        25.219112
+                  ]
+            },
+            {
+                  "name": "Burj Daman Masjid",
+                  "text": "Eine moderne muslimische Gebetsstätte im Burj Daman Komplex, die den im Finanzzentrum arbeitenden Menschen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.281597,
+                        25.210824
+                  ]
+            },
+            {
+                  "name": "Obai Bin Kaab",
+                  "text": "Eine lokale Moschee im Stadtviertel, die als ruhiger Ort für das tägliche Gebet der umliegenden Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.27476,
+                        25.219583
+                  ]
+            },
+            {
+                  "name": "Khadri Masjid",
+                  "text": "Diese Moschee im Viertel Satwa zeichnet sich durch ihre traditionellen Minarette und die lokale religiöse Bedeutung aus.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270825,
+                        25.222398
+                  ]
+            },
+            {
+                  "name": "Al Satwa Mosque",
+                  "text": "Eine markante Moschee im belebten Viertel Satwa, die ein wichtiges spirituelles Zentrum für die Bewohner darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.277167,
+                        25.232121
+                  ]
+            },
+            {
+                  "name": "La Villa Banya",
+                  "text": "Ein Wellness-Zentrum, das traditionelle russische Dampfbäder und Saunarituale in einer privaten Villen-Atmosphäre anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        55.263543,
+                        25.233795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Aquarium",
+                  "text": "A Közel-Kelet egyik legnagyobb akváriuma tengeri élőlények ezreinek ad otthont hatalmas medencéiben.",
+                  "category": "recreational",
+                  "coords": [
+                        55.273021,
+                        25.230159
+                  ]
+            },
+            {
+                  "name": "ProArt Gallery",
+                  "text": "Ez a kortárs művészeti galéria nemzetközi művészek alkotásainak változatos választékát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.264909,
+                        25.234516
+                  ]
+            },
+            {
+                  "name": "The Empty Quarter Gallery",
+                  "text": "Ez a galéria a Közel-Kelet sivatagi tájaira és kultúrájára összpontosító művészeti fotográfiákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        55.282383,
+                        25.213255
+                  ]
+            },
+            {
+                  "name": "The Theater Dubai",
+                  "text": "Luxus szórakozóhely, amely látványos kabaré-műsorokat ötvöz elegáns gasztronómiával egy pompás teremben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.284195,
+                        25.226516
+                  ]
+            },
+            {
+                  "name": "Dubai Fine Arts",
+                  "text": "Ez a pénzügyi negyedben található kortárs galéria nemzetközi és helyi művészek alkotásait mutatja be modern környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        55.279204,
+                        25.21573
+                  ]
+            },
+            {
+                  "name": "Boat Model",
+                  "text": "Hagyományos dhow hajót ábrázoló tengerészeti emlékmű, amely az Emírségek gazdag hajózási múltjára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        55.273239,
+                        25.239007
+                  ]
+            },
+            {
+                  "name": "Al Wasl Park",
+                  "text": "Gondozott városi park a World Trade Centre közelében, amely árnyas zöldfelületeket kínál a felhőkarcolók között.",
+                  "category": "park",
+                  "coords": [
+                        55.265906,
+                        25.222593
+                  ]
+            },
+            {
+                  "name": "Zabeel Palace",
+                  "text": "Az uralkodócsalád hivatalos rezidenciája, amely díszes kapuiról és a kertben sétáló páváiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.301789,
+                        25.209276
+                  ]
+            },
+            {
+                  "name": "Latifa Tower",
+                  "text": "A Sheikh Zayed úton álló, 2011-ben elkészült 56 emeletes felhőkarcoló, amely jellegzetes üveghomlokzattal rendelkezik.",
+                  "category": "tower",
+                  "coords": [
+                        55.280996,
+                        25.221686
+                  ]
+            },
+            {
+                  "name": "Museum Of The Future",
+                  "text": "Ez a tórusz alakú építészeti csoda arab kalligráfiával van díszítve, és 2022. február 22-én nyitotta meg kapuit.",
+                  "category": "museum",
+                  "coords": [
+                        55.281829,
+                        25.219112
+                  ]
+            },
+            {
+                  "name": "Burj Daman Masjid",
+                  "text": "Modern muszlim imaház a Burj Daman komplexumban, amely a pénzügyi központban dolgozókat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.281597,
+                        25.210824
+                  ]
+            },
+            {
+                  "name": "Obai Bin Kaab",
+                  "text": "Helyi mecset a negyedben, amely csendes helyszínt biztosít a környező közösség napi imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.27476,
+                        25.219583
+                  ]
+            },
+            {
+                  "name": "Khadri Masjid",
+                  "text": "Ez a Satwa negyedben található mecset hagyományos minaretjeiről és helyi vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270825,
+                        25.222398
+                  ]
+            },
+            {
+                  "name": "Al Satwa Mosque",
+                  "text": "Jellegzetes mecset a nyüzsgő Satwa negyedben, amely fontos spirituális központ a lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        55.277167,
+                        25.232121
+                  ]
+            },
+            {
+                  "name": "La Villa Banya",
+                  "text": "Wellness központ, amely hagyományos orosz gőzfürdőket és szaunarituálékat kínál privát villa-környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        55.263543,
+                        25.233795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Aquarium",
+                  "text": "Unul dintre cele mai mari acvarii din Orientul Mijlociu, care găzduiește mii de specii marine.",
+                  "category": "recreational",
+                  "coords": [
+                        55.273021,
+                        25.230159
+                  ]
+            },
+            {
+                  "name": "ProArt Gallery",
+                  "text": "Acest spațiu de artă contemporană prezintă o gamă diversă de lucrări ale artiștilor globali.",
+                  "category": "museum",
+                  "coords": [
+                        55.264909,
+                        25.234516
+                  ]
+            },
+            {
+                  "name": "The Empty Quarter Gallery",
+                  "text": "Această galerie este specializată în fotografie artistică ce surprinde peisajele deșertice și cultura Orientului Mijlociu.",
+                  "category": "museum",
+                  "coords": [
+                        55.282383,
+                        25.213255
+                  ]
+            },
+            {
+                  "name": "The Theater Dubai",
+                  "text": "Un centru de divertisment de lux care combină spectacole de cabaret elaborate cu gastronomie fină într-o sală opulentă.",
+                  "category": "cultural",
+                  "coords": [
+                        55.284195,
+                        25.226516
+                  ]
+            },
+            {
+                  "name": "Dubai Fine Arts",
+                  "text": "Această galerie de artă contemporană din cartierul financiar prezintă lucrări ale artiștilor internaționali și locali într-un cadru modern.",
+                  "category": "museum",
+                  "coords": [
+                        55.279204,
+                        25.21573
+                  ]
+            },
+            {
+                  "name": "Boat Model",
+                  "text": "Un monument maritim care reprezintă un dhow tradițional, amintind de istoria navală bogată a Emiratelor.",
+                  "category": "historical",
+                  "coords": [
+                        55.273239,
+                        25.239007
+                  ]
+            },
+            {
+                  "name": "Al Wasl Park",
+                  "text": "Un parc urban îngrijit lângă World Trade Centre, oferind spații verzi umbrite în mijlocul zgârie-norilor.",
+                  "category": "park",
+                  "coords": [
+                        55.265906,
+                        25.222593
+                  ]
+            },
+            {
+                  "name": "Zabeel Palace",
+                  "text": "Reședința oficială a familiei domnitoare, cunoscută pentru porțile sale magnifice și păunii care se plimbă adesea pe domeniu.",
+                  "category": "landmark",
+                  "coords": [
+                        55.301789,
+                        25.209276
+                  ]
+            },
+            {
+                  "name": "Latifa Tower",
+                  "text": "Un zgârie-nori de 56 de etaje finalizat în 2011 pe Sheikh Zayed Road, având o fațadă de sticlă distinctivă.",
+                  "category": "tower",
+                  "coords": [
+                        55.280996,
+                        25.221686
+                  ]
+            },
+            {
+                  "name": "Museum Of The Future",
+                  "text": "Această minune arhitecturală în formă de torus este decorată cu caligrafie arabă și a fost inaugurată pe 22 februarie 2022.",
+                  "category": "museum",
+                  "coords": [
+                        55.281829,
+                        25.219112
+                  ]
+            },
+            {
+                  "name": "Burj Daman Masjid",
+                  "text": "Un lăcaș de cult musulman modern situat în complexul Burj Daman, deservind persoanele care lucrează în centrul financiar.",
+                  "category": "landmark",
+                  "coords": [
+                        55.281597,
+                        25.210824
+                  ]
+            },
+            {
+                  "name": "Obai Bin Kaab",
+                  "text": "O moschee locală din cartier care servește ca loc liniștit pentru rugăciunile zilnice ale comunității din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        55.27476,
+                        25.219583
+                  ]
+            },
+            {
+                  "name": "Khadri Masjid",
+                  "text": "Această moschee din cartierul Satwa se remarcă prin minaretele sale tradiționale și importanța religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270825,
+                        25.222398
+                  ]
+            },
+            {
+                  "name": "Al Satwa Mosque",
+                  "text": "O moschee proeminentă în cartierul plin de viață Satwa, reprezentând un centru spiritual important pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        55.277167,
+                        25.232121
+                  ]
+            },
+            {
+                  "name": "La Villa Banya",
+                  "text": "Un centru de wellness care oferă băi de aburi rusești tradiționale și ritualuri de saună într-o atmosferă privată de vilă.",
+                  "category": "recreational",
+                  "coords": [
+                        55.263543,
+                        25.233795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Aquarium",
+                  "text": "One of the largest aquariums in the Middle East, housing thousands of marine species.",
+                  "category": "recreational",
+                  "coords": [
+                        55.273021,
+                        25.230159
+                  ]
+            },
+            {
+                  "name": "ProArt Gallery",
+                  "text": "This contemporary art space showcases a diverse range of works from global artists.",
+                  "category": "museum",
+                  "coords": [
+                        55.264909,
+                        25.234516
+                  ]
+            },
+            {
+                  "name": "The Empty Quarter Gallery",
+                  "text": "This specialized gallery showcases fine art photography focusing on the desert landscapes and culture of the Middle East.",
+                  "category": "museum",
+                  "coords": [
+                        55.282383,
+                        25.213255
+                  ]
+            },
+            {
+                  "name": "The Theater Dubai",
+                  "text": "A luxury entertainment venue combining elaborate cabaret shows with fine dining in an opulent hall.",
+                  "category": "cultural",
+                  "coords": [
+                        55.284195,
+                        25.226516
+                  ]
+            },
+            {
+                  "name": "Dubai Fine Arts",
+                  "text": "This contemporary art gallery in the financial district showcases works by international and local artists in a modern setting.",
+                  "category": "museum",
+                  "coords": [
+                        55.279204,
+                        25.21573
+                  ]
+            },
+            {
+                  "name": "Boat Model",
+                  "text": "A maritime monument depicting a traditional dhow, commemorating the rich seafaring history of the Emirates.",
+                  "category": "historical",
+                  "coords": [
+                        55.273239,
+                        25.239007
+                  ]
+            },
+            {
+                  "name": "Al Wasl Park",
+                  "text": "A manicured urban park near the World Trade Centre, offering shaded green spaces amidst the skyscrapers.",
+                  "category": "park",
+                  "coords": [
+                        55.265906,
+                        25.222593
+                  ]
+            },
+            {
+                  "name": "Zabeel Palace",
+                  "text": "The official residence of the ruling family, known for its grand gates and the peacocks that often roam the grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        55.301789,
+                        25.209276
+                  ]
+            },
+            {
+                  "name": "Latifa Tower",
+                  "text": "A 56-story skyscraper completed in 2011 on Sheikh Zayed Road, featuring a prominent glass facade.",
+                  "category": "tower",
+                  "coords": [
+                        55.280996,
+                        25.221686
+                  ]
+            },
+            {
+                  "name": "Museum Of The Future",
+                  "text": "This torus-shaped architectural marvel is adorned with Arabic calligraphy and opened its doors on February 22, 2022.",
+                  "category": "museum",
+                  "coords": [
+                        55.281829,
+                        25.219112
+                  ]
+            },
+            {
+                  "name": "Burj Daman Masjid",
+                  "text": "A modern Muslim prayer space located within the Burj Daman complex, serving those working in the financial hub.",
+                  "category": "landmark",
+                  "coords": [
+                        55.281597,
+                        25.210824
+                  ]
+            },
+            {
+                  "name": "Obai Bin Kaab",
+                  "text": "A local neighborhood mosque providing a peaceful space for daily prayers for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.27476,
+                        25.219583
+                  ]
+            },
+            {
+                  "name": "Khadri Masjid",
+                  "text": "This mosque in the Satwa district is noted for its traditional minarets and local religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        55.270825,
+                        25.222398
+                  ]
+            },
+            {
+                  "name": "Al Satwa Mosque",
+                  "text": "A prominent mosque in the busy Satwa district, serving as an important spiritual center for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        55.277167,
+                        25.232121
+                  ]
+            },
+            {
+                  "name": "La Villa Banya",
+                  "text": "A wellness center offering traditional Russian steam baths and sauna rituals in a private villa atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        55.263543,
+                        25.233795
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2818, 25.2192],
@@ -707,7 +5810,628 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "emirates-palace-landmarks-v2",
+    id: "emirates-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "Eine luxuriöse Galerie im Emirates Palace, die exklusiven Schmuck und hochwertige Kunstgegenstände präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        54.318377,
+                        24.474644
+                  ]
+            },
+            {
+                  "name": "Visitors Center",
+                  "text": "Ein modernes Besucherzentrum, das durch multimediale Ausstellungen die rasante Entwicklung Abu Dhabis dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        54.3226,
+                        24.464728
+                  ]
+            },
+            {
+                  "name": "Tarik Kiswanson's \"Nest\"",
+                  "text": "Eine markante kokonförmige Skulptur an der Corniche, die als Teil einer Kunstinitiative Themen wie Identität und Schutz erkundet.",
+                  "category": "landmark",
+                  "coords": [
+                        54.328627,
+                        24.464982
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Diese Rekonstruktion eines Wüstendorfes zeigt traditionelle Beduinen-Zelte, ein Bewässerungssystem und alte Handwerkstechniken.",
+                  "category": "museum",
+                  "coords": [
+                        54.331423,
+                        24.476431
+                  ]
+            },
+            {
+                  "name": "ad shekha",
+                  "text": "Ein Aussichtspunkt an der Küste, der einen weiten Blick über den Persischen Golf und die Skyline der Hauptstadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342925,
+                        24.454718
+                  ]
+            },
+            {
+                  "name": "intercontinental",
+                  "text": "Ein architektonisch markantes Hotel am Wasser, das für seinen privaten Jachthafen und seine erstklassige Gastronomie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        54.327639,
+                        24.456986
+                  ]
+            },
+            {
+                  "name": "Observation Deck at 300",
+                  "text": "Diese Aussichtsplattform im 74. Stock der Etihad Towers ist mit 300 Metern der höchste öffentlich zugängliche Punkt der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.321662,
+                        24.458318
+                  ]
+            },
+            {
+                  "name": "Dhow Monument",
+                  "text": "Ein steinernes Denkmal für eine traditionelle Dhau, das an die Bedeutung des Segelschiffs für den Handel und die Perlenfischerei erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        54.322644,
+                        24.470642
+                  ]
+            },
+            {
+                  "name": "Nation Rivera Beach",
+                  "text": "Ein exklusiver Strandclub an der Corniche, der durch einen unterirdischen Tunnel direkt mit den Nation Towers verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        54.327646,
+                        24.466293
+                  ]
+            },
+            {
+                  "name": "West Bay Beach",
+                  "text": "Ein ruhiger öffentlicher Strand am westlichen Ende der Corniche, ideal zum Schwimmen im türkisfarbenen Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        54.324777,
+                        24.465048
+                  ]
+            },
+            {
+                  "name": "Lighthouse Momument",
+                  "text": "Dieses dekorative Leuchtturm-Denkmal steht markant am Ende des Wellenbrechers in der Nähe des Heritage Village.",
+                  "category": "historical",
+                  "coords": [
+                        54.324217,
+                        24.463393
+                  ]
+            },
+            {
+                  "name": "Al Bahar Beach",
+                  "text": "Ein belebter Strandabschnitt mit Cafés und Sportplätzen, der als moderner Freizeitbereich an der Corniche gestaltet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        54.330977,
+                        24.468311
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Ein kleiner Tierbereich im Heritage Village, in dem Besucher Kamele und arabische Pferde aus nächster Nähe sehen können.",
+                  "category": "recreational",
+                  "coords": [
+                        54.33036,
+                        24.476032
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Theater",
+                  "text": "Ein modernes Theater am Wellenbrecher von Abu Dhabi, das regelmäßig Aufführungen und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332468,
+                        24.47806
+                  ]
+            },
+            {
+                  "name": "Corniche Family Beach",
+                  "text": "Ein mit der Blauen Flagge ausgezeichneter Strand an der Corniche mit speziellen Zonen für Familien und ruhiges Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        54.336121,
+                        24.471343
+                  ]
+            },
+            {
+                  "name": "Al Bateen Mosque",
+                  "text": "Diese elegante weiße Moschee mit ihren markanten Kuppeln liegt im historischen Viertel Al Bateen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331195,
+                        24.458151
+                  ]
+            },
+            {
+                  "name": "Marina Walk Carnival",
+                  "text": "Ein saisonaler Jahrmarkt am Wasser mit Verkaufsständen und Fahrgeschäften in der Nähe der Marina Mall.",
+                  "category": "cultural",
+                  "coords": [
+                        54.324845,
+                        24.476495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "Az Emirates Palace-ban található luxusgaléria, amely exkluzív ékszereket és kiváló műtárgyakat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        54.318377,
+                        24.474644
+                  ]
+            },
+            {
+                  "name": "Visitors Center",
+                  "text": "Modern látogatóközpont, amely multimédiás kiállításokon keresztül mutatja be Abu Dhabi gyors fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        54.3226,
+                        24.464728
+                  ]
+            },
+            {
+                  "name": "Tarik Kiswanson's \"Nest\"",
+                  "text": "Egy feltűnő kokon alakú szobor a Corniche sétányon, amely az identitás és a védelem témáit járja körül.",
+                  "category": "landmark",
+                  "coords": [
+                        54.328627,
+                        24.464982
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Ez a sivatagi falu-rekonstrukció hagyományos beduin sátrakat, öntözőrendszert és régi kézműves technikákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        54.331423,
+                        24.476431
+                  ]
+            },
+            {
+                  "name": "ad shekha",
+                  "text": "Egy tengerparti kilátópont, ahonnan pazar kilátás nyílik az Arab-öbölre és a főváros felhőkarcolóira.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342925,
+                        24.454718
+                  ]
+            },
+            {
+                  "name": "intercontinental",
+                  "text": "Egy építészetileg kiemelkedő vízparti szálloda, amely saját jachtkikötőjéről és kiváló gasztronómiájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        54.327639,
+                        24.456986
+                  ]
+            },
+            {
+                  "name": "Observation Deck at 300",
+                  "text": "Az Etihad Towers 74. emeletén található kilátó 300 méteres magasságával a város legmagasabb nyilvános pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        54.321662,
+                        24.458318
+                  ]
+            },
+            {
+                  "name": "Dhow Monument",
+                  "text": "Egy hagyományos dhow vitorlást ábrázoló kőemlékmű, amely a kereskedelem és a gyöngyhalászat fontosságára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        54.322644,
+                        24.470642
+                  ]
+            },
+            {
+                  "name": "Nation Rivera Beach",
+                  "text": "Egy exkluzív strandklub a Corniche-on, amelyet egy föld alatti alagút köt össze közvetlenül a Nation Towers-szel.",
+                  "category": "recreational",
+                  "coords": [
+                        54.327646,
+                        24.466293
+                  ]
+            },
+            {
+                  "name": "West Bay Beach",
+                  "text": "Egy nyugodt nyilvános strand a Corniche nyugati végén, amely ideális úszásra a türkizkék vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        54.324777,
+                        24.465048
+                  ]
+            },
+            {
+                  "name": "Lighthouse Momument",
+                  "text": "Ez a dekoratív világítótorony-emlékmű a hullámtörő gát végén áll, a Heritage Village közelében.",
+                  "category": "historical",
+                  "coords": [
+                        54.324217,
+                        24.463393
+                  ]
+            },
+            {
+                  "name": "Al Bahar Beach",
+                  "text": "Egy élénk strandszakasz kávézókkal és sportpályákkal, amelyet modern szabadidős területként alakítottak ki a Corniche-on.",
+                  "category": "recreational",
+                  "coords": [
+                        54.330977,
+                        24.468311
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "A Heritage Village kis állatkertje, ahol a látogatók tevéket és arab lovakat láthatnak közelről.",
+                  "category": "recreational",
+                  "coords": [
+                        54.33036,
+                        24.476032
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Theater",
+                  "text": "Egy modern színház Abu Dhabi hullámtörőjénél, amely rendszeresen ad otthont előadásoknak és kulturális eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332468,
+                        24.47806
+                  ]
+            },
+            {
+                  "name": "Corniche Family Beach",
+                  "text": "Kék Zászló minősítésű strand a Corniche-on, külön zónákkal a családok és a csendes pihenés számára.",
+                  "category": "recreational",
+                  "coords": [
+                        54.336121,
+                        24.471343
+                  ]
+            },
+            {
+                  "name": "Al Bateen Mosque",
+                  "text": "Ez az elegáns fehér mecset jellegzetes kupoláival Al Bateen történelmi negyedében található.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331195,
+                        24.458151
+                  ]
+            },
+            {
+                  "name": "Marina Walk Carnival",
+                  "text": "Szezonális vízparti vásár és vidámpark árusokkal és játékokkal a Marina Mall közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        54.324845,
+                        24.476495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "O galerie de lux din Emirates Palace, care prezintă bijuterii exclusive și obiecte de artă de înaltă calitate.",
+                  "category": "landmark",
+                  "coords": [
+                        54.318377,
+                        24.474644
+                  ]
+            },
+            {
+                  "name": "Visitors Center",
+                  "text": "Un centru modern pentru vizitatori care documentează dezvoltarea rapidă a orașului Abu Dhabi prin expoziții multimedia.",
+                  "category": "museum",
+                  "coords": [
+                        54.3226,
+                        24.464728
+                  ]
+            },
+            {
+                  "name": "Tarik Kiswanson's \"Nest\"",
+                  "text": "O sculptură frapantă în formă de cocon pe Corniche, care explorează teme de identitate și adăpost.",
+                  "category": "landmark",
+                  "coords": [
+                        54.328627,
+                        24.464982
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Această reconstrucție a unui sat din deșert prezintă corturi beduine tradiționale, un sistem de irigații și tehnici meșteșugărești vechi.",
+                  "category": "museum",
+                  "coords": [
+                        54.331423,
+                        24.476431
+                  ]
+            },
+            {
+                  "name": "ad shekha",
+                  "text": "Un punct de observație la malul mării, oferind o vedere panoramică asupra Golfului Persic și a zgârie-norilor capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342925,
+                        24.454718
+                  ]
+            },
+            {
+                  "name": "intercontinental",
+                  "text": "Un hotel emblematic la malul apei, cunoscut pentru portul său privat de iahturi și gastronomia de top.",
+                  "category": "landmark",
+                  "coords": [
+                        54.327639,
+                        24.456986
+                  ]
+            },
+            {
+                  "name": "Observation Deck at 300",
+                  "text": "Această platformă de observație de la etajul 74 al Etihad Towers este cel mai înalt punct public din oraș, la 300 de metri înălțime.",
+                  "category": "landmark",
+                  "coords": [
+                        54.321662,
+                        24.458318
+                  ]
+            },
+            {
+                  "name": "Dhow Monument",
+                  "text": "Un monument din piatră ce reprezintă o ambarcațiune dhow tradițională, amintind de importanța navigației pentru comerț și pescuitul de perle.",
+                  "category": "historical",
+                  "coords": [
+                        54.322644,
+                        24.470642
+                  ]
+            },
+            {
+                  "name": "Nation Rivera Beach",
+                  "text": "Un club de plajă exclusivist pe Corniche, conectat direct la Nation Towers printr-un tunel subteran.",
+                  "category": "recreational",
+                  "coords": [
+                        54.327646,
+                        24.466293
+                  ]
+            },
+            {
+                  "name": "West Bay Beach",
+                  "text": "O plajă publică liniștită la capătul vestic al Corniche, ideală pentru înot în apele turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        54.324777,
+                        24.465048
+                  ]
+            },
+            {
+                  "name": "Lighthouse Momument",
+                  "text": "Acest monument decorativ sub formă de far străjuiește capătul digului de protecție, în apropiere de Heritage Village.",
+                  "category": "historical",
+                  "coords": [
+                        54.324217,
+                        24.463393
+                  ]
+            },
+            {
+                  "name": "Al Bahar Beach",
+                  "text": "O porțiune de plajă animată, cu cafenele și terenuri de sport, amenajată ca zonă modernă de recreere pe Corniche.",
+                  "category": "recreational",
+                  "coords": [
+                        54.330977,
+                        24.468311
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "O mică zonă cu animale în Heritage Village, unde vizitatorii pot vedea de aproape cămile și cai arabi.",
+                  "category": "recreational",
+                  "coords": [
+                        54.33036,
+                        24.476032
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Theater",
+                  "text": "Un teatru modern situat pe digul din Abu Dhabi, care găzduiește regulat spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332468,
+                        24.47806
+                  ]
+            },
+            {
+                  "name": "Corniche Family Beach",
+                  "text": "O plajă certificată Blue Flag pe Corniche, cu zone dedicate familiilor și relaxării liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        54.336121,
+                        24.471343
+                  ]
+            },
+            {
+                  "name": "Al Bateen Mosque",
+                  "text": "Această moschee albă elegantă, cu cupolele sale distinctive, este situată în cartierul istoric Al Bateen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331195,
+                        24.458151
+                  ]
+            },
+            {
+                  "name": "Marina Walk Carnival",
+                  "text": "Un bâlci sezonal pe malul apei, cu tarabe și atracții mecanice, situat în apropiere de Marina Mall.",
+                  "category": "cultural",
+                  "coords": [
+                        54.324845,
+                        24.476495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Hamadan",
+                  "text": "An upscale gallery within the Emirates Palace showcasing exclusive jewelry and fine art collectibles.",
+                  "category": "landmark",
+                  "coords": [
+                        54.318377,
+                        24.474644
+                  ]
+            },
+            {
+                  "name": "Visitors Center",
+                  "text": "A modern visitors center documenting Abu Dhabi's rapid development through multimedia exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        54.3226,
+                        24.464728
+                  ]
+            },
+            {
+                  "name": "Tarik Kiswanson's \"Nest\"",
+                  "text": "A striking cocoon-shaped sculpture on the Corniche exploring themes of identity and refuge.",
+                  "category": "landmark",
+                  "coords": [
+                        54.328627,
+                        24.464982
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "This reconstruction of a desert village features traditional Bedouin tents, an irrigation system, and old craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        54.331423,
+                        24.476431
+                  ]
+            },
+            {
+                  "name": "ad shekha",
+                  "text": "A coastal viewpoint offering expansive views over the Persian Gulf and the capital's skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342925,
+                        24.454718
+                  ]
+            },
+            {
+                  "name": "intercontinental",
+                  "text": "An architecturally prominent waterfront hotel known for its private marina and world-class dining.",
+                  "category": "landmark",
+                  "coords": [
+                        54.327639,
+                        24.456986
+                  ]
+            },
+            {
+                  "name": "Observation Deck at 300",
+                  "text": "Located on the 74th floor of Etihad Towers, this observation deck is the city's highest public vantage point at 300 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        54.321662,
+                        24.458318
+                  ]
+            },
+            {
+                  "name": "Dhow Monument",
+                  "text": "A stone monument of a traditional dhow vessel, commemorating the importance of sailing for trade and pearl diving.",
+                  "category": "historical",
+                  "coords": [
+                        54.322644,
+                        24.470642
+                  ]
+            },
+            {
+                  "name": "Nation Rivera Beach",
+                  "text": "An exclusive beach club on the Corniche connected directly to the Nation Towers via a subterranean tunnel.",
+                  "category": "recreational",
+                  "coords": [
+                        54.327646,
+                        24.466293
+                  ]
+            },
+            {
+                  "name": "West Bay Beach",
+                  "text": "A tranquil public beach at the western end of the Corniche, ideal for swimming in turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        54.324777,
+                        24.465048
+                  ]
+            },
+            {
+                  "name": "Lighthouse Momument",
+                  "text": "This decorative lighthouse monument stands prominently at the end of the breakwater near the Heritage Village.",
+                  "category": "historical",
+                  "coords": [
+                        54.324217,
+                        24.463393
+                  ]
+            },
+            {
+                  "name": "Al Bahar Beach",
+                  "text": "A lively beachfront area with cafes and sports courts, designed as a modern leisure space on the Corniche.",
+                  "category": "recreational",
+                  "coords": [
+                        54.330977,
+                        24.468311
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "A small animal enclosure within the Heritage Village where visitors can see camels and Arabian horses up close.",
+                  "category": "recreational",
+                  "coords": [
+                        54.33036,
+                        24.476032
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Theater",
+                  "text": "A modern theatre located on the Abu Dhabi breakwater that regularly hosts performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332468,
+                        24.47806
+                  ]
+            },
+            {
+                  "name": "Corniche Family Beach",
+                  "text": "A Blue Flag certified beach on the Corniche with dedicated zones for families and quiet relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        54.336121,
+                        24.471343
+                  ]
+            },
+            {
+                  "name": "Al Bateen Mosque",
+                  "text": "This elegant white mosque with its distinctive domes is located in the historic Al Bateen district.",
+                  "category": "landmark",
+                  "coords": [
+                        54.331195,
+                        24.458151
+                  ]
+            },
+            {
+                  "name": "Marina Walk Carnival",
+                  "text": "A seasonal waterfront carnival with market stalls and amusement rides located near Marina Mall.",
+                  "category": "cultural",
+                  "coords": [
+                        54.324845,
+                        24.476495
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.3175, 24.4617],
@@ -771,7 +6495,628 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "global-village-landmarks-v2",
+    id: "global-village-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "IMG Worlds of Adventure",
+                  "text": "IMG Worlds of Adventure ist ein riesiger Indoor-Freizeitpark in Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.318345,
+                        25.081395
+                  ]
+            },
+            {
+                  "name": "Caricature",
+                  "text": "Caricature ist eine Galerie auf dem Gelände des Global Village in Dubai.",
+                  "category": "museum",
+                  "coords": [
+                        55.308445,
+                        25.068177
+                  ]
+            },
+            {
+                  "name": "Cyber City Danger Zone Stunt Show",
+                  "text": "Die Cyber City Danger Zone Stunt Show bietet Action-Unterhaltung im Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.304509,
+                        25.069024
+                  ]
+            },
+            {
+                  "name": "Kids Theatre",
+                  "text": "Das Kids Theatre bietet familienfreundliche Aufführungen im Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306575,
+                        25.069722
+                  ]
+            },
+            {
+                  "name": "AllDayMarket",
+                  "text": "Der AllDayMarket ist ein geschäftiger Marktplatz auf dem Gelände des Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.348882,
+                        25.124466
+                  ]
+            },
+            {
+                  "name": "Kuwait Pavilion",
+                  "text": "Der Kuwait Pavilion ist ein kultureller Marktplatz im Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.308448,
+                        25.070762
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "Der Morocco Pavilion bietet auf seinem Markt im Global Village in Dubai ein nordafrikanisches Einkaufserlebnis.",
+                  "category": "cultural",
+                  "coords": [
+                        55.3092,
+                        25.069652
+                  ]
+            },
+            {
+                  "name": "Iraq Pavilion",
+                  "text": "Der Iraq Pavilion ist ein Marktplatz, der irakische Produkte im Global Village in Dubai präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.30817,
+                        25.069243
+                  ]
+            },
+            {
+                  "name": "India Pavilion",
+                  "text": "Der India Pavilion ist ein großer Markt, der im Global Village in Dubai eine Vielzahl indischer Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.309443,
+                        25.068258
+                  ]
+            },
+            {
+                  "name": "Europe Pavilion",
+                  "text": "Der Europe Pavilion fasst auf einem Markt im Global Village in Dubai verschiedene europäische Produkte zusammen.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306967,
+                        25.067759
+                  ]
+            },
+            {
+                  "name": "Korea Pavilion",
+                  "text": "Der Korea Pavilion ist ein Marktplatz in global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305785,
+                        25.067411
+                  ]
+            },
+            {
+                  "name": "Khalifa Foundation Pavilion",
+                  "text": "Der Khalifa Foundation Pavilion ist ein Marktplatz in global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305527,
+                        25.070026
+                  ]
+            },
+            {
+                  "name": "Turkiye Pavilion",
+                  "text": "Der Turkiye Pavilion ist ein Marktplatz in global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307234,
+                        25.070973
+                  ]
+            },
+            {
+                  "name": "Global Village fireworks spot",
+                  "text": "Global Village fireworks spot ist eine Attraktion in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309093,
+                        25.061867
+                  ]
+            },
+            {
+                  "name": "Skycourt towers",
+                  "text": "Skycourt towers ist eine Attraktion in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.385333,
+                        25.090255
+                  ]
+            },
+            {
+                  "name": "Body langeg rabari",
+                  "text": "Body langeg rabari ist eine Attraktion in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313516,
+                        25.099909
+                  ]
+            },
+            {
+                  "name": "Layan Mosque",
+                  "text": "Die Layan Mosque ist eine muslimische Einrichtung in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.280993,
+                        25.025614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IMG Worlds of Adventure",
+                  "text": "Az IMG Worlds of Adventure egy hatalmas beltéri vidámpark Dubajban.",
+                  "category": "recreational",
+                  "coords": [
+                        55.318345,
+                        25.081395
+                  ]
+            },
+            {
+                  "name": "Caricature",
+                  "text": "A Caricature egy galéria a dubaji Global Village területén.",
+                  "category": "museum",
+                  "coords": [
+                        55.308445,
+                        25.068177
+                  ]
+            },
+            {
+                  "name": "Cyber City Danger Zone Stunt Show",
+                  "text": "A Cyber City Danger Zone Stunt Show akció dús szórakozást kínál a dubaji Global Village-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.304509,
+                        25.069024
+                  ]
+            },
+            {
+                  "name": "Kids Theatre",
+                  "text": "A Kids Theatre családbarát előadásokat kínál a dubaji Global Village-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306575,
+                        25.069722
+                  ]
+            },
+            {
+                  "name": "AllDayMarket",
+                  "text": "Az AllDayMarket egy nyüzsgő piac a dubaji Global Village területén.",
+                  "category": "cultural",
+                  "coords": [
+                        55.348882,
+                        25.124466
+                  ]
+            },
+            {
+                  "name": "Kuwait Pavilion",
+                  "text": "A Kuvait Pavilon egy kulturális piac a dubaji Global Village-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.308448,
+                        25.070762
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "A Marokkó Pavilon észak-afrikai vásárlási élményt kínál a dubaji Global Village piacán.",
+                  "category": "cultural",
+                  "coords": [
+                        55.3092,
+                        25.069652
+                  ]
+            },
+            {
+                  "name": "Iraq Pavilion",
+                  "text": "Az Irak Pavilon egy piac, amely iraki termékeket mutat be a dubaji Global Village-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.30817,
+                        25.069243
+                  ]
+            },
+            {
+                  "name": "India Pavilion",
+                  "text": "Az India Pavilon egy hatalmas piac, amely különféle indiai árukat kínál a dubaji Global Village-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.309443,
+                        25.068258
+                  ]
+            },
+            {
+                  "name": "Europe Pavilion",
+                  "text": "Az Európa Pavilon különféle európai termékeket vonultat fel egy piacon a dubaji Global Village-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306967,
+                        25.067759
+                  ]
+            },
+            {
+                  "name": "Korea Pavilion",
+                  "text": "A Korea Pavilion egy piactér global-village-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305785,
+                        25.067411
+                  ]
+            },
+            {
+                  "name": "Khalifa Foundation Pavilion",
+                  "text": "A Khalifa Foundation Pavilion egy piactér global-village-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305527,
+                        25.070026
+                  ]
+            },
+            {
+                  "name": "Turkiye Pavilion",
+                  "text": "A Turkiye Pavilion egy piactér global-village-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307234,
+                        25.070973
+                  ]
+            },
+            {
+                  "name": "Global Village fireworks spot",
+                  "text": "A Global Village fireworks spot egy látványosság global-village-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309093,
+                        25.061867
+                  ]
+            },
+            {
+                  "name": "Skycourt towers",
+                  "text": "A Skycourt towers egy látványosság global-village-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.385333,
+                        25.090255
+                  ]
+            },
+            {
+                  "name": "Body langeg rabari",
+                  "text": "A Body langeg rabari egy látványosság global-village-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313516,
+                        25.099909
+                  ]
+            },
+            {
+                  "name": "Layan Mosque",
+                  "text": "A Layan Mosque egy muszlim létesítmény global-village-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.280993,
+                        25.025614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IMG Worlds of Adventure",
+                  "text": "IMG Worlds of Adventure este un parc de distracții interior uriaș în Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.318345,
+                        25.081395
+                  ]
+            },
+            {
+                  "name": "Caricature",
+                  "text": "Caricature este o galerie pe terenul Global Village din Dubai.",
+                  "category": "museum",
+                  "coords": [
+                        55.308445,
+                        25.068177
+                  ]
+            },
+            {
+                  "name": "Cyber City Danger Zone Stunt Show",
+                  "text": "Spectacolul Cyber City Danger Zone Stunt Show oferă divertisment de acțiune în Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.304509,
+                        25.069024
+                  ]
+            },
+            {
+                  "name": "Kids Theatre",
+                  "text": "Kids Theatre oferă spectacole pentru familii în Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306575,
+                        25.069722
+                  ]
+            },
+            {
+                  "name": "AllDayMarket",
+                  "text": "AllDayMarket este o piață animată pe terenul Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.348882,
+                        25.124466
+                  ]
+            },
+            {
+                  "name": "Kuwait Pavilion",
+                  "text": "Pavilionul Kuweit este o piață culturală din Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.308448,
+                        25.070762
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "Pavilionul Maroc oferă o experiență de cumpărături nord-africană în piața sa din Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.3092,
+                        25.069652
+                  ]
+            },
+            {
+                  "name": "Iraq Pavilion",
+                  "text": "Pavilionul Irak este o piață care prezintă produse irakiene în Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.30817,
+                        25.069243
+                  ]
+            },
+            {
+                  "name": "India Pavilion",
+                  "text": "Pavilionul India este o piață mare care oferă o varietate de bunuri indiene în Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.309443,
+                        25.068258
+                  ]
+            },
+            {
+                  "name": "Europe Pavilion",
+                  "text": "Pavilionul Europa reunește diverse produse europene într-o piață din Global Village din Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306967,
+                        25.067759
+                  ]
+            },
+            {
+                  "name": "Korea Pavilion",
+                  "text": "Korea Pavilion este o piață situată în global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305785,
+                        25.067411
+                  ]
+            },
+            {
+                  "name": "Khalifa Foundation Pavilion",
+                  "text": "Khalifa Foundation Pavilion este o piață situată în global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305527,
+                        25.070026
+                  ]
+            },
+            {
+                  "name": "Turkiye Pavilion",
+                  "text": "Turkiye Pavilion este o piață situată în global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307234,
+                        25.070973
+                  ]
+            },
+            {
+                  "name": "Global Village fireworks spot",
+                  "text": "Global Village fireworks spot este o atracție situată în global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309093,
+                        25.061867
+                  ]
+            },
+            {
+                  "name": "Skycourt towers",
+                  "text": "Skycourt towers este o atracție situată în global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.385333,
+                        25.090255
+                  ]
+            },
+            {
+                  "name": "Body langeg rabari",
+                  "text": "Body langeg rabari este o atracție situată în global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313516,
+                        25.099909
+                  ]
+            },
+            {
+                  "name": "Layan Mosque",
+                  "text": "Layan Mosque este un lăcaș de cult musulman în global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.280993,
+                        25.025614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IMG Worlds of Adventure",
+                  "text": "IMG Worlds of Adventure is a massive indoor amusement park in Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.318345,
+                        25.081395
+                  ]
+            },
+            {
+                  "name": "Caricature",
+                  "text": "Caricature is a gallery located within the Global Village in Dubai.",
+                  "category": "museum",
+                  "coords": [
+                        55.308445,
+                        25.068177
+                  ]
+            },
+            {
+                  "name": "Cyber City Danger Zone Stunt Show",
+                  "text": "The Cyber City Danger Zone Stunt Show provides action-packed entertainment at Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.304509,
+                        25.069024
+                  ]
+            },
+            {
+                  "name": "Kids Theatre",
+                  "text": "The Kids Theatre offers family-friendly performances at Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306575,
+                        25.069722
+                  ]
+            },
+            {
+                  "name": "AllDayMarket",
+                  "text": "AllDayMarket is a bustling marketplace located within Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.348882,
+                        25.124466
+                  ]
+            },
+            {
+                  "name": "Kuwait Pavilion",
+                  "text": "The Kuwait Pavilion is a cultural marketplace at Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.308448,
+                        25.070762
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "The Morocco Pavilion offers a North African shopping experience at its market in the Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.3092,
+                        25.069652
+                  ]
+            },
+            {
+                  "name": "Iraq Pavilion",
+                  "text": "The Iraq Pavilion is a marketplace showcasing Iraqi products at the Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.30817,
+                        25.069243
+                  ]
+            },
+            {
+                  "name": "India Pavilion",
+                  "text": "The India Pavilion is a large marketplace offering a variety of Indian goods at Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.309443,
+                        25.068258
+                  ]
+            },
+            {
+                  "name": "Europe Pavilion",
+                  "text": "The Europe Pavilion brings together various European products in a marketplace at Global Village in Dubai.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306967,
+                        25.067759
+                  ]
+            },
+            {
+                  "name": "Korea Pavilion",
+                  "text": "The Korea Pavilion is a marketplace located in global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305785,
+                        25.067411
+                  ]
+            },
+            {
+                  "name": "Khalifa Foundation Pavilion",
+                  "text": "The Khalifa Foundation Pavilion is a marketplace located in global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305527,
+                        25.070026
+                  ]
+            },
+            {
+                  "name": "Turkiye Pavilion",
+                  "text": "The Turkiye Pavilion is a marketplace located in global-village-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307234,
+                        25.070973
+                  ]
+            },
+            {
+                  "name": "Global Village fireworks spot",
+                  "text": "Global Village fireworks spot is an attraction located in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309093,
+                        25.061867
+                  ]
+            },
+            {
+                  "name": "Skycourt towers",
+                  "text": "Skycourt towers is an attraction located in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.385333,
+                        25.090255
+                  ]
+            },
+            {
+                  "name": "Body langeg rabari",
+                  "text": "Body langeg rabari is an attraction located in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313516,
+                        25.099909
+                  ]
+            },
+            {
+                  "name": "Layan Mosque",
+                  "text": "The Layan Mosque is a muslim site located in global-village-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.280993,
+                        25.025614
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.3044, 25.0673],
@@ -835,7 +7180,1240 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qasr-al-hosn-landmarks-v2",
+    id: "qasr-al-hosn-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nicholas Galanin's \"In Every Language There is Land\"",
+                  "text": "Nicholas Galanin's \"In Every Language There is Land\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.340658,
+                        24.473352
+                  ]
+            },
+            {
+                  "name": "Folklore Gallery",
+                  "text": "Folklore Gallery ist eine Galerie in qasr-al-hosn-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.346897,
+                        24.472277
+                  ]
+            },
+            {
+                  "name": "Summit",
+                  "text": "Summit ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366288,
+                        24.478287
+                  ]
+            },
+            {
+                  "name": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\"",
+                  "text": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355258,
+                        24.481425
+                  ]
+            },
+            {
+                  "name": "Arquitectura Expandida's \"Urban Negotiation\"",
+                  "text": "Arquitectura Expandida's \"Urban Negotiation\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35461,
+                        24.48423
+                  ]
+            },
+            {
+                  "name": "UT-R Studio's \"Shifting Sands\"",
+                  "text": "UT-R Studio's \"Shifting Sands\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346734,
+                        24.483402
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Saadi",
+                  "text": "Abdullah Al Saadi ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355264,
+                        24.492404
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Mosque ist ein Museum in qasr-al-hosn-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.358592,
+                        24.491666
+                  ]
+            },
+            {
+                  "name": "Rami Kashou × Emirati Artisans' \"Continuum\"",
+                  "text": "Rami Kashou × Emirati Artisans' \"Continuum\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356272,
+                        24.49247
+                  ]
+            },
+            {
+                  "name": "Hamdan Center",
+                  "text": "Hamdan Center ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362629,
+                        24.488815
+                  ]
+            },
+            {
+                  "name": "Ayesha Hadhir's \"Playful Traditions\"",
+                  "text": "Ayesha Hadhir's \"Playful Traditions\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356482,
+                        24.482051
+                  ]
+            },
+            {
+                  "name": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\"",
+                  "text": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.358145,
+                        24.48303
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Astad's \"Danat Al Shawati\"",
+                  "text": "Mohammed Al Astad's \"Danat Al Shawati\" ist eine Sehenswürdigkeit in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.357152,
+                        24.483053
+                  ]
+            },
+            {
+                  "name": "Al Sahil Beach",
+                  "text": "Al Sahil Beach ist ein Strand in qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.342986,
+                        24.476411
+                  ]
+            },
+            {
+                  "name": "Corniche Beach",
+                  "text": "Corniche Beach ist ein Strand in qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.340719,
+                        24.474323
+                  ]
+            },
+            {
+                  "name": "Corniche Beach - Phase 2",
+                  "text": "Corniche Beach - Phase 2 ist ein Strand in qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.348158,
+                        24.486087
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "Sheikh Zayed Mosque ist eine bemerkenswerte Kultstätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        54.358719,
+                        24.481228
+                  ]
+            },
+            {
+                  "name": "Hanzalah Bin Abi Amer",
+                  "text": "Hanzalah Bin Abi Amer ist eine muslimische Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362098,
+                        24.49216
+                  ]
+            },
+            {
+                  "name": "Muhammad Bin Masoud Al Muhairbi Mosque",
+                  "text": "Muhammad Bin Masoud Al Muhairbi Mosque ist eine muslimische Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.354516,
+                        24.480412
+                  ]
+            },
+            {
+                  "name": "Mohammed Saif Bin Musaed",
+                  "text": "Mohammed Saif Bin Musaed ist eine muslimische Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.34301,
+                        24.473011
+                  ]
+            },
+            {
+                  "name": "Ali Abdullah Jasim Al Zaabi Mosque",
+                  "text": "Ali Abdullah Jasim Al Zaabi Mosque ist eine muslimische Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352765,
+                        24.478956
+                  ]
+            },
+            {
+                  "name": "Fatima Bint Mohammed",
+                  "text": "Fatima Bint Mohammed ist eine muslimische Kultstätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346463,
+                        24.476478
+                  ]
+            },
+            {
+                  "name": "Enaya Bint Saleh Al Muhairi Mosque",
+                  "text": "Die Enaya Bint Saleh Al Muhairi Mosque ist eine muslimische Kultstätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.347946,
+                        24.476292
+                  ]
+            },
+            {
+                  "name": "Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque",
+                  "text": "Die Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque ist eine muslimische religiöse Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.349324,
+                        24.476691
+                  ]
+            },
+            {
+                  "name": "Faraj Muhammad Al-Muhairbi Mosque",
+                  "text": "Die Faraj Muhammad Al-Muhairbi Mosque ist ein muslimisches religiöses Gebäude in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.353148,
+                        24.480041
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "Die Sheikh Khalifa Mosque ist eine muslimische Kultstätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352895,
+                        24.484568
+                  ]
+            },
+            {
+                  "name": "Shareefa Mosque",
+                  "text": "Die Shareefa Mosque ist eine muslimische Gebetsstätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.360661,
+                        24.491156
+                  ]
+            },
+            {
+                  "name": "Hamil bin Khadim Mosque",
+                  "text": "Die Hamil bin Khadim Mosque ist eine muslimische religiöse Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366802,
+                        24.483244
+                  ]
+            },
+            {
+                  "name": "Thani Bin Murshid Al Romaithy",
+                  "text": "Thani Bin Murshid Al Romaithy ist eine muslimische Kultstätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.36692,
+                        24.486062
+                  ]
+            },
+            {
+                  "name": "Masjid Derwish Bin Karam",
+                  "text": "Masjid Derwish Bin Karam ist eine muslimische religiöse Stätte in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366328,
+                        24.490429
+                  ]
+            },
+            {
+                  "name": "The Souq Central Market",
+                  "text": "The Souq Central Market ist ein lebhafter Marktplatz in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.357224,
+                        24.489153
+                  ]
+            },
+            {
+                  "name": "Foutouh al Khair Centre",
+                  "text": "Das Foutouh al Khair Centre ist ein prominenter Marktplatz in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.358627,
+                        24.485001
+                  ]
+            },
+            {
+                  "name": "Madenat Zayed Market",
+                  "text": "Der Madenat Zayed Market ist ein lokaler Marktplatz in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.366376,
+                        24.48053
+                  ]
+            },
+            {
+                  "name": "Madinat Zayed Exhibition",
+                  "text": "Die Madinat Zayed Exhibition ist ein kommerzieller Marktplatz in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.364935,
+                        24.484844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nicholas Galanin's \"In Every Language There is Land\"",
+                  "text": "A Nicholas Galanin's \"In Every Language There is Land\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.340658,
+                        24.473352
+                  ]
+            },
+            {
+                  "name": "Folklore Gallery",
+                  "text": "A Folklore Gallery egy galéria qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        54.346897,
+                        24.472277
+                  ]
+            },
+            {
+                  "name": "Summit",
+                  "text": "A Summit egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366288,
+                        24.478287
+                  ]
+            },
+            {
+                  "name": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\"",
+                  "text": "A Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355258,
+                        24.481425
+                  ]
+            },
+            {
+                  "name": "Arquitectura Expandida's \"Urban Negotiation\"",
+                  "text": "Az Arquitectura Expandida's \"Urban Negotiation\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35461,
+                        24.48423
+                  ]
+            },
+            {
+                  "name": "UT-R Studio's \"Shifting Sands\"",
+                  "text": "Az UT-R Studio's \"Shifting Sands\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346734,
+                        24.483402
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Saadi",
+                  "text": "Az Abdullah Al Saadi egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355264,
+                        24.492404
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A Mosque egy múzeum qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        54.358592,
+                        24.491666
+                  ]
+            },
+            {
+                  "name": "Rami Kashou × Emirati Artisans' \"Continuum\"",
+                  "text": "A Rami Kashou × Emirati Artisans' \"Continuum\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356272,
+                        24.49247
+                  ]
+            },
+            {
+                  "name": "Hamdan Center",
+                  "text": "A Hamdan Center egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362629,
+                        24.488815
+                  ]
+            },
+            {
+                  "name": "Ayesha Hadhir's \"Playful Traditions\"",
+                  "text": "Az Ayesha Hadhir's \"Playful Traditions\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356482,
+                        24.482051
+                  ]
+            },
+            {
+                  "name": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\"",
+                  "text": "A 3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.358145,
+                        24.48303
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Astad's \"Danat Al Shawati\"",
+                  "text": "A Mohammed Al Astad's \"Danat Al Shawati\" egy látványosság qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.357152,
+                        24.483053
+                  ]
+            },
+            {
+                  "name": "Al Sahil Beach",
+                  "text": "Az Al Sahil Beach egy tengerpart qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        54.342986,
+                        24.476411
+                  ]
+            },
+            {
+                  "name": "Corniche Beach",
+                  "text": "A Corniche Beach egy tengerpart qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        54.340719,
+                        24.474323
+                  ]
+            },
+            {
+                  "name": "Corniche Beach - Phase 2",
+                  "text": "A Corniche Beach - Phase 2 egy tengerpart qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        54.348158,
+                        24.486087
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "A Sheikh Zayed Mosque egy nevezetes istentiszteleti hely qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        54.358719,
+                        24.481228
+                  ]
+            },
+            {
+                  "name": "Hanzalah Bin Abi Amer",
+                  "text": "A Hanzalah Bin Abi Amer egy muszlim helyszín qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362098,
+                        24.49216
+                  ]
+            },
+            {
+                  "name": "Muhammad Bin Masoud Al Muhairbi Mosque",
+                  "text": "A Muhammad Bin Masoud Al Muhairbi Mosque egy muszlim helyszín qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.354516,
+                        24.480412
+                  ]
+            },
+            {
+                  "name": "Mohammed Saif Bin Musaed",
+                  "text": "A Mohammed Saif Bin Musaed egy muszlim helyszín qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.34301,
+                        24.473011
+                  ]
+            },
+            {
+                  "name": "Ali Abdullah Jasim Al Zaabi Mosque",
+                  "text": "Az Ali Abdullah Jasim Al Zaabi Mosque egy muszlim helyszín qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352765,
+                        24.478956
+                  ]
+            },
+            {
+                  "name": "Fatima Bint Mohammed",
+                  "text": "A Fatima Bint Mohammed egy muszlim istentiszteleti hely qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346463,
+                        24.476478
+                  ]
+            },
+            {
+                  "name": "Enaya Bint Saleh Al Muhairi Mosque",
+                  "text": "Az Enaya Bint Saleh Al Muhairi Mosque egy muszlim istentiszteleti hely qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.347946,
+                        24.476292
+                  ]
+            },
+            {
+                  "name": "Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque",
+                  "text": "A Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque egy muszlim vallási helyszín qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.349324,
+                        24.476691
+                  ]
+            },
+            {
+                  "name": "Faraj Muhammad Al-Muhairbi Mosque",
+                  "text": "A Faraj Muhammad Al-Muhairbi Mosque egy muszlim vallási épület qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.353148,
+                        24.480041
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "A Sheikh Khalifa Mosque egy muszlim istentiszteleti hely qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352895,
+                        24.484568
+                  ]
+            },
+            {
+                  "name": "Shareefa Mosque",
+                  "text": "A Shareefa Mosque egy muszlim imádkozóhely qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.360661,
+                        24.491156
+                  ]
+            },
+            {
+                  "name": "Hamil bin Khadim Mosque",
+                  "text": "A Hamil bin Khadim Mosque egy muszlim vallási helyszín qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366802,
+                        24.483244
+                  ]
+            },
+            {
+                  "name": "Thani Bin Murshid Al Romaithy",
+                  "text": "A Thani Bin Murshid Al Romaithy egy muszlim istentiszteleti hely qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.36692,
+                        24.486062
+                  ]
+            },
+            {
+                  "name": "Masjid Derwish Bin Karam",
+                  "text": "A Masjid Derwish Bin Karam egy muszlim vallási helyszín qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366328,
+                        24.490429
+                  ]
+            },
+            {
+                  "name": "The Souq Central Market",
+                  "text": "A The Souq Central Market egy nyüzsgő piac qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        54.357224,
+                        24.489153
+                  ]
+            },
+            {
+                  "name": "Foutouh al Khair Centre",
+                  "text": "A Foutouh al Khair Centre egy kiemelkedő piac qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.358627,
+                        24.485001
+                  ]
+            },
+            {
+                  "name": "Madenat Zayed Market",
+                  "text": "A Madenat Zayed Market egy helyi piac qasr-al-hosn-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        54.366376,
+                        24.48053
+                  ]
+            },
+            {
+                  "name": "Madinat Zayed Exhibition",
+                  "text": "A Madinat Zayed Exhibition egy kereskedelmi piac qasr-al-hosn-landmarks-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.364935,
+                        24.484844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nicholas Galanin's \"In Every Language There is Land\"",
+                  "text": "Nicholas Galanin's \"In Every Language There is Land\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.340658,
+                        24.473352
+                  ]
+            },
+            {
+                  "name": "Folklore Gallery",
+                  "text": "Folklore Gallery este o galerie în qasr-al-hosn-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.346897,
+                        24.472277
+                  ]
+            },
+            {
+                  "name": "Summit",
+                  "text": "Summit este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366288,
+                        24.478287
+                  ]
+            },
+            {
+                  "name": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\"",
+                  "text": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355258,
+                        24.481425
+                  ]
+            },
+            {
+                  "name": "Arquitectura Expandida's \"Urban Negotiation\"",
+                  "text": "Arquitectura Expandida's \"Urban Negotiation\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35461,
+                        24.48423
+                  ]
+            },
+            {
+                  "name": "UT-R Studio's \"Shifting Sands\"",
+                  "text": "UT-R Studio's \"Shifting Sands\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346734,
+                        24.483402
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Saadi",
+                  "text": "Abdullah Al Saadi este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355264,
+                        24.492404
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Mosque este un muzeu în qasr-al-hosn-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.358592,
+                        24.491666
+                  ]
+            },
+            {
+                  "name": "Rami Kashou × Emirati Artisans' \"Continuum\"",
+                  "text": "Rami Kashou × Emirati Artisans' \"Continuum\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356272,
+                        24.49247
+                  ]
+            },
+            {
+                  "name": "Hamdan Center",
+                  "text": "Hamdan Center este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362629,
+                        24.488815
+                  ]
+            },
+            {
+                  "name": "Ayesha Hadhir's \"Playful Traditions\"",
+                  "text": "Ayesha Hadhir's \"Playful Traditions\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356482,
+                        24.482051
+                  ]
+            },
+            {
+                  "name": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\"",
+                  "text": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.358145,
+                        24.48303
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Astad's \"Danat Al Shawati\"",
+                  "text": "Mohammed Al Astad's \"Danat Al Shawati\" este o atracție în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.357152,
+                        24.483053
+                  ]
+            },
+            {
+                  "name": "Al Sahil Beach",
+                  "text": "Al Sahil Beach este o plajă în qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.342986,
+                        24.476411
+                  ]
+            },
+            {
+                  "name": "Corniche Beach",
+                  "text": "Corniche Beach este o plajă în qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.340719,
+                        24.474323
+                  ]
+            },
+            {
+                  "name": "Corniche Beach - Phase 2",
+                  "text": "Corniche Beach - Phase 2 este o plajă în qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.348158,
+                        24.486087
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "Sheikh Zayed Mosque este un lăcaș de cult notabil în qasr-al-hosn-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        54.358719,
+                        24.481228
+                  ]
+            },
+            {
+                  "name": "Hanzalah Bin Abi Amer",
+                  "text": "Hanzalah Bin Abi Amer este un sit musulman în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362098,
+                        24.49216
+                  ]
+            },
+            {
+                  "name": "Muhammad Bin Masoud Al Muhairbi Mosque",
+                  "text": "Muhammad Bin Masoud Al Muhairbi Mosque este un sit musulman în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.354516,
+                        24.480412
+                  ]
+            },
+            {
+                  "name": "Mohammed Saif Bin Musaed",
+                  "text": "Mohammed Saif Bin Musaed este un sit musulman în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.34301,
+                        24.473011
+                  ]
+            },
+            {
+                  "name": "Ali Abdullah Jasim Al Zaabi Mosque",
+                  "text": "Ali Abdullah Jasim Al Zaabi Mosque este un sit musulman în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352765,
+                        24.478956
+                  ]
+            },
+            {
+                  "name": "Fatima Bint Mohammed",
+                  "text": "Fatima Bint Mohammed este un lăcaș de cult musulman situat în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346463,
+                        24.476478
+                  ]
+            },
+            {
+                  "name": "Enaya Bint Saleh Al Muhairi Mosque",
+                  "text": "Enaya Bint Saleh Al Muhairi Mosque este un lăcaș de cult musulman în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.347946,
+                        24.476292
+                  ]
+            },
+            {
+                  "name": "Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque",
+                  "text": "Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque este un sit religios musulman din qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.349324,
+                        24.476691
+                  ]
+            },
+            {
+                  "name": "Faraj Muhammad Al-Muhairbi Mosque",
+                  "text": "Faraj Muhammad Al-Muhairbi Mosque este o clădire religioasă musulmană situată în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.353148,
+                        24.480041
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "Sheikh Khalifa Mosque este un lăcaș de cult musulman din qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352895,
+                        24.484568
+                  ]
+            },
+            {
+                  "name": "Shareefa Mosque",
+                  "text": "Shareefa Mosque este un loc de rugăciune musulman în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.360661,
+                        24.491156
+                  ]
+            },
+            {
+                  "name": "Hamil bin Khadim Mosque",
+                  "text": "Hamil bin Khadim Mosque este un sit religios musulman situat în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366802,
+                        24.483244
+                  ]
+            },
+            {
+                  "name": "Thani Bin Murshid Al Romaithy",
+                  "text": "Thani Bin Murshid Al Romaithy este un lăcaș de cult musulman din qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.36692,
+                        24.486062
+                  ]
+            },
+            {
+                  "name": "Masjid Derwish Bin Karam",
+                  "text": "Masjid Derwish Bin Karam este un sit religios musulman situat în qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366328,
+                        24.490429
+                  ]
+            },
+            {
+                  "name": "The Souq Central Market",
+                  "text": "The Souq Central Market este o piață vibrantă din qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.357224,
+                        24.489153
+                  ]
+            },
+            {
+                  "name": "Foutouh al Khair Centre",
+                  "text": "Foutouh al Khair Centre este o piață importantă situată în qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.358627,
+                        24.485001
+                  ]
+            },
+            {
+                  "name": "Madenat Zayed Market",
+                  "text": "Madenat Zayed Market este o piață locală din qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.366376,
+                        24.48053
+                  ]
+            },
+            {
+                  "name": "Madinat Zayed Exhibition",
+                  "text": "Madinat Zayed Exhibition este o piață comercială situată în qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.364935,
+                        24.484844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nicholas Galanin's \"In Every Language There is Land\"",
+                  "text": "Nicholas Galanin's \"In Every Language There is Land\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.340658,
+                        24.473352
+                  ]
+            },
+            {
+                  "name": "Folklore Gallery",
+                  "text": "Folklore Gallery is a gallery in qasr-al-hosn-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.346897,
+                        24.472277
+                  ]
+            },
+            {
+                  "name": "Summit",
+                  "text": "Summit is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366288,
+                        24.478287
+                  ]
+            },
+            {
+                  "name": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\"",
+                  "text": "Nnenna Okore's \"Let's Not Wait to Fill Our Cups with Time\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355258,
+                        24.481425
+                  ]
+            },
+            {
+                  "name": "Arquitectura Expandida's \"Urban Negotiation\"",
+                  "text": "Arquitectura Expandida's \"Urban Negotiation\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35461,
+                        24.48423
+                  ]
+            },
+            {
+                  "name": "UT-R Studio's \"Shifting Sands\"",
+                  "text": "UT-R Studio's \"Shifting Sands\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346734,
+                        24.483402
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Saadi",
+                  "text": "Abdullah Al Saadi is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.355264,
+                        24.492404
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Mosque is a museum in qasr-al-hosn-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.358592,
+                        24.491666
+                  ]
+            },
+            {
+                  "name": "Rami Kashou × Emirati Artisans' \"Continuum\"",
+                  "text": "Rami Kashou × Emirati Artisans' \"Continuum\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356272,
+                        24.49247
+                  ]
+            },
+            {
+                  "name": "Hamdan Center",
+                  "text": "Hamdan Center is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362629,
+                        24.488815
+                  ]
+            },
+            {
+                  "name": "Ayesha Hadhir's \"Playful Traditions\"",
+                  "text": "Ayesha Hadhir's \"Playful Traditions\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.356482,
+                        24.482051
+                  ]
+            },
+            {
+                  "name": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\"",
+                  "text": "3D Cube Display;Mircea Cantor's \"Aquilla non capit muscas\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.358145,
+                        24.48303
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Astad's \"Danat Al Shawati\"",
+                  "text": "Mohammed Al Astad's \"Danat Al Shawati\" is an attraction in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.357152,
+                        24.483053
+                  ]
+            },
+            {
+                  "name": "Al Sahil Beach",
+                  "text": "Al Sahil Beach is a beach in qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.342986,
+                        24.476411
+                  ]
+            },
+            {
+                  "name": "Corniche Beach",
+                  "text": "Corniche Beach is a beach in qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.340719,
+                        24.474323
+                  ]
+            },
+            {
+                  "name": "Corniche Beach - Phase 2",
+                  "text": "Corniche Beach - Phase 2 is a beach in qasr-al-hosn-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        54.348158,
+                        24.486087
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "Sheikh Zayed Mosque is a notable place of worship in qasr-al-hosn-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        54.358719,
+                        24.481228
+                  ]
+            },
+            {
+                  "name": "Hanzalah Bin Abi Amer",
+                  "text": "Hanzalah Bin Abi Amer is a Muslim site in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.362098,
+                        24.49216
+                  ]
+            },
+            {
+                  "name": "Muhammad Bin Masoud Al Muhairbi Mosque",
+                  "text": "Muhammad Bin Masoud Al Muhairbi Mosque is a Muslim site in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.354516,
+                        24.480412
+                  ]
+            },
+            {
+                  "name": "Mohammed Saif Bin Musaed",
+                  "text": "Mohammed Saif Bin Musaed is a Muslim site in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.34301,
+                        24.473011
+                  ]
+            },
+            {
+                  "name": "Ali Abdullah Jasim Al Zaabi Mosque",
+                  "text": "Ali Abdullah Jasim Al Zaabi Mosque is a Muslim site in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352765,
+                        24.478956
+                  ]
+            },
+            {
+                  "name": "Fatima Bint Mohammed",
+                  "text": "Fatima Bint Mohammed is a Muslim place of worship located in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.346463,
+                        24.476478
+                  ]
+            },
+            {
+                  "name": "Enaya Bint Saleh Al Muhairi Mosque",
+                  "text": "Enaya Bint Saleh Al Muhairi Mosque is a Muslim place of worship in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.347946,
+                        24.476292
+                  ]
+            },
+            {
+                  "name": "Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque",
+                  "text": "Martyr Al-Shaibah Hadir Khamis Al-Amaimi Mosque is a Muslim religious site situated in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.349324,
+                        24.476691
+                  ]
+            },
+            {
+                  "name": "Faraj Muhammad Al-Muhairbi Mosque",
+                  "text": "Faraj Muhammad Al-Muhairbi Mosque is a Muslim religious building located in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.353148,
+                        24.480041
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "Sheikh Khalifa Mosque is a Muslim place of worship situated in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.352895,
+                        24.484568
+                  ]
+            },
+            {
+                  "name": "Shareefa Mosque",
+                  "text": "Shareefa Mosque is a Muslim site of worship in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.360661,
+                        24.491156
+                  ]
+            },
+            {
+                  "name": "Hamil bin Khadim Mosque",
+                  "text": "Hamil bin Khadim Mosque is a Muslim religious site located in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366802,
+                        24.483244
+                  ]
+            },
+            {
+                  "name": "Thani Bin Murshid Al Romaithy",
+                  "text": "Thani Bin Murshid Al Romaithy is a Muslim place of worship in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.36692,
+                        24.486062
+                  ]
+            },
+            {
+                  "name": "Masjid Derwish Bin Karam",
+                  "text": "Masjid Derwish Bin Karam is a Muslim religious site located in qasr-al-hosn-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.366328,
+                        24.490429
+                  ]
+            },
+            {
+                  "name": "The Souq Central Market",
+                  "text": "The Souq Central Market is a vibrant marketplace situated in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.357224,
+                        24.489153
+                  ]
+            },
+            {
+                  "name": "Foutouh al Khair Centre",
+                  "text": "Foutouh al Khair Centre is a prominent marketplace located in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.358627,
+                        24.485001
+                  ]
+            },
+            {
+                  "name": "Madenat Zayed Market",
+                  "text": "Madenat Zayed Market is a local marketplace found in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.366376,
+                        24.48053
+                  ]
+            },
+            {
+                  "name": "Madinat Zayed Exhibition",
+                  "text": "Madinat Zayed Exhibition is a commercial marketplace in qasr-al-hosn-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        54.364935,
+                        24.484844
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.3564, 24.4815],
@@ -899,7 +8477,340 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "dubai-miracle-garden-landmarks-v2",
+    id: "dubai-miracle-garden-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Calida victory heights",
+                  "text": "Ein Wohngebiet in der Nähe des Miracle Garden, bekannt für seine gepflegten Grünanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.208247,
+                        25.041896
+                  ]
+            },
+            {
+                  "name": "Smurf Village",
+                  "text": "Ein Themenbereich mit blauen Pilzhäusern und Charakteren aus der Schlümpfe-Reihe.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244406,
+                        25.060794
+                  ]
+            },
+            {
+                  "name": "Horse head",
+                  "text": "Eine riesige Blumenskulptur in Form eines Pferdekopfes, geschmückt mit Tausenden von Blüten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.058876
+                  ]
+            },
+            {
+                  "name": "polo club motor city preeya",
+                  "text": "Ein Sportclub in Motor City, der Polospiele und Reittraining anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.253197,
+                        25.037785
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine örtliche Gebetsstätte im Bereich des Miracle Garden für die täglichen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        55.208894,
+                        25.052715
+                  ]
+            },
+            {
+                  "name": "Al Maghfera Masjid",
+                  "text": "Eine moderne Moschee, die Gläubigen in der Region Al Barsha South einen spirituellen Raum bietet.",
+                  "category": "religious",
+                  "coords": [
+                        55.215023,
+                        25.080392
+                  ]
+            },
+            {
+                  "name": "Yousuf Mohammad Hadi Badri",
+                  "text": "Eine Gemeindemoschee, die den Gläubigen in der Nähe des Dubai Miracle Garden dient.",
+                  "category": "religious",
+                  "coords": [
+                        55.203949,
+                        25.029875
+                  ]
+            },
+            {
+                  "name": "Greens Mini Mart",
+                  "text": "Ein lokaler Markt, der die Gemeinde mit Lebensmitteln und Waren des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220703,
+                        25.056446
+                  ]
+            },
+            {
+                  "name": "Choice Mart",
+                  "text": "Ein Nachbarschaftsmarkt mit einer Auswahl an Haushaltsartikeln und frischen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220545,
+                        25.055423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Calida victory heights",
+                  "text": "Lakóövezet a Miracle Garden közelében, amely gondozott parkjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.208247,
+                        25.041896
+                  ]
+            },
+            {
+                  "name": "Smurf Village",
+                  "text": "Tematikus terület kék gombaházakkal és a Hupikék törpikék sorozat karaktereivel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244406,
+                        25.060794
+                  ]
+            },
+            {
+                  "name": "Horse head",
+                  "text": "Hatalmas, lófej alakú virágszobor, amelyet virágok ezrei díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.058876
+                  ]
+            },
+            {
+                  "name": "polo club motor city preeya",
+                  "text": "Sportklub a Motor City-ben, ahol lovaspóló mérkőzéseket és lovas oktatást tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        55.253197,
+                        25.037785
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi imaház a Miracle Garden területén a napi imádságokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        55.208894,
+                        25.052715
+                  ]
+            },
+            {
+                  "name": "Al Maghfera Masjid",
+                  "text": "Modern mecset, amely lelki helyszínt biztosít a hívőknek Al Barsha South régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        55.215023,
+                        25.080392
+                  ]
+            },
+            {
+                  "name": "Yousuf Mohammad Hadi Badri",
+                  "text": "Közösségi mecset a Dubai Miracle Garden közelében élő hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        55.203949,
+                        25.029875
+                  ]
+            },
+            {
+                  "name": "Greens Mini Mart",
+                  "text": "Helyi piac, amely élelmiszerekkel és napi cikkekkel látja el a közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220703,
+                        25.056446
+                  ]
+            },
+            {
+                  "name": "Choice Mart",
+                  "text": "Szomszédsági piac háztartási cikkek és friss termékek választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220545,
+                        25.055423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Calida victory heights",
+                  "text": "O zonă rezidențială lângă Miracle Garden, cunoscută pentru spațiile sale verzi îngrijite.",
+                  "category": "landmark",
+                  "coords": [
+                        55.208247,
+                        25.041896
+                  ]
+            },
+            {
+                  "name": "Smurf Village",
+                  "text": "O zonă tematică cu căsuțe ciuperci albastre și personaje din seria Ștrumpfii.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244406,
+                        25.060794
+                  ]
+            },
+            {
+                  "name": "Horse head",
+                  "text": "O sculptură florală uriașă în formă de cap de cal, decorată cu mii de flori.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.058876
+                  ]
+            },
+            {
+                  "name": "polo club motor city preeya",
+                  "text": "Un club sportiv în Motor City care oferă meciuri de polo și antrenamente de echitație.",
+                  "category": "landmark",
+                  "coords": [
+                        55.253197,
+                        25.037785
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult local în zona Miracle Garden pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        55.208894,
+                        25.052715
+                  ]
+            },
+            {
+                  "name": "Al Maghfera Masjid",
+                  "text": "O moschee modernă care oferă un spațiu spiritual pentru credincioșii din regiunea Al Barsha South.",
+                  "category": "religious",
+                  "coords": [
+                        55.215023,
+                        25.080392
+                  ]
+            },
+            {
+                  "name": "Yousuf Mohammad Hadi Badri",
+                  "text": "O moschee comunitară care deservește credincioșii din apropierea Dubai Miracle Garden.",
+                  "category": "religious",
+                  "coords": [
+                        55.203949,
+                        25.029875
+                  ]
+            },
+            {
+                  "name": "Greens Mini Mart",
+                  "text": "O piață locală care aprovizionează comunitatea cu alimente și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220703,
+                        25.056446
+                  ]
+            },
+            {
+                  "name": "Choice Mart",
+                  "text": "O piață de cartier cu o selecție de articole de uz casnic și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220545,
+                        25.055423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Calida victory heights",
+                  "text": "A residential area near the Miracle Garden, known for its well-maintained green spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        55.208247,
+                        25.041896
+                  ]
+            },
+            {
+                  "name": "Smurf Village",
+                  "text": "A themed area featuring blue mushroom houses and characters from the Smurfs franchise.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244406,
+                        25.060794
+                  ]
+            },
+            {
+                  "name": "Horse head",
+                  "text": "A massive floral sculpture shaped like a horse's head, decorated with thousands of blooms.",
+                  "category": "landmark",
+                  "coords": [
+                        55.244573,
+                        25.058876
+                  ]
+            },
+            {
+                  "name": "polo club motor city preeya",
+                  "text": "A sports club in Motor City offering polo matches and equestrian training.",
+                  "category": "landmark",
+                  "coords": [
+                        55.253197,
+                        25.037785
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local place of worship in the Miracle Garden area for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        55.208894,
+                        25.052715
+                  ]
+            },
+            {
+                  "name": "Al Maghfera Masjid",
+                  "text": "A modern mosque providing a spiritual space for worshippers in the Al Barsha South region.",
+                  "category": "religious",
+                  "coords": [
+                        55.215023,
+                        25.080392
+                  ]
+            },
+            {
+                  "name": "Yousuf Mohammad Hadi Badri",
+                  "text": "A community mosque serving worshippers in the vicinity of Dubai Miracle Garden.",
+                  "category": "religious",
+                  "coords": [
+                        55.203949,
+                        25.029875
+                  ]
+            },
+            {
+                  "name": "Greens Mini Mart",
+                  "text": "A local market providing groceries and daily essentials to the community.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220703,
+                        25.056446
+                  ]
+            },
+            {
+                  "name": "Choice Mart",
+                  "text": "A neighborhood market with a selection of household items and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        55.220545,
+                        25.055423
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2444, 25.0598],
@@ -963,7 +8874,304 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "atlantis-the-palm-landmarks-v2",
+    id: "atlantis-the-palm-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Dubai Balloon At Atlantis",
+                  "text": "Ein gefesselter Heliumballon am Atlantis, der Passagiere für einen Rundumblick auf 300 Meter Höhe über die Palm Jumeirah hebt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.120064,
+                        25.131832
+                  ]
+            },
+            {
+                  "name": "Reel Cinema",
+                  "text": "Ein luxuriöses Kino im ikonischen Atlantis-Resort, das exklusive Filmvorführungen in privatem Ambiente bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.123974,
+                        25.1268
+                  ]
+            },
+            {
+                  "name": "Lost Chambers Atlantis",
+                  "text": "Ein Aquarium mit dem Thema der versunkenen Stadt Atlantis, das über 65.000 Meerestiere in unterirdischen Kammern beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118535,
+                        25.131799
+                  ]
+            },
+            {
+                  "name": "Rapids Beach",
+                  "text": "Ein privater Strandabschnitt am Atlantis-Resort, der direkt an die Stromschnellen des Aquaventure-Wasserparks grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        55.121688,
+                        25.134853
+                  ]
+            },
+            {
+                  "name": "Aquaventure Beach",
+                  "text": "Ein exklusiver weißer Sandstrand, der zum Aquaventure-Komplex gehört und Blick auf den Arabischen Golf bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        55.122614,
+                        25.133607
+                  ]
+            },
+            {
+                  "name": "Lagoons Beach",
+                  "text": "Ein ruhiger Strandabschnitt an den künstlichen Wasserwegen des Atlantis-Resorts auf der Palm Jumeirah.",
+                  "category": "recreational",
+                  "coords": [
+                        55.119395,
+                        25.133336
+                  ]
+            },
+            {
+                  "name": "Nasimi Beach",
+                  "text": "Ein bekannter Strandclub auf der Palm Jumeirah, berühmt für seine Partys und den Blick auf die Skyline von Dubai.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118011,
+                        25.129602
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Siddik Mosque",
+                  "text": "Eine elegante Moschee auf dem Stamm der Palm Jumeirah, erkennbar an ihrer markanten weißen Kuppel und dem Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        55.124955,
+                        25.125041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Dubai Balloon At Atlantis",
+                  "text": "Rögzített héliumballon az Atlantisnál, amely 300 méter magasba emeli az utasokat a Palm Jumeirah panorámájáért.",
+                  "category": "landmark",
+                  "coords": [
+                        55.120064,
+                        25.131832
+                  ]
+            },
+            {
+                  "name": "Reel Cinema",
+                  "text": "Luxusmozi az ikonikus Atlantis üdülőhelyen, amely exkluzív vetítéseket kínál privát környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.123974,
+                        25.1268
+                  ]
+            },
+            {
+                  "name": "Lost Chambers Atlantis",
+                  "text": "Az elsüllyedt Atlantisz témájára épülő akvárium, amely több mint 65 000 tengeri állatnak ad otthont föld alatti kamrákban.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118535,
+                        25.131799
+                  ]
+            },
+            {
+                  "name": "Rapids Beach",
+                  "text": "Privát strand az Atlantis üdülőhelyen, amely közvetlenül az Aquaventure vízipark vadvízi folyója mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        55.121688,
+                        25.134853
+                  ]
+            },
+            {
+                  "name": "Aquaventure Beach",
+                  "text": "Az Aquaventure komplexumhoz tartozó exkluzív fehér homokos strand, kilátással az Arab-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        55.122614,
+                        25.133607
+                  ]
+            },
+            {
+                  "name": "Lagoons Beach",
+                  "text": "Nyugodt strandrész az Atlantis üdülőhely mesterséges vízi útjainál a Palm Jumeirah szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        55.119395,
+                        25.133336
+                  ]
+            },
+            {
+                  "name": "Nasimi Beach",
+                  "text": "Népszerű strandklub a Palm Jumeirah-n, amely bulijairól és a dubaji felhőkarcolókra nyíló kilátásáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118011,
+                        25.129602
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Siddik Mosque",
+                  "text": "Elegáns mecset a Palm Jumeirah törzsén, amely jellegzetes fehér kupolájáról és minaretjéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.124955,
+                        25.125041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Dubai Balloon At Atlantis",
+                  "text": "Un balon cu heliu ancorat la Atlantis, care ridică pasagerii la 300 de metri înălțime pentru o vedere panoramică asupra Palm Jumeirah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.120064,
+                        25.131832
+                  ]
+            },
+            {
+                  "name": "Reel Cinema",
+                  "text": "Un cinematograf de lux în legendarul complex Atlantis, oferind proiecții exclusive într-un cadru privat.",
+                  "category": "cultural",
+                  "coords": [
+                        55.123974,
+                        25.1268
+                  ]
+            },
+            {
+                  "name": "Lost Chambers Atlantis",
+                  "text": "Un acvariu cu tema orașului scufundat Atlantis, care găzduiește peste 65.000 de animale marine în camere subterane.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118535,
+                        25.131799
+                  ]
+            },
+            {
+                  "name": "Rapids Beach",
+                  "text": "O porțiune de plajă privată la complexul Atlantis, situată chiar lângă râul cu rapide al parcului acvatic Aquaventure.",
+                  "category": "recreational",
+                  "coords": [
+                        55.121688,
+                        25.134853
+                  ]
+            },
+            {
+                  "name": "Aquaventure Beach",
+                  "text": "O plajă exclusivistă cu nisip alb aparținând complexului Aquaventure, cu vedere la Golful Arab.",
+                  "category": "recreational",
+                  "coords": [
+                        55.122614,
+                        25.133607
+                  ]
+            },
+            {
+                  "name": "Lagoons Beach",
+                  "text": "O porțiune liniștită de plajă lângă căile navigabile artificiale ale complexului Atlantis de pe Palm Jumeirah.",
+                  "category": "recreational",
+                  "coords": [
+                        55.119395,
+                        25.133336
+                  ]
+            },
+            {
+                  "name": "Nasimi Beach",
+                  "text": "Un club de plajă popular pe Palm Jumeirah, renumit pentru petrecerile sale și vederea spre orizontul Dubaiului.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118011,
+                        25.129602
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Siddik Mosque",
+                  "text": "O moschee elegantă pe trunchiul Palm Jumeirah, recunoscută după cupola albă distinctivă și minaretul său.",
+                  "category": "landmark",
+                  "coords": [
+                        55.124955,
+                        25.125041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Dubai Balloon At Atlantis",
+                  "text": "A tethered helium balloon at Atlantis that lifts passengers 300 meters high for 360-degree views over Palm Jumeirah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.120064,
+                        25.131832
+                  ]
+            },
+            {
+                  "name": "Reel Cinema",
+                  "text": "A luxury cinema located within the iconic Atlantis resort, offering exclusive screenings in a private setting.",
+                  "category": "cultural",
+                  "coords": [
+                        55.123974,
+                        25.1268
+                  ]
+            },
+            {
+                  "name": "Lost Chambers Atlantis",
+                  "text": "An aquarium themed after the lost city of Atlantis, housing over 65,000 marine animals in underground chambers.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118535,
+                        25.131799
+                  ]
+            },
+            {
+                  "name": "Rapids Beach",
+                  "text": "A private beach stretch at the Atlantis resort, located right next to the Aquaventure water park's river rapids.",
+                  "category": "recreational",
+                  "coords": [
+                        55.121688,
+                        25.134853
+                  ]
+            },
+            {
+                  "name": "Aquaventure Beach",
+                  "text": "An exclusive white sand beach belonging to the Aquaventure complex, offering views of the Arabian Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        55.122614,
+                        25.133607
+                  ]
+            },
+            {
+                  "name": "Lagoons Beach",
+                  "text": "A serene beach stretch located by the artificial waterways of the Atlantis resort on Palm Jumeirah.",
+                  "category": "recreational",
+                  "coords": [
+                        55.119395,
+                        25.133336
+                  ]
+            },
+            {
+                  "name": "Nasimi Beach",
+                  "text": "A popular beach club on Palm Jumeirah known for its parties and views of the Dubai Marina skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        55.118011,
+                        25.129602
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Siddik Mosque",
+                  "text": "An elegant mosque on the trunk of Palm Jumeirah, recognized by its distinct white dome and minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        55.124955,
+                        25.125041
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1172, 25.1304],
@@ -1027,7 +9235,232 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sharjah-museum-of-islamic-civilization-landmarks-v2",
+    id: "sharjah-museum-of-islamic-civilization-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharjah Duty Free Building",
+                  "text": "Dieses Gebäude in Schardscha bietet von seinen oberen Etagen Ausblicke auf das geschäftige Handelsviertel.",
+                  "category": "natural",
+                  "coords": [
+                        55.395507,
+                        25.36214
+                  ]
+            },
+            {
+                  "name": "Naif Dish market",
+                  "text": "Ein lebhafter Markt in Schardscha, der auf Satellitenschüsseln, Elektronik und Haushaltswaren spezialisiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.39167,
+                        25.360039
+                  ]
+            },
+            {
+                  "name": "Sharjah Art Museum",
+                  "text": "Dieses bedeutende Kunstmuseum in Schardscha zeigt eine umfangreiche Sammlung moderner und zeitgenössischer arabischer Werke.",
+                  "category": "museum",
+                  "coords": [
+                        55.387171,
+                        25.361361
+                  ]
+            },
+            {
+                  "name": "Bait Al Serkal",
+                  "text": "Dieses historische Gebäude, einst ein Wohnhaus, beherbergt heute innovative zeitgenössische Kunstprojekte.",
+                  "category": "cultural",
+                  "coords": [
+                        55.386206,
+                        25.361203
+                  ]
+            },
+            {
+                  "name": "Sharjah Museum of Islamic Civilization",
+                  "text": "Dieses Museum in einem ehemaligen Souq zeigt über 5.000 Artefakte aus der gesamten islamischen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        55.389256,
+                        25.364886
+                  ]
+            },
+            {
+                  "name": "Rain Room",
+                  "text": "Eine immersive Installation in Schardscha, bei der Besucher durch Regen laufen können, ohne nass zu werden.",
+                  "category": "museum",
+                  "coords": [
+                        55.393154,
+                        25.365589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharjah Duty Free Building",
+                  "text": "Ez a sardzsai épület felső emeleteiről kilátást nyújt a pezsgő kereskedelmi negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        55.395507,
+                        25.36214
+                  ]
+            },
+            {
+                  "name": "Naif Dish market",
+                  "text": "Nyüzsgő piac Sardzsában, amely műholdvevőkre, elektronikára és háztartási cikkekre specializálódott.",
+                  "category": "landmark",
+                  "coords": [
+                        55.39167,
+                        25.360039
+                  ]
+            },
+            {
+                  "name": "Sharjah Art Museum",
+                  "text": "Ez a jelentős sardzsai művészeti múzeum a modern és kortárs arab alkotások széles gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.387171,
+                        25.361361
+                  ]
+            },
+            {
+                  "name": "Bait Al Serkal",
+                  "text": "Ez a történelmi épület, amely egykor lakóház volt, ma innovatív kortárs művészeti projekteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        55.386206,
+                        25.361203
+                  ]
+            },
+            {
+                  "name": "Sharjah Museum of Islamic Civilization",
+                  "text": "Ez az egykori szúkban berendezett múzeum több mint 5000 műtárgyat mutat be az iszlám világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        55.389256,
+                        25.364886
+                  ]
+            },
+            {
+                  "name": "Rain Room",
+                  "text": "Magával ragadó sardzsai installáció, ahol a látogatók anélkül sétálhatnak át az esőn, hogy eláznának.",
+                  "category": "museum",
+                  "coords": [
+                        55.393154,
+                        25.365589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharjah Duty Free Building",
+                  "text": "Această clădire din Sharjah oferă de la etajele superioare vederi asupra districtului comercial aglomerat.",
+                  "category": "natural",
+                  "coords": [
+                        55.395507,
+                        25.36214
+                  ]
+            },
+            {
+                  "name": "Naif Dish market",
+                  "text": "O piață animată din Sharjah, specializată în antene satelit, electronice și articole de uz casnic.",
+                  "category": "landmark",
+                  "coords": [
+                        55.39167,
+                        25.360039
+                  ]
+            },
+            {
+                  "name": "Sharjah Art Museum",
+                  "text": "Acest important muzeu de artă din Sharjah expune o colecție vastă de lucrări arabe moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        55.387171,
+                        25.361361
+                  ]
+            },
+            {
+                  "name": "Bait Al Serkal",
+                  "text": "Această clădire istorică, fostă reședință, găzduiește acum proiecte inovatoare de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        55.386206,
+                        25.361203
+                  ]
+            },
+            {
+                  "name": "Sharjah Museum of Islamic Civilization",
+                  "text": "Acest muzeu situat într-un fost souq expune peste 5.000 de artefacte din întreaga lume islamică.",
+                  "category": "museum",
+                  "coords": [
+                        55.389256,
+                        25.364886
+                  ]
+            },
+            {
+                  "name": "Rain Room",
+                  "text": "O instalație imersivă din Sharjah unde vizitatorii pot merge prin ploaie fără a se uda.",
+                  "category": "museum",
+                  "coords": [
+                        55.393154,
+                        25.365589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharjah Duty Free Building",
+                  "text": "This building in Sharjah offers views over the bustling commercial district from its upper floors.",
+                  "category": "natural",
+                  "coords": [
+                        55.395507,
+                        25.36214
+                  ]
+            },
+            {
+                  "name": "Naif Dish market",
+                  "text": "A lively market in Sharjah specializing in satellite dishes, electronics, and household goods.",
+                  "category": "landmark",
+                  "coords": [
+                        55.39167,
+                        25.360039
+                  ]
+            },
+            {
+                  "name": "Sharjah Art Museum",
+                  "text": "This major art museum in Sharjah showcases an extensive collection of modern and contemporary Arab works.",
+                  "category": "museum",
+                  "coords": [
+                        55.387171,
+                        25.361361
+                  ]
+            },
+            {
+                  "name": "Bait Al Serkal",
+                  "text": "This historical building, once a residence, now hosts innovative contemporary art projects.",
+                  "category": "cultural",
+                  "coords": [
+                        55.386206,
+                        25.361203
+                  ]
+            },
+            {
+                  "name": "Sharjah Museum of Islamic Civilization",
+                  "text": "This museum housed in a former souq displays over 5.000 artifacts from across the Islamic world.",
+                  "category": "museum",
+                  "coords": [
+                        55.389256,
+                        25.364886
+                  ]
+            },
+            {
+                  "name": "Rain Room",
+                  "text": "An immersive installation in Sharjah where visitors can walk through rain without getting wet.",
+                  "category": "museum",
+                  "coords": [
+                        55.393154,
+                        25.365589
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-SH",
     coords: [55.3850, 25.3644],
@@ -1091,7 +9524,232 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "al-jahili-fort-landmarks-v2",
+    id: "al-jahili-fort-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Al Muwaiji Al Ain",
+                  "text": "Ein sorgfältig restaurierter Palast, der der Herrscherfamilie von Abu Dhabi als historischer Wohnsitz diente.",
+                  "category": "landmark",
+                  "coords": [
+                        55.728256,
+                        24.225918
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "Eine Ausstellung in Al Jahili, die Wilfred Thesiger gewidmet ist, der das „Leere Viertel“ durchquerte.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "Qasr Al Muwaiji",
+                  "text": "Dieses Fort aus dem 19. Jahrhundert ist der Geburtsort von Scheich Khalifa bin Zayed Al Nahyan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.726944,
+                        24.225145
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa bin Zayed Al Nahyan Mosque",
+                  "text": "Diese monumentale Moschee in Al-Ain besticht durch ihre gewaltige Kuppel und die aufwendige islamische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        55.746761,
+                        24.225951
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Khair",
+                  "text": "Eine lokale Moschee im Viertel Al Jahili, die durch ihre traditionelle arabische Bauweise besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.746791,
+                        24.201907
+                  ]
+            },
+            {
+                  "name": "Jahili Mosque",
+                  "text": "Diese Moschee befindet sich direkt neben dem historischen Al Jahili Fort und dient der örtlichen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        55.752405,
+                        24.215404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Al Muwaiji Al Ain",
+                  "text": "Gondosan restaurált palota, amely Abu Dhabi uralkodócsaládjának történelmi lakhelyeként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        55.728256,
+                        24.225918
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "Wilfred Thesigernek szentelt kiállítás Al Jahiliban, aki keresztülutazott az „Üres Negyed” sivatagon.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "Qasr Al Muwaiji",
+                  "text": "Ez a 19. századi erőd Khalifa bin Zayed Al Nahyan sejk születési helye.",
+                  "category": "landmark",
+                  "coords": [
+                        55.726944,
+                        24.225145
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa bin Zayed Al Nahyan Mosque",
+                  "text": "Al-Ain monumentális mecsetje, amely hatalmas központi kupolájáról és díszes iszlám építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        55.746761,
+                        24.225951
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Khair",
+                  "text": "Helyi mecset az Al Jahili negyedben, amely hagyományos arab stílusú építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.746791,
+                        24.201907
+                  ]
+            },
+            {
+                  "name": "Jahili Mosque",
+                  "text": "Ez a mecset közvetlenül a történelmi Al Jahili erőd mellett található, és a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.752405,
+                        24.215404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Al Muwaiji Al Ain",
+                  "text": "Un palat restaurat cu grijă, care a servit drept reședință istorică pentru familia conducătoare din Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.728256,
+                        24.225918
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "O expoziție în Al Jahili dedicată lui Wilfred Thesiger, care a traversat deșertul „Sfertul Gol”.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "Qasr Al Muwaiji",
+                  "text": "Această fortăreață din secolul al XIX-lea este locul de naștere al șeicului Khalifa bin Zayed Al Nahyan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.726944,
+                        24.225145
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa bin Zayed Al Nahyan Mosque",
+                  "text": "O moschee monumentală în Al Ain, remarcabilă prin cupola sa uriașă și arhitectura islamică elaborată.",
+                  "category": "religious",
+                  "coords": [
+                        55.746761,
+                        24.225951
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Khair",
+                  "text": "O moschee locală în cartierul Al Jahili, care se remarcă prin arhitectura sa tradițională arabă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.746791,
+                        24.201907
+                  ]
+            },
+            {
+                  "name": "Jahili Mosque",
+                  "text": "Această moschee se află chiar lângă fortul istoric Al Jahili și deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        55.752405,
+                        24.215404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Al Muwaiji Al Ain",
+                  "text": "A carefully restored palace that served as a historical residence for the ruling family of Abu Dhabi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.728256,
+                        24.225918
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "An exhibition in Al Jahili dedicated to Wilfred Thesiger, who crossed the Empty Quarter desert.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "Qasr Al Muwaiji",
+                  "text": "This 19th-century fort is the birthplace of Sheikh Khalifa bin Zayed Al Nahyan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.726944,
+                        24.225145
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa bin Zayed Al Nahyan Mosque",
+                  "text": "A monumental mosque in Al Ain, notable for its massive central dome and intricate Islamic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        55.746761,
+                        24.225951
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Khair",
+                  "text": "A local mosque in the Al Jahili neighborhood, featuring traditional Arabian-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.746791,
+                        24.201907
+                  ]
+            },
+            {
+                  "name": "Jahili Mosque",
+                  "text": "This mosque is located right next to the historic Al Jahili Fort and serves the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.752405,
+                        24.215404
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-AZ",
     coords: [55.7519, 24.2155],
@@ -1155,7 +9813,1204 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "al-fahidi-historical-neighbourhood-landmarks-v2",
+    id: "al-fahidi-historical-neighbourhood-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "In einem traditionellen emiratischen Haus untergebracht, zeigt dieses Museum die Geschichte des Kaffees und antike Brühwerkzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        55.300098,
+                        25.263708
+                  ]
+            },
+            {
+                  "name": "Deira Clocktower",
+                  "text": "Ein markantes Wahrzeichen aus den 1960er Jahren an einer wichtigen Kreuzung, das die frühe Entwicklung des modernen Dubai symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32645,
+                        25.258658
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality",
+                  "text": "In einem bedeutenden Verwaltungsgebäude untergebracht, überwacht diese Institution die Planung und Entwicklung der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.311728,
+                        25.264526
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Ein interaktives Museum mit verblüffenden optischen Täuschungen und sensorischen Exponaten für alle Altersgruppen.",
+                  "category": "museum",
+                  "coords": [
+                        55.303856,
+                        25.264456
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Eine skulpturale Installation, die das lokale Erbe feiert und inmitten der restaurierten Gassen des historischen Viertels steht.",
+                  "category": "historical",
+                  "coords": [
+                        55.335965,
+                        25.262255
+                  ]
+            },
+            {
+                  "name": "VOX Cinemas",
+                  "text": "Ein modernes Multiplex-Kino, das die neuesten Blockbuster und erstklassige Filmerlebnisse in der Stadt bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331532,
+                        25.252334
+                  ]
+            },
+            {
+                  "name": "Hamria Shopping Centre",
+                  "text": "Ein langjähriges Einkaufsziel, das eine Vielzahl von Textilien, Elektronik und traditionellen Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.341368,
+                        25.283382
+                  ]
+            },
+            {
+                  "name": "Moaza Mohammed Foodstuff Trading",
+                  "text": "Ein traditioneller Handelsposten im Viertel Deira, spezialisiert auf lokale Lebensmittel, Gewürze und Trockenwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331033,
+                        25.278024
+                  ]
+            },
+            {
+                  "name": "Rayal Grocery",
+                  "text": "Ein typischer lokaler Lebensmittelladen, der das Viertel mit frischen Produkten und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.338005,
+                        25.282249
+                  ]
+            },
+            {
+                  "name": "Privilege Line General Trading",
+                  "text": "Ein vielfältiges Handelszentrum in Deira, bekannt für Großhandelswaren und eine breite Palette an Importprodukten.",
+                  "category": "cultural",
+                  "coords": [
+                        55.346133,
+                        25.278144
+                  ]
+            },
+            {
+                  "name": "Future Star BMT LLC",
+                  "text": "Ein lokaler Marktplatz in der Nähe des historischen Al-Fahidi-Viertels, der für den regionalen Handel in Deira von Bedeutung ist.",
+                  "category": "cultural",
+                  "coords": [
+                        55.33247,
+                        25.265835
+                  ]
+            },
+            {
+                  "name": "Friday Market Area 1",
+                  "text": "Ein traditioneller Marktplatz mit Ständen für Textilien und Waren in der Nähe des Dubai Creek.",
+                  "category": "cultural",
+                  "coords": [
+                        55.340235,
+                        25.28395
+                  ]
+            },
+            {
+                  "name": "al kayed garaj",
+                  "text": "Ein lokaler Anziehungspunkt im geschäftigen Deira, der das kommerzielle Erbe des Viertels widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.344897,
+                        25.272748
+                  ]
+            },
+            {
+                  "name": "lotus hotel",
+                  "text": "Ein bekanntes Hotelgebäude im Stadtteil Deira, das als markanter Orientierungspunkt in der Nähe des Gold-Souks dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318655,
+                        25.26466
+                  ]
+            },
+            {
+                  "name": "Fish Roundabout",
+                  "text": "Ein berühmter Kreisverkehr in Deira, der durch eine große Skulptur zweier Fische auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.316445,
+                        25.270057
+                  ]
+            },
+            {
+                  "name": "Souk Al Seef",
+                  "text": "Ein nachgebauter historischer Souk am Ufer des Dubai Creek, der traditionelle Windturm-Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.305316,
+                        25.263733
+                  ]
+            },
+            {
+                  "name": "bank saderat iran",
+                  "text": "Ein markantes Gebäude der Bank Saderat Iran, das für seine moderne Architektur in Dubais Geschäftszentrum bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.303049,
+                        25.268337
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "Ein mehrstöckiges Einkaufszentrum in Deira, das eine breite Palette an internationalen Waren und Elektronik bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308502,
+                        25.252421
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cruise at Pier 1",
+                  "text": "Der Abfahrtspunkt für Besichtigungstouren am Dubai Creek, die traditionelle Ausblicke auf die Skyline bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.317732,
+                        25.258445
+                  ]
+            },
+            {
+                  "name": "Dhow Wharfage",
+                  "text": "Die Anlegestelle der Dhows am Dubai Creek, wo traditionelle Holzschiffe für den regionalen Handel beladen werden.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321544,
+                        25.255992
+                  ]
+            },
+            {
+                  "name": "Entrepreneur Business Village Deira Dubai",
+                  "text": "Ein moderner Gewerbekomplex in Deira, der als Zentrum für Unternehmertum und Start-ups in Dubai dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327078,
+                        25.257356
+                  ]
+            },
+            {
+                  "name": "Twin Tower",
+                  "text": "Diese 1998 fertiggestellten Zwillingstürme am Dubai Creek beherbergen ein Einkaufszentrum und Luxusresidenzen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308733,
+                        25.266298
+                  ]
+            },
+            {
+                  "name": "MTN rent a car for Luxury and sport cars in Dubai",
+                  "text": "Ein spezialisierter Verleih für Luxus- und Sportwagen im geschäftigen Geschäftsviertel von Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.34357,
+                        25.272859
+                  ]
+            },
+            {
+                  "name": "Al Seef Dubai",
+                  "text": "Eine moderne Promenade im historischen Stil am Dubai Creek, die traditionelle Architektur mit modernen Cafés verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.306555,
+                        25.26225
+                  ]
+            },
+            {
+                  "name": "Masjid Salman Al Farsi",
+                  "text": "Eine muslimische Gebetsstätte im Stadtteil Deira, die durch ihre klassische Sandsteinoptik besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.320878,
+                        25.27161
+                  ]
+            },
+            {
+                  "name": "Khubaise Small Mosque",
+                  "text": "Eine kleine, charmante Moschee im Wohnviertel Al Khabaisi, die der lokalen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.324793,
+                        25.263833
+                  ]
+            },
+            {
+                  "name": "Al Ghurair Mosque",
+                  "text": "Diese elegante Moschee liegt direkt neben dem Al Ghurair Centre, einem der ältesten Einkaufszentren Dubais.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318452,
+                        25.267744
+                  ]
+            },
+            {
+                  "name": "Masjid Khalifa bin Sultan Mosque",
+                  "text": "Eine bedeutende Moschee in Deira, die durch ihr hohes Minarett und ihre traditionellen Fassadenverzierungen auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346591,
+                        25.279063
+                  ]
+            },
+            {
+                  "name": "Fathima Al Zarouni Masjid",
+                  "text": "Eine moderne Moschee in den belebten Straßen von Deira, bekannt für ihre ruhige Atmosphäre inmitten des Stadtverkehrs.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351519,
+                        25.282287
+                  ]
+            },
+            {
+                  "name": "Al Khabeesi Mosque",
+                  "text": "Die zentrale Moschee des Al-Khabaisi-Viertels, die durch ihre schlichte, aber funktionale islamische Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32773,
+                        25.2661
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Sultan bin Saleem Mosque",
+                  "text": "Eine markante Moschee in Deira mit zwei Minaretten, die ein wichtiges geistliches Zentrum für die Anwohner darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327851,
+                        25.27268
+                  ]
+            },
+            {
+                  "name": "Gargash Mosque",
+                  "text": "Eine bekannte Moschee im Industrie- und Handelsviertel von Deira, die für ihre elegante Kuppel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321944,
+                        25.2669
+                  ]
+            },
+            {
+                  "name": "Hashimi Masjid",
+                  "text": "Eine friedliche Moschee in der Nähe des Dubai Creek, die für ihre traditionellen islamischen Gestaltungselemente geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        55.323806,
+                        25.271184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "Egy hagyományos emírségi házban található múzeum, amely a kávé történelmét és antik főzőeszközöket mutat be a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        55.300098,
+                        25.263708
+                  ]
+            },
+            {
+                  "name": "Deira Clocktower",
+                  "text": "Az 1960-as évek egyik jelentős nevezetessége egy fontos útkereszteződésben, amely a modern Dubaj korai fejlődését szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32645,
+                        25.258658
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality",
+                  "text": "Egy jelentős adminisztratív épületben található intézmény, amely a város tervezését és fejlesztését felügyeli.",
+                  "category": "landmark",
+                  "coords": [
+                        55.311728,
+                        25.264526
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Interaktív múzeum, amely észbontó optikai csalódásokat és érzékszervi kiállításokat kínál minden korosztály számára.",
+                  "category": "museum",
+                  "coords": [
+                        55.303856,
+                        25.264456
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A helyi örökséget ünneplő szobrászati alkotás, amely a történelmi negyed restaurált sikátorai között található.",
+                  "category": "historical",
+                  "coords": [
+                        55.335965,
+                        25.262255
+                  ]
+            },
+            {
+                  "name": "VOX Cinemas",
+                  "text": "Modern, többtermes mozi, amely a legújabb kasszasikereket és prémium moziélményeket kínálja a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331532,
+                        25.252334
+                  ]
+            },
+            {
+                  "name": "Hamria Shopping Centre",
+                  "text": "Régóta működő kiskereskedelmi központ, amely textiltermékek, elektronikai cikkek és hagyományos áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        55.341368,
+                        25.283382
+                  ]
+            },
+            {
+                  "name": "Moaza Mohammed Foodstuff Trading",
+                  "text": "Hagyományos kereskedőhely Deira környékén, amely helyi élelmiszerekre, fűszerekre és szárazárukra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331033,
+                        25.278024
+                  ]
+            },
+            {
+                  "name": "Rayal Grocery",
+                  "text": "Tipikus helyi élelmiszerbolt, amely friss áruval és napi szükségleti cikkekkel látja el a környéket.",
+                  "category": "cultural",
+                  "coords": [
+                        55.338005,
+                        25.282249
+                  ]
+            },
+            {
+                  "name": "Privilege Line General Trading",
+                  "text": "Deira egyik sokszínű kereskedelmi csomópontja, amely nagykereskedelmi áruiról és az importált termékek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.346133,
+                        25.278144
+                  ]
+            },
+            {
+                  "name": "Future Star BMT LLC",
+                  "text": "Helyi piactér az Al Fahidi történelmi negyed közelében, amely Deira kereskedelmi életének egyik fontos pontja.",
+                  "category": "cultural",
+                  "coords": [
+                        55.33247,
+                        25.265835
+                  ]
+            },
+            {
+                  "name": "Friday Market Area 1",
+                  "text": "Hagyományos piactér textil- és áruárusító standokkal a Dubai-öböl közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        55.340235,
+                        25.28395
+                  ]
+            },
+            {
+                  "name": "al kayed garaj",
+                  "text": "Helyi nevezetesség Deira forgalmas részén, amely a negyed kereskedelmi örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.344897,
+                        25.272748
+                  ]
+            },
+            {
+                  "name": "lotus hotel",
+                  "text": "Ismert szállodaépület Deira negyedben, amely jellegzetes tájékozódási pont az Aranybazár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318655,
+                        25.26466
+                  ]
+            },
+            {
+                  "name": "Fish Roundabout",
+                  "text": "Híres körforgalom Deirában, amelyet két nagy halat ábrázoló szobor díszít.",
+                  "category": "landmark",
+                  "coords": [
+                        55.316445,
+                        25.270057
+                  ]
+            },
+            {
+                  "name": "Souk Al Seef",
+                  "text": "A Dubai-öböl partján épült, hagyományos széltornyos építészetet bemutató, korhű bazár.",
+                  "category": "landmark",
+                  "coords": [
+                        55.305316,
+                        25.263733
+                  ]
+            },
+            {
+                  "name": "bank saderat iran",
+                  "text": "A Bank Saderat Iran jellegzetes épülete, amely modern építészetéről ismert Dubai üzleti központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        55.303049,
+                        25.268337
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "Többszintes bevásárlóközpont Deirában, amely nemzetközi áruk és elektronikai cikkek széles választékát kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308502,
+                        25.252421
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cruise at Pier 1",
+                  "text": "Városnéző hajók indulási helye a Dubai-öbölben, ahonnan hagyományos kilátás nyílik a felhőkarcolókra.",
+                  "category": "landmark",
+                  "coords": [
+                        55.317732,
+                        25.258445
+                  ]
+            },
+            {
+                  "name": "Dhow Wharfage",
+                  "text": "A dhow-k kikötőhelye a Dubai-öbölnél, ahol hagyományos fahajókat rakodnak meg a regionális kereskedelemhez.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321544,
+                        25.255992
+                  ]
+            },
+            {
+                  "name": "Entrepreneur Business Village Deira Dubai",
+                  "text": "Modern üzleti komplexum Deirában, amely a dubai vállalkozók és start-upok központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327078,
+                        25.257356
+                  ]
+            },
+            {
+                  "name": "Twin Tower",
+                  "text": "Az 1998-ban elkészült, a Dubai-öbölre néző ikertornyok egy bevásárlóközpontnak és luxuslakásoknak adnak otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308733,
+                        25.266298
+                  ]
+            },
+            {
+                  "name": "MTN rent a car for Luxury and sport cars in Dubai",
+                  "text": "Luxus- és sportautók bérlésére szakosodott szolgáltató Dubai forgalmas üzleti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.34357,
+                        25.272859
+                  ]
+            },
+            {
+                  "name": "Al Seef Dubai",
+                  "text": "Modern, történelmi stílusú sétány a Dubai-öböl partján, ahol a hagyományos építészet modern kávézókkal találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        55.306555,
+                        25.26225
+                  ]
+            },
+            {
+                  "name": "Masjid Salman Al Farsi",
+                  "text": "Muszlim imaház Deira negyedben, amely klasszikus homokkő megjelenésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.320878,
+                        25.27161
+                  ]
+            },
+            {
+                  "name": "Khubaise Small Mosque",
+                  "text": "Kicsi, bájos mecset Al Khabaisi lakónegyedében, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.324793,
+                        25.263833
+                  ]
+            },
+            {
+                  "name": "Al Ghurair Mosque",
+                  "text": "Ez az elegáns mecset az Al Ghurair Centre, Dubai egyik legrégebbi bevásárlóközpontja mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318452,
+                        25.267744
+                  ]
+            },
+            {
+                  "name": "Masjid Khalifa bin Sultan Mosque",
+                  "text": "Jelentős mecset Deirában, amely magas minaretjével és hagyományos homlokzati díszeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346591,
+                        25.279063
+                  ]
+            },
+            {
+                  "name": "Fathima Al Zarouni Masjid",
+                  "text": "Modern mecset Deira forgalmas utcáin, amely a városi forgalom közepette nyújtott nyugodt hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351519,
+                        25.282287
+                  ]
+            },
+            {
+                  "name": "Al Khabeesi Mosque",
+                  "text": "Az Al Khabaisi negyed központi mecsete, amely egyszerű, de funkcionális iszlám építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32773,
+                        25.2661
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Sultan bin Saleem Mosque",
+                  "text": "Jellegzetes kétminaretes mecset Deirában, amely a környék lakóinak fontos szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327851,
+                        25.27268
+                  ]
+            },
+            {
+                  "name": "Gargash Mosque",
+                  "text": "Ismert mecset Deira ipari és kereskedelmi negyedében, amely elegáns kupolájáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321944,
+                        25.2669
+                  ]
+            },
+            {
+                  "name": "Hashimi Masjid",
+                  "text": "Békés mecset a Dubai-öböl közelében, amelyet hagyományos iszlám díszítőelemei miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.323806,
+                        25.271184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "Situat într-o casă tradițională emirată, acest muzeu prezintă istoria cafelei și instrumente de preparare antice din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        55.300098,
+                        25.263708
+                  ]
+            },
+            {
+                  "name": "Deira Clocktower",
+                  "text": "Un punct de reper proeminent din anii 1960, situat la o intersecție majoră, simbolizând dezvoltarea timpurie a Dubaiului modern.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32645,
+                        25.258658
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality",
+                  "text": "Găzduită într-o clădire administrativă notabilă, această instituție supraveghează planificarea și dezvoltarea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.311728,
+                        25.264526
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Un muzeu interactiv care oferă iluzii optice uluitoare și exponate senzoriale pentru toate vârstele.",
+                  "category": "museum",
+                  "coords": [
+                        55.303856,
+                        25.264456
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "O instalație sculpturală care celebrează patrimoniul local, situată printre aleile restaurate ale cartierului istoric.",
+                  "category": "historical",
+                  "coords": [
+                        55.335965,
+                        25.262255
+                  ]
+            },
+            {
+                  "name": "VOX Cinemas",
+                  "text": "Un cinematograf modern cu mai multe săli, care oferă cele mai recente blockbuster-uri și experiențe de vizionare premium în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331532,
+                        25.252334
+                  ]
+            },
+            {
+                  "name": "Hamria Shopping Centre",
+                  "text": "O destinație de retail cu vechime, care oferă o varietate de textile, electronice și bunuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.341368,
+                        25.283382
+                  ]
+            },
+            {
+                  "name": "Moaza Mohammed Foodstuff Trading",
+                  "text": "Un punct comercial tradițional specializat în produse alimentare locale, condimente și produse uscate în zona Deira.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331033,
+                        25.278024
+                  ]
+            },
+            {
+                  "name": "Rayal Grocery",
+                  "text": "O băcănie locală tipică ce deservește cartierul cu produse proaspete și articole esențiale zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        55.338005,
+                        25.282249
+                  ]
+            },
+            {
+                  "name": "Privilege Line General Trading",
+                  "text": "Un hub comercial diversificat din Deira, cunoscut pentru mărfuri en-gros și o gamă largă de produse importate.",
+                  "category": "cultural",
+                  "coords": [
+                        55.346133,
+                        25.278144
+                  ]
+            },
+            {
+                  "name": "Future Star BMT LLC",
+                  "text": "O piață locală situată lângă cartierul istoric Al Fahidi, esențială pentru comerțul regional din Deira.",
+                  "category": "cultural",
+                  "coords": [
+                        55.33247,
+                        25.265835
+                  ]
+            },
+            {
+                  "name": "Friday Market Area 1",
+                  "text": "O piață tradițională cu standuri de textile și mărfuri situată în apropierea canalului Dubai Creek.",
+                  "category": "cultural",
+                  "coords": [
+                        55.340235,
+                        25.28395
+                  ]
+            },
+            {
+                  "name": "al kayed garaj",
+                  "text": "Un punct de interes local în zona aglomerată Deira, reflectând moștenirea comercială a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.344897,
+                        25.272748
+                  ]
+            },
+            {
+                  "name": "lotus hotel",
+                  "text": "O clădire hotelieră cunoscută în districtul Deira, servind ca punct de reper distinctiv lângă Bazarul de Aur.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318655,
+                        25.26466
+                  ]
+            },
+            {
+                  "name": "Fish Roundabout",
+                  "text": "Un sens giratoriu faimos în Deira, evidențiat de o sculptură mare reprezentând doi pești.",
+                  "category": "landmark",
+                  "coords": [
+                        55.316445,
+                        25.270057
+                  ]
+            },
+            {
+                  "name": "Souk Al Seef",
+                  "text": "Un bazar istoric reconstituit pe malul canalului Dubai Creek, prezentând arhitectură tradițională cu turnuri de vânt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.305316,
+                        25.263733
+                  ]
+            },
+            {
+                  "name": "bank saderat iran",
+                  "text": "O clădire distinctivă a Bank Saderat Iran, cunoscută pentru arhitectura sa modernă în centrul comercial al Dubaiului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.303049,
+                        25.268337
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "Un centru comercial cu mai multe etaje în Deira, oferind o gamă largă de mărfuri internaționale și electronice.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308502,
+                        25.252421
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cruise at Pier 1",
+                  "text": "Punctul de plecare pentru croazierele turistice pe Dubai Creek, oferind vederi tradiționale asupra orizontului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.317732,
+                        25.258445
+                  ]
+            },
+            {
+                  "name": "Dhow Wharfage",
+                  "text": "Mollul pentru dhow-uri de pe Dubai Creek, unde navele tradiționale din lemn sunt încărcate pentru comerțul regional.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321544,
+                        25.255992
+                  ]
+            },
+            {
+                  "name": "Entrepreneur Business Village Deira Dubai",
+                  "text": "Un complex comercial modern în Deira, servind drept hub pentru antreprenoriat și start-up-uri în Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327078,
+                        25.257356
+                  ]
+            },
+            {
+                  "name": "Twin Tower",
+                  "text": "Finalizate în 1998, aceste turnuri gemene de pe Dubai Creek găzduiesc un centru comercial și rezidențe de lux.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308733,
+                        25.266298
+                  ]
+            },
+            {
+                  "name": "MTN rent a car for Luxury and sport cars in Dubai",
+                  "text": "Un centru specializat de închirieri pentru mașini de lux și sport în districtul comercial aglomerat al Dubaiului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.34357,
+                        25.272859
+                  ]
+            },
+            {
+                  "name": "Al Seef Dubai",
+                  "text": "O promenadă modernă în stil istoric pe Dubai Creek, îmbinând arhitectura tradițională cu cafenelele moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        55.306555,
+                        25.26225
+                  ]
+            },
+            {
+                  "name": "Masjid Salman Al Farsi",
+                  "text": "Un lăcaș de cult musulman în cartierul Deira, remarcat prin aspectul său clasic de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        55.320878,
+                        25.27161
+                  ]
+            },
+            {
+                  "name": "Khubaise Small Mosque",
+                  "text": "O moschee mică și fermecătoare în zona rezidențială Al Khabaisi, servind comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        55.324793,
+                        25.263833
+                  ]
+            },
+            {
+                  "name": "Al Ghurair Mosque",
+                  "text": "Această moschee elegantă este situată chiar lângă Al Ghurair Centre, unul dintre cele mai vechi centre comerciale din Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318452,
+                        25.267744
+                  ]
+            },
+            {
+                  "name": "Masjid Khalifa bin Sultan Mosque",
+                  "text": "O moschee importantă în Deira, remarcată prin minaretul său înalt și decorațiunile tradiționale ale fațadei.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346591,
+                        25.279063
+                  ]
+            },
+            {
+                  "name": "Fathima Al Zarouni Masjid",
+                  "text": "O moschee modernă pe străzile aglomerate din Deira, cunoscută pentru atmosfera sa liniștită în mijlocul traficului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351519,
+                        25.282287
+                  ]
+            },
+            {
+                  "name": "Al Khabeesi Mosque",
+                  "text": "Moscheea centrală a cartierului Al Khabaisi, remarcată prin arhitectura sa islamică simplă, dar funcțională.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32773,
+                        25.2661
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Sultan bin Saleem Mosque",
+                  "text": "O moschee distinctivă din Deira cu două minarete, reprezentând un centru spiritual important pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327851,
+                        25.27268
+                  ]
+            },
+            {
+                  "name": "Gargash Mosque",
+                  "text": "O moschee cunoscută în districtul industrial și comercial din Deira, renumită pentru cupola sa elegantă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321944,
+                        25.2669
+                  ]
+            },
+            {
+                  "name": "Hashimi Masjid",
+                  "text": "O moschee liniștită lângă Dubai Creek, apreciată pentru elementele sale tradiționale de design islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        55.323806,
+                        25.271184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffee Museum",
+                  "text": "Located in a traditional Emirati home, this museum showcases coffee history and antique brewing tools from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        55.300098,
+                        25.263708
+                  ]
+            },
+            {
+                  "name": "Deira Clocktower",
+                  "text": "A prominent 1960s landmark at a major intersection, symbolizing the early development of modern Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32645,
+                        25.258658
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality",
+                  "text": "Housed in a notable administrative building, this institution oversees the planning and development of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        55.311728,
+                        25.264526
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "An interactive museum offering mind-bending optical illusions and sensory exhibits for all ages.",
+                  "category": "museum",
+                  "coords": [
+                        55.303856,
+                        25.264456
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A sculptural installation celebrating local heritage, set amidst the restored alleys of the historical district.",
+                  "category": "historical",
+                  "coords": [
+                        55.335965,
+                        25.262255
+                  ]
+            },
+            {
+                  "name": "VOX Cinemas",
+                  "text": "A modern multi-screen cinema offering the latest blockbusters and premium viewing experiences in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331532,
+                        25.252334
+                  ]
+            },
+            {
+                  "name": "Hamria Shopping Centre",
+                  "text": "A long-standing retail destination offering a variety of textiles, electronics, and traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.341368,
+                        25.283382
+                  ]
+            },
+            {
+                  "name": "Moaza Mohammed Foodstuff Trading",
+                  "text": "A traditional trading post specializing in local food products, spices, and dried goods in the Deira area.",
+                  "category": "cultural",
+                  "coords": [
+                        55.331033,
+                        25.278024
+                  ]
+            },
+            {
+                  "name": "Rayal Grocery",
+                  "text": "A typical local grocery store serving the neighborhood with fresh produce and daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        55.338005,
+                        25.282249
+                  ]
+            },
+            {
+                  "name": "Privilege Line General Trading",
+                  "text": "A diverse trading hub in Deira known for wholesale goods and a wide range of imported products.",
+                  "category": "cultural",
+                  "coords": [
+                        55.346133,
+                        25.278144
+                  ]
+            },
+            {
+                  "name": "Future Star BMT LLC",
+                  "text": "A local marketplace near the Al Fahidi historical district, serving as a hub for regional trade in Deira.",
+                  "category": "cultural",
+                  "coords": [
+                        55.33247,
+                        25.265835
+                  ]
+            },
+            {
+                  "name": "Friday Market Area 1",
+                  "text": "A traditional marketplace featuring stalls for textiles and goods located near the Dubai Creek.",
+                  "category": "cultural",
+                  "coords": [
+                        55.340235,
+                        25.28395
+                  ]
+            },
+            {
+                  "name": "al kayed garaj",
+                  "text": "A local point of interest in busy Deira, reflecting the commercial heritage of the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        55.344897,
+                        25.272748
+                  ]
+            },
+            {
+                  "name": "lotus hotel",
+                  "text": "A well-known hotel building in the Deira district, serving as a prominent landmark near the Gold Souk.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318655,
+                        25.26466
+                  ]
+            },
+            {
+                  "name": "Fish Roundabout",
+                  "text": "A famous roundabout in Deira, notable for its large sculpture of two fish.",
+                  "category": "landmark",
+                  "coords": [
+                        55.316445,
+                        25.270057
+                  ]
+            },
+            {
+                  "name": "Souk Al Seef",
+                  "text": "A recreated heritage souk on the banks of Dubai Creek, featuring traditional wind-tower architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.305316,
+                        25.263733
+                  ]
+            },
+            {
+                  "name": "bank saderat iran",
+                  "text": "A distinctive building of Bank Saderat Iran, known for its modern architecture in Dubai's commercial hub.",
+                  "category": "landmark",
+                  "coords": [
+                        55.303049,
+                        25.268337
+                  ]
+            },
+            {
+                  "name": "Ansar Gallery",
+                  "text": "A multi-story shopping mall in Deira, offering a wide range of international goods and electronics.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308502,
+                        25.252421
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cruise at Pier 1",
+                  "text": "The departure point for sightseeing cruises on Dubai Creek, offering traditional views of the skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        55.317732,
+                        25.258445
+                  ]
+            },
+            {
+                  "name": "Dhow Wharfage",
+                  "text": "The dhow wharfage on Dubai Creek, where traditional wooden ships are loaded for regional trade.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321544,
+                        25.255992
+                  ]
+            },
+            {
+                  "name": "Entrepreneur Business Village Deira Dubai",
+                  "text": "A modern commercial complex in Deira, serving as a hub for entrepreneurship and start-ups in Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327078,
+                        25.257356
+                  ]
+            },
+            {
+                  "name": "Twin Tower",
+                  "text": "Completed in 1998, these twin towers overlooking Dubai Creek house a shopping mall and luxury residences.",
+                  "category": "landmark",
+                  "coords": [
+                        55.308733,
+                        25.266298
+                  ]
+            },
+            {
+                  "name": "MTN rent a car for Luxury and sport cars in Dubai",
+                  "text": "A specialized rental service for luxury and sports cars in Dubai's busy commercial district.",
+                  "category": "landmark",
+                  "coords": [
+                        55.34357,
+                        25.272859
+                  ]
+            },
+            {
+                  "name": "Al Seef Dubai",
+                  "text": "A modern heritage-style promenade on Dubai Creek, blending traditional architecture with contemporary cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        55.306555,
+                        25.26225
+                  ]
+            },
+            {
+                  "name": "Masjid Salman Al Farsi",
+                  "text": "A Muslim place of worship in the Deira district, noted for its classic sandstone appearance.",
+                  "category": "landmark",
+                  "coords": [
+                        55.320878,
+                        25.27161
+                  ]
+            },
+            {
+                  "name": "Khubaise Small Mosque",
+                  "text": "A small, charming mosque in the Al Khabaisi residential area, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.324793,
+                        25.263833
+                  ]
+            },
+            {
+                  "name": "Al Ghurair Mosque",
+                  "text": "This elegant mosque is located right next to the Al Ghurair Centre, one of Dubai's oldest shopping malls.",
+                  "category": "landmark",
+                  "coords": [
+                        55.318452,
+                        25.267744
+                  ]
+            },
+            {
+                  "name": "Masjid Khalifa bin Sultan Mosque",
+                  "text": "A significant mosque in Deira, notable for its tall minaret and traditional facade decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        55.346591,
+                        25.279063
+                  ]
+            },
+            {
+                  "name": "Fathima Al Zarouni Masjid",
+                  "text": "A modern mosque in the busy streets of Deira, known for its calm atmosphere amidst the city traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        55.351519,
+                        25.282287
+                  ]
+            },
+            {
+                  "name": "Al Khabeesi Mosque",
+                  "text": "The central mosque of the Al Khabaisi district, noted for its simple but functional Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.32773,
+                        25.2661
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Sultan bin Saleem Mosque",
+                  "text": "A distinctive two-minaret mosque in Deira, representing an important spiritual center for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        55.327851,
+                        25.27268
+                  ]
+            },
+            {
+                  "name": "Gargash Mosque",
+                  "text": "A well-known mosque in the industrial and commercial district of Deira, noted for its elegant dome.",
+                  "category": "landmark",
+                  "coords": [
+                        55.321944,
+                        25.2669
+                  ]
+            },
+            {
+                  "name": "Hashimi Masjid",
+                  "text": "A peaceful mosque near Dubai Creek, appreciated for its traditional Islamic design elements.",
+                  "category": "landmark",
+                  "coords": [
+                        55.323806,
+                        25.271184
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-DU",
     coords: [55.3000, 25.2636],
@@ -1219,7 +11074,52 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "dhayah-fort-landmarks-v2",
+    id: "dhayah-fort-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhayah Fort",
+                  "text": "Die letzte Bergfestung der Emirate, die 1819 an die Briten fiel, erbaut aus Lehmziegeln.",
+                  "category": "fortress",
+                  "coords": [
+                        56.060639,
+                        25.884341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhayah Fort",
+                  "text": "Az utolsó hegyi erőd az Egyesült Arab Emírségekben, amely 1819-ben elesett a britek ellen; vályogtéglából épült.",
+                  "category": "fortress",
+                  "coords": [
+                        56.060639,
+                        25.884341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhayah Fort",
+                  "text": "Ultima fortăreață montană din EAU care a căzut în mâna britanicilor în 1819, construită din cărămidă de lut.",
+                  "category": "fortress",
+                  "coords": [
+                        56.060639,
+                        25.884341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhayah Fort",
+                  "text": "The last mountain fortress in the UAE to fall to the British in 1819, built of mud-brick.",
+                  "category": "fortress",
+                  "coords": [
+                        56.060639,
+                        25.884341
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AE-RK",
     coords: [56.0461, 25.8814],

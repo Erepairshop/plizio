@@ -523,7 +523,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mananaga Wetland Protected Area",
-                  "text": "Das Mananaga Wetland Protected Area ist ein Naturschutzgebiet in Vuvulane.",
+                  "text": "Mananaga-Feuchtgebietsschutzgebiet, ein Sumpflebensraum für Vögel und Wildtiere nahe Vuvulane.",
                   "category": "natural",
                   "coords": [
                         31.836698,
@@ -534,7 +534,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mananaga Wetland Protected Area",
-                  "text": "A Mananaga Wetland Protected Area egy természetvédelmi terület Vuvulane környékén.",
+                  "text": "Mananaga mocsárvédelmi terület, madarak és vadon élő állatok élőhelye Vuvulane közelében.",
                   "category": "natural",
                   "coords": [
                         31.836698,
@@ -545,7 +545,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mananaga Wetland Protected Area",
-                  "text": "Aria Protejată a Zonelor Umede Mananaga este o rezervație naturală din Vuvulane.",
+                  "text": "Zona umedă protejată Mananaga, un habitat de mlaștină pentru păsări și animale sălbatice lângă Vuvulane.",
                   "category": "natural",
                   "coords": [
                         31.836698,
@@ -556,7 +556,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mananaga Wetland Protected Area",
-                  "text": "The Mananaga Wetland Protected Area is a nature reserve in Vuvulane.",
+                  "text": "Mananaga Wetland Protected Area, a swamp habitat for birds and wildlife near Vuvulane.",
                   "category": "natural",
                   "coords": [
                         31.836698,
@@ -1097,7 +1097,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "IYSIS",
-                  "text": "IYSIS ist ein geschütztes Naturschutzgebiet in Tjaneni.",
+                  "text": "IYSIS, ein Naturschutzgebiet mit Wanderwegen in Tjaneni.",
                   "category": "natural",
                   "coords": [
                         31.73162,
@@ -1108,7 +1108,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "IYSIS",
-                  "text": "Az IYSIS egy védett természetvédelmi terület Tjaneniben.",
+                  "text": "IYSIS, egy természetvédelmi terület túraútvonalakkal Tjaneni-ben.",
                   "category": "natural",
                   "coords": [
                         31.73162,
@@ -1119,7 +1119,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "IYSIS",
-                  "text": "IYSIS este o rezervație naturală protejată în Tjaneni.",
+                  "text": "IYSIS, o rezervație naturală cu trasee de drumeție în Tjaneni.",
                   "category": "natural",
                   "coords": [
                         31.73162,
@@ -1130,7 +1130,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "IYSIS",
-                  "text": "IYSIS is a protected nature reserve in Tjaneni.",
+                  "text": "IYSIS, a nature reserve with hiking trails in Tjaneni.",
                   "category": "natural",
                   "coords": [
                         31.73162,
@@ -1319,7 +1319,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ngwenya Glass",
-                  "text": "Ngwenya Glass ist eine beliebte Touristenattraktion in Ngwenya.",
+                  "text": "Ngwenya Glass, eine Glasbläserei und Ausstellung für recycelte Glaskunst in Ngwenya.",
                   "category": "landmark",
                   "coords": [
                         31.031456,
@@ -1330,7 +1330,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ngwenya Glass",
-                  "text": "A Ngwenya Glass egy népszerű turisztikai látványosság Ngwenya városában.",
+                  "text": "Ngwenya Glass, üvegfúvó műhely és bemutatóterem újrahasznosított üvegművészettel Ngwenya-ban.",
                   "category": "landmark",
                   "coords": [
                         31.031456,
@@ -1341,7 +1341,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ngwenya Glass",
-                  "text": "Ngwenya Glass este o atracție turistică populară situată în Ngwenya.",
+                  "text": "Ngwenya Glass, o fabrică de suflat sticlă și showroom cu artă din sticlă reciclată în Ngwenya.",
                   "category": "landmark",
                   "coords": [
                         31.031456,
@@ -1352,7 +1352,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ngwenya Glass",
-                  "text": "Ngwenya Glass is a popular tourist attraction located in Ngwenya.",
+                  "text": "Ngwenya Glass, a glass-blowing factory and showroom producing recycled glass art in Ngwenya.",
                   "category": "landmark",
                   "coords": [
                         31.031456,
@@ -1805,7 +1805,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Royal Palace",
-                  "text": "Der Royal Palace ist eine Schlossanlage in Buhleni.",
+                  "text": "Königspalastkomplex mit traditionellen Strohdächern und einem Exerzierplatz in Buhleni.",
                   "category": "castle",
                   "coords": [
                         31.504224,
@@ -1816,7 +1816,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Royal Palace",
-                  "text": "A Royal Palace egy kastélyépület Buhleniben.",
+                  "text": "Királyi palotaegyüttes hagyományos nádtetőkkel és díszpályával Buhleni-ben.",
                   "category": "castle",
                   "coords": [
                         31.504224,
@@ -1827,7 +1827,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Royal Palace",
-                  "text": "Royal Palace este o structură de castel situată în Buhleni.",
+                  "text": "Complexul palatului regal cu acoperișuri tradiționale din stuf și o piață de paradă în Buhleni.",
                   "category": "castle",
                   "coords": [
                         31.504224,
@@ -1838,7 +1838,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Palace",
-                  "text": "The Royal Palace is a castle structure situated in Buhleni.",
+                  "text": "Royal palace complex with traditional thatched roofs and a parade ground in Buhleni.",
                   "category": "castle",
                   "coords": [
                         31.504224,
@@ -1982,7 +1982,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bulembu Museum",
-                  "text": "Das Bulembu Museum ist eine lokale Einrichtung in Havelock.",
+                  "text": "Museum in der ehemaligen Asbestbergbaustadt Bulembu mit Exponaten zur Bergbaugeschichte.",
                   "category": "museum",
                   "coords": [
                         31.127493,
@@ -1991,7 +1991,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
             },
             {
                   "name": "Mt Emlembe hiking trail",
-                  "text": "Der Mt Emlembe hiking trail ist eine Wanderattraktion in Havelock.",
+                  "text": "Wanderweg zum Gipfel des Mount Emlembe, dem höchsten Berg Es-swatini nahe Havelock.",
                   "category": "landmark",
                   "coords": [
                         31.13209,
@@ -2011,7 +2011,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bulembu Museum",
-                  "text": "A Bulembu Museum egy helyi múzeum Havelockban.",
+                  "text": "Múzeum a hajdani azbesztbányászvárosban, Bulembu-ban, a bányászat történetének tárgyaival.",
                   "category": "museum",
                   "coords": [
                         31.127493,
@@ -2020,7 +2020,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
             },
             {
                   "name": "Mt Emlembe hiking trail",
-                  "text": "A Mt Emlembe hiking trail egy túraútvonal látványosság Havelockban.",
+                  "text": "Túraútvonal az Emlembe-hegy csúcsára, Szváziföld legmagasabb pontjára, Havelock közelében.",
                   "category": "landmark",
                   "coords": [
                         31.13209,
@@ -2040,7 +2040,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bulembu Museum",
-                  "text": "Bulembu Museum este o instituție muzeală în Havelock.",
+                  "text": "Muzeul din fosta localitate minieră de azbest Bulembu, cu exponate despre istoria mineritului.",
                   "category": "museum",
                   "coords": [
                         31.127493,
@@ -2049,7 +2049,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
             },
             {
                   "name": "Mt Emlembe hiking trail",
-                  "text": "Mt Emlembe hiking trail este o atracție pentru drumeții în Havelock.",
+                  "text": "Traseu de drumeție până în vârful Muntelui Emlembe, cel mai înalt punct din Eswatini, lângă Havelock.",
                   "category": "landmark",
                   "coords": [
                         31.13209,
@@ -2069,7 +2069,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bulembu Museum",
-                  "text": "Bulembu Museum is a local museum institution in Havelock.",
+                  "text": "Museum in the former asbestos mining town of Bulembu, showcasing mining history and artifacts.",
                   "category": "museum",
                   "coords": [
                         31.127493,
@@ -2078,7 +2078,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
             },
             {
                   "name": "Mt Emlembe hiking trail",
-                  "text": "Mt Emlembe hiking trail is an outdoor recreational attraction in Havelock.",
+                  "text": "Hiking trail to the summit of Mount Emlembe, the highest peak in Eswatini near Havelock.",
                   "category": "landmark",
                   "coords": [
                         31.13209,
@@ -2363,7 +2363,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dombeya Game Reserve",
-                  "text": "Das Dombeya Game Reserve ist ein Naturschutzgebiet in Holobela.",
+                  "text": "Wildreservat mit Steppentieren und Vogelbeobachtungsmöglichkeiten nahe Holobela.",
                   "category": "natural",
                   "coords": [
                         31.540946,
@@ -2383,7 +2383,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dombeya Game Reserve",
-                  "text": "A Dombeya Game Reserve egy természetvédelmi terület Holobelában.",
+                  "text": "Vadrezervátum síkvidéki nagyvadakkal és madármegfigyelési lehetőségekkel Holobela közelében.",
                   "category": "natural",
                   "coords": [
                         31.540946,
@@ -2403,7 +2403,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dombeya Game Reserve",
-                  "text": "Dombeya Game Reserve este o rezervație naturală în Holobela.",
+                  "text": "Rezervația de vânat Dombeya cu animale de câmpie și oportunități de observare a păsărilor lângă Holobela.",
                   "category": "natural",
                   "coords": [
                         31.540946,
@@ -2423,7 +2423,7 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dombeya Game Reserve",
-                  "text": "Dombeya Game Reserve is a wildlife and nature conservation area in Holobela.",
+                  "text": "Game reserve with plains game and birding opportunities near Holobela.",
                   "category": "natural",
                   "coords": [
                         31.540946,

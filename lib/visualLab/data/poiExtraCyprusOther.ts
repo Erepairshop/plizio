@@ -417,7 +417,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Anogyra-Vlou Archeological Site",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Anogyra.",
+                  "text": "Archäologische Stätte nahe Anogyra und Vlou, angrenzend an den Eselsschutzpark.",
                   "category": "historical",
                   "coords": [
                         32.752785,
@@ -437,7 +437,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Anogyra-Vlou Archeological Site",
-                  "text": "Régészeti lelőhely Anogyra közelében.",
+                  "text": "Anogyra és Vlou közelében lévő régészeti lelőhely a szamárvédelmi park mellett.",
                   "category": "historical",
                   "coords": [
                         32.752785,
@@ -457,7 +457,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Anogyra-Vlou Archeological Site",
-                  "text": "Un sit arheologic situat în apropiere de Anogyra.",
+                  "text": "Sit arheologic lângă Anogyra și Vlou, adiacent sanctuarului de măgari.",
                   "category": "historical",
                   "coords": [
                         32.752785,
@@ -477,7 +477,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Anogyra-Vlou Archeological Site",
-                  "text": "An archaeological site located near Anogyra.",
+                  "text": "Archaeological site near Anogyra and Vlou villages, adjacent to the donkey sanctuary.",
                   "category": "historical",
                   "coords": [
                         32.752785,
@@ -1286,7 +1286,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Latsi",
-                  "text": "Latsi ist ein Strand in der Nähe von Latsi.",
+                  "text": "Strand in Latsi, bekannt für die Nistplätze der Meeresschildkröten.",
                   "category": "recreational",
                   "coords": [
                         32.410502,
@@ -1313,7 +1313,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ancient Sanctuary at Marion",
-                  "text": "Archäologische Stätte eines antiken Heiligtums im Bereich von Marion.",
+                  "text": "Antikes Heiligtum nahe Latsi, aus hellenistischer Zeit.",
                   "category": "historical",
                   "coords": [
                         32.424634,
@@ -1340,7 +1340,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Old ship \"Maria\"",
-                  "text": "Ein altes Schiff, das als Denkmal am Hafen von Latchi aufgestellt wurde.",
+                  "text": "Wrack des alten Schiffes ‚Maria‘ an der Küste von Latsi.",
                   "category": "historical",
                   "coords": [
                         32.405173,
@@ -1351,7 +1351,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Latsi",
-                  "text": "Latsi egy strand Latsi közelében.",
+                  "text": "Strand Latsiban, tengeri teknősök fészkelőhelyéről ismert.",
                   "category": "recreational",
                   "coords": [
                         32.410502,
@@ -1378,7 +1378,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ancient Sanctuary at Marion",
-                  "text": "Egy ókori szentély régészeti lelőhelye Marion területén.",
+                  "text": "Ősi szentély Latsi közelében, a hellenisztikus korból.",
                   "category": "historical",
                   "coords": [
                         32.424634,
@@ -1405,7 +1405,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Old ship \"Maria\"",
-                  "text": "Egy régi hajó, amelyet emlékműként állítottak fel Latchi kikötőjében.",
+                  "text": "A régi ‚Maria‘ hajó roncsai a Latsi-parton.",
                   "category": "historical",
                   "coords": [
                         32.405173,
@@ -1416,7 +1416,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Latsi",
-                  "text": "Latsi este o plajă lângă Latsi.",
+                  "text": "Plajă în Latsi, cunoscută pentru cuibăritul țestoaselor marine.",
                   "category": "recreational",
                   "coords": [
                         32.410502,
@@ -1443,7 +1443,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ancient Sanctuary at Marion",
-                  "text": "Situl arheologic al unui sanctuar antic în zona Marion.",
+                  "text": "Sanctuar antic lângă Latsi, datând din perioada elenistică.",
                   "category": "historical",
                   "coords": [
                         32.424634,
@@ -1470,7 +1470,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Old ship \"Maria\"",
-                  "text": "O navă veche expusă ca monument în portul Latchi.",
+                  "text": "Epava vechiului vas „Maria” pe coasta Latsi.",
                   "category": "historical",
                   "coords": [
                         32.405173,
@@ -1481,7 +1481,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Latsi",
-                  "text": "Latsi is a beach near Latsi.",
+                  "text": "Beach in Latsi, known for sea turtle nesting.",
                   "category": "recreational",
                   "coords": [
                         32.410502,
@@ -1508,7 +1508,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ancient Sanctuary at Marion",
-                  "text": "Archaeological site of an ancient sanctuary in the Marion area.",
+                  "text": "Ancient sanctuary ruins near Latsi, dating to the Hellenistic period.",
                   "category": "historical",
                   "coords": [
                         32.424634,
@@ -1535,7 +1535,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Old ship \"Maria\"",
-                  "text": "An old ship placed as a monument at the Latchi harbor.",
+                  "text": "Wreck of the old ship 'Maria' on the Latsi coast.",
                   "category": "historical",
                   "coords": [
                         32.405173,
@@ -1623,7 +1623,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Derinya Halk Plajı",
-                  "text": "Derinya-Strand nahe dem Paralimni-See.",
+                  "text": "Öffentlicher Strand in Derinya, nahe dem Paralimni-See.",
                   "category": "recreational",
                   "coords": [
                         33.981519,
@@ -1634,7 +1634,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Derinya Halk Plajı",
-                  "text": "Derinya-part a Paralimni-tó közelében.",
+                  "text": "Nyilvános strand Derinyában, a Paralimni-tó közelében.",
                   "category": "recreational",
                   "coords": [
                         33.981519,
@@ -1645,7 +1645,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Derinya Halk Plajı",
-                  "text": "Plaja Derinya lângă lacul Paralimni.",
+                  "text": "Plajă publică în Derinya, lângă Lacul Paralimni.",
                   "category": "recreational",
                   "coords": [
                         33.981519,
@@ -1656,7 +1656,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Derinya Halk Plajı",
-                  "text": "Derinya Beach near Paralimni Lake.",
+                  "text": "Public beach at Derinya, near Paralimni Lake.",
                   "category": "recreational",
                   "coords": [
                         33.981519,
@@ -1706,7 +1706,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Issız Plaj",
-                  "text": "Issız Plaj, ein Strand im Nationalpark Karpas.",
+                  "text": "Abgelegener Strand im Nationalpark Karpas.",
                   "category": "recreational",
                   "coords": [
                         34.458003,
@@ -1715,7 +1715,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ayfilon Plajı",
-                  "text": "Ayfilon-Strand im Nationalpark Karpas.",
+                  "text": "Strand auf der Halbinsel Karpas mit klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         34.368887,
@@ -1753,7 +1753,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Issız Plaj",
-                  "text": "Issız Plaj, egy strand a Karpas Nemzeti Parkban.",
+                  "text": "Elhagyatott strand a Karpas Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         34.458003,
@@ -1762,7 +1762,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ayfilon Plajı",
-                  "text": "Ayfilon-part a Karpas Nemzeti Parkban.",
+                  "text": "Strand a Karpas-félszigeten, tiszta vizéről ismert.",
                   "category": "recreational",
                   "coords": [
                         34.368887,
@@ -1800,7 +1800,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Issız Plaj",
-                  "text": "Issız Plaj, o plajă în Parcul Național Karpas.",
+                  "text": "Plajă izolată în Parcul Național Karpas.",
                   "category": "recreational",
                   "coords": [
                         34.458003,
@@ -1809,7 +1809,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ayfilon Plajı",
-                  "text": "Plaja Ayfilon în Parcul Național Karpas.",
+                  "text": "Plajă pe peninsula Karpas, cunoscută pentru apele limpezi.",
                   "category": "recreational",
                   "coords": [
                         34.368887,
@@ -1847,7 +1847,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Issız Plaj",
-                  "text": "Issız Plaj, a beach in the Karpas National Park.",
+                  "text": "Secluded beach in the Karpas National Park.",
                   "category": "recreational",
                   "coords": [
                         34.458003,
@@ -1856,7 +1856,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ayfilon Plajı",
-                  "text": "Ayfilon Beach in the Karpas National Park.",
+                  "text": "Beach on the Karpas Peninsula, known for its clear waters.",
                   "category": "recreational",
                   "coords": [
                         34.368887,
@@ -2479,7 +2479,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Mouseiou Laikes Tekhnes",
-                  "text": "Ein Museum, das Volkskunst und kulturelle Exponate zeigt.",
+                  "text": "Volkskunstmuseum im Reptilienpark von Zypern.",
                   "category": "museum",
                   "coords": [
                         32.42539,
@@ -2508,7 +2508,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Mouseiou Laikes Tekhnes",
-                  "text": "Népművészeti és kulturális kiállításokat bemutató múzeum.",
+                  "text": "Népművészeti múzeum a Ciprusi Hüllőparkban.",
                   "category": "museum",
                   "coords": [
                         32.42539,
@@ -2537,7 +2537,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Mouseiou Laikes Tekhnes",
-                  "text": "Un muzeu care prezintă artă populară și exponate culturale.",
+                  "text": "Muzeu de artă populară în Parcul de Reptile din Cipru.",
                   "category": "museum",
                   "coords": [
                         32.42539,
@@ -2566,7 +2566,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Folks Art Museum",
-                  "text": "A museum showcasing folk art and cultural exhibits.",
+                  "text": "Museum of folk art located within the Cyprus Reptile Park.",
                   "category": "museum",
                   "coords": [
                         32.42539,
@@ -2627,7 +2627,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Avdimou Bay",
-                  "text": "Ein ruhiger Küstenort mit einem Sandstrand in Zypern.",
+                  "text": "Bucht nahe Paramali, beliebt zur Beobachtung von Meeresschildkröten.",
                   "category": "recreational",
                   "coords": [
                         32.767291,
@@ -2638,7 +2638,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Avdimou Bay",
-                  "text": "Csendes tengerparti üdülőhely homokos stranddal Cipruson.",
+                  "text": "Paramali közelében lévő öböl, népszerű tengeri teknősök megfigyelésére.",
                   "category": "recreational",
                   "coords": [
                         32.767291,
@@ -2649,7 +2649,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Avdimou Bay",
-                  "text": "O stațiune de coastă liniștită, cu o plajă de nisip în Cipru.",
+                  "text": "Golf lângă Paramali, popular pentru observarea țestoaselor marine.",
                   "category": "recreational",
                   "coords": [
                         32.767291,
@@ -2660,7 +2660,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Avdimou Bay",
-                  "text": "A quiet coastal resort with a sandy beach in Cyprus.",
+                  "text": "Bay near Paramali, a popular spot for sea turtle observation.",
                   "category": "recreational",
                   "coords": [
                         32.767291,
@@ -2744,7 +2744,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le site de l'avifaune au barrage de Kouris est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux d'information expliquent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une política d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-kouris-dam-birdlife-extra.webp"},
   {
-    id: "animal-habitat-cape-greco-environmental-centre-extra", "sights": {"de": [{"name": "Limnara Beach", "text": "Umgeben von der natürlichen Schönheit des Cape Greco, ist der Limnara Beach ein malerisches Ziel an der Küste Zyperns. Die Nähe zum Umweltzentrum unterstreicht die landschaftliche Bedeutung dieses Gebietes. Gäste schätzen das ruhige Ambiente für ausgedehnte Badestunden und entspannte Küstenspaziergänge. Ein Aufenthalt lässt sich ideal mit einer kleinen Wanderung in der Region verbinden.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Ammos Kambouri nahe dem Cape Greco Zentrum.", "category": "recreational", "coords": [34.023652, 34.978583]}], "hu": [{"name": "Limnara Beach", "text": "A Cape Greco természeti szépségeivel körülvett Limnara Beach festői úti cél Ciprus partjainál. A környezetvédelmi központ közelsége is jelzi e régió különleges természeti értékét. A vendégek nagyra értékelik a békés hangulatot a fürdőzéshez és a nyugodt tengerparti sétákhoz. A strandolást érdemes összekötni a környék felfedezésével és egy rövidebb túrával.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Ammos Kambouri a Cape Greco központ közelében.", "category": "recreational", "coords": [34.023652, 34.978583]}], "ro": [{"name": "Limnara Beach", "text": "Înconjurată de frumusețea naturală de la Cape Greco, plaja Limnara este o destinație pitorească pe coasta Ciprului. Apropierea de centrul de mediu subliniază importanța peisagistică a acestei regiuni. Oaspeții apreciază ambianța liniștită, potrivită pentru înot și plimbări relaxante pe țărm. O vizită la plajă poate fi combinată perfect cu o mică drumeție prin împrejurimi.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Plaja Ammos Kambouri lângă centrul Cape Greco.", "category": "recreational", "coords": [34.023652, 34.978583]}], "en": [{"name": "Limnara Beach", "text": "Surrounded by the natural beauty of Cape Greco, Limnara Beach serves as a picturesque destination on the Cypriot coast. Its proximity to the environmental centre highlights the scenic value of this tranquil area. Guests appreciate the peaceful ambiance, making it perfect for swimming and relaxed coastal walks. A visit here is easily paired with a short hike exploring the regional landscape.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Ammos Kambouri beach near the Cape Greco center.", "category": "recreational", "coords": [34.023652, 34.978583]}]},
+    id: "animal-habitat-cape-greco-environmental-centre-extra", "sights": {
+      "de": [
+            {
+                  "name": "Limnara Beach",
+                  "text": "Umgeben von der natürlichen Schönheit des Cape Greco, ist der Limnara Beach ein malerisches Ziel an der Küste Zyperns. Die Nähe zum Umweltzentrum unterstreicht die landschaftliche Bedeutung dieses Gebietes. Gäste schätzen das ruhige Ambiente für ausgedehnte Badestunden und entspannte Küstenspaziergänge. Ein Aufenthalt lässt sich ideal mit einer kleinen Wanderung in der Region verbinden.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040176,
+                        34.972991
+                  ]
+            },
+            {
+                  "name": "Ammos Kambouri",
+                  "text": "Sandstrand am Kap Greco, Teil des Umweltzentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        34.023652,
+                        34.978583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limnara Beach",
+                  "text": "A Cape Greco természeti szépségeivel körülvett Limnara Beach festői úti cél Ciprus partjainál. A környezetvédelmi központ közelsége is jelzi e régió különleges természeti értékét. A vendégek nagyra értékelik a békés hangulatot a fürdőzéshez és a nyugodt tengerparti sétákhoz. A strandolást érdemes összekötni a környék felfedezésével és egy rövidebb túrával.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040176,
+                        34.972991
+                  ]
+            },
+            {
+                  "name": "Ammos Kambouri",
+                  "text": "Homokos strand a Greco-foknál, a környezeti központ része.",
+                  "category": "recreational",
+                  "coords": [
+                        34.023652,
+                        34.978583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limnara Beach",
+                  "text": "Înconjurată de frumusețea naturală de la Cape Greco, plaja Limnara este o destinație pitorească pe coasta Ciprului. Apropierea de centrul de mediu subliniază importanța peisagistică a acestei regiuni. Oaspeții apreciază ambianța liniștită, potrivită pentru înot și plimbări relaxante pe țărm. O vizită la plajă poate fi combinată perfect cu o mică drumeție prin împrejurimi.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040176,
+                        34.972991
+                  ]
+            },
+            {
+                  "name": "Ammos Kambouri",
+                  "text": "Plajă nisipoasă la Capul Greco, parte a centrului de mediu.",
+                  "category": "recreational",
+                  "coords": [
+                        34.023652,
+                        34.978583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limnara Beach",
+                  "text": "Surrounded by the natural beauty of Cape Greco, Limnara Beach serves as a picturesque destination on the Cypriot coast. Its proximity to the environmental centre highlights the scenic value of this tranquil area. Guests appreciate the peaceful ambiance, making it perfect for swimming and relaxed coastal walks. A visit here is easily paired with a short hike exploring the regional landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040176,
+                        34.972991
+                  ]
+            },
+            {
+                  "name": "Ammos Kambouri",
+                  "text": "Sandy beach at Cape Greco, part of the environmental centre area.",
+                  "category": "recreational",
+                  "coords": [
+                        34.023652,
+                        34.978583
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [34.01, 34.97],
@@ -3362,7 +3443,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Fasouri Watermania est le parc aquatique le plus vaste de l'île.", "Il propose des toboggans adaptés aux tout-petits comme aux amateurs de sensations.", "La rivière lente est parfaite pour se détendre entre deux descentes.", "De nombreux points de restauration et zones ombragées sont disponibles.", "Des tarifs de groupe et des forfaits anniversaire sont proposés.", "Le parc est accessible en voiture ou via des navettes spéciales.", "La sécurité est assurée en permanence par des maîtres-nageurs diplômés."],
     }, image: "/poi-images/kid-landmark-fasouri-watermania-limassol-extra.webp"},
   {
-    id: "kid-landmark-paphos-aphrodite-waterpark-extra", "sights": {"de": [{"name": "Geroskipou Beach", "text": "Nahe der Stadt Paphos und unweit des Aphrodite Waterparks erwartet der Geroskipou Beach seine Badegäste. Die weitläufige Strandlandschaft bietet eine angenehme Kombination aus Entspannung und maritimem Flair. Hier lassen sich gemütliche Stunden beim Schwimmen und Sonnenbaden verbringen. Für einen komfortablen Strandtag sollten Besucher an ausreichend Trinkwasser und Sonnenschutz denken.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "Yeroskipou Plaz liegt nahe Paphos.", "category": "recreational", "coords": [32.442336, 34.736107]}], "hu": [{"name": "Geroskipou Beach", "text": "Páfosz városa és az Aphrodite Vízipark közelében várja fürdőzni vágyó vendégeit a Geroskipou Beach. A tágas tengerparti terület a pihenés és a jellegzetes tengeri hangulat remek kombinációját kínálja. Kellemes órákat tölthetünk itt úszással és a nap melengető sugarainak élvezetével. A kényelmes strandolás érdekében javasolt elegendő ivóvizet és naptejet vinni magunkkal.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "A Yeroskipou Plaz Paphos közelében található.", "category": "recreational", "coords": [32.442336, 34.736107]}], "ro": [{"name": "Geroskipou Beach", "text": "Aproape de orașul Paphos și nu departe de parcul acvatic Aphrodite, plaja Geroskipou își așteaptă oaspeții dornici de bălăceală. Peisajul extins al plajei oferă o combinație plăcută de relaxare și farmec maritim. Vă puteți petrece ore întregi înotând liniștit sau bucurându-vă de băi de soare. Pentru un plus de confort, este recomandat să aduceți suficientă apă și protecție solară.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "Yeroskipou Plaz este situată lângă Paphos.", "category": "recreational", "coords": [32.442336, 34.736107]}], "en": [{"name": "Geroskipou Beach", "text": "Awaiting its guests near the city of Paphos and the Aphrodite Waterpark, Geroskipou Beach offers a broad coastal experience. The expansive beach landscape provides a pleasant mix of relaxation and classic maritime flair. Visitors can easily spend hours leisurely swimming and soaking in the warm sun. Remembering to bring plenty of water and sun protection will ensure a comfortable beach day.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "Yeroskipou Plaz is located near Paphos.", "category": "recreational", "coords": [32.442336, 34.736107]}]},
+    id: "kid-landmark-paphos-aphrodite-waterpark-extra", "sights": {
+      "de": [
+            {
+                  "name": "Geroskipou Beach",
+                  "text": "Nahe der Stadt Paphos und unweit des Aphrodite Waterparks erwartet der Geroskipou Beach seine Badegäste. Die weitläufige Strandlandschaft bietet eine angenehme Kombination aus Entspannung und maritimem Flair. Hier lassen sich gemütliche Stunden beim Schwimmen und Sonnenbaden verbringen. Für einen komfortablen Strandtag sollten Besucher an ausreichend Trinkwasser und Sonnenschutz denken.",
+                  "category": "recreational",
+                  "coords": [
+                        32.449202,
+                        34.733188
+                  ]
+            },
+            {
+                  "name": "Yeroskipou Plaz",
+                  "text": "Ein Sandstrand an der Küste bei Paphos, ideal zum Schwimmen und Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        32.442336,
+                        34.736107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geroskipou Beach",
+                  "text": "Páfosz városa és az Aphrodite Vízipark közelében várja fürdőzni vágyó vendégeit a Geroskipou Beach. A tágas tengerparti terület a pihenés és a jellegzetes tengeri hangulat remek kombinációját kínálja. Kellemes órákat tölthetünk itt úszással és a nap melengető sugarainak élvezetével. A kényelmes strandolás érdekében javasolt elegendő ivóvizet és naptejet vinni magunkkal.",
+                  "category": "recreational",
+                  "coords": [
+                        32.449202,
+                        34.733188
+                  ]
+            },
+            {
+                  "name": "Yeroskipou Plaz",
+                  "text": "Homokos strand Paphos közelében, alkalmas úszásra és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        32.442336,
+                        34.736107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geroskipou Beach",
+                  "text": "Aproape de orașul Paphos și nu departe de parcul acvatic Aphrodite, plaja Geroskipou își așteaptă oaspeții dornici de bălăceală. Peisajul extins al plajei oferă o combinație plăcută de relaxare și farmec maritim. Vă puteți petrece ore întregi înotând liniștit sau bucurându-vă de băi de soare. Pentru un plus de confort, este recomandat să aduceți suficientă apă și protecție solară.",
+                  "category": "recreational",
+                  "coords": [
+                        32.449202,
+                        34.733188
+                  ]
+            },
+            {
+                  "name": "Yeroskipou Plaz",
+                  "text": "O plajă cu nisip pe coasta lângă Paphos, ideală pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        32.442336,
+                        34.736107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geroskipou Beach",
+                  "text": "Awaiting its guests near the city of Paphos and the Aphrodite Waterpark, Geroskipou Beach offers a broad coastal experience. The expansive beach landscape provides a pleasant mix of relaxation and classic maritime flair. Visitors can easily spend hours leisurely swimming and soaking in the warm sun. Remembering to bring plenty of water and sun protection will ensure a comfortable beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        32.449202,
+                        34.733188
+                  ]
+            },
+            {
+                  "name": "Yeroskipou Plaz",
+                  "text": "A sandy beach along the coast near Paphos, perfect for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        32.442336,
+                        34.736107
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [32.45, 34.75],
@@ -3452,7 +3614,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Vathia Gonia",
-                  "text": "Vathia Gonia ist ein Strand bei Ayia Napa.",
+                  "text": "Ein beliebter Sandstrand im Ferienort Ayia Napa.",
                   "category": "recreational",
                   "coords": [
                         33.979366,
@@ -3463,7 +3625,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Vathia Gonia",
-                  "text": "Vathia Gonia egy strand Ayia Napa közelében.",
+                  "text": "Egy népszerű homokos strand Ayia Napa üdülőhelyen.",
                   "category": "recreational",
                   "coords": [
                         33.979366,
@@ -3474,7 +3636,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Vathia Gonia",
-                  "text": "Vathia Gonia este o plajă lângă Ayia Napa.",
+                  "text": "O plajă populară cu nisip în stațiunea Ayia Napa.",
                   "category": "recreational",
                   "coords": [
                         33.979366,
@@ -3485,7 +3647,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Vathia Gonia",
-                  "text": "Vathia Gonia is a beach near Ayia Napa.",
+                  "text": "A popular sandy beach in the resort town of Ayia Napa.",
                   "category": "recreational",
                   "coords": [
                         33.979366,
@@ -3535,7 +3697,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Mouflon Enclosure",
-                  "text": "Ein Gehege für Mufflons im Adventure Mountain Park.",
+                  "text": "Ein eingezäuntes Gebiet im Troodos-Gebirge, in dem Mufflons frei herumlaufen.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3591,7 +3753,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Mouflon Enclosure",
-                  "text": "Muflon-kifutó az Adventure Mountain Park területén.",
+                  "text": "Bekerített terület a Troodos-hegységben, ahol muflonok szabadon kóborolnak.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3647,7 +3809,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Mouflon Enclosure",
-                  "text": "Un țarc pentru mufloni situat în Adventure Mountain Park.",
+                  "text": "O zonă împrejmuită în Munții Troodos, unde muflonii cutreieră liberi.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3703,7 +3865,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Mouflon Enclosure",
-                  "text": "An enclosure for mouflons located in Adventure Mountain Park.",
+                  "text": "A fenced area in the Troodos mountains where mouflon roam freely.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3798,7 +3960,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Akapnou ancient Venetian bridge",
-                  "text": "Diese gut erhaltene venezianische Steinbrücke bei Akapnou ist ein Zeugnis historischer Ingenieurskunst.",
+                  "text": "Eine venezianische Steinbogenbrücke über den Fluss nahe Asgata.",
                   "category": "historical",
                   "coords": [
                         33.185614,
@@ -3809,7 +3971,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Akapnou ancient Venetian bridge",
-                  "text": "Ez a jó állapotban lévő velencei kőhíd Akapnou közelében a történelmi mérnöki munka emléke.",
+                  "text": "Velencei kőíves híd a folyó felett Asgata közelében.",
                   "category": "historical",
                   "coords": [
                         33.185614,
@@ -3820,7 +3982,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Akapnou ancient Venetian bridge",
-                  "text": "Acest pod venețian de piatră bine conservat de lângă Akapnou este o dovadă a ingineriei istorice.",
+                  "text": "Un pod venețian de piatră cu arc peste râul din apropierea localității Asgata.",
                   "category": "historical",
                   "coords": [
                         33.185614,
@@ -3831,7 +3993,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Akapnou ancient Venetian bridge",
-                  "text": "This well-preserved Venetian stone bridge near Akapnou is a testament to historical engineering.",
+                  "text": "A Venetian stone arch bridge spanning the river near Asgata.",
                   "category": "historical",
                   "coords": [
                         33.185614,
@@ -3881,7 +4043,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "Ein malerischer Wasserfall in der Nähe von Platres auf Zypern.",
+                  "text": "Ein 12 Meter hoher Wasserfall im Kiefernwald der Troodos-Berge.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -3899,7 +4061,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas in Platres.",
+                  "text": "Ein Steindenkmal zu Ehren von Andreas Paraskevas, gelegen bei Platres.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -3919,7 +4081,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "Festői vízesés a ciprusi Platres közelében.",
+                  "text": "Egy 12 méteres vízesés a Troodos-hegység fenyvesében.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -3937,7 +4099,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Andreasz Paraszkevasz tiszteletére emelt emlékmű Platresben.",
+                  "text": "Kőemlék Andreas Paraskevas tiszteletére, Platres közelében.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -3957,7 +4119,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "O cascadă pitorească situată în apropiere de Platres, Cipru.",
+                  "text": "O cascadă de 12 metri în pădurea de pini din Munții Troodos.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -3975,7 +4137,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Un monument ridicat în onoarea lui Andreas Paraskevas în Platres.",
+                  "text": "Un monument de piatră în onoarea lui Andreas Paraskevas, situat lângă Platres.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -3995,7 +4157,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "A scenic waterfall located near Platres in Cyprus.",
+                  "text": "A 12-meter waterfall in the pine forest of the Troodos mountains.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -4013,7 +4175,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "A memorial monument dedicated to Andreas Paraskevas in Platres.",
+                  "text": "A stone memorial honoring Andreas Paraskevas, located near Platres.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -4109,7 +4271,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pernera P Beach",
-                  "text": "Pernera P Beach ist ein Sandstrand in der Nähe des Ocean Aquariums.",
+                  "text": "Ein Sandstrand mit klarem Wasser in Pernera, Protaras.",
                   "category": "recreational",
                   "coords": [
                         34.042139,
@@ -4147,7 +4309,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pernera P Beach",
-                  "text": "A Pernera P Beach egy homokos strand az Ocean Aquarium közelében.",
+                  "text": "Homokos strand tiszta vízzel Pernera városrészében, Protarasban.",
                   "category": "recreational",
                   "coords": [
                         34.042139,
@@ -4185,7 +4347,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pernera P Beach",
-                  "text": "Pernera P Beach este o plajă de nisip situată în apropiere de Ocean Aquarium.",
+                  "text": "O plajă cu nisip și apă limpede în Pernera, Protaras.",
                   "category": "recreational",
                   "coords": [
                         34.042139,
@@ -4223,7 +4385,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pernera P Beach",
-                  "text": "Pernera P Beach is a sandy beach located near the Ocean Aquarium.",
+                  "text": "A sandy beach with clear water in Pernera, Protaras.",
                   "category": "recreational",
                   "coords": [
                         34.042139,
@@ -4269,7 +4431,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["L'Aquarium Océanique est conçu pour les familles souhaitant découvrir la faune marine.", "Les zones thématiques présentent des écosystèmes tropicaux et polaires.", "Des programmes éducatifs et des événements spéciaux complètent la visite.", "Des zones couvertes et des aires de repos assurent le confort par tous les temps.", "Plusieurs sections de l'aquarium peuvent être explorées en une seule visite.", "L'accès est facile en voiture ou via les lignes de bus locales.", "Les expositions d'animaux exotiques sont régulièrement entretenues et mises à jour."],
     }, image: "/poi-images/kid-landmark-ocean-aquarium-protaras-extra.webp"},
   {
-    id: "kid-landmark-masterland-limassol-extra", "sights": {"de": [{"name": "Onisilos", "text": "Onisilos ist ein Strand bei Limassol.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "Im lebhaften Limassol gelegen, bietet der Kastella Beach eine willkommene Auszeit am Meer. Die städtische Kulisse verschmilzt hier harmonisch mit dem entspannten Rhythmus des Strandlebens. Badegäste können im Wasser planschen oder einfach das Treiben an der Küste beobachten. Dieser Strand ist ideal für einen spontanen Sprung ins kühle Nass während einer Stadtbesichtigung.", "category": "recreational", "coords": [33.110841, 34.703395]}], "hu": [{"name": "Onisilos", "text": "Onisilos egy strand Limassol közelében.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "A nyüzsgő Limassol városában fekvő Kastella Beach kellemes tengerparti kikapcsolódást kínál. A városi háttér itt harmonikusan olvad össze a strandélet nyugodt ritmusával. A fürdőzők kedvükre csobbanhatnak a vízben, vagy csak figyelhetik a part menti forgatagot. Ez a strand tökéletes egy spontán mártózásra a város felfedezése közben.", "category": "recreational", "coords": [33.110841, 34.703395]}], "ro": [{"name": "Onisilos", "text": "Onisilos este o plajă lângă Limassol.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "Situată în vibrantul Limassol, plaja Kastella oferă o evadare binevenită la malul mării. Decorul urban se îmbină aici armonios cu ritmul relaxat al vieții de plajă. Vizitatorii se pot bălăci în apă sau pot pur și simplu să observe mișcarea de pe coastă. Această plajă este ideală pentru o baie spontană și răcoroasă în timpul explorării orașului.", "category": "recreational", "coords": [33.110841, 34.703395]}], "en": [{"name": "Onisilos", "text": "Onisilos is a beach near Limassol.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "Situated in lively Limassol, Kastella Beach offers a welcoming seaside break. The urban backdrop blends harmoniously here with the relaxed rhythm of beach life. Swimmers can splash in the water or simply watch the activity unfold along the coast. This beach is highly ideal for a spontaneous, cooling dip while taking a tour of the city.", "category": "recreational", "coords": [33.110841, 34.703395]}]},
+    id: "kid-landmark-masterland-limassol-extra", "sights": {
+      "de": [
+            {
+                  "name": "Onisilos",
+                  "text": "Ein thematischer Spielbereich im Masterland-Freizeitpark in Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.115477,
+                        34.70471
+                  ]
+            },
+            {
+                  "name": "Kastella Beach",
+                  "text": "Im lebhaften Limassol gelegen, bietet der Kastella Beach eine willkommene Auszeit am Meer. Die städtische Kulisse verschmilzt hier harmonisch mit dem entspannten Rhythmus des Strandlebens. Badegäste können im Wasser planschen oder einfach das Treiben an der Küste beobachten. Dieser Strand ist ideal für einen spontanen Sprung ins kühle Nass während einer Stadtbesichtigung.",
+                  "category": "recreational",
+                  "coords": [
+                        33.110841,
+                        34.703395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Onisilos",
+                  "text": "Tematikus játszótér a Masterland vidámparkban, Limassolban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.115477,
+                        34.70471
+                  ]
+            },
+            {
+                  "name": "Kastella Beach",
+                  "text": "A nyüzsgő Limassol városában fekvő Kastella Beach kellemes tengerparti kikapcsolódást kínál. A városi háttér itt harmonikusan olvad össze a strandélet nyugodt ritmusával. A fürdőzők kedvükre csobbanhatnak a vízben, vagy csak figyelhetik a part menti forgatagot. Ez a strand tökéletes egy spontán mártózásra a város felfedezése közben.",
+                  "category": "recreational",
+                  "coords": [
+                        33.110841,
+                        34.703395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Onisilos",
+                  "text": "O zonă de joacă tematică în parcul de distracții Masterland din Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.115477,
+                        34.70471
+                  ]
+            },
+            {
+                  "name": "Kastella Beach",
+                  "text": "Situată în vibrantul Limassol, plaja Kastella oferă o evadare binevenită la malul mării. Decorul urban se îmbină aici armonios cu ritmul relaxat al vieții de plajă. Vizitatorii se pot bălăci în apă sau pot pur și simplu să observe mișcarea de pe coastă. Această plajă este ideală pentru o baie spontană și răcoroasă în timpul explorării orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        33.110841,
+                        34.703395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Onisilos",
+                  "text": "A themed play area at Masterland theme park in Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.115477,
+                        34.70471
+                  ]
+            },
+            {
+                  "name": "Kastella Beach",
+                  "text": "Situated in lively Limassol, Kastella Beach offers a welcoming seaside break. The urban backdrop blends harmoniously here with the relaxed rhythm of beach life. Swimmers can splash in the water or simply watch the activity unfold along the coast. This beach is highly ideal for a spontaneous, cooling dip while taking a tour of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        33.110841,
+                        34.703395
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.1, 34.7],
@@ -4974,7 +5217,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Dasoudi",
-                  "text": "Dasoudi ist ein Strand in Limassol.",
+                  "text": "Ein beliebter Sandstrand mit bewaldetem Hinterland nahe Limassol.",
                   "category": "recreational",
                   "coords": [
                         33.086093,
@@ -4985,7 +5228,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Dasoudi",
-                  "text": "Dasoudi egy strand Limassolban.",
+                  "text": "Népszerű homokos strand erdős háttérrel Limassol közelében.",
                   "category": "recreational",
                   "coords": [
                         33.086093,
@@ -4996,7 +5239,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Dasoudi",
-                  "text": "Dasoudi este o plajă în Limassol.",
+                  "text": "O plajă populară cu nisip și un fundal împădurit lângă Limassol.",
                   "category": "recreational",
                   "coords": [
                         33.086093,
@@ -5007,7 +5250,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Dasoudi",
-                  "text": "Dasoudi is a beach in Limassol.",
+                  "text": "A popular sandy beach with a forested backdrop near Limassol.",
                   "category": "recreational",
                   "coords": [
                         33.086093,
@@ -5266,7 +5509,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Camel Park",
-                  "text": "Ein Tierpark in Mazotos, der vor allem für seine Kamele bekannt ist.",
+                  "text": "Ein Bauernhof in Mazotos, wo Besucher Kamele reiten und andere Tiere sehen können.",
                   "category": "recreational",
                   "coords": [
                         33.507453,
@@ -5275,7 +5518,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Purgos Alaminou",
-                  "text": "Ein historischer venezianischer Wachturm in Alaminos.",
+                  "text": "Ein mittelalterlicher Steinturm im Dorf Alaminos.",
                   "category": "landmark",
                   "coords": [
                         33.438203,
@@ -5295,7 +5538,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Camel Park",
-                  "text": "Mazotoszi állatpark, amely elsősorban tevéiről ismert.",
+                  "text": "Egy tanya Mazotosban, ahol a látogatók tevézhetnek és más állatokat láthatnak.",
                   "category": "recreational",
                   "coords": [
                         33.507453,
@@ -5304,7 +5547,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Purgos Alaminou",
-                  "text": "Történelmi velencei őrtorony Alaminoszban.",
+                  "text": "Középkori kőtorony Alaminos faluban.",
                   "category": "landmark",
                   "coords": [
                         33.438203,
@@ -5324,7 +5567,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Camel Park",
-                  "text": "Un parc zoologic din Mazotos, cunoscut în special pentru cămilele sale.",
+                  "text": "O fermă în Mazotos unde vizitatorii pot călări cămile și pot vedea alte animale.",
                   "category": "recreational",
                   "coords": [
                         33.507453,
@@ -5333,7 +5576,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Purgos Alaminou",
-                  "text": "Un turn de veghe venețian istoric în Alaminos.",
+                  "text": "Un turn medieval de piatră în satul Alaminos.",
                   "category": "landmark",
                   "coords": [
                         33.438203,
@@ -5353,7 +5596,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Camel Park",
-                  "text": "A zoo in Mazotos, known primarily for its camels.",
+                  "text": "A farm in Mazotos where visitors can ride camels and see other animals.",
                   "category": "recreational",
                   "coords": [
                         33.507453,
@@ -5362,7 +5605,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Alaminos Tower",
-                  "text": "A historical Venetian watchtower in Alaminos.",
+                  "text": "A medieval stone tower in the village of Alaminos.",
                   "category": "landmark",
                   "coords": [
                         33.438203,
@@ -5734,7 +5977,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Roudia bridge",
-                  "text": "Eine historische Brücke in der Region Vouni Panayia.",
+                  "text": "Eine traditionelle Steinbrücke über einen Fluss nahe der Vouni-Panayia-Kellerei.",
                   "category": "landmark",
                   "coords": [
                         32.684608,
@@ -5743,7 +5986,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Water Mill",
-                  "text": "Ruinen einer alten Wassermühle in der Nähe von Vouni Panayia.",
+                  "text": "Eine alte Wassermühle mit hölzernem Wasserrad, heute historische Stätte nahe Vouni Panayia.",
                   "category": "historical",
                   "coords": [
                         32.67734,
@@ -5754,7 +5997,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Roudia bridge",
-                  "text": "Történelmi híd a Vouni Panayia régióban.",
+                  "text": "Hagyományos kőhíd a folyó felett a Vouni Panayia borászat közelében.",
                   "category": "landmark",
                   "coords": [
                         32.684608,
@@ -5763,7 +6006,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Water Mill",
-                  "text": "Egy régi vízimalom romjai Vouni Panayia közelében.",
+                  "text": "Régi vízimalom fa kerékkel, ma történelmi helyszín Vouni Panayia közelében.",
                   "category": "historical",
                   "coords": [
                         32.67734,
@@ -5774,7 +6017,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Roudia bridge",
-                  "text": "Un pod istoric situat în regiunea Vouni Panayia.",
+                  "text": "Un pod tradițional de piatră peste un râu lângă vinăria Vouni Panayia.",
                   "category": "landmark",
                   "coords": [
                         32.684608,
@@ -5783,7 +6026,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Water Mill",
-                  "text": "Ruinele unei vechi mori de apă de lângă Vouni Panayia.",
+                  "text": "O moară veche de apă cu o roată de lemn, acum sit istoric lângă Vouni Panayia.",
                   "category": "historical",
                   "coords": [
                         32.67734,
@@ -5794,7 +6037,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Roudia bridge",
-                  "text": "A historic bridge located in the Vouni Panayia region.",
+                  "text": "A traditional stone bridge over a river near Vouni Panayia winery.",
                   "category": "landmark",
                   "coords": [
                         32.684608,
@@ -5803,7 +6046,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Water Mill",
-                  "text": "Ruins of an old water mill near Vouni Panayia.",
+                  "text": "An old water mill with a wooden wheel, now a historic site near Vouni Panayia.",
                   "category": "historical",
                   "coords": [
                         32.67734,
@@ -6174,7 +6417,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Timiou Staurou",
-                  "text": "Eine religiöse Sehenswürdigkeit in Agros.",
+                  "text": "Ein historisches Wahrzeichen in Agros, Zypern, bekannt für seine Ikone des Heiligen Kreuzes.",
                   "category": "landmark",
                   "coords": [
                         32.966331,
@@ -6203,7 +6446,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Timiou Staurou",
-                  "text": "Vallási jellegű látnivaló Agrosban.",
+                  "text": "Történelmi nevezetesség Agrosban, Cipruson, híres Szent Kereszt ikonjáról.",
                   "category": "landmark",
                   "coords": [
                         32.966331,
@@ -6232,7 +6475,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Timiou Staurou",
-                  "text": "O atracție religioasă situată în Agros.",
+                  "text": "Un reper istoric în Agros, Cipru, cunoscut pentru icoana Sfintei Cruci.",
                   "category": "landmark",
                   "coords": [
                         32.966331,
@@ -6261,7 +6504,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "A religious attraction located in Agros.",
+                  "text": "A historic landmark in Agros, Cyprus, known for its icon of the Holy Cross.",
                   "category": "landmark",
                   "coords": [
                         32.966331,
@@ -6605,7 +6848,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monasteri tes Kato Panagias",
-                  "text": "Die Überreste eines historischen Klosters in der ländlichen Gegend von Letymbou.",
+                  "text": "Ein historisches Kloster umgeben von Weinbergen nahe Letymbou.",
                   "category": "historical",
                   "coords": [
                         32.546306,
@@ -6625,7 +6868,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monasteri tes Kato Panagias",
-                  "text": "Egy történelmi kolostor maradványai Letymbou vidéki területén.",
+                  "text": "Történelmi kolostor szőlőültetvényekkel körülvéve Letymbou közelében.",
                   "category": "historical",
                   "coords": [
                         32.546306,
@@ -6645,7 +6888,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monasteri tes Kato Panagias",
-                  "text": "Rămășițele unei mănăstiri istorice situate în zona rurală Letymbou.",
+                  "text": "O mănăstire istorică înconjurată de vii lângă Letymbou.",
                   "category": "historical",
                   "coords": [
                         32.546306,
@@ -6665,7 +6908,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kato Pangias Monastery",
-                  "text": "The remains of a historical monastery situated in the rural Letymbou area.",
+                  "text": "A historic monastery surrounded by vineyards near Letymbou.",
                   "category": "historical",
                   "coords": [
                         32.546306,
@@ -6908,7 +7151,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Idalion",
-                  "text": "Bedeutende archäologische Ausgrabungsstätte einer antiken Stadt.",
+                  "text": "Die archäologische Stätte der antiken Stadt Idalion nahe Dali auf Zypern.",
                   "category": "historical",
                   "coords": [
                         33.423019,
@@ -6917,7 +7160,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 6: Sanctuary of Athena",
-                  "text": "Archäologische Überreste eines antiken Heiligtums der Athene.",
+                  "text": "Die Überreste eines der Athena geweihten Heiligtums in der antiken Stadt Idalion bei Dali.",
                   "category": "historical",
                   "coords": [
                         33.424418,
@@ -6926,7 +7169,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 3",
-                  "text": "Archäologische Fundstelle im antiken Idalion.",
+                  "text": "Eine Ausgrabungsstelle innerhalb der antiken Stadt Idalion mit freigelegten Gebäuderesten.",
                   "category": "historical",
                   "coords": [
                         33.425027,
@@ -6935,7 +7178,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Topiko Mouseio Arkhaiou Idaliou",
-                  "text": "Museum mit Funden aus der antiken Stadt Idalion.",
+                  "text": "Ein Museum mit Keramik, Skulpturen und Werkzeugen aus der antiken Stadt Idalion.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -6944,7 +7187,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 1: The Lower City, Section A",
-                  "text": "Archäologischer Bereich der Unterstadt von Idalion.",
+                  "text": "Der ausgegrabene untere Stadtteil des antiken Idalion mit Hausfundamenten und Straßen.",
                   "category": "historical",
                   "coords": [
                         33.423093,
@@ -6953,7 +7196,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Amphitheatro Idaliou",
-                  "text": "Antikes Theater in der Nähe der Ausgrabungen von Dali.",
+                  "text": "Ein restauriertes antikes Amphitheater in Dali, das für kulturelle Veranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         33.428541,
@@ -6964,7 +7207,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Idalion",
-                  "text": "Egy ókori város jelentős régészeti lelőhelye.",
+                  "text": "Az ókori Idalion város régészeti lelőhelye Dali közelében, Cipruson.",
                   "category": "historical",
                   "coords": [
                         33.423019,
@@ -6973,7 +7216,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 6: Sanctuary of Athena",
-                  "text": "Athénének szentelt ókori szentély régészeti maradványai.",
+                  "text": "Egy Athénének szentelt szentély maradványai az ókori Idalion városában, Dali közelében.",
                   "category": "historical",
                   "coords": [
                         33.424418,
@@ -6982,7 +7225,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 3",
-                  "text": "Régészeti lelőhely az ókori Idalionban.",
+                  "text": "Egy ásatási terület az ókori Idalion városában, feltárt épületmaradványokkal.",
                   "category": "historical",
                   "coords": [
                         33.425027,
@@ -6991,7 +7234,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Topiko Mouseio Arkhaiou Idaliou",
-                  "text": "Az ókori Idalion városából származó leleteket bemutató múzeum.",
+                  "text": "Múzeum, amely az ókori Idalion városából származó kerámiákat, szobrokat és szerszámokat mutat be.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -7000,7 +7243,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 1: The Lower City, Section A",
-                  "text": "Idalion alsóvárosának régészeti területe.",
+                  "text": "Az ókori Idalion feltárt alsó városrésze házalapokkal és utcákkal.",
                   "category": "historical",
                   "coords": [
                         33.423093,
@@ -7009,7 +7252,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Amphitheatro Idaliou",
-                  "text": "Ókori színház a dali ásatások közelében.",
+                  "text": "Helyreállított ókori amfiteátrum Daliban, kulturális eseményekhez használva.",
                   "category": "cultural",
                   "coords": [
                         33.428541,
@@ -7020,7 +7263,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Idalion",
-                  "text": "Sit arheologic important al unui oraș antic.",
+                  "text": "Situl arheologic al orașului antic Idalium lângă Dali, Cipru.",
                   "category": "historical",
                   "coords": [
                         33.423019,
@@ -7029,7 +7272,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 6: Sanctuary of Athena",
-                  "text": "Rămășițe arheologice ale unui sanctuar antic dedicat Atenei.",
+                  "text": "Ruinele unui sanctuar dedicat Athenei în orașul antic Idalion, lângă Dali.",
                   "category": "historical",
                   "coords": [
                         33.424418,
@@ -7038,7 +7281,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 3",
-                  "text": "Sit arheologic în anticul Idalion.",
+                  "text": "Un punct de excavare în orașul antic Idalion, cu ruine de clădiri descoperite.",
                   "category": "historical",
                   "coords": [
                         33.425027,
@@ -7047,7 +7290,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Topiko Mouseio Arkhaiou Idaliou",
-                  "text": "Muzeu cu descoperiri din orașul antic Idalion.",
+                  "text": "Un muzeu care expune ceramică, sculpturi și unelte din orașul antic Idalion.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -7056,7 +7299,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 1: The Lower City, Section A",
-                  "text": "Zona arheologică a orașului de jos din Idalion.",
+                  "text": "Sectorul inferior excavat al orașului antic Idalion, cu fundații de case și străzi.",
                   "category": "historical",
                   "coords": [
                         33.423093,
@@ -7065,7 +7308,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Amphitheatro Idaliou",
-                  "text": "Teatru antic lângă săpăturile din Dali.",
+                  "text": "Un amfiteatru antic restaurat în Dali, folosit pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         33.428541,
@@ -7076,7 +7319,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Idalion",
-                  "text": "Important archaeological site of an ancient city.",
+                  "text": "The archaeological site of the ancient city of Idalium near Dali, Cyprus.",
                   "category": "historical",
                   "coords": [
                         33.423019,
@@ -7085,7 +7328,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 6: Sanctuary of Athena",
-                  "text": "Archaeological remains of an ancient sanctuary of Athena.",
+                  "text": "The remains of a sanctuary dedicated to Athena in the ancient city of Idalion near Dali.",
                   "category": "historical",
                   "coords": [
                         33.424418,
@@ -7094,7 +7337,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 3",
-                  "text": "Archaeological site within ancient Idalion.",
+                  "text": "An excavation point within the ancient city of Idalion, revealing building remains.",
                   "category": "historical",
                   "coords": [
                         33.425027,
@@ -7103,7 +7346,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Local Archaeological Museum of Ancient Idalion",
-                  "text": "Museum featuring finds from the ancient city of Idalion.",
+                  "text": "A museum displaying pottery, sculptures, and tools from the ancient city of Idalion.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -7112,7 +7355,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Point 1: The Lower City, Section A",
-                  "text": "Archaeological area of the lower city of Idalion.",
+                  "text": "The excavated lower city section of ancient Idalion, with house foundations and streets.",
                   "category": "historical",
                   "coords": [
                         33.423093,
@@ -7121,7 +7364,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Dali Amphitheatre",
-                  "text": "Ancient theatre near the Dali excavations.",
+                  "text": "A restored ancient amphitheater in Dali, used for cultural events.",
                   "category": "cultural",
                   "coords": [
                         33.428541,
@@ -7456,7 +7699,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "O spelios tou Khatzerosou",
-                  "text": "Eine archäologische Fundstätte in einer Höhle in der Gegend von Omodos.",
+                  "text": "Eine Kalksteinhöhle mit Stalaktiten und Stalagmiten nahe Kilani.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -7512,7 +7755,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "O spelios tou Khatzerosou",
-                  "text": "Egy barlangban található régészeti lelőhely Omodos környékén.",
+                  "text": "Mészkőbarlang cseppkövekkel és állócseppkövekkel Kilani közelében.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -7568,7 +7811,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "O spelios tou Khatzerosou",
-                  "text": "Un sit arheologic situat într-o peșteră din zona Omodos.",
+                  "text": "O peșteră de calcar cu stalactite și stalagmite lângă Kilani.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -7624,7 +7867,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "The cave of Hadrirousos",
-                  "text": "An archaeological site located in a cave in the Omodos area.",
+                  "text": "A limestone cave with stalactites and stalagmites near Kilani.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -8267,7 +8510,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Μουσείο Αλευρομύλου",
-                  "text": "Ein Museum, das in einer alten Olivenmühle untergebracht ist.",
+                  "text": "Eine traditionelle Olivenpresse mit Steinpressen und Bottichen, heute Museum nahe Ayia Mavri.",
                   "category": "museum",
                   "coords": [
                         32.87373,
@@ -8276,7 +8519,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ο σπήλιος του Χατζηρόσου",
-                  "text": "Eine archäologische Fundstätte in einer lokalen Höhle.",
+                  "text": "Eine natürliche Höhle mit geologischen Formationen nahe der Kellerei Ayia Mavri.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -8285,7 +8528,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
-                  "text": "Ein Museum für religiöse Kunst und die Geschichte des Weinbaus.",
+                  "text": "Ein Museum, das kirchliche Kunstgegenstände und die Geschichte des Weinbaus in der Region zeigt.",
                   "category": "museum",
                   "coords": [
                         32.859861,
@@ -8303,7 +8546,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "Eine kleine lokale Attraktion in der Nähe des Weinguts.",
+                  "text": "Ein kleiner See auf dem Land, der von Schwänen bewohnt wird, nahe Ayia Mavri.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -8314,7 +8557,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Μουσείο Αλευρομύλου",
-                  "text": "Egy régi olajütőben kialakított múzeum.",
+                  "text": "Hagyományos olajprés kőprésekkel és kádakkal, ma múzeum Ayia Mavri közelében.",
                   "category": "museum",
                   "coords": [
                         32.87373,
@@ -8323,7 +8566,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ο σπήλιος του Χατζηρόσου",
-                  "text": "Régészeti lelőhely egy helyi barlangban.",
+                  "text": "Természetes barlang geológiai képződményekkel az Ayia Mavri borászat közelében.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -8332,7 +8575,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
-                  "text": "Egyházi művészeti és szőlészeti múzeum.",
+                  "text": "Múzeum, amely egyházi tárgyakat és a térség borászatának történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         32.859861,
@@ -8350,7 +8593,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "Kisebb helyi látványosság a borászat közelében.",
+                  "text": "Kis tó a vidéken, hattyúk lakta, Ayia Mavri közelében.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -8361,7 +8604,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Μουσείο Αλευρομύλου",
-                  "text": "Un muzeu amenajat într-o veche moară de ulei de măsline.",
+                  "text": "O presă tradițională de măsline cu prese de piatră și căzi, acum muzeu lângă Ayia Mavri.",
                   "category": "museum",
                   "coords": [
                         32.87373,
@@ -8370,7 +8613,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ο σπήλιος του Χατζηρόσου",
-                  "text": "Un sit arheologic într-o peșteră locală.",
+                  "text": "O peșteră naturală cu formațiuni geologice lângă vinăria Ayia Mavri.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -8379,7 +8622,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
-                  "text": "Un muzeu de artă ecleziastică și istorie a viticulturii.",
+                  "text": "Un muzeu care expune obiecte bisericești și istoria viticulturii în regiune.",
                   "category": "museum",
                   "coords": [
                         32.859861,
@@ -8397,7 +8640,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "O mică atracție locală lângă crama Ayia Mavri.",
+                  "text": "Un mic lac în mediul rural, locuit de lebede, lângă Ayia Mavri.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -8408,7 +8651,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Old Olive Mill",
-                  "text": "A museum housed in an old olive mill.",
+                  "text": "A traditional olive mill with stone presses and vats, now a museum near Ayia Mavri.",
                   "category": "museum",
                   "coords": [
                         32.87373,
@@ -8417,7 +8660,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "The cave of Hadrirousos",
-                  "text": "An archaeological site located in a local cave.",
+                  "text": "A natural cave with geological formations near the Ayia Mavri winery.",
                   "category": "historical",
                   "coords": [
                         32.874516,
@@ -8426,7 +8669,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Ecclesiastical and Viticulture Museums",
-                  "text": "A museum of ecclesiastical art and viticulture history.",
+                  "text": "A museum showcasing religious artifacts and the history of viticulture in the area.",
                   "category": "museum",
                   "coords": [
                         32.859861,
@@ -8444,7 +8687,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "A small local attraction near the winery.",
+                  "text": "A small lake in the countryside inhabited by swans, near Ayia Mavri.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -8725,7 +8968,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Wine press museum",
-                  "text": "Ein Museum, das die traditionelle Weinherstellung zeigt.",
+                  "text": "Ein Museum in einer alten Weinpresse, das der traditionellen Herstellung von Commandaria-Wein gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         32.92103,
@@ -8734,7 +8977,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Venetian bridge",
-                  "text": "Eine historische Brücke aus der venezianischen Zeit.",
+                  "text": "Eine gut erhaltene venezianische Steinbrücke über einen Bach nahe Zoopigi.",
                   "category": "landmark",
                   "coords": [
                         32.911254,
@@ -8743,7 +8986,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Two-Level Bridge",
-                  "text": "Eine architektonisch interessante Brücke in der Region.",
+                  "text": "Eine seltene zweistöckige Steinbrücke aus der venezianischen Zeit nahe Zoopigi.",
                   "category": "landmark",
                   "coords": [
                         32.912438,
@@ -8763,7 +9006,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Wine press museum",
-                  "text": "A hagyományos borkészítést bemutató múzeum.",
+                  "text": "Múzeum egy régi borsajtóban, a Commandaria bor hagyományos készítésének szentelve.",
                   "category": "museum",
                   "coords": [
                         32.92103,
@@ -8772,7 +9015,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Venetian bridge",
-                  "text": "Egy történelmi híd a velencei korszakból.",
+                  "text": "Jó állapotban fennmaradt velencei kőhíd egy patak felett Zoopigi közelében.",
                   "category": "landmark",
                   "coords": [
                         32.911254,
@@ -8781,7 +9024,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Two-Level Bridge",
-                  "text": "Egy építészetileg érdekes híd a régióban.",
+                  "text": "Ritka kétszintes kőhíd a velencei korszakból Zoopigi közelében.",
                   "category": "landmark",
                   "coords": [
                         32.912438,
@@ -8801,7 +9044,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Wine press museum",
-                  "text": "Un muzeu care prezintă fabricarea tradițională a vinului.",
+                  "text": "Un muzeu într-o veche presă de vin, dedicat producției tradiționale de vin Commandaria.",
                   "category": "museum",
                   "coords": [
                         32.92103,
@@ -8810,7 +9053,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Venetian bridge",
-                  "text": "Un pod istoric din perioada venețiană.",
+                  "text": "Un pod venețian de piatră bine conservat peste un pârâu lângă Zoopigi.",
                   "category": "landmark",
                   "coords": [
                         32.911254,
@@ -8819,7 +9062,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Two-Level Bridge",
-                  "text": "Un pod interesant din punct de vedere arhitectural în regiune.",
+                  "text": "Un pod rar de piatră cu două niveluri din perioada venețiană, lângă Zoopigi.",
                   "category": "landmark",
                   "coords": [
                         32.912438,
@@ -8839,7 +9082,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Wine press museum",
-                  "text": "A museum showcasing traditional winemaking.",
+                  "text": "A museum in an old wine press dedicated to the traditional making of Commandaria wine.",
                   "category": "museum",
                   "coords": [
                         32.92103,
@@ -8848,7 +9091,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Venetian bridge",
-                  "text": "A historic bridge dating from the Venetian period.",
+                  "text": "A well-preserved Venetian stone bridge over a stream near Zoopigi.",
                   "category": "landmark",
                   "coords": [
                         32.911254,
@@ -8857,7 +9100,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Two-Level Bridge",
-                  "text": "An architecturally interesting bridge in the region.",
+                  "text": "A rare two-tiered stone bridge from the Venetian period near Zoopigi.",
                   "category": "landmark",
                   "coords": [
                         32.912438,
@@ -8954,7 +9197,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Ein Museum in Lefkara, das die Traditionen der Stickerei und Silberschmiedekunst präsentiert.",
+                  "text": "Ein Museum in Kato Drys mit traditioneller Lefkara-Spitze, Stickerei und Silberschmiedekunst.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9010,7 +9253,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Lefkarai múzeum, amely a hímzés és az ezüstművesség hagyományait mutatja be.",
+                  "text": "Múzeum Kato Drysben, ahol hagyományos Lefkara-csipke, hímzés és ezüstművesség látható.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9066,7 +9309,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Un muzeu în Lefkara care prezintă tradițiile broderiei și argintăriei.",
+                  "text": "Un muzeu în Kato Drys care prezintă dantelă tradițională Lefkara, broderie și argintărie.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9122,7 +9365,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
-                  "text": "A museum in Lefkara showcasing the traditions of embroidery and silversmithing.",
+                  "text": "A museum in Kato Drys showcasing traditional Lefkara lace, embroidery, and silversmithing.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9266,7 +9509,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Ein Denkmal zur Erinnerung an Andreas Paraskevas.",
+                  "text": "Ein Steindenkmal für den EOKA-Kämpfer Andreas Paraskevas, nahe Kato Platres.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -9275,7 +9518,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "Ein malerischer Teich oder See, der für seine Schwäne bekannt ist.",
+                  "text": "Ein ruhiger See mit Schwänen in den Weinbergen der Fito-Kellerei.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -9295,7 +9538,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Emlékmű Andreasz Paraszkevasz emlékére.",
+                  "text": "Kőemlék Andreas Paraskevas EOKA-harcos tiszteletére, Kato Platres közelében.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -9304,7 +9547,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "Festői tó vagy tavacska, amely hattyúiról ismert.",
+                  "text": "Csendes tó hattyúkkal a Fito borászat szőlőültetvényei között.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -9324,7 +9567,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Un monument ridicat în memoria lui Andreas Paraskevas.",
+                  "text": "Un monument de piatră dedicat luptătorului EOKA Andreas Paraskevas, lângă Kato Platres.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -9333,7 +9576,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "Un iaz sau lac pitoresc cunoscut pentru lebedele sale.",
+                  "text": "Un lac liniștit cu lebede printre podgoriile vinăriei Fito.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -9353,7 +9596,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "A monument dedicated to the memory of Andreas Paraskevas.",
+                  "text": "A stone memorial to EOKA fighter Andreas Paraskevas, near Kato Platres.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -9362,7 +9605,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Swan lake",
-                  "text": "A scenic pond or lake known for its swans.",
+                  "text": "A tranquil lake with swans amidst the vineyards of Fito winery.",
                   "category": "landmark",
                   "coords": [
                         32.865335,
@@ -9412,7 +9655,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Ein Museum, das sich dem traditionellen Kunsthandwerk der Stickerei und Silberschmiedekunst in Lefkara widmet.",
+                  "text": "Ein Museum in Kato Drys mit Lefkara-Spitze, Stickerei und Silberschmiedearbeiten.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9459,7 +9702,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "A lefkari hímzés és ezüstművesség hagyományos mesterségeinek szentelt múzeum.",
+                  "text": "Múzeum Kato Drysben, Lefkara-csipkével, hímzéssel és ezüstmunkákkal.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9506,7 +9749,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Un muzeu dedicat meșteșugurilor tradiționale de broderie și argintărie din Lefkara.",
+                  "text": "Un muzeu în Kato Drys cu dantelă Lefkara, broderie și lucrări de argintărie.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9553,7 +9796,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
-                  "text": "A museum dedicated to the traditional crafts of embroidery and silversmithing in Lefkara.",
+                  "text": "A museum in Kato Drys with Lefkara lace, embroidery, and silverwork.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -9639,7 +9882,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Asteroskopeio Troodous",
-                  "text": "Ein modernes astronomisches Observatorium in den Troodos-Bergen auf Zypern.",
+                  "text": "Eine Sternwarte im Troodos-Gebirge mit Teleskopen zur Himmelsbeobachtung.",
                   "category": "museum",
                   "coords": [
                         32.998946,
@@ -9677,7 +9920,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Asteroskopeio Troodous",
-                  "text": "Modern csillagászati obszervatórium a ciprusi Troodos-hegységben.",
+                  "text": "Csillagvizsgáló a Troodos-hegységben, távcsövekkel az égbolt megfigyelésére.",
                   "category": "museum",
                   "coords": [
                         32.998946,
@@ -9715,7 +9958,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Asteroskopeio Troodous",
-                  "text": "Un observator astronomic modern situat în Munții Troodos din Cipru.",
+                  "text": "Un observator astronomic în Munții Troodos, cu telescoape pentru observarea cerului.",
                   "category": "museum",
                   "coords": [
                         32.998946,
@@ -9753,7 +9996,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Troodos Observatory",
-                  "text": "A modern astronomical observatory located in the Troodos Mountains of Cyprus.",
+                  "text": "An observatory in the Troodos mountains with telescopes for stargazing.",
                   "category": "museum",
                   "coords": [
                         32.998946,
@@ -9866,7 +10109,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Agias Petras",
-                  "text": "Ein malerischer Aussichtspunkt in der Nähe von Kalopanayiotis.",
+                  "text": "Eine auffällige Felsformation nahe der Talsperre von Kalopanayiotis.",
                   "category": "natural",
                   "coords": [
                         32.794985,
@@ -9875,7 +10118,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Holy Cross",
-                  "text": "Ein religiöser Ort und eine Sehenswürdigkeit in Kalopanayiotis.",
+                  "text": "Ein monumentales Kreuz mit Blick auf die Talsperre von Kalopanayiotis.",
                   "category": "landmark",
                   "coords": [
                         32.824137,
@@ -9884,7 +10127,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Ein Denkmal zu Ehren des Helden Charalambos Casparis in Kalopanayiotis.",
+                  "text": "Ein Marmordenkmal zu Ehren des EOKA-Helden Charalambos Casparis nahe der Talsperre.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -9931,7 +10174,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Agias Petras",
-                  "text": "Festői kilátóhely Kalopanayiotis környékén.",
+                  "text": "Feltűnő sziklaformáció a kalopanayiotisi víztározó közelében.",
                   "category": "natural",
                   "coords": [
                         32.794985,
@@ -9940,7 +10183,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Holy Cross",
-                  "text": "Vallási helyszín és turisztikai látnivaló Kalopanayiotisban.",
+                  "text": "Monumentális kereszt, amely a kalopanayiotisi víztározóra néz.",
                   "category": "landmark",
                   "coords": [
                         32.824137,
@@ -9949,7 +10192,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Emlékmű Charalambos Casparis hős tiszteletére Kalopanayiotisban.",
+                  "text": "Márványemlékmű Charalambos Casparis EOKA-hős tiszteletére a víztározó közelében.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -9996,7 +10239,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Agias Petras",
-                  "text": "Un punct de observație pitoresc în apropiere de Kalopanayiotis.",
+                  "text": "O formațiune stâncoasă remarcabilă lângă barajul Kalopanayiotis.",
                   "category": "natural",
                   "coords": [
                         32.794985,
@@ -10005,7 +10248,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Holy Cross",
-                  "text": "Un loc religios și atracție turistică în Kalopanayiotis.",
+                  "text": "O cruce monumentală cu vedere la barajul Kalopanayiotis.",
                   "category": "landmark",
                   "coords": [
                         32.824137,
@@ -10014,7 +10257,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Un monument dedicat eroului Charalambos Casparis în Kalopanayiotis.",
+                  "text": "Un monument de marmură în cinstea eroului EOKA Charalambos Casparis, lângă baraj.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -10061,7 +10304,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Agias Petras",
-                  "text": "A scenic viewpoint located near Kalopanayiotis.",
+                  "text": "A striking rock formation near the Kalopanayiotis dam.",
                   "category": "natural",
                   "coords": [
                         32.794985,
@@ -10070,7 +10313,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Holy Cross",
-                  "text": "A religious site and attraction in Kalopanayiotis.",
+                  "text": "A monumental cross overlooking the Kalopanayiotis dam.",
                   "category": "landmark",
                   "coords": [
                         32.824137,
@@ -10079,7 +10322,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "A monument dedicated to the hero Charalambos Casparis in Kalopanayiotis.",
+                  "text": "A marble monument honoring EOKA hero Charalambos Casparis, near the dam.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -10198,7 +10441,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Vouppa Beach",
-                  "text": "Vouppa Beach ist ein beliebter Strand in der Nähe der Vassiliko-Zementwerke.",
+                  "text": "Ein Kieselstrand mit klarem Wasser nahe dem Zementwerk Vassiliko.",
                   "category": "recreational",
                   "coords": [
                         33.130113,
@@ -10281,7 +10524,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Vouppa Beach",
-                  "text": "A Vouppa Beach egy népszerű strand a Vassiliko cementgyár közelében.",
+                  "text": "Kavicsos strand tiszta vízzel a Vassiliko cementgyár közelében.",
                   "category": "recreational",
                   "coords": [
                         33.130113,
@@ -10364,7 +10607,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Vouppa Beach",
-                  "text": "Vouppa Beach este o plajă populară situată în apropierea fabricii de ciment Vassiliko.",
+                  "text": "O plajă cu pietriș și apă limpede lângă fabrica de ciment Vassiliko.",
                   "category": "recreational",
                   "coords": [
                         33.130113,
@@ -10447,7 +10690,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Vouppa Beach",
-                  "text": "Vouppa Beach is a popular beach located near the Vassiliko Cement Works.",
+                  "text": "A pebble beach with clear water near the Vassiliko cement plant.",
                   "category": "recreational",
                   "coords": [
                         33.130113,
@@ -10526,7 +10769,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
-                  "text": "Eine bedeutende bronzezeitliche Ausgrabungsstätte auf Zypern.",
+                  "text": "Eine ausgegrabene bronzezeitliche Siedlung mit Rundhäusern und Befestigungen nahe Vasilikos.",
                   "category": "historical",
                   "coords": [
                         33.178777,
@@ -10544,7 +10787,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Oxyes",
-                  "text": "Ein Berggipfel in der Region, der Wanderer anzieht.",
+                  "text": "Ein Küstenvorsprung nahe dem Kraftwerk Vasilikos auf Zypern.",
                   "category": "landmark",
                   "coords": [
                         33.17213,
@@ -10553,7 +10796,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "Ein Denkmal, das einer lokalen Persönlichkeit oder einem Ereignis gewidmet ist.",
+                  "text": "Ein Denkmal für Kostaki Panagiotou, eine lokale Persönlichkeit, nahe Vasilikos.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -10591,7 +10834,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
-                  "text": "Jelentős bronzkori régészeti lelőhely Cipruson.",
+                  "text": "Feltárt bronzkori település körházakkal és erődítményekkel Vasilikos közelében.",
                   "category": "historical",
                   "coords": [
                         33.178777,
@@ -10609,7 +10852,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Oxyes",
-                  "text": "Egy hegycsúcs a régióban, amely vonzza a túrázókat.",
+                  "text": "Egy tengerparti földnyelv a Vasilikos erőmű közelében Cipruson.",
                   "category": "landmark",
                   "coords": [
                         33.17213,
@@ -10618,7 +10861,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "Emlékmű, amelyet egy helyi személyiségnek vagy eseménynek szenteltek.",
+                  "text": "Emlékmű Kostaki Panagiotou helyi személyiség tiszteletére Vasilikos közelében.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -10656,7 +10899,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
-                  "text": "Un sit arheologic important din epoca bronzului în Cipru.",
+                  "text": "O așezare excavată din epoca bronzului cu case rotunde și fortificații lângă Vasilikos.",
                   "category": "historical",
                   "coords": [
                         33.178777,
@@ -10674,7 +10917,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Oxyes",
-                  "text": "Un vârf muntos din regiune care atrage turiștii pasionați de drumeții.",
+                  "text": "Un promontoriu de coastă lângă centrala electrică Vasilikos în Cipru.",
                   "category": "landmark",
                   "coords": [
                         33.17213,
@@ -10683,7 +10926,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "Un monument dedicat unei personalități sau unui eveniment local.",
+                  "text": "Un monument în memoria lui Kostaki Panagiotou, o personalitate locală, lângă Vasilikos.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -10721,7 +10964,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
-                  "text": "An important Bronze Age archaeological site in Cyprus.",
+                  "text": "An excavated Bronze Age settlement with round houses and fortifications near Vasilikos.",
                   "category": "historical",
                   "coords": [
                         33.178777,
@@ -10739,7 +10982,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Oxyes",
-                  "text": "A mountain peak in the region that attracts hikers.",
+                  "text": "A coastal headland near the Vasilikos power station in Cyprus.",
                   "category": "landmark",
                   "coords": [
                         33.17213,
@@ -10748,7 +10991,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "A monument dedicated to a local personality or event.",
+                  "text": "A memorial to Kostaki Panagiotou, a local figure, near Vasilikos.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -11227,7 +11470,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Panagies Beach",
-                  "text": "Ein lokaler Strand im Gebiet von Vasiliko.",
+                  "text": "Ein Sandstrand direkt neben dem Ölterminal Vasiliko.",
                   "category": "recreational",
                   "coords": [
                         33.168556,
@@ -11245,7 +11488,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "Ein lokales Denkmal, das Kostaki Panagiotou gewidmet ist.",
+                  "text": "Ein Denkmal für Kostaki Panagiotou in der Nähe des Ölterminals Vasiliko.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -11254,7 +11497,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "The Rock",
-                  "text": "Ein als „The Rock“ bekanntes Denkmal in der Gegend von Vasiliko.",
+                  "text": "Eine große Kalksteinfelsformation nahe dem Ölterminal Vasiliko.",
                   "category": "historical",
                   "coords": [
                         33.202922,
@@ -11274,7 +11517,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Panagies Beach",
-                  "text": "Helyi tengerpart Vasiliko környékén.",
+                  "text": "Homokos strand közvetlenül a Vasiliko olajterminál mellett.",
                   "category": "recreational",
                   "coords": [
                         33.168556,
@@ -11292,7 +11535,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "Kostaki Panagiotou emlékére állított helyi emlékmű.",
+                  "text": "Emlékmű Kostaki Panagiotou számára a Vasiliko olajterminál közelében.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -11301,7 +11544,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "The Rock",
-                  "text": "A Vasiliko környékén található, The Rock néven ismert emlékmű.",
+                  "text": "Nagy mészkő sziklaformáció a Vasiliko olajterminál közelében.",
                   "category": "historical",
                   "coords": [
                         33.202922,
@@ -11321,7 +11564,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Panagies Beach",
-                  "text": "O plajă locală situată în zona Vasiliko.",
+                  "text": "O plajă cu nisip adiacent terminalului petrolier Vasiliko.",
                   "category": "recreational",
                   "coords": [
                         33.168556,
@@ -11339,7 +11582,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "Un monument local dedicat lui Kostaki Panagiotou.",
+                  "text": "Un monument pentru Kostaki Panagiotou lângă terminalul petrolier Vasiliko.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -11348,7 +11591,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "The Rock",
-                  "text": "Un monument cunoscut sub numele de „The Rock”, situat în zona Vasiliko.",
+                  "text": "O formațiune mare de calcar lângă terminalul petrolier Vasiliko.",
                   "category": "historical",
                   "coords": [
                         33.202922,
@@ -11368,7 +11611,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Panagies Beach",
-                  "text": "A local beach situated in the Vasiliko area.",
+                  "text": "A sandy beach adjacent to the Vasiliko oil terminal.",
                   "category": "recreational",
                   "coords": [
                         33.168556,
@@ -11386,7 +11629,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kostaki Panagiotou",
-                  "text": "A local monument dedicated to Kostaki Panagiotou.",
+                  "text": "A memorial to Kostaki Panagiotou near the Vasiliko oil terminal.",
                   "category": "historical",
                   "coords": [
                         33.201696,
@@ -11395,7 +11638,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "The Rock",
-                  "text": "A monument known as The Rock located in the Vasiliko area.",
+                  "text": "A large limestone rock formation near the Vasiliko oil terminal.",
                   "category": "historical",
                   "coords": [
                         33.202922,
@@ -11992,7 +12235,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Malloura Archaeological Site",
-                  "text": "Die archäologische Stätte Malloura befindet sich in der Nähe des Industriegebiets von Athienou.",
+                  "text": "Antike Siedlung in der Industriezone von Athienou.",
                   "category": "historical",
                   "coords": [
                         33.511814,
@@ -12001,7 +12244,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Bamboulari tis Koukouninas (Golgoi)",
-                  "text": "Bamboulari tis Koukouninas ist eine archäologische Stätte der antiken Stadt Golgoi.",
+                  "text": "Stadtkönigreich Golgoi bei Athienou.",
                   "category": "historical",
                   "coords": [
                         33.548086,
@@ -12021,7 +12264,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Malloura Archaeological Site",
-                  "text": "A Malloura régészeti lelőhely Athienou ipari negyedének közelében található.",
+                  "text": "Ősi település Athienou ipari területén.",
                   "category": "historical",
                   "coords": [
                         33.511814,
@@ -12030,7 +12273,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Bamboulari tis Koukouninas (Golgoi)",
-                  "text": "A Bamboulari tis Koukouninas az ókori Golgoi városának régészeti lelőhelye.",
+                  "text": "Golgoi városkirályság Athienou mellett.",
                   "category": "historical",
                   "coords": [
                         33.548086,
@@ -12050,7 +12293,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Malloura Archaeological Site",
-                  "text": "Situl arheologic Malloura este situat în zona industrială Athienou.",
+                  "text": "Așezare antică în zona industrială Athienou.",
                   "category": "historical",
                   "coords": [
                         33.511814,
@@ -12059,7 +12302,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Bamboulari tis Koukouninas (Golgoi)",
-                  "text": "Bamboulari tis Koukouninas este situl arheologic al vechiului oraș Golgoi.",
+                  "text": "Orașul-regat Golgoi lângă Athienou.",
                   "category": "historical",
                   "coords": [
                         33.548086,
@@ -12079,7 +12322,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Malloura Archaeological Site",
-                  "text": "Malloura Archaeological Site is located in the Athienou Industrial Area.",
+                  "text": "Ancient settlement site in the industrial area of Athienou.",
                   "category": "historical",
                   "coords": [
                         33.511814,
@@ -12088,7 +12331,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Bamboulari tis Koukouninas (Golgoi)",
-                  "text": "Bamboulari tis Koukouninas is the archaeological site of the ancient city of Golgoi.",
+                  "text": "City-kingdom of Golgoi near Athienou.",
                   "category": "historical",
                   "coords": [
                         33.548086,
@@ -12812,7 +13055,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Alethriko Venetian Bridge",
-                  "text": "Eine historische Brücke aus venezianischer Zeit bei Alethriko.",
+                  "text": "Steinerne Brücke aus der venezianischen Zeit beim Solarpark Tersefanou.",
                   "category": "landmark",
                   "coords": [
                         33.493376,
@@ -12821,7 +13064,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Dreamland",
-                  "text": "Ein Freizeitpark in der Nähe des Solarparks von Tersefanou.",
+                  "text": "Freizeitgelände beim Solarpark Tersefanou.",
                   "category": "recreational",
                   "coords": [
                         33.557707,
@@ -12832,7 +13075,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Alethriko Venetian Bridge",
-                  "text": "Történelmi híd a velencei korból Alethriko közelében.",
+                  "text": "Velencei kőhíd a Tersefanou naperőmű mellett.",
                   "category": "landmark",
                   "coords": [
                         33.493376,
@@ -12841,7 +13084,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Dreamland",
-                  "text": "Vidámpark a tersefanoui naperőmű közelében.",
+                  "text": "Szabadidős terület a Tersefanou naperőmű mellett.",
                   "category": "recreational",
                   "coords": [
                         33.557707,
@@ -12852,7 +13095,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Alethriko Venetian Bridge",
-                  "text": "Un pod istoric din perioada venețiană, situat lângă Alethriko.",
+                  "text": "Pod de piatră venețian lângă parcul solar Tersefanou.",
                   "category": "landmark",
                   "coords": [
                         33.493376,
@@ -12861,7 +13104,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Dreamland",
-                  "text": "Un parc de distracții în apropierea parcului solar din Tersefanou.",
+                  "text": "Zonă de agrement lângă parcul solar Tersefanou.",
                   "category": "recreational",
                   "coords": [
                         33.557707,
@@ -12872,7 +13115,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Alethriko Venetian Bridge",
-                  "text": "A historic bridge from the Venetian period located near Alethriko.",
+                  "text": "Venetian stone bridge near Tersefanou Solar Park.",
                   "category": "landmark",
                   "coords": [
                         33.493376,
@@ -12881,7 +13124,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Dreamland",
-                  "text": "A theme park located near the Tersefanou Solar Park.",
+                  "text": "Recreational area next to Tersefanou Solar Park.",
                   "category": "recreational",
                   "coords": [
                         33.557707,
@@ -12931,7 +13174,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Paliotaverna",
-                  "text": "Eine archäologische Ausgrabungsstätte in Kivides Poultry Production.",
+                  "text": "Historische Taverne in Kivides Poultry.",
                   "category": "historical",
                   "coords": [
                         32.921923,
@@ -12951,7 +13194,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Paliotaverna",
-                  "text": "Régészeti lelőhely Kivides Poultry Production területén.",
+                  "text": "Történelmi kocsma a Kivides baromfitelepen.",
                   "category": "historical",
                   "coords": [
                         32.921923,
@@ -12971,7 +13214,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Paliotaverna",
-                  "text": "Un sit arheologic în Kivides Poultry Production.",
+                  "text": "Tavernă istorică în Kivides Poultry.",
                   "category": "historical",
                   "coords": [
                         32.921923,
@@ -12991,7 +13234,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Paliotaverna",
-                  "text": "An archaeological site in Kivides Poultry Production.",
+                  "text": "Historic tavern in Kivides Poultry.",
                   "category": "historical",
                   "coords": [
                         32.921923,
@@ -13567,7 +13810,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Marinoparea",
-                  "text": "Ein öffentlicher Sandstrand im Küstengebiet von Zygi.",
+                  "text": "Sandiger Strand neben dem Fischereiunterstand von Zygi.",
                   "category": "recreational",
                   "coords": [
                         33.340374,
@@ -13596,7 +13839,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Marinoparea",
-                  "text": "Nyilvános homokos strand Zygi tengerparti részén.",
+                  "text": "Homokos tengerpart a zygi halászkikötő mellett.",
                   "category": "recreational",
                   "coords": [
                         33.340374,
@@ -13625,7 +13868,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Marinoparea",
-                  "text": "O plajă publică cu nisip situată în zona de coastă din Zygi.",
+                  "text": "Plajă nisipoasă lângă adăpostul de pescuit Zygi.",
                   "category": "recreational",
                   "coords": [
                         33.340374,
@@ -13654,7 +13897,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Zygi Public Beach",
-                  "text": "A public sandy beach located in the coastal area of Zygi.",
+                  "text": "Sandy beach adjacent to Zygi Fishing Shelter.",
                   "category": "recreational",
                   "coords": [
                         33.340374,
@@ -13952,7 +14195,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Tpoulorotsos Beach",
-                  "text": "Ein ruhiger Kieselstrand in der Nähe des Fischerhafens von Pomos.",
+                  "text": "Abgelegener Strand beim Fischereiunterstand von Pomos.",
                   "category": "recreational",
                   "coords": [
                         32.542065,
@@ -13999,7 +14242,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Tpoulorotsos Beach",
-                  "text": "Csendes kavicsos strand Pomos halászkikötőjének közelében.",
+                  "text": "Elszigetelt strand a pomosi halászkikötőnél.",
                   "category": "recreational",
                   "coords": [
                         32.542065,
@@ -14046,7 +14289,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Tpoulorotsos Beach",
-                  "text": "O plajă liniștită cu pietriș în apropierea portului de pescuit Pomos.",
+                  "text": "Plajă retrasă lângă adăpostul de pescuit Pomos.",
                   "category": "recreational",
                   "coords": [
                         32.542065,
@@ -14093,7 +14336,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Tpoulorotsos Beach",
-                  "text": "A quiet pebble beach near the Pomos fishing shelter.",
+                  "text": "Secluded beach near Pomos Fishing Shelter.",
                   "category": "recreational",
                   "coords": [
                         32.542065,
@@ -14258,7 +14501,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kapparis Bay",
-                  "text": "Kapparis Bay liegt bei Agia Triada.",
+                  "text": "Beliebte Bucht mit Sandstrand bei Agia Triada.",
                   "category": "recreational",
                   "coords": [
                         34.011181,
@@ -14285,7 +14528,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Trinity Beach | Agia Triada Beach",
-                  "text": "Trinity Beach ist ein malerischer Strand in der Nähe des Fischerhafens Agia Triada.",
+                  "text": "Sandstrand von Agia Triada beim Fischereiunterstand.",
                   "category": "recreational",
                   "coords": [
                         34.022696,
@@ -14294,7 +14537,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Skoutari Beach",
-                  "text": "Skoutari Beach ist ein kleiner, ruhiger Strandabschnitt bei Agia Triada.",
+                  "text": "Kleine Bucht mit Strand bei Agia Triada.",
                   "category": "recreational",
                   "coords": [
                         34.015292,
@@ -14314,7 +14557,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kapparis Bay",
-                  "text": "Kapparis Bay Agia Triada közelében található.",
+                  "text": "Népszerű öböl homokos tengerparttal Agia Triadánál.",
                   "category": "recreational",
                   "coords": [
                         34.011181,
@@ -14341,7 +14584,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Trinity Beach | Agia Triada Beach",
-                  "text": "A Trinity Beach egy festői strand az Agia Triada halászkikötő közelében.",
+                  "text": "Agia Triada homokos tengerpartja a halászkikötőnél.",
                   "category": "recreational",
                   "coords": [
                         34.022696,
@@ -14350,7 +14593,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Skoutari Beach",
-                  "text": "A Skoutari Beach egy kisebb, nyugodt tengerparti szakasz Agia Triada területén.",
+                  "text": "Kis öböl stranddal Agia Triadánál.",
                   "category": "recreational",
                   "coords": [
                         34.015292,
@@ -14370,7 +14613,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kapparis Bay",
-                  "text": "Kapparis Bay este lângă Agia Triada.",
+                  "text": "Golf popular cu plajă nisipoasă lângă Agia Triada.",
                   "category": "recreational",
                   "coords": [
                         34.011181,
@@ -14397,7 +14640,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Trinity Beach | Agia Triada Beach",
-                  "text": "Trinity Beach este o plajă pitorească situată lângă adăpostul pescăresc Agia Triada.",
+                  "text": "Plaja de nisip Agia Triada lângă adăpostul de pescuit.",
                   "category": "recreational",
                   "coords": [
                         34.022696,
@@ -14406,7 +14649,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Skoutari Beach",
-                  "text": "Skoutari Beach este o secțiune de plajă mică și liniștită în Agia Triada.",
+                  "text": "Golf mic cu plajă lângă Agia Triada.",
                   "category": "recreational",
                   "coords": [
                         34.015292,
@@ -14426,7 +14669,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kapparis Bay",
-                  "text": "Kapparis Bay is near Agia Triada.",
+                  "text": "Popular bay beach at Agia Triada.",
                   "category": "recreational",
                   "coords": [
                         34.011181,
@@ -14453,7 +14696,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Trinity Beach | Agia Triada Beach",
-                  "text": "Trinity Beach is a scenic beach located near the Agia Triada fishing shelter.",
+                  "text": "Sandy beach of Agia Triada near the fishing shelter.",
                   "category": "recreational",
                   "coords": [
                         34.022696,
@@ -14462,7 +14705,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Skoutari Beach",
-                  "text": "Skoutari Beach is a small, calm beach section in Agia Triada.",
+                  "text": "Small cove beach at Agia Triada.",
                   "category": "recreational",
                   "coords": [
                         34.015292,
@@ -14531,7 +14774,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Potami Bay Beach",
-                  "text": "Potami Bay Beach ist eine Bucht mit Sandstrand im Bereich des Hafens von Pernera.",
+                  "text": "Buchtstrand nahe dem Hafen von Pernera.",
                   "category": "recreational",
                   "coords": [
                         34.045045,
@@ -14551,7 +14794,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Potami Bay Beach",
-                  "text": "A Potami Bay Beach egy homokos öböl Pernera kikötőjének területén.",
+                  "text": "Öböl strand Pernera kikötője közelében.",
                   "category": "recreational",
                   "coords": [
                         34.045045,
@@ -14571,7 +14814,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Potami Bay Beach",
-                  "text": "Potami Bay Beach este un golf cu plajă de nisip în zona portului Pernera.",
+                  "text": "Plajă în golf lângă portul Pernera.",
                   "category": "recreational",
                   "coords": [
                         34.045045,
@@ -14591,7 +14834,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Potami Bay Beach",
-                  "text": "Potami Bay Beach is a sandy bay beach in the Pernera Harbour area.",
+                  "text": "Bay beach near Pernera Harbour.",
                   "category": "recreational",
                   "coords": [
                         34.045045,
@@ -16290,7 +16533,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "Ein malerischer Wasserfall in den Troodos-Bergen auf Zypern.",
+                  "text": "Wasserfall im Troodos-Gebirge beim Millomeris-Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -16317,7 +16560,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas in der Nähe von Platres.",
+                  "text": "Gedenkstätte für Andreas Paraskevas beim Millomeris-Wasserfall.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -16346,7 +16589,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "Festői vízesés a ciprusi Tróodosz-hegységben.",
+                  "text": "Vízesés a Troodos-hegységben a Millomeris-vízesésnél.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -16373,7 +16616,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Andreas Paraskevas tiszteletére emelt emlékmű Platres közelében.",
+                  "text": "Andreas Paraskevas emlékműve a Millomeris-vízesésnél.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -16402,7 +16645,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "O cascadă pitorească în Munții Troodos din Cipru.",
+                  "text": "Cascadă în munții Troodos lângă Cascada Millomeris.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -16429,7 +16672,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "Un monument în onoarea lui Andreas Paraskevas lângă Platres.",
+                  "text": "Monument comemorativ Andreas Paraskevas lângă Cascada Millomeris.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -16458,7 +16701,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Kaledonian Waterfalls",
-                  "text": "A scenic waterfall in the Troodos Mountains of Cyprus.",
+                  "text": "Cascade in the Troodos mountains near Millomeris Waterfall.",
                   "category": "landmark",
                   "coords": [
                         32.870001,
@@ -16485,7 +16728,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Andreas Paraskevas Memorial",
-                  "text": "A monument honoring Andreas Paraskevas near Platres.",
+                  "text": "Memorial to Andreas Paraskevas at Millomeris Waterfall.",
                   "category": "historical",
                   "coords": [
                         32.865512,
@@ -16599,7 +16842,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "View of abandoned asbestos quarry",
-                  "text": "Ein Aussichtspunkt, der einen Blick auf einen stillgelegten Asbest-Tagebau ermöglicht.",
+                  "text": "Aussichtspunkt auf den stillgelegten Asbesttagebau bei der Caledonia-Wasserfall.",
                   "category": "natural",
                   "coords": [
                         32.910466,
@@ -16673,7 +16916,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "View of abandoned asbestos quarry",
-                  "text": "Kilátópont, ahonnan rálátás nyílik egy elhagyatott azbesztbányára.",
+                  "text": "Kilátó a felhagyott azbányára a Caledonia-vízesésnél.",
                   "category": "natural",
                   "coords": [
                         32.910466,
@@ -16747,7 +16990,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "View of abandoned asbestos quarry",
-                  "text": "Un punct de observație care oferă o vedere spre o carieră de azbest abandonată.",
+                  "text": "Punct de belvedere asupra carierei de azbest abandonate lângă Cascada Caledonia.",
                   "category": "natural",
                   "coords": [
                         32.910466,
@@ -16821,7 +17064,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "View of abandoned asbestos quarry",
-                  "text": "A viewpoint providing a look at an abandoned asbestos quarry.",
+                  "text": "Viewpoint over the disused asbestos quarry near Caledonia Waterfall.",
                   "category": "natural",
                   "coords": [
                         32.910466,
@@ -17115,7 +17358,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Shayna",
-                  "text": "Shayna-Strand nahe dem Pentadaktylos-Gebirge.",
+                  "text": "Erholungsgebiet im Pentadaktylos-Gebirge.",
                   "category": "recreational",
                   "coords": [
                         33.396556,
@@ -17135,7 +17378,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Shayna",
-                  "text": "Shayna-part a Pentadaktylos-hegység közelében.",
+                  "text": "Pihenőhely a Pentadaktylos-hegységben.",
                   "category": "recreational",
                   "coords": [
                         33.396556,
@@ -17155,7 +17398,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Shayna",
-                  "text": "Plaja Shayna lângă munții Pentadaktylos.",
+                  "text": "Zonă de agrement în munții Pentadaktylos.",
                   "category": "recreational",
                   "coords": [
                         33.396556,
@@ -17175,7 +17418,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Shayna",
-                  "text": "Shayna Beach near the Pentadaktylos Mountains.",
+                  "text": "Recreational area in the Pentadaktylos Mountains.",
                   "category": "recreational",
                   "coords": [
                         33.396556,
@@ -17243,7 +17486,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Nikokleia's Watermill (Ancient Monument)",
-                  "text": "Eine antike Wassermühle, die als historisches Monument in Nikokleia erhalten ist.",
+                  "text": "Restaurierte antike Wassermühle am Asprokremmos-Staudamm.",
                   "category": "landmark",
                   "coords": [
                         32.578433,
@@ -17263,7 +17506,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Nikokleia's Watermill (Ancient Monument)",
-                  "text": "Nikokleiában található, történelmi műemlékként megőrzött ősi vízimalom.",
+                  "text": "Helyreállított ősi vízimalom az Asprokremmos-gáton.",
                   "category": "landmark",
                   "coords": [
                         32.578433,
@@ -17283,7 +17526,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Nikokleia's Watermill (Ancient Monument)",
-                  "text": "O moară de apă antică păstrată ca monument istoric în Nikokleia.",
+                  "text": "Moară de apă antică restaurată la barajul Asprokremmos.",
                   "category": "landmark",
                   "coords": [
                         32.578433,
@@ -17303,7 +17546,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Nikokleia's Watermill (Ancient Monument)",
-                  "text": "An ancient watermill preserved as a historic monument in Nikokleia.",
+                  "text": "Restored ancient watermill at Asprokremmos Dam.",
                   "category": "landmark",
                   "coords": [
                         32.578433,
@@ -17978,7 +18221,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Democracy building",
-                  "text": "Ein markantes Gebäude in der Nähe des Evretou-Staudamms.",
+                  "text": "Gebäude der Demokratie am Evretou-Staudamm.",
                   "category": "landmark",
                   "coords": [
                         32.511528,
@@ -17987,7 +18230,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "White stone",
-                  "text": "Ein Aussichtspunkt mit Panoramablick in der Nähe des Evretou-Staudamms.",
+                  "text": "Auffälliger weißer Felsen am Evretou-Staudamm.",
                   "category": "natural",
                   "coords": [
                         32.51621,
@@ -17998,7 +18241,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Democracy building",
-                  "text": "Egy jellegzetes épület az Evretou-gát közelében.",
+                  "text": "Demokrácia épület az Evretou-gátnál.",
                   "category": "landmark",
                   "coords": [
                         32.511528,
@@ -18007,7 +18250,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "White stone",
-                  "text": "Kilátópont panorámás kilátással az Evretou-gát közelében.",
+                  "text": "Feltűnő fehér szikla az Evretou-gátnál.",
                   "category": "natural",
                   "coords": [
                         32.51621,
@@ -18018,7 +18261,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Democracy building",
-                  "text": "O clădire proeminentă situată lângă barajul Evretou.",
+                  "text": "Clădirea Democrației lângă barajul Evretou.",
                   "category": "landmark",
                   "coords": [
                         32.511528,
@@ -18027,7 +18270,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "White stone",
-                  "text": "Un punct de belvedere cu vedere panoramică lângă barajul Evretou.",
+                  "text": "Stâncă albă distinctivă lângă barajul Evretou.",
                   "category": "natural",
                   "coords": [
                         32.51621,
@@ -18038,7 +18281,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Democracy building",
-                  "text": "A prominent building located near the Evretou Dam.",
+                  "text": "Democracy building at Evretou Dam.",
                   "category": "landmark",
                   "coords": [
                         32.511528,
@@ -18047,7 +18290,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "White stone",
-                  "text": "A viewpoint with panoramic views near the Evretou Dam.",
+                  "text": "Distinctive white rock outcrop at Evretou Dam.",
                   "category": "natural",
                   "coords": [
                         32.51621,
@@ -18858,7 +19101,7 @@ export const cyprusOtherPoi: POI[] = [
       "de": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Museum für traditionelle Volkskunst und Handwerk in Lefkara.",
+                  "text": "Museum für Volkskunst, Stickerei und Silberschmiedekunst in Lefkara am Staudamm.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -18905,7 +19148,7 @@ export const cyprusOtherPoi: POI[] = [
       "hu": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Lefkarai hagyományos népművészeti és kézműves múzeum.",
+                  "text": "Népművészeti, hímzési és ezüstművességi múzeum Lefkarában a gátnál.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -18952,7 +19195,7 @@ export const cyprusOtherPoi: POI[] = [
       "ro": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Muzeu care prezintă arta populară și meșteșugurile tradiționale din Lefkara.",
+                  "text": "Muzeu de artă populară, broderie și argintărie în Lefkara, lângă baraj.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -18999,7 +19242,7 @@ export const cyprusOtherPoi: POI[] = [
       "en": [
             {
                   "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
-                  "text": "Museum showcasing traditional folk art and crafts of Lefkara.",
+                  "text": "Museum of folk art, embroidery and silversmithing in Lefkara at the dam.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -19170,7 +19413,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kaplca chipre",
-                  "text": "Eine lokale Sehenswürdigkeit in der Nähe der Burg Kantara.",
+                  "text": "Wahrzeichen nahe dem Aussichtspunkt der Kantara-Burg.",
                   "category": "landmark",
                   "coords": [
                         33.918585,
@@ -19190,7 +19433,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kaplca chipre",
-                  "text": "Helyi látnivaló a Kantara-vár közelében.",
+                  "text": "Nevezetesség a Kantara-vár kilátójánál.",
                   "category": "landmark",
                   "coords": [
                         33.918585,
@@ -19210,7 +19453,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kaplca chipre",
-                  "text": "O atracție locală situată în apropierea castelului Kantara.",
+                  "text": "Punct de reper lângă punctul de belvedere al Cetății Kantara.",
                   "category": "landmark",
                   "coords": [
                         33.918585,
@@ -19230,7 +19473,7 @@ export const cyprusOtherPoi: POI[] = [
             },
             {
                   "name": "Kaplca chipre",
-                  "text": "A local attraction located near the Kantara Castle.",
+                  "text": "Landmark near Kantara Castle Viewpoint.",
                   "category": "landmark",
                   "coords": [
                         33.918585,

@@ -2180,7 +2180,7 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
             },
             {
                   "name": "A Area do Arco do Engado",
-                  "text": "Ein abgelegener Küstenabschnitt, der für seine natürliche Schönheit bekannt ist.",
+                  "text": "A Area do Arco do Engado, eine natürliche Bucht zum Baden auf dem Islas Atlánticas-Archipel.",
                   "category": "recreational",
                   "coords": [
                         -8.901153,
@@ -2254,7 +2254,7 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
             },
             {
                   "name": "A Area do Arco do Engado",
-                  "text": "Természeti szépségéről ismert távoli tengerparti szakasz.",
+                  "text": "A Area do Arco do Engado, egy természetes fürdőöböl az Islas Atlánticas szigetcsoporton.",
                   "category": "recreational",
                   "coords": [
                         -8.901153,
@@ -2328,7 +2328,7 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
             },
             {
                   "name": "A Area do Arco do Engado",
-                  "text": "O porțiune de coastă retrasă, cunoscută pentru frumusețea sa naturală.",
+                  "text": "A Area do Arco do Engado, un golf natural de scăldat pe arhipelagul Islas Atlánticas.",
                   "category": "recreational",
                   "coords": [
                         -8.901153,
@@ -2402,7 +2402,7 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
             },
             {
                   "name": "A Area do Arco do Engado",
-                  "text": "A remote coastal stretch known for its natural beauty.",
+                  "text": "A Area do Arco do Engado, a natural swimming cove on the Islas Atlánticas archipelago.",
                   "category": "recreational",
                   "coords": [
                         -8.901153,
@@ -2523,7 +2523,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             },
             {
                   "name": "Monasterio bizantino",
-                  "text": "Überreste eines alten byzantinischen Klosters auf Cabrera.",
+                  "text": "Monasterio bizantino, die Ruinen eines byzantinischen Klosters aus dem 6. Jahrhundert auf der Insel Cabrera.",
                   "category": "historical",
                   "coords": [
                         2.938744,
@@ -2597,7 +2597,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             },
             {
                   "name": "Monasterio bizantino",
-                  "text": "Egy ősi bizánci kolostor maradványai Cabrerán.",
+                  "text": "Monasterio bizantino, egy 6. századi bizánci kolostor romjai Cabrera szigetén.",
                   "category": "historical",
                   "coords": [
                         2.938744,
@@ -2671,7 +2671,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             },
             {
                   "name": "Monasterio bizantino",
-                  "text": "Resturile unei vechi mănăstiri bizantine pe Cabrera.",
+                  "text": "Monasterio bizantino, ruinele unei mănăstiri bizantine din secolul al VI-lea pe insula Cabrera.",
                   "category": "historical",
                   "coords": [
                         2.938744,
@@ -2745,7 +2745,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             },
             {
                   "name": "Monasterio bizantino",
-                  "text": "Remains of an ancient Byzantine monastery on Cabrera.",
+                  "text": "Monasterio bizantino, the ruins of a 6th-century Byzantine monastery on Cabrera island.",
                   "category": "historical",
                   "coords": [
                         2.938744,
@@ -3865,7 +3865,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcadero Cañas y Barro",
-                  "text": "Bootssteg für Ausflüge auf dem Albufera-See.",
+                  "text": "Embarcadero Cañas y Barro, ein traditioneller hölzerner Bootssteg am See Albufera.",
                   "category": "landmark",
                   "coords": [
                         -0.319411,
@@ -3892,7 +3892,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcador del Palmar",
-                  "text": "Traditionelle Bootsanlegestelle im Dorf El Palmar.",
+                  "text": "Embarcador del Palmar, ein Anlegesteg für Fischerboote im Albufera-Dorf El Palmar.",
                   "category": "landmark",
                   "coords": [
                         -0.319666,
@@ -3939,7 +3939,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcadero Cañas y Barro",
-                  "text": "Csónakázó kikötő az Albufera-tavon tett túrákhoz.",
+                  "text": "Embarcadero Cañas y Barro, egy hagyományos fából készült csónakkikötő az Albufera-tavon.",
                   "category": "landmark",
                   "coords": [
                         -0.319411,
@@ -3966,7 +3966,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcador del Palmar",
-                  "text": "Hagyományos hajókikötő El Palmar falujában.",
+                  "text": "Embarcador del Palmar, egy horgászhajók számára kialakított kikötő az Albufera melletti El Palmar faluban.",
                   "category": "landmark",
                   "coords": [
                         -0.319666,
@@ -4013,7 +4013,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcadero Cañas y Barro",
-                  "text": "Debarcader care oferă excursii cu barca pe lacul Albufera.",
+                  "text": "Embarcadero Cañas y Barro, un dig tradițional de lemn pentru bărci pe lacul Albufera.",
                   "category": "landmark",
                   "coords": [
                         -0.319411,
@@ -4040,7 +4040,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcador del Palmar",
-                  "text": "Debarcader tradițional în satul El Palmar.",
+                  "text": "Embarcador del Palmar, un debarcader pentru bărci de pescuit în satul El Palmar de la Albufera.",
                   "category": "landmark",
                   "coords": [
                         -0.319666,
@@ -4087,7 +4087,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcadero Cañas y Barro",
-                  "text": "Boat jetty offering tours of the Albufera lake.",
+                  "text": "Embarcadero Cañas y Barro, a traditional wooden jetty for boats on Albufera Lake.",
                   "category": "landmark",
                   "coords": [
                         -0.319411,
@@ -4114,7 +4114,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             },
             {
                   "name": "Embarcador del Palmar",
-                  "text": "Traditional boat landing in the village of El Palmar.",
+                  "text": "Embarcador del Palmar, a landing pier for fishing boats in the Albufera village of El Palmar.",
                   "category": "landmark",
                   "coords": [
                         -0.319666,
@@ -4665,7 +4665,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
       "de": [
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "Der Guadalmansa Beach ist ein Küstenabschnitt bei Selwo Aventura.",
+                  "text": "Guadalmansa beach, ein Sandstrand an der Costa del Sol nahe Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.054806,
@@ -4674,7 +4674,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Sol Villacana",
-                  "text": "Der Sol Villacana Beach befindet sich in der Nähe von Selwo Aventura.",
+                  "text": "Sol Villacana beach, ein Wohnstrand mit ruhigem Wasser nahe Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.047414,
@@ -4683,7 +4683,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Saladillo",
-                  "text": "Saladillo Beach ist ein weitläufiger Strand bei Selwo Aventura.",
+                  "text": "Sandstrand im Naturpark Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.042178,
@@ -4692,7 +4692,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Padron",
-                  "text": "Die Playa del Padron ist ein Strandabschnitt in der Region Selwo Aventura.",
+                  "text": "Abgeschiedene Bucht in der Nähe von Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.103721,
@@ -4701,7 +4701,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "Playa de Guadalmansa ist ein ruhiger Strand nahe Selwo Aventura.",
+                  "text": "Strand mit Aussicht auf die Mündung des Guadalmansa.",
                   "category": "recreational",
                   "coords": [
                         -5.053747,
@@ -4712,7 +4712,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
       "hu": [
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "A Guadalmansa beach egy tengerparti szakasz Selwo Aventura közelében.",
+                  "text": "Guadalmansa beach, egy homokos strand a Costa del Solon, Selwo Aventura közelében.",
                   "category": "recreational",
                   "coords": [
                         -5.054806,
@@ -4721,7 +4721,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Sol Villacana",
-                  "text": "A Sol Villacana beach Selwo Aventura közelében található strand.",
+                  "text": "Sol Villacana beach, egy lakóövezeti strand csendes vízzel Selwo Aventura közelében.",
                   "category": "recreational",
                   "coords": [
                         -5.047414,
@@ -4730,7 +4730,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Saladillo",
-                  "text": "A Saladillo Beach egy tágas strand Selwo Aventura közelében.",
+                  "text": "Homokos strand a Selwo Aventura természeti parkban.",
                   "category": "recreational",
                   "coords": [
                         -5.042178,
@@ -4739,7 +4739,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Padron",
-                  "text": "A Playa del Padron egy tengerparti szakasz Selwo Aventura régiójában.",
+                  "text": "Elszigetelt öböl Selwo Aventura közelében.",
                   "category": "recreational",
                   "coords": [
                         -5.103721,
@@ -4748,7 +4748,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "A Playa de Guadalmansa egy nyugodt strand Selwo Aventura közelében.",
+                  "text": "Strand a Guadalmansa folyó torkolatára néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         -5.053747,
@@ -4759,7 +4759,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
       "ro": [
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "Guadalmansa beach este o zonă de coastă lângă Selwo Aventura.",
+                  "text": "Guadalmansa beach, o plajă nisipoasă pe Costa del Sol, lângă Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.054806,
@@ -4768,7 +4768,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Sol Villacana",
-                  "text": "Sol Villacana beach este o plajă situată în apropiere de Selwo Aventura.",
+                  "text": "Sol Villacana beach, o plajă rezidențială cu ape liniștite lângă Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.047414,
@@ -4777,7 +4777,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Saladillo",
-                  "text": "Saladillo Beach este o plajă întinsă lângă Selwo Aventura.",
+                  "text": "Plajă nisipoasă în parcul natural Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.042178,
@@ -4786,7 +4786,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Padron",
-                  "text": "Playa del Padron este o zonă de plajă în regiunea Selwo Aventura.",
+                  "text": "Golf retras lângă Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.103721,
@@ -4795,7 +4795,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "Playa de Guadalmansa este o plajă liniștită lângă Selwo Aventura.",
+                  "text": "Plajă cu vedere la estuarul râului Guadalmansa.",
                   "category": "recreational",
                   "coords": [
                         -5.053747,
@@ -4806,7 +4806,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
       "en": [
             {
                   "name": "Guadalmansa beach",
-                  "text": "Guadalmansa beach is a coastal area located near Selwo Aventura.",
+                  "text": "Guadalmansa beach, a sandy beach on the Costa del Sol near Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.054806,
@@ -4815,7 +4815,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Sol Villacana beach",
-                  "text": "Sol Villacana beach is a beach area located near Selwo Aventura.",
+                  "text": "Sol Villacana beach, a residential beach with calm waters near Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.047414,
@@ -4824,7 +4824,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Saladillo Beach",
-                  "text": "Saladillo Beach is a spacious beach located near Selwo Aventura.",
+                  "text": "Sandy beach within the Selwo Aventura nature park.",
                   "category": "recreational",
                   "coords": [
                         -5.042178,
@@ -4833,7 +4833,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa del Padron",
-                  "text": "Playa del Padron is a beach section in the Selwo Aventura area.",
+                  "text": "Secluded cove beach near Selwo Aventura.",
                   "category": "recreational",
                   "coords": [
                         -5.103721,
@@ -4842,7 +4842,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             },
             {
                   "name": "Playa de Guadalmansa",
-                  "text": "Playa de Guadalmansa is a quiet beach located near Selwo Aventura.",
+                  "text": "Beach with views of the Guadalmansa estuary.",
                   "category": "recreational",
                   "coords": [
                         -5.053747,

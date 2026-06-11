@@ -50,7 +50,52 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le champ de gaz a été découvert en 1990 par la NIOC.", "La surface totale du champ est d'environ 9 700 kilomètres carrés.", "Environ 3 700 kilomètres carrés se trouvent dans les eaux territoriales iraniennes.", "Il abrite environ 14 000 milliards de mètres cubes de gaz naturel.", "Les réserves de condensats sont estimées à plus de 18 milliards de barils.", "L'exploitation est divisée en plusieurs dizaines de phases de développement.", "Le gaz extrait est essentiel pour l'industrie nationale et l'exportation."],
     }, image: "/poi-images/south-pars-gas-field-economic-v2.webp"},
   {
-    id: "bandar-abbas-port-economic-v2",
+    id: "bandar-abbas-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "EmamZade Seyed Kamel",
+                  "text": "Das EmamZade Seyed Kamel ist ein wichtiger religiöser Schrein, der sich durch seine markante Kuppel in der Nähe des geschäftigen Hafens von Bandar Abbas auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        56.269618,
+                        27.184966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "EmamZade Seyed Kamel",
+                  "text": "Az EmamZade Seyed Kamel egy fontos vallási szentély, amelyet különleges kupolája jellemez a nyüzsgő Bandar Abbas kikötő közelében.",
+                  "category": "religious",
+                  "coords": [
+                        56.269618,
+                        27.184966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "EmamZade Seyed Kamel",
+                  "text": "EmamZade Seyed Kamel este un altar religios important caracterizat prin cupola sa distinctă în apropierea portului plin de viață Bandar Abbas.",
+                  "category": "religious",
+                  "coords": [
+                        56.269618,
+                        27.184966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "EmamZade Seyed Kamel",
+                  "text": "The EmamZade Seyed Kamel is an important religious shrine characterized by its distinct dome near the bustling port of Bandar Abbas.",
+                  "category": "religious",
+                  "coords": [
+                        56.269618,
+                        27.184966
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IR-23",
     coords: [56.27, 27.18],
@@ -144,7 +189,160 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le gisement a été documenté géologiquement pour la première fois en 1928.", "L'exploitation industrielle à grande échelle a commencé dans les années 1970.", "Les réserves sont estimées à plus de 1,2 milliard de tonnes de minerai de cuivre.", "La teneur moyenne en cuivre du minerai est d'environ 0,7 %.", "Outre le cuivre, des centaines de tonnes de concentré de molybdène sont extraites chaque année.", "La mine se trouve à environ 160 km au sud-ouest de la ville de Kerman.", "C'est l'un des plus grands employeurs de la région du sud-est de l'Iran."],
     }, image: "/poi-images/sarcheshmeh-copper-mine-economic-v2.webp"},
   {
-    id: "mobarakeh-steel-company-economic-v2",
+    id: "mobarakeh-steel-company-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "gate MSC",
+                  "text": "Ein Aussichtspunkt am Haupteingang des Mobarakeh-Stahlwerks, der Einblicke in einen der größten Industriekomplexe Irans bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.434418,
+                        32.274504
+                  ]
+            },
+            {
+                  "name": "Mosque Emam Reza",
+                  "text": "Diese Moschee liegt im Industriegebiet von Mobarakeh und dient den Arbeitern des nahegelegenen Stahlwerks als Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.488264,
+                        32.196335
+                  ]
+            },
+            {
+                  "name": "mosque saheb al-zaman",
+                  "text": "Ein religiöser Versammlungsort für die lokale Gemeinde im Distrikt des Mobarakeh-Stahlwerks.",
+                  "category": "landmark",
+                  "coords": [
+                        51.496626,
+                        32.197752
+                  ]
+            },
+            {
+                  "name": "Mosque Amir Al-momenin",
+                  "text": "Diese nach Imam Ali benannte Moschee bietet Raum für religiöse Zeremonien im Industrieviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50842,
+                        32.194086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "gate MSC",
+                  "text": "Kilátópont a Mobarakeh Acélmű főbejáratánál, amely rálátást nyújt Irán egyik legnagyobb ipari komplexumára.",
+                  "category": "natural",
+                  "coords": [
+                        51.434418,
+                        32.274504
+                  ]
+            },
+            {
+                  "name": "Mosque Emam Reza",
+                  "text": "Ez a mecset Mobarakeh ipari övezetében található, és a közeli acélmű munkásainak szolgál imahelyként.",
+                  "category": "landmark",
+                  "coords": [
+                        51.488264,
+                        32.196335
+                  ]
+            },
+            {
+                  "name": "mosque saheb al-zaman",
+                  "text": "Vallási gyülekezőhely a helyi közösség számára a Mobarakeh Acélmű körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.496626,
+                        32.197752
+                  ]
+            },
+            {
+                  "name": "Mosque Amir Al-momenin",
+                  "text": "Ez az Imam Aliról elnevezett mecset vallási szertartásoknak ad otthont az ipari negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50842,
+                        32.194086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "gate MSC",
+                  "text": "Un punct de observație la intrarea principală a Combinatului Siderurgic Mobarakeh, oferind o privire asupra unuia dintre cele mai mari complexe industriale din Iran.",
+                  "category": "natural",
+                  "coords": [
+                        51.434418,
+                        32.274504
+                  ]
+            },
+            {
+                  "name": "Mosque Emam Reza",
+                  "text": "Această moschee este situată în zona industrială din Mobarakeh și servește ca lăcaș de rugăciune pentru muncitorii de la oțelăria din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        51.488264,
+                        32.196335
+                  ]
+            },
+            {
+                  "name": "mosque saheb al-zaman",
+                  "text": "Un loc de adunare religioasă pentru comunitatea locală din districtul Combinatului Siderurgic Mobarakeh.",
+                  "category": "landmark",
+                  "coords": [
+                        51.496626,
+                        32.197752
+                  ]
+            },
+            {
+                  "name": "Mosque Amir Al-momenin",
+                  "text": "Această moschee numită după Imam Ali oferă spațiu pentru ceremonii religioase în districtul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50842,
+                        32.194086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "gate MSC",
+                  "text": "A viewpoint at the main entrance of the Mobarakeh Steel Company, offering a look at one of Iran's largest industrial complexes.",
+                  "category": "natural",
+                  "coords": [
+                        51.434418,
+                        32.274504
+                  ]
+            },
+            {
+                  "name": "Mosque Emam Reza",
+                  "text": "This mosque is located in the industrial area of Mobarakeh and serves as a prayer site for workers at the nearby steel mill.",
+                  "category": "landmark",
+                  "coords": [
+                        51.488264,
+                        32.196335
+                  ]
+            },
+            {
+                  "name": "mosque saheb al-zaman",
+                  "text": "A religious gathering place for the local community in the Mobarakeh Steel Company district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.496626,
+                        32.197752
+                  ]
+            },
+            {
+                  "name": "Mosque Amir Al-momenin",
+                  "text": "This mosque named after Imam Ali provides space for religious ceremonies in the industrial district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50842,
+                        32.194086
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IR-04",
     coords: [51.46, 32.24],
@@ -191,7 +389,412 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["La construction de cette immense installation a commencé à la fin des années 1970.", "La mise en service officielle a eu lieu en 1993 après plusieurs retards.", "La capacité de production annuelle dépasse les 10 millions de tonnes d'acier brut.", "Le site de l'usine s'étend sur une surface impressionnante de 35 kilomètres carrés.", "MSC couvre plus de 50 % de la demande totale d'acier de l'Iran.", "L'usine utilise des procédés de réduction directe avancés pour le traitement du minerai.", "Elle emploie directement et indirectement près de 350 000 personnes."],
     }, image: "/poi-images/mobarakeh-steel-company-economic-v2.webp"},
   {
-    id: "chabahar-port-economic-v2",
+    id: "chabahar-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portuguese Castle",
+                  "text": "Diese im 16. Jahrhundert in Tis errichtete Festung zeugt von der einstigen portugiesischen Präsenz am Golf von Oman.",
+                  "category": "castle",
+                  "coords": [
+                        60.607047,
+                        25.354352
+                  ]
+            },
+            {
+                  "name": "Tiss Beach Resort",
+                  "text": "Ein Küstenresort in der Nähe des Dorfes Tis, das für seinen flachen Sandstrand und das ruhige Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        60.60867,
+                        25.362224
+                  ]
+            },
+            {
+                  "name": "Kamalan culture house",
+                  "text": "Dieses Kulturzentrum widmet sich dem Erbe der Belutschen und zeigt traditionelles Kunsthandwerk sowie Musikinstrumente.",
+                  "category": "museum",
+                  "coords": [
+                        60.628985,
+                        25.320449
+                  ]
+            },
+            {
+                  "name": "Darya Bozorg Beach",
+                  "text": "Dieser felsige Küstenabschnitt ist berühmt für seine natürlichen Meerwasser-Geysire, die bei Wellengang meterhoch in die Luft schießen.",
+                  "category": "recreational",
+                  "coords": [
+                        60.665686,
+                        25.278847
+                  ]
+            },
+            {
+                  "name": "Zein Al-Abedin Mosque",
+                  "text": "Ein lokales islamisches Zentrum in Chabahar, das mit seinen zwei aufragenden Minaretten das Stadtbild prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        60.691603,
+                        25.289353
+                  ]
+            },
+            {
+                  "name": "Khatam Al-Anbia Mosque",
+                  "text": "Eine große Freitagsmoschee, die als bedeutender Versammlungsort für die sunnitische Gemeinde in der Hafenstadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        60.688385,
+                        25.288499
+                  ]
+            },
+            {
+                  "name": "Amir Hamzeh Mosque",
+                  "text": "Diese Moschee ist ein zentraler Ort des Gebets für die Anwohner im Herzen von Chabahar.",
+                  "category": "landmark",
+                  "coords": [
+                        60.646062,
+                        25.290193
+                  ]
+            },
+            {
+                  "name": "Ghobah Mosque",
+                  "text": "Eine schlichte Moschee mit der für die Region Sistan und Belutschistan typischen Architektur am Hafen von Tschahbahar.",
+                  "category": "landmark",
+                  "coords": [
+                        60.649374,
+                        25.292275
+                  ]
+            },
+            {
+                  "name": "Salman Farsi Mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus, das der Gemeinde in der Nähe des geschäftigen Hafenviertels von Tschahbahar dient.",
+                  "category": "religious",
+                  "coords": [
+                        60.694138,
+                        25.288002
+                  ]
+            },
+            {
+                  "name": "ballok bazzar",
+                  "text": "Ein lebhafter lokaler Markt, der für seine traditionellen belutschischen Textilien und regionalen Gewürze bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        60.635611,
+                        25.294055
+                  ]
+            },
+            {
+                  "name": "Chabahar Bazaar",
+                  "text": "Ein geschäftiges Handelszentrum, in dem traditionelles iranisches Kunsthandwerk und frische Meeresfrüchte angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        60.637627,
+                        25.292318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portuguese Castle",
+                  "text": "Ez a 16. században, Tisben épült erőd a portugálok egykori jelenlétéről tanúskodik az Ománi-öböl partján.",
+                  "category": "castle",
+                  "coords": [
+                        60.607047,
+                        25.354352
+                  ]
+            },
+            {
+                  "name": "Tiss Beach Resort",
+                  "text": "Tengerparti üdülőhely Tis falu közelében, amely sekély homokos strandjáról és nyugodt vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        60.60867,
+                        25.362224
+                  ]
+            },
+            {
+                  "name": "Kamalan culture house",
+                  "text": "Ez a kulturális központ a beludzs örökségnek szentelt, hagyományos kézműves termékeket és hangszereket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        60.628985,
+                        25.320449
+                  ]
+            },
+            {
+                  "name": "Darya Bozorg Beach",
+                  "text": "Ez a sziklás tengerparti szakasz híres a természetes tengervizes gejzíreiről, amelyek hullámzáskor méterekre lövellik a vizet.",
+                  "category": "recreational",
+                  "coords": [
+                        60.665686,
+                        25.278847
+                  ]
+            },
+            {
+                  "name": "Zein Al-Abedin Mosque",
+                  "text": "Helyi iszlám központ Chabaharban, amely két magasodó minaretjével meghatározza a városképet.",
+                  "category": "landmark",
+                  "coords": [
+                        60.691603,
+                        25.289353
+                  ]
+            },
+            {
+                  "name": "Khatam Al-Anbia Mosque",
+                  "text": "Nagy pénteki mecset, amely a kikötőváros szunnita közösségének jelentős találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        60.688385,
+                        25.288499
+                  ]
+            },
+            {
+                  "name": "Amir Hamzeh Mosque",
+                  "text": "Ez a mecset a központi imahely a Chabahar szívében élő helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        60.646062,
+                        25.290193
+                  ]
+            },
+            {
+                  "name": "Ghobah Mosque",
+                  "text": "Egyszerű mecset Csábahár kikötőjében, amely a Szisztán és Beludzsisztán régióra jellemző építészeti stílust képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        60.649374,
+                        25.292275
+                  ]
+            },
+            {
+                  "name": "Salman Farsi Mosque",
+                  "text": "Helyi muszlim imaház, amely a forgalmas csábahári kikötő negyed közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        60.694138,
+                        25.288002
+                  ]
+            },
+            {
+                  "name": "ballok bazzar",
+                  "text": "Élénk helyi piac, amely hagyományos beludzs textíliáiról és regionális fűszereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        60.635611,
+                        25.294055
+                  ]
+            },
+            {
+                  "name": "Chabahar Bazaar",
+                  "text": "Forgalmas kereskedelmi központ, ahol hagyományos iráni kézműves termékeket és friss tenger gyümölcseit kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        60.637627,
+                        25.292318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portuguese Castle",
+                  "text": "Această fortăreață construită în secolul al XVI-lea în Tis atestă fosta prezență portugheză la Golful Oman.",
+                  "category": "castle",
+                  "coords": [
+                        60.607047,
+                        25.354352
+                  ]
+            },
+            {
+                  "name": "Tiss Beach Resort",
+                  "text": "O stațiune de coastă lângă satul Tis, cunoscută pentru plaja sa de nisip puțin adâncă și apele liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        60.60867,
+                        25.362224
+                  ]
+            },
+            {
+                  "name": "Kamalan culture house",
+                  "text": "Acest centru cultural este dedicat moștenirii belușe, expunând obiecte de artizanat tradițional și instrumente muzicale.",
+                  "category": "museum",
+                  "coords": [
+                        60.628985,
+                        25.320449
+                  ]
+            },
+            {
+                  "name": "Darya Bozorg Beach",
+                  "text": "Această porțiune de coastă stâncoasă este faimoasă pentru gheizerele naturale de apă marină, care țâșnesc la câțiva metri în aer în timpul valurilor.",
+                  "category": "recreational",
+                  "coords": [
+                        60.665686,
+                        25.278847
+                  ]
+            },
+            {
+                  "name": "Zein Al-Abedin Mosque",
+                  "text": "Un centru islamic local din Chabahar, care marchează peisajul urban cu cele două minarete înalte ale sale.",
+                  "category": "landmark",
+                  "coords": [
+                        60.691603,
+                        25.289353
+                  ]
+            },
+            {
+                  "name": "Khatam Al-Anbia Mosque",
+                  "text": "O mare moschee de vineri, care servește ca loc important de adunare pentru comunitatea sunnită din orașul portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        60.688385,
+                        25.288499
+                  ]
+            },
+            {
+                  "name": "Amir Hamzeh Mosque",
+                  "text": "Această moschee este un loc central de rugăciune pentru locuitorii din inima orașului Chabahar.",
+                  "category": "landmark",
+                  "coords": [
+                        60.646062,
+                        25.290193
+                  ]
+            },
+            {
+                  "name": "Ghobah Mosque",
+                  "text": "O moschee simplă în portul Chabahar, reprezentând stilul arhitectural tipic regiunii Sistan și Balucistan.",
+                  "category": "landmark",
+                  "coords": [
+                        60.649374,
+                        25.292275
+                  ]
+            },
+            {
+                  "name": "Salman Farsi Mosque",
+                  "text": "Un lăcaș de cult musulman local care deservește comunitatea din apropierea cartierului portuar aglomerat din Chabahar.",
+                  "category": "religious",
+                  "coords": [
+                        60.694138,
+                        25.288002
+                  ]
+            },
+            {
+                  "name": "ballok bazzar",
+                  "text": "O piață locală plină de viață, cunoscută pentru textilele tradiționale baluchi și condimentele regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        60.635611,
+                        25.294055
+                  ]
+            },
+            {
+                  "name": "Chabahar Bazaar",
+                  "text": "Un centru comercial aglomerat care oferă meșteșuguri tradiționale iraniene și fructe de mare proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        60.637627,
+                        25.292318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portuguese Castle",
+                  "text": "Built in the 16th century in Tis, this fort bears witness to the former Portuguese presence on the Gulf of Oman.",
+                  "category": "castle",
+                  "coords": [
+                        60.607047,
+                        25.354352
+                  ]
+            },
+            {
+                  "name": "Tiss Beach Resort",
+                  "text": "A coastal resort area near Tis village, known for its shallow sandy beach and calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        60.60867,
+                        25.362224
+                  ]
+            },
+            {
+                  "name": "Kamalan culture house",
+                  "text": "This cultural center is dedicated to Balochi heritage, displaying traditional crafts and musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        60.628985,
+                        25.320449
+                  ]
+            },
+            {
+                  "name": "Darya Bozorg Beach",
+                  "text": "This rocky coastal stretch is famous for its natural seawater geysers that shoot meters into the air during high surf.",
+                  "category": "recreational",
+                  "coords": [
+                        60.665686,
+                        25.278847
+                  ]
+            },
+            {
+                  "name": "Zein Al-Abedin Mosque",
+                  "text": "A local Islamic center in Chabahar, featuring two towering minarets that mark the urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        60.691603,
+                        25.289353
+                  ]
+            },
+            {
+                  "name": "Khatam Al-Anbia Mosque",
+                  "text": "A large congregational mosque serving as a major gathering place for the Sunni community in the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        60.688385,
+                        25.288499
+                  ]
+            },
+            {
+                  "name": "Amir Hamzeh Mosque",
+                  "text": "This mosque serves as a central place of prayer for the local residents in the heart of Chabahar.",
+                  "category": "landmark",
+                  "coords": [
+                        60.646062,
+                        25.290193
+                  ]
+            },
+            {
+                  "name": "Ghobah Mosque",
+                  "text": "A simple mosque in Chabahar Port, featuring the traditional architectural style typical of the Sistan and Baluchestan region.",
+                  "category": "landmark",
+                  "coords": [
+                        60.649374,
+                        25.292275
+                  ]
+            },
+            {
+                  "name": "Salman Farsi Mosque",
+                  "text": "A local Muslim place of worship serving the community near the busy port district of Chabahar.",
+                  "category": "religious",
+                  "coords": [
+                        60.694138,
+                        25.288002
+                  ]
+            },
+            {
+                  "name": "ballok bazzar",
+                  "text": "A lively local market known for its traditional Baluchi textiles and regional spices.",
+                  "category": "cultural",
+                  "coords": [
+                        60.635611,
+                        25.294055
+                  ]
+            },
+            {
+                  "name": "Chabahar Bazaar",
+                  "text": "A bustling commercial hub offering traditional Iranian handicrafts and fresh seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        60.637627,
+                        25.292318
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IR-13",
     coords: [60.62, 25.29],
@@ -238,7 +841,1312 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le port se compose de deux complexes principaux : Shahid Kalantari et Shahid Beheshti.", "En 2016, l'Inde, l'Iran et l'Afghanistan ont signé un accord de transit historique.", "L'Inde s'est engagée à investir des centaines de millions de dollars dans les terminaux.", "Le port réduit considérablement le temps de transport vers l'Afghanistan par rapport aux routes pakistanaises.", "La capacité doit passer de 2,5 millions à plus de 8 millions de tonnes par an.", "Une ligne de chemin de fer prévue reliera Chabahar à la ville de Zahedan.", "Il joue un rôle central dans le Corridor de transport international Nord-Sud."],
     }, image: "/poi-images/chabahar-port-economic-v2.webp"},
   {
-    id: "tabriz-petrochemical-economic-v2",
+    id: "tabriz-petrochemical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rabe Rashidi",
+                  "text": "Ruinen eines bedeutenden akademischen Zentrums aus dem 14. Jahrhundert, errichtet von Raschid ad-Din.",
+                  "category": "historical",
+                  "coords": [
+                        46.330296,
+                        38.079257
+                  ]
+            },
+            {
+                  "name": "Shoghakat Armenian Church",
+                  "text": "Diese armenisch-apostolische Kirche wurde 1940 im christlichen Viertel von Täbris erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        46.284008,
+                        38.055975
+                  ]
+            },
+            {
+                  "name": "St. Sargis Church",
+                  "text": "Historische armenische Kirche im Lilabad-Viertel, bekannt für ihre traditionelle Steinfassade.",
+                  "category": "religious",
+                  "coords": [
+                        46.28315,
+                        38.069843
+                  ]
+            },
+            {
+                  "name": "St. Mary Armenian Apostolic Church",
+                  "text": "Die älteste armenische Kirche in Täbris, deren Ursprünge auf das Jahr 1682 zurückgehen.",
+                  "category": "religious",
+                  "coords": [
+                        46.288193,
+                        38.079005
+                  ]
+            },
+            {
+                  "name": "Kabud-Moschee",
+                  "text": "Berühmte Moschee aus dem 15. Jahrhundert, bekannt für ihre filigranen blauen Kachelmosaike.",
+                  "category": "landmark",
+                  "coords": [
+                        46.301066,
+                        38.073593
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque of Tabriz",
+                  "text": "Die historische Jameh-Moschee von Täbris vereint seldschukische und qadscharische Architekturstile.",
+                  "category": "landmark",
+                  "coords": [
+                        46.290853,
+                        38.080972
+                  ]
+            },
+            {
+                  "name": "Basar von Täbriz",
+                  "text": "UNESCO-Weltkulturerbe und einer der ältesten und größten überdachten Basarkomplexe weltweit.",
+                  "category": "landmark",
+                  "coords": [
+                        46.292988,
+                        38.081812
+                  ]
+            },
+            {
+                  "name": "Golestan Garden",
+                  "text": "Historischer Stadtpark im Herzen von Täbris, der auf dem Gelände eines alten Friedhofs angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        46.280559,
+                        38.076818
+                  ]
+            },
+            {
+                  "name": "Tabriz Muncipality Office",
+                  "text": "Museum im historischen Rathauspalast, der für seinen markanten Uhrturm bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        46.295457,
+                        38.073557
+                  ]
+            },
+            {
+                  "name": "Tabriz Citadel",
+                  "text": "Massive Überreste einer Festung aus dem 14. Jahrhundert mit monumentalen Backsteinmauern.",
+                  "category": "landmark",
+                  "coords": [
+                        46.288858,
+                        38.072425
+                  ]
+            },
+            {
+                  "name": "Tabriz Museum of Natural History",
+                  "text": "Das Museum zeigt eine umfangreiche Sammlung präparierter Wildtiere und Vögel aus der Region Aserbaidschan.",
+                  "category": "museum",
+                  "coords": [
+                        46.322139,
+                        38.064038
+                  ]
+            },
+            {
+                  "name": "Iron Age Museum",
+                  "text": "Präsentiert eine 3000 Jahre alte Nekropole, die bei Ausgrabungen direkt unter der Blauen Moschee entdeckt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        46.303034,
+                        38.073968
+                  ]
+            },
+            {
+                  "name": "Azerbaijan Museum",
+                  "text": "Irans zweitgrößtes archäologisches Museum beherbergt bedeutende Funde von der Eisenzeit bis zur islamischen Ära.",
+                  "category": "museum",
+                  "coords": [
+                        46.300024,
+                        38.073583
+                  ]
+            },
+            {
+                  "name": "Constitution Museum",
+                  "text": "Ein prächtiges Qajaren-Haus, das während der konstitutionellen Revolution Anfang des 20. Jahrhunderts als Hauptquartier diente.",
+                  "category": "museum",
+                  "coords": [
+                        46.288681,
+                        38.081702
+                  ]
+            },
+            {
+                  "name": "Sāheb ol Amr Mosque",
+                  "text": "Diese historische safawidische Moschee am Basar ist für ihre zwei markanten Minarette und die blauen Kacheln bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        46.295777,
+                        38.08412
+                  ]
+            },
+            {
+                  "name": "Shahriyar house museum",
+                  "text": "Das ehemalige Wohnhaus des berühmten Dichters Mohammad-Hossein Shahriyar stellt dessen persönliche Gegenstände und Manuskripte aus.",
+                  "category": "museum",
+                  "coords": [
+                        46.295292,
+                        38.069706
+                  ]
+            },
+            {
+                  "name": "Ali Monsieur museum",
+                  "text": "Das Museum erinnert im Wohnhaus von Ali Monsieur an einen bedeutenden Anführer der Täbriser Sozialdemokraten.",
+                  "category": "museum",
+                  "coords": [
+                        46.299022,
+                        38.069316
+                  ]
+            },
+            {
+                  "name": "Lou Gallery",
+                  "text": "Ein moderner Ausstellungsraum in Täbris, der zeitgenössische Kunstwerke lokaler und regionaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        46.321107,
+                        38.067268
+                  ]
+            },
+            {
+                  "name": "Qajar Museum-house of AmirNezam Garrousi",
+                  "text": "Das historische Haus von Amir Nezam Garrousi beeindruckt mit seiner prachtvollen Fassade und den kunstvollen Stuckarbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        46.305992,
+                        38.083139
+                  ]
+            },
+            {
+                  "name": "Shohadaye Gomnam Monument",
+                  "text": "Ein Denkmal für die unbekannten Märtyrer, das auf einer Anhöhe liegt und einen weiten Panoramablick bietet.",
+                  "category": "historical",
+                  "coords": [
+                        46.326628,
+                        38.052968
+                  ]
+            },
+            {
+                  "name": "Shohada Monoment",
+                  "text": "Ein markantes Monument im Stadtzentrum, das den Opfern vergangener Kriege und Konflikte gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        46.295333,
+                        38.078024
+                  ]
+            },
+            {
+                  "name": "Emam jafar sadeg",
+                  "text": "Eine lokale religiöse Stätte für Gebete, benannt nach dem sechsten Imam der Schiiten.",
+                  "category": "religious",
+                  "coords": [
+                        46.321703,
+                        38.051488
+                  ]
+            },
+            {
+                  "name": "Ghias Mosque",
+                  "text": "Eine traditionelle Moschee mit gewölbten Ziegelstrukturen im Herzen des historischen Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        46.306307,
+                        38.065333
+                  ]
+            },
+            {
+                  "name": "14 masoom mosque",
+                  "text": "Ein muslimisches Gebetshaus, das den vierzehn Unfehlbaren des schiitischen Glaubens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.313892,
+                        38.067456
+                  ]
+            },
+            {
+                  "name": "Aquarium Tools Store",
+                  "text": "Ein spezialisierter Marktbereich für Aquaristik, der eine Vielfalt an tropischen Fischen und Zubehör anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        46.341045,
+                        38.07568
+                  ]
+            },
+            {
+                  "name": "Golestan mall",
+                  "text": "Ein modernes Einkaufszentrum in Täbris, das internationale Marken und verschiedene gastronomische Einrichtungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        46.285037,
+                        38.074974
+                  ]
+            },
+            {
+                  "name": "Gajil Gateway",
+                  "text": "Eines der alten Tore der Stadtbefestigung, das früher als westlicher Zugang zu den Handelsvierteln diente.",
+                  "category": "landmark",
+                  "coords": [
+                        46.283,
+                        38.079055
+                  ]
+            },
+            {
+                  "name": "Veyjoieh Gate",
+                  "text": "Ein historisches Stadttor, das den Eingang zum alten Viertel Veyjoieh in der Festungsmauer markierte.",
+                  "category": "landmark",
+                  "coords": [
+                        46.284894,
+                        38.082103
+                  ]
+            },
+            {
+                  "name": "Nikdel's House",
+                  "text": "Ein elegantes Wohnhaus aus der Qajaren-Zeit mit einem traditionellen Innenhof und kunstvollen Fensterverzierungen.",
+                  "category": "landmark",
+                  "coords": [
+                        46.294093,
+                        38.072037
+                  ]
+            },
+            {
+                  "name": "Minyator Park",
+                  "text": "Ein Themenpark, der detailgetreue Miniaturmodelle der wichtigsten historischen Sehenswürdigkeiten von Täbris zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334517,
+                        38.065915
+                  ]
+            },
+            {
+                  "name": "Locomotive",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal für die Entwicklung des Eisenbahnverkehrs in der Region ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.229004,
+                        38.072973
+                  ]
+            },
+            {
+                  "name": "Abbasiyeh",
+                  "text": "Ein religiöser Versammlungsort, der für die traditionellen schiitischen Zeremonien der lokalen Gemeinde genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        46.265432,
+                        38.062957
+                  ]
+            },
+            {
+                  "name": "Haj Qeymali",
+                  "text": "Eine kleine Moschee im traditionellen Stil, die als spiritueller Treffpunkt für die Bewohner der Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        46.270095,
+                        38.076425
+                  ]
+            },
+            {
+                  "name": "Salar Shahidan Mosque",
+                  "text": "Diese Moschee ist ein Zentrum für religiöse Andacht und ehrt die Märtyrer des schiitischen Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.311259,
+                        38.069694
+                  ]
+            },
+            {
+                  "name": "Boyuk Mosque - Qaramalik Jameh Mosque",
+                  "text": "Die zentrale Moschee des Qaramalik-Viertels besticht durch ihre weiten Gebetshallen und die Backsteinarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        46.220884,
+                        38.092136
+                  ]
+            },
+            {
+                  "name": "Mojuzlar Mosque",
+                  "text": "Ein bescheidenes muslimisches Bethaus, das für die täglichen Gebete der Anwohner genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        46.255285,
+                        38.075712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rabe Rashidi",
+                  "text": "Egy 14. századi jelentős akadémiai központ romjai, melyet Rasid ad-Din alapított.",
+                  "category": "historical",
+                  "coords": [
+                        46.330296,
+                        38.079257
+                  ]
+            },
+            {
+                  "name": "Shoghakat Armenian Church",
+                  "text": "1940-ben épült örmény apostoli templom Tebriz keresztény negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        46.284008,
+                        38.055975
+                  ]
+            },
+            {
+                  "name": "St. Sargis Church",
+                  "text": "Történelmi örmény templom a Lilabad negyedben, amely hagyományos kőhomlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        46.28315,
+                        38.069843
+                  ]
+            },
+            {
+                  "name": "St. Mary Armenian Apostolic Church",
+                  "text": "Tebriz legrégebbi örmény temploma, amelynek eredete 1682-ig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        46.288193,
+                        38.079005
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Híres 15. századi mecset, amely finom kidolgozású kék csempemozaikjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        46.301066,
+                        38.073593
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque of Tabriz",
+                  "text": "Tebriz történelmi Jameh-mecsetje, amely szeldzsuk és kádzsár építészeti stílusokat ötvöz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.290853,
+                        38.080972
+                  ]
+            },
+            {
+                  "name": "Bazaar of Tabriz",
+                  "text": "UNESCO világörökségi helyszín, a világ egyik legrégebbi és legnagyobb fedett bazárkomplexuma.",
+                  "category": "landmark",
+                  "coords": [
+                        46.292988,
+                        38.081812
+                  ]
+            },
+            {
+                  "name": "Golestan Garden",
+                  "text": "Tebriz szívében fekvő történelmi városi park, amelyet egy régi temető helyén alakítottak ki.",
+                  "category": "park",
+                  "coords": [
+                        46.280559,
+                        38.076818
+                  ]
+            },
+            {
+                  "name": "Tabriz Muncipality Office",
+                  "text": "Múzeum a történelmi városházán, amely jellegzetes óratornyáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        46.295457,
+                        38.073557
+                  ]
+            },
+            {
+                  "name": "Tabriz Citadel",
+                  "text": "Egy 14. századi erődítmény hatalmas maradványai monumentális téglafalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        46.288858,
+                        38.072425
+                  ]
+            },
+            {
+                  "name": "Tabriz Museum of Natural History",
+                  "text": "A múzeum az azerbajdzsáni régió kitömött vadvilágának és madárvilágának gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        46.322139,
+                        38.064038
+                  ]
+            },
+            {
+                  "name": "Iron Age Museum",
+                  "text": "Egy 3000 éves nekropoliszt mutat be, amelyet közvetlenül a Kék mecset alatti ásatások során fedeztek fel.",
+                  "category": "museum",
+                  "coords": [
+                        46.303034,
+                        38.073968
+                  ]
+            },
+            {
+                  "name": "Azerbaijan Museum",
+                  "text": "Irán második legnagyobb régészeti múzeuma a vaskortól az iszlám korszakig tartó jelentős leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        46.300024,
+                        38.073583
+                  ]
+            },
+            {
+                  "name": "Constitution Museum",
+                  "text": "Pompás kadzsár-kori ház, amely a 20. század eleji alkotmányos forradalom idején főhadiszállásként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        46.288681,
+                        38.081702
+                  ]
+            },
+            {
+                  "name": "Sāheb ol Amr Mosque",
+                  "text": "Ez a történelmi szafavida mecset a bazárnál jellegzetes ikerminaretjeiről és kék csempéiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        46.295777,
+                        38.08412
+                  ]
+            },
+            {
+                  "name": "Shahriyar house museum",
+                  "text": "Mohammad-Hosszein Sahrijar híres költő egykori otthona, ahol személyes tárgyait és kéziratait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        46.295292,
+                        38.069706
+                  ]
+            },
+            {
+                  "name": "Ali Monsieur museum",
+                  "text": "A múzeum Ali Monsieur egykori lakóházában állít emléket a tabrizi szociáldemokraták egyik jelentős vezetőjének.",
+                  "category": "museum",
+                  "coords": [
+                        46.299022,
+                        38.069316
+                  ]
+            },
+            {
+                  "name": "Lou Gallery",
+                  "text": "Modern kiállítótér Tabrizban, amely helyi és regionális művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        46.321107,
+                        38.067268
+                  ]
+            },
+            {
+                  "name": "Qajar Museum-house of AmirNezam Garrousi",
+                  "text": "Amir Nezam Garrousi történelmi háza lenyűgöző homlokzatával és díszes stukkómunkáival nyűgözi le a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        46.305992,
+                        38.083139
+                  ]
+            },
+            {
+                  "name": "Shohadaye Gomnam Monument",
+                  "text": "Az ismeretlen mártírok emlékműve, amely egy magaslaton található, és széles panorámát nyújt a környékre.",
+                  "category": "historical",
+                  "coords": [
+                        46.326628,
+                        38.052968
+                  ]
+            },
+            {
+                  "name": "Shohada Monoment",
+                  "text": "Jellegzetes emlékmű a városközpontban, amelyet a múltbeli háborúk és konfliktusok áldozatainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        46.295333,
+                        38.078024
+                  ]
+            },
+            {
+                  "name": "Emam jafar sadeg",
+                  "text": "A síiták hatodik imámjáról elnevezett helyi vallási helyszín az imádság számára.",
+                  "category": "religious",
+                  "coords": [
+                        46.321703,
+                        38.051488
+                  ]
+            },
+            {
+                  "name": "Ghias Mosque",
+                  "text": "Hagyományos mecset boltozatos téglaszerkezetekkel a történelmi negyed szívében.",
+                  "category": "religious",
+                  "coords": [
+                        46.306307,
+                        38.065333
+                  ]
+            },
+            {
+                  "name": "14 masoom mosque",
+                  "text": "Muszlim imaház, amelyet a síita hit tizennégy tévedhetetlenének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        46.313892,
+                        38.067456
+                  ]
+            },
+            {
+                  "name": "Aquarium Tools Store",
+                  "text": "Akváriumokra szakosodott piaci terület, ahol trópusi halak és kiegészítők széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        46.341045,
+                        38.07568
+                  ]
+            },
+            {
+                  "name": "Golestan mall",
+                  "text": "Modern bevásárlóközpont Tabrizban, amely nemzetközi márkáknak és különféle vendéglátóhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        46.285037,
+                        38.074974
+                  ]
+            },
+            {
+                  "name": "Gajil Gateway",
+                  "text": "A városi erődítmény egyik régi kapuja, amely korábban a kereskedelmi negyedek nyugati bejárataként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        46.283,
+                        38.079055
+                  ]
+            },
+            {
+                  "name": "Veyjoieh Gate",
+                  "text": "Történelmi városkapu, amely a várfalban a régi Vejdzsujeh negyed bejáratát jelezte.",
+                  "category": "landmark",
+                  "coords": [
+                        46.284894,
+                        38.082103
+                  ]
+            },
+            {
+                  "name": "Nikdel's House",
+                  "text": "Elegáns kadzsár-kori lakóház hagyományos belső udvarral és díszes ablakdíszekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        46.294093,
+                        38.072037
+                  ]
+            },
+            {
+                  "name": "Minyator Park",
+                  "text": "Tematikus park, amely Tabriz legfontosabb történelmi látnivalóinak részletes makettjeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334517,
+                        38.065915
+                  ]
+            },
+            {
+                  "name": "Locomotive",
+                  "text": "Történelmi gőzmozdony, amelyet a régió vasúti közlekedésének fejlődése előtti tiszteletadásként állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        46.229004,
+                        38.072973
+                  ]
+            },
+            {
+                  "name": "Abbasiyeh",
+                  "text": "Vallási gyülekezőhely, amelyet a helyi közösség hagyományos síita szertartásaihoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        46.265432,
+                        38.062957
+                  ]
+            },
+            {
+                  "name": "Haj Qeymali",
+                  "text": "Hagyományos stílusú kis mecset, amely a környék lakóinak spirituális találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        46.270095,
+                        38.076425
+                  ]
+            },
+            {
+                  "name": "Salar Shahidan Mosque",
+                  "text": "Ez a mecset a vallási áhítat központja, amely a síita iszlám mártírjai előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        46.311259,
+                        38.069694
+                  ]
+            },
+            {
+                  "name": "Boyuk Mosque - Qaramalik Jameh Mosque",
+                  "text": "A Karamalik negyed központi mecsetje tágas imatermeivel és téglaépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        46.220884,
+                        38.092136
+                  ]
+            },
+            {
+                  "name": "Mojuzlar Mosque",
+                  "text": "Szerény muszlim imaház, amelyet a környékbeli lakosok napi imádságaihoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        46.255285,
+                        38.075712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rabe Rashidi",
+                  "text": "Ruinele unui important centru academic din secolul al XIV-lea, construit de Rashid al-Din.",
+                  "category": "historical",
+                  "coords": [
+                        46.330296,
+                        38.079257
+                  ]
+            },
+            {
+                  "name": "Shoghakat Armenian Church",
+                  "text": "Această biserică armeană apostolică a fost construită în 1940 în cartierul creștin din Tabriz.",
+                  "category": "religious",
+                  "coords": [
+                        46.284008,
+                        38.055975
+                  ]
+            },
+            {
+                  "name": "St. Sargis Church",
+                  "text": "Biserică armenească istorică în cartierul Lilabad, cunoscută pentru fațada sa tradițională din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        46.28315,
+                        38.069843
+                  ]
+            },
+            {
+                  "name": "St. Mary Armenian Apostolic Church",
+                  "text": "Cea mai veche biserică armenească din Tabriz, cu origini ce datează din anul 1682.",
+                  "category": "religious",
+                  "coords": [
+                        46.288193,
+                        38.079005
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Celebră moschee din secolul al XV-lea, renumită pentru mozaicurile sale delicate din plăci albastre.",
+                  "category": "landmark",
+                  "coords": [
+                        46.301066,
+                        38.073593
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque of Tabriz",
+                  "text": "Moscheea istorică Jameh din Tabriz îmbină stilurile arhitecturale selgiucid și qajar.",
+                  "category": "landmark",
+                  "coords": [
+                        46.290853,
+                        38.080972
+                  ]
+            },
+            {
+                  "name": "Bazaar of Tabriz",
+                  "text": "Sit al Patrimoniului Mondial UNESCO și unul dintre cele mai vechi și mari complexe de bazare acoperite din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        46.292988,
+                        38.081812
+                  ]
+            },
+            {
+                  "name": "Golestan Garden",
+                  "text": "Parc istoric în inima orașului Tabriz, amenajat pe locul unui vechi cimitir.",
+                  "category": "park",
+                  "coords": [
+                        46.280559,
+                        38.076818
+                  ]
+            },
+            {
+                  "name": "Tabriz Muncipality Office",
+                  "text": "Muzeu situat în palatul istoric al primăriei, faimos pentru turnul său cu ceas.",
+                  "category": "museum",
+                  "coords": [
+                        46.295457,
+                        38.073557
+                  ]
+            },
+            {
+                  "name": "Tabriz Citadel",
+                  "text": "Rămășițe masive ale unei fortificații din secolul al XIV-lea, cu ziduri monumentale de cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.288858,
+                        38.072425
+                  ]
+            },
+            {
+                  "name": "Tabriz Museum of Natural History",
+                  "text": "Muzeul prezintă o colecție bogată de animale sălbatice și păsări taxidermizate din regiunea Azerbaidjan.",
+                  "category": "museum",
+                  "coords": [
+                        46.322139,
+                        38.064038
+                  ]
+            },
+            {
+                  "name": "Iron Age Museum",
+                  "text": "Prezintă o necropolă veche de 3000 de ani, descoperită în timpul săpăturilor chiar sub Moscheea Albastră.",
+                  "category": "museum",
+                  "coords": [
+                        46.303034,
+                        38.073968
+                  ]
+            },
+            {
+                  "name": "Azerbaijan Museum",
+                  "text": "Al doilea cel mai mare muzeu arheologic din Iran adăpostește descoperiri importante din epoca fierului până în perioada islamică.",
+                  "category": "museum",
+                  "coords": [
+                        46.300024,
+                        38.073583
+                  ]
+            },
+            {
+                  "name": "Constitution Museum",
+                  "text": "O casă splendidă din perioada Qajar care a servit drept sediu în timpul Revoluției Constituționale de la începutul secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        46.288681,
+                        38.081702
+                  ]
+            },
+            {
+                  "name": "Sāheb ol Amr Mosque",
+                  "text": "Această moschee istorică safavidă de lângă bazar este cunoscută pentru cele două minarete distinctive și plăcile albastre.",
+                  "category": "religious",
+                  "coords": [
+                        46.295777,
+                        38.08412
+                  ]
+            },
+            {
+                  "name": "Shahriyar house museum",
+                  "text": "Fosta casă a celebrului poet Mohammad-Hossein Shahriyar expune obiectele sale personale și manuscrise.",
+                  "category": "museum",
+                  "coords": [
+                        46.295292,
+                        38.069706
+                  ]
+            },
+            {
+                  "name": "Ali Monsieur museum",
+                  "text": "Muzeul, situat în fosta locuință a lui Ali Monsieur, comemorează un lider important al social-democraților din Tabriz.",
+                  "category": "museum",
+                  "coords": [
+                        46.299022,
+                        38.069316
+                  ]
+            },
+            {
+                  "name": "Lou Gallery",
+                  "text": "Un spațiu de expoziție modern în Tabriz, care prezintă opere de artă contemporană ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        46.321107,
+                        38.067268
+                  ]
+            },
+            {
+                  "name": "Qajar Museum-house of AmirNezam Garrousi",
+                  "text": "Casa istorică a lui Amir Nezam Garrousi impresionează prin fațada sa splendidă și stucaturile elaborate.",
+                  "category": "museum",
+                  "coords": [
+                        46.305992,
+                        38.083139
+                  ]
+            },
+            {
+                  "name": "Shohadaye Gomnam Monument",
+                  "text": "Un monument dedicat martirilor necunoscuți, situat pe o colină, oferind o panoramă vastă asupra împrejurimilor.",
+                  "category": "historical",
+                  "coords": [
+                        46.326628,
+                        38.052968
+                  ]
+            },
+            {
+                  "name": "Shohada Monoment",
+                  "text": "Un monument proeminent în centrul orașului, dedicat victimelor războaielor și conflictelor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        46.295333,
+                        38.078024
+                  ]
+            },
+            {
+                  "name": "Emam jafar sadeg",
+                  "text": "Un lăcaș religios local pentru rugăciune, numit după cel de-al șaselea imam al șiitilor.",
+                  "category": "religious",
+                  "coords": [
+                        46.321703,
+                        38.051488
+                  ]
+            },
+            {
+                  "name": "Ghias Mosque",
+                  "text": "O moschee tradițională cu structuri de cărămidă boltite, situată în inima cartierului istoric.",
+                  "category": "religious",
+                  "coords": [
+                        46.306307,
+                        38.065333
+                  ]
+            },
+            {
+                  "name": "14 masoom mosque",
+                  "text": "O casă de rugăciune musulmană dedicată celor paisprezece impecabili ai credinței șiite.",
+                  "category": "religious",
+                  "coords": [
+                        46.313892,
+                        38.067456
+                  ]
+            },
+            {
+                  "name": "Aquarium Tools Store",
+                  "text": "O zonă de piață specializată în acvaristică, oferind o varietate de pești tropicali și accesorii.",
+                  "category": "cultural",
+                  "coords": [
+                        46.341045,
+                        38.07568
+                  ]
+            },
+            {
+                  "name": "Golestan mall",
+                  "text": "Un centru comercial modern în Tabriz, care găzduiește mărci internaționale și diverse unități gastronomice.",
+                  "category": "cultural",
+                  "coords": [
+                        46.285037,
+                        38.074974
+                  ]
+            },
+            {
+                  "name": "Gajil Gateway",
+                  "text": "Una dintre vechile porți ale fortificațiilor orașului, care servea anterior drept acces vest către cartierele comerciale.",
+                  "category": "landmark",
+                  "coords": [
+                        46.283,
+                        38.079055
+                  ]
+            },
+            {
+                  "name": "Veyjoieh Gate",
+                  "text": "O poartă istorică a orașului care marca intrarea în vechiul cartier Veyjoieh din zidul fortăreței.",
+                  "category": "landmark",
+                  "coords": [
+                        46.284894,
+                        38.082103
+                  ]
+            },
+            {
+                  "name": "Nikdel's House",
+                  "text": "O casă elegantă din perioada Qajar, cu o curte interioară tradițională și decorațiuni ornamentate la ferestre.",
+                  "category": "landmark",
+                  "coords": [
+                        46.294093,
+                        38.072037
+                  ]
+            },
+            {
+                  "name": "Minyator Park",
+                  "text": "Un parc tematic care prezintă machete detaliate ale celor mai importante obiective istorice din Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334517,
+                        38.065915
+                  ]
+            },
+            {
+                  "name": "Locomotive",
+                  "text": "O locomotivă cu abur istorică expusă ca monument pentru dezvoltarea transportului feroviar în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        46.229004,
+                        38.072973
+                  ]
+            },
+            {
+                  "name": "Abbasiyeh",
+                  "text": "Un loc de adunare religioasă utilizat pentru ceremoniile tradiționale șiite ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        46.265432,
+                        38.062957
+                  ]
+            },
+            {
+                  "name": "Haj Qeymali",
+                  "text": "O mică moschee în stil tradițional care servește drept punct de întâlnire spiritual pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        46.270095,
+                        38.076425
+                  ]
+            },
+            {
+                  "name": "Salar Shahidan Mosque",
+                  "text": "Această moschee este un centru de devoțiune religioasă și îi onorează pe martirii islamului șiit.",
+                  "category": "landmark",
+                  "coords": [
+                        46.311259,
+                        38.069694
+                  ]
+            },
+            {
+                  "name": "Boyuk Mosque - Qaramalik Jameh Mosque",
+                  "text": "Moscheea centrală a cartierului Qaramalik se remarcă prin sălile de rugăciune vaste și arhitectura din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.220884,
+                        38.092136
+                  ]
+            },
+            {
+                  "name": "Mojuzlar Mosque",
+                  "text": "O casă de rugăciune musulmană modestă, folosită pentru rugăciunile zilnice ale locuitorilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.255285,
+                        38.075712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rabe Rashidi",
+                  "text": "Ruins of a major 14th-century academic and cultural complex built by Rashid al-Din Hamadani.",
+                  "category": "historical",
+                  "coords": [
+                        46.330296,
+                        38.079257
+                  ]
+            },
+            {
+                  "name": "Shoghakat Armenian Church",
+                  "text": "This Armenian Apostolic church was built in 1940 in the Christian quarter of Tabriz.",
+                  "category": "religious",
+                  "coords": [
+                        46.284008,
+                        38.055975
+                  ]
+            },
+            {
+                  "name": "St. Sargis Church",
+                  "text": "Historic Armenian church in the Lilabad district, known for its traditional stone facade.",
+                  "category": "religious",
+                  "coords": [
+                        46.28315,
+                        38.069843
+                  ]
+            },
+            {
+                  "name": "St. Mary Armenian Apostolic Church",
+                  "text": "The oldest Armenian church in Tabriz, with origins dating back to 1682.",
+                  "category": "religious",
+                  "coords": [
+                        46.288193,
+                        38.079005
+                  ]
+            },
+            {
+                  "name": "Blue Mosque",
+                  "text": "Famous 15th-century mosque renowned for its intricate blue tile mosaics and Islamic calligraphy.",
+                  "category": "landmark",
+                  "coords": [
+                        46.301066,
+                        38.073593
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque of Tabriz",
+                  "text": "The historic Jameh Mosque of Tabriz features a blend of Seljuk and Qajar architectural styles.",
+                  "category": "landmark",
+                  "coords": [
+                        46.290853,
+                        38.080972
+                  ]
+            },
+            {
+                  "name": "Bazaar of Tabriz",
+                  "text": "UNESCO World Heritage site and one of the oldest and largest covered bazaar complexes in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        46.292988,
+                        38.081812
+                  ]
+            },
+            {
+                  "name": "Golestan Garden",
+                  "text": "Historical city park in the heart of Tabriz, established on the site of an old cemetery.",
+                  "category": "park",
+                  "coords": [
+                        46.280559,
+                        38.076818
+                  ]
+            },
+            {
+                  "name": "Tabriz Muncipality Office",
+                  "text": "Museum housed in the historic Municipality Palace, famous for its iconic clock tower.",
+                  "category": "museum",
+                  "coords": [
+                        46.295457,
+                        38.073557
+                  ]
+            },
+            {
+                  "name": "Tabriz Citadel",
+                  "text": "Massive remnants of a 14th-century fortification featuring monumental brick walls.",
+                  "category": "landmark",
+                  "coords": [
+                        46.288858,
+                        38.072425
+                  ]
+            },
+            {
+                  "name": "Tabriz Museum of Natural History",
+                  "text": "The museum showcases a rich collection of taxidermied wildlife and birds native to the Azerbaijan region.",
+                  "category": "museum",
+                  "coords": [
+                        46.322139,
+                        38.064038
+                  ]
+            },
+            {
+                  "name": "Iron Age Museum",
+                  "text": "Displays a 3,000-year-old necropolis discovered during excavations directly beneath the Blue Mosque.",
+                  "category": "museum",
+                  "coords": [
+                        46.303034,
+                        38.073968
+                  ]
+            },
+            {
+                  "name": "Azerbaijan Museum",
+                  "text": "Iran's second largest archaeological museum houses major finds ranging from the Iron Age to the Islamic era.",
+                  "category": "museum",
+                  "coords": [
+                        46.300024,
+                        38.073583
+                  ]
+            },
+            {
+                  "name": "Constitution Museum",
+                  "text": "A magnificent Qajar-era house that served as a headquarters during the Constitutional Revolution in the early 1900s.",
+                  "category": "museum",
+                  "coords": [
+                        46.288681,
+                        38.081702
+                  ]
+            },
+            {
+                  "name": "Sāheb ol Amr Mosque",
+                  "text": "This historic Safavid-era mosque near the bazaar is known for its two distinct minarets and blue tilework.",
+                  "category": "religious",
+                  "coords": [
+                        46.295777,
+                        38.08412
+                  ]
+            },
+            {
+                  "name": "Shahriyar house museum",
+                  "text": "The former home of the famous poet Mohammad-Hossein Shahriyar exhibits his personal belongings and manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        46.295292,
+                        38.069706
+                  ]
+            },
+            {
+                  "name": "Ali Monsieur museum",
+                  "text": "The museum, located in the former residence of Ali Monsieur, commemorates a key leader of the Tabriz Social Democrats.",
+                  "category": "museum",
+                  "coords": [
+                        46.299022,
+                        38.069316
+                  ]
+            },
+            {
+                  "name": "Lou Gallery",
+                  "text": "A modern exhibition space in Tabriz presenting contemporary artworks by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        46.321107,
+                        38.067268
+                  ]
+            },
+            {
+                  "name": "Qajar Museum-house of AmirNezam Garrousi",
+                  "text": "The historic house of Amir Nezam Garrousi impresses with its magnificent facade and ornate stucco work.",
+                  "category": "museum",
+                  "coords": [
+                        46.305992,
+                        38.083139
+                  ]
+            },
+            {
+                  "name": "Shohadaye Gomnam Monument",
+                  "text": "A monument dedicated to unknown martyrs, situated on an elevation and offering a wide panoramic view.",
+                  "category": "historical",
+                  "coords": [
+                        46.326628,
+                        38.052968
+                  ]
+            },
+            {
+                  "name": "Shohada Monoment",
+                  "text": "A prominent monument in the city center dedicated to the victims of past wars and conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        46.295333,
+                        38.078024
+                  ]
+            },
+            {
+                  "name": "Emam jafar sadeg",
+                  "text": "A local religious site for prayer named after the sixth Imam of the Shia.",
+                  "category": "religious",
+                  "coords": [
+                        46.321703,
+                        38.051488
+                  ]
+            },
+            {
+                  "name": "Ghias Mosque",
+                  "text": "A traditional mosque featuring vaulted brick structures in the heart of the historic quarter.",
+                  "category": "religious",
+                  "coords": [
+                        46.306307,
+                        38.065333
+                  ]
+            },
+            {
+                  "name": "14 masoom mosque",
+                  "text": "A Muslim prayer house dedicated to the Fourteen Infallibles of the Shia faith.",
+                  "category": "religious",
+                  "coords": [
+                        46.313892,
+                        38.067456
+                  ]
+            },
+            {
+                  "name": "Aquarium Tools Store",
+                  "text": "A specialized market area for aquariums, offering a variety of tropical fish and accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        46.341045,
+                        38.07568
+                  ]
+            },
+            {
+                  "name": "Golestan mall",
+                  "text": "A modern shopping center in Tabriz housing international brands and various dining facilities.",
+                  "category": "cultural",
+                  "coords": [
+                        46.285037,
+                        38.074974
+                  ]
+            },
+            {
+                  "name": "Gajil Gateway",
+                  "text": "One of the old gates of the city fortifications, which formerly served as the western access to the trade districts.",
+                  "category": "landmark",
+                  "coords": [
+                        46.283,
+                        38.079055
+                  ]
+            },
+            {
+                  "name": "Veyjoieh Gate",
+                  "text": "A historical city gate that marked the entrance to the old Veyjoieh neighborhood in the fortress wall.",
+                  "category": "landmark",
+                  "coords": [
+                        46.284894,
+                        38.082103
+                  ]
+            },
+            {
+                  "name": "Nikdel's House",
+                  "text": "An elegant Qajar-era residence featuring a traditional courtyard and ornate window decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        46.294093,
+                        38.072037
+                  ]
+            },
+            {
+                  "name": "Minyator Park",
+                  "text": "A theme park showcasing detailed miniature models of the most important historical landmarks of Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334517,
+                        38.065915
+                  ]
+            },
+            {
+                  "name": "Locomotive",
+                  "text": "A historical steam locomotive displayed as a monument to the development of railway transport in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        46.229004,
+                        38.072973
+                  ]
+            },
+            {
+                  "name": "Abbasiyeh",
+                  "text": "A religious gathering place used for the local community's traditional Shia ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        46.265432,
+                        38.062957
+                  ]
+            },
+            {
+                  "name": "Haj Qeymali",
+                  "text": "A small traditional-style mosque serving as a spiritual gathering point for neighborhood residents.",
+                  "category": "landmark",
+                  "coords": [
+                        46.270095,
+                        38.076425
+                  ]
+            },
+            {
+                  "name": "Salar Shahidan Mosque",
+                  "text": "This mosque is a center for religious devotion and honors the martyrs of Shia Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.311259,
+                        38.069694
+                  ]
+            },
+            {
+                  "name": "Boyuk Mosque - Qaramalik Jameh Mosque",
+                  "text": "The central mosque of the Qaramalik district stands out with its wide prayer halls and brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        46.220884,
+                        38.092136
+                  ]
+            },
+            {
+                  "name": "Mojuzlar Mosque",
+                  "text": "A modest Muslim prayer house used for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        46.255285,
+                        38.075712
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IR-01",
     coords: [46.29, 38.08],
@@ -332,7 +2240,124 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le gisement a été découvert en 1958 par des sociétés d'exploration internationales.", "Il s'étend sur une longueur gigantesque de près de 70 kilomètres.", "Les réserves de pétrole récupérables sont estimées à environ 37 milliards de barils.", "Il produit en moyenne plus de 700 000 barils de pétrole brut par jour.", "L'extraction se fait principalement à partir des formations d'Asmari et de Bangestan.", "Une multitude d'oléoducs souterrains et de surface relient le champ aux terminaux d'exportation.", "La chaleur estivale extrême au Khouzistan rend les conditions de travail sur le terrain très difficiles."],
     }, image: "/poi-images/ahvaz-oil-field-economic-v2.webp"},
   {
-    id: "bafgh-iron-ore-mine-economic-v2",
+    id: "bafgh-iron-ore-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baqerabad Castle",
+                  "text": "Eine historische Lehmziegelfestung in der Wüste mit runden Ecktürmen und hohen Verteidigungsmauern.",
+                  "category": "castle",
+                  "coords": [
+                        55.374825,
+                        31.666431
+                  ]
+            },
+            {
+                  "name": "sadr abad castle",
+                  "text": "Eine alte Lehmfestung, die die traditionelle persische Wüstenarchitektur und Verteidigungsbauweise zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        55.431873,
+                        31.58523
+                  ]
+            },
+            {
+                  "name": "Mosqe Mahdie",
+                  "text": "Eine traditionelle Moschee, die der muslimischen Gemeinde in der Wüstenregion Bafgh als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.394008,
+                        31.602217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baqerabad Castle",
+                  "text": "Történelmi vályogtégla erőd a sivatagban, kerek saroktornyokkal és magas védőfalakkal.",
+                  "category": "castle",
+                  "coords": [
+                        55.374825,
+                        31.666431
+                  ]
+            },
+            {
+                  "name": "sadr abad castle",
+                  "text": "Ősi vályog erődítmény, amely a hagyományos perzsa sivatagi építészetet és védelmi stílust mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        55.431873,
+                        31.58523
+                  ]
+            },
+            {
+                  "name": "Mosqe Mahdie",
+                  "text": "Hagyományos mecset, amely a Bafgh sivatagi régió muszlim közösségének szolgál imaházként.",
+                  "category": "landmark",
+                  "coords": [
+                        55.394008,
+                        31.602217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baqerabad Castle",
+                  "text": "O fortăreață istorică din cărămidă de lut în deșert, cu turnuri de colț rotunde și ziduri înalte de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        55.374825,
+                        31.666431
+                  ]
+            },
+            {
+                  "name": "sadr abad castle",
+                  "text": "O veche fortăreață din chirpici care prezintă arhitectura tradițională de deșert și stilul defensiv persan.",
+                  "category": "castle",
+                  "coords": [
+                        55.431873,
+                        31.58523
+                  ]
+            },
+            {
+                  "name": "Mosqe Mahdie",
+                  "text": "O moschee tradițională care servește drept lăcaș de rugăciune pentru comunitatea musulmană din regiunea de deșert Bafgh.",
+                  "category": "landmark",
+                  "coords": [
+                        55.394008,
+                        31.602217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baqerabad Castle",
+                  "text": "A historic mud-brick fortress in the desert featuring round corner towers and high defensive walls.",
+                  "category": "castle",
+                  "coords": [
+                        55.374825,
+                        31.666431
+                  ]
+            },
+            {
+                  "name": "sadr abad castle",
+                  "text": "An ancient adobe stronghold showcasing traditional Persian desert architecture and defensive styling.",
+                  "category": "castle",
+                  "coords": [
+                        55.431873,
+                        31.58523
+                  ]
+            },
+            {
+                  "name": "Mosqe Mahdie",
+                  "text": "A traditional mosque serving as a place of prayer for the Muslim community in the Bafgh desert region.",
+                  "category": "landmark",
+                  "coords": [
+                        55.394008,
+                        31.602217
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "IR-25",
     coords: [55.39, 31.60],
@@ -379,7 +2404,52 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le complexe minier, connu sous le nom de Central Iron Ore Company, a débuté ses activités en 1971.", "L'une des sections les plus connues et les plus vastes est la célèbre mine de Choghart.", "À l'origine, les réserves de Choghart étaient estimées à elles seules à plus de 400 millions de tonnes.", "Le complexe fournit du concentré de minerai de fer, du minerai bouleté et du minerai concassé.", "Une ligne de chemin de fer construite à cet effet relie Bafgh au centre sidérurgique d'Ispahan.", "Les méthodes d'extraction modernes permettent d'exploiter économiquement des minerais à faible teneur en fer.", "L'activité minière a fait de la ville de Bafgh un carrefour industriel important."],
     }, image: "/poi-images/bafgh-iron-ore-mine-economic-v2.webp"},
   {
-    id: "asaluyeh-industrial-area-economic-v2",
+    id: "asaluyeh-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese praktische islamische Moschee ist in die Industriezone Asaluyeh eingebettet und dient den täglichen spirituellen Bedürfnissen der umliegenden Arbeiterschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        52.580742,
+                        27.502824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Az Asaluyeh ipari zónába ágyazott praktikus iszlám mecset a környező munkaerő mindennapi spirituális szükségleteit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        52.580742,
+                        27.502824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Integrată în zona industrială Asaluyeh, această moschee islamică practică servește nevoile spirituale zilnice ale forței de muncă din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        52.580742,
+                        27.502824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "Embedded within the Asaluyeh industrial zone, this practical Islamic mosque serves the daily spiritual needs of the surrounding workforce.",
+                  "category": "landmark",
+                  "coords": [
+                        52.580742,
+                        27.502824
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IR-06",
     coords: [52.59, 27.47],
@@ -426,7 +2496,52 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["La zone économique spéciale PSEEZ a été officiellement fondée en 1998.", "La zone s'étend sur une superficie de plus de 10 000 hectares.", "Elle abrite plus d'une douzaine de phases massives de traitement du gaz pour South Pars.", "Des milliards d'investissements, tant nationaux qu'étrangers, ont été injectés dans son développement.", "Un aéroport international a été construit spécialement pour répondre aux besoins logistiques de la zone.", "Le vaste réseau de torchères d'Assalouyeh est nettement visible depuis l'espace.", "La zone génère une part importante des revenus en devises de l'Iran provenant des exportations hors pétrole."],
     }, image: "/poi-images/asaluyeh-industrial-area-economic-v2.webp"},
   {
-    id: "bandar-imam-khomeini-economic-v2",
+    id: "bandar-imam-khomeini-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terminal barrier mosque",
+                  "text": "Die Terminal barrier mosque ist ein islamischer Gebetsort, der den Arbeitern und Reisenden in der Wirtschaftszone von Bandar-e Imam Chomeini dient.",
+                  "category": "landmark",
+                  "coords": [
+                        49.074466,
+                        30.506904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terminal barrier mosque",
+                  "text": "A Terminal barrier mecset egy iszlám imahely, amely a Bandar-e Imam Homeini gazdasági övezet dolgozóit és utazóit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.074466,
+                        30.506904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terminal barrier mosque",
+                  "text": "Moscheea Terminal barrier este un loc de rugăciune islamic care deservește lucrătorii și călătorii din zona economică Bandar-e Imam Khomeini.",
+                  "category": "landmark",
+                  "coords": [
+                        49.074466,
+                        30.506904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terminal barrier mosque",
+                  "text": "The Terminal barrier mosque is an Islamic prayer site serving workers and travelers in the economic zone of Bandar-e Imam Khomeini.",
+                  "category": "landmark",
+                  "coords": [
+                        49.074466,
+                        30.506904
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IR-10",
     coords: [49.07, 30.43],
@@ -473,7 +2588,268 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le port a été construit dans les années 1930 et s'appelait initialement Bandar Shahpur.", "Après la révolution islamique de 1979, il a reçu son nom actuel.", "Il dispose de près de 40 postes d'amarrage actifs pour tous types de navires.", "Le complexe s'étend sur une superficie incroyable de 10 000 hectares.", "C'est le principal centre de transbordement de vrac agricole en Iran.", "Le port peut accueillir des navires ayant un tirant d'eau allant jusqu'à 13,5 mètres.", "Une grande partie des exportations pétrochimiques iraniennes est chargée ici via des terminaux spécialisés."],
     }, image: "/poi-images/bandar-imam-khomeini-economic-v2.webp"},
   {
-    id: "arak-machine-sazi-economic-v2",
+    id: "arak-machine-sazi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jahanbin mineral museum",
+                  "text": "Das Mineralienmuseum Jahanbin zeigt eine beeindruckende Sammlung seltener Edelsteine und Erze aus iranischen Minen.",
+                  "category": "museum",
+                  "coords": [
+                        49.72514,
+                        34.085692
+                  ]
+            },
+            {
+                  "name": "Arak zoo",
+                  "text": "Der Zoo von Arak beherbergt regionale Wildtiere wie persische Leoparden und verschiedene Greifvogelarten.",
+                  "category": "recreational",
+                  "coords": [
+                        49.757052,
+                        34.068648
+                  ]
+            },
+            {
+                  "name": "Mandegar gallery",
+                  "text": "Die Galerie Mandegar präsentiert zeitgenössische iranische Kunstwerke und traditionelle persische Kalligraphien.",
+                  "category": "museum",
+                  "coords": [
+                        49.715485,
+                        34.095197
+                  ]
+            },
+            {
+                  "name": "Laleh Amusment Park",
+                  "text": "Ein beliebter Familienpark mit Fahrgeschäften und Grünflächen im modernen Stadtgebiet von Arak.",
+                  "category": "recreational",
+                  "coords": [
+                        49.732734,
+                        34.075291
+                  ]
+            },
+            {
+                  "name": "Al-Aqsa mosque",
+                  "text": "Dieses muslimische Gebetshaus ist mit aufwendigen blauen Fliesenmosaiken im traditionellen Stil verziert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707167,
+                        34.099743
+                  ]
+            },
+            {
+                  "name": "Imam Ali",
+                  "text": "Eine zentrale Moschee in Arak, die als wichtiger Versammlungsort für religiöse Feierlichkeiten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707402,
+                        34.092158
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nabi",
+                  "text": "Diese Moschee besticht durch ihre zwei hohen Minarette und das kunstvoll verzierte Eingangsportal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.711979,
+                        34.076547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jahanbin mineral museum",
+                  "text": "A Jahanbin Ásványmúzeum az iráni bányákból származó ritka drágakövek és ércek lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.72514,
+                        34.085692
+                  ]
+            },
+            {
+                  "name": "Arak zoo",
+                  "text": "Az araki állatkert regionális vadállatoknak, például perzsa leopárdoknak és különféle ragadozó madaraknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        49.757052,
+                        34.068648
+                  ]
+            },
+            {
+                  "name": "Mandegar gallery",
+                  "text": "A Mandegar Galéria kortárs iráni műalkotásokat és hagyományos perzsa kalligráfiákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        49.715485,
+                        34.095197
+                  ]
+            },
+            {
+                  "name": "Laleh Amusment Park",
+                  "text": "Népszerű családi park vidámparki játékokkal és zöldfelületekkel Arak modern városrészében.",
+                  "category": "recreational",
+                  "coords": [
+                        49.732734,
+                        34.075291
+                  ]
+            },
+            {
+                  "name": "Al-Aqsa mosque",
+                  "text": "Ez a muszlim imaház bonyolult kék csempemozaikokkal díszített, hagyományos stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707167,
+                        34.099743
+                  ]
+            },
+            {
+                  "name": "Imam Ali",
+                  "text": "Arak egyik központi mecsete, amely vallási ünnepségek fontos gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707402,
+                        34.092158
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nabi",
+                  "text": "Ez a mecset két magas minaretjével és díszesen megmunkált bejárati kapujával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.711979,
+                        34.076547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jahanbin mineral museum",
+                  "text": "Muzeul de minerale Jahanbin expune o colecție impresionantă de nestemate rare și minereuri din minele iraniene.",
+                  "category": "museum",
+                  "coords": [
+                        49.72514,
+                        34.085692
+                  ]
+            },
+            {
+                  "name": "Arak zoo",
+                  "text": "Grădina zoologică din Arak găzduiește animale sălbatice regionale, cum ar fi leoparzii persani și diverse specii de păsări de pradă.",
+                  "category": "recreational",
+                  "coords": [
+                        49.757052,
+                        34.068648
+                  ]
+            },
+            {
+                  "name": "Mandegar gallery",
+                  "text": "Galeria Mandegar prezintă opere de artă iraniene contemporane și caligrafii persane tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        49.715485,
+                        34.095197
+                  ]
+            },
+            {
+                  "name": "Laleh Amusment Park",
+                  "text": "Un parc popular pentru familii, cu atracții și spații verzi, situat în zona modernă a orașului Arak.",
+                  "category": "recreational",
+                  "coords": [
+                        49.732734,
+                        34.075291
+                  ]
+            },
+            {
+                  "name": "Al-Aqsa mosque",
+                  "text": "Această casă de rugăciune musulmană este decorată cu mozaicuri elaborate din plăci albastre în stil tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707167,
+                        34.099743
+                  ]
+            },
+            {
+                  "name": "Imam Ali",
+                  "text": "O moschee centrală din Arak, care servește ca un loc important de adunare pentru celebrările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707402,
+                        34.092158
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nabi",
+                  "text": "Această moschee impresionează prin cele două minarete înalte și portalul de intrare decorat artistic.",
+                  "category": "landmark",
+                  "coords": [
+                        49.711979,
+                        34.076547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jahanbin mineral museum",
+                  "text": "The Jahanbin Mineral Museum displays an impressive collection of rare gemstones and ores from Iranian mines.",
+                  "category": "museum",
+                  "coords": [
+                        49.72514,
+                        34.085692
+                  ]
+            },
+            {
+                  "name": "Arak zoo",
+                  "text": "The Arak Zoo houses regional wildlife such as Persian leopards and various species of birds of prey.",
+                  "category": "recreational",
+                  "coords": [
+                        49.757052,
+                        34.068648
+                  ]
+            },
+            {
+                  "name": "Mandegar gallery",
+                  "text": "The Mandegar Gallery presents contemporary Iranian artworks and traditional Persian calligraphies.",
+                  "category": "museum",
+                  "coords": [
+                        49.715485,
+                        34.095197
+                  ]
+            },
+            {
+                  "name": "Laleh Amusment Park",
+                  "text": "A popular family park with amusement rides and green spaces in the modern urban area of Arak.",
+                  "category": "recreational",
+                  "coords": [
+                        49.732734,
+                        34.075291
+                  ]
+            },
+            {
+                  "name": "Al-Aqsa mosque",
+                  "text": "This Muslim prayer house is decorated with intricate blue tile mosaics in traditional style.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707167,
+                        34.099743
+                  ]
+            },
+            {
+                  "name": "Imam Ali",
+                  "text": "A central mosque in Arak that serves as an important gathering place for religious celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        49.707402,
+                        34.092158
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nabi",
+                  "text": "This mosque stands out with its two tall minarets and artistically decorated entrance portal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.711979,
+                        34.076547
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IR-22",
     coords: [49.72, 34.09],
@@ -567,7 +2943,160 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["La découverte du gisement massif a eu lieu lors de relevés géologiques en 1940.", "L'exploitation proprement dite du minerai n'a commencé qu'en 1999.", "Les réserves totales estimadas sont d'environ 400 millions de tonnes de minerai de fer.", "Le minerai extrait a une teneur moyenne en fer de plus de 55 %.", "Un système de conduite d'eau de 170 km alimente le complexe depuis la ville de Yazd.", "L'installation produit jusqu'à 10,5 millions de tonnes de concentré de minerai de fer par an.", "Une centrale électrique attenante assure l'autonomie énergétique de la mine."],
     }, image: "/poi-images/chadormalu-mining-economic-v2.webp"},
   {
-    id: "abadan-refinery-economic-v2",
+    id: "abadan-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abadan Museum",
+                  "text": "Das Abadan-Museum zeigt eine Sammlung regionaler archäologischer Artefakte und historischer Gegenstände, die die reiche Vergangenheit der Stadt dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        48.296282,
+                        30.330172
+                  ]
+            },
+            {
+                  "name": "Abadan gasoline House Museum",
+                  "text": "Dieses einzigartige Museum, das in Irans allererster Tankstelle untergebracht ist, dokumentiert die umfassende Geschichte der lokalen Ölraffinierungsindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        48.284798,
+                        30.336876
+                  ]
+            },
+            {
+                  "name": "Musa ibn Jafar Mosque",
+                  "text": "Die Musa-ibn-Dschafar-Moschee ist ein bedeutendes islamisches Gotteshaus, das den belebten Vierteln der lokalen Raffineriestadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289254,
+                        30.33699
+                  ]
+            },
+            {
+                  "name": "Grand mosque of Abadan",
+                  "text": "Die Große Moschee von Abadan ist ein bedeutendes islamisches Gotteshaus, das der religiösen Gemeinschaft in der Ölraffineriestadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303711,
+                        30.3426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abadan Museum",
+                  "text": "Az Abadáni Múzeum regionális régészeti leleteket és a város gazdag múltját dokumentáló történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        48.296282,
+                        30.330172
+                  ]
+            },
+            {
+                  "name": "Abadan gasoline House Museum",
+                  "text": "Az Irán legelső benzinkútjában helyet kapó egyedülálló múzeum a helyi olajfinomító ipar kiterjedt történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.284798,
+                        30.336876
+                  ]
+            },
+            {
+                  "name": "Musa ibn Jafar Mosque",
+                  "text": "A Musa ibn Jafar mecset egy kiemelkedő iszlám istentiszteleti központ, amely a helyi finomítóváros nyüzsgő negyedeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289254,
+                        30.33699
+                  ]
+            },
+            {
+                  "name": "Grand mosque of Abadan",
+                  "text": "Az ábádáni nagymecset a kőolaj-finomító város muszlim vallási közösségének jelentős központja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303711,
+                        30.3426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abadan Museum",
+                  "text": "Muzeul Abadan expune o colecție de artefacte arheologice regionale și obiecte istorice care documentează trecutul bogat al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        48.296282,
+                        30.330172
+                  ]
+            },
+            {
+                  "name": "Abadan gasoline House Museum",
+                  "text": "Găzduit în prima benzinărie din Iran, acest muzeu unic prezintă istoria vastă a industriei locale de rafinare a petrolului.",
+                  "category": "museum",
+                  "coords": [
+                        48.284798,
+                        30.336876
+                  ]
+            },
+            {
+                  "name": "Musa ibn Jafar Mosque",
+                  "text": "Moscheea Musa ibn Jafar este un important centru de cult islamic, care deservește cartierele aglomerate ale orașului local al rafinăriei.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289254,
+                        30.33699
+                  ]
+            },
+            {
+                  "name": "Grand mosque of Abadan",
+                  "text": "Marea Moschee din Abadan este un lăcaș de cult islamic important care deservește comunitatea din orașul rafinăriei de petrol.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303711,
+                        30.3426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abadan Museum",
+                  "text": "The Abadan Museum displays a collection of regional archaeological artifacts and historical items documenting the city's rich past.",
+                  "category": "museum",
+                  "coords": [
+                        48.296282,
+                        30.330172
+                  ]
+            },
+            {
+                  "name": "Abadan gasoline House Museum",
+                  "text": "Housed in Iran's very first gas station, this unique museum chronicles the extensive history of the local oil refining industry.",
+                  "category": "museum",
+                  "coords": [
+                        48.284798,
+                        30.336876
+                  ]
+            },
+            {
+                  "name": "Musa ibn Jafar Mosque",
+                  "text": "The Musa ibn Jafar Mosque is a prominent Islamic worship center serving the bustling neighborhoods of the local refinery city.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289254,
+                        30.33699
+                  ]
+            },
+            {
+                  "name": "Grand mosque of Abadan",
+                  "text": "The Grand Mosque of Abadan is a significant Islamic place of worship serving the religious community in the oil refinery city.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303711,
+                        30.3426
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IR-10",
     coords: [48.29, 30.34],
@@ -614,7 +3143,52 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["La raffinerie a été mise en service en 1912 par l'Anglo-Persian Oil Company.", "En 1980, la capacité de traitement atteignait le chiffre colossal de 630 000 barils par jour.", "Pendant les huit années de la guerre Iran-Irak, la production s'est complètement arrêtée suite aux bombardements.", "Après sa reconstruction, elle a repris ses activités en 1993 avec une capacité réduite.", "Aujourd'hui, l'installation traite à nouveau environ 400 000 barils de pétrole brut par jour.", "Elle produit une grande partie de l'essence automobile consommée en Iran.", "Un réseau spécial d'oléoducs relie directement la raffinerie aux champs pétrolifères d'Ahvaz."],
     }, image: "/poi-images/abadan-refinery-economic-v2.webp"},
   {
-    id: "bandar-lengeh-economic-v2",
+    id: "bandar-lengeh-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "hashemi mosque",
+                  "text": "Die Hashemi-Moschee ist ein islamisches Heiligtum, das sich in die städtische Architektur von Bandar Lengeh einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.898549,
+                        26.576898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hashemi mosque",
+                  "text": "A Hashemi-mecset egy iszlám szentély, amely Bandar Lengeh városi építészetébe illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        54.898549,
+                        26.576898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hashemi mosque",
+                  "text": "Moscheea Hashemi este un sanctuar islamic care se integrează în arhitectura urbană din Bandar Lengeh.",
+                  "category": "landmark",
+                  "coords": [
+                        54.898549,
+                        26.576898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hashemi mosque",
+                  "text": "The Hashemi Mosque is an Islamic sanctuary that blends into the urban architecture of Bandar Lengeh.",
+                  "category": "landmark",
+                  "coords": [
+                        54.898549,
+                        26.576898
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IR-23",
     coords: [54.88, 26.55],
@@ -661,7 +3235,52 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["De la fin du XVIIIe au début du XXe siècle, la ville était connue comme la \"capitale des perles\".", "L'introduction des perles de culture japonaises dans les années 1930 a mis fin au commerce historique.", "Aujourd'hui, le port traite plus de 1,5 million de tonnes de fret par an.", "C'est un port de ferry important qui transporte des passagers vers les îles de Kish et Qeshm.", "Une grande partie des marchandises exportées sont des produits agricoles provenant de l'intérieur de l'Iran.", "Le port dispose d'installations spéciales pour le commerce côtier traditionnel.", "Une grande partie de l'architecture historique de la ville portuaire est marquée par le style arabe du Golfe."],
     }, image: "/poi-images/bandar-lengeh-economic-v2.webp"},
   {
-    id: "bushehr-nuclear-plant-economic-v2",
+    id: "bushehr-nuclear-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Persian Gulf Sea and Seamanship Museum",
+                  "text": "Ein maritimes Museum in Bushehr, das die Marine- und Seefahrtsgeschichte der Region um den Persischen Golf dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        50.850517,
+                        28.896037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Persian Gulf Sea and Seamanship Museum",
+                  "text": "Tengerészeti múzeum Busehrben, amely a Perzsa-öböl régiójának tengeri és hajózási történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        50.850517,
+                        28.896037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Persian Gulf Sea and Seamanship Museum",
+                  "text": "Un muzeu maritim în Bushehr care documentează istoria navală și de navigație a regiunii Golfului Persic.",
+                  "category": "museum",
+                  "coords": [
+                        50.850517,
+                        28.896037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Persian Gulf Sea and Seamanship Museum",
+                  "text": "A maritime museum in Bushehr documenting the naval and seafaring history of the Persian Gulf region.",
+                  "category": "museum",
+                  "coords": [
+                        50.850517,
+                        28.896037
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IR-06",
     coords: [50.88, 28.82],
@@ -708,7 +3327,124 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["La construction de l'installation a été lancée en 1975 par l'entreprise allemande Kraftwerk Union (KWU).", "Les travaux ont été brutalement interrompus en 1979 après la révolution islamique.", "En 1995, l'Iran a signé un contrat avec la Russie (Rosatom) pour l'achèvement de la centrale.", "Le premier réacteur (Bouchehr-1) a une puissance électrique nette d'environ 915 mégawatts.", "La centrale a été officiellement raccordée au réseau électrique iranien en septembre 2011.", "L'installation utilise un réacteur à eau pressurisée de conception russe de type VVER-1000.", "La Russie fournit le combustible nucléaire et récupère les éléments combustibles usés conformément au contrat."],
     }, image: "/poi-images/bushehr-nuclear-plant-economic-v2.webp"},
   {
-    id: "iran-khodro-tehran-economic-v2",
+    id: "iran-khodro-tehran-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ondohome",
+                  "text": "Dieses Gotteshaus in der Nähe des Teheraner Industriegebiets ist ein spiritueller Rückzugsort.",
+                  "category": "religious",
+                  "coords": [
+                        51.058905,
+                        35.760917
+                  ]
+            },
+            {
+                  "name": "Beyt-ol-ahzan Mosque",
+                  "text": "Diese Moschee bietet den Arbeitern und Bewohnern im Industriegebiet von Teheran einen Ort des islamischen Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        51.102906,
+                        35.725307
+                  ]
+            },
+            {
+                  "name": "Imam Hussain Mosque",
+                  "text": "Eine islamische Gebetsstätte in der wirtschaftlichen Zone von Teheran, die den Namen von Imam Hussain trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.155018,
+                        35.753684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ondohome",
+                  "text": "Ez az istentiszteleti hely a teheráni ipari övezet közelében egy spirituális menedék.",
+                  "category": "religious",
+                  "coords": [
+                        51.058905,
+                        35.760917
+                  ]
+            },
+            {
+                  "name": "Beyt-ol-ahzan Mosque",
+                  "text": "Ez a mecset az iszlám imádság helyét kínálja a teheráni ipari terület dolgozóinak és lakóinak.",
+                  "category": "religious",
+                  "coords": [
+                        51.102906,
+                        35.725307
+                  ]
+            },
+            {
+                  "name": "Imam Hussain Mosque",
+                  "text": "Egy iszlám imaház Teherán gazdasági övezetében, amely Imam Hussain nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        51.155018,
+                        35.753684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ondohome",
+                  "text": "Acest lăcaș de cult situat în apropierea zonei industriale a Teheranului este un refugiu spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        51.058905,
+                        35.760917
+                  ]
+            },
+            {
+                  "name": "Beyt-ol-ahzan Mosque",
+                  "text": "Această moschee oferă lucrătorilor și locuitorilor din zona industrială a Teheranului un loc de rugăciune islamică.",
+                  "category": "religious",
+                  "coords": [
+                        51.102906,
+                        35.725307
+                  ]
+            },
+            {
+                  "name": "Imam Hussain Mosque",
+                  "text": "Un lăcaș de cult islamic din zona economică a Teheranului, care poartă numele Imamului Hussain.",
+                  "category": "landmark",
+                  "coords": [
+                        51.155018,
+                        35.753684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ondohome",
+                  "text": "This place of worship near the industrial zone of Tehran serves as a spiritual retreat.",
+                  "category": "religious",
+                  "coords": [
+                        51.058905,
+                        35.760917
+                  ]
+            },
+            {
+                  "name": "Beyt-ol-ahzan Mosque",
+                  "text": "This mosque provides the workers and residents in the industrial area of Tehran with a place for Islamic prayer.",
+                  "category": "religious",
+                  "coords": [
+                        51.102906,
+                        35.725307
+                  ]
+            },
+            {
+                  "name": "Imam Hussain Mosque",
+                  "text": "An Islamic place of worship in the economic zone of Tehran, bearing the name of Imam Hussain.",
+                  "category": "landmark",
+                  "coords": [
+                        51.155018,
+                        35.753684
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IR-07",
     coords: [51.15, 35.73],
@@ -802,7 +3538,52 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["La découverte des premiers gisements dans la région remonte à 1969.", "Les réserves totales prouvées de la zone dépassent les 1,2 milliard de tonnes.", "L'anomalie 1, exploitée la première, est l'une des mines de fer les plus productives du pays.", "La mine utilise des convoyeurs modernes et des camions bennes géants.", "Elle possède des unités de bouletage d'une capacité de plusieurs millions de tonnes par an.", "Un pipeline depuis le golfe Persique a été construit pour couvrir les besoins en eau.", "Le complexe fournit des matières premières aux aciéries de tout le pays, dont Khuzestan et Mobarakeh."],
     }, image: "/poi-images/golgohar-iron-ore-economic-v2.webp"},
   {
-    id: "khorramshahr-port-economic-v2",
+    id: "khorramshahr-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pig island",
+                  "text": "Eine kleine Insel im Arvand Rud, die als ruhiges Naturschutzgebiet abseits des geschäftigen Hafens dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.12304,
+                        30.436036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pig island",
+                  "text": "Egy apró sziget az Arvand Rud folyóban, amely csendes természetvédelmi területként szolgál a nyüzsgő kikötőtől távol.",
+                  "category": "landmark",
+                  "coords": [
+                        48.12304,
+                        30.436036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pig island",
+                  "text": "O mică insulă în râul Arvand Rud, care servește ca o rezervație naturală liniștită, departe de portul aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.12304,
+                        30.436036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pig island",
+                  "text": "A small island in the Arvand Rud river that serves as a quiet nature escape away from the busy port.",
+                  "category": "landmark",
+                  "coords": [
+                        48.12304,
+                        30.436036
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IR-10",
     coords: [48.19, 30.43],
@@ -896,7 +3677,88 @@ export const poiExtraIranEconomicV2: POI[] = [
       fr: ["Le premier forage réussi (Gachsaran n° 1) a eu lieu en 1928.", "C'est le deuxième plus grand champ pétrolifère d'Iran après Ahvaz.", "Les réserves initiales estimées s'élevaient à plus de 52 milliards de barils.", "Le pétrole extrait est lourd et acide, ce qui nécessite une désulfuration coûteuse.", "La capacité de production quotidienne est d'environ un demi-million de barils.", "La roche réservoir est principalement constituée de calcaire de la formation Asmari.", "Le gaz produit avec le pétrole est séparé et dirigé vers l'industrie pétrochimique."],
     }, image: "/poi-images/gachsaran-oil-field-economic-v2.webp"},
   {
-    id: "qeshm-free-trade-zone-economic-v2",
+    id: "qeshm-free-trade-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid al-Kamal",
+                  "text": "Die Masjid al-Kamal in der Freihandelszone von Qeshm ist ein geschäftiges islamisches Gebetszentrum für die verschiedensten Händler der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.929724,
+                        26.687151
+                  ]
+            },
+            {
+                  "name": "Mosque of the Prophet Mohammad",
+                  "text": "Die Moschee des Propheten Mohammad auf der Insel Qeshm hat sonnengebackene Ziegelmauern, die einen kühlen islamischen Rückzugsort vor der Hitze des Persischen Golfs bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.930839,
+                        26.691932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid al-Kamal",
+                  "text": "A Qeshm szabadkereskedelmi övezetben található Masjid al-Kamal egy forgalmas iszlám imaközpont, amely a sziget sokszínű kereskedőit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.929724,
+                        26.687151
+                  ]
+            },
+            {
+                  "name": "Mosque of the Prophet Mohammad",
+                  "text": "A Qeshm-szigeten található Mohamed Próféta mecsete naptól sült téglafalakkal rendelkezik, amely hűvös iszlám menedéket nyújt a Perzsa-öböl hősége elől.",
+                  "category": "landmark",
+                  "coords": [
+                        55.930839,
+                        26.691932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid al-Kamal",
+                  "text": "Situată în zona de liber schimb Qeshm, Masjid al-Kamal este un centru islamic aglomerat de rugăciune, care deservește diverșii comercianți ai insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        55.929724,
+                        26.687151
+                  ]
+            },
+            {
+                  "name": "Mosque of the Prophet Mohammad",
+                  "text": "Moscheea Profetului Mohammad de pe Insula Qeshm are pereți din cărămidă coaptă la soare, oferind un refugiu islamic răcoros de căldura Golfului Persic.",
+                  "category": "landmark",
+                  "coords": [
+                        55.930839,
+                        26.691932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid al-Kamal",
+                  "text": "Located in the Qeshm free trade zone, Masjid al-Kamal is a busy Islamic prayer center catering to the diverse merchants of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        55.929724,
+                        26.687151
+                  ]
+            },
+            {
+                  "name": "Mosque of the Prophet Mohammad",
+                  "text": "The Mosque of the Prophet Mohammad on Qeshm Island features sun-baked brick walls, offering a cool Islamic retreat from the Persian Gulf heat.",
+                  "category": "landmark",
+                  "coords": [
+                        55.930839,
+                        26.691932
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "IR-23",
     coords: [55.98, 26.73],

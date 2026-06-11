@@ -115,7 +115,52 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "tenasserim-hills-relief-v2",
+    id: "tenasserim-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ဖိုးရှမ်းကမ်းခြေ Pho Shan Beach",
+                  "text": "Dieser sandige Küstenstreifen bietet entspannende Ufer vor der schroffen, malerischen Kulisse der Tenasserim-Berge.",
+                  "category": "recreational",
+                  "coords": [
+                        98.583281,
+                        13.017702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ဖိုးရှမ်းကမ်းခြေ Pho Shan Beach",
+                  "text": "Ez a homokos partszakasz pihentető partvidéket kínál, háttérben a Tenasserim-hegység zord, festői vonulataival.",
+                  "category": "recreational",
+                  "coords": [
+                        98.583281,
+                        13.017702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ဖိုးရှမ်းကမ်းခြေ Pho Shan Beach",
+                  "text": "Această fâșie de coastă cu nisip oferă țărmuri relaxante, așezate pe fundalul pitoresc și accidentat al dealurilor Tenasserim.",
+                  "category": "recreational",
+                  "coords": [
+                        98.583281,
+                        13.017702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pho Shan Beach",
+                  "text": "This sandy coastal strip offers relaxing shorelines set against the rugged, scenic backdrop of the Tenasserim Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        98.583281,
+                        13.017702
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-05",
     coords: [98.5, 13.0],
@@ -227,7 +272,52 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "kachin-hills-relief-v2",
+    id: "kachin-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catholic Church, Htoi San Yang",
+                  "text": "Eingebettet in das Terrain der Kachin-Berge versammelt diese christliche Kirche die lokale katholische Gemeinde zu wöchentlichen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        97.570706,
+                        25.527445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catholic Church, Htoi San Yang",
+                  "text": "A Kachin-hegység terepén megbúvó keresztény templom heti istentiszteletekre gyűjti össze a helyi katolikus gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        97.570706,
+                        25.527445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catholic Church, Htoi San Yang",
+                  "text": "Amplasată în relieful Dealurilor Kachin, această biserică creștină adună congregația catolică locală pentru slujbele săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        97.570706,
+                        25.527445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catholic Church, Htoi San Yang",
+                  "text": "Nestled in the terrain of the Kachin Hills, this Christian church gathers the local Catholic congregation for weekly services.",
+                  "category": "landmark",
+                  "coords": [
+                        97.570706,
+                        25.527445
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-11",
     coords: [97.5, 25.5],
@@ -563,7 +653,268 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "sittang-valley-relief-v2",
+    id: "sittang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "တပ်ဦးကျောင်းစေတီ",
+                  "text": "Diese traditionelle buddhistische Pagode im Sittang-Tal bietet einen spirituellen Rückzugsort, der durch seine klassische birmanische religiöse Architektur gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        96.454421,
+                        18.421704
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Phyu Children Home",
+                  "text": "Dieses von einer christlichen Organisation betriebene Kinderheim im Sittang-Tal bietet Schutz und Fürsorge auf der Grundlage wohltätiger christlicher Werte.",
+                  "category": "landmark",
+                  "coords": [
+                        96.436119,
+                        18.475894
+                  ]
+            },
+            {
+                  "name": "သဒ္ဓမ္မဝတီ",
+                  "text": "Dieser Ort fungiert als aktives buddhistisches Klosterumfeld im Sittang-Tal, das traditionelle burmanische Dharma-Lehren bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        96.446067,
+                        18.485724
+                  ]
+            },
+            {
+                  "name": "တဝဂူသိဒ္ဓိအောင်ဘုရား",
+                  "text": "Als prominenter buddhistischer Tempel im Sittang-Tal dient er als ruhiger Wallfahrtsort für lokale Gläubige, die nach spirituellen Verdiensten streben.",
+                  "category": "landmark",
+                  "coords": [
+                        96.44302,
+                        18.483204
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieser klassische birmanische Stupa im Sittang-Tal ist ein heiliges buddhistisches Denkmal, das dazu bestimmt ist, heilige Reliquien für die lokale Verehrung aufzubewahren.",
+                  "category": "landmark",
+                  "coords": [
+                        96.594259,
+                        18.50576
+                  ]
+            },
+            {
+                  "name": "Thapyala",
+                  "text": "Eine ruhige buddhistische Stätte inmitten des abwechslungsreichen Reliefs des Sittang-Tals, die Raum für stille Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        96.441829,
+                        18.444376
+                  ]
+            },
+            {
+                  "name": "ဖြူးဈေး",
+                  "text": "Ein belebter Marktplatz im Sittang-Tal, auf dem lokale Händler frische Produkte und regionale Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        96.435837,
+                        18.4827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "တပ်ဦးကျောင်းစေတီ",
+                  "text": "Ez a hagyományos buddhista pagoda a Sittang-völgyben spirituális elvonulást kínál, amelyet klasszikus burmai vallási építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        96.454421,
+                        18.421704
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Phyu Children Home",
+                  "text": "Egy keresztény szervezet által működtetett gyermekotthon a Sittang-völgyben, amely menedéket és gondoskodást nyújt a jótékonysági keresztény értékek alapján.",
+                  "category": "landmark",
+                  "coords": [
+                        96.436119,
+                        18.475894
+                  ]
+            },
+            {
+                  "name": "သဒ္ဓမ္မဝတီ",
+                  "text": "Ez a hely aktív buddhista kolostori környezetként működik a Sittang-völgyben, megőrizve a hagyományos burmai dharma-tanításokat.",
+                  "category": "landmark",
+                  "coords": [
+                        96.446067,
+                        18.485724
+                  ]
+            },
+            {
+                  "name": "တဝဂူသိဒ္ဓိအောင်ဘုရား",
+                  "text": "Egy kiemelkedő buddhista templom a Sittang-völgyben, amely nyugodt zarándokhelyként szolgál a spirituális érdemeket kereső helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        96.44302,
+                        18.483204
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ez a klasszikus burmai sztúpa a Sittang-völgyben egy szent buddhista műemlék, amelyet a szent ereklyék helyi tiszteletére terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        96.594259,
+                        18.50576
+                  ]
+            },
+            {
+                  "name": "Thapyala",
+                  "text": "Egy nyugodt buddhista imahely a Szittang-völgy változatos domborzata között, amely teret kínál a csendes meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        96.441829,
+                        18.444376
+                  ]
+            },
+            {
+                  "name": "ဖြူးဈေး",
+                  "text": "Egy nyüzsgő piac a Szittang-völgyben, ahol a helyi árusok friss terményeket és regionális árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        96.435837,
+                        18.4827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "တပ်ဦးကျောင်းစေတီ",
+                  "text": "Această pagodă budistă tradițională din Valea Sittang oferă o retragere spirituală marcată de arhitectura religioasă birmaneză clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        96.454421,
+                        18.421704
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Phyu Children Home",
+                  "text": "Administrat de o organizație creștină, acest orfelinat din Valea Sittang oferă adăpost și îngrijire pe baza valorilor caritabile creștine.",
+                  "category": "landmark",
+                  "coords": [
+                        96.436119,
+                        18.475894
+                  ]
+            },
+            {
+                  "name": "သဒ္ဓမ္မဝတီ",
+                  "text": "Acest loc funcționează ca un mediu monahal budist activ în Valea Sittang, păstrând învățăturile tradiționale Dharma birmaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        96.446067,
+                        18.485724
+                  ]
+            },
+            {
+                  "name": "တဝဂူသိဒ္ဓိအောင်ဘုရား",
+                  "text": "Un templu budist proeminent în Valea Sittang, servește drept un loc de pelerinaj senin pentru devotații locali care caută merite spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        96.44302,
+                        18.483204
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Această stupă clasică birmaneză din Valea Sittang este un monument budist sacru conceput pentru a adăposti moaște sfinte pentru venerația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        96.594259,
+                        18.50576
+                  ]
+            },
+            {
+                  "name": "Thapyala",
+                  "text": "Un loc budist liniștit, cuibărit în relieful variat al văii Sittang, oferind spațiu pentru meditație tăcută.",
+                  "category": "landmark",
+                  "coords": [
+                        96.441829,
+                        18.444376
+                  ]
+            },
+            {
+                  "name": "ဖြူးဈေး",
+                  "text": "O piață plină de viață în valea Sittang, unde comercianții locali vând produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        96.435837,
+                        18.4827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "တပ်ဦးကျောင်းစေတီ",
+                  "text": "This traditional Buddhist pagoda in the Sittang Valley offers a spiritual retreat marked by its classic Burmese religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        96.454421,
+                        18.421704
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Phyu Children Home",
+                  "text": "Operated by a Christian organization, this children's home in the Sittang Valley provides shelter and care based on charitable Christian values.",
+                  "category": "landmark",
+                  "coords": [
+                        96.436119,
+                        18.475894
+                  ]
+            },
+            {
+                  "name": "သဒ္ဓမ္မဝတီ",
+                  "text": "This site functions as an active Buddhist monastic environment in the Sittang Valley, preserving traditional Burmese Dharma teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        96.446067,
+                        18.485724
+                  ]
+            },
+            {
+                  "name": "တဝဂူသိဒ္ဓိအောင်ဘုရား",
+                  "text": "A prominent Buddhist temple in the Sittang Valley, it serves as a serene pilgrimage spot for local devotees seeking spiritual merit.",
+                  "category": "landmark",
+                  "coords": [
+                        96.44302,
+                        18.483204
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "This classic Burmese stupa in the Sittang Valley is a sacred Buddhist monument designed to enshrine holy relics for local veneration.",
+                  "category": "landmark",
+                  "coords": [
+                        96.594259,
+                        18.50576
+                  ]
+            },
+            {
+                  "name": "Thapyala",
+                  "text": "A tranquil Buddhist site nestled within the varied relief of the Sittang Valley, offering space for quiet meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        96.441829,
+                        18.444376
+                  ]
+            },
+            {
+                  "name": "ဖြူးဈေး",
+                  "text": "A bustling marketplace in the Sittang Valley where local vendors trade fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        96.435837,
+                        18.4827
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "MM-02",
     coords: [96.5, 18.5],
@@ -619,7 +970,52 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "chindwin-valley-relief-v2",
+    id: "chindwin-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "pagoda",
+                  "text": "Diese traditionelle buddhistische Pagode befindet sich im malerischen Chindwin-Tal und dient als spirituelles Wahrzeichen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        94.492711,
+                        22.9118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pagoda",
+                  "text": "Ez a hagyományos buddhista pagoda a festői Chindwin-völgyben található, és a régió spirituális mérföldköveként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        94.492711,
+                        22.9118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pagoda",
+                  "text": "Această pagodă budistă tradițională se află în pitoreasca Vale Chindwin, servind drept punct de reper spiritual pentru regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        94.492711,
+                        22.9118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pagoda",
+                  "text": "This traditional Buddhist pagoda sits in the scenic Chindwin Valley, serving as a spiritual landmark for the region.",
+                  "category": "landmark",
+                  "coords": [
+                        94.492711,
+                        22.9118
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "MM-01",
     coords: [94.5, 23.0],
@@ -731,7 +1127,88 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "zibyu-taungdan-relief-v2",
+    id: "zibyu-taungdan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "pagoda",
+                  "text": "Vor der Kulisse des rauen Zibyu-Taungdan-Gebirges gelegen, bietet diese buddhistische Pagode einen Panoramablick auf die Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        94.515745,
+                        24.509149
+                  ]
+            },
+            {
+                  "name": "K. Ashang Khullen Aze trade centre",
+                  "text": "Ein lokaler Marktplatz in den Zibyu-Taungdan-Hügeln, der abgelegene Gemeinden mit wichtigen Gütern versorgt und als Handelszentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        94.447189,
+                        24.563492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pagoda",
+                  "text": "A Zibyu Taungdan vonulat zord terepén elhelyezkedő buddhista pagoda panorámás kilátást nyújt a dombokra.",
+                  "category": "landmark",
+                  "coords": [
+                        94.515745,
+                        24.509149
+                  ]
+            },
+            {
+                  "name": "K. Ashang Khullen Aze trade centre",
+                  "text": "A Zibyu Taungdan hegyeiben található helyi piac alapvető cikkeket és kereskedelmi központot biztosít a távoli közösségek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        94.447189,
+                        24.563492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pagoda",
+                  "text": "Așezată pe fundalul terenului accidentat din lanțul muntos Zibyu Taungdan, această pagodă budistă oferă vederi panoramice ale dealurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        94.515745,
+                        24.509149
+                  ]
+            },
+            {
+                  "name": "K. Ashang Khullen Aze trade centre",
+                  "text": "O piață locală situată în dealurile Zibyu Taungdan, care furnizează bunuri esențiale și un centru comercial pentru comunitățile izolate.",
+                  "category": "cultural",
+                  "coords": [
+                        94.447189,
+                        24.563492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pagoda",
+                  "text": "Set against the rugged terrain of the Zibyu Taungdan range, this Buddhist pagoda offers panoramic views of the hills.",
+                  "category": "landmark",
+                  "coords": [
+                        94.515745,
+                        24.509149
+                  ]
+            },
+            {
+                  "name": "K. Ashang Khullen Aze trade centre",
+                  "text": "A local marketplace situated in the Zibyu Taungdan hills, providing essential goods and a trading hub for remote communities.",
+                  "category": "cultural",
+                  "coords": [
+                        94.447189,
+                        24.563492
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-01",
     coords: [94.5, 24.5],
@@ -787,7 +1264,340 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "pondaung-range-relief-v2",
+    id: "pondaung-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "စေတီတော်",
+                  "text": "Eine traditionelle buddhistische Pagode, eingebettet in die raue Landschaft der Pondaung-Bergkette, die als spiritueller Leuchtturm für die Einheimischen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        94.373744,
+                        21.851605
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Dieser heilige buddhistische Stupa steht inmitten des abgelegenen Geländes der Pondaung-Bergkette und markiert einen Ort stiller Ehrfurcht.",
+                  "category": "landmark",
+                  "coords": [
+                        94.362792,
+                        21.856271
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Diese buddhistische Zedi liegt in der zerklüfteten Topographie der Pondaung-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        94.368602,
+                        21.859484
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Eine traditionelle buddhistische Stupa an den Hängen der Pondaung-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        94.359845,
+                        21.881454
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Diese ruhige buddhistische Stupa liegt im erhöhten Gelände der Pondaung-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        94.357576,
+                        21.878741
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieses buddhistische Heiligtum vor dem dramatischen Relief der Pondaung-Kette weist eine klassische Pagodenarchitektur auf.",
+                  "category": "landmark",
+                  "coords": [
+                        94.384381,
+                        21.717084
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Eine isolierte buddhistische Stupa, eingebettet in die Wälder und Hügel der Pondaung-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        94.391766,
+                        21.731842
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Diese lokale buddhistische Stupa bietet von ihrer erhöhten Position in den Pondaung-Hügeln einen Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        94.407944,
+                        21.765955
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Diese buddhistische Stupa dient als Wegpunkt für Pilger und ist in die malerischen Hänge der Pondaung-Kette gebaut.",
+                  "category": "landmark",
+                  "coords": [
+                        94.423847,
+                        21.719449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "စေတီတော်",
+                  "text": "Egy hagyományos buddhista pagoda, amely a Pondaung-hegység zord tájába ékelődik, és spirituális iránymutatóként szolgál a helyiek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        94.373744,
+                        21.851605
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Ez a szent buddhista sztúpa a Pondaung-hegység távoli terepén áll, csendes tiszteletadás helyét jelölve.",
+                  "category": "landmark",
+                  "coords": [
+                        94.362792,
+                        21.856271
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Ez a buddhista zedi a Pondaung-hegység zord domborzatában helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        94.368602,
+                        21.859484
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Egy hagyományos buddhista sztúpa a Pondaung-hegység lejtői mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        94.359845,
+                        21.881454
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ez a nyugodt buddhista sztúpa a Pondaung-hegység magaslati terepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        94.357576,
+                        21.878741
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A Pondaung-hegység drámai domborzata előtt fekvő buddhista szentély klasszikus pagodaépítészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        94.384381,
+                        21.717084
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Egy elszigetelt buddhista sztúpa, amely a Pondaung-hegység erdei és dombjai között fészkel.",
+                  "category": "landmark",
+                  "coords": [
+                        94.391766,
+                        21.731842
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ez a helyi buddhista sztúpa panorámás kilátást nyújt a Pondaung-dombságon elfoglalt magaslati helyzetéből.",
+                  "category": "landmark",
+                  "coords": [
+                        94.407944,
+                        21.765955
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Zarándokok tájékozódási pontjaként ez a buddhista sztúpa a Pondaung-hegység festői lejtőin épült.",
+                  "category": "landmark",
+                  "coords": [
+                        94.423847,
+                        21.719449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "စေတီတော်",
+                  "text": "O pagodă budistă tradițională, amplasată în peisajul accidentat al lanțului muntos Pondaung, care servește drept far spiritual pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        94.373744,
+                        21.851605
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Această stupă budistă sacră stă în mijlocul terenului izolat al lanțului muntos Pondaung, marcând un loc de venerație tăcută.",
+                  "category": "landmark",
+                  "coords": [
+                        94.362792,
+                        21.856271
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Acest zedi budist se află printre topografia accidentată a lanțului muntos Pondaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.368602,
+                        21.859484
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O stupă budistă tradițională pe pantele lanțului muntos Pondaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.359845,
+                        21.881454
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Această stupă budistă senină se află în terenul înalt al lanțului muntos Pondaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.357576,
+                        21.878741
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Așezat pe fundalul reliefului dramatic al lanțului Pondaung, acest sanctuar budist prezintă o arhitectură clasică de pagodă.",
+                  "category": "landmark",
+                  "coords": [
+                        94.384381,
+                        21.717084
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O stupă budistă izolată, amplasată printre pădurile și dealurile lanțului muntos Pondaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.391766,
+                        21.731842
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Această stupă budistă locală oferă vederi panoramice din poziția sa înaltă din dealurile Pondaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.407944,
+                        21.765955
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Servind ca punct de reper pentru pelerini, această stupă budistă este construită pe pantele pitorești ale lanțului Pondaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.423847,
+                        21.719449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "စေတီတော်",
+                  "text": "A traditional Buddhist pagoda nestled in the rugged landscape of the Pondaung Range, serving as a spiritual beacon for locals.",
+                  "category": "landmark",
+                  "coords": [
+                        94.373744,
+                        21.851605
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "This sacred Buddhist stupa stands amidst the remote terrain of the Pondaung Range, marking a place of quiet reverence.",
+                  "category": "landmark",
+                  "coords": [
+                        94.362792,
+                        21.856271
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "This Buddhist zedi sits amid the rugged topography of the Pondaung Range, serving as a spiritual landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        94.368602,
+                        21.859484
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A traditional Buddhist stupa providing a quiet space for reflection along the slopes of the Pondaung Range.",
+                  "category": "landmark",
+                  "coords": [
+                        94.359845,
+                        21.881454
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Perched within the elevated terrain of the Pondaung Range, this serene Buddhist stupa overlooks the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        94.357576,
+                        21.878741
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Set against the dramatic relief of the Pondaung Range, this Buddhist sanctuary features classic pagoda architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        94.384381,
+                        21.717084
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "An isolated Buddhist stupa nestled among the forests and hills of the Pondaung Range.",
+                  "category": "landmark",
+                  "coords": [
+                        94.391766,
+                        21.731842
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "This local Buddhist stupa offers panoramic views from its elevated position in the Pondaung hills.",
+                  "category": "landmark",
+                  "coords": [
+                        94.407944,
+                        21.765955
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Serving as a waypoint for pilgrims, this Buddhist stupa is built into the scenic slopes of the Pondaung Range.",
+                  "category": "landmark",
+                  "coords": [
+                        94.423847,
+                        21.719449
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-01",
     coords: [94.4, 21.8],
@@ -843,7 +1653,448 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "ponnyadaung-range-relief-v2",
+    id: "ponnyadaung-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ရွှေကွန်အုပ်ဆံတော်ရှင်စေတီတော်",
+                  "text": "Eine glänzende goldene Pagode auf dem Ponnyadaung-Gebirgszug, die weite Ausblicke über die Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102138,
+                        21.668159
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Ein heiliger buddhistischer Stupa im Ponnyadaung-Gebirge, ein Ort der stillen Verehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.137443,
+                        21.66806
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein traditioneller buddhistischer Schrein im Ponnyadaung-Gebirge, der die spirituelle Landschaft prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        94.164347,
+                        21.629424
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein kleiner buddhistischer Stupa im Ponnyadaung-Gebirge, der als lokaler Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        94.171778,
+                        21.649751
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein einfacher buddhistischer Schrein inmitten der hügeligen Landschaft des Ponnyadaung-Gebirgszugs.",
+                  "category": "landmark",
+                  "coords": [
+                        94.135719,
+                        21.618045
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein Ort der Andacht im Ponnyadaung-Gebirge, gekennzeichnet durch einen klassischen buddhistischen Stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        94.131457,
+                        21.614386
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Ein markanter buddhistischer Stupa im Ponnyadaung-Gebirge, der Wanderern als spiritueller Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102877,
+                        21.666764
+                  ]
+            },
+            {
+                  "name": "မြတ်ဘုန်းရောင်စေတီတော်",
+                  "text": "Die Myat Phone Yaung Pagode im Ponnyadaung-Gebirge besticht durch ihre spirituelle Atmosphäre und Lage.",
+                  "category": "landmark",
+                  "coords": [
+                        94.109385,
+                        21.668042
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Ein kleiner Stupa auf den Höhen des Ponnyadaung-Gebirgszugs, umgeben von natürlicher Ruhe.",
+                  "category": "landmark",
+                  "coords": [
+                        94.091702,
+                        21.680646
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Ein weithin sichtbarer buddhistischer Schrein im Ponnyadaung-Gebirge, ein Ort der Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        94.090095,
+                        21.684476
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Eine klassische Pagode im Ponnyadaung-Gebirge, die die Bergspitze mit ihrer goldenen Spitze ziert.",
+                  "category": "landmark",
+                  "coords": [
+                        94.088598,
+                        21.684638
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein bescheidener Stupa am Pfad des Ponnyadaung-Gebirgszugs, ein Ruhepol für Reisende.",
+                  "category": "landmark",
+                  "coords": [
+                        94.124972,
+                        21.52052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ရွှေကွန်အုပ်ဆံတော်ရှင်စေတီတော်",
+                  "text": "Csillogó arany pagoda a Ponnyadaung-hegységben, amely lenyűgöző kilátást nyújt a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102138,
+                        21.668159
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Szent buddhista sztúpa a Ponnyadaung-hegységben, a csendes áhítat helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        94.137443,
+                        21.66806
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Hagyományos buddhista szentély a Ponnyadaung-hegységben, amely meghatározza a táj szellemiségét.",
+                  "category": "landmark",
+                  "coords": [
+                        94.164347,
+                        21.629424
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Kisméretű buddhista sztúpa a Ponnyadaung-hegységben, helyi imádkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        94.171778,
+                        21.649751
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Egyszerű buddhista szentély a Ponnyadaung-hegység dombos vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        94.135719,
+                        21.618045
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Buddhista kegyhely a Ponnyadaung-hegységben, jellegzetes klasszikus sztúpával.",
+                  "category": "landmark",
+                  "coords": [
+                        94.131457,
+                        21.614386
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Jellegzetes buddhista sztúpa a Ponnyadaung-hegyen, amely spirituális tájékozódási pont a vándoroknak.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102877,
+                        21.666764
+                  ]
+            },
+            {
+                  "name": "မြတ်ဘုန်းရောင်စေတီတော်",
+                  "text": "A Myat Phone Yaung pagoda a Ponnyadaung-hegységben spirituális atmoszférájával és elhelyezkedésével nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        94.109385,
+                        21.668042
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Kis sztúpa a Ponnyadaung-hegység magaslatain, természetes nyugalommal körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        94.091702,
+                        21.680646
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Messziről látható buddhista szentély a Ponnyadaung-hegységben, az elmélyülés helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        94.090095,
+                        21.684476
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Klasszikus pagoda a Ponnyadaung-hegységben, amely aranyozott csúcsával díszíti a hegygerincet.",
+                  "category": "landmark",
+                  "coords": [
+                        94.088598,
+                        21.684638
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Szerény sztúpa a Ponnyadaung-hegység ösvényén, nyugalmi pont az utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        94.124972,
+                        21.52052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ရွှေကွန်အုပ်ဆံတော်ရှင်စေတီတော်",
+                  "text": "O pagodă aurie strălucitoare situată pe creasta Ponnyadaung, oferind priveliști vaste asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102138,
+                        21.668159
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "O stupă budistă sacră în munții Ponnyadaung, un loc de venerație și liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        94.137443,
+                        21.66806
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Un altar budist tradițional în munții Ponnyadaung, definind peisajul spiritual al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        94.164347,
+                        21.629424
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O mică stupă budistă în munții Ponnyadaung, servind ca loc de rugăciune local.",
+                  "category": "landmark",
+                  "coords": [
+                        94.171778,
+                        21.649751
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Un altar budist simplu situat în peisajul deluros al masivului Ponnyadaung.",
+                  "category": "landmark",
+                  "coords": [
+                        94.135719,
+                        21.618045
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Un loc de devoțiune în munții Ponnyadaung, marcat de o stupă budistă clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        94.131457,
+                        21.614386
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "O stupă budistă proeminentă în munții Ponnyadaung, servind ca punct de reper spiritual pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102877,
+                        21.666764
+                  ]
+            },
+            {
+                  "name": "မြတ်ဘုန်းရောင်စေတီတော်",
+                  "text": "Pagoda Myat Phone Yaung din munții Ponnyadaung impresionează prin atmosfera sa spirituală și locație.",
+                  "category": "landmark",
+                  "coords": [
+                        94.109385,
+                        21.668042
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "O mică stupă pe înălțimile masivului Ponnyadaung, înconjurată de liniște naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        94.091702,
+                        21.680646
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Un altar budist vizibil de departe în munții Ponnyadaung, un loc de reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        94.090095,
+                        21.684476
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "O pagodă clasică în munții Ponnyadaung, decorând creasta cu vârful său auriu.",
+                  "category": "landmark",
+                  "coords": [
+                        94.088598,
+                        21.684638
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O stupă modestă pe cărarea masivului Ponnyadaung, un punct de liniște pentru călători.",
+                  "category": "landmark",
+                  "coords": [
+                        94.124972,
+                        21.52052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ရွှေကွန်အုပ်ဆံတော်ရှင်စေတီတော်",
+                  "text": "A glittering golden pagoda situated on the Ponnyadaung range, offering wide views over the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102138,
+                        21.668159
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "A sacred Buddhist stupa in the Ponnyadaung mountains, a site for quiet veneration.",
+                  "category": "landmark",
+                  "coords": [
+                        94.137443,
+                        21.66806
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A traditional Buddhist shrine in the Ponnyadaung range, defining the spiritual landscape of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        94.164347,
+                        21.629424
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A small Buddhist stupa in the Ponnyadaung mountains, serving as a local place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        94.171778,
+                        21.649751
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A simple Buddhist shrine set amidst the hilly landscape of the Ponnyadaung range.",
+                  "category": "landmark",
+                  "coords": [
+                        94.135719,
+                        21.618045
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A place of devotion in the Ponnyadaung mountains, marked by a classic Buddhist stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        94.131457,
+                        21.614386
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "A prominent Buddhist stupa in the Ponnyadaung range, serving as a spiritual landmark for trekkers.",
+                  "category": "landmark",
+                  "coords": [
+                        94.102877,
+                        21.666764
+                  ]
+            },
+            {
+                  "name": "မြတ်ဘုန်းရောင်စေတီတော်",
+                  "text": "The Myat Phone Yaung Pagoda in the Ponnyadaung range impresses with its spiritual atmosphere and setting.",
+                  "category": "landmark",
+                  "coords": [
+                        94.109385,
+                        21.668042
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "A small stupa on the heights of the Ponnyadaung range, surrounded by natural tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        94.091702,
+                        21.680646
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "A far-visible Buddhist shrine in the Ponnyadaung mountains, a site for inward reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        94.090095,
+                        21.684476
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "A classic pagoda in the Ponnyadaung range, adorning the ridge with its golden spire.",
+                  "category": "landmark",
+                  "coords": [
+                        94.088598,
+                        21.684638
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A modest stupa along the Ponnyadaung range path, a point of peace for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        94.124972,
+                        21.52052
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-01",
     coords: [94.1, 21.6],
@@ -955,7 +2206,556 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "loi-pangnao-relief-v2",
+    id: "loi-pangnao-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ၽၵ်းတူပႃလႅင်",
+                  "text": "Dekoratives Tor, das den Eingang zu einem malerischen Bergpfad oder Dorfbereich markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            },
+            {
+                  "name": "Relics of Nine Buddha Pagodas",
+                  "text": "Eine buddhistische Stätte mit neun traditionellen Pagoden, in denen heilige Reliquien aufbewahrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        99.637973,
+                        21.327648
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼမ်ႉသၢႆႈၶမ်း",
+                  "text": "Ein ruhiger buddhistischer Tempelkomplex, der als spirituelles Zentrum für die örtliche Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.608787,
+                        21.281255
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၵဵင်းၵႃႇ",
+                  "text": "Ein traditionelles buddhistisches Kloster im Shan-Stil mit verzierten, gestuften Dächern.",
+                  "category": "landmark",
+                  "coords": [
+                        99.615154,
+                        21.28202
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၸွမ်မႆႇ",
+                  "text": "Ein lokaler buddhistischer Tempel mit traditioneller religiöser Architektur und einem friedlichen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        99.613036,
+                        21.291362
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉပႃႇလႅင်",
+                  "text": "Ein buddhistisches Heiligtum, das für seine ruhige Atmosphäre und traditionellen Shan-Motive bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.609946,
+                        21.290927
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉသၢဝ်းပႅတ်ႇ",
+                  "text": "Eine spirituelle Stätte, die aus einem buddhistischen Tempel und einer zentralen goldenen Pagode besteht.",
+                  "category": "landmark",
+                  "coords": [
+                        99.60949,
+                        21.286158
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉႁူဝ်ၵၢတ်ႇ",
+                  "text": "Ein buddhistisches Kloster in der Nähe des lokalen Marktplatzes mit einer traditionellen Versammlungshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607565,
+                        21.290944
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉဢိၼ်း",
+                  "text": "Ein ruhiger buddhistischer Tempelkomplex mit einer verzierten Gebetshalle und umgebenden Stupas.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605735,
+                        21.294907
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းထမ်ႇမေႃးတိယ ၵျွင်းမိူင်းၼၢႆး",
+                  "text": "Eine buddhistische Klosterschule und ein Tempel, der sich auf religiöse Erziehung und traditionelle Riten konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607849,
+                        21.294416
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼွင်ၶမ်း",
+                  "text": "Ein buddhistischer Tempel an einem lokalen Teich, bekannt für sein ruhiges, spiegelndes Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        99.612145,
+                        21.296968
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းၵမ်ႇမထၢၼ်း",
+                  "text": "Ein buddhistisches Meditationskloster, das eine abgeschiedene Umgebung für spirituelle Übungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606213,
+                        21.300729
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉယၢင်းၵူင်း",
+                  "text": "Ein klassischer buddhistischer Tempel mit einem traditionellen Holzheiligtum und goldenen Ornamenten.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606748,
+                        21.30318
+                  ]
+            },
+            {
+                  "name": "Kabar Aye Pagoda",
+                  "text": "Eine „Weltfriedens“-Pagode mit kreisförmiger Struktur und mehreren Buddha-Figuren im Inneren.",
+                  "category": "landmark",
+                  "coords": [
+                        99.707456,
+                        21.326647
+                  ]
+            },
+            {
+                  "name": "Ko Yin Lay Monastery",
+                  "text": "Ein buddhistisches Kloster auf einem Hügel mit Panoramablick auf die umliegende ländliche Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        99.721268,
+                        21.327047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ၽၵ်းတူပႃလႅင်",
+                  "text": "Díszes kapu, amely egy festői hegyi ösvény vagy falusi terület bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            },
+            {
+                  "name": "Relics of Nine Buddha Pagodas",
+                  "text": "Kilenc hagyományos pagodából álló buddhista emlékhely, amely szent ereklyéket őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        99.637973,
+                        21.327648
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼမ်ႉသၢႆႈၶမ်း",
+                  "text": "Nyugodt buddhista templomkomplexum, amely a helyi közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        99.608787,
+                        21.281255
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၵဵင်းၵႃႇ",
+                  "text": "Hagyományos shan stílusú buddhista kolostor díszes, többszintes tetőszerkezettel.",
+                  "category": "landmark",
+                  "coords": [
+                        99.615154,
+                        21.28202
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၸွမ်မႆႇ",
+                  "text": "Helyi buddhista templom hagyományos vallási építészettel és békés belső udvarral.",
+                  "category": "landmark",
+                  "coords": [
+                        99.613036,
+                        21.291362
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉပႃႇလႅင်",
+                  "text": "Buddhista szentély, amely nyugodt légköréről és hagyományos shan motívumairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.609946,
+                        21.290927
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉသၢဝ်းပႅတ်ႇ",
+                  "text": "Buddhista templomból és egy központi arany pagodából álló spirituális helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        99.60949,
+                        21.286158
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉႁူဝ်ၵၢတ်ႇ",
+                  "text": "A helyi piac közelében található buddhista kolostor hagyományos gyülekezeti csarnokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607565,
+                        21.290944
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉဢိၼ်း",
+                  "text": "Csendes buddhista templomkomplexum díszített imacsarnokkal és környékbeli sztúpákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605735,
+                        21.294907
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းထမ်ႇမေႃးတိယ ၵျွင်းမိူင်းၼၢႆး",
+                  "text": "Buddhista kolostori iskola és templom, amely a vallási oktatásra és a hagyományos rítusokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607849,
+                        21.294416
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼွင်ၶမ်း",
+                  "text": "Egy helyi tó partján fekvő buddhista templom, amely nyugodt víztükréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.612145,
+                        21.296968
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းၵမ်ႇမထၢၼ်း",
+                  "text": "Buddhista meditációs kolostor, amely elszigetelt környezetet biztosít a spirituális gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606213,
+                        21.300729
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉယၢင်းၵူင်း",
+                  "text": "Klasszikus buddhista templom hagyományos fa szentéllyel és arany díszítésekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606748,
+                        21.30318
+                  ]
+            },
+            {
+                  "name": "Kabar Aye Pagoda",
+                  "text": "A „Világbéke” pagoda, amelyet kör alakú szerkezete és a belső térben található számos Buddha-szobor jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        99.707456,
+                        21.326647
+                  ]
+            },
+            {
+                  "name": "Ko Yin Lay Monastery",
+                  "text": "Dombtetőn fekvő buddhista kolostor, ahonnan panorámás kilátás nyílik a környező vidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        99.721268,
+                        21.327047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ၽၵ်းတူပႃလႅင်",
+                  "text": "Poartă decorativă care marchează intrarea într-o zonă montană pitorească sau într-un sat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            },
+            {
+                  "name": "Relics of Nine Buddha Pagodas",
+                  "text": "Un sit budist cu nouă pagode tradiționale care adăpostesc relicve sacre.",
+                  "category": "landmark",
+                  "coords": [
+                        99.637973,
+                        21.327648
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼမ်ႉသၢႆႈၶမ်း",
+                  "text": "Un complex monahal budist liniștit care servește drept centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        99.608787,
+                        21.281255
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၵဵင်းၵႃႇ",
+                  "text": "O mănăstire budistă tradițională în stil Shan, cu acoperișuri etajate ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        99.615154,
+                        21.28202
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၸွမ်မႆႇ",
+                  "text": "Un templu budist local cu arhitectură religioasă tradițională și o curte liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        99.613036,
+                        21.291362
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉပႃႇလႅင်",
+                  "text": "Un sanctuar budist cunoscut pentru atmosfera sa senină și motivele tradiționale Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        99.609946,
+                        21.290927
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉသၢဝ်းပႅတ်ႇ",
+                  "text": "Un sit spiritual format dintr-un templu budist și o pagodă aurie centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        99.60949,
+                        21.286158
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉႁူဝ်ၵၢတ်ႇ",
+                  "text": "O mănăstire budistă situată lângă zona pieței locale, având o sală de adunare tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607565,
+                        21.290944
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉဢိၼ်း",
+                  "text": "Un complex de temple budiste liniștit, cu o sală de rugăciune decorată și stupe înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605735,
+                        21.294907
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းထမ်ႇမေႃးတိယ ၵျွင်းမိူင်းၼၢႆး",
+                  "text": "O școală monahală budistă și un templu axat pe educația religioasă și riturile tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607849,
+                        21.294416
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼွင်ၶမ်း",
+                  "text": "Un templu budist situat lângă un iaz local, cunoscut pentru apele sale liniștite care reflectă clădirile.",
+                  "category": "landmark",
+                  "coords": [
+                        99.612145,
+                        21.296968
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းၵမ်ႇမထၢၼ်း",
+                  "text": "O mănăstire de meditație budistă care oferă un mediu retras pentru practica spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606213,
+                        21.300729
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉယၢင်းၵူင်း",
+                  "text": "Un templu budist clasic, cu un sanctuar tradițional din lemn și ornamente aurii.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606748,
+                        21.30318
+                  ]
+            },
+            {
+                  "name": "Kabar Aye Pagoda",
+                  "text": "O pagodă a „Păcii Mondiale”, caracterizată prin structura sa circulară și numeroasele imagini ale lui Buddha din interior.",
+                  "category": "landmark",
+                  "coords": [
+                        99.707456,
+                        21.326647
+                  ]
+            },
+            {
+                  "name": "Ko Yin Lay Monastery",
+                  "text": "O mănăstire budistă pe deal, care oferă vedere panoramică asupra peisajului rural înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        99.721268,
+                        21.327047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Par Daeng Gate",
+                  "text": "Decorative gateway marking the entrance to a scenic mountain trail or village area.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            },
+            {
+                  "name": "Relics of Nine Buddha Pagodas",
+                  "text": "A Buddhist site featuring nine traditional pagodas containing sacred relics.",
+                  "category": "landmark",
+                  "coords": [
+                        99.637973,
+                        21.327648
+                  ]
+            },
+            {
+                  "name": "Wat Nam Hsai Kam",
+                  "text": "A tranquil Buddhist temple complex serving as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        99.608787,
+                        21.281255
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၵဵင်းၵႃႇ",
+                  "text": "A traditional Shan-style Buddhist monastery with ornate tiered roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        99.615154,
+                        21.28202
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၸွမ်မႆႇ",
+                  "text": "A local Buddhist temple featuring traditional religious architecture and a peaceful courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        99.613036,
+                        21.291362
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉပႃႇလႅင်",
+                  "text": "A Buddhist sanctuary known for its serene atmosphere and traditional Shan motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        99.609946,
+                        21.290927
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉသၢဝ်းပႅတ်ႇ",
+                  "text": "A spiritual site consisting of a Buddhist temple and a central golden pagoda.",
+                  "category": "landmark",
+                  "coords": [
+                        99.60949,
+                        21.286158
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉႁူဝ်ၵၢတ်ႇ",
+                  "text": "A Buddhist monastery located near the local market area, featuring a traditional assembly hall.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607565,
+                        21.290944
+                  ]
+            },
+            {
+                  "name": "Wat Inn",
+                  "text": "A quiet Buddhist temple complex with a decorated prayer hall and surrounding stupas.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605735,
+                        21.294907
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းထမ်ႇမေႃးတိယ ၵျွင်းမိူင်းၼၢႆး",
+                  "text": "A Buddhist monastic school and temple focused on religious education and traditional rites.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607849,
+                        21.294416
+                  ]
+            },
+            {
+                  "name": "ဝတ်ႉၼွင်ၶမ်း",
+                  "text": "A Buddhist temple situated near a local pond, known for its tranquil reflecting waters.",
+                  "category": "landmark",
+                  "coords": [
+                        99.612145,
+                        21.296968
+                  ]
+            },
+            {
+                  "name": "ၵျွင်းၵမ်ႇမထၢၼ်း",
+                  "text": "A Buddhist meditation monastery offering a secluded environment for spiritual practice.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606213,
+                        21.300729
+                  ]
+            },
+            {
+                  "name": "Wat Yang Gong",
+                  "text": "A classic Buddhist temple featuring a traditional wooden sanctuary and golden ornaments.",
+                  "category": "landmark",
+                  "coords": [
+                        99.606748,
+                        21.30318
+                  ]
+            },
+            {
+                  "name": "Kabar Aye Pagoda",
+                  "text": "A 'World Peace' pagoda characterized by its circular structure and multiple interior Buddha images.",
+                  "category": "landmark",
+                  "coords": [
+                        99.707456,
+                        21.326647
+                  ]
+            },
+            {
+                  "name": "Ko Yin Lay Monastery",
+                  "text": "A hilltop Buddhist monastery providing panoramic views of the surrounding rural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        99.721268,
+                        21.327047
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-17",
     coords: [99.7, 21.3],
@@ -1011,7 +2811,52 @@ export const poiExtraMyanmarReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-saramati-relief-v2",
+    id: "mount-saramati-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saramati",
+                  "text": "Der höchste Gipfel der Naga Hills an der Grenze zwischen Indien und Myanmar erreicht eine Höhe von 3.826 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        95.037504,
+                        25.739887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saramati",
+                  "text": "A Naga-hegység legmagasabb csúcsa az indiai-mianmari határon, magassága 3826 méter.",
+                  "category": "natural",
+                  "coords": [
+                        95.037504,
+                        25.739887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saramati",
+                  "text": "Cel mai înalt vârf din munții Naga de la granița dintre India și Myanmar, atingând o înălțime de 3.826 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        95.037504,
+                        25.739887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Saramati",
+                  "text": "The highest peak of the Naga Hills on the India-Myanmar border, reaching an elevation of 3,826 metres.",
+                  "category": "natural",
+                  "coords": [
+                        95.037504,
+                        25.739887
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-01",
     coords: [95.0, 25.7],

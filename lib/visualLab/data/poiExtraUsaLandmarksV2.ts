@@ -124,7 +124,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Courthouse",
-                  "text": "Historisches Gerichtsgebäude in St. Louis, heute ein Museum.",
+                  "text": "Historisches Gerichtsgebäude, in dem der Dred-Scott-Fall verhandelt wurde, am Gateway Arch.",
                   "category": "museum",
                   "coords": [
                         -90.189289,
@@ -133,7 +133,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mound",
-                  "text": "Alter indianischer Hügel in St. Louis.",
+                  "text": "Letzter erhaltener prähistorischer Erdhügel der Mississippi-Kultur in St. Louis.",
                   "category": "historical",
                   "coords": [
                         -90.231118,
@@ -151,7 +151,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Avenue Opera",
-                  "text": "Opernkompanie in St. Louis, die Aufführungen veranstaltet.",
+                  "text": "Opernkompanie, die in der Union Avenue Christian Church auftritt.",
                   "category": "cultural",
                   "coords": [
                         -90.273614,
@@ -160,7 +160,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Baptistenkirche in St. Louis.",
+                  "text": "Gotisch-neugotische Baptistenkirche im Central West End von St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.219288,
@@ -178,7 +178,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist Saint Louis",
-                  "text": "Christliche Wissenschaftskirche in St. Louis.",
+                  "text": "Christliche Wissenschaftskirche im Beaux-Arts-Stil in St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.264519,
@@ -187,7 +187,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Antioch Baptist Church",
-                  "text": "Baptistenkirche in St. Louis.",
+                  "text": "Backsteingotische Baptistenkirche im Norden von St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.238354,
@@ -214,7 +214,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Alphonsus Church",
-                  "text": "Katholische Kirche in St. Louis.",
+                  "text": "Deutsche katholische Kirche im Soulard-Viertel, erbaut 1867.",
                   "category": "religious",
                   "coords": [
                         -90.227771,
@@ -223,7 +223,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powell Symphony Hall",
-                  "text": "Konzertsaal in St. Louis, Heimat des St. Louis Symphony Orchestra.",
+                  "text": "Historisches Konzerthaus am Grand Boulevard, Heimat des St. Louis Symphony Orchestra.",
                   "category": "cultural",
                   "coords": [
                         -90.229963,
@@ -232,7 +232,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
-                  "text": "AME-Kirche in St. Louis.",
+                  "text": "Historische afroamerikanische AME-Kirche im Zentrum von St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
@@ -241,7 +241,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centenary Methodist Episcopal Church",
-                  "text": "Methodistenkirche in St. Louis.",
+                  "text": "Methodistenkirche im Greek-Revival-Stil in St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.20372,
@@ -268,7 +268,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary of Victories Church",
-                  "text": "Katholische Kirche in St. Louis.",
+                  "text": "Eine der ältesten deutschen katholischen Kirchen in St. Louis, erbaut 1843.",
                   "category": "religious",
                   "coords": [
                         -90.190378,
@@ -277,7 +277,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Maronitisch-katholische Kathedrale in St. Louis.",
+                  "text": "Maronitisch-katholische Kathedrale, Sitz der Eparchie Unserer Lieben Frau vom Libanon.",
                   "category": "religious",
                   "coords": [
                         -90.199129,
@@ -286,7 +286,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Lutherische Kirche in St. Louis.",
+                  "text": "Lutherische Kirche im neugotischen Stil im Central West End von St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.202881,
@@ -322,7 +322,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "TRRA Merchants Bridge",
-                  "text": "Eisenbahnbrücke über den Mississippi in St. Louis.",
+                  "text": "Eisenbahn-Hubbrücke über den Mississippi, erbaut 1890.",
                   "category": "landmark",
                   "coords": [
                         -90.186491,
@@ -468,7 +468,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Courthouse",
-                  "text": "Történelmi bírósági épület St. Louisban, ma múzeum.",
+                  "text": "Történelmi bírósági épület, ahol a Dred Scott-ügyet tárgyalták, a Gateway Arch mellett.",
                   "category": "museum",
                   "coords": [
                         -90.189289,
@@ -477,7 +477,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mound",
-                  "text": "Ősi indián halom St. Louisban.",
+                  "text": "Az utolsó fennmaradt történelem előtti földhalom a Mississippi-kultúrából St. Louisban.",
                   "category": "historical",
                   "coords": [
                         -90.231118,
@@ -495,7 +495,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Avenue Opera",
-                  "text": "Operatársulat St. Louisban, előadásokat tart.",
+                  "text": "Operatársulat, amely a Union Avenue Christian Churchben lép fel.",
                   "category": "cultural",
                   "coords": [
                         -90.273614,
@@ -504,7 +504,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Baptista templom St. Louisban.",
+                  "text": "Gótikus neogótikus baptista templom St. Louis Central West End negyedében.",
                   "category": "religious",
                   "coords": [
                         -90.219288,
@@ -522,7 +522,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist Saint Louis",
-                  "text": "Keresztény Tudomány templom St. Louisban.",
+                  "text": "Beaux-Arts stílusú Keresztény Tudomány templom St. Louisban.",
                   "category": "religious",
                   "coords": [
                         -90.264519,
@@ -531,7 +531,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Antioch Baptist Church",
-                  "text": "Baptista templom St. Louisban.",
+                  "text": "Téglagótikus baptista templom St. Louis északi részén.",
                   "category": "religious",
                   "coords": [
                         -90.238354,
@@ -558,7 +558,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Alphonsus Church",
-                  "text": "Katolikus templom St. Louisban.",
+                  "text": "Német katolikus templom a Soulard negyedben, 1867-ben épült.",
                   "category": "religious",
                   "coords": [
                         -90.227771,
@@ -567,7 +567,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powell Symphony Hall",
-                  "text": "Koncertterem St. Louisban, a St. Louis Symphony otthona.",
+                  "text": "Történelmi koncertterem a Grand Boulevard-on, a St. Louis Szimfonikus Zenekar otthona.",
                   "category": "cultural",
                   "coords": [
                         -90.229963,
@@ -576,7 +576,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
-                  "text": "AME templom St. Louisban.",
+                  "text": "Történelmi afroamerikai AME templom St. Louis belvárosában.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
@@ -585,7 +585,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centenary Methodist Episcopal Church",
-                  "text": "Metodista templom St. Louisban.",
+                  "text": "Görög újjászületés stílusú metodista templom St. Louisban.",
                   "category": "religious",
                   "coords": [
                         -90.20372,
@@ -612,7 +612,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary of Victories Church",
-                  "text": "Katolikus templom St. Louisban.",
+                  "text": "Az egyik legrégebbi német katolikus templom St. Louisban, 1843-ban épült.",
                   "category": "religious",
                   "coords": [
                         -90.190378,
@@ -621,7 +621,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Maronita katolikus székesegyház St. Louisban.",
+                  "text": "Marónita katolikus székesegyház, a Libanoni Miasszonyunk Eparchia székhelye.",
                   "category": "religious",
                   "coords": [
                         -90.199129,
@@ -630,7 +630,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Evangélikus templom St. Louisban.",
+                  "text": "Neogótikus stílusú evangélikus templom St. Louis Central West End negyedében.",
                   "category": "religious",
                   "coords": [
                         -90.202881,
@@ -666,7 +666,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "TRRA Merchants Bridge",
-                  "text": "Vasúti híd a Mississippin St. Louisban.",
+                  "text": "Vasúti emelőhíd a Mississippi felett, 1890-ben épült.",
                   "category": "landmark",
                   "coords": [
                         -90.186491,
@@ -812,7 +812,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Courthouse",
-                  "text": "Clădire istorică de tribunal din St. Louis, acum muzeu.",
+                  "text": "Clădire istorică de tribunal, locul procesului Dred Scott, lângă Arcul Gateway.",
                   "category": "museum",
                   "coords": [
                         -90.189289,
@@ -821,7 +821,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mound",
-                  "text": "Movilă nativă americană antică în St. Louis.",
+                  "text": "Ultimul tumul preistoric al culturii Mississippi din St. Louis.",
                   "category": "historical",
                   "coords": [
                         -90.231118,
@@ -839,7 +839,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Avenue Opera",
-                  "text": "Companie de operă din St. Louis care pune în scenă spectacole.",
+                  "text": "Companie de operă care interpretează în Biserica Creștină Union Avenue.",
                   "category": "cultural",
                   "coords": [
                         -90.273614,
@@ -848,7 +848,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Biserică baptistă din St. Louis.",
+                  "text": "Biserică baptistă neogotică în cartierul Central West End din St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.219288,
@@ -866,7 +866,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist Saint Louis",
-                  "text": "Biserică a Științei Creștine din St. Louis.",
+                  "text": "Biserică a Științei Creștine în stil Beaux-Arts în St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.264519,
@@ -875,7 +875,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Antioch Baptist Church",
-                  "text": "Biserică baptistă din St. Louis.",
+                  "text": "Biserică baptistă neogotică din cărămidă în nordul St. Louisului.",
                   "category": "religious",
                   "coords": [
                         -90.238354,
@@ -902,7 +902,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Alphonsus Church",
-                  "text": "Biserică catolică din St. Louis.",
+                  "text": "Biserică catolică germană în cartierul Soulard, construită în 1867.",
                   "category": "religious",
                   "coords": [
                         -90.227771,
@@ -911,7 +911,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powell Symphony Hall",
-                  "text": "Sala de concerte din St. Louis, casa Orchestrei Simfonice din St. Louis.",
+                  "text": "Sală de concerte istorică pe Grand Boulevard, casa Orchestrei Simfonice din St. Louis.",
                   "category": "cultural",
                   "coords": [
                         -90.229963,
@@ -920,7 +920,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
-                  "text": "Biserică AME din St. Louis.",
+                  "text": "Biserică AME afro-americană istorică în centrul St. Louisului.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
@@ -929,7 +929,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centenary Methodist Episcopal Church",
-                  "text": "Biserică metodistă din St. Louis.",
+                  "text": "Biserică metodistă în stil neogrec în St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.20372,
@@ -956,7 +956,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary of Victories Church",
-                  "text": "Biserică catolică din St. Louis.",
+                  "text": "Una dintre cele mai vechi biserici catolice germane din St. Louis, construită în 1843.",
                   "category": "religious",
                   "coords": [
                         -90.190378,
@@ -965,7 +965,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Catedrală maronită catolică din St. Louis.",
+                  "text": "Catedrală maronită catolică, sediul Eparhiei Maicii Domnului din Liban.",
                   "category": "religious",
                   "coords": [
                         -90.199129,
@@ -974,7 +974,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Biserică luterană din St. Louis.",
+                  "text": "Biserică luterană neogotică în cartierul Central West End din St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.202881,
@@ -1010,7 +1010,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "TRRA Merchants Bridge",
-                  "text": "Pod de cale ferată peste Mississippi în St. Louis.",
+                  "text": "Pod feroviar vertical mobil peste Mississippi, construit în 1890.",
                   "category": "landmark",
                   "coords": [
                         -90.186491,
@@ -1156,7 +1156,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Courthouse",
-                  "text": "Historic courthouse in St. Louis, now a museum.",
+                  "text": "Old Courthouse is the historic courthouse where the Dred Scott case was tried, near the Gateway Arch.",
                   "category": "museum",
                   "coords": [
                         -90.189289,
@@ -1165,7 +1165,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mound",
-                  "text": "Ancient Native American mound in St. Louis.",
+                  "text": "Sugarloaf Mound is the last remaining Mississippian culture mound in St. Louis.",
                   "category": "historical",
                   "coords": [
                         -90.231118,
@@ -1183,7 +1183,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Avenue Opera",
-                  "text": "Opera company performing in St. Louis.",
+                  "text": "Union Avenue Opera performs at the Union Avenue Christian Church in St. Louis.",
                   "category": "cultural",
                   "coords": [
                         -90.273614,
@@ -1192,7 +1192,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Baptist Church",
-                  "text": "Baptist church in St. Louis.",
+                  "text": "Central Baptist Church is a Gothic Revival Baptist church in St. Louis's Central West End.",
                   "category": "religious",
                   "coords": [
                         -90.219288,
@@ -1210,7 +1210,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist Saint Louis",
-                  "text": "Christian Science church in St. Louis.",
+                  "text": "First Church of Christ Scientist Saint Louis is a Beaux-Arts Christian Science church in St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.264519,
@@ -1219,7 +1219,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Antioch Baptist Church",
-                  "text": "Baptist church in St. Louis.",
+                  "text": "Antioch Baptist Church is a brick Gothic Revival Baptist church in north St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.238354,
@@ -1246,7 +1246,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Alphonsus Church",
-                  "text": "Catholic church in St. Louis.",
+                  "text": "Saint Alphonsus Church is a German Catholic church in St. Louis's Soulard neighborhood.",
                   "category": "religious",
                   "coords": [
                         -90.227771,
@@ -1255,7 +1255,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powell Symphony Hall",
-                  "text": "Concert hall in St. Louis, home of the St. Louis Symphony.",
+                  "text": "Powell Symphony Hall is the historic concert hall on Grand Boulevard, home of the St. Louis Symphony.",
                   "category": "cultural",
                   "coords": [
                         -90.229963,
@@ -1264,7 +1264,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
-                  "text": "AME church in St. Louis.",
+                  "text": "Quinn Chapel AME Church is a historic African American AME church in downtown St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
@@ -1273,7 +1273,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centenary Methodist Episcopal Church",
-                  "text": "Methodist church in St. Louis.",
+                  "text": "Centenary Methodist Episcopal Church is a Greek Revival Methodist church in St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.20372,
@@ -1300,7 +1300,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Mary of Victories Church",
-                  "text": "Catholic church in St. Louis.",
+                  "text": "St. Mary of Victories Church is one of the oldest German Catholic churches in St. Louis, built in 1843.",
                   "category": "religious",
                   "coords": [
                         -90.190378,
@@ -1309,7 +1309,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Maronite Catholic cathedral in St. Louis.",
+                  "text": "Saint Raymond Maronite Cathedral is the Maronite Catholic cathedral, seat of the Eparchy of Our Lady of Lebanon.",
                   "category": "religious",
                   "coords": [
                         -90.199129,
@@ -1318,7 +1318,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Lutheran church in St. Louis.",
+                  "text": "Trinity Lutheran Church is a Gothic Revival Lutheran church in St. Louis's Central West End.",
                   "category": "religious",
                   "coords": [
                         -90.202881,
@@ -1354,7 +1354,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "TRRA Merchants Bridge",
-                  "text": "Railroad bridge across the Mississippi in St. Louis.",
+                  "text": "TRRA Merchants Bridge is a vertical-lift railroad bridge across the Mississippi River, built in 1890.",
                   "category": "landmark",
                   "coords": [
                         -90.186491,
@@ -1428,7 +1428,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Flashers View",
-                  "text": "Ein Aussichtspunkt im Mount-Rushmore-Gebiet.",
+                  "text": "Ein Aussichtspunkt in den Black Hills mit Weitblick auf die Skulpturen des Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.552608,
@@ -1437,7 +1437,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Needles Eye",
-                  "text": "Ein Aussichtspunkt an der Felsformation Needles im Mount-Rushmore-Gebiet.",
+                  "text": "Eine enge Felsspalte in den Needles-Granitspitzen nahe dem Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.545647,
@@ -1446,7 +1446,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Hills Playhouse",
-                  "text": "Ein Theater in den Black Hills im Mount-Rushmore-Gebiet.",
+                  "text": "Ein historisches Freilichttheater im Custer State Park nahe dem Mount Rushmore.",
                   "category": "cultural",
                   "coords": [
                         -103.427904,
@@ -1455,7 +1455,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Doane Robinson Tunnel",
-                  "text": "Ein nach dem Historiker Doane Robinson benannter Tunnel im Mount-Rushmore-Gebiet.",
+                  "text": "Ein nach dem 'Vater des Mount Rushmore' benannter Tunnel an der Iron Mountain Road.",
                   "category": "landmark",
                   "coords": [
                         -103.434783,
@@ -1464,7 +1464,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Rushmore Viewpoint",
-                  "text": "Ein klassischer Aussichtspunkt auf das Mount Rushmore Monument.",
+                  "text": "Ein natürlicher Aussichtspunkt mit direktem Blick auf die monumentalen Porträts des Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.448426,
@@ -1473,7 +1473,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Historic Viewing Terrace",
-                  "text": "Eine historische Aussichtsterrasse im Mount-Rushmore-Gebiet.",
+                  "text": "Eine historische Steinterrasse mit Panoramablick über die Black Hills und den Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.455746,
@@ -1482,7 +1482,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hall of Records",
-                  "text": "Ein Gewölbe mit historischen Aufzeichnungen hinter dem Mount Rushmore Monument.",
+                  "text": "Steingewölbe von 1938 hinter dem Mount-Rushmore-Relief, das historische Archive enthält.",
                   "category": "landmark",
                   "coords": [
                         -103.459413,
@@ -1491,7 +1491,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rushmore Tramway Adventures",
-                  "text": "Ein Seilbahn-Abenteuer im Mount-Rushmore-Gebiet.",
+                  "text": "Eine Seilbahnfahrt mit atemberaubenden Ausblicken auf den Mount Rushmore und die umliegenden Black Hills.",
                   "category": "landmark",
                   "coords": [
                         -103.425942,
@@ -1527,7 +1527,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Cathedral Spires Trail",
-                  "text": "Ein Wanderweg im Custer State Park im Mount-Rushmore-Gebiet.",
+                  "text": "Ein Wanderweg durch die dramatischen Cathedral-Spires-Felsformationen im Custer State Park.",
                   "category": "landmark",
                   "coords": [
                         -103.531259,
@@ -1536,7 +1536,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Devil's Little Tower",
-                  "text": "Ein Wanderweg im Custer State Park im Mount-Rushmore-Gebiet.",
+                  "text": "Ein Pfad, der zu einem kleinen turmähnlichen Felsgebilde im Custer State Park führt.",
                   "category": "landmark",
                   "coords": [
                         -103.538387,
@@ -1554,7 +1554,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sunday Gulch Trailhead",
-                  "text": "Wanderwegausgangspunkt im Mount-Rushmore-Gebiet.",
+                  "text": "Der Startpunkt für eine Wanderung durch die malerische Sunday Gulch im Custer State Park.",
                   "category": "landmark",
                   "coords": [
                         -103.566105,
@@ -1610,7 +1610,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Flashers View",
-                  "text": "Egy kilátópont a Rushmore-hegy területén.",
+                  "text": "Egy kilátóhely a Black Hillsben, ahonnan rálátni a Mount Rushmore szobrokra.",
                   "category": "natural",
                   "coords": [
                         -103.552608,
@@ -1619,7 +1619,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Needles Eye",
-                  "text": "A Tűk Szeme kilátópont a Rushmore-hegy területén.",
+                  "text": "Egy szűk sziklahasadék a Needles gránitcsúcsai között, a Mount Rushmore közelében.",
                   "category": "natural",
                   "coords": [
                         -103.545647,
@@ -1628,7 +1628,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Hills Playhouse",
-                  "text": "Fekete-hegységi Színház a Rushmore-hegy területén.",
+                  "text": "Egy történelmi szabadtéri színház a Custer State Parkban, a Mount Rushmore közelében.",
                   "category": "cultural",
                   "coords": [
                         -103.427904,
@@ -1637,7 +1637,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Doane Robinson Tunnel",
-                  "text": "Doane Robinson-alagút a Rushmore-hegy területén.",
+                  "text": "Egy alagút a 'Mount Rushmore atyjáról' elnevezve az Iron Mountain Roadon.",
                   "category": "landmark",
                   "coords": [
                         -103.434783,
@@ -1646,7 +1646,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Rushmore Viewpoint",
-                  "text": "Kilátópont a Mount Rushmore szoborra.",
+                  "text": "Egy természetes kilátóhely, ahonnan közvetlenül láthatók a Mount Rushmore monumentális arcképei.",
                   "category": "natural",
                   "coords": [
                         -103.448426,
@@ -1655,7 +1655,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Historic Viewing Terrace",
-                  "text": "Történelmi kilátóterasz a Rushmore-hegy területén.",
+                  "text": "Egy történelmi kőterasz panorámás kilátással a Black Hillsre és a Mount Rushmore-ra.",
                   "category": "natural",
                   "coords": [
                         -103.455746,
@@ -1664,7 +1664,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hall of Records",
-                  "text": "A Feljegyzések Csarnoka a Mount Rushmore mögött.",
+                  "text": "1938-as kőbolt a Mount Rushmore faragvány mögött, történelmi iratokkal.",
                   "category": "landmark",
                   "coords": [
                         -103.459413,
@@ -1673,7 +1673,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rushmore Tramway Adventures",
-                  "text": "Rushmore sikló kalandok a Rushmore-hegy területén.",
+                  "text": "Egy siklóvasút lélegzetelállító kilátással a Mount Rushmore-ra és a környező Black Hillsre.",
                   "category": "landmark",
                   "coords": [
                         -103.425942,
@@ -1709,7 +1709,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Cathedral Spires Trail",
-                  "text": "Custer Állami Park ösvénykihívása: Székesegyház Tornyai ösvény.",
+                  "text": "Egy túraút a Custer State Park lenyűgöző Cathedral Spires sziklaformációin keresztül.",
                   "category": "landmark",
                   "coords": [
                         -103.531259,
@@ -1718,7 +1718,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Devil's Little Tower",
-                  "text": "Custer Állami Park ösvénykihívása: Ördög Kis Tornya.",
+                  "text": "Egy ösvény, amely egy kis toronyszerű sziklaalakzathoz vezet a Custer State Parkban.",
                   "category": "landmark",
                   "coords": [
                         -103.538387,
@@ -1736,7 +1736,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sunday Gulch Trailhead",
-                  "text": "Túraútvonal kiindulópontja a Mount Rushmore környékén.",
+                  "text": "A kiindulópont a festői Sunday Gulch-en átvezető túrához a Custer State Parkban.",
                   "category": "landmark",
                   "coords": [
                         -103.566105,
@@ -1792,7 +1792,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Flashers View",
-                  "text": "Un punct de belvedere în zona Mount Rushmore.",
+                  "text": "Un punct de belvedere în Black Hills, cu vedere spre sculpturile de pe Muntele Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.552608,
@@ -1801,7 +1801,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Needles Eye",
-                  "text": "Ochiul Acelor, un punct de belvedere în zona Mount Rushmore.",
+                  "text": "O crevasă îngustă în vârfurile de granit Needles, lângă Muntele Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.545647,
@@ -1810,7 +1810,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Hills Playhouse",
-                  "text": "Teatrul Black Hills în zona Mount Rushmore.",
+                  "text": "Un teatru istoric în aer liber în Parcul de Stat Custer, lângă Muntele Rushmore.",
                   "category": "cultural",
                   "coords": [
                         -103.427904,
@@ -1819,7 +1819,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Doane Robinson Tunnel",
-                  "text": "Tunelul Doane Robinson în zona Mount Rushmore.",
+                  "text": "Un tunel numit după 'părintele Muntelui Rushmore' pe drumul Iron Mountain.",
                   "category": "landmark",
                   "coords": [
                         -103.434783,
@@ -1828,7 +1828,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Rushmore Viewpoint",
-                  "text": "Un punct de belvedere spre Monumentul Mount Rushmore.",
+                  "text": "Un punct de belvedere natural cu vedere directă asupra portretelor monumentale de pe Muntele Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.448426,
@@ -1837,7 +1837,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Historic Viewing Terrace",
-                  "text": "Terasa istorică de observare în zona Mount Rushmore.",
+                  "text": "O terasă istorică de piatră cu vedere panoramică asupra Black Hills și a Muntelui Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.455746,
@@ -1846,7 +1846,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hall of Records",
-                  "text": "Sala Înregistrărilor în spatele Monumentului Mount Rushmore.",
+                  "text": "O boltă de piatră din 1938 în spatele sculpturii Mount Rushmore, care conține arhive istorice.",
                   "category": "landmark",
                   "coords": [
                         -103.459413,
@@ -1855,7 +1855,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rushmore Tramway Adventures",
-                  "text": "Aventuri cu telecabina Rushmore în zona Mount Rushmore.",
+                  "text": "O telecabină cu priveliști spectaculoase asupra Muntelui Rushmore și a Black Hills-ului înconjurător.",
                   "category": "landmark",
                   "coords": [
                         -103.425942,
@@ -1891,7 +1891,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Cathedral Spires Trail",
-                  "text": "Traseul provocare din Parcul de Stat Custer: Traseul Turlelor Catedralei în zona Mount Rushmore.",
+                  "text": "Un traseu de drumeție prin spectaculoasele formațiuni stâncoase Cathedral Spires din Parcul de Stat Custer.",
                   "category": "landmark",
                   "coords": [
                         -103.531259,
@@ -1900,7 +1900,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Devil's Little Tower",
-                  "text": "Traseul provocare din Parcul de Stat Custer: Turnul Mic al Diavolului în zona Mount Rushmore.",
+                  "text": "Un traseu care duce la o formațiune stâncoasă mică, asemănătoare unui turn, în Parcul de Stat Custer.",
                   "category": "landmark",
                   "coords": [
                         -103.538387,
@@ -1918,7 +1918,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sunday Gulch Trailhead",
-                  "text": "Punct de plecare pentru drumeții în zona Mount Rushmore.",
+                  "text": "Punctul de plecare pentru o drumeție prin pitorescul Sunday Gulch din Parcul de Stat Custer.",
                   "category": "landmark",
                   "coords": [
                         -103.566105,
@@ -1974,7 +1974,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Flashers View",
-                  "text": "A viewpoint in the Mount Rushmore area.",
+                  "text": "A scenic viewpoint in the Black Hills offering views of the Mount Rushmore sculptures.",
                   "category": "natural",
                   "coords": [
                         -103.552608,
@@ -1983,7 +1983,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Needles Eye",
-                  "text": "Needles Eye viewpoint in the Mount Rushmore area.",
+                  "text": "A narrow rock passage through the granite Needles spires near Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.545647,
@@ -1992,7 +1992,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Hills Playhouse",
-                  "text": "The Black Hills Playhouse in the Mount Rushmore area.",
+                  "text": "A historic outdoor theater in Custer State Park near Mount Rushmore.",
                   "category": "cultural",
                   "coords": [
                         -103.427904,
@@ -2001,7 +2001,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Doane Robinson Tunnel",
-                  "text": "Doane Robinson Tunnel in the Mount Rushmore area.",
+                  "text": "A tunnel named after the 'Father of Mount Rushmore' on the Iron Mountain Road.",
                   "category": "landmark",
                   "coords": [
                         -103.434783,
@@ -2010,7 +2010,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Rushmore Viewpoint",
-                  "text": "A viewpoint offering views of Mount Rushmore.",
+                  "text": "A natural overlook providing a direct view of the monumental portraits on Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.448426,
@@ -2019,7 +2019,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Historic Viewing Terrace",
-                  "text": "The Historic Viewing Terrace in the Mount Rushmore area.",
+                  "text": "A historic stone terrace offering panoramic views of the Black Hills and Mount Rushmore.",
                   "category": "natural",
                   "coords": [
                         -103.455746,
@@ -2028,7 +2028,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hall of Records",
-                  "text": "The Hall of Records behind Mount Rushmore.",
+                  "text": "A 1938 stone vault behind the Mount Rushmore carving containing historical archives.",
                   "category": "landmark",
                   "coords": [
                         -103.459413,
@@ -2037,7 +2037,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rushmore Tramway Adventures",
-                  "text": "Rushmore Tramway Adventures in the Mount Rushmore area.",
+                  "text": "An aerial tramway offering breathtaking views of Mount Rushmore and the surrounding Black Hills.",
                   "category": "landmark",
                   "coords": [
                         -103.425942,
@@ -2073,7 +2073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Cathedral Spires Trail",
-                  "text": "Custer State Trail Challenge: Cathedral Spires Trail in the Mount Rushmore area.",
+                  "text": "A hiking trail through the dramatic Cathedral Spires rock formations in Custer State Park.",
                   "category": "landmark",
                   "coords": [
                         -103.531259,
@@ -2082,7 +2082,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Custer State Trail Challenge:  Devil's Little Tower",
-                  "text": "Custer State Trail Challenge: Devil's Little Tower in the Mount Rushmore area.",
+                  "text": "A trail leading to a small tower-like rock formation in Custer State Park.",
                   "category": "landmark",
                   "coords": [
                         -103.538387,
@@ -2100,7 +2100,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sunday Gulch Trailhead",
-                  "text": "Trailhead for hiking in the Mount Rushmore area.",
+                  "text": "The trailhead for a hike through scenic Sunday Gulch in Custer State Park.",
                   "category": "landmark",
                   "coords": [
                         -103.566105,
@@ -2210,7 +2210,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Architecture Center",
-                  "text": "Ein Museum im Loop von Chicago, das sich der Architektur und dem Design widmet.",
+                  "text": "Architekturmuseum an der Michigan Avenue, Heimat des Wolkenkratzer-Museums.",
                   "category": "museum",
                   "coords": [
                         -87.623623,
@@ -2309,7 +2309,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "Das Museum of Contemporary Art in der Innenstadt Chicagos zeigt zeitgenössische Kunst.",
+                  "text": "Bedeutendes Museum für moderne Kunst an der Magnificent Mile, erbaut 1967.",
                   "category": "museum",
                   "coords": [
                         -87.621174,
@@ -2336,7 +2336,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Second City",
-                  "text": "The Second City ist ein bekanntes Improvisationstheater in Chicago.",
+                  "text": "Berühmtes Improvisationstheater, das viele SNL-Komiker hervorbrachte.",
                   "category": "cultural",
                   "coords": [
                         -87.634892,
@@ -2354,7 +2354,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jay Pritzker Pavilion",
-                  "text": "Der Jay Pritzker Pavilion ist ein Open-Air-Konzertort im Millennium Park.",
+                  "text": "Open-Air-Konzertbühne im Millennium Park, entworfen von Frank Gehry.",
                   "category": "cultural",
                   "coords": [
                         -87.621892,
@@ -2363,7 +2363,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James C. Petrillo Music Shell",
-                  "text": "Die James C. Petrillo Music Shell ist ein Freiluft-Musikpavillon im Grant Park.",
+                  "text": "Konzertmuschel im Grant Park, Heimat des Grant Park Music Festival.",
                   "category": "cultural",
                   "coords": [
                         -87.620083,
@@ -2399,7 +2399,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Name Cathedral",
-                  "text": "Die Holy Name Cathedral in Chicago ist Sitz der Erzdiözese Chicago.",
+                  "text": "Römisch-katholische Kathedrale, Sitz der Erzdiözese Chicago, neugotisch mit 64 m hohem Turm.",
                   "category": "religious",
                   "coords": [
                         -87.627533,
@@ -2408,7 +2408,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Sinai Congregation",
-                  "text": "Die Chicago Sinai Congregation ist eine reformjüdische Gemeinde in Chicago.",
+                  "text": "Reformierte jüdische Gemeinde, gegründet 1861, eine der ältesten in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.628778,
@@ -2417,7 +2417,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "Die Church of the Ascension in Chicago ist eine historische episkopale Kirche.",
+                  "text": "Anglikanische Kirche im Lake View Viertel mit Innenraum von Louis Comfort Tiffany.",
                   "category": "religious",
                   "coords": [
                         -87.632421,
@@ -2426,7 +2426,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Die Annunciation Greek Orthodox Cathedral in Chicago ist eine griechisch-orthodoxe Kirche.",
+                  "text": "Griechisch-orthodoxe Kathedrale im byzantinischen Revival-Stil mit großer Kuppel.",
                   "category": "religious",
                   "coords": [
                         -87.632369,
@@ -2435,7 +2435,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Michael Roman Catholic Church",
-                  "text": "Die Saint Michael Roman Catholic Church im Old Town ist eine historische Kirche.",
+                  "text": "Historische deutsche katholische Kirche in Old Town, mit 91 m hohem Turm.",
                   "category": "religious",
                   "coords": [
                         -87.640774,
@@ -2444,7 +2444,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moody Church",
-                  "text": "Die Moody Church in Chicago ist eine historische evangelikale Kirche.",
+                  "text": "Bedeutende evangelikale Kirche an der North Avenue, benannt nach Dwight L. Moody.",
                   "category": "religious",
                   "coords": [
                         -87.632645,
@@ -2453,7 +2453,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fourth Presbyterian Church",
-                  "text": "Die Fourth Presbyterian Church an der Michigan Avenue ist eine presbyterianische Kirche.",
+                  "text": "Presbyterianische Kirche an der Michigan Avenue, neugotisch mit markantem Turm.",
                   "category": "religious",
                   "coords": [
                         -87.624753,
@@ -2462,7 +2462,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Shakespeare Theater",
-                  "text": "Das Chicago Shakespeare Theater am Navy Pier ist auf Shakespeare spezialisiert.",
+                  "text": "Shakespeare-Theater auf der Navy Pier, in einer Nachbildung des Globe Theatre.",
                   "category": "cultural",
                   "coords": [
                         -87.605734,
@@ -2489,7 +2489,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Harbor Lighthouse",
-                  "text": "Der Chicago Harbor Lighthouse am Eingang des Hafens ist ein historischer Leuchtturm.",
+                  "text": "Aktiver Leuchtturm am Eingang des Chicagoer Hafens, erbaut 1893.",
                   "category": "landmark",
                   "coords": [
                         -87.590553,
@@ -2507,7 +2507,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "BP Bridge",
-                  "text": "Die BP Bridge ist eine Fußgängerbrücke im Millennium Park in Chicago.",
+                  "text": "Geschwungene Fußgängerbrücke aus Edelstahl, die Millennium Park mit dem Daley Plaza verbindet, entworfen von Frank Gehry.",
                   "category": "landmark",
                   "coords": [
                         -87.620422,
@@ -2527,7 +2527,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Architecture Center",
-                  "text": "Múzeum Chicago Loop negyedében, építészetnek és dizájnnak szentelve.",
+                  "text": "Építészeti múzeum a Michigan Avenue-n, a Felhőkarcoló Múzeum otthona.",
                   "category": "museum",
                   "coords": [
                         -87.623623,
@@ -2626,7 +2626,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "A Kortárs Művészeti Múzeum Chicago belvárosában kortárs művészetet mutat be.",
+                  "text": "Jelentős modern művészeti múzeum a Magnificent Mile-en, 1967-ben alapították.",
                   "category": "museum",
                   "coords": [
                         -87.621174,
@@ -2653,7 +2653,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Second City",
-                  "text": "A The Second City egy híres improvizációs színház Chicagóban.",
+                  "text": "Híres improvizációs színház, amely sok SNL-komikust indított el.",
                   "category": "cultural",
                   "coords": [
                         -87.634892,
@@ -2671,7 +2671,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jay Pritzker Pavilion",
-                  "text": "A Jay Pritzker Pavilion egy szabadtéri koncerthelyszín a Millennium Parkban.",
+                  "text": "Szabadtéri koncerthelyszín a Millennium Parkban, Frank Gehry tervezte.",
                   "category": "cultural",
                   "coords": [
                         -87.621892,
@@ -2680,7 +2680,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James C. Petrillo Music Shell",
-                  "text": "A James C. Petrillo Music Shell egy szabadtéri zenepavilon a Grant Parkban.",
+                  "text": "Koncerthéj a Grant Parkban, a Grant Park Zenei Fesztivál otthona.",
                   "category": "cultural",
                   "coords": [
                         -87.620083,
@@ -2716,7 +2716,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Name Cathedral",
-                  "text": "A chicagói Holy Name Cathedral a Chicago-i főegyházmegye székesegyháza.",
+                  "text": "Római katolikus székesegyház, a Chicagói Főegyházmegye székhelye, neogótikus 64 m-es toronnyal.",
                   "category": "religious",
                   "coords": [
                         -87.627533,
@@ -2725,7 +2725,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Sinai Congregation",
-                  "text": "A Chicago Sinai Congregation egy reformzsidó gyülekezet Chicagóban.",
+                  "text": "Reform zsidó gyülekezet, alapítva 1861-ben, Chicago egyik legrégebbi zsinagógája.",
                   "category": "religious",
                   "coords": [
                         -87.628778,
@@ -2734,7 +2734,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "A chicagói Church of the Ascension egy történelmi episzkopális templom.",
+                  "text": "Anglikán templom a Lake View negyedben, Louis Comfort Tiffany belsőépítészetével.",
                   "category": "religious",
                   "coords": [
                         -87.632421,
@@ -2743,7 +2743,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "A chicagói Annunciation Greek Orthodox Cathedral egy görög ortodox templom.",
+                  "text": "Görög ortodox székesegyház bizánci újjászületés stílusban, nagy kupolával.",
                   "category": "religious",
                   "coords": [
                         -87.632369,
@@ -2752,7 +2752,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Michael Roman Catholic Church",
-                  "text": "Az Old Town-i Saint Michael Roman Catholic Church egy történelmi templom.",
+                  "text": "Történelmi német katolikus templom az Old Townban, 91 m-es toronnyal.",
                   "category": "religious",
                   "coords": [
                         -87.640774,
@@ -2761,7 +2761,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moody Church",
-                  "text": "A chicagói Moody Church egy történelmi evangélikus templom.",
+                  "text": "Jelentős evangélikus templom a North Avenue-n, Dwight L. Moody-ról elnevezve.",
                   "category": "religious",
                   "coords": [
                         -87.632645,
@@ -2770,7 +2770,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fourth Presbyterian Church",
-                  "text": "A Michigan Avenue-n található Fourth Presbyterian Church egy presbiteriánus templom.",
+                  "text": "Presbiteriánus templom a Michigan Avenue-n, neogótikus jellegzetes toronnyal.",
                   "category": "religious",
                   "coords": [
                         -87.624753,
@@ -2779,7 +2779,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Shakespeare Theater",
-                  "text": "A Navy Pier-en található Chicago Shakespeare Theater Shakespeare-re specializálódott.",
+                  "text": "Shakespeare-színház a Navy Pieren, a Globe Színház másában.",
                   "category": "cultural",
                   "coords": [
                         -87.605734,
@@ -2806,7 +2806,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Harbor Lighthouse",
-                  "text": "A kikötő bejáratánál lévő Chicago Harbor Lighthouse egy történelmi világítótorony.",
+                  "text": "Működő világítótorony a Chicago kikötő bejáratánál, 1893-ban épült.",
                   "category": "landmark",
                   "coords": [
                         -87.590553,
@@ -2824,7 +2824,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "BP Bridge",
-                  "text": "A BP Bridge egy gyalogoshíd a Millennium Parkban, Chicagóban.",
+                  "text": "Kanyargós rozsdamentes acél gyalogoshíd, amely a Millennium Parkot köti össze a Daley Plazával, Frank Gehry tervezte.",
                   "category": "landmark",
                   "coords": [
                         -87.620422,
@@ -2844,7 +2844,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Architecture Center",
-                  "text": "Un muzeu din Loop-ul Chicago dedicat arhitecturii și designului.",
+                  "text": "Muzeu de arhitectură pe Michigan Avenue, casa Muzeului Zgârie-norilor.",
                   "category": "museum",
                   "coords": [
                         -87.623623,
@@ -2943,7 +2943,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "Muzeul de Artă Contemporană din centrul orașului Chicago prezintă artă contemporană.",
+                  "text": "Muzeu major de artă modernă pe Magnificent Mile, fondat în 1967.",
                   "category": "museum",
                   "coords": [
                         -87.621174,
@@ -2970,7 +2970,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Second City",
-                  "text": "The Second City este un celebru teatru de improvizație din Chicago.",
+                  "text": "Celebru teatru de improvizație, locul de naștere al multor comedianți SNL.",
                   "category": "cultural",
                   "coords": [
                         -87.634892,
@@ -2988,7 +2988,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jay Pritzker Pavilion",
-                  "text": "Jay Pritzker Pavilion este un loc de concert în aer liber din Millennium Park.",
+                  "text": "Sală de concerte în aer liber în Millennium Park, proiectată de Frank Gehry.",
                   "category": "cultural",
                   "coords": [
                         -87.621892,
@@ -2997,7 +2997,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James C. Petrillo Music Shell",
-                  "text": "James C. Petrillo Music Shell este un pavilion muzical în aer liber în Grant Park.",
+                  "text": "Scoică muzicală în Grant Park, casa Festivalului de Muzică Grant Park.",
                   "category": "cultural",
                   "coords": [
                         -87.620083,
@@ -3033,7 +3033,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Name Cathedral",
-                  "text": "Catedrala Holy Name din Chicago este sediul Arhiepiscopiei de Chicago.",
+                  "text": "Catedrală romano-catolică, sediul Arhiepiscopiei de Chicago, neogotică cu un turn de 64 m.",
                   "category": "religious",
                   "coords": [
                         -87.627533,
@@ -3042,7 +3042,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Sinai Congregation",
-                  "text": "Chicago Sinai Congregation este o congregație evreiască reformată din Chicago.",
+                  "text": "Congregație evreiască reformată, fondată în 1861, una dintre cele mai vechi din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.628778,
@@ -3051,7 +3051,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "Biserica Church of the Ascension din Chicago este o biserică episcopală istorică.",
+                  "text": "Biserică anglicană în cartierul Lake View, cu interior de Louis Comfort Tiffany.",
                   "category": "religious",
                   "coords": [
                         -87.632421,
@@ -3060,7 +3060,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Catedrala Annunciation Greek Orthodox din Chicago este o biserică greco-ortodoxă.",
+                  "text": "Catedrală greco-ortodoxă în stil bizantin revival, cu dom mare.",
                   "category": "religious",
                   "coords": [
                         -87.632369,
@@ -3069,7 +3069,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Michael Roman Catholic Church",
-                  "text": "Biserica Saint Michael Roman Catholic din Old Town este o biserică istorică.",
+                  "text": "Biserică catolică germană istorică în Old Town, cu un turn de 91 m.",
                   "category": "religious",
                   "coords": [
                         -87.640774,
@@ -3078,7 +3078,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moody Church",
-                  "text": "Biserica Moody din Chicago este o biserică evanghelică istorică.",
+                  "text": "Biserică evanghelică proeminentă pe North Avenue, numită după Dwight L. Moody.",
                   "category": "religious",
                   "coords": [
                         -87.632645,
@@ -3087,7 +3087,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fourth Presbyterian Church",
-                  "text": "Biserica Fourth Presbyterian de pe Michigan Avenue este o biserică prezbiteriană.",
+                  "text": "Biserică prezbiteriană pe Michigan Avenue, neogotică cu un turn distinctiv.",
                   "category": "religious",
                   "coords": [
                         -87.624753,
@@ -3096,7 +3096,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Shakespeare Theater",
-                  "text": "Chicago Shakespeare Theater de pe Navy Pier este specializat pe Shakespeare.",
+                  "text": "Teatru Shakespeare pe Navy Pier, într-o replică a Teatrului Globe.",
                   "category": "cultural",
                   "coords": [
                         -87.605734,
@@ -3123,7 +3123,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Harbor Lighthouse",
-                  "text": "Farul Chicago Harbor de la intrarea în port este un far istoric.",
+                  "text": "Far activ la intrarea în portul Chicago, construit în 1893.",
                   "category": "landmark",
                   "coords": [
                         -87.590553,
@@ -3141,7 +3141,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "BP Bridge",
-                  "text": "Podul BP este un pod pietonal din Millennium Park din Chicago.",
+                  "text": "Pod pietonal curbat din oțel inoxidabil, care leagă Millennium Park de Daley Plaza, proiectat de Frank Gehry.",
                   "category": "landmark",
                   "coords": [
                         -87.620422,
@@ -3161,7 +3161,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Architecture Center",
-                  "text": "A museum in Chicago's Loop dedicated to architecture and design.",
+                  "text": "Chicago Architecture Center is a museum on Michigan Avenue, home of the Skyscraper Museum.",
                   "category": "museum",
                   "coords": [
                         -87.623623,
@@ -3260,7 +3260,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "The Museum of Contemporary Art in downtown Chicago exhibits contemporary art.",
+                  "text": "Museum of Contemporary Art is a major modern art museum on Chicago's Magnificent Mile, founded in 1967.",
                   "category": "museum",
                   "coords": [
                         -87.621174,
@@ -3287,7 +3287,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Second City",
-                  "text": "The Second City is a famous improv comedy theater in Chicago.",
+                  "text": "The Second City is a famous improv comedy theater, birthplace of many SNL comedians.",
                   "category": "cultural",
                   "coords": [
                         -87.634892,
@@ -3305,7 +3305,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jay Pritzker Pavilion",
-                  "text": "Jay Pritzker Pavilion is an outdoor concert venue in Millennium Park.",
+                  "text": "Jay Pritzker Pavilion is an outdoor concert venue in Millennium Park, designed by Frank Gehry.",
                   "category": "cultural",
                   "coords": [
                         -87.621892,
@@ -3314,7 +3314,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "James C. Petrillo Music Shell",
-                  "text": "The James C. Petrillo Music Shell is an outdoor music shell in Grant Park.",
+                  "text": "James C. Petrillo Music Shell is an outdoor bandshell in Grant Park, home of the Grant Park Music Festival.",
                   "category": "cultural",
                   "coords": [
                         -87.620083,
@@ -3350,7 +3350,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Name Cathedral",
-                  "text": "Holy Name Cathedral in Chicago is the seat of the Archdiocese of Chicago.",
+                  "text": "Holy Name Cathedral is the Roman Catholic cathedral, seat of the Archdiocese of Chicago, a Gothic Revival with a 210-foot spire.",
                   "category": "religious",
                   "coords": [
                         -87.627533,
@@ -3359,7 +3359,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Sinai Congregation",
-                  "text": "Chicago Sinai Congregation is a Reform Jewish congregation in Chicago.",
+                  "text": "Chicago Sinai Congregation is a Reform Jewish congregation, founded in 1861, one of Chicago's oldest synagogues.",
                   "category": "religious",
                   "coords": [
                         -87.628778,
@@ -3368,7 +3368,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Ascension",
-                  "text": "The Church of the Ascension in Chicago is a historic Episcopal church.",
+                  "text": "Church of the Ascension is an Episcopal church in Lake View, with an interior by Louis Comfort Tiffany.",
                   "category": "religious",
                   "coords": [
                         -87.632421,
@@ -3377,7 +3377,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Annunciation Greek Orthodox Cathedral in Chicago is a Greek Orthodox church.",
+                  "text": "Annunciation Greek Orthodox Cathedral is a Byzantine Revival cathedral with a large dome.",
                   "category": "religious",
                   "coords": [
                         -87.632369,
@@ -3386,7 +3386,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Michael Roman Catholic Church",
-                  "text": "Saint Michael Roman Catholic Church in Old Town is a historic church.",
+                  "text": "Saint Michael Roman Catholic Church is a historic German Catholic church in Old Town, Chicago, with a 300-foot spire.",
                   "category": "religious",
                   "coords": [
                         -87.640774,
@@ -3395,7 +3395,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moody Church",
-                  "text": "Moody Church in Chicago is a historic evangelical church.",
+                  "text": "Moody Church is a historic nondenominational evangelical church on North Avenue, named after Dwight L. Moody.",
                   "category": "religious",
                   "coords": [
                         -87.632645,
@@ -3404,7 +3404,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fourth Presbyterian Church",
-                  "text": "Fourth Presbyterian Church on Michigan Avenue is a Presbyterian church.",
+                  "text": "Fourth Presbyterian Church is a Presbyterian church on Michigan Avenue, Gothic Revival with a striking spire.",
                   "category": "religious",
                   "coords": [
                         -87.624753,
@@ -3413,7 +3413,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Shakespeare Theater",
-                  "text": "Chicago Shakespeare Theater on Navy Pier specializes in Shakespeare.",
+                  "text": "Chicago Shakespeare Theater performs in a replica of the Globe Theatre on Navy Pier.",
                   "category": "cultural",
                   "coords": [
                         -87.605734,
@@ -3440,7 +3440,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago Harbor Lighthouse",
-                  "text": "The Chicago Harbor Lighthouse at the harbor entrance is a historic lighthouse.",
+                  "text": "Chicago Harbor Lighthouse is an active lighthouse at the entrance to Chicago Harbor, built in 1893.",
                   "category": "landmark",
                   "coords": [
                         -87.590553,
@@ -3458,7 +3458,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "BP Bridge",
-                  "text": "The BP Bridge is a pedestrian bridge in Millennium Park in Chicago.",
+                  "text": "BP Bridge is a curved stainless steel pedestrian bridge connecting Millennium Park to Daley Bicentennial Plaza, designed by Frank Gehry.",
                   "category": "landmark",
                   "coords": [
                         -87.620422,
@@ -3649,7 +3649,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Repertory Theatre",
-                  "text": "Das Seattle Repertory Theatre im Seattle Center ist eine führende professionelle Theatercompany.",
+                  "text": "Führendes Regionaltheater in Seattle, gegründet 1963, spielt im Bagley Wright Theatre.",
                   "category": "cultural",
                   "coords": [
                         -122.353608,
@@ -3676,7 +3676,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "University Presbyterian Church",
-                  "text": "Die University Presbyterian Church in Seattle ist eine presbyterianische Kirche in der Nähe der University of Washington.",
+                  "text": "Presbyterianische Kirche nahe der University of Washington, bekannt für Buntglasfenster.",
                   "category": "religious",
                   "coords": [
                         -122.311475,
@@ -3694,7 +3694,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blessed Sacrament Church",
-                  "text": "Die Blessed Sacrament Church in Seattle ist eine katholische Kirche im neoromanischen Stil.",
+                  "text": "Römisch-katholische Kirche im University District, erbaut 1923 im italienischen Renaissance-Stil.",
                   "category": "religious",
                   "coords": [
                         -122.319068,
@@ -3703,7 +3703,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Church of Christ",
-                  "text": "Die Seattle Church of Christ (ehemals Seventh Church of Christ, Scientist) ist ein historisches Kirchengebäude.",
+                  "text": "Christliche Wissenschaftskirche auf dem Capitol Hill, mit Kuppel und klassischen Säulen.",
                   "category": "religious",
                   "coords": [
                         -122.368013,
@@ -3748,7 +3748,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Elliott Bay",
-                  "text": "Die Elliott Bay ist eine Bucht des Puget Sounds, an der die Uferpromenade von Seattle liegt.",
+                  "text": "Bucht des Puget Sound, Seattle's Wasserfront mit Fährterminals und Hafen.",
                   "category": "landmark",
                   "coords": [
                         -122.373123,
@@ -3939,7 +3939,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Repertory Theatre",
-                  "text": "A seattle-i Seattle Repertory Theatre a Seattle Centerben egy vezető profi színházi társulat.",
+                  "text": "Vezető regionális színház Seattle-ben, alapítva 1963-ban, a Bagley Wright Színházban játszik.",
                   "category": "cultural",
                   "coords": [
                         -122.353608,
@@ -3966,7 +3966,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "University Presbyterian Church",
-                  "text": "A seattle-i University Presbyterian Church egy presbiteriánus templom a Washingtoni Egyetem közelében.",
+                  "text": "Presbiteriánus templom a Washingtoni Egyetem közelében, híres üvegablakairól.",
                   "category": "religious",
                   "coords": [
                         -122.311475,
@@ -3984,7 +3984,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blessed Sacrament Church",
-                  "text": "A seattle-i Blessed Sacrament Church egy neoromán stílusú katolikus templom.",
+                  "text": "Római katolikus templom az University Districtben, 1923-ban épült olasz reneszánsz stílusban.",
                   "category": "religious",
                   "coords": [
                         -122.319068,
@@ -3993,7 +3993,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Church of Christ",
-                  "text": "A seattle-i Seattle Church of Christ (korábban Seventh Church of Christ, Scientist) egy történelmi templomépület.",
+                  "text": "Keresztény Tudomány templom a Capitol Hillen, kupolával és klasszikus oszlopokkal.",
                   "category": "religious",
                   "coords": [
                         -122.368013,
@@ -4038,7 +4038,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Elliott Bay",
-                  "text": "Az Elliott-öböl a Puget Sound egyik öble, amely Seattle vízpartján található.",
+                  "text": "A Puget Sound öble, Seattle vízpartja kompterminálokkal és kikötővel.",
                   "category": "landmark",
                   "coords": [
                         -122.373123,
@@ -4229,7 +4229,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Repertory Theatre",
-                  "text": "Seattle Repertory Theatre din Seattle Center este o companie importantă de teatru profesionist.",
+                  "text": "Teatru regional de frunte în Seattle, fondat în 1963, interpretează la Teatrul Bagley Wright.",
                   "category": "cultural",
                   "coords": [
                         -122.353608,
@@ -4256,7 +4256,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "University Presbyterian Church",
-                  "text": "Biserica Prezbiteriană Universitară din Seattle este o biserică prezbiteriană lângă Universitatea din Washington.",
+                  "text": "Biserică prezbiteriană lângă Universitatea Washington, cunoscută pentru vitraliile sale.",
                   "category": "religious",
                   "coords": [
                         -122.311475,
@@ -4274,7 +4274,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blessed Sacrament Church",
-                  "text": "Biserica Fericitului Sacrament din Seattle este o biserică catolică în stil neoromanic.",
+                  "text": "Biserică romano-catolică în districtul universitar, construită în 1923 în stil renascentist italian.",
                   "category": "religious",
                   "coords": [
                         -122.319068,
@@ -4283,7 +4283,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Church of Christ",
-                  "text": "Biserica Seattle Church of Christ (fosta Seventh Church of Christ, Scientist) este o clădire bisericească istorică.",
+                  "text": "Biserică a Științei Creștine pe Capitol Hill, cu dom și coloane clasice.",
                   "category": "religious",
                   "coords": [
                         -122.368013,
@@ -4328,7 +4328,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Elliott Bay",
-                  "text": "Elliott Bay este un golf al Puget Sound-ului, pe malul căruia se află faleza din Seattle.",
+                  "text": "Golf al Puget Sound, malul apei din Seattle cu terminale de ferry și port.",
                   "category": "landmark",
                   "coords": [
                         -122.373123,
@@ -4519,7 +4519,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Repertory Theatre",
-                  "text": "Seattle Repertory Theatre at Seattle Center is a leading professional theater company.",
+                  "text": "Seattle Repertory Theatre is a leading regional theatre in Seattle, founded 1963, performing at the Bagley Wright Theatre.",
                   "category": "cultural",
                   "coords": [
                         -122.353608,
@@ -4546,7 +4546,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "University Presbyterian Church",
-                  "text": "University Presbyterian Church in Seattle is a Presbyterian church near the University of Washington.",
+                  "text": "University Presbyterian Church is a Presbyterian church near the University of Washington, known for its stained glass.",
                   "category": "religious",
                   "coords": [
                         -122.311475,
@@ -4564,7 +4564,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blessed Sacrament Church",
-                  "text": "Blessed Sacrament Church in Seattle is a Catholic church in the Romanesque Revival style.",
+                  "text": "Blessed Sacrament Church is a Roman Catholic church in Seattle's University District, built in 1923 in Italian Renaissance style.",
                   "category": "religious",
                   "coords": [
                         -122.319068,
@@ -4573,7 +4573,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seattle Church of Christ",
-                  "text": "Seattle Church of Christ (formerly Seventh Church of Christ, Scientist) is a historic church building.",
+                  "text": "Seattle Church of Christ (Seventh Church of Christ, Scientist) is a Christian Science church on Capitol Hill with a dome and classical columns.",
                   "category": "religious",
                   "coords": [
                         -122.368013,
@@ -4618,7 +4618,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Elliott Bay",
-                  "text": "Elliott Bay is a bay of Puget Sound along Seattle's waterfront.",
+                  "text": "Elliott Bay is a bay of Puget Sound, Seattle's waterfront with ferry terminals and port facilities.",
                   "category": "landmark",
                   "coords": [
                         -122.373123,
@@ -4719,7 +4719,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Hatchery Saddle Point",
-                  "text": "Ein Aussichtspunkt in der Nähe des Hoover-Staudamms.",
+                  "text": "Ein Aussichtspunkt auf einem Sattel mit Blick auf den Lake Mead und den Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.802071,
@@ -4728,7 +4728,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hatchery Cove",
-                  "text": "Eine Bucht in der Nähe des Hoover-Staudamms.",
+                  "text": "Eine Bucht am Lake Mead nahe dem Hoover Dam, möglicherweise in der Nähe einer Fischzuchtanlage.",
                   "category": "landmark",
                   "coords": [
                         -114.805264,
@@ -4737,7 +4737,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saddle Cove",
-                  "text": "Saddle Cove ist eine Bucht am Lake Mead nahe dem Hoover Dam.",
+                  "text": "Eine Bucht am Lake Mead, geformt wie ein Sattel.",
                   "category": "landmark",
                   "coords": [
                         -114.802764,
@@ -4746,7 +4746,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Harbor",
-                  "text": "Boulder Harbor ist eine Bucht am Lake Mead in der Nähe des Hoover Dam.",
+                  "text": "Ein Hafen am Lake Mead nahe dem Hoover Dam.",
                   "category": "landmark",
                   "coords": [
                         -114.807208,
@@ -4755,7 +4755,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder City-Hoover Dam Museum",
-                  "text": "Das Boulder City-Hoover Dam Museum zeigt die Geschichte des Damms und der Stadt.",
+                  "text": "Ein Museum in Boulder City, das den Bau des Hoover Dam und die Geschichte der Stadt dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -114.836594,
@@ -4764,7 +4764,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Canyon Overlook",
-                  "text": "Der Black Canyon Overlook bietet einen Aussichtspunkt über den Black Canyon.",
+                  "text": "Ein Aussichtspunkt über die Black Canyon-Schlucht unterhalb des Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.769133,
@@ -4773,7 +4773,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Colorado Overlook",
-                  "text": "Der Colorado Overlook bietet einen Ausblick auf den Colorado River.",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Colorado River unterhalb des Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.727487,
@@ -4782,7 +4782,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nevada Hot Spring",
-                  "text": "Die Nevada Hot Spring ist eine heiße Quelle in der Region des Hoover Dam.",
+                  "text": "Eine heiße Quelle am Nevada-Ufer des Lake Mead.",
                   "category": "landmark",
                   "coords": [
                         -114.695533,
@@ -4791,7 +4791,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Slot Canyons",
-                  "text": "Die Slot Canyons sind enge Felsenschluchten nahe dem Hoover Dam.",
+                  "text": "Enge Sandstein-Slot-Canyons in der Nähe des Colorado River im Lake-Mead-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -114.705022,
@@ -4800,7 +4800,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liberty Bell Arch",
-                  "text": "Der Liberty Bell Arch ist ein natürlicher Felsbogen in der Nähe des Hoover Dam.",
+                  "text": "Ein natürlicher Felsbogen in Form der Liberty Bell nahe dem Hoover Dam.",
                   "category": "landmark",
                   "coords": [
                         -114.724145,
@@ -4827,7 +4827,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Painters Cove",
-                  "text": "Painters Cove ist eine Bucht am Lake Mead mit malerischer Umgebung.",
+                  "text": "Eine Bucht am Lake Mead, wahrscheinlich nach ihrer malerischen Aussicht benannt.",
                   "category": "landmark",
                   "coords": [
                         -114.713316,
@@ -4836,7 +4836,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Promontory Point",
-                  "text": "Promontory Point ist ein Aussichtspunkt auf einer Landspitze am Lake Mead.",
+                  "text": "Eine Halbinsel am Lake Mead, die Panoramablicke bietet.",
                   "category": "natural",
                   "coords": [
                         -114.738316,
@@ -4854,7 +4854,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam Lookout",
-                  "text": "Der Hoover Dam Lookout ist ein Aussichtspunkt mit Blick auf den Damm und den Colorado River.",
+                  "text": "Ein Aussichtspunkt mit direktem Blick auf die Staumauer des Hoover Dam und den Colorado River.",
                   "category": "natural",
                   "coords": [
                         -114.73215,
@@ -4881,7 +4881,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lakeview Overlook",
-                  "text": "Lakeview Overlook ist ein Aussichtspunkt mit Blick auf den Lake Mead.",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über den Lake Mead hinter dem Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.761936,
@@ -4917,7 +4917,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach",
-                  "text": "Boulder Beach ist ein Strand am Lake Mead in der Nähe des Hoover Dam.",
+                  "text": "Ein beliebter Strand am Lake Mead nahe dem Hoover Dam.",
                   "category": "recreational",
                   "coords": [
                         -114.791374,
@@ -4926,7 +4926,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "South Beach ist ein Strand am Lake Mead im Bereich des Hoover Dam.",
+                  "text": "Ein Strand am südlichen Ufer des Lake Mead.",
                   "category": "recreational",
                   "coords": [
                         -114.787763,
@@ -4935,7 +4935,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hemenway Harbor",
-                  "text": "Hemenway Harbor ist eine Bucht am Lake Mead mit einem Yachthafen.",
+                  "text": "Ein Jachthafen und Hafen am Lake Mead, beliebt zum Bootfahren.",
                   "category": "landmark",
                   "coords": [
                         -114.773994,
@@ -4944,7 +4944,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach South",
-                  "text": "Boulder Beach South ist ein südlicher Abschnitt des Boulder Beach am Lake Mead.",
+                  "text": "Ein sandiger Strand am Lake Mead südlich des Hoover Dam zum Schwimmen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         -114.793288,
@@ -4962,7 +4962,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burro Point",
-                  "text": "Burro Point ist eine felsige Landzunge am Lake Mead mit Ausblick.",
+                  "text": "Eine Landspitze am Lake Mead, benannt nach wilden Eseln in der Gegend.",
                   "category": "landmark",
                   "coords": [
                         -114.716094,
@@ -4971,7 +4971,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shelter Cove",
-                  "text": "Shelter Cove ist eine geschützte Bucht am Lake Mead, ideal zum Ankern.",
+                  "text": "Eine geschützte Bucht am Lake Mead, ideal zum Ankern.",
                   "category": "landmark",
                   "coords": [
                         -114.714706,
@@ -4989,7 +4989,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fishfinder Cove",
-                  "text": "Fishfinder Cove ist ein beliebter Angelplatz am Lake Mead.",
+                  "text": "Eine Bucht am Lake Mead, beliebt zum Angeln.",
                   "category": "landmark",
                   "coords": [
                         -114.68776,
@@ -5007,7 +5007,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
-                  "text": "Die Mike O'Callaghan–Pat Tillman Memorial Bridge ist eine Bogenbrücke, die den Hoover Dam umgeht.",
+                  "text": "Betonbogenbrücke über den Colorado River nahe dem Hoover Dam, die vierthöchste Brücke der Welt.",
                   "category": "landmark",
                   "coords": [
                         -114.74181,
@@ -5018,7 +5018,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Hatchery Saddle Point",
-                  "text": "Egy kilátó a Hoover-gát közelében.",
+                  "text": "Egy kilátóhely egy nyeregben, ahonnan a Lake Mead és a Hoover-gát látható.",
                   "category": "natural",
                   "coords": [
                         -114.802071,
@@ -5027,7 +5027,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hatchery Cove",
-                  "text": "Egy öböl a Hoover-gát közelében.",
+                  "text": "Egy öböl a Lake Mead-en, a Hoover-gát közelében, talán egy halgazdaság mellett.",
                   "category": "landmark",
                   "coords": [
                         -114.805264,
@@ -5036,7 +5036,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saddle Cove",
-                  "text": "A Saddle Cove egy öböl a Mead-tó közelében, a Hoover-gátnál.",
+                  "text": "Egy öböl a Lake Mead-en, nyereg alakú.",
                   "category": "landmark",
                   "coords": [
                         -114.802764,
@@ -5045,7 +5045,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Harbor",
-                  "text": "A Boulder Harbor egy öböl a Mead-tó közelében, a Hoover-gátnál.",
+                  "text": "Egy kikötő a Lake Mead-en, a Hoover-gát közelében.",
                   "category": "landmark",
                   "coords": [
                         -114.807208,
@@ -5054,7 +5054,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder City-Hoover Dam Museum",
-                  "text": "A Boulder City-Hoover Dam Múzeum a gát és a város történetét mutatja be.",
+                  "text": "Egy múzeum Boulder Cityben, amely a Hoover-gát építését és a város történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -114.836594,
@@ -5063,7 +5063,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Canyon Overlook",
-                  "text": "A Black Canyon Overlook kilátópont nyújt kilátást a Black Canyonra.",
+                  "text": "Egy kilátóhely a Black Canyon szurdok fölé, a Hoover-gát alatt.",
                   "category": "natural",
                   "coords": [
                         -114.769133,
@@ -5072,7 +5072,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Colorado Overlook",
-                  "text": "A Colorado Overlook kilátást nyújt a Colorado folyóra.",
+                  "text": "Egy kilátóhely a Colorado folyóra, a Hoover-gát alatt.",
                   "category": "natural",
                   "coords": [
                         -114.727487,
@@ -5081,7 +5081,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nevada Hot Spring",
-                  "text": "A Nevada Hot Spring egy forró forrás a Hoover-gát környékén.",
+                  "text": "Egy hőforrás a Lake Mead Nevada-i partján.",
                   "category": "landmark",
                   "coords": [
                         -114.695533,
@@ -5090,7 +5090,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Slot Canyons",
-                  "text": "A Slot Canyons szűk sziklaszurdokok a Hoover-gát közelében.",
+                  "text": "Szűk homokkő slot-kanyonok a Colorado folyó közelében a Lake Mead területén.",
                   "category": "landmark",
                   "coords": [
                         -114.705022,
@@ -5099,7 +5099,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liberty Bell Arch",
-                  "text": "A Liberty Bell Arch egy természetes sziklaív a Hoover-gát közelében.",
+                  "text": "Egy természetes sziklaív, amely a Liberty Bell formáját idézi, a Hoover-gát közelében.",
                   "category": "landmark",
                   "coords": [
                         -114.724145,
@@ -5126,7 +5126,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Painters Cove",
-                  "text": "A Painters Cove egy öböl a Mead-tónál, festői környezetben.",
+                  "text": "Egy öböl a Lake Mead-en, valószínűleg festői kilátásáról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -114.713316,
@@ -5135,7 +5135,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Promontory Point",
-                  "text": "A Promontory Point egy kilátópont egy földnyelven a Mead-tónál.",
+                  "text": "Egy félsziget a Lake Mead-en, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -114.738316,
@@ -5153,7 +5153,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam Lookout",
-                  "text": "A Hoover Dam Lookout kilátópont, ahonnan a gát és a Colorado folyó látható.",
+                  "text": "Egy kilátóhely, ahonnan közvetlenül látható a Hoover-gát fala és a Colorado folyó.",
                   "category": "natural",
                   "coords": [
                         -114.73215,
@@ -5180,7 +5180,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lakeview Overlook",
-                  "text": "A Lakeview Overlook egy kilátópont, ahonnan a Mead-tó látható.",
+                  "text": "Egy kilátóhely panorámás kilátással a Hoover-gát mögötti Lake Mead-re.",
                   "category": "natural",
                   "coords": [
                         -114.761936,
@@ -5216,7 +5216,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach",
-                  "text": "A Boulder Beach egy strand a Mead-tónál, a Hoover-gát közelében.",
+                  "text": "Egy népszerű strand a Lake Mead-en, a Hoover-gát közelében.",
                   "category": "recreational",
                   "coords": [
                         -114.791374,
@@ -5225,7 +5225,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "A South Beach egy strand a Mead-tónál, a Hoover-gát környékén.",
+                  "text": "Egy strand a Lake Mead déli partján.",
                   "category": "recreational",
                   "coords": [
                         -114.787763,
@@ -5234,7 +5234,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hemenway Harbor",
-                  "text": "A Hemenway Harbor egy öböl a Mead-tónál, kikötővel.",
+                  "text": "Egy marina és kikötő a Lake Mead-en, népszerű hajózásra.",
                   "category": "landmark",
                   "coords": [
                         -114.773994,
@@ -5243,7 +5243,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach South",
-                  "text": "A Boulder Beach South a Boulder Beach déli szakasza a Mead-tónál.",
+                  "text": "Egy homokos strand a Lake Mead déli partján, a Hoover-gáttól délre, úszáshoz és napozáshoz.",
                   "category": "recreational",
                   "coords": [
                         -114.793288,
@@ -5261,7 +5261,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burro Point",
-                  "text": "A Burro Point egy sziklás földnyelv a Mead-tónál, kilátással.",
+                  "text": "Egy földnyelv a Lake Mead-en, a terület vad szamarairól elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -114.716094,
@@ -5270,7 +5270,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shelter Cove",
-                  "text": "A Shelter Cove egy védett öböl a Mead-tónál, ideális horgonyzáshoz.",
+                  "text": "Egy védett öböl a Lake Mead-en, ideális horgonyzáshoz.",
                   "category": "landmark",
                   "coords": [
                         -114.714706,
@@ -5288,7 +5288,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fishfinder Cove",
-                  "text": "A Fishfinder Cove népszerű horgászhely a Mead-tónál.",
+                  "text": "Egy öböl a Lake Mead-en, népszerű horgászathoz.",
                   "category": "landmark",
                   "coords": [
                         -114.68776,
@@ -5306,7 +5306,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
-                  "text": "A Mike O'Callaghan–Pat Tillman Memorial Bridge egy ívhíd, amely elkerüli a Hoover-gátat.",
+                  "text": "Betonívhíd a Colorado folyó felett a Hoover-gát közelében, a világ negyedik legmagasabb hídja.",
                   "category": "landmark",
                   "coords": [
                         -114.74181,
@@ -5317,7 +5317,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Hatchery Saddle Point",
-                  "text": "Un punct de belvedere lângă Barajul Hoover.",
+                  "text": "Un punct de belvedere pe o șa, cu vedere asupra lacului Mead și a barajului Hoover.",
                   "category": "natural",
                   "coords": [
                         -114.802071,
@@ -5326,7 +5326,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hatchery Cove",
-                  "text": "Un golf lângă Barajul Hoover.",
+                  "text": "Un golf pe Lacul Mead, lângă Barajul Hoover, posibil lângă o păstrăvărie.",
                   "category": "landmark",
                   "coords": [
                         -114.805264,
@@ -5335,7 +5335,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saddle Cove",
-                  "text": "Saddle Cove este un golf pe lacul Mead, lângă Barajul Hoover.",
+                  "text": "Un golf pe Lacul Mead, în formă de șa.",
                   "category": "landmark",
                   "coords": [
                         -114.802764,
@@ -5344,7 +5344,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Harbor",
-                  "text": "Boulder Harbor este un golf pe lacul Mead, lângă Barajul Hoover.",
+                  "text": "Un port pe Lacul Mead, lângă Barajul Hoover.",
                   "category": "landmark",
                   "coords": [
                         -114.807208,
@@ -5353,7 +5353,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder City-Hoover Dam Museum",
-                  "text": "Muzeul Boulder City-Hoover Dam prezintă istoria barajului și a orașului.",
+                  "text": "Un muzeu în Boulder City care documentează construcția barajului Hoover și istoria orașului.",
                   "category": "museum",
                   "coords": [
                         -114.836594,
@@ -5362,7 +5362,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Canyon Overlook",
-                  "text": "Black Canyon Overlook oferă un punct de belvedere asupra canionului Black Canyon.",
+                  "text": "Un punct de belvedere deasupra canionului Black Canyon, sub barajul Hoover.",
                   "category": "natural",
                   "coords": [
                         -114.769133,
@@ -5371,7 +5371,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Colorado Overlook",
-                  "text": "Colorado Overlook oferă o vedere asupra râului Colorado.",
+                  "text": "Un punct de belvedere cu vedere asupra râului Colorado, în aval de barajul Hoover.",
                   "category": "natural",
                   "coords": [
                         -114.727487,
@@ -5380,7 +5380,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nevada Hot Spring",
-                  "text": "Nevada Hot Spring este un izvor termal în regiunea Barajului Hoover.",
+                  "text": "Un izvor termal pe malul Nevada al Lacului Mead.",
                   "category": "landmark",
                   "coords": [
                         -114.695533,
@@ -5389,7 +5389,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Slot Canyons",
-                  "text": "Slot Canyons sunt canioane înguste de stâncă lângă Barajul Hoover.",
+                  "text": "Canioane înguste de gresie lângă râul Colorado, în zona lacului Mead.",
                   "category": "landmark",
                   "coords": [
                         -114.705022,
@@ -5398,7 +5398,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liberty Bell Arch",
-                  "text": "Liberty Bell Arch este un arc natural de piatră lângă Barajul Hoover.",
+                  "text": "Un arc natural de piatră în formă de Liberty Bell, lângă barajul Hoover.",
                   "category": "landmark",
                   "coords": [
                         -114.724145,
@@ -5425,7 +5425,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Painters Cove",
-                  "text": "Painters Cove este un golf pe lacul Mead, cu un cadru pitoresc.",
+                  "text": "Un golf pe Lacul Mead, probabil numit pentru priveliștile sale pitorești.",
                   "category": "landmark",
                   "coords": [
                         -114.713316,
@@ -5434,7 +5434,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Promontory Point",
-                  "text": "Promontory Point este un punct de belvedere pe un promontoriu pe lacul Mead.",
+                  "text": "O peninsulă pe Lacul Mead, oferind vederi panoramice.",
                   "category": "natural",
                   "coords": [
                         -114.738316,
@@ -5452,7 +5452,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam Lookout",
-                  "text": "Hoover Dam Lookout este un punct de belvedere cu vedere spre baraj și râul Colorado.",
+                  "text": "Un punct de belvedere cu vedere directă asupra barajului Hoover și a râului Colorado.",
                   "category": "natural",
                   "coords": [
                         -114.73215,
@@ -5479,7 +5479,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lakeview Overlook",
-                  "text": "Lakeview Overlook este un punct de belvedere cu vedere spre lacul Mead.",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra lacului Mead, în spatele barajului Hoover.",
                   "category": "natural",
                   "coords": [
                         -114.761936,
@@ -5515,7 +5515,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach",
-                  "text": "Boulder Beach este o plajă pe lacul Mead, lângă Barajul Hoover.",
+                  "text": "O plajă populară pe Lacul Mead, lângă Barajul Hoover.",
                   "category": "recreational",
                   "coords": [
                         -114.791374,
@@ -5524,7 +5524,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "South Beach este o plajă pe lacul Mead, în zona Barajului Hoover.",
+                  "text": "O plajă pe malul sudic al Lacului Mead.",
                   "category": "recreational",
                   "coords": [
                         -114.787763,
@@ -5533,7 +5533,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hemenway Harbor",
-                  "text": "Hemenway Harbor este un golf pe lacul Mead, cu un port de agrement.",
+                  "text": "Un port și o marină pe Lacul Mead, popular pentru ambarcațiuni.",
                   "category": "landmark",
                   "coords": [
                         -114.773994,
@@ -5542,7 +5542,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach South",
-                  "text": "Boulder Beach South este secțiunea sudică a plajei Boulder Beach pe lacul Mead.",
+                  "text": "O plajă nisipoasă pe lacul Mead, la sud de barajul Hoover, pentru înot și plajă.",
                   "category": "recreational",
                   "coords": [
                         -114.793288,
@@ -5560,7 +5560,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burro Point",
-                  "text": "Burro Point este un promontoriu stâncos pe lacul Mead, cu vedere.",
+                  "text": "Un promontoriu pe Lacul Mead, numit după măgarii sălbatici din zonă.",
                   "category": "landmark",
                   "coords": [
                         -114.716094,
@@ -5569,7 +5569,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shelter Cove",
-                  "text": "Shelter Cove este un golf adăpostit pe lacul Mead, ideal pentru ancorare.",
+                  "text": "Un golf adăpostit pe Lacul Mead, ideal pentru ancorare.",
                   "category": "landmark",
                   "coords": [
                         -114.714706,
@@ -5587,7 +5587,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fishfinder Cove",
-                  "text": "Fishfinder Cove este un loc popular de pescuit pe lacul Mead.",
+                  "text": "Un golf pe Lacul Mead, popular pentru pescuit.",
                   "category": "landmark",
                   "coords": [
                         -114.68776,
@@ -5605,7 +5605,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
-                  "text": "Podul memorial Mike O'Callaghan–Pat Tillman este un pod în arc care ocolește Barajul Hoover.",
+                  "text": "Pod arc din beton peste râul Colorado lângă Barajul Hoover, al patrulea cel mai înalt pod din lume.",
                   "category": "landmark",
                   "coords": [
                         -114.74181,
@@ -5616,7 +5616,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Hatchery Saddle Point",
-                  "text": "A viewpoint near Hoover Dam.",
+                  "text": "A scenic saddle point overlooking Lake Mead and the Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.802071,
@@ -5625,7 +5625,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hatchery Cove",
-                  "text": "A cove near Hoover Dam.",
+                  "text": "A cove on Lake Mead near Hoover Dam, possibly near a fish hatchery.",
                   "category": "landmark",
                   "coords": [
                         -114.805264,
@@ -5634,7 +5634,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saddle Cove",
-                  "text": "Saddle Cove is a bay on Lake Mead near Hoover Dam.",
+                  "text": "A cove on Lake Mead, shaped like a saddle.",
                   "category": "landmark",
                   "coords": [
                         -114.802764,
@@ -5643,7 +5643,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Harbor",
-                  "text": "Boulder Harbor is a bay on Lake Mead near Hoover Dam.",
+                  "text": "A harbor on Lake Mead near Hoover Dam.",
                   "category": "landmark",
                   "coords": [
                         -114.807208,
@@ -5652,7 +5652,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder City-Hoover Dam Museum",
-                  "text": "The Boulder City-Hoover Dam Museum showcases the history of the dam and the town.",
+                  "text": "A museum in Boulder City detailing the construction of the Hoover Dam and the town's history.",
                   "category": "museum",
                   "coords": [
                         -114.836594,
@@ -5661,7 +5661,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Black Canyon Overlook",
-                  "text": "Black Canyon Overlook provides a viewpoint over the Black Canyon.",
+                  "text": "An overlook above the Black Canyon below the Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.769133,
@@ -5670,7 +5670,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Colorado Overlook",
-                  "text": "Colorado Overlook offers a view of the Colorado River.",
+                  "text": "A viewpoint overlooking the Colorado River downstream from the Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.727487,
@@ -5679,7 +5679,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nevada Hot Spring",
-                  "text": "Nevada Hot Spring is a hot spring in the Hoover Dam area.",
+                  "text": "A hot spring on the Nevada shore of Lake Mead.",
                   "category": "landmark",
                   "coords": [
                         -114.695533,
@@ -5688,7 +5688,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Slot Canyons",
-                  "text": "Slot Canyons are narrow rock canyons near Hoover Dam.",
+                  "text": "Narrow sandstone slot canyons near the Colorado River in the Lake Mead area.",
                   "category": "landmark",
                   "coords": [
                         -114.705022,
@@ -5697,7 +5697,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liberty Bell Arch",
-                  "text": "Liberty Bell Arch is a natural rock arch near Hoover Dam.",
+                  "text": "A natural rock arch shaped like the Liberty Bell near the Hoover Dam.",
                   "category": "landmark",
                   "coords": [
                         -114.724145,
@@ -5724,7 +5724,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Painters Cove",
-                  "text": "Painters Cove is a bay on Lake Mead with picturesque surroundings.",
+                  "text": "A cove on Lake Mead, likely named for its scenic views.",
                   "category": "landmark",
                   "coords": [
                         -114.713316,
@@ -5733,7 +5733,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Promontory Point",
-                  "text": "Promontory Point is a viewpoint on a promontory at Lake Mead.",
+                  "text": "A peninsula on Lake Mead, offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         -114.738316,
@@ -5751,7 +5751,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hoover Dam Lookout",
-                  "text": "Hoover Dam Lookout is a viewpoint overlooking the dam and the Colorado River.",
+                  "text": "A lookout offering a direct view of the Hoover Dam wall and the Colorado River.",
                   "category": "natural",
                   "coords": [
                         -114.73215,
@@ -5778,7 +5778,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lakeview Overlook",
-                  "text": "Lakeview Overlook is a viewpoint overlooking Lake Mead.",
+                  "text": "An overlook with a panoramic view of Lake Mead behind the Hoover Dam.",
                   "category": "natural",
                   "coords": [
                         -114.761936,
@@ -5814,7 +5814,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach",
-                  "text": "Boulder Beach is a beach on Lake Mead near Hoover Dam.",
+                  "text": "A popular beach on Lake Mead near Hoover Dam.",
                   "category": "recreational",
                   "coords": [
                         -114.791374,
@@ -5823,7 +5823,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "South Beach is a beach on Lake Mead in the Hoover Dam area.",
+                  "text": "A beach on the southern shore of Lake Mead.",
                   "category": "recreational",
                   "coords": [
                         -114.787763,
@@ -5832,7 +5832,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hemenway Harbor",
-                  "text": "Hemenway Harbor is a bay on Lake Mead with a marina.",
+                  "text": "A marina and harbor on Lake Mead, popular for boating.",
                   "category": "landmark",
                   "coords": [
                         -114.773994,
@@ -5841,7 +5841,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boulder Beach South",
-                  "text": "Boulder Beach South is the southern section of Boulder Beach on Lake Mead.",
+                  "text": "A sandy beach on Lake Mead south of the Hoover Dam for swimming and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         -114.793288,
@@ -5859,7 +5859,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burro Point",
-                  "text": "Burro Point is a rocky promontory on Lake Mead with a view.",
+                  "text": "A point on Lake Mead, named for wild burros in the area.",
                   "category": "landmark",
                   "coords": [
                         -114.716094,
@@ -5868,7 +5868,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shelter Cove",
-                  "text": "Shelter Cove is a sheltered bay on Lake Mead, ideal for anchoring.",
+                  "text": "A sheltered cove on Lake Mead, ideal for anchoring.",
                   "category": "landmark",
                   "coords": [
                         -114.714706,
@@ -5886,7 +5886,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fishfinder Cove",
-                  "text": "Fishfinder Cove is a popular fishing spot on Lake Mead.",
+                  "text": "A cove on Lake Mead, popular for fishing.",
                   "category": "landmark",
                   "coords": [
                         -114.68776,
@@ -5904,7 +5904,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
-                  "text": "The Mike O'Callaghan–Pat Tillman Memorial Bridge is an arch bridge bypassing Hoover Dam.",
+                  "text": "Mike O'Callaghan–Pat Tillman Memorial Bridge is a concrete arch bridge over the Colorado River near Hoover Dam, the fourth-highest bridge in the world.",
                   "category": "landmark",
                   "coords": [
                         -114.74181,
@@ -5969,7 +5969,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Institute of Contemporary Art",
-                  "text": "Museum für zeitgenössische Kunst im Seaport District von Boston.",
+                  "text": "Das Institute of Contemporary Art in Hall ist ein Museum für zeitgenössische Kunst mit einer auskragenden Glasfassade über dem Hafen.",
                   "category": "museum",
                   "coords": [
                         -71.042963,
@@ -6023,7 +6023,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bellingham-Cary House",
-                  "text": "Historisches Hausmuseum aus dem 18. Jahrhundert.",
+                  "text": "Das Bellingham-Cary House in Hall ist ein historisches Kolonialhaus aus dem 17. Jahrhundert auf einem Hügel.",
                   "category": "museum",
                   "coords": [
                         -71.028036,
@@ -6041,7 +6041,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Revere City Hall",
-                  "text": "Historisches Rathausgebäude in Revere, Massachusetts.",
+                  "text": "Das Revere City Hall in Hall ist ein historisches Beaux-Arts-Gebäude aus dem Jahr 1914.",
                   "category": "historical",
                   "coords": [
                         -71.013213,
@@ -6059,7 +6059,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint George Albanian Orthodox Cathedral",
-                  "text": "Albanisch-orthodoxe Kathedrale im South End von Boston.",
+                  "text": "Die Saint George Albanian Orthodox Cathedral in Hall ist eine albanisch-orthodoxe Kirche mit einer traditionellen Zwiebelkuppel.",
                   "category": "religious",
                   "coords": [
                         -71.043522,
@@ -6068,7 +6068,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leader Bank Pavilion",
-                  "text": "Open-Air-Konzertort am Wasser von Boston.",
+                  "text": "Der Leader Bank Pavilion in Hall ist eine Open-Air-Konzertarena am Wasser mit 5.000 Plätzen.",
                   "category": "cultural",
                   "coords": [
                         -71.03597,
@@ -6185,7 +6185,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boston Marine Society Museum",
-                  "text": "Museum, das der Seefahrtsgeschichte in Boston gewidmet ist.",
+                  "text": "Museum in Hall mit Exponaten zur Geschichte der Boston Marine Society, der ältesten Seefahrtsorganisation der USA.",
                   "category": "museum",
                   "coords": [
                         -71.053732,
@@ -6203,7 +6203,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Chapel",
-                  "text": "Katholische Kapelle in Boston.",
+                  "text": "Saint Augustine Chapel, eine katholische Holzkirche in Hall, Massachusetts.",
                   "category": "religious",
                   "coords": [
                         -71.049363,
@@ -6212,7 +6212,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Albanian Orthodox Church",
-                  "text": "Albanisch-orthodoxe Kirche in Boston.",
+                  "text": "Holy Trinity Albanian Orthodox Church in Hall, die die albanische Gemeinde bedient.",
                   "category": "religious",
                   "coords": [
                         -71.051019,
@@ -6221,7 +6221,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Assembly of God Church",
-                  "text": "Assembly-of-God-Kirche in Boston.",
+                  "text": "Central Assembly of God Church, eine Pfingstgemeinde in Hall, Massachusetts.",
                   "category": "religious",
                   "coords": [
                         -71.037287,
@@ -6239,7 +6239,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Federated Church",
-                  "text": "Grace Federated Church ist eine Kirche im Faneuil-Hall-Bereich von Boston.",
+                  "text": "Grace Federated Church, eine vereinigte protestantische Kirche in Hall.",
                   "category": "religious",
                   "coords": [
                         -71.017134,
@@ -6248,7 +6248,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chelsea River",
-                  "text": "Chelsea River ist eine Bucht im Faneuil-Hall-Bereich von Boston.",
+                  "text": "Chelsea River, ein Gezeitenästuar in Hall, Massachusetts.",
                   "category": "landmark",
                   "coords": [
                         -71.036182,
@@ -6257,7 +6257,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Sound",
-                  "text": "Broad Sound ist eine Bucht im Faneuil-Hall-Bereich von Boston.",
+                  "text": "Broad Sound, eine breite Meeresbucht in Hall, Massachusetts.",
                   "category": "landmark",
                   "coords": [
                         -70.949493,
@@ -6277,7 +6277,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Institute of Contemporary Art",
-                  "text": "Kortárs művészeti múzeum Boston Seaport negyedében.",
+                  "text": "A Hall-i Institute of Contemporary Art egy kortárs művészeti múzeum, melynek üveghomlokzata a kikötő fölé nyúlik.",
                   "category": "museum",
                   "coords": [
                         -71.042963,
@@ -6331,7 +6331,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bellingham-Cary House",
-                  "text": "18. századi történelmi házmúzeum.",
+                  "text": "A Hall-i Bellingham-Cary House egy 17. századi gyarmati házmúzeum egy dombon.",
                   "category": "museum",
                   "coords": [
                         -71.028036,
@@ -6349,7 +6349,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Revere City Hall",
-                  "text": "Történelmi városháza épület Revere-ben, Massachusetts államban.",
+                  "text": "A Hall-i Revere City Hall egy 1914-ben épült történelmi Beaux-Arts épület.",
                   "category": "historical",
                   "coords": [
                         -71.013213,
@@ -6367,7 +6367,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint George Albanian Orthodox Cathedral",
-                  "text": "Albán ortodox székesegyház Boston South End negyedében.",
+                  "text": "A Hall-i Saint George Albanian Orthodox Cathedral egy albán ortodox templom hagymakupolával.",
                   "category": "religious",
                   "coords": [
                         -71.043522,
@@ -6376,7 +6376,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leader Bank Pavilion",
-                  "text": "Szabadtéri koncerthelyszín Boston vízpartján.",
+                  "text": "A Hall-i Leader Bank Pavilion egy 5000 férőhelyes szabadtéri koncerthelyszín a vízparton.",
                   "category": "cultural",
                   "coords": [
                         -71.03597,
@@ -6493,7 +6493,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boston Marine Society Museum",
-                  "text": "Múzeum, amely a bostoni tengerészeti történelemnek szentelt.",
+                  "text": "Boston Marine Society Múzeum Hallban, amely a legrégebbi tengerészeti szervezet történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -71.053732,
@@ -6511,7 +6511,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Chapel",
-                  "text": "Katolikus kápolna Bostonban.",
+                  "text": "Szent Ágoston-kápolna Hallban, egy fából készült katolikus templom.",
                   "category": "religious",
                   "coords": [
                         -71.049363,
@@ -6520,7 +6520,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Albanian Orthodox Church",
-                  "text": "Albán ortodox templom Bostonban.",
+                  "text": "Szent Háromság albán ortodox templom Hallban, az albán közösség számára.",
                   "category": "religious",
                   "coords": [
                         -71.051019,
@@ -6529,7 +6529,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Assembly of God Church",
-                  "text": "Isten Gyülekezete templom Bostonban.",
+                  "text": "Central Assembly of God templom, pünkösdi gyülekezet Hallban.",
                   "category": "religious",
                   "coords": [
                         -71.037287,
@@ -6547,7 +6547,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Federated Church",
-                  "text": "A Grace Federated Church egy templom a Faneuil Hall környékén, Bostonban.",
+                  "text": "Grace Federated Church, egy egyesített protestáns templom Hallban.",
                   "category": "religious",
                   "coords": [
                         -71.017134,
@@ -6556,7 +6556,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chelsea River",
-                  "text": "A Chelsea River egy öböl a Faneuil Hall környékén, Bostonban.",
+                  "text": "Chelsea folyó, egy árapály torkolat Hallban.",
                   "category": "landmark",
                   "coords": [
                         -71.036182,
@@ -6565,7 +6565,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Sound",
-                  "text": "A Broad Sound egy öböl a Faneuil Hall környékén, Bostonban.",
+                  "text": "Broad Sound, egy széles tengeri öböl Hallban.",
                   "category": "landmark",
                   "coords": [
                         -70.949493,
@@ -6585,7 +6585,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Institute of Contemporary Art",
-                  "text": "Muzeu de artă contemporană situat în cartierul Seaport din Boston.",
+                  "text": "Institute of Contemporary Art din Hall este un muzeu de artă contemporană cu o fațadă de sticlă în consolă deasupra portului.",
                   "category": "museum",
                   "coords": [
                         -71.042963,
@@ -6639,7 +6639,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bellingham-Cary House",
-                  "text": "Muzeu-casă istorică datând din secolul al XVIII-lea.",
+                  "text": "Bellingham-Cary House din Hall este un muzeu casă colonială din secolul al XVII-lea pe o colină.",
                   "category": "museum",
                   "coords": [
                         -71.028036,
@@ -6657,7 +6657,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Revere City Hall",
-                  "text": "Clădire istorică de primărie în Revere, Massachusetts.",
+                  "text": "Revere City Hall din Hall este o clădire istorică Beaux-Arts din 1914.",
                   "category": "historical",
                   "coords": [
                         -71.013213,
@@ -6675,7 +6675,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint George Albanian Orthodox Cathedral",
-                  "text": "Catedrală ortodoxă albaneză în cartierul South End din Boston.",
+                  "text": "Catedrala Ortodoxă Albaneză Sf. Gheorghe din Hall este o biserică ortodoxă albaneză cu o cupolă tradițională în formă de ceapă.",
                   "category": "religious",
                   "coords": [
                         -71.043522,
@@ -6684,7 +6684,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leader Bank Pavilion",
-                  "text": "Loc de concerte în aer liber pe malul apei din Boston.",
+                  "text": "Leader Bank Pavilion din Hall este un amfiteatru în aer liber pe malul apei, cu 5.000 de locuri, pentru concerte.",
                   "category": "cultural",
                   "coords": [
                         -71.03597,
@@ -6801,7 +6801,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boston Marine Society Museum",
-                  "text": "Muzeu dedicat istoriei maritime din Boston.",
+                  "text": "Muzeul Societății Maritime din Boston din Hall, care prezintă istoria celei mai vechi organizații maritime din SUA.",
                   "category": "museum",
                   "coords": [
                         -71.053732,
@@ -6819,7 +6819,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Chapel",
-                  "text": "Capelă catolică în Boston.",
+                  "text": "Capela Sfântul Augustin din Hall, Massachusetts, o biserică catolică din lemn.",
                   "category": "religious",
                   "coords": [
                         -71.049363,
@@ -6828,7 +6828,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Albanian Orthodox Church",
-                  "text": "Biserică ortodoxă albaneză în Boston.",
+                  "text": "Biserica Ortodoxă Albaneză Sfânta Treime din Hall, deservind comunitatea albaneză.",
                   "category": "religious",
                   "coords": [
                         -71.051019,
@@ -6837,7 +6837,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Assembly of God Church",
-                  "text": "Biserică a Adunării lui Dumnezeu în Boston.",
+                  "text": "Biserica Adunarea lui Dumnezeu Centrală din Hall, o biserică penticostală.",
                   "category": "religious",
                   "coords": [
                         -71.037287,
@@ -6855,7 +6855,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Federated Church",
-                  "text": "Grace Federated Church este o biserică în zona Faneuil Hall din Boston.",
+                  "text": "Biserica Federată Grace din Hall, o unire de confesiuni protestante.",
                   "category": "religious",
                   "coords": [
                         -71.017134,
@@ -6864,7 +6864,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chelsea River",
-                  "text": "Chelsea River este un golf în zona Faneuil Hall din Boston.",
+                  "text": "Râul Chelsea, un estuar de maree în Hall, Massachusetts.",
                   "category": "landmark",
                   "coords": [
                         -71.036182,
@@ -6873,7 +6873,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Sound",
-                  "text": "Broad Sound este un golf în zona Faneuil Hall din Boston.",
+                  "text": "Broad Sound, un golf larg în Hall, Massachusetts.",
                   "category": "landmark",
                   "coords": [
                         -70.949493,
@@ -6893,7 +6893,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Institute of Contemporary Art",
-                  "text": "Contemporary art museum located in Boston's Seaport District.",
+                  "text": "The Institute of Contemporary Art in Hall is a contemporary art museum with a cantilevered glass facade overlooking the harbor.",
                   "category": "museum",
                   "coords": [
                         -71.042963,
@@ -6947,7 +6947,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bellingham-Cary House",
-                  "text": "Historic house museum dating to the 18th century.",
+                  "text": "The Bellingham-Cary House in Hall is a 17th-century colonial house museum on a hill.",
                   "category": "museum",
                   "coords": [
                         -71.028036,
@@ -6965,7 +6965,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Revere City Hall",
-                  "text": "Historic city hall building in Revere, Massachusetts.",
+                  "text": "Revere City Hall in Hall is a historic Beaux-Arts municipal building from 1914.",
                   "category": "historical",
                   "coords": [
                         -71.013213,
@@ -6983,7 +6983,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint George Albanian Orthodox Cathedral",
-                  "text": "Albanian Orthodox cathedral in Boston's South End.",
+                  "text": "St. George Albanian Orthodox Cathedral in Hall is an Albanian Orthodox church with a traditional onion dome.",
                   "category": "religious",
                   "coords": [
                         -71.043522,
@@ -6992,7 +6992,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leader Bank Pavilion",
-                  "text": "Outdoor concert venue on Boston's waterfront.",
+                  "text": "Leader Bank Pavilion in Hall is an outdoor waterfront amphitheater seating 5,000 for concerts.",
                   "category": "cultural",
                   "coords": [
                         -71.03597,
@@ -7109,7 +7109,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Boston Marine Society Museum",
-                  "text": "Museum dedicated to maritime history in Boston.",
+                  "text": "Museum in Hall showcasing the history of the Boston Marine Society, the oldest maritime organization in the US.",
                   "category": "museum",
                   "coords": [
                         -71.053732,
@@ -7127,7 +7127,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Chapel",
-                  "text": "Catholic chapel in Boston.",
+                  "text": "Saint Augustine Chapel, a wooden Catholic church in Hall, Massachusetts.",
                   "category": "religious",
                   "coords": [
                         -71.049363,
@@ -7136,7 +7136,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Albanian Orthodox Church",
-                  "text": "Albanian Orthodox church in Boston.",
+                  "text": "Holy Trinity Albanian Orthodox Church in Hall, serving the Albanian community.",
                   "category": "religious",
                   "coords": [
                         -71.051019,
@@ -7145,7 +7145,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Assembly of God Church",
-                  "text": "Assembly of God church in Boston.",
+                  "text": "Central Assembly of God Church, a Pentecostal congregation in Hall, Massachusetts.",
                   "category": "religious",
                   "coords": [
                         -71.037287,
@@ -7163,7 +7163,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grace Federated Church",
-                  "text": "Grace Federated Church is a church in the Faneuil Hall area of Boston.",
+                  "text": "Grace Federated Church, a united Protestant church in Hall.",
                   "category": "religious",
                   "coords": [
                         -71.017134,
@@ -7172,7 +7172,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chelsea River",
-                  "text": "Chelsea River is a bay in the Faneuil Hall area of Boston.",
+                  "text": "Chelsea River, a tidal estuary in Hall, Massachusetts.",
                   "category": "landmark",
                   "coords": [
                         -71.036182,
@@ -7181,7 +7181,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Sound",
-                  "text": "Broad Sound is a bay in the Faneuil Hall area of Boston.",
+                  "text": "Broad Sound, a wide coastal inlet in Hall, Massachusetts.",
                   "category": "landmark",
                   "coords": [
                         -70.949493,
@@ -7237,7 +7237,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Roslin Art Gallery",
-                  "text": "Eine Kunstgalerie im Raum Hollywood.",
+                  "text": "Die Roslin Art Gallery in Sign ist eine Gemeinschaftskunstgalerie im Kulturviertel von Burbank.",
                   "category": "museum",
                   "coords": [
                         -118.255719,
@@ -7282,7 +7282,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burbank City Hall Annex",
-                  "text": "Ein Anbau des Burbank City Hall in Kalifornien.",
+                  "text": "Der Burbank City Hall Annex in Sign ist ein historisches Verwaltungsgebäude aus den 1940er Jahren im Stadtzentrum.",
                   "category": "historical",
                   "coords": [
                         -118.307222,
@@ -7291,7 +7291,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Finbars Church",
-                  "text": "Eine katholische Kirche in Burbank, Kalifornien.",
+                  "text": "Die Saint Finbars Church in Sign ist eine römisch-katholische Kirche im spanischen Kolonialstil.",
                   "category": "religious",
                   "coords": [
                         -118.325821,
@@ -7363,7 +7363,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Toyon Canyon Closed Landfill",
-                  "text": "Ein Park, der aus einer geschlossenen Mülldeponie entstanden ist, im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Der Toyon Canyon Closed Landfill in Sign ist ein 160 Hektar großer Park auf einer ehemaligen Mülldeponie im Griffith Park.",
                   "category": "park",
                   "coords": [
                         -118.301217,
@@ -7390,7 +7390,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grand Central Airport Terminal",
-                  "text": "Ein Museum in einem historischen Flughafenterminal im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Das Grand Central Airport Terminal in Sign ist ein historisches Flughafenterminal von 1929, das heute ein Museum ist.",
                   "category": "museum",
                   "coords": [
                         -118.286688,
@@ -7462,7 +7462,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Lutheran Church",
-                  "text": "Eine lutherische Kirche im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "First Lutheran Church in Sign, eine kleine weiße Holzkirche.",
                   "category": "religious",
                   "coords": [
                         -118.2975,
@@ -7480,7 +7480,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church of Burbank",
-                  "text": "Eine presbyterianische Kirche im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Die First Presbyterian Church of Burbank in Sign ist eine 1950 erbaute presbyterianische Kirche.",
                   "category": "religious",
                   "coords": [
                         -118.305169,
@@ -7498,7 +7498,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Methodist Church of Burbank",
-                  "text": "Eine methodistische Kirche im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Die First Methodist Church of Burbank in Sign ist eine 1957 erbaute methodistische Kirche.",
                   "category": "religious",
                   "coords": [
                         -118.312062,
@@ -7507,7 +7507,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emmanuel Evangelical Free Church",
-                  "text": "Eine evangelische Freikirche im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Die Emmanuel Evangelical Free Church in Sign ist eine 1930 erbaute evangelisch-freikirchliche Kirche.",
                   "category": "religious",
                   "coords": [
                         -118.310744,
@@ -7525,7 +7525,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
-                  "text": "Eine Kirche der Heiligen der Letzten Tage im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Die Kirche Jesu Christi der Heiligen der Letzten Tage in Sign ist eine 1926 erbaute Kirche der HLT.",
                   "category": "religious",
                   "coords": [
                         -118.29707,
@@ -7543,7 +7543,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Christian Church",
-                  "text": "Eine christliche Kirche im Gebiet hollywood-sign-landmarks-v2.",
+                  "text": "Die First Christian Church in Sign ist eine 1957 erbaute christliche Kirche.",
                   "category": "religious",
                   "coords": [
                         -118.302719,
@@ -7554,7 +7554,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Roslin Art Gallery",
-                  "text": "Művészeti galéria a Hollywood környékén.",
+                  "text": "A Sign-i Roslin Art Gallery egy közösségi művészeti galéria Burbank kulturális negyedében.",
                   "category": "museum",
                   "coords": [
                         -118.255719,
@@ -7599,7 +7599,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burbank City Hall Annex",
-                  "text": "A Burbank Városháza melléképülete Kaliforniában.",
+                  "text": "A Sign-i Burbank City Hall Annex egy 1940-es években épült történelmi városháza a belvárosban.",
                   "category": "historical",
                   "coords": [
                         -118.307222,
@@ -7608,7 +7608,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Finbars Church",
-                  "text": "Katolikus templom Burbankben, Kaliforniában.",
+                  "text": "A Sign-i Saint Finbars Church egy spanyol gyarmati stílusú római katolikus templom.",
                   "category": "religious",
                   "coords": [
                         -118.325821,
@@ -7680,7 +7680,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Toyon Canyon Closed Landfill",
-                  "text": "Egy zárt szemétlerakóból létrehozott park a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i Toyon Canyon Closed Landfill egy 160 hektáros park egy volt szemétlerakó helyén a Griffith Parkban.",
                   "category": "park",
                   "coords": [
                         -118.301217,
@@ -7707,7 +7707,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grand Central Airport Terminal",
-                  "text": "Egy történelmi repülőtéri terminálban elhelyezkedő múzeum a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i Grand Central Airport Terminal egy 1929-ben épült történelmi repülőtéri terminál, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -118.286688,
@@ -7779,7 +7779,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Lutheran Church",
-                  "text": "Egy evangélikus templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "Első lutheránus templom Signben, egy kis fehér fatemplom.",
                   "category": "religious",
                   "coords": [
                         -118.2975,
@@ -7797,7 +7797,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church of Burbank",
-                  "text": "Egy presbiteriánus templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i First Presbyterian Church of Burbank egy 1950-ben épült presbiteriánus templom.",
                   "category": "religious",
                   "coords": [
                         -118.305169,
@@ -7815,7 +7815,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Methodist Church of Burbank",
-                  "text": "Egy metodista templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i First Methodist Church of Burbank egy 1957-ben épült metodista templom.",
                   "category": "religious",
                   "coords": [
                         -118.312062,
@@ -7824,7 +7824,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emmanuel Evangelical Free Church",
-                  "text": "Egy evangélikus szabad templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i Emmanuel Evangelical Free Church egy 1930-ban épült evangélikus szabadegyház.",
                   "category": "religious",
                   "coords": [
                         -118.310744,
@@ -7842,7 +7842,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
-                  "text": "Egy Utolsó Napok Szentjei templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i Az Utolsó Napi Szentek Jézus Krisztus Egyháza egy 1926-ban épült egyház.",
                   "category": "religious",
                   "coords": [
                         -118.29707,
@@ -7860,7 +7860,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Christian Church",
-                  "text": "Egy keresztény templom a hollywood-sign-landmarks-v2 területén.",
+                  "text": "A Sign-i First Christian Church egy 1957-ben épült keresztény templom.",
                   "category": "religious",
                   "coords": [
                         -118.302719,
@@ -7871,7 +7871,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Roslin Art Gallery",
-                  "text": "O galerie de artă în zona Hollywood.",
+                  "text": "Roslin Art Gallery din Sign este o galerie de artă comunitară în cartierul cultural din Burbank.",
                   "category": "museum",
                   "coords": [
                         -118.255719,
@@ -7916,7 +7916,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burbank City Hall Annex",
-                  "text": "O anexă a primăriei orașului Burbank din California.",
+                  "text": "Anexa Primăriei Burbank din Sign este o clădire municipală istorică din anii 1940 în centrul civic.",
                   "category": "historical",
                   "coords": [
                         -118.307222,
@@ -7925,7 +7925,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Finbars Church",
-                  "text": "O biserică catolică în Burbank, California.",
+                  "text": "Biserica Sf. Finbar din Sign este o biserică romano-catolică în stil colonial spaniol.",
                   "category": "religious",
                   "coords": [
                         -118.325821,
@@ -7997,7 +7997,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Toyon Canyon Closed Landfill",
-                  "text": "Un parc creat dintr-o groapă de gunoi închisă în zona hollywood-sign-landmarks-v2.",
+                  "text": "Toyon Canyon Closed Landfill din Sign este un parc de 160 de acri pe o fostă groapă de gunoi din Griffith Park.",
                   "category": "park",
                   "coords": [
                         -118.301217,
@@ -8024,7 +8024,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grand Central Airport Terminal",
-                  "text": "Un muzeu găzduit într-un terminal de aeroport istoric în zona hollywood-sign-landmarks-v2.",
+                  "text": "Terminalul Aeroportului Grand Central din Sign este un terminal istoric de aeroport din 1929 transformat în muzeu.",
                   "category": "museum",
                   "coords": [
                         -118.286688,
@@ -8096,7 +8096,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Lutheran Church",
-                  "text": "O biserică luterană situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "Prima Biserică Luterană din Sign, o bisericuță albă din lemn.",
                   "category": "religious",
                   "coords": [
                         -118.2975,
@@ -8114,7 +8114,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church of Burbank",
-                  "text": "O biserică prezbiteriană situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "First Presbyterian Church of Burbank din Sign este o biserică prezbiteriană construită în 1950.",
                   "category": "religious",
                   "coords": [
                         -118.305169,
@@ -8132,7 +8132,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Methodist Church of Burbank",
-                  "text": "O biserică metodistă situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "First Methodist Church of Burbank din Sign este o biserică metodistă construită în 1957.",
                   "category": "religious",
                   "coords": [
                         -118.312062,
@@ -8141,7 +8141,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emmanuel Evangelical Free Church",
-                  "text": "O biserică evanghelică liberă situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "Emmanuel Evangelical Free Church din Sign este o biserică evanghelică liberă construită în 1930.",
                   "category": "religious",
                   "coords": [
                         -118.310744,
@@ -8159,7 +8159,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
-                  "text": "O biserică a Sfinților din Zilele din Urmă situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă din Sign este o biserică SZU construită în 1926.",
                   "category": "religious",
                   "coords": [
                         -118.29707,
@@ -8177,7 +8177,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Christian Church",
-                  "text": "O biserică creștină situată în zona hollywood-sign-landmarks-v2.",
+                  "text": "First Christian Church din Sign este o biserică creștină construită în 1957.",
                   "category": "religious",
                   "coords": [
                         -118.302719,
@@ -8188,7 +8188,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Roslin Art Gallery",
-                  "text": "An art gallery in the Hollywood area.",
+                  "text": "Roslin Art Gallery in Sign is a community art gallery in the cultural district of Burbank.",
                   "category": "museum",
                   "coords": [
                         -118.255719,
@@ -8233,7 +8233,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burbank City Hall Annex",
-                  "text": "An annex to Burbank City Hall in California.",
+                  "text": "Burbank City Hall Annex in Sign is a historic municipal building from the 1940s in the civic center.",
                   "category": "historical",
                   "coords": [
                         -118.307222,
@@ -8242,7 +8242,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Finbars Church",
-                  "text": "A Catholic church in Burbank, California.",
+                  "text": "St. Finbar's Church in Sign is a Roman Catholic church in Spanish Colonial Revival style.",
                   "category": "religious",
                   "coords": [
                         -118.325821,
@@ -8314,7 +8314,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Toyon Canyon Closed Landfill",
-                  "text": "A park created from a closed landfill in the hollywood-sign-landmarks-v2 area.",
+                  "text": "Toyon Canyon Closed Landfill in Sign is a 160-acre park on a former landfill within Griffith Park.",
                   "category": "park",
                   "coords": [
                         -118.301217,
@@ -8341,7 +8341,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grand Central Airport Terminal",
-                  "text": "A museum housed in a historic airport terminal in the hollywood-sign-landmarks-v2 area.",
+                  "text": "Grand Central Airport Terminal in Sign is a historic 1929 airport terminal turned museum.",
                   "category": "museum",
                   "coords": [
                         -118.286688,
@@ -8413,7 +8413,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Lutheran Church",
-                  "text": "A Lutheran church located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "First Lutheran Church in Sign, a small white wooden church.",
                   "category": "religious",
                   "coords": [
                         -118.2975,
@@ -8431,7 +8431,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church of Burbank",
-                  "text": "A Presbyterian church located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "First Presbyterian Church of Burbank in Sign is a Presbyterian church built in 1950.",
                   "category": "religious",
                   "coords": [
                         -118.305169,
@@ -8449,7 +8449,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Methodist Church of Burbank",
-                  "text": "A Methodist church located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "First Methodist Church of Burbank in Sign is a Methodist church built in 1957.",
                   "category": "religious",
                   "coords": [
                         -118.312062,
@@ -8458,7 +8458,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emmanuel Evangelical Free Church",
-                  "text": "An Evangelical Free church located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "Emmanuel Evangelical Free Church in Sign is an evangelical free church built in 1930.",
                   "category": "religious",
                   "coords": [
                         -118.310744,
@@ -8476,7 +8476,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
-                  "text": "A Latter-day Saint church located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "The Church of Jesus Christ of Latter-day Saints in Sign is an LDS church built in 1926.",
                   "category": "religious",
                   "coords": [
                         -118.29707,
@@ -8494,7 +8494,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "First Christian Church",
-                  "text": "A Christian church located in the hollywood-sign-landmarks-v2 area.",
+                  "text": "First Christian Church in Sign is a Christian church built in 1957.",
                   "category": "religious",
                   "coords": [
                         -118.302719,
@@ -8550,7 +8550,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Stabler-Leadbeater Apothecary Musuem",
-                  "text": "Das Stabler-Leadbeater Apothecary Museum ist eine historische Apotheke im Raum Washington, D.C.",
+                  "text": "Das Stabler-Leadbeater Apothecary Museum in Memorial ist eine historische Apotheke von 1792, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         -77.04275,
@@ -8586,7 +8586,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kreeger Museum",
-                  "text": "Das Kreeger Museum ist ein Museum für moderne Kunst in Washington, D.C.",
+                  "text": "Das Kreeger Museum in Memorial ist ein Museum für moderne Kunst in einem neoklassizistischen Gebäude von Philip Johnson.",
                   "category": "museum",
                   "coords": [
                         -77.088789,
@@ -8595,7 +8595,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of American Diplomacy",
-                  "text": "Das National Museum of American Diplomacy ist ein Museum in Washington, D.C., das sich auf die Geschichte der US-Diplomatie konzentriert.",
+                  "text": "Das National Museum of American Diplomacy in Memorial ist ein Museum zur Geschichte der US-Diplomatie im Außenministerium.",
                   "category": "museum",
                   "coords": [
                         -77.047032,
@@ -8631,7 +8631,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Koreakriegsveteranen-Denkmal",
-                  "text": "Das Korean War Veterans Memorial ist ein Denkmal auf der National Mall in Washington, D.C., das die Veteranen des Koreakrieges ehrt.",
+                  "text": "Das Korean War Veterans Memorial in Memorial ist ein Denkmal mit 19 Edelstahlsoldaten auf der National Mall.",
                   "category": "historical",
                   "coords": [
                         -77.04755,
@@ -8766,7 +8766,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Upton Hill",
-                  "text": "Upton Hill ist ein Hügel im Bereich der Lincoln-Memorial-Sehenswürdigkeiten.",
+                  "text": "Der Upton Hill in Memorial ist ein Hügel mit Bürgerkriegs-Erdwallen.",
                   "category": "natural",
                   "coords": [
                         -77.1465,
@@ -8829,7 +8829,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Inventors Hall of Fame and Museum",
-                  "text": "Das National Inventors Hall of Fame and Museum ist ein Museum zu Ehren von Erfindern im Bereich der Lincoln-Memorial-Sehenswürdigkeiten.",
+                  "text": "National Inventors Hall of Fame and Museum in Memorial, das berühmte Erfinder und ihre Patente zeigt.",
                   "category": "museum",
                   "coords": [
                         -77.064193,
@@ -8838,7 +8838,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ball-Sellers House",
-                  "text": "Das Ball-Sellers House ist ein historisches Hausmuseum im Bereich der Lincoln-Memorial-Sehenswürdigkeiten.",
+                  "text": "Das Ball-Sellers House in Memorial ist das älteste Haus in Arlington, erbaut um 1742.",
                   "category": "museum",
                   "coords": [
                         -77.124969,
@@ -8865,7 +8865,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Queen City",
-                  "text": "Das Queen City ist ein Denkmal im Bereich der Lincoln-Memorial-Sehenswürdigkeiten.",
+                  "text": "Queen City, eine historische Siedlung in Memorial aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -77.055491,
@@ -8874,7 +8874,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alexandria City Hall",
-                  "text": "Das Alexandria City Hall ist das Rathaus von Alexandria im Bereich der Lincoln-Memorial-Sehenswürdigkeiten.",
+                  "text": "Alexandria City Hall, ein historisches Rathaus in Memorial mit neoklassizistischer Fassade.",
                   "category": "historical",
                   "coords": [
                         -77.042909,
@@ -8883,7 +8883,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Women in Military Service for America Memorial",
-                  "text": "Das Women in Military Service for America Memorial ist ein Denkmal zur Würdigung von Frauen im Militär im Bereich der Lincoln-Memorial-Sehenswürdigkeiten.",
+                  "text": "Women in Military Service for America Memorial, ein Denkmal am Eingang zum Arlington National Cemetery.",
                   "category": "historical",
                   "coords": [
                         -77.068543,
@@ -8894,7 +8894,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Stabler-Leadbeater Apothecary Musuem",
-                  "text": "A Stabler-Leadbeater Apothecary Museum egy történelmi patika a Washington, D.C. környékén.",
+                  "text": "A Memorial-i Stabler-Leadbeater Apothecary Museum egy 1792-es történelmi patika, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -77.04275,
@@ -8930,7 +8930,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kreeger Museum",
-                  "text": "A Kreeger Museum a modern művészet múzeuma Washington, D.C.-ben.",
+                  "text": "A Memorial-i Kreeger Museum egy modern művészeti múzeum Philip Johnson neoklasszikus épületében.",
                   "category": "museum",
                   "coords": [
                         -77.088789,
@@ -8939,7 +8939,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of American Diplomacy",
-                  "text": "A National Museum of American Diplomacy egy múzeum Washington, D.C.-ben, amely az amerikai diplomácia történetére összpontosít.",
+                  "text": "A Memorial-i National Museum of American Diplomacy egy múzeum az amerikai diplomácia történetéről a Külügyminisztériumban.",
                   "category": "museum",
                   "coords": [
                         -77.047032,
@@ -8975,7 +8975,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Korean War Veterans Memorial",
-                  "text": "A Korean War Veterans Memorial egy emlékmű a National Mallon Washington, D.C.-ben, amely a koreai háború veteránjait tiszteli.",
+                  "text": "A Memorial-i Korean War Veterans Memorial egy emlékmű 19 rozsdamentes acél katonával a National Mall-on.",
                   "category": "historical",
                   "coords": [
                         -77.04755,
@@ -9110,7 +9110,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Upton Hill",
-                  "text": "Az Upton Hill egy domb a Lincoln Memorial látnivalók területén.",
+                  "text": "A Memorial-i Upton Hill egy domb a polgárháború földsáncaival.",
                   "category": "natural",
                   "coords": [
                         -77.1465,
@@ -9173,7 +9173,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Inventors Hall of Fame and Museum",
-                  "text": "A National Inventors Hall of Fame and Museum egy feltalálókat tisztelő múzeum a Lincoln Memorial látnivalók területén.",
+                  "text": "Nemzeti Feltalálók Hírességek Csarnoka és Múzeuma Memorialban, híres találmányokkal.",
                   "category": "museum",
                   "coords": [
                         -77.064193,
@@ -9182,7 +9182,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ball-Sellers House",
-                  "text": "A Ball-Sellers House egy történelmi házmúzeum a Lincoln Memorial látnivalók területén.",
+                  "text": "A Memorial-i Ball-Sellers House a legrégebbi ház Arlingtonban, 1742 körül épült.",
                   "category": "museum",
                   "coords": [
                         -77.124969,
@@ -9209,7 +9209,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Queen City",
-                  "text": "A Queen City egy emlékmű a Lincoln Memorial látnivalók területén.",
+                  "text": "Queen City, egy történelmi település Memorialban a 19. századból.",
                   "category": "historical",
                   "coords": [
                         -77.055491,
@@ -9218,7 +9218,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alexandria City Hall",
-                  "text": "Az Alexandria City Hall Alexandria városháza a Lincoln Memorial látnivalók területén.",
+                  "text": "Alexandria városháza, egy történelmi épület Memorialban, neoklasszikus homlokzattal.",
                   "category": "historical",
                   "coords": [
                         -77.042909,
@@ -9227,7 +9227,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Women in Military Service for America Memorial",
-                  "text": "A Women in Military Service for America Memorial egy emlékmű, amely a katonai szolgálatot teljesítő nőket tiszteli a Lincoln Memorial látnivalók területén.",
+                  "text": "Nők a Katonai Szolgálatban Emlékmű, az Arlington Nemzeti Temető bejáratánál.",
                   "category": "historical",
                   "coords": [
                         -77.068543,
@@ -9238,7 +9238,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Stabler-Leadbeater Apothecary Musuem",
-                  "text": "Muzeul Farmaciei Stabler-Leadbeater este o farmacie istorică în zona Washington, D.C.",
+                  "text": "Muzeul Farmaciei Stabler-Leadbeater din Memorial este o farmacie istorică din 1792 transformată în muzeu.",
                   "category": "museum",
                   "coords": [
                         -77.04275,
@@ -9274,7 +9274,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kreeger Museum",
-                  "text": "Muzeul Kreeger este un muzeu de artă modernă în Washington, D.C.",
+                  "text": "Muzeul Kreeger din Memorial este un muzeu de artă modernă într-o clădire neoclasică proiectată de Philip Johnson.",
                   "category": "museum",
                   "coords": [
                         -77.088789,
@@ -9283,7 +9283,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of American Diplomacy",
-                  "text": "Muzeul Național al Diplomației Americane este un muzeu în Washington, D.C., care se concentrează pe istoria diplomației SUA.",
+                  "text": "Muzeul Național al Diplomației Americane din Memorial este un muzeu al istoriei diplomației SUA la Departamentul de Stat.",
                   "category": "museum",
                   "coords": [
                         -77.047032,
@@ -9319,7 +9319,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Korean War Veterans Memorial",
-                  "text": "Memorialul Veteranilor din Războiul Coreean este un monument pe National Mall din Washington, D.C., care onorează veteranii războiului coreean.",
+                  "text": "Memorialul Veteranilor Războiului din Coreea din Memorial este un monument cu 19 soldați din oțel inoxidabil pe National Mall.",
                   "category": "historical",
                   "coords": [
                         -77.04755,
@@ -9454,7 +9454,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Upton Hill",
-                  "text": "Upton Hill este un deal în zona reperelor Lincoln Memorial.",
+                  "text": "Upton Hill din Memorial este o colină cu fortificații de pământ din Războiul Civil.",
                   "category": "natural",
                   "coords": [
                         -77.1465,
@@ -9517,7 +9517,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Inventors Hall of Fame and Museum",
-                  "text": "National Inventors Hall of Fame and Museum este un muzeu care onorează inventatorii în zona reperelor Lincoln Memorial.",
+                  "text": "Muzeul și Sala Famei Inventatorilor Naționali din Memorial, prezentând invenții celebre.",
                   "category": "museum",
                   "coords": [
                         -77.064193,
@@ -9526,7 +9526,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ball-Sellers House",
-                  "text": "Ball-Sellers House este un muzeu de casă istorică în zona reperelor Lincoln Memorial.",
+                  "text": "Ball-Sellers House din Memorial este cea mai veche casă din Arlington, construită în jurul anului 1742.",
                   "category": "museum",
                   "coords": [
                         -77.124969,
@@ -9553,7 +9553,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Queen City",
-                  "text": "Queen City este un monument în zona reperelor Lincoln Memorial.",
+                  "text": "Queen City, o așezare istorică în Memorial din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         -77.055491,
@@ -9562,7 +9562,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alexandria City Hall",
-                  "text": "Primăria orașului Alexandria este primăria locală în zona reperelor Lincoln Memorial.",
+                  "text": "Primăria Alexandria, o clădire istorică în Memorial, cu fațadă neoclasică.",
                   "category": "historical",
                   "coords": [
                         -77.042909,
@@ -9571,7 +9571,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Women in Military Service for America Memorial",
-                  "text": "Memorialul Femeilor în Serviciul Militar pentru America este un monument care onorează femeile în armată în zona reperelor Lincoln Memorial.",
+                  "text": "Memorialul Femeilor în Serviciul Militar pentru America, la intrarea în Cimitirul Național Arlington.",
                   "category": "historical",
                   "coords": [
                         -77.068543,
@@ -9582,7 +9582,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Stabler-Leadbeater Apothecary Musuem",
-                  "text": "The Stabler-Leadbeater Apothecary Museum is a historic apothecary shop in the Washington, D.C., area.",
+                  "text": "Stabler-Leadbeater Apothecary Museum in Memorial is a historic 1792 apothecary shop turned museum.",
                   "category": "museum",
                   "coords": [
                         -77.04275,
@@ -9618,7 +9618,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kreeger Museum",
-                  "text": "The Kreeger Museum is a museum of modern art in Washington, D.C.",
+                  "text": "Kreeger Museum in Memorial is a modern art museum in a Philip Johnson-designed neoclassical building.",
                   "category": "museum",
                   "coords": [
                         -77.088789,
@@ -9627,7 +9627,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of American Diplomacy",
-                  "text": "The National Museum of American Diplomacy is a museum in Washington, D.C., focusing on the history of U.S. diplomacy.",
+                  "text": "National Museum of American Diplomacy in Memorial is a museum at the State Department tracing U.S. diplomatic history.",
                   "category": "museum",
                   "coords": [
                         -77.047032,
@@ -9663,7 +9663,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Korean War Veterans Memorial",
-                  "text": "The Korean War Veterans Memorial is a monument on the National Mall in Washington, D.C., honoring veterans of the Korean War.",
+                  "text": "Korean War Veterans Memorial in Memorial is a memorial on the National Mall with 19 stainless steel soldier statues.",
                   "category": "historical",
                   "coords": [
                         -77.04755,
@@ -9798,7 +9798,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Upton Hill",
-                  "text": "Upton Hill is a peak in the Lincoln Memorial landmarks area.",
+                  "text": "Upton Hill in Memorial is a hill with Civil War earthworks.",
                   "category": "natural",
                   "coords": [
                         -77.1465,
@@ -9861,7 +9861,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Inventors Hall of Fame and Museum",
-                  "text": "The National Inventors Hall of Fame and Museum is a museum honoring inventors in the Lincoln Memorial landmarks area.",
+                  "text": "National Inventors Hall of Fame and Museum in Memorial, displaying famous inventions and patents.",
                   "category": "museum",
                   "coords": [
                         -77.064193,
@@ -9870,7 +9870,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ball-Sellers House",
-                  "text": "The Ball-Sellers House is a historic house museum in the Lincoln Memorial landmarks area.",
+                  "text": "Ball-Sellers House in Memorial is the oldest house in Arlington, built c. 1742.",
                   "category": "museum",
                   "coords": [
                         -77.124969,
@@ -9897,7 +9897,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Queen City",
-                  "text": "Queen City is a monument in the Lincoln Memorial landmarks area.",
+                  "text": "Queen City, a historical settlement in Memorial from the 19th century.",
                   "category": "historical",
                   "coords": [
                         -77.055491,
@@ -9906,7 +9906,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alexandria City Hall",
-                  "text": "Alexandria City Hall is the town hall of Alexandria in the Lincoln Memorial landmarks area.",
+                  "text": "Alexandria City Hall, a historic municipal building in Memorial with a neoclassical facade.",
                   "category": "historical",
                   "coords": [
                         -77.042909,
@@ -9915,7 +9915,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Women in Military Service for America Memorial",
-                  "text": "The Women in Military Service for America Memorial is a monument honoring women in the military in the Lincoln Memorial landmarks area.",
+                  "text": "Women in Military Service for America Memorial, at the entrance to Arlington National Cemetery.",
                   "category": "historical",
                   "coords": [
                         -77.068543,
@@ -9989,7 +9989,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Art Museum of the Americas",
-                  "text": "Das Art Museum of the Americas ist ein Museum für moderne und zeitgenössische Kunst aus Lateinamerika und der Karibik.",
+                  "text": "Das Art Museum of the Americas in Monument ist ein Museum für lateinamerikanische Kunst im OAS-Gebäude.",
                   "category": "museum",
                   "coords": [
                         -77.041485,
@@ -10079,7 +10079,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Mason Memorial Bridge",
-                  "text": "Die George Mason Memorial Bridge ist eine Brücke auf dem George Washington Memorial Parkway, die die US 50 führt.",
+                  "text": "Die George Mason Memorial Bridge in Monument ist eine 7-spurige Brücke über den Potomac River.",
                   "category": "landmark",
                   "coords": [
                         -77.041731,
@@ -10151,7 +10151,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Mall",
-                  "text": "The Mall ist ein großer öffentlicher Park in Washington, D.C., identisch mit der National Mall.",
+                  "text": "The Mall in Monument ist die National Mall, ein Park mit Denkmälern und Museen zwischen Kapitol und Lincoln Memorial.",
                   "category": "park",
                   "coords": [
                         -77.023498,
@@ -10178,7 +10178,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Torpedo Factory Art Center",
-                  "text": "Die Torpedo Factory Art Center in Washington, D.C. ist eine Galerie in einer ehemaligen Torpedofabrik.",
+                  "text": "Torpedo Factory Art Center, ein Kunstzentrum in Monument in einer ehemaligen Torpedofabrik.",
                   "category": "museum",
                   "coords": [
                         -77.039809,
@@ -10187,7 +10187,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freer Gallery of Art",
-                  "text": "Die Freer Gallery of Art in Washington, D.C. ist ein Smithsonian-Museum für asiatische Kunst.",
+                  "text": "Die Freer Gallery of Art in Monument ist ein Smithsonian-Museum für asiatische Kunst, eröffnet 1923 mit dem Pfauenraum.",
                   "category": "museum",
                   "coords": [
                         -77.027347,
@@ -10205,7 +10205,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holocaust-Gedenkmuseum",
-                  "text": "Das U.S. Holocaust Memorial Museum in Washington, D.C. ist eine Gedenkstätte und ein Museum zum Holocaust.",
+                  "text": "U.S. Holocaust Memorial Museum in Monument, das die Geschichte des Holocaust dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -77.032709,
@@ -10232,7 +10232,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Francis Case Memorial Bridge",
-                  "text": "Die Francis Case Memorial Bridge in Washington, D.C. ist eine nach Senator Francis Case benannte Brücke.",
+                  "text": "Francis Case Memorial Bridge, eine Brücke in Monument über den Potomac River.",
                   "category": "landmark",
                   "coords": [
                         -77.030019,
@@ -10241,7 +10241,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Knapp Memorial Arch",
-                  "text": "Der Knapp Memorial Arch in Washington, D.C. ist ein bogenförmige Brücke.",
+                  "text": "Knapp Memorial Arch, ein steinerner Bogen in Monument.",
                   "category": "landmark",
                   "coords": [
                         -77.028762,
@@ -10250,7 +10250,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian National Carousel",
-                  "text": "Das Smithsonian National Carousel in Washington, D.C. ist ein historisches Karussell auf der National Mall.",
+                  "text": "Smithsonian National Carousel, ein historisches Karussell auf der National Mall in Monument.",
                   "category": "landmark",
                   "coords": [
                         -77.02458,
@@ -10259,7 +10259,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wilson Memorial Arch",
-                  "text": "Der Wilson Memorial Arch in Washington, D.C. ist ein bogenförmige Brücke.",
+                  "text": "Wilson Memorial Arch, ein dem Präsidenten Woodrow Wilson gewidmeter Bogen in Monument.",
                   "category": "landmark",
                   "coords": [
                         -77.031239,
@@ -10268,7 +10268,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Long Bridge",
-                  "text": "Die Long Bridge in Washington, D.C. ist eine Eisenbahnbrücke über den Potomac.",
+                  "text": "Long Bridge, eine historische Eisenbahnbrücke in Monument über den Potomac.",
                   "category": "landmark",
                   "coords": [
                         -77.038754,
@@ -10297,7 +10297,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Art Museum of the Americas",
-                  "text": "Az Art Museum of the Americas a latin-amerikai és karibi modern és kortárs művészet múzeuma.",
+                  "text": "A Monument-i Art Museum of the Americas egy latin-amerikai művészeti múzeum az OAS épületében.",
                   "category": "museum",
                   "coords": [
                         -77.041485,
@@ -10387,7 +10387,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Mason Memorial Bridge",
-                  "text": "A George Mason Memorial Bridge egy híd a George Washington Memorial Parkway-n, amely az US 50-et szállítja.",
+                  "text": "A Monument-i George Mason Memorial Bridge egy 7 sávos híd a Potomac folyón.",
                   "category": "landmark",
                   "coords": [
                         -77.041731,
@@ -10459,7 +10459,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Mall",
-                  "text": "A The Mall egy nagy nyilvános park Washingtonban, amely megegyezik a National Mall-lal.",
+                  "text": "A Monument-i The Mall a National Mall, egy park emlékművekkel és múzeumokkal a Capitolium és a Lincoln Memorial között.",
                   "category": "park",
                   "coords": [
                         -77.023498,
@@ -10486,7 +10486,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Torpedo Factory Art Center",
-                  "text": "A Torpedo Factory Art Center Washingtonban, D.C.-ben egy galéria egy egykori torpedógyárban.",
+                  "text": "Torpedo Factory Art Center, egy művészeti központ Monumentban, egykori torpedógyárban.",
                   "category": "museum",
                   "coords": [
                         -77.039809,
@@ -10495,7 +10495,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freer Gallery of Art",
-                  "text": "A Freer Gallery of Art Washingtonban, D.C.-ben egy Smithsonian múzeum, amely ázsiai művészetre specializálódott.",
+                  "text": "A Monument-i Freer Gallery of Art egy Smithsonian múzeum ázsiai művészetből, 1923-ban nyílt meg a Peacock Room-mal.",
                   "category": "museum",
                   "coords": [
                         -77.027347,
@@ -10513,7 +10513,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "U.S. Holocaust Memorial Museum",
-                  "text": "Az Egyesült Államok Holokauszt Emlékmúzeuma Washingtonban, D.C.-ben a holokausztnak állít emléket.",
+                  "text": "Amerikai Holokauszt Emlékmúzeum Monumentban, a holokauszt történetét bemutatva.",
                   "category": "museum",
                   "coords": [
                         -77.032709,
@@ -10540,7 +10540,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Francis Case Memorial Bridge",
-                  "text": "A Francis Case Memorial Bridge Washingtonban, D.C.-ben egy híd, amelyet Francis Case szenátorról neveztek el.",
+                  "text": "Francis Case Memorial Bridge, egy híd Monumentban a Potomac folyón.",
                   "category": "landmark",
                   "coords": [
                         -77.030019,
@@ -10549,7 +10549,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Knapp Memorial Arch",
-                  "text": "A Knapp Memorial Arch Washingtonban, D.C.-ben egy íves híd.",
+                  "text": "Knapp Memorial Arch, egy kőből készült emlékív Monumentban.",
                   "category": "landmark",
                   "coords": [
                         -77.028762,
@@ -10558,7 +10558,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian National Carousel",
-                  "text": "A Smithsonian National Carousel Washingtonban, D.C.-ben egy történelmi körhinta a National Mallon.",
+                  "text": "Smithsonian National Carousel, egy történelmi körhinta a National Mall-on Monumentban.",
                   "category": "landmark",
                   "coords": [
                         -77.02458,
@@ -10567,7 +10567,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wilson Memorial Arch",
-                  "text": "A Wilson Memorial Arch Washingtonban, D.C.-ben egy íves híd.",
+                  "text": "Wilson Memorial Arch, egy Woodrow Wilson elnöknek szentelt emlékív Monumentban.",
                   "category": "landmark",
                   "coords": [
                         -77.031239,
@@ -10576,7 +10576,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Long Bridge",
-                  "text": "A Long Bridge Washingtonban, D.C.-ben egy vasúti híd a Potomac folyó felett.",
+                  "text": "Long Bridge, egy történelmi vasúti híd Monumentban a Potomac folyón.",
                   "category": "landmark",
                   "coords": [
                         -77.038754,
@@ -10605,7 +10605,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Art Museum of the Americas",
-                  "text": "Muzeul de Artă al Americilor este un muzeu de artă modernă și contemporană din America Latină și Caraibe.",
+                  "text": "Muzeul de Artă al Americilor din Monument este un muzeu de artă latino-americană în clădirea OEA.",
                   "category": "museum",
                   "coords": [
                         -77.041485,
@@ -10695,7 +10695,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Mason Memorial Bridge",
-                  "text": "Podul Memorial George Mason este un pod pe George Washington Memorial Parkway care transportă US 50.",
+                  "text": "Podul Memorial George Mason din Monument este un pod cu 7 benzi peste râul Potomac.",
                   "category": "landmark",
                   "coords": [
                         -77.041731,
@@ -10767,7 +10767,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Mall",
-                  "text": "The Mall este un parc public mare din Washington, D.C., identic cu National Mall.",
+                  "text": "The Mall din Monument este National Mall, un parc cu monumente și muzee între Capitoliu și Lincoln Memorial.",
                   "category": "park",
                   "coords": [
                         -77.023498,
@@ -10794,7 +10794,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Torpedo Factory Art Center",
-                  "text": "Centrul de Artă Torpedo Factory din Washington, D.C. este o galerie situată într-o fostă fabrică de torpile.",
+                  "text": "Centrul de Artă Torpedo Factory din Monument, găzduit într-o fostă fabrică de torpile.",
                   "category": "museum",
                   "coords": [
                         -77.039809,
@@ -10803,7 +10803,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freer Gallery of Art",
-                  "text": "Galeriile de Artă Freer din Washington, D.C. sunt un muzeu Smithsonian dedicat artei asiatice.",
+                  "text": "Freer Gallery of Art din Monument este un muzeu Smithsonian de artă asiatică, deschis în 1923, cu Peacock Room.",
                   "category": "museum",
                   "coords": [
                         -77.027347,
@@ -10821,7 +10821,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "U.S. Holocaust Memorial Museum",
-                  "text": "Muzeul Memorial al Holocaustului din SUA din Washington, D.C. este un memorial și muzeu dedicat Holocaustului.",
+                  "text": "Muzeul Memorial al Holocaustului din SUA din Monument, care documentează istoria Holocaustului.",
                   "category": "museum",
                   "coords": [
                         -77.032709,
@@ -10848,7 +10848,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Francis Case Memorial Bridge",
-                  "text": "Podul Memorial Francis Case din Washington, D.C. este un pod numit după senatorul Francis Case.",
+                  "text": "Podul Memorial Francis Case din Monument, peste râul Potomac.",
                   "category": "landmark",
                   "coords": [
                         -77.030019,
@@ -10857,7 +10857,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Knapp Memorial Arch",
-                  "text": "Arcul Memorial Knapp din Washington, D.C. este un pod în formă de arc.",
+                  "text": "Arcul Memorial Knapp din Monument, un arc de piatră.",
                   "category": "landmark",
                   "coords": [
                         -77.028762,
@@ -10866,7 +10866,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian National Carousel",
-                  "text": "Caruselul Național Smithsonian din Washington, D.C. este un carusel istoric pe National Mall.",
+                  "text": "Caruselul Național Smithsonian din Monument, pe National Mall.",
                   "category": "landmark",
                   "coords": [
                         -77.02458,
@@ -10875,7 +10875,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wilson Memorial Arch",
-                  "text": "Arcul Memorial Wilson din Washington, D.C. este un pod în formă de arc.",
+                  "text": "Arcul Memorial Wilson din Monument, dedicat președintelui Woodrow Wilson.",
                   "category": "landmark",
                   "coords": [
                         -77.031239,
@@ -10884,7 +10884,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Long Bridge",
-                  "text": "Podul Lung din Washington, D.C. este un pod feroviar peste râul Potomac.",
+                  "text": "Podul Lung din Monument, un pod istoric de cale ferată peste Potomac.",
                   "category": "landmark",
                   "coords": [
                         -77.038754,
@@ -10913,7 +10913,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Art Museum of the Americas",
-                  "text": "The Art Museum of the Americas is a museum of modern and contemporary Latin American and Caribbean art.",
+                  "text": "Art Museum of the Americas in Monument is a museum of Latin American art in the OAS building.",
                   "category": "museum",
                   "coords": [
                         -77.041485,
@@ -11003,7 +11003,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George Mason Memorial Bridge",
-                  "text": "The George Mason Memorial Bridge is a bridge on the George Washington Memorial Parkway carrying US 50.",
+                  "text": "George Mason Memorial Bridge in Monument is a 7-lane bridge over the Potomac River.",
                   "category": "landmark",
                   "coords": [
                         -77.041731,
@@ -11075,7 +11075,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Mall",
-                  "text": "The Mall is a large public park in Washington, D.C., identical to the National Mall.",
+                  "text": "The Mall in Monument is the National Mall, a park lined with monuments and museums from the Capitol to the Lincoln Memorial.",
                   "category": "park",
                   "coords": [
                         -77.023498,
@@ -11102,7 +11102,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Torpedo Factory Art Center",
-                  "text": "The Torpedo Factory Art Center in Washington, D.C. is a gallery housed in a former torpedo factory.",
+                  "text": "Torpedo Factory Art Center in Monument, housed in a former torpedo factory.",
                   "category": "museum",
                   "coords": [
                         -77.039809,
@@ -11111,7 +11111,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freer Gallery of Art",
-                  "text": "The Freer Gallery of Art in Washington, D.C. is a Smithsonian museum dedicated to Asian art.",
+                  "text": "Freer Gallery of Art in Monument is a Smithsonian museum of Asian art, opened in 1923, featuring the Peacock Room.",
                   "category": "museum",
                   "coords": [
                         -77.027347,
@@ -11129,7 +11129,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "U.S. Holocaust Memorial Museum",
-                  "text": "The U.S. Holocaust Memorial Museum in Washington, D.C. is a memorial and museum dedicated to the Holocaust.",
+                  "text": "U.S. Holocaust Memorial Museum in Monument, documenting the Holocaust.",
                   "category": "museum",
                   "coords": [
                         -77.032709,
@@ -11156,7 +11156,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Francis Case Memorial Bridge",
-                  "text": "The Francis Case Memorial Bridge in Washington, D.C. is a bridge named after Senator Francis Case.",
+                  "text": "Francis Case Memorial Bridge in Monument, spanning the Potomac River.",
                   "category": "landmark",
                   "coords": [
                         -77.030019,
@@ -11165,7 +11165,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Knapp Memorial Arch",
-                  "text": "The Knapp Memorial Arch in Washington, D.C. is an arch-shaped bridge.",
+                  "text": "Knapp Memorial Arch, a stone arch in Monument.",
                   "category": "landmark",
                   "coords": [
                         -77.028762,
@@ -11174,7 +11174,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian National Carousel",
-                  "text": "The Smithsonian National Carousel in Washington, D.C. is a historic carousel on the National Mall.",
+                  "text": "Smithsonian National Carousel on the National Mall in Monument.",
                   "category": "landmark",
                   "coords": [
                         -77.02458,
@@ -11183,7 +11183,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wilson Memorial Arch",
-                  "text": "The Wilson Memorial Arch in Washington, D.C. is an arch-shaped bridge.",
+                  "text": "Wilson Memorial Arch in Monument, dedicated to President Woodrow Wilson.",
                   "category": "landmark",
                   "coords": [
                         -77.031239,
@@ -11192,7 +11192,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Long Bridge",
-                  "text": "Long Bridge in Washington, D.C. is a railroad bridge across the Potomac River.",
+                  "text": "Long Bridge, a historic railroad bridge in Monument over the Potomac River.",
                   "category": "landmark",
                   "coords": [
                         -77.038754,
@@ -11311,7 +11311,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grey Art Gallery",
-                  "text": "Die Grey Art Gallery in New York City ist das Kunstmuseum der New York University.",
+                  "text": "Die Grey Art Gallery in State Building ist ein Universitätskunstmuseum an der NYU für moderne und zeitgenössische Kunst.",
                   "category": "cultural",
                   "coords": [
                         -73.996123,
@@ -11320,7 +11320,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Classic Stage Company",
-                  "text": "Classic Stage Company in New York City ist ein Off-Broadway-Theater.",
+                  "text": "Die Classic Stage Company in State Building ist ein Off-Broadway-Theater im East Village mit klassischen Werken.",
                   "category": "cultural",
                   "coords": [
                         -73.988247,
@@ -11464,7 +11464,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square Green Market",
-                  "text": "Der Union Square Green Market in New York City ist ein berühmter Bauernmarkt.",
+                  "text": "Der Union Square Green Market in State Building ist ein ganzjähriger Bauernmarkt am Union Square.",
                   "category": "landmark",
                   "coords": [
                         -73.990036,
@@ -11610,7 +11610,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grey Art Gallery",
-                  "text": "A Grey Art Gallery New Yorkban a New York University művészeti múzeuma.",
+                  "text": "A State Building-i Grey Art Gallery egy egyetemi művészeti múzeum a NYU-n, modern és kortárs művészettel.",
                   "category": "cultural",
                   "coords": [
                         -73.996123,
@@ -11619,7 +11619,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Classic Stage Company",
-                  "text": "A Classic Stage Company New Yorkban egy Off-Broadway színház.",
+                  "text": "A State Building-i Classic Stage Company egy Off-Broadway színház az East Village-ben, klasszikus darabokkal.",
                   "category": "cultural",
                   "coords": [
                         -73.988247,
@@ -11763,7 +11763,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square Green Market",
-                  "text": "A Union Square Green Market New Yorkban egy híres termelői piac.",
+                  "text": "A State Building-i Union Square Green Market egy egész éves termelői piac a Union Square-en.",
                   "category": "landmark",
                   "coords": [
                         -73.990036,
@@ -11909,7 +11909,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grey Art Gallery",
-                  "text": "Grey Art Gallery din New York City este muzeul de artă al Universității New York.",
+                  "text": "Grey Art Gallery din State Building este un muzeu de artă universitar la NYU, axat pe arta modernă și contemporană.",
                   "category": "cultural",
                   "coords": [
                         -73.996123,
@@ -11918,7 +11918,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Classic Stage Company",
-                  "text": "Classic Stage Company din New York City este un teatru Off-Broadway.",
+                  "text": "Classic Stage Company din State Building este un teatru Off-Broadway în East Village, cu piese clasice.",
                   "category": "cultural",
                   "coords": [
                         -73.988247,
@@ -12062,7 +12062,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square Green Market",
-                  "text": "Union Square Green Market din New York City este o piață fermieră renumită.",
+                  "text": "Union Square Green Market din State Building este o piață țărănească pe tot parcursul anului în Union Square.",
                   "category": "landmark",
                   "coords": [
                         -73.990036,
@@ -12208,7 +12208,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Grey Art Gallery",
-                  "text": "Grey Art Gallery in New York City is the art museum of New York University.",
+                  "text": "Grey Art Gallery in State Building is a university art museum at NYU focusing on modern and contemporary art.",
                   "category": "cultural",
                   "coords": [
                         -73.996123,
@@ -12217,7 +12217,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Classic Stage Company",
-                  "text": "Classic Stage Company in New York City is an Off-Broadway theater.",
+                  "text": "Classic Stage Company in State Building is an Off-Broadway theater in the East Village performing classic works.",
                   "category": "cultural",
                   "coords": [
                         -73.988247,
@@ -12361,7 +12361,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square Green Market",
-                  "text": "Union Square Green Market in New York City is a famous farmers market.",
+                  "text": "Union Square Green Market in State Building is a year-round farmers market at Union Square.",
                   "category": "landmark",
                   "coords": [
                         -73.990036,
@@ -12597,7 +12597,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Market Park",
-                  "text": "Der Washington Market Park ist ein Park im Bereich des One World Trade Center.",
+                  "text": "Der Washington Market Park in World Trade Center ist ein 2,5 Hektar großer Park mit Spielplatz in Tribeca.",
                   "category": "park",
                   "coords": [
                         -74.011481,
@@ -12669,7 +12669,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Center for Architecture",
-                  "text": "Das Center for Architecture ist ein Museum im Bereich des One World Trade Center, das der Architektur gewidmet ist.",
+                  "text": "Center for Architecture im World Trade Center, mit wechselnden Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -73.998581,
@@ -12732,7 +12732,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cherry Lane Theatre",
-                  "text": "Das Cherry Lane Theatre ist ein Theater im Bereich des One World Trade Center.",
+                  "text": "Cherry Lane Theatre, das älteste Off-Broadway-Theater im World Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -74.00528,
@@ -12741,7 +12741,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Minetta Lane Theatre",
-                  "text": "Das Minetta Lane Theatre ist ein Theater in one-world-trade-center-landmarks-v2.",
+                  "text": "Minetta Lane Theatre, ein intimes Off-Broadway-Theater im World Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -74.001667,
@@ -12750,7 +12750,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United Synagogue of Hoboken",
-                  "text": "Die United Synagogue of Hoboken ist ein Gotteshaus in one-world-trade-center-landmarks-v2.",
+                  "text": "United Synagogue of Hoboken, eine jüdische Gemeinde im World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.033144,
@@ -12759,7 +12759,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Lucy's Roman Catholic Church",
-                  "text": "St. Lucy's Roman Catholic Church ist eine römisch-katholische Kirche in one-world-trade-center-landmarks-v2.",
+                  "text": "St. Lucy's römisch-katholische Kirche im World Trade Center, mit bunten Glasfenstern.",
                   "category": "religious",
                   "coords": [
                         -74.041398,
@@ -12768,7 +12768,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Nicholas Church",
-                  "text": "Die Saint Nicholas Church ist eine Kirche in one-world-trade-center-landmarks-v2.",
+                  "text": "St. Nicholas Greek Orthodox Church, nach 9/11 wiederaufgebaut im World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.051537,
@@ -12777,7 +12777,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Second Reformed Church",
-                  "text": "Die Second Reformed Church ist ein Gotteshaus in one-world-trade-center-landmarks-v2.",
+                  "text": "Second Reformed Church, eine reformierte Kirche aus dem 19. Jahrhundert im World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.05215,
@@ -12786,7 +12786,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harsimus Cove",
-                  "text": "Harsimus Cove ist eine Bucht in one-world-trade-center-landmarks-v2.",
+                  "text": "Harsimus Cove, eine Bucht im World Trade Center, ehemaliger Fähranleger.",
                   "category": "landmark",
                   "coords": [
                         -74.030258,
@@ -12795,7 +12795,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "North Cove Yacht Harbor",
-                  "text": "North Cove Yacht Harbor ist ein Yachthafen in one-world-trade-center-landmarks-v2.",
+                  "text": "North Cove Yacht Harbor, ein Yachthafen im World Trade Center mit Blick auf die Freiheitsstatue.",
                   "category": "landmark",
                   "coords": [
                         -74.01711,
@@ -12914,7 +12914,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Market Park",
-                  "text": "A Washington Market Park egy park a One World Trade Center környékén.",
+                  "text": "A World Trade Center-i Washington Market Park egy 2,5 hektáros park játszótérrel a Tribeca negyedben.",
                   "category": "park",
                   "coords": [
                         -74.011481,
@@ -12986,7 +12986,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Center for Architecture",
-                  "text": "A Center for Architecture egy múzeum a One World Trade Center környékén, amely az építészetnek van szentelve.",
+                  "text": "Építészeti Központ a World Trade Centerben, forgó kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -73.998581,
@@ -13049,7 +13049,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cherry Lane Theatre",
-                  "text": "A Cherry Lane Theatre egy színház a One World Trade Center környékén.",
+                  "text": "Cherry Lane Színház, a legrégebbi off-Broadway színház a World Trade Centerben.",
                   "category": "cultural",
                   "coords": [
                         -74.00528,
@@ -13058,7 +13058,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Minetta Lane Theatre",
-                  "text": "A Minetta Lane Theatre egy színház a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "Minetta Lane Színház, egy meghitt off-Broadway színház a World Trade Centerben.",
                   "category": "cultural",
                   "coords": [
                         -74.001667,
@@ -13067,7 +13067,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United Synagogue of Hoboken",
-                  "text": "A United Synagogue of Hoboken egy istentiszteleti hely a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "Hobokeni Egyesült Zsinagóga, egy zsidó közösség a World Trade Centerben.",
                   "category": "religious",
                   "coords": [
                         -74.033144,
@@ -13076,7 +13076,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Lucy's Roman Catholic Church",
-                  "text": "A St. Lucy's Roman Catholic Church egy római katolikus templom a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "Szent Lúcia római katolikus templom a World Trade Centerben, színes üvegablakokkal.",
                   "category": "religious",
                   "coords": [
                         -74.041398,
@@ -13085,7 +13085,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Nicholas Church",
-                  "text": "A Saint Nicholas Church egy templom a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "Szent Miklós görög ortodox templom, újjáépítve a 9/11 után a World Trade Centerben.",
                   "category": "religious",
                   "coords": [
                         -74.051537,
@@ -13094,7 +13094,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Second Reformed Church",
-                  "text": "A Second Reformed Church egy református templom a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "Második Református Egyház, egy 19. századi református templom a World Trade Centerben.",
                   "category": "religious",
                   "coords": [
                         -74.05215,
@@ -13103,7 +13103,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harsimus Cove",
-                  "text": "A Harsimus Cove egy öböl a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "Harsimus-öböl a World Trade Centerben, egykori kompkikötő.",
                   "category": "landmark",
                   "coords": [
                         -74.030258,
@@ -13112,7 +13112,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "North Cove Yacht Harbor",
-                  "text": "A North Cove Yacht Harbor egy jachtkikötő a one-world-trade-center-landmarks-v2-ben.",
+                  "text": "North Cove Yacht Harbor, egy yachtkikötő a World Trade Centerben, a Szabadság-szoborra néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         -74.01711,
@@ -13231,7 +13231,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Market Park",
-                  "text": "Washington Market Park este un parc în zona One World Trade Center.",
+                  "text": "Washington Market Park din World Trade Center este un parc de 2,5 acri cu loc de joacă în cartierul Tribeca.",
                   "category": "park",
                   "coords": [
                         -74.011481,
@@ -13303,7 +13303,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Center for Architecture",
-                  "text": "Center for Architecture este un muzeu în zona One World Trade Center, dedicat arhitecturii.",
+                  "text": "Centrul pentru Arhitectură din World Trade Center, cu expoziții rotative.",
                   "category": "museum",
                   "coords": [
                         -73.998581,
@@ -13366,7 +13366,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cherry Lane Theatre",
-                  "text": "Cherry Lane Theatre este un teatru în zona One World Trade Center.",
+                  "text": "Teatrul Cherry Lane, cel mai vechi teatru off-Broadway din World Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -74.00528,
@@ -13375,7 +13375,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Minetta Lane Theatre",
-                  "text": "Minetta Lane Theatre este un teatru în one-world-trade-center-landmarks-v2.",
+                  "text": "Teatrul Minetta Lane, un teatru intim off-Broadway în World Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -74.001667,
@@ -13384,7 +13384,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United Synagogue of Hoboken",
-                  "text": "United Synagogue of Hoboken este un lăcaș de cult în one-world-trade-center-landmarks-v2.",
+                  "text": "Sinagoga Unită din Hoboken, o comunitate evreiască în World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.033144,
@@ -13393,7 +13393,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Lucy's Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sfânta Lucia este un lăcaș de cult în one-world-trade-center-landmarks-v2.",
+                  "text": "Biserica Romano-Catolică Sfânta Lucia din World Trade Center, cu vitralii colorate.",
                   "category": "religious",
                   "coords": [
                         -74.041398,
@@ -13402,7 +13402,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Nicholas Church",
-                  "text": "Biserica Sfântul Nicolae este o biserică în one-world-trade-center-landmarks-v2.",
+                  "text": "Biserica Ortodoxă Greacă Sfântul Nicolae, reconstruită după 11 septembrie în World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.051537,
@@ -13411,7 +13411,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Second Reformed Church",
-                  "text": "Second Reformed Church este un lăcaș de cult reformat în one-world-trade-center-landmarks-v2.",
+                  "text": "A doua Biserică Reformată, o biserică reformată din secolul al XIX-lea în World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.05215,
@@ -13420,7 +13420,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harsimus Cove",
-                  "text": "Harsimus Cove este un golf în one-world-trade-center-landmarks-v2.",
+                  "text": "Golful Harsimus din World Trade Center, fost debarcader pentru feriboturi.",
                   "category": "landmark",
                   "coords": [
                         -74.030258,
@@ -13429,7 +13429,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "North Cove Yacht Harbor",
-                  "text": "North Cove Yacht Harbor este un port de iahturi în one-world-trade-center-landmarks-v2.",
+                  "text": "Portul de Yacht North Cove din World Trade Center, cu vedere spre Statuia Libertății.",
                   "category": "landmark",
                   "coords": [
                         -74.01711,
@@ -13548,7 +13548,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Washington Market Park",
-                  "text": "Washington Market Park is a park in the One World Trade Center area.",
+                  "text": "Washington Market Park in World Trade Center is a 2.5-acre park with a playground in the Tribeca neighborhood.",
                   "category": "park",
                   "coords": [
                         -74.011481,
@@ -13620,7 +13620,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Center for Architecture",
-                  "text": "Center for Architecture is a museum in the One World Trade Center area dedicated to architecture.",
+                  "text": "Center for Architecture in the World Trade Center, with rotating exhibitions.",
                   "category": "museum",
                   "coords": [
                         -73.998581,
@@ -13683,7 +13683,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cherry Lane Theatre",
-                  "text": "Cherry Lane Theatre is a theatre in the One World Trade Center area.",
+                  "text": "Cherry Lane Theatre, the oldest off-Broadway theater in the World Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -74.00528,
@@ -13692,7 +13692,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Minetta Lane Theatre",
-                  "text": "Minetta Lane Theatre is a theatre in one-world-trade-center-landmarks-v2.",
+                  "text": "Minetta Lane Theatre, an intimate off-Broadway theater in the World Trade Center.",
                   "category": "cultural",
                   "coords": [
                         -74.001667,
@@ -13701,7 +13701,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "United Synagogue of Hoboken",
-                  "text": "United Synagogue of Hoboken is a place of worship in one-world-trade-center-landmarks-v2.",
+                  "text": "United Synagogue of Hoboken, a Jewish congregation in the World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.033144,
@@ -13710,7 +13710,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Lucy's Roman Catholic Church",
-                  "text": "St. Lucy's Roman Catholic Church is a Roman Catholic church in one-world-trade-center-landmarks-v2.",
+                  "text": "St. Lucy's Roman Catholic Church in the World Trade Center, with stained glass windows.",
                   "category": "religious",
                   "coords": [
                         -74.041398,
@@ -13719,7 +13719,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Nicholas Church",
-                  "text": "Saint Nicholas Church is a church in one-world-trade-center-landmarks-v2.",
+                  "text": "Saint Nicholas Greek Orthodox Church, rebuilt after 9/11 in the World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.051537,
@@ -13728,7 +13728,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Second Reformed Church",
-                  "text": "Second Reformed Church is a Reformed church in one-world-trade-center-landmarks-v2.",
+                  "text": "Second Reformed Church, a 19th-century Reformed church in the World Trade Center.",
                   "category": "religious",
                   "coords": [
                         -74.05215,
@@ -13737,7 +13737,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harsimus Cove",
-                  "text": "Harsimus Cove is a bay in one-world-trade-center-landmarks-v2.",
+                  "text": "Harsimus Cove in the World Trade Center, a former ferry landing.",
                   "category": "landmark",
                   "coords": [
                         -74.030258,
@@ -13746,7 +13746,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "North Cove Yacht Harbor",
-                  "text": "North Cove Yacht Harbor is a yacht harbor in one-world-trade-center-landmarks-v2.",
+                  "text": "North Cove Yacht Harbor in the World Trade Center, with views of the Statue of Liberty.",
                   "category": "landmark",
                   "coords": [
                         -74.01711,
@@ -13829,7 +13829,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Transfiguration Roman Catholic Church",
-                  "text": "Die Transfiguration Roman Catholic Church ist eine römisch-katholische Kirche im Chrysler Building Wahrzeichen-Gebiet.",
+                  "text": "Die Transfiguration Roman Catholic Church in Building ist eine historische katholische Kirche in Manhattans Chinatown.",
                   "category": "religious",
                   "coords": [
                         -73.901345,
@@ -14036,7 +14036,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Adalbert Catholic Church",
-                  "text": "Die Saint Adalbert Catholic Church ist eine römisch-katholische Kirche im Chrysler Building Wahrzeichen-Gebiet.",
+                  "text": "St. Adalbert römisch-katholische Kirche in Building, eine polnische Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -73.882926,
@@ -14054,7 +14054,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "Die Saint James Episcopal Church ist eine episkopale Kirche im Chrysler Building Wahrzeichen-Gebiet.",
+                  "text": "St. James Episcopal Church in Building, im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -73.87792,
@@ -14063,7 +14063,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Presbyterian Church",
-                  "text": "Die New York Presbyterian Church ist eine protestantische Kirche im Chrysler Building Wahrzeichen-Gebiet.",
+                  "text": "New York Presbyterian Church, eine presbyterianische Kirche in Building.",
                   "category": "religious",
                   "coords": [
                         -73.918585,
@@ -14072,7 +14072,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodside Community Baptist Church",
-                  "text": "Die Woodside Community Baptist Church ist eine baptistische Kirche im Chrysler Building Wahrzeichen-Gebiet.",
+                  "text": "Woodside Community Baptist Church, eine Baptistengemeinde in Building im Stadtteil Woodside.",
                   "category": "religious",
                   "coords": [
                         -73.906554,
@@ -14081,7 +14081,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Winfield Reformed Church",
-                  "text": "Die Winfield Reformed Church ist ein Gotteshaus in chrysler-building-landmarks-v2.",
+                  "text": "Winfield Reformed Church, eine reformierte Kirche in Building, gegründet im 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -73.898477,
@@ -14090,7 +14090,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Roman Catholic Church",
-                  "text": "Die Holy Cross Roman Catholic Church ist ein Gotteshaus in chrysler-building-landmarks-v2.",
+                  "text": "Holy Cross römisch-katholische Kirche in Building, Teil der Diözese Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.903442,
@@ -14099,7 +14099,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "Die Saint Stanislaus Kostka Roman Catholic Church ist ein Gotteshaus in chrysler-building-landmarks-v2.",
+                  "text": "St. Stanislaus Kostka römisch-katholische Kirche, eine polnische Gemeinde in Building.",
                   "category": "religious",
                   "coords": [
                         -73.904228,
@@ -14108,7 +14108,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greenpoint Reformed Church",
-                  "text": "Die Greenpoint Reformed Church ist ein Gotteshaus in chrysler-building-landmarks-v2.",
+                  "text": "Greenpoint Reformed Church, eine reformierte Kirche in Building im Stadtteil Greenpoint, Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.954971,
@@ -14117,7 +14117,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Catholic Church",
-                  "text": "Die Holy Family Catholic Church ist ein Gotteshaus in chrysler-building-landmarks-v2.",
+                  "text": "Holy Family Catholic Church, eine katholische Kirche in Building mit mehrsprachigen Messen.",
                   "category": "religious",
                   "coords": [
                         -73.968556,
@@ -14126,7 +14126,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Agnes Catholic Church",
-                  "text": "Die Saint Agnes Catholic Church ist ein Gotteshaus in chrysler-building-landmarks-v2.",
+                  "text": "St. Agnes Catholic Church in Building, bekannt für das jährliche St. Agnes-Fest.",
                   "category": "religious",
                   "coords": [
                         -73.974453,
@@ -14135,7 +14135,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bushwick Inlet",
-                  "text": "Bushwick Inlet ist eine Bucht in chrysler-building-landmarks-v2.",
+                  "text": "Bushwick Inlet, eine Bucht in Building, Teil des Newtown Creek-Systems.",
                   "category": "landmark",
                   "coords": [
                         -73.960748,
@@ -14173,7 +14173,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Transfiguration Roman Catholic Church",
-                  "text": "A Transfiguration Roman Catholic Church egy római katolikus templom a Chrysler Building nevezetességek területén.",
+                  "text": "A Building-i Transfiguration Roman Catholic Church egy történelmi katolikus templom Manhattan Chinatown negyedében.",
                   "category": "religious",
                   "coords": [
                         -73.901345,
@@ -14380,7 +14380,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Adalbert Catholic Church",
-                  "text": "A Saint Adalbert Catholic Church egy római katolikus templom a Chrysler Building nevezetességek területén.",
+                  "text": "Szent Adalbert római katolikus templom Buildingben, lengyel közösség.",
                   "category": "religious",
                   "coords": [
                         -73.882926,
@@ -14398,7 +14398,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "A Saint James Episcopal Church egy episzkopális templom a Chrysler Building nevezetességek területén.",
+                  "text": "Szent Jakab episzkopális templom Buildingben, neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -73.87792,
@@ -14407,7 +14407,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Presbyterian Church",
-                  "text": "A New York Presbyterian Church egy protestáns templom a Chrysler Building nevezetességek területén.",
+                  "text": "New York Presbyterian Church, egy presbiteriánus templom Buildingben.",
                   "category": "religious",
                   "coords": [
                         -73.918585,
@@ -14416,7 +14416,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodside Community Baptist Church",
-                  "text": "A Woodside Community Baptist Church egy baptista templom a Chrysler Building nevezetességek területén.",
+                  "text": "Woodside Community Baptist Church, egy baptista gyülekezet Buildingben, a Woodside negyedben.",
                   "category": "religious",
                   "coords": [
                         -73.906554,
@@ -14425,7 +14425,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Winfield Reformed Church",
-                  "text": "A Winfield Reformed Church egy istentiszteleti hely a chrysler-building-landmarks-v2-ben.",
+                  "text": "Winfield Református Egyház Buildingben, a 19. században alapítva.",
                   "category": "religious",
                   "coords": [
                         -73.898477,
@@ -14434,7 +14434,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Roman Catholic Church",
-                  "text": "A Holy Cross Roman Catholic Church egy istentiszteleti hely a chrysler-building-landmarks-v2-ben.",
+                  "text": "Szent Kereszt római katolikus templom Buildingben, a Brooklyn-i egyházmegye része.",
                   "category": "religious",
                   "coords": [
                         -73.903442,
@@ -14443,7 +14443,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "A Saint Stanislaus Kostka Roman Catholic Church egy istentiszteleti hely a chrysler-building-landmarks-v2-ben.",
+                  "text": "Szent Stanislaus Kostka római katolikus templom, lengyel közösség Buildingben.",
                   "category": "religious",
                   "coords": [
                         -73.904228,
@@ -14452,7 +14452,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greenpoint Reformed Church",
-                  "text": "A Greenpoint Reformed Church egy istentiszteleti hely a chrysler-building-landmarks-v2-ben.",
+                  "text": "Greenpoint Református Egyház Buildingben, a Brooklyn-i Greenpoint negyedben.",
                   "category": "religious",
                   "coords": [
                         -73.954971,
@@ -14461,7 +14461,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Catholic Church",
-                  "text": "A Holy Family Catholic Church egy istentiszteleti hely a chrysler-building-landmarks-v2-ben.",
+                  "text": "Szent Család Katolikus Templom Buildingben, többnyelvű misékkel.",
                   "category": "religious",
                   "coords": [
                         -73.968556,
@@ -14470,7 +14470,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Agnes Catholic Church",
-                  "text": "A Saint Agnes Catholic Church egy istentiszteleti hely a chrysler-building-landmarks-v2-ben.",
+                  "text": "Szent Ágnes Katolikus Templom Buildingben, ismert az éves Szent Ágnes fesztiválról.",
                   "category": "religious",
                   "coords": [
                         -73.974453,
@@ -14479,7 +14479,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bushwick Inlet",
-                  "text": "A Bushwick Inlet egy öböl a chrysler-building-landmarks-v2-ben.",
+                  "text": "Bushwick Inlet, egy öböl Buildingben, a Newtown Creek rendszer része.",
                   "category": "landmark",
                   "coords": [
                         -73.960748,
@@ -14517,7 +14517,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Transfiguration Roman Catholic Church",
-                  "text": "Biserica Transfiguration Roman Catholic Church este o biserică romano-catolică în zona reperelor Chrysler Building.",
+                  "text": "Biserica Romano-Catolică a Schimbării la Față din Building este o biserică catolică istorică în Chinatown, Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.901345,
@@ -14724,7 +14724,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Adalbert Catholic Church",
-                  "text": "Biserica Saint Adalbert Catholic Church este o biserică romano-catolică în zona reperelor Chrysler Building.",
+                  "text": "Biserica Romano-Catolică Sfântul Adalbert din Building, deservind comunitatea poloneză.",
                   "category": "religious",
                   "coords": [
                         -73.882926,
@@ -14742,7 +14742,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "Biserica Saint James Episcopal Church este o biserică episcopală în zona reperelor Chrysler Building.",
+                  "text": "Biserica Episcopală Sfântul Iacob din Building, în stil gotic revival.",
                   "category": "religious",
                   "coords": [
                         -73.87792,
@@ -14751,7 +14751,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Presbyterian Church",
-                  "text": "Biserica New York Presbyterian Church este o biserică protestantă în zona reperelor Chrysler Building.",
+                  "text": "Biserica Prezbiteriană New York din Building.",
                   "category": "religious",
                   "coords": [
                         -73.918585,
@@ -14760,7 +14760,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodside Community Baptist Church",
-                  "text": "Biserica Woodside Community Baptist Church este o biserică baptistă în zona reperelor Chrysler Building.",
+                  "text": "Biserica Baptistă Comunitară Woodside din Building, în cartierul Woodside.",
                   "category": "religious",
                   "coords": [
                         -73.906554,
@@ -14769,7 +14769,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Winfield Reformed Church",
-                  "text": "Winfield Reformed Church este un lăcaș de cult în chrysler-building-landmarks-v2.",
+                  "text": "Biserica Reformată Winfield din Building, fondată în secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -73.898477,
@@ -14778,7 +14778,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Roman Catholic Church",
-                  "text": "Holy Cross Roman Catholic Church este un lăcaș de cult în chrysler-building-landmarks-v2.",
+                  "text": "Biserica Romano-Catolică Sfânta Cruce din Building, parte a Diecezei de Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.903442,
@@ -14787,7 +14787,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "Saint Stanislaus Kostka Roman Catholic Church este un lăcaș de cult în chrysler-building-landmarks-v2.",
+                  "text": "Biserica Romano-Catolică Sfântul Stanislaus Kostka din Building, comunitate poloneză.",
                   "category": "religious",
                   "coords": [
                         -73.904228,
@@ -14796,7 +14796,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greenpoint Reformed Church",
-                  "text": "Greenpoint Reformed Church este un lăcaș de cult în chrysler-building-landmarks-v2.",
+                  "text": "Biserica Reformată Greenpoint din Building, în cartierul Greenpoint, Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.954971,
@@ -14805,7 +14805,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Catholic Church",
-                  "text": "Holy Family Catholic Church este un lăcaș de cult în chrysler-building-landmarks-v2.",
+                  "text": "Biserica Catolică Sfânta Familie din Building, cu liturghii în mai multe limbi.",
                   "category": "religious",
                   "coords": [
                         -73.968556,
@@ -14814,7 +14814,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Agnes Catholic Church",
-                  "text": "Saint Agnes Catholic Church este un lăcaș de cult în chrysler-building-landmarks-v2.",
+                  "text": "Biserica Catolică Sfânta Agnes din Building, cunoscută pentru festivalul anual Sfânta Agnes.",
                   "category": "religious",
                   "coords": [
                         -73.974453,
@@ -14823,7 +14823,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bushwick Inlet",
-                  "text": "Bushwick Inlet este un golf în chrysler-building-landmarks-v2.",
+                  "text": "Golful Bushwick din Building, parte a sistemului Newtown Creek.",
                   "category": "landmark",
                   "coords": [
                         -73.960748,
@@ -14861,7 +14861,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Transfiguration Roman Catholic Church",
-                  "text": "Transfiguration Roman Catholic Church is a Roman Catholic church in the Chrysler Building landmarks area.",
+                  "text": "Transfiguration Roman Catholic Church in Building is a historic Catholic church in Manhattan's Chinatown.",
                   "category": "religious",
                   "coords": [
                         -73.901345,
@@ -15068,7 +15068,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Adalbert Catholic Church",
-                  "text": "Saint Adalbert Catholic Church is a Roman Catholic church in the Chrysler Building landmarks area.",
+                  "text": "Saint Adalbert Catholic Church in Building, serving the Polish community.",
                   "category": "religious",
                   "coords": [
                         -73.882926,
@@ -15086,7 +15086,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Episcopal Church",
-                  "text": "Saint James Episcopal Church is an Episcopal church in the Chrysler Building landmarks area.",
+                  "text": "Saint James Episcopal Church in Building, Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -73.87792,
@@ -15095,7 +15095,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Presbyterian Church",
-                  "text": "New York Presbyterian Church is a Protestant church in the Chrysler Building landmarks area.",
+                  "text": "New York Presbyterian Church in Building, a Presbyterian congregation.",
                   "category": "religious",
                   "coords": [
                         -73.918585,
@@ -15104,7 +15104,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodside Community Baptist Church",
-                  "text": "Woodside Community Baptist Church is a Baptist church in the Chrysler Building landmarks area.",
+                  "text": "Woodside Community Baptist Church in Building, in the Woodside neighborhood.",
                   "category": "religious",
                   "coords": [
                         -73.906554,
@@ -15113,7 +15113,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Winfield Reformed Church",
-                  "text": "The Winfield Reformed Church is a place of worship in chrysler-building-landmarks-v2.",
+                  "text": "Winfield Reformed Church in Building, founded in the 19th century.",
                   "category": "religious",
                   "coords": [
                         -73.898477,
@@ -15122,7 +15122,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Cross Roman Catholic Church",
-                  "text": "The Holy Cross Roman Catholic Church is a place of worship in chrysler-building-landmarks-v2.",
+                  "text": "Holy Cross Roman Catholic Church in Building, part of the Diocese of Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.903442,
@@ -15131,7 +15131,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "The Saint Stanislaus Kostka Roman Catholic Church is a place of worship in chrysler-building-landmarks-v2.",
+                  "text": "Saint Stanislaus Kostka Roman Catholic Church in Building, a Polish congregation.",
                   "category": "religious",
                   "coords": [
                         -73.904228,
@@ -15140,7 +15140,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greenpoint Reformed Church",
-                  "text": "The Greenpoint Reformed Church is a place of worship in chrysler-building-landmarks-v2.",
+                  "text": "Greenpoint Reformed Church in Building, in the Greenpoint neighborhood of Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.954971,
@@ -15149,7 +15149,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Catholic Church",
-                  "text": "The Holy Family Catholic Church is a place of worship in chrysler-building-landmarks-v2.",
+                  "text": "Holy Family Catholic Church in Building, offering multilingual masses.",
                   "category": "religious",
                   "coords": [
                         -73.968556,
@@ -15158,7 +15158,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Agnes Catholic Church",
-                  "text": "The Saint Agnes Catholic Church is a place of worship in chrysler-building-landmarks-v2.",
+                  "text": "Saint Agnes Catholic Church in Building, known for its annual St. Agnes festival.",
                   "category": "religious",
                   "coords": [
                         -73.974453,
@@ -15167,7 +15167,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bushwick Inlet",
-                  "text": "Bushwick Inlet is a bay in chrysler-building-landmarks-v2.",
+                  "text": "Bushwick Inlet in Building, part of the Newtown Creek system.",
                   "category": "landmark",
                   "coords": [
                         -73.960748,
@@ -15232,7 +15232,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Puerto Rican Arts & Culture",
-                  "text": "Dieses Museum in Chicago ist der puerto-ricanischen Kunst und Kultur gewidmet.",
+                  "text": "Das National Museum of Puerto Rican Arts & Culture in Tower ist ein Museum für puerto-ricanische Kunst in Chicagos Humboldt Park.",
                   "category": "museum",
                   "coords": [
                         -87.703187,
@@ -15241,7 +15241,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian National Museum",
-                  "text": "Das Ukrainische Nationalmuseum in Chicago zeigt das ukrainische Erbe.",
+                  "text": "Das Ukrainian National Museum in Tower zeigt die ukrainische Kultur im Ukrainian Village in Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.684007,
@@ -15259,7 +15259,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Mexican Art",
-                  "text": "Das Nationalmuseum für mexikanische Kunst in Chicago zeigt mexikanische Kunst und Kultur.",
+                  "text": "Das National Museum of Mexican Art in Tower ist ein Museum für mexikanische Kunst im Pilsen-Viertel Chicagos.",
                   "category": "museum",
                   "coords": [
                         -87.672985,
@@ -15268,7 +15268,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Public Housing Museum",
-                  "text": "Das National Public Housing Museum in Chicago erforscht die Geschichte des sozialen Wohnungsbaus.",
+                  "text": "Das National Public Housing Museum in Tower ist ein Museum zur Geschichte des sozialen Wohnungsbaus in einem ehemaligen Jane Addams Homes-Gebäude.",
                   "category": "museum",
                   "coords": [
                         -87.659733,
@@ -15286,7 +15286,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian Institute of Modern Art",
-                  "text": "Das Ukrainische Institut für moderne Kunst in Chicago zeigt zeitgenössische ukrainische Kunst.",
+                  "text": "Das Ukrainian Institute of Modern Art in Tower zeigt zeitgenössische ukrainische und internationale Kunst.",
                   "category": "museum",
                   "coords": [
                         -87.685165,
@@ -15295,7 +15295,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Intuit: The Center for Intuitive and Outsider Art",
-                  "text": "Intuit in Chicago ist ein Museum für intuitive und Outsider-Kunst.",
+                  "text": "Intuit: The Center for Intuitive and Outsider Art in Tower ist ein Museum für Outsider-Kunst im West Town von Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.654604,
@@ -15304,7 +15304,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago City Hall",
-                  "text": "Das Chicago City Hall ist der Sitz der kommunalen Regierung.",
+                  "text": "Das Chicago City Hall in Tower ist ein historisches neoklassizistisches Rathaus mit einem berühmten begrünten Dach.",
                   "category": "historical",
                   "coords": [
                         -87.63198,
@@ -15331,7 +15331,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cadillac Palace Theatre",
-                  "text": "Das Cadillac Palace Theatre in Chicago ist ein historischer Broadway-ähnlicher Veranstaltungsort.",
+                  "text": "Das Cadillac Palace Theatre in Tower ist ein Theater von 1926 in Chicagos Loop mit 2.000 Plätzen für Broadway-Shows und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         -87.633145,
@@ -15349,7 +15349,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Patrick's Church",
-                  "text": "Die Old Saint Patrick's Church ist eine historische katholische Kirche in Chicago.",
+                  "text": "Die Old Saint Patrick's Church in Tower ist die älteste erhaltene Kirche Chicagos, erbaut 1856.",
                   "category": "religious",
                   "coords": [
                         -87.644484,
@@ -15358,7 +15358,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thalia Hall",
-                  "text": "Die Thalia Hall in Chicago ist ein historischer Veranstaltungsort für Aufführungen.",
+                  "text": "Die Thalia Hall in Tower ist ein historisches Theater von 1892 in Pilsen, heute ein Livemusik-Venue.",
                   "category": "cultural",
                   "coords": [
                         -87.657291,
@@ -15367,7 +15367,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Vitus Roman Catholic Church",
-                  "text": "Die Saint Vitus Roman Catholic Church ist eine historische Kirche in Chicago.",
+                  "text": "Eine römisch-katholische Kirche in Tower, die dem Heiligen Veit gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -87.668935,
@@ -15376,7 +15376,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Church",
-                  "text": "Die Holy Family Church ist eine historische katholische Kirche in Chicago.",
+                  "text": "Eine römisch-katholische Kirche in Tower, die den Großen Brand von Chicago 1871 überstand.",
                   "category": "religious",
                   "coords": [
                         -87.654705,
@@ -15385,7 +15385,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Notre Dame Roman Catholic Church",
-                  "text": "Die Notre Dame Roman Catholic Church in Chicago ist als Notre Dame de Chicago bekannt.",
+                  "text": "Eine römisch-katholische Kirche im französischen gotischen Stil in Tower.",
                   "category": "religious",
                   "coords": [
                         -87.660556,
@@ -15394,7 +15394,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greater Union Baptist Church",
-                  "text": "Die Greater Union Baptist Church ist eine historische Kirche in Chicago.",
+                  "text": "Eine Baptistenkirche in Tower mit einer markanten Backsteinfassade.",
                   "category": "religious",
                   "coords": [
                         -87.676425,
@@ -15403,7 +15403,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Metropolitan Missionary Baptist Church",
-                  "text": "Die Metropolitan Missionary Baptist Church ist eine Kirche in Chicago.",
+                  "text": "Eine moderne Baptistenkirche in Tower als Backsteinbau.",
                   "category": "religious",
                   "coords": [
                         -87.681226,
@@ -15412,7 +15412,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Our Lady of Sorrows Basilica",
-                  "text": "Die Our Lady of Sorrows Basilica in Chicago ist eine Basilica minor.",
+                  "text": "Eine römisch-katholische Basilica minor in Tower mit einer großen Marienikone.",
                   "category": "religious",
                   "coords": [
                         -87.704035,
@@ -15421,7 +15421,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Steppenwolf Theatre",
-                  "text": "Das Steppenwolf Theatre in Chicago ist eine renommierte Theaterkompanie.",
+                  "text": "Das mit dem Tony Award ausgezeichnete Steppenwolf Theatre in Tower.",
                   "category": "cultural",
                   "coords": [
                         -87.648688,
@@ -15430,7 +15430,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "Die Saint Stanislaus Kostka Church ist eine historische polnisch-katholische Kirche in Chicago.",
+                  "text": "Eine römisch-katholische Kirche im polnischen Kathedralstil in Tower.",
                   "category": "religious",
                   "coords": [
                         -87.662157,
@@ -15439,7 +15439,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chopin Theatre",
-                  "text": "Das Chopin Theatre in Chicago ist ein Aufführungsraum.",
+                  "text": "Ein Kulturtheater in Tower, das sich auf osteuropäische Kunst spezialisiert hat.",
                   "category": "cultural",
                   "coords": [
                         -87.666814,
@@ -15448,7 +15448,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Orthodox Cathedral",
-                  "text": "Die Holy Trinity Orthodox Cathedral ist eine historische orthodoxe Kirche in Chicago.",
+                  "text": "Eine orthodoxe Kathedrale in Tower mit vergoldeten Kuppeln im russischen Stil.",
                   "category": "religious",
                   "coords": [
                         -87.681791,
@@ -15457,7 +15457,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Innocents Catholic Church",
-                  "text": "Die Holy Innocents Church ist eine katholische Kirche in Chicago.",
+                  "text": "Eine römisch-katholische Kirche in Tower, die den Unschuldigen Kindern gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -87.66512,
@@ -15466,7 +15466,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Catholic Church",
-                  "text": "Die Holy Trinity Catholic Church ist eine historische Kirche in Chicago.",
+                  "text": "Eine römisch-katholische Kirche in Tower zu Ehren der Heiligen Dreifaltigkeit.",
                   "category": "religious",
                   "coords": [
                         -87.66306,
@@ -15475,7 +15475,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint John Cantius Roman Catholic Church",
-                  "text": "Die Saint John Cantius Church ist eine katholische Kirche in Chicago.",
+                  "text": "Eine römisch-katholische Kirche in Tower, die dem Heiligen Johannes Cantius gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -87.65301,
@@ -15493,7 +15493,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jackson Boulevard Bridge",
-                  "text": "Die Jackson Boulevard Bridge überspannt den Chicago River.",
+                  "text": "Eine Klappbrücke über den Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637721,
@@ -15502,7 +15502,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Van Buren Street Bridge",
-                  "text": "Die Van Buren Street Bridge ist eine Brücke über den Chicago River.",
+                  "text": "Eine Klappbrücke über den Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637412,
@@ -15511,7 +15511,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Street Bridge",
-                  "text": "Die Franklin Street Bridge ist eine Brücke in Chicago.",
+                  "text": "Eine doppelflügelige Klappbrücke über den Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.63581,
@@ -15520,7 +15520,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wells Street Bridge",
-                  "text": "Die Wells Street Bridge ist eine Zugbrücke über den Chicago River in Chicago.",
+                  "text": "Eine Drehzapfen-Klappbrücke über den Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.63399,
@@ -15529,7 +15529,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago & Northwestern Railway Bridge",
-                  "text": "Die Chicago & Northwestern Railway Bridge ist eine Hubbrücke in Chicago.",
+                  "text": "Eine Eisenbahnklappbrücke über den Chicago River in Tower nahe der Kinzie Street.",
                   "category": "landmark",
                   "coords": [
                         -87.639165,
@@ -15538,7 +15538,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lake Street Bridge",
-                  "text": "Die Lake Street Bridge ist eine Doppelblatt-Zugbrücke über den Chicago River in Chicago.",
+                  "text": "Eine Klappbrücke über den Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637728,
@@ -15558,7 +15558,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Puerto Rican Arts & Culture",
-                  "text": "Ez a chicagói múzeum a Puerto Ricó-i művészetnek és kultúrának szentelt.",
+                  "text": "A Tower-i National Museum of Puerto Rican Arts & Culture a Puerto Ricó-i művészetek múzeuma Chicago Humboldt Park negyedében.",
                   "category": "museum",
                   "coords": [
                         -87.703187,
@@ -15567,7 +15567,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian National Museum",
-                  "text": "Az Ukrán Nemzeti Múzeum Chicagóban az ukrán örökséget mutatja be.",
+                  "text": "A Tower-i Ukrainian National Museum ukrán kultúrát bemutató múzeum Chicago Ukrainian Village negyedében.",
                   "category": "museum",
                   "coords": [
                         -87.684007,
@@ -15585,7 +15585,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Mexican Art",
-                  "text": "A Mexikói Művészetek Nemzeti Múzeuma Chicagóban mexikói művészetet és kultúrát mutat be.",
+                  "text": "A Tower-i National Museum of Mexican Art a mexikói művészet múzeuma Chicago Pilsen negyedében.",
                   "category": "museum",
                   "coords": [
                         -87.672985,
@@ -15594,7 +15594,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Public Housing Museum",
-                  "text": "A Nemzeti Közösségi Lakásmúzeum Chicagóban a szociális lakhatás történetét kutatja.",
+                  "text": "A Tower-i National Public Housing Museum a szociális lakhatás történetét bemutató múzeum egykori Jane Addams Homes épületben.",
                   "category": "museum",
                   "coords": [
                         -87.659733,
@@ -15612,7 +15612,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian Institute of Modern Art",
-                  "text": "Az Ukrán Modern Művészeti Intézet Chicagóban kortárs ukrán művészetet állít ki.",
+                  "text": "A Tower-i Ukrainian Institute of Modern Art kortárs ukrán és nemzetközi művészetet kiállító intézmény.",
                   "category": "museum",
                   "coords": [
                         -87.685165,
@@ -15621,7 +15621,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Intuit: The Center for Intuitive and Outsider Art",
-                  "text": "Az Intuit Chicagóban az intuitív és outsider művészet múzeuma.",
+                  "text": "A Tower-i Intuit: The Center for Intuitive and Outsider Art egy outsider művészeti múzeum Chicago West Town negyedében.",
                   "category": "museum",
                   "coords": [
                         -87.654604,
@@ -15630,7 +15630,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago City Hall",
-                  "text": "A Chicago City Hall a városi önkormányzat székhelye.",
+                  "text": "A Tower-i Chicago City Hall egy történelmi neoklasszikus városháza híres zöldtetővel.",
                   "category": "historical",
                   "coords": [
                         -87.63198,
@@ -15657,7 +15657,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cadillac Palace Theatre",
-                  "text": "A Cadillac Palace Theatre Chicagóban egy történelmi, Broadway-stílusú előadóhely.",
+                  "text": "A Tower-i Cadillac Palace Theatre egy 1926-os színház Chicago Loop negyedében, 2000 férőhellyel Broadway-show-knak és koncerteknek.",
                   "category": "cultural",
                   "coords": [
                         -87.633145,
@@ -15675,7 +15675,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Patrick's Church",
-                  "text": "Az Old Saint Patrick's Church egy történelmi katolikus templom Chicagóban.",
+                  "text": "A Tower-i Old Saint Patrick's Church Chicago legrégebben fennmaradt temploma, 1856-ban épült.",
                   "category": "religious",
                   "coords": [
                         -87.644484,
@@ -15684,7 +15684,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thalia Hall",
-                  "text": "A Thalia Hall Chicagóban egy történelmi előadóhely.",
+                  "text": "A Tower-i Thalia Hall egy 1892-es történelmi színház Pilsenben, ma élőzenei helyszín.",
                   "category": "cultural",
                   "coords": [
                         -87.657291,
@@ -15693,7 +15693,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Vitus Roman Catholic Church",
-                  "text": "A Saint Vitus Római Katolikus Templom egy történelmi templom Chicagóban.",
+                  "text": "Egy római katolikus templom Towerben, Szent Vitusznak szentelve.",
                   "category": "religious",
                   "coords": [
                         -87.668935,
@@ -15702,7 +15702,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Church",
-                  "text": "A Holy Family Church egy történelmi katolikus templom Chicagóban.",
+                  "text": "Egy római katolikus templom Towerben, amely túlélte az 1871-es nagy chicagói tüzet.",
                   "category": "religious",
                   "coords": [
                         -87.654705,
@@ -15711,7 +15711,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Notre Dame Roman Catholic Church",
-                  "text": "A Notre Dame Római Katolikus Templom Chicagóban Notre Dame de Chicago néven ismert.",
+                  "text": "Egy francia gótikus stílusú római katolikus templom Towerben.",
                   "category": "religious",
                   "coords": [
                         -87.660556,
@@ -15720,7 +15720,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greater Union Baptist Church",
-                  "text": "A Greater Union Baptist Church egy történelmi templom Chicagóban.",
+                  "text": "Egy jellegzetes téglahomlokzatú baptista templom Towerben.",
                   "category": "religious",
                   "coords": [
                         -87.676425,
@@ -15729,7 +15729,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Metropolitan Missionary Baptist Church",
-                  "text": "A Metropolitan Missionary Baptist Church egy templom Chicagóban.",
+                  "text": "Egy modern téglából épült baptista templom Towerben.",
                   "category": "religious",
                   "coords": [
                         -87.681226,
@@ -15738,7 +15738,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Our Lady of Sorrows Basilica",
-                  "text": "A Our Lady of Sorrows Bazilika Chicagóban egy kisebb bazilika.",
+                  "text": "Egy római katolikus Basilica minor Towerben, nagy Mária-ikonnal.",
                   "category": "religious",
                   "coords": [
                         -87.704035,
@@ -15747,7 +15747,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Steppenwolf Theatre",
-                  "text": "A Steppenwolf Színház Chicagóban egy neves színházi társulat.",
+                  "text": "A Tony-díjas Steppenwolf Színház Towerben.",
                   "category": "cultural",
                   "coords": [
                         -87.648688,
@@ -15756,7 +15756,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "A Szent Stanislaus Kostka Templom egy történelmi lengyel katolikus templom Chicagóban.",
+                  "text": "Egy lengyel székesegyházi stílusú római katolikus templom Towerben.",
                   "category": "religious",
                   "coords": [
                         -87.662157,
@@ -15765,7 +15765,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chopin Theatre",
-                  "text": "A Chopin Színház Chicagóban egy előadótér.",
+                  "text": "Egy kulturális színház Towerben, kelet-európai művészetre specializálódva.",
                   "category": "cultural",
                   "coords": [
                         -87.666814,
@@ -15774,7 +15774,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Orthodox Cathedral",
-                  "text": "A Holy Trinity Orthodox Székesegyház egy történelmi ortodox templom Chicagóban.",
+                  "text": "Egy orosz stílusú, aranyozott kupolás ortodox székesegyház Towerben.",
                   "category": "religious",
                   "coords": [
                         -87.681791,
@@ -15783,7 +15783,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Innocents Catholic Church",
-                  "text": "A Holy Innocents Templom egy katolikus templom Chicagóban.",
+                  "text": "Egy római katolikus templom Towerben, a Szent Ártatlanoknak szentelve.",
                   "category": "religious",
                   "coords": [
                         -87.66512,
@@ -15792,7 +15792,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Catholic Church",
-                  "text": "A Holy Trinity Katolikus Templom egy történelmi templom Chicagóban.",
+                  "text": "Egy római katolikus templom Towerben a Szentháromság tiszteletére.",
                   "category": "religious",
                   "coords": [
                         -87.66306,
@@ -15801,7 +15801,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint John Cantius Roman Catholic Church",
-                  "text": "A Szent John Cantius Templom egy katolikus templom Chicagóban.",
+                  "text": "Egy római katolikus templom Towerben, Szent Kanti Jánosnak szentelve.",
                   "category": "religious",
                   "coords": [
                         -87.65301,
@@ -15819,7 +15819,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jackson Boulevard Bridge",
-                  "text": "A Jackson Boulevard híd áthalad a Chicago folyón.",
+                  "text": "Egy csapóhíd a Chicago folyó felett Towerben.",
                   "category": "landmark",
                   "coords": [
                         -87.637721,
@@ -15828,7 +15828,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Van Buren Street Bridge",
-                  "text": "A Van Buren Street híd egy híd a Chicago folyó felett.",
+                  "text": "Egy csapóhíd a Chicago folyó felett Towerben.",
                   "category": "landmark",
                   "coords": [
                         -87.637412,
@@ -15837,7 +15837,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Street Bridge",
-                  "text": "A Franklin Street híd egy híd Chicagóban.",
+                  "text": "Egy kétszárnyú csapóhíd a Chicago folyó felett Towerben.",
                   "category": "landmark",
                   "coords": [
                         -87.63581,
@@ -15846,7 +15846,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wells Street Bridge",
-                  "text": "A Wells Street Bridge egy felvonóhíd a Chicago River felett, Chicagóban.",
+                  "text": "Egy forgócsapos csapóhíd a Chicago folyó felett Towerben.",
                   "category": "landmark",
                   "coords": [
                         -87.63399,
@@ -15855,7 +15855,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago & Northwestern Railway Bridge",
-                  "text": "A Chicago & Northwestern Railway Bridge egy függőlegesen emelhető híd Chicagóban.",
+                  "text": "Egy vasúti csapóhíd a Chicago folyó felett Towerben, a Kinzie utca közelében.",
                   "category": "landmark",
                   "coords": [
                         -87.639165,
@@ -15864,7 +15864,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lake Street Bridge",
-                  "text": "A Lake Street Bridge egy kétszárnyú felvonóhíd a Chicago River felett, Chicagóban.",
+                  "text": "Egy csapóhíd a Chicago folyó felett Towerben.",
                   "category": "landmark",
                   "coords": [
                         -87.637728,
@@ -15884,7 +15884,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Puerto Rican Arts & Culture",
-                  "text": "Acest muzeu din Chicago este dedicat artei și culturii portoricane.",
+                  "text": "Muzeul Național de Artă și Cultură Porto-Ricană din Tower este un muzeu de artă portoricană în cartierul Humboldt Park din Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.703187,
@@ -15893,7 +15893,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian National Museum",
-                  "text": "Muzeul Național Ucrainean din Chicago prezintă patrimoniul ucrainean.",
+                  "text": "Muzeul Național Ucrainean din Tower prezintă cultura ucraineană în cartierul Ukrainian Village din Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.684007,
@@ -15911,7 +15911,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Mexican Art",
-                  "text": "Muzeul Național de Artă Mexicană din Chicago prezintă arta și cultura mexicană.",
+                  "text": "Muzeul Național de Artă Mexicană din Tower este un muzeu de artă mexicană în cartierul Pilsen din Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.672985,
@@ -15920,7 +15920,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Public Housing Museum",
-                  "text": "Muzeul Național al Locuințelor Publice din Chicago explorează istoria locuințelor sociale.",
+                  "text": "Muzeul Național al Locuințelor Publice din Tower este un muzeu al istoriei locuințelor sociale într-o fostă clădire Jane Addams Homes.",
                   "category": "museum",
                   "coords": [
                         -87.659733,
@@ -15938,7 +15938,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian Institute of Modern Art",
-                  "text": "Institutul Ucrainean de Artă Modernă din Chicago expune artă ucraineană contemporană.",
+                  "text": "Institutul Ucrainean de Artă Modernă din Tower expune artă contemporană ucraineană și internațională.",
                   "category": "museum",
                   "coords": [
                         -87.685165,
@@ -15947,7 +15947,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Intuit: The Center for Intuitive and Outsider Art",
-                  "text": "Intuit din Chicago este un muzeu dedicat artei intuitive și outsider.",
+                  "text": "Intuit: Centrul de Artă Intuitivă și Outsider din Tower este un muzeu de artă outsider în cartierul West Town din Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.654604,
@@ -15956,7 +15956,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago City Hall",
-                  "text": "Primăria din Chicago este sediul guvernului municipal.",
+                  "text": "Chicago City Hall din Tower este o primărie istorică neoclasică cu un acoperiș verde celebru.",
                   "category": "historical",
                   "coords": [
                         -87.63198,
@@ -15983,7 +15983,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cadillac Palace Theatre",
-                  "text": "Teatrul Cadillac Palace din Chicago este un loc istoric de spectacole de tip Broadway.",
+                  "text": "Cadillac Palace Theatre din Tower este un teatru din 1926 în Loop-ul din Chicago, cu 2.000 de locuri pentru spectacole Broadway și concerte.",
                   "category": "cultural",
                   "coords": [
                         -87.633145,
@@ -16001,7 +16001,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Patrick's Church",
-                  "text": "Biserica Veche Sf. Patrick este o biserică catolică istorică din Chicago.",
+                  "text": "Old Saint Patrick's Church din Tower este cea mai veche biserică din Chicago, construită în 1856.",
                   "category": "religious",
                   "coords": [
                         -87.644484,
@@ -16010,7 +16010,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thalia Hall",
-                  "text": "Thalia Hall din Chicago este un loc istoric de spectacole.",
+                  "text": "Thalia Hall din Tower este un teatru istoric din 1892 în Pilsen, acum un loc de concerte live.",
                   "category": "cultural",
                   "coords": [
                         -87.657291,
@@ -16019,7 +16019,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Vitus Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sf. Vitus este o biserică istorică din Chicago.",
+                  "text": "O biserică romano-catolică din Tower dedicată Sfântului Vitus.",
                   "category": "religious",
                   "coords": [
                         -87.668935,
@@ -16028,7 +16028,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Church",
-                  "text": "Biserica Sfânta Familie este o biserică catolică istorică din Chicago.",
+                  "text": "O biserică romano-catolică din Tower care a supraviețuit Marelui Incendiu din Chicago din 1871.",
                   "category": "religious",
                   "coords": [
                         -87.654705,
@@ -16037,7 +16037,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Notre Dame Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Notre Dame din Chicago este cunoscută ca Notre Dame de Chicago.",
+                  "text": "O biserică romano-catolică în stil gotic francez în Tower.",
                   "category": "religious",
                   "coords": [
                         -87.660556,
@@ -16046,7 +16046,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greater Union Baptist Church",
-                  "text": "Biserica Baptistă Greater Union este o biserică istorică din Chicago.",
+                  "text": "O biserică baptistă din Tower cu o fațadă distinctivă de cărămidă.",
                   "category": "religious",
                   "coords": [
                         -87.676425,
@@ -16055,7 +16055,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Metropolitan Missionary Baptist Church",
-                  "text": "Biserica Baptistă Misionară Metropolitană este o biserică din Chicago.",
+                  "text": "O biserică baptistă modernă din Tower, construită din cărămidă.",
                   "category": "religious",
                   "coords": [
                         -87.681226,
@@ -16064,7 +16064,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Our Lady of Sorrows Basilica",
-                  "text": "Basilica Maicii Domnului din Dureri din Chicago este o bazilică minoră.",
+                  "text": "O bazilică minoră romano-catolică din Tower cu o icoană mare a Maicii Domnului.",
                   "category": "religious",
                   "coords": [
                         -87.704035,
@@ -16073,7 +16073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Steppenwolf Theatre",
-                  "text": "Teatrul Steppenwolf din Chicago este o companie de teatru renumită.",
+                  "text": "Teatrul Steppenwolf, laureat al premiului Tony, din Tower.",
                   "category": "cultural",
                   "coords": [
                         -87.648688,
@@ -16082,7 +16082,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "Biserica Sf. Stanislaus Kostka este o biserică catolică poloneză istorică din Chicago.",
+                  "text": "O biserică romano-catolică în stilul catedralelor poloneze din Tower.",
                   "category": "religious",
                   "coords": [
                         -87.662157,
@@ -16091,7 +16091,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chopin Theatre",
-                  "text": "Teatrul Chopin din Chicago este un spațiu de spectacole.",
+                  "text": "Un teatru cultural din Tower specializat în arta est-europeană.",
                   "category": "cultural",
                   "coords": [
                         -87.666814,
@@ -16100,7 +16100,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Orthodox Cathedral",
-                  "text": "Catedrala Ortodoxă Sfânta Treime este o biserică ortodoxă istorică din Chicago.",
+                  "text": "O catedrală ortodoxă din Tower cu cupole aurite în stil rusesc.",
                   "category": "religious",
                   "coords": [
                         -87.681791,
@@ -16109,7 +16109,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Innocents Catholic Church",
-                  "text": "Biserica Sfinților Inocenți este o biserică catolică din Chicago.",
+                  "text": "O biserică romano-catolică din Tower dedicată Sfinților Inocenți.",
                   "category": "religious",
                   "coords": [
                         -87.66512,
@@ -16118,7 +16118,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Catholic Church",
-                  "text": "Biserica Catolică Sfânta Treime este o biserică istorică din Chicago.",
+                  "text": "O biserică romano-catolică din Tower în cinstea Sfintei Treimi.",
                   "category": "religious",
                   "coords": [
                         -87.66306,
@@ -16127,7 +16127,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint John Cantius Roman Catholic Church",
-                  "text": "Biserica Sf. Ioan Cantius este o biserică catolică din Chicago.",
+                  "text": "O biserică romano-catolică din Tower dedicată Sfântului Ioan Cantius.",
                   "category": "religious",
                   "coords": [
                         -87.65301,
@@ -16145,7 +16145,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jackson Boulevard Bridge",
-                  "text": "Podul Jackson Boulevard traversează râul Chicago.",
+                  "text": "Un pod basculă peste Râul Chicago din Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637721,
@@ -16154,7 +16154,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Van Buren Street Bridge",
-                  "text": "Podul Van Buren Street este un pod peste râul Chicago.",
+                  "text": "Un pod basculă peste Râul Chicago din Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637412,
@@ -16163,7 +16163,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Street Bridge",
-                  "text": "Podul Franklin Street este un pod în Chicago.",
+                  "text": "Un pod basculă cu două aripi peste Râul Chicago din Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.63581,
@@ -16172,7 +16172,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wells Street Bridge",
-                  "text": "Podul Wells Street este un pod basculant peste Râul Chicago, în Chicago.",
+                  "text": "Un pod basculă cu trunion peste Râul Chicago din Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.63399,
@@ -16181,7 +16181,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago & Northwestern Railway Bridge",
-                  "text": "Podul feroviar Chicago & Northwestern este un pod vertical lift în Chicago.",
+                  "text": "Un pod de cale ferată basculă peste Râul Chicago din Tower, lângă Strada Kinzie.",
                   "category": "landmark",
                   "coords": [
                         -87.639165,
@@ -16190,7 +16190,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lake Street Bridge",
-                  "text": "Podul Lake Street este un pod basculant cu două canate peste Râul Chicago, în Chicago.",
+                  "text": "Un pod basculă peste Râul Chicago din Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637728,
@@ -16210,7 +16210,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Puerto Rican Arts & Culture",
-                  "text": "This museum in Chicago is dedicated to Puerto Rican art and culture.",
+                  "text": "National Museum of Puerto Rican Arts & Culture in Tower is dedicated to Puerto Rican art in Chicago's Humboldt Park.",
                   "category": "museum",
                   "coords": [
                         -87.703187,
@@ -16219,7 +16219,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian National Museum",
-                  "text": "The Ukrainian National Museum in Chicago showcases Ukrainian heritage.",
+                  "text": "Ukrainian National Museum in Tower showcases Ukrainian culture in Chicago's Ukrainian Village.",
                   "category": "museum",
                   "coords": [
                         -87.684007,
@@ -16237,7 +16237,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of Mexican Art",
-                  "text": "The National Museum of Mexican Art in Chicago features Mexican art and culture.",
+                  "text": "National Museum of Mexican Art in Tower is a museum of Mexican art in Chicago's Pilsen neighborhood.",
                   "category": "museum",
                   "coords": [
                         -87.672985,
@@ -16246,7 +16246,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Public Housing Museum",
-                  "text": "The National Public Housing Museum in Chicago explores the history of public housing.",
+                  "text": "National Public Housing Museum in Tower is a museum on public housing history in a former Jane Addams Homes building.",
                   "category": "museum",
                   "coords": [
                         -87.659733,
@@ -16264,7 +16264,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ukrainian Institute of Modern Art",
-                  "text": "The Ukrainian Institute of Modern Art in Chicago exhibits contemporary Ukrainian art.",
+                  "text": "Ukrainian Institute of Modern Art in Tower exhibits contemporary Ukrainian and international art.",
                   "category": "museum",
                   "coords": [
                         -87.685165,
@@ -16273,7 +16273,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Intuit: The Center for Intuitive and Outsider Art",
-                  "text": "Intuit in Chicago is a museum dedicated to outsider and intuitive art.",
+                  "text": "Intuit: The Center for Intuitive and Outsider Art in Tower is a museum of outsider art in Chicago's West Town neighborhood.",
                   "category": "museum",
                   "coords": [
                         -87.654604,
@@ -16282,7 +16282,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago City Hall",
-                  "text": "Chicago City Hall is the seat of the municipal government.",
+                  "text": "Chicago City Hall in Tower is a historic neoclassical municipal building with a famous green roof.",
                   "category": "historical",
                   "coords": [
                         -87.63198,
@@ -16309,7 +16309,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cadillac Palace Theatre",
-                  "text": "The Cadillac Palace Theatre in Chicago is a historic Broadway-style venue.",
+                  "text": "Cadillac Palace Theatre in Tower is a 1926 theater in Chicago's Loop hosting Broadway shows and concerts.",
                   "category": "cultural",
                   "coords": [
                         -87.633145,
@@ -16327,7 +16327,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Patrick's Church",
-                  "text": "Old Saint Patrick's Church is a historic Catholic church in Chicago.",
+                  "text": "Old Saint Patrick's Church in Tower is Chicago's oldest surviving church, built in 1856.",
                   "category": "religious",
                   "coords": [
                         -87.644484,
@@ -16336,7 +16336,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thalia Hall",
-                  "text": "Thalia Hall in Chicago is a historic performance venue.",
+                  "text": "Thalia Hall in Tower is an 1892 theatre in Pilsen, now a live music venue.",
                   "category": "cultural",
                   "coords": [
                         -87.657291,
@@ -16345,7 +16345,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Vitus Roman Catholic Church",
-                  "text": "Saint Vitus Roman Catholic Church is a historic church in Chicago.",
+                  "text": "A Roman Catholic church in Tower dedicated to Saint Vitus.",
                   "category": "religious",
                   "coords": [
                         -87.668935,
@@ -16354,7 +16354,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Family Church",
-                  "text": "Holy Family Church is a historic Catholic church in Chicago.",
+                  "text": "A Roman Catholic church in Tower that survived the Great Chicago Fire of 1871.",
                   "category": "religious",
                   "coords": [
                         -87.654705,
@@ -16363,7 +16363,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Notre Dame Roman Catholic Church",
-                  "text": "Notre Dame Roman Catholic Church in Chicago is known as Notre Dame de Chicago.",
+                  "text": "A French Gothic-style Roman Catholic church in Tower.",
                   "category": "religious",
                   "coords": [
                         -87.660556,
@@ -16372,7 +16372,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Greater Union Baptist Church",
-                  "text": "Greater Union Baptist Church is a historic church in Chicago.",
+                  "text": "A Baptist church in Tower with a distinctive brick facade.",
                   "category": "religious",
                   "coords": [
                         -87.676425,
@@ -16381,7 +16381,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Metropolitan Missionary Baptist Church",
-                  "text": "Metropolitan Missionary Baptist Church is a church in Chicago.",
+                  "text": "A modern brick-built Baptist church in Tower.",
                   "category": "religious",
                   "coords": [
                         -87.681226,
@@ -16390,7 +16390,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Our Lady of Sorrows Basilica",
-                  "text": "Our Lady of Sorrows Basilica in Chicago is a minor basilica.",
+                  "text": "A Roman Catholic minor basilica in Tower featuring a large icon of Our Lady of Sorrows.",
                   "category": "religious",
                   "coords": [
                         -87.704035,
@@ -16399,7 +16399,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Steppenwolf Theatre",
-                  "text": "Steppenwolf Theatre in Chicago is a renowned theater company.",
+                  "text": "The Tony Award-winning Steppenwolf Theatre in Tower.",
                   "category": "cultural",
                   "coords": [
                         -87.648688,
@@ -16408,7 +16408,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stanislaus Kostka Roman Catholic Church",
-                  "text": "Saint Stanislaus Kostka Church is a historic Polish Catholic church in Chicago.",
+                  "text": "A Polish Cathedral-style Roman Catholic church in Tower.",
                   "category": "religious",
                   "coords": [
                         -87.662157,
@@ -16417,7 +16417,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chopin Theatre",
-                  "text": "Chopin Theatre in Chicago is a performance space.",
+                  "text": "A cultural theater in Tower specializing in Eastern European arts.",
                   "category": "cultural",
                   "coords": [
                         -87.666814,
@@ -16426,7 +16426,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Orthodox Cathedral",
-                  "text": "Holy Trinity Orthodox Cathedral is a historic Orthodox church in Chicago.",
+                  "text": "An Orthodox cathedral in Tower with gold-domed Russian-style architecture.",
                   "category": "religious",
                   "coords": [
                         -87.681791,
@@ -16435,7 +16435,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Innocents Catholic Church",
-                  "text": "Holy Innocents Church is a Catholic church in Chicago.",
+                  "text": "A Roman Catholic church in Tower dedicated to the Holy Innocents.",
                   "category": "religious",
                   "coords": [
                         -87.66512,
@@ -16444,7 +16444,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Catholic Church",
-                  "text": "Holy Trinity Catholic Church is a historic church in Chicago.",
+                  "text": "A Roman Catholic church in Tower honoring the Holy Trinity.",
                   "category": "religious",
                   "coords": [
                         -87.66306,
@@ -16453,7 +16453,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint John Cantius Roman Catholic Church",
-                  "text": "Saint John Cantius Church is a Catholic church in Chicago.",
+                  "text": "A Roman Catholic church in Tower dedicated to Saint John Cantius.",
                   "category": "religious",
                   "coords": [
                         -87.65301,
@@ -16471,7 +16471,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jackson Boulevard Bridge",
-                  "text": "The Jackson Boulevard Bridge spans the Chicago River.",
+                  "text": "A bascule bridge over the Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637721,
@@ -16480,7 +16480,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Van Buren Street Bridge",
-                  "text": "The Van Buren Street Bridge is a bridge over the Chicago River.",
+                  "text": "A bascule bridge over the Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637412,
@@ -16489,7 +16489,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Street Bridge",
-                  "text": "The Franklin Street Bridge is a bridge in Chicago.",
+                  "text": "A double-leaf bascule bridge over the Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.63581,
@@ -16498,7 +16498,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wells Street Bridge",
-                  "text": "The Wells Street Bridge is a bascule bridge over the Chicago River in Chicago.",
+                  "text": "A trunnion bascule bridge over the Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.63399,
@@ -16507,7 +16507,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Chicago & Northwestern Railway Bridge",
-                  "text": "The Chicago & Northwestern Railway Bridge is a vertical lift bridge in Chicago.",
+                  "text": "A railroad bascule bridge over the Chicago River in Tower near Kinzie Street.",
                   "category": "landmark",
                   "coords": [
                         -87.639165,
@@ -16516,7 +16516,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lake Street Bridge",
-                  "text": "The Lake Street Bridge is a double-leaf bascule bridge over the Chicago River in Chicago.",
+                  "text": "A bascule bridge over the Chicago River in Tower.",
                   "category": "landmark",
                   "coords": [
                         -87.637728,
@@ -16572,7 +16572,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Merritt Island National Wildlife Refuge",
-                  "text": "Das Merritt Island National Wildlife Refuge ist ein großes Schutzgebiet neben dem Kennedy Space Center.",
+                  "text": "Ein Naturschutzgebiet für Zugvögel und Meeresschildkröten angrenzend an das Kennedy Space Center in Space Center.",
                   "category": "natural",
                   "coords": [
                         -80.701256,
@@ -16590,7 +16590,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Futch Cove",
-                  "text": "Eine Bucht nahe dem Kennedy Space Center.",
+                  "text": "Futch Cove, eine Bucht im Space Center, in der Nähe des Kennedy Space Centers.",
                   "category": "landmark",
                   "coords": [
                         -80.663106,
@@ -16599,7 +16599,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moore Creek",
-                  "text": "Eine Bucht nahe dem Kennedy Space Center.",
+                  "text": "Ein Bach, der durch das Kennedy Space Center auf Merritt Island fließt.",
                   "category": "landmark",
                   "coords": [
                         -80.707829,
@@ -16608,7 +16608,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Peacocks Pocket",
-                  "text": "Eine Bucht nahe dem Kennedy Space Center.",
+                  "text": "Eine kleine Bucht am Banana River im Kennedy Space Center.",
                   "category": "landmark",
                   "coords": [
                         -80.73283,
@@ -16626,7 +16626,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Titusville Beach",
-                  "text": "Ein Strand in der Nähe des Kennedy Space Center.",
+                  "text": "Ein Sandstrand am Indian River Lagoon in der Nähe des Space Centers.",
                   "category": "recreational",
                   "coords": [
                         -80.583382,
@@ -16727,7 +16727,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Merritt Island National Wildlife Refuge",
-                  "text": "A Merritt Island National Wildlife Refuge egy nagy vadvédelmi terület a Kennedy Űrközpont mellett.",
+                  "text": "Egy madár- és tengeriteknős-védett terület a Kennedy Űrközpont mellett Space Centerben.",
                   "category": "natural",
                   "coords": [
                         -80.701256,
@@ -16745,7 +16745,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Futch Cove",
-                  "text": "Egy öböl a Kennedy Űrközpont közelében.",
+                  "text": "Futch-öböl a Space Centerben, a Kennedy Űrközpont közelében.",
                   "category": "landmark",
                   "coords": [
                         -80.663106,
@@ -16754,7 +16754,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moore Creek",
-                  "text": "Egy öböl a Kennedy Űrközpont közelében.",
+                  "text": "Egy patak, amely a Kennedy Űrközpont területén, Merritt-szigeten folyik.",
                   "category": "landmark",
                   "coords": [
                         -80.707829,
@@ -16763,7 +16763,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Peacocks Pocket",
-                  "text": "Egy öböl a Kennedy Űrközpont közelében.",
+                  "text": "Egy kis öböl a Banana Riveren, a Kennedy Űrközpont területén.",
                   "category": "landmark",
                   "coords": [
                         -80.73283,
@@ -16781,7 +16781,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Titusville Beach",
-                  "text": "Egy strand a Kennedy Űrközpont közelében.",
+                  "text": "Homokos strand az Indian River Lagoon partján, az Űrközpont közelében.",
                   "category": "recreational",
                   "coords": [
                         -80.583382,
@@ -16882,7 +16882,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Merritt Island National Wildlife Refuge",
-                  "text": "Refugiul Național pentru Faună Sălbatică Merritt Island este o rezervație mare de lângă Centrul Spațial Kennedy.",
+                  "text": "Un refugiu natural pentru păsări migratoare și țestoase marine, adiacent Centrului Spațial Kennedy din Space Center.",
                   "category": "natural",
                   "coords": [
                         -80.701256,
@@ -16900,7 +16900,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Futch Cove",
-                  "text": "Un golf lângă Centrul Spațial Kennedy.",
+                  "text": "Golful Futch din Space Center, aproape de Centrul Spațial Kennedy.",
                   "category": "landmark",
                   "coords": [
                         -80.663106,
@@ -16909,7 +16909,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moore Creek",
-                  "text": "Un golf lângă Centrul Spațial Kennedy.",
+                  "text": "Un pârâu care curge prin Centrul Spațial Kennedy, pe Insula Merritt.",
                   "category": "landmark",
                   "coords": [
                         -80.707829,
@@ -16918,7 +16918,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Peacocks Pocket",
-                  "text": "Un golf lângă Centrul Spațial Kennedy.",
+                  "text": "Un mic golf pe râul Banana, în incinta Centrului Spațial Kennedy.",
                   "category": "landmark",
                   "coords": [
                         -80.73283,
@@ -16936,7 +16936,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Titusville Beach",
-                  "text": "O plajă lângă Centrul Spațial Kennedy.",
+                  "text": "O plajă nisipoasă pe malul lagunei Indian River, lângă Centrul Spațial.",
                   "category": "recreational",
                   "coords": [
                         -80.583382,
@@ -17037,7 +17037,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Merritt Island National Wildlife Refuge",
-                  "text": "The Merritt Island National Wildlife Refuge is a large wildlife refuge adjacent to the Kennedy Space Center.",
+                  "text": "A wildlife refuge for migratory birds and sea turtles adjacent to the Kennedy Space Center in Space Center.",
                   "category": "natural",
                   "coords": [
                         -80.701256,
@@ -17055,7 +17055,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Futch Cove",
-                  "text": "A bay near the Kennedy Space Center.",
+                  "text": "Futch Cove in Space Center, near the Kennedy Space Center.",
                   "category": "landmark",
                   "coords": [
                         -80.663106,
@@ -17064,7 +17064,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Moore Creek",
-                  "text": "A bay near the Kennedy Space Center.",
+                  "text": "A creek flowing through the Kennedy Space Center on Merritt Island.",
                   "category": "landmark",
                   "coords": [
                         -80.707829,
@@ -17073,7 +17073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Peacocks Pocket",
-                  "text": "A bay near the Kennedy Space Center.",
+                  "text": "A small bay on the Banana River within the Kennedy Space Center.",
                   "category": "landmark",
                   "coords": [
                         -80.73283,
@@ -17091,7 +17091,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Titusville Beach",
-                  "text": "A beach near the Kennedy Space Center.",
+                  "text": "A sandy beach on the Indian River Lagoon near the Space Center.",
                   "category": "recreational",
                   "coords": [
                         -80.583382,
@@ -17237,7 +17237,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "The Kneeling Fireman",
-                  "text": "The Kneeling Fireman ist ein Denkmal in grand-central-terminal-landmarks-v2.",
+                  "text": "Eine Bronzestatue eines knienden Feuerwehrmanns als Denkmal für gefallene Einsatzkräfte nahe dem Grand Central Terminal.",
                   "category": "historical",
                   "coords": [
                         -73.979634,
@@ -17246,7 +17246,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Summit One Vanderbilt",
-                  "text": "Summit One Vanderbilt ist ein Aussichtspunkt in grand-central-terminal-landmarks-v2.",
+                  "text": "Eine Aussichtsplattform auf der 93. Etage des One Vanderbilt nahe dem Grand Central Terminal mit Blick über Manhattan.",
                   "category": "natural",
                   "coords": [
                         -73.978522,
@@ -17275,7 +17275,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "The Kneeling Fireman",
-                  "text": "A The Kneeling Fireman egy emlékmű a grand-central-terminal-landmarks-v2-ben.",
+                  "text": "Egy térdelő tűzoltó bronzszobra, amely az elesett tűzoltók előtt tiszteleg a Grand Central Terminal közelében.",
                   "category": "historical",
                   "coords": [
                         -73.979634,
@@ -17284,7 +17284,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Summit One Vanderbilt",
-                  "text": "A Summit One Vanderbilt egy kilátó a grand-central-terminal-landmarks-v2-ben.",
+                  "text": "Egy kilátó a One Vanderbilt 93. emeletén, a Grand Central Terminal közelében, Manhattanre nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         -73.978522,
@@ -17313,7 +17313,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "The Kneeling Fireman",
-                  "text": "The Kneeling Fireman este un monument în grand-central-terminal-landmarks-v2.",
+                  "text": "O statuie de bronz a unui pompier în genunchi, în onoarea pompierilor căzuți, lângă Grand Central Terminal.",
                   "category": "historical",
                   "coords": [
                         -73.979634,
@@ -17322,7 +17322,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Summit One Vanderbilt",
-                  "text": "Summit One Vanderbilt este un punct de belvedere în grand-central-terminal-landmarks-v2.",
+                  "text": "O punte de observație la etajul 93 al clădirii One Vanderbilt, lângă Grand Central Terminal, cu vedere asupra Manhattanului.",
                   "category": "natural",
                   "coords": [
                         -73.978522,
@@ -17351,7 +17351,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "The Kneeling Fireman",
-                  "text": "The Kneeling Fireman is a monument in grand-central-terminal-landmarks-v2.",
+                  "text": "A bronze statue of a kneeling fireman honoring fallen firefighters near Grand Central Terminal.",
                   "category": "historical",
                   "coords": [
                         -73.979634,
@@ -17360,7 +17360,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Summit One Vanderbilt",
-                  "text": "Summit One Vanderbilt is a viewpoint in grand-central-terminal-landmarks-v2.",
+                  "text": "An observation deck on the 93rd floor of One Vanderbilt near Grand Central Terminal with views over Manhattan.",
                   "category": "natural",
                   "coords": [
                         -73.978522,
@@ -17542,7 +17542,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Museum of History",
-                  "text": "Museum in Gettysburg mit Artefakten der Schlacht von Gettysburg.",
+                  "text": "Ein Museum in der Innenstadt von Gettysburg mit Artefakten aus dem Bürgerkrieg und der amerikanischen Geschichte.",
                   "category": "museum",
                   "coords": [
                         -77.231146,
@@ -17560,7 +17560,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Diorama & History Center",
-                  "text": "Museum in Gettysburg mit einem großen Diorama der Schlacht.",
+                  "text": "Ein Museum mit einem großen Diorama der Schlacht von Gettysburg und historischen Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -77.23391,
@@ -17578,7 +17578,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Casteel Sculptures",
-                  "text": "Galerie in Gettysburg, die Skulpturen von Casteel zeigt.",
+                  "text": "Ein Museum mit Bronzeskulpturen von Bürgerkriegssoldaten und Wildtieren des Künstlers J.E. Casteel.",
                   "category": "museum",
                   "coords": [
                         -77.230492,
@@ -17587,7 +17587,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Battlefield Military Museum",
-                  "text": "Museum in Gettysburg mit militärischen Artefakten der Schlacht.",
+                  "text": "Ein privates Museum in Gettysburg mit einer umfangreichen Sammlung militärischer Artefakte aus verschiedenen Kriegen.",
                   "category": "museum",
                   "coords": [
                         -77.226332,
@@ -17623,7 +17623,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Battlefield Preservation Association",
-                  "text": "Museum in Gettysburg zur Erhaltung des Schlachtfelds.",
+                  "text": "Ein Museum und Erhaltungszentrum, das sich dem Schutz des Schlachtfelds von Gettysburg widmet.",
                   "category": "museum",
                   "coords": [
                         -77.207607,
@@ -17650,7 +17650,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seminary Ridge Museum, Gettysburg",
-                  "text": "Museum in Gettysburg auf dem Kamm, wo die Schlacht begann.",
+                  "text": "Ein Museum auf dem Seminary Ridge, dem Schauplatz des ersten Tages der Schlacht von Gettysburg.",
                   "category": "museum",
                   "coords": [
                         -77.244379,
@@ -17814,7 +17814,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Museum of History",
-                  "text": "Gettysburgi múzeum, amely a gettysburgi csata tárgyait mutatja be.",
+                  "text": "Egy múzeum Gettysburg belvárosában, polgárháborús és amerikai történelmi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -77.231146,
@@ -17832,7 +17832,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Diorama & History Center",
-                  "text": "Gettysburgi múzeum a csata nagy diorámájával.",
+                  "text": "Egy múzeum a gettysburgi csata hatalmas diorámájával és történelmi kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -77.23391,
@@ -17850,7 +17850,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Casteel Sculptures",
-                  "text": "Gettysburgi galéria, amely Casteel szobrait mutatja be.",
+                  "text": "Egy múzeum J.E. Casteel művész polgárháborús katonákat és vadon élő állatokat ábrázoló bronzszobraival.",
                   "category": "museum",
                   "coords": [
                         -77.230492,
@@ -17859,7 +17859,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Battlefield Military Museum",
-                  "text": "Gettysburgi múzeum a csata katonai tárgyaival.",
+                  "text": "Egy magánmúzeum Gettysburgban, különböző háborúkból származó katonai tárgyak nagy gyűjteményével.",
                   "category": "museum",
                   "coords": [
                         -77.226332,
@@ -17895,7 +17895,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Battlefield Preservation Association",
-                  "text": "Gettysburgi múzeum a csatatér megőrzéséért.",
+                  "text": "Egy múzeum és megőrző központ, amely a gettysburgi csatatér védelmével foglalkozik.",
                   "category": "museum",
                   "coords": [
                         -77.207607,
@@ -17922,7 +17922,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seminary Ridge Museum, Gettysburg",
-                  "text": "Gettysburgi múzeum a gerincen, ahol a csata elkezdődött.",
+                  "text": "Egy múzeum a Seminary Ridge-en, a gettysburgi csata első napjának helyszínén.",
                   "category": "museum",
                   "coords": [
                         -77.244379,
@@ -18086,7 +18086,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Museum of History",
-                  "text": "Muzeu în Gettysburg cu artefacte ale Bătăliei de la Gettysburg.",
+                  "text": "Un muzeu în centrul orașului Gettysburg, cu artefacte din Războiul Civil și din istoria americană.",
                   "category": "museum",
                   "coords": [
                         -77.231146,
@@ -18104,7 +18104,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Diorama & History Center",
-                  "text": "Muzeu în Gettysburg cu o dioramă mare a bătăliei.",
+                  "text": "Un muzeu cu o dioramă mare a bătăliei de la Gettysburg și exponate istorice.",
                   "category": "museum",
                   "coords": [
                         -77.23391,
@@ -18122,7 +18122,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Casteel Sculptures",
-                  "text": "Galerie în Gettysburg care prezintă sculpturi de Casteel.",
+                  "text": "Un muzeu cu sculpturi de bronz ale soldaților din Războiul Civil și ale faunei sălbatice, realizate de artistul J.E. Casteel.",
                   "category": "museum",
                   "coords": [
                         -77.230492,
@@ -18131,7 +18131,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Battlefield Military Museum",
-                  "text": "Muzeu în Gettysburg cu artefacte militare ale bătăliei.",
+                  "text": "Un muzeu privat în Gettysburg cu o colecție extinsă de artefacte militare din diverse războaie.",
                   "category": "museum",
                   "coords": [
                         -77.226332,
@@ -18167,7 +18167,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Battlefield Preservation Association",
-                  "text": "Muzeu în Gettysburg pentru conservarea câmpului de luptă.",
+                  "text": "Un muzeu și centru de conservare dedicat protejării câmpului de luptă de la Gettysburg.",
                   "category": "museum",
                   "coords": [
                         -77.207607,
@@ -18194,7 +18194,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seminary Ridge Museum, Gettysburg",
-                  "text": "Muzeu în Gettysburg pe creasta unde a început bătălia.",
+                  "text": "Un muzeu pe Seminary Ridge, locul primei zile a bătăliei de la Gettysburg.",
                   "category": "museum",
                   "coords": [
                         -77.244379,
@@ -18358,7 +18358,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Museum of History",
-                  "text": "Museum in Gettysburg featuring artifacts from the Battle of Gettysburg.",
+                  "text": "A museum in downtown Gettysburg featuring artifacts from the Civil War and beyond.",
                   "category": "museum",
                   "coords": [
                         -77.231146,
@@ -18376,7 +18376,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Diorama & History Center",
-                  "text": "Museum in Gettysburg featuring a large diorama of the battle.",
+                  "text": "A museum featuring a large diorama of the Battle of Gettysburg and historical exhibits.",
                   "category": "museum",
                   "coords": [
                         -77.23391,
@@ -18394,7 +18394,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Casteel Sculptures",
-                  "text": "Gallery in Gettysburg displaying sculptures by Casteel.",
+                  "text": "A museum displaying bronze sculptures of Civil War soldiers and wildlife by artist J.E. Casteel.",
                   "category": "museum",
                   "coords": [
                         -77.230492,
@@ -18403,7 +18403,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Battlefield Military Museum",
-                  "text": "Museum in Gettysburg with military artifacts from the battle.",
+                  "text": "A private museum in Gettysburg with a large collection of military artifacts from various wars.",
                   "category": "museum",
                   "coords": [
                         -77.226332,
@@ -18439,7 +18439,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gettysburg Battlefield Preservation Association",
-                  "text": "Museum in Gettysburg dedicated to preserving the battlefield.",
+                  "text": "A museum and preservation center dedicated to protecting the Gettysburg Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.207607,
@@ -18466,7 +18466,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seminary Ridge Museum, Gettysburg",
-                  "text": "Museum in Gettysburg on the ridge where the battle began.",
+                  "text": "A museum located on Seminary Ridge, site of the first day of the Battle of Gettysburg.",
                   "category": "museum",
                   "coords": [
                         -77.244379,
@@ -18585,7 +18585,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Artpace",
-                  "text": "Eine zeitgenössische Kunststiftung mit einem Residenzprogramm.",
+                  "text": "Ein zeitgenössisches Kunstzentrum in Alamo mit wechselnden Ausstellungen und Residenzen.",
                   "category": "museum",
                   "coords": [
                         -98.494311,
@@ -18594,7 +18594,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hot Wells Hotel",
-                  "text": "Die Ruinen eines historischen Thermalbads und Hotels.",
+                  "text": "Die Ruinen eines historischen Thermalbad-Hotels in Alamo.",
                   "category": "historical",
                   "coords": [
                         -98.470952,
@@ -18603,7 +18603,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Marks Episcopal Church",
-                  "text": "Eine historische episkopale Kirche in San Antonio.",
+                  "text": "Eine episkopale Kirche in Alamo im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -98.488869,
@@ -18612,7 +18612,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of The National Shrine of The Little Flower",
-                  "text": "Eine katholische Basilika und nationales Heiligtum.",
+                  "text": "Eine römisch-katholische Basilika in Alamo, der Heiligen Therese von Lisieux gewidmet.",
                   "category": "religious",
                   "coords": [
                         -98.525471,
@@ -18621,7 +18621,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Fernando Cathedral",
-                  "text": "Eine der ältesten Kathedralen in den Vereinigten Staaten.",
+                  "text": "Die älteste Kathedrale in Texas, gelegen in Alamo.",
                   "category": "religious",
                   "coords": [
                         -98.494194,
@@ -18630,7 +18630,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Beth-El",
-                  "text": "Eine historische jüdische Synagoge in San Antonio.",
+                  "text": "Eine reformjüdische Gemeinde in Alamo in einem historischen Gotteshaus.",
                   "category": "religious",
                   "coords": [
                         -98.497974,
@@ -18639,7 +18639,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission San José",
-                  "text": "Eine spanische Mission und UNESCO-Weltkulturerbestätte.",
+                  "text": "Eine spanische Mission in Alamo, UNESCO-Welterbestätte.",
                   "category": "landmark",
                   "coords": [
                         -98.479837,
@@ -18648,7 +18648,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Stock Show and Rodeo",
-                  "text": "Eine jährliche Rodeo- und Viehschau-Veranstaltung.",
+                  "text": "Eine jährliche Viehschau und Rodeo-Veranstaltung in Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.440016,
@@ -18657,7 +18657,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "La Villita",
-                  "text": "Ein historisches Kunsthandwerkerdorf im Zentrum von San Antonio.",
+                  "text": "Ein historisches Kunsthandwerksdorf im Stadtzentrum von Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.488914,
@@ -18675,7 +18675,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Japanese Tea Garden",
-                  "text": "Der Japanese Tea Garden ist ein historischer Garten mit Teichen und Wasserfällen in San Antonio.",
+                  "text": "Ein historischer versunkener Garten im Brackenridge Park in Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.477019,
@@ -18711,7 +18711,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Zoo",
-                  "text": "Der San Antonio Zoo ist ein großer Zoo mit tausenden Tieren in San Antonio.",
+                  "text": "Ein Zoo in Alamo auf 56 Hektar mit über 9.000 Tieren.",
                   "category": "recreational",
                   "coords": [
                         -98.473343,
@@ -18738,7 +18738,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buckhorn Saloon and Museum",
-                  "text": "Der Buckhorn Saloon and Museum ist eine historische Kneipe mit Tierpräparaten in San Antonio.",
+                  "text": "Ein Museum mit einer Sammlung von Tierhörnern und Präparaten, in der Nähe der Alamo.",
                   "category": "museum",
                   "coords": [
                         -98.488853,
@@ -18747,7 +18747,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Villa Finale",
-                  "text": "Villa Finale ist ein historisches Wohnhausmuseum in San Antonio.",
+                  "text": "Ein historisches italienisches Villenmuseum im King William Historic District.",
                   "category": "museum",
                   "coords": [
                         -98.494406,
@@ -18765,7 +18765,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Witte Museum",
-                  "text": "Das Witte Museum ist ein Naturkunde- und Wissenschaftsmuseum in San Antonio.",
+                  "text": "Ein Natur- und texanisches Kulturerbemuseum am San Antonio River.",
                   "category": "museum",
                   "coords": [
                         -98.467297,
@@ -18792,7 +18792,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission Concepcion",
-                  "text": "Mission Concepción ist eine historische spanische Missionskirche in San Antonio.",
+                  "text": "Eine spanische Mission von 1731, Teil des San Antonio Missions National Historical Park.",
                   "category": "religious",
                   "coords": [
                         -98.491126,
@@ -18819,7 +18819,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cameo Theatre",
-                  "text": "Das Cameo Theatre ist ein historisches Theater in San Antonio.",
+                  "text": "Ein historisches Art-Déco-Kino auf der St. Mary's Strip in San Antonio.",
                   "category": "cultural",
                   "coords": [
                         -98.479262,
@@ -18828,7 +18828,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "El Progresso",
-                  "text": "El Progresso ist ein historisches Theater in San Antonio.",
+                  "text": "Ein historisches Theater, einst ein spanischsprachiges Kino, in San Antonios West Side.",
                   "category": "cultural",
                   "coords": [
                         -98.51454,
@@ -18846,7 +18846,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ximenes Chapel",
-                  "text": "Die Ximenes Chapel ist eine historische Kapelle in San Antonio.",
+                  "text": "Eine kleine historische Kapelle im King William Historic District in San Antonio.",
                   "category": "religious",
                   "coords": [
                         -98.503605,
@@ -18855,7 +18855,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Baptist Church",
-                  "text": "Die Trinity Baptist Church ist ein historisches Kirchengebäude in San Antonio.",
+                  "text": "Eine Baptistenkirche in der Innenstadt von San Antonio.",
                   "category": "religious",
                   "coords": [
                         -98.488343,
@@ -18864,7 +18864,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blue Hole",
-                  "text": "Blue Hole ist ein natürliches Schwimmbad in San Antonio.",
+                  "text": "Ein natürliches Schwimmloch am San Antonio River im Brackenridge Park.",
                   "category": "landmark",
                   "coords": [
                         -98.467304,
@@ -18893,7 +18893,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Artpace",
-                  "text": "Egy kortárs művészeti alapítvány rezidenciaprogrammal.",
+                  "text": "Egy kortárs művészeti központ Alamóban, időszaki kiállításokkal és rezidenciákkal.",
                   "category": "museum",
                   "coords": [
                         -98.494311,
@@ -18902,7 +18902,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hot Wells Hotel",
-                  "text": "Egy történelmi termálfürdő és szálloda romjai.",
+                  "text": "Egy történelmi termálfürdő-szálloda romjai Alamóban.",
                   "category": "historical",
                   "coords": [
                         -98.470952,
@@ -18911,7 +18911,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Marks Episcopal Church",
-                  "text": "Egy történelmi episzkopális templom San Antonióban.",
+                  "text": "Egy neogótikus stílusú episzkopális templom Alamóban.",
                   "category": "religious",
                   "coords": [
                         -98.488869,
@@ -18920,7 +18920,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of The National Shrine of The Little Flower",
-                  "text": "Egy katolikus bazilika és nemzeti kegyhely.",
+                  "text": "Egy római katolikus bazilika Alamóban, Lisieux-i Szent Teréznek szentelve.",
                   "category": "religious",
                   "coords": [
                         -98.525471,
@@ -18929,7 +18929,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Fernando Cathedral",
-                  "text": "Az Egyesült Államok egyik legrégebbi katedrálisa.",
+                  "text": "Texas legrégebbi székesegyháza Alamóban.",
                   "category": "religious",
                   "coords": [
                         -98.494194,
@@ -18938,7 +18938,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Beth-El",
-                  "text": "Egy történelmi zsidó zsinagóga San Antonióban.",
+                  "text": "Egy reform-zsidó gyülekezet Alamóban, egy történelmi imaházban.",
                   "category": "religious",
                   "coords": [
                         -98.497974,
@@ -18947,7 +18947,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission San José",
-                  "text": "Egy spanyol misszió és UNESCO világörökségi helyszín.",
+                  "text": "Egy spanyol misszió Alamóban, UNESCO világörökségi helyszín.",
                   "category": "landmark",
                   "coords": [
                         -98.479837,
@@ -18956,7 +18956,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Stock Show and Rodeo",
-                  "text": "Egy éves rodeó és állatkiállítás.",
+                  "text": "Egy éves állatkiállítás és rodeó esemény Alamóban.",
                   "category": "landmark",
                   "coords": [
                         -98.440016,
@@ -18965,7 +18965,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "La Villita",
-                  "text": "Egy történelmi művészfalu San Antonio belvárosában.",
+                  "text": "Egy történelmi kézműves falu Alamo belvárosában.",
                   "category": "landmark",
                   "coords": [
                         -98.488914,
@@ -18983,7 +18983,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Japanese Tea Garden",
-                  "text": "A Japanese Tea Garden egy történelmi kert tavakkal és vízesésekkel San Antonióban.",
+                  "text": "Egy történelmi süllyesztett kert a Brackenridge Parkban, Alamóban.",
                   "category": "landmark",
                   "coords": [
                         -98.477019,
@@ -19019,7 +19019,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Zoo",
-                  "text": "A San Antonio Zoo egy nagy állatkert több ezer állattal San Antonióban.",
+                  "text": "Egy állatkert Alamóban 56 hektáron, több mint 9.000 állattal.",
                   "category": "recreational",
                   "coords": [
                         -98.473343,
@@ -19046,7 +19046,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buckhorn Saloon and Museum",
-                  "text": "A Buckhorn Saloon and Museum egy történelmi kocsma kitömött állatokkal San Antonióban.",
+                  "text": "Múzeum, amely állatszarvakból és preparátumokból álló gyűjteményt mutat be, az Alamo közelében.",
                   "category": "museum",
                   "coords": [
                         -98.488853,
@@ -19055,7 +19055,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Villa Finale",
-                  "text": "A Villa Finale egy történelmi házmúzeum San Antonióban.",
+                  "text": "Történelmi olasz stílusú villa múzeum a King William történelmi negyedben.",
                   "category": "museum",
                   "coords": [
                         -98.494406,
@@ -19073,7 +19073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Witte Museum",
-                  "text": "A Witte Museum természettudományi és tudományos múzeum San Antonióban.",
+                  "text": "Természetrajzi és texasi örökségi múzeum a San Antonio folyó partján.",
                   "category": "museum",
                   "coords": [
                         -98.467297,
@@ -19100,7 +19100,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission Concepcion",
-                  "text": "A Mission Concepción egy történelmi spanyol missziós templom San Antonióban.",
+                  "text": "1731-ben épült spanyol misszió, a San Antonio-i Missziók Nemzeti Történelmi Park része.",
                   "category": "religious",
                   "coords": [
                         -98.491126,
@@ -19127,7 +19127,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cameo Theatre",
-                  "text": "A Cameo Theatre egy történelmi színház San Antonióban.",
+                  "text": "Történelmi Art Deco mozi a St. Mary's Strip-en, San Antonióban.",
                   "category": "cultural",
                   "coords": [
                         -98.479262,
@@ -19136,7 +19136,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "El Progresso",
-                  "text": "Az El Progresso egy történelmi színház San Antonióban.",
+                  "text": "Történelmi színház, egykor spanyol nyelvű mozi, San Antonio nyugati oldalán.",
                   "category": "cultural",
                   "coords": [
                         -98.51454,
@@ -19154,7 +19154,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ximenes Chapel",
-                  "text": "A Ximenes-kápolna egy történelmi kápolna San Antonióban.",
+                  "text": "Egy kis történelmi kápolna a King William történelmi negyedben, San Antonióban.",
                   "category": "religious",
                   "coords": [
                         -98.503605,
@@ -19163,7 +19163,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Baptist Church",
-                  "text": "A Trinity Baptist Church egy történelmi templomépület San Antonióban.",
+                  "text": "Baptista templom San Antonio belvárosában.",
                   "category": "religious",
                   "coords": [
                         -98.488343,
@@ -19172,7 +19172,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blue Hole",
-                  "text": "A Blue Hole egy természetes fürdőhely San Antonióban.",
+                  "text": "Természetes fürdőhely a San Antonio folyón, a Brackenridge Parkban.",
                   "category": "landmark",
                   "coords": [
                         -98.467304,
@@ -19201,7 +19201,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Artpace",
-                  "text": "O fundație de artă contemporană cu un program de rezidență.",
+                  "text": "Un centru de artă contemporană din Alamo cu expoziții itinerante și rezidențe.",
                   "category": "museum",
                   "coords": [
                         -98.494311,
@@ -19210,7 +19210,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hot Wells Hotel",
-                  "text": "Ruinele unui hotel istoric și ale unei băi termale.",
+                  "text": "Ruinele unui hotel istoric cu izvoare termale din Alamo.",
                   "category": "historical",
                   "coords": [
                         -98.470952,
@@ -19219,7 +19219,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Marks Episcopal Church",
-                  "text": "O biserică episcopală istorică în San Antonio.",
+                  "text": "O biserică episcopală în stil neogotic din Alamo.",
                   "category": "religious",
                   "coords": [
                         -98.488869,
@@ -19228,7 +19228,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of The National Shrine of The Little Flower",
-                  "text": "O bazilică catolică și sanctuar național.",
+                  "text": "O bazilică romano-catolică din Alamo dedicată Sfintei Tereza de Lisieux.",
                   "category": "religious",
                   "coords": [
                         -98.525471,
@@ -19237,7 +19237,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Fernando Cathedral",
-                  "text": "Una dintre cele mai vechi catedrale din Statele Unite.",
+                  "text": "Cea mai veche catedrală din Texas, situată în Alamo.",
                   "category": "religious",
                   "coords": [
                         -98.494194,
@@ -19246,7 +19246,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Beth-El",
-                  "text": "O sinagogă evreiască istorică în San Antonio.",
+                  "text": "O congregație evreiască reformată din Alamo, într-un lăcaș de cult istoric.",
                   "category": "religious",
                   "coords": [
                         -98.497974,
@@ -19255,7 +19255,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission San José",
-                  "text": "O misiune spaniolă și sit UNESCO Patrimoniul Mondial.",
+                  "text": "O misiune spaniolă din Alamo, sit al Patrimoniului Mondial UNESCO.",
                   "category": "landmark",
                   "coords": [
                         -98.479837,
@@ -19264,7 +19264,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Stock Show and Rodeo",
-                  "text": "Un eveniment anual de rodeo și expoziție de animale.",
+                  "text": "Un târg anual de animale și rodeo în Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.440016,
@@ -19273,7 +19273,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "La Villita",
-                  "text": "Un sat istoric de artizani în centrul orașului San Antonio.",
+                  "text": "Un sat istoric de meșteșugari în centrul orașului Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.488914,
@@ -19291,7 +19291,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Japanese Tea Garden",
-                  "text": "Japanese Tea Garden este o grădină istorică cu iazuri și cascade în San Antonio.",
+                  "text": "O grădină istorică înfundată în Brackenridge Park din Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.477019,
@@ -19327,7 +19327,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Zoo",
-                  "text": "Grădina Zoologică San Antonio este o grădină zoologică mare cu mii de animale în San Antonio.",
+                  "text": "O grădină zoologică în Alamo pe 56 de acri, cu peste 9.000 de animale.",
                   "category": "recreational",
                   "coords": [
                         -98.473343,
@@ -19354,7 +19354,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buckhorn Saloon and Museum",
-                  "text": "Buckhorn Saloon and Museum este un han istoric cu exponate de taxidermie în San Antonio.",
+                  "text": "Un muzeu cu o colecție de coarne de animale și taxidermie, lângă Alamo.",
                   "category": "museum",
                   "coords": [
                         -98.488853,
@@ -19363,7 +19363,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Villa Finale",
-                  "text": "Villa Finale este un muzeu de casă istorică în San Antonio.",
+                  "text": "Un muzeu într-o vilă italiană istorică din cartierul istoric King William.",
                   "category": "museum",
                   "coords": [
                         -98.494406,
@@ -19381,7 +19381,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Witte Museum",
-                  "text": "Muzeul Witte este un muzeu de istorie naturală și știință în San Antonio.",
+                  "text": "Un muzeu de istorie naturală și cultură texană pe malul râului San Antonio.",
                   "category": "museum",
                   "coords": [
                         -98.467297,
@@ -19408,7 +19408,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission Concepcion",
-                  "text": "Misiunea Concepción este o biserică istorică spaniolă de misiune în San Antonio.",
+                  "text": "O misiune spaniolă din 1731, parte a Parcului Național Istoric al Misiunilor din San Antonio.",
                   "category": "religious",
                   "coords": [
                         -98.491126,
@@ -19435,7 +19435,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cameo Theatre",
-                  "text": "Teatrul Cameo este un teatru istoric în San Antonio.",
+                  "text": "Un cinematograf istoric Art Deco pe St. Mary's Strip din San Antonio.",
                   "category": "cultural",
                   "coords": [
                         -98.479262,
@@ -19444,7 +19444,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "El Progresso",
-                  "text": "El Progreso este un teatru istoric în San Antonio.",
+                  "text": "Un teatru istoric, cândva un cinematograf în limba spaniolă, în West Side-ul San Antonio.",
                   "category": "cultural",
                   "coords": [
                         -98.51454,
@@ -19462,7 +19462,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ximenes Chapel",
-                  "text": "Capela Ximenes este o capelă istorică în San Antonio.",
+                  "text": "O capelă istorică mică în cartierul istoric King William din San Antonio.",
                   "category": "religious",
                   "coords": [
                         -98.503605,
@@ -19471,7 +19471,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Baptist Church",
-                  "text": "Biserica Baptistă Trinity este o clădire bisericească istorică în San Antonio.",
+                  "text": "O biserică baptistă în centrul orașului San Antonio.",
                   "category": "religious",
                   "coords": [
                         -98.488343,
@@ -19480,7 +19480,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blue Hole",
-                  "text": "Blue Hole este o piscină naturală în San Antonio.",
+                  "text": "O groapă naturală de înot pe râul San Antonio, în Parcul Brackenridge.",
                   "category": "landmark",
                   "coords": [
                         -98.467304,
@@ -19509,7 +19509,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Artpace",
-                  "text": "A contemporary art foundation and residency program.",
+                  "text": "A contemporary art center in Alamo featuring rotating exhibitions and residencies.",
                   "category": "museum",
                   "coords": [
                         -98.494311,
@@ -19518,7 +19518,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hot Wells Hotel",
-                  "text": "The ruins of a historic spa and hotel.",
+                  "text": "The ruins of a historic hot springs hotel in Alamo.",
                   "category": "historical",
                   "coords": [
                         -98.470952,
@@ -19527,7 +19527,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Marks Episcopal Church",
-                  "text": "A historic Episcopal church in San Antonio.",
+                  "text": "An Episcopal church in Alamo in the Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -98.488869,
@@ -19536,7 +19536,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of The National Shrine of The Little Flower",
-                  "text": "A Catholic basilica and national shrine.",
+                  "text": "A Roman Catholic basilica in Alamo dedicated to Saint Thérèse of Lisieux.",
                   "category": "religious",
                   "coords": [
                         -98.525471,
@@ -19545,7 +19545,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Fernando Cathedral",
-                  "text": "One of the oldest cathedrals in the United States.",
+                  "text": "The oldest cathedral in Texas, located in Alamo.",
                   "category": "religious",
                   "coords": [
                         -98.494194,
@@ -19554,7 +19554,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Beth-El",
-                  "text": "A historic Jewish synagogue in San Antonio.",
+                  "text": "A Reform Jewish congregation in Alamo housed in a historic sanctuary.",
                   "category": "religious",
                   "coords": [
                         -98.497974,
@@ -19563,7 +19563,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission San José",
-                  "text": "A Spanish mission and UNESCO World Heritage site.",
+                  "text": "A Spanish mission in Alamo, a UNESCO World Heritage Site.",
                   "category": "landmark",
                   "coords": [
                         -98.479837,
@@ -19572,7 +19572,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Stock Show and Rodeo",
-                  "text": "An annual rodeo and stock show event.",
+                  "text": "An annual livestock show and rodeo event in Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.440016,
@@ -19581,7 +19581,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "La Villita",
-                  "text": "A historic arts village in downtown San Antonio.",
+                  "text": "A historic arts-and-crafts village in downtown Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.488914,
@@ -19599,7 +19599,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Japanese Tea Garden",
-                  "text": "The Japanese Tea Garden is a historic garden with ponds and waterfalls in San Antonio.",
+                  "text": "A historic sunken garden in Brackenridge Park in Alamo.",
                   "category": "landmark",
                   "coords": [
                         -98.477019,
@@ -19635,7 +19635,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "San Antonio Zoo",
-                  "text": "The San Antonio Zoo is a large zoo with thousands of animals in San Antonio.",
+                  "text": "A zoo in Alamo spanning 56 acres with over 9,000 animals.",
                   "category": "recreational",
                   "coords": [
                         -98.473343,
@@ -19662,7 +19662,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buckhorn Saloon and Museum",
-                  "text": "The Buckhorn Saloon and Museum is a historic saloon with taxidermy exhibits in San Antonio.",
+                  "text": "A museum featuring a collection of animal horns and taxidermy, near the Alamo.",
                   "category": "museum",
                   "coords": [
                         -98.488853,
@@ -19671,7 +19671,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Villa Finale",
-                  "text": "Villa Finale is a historic house museum in San Antonio.",
+                  "text": "A historic Italianate villa museum in the King William Historic District.",
                   "category": "museum",
                   "coords": [
                         -98.494406,
@@ -19689,7 +19689,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Witte Museum",
-                  "text": "The Witte Museum is a natural history and science museum in San Antonio.",
+                  "text": "A museum of natural history and Texas heritage on the San Antonio River.",
                   "category": "museum",
                   "coords": [
                         -98.467297,
@@ -19716,7 +19716,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mission Concepcion",
-                  "text": "Mission Concepción is a historic Spanish mission church in San Antonio.",
+                  "text": "A Spanish mission from 1731, part of the San Antonio Missions National Historical Park.",
                   "category": "religious",
                   "coords": [
                         -98.491126,
@@ -19743,7 +19743,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cameo Theatre",
-                  "text": "Cameo Theatre is a historic theatre venue in San Antonio.",
+                  "text": "A historic Art Deco movie theater on the St. Mary's Strip in San Antonio.",
                   "category": "cultural",
                   "coords": [
                         -98.479262,
@@ -19752,7 +19752,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "El Progresso",
-                  "text": "El Progreso is a historic theatre in San Antonio.",
+                  "text": "A historic theater, once a Spanish-language movie house, in San Antonio's West Side.",
                   "category": "cultural",
                   "coords": [
                         -98.51454,
@@ -19770,7 +19770,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ximenes Chapel",
-                  "text": "Ximenes Chapel is a historic chapel in San Antonio.",
+                  "text": "A small historic chapel in San Antonio's King William Historic District.",
                   "category": "religious",
                   "coords": [
                         -98.503605,
@@ -19779,7 +19779,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Trinity Baptist Church",
-                  "text": "Trinity Baptist Church is a historic church building in San Antonio.",
+                  "text": "A Baptist church located in downtown San Antonio.",
                   "category": "religious",
                   "coords": [
                         -98.488343,
@@ -19788,7 +19788,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Blue Hole",
-                  "text": "Blue Hole is a natural swimming attraction in San Antonio.",
+                  "text": "A natural swimming hole along the San Antonio River in Brackenridge Park.",
                   "category": "landmark",
                   "coords": [
                         -98.467304,
@@ -19862,7 +19862,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas City Hall",
-                  "text": "Das Las Vegas City Hall ist der Regierungssitz der Stadt Las Vegas.",
+                  "text": "Ein historisches Art-Déco-Gebäude im Vegas Strip-Gebiet.",
                   "category": "historical",
                   "coords": [
                         -115.148485,
@@ -19970,7 +19970,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Springs Preserve",
-                  "text": "Das Las Vegas Springs Preserve ist ein Naturpark mit botanischen Gärten und Museen am Las Vegas Strip.",
+                  "text": "Ein 180 Hektar großes Naturschutzgebiet auf den ursprünglichen Quellen von Las Vegas im Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.187459,
@@ -19988,7 +19988,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Punk Rock Museum",
-                  "text": "Das Punk Rock Museum ist ein Museum, das der Geschichte der Punkrock-Musik in Las Vegas gewidmet ist.",
+                  "text": "Ein Museum der Punkrock-Geschichte und Erinnerungsstücke auf dem Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.160637,
@@ -19997,7 +19997,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burlesque Hall of Fame",
-                  "text": "Die Burlesque Hall of Fame ist ein Museum, das die Kunst des Burlesque in Las Vegas feiert.",
+                  "text": "Ein Museum mit Burlesque-Kostümen und Erinnerungsstücken in der Nähe des Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.152872,
@@ -20033,7 +20033,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Discovery Children's Museum",
-                  "text": "Das Discovery Children's Museum ist ein interaktives Museum für Kinder in Las Vegas.",
+                  "text": "Ein interaktives Kindermuseum mit naturwissenschaftlichen und künstlerischen Exponaten in der Nähe des Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.152583,
@@ -20069,7 +20069,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Natural History Museum",
-                  "text": "Das Las Vegas Natural History Museum zeigt naturkundliche Exponate in Las Vegas.",
+                  "text": "Ein naturhistorisches Museum mit Dinosaurierskeletten auf dem Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.133792,
@@ -20078,7 +20078,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre 7",
-                  "text": "Theatre 7 ist ein Theater für darstellende Künste in Las Vegas.",
+                  "text": "Ein kleiner Theaterraum für lokale Produktionen auf dem Las Vegas Strip.",
                   "category": "cultural",
                   "coords": [
                         -115.151731,
@@ -20087,7 +20087,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shrine of the Most Holy Redeemer",
-                  "text": "Die Shrine of the Most Holy Redeemer ist eine katholische Kirche in Las Vegas.",
+                  "text": "Eine katholische Kirche, die den Las Vegas Strip bedient.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
@@ -20096,7 +20096,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "Mon Bel Ami Wedding Chapel ist eine Hochzeitskapelle in Las Vegas.",
+                  "text": "Eine Hochzeitskapelle auf dem Las Vegas Strip mit französisch inspirierter Architektur.",
                   "category": "religious",
                   "coords": [
                         -115.144246,
@@ -20114,7 +20114,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Michelob Ultra Arena",
-                  "text": "Die Michelob Ultra Arena ist eine Mehrzweckhalle im Mandalay Bay in Las Vegas.",
+                  "text": "Eine Sport- und Konzerthalle im Mandalay Bay Resort auf dem Las Vegas Strip.",
                   "category": "landmark",
                   "coords": [
                         -115.179,
@@ -20123,7 +20123,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hewetson Playground",
-                  "text": "Hewetson Playground ist ein Spielplatz in Las Vegas.",
+                  "text": "Ein Spielplatz im Hewetson Park in der Nähe des Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1224,
@@ -20132,7 +20132,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fitzgeralds Tot Lot",
-                  "text": "Fitzgeralds Tot Lot ist ein Spielplatz für Kleinkinder in Las Vegas.",
+                  "text": "Ein Kleinkinderspielplatz im Fitzgeralds Casino auf dem Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1516,
@@ -20141,7 +20141,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madison Playground",
-                  "text": "Madison Playground ist ein Spielplatz in Las Vegas.",
+                  "text": "Ein öffentlicher Spielplatz im Madison-Viertel in der Nähe des Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1551,
@@ -20150,7 +20150,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ronzone Playground",
-                  "text": "Ronzone Playground ist ein Spielplatz in Las Vegas.",
+                  "text": "Ein Spielplatz im Ronzone Park in Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.2177,
@@ -20179,7 +20179,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas City Hall",
-                  "text": "A Las Vegas-i városháza Las Vegas város kormányzati székhelye.",
+                  "text": "Egy történelmi art deco épület a Vegas Strip körzetében.",
                   "category": "historical",
                   "coords": [
                         -115.148485,
@@ -20287,7 +20287,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Springs Preserve",
-                  "text": "A Las Vegas Springs Preserve természetvédelmi terület botanikus kertekkel és múzeumokkal a Las Vegas Stripen.",
+                  "text": "Egy 180 hektáros természetvédelmi terület Las Vegas eredeti forrásainak helyén a Vegas Stripben.",
                   "category": "park",
                   "coords": [
                         -115.187459,
@@ -20305,7 +20305,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Punk Rock Museum",
-                  "text": "A Punk Rock Museum egy múzeum, amely a punk rock zene történetének szentelt Las Vegasban.",
+                  "text": "A punkrock történelemének és emléktárgyainak múzeuma a Las Vegas Strip-en.",
                   "category": "museum",
                   "coords": [
                         -115.160637,
@@ -20314,7 +20314,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burlesque Hall of Fame",
-                  "text": "A Burlesque Hall of Fame egy múzeum, amely a burleszk művészetét ünnepli Las Vegasban.",
+                  "text": "Burleszk jelmezeket és emléktárgyakat bemutató múzeum a Las Vegas Strip közelében.",
                   "category": "museum",
                   "coords": [
                         -115.152872,
@@ -20350,7 +20350,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Discovery Children's Museum",
-                  "text": "A Discovery Children's Museum egy interaktív gyermekmúzeum Las Vegasban.",
+                  "text": "Interaktív gyermekmúzeum tudományos és művészeti kiállításokkal, a Las Vegas Strip közelében.",
                   "category": "museum",
                   "coords": [
                         -115.152583,
@@ -20386,7 +20386,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Natural History Museum",
-                  "text": "A Las Vegas Natural History Museum természetrajzi kiállításokat mutat be Las Vegasban.",
+                  "text": "Természetrajzi múzeum dinoszaurusz csontvázakkal a Las Vegas Strip-en.",
                   "category": "museum",
                   "coords": [
                         -115.133792,
@@ -20395,7 +20395,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre 7",
-                  "text": "Theatre 7 egy előadó-művészeti színház Las Vegasban.",
+                  "text": "Kis színházterem helyi produkcióknak a Las Vegas Strip-en.",
                   "category": "cultural",
                   "coords": [
                         -115.151731,
@@ -20404,7 +20404,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shrine of the Most Holy Redeemer",
-                  "text": "Shrine of the Most Holy Redeemer egy katolikus templom Las Vegasban.",
+                  "text": "Katolikus templom, amely a Las Vegas Strip területét szolgálja ki.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
@@ -20413,7 +20413,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "Mon Bel Ami Wedding Chapel egy esküvői kápolna Las Vegasban.",
+                  "text": "Esküvői kápolna a Las Vegas Strip-en, francia ihletésű építészettel.",
                   "category": "religious",
                   "coords": [
                         -115.144246,
@@ -20431,7 +20431,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Michelob Ultra Arena",
-                  "text": "Michelob Ultra Arena egy többcélú aréna a Mandalay Bay-ben Las Vegasban.",
+                  "text": "Sport- és koncertcsarnok a Mandalay Bay Resortban a Las Vegas Strip-en.",
                   "category": "landmark",
                   "coords": [
                         -115.179,
@@ -20440,7 +20440,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hewetson Playground",
-                  "text": "Hewetson Playground egy játszótér Las Vegasban.",
+                  "text": "Játszótér a Hewetson Parkban, a Las Vegas Strip közelében.",
                   "category": "park",
                   "coords": [
                         -115.1224,
@@ -20449,7 +20449,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fitzgeralds Tot Lot",
-                  "text": "Fitzgeralds Tot Lot egy kisgyermekek számára kialakított játszótér Las Vegasban.",
+                  "text": "Kisgyermekek számára kialakított játszótér a Fitzgeralds Kaszinóban a Las Vegas Strip-en.",
                   "category": "park",
                   "coords": [
                         -115.1516,
@@ -20458,7 +20458,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madison Playground",
-                  "text": "Madison Playground egy játszótér Las Vegasban.",
+                  "text": "Nyilvános játszótér a Madison negyedben, a Las Vegas Strip közelében.",
                   "category": "park",
                   "coords": [
                         -115.1551,
@@ -20467,7 +20467,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ronzone Playground",
-                  "text": "Ronzone Playground egy játszótér Las Vegasban.",
+                  "text": "Játszótér a Ronzone Parkban, Las Vegasban.",
                   "category": "park",
                   "coords": [
                         -115.2177,
@@ -20496,7 +20496,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas City Hall",
-                  "text": "Primăria din Las Vegas este sediul guvernului orașului Las Vegas.",
+                  "text": "O clădire istorică Art Deco din zona Vegas Strip.",
                   "category": "historical",
                   "coords": [
                         -115.148485,
@@ -20604,7 +20604,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Springs Preserve",
-                  "text": "Las Vegas Springs Preserve este un parc natural cu grădini botanice și muzee pe Las Vegas Strip.",
+                  "text": "O rezervație naturală de 180 de acri pe locul izvoarelor originale ale Las Vegas-ului în Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.187459,
@@ -20622,7 +20622,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Punk Rock Museum",
-                  "text": "Punk Rock Museum este un muzeu dedicat istoriei muzicii punk rock din Las Vegas.",
+                  "text": "Un muzeu dedicat istoriei și obiectelor de colecție punk rock, pe Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.160637,
@@ -20631,7 +20631,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burlesque Hall of Fame",
-                  "text": "Burlesque Hall of Fame este un muzeu care celebrează arta burlescului în Las Vegas.",
+                  "text": "Un muzeu care prezintă costume și obiecte de colecție burlesque, lângă Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.152872,
@@ -20667,7 +20667,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Discovery Children's Museum",
-                  "text": "Discovery Children's Museum este un muzeu interactiv pentru copii în Las Vegas.",
+                  "text": "Un muzeu interactiv pentru copii cu exponate științifice și artistice, lângă Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.152583,
@@ -20703,7 +20703,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Natural History Museum",
-                  "text": "Las Vegas Natural History Museum prezintă exponate de istorie naturală în Las Vegas.",
+                  "text": "Un muzeu de istorie naturală cu schelete de dinozauri, pe Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.133792,
@@ -20712,7 +20712,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre 7",
-                  "text": "Theatre 7 este un teatru de artele spectacolului în Las Vegas.",
+                  "text": "O sală de teatru mică pentru producții locale, pe Las Vegas Strip.",
                   "category": "cultural",
                   "coords": [
                         -115.151731,
@@ -20721,7 +20721,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shrine of the Most Holy Redeemer",
-                  "text": "Shrine of the Most Holy Redeemer este o biserică catolică în Las Vegas.",
+                  "text": "O biserică catolică care deservește zona Las Vegas Strip.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
@@ -20730,7 +20730,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "Mon Bel Ami Wedding Chapel este o capelă de nuntă în Las Vegas.",
+                  "text": "O capelă de nuntă pe Las Vegas Strip, cu arhitectură inspirată de stilul francez.",
                   "category": "religious",
                   "coords": [
                         -115.144246,
@@ -20748,7 +20748,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Michelob Ultra Arena",
-                  "text": "Michelob Ultra Arena este o arenă multifuncțională la Mandalay Bay în Las Vegas.",
+                  "text": "O arenă sportivă și de concerte în cadrul resortului Mandalay Bay, pe Las Vegas Strip.",
                   "category": "landmark",
                   "coords": [
                         -115.179,
@@ -20757,7 +20757,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hewetson Playground",
-                  "text": "Hewetson Playground este un loc de joacă în Las Vegas.",
+                  "text": "Un loc de joacă în Parcul Hewetson, lângă Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1224,
@@ -20766,7 +20766,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fitzgeralds Tot Lot",
-                  "text": "Fitzgeralds Tot Lot este un loc de joacă pentru copii mici în Las Vegas.",
+                  "text": "Un loc de joacă pentru copii mici la Fitzgeralds Casino pe Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1516,
@@ -20775,7 +20775,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madison Playground",
-                  "text": "Madison Playground este un loc de joacă în Las Vegas.",
+                  "text": "Un loc de joacă public în cartierul Madison, lângă Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1551,
@@ -20784,7 +20784,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ronzone Playground",
-                  "text": "Ronzone Playground este un loc de joacă în Las Vegas.",
+                  "text": "Un loc de joacă în Parcul Ronzone din Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.2177,
@@ -20813,7 +20813,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas City Hall",
-                  "text": "Las Vegas City Hall serves as the seat of government for Las Vegas.",
+                  "text": "A historic Art Deco building in the Vegas Strip area.",
                   "category": "historical",
                   "coords": [
                         -115.148485,
@@ -20921,7 +20921,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Springs Preserve",
-                  "text": "Las Vegas Springs Preserve is a nature park with botanical gardens and museums on the Las Vegas Strip.",
+                  "text": "A 180-acre nature preserve on the site of Las Vegas's original springs in Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.187459,
@@ -20939,7 +20939,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Punk Rock Museum",
-                  "text": "The Punk Rock Museum is a museum dedicated to punk rock music history in Las Vegas.",
+                  "text": "A museum of punk rock history and memorabilia on the Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.160637,
@@ -20948,7 +20948,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Burlesque Hall of Fame",
-                  "text": "The Burlesque Hall of Fame is a museum celebrating the art of burlesque in Las Vegas.",
+                  "text": "A museum showcasing burlesque costumes and memorabilia near the Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.152872,
@@ -20984,7 +20984,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Discovery Children's Museum",
-                  "text": "Discovery Children's Museum is an interactive museum for children in Las Vegas.",
+                  "text": "An interactive children's museum with hands-on science and art exhibits near the Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.152583,
@@ -21020,7 +21020,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Las Vegas Natural History Museum",
-                  "text": "The Las Vegas Natural History Museum features natural history exhibits in Las Vegas.",
+                  "text": "A natural history museum with dinosaur skeletons on the Las Vegas Strip.",
                   "category": "museum",
                   "coords": [
                         -115.133792,
@@ -21029,7 +21029,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre 7",
-                  "text": "Theatre 7 is a performing arts theatre in Las Vegas.",
+                  "text": "A small theatre venue for local productions on the Las Vegas Strip.",
                   "category": "cultural",
                   "coords": [
                         -115.151731,
@@ -21038,7 +21038,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Shrine of the Most Holy Redeemer",
-                  "text": "Shrine of the Most Holy Redeemer is a Catholic church in Las Vegas.",
+                  "text": "A Catholic church serving the Las Vegas Strip area.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
@@ -21047,7 +21047,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "Mon Bel Ami Wedding Chapel is a wedding chapel in Las Vegas.",
+                  "text": "A wedding chapel on the Las Vegas Strip with French-inspired architecture.",
                   "category": "religious",
                   "coords": [
                         -115.144246,
@@ -21065,7 +21065,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Michelob Ultra Arena",
-                  "text": "Michelob Ultra Arena is a multi-purpose arena at Mandalay Bay in Las Vegas.",
+                  "text": "A sports and concert arena within the Mandalay Bay resort on the Las Vegas Strip.",
                   "category": "landmark",
                   "coords": [
                         -115.179,
@@ -21074,7 +21074,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hewetson Playground",
-                  "text": "Hewetson Playground is a playground in Las Vegas.",
+                  "text": "A playground at Hewetson Park near the Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1224,
@@ -21083,7 +21083,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fitzgeralds Tot Lot",
-                  "text": "Fitzgeralds Tot Lot is a tot lot playground in Las Vegas.",
+                  "text": "A tot lot at Fitzgeralds Casino on the Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1516,
@@ -21092,7 +21092,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madison Playground",
-                  "text": "Madison Playground is a playground in Las Vegas.",
+                  "text": "A public playground in the Madison neighborhood near the Las Vegas Strip.",
                   "category": "park",
                   "coords": [
                         -115.1551,
@@ -21101,7 +21101,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ronzone Playground",
-                  "text": "Ronzone Playground is a playground in Las Vegas.",
+                  "text": "A playground at Ronzone Park in Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.2177,
@@ -21202,7 +21202,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alvin Ailey American Dance Theater",
-                  "text": "Das Alvin Ailey American Dance Theater ist eine Tanzkompanie und ein Theater in times-square-landmarks-v2.",
+                  "text": "Eine weltberühmte moderne Tanzkompanie in Square.",
                   "category": "cultural",
                   "coords": [
                         -73.986964,
@@ -21211,7 +21211,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Times Square Church",
-                  "text": "Times Square Church ist eine überkonfessionelle christliche Kirche in times-square-landmarks-v2.",
+                  "text": "Eine überkonfessionelle evangelikale Kirche im Times-Square-Gebiet von Square.",
                   "category": "religious",
                   "coords": [
                         -73.984325,
@@ -21366,7 +21366,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alvin Ailey American Dance Theater",
-                  "text": "Az Alvin Ailey American Dance Theater egy táncegyüttes és színház a times-square-landmarks-v2-ben.",
+                  "text": "Egy világhírű modern táncegyüttes Square-ben.",
                   "category": "cultural",
                   "coords": [
                         -73.986964,
@@ -21375,7 +21375,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Times Square Church",
-                  "text": "A Times Square Church egy felekezetközi keresztény templom a times-square-landmarks-v2-ben.",
+                  "text": "Egy felekezetközi evangéliumi templom a Times Square környékén, Square-ben.",
                   "category": "religious",
                   "coords": [
                         -73.984325,
@@ -21530,7 +21530,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alvin Ailey American Dance Theater",
-                  "text": "Alvin Ailey American Dance Theater este o companie de dans și teatru în times-square-landmarks-v2.",
+                  "text": "O companie de dans modern de renume mondial din Square.",
                   "category": "cultural",
                   "coords": [
                         -73.986964,
@@ -21539,7 +21539,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Times Square Church",
-                  "text": "Times Square Church este o biserică creștină nedenominațională în times-square-landmarks-v2.",
+                  "text": "O biserică evanghelică interconfesională în zona Times Square din Square.",
                   "category": "religious",
                   "coords": [
                         -73.984325,
@@ -21694,7 +21694,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Alvin Ailey American Dance Theater",
-                  "text": "The Alvin Ailey American Dance Theater is a dance company and theatre in times-square-landmarks-v2.",
+                  "text": "A world-renowned modern dance company in Square.",
                   "category": "cultural",
                   "coords": [
                         -73.986964,
@@ -21703,7 +21703,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Times Square Church",
-                  "text": "Times Square Church is a non-denominational Christian church in times-square-landmarks-v2.",
+                  "text": "A non-denominational evangelical church in the Times Square area of Square.",
                   "category": "religious",
                   "coords": [
                         -73.984325,
@@ -21948,7 +21948,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Loring-Greenough House",
-                  "text": "Das Loring-Greenough House ist ein historisches Hausmuseum im Bereich der Fenway Park Landmarks.",
+                  "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert im Jamaica Plain-Viertel von Park.",
                   "category": "museum",
                   "coords": [
                         -71.114936,
@@ -21975,7 +21975,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Repertory Theater",
-                  "text": "Das American Repertory Theater ist ein professionelles Theater im Bereich der Fenway Park Landmarks.",
+                  "text": "Ein professionelles Theater in Park, das mit der Harvard-Universität verbunden ist.",
                   "category": "cultural",
                   "coords": [
                         -71.12295,
@@ -21984,7 +21984,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Square Theater",
-                  "text": "Das Central Square Theater ist ein Theater im Bereich der Fenway Park Landmarks.",
+                  "text": "Ein Theater in Park mit zwei Aufführungsstätten für zwei verschiedene Theatergruppen.",
                   "category": "cultural",
                   "coords": [
                         -71.101137,
@@ -22047,7 +22047,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Luke's and St. Margaret's Church",
-                  "text": "St. Luke's and St. Margaret's Church ist eine episkopale Kirche im Bereich der Fenway Park Landmarks.",
+                  "text": "Eine episkopale Kirche im Allston-Village-Viertel von Park.",
                   "category": "religious",
                   "coords": [
                         -71.127277,
@@ -22065,7 +22065,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stephen's Armenian Apostolic Church",
-                  "text": "Saint Stephens Armenian Apostolic Church ist eine armenische Kirche im Bereich der Fenway Park Landmarks.",
+                  "text": "Eine armenisch-apostolische Kirche in Park, die die armenische Gemeinschaft bedient.",
                   "category": "religious",
                   "coords": [
                         -71.158045,
@@ -22074,7 +22074,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Paul Catholic Church",
-                  "text": "Saint Paul Catholic Church ist eine katholische Kirche im Bereich der Fenway Park Landmarks.",
+                  "text": "Katholische Kirche nahe dem Harvard Square.",
                   "category": "religious",
                   "coords": [
                         -71.11573,
@@ -22101,7 +22101,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harvard-Epworth United Methodist Church",
-                  "text": "Harvard-Epworth United Methodist Church ist eine methodistische Kirche im Bereich der Fenway Park Landmarks.",
+                  "text": "Methodistenkirche an der Massachusetts Avenue nahe dem Harvard Square.",
                   "category": "religious",
                   "coords": [
                         -71.119712,
@@ -22119,7 +22119,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Cambridge Baptist Church",
-                  "text": "Old Cambridge Baptist Church ist eine baptistische Kirche im Bereich der Fenway Park Landmarks.",
+                  "text": "Baptistenkirche am historischen Cambridge Common.",
                   "category": "religious",
                   "coords": [
                         -71.114242,
@@ -22146,7 +22146,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Eucharistic Shrine",
-                  "text": "Saint Clement Eucharistic Shrine ist eine katholische Schrein in Bereich der Fenway Park Landmarks.",
+                  "text": "Eucharistische Wallfahrtsstätte im Back-Bay-Viertel von Boston.",
                   "category": "religious",
                   "coords": [
                         -71.089768,
@@ -22274,7 +22274,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Loring-Greenough House",
-                  "text": "A Loring-Greenough House egy történelmi házmúzeum a Fenway Park Landmarks területén.",
+                  "text": "Egy 18. századi történelmi kúria Park Jamaica Plain negyedében.",
                   "category": "museum",
                   "coords": [
                         -71.114936,
@@ -22301,7 +22301,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Repertory Theater",
-                  "text": "Az American Repertory Theater egy professzionális színház a Fenway Park Landmarks területén.",
+                  "text": "Egy professzionális színház Parkban, a Harvard Egyetemhez kapcsolódva.",
                   "category": "cultural",
                   "coords": [
                         -71.12295,
@@ -22310,7 +22310,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Square Theater",
-                  "text": "A Central Square Theater egy színház a Fenway Park Landmarks területén.",
+                  "text": "Egy színház Parkban, két előadóhellyel két különböző társulat számára.",
                   "category": "cultural",
                   "coords": [
                         -71.101137,
@@ -22373,7 +22373,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Luke's and St. Margaret's Church",
-                  "text": "A St. Luke's and St. Margaret's Church egy episzkopális templom a Fenway Park Landmarks területén.",
+                  "text": "Egy episzkopális templom Park Allston Village negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.127277,
@@ -22391,7 +22391,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stephen's Armenian Apostolic Church",
-                  "text": "A Saint Stephens Armenian Apostolic Church egy örmény templom a Fenway Park Landmarks területén.",
+                  "text": "Egy örmény apostoli templom Parkban, amely az örmény közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -71.158045,
@@ -22400,7 +22400,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Paul Catholic Church",
-                  "text": "A Saint Paul Catholic Church egy katolikus templom a Fenway Park Landmarks területén.",
+                  "text": "Katolikus templom a Harvard Square közelében.",
                   "category": "religious",
                   "coords": [
                         -71.11573,
@@ -22427,7 +22427,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harvard-Epworth United Methodist Church",
-                  "text": "A Harvard-Epworth United Methodist Church egy metodista templom a Fenway Park Landmarks területén.",
+                  "text": "Metodista templom a Massachusetts Avenue-n, a Harvard Square közelében.",
                   "category": "religious",
                   "coords": [
                         -71.119712,
@@ -22445,7 +22445,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Cambridge Baptist Church",
-                  "text": "Az Old Cambridge Baptist Church egy baptista templom a Fenway Park Landmarks területén.",
+                  "text": "Baptista templom a történelmi Cambridge Common-on.",
                   "category": "religious",
                   "coords": [
                         -71.114242,
@@ -22472,7 +22472,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Eucharistic Shrine",
-                  "text": "A Saint Clement Eucharistic Shrine egy katolikus szentély a Fenway Park Landmarks területén.",
+                  "text": "Eucharisztikus szentély Boston Back Bay negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.089768,
@@ -22600,7 +22600,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Loring-Greenough House",
-                  "text": "Loring-Greenough House este un muzeu de casă istorică în zona Fenway Park Landmarks.",
+                  "text": "Un conac istoric din secolul al XVIII-lea în cartierul Jamaica Plain din Park.",
                   "category": "museum",
                   "coords": [
                         -71.114936,
@@ -22627,7 +22627,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Repertory Theater",
-                  "text": "American Repertory Theater este un teatru profesionist în zona Fenway Park Landmarks.",
+                  "text": "Un teatru profesionist din Park, afiliat Universității Harvard.",
                   "category": "cultural",
                   "coords": [
                         -71.12295,
@@ -22636,7 +22636,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Square Theater",
-                  "text": "Central Square Theater este un teatru în zona Fenway Park Landmarks.",
+                  "text": "Un teatru din Park cu două săli de spectacole pentru două trupe diferite.",
                   "category": "cultural",
                   "coords": [
                         -71.101137,
@@ -22699,7 +22699,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Luke's and St. Margaret's Church",
-                  "text": "St. Luke's and St. Margaret's Church este o biserică episcopală în zona Fenway Park Landmarks.",
+                  "text": "O biserică episcopală în cartierul Allston Village din Park.",
                   "category": "religious",
                   "coords": [
                         -71.127277,
@@ -22717,7 +22717,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stephen's Armenian Apostolic Church",
-                  "text": "Saint Stephens Armenian Apostolic Church este o biserică armeană în zona Fenway Park Landmarks.",
+                  "text": "O biserică armeană apostolică din Park care deservește comunitatea armeană.",
                   "category": "religious",
                   "coords": [
                         -71.158045,
@@ -22726,7 +22726,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Paul Catholic Church",
-                  "text": "Saint Paul Catholic Church este o biserică catolică în zona Fenway Park Landmarks.",
+                  "text": "Biserică catolică lângă Harvard Square.",
                   "category": "religious",
                   "coords": [
                         -71.11573,
@@ -22753,7 +22753,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harvard-Epworth United Methodist Church",
-                  "text": "Harvard-Epworth United Methodist Church este o biserică metodistă unită în zona Fenway Park Landmarks.",
+                  "text": "Biserică metodistă pe Massachusetts Avenue, lângă Harvard Square.",
                   "category": "religious",
                   "coords": [
                         -71.119712,
@@ -22771,7 +22771,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Cambridge Baptist Church",
-                  "text": "Old Cambridge Baptist Church este o biserică baptistă în zona Fenway Park Landmarks.",
+                  "text": "Biserică baptistă pe istoricul Cambridge Common.",
                   "category": "religious",
                   "coords": [
                         -71.114242,
@@ -22798,7 +22798,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Eucharistic Shrine",
-                  "text": "Saint Clement Eucharistic Shrine este un altar catolic în zona Fenway Park Landmarks.",
+                  "text": "Sanctuar euharistic în cartierul Back Bay din Boston.",
                   "category": "religious",
                   "coords": [
                         -71.089768,
@@ -22926,7 +22926,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Loring-Greenough House",
-                  "text": "The Loring-Greenough House is a historic house museum in the Fenway Park Landmarks area.",
+                  "text": "A historic 18th-century mansion in the Jamaica Plain neighborhood of Park.",
                   "category": "museum",
                   "coords": [
                         -71.114936,
@@ -22953,7 +22953,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Repertory Theater",
-                  "text": "The American Repertory Theater is a professional theater in the Fenway Park Landmarks area.",
+                  "text": "A professional theater in Park affiliated with Harvard University.",
                   "category": "cultural",
                   "coords": [
                         -71.12295,
@@ -22962,7 +22962,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Central Square Theater",
-                  "text": "Central Square Theater is a theater in the Fenway Park Landmarks area.",
+                  "text": "A theater in Park with two performance spaces for two distinct theater companies.",
                   "category": "cultural",
                   "coords": [
                         -71.101137,
@@ -23025,7 +23025,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Luke's and St. Margaret's Church",
-                  "text": "St. Luke's and St. Margaret's Church is an Episcopal church in the Fenway Park Landmarks area.",
+                  "text": "An Episcopal church in the Allston Village neighborhood of Park.",
                   "category": "religious",
                   "coords": [
                         -71.127277,
@@ -23043,7 +23043,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Stephens Armenian Apostolic Church",
-                  "text": "Saint Stephens Armenian Apostolic Church is an Armenian church in the Fenway Park Landmarks area.",
+                  "text": "An Armenian Apostolic church in Park serving the Armenian community.",
                   "category": "religious",
                   "coords": [
                         -71.158045,
@@ -23052,7 +23052,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Paul Catholic Church",
-                  "text": "Saint Paul Catholic Church is a Catholic church in the Fenway Park Landmarks area.",
+                  "text": "A Catholic church near Harvard Square.",
                   "category": "religious",
                   "coords": [
                         -71.11573,
@@ -23079,7 +23079,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Harvard-Epworth United Methodist Church",
-                  "text": "Harvard-Epworth United Methodist Church is a United Methodist church in the Fenway Park Landmarks area.",
+                  "text": "A Methodist church on Massachusetts Avenue near Harvard Square.",
                   "category": "religious",
                   "coords": [
                         -71.119712,
@@ -23097,7 +23097,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Cambridge Baptist Church",
-                  "text": "Old Cambridge Baptist Church is a Baptist church in the Fenway Park Landmarks area.",
+                  "text": "A Baptist church on the historic Cambridge Common.",
                   "category": "religious",
                   "coords": [
                         -71.114242,
@@ -23124,7 +23124,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Eucharistic Shrine",
-                  "text": "Saint Clement Eucharistic Shrine is a Catholic shrine in the Fenway Park Landmarks area.",
+                  "text": "A Eucharistic shrine in Boston's Back Bay neighborhood.",
                   "category": "religious",
                   "coords": [
                         -71.089768,
@@ -23207,7 +23207,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "National Veterans Art Museum",
-                  "text": "Das National Veterans Art Museum ist ein Museum in Chicago, das der Kunst von Militärveteranen gewidmet ist.",
+                  "text": "Museum für Kriegsveteranen-Kunst mit Werken von und über Veteranen.",
                   "category": "museum",
                   "coords": [
                         -87.748637,
@@ -23216,7 +23216,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Irish American Heritage Center",
-                  "text": "Das Irish American Heritage Center ist ein Museum in Chicago, das die irische Kultur und das Erbe feiert.",
+                  "text": "Kulturzentrum zur Förderung der irisch-amerikanischen Geschichte und Kultur.",
                   "category": "museum",
                   "coords": [
                         -87.744535,
@@ -23225,7 +23225,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Peggy Notebaert Nature Museum",
-                  "text": "Das Peggy Notebaert Nature Museum ist ein Museum in Chicago, das sich auf Natur und Naturschutz konzentriert.",
+                  "text": "Naturkundemuseum mit einem begehbaren Schmetterlingsgarten.",
                   "category": "museum",
                   "coords": [
                         -87.635231,
@@ -23234,7 +23234,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leather Archives and Museum",
-                  "text": "Das Leather Archives and Museum ist ein Museum in Chicago, das der Geschichte der Leder-Subkultur gewidmet ist.",
+                  "text": "Museum zur Geschichte der Leder- und Fetisch-Subkultur.",
                   "category": "museum",
                   "coords": [
                         -87.668328,
@@ -23243,7 +23243,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Swedish American Museum",
-                  "text": "Das Swedish American Museum ist ein Museum in Chicago über die Geschichte der schwedischen Einwanderer.",
+                  "text": "Schwedisch-amerikanisches Museum im Andersonville-Viertel.",
                   "category": "museum",
                   "coords": [
                         -87.668062,
@@ -23252,7 +23252,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Governor Henry Horner Memorial",
-                  "text": "Das Governor Henry Horner Memorial ist ein Denkmal in Illinois zu Ehren des ehemaligen Gouverneurs.",
+                  "text": "Gouverneursdenkmal an einer Raststätte am Illinois-Michigan-Kanal.",
                   "category": "historical",
                   "coords": [
                         -87.698235,
@@ -23261,7 +23261,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Scientology",
-                  "text": "Die Church of Scientology ist ein Gotteshaus für Scientologen in Chicago.",
+                  "text": "Scientology-Kirche in Chicagos Near North Side.",
                   "category": "religious",
                   "coords": [
                         -87.664103,
@@ -23324,7 +23324,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muslim Community Center",
-                  "text": "Das Muslim Community Center ist eine Moschee und ein Gemeindezentrum für Muslime in Chicago.",
+                  "text": "Islamisches Gemeindezentrum in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.729002,
@@ -23333,7 +23333,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Viator Roman Catholic Church",
-                  "text": "Die Saint Viator Roman Catholic Church ist eine katholische Kirche in Chicago, die dem Heiligen Viator gewidmet ist.",
+                  "text": "Katholische Kirche im Lincoln-Square-Viertel, erbaut im romanischen Stil.",
                   "category": "religious",
                   "coords": [
                         -87.731689,
@@ -23351,7 +23351,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Puerto Rican Arts Alliance",
-                  "text": "Die Puerto Rican Arts Alliance ist ein Kultur- und Kunstzentrum in Chicago, das puerto-ricanische Kunst und Kultur fördert.",
+                  "text": "Organisation zur Förderung puertoricanischer Kunst im Humboldt-Park-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -87.717134,
@@ -23360,7 +23360,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Covenant Presbyterian Church",
-                  "text": "Covenant Presbyterian Church ist eine presbyterianische Kirche in Chicago.",
+                  "text": "Presbyterianische Kirche im Lincoln-Park-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.678373,
@@ -23369,7 +23369,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Hedwig Roman Catholic Church",
-                  "text": "Die Saint Hedwig Roman Catholic Church ist eine katholische Kirche in Chicago mit einem starken polnischen Erbe.",
+                  "text": "Polnisch-katholische Kirche im Bucktown-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.680661,
@@ -23387,7 +23387,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Roman Catholic Church",
-                  "text": "Die Saint Clement Roman Catholic Church ist eine katholische Kirche im Lincoln Park Viertel von Chicago.",
+                  "text": "Römisch-katholische Kirche im Lincoln-Park-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.646122,
@@ -23405,7 +23405,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Josaphat Catholic Church",
-                  "text": "Die Saint Josaphat Catholic Church ist eine katholische Kirche in Chicago, die der polnisch-amerikanischen Gemeinde dient.",
+                  "text": "Katholische Kirche im Ukrainian-Village-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.662829,
@@ -23414,7 +23414,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Vincent de Paul Catholic Church",
-                  "text": "Die St. Vincent de Paul Catholic Church ist eine katholische Kirche in Chicago, die als Campus-Kirche der DePaul University dient.",
+                  "text": "Katholische Kirche im Lincoln-Park-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.653915,
@@ -23441,7 +23441,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Shrine of Saint Francis Xavier Cabrini",
-                  "text": "Der National Shrine of Saint Francis Xavier Cabrini ist ein katholischer Schrein in Chicago, der der Schutzpatronin der Einwanderer gewidmet ist.",
+                  "text": "Nationalheiligtum der ersten US-amerikanischen Heiligen, Franziska Xaveria Cabrini, in Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.639857,
@@ -23450,7 +23450,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Sholom Bnai Israel Congregation",
-                  "text": "Anshe Sholom Bnai Israel Congregation ist eine jüdische Synagoge in Chicago, die einer konservativen Gemeinde dient.",
+                  "text": "Konservative Synagoge im Lakeview-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.643407,
@@ -23459,7 +23459,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Sholom",
-                  "text": "Temple Sholom ist eine reformjüdische Synagoge in Chicago.",
+                  "text": "Reform-Synagoge im Lake View East-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.642603,
@@ -23477,7 +23477,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Atonement",
-                  "text": "Church of the Atonement ist eine episkopale Kirche im Lakeview Viertel von Chicago.",
+                  "text": "Episkopalkirche im Lincoln-Park-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.656296,
@@ -23486,7 +23486,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madonna Della Strada Chapel",
-                  "text": "Madonna Della Strada Chapel ist eine katholische Kapelle auf dem Campus der Loyola University Chicago.",
+                  "text": "Kapelle auf dem Lake-Shore-Campus der Loyola-Universität Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.656259,
@@ -23495,7 +23495,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Ita's Roman Catholic Church",
-                  "text": "Die Saint Ita's Roman Catholic Church ist eine katholische Kirche im Edgewater Viertel von Chicago.",
+                  "text": "Römisch-katholische Kirche im Edgewater-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.660631,
@@ -23504,7 +23504,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Edgewater Presbyterian Church",
-                  "text": "Edgewater Presbyterian Church ist eine presbyterianische Kirche im Edgewater Viertel von Chicago.",
+                  "text": "Presbyterianische Kirche im Edgewater-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.656231,
@@ -23513,7 +23513,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buddhist Temple of Chicago",
-                  "text": "Der Buddhistische Tempel von Chicago ist ein buddhistischer Andachtsort im Uptown Viertel von Chicago.",
+                  "text": "Buddhistischer Tempel der Jodo-Shinshu-Schule in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.659329,
@@ -23522,7 +23522,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Emet Synagogue",
-                  "text": "Anshe Emet Synagogue ist eine konservative jüdische Synagoge im Lakeview Viertel von Chicago.",
+                  "text": "Konservative Synagoge im Lakeview-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.648012,
@@ -23531,7 +23531,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lillstreet Art Center",
-                  "text": "Lillstreet Art Center ist ein Kunstzentrum in Chicago, das Kurse und Galerieräume anbietet.",
+                  "text": "Gemeinschaftskunstzentrum im Ravenswood-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -87.673545,
@@ -23549,7 +23549,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church ist eine episkopale Kirche im Ravenswood Viertel von Chicago.",
+                  "text": "Episkopalkirche im Ravenswood-Viertel.",
                   "category": "religious",
                   "coords": [
                         -87.672913,
@@ -23560,7 +23560,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "National Veterans Art Museum",
-                  "text": "A National Veterans Art Museum egy múzeum Chicagóban, amely a katonai veteránok által készített művészetre összpontosít.",
+                  "text": "Háborús veterán művészeti múzeum, amely a veteránok által és róluk készült alkotásokat mutatja be.",
                   "category": "museum",
                   "coords": [
                         -87.748637,
@@ -23569,7 +23569,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Irish American Heritage Center",
-                  "text": "Az Irish American Heritage Center egy múzeum Chicagóban, amely az ír kultúrát és örökséget ünnepli.",
+                  "text": "Ír-amerikai örökségközpont, amely az ír-amerikai történelmet és kultúrát ünnepli.",
                   "category": "museum",
                   "coords": [
                         -87.744535,
@@ -23578,7 +23578,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Peggy Notebaert Nature Museum",
-                  "text": "A Peggy Notebaert Nature Museum egy múzeum Chicagóban, amely a természetre és a természetvédelemre összpontosít.",
+                  "text": "Természettudományi múzeum élő pillangókerttel.",
                   "category": "museum",
                   "coords": [
                         -87.635231,
@@ -23587,7 +23587,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leather Archives and Museum",
-                  "text": "A Leather Archives and Museum egy múzeum Chicagóban, amely a bőr szubkultúra történetét mutatja be.",
+                  "text": "Bőrmúzeum, amely a bőr- és fetis szubkultúra történetét tárja fel.",
                   "category": "museum",
                   "coords": [
                         -87.668328,
@@ -23596,7 +23596,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Swedish American Museum",
-                  "text": "A Swedish American Museum egy múzeum Chicagóban a svéd bevándorlók történetéről.",
+                  "text": "Svéd-amerikai múzeum az Andersonville negyedben.",
                   "category": "museum",
                   "coords": [
                         -87.668062,
@@ -23605,7 +23605,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Governor Henry Horner Memorial",
-                  "text": "A Governor Henry Horner Memorial egy emlékmű Illinois államban, a volt kormányzó tiszteletére.",
+                  "text": "Kormányzói emlékmű egy pihenőhelynél az Illinois–Michigan-csatorna mentén.",
                   "category": "historical",
                   "coords": [
                         -87.698235,
@@ -23614,7 +23614,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Scientology",
-                  "text": "A Church of Scientology a szcientológusok imahelye Chicagóban.",
+                  "text": "Scientológia Egyház Chicago Near North Side negyedében.",
                   "category": "religious",
                   "coords": [
                         -87.664103,
@@ -23677,7 +23677,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muslim Community Center",
-                  "text": "A Muslim Community Center egy mecset és közösségi központ a muszlimok számára Chicagóban.",
+                  "text": "Muszlim közösségi központ Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.729002,
@@ -23686,7 +23686,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Viator Roman Catholic Church",
-                  "text": "A Saint Viator római katolikus templom egy chicagói katolikus templom, amely Szent Viatornak van szentelve.",
+                  "text": "Római katolikus templom a Lincoln Square negyedben, román stílusban.",
                   "category": "religious",
                   "coords": [
                         -87.731689,
@@ -23704,7 +23704,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Puerto Rican Arts Alliance",
-                  "text": "A Puerto Rican Arts Alliance egy kulturális művészeti központ Chicagóban, amely a Puerto Ricó-i művészetet és kultúrát népszerűsíti.",
+                  "text": "Szervezet, amely a Puerto Ricó-i művészetet népszerűsíti a Humboldt Park negyedben.",
                   "category": "cultural",
                   "coords": [
                         -87.717134,
@@ -23713,7 +23713,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Covenant Presbyterian Church",
-                  "text": "Covenant Presbyterian Church egy presbiteriánus templom Chicagóban.",
+                  "text": "Presbiteriánus templom a Lincoln Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.678373,
@@ -23722,7 +23722,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Hedwig Roman Catholic Church",
-                  "text": "A Saint Hedwig római katolikus templom egy chicagói katolikus templom erős lengyel örökséggel.",
+                  "text": "Lengyel katolikus templom a Bucktown negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.680661,
@@ -23740,7 +23740,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Roman Catholic Church",
-                  "text": "A Saint Clement római katolikus templom egy chicagói katolikus templom a Lincoln Park negyedben.",
+                  "text": "Római katolikus templom a Lincoln Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.646122,
@@ -23758,7 +23758,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Josaphat Catholic Church",
-                  "text": "A Saint Josaphat Catholic Church egy chicagói katolikus templom, amely a lengyel-amerikai közösséget szolgálja.",
+                  "text": "Katolikus templom az Ukrainian Village negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.662829,
@@ -23767,7 +23767,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Vincent de Paul Catholic Church",
-                  "text": "A St. Vincent de Paul Catholic Church egy chicagói katolikus templom, amely a DePaul Egyetem kampusz-temploma.",
+                  "text": "Katolikus templom a Lincoln Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.653915,
@@ -23794,7 +23794,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Shrine of Saint Francis Xavier Cabrini",
-                  "text": "A National Shrine of Saint Francis Xavier Cabrini egy chicagói katolikus szentély, amely a bevándorlók védőszentjének van szentelve.",
+                  "text": "Az első amerikai szent, Francis Xavier Cabrini nemzeti szentélye a Lincoln Parkban.",
                   "category": "religious",
                   "coords": [
                         -87.639857,
@@ -23803,7 +23803,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Sholom Bnai Israel Congregation",
-                  "text": "Anshe Sholom Bnai Israel Congregation egy chicagói zsinagóga, amely egy konzervatív közösséget szolgál.",
+                  "text": "Konzervatív zsinagóga a Lakeview negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.643407,
@@ -23812,7 +23812,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Sholom",
-                  "text": "A Temple Sholom egy reform zsidó zsinagóga Chicagóban.",
+                  "text": "Reform zsinagóga a Lake View East negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.642603,
@@ -23830,7 +23830,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Atonement",
-                  "text": "Church of the Atonement egy episzkopális templom Chicago Lakeview negyedében.",
+                  "text": "Episzkopális templom a Lincoln Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.656296,
@@ -23839,7 +23839,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madonna Della Strada Chapel",
-                  "text": "A Madonna Della Strada kápolna egy katolikus kápolna a Loyola University Chicago kampuszán.",
+                  "text": "Kápolna a Loyola Egyetem chicagói Lake Shore campusán.",
                   "category": "religious",
                   "coords": [
                         -87.656259,
@@ -23848,7 +23848,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Ita's Roman Catholic Church",
-                  "text": "A Saint Ita's római katolikus templom egy chicagói katolikus templom az Edgewater negyedben.",
+                  "text": "Római katolikus templom az Edgewater negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.660631,
@@ -23857,7 +23857,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Edgewater Presbyterian Church",
-                  "text": "Edgewater Presbyterian Church egy presbiteriánus templom Chicago Edgewater negyedében.",
+                  "text": "Presbiteriánus templom az Edgewater negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.656231,
@@ -23866,7 +23866,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buddhist Temple of Chicago",
-                  "text": "A Buddhist Temple of Chicago egy buddhista imahely Chicago Uptown negyedében.",
+                  "text": "Buddhista templom a Jodo Shinshu iskola szerint Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.659329,
@@ -23875,7 +23875,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Emet Synagogue",
-                  "text": "Anshe Emet Synagogue egy konzervatív zsidó zsinagóga Chicago Lakeview negyedében.",
+                  "text": "Konzervatív zsinagóga a Lakeview negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.648012,
@@ -23884,7 +23884,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lillstreet Art Center",
-                  "text": "A Lillstreet Art Center egy művészeti központ Chicagóban, amely kurzusokat és galériákat kínál.",
+                  "text": "Közösségi művészeti központ a Ravenswood negyedben.",
                   "category": "cultural",
                   "coords": [
                         -87.673545,
@@ -23902,7 +23902,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church egy episzkopális templom Chicago Ravenswood negyedében.",
+                  "text": "Episzkopális templom a Ravenswood negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.672913,
@@ -23913,7 +23913,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "National Veterans Art Museum",
-                  "text": "Muzeul Național de Artă al Veteranilor (National Veterans Art Museum) este un muzeu în Chicago dedicat artei create de veterani militari.",
+                  "text": "Muzeu de artă al veteranilor, cu lucrări realizate de și despre veterani.",
                   "category": "museum",
                   "coords": [
                         -87.748637,
@@ -23922,7 +23922,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Irish American Heritage Center",
-                  "text": "Centrul de moștenire irlandez-american (Irish American Heritage Center) este un muzeu în Chicago care sărbătorește cultura și moștenirea irlandeză.",
+                  "text": "Centru cultural care promovează istoria și cultura irlandezo-americană.",
                   "category": "museum",
                   "coords": [
                         -87.744535,
@@ -23931,7 +23931,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Peggy Notebaert Nature Museum",
-                  "text": "Muzeul Naturii Peggy Notebaert (The Peggy Notebaert Nature Museum) este un muzeu în Chicago axat pe natură și conservare.",
+                  "text": "Muzeu al naturii cu o grădină de fluturi vii.",
                   "category": "museum",
                   "coords": [
                         -87.635231,
@@ -23940,7 +23940,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leather Archives and Museum",
-                  "text": "Arhivele și Muzeul de Piele (Leather Archives and Museum) este un muzeu în Chicago dedicat istoriei subculturii din piele.",
+                  "text": "Muzeu al subculturii din piele și fetiș, explorând istoria comunității leather.",
                   "category": "museum",
                   "coords": [
                         -87.668328,
@@ -23949,7 +23949,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Swedish American Museum",
-                  "text": "Muzeul Suedez American (Swedish American Museum) este un muzeu în Chicago despre istoria imigranților suedezi.",
+                  "text": "Muzeu suedez-american în cartierul Andersonville.",
                   "category": "museum",
                   "coords": [
                         -87.668062,
@@ -23958,7 +23958,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Governor Henry Horner Memorial",
-                  "text": "Memorialul Guvernatorului Henry Horner (Governor Henry Horner Memorial) este un monument în Illinois care îl onorează pe fostul guvernator.",
+                  "text": "Monument al guvernatorului la o zonă de odihnă de-a lungul Canalului Illinois-Michigan.",
                   "category": "historical",
                   "coords": [
                         -87.698235,
@@ -23967,7 +23967,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Scientology",
-                  "text": "Biserica Scientologiei este un loc de cult pentru scientologi în Chicago.",
+                  "text": "Biserica Scientologiei în cartierul Near North Side din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.664103,
@@ -24030,7 +24030,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muslim Community Center",
-                  "text": "Centrul Comunitar Musulman este o moschee și un centru comunitar pentru musulmani din Chicago.",
+                  "text": "Centru comunitar musulman în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.729002,
@@ -24039,7 +24039,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Viator Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sfântul Viator este o biserică catolică din Chicago dedicată Sfântului Viator.",
+                  "text": "Biserică catolică romană în cartierul Lincoln Square, în stil românesc.",
                   "category": "religious",
                   "coords": [
                         -87.731689,
@@ -24057,7 +24057,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Puerto Rican Arts Alliance",
-                  "text": "Alianța Artelor Portoricane este un centru cultural artistic din Chicago care promovează arta și cultura portoricană.",
+                  "text": "Organizație care promovează arta portoricană în cartierul Humboldt Park.",
                   "category": "cultural",
                   "coords": [
                         -87.717134,
@@ -24066,7 +24066,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Covenant Presbyterian Church",
-                  "text": "Biserica Prezbiteriană Covenant este o biserică prezbiteriană din Chicago.",
+                  "text": "Biserică prezbiteriană în cartierul Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.678373,
@@ -24075,7 +24075,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Hedwig Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sfânta Hedviga este o biserică catolică din Chicago cu o puternică moștenire poloneză.",
+                  "text": "Biserică catolică poloneză în cartierul Bucktown.",
                   "category": "religious",
                   "coords": [
                         -87.680661,
@@ -24093,7 +24093,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sfântul Clement este o biserică catolică din cartierul Lincoln Park al orașului Chicago.",
+                  "text": "Biserică catolică romană în cartierul Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.646122,
@@ -24111,7 +24111,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Josaphat Catholic Church",
-                  "text": "Biserica Catolică Sfântul Iosafat este o biserică catolică din Chicago care servește comunitatea polonezo-americană.",
+                  "text": "Biserică catolică în cartierul Ukrainian Village.",
                   "category": "religious",
                   "coords": [
                         -87.662829,
@@ -24120,7 +24120,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Vincent de Paul Catholic Church",
-                  "text": "Biserica Catolică Sfântul Vincent de Paul este o biserică catolică din Chicago care servește ca biserică de campus pentru Universitatea DePaul.",
+                  "text": "Biserică catolică în cartierul Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.653915,
@@ -24147,7 +24147,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Shrine of Saint Francis Xavier Cabrini",
-                  "text": "Altarul Național al Sfintei Francis Xavier Cabrini este un altar catolic din Chicago dedicat patronului imigranților.",
+                  "text": "Sanctuarul național al primei sfinte americane, Francisca Xaveria Cabrini, în Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.639857,
@@ -24156,7 +24156,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Sholom Bnai Israel Congregation",
-                  "text": "Congregația Anshe Sholom Bnai Israel este o sinagogă evreiască din Chicago care servește o congregație conservatoare.",
+                  "text": "Sinagogă conservatoare în cartierul Lakeview.",
                   "category": "religious",
                   "coords": [
                         -87.643407,
@@ -24165,7 +24165,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Sholom",
-                  "text": "Templul Sholom este o sinagogă evreiască reformată din Chicago.",
+                  "text": "Sinagogă reformată în cartierul Lake View East.",
                   "category": "religious",
                   "coords": [
                         -87.642603,
@@ -24183,7 +24183,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Atonement",
-                  "text": "Biserica Atonement este o biserică episcopală în cartierul Lakeview din Chicago.",
+                  "text": "Biserică episcopală în cartierul Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.656296,
@@ -24192,7 +24192,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madonna Della Strada Chapel",
-                  "text": "Capela Madonna Della Strada este o capelă catolică pe campusul Universității Loyola din Chicago.",
+                  "text": "Capelă pe campusul Lake Shore al Universității Loyola din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.656259,
@@ -24201,7 +24201,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Ita's Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică Sfânta Ita este o biserică catolică în cartierul Edgewater din Chicago.",
+                  "text": "Biserică catolică romană în cartierul Edgewater.",
                   "category": "religious",
                   "coords": [
                         -87.660631,
@@ -24210,7 +24210,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Edgewater Presbyterian Church",
-                  "text": "Biserica Prezbiteriană Edgewater este o biserică prezbiteriană în cartierul Edgewater din Chicago.",
+                  "text": "Biserică prezbiteriană în cartierul Edgewater.",
                   "category": "religious",
                   "coords": [
                         -87.656231,
@@ -24219,7 +24219,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buddhist Temple of Chicago",
-                  "text": "Templul Budist din Chicago este un loc de cult budist în cartierul Uptown din Chicago.",
+                  "text": "Templu budist al școlii Jodo Shinshu în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.659329,
@@ -24228,7 +24228,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Emet Synagogue",
-                  "text": "Sinagoga Anshe Emet este o sinagogă evreiască conservatoare în cartierul Lakeview din Chicago.",
+                  "text": "Sinagogă conservatoare în cartierul Lakeview.",
                   "category": "religious",
                   "coords": [
                         -87.648012,
@@ -24237,7 +24237,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lillstreet Art Center",
-                  "text": "Centrul de Artă Lillstreet este un centru de artă din Chicago care oferă cursuri și spații de galerie.",
+                  "text": "Centru de artă comunitar în cartierul Ravenswood.",
                   "category": "cultural",
                   "coords": [
                         -87.673545,
@@ -24255,7 +24255,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "Biserica Episcopală All Saints este o biserică episcopală în cartierul Ravenswood din Chicago.",
+                  "text": "Biserică episcopală în cartierul Ravenswood.",
                   "category": "religious",
                   "coords": [
                         -87.672913,
@@ -24266,7 +24266,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "National Veterans Art Museum",
-                  "text": "National Veterans Art Museum is a museum in Chicago dedicated to art created by military veterans.",
+                  "text": "A museum showcasing art by and about veterans.",
                   "category": "museum",
                   "coords": [
                         -87.748637,
@@ -24275,7 +24275,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Irish American Heritage Center",
-                  "text": "Irish American Heritage Center is a museum in Chicago celebrating Irish culture and heritage.",
+                  "text": "A center celebrating Irish-American history and culture.",
                   "category": "museum",
                   "coords": [
                         -87.744535,
@@ -24284,7 +24284,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Peggy Notebaert Nature Museum",
-                  "text": "The Peggy Notebaert Nature Museum is a museum in Chicago focusing on nature and conservation.",
+                  "text": "A nature museum with a live butterfly haven.",
                   "category": "museum",
                   "coords": [
                         -87.635231,
@@ -24293,7 +24293,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Leather Archives and Museum",
-                  "text": "Leather Archives and Museum is a museum in Chicago dedicated to the history of leather subculture.",
+                  "text": "A museum exploring the history of the leather community.",
                   "category": "museum",
                   "coords": [
                         -87.668328,
@@ -24302,7 +24302,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Swedish American Museum",
-                  "text": "Swedish American Museum is a museum in Chicago about Swedish immigrant history.",
+                  "text": "A Swedish-American museum in Chicago's Andersonville neighborhood.",
                   "category": "museum",
                   "coords": [
                         -87.668062,
@@ -24311,7 +24311,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Governor Henry Horner Memorial",
-                  "text": "Governor Henry Horner Memorial is a monument in Illinois honoring the former governor.",
+                  "text": "A lakeside rest area memorial along the I&M Canal.",
                   "category": "historical",
                   "coords": [
                         -87.698235,
@@ -24320,7 +24320,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Scientology",
-                  "text": "The Church of Scientology is a place of worship for Scientologists located in Chicago.",
+                  "text": "The Church of Scientology in Chicago's Near North Side.",
                   "category": "religious",
                   "coords": [
                         -87.664103,
@@ -24383,7 +24383,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muslim Community Center",
-                  "text": "The Muslim Community Center is a mosque and community center for Muslims in Chicago.",
+                  "text": "A Muslim community center in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.729002,
@@ -24392,7 +24392,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Viator Roman Catholic Church",
-                  "text": "Saint Viator Roman Catholic Church is a Catholic church in Chicago dedicated to Saint Viator.",
+                  "text": "A Romanesque-style Catholic church in Lincoln Square.",
                   "category": "religious",
                   "coords": [
                         -87.731689,
@@ -24410,7 +24410,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Puerto Rican Arts Alliance",
-                  "text": "The Puerto Rican Arts Alliance is a cultural arts center in Chicago that promotes Puerto Rican arts and culture.",
+                  "text": "An organization promoting Puerto Rican arts in Chicago's Humboldt Park.",
                   "category": "cultural",
                   "coords": [
                         -87.717134,
@@ -24419,7 +24419,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Covenant Presbyterian Church",
-                  "text": "Covenant Presbyterian Church is a Presbyterian church in Chicago.",
+                  "text": "A Presbyterian church in the Lincoln Park neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.678373,
@@ -24428,7 +24428,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Hedwig Roman Catholic Church",
-                  "text": "Saint Hedwig Roman Catholic Church is a Catholic church in Chicago with a strong Polish heritage.",
+                  "text": "A Polish Roman Catholic church in the Bucktown neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.680661,
@@ -24446,7 +24446,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Clement Roman Catholic Church",
-                  "text": "Saint Clement Roman Catholic Church is a Catholic church in Chicago's Lincoln Park neighborhood.",
+                  "text": "A Roman Catholic church in Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.646122,
@@ -24464,7 +24464,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Josaphat Catholic Church",
-                  "text": "Saint Josaphat Catholic Church is a Catholic church in Chicago serving the Polish-American community.",
+                  "text": "A Roman Catholic church in the Ukrainian Village neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.662829,
@@ -24473,7 +24473,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Vincent de Paul Catholic Church",
-                  "text": "St. Vincent de Paul Catholic Church is a Catholic church in Chicago that serves as the campus church for DePaul University.",
+                  "text": "A Catholic church in the Lincoln Park neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.653915,
@@ -24500,7 +24500,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Shrine of Saint Francis Xavier Cabrini",
-                  "text": "The National Shrine of Saint Francis Xavier Cabrini is a Catholic shrine in Chicago dedicated to the patron saint of immigrants.",
+                  "text": "The national shrine of the first US saint, in Lincoln Park.",
                   "category": "religious",
                   "coords": [
                         -87.639857,
@@ -24509,7 +24509,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Sholom Bnai Israel Congregation",
-                  "text": "Anshe Sholom Bnai Israel Congregation is a Jewish synagogue in Chicago serving a Conservative congregation.",
+                  "text": "A Conservative synagogue in the Lakeview neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.643407,
@@ -24518,7 +24518,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Temple Sholom",
-                  "text": "Temple Sholom is a Reform Jewish synagogue in Chicago.",
+                  "text": "A Reform synagogue in the Lake View East neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.642603,
@@ -24536,7 +24536,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Atonement",
-                  "text": "Church of the Atonement is an Episcopal church in Chicago's Lakeview neighborhood.",
+                  "text": "An Episcopal church in the Lincoln Park neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.656296,
@@ -24545,7 +24545,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Madonna Della Strada Chapel",
-                  "text": "Madonna Della Strada Chapel is a Catholic chapel on the campus of Loyola University Chicago.",
+                  "text": "The chapel at Loyola University Chicago's Lake Shore Campus.",
                   "category": "religious",
                   "coords": [
                         -87.656259,
@@ -24554,7 +24554,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Ita's Roman Catholic Church",
-                  "text": "Saint Ita's Roman Catholic Church is a Catholic church in Chicago's Edgewater neighborhood.",
+                  "text": "A Roman Catholic church in the Edgewater neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.660631,
@@ -24563,7 +24563,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Edgewater Presbyterian Church",
-                  "text": "Edgewater Presbyterian Church is a Presbyterian church in Chicago's Edgewater neighborhood.",
+                  "text": "A Presbyterian church in the Edgewater neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.656231,
@@ -24572,7 +24572,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Buddhist Temple of Chicago",
-                  "text": "The Buddhist Temple of Chicago is a Buddhist place of worship in Chicago's Uptown neighborhood.",
+                  "text": "A Jodo Shinshu Buddhist temple in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.659329,
@@ -24581,7 +24581,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anshe Emet Synagogue",
-                  "text": "Anshe Emet Synagogue is a Conservative Jewish synagogue in Chicago's Lakeview neighborhood.",
+                  "text": "A Conservative synagogue in the Lakeview neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.648012,
@@ -24590,7 +24590,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lillstreet Art Center",
-                  "text": "Lillstreet Art Center is an art center in Chicago offering classes and gallery spaces.",
+                  "text": "A community art center in the Ravenswood neighborhood.",
                   "category": "cultural",
                   "coords": [
                         -87.673545,
@@ -24608,7 +24608,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church is an Episcopal church in Chicago's Ravenswood neighborhood.",
+                  "text": "An Episcopal church in the Ravenswood neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.672913,
@@ -24664,7 +24664,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Galleria Ca' d'Oro",
-                  "text": "Die Galleria Ca' d'Oro ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.005423,
@@ -24673,7 +24673,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gagosian",
-                  "text": "Gagosian ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.006397,
@@ -24682,7 +24682,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "David Zwirner",
-                  "text": "David Zwirner ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.007033,
@@ -24691,7 +24691,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hales Gallery",
-                  "text": "Die Hales Gallery ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.007617,
@@ -24700,7 +24700,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dia Chelsea",
-                  "text": "Dia Chelsea ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.006302,
@@ -24709,7 +24709,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lisson Gallery",
-                  "text": "Die Lisson Gallery ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.004474,
@@ -24727,7 +24727,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Berry Campbell Gallery",
-                  "text": "Die Berry Campbell Gallery ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.004016,
@@ -24736,7 +24736,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kasmin Gallery",
-                  "text": "Die Kasmin Gallery ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.002931,
@@ -24745,7 +24745,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Microscope Gallery",
-                  "text": "Die Microscope Gallery ist eine Kunstgalerie in madison-square-garden-landmarks-v2.",
+                  "text": "Kunstgalerie in New Yorks Chelsea-Kunstviertel.",
                   "category": "museum",
                   "coords": [
                         -74.002652,
@@ -24754,7 +24754,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rubin Museum of Art",
-                  "text": "Das Rubin Museum of Art ist ein Museum in madison-square-garden-landmarks-v2, das sich auf Himalaya-Kunst spezialisiert hat.",
+                  "text": "Museum für Himalaya-Kunst in New Yorks Chelsea-Viertel.",
                   "category": "museum",
                   "coords": [
                         -73.997738,
@@ -24772,7 +24772,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gay Liberation Monument",
-                  "text": "Das Gay Liberation Monument ist ein Denkmal in madison-square-garden-landmarks-v2, das an die Schwulenrechtsbewegung erinnert.",
+                  "text": "Das Gay Liberation Monument in der Nähe des Stonewall Inn in Christopher Park erinnert an den Stonewall-Aufstand.",
                   "category": "historical",
                   "coords": [
                         -74.002395,
@@ -24828,7 +24828,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Galleria Ca' d'Oro",
-                  "text": "A Galleria Ca' d'Oro egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.005423,
@@ -24837,7 +24837,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gagosian",
-                  "text": "Gagosian egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.006397,
@@ -24846,7 +24846,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "David Zwirner",
-                  "text": "David Zwirner egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.007033,
@@ -24855,7 +24855,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hales Gallery",
-                  "text": "A Hales Gallery egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.007617,
@@ -24864,7 +24864,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dia Chelsea",
-                  "text": "Dia Chelsea egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.006302,
@@ -24873,7 +24873,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lisson Gallery",
-                  "text": "A Lisson Gallery egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.004474,
@@ -24891,7 +24891,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Berry Campbell Gallery",
-                  "text": "A Berry Campbell Gallery egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.004016,
@@ -24900,7 +24900,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kasmin Gallery",
-                  "text": "A Kasmin Gallery egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.002931,
@@ -24909,7 +24909,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Microscope Gallery",
-                  "text": "A Microscope Gallery egy művészeti galéria a madison-square-garden-landmarks-v2-ben.",
+                  "text": "Művészeti galéria New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -74.002652,
@@ -24918,7 +24918,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rubin Museum of Art",
-                  "text": "A Rubin Museum of Art egy múzeum a madison-square-garden-landmarks-v2-ben, amely a himalájai művészetre specializálódott.",
+                  "text": "Himalája-művészeti múzeum New York Chelsea negyedében.",
                   "category": "museum",
                   "coords": [
                         -73.997738,
@@ -24936,7 +24936,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gay Liberation Monument",
-                  "text": "A Gay Liberation Monument egy emlékmű a madison-square-garden-landmarks-v2-ben, amely a melegjogi mozgalomra emlékeztet.",
+                  "text": "A Gay Liberation Monument a Stonewall Inn melletti Christopher Parkban a Stonewall-lázadásra emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -74.002395,
@@ -24992,7 +24992,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Galleria Ca' d'Oro",
-                  "text": "Galleria Ca' d'Oro este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.005423,
@@ -25001,7 +25001,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gagosian",
-                  "text": "Gagosian este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.006397,
@@ -25010,7 +25010,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "David Zwirner",
-                  "text": "David Zwirner este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.007033,
@@ -25019,7 +25019,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hales Gallery",
-                  "text": "Hales Gallery este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.007617,
@@ -25028,7 +25028,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dia Chelsea",
-                  "text": "Dia Chelsea este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.006302,
@@ -25037,7 +25037,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lisson Gallery",
-                  "text": "Lisson Gallery este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.004474,
@@ -25055,7 +25055,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Berry Campbell Gallery",
-                  "text": "Berry Campbell Gallery este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.004016,
@@ -25064,7 +25064,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kasmin Gallery",
-                  "text": "Kasmin Gallery este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.002931,
@@ -25073,7 +25073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Microscope Gallery",
-                  "text": "Microscope Gallery este o galerie de artă în madison-square-garden-landmarks-v2.",
+                  "text": "Galerie de artă în cartierul artistic Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -74.002652,
@@ -25082,7 +25082,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rubin Museum of Art",
-                  "text": "Muzeul de Artă Rubin este un muzeu în madison-square-garden-landmarks-v2, specializat în arta din Himalaya.",
+                  "text": "Muzeu de artă himalayană în cartierul Chelsea din New York.",
                   "category": "museum",
                   "coords": [
                         -73.997738,
@@ -25100,7 +25100,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gay Liberation Monument",
-                  "text": "Monumentul Eliberării Homosexualilor este un monument în madison-square-garden-landmarks-v2, care comemorează mișcarea pentru drepturile homosexualilor.",
+                  "text": "Monumentul Gay Liberation din Parcul Christopher, lângă Stonewall Inn, comemorează revoltele Stonewall.",
                   "category": "historical",
                   "coords": [
                         -74.002395,
@@ -25156,7 +25156,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Galleria Ca' d'Oro",
-                  "text": "Galleria Ca' d'Oro is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.005423,
@@ -25165,7 +25165,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gagosian",
-                  "text": "Gagosian is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.006397,
@@ -25174,7 +25174,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "David Zwirner",
-                  "text": "David Zwirner is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.007033,
@@ -25183,7 +25183,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hales Gallery",
-                  "text": "Hales Gallery is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.007617,
@@ -25192,7 +25192,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dia Chelsea",
-                  "text": "Dia Chelsea is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.006302,
@@ -25201,7 +25201,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lisson Gallery",
-                  "text": "Lisson Gallery is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.004474,
@@ -25219,7 +25219,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Berry Campbell Gallery",
-                  "text": "Berry Campbell Gallery is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.004016,
@@ -25228,7 +25228,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kasmin Gallery",
-                  "text": "Kasmin Gallery is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.002931,
@@ -25237,7 +25237,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Microscope Gallery",
-                  "text": "Microscope Gallery is an art gallery in madison-square-garden-landmarks-v2.",
+                  "text": "A gallery in New York's Chelsea art district.",
                   "category": "museum",
                   "coords": [
                         -74.002652,
@@ -25246,7 +25246,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rubin Museum of Art",
-                  "text": "Rubin Museum of Art is a museum in madison-square-garden-landmarks-v2, specializing in Himalayan art.",
+                  "text": "A museum of Himalayan art in New York's Chelsea.",
                   "category": "museum",
                   "coords": [
                         -73.997738,
@@ -25264,7 +25264,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gay Liberation Monument",
-                  "text": "Gay Liberation Monument is a monument in madison-square-garden-landmarks-v2, commemorating the gay rights movement.",
+                  "text": "The Gay Liberation Monument in Christopher Park near the Stonewall Inn commemorates the Stonewall riots.",
                   "category": "historical",
                   "coords": [
                         -74.002395,
@@ -25590,7 +25590,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Louise Nevelson Plaza",
-                  "text": "Louise Nevelson Plaza ist ein öffentlicher Platz in Lower Manhattan, benannt nach der Künstlerin Louise Nevelson.",
+                  "text": "Die Louise Nevelson Plaza ist eine dreieckige Skulpturenplaza nahe dem 9/11 Memorial, eröffnet 1978.",
                   "category": "park",
                   "coords": [
                         -74.007948,
@@ -25599,7 +25599,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thomas Paine Park",
-                  "text": "Thomas Paine Park ist ein Park in Lower Manhattan, benannt nach dem politischen Aktivisten Thomas Paine.",
+                  "text": "Ein Park nach Thomas Paine benannt, angrenzend an das 9/11-Denkmal in New York City.",
                   "category": "park",
                   "coords": [
                         -74.002644,
@@ -25880,7 +25880,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Louise Nevelson Plaza",
-                  "text": "A Louise Nevelson Plaza egy nyilvános tér Lower Manhattanban, Louise Nevelson művésznőről elnevezve.",
+                  "text": "A Louise Nevelson Plaza egy háromszög alakú szobortér a 9/11-es emlékmű közelében, 1978-ban nyílt meg.",
                   "category": "park",
                   "coords": [
                         -74.007948,
@@ -25889,7 +25889,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thomas Paine Park",
-                  "text": "A Thomas Paine Park egy park Lower Manhattanban, Thomas Paine politikai aktivistáról elnevezve.",
+                  "text": "Thomas Paine-ről elnevezett park, a 9/11 Emlékmű mellett New York Cityben.",
                   "category": "park",
                   "coords": [
                         -74.002644,
@@ -26170,7 +26170,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Louise Nevelson Plaza",
-                  "text": "Louise Nevelson Plaza este o piață publică în Lower Manhattan, numită după artista Louise Nevelson.",
+                  "text": "Piața Louise Nevelson este o piață triunghiulară cu sculpturi lângă Memorialul 9/11, inaugurată în 1978.",
                   "category": "park",
                   "coords": [
                         -74.007948,
@@ -26179,7 +26179,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thomas Paine Park",
-                  "text": "Thomas Paine Park este un parc în Lower Manhattan, numit după activistul politic Thomas Paine.",
+                  "text": "Un parc numit după Thomas Paine, adiacent Memorialului 9/11 din New York City.",
                   "category": "park",
                   "coords": [
                         -74.002644,
@@ -26460,7 +26460,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Louise Nevelson Plaza",
-                  "text": "Louise Nevelson Plaza is a public plaza in Lower Manhattan named for the artist Louise Nevelson.",
+                  "text": "Louise Nevelson Plaza is a triangular sculpture plaza near the 9/11 Memorial, opened in 1978.",
                   "category": "park",
                   "coords": [
                         -74.007948,
@@ -26469,7 +26469,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Thomas Paine Park",
-                  "text": "Thomas Paine Park is a park in Lower Manhattan named for the political activist Thomas Paine.",
+                  "text": "A park named after Thomas Paine, adjacent to the 9/11 Memorial in New York City.",
                   "category": "park",
                   "coords": [
                         -74.002644,
@@ -26597,7 +26597,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nationalmuseum der Indianer",
-                  "text": "Das National Museum of the American Indian ist ein Smithsonian-Museum im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Das National Museum of the American Indian auf der National Mall hat eine geschwungene Form und heimische Pflanzen.",
                   "category": "museum",
                   "coords": [
                         -77.016669,
@@ -26669,7 +26669,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Comforter Catholic Church",
-                  "text": "Die Holy Comforter Catholic Church ist eine katholische Gemeinde im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Die Holy Comforter Catholic Church ist eine historische katholische Kirche auf dem Capitol Hill.",
                   "category": "religious",
                   "coords": [
                         -76.986084,
@@ -26678,7 +26678,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emancipation Hall",
-                  "text": "Die Emancipation Hall ist die Haupthalle im Besucherzentrum des US-Kapitols im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Emancipation Hall ist die Haupthalle des Capitol Visitor Center mit einer Oberlichtdecke.",
                   "category": "landmark",
                   "coords": [
                         -77.007928,
@@ -26687,7 +26687,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anacostia Railroad Bridge",
-                  "text": "Die Anacostia Railroad Bridge ist eine Eisenbahnbrücke über den Anacostia River im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Die Anacostia Railroad Bridge führt Bahngleise über den Anacostia River nahe der Grenze von Washington D.C.",
                   "category": "landmark",
                   "coords": [
                         -76.971886,
@@ -26705,7 +26705,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Amtrak Railroad Anacostia Bridge",
-                  "text": "Die Amtrak Railroad Anacostia Bridge ist eine von Amtrak genutzte Eisenbahnbrücke im Bereich der US-Capitol-Sehenswürdigkeiten.",
+                  "text": "Die Amtrak Railroad Anacostia Bridge überquert den Anacostia River mit den Gleisen der Northeast Corridor.",
                   "category": "landmark",
                   "coords": [
                         -76.943544,
@@ -26786,7 +26786,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ethel Kennedy Bridge",
-                  "text": "Die Ethel Kennedy Bridge ist eine nach Ethel Kennedy benannte Brücke in Washington, D.C.",
+                  "text": "Die Ethel Kennedy Bridge ist eine Steinbogenbrücke, die die Massachusetts Avenue über den Rock Creek führt.",
                   "category": "landmark",
                   "coords": [
                         -76.96186,
@@ -26804,7 +26804,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Crossover Church",
-                  "text": "Das Crossover Church ist ein Haus in Washington, D.C., das als Kirche genutzt wird.",
+                  "text": "Die Crossover Church ist ein historisches Waffenhaus in Hyattsville, das heute als Kirche genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         -76.940886,
@@ -26813,7 +26813,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Station Plaza",
-                  "text": "Der Union Station Plaza ist ein Verkehrskreis und Park am Union Station in Washington, D.C.",
+                  "text": "Der Union Station Plaza (Columbus Circle) liegt am Eingang der Union Station und hat einen Brunnen mit Columbusstatue.",
                   "category": "park",
                   "coords": [
                         -77.006559,
@@ -26822,7 +26822,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kenilworth Park & Aquatic Gardens",
-                  "text": "Der Kenilworth Park & Aquatic Gardens ist ein Park mit Wassergärten und Wildtieren in Washington, D.C.",
+                  "text": "Der Kenilworth Park & Aquatic Gardens beherbergt Teiche mit Lotus und Seerosen am Anacostia River.",
                   "category": "park",
                   "coords": [
                         -76.949548,
@@ -26831,7 +26831,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Bunker Hill Park",
-                  "text": "Der Fort Bunker Hill Park ist ein Park auf dem Gelände eines Bürgerkriegsforts in Washington, D.C.",
+                  "text": "Der Fort Bunker Hill Park bewahrt die Erdwälle eines Bürgerkriegsforts zur Verteidigung Washingtons.",
                   "category": "park",
                   "coords": [
                         -76.987613,
@@ -26840,7 +26840,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Marshall Place Park",
-                  "text": "Der John Marshall Place Park ist ein nach dem Obersten Richter John Marshall benannter Park in Washington, D.C.",
+                  "text": "Der John Marshall Place Park ist ein Park mit einer Statue des Oberrichters John Marshall in der Nähe des Kapitols.",
                   "category": "park",
                   "coords": [
                         -77.017502,
@@ -26849,7 +26849,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square",
-                  "text": "Der Union Square ist ein Park in der Nähe des US-Kapitols in Washington, D.C.",
+                  "text": "Der Union Square ist ein formaler Park mit Brunnen zwischen dem Kapitol und dem Weißen Haus.",
                   "category": "park",
                   "coords": [
                         -77.013947,
@@ -26858,7 +26858,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bartholdi Park",
-                  "text": "Der Bartholdi Park ist ein Park mit dem Bartholdi-Brunnen in Washington, D.C.",
+                  "text": "Der Bartholdi Park ist ein kleiner Park in der Nähe des Kapitols mit einem Brunnen von Frédéric Bartholdi.",
                   "category": "park",
                   "coords": [
                         -77.012707,
@@ -26867,7 +26867,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Spirit of Justice Park",
-                  "text": "Der The Spirit of Justice Park ist ein Park, der der Spirit of Justice-Statue gewidmet ist, in Washington, D.C.",
+                  "text": "Der Spirit of Justice Park liegt beim Justizministerium und zeigt die Statue „Spirit of Justice“.",
                   "category": "park",
                   "coords": [
                         -77.009068,
@@ -26876,7 +26876,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seward Square",
-                  "text": "Der Seward Square ist ein nach William H. Seward benannter Park in Washington, D.C.",
+                  "text": "Der Seward Square ist ein historischer Platz auf dem Capitol Hill mit einer Statue von William Seward.",
                   "category": "park",
                   "coords": [
                         -76.999525,
@@ -26885,7 +26885,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "Der Lincoln Park ist ein Park mit dem Emancipation Memorial in Washington, D.C.",
+                  "text": "Der Lincoln Park beherbergt das Emanzipationsdenkmal mit einer Statue von Abraham Lincoln.",
                   "category": "park",
                   "coords": [
                         -76.989916,
@@ -26903,7 +26903,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Dupont Park",
-                  "text": "Der Fort Dupont Park ist ein Park auf dem Gelände eines Bürgerkriegsforts in Washington, D.C.",
+                  "text": "Der Fort Dupont Park enthält die Erdwälle eines Bürgerkriegsforts sowie Wanderwege durch die Natur.",
                   "category": "park",
                   "coords": [
                         -76.950003,
@@ -26912,7 +26912,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Davis Park",
-                  "text": "Der Fort Davis Park ist ein Park auf dem Gelände eines Bürgerkriegsforts in Washington, D.C.",
+                  "text": "Der Fort Davis Park bewahrt die Überreste des Fort Davis aus dem Bürgerkrieg in Washington D.C.",
                   "category": "park",
                   "coords": [
                         -76.951294,
@@ -26950,7 +26950,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of the American Indian",
-                  "text": "A National Museum of the American Indian egy Smithsonian múzeum az US Capitol látnivalók területén.",
+                  "text": "A National Museum of the American Indian a National Mall-en található, ívelt formájú, őshonos növényekkel.",
                   "category": "museum",
                   "coords": [
                         -77.016669,
@@ -27022,7 +27022,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Comforter Catholic Church",
-                  "text": "A Holy Comforter Catholic Church egy katolikus plébánia az US Capitol látnivalók területén.",
+                  "text": "A Holy Comforter Catholic Church egy történelmi katolikus templom a Capitol Hillen.",
                   "category": "religious",
                   "coords": [
                         -76.986084,
@@ -27031,7 +27031,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emancipation Hall",
-                  "text": "Az Emancipation Hall a főterem az US Capitol Látogatóközpontjában az US Capitol látnivalók területén.",
+                  "text": "Az Emancipation Hall a Capitol Látogatóközpont főcsarnoka, üvegtetővel.",
                   "category": "landmark",
                   "coords": [
                         -77.007928,
@@ -27040,7 +27040,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anacostia Railroad Bridge",
-                  "text": "Az Anacostia Railroad Bridge egy vasúti híd az Anacostia folyó felett az US Capitol látnivalók területén.",
+                  "text": "Az Anacostia Railroad Bridge vasúti síneket vezet az Anacostia folyón keresztül Washington D.C. határa közelében.",
                   "category": "landmark",
                   "coords": [
                         -76.971886,
@@ -27058,7 +27058,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Amtrak Railroad Anacostia Bridge",
-                  "text": "Az Amtrak Railroad Anacostia Bridge egy Amtrak által használt vasúti híd az US Capitol látnivalók területén.",
+                  "text": "Az Amtrak Railroad Anacostia Bridge az Anacostia folyó felett vezeti a Northeast Corridor síneit.",
                   "category": "landmark",
                   "coords": [
                         -76.943544,
@@ -27139,7 +27139,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ethel Kennedy Bridge",
-                  "text": "Az Ethel Kennedy Bridge egy híd Washingtonban, amely Ethel Kennedy nevét viseli.",
+                  "text": "Az Ethel Kennedy Bridge egy kőíves híd, amely a Massachusetts Avenue-t vezeti át a Rock Creek felett.",
                   "category": "landmark",
                   "coords": [
                         -76.96186,
@@ -27157,7 +27157,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Crossover Church",
-                  "text": "A Crossover Church egy ház Washingtonban, amely templomként szolgál.",
+                  "text": "A Crossover Church egy történelmi fegyvertár Hyattsville-ben, amely ma templomként működik.",
                   "category": "landmark",
                   "coords": [
                         -76.940886,
@@ -27166,7 +27166,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Station Plaza",
-                  "text": "A Union Station Plaza egy forgalmi körforgalom és park a Union Station mellett Washingtonban.",
+                  "text": "A Union Station Plaza (Columbus Circle) a Union Station bejáratánál található, Columbus-szoborral és szökőkúttal.",
                   "category": "park",
                   "coords": [
                         -77.006559,
@@ -27175,7 +27175,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kenilworth Park & Aquatic Gardens",
-                  "text": "A Kenilworth Park & Aquatic Gardens egy park vízi kertekkel és vadon élő állatokkal Washingtonban.",
+                  "text": "A Kenilworth Park & Aquatic Gardens tavakban lótusz és vízililiom található az Anacostia folyó mentén.",
                   "category": "park",
                   "coords": [
                         -76.949548,
@@ -27184,7 +27184,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Bunker Hill Park",
-                  "text": "A Fort Bunker Hill Park egy park egy polgárháborús erőd helyén Washingtonban.",
+                  "text": "A Fort Bunker Hill Park megőrzi egy polgárháborús erőd földsáncait, amely Washingtont védte.",
                   "category": "park",
                   "coords": [
                         -76.987613,
@@ -27193,7 +27193,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Marshall Place Park",
-                  "text": "A John Marshall Place Park egy park Washingtonban, amely John Marshall főbíró nevét viseli.",
+                  "text": "A John Marshall Place Park a Capitolium közelében található, John Marshall főbíró szobrával.",
                   "category": "park",
                   "coords": [
                         -77.017502,
@@ -27202,7 +27202,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square",
-                  "text": "A Union Square egy park az Egyesült Államok Capitoliuma közelében Washingtonban.",
+                  "text": "A Union Square egy formális park szökőkutakkal a Capitolium és a Fehér Ház között.",
                   "category": "park",
                   "coords": [
                         -77.013947,
@@ -27211,7 +27211,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bartholdi Park",
-                  "text": "A Bartholdi Park egy park a Bartholdi-szökőkúttal Washingtonban.",
+                  "text": "A Bartholdi Park egy kis park a Capitolium közelében, Frédéric Bartholdi szökőkútjával.",
                   "category": "park",
                   "coords": [
                         -77.012707,
@@ -27220,7 +27220,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Spirit of Justice Park",
-                  "text": "A The Spirit of Justice Park egy park, amely a Spirit of Justice szobornak van szentelve Washingtonban.",
+                  "text": "A Spirit of Justice Park az Igazságügyi Minisztérium mellett található, a „Spirit of Justice” szoborral.",
                   "category": "park",
                   "coords": [
                         -77.009068,
@@ -27229,7 +27229,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seward Square",
-                  "text": "A Seward Square egy park Washingtonban, amely William H. Seward nevét viseli.",
+                  "text": "A Seward Square egy történelmi tér a Capitol Hillen, William Seward szobrával.",
                   "category": "park",
                   "coords": [
                         -76.999525,
@@ -27238,7 +27238,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "A Lincoln Park egy park az Emancipation Memorial emlékművel Washingtonban.",
+                  "text": "A Lincoln Parkban található az Emancipation Memorial, Abraham Lincoln szobrával.",
                   "category": "park",
                   "coords": [
                         -76.989916,
@@ -27256,7 +27256,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Dupont Park",
-                  "text": "A Fort Dupont Park egy park egy polgárháborús erőd helyén Washingtonban.",
+                  "text": "A Fort Dupont Park egy polgárháborús erőd földsáncait és természeti ösvényeket tartalmaz.",
                   "category": "park",
                   "coords": [
                         -76.950003,
@@ -27265,7 +27265,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Davis Park",
-                  "text": "A Fort Davis Park egy park egy polgárháborús erőd helyén Washingtonban.",
+                  "text": "A Fort Davis Park megőrzi a Fort Davis polgárháborús erőd maradványait Washington D.C.-ben.",
                   "category": "park",
                   "coords": [
                         -76.951294,
@@ -27303,7 +27303,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of the American Indian",
-                  "text": "Muzeul Național al Indianului American este un muzeu Smithsonian în zona reperelor US Capitol.",
+                  "text": "Muzeul Național al Indianului American de pe National Mall are o formă curbată și plante indigene.",
                   "category": "museum",
                   "coords": [
                         -77.016669,
@@ -27375,7 +27375,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Comforter Catholic Church",
-                  "text": "Biserica Catolică Holy Comforter este o parohie catolică în zona reperelor US Capitol.",
+                  "text": "Biserica Catolică Holy Comforter este o biserică catolică istorică pe Capitol Hill.",
                   "category": "religious",
                   "coords": [
                         -76.986084,
@@ -27384,7 +27384,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emancipation Hall",
-                  "text": "Sala Emancipării este sala principală din Centrul de Vizitatori al Capitoliului în zona reperelor US Capitol.",
+                  "text": "Emancipation Hall este sala principală a Centrului de Vizitatori al Capitoliului, cu un tavan luminat.",
                   "category": "landmark",
                   "coords": [
                         -77.007928,
@@ -27393,7 +27393,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anacostia Railroad Bridge",
-                  "text": "Podul de cale ferată Anacostia este un pod feroviar peste râul Anacostia în zona reperelor US Capitol.",
+                  "text": "Podul Feroviar Anacostia transportă șine de cale ferată peste Râul Anacostia lângă granița Washingtonului D.C.",
                   "category": "landmark",
                   "coords": [
                         -76.971886,
@@ -27411,7 +27411,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Amtrak Railroad Anacostia Bridge",
-                  "text": "Podul de cale ferată Amtrak Anacostia este un pod feroviar utilizat de Amtrak în zona reperelor US Capitol.",
+                  "text": "Podul Feroviar Amtrak Anacostia traversează Râul Anacostia cu șinele Coridorului de Nord-Est.",
                   "category": "landmark",
                   "coords": [
                         -76.943544,
@@ -27492,7 +27492,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ethel Kennedy Bridge",
-                  "text": "Podul Ethel Kennedy este un pod numit după Ethel Kennedy în Washington, D.C.",
+                  "text": "Podul Ethel Kennedy este un pod de piatră în arc care duce Massachusetts Avenue peste Rock Creek.",
                   "category": "landmark",
                   "coords": [
                         -76.96186,
@@ -27510,7 +27510,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Crossover Church",
-                  "text": "Crossover Church este o casă în Washington, D.C., folosită ca biserică.",
+                  "text": "Biserica Crossover se află într-o fostă armură istorică din Hyattsville, folosită acum ca lăcaș de cult.",
                   "category": "landmark",
                   "coords": [
                         -76.940886,
@@ -27519,7 +27519,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Station Plaza",
-                  "text": "Union Station Plaza este un sens giratoriu și parc lângă Union Station în Washington, D.C.",
+                  "text": "Piața Union Station (Columbus Circle) se află la intrarea în Union Station, cu o fântână și o statuie a lui Columb.",
                   "category": "park",
                   "coords": [
                         -77.006559,
@@ -27528,7 +27528,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kenilworth Park & Aquatic Gardens",
-                  "text": "Kenilworth Park & Aquatic Gardens este un parc cu grădini acvatice și animale sălbatice în Washington, D.C.",
+                  "text": "Parcul și Grădinile Acvatice Kenilworth au iazuri cu lotus și nuferi de-a lungul Râului Anacostia.",
                   "category": "park",
                   "coords": [
                         -76.949548,
@@ -27537,7 +27537,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Bunker Hill Park",
-                  "text": "Fort Bunker Hill Park este un parc pe locul unui fort din Războiul Civil în Washington, D.C.",
+                  "text": "Parcul Fort Bunker Hill păstrează valurile de pământ ale unui fort din Războiul Civil pentru apărarea Washingtonului.",
                   "category": "park",
                   "coords": [
                         -76.987613,
@@ -27546,7 +27546,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Marshall Place Park",
-                  "text": "John Marshall Place Park este un parc numit după judecătorul-șef John Marshall în Washington, D.C.",
+                  "text": "Parcul John Marshall Place este situat lângă Capitoliu, cu o statuie a judecătorului-șef John Marshall.",
                   "category": "park",
                   "coords": [
                         -77.017502,
@@ -27555,7 +27555,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square",
-                  "text": "Union Square este un parc lângă Capitoliul SUA în Washington, D.C.",
+                  "text": "Piața Union Square este un parc formal cu fântâni între Capitoliu și Casa Albă.",
                   "category": "park",
                   "coords": [
                         -77.013947,
@@ -27564,7 +27564,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bartholdi Park",
-                  "text": "Bartholdi Park este un parc cu fântâna Bartholdi în Washington, D.C.",
+                  "text": "Parcul Bartholdi este un mic parc lângă Capitoliu, cu o fântână de Frédéric Bartholdi.",
                   "category": "park",
                   "coords": [
                         -77.012707,
@@ -27573,7 +27573,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Spirit of Justice Park",
-                  "text": "The Spirit of Justice Park este un parc dedicat statuii Spirit of Justice în Washington, D.C.",
+                  "text": "Parcul Spirit of Justice se află lângă Ministerul Justiției, având statuia „Spirit of Justice”.",
                   "category": "park",
                   "coords": [
                         -77.009068,
@@ -27582,7 +27582,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seward Square",
-                  "text": "Seward Square este un parc numit după William H. Seward în Washington, D.C.",
+                  "text": "Piața Seward este o piață istorică pe Capitol Hill, cu o statuie a lui William Seward.",
                   "category": "park",
                   "coords": [
                         -76.999525,
@@ -27591,7 +27591,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "Lincoln Park este un parc cu Memorialul Emancipării în Washington, D.C.",
+                  "text": "Parcul Lincoln adăpostește Memorialul Emancipării cu o statuie a lui Abraham Lincoln.",
                   "category": "park",
                   "coords": [
                         -76.989916,
@@ -27609,7 +27609,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Dupont Park",
-                  "text": "Fort Dupont Park este un parc pe locul unui fort din Războiul Civil în Washington, D.C.",
+                  "text": "Parcul Fort Dupont conține valurile de pământ ale unui fort din Războiul Civil și trasee naturale.",
                   "category": "park",
                   "coords": [
                         -76.950003,
@@ -27618,7 +27618,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Davis Park",
-                  "text": "Fort Davis Park este un parc pe locul unui fort din Războiul Civil în Washington, D.C.",
+                  "text": "Parcul Fort Davis păstrează rămășițele fortului Fort Davis din Războiul Civil din Washington D.C.",
                   "category": "park",
                   "coords": [
                         -76.951294,
@@ -27656,7 +27656,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Museum of the American Indian",
-                  "text": "The National Museum of the American Indian is a Smithsonian museum in the US Capitol landmarks area.",
+                  "text": "The National Museum of the American Indian on the National Mall features a curvilinear form and native plants.",
                   "category": "museum",
                   "coords": [
                         -77.016669,
@@ -27728,7 +27728,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Comforter Catholic Church",
-                  "text": "Holy Comforter Catholic Church is a Catholic parish in the US Capitol landmarks area.",
+                  "text": "Holy Comforter Catholic Church is a historic Catholic church on Capitol Hill.",
                   "category": "religious",
                   "coords": [
                         -76.986084,
@@ -27737,7 +27737,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Emancipation Hall",
-                  "text": "Emancipation Hall is the main hall of the U.S. Capitol Visitor Center in the US Capitol landmarks area.",
+                  "text": "Emancipation Hall is the main hall of the Capitol Visitor Center, featuring a skylight ceiling.",
                   "category": "landmark",
                   "coords": [
                         -77.007928,
@@ -27746,7 +27746,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anacostia Railroad Bridge",
-                  "text": "The Anacostia Railroad Bridge is a railroad bridge over the Anacostia River in the US Capitol landmarks area.",
+                  "text": "The Anacostia Railroad Bridge carries rail lines over the Anacostia River near the D.C. border.",
                   "category": "landmark",
                   "coords": [
                         -76.971886,
@@ -27764,7 +27764,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Amtrak Railroad Anacostia Bridge",
-                  "text": "The Amtrak Railroad Anacostia Bridge is a railroad bridge used by Amtrak in the US Capitol landmarks area.",
+                  "text": "The Amtrak Railroad Anacostia Bridge carries Northeast Corridor tracks over the Anacostia River.",
                   "category": "landmark",
                   "coords": [
                         -76.943544,
@@ -27845,7 +27845,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ethel Kennedy Bridge",
-                  "text": "The Ethel Kennedy Bridge is a bridge named after Ethel Kennedy in Washington, D.C.",
+                  "text": "Ethel Kennedy Bridge is a stone arch bridge carrying Massachusetts Avenue over Rock Creek.",
                   "category": "landmark",
                   "coords": [
                         -76.96186,
@@ -27863,7 +27863,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Crossover Church",
-                  "text": "Crossover Church is a house in Washington, D.C., used as a church building.",
+                  "text": "Crossover Church occupies a historic armory in Hyattsville, now used as a church.",
                   "category": "landmark",
                   "coords": [
                         -76.940886,
@@ -27872,7 +27872,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Station Plaza",
-                  "text": "Union Station Plaza is a traffic circle and park at Union Station in Washington, D.C.",
+                  "text": "Union Station Plaza (Columbus Circle) is at the entrance to Union Station, featuring a fountain with a Columbus statue.",
                   "category": "park",
                   "coords": [
                         -77.006559,
@@ -27881,7 +27881,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kenilworth Park & Aquatic Gardens",
-                  "text": "Kenilworth Park & Aquatic Gardens is a park featuring aquatic gardens and wildlife in Washington, D.C.",
+                  "text": "Kenilworth Park & Aquatic Gardens features ponds with lotus and water lilies along the Anacostia River.",
                   "category": "park",
                   "coords": [
                         -76.949548,
@@ -27890,7 +27890,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Bunker Hill Park",
-                  "text": "Fort Bunker Hill Park is a park on the site of a Civil War fort in Washington, D.C.",
+                  "text": "Fort Bunker Hill Park preserves the earthworks of a Civil War fort defending Washington.",
                   "category": "park",
                   "coords": [
                         -76.987613,
@@ -27899,7 +27899,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "John Marshall Place Park",
-                  "text": "John Marshall Place Park is a park named after Chief Justice John Marshall in Washington, D.C.",
+                  "text": "John Marshall Place Park is a park near the Capitol with a statue of Chief Justice John Marshall.",
                   "category": "park",
                   "coords": [
                         -77.017502,
@@ -27908,7 +27908,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Union Square",
-                  "text": "Union Square is a park near the U.S. Capitol in Washington, D.C.",
+                  "text": "Union Square is a formal park with fountains between the Capitol and the White House.",
                   "category": "park",
                   "coords": [
                         -77.013947,
@@ -27917,7 +27917,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Bartholdi Park",
-                  "text": "Bartholdi Park is a park featuring the Bartholdi Fountain in Washington, D.C.",
+                  "text": "Bartholdi Park is a small park near the Capitol featuring a fountain by Frédéric Bartholdi.",
                   "category": "park",
                   "coords": [
                         -77.012707,
@@ -27926,7 +27926,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Spirit of Justice Park",
-                  "text": "The Spirit of Justice Park is a park dedicated to the Spirit of Justice statue in Washington, D.C.",
+                  "text": "The Spirit of Justice Park is next to the Department of Justice, featuring the Spirit of Justice statue.",
                   "category": "park",
                   "coords": [
                         -77.009068,
@@ -27935,7 +27935,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Seward Square",
-                  "text": "Seward Square is a park named after William H. Seward in Washington, D.C.",
+                  "text": "Seward Square is a historic square on Capitol Hill with a statue of William Seward.",
                   "category": "park",
                   "coords": [
                         -76.999525,
@@ -27944,7 +27944,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "Lincoln Park is a park containing the Emancipation Memorial in Washington, D.C.",
+                  "text": "Lincoln Park features the Emancipation Memorial with a statue of Abraham Lincoln.",
                   "category": "park",
                   "coords": [
                         -76.989916,
@@ -27962,7 +27962,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Dupont Park",
-                  "text": "Fort Dupont Park is a park on the site of a Civil War fort in Washington, D.C.",
+                  "text": "Fort Dupont Park contains earthworks from a Civil War fort and nature trails.",
                   "category": "park",
                   "coords": [
                         -76.950003,
@@ -27971,7 +27971,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Fort Davis Park",
-                  "text": "Fort Davis Park is a park on the site of a Civil War fort in Washington, D.C.",
+                  "text": "Fort Davis Park preserves the remains of Fort Davis, a Civil War fort in Washington D.C.",
                   "category": "park",
                   "coords": [
                         -76.951294,
@@ -28027,7 +28027,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Interior Museum",
-                  "text": "Das Interior Museum in Washington, D.C. befindet sich im Innenministeriumsgebäude.",
+                  "text": "Das Interior Museum zeigt die Geschichte des Innenministeriums im Hauptgebäude des Departments.",
                   "category": "museum",
                   "coords": [
                         -77.042798,
@@ -28045,7 +28045,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ford's Theatre National Historic Site",
-                  "text": "Ford's Theatre in Washington, D.C. ist der Ort des Attentats auf Präsident Lincoln.",
+                  "text": "Ford's Theatre National Historic Site ist das restaurierte Theater, in dem Abraham Lincoln ermordet wurde, mit Museum.",
                   "category": "museum",
                   "coords": [
                         -77.025818,
@@ -28063,7 +28063,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pope John Paul II National Shrine",
-                  "text": "Das Pope John Paul II National Shrine ist ein Museum und eine katholische Gedenkstätte in Washington, D.C., die dem Leben und Vermächtnis von Papst Johannes Paul II. gewidmet ist.",
+                  "text": "Die Pope John Paul II National Shrine bewahrt Reliquien und Ausstellungen über das Leben von Johannes Paul II. in Washington D.C.",
                   "category": "museum",
                   "coords": [
                         -77.004854,
@@ -28072,7 +28072,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Decatur House",
-                  "text": "Decatur House ist ein historisches Wohnmuseum am Lafayette Square in Washington, D.C.",
+                  "text": "Das Decatur House ist ein historisches Stadthaus aus dem 19. Jahrhundert in der Nähe des Weißen Hauses mit zeitgenössischer Einrichtung.",
                   "category": "museum",
                   "coords": [
                         -77.038329,
@@ -28135,7 +28135,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Takoma Park Presbyterian Church",
-                  "text": "Takoma Park Presbyterian Church ist eine historische presbyterianische Kirche im Takoma Park-Viertel von Washington, D.C.",
+                  "text": "Die Takoma Park Presbyterian Church ist ein neugotisches Kirchengebäude in Takoma Park, Maryland.",
                   "category": "religious",
                   "coords": [
                         -77.012898,
@@ -28153,7 +28153,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hughes Memorial Tower",
-                  "text": "Der Hughes Memorial Tower ist ein hoher Funkturm in Washington, D.C., der für Kommunikation genutzt wird.",
+                  "text": "Der Hughes Memorial Tower ist einer der höchsten Sendetürme im Raum Washington D.C.",
                   "category": "tower",
                   "coords": [
                         -77.02667,
@@ -28243,7 +28243,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin-Platz",
-                  "text": "Der Franklin Square ist ein Park in der Innenstadt von Washington, D.C., benannt nach Benjamin Franklin.",
+                  "text": "Der Franklin Square ist ein historischer Platz in Washington D.C. mit einem Springbrunnen.",
                   "category": "park",
                   "coords": [
                         -77.030788,
@@ -28279,7 +28279,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rawlins Park",
-                  "text": "Der Rawlins Park ist ein öffentlicher Park im Foggy Bottom-Viertel von Washington, D.C.",
+                  "text": "Der Rawlins Park ist ein kleiner Park in Washington D.C., der nach einem General des Bürgerkriegs benannt ist.",
                   "category": "park",
                   "coords": [
                         -77.043308,
@@ -28315,7 +28315,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Vernon Square",
-                  "text": "Der Mount Vernon Square ist ein öffentlicher Platz in Washington, D.C., Heimat der Carnegie Library.",
+                  "text": "Der Mount Vernon Square ist ein historischer Platz in Washington D.C. mit der Carnegie Library.",
                   "category": "park",
                   "coords": [
                         -77.022943,
@@ -28333,7 +28333,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian American Art Museum",
-                  "text": "Das Smithsonian American Art Museum ist ein Museum in Washington, D.C., das amerikanische Kunst zeigt und Teil der Smithsonian Institution ist.",
+                  "text": "Das Smithsonian American Art Museum im historischen Old Patent Office Building in Washington D.C.",
                   "category": "museum",
                   "coords": [
                         -77.02359,
@@ -28344,7 +28344,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Interior Museum",
-                  "text": "A belső múzeum Washingtonban, D.C.-ben az Belügyminisztérium épületében található.",
+                  "text": "Az Interior Museum a Belügyminisztérium történetét mutatja be a minisztérium épületében.",
                   "category": "museum",
                   "coords": [
                         -77.042798,
@@ -28362,7 +28362,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ford's Theatre National Historic Site",
-                  "text": "A washingtoni Ford's Theatre Abraham Lincoln elnök meggyilkolásának helyszíne.",
+                  "text": "A Ford's Theatre National Historic Site a helyreállított színház, ahol Abraham Lincoln meggyilkolták, múzeummal.",
                   "category": "museum",
                   "coords": [
                         -77.025818,
@@ -28380,7 +28380,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pope John Paul II National Shrine",
-                  "text": "A Pope John Paul II National Shrine egy múzeum és katolikus szentély Washingtonban, amely II. János Pál pápa életének és örökségének állít emléket.",
+                  "text": "A Pope John Paul II National Shrine ereklyéket és kiállításokat őriz II. János Pál életéről Washington D.C.-ben.",
                   "category": "museum",
                   "coords": [
                         -77.004854,
@@ -28389,7 +28389,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Decatur House",
-                  "text": "A Decatur House egy történelmi házmúzeum a washingtoni Lafayette Square-en.",
+                  "text": "A Decatur House egy 19. századi történelmi városi ház a Fehér Ház közelében, korabeli berendezéssel.",
                   "category": "museum",
                   "coords": [
                         -77.038329,
@@ -28452,7 +28452,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Takoma Park Presbyterian Church",
-                  "text": "A Takoma Park Presbyterian Church egy történelmi presbiteriánus templom Washington Takoma Park negyedében.",
+                  "text": "A Takoma Park Presbyterian Church egy neogótikus templomépület a marylandi Takomában.",
                   "category": "religious",
                   "coords": [
                         -77.012898,
@@ -28470,7 +28470,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hughes Memorial Tower",
-                  "text": "A Hughes Memorial Tower egy magas rádiótorony Washingtonban, kommunikációs célokra használják.",
+                  "text": "A Hughes Memorial Tower az egyik legmagasabb adótorony Washington D.C. térségében.",
                   "category": "tower",
                   "coords": [
                         -77.02667,
@@ -28560,7 +28560,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Square",
-                  "text": "A Franklin Square egy park Washington belvárosában, Benjamin Franklinről elnevezve.",
+                  "text": "A Franklin Square egy történelmi tér Washington D.C.-ben, szökőkúttal.",
                   "category": "park",
                   "coords": [
                         -77.030788,
@@ -28596,7 +28596,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rawlins Park",
-                  "text": "A Rawlins Park egy nyilvános park Washington Foggy Bottom negyedében.",
+                  "text": "A Rawlins Park egy kis park Washington D.C.-ben, amelyet a polgárháború egyik tábornokáról neveztek el.",
                   "category": "park",
                   "coords": [
                         -77.043308,
@@ -28632,7 +28632,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Vernon Square",
-                  "text": "A Mount Vernon Square egy nyilvános tér Washingtonban, a Carnegie Library otthona.",
+                  "text": "A Mount Vernon Square egy történelmi tér Washington D.C.-ben, a Carnegie Library-vel.",
                   "category": "park",
                   "coords": [
                         -77.022943,
@@ -28650,7 +28650,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian American Art Museum",
-                  "text": "A Smithsonian American Art Museum egy múzeum Washingtonban, amely amerikai művészetet mutat be, és a Smithsonian Intézet része.",
+                  "text": "A Smithsonian Amerikai Művészeti Múzeum a történelmi Old Patent Office Buildingben, Washington D.C.-ben.",
                   "category": "museum",
                   "coords": [
                         -77.02359,
@@ -28661,7 +28661,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Interior Museum",
-                  "text": "Muzeul Interior din Washington, D.C. se află în clădirea Departamentului de Interne.",
+                  "text": "Muzeul Interior prezintă istoria Departamentului de Interne în clădirea sa principală.",
                   "category": "museum",
                   "coords": [
                         -77.042798,
@@ -28679,7 +28679,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ford's Theatre National Historic Site",
-                  "text": "Teatrul Ford din Washington, D.C. este locul asasinatului președintelui Lincoln.",
+                  "text": "Situl Istoric Național Ford's Theatre este teatrul restaurat unde a fost asasinat Abraham Lincoln, cu un muzeu.",
                   "category": "museum",
                   "coords": [
                         -77.025818,
@@ -28697,7 +28697,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pope John Paul II National Shrine",
-                  "text": "Pope John Paul II National Shrine este un muzeu și un sanctuar catolic din Washington, D.C., dedicat vieții și moștenirii Papei Ioan Paul al II-lea.",
+                  "text": "Altarul Național Papa Ioan Paul al II-lea păstrează relicve și expoziții despre viața lui Ioan Paul al II-lea în Washington D.C.",
                   "category": "museum",
                   "coords": [
                         -77.004854,
@@ -28706,7 +28706,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Decatur House",
-                  "text": "Decatur House este un muzeu istoric de casă situat pe Lafayette Square din Washington, D.C.",
+                  "text": "Casa Decatur este o casă istorică din secolul al XIX-lea lângă Casa Albă, cu mobilier de epocă.",
                   "category": "museum",
                   "coords": [
                         -77.038329,
@@ -28769,7 +28769,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Takoma Park Presbyterian Church",
-                  "text": "Takoma Park Presbyterian Church este o biserică istorică prezbiteriană în cartierul Takoma Park din Washington, D.C.",
+                  "text": "Biserica Prezbiteriană Takoma Park este o biserică neogotică în Takoma Park, Maryland.",
                   "category": "religious",
                   "coords": [
                         -77.012898,
@@ -28787,7 +28787,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hughes Memorial Tower",
-                  "text": "Hughes Memorial Tower este un turn radio înalt în Washington, D.C., folosit pentru comunicații.",
+                  "text": "Turnul Memorial Hughes este unul dintre cele mai înalte turnuri de transmisie din zona Washingtonului D.C.",
                   "category": "tower",
                   "coords": [
                         -77.02667,
@@ -28877,7 +28877,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Square",
-                  "text": "Franklin Square este un parc în centrul Washingtonului, D.C., numit după Benjamin Franklin.",
+                  "text": "Piața Franklin este o piață istorică în Washington D.C., cu o fântână.",
                   "category": "park",
                   "coords": [
                         -77.030788,
@@ -28913,7 +28913,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rawlins Park",
-                  "text": "Rawlins Park este un parc public în cartierul Foggy Bottom din Washington, D.C.",
+                  "text": "Parcul Rawlins este un mic parc în Washington D.C., numit după un general din Războiul Civil.",
                   "category": "park",
                   "coords": [
                         -77.043308,
@@ -28949,7 +28949,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Vernon Square",
-                  "text": "Mount Vernon Square este o piață publică din Washington, D.C., găzduind Biblioteca Carnegie.",
+                  "text": "Piața Mount Vernon este o piață istorică în Washington D.C., cu Biblioteca Carnegie.",
                   "category": "park",
                   "coords": [
                         -77.022943,
@@ -28967,7 +28967,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian American Art Museum",
-                  "text": "Smithsonian American Art Museum este un muzeu din Washington, D.C., care prezintă arta americană și face parte din Instituția Smithsonian.",
+                  "text": "Muzeul de Artă Americană Smithsonian, găzduit în clădirea istorică Old Patent Office din Washington D.C.",
                   "category": "museum",
                   "coords": [
                         -77.02359,
@@ -28978,7 +28978,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Interior Museum",
-                  "text": "The Interior Museum in Washington, D.C. is located in the Department of the Interior building.",
+                  "text": "The Interior Museum showcases the history of the Department of the Interior in its headquarters building.",
                   "category": "museum",
                   "coords": [
                         -77.042798,
@@ -28996,7 +28996,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ford's Theatre National Historic Site",
-                  "text": "Ford's Theatre in Washington, D.C. is the site of President Lincoln's assassination.",
+                  "text": "Ford's Theatre National Historic Site is the restored theater where Abraham Lincoln was assassinated, with a museum.",
                   "category": "museum",
                   "coords": [
                         -77.025818,
@@ -29014,7 +29014,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pope John Paul II National Shrine",
-                  "text": "The Pope John Paul II National Shrine is a museum and Catholic shrine in Washington, D.C., dedicated to the life and legacy of Pope John Paul II.",
+                  "text": "The Pope John Paul II National Shrine houses relics and exhibits on the life of John Paul II in Washington D.C.",
                   "category": "museum",
                   "coords": [
                         -77.004854,
@@ -29023,7 +29023,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Decatur House",
-                  "text": "Decatur House is a historic house museum located on Lafayette Square in Washington, D.C.",
+                  "text": "Decatur House is a 19th-century historic townhouse near the White House with period furnishings.",
                   "category": "museum",
                   "coords": [
                         -77.038329,
@@ -29086,7 +29086,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Takoma Park Presbyterian Church",
-                  "text": "Takoma Park Presbyterian Church is a historic Presbyterian church in the Takoma Park neighborhood of Washington, D.C.",
+                  "text": "Takoma Park Presbyterian Church is a Gothic Revival church in Takoma Park, Maryland.",
                   "category": "religious",
                   "coords": [
                         -77.012898,
@@ -29104,7 +29104,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hughes Memorial Tower",
-                  "text": "Hughes Memorial Tower is a tall radio tower in Washington, D.C., used for communications.",
+                  "text": "Hughes Memorial Tower is one of the tallest broadcast towers in the Washington D.C. area.",
                   "category": "tower",
                   "coords": [
                         -77.02667,
@@ -29194,7 +29194,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Square",
-                  "text": "Franklin Square is a park in downtown Washington, D.C., named after Benjamin Franklin.",
+                  "text": "Franklin Square is a historic square in Washington D.C. with a fountain.",
                   "category": "park",
                   "coords": [
                         -77.030788,
@@ -29230,7 +29230,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rawlins Park",
-                  "text": "Rawlins Park is a public park in the Foggy Bottom neighborhood of Washington, D.C.",
+                  "text": "Rawlins Park is a small park in Washington D.C., named after a Civil War general.",
                   "category": "park",
                   "coords": [
                         -77.043308,
@@ -29266,7 +29266,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mount Vernon Square",
-                  "text": "Mount Vernon Square is a public square in Washington, D.C., home to the Carnegie Library.",
+                  "text": "Mount Vernon Square is a historic square in Washington D.C., featuring the Carnegie Library.",
                   "category": "park",
                   "coords": [
                         -77.022943,
@@ -29284,7 +29284,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Smithsonian American Art Museum",
-                  "text": "The Smithsonian American Art Museum is a museum in Washington, D.C., showcasing American art and part of the Smithsonian Institution.",
+                  "text": "The Smithsonian American Art Museum in the historic Old Patent Office Building in Washington D.C.",
                   "category": "museum",
                   "coords": [
                         -77.02359,
@@ -29340,7 +29340,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Museum of the American Revolution",
-                  "text": "Das Museum of the American Revolution erzählt die Geschichte der Amerikanischen Revolution in Philadelphia.",
+                  "text": "Das Museum of the American Revolution in Philadelphia zeigt Artefakte aus dem Unabhängigkeitskrieg.",
                   "category": "museum",
                   "coords": [
                         -75.145845,
@@ -29349,7 +29349,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The James & Ann Whitall House",
-                  "text": "Das James & Ann Whitall House ist ein historisches Hausmuseum im Raum Philadelphia.",
+                  "text": "Das James & Ann Whitall House ist ein koloniales Haus in New Jersey, das während der Schlacht von Red Bank als Lazarett diente.",
                   "category": "museum",
                   "coords": [
                         -75.190645,
@@ -29376,7 +29376,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Swedish Historical Museum",
-                  "text": "Das American Swedish Historical Museum feiert die schwedisch-amerikanische Geschichte in Philadelphia.",
+                  "text": "Das American Swedish Historical Museum in Philadelphia zeigt die schwedische Einwanderungsgeschichte in Amerika.",
                   "category": "museum",
                   "coords": [
                         -75.181019,
@@ -29430,7 +29430,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Liberty Museum",
-                  "text": "Das National Liberty Museum feiert Freiheit und Unabhängigkeit in Philadelphia.",
+                  "text": "Das National Liberty Museum in Philadelphia stellt Exponate zu Freiheit und Demokratie aus.",
                   "category": "museum",
                   "coords": [
                         -75.146842,
@@ -29439,7 +29439,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Merchants' Exchange Building",
-                  "text": "Das Merchants' Exchange Building ist ein historisches Gebäude und Museum in Philadelphia.",
+                  "text": "Das Merchants' Exchange Building in Philadelphia ist ein griechisch-klassizistisches Gebäude an der 3rd and Walnut Street.",
                   "category": "museum",
                   "coords": [
                         -75.145983,
@@ -29448,7 +29448,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powel House",
-                  "text": "Das Powel House ist ein historisches Hausmuseum in Philadelphia.",
+                  "text": "Das Powel House ist ein georgianisches Stadthaus aus dem 18. Jahrhundert in Philadelphia.",
                   "category": "museum",
                   "coords": [
                         -75.146955,
@@ -29457,7 +29457,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kongresshalle",
-                  "text": "Congress Hall war der Tagungsort des US-Kongresses in Philadelphia.",
+                  "text": "Congress Hall in Philadelphia war der Tagungsort des US-Kongresses in den 1790er Jahren, restauriert.",
                   "category": "museum",
                   "coords": [
                         -75.150645,
@@ -29475,7 +29475,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Dei Church",
-                  "text": "Die Gloria Dei Church ist eine historische schwedisch-lutherische Kirche in Philadelphia.",
+                  "text": "Die Gloria Dei Church (Old Swedes') ist die älteste Kirche Philadelphias, erbaut 1700.",
                   "category": "religious",
                   "coords": [
                         -75.143491,
@@ -29484,7 +29484,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Kingsessing Episcopal Church",
-                  "text": "Die Saint James Kingsessing Episcopal Church ist eine historische Kirche in Philadelphia.",
+                  "text": "Die Saint James Kingsessing Episcopal Church ist eine neugotische Kirche im Kingsessing-Viertel von Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.23895,
@@ -29493,7 +29493,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Samuel S. Fleisher Art Memorial",
-                  "text": "Das Samuel S. Fleisher Art Memorial ist ein Kunstzentrum in Philadelphia.",
+                  "text": "Das Samuel S. Fleisher Art Memorial ist eine Kunstschule und Galerie in einer ehemaligen Synagoge in Philadelphia.",
                   "category": "cultural",
                   "coords": [
                         -75.155362,
@@ -29502,7 +29502,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mother Bethel African Methodist Episcopal Church",
-                  "text": "Die Mother Bethel African Methodist Episcopal Church ist eine historische Kirche in Philadelphia.",
+                  "text": "In Hall: die älteste durchgehend afroamerikanische Kirchengemeinde der USA.",
                   "category": "religious",
                   "coords": [
                         -75.15176,
@@ -29511,7 +29511,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Pine Street Church",
-                  "text": "Die Old Pine Street Church ist eine historische presbyterianische Kirche in Philadelphia.",
+                  "text": "Presbyterianische Kirche in Hall, erbaut 1768.",
                   "category": "religious",
                   "coords": [
                         -75.149383,
@@ -29520,7 +29520,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre of Living Arts",
-                  "text": "Das Theatre of Living Arts ist ein Musikveranstaltungsort in Philadelphia.",
+                  "text": "Historisches Theater an der South Street in Hall, bekannt als TLA.",
                   "category": "cultural",
                   "coords": [
                         -75.148758,
@@ -29529,7 +29529,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St Joseph's Church",
-                  "text": "Die St Joseph's Church ist eine polnisch-katholische Kirche in Philadelphia.",
+                  "text": "Polnisch-katholische Kirche in Hall.",
                   "category": "religious",
                   "coords": [
                         -75.109759,
@@ -29538,7 +29538,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freedom Mortgage Pavilion",
-                  "text": "Das Freedom Mortgage Pavilion ist ein Open-Air-Amphitheater im Raum Philadelphia.",
+                  "text": "Open-Air-Amphitheater am Delaware River in Hall mit 25.000 Plätzen.",
                   "category": "cultural",
                   "coords": [
                         -75.129777,
@@ -29547,7 +29547,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Die Cathedral of the Immaculate Conception ist eine römisch-katholische Kathedrale in Camden, New Jersey.",
+                  "text": "Mutterkirche der Diözese Camden in Hall, römisch-katholisch.",
                   "category": "religious",
                   "coords": [
                         -75.11848,
@@ -29565,7 +29565,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary's Church",
-                  "text": "Die Old Saint Mary's Church ist eine historische römisch-katholische Kirche in Philadelphia.",
+                  "text": "Historische römisch-katholische Kirche in Hall, erbaut 1763.",
                   "category": "religious",
                   "coords": [
                         -75.148607,
@@ -29574,7 +29574,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Joseph's Church",
-                  "text": "Die Old Saint Joseph's Church ist eine historische katholische Kirche in independence-hall-landmarks-v2.",
+                  "text": "Älteste durchgehend betriebene katholische Kirche in Philadelphia, in Hall.",
                   "category": "religious",
                   "coords": [
                         -75.147549,
@@ -29583,7 +29583,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Saint Luke and The Epiphany",
-                  "text": "Die Kirche Saint Luke and The Epiphany ist eine episkopale Kirche in independence-hall-landmarks-v2.",
+                  "text": "Episkopale Kirche in Hall, entstanden aus der Fusion von St. Luke's und der Church of the Epiphany.",
                   "category": "religious",
                   "coords": [
                         -75.163173,
@@ -29592,7 +29592,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Suzanne Roberts Theatre",
-                  "text": "Das Suzanne Roberts Theatre ist ein Veranstaltungsort für darstellende Künste in independence-hall-landmarks-v2.",
+                  "text": "365-Plätze-Theater an der Broad Street in Hall, Heimstätte der Philadelphia Theatre Company.",
                   "category": "cultural",
                   "coords": [
                         -75.165613,
@@ -29610,7 +29610,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George C. Platt Bridge",
-                  "text": "Die George C. Platt Bridge ist eine Brücke in independence-hall-landmarks-v2.",
+                  "text": "Stahldurchlaufträgerbrücke über den Schuylkill River in Hall, Teil des US 1.",
                   "category": "landmark",
                   "coords": [
                         -75.211614,
@@ -29619,7 +29619,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Girard Point Bridge",
-                  "text": "Die Girard Point Bridge ist eine Brücke in independence-hall-landmarks-v2.",
+                  "text": "Hängebrücke über den Schuylkill River in Hall nahe der Marinewerft.",
                   "category": "landmark",
                   "coords": [
                         -75.196869,
@@ -29628,7 +29628,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Passyunk Avenue Bridge",
-                  "text": "Die Passyunk Avenue Bridge ist eine Brücke in independence-hall-landmarks-v2.",
+                  "text": "Klappbrücke über den Schuylkill River in Hall.",
                   "category": "landmark",
                   "coords": [
                         -75.203146,
@@ -29657,7 +29657,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Museum of the American Revolution",
-                  "text": "A Museum of the American Revolution az amerikai forradalom történetét mutatja be Philadelphiában.",
+                  "text": "A Museum of the American Revolution Philadelphiában a függetlenségi háború tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -75.145845,
@@ -29666,7 +29666,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The James & Ann Whitall House",
-                  "text": "A James & Ann Whitall House egy történelmi háztörténeti múzeum a Philadelphia-i térségben.",
+                  "text": "A James & Ann Whitall House egy gyarmati ház New Jersey-ben, amely a Red Bank-i csata idején kórházként szolgált.",
                   "category": "museum",
                   "coords": [
                         -75.190645,
@@ -29693,7 +29693,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Swedish Historical Museum",
-                  "text": "Az American Swedish Historical Museum a svéd-amerikai történelmet ünnepli Philadelphiában.",
+                  "text": "Az American Swedish Historical Museum Philadelphiában a svéd bevándorlás történetét mutatja be Amerikában.",
                   "category": "museum",
                   "coords": [
                         -75.181019,
@@ -29747,7 +29747,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Liberty Museum",
-                  "text": "A National Liberty Museum a szabadságot és függetlenséget ünnepli Philadelphiában.",
+                  "text": "A National Liberty Museum Philadelphiában a szabadságról és a demokráciáról szóló kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
                         -75.146842,
@@ -29756,7 +29756,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Merchants' Exchange Building",
-                  "text": "A Merchants' Exchange Building egy történelmi épület és múzeum Philadelphiában.",
+                  "text": "A Merchants' Exchange Building Philadelphiában egy görög klasszicista épület a 3rd és Walnut utca sarkán.",
                   "category": "museum",
                   "coords": [
                         -75.145983,
@@ -29765,7 +29765,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powel House",
-                  "text": "A Powel House egy történelmi háztörténeti múzeum Philadelphiában.",
+                  "text": "A Powel House egy 18. századi georgiánus városi ház Philadelphiában.",
                   "category": "museum",
                   "coords": [
                         -75.146955,
@@ -29774,7 +29774,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congress Hall",
-                  "text": "A Congress Hall az Egyesült Államok Kongresszusának ülésezőhelye volt Philadelphiában.",
+                  "text": "A Congress Hall Philadelphiában az 1790-es években az amerikai kongresszus ülésezett, restaurált termekkel.",
                   "category": "museum",
                   "coords": [
                         -75.150645,
@@ -29792,7 +29792,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Dei Church",
-                  "text": "A Gloria Dei Church egy történelmi svéd evangélikus templom Philadelphiában.",
+                  "text": "A Gloria Dei Church (Old Swedes') a legrégebbi templom Philadelphiában, 1700-ban épült.",
                   "category": "religious",
                   "coords": [
                         -75.143491,
@@ -29801,7 +29801,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Kingsessing Episcopal Church",
-                  "text": "A Saint James Kingsessing Episcopal Church egy történelmi templom Philadelphiában.",
+                  "text": "A Saint James Kingsessing Episcopal Church egy neogótikus templom Philadelphia Kingsessing negyedében.",
                   "category": "religious",
                   "coords": [
                         -75.23895,
@@ -29810,7 +29810,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Samuel S. Fleisher Art Memorial",
-                  "text": "A Samuel S. Fleisher Art Memorial egy művészeti központ Philadelphiában.",
+                  "text": "A Samuel S. Fleisher Art Memorial egy művészeti iskola és galéria egy egykori zsinagógában Philadelphiában.",
                   "category": "cultural",
                   "coords": [
                         -75.155362,
@@ -29819,7 +29819,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mother Bethel African Methodist Episcopal Church",
-                  "text": "A Mother Bethel African Methodist Episcopal Church egy történelmi templom Philadelphiában.",
+                  "text": "Hallban található a legrégebbi folyamatosan afroamerikai tulajdonban lévő templom az Egyesült Államokban.",
                   "category": "religious",
                   "coords": [
                         -75.15176,
@@ -29828,7 +29828,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Pine Street Church",
-                  "text": "Az Old Pine Street Church egy történelmi presbiteriánus templom Philadelphiában.",
+                  "text": "Presbiteriánus templom Hallban, épült 1768-ban.",
                   "category": "religious",
                   "coords": [
                         -75.149383,
@@ -29837,7 +29837,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre of Living Arts",
-                  "text": "A Theatre of Living Arts egy zenei helyszín Philadelphiában.",
+                  "text": "Történelmi színház a South Streeten Hallban, ismert TLA néven.",
                   "category": "cultural",
                   "coords": [
                         -75.148758,
@@ -29846,7 +29846,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St Joseph's Church",
-                  "text": "A St Joseph's Church egy lengyel katolikus templom Philadelphiában.",
+                  "text": "Lengyel katolikus templom Hallban.",
                   "category": "religious",
                   "coords": [
                         -75.109759,
@@ -29855,7 +29855,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freedom Mortgage Pavilion",
-                  "text": "A Freedom Mortgage Pavilion egy szabadtéri amfiteátrum a Philadelphia-i térségben.",
+                  "text": "Szabadtéri amfiteátrum a Delaware folyó partján Hallban, 25 000 férőhellyel.",
                   "category": "cultural",
                   "coords": [
                         -75.129777,
@@ -29864,7 +29864,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "A Cathedral of the Immaculate Conception egy római katolikus székesegyház Camdenben, New Jersey-ben.",
+                  "text": "A camdeni egyházmegye anyatemploma Hallban, római katolikus.",
                   "category": "religious",
                   "coords": [
                         -75.11848,
@@ -29882,7 +29882,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary's Church",
-                  "text": "Az Old Saint Mary's Church egy történelmi római katolikus templom Philadelphiában.",
+                  "text": "Történelmi római katolikus templom Hallban, épült 1763-ban.",
                   "category": "religious",
                   "coords": [
                         -75.148607,
@@ -29891,7 +29891,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Joseph's Church",
-                  "text": "Az Old Saint Joseph's Church egy történelmi katolikus templom az independence-hall-landmarks-v2 területén.",
+                  "text": "A legrégebbi folyamatosan működő katolikus templom Philadelphiában, Hallban.",
                   "category": "religious",
                   "coords": [
                         -75.147549,
@@ -29900,7 +29900,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Saint Luke and The Epiphany",
-                  "text": "A Szent Lukács és Vízkereszt temploma egy episzkopális templom az independence-hall-landmarks-v2 területén.",
+                  "text": "Episzkopális templom Hallban, a St. Luke's és a Church of the Epiphany egyesüléséből jött létre.",
                   "category": "religious",
                   "coords": [
                         -75.163173,
@@ -29909,7 +29909,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Suzanne Roberts Theatre",
-                  "text": "A Suzanne Roberts Színház egy előadó-művészeti helyszín az independence-hall-landmarks-v2 területén.",
+                  "text": "365 férőhelyes színház a Broad Streeten Hallban, a Philadelphia Theatre Company otthona.",
                   "category": "cultural",
                   "coords": [
                         -75.165613,
@@ -29927,7 +29927,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George C. Platt Bridge",
-                  "text": "A George C. Platt híd egy híd az independence-hall-landmarks-v2 területén.",
+                  "text": "Acél áthidaló híd a Schuylkill folyón Hallban, az US 1 része.",
                   "category": "landmark",
                   "coords": [
                         -75.211614,
@@ -29936,7 +29936,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Girard Point Bridge",
-                  "text": "A Girard Point híd egy híd az independence-hall-landmarks-v2 területén.",
+                  "text": "Függőhíd a Schuylkill folyón Hallban a haditengerészeti hajógyár közelében.",
                   "category": "landmark",
                   "coords": [
                         -75.196869,
@@ -29945,7 +29945,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Passyunk Avenue Bridge",
-                  "text": "A Passyunk Avenue híd egy híd az independence-hall-landmarks-v2 területén.",
+                  "text": "Felvonóhíd a Schuylkill folyón Hallban.",
                   "category": "landmark",
                   "coords": [
                         -75.203146,
@@ -29974,7 +29974,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Museum of the American Revolution",
-                  "text": "Muzeul Revoluției Americane prezintă povestea Revoluției Americane din Philadelphia.",
+                  "text": "Muzeul Revoluției Americane din Philadelphia prezintă artefacte din Războiul de Independență.",
                   "category": "museum",
                   "coords": [
                         -75.145845,
@@ -29983,7 +29983,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The James & Ann Whitall House",
-                  "text": "Casa James & Ann Whitall este un muzeu istoric de casă din zona Philadelphia.",
+                  "text": "Casa James & Ann Whitall este o casă colonială din New Jersey, folosită ca spital în timpul Bătăliei de la Red Bank.",
                   "category": "museum",
                   "coords": [
                         -75.190645,
@@ -30010,7 +30010,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Swedish Historical Museum",
-                  "text": "Muzeul Istoric American Suedez celebrează istoria suedeză-americană în Philadelphia.",
+                  "text": "Muzeul Istoric American Suedez din Philadelphia prezintă istoria imigrației suedeze în America.",
                   "category": "museum",
                   "coords": [
                         -75.181019,
@@ -30064,7 +30064,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Liberty Museum",
-                  "text": "Muzeul Național al Libertății celebrează libertatea și independența în Philadelphia.",
+                  "text": "Muzeul Național al Libertății din Philadelphia expune artefacte despre libertate și democrație.",
                   "category": "museum",
                   "coords": [
                         -75.146842,
@@ -30073,7 +30073,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Merchants' Exchange Building",
-                  "text": "Clădirea Bursei de Mărfuri este o clădire istorică și muzeu în Philadelphia.",
+                  "text": "Clădirea Bursa Comercianților din Philadelphia este o clădire neogreacă la colțul străzilor 3rd și Walnut.",
                   "category": "museum",
                   "coords": [
                         -75.145983,
@@ -30082,7 +30082,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powel House",
-                  "text": "Casa Powel este un muzeu istoric de casă în Philadelphia.",
+                  "text": "Casa Powel este o casă georgiană din secolul al XVIII-lea în Philadelphia.",
                   "category": "museum",
                   "coords": [
                         -75.146955,
@@ -30091,7 +30091,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congress Hall",
-                  "text": "Congress Hall a fost locul de întâlnire al Congresului SUA în Philadelphia.",
+                  "text": "Congress Hall din Philadelphia a fost locul de întâlnire al Congresului SUA în anii 1790, cu săli restaurate.",
                   "category": "museum",
                   "coords": [
                         -75.150645,
@@ -30109,7 +30109,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Dei Church",
-                  "text": "Biserica Gloria Dei este o biserică luterană suedeză istorică în Philadelphia.",
+                  "text": "Biserica Gloria Dei (Old Swedes’) este cea mai veche biserică din Philadelphia, construită în 1700.",
                   "category": "religious",
                   "coords": [
                         -75.143491,
@@ -30118,7 +30118,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Kingsessing Episcopal Church",
-                  "text": "Saint James Kingsessing Episcopal Church este o biserică episcopală istorică în Philadelphia.",
+                  "text": "Biserica Episcopală Saint James Kingsessing este o biserică neogotică în cartierul Kingsessing din Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.23895,
@@ -30127,7 +30127,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Samuel S. Fleisher Art Memorial",
-                  "text": "Memorialul de Artă Samuel S. Fleisher este un centru de artă în Philadelphia.",
+                  "text": "Memorialul de Artă Samuel S. Fleisher este o școală de artă și galerie într-o fostă sinagogă din Philadelphia.",
                   "category": "cultural",
                   "coords": [
                         -75.155362,
@@ -30136,7 +30136,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mother Bethel African Methodist Episcopal Church",
-                  "text": "Biserica Episcopală Metodistă Africană Mother Bethel este o biserică istorică în Philadelphia.",
+                  "text": "În Hall se află cea mai veche proprietate bisericească deținută continuu de afroamericani din SUA.",
                   "category": "religious",
                   "coords": [
                         -75.15176,
@@ -30145,7 +30145,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Pine Street Church",
-                  "text": "Biserica Old Pine Street este o biserică prezbiteriană istorică în Philadelphia.",
+                  "text": "Biserică prezbiteriană în Hall, construită în 1768.",
                   "category": "religious",
                   "coords": [
                         -75.149383,
@@ -30154,7 +30154,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre of Living Arts",
-                  "text": "Theatre of Living Arts este un loc de concerte în Philadelphia.",
+                  "text": "Teatru istoric pe South Street în Hall, cunoscut ca TLA.",
                   "category": "cultural",
                   "coords": [
                         -75.148758,
@@ -30163,7 +30163,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St Joseph's Church",
-                  "text": "Biserica Sf. Iosif este o biserică catolică poloneză în Philadelphia.",
+                  "text": "Biserică poloneză catolică în Hall.",
                   "category": "religious",
                   "coords": [
                         -75.109759,
@@ -30172,7 +30172,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freedom Mortgage Pavilion",
-                  "text": "Freedom Mortgage Pavilion este un amfiteatru în aer liber în zona Philadelphia.",
+                  "text": "Amfiteatru în aer liber pe malul râului Delaware în Hall, cu capacitate de 25.000 de locuri.",
                   "category": "cultural",
                   "coords": [
                         -75.129777,
@@ -30181,7 +30181,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Catedrala Neprihănitei Zămisliri este o catedrală romano-catolică în Camden, New Jersey.",
+                  "text": "Biserica mamă a Diecezei de Camden din Hall, romano-catolică.",
                   "category": "religious",
                   "coords": [
                         -75.11848,
@@ -30199,7 +30199,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary's Church",
-                  "text": "Biserica Veche Sf. Maria este o biserică romano-catolică istorică în Philadelphia.",
+                  "text": "Biserică romano-catolică istorică în Hall, construită în 1763.",
                   "category": "religious",
                   "coords": [
                         -75.148607,
@@ -30208,7 +30208,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Joseph's Church",
-                  "text": "Biserica Old Saint Joseph's Church este o biserică catolică istorică în independence-hall-landmarks-v2.",
+                  "text": "Cea mai veche biserică catolică în funcțiune continuă din Philadelphia, în Hall.",
                   "category": "religious",
                   "coords": [
                         -75.147549,
@@ -30217,7 +30217,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Saint Luke and The Epiphany",
-                  "text": "Biserica Sfântul Luca și Epifania este o biserică episcopală în independence-hall-landmarks-v2.",
+                  "text": "Biserică episcopală în Hall, formată prin fuziunea St. Luke's și Church of the Epiphany.",
                   "category": "religious",
                   "coords": [
                         -75.163173,
@@ -30226,7 +30226,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Suzanne Roberts Theatre",
-                  "text": "Teatrul Suzanne Roberts este un loc de spectacole în independence-hall-landmarks-v2.",
+                  "text": "Teatru cu 365 de locuri pe Broad Street în Hall, casa Philadelphia Theatre Company.",
                   "category": "cultural",
                   "coords": [
                         -75.165613,
@@ -30244,7 +30244,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George C. Platt Bridge",
-                  "text": "Podul George C. Platt este un pod în independence-hall-landmarks-v2.",
+                  "text": "Pod cu grinzi continue de oțel peste râul Schuylkill în Hall, parte a US 1.",
                   "category": "landmark",
                   "coords": [
                         -75.211614,
@@ -30253,7 +30253,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Girard Point Bridge",
-                  "text": "Podul Girard Point este un pod în independence-hall-landmarks-v2.",
+                  "text": "Pod suspendat peste râul Schuylkill în Hall, lângă șantierul naval.",
                   "category": "landmark",
                   "coords": [
                         -75.196869,
@@ -30262,7 +30262,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Passyunk Avenue Bridge",
-                  "text": "Podul Passyunk Avenue este un pod în independence-hall-landmarks-v2.",
+                  "text": "Pod basculant peste râul Schuylkill în Hall.",
                   "category": "landmark",
                   "coords": [
                         -75.203146,
@@ -30291,7 +30291,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Museum of the American Revolution",
-                  "text": "The Museum of the American Revolution tells the story of the American Revolution in Philadelphia.",
+                  "text": "The Museum of the American Revolution in Philadelphia displays artifacts from the Revolutionary War.",
                   "category": "museum",
                   "coords": [
                         -75.145845,
@@ -30300,7 +30300,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The James & Ann Whitall House",
-                  "text": "The James & Ann Whitall House is a historic house museum in the Philadelphia area.",
+                  "text": "The James & Ann Whitall House is a colonial house in New Jersey, used as a hospital during the Battle of Red Bank.",
                   "category": "museum",
                   "coords": [
                         -75.190645,
@@ -30327,7 +30327,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "American Swedish Historical Museum",
-                  "text": "The American Swedish Historical Museum celebrates Swedish-American history in Philadelphia.",
+                  "text": "The American Swedish Historical Museum in Philadelphia showcases Swedish immigration history in America.",
                   "category": "museum",
                   "coords": [
                         -75.181019,
@@ -30381,7 +30381,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Liberty Museum",
-                  "text": "The National Liberty Museum celebrates liberty and freedom in Philadelphia.",
+                  "text": "The National Liberty Museum in Philadelphia exhibits artifacts on liberty and democracy.",
                   "category": "museum",
                   "coords": [
                         -75.146842,
@@ -30390,7 +30390,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Merchants' Exchange Building",
-                  "text": "The Merchants' Exchange Building is a historic building and museum in Philadelphia.",
+                  "text": "The Merchants' Exchange Building in Philadelphia is a Greek Revival building at 3rd and Walnut Streets.",
                   "category": "museum",
                   "coords": [
                         -75.145983,
@@ -30399,7 +30399,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Powel House",
-                  "text": "The Powel House is a historic house museum in Philadelphia.",
+                  "text": "Powel House is an 18th-century Georgian townhouse in Philadelphia.",
                   "category": "museum",
                   "coords": [
                         -75.146955,
@@ -30408,7 +30408,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congress Hall",
-                  "text": "Congress Hall was the meeting place of the U.S. Congress in Philadelphia.",
+                  "text": "Congress Hall in Philadelphia was the meeting place of the U.S. Congress in the 1790s, with restored chambers.",
                   "category": "museum",
                   "coords": [
                         -75.150645,
@@ -30426,7 +30426,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Dei Church",
-                  "text": "Gloria Dei Church is a historic Swedish Lutheran church in Philadelphia.",
+                  "text": "Gloria Dei Church (Old Swedes') is the oldest church in Philadelphia, built in 1700.",
                   "category": "religious",
                   "coords": [
                         -75.143491,
@@ -30435,7 +30435,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint James Kingsessing Episcopal Church",
-                  "text": "Saint James Kingsessing Episcopal Church is a historic church in Philadelphia.",
+                  "text": "Saint James Kingsessing Episcopal Church is a Gothic Revival church in the Kingsessing neighborhood of Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.23895,
@@ -30444,7 +30444,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Samuel S. Fleisher Art Memorial",
-                  "text": "The Samuel S. Fleisher Art Memorial is an arts center in Philadelphia.",
+                  "text": "The Samuel S. Fleisher Art Memorial is an art school and gallery in a former synagogue in Philadelphia.",
                   "category": "cultural",
                   "coords": [
                         -75.155362,
@@ -30453,7 +30453,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mother Bethel African Methodist Episcopal Church",
-                  "text": "Mother Bethel African Methodist Episcopal Church is a historic church in Philadelphia.",
+                  "text": "The oldest continuously owned African American church property in the US, located in Hall.",
                   "category": "religious",
                   "coords": [
                         -75.15176,
@@ -30462,7 +30462,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Pine Street Church",
-                  "text": "Old Pine Street Church is a historic Presbyterian church in Philadelphia.",
+                  "text": "Presbyterian church in Hall built in 1768.",
                   "category": "religious",
                   "coords": [
                         -75.149383,
@@ -30471,7 +30471,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Theatre of Living Arts",
-                  "text": "The Theatre of Living Arts is a music venue in Philadelphia.",
+                  "text": "Historic theater on South Street in Hall, known as TLA.",
                   "category": "cultural",
                   "coords": [
                         -75.148758,
@@ -30480,7 +30480,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St Joseph's Church",
-                  "text": "St Joseph's Church is a Polish Catholic church in Philadelphia.",
+                  "text": "Polish Catholic church in Hall.",
                   "category": "religious",
                   "coords": [
                         -75.109759,
@@ -30489,7 +30489,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Freedom Mortgage Pavilion",
-                  "text": "Freedom Mortgage Pavilion is an outdoor amphitheatre in the Philadelphia area.",
+                  "text": "Outdoor amphitheater on the Delaware River waterfront in Hall with 25,000 seats.",
                   "category": "cultural",
                   "coords": [
                         -75.129777,
@@ -30498,7 +30498,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "The Cathedral of the Immaculate Conception is a Roman Catholic cathedral in Camden, New Jersey.",
+                  "text": "Mother church of the Diocese of Camden in Hall, Roman Catholic.",
                   "category": "religious",
                   "coords": [
                         -75.11848,
@@ -30516,7 +30516,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Mary's Church",
-                  "text": "Old Saint Mary's Church is a historic Roman Catholic church in Philadelphia.",
+                  "text": "Historic Roman Catholic church in Hall built in 1763.",
                   "category": "religious",
                   "coords": [
                         -75.148607,
@@ -30525,7 +30525,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Old Saint Joseph's Church",
-                  "text": "Old Saint Joseph's Church is a historic Catholic church in independence-hall-landmarks-v2.",
+                  "text": "The oldest continuously operating Catholic church in Philadelphia, located in Hall.",
                   "category": "religious",
                   "coords": [
                         -75.147549,
@@ -30534,7 +30534,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Church of Saint Luke and The Epiphany",
-                  "text": "The Church of Saint Luke and The Epiphany is an Episcopal church in independence-hall-landmarks-v2.",
+                  "text": "Episcopal church in Hall formed by merging St. Luke's and the Church of the Epiphany.",
                   "category": "religious",
                   "coords": [
                         -75.163173,
@@ -30543,7 +30543,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Suzanne Roberts Theatre",
-                  "text": "Suzanne Roberts Theatre is a performing arts venue in independence-hall-landmarks-v2.",
+                  "text": "365-seat theater on Broad Street in Hall, home to the Philadelphia Theatre Company.",
                   "category": "cultural",
                   "coords": [
                         -75.165613,
@@ -30561,7 +30561,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "George C. Platt Bridge",
-                  "text": "George C. Platt Bridge is a bridge in independence-hall-landmarks-v2.",
+                  "text": "Steel through truss bridge carrying US 1 over the Schuylkill River in Hall.",
                   "category": "landmark",
                   "coords": [
                         -75.211614,
@@ -30570,7 +30570,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Girard Point Bridge",
-                  "text": "Girard Point Bridge is a bridge in independence-hall-landmarks-v2.",
+                  "text": "Suspension bridge over the Schuylkill River in Hall near the naval shipyard.",
                   "category": "landmark",
                   "coords": [
                         -75.196869,
@@ -30579,7 +30579,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Passyunk Avenue Bridge",
-                  "text": "Passyunk Avenue Bridge is a bridge in independence-hall-landmarks-v2.",
+                  "text": "Bascule bridge over the Schuylkill River in Hall.",
                   "category": "landmark",
                   "coords": [
                         -75.203146,
@@ -30671,7 +30671,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Weitzman National Museum of American Jewish History",
-                  "text": "Das Weitzman National Museum of American Jewish History dokumentiert das jüdische Leben in Amerika.",
+                  "text": "Museum in Bell, das die amerikanisch-jüdische Erfahrung erkundet.",
                   "category": "museum",
                   "coords": [
                         -75.148463,
@@ -30707,7 +30707,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Constitution Center",
-                  "text": "Das National Constitution Center ist ein interaktives Museum, das der US-Verfassung gewidmet ist.",
+                  "text": "Interaktives Museum zur US-Verfassung in Bell.",
                   "category": "museum",
                   "coords": [
                         -75.149083,
@@ -30725,7 +30725,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy of Natural Sciences of Drexel University",
-                  "text": "Die Academy of Natural Sciences of Drexel University ist die älteste naturwissenschaftliche Forschungseinrichtung in Amerika.",
+                  "text": "Naturkundemuseum in Bell, gegründet 1812, älteste naturwissenschaftliche Forschungseinrichtung Amerikas.",
                   "category": "museum",
                   "coords": [
                         -75.171249,
@@ -30752,7 +30752,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lemon Hill Mansion",
-                  "text": "Lemon Hill Mansion ist ein historisches Herrenhaus im Fairmount Park in Philadelphia.",
+                  "text": "Federal-Herrenhaus in Fairmount Park, Bell, erbaut 1800 mit Blick auf den Schuylkill.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
@@ -30779,7 +30779,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Institute",
-                  "text": "Das Franklin Institute ist ein Wissenschaftsmuseum, das nach Benjamin Franklin benannt ist.",
+                  "text": "Wissenschaftsmuseum in Bell mit interaktiven Exponaten und einem riesigen Herzen.",
                   "category": "museum",
                   "coords": [
                         -75.173123,
@@ -30797,7 +30797,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Penn Museum",
-                  "text": "Das Penn Museum ist das Archäologie- und Anthropologiemuseum der University of Pennsylvania.",
+                  "text": "Archäologisches und anthropologisches Museum der Penn University in Bell, beherbergt ägyptische Mumien.",
                   "category": "museum",
                   "coords": [
                         -75.191435,
@@ -30815,7 +30815,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The John Coltrane House",
-                  "text": "Das John Coltrane House ist das ehemalige Wohnhaus des Jazzmusikers John Coltrane in Philadelphia.",
+                  "text": "Ehemaliges Wohnhaus von John Coltrane in Bell, komponierte hier „A Love Supreme”.",
                   "category": "museum",
                   "coords": [
                         -75.188569,
@@ -30824,7 +30824,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodford Mansion",
-                  "text": "Woodford Mansion ist ein historisches Herrenhaus im Fairmount Park.",
+                  "text": "Historisches Herrenhaus in Fairmount Park, Bell, erbaut 1756 im georgianischen Stil.",
                   "category": "museum",
                   "coords": [
                         -75.187814,
@@ -30833,7 +30833,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Strawberry Mansion",
-                  "text": "Strawberry Mansion ist ein Herrenhaus im Federal-Stil im Fairmount Park.",
+                  "text": "Federal-Herrenhaus in Fairmount Park, Bell, heute Museum für dekorative Kunst.",
                   "category": "museum",
                   "coords": [
                         -75.190613,
@@ -30860,7 +30860,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sweetbriar Mansion",
-                  "text": "Sweetbriar Mansion ist ein Herrenhaus im Fairmount Park, erbaut 1797.",
+                  "text": "Historisches Herrenhaus in Fairmount Park, Bell, erbaut 1797, Beispiel früher amerikanischer Architektur.",
                   "category": "historical",
                   "coords": [
                         -75.200863,
@@ -30887,7 +30887,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Cyprian Roman Catholic Church",
-                  "text": "St. Cyprian Roman Catholic Church ist eine historische römisch-katholische Kirche im Nicetown-Tioga-Viertel von Philadelphia.",
+                  "text": "Römisch-katholische Kirche in Bell, erbaut 1905, ursprünglich für die afroamerikanische Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -75.248286,
@@ -30896,7 +30896,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Center for Culture and Community",
-                  "text": "Das Calvary Center for Culture and Community ist eine ehemalige methodistische Kirche, die heute als Gemeindezentrum genutzt wird.",
+                  "text": "Ehemalige methodistische Kirche in Bell, heute Gemeindezentrum mit neugotischer Architektur.",
                   "category": "religious",
                   "coords": [
                         -75.218536,
@@ -30914,7 +30914,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Adalbert Roman Catholic Church",
-                  "text": "St. Adalbert Roman Catholic Church ist eine historische polnisch-amerikanische römisch-katholische Kirche in Philadelphia.",
+                  "text": "Polnisch-katholische Kirche in Bell, erbaut 1905.",
                   "category": "religious",
                   "coords": [
                         -75.102405,
@@ -30950,7 +30950,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Gesú",
-                  "text": "Eine historische katholische Kirche in Liberty Bell Landmarks.",
+                  "text": "Römisch-katholische Kirche in Bell, italienischer Renaissance-Stil.",
                   "category": "religious",
                   "coords": [
                         -75.165184,
@@ -30995,7 +30995,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congregation Mikveh Israel",
-                  "text": "Die älteste Synagoge in Liberty Bell Landmarks.",
+                  "text": "Älteste Synagoge in Philadelphia, gegründet 1740, sephardisch, in Bell.",
                   "category": "religious",
                   "coords": [
                         -75.147817,
@@ -31033,7 +31033,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Weitzman National Museum of American Jewish History",
-                  "text": "A Weitzman National Museum of American Jewish History az amerikai zsidó életet dokumentálja.",
+                  "text": "Múzeum Bellben, amely az amerikai zsidó tapasztalatot mutatja be.",
                   "category": "museum",
                   "coords": [
                         -75.148463,
@@ -31069,7 +31069,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Constitution Center",
-                  "text": "A National Constitution Center egy interaktív múzeum, amely az amerikai alkotmánynak szentelt.",
+                  "text": "Interaktív múzeum az amerikai alkotmányról Bellben.",
                   "category": "museum",
                   "coords": [
                         -75.149083,
@@ -31087,7 +31087,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy of Natural Sciences of Drexel University",
-                  "text": "Az Academy of Natural Sciences of Drexel University a legrégebbi természettudományi kutatóintézet Amerikában.",
+                  "text": "Természettudományi múzeum Bellben, alapítva 1812, Amerika legrégebbi természettudományi kutatóintézete.",
                   "category": "museum",
                   "coords": [
                         -75.171249,
@@ -31114,7 +31114,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lemon Hill Mansion",
-                  "text": "A Lemon Hill Mansion egy történelmi kúria a philadelphiai Fairmount Parkban.",
+                  "text": "Federal stílusú kúria a Fairmount Parkban, Bellben, épült 1800-ban, kilátással a Schuylkillre.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
@@ -31141,7 +31141,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Institute",
-                  "text": "A Franklin Institute egy Benjamin Franklinről elnevezett tudományos múzeum.",
+                  "text": "Tudományos múzeum Bellben interaktív kiállításokkal és egy hatalmas szívvel.",
                   "category": "museum",
                   "coords": [
                         -75.173123,
@@ -31159,7 +31159,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Penn Museum",
-                  "text": "A Penn Museum a Pennsylvaniai Egyetem régészeti és antropológiai múzeuma.",
+                  "text": "A Penn Egyetem régészeti és antropológiai múzeuma Bellben, egyiptomi múmiákat őriz.",
                   "category": "museum",
                   "coords": [
                         -75.191435,
@@ -31177,7 +31177,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The John Coltrane House",
-                  "text": "A John Coltrane House John Coltrane jazz-zenész egykori otthona Philadelphiában.",
+                  "text": "John Coltrane egykori otthona Bellben, itt komponálta az „A Love Supreme”-ot.",
                   "category": "museum",
                   "coords": [
                         -75.188569,
@@ -31186,7 +31186,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodford Mansion",
-                  "text": "A Woodford Mansion egy történelmi kúria a Fairmount Parkban.",
+                  "text": "Történelmi kúria a Fairmount Parkban, Bellben, épült 1756-ban, grúz stílusban.",
                   "category": "museum",
                   "coords": [
                         -75.187814,
@@ -31195,7 +31195,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Strawberry Mansion",
-                  "text": "A Strawberry Mansion egy federal stílusú kúria a Fairmount Parkban.",
+                  "text": "Federal stílusú kúria a Fairmount Parkban, Bellben, ma díszítőművészeti múzeum.",
                   "category": "museum",
                   "coords": [
                         -75.190613,
@@ -31222,7 +31222,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sweetbriar Mansion",
-                  "text": "A Sweetbriar Mansion egy kúria a Fairmount Parkban, 1797-ben épült.",
+                  "text": "Történelmi kúria a Fairmount Parkban, Bellben, épült 1797-ben, a korai amerikai építészet példája.",
                   "category": "historical",
                   "coords": [
                         -75.200863,
@@ -31249,7 +31249,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Cyprian Roman Catholic Church",
-                  "text": "A St. Cyprian Roman Catholic Church egy történelmi római katolikus templom Philadelphia Nicetown-Tioga negyedében.",
+                  "text": "Római katolikus templom Bellben, épült 1905-ben, eredetileg az afroamerikai közösség számára.",
                   "category": "religious",
                   "coords": [
                         -75.248286,
@@ -31258,7 +31258,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Center for Culture and Community",
-                  "text": "A Calvary Center for Culture and Community egy egykori metodista templom, amely ma közösségi központként működik.",
+                  "text": "Egykori metodista templom Bellben, ma közösségi központ neogótikus építészettel.",
                   "category": "religious",
                   "coords": [
                         -75.218536,
@@ -31276,7 +31276,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Adalbert Roman Catholic Church",
-                  "text": "A St. Adalbert Roman Catholic Church egy történelmi lengyel-amerikai római katolikus templom Philadelphiában.",
+                  "text": "Lengyel katolikus templom Bellben, épült 1905-ben.",
                   "category": "religious",
                   "coords": [
                         -75.102405,
@@ -31312,7 +31312,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Gesú",
-                  "text": "Egy történelmi katolikus templom a Liberty Bell Landmarksban.",
+                  "text": "Római katolikus templom Bellben, olasz reneszánsz stílusban.",
                   "category": "religious",
                   "coords": [
                         -75.165184,
@@ -31357,7 +31357,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congregation Mikveh Israel",
-                  "text": "A legrégebbi zsinagóga a Liberty Bell Landmarksban.",
+                  "text": "Philadelphia legrégebbi zsinagógája Bellben, alapítva 1740, szefárd.",
                   "category": "religious",
                   "coords": [
                         -75.147817,
@@ -31395,7 +31395,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Weitzman National Museum of American Jewish History",
-                  "text": "Muzeul Național de Istorie Evreiască Americană Weitzman documentează viața evreilor în America.",
+                  "text": "Muzeu în Bell care explorează experiența evreiască americană.",
                   "category": "museum",
                   "coords": [
                         -75.148463,
@@ -31431,7 +31431,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Constitution Center",
-                  "text": "Centrul Național al Constituției este un muzeu interactiv dedicat Constituției Statelor Unite.",
+                  "text": "Muzeu interactiv despre Constituția SUA în Bell.",
                   "category": "museum",
                   "coords": [
                         -75.149083,
@@ -31449,7 +31449,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy of Natural Sciences of Drexel University",
-                  "text": "Academia de Științe Naturale a Universității Drexel este cea mai veche instituție de cercetare științifică naturală din America.",
+                  "text": "Muzeu de istorie naturală în Bell, fondat în 1812, cea mai veche instituție de cercetare științifică naturală din America.",
                   "category": "museum",
                   "coords": [
                         -75.171249,
@@ -31476,7 +31476,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lemon Hill Mansion",
-                  "text": "Lemon Hill Mansion este un conac istoric în Fairmount Park din Philadelphia.",
+                  "text": "Conac în stil federal în Fairmount Park, Bell, construit în 1800, cu vedere spre râul Schuylkill.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
@@ -31503,7 +31503,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Institute",
-                  "text": "Institutul Franklin este un muzeu de știință numit după Benjamin Franklin.",
+                  "text": "Muzeu de știință în Bell cu exponate interactive și o inimă uriașă.",
                   "category": "museum",
                   "coords": [
                         -75.173123,
@@ -31521,7 +31521,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Penn Museum",
-                  "text": "Muzeul Penn este muzeul de arheologie și antropologie al Universității din Pennsylvania.",
+                  "text": "Muzeu de arheologie și antropologie al Universității Penn în Bell, cu mumii egiptene.",
                   "category": "museum",
                   "coords": [
                         -75.191435,
@@ -31539,7 +31539,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The John Coltrane House",
-                  "text": "Casa John Coltrane este fosta locuință a muzicianului de jazz John Coltrane din Philadelphia.",
+                  "text": "Fosta casă a lui John Coltrane în Bell, unde a compus „A Love Supreme”.",
                   "category": "museum",
                   "coords": [
                         -75.188569,
@@ -31548,7 +31548,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodford Mansion",
-                  "text": "Woodford Mansion este un conac istoric în Fairmount Park.",
+                  "text": "Conac istoric în Fairmount Park, Bell, construit în 1756 în stil georgian.",
                   "category": "museum",
                   "coords": [
                         -75.187814,
@@ -31557,7 +31557,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Strawberry Mansion",
-                  "text": "Strawberry Mansion este un conac în stil federal în Fairmount Park.",
+                  "text": "Conac în stil federal în Fairmount Park, Bell, astăzi muzeu de artă decorativă.",
                   "category": "museum",
                   "coords": [
                         -75.190613,
@@ -31584,7 +31584,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sweetbriar Mansion",
-                  "text": "Sweetbriar Mansion este un conac în Fairmount Park, construit în 1797.",
+                  "text": "Conac istoric în Fairmount Park, Bell, construit în 1797, exemplu de arhitectură americană timpurie.",
                   "category": "historical",
                   "coords": [
                         -75.200863,
@@ -31611,7 +31611,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Cyprian Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică St. Cyprian este o biserică romano-catolică istorică în cartierul Nicetown-Tioga din Philadelphia.",
+                  "text": "Biserică romano-catolică în Bell, construită în 1905, inițial pentru comunitatea afroamericană.",
                   "category": "religious",
                   "coords": [
                         -75.248286,
@@ -31620,7 +31620,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Center for Culture and Community",
-                  "text": "Centrul Calvary pentru Cultură și Comunitate este o fostă biserică metodistă, acum folosită ca centru comunitar.",
+                  "text": "Fosta biserică metodistă în Bell, acum centru comunitar cu arhitectură neogotică.",
                   "category": "religious",
                   "coords": [
                         -75.218536,
@@ -31638,7 +31638,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Adalbert Roman Catholic Church",
-                  "text": "Biserica Romano-Catolică St. Adalbert este o biserică romano-catolică poloneză-americană istorică din Philadelphia.",
+                  "text": "Biserică poloneză catolică în Bell, construită în 1905.",
                   "category": "religious",
                   "coords": [
                         -75.102405,
@@ -31674,7 +31674,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Gesú",
-                  "text": "O biserică catolică istorică în Liberty Bell Landmarks.",
+                  "text": "Biserică romano-catolică în Bell, în stil renascentist italian.",
                   "category": "religious",
                   "coords": [
                         -75.165184,
@@ -31719,7 +31719,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congregation Mikveh Israel",
-                  "text": "Cea mai veche sinagogă din Liberty Bell Landmarks.",
+                  "text": "Cea mai veche sinagogă din Philadelphia, fondată în 1740, sefardă, în Bell.",
                   "category": "religious",
                   "coords": [
                         -75.147817,
@@ -31757,7 +31757,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Weitzman National Museum of American Jewish History",
-                  "text": "The Weitzman National Museum of American Jewish History chronicles Jewish life in America.",
+                  "text": "Museum in Bell exploring the American Jewish experience.",
                   "category": "museum",
                   "coords": [
                         -75.148463,
@@ -31793,7 +31793,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "National Constitution Center",
-                  "text": "The National Constitution Center is an interactive museum dedicated to the U.S. Constitution.",
+                  "text": "Interactive museum dedicated to the US Constitution in Bell.",
                   "category": "museum",
                   "coords": [
                         -75.149083,
@@ -31811,7 +31811,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Academy of Natural Sciences of Drexel University",
-                  "text": "The Academy of Natural Sciences of Drexel University is the oldest natural science research institution in the Americas.",
+                  "text": "Natural history museum in Bell founded in 1812, oldest natural science research institution in the Americas.",
                   "category": "museum",
                   "coords": [
                         -75.171249,
@@ -31838,7 +31838,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lemon Hill Mansion",
-                  "text": "Lemon Hill Mansion is a historic mansion in Fairmount Park, Philadelphia.",
+                  "text": "Federal-style mansion in Fairmount Park, Bell, built 1800 with view of the Schuylkill River.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
@@ -31865,7 +31865,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Franklin Institute",
-                  "text": "The Franklin Institute is a science museum named after Benjamin Franklin.",
+                  "text": "Science museum in Bell with interactive exhibits and a giant heart.",
                   "category": "museum",
                   "coords": [
                         -75.173123,
@@ -31883,7 +31883,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Penn Museum",
-                  "text": "The Penn Museum is the archaeology and anthropology museum of the University of Pennsylvania.",
+                  "text": "University of Pennsylvania Museum of Archaeology and Anthropology in Bell, housing Egyptian mummies.",
                   "category": "museum",
                   "coords": [
                         -75.191435,
@@ -31901,7 +31901,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The John Coltrane House",
-                  "text": "The John Coltrane House is the former home of jazz musician John Coltrane in Philadelphia.",
+                  "text": "Former home of John Coltrane in Bell, where he composed 'A Love Supreme'.",
                   "category": "museum",
                   "coords": [
                         -75.188569,
@@ -31910,7 +31910,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Woodford Mansion",
-                  "text": "Woodford Mansion is a historic house museum in Fairmount Park.",
+                  "text": "Historic mansion in Fairmount Park, Bell, built 1756 in Georgian style.",
                   "category": "museum",
                   "coords": [
                         -75.187814,
@@ -31919,7 +31919,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Strawberry Mansion",
-                  "text": "Strawberry Mansion is a Federal-style mansion in Fairmount Park.",
+                  "text": "Federal-style mansion in Fairmount Park, Bell, now a decorative arts museum.",
                   "category": "museum",
                   "coords": [
                         -75.190613,
@@ -31946,7 +31946,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sweetbriar Mansion",
-                  "text": "Sweetbriar Mansion is a mansion in Fairmount Park built in 1797.",
+                  "text": "Historic mansion in Fairmount Park, Bell, built 1797, an example of early American architecture.",
                   "category": "historical",
                   "coords": [
                         -75.200863,
@@ -31973,7 +31973,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Cyprian Roman Catholic Church",
-                  "text": "St. Cyprian Roman Catholic Church is a historic Roman Catholic church in the Nicetown-Tioga neighborhood of Philadelphia.",
+                  "text": "Roman Catholic church in Bell built in 1905, originally for the African American community.",
                   "category": "religious",
                   "coords": [
                         -75.248286,
@@ -31982,7 +31982,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Calvary Center for Culture and Community",
-                  "text": "The Calvary Center for Culture and Community is a former Methodist church now used as a community center.",
+                  "text": "Former Methodist church in Bell, now a community center with Gothic Revival architecture.",
                   "category": "religious",
                   "coords": [
                         -75.218536,
@@ -32000,7 +32000,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Adalbert Roman Catholic Church",
-                  "text": "St. Adalbert Roman Catholic Church is a historic Polish-American Roman Catholic church in Philadelphia.",
+                  "text": "Polish Catholic church in Bell built in 1905.",
                   "category": "religious",
                   "coords": [
                         -75.102405,
@@ -32036,7 +32036,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of the Gesú",
-                  "text": "A historic Catholic church in Liberty Bell Landmarks.",
+                  "text": "Roman Catholic church in Bell in Italian Renaissance style.",
                   "category": "religious",
                   "coords": [
                         -75.165184,
@@ -32081,7 +32081,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Congregation Mikveh Israel",
-                  "text": "The oldest synagogue in Liberty Bell Landmarks.",
+                  "text": "Oldest synagogue in Philadelphia founded in 1740, Sephardic, located in Bell.",
                   "category": "religious",
                   "coords": [
                         -75.147817,
@@ -32146,7 +32146,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Roosevelt Island Sign",
-                  "text": "Das Roosevelt Island Sign ist ein markantes Schild in New York City.",
+                  "text": "Ein großes Schild mit der Aufschrift 'Roosevelt Island', sichtbar vom East River in New York.",
                   "category": "landmark",
                   "coords": [
                         -73.954455,
@@ -32155,7 +32155,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anton Kern Gallery",
-                  "text": "Die Anton Kern Gallery ist eine Kunstgalerie in New York City.",
+                  "text": "Eine Galerie für zeitgenössische Kunst in der Nähe der St. Patrick's Cathedral in New York.",
                   "category": "landmark",
                   "coords": [
                         -73.973945,
@@ -32164,7 +32164,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zankel Hall",
-                  "text": "Die Zankel Hall ist ein Konzertsaal in New York City.",
+                  "text": "Unterirdischer Konzertsaal in Patricks Cathedral, eröffnet 2003, 599 Plätze.",
                   "category": "cultural",
                   "coords": [
                         -73.980162,
@@ -32182,7 +32182,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Gallery",
-                  "text": "Die Eden Gallery ist eine Kunstgalerie in New York City.",
+                  "text": "Eine Kunstgalerie mit zeitgenössischen Gemälden und Skulpturen nahe der St. Patrick's Cathedral.",
                   "category": "museum",
                   "coords": [
                         -73.976472,
@@ -32191,7 +32191,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Fine Art",
-                  "text": "Eden Fine Art ist eine Kunstgalerie in New York City.",
+                  "text": "Eine Galerie für bildende Kunst mit wechselnden Ausstellungen in der Nähe der St. Patrick's Cathedral.",
                   "category": "museum",
                   "coords": [
                         -73.975533,
@@ -32200,7 +32200,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "Die Pace Gallery ist eine Kunstgalerie in New York City.",
+                  "text": "Eine renommierte Galerie für moderne und zeitgenössische Kunst nahe der St. Patrick's Cathedral.",
                   "category": "museum",
                   "coords": [
                         -73.972101,
@@ -32245,7 +32245,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Sweden",
-                  "text": "Die Church of Sweden ist eine schwedische Kirche in New York City.",
+                  "text": "Die Schwedische Kirche in New York, in der Nähe der St. Patrick's Cathedral auf Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.977389,
@@ -32317,7 +32317,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Lutheran Church",
-                  "text": "Die Saint Peter's Lutheran Church ist eine lutherische Kirche in New York City.",
+                  "text": "Eine lutherische Kirche an der Lexington Avenue und 54th Street, nahe der St. Patrick's Cathedral.",
                   "category": "religious",
                   "coords": [
                         -73.970304,
@@ -32328,7 +32328,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Roosevelt Island Sign",
-                  "text": "A Roosevelt Island Sign egy feltűnő tábla New York Cityben.",
+                  "text": "Egy nagy 'Roosevelt Island' feliratú tábla, látható a New York-i East River felől.",
                   "category": "landmark",
                   "coords": [
                         -73.954455,
@@ -32337,7 +32337,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anton Kern Gallery",
-                  "text": "Az Anton Kern Galéria egy művészeti galéria New York Cityben.",
+                  "text": "Egy kortárs művészeti galéria a New York-i Szent Patrik-székesegyház közelében.",
                   "category": "landmark",
                   "coords": [
                         -73.973945,
@@ -32346,7 +32346,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zankel Hall",
-                  "text": "A Zankel Hall egy hangversenyterem New York Cityben.",
+                  "text": "Föld alatti koncertterem a Patricks Cathedralben, nyitva 2003-ban, 599 férőhely.",
                   "category": "cultural",
                   "coords": [
                         -73.980162,
@@ -32364,7 +32364,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Gallery",
-                  "text": "Az Eden Galéria egy művészeti galéria New York Cityben.",
+                  "text": "Egy művészeti galéria kortárs festményekkel és szobrokkal a Szent Patrik-székesegyház közelében.",
                   "category": "museum",
                   "coords": [
                         -73.976472,
@@ -32373,7 +32373,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Fine Art",
-                  "text": "Az Eden Fine Art egy művészeti galéria New York Cityben.",
+                  "text": "Egy képzőművészeti galéria változó kiállításokkal, a Szent Patrik-székesegyház közelében.",
                   "category": "museum",
                   "coords": [
                         -73.975533,
@@ -32382,7 +32382,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "A Pace Galéria egy művészeti galéria New York Cityben.",
+                  "text": "Egy neves galéria a modern és kortárs művészet számára, a Szent Patrik-székesegyház közelében.",
                   "category": "museum",
                   "coords": [
                         -73.972101,
@@ -32427,7 +32427,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Sweden",
-                  "text": "A Church of Sweden egy svéd templom New York Cityben.",
+                  "text": "A Svéd Templom New Yorkban, a St. Patrick's-székesegyház közelében Manhattanben.",
                   "category": "religious",
                   "coords": [
                         -73.977389,
@@ -32499,7 +32499,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Lutheran Church",
-                  "text": "A Saint Peter's Lutheran Church egy evangélikus templom New York Cityben.",
+                  "text": "Evangélikus templom a Lexington Avenue és az 54th Street sarkán, a St. Patrick's-székesegyház közelében.",
                   "category": "religious",
                   "coords": [
                         -73.970304,
@@ -32510,7 +32510,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Roosevelt Island Sign",
-                  "text": "Semnul Roosevelt Island este un semn proeminent în New York City.",
+                  "text": "Un semn mare cu inscripția 'Roosevelt Island', vizibil din râul East River din New York.",
                   "category": "landmark",
                   "coords": [
                         -73.954455,
@@ -32519,7 +32519,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anton Kern Gallery",
-                  "text": "Galeria Anton Kern este o galerie de artă în New York City.",
+                  "text": "O galerie de artă contemporană lângă Catedrala Sf. Patrick din New York.",
                   "category": "landmark",
                   "coords": [
                         -73.973945,
@@ -32528,7 +32528,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zankel Hall",
-                  "text": "Zankel Hall este o sală de concerte în New York City.",
+                  "text": "Sală de concerte subterană în Patricks Cathedral, deschisă în 2003, 599 de locuri.",
                   "category": "cultural",
                   "coords": [
                         -73.980162,
@@ -32546,7 +32546,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Gallery",
-                  "text": "Galeria Eden este o galerie de artă în New York City.",
+                  "text": "O galerie de artă cu picturi și sculpturi contemporane, lângă Catedrala Sf. Patrick.",
                   "category": "museum",
                   "coords": [
                         -73.976472,
@@ -32555,7 +32555,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Fine Art",
-                  "text": "Eden Fine Art este o galerie de artă în New York City.",
+                  "text": "O galerie de artă fină cu expoziții temporare, lângă Catedrala Sf. Patrick.",
                   "category": "museum",
                   "coords": [
                         -73.975533,
@@ -32564,7 +32564,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "Galeria Pace este o galerie de artă în New York City.",
+                  "text": "O galerie renumită pentru arta modernă și contemporană, lângă Catedrala Sf. Patrick.",
                   "category": "museum",
                   "coords": [
                         -73.972101,
@@ -32609,7 +32609,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Sweden",
-                  "text": "Biserica Suediei este o biserică suedeză în New York City.",
+                  "text": "Biserica Suedeză din New York, lângă Catedrala Sf. Patrick, în Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.977389,
@@ -32681,7 +32681,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Lutheran Church",
-                  "text": "Saint Peter's Lutheran Church este o biserică luterană din New York City.",
+                  "text": "O biserică luterană la intersecția Lexington Avenue cu 54th Street, lângă Catedrala Sf. Patrick.",
                   "category": "religious",
                   "coords": [
                         -73.970304,
@@ -32692,7 +32692,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Roosevelt Island Sign",
-                  "text": "Roosevelt Island Sign is a prominent sign in New York City.",
+                  "text": "A large 'Roosevelt Island' sign visible from the East River in New York.",
                   "category": "landmark",
                   "coords": [
                         -73.954455,
@@ -32701,7 +32701,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Anton Kern Gallery",
-                  "text": "Anton Kern Gallery is an art gallery in New York City.",
+                  "text": "A contemporary art gallery near St. Patrick's Cathedral in New York.",
                   "category": "landmark",
                   "coords": [
                         -73.973945,
@@ -32710,7 +32710,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zankel Hall",
-                  "text": "Zankel Hall is a concert hall in New York City.",
+                  "text": "Underground concert hall in Patricks Cathedral, opened 2003, seating 599.",
                   "category": "cultural",
                   "coords": [
                         -73.980162,
@@ -32728,7 +32728,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Gallery",
-                  "text": "Eden Gallery is an art gallery in New York City.",
+                  "text": "An art gallery showcasing contemporary paintings and sculptures near St. Patrick's Cathedral.",
                   "category": "museum",
                   "coords": [
                         -73.976472,
@@ -32737,7 +32737,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eden Fine Art",
-                  "text": "Eden Fine Art is an art gallery in New York City.",
+                  "text": "A fine art gallery with rotating exhibitions near St. Patrick's Cathedral.",
                   "category": "museum",
                   "coords": [
                         -73.975533,
@@ -32746,7 +32746,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Pace Gallery",
-                  "text": "Pace Gallery is an art gallery in New York City.",
+                  "text": "A renowned gallery for modern and contemporary art near St. Patrick's Cathedral.",
                   "category": "museum",
                   "coords": [
                         -73.972101,
@@ -32791,7 +32791,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Church of Sweden",
-                  "text": "Church of Sweden is a Swedish church in New York City.",
+                  "text": "The Swedish Church in New York, located near St. Patrick's Cathedral on Manhattan.",
                   "category": "religious",
                   "coords": [
                         -73.977389,
@@ -32863,7 +32863,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Lutheran Church",
-                  "text": "Saint Peter's Lutheran Church is a Lutheran church in New York City.",
+                  "text": "A Lutheran church at Lexington Avenue and 54th Street, near St. Patrick's Cathedral.",
                   "category": "religious",
                   "coords": [
                         -73.970304,
@@ -32919,7 +32919,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "New Museum",
-                  "text": "Das New Museum ist ein Museum für zeitgenössische Kunst an der Bowery in Manhattan.",
+                  "text": "Museum für zeitgenössische Kunst in Bridge, ikonisches Gebäude von SANAA.",
                   "category": "museum",
                   "coords": [
                         -73.992841,
@@ -32946,7 +32946,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eyebeam",
-                  "text": "Eyebeam ist ein Kunst- und Technologiezentrum in Brooklyn.",
+                  "text": "Kunst- und Technologiezentrum in Bridge, fördert kreativen Ausdruck mit Technologie.",
                   "category": "cultural",
                   "coords": [
                         -73.934934,
@@ -32982,7 +32982,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Russian Orthodox Cathedral of the Transfiguration of Our Lord",
-                  "text": "Die Russian Orthodox Cathedral of the Transfiguration of Our Lord ist eine russisch-orthodoxe Kathedrale in Manhattan.",
+                  "text": "Russisch-orthodoxe Kathedrale in Bridge, erbaut 1918, mit Zwiebeltürmen.",
                   "category": "religious",
                   "coords": [
                         -73.953388,
@@ -32991,7 +32991,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Brigid Catholic Church",
-                  "text": "Saint Brigid Catholic Church ist eine katholische Kirche in Manhattan.",
+                  "text": "Römisch-katholische Kirche in Bridge, erbaut 1848, bekannt für ihre bewegte Geschichte.",
                   "category": "religious",
                   "coords": [
                         -73.980618,
@@ -33009,7 +33009,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Theatre Workshop",
-                  "text": "Das New York Theatre Workshop ist ein bekanntes Off-Broadway-Theater in Manhattan.",
+                  "text": "Off-Broadway-Theater in Bridge, das das Musical „Rent” hervorbrachte.",
                   "category": "cultural",
                   "coords": [
                         -73.99,
@@ -33027,7 +33027,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Stanton Street Shul",
-                  "text": "The Stanton Street Shul ist eine orthodoxe jüdische Synagoge in Manhattan.",
+                  "text": "Orthodoxe Synagoge in Bridge, erbaut 1913, im historischen Lower East Side.",
                   "category": "religious",
                   "coords": [
                         -73.983859,
@@ -33063,7 +33063,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. James Church",
-                  "text": "St. James Church ist eine römisch-katholische Kirche in Manhattan.",
+                  "text": "Römisch-katholische Kirche in Bridge, erbaut 1874, neugotischer Stil.",
                   "category": "religious",
                   "coords": [
                         -73.998493,
@@ -33081,7 +33081,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church",
-                  "text": "Die Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church ist eine katholische Kirche in Manhattan.",
+                  "text": "Historische Kirche in Little Italy, Bridge, vereint St. Patrick’s Old Cathedral und Most Precious Blood.",
                   "category": "religious",
                   "coords": [
                         -73.99888,
@@ -33099,7 +33099,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Old Cathedral",
-                  "text": "Saint Patrick's Old Cathedral ist eine historische römisch-katholische Kathedrale in Manhattan.",
+                  "text": "Alte Kathedrale in Bridge, erbaut 1815, nationales historisches Wahrzeichen.",
                   "category": "religious",
                   "coords": [
                         -73.995198,
@@ -33108,7 +33108,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liz Christy Garden",
-                  "text": "Der Liz Christy Garden ist ein Gemeinschaftsgarten in Manhattan, der 1973 angelegt wurde.",
+                  "text": "Erster Gemeinschaftsgarten in New York, gegründet 1973, in Bridge.",
                   "category": "landmark",
                   "coords": [
                         -73.992152,
@@ -33153,7 +33153,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Highland Park",
-                  "text": "Highland Park ist ein öffentlicher Park in Brooklyn.",
+                  "text": "37 Hektar großer Park in Bridge mit Stausee und Laufbahn.",
                   "category": "park",
                   "coords": [
                         -73.887906,
@@ -33162,7 +33162,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saratoga Park",
-                  "text": "Saratoga Park ist ein öffentlicher Park in Brooklyn.",
+                  "text": "Ein öffentlicher Park mit Spielplatz und Sportplätzen in Bridge.",
                   "category": "park",
                   "coords": [
                         -73.918996,
@@ -33171,7 +33171,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marsha P. Johnson State Park",
-                  "text": "Der Marsha P. Johnson State Park ist ein State Park in Brooklyn, benannt nach der Aktivistin.",
+                  "text": "Ein State Park zu Ehren von Marsha P. Johnson, am Wasser in Bridge gelegen.",
                   "category": "park",
                   "coords": [
                         -73.962109,
@@ -33234,7 +33234,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coleman Playground",
-                  "text": "Der Coleman Playground ist ein öffentlicher Spielplatz im Bereich der Brooklyn Bridge.",
+                  "text": "Ein Spielplatz mit einer Wasserspielfunktion in Bridge.",
                   "category": "park",
                   "coords": [
                         -73.9934,
@@ -33254,7 +33254,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "New Museum",
-                  "text": "A New Museum egy kortárs művészeti múzeum a manhattani Bowery-n.",
+                  "text": "Kortárs művészeti múzeum Bridge-ben, ikonikus épület a SANAA-tól.",
                   "category": "museum",
                   "coords": [
                         -73.992841,
@@ -33281,7 +33281,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eyebeam",
-                  "text": "Az Eyebeam egy művészeti és technológiai központ Brooklynban.",
+                  "text": "Művészeti és technológiai központ Bridge-ben, a technológiával való kreatív kifejezést támogatja.",
                   "category": "cultural",
                   "coords": [
                         -73.934934,
@@ -33317,7 +33317,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Russian Orthodox Cathedral of the Transfiguration of Our Lord",
-                  "text": "A Russian Orthodox Cathedral of the Transfiguration of Our Lord egy orosz ortodox székesegyház Manhattanben.",
+                  "text": "Orosz ortodox székesegyház Bridge-ben, épült 1918-ban, hagymakupolákkal.",
                   "category": "religious",
                   "coords": [
                         -73.953388,
@@ -33326,7 +33326,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Brigid Catholic Church",
-                  "text": "A Saint Brigid Catholic Church egy katolikus templom Manhattanben.",
+                  "text": "Római katolikus templom Bridge-ben, épült 1848-ban, viharos történetéről ismert.",
                   "category": "religious",
                   "coords": [
                         -73.980618,
@@ -33344,7 +33344,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Theatre Workshop",
-                  "text": "A New York Theatre Workshop egy neves Off-Broadway színház Manhattanben.",
+                  "text": "Off-Broadway színház Bridge-ben, amely a „Rent” musicalt szülte.",
                   "category": "cultural",
                   "coords": [
                         -73.99,
@@ -33362,7 +33362,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Stanton Street Shul",
-                  "text": "A Stanton Street Shul egy ortodox zsidó zsinagóga Manhattanben.",
+                  "text": "Ortodox zsinagóga Bridge-ben, épült 1913-ban, a történelmi Lower East Side-on.",
                   "category": "religious",
                   "coords": [
                         -73.983859,
@@ -33398,7 +33398,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. James Church",
-                  "text": "A St. James Church egy római katolikus templom Manhattanben.",
+                  "text": "Római katolikus templom Bridge-ben, épült 1874-ben, neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -73.998493,
@@ -33416,7 +33416,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church",
-                  "text": "A Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church egy katolikus templom Manhattanben.",
+                  "text": "Történelmi templom a Little Italyben, Bridge-ben, egyesíti a St. Patrick’s Old Cathedral-t és a Most Precious Blood-ot.",
                   "category": "religious",
                   "coords": [
                         -73.99888,
@@ -33434,7 +33434,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Old Cathedral",
-                  "text": "A Saint Patrick's Old Cathedral egy történelmi római katolikus székesegyház Manhattanben.",
+                  "text": "Régi székesegyház Bridge-ben, épült 1815-ben, nemzeti történelmi jelkép.",
                   "category": "religious",
                   "coords": [
                         -73.995198,
@@ -33443,7 +33443,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liz Christy Garden",
-                  "text": "A Liz Christy Garden egy közösségi kert Manhattanben, amelyet 1973-ban hoztak létre.",
+                  "text": "New York első közösségi kertje Bridge-ben, alapítva 1973-ban.",
                   "category": "landmark",
                   "coords": [
                         -73.992152,
@@ -33488,7 +33488,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Highland Park",
-                  "text": "A Highland Park egy nyilvános park Brooklynban.",
+                  "text": "37 hektáros park Bridge-ben, víztározóval és futópályával.",
                   "category": "park",
                   "coords": [
                         -73.887906,
@@ -33497,7 +33497,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saratoga Park",
-                  "text": "A Saratoga Park egy nyilvános park Brooklynban.",
+                  "text": "Egy közpark játszótérrel és sportpályákkal Bridge-ben.",
                   "category": "park",
                   "coords": [
                         -73.918996,
@@ -33506,7 +33506,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marsha P. Johnson State Park",
-                  "text": "A Marsha P. Johnson State Park egy állami park Brooklynban, az aktivistáról elnevezve.",
+                  "text": "Marsha P. Johnson tiszteletére elnevezett állami park a vízparton Bridge-ben.",
                   "category": "park",
                   "coords": [
                         -73.962109,
@@ -33569,7 +33569,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coleman Playground",
-                  "text": "A Coleman Playground egy nyilvános játszótér a Brooklyn Bridge környékén.",
+                  "text": "Egy játszótér vízpermettel Bridge-ben.",
                   "category": "park",
                   "coords": [
                         -73.9934,
@@ -33589,7 +33589,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "New Museum",
-                  "text": "New Museum este un muzeu de artă contemporană pe Bowery din Manhattan.",
+                  "text": "Muzeu de artă contemporană în Bridge, clădire iconică proiectată de SANAA.",
                   "category": "museum",
                   "coords": [
                         -73.992841,
@@ -33616,7 +33616,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eyebeam",
-                  "text": "Eyebeam este un centru de artă și tehnologie în Brooklyn.",
+                  "text": "Centru de artă și tehnologie în Bridge, promovează exprimarea creativă prin tehnologie.",
                   "category": "cultural",
                   "coords": [
                         -73.934934,
@@ -33652,7 +33652,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Russian Orthodox Cathedral of the Transfiguration of Our Lord",
-                  "text": "Russian Orthodox Cathedral of the Transfiguration of Our Lord este o catedrală ortodoxă rusă din Manhattan.",
+                  "text": "Catedrală ortodoxă rusă în Bridge, construită în 1918, cu turle în formă de ceapă.",
                   "category": "religious",
                   "coords": [
                         -73.953388,
@@ -33661,7 +33661,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Brigid Catholic Church",
-                  "text": "Saint Brigid Catholic Church este o biserică catolică din Manhattan.",
+                  "text": "Biserică romano-catolică în Bridge, construită în 1848, cunoscută pentru istoria sa tumultuoasă.",
                   "category": "religious",
                   "coords": [
                         -73.980618,
@@ -33679,7 +33679,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Theatre Workshop",
-                  "text": "New York Theatre Workshop este un cunoscut teatru Off-Broadway din Manhattan.",
+                  "text": "Teatru Off-Broadway în Bridge, care a produs musicalul „Rent”.",
                   "category": "cultural",
                   "coords": [
                         -73.99,
@@ -33697,7 +33697,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Stanton Street Shul",
-                  "text": "The Stanton Street Shul este o sinagogă evreiască ortodoxă din Manhattan.",
+                  "text": "Sinagogă ortodoxă în Bridge, construită în 1913, în istoricul Lower East Side.",
                   "category": "religious",
                   "coords": [
                         -73.983859,
@@ -33733,7 +33733,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. James Church",
-                  "text": "St. James Church este o biserică romano-catolică din Manhattan.",
+                  "text": "Biserică romano-catolică în Bridge, construită în 1874, stil neogotic.",
                   "category": "religious",
                   "coords": [
                         -73.998493,
@@ -33751,7 +33751,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church",
-                  "text": "Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church este o biserică catolică din Manhattan.",
+                  "text": "Biserică istorică în Little Italy, Bridge, combinând St. Patrick’s Old Cathedral și Most Precious Blood.",
                   "category": "religious",
                   "coords": [
                         -73.99888,
@@ -33769,7 +33769,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Old Cathedral",
-                  "text": "Saint Patrick's Old Cathedral este o catedrală romano-catolică istorică din Manhattan.",
+                  "text": "Catedrală veche în Bridge, construită în 1815, monument istoric național.",
                   "category": "religious",
                   "coords": [
                         -73.995198,
@@ -33778,7 +33778,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liz Christy Garden",
-                  "text": "Liz Christy Garden este o grădină comunitară din Manhattan, înființată în 1973.",
+                  "text": "Prima grădină comunitară din New York, fondată în 1973, în Bridge.",
                   "category": "landmark",
                   "coords": [
                         -73.992152,
@@ -33823,7 +33823,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Highland Park",
-                  "text": "Highland Park este un parc public din Brooklyn.",
+                  "text": "Parcul de 37 de acri în Bridge, cu rezervor și pistă de alergare.",
                   "category": "park",
                   "coords": [
                         -73.887906,
@@ -33832,7 +33832,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saratoga Park",
-                  "text": "Saratoga Park este un parc public din Brooklyn.",
+                  "text": "Un parc public cu loc de joacă și terenuri sportive în Bridge.",
                   "category": "park",
                   "coords": [
                         -73.918996,
@@ -33841,7 +33841,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marsha P. Johnson State Park",
-                  "text": "Marsha P. Johnson State Park este un parc de stat din Brooklyn, numit după activistă.",
+                  "text": "Un parc de stat în onoarea lui Marsha P. Johnson, situat pe malul apei în Bridge.",
                   "category": "park",
                   "coords": [
                         -73.962109,
@@ -33904,7 +33904,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coleman Playground",
-                  "text": "Coleman Playground este un loc de joacă public în zona Brooklyn Bridge.",
+                  "text": "Un loc de joacă cu stropitoare în Bridge.",
                   "category": "park",
                   "coords": [
                         -73.9934,
@@ -33924,7 +33924,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "New Museum",
-                  "text": "New Museum is a contemporary art museum on the Bowery in Manhattan.",
+                  "text": "Contemporary art museum in Bridge, iconic building designed by SANAA.",
                   "category": "museum",
                   "coords": [
                         -73.992841,
@@ -33951,7 +33951,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Eyebeam",
-                  "text": "Eyebeam is an art and technology center in Brooklyn.",
+                  "text": "Art and technology center in Bridge, fostering creative expression with technology.",
                   "category": "cultural",
                   "coords": [
                         -73.934934,
@@ -33987,7 +33987,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Russian Orthodox Cathedral of the Transfiguration of Our Lord",
-                  "text": "Russian Orthodox Cathedral of the Transfiguration of Our Lord is a Russian Orthodox cathedral in Manhattan.",
+                  "text": "Russian Orthodox cathedral in Bridge built in 1918, featuring onion domes.",
                   "category": "religious",
                   "coords": [
                         -73.953388,
@@ -33996,7 +33996,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Brigid Catholic Church",
-                  "text": "Saint Brigid Catholic Church is a Catholic church in Manhattan.",
+                  "text": "Roman Catholic church in Bridge built in 1848, known for its storied history.",
                   "category": "religious",
                   "coords": [
                         -73.980618,
@@ -34014,7 +34014,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "New York Theatre Workshop",
-                  "text": "New York Theatre Workshop is a renowned Off-Broadway theater in Manhattan.",
+                  "text": "Off-Broadway theatre in Bridge that produced the musical 'Rent'.",
                   "category": "cultural",
                   "coords": [
                         -73.99,
@@ -34032,7 +34032,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Stanton Street Shul",
-                  "text": "The Stanton Street Shul is an Orthodox Jewish synagogue in Manhattan.",
+                  "text": "Orthodox synagogue in Bridge built in 1913, in the historic Lower East Side.",
                   "category": "religious",
                   "coords": [
                         -73.983859,
@@ -34068,7 +34068,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "St. James Church",
-                  "text": "St. James Church is a Roman Catholic church in Manhattan.",
+                  "text": "Roman Catholic church in Bridge built in 1874 in Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -73.998493,
@@ -34086,7 +34086,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church",
-                  "text": "Basilica of Saint Patrick's Old Cathedral - Most Precious Blood Catholic Church is a Catholic church in Manhattan.",
+                  "text": "Historic church in Little Italy, Bridge, combining St. Patrick's Old Cathedral and Most Precious Blood.",
                   "category": "religious",
                   "coords": [
                         -73.99888,
@@ -34104,7 +34104,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Old Cathedral",
-                  "text": "Saint Patrick's Old Cathedral is a historic Roman Catholic cathedral in Manhattan.",
+                  "text": "Old cathedral in Bridge built in 1815, a National Historic Landmark.",
                   "category": "religious",
                   "coords": [
                         -73.995198,
@@ -34113,7 +34113,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Liz Christy Garden",
-                  "text": "Liz Christy Garden is a community garden in Manhattan, established in 1973.",
+                  "text": "First community garden in New York City, established 1973, in Bridge.",
                   "category": "landmark",
                   "coords": [
                         -73.992152,
@@ -34158,7 +34158,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Highland Park",
-                  "text": "Highland Park is a public park in Brooklyn.",
+                  "text": "37-acre park in Bridge with a reservoir and running track.",
                   "category": "park",
                   "coords": [
                         -73.887906,
@@ -34167,7 +34167,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Saratoga Park",
-                  "text": "Saratoga Park is a public park in Brooklyn.",
+                  "text": "A public park with a playground and sports fields in Bridge.",
                   "category": "park",
                   "coords": [
                         -73.918996,
@@ -34176,7 +34176,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Marsha P. Johnson State Park",
-                  "text": "Marsha P. Johnson State Park is a state park in Brooklyn, named after the activist.",
+                  "text": "A state park honoring Marsha P. Johnson, located on the waterfront in Bridge.",
                   "category": "park",
                   "coords": [
                         -73.962109,
@@ -34239,7 +34239,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coleman Playground",
-                  "text": "Coleman Playground is a public playground in the Brooklyn Bridge area.",
+                  "text": "A playground with a water spray feature in Bridge.",
                   "category": "park",
                   "coords": [
                         -73.9934,
@@ -34304,7 +34304,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Museum of Death",
-                  "text": "Das Museum of Death ist ein Museum, das sich mit dem Tod beschäftigt, in hollywood-bowl-landmarks-v2.",
+                  "text": "Ein Museum in Bowl, das dem Tod und Serienmördern gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -118.32901,
@@ -34313,7 +34313,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Psychiatry: An Industry of Death Museum",
-                  "text": "Das Psychiatry: An Industry of Death Museum ist ein Museum, das die Psychiatrie kritisiert, in hollywood-bowl-landmarks-v2.",
+                  "text": "Ein Museum in Bowl, das die Psychiatrie als schädliche Industrie kritisiert.",
                   "category": "museum",
                   "coords": [
                         -118.333917,
@@ -34331,7 +34331,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Sculpture Garden",
-                  "text": "Der Hollywood Sculpture Garden ist ein Skulpturengarten in hollywood-bowl-landmarks-v2.",
+                  "text": "Ein Skulpturengarten im Freien in Bowl mit Werken lokaler Künstler.",
                   "category": "museum",
                   "coords": [
                         -118.323543,
@@ -34340,7 +34340,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Heritage Museum",
-                  "text": "Das Hollywood Heritage Museum ist ein Museum zur Filmgeschichte in hollywood-bowl-landmarks-v2.",
+                  "text": "Ein Museum in Bowl, das die frühe Hollywood-Filmgeschichte feiert.",
                   "category": "museum",
                   "coords": [
                         -118.336118,
@@ -34547,7 +34547,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles County Museum of Art",
-                  "text": "Das größte Kunstmuseum im Westen der USA, gelegen in Los Angeles.",
+                  "text": "Das größte Kunstmuseum im Westen der USA, an der Wilshire Boulevard in Los Angeles, in der Nähe des Hollywood Bowl.",
                   "category": "museum",
                   "coords": [
                         -118.35897,
@@ -34583,7 +34583,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Wax Museum",
-                  "text": "Ein Wachsfigurenkabinett in Hollywood mit Wachsfiguren von Prominenten.",
+                  "text": "Ein Wachsfigurenkabinett mit Prominentenfiguren am Hollywood Boulevard in der Nähe des Hollywood Bowl.",
                   "category": "museum",
                   "coords": [
                         -118.338125,
@@ -34601,7 +34601,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Contemporary Art Museum",
-                  "text": "Ein Museum für zeitgenössische Kunst in Los Angeles.",
+                  "text": "Ein Museum für zeitgenössische Kunst in Bowl, gegründet 1939.",
                   "category": "museum",
                   "coords": [
                         -118.359903,
@@ -34628,7 +34628,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Avalon Hollywood",
-                  "text": "Ein Nachtclub und Theater in Hollywood.",
+                  "text": "Ein historischer Nachtclub und Musikveranstaltungsort am Hollywood Boulevard in der Nähe des Hollywood Bowl.",
                   "category": "cultural",
                   "coords": [
                         -118.326997,
@@ -34637,7 +34637,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coronet Theater",
-                  "text": "Ein historisches Theater in Los Angeles.",
+                  "text": "Ein historisches Theater auf der La Cienega Boulevard in Los Angeles, in der Hollywood-Region.",
                   "category": "cultural",
                   "coords": [
                         -118.376267,
@@ -34646,7 +34646,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Matrix",
-                  "text": "Ein Theater in Los Angeles.",
+                  "text": "Ein historischer Rockmusikclub am Sunset Strip in der Nähe des Hollywood Bowl.",
                   "category": "cultural",
                   "coords": [
                         -118.356677,
@@ -34657,7 +34657,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Museum of Death",
-                  "text": "A Museum of Death egy múzeum, amely a halállal foglalkozik, hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Egy múzeum Bowl-ban, amely a halálnak és sorozatgyilkosoknak szentelt.",
                   "category": "museum",
                   "coords": [
                         -118.32901,
@@ -34666,7 +34666,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Psychiatry: An Industry of Death Museum",
-                  "text": "A Psychiatry: An Industry of Death Museum egy múzeum, amely bírálja a pszichiátriát, hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Egy múzeum Bowl-ban, amely kritizálja a pszichiátriát mint káros iparágat.",
                   "category": "museum",
                   "coords": [
                         -118.333917,
@@ -34684,7 +34684,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Sculpture Garden",
-                  "text": "A Hollywood Sculpture Garden egy szoborkert hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Egy szabadtéri szoborkert Bowl-ban helyi művészek alkotásaival.",
                   "category": "museum",
                   "coords": [
                         -118.323543,
@@ -34693,7 +34693,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Heritage Museum",
-                  "text": "A Hollywood Heritage Museum egy filmtörténeti múzeum hollywood-bowl-landmarks-v2-ben.",
+                  "text": "Egy múzeum Bowl-ban, amely a korai Hollywood filmtörténelmét ünnepli.",
                   "category": "museum",
                   "coords": [
                         -118.336118,
@@ -34900,7 +34900,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles County Museum of Art",
-                  "text": "A nyugati Egyesült Államok legnagyobb művészeti múzeuma, Los Angelesben.",
+                  "text": "A nyugati Egyesült Államok legnagyobb művészeti múzeuma a Wilshire Boulevardon, Los Angelesben, a Hollywood Bowl közelében.",
                   "category": "museum",
                   "coords": [
                         -118.35897,
@@ -34936,7 +34936,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Wax Museum",
-                  "text": "Viaszmúzeum Hollywoodban, hírességek viaszfiguráival.",
+                  "text": "Viaszmúzeum hírességek viaszszobraival a Hollywood Boulevardon, a Hollywood Bowl közelében.",
                   "category": "museum",
                   "coords": [
                         -118.338125,
@@ -34954,7 +34954,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Contemporary Art Museum",
-                  "text": "Kortárs művészeti múzeum Los Angelesben.",
+                  "text": "Kortárs művészeti múzeum Bowl-ban, alapítva 1939-ben.",
                   "category": "museum",
                   "coords": [
                         -118.359903,
@@ -34981,7 +34981,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Avalon Hollywood",
-                  "text": "Éjszakai klub és színház Hollywoodban.",
+                  "text": "Történelmi éjszakai klub és zenei helyszín a Hollywood Boulevardon, a Hollywood Bowl közelében.",
                   "category": "cultural",
                   "coords": [
                         -118.326997,
@@ -34990,7 +34990,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coronet Theater",
-                  "text": "Történelmi színház Los Angelesben.",
+                  "text": "Történelmi színház a La Cienega Boulevardon, Los Angelesben, a Hollywood körzetben.",
                   "category": "cultural",
                   "coords": [
                         -118.376267,
@@ -34999,7 +34999,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Matrix",
-                  "text": "Színház Los Angelesben.",
+                  "text": "Történelmi rockzenei klub a Sunset Strip-en, a Hollywood Bowl közelében.",
                   "category": "cultural",
                   "coords": [
                         -118.356677,
@@ -35010,7 +35010,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Museum of Death",
-                  "text": "Muzeul Morții este un muzeu care se ocupă cu moartea, în hollywood-bowl-landmarks-v2.",
+                  "text": "Un muzeu în Bowl dedicat morții și ucigașilor în serie.",
                   "category": "museum",
                   "coords": [
                         -118.32901,
@@ -35019,7 +35019,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Psychiatry: An Industry of Death Museum",
-                  "text": "Muzeul Psihiatrie: O Industrie a Morții este un muzeu care critică psihiatria, în hollywood-bowl-landmarks-v2.",
+                  "text": "Un muzeu în Bowl care critică psihiatria ca industrie dăunătoare.",
                   "category": "museum",
                   "coords": [
                         -118.333917,
@@ -35037,7 +35037,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Sculpture Garden",
-                  "text": "Grădina de Sculpturi Hollywood este o grădină cu sculpturi în hollywood-bowl-landmarks-v2.",
+                  "text": "O grădină de sculpturi în aer liber în Bowl cu lucrări ale artiștilor locali.",
                   "category": "museum",
                   "coords": [
                         -118.323543,
@@ -35046,7 +35046,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Heritage Museum",
-                  "text": "Muzeul Patrimoniului Hollywood este un muzeu al istoriei filmului în hollywood-bowl-landmarks-v2.",
+                  "text": "Un muzeu în Bowl care celebrează istoria timpurie a filmului hollywoodian.",
                   "category": "museum",
                   "coords": [
                         -118.336118,
@@ -35253,7 +35253,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles County Museum of Art",
-                  "text": "Cel mai mare muzeu de artă din vestul Statelor Unite, situat în Los Angeles.",
+                  "text": "Cel mai mare muzeu de artă din vestul Statelor Unite, pe Wilshire Boulevard în Los Angeles, lângă Hollywood Bowl.",
                   "category": "museum",
                   "coords": [
                         -118.35897,
@@ -35289,7 +35289,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Wax Museum",
-                  "text": "Un muzeu de ceară din Hollywood, cu figuri de ceară ale celebrităților.",
+                  "text": "Un muzeu al figurilor de ceară cu statui ale celebrităților, pe Hollywood Boulevard, lângă Hollywood Bowl.",
                   "category": "museum",
                   "coords": [
                         -118.338125,
@@ -35307,7 +35307,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Contemporary Art Museum",
-                  "text": "Un muzeu de artă contemporană din Los Angeles.",
+                  "text": "Un muzeu de artă contemporană în Bowl, fondat în 1939.",
                   "category": "museum",
                   "coords": [
                         -118.359903,
@@ -35334,7 +35334,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Avalon Hollywood",
-                  "text": "Un club de noapte și teatru în Hollywood.",
+                  "text": "Un club de noapte istoric și loc de muzică pe Hollywood Boulevard, lângă Hollywood Bowl.",
                   "category": "cultural",
                   "coords": [
                         -118.326997,
@@ -35343,7 +35343,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coronet Theater",
-                  "text": "Un teatru istoric din Los Angeles.",
+                  "text": "Un teatru istoric pe La Cienega Boulevard în Los Angeles, în zona Hollywood.",
                   "category": "cultural",
                   "coords": [
                         -118.376267,
@@ -35352,7 +35352,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Matrix",
-                  "text": "Un teatru din Los Angeles.",
+                  "text": "Un club istoric de muzică rock pe Sunset Strip, lângă Hollywood Bowl.",
                   "category": "cultural",
                   "coords": [
                         -118.356677,
@@ -35363,7 +35363,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Museum of Death",
-                  "text": "The Museum of Death is a museum dealing with death in hollywood-bowl-landmarks-v2.",
+                  "text": "A museum in Bowl dedicated to death and serial killers.",
                   "category": "museum",
                   "coords": [
                         -118.32901,
@@ -35372,7 +35372,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Psychiatry: An Industry of Death Museum",
-                  "text": "Psychiatry: An Industry of Death Museum is a museum critical of psychiatry in hollywood-bowl-landmarks-v2.",
+                  "text": "A museum in Bowl critiquing psychiatry as a harmful industry.",
                   "category": "museum",
                   "coords": [
                         -118.333917,
@@ -35390,7 +35390,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Sculpture Garden",
-                  "text": "The Hollywood Sculpture Garden is a sculpture garden in hollywood-bowl-landmarks-v2.",
+                  "text": "An outdoor sculpture garden in Bowl featuring works by local artists.",
                   "category": "museum",
                   "coords": [
                         -118.323543,
@@ -35399,7 +35399,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Heritage Museum",
-                  "text": "The Hollywood Heritage Museum is a museum of film history in hollywood-bowl-landmarks-v2.",
+                  "text": "A museum in Bowl celebrating early Hollywood film history.",
                   "category": "museum",
                   "coords": [
                         -118.336118,
@@ -35606,7 +35606,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Los Angeles County Museum of Art",
-                  "text": "The largest art museum in the western United States, located in Los Angeles.",
+                  "text": "The largest art museum in the western United States, on Wilshire Boulevard in Los Angeles, near the Hollywood Bowl.",
                   "category": "museum",
                   "coords": [
                         -118.35897,
@@ -35642,7 +35642,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Hollywood Wax Museum",
-                  "text": "A wax museum in Hollywood featuring wax figures of celebrities.",
+                  "text": "A wax museum with celebrity wax figures on Hollywood Boulevard near the Hollywood Bowl.",
                   "category": "museum",
                   "coords": [
                         -118.338125,
@@ -35660,7 +35660,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Broad Contemporary Art Museum",
-                  "text": "A contemporary art museum in Los Angeles.",
+                  "text": "A contemporary art museum in Bowl, founded in 1939.",
                   "category": "museum",
                   "coords": [
                         -118.359903,
@@ -35687,7 +35687,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Avalon Hollywood",
-                  "text": "A nightclub and theatre in Hollywood.",
+                  "text": "A historic nightclub and music venue on Hollywood Boulevard near the Hollywood Bowl.",
                   "category": "cultural",
                   "coords": [
                         -118.326997,
@@ -35696,7 +35696,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Coronet Theater",
-                  "text": "A historic theatre in Los Angeles.",
+                  "text": "A historic theater on La Cienega Boulevard in Los Angeles, in the Hollywood area.",
                   "category": "cultural",
                   "coords": [
                         -118.376267,
@@ -35705,7 +35705,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             },
             {
                   "name": "Matrix",
-                  "text": "A theatre in Los Angeles.",
+                  "text": "A historic rock music venue on the Sunset Strip near the Hollywood Bowl.",
                   "category": "cultural",
                   "coords": [
                         -118.356677,

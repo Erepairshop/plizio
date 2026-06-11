@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraBruneiCitiesV2: POI[] = [
   {
-    id: "bandar-seri-begawan-cities-v2",
+    id: "bandar-seri-begawan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "Dieser für das silberne Thronjubiläum des Sultans geschaffene, weitläufige Stadtpark bietet üppige Landschaftsgärten, kühlende Brunnen und schattige Gehwege.",
+                  "category": "park",
+                  "coords": [
+                        114.93513,
+                        4.898646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "A szultán ezüstjubileumára létrehozott kiterjedt városi park buja parkosított kertekkel, hűsítő szökőkutakkal és árnyékos sétányokkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        114.93513,
+                        4.898646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "Creat pentru Jubileul de Argint al Sultanului, acest parc urban extins are grădini peisagistice luxuriante, fântâni răcoroase și alei umbrite.",
+                  "category": "park",
+                  "coords": [
+                        114.93513,
+                        4.898646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "Created for the Sultan's Silver Jubilee, this extensive urban park features lush landscaped gardens, cooling fountains, and shaded walkways.",
+                  "category": "park",
+                  "coords": [
+                        114.93513,
+                        4.898646
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "BN-BM",
     coords: [114.9398, 4.9031],
@@ -47,7 +92,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Muzium Daerah Belait",
-                  "text": "Regionalmuseum im Distrikt Belait, Kuala Belait.",
+                  "text": "Belait District Museum, das die Geschichte und Kultur des Distrikts Belait zeigt.",
                   "category": "museum",
                   "coords": [
                         114.191008,
@@ -56,7 +101,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Menara Cendera Kenangan",
-                  "text": "Denkmal in Kuala Belait.",
+                  "text": "Menara Cendera Kenangan, ein historischer Erinnerungsturm in Belait.",
                   "category": "historical",
                   "coords": [
                         114.196534,
@@ -67,7 +112,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Muzium Daerah Belait",
-                  "text": "Regionális múzeum Belait körzetében, Kuala Belait.",
+                  "text": "Belait District Museum, amely a Belait körzet történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         114.191008,
@@ -76,7 +121,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Menara Cendera Kenangan",
-                  "text": "Emlékmű Kuala Belaitban.",
+                  "text": "Menara Cendera Kenangan, egy történelmi emléktorony Belaitben.",
                   "category": "historical",
                   "coords": [
                         114.196534,
@@ -87,7 +132,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Muzium Daerah Belait",
-                  "text": "Muzeu regional în districtul Belait, Kuala Belait.",
+                  "text": "Muzeul Districtului Belait, care prezintă istoria și cultura districtului Belait.",
                   "category": "museum",
                   "coords": [
                         114.191008,
@@ -96,7 +141,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Menara Cendera Kenangan",
-                  "text": "Monument în Kuala Belait.",
+                  "text": "Menara Cendera Kenangan, un turn memorial istoric în Belait.",
                   "category": "historical",
                   "coords": [
                         114.196534,
@@ -107,7 +152,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Belait District Museum",
-                  "text": "Regional museum in the Belait District, Kuala Belait.",
+                  "text": "Belait District Museum, showcasing the history and culture of Belait District.",
                   "category": "museum",
                   "coords": [
                         114.191008,
@@ -116,7 +161,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Menara Cendera Kenangan",
-                  "text": "Monument in Kuala Belait.",
+                  "text": "Menara Cendera Kenangan, a historic memorial tower in Belait.",
                   "category": "historical",
                   "coords": [
                         114.196534,
@@ -183,7 +228,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "OGDC",
-                  "text": "Oil and Gas Discovery Centre ist eine Touristenattraktion in Seria.",
+                  "text": "Öl- und Gas-Entdeckungszentrum in Seria mit interaktiven Ausstellungen zur Energieindustrie.",
                   "category": "landmark",
                   "coords": [
                         114.327163,
@@ -203,7 +248,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "OGDC",
-                  "text": "Az Oil and Gas Discovery Centre egy turisztikai látványosság Seria városában.",
+                  "text": "Olaj- és Gáz Felfedező Központ Seriában, interaktív kiállításokkal az energiaiparról.",
                   "category": "landmark",
                   "coords": [
                         114.327163,
@@ -223,7 +268,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "OGDC",
-                  "text": "Oil and Gas Discovery Centre este o atracție turistică situată în Seria.",
+                  "text": "Centru de descoperire a petrolului și gazelor în Seria, cu expoziții interactive despre industria energetică.",
                   "category": "landmark",
                   "coords": [
                         114.327163,
@@ -243,7 +288,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Oil and Gas Discovery Centre",
-                  "text": "Oil and Gas Discovery Centre is a tourist attraction located in Seria.",
+                  "text": "Oil and Gas Discovery Centre in Seria with interactive exhibits on the energy industry.",
                   "category": "landmark",
                   "coords": [
                         114.327163,
@@ -301,7 +346,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pantai Penabai",
-                  "text": "Pantai Penabai ist ein Strand in Tutong.",
+                  "text": "Pantai Penabai, ein Sandstrand an der Küste von Tutong.",
                   "category": "recreational",
                   "coords": [
                         114.627073,
@@ -310,7 +355,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Panchor",
-                  "text": "Sungai Panchor ist ein Aussichtspunkt in Tutong.",
+                  "text": "Sungai Panchor, ein Fluss im Distrikt Tutong, umgeben von Regenwald.",
                   "category": "natural",
                   "coords": [
                         114.671746,
@@ -319,7 +364,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Birau",
-                  "text": "Sungai Birau ist ein Aussichtspunkt in Tutong.",
+                  "text": "Sungai Birau, ein natürlicher Wasserlauf im Tutong-Gebiet.",
                   "category": "natural",
                   "coords": [
                         114.67179,
@@ -328,7 +373,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau ist ein Aussichtspunkt in Tutong.",
+                  "text": "Sungai Bakiau, ein Fluss im Distrikt Tutong, bekannt für seine ruhige Umgebung.",
                   "category": "natural",
                   "coords": [
                         114.664132,
@@ -337,7 +382,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Lurah Saban",
-                  "text": "Lurah Saban ist ein Aussichtspunkt in Tutong.",
+                  "text": "Lurah Saban, eine natürliche Senke oder Schlucht im Tutong-Distrikt.",
                   "category": "natural",
                   "coords": [
                         114.668556,
@@ -346,7 +391,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku ist ein Aussichtspunkt in Tutong.",
+                  "text": "Pulau Bakuku, eine kleine Insel vor der Küste von Tutong.",
                   "category": "natural",
                   "coords": [
                         114.626401,
@@ -355,7 +400,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Seri Warisan Emas",
-                  "text": "Taman Seri Warisan Emas ist ein Denkmal in Tutong.",
+                  "text": "Taman Seri Warisan Emas, ein historischer Park in Tutong mit Gedenkstätten.",
                   "category": "historical",
                   "coords": [
                         114.661237,
@@ -364,7 +409,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mercu Tanda Kenangan",
-                  "text": "Mercu Tanda Kenangan ist ein Denkmal in Tutong.",
+                  "text": "Mercu Tanda Kenangan, ein historisches Erinnerungsdenkmal in Tutong.",
                   "category": "historical",
                   "coords": [
                         114.65924,
@@ -373,7 +418,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Bukit Bendera\" Sign",
-                  "text": "Das \"Bukit Bendera\" Sign ist ein Denkmal in Tutong.",
+                  "text": "Schild „Bukit Bendera“ in Tutong, das auf den Hügel hinweist.",
                   "category": "historical",
                   "coords": [
                         114.660761,
@@ -382,7 +427,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Sungai Tutong\" Sign",
-                  "text": "Das \"Sungai Tutong\" Sign ist ein Denkmal in Tutong.",
+                  "text": "Schild „Sungai Tutong“ in Tutong, das den Fluss kennzeichnet.",
                   "category": "historical",
                   "coords": [
                         114.657456,
@@ -391,7 +436,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Pekan Tutong\" Sign",
-                  "text": "Das \"Pekan Tutong\" Sign ist ein Denkmal in Tutong.",
+                  "text": "Schild „Pekan Tutong“ in Tutong, das die Stadtmitte anzeigt.",
                   "category": "historical",
                   "coords": [
                         114.657848,
@@ -400,7 +445,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Tutong\" Sign",
-                  "text": "Das \"Tutong\" Sign ist ein Denkmal in Tutong.",
+                  "text": "Schild „Tutong“ am Ortseingang von Tutong.",
                   "category": "historical",
                   "coords": [
                         114.667974,
@@ -409,7 +454,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pantai Seri Kenangan",
-                  "text": "Seri Kenangan Beach ist eine Sehenswürdigkeit in Tutong.",
+                  "text": "Seri Kenangan Beach, ein Erholungsstrand mit feinem Sand in Tutong.",
                   "category": "landmark",
                   "coords": [
                         114.627843,
@@ -418,7 +463,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Hassanal Bolkiah Mosque",
-                  "text": "Die Hassanal Bolkiah Mosque ist eine religiöse Stätte in Tutong.",
+                  "text": "Hassanal Bolkiah Moschee, die Hauptmoschee von Tutong, benannt nach dem Sultan.",
                   "category": "religious",
                   "coords": [
                         114.662069,
@@ -429,7 +474,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pantai Penabai",
-                  "text": "A Pantai Penabai egy strand Tutongban.",
+                  "text": "Pantai Penabai, homokos strand Tutong partján.",
                   "category": "recreational",
                   "coords": [
                         114.627073,
@@ -438,7 +483,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Panchor",
-                  "text": "A Sungai Panchor egy kilátópont Tutong városában.",
+                  "text": "Sungai Panchor, egy folyó Tutong körzetében, esőerdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         114.671746,
@@ -447,7 +492,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Birau",
-                  "text": "A Sungai Birau egy kilátópont Tutongban.",
+                  "text": "Sungai Birau, természetes vízfolyás a Tutong régióban.",
                   "category": "natural",
                   "coords": [
                         114.67179,
@@ -456,7 +501,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Bakiau",
-                  "text": "A Sungai Bakiau egy kilátópont Tutong településen.",
+                  "text": "Sungai Bakiau, egy folyó Tutong körzetében, nyugodt környezetéről ismert.",
                   "category": "natural",
                   "coords": [
                         114.664132,
@@ -465,7 +510,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Lurah Saban",
-                  "text": "A Lurah Saban egy kilátópont Tutong városában.",
+                  "text": "Lurah Saban, természetes mélyedés vagy szurdok a Tutong körzetben.",
                   "category": "natural",
                   "coords": [
                         114.668556,
@@ -474,7 +519,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pulau Bakuku",
-                  "text": "A Pulau Bakuku egy kilátópont Tutongban.",
+                  "text": "Pulau Bakuku, egy kis sziget Tutong partjainál.",
                   "category": "natural",
                   "coords": [
                         114.626401,
@@ -483,7 +528,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Seri Warisan Emas",
-                  "text": "A Taman Seri Warisan Emas egy emlékmű Tutong városában.",
+                  "text": "Taman Seri Warisan Emas, történelmi park Tutongban, emlékhelyekkel.",
                   "category": "historical",
                   "coords": [
                         114.661237,
@@ -492,7 +537,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mercu Tanda Kenangan",
-                  "text": "A Mercu Tanda Kenangan egy emlékmű Tutongban.",
+                  "text": "Mercu Tanda Kenangan, egy történelmi emlékmű Tutongban.",
                   "category": "historical",
                   "coords": [
                         114.65924,
@@ -501,7 +546,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Bukit Bendera\" Sign",
-                  "text": "A \"Bukit Bendera\" Sign egy emlékmű Tutong városában.",
+                  "text": "„Bukit Bendera” felirat Tutongban, amely a dombra utal.",
                   "category": "historical",
                   "coords": [
                         114.660761,
@@ -510,7 +555,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Sungai Tutong\" Sign",
-                  "text": "A \"Sungai Tutong\" Sign egy emlékmű Tutong településen.",
+                  "text": "„Sungai Tutong” felirat Tutongban, amely a folyót jelöli.",
                   "category": "historical",
                   "coords": [
                         114.657456,
@@ -519,7 +564,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Pekan Tutong\" Sign",
-                  "text": "A \"Pekan Tutong\" Sign egy emlékmű Tutongban.",
+                  "text": "„Pekan Tutong” felirat Tutongban, amely a városközpontot jelzi.",
                   "category": "historical",
                   "coords": [
                         114.657848,
@@ -528,7 +573,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Tutong\" Sign",
-                  "text": "A \"Tutong\" Sign egy emlékmű Tutong városában.",
+                  "text": "„Tutong” felirat Tutong bejáratánál.",
                   "category": "historical",
                   "coords": [
                         114.667974,
@@ -537,7 +582,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pantai Seri Kenangan",
-                  "text": "A Seri Kenangan Beach egy látványosság Tutong településen.",
+                  "text": "Seri Kenangan Beach, pihenő strand finom homokkal Tutongban.",
                   "category": "landmark",
                   "coords": [
                         114.627843,
@@ -546,7 +591,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Hassanal Bolkiah Mosque",
-                  "text": "A Hassanal Bolkiah Mosque egy istentiszteleti hely Tutongban.",
+                  "text": "Hassanal Bolkiah mecset, Tutong fő mecsete, a szultánról elnevezve.",
                   "category": "religious",
                   "coords": [
                         114.662069,
@@ -557,7 +602,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pantai Penabai",
-                  "text": "Pantai Penabai este o plajă situată în Tutong.",
+                  "text": "Pantai Penabai, o plajă cu nisip pe coasta din Tutong.",
                   "category": "recreational",
                   "coords": [
                         114.627073,
@@ -566,7 +611,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Panchor",
-                  "text": "Sungai Panchor este un punct de belvedere aflat în Tutong.",
+                  "text": "Sungai Panchor, un râu în districtul Tutong, înconjurat de pădure tropicală.",
                   "category": "natural",
                   "coords": [
                         114.671746,
@@ -575,7 +620,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Birau",
-                  "text": "Sungai Birau este un punct de belvedere situat în Tutong.",
+                  "text": "Sungai Birau, un curs de apă natural în zona Tutong.",
                   "category": "natural",
                   "coords": [
                         114.67179,
@@ -584,7 +629,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau este un punct de belvedere aflat în Tutong.",
+                  "text": "Sungai Bakiau, un râu în districtul Tutong, cunoscut pentru împrejurimile sale liniștite.",
                   "category": "natural",
                   "coords": [
                         114.664132,
@@ -593,7 +638,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Lurah Saban",
-                  "text": "Lurah Saban este un punct de belvedere situat în Tutong.",
+                  "text": "Lurah Saban, o depresiune naturală sau o râpă în districtul Tutong.",
                   "category": "natural",
                   "coords": [
                         114.668556,
@@ -602,7 +647,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku este un punct de belvedere aflat în Tutong.",
+                  "text": "Pulau Bakuku, o insulă mică de pe coasta din Tutong.",
                   "category": "natural",
                   "coords": [
                         114.626401,
@@ -611,7 +656,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Seri Warisan Emas",
-                  "text": "Taman Seri Warisan Emas este un monument situat în Tutong.",
+                  "text": "Taman Seri Warisan Emas, un parc istoric în Tutong cu monumente comemorative.",
                   "category": "historical",
                   "coords": [
                         114.661237,
@@ -620,7 +665,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mercu Tanda Kenangan",
-                  "text": "Mercu Tanda Kenangan este un monument aflat în Tutong.",
+                  "text": "Mercu Tanda Kenangan, un monument memorial istoric în Tutong.",
                   "category": "historical",
                   "coords": [
                         114.65924,
@@ -629,7 +674,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Bukit Bendera\" Sign",
-                  "text": "\"Bukit Bendera\" Sign este un monument situat în Tutong.",
+                  "text": "Indicatorul „Bukit Bendera” din Tutong, care semnalizează dealul.",
                   "category": "historical",
                   "coords": [
                         114.660761,
@@ -638,7 +683,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Sungai Tutong\" Sign",
-                  "text": "\"Sungai Tutong\" Sign este un monument aflat în Tutong.",
+                  "text": "Indicatorul „Sungai Tutong” din Tutong, care marchează râul.",
                   "category": "historical",
                   "coords": [
                         114.657456,
@@ -647,7 +692,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Pekan Tutong\" Sign",
-                  "text": "\"Pekan Tutong\" Sign este un monument situat în Tutong.",
+                  "text": "Indicatorul „Pekan Tutong” din Tutong, care indică centrul orașului.",
                   "category": "historical",
                   "coords": [
                         114.657848,
@@ -656,7 +701,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Tutong\" Sign",
-                  "text": "\"Tutong\" Sign este un monument aflat în Tutong.",
+                  "text": "Indicatorul „Tutong” la intrarea în localitatea Tutong.",
                   "category": "historical",
                   "coords": [
                         114.667974,
@@ -665,7 +710,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pantai Seri Kenangan",
-                  "text": "Seri Kenangan Beach este o atracție turistică situată în Tutong.",
+                  "text": "Seri Kenangan Beach, o plajă de agrement cu nisip fin în Tutong.",
                   "category": "landmark",
                   "coords": [
                         114.627843,
@@ -674,7 +719,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Hassanal Bolkiah Mosque",
-                  "text": "Hassanal Bolkiah Mosque este un lăcaș de cult aflat în Tutong.",
+                  "text": "Moscheea Hassanal Bolkiah, principala moschee din Tutong, numită după sultan.",
                   "category": "religious",
                   "coords": [
                         114.662069,
@@ -685,7 +730,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pantai Penabai",
-                  "text": "Pantai Penabai is a beach located in Tutong.",
+                  "text": "Pantai Penabai, a sandy beach on the Tutong coast.",
                   "category": "recreational",
                   "coords": [
                         114.627073,
@@ -694,7 +739,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Panchor",
-                  "text": "Sungai Panchor is a scenic viewpoint situated in Tutong.",
+                  "text": "Sungai Panchor, a river in the Tutong district surrounded by rainforest.",
                   "category": "natural",
                   "coords": [
                         114.671746,
@@ -703,7 +748,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Birau",
-                  "text": "Sungai Birau is a viewpoint located in Tutong.",
+                  "text": "Sungai Birau, a natural watercourse in the Tutong area.",
                   "category": "natural",
                   "coords": [
                         114.67179,
@@ -712,7 +757,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau is a scenic viewpoint situated in Tutong.",
+                  "text": "Sungai Bakiau, a river in the Tutong district known for its tranquil surroundings.",
                   "category": "natural",
                   "coords": [
                         114.664132,
@@ -721,7 +766,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Lurah Saban",
-                  "text": "Lurah Saban is a viewpoint located in Tutong.",
+                  "text": "Lurah Saban, a natural depression or gorge in the Tutong district.",
                   "category": "natural",
                   "coords": [
                         114.668556,
@@ -730,7 +775,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku is a scenic viewpoint situated in Tutong.",
+                  "text": "Pulau Bakuku, a small island off the coast of Tutong.",
                   "category": "natural",
                   "coords": [
                         114.626401,
@@ -739,7 +784,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Seri Warisan Emas",
-                  "text": "Taman Seri Warisan Emas is a monument located in Tutong.",
+                  "text": "Taman Seri Warisan Emas, a historic park in Tutong with memorial sites.",
                   "category": "historical",
                   "coords": [
                         114.661237,
@@ -748,7 +793,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mercu Tanda Kenangan",
-                  "text": "Mercu Tanda Kenangan is a monument situated in Tutong.",
+                  "text": "Mercu Tanda Kenangan, a historic memorial landmark in Tutong.",
                   "category": "historical",
                   "coords": [
                         114.65924,
@@ -757,7 +802,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Bukit Bendera\" Sign",
-                  "text": "The \"Bukit Bendera\" Sign is a prominent monument in Tutong.",
+                  "text": "“Bukit Bendera” sign in Tutong, marking the hill.",
                   "category": "historical",
                   "coords": [
                         114.660761,
@@ -766,7 +811,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Sungai Tutong\" Sign",
-                  "text": "The \"Sungai Tutong\" Sign is a monument located in Tutong.",
+                  "text": "“Sungai Tutong” sign in Tutong, marking the river.",
                   "category": "historical",
                   "coords": [
                         114.657456,
@@ -775,7 +820,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Pekan Tutong\" Sign",
-                  "text": "The \"Pekan Tutong\" Sign is a monument situated in Tutong.",
+                  "text": "“Pekan Tutong” sign in Tutong, indicating the town centre.",
                   "category": "historical",
                   "coords": [
                         114.657848,
@@ -784,7 +829,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "\"Tutong\" Sign",
-                  "text": "The \"Tutong\" Sign is a recognizable monument in Tutong.",
+                  "text": "“Tutong” sign at the entrance to Tutong.",
                   "category": "historical",
                   "coords": [
                         114.667974,
@@ -793,7 +838,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Seri Kenangan Beach",
-                  "text": "Seri Kenangan Beach is a tourist attraction located in Tutong.",
+                  "text": "Seri Kenangan Beach, a recreational beach with fine sand in Tutong.",
                   "category": "landmark",
                   "coords": [
                         114.627843,
@@ -802,7 +847,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Hassanal Bolkiah Mosque",
-                  "text": "Hassanal Bolkiah Mosque is a place of worship situated in Tutong.",
+                  "text": "Hassanal Bolkiah Mosque, the main mosque of Tutong, named after the Sultan.",
                   "category": "religious",
                   "coords": [
                         114.662069,
@@ -860,7 +905,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "Galerie für Kunst und Kultur in Bangar.",
+                  "text": "Galerie für Kunst- und Kulturerbe des Temburong-Distrikts in Bangar mit lokalen Traditionen.",
                   "category": "museum",
                   "coords": [
                         115.072285,
@@ -871,7 +916,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "Művészeti és kulturális galéria Bangarban.",
+                  "text": "Temburong kerület művészeti és kulturális örökségi galériája Bangarban, helyi hagyományokkal.",
                   "category": "museum",
                   "coords": [
                         115.072285,
@@ -882,7 +927,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "Galerie de artă și cultură în Bangar.",
+                  "text": "Galeria de patrimoniu artistic și cultural al districtului Temburong din Bangar, cu tradiții locale.",
                   "category": "museum",
                   "coords": [
                         115.072285,
@@ -893,7 +938,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "Gallery for art and culture in Bangar.",
+                  "text": "Gallery of arts and cultural heritage of Temburong district in Bangar, featuring local traditions.",
                   "category": "museum",
                   "coords": [
                         115.072285,
@@ -997,7 +1042,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pantai Jerudong",
-                  "text": "Jerudong Beach ist ein Strand in Jerudong.",
+                  "text": "Jerudong Beach, ein beliebter Strandabschnitt an der Küste von Jerudong.",
                   "category": "recreational",
                   "coords": [
                         114.839104,
@@ -1006,7 +1051,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "JP Waterpark",
-                  "text": "Der JP Waterpark ist ein Wasserpark in Jerudong.",
+                  "text": "JP Waterpark in Jerudong mit Wasserrutschen und Pools für Familien.",
                   "category": "family",
                   "coords": [
                         114.835802,
@@ -1015,7 +1060,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Ampitheatre",
-                  "text": "Das Jerudong Ampitheatre ist ein Theater in Jerudong.",
+                  "text": "Jerudong Amphitheater, eine Freiluftbühne für Konzerte und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         114.833302,
@@ -1024,7 +1069,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Rekreasi Hutan Bukit Shahbandar",
-                  "text": "Der Bukit Shahbandar Recreational Park ist ein Naturschutzgebiet in Jerudong.",
+                  "text": "Bukit Shahbandar Erholungspark in Jerudong mit Wanderwegen und Aussichtspunkten.",
                   "category": "natural",
                   "coords": [
                         114.853529,
@@ -1033,7 +1078,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Park Bus Stop",
-                  "text": "Der Jerudong Park Bus Stop ist eine Sehenswürdigkeit in Jerudong.",
+                  "text": "Jerudong Park Bushaltestelle, eine markante Haltestelle in der Nähe des Freizeitparks.",
                   "category": "landmark",
                   "coords": [
                         114.833806,
@@ -1044,7 +1089,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pantai Jerudong",
-                  "text": "A Jerudong Beach egy strand Jerudong városában.",
+                  "text": "Jerudong Beach, népszerű partszakasz Jerudong partjainál.",
                   "category": "recreational",
                   "coords": [
                         114.839104,
@@ -1053,7 +1098,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "JP Waterpark",
-                  "text": "A JP Waterpark egy élményfürdő Jerudongban.",
+                  "text": "JP Waterpark Jerudongban, csúszdákkal és medencékkel családok számára.",
                   "category": "family",
                   "coords": [
                         114.835802,
@@ -1062,7 +1107,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Ampitheatre",
-                  "text": "A Jerudong Ampitheatre egy színházi helyszín Jerudong városában.",
+                  "text": "Jerudong Amfiteátrum, szabadtéri színpad koncertekhez és rendezvényekhez.",
                   "category": "cultural",
                   "coords": [
                         114.833302,
@@ -1071,7 +1116,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Rekreasi Hutan Bukit Shahbandar",
-                  "text": "A Bukit Shahbandar Recreational Park egy természetvédelmi terület Jerudongban.",
+                  "text": "Bukit Shahbandar Pihenőpark Jerudongban, túraútvonalakkal és kilátópontokkal.",
                   "category": "natural",
                   "coords": [
                         114.853529,
@@ -1080,7 +1125,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Park Bus Stop",
-                  "text": "A Jerudong Park Bus Stop egy nevezetesség Jerudong városában.",
+                  "text": "Jerudong Park buszmegálló, egy jellegzetes megálló a szabadidőpark közelében.",
                   "category": "landmark",
                   "coords": [
                         114.833806,
@@ -1091,7 +1136,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pantai Jerudong",
-                  "text": "Jerudong Beach este o plajă situată în Jerudong.",
+                  "text": "Jerudong Beach, o porțiune populară de plajă pe coasta Jerudong.",
                   "category": "recreational",
                   "coords": [
                         114.839104,
@@ -1100,7 +1145,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "JP Waterpark",
-                  "text": "JP Waterpark este un parc acvatic aflat în Jerudong.",
+                  "text": "JP Waterpark în Jerudong, cu tobogane acvatice și piscine pentru familii.",
                   "category": "family",
                   "coords": [
                         114.835802,
@@ -1109,7 +1154,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Ampitheatre",
-                  "text": "Jerudong Ampitheatre este un teatru situat în Jerudong.",
+                  "text": "Amfiteatrul Jerudong, o scenă în aer liber pentru concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         114.833302,
@@ -1118,7 +1163,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Rekreasi Hutan Bukit Shahbandar",
-                  "text": "Bukit Shahbandar Recreational Park este o rezervație naturală din Jerudong.",
+                  "text": "Parcul de agrement Bukit Shahbandar din Jerudong, cu trasee de drumeție și puncte de belvedere.",
                   "category": "natural",
                   "coords": [
                         114.853529,
@@ -1127,7 +1172,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Park Bus Stop",
-                  "text": "Jerudong Park Bus Stop este o atracție situată în Jerudong.",
+                  "text": "Stația de autobuz Jerudong Park, o stație distinctă lângă parcul de agrement.",
                   "category": "landmark",
                   "coords": [
                         114.833806,
@@ -1138,7 +1183,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jerudong Beach",
-                  "text": "Jerudong Beach is a beach located in Jerudong.",
+                  "text": "Jerudong Beach, a popular stretch of beach on the Jerudong coast.",
                   "category": "recreational",
                   "coords": [
                         114.839104,
@@ -1147,7 +1192,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "JP Waterpark",
-                  "text": "JP Waterpark is an aquatic amusement park situated in Jerudong.",
+                  "text": "JP Waterpark in Jerudong with water slides and pools for families.",
                   "category": "family",
                   "coords": [
                         114.835802,
@@ -1156,7 +1201,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Ampitheatre",
-                  "text": "Jerudong Ampitheatre is a theatre venue located in Jerudong.",
+                  "text": "Jerudong Amphitheatre, an open-air stage for concerts and events.",
                   "category": "cultural",
                   "coords": [
                         114.833302,
@@ -1165,7 +1210,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Bukit Shahbandar Recreational Park",
-                  "text": "Bukit Shahbandar Recreational Park is a nature reserve in Jerudong.",
+                  "text": "Bukit Shahbandar Recreational Park in Jerudong with hiking trails and viewpoints.",
                   "category": "natural",
                   "coords": [
                         114.853529,
@@ -1174,7 +1219,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jerudong Park Bus Stop",
-                  "text": "Jerudong Park Bus Stop is an attraction point located in Jerudong.",
+                  "text": "Jerudong Park Bus Stop, a distinctive bus stop near the amusement park.",
                   "category": "landmark",
                   "coords": [
                         114.833806,
@@ -1232,7 +1277,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Moschee in Sengkurong.",
+                  "text": "Masjid Pehin Khatib Abdullah, eine Moschee in Sengkurong, benannt nach Pehin Khatib Abdullah.",
                   "category": "religious",
                   "coords": [
                         114.823249,
@@ -1243,7 +1288,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Mecset Sengkurongban.",
+                  "text": "Masjid Pehin Khatib Abdullah, egy mecset Sengkurongban, Pehin Khatib Abdullahról elnevezve.",
                   "category": "religious",
                   "coords": [
                         114.823249,
@@ -1254,7 +1299,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Moschee în Sengkurong.",
+                  "text": "Masjid Pehin Khatib Abdullah, o moschee în Sengkurong, numită după Pehin Khatib Abdullah.",
                   "category": "religious",
                   "coords": [
                         114.823249,
@@ -1265,7 +1310,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Mosque in Sengkurong.",
+                  "text": "Masjid Pehin Khatib Abdullah, a mosque in Sengkurong named after Pehin Khatib Abdullah.",
                   "category": "religious",
                   "coords": [
                         114.823249,
@@ -1369,7 +1414,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "RBAF Museum",
-                  "text": "Das Royal Brunei Armed Forces Museum ist ein Museum in Gadong.",
+                  "text": "Museum der Königlichen Bruneischen Streitkräfte in Gadong mit militärhistorischen Exponaten.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -1378,7 +1423,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah ist ein Park in Gadong.",
+                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, ein Park in Gadong zum 25-jährigen Thronjubiläum.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -1387,7 +1432,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Footbridge Across Canal ist ein Aussichtspunkt in Gadong.",
+                  "text": "Fußgängerbrücke über den Kanal in Gadong, die zwei Stadtteile verbindet.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -1396,7 +1441,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia ist eine Sehenswürdigkeit in Gadong.",
+                  "text": "Sumbangsih Mulia, ein Denkmal in Gadong, das an Opfer und Beiträge erinnert.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -1405,7 +1450,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Die Jame'Asr Hassanil Bolkiah Mosque ist eine Kultstätte in Gadong.",
+                  "text": "Jame'Asr Hassanil Bolkiah Moschee in Gadong, eine der größten Moscheen Bruneis.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -1425,7 +1470,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "RBAF Museum",
-                  "text": "A Royal Brunei Armed Forces Museum egy múzeum Gadongban.",
+                  "text": "A Brunei Királyi Fegyveres Erők Múzeuma Gadongban, katonai történeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -1434,7 +1479,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "A Taman Jubli Perak Sultan Haji Hassanal Bolkiah egy park Gadong városában.",
+                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, egy park Gadongban a 25. uralkodói évfordulóra.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -1443,7 +1488,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "A Footbridge Across Canal egy kilátópont Gadongban.",
+                  "text": "Gyalogoshíd a csatorna felett Gadongban, amely két városrészt köt össze.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -1452,7 +1497,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "A Sumbangsih Mulia egy látványosság Gadong városában.",
+                  "text": "Sumbangsih Mulia, egy emlékmű Gadongban, amely áldozatokra és hozzájárulásokra emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -1461,7 +1506,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "A Jame'Asr Hassanil Bolkiah Mosque egy istentiszteleti hely Gadongban.",
+                  "text": "Jame'Asr Hassanil Bolkiah mecset Gadongban, Brunei egyik legnagyobb mecsete.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -1481,7 +1526,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "RBAF Museum",
-                  "text": "Royal Brunei Armed Forces Museum este un muzeu aflat în Gadong.",
+                  "text": "Muzeul Forțelor Armate Regale Brunei din Gadong, cu exponate de istorie militară.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -1490,7 +1535,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah este un parc situat în Gadong.",
+                  "text": "Parcul Taman Jubli Perak al Sultanului Haji Hassanal Bolkiah din Gadong, pentru jubileul de 25 de ani de domnie.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -1499,7 +1544,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Footbridge Across Canal este un punct de belvedere aflat în Gadong.",
+                  "text": "Pod pietonal peste canal în Gadong, care leagă două cartiere.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -1508,7 +1553,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia este o atracție turistică situată în Gadong.",
+                  "text": "Sumbangsih Mulia, un monument în Gadong care comemorează sacrificii și contribuții.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -1517,7 +1562,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah Mosque este un lăcaș de cult aflat în Gadong.",
+                  "text": "Moscheea Jame'Asr Hassanil Bolkiah din Gadong, una dintre cele mai mari moschei din Brunei.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -1537,7 +1582,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Brunei Armed Forces Museum",
-                  "text": "Royal Brunei Armed Forces Museum is a museum situated in Gadong.",
+                  "text": "Royal Brunei Armed Forces Museum in Gadong with military history exhibits.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -1546,7 +1591,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah is a public park located in Gadong.",
+                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, a park in Gadong for the 25th reign anniversary.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -1555,7 +1600,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Footbridge Across Canal is a viewpoint situated in Gadong.",
+                  "text": "Footbridge across the canal in Gadong, connecting two neighbourhoods.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -1564,7 +1609,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia is a local attraction located in Gadong.",
+                  "text": "Sumbangsih Mulia, a landmark in Gadong commemorating sacrifices and contributions.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -1573,7 +1618,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah Mosque is a place of worship situated in Gadong.",
+                  "text": "Jame'Asr Hassanil Bolkiah Mosque in Gadong, one of the largest mosques in Brunei.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -1640,7 +1685,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Muzium Alat Kebesaran Diraja",
-                  "text": "Museum für königliche Insignien in Kiulap.",
+                  "text": "Royal Regalia Museum in Kiulap, das die königlichen Insignien und Zeremoniengegenstände des Sultans ausstellt.",
                   "category": "museum",
                   "coords": [
                         114.941198,
@@ -1649,7 +1694,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pusat Sejarah Brunei",
-                  "text": "Museum zur Geschichte Bruneis in Kiulap.",
+                  "text": "Brunei History Centre in Kiulap, ein Forschungszentrum zur Geschichte Bruneis.",
                   "category": "museum",
                   "coords": [
                         114.941518,
@@ -1658,7 +1703,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Panggung Hassanal Bolkiah",
-                  "text": "Theater in Kiulap.",
+                  "text": "Hassanal Bolkiah Theater in Kiulap, ein modernes Theater für Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         114.944214,
@@ -1667,7 +1712,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Balai khazanah",
-                  "text": "Museum in Kiulap.",
+                  "text": "Balai Khazanah, ein Museum in Kiulap mit historischen und kulturellen Schätzen Bruneis.",
                   "category": "museum",
                   "coords": [
                         114.919858,
@@ -1676,7 +1721,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Galeri Kebudayaan & Pelancongan Kampong Ayer",
-                  "text": "Museum in Kiulap, das die Kultur von Kampong Ayer zeigt.",
+                  "text": "Kampong Ayer Kultur- und Tourismusgalerie in Kiulap, die das Wasserdorfleben zeigt.",
                   "category": "museum",
                   "coords": [
                         114.944474,
@@ -1685,7 +1730,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Darussalam",
-                  "text": "Schloss in Kiulap.",
+                  "text": "Darussalam Palast in Kiulap, die offizielle Residenz des Sultans von Brunei.",
                   "category": "castle",
                   "coords": [
                         114.937196,
@@ -1694,7 +1739,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Darul Hana",
-                  "text": "Schloss in Kiulap.",
+                  "text": "Darul Hana Palast in Kiulap, eine königliche Zeremonienstätte.",
                   "category": "castle",
                   "coords": [
                         114.927198,
@@ -1703,7 +1748,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Brunei Clock Tower",
-                  "text": "Uhrturm in Kiulap.",
+                  "text": "Brunei Clock Tower in Kiulap, ein historischer Uhrenturm und Wahrzeichen.",
                   "category": "historical",
                   "coords": [
                         114.942457,
@@ -1712,7 +1757,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mahligai",
-                  "text": "Monument in Kiulap.",
+                  "text": "Mahligai in Kiulap, ein historischer Pavillon oder Palastbau.",
                   "category": "historical",
                   "coords": [
                         114.93893,
@@ -1721,7 +1766,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Park in Kiulap.",
+                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, ein Park in Kiulap zum 25-jährigen Thronjubiläum.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -1730,7 +1775,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Galeri Seni",
-                  "text": "Kunstgalerie in Kiulap.",
+                  "text": "Kunstgalerie in Kiulap mit wechselnden Ausstellungen zeitgenössischer und traditioneller Kunst.",
                   "category": "museum",
                   "coords": [
                         114.942974,
@@ -1739,7 +1784,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan's Palace",
-                  "text": "Aussichtspunkt mit Blick auf den Sultanspalast in Kiulap.",
+                  "text": "Natürliche Felsformation namens Sultanspalast in Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.93229,
@@ -1748,7 +1793,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Fußgängerbrücke in Kiulap.",
+                  "text": "Natursteinbrücke über einen Kanal in Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -1757,7 +1802,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint",
-                  "text": "Aussichtspunkt in Kiulap.",
+                  "text": "Aussichtspunkt mit Blick über Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -1766,7 +1811,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Town Viewpoint",
-                  "text": "Aussichtspunkt in Kiulap.",
+                  "text": "Stadtaussichtspunkt mit Panoramablick auf Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.944941,
@@ -1775,7 +1820,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Arts and Handicraft Centre",
-                  "text": "Zentrum für Kunst und Handwerk in Kiulap.",
+                  "text": "Zentrum für Kunst und Handwerk in Kiulap mit lokalen Arbeiten.",
                   "category": "landmark",
                   "coords": [
                         114.949927,
@@ -1784,7 +1829,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Attraktion in Kiulap.",
+                  "text": "Wahrzeichen Sumbangsih Mulia in Kiulap.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -1793,7 +1838,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery House",
-                  "text": "Töpferei als Attraktion in Kiulap.",
+                  "text": "Töpferhaus in Kiulap, das traditionelle Keramik zeigt.",
                   "category": "landmark",
                   "coords": [
                         114.944328,
@@ -1802,7 +1847,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Gotteshaus in Kiulap.",
+                  "text": "Jame'Asr Hassanil Bolkiah Moschee in Kiulap, eine prächtige Moschee aus vergoldeten Kuppeln.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -1811,7 +1856,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Ash-Shaliheen",
-                  "text": "Moschee mit markanter Architektur in Kiulap.",
+                  "text": "Die Ash-Shaliheen-Moschee in Kiulap, Brunei, bietet Platz für 2.000 Gläubige.",
                   "category": "religious",
                   "coords": [
                         114.936008,
@@ -1820,7 +1865,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of the Assumption",
-                  "text": "Kirche in Kiulap.",
+                  "text": "Kirche Unserer Lieben Frau von der Himmelfahrt in Kiulap, eine katholische Kirche.",
                   "category": "religious",
                   "coords": [
                         114.938643,
@@ -1831,7 +1876,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Muzium Alat Kebesaran Diraja",
-                  "text": "Királyi jelképek múzeuma Kiulapban.",
+                  "text": "Royal Regalia Museum Kiulapban, amely a szultán királyi jelvényeit és ceremóniális tárgyait állítja ki.",
                   "category": "museum",
                   "coords": [
                         114.941198,
@@ -1840,7 +1885,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pusat Sejarah Brunei",
-                  "text": "Brunei történetével foglalkozó múzeum Kiulapban.",
+                  "text": "Brunei History Centre Kiulapban, a Brunei történelmét kutató központ.",
                   "category": "museum",
                   "coords": [
                         114.941518,
@@ -1849,7 +1894,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Panggung Hassanal Bolkiah",
-                  "text": "Színház Kiulapban.",
+                  "text": "Hassanal Bolkiah Színház Kiulapban, modern színház előadások számára.",
                   "category": "cultural",
                   "coords": [
                         114.944214,
@@ -1858,7 +1903,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Balai khazanah",
-                  "text": "Múzeum Kiulapban.",
+                  "text": "Balai Khazanah, egy múzeum Kiulapban Brunei történelmi és kulturális kincseivel.",
                   "category": "museum",
                   "coords": [
                         114.919858,
@@ -1867,7 +1912,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Galeri Kebudayaan & Pelancongan Kampong Ayer",
-                  "text": "Kampong Ayer kultúráját bemutató múzeum Kiulapban.",
+                  "text": "Kampong Ayer Kulturális és Turisztikai Galéria Kiulapban, amely a vízi falusi életet mutatja be.",
                   "category": "museum",
                   "coords": [
                         114.944474,
@@ -1876,7 +1921,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Darussalam",
-                  "text": "Kastély Kiulapban.",
+                  "text": "Darussalam Palota Kiulapban, Brunei szultánjának hivatalos rezidenciája.",
                   "category": "castle",
                   "coords": [
                         114.937196,
@@ -1885,7 +1930,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Darul Hana",
-                  "text": "Kastély Kiulapban.",
+                  "text": "Darul Hana Palota Kiulapban, egy királyi ceremoniális helyszín.",
                   "category": "castle",
                   "coords": [
                         114.927198,
@@ -1894,7 +1939,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Brunei Clock Tower",
-                  "text": "Óratorony Kiulapban.",
+                  "text": "Brunei Clock Tower Kiulapban, egy történelmi óratorony és nevezetesség.",
                   "category": "historical",
                   "coords": [
                         114.942457,
@@ -1903,7 +1948,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mahligai",
-                  "text": "Emlékmű Kiulapban.",
+                  "text": "Mahligai Kiulapban, egy történelmi pavilon vagy palotaépület.",
                   "category": "historical",
                   "coords": [
                         114.93893,
@@ -1912,7 +1957,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Park Kiulapban.",
+                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, egy park Kiulapban a 25. uralkodói évfordulóra.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -1921,7 +1966,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Galeri Seni",
-                  "text": "Művészeti galéria Kiulapban.",
+                  "text": "Művészeti galéria Kiulapban, váltakozó kortárs és hagyományos művészeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         114.942974,
@@ -1930,7 +1975,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan's Palace",
-                  "text": "Kilátópont a szultáni palotára Kiulapban.",
+                  "text": "Természetes sziklaformáció, melyet Szultán Palotájának hívnak Kiulapban.",
                   "category": "natural",
                   "coords": [
                         114.93229,
@@ -1939,7 +1984,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Gyalogoshíd Kiulapban.",
+                  "text": "Természetes kőhíd egy csatorna felett Kiulapban.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -1948,7 +1993,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint",
-                  "text": "Kilátópont Kiulapban.",
+                  "text": "Kilátó, ahonnan rálátni Kiulapra.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -1957,7 +2002,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Town Viewpoint",
-                  "text": "Kilátópont Kiulapban.",
+                  "text": "Városi kilátó pont, ahonnan körpanoráma nyílik Kiulapra.",
                   "category": "natural",
                   "coords": [
                         114.944941,
@@ -1966,7 +2011,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Arts and Handicraft Centre",
-                  "text": "Művészeti és kézműves központ Kiulapban.",
+                  "text": "Kézműves- és művészeti központ Kiulapban, helyi alkotásokkal.",
                   "category": "landmark",
                   "coords": [
                         114.949927,
@@ -1975,7 +2020,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Látnivaló Kiulapban.",
+                  "text": "Sumbangsih Mulia nevezetesség Kiulapban.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -1984,7 +2029,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery House",
-                  "text": "Kerámia műhely mint látnivaló Kiulapban.",
+                  "text": "Fazekasház Kiulapban, hagyományos kerámiákkal.",
                   "category": "landmark",
                   "coords": [
                         114.944328,
@@ -1993,7 +2038,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Imaház Kiulapban.",
+                  "text": "Jame'Asr Hassanil Bolkiah mecset Kiulapban, egy aranyozott kupolás pompás mecset.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -2002,7 +2047,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Ash-Shaliheen",
-                  "text": "Mecset jellegzetes építészettel Kiulapban.",
+                  "text": "A kiulapi Ash-Shaliheen-mecset Brunei-ban 2.000 hívő befogadására alkalmas.",
                   "category": "religious",
                   "coords": [
                         114.936008,
@@ -2011,7 +2056,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of the Assumption",
-                  "text": "Templom Kiulapban.",
+                  "text": "A Mennybevett Szűz Mária-templom Kiulapban, egy katolikus templom.",
                   "category": "religious",
                   "coords": [
                         114.938643,
@@ -2022,7 +2067,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Muzium Alat Kebesaran Diraja",
-                  "text": "Muzeul însemnelor regale în Kiulap.",
+                  "text": "Muzeul Regal de Regalii din Kiulap, care expune însemnele regale și obiectele ceremoniale ale sultanului.",
                   "category": "museum",
                   "coords": [
                         114.941198,
@@ -2031,7 +2076,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pusat Sejarah Brunei",
-                  "text": "Muzeu dedicat istoriei Bruneiului în Kiulap.",
+                  "text": "Centrul de Istorie al Bruneiului din Kiulap, un centru de cercetare a istoriei Bruneiului.",
                   "category": "museum",
                   "coords": [
                         114.941518,
@@ -2040,7 +2085,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Panggung Hassanal Bolkiah",
-                  "text": "Teatru în Kiulap.",
+                  "text": "Teatrul Hassanal Bolkiah din Kiulap, un teatru modern pentru spectacole.",
                   "category": "cultural",
                   "coords": [
                         114.944214,
@@ -2049,7 +2094,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Balai khazanah",
-                  "text": "Muzeu în Kiulap.",
+                  "text": "Balai Khazanah, un muzeu în Kiulap cu comori istorice și culturale ale Bruneiului.",
                   "category": "museum",
                   "coords": [
                         114.919858,
@@ -2058,7 +2103,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Galeri Kebudayaan & Pelancongan Kampong Ayer",
-                  "text": "Muzeu în Kiulap care prezintă cultura din Kampong Ayer.",
+                  "text": "Galeria Culturală și Turistică Kampong Ayer din Kiulap, care prezintă viața satului de pe apă.",
                   "category": "museum",
                   "coords": [
                         114.944474,
@@ -2067,7 +2112,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Darussalam",
-                  "text": "Castel în Kiulap.",
+                  "text": "Palatul Darussalam din Kiulap, reședința oficială a sultanului Bruneiului.",
                   "category": "castle",
                   "coords": [
                         114.937196,
@@ -2076,7 +2121,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Istana Darul Hana",
-                  "text": "Castel în Kiulap.",
+                  "text": "Palatul Darul Hana din Kiulap, un loc ceremonial regal.",
                   "category": "castle",
                   "coords": [
                         114.927198,
@@ -2085,7 +2130,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Brunei Clock Tower",
-                  "text": "Turn cu ceas în Kiulap.",
+                  "text": "Turnul cu ceas din Brunei în Kiulap, un turn de ceas istoric și reper.",
                   "category": "historical",
                   "coords": [
                         114.942457,
@@ -2094,7 +2139,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mahligai",
-                  "text": "Monument în Kiulap.",
+                  "text": "Mahligai în Kiulap, un pavilion sau palat istoric.",
                   "category": "historical",
                   "coords": [
                         114.93893,
@@ -2103,7 +2148,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Parc în Kiulap.",
+                  "text": "Parcul Taman Jubli Perak al Sultanului Haji Hassanal Bolkiah din Kiulap, pentru jubileul de 25 de ani de domnie.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -2112,7 +2157,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Galeri Seni",
-                  "text": "Galerie de artă în Kiulap.",
+                  "text": "Galerie de artă în Kiulap, cu expoziții temporare de artă contemporană și tradițională.",
                   "category": "museum",
                   "coords": [
                         114.942974,
@@ -2121,7 +2166,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan's Palace",
-                  "text": "Punct de observație cu vedere către palatul sultanului în Kiulap.",
+                  "text": "Formațiune naturală de stâncă numită Palatul Sultanului în Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.93229,
@@ -2130,7 +2175,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Pasarelă pietonală în Kiulap.",
+                  "text": "Pod natural de piatră peste un canal în Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -2139,7 +2184,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint",
-                  "text": "Punct de observație în Kiulap.",
+                  "text": "Punct de belvedere cu vedere asupra orașului Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -2148,7 +2193,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Town Viewpoint",
-                  "text": "Punct de observație în Kiulap.",
+                  "text": "Punct de belvedere al orașului cu panoramă asupra Kiulapului.",
                   "category": "natural",
                   "coords": [
                         114.944941,
@@ -2157,7 +2202,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Arts and Handicraft Centre",
-                  "text": "Centru de artă și artizanat în Kiulap.",
+                  "text": "Centru de artă și meșteșuguri în Kiulap, cu lucrări locale.",
                   "category": "landmark",
                   "coords": [
                         114.949927,
@@ -2166,7 +2211,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Atracție în Kiulap.",
+                  "text": "Punctul de reper Sumbangsih Mulia în Kiulap.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -2175,7 +2220,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery House",
-                  "text": "Olarie ca atracție în Kiulap.",
+                  "text": "Casă de olărit în Kiulap, cu ceramică tradițională.",
                   "category": "landmark",
                   "coords": [
                         114.944328,
@@ -2184,7 +2229,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Lăcaș de cult în Kiulap.",
+                  "text": "Moscheea Jame'Asr Hassanil Bolkiah din Kiulap, o moschee splendidă cu domuri aurite.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -2193,7 +2238,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Ash-Shaliheen",
-                  "text": "Moschee cu arhitectură distinctivă în Kiulap.",
+                  "text": "Moscheea Ash-Shaliheen din Kiulap, Brunei, are o capacitate de 2.000 de credincioși.",
                   "category": "religious",
                   "coords": [
                         114.936008,
@@ -2202,7 +2247,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of the Assumption",
-                  "text": "Biserică în Kiulap.",
+                  "text": "Biserica Maicii Domnului Adormirea în Kiulap, o biserică catolică.",
                   "category": "religious",
                   "coords": [
                         114.938643,
@@ -2213,7 +2258,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Regalia Museum",
-                  "text": "Museum of royal regalia in Kiulap.",
+                  "text": "Royal Regalia Museum in Kiulap, displaying the royal regalia and ceremonial items of the Sultan.",
                   "category": "museum",
                   "coords": [
                         114.941198,
@@ -2222,7 +2267,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Brunei History Centre",
-                  "text": "Museum dedicated to the history of Brunei in Kiulap.",
+                  "text": "Brunei History Centre in Kiulap, a research centre documenting Brunei's history.",
                   "category": "museum",
                   "coords": [
                         114.941518,
@@ -2231,7 +2276,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Hassanal Bolkiah Theatre",
-                  "text": "Theatre in Kiulap.",
+                  "text": "Hassanal Bolkiah Theatre in Kiulap, a modern theatre for performances.",
                   "category": "cultural",
                   "coords": [
                         114.944214,
@@ -2240,7 +2285,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Balai khazanah",
-                  "text": "Museum in Kiulap.",
+                  "text": "Balai Khazanah, a museum in Kiulap with Brunei's historical and cultural treasures.",
                   "category": "museum",
                   "coords": [
                         114.919858,
@@ -2249,7 +2294,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Kampong Ayer Cultural & Tourism Gallery",
-                  "text": "Museum in Kiulap showcasing the culture of Kampong Ayer.",
+                  "text": "Kampong Ayer Cultural & Tourism Gallery in Kiulap, showcasing life in the water village.",
                   "category": "museum",
                   "coords": [
                         114.944474,
@@ -2258,7 +2303,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Darussalam Palace",
-                  "text": "Castle in Kiulap.",
+                  "text": "Darussalam Palace in Kiulap, the official residence of the Sultan of Brunei.",
                   "category": "castle",
                   "coords": [
                         114.937196,
@@ -2267,7 +2312,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Darul Hana Palace",
-                  "text": "Castle in Kiulap.",
+                  "text": "Darul Hana Palace in Kiulap, a royal ceremonial venue.",
                   "category": "castle",
                   "coords": [
                         114.927198,
@@ -2276,7 +2321,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Brunei Clock Tower",
-                  "text": "Clock tower in Kiulap.",
+                  "text": "Brunei Clock Tower in Kiulap, a historic clock tower and landmark.",
                   "category": "historical",
                   "coords": [
                         114.942457,
@@ -2285,7 +2330,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Mahligai",
-                  "text": "Monument in Kiulap.",
+                  "text": "Mahligai in Kiulap, a historical pavilion or palace structure.",
                   "category": "historical",
                   "coords": [
                         114.93893,
@@ -2294,7 +2339,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Park in Kiulap.",
+                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, a park in Kiulap for the 25th reign anniversary.",
                   "category": "park",
                   "coords": [
                         114.93526,
@@ -2303,7 +2348,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Art Gallery",
-                  "text": "Art gallery in Kiulap.",
+                  "text": "Art gallery in Kiulap with rotating exhibitions of contemporary and traditional art.",
                   "category": "museum",
                   "coords": [
                         114.942974,
@@ -2312,7 +2357,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan's Palace",
-                  "text": "Viewpoint overlooking the Sultan's palace in Kiulap.",
+                  "text": "Natural rock formation called Sultan's Palace in Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.93229,
@@ -2321,7 +2366,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Footbridge Across Canal",
-                  "text": "Footbridge in Kiulap.",
+                  "text": "Natural stone footbridge across a canal in Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.927937,
@@ -2330,7 +2375,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint",
-                  "text": "Viewpoint in Kiulap.",
+                  "text": "Viewpoint overlooking Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -2339,7 +2384,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Town Viewpoint",
-                  "text": "Viewpoint in Kiulap.",
+                  "text": "Town viewpoint offering a panorama of Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.944941,
@@ -2348,7 +2393,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Arts and Handicraft Centre",
-                  "text": "Arts and handicraft centre in Kiulap.",
+                  "text": "Arts and Handicraft Centre in Kiulap showcasing local crafts.",
                   "category": "landmark",
                   "coords": [
                         114.949927,
@@ -2357,7 +2402,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Sumbangsih Mulia",
-                  "text": "Attraction in Kiulap.",
+                  "text": "Sumbangsih Mulia landmark in Kiulap.",
                   "category": "landmark",
                   "coords": [
                         114.909082,
@@ -2366,7 +2411,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery House",
-                  "text": "Pottery house attraction in Kiulap.",
+                  "text": "Pottery House in Kiulap featuring traditional ceramics.",
                   "category": "landmark",
                   "coords": [
                         114.944328,
@@ -2375,7 +2420,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Place of worship in Kiulap.",
+                  "text": "Jame'Asr Hassanil Bolkiah Mosque in Kiulap, a splendid mosque with gilded domes.",
                   "category": "religious",
                   "coords": [
                         114.92191,
@@ -2384,7 +2429,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Ash-Shaliheen Mosque",
-                  "text": "Mosque with distinctive architecture in Kiulap.",
+                  "text": "The Ash-Shaliheen Mosque in Kiulap, Brunei, can accommodate 2,000 worshippers.",
                   "category": "religious",
                   "coords": [
                         114.936008,
@@ -2393,7 +2438,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             },
             {
                   "name": "Church of Our Lady of the Assumption",
-                  "text": "Church in Kiulap.",
+                  "text": "Church of Our Lady of the Assumption in Kiulap, a Catholic church.",
                   "category": "religious",
                   "coords": [
                         114.938643,
@@ -2451,7 +2496,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "RBAF Museum",
-                  "text": "Das Royal Brunei Armed Forces Museum ist ein Museum in Berakas.",
+                  "text": "Museum der Königlich-Bruneiischen Streitkräfte in Berakas.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -2462,7 +2507,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "RBAF Museum",
-                  "text": "A Royal Brunei Armed Forces Museum egy múzeum Berakas városában.",
+                  "text": "A Brunei Királyi Fegyveres Erők múzeuma Berakasban.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -2473,7 +2518,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "RBAF Museum",
-                  "text": "Royal Brunei Armed Forces Museum este un muzeu situat în Berakas.",
+                  "text": "Muzeul Forțelor Armate Regale Brunei în Berakas.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -2484,7 +2529,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Brunei Armed Forces Museum",
-                  "text": "The Royal Brunei Armed Forces Museum is a museum located in Berakas.",
+                  "text": "Royal Brunei Armed Forces Museum in Berakas.",
                   "category": "museum",
                   "coords": [
                         114.936213,
@@ -2542,7 +2587,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Masjid Hassanal Bolkiah",
-                  "text": "Masjid Hassanal Bolkiah ist eine religiöse Stätte in Mentiri.",
+                  "text": "Masjid Hassanal Bolkiah in Mentiri, eine Moschee benannt nach dem Sultan.",
                   "category": "religious",
                   "coords": [
                         115.030033,
@@ -2553,7 +2598,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Masjid Hassanal Bolkiah",
-                  "text": "A Masjid Hassanal Bolkiah egy istentiszteleti hely Mentiri városában.",
+                  "text": "Masjid Hassanal Bolkiah Mentiriben, a szultánról elnevezett mecset.",
                   "category": "religious",
                   "coords": [
                         115.030033,
@@ -2564,7 +2609,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Masjid Hassanal Bolkiah",
-                  "text": "Masjid Hassanal Bolkiah este un lăcaș de cult situat în Mentiri.",
+                  "text": "Masjid Hassanal Bolkiah în Mentiri, o moschee numită după sultan.",
                   "category": "religious",
                   "coords": [
                         115.030033,
@@ -2575,7 +2620,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Masjid Hassanal Bolkiah",
-                  "text": "Masjid Hassanal Bolkiah is a place of worship located in Mentiri.",
+                  "text": "Masjid Hassanal Bolkiah in Mentiri, a mosque named after the Sultan.",
                   "category": "religious",
                   "coords": [
                         115.030033,
@@ -2629,7 +2674,124 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "kota-batu-cities-v2",
+    id: "kota-batu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kota Batu Archaeological Park",
+                  "text": "Der archäologische Park Kota Batu schützt die Ruinen der alten Hauptstadt Bruneis, die bis ins 14. Jahrhundert zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        114.964584,
+                        4.882149
+                  ]
+            },
+            {
+                  "name": "Museum Maritim Brunei Darussalam",
+                  "text": "Das Brunei Darussalam Maritime Museum in Kota Batu präsentiert geborgene Artefakte aus historischen Schiffswracks.",
+                  "category": "museum",
+                  "coords": [
+                        114.968402,
+                        4.881799
+                  ]
+            },
+            {
+                  "name": "Brunei Museum",
+                  "text": "Das 1965 gegründete Brunei Museum in Kota Batu beherbergt umfangreiche Sammlungen zur islamischen Kunst und lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        114.968758,
+                        4.885295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kota Batu Archaeological Park",
+                  "text": "A Kota Batu Régészeti Park Brunei ősi, 14. századig visszanyúló fővárosának romjait védi.",
+                  "category": "historical",
+                  "coords": [
+                        114.964584,
+                        4.882149
+                  ]
+            },
+            {
+                  "name": "Museum Maritim Brunei Darussalam",
+                  "text": "A Kota Batu-i Brunei Darussalam Tengerészeti Múzeum történelmi hajóroncsokból felszínre hozott leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        114.968402,
+                        4.881799
+                  ]
+            },
+            {
+                  "name": "Brunei Museum",
+                  "text": "Az 1965-ben alapított Kota Batu-i Brunei Múzeum gazdag iszlám művészeti és helytörténeti gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        114.968758,
+                        4.885295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kota Batu Archaeological Park",
+                  "text": "Parcul arheologic Kota Batu protejează ruinele vechii capitale a Bruneiului, datând încă din secolul al XIV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        114.964584,
+                        4.882149
+                  ]
+            },
+            {
+                  "name": "Museum Maritim Brunei Darussalam",
+                  "text": "Muzeul Maritim Brunei Darussalam din Kota Batu expune artefacte recuperate din epave istorice.",
+                  "category": "museum",
+                  "coords": [
+                        114.968402,
+                        4.881799
+                  ]
+            },
+            {
+                  "name": "Brunei Museum",
+                  "text": "Muzeul Brunei din Kota Batu, fondat în 1965, găzduiește colecții vaste de artă islamică și istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        114.968758,
+                        4.885295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kota Batu Archaeological Park",
+                  "text": "The Kota Batu Archaeological Park preserves the ruins of Brunei's ancient capital, dating back to the 14th century.",
+                  "category": "historical",
+                  "coords": [
+                        114.964584,
+                        4.882149
+                  ]
+            },
+            {
+                  "name": "Brunei Darussalam Maritime Museum",
+                  "text": "The Brunei Darussalam Maritime Museum in Kota Batu presents artifacts recovered from historic shipwrecks.",
+                  "category": "museum",
+                  "coords": [
+                        114.968402,
+                        4.881799
+                  ]
+            },
+            {
+                  "name": "Brunei Museum",
+                  "text": "Founded in 1965, the Brunei Museum in Kota Batu houses extensive collections of Islamic art and local history.",
+                  "category": "museum",
+                  "coords": [
+                        114.968758,
+                        4.885295
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BN-BM",
     coords: [114.9667, 4.8833],
@@ -2675,7 +2837,52 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "lumapas-cities-v2",
+    id: "lumapas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Kasat",
+                  "text": "Die Masjid Kampong Kasat ist ein islamisches Heiligtum im Stadtgebiet von Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.947793,
+                        4.823229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Kasat",
+                  "text": "A Masjid Kampong Kasat egy iszlám szentély Lumapas városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        114.947793,
+                        4.823229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Kasat",
+                  "text": "Masjid Kampong Kasat este un sanctuar islamic din zona urbană Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.947793,
+                        4.823229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Kasat",
+                  "text": "Masjid Kampong Kasat is an Islamic sanctuary located within the urban area of Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.947793,
+                        4.823229
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BN-BM",
     coords: [114.9333, 4.8333],
@@ -2725,7 +2932,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Proboscis Monkey Sighting",
-                  "text": "Proboscis Monkey Sighting ist eine Sehenswürdigkeit in Kilanas.",
+                  "text": "Platz in Kilanas, bekannt für Sichtungen von Nasenaffen.",
                   "category": "landmark",
                   "coords": [
                         114.890271,
@@ -2736,7 +2943,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Proboscis Monkey Sighting",
-                  "text": "A Proboscis Monkey Sighting egy turisztikai látványosság Kilanasban.",
+                  "text": "Hely Kilanasban, ahol ormányos majmokat lehet megfigyelni.",
                   "category": "landmark",
                   "coords": [
                         114.890271,
@@ -2747,7 +2954,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Proboscis Monkey Sighting",
-                  "text": "Proboscis Monkey Sighting este o atracție turistică aflată în Kilanas.",
+                  "text": "Loc în Kilanas cunoscut pentru observarea maimuțelor cu nas lung.",
                   "category": "landmark",
                   "coords": [
                         114.890271,
@@ -2758,7 +2965,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Proboscis Monkey Sighting",
-                  "text": "Proboscis Monkey Sighting is a nature attraction situated in Kilanas.",
+                  "text": "Proboscis Monkey Sighting spot in Kilanas.",
                   "category": "landmark",
                   "coords": [
                         114.890271,
@@ -2812,7 +3019,52 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "sungai-akar-cities-v2",
+    id: "sungai-akar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Rashidah Sa'adatul Bolkiah",
+                  "text": "Die Rashidah Sa'adatul Bolkiah Moschee ist ein zentrales Gebäude im städtischen Wohnviertel Sungai Akar.",
+                  "category": "landmark",
+                  "coords": [
+                        114.967131,
+                        4.935297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Rashidah Sa'adatul Bolkiah",
+                  "text": "A Rashidah Sa'adatul Bolkiah mecset Sungai Akar városi lakónegyedének központi épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        114.967131,
+                        4.935297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Rashidah Sa'adatul Bolkiah",
+                  "text": "Moscheea Rashidah Sa'adatul Bolkiah este o clădire centrală în cartierul rezidențial urban Sungai Akar.",
+                  "category": "landmark",
+                  "coords": [
+                        114.967131,
+                        4.935297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rashidah Sa'adatul Bolkiah Mosque",
+                  "text": "Rashidah Sa'adatul Bolkiah Mosque is a central building in the urban residential area of Sungai Akar.",
+                  "category": "landmark",
+                  "coords": [
+                        114.967131,
+                        4.935297
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BN-BM",
     coords: [114.9667, 4.9333],
@@ -2856,7 +3108,88 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "lambak-cities-v2",
+    id: "lambak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Perpindahan Lambak Kanan",
+                  "text": "Eine markante muslimische Kultstätte, die der lokalen Gemeinschaft in Lambak dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.966562,
+                        4.971063
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Hanching",
+                  "text": "Eine Gemeindemoschee mit traditionellen islamischen Architekturelementen in der Nähe von Lambak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.976467,
+                        4.964775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Perpindahan Lambak Kanan",
+                  "text": "Egy kiemelkedő muszlim istentiszteleti hely, amely a helyi közösséget szolgálja Lambakban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.966562,
+                        4.971063
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Hanching",
+                  "text": "Egy közösségi mecset hagyományos iszlám építészeti elemekkel Lambak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.976467,
+                        4.964775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Perpindahan Lambak Kanan",
+                  "text": "Un lăcaș de cult musulman proeminent care servește comunitatea locală din Lambak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.966562,
+                        4.971063
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Hanching",
+                  "text": "O moschee comunitară cu elemente arhitecturale islamice tradiționale lângă Lambak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.976467,
+                        4.964775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Perpindahan Lambak Kanan",
+                  "text": "A prominent Muslim place of worship serving the local community in Lambak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.966562,
+                        4.971063
+                  ]
+            },
+            {
+                  "name": "Kampong Sungai Hanching Mosque",
+                  "text": "A community mosque with traditional Islamic architectural elements near Lambak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.976467,
+                        4.964775
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BN-BM",
     coords: [114.9500, 4.9667],
@@ -2904,7 +3237,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Viewpoint",
-                  "text": "Viewpoint ist ein Aussichtspunkt in Subok.",
+                  "text": "Aussichtspunkt mit Blick auf Subok.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -2915,7 +3248,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Viewpoint",
-                  "text": "A Viewpoint egy kilátópont Subok városában.",
+                  "text": "Kilátó, ahonnan Subokra látni.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -2926,7 +3259,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Viewpoint",
-                  "text": "Viewpoint este un punct de belvedere situat în Subok.",
+                  "text": "Punct de belvedere cu vedere spre Subok.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -2937,7 +3270,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Viewpoint",
-                  "text": "Viewpoint is a scenic observation area located in Subok.",
+                  "text": "Viewpoint overlooking Subok.",
                   "category": "natural",
                   "coords": [
                         114.955722,
@@ -2993,7 +3326,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Strandattraktion in Sungai Liang.",
+                  "text": "Stranderholungsgebiet Kampung Sungai Liang in Liang.",
                   "category": "landmark",
                   "coords": [
                         114.485363,
@@ -3004,7 +3337,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Tengerparti látnivaló Sungai Liangban.",
+                  "text": "Strandi rekreációs terület Kampung Sungai Liangban, Liangban.",
                   "category": "landmark",
                   "coords": [
                         114.485363,
@@ -3015,7 +3348,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Atracție de plajă în Sungai Liang.",
+                  "text": "Zonă de agrement pe plaja Kampung Sungai Liang în Liang.",
                   "category": "landmark",
                   "coords": [
                         114.485363,
@@ -3026,7 +3359,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Beach attraction in Sungai Liang.",
+                  "text": "Pantai Peranginan beach recreation area at Kampung Sungai Liang in Liang.",
                   "category": "landmark",
                   "coords": [
                         114.485363,
@@ -3166,7 +3499,88 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "telisai-cities-v2",
+    id: "telisai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Telisai",
+                  "text": "Die Dorfmoschee von Telisai ist der zentrale islamische Treffpunkt in der ländlichen Gemeinde Telisai.",
+                  "category": "landmark",
+                  "coords": [
+                        114.564049,
+                        4.735211
+                  ]
+            },
+            {
+                  "name": "Gerai Mukim Telisai",
+                  "text": "Der Gerai Mukim Telisai ist ein Marktstandbereich, der die Einwohner des Bezirks Telisai mit lokalen Gütern versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        114.558341,
+                        4.733117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Telisai",
+                  "text": "A telisai falusi mecset a vidéki Telisai közösség központi iszlám találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        114.564049,
+                        4.735211
+                  ]
+            },
+            {
+                  "name": "Gerai Mukim Telisai",
+                  "text": "A Gerai Mukim Telisai egy piaci standokból álló terület, amely a Telisai körzet lakóit látja el helyi árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        114.558341,
+                        4.733117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Telisai",
+                  "text": "Moscheea satului Telisai este locul central de întâlnire islamic din comunitatea rurală Telisai.",
+                  "category": "landmark",
+                  "coords": [
+                        114.564049,
+                        4.735211
+                  ]
+            },
+            {
+                  "name": "Gerai Mukim Telisai",
+                  "text": "Gerai Mukim Telisai este o zonă de tarabe care aprovizionează locuitorii districtului Telisai cu bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.558341,
+                        4.733117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Telisai Village Mosque",
+                  "text": "Telisai Village Mosque is the central Islamic meeting place in the rural community of Telisai.",
+                  "category": "landmark",
+                  "coords": [
+                        114.564049,
+                        4.735211
+                  ]
+            },
+            {
+                  "name": "Gerai Mukim Telisai",
+                  "text": "Gerai Mukim Telisai is a market stall area providing local goods to the residents of the Telisai district.",
+                  "category": "cultural",
+                  "coords": [
+                        114.558341,
+                        4.733117
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BN-TU",
     coords: [114.5667, 4.7333],
@@ -3298,7 +3712,52 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "tanjong-maya-cities-v2",
+    id: "tanjong-maya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Bukit Udal",
+                  "text": "Die Kampong Bukit Udal Moschee ist ein Gebetshaus für die muslimische Gemeinde in der Stadt Tanjong Maya.",
+                  "category": "landmark",
+                  "coords": [
+                        114.652558,
+                        4.732616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Bukit Udal",
+                  "text": "A Kampong Bukit Udal mecset a Tanjong Maya városában élő muszlim közösség imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        114.652558,
+                        4.732616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Bukit Udal",
+                  "text": "Moscheea Kampong Bukit Udal este un lăcaș de rugăciune pentru comunitatea musulmană din orașul Tanjong Maya.",
+                  "category": "landmark",
+                  "coords": [
+                        114.652558,
+                        4.732616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampong Bukit Udal Mosque",
+                  "text": "Kampong Bukit Udal Mosque is a house of prayer for the Muslim community in the city of Tanjong Maya.",
+                  "category": "landmark",
+                  "coords": [
+                        114.652558,
+                        4.732616
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BN-TU",
     coords: [114.6500, 4.7500],

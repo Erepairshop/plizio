@@ -443,7 +443,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
       "de": [
             {
                   "name": "Museo del Arte Visigodo",
-                  "text": "Museum für westgotische Kunst und Kultur in Mérida.",
+                  "text": "Museum in Mérida, das westgotische Kunst zeigt, Teil des römischen Theaterkomplexes.",
                   "category": "museum",
                   "coords": [
                         -6.346724,
@@ -508,7 +508,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
       "hu": [
             {
                   "name": "Museo del Arte Visigodo",
-                  "text": "Westgót művészeti és kulturális múzeum Méridában.",
+                  "text": "Múzeum Méridában, vizigót művészetet bemutató, a római színház komplexum része.",
                   "category": "museum",
                   "coords": [
                         -6.346724,
@@ -573,7 +573,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
       "ro": [
             {
                   "name": "Museo del Arte Visigodo",
-                  "text": "Muzeu de artă și cultură vizigotă în Mérida.",
+                  "text": "Muzeu în Mérida dedicat artei vizigote, parte a complexului teatrului roman.",
                   "category": "museum",
                   "coords": [
                         -6.346724,
@@ -638,7 +638,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
       "en": [
             {
                   "name": "Museo del Arte Visigodo",
-                  "text": "Museum of Visigothic art and culture in Mérida.",
+                  "text": "Museum in Mérida dedicated to Visigothic art, part of the Roman theatre complex.",
                   "category": "museum",
                   "coords": [
                         -6.346724,
@@ -1823,7 +1823,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Iglesia de San Agustín (ruinas)",
-                  "text": "Die Ruinen einer historischen Kirche im alten Belchite.",
+                  "text": "Ruinen einer Augustinerkirche in der Altstadt von Belchite, im Spanischen Bürgerkrieg zerstört.",
                   "category": "historical",
                   "coords": [
                         -0.748813,
@@ -1832,7 +1832,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Convento de San Rafael (ruinas)",
-                  "text": "Überreste eines ehemaligen Klosters, das während des Krieges zerstört wurde.",
+                  "text": "Ruinen eines Klosters in Belchite, ebenfalls aus dem Bürgerkrieg.",
                   "category": "historical",
                   "coords": [
                         -0.745154,
@@ -1841,7 +1841,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Seminario Menor",
-                  "text": "Die Überreste eines ehemaligen Priesterseminars im alten Dorf.",
+                  "text": "Seminario Menor, die Ruinen eines Priesterseminars aus dem 20. Jahrhundert in der verlassenen Altstadt von Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.737997,
@@ -1850,7 +1850,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Ermita del Calvario (ruinas)",
-                  "text": "Die Ruinen einer Kapelle auf dem Gelände des alten Belchite.",
+                  "text": "Ermita del Calvario, eine ruinierte Kapelle auf einem Hügel über den Ruinen von Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.741443,
@@ -1859,7 +1859,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Nevera de Belchite",
-                  "text": "Ein historisches Eishaus, das zur Lagerung von Schnee genutzt wurde.",
+                  "text": "Nevera de Belchite, ein unterirdisches Eishaus aus dem 18. Jahrhundert in den Ruinen von Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.741673,
@@ -1868,7 +1868,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "La Pequeña Rusia",
-                  "text": "Überreste einer Siedlung aus der Zeit des Wiederaufbaus.",
+                  "text": "La Pequeña Rusia, eine Gruppe restaurierter Häuser, die eine sowjetische Kommune in Belchite darstellen.",
                   "category": "historical",
                   "coords": [
                         -0.730108,
@@ -1877,7 +1877,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Piscina municipal",
-                  "text": "Piscina municipal ist das städtische Schwimmbad von Old Belchite.",
+                  "text": "Piscina municipal, das öffentliche Schwimmbad in der neuen Stadt Belchite nahe den historischen Ruinen.",
                   "category": "recreational",
                   "coords": [
                         -0.789531,
@@ -1897,7 +1897,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Iglesia de San Agustín (ruinas)",
-                  "text": "Egy történelmi templom romjai a régi Belchitében.",
+                  "text": "Egy ágostonos templom romjai Belchite óvárosában, a spanyol polgárháborúban elpusztult.",
                   "category": "historical",
                   "coords": [
                         -0.748813,
@@ -1906,7 +1906,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Convento de San Rafael (ruinas)",
-                  "text": "Egy egykori kolostor maradványai, amely a háború alatt pusztult el.",
+                  "text": "Egy kolostor romjai Belchiteben, szintén a polgárháborúból.",
                   "category": "historical",
                   "coords": [
                         -0.745154,
@@ -1915,7 +1915,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Seminario Menor",
-                  "text": "Egy egykori papi szeminárium maradványai a régi faluban.",
+                  "text": "Seminario Menor, egy 20. századi szeminárium romjai Belchite elhagyott óvárosában.",
                   "category": "historical",
                   "coords": [
                         -0.737997,
@@ -1924,7 +1924,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Ermita del Calvario (ruinas)",
-                  "text": "Egy kápolna romjai a régi Belchite területén.",
+                  "text": "Ermita del Calvario, egy romos kápolna a dombtetőn Belchite romjai fölött.",
                   "category": "historical",
                   "coords": [
                         -0.741443,
@@ -1933,7 +1933,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Nevera de Belchite",
-                  "text": "Történelmi jégverem, amelyet hó tárolására használtak.",
+                  "text": "Nevera de Belchite, egy 18. századi földalatti jégház Belchite romjai között.",
                   "category": "historical",
                   "coords": [
                         -0.741673,
@@ -1942,7 +1942,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "La Pequeña Rusia",
-                  "text": "Egy újjáépítési korszakból származó település maradványai.",
+                  "text": "La Pequeña Rusia, egy felújított házcsoport, amely egy szovjet kommunát ábrázol Belchitében.",
                   "category": "historical",
                   "coords": [
                         -0.730108,
@@ -1951,7 +1951,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Piscina municipal",
-                  "text": "A Piscina municipal Old Belchite városi uszodája.",
+                  "text": "Piscina municipal, a nyilvános uszoda Belchite új városában, a történelmi romok közelében.",
                   "category": "recreational",
                   "coords": [
                         -0.789531,
@@ -1971,7 +1971,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Iglesia de San Agustín (ruinas)",
-                  "text": "Ruinele unei biserici istorice din vechiul Belchite.",
+                  "text": "Ruinele unei biserici augustiniene în orașul vechi al Belchite, distruse în Războiul Civil Spaniol.",
                   "category": "historical",
                   "coords": [
                         -0.748813,
@@ -1980,7 +1980,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Convento de San Rafael (ruinas)",
-                  "text": "Vestigiile unei foste mănăstiri distruse în timpul războiului.",
+                  "text": "Ruinele unui conac în Belchite, de asemenea din Războiul Civil.",
                   "category": "historical",
                   "coords": [
                         -0.745154,
@@ -1989,7 +1989,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Seminario Menor",
-                  "text": "Rămășițele unui fost seminar teologic din vechiul sat.",
+                  "text": "Seminario Menor, ruinele unui seminar din secolul XX în vechiul oraș abandonat Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.737997,
@@ -1998,7 +1998,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Ermita del Calvario (ruinas)",
-                  "text": "Ruinele unei capele de pe teritoriul vechiului Belchite.",
+                  "text": "Ermita del Calvario, o capelă ruinată pe un deal deasupra ruinelor Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.741443,
@@ -2007,7 +2007,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Nevera de Belchite",
-                  "text": "O fostă ghețărie istorică, folosită pentru depozitarea zăpezii.",
+                  "text": "Nevera de Belchite, o groapă de gheață subterană din secolul al XVIII-lea în ruinele Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.741673,
@@ -2016,7 +2016,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "La Pequeña Rusia",
-                  "text": "Rămășițele unei așezări din perioada reconstrucției.",
+                  "text": "La Pequeña Rusia, un grup de case restaurate care reprezintă o comună sovietică în Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.730108,
@@ -2025,7 +2025,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Piscina municipal",
-                  "text": "Piscina municipal este piscina municipală din Old Belchite.",
+                  "text": "Piscina municipal, piscina publică din noul oraș Belchite, lângă ruinele istorice.",
                   "category": "recreational",
                   "coords": [
                         -0.789531,
@@ -2045,7 +2045,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Iglesia de San Agustín (ruinas)",
-                  "text": "The ruins of a historical church in old Belchite.",
+                  "text": "Ruins of an Augustinian church in the old town of Belchite, destroyed in the Spanish Civil War.",
                   "category": "historical",
                   "coords": [
                         -0.748813,
@@ -2054,7 +2054,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Convento de San Rafael (ruinas)",
-                  "text": "Remains of a former convent destroyed during the war.",
+                  "text": "Ruins of a convent in Belchite, also from the Civil War.",
                   "category": "historical",
                   "coords": [
                         -0.745154,
@@ -2063,7 +2063,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Seminario Menor",
-                  "text": "The remains of a former seminary in the old village.",
+                  "text": "Seminario Menor, the ruins of a 20th-century seminary in the abandoned old town of Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.737997,
@@ -2072,7 +2072,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Ermita del Calvario (ruinas)",
-                  "text": "The ruins of a chapel on the grounds of old Belchite.",
+                  "text": "Ermita del Calvario, a ruined hilltop chapel overlooking the Belchite ruins.",
                   "category": "historical",
                   "coords": [
                         -0.741443,
@@ -2081,7 +2081,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Nevera de Belchite",
-                  "text": "A historical ice house used for storing snow.",
+                  "text": "Nevera de Belchite, an underground ice house from the 18th century in the Belchite ruins.",
                   "category": "historical",
                   "coords": [
                         -0.741673,
@@ -2090,7 +2090,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "La Pequeña Rusia",
-                  "text": "Remains of a settlement from the reconstruction era.",
+                  "text": "La Pequeña Rusia, a cluster of restored houses representing a Soviet-style commune in Belchite.",
                   "category": "historical",
                   "coords": [
                         -0.730108,
@@ -2099,7 +2099,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             },
             {
                   "name": "Piscina municipal",
-                  "text": "Piscina municipal is the municipal swimming pool of Old Belchite.",
+                  "text": "Piscina municipal, the public swimming pool in the new town of Belchite near the historic ruins.",
                   "category": "recreational",
                   "coords": [
                         -0.789531,
@@ -3588,7 +3588,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "l'Escolta",
-                  "text": "Historische Ruinen in der Nähe des Klosters Poblet.",
+                  "text": "L'Escolta, ein mittelalterlicher Wachturm, der den Eingang zum Kloster Poblet bewacht.",
                   "category": "historical",
                   "coords": [
                         1.08568,
@@ -3671,7 +3671,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "l'Escolta",
-                  "text": "Történelmi romok a Poblet-kolostor környékén.",
+                  "text": "L'Escolta, egy középkori őrtorony, amely a Poblet-kolostor bejáratát őrzi.",
                   "category": "historical",
                   "coords": [
                         1.08568,
@@ -3754,7 +3754,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "l'Escolta",
-                  "text": "Ruine istorice situate în vecinătatea Mănăstirii Poblet.",
+                  "text": "L'Escolta, un turn de pază medieval care păzește intrarea la Mănăstirea Poblet.",
                   "category": "historical",
                   "coords": [
                         1.08568,
@@ -3837,7 +3837,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "l'Escolta",
-                  "text": "Historical ruins located in the vicinity of the Poblet Monastery.",
+                  "text": "L'Escolta, a medieval watchtower guarding the entrance to Poblet Monastery.",
                   "category": "historical",
                   "coords": [
                         1.08568,
@@ -4366,7 +4366,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
-                  "text": "Ein geologischer Aussichtspunkt an der transpyrenäischen Route in San Juan de la Peña.",
+                  "text": "Ruta Geológica Transpirenaica, ein Wanderweg durch die Felsformationen rund um das Kloster San Juan de la Peña.",
                   "category": "natural",
                   "coords": [
                         -0.690503,
@@ -4431,7 +4431,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
-                  "text": "Geológiai kilátópont a Pireneusokon átívelő útvonalon San Juan de la Peñában.",
+                  "text": "Ruta Geológica Transpirenaica, egy túraútvonal a San Juan de la Peña kolostor körüli sziklaformációkon át.",
                   "category": "natural",
                   "coords": [
                         -0.690503,
@@ -4496,7 +4496,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
-                  "text": "Un punct de observație geologic pe traseul trans-pirinean din San Juan de la Peña.",
+                  "text": "Ruta Geológica Transpirenaica, un traseu de drumeție prin formațiunile stâncoase din jurul mănăstirii San Juan de la Peña.",
                   "category": "natural",
                   "coords": [
                         -0.690503,
@@ -4561,7 +4561,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
-                  "text": "A geological viewpoint on the trans-Pyrenean route in San Juan de la Peña.",
+                  "text": "Ruta Geológica Transpirenaica, a hiking trail through the rock formations around San Juan de la Peña monastery.",
                   "category": "natural",
                   "coords": [
                         -0.690503,
@@ -4820,7 +4820,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja Port d'en Perris",
-                  "text": "Ein felsiger Strand im Stadtzentrum von L'Escala.",
+                  "text": "Kleine Bucht in der Nähe der Ruinen von Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.135345,
@@ -4829,7 +4829,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja de les Barques",
-                  "text": "Ein beliebter Sandstrand im Herzen von L'Escala.",
+                  "text": "Sandstrand am Fuße der antiken Stadt Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.133292,
@@ -4847,7 +4847,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja del Riuet",
-                  "text": "Ein langer Strand am nördlichen Ende der Gemeinde.",
+                  "text": "Flussmündungsstrand mit Blick auf die Bucht von Roses bei Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.118547,
@@ -4957,7 +4957,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja Port d'en Perris",
-                  "text": "Sziklás strand L'Escala városközpontjában.",
+                  "text": "Kis öböl az Empúries romjai közelében.",
                   "category": "recreational",
                   "coords": [
                         3.135345,
@@ -4966,7 +4966,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja de les Barques",
-                  "text": "Népszerű homokos strand L'Escala szívében.",
+                  "text": "Homokos strand az ókori Empúries város lábánál.",
                   "category": "recreational",
                   "coords": [
                         3.133292,
@@ -4984,7 +4984,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja del Riuet",
-                  "text": "Hosszú strand az önkormányzat északi végén.",
+                  "text": "Folyótorkolati strand rózsa-öbölre néző kilátással Empúriesnél.",
                   "category": "recreational",
                   "coords": [
                         3.118547,
@@ -5094,7 +5094,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja Port d'en Perris",
-                  "text": "O plajă stâncoasă situată în centrul urban al localității L'Escala.",
+                  "text": "Golfuleț mic lângă ruinele Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.135345,
@@ -5103,7 +5103,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja de les Barques",
-                  "text": "O plajă populară cu nisip în inima localității L'Escala.",
+                  "text": "Plajă nisipoasă la poalele orașului antic Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.133292,
@@ -5121,7 +5121,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja del Riuet",
-                  "text": "O plajă lungă situată la capătul nordic al municipalității.",
+                  "text": "Plajă la gura unui râu cu vedere spre golful Roses lângă Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.118547,
@@ -5231,7 +5231,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja Port d'en Perris",
-                  "text": "A rocky beach located in the urban center of L'Escala.",
+                  "text": "Small cove near the ruins of Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.135345,
@@ -5240,7 +5240,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja de les Barques",
-                  "text": "A popular sandy beach in the heart of L'Escala.",
+                  "text": "Sandy beach at the foot of the ancient city of Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.133292,
@@ -5258,7 +5258,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             },
             {
                   "name": "Platja del Riuet",
-                  "text": "A long beach at the northern end of the municipality.",
+                  "text": "River mouth beach overlooking the Bay of Roses near Empúries.",
                   "category": "recreational",
                   "coords": [
                         3.118547,
@@ -5397,7 +5397,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Auditorio Comarcal Martín Frías",
-                  "text": "Ein lokales Auditorium und Veranstaltungsort in Coca.",
+                  "text": "Auditorio Comarcal Martín Frías, eine moderne Konzerthalle in der Stadt Coca neben der Burg.",
                   "category": "cultural",
                   "coords": [
                         -4.521317,
@@ -5424,7 +5424,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Domus Romana",
-                  "text": "Überreste eines antiken römischen Hauses in der Stadt Coca.",
+                  "text": "Domus Romana, die ausgegrabenen Überreste einer römischen Villa in Coca.",
                   "category": "historical",
                   "coords": [
                         -4.524593,
@@ -5462,7 +5462,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Auditorio Comarcal Martín Frías",
-                  "text": "Helyi auditórium és előadóhely Coca városában.",
+                  "text": "Auditorio Comarcal Martín Frías, egy modern koncertterem Coca városában, a vár mellett.",
                   "category": "cultural",
                   "coords": [
                         -4.521317,
@@ -5489,7 +5489,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Domus Romana",
-                  "text": "Egy ókori római ház maradványai Coca városában.",
+                  "text": "Domus Romana, egy római villa feltárt maradványai Cocában.",
                   "category": "historical",
                   "coords": [
                         -4.524593,
@@ -5527,7 +5527,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Auditorio Comarcal Martín Frías",
-                  "text": "Un auditorium local și sală de spectacole în Coca.",
+                  "text": "Auditorio Comarcal Martín Frías, o sală de concerte modernă în orașul Coca, lângă castel.",
                   "category": "cultural",
                   "coords": [
                         -4.521317,
@@ -5554,7 +5554,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Domus Romana",
-                  "text": "Rămășițele unei vechi case romane în orașul Coca.",
+                  "text": "Domus Romana, rămășițele excavate ale unei vile romane în Coca.",
                   "category": "historical",
                   "coords": [
                         -4.524593,
@@ -5592,7 +5592,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Auditorio Comarcal Martín Frías",
-                  "text": "A local auditorium and performance venue in Coca.",
+                  "text": "Auditorio Comarcal Martín Frías, a modern concert hall in the town of Coca near the castle.",
                   "category": "cultural",
                   "coords": [
                         -4.521317,
@@ -5619,7 +5619,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Domus Romana",
-                  "text": "Remains of an ancient Roman house in the town of Coca.",
+                  "text": "Domus Romana, the excavated remains of a Roman villa in Coca.",
                   "category": "historical",
                   "coords": [
                         -4.524593,
@@ -5750,7 +5750,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Ermita de Santa Marina",
-                  "text": "Eine Kapelle in der Nähe des Schlosses Butrón.",
+                  "text": "Einsiedelei in der Nähe der Burg Butrón, auf einem Hügel gelegen.",
                   "category": "religious",
                   "coords": [
                         -2.959846,
@@ -5759,7 +5759,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Andra Mariaren Zeruratzea",
-                  "text": "Ein religiöses Bauwerk in der Umgebung von Schloss Butrón.",
+                  "text": "Religiöses Gebäude im baskischen Stil in der Nähe der Burg Butrón, Mariä Himmelfahrt gewidmet.",
                   "category": "religious",
                   "coords": [
                         -2.902289,
@@ -5824,7 +5824,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Ermita de Santa Marina",
-                  "text": "Egy kápolna a Butrón-kastély közelében.",
+                  "text": "Remetelak a Butrón-vár közelében, egy dombon található.",
                   "category": "religious",
                   "coords": [
                         -2.959846,
@@ -5833,7 +5833,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Andra Mariaren Zeruratzea",
-                  "text": "Vallási épület a Butrón-kastély környékén.",
+                  "text": "Vallási épület baszk stílusban a Butrón-vár közelében, Mária mennybemenetelének szentelve.",
                   "category": "religious",
                   "coords": [
                         -2.902289,
@@ -5898,7 +5898,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Ermita de Santa Marina",
-                  "text": "O capelă în apropierea castelului Butrón.",
+                  "text": "Schit lângă Castelul Butrón, situat pe o colină.",
                   "category": "religious",
                   "coords": [
                         -2.959846,
@@ -5907,7 +5907,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Andra Mariaren Zeruratzea",
-                  "text": "Un lăcaș de cult în zona castelului Butrón.",
+                  "text": "Clădire religioasă în stil basc lângă Castelul Butrón, dedicată Adormirii Maicii Domnului.",
                   "category": "religious",
                   "coords": [
                         -2.902289,
@@ -5972,7 +5972,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Ermita de Santa Marina",
-                  "text": "A chapel located near the Butrón Castle.",
+                  "text": "Hermitage near Castle Butrón, located on a hill.",
                   "category": "religious",
                   "coords": [
                         -2.959846,
@@ -5981,7 +5981,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Andra Mariaren Zeruratzea",
-                  "text": "A place of worship situated near the Butrón Castle.",
+                  "text": "Religious building in Basque style near Castle Butrón, dedicated to the Assumption of Mary.",
                   "category": "religious",
                   "coords": [
                         -2.902289,
@@ -6058,7 +6058,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mas de Fontet",
-                  "text": "Historische Gebäudereste in der Nähe von Corbera d'Ebre.",
+                  "text": "Mas de Fontet, ein traditioneller katalanischer Bauernhof in den Ruinen von Corbera d'Ebre.",
                   "category": "historical",
                   "coords": [
                         0.482795,
@@ -6076,7 +6076,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mare de Déu de la Misericòrdia",
-                  "text": "Eine religiöse Stätte in der Nähe von Corbera d'Ebre.",
+                  "text": "Einsiedelei aus dem 13. Jahrhundert mit Blick auf die Ruinen von Corbera d’Ebre.",
                   "category": "religious",
                   "coords": [
                         0.473624,
@@ -6085,7 +6085,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Església de Sant Andreu",
-                  "text": "Eine historische Kirche in der Region von Corbera d'Ebre.",
+                  "text": "Romanische Kirche aus dem 12. Jahrhundert im verlassenen Dorf La Fatarella.",
                   "category": "religious",
                   "coords": [
                         0.473228,
@@ -6123,7 +6123,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mas de Fontet",
-                  "text": "Történelmi épületmaradványok Corbera d'Ebre közelében.",
+                  "text": "Mas de Fontet, egy hagyományos katalán tanya Corbera d'Ebre romjai között.",
                   "category": "historical",
                   "coords": [
                         0.482795,
@@ -6141,7 +6141,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mare de Déu de la Misericòrdia",
-                  "text": "Vallási emlékhely Corbera d'Ebre közelében.",
+                  "text": "13. századi remetelak a Corbera d’Ebre romjaira néző kilátással.",
                   "category": "religious",
                   "coords": [
                         0.473624,
@@ -6150,7 +6150,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Església de Sant Andreu",
-                  "text": "Történelmi templom Corbera d'Ebre régiójában.",
+                  "text": "12. századi román stílusú templom az elhagyott La Fatarella faluban.",
                   "category": "religious",
                   "coords": [
                         0.473228,
@@ -6188,7 +6188,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mas de Fontet",
-                  "text": "Resturi ale unei clădiri istorice lângă Corbera d'Ebre.",
+                  "text": "Mas de Fontet, o fermă tradițională catalană printre ruinele Corbera d'Ebre.",
                   "category": "historical",
                   "coords": [
                         0.482795,
@@ -6206,7 +6206,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mare de Déu de la Misericòrdia",
-                  "text": "Un lăcaș de cult situat în apropiere de Corbera d'Ebre.",
+                  "text": "Schit din secolul al XIII-lea cu vedere spre ruinele Corbera d’Ebre.",
                   "category": "religious",
                   "coords": [
                         0.473624,
@@ -6215,7 +6215,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Església de Sant Andreu",
-                  "text": "O biserică istorică din regiunea Corbera d'Ebre.",
+                  "text": "Biserică romanică din secolul al XII-lea în satul abandonat La Fatarella.",
                   "category": "religious",
                   "coords": [
                         0.473228,
@@ -6253,7 +6253,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mas de Fontet",
-                  "text": "Historical remains of a building near Corbera d'Ebre.",
+                  "text": "Mas de Fontet, a traditional Catalan farmhouse among the ruins of Corbera d'Ebre.",
                   "category": "historical",
                   "coords": [
                         0.482795,
@@ -6271,7 +6271,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mare de Déu de la Misericòrdia",
-                  "text": "A place of worship located near Corbera d'Ebre.",
+                  "text": "13th-century hermitage overlooking the ruins of Corbera d’Ebre.",
                   "category": "religious",
                   "coords": [
                         0.473624,
@@ -6280,7 +6280,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Església de Sant Andreu",
-                  "text": "A historical church in the region of Corbera d'Ebre.",
+                  "text": "12th-century Romanesque church in the abandoned village of La Fatarella.",
                   "category": "religious",
                   "coords": [
                         0.473228,
@@ -6393,7 +6393,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "de": [
             {
                   "name": "Castillo Nuevo de Manzanares El Real",
-                  "text": "Eine gut erhaltene Burg aus dem 15. Jahrhundert in Manzanares el Real.",
+                  "text": "Gut erhaltenes Schloss aus dem 15. Jahrhundert mit rechteckigem Grundriss in Manzanares el Real.",
                   "category": "castle",
                   "coords": [
                         -3.862028,
@@ -6402,7 +6402,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo Viejo de Manzanares",
-                  "text": "Ruinen der alten Burg in Manzanares el Real.",
+                  "text": "Ruinen einer mittelalterlichen Burg auf einem Hügel über Manzanares el Real.",
                   "category": "historical",
                   "coords": [
                         -3.869698,
@@ -6411,7 +6411,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Kulturzentrum in Manzanares el Real.",
+                  "text": "Casa de Cultura, ein Kulturzentrum in einem historischen Gebäude nahe der Burg von Manzanares el Real.",
                   "category": "cultural",
                   "coords": [
                         -3.864286,
@@ -6420,7 +6420,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador embalse Manzanares el Real",
-                  "text": "Aussichtspunkt mit Blick auf den Stausee von Manzanares el Real.",
+                  "text": "Mirador embalse Manzanares el Real, ein Aussichtspunkt über den Manzanares-Stausee und die Burg.",
                   "category": "landmark",
                   "coords": [
                         -3.869449,
@@ -6429,7 +6429,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Torreón de la presa original",
-                  "text": "Turm der ursprünglichen Talsperre in Manzanares el Real.",
+                  "text": "Torreón de la presa original, ein Steinturm des Staudamms aus dem 18. Jahrhundert in Manzanares el Real.",
                   "category": "landmark",
                   "coords": [
                         -3.816841,
@@ -6438,7 +6438,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de Nuestra Señora de las Nieves",
-                  "text": "Kirche Unserer Lieben Frau vom Schnee in Manzanares el Real.",
+                  "text": "Kirche in Manzanares el Real, nahe der Burg, im gotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -3.864654,
@@ -6449,7 +6449,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "hu": [
             {
                   "name": "Castillo Nuevo de Manzanares El Real",
-                  "text": "Jól megőrzött 15. századi vár Manzanares el Realban.",
+                  "text": "Jól megőrzött 15. századi vár négyszögletes alaprajzzal Manzanares el Realban.",
                   "category": "castle",
                   "coords": [
                         -3.862028,
@@ -6458,7 +6458,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo Viejo de Manzanares",
-                  "text": "A régi vár romjai Manzanares el Realban.",
+                  "text": "Egy dombon álló középkori vár romjai Manzanares el Real felett.",
                   "category": "historical",
                   "coords": [
                         -3.869698,
@@ -6467,7 +6467,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Kulturális központ Manzanares el Realban.",
+                  "text": "Casa de Cultura, egy történelmi épületben működő kulturális központ Manzanares el Real vára közelében.",
                   "category": "cultural",
                   "coords": [
                         -3.864286,
@@ -6476,7 +6476,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador embalse Manzanares el Real",
-                  "text": "Kilátópont a Manzanares el Real-i víztározóra.",
+                  "text": "Mirador embalse Manzanares el Real, egy kilátó a Manzanares-víztározóra és a várra.",
                   "category": "landmark",
                   "coords": [
                         -3.869449,
@@ -6485,7 +6485,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Torreón de la presa original",
-                  "text": "Az eredeti gát tornya Manzanares el Realban.",
+                  "text": "Torreón de la presa original, egy kőtorony a 18. századi gátról Manzanares el Realban.",
                   "category": "landmark",
                   "coords": [
                         -3.816841,
@@ -6494,7 +6494,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de Nuestra Señora de las Nieves",
-                  "text": "Havas Boldogasszony-templom Manzanares el Realban.",
+                  "text": "Templom Manzanares el Realban, a vár közelében, gótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -3.864654,
@@ -6505,7 +6505,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "ro": [
             {
                   "name": "Castillo Nuevo de Manzanares El Real",
-                  "text": "Un castel bine conservat din secolul al XV-lea în Manzanares el Real.",
+                  "text": "Castel bine conservat din secolul al XV-lea cu plan rectangular în Manzanares el Real.",
                   "category": "castle",
                   "coords": [
                         -3.862028,
@@ -6514,7 +6514,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo Viejo de Manzanares",
-                  "text": "Ruinele vechiului castel din Manzanares el Real.",
+                  "text": "Ruinele unui castel medieval pe un deal deasupra Manzanares el Real.",
                   "category": "historical",
                   "coords": [
                         -3.869698,
@@ -6523,7 +6523,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Centru cultural în Manzanares el Real.",
+                  "text": "Casa de Cultura, un centru cultural într-o clădire istorică lângă castelul Manzanares el Real.",
                   "category": "cultural",
                   "coords": [
                         -3.864286,
@@ -6532,7 +6532,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador embalse Manzanares el Real",
-                  "text": "Punct de belvedere asupra lacului de acumulare Manzanares el Real.",
+                  "text": "Mirador embalse Manzanares el Real, un punct de belvedere asupra lacului de acumulare Manzanares și a castelului.",
                   "category": "landmark",
                   "coords": [
                         -3.869449,
@@ -6541,7 +6541,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Torreón de la presa original",
-                  "text": "Turnul barajului original din Manzanares el Real.",
+                  "text": "Torreón de la presa original, un turn de piatră din barajul original al secolului al XVIII-lea la Manzanares el Real.",
                   "category": "landmark",
                   "coords": [
                         -3.816841,
@@ -6550,7 +6550,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de Nuestra Señora de las Nieves",
-                  "text": "Biserica Maica Domnului a Zăpezilor din Manzanares el Real.",
+                  "text": "Biserică în Manzanares el Real, lângă castel, în stil gotic.",
                   "category": "religious",
                   "coords": [
                         -3.864654,
@@ -6561,7 +6561,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "en": [
             {
                   "name": "Castillo Nuevo de Manzanares El Real",
-                  "text": "A well-preserved 15th-century castle in Manzanares el Real.",
+                  "text": "Well-preserved 15th-century castle with rectangular layout in Manzanares el Real.",
                   "category": "castle",
                   "coords": [
                         -3.862028,
@@ -6570,7 +6570,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo Viejo de Manzanares",
-                  "text": "Ruins of the old castle in Manzanares el Real.",
+                  "text": "Ruins of a medieval castle on a hill above Manzanares el Real.",
                   "category": "historical",
                   "coords": [
                         -3.869698,
@@ -6579,7 +6579,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "A cultural center located in Manzanares el Real.",
+                  "text": "Casa de Cultura, a cultural centre housed in a historic building near Manzanares el Real castle.",
                   "category": "cultural",
                   "coords": [
                         -3.864286,
@@ -6588,7 +6588,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador embalse Manzanares el Real",
-                  "text": "Viewpoint overlooking the Manzanares el Real reservoir.",
+                  "text": "Mirador embalse Manzanares el Real, a viewpoint overlooking the Manzanares reservoir and the castle.",
                   "category": "landmark",
                   "coords": [
                         -3.869449,
@@ -6597,7 +6597,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Torreón de la presa original",
-                  "text": "Tower of the original dam in Manzanares el Real.",
+                  "text": "Torreón de la presa original, a stone tower from the 18th-century dam at Manzanares el Real.",
                   "category": "landmark",
                   "coords": [
                         -3.816841,
@@ -6606,7 +6606,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de Nuestra Señora de las Nieves",
-                  "text": "Church of Our Lady of the Snows in Manzanares el Real.",
+                  "text": "Church in Manzanares el Real, near the castle, in Gothic style.",
                   "category": "religious",
                   "coords": [
                         -3.864654,
@@ -6672,7 +6672,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Cueva de la hoz",
-                  "text": "Ein beeindruckender Höhleneingang in der Region Guadalajara.",
+                  "text": "Kalksteinhöhle mit prähistorischen Felsmalereien in der Schlucht des Flusses Linares.",
                   "category": "landmark",
                   "coords": [
                         -2.296458,
@@ -6692,7 +6692,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Cueva de la hoz",
-                  "text": "Lenyűgöző barlangbejárat Guadalajara régiójában.",
+                  "text": "Mészkőbarlang őskori sziklarajzokkal a Linares folyó szurdokában.",
                   "category": "landmark",
                   "coords": [
                         -2.296458,
@@ -6712,7 +6712,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Cueva de la hoz",
-                  "text": "O intrare spectaculoasă în peșteră din regiunea Guadalajara.",
+                  "text": "Peșteră de calcar cu picturi rupestre preistorice în cheile râului Linares.",
                   "category": "landmark",
                   "coords": [
                         -2.296458,
@@ -6732,7 +6732,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Cueva de la hoz",
-                  "text": "An impressive cave entrance in the Guadalajara region.",
+                  "text": "Limestone cave with prehistoric rock paintings in the gorge of the Linares River.",
                   "category": "landmark",
                   "coords": [
                         -2.296458,
@@ -7077,7 +7077,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "de": [
             {
                   "name": "Playa de Nueva Almería",
-                  "text": "Ein Strand in Almería.",
+                  "text": "Strand in Almería in der Nähe der Alcazaba-Festung, mit goldenem Sand.",
                   "category": "recreational",
                   "coords": [
                         -2.437374,
@@ -7086,7 +7086,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de El Zapillo",
-                  "text": "Ein Strand in Almería.",
+                  "text": "Playa de El Zapillo, ein langer städtischer Sandstrand am Fuße der Alcazaba von Almería.",
                   "category": "recreational",
                   "coords": [
                         -2.448094,
@@ -7095,7 +7095,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de San Miguel",
-                  "text": "Ein Strand in Almería.",
+                  "text": "Playa de San Miguel, eine ruhige Bucht mit Blick auf die Alcazaba-Festung.",
                   "category": "recreational",
                   "coords": [
                         -2.454128,
@@ -7104,7 +7104,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de la Térmica",
-                  "text": "Ein Strand in Almería.",
+                  "text": "Playa de la Térmica, ein Strand neben dem ehemaligen Wärmekraftwerk in Almería.",
                   "category": "recreational",
                   "coords": [
                         -2.443308,
@@ -7115,7 +7115,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "hu": [
             {
                   "name": "Playa de Nueva Almería",
-                  "text": "Egy strand Almeríában.",
+                  "text": "Strand Almeríában, az Alcazaba erőd közelében, aranysárga homokkal.",
                   "category": "recreational",
                   "coords": [
                         -2.437374,
@@ -7124,7 +7124,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de El Zapillo",
-                  "text": "Egy strand Almeríában.",
+                  "text": "Playa de El Zapillo, egy hosszú városi homokos strand az almeríai Alcazaba lábánál.",
                   "category": "recreational",
                   "coords": [
                         -2.448094,
@@ -7133,7 +7133,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de San Miguel",
-                  "text": "Egy strand Almeríában.",
+                  "text": "Playa de San Miguel, egy csendes öböl strand, kilátással az Alcazaba erődre.",
                   "category": "recreational",
                   "coords": [
                         -2.454128,
@@ -7142,7 +7142,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de la Térmica",
-                  "text": "Egy strand Almeríában.",
+                  "text": "Playa de la Térmica, egy strand az egykori hőerőmű mellett Almeríában.",
                   "category": "recreational",
                   "coords": [
                         -2.443308,
@@ -7153,7 +7153,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "ro": [
             {
                   "name": "Playa de Nueva Almería",
-                  "text": "O plajă în Almería.",
+                  "text": "Plajă în Almería, lângă fortăreața Alcazaba, cu nisip auriu.",
                   "category": "recreational",
                   "coords": [
                         -2.437374,
@@ -7162,7 +7162,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de El Zapillo",
-                  "text": "O plajă în Almería.",
+                  "text": "Playa de El Zapillo, o plajă urbană lungă de nisip la poalele Alcazabei din Almería.",
                   "category": "recreational",
                   "coords": [
                         -2.448094,
@@ -7171,7 +7171,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de San Miguel",
-                  "text": "O plajă în Almería.",
+                  "text": "Playa de San Miguel, o plajă liniștită de golfuleț cu vedere la fortăreața Alcazaba.",
                   "category": "recreational",
                   "coords": [
                         -2.454128,
@@ -7180,7 +7180,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de la Térmica",
-                  "text": "O plajă în Almería.",
+                  "text": "Playa de la Térmica, o plajă adiacentă fostei centrale termice din Almería.",
                   "category": "recreational",
                   "coords": [
                         -2.443308,
@@ -7191,7 +7191,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "en": [
             {
                   "name": "Playa de Nueva Almería",
-                  "text": "A beach in Almería.",
+                  "text": "Beach in Almería near the Alcazaba fortress, with golden sand.",
                   "category": "recreational",
                   "coords": [
                         -2.437374,
@@ -7200,7 +7200,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de El Zapillo",
-                  "text": "A beach in Almería.",
+                  "text": "Playa de El Zapillo, a long urban sandy beach at the foot of Almería's Alcazaba.",
                   "category": "recreational",
                   "coords": [
                         -2.448094,
@@ -7209,7 +7209,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de San Miguel",
-                  "text": "A beach in Almería.",
+                  "text": "Playa de San Miguel, a quiet cove beach with a view of the Alcazaba fortress.",
                   "category": "recreational",
                   "coords": [
                         -2.454128,
@@ -7218,7 +7218,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de la Térmica",
-                  "text": "A beach in Almería.",
+                  "text": "Playa de la Térmica, a beach adjacent to the former thermal power plant in Almería.",
                   "category": "recreational",
                   "coords": [
                         -2.443308,
@@ -7761,7 +7761,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Piscina Municipal de Olmedo",
-                  "text": "Piscina Municipal de Olmedo ist ein städtisches Schwimmbad beim Schloss La Mota.",
+                  "text": "Piscina Municipal de Olmedo, ein Freibad in der Stadt Olmedo nahe der Burg Castillo de La Mota.",
                   "category": "recreational",
                   "coords": [
                         -4.677017,
@@ -7826,7 +7826,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Piscina Municipal de Olmedo",
-                  "text": "A Piscina Municipal de Olmedo egy városi uszoda a La Mota vár közelében.",
+                  "text": "Piscina Municipal de Olmedo, egy szabadtéri uszoda Olmedo városában, a La Mota vár közelében.",
                   "category": "recreational",
                   "coords": [
                         -4.677017,
@@ -7891,7 +7891,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Piscina Municipal de Olmedo",
-                  "text": "Piscina Municipal de Olmedo este o piscină municipală situată lângă Castelul La Mota.",
+                  "text": "Piscina Municipal de Olmedo, o piscină în aer liber în orașul Olmedo, lângă castelul La Mota.",
                   "category": "recreational",
                   "coords": [
                         -4.677017,
@@ -7956,7 +7956,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Piscina Municipal de Olmedo",
-                  "text": "Piscina Municipal de Olmedo is a municipal swimming pool located near La Mota Castle.",
+                  "text": "Piscina Municipal de Olmedo, an outdoor swimming pool in the town of Olmedo near Castillo de La Mota.",
                   "category": "recreational",
                   "coords": [
                         -4.677017,
@@ -8193,7 +8193,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo de Añón del Moncayo",
-                  "text": "Eine historische Burganlage in der Gemeinde Añón de Moncayo.",
+                  "text": "Burgruine auf einem felsigen Hügel im Moncayo-Gebirge bei Veruela.",
                   "category": "castle",
                   "coords": [
                         -1.721675,
@@ -8220,7 +8220,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Palacio Abacial",
-                  "text": "Ein Museum im ehemaligen Palast des Abtes des Klosters Veruela.",
+                  "text": "Palacio Abacial, ein Museum im ehemaligen Abtspalast des Klosters Veruela.",
                   "category": "museum",
                   "coords": [
                         -1.694148,
@@ -8258,7 +8258,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo de Añón del Moncayo",
-                  "text": "Történelmi vár Añón de Moncayo településen.",
+                  "text": "Várrom egy sziklás dombon a Moncayo-hegységben Veruela közelében.",
                   "category": "castle",
                   "coords": [
                         -1.721675,
@@ -8285,7 +8285,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Palacio Abacial",
-                  "text": "Múzeum a Veruela-kolostor egykori apáti palotájában.",
+                  "text": "Palacio Abacial, egy múzeum a verulai kolostor egykori apáti palotájában.",
                   "category": "museum",
                   "coords": [
                         -1.694148,
@@ -8323,7 +8323,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo de Añón del Moncayo",
-                  "text": "Un castel istoric situat în localitatea Añón de Moncayo.",
+                  "text": "Ruinele unui castel pe o colină stâncoasă în Munții Moncayo lângă Veruela.",
                   "category": "castle",
                   "coords": [
                         -1.721675,
@@ -8350,7 +8350,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Palacio Abacial",
-                  "text": "Un muzeu situat în fostul palat abațial al mănăstirii.",
+                  "text": "Palacio Abacial, un muzeu găzduit în fostul palat al starețului de la Mănăstirea Veruela.",
                   "category": "museum",
                   "coords": [
                         -1.694148,
@@ -8388,7 +8388,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Castillo de Añón del Moncayo",
-                  "text": "A historic castle located in the municipality of Añón de Moncayo.",
+                  "text": "Castle ruins on a rocky hill in the Moncayo Mountains near Veruela.",
                   "category": "castle",
                   "coords": [
                         -1.721675,
@@ -8415,7 +8415,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Palacio Abacial",
-                  "text": "A museum located in the former abbot's palace of the monastery.",
+                  "text": "Palacio Abacial, a museum housed in the former abbot's palace at Veruela Monastery.",
                   "category": "museum",
                   "coords": [
                         -1.694148,
@@ -9354,7 +9354,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Arco de Chinchilla",
-                  "text": "Ein historischer Steinbogen in der Nähe der Burg Belmonte.",
+                  "text": "Arco de Chinchilla, ein mittelalterliches Stadttor in der ummauerten Stadt Belmonte.",
                   "category": "historical",
                   "coords": [
                         -2.701981,
@@ -9428,7 +9428,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Arco de Chinchilla",
-                  "text": "Egy történelmi kőkapu Belmonte vára közelében.",
+                  "text": "Arco de Chinchilla, egy középkori városkapu Belmonte fallal körülvett városában.",
                   "category": "historical",
                   "coords": [
                         -2.701981,
@@ -9502,7 +9502,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Arco de Chinchilla",
-                  "text": "Un arc de piatră istoric situat lângă Castelul Belmonte.",
+                  "text": "Arco de Chinchilla, o poartă medievală a orașului în orașul zidit Belmonte.",
                   "category": "historical",
                   "coords": [
                         -2.701981,
@@ -9576,7 +9576,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Arco de Chinchilla",
-                  "text": "A historic stone arch located near Belmonte Castle.",
+                  "text": "Arco de Chinchilla, a medieval city gate in the walled town of Belmonte.",
                   "category": "historical",
                   "coords": [
                         -2.701981,
@@ -9669,7 +9669,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de Medellín",
-                  "text": "Ein beliebter Flussstrand am Guadiana in Medellín.",
+                  "text": "Playa de Medellín, ein Flussstrand am Guadiana nahe dem römischen Theater.",
                   "category": "recreational",
                   "coords": [
                         -5.964722,
@@ -9716,7 +9716,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de Medellín",
-                  "text": "Népszerű folyóparti strand a Guadiana partján Medellínben.",
+                  "text": "Playa de Medellín, egy folyami strand a Guadiana partján a római színház közelében.",
                   "category": "recreational",
                   "coords": [
                         -5.964722,
@@ -9763,7 +9763,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de Medellín",
-                  "text": "O plajă fluvială populară pe malul râului Guadiana în Medellín.",
+                  "text": "Playa de Medellín, o plajă fluvială pe râul Guadiana, lângă teatrul roman.",
                   "category": "recreational",
                   "coords": [
                         -5.964722,
@@ -9810,7 +9810,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Playa de Medellín",
-                  "text": "A popular river beach on the Guadiana in Medellín.",
+                  "text": "Playa de Medellín, a river beach on the Guadiana River near the Roman theatre.",
                   "category": "recreational",
                   "coords": [
                         -5.964722,
@@ -10983,7 +10983,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador del Rivazo",
-                  "text": "Ein lokaler Aussichtspunkt mit schöner Aussicht auf die Region.",
+                  "text": "Mirador del Rivazo, ein Aussichtspunkt über den Guadalquivir nahe der Burg von Almodóvar del Río.",
                   "category": "natural",
                   "coords": [
                         -5.018479,
@@ -11039,7 +11039,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador del Rivazo",
-                  "text": "Helyi kilátóhely, ahonnan szép kilátás nyílik a régióra.",
+                  "text": "Mirador del Rivazo, egy kilátó a Guadalquivir folyóra Almodóvar del Río vára közelében.",
                   "category": "natural",
                   "coords": [
                         -5.018479,
@@ -11095,7 +11095,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador del Rivazo",
-                  "text": "Un punct de belvedere local cu vederi frumoase asupra regiunii.",
+                  "text": "Mirador del Rivazo, un punct de belvedere asupra râului Guadalquivir lângă castelul Almodóvar del Río.",
                   "category": "natural",
                   "coords": [
                         -5.018479,
@@ -11151,7 +11151,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Mirador del Rivazo",
-                  "text": "A local viewpoint offering scenic views of the region.",
+                  "text": "Mirador del Rivazo, a lookout point over the Guadalquivir River near Almodóvar del Río castle.",
                   "category": "natural",
                   "coords": [
                         -5.018479,
@@ -11226,7 +11226,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "de": [
             {
                   "name": "Ruinas del Castillo de los Duques de Alba",
-                  "text": "Die Ruinen einer Festungsanlage bei Munigua.",
+                  "text": "Ruinas del Castillo de los Duques de Alba, eine mittelalterliche Burgruine in der archäologischen Stätte Munigua.",
                   "category": "castle",
                   "coords": [
                         -5.693378,
@@ -11235,7 +11235,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de San Juan Bautista",
-                  "text": "Eine Kirche, die dem heiligen Johannes dem Täufer gewidmet ist.",
+                  "text": "Ruinen einer Kirche an der archäologischen Stätte von Munigua, einer römischen Stadt.",
                   "category": "religious",
                   "coords": [
                         -5.671535,
@@ -11246,7 +11246,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "hu": [
             {
                   "name": "Ruinas del Castillo de los Duques de Alba",
-                  "text": "Egy erődítmény romjai Munigua közelében.",
+                  "text": "Ruinas del Castillo de los Duques de Alba, egy középkori várrom a muniguai régészeti lelőhelyen.",
                   "category": "castle",
                   "coords": [
                         -5.693378,
@@ -11255,7 +11255,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de San Juan Bautista",
-                  "text": "Keresztelő Szent Jánosnak szentelt templom.",
+                  "text": "Egy templom romjai Munigua régészeti lelőhelyén, egy római városban.",
                   "category": "religious",
                   "coords": [
                         -5.671535,
@@ -11266,7 +11266,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "ro": [
             {
                   "name": "Ruinas del Castillo de los Duques de Alba",
-                  "text": "Ruinele unei fortificații situate lângă Munigua.",
+                  "text": "Ruinas del Castillo de los Duques de Alba, o ruină medievală de cetate în situl arheologic Munigua.",
                   "category": "castle",
                   "coords": [
                         -5.693378,
@@ -11275,7 +11275,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de San Juan Bautista",
-                  "text": "O biserică dedicată Sfântului Ioan Botezătorul.",
+                  "text": "Ruinele unei biserici la situl arheologic Munigua, un oraș roman.",
                   "category": "religious",
                   "coords": [
                         -5.671535,
@@ -11286,7 +11286,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       "en": [
             {
                   "name": "Ruinas del Castillo de los Duques de Alba",
-                  "text": "The ruins of a fortress complex near Munigua.",
+                  "text": "Ruinas del Castillo de los Duques de Alba, a medieval fortress ruin within the Munigua archaeological site.",
                   "category": "castle",
                   "coords": [
                         -5.693378,
@@ -11295,7 +11295,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Iglesia de San Juan Bautista",
-                  "text": "A church dedicated to Saint John the Baptist.",
+                  "text": "Ruins of a church at the archaeological site of Munigua, a Roman town.",
                   "category": "religious",
                   "coords": [
                         -5.671535,
@@ -12054,7 +12054,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Alcazaba",
-                  "text": "Der befestigte Kern der Burg von Gormaz.",
+                  "text": "Alcazaba de Gormaz, eine maurische Festung aus dem 10. Jahrhundert auf einem Hügel in Gormaz.",
                   "category": "castle",
                   "coords": [
                         -3.007262,
@@ -12083,7 +12083,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Alcazaba",
-                  "text": "A gormazi vár erődített magja.",
+                  "text": "Alcazaba de Gormaz, egy 10. századi mór erőd egy dombtetőn Gormazban.",
                   "category": "castle",
                   "coords": [
                         -3.007262,
@@ -12112,7 +12112,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Alcazaba",
-                  "text": "Nucleul fortificat al castelului din Gormaz.",
+                  "text": "Alcazaba de Gormaz, o fortăreață maură din secolul al X-lea pe un deal în Gormaz.",
                   "category": "castle",
                   "coords": [
                         -3.007262,
@@ -12141,7 +12141,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             },
             {
                   "name": "Alcazaba",
-                  "text": "The fortified core of the Gormaz castle.",
+                  "text": "Alcazaba de Gormaz, a 10th-century Moorish fortress on a hilltop in Gormaz.",
                   "category": "castle",
                   "coords": [
                         -3.007262,

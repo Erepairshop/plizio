@@ -7,7 +7,7 @@ export const slovakiaCities: POI[] = [
       "de": [
             {
                   "name": "Barbakan",
-                  "text": "Barbakan ist eine Burg in der Stadt Neusohl.",
+                  "text": "Eine mittelalterliche Barbakane in Banska Bystrica.",
                   "category": "castle",
                   "coords": [
                         19.146458,
@@ -16,7 +16,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Štátna opera",
-                  "text": "Die Štátna opera ist ein Theater in Neusohl.",
+                  "text": "Das Staatsopernhaus in Banska Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.146303,
@@ -25,7 +25,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Thurzov Dom",
-                  "text": "Das Thurzov Dom ist ein Museum in Neusohl.",
+                  "text": "Ein Museum in einem Renaissance-Stadthaus in Banska Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.145595,
@@ -34,7 +34,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bábkové divadlo na Rázcestí",
-                  "text": "Das Bábkové divadlo na Rázcestí ist ein Theater in Neusohl.",
+                  "text": "Ein Puppentheater in Banska Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.152089,
@@ -43,7 +43,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Tihányiovský kaštieľ",
-                  "text": "Tihányiovský kaštieľ ist ein anerkanntes Museum in einem Herrenhaus in Neusohl.",
+                  "text": "Renaissance-Schloss aus dem 16. Jahrhundert in Banská Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.137003,
@@ -52,7 +52,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Matejov dom",
-                  "text": "Matejov dom ist ein Museum in Neusohl.",
+                  "text": "Ein Museum in einem gotischen Haus in Banska Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.146543,
@@ -61,7 +61,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Múzeum SNP",
-                  "text": "Das Múzeum SNP ist ein Museum in Neusohl.",
+                  "text": "Museum des Slowakischen Nationalaufstands, eröffnet 1969.",
                   "category": "museum",
                   "coords": [
                         19.149775,
@@ -70,7 +70,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo Štúdio tanca",
-                  "text": "Das Divadlo Štúdio tanca ist ein Theater in Neusohl.",
+                  "text": "Tanztheaterstudio im Stadtzentrum von Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.148376,
@@ -79,7 +79,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo pod balkónom",
-                  "text": "Das Divadlo pod balkónom ist ein Theater in Neusohl.",
+                  "text": "Kleines Theater unter einem Gebäudebalkon in Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.165682,
@@ -88,7 +88,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Skanzen ťažkej bojovej techniky",
-                  "text": "Skanzen ťažkej bojovej techniky ist ein Museum in Neusohl.",
+                  "text": "Freilichtmuseum mit schweren Militärfahrzeugen und Panzern in Banská Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.148581,
@@ -97,7 +97,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Amfiteáter ist ein Theater in Neusohl.",
+                  "text": "Freiluftamphitheater für Konzerte und Veranstaltungen in Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.137344,
@@ -106,7 +106,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Aqualand Banská Bystrica",
-                  "text": "Aqualand Banská Bystrica ist ein Wasserpark in Neusohl.",
+                  "text": "Wasserpark mit Becken und Rutschen in Banská Bystrica.",
                   "category": "family",
                   "coords": [
                         19.127851,
@@ -115,7 +115,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Vartovka",
-                  "text": "Vartovka ist ein Berggipfel in der Stadt Neusohl.",
+                  "text": "Ein Hügel mit Panoramablick in Banska Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.153682,
@@ -124,7 +124,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Urpín",
-                  "text": "Urpín ist ein Berggipfel in Neusohl.",
+                  "text": "Der Urpín-Hügel über Banska Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.140869,
@@ -133,7 +133,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Laskomer",
-                  "text": "Laskomer ist ein markanter Berggipfel in Neusohl.",
+                  "text": "587 m hoher Hügel mit Wanderwegen nahe Banská Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.118308,
@@ -142,7 +142,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bárczyovský kaštieľ",
-                  "text": "Bárczyovský kaštieľ ist ein historisches Herrenhaus in Neusohl.",
+                  "text": "Barockschloss aus dem 18. Jahrhundert in Banská Bystrica.",
                   "category": "historical",
                   "coords": [
                         19.13066,
@@ -151,7 +151,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Park pod pamätníkom SNP",
-                  "text": "Park pod pamätníkom SNP ist ein Park in Neusohl.",
+                  "text": "Ein Park, der das SNP-Denkmal in Banska Bystrica umgibt.",
                   "category": "park",
                   "coords": [
                         19.150825,
@@ -160,7 +160,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Stadtpark",
-                  "text": "Mestský park ist ein Park in der Stadt Neusohl.",
+                  "text": "Der Hauptstadtpark in Banska Bystrica.",
                   "category": "park",
                   "coords": [
                         19.137816,
@@ -169,7 +169,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Monument v Majeri",
-                  "text": "Monument Majer ist ein Denkmal in Neusohl.",
+                  "text": "Majer-Denkmal in Banská Bystrica, enthüllt am 11. November 2018.",
                   "category": "historical",
                   "coords": [
                         19.179561,
@@ -178,7 +178,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Die Evanjelický a. v. kostol ist eine Kultstätte in Neusohl.",
+                  "text": "Eine lutherische Kirche in Banska Bystrica.",
                   "category": "religious",
                   "coords": [
                         19.142604,
@@ -187,7 +187,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "Die Chapel of St. John of Nepomuk ist eine Kultstätte in Neusohl.",
+                  "text": "Eine barocke Kapelle, die dem heiligen Johannes von Nepomuk in Banska Bystrica gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         19.146314,
@@ -261,7 +261,7 @@ export const slovakiaCities: POI[] = [
       "hu": [
             {
                   "name": "Barbakán",
-                  "text": "A Barbakan egy vár Neusohl városában.",
+                  "text": "Egy középkori barbakán Banska Bystricában.",
                   "category": "castle",
                   "coords": [
                         19.146458,
@@ -270,7 +270,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Štátna opera",
-                  "text": "A Štátna opera egy színház Neusohl városában.",
+                  "text": "Az állami operaház Banska Bystricában.",
                   "category": "cultural",
                   "coords": [
                         19.146303,
@@ -279,7 +279,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Közép-Szlovákiai Múzeum",
-                  "text": "A Thurzov Dom egy múzeum Neusohl városában.",
+                  "text": "Egy múzeum egy reneszánsz városi házban Banska Bystricában.",
                   "category": "museum",
                   "coords": [
                         19.145595,
@@ -288,7 +288,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bábkové divadlo na Rázcestí",
-                  "text": "A Bábkové divadlo na Rázcestí egy színház Neusohl városában.",
+                  "text": "Egy bábszínház Banska Bystricában.",
                   "category": "cultural",
                   "coords": [
                         19.152089,
@@ -297,7 +297,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Tihanyi kastély",
-                  "text": "A Tihányiovský kaštieľ egy elismert múzeum Neusohl városában.",
+                  "text": "16. századi reneszánsz kastély Besztercebányán.",
                   "category": "museum",
                   "coords": [
                         19.137003,
@@ -306,7 +306,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Mátyás ház",
-                  "text": "A Matejov dom egy múzeum Neusohl városában.",
+                  "text": "Egy múzeum egy gótikus házban Banska Bystricában.",
                   "category": "museum",
                   "coords": [
                         19.146543,
@@ -315,7 +315,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Szlovák Nemzeti Felkelés Múzeuma",
-                  "text": "A Múzeum SNP egy múzeum Neusohl városában.",
+                  "text": "A Szlovák Nemzeti Felkelés Múzeuma, 1969-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         19.149775,
@@ -324,7 +324,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo Štúdio tanca",
-                  "text": "A Divadlo Štúdio tanca egy színház Neusohl városában.",
+                  "text": "Táncszínház stúdió Banská Bystrica városközpontjában.",
                   "category": "cultural",
                   "coords": [
                         19.148376,
@@ -333,7 +333,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo pod balkónom",
-                  "text": "A Divadlo pod balkónom egy színház Neusohl városában.",
+                  "text": "Kis színház egy épület erkélye alatt Banská Bystricában.",
                   "category": "cultural",
                   "coords": [
                         19.165682,
@@ -342,7 +342,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Skanzen ťažkej bojovej techniky",
-                  "text": "A Skanzen ťažkej bojovej techniky egy múzeum Neusohl városában.",
+                  "text": "Szabadtéri múzeum nehéz katonai járművekkel és tankokkal Banská Bystricában.",
                   "category": "museum",
                   "coords": [
                         19.148581,
@@ -351,7 +351,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Az Amfiteáter egy színház Neusohl városában.",
+                  "text": "Szabadtéri amfiteátrum koncertekre és rendezvényekre Banská Bystricában.",
                   "category": "cultural",
                   "coords": [
                         19.137344,
@@ -360,7 +360,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Aqualand Banská Bystrica",
-                  "text": "Az Aqualand Banská Bystrica egy vízi park Neusohl városában.",
+                  "text": "Aquapark medencékkel és csúszdákkal Banská Bystricában.",
                   "category": "family",
                   "coords": [
                         19.127851,
@@ -369,7 +369,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Vartovka",
-                  "text": "A Vartovka egy hegycsúcs Neusohl városában.",
+                  "text": "Egy domb panorámás kilátással Banska Bystricában.",
                   "category": "natural",
                   "coords": [
                         19.153682,
@@ -378,7 +378,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Urpín",
-                  "text": "Az Urpín egy hegycsúcs Neusohl városában.",
+                  "text": "Az Urpín-domb Banska Bystrica felett.",
                   "category": "natural",
                   "coords": [
                         19.140869,
@@ -387,7 +387,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Laskomer",
-                  "text": "A Laskomer egy kiemelkedő hegycsúcs Neusohl területén.",
+                  "text": "587 m magas domb túraútvonalakkal Besztercebánya közelében.",
                   "category": "natural",
                   "coords": [
                         19.118308,
@@ -396,7 +396,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bárczyovský kaštieľ",
-                  "text": "A Bárczyovský kaštieľ egy történelmi kastély Neusohl városában.",
+                  "text": "18. századi barokk kastély Besztercebányán.",
                   "category": "historical",
                   "coords": [
                         19.13066,
@@ -405,7 +405,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Park pod pamätníkom SNP",
-                  "text": "A Park pod pamätníkom SNP egy park Neusohl városában.",
+                  "text": "Egy park, amely az SNP-emlékművet veszi körül Banska Bystricában.",
                   "category": "park",
                   "coords": [
                         19.150825,
@@ -414,7 +414,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Mestský park",
-                  "text": "A Mestský park egy park Neusohl városában.",
+                  "text": "A fővárosi park Banska Bystricában.",
                   "category": "park",
                   "coords": [
                         19.137816,
@@ -423,7 +423,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Monument v Majeri",
-                  "text": "A Monument Majer egy emlékmű Neusohl városában.",
+                  "text": "Majer-emlékmű Besztercebányán, 2018. november 11-én avatták fel.",
                   "category": "historical",
                   "coords": [
                         19.179561,
@@ -432,7 +432,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Az Evanjelický a. v. kostol egy istentiszteleti hely Neusohl városában.",
+                  "text": "Egy lutheránus templom Banska Bystricában.",
                   "category": "religious",
                   "coords": [
                         19.142604,
@@ -441,7 +441,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "A Chapel of St. John of Nepomuk egy istentiszteleti hely Neusohl városában.",
+                  "text": "Egy barokk kápolna, amely Nepomuki Szent Jánosnak van szentelve Banska Bystricában.",
                   "category": "religious",
                   "coords": [
                         19.146314,
@@ -515,7 +515,7 @@ export const slovakiaCities: POI[] = [
       "ro": [
             {
                   "name": "Barbakan",
-                  "text": "Barbakan este un castel situat în orașul Neusohl.",
+                  "text": "O barbacană medievală în Banska Bystrica.",
                   "category": "castle",
                   "coords": [
                         19.146458,
@@ -524,7 +524,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Štátna opera",
-                  "text": "Štátna opera este un teatru situat în Neusohl.",
+                  "text": "Opera de stat din Banska Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.146303,
@@ -533,7 +533,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Thurzov Dom",
-                  "text": "Thurzov Dom este un muzeu situat în Neusohl.",
+                  "text": "Un muzeu găzduit într-o casă orășenească renascentistă în Banska Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.145595,
@@ -542,7 +542,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bábkové divadlo na Rázcestí",
-                  "text": "Bábkové divadlo na Rázcestí este un teatru situat în Neusohl.",
+                  "text": "Un teatru de păpuși în Banska Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.152089,
@@ -551,7 +551,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Tihányiovský kaštieľ",
-                  "text": "Tihányiovský kaštieľ este un muzeu recunoscut aflat într-un conac din Neusohl.",
+                  "text": "Castel renascentist din secolul al XVI-lea în Banská Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.137003,
@@ -560,7 +560,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Matejov dom",
-                  "text": "Matejov dom este un muzeu situat în Neusohl.",
+                  "text": "Un muzeu într-o casă gotică în Banska Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.146543,
@@ -569,7 +569,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Múzeum SNP",
-                  "text": "Múzeum SNP este un muzeu situat în Neusohl.",
+                  "text": "Muzeul Insurecției Naționale Slovace, deschis în 1969.",
                   "category": "museum",
                   "coords": [
                         19.149775,
@@ -578,7 +578,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo Štúdio tanca",
-                  "text": "Divadlo Štúdio tanca este un teatru situat în Neusohl.",
+                  "text": "Studio de teatru-dans în centrul orașului Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.148376,
@@ -587,7 +587,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo pod balkónom",
-                  "text": "Divadlo pod balkónom este un teatru situat în Neusohl.",
+                  "text": "Teatru mic sub balconul unei clădiri în Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.165682,
@@ -596,7 +596,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Skanzen ťažkej bojovej techniky",
-                  "text": "Skanzen ťažkej bojovej techniky este un muzeu situat în Neusohl.",
+                  "text": "Muzeu în aer liber cu vehicule militare grele și tancuri în Banská Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.148581,
@@ -605,7 +605,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Amfiteáter este un teatru situat în Neusohl.",
+                  "text": "Amfiteatru în aer liber pentru concerte și evenimente în Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.137344,
@@ -614,7 +614,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Aqualand Banská Bystrica",
-                  "text": "Aqualand Banská Bystrica este un parc acvatic situat în Neusohl.",
+                  "text": "Parc acvatic cu piscine și tobogane în Banská Bystrica.",
                   "category": "family",
                   "coords": [
                         19.127851,
@@ -623,7 +623,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Vartovka",
-                  "text": "Vartovka este un vârf situat în orașul Neusohl.",
+                  "text": "Un deal cu vedere panoramică în Banska Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.153682,
@@ -632,7 +632,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Urpín",
-                  "text": "Urpín este un vârf situat în Neusohl.",
+                  "text": "Dealul Urpín deasupra Banska Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.140869,
@@ -641,7 +641,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Laskomer",
-                  "text": "Laskomer este un vârf muntos proeminent situat în Neusohl.",
+                  "text": "Deal de 587 m cu trasee de drumeție lângă Banská Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.118308,
@@ -650,7 +650,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bárczyovský kaštieľ",
-                  "text": "Bárczyovský kaštieľ este un conac istoric situat în Neusohl.",
+                  "text": "Castel baroc din secolul al XVIII-lea în Banská Bystrica.",
                   "category": "historical",
                   "coords": [
                         19.13066,
@@ -659,7 +659,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Park pod pamätníkom SNP",
-                  "text": "Park pod pamätníkom SNP este un parc situat în Neusohl.",
+                  "text": "Un parc care înconjoară monumentul SNP din Banska Bystrica.",
                   "category": "park",
                   "coords": [
                         19.150825,
@@ -668,7 +668,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Mestský park",
-                  "text": "Mestský park este un parc situat în orașul Neusohl.",
+                  "text": "Parcul principal al orașului din Banska Bystrica.",
                   "category": "park",
                   "coords": [
                         19.137816,
@@ -677,7 +677,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Monument v Majeri",
-                  "text": "Monument Majer este un monument situat în Neusohl.",
+                  "text": "Monumentul Majer din Banská Bystrica, dezvelit la 11 noiembrie 2018.",
                   "category": "historical",
                   "coords": [
                         19.179561,
@@ -686,7 +686,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Evanjelický a. v. kostol este un lăcaș de cult situat în Neusohl.",
+                  "text": "O biserică luterană în Banska Bystrica.",
                   "category": "religious",
                   "coords": [
                         19.142604,
@@ -695,7 +695,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "Chapel of St. John of Nepomuk este un lăcaș de cult situat în Neusohl.",
+                  "text": "O capelă barocă dedicată Sfântului Ioan de Nepomuk în Banska Bystrica.",
                   "category": "religious",
                   "coords": [
                         19.146314,
@@ -769,7 +769,7 @@ export const slovakiaCities: POI[] = [
       "en": [
             {
                   "name": "Barbakan",
-                  "text": "Barbakan is a castle located in the city of Neusohl.",
+                  "text": "A medieval barbican in Banska Bystrica.",
                   "category": "castle",
                   "coords": [
                         19.146458,
@@ -778,7 +778,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Štátna opera",
-                  "text": "Štátna opera is a theatre situated in Neusohl.",
+                  "text": "The state opera house in Banska Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.146303,
@@ -787,7 +787,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Thurzov Dom",
-                  "text": "Thurzov Dom is a museum located in Neusohl.",
+                  "text": "A museum housed in a Renaissance townhouse in Banska Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.145595,
@@ -796,7 +796,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bábkové divadlo na Rázcestí",
-                  "text": "Bábkové divadlo na Rázcestí is a theatre located in Neusohl.",
+                  "text": "A puppet theatre in Banska Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.152089,
@@ -805,7 +805,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Tihányiovský kaštieľ",
-                  "text": "Tihányiovský kaštieľ is a recognized museum housed in a manor located in Neusohl.",
+                  "text": "A Renaissance manor house from the 16th century in Banská Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.137003,
@@ -814,7 +814,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Matejov dom",
-                  "text": "Matejov dom is a museum located in Neusohl.",
+                  "text": "A museum in a Gothic house in Banska Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.146543,
@@ -823,7 +823,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Múzeum SNP",
-                  "text": "Múzeum SNP is a museum situated in Neusohl.",
+                  "text": "Opened in 1969, dedicated to the WWII Slovak National Uprising.",
                   "category": "museum",
                   "coords": [
                         19.149775,
@@ -832,7 +832,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo Štúdio tanca",
-                  "text": "Divadlo Štúdio tanca is a theatre located in Neusohl.",
+                  "text": "A dance theatre studio in Banská Bystrica's city centre.",
                   "category": "cultural",
                   "coords": [
                         19.148376,
@@ -841,7 +841,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Divadlo pod balkónom",
-                  "text": "Divadlo pod balkónom is a theatre situated in Neusohl.",
+                  "text": "A small theatre beneath a building's balcony in Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.165682,
@@ -850,7 +850,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Skanzen ťažkej bojovej techniky",
-                  "text": "Skanzen ťažkej bojovej techniky is a museum located in Neusohl.",
+                  "text": "An open-air museum of heavy military vehicles and tanks in Banská Bystrica.",
                   "category": "museum",
                   "coords": [
                         19.148581,
@@ -859,7 +859,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Amfiteáter is a theatre situated in Neusohl.",
+                  "text": "An outdoor amphitheatre for concerts and events in Banská Bystrica.",
                   "category": "cultural",
                   "coords": [
                         19.137344,
@@ -868,7 +868,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Aqualand Banská Bystrica",
-                  "text": "Aqualand Banská Bystrica is a water park located in Neusohl.",
+                  "text": "A water park with pools and slides in Banská Bystrica.",
                   "category": "family",
                   "coords": [
                         19.127851,
@@ -877,7 +877,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Vartovka",
-                  "text": "Vartovka is a peak located in the city of Neusohl.",
+                  "text": "A hill with panoramic views in Banska Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.153682,
@@ -886,7 +886,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Urpín",
-                  "text": "Urpín is a peak situated in Neusohl.",
+                  "text": "Urpín hill above Banska Bystrica.",
                   "category": "natural",
                   "coords": [
                         19.140869,
@@ -895,7 +895,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Laskomer",
-                  "text": "Laskomer is a prominent mountain peak located in Neusohl.",
+                  "text": "A 587 m hill near Banská Bystrica with hiking trails.",
                   "category": "natural",
                   "coords": [
                         19.118308,
@@ -904,7 +904,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Bárczyovský kaštieľ",
-                  "text": "Bárczyovský kaštieľ is a historical manor located in Neusohl.",
+                  "text": "A Baroque manor house from the 18th century in Banská Bystrica.",
                   "category": "historical",
                   "coords": [
                         19.13066,
@@ -913,7 +913,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Park pod pamätníkom SNP",
-                  "text": "Park pod pamätníkom SNP is a park situated in Neusohl.",
+                  "text": "A park surrounding the SNP monument in Banska Bystrica.",
                   "category": "park",
                   "coords": [
                         19.150825,
@@ -922,7 +922,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Mestský park",
-                  "text": "Mestský park is a park located in the city of Neusohl.",
+                  "text": "The main city park in Banska Bystrica.",
                   "category": "park",
                   "coords": [
                         19.137816,
@@ -931,7 +931,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Monument Majer",
-                  "text": "Monument Majer is a monument situated in Neusohl.",
+                  "text": "Monument Majer in Banská Bystrica, unveiled on November 11, 2018.",
                   "category": "historical",
                   "coords": [
                         19.179561,
@@ -940,7 +940,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Evanjelický a. v. kostol is a place of worship located in Neusohl.",
+                  "text": "A Lutheran church in Banska Bystrica.",
                   "category": "religious",
                   "coords": [
                         19.142604,
@@ -949,7 +949,7 @@ export const slovakiaCities: POI[] = [
             },
             {
                   "name": "Chapel of St. John of Nepomuk",
-                  "text": "The Chapel of St. John of Nepomuk is a place of worship situated in Neusohl.",
+                  "text": "A Baroque chapel dedicated to St. John of Nepomuk in Banska Bystrica.",
                   "category": "religious",
                   "coords": [
                         19.146314,

@@ -47,7 +47,52 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     }
   },
   {
-    id: "naryn-state-reserve-life-v2",
+    id: "naryn-state-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maral asyl tukum pitomnigi",
+                  "text": "Dieses Naturreservat hat sich auf den Schutz und die Zucht des majestätischen Maral, eines einheimischen Großhirsches, spezialisiert.",
+                  "category": "natural",
+                  "coords": [
+                        76.494781,
+                        41.445685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maral asyl tukum pitomnigi",
+                  "text": "Ez a természetvédelmi terület a fenséges maral, egy őshonos nagy szarvas védelmére és tenyésztésére specializálódott.",
+                  "category": "natural",
+                  "coords": [
+                        76.494781,
+                        41.445685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maral asyl tukum pitomnigi",
+                  "text": "Această rezervație naturală este specializată în protejarea și reproducerea maiestuosului maral, un cerb mare autohton.",
+                  "category": "natural",
+                  "coords": [
+                        76.494781,
+                        41.445685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maral asyl tukum pitomnigi",
+                  "text": "This nature reserve specializes in the protection and breeding of the majestic maral, a native large deer.",
+                  "category": "natural",
+                  "coords": [
+                        76.494781,
+                        41.445685
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "KG-N",
     coords: [76.5, 41.5],
@@ -355,7 +400,52 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "kyrgyz-ata-national-park-life-v2",
+    id: "kyrgyz-ata-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyrgyz-Ata mamlekettik korugu",
+                  "text": "Der Kyrgyz-Ata-Nationalpark ist ein ausgedehntes Naturschutzgebiet, das eine vielfältige Gebirgslandschaft mit dichten Wäldern schützt.",
+                  "category": "natural",
+                  "coords": [
+                        72.610047,
+                        40.041736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kyrgyz-Ata mamlekettik korugu",
+                  "text": "A Kyrgyz-Ata Nemzeti Park egy kiterjedt természetvédelmi terület, amely változatos, sűrű erdőkkel borított hegyvidéki tájat véd.",
+                  "category": "natural",
+                  "coords": [
+                        72.610047,
+                        40.041736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kyrgyz-Ata mamlekettik korugu",
+                  "text": "Parcul Național Kyrgyz-Ata este o rezervație naturală vastă care protejează un peisaj montan divers cu păduri dese.",
+                  "category": "natural",
+                  "coords": [
+                        72.610047,
+                        40.041736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kyrgyz-Ata National Park",
+                  "text": "The Kyrgyz-Ata National Park is an extensive nature reserve protecting a diverse mountainous landscape with dense forests.",
+                  "category": "natural",
+                  "coords": [
+                        72.610047,
+                        40.041736
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KG-O",
     coords: [72.6, 40.0],
@@ -531,7 +621,52 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "panfilov-park-bishkek-life-v2",
+    id: "panfilov-park-bishkek-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sadykow-Kunstmuseum",
+                  "text": "Museum der Nationalen Kunstakademie mit Werken des berühmten Bildhauers Turgunbaj Sadykow.",
+                  "category": "museum",
+                  "coords": [
+                        74.59582,
+                        42.879395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "muzei T.Sadykova",
+                  "text": "A Nemzeti Művészeti Akadémia múzeuma, amely Turgunbaj Szadikov híres szobrász alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        74.59582,
+                        42.879395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "muzei T.Sadykova",
+                  "text": "Muzeul Academiei Naționale de Arte, ce expune lucrările renumitului sculptor Turgunbai Sadîkov.",
+                  "category": "museum",
+                  "coords": [
+                        74.59582,
+                        42.879395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "muzei T.Sadykova",
+                  "text": "National Academy of Arts museum showcasing works by renowned sculptor Turgunbay Sadykov.",
+                  "category": "museum",
+                  "coords": [
+                        74.59582,
+                        42.879395
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KG-GB",
     coords: [74.597, 42.877],
@@ -575,7 +710,592 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "bishkek-botanical-garden-life-v2",
+    id: "bishkek-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Radi zhizni na zemle",
+                  "text": "Ein Gedenkmonument in Bischkek, das die Opfer der Einsatzkräfte ehrt, die bei der Tschernobyl-Katastrophe geholfen haben.",
+                  "category": "historical",
+                  "coords": [
+                        74.604397,
+                        42.826564
+                  ]
+            },
+            {
+                  "name": "Park \"Asanbai\"",
+                  "text": "Ein familienfreundlicher Freizeitpark im Mikrobezirk Asanbai mit Spazierwegen, Spielplätzen und Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        74.619238,
+                        42.818947
+                  ]
+            },
+            {
+                  "name": "Dasmiia",
+                  "text": "Ein ethnischer Unterhaltungskomplex, der dafür bekannt ist, eine der größten traditionellen kirgisischen Jurten des Landes zu beherbergen.",
+                  "category": "recreational",
+                  "coords": [
+                        74.636885,
+                        42.855215
+                  ]
+            },
+            {
+                  "name": "Muzei N.K. Rerikha",
+                  "text": "Ein Kulturmuseum, das der Kunst, der Philosophie und den zentralasiatischen Expeditionen des berühmten Malers Nikolai Roerich gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        74.623124,
+                        42.852751
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad imeni Gareeva",
+                  "text": "Dieser 1938 gegründete wissenschaftliche botanische Garten der Nationalen Akademie der Wissenschaften bewahrt eine vielfältige zentralasiatische Flora.",
+                  "category": "park",
+                  "coords": [
+                        74.637778,
+                        42.826954
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "Eine russisch-orthodoxe Kirche in Bischkek, die dem Heiligen Wladimir geweiht ist und traditionelle Kuppeln sowie regelmäßige Gottesdienste aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.631059,
+                        42.812701
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Ein moderner Königreichssaal, der als christlicher Versammlungsort für die lokale Gemeinde der Zeugen Jehovas in Bischkek dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.618077,
+                        42.838371
+                  ]
+            },
+            {
+                  "name": "Tserkov' Boga",
+                  "text": "Ein evangelikales christliches Gebetshaus, das protestantischen Gläubigen in der Hauptstadt zeitgemäße Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.619803,
+                        42.838184
+                  ]
+            },
+            {
+                  "name": "Mechet' pamiati zhertv 7 aprelia",
+                  "text": "Eine islamische Kultstätte, die speziell zum Gedenken an die Bürger errichtet wurde, die während der kirgisischen Revolution im April 2010 ihr Leben verloren.",
+                  "category": "landmark",
+                  "coords": [
+                        74.621528,
+                        42.826918
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kudaidyn daryiasy",
+                  "text": "Eine protestantische christliche Gemeindekirche in Bischkek, die regelmäßige biblische Gottesdienste und Gemeinschaftsaktivitäten anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638348,
+                        42.813612
+                  ]
+            },
+            {
+                  "name": "Mechet' Aisha",
+                  "text": "Diese nach Aischa benannte, markante lokale Moschee dient der muslimischen Gemeinde von Bischkek mit ihren geräumigen Gebetssälen.",
+                  "category": "landmark",
+                  "coords": [
+                        74.63692,
+                        42.811448
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "Der zentrale Hauptmarkt der Stadt herrscht ein reges Treiben von Händlern, die traditionelle kirgisische Kleidung, frisches Fleisch und farbenfrohe Gewürze verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        74.615512,
+                        42.85159
+                  ]
+            },
+            {
+                  "name": "Mini bazarchik",
+                  "text": "Ein kleiner Nachbarschaftsmarkt auf der Straße, der tägliche Lebensmittel, frisch gebackenes Fladenbrot und Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        74.628342,
+                        42.819841
+                  ]
+            },
+            {
+                  "name": "Ol'ga",
+                  "text": "Ein lokaler Einkaufspavillon in Bischkek, in dem Anwohner eine Mischung aus russischen und zentralasiatischen Lebensmitteln finden.",
+                  "category": "cultural",
+                  "coords": [
+                        74.631463,
+                        42.81406
+                  ]
+            },
+            {
+                  "name": "Bazarchik Asanbai",
+                  "text": "Der spezielle Nachbarschaftsmarkt für den Mikrobezirk Asanbai, der die Bewohner der umliegenden Wohnungen vorwiegend mit frischen Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630165,
+                        42.814472
+                  ]
+            },
+            {
+                  "name": "Bannyi kompleks \"Kristallis\"",
+                  "text": "Ein moderner Wellness- und öffentlicher Bäderkomplex mit traditionellen russischen Banjas und entspannenden Spa-Einrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        74.631621,
+                        42.829068
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Radi zhizni na zemle",
+                  "text": "Egy biskeki emlékmű, amely a csernobili katasztrófa elhárításában részt vevők áldozatvállalása előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        74.604397,
+                        42.826564
+                  ]
+            },
+            {
+                  "name": "Park \"Asanbai\"",
+                  "text": "Családbarát szabadidőpark az Asanbai mikrokörzetben, sétaterekkel, játszóterekkel és vidámparki attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        74.619238,
+                        42.818947
+                  ]
+            },
+            {
+                  "name": "Dasmiia",
+                  "text": "Egy etnikai szórakoztató komplexum, amely arról híres, hogy itt található az ország egyik legnagyobb hagyományos kirgiz jurtája.",
+                  "category": "recreational",
+                  "coords": [
+                        74.636885,
+                        42.855215
+                  ]
+            },
+            {
+                  "name": "Muzei N.K. Rerikha",
+                  "text": "Egy kulturális múzeum, amelyet a híres festő, Nyikolaj Rerih művészetének, filozófiájának és közép-ázsiai expedícióinak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        74.623124,
+                        42.852751
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad imeni Gareeva",
+                  "text": "Az 1938-ban alapított, a Nemzeti Tudományos Akadémia által fenntartott tudományos botanikus kert sokszínű közép-ázsiai flórát őriz.",
+                  "category": "park",
+                  "coords": [
+                        74.637778,
+                        42.826954
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "Egy Szent Vlagyimirnak szentelt orosz ortodox templom Biskekben, hagyományos kupolákkal és rendszeres liturgikus istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        74.631059,
+                        42.812701
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Egy modern Királyság-terem, amely keresztény találkozóhelyet biztosít Jehova Tanúi helyi gyülekezete számára Biskekben.",
+                  "category": "landmark",
+                  "coords": [
+                        74.618077,
+                        42.838371
+                  ]
+            },
+            {
+                  "name": "Tserkov' Boga",
+                  "text": "Egy evangéliumi keresztény imaház, amely kortárs istentiszteletekkel szolgálja a fővárosi protestáns hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        74.619803,
+                        42.838184
+                  ]
+            },
+            {
+                  "name": "Mechet' pamiati zhertv 7 aprelia",
+                  "text": "Egy iszlám istentiszteleti hely, amelyet kifejezetten a 2010 áprilisi kirgiz forradalom idején életüket vesztett polgárok emlékére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.621528,
+                        42.826918
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kudaidyn daryiasy",
+                  "text": "Egy protestáns keresztény közösségi templom Biskekben, amely rendszeres bibliai istentiszteleteket és közösségi programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638348,
+                        42.813612
+                  ]
+            },
+            {
+                  "name": "Mechet' Aisha",
+                  "text": "Az Aisa nevét viselő prominens helyi mecset tágas imatermeivel szolgálja a biskeki muszlim közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        74.63692,
+                        42.811448
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "A város fő központi piaca, amely hemzseg a hagyományos kirgiz ruhákat, friss húsokat és élénk fűszereket árusító árusoktól.",
+                  "category": "cultural",
+                  "coords": [
+                        74.615512,
+                        42.85159
+                  ]
+            },
+            {
+                  "name": "Mini bazarchik",
+                  "text": "Egy kis környékbeli utcai piac, amely napi élelmiszereket, frissen sült lepénykenyeret és háztartási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        74.628342,
+                        42.819841
+                  ]
+            },
+            {
+                  "name": "Ol'ga",
+                  "text": "Egy helyi bevásárlópavilon Biskekben, ahol a lakosok orosz és közép-ázsiai élelmiszerek keverékét találják.",
+                  "category": "cultural",
+                  "coords": [
+                        74.631463,
+                        42.81406
+                  ]
+            },
+            {
+                  "name": "Bazarchik Asanbai",
+                  "text": "Az Asanbai mikrokörzet dedikált környékbeli piaca, amely elsősorban friss élelmiszerekkel látja el a helyi apartmanok lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630165,
+                        42.814472
+                  ]
+            },
+            {
+                  "name": "Bannyi kompleks \"Kristallis\"",
+                  "text": "Egy modern wellness- és közfürdőkomplexum hagyományos orosz banyákkal és pihentető fürdőszolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        74.631621,
+                        42.829068
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Radi zhizni na zemle",
+                  "text": "Un monument memorial din Bișkek care onorează sacrificiile celor care au intervenit la dezastrul de la Cernobîl.",
+                  "category": "historical",
+                  "coords": [
+                        74.604397,
+                        42.826564
+                  ]
+            },
+            {
+                  "name": "Park \"Asanbai\"",
+                  "text": "Un parc de agrement pentru familii în microraionul Asanbai, oferind alei de promenadă, locuri de joacă și atracții de parc de distracții.",
+                  "category": "recreational",
+                  "coords": [
+                        74.619238,
+                        42.818947
+                  ]
+            },
+            {
+                  "name": "Dasmiia",
+                  "text": "Un complex de divertisment etnic faimos pentru găzduirea uneia dintre cele mai mari iurte tradiționale kârgâze din țară.",
+                  "category": "recreational",
+                  "coords": [
+                        74.636885,
+                        42.855215
+                  ]
+            },
+            {
+                  "name": "Muzei N.K. Rerikha",
+                  "text": "Un muzeu cultural dedicat artei, filosofiei și expedițiilor în Asia Centrală ale renumitului pictor Nikolai Roerich.",
+                  "category": "museum",
+                  "coords": [
+                        74.623124,
+                        42.852751
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad imeni Gareeva",
+                  "text": "Înființată în 1938, această grădină botanică științifică a Academiei Naționale de Științe conservă o diversă floră din Asia Centrală.",
+                  "category": "park",
+                  "coords": [
+                        74.637778,
+                        42.826954
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "O biserică ortodoxă rusă din Bișkek închinată Sfântului Vladimir, cu cupole tradiționale și slujbe liturgice regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        74.631059,
+                        42.812701
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "O Sală a Regatului modernă, oferind un loc de întâlnire creștină pentru congregația locală a Martorilor lui Iehova din Bișkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.618077,
+                        42.838371
+                  ]
+            },
+            {
+                  "name": "Tserkov' Boga",
+                  "text": "O casă de rugăciune creștină evanghelică care servește credincioșilor protestanți din capitală cu slujbe de închinare contemporane.",
+                  "category": "landmark",
+                  "coords": [
+                        74.619803,
+                        42.838184
+                  ]
+            },
+            {
+                  "name": "Mechet' pamiati zhertv 7 aprelia",
+                  "text": "Un lăcaș de cult islamic construit special pentru a comemora cetățenii care și-au pierdut viața în timpul revoluției kârgâze din aprilie 2010.",
+                  "category": "landmark",
+                  "coords": [
+                        74.621528,
+                        42.826918
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kudaidyn daryiasy",
+                  "text": "O biserică comunitară creștină protestantă din Bișkek care oferă slujbe biblice regulate și activități de părtășie.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638348,
+                        42.813612
+                  ]
+            },
+            {
+                  "name": "Mechet' Aisha",
+                  "text": "Numită după Aisha, această moschee locală proeminentă deservește comunitatea musulmană din Bișkek cu sălile sale spațioase de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        74.63692,
+                        42.811448
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "Piața centrală principală a orașului, plină de comercianți care vând haine tradiționale kârgâze, carne proaspătă și condimente vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        74.615512,
+                        42.85159
+                  ]
+            },
+            {
+                  "name": "Mini bazarchik",
+                  "text": "O mică piață stradală de cartier care oferă alimente zilnice, lipii proaspăt coapte și produse de uz casnic esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.628342,
+                        42.819841
+                  ]
+            },
+            {
+                  "name": "Ol'ga",
+                  "text": "Un pavilion comercial local din Bișkek, unde rezidenții pot găsi un amestec de produse alimentare rusești și central-asiatice.",
+                  "category": "cultural",
+                  "coords": [
+                        74.631463,
+                        42.81406
+                  ]
+            },
+            {
+                  "name": "Bazarchik Asanbai",
+                  "text": "Piața de cartier dedicată microraionului Asanbai, furnizând în principal alimente proaspete locuitorilor din apartamentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630165,
+                        42.814472
+                  ]
+            },
+            {
+                  "name": "Bannyi kompleks \"Kristallis\"",
+                  "text": "Un complex modern de wellness și băi publice, oferind banya rusească tradițională și facilități de spa relaxante.",
+                  "category": "recreational",
+                  "coords": [
+                        74.631621,
+                        42.829068
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Radi zhizni na zemle",
+                  "text": "A memorial monument in Bishkek honoring the sacrifices of the liquidators who responded to the Chernobyl disaster.",
+                  "category": "historical",
+                  "coords": [
+                        74.604397,
+                        42.826564
+                  ]
+            },
+            {
+                  "name": "Park \"Asanbai\"",
+                  "text": "A family-friendly recreational park in the Asanbai microdistrict featuring walking paths, playgrounds, and amusement rides.",
+                  "category": "recreational",
+                  "coords": [
+                        74.619238,
+                        42.818947
+                  ]
+            },
+            {
+                  "name": "Dasmiia",
+                  "text": "An ethnic entertainment complex famous for housing one of the largest traditional Kyrgyz yurts in the country.",
+                  "category": "recreational",
+                  "coords": [
+                        74.636885,
+                        42.855215
+                  ]
+            },
+            {
+                  "name": "Muzei N.K. Rerikha",
+                  "text": "A cultural museum dedicated to the art, philosophy, and Central Asian expeditions of the renowned painter Nicholas Roerich.",
+                  "category": "museum",
+                  "coords": [
+                        74.623124,
+                        42.852751
+                  ]
+            },
+            {
+                  "name": "Gareyev Botanical Garden",
+                  "text": "Established in 1938, this scientific botanical garden run by the National Academy of Sciences preserves diverse Central Asian flora.",
+                  "category": "park",
+                  "coords": [
+                        74.637778,
+                        42.826954
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "A Russian Orthodox church in Bishkek dedicated to Saint Vladimir, featuring traditional cupolas and regular liturgical services.",
+                  "category": "landmark",
+                  "coords": [
+                        74.631059,
+                        42.812701
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah Witnesses",
+                  "text": "A modern Kingdom Hall providing a Christian meeting place for the local congregation of Jehovah's Witnesses in Bishkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.618077,
+                        42.838371
+                  ]
+            },
+            {
+                  "name": "Tserkov' Boga",
+                  "text": "An evangelical Christian prayer house serving Protestant worshippers in the capital with contemporary worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        74.619803,
+                        42.838184
+                  ]
+            },
+            {
+                  "name": "Mosque in Memory of the Victims of April 7",
+                  "text": "An Islamic place of worship built specifically to commemorate the citizens who lost their lives during the Kyrgyz revolution of April 2010.",
+                  "category": "landmark",
+                  "coords": [
+                        74.621528,
+                        42.826918
+                  ]
+            },
+            {
+                  "name": "Grace Churn",
+                  "text": "A Protestant Christian community church in Bishkek that offers regular biblical services and fellowship activities.",
+                  "category": "landmark",
+                  "coords": [
+                        74.638348,
+                        42.813612
+                  ]
+            },
+            {
+                  "name": "Mechet' Aisha",
+                  "text": "Named after Aisha, this prominent local mosque serves the Bishkek Muslim community with its spacious prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        74.63692,
+                        42.811448
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "The main central market of the city, bustling with vendors selling traditional Kyrgyz garments, fresh meats, and vibrant spices.",
+                  "category": "cultural",
+                  "coords": [
+                        74.615512,
+                        42.85159
+                  ]
+            },
+            {
+                  "name": "Mini bazarchik",
+                  "text": "A small neighborhood street market offering daily groceries, freshly baked flatbread, and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        74.628342,
+                        42.819841
+                  ]
+            },
+            {
+                  "name": "Ol'ga",
+                  "text": "A localized shopping pavilion in Bishkek where residents can find a mix of Russian and Central Asian grocery products.",
+                  "category": "cultural",
+                  "coords": [
+                        74.631463,
+                        42.81406
+                  ]
+            },
+            {
+                  "name": "Bazarchik Asanbai",
+                  "text": "The dedicated neighborhood market for the Asanbai microdistrict, primarily supplying fresh food items to local apartment residents.",
+                  "category": "cultural",
+                  "coords": [
+                        74.630165,
+                        42.814472
+                  ]
+            },
+            {
+                  "name": "Bannyi kompleks \"Kristallis\"",
+                  "text": "A modern wellness and public bath complex featuring traditional Russian banyas and relaxing spa amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        74.631621,
+                        42.829068
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KG-GB",
     coords: [74.619, 42.842],
@@ -663,7 +1383,196 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "chui-valley-agriculture-life-v2",
+    id: "chui-valley-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kara-Zhygach bagy",
+                  "text": "Ein historischer öffentlicher Park, der 1881 angelegt wurde und eine Grünfläche zur Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        74.621734,
+                        42.905088
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov'",
+                  "text": "Eine katholische Kirche, die der örtlichen christlichen Gemeinde als Kultstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.580808,
+                        42.902495
+                  ]
+            },
+            {
+                  "name": "Zhibek-Zholu",
+                  "text": "Ein kommerzieller Handelsmarkt, der nach der historischen Seidenstraße benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.606092,
+                        42.90626
+                  ]
+            },
+            {
+                  "name": "Baiat rynok",
+                  "text": "Ein lokaler Einzelhandelsmarkt, auf dem Verkäufer frische Produkte und Alltagsgegenstände handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        74.573181,
+                        42.900819
+                  ]
+            },
+            {
+                  "name": "Aziz",
+                  "text": "Ein lebendiger Gemeinschaftsmarkt, auf dem sich Einheimische treffen, um Lebensmittel einzukaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        74.575175,
+                        42.898954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kara-Zhygach bagy",
+                  "text": "Egy történelmi közpark, amelyet 1881-ben hoztak létre, zöldövezetet biztosítva a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        74.621734,
+                        42.905088
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov'",
+                  "text": "Egy katolikus templom, amely istentiszteleti helyet biztosít a helyi keresztény gyülekezetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.580808,
+                        42.902495
+                  ]
+            },
+            {
+                  "name": "Zhibek-Zholu",
+                  "text": "A történelmi Selyemútról elnevezett kereskedelmi piac.",
+                  "category": "cultural",
+                  "coords": [
+                        74.606092,
+                        42.90626
+                  ]
+            },
+            {
+                  "name": "Baiat rynok",
+                  "text": "Egy helyi kiskereskedelmi piac, ahol az árusok friss termékekkel és mindennapi cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        74.573181,
+                        42.900819
+                  ]
+            },
+            {
+                  "name": "Aziz",
+                  "text": "Egy élénk közösségi piac, ahol a helyiek összegyűlnek, hogy élelmiszert vásároljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        74.575175,
+                        42.898954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kara-Zhygach bagy",
+                  "text": "Un parc public istoric înființat în 1881, oferind un spațiu verde pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        74.621734,
+                        42.905088
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov'",
+                  "text": "O biserică catolică care servește drept lăcaș de cult pentru congregația creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.580808,
+                        42.902495
+                  ]
+            },
+            {
+                  "name": "Zhibek-Zholu",
+                  "text": "O piață comercială de tranzacționare numită după istoricul Drum al Mătăsii.",
+                  "category": "cultural",
+                  "coords": [
+                        74.606092,
+                        42.90626
+                  ]
+            },
+            {
+                  "name": "Baiat rynok",
+                  "text": "O piață locală de vânzare cu amănuntul unde vânzătorii comercializează produse proaspete și articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        74.573181,
+                        42.900819
+                  ]
+            },
+            {
+                  "name": "Aziz",
+                  "text": "O piață comunitară vibrantă unde localnicii se adună pentru a cumpăra provizii.",
+                  "category": "cultural",
+                  "coords": [
+                        74.575175,
+                        42.898954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kara-Zhygach bagy",
+                  "text": "A historic public park established in 1881, providing a green space for recreation.",
+                  "category": "park",
+                  "coords": [
+                        74.621734,
+                        42.905088
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov'",
+                  "text": "A Catholic church providing a place of worship for the local Christian congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        74.580808,
+                        42.902495
+                  ]
+            },
+            {
+                  "name": "Zhibek-Zholu",
+                  "text": "A commercial trading market named after the historic Silk Road.",
+                  "category": "cultural",
+                  "coords": [
+                        74.606092,
+                        42.90626
+                  ]
+            },
+            {
+                  "name": "Baiat rynok",
+                  "text": "A local retail market where vendors trade fresh produce and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        74.573181,
+                        42.900819
+                  ]
+            },
+            {
+                  "name": "Aziz",
+                  "text": "A vibrant community marketplace where locals gather to buy provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        74.575175,
+                        42.898954
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KG-C",
     coords: [74.6, 42.9],
@@ -707,7 +1616,88 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "fergana-cotton-kg-life-v2",
+    id: "fergana-cotton-kg-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dardoq jome' masjidi",
+                  "text": "Eine Freitagsmoschee inmitten der Baumwollanbaugebiete des Ferghanatals, die der ländlichen muslimischen Bevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.826776,
+                        40.813983
+                  ]
+            },
+            {
+                  "name": "Tosh masjid jome' masjidi",
+                  "text": "Diese islamische Freitagsmoschee, bekannt als 'Steinmoschee', ist ein markantes Bauwerk in der landwirtschaftlich geprägten Ferghana-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.737688,
+                        40.823795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dardoq jome' masjidi",
+                  "text": "Egy pénteki mecset a Fergana-völgy gyapottermesztő vidékeinek szívében, amely a vidéki muszlim lakosságot szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.826776,
+                        40.813983
+                  ]
+            },
+            {
+                  "name": "Tosh masjid jome' masjidi",
+                  "text": "Ez a 'Kőmecsetként' ismert iszlám pénteki mecset egy feltűnő épület a mezőgazdasági jellegű Fergana régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.737688,
+                        40.823795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dardoq jome' masjidi",
+                  "text": "O moschee de vineri în mijlocul zonelor de cultivare a bumbacului din Valea Fergana, care deservește populația musulmană rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        72.826776,
+                        40.813983
+                  ]
+            },
+            {
+                  "name": "Tosh masjid jome' masjidi",
+                  "text": "Această moschee islamică de vineri, cunoscută sub numele de „Moscheea de piatră”, este o structură marcantă în regiunea agricolă Fergana.",
+                  "category": "landmark",
+                  "coords": [
+                        72.737688,
+                        40.823795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dardoq jome' masjidi",
+                  "text": "A Friday mosque amidst the cotton-growing areas of the Fergana Valley, serving the rural Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        72.826776,
+                        40.813983
+                  ]
+            },
+            {
+                  "name": "Tosh masjid jome' masjidi",
+                  "text": "This Islamic Friday mosque, known as the 'Stone Mosque', is a striking structure in the agricultural Fergana region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.737688,
+                        40.823795
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KG-J",
     coords: [72.8, 40.9],
@@ -751,7 +1741,196 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "uzgen-rice-fields-life-v2",
+    id: "uzgen-rice-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mechit \"Tashlak 2\"",
+                  "text": "Umgeben von der landwirtschaftlichen Landschaft der Reisfelder von Ösgön dient diese Moschee der bäuerlichen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        73.324243,
+                        40.756703
+                  ]
+            },
+            {
+                  "name": "Mechit \"Saidmukhammad\"",
+                  "text": "Ein lokaler Ort muslimischer Gottesdienste inmitten der fruchtbaren Reisanbaugebiete von Ösgön.",
+                  "category": "landmark",
+                  "coords": [
+                        73.325186,
+                        40.759823
+                  ]
+            },
+            {
+                  "name": "Mechit \"Raimbai\"",
+                  "text": "Diese Gemeindemoschee ist ein spiritueller Anker für die Bewohner, die auf den umliegenden Reisfeldern von Ösgön arbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        73.319407,
+                        40.760661
+                  ]
+            },
+            {
+                  "name": "eski mechit",
+                  "text": "Ein älteres Moscheegebäude, das das traditionelle islamische Architekturerbe im Reisfeldgebiet von Ösgön bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.218095,
+                        40.725978
+                  ]
+            },
+            {
+                  "name": "Eldik Mechit",
+                  "text": "Diese als Volksmoschee bekannte Stätte bietet den Landarbeitern von Ösgön einen gemeinschaftlichen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22766,
+                        40.723209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mechit \"Tashlak 2\"",
+                  "text": "Az üzgeni rizsföldek mezőgazdasági tájával körülvett mecset a mezőgazdasági közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.324243,
+                        40.756703
+                  ]
+            },
+            {
+                  "name": "Mechit \"Saidmukhammad\"",
+                  "text": "Helyi muszlim istentiszteleti hely, amely Üzgen termékeny rizstermesztő régióiban található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.325186,
+                        40.759823
+                  ]
+            },
+            {
+                  "name": "Mechit \"Raimbai\"",
+                  "text": "Ez a közösségi mecset spirituális horgonyként szolgál a környező üzgeni rizsföldeken dolgozó lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.319407,
+                        40.760661
+                  ]
+            },
+            {
+                  "name": "eski mechit",
+                  "text": "Egy régebbi mecsetépület, amely megőrzi a hagyományos iszlám építészeti örökséget az üzgeni rizsföldeken.",
+                  "category": "landmark",
+                  "coords": [
+                        73.218095,
+                        40.725978
+                  ]
+            },
+            {
+                  "name": "Eldik Mechit",
+                  "text": "A nép mecsetjeként ismert hely közösségi imateret biztosít Üzgen mezőgazdasági munkásainak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22766,
+                        40.723209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mechit \"Tashlak 2\"",
+                  "text": "Înconjurată de peisajul agricol al câmpurilor de orez din Uzgen, această moschee deservește comunitatea de fermieri.",
+                  "category": "landmark",
+                  "coords": [
+                        73.324243,
+                        40.756703
+                  ]
+            },
+            {
+                  "name": "Mechit \"Saidmukhammad\"",
+                  "text": "Un lăcaș de cult musulman local situat în mijlocul regiunilor fertile cultivatoare de orez din Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.325186,
+                        40.759823
+                  ]
+            },
+            {
+                  "name": "Mechit \"Raimbai\"",
+                  "text": "Această moschee comunitară este o ancoră spirituală pentru rezidenții care lucrează pe câmpurile de orez din jur din Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.319407,
+                        40.760661
+                  ]
+            },
+            {
+                  "name": "eski mechit",
+                  "text": "O structură de moschee mai veche, care păstrează moștenirea arhitecturală islamică tradițională în zona câmpurilor de orez din Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.218095,
+                        40.725978
+                  ]
+            },
+            {
+                  "name": "Eldik Mechit",
+                  "text": "Cunoscut sub numele de moscheea poporului, acest site oferă un spațiu de rugăciune comunitară pentru muncitorii agricoli din Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22766,
+                        40.723209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mechit \"Tashlak 2\"",
+                  "text": "Surrounded by the agricultural landscape of Uzgen's rice fields, this mosque serves the farming community.",
+                  "category": "landmark",
+                  "coords": [
+                        73.324243,
+                        40.756703
+                  ]
+            },
+            {
+                  "name": "Mechit \"Saidmukhammad\"",
+                  "text": "A local place of Muslim worship situated amidst the fertile rice-growing regions of Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.325186,
+                        40.759823
+                  ]
+            },
+            {
+                  "name": "Mechit \"Raimbai\"",
+                  "text": "This community mosque is a spiritual anchor for the residents working in the surrounding rice fields of Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.319407,
+                        40.760661
+                  ]
+            },
+            {
+                  "name": "eski mechit",
+                  "text": "An older mosque structure that preserves the traditional Islamic architectural heritage in the Uzgen rice field area.",
+                  "category": "landmark",
+                  "coords": [
+                        73.218095,
+                        40.725978
+                  ]
+            },
+            {
+                  "name": "Eldik Mechit",
+                  "text": "Known as the people's mosque, this site provides communal prayer space for the agricultural workers of Uzgen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22766,
+                        40.723209
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KG-O",
     coords: [73.3, 40.76],
@@ -795,7 +1974,592 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "flamingo-amusement-park-bishkek-life-v2",
+    id: "flamingo-amusement-park-bishkek-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boz-Boltok",
+                  "text": "Dieser Aussichtspunkt auf einem Hügel südlich von Bischkek bietet einen weiten Panoramablick und wird von einer riesigen Flagge markiert.",
+                  "category": "natural",
+                  "coords": [
+                        74.608594,
+                        42.795861
+                  ]
+            },
+            {
+                  "name": "Konservatoriia",
+                  "text": "Die Nationalkonservatorium ist das Zentrum der klassischen Musikausbildung in Kirgisistan und beherbergt einen Konzertsaal.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57317,
+                        42.836566
+                  ]
+            },
+            {
+                  "name": "Muzei velikoi pustoty",
+                  "text": "Diese unkonventionelle Kunstgalerie befindet sich in einem ehemaligen Industriegebäude und ist dem Konzept der „Großen Leere“ gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        74.594246,
+                        42.802911
+                  ]
+            },
+            {
+                  "name": "Kyrgyzskii natsional'nyi teatr Manas",
+                  "text": "Dieses Nationaltheater ist nach dem Helden des kirgisischen Epos Manas benannt und zeigt traditionelle kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57731,
+                        42.809013
+                  ]
+            },
+            {
+                  "name": "Royal Fish",
+                  "text": "Dieser Wasserpark bietet mit verschiedenen Schwimmbecken und Rutschen eine beliebte Abkühlung in der Nähe von Bischkek.",
+                  "category": "recreational",
+                  "coords": [
+                        74.64169,
+                        42.761505
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Diese lokale Moschee dient als geistliches Zentrum für die muslimische Gemeinde in diesem Vorort von Bischkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.612263,
+                        42.806353
+                  ]
+            },
+            {
+                  "name": "Abdulkerim Satuk Bagra Khan mechiti",
+                  "text": "Die Moschee ist nach Abdulkerim Satuk Bagra Khan benannt, dem ersten Herrscher der Karachaniden, der zum Islam konvertierte.",
+                  "category": "landmark",
+                  "coords": [
+                        74.570019,
+                        42.837844
+                  ]
+            },
+            {
+                  "name": "Mechet' sela Yntymak",
+                  "text": "Die Dorfmoschee von Yntymak ist ein schlichter Ort des Gebets für die Bewohner der ländlichen Siedlung am Rande der Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.567937,
+                        42.814906
+                  ]
+            },
+            {
+                  "name": "Ak-Sana",
+                  "text": "Die Ak-Sana-Moschee bietet den Gläubigen der Umgebung Raum für die täglichen Gebete und religiöse Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        74.542431,
+                        42.837882
+                  ]
+            },
+            {
+                  "name": "156v Abbas mechet'",
+                  "text": "Die Abbas-Moschee ist ein lokales muslimisches Gotteshaus, das die spirituellen Bedürfnisse des umliegenden Wohngebiets erfüllt.",
+                  "category": "religious",
+                  "coords": [
+                        74.603145,
+                        42.80464
+                  ]
+            },
+            {
+                  "name": "Firdaus",
+                  "text": "Die Firdaus-Moschee ist eine Gemeindemoschee, die durch ihre schlichte Architektur und ruhige Atmosphäre im Vorort besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        74.563919,
+                        42.830063
+                  ]
+            },
+            {
+                  "name": "Garden SPA",
+                  "text": "Diese moderne Spa-Einrichtung bietet eine Kombination aus traditionellen Bädern, Saunen und Wellness-Behandlungen.",
+                  "category": "recreational",
+                  "coords": [
+                        74.559516,
+                        42.830303
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Ontario\"",
+                  "text": "Der Ontario-Komplex ist eine Wellness-Oase mit verschiedenen Saunen und einem Pool zur Erholung vom Stadtalltag.",
+                  "category": "recreational",
+                  "coords": [
+                        74.566416,
+                        42.841897
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Dieses öffentliche Badehaus pflegt die Kultur der Banya mit heißen Dampfräumen und traditionellen Birkenzweig-Massagen.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552037,
+                        42.83467
+                  ]
+            },
+            {
+                  "name": "Atlant bania",
+                  "text": "Das Atlant-Badehaus bietet klassische Dampfbäder und Erholungsräume für Gäste, die eine traditionelle Banya-Erfahrung suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552695,
+                        42.836137
+                  ]
+            },
+            {
+                  "name": "Kudaibergen",
+                  "text": "Dieses Badehaus in der Nähe des Kudaibergen-Marktes bietet bequeme Wasch- und Saunamöglichkeiten für Händler und Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        74.543398,
+                        42.833276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boz-Boltok",
+                  "text": "Ez a Biskek-től délre fekvő dombtetőn található kilátópont széles panorámát kínál, és egy hatalmas zászlórúd jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        74.608594,
+                        42.795861
+                  ]
+            },
+            {
+                  "name": "Konservatoriia",
+                  "text": "A Nemzeti Konzervatórium a kirgizisztáni klasszikus zenei oktatás központja, amely egy koncertteremnek is otthont ad.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57317,
+                        42.836566
+                  ]
+            },
+            {
+                  "name": "Muzei velikoi pustoty",
+                  "text": "Ez a szokatlan művészeti galéria egy egykori ipari épületben található, és a „Nagy Üresség” koncepciójának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        74.594246,
+                        42.802911
+                  ]
+            },
+            {
+                  "name": "Kyrgyzskii natsional'nyi teatr Manas",
+                  "text": "Ezt a nemzeti színházat a kirgiz eposz hőséről, Manaszról nevezték el, és hagyományos kulturális előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57731,
+                        42.809013
+                  ]
+            },
+            {
+                  "name": "Royal Fish",
+                  "text": "Ez a vízipark különféle medencékkel és csúszdákkal kínál kedvelt felfrissülést Biskek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        74.64169,
+                        42.761505
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Ez a helyi mecset szellemi központként szolgál a biskeki előváros muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.612263,
+                        42.806353
+                  ]
+            },
+            {
+                  "name": "Abdulkerim Satuk Bagra Khan mechiti",
+                  "text": "A mecsetet Abdulkerim Satuk Bagra Khanról, az első iszlám hitre tért karahanida uralkodóról nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        74.570019,
+                        42.837844
+                  ]
+            },
+            {
+                  "name": "Mechet' sela Yntymak",
+                  "text": "Yntymak falu mecsete egy egyszerű imádsági hely a főváros szélén található vidéki település lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.567937,
+                        42.814906
+                  ]
+            },
+            {
+                  "name": "Ak-Sana",
+                  "text": "Az Ak-Sana mecset a környék hívőinek biztosít helyet a napi imákhoz és vallási gyülekezetekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        74.542431,
+                        42.837882
+                  ]
+            },
+            {
+                  "name": "156v Abbas mechet'",
+                  "text": "Az Abbas mecset egy helyi muszlim imaház, amely a környező lakónegyed hitéleti igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        74.603145,
+                        42.80464
+                  ]
+            },
+            {
+                  "name": "Firdaus",
+                  "text": "A Firdaus mecset egy közösségi mecset, amely egyszerű építészetével és nyugodt légkörével tűnik ki az elővárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.563919,
+                        42.830063
+                  ]
+            },
+            {
+                  "name": "Garden SPA",
+                  "text": "Ez a modern wellness-létesítmény a hagyományos fürdők, szaunák és wellness-kezelések kombinációját kínálja.",
+                  "category": "recreational",
+                  "coords": [
+                        74.559516,
+                        42.830303
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Ontario\"",
+                  "text": "Az Ontario komplexum egy wellness-oázis különféle szaunákkal és egy medencével a városi mindennapokból való kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        74.566416,
+                        42.841897
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Ez a nyilvános fürdő a banya kultúráját ápolja forró gőzkabinokkal és hagyományos nyírfavesszős masszázzsal.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552037,
+                        42.83467
+                  ]
+            },
+            {
+                  "name": "Atlant bania",
+                  "text": "Az Atlant fürdő klasszikus gőzfürdőket és pihenőszobákat kínál a hagyományos banya-élményt kereső vendégeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552695,
+                        42.836137
+                  ]
+            },
+            {
+                  "name": "Kudaibergen",
+                  "text": "Ez a Kudaibergen piac közelében található fürdő kényelmes mosdási és szaunázási lehetőséget biztosít a kereskedőknek és látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        74.543398,
+                        42.833276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boz-Boltok",
+                  "text": "Acest punct de belvedere de pe un deal la sud de Bișkek oferă o panoramă vastă și este marcat de un steag uriaș.",
+                  "category": "natural",
+                  "coords": [
+                        74.608594,
+                        42.795861
+                  ]
+            },
+            {
+                  "name": "Konservatoriia",
+                  "text": "Conservatorul Național este centrul educației muzicale clasice din Kârgâzstan și găzduiește o sală de concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57317,
+                        42.836566
+                  ]
+            },
+            {
+                  "name": "Muzei velikoi pustoty",
+                  "text": "Această galerie de artă neconvențională este situată într-o fostă clădire industrială și este dedicată conceptului „Marii Vidități”.",
+                  "category": "museum",
+                  "coords": [
+                        74.594246,
+                        42.802911
+                  ]
+            },
+            {
+                  "name": "Kyrgyzskii natsional'nyi teatr Manas",
+                  "text": "Acest teatru național poartă numele eroului epopeii kârgâze, Manas, și prezintă spectacole culturale tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57731,
+                        42.809013
+                  ]
+            },
+            {
+                  "name": "Royal Fish",
+                  "text": "Acest parc acvatic oferă răcoarea dorită prin diverse piscine și tobogane, fiind situat în apropiere de Bișkek.",
+                  "category": "recreational",
+                  "coords": [
+                        74.64169,
+                        42.761505
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Această moschee locală servește drept centru spiritual pentru comunitatea musulmană din această suburbie a orașului Bișkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.612263,
+                        42.806353
+                  ]
+            },
+            {
+                  "name": "Abdulkerim Satuk Bagra Khan mechiti",
+                  "text": "Moscheea poartă numele lui Abdulkerim Satuk Bagra Khan, primul conducător karahanid care s-a convertit la islam.",
+                  "category": "landmark",
+                  "coords": [
+                        74.570019,
+                        42.837844
+                  ]
+            },
+            {
+                  "name": "Mechet' sela Yntymak",
+                  "text": "Moscheea satului Yntymak este un lăcaș de rugăciune simplu pentru locuitorii așezării rurale de la marginea capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        74.567937,
+                        42.814906
+                  ]
+            },
+            {
+                  "name": "Ak-Sana",
+                  "text": "Moscheea Ak-Sana oferă credincioșilor din zonă spațiu pentru rugăciunile zilnice și adunările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        74.542431,
+                        42.837882
+                  ]
+            },
+            {
+                  "name": "156v Abbas mechet'",
+                  "text": "Moscheea Abbas este un lăcaș de cult musulman local care deservește nevoile spirituale ale zonei rezidențiale din jur.",
+                  "category": "religious",
+                  "coords": [
+                        74.603145,
+                        42.80464
+                  ]
+            },
+            {
+                  "name": "Firdaus",
+                  "text": "Moscheea Firdaus este o moschee comunitară care se remarcă prin arhitectura sa simplă și atmosfera liniștită din suburbie.",
+                  "category": "landmark",
+                  "coords": [
+                        74.563919,
+                        42.830063
+                  ]
+            },
+            {
+                  "name": "Garden SPA",
+                  "text": "Această facilitate spa modernă oferă o combinație de băi tradiționale, saune și tratamente de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        74.559516,
+                        42.830303
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Ontario\"",
+                  "text": "Complexul Ontario este o oază de wellness cu diverse saune și o piscină pentru relaxare după rutina zilnică a orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        74.566416,
+                        42.841897
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Această baie publică cultivă cultura băii rusești (bania) cu camere cu aburi fierbinți și masaje tradiționale cu mături de mesteacăn.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552037,
+                        42.83467
+                  ]
+            },
+            {
+                  "name": "Atlant bania",
+                  "text": "Baia Atlant oferă băi clasice cu aburi și camere de relaxare pentru oaspeții care caută o experiență tradițională de tip bania.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552695,
+                        42.836137
+                  ]
+            },
+            {
+                  "name": "Kudaibergen",
+                  "text": "Această baie situată lângă piața Kudaibergen oferă facilități convenabile de spălare și saună pentru comercianți și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        74.543398,
+                        42.833276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boz-Boltok",
+                  "text": "This hilltop viewpoint south of Bishkek offers a wide panoramic view and is marked by a monumental flagpole.",
+                  "category": "natural",
+                  "coords": [
+                        74.608594,
+                        42.795861
+                  ]
+            },
+            {
+                  "name": "Konservatoriia",
+                  "text": "The National Conservatory is the center of classical music education in Kyrgyzstan and houses a concert hall.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57317,
+                        42.836566
+                  ]
+            },
+            {
+                  "name": "Muzei velikoi pustoty",
+                  "text": "This unconventional art gallery is located in a former industrial building and is dedicated to the concept of 'The Great Emptiness'.",
+                  "category": "museum",
+                  "coords": [
+                        74.594246,
+                        42.802911
+                  ]
+            },
+            {
+                  "name": "Kyrgyzskii natsional'nyi teatr Manas",
+                  "text": "This national theater is named after the hero of the Kyrgyz epic Manas and hosts traditional cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        74.57731,
+                        42.809013
+                  ]
+            },
+            {
+                  "name": "Royal Fish",
+                  "text": "This water park offers a popular way to cool off with various swimming pools and slides near Bishkek.",
+                  "category": "recreational",
+                  "coords": [
+                        74.64169,
+                        42.761505
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "This local mosque serves as a spiritual center for the Muslim community in this Bishkek suburb.",
+                  "category": "landmark",
+                  "coords": [
+                        74.612263,
+                        42.806353
+                  ]
+            },
+            {
+                  "name": "Abdulkerim Satuk Bagra Khan",
+                  "text": "The mosque is named after Abdulkerim Satuk Bagra Khan, the first Karakhanid ruler to convert to Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        74.570019,
+                        42.837844
+                  ]
+            },
+            {
+                  "name": "Mechet' sela Yntymak",
+                  "text": "The village mosque of Yntymak is a simple place of prayer for residents of the rural settlement on the outskirts of the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        74.567937,
+                        42.814906
+                  ]
+            },
+            {
+                  "name": "Ak-Sana",
+                  "text": "The Ak-Sana mosque provides space for the local faithful to attend daily prayers and religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        74.542431,
+                        42.837882
+                  ]
+            },
+            {
+                  "name": "156v Abbas mechet'",
+                  "text": "The Abbas mosque is a local Muslim place of worship serving the spiritual needs of the surrounding residential area.",
+                  "category": "religious",
+                  "coords": [
+                        74.603145,
+                        42.80464
+                  ]
+            },
+            {
+                  "name": "Firdaus",
+                  "text": "The Firdaus mosque is a community mosque noted for its simple architecture and peaceful atmosphere in the suburb.",
+                  "category": "landmark",
+                  "coords": [
+                        74.563919,
+                        42.830063
+                  ]
+            },
+            {
+                  "name": "Garden SPA",
+                  "text": "This modern spa facility offers a combination of traditional baths, saunas, and wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        74.559516,
+                        42.830303
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Ontario\"",
+                  "text": "The Ontario complex is a wellness oasis featuring various saunas and a pool for relaxation away from the city's daily grind.",
+                  "category": "recreational",
+                  "coords": [
+                        74.566416,
+                        42.841897
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "This public bathhouse maintains the culture of the banya with hot steam rooms and traditional birch branch massages.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552037,
+                        42.83467
+                  ]
+            },
+            {
+                  "name": "Atlant bania",
+                  "text": "The Atlant bathhouse offers classic steam baths and relaxation rooms for guests seeking a traditional banya experience.",
+                  "category": "recreational",
+                  "coords": [
+                        74.552695,
+                        42.836137
+                  ]
+            },
+            {
+                  "name": "Kudaibergen",
+                  "text": "Located near the Kudaibergen market, this bathhouse provides convenient washing and sauna facilities for traders and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        74.543398,
+                        42.833276
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "KG-GB",
     coords: [74.577, 42.825],
@@ -839,7 +2603,124 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
     },
   },
   {
-    id: "aitmatov-park-bishkek-life-v2",
+    id: "aitmatov-park-bishkek-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Botanischer Garten, Arboretum",
+                  "text": "Der Botanische Garten der Nationalen Akademie der Wissenschaften der Kirgisischen Republik verfügt über ein Arboretum mit vielfältigen Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        74.590437,
+                        42.859046
+                  ]
+            },
+            {
+                  "name": "Mechet' \"Khasan\"",
+                  "text": "Eine lokale islamische Moschee, die den Muslimen als Ort des Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.551421,
+                        42.852743
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Ein Königreichssaal, der der örtlichen Gemeinschaft der Zeugen Jehovas dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.569971,
+                        42.848574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dendrarii-zapovednik imeni Gareeva",
+                  "text": "A Kirgiz Köztársaság Nemzeti Tudományos Akadémiájának botanikus kertje egy arborétummal is rendelkezik, amely változatos növényfajokat mutat be.",
+                  "category": "park",
+                  "coords": [
+                        74.590437,
+                        42.859046
+                  ]
+            },
+            {
+                  "name": "Mechet' \"Khasan\"",
+                  "text": "Egy helyi iszlám mecset, amely a muszlimok imádkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        74.551421,
+                        42.852743
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "Egy Királyság-terem, amely a helyi Jehova Tanúi közösségét szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        74.569971,
+                        42.848574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dendrarii-zapovednik imeni Gareeva",
+                  "text": "Grădina Botanică a Academiei Naționale de Științe a Republicii Kârgâze are un parc dendrologic cu diverse specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        74.590437,
+                        42.859046
+                  ]
+            },
+            {
+                  "name": "Mechet' \"Khasan\"",
+                  "text": "O moschee islamică locală care oferă un loc de rugăciune pentru musulmani.",
+                  "category": "religious",
+                  "coords": [
+                        74.551421,
+                        42.852743
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "O Sală a Regatului care deservește comunitatea locală a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        74.569971,
+                        42.848574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Botanical Garden, Arboretum",
+                  "text": "The Botanical Garden of the National Academy of Sciences of the Kyrgyz Republic features an arboretum with diverse plant species.",
+                  "category": "park",
+                  "coords": [
+                        74.590437,
+                        42.859046
+                  ]
+            },
+            {
+                  "name": "Mechet' \"Khasan\"",
+                  "text": "A local Islamic mosque offering a place for Muslim prayer.",
+                  "category": "religious",
+                  "coords": [
+                        74.551421,
+                        42.852743
+                  ]
+            },
+            {
+                  "name": "Zal Tsarstva Svidetelei Iegovy",
+                  "text": "A Kingdom Hall serving the local Jehovah's Witnesses community.",
+                  "category": "religious",
+                  "coords": [
+                        74.569971,
+                        42.848574
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KG-GB",
     coords: [74.588, 42.855],

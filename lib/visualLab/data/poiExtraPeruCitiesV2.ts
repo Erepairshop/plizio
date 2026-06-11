@@ -101,7 +101,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Arqueologico",
-                  "text": "Das Museo Arqueologico ist ein Museum in der Stadt Trujillo.",
+                  "text": "Das Museo Arqueológico in Trujillo beherbergt präkolumbische Artefakte der Moche- und Chimu-Kulturen.",
                   "category": "museum",
                   "coords": [
                         -79.024283,
@@ -110,7 +110,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio Hector Acuña",
-                  "text": "Das Auditorio Hector Acuña ist ein Theater in Trujillo.",
+                  "text": "Das Auditorio Hector Acuña in Trujillo ist ein moderner Veranstaltungssaal für Konzerte und Events.",
                   "category": "cultural",
                   "coords": [
                         -79.042693,
@@ -119,7 +119,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Catedralicio",
-                  "text": "Catedralicio ist ein Museum in der Stadt Trujillo.",
+                  "text": "Das Museo Catedralicio in Trujillo befindet sich in der Kathedrale und zeigt religiöse Kunst und Gegenstände.",
                   "category": "museum",
                   "coords": [
                         -79.028271,
@@ -128,7 +128,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "Das Museo de Zoología Juan Ormea Rodríguez ist ein Museum in Trujillo.",
+                  "text": "Das Museo de Zoología Juan Ormea Rodríguez in Trujillo zeigt eine Sammlung peruanischer Fauna.",
                   "category": "museum",
                   "coords": [
                         -79.030592,
@@ -137,7 +137,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "Das Teatro Victor Raul Lozano Ibañez ist ein Theater in Trujillo.",
+                  "text": "Das Teatro Victor Raul Lozano Ibañez in Trujillo ist ein Theater für Schauspiel und Musikaufführungen.",
                   "category": "cultural",
                   "coords": [
                         -79.031158,
@@ -146,7 +146,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Magic Piscina",
-                  "text": "Magic Piscina ist ein Wasserpark in der Stadt Trujillo.",
+                  "text": "Die Magic Piscina in Trujillo ist ein Familienbad mit Swimmingpools und Wasserrutschen.",
                   "category": "family",
                   "coords": [
                         -79.005489,
@@ -155,7 +155,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Das Teatro Municipal ist ein lokales Theater in Trujillo.",
+                  "text": "Das Teatro Municipal in Trujillo ist ein historisches Theater im neoklassizistischen Stil, das kulturelle Veranstaltungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -79.024652,
@@ -164,7 +164,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "Das Museo de Arte Contemporaneo Urm Max Lois ist ein Kunstmuseum in Trujillo.",
+                  "text": "Das Museo de Arte Contemporaneo Urm Max Lois in Trujillo zeigt wechselnde Ausstellungen moderner Kunst.",
                   "category": "museum",
                   "coords": [
                         -79.012766,
@@ -173,7 +173,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Huaca Parana",
-                  "text": "Huaca Parana ist eine archäologische Stätte in Trujillo.",
+                  "text": "Die Huaca Parana in Trujillo ist eine antike Moche-Pyramide am Stadtrand.",
                   "category": "historical",
                   "coords": [
                         -79.0265,
@@ -182,7 +182,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Juguete",
-                  "text": "Das Museo de Juguete ist ein Museum in Trujillo.",
+                  "text": "Das Museo de Juguete in Trujillo zeigt eine Sammlung historischer und moderner Spielzeuge.",
                   "category": "museum",
                   "coords": [
                         -79.026705,
@@ -191,7 +191,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Campo Ferial",
-                  "text": "Campo Ferial ist ein Freizeitpark in Trujillo.",
+                  "text": "Der Campo Ferial in Trujillo ist ein großer Messegelände für Jahrmärkte und Ausstellungen.",
                   "category": "family",
                   "coords": [
                         -79.033771,
@@ -209,7 +209,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Liga de Artesanos",
-                  "text": "Liga de Artesanos ist ein Kunstzentrum in Trujillo.",
+                  "text": "Die Liga de Artesanos in Trujillo ist ein Kulturzentrum und Markt für lokale Kunsthandwerker.",
                   "category": "cultural",
                   "coords": [
                         -79.025565,
@@ -218,7 +218,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Soocer city (Deportes)",
-                  "text": "Soocer city (Deportes) ist eine Touristenattraktion in Trujillo.",
+                  "text": "Der Soocer City (Deportes) in Trujillo ist ein Sportkomplex mit Fußballplätzen und Anlagen.",
                   "category": "landmark",
                   "coords": [
                         -79.051335,
@@ -227,7 +227,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "ÓVALO MOCHICA",
-                  "text": "ÓVALO MOCHE ist eine bekannte Attraktion in Trujillo.",
+                  "text": "Der ÓVALO MOCHE in Trujillo ist ein großer Kreisverkehr mit Skulpturen, die an die Moche-Kultur erinnern.",
                   "category": "landmark",
                   "coords": [
                         -79.039133,
@@ -236,7 +236,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Estatua de Friedrich Engels",
-                  "text": "Die Estatua de Friedrich Engels ist ein Denkmal in Trujillo.",
+                  "text": "Die Estatua de Friedrich Engels in Trujillo steht in einem Park und erinnert an den Philosophen.",
                   "category": "historical",
                   "coords": [
                         -79.008079,
@@ -254,7 +254,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sare",
-                  "text": "Sare ist eine Kunstgalerie in der Stadt Trujillo.",
+                  "text": "Das Museum Sare in Trujillo zeigt kulturelles Erbe und lokale Traditionen.",
                   "category": "museum",
                   "coords": [
                         -79.034914,
@@ -263,7 +263,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bellas Artes",
-                  "text": "Bellas Artes ist eine Galerie in Trujillo.",
+                  "text": "Das Museo Bellas Artes in Trujillo zeigt Gemälde und Skulpturen regionaler Künstler.",
                   "category": "museum",
                   "coords": [
                         -79.035373,
@@ -272,7 +272,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de La Merced",
-                  "text": "Die Iglesia de La Merced ist eine Kultstätte in Trujillo.",
+                  "text": "Die Iglesia de La Merced in Trujillo ist eine barocke Kolonialkirche aus dem 16. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -79.026855,
@@ -283,7 +283,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Arqueologico",
-                  "text": "A Museo Arqueologico egy múzeum Trujillo városában.",
+                  "text": "A trujillói Museo Arqueológico a moche és chimu kultúrák prekolumbiánus leleteit őrzi.",
                   "category": "museum",
                   "coords": [
                         -79.024283,
@@ -292,7 +292,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio Hector Acuña",
-                  "text": "Az Auditorio Hector Acuña egy színház Trujillóban.",
+                  "text": "A trujillói Auditorio Hector Acuña egy modern előadóterem koncertek és események számára.",
                   "category": "cultural",
                   "coords": [
                         -79.042693,
@@ -301,7 +301,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Catedralicio",
-                  "text": "A Catedralicio egy múzeum Trujillo városában.",
+                  "text": "A trujillói Museo Catedralicio a székesegyházban található, egyházi művészetet és tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         -79.028271,
@@ -310,7 +310,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "A Museo de Zoología Juan Ormea Rodríguez egy múzeum Trujillo városában.",
+                  "text": "A trujillói Museo de Zoología Juan Ormea Rodríguez a perui fauna gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -79.030592,
@@ -319,7 +319,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "A Teatro Victor Raul Lozano Ibañez egy színház Trujillo városában.",
+                  "text": "A trujillói Teatro Victor Raul Lozano Ibañez színházi előadások és zenei koncertek helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -79.031158,
@@ -328,7 +328,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Magic Piscina",
-                  "text": "A Magic Piscina egy vízi park Trujillo városában.",
+                  "text": "A trujillói Magic Piscina egy családi vízipark úszómedencékkel és csúszdákkal.",
                   "category": "family",
                   "coords": [
                         -79.005489,
@@ -337,7 +337,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "A Teatro Municipal egy színház Trujillo városában.",
+                  "text": "A trujillói Teatro Municipal egy neoklasszicista stílusú történelmi színház, kulturális eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -79.024652,
@@ -346,7 +346,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "A Museo de Arte Contemporaneo Urm Max Lois egy művészeti múzeum Trujillo városában.",
+                  "text": "A trujillói Museo de Arte Contemporaneo Urm Max Lois kortárs művészeti kiállításokat kínál.",
                   "category": "museum",
                   "coords": [
                         -79.012766,
@@ -355,7 +355,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Huaca Parana",
-                  "text": "A Huaca Parana egy régészeti lelőhely Trujillo városában.",
+                  "text": "A trujillói Huaca Parana egy ősi moche piramis a város szélén.",
                   "category": "historical",
                   "coords": [
                         -79.0265,
@@ -364,7 +364,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Juguete",
-                  "text": "A Museo de Juguete egy múzeum Trujillo városában.",
+                  "text": "A trujillói Museo de Juguete történelmi és modern játékok gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -79.026705,
@@ -373,7 +373,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Campo Ferial",
-                  "text": "A Campo Ferial egy vidámpark Trujillo városában.",
+                  "text": "A trujillói Campo Ferial egy nagy vásártér, ahol éves vásárokat és kiállításokat tartanak.",
                   "category": "family",
                   "coords": [
                         -79.033771,
@@ -391,7 +391,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Liga de Artesanos",
-                  "text": "A Liga de Artesanos egy művészeti központ Trujillo városában.",
+                  "text": "A trujillói Liga de Artesanos egy kultúrközpont és piac helyi kézművesek számára.",
                   "category": "cultural",
                   "coords": [
                         -79.025565,
@@ -400,7 +400,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Soocer city (Deportes)",
-                  "text": "A Soocer city (Deportes) egy turisztikai látványosság Trujillo városában.",
+                  "text": "A trujillói Soocer City (Deportes) egy sportkomplexum futballpályákkal és létesítményekkel.",
                   "category": "landmark",
                   "coords": [
                         -79.051335,
@@ -409,7 +409,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "ÓVALO MOCHICA",
-                  "text": "Az ÓVALO MOCHE egy nevezetes látványosság Trujillo városában.",
+                  "text": "A trujillói ÓVALO MOCHE egy nagy körforgalom, amely a moche kultúrát idéző szobrokkal van díszítve.",
                   "category": "landmark",
                   "coords": [
                         -79.039133,
@@ -418,7 +418,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Estatua de Friedrich Engels",
-                  "text": "Az Estatua de Friedrich Engels egy emlékmű Trujillo városában.",
+                  "text": "A trujillói Estatua de Friedrich Engels egy parkban áll, a filozófusra emlékeztetve.",
                   "category": "historical",
                   "coords": [
                         -79.008079,
@@ -436,7 +436,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sare",
-                  "text": "A Sare egy művészeti galéria Trujillo városában.",
+                  "text": "A trujillói Sare múzeum a kulturális örökséget és a helyi hagyományokat mutatja be.",
                   "category": "museum",
                   "coords": [
                         -79.034914,
@@ -445,7 +445,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bellas Artes",
-                  "text": "A Bellas Artes egy galéria Trujillo városában.",
+                  "text": "A trujillói Museo Bellas Artes regionális művészek festményeit és szobrait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -79.035373,
@@ -454,7 +454,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de La Merced",
-                  "text": "Az Iglesia de La Merced egy istentiszteleti hely Trujillo városában.",
+                  "text": "Az Iglesia de La Merced Trujillóban egy barokk gyarmati templom a 16. századból.",
                   "category": "religious",
                   "coords": [
                         -79.026855,
@@ -465,7 +465,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Arqueologico",
-                  "text": "Museo Arqueologico este un muzeu situat în orașul Trujillo.",
+                  "text": "Muzeul Arheologic din Trujillo găzduiește artefacte precolumbiene ale culturilor Moche și Chimu.",
                   "category": "museum",
                   "coords": [
                         -79.024283,
@@ -474,7 +474,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio Hector Acuña",
-                  "text": "Auditorio Hector Acuña este un teatru situat în Trujillo.",
+                  "text": "Auditoriul Hector Acuña din Trujillo este o sală modernă pentru concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -79.042693,
@@ -483,7 +483,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Catedralicio",
-                  "text": "Catedralicio este un muzeu situat în orașul Trujillo.",
+                  "text": "Muzeul Catedralicio din Trujillo se află în catedrală și expune artă religioasă și obiecte de cult.",
                   "category": "museum",
                   "coords": [
                         -79.028271,
@@ -492,7 +492,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "Museo de Zoología Juan Ormea Rodríguez este un muzeu din Trujillo.",
+                  "text": "Muzeul de Zoologie Juan Ormea Rodríguez din Trujillo prezintă o colecție a faunei peruane.",
                   "category": "museum",
                   "coords": [
                         -79.030592,
@@ -501,7 +501,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "Teatro Victor Raul Lozano Ibañez este un teatru situat în Trujillo.",
+                  "text": "Teatrul Victor Raul Lozano Ibañez din Trujillo este un teatru pentru piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         -79.031158,
@@ -510,7 +510,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Magic Piscina",
-                  "text": "Magic Piscina este un parc acvatic situat în orașul Trujillo.",
+                  "text": "Magic Piscina din Trujillo este un parc acvatic de familie cu piscine și tobogane.",
                   "category": "family",
                   "coords": [
                         -79.005489,
@@ -519,7 +519,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Teatro Municipal este un teatru local situat în Trujillo.",
+                  "text": "Teatrul Municipal din Trujillo este un teatru istoric în stil neoclasic, care găzduiește evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -79.024652,
@@ -528,7 +528,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "Museo de Arte Contemporaneo Urm Max Lois este un muzeu de artă din Trujillo.",
+                  "text": "Muzeul de Artă Contemporană Urm Max Lois din Trujillo prezintă expoziții temporare de artă modernă.",
                   "category": "museum",
                   "coords": [
                         -79.012766,
@@ -537,7 +537,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Huaca Parana",
-                  "text": "Huaca Parana este un sit arheologic situat în Trujillo.",
+                  "text": "Huaca Parana din Trujillo este o piramidă antică Moche la periferia orașului.",
                   "category": "historical",
                   "coords": [
                         -79.0265,
@@ -546,7 +546,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Juguete",
-                  "text": "Museo de Juguete este un muzeu situat în Trujillo.",
+                  "text": "Muzeul de Jucării din Trujillo expune o colecție de jucării istorice și moderne.",
                   "category": "museum",
                   "coords": [
                         -79.026705,
@@ -555,7 +555,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Campo Ferial",
-                  "text": "Campo Ferial este un parc tematic situat în Trujillo.",
+                  "text": "Campo Ferial din Trujillo este un mare târg care găzduiește expoziții și târguri anuale.",
                   "category": "family",
                   "coords": [
                         -79.033771,
@@ -573,7 +573,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Liga de Artesanos",
-                  "text": "Liga de Artesanos este un centru de arte situat în Trujillo.",
+                  "text": "Liga de Artesanos din Trujillo este un centru cultural și piață pentru meșteșugarii locali.",
                   "category": "cultural",
                   "coords": [
                         -79.025565,
@@ -582,7 +582,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Soocer city (Deportes)",
-                  "text": "Soocer city (Deportes) este o atracție turistică situată în Trujillo.",
+                  "text": "Soocer City (Deportes) din Trujillo este un complex sportiv cu terenuri de fotbal și facilități.",
                   "category": "landmark",
                   "coords": [
                         -79.051335,
@@ -591,7 +591,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "ÓVALO MOCHICA",
-                  "text": "ÓVALO MOCHE este o atracție notabilă situată în Trujillo.",
+                  "text": "ÓVALO MOCHE din Trujillo este un sens giratoriu mare cu sculpturi care evocă cultura Moche.",
                   "category": "landmark",
                   "coords": [
                         -79.039133,
@@ -600,7 +600,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Estatua de Friedrich Engels",
-                  "text": "Estatua de Friedrich Engels este un monument situat în Trujillo.",
+                  "text": "Statuia lui Friedrich Engels din Trujillo se află într-un parc, comemorând filozoful.",
                   "category": "historical",
                   "coords": [
                         -79.008079,
@@ -618,7 +618,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sare",
-                  "text": "Sare este o galerie de artă situată în orașul Trujillo.",
+                  "text": "Muzeul Sare din Trujillo prezintă patrimoniul cultural și tradițiile locale.",
                   "category": "museum",
                   "coords": [
                         -79.034914,
@@ -627,7 +627,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bellas Artes",
-                  "text": "Bellas Artes este o galerie situată în Trujillo.",
+                  "text": "Muzeul Bellas Artes din Trujillo expune picturi și sculpturi ale artiștilor regionali.",
                   "category": "museum",
                   "coords": [
                         -79.035373,
@@ -636,7 +636,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de La Merced",
-                  "text": "Iglesia de La Merced este un lăcaș de cult situat în Trujillo.",
+                  "text": "Iglesia de La Merced din Trujillo este o biserică barocă colonială din secolul al XVI-lea.",
                   "category": "religious",
                   "coords": [
                         -79.026855,
@@ -647,7 +647,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Arqueologico",
-                  "text": "The Museo Arqueologico is a museum located in the city of Trujillo.",
+                  "text": "The Museo Arqueológico in Trujillo houses pre-Columbian artifacts from the Moche and Chimu cultures.",
                   "category": "museum",
                   "coords": [
                         -79.024283,
@@ -656,7 +656,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio Hector Acuña",
-                  "text": "Auditorio Hector Acuña is a theatre located in Trujillo.",
+                  "text": "The Auditorio Hector Acuña in Trujillo is a modern venue for concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -79.042693,
@@ -665,7 +665,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Catedralicio",
-                  "text": "Catedralicio is a museum located in the city of Trujillo.",
+                  "text": "The Museo Catedralicio in Trujillo is located within the cathedral and displays religious art and artifacts.",
                   "category": "museum",
                   "coords": [
                         -79.028271,
@@ -674,7 +674,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "The Museo de Zoología Juan Ormea Rodríguez is a museum located in Trujillo.",
+                  "text": "The Museo de Zoología Juan Ormea Rodríguez in Trujillo exhibits a collection of Peruvian fauna.",
                   "category": "museum",
                   "coords": [
                         -79.030592,
@@ -683,7 +683,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "Teatro Victor Raul Lozano Ibañez is a theatre situated in Trujillo.",
+                  "text": "The Teatro Victor Raul Lozano Ibañez in Trujillo is a theatre for plays and musical performances.",
                   "category": "cultural",
                   "coords": [
                         -79.031158,
@@ -692,7 +692,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Magic Piscina",
-                  "text": "Magic Piscina is a water park located in the city of Trujillo.",
+                  "text": "Magic Piscina in Trujillo is a family water park with swimming pools and water slides.",
                   "category": "family",
                   "coords": [
                         -79.005489,
@@ -701,7 +701,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal",
-                  "text": "Teatro Municipal is a local theatre situated in Trujillo.",
+                  "text": "The Teatro Municipal in Trujillo is a historic neoclassical theatre hosting cultural events.",
                   "category": "cultural",
                   "coords": [
                         -79.024652,
@@ -710,7 +710,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "Museo de Arte Contemporaneo Urm Max Lois is an art museum in Trujillo.",
+                  "text": "The Museo de Arte Contemporaneo Urm Max Lois in Trujillo features rotating exhibitions of contemporary art.",
                   "category": "museum",
                   "coords": [
                         -79.012766,
@@ -719,7 +719,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Huaca Parana",
-                  "text": "Huaca Parana is an archaeological site located in Trujillo.",
+                  "text": "Huaca Parana in Trujillo is an ancient Moche pyramid on the outskirts of the city.",
                   "category": "historical",
                   "coords": [
                         -79.0265,
@@ -728,7 +728,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Juguete",
-                  "text": "Museo de Juguete is a museum located in Trujillo.",
+                  "text": "The Museo de Juguete in Trujillo displays a collection of historic and modern toys.",
                   "category": "museum",
                   "coords": [
                         -79.026705,
@@ -737,7 +737,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Campo Ferial",
-                  "text": "Campo Ferial is a theme park situated in Trujillo.",
+                  "text": "Campo Ferial in Trujillo is a large fairground hosting annual fairs and exhibitions.",
                   "category": "family",
                   "coords": [
                         -79.033771,
@@ -755,7 +755,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Liga de Artesanos",
-                  "text": "Liga de Artesanos is an arts centre located in Trujillo.",
+                  "text": "Liga de Artesanos in Trujillo is a cultural centre and marketplace for local artisans.",
                   "category": "cultural",
                   "coords": [
                         -79.025565,
@@ -764,7 +764,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Soocer city (Deportes)",
-                  "text": "Soocer city (Deportes) is a tourist attraction located in Trujillo.",
+                  "text": "Soocer City (Deportes) in Trujillo is a sports complex with soccer fields and facilities.",
                   "category": "landmark",
                   "coords": [
                         -79.051335,
@@ -773,7 +773,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "ÓVALO MOCHE",
-                  "text": "ÓVALO MOCHE is a notable attraction located in Trujillo.",
+                  "text": "ÓVALO MOCHE in Trujillo is a large roundabout with sculptures evoking the Moche culture.",
                   "category": "landmark",
                   "coords": [
                         -79.039133,
@@ -782,7 +782,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Estatua de Friedrich Engels",
-                  "text": "Estatua de Friedrich Engels is a monument located in Trujillo.",
+                  "text": "The Estatua de Friedrich Engels in Trujillo stands in a park, commemorating the philosopher.",
                   "category": "historical",
                   "coords": [
                         -79.008079,
@@ -800,7 +800,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sare",
-                  "text": "Sare is an art gallery located in the city of Trujillo.",
+                  "text": "The Sare museum in Trujillo showcases cultural heritage and local traditions.",
                   "category": "museum",
                   "coords": [
                         -79.034914,
@@ -809,7 +809,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bellas Artes",
-                  "text": "Bellas Artes is a gallery situated in Trujillo.",
+                  "text": "The Museo Bellas Artes in Trujillo exhibits paintings and sculptures by regional artists.",
                   "category": "museum",
                   "coords": [
                         -79.035373,
@@ -818,7 +818,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de La Merced",
-                  "text": "Iglesia de La Merced is a place of worship located in Trujillo.",
+                  "text": "Iglesia de La Merced in Trujillo, a Baroque colonial church from the 16th century.",
                   "category": "religious",
                   "coords": [
                         -79.026855,
@@ -873,7 +873,196 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["Centre de la culture Chimú au nord du Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/trujillo-cities-v2.webp"},
   {
-    id: "chiclayo-cities-v2", "sights": {"de": [{"name": "Mercado de Brujo o Herbolario", "text": "Attraktion in Chiclayo.", "category": "landmark", "coords": [-79.839832, -6.766474]}, {"name": "Jardin Botanico", "text": "Botanischer Garten in Chiclayo.", "category": "landmark", "coords": [-79.84725, -6.771557]}, {"name": "Casona Elias Aguire", "text": "Historisches Gebäude in Chiclayo.", "category": "landmark", "coords": [-79.836663, -6.772085]}, {"name": "Plaza de Armas", "text": "Das Herz von Chiclayo schlägt auf diesem belebten Hauptplatz im Zentrum der peruanischen Stadt. Eine geschäftige und zugleich historische Atmosphäre durchzieht diesen zentralen Treffpunkt der Einheimischen. Besucher können bei einem gemütlichen Spaziergang die Architektur bewundern oder auf einer Bank das städtische Treiben beobachten. Besonders in den Abendstunden entfaltet der beleuchtete Platz seinen besonderen Charme.", "category": "landmark", "coords": [-79.838653, -6.771602]}, {"name": "Catedral de Santa María", "text": "Kathedrale in Chiclayo.", "category": "religious", "coords": [-79.837652, -6.771698]}], "hu": [{"name": "Mercado de Brujo o Herbolario", "text": "Látnivaló Chiclayóban.", "category": "landmark", "coords": [-79.839832, -6.766474]}, {"name": "Jardin Botanico", "text": "Botanikus kert Chiclayóban.", "category": "landmark", "coords": [-79.84725, -6.771557]}, {"name": "Casona Elias Aguire", "text": "Történelmi épület Chiclayóban.", "category": "landmark", "coords": [-79.836663, -6.772085]}, {"name": "Plaza de Armas", "text": "Chiclayo szíve ezen a nyüzsgő főtéren dobog a perui város központjában. Élénk, ugyanakkor történelmi atmoszféra hatja át a helyiek ezen központi találkozóhelyét. A látogatók egy kényelmes séta során megcsodálhatják az építészetet, vagy egy padon ülve figyelhetik a városi nyüzsgést. Különösen az esti órákban bontakozik ki a kivilágított tér különleges varázsa.", "category": "landmark", "coords": [-79.838653, -6.771602]}, {"name": "Catedral de Santa María", "text": "Székesegyház Chiclayóban.", "category": "religious", "coords": [-79.837652, -6.771698]}], "ro": [{"name": "Mercado de Brujo o Herbolario", "text": "Atracție în Chiclayo.", "category": "landmark", "coords": [-79.839832, -6.766474]}, {"name": "Jardin Botanico", "text": "Grădină botanică în Chiclayo.", "category": "landmark", "coords": [-79.84725, -6.771557]}, {"name": "Casona Elias Aguire", "text": "Clădire istorică în Chiclayo.", "category": "landmark", "coords": [-79.836663, -6.772085]}, {"name": "Plaza de Armas", "text": "Inima orașului Chiclayo bate în această piață principală plină de viață din centrul orașului peruan. O atmosferă aglomerată, dar istorică pătrunde în acest punct central de întâlnire al localnicilor. Vizitatorii pot admira arhitectura în timpul unei plimbări pe îndelete sau pot urmări agitația urbană de pe o bancă. Mai ales seara, piața iluminată își dezvăluie farmecul deosebit.", "category": "landmark", "coords": [-79.838653, -6.771602]}, {"name": "Catedral de Santa María", "text": "Catedrală în Chiclayo.", "category": "religious", "coords": [-79.837652, -6.771698]}], "en": [{"name": "Mercado de Brujo o Herbolario", "text": "Attraction in Chiclayo.", "category": "landmark", "coords": [-79.839832, -6.766474]}, {"name": "Botanical Garden", "text": "Botanical garden in Chiclayo.", "category": "landmark", "coords": [-79.84725, -6.771557]}, {"name": "Casona Elias Aguire", "text": "Historical building in Chiclayo.", "category": "landmark", "coords": [-79.836663, -6.772085]}, {"name": "Central Square", "text": "The heart of Chiclayo beats in this lively main square in the center of the Peruvian city. A bustling yet historical atmosphere permeates this central meeting point for locals. Visitors can admire the architecture during a leisurely walk or watch the urban hustle from the comfort of a bench. Especially in the evening hours, the illuminated plaza unfolds its special charm.", "category": "landmark", "coords": [-79.838653, -6.771602]}, {"name": "Catedral de Santa María", "text": "Cathedral in Chiclayo.", "category": "religious", "coords": [-79.837652, -6.771698]}]},
+    id: "chiclayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "Der Mercado de Brujo o Herbolario in Chiclayo ist ein traditioneller Markt für Kräuter und Heilmittel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Jardin Botanico",
+                  "text": "Der Botanische Garten in Chiclayo zeigt eine Vielfalt einheimischer und tropischer Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Die Casona Elias Aguire in Chiclayo ist ein historisches Herrenhaus aus der Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas",
+                  "text": "Das Herz von Chiclayo schlägt auf diesem belebten Hauptplatz im Zentrum der peruanischen Stadt. Eine geschäftige und zugleich historische Atmosphäre durchzieht diesen zentralen Treffpunkt der Einheimischen. Besucher können bei einem gemütlichen Spaziergang die Architektur bewundern oder auf einer Bank das städtische Treiben beobachten. Besonders in den Abendstunden entfaltet der beleuchtete Platz seinen besonderen Charme.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Catedral de Santa María ist die Hauptkathedrale von Chiclayo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "A chiclayo-i Mercado de Brujo o Herbolario egy hagyományos piac, ahol gyógynövényeket és népi gyógymódokat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Jardin Botanico",
+                  "text": "A chiclayo-i Botanikus Kert őshonos és trópusi növények széles választékát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "A chiclayo-i Casona Elias Aguire egy történelmi kúria a gyarmati korból.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas",
+                  "text": "Chiclayo szíve ezen a nyüzsgő főtéren dobog a perui város központjában. Élénk, ugyanakkor történelmi atmoszféra hatja át a helyiek ezen központi találkozóhelyét. A látogatók egy kényelmes séta során megcsodálhatják az építészetet, vagy egy padon ülve figyelhetik a városi nyüzsgést. Különösen az esti órákban bontakozik ki a kivilágított tér különleges varázsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Catedral de Santa María Chiclayo főszékesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "Mercado de Brujo o Herbolario din Chiclayo este o piață tradițională de ierburi și leacuri populare.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Jardin Botanico",
+                  "text": "Grădina Botanică din Chiclayo prezintă o varietate de plante native și tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Casona Elias Aguire din Chiclayo este un conac istoric din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas",
+                  "text": "Inima orașului Chiclayo bate în această piață principală plină de viață din centrul orașului peruan. O atmosferă aglomerată, dar istorică pătrunde în acest punct central de întâlnire al localnicilor. Vizitatorii pot admira arhitectura în timpul unei plimbări pe îndelete sau pot urmări agitația urbană de pe o bancă. Mai ales seara, piața iluminată își dezvăluie farmecul deosebit.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Catedral de Santa María este catedrala principală din Chiclayo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "The Mercado de Brujo o Herbolario in Chiclayo is a traditional market for herbs and folk remedies.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden in Chiclayo showcases a variety of native and tropical plants.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Casona Elias Aguire in Chiclayo is a historic colonial-era mansion.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Central Square",
+                  "text": "The heart of Chiclayo beats in this lively main square in the center of the Peruvian city. A bustling yet historical atmosphere permeates this central meeting point for locals. Visitors can admire the architecture during a leisurely walk or watch the urban hustle from the comfort of a bench. Especially in the evening hours, the illuminated plaza unfolds its special charm.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Catedral de Santa María is the main cathedral of Chiclayo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-LAM",
     coords: [-79.839, -6.7713],
@@ -924,7 +1113,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Municipal Vicús",
-                  "text": "Das Museo Municipal Vicús ist ein Museum in Piura, das archäologische Artefakte der Vicús-Kultur ausstellt.",
+                  "text": "Museo Municipal Vicús zeigt vorkoloniale Artefakte der Vicús-Kultur in Piura.",
                   "category": "museum",
                   "coords": [
                         -80.629792,
@@ -933,7 +1122,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Casa del Almirante Miguel Grau",
-                  "text": "Casa del Almirante Miguel Grau ist ein Museum in Piura.",
+                  "text": "Die Casa del Almirante Miguel Grau in Piura ist das restaurierte Geburtshaus des peruanischen Marinehelden und heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         -80.627237,
@@ -942,7 +1131,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del BCRP",
-                  "text": "Museo del BCRP ist ein Museum in Piura.",
+                  "text": "Das Museo del BCRP in Piura zeigt archäologische und historische Stücke aus der Sammlung der Zentralbank.",
                   "category": "museum",
                   "coords": [
                         -80.626513,
@@ -951,7 +1140,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico El Bosque",
-                  "text": "Sitio Arqueológico El Bosque ist eine archäologische Stätte in Piura.",
+                  "text": "Die archäologische Stätte El Bosque bei Piura enthält präinkaische Ruinen und Petroglyphen.",
                   "category": "historical",
                   "coords": [
                         -80.613452,
@@ -960,7 +1149,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Manuel Vegas Castillo",
-                  "text": "Teatro Manuel Vegas Castillo ist ein Theater in Piura.",
+                  "text": "Das Teatro Manuel Vegas Castillo in Piura ist ein Theater für kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -80.633108,
@@ -969,7 +1158,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Piura",
-                  "text": "Teatro Municipal de Piura ist ein Theater in Piura.",
+                  "text": "Das Teatro Municipal de Piura ist ein historisches Gebäude mit neoklassizistischer Fassade.",
                   "category": "cultural",
                   "coords": [
                         -80.625781,
@@ -978,7 +1167,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Grau",
-                  "text": "Monumento a Miguel Grau ist ein Denkmal in Piura.",
+                  "text": "Das Monumento a Miguel Grau in Piura steht auf dem Hauptplatz und ehrt den Admiral.",
                   "category": "historical",
                   "coords": [
                         -80.629938,
@@ -987,7 +1176,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Andrés Avelino Cáceres",
-                  "text": "Andrés Avelino Cáceres ist ein Denkmal in Piura.",
+                  "text": "Das Monument für Andrés Avelino Cáceres in Piura erinnert an den ehemaligen Präsidenten Perus.",
                   "category": "historical",
                   "coords": [
                         -80.649072,
@@ -996,7 +1185,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Bolognesi",
-                  "text": "Puente Bolognesi ist eine Brücke in Piura.",
+                  "text": "Die Puente Bolognesi in Piura ist eine historische Eisenbrücke über den Fluss Piura aus dem 19. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         -80.625494,
@@ -1005,7 +1194,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Sánchez Cerro",
-                  "text": "Puente Sánchez Cerro ist eine Brücke in Piura.",
+                  "text": "Die Puente Sánchez Cerro in Piura ist eine Betonbrücke, die die Stadtteile verbindet.",
                   "category": "landmark",
                   "coords": [
                         -80.623774,
@@ -1014,7 +1203,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente San Miguel",
-                  "text": "Puente San Miguel ist eine Brücke in Piura.",
+                  "text": "Die Puente San Miguel in Piura ist eine Fußgängerbrücke über den Piura-Fluss im historischen Zentrum.",
                   "category": "landmark",
                   "coords": [
                         -80.624251,
@@ -1025,7 +1214,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Municipal Vicús",
-                  "text": "A Museo Municipal Vicús egy múzeum Piurában, amely a Vicús kultúra régészeti leleteit mutatja be.",
+                  "text": "Museo Municipal Vicús a Vicús kultúra prekolumbiánus műtárgyait mutatja be Piurában.",
                   "category": "museum",
                   "coords": [
                         -80.629792,
@@ -1034,7 +1223,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Casa del Almirante Miguel Grau",
-                  "text": "A Casa del Almirante Miguel Grau egy múzeum Piura városában.",
+                  "text": "A piurai Casa del Almirante Miguel Grau a perui tengerészeti hős helyreállított szülőháza, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -80.627237,
@@ -1043,7 +1232,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del BCRP",
-                  "text": "A Museo del BCRP egy múzeum Piura városában.",
+                  "text": "A piurai Museo del BCRP a központi bank gyűjteményéből származó régészeti és történelmi tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         -80.626513,
@@ -1052,7 +1241,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico El Bosque",
-                  "text": "A Sitio Arqueológico El Bosque egy régészeti lelőhely Piura városában.",
+                  "text": "A piura melletti El Bosque régészeti lelőhely preinka romokat és sziklarajzokat rejt.",
                   "category": "historical",
                   "coords": [
                         -80.613452,
@@ -1061,7 +1250,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Manuel Vegas Castillo",
-                  "text": "A Teatro Manuel Vegas Castillo egy színház Piura városában.",
+                  "text": "A piurai Teatro Manuel Vegas Castillo egy színház kulturális előadások számára.",
                   "category": "cultural",
                   "coords": [
                         -80.633108,
@@ -1070,7 +1259,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Piura",
-                  "text": "A Teatro Municipal de Piura egy színház Piura városában.",
+                  "text": "A piurai Teatro Municipal de Piura egy történelmi épület neoklasszicista homlokzattal.",
                   "category": "cultural",
                   "coords": [
                         -80.625781,
@@ -1079,7 +1268,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Grau",
-                  "text": "A Monumento a Miguel Grau egy emlékmű Piura városában.",
+                  "text": "A piurai Monumento a Miguel Grau a főtéren áll, és az admirális előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         -80.629938,
@@ -1088,7 +1277,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Andrés Avelino Cáceres",
-                  "text": "Az Andrés Avelino Cáceres egy emlékmű Piura városában.",
+                  "text": "A piurai Andrés Avelino Cáceres-emlékmű Peru egykori elnökére emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -80.649072,
@@ -1097,7 +1286,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Bolognesi",
-                  "text": "A Puente Bolognesi egy híd Piura városában.",
+                  "text": "A Puente Bolognesi Piurában egy 19. századi történelmi vashíd a Piura folyón.",
                   "category": "landmark",
                   "coords": [
                         -80.625494,
@@ -1106,7 +1295,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Sánchez Cerro",
-                  "text": "A Puente Sánchez Cerro egy híd Piura városában.",
+                  "text": "A Puente Sánchez Cerro Piurában egy betonhíd, amely a városrészeket köti össze.",
                   "category": "landmark",
                   "coords": [
                         -80.623774,
@@ -1115,7 +1304,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente San Miguel",
-                  "text": "A Puente San Miguel egy híd Piura városában.",
+                  "text": "A Puente San Miguel Piurában egy gyalogoshíd a Piura folyón a történelmi központban.",
                   "category": "landmark",
                   "coords": [
                         -80.624251,
@@ -1126,7 +1315,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Municipal Vicús",
-                  "text": "Museo Municipal Vicús este un muzeu din Piura care expune artefacte arheologice ale culturii Vicús.",
+                  "text": "Museo Municipal Vicús expune artefacte precolumbiene ale culturii Vicús în Piura.",
                   "category": "museum",
                   "coords": [
                         -80.629792,
@@ -1135,7 +1324,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Casa del Almirante Miguel Grau",
-                  "text": "Casa del Almirante Miguel Grau este un muzeu situat în Piura.",
+                  "text": "Casa Amiralului Miguel Grau din Piura este casa natală restaurată a eroului naval peruan, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -80.627237,
@@ -1144,7 +1333,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del BCRP",
-                  "text": "Museo del BCRP este un muzeu situat în Piura.",
+                  "text": "Muzeul BCRP din Piura expune piese arheologice și istorice din colecția băncii centrale.",
                   "category": "museum",
                   "coords": [
                         -80.626513,
@@ -1153,7 +1342,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico El Bosque",
-                  "text": "Sitio Arqueológico El Bosque este un sit arheologic situat în Piura.",
+                  "text": "Situl arheologic El Bosque lângă Piura conține ruine pre-incașe și petroglife.",
                   "category": "historical",
                   "coords": [
                         -80.613452,
@@ -1162,7 +1351,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Manuel Vegas Castillo",
-                  "text": "Teatro Manuel Vegas Castillo este un teatru situat în Piura.",
+                  "text": "Teatrul Manuel Vegas Castillo din Piura este un teatru pentru spectacole culturale.",
                   "category": "cultural",
                   "coords": [
                         -80.633108,
@@ -1171,7 +1360,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Piura",
-                  "text": "Teatro Municipal de Piura este un teatru situat în Piura.",
+                  "text": "Teatrul Municipal din Piura este o clădire istorică cu fațadă neoclasică.",
                   "category": "cultural",
                   "coords": [
                         -80.625781,
@@ -1180,7 +1369,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Grau",
-                  "text": "Monumento a Miguel Grau este un monument situat în Piura.",
+                  "text": "Monumentul lui Miguel Grau din Piura se află în piața principală și îl omagiază pe amiral.",
                   "category": "historical",
                   "coords": [
                         -80.629938,
@@ -1189,7 +1378,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Andrés Avelino Cáceres",
-                  "text": "Andrés Avelino Cáceres este un monument situat în Piura.",
+                  "text": "Monumentul lui Andrés Avelino Cáceres din Piura comemorează fostul președinte al Peru.",
                   "category": "historical",
                   "coords": [
                         -80.649072,
@@ -1198,7 +1387,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Bolognesi",
-                  "text": "Puente Bolognesi este un pod situat în Piura.",
+                  "text": "Puente Bolognesi din Piura este un pod istoric de fier peste râul Piura, construit în secolul al XIX-lea.",
                   "category": "landmark",
                   "coords": [
                         -80.625494,
@@ -1207,7 +1396,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Sánchez Cerro",
-                  "text": "Puente Sánchez Cerro este un pod situat în Piura.",
+                  "text": "Puente Sánchez Cerro din Piura este un pod de beton care leagă cartierele orașului.",
                   "category": "landmark",
                   "coords": [
                         -80.623774,
@@ -1216,7 +1405,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente San Miguel",
-                  "text": "Puente San Miguel este un pod situat în Piura.",
+                  "text": "Puente San Miguel din Piura este un pod pietonal peste râul Piura în centrul istoric.",
                   "category": "landmark",
                   "coords": [
                         -80.624251,
@@ -1227,7 +1416,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Municipal Vicús",
-                  "text": "Museo Municipal Vicús is a museum in Piura that exhibits archaeological artifacts from the Vicús culture.",
+                  "text": "Museo Municipal Vicús displays pre-Columbian artifacts of the Vicús culture in Piura.",
                   "category": "museum",
                   "coords": [
                         -80.629792,
@@ -1236,7 +1425,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Casa del Almirante Miguel Grau",
-                  "text": "Casa del Almirante Miguel Grau is a museum located in Piura.",
+                  "text": "The Casa del Almirante Miguel Grau in Piura is the restored birthplace of the Peruvian naval hero, now a museum.",
                   "category": "museum",
                   "coords": [
                         -80.627237,
@@ -1245,7 +1434,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del BCRP",
-                  "text": "Museo del BCRP is a museum located in Piura.",
+                  "text": "The Museo del BCRP in Piura displays archaeological and historical pieces from the central bank's collection.",
                   "category": "museum",
                   "coords": [
                         -80.626513,
@@ -1254,7 +1443,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico El Bosque",
-                  "text": "Sitio Arqueológico El Bosque is an archaeological site located in Piura.",
+                  "text": "The El Bosque archaeological site near Piura contains pre-Inca ruins and petroglyphs.",
                   "category": "historical",
                   "coords": [
                         -80.613452,
@@ -1263,7 +1452,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Manuel Vegas Castillo",
-                  "text": "Teatro Manuel Vegas Castillo is a theatre located in Piura.",
+                  "text": "The Teatro Manuel Vegas Castillo in Piura is a theatre for cultural performances.",
                   "category": "cultural",
                   "coords": [
                         -80.633108,
@@ -1272,7 +1461,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Piura",
-                  "text": "Teatro Municipal de Piura is a theatre located in Piura.",
+                  "text": "The Teatro Municipal de Piura is a historic building with a neoclassical façade.",
                   "category": "cultural",
                   "coords": [
                         -80.625781,
@@ -1281,7 +1470,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Grau",
-                  "text": "Monumento a Miguel Grau is a monument located in Piura.",
+                  "text": "The Monumento a Miguel Grau in Piura stands on the main square, honouring the admiral.",
                   "category": "historical",
                   "coords": [
                         -80.629938,
@@ -1290,7 +1479,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Andrés Avelino Cáceres",
-                  "text": "Andrés Avelino Cáceres is a monument located in Piura.",
+                  "text": "The monument to Andrés Avelino Cáceres in Piura commemorates the former president of Peru.",
                   "category": "historical",
                   "coords": [
                         -80.649072,
@@ -1299,7 +1488,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Bolognesi",
-                  "text": "Puente Bolognesi is a bridge located in Piura.",
+                  "text": "Puente Bolognesi in Piura, a historic iron bridge over the Piura River from the 19th century.",
                   "category": "landmark",
                   "coords": [
                         -80.625494,
@@ -1308,7 +1497,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Sánchez Cerro",
-                  "text": "Puente Sánchez Cerro is a bridge located in Piura.",
+                  "text": "Puente Sánchez Cerro in Piura, a concrete bridge connecting the city's districts.",
                   "category": "landmark",
                   "coords": [
                         -80.623774,
@@ -1317,7 +1506,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Puente San Miguel",
-                  "text": "Puente San Miguel is a bridge located in Piura.",
+                  "text": "Puente San Miguel in Piura, a footbridge over the Piura River in the historic center.",
                   "category": "landmark",
                   "coords": [
                         -80.624251,
@@ -1464,7 +1653,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vivero Forestal",
-                  "text": "Themenpark in Chimbote.",
+                  "text": "Eine Baumschule mit einheimischen Baumarten in Chimbote.",
                   "category": "family",
                   "coords": [
                         -78.592394,
@@ -1473,7 +1662,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bahía de Chimbote",
-                  "text": "Bucht bei Chimbote.",
+                  "text": "Eine große Bucht an der Pazifikküste von Chimbote, bekannt für ihren Hafen.",
                   "category": "landmark",
                   "coords": [
                         -78.59062,
@@ -1482,7 +1671,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Almirante Miguel Grau Seminario",
-                  "text": "Denkmal in Chimbote.",
+                  "text": "Ein Denkmal für Admiral Miguel Grau, einen peruanischen Marinehelden.",
                   "category": "historical",
                   "coords": [
                         -78.590154,
@@ -1491,7 +1680,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Boulevard",
-                  "text": "Boulevard in Chimbote.",
+                  "text": "Eine baumgesäumte Allee im Stadtzentrum von Chimbote.",
                   "category": "landmark",
                   "coords": [
                         -78.597517,
@@ -1500,7 +1689,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a los Mártires Beatos",
-                  "text": "Das Monumento a los Mártires Beatos ist ein Denkmal in Chimbote.",
+                  "text": "Ein Denkmal für die seligen Märtyrer von Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.587721,
@@ -1509,7 +1698,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Haya de la Torre",
-                  "text": "Das Monumento a Haya de la Torre ist ein Denkmal in Chimbote.",
+                  "text": "Ein Denkmal für Víctor Raúl Haya de la Torre, Gründer der APRA-Partei.",
                   "category": "historical",
                   "coords": [
                         -78.590774,
@@ -1518,7 +1707,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Justicia",
-                  "text": "Das Monumento a la Justicia ist ein Denkmal in Chimbote.",
+                  "text": "Ein Denkmal, das die Gerechtigkeit in Chimbote symbolisiert.",
                   "category": "historical",
                   "coords": [
                         -78.58959,
@@ -1527,7 +1716,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentos Marinos",
-                  "text": "Die Monumentos Marinos sind maritime Denkmäler in Chimbote.",
+                  "text": "Meeresthemendenkmäler entlang der Uferpromenade von Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.59898,
@@ -1536,7 +1725,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Plazuela Las Banderas",
-                  "text": "Die Plazuela Las Banderas ist ein beliebter Platz in Chimbote.",
+                  "text": "Ein kleiner Platz mit mehreren Fahnenmasten in Chimbote.",
                   "category": "landmark",
                   "coords": [
                         -78.593771,
@@ -1545,7 +1734,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Pasco",
-                  "text": "Der Mirador Pasco ist ein Aussichtspunkt in Chimbote.",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Stadt Chimbote.",
                   "category": "natural",
                   "coords": [
                         -78.57393,
@@ -1556,7 +1745,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vivero Forestal",
-                  "text": "Vidámpark Chimbotéban.",
+                  "text": "Őshonos fafajtákkal rendelkező faiskola Chimbotében.",
                   "category": "family",
                   "coords": [
                         -78.592394,
@@ -1565,7 +1754,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bahía de Chimbote",
-                  "text": "Öböl Chimbote közelében.",
+                  "text": "Egy nagy öböl Chimbote csendes-óceáni partján, kikötőjéről ismert.",
                   "category": "landmark",
                   "coords": [
                         -78.59062,
@@ -1574,7 +1763,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Almirante Miguel Grau Seminario",
-                  "text": "Emlékmű Chimbotéban.",
+                  "text": "Miguel Grau admirális, perui tengerészeti hős emlékműve.",
                   "category": "historical",
                   "coords": [
                         -78.590154,
@@ -1583,7 +1772,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Boulevard",
-                  "text": "Sétány Chimbotéban.",
+                  "text": "Fákkal szegélyezett sugárút Chimbote központjában.",
                   "category": "landmark",
                   "coords": [
                         -78.597517,
@@ -1592,7 +1781,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a los Mártires Beatos",
-                  "text": "A Monumento a los Mártires Beatos egy emlékmű Chimbotéban.",
+                  "text": "Emlékmű Chimbote boldog vértanúinak.",
                   "category": "historical",
                   "coords": [
                         -78.587721,
@@ -1601,7 +1790,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Haya de la Torre",
-                  "text": "A Monumento a Haya de la Torre egy emlékmű Chimbotéban.",
+                  "text": "Emlékmű Víctor Raúl Haya de la Torrénak, az APRA párt alapítójának.",
                   "category": "historical",
                   "coords": [
                         -78.590774,
@@ -1610,7 +1799,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Justicia",
-                  "text": "A Monumento a la Justicia egy emlékmű Chimbotéban.",
+                  "text": "Az igazságot szimbolizáló emlékmű Chimbotében.",
                   "category": "historical",
                   "coords": [
                         -78.58959,
@@ -1619,7 +1808,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentos Marinos",
-                  "text": "A Monumentos Marinos tengeri emlékművek Chimbotéban.",
+                  "text": "Tengeri témájú emlékművek Chimbote partján.",
                   "category": "historical",
                   "coords": [
                         -78.59898,
@@ -1628,7 +1817,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Plazuela Las Banderas",
-                  "text": "A Plazuela Las Banderas egy népszerű tér Chimbotéban.",
+                  "text": "Egy kis tér több zászlórúddal Chimbotében.",
                   "category": "landmark",
                   "coords": [
                         -78.593771,
@@ -1637,7 +1826,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Pasco",
-                  "text": "A Mirador Pasco egy kilátópont Chimbotéban.",
+                  "text": "Kilátópont, ahonnan rálátni Chimbote városára.",
                   "category": "natural",
                   "coords": [
                         -78.57393,
@@ -1648,7 +1837,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vivero Forestal",
-                  "text": "Parc tematic în Chimbote.",
+                  "text": "O pepinieră forestieră cu specii de arbori nativi în Chimbote.",
                   "category": "family",
                   "coords": [
                         -78.592394,
@@ -1657,7 +1846,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Bahía de Chimbote",
-                  "text": "Golf lângă Chimbote.",
+                  "text": "Un golf mare pe coasta Pacificului a orașului Chimbote, cunoscut pentru portul său.",
                   "category": "landmark",
                   "coords": [
                         -78.59062,
@@ -1666,7 +1855,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Almirante Miguel Grau Seminario",
-                  "text": "Monument în Chimbote.",
+                  "text": "Un monument al amiralului Miguel Grau, un erou naval peruvian.",
                   "category": "historical",
                   "coords": [
                         -78.590154,
@@ -1675,7 +1864,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Boulevard",
-                  "text": "Bulevard în Chimbote.",
+                  "text": "Un bulevard cu copaci în centrul orașului Chimbote.",
                   "category": "landmark",
                   "coords": [
                         -78.597517,
@@ -1684,7 +1873,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a los Mártires Beatos",
-                  "text": "Monumento a los Mártires Beatos este un monument în Chimbote.",
+                  "text": "Un monument dedicat martirilor beatificați din Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.587721,
@@ -1693,7 +1882,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Haya de la Torre",
-                  "text": "Monumento a Haya de la Torre este un monument în Chimbote.",
+                  "text": "Un monument al lui Víctor Raúl Haya de la Torre, fondatorul partidului APRA.",
                   "category": "historical",
                   "coords": [
                         -78.590774,
@@ -1702,7 +1891,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Justicia",
-                  "text": "Monumento a la Justicia este un monument în Chimbote.",
+                  "text": "Un monument care simbolizează justiția în Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.58959,
@@ -1711,7 +1900,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentos Marinos",
-                  "text": "Monumentos Marinos sunt monumente marine în Chimbote.",
+                  "text": "Monumente cu tematică marină de-a lungul falezei din Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.59898,
@@ -1720,7 +1909,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Plazuela Las Banderas",
-                  "text": "Plazuela Las Banderas este o piață populară în Chimbote.",
+                  "text": "O piațetă cu mai multe catarge de steaguri în Chimbote.",
                   "category": "landmark",
                   "coords": [
                         -78.593771,
@@ -1729,7 +1918,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Pasco",
-                  "text": "Mirador Pasco este un punct de observare în Chimbote.",
+                  "text": "Un punct de belvedere cu vedere spre orașul Chimbote.",
                   "category": "natural",
                   "coords": [
                         -78.57393,
@@ -1740,7 +1929,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vivero Forestal",
-                  "text": "Theme park in Chimbote.",
+                  "text": "A forest nursery with native tree species in Chimbote.",
                   "category": "family",
                   "coords": [
                         -78.592394,
@@ -1749,7 +1938,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Chimbote Bay",
-                  "text": "Bay near Chimbote.",
+                  "text": "A large bay on the Pacific coast of Chimbote, known for its port.",
                   "category": "landmark",
                   "coords": [
                         -78.59062,
@@ -1758,7 +1947,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Almirante Miguel Grau Seminario",
-                  "text": "Monument in Chimbote.",
+                  "text": "A monument to Admiral Miguel Grau, a Peruvian naval hero.",
                   "category": "historical",
                   "coords": [
                         -78.590154,
@@ -1767,7 +1956,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Boulevard",
-                  "text": "Boulevard in Chimbote.",
+                  "text": "A tree-lined boulevard in Chimbote's city center.",
                   "category": "landmark",
                   "coords": [
                         -78.597517,
@@ -1776,7 +1965,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a los Mártires Beatos",
-                  "text": "Monumento a los Mártires Beatos is a monument in Chimbote.",
+                  "text": "A monument to the blessed martyrs of Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.587721,
@@ -1785,7 +1974,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Haya de la Torre",
-                  "text": "Monumento a Haya de la Torre is a monument in Chimbote.",
+                  "text": "A monument to Víctor Raúl Haya de la Torre, founder of the APRA party.",
                   "category": "historical",
                   "coords": [
                         -78.590774,
@@ -1794,7 +1983,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Justicia",
-                  "text": "Monumento a la Justicia is a monument in Chimbote.",
+                  "text": "A monument symbolizing justice in Chimbote.",
                   "category": "historical",
                   "coords": [
                         -78.58959,
@@ -1803,7 +1992,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentos Marinos",
-                  "text": "Monumentos Marinos are marine monuments in Chimbote.",
+                  "text": "Marine-themed monuments along Chimbote's waterfront.",
                   "category": "historical",
                   "coords": [
                         -78.59898,
@@ -1812,7 +2001,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Plazuela Las Banderas",
-                  "text": "Plazuela Las Banderas is a popular square in Chimbote.",
+                  "text": "A small square with multiple flagpoles in Chimbote.",
                   "category": "landmark",
                   "coords": [
                         -78.593771,
@@ -1821,7 +2010,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Pasco",
-                  "text": "Mirador Pasco is a viewpoint in Chimbote.",
+                  "text": "A viewpoint overlooking the city of Chimbote.",
                   "category": "natural",
                   "coords": [
                         -78.57393,

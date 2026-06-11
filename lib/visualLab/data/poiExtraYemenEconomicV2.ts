@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraYemenEconomicV2: POI[] = [
   {
-    id: "aden-port-economic-v2",
+    id: "aden-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Theatre (before 1994) Tawahi, Aden",
+                  "text": "Ein historisches Kulturzentrum im Stadtteil Tawahi, das für Theateraufführungen genutzt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        44.982051,
+                        12.788634
+                  ]
+            },
+            {
+                  "name": "Fort Marbut",
+                  "text": "Überreste einer Verteidigungsanlage an der felsigen Küste des Bezirks Tawahi.",
+                  "category": "historical",
+                  "coords": [
+                        44.974444,
+                        12.785833
+                  ]
+            },
+            {
+                  "name": "Fort Tarshayn",
+                  "text": "Eine archäologische Stätte an der Küste mit weitem Blick über den strategischen Hafen von Aden.",
+                  "category": "historical",
+                  "coords": [
+                        44.973333,
+                        12.777778
+                  ]
+            },
+            {
+                  "name": "Gold Mohur Lighthouse",
+                  "text": "Dieser Leuchtturm am Gold Mohur Strand markiert die Einfahrt für Schiffe in den Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987778,
+                        12.764722
+                  ]
+            },
+            {
+                  "name": "Gold Mour",
+                  "text": "Ein beliebter Sandstrand in Aden, bekannt für sein klares Wasser und die umliegenden Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        44.987246,
+                        12.773702
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Church",
+                  "text": "Diese christliche Kirche befindet sich im Viertel Steamer Point und spiegelt die koloniale Architektur wider.",
+                  "category": "landmark",
+                  "coords": [
+                        45.000492,
+                        12.788955
+                  ]
+            },
+            {
+                  "name": "Baraqat Mosque",
+                  "text": "Eine lokale Moschee, die der Gemeinde im geschäftigen Hafenviertel von Aden dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.986235,
+                        12.78965
+                  ]
+            },
+            {
+                  "name": "Kahboob Mosque",
+                  "text": "Ein schlichtes islamisches Gebetshaus im Küstenbezirk Tawahi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.983467,
+                        12.788963
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi",
+                  "text": "Diese katholische Kirche im Stadtteil Tawahi ist ein architektonisches Erbe der britischen Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        44.979675,
+                        12.788605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Theatre (before 1994) Tawahi, Aden",
+                  "text": "Tawahi negyed történelmi kulturális helyszíne, amely színházi előadásoknak adott otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        44.982051,
+                        12.788634
+                  ]
+            },
+            {
+                  "name": "Fort Marbut",
+                  "text": "Védelmi erődítmény maradványai Tawahi sziklás tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        44.974444,
+                        12.785833
+                  ]
+            },
+            {
+                  "name": "Fort Tarshayn",
+                  "text": "Partmenti régészeti lelőhely, ahonnan kilátás nyílik Áden stratégiai kikötőjére.",
+                  "category": "historical",
+                  "coords": [
+                        44.973333,
+                        12.777778
+                  ]
+            },
+            {
+                  "name": "Gold Mohur Lighthouse",
+                  "text": "A Gold Mohur strandnál álló világítótorony, amely a kikötőbe érkező hajókat segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987778,
+                        12.764722
+                  ]
+            },
+            {
+                  "name": "Gold Mour",
+                  "text": "Népszerű homokos tengerpart Ádenben, amely tiszta vizéről és a környező sziklákról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        44.987246,
+                        12.773702
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Church",
+                  "text": "A Steamer Point negyedben található keresztény templom, amely a gyarmati építészetet tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.000492,
+                        12.788955
+                  ]
+            },
+            {
+                  "name": "Baraqat Mosque",
+                  "text": "Helyi mecset, amely Áden forgalmas kikötői negyedének közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.986235,
+                        12.78965
+                  ]
+            },
+            {
+                  "name": "Kahboob Mosque",
+                  "text": "Egyszerű iszlám imaház Tawahi tengerparti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.983467,
+                        12.788963
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi",
+                  "text": "Tawahi negyed katolikus temploma, amely a brit gyarmati időszak építészeti öröksége.",
+                  "category": "landmark",
+                  "coords": [
+                        44.979675,
+                        12.788605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Theatre (before 1994) Tawahi, Aden",
+                  "text": "O locație culturală istorică din districtul Tawahi, folosită pentru spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        44.982051,
+                        12.788634
+                  ]
+            },
+            {
+                  "name": "Fort Marbut",
+                  "text": "Rămășițele unei fortificații defensive pe coasta stâncoasă a districtului Tawahi.",
+                  "category": "historical",
+                  "coords": [
+                        44.974444,
+                        12.785833
+                  ]
+            },
+            {
+                  "name": "Fort Tarshayn",
+                  "text": "Un sit arheologic de coastă cu vedere panoramică asupra portului strategic din Aden.",
+                  "category": "historical",
+                  "coords": [
+                        44.973333,
+                        12.777778
+                  ]
+            },
+            {
+                  "name": "Gold Mohur Lighthouse",
+                  "text": "Acest far situat lângă plaja Gold Mohur marchează intrarea navelor în port.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987778,
+                        12.764722
+                  ]
+            },
+            {
+                  "name": "Gold Mour",
+                  "text": "O plajă populară cu nisip din Aden, cunoscută pentru apele sale limpezi și stâncile înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        44.987246,
+                        12.773702
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Church",
+                  "text": "Această biserică creștină situată în cartierul Steamer Point reflectă arhitectura colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        45.000492,
+                        12.788955
+                  ]
+            },
+            {
+                  "name": "Baraqat Mosque",
+                  "text": "O moschee locală care deservește comunitatea din zona portuară aglomerată a Adenului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.986235,
+                        12.78965
+                  ]
+            },
+            {
+                  "name": "Kahboob Mosque",
+                  "text": "Un lăcaș de cult islamic simplu în districtul de coastă Tawahi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.983467,
+                        12.788963
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi",
+                  "text": "Această biserică catolică din districtul Tawahi este o moștenire arhitecturală a epocii coloniale britanice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.979675,
+                        12.788605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Theatre (before 1994) Tawahi, Aden",
+                  "text": "A historic cultural venue in the Tawahi district used for theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        44.982051,
+                        12.788634
+                  ]
+            },
+            {
+                  "name": "Fort Marbut",
+                  "text": "Remnants of a defensive fortification on the rocky coast of the Tawahi district.",
+                  "category": "historical",
+                  "coords": [
+                        44.974444,
+                        12.785833
+                  ]
+            },
+            {
+                  "name": "Fort Tarshayn",
+                  "text": "A coastal archaeological site with expansive views over the strategic Port of Aden.",
+                  "category": "historical",
+                  "coords": [
+                        44.973333,
+                        12.777778
+                  ]
+            },
+            {
+                  "name": "Gold Mohur Lighthouse",
+                  "text": "A lighthouse located near Gold Mohur beach marking the entrance for ships into the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987778,
+                        12.764722
+                  ]
+            },
+            {
+                  "name": "Gold Mour",
+                  "text": "A popular sandy beach in Aden known for its clear waters and surrounding cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        44.987246,
+                        12.773702
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Church",
+                  "text": "This Christian church located in the Steamer Point area reflects colonial-era architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        45.000492,
+                        12.788955
+                  ]
+            },
+            {
+                  "name": "Baraqat Mosque",
+                  "text": "A local mosque serving the community in the busy port area of Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.986235,
+                        12.78965
+                  ]
+            },
+            {
+                  "name": "Kahboob Mosque",
+                  "text": "A simple Islamic house of worship in the coastal Tawahi district.",
+                  "category": "landmark",
+                  "coords": [
+                        44.983467,
+                        12.788963
+                  ]
+            },
+            {
+                  "name": "St Francis of Assisi",
+                  "text": "This Catholic church in the Tawahi district is an architectural legacy of the British colonial era.",
+                  "category": "landmark",
+                  "coords": [
+                        44.979675,
+                        12.788605
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "YE-AD",
     coords: [44.97, 12.79],
@@ -39,7 +372,52 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "hodeidah-port-economic-v2",
+    id: "hodeidah-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid al Bayadah",
+                  "text": "Die Masjid al Bayadah ist eine lokale islamische Moschee, die der geschäftigen Hafenstadt Hodeida dient.",
+                  "category": "landmark",
+                  "coords": [
+                        42.953423,
+                        14.823844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid al Bayadah",
+                  "text": "A Masjid al Bayadah egy helyi iszlám mecset, amely a nyüzsgő Hodeida kikötővárosát szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        42.953423,
+                        14.823844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid al Bayadah",
+                  "text": "Masjid al Bayadah este o moschee islamică locală care deservește orașul portuar aglomerat Hodeidah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.953423,
+                        14.823844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid al Bayadah",
+                  "text": "Masjid al Bayadah is a local Islamic mosque serving the bustling port city of Hodeidah.",
+                  "category": "landmark",
+                  "coords": [
+                        42.953423,
+                        14.823844
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "YE-HU",
     coords: [42.93, 14.83],
@@ -75,7 +453,268 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "mukalla-port-economic-v2",
+    id: "mukalla-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Die Masjid an Nur ist eine wichtige islamische Moschee in der geschäftigen Hafenstadt al-Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137546,
+                        14.529903
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Zirarah",
+                  "text": "Die in al-Mukalla gelegene Masjid Ba Zirarah bietet der islamischen Gemeinde einen eigenen Raum für ihre Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136405,
+                        14.525459
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Ya`shut",
+                  "text": "Die Masjid Ba Ya'shut ist eine traditionelle islamische Moschee in der Nähe des Wirtschaftshafens von al-Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.140402,
+                        14.529041
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar",
+                  "text": "Die Masjid 'Umar dient als bedeutendes islamisches Gotteshaus in der Küstenstadt al-Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.134756,
+                        14.530758
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rawdah",
+                  "text": "Die Masjid ar Rawdah ist eine islamische Versammlungsstätte im aktiven Hafengebiet von al-Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136627,
+                        14.529015
+                  ]
+            },
+            {
+                  "name": "Masjid `Ali Habib",
+                  "text": "Die Masjid 'Ali Habib ist eine zentrale islamische Moschee für die Gläubigen in der Hafenregion von al-Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.139098,
+                        14.527841
+                  ]
+            },
+            {
+                  "name": "Masjid Bilad",
+                  "text": "Die Masjid Bilad ist ein etablierter islamischer Gebetsort in der geschäftigen Stadt al-Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137802,
+                        14.526105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid an Nur",
+                  "text": "A Masjid an Nur egy kulcsfontosságú iszlám mecset Mukalla nyüzsgő kikötővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137546,
+                        14.529903
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Zirarah",
+                  "text": "A Mukallában található Masjid Ba Zirarah dedikált teret biztosít az iszlám közösség imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136405,
+                        14.525459
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Ya`shut",
+                  "text": "A Masjid Ba Ya`shut egy hagyományos iszlám mecset Mukalla gazdasági kikötőjének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.140402,
+                        14.529041
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar",
+                  "text": "A Masjid `Umar jelentős iszlám istentiszteleti helyként szolgál Mukalla tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.134756,
+                        14.530758
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rawdah",
+                  "text": "A Masjid ar Rawdah egy iszlám gyülekezeti helyszín Mukalla aktív kikötőövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136627,
+                        14.529015
+                  ]
+            },
+            {
+                  "name": "Masjid `Ali Habib",
+                  "text": "A Masjid `Ali Habib egy központi iszlám mecset, amely a mukallai kikötőrégió hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        49.139098,
+                        14.527841
+                  ]
+            },
+            {
+                  "name": "Masjid Bilad",
+                  "text": "A Masjid Bilad egy elismert iszlám imádkozóhely Mukalla nyüzsgő városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137802,
+                        14.526105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Masjid an Nur este o moschee islamică cheie situată în aglomeratul oraș portuar Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137546,
+                        14.529903
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Zirarah",
+                  "text": "Situată în Mukalla, Masjid Ba Zirarah oferă un spațiu dedicat rugăciunilor comunității islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136405,
+                        14.525459
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Ya`shut",
+                  "text": "Masjid Ba Ya`shut este o moschee islamică tradițională situată lângă portul economic din Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.140402,
+                        14.529041
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar",
+                  "text": "Masjid `Umar servește ca un lăcaș de cult islamic semnificativ în orașul de coastă Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.134756,
+                        14.530758
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rawdah",
+                  "text": "Masjid ar Rawdah este un loc de congregație islamică situat în zona activă a portului din Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136627,
+                        14.529015
+                  ]
+            },
+            {
+                  "name": "Masjid `Ali Habib",
+                  "text": "Masjid `Ali Habib este o moschee islamică centrală care îi deservește pe credincioșii din regiunea portului Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.139098,
+                        14.527841
+                  ]
+            },
+            {
+                  "name": "Masjid Bilad",
+                  "text": "Masjid Bilad este un loc de rugăciune islamic stabilit, situat în orașul plin de viață Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137802,
+                        14.526105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Masjid an Nur is a key Islamic mosque located in the busy port city of Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137546,
+                        14.529903
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Zirarah",
+                  "text": "Located in Mukalla, Masjid Ba Zirarah provides a dedicated space for Islamic community prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136405,
+                        14.525459
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Ya`shut",
+                  "text": "Masjid Ba Ya`shut is a traditional Islamic mosque situated near Mukalla's economic port.",
+                  "category": "landmark",
+                  "coords": [
+                        49.140402,
+                        14.529041
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar",
+                  "text": "Masjid `Umar serves as a significant Islamic place of worship in the coastal city of Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.134756,
+                        14.530758
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rawdah",
+                  "text": "Masjid ar Rawdah is an Islamic congregation site located within the active port area of Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.136627,
+                        14.529015
+                  ]
+            },
+            {
+                  "name": "Masjid `Ali Habib",
+                  "text": "The Masjid `Ali Habib is a central Islamic mosque serving worshippers in the Mukalla port region.",
+                  "category": "landmark",
+                  "coords": [
+                        49.139098,
+                        14.527841
+                  ]
+            },
+            {
+                  "name": "Masjid Bilad",
+                  "text": "Masjid Bilad is an established Islamic prayer site located in the bustling city of Mukalla.",
+                  "category": "landmark",
+                  "coords": [
+                        49.137802,
+                        14.526105
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "YE-HD",
     coords: [49.15, 14.53],
@@ -111,7 +750,52 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "balhaf-lng-terminal-economic-v2",
+    id: "balhaf-lng-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belhaf Mosque",
+                  "text": "Die Belhaf-Moschee ist eine islamische Stätte, die der Gemeinde rund um das LNG-Terminal an der Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.171973,
+                        14.016069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belhaf Mosque",
+                  "text": "A Belhaf mecset egy iszlám helyszín, amely a tengerparti LNG-terminál körüli közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.171973,
+                        14.016069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belhaf Mosque",
+                  "text": "Moscheea Belhaf este un sit islamic care deservește comunitatea din jurul terminalului GNL de pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.171973,
+                        14.016069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belhaf Mosque",
+                  "text": "The Belhaf Mosque is an Islamic site serving the community around the coastal LNG terminal area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.171973,
+                        14.016069
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "YE-SH",
     coords: [48.18, 13.98],
@@ -147,7 +831,88 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "marib-refinery-economic-v2",
+    id: "marib-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Nadilan Mosque",
+                  "text": "Die Nadilan-Moschee dient der islamischen Gemeinschaft nahe dem Industriezentrum von Marib.",
+                  "category": "landmark",
+                  "coords": [
+                        45.351053,
+                        15.48545
+                  ]
+            },
+            {
+                  "name": "gsileh",
+                  "text": "Die heiße Quelle gsileh bietet natürliches Thermalwasser in der Region Marib.",
+                  "category": "natural",
+                  "coords": [
+                        45.329534,
+                        15.447347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Nadilan Mosque",
+                  "text": "A Nadilan mecset a Marib ipari központja közelében élő iszlám közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.351053,
+                        15.48545
+                  ]
+            },
+            {
+                  "name": "gsileh",
+                  "text": "A gsileh meleg forrás természetes termálvizet kínál a maribi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        45.329534,
+                        15.447347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Nadilan Mosque",
+                  "text": "Moscheea Nadilan deservește comunitatea islamică din apropierea centrului industrial Marib.",
+                  "category": "landmark",
+                  "coords": [
+                        45.351053,
+                        15.48545
+                  ]
+            },
+            {
+                  "name": "gsileh",
+                  "text": "Izvorul termal gsileh oferă ape naturale calde în regiunea Marib.",
+                  "category": "natural",
+                  "coords": [
+                        45.329534,
+                        15.447347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Nadilan Mosque",
+                  "text": "The Nadilan Mosque serves the Islamic community near the industrial hub of Marib.",
+                  "category": "landmark",
+                  "coords": [
+                        45.351053,
+                        15.48545
+                  ]
+            },
+            {
+                  "name": "gsileh",
+                  "text": "The gsileh hot spring offers natural thermal waters in the Marib region.",
+                  "category": "natural",
+                  "coords": [
+                        45.329534,
+                        15.447347
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "YE-MA",
     coords: [45.33, 15.47],
@@ -255,7 +1020,1420 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "ash-shihr-oil-terminal-economic-v2",
+    id: "ash-shihr-oil-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almehdar Museum",
+                  "text": "Das Almehdar Museum ist eine lokale Einrichtung zur Bewahrung der Geschichte in Ash Shihr.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.766698
+                  ]
+            },
+            {
+                  "name": "Alkhaishah",
+                  "text": "Alkhaishah bietet historische Ruinen, die einen Einblick in die Vergangenheit von Ash Shihr geben.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            },
+            {
+                  "name": "Marir",
+                  "text": "Marir ist eine archäologische Stätte mit historischen Ruinen in Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "Bin Ayyash Fort",
+                  "text": "Das Fort Bin Ayyash ist eine historische Verteidigungsanlage in Ash Shihr.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604455,
+                        14.755225
+                  ]
+            },
+            {
+                  "name": "Shibam Souq",
+                  "text": "Der Shibam Souq ist ein traditioneller Markt, auf dem verschiedene lokale Waren in Ash Shihr angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.606221,
+                        14.757211
+                  ]
+            },
+            {
+                  "name": "Masjid al Bayd",
+                  "text": "Masjid al Bayd ist ein islamisches Gotteshaus in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.599842,
+                        14.756798
+                  ]
+            },
+            {
+                  "name": "Fadhel Mosque",
+                  "text": "Die Fadhel Moschee ist eine Moschee, die den muslimischen Bewohnern von Ash Shihr dient.",
+                  "category": "landmark",
+                  "coords": [
+                        49.54459,
+                        14.73473
+                  ]
+            },
+            {
+                  "name": "Masjid `Abd ar Rahim",
+                  "text": "Masjid `Abd ar Rahim ist eine lokale Moschee in Ash Shihr, die islamischen Gebeten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.601125,
+                        14.754249
+                  ]
+            },
+            {
+                  "name": "Masjid al Inabah",
+                  "text": "Die Masjid al Inabah ist ein islamisches Gotteshaus in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614724,
+                        14.769907
+                  ]
+            },
+            {
+                  "name": "Masjid al Imam Bin Baz",
+                  "text": "Masjid al Imam Bin Baz ist eine Moschee für die lokale islamische Gemeinde in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.613339,
+                        14.769647
+                  ]
+            },
+            {
+                  "name": "Masjid Mu`adh Bin Jabal",
+                  "text": "Die Masjid Mu`adh Bin Jabal ist ein Ort islamischer Gottesdienste in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612614,
+                        14.767966
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shawkani",
+                  "text": "Die Masjid ash Shawkani ist eine lokale Moschee in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616071,
+                        14.767242
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Ahmad",
+                  "text": "Masjid Bin Ahmad ist ein islamisches Gotteshaus in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607698,
+                        14.757112
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar Bin al Khattab",
+                  "text": "Die Masjid `Umar Bin al Khattab ist eine Moschee, in der sich lokale Muslime in Ash Shihr zum Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608321,
+                        14.764567
+                  ]
+            },
+            {
+                  "name": "Masjid an Nawawi",
+                  "text": "Masjid an Nawawi ist eine lokale islamische Moschee in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595602,
+                        14.761038
+                  ]
+            },
+            {
+                  "name": "Masjid Bashir Ahayl",
+                  "text": "Masjid Bashir Ahayl ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.59696,
+                        14.763341
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Masjid Abu Bakr as Siddiq ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592247,
+                        14.759938
+                  ]
+            },
+            {
+                  "name": "Masjid al Firqan",
+                  "text": "Masjid al Firqan ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592596,
+                        14.755632
+                  ]
+            },
+            {
+                  "name": "Masjid at Taqwa",
+                  "text": "Masjid at Taqwa ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595077,
+                        14.756235
+                  ]
+            },
+            {
+                  "name": "Amr Mosque",
+                  "text": "Amr Mosque ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607842,
+                        14.755852
+                  ]
+            },
+            {
+                  "name": "Masjid Baqshah",
+                  "text": "Masjid Baqshah ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603341,
+                        14.754136
+                  ]
+            },
+            {
+                  "name": "Alaidaroos Mosque",
+                  "text": "Alaidaroos Mosque ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603141,
+                        14.752518
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Lahaf",
+                  "text": "Masjid Ba Lahaf ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608368,
+                        14.754141
+                  ]
+            },
+            {
+                  "name": "Masjid Mas`ab Bin `Umayr",
+                  "text": "Masjid Mas`ab Bin `Umayr ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618141,
+                        14.75658
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahman",
+                  "text": "Masjid ar Rahman ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618986,
+                        14.764326
+                  ]
+            },
+            {
+                  "name": "Msjed Alkhlafa",
+                  "text": "Msjed Alkhlafa ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.609282,
+                        14.768698
+                  ]
+            },
+            {
+                  "name": "Masjid al `Awabin",
+                  "text": "Masjid al `Awabin ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611336,
+                        14.76406
+                  ]
+            },
+            {
+                  "name": "Masjid al Mawsati",
+                  "text": "Masjid al Mawsati ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616917,
+                        14.765418
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Masjid ash Shafi`i ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.615811,
+                        14.762787
+                  ]
+            },
+            {
+                  "name": "Masjid ad Diya'",
+                  "text": "Masjid ad Diya' ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.6178,
+                        14.759199
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Jawban",
+                  "text": "Masjid Bin Jawban ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614505,
+                        14.758648
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Hamad",
+                  "text": "Masjid ash Shaykh Hamad ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611509,
+                        14.757274
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Sa`d",
+                  "text": "Masjid ash Shaykh Sa`d ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.61017,
+                        14.75618
+                  ]
+            },
+            {
+                  "name": "Masjid Aideed",
+                  "text": "Masjid Aideed ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.610937,
+                        14.759003
+                  ]
+            },
+            {
+                  "name": "Masjid Wubair",
+                  "text": "Masjid Wubair ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612532,
+                        14.761326
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Masjid an Nur ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608977,
+                        14.762517
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ahqaf",
+                  "text": "Masjid Al-Ahqaf ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.60686,
+                        14.761539
+                  ]
+            },
+            {
+                  "name": "Masjid Bin `Atiq",
+                  "text": "Masjid Bin `Atiq ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.605287,
+                        14.760853
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mihdar",
+                  "text": "Masjid Al Mihdar ist eine Moschee in der Stadt ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.606679,
+                        14.759954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almehdar Museum",
+                  "text": "Az Almehdar Múzeum egy helyi intézmény, amely a történelem megőrzésének szenteli magát Ash Shihr városában.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.766698
+                  ]
+            },
+            {
+                  "name": "Alkhaishah",
+                  "text": "Alkhaishah történelmi romokkal rendelkezik, amelyek bepillantást engednek Ash Shihr múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            },
+            {
+                  "name": "Marir",
+                  "text": "Marir egy régészeti lelőhely, amely történelmi romokat tartalmaz Ash Shihr területén.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "Bin Ayyash Fort",
+                  "text": "A Bin Ayyash erőd egy történelmi védelmi építmény Ash Shihr városában.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604455,
+                        14.755225
+                  ]
+            },
+            {
+                  "name": "Shibam Souq",
+                  "text": "A Shibam Souq egy hagyományos piac, amely különféle helyi árukat és termékeket kínál Ash Shihr városában.",
+                  "category": "cultural",
+                  "coords": [
+                        49.606221,
+                        14.757211
+                  ]
+            },
+            {
+                  "name": "Masjid al Bayd",
+                  "text": "A Masjid al Bayd egy iszlám istentiszteleti hely Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.599842,
+                        14.756798
+                  ]
+            },
+            {
+                  "name": "Fadhel Mosque",
+                  "text": "A Fadhel mecset egy Ash Shihr muszlim lakosait kiszolgáló mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        49.54459,
+                        14.73473
+                  ]
+            },
+            {
+                  "name": "Masjid `Abd ar Rahim",
+                  "text": "A Masjid `Abd ar Rahim egy helyi mecset Ash Shihr városában, amelyet az iszlám imáknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        49.601125,
+                        14.754249
+                  ]
+            },
+            {
+                  "name": "Masjid al Inabah",
+                  "text": "A Masjid al Inabah egy iszlám istentiszteleti hely Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614724,
+                        14.769907
+                  ]
+            },
+            {
+                  "name": "Masjid al Imam Bin Baz",
+                  "text": "A Masjid al Imam Bin Baz egy mecset a helyi iszlám gyülekezet számára Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.613339,
+                        14.769647
+                  ]
+            },
+            {
+                  "name": "Masjid Mu`adh Bin Jabal",
+                  "text": "A Masjid Mu`adh Bin Jabal egy iszlám istentiszteleti hely Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612614,
+                        14.767966
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shawkani",
+                  "text": "A Masjid ash Shawkani egy helyi mecset Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616071,
+                        14.767242
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Ahmad",
+                  "text": "A Masjid Bin Ahmad egy iszlám istentiszteleti hely Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607698,
+                        14.757112
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar Bin al Khattab",
+                  "text": "A Masjid `Umar Bin al Khattab egy mecset, ahol a helyi muszlimok imára gyűlnek össze Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608321,
+                        14.764567
+                  ]
+            },
+            {
+                  "name": "Masjid an Nawawi",
+                  "text": "A Masjid an Nawawi egy helyi iszlám mecset Ash Shihr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595602,
+                        14.761038
+                  ]
+            },
+            {
+                  "name": "Masjid Bashir Ahayl",
+                  "text": "A(z) Masjid Bashir Ahayl egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.59696,
+                        14.763341
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "A(z) Masjid Abu Bakr as Siddiq egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592247,
+                        14.759938
+                  ]
+            },
+            {
+                  "name": "Masjid al Firqan",
+                  "text": "A(z) Masjid al Firqan egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592596,
+                        14.755632
+                  ]
+            },
+            {
+                  "name": "Masjid at Taqwa",
+                  "text": "A(z) Masjid at Taqwa egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595077,
+                        14.756235
+                  ]
+            },
+            {
+                  "name": "Amr Mosque",
+                  "text": "A(z) Amr Mosque egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607842,
+                        14.755852
+                  ]
+            },
+            {
+                  "name": "Masjid Baqshah",
+                  "text": "A(z) Masjid Baqshah egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603341,
+                        14.754136
+                  ]
+            },
+            {
+                  "name": "Alaidaroos Mosque",
+                  "text": "A(z) Alaidaroos Mosque egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603141,
+                        14.752518
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Lahaf",
+                  "text": "A(z) Masjid Ba Lahaf egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608368,
+                        14.754141
+                  ]
+            },
+            {
+                  "name": "Masjid Mas`ab Bin `Umayr",
+                  "text": "A(z) Masjid Mas`ab Bin `Umayr egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618141,
+                        14.75658
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahman",
+                  "text": "A(z) Masjid ar Rahman egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618986,
+                        14.764326
+                  ]
+            },
+            {
+                  "name": "Msjed Alkhlafa",
+                  "text": "A(z) Msjed Alkhlafa egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.609282,
+                        14.768698
+                  ]
+            },
+            {
+                  "name": "Masjid al `Awabin",
+                  "text": "A(z) Masjid al `Awabin egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611336,
+                        14.76406
+                  ]
+            },
+            {
+                  "name": "Masjid al Mawsati",
+                  "text": "A(z) Masjid al Mawsati egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616917,
+                        14.765418
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "A(z) Masjid ash Shafi`i egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.615811,
+                        14.762787
+                  ]
+            },
+            {
+                  "name": "Masjid ad Diya'",
+                  "text": "A(z) Masjid ad Diya' egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.6178,
+                        14.759199
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Jawban",
+                  "text": "A(z) Masjid Bin Jawban egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614505,
+                        14.758648
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Hamad",
+                  "text": "A(z) Masjid ash Shaykh Hamad egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611509,
+                        14.757274
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Sa`d",
+                  "text": "A(z) Masjid ash Shaykh Sa`d egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.61017,
+                        14.75618
+                  ]
+            },
+            {
+                  "name": "Masjid Aideed",
+                  "text": "A(z) Masjid Aideed egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.610937,
+                        14.759003
+                  ]
+            },
+            {
+                  "name": "Masjid Wubair",
+                  "text": "A(z) Masjid Wubair egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612532,
+                        14.761326
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "A(z) Masjid an Nur egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608977,
+                        14.762517
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ahqaf",
+                  "text": "A(z) Masjid Al-Ahqaf egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.60686,
+                        14.761539
+                  ]
+            },
+            {
+                  "name": "Masjid Bin `Atiq",
+                  "text": "A(z) Masjid Bin `Atiq egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.605287,
+                        14.760853
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mihdar",
+                  "text": "A(z) Masjid Al Mihdar egy mecset ash-shihr-oil-terminal-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.606679,
+                        14.759954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almehdar Museum",
+                  "text": "Muzeul Almehdar este o instituție locală dedicată conservării istoriei din Ash Shihr.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.766698
+                  ]
+            },
+            {
+                  "name": "Alkhaishah",
+                  "text": "Alkhaishah prezintă ruine istorice care oferă o privire în trecutul din Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            },
+            {
+                  "name": "Marir",
+                  "text": "Marir este un sit arheologic care conține ruine istorice din Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "Bin Ayyash Fort",
+                  "text": "Fortul Bin Ayyash este o structură defensivă istorică situată în Ash Shihr.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604455,
+                        14.755225
+                  ]
+            },
+            {
+                  "name": "Shibam Souq",
+                  "text": "Shibam Souq este o piață tradițională care oferă diverse bunuri locale din Ash Shihr.",
+                  "category": "cultural",
+                  "coords": [
+                        49.606221,
+                        14.757211
+                  ]
+            },
+            {
+                  "name": "Masjid al Bayd",
+                  "text": "Masjid al Bayd este un lăcaș de cult islamic din Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.599842,
+                        14.756798
+                  ]
+            },
+            {
+                  "name": "Fadhel Mosque",
+                  "text": "Moscheea Fadhel este o moschee care deservește rezidenții musulmani din Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.54459,
+                        14.73473
+                  ]
+            },
+            {
+                  "name": "Masjid `Abd ar Rahim",
+                  "text": "Masjid `Abd ar Rahim este o moschee locală din Ash Shihr dedicată rugăciunilor islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        49.601125,
+                        14.754249
+                  ]
+            },
+            {
+                  "name": "Masjid al Inabah",
+                  "text": "Masjid al Inabah este un lăcaș de cult islamic situat în Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614724,
+                        14.769907
+                  ]
+            },
+            {
+                  "name": "Masjid al Imam Bin Baz",
+                  "text": "Masjid al Imam Bin Baz este o moschee pentru congregația islamică locală din Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.613339,
+                        14.769647
+                  ]
+            },
+            {
+                  "name": "Masjid Mu`adh Bin Jabal",
+                  "text": "Masjid Mu`adh Bin Jabal este un loc de cult islamic din Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612614,
+                        14.767966
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shawkani",
+                  "text": "Masjid ash Shawkani este o moschee locală din Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616071,
+                        14.767242
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Ahmad",
+                  "text": "Masjid Bin Ahmad este un lăcaș de cult islamic situat în Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607698,
+                        14.757112
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar Bin al Khattab",
+                  "text": "Masjid `Umar Bin al Khattab este o moschee unde musulmanii locali din Ash Shihr se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608321,
+                        14.764567
+                  ]
+            },
+            {
+                  "name": "Masjid an Nawawi",
+                  "text": "Masjid an Nawawi este o moschee islamică locală din Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595602,
+                        14.761038
+                  ]
+            },
+            {
+                  "name": "Masjid Bashir Ahayl",
+                  "text": "Masjid Bashir Ahayl este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.59696,
+                        14.763341
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Masjid Abu Bakr as Siddiq este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592247,
+                        14.759938
+                  ]
+            },
+            {
+                  "name": "Masjid al Firqan",
+                  "text": "Masjid al Firqan este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592596,
+                        14.755632
+                  ]
+            },
+            {
+                  "name": "Masjid at Taqwa",
+                  "text": "Masjid at Taqwa este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595077,
+                        14.756235
+                  ]
+            },
+            {
+                  "name": "Amr Mosque",
+                  "text": "Amr Mosque este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607842,
+                        14.755852
+                  ]
+            },
+            {
+                  "name": "Masjid Baqshah",
+                  "text": "Masjid Baqshah este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603341,
+                        14.754136
+                  ]
+            },
+            {
+                  "name": "Alaidaroos Mosque",
+                  "text": "Alaidaroos Mosque este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603141,
+                        14.752518
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Lahaf",
+                  "text": "Masjid Ba Lahaf este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608368,
+                        14.754141
+                  ]
+            },
+            {
+                  "name": "Masjid Mas`ab Bin `Umayr",
+                  "text": "Masjid Mas`ab Bin `Umayr este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618141,
+                        14.75658
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahman",
+                  "text": "Masjid ar Rahman este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618986,
+                        14.764326
+                  ]
+            },
+            {
+                  "name": "Msjed Alkhlafa",
+                  "text": "Msjed Alkhlafa este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.609282,
+                        14.768698
+                  ]
+            },
+            {
+                  "name": "Masjid al `Awabin",
+                  "text": "Masjid al `Awabin este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611336,
+                        14.76406
+                  ]
+            },
+            {
+                  "name": "Masjid al Mawsati",
+                  "text": "Masjid al Mawsati este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616917,
+                        14.765418
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Masjid ash Shafi`i este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.615811,
+                        14.762787
+                  ]
+            },
+            {
+                  "name": "Masjid ad Diya'",
+                  "text": "Masjid ad Diya' este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.6178,
+                        14.759199
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Jawban",
+                  "text": "Masjid Bin Jawban este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614505,
+                        14.758648
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Hamad",
+                  "text": "Masjid ash Shaykh Hamad este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611509,
+                        14.757274
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Sa`d",
+                  "text": "Masjid ash Shaykh Sa`d este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.61017,
+                        14.75618
+                  ]
+            },
+            {
+                  "name": "Masjid Aideed",
+                  "text": "Masjid Aideed este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.610937,
+                        14.759003
+                  ]
+            },
+            {
+                  "name": "Masjid Wubair",
+                  "text": "Masjid Wubair este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612532,
+                        14.761326
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Masjid an Nur este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608977,
+                        14.762517
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ahqaf",
+                  "text": "Masjid Al-Ahqaf este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.60686,
+                        14.761539
+                  ]
+            },
+            {
+                  "name": "Masjid Bin `Atiq",
+                  "text": "Masjid Bin `Atiq este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.605287,
+                        14.760853
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mihdar",
+                  "text": "Masjid Al Mihdar este o moschee situată în orașul ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.606679,
+                        14.759954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almehdar Museum",
+                  "text": "Almehdar Museum is a local institution dedicated to preserving history in Ash Shihr.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.766698
+                  ]
+            },
+            {
+                  "name": "Alkhaishah",
+                  "text": "Alkhaishah features historic ruins that offer a glimpse into the past of Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            },
+            {
+                  "name": "Marir",
+                  "text": "Marir is an archaeological site containing historical ruins in Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "Bin Ayyash Fort",
+                  "text": "Bin Ayyash Fort is a historical defensive structure located in Ash Shihr.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604455,
+                        14.755225
+                  ]
+            },
+            {
+                  "name": "Shibam Souq",
+                  "text": "Shibam Souq is a traditional marketplace offering various local goods in Ash Shihr.",
+                  "category": "cultural",
+                  "coords": [
+                        49.606221,
+                        14.757211
+                  ]
+            },
+            {
+                  "name": "Masjid al Bayd",
+                  "text": "Masjid al Bayd is an Islamic place of worship in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.599842,
+                        14.756798
+                  ]
+            },
+            {
+                  "name": "Fadhel Mosque",
+                  "text": "Fadhel Mosque is a mosque serving the Muslim residents of Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.54459,
+                        14.73473
+                  ]
+            },
+            {
+                  "name": "Masjid `Abd ar Rahim",
+                  "text": "Masjid `Abd ar Rahim is a local mosque in Ash Shihr dedicated to Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        49.601125,
+                        14.754249
+                  ]
+            },
+            {
+                  "name": "Masjid al Inabah",
+                  "text": "Masjid al Inabah is an Islamic place of worship located in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614724,
+                        14.769907
+                  ]
+            },
+            {
+                  "name": "Masjid al Imam Bin Baz",
+                  "text": "Masjid al Imam Bin Baz is a mosque for the local Islamic congregation in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.613339,
+                        14.769647
+                  ]
+            },
+            {
+                  "name": "Masjid Mu`adh Bin Jabal",
+                  "text": "Masjid Mu`adh Bin Jabal is a place of Islamic worship in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612614,
+                        14.767966
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shawkani",
+                  "text": "Masjid ash Shawkani is a local mosque in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616071,
+                        14.767242
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Ahmad",
+                  "text": "Masjid Bin Ahmad is an Islamic place of worship located in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607698,
+                        14.757112
+                  ]
+            },
+            {
+                  "name": "Masjid `Umar Bin al Khattab",
+                  "text": "Masjid `Umar Bin al Khattab is a mosque where local Muslims gather for prayer in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608321,
+                        14.764567
+                  ]
+            },
+            {
+                  "name": "Masjid an Nawawi",
+                  "text": "Masjid an Nawawi is a local Islamic mosque in Ash Shihr.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595602,
+                        14.761038
+                  ]
+            },
+            {
+                  "name": "Masjid Bashir Ahayl",
+                  "text": "Masjid Bashir Ahayl is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.59696,
+                        14.763341
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Masjid Abu Bakr as Siddiq is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592247,
+                        14.759938
+                  ]
+            },
+            {
+                  "name": "Masjid al Firqan",
+                  "text": "Masjid al Firqan is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.592596,
+                        14.755632
+                  ]
+            },
+            {
+                  "name": "Masjid at Taqwa",
+                  "text": "Masjid at Taqwa is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.595077,
+                        14.756235
+                  ]
+            },
+            {
+                  "name": "Amr Mosque",
+                  "text": "Amr Mosque is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.607842,
+                        14.755852
+                  ]
+            },
+            {
+                  "name": "Masjid Baqshah",
+                  "text": "Masjid Baqshah is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603341,
+                        14.754136
+                  ]
+            },
+            {
+                  "name": "Alaidaroos Mosque",
+                  "text": "Alaidaroos Mosque is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.603141,
+                        14.752518
+                  ]
+            },
+            {
+                  "name": "Masjid Ba Lahaf",
+                  "text": "Masjid Ba Lahaf is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608368,
+                        14.754141
+                  ]
+            },
+            {
+                  "name": "Masjid Mas`ab Bin `Umayr",
+                  "text": "Masjid Mas`ab Bin `Umayr is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618141,
+                        14.75658
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahman",
+                  "text": "Masjid ar Rahman is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.618986,
+                        14.764326
+                  ]
+            },
+            {
+                  "name": "Msjed Alkhlafa",
+                  "text": "Msjed Alkhlafa is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.609282,
+                        14.768698
+                  ]
+            },
+            {
+                  "name": "Masjid al `Awabin",
+                  "text": "Masjid al `Awabin is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611336,
+                        14.76406
+                  ]
+            },
+            {
+                  "name": "Masjid al Mawsati",
+                  "text": "Masjid al Mawsati is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.616917,
+                        14.765418
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Masjid ash Shafi`i is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.615811,
+                        14.762787
+                  ]
+            },
+            {
+                  "name": "Masjid ad Diya'",
+                  "text": "Masjid ad Diya' is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.6178,
+                        14.759199
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Jawban",
+                  "text": "Masjid Bin Jawban is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.614505,
+                        14.758648
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Hamad",
+                  "text": "Masjid ash Shaykh Hamad is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611509,
+                        14.757274
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Sa`d",
+                  "text": "Masjid ash Shaykh Sa`d is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.61017,
+                        14.75618
+                  ]
+            },
+            {
+                  "name": "Masjid Aideed",
+                  "text": "Masjid Aideed is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.610937,
+                        14.759003
+                  ]
+            },
+            {
+                  "name": "Masjid Wubair",
+                  "text": "Masjid Wubair is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.612532,
+                        14.761326
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Masjid an Nur is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.608977,
+                        14.762517
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ahqaf",
+                  "text": "Masjid Al-Ahqaf is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.60686,
+                        14.761539
+                  ]
+            },
+            {
+                  "name": "Masjid Bin `Atiq",
+                  "text": "Masjid Bin `Atiq is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.605287,
+                        14.760853
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mihdar",
+                  "text": "Masjid Al Mihdar is a mosque located in the city of ash-shihr-oil-terminal-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        49.606679,
+                        14.759954
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "YE-HD",
     coords: [49.58, 14.75],
@@ -291,7 +2469,124 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "mocha-port-economic-v2",
+    id: "mocha-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "NRC",
+                  "text": "Eine Einrichtung am geschichtsträchtigen Hafen von Mocha, einst das Zentrum des weltweiten Kaffeehandels.",
+                  "category": "landmark",
+                  "coords": [
+                        43.261762,
+                        13.320687
+                  ]
+            },
+            {
+                  "name": "Fort Taiire",
+                  "text": "Die Überreste einer Küstenfestung, die einst den bedeutenden Exporthafen Mocha vor Angriffen schützte.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            },
+            {
+                  "name": "Al Mokha market",
+                  "text": "Ein lebhafter Marktplatz in der Hafenstadt Mocha, bekannt für seine jahrhundertealte Handelstradition.",
+                  "category": "cultural",
+                  "coords": [
+                        43.245242,
+                        13.321128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NRC",
+                  "text": "Létesítmény Mocha történelmi kikötőjében, amely egykor a világ kávékereskedelmének központja volt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.261762,
+                        13.320687
+                  ]
+            },
+            {
+                  "name": "Fort Taiire",
+                  "text": "Egy tengerparti erőd maradványai, amely egykor a fontos Mocha exportkikötőt védte a támadásoktól.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            },
+            {
+                  "name": "Al Mokha market",
+                  "text": "Nyüzsgő piactér Mocha kikötővárosában, amely évszázados kereskedelmi hagyományairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        43.245242,
+                        13.321128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NRC",
+                  "text": "O facilitate situată în portul istoric Mocha, odinioară centrul comerțului mondial cu cafea.",
+                  "category": "landmark",
+                  "coords": [
+                        43.261762,
+                        13.320687
+                  ]
+            },
+            {
+                  "name": "Fort Taiire",
+                  "text": "Rămășițele unei fortificații de coastă care proteja odinioară importantul port de export Mocha împotriva atacurilor.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            },
+            {
+                  "name": "Al Mokha market",
+                  "text": "O piață plină de viață în orașul portuar Mocha, cunoscută pentru tradiția sa comercială de secole.",
+                  "category": "cultural",
+                  "coords": [
+                        43.245242,
+                        13.321128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NRC",
+                  "text": "A facility located at the historic port of Mocha, once the center of the world's coffee trade.",
+                  "category": "landmark",
+                  "coords": [
+                        43.261762,
+                        13.320687
+                  ]
+            },
+            {
+                  "name": "Fort Taiire",
+                  "text": "The remains of a coastal fortification that once protected the vital Mocha export port from attacks.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            },
+            {
+                  "name": "Al Mokha market",
+                  "text": "A bustling marketplace in the port city of Mocha, known for its centuries-old trading tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        43.245242,
+                        13.321128
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "YE-TA",
     coords: [43.24, 13.32],
@@ -363,7 +2658,52 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "masila-oil-field-economic-v2",
+    id: "masila-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hisn Lajun",
+                  "text": "Historische Festung aus Lehmziegeln, die strategisch günstig auf dem Masila-Plateau liegt.",
+                  "category": "castle",
+                  "coords": [
+                        49.351111,
+                        15.544722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hisn Lajun",
+                  "text": "Hagyományos vályogtégla erődítmény, amely stratégiai helyen, a Masila-fennsíkon található.",
+                  "category": "castle",
+                  "coords": [
+                        49.351111,
+                        15.544722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hisn Lajun",
+                  "text": "Fortăreață istorică din cărămidă de chirpici, situată strategic pe platoul Masila.",
+                  "category": "castle",
+                  "coords": [
+                        49.351111,
+                        15.544722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hisn Lajun",
+                  "text": "Historical mud-brick fortress strategically located on the Masila plateau.",
+                  "category": "castle",
+                  "coords": [
+                        49.351111,
+                        15.544722
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "YE-HD",
     coords: [49.30, 15.60],
@@ -471,7 +2811,196 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "amran-cement-plant-economic-v2",
+    id: "amran-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Mihshash",
+                  "text": "Ein felsiger Gipfel, der die Industrielandschaft von Amran überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        43.913721,
+                        15.694828
+                  ]
+            },
+            {
+                  "name": "Jabal Jur`ah",
+                  "text": "Ein zerklüfteter Gipfel, der sich über die Hochebenen der Provinz Amran erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.633333
+                  ]
+            },
+            {
+                  "name": "Al Marhah",
+                  "text": "Ein steiler Berggipfel in dem zerklüfteten Gelände in der Nähe von Amran.",
+                  "category": "natural",
+                  "coords": [
+                        43.929599,
+                        15.62557
+                  ]
+            },
+            {
+                  "name": "Jabal Jannat",
+                  "text": "Ein markanter Gipfel, der die Stadt Amran und ihre Zementanlagen überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.7
+                  ]
+            },
+            {
+                  "name": "Mosque baker Mohammed baker",
+                  "text": "Ein lokaler Gebetsort, der der Gemeinde der Stadt Amran dient.",
+                  "category": "religious",
+                  "coords": [
+                        43.939227,
+                        15.65696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal al Mihshash",
+                  "text": "Egy sziklás csúcs, amely Amran ipari tájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.913721,
+                        15.694828
+                  ]
+            },
+            {
+                  "name": "Jabal Jur`ah",
+                  "text": "Egy sziklás csúcs, amely Amran tartomány magas fennsíkjai fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.633333
+                  ]
+            },
+            {
+                  "name": "Al Marhah",
+                  "text": "Egy meredek hegycsúcs az Amran melletti sziklás terepen.",
+                  "category": "natural",
+                  "coords": [
+                        43.929599,
+                        15.62557
+                  ]
+            },
+            {
+                  "name": "Jabal Jannat",
+                  "text": "Egy kiemelkedő csúcs, amely Amran városára és cementgyárára néz.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.7
+                  ]
+            },
+            {
+                  "name": "Mosque baker Mohammed baker",
+                  "text": "Egy helyi imaház, amely Amran város közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        43.939227,
+                        15.65696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal al Mihshash",
+                  "text": "Un vârf stâncos care domină peisajul industrial din Amran.",
+                  "category": "natural",
+                  "coords": [
+                        43.913721,
+                        15.694828
+                  ]
+            },
+            {
+                  "name": "Jabal Jur`ah",
+                  "text": "Un vârf accidentat care se ridică deasupra câmpiei înalte a provinciei Amran.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.633333
+                  ]
+            },
+            {
+                  "name": "Al Marhah",
+                  "text": "Un vârf muntos abrupt în terenul accidentat de lângă Amran.",
+                  "category": "natural",
+                  "coords": [
+                        43.929599,
+                        15.62557
+                  ]
+            },
+            {
+                  "name": "Jabal Jannat",
+                  "text": "Un vârf proeminent care domină orașul Amran și fabricile de ciment.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.7
+                  ]
+            },
+            {
+                  "name": "Mosque baker Mohammed baker",
+                  "text": "Un lăcaș de rugăciune local care deservește comunitatea orașului Amran.",
+                  "category": "religious",
+                  "coords": [
+                        43.939227,
+                        15.65696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Mihshash",
+                  "text": "A rocky peak overlooking the industrial landscape of Amran.",
+                  "category": "natural",
+                  "coords": [
+                        43.913721,
+                        15.694828
+                  ]
+            },
+            {
+                  "name": "Jabal Jur`ah",
+                  "text": "A rugged peak rising above the high plains of the Amran province.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.633333
+                  ]
+            },
+            {
+                  "name": "Al Marhah",
+                  "text": "A steep mountain top in the craggy terrain near Amran.",
+                  "category": "natural",
+                  "coords": [
+                        43.929599,
+                        15.62557
+                  ]
+            },
+            {
+                  "name": "Jabal Jannat",
+                  "text": "A prominent peak overlooking the city of Amran and its cement facilities.",
+                  "category": "natural",
+                  "coords": [
+                        43.9,
+                        15.7
+                  ]
+            },
+            {
+                  "name": "Mosque baker Mohammed baker",
+                  "text": "A local place of worship serving the community of Amran.",
+                  "category": "religious",
+                  "coords": [
+                        43.939227,
+                        15.65696
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "YE-AM",
     coords: [43.94, 15.66],
@@ -507,7 +3036,232 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "bajil-cement-factory-economic-v2",
+    id: "bajil-cement-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "Ein markanter Berggipfel in der zerklüfteten Landschaft bei Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.244891,
+                        15.026973
+                  ]
+            },
+            {
+                  "name": "Jabal Mani`",
+                  "text": "Ein hoher Gipfel mit weitem Blick über das bergige Bajil-Becken.",
+                  "category": "natural",
+                  "coords": [
+                        43.239111,
+                        15.034289
+                  ]
+            },
+            {
+                  "name": "Qarn Bani Hamud",
+                  "text": "Ein spitzer, felsiger Gipfel in der trockenen Hochlandregion des Jemen.",
+                  "category": "natural",
+                  "coords": [
+                        43.274815,
+                        15.017139
+                  ]
+            },
+            {
+                  "name": "Jabal ad Darb",
+                  "text": "Ein bedeutender Gebirgszug in der munteren Umgebung von Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.301111,
+                        15.011389
+                  ]
+            },
+            {
+                  "name": "Jabal Suwayq",
+                  "text": "Ein markanter Gipfel in der komplexen Topographie des Tihamah-Hochlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.307493,
+                        15.142236
+                  ]
+            },
+            {
+                  "name": "Al Qarn",
+                  "text": "Ein markanter Berggipfel mit steilen Hängen in der Gegend von Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.284615,
+                        15.143611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "Egy kiemelkedő hegycsúcs Bajil környékének sziklás vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.244891,
+                        15.026973
+                  ]
+            },
+            {
+                  "name": "Jabal Mani`",
+                  "text": "Magas hegycsúcs, amely kilátást nyújt Bajil hegyvidéki területére.",
+                  "category": "natural",
+                  "coords": [
+                        43.239111,
+                        15.034289
+                  ]
+            },
+            {
+                  "name": "Qarn Bani Hamud",
+                  "text": "Egy hegyes, sziklás csúcs Jemen száraz felföldi régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        43.274815,
+                        15.017139
+                  ]
+            },
+            {
+                  "name": "Jabal ad Darb",
+                  "text": "Egy jelentős hegygerinc Bajil hegyvidéki környékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.301111,
+                        15.011389
+                  ]
+            },
+            {
+                  "name": "Jabal Suwayq",
+                  "text": "Jellegzetes hegycsúcs a Tihamah-felföld bonyolult domborzatában.",
+                  "category": "natural",
+                  "coords": [
+                        43.307493,
+                        15.142236
+                  ]
+            },
+            {
+                  "name": "Al Qarn",
+                  "text": "Jellegzetes, meredek oldaltú hegycsúcs Bajil környékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.284615,
+                        15.143611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "Un vârf montan proeminent în peisajul accidentat de lângă Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.244891,
+                        15.026973
+                  ]
+            },
+            {
+                  "name": "Jabal Mani`",
+                  "text": "Un vârf înalt care oferă priveliști peste terenul muntos din Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.239111,
+                        15.034289
+                  ]
+            },
+            {
+                  "name": "Qarn Bani Hamud",
+                  "text": "Un vârf stâncos ascuțit în regiunea muntoasă aridă a Yemenului.",
+                  "category": "natural",
+                  "coords": [
+                        43.274815,
+                        15.017139
+                  ]
+            },
+            {
+                  "name": "Jabal ad Darb",
+                  "text": "O creastă montană semnificativă în vecinătatea muntoasă a orașului Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.301111,
+                        15.011389
+                  ]
+            },
+            {
+                  "name": "Jabal Suwayq",
+                  "text": "Un vârf notabil în topografia complexă a zonei muntoase Tihamah.",
+                  "category": "natural",
+                  "coords": [
+                        43.307493,
+                        15.142236
+                  ]
+            },
+            {
+                  "name": "Al Qarn",
+                  "text": "Un vârf montan distinctiv cu pante abrupte în zona Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.284615,
+                        15.143611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "A prominent mountain peak in the rugged landscape near Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.244891,
+                        15.026973
+                  ]
+            },
+            {
+                  "name": "Jabal Mani`",
+                  "text": "An elevated summit providing views over the mountainous terrain of Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.239111,
+                        15.034289
+                  ]
+            },
+            {
+                  "name": "Qarn Bani Hamud",
+                  "text": "A sharp rocky peak in the arid highland region of Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        43.274815,
+                        15.017139
+                  ]
+            },
+            {
+                  "name": "Jabal ad Darb",
+                  "text": "A significant mountain ridge in the mountainous vicinity of Bajil.",
+                  "category": "natural",
+                  "coords": [
+                        43.301111,
+                        15.011389
+                  ]
+            },
+            {
+                  "name": "Jabal Suwayq",
+                  "text": "A notable peak rising within the complex topography of the Tihamah highlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.307493,
+                        15.142236
+                  ]
+            },
+            {
+                  "name": "Al Qarn",
+                  "text": "A distinctive mountain peak with steep slopes in the Bajil area.",
+                  "category": "natural",
+                  "coords": [
+                        43.284615,
+                        15.143611
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "YE-HU",
     coords: [43.28, 15.06],
@@ -615,7 +3369,304 @@ export const poiExtraYemenEconomicV2: POI[] = [
     },
   },
   {
-    id: "taiz-industrial-zone-economic-v2",
+    id: "taiz-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal ad Damalah",
+                  "text": "Ein schroffer Gipfel, der das Wirtschaftsviertel von Taiz überragt und weite Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.041503,
+                        13.593323
+                  ]
+            },
+            {
+                  "name": "Jabal al Junayd",
+                  "text": "Dieser Bergkamm in der Region Taiz ist bekannt für seine natürliche Schönheit und steilen Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        44.024584,
+                        13.5922
+                  ]
+            },
+            {
+                  "name": "Jabal Wa`il",
+                  "text": "Ein abgelegener Berggipfel im jemenitischen Hochland, ideal für Wanderungen in unberührter Natur.",
+                  "category": "natural",
+                  "coords": [
+                        44.043082,
+                        13.617482
+                  ]
+            },
+            {
+                  "name": "Jabal ad Damh",
+                  "text": "Ein markanter Kalksteingipfel, der Teil der vielfältigen Berglandschaft südlich von Taiz ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.080483,
+                        13.582752
+                  ]
+            },
+            {
+                  "name": "Jabal Hawban",
+                  "text": "Dieser Gipfel im Hawban-Distrikt überblickt ein wichtiges Industrie- und Handelszentrum des Jemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.100442,
+                        13.583516
+                  ]
+            },
+            {
+                  "name": "Al Khaire",
+                  "text": "Eine antike archäologische Stätte in der Nähe von Taiz, die Reste früher jemenitischer Siedlungen bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        44.083333,
+                        13.616667
+                  ]
+            },
+            {
+                  "name": "Jabal al Khadra'",
+                  "text": "Ein fruchtbarer, oft grüner Berggipfel, der typisch für die niederschlagsreicheren Hochlagen bei Taiz ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.021955,
+                        13.661899
+                  ]
+            },
+            {
+                  "name": "dreamland",
+                  "text": "Ein moderner Freizeitpark bei Taiz, der eine Vielzahl an Attraktionen für Kinder und Jugendliche bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.083146,
+                        13.60799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal ad Damalah",
+                  "text": "Egy zord hegycsúcs, amely Taiz gazdasági negyede fölé magasodik, és széles kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        44.041503,
+                        13.593323
+                  ]
+            },
+            {
+                  "name": "Jabal al Junayd",
+                  "text": "Ez a Taiz régióban található hegygerinc természeti szépségéről és meredek lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.024584,
+                        13.5922
+                  ]
+            },
+            {
+                  "name": "Jabal Wa`il",
+                  "text": "Egy távoli hegycsúcs a jemeni felföldön, amely ideális a háborítatlan természetben való túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        44.043082,
+                        13.617482
+                  ]
+            },
+            {
+                  "name": "Jabal ad Damh",
+                  "text": "Jellegzetes mészkőcsúcs, amely a Taiztól délre fekvő változatos hegyi táj része.",
+                  "category": "natural",
+                  "coords": [
+                        44.080483,
+                        13.582752
+                  ]
+            },
+            {
+                  "name": "Jabal Hawban",
+                  "text": "Ez a Hawban negyedben található csúcs Jemen egyik fontos ipari és kereskedelmi központjára néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.100442,
+                        13.583516
+                  ]
+            },
+            {
+                  "name": "Al Khaire",
+                  "text": "Egy ősi régészeti lelőhely Taiz közelében, amely a korai jemeni települések maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        44.083333,
+                        13.616667
+                  ]
+            },
+            {
+                  "name": "Jabal al Khadra'",
+                  "text": "Termékeny, gyakran zöldellő hegycsúcs, amely jellemző a Taiz környéki csapadékosabb magaslatokra.",
+                  "category": "natural",
+                  "coords": [
+                        44.021955,
+                        13.661899
+                  ]
+            },
+            {
+                  "name": "dreamland",
+                  "text": "Modern szabadidőpark Taiz közelében, amely számos attrakciót kínál gyerekeknek és fiataloknak.",
+                  "category": "recreational",
+                  "coords": [
+                        44.083146,
+                        13.60799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal ad Damalah",
+                  "text": "Un vârf muntos abrupt care domină zona economică din Taiz și oferă vederi largi.",
+                  "category": "natural",
+                  "coords": [
+                        44.041503,
+                        13.593323
+                  ]
+            },
+            {
+                  "name": "Jabal al Junayd",
+                  "text": "Această creastă montană din regiunea Taiz este cunoscută pentru frumusețea sa naturală și pantele abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        44.024584,
+                        13.5922
+                  ]
+            },
+            {
+                  "name": "Jabal Wa`il",
+                  "text": "Un vârf montan izolat din zonele înalte ale Yemenului, ideal pentru drumeții în natură virgină.",
+                  "category": "natural",
+                  "coords": [
+                        44.043082,
+                        13.617482
+                  ]
+            },
+            {
+                  "name": "Jabal ad Damh",
+                  "text": "Un vârf de calcar distinctiv, care face parte din peisajul montan divers de la sud de Taiz.",
+                  "category": "natural",
+                  "coords": [
+                        44.080483,
+                        13.582752
+                  ]
+            },
+            {
+                  "name": "Jabal Hawban",
+                  "text": "Acest vârf din districtul Hawban domină un centru industrial și comercial important din Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.100442,
+                        13.583516
+                  ]
+            },
+            {
+                  "name": "Al Khaire",
+                  "text": "Un sit arheologic antic lângă Taiz, care păstrează resturi ale așezărilor yemenite timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        44.083333,
+                        13.616667
+                  ]
+            },
+            {
+                  "name": "Jabal al Khadra'",
+                  "text": "Un vârf muntos fertil și adesea verde, tipic pentru zonele înalte cu precipitații de lângă Taiz.",
+                  "category": "natural",
+                  "coords": [
+                        44.021955,
+                        13.661899
+                  ]
+            },
+            {
+                  "name": "dreamland",
+                  "text": "Un parc de distracții modern lângă Taiz, care oferă o varietate de atracții pentru copii și tineri.",
+                  "category": "recreational",
+                  "coords": [
+                        44.083146,
+                        13.60799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal ad Damalah",
+                  "text": "A rugged peak overlooking the economic district of Taiz, offering wide panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        44.041503,
+                        13.593323
+                  ]
+            },
+            {
+                  "name": "Jabal al Junayd",
+                  "text": "This mountain ridge in the Taiz region is known for its natural beauty and steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        44.024584,
+                        13.5922
+                  ]
+            },
+            {
+                  "name": "Jabal Wa`il",
+                  "text": "A remote mountain summit in the Yemeni highlands, ideal for trekking in untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        44.043082,
+                        13.617482
+                  ]
+            },
+            {
+                  "name": "Jabal ad Damh",
+                  "text": "A distinctive limestone peak that is part of the diverse mountain landscape south of Taiz.",
+                  "category": "natural",
+                  "coords": [
+                        44.080483,
+                        13.582752
+                  ]
+            },
+            {
+                  "name": "Jabal Hawban",
+                  "text": "This peak in the Hawban district overlooks a major industrial and commercial hub of Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.100442,
+                        13.583516
+                  ]
+            },
+            {
+                  "name": "Al Khaire",
+                  "text": "An ancient archaeological site near Taiz preserving ruins of early Yemeni settlements.",
+                  "category": "historical",
+                  "coords": [
+                        44.083333,
+                        13.616667
+                  ]
+            },
+            {
+                  "name": "Jabal al Khadra'",
+                  "text": "A fertile, often green mountain peak typical of the rainier highlands near Taiz.",
+                  "category": "natural",
+                  "coords": [
+                        44.021955,
+                        13.661899
+                  ]
+            },
+            {
+                  "name": "dreamland",
+                  "text": "A modern amusement park near Taiz offering a variety of attractions for children and youth.",
+                  "category": "recreational",
+                  "coords": [
+                        44.083146,
+                        13.60799
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "YE-TA",
     coords: [44.02, 13.60],

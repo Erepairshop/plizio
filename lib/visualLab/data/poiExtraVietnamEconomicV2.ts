@@ -4,7 +4,1240 @@ import type { POI } from "./poi";
 
 export const poiExtraVietnamEconomicV2: POI[] = [
   {
-    id: "hai-phong-port-economic-v2",
+    id: "hai-phong-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "Diese historische Brücke überquert den Fluss Tam Bac und verbindet das alte Stadtzentrum mit neueren Vierteln.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666616,
+                        20.854101
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "Eine wichtige Stadtbrücke über den Fluss Tam Bac, die den Verkehr im Zentrum von Hai Phong erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.679214,
+                        20.86222
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "Eine architektonisch markante Bogenbrücke über den Fluss Cam, die einer fliegenden Möwe nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.6813,
+                        20.869754
+                  ]
+            },
+            {
+                  "name": "Cầu Bính",
+                  "text": "Eine beeindruckende Schrägseilbrücke über den Fluss Cam, die eine wichtige Verbindung für die Hafenstadt darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667666,
+                        20.875291
+                  ]
+            },
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "Das prächtige Opernhaus im französischen Kolonialstil wurde 1904 erbaut und liegt im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681822,
+                        20.8575
+                  ]
+            },
+            {
+                  "name": "Đền thờ Bác Hồ",
+                  "text": "Ein verehrter Gedenktempel für Präsident Ho Chi Minh, der in einem friedlichen Garten liegt.",
+                  "category": "castle",
+                  "coords": [
+                        106.650548,
+                        20.857897
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "Ein buddhistischer Tempel und historische Stätte mit traditionellen Bauelementen und religiösen Artefakten.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847685
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "Eine Kunstgalerie und ein kulturelles Zentrum, in dem Werke lokaler Künstler aus Hai Phong ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải Phòng",
+                  "text": "Ein elegantes Gebäude aus der Kolonialzeit, das Exponate zur Geschichte, Kultur und Archäologie von Hai Phong beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Xi măng Việt Nam",
+                  "text": "Ein einzigartiges Museum, das der Geschichte der Zementindustrie gewidmet ist, die in Hai Phong ihren Anfang nahm.",
+                  "category": "museum",
+                  "coords": [
+                        106.667422,
+                        20.867016
+                  ]
+            },
+            {
+                  "name": "Công viên Thuỷ Sơn Vĩnh Hằng",
+                  "text": "Ein malerischer Gedenkpark, der einen ruhigen Raum zum Nachdenken und zur Ehrung der Verstorbenen bietet.",
+                  "category": "historical",
+                  "coords": [
+                        106.665619,
+                        20.928777
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "Ein monumentales Denkmal für die gefallenen Soldaten des Distrikts Ngo Quyen.",
+                  "category": "historical",
+                  "coords": [
+                        106.692223,
+                        20.847255
+                  ]
+            },
+            {
+                  "name": "Đình Giếng",
+                  "text": "Ein traditionelles Gemeindehaus, in dem sich Einheimische zum Gebet und zu saisonalen Dorffesten versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        106.596721,
+                        20.872562
+                  ]
+            },
+            {
+                  "name": "Đền thờ Nguyễn Đức Cảnh",
+                  "text": "Ein Tempel für Nguyen Duc Canh, einem bedeutenden Führer der vietnamesischen Arbeiterbewegung.",
+                  "category": "religious",
+                  "coords": [
+                        106.655707,
+                        20.852985
+                  ]
+            },
+            {
+                  "name": "Đình Cách Hạ",
+                  "text": "Ein altes Gemeindehaus mit gut erhaltener traditioneller nordvietnamesischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        106.608723,
+                        20.872973
+                  ]
+            },
+            {
+                  "name": "Chợ Lam Sơn",
+                  "text": "Lokaler Markt in Hai Phong für frische Lebensmittel und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.664629,
+                        20.849537
+                  ]
+            },
+            {
+                  "name": "Chợ Đổ",
+                  "text": "Großer Großhandelsmarkt am Tam-Bac-Fluss, bekannt für vielfältige Trockenwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.672642,
+                        20.857064
+                  ]
+            },
+            {
+                  "name": "Chợ Hữu Quan",
+                  "text": "Marktplatz in Hai Phong, der die Anwohner mit täglichen frischen Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.689434,
+                        20.887929
+                  ]
+            },
+            {
+                  "name": "Chợ rau quả đầu mối",
+                  "text": "Belebter Großhandelsmarkt für frisches Obst und Gemüse aus der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        106.660887,
+                        20.868073
+                  ]
+            },
+            {
+                  "name": "Chợ An Dương",
+                  "text": "Belebter Markt in Hai Phong, bekannt für seine Auswahl an vietnamesischem Streetfood.",
+                  "category": "cultural",
+                  "coords": [
+                        106.670327,
+                        20.849543
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Quang Khải",
+                  "text": "Zentraler Marktplatz in Hai Phong mit zahlreichen lokalen Garküchen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.680786,
+                        20.859558
+                  ]
+            },
+            {
+                  "name": "Chợ Ga",
+                  "text": "Traditioneller Markt direkt neben dem Bahnhof von Hai Phong.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684244,
+                        20.8554
+                  ]
+            },
+            {
+                  "name": "Chợ Con",
+                  "text": "Kleiner Markt, der auf frischen Fisch und tägliche Lebensmittel spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684396,
+                        20.850418
+                  ]
+            },
+            {
+                  "name": "Chợ Lương Văn Can",
+                  "text": "Lebhafter Straßenmarkt, berühmt für lokale Hai-Phong-Snacks und Imbissstände.",
+                  "category": "cultural",
+                  "coords": [
+                        106.69345,
+                        20.860209
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Khê",
+                  "text": "Traditioneller Markt im Wohnviertel mit regionalen Zutaten und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.701033,
+                        20.847751
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Hải",
+                  "text": "Lokaler Markt im Küstenviertel von Hai Phong mit frischen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        106.717631,
+                        20.853039
+                  ]
+            },
+            {
+                  "name": "Chợ Vạn Mỹ",
+                  "text": "Lokaler Markt in Hai Phong, der frischen Fisch und landwirtschaftliche Erzeugnisse bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.70911,
+                        20.861771
+                  ]
+            },
+            {
+                  "name": "Chợ Máy Chai",
+                  "text": "Marktplatz am Flussufer nahe dem Hafen für den täglichen Handel der Anwohner.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703099,
+                        20.87299
+                  ]
+            },
+            {
+                  "name": "Chợ Bính-Hoa Động",
+                  "text": "Markt am nördlichen Stadtrand von Hai Phong in der Nähe der Binh-Brücke.",
+                  "category": "cultural",
+                  "coords": [
+                        106.665293,
+                        20.888989
+                  ]
+            },
+            {
+                  "name": "chợ Sở Dầu",
+                  "text": "Marktplatz im Industriegebiet von Hong Bang, der die lokale Bevölkerung versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.65334,
+                        20.871226
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Historische Moschee für die muslimische Gemeinde der Hafenstadt Hai Phong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684594,
+                        20.856344
+                  ]
+            },
+            {
+                  "name": "Cung đường báo đốm",
+                  "text": "Themenpfad im Vergnügungspark, der einer abenteuerlichen Jaguar-Route nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749291,
+                        20.873881
+                  ]
+            },
+            {
+                  "name": "Tia chớp nhiệt đới",
+                  "text": "Schnelle Achterbahn mit tropischem Thema für Nervenkitzel-Suchende.",
+                  "category": "landmark",
+                  "coords": [
+                        106.751278,
+                        20.872064
+                  ]
+            },
+            {
+                  "name": "Nông trại hoàng gia",
+                  "text": "Lehrreicher Themenbauernhof mit einheimischen Tieren und Nutzpflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749864,
+                        20.871778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "Ez a történelmi híd a Tam Bac-folyón ível át, összekötve a régi városközpontot az újabb negyedekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666616,
+                        20.854101
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "Fontos városi híd a Tam Bac-folyón, amely megkönnyíti a központi forgalmat Haiphongban.",
+                  "category": "landmark",
+                  "coords": [
+                        106.679214,
+                        20.86222
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "Építészetileg szembetűnő ívhíd a Cam-folyó felett, amelyet egy szárnyaló sirályhoz hasonlítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        106.6813,
+                        20.869754
+                  ]
+            },
+            {
+                  "name": "Cầu Bính",
+                  "text": "Lenyűgöző ferdekábeles híd a Cam-folyón, amely létfontosságú összeköttetést jelent a kikötőváros számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667666,
+                        20.875291
+                  ]
+            },
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "A pompás, francia gyarmati stílusú operaház 1904-ben épült, és a város szívében található.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681822,
+                        20.8575
+                  ]
+            },
+            {
+                  "name": "Đền thờ Bác Hồ",
+                  "text": "Ho Si Minh elnöknek szentelt, tisztelt emléktemplom, amely egy békés kertben található.",
+                  "category": "castle",
+                  "coords": [
+                        106.650548,
+                        20.857897
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "Buddhista templom és történelmi emlékhely hagyományos építészeti elemekkel és vallási tárgyakkal.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847685
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "Művészeti galéria és kulturális központ, ahol helyi haiphongi művészek alkotásait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải Phòng",
+                  "text": "Elegáns gyarmati épület, amely Haiphong történelmét, kultúráját és régészetét bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Xi măng Việt Nam",
+                  "text": "Egyedülálló múzeum, amelyet a Haiphongban kezdődött cementipar történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        106.667422,
+                        20.867016
+                  ]
+            },
+            {
+                  "name": "Công viên Thuỷ Sơn Vĩnh Hằng",
+                  "text": "Gleccseres emlékpark, amely csendes helyet kínál az elmélkedésre és az elhunytak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        106.665619,
+                        20.928777
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "Monumentális emlékmű a Ngo Quyen kerület elesett katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        106.692223,
+                        20.847255
+                  ]
+            },
+            {
+                  "name": "Đình Giếng",
+                  "text": "Hagyományos közösségi ház, ahol a helyiek istentiszteletre és szezonális falusi fesztiválokra gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        106.596721,
+                        20.872562
+                  ]
+            },
+            {
+                  "name": "Đền thờ Nguyễn Đức Cảnh",
+                  "text": "Nguyen Duc Canh-nak, a vietnami munkásmozgalom kiemelkedő vezetőjének szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        106.655707,
+                        20.852985
+                  ]
+            },
+            {
+                  "name": "Đình Cách Hạ",
+                  "text": "Ősi közösségi ház jól megőrzött hagyományos észak-vietnami építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        106.608723,
+                        20.872973
+                  ]
+            },
+            {
+                  "name": "Chợ Lam Sơn",
+                  "text": "Helyi piac Hai Phongban friss élelmiszerekkel és háztartási cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        106.664629,
+                        20.849537
+                  ]
+            },
+            {
+                  "name": "Chợ Đổ",
+                  "text": "Nagykereskedelmi piac a Tam Bac folyónál, száraz áruk széles választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        106.672642,
+                        20.857064
+                  ]
+            },
+            {
+                  "name": "Chợ Hữu Quan",
+                  "text": "Hai Phongi piactér, amely naponta friss árukkal látja el a lakosságot.",
+                  "category": "cultural",
+                  "coords": [
+                        106.689434,
+                        20.887929
+                  ]
+            },
+            {
+                  "name": "Chợ rau quả đầu mối",
+                  "text": "Forgalmas nagykereskedelmi piac friss gyümölcsökkel és zöldségekkel a régióból.",
+                  "category": "cultural",
+                  "coords": [
+                        106.660887,
+                        20.868073
+                  ]
+            },
+            {
+                  "name": "Chợ An Dương",
+                  "text": "Forgalmas piac Hai Phongban, amely a vietnámi utcai ételek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        106.670327,
+                        20.849543
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Quang Khải",
+                  "text": "Központi piactér Hai Phongban, számos helyi ételstanddal.",
+                  "category": "cultural",
+                  "coords": [
+                        106.680786,
+                        20.859558
+                  ]
+            },
+            {
+                  "name": "Chợ Ga",
+                  "text": "Hagyományos piac közvetlenül a Hai Phong-i vasútállomás mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684244,
+                        20.8554
+                  ]
+            },
+            {
+                  "name": "Chợ Con",
+                  "text": "Kis piac, amely friss halakra és napi élelmiszerekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684396,
+                        20.850418
+                  ]
+            },
+            {
+                  "name": "Chợ Lương Văn Can",
+                  "text": "Élénk utcai piac, amely helyi Hai Phong-i snackekről és ételstandokról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        106.69345,
+                        20.860209
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Khê",
+                  "text": "Hagyományos lakótelepi piac helyi alapanyagokkal és háztartási cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        106.701033,
+                        20.847751
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Hải",
+                  "text": "Helyi piac Hai Phong tengerparti negyedében, friss termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        106.717631,
+                        20.853039
+                  ]
+            },
+            {
+                  "name": "Chợ Vạn Mỹ",
+                  "text": "Helyi piac Hai Phongban, ahol friss halat és mezőgazdasági termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.70911,
+                        20.861771
+                  ]
+            },
+            {
+                  "name": "Chợ Máy Chai",
+                  "text": "Folyóparti piactér a kikötő közelében a helyiek napi kereskedelméhez.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703099,
+                        20.87299
+                  ]
+            },
+            {
+                  "name": "Chợ Bính-Hoa Động",
+                  "text": "Piac Hai Phong északi peremén, a Binh-híd közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        106.665293,
+                        20.888989
+                  ]
+            },
+            {
+                  "name": "chợ Sở Dầu",
+                  "text": "Piactér Hong Bang ipari övezetében, amely a helyi lakosságot szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        106.65334,
+                        20.871226
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Történelmi mecset Hai Phong kikötőváros muzulmán közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684594,
+                        20.856344
+                  ]
+            },
+            {
+                  "name": "Cung đường báo đốm",
+                  "text": "Tematikus útvonal a vidámparkban, amely egy kalandos jaguár-utat mintáz.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749291,
+                        20.873881
+                  ]
+            },
+            {
+                  "name": "Tia chớp nhiệt đới",
+                  "text": "Gyors, trópusi témájú hullámvasút az izgalmakat kedvelőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.751278,
+                        20.872064
+                  ]
+            },
+            {
+                  "name": "Nông trại hoàng gia",
+                  "text": "Oktató jellegű tematikus farm őshonos állatokkal és növényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749864,
+                        20.871778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "Acest pod istoric traversează râul Tam Bac, legând centrul vechi al orașului de cartierele mai noi.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666616,
+                        20.854101
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "Un pod urban important peste râul Tam Bac, care facilitează traficul din centrul orașului Hai Phong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.679214,
+                        20.86222
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "Un pod în arc izbitor din punct de vedere arhitectural peste râul Cam, proiectat să semene cu un pescăruș în zbor.",
+                  "category": "landmark",
+                  "coords": [
+                        106.6813,
+                        20.869754
+                  ]
+            },
+            {
+                  "name": "Cầu Bính",
+                  "text": "Un pod impresionant hobat peste râul Cam, o legătură vitală pentru orașul portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667666,
+                        20.875291
+                  ]
+            },
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "Marea operă în stil colonial francez a fost construită în 1904 și este situată în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681822,
+                        20.8575
+                  ]
+            },
+            {
+                  "name": "Đền thờ Bác Hồ",
+                  "text": "Un templu memorial venerat dedicat președintelui Ho Chi Minh, situat într-o grădină liniștită.",
+                  "category": "castle",
+                  "coords": [
+                        106.650548,
+                        20.857897
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "Un templu budist și sit istoric cu elemente arhitecturale tradiționale și artefacte religioase.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847685
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "O galerie de artă și un centru cultural care expune lucrări ale artiștilor locali din Hai Phong.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải Phòng",
+                  "text": "O clădire elegantă din epoca colonială care găzduiește exponate despre istoria, cultura și arheologia orașului Hai Phong.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Xi măng Việt Nam",
+                  "text": "Un muzeu unic dedicat istoriei industriei cimentului, care a început în Hai Phong.",
+                  "category": "museum",
+                  "coords": [
+                        106.667422,
+                        20.867016
+                  ]
+            },
+            {
+                  "name": "Công viên Thuỷ Sơn Vĩnh Hằng",
+                  "text": "Un parc memorial pitoresc care oferă un spațiu liniștit pentru reflecție și onorarea celor decedați.",
+                  "category": "historical",
+                  "coords": [
+                        106.665619,
+                        20.928777
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "Un monument monumental dedicat soldaților căzuți din districtul Ngô Quyền.",
+                  "category": "historical",
+                  "coords": [
+                        106.692223,
+                        20.847255
+                  ]
+            },
+            {
+                  "name": "Đình Giếng",
+                  "text": "O casă comunală tradițională unde localnicii se adună pentru cult și festivaluri sezoniere ale satului.",
+                  "category": "religious",
+                  "coords": [
+                        106.596721,
+                        20.872562
+                  ]
+            },
+            {
+                  "name": "Đền thờ Nguyễn Đức Cảnh",
+                  "text": "Un templu dedicat lui Nguyễn Đức Cảnh, un lider proeminent în mișcarea muncitorească vietnameză.",
+                  "category": "religious",
+                  "coords": [
+                        106.655707,
+                        20.852985
+                  ]
+            },
+            {
+                  "name": "Đình Cách Hạ",
+                  "text": "O veche casă comunală cu o arhitectură tradițională din nordul Vietnamului bine conservată.",
+                  "category": "religious",
+                  "coords": [
+                        106.608723,
+                        20.872973
+                  ]
+            },
+            {
+                  "name": "Chợ Lam Sơn",
+                  "text": "Piață locală în Hai Phong cu produse proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.664629,
+                        20.849537
+                  ]
+            },
+            {
+                  "name": "Chợ Đổ",
+                  "text": "Piață angro mare pe râul Tam Bac, cunoscută pentru diverse produse uscate.",
+                  "category": "cultural",
+                  "coords": [
+                        106.672642,
+                        20.857064
+                  ]
+            },
+            {
+                  "name": "Chợ Hữu Quan",
+                  "text": "Piață în Hai Phong care aprovizionează localnicii cu produse proaspete zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.689434,
+                        20.887929
+                  ]
+            },
+            {
+                  "name": "Chợ rau quả đầu mối",
+                  "text": "Piață angro aglomerată pentru fructe și legume proaspete din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        106.660887,
+                        20.868073
+                  ]
+            },
+            {
+                  "name": "Chợ An Dương",
+                  "text": "Piață animată în Hai Phong, cunoscută pentru selecția de mâncare stradală vietnameză.",
+                  "category": "cultural",
+                  "coords": [
+                        106.670327,
+                        20.849543
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Quang Khải",
+                  "text": "Piață centrală în Hai Phong cu numeroase tarabe cu mâncare locală.",
+                  "category": "cultural",
+                  "coords": [
+                        106.680786,
+                        20.859558
+                  ]
+            },
+            {
+                  "name": "Chợ Ga",
+                  "text": "Piață tradițională situată chiar lângă gara din Hai Phong.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684244,
+                        20.8554
+                  ]
+            },
+            {
+                  "name": "Chợ Con",
+                  "text": "Piață mică specializată în pește proaspăt și produse alimentare zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684396,
+                        20.850418
+                  ]
+            },
+            {
+                  "name": "Chợ Lương Văn Can",
+                  "text": "Piață stradală plină de viață, faimoasă pentru gustări locale și tarabe cu mâncare.",
+                  "category": "cultural",
+                  "coords": [
+                        106.69345,
+                        20.860209
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Khê",
+                  "text": "Piață tradițională de cartier cu ingrediente locale și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.701033,
+                        20.847751
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Hải",
+                  "text": "Piață locală în cartierul de coastă din Hai Phong, cu produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        106.717631,
+                        20.853039
+                  ]
+            },
+            {
+                  "name": "Chợ Vạn Mỹ",
+                  "text": "Piață locală în Hai Phong care oferă pește proaspăt și produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        106.70911,
+                        20.861771
+                  ]
+            },
+            {
+                  "name": "Chợ Máy Chai",
+                  "text": "Piață pe malul râului, lângă port, pentru comerțul zilnic al localnicilor.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703099,
+                        20.87299
+                  ]
+            },
+            {
+                  "name": "Chợ Bính-Hoa Động",
+                  "text": "Piață la periferia de nord a orașului Hai Phong, lângă podul Binh.",
+                  "category": "cultural",
+                  "coords": [
+                        106.665293,
+                        20.888989
+                  ]
+            },
+            {
+                  "name": "chợ Sở Dầu",
+                  "text": "Piață în zona industrială Hong Bang, care deservește populația locală.",
+                  "category": "cultural",
+                  "coords": [
+                        106.65334,
+                        20.871226
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Moschee istorică pentru comunitatea musulmană din orașul port Hai Phong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684594,
+                        20.856344
+                  ]
+            },
+            {
+                  "name": "Cung đường báo đốm",
+                  "text": "Traseu tematic în parcul de distracții, modelat după o rută de aventură cu jaguari.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749291,
+                        20.873881
+                  ]
+            },
+            {
+                  "name": "Tia chớp nhiệt đới",
+                  "text": "Roller coaster rapid cu tematică tropicală pentru amatorii de senzații tari.",
+                  "category": "landmark",
+                  "coords": [
+                        106.751278,
+                        20.872064
+                  ]
+            },
+            {
+                  "name": "Nông trại hoàng gia",
+                  "text": "Fermă tematică educațională cu animale și plante native.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749864,
+                        20.871778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "A historic bridge crossing the Tam Bac River, connecting the old city center with newer districts.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666616,
+                        20.854101
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "An important urban bridge spanning the Tam Bac River, facilitating central city traffic in Hai Phong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.679214,
+                        20.86222
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "An architecturally striking arch bridge over the Cam River, designed to resemble a soaring seagull.",
+                  "category": "landmark",
+                  "coords": [
+                        106.6813,
+                        20.869754
+                  ]
+            },
+            {
+                  "name": "Cầu Bính",
+                  "text": "An impressive cable-stayed bridge spanning the Cam River, serving as a vital link for the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667666,
+                        20.875291
+                  ]
+            },
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "A grand French colonial-style opera house built in 1904, located in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681822,
+                        20.8575
+                  ]
+            },
+            {
+                  "name": "Đền thờ Bác Hồ",
+                  "text": "A revered memorial temple dedicated to President Ho Chi Minh, set within a peaceful garden.",
+                  "category": "castle",
+                  "coords": [
+                        106.650548,
+                        20.857897
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "A Buddhist temple and historical site featuring traditional architectural elements and religious artifacts.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847685
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "An art gallery and cultural hub showcasing works by local Hai Phong artists and writers.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Hai Phong Museum",
+                  "text": "An elegant colonial-era building housing exhibits on Hai Phong's history, culture, and archeology.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Xi măng Việt Nam",
+                  "text": "A unique museum dedicated to the history of the cement industry, which began in Hai Phong.",
+                  "category": "museum",
+                  "coords": [
+                        106.667422,
+                        20.867016
+                  ]
+            },
+            {
+                  "name": "Công viên Thuỷ Sơn Vĩnh Hằng",
+                  "text": "A scenic memorial park offering a quiet space for reflection and honoring the deceased.",
+                  "category": "historical",
+                  "coords": [
+                        106.665619,
+                        20.928777
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "A monumental memorial dedicated to the fallen soldiers of the Ngô Quyền district.",
+                  "category": "historical",
+                  "coords": [
+                        106.692223,
+                        20.847255
+                  ]
+            },
+            {
+                  "name": "Đình Giếng",
+                  "text": "A traditional communal house where locals gather for worship and seasonal village festivals.",
+                  "category": "religious",
+                  "coords": [
+                        106.596721,
+                        20.872562
+                  ]
+            },
+            {
+                  "name": "Đền thờ Nguyễn Đức Cảnh",
+                  "text": "A temple dedicated to Nguyễn Đức Cảnh, a prominent leader in the Vietnamese labor movement.",
+                  "category": "religious",
+                  "coords": [
+                        106.655707,
+                        20.852985
+                  ]
+            },
+            {
+                  "name": "Đình Cách Hạ",
+                  "text": "An ancient communal house featuring well-preserved traditional Northern Vietnamese architecture.",
+                  "category": "religious",
+                  "coords": [
+                        106.608723,
+                        20.872973
+                  ]
+            },
+            {
+                  "name": "Chợ Lam Sơn",
+                  "text": "Local market in Hai Phong offering fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.664629,
+                        20.849537
+                  ]
+            },
+            {
+                  "name": "Chợ Đổ",
+                  "text": "Large wholesale market by the Tam Bac river, known for diverse dry goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.672642,
+                        20.857064
+                  ]
+            },
+            {
+                  "name": "Chợ Hữu Quan",
+                  "text": "Marketplace in Hai Phong serving the neighborhood with daily fresh goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.689434,
+                        20.887929
+                  ]
+            },
+            {
+                  "name": "Chợ rau quả đầu mối",
+                  "text": "Busy wholesale market for fresh fruits and vegetables from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        106.660887,
+                        20.868073
+                  ]
+            },
+            {
+                  "name": "Chợ An Dương",
+                  "text": "Busy market in Hai Phong known for its variety of Vietnamese street food.",
+                  "category": "cultural",
+                  "coords": [
+                        106.670327,
+                        20.849543
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Quang Khải",
+                  "text": "Central marketplace in Hai Phong featuring numerous local food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        106.680786,
+                        20.859558
+                  ]
+            },
+            {
+                  "name": "Chợ Ga",
+                  "text": "Traditional market located right next to the Hai Phong Railway Station.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684244,
+                        20.8554
+                  ]
+            },
+            {
+                  "name": "Chợ Con",
+                  "text": "Small market specializing in fresh fish and daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        106.684396,
+                        20.850418
+                  ]
+            },
+            {
+                  "name": "Chợ Lương Văn Can",
+                  "text": "Vibrant street market famous for local Hai Phong snacks and food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        106.69345,
+                        20.860209
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Khê",
+                  "text": "Traditional neighborhood market with local ingredients and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        106.701033,
+                        20.847751
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Hải",
+                  "text": "Local market in the coastal district of Hai Phong with fresh products.",
+                  "category": "cultural",
+                  "coords": [
+                        106.717631,
+                        20.853039
+                  ]
+            },
+            {
+                  "name": "Chợ Vạn Mỹ",
+                  "text": "Local market in Hai Phong providing fresh seafood and agricultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.70911,
+                        20.861771
+                  ]
+            },
+            {
+                  "name": "Chợ Máy Chai",
+                  "text": "Riverside marketplace near the port for the daily trade of local residents.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703099,
+                        20.87299
+                  ]
+            },
+            {
+                  "name": "Chợ Bính-Hoa Động",
+                  "text": "Market on the northern outskirts of Hai Phong near the Binh Bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        106.665293,
+                        20.888989
+                  ]
+            },
+            {
+                  "name": "chợ Sở Dầu",
+                  "text": "Marketplace in the Hong Bang industrial area serving the local population.",
+                  "category": "cultural",
+                  "coords": [
+                        106.65334,
+                        20.871226
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Historic mosque for the Muslim community of the port city Hai Phong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684594,
+                        20.856344
+                  ]
+            },
+            {
+                  "name": "Cung đường báo đốm",
+                  "text": "Themed path in the amusement park modeled after an adventurous jaguar route.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749291,
+                        20.873881
+                  ]
+            },
+            {
+                  "name": "Tia chớp nhiệt đới",
+                  "text": "High-speed thrill roller coaster with a lush tropical theme.",
+                  "category": "landmark",
+                  "coords": [
+                        106.751278,
+                        20.872064
+                  ]
+            },
+            {
+                  "name": "Nông trại hoàng gia",
+                  "text": "Educational themed farm featuring native animals and crops.",
+                  "category": "landmark",
+                  "coords": [
+                        106.749864,
+                        20.871778
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VN-HP",
     coords: [106.688, 20.849],
@@ -52,7 +1285,1384 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "sai-gon-port-economic-v2",
+    id: "sai-gon-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "CBES Mini Museum",
+                  "text": "Ein kleines Spezialmuseum, das in der geschäftigen Wirtschaftszone des Hafens lokale historische oder kulturelle Exponate bietet.",
+                  "category": "museum",
+                  "coords": [
+                        106.771801,
+                        10.792594
+                  ]
+            },
+            {
+                  "name": "Phòng Trưng Bày Chloe",
+                  "text": "Ein zeitgenössischer Galerieraum, der künstlerische oder kommerzielle Ausstellungen im dynamischen Hafenviertel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        106.720567,
+                        10.724045
+                  ]
+            },
+            {
+                  "name": "Bia tưởng niệm Liệt Sĩ xã Phước Khánh",
+                  "text": "Ein feierliches Steindenkmal zu Ehren der Kriegsmärtyrer der lokalen Gemeinde Phuoc Khanh.",
+                  "category": "historical",
+                  "coords": [
+                        106.788711,
+                        10.676759
+                  ]
+            },
+            {
+                  "name": "Miễu Bà Ngũ Hành Rạch Cá",
+                  "text": "Ein traditioneller lokaler Schrein in der Nähe der Wasserstraße, der den Göttinnen der fünf Elemente gewidmet ist und den Fischern und Bewohnern der Umgebung dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.772206,
+                        10.722182
+                  ]
+            },
+            {
+                  "name": "Thánh thất Phú Đông",
+                  "text": "Ein charakteristischer Cao-Dai-Tempel, der als spirituelles Zentrum für die Anhänger dieser synkretistischen Religion in der Gegend dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.818538,
+                        10.705619
+                  ]
+            },
+            {
+                  "name": "chùa Bà Thiên Hậu",
+                  "text": "Ein Tempel im traditionellen chinesischen Stil, der Mazu, der Meeresgöttin, gewidmet ist und den Einheimischen im Hafengebiet spirituellen Schutz bietet.",
+                  "category": "religious",
+                  "coords": [
+                        106.757195,
+                        10.784471
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Công thành",
+                  "text": "Eine katholische Pfarrkirche, die den Gläubigen im wirtschaftlichen Hafenviertel Gottesdienste und Seelsorge anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        106.761079,
+                        10.782899
+                  ]
+            },
+            {
+                  "name": "Miếu Bà Bướm",
+                  "text": "Ein lokaler Volkstempel, der traditionellen Geistern gewidmet ist und sich in die belebte städtische Umgebung des Hafengebiets einfügt.",
+                  "category": "religious",
+                  "coords": [
+                        106.736762,
+                        10.733121
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Phước Khánh",
+                  "text": "Eine lokale katholische Pfarrkirche, die als Gemeinde- und spirituelles Zentrum für die Bewohner von Phuoc Khanh fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        106.791406,
+                        10.674835
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Hữu",
+                  "text": "Ein belebter lokaler Marktplatz, der den Bewohnern der Gegend von Phuoc Huu frische Produkte und Dinge des täglichen Bedarfs bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.789698,
+                        10.79055
+                  ]
+            },
+            {
+                  "name": "Co.op Mart",
+                  "text": "Eine moderne Supermarktfiliale, die in der Wirtschaftszone des Hafens eine große Auswahl an Lebensmitteln und Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.771697,
+                        10.772013
+                  ]
+            },
+            {
+                  "name": "Chợ Cư xá Ngân hàng",
+                  "text": "Ein lebhafter traditioneller Markt, der das lokale Wohnviertel mit frischen Lebensmitteln und Waren des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.716716,
+                        10.74826
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Trưng",
+                  "text": "Ein geschäftiger lokaler Marktplatz mit zahlreichen Ständen, an denen frische regionale Produkte, Fleisch und Alltagsgegenstände verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        106.755615,
+                        10.788955
+                  ]
+            },
+            {
+                  "name": "Chợ Tân Mỹ",
+                  "text": "Ein pulsierender lokaler Straßenmarkt, auf dem Verkäufer frische Zutaten, lokale Snacks und alltägliche Haushaltsartikel anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        106.718728,
+                        10.736445
+                  ]
+            },
+            {
+                  "name": "Chợ Cây Xoài",
+                  "text": "Ein geschäftiger lokaler Marktplatz, der für seine frischen Produkte, Meeresfrüchte und sein vielfältiges Angebot an Alltagsgegenständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        106.766445,
+                        10.777444
+                  ]
+            },
+            {
+                  "name": "Chợ Thạnh Mỹ Lợi",
+                  "text": "Ein zentraler lokaler Markt, der das Viertel Thạnh Mỹ Lợi mit einer Vielzahl an frischen Lebensmitteln und lokalen Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.769756,
+                        10.770258
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Thuận",
+                  "text": "Ein traditioneller Markt, der die umliegende Gemeinde mit frischen Lebensmitteln, lokalen Delikatessen und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.736031,
+                        10.727925
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Xuân",
+                  "text": "Ein lebhafter lokaler Marktplatz, der eine breite Palette von Waren anbietet, von frischen landwirtschaftlichen Produkten bis hin zu Kleidung und Haushaltsartikeln.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737472,
+                        10.702678
+                  ]
+            },
+            {
+                  "name": "Công Viên Ven Sông An Phú Hưng",
+                  "text": "Der An Phu Hung River Park bietet eine grüne Erholungsfläche direkt am lokalen Wasserweg.",
+                  "category": "landmark",
+                  "coords": [
+                        106.709995,
+                        10.736246
+                  ]
+            },
+            {
+                  "name": "Tịnh Thất Vĩnh Phú",
+                  "text": "Tịnh Thất Vĩnh Phú dient als ruhiger buddhistischer Rückzugsort für lokale Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        106.799994,
+                        10.781844
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Thạnh",
+                  "text": "Chùa Đông Thạnh ist ein ruhiger buddhistischer Tempel, der Raum für Meditation und Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.79528,
+                        10.77536
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Thanh",
+                  "text": "Tịnh xá Ngọc Thanh dient als friedliche buddhistische Einsiedelei, die sich auf kontemplative Praktiken konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.77653,
+                        10.792511
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Môi Khôi",
+                  "text": "Nhà Thờ Môi Khôi ist eine lokale christliche Kirche, in der sich die Gläubigen zur Sonntagsmesse versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        106.727955,
+                        10.754476
+                  ]
+            },
+            {
+                  "name": "Tịnh Xá Ngọc Bình",
+                  "text": "Tịnh Xá Ngọc Bình ist ein ruhiges buddhistisches Heiligtum, das der spirituellen Reflexion gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.759061,
+                        10.785571
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Nguyên Thủy",
+                  "text": "Thiền Viện Nguyên Thủy ist ein Theravada-buddhistisches Kloster, das für seine strengen Meditationsdisziplinen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.764219,
+                        10.780275
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Đức",
+                  "text": "Chùa Minh Đức ist ein traditioneller buddhistischer Tempel, der die Gemeinde zur täglichen Andacht einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.763751,
+                        10.786344
+                  ]
+            },
+            {
+                  "name": "Tu Viện Vĩnh Đức",
+                  "text": "Tu Viện Vĩnh Đức bietet ein klösterliches Umfeld für buddhistische Mönche und Praktizierende.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765809,
+                        10.784317
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tân Lập",
+                  "text": "Nhà Thờ Tân Lập dient der lokalen christlichen Gemeinde mit ihrer erkennbaren religiösen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        106.778822,
+                        10.786766
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Mỹ Hòa",
+                  "text": "Nhà Thờ Mỹ Hòa ist eine christliche Pfarrkirche, die der Nachbarschaft eine spirituelle Heimat bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.777557,
+                        10.784833
+                  ]
+            },
+            {
+                  "name": "Chùa Thiền Tôn 2",
+                  "text": "Chùa Thiền Tôn 2 ist ein lokaler buddhistischer Tempel, in dem gemeinsame Gebete und Zeremonien stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        106.771045,
+                        10.777286
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tắc Rỗi",
+                  "text": "Nhà Thờ Tắc Rỗi ist eine christliche Kirche, die Gläubige zu regelmäßigen Gottesdiensten willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.715224,
+                        10.736953
+                  ]
+            },
+            {
+                  "name": "Ho Chi Minh Global Mission Church",
+                  "text": "Die Ho Chi Minh Global Mission Church ist eine internationale christliche Gemeinde, die sich auf aktive Missionsarbeit konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.70675,
+                        10.733865
+                  ]
+            },
+            {
+                  "name": "Chùa Quang Minh",
+                  "text": "Chùa Quang Minh ist ein buddhistischer Tempel, der mit traditioneller Architektur und Altären für Opfergaben geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740588,
+                        10.704864
+                  ]
+            },
+            {
+                  "name": "Chùa Tam Bửu",
+                  "text": "Chùa Tam Bửu ist ein friedlicher buddhistischer Tempel, der für tägliche Meditation und spirituelles Lernen konzipiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.739947,
+                        10.706472
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phú Xuân",
+                  "text": "Nhà thờ Phú Xuân ist ein markantes christliches religiöses Gebäude, das der lokalen katholischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740682,
+                        10.694065
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Bảo",
+                  "text": "Chùa Pháp Bảo bewahrt traditionelle buddhistische Lehren in seinem ruhigen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        106.813395,
+                        10.705547
+                  ]
+            },
+            {
+                  "name": "Chùa Đàm Hoa",
+                  "text": "Chùa Đàm Hoa fungiert als aktiver buddhistischer Kultraum mit Hallen, die mit traditionellen Motiven dekoriert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        106.81195,
+                        10.70734
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thường",
+                  "text": "Chùa Pháp Thường ist ein buddhistisches Heiligtum, das spirituelle Führung und einen ruhigen Zufluchtsort für Praktizierende bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.810139,
+                        10.708125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CBES Mini Museum",
+                  "text": "Kis, specializált múzeum, amely helyi történelmi vagy kulturális kiállításokat kínál a nyüzsgő kikötői gazdasági övezetben.",
+                  "category": "museum",
+                  "coords": [
+                        106.771801,
+                        10.792594
+                  ]
+            },
+            {
+                  "name": "Phòng Trưng Bày Chloe",
+                  "text": "Kortárs galériatér, amely művészeti vagy kereskedelmi kiállításokat mutat be a dinamikus kikötői negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        106.720567,
+                        10.724045
+                  ]
+            },
+            {
+                  "name": "Bia tưởng niệm Liệt Sĩ xã Phước Khánh",
+                  "text": "Ünnepélyes kőemlékmű, amelyet a helyi Phuoc Khanh község háborús mártírjainak tiszteletére állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        106.788711,
+                        10.676759
+                  ]
+            },
+            {
+                  "name": "Miễu Bà Ngũ Hành Rạch Cá",
+                  "text": "A víziút közelében található hagyományos helyi szentély, amelyet az öt elem istennőinek szenteltek, és a helyi halászokat és lakosokat szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        106.772206,
+                        10.722182
+                  ]
+            },
+            {
+                  "name": "Thánh thất Phú Đông",
+                  "text": "Jellegzetes kaodaista templom, amely a szinkretikus vallás követőinek spirituális központjaként szolgál a térségben.",
+                  "category": "religious",
+                  "coords": [
+                        106.818538,
+                        10.705619
+                  ]
+            },
+            {
+                  "name": "chùa Bà Thiên Hậu",
+                  "text": "Hagyományos kínai stílusú templom, amelyet Mazunak, a tenger istennőjének szenteltek, és spirituális védelmet nyújt a kikötő környéki helyieknek.",
+                  "category": "religious",
+                  "coords": [
+                        106.757195,
+                        10.784471
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Công thành",
+                  "text": "Katolikus plébániatemplom, amely vallási szertartásokat és lelkipásztori gondoskodást kínál a híveknek a gazdasági kikötői negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        106.761079,
+                        10.782899
+                  ]
+            },
+            {
+                  "name": "Miếu Bà Bướm",
+                  "text": "Helyi népi templom, amelyet a hagyományos szellemeknek szenteltek, és a kikötő környékének nyüzsgő városi környezetében bújik meg.",
+                  "category": "religious",
+                  "coords": [
+                        106.736762,
+                        10.733121
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Phước Khánh",
+                  "text": "Helyi katolikus plébániatemplom, amely közösségi és spirituális központként működik Phuoc Khanh lakosai számára.",
+                  "category": "religious",
+                  "coords": [
+                        106.791406,
+                        10.674835
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Hữu",
+                  "text": "Nyüzsgő helyi piac, amely friss termékeket és napi szükségleti cikkeket kínál Phuoc Huu környékének lakóinak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.789698,
+                        10.79055
+                  ]
+            },
+            {
+                  "name": "Co.op Mart",
+                  "text": "Modern szupermarket fiók, amely élelmiszerek és háztartási cikkek széles választékát kínálja a kikötői gazdasági övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        106.771697,
+                        10.772013
+                  ]
+            },
+            {
+                  "name": "Chợ Cư xá Ngân hàng",
+                  "text": "Élénk hagyományos piac, amely friss élelmiszerekkel és napi fogyasztási cikkekkel látja el a helyi lakónegyedet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.716716,
+                        10.74826
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Trưng",
+                  "text": "Forgalmas helyi piac számos standdal, ahol friss regionális termékeket, húsokat és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.755615,
+                        10.788955
+                  ]
+            },
+            {
+                  "name": "Chợ Tân Mỹ",
+                  "text": "Nyüzsgő helyi utcai piac, ahol az árusok friss alapanyagokat, helyi rágcsálnivalókat és mindennapi háztartási cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.718728,
+                        10.736445
+                  ]
+            },
+            {
+                  "name": "Chợ Cây Xoài",
+                  "text": "Nyüzsgő helyi piac, amely friss termékeiről, tenger gyümölcseiről és a mindennapi áruk széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        106.766445,
+                        10.777444
+                  ]
+            },
+            {
+                  "name": "Chợ Thạnh Mỹ Lợi",
+                  "text": "Központi helyi piac, amely a Thạnh Mỹ Lợi negyedet látja el különféle friss élelmiszerekkel és helyi árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        106.769756,
+                        10.770258
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Thuận",
+                  "text": "Hagyományos piac, amely friss élelmiszerekkel, helyi finomságokkal és napi szükségleti cikkekkel látja el a környező közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        106.736031,
+                        10.727925
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Xuân",
+                  "text": "Élénk helyi piac, amely az áruk széles választékát kínálja a friss mezőgazdasági termékektől a ruházatig és a háztartási cikkekig.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737472,
+                        10.702678
+                  ]
+            },
+            {
+                  "name": "Công Viên Ven Sông An Phú Hưng",
+                  "text": "Az An Phu Hung River Park zöldellő rekreációs teret kínál közvetlenül a helyi vízi úton.",
+                  "category": "landmark",
+                  "coords": [
+                        106.709995,
+                        10.736246
+                  ]
+            },
+            {
+                  "name": "Tịnh Thất Vĩnh Phú",
+                  "text": "A Tịnh Thất Vĩnh Phú egy csendes buddhista menedékként szolgál a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.799994,
+                        10.781844
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Thạnh",
+                  "text": "A Chùa Đông Thạnh egy békés buddhista templom, amely teret ad a meditációnak és az imádságnak.",
+                  "category": "landmark",
+                  "coords": [
+                        106.79528,
+                        10.77536
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Thanh",
+                  "text": "A Tịnh xá Ngọc Thanh békés buddhista remeteként működik, és a kontemplatív gyakorlatokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        106.77653,
+                        10.792511
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Môi Khôi",
+                  "text": "A Nhà Thờ Môi Khôi egy helyi keresztény templom, amely vasárnapi misére gyűjti a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        106.727955,
+                        10.754476
+                  ]
+            },
+            {
+                  "name": "Tịnh Xá Ngọc Bình",
+                  "text": "A Tịnh Xá Ngọc Bình egy nyugodt buddhista szentély, amelyet a spirituális elmélyülésnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.759061,
+                        10.785571
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Nguyên Thủy",
+                  "text": "A Thiền Viện Nguyên Thủy egy théraváda buddhista kolostor, amely szigorú meditációs gyakorlatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.764219,
+                        10.780275
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Đức",
+                  "text": "A Chùa Minh Đức egy hagyományos buddhista templom, amely napi istentiszteletre várja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        106.763751,
+                        10.786344
+                  ]
+            },
+            {
+                  "name": "Tu Viện Vĩnh Đức",
+                  "text": "A Tu Viện Vĩnh Đức kolostori környezetet biztosít a buddhista szerzetesek és gyakorlók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765809,
+                        10.784317
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tân Lập",
+                  "text": "A Nhà Thờ Tân Lập felismerhető vallási építészetével szolgálja a helyi keresztény egyházközséget.",
+                  "category": "landmark",
+                  "coords": [
+                        106.778822,
+                        10.786766
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Mỹ Hòa",
+                  "text": "A Nhà Thờ Mỹ Hòa egy keresztény plébániatemplom, amely spirituális otthont nyújt a környékbelieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.777557,
+                        10.784833
+                  ]
+            },
+            {
+                  "name": "Chùa Thiền Tôn 2",
+                  "text": "A Chùa Thiền Tôn 2 egy helyi buddhista templom, amely közösségi imáknak és szertartásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        106.771045,
+                        10.777286
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tắc Rỗi",
+                  "text": "A Nhà Thờ Tắc Rỗi egy keresztény templom, amely rendszeres istentiszteletre várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        106.715224,
+                        10.736953
+                  ]
+            },
+            {
+                  "name": "Ho Chi Minh Global Mission Church",
+                  "text": "A Ho Chi Minh Global Mission Church egy nemzetközi keresztény gyülekezet, amely az aktív missziós munkára összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        106.70675,
+                        10.733865
+                  ]
+            },
+            {
+                  "name": "Chùa Quang Minh",
+                  "text": "A Chùa Quang Minh egy buddhista templom, amelyet hagyományos építészeti elemek és áldozati oltárok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740588,
+                        10.704864
+                  ]
+            },
+            {
+                  "name": "Chùa Tam Bửu",
+                  "text": "A Chùa Tam Bửu egy békés buddhista templom, amelyet napi meditációra és spirituális tanulásra terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.739947,
+                        10.706472
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phú Xuân",
+                  "text": "A Nhà thờ Phú Xuân kiemelkedő keresztény vallási épület, amely a helyi katolikus közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740682,
+                        10.694065
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Bảo",
+                  "text": "A Chùa Pháp Bảo hagyományos buddhista tanításokat őriz csendes udvari környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.813395,
+                        10.705547
+                  ]
+            },
+            {
+                  "name": "Chùa Đàm Hoa",
+                  "text": "A Chùa Đàm Hoa aktív buddhista istentiszteleti helyként működik, melynek termeit hagyományos motívumok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        106.81195,
+                        10.70734
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thường",
+                  "text": "A Chùa Pháp Thường buddhista szentély, amely spirituális útmutatást és csendes menedéket nyújt a gyakorlóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        106.810139,
+                        10.708125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CBES Mini Museum",
+                  "text": "Un mic muzeu specializat care oferă exponate istorice sau culturale locale în zona economică aglomerată a portului.",
+                  "category": "museum",
+                  "coords": [
+                        106.771801,
+                        10.792594
+                  ]
+            },
+            {
+                  "name": "Phòng Trưng Bày Chloe",
+                  "text": "Un spațiu de galerie contemporan care prezintă expoziții artistice sau comerciale în cartierul portuar dinamic.",
+                  "category": "museum",
+                  "coords": [
+                        106.720567,
+                        10.724045
+                  ]
+            },
+            {
+                  "name": "Bia tưởng niệm Liệt Sĩ xã Phước Khánh",
+                  "text": "Un monument de piatră solemn dedicat onorării martirilor de război din comuna locală Phuoc Khanh.",
+                  "category": "historical",
+                  "coords": [
+                        106.788711,
+                        10.676759
+                  ]
+            },
+            {
+                  "name": "Miễu Bà Ngũ Hành Rạch Cá",
+                  "text": "Un altar tradițional local lângă calea navigabilă, dedicat zeițelor celor Cinci Elemente, deservind pescarii și locuitorii din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        106.772206,
+                        10.722182
+                  ]
+            },
+            {
+                  "name": "Thánh thất Phú Đông",
+                  "text": "Un templu caodaist distinctiv care servește ca centru spiritual pentru adepții religiei sincretice din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        106.818538,
+                        10.705619
+                  ]
+            },
+            {
+                  "name": "chùa Bà Thiên Hậu",
+                  "text": "Un templu în stil tradițional chinezesc dedicat zeiței Mazu, zeița mării, oferind protecție spirituală localnicilor din zona portului.",
+                  "category": "religious",
+                  "coords": [
+                        106.757195,
+                        10.784471
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Công thành",
+                  "text": "O biserică parohială catolică care oferă slujbe religioase și asistență pastorală credincioșilor din cartierul economic portuar.",
+                  "category": "religious",
+                  "coords": [
+                        106.761079,
+                        10.782899
+                  ]
+            },
+            {
+                  "name": "Miếu Bà Bướm",
+                  "text": "Un templu popular local dedicat spiritelor tradiționale, amplasat în mediul urban aglomerat al zonei portuare.",
+                  "category": "religious",
+                  "coords": [
+                        106.736762,
+                        10.733121
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Phước Khánh",
+                  "text": "O biserică parohială catolică locală care acționează ca un centru comunitar și spiritual pentru locuitorii din Phuoc Khanh.",
+                  "category": "religious",
+                  "coords": [
+                        106.791406,
+                        10.674835
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Hữu",
+                  "text": "O piață locală aglomerată, care oferă produse proaspete și necesități zilnice locuitorilor din zona Phuoc Huu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.789698,
+                        10.79055
+                  ]
+            },
+            {
+                  "name": "Co.op Mart",
+                  "text": "O sucursală modernă a unui supermarket care oferă o gamă largă de produse alimentare și bunuri de uz casnic în zona economică portuară.",
+                  "category": "cultural",
+                  "coords": [
+                        106.771697,
+                        10.772013
+                  ]
+            },
+            {
+                  "name": "Chợ Cư xá Ngân hàng",
+                  "text": "O piață tradițională plină de viață, care servește cartierul rezidențial local cu alimente proaspete și mărfuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.716716,
+                        10.74826
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Trưng",
+                  "text": "O piață locală aglomerată, cu numeroase tarabe care vând produse regionale proaspete, carne și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        106.755615,
+                        10.788955
+                  ]
+            },
+            {
+                  "name": "Chợ Tân Mỹ",
+                  "text": "O piață stradală locală vibrantă unde vânzătorii comercializează ingrediente proaspete, gustări locale și articole de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.718728,
+                        10.736445
+                  ]
+            },
+            {
+                  "name": "Chợ Cây Xoài",
+                  "text": "O piață locală aglomerată, cunoscută pentru produsele proaspete, fructele de mare și o gamă diversă de mărfuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        106.766445,
+                        10.777444
+                  ]
+            },
+            {
+                  "name": "Chợ Thạnh Mỹ Lợi",
+                  "text": "O piață locală centrală care deservește cartierul Thạnh Mỹ Lợi cu o varietate de alimente proaspete și bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.769756,
+                        10.770258
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Thuận",
+                  "text": "O piață tradițională care oferă alimente proaspete, delicatese locale și necesități zilnice comunității înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        106.736031,
+                        10.727925
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Xuân",
+                  "text": "O piață locală plină de viață, care oferă o gamă largă de mărfuri, de la produse agricole proaspete până la îmbrăcăminte și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737472,
+                        10.702678
+                  ]
+            },
+            {
+                  "name": "Công Viên Ven Sông An Phú Hưng",
+                  "text": "Parcul An Phu Hung River oferă un spațiu de recreere plin de verdeață direct de-a lungul cursului de apă local.",
+                  "category": "landmark",
+                  "coords": [
+                        106.709995,
+                        10.736246
+                  ]
+            },
+            {
+                  "name": "Tịnh Thất Vĩnh Phú",
+                  "text": "Tịnh Thất Vĩnh Phú servește drept un refugiu budist liniștit pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        106.799994,
+                        10.781844
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Thạnh",
+                  "text": "Chùa Đông Thạnh este un templu budist senin care oferă un spațiu pentru meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        106.79528,
+                        10.77536
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Thanh",
+                  "text": "Tịnh xá Ngọc Thanh funcționează ca un schit budist pașnic, axat pe practici contemplative.",
+                  "category": "landmark",
+                  "coords": [
+                        106.77653,
+                        10.792511
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Môi Khôi",
+                  "text": "Nhà Thờ Môi Khôi este o biserică creștină locală care adună credincioșii pentru slujba de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        106.727955,
+                        10.754476
+                  ]
+            },
+            {
+                  "name": "Tịnh Xá Ngọc Bình",
+                  "text": "Tịnh Xá Ngọc Bình este un sanctuar budist liniștit dedicat reflecției spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.759061,
+                        10.785571
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Nguyên Thủy",
+                  "text": "Thiền Viện Nguyên Thủy este o mănăstire budistă Theravada cunoscută pentru disciplinele sale stricte de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        106.764219,
+                        10.780275
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Đức",
+                  "text": "Chùa Minh Đức este un templu budist tradițional care primește comunitatea pentru închinarea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        106.763751,
+                        10.786344
+                  ]
+            },
+            {
+                  "name": "Tu Viện Vĩnh Đức",
+                  "text": "Tu Viện Vĩnh Đức oferă un mediu monahal pentru călugării și practicanții budiști.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765809,
+                        10.784317
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tân Lập",
+                  "text": "Nhà Thờ Tân Lập deservește parohia creștină locală cu arhitectura sa religioasă recunoscută.",
+                  "category": "landmark",
+                  "coords": [
+                        106.778822,
+                        10.786766
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Mỹ Hòa",
+                  "text": "Nhà Thờ Mỹ Hòa este o biserică parohială creștină care oferă un cămin spiritual cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        106.777557,
+                        10.784833
+                  ]
+            },
+            {
+                  "name": "Chùa Thiền Tôn 2",
+                  "text": "Chùa Thiền Tôn 2 este un templu budist local care găzduiește rugăciuni și ceremonii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        106.771045,
+                        10.777286
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tắc Rỗi",
+                  "text": "Nhà Thờ Tắc Rỗi este o biserică creștină care primește credincioșii pentru slujbe religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        106.715224,
+                        10.736953
+                  ]
+            },
+            {
+                  "name": "Ho Chi Minh Global Mission Church",
+                  "text": "Biserica Misiunii Globale Ho Chi Minh este o congregație creștină internațională axată pe munca misionară activă.",
+                  "category": "landmark",
+                  "coords": [
+                        106.70675,
+                        10.733865
+                  ]
+            },
+            {
+                  "name": "Chùa Quang Minh",
+                  "text": "Chùa Quang Minh este un templu budist împodobit cu arhitectură tradițională și altare pentru ofrande.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740588,
+                        10.704864
+                  ]
+            },
+            {
+                  "name": "Chùa Tam Bửu",
+                  "text": "Chùa Tam Bửu este un templu budist pașnic, conceput pentru meditație zilnică și învățare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        106.739947,
+                        10.706472
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phú Xuân",
+                  "text": "Nhà thờ Phú Xuân se înalță ca o clădire religioasă creștină proeminentă care servește comunitatea catolică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740682,
+                        10.694065
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Bảo",
+                  "text": "Chùa Pháp Bảo păstrează învățăturile budiste tradiționale în curtea sa senină.",
+                  "category": "landmark",
+                  "coords": [
+                        106.813395,
+                        10.705547
+                  ]
+            },
+            {
+                  "name": "Chùa Đàm Hoa",
+                  "text": "Chùa Đàm Hoa funcționează ca un spațiu de cult budist activ, cu săli decorate cu motive tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.81195,
+                        10.70734
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thường",
+                  "text": "Chùa Pháp Thường este un sanctuar budist care oferă îndrumare spirituală și un refugiu liniștit pentru practicanți.",
+                  "category": "landmark",
+                  "coords": [
+                        106.810139,
+                        10.708125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CBES Mini Museum",
+                  "text": "A small, specialized museum offering local historical or cultural exhibits in the bustling port economic zone.",
+                  "category": "museum",
+                  "coords": [
+                        106.771801,
+                        10.792594
+                  ]
+            },
+            {
+                  "name": "Phòng Trưng Bày Chloe",
+                  "text": "A contemporary gallery space showcasing artistic or commercial exhibitions within the dynamic port district.",
+                  "category": "museum",
+                  "coords": [
+                        106.720567,
+                        10.724045
+                  ]
+            },
+            {
+                  "name": "Bia tưởng niệm Liệt Sĩ xã Phước Khánh",
+                  "text": "A solemn stone monument dedicated to honoring the war martyrs of the local Phuoc Khanh commune.",
+                  "category": "historical",
+                  "coords": [
+                        106.788711,
+                        10.676759
+                  ]
+            },
+            {
+                  "name": "Miễu Bà Ngũ Hành Rạch Cá",
+                  "text": "A traditional local shrine near the waterway dedicated to the Five Elements goddesses, serving local fishermen and residents.",
+                  "category": "religious",
+                  "coords": [
+                        106.772206,
+                        10.722182
+                  ]
+            },
+            {
+                  "name": "Thánh thất Phú Đông",
+                  "text": "A distinctive Caodaist temple serving as a spiritual center for the syncretic religion's followers in the area.",
+                  "category": "religious",
+                  "coords": [
+                        106.818538,
+                        10.705619
+                  ]
+            },
+            {
+                  "name": "chùa Bà Thiên Hậu",
+                  "text": "A traditional Chinese-style temple dedicated to Mazu, the sea goddess, offering spiritual protection to locals in the port area.",
+                  "category": "religious",
+                  "coords": [
+                        106.757195,
+                        10.784471
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Công thành",
+                  "text": "A Catholic parish church offering religious services and pastoral care to the faithful in the economic port district.",
+                  "category": "religious",
+                  "coords": [
+                        106.761079,
+                        10.782899
+                  ]
+            },
+            {
+                  "name": "Miếu Bà Bướm",
+                  "text": "A local folk temple dedicated to traditional spirits, nestled within the bustling urban environment of the port area.",
+                  "category": "religious",
+                  "coords": [
+                        106.736762,
+                        10.733121
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Phước Khánh",
+                  "text": "A local Catholic parish church acting as a community and spiritual center for the residents of Phuoc Khanh.",
+                  "category": "religious",
+                  "coords": [
+                        106.791406,
+                        10.674835
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Hữu",
+                  "text": "A bustling local marketplace offering fresh produce and daily necessities to the residents of the Phuoc Huu area.",
+                  "category": "cultural",
+                  "coords": [
+                        106.789698,
+                        10.79055
+                  ]
+            },
+            {
+                  "name": "Co.op Mart",
+                  "text": "A modern supermarket branch providing a wide array of groceries and household goods in the port economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        106.771697,
+                        10.772013
+                  ]
+            },
+            {
+                  "name": "Chợ Cư xá Ngân hàng",
+                  "text": "A lively traditional market serving the local residential neighborhood with fresh food and daily commodities.",
+                  "category": "cultural",
+                  "coords": [
+                        106.716716,
+                        10.74826
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Trưng",
+                  "text": "A busy local marketplace featuring numerous stalls selling fresh regional produce, meats, and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.755615,
+                        10.788955
+                  ]
+            },
+            {
+                  "name": "Chợ Tân Mỹ",
+                  "text": "A vibrant local street market where vendors sell fresh ingredients, local snacks, and daily household items.",
+                  "category": "cultural",
+                  "coords": [
+                        106.718728,
+                        10.736445
+                  ]
+            },
+            {
+                  "name": "Chợ Cây Xoài",
+                  "text": "A bustling local marketplace known for its fresh produce, seafood, and diverse array of everyday merchandise.",
+                  "category": "cultural",
+                  "coords": [
+                        106.766445,
+                        10.777444
+                  ]
+            },
+            {
+                  "name": "Chợ Thạnh Mỹ Lợi",
+                  "text": "A central local market serving the Thạnh Mỹ Lợi neighborhood with a variety of fresh foods and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.769756,
+                        10.770258
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Thuận",
+                  "text": "A traditional market providing fresh groceries, local delicacies, and daily necessities to the surrounding community.",
+                  "category": "cultural",
+                  "coords": [
+                        106.736031,
+                        10.727925
+                  ]
+            },
+            {
+                  "name": "Chợ Phú Xuân",
+                  "text": "A lively local marketplace offering a wide range of goods from fresh agricultural produce to clothing and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737472,
+                        10.702678
+                  ]
+            },
+            {
+                  "name": "An Phu Hung River Park",
+                  "text": "An Phu Hung River Park offers a green recreational space directly along the local waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        106.709995,
+                        10.736246
+                  ]
+            },
+            {
+                  "name": "Tịnh Thất Vĩnh Phú",
+                  "text": "Tịnh Thất Vĩnh Phú serves as a quiet Buddhist retreat for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        106.799994,
+                        10.781844
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Thạnh",
+                  "text": "Chùa Đông Thạnh is a serene Buddhist temple providing a space for meditation and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        106.79528,
+                        10.77536
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Thanh",
+                  "text": "Tịnh xá Ngọc Thanh operates as a peaceful Buddhist hermitage focused on contemplative practices.",
+                  "category": "landmark",
+                  "coords": [
+                        106.77653,
+                        10.792511
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Môi Khôi",
+                  "text": "Nhà Thờ Môi Khôi is a local Christian church gathering the faithful for Sunday mass.",
+                  "category": "landmark",
+                  "coords": [
+                        106.727955,
+                        10.754476
+                  ]
+            },
+            {
+                  "name": "Tịnh Xá Ngọc Bình",
+                  "text": "Tịnh Xá Ngọc Bình is a tranquil Buddhist sanctuary dedicated to spiritual reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        106.759061,
+                        10.785571
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Nguyên Thủy",
+                  "text": "Thiền Viện Nguyên Thủy is a Theravada Buddhist monastery known for its strict meditation disciplines.",
+                  "category": "landmark",
+                  "coords": [
+                        106.764219,
+                        10.780275
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Đức",
+                  "text": "Chùa Minh Đức is a traditional Buddhist temple welcoming the community for daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        106.763751,
+                        10.786344
+                  ]
+            },
+            {
+                  "name": "Tu Viện Vĩnh Đức",
+                  "text": "Tu Viện Vĩnh Đức provides a monastic environment for Buddhist monks and practitioners.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765809,
+                        10.784317
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tân Lập",
+                  "text": "Nhà Thờ Tân Lập serves the local Christian parish with its recognizable religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        106.778822,
+                        10.786766
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Mỹ Hòa",
+                  "text": "Nhà Thờ Mỹ Hòa is a Christian parish church providing a spiritual home for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        106.777557,
+                        10.784833
+                  ]
+            },
+            {
+                  "name": "Chùa Thiền Tôn 2",
+                  "text": "Chùa Thiền Tôn 2 is a local Buddhist temple hosting community prayer and ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        106.771045,
+                        10.777286
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tắc Rỗi",
+                  "text": "Nhà Thờ Tắc Rỗi is a Christian church welcoming the faithful for regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        106.715224,
+                        10.736953
+                  ]
+            },
+            {
+                  "name": "Ho Chi Minh Global Mission Church",
+                  "text": "Ho Chi Minh Global Mission Church is an international Christian congregation focused on active missionary work.",
+                  "category": "landmark",
+                  "coords": [
+                        106.70675,
+                        10.733865
+                  ]
+            },
+            {
+                  "name": "Chùa Quang Minh",
+                  "text": "Chùa Quang Minh is a Buddhist temple adorned with traditional architecture and altars for making offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740588,
+                        10.704864
+                  ]
+            },
+            {
+                  "name": "Chùa Tam Bửu",
+                  "text": "Chùa Tam Bửu is a peaceful Buddhist temple designed for daily meditation and spiritual learning.",
+                  "category": "landmark",
+                  "coords": [
+                        106.739947,
+                        10.706472
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Phú Xuân",
+                  "text": "Nhà thờ Phú Xuân stands as a prominent Christian religious building serving the local Catholic community.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740682,
+                        10.694065
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Bảo",
+                  "text": "Chùa Pháp Bảo preserves traditional Buddhist teachings within its serene courtyard setting.",
+                  "category": "landmark",
+                  "coords": [
+                        106.813395,
+                        10.705547
+                  ]
+            },
+            {
+                  "name": "Chùa Đàm Hoa",
+                  "text": "Chùa Đàm Hoa functions as an active Buddhist worship space with halls decorated in traditional motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        106.81195,
+                        10.70734
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thường",
+                  "text": "Chùa Pháp Thường is a Buddhist sanctuary providing spiritual guidance and a quiet refuge for practitioners.",
+                  "category": "landmark",
+                  "coords": [
+                        106.810139,
+                        10.708125
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VN-SG",
     coords: [106.741, 10.748],
@@ -100,7 +2710,1312 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "vung-tau-port-economic-v2",
+    id: "vung-tau-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nhà Lớn Long Sơn",
+                  "text": "Ein historisches Herrenhaus-Museum in der Gegend von Vung Tau, das traditionelle Holzarchitektur und lokales Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        107.096253,
+                        10.454422
+                  ]
+            },
+            {
+                  "name": "Di chỉ Giồng Lớn",
+                  "text": "Eine wichtige archäologische Stätte in der Nähe von Vung Tau, an der antike Artefakte aus frühen Siedlungen ausgegraben wurden.",
+                  "category": "historical",
+                  "coords": [
+                        107.070176,
+                        10.449422
+                  ]
+            },
+            {
+                  "name": "Tượng đài Dầu khí",
+                  "text": "Ein markantes Denkmal in Vung Tau, das der bedeutenden Erdöl- und Gasindustrie der Stadt gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        107.157931,
+                        10.423169
+                  ]
+            },
+            {
+                  "name": "Miếu Đầu Đá | Cố Linh Động",
+                  "text": "Ein heiliger Tempelkomplex in der Region Vung Tau, der um natürliche Felsformationen herum gebaut wurde und für lokale spirituelle Rituale genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        107.025726,
+                        10.463172
+                  ]
+            },
+            {
+                  "name": "Thon Cat Hai",
+                  "text": "Ein lokaler Dorfmarkt in der Region Vung Tau, der die Küstengemeinde mit Waren des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        107.091956,
+                        10.501611
+                  ]
+            },
+            {
+                  "name": "Cat Hai",
+                  "text": "Ein geschäftiger Gemeinschaftsmarkt im Küstengebiet von Vung Tau, bekannt für den Handel mit lokalen Waren und Meeresfrüchten.",
+                  "category": "cultural",
+                  "coords": [
+                        107.094132,
+                        10.501393
+                  ]
+            },
+            {
+                  "name": "Chợ Thắng Nhất",
+                  "text": "Ein geschäftiger lokaler Markt im Bezirk Thang Nhat von Vung Tau, der frische regionale Produkte und Güter des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        107.101505,
+                        10.391727
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Hải",
+                  "text": "Ein Nachbarschaftsmarkt in der Wirtschaftszone von Vung Tau, wo Einheimische frische Lebensmittel und Haushaltsartikel einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        107.119595,
+                        10.499757
+                  ]
+            },
+            {
+                  "name": "Chợ Long Sơn",
+                  "text": "Das Haupthandelszentrum auf der Insel Long Son in Vung Tau, das frischen lokalen Fang und regionale Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        107.097911,
+                        10.456559
+                  ]
+            },
+            {
+                  "name": "Chợ Rạch Dừa",
+                  "text": "Ein traditioneller Marktplatz in Vung Tau, auf dem lokale Händler frische Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        107.116009,
+                        10.398019
+                  ]
+            },
+            {
+                  "name": "Chợ Mới phường 11",
+                  "text": "Ein lokaler Markt im 11. Bezirk von Vung Tau, der die Anwohner mit täglichen Lebensmitteln und frischen Produkten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        107.133148,
+                        10.411138
+                  ]
+            },
+            {
+                  "name": "Chợ Phước Thành",
+                  "text": "Ein lebhaftes lokales Handelszentrum in Vung Tau, in dem sich die Einwohner für ihre täglichen Einkäufe versammeln.",
+                  "category": "cultural",
+                  "coords": [
+                        107.137667,
+                        10.412731
+                  ]
+            },
+            {
+                  "name": "Hải đăng Aval",
+                  "text": "Ein nautisches Küstenfeuer, das den Schiffsverkehr entlang der Küste von Vung Tau leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.013956,
+                        10.401476
+                  ]
+            },
+            {
+                  "name": "Miếu bà",
+                  "text": "Ein traditioneller vietnamesischer Volksschrein in Vung Tau, der verehrten weiblichen Gottheiten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.127313,
+                        10.422025
+                  ]
+            },
+            {
+                  "name": "Giáo họ Mân Côi",
+                  "text": "Eine lokale christliche Kirche, die der katholischen Gemeinde dient und durch ihre Architektur in Vung Tau auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.155302,
+                        10.405906
+                  ]
+            },
+            {
+                  "name": "Chùa Di Lặc",
+                  "text": "Ein ruhiger buddhistischer Tempel in Vung Tau, der nach Maitreya, dem zukünftigen Buddha des Mitgefühls, benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.157643,
+                        10.414377
+                  ]
+            },
+            {
+                  "name": "Chùa Hưng Long",
+                  "text": "Ein friedliches buddhistisches Heiligtum, das einen ruhigen Rückzugsort für spirituelle Kontemplation in Vung Tau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077951,
+                        10.464721
+                  ]
+            },
+            {
+                  "name": "Miếu Quan Đội",
+                  "text": "Ein lokaler vietnamesischer Volksschrein, der die traditionellen animistischen Überzeugungen und das kulturelle Erbe von Vung Tau bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.135678,
+                        10.437192
+                  ]
+            },
+            {
+                  "name": "Đình Long Sơn",
+                  "text": "Ein traditioneller Dorftempel, der als spirituelles und gemeinschaftliches Zentrum für die ländliche Siedlung Long Son nahe Vung Tau dient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075925,
+                        10.460209
+                  ]
+            },
+            {
+                  "name": "Long Sơn Cổ Tự",
+                  "text": "Ein alter buddhistischer Tempel in der Gegend von Long Son, der sich durch klassische vietnamesische Klosterarchitektur und kunstvolle Schnitzereien auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075247,
+                        10.455599
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thành",
+                  "text": "Eine wunderschön gepflegte buddhistische Pagode in Vung Tau, die mit traditionellen religiösen Motiven und Statuen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.158535,
+                        10.428373
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nam Đồng",
+                  "text": "Eine christliche Pfarrkirche, die als regelmäßige Kultstätte und Treffpunkt der Gemeinde in Vung Tau fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        107.108992,
+                        10.390429
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Sao Mai",
+                  "text": "Eine markante christliche Kirche in Vung Tau, die sich durch ihre hohe, mit einem Kreuz gekrönte Fassade auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.059369,
+                        10.384681
+                  ]
+            },
+            {
+                  "name": "Tịnh viện Quảng Đức",
+                  "text": "Ein ruhiges buddhistisches Kloster in Vung Tau, das Meditationspraktiken und der Erhaltung traditioneller buddhistischer Lehren gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.062522,
+                        10.386098
+                  ]
+            },
+            {
+                  "name": "Hội thánh Tin lành Phước Thắng",
+                  "text": "Eine protestantische Kultstätte, die der lokalen evangelischen Gemeinde in Vung Tau dient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.162258,
+                        10.421054
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Nam Bình",
+                  "text": "Eine lokale katholische Pfarrkirche, die dem Viertel Nam Binh in Vung Tau spirituelle Dienste und gemeinschaftliche Unterstützung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.150184,
+                        10.420113
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thắng",
+                  "text": "Ein ruhiger buddhistischer Tempelkomplex in Vung Tau, in dem einheimische Mönche und Anwohner tägliche Gebete und Rituale abhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        107.133954,
+                        10.407461
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Láng Cát",
+                  "text": "Ein christliches Gotteshaus, das der katholischen Gemeinde im Wohngebiet Lang Cat in Vung Tau dient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.094823,
+                        10.505966
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Chu Hải",
+                  "text": "Eine katholische Kirche in Vung Tau, die ein spirituelles Heiligtum und ein aktives Gemeindezentrum für ihre Pfarrkinder darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.116055,
+                        10.499405
+                  ]
+            },
+            {
+                  "name": "Đền thờ Liệt sĩ xã Long Sơn",
+                  "text": "Ein feierlicher Gedenkschrein zu Ehren der gefallenen Märtyrer und Kriegshelden der Gemeinde Long Son nahe Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.085355,
+                        10.463554
+                  ]
+            },
+            {
+                  "name": "Miếu Ngũ Hành",
+                  "text": "Ein traditioneller vietnamesischer Volksschrein, der den Fünf Elementen gewidmet ist und die lokalen animistischen Überzeugungen in Vung Tau zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.080688,
+                        10.462491
+                  ]
+            },
+            {
+                  "name": "Đình thần Thắng Nhứt",
+                  "text": "Ein traditionelles vietnamesisches Gemeindehaus, das als zentraler kultureller und administrativer Treffpunkt für die lokale Gemeinde in Vung Tau dient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.104395,
+                        10.393439
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hải Xuân",
+                  "text": "Ein christliches Kirchengebäude, das der katholischen Gemeinde in Vung Tau Gottesdienste und spirituelle Führung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.10887,
+                        10.397553
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thủy Giang",
+                  "text": "Eine christliche Kirche in der Nachbarschaft, die sich durch eine markante religiöse Architektur in der Küstenstadt Vung Tau auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.105454,
+                        10.395113
+                  ]
+            },
+            {
+                  "name": "Hội dòng Đa Minh Bà Rịa",
+                  "text": "Eine christliche Religionsgemeinschaft des Dominikanerordens, die sich in der Gegend von Ba Ria in der Nähe von Vung Tau befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.113425,
+                        10.396338
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trung Đồng",
+                  "text": "Eine lokale katholische Pfarrkirche in Vung Tau, die sich durch ihre engagierte Gemeinde und religiöse Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.111652,
+                        10.394605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà Lớn Long Sơn",
+                  "text": "Történelmi kastélymúzeum Vung Tau térségében, amely a hagyományos faépítészetet és a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        107.096253,
+                        10.454422
+                  ]
+            },
+            {
+                  "name": "Di chỉ Giồng Lớn",
+                  "text": "Fontos régészeti lelőhely Vung Tau közelében, ahol a korai településekről származó ősi tárgyakat tártak fel.",
+                  "category": "historical",
+                  "coords": [
+                        107.070176,
+                        10.449422
+                  ]
+            },
+            {
+                  "name": "Tượng đài Dầu khí",
+                  "text": "Kiemelkedő emlékmű Vung Tauban, amelyet a város jelentős kőolaj- és gáziparának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        107.157931,
+                        10.423169
+                  ]
+            },
+            {
+                  "name": "Miếu Đầu Đá | Cố Linh Động",
+                  "text": "Szent templomkomplexum a Vung Tau régióban, amely természetes sziklaalakzatok köré épült, és helyi spirituális rituálékhoz használják.",
+                  "category": "religious",
+                  "coords": [
+                        107.025726,
+                        10.463172
+                  ]
+            },
+            {
+                  "name": "Thon Cat Hai",
+                  "text": "Helyi falusi piac a Vung Tau régióban, amely napi szükségleti cikkekkel látja el a tengerparti közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        107.091956,
+                        10.501611
+                  ]
+            },
+            {
+                  "name": "Cat Hai",
+                  "text": "Nyüzsgő közösségi piac a Vung Tau part menti térségében, amely a helyi áruk és tenger gyümölcsei kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        107.094132,
+                        10.501393
+                  ]
+            },
+            {
+                  "name": "Chợ Thắng Nhất",
+                  "text": "Forgalmas helyi piac Vung Tau Thang Nhat kerületében, amely friss regionális termékeket és napi szükségleti cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        107.101505,
+                        10.391727
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Hải",
+                  "text": "Egy szomszédsági piac Vung Tau gazdasági övezetében, ahol a helyiek friss élelmiszereket és háztartási cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        107.119595,
+                        10.499757
+                  ]
+            },
+            {
+                  "name": "Chợ Long Sơn",
+                  "text": "A Long Son sziget fő kereskedelmi központja Vung Tauban, amely friss helyi fogást és regionális árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        107.097911,
+                        10.456559
+                  ]
+            },
+            {
+                  "name": "Chợ Rạch Dừa",
+                  "text": "Egy hagyományos piac Vung Tauban, amely nyüzsög a friss árukat kínáló helyi árusoktól.",
+                  "category": "cultural",
+                  "coords": [
+                        107.116009,
+                        10.398019
+                  ]
+            },
+            {
+                  "name": "Chợ Mới phường 11",
+                  "text": "Egy helyi kerületi piac Vung Tauban, amely a 11-es körzet lakóit látja el napi élelmiszerekkel és friss termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        107.133148,
+                        10.411138
+                  ]
+            },
+            {
+                  "name": "Chợ Phước Thành",
+                  "text": "Egy nyüzsgő helyi kereskedelmi központ Vung Tauban, ahol a lakosok a napi bevásárlásaikat intézik.",
+                  "category": "cultural",
+                  "coords": [
+                        107.137667,
+                        10.412731
+                  ]
+            },
+            {
+                  "name": "Hải đăng Aval",
+                  "text": "Egy part menti navigációs jelzőfény, amely a tengeri forgalmat irányítja Vung Tau partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        107.013956,
+                        10.401476
+                  ]
+            },
+            {
+                  "name": "Miếu bà",
+                  "text": "Egy tisztelt női istenségeknek szentelt hagyományos vietnámi népi szentély, amely Vung Tau helyi spirituális gyakorlatait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        107.127313,
+                        10.422025
+                  ]
+            },
+            {
+                  "name": "Giáo họ Mân Côi",
+                  "text": "Egy helyi keresztény templom, amely a katolikus közösséget szolgálja, és jellegzetes építészeti jelenléttel bír Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.155302,
+                        10.405906
+                  ]
+            },
+            {
+                  "name": "Chùa Di Lặc",
+                  "text": "Egy békés buddhista templom Vung Tauban, amelyet Maitréjáról, a jövő könyörületes Buddhájáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        107.157643,
+                        10.414377
+                  ]
+            },
+            {
+                  "name": "Chùa Hưng Long",
+                  "text": "Egy békés buddhista szentély, amely csendes menedéket nyújt a spirituális elmélkedéshez Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077951,
+                        10.464721
+                  ]
+            },
+            {
+                  "name": "Miếu Quan Đội",
+                  "text": "Egy helyi vietnámi népi szentély, amely megőrzi Vung Tau hagyományos animista hiedelmeit és kulturális örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        107.135678,
+                        10.437192
+                  ]
+            },
+            {
+                  "name": "Đình Long Sơn",
+                  "text": "Egy hagyományos falusi templom, amely a Vung Tau közeli Long Son vidéki település spirituális és közösségi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075925,
+                        10.460209
+                  ]
+            },
+            {
+                  "name": "Long Sơn Cổ Tự",
+                  "text": "Egy ősi buddhista templom Long Son térségében, amely klasszikus vietnámi kolostori építészettel és díszes faragványokkal büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075247,
+                        10.455599
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thành",
+                  "text": "Egy gyönyörűen karbantartott buddhista pagoda Vung Tauban, amelyet hagyományos vallási motívumok és szobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        107.158535,
+                        10.428373
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nam Đồng",
+                  "text": "Egy keresztény plébániatemplom, amely rendszeres istentiszteleti és közösségi gyülekezőhelyként működik Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.108992,
+                        10.390429
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Sao Mai",
+                  "text": "Egy kiemelkedő keresztény templom Vung Tauban, amelyet magas, kereszttel koronázott homlokzata tesz különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        107.059369,
+                        10.384681
+                  ]
+            },
+            {
+                  "name": "Tịnh viện Quảng Đức",
+                  "text": "Egy nyugodt buddhista kolostor Vung Tauban, amelyet a meditációs gyakorlatoknak és a hagyományos buddhista tanítások megőrzésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        107.062522,
+                        10.386098
+                  ]
+            },
+            {
+                  "name": "Hội thánh Tin lành Phước Thắng",
+                  "text": "Egy protestáns keresztény istentiszteleti hely, amely a helyi evangéliumi gyülekezetet szolgálja Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.162258,
+                        10.421054
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Nam Bình",
+                  "text": "Egy helyi katolikus plébániatemplom, amely spirituális szolgáltatásokat és közösségi támogatást nyújt Vung Tau Nam Binh nevű környékének.",
+                  "category": "landmark",
+                  "coords": [
+                        107.150184,
+                        10.420113
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thắng",
+                  "text": "Egy csendes buddhista templomkomplexum Vung Tauban, ahol a helyi szerzetesek és lakosok napi imákon és rituálékon vesznek részt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.133954,
+                        10.407461
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Láng Cát",
+                  "text": "Egy helyi keresztény istentiszteleti hely, amely a katolikus gyülekezetet szolgálja Vung Tau Lang Cat nevű lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        107.094823,
+                        10.505966
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Chu Hải",
+                  "text": "Egy katolikus templom Vung Tauban, amely spirituális menedéket és aktív közösségi központot biztosít hívei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        107.116055,
+                        10.499405
+                  ]
+            },
+            {
+                  "name": "Đền thờ Liệt sĩ xã Long Sơn",
+                  "text": "Egy ünnepélyes emlékhely, amely a Vung Tau közeli Long Son község elesett mártírjainak és háborús hőseinek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        107.085355,
+                        10.463554
+                  ]
+            },
+            {
+                  "name": "Miếu Ngũ Hành",
+                  "text": "Az Öt Elemnek szentelt hagyományos vietnámi népi szentély, amely a helyi animista hiedelmeket mutatja be Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.080688,
+                        10.462491
+                  ]
+            },
+            {
+                  "name": "Đình thần Thắng Nhứt",
+                  "text": "Egy hagyományos vietnámi közösségi ház, amely központi kulturális és adminisztratív gyülekezőhelyként működik a helyi közösség számára Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.104395,
+                        10.393439
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hải Xuân",
+                  "text": "Egy keresztény vallási épület, amely miséket és spirituális iránymutatást nyújt a katolikus közösségnek Vung Tauban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.10887,
+                        10.397553
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thủy Giang",
+                  "text": "Egy környékbeli keresztény templom, amely jellegzetes vallási építészettel rendelkezik Vung Tau tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        107.105454,
+                        10.395113
+                  ]
+            },
+            {
+                  "name": "Hội dòng Đa Minh Bà Rịa",
+                  "text": "A domonkos rendhez tartozó keresztény vallási közösségi intézmény a Vung Tau közeli Ba Ria területén.",
+                  "category": "landmark",
+                  "coords": [
+                        107.113425,
+                        10.396338
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trung Đồng",
+                  "text": "Egy helyi katolikus plébániatemplom Vung Tauban, amelyet elkötelezett gyülekezete és vallási építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        107.111652,
+                        10.394605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà Lớn Long Sơn",
+                  "text": "Un muzeu conac istoric în zona Vung Tau, care prezintă arhitectura tradițională din lemn și moștenirea locală.",
+                  "category": "museum",
+                  "coords": [
+                        107.096253,
+                        10.454422
+                  ]
+            },
+            {
+                  "name": "Di chỉ Giồng Lớn",
+                  "text": "Un important sit arheologic lângă Vung Tau, unde au fost dezgropate artefacte antice din așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        107.070176,
+                        10.449422
+                  ]
+            },
+            {
+                  "name": "Tượng đài Dầu khí",
+                  "text": "Un monument proeminent în Vung Tau dedicat industriei semnificative de petrol și gaze a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        107.157931,
+                        10.423169
+                  ]
+            },
+            {
+                  "name": "Miếu Đầu Đá | Cố Linh Động",
+                  "text": "Un complex de temple sacre în regiunea Vung Tau, construit în jurul unor formațiuni stâncoase naturale și folosit pentru ritualuri spirituale locale.",
+                  "category": "religious",
+                  "coords": [
+                        107.025726,
+                        10.463172
+                  ]
+            },
+            {
+                  "name": "Thon Cat Hai",
+                  "text": "O piață satului locală în regiunea Vung Tau, care deservește comunitatea de coastă cu provizii zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        107.091956,
+                        10.501611
+                  ]
+            },
+            {
+                  "name": "Cat Hai",
+                  "text": "O piață comunitară plină de viață în zona de coastă Vung Tau, cunoscută pentru comerțul cu bunuri locale și fructe de mare.",
+                  "category": "cultural",
+                  "coords": [
+                        107.094132,
+                        10.501393
+                  ]
+            },
+            {
+                  "name": "Chợ Thắng Nhất",
+                  "text": "O piață locală aglomerată din cartierul Thang Nhat din Vung Tau, furnizând produse regionale proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        107.101505,
+                        10.391727
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Hải",
+                  "text": "O piață de cartier în zona economică Vung Tau, unde localnicii fac cumpărături pentru alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        107.119595,
+                        10.499757
+                  ]
+            },
+            {
+                  "name": "Chợ Long Sơn",
+                  "text": "Principalul centru comercial de pe insula Long Son, Vung Tau, oferind capturi locale proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.097911,
+                        10.456559
+                  ]
+            },
+            {
+                  "name": "Chợ Rạch Dừa",
+                  "text": "O piață tradițională plină de vânzători locali care oferă produse proaspete în Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.116009,
+                        10.398019
+                  ]
+            },
+            {
+                  "name": "Chợ Mới phường 11",
+                  "text": "O piață locală de cartier din Vung Tau care aprovizionează locuitorii din circumscripția 11 cu alimente zilnice și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        107.133148,
+                        10.411138
+                  ]
+            },
+            {
+                  "name": "Chợ Phước Thành",
+                  "text": "Un centru comercial local vibrant, unde locuitorii din Vung Tau se adună pentru cumpărăturile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        107.137667,
+                        10.412731
+                  ]
+            },
+            {
+                  "name": "Hải đăng Aval",
+                  "text": "Un far de navigație de coastă care ghidează traficul maritim de-a lungul țărmurilor din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.013956,
+                        10.401476
+                  ]
+            },
+            {
+                  "name": "Miếu bà",
+                  "text": "Un altar tradițional vietnamez dedicat divinităților feminine venerate, reflectând practicile spirituale locale din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.127313,
+                        10.422025
+                  ]
+            },
+            {
+                  "name": "Giáo họ Mân Côi",
+                  "text": "O biserică creștină locală care deservește comunitatea catolică, având o prezență arhitecturală distinctă în Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.155302,
+                        10.405906
+                  ]
+            },
+            {
+                  "name": "Chùa Di Lặc",
+                  "text": "Un templu budist liniștit din Vung Tau, numit după Maitreya, viitorul Buddha al compasiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        107.157643,
+                        10.414377
+                  ]
+            },
+            {
+                  "name": "Chùa Hưng Long",
+                  "text": "Un sanctuar budist pașnic care oferă un refugiu liniștit pentru contemplare spirituală în Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077951,
+                        10.464721
+                  ]
+            },
+            {
+                  "name": "Miếu Quan Đội",
+                  "text": "Un altar tradițional vietnamez care păstrează credințele animiste și moștenirea culturală din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.135678,
+                        10.437192
+                  ]
+            },
+            {
+                  "name": "Đình Long Sơn",
+                  "text": "Un templu sătesc tradițional care servește drept centru spiritual și comunitar pentru așezarea rurală Long Son de lângă Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075925,
+                        10.460209
+                  ]
+            },
+            {
+                  "name": "Long Sơn Cổ Tự",
+                  "text": "Un vechi templu budist în zona Long Son, prezentând o arhitectură monahală clasică vietnameză și sculpturi ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075247,
+                        10.455599
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thành",
+                  "text": "O pagodă budistă frumos întreținută în Vung Tau, împodobită cu motive religioase tradiționale și statui.",
+                  "category": "landmark",
+                  "coords": [
+                        107.158535,
+                        10.428373
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nam Đồng",
+                  "text": "O biserică parohială creștină care funcționează ca un loc de rugăciune și adunare comunitară în Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.108992,
+                        10.390429
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Sao Mai",
+                  "text": "O biserică creștină proeminentă din Vung Tau, distinsă prin fațada sa înaltă, încununată de o cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        107.059369,
+                        10.384681
+                  ]
+            },
+            {
+                  "name": "Tịnh viện Quảng Đức",
+                  "text": "O mănăstire budistă calmă din Vung Tau, dedicată practicilor de meditație și conservării învățăturilor budiste tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        107.062522,
+                        10.386098
+                  ]
+            },
+            {
+                  "name": "Hội thánh Tin lành Phước Thắng",
+                  "text": "Un lăcaș de cult creștin protestant care deservește congregația evanghelică locală din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.162258,
+                        10.421054
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Nam Bình",
+                  "text": "O biserică parohială catolică locală care oferă servicii spirituale și sprijin comunitar cartierului Nam Binh din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.150184,
+                        10.420113
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thắng",
+                  "text": "Un complex de temple budiste liniștit din Vung Tau, unde călugării rezidenți și localnicii se angajează în rugăciuni și ritualuri zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        107.133954,
+                        10.407461
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Láng Cát",
+                  "text": "Un lăcaș de cult creștin local care deservește congregația catolică din zona rezidențială Lang Cat din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.094823,
+                        10.505966
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Chu Hải",
+                  "text": "O biserică catolică din Vung Tau care oferă un sanctuar spiritual și un centru comunitar activ pentru enoriașii săi.",
+                  "category": "landmark",
+                  "coords": [
+                        107.116055,
+                        10.499405
+                  ]
+            },
+            {
+                  "name": "Đền thờ Liệt sĩ xã Long Sơn",
+                  "text": "Un sanctuar memorial solemn care onorează martirii căzuți și eroii de război din comuna Long Son de lângă Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.085355,
+                        10.463554
+                  ]
+            },
+            {
+                  "name": "Miếu Ngũ Hành",
+                  "text": "Un altar tradițional vietnamez dedicat Celor Cinci Elemente, prezentând credințele animiste locale din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.080688,
+                        10.462491
+                  ]
+            },
+            {
+                  "name": "Đình thần Thắng Nhứt",
+                  "text": "O casă comunală tradițională vietnameză care acționează ca un loc central de adunare culturală și administrativă pentru comunitatea locală din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.104395,
+                        10.393439
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hải Xuân",
+                  "text": "O clădire religioasă creștină care oferă slujbe de liturghie și îndrumare spirituală comunității catolice din Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.10887,
+                        10.397553
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thủy Giang",
+                  "text": "O biserică creștină de cartier, cu o arhitectură religioasă distinctă, în orașul de coastă Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.105454,
+                        10.395113
+                  ]
+            },
+            {
+                  "name": "Hội dòng Đa Minh Bà Rịa",
+                  "text": "O așezare comunitară religioasă creștină aparținând Ordinului Dominican, situată în zona Ba Ria, lângă Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.113425,
+                        10.396338
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trung Đồng",
+                  "text": "O biserică parohială catolică locală din Vung Tau, caracterizată prin congregația sa dedicată și arhitectura religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        107.111652,
+                        10.394605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Long Son Mansion",
+                  "text": "A historic mansion museum in the Vung Tau area, showcasing traditional wooden architecture and local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        107.096253,
+                        10.454422
+                  ]
+            },
+            {
+                  "name": "Di chỉ Giồng Lớn",
+                  "text": "An important archaeological site near Vung Tau where ancient artifacts from early settlements have been unearthed.",
+                  "category": "historical",
+                  "coords": [
+                        107.070176,
+                        10.449422
+                  ]
+            },
+            {
+                  "name": "Tượng đài Dầu khí",
+                  "text": "A prominent monument in Vung Tau dedicated to the city's significant petroleum and gas industry.",
+                  "category": "historical",
+                  "coords": [
+                        107.157931,
+                        10.423169
+                  ]
+            },
+            {
+                  "name": "Miếu Đầu Đá | Cố Linh Động",
+                  "text": "A sacred temple complex in the Vung Tau region, built around natural rock formations and used for local spiritual rituals.",
+                  "category": "religious",
+                  "coords": [
+                        107.025726,
+                        10.463172
+                  ]
+            },
+            {
+                  "name": "Thon Cat Hai",
+                  "text": "A local village marketplace in the Vung Tau region serving the coastal community with daily supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        107.091956,
+                        10.501611
+                  ]
+            },
+            {
+                  "name": "Cat Hai",
+                  "text": "A bustling community market in the Vung Tau coastal area, known for trading local goods and seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        107.094132,
+                        10.501393
+                  ]
+            },
+            {
+                  "name": "Thang Nhat Market",
+                  "text": "A busy local market in the Thang Nhat ward of Vung Tau, supplying fresh regional produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        107.101505,
+                        10.391727
+                  ]
+            },
+            {
+                  "name": "Chu Hai Market",
+                  "text": "A neighborhood market in the Vung Tau economic zone where locals shop for fresh food and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        107.119595,
+                        10.499757
+                  ]
+            },
+            {
+                  "name": "Long Son Market",
+                  "text": "The main trading hub on Long Son island, Vung Tau, offering fresh local catches and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        107.097911,
+                        10.456559
+                  ]
+            },
+            {
+                  "name": "Chợ Rạch Dừa",
+                  "text": "A traditional marketplace bustling with local vendors selling fresh goods in Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.116009,
+                        10.398019
+                  ]
+            },
+            {
+                  "name": "Chợ Mới phường 11",
+                  "text": "A local ward market in Vung Tau providing residents of Ward 11 with daily groceries and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        107.133148,
+                        10.411138
+                  ]
+            },
+            {
+                  "name": "Phước Thành Market",
+                  "text": "A vibrant local commercial hub where residents of Vung Tau gather for their daily trading and shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        107.137667,
+                        10.412731
+                  ]
+            },
+            {
+                  "name": "Aval Lighthouse",
+                  "text": "A coastal navigational beacon guiding maritime traffic along the shores of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.013956,
+                        10.401476
+                  ]
+            },
+            {
+                  "name": "Miếu bà",
+                  "text": "A traditional Vietnamese folk shrine dedicated to revered female deities, reflecting the local spiritual practices of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.127313,
+                        10.422025
+                  ]
+            },
+            {
+                  "name": "Giáo họ Mân Côi",
+                  "text": "A local Christian church serving the Catholic community with a distinct architectural presence in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.155302,
+                        10.405906
+                  ]
+            },
+            {
+                  "name": "Chùa Di Lặc",
+                  "text": "A serene Buddhist temple in Vung Tau named after Maitreya, the future Buddha of compassion.",
+                  "category": "landmark",
+                  "coords": [
+                        107.157643,
+                        10.414377
+                  ]
+            },
+            {
+                  "name": "Chùa Hưng Long",
+                  "text": "A peaceful Buddhist sanctuary offering a quiet retreat for spiritual contemplation in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077951,
+                        10.464721
+                  ]
+            },
+            {
+                  "name": "Miếu Quan Đội",
+                  "text": "A local Vietnamese folk shrine preserving the traditional animistic beliefs and cultural heritage of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.135678,
+                        10.437192
+                  ]
+            },
+            {
+                  "name": "Long Son Village Temple",
+                  "text": "A traditional village temple serving as the spiritual and communal center for the rural settlement of Long Son near Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075925,
+                        10.460209
+                  ]
+            },
+            {
+                  "name": "Long Sơn Cổ Tự",
+                  "text": "An ancient Buddhist temple in the Long Son area, featuring classic Vietnamese monastic architecture and ornate carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        107.075247,
+                        10.455599
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thành",
+                  "text": "A beautifully maintained Buddhist pagoda in Vung Tau, adorned with traditional religious motifs and statues.",
+                  "category": "landmark",
+                  "coords": [
+                        107.158535,
+                        10.428373
+                  ]
+            },
+            {
+                  "name": "Nam Dong Catholic Church",
+                  "text": "A Christian parish church functioning as a regular place of worship and community gathering in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.108992,
+                        10.390429
+                  ]
+            },
+            {
+                  "name": "Sao Mai Catholic Church",
+                  "text": "A prominent Christian church in Vung Tau, distinguished by its tall, cross-topped facade.",
+                  "category": "landmark",
+                  "coords": [
+                        107.059369,
+                        10.384681
+                  ]
+            },
+            {
+                  "name": "Tịnh viện Quảng Đức",
+                  "text": "A calm Buddhist monastery in Vung Tau dedicated to meditation practices and the preservation of traditional Buddhist teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        107.062522,
+                        10.386098
+                  ]
+            },
+            {
+                  "name": "Phuoc Thang Evangelical Church",
+                  "text": "A Protestant Christian place of worship serving the local evangelical congregation in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.162258,
+                        10.421054
+                  ]
+            },
+            {
+                  "name": "Nam Binh Catholic Church",
+                  "text": "A local Catholic parish church providing spiritual services and community support to the Nam Binh neighborhood of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.150184,
+                        10.420113
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Thắng",
+                  "text": "A quiet Buddhist temple complex in Vung Tau where resident monks and locals engage in daily prayers and rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        107.133954,
+                        10.407461
+                  ]
+            },
+            {
+                  "name": "Lang Cat Catholic Church",
+                  "text": "A local Christian house of worship serving the Catholic congregation in the Lang Cat residential area of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.094823,
+                        10.505966
+                  ]
+            },
+            {
+                  "name": "Chu Hai Catholic Church",
+                  "text": "A Catholic church in Vung Tau providing a spiritual sanctuary and an active community hub for its parishioners.",
+                  "category": "landmark",
+                  "coords": [
+                        107.116055,
+                        10.499405
+                  ]
+            },
+            {
+                  "name": "Đền thờ Liệt sĩ xã Long Sơn",
+                  "text": "A solemn memorial shrine honoring the fallen martyrs and war heroes of the Long Son commune near Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.085355,
+                        10.463554
+                  ]
+            },
+            {
+                  "name": "Miếu Ngũ Hành",
+                  "text": "A traditional Vietnamese folk shrine dedicated to the Five Elements, showcasing local animistic beliefs in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.080688,
+                        10.462491
+                  ]
+            },
+            {
+                  "name": "Thang Nhut communal house",
+                  "text": "A traditional Vietnamese communal house acting as a central cultural and administrative gathering place for the local community in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.104395,
+                        10.393439
+                  ]
+            },
+            {
+                  "name": "Hai Xuan Catholic Church",
+                  "text": "A Christian religious building providing mass services and spiritual guidance to the Catholic community in Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.10887,
+                        10.397553
+                  ]
+            },
+            {
+                  "name": "Thuy Giang Church",
+                  "text": "A neighborhood Christian church featuring distinctive religious architecture within the coastal city of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.105454,
+                        10.395113
+                  ]
+            },
+            {
+                  "name": "Ba Ria Dominican Order",
+                  "text": "A Christian religious community establishment belonging to the Dominican Order, located in the Ba Ria area near Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.113425,
+                        10.396338
+                  ]
+            },
+            {
+                  "name": "Trung Dong Catholic Church",
+                  "text": "A local Catholic parish church in Vung Tau characterized by its dedicated congregation and religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        107.111652,
+                        10.394605
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VN-BR",
     coords: [107.084, 10.418],
@@ -148,7 +4063,592 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "da-nang-port-economic-v2",
+    id: "da-nang-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Son Tra view",
+                  "text": "Der Son Tra view bietet eine erhöhte Perspektive mit Blick auf den geschäftigen Industriehafen von Da Nang und die umliegende Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        108.251772,
+                        16.109214
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Diese Kunstgalerie im Hafenviertel von Da Nang präsentiert zeitgenössische vietnamesische Gemälde und Skulpturen in einem modernen Ausstellungsraum.",
+                  "category": "museum",
+                  "coords": [
+                        108.219428,
+                        16.08572
+                  ]
+            },
+            {
+                  "name": "Cầu Thuận Phước",
+                  "text": "Die Thuan Phuoc Brücke ist eine große Hängebrücke über die Mündung des Han-Flusses, die den Verkehrsfluss zum Hafen von Da Nang erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220013,
+                        16.094808
+                  ]
+            },
+            {
+                  "name": "7 wonders",
+                  "text": "Der 7 Wonders Park in Da Nang zeigt detailgetreue Miniaturnachbildungen berühmter globaler Wahrzeichen, die entlang der Uferpromenade angeordnet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224414,
+                        16.09881
+                  ]
+            },
+            {
+                  "name": "Art in Paradise Da Nang 3D Museum",
+                  "text": "Art in Paradise Da Nang ist ein interaktives 3D-Museum voller Gemälde mit optischen Täuschungen, die Besucher dazu einladen, Teil der Kunst zu werden.",
+                  "category": "museum",
+                  "coords": [
+                        108.243077,
+                        16.095381
+                  ]
+            },
+            {
+                  "name": "Làng nước mắm Nam Ô",
+                  "text": "Làng nước mắm Nam Ô ist ein traditionelles Küstendorf in der Nähe von Da Nang, das für die Herstellung von intensiver, handwerklich hergestellter Fischsoße bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.13009,
+                        16.112832
+                  ]
+            },
+            {
+                  "name": "Vịnh Đà Nẵng",
+                  "text": "Die Bucht von Da Nang ist ein weitläufiger natürlicher Hafen, der die wichtigsten Hafenanlagen der Stadt schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.181189,
+                        16.134717
+                  ]
+            },
+            {
+                  "name": "Hải đăng Quản Tượng",
+                  "text": "Dieser Küstenleuchtturm dient als wichtige Navigationshilfe für den Schiffsverkehr auf dem Weg nach Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.21388,
+                        16.122213
+                  ]
+            },
+            {
+                  "name": "Bãi biển Tiên Sa",
+                  "text": "Dieser ruhige Strand auf der Halbinsel Son Tra bietet ruhiges Wasser in der Nähe des Tiefseehafens der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        108.220416,
+                        16.124061
+                  ]
+            },
+            {
+                  "name": "Cat Vang Beach",
+                  "text": "Der Küstenabschnitt macht seinem Namen alle Ehre und bietet einen malerischen, goldenen Sandstrand entlang der Küste von Da Nang.",
+                  "category": "recreational",
+                  "coords": [
+                        108.231766,
+                        16.142547
+                  ]
+            },
+            {
+                  "name": "Tượng Bồ Câu",
+                  "text": "Diese markante Taubenstatue dient als Friedensdenkmal innerhalb des städtischen Küstenbildes.",
+                  "category": "historical",
+                  "coords": [
+                        108.223194,
+                        16.082333
+                  ]
+            },
+            {
+                  "name": "Bãi Xoan",
+                  "text": "Bãi Xoan ist eine abgelegene Küstenbucht, die einen ruhigen Sandstrand abseits der Haupttouristenzonen der Stadt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        108.150835,
+                        16.166668
+                  ]
+            },
+            {
+                  "name": "GIÁO XÚ NHƯỢNG NGHĨA",
+                  "text": "Diese lokale katholische Kirchengemeinde bietet einen spirituellen Versammlungsort für die christliche Gemeinschaft von Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229308,
+                        16.085268
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Sơn Trà",
+                  "text": "Diese lokale katholische Kirchengemeinde im Bezirk Son Tra zeichnet sich durch eine markante Fassade mit einem Kreuz aus.",
+                  "category": "landmark",
+                  "coords": [
+                        108.24856,
+                        16.101008
+                  ]
+            },
+            {
+                  "name": "Chợ Đống Đa",
+                  "text": "Dieser traditionelle Markt ist voller Stände, an denen frische lokale Produkte, Meeresfrüchte und Dinge des täglichen Bedarfs verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        108.21736,
+                        16.081615
+                  ]
+            },
+            {
+                  "name": "Chợ Nại Hiên Đông",
+                  "text": "Dieser überdachte Marktplatz im Viertel Nai Hien Dong ist ein lebendiges Zentrum für den Handel in der Nachbarschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        108.234043,
+                        16.090023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Son Tra view",
+                  "text": "A Son Tra view magaslati perspektívát kínál, kilátással Da Nang nyüzsgő ipari kikötőjére és a környező öböl területére.",
+                  "category": "natural",
+                  "coords": [
+                        108.251772,
+                        16.109214
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Ez a művészeti galéria a Da Nang-i kikötőnegyedben kortárs vietnámi festményeket és szobrokat mutat be egy modern kiállítótérben.",
+                  "category": "museum",
+                  "coords": [
+                        108.219428,
+                        16.08572
+                  ]
+            },
+            {
+                  "name": "Cầu Thuận Phước",
+                  "text": "A Thuan Phuoc híd egy hatalmas függőhíd a Han-folyó torkolata felett, amely megkönnyíti a forgalmat a Da Nang-i kikötő felé.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220013,
+                        16.094808
+                  ]
+            },
+            {
+                  "name": "7 wonders",
+                  "text": "A Da Nang-i 7 Wonders park a híres globális nevezetességek részletes miniatűr másolatait mutatja be a folyópart mentén elrendezve.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224414,
+                        16.09881
+                  ]
+            },
+            {
+                  "name": "Art in Paradise Da Nang 3D Museum",
+                  "text": "Az Art in Paradise Da Nang egy interaktív 3D múzeum, tele optikai csalódást keltő festményekkel, amelyek meghívják a látogatókat, hogy részévé váljanak a művészetnek.",
+                  "category": "museum",
+                  "coords": [
+                        108.243077,
+                        16.095381
+                  ]
+            },
+            {
+                  "name": "Làng nước mắm Nam Ô",
+                  "text": "A Làng nước mắm Nam Ô egy hagyományos tengerparti falu Da Nang közelében, amely az erős illatú, kézműves halszószáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        108.13009,
+                        16.112832
+                  ]
+            },
+            {
+                  "name": "Vịnh Đà Nẵng",
+                  "text": "A Da Nang-öböl egy kiterjedt természetes kikötő, amely a város fő kikötői létesítményeit védi.",
+                  "category": "landmark",
+                  "coords": [
+                        108.181189,
+                        16.134717
+                  ]
+            },
+            {
+                  "name": "Hải đăng Quản Tượng",
+                  "text": "Ez a parti világítótorony döntő jelentőségű navigációs segítségként szolgál a Da Nang felé közeledő tengeri forgalom számára.",
+                  "category": "landmark",
+                  "coords": [
+                        108.21388,
+                        16.122213
+                  ]
+            },
+            {
+                  "name": "Bãi biển Tiên Sa",
+                  "text": "A Son Tra-félszigeten található csendes strand nyugodt vizet kínál a város mélyvízi kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        108.220416,
+                        16.124061
+                  ]
+            },
+            {
+                  "name": "Cat Vang Beach",
+                  "text": "A nevéhez hűen az Aranyhomok strand festői homokos partvonallal rendelkezik Da Nang partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        108.231766,
+                        16.142547
+                  ]
+            },
+            {
+                  "name": "Tượng Bồ Câu",
+                  "text": "Ez a kiemelkedő galambszobor a béke emlékműveként szolgál a part menti városképben.",
+                  "category": "historical",
+                  "coords": [
+                        108.223194,
+                        16.082333
+                  ]
+            },
+            {
+                  "name": "Bãi Xoan",
+                  "text": "A Bãi Xoan egy eldugott tengerparti öböl, amely csendes homokos menedéket kínál távol a város fő turisztikai zónáitól.",
+                  "category": "recreational",
+                  "coords": [
+                        108.150835,
+                        16.166668
+                  ]
+            },
+            {
+                  "name": "GIÁO XÚ NHƯỢNG NGHĨA",
+                  "text": "Ez a helyi katolikus plébánia spirituális gyülekezési helyet biztosít Da Nang keresztény közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229308,
+                        16.085268
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Sơn Trà",
+                  "text": "A Son Tra kerületben található helyi katolikus plébánia jellegzetes, kereszttel díszített homlokzattal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        108.24856,
+                        16.101008
+                  ]
+            },
+            {
+                  "name": "Chợ Đống Đa",
+                  "text": "Ez a nyüzsgő hagyományos piac tele van friss helyi termékeket, tenger gyümölcseit és napi szükségleteket árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        108.21736,
+                        16.081615
+                  ]
+            },
+            {
+                  "name": "Chợ Nại Hiên Đông",
+                  "text": "A Nai Hien Dong negyedben található fedett piac a környék kereskedelmének nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        108.234043,
+                        16.090023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Son Tra view",
+                  "text": "Son Tra view oferă o perspectivă elevată cu vedere la portul industrial plin de viață din Da Nang și zona golfului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        108.251772,
+                        16.109214
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Această galerie de artă din districtul portuar Da Nang expune picturi și sculpturi vietnameze contemporane într-un spațiu de expoziție modern.",
+                  "category": "museum",
+                  "coords": [
+                        108.219428,
+                        16.08572
+                  ]
+            },
+            {
+                  "name": "Cầu Thuận Phước",
+                  "text": "Podul Thuan Phuoc este un pod suspendat major care traversează estuarul râului Han, facilitând fluxul de trafic către portul Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220013,
+                        16.094808
+                  ]
+            },
+            {
+                  "name": "7 wonders",
+                  "text": "Parcul 7 Wonders din Da Nang prezintă replici în miniatură detaliate ale unor repere globale faimoase, amenajate de-a lungul malului râului.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224414,
+                        16.09881
+                  ]
+            },
+            {
+                  "name": "Art in Paradise Da Nang 3D Museum",
+                  "text": "Art in Paradise Da Nang este un muzeu 3D interactiv plin de picturi cu iluzii optice care invită vizitatorii să devină parte a artei.",
+                  "category": "museum",
+                  "coords": [
+                        108.243077,
+                        16.095381
+                  ]
+            },
+            {
+                  "name": "Làng nước mắm Nam Ô",
+                  "text": "Làng nước mắm Nam Ô este un sat tradițional de coastă din apropiere de Da Nang, celebrat pentru producerea unui sos de pește artizanal puternic mirositor.",
+                  "category": "landmark",
+                  "coords": [
+                        108.13009,
+                        16.112832
+                  ]
+            },
+            {
+                  "name": "Vịnh Đà Nẵng",
+                  "text": "Golful Da Nang este un port natural vast care adăpostește principalele instalații portuare ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        108.181189,
+                        16.134717
+                  ]
+            },
+            {
+                  "name": "Hải đăng Quản Tượng",
+                  "text": "Acest far de coastă servește ca un ajutor de navigație crucial pentru traficul maritim care se apropie de Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.21388,
+                        16.122213
+                  ]
+            },
+            {
+                  "name": "Bãi biển Tiên Sa",
+                  "text": "Situată pe peninsula Son Tra, această plajă liniștită oferă ape calme în apropierea portului de apă adâncă al orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        108.220416,
+                        16.124061
+                  ]
+            },
+            {
+                  "name": "Cat Vang Beach",
+                  "text": "Fidelă numelui său, plaja de nisip auriu prezintă un țărm pitoresc de-a lungul coastei Da Nang.",
+                  "category": "recreational",
+                  "coords": [
+                        108.231766,
+                        16.142547
+                  ]
+            },
+            {
+                  "name": "Tượng Bồ Câu",
+                  "text": "Această statuie proeminentă a unui porumbel servește drept monument al păcii în peisajul urban de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        108.223194,
+                        16.082333
+                  ]
+            },
+            {
+                  "name": "Bãi Xoan",
+                  "text": "Bãi Xoan este un golf de coastă retras, oferind un refugiu liniștit pe nisip, departe de zonele turistice principale ale orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        108.150835,
+                        16.166668
+                  ]
+            },
+            {
+                  "name": "GIÁO XÚ NHƯỢNG NGHĨA",
+                  "text": "Această parohie catolică locală oferă un loc de adunare spirituală pentru comunitatea creștină din Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229308,
+                        16.085268
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Sơn Trà",
+                  "text": "Situată în districtul Son Tra, această parohie catolică locală prezintă o fațadă distinctivă încununată de o cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        108.24856,
+                        16.101008
+                  ]
+            },
+            {
+                  "name": "Chợ Đống Đa",
+                  "text": "Această piață tradițională plină de viață este plină de tarabe care vând produse locale proaspete, fructe de mare și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        108.21736,
+                        16.081615
+                  ]
+            },
+            {
+                  "name": "Chợ Nại Hiên Đông",
+                  "text": "Situată în cartierul Nai Hien Dong, această piață acoperită este un centru vibrant pentru comerțul din cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        108.234043,
+                        16.090023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Son Tra view",
+                  "text": "Son Tra view offers an elevated perspective overlooking the bustling industrial port of Da Nang and the surrounding bay area.",
+                  "category": "natural",
+                  "coords": [
+                        108.251772,
+                        16.109214
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "This art gallery in the Da Nang port district showcases contemporary Vietnamese paintings and sculptures in a modern exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        108.219428,
+                        16.08572
+                  ]
+            },
+            {
+                  "name": "Thuan Phuoc Bridge",
+                  "text": "Thuan Phuoc Bridge is a major suspension bridge spanning the Han River estuary, facilitating traffic flow to the Da Nang port.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220013,
+                        16.094808
+                  ]
+            },
+            {
+                  "name": "7 wonders",
+                  "text": "The 7 Wonders park in Da Nang features detailed miniature replicas of famous global landmarks arranged along the riverfront.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224414,
+                        16.09881
+                  ]
+            },
+            {
+                  "name": "Art in Paradise Da Nang 3D Museum",
+                  "text": "Art in Paradise Da Nang is an interactive 3D museum filled with optical illusion paintings that invite visitors to become part of the art.",
+                  "category": "museum",
+                  "coords": [
+                        108.243077,
+                        16.095381
+                  ]
+            },
+            {
+                  "name": "Làng nước mắm Nam Ô",
+                  "text": "Làng nước mắm Nam Ô is a traditional coastal village near Da Nang celebrated for producing pungent, artisanal fish sauce.",
+                  "category": "landmark",
+                  "coords": [
+                        108.13009,
+                        16.112832
+                  ]
+            },
+            {
+                  "name": "Da Nang Bay",
+                  "text": "Da Nang Bay is a sweeping natural harbor that shelters the city's main port facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        108.181189,
+                        16.134717
+                  ]
+            },
+            {
+                  "name": "Hải đăng Quản Tượng",
+                  "text": "This coastal lighthouse serves as a crucial navigational aid for maritime traffic approaching Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.21388,
+                        16.122213
+                  ]
+            },
+            {
+                  "name": "Tien Sa Beach",
+                  "text": "Situated on the Son Tra Peninsula, this tranquil beach offers calm waters near the city's deep-water port.",
+                  "category": "recreational",
+                  "coords": [
+                        108.220416,
+                        16.124061
+                  ]
+            },
+            {
+                  "name": "Cat Vang Beach",
+                  "text": "True to its name, Golden Sand Beach features a picturesque sandy shoreline along the Da Nang coast.",
+                  "category": "recreational",
+                  "coords": [
+                        108.231766,
+                        16.142547
+                  ]
+            },
+            {
+                  "name": "Tượng Bồ Câu",
+                  "text": "This prominent dove statue serves as a monument to peace within the coastal cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        108.223194,
+                        16.082333
+                  ]
+            },
+            {
+                  "name": "Bãi Xoan",
+                  "text": "Bãi Xoan is a secluded coastal inlet offering a quiet sandy retreat away from the city's main tourist zones.",
+                  "category": "recreational",
+                  "coords": [
+                        108.150835,
+                        16.166668
+                  ]
+            },
+            {
+                  "name": "GIÁO XÚ NHƯỢNG NGHĨA",
+                  "text": "This local Catholic parish provides a spiritual gathering place for the Christian community of Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229308,
+                        16.085268
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Sơn Trà",
+                  "text": "Situated in the Son Tra district, this local Catholic parish features a distinctive cross-topped facade.",
+                  "category": "landmark",
+                  "coords": [
+                        108.24856,
+                        16.101008
+                  ]
+            },
+            {
+                  "name": "Chợ Đống Đa",
+                  "text": "This bustling traditional market is filled with stalls selling fresh local produce, seafood, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        108.21736,
+                        16.081615
+                  ]
+            },
+            {
+                  "name": "Chợ Nại Hiên Đông",
+                  "text": "Located in the Nai Hien Dong ward, this covered marketplace is a vibrant center for neighborhood commerce.",
+                  "category": "cultural",
+                  "coords": [
+                        108.234043,
+                        16.090023
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VN-DN",
     coords: [108.222, 16.111],
@@ -196,7 +4696,88 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "dung-quat-refinery-economic-v2",
+    id: "dung-quat-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vịnh Dung Quất",
+                  "text": "Diese weitläufige Küstenbucht ist für ihr tiefes Wasser bekannt und beherbergt die große Dung-Quat-Ölraffinerie sowie einen Seehafenkomplex.",
+                  "category": "landmark",
+                  "coords": [
+                        108.769336,
+                        15.406609
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vạn Ca",
+                  "text": "Dieser Leuchtturm überblickt die strategisch wichtigen Gewässer nahe der Industriezone und gewährleistet die sichere Durchfahrt von Handelsschiffen an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        108.798628,
+                        15.423933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vịnh Dung Quất",
+                  "text": "Ez a kiterjedt part menti öböl mély vizéről ismert, amely a jelentős Dung Quat olajfinomítónak és tengeri kikötőkomplexumnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        108.769336,
+                        15.406609
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vạn Ca",
+                  "text": "Az ipari övezet melletti stratégiai fontosságú vizekre néző világítótorony biztosítja a part menti megközelítésen navigáló kereskedelmi hajók biztonságos áthaladását.",
+                  "category": "landmark",
+                  "coords": [
+                        108.798628,
+                        15.423933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vịnh Dung Quất",
+                  "text": "Acest golf de coastă expansiv este cunoscut pentru apele sale adânci, adăpostind rafinăria majoră de petrol Dung Quat și un complex portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        108.769336,
+                        15.406609
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vạn Ca",
+                  "text": "Având vedere la apele strategice din apropierea zonei industriale, acest far asigură trecerea în siguranță a navelor comerciale care navighează în apropierea coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        108.798628,
+                        15.423933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vịnh Dung Quất",
+                  "text": "This expansive coastal bay is known for its deep waters, sheltering the major Dung Quat oil refinery and seaport complex.",
+                  "category": "landmark",
+                  "coords": [
+                        108.769336,
+                        15.406609
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vạn Ca",
+                  "text": "Overlooking the strategic waters near the industrial zone, this lighthouse ensures the safe passage of commercial vessels navigating the coastal approach.",
+                  "category": "landmark",
+                  "coords": [
+                        108.798628,
+                        15.423933
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VN-QN",
     coords: [108.790, 15.421],
@@ -244,7 +4825,304 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "thai-nguyen-steel-complex-economic-v2",
+    id: "thai-nguyen-steel-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Home",
+                  "text": "Ein markantes Herrenhaus im Industrieviertel des Stahlkomplexes von Thai Nguyen.",
+                  "category": "castle",
+                  "coords": [
+                        105.802882,
+                        21.611779
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm huyện Đồng Hỷ",
+                  "text": "Ein Denkmal im Bezirk Dong Hy, das an die Geschichte der lokalen Arbeiterbewegung erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        105.843782,
+                        21.625203
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Ấp Thái",
+                  "text": "Eine katholische Pfarrkirche, die die christliche Gemeinde im Stahlwerksviertel bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.850077,
+                        21.628316
+                  ]
+            },
+            {
+                  "name": "Chính điện Tam Bảo",
+                  "text": "Eine große rituelle Halle mit einer imposanten Buddha-Statue im Zentrum des Tempelkomplexes.",
+                  "category": "religious",
+                  "coords": [
+                        105.841763,
+                        21.623525
+                  ]
+            },
+            {
+                  "name": "Chợ Chùa Hang",
+                  "text": "Ein lokaler Marktplatz in der Nähe der Höhlenpagode, bekannt für frisches Gemüse und regionale Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        105.845262,
+                        21.625266
+                  ]
+            },
+            {
+                  "name": "Chợ Trại Cài",
+                  "text": "Ein geschäftiger Handelsplatz in der Teeregion, der auf den Verkauf von hochwertigem Grüntee spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        105.807869,
+                        21.700407
+                  ]
+            },
+            {
+                  "name": "Chợ Núi Voi",
+                  "text": "Ein lebhafter Markt in der Nähe des Elephant Mountain, auf dem lokale Spezialitäten angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.833392,
+                        21.632078
+                  ]
+            },
+            {
+                  "name": "Chợ Sông Cầu",
+                  "text": "Ein kleiner Ufermarkt am Fluss Cau, auf dem täglich frischer Fisch und lokale Waren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.855719,
+                        21.677381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Home",
+                  "text": "Jellegzetes kúria Thai Nguyen acélművének ipari negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        105.802882,
+                        21.611779
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm huyện Đồng Hỷ",
+                  "text": "Dong Hy járási emlékmű, amely a helyi munkásmozgalom történetének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        105.843782,
+                        21.625203
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Ấp Thái",
+                  "text": "Katolikus plébániatemplom, amely az acélmű negyed keresztény közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        105.850077,
+                        21.628316
+                  ]
+            },
+            {
+                  "name": "Chính điện Tam Bảo",
+                  "text": "Hatalmas rituális csarnok impozáns Buddha-szoborral a templomkomplexum központjában.",
+                  "category": "religious",
+                  "coords": [
+                        105.841763,
+                        21.623525
+                  ]
+            },
+            {
+                  "name": "Chợ Chùa Hang",
+                  "text": "Helyi piactér a barlangtemplom közelében, amely friss zöldségeiről és helyi áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        105.845262,
+                        21.625266
+                  ]
+            },
+            {
+                  "name": "Chợ Trại Cài",
+                  "text": "Forgalmas kereskedelmi hely a teavidéken, amely kiváló minőségű zöld tea árusítására szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        105.807869,
+                        21.700407
+                  ]
+            },
+            {
+                  "name": "Chợ Núi Voi",
+                  "text": "Élénk piac az Elefánt-hegy közelében, ahol helyi specialitásokat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.833392,
+                        21.632078
+                  ]
+            },
+            {
+                  "name": "Chợ Sông Cầu",
+                  "text": "Kisméretű vízparti piac a Cau-folyó mentén, ahol naponta friss halat és helyi árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.855719,
+                        21.677381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Home",
+                  "text": "O conac distinctiv situat în districtul industrial al complexului siderurgic Thai Nguyen.",
+                  "category": "castle",
+                  "coords": [
+                        105.802882,
+                        21.611779
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm huyện Đồng Hỷ",
+                  "text": "Un monument în districtul Dong Hy, care comemorează istoria mișcării muncitorești locale.",
+                  "category": "historical",
+                  "coords": [
+                        105.843782,
+                        21.625203
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Ấp Thái",
+                  "text": "O biserică parohială catolică ce deservește comunitatea creștină din zona combinatului siderurgic.",
+                  "category": "landmark",
+                  "coords": [
+                        105.850077,
+                        21.628316
+                  ]
+            },
+            {
+                  "name": "Chính điện Tam Bảo",
+                  "text": "O mare sală rituală cu o statuie impunătoare a lui Buddha în centrul complexului de temple.",
+                  "category": "religious",
+                  "coords": [
+                        105.841763,
+                        21.623525
+                  ]
+            },
+            {
+                  "name": "Chợ Chùa Hang",
+                  "text": "O piață locală lângă pagoda din peșteră, cunoscută pentru legume proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.845262,
+                        21.625266
+                  ]
+            },
+            {
+                  "name": "Chợ Trại Cài",
+                  "text": "Un centru comercial plin de viață în regiunea ceaiului, specializat în vânzarea de ceai verde de calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        105.807869,
+                        21.700407
+                  ]
+            },
+            {
+                  "name": "Chợ Núi Voi",
+                  "text": "O piață animată lângă Muntele Elefantului, oferind specialități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.833392,
+                        21.632078
+                  ]
+            },
+            {
+                  "name": "Chợ Sông Cầu",
+                  "text": "O mică piață pe malul râului Cau, unde se vând zilnic pește proaspăt și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.855719,
+                        21.677381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Home",
+                  "text": "A distinctive manor-style building within the industrial district of the Thai Nguyen steel complex.",
+                  "category": "castle",
+                  "coords": [
+                        105.802882,
+                        21.611779
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm huyện Đồng Hỷ",
+                  "text": "A monument in Dong Hy district commemorating the history of the local labor movement.",
+                  "category": "historical",
+                  "coords": [
+                        105.843782,
+                        21.625203
+                  ]
+            },
+            {
+                  "name": "Ap Thai Catholic Church",
+                  "text": "A Catholic parish church serving the Christian community in the steelworks neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        105.850077,
+                        21.628316
+                  ]
+            },
+            {
+                  "name": "Great Buddha Hall",
+                  "text": "A large ritual hall featuring an imposing Buddha statue at the center of the temple complex.",
+                  "category": "religious",
+                  "coords": [
+                        105.841763,
+                        21.623525
+                  ]
+            },
+            {
+                  "name": "Chợ Chùa Hang",
+                  "text": "A local marketplace near the cave pagoda, known for fresh vegetables and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.845262,
+                        21.625266
+                  ]
+            },
+            {
+                  "name": "Trại Cài Market",
+                  "text": "A bustling trading spot in the tea region specializing in the sale of high-quality green tea.",
+                  "category": "cultural",
+                  "coords": [
+                        105.807869,
+                        21.700407
+                  ]
+            },
+            {
+                  "name": "Nui Voi Market",
+                  "text": "A lively market near Elephant Mountain offering local specialties and farm produce.",
+                  "category": "cultural",
+                  "coords": [
+                        105.833392,
+                        21.632078
+                  ]
+            },
+            {
+                  "name": "Chợ Sông Cầu",
+                  "text": "A small riverside market along the Cau River trading daily fresh fish and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.855719,
+                        21.677381
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VN-TN",
     coords: [105.811, 21.637],
@@ -388,7 +5266,304 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "hoa-binh-dam-economic-v2",
+    id: "hoa-binh-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng di sản văn hóa Mường",
+                  "text": "Dieses Museum bewahrt die traditionellen Holzhäuser und kulturellen Artefakte des Volkes der Muong.",
+                  "category": "museum",
+                  "coords": [
+                        105.340156,
+                        20.792848
+                  ]
+            },
+            {
+                  "name": "Hmong-Museum",
+                  "text": "Ein Ort, der die kulturelle Vielfalt und die traditionellen Trachten der lokalen Hmong-Gemeinschaft präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        105.309425,
+                        20.779835
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Thủy điện Hòa Bình",
+                  "text": "Denkmal zu Ehren der Arbeiter, die das größte Wasserkraftwerk Südostasiens in Hoa Binh errichteten.",
+                  "category": "historical",
+                  "coords": [
+                        105.329032,
+                        20.817978
+                  ]
+            },
+            {
+                  "name": "Nhà Truyền Thống Thuỷ Điện Hoà Bình",
+                  "text": "Ein Museum, das die technische Geschichte und den Bau des imposanten Hoa-Binh-Staudamms dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        105.325224,
+                        20.815242
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "Ein am Flussufer gelegener Tempel, der der Muttergöttin gewidmet ist und ein wichtiger lokaler Wallfahrtsort ist.",
+                  "category": "religious",
+                  "coords": [
+                        105.332987,
+                        20.822326
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Quang",
+                  "text": "Ein friedlicher buddhistischer Tempelkomplex mit traditioneller vietnamesischer Pagodenarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        105.331669,
+                        20.82127
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Hòa Bình",
+                  "text": "Die katholische Kirche von Hoa Binh dient der lokalen Gemeinde im Herzen der Provinzhauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        105.358659,
+                        20.828274
+                  ]
+            },
+            {
+                  "name": "Chợ Phương Lâm",
+                  "text": "Ein lebhafter lokaler Markt, bekannt für frische Erzeugnisse aus der Region und traditionelles Handwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        105.340332,
+                        20.820362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng di sản văn hóa Mường",
+                  "text": "Ez a múzeum a muong nép hagyományos faházait és kulturális tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        105.340156,
+                        20.792848
+                  ]
+            },
+            {
+                  "name": "Hmong-Museum",
+                  "text": "A helyi hmong közösség kulturális sokszínűségét és hagyományos viseleteit bemutató helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        105.309425,
+                        20.779835
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Thủy điện Hòa Bình",
+                  "text": "Emlékmű a munkások tiszteletére, akik felépítették Délkelet-Ázsia legnagyobb vízerőművét Hoa Binhben.",
+                  "category": "historical",
+                  "coords": [
+                        105.329032,
+                        20.817978
+                  ]
+            },
+            {
+                  "name": "Nhà Truyền Thống Thuỷ Điện Hoà Bình",
+                  "text": "Múzeum, amely a monumentális Hoa Binh-gát műszaki történetét és építését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        105.325224,
+                        20.815242
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "A folyóparton fekvő, az Anyaistennőnek szentelt templom, amely fontos helyi zarándokhely.",
+                  "category": "religious",
+                  "coords": [
+                        105.332987,
+                        20.822326
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Quang",
+                  "text": "Békés buddhista templomkomplexum hagyományos vietnámi pagoda-építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        105.331669,
+                        20.82127
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Hòa Bình",
+                  "text": "Hoa Binh katolikus temploma a helyi közösséget szolgálja a tartományi székhely szívében.",
+                  "category": "religious",
+                  "coords": [
+                        105.358659,
+                        20.828274
+                  ]
+            },
+            {
+                  "name": "Chợ Phương Lâm",
+                  "text": "Nyüzsgő helyi piac, amely a régió friss termékeiről és hagyományos kézműves termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        105.340332,
+                        20.820362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng di sản văn hóa Mường",
+                  "text": "Acest muzeu păstrează casele tradiționale din lemn și artefactele culturale ale poporului Muong.",
+                  "category": "museum",
+                  "coords": [
+                        105.340156,
+                        20.792848
+                  ]
+            },
+            {
+                  "name": "Hmong-Museum",
+                  "text": "Un loc care prezintă diversitatea culturală și costumele tradiționale ale comunității locale Hmong.",
+                  "category": "historical",
+                  "coords": [
+                        105.309425,
+                        20.779835
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Thủy điện Hòa Bình",
+                  "text": "Monument în onoarea muncitorilor care au construit cea mai mare hidrocentrală din Asia de Sud-Est, la Hoa Binh.",
+                  "category": "historical",
+                  "coords": [
+                        105.329032,
+                        20.817978
+                  ]
+            },
+            {
+                  "name": "Nhà Truyền Thống Thuỷ Điện Hoà Bình",
+                  "text": "Un muzeu care documentează istoria tehnică și construcția impunătorului baraj Hoa Binh.",
+                  "category": "museum",
+                  "coords": [
+                        105.325224,
+                        20.815242
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "Un templu situat pe malul râului, dedicat Zeiței Mamă, fiind un important loc de pelerinaj local.",
+                  "category": "religious",
+                  "coords": [
+                        105.332987,
+                        20.822326
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Quang",
+                  "text": "Un complex de temple budiste liniștit, cu o arhitectură tradițională de pagodă vietnameză.",
+                  "category": "religious",
+                  "coords": [
+                        105.331669,
+                        20.82127
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Hòa Bình",
+                  "text": "Biserica catolică din Hoa Binh deservește comunitatea locală din inima capitalei provinciale.",
+                  "category": "religious",
+                  "coords": [
+                        105.358659,
+                        20.828274
+                  ]
+            },
+            {
+                  "name": "Chợ Phương Lâm",
+                  "text": "O piață locală plină de viață, cunoscută pentru produsele proaspete din regiune și meșteșugurile tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.340332,
+                        20.820362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng di sản văn hóa Mường",
+                  "text": "This museum preserves the traditional wooden houses and cultural artifacts of the Muong people.",
+                  "category": "museum",
+                  "coords": [
+                        105.340156,
+                        20.792848
+                  ]
+            },
+            {
+                  "name": "Hmong-Museum",
+                  "text": "A site showcasing the cultural diversity and traditional costumes of the local Hmong community.",
+                  "category": "historical",
+                  "coords": [
+                        105.309425,
+                        20.779835
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Thủy điện Hòa Bình",
+                  "text": "Monument honoring the workers who built Southeast Asia's largest hydroelectric dam in Hoa Binh.",
+                  "category": "historical",
+                  "coords": [
+                        105.329032,
+                        20.817978
+                  ]
+            },
+            {
+                  "name": "Nhà Truyền Thống Thuỷ Điện Hoà Bình",
+                  "text": "A museum documenting the technical history and construction of the imposing Hoa Binh dam.",
+                  "category": "museum",
+                  "coords": [
+                        105.325224,
+                        20.815242
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "A riverside temple dedicated to the Mother Goddess, serving as an important local pilgrimage site.",
+                  "category": "religious",
+                  "coords": [
+                        105.332987,
+                        20.822326
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Quang",
+                  "text": "A peaceful Buddhist temple complex featuring traditional Vietnamese pagoda architecture.",
+                  "category": "religious",
+                  "coords": [
+                        105.331669,
+                        20.82127
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Hòa Bình",
+                  "text": "The Catholic church of Hoa Binh serves the local community in the heart of the provincial capital.",
+                  "category": "religious",
+                  "coords": [
+                        105.358659,
+                        20.828274
+                  ]
+            },
+            {
+                  "name": "Chợ Phương Lâm",
+                  "text": "A bustling local market known for fresh regional produce and traditional handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        105.340332,
+                        20.820362
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "VN-HO",
     coords: [105.321, 20.812],
@@ -484,7 +5659,1348 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "bac-ninh-industrial-zone-economic-v2",
+    id: "bac-ninh-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cầu Thị Cầu",
+                  "text": "Eine wichtige Brücke über den Cau-Fluss, die Bac Ninh mit der Provinz Bac Giang verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091987,
+                        21.20567
+                  ]
+            },
+            {
+                  "name": "Cầu Như Nguyệt",
+                  "text": "Eine bedeutende Straßenbrücke der Autobahn 1A, die den Nhu-Nguyet-Fluss überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100155,
+                        21.203672
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Bắc Ninh",
+                  "text": "Dieses Museum zeigt das kulturelle Erbe von Bac Ninh und die Geschichte des Quan-ho-Volksgesangs.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm đồng chí Hoàng Quốc Việt",
+                  "text": "Ein Gedenkhaus für Hoang Quoc Viet, einen prominenten vietnamesischen Revolutionsführer.",
+                  "category": "historical",
+                  "coords": [
+                        106.102003,
+                        21.20053
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "Eine Statue zu Ehren von König Ly Thai To, dem Gründer der Ly-Dynastie, der in dieser Region geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "Eine Gedenkstätte für die gefallenen Soldaten und Märtyrer aus dem Gebiet Thi Cau.",
+                  "category": "historical",
+                  "coords": [
+                        106.088212,
+                        21.193648
+                  ]
+            },
+            {
+                  "name": "Nhà hát Dân ca Quan họ Bắc Ninh",
+                  "text": "Ein modernes Theater, das der Aufführung und Bewahrung des UNESCO-Kulturerbes Quan ho gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        106.052049,
+                        21.213653
+                  ]
+            },
+            {
+                  "name": "Đền Can Vang-Thọ Đức",
+                  "text": "Ein lokaler Tempel, der den spirituellen Bedürfnissen der Gemeinden Can Vang und Tho Duc dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.033881,
+                        21.245293
+                  ]
+            },
+            {
+                  "name": "Đền Phấn Động",
+                  "text": "Ein traditioneller vietnamesischer Tempel, der im Phan-Dong-Viertel liegt.",
+                  "category": "religious",
+                  "coords": [
+                        106.033745,
+                        21.226181
+                  ]
+            },
+            {
+                  "name": "Đình làng Đông Phù",
+                  "text": "Das Gemeindehaus des Dorfes Dong Phu, ein Zentrum für lokale Feste und Ahnenverehrung.",
+                  "category": "religious",
+                  "coords": [
+                        105.999752,
+                        21.169884
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Đô Thống Lê Phụng Hiểu",
+                  "text": "Ein Schrein für den legendären Militärgeneral Le Phung Hieu aus der Ly-Dynastie.",
+                  "category": "religious",
+                  "coords": [
+                        106.047199,
+                        21.170069
+                  ]
+            },
+            {
+                  "name": "Đình Niềm Xá",
+                  "text": "Ein traditionelles Gemeindehaus im Dorf Niem Xa, typisch für den Architekturstil der Kinh-Bac-Region.",
+                  "category": "religious",
+                  "coords": [
+                        106.053503,
+                        21.181285
+                  ]
+            },
+            {
+                  "name": "Đền Trình Bà Chúa Kho",
+                  "text": "Ein kleinerer Tempel, in dem sich Pilger anmelden, bevor sie den Haupttempel Ba Chua Kho besuchen.",
+                  "category": "religious",
+                  "coords": [
+                        106.076559,
+                        21.190883
+                  ]
+            },
+            {
+                  "name": "Đền Bà Chúa kho",
+                  "text": "Ein berühmter Wallfahrtsort, an dem Menschen rituell Geld von der Göttin des Speichers „leihen“.",
+                  "category": "religious",
+                  "coords": [
+                        106.084738,
+                        21.205559
+                  ]
+            },
+            {
+                  "name": "Miếu Ông Thiêng",
+                  "text": "Ein kleiner lokaler Schrein, der einem heiligen Geist oder einer Gottheit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.093084,
+                        21.200333
+                  ]
+            },
+            {
+                  "name": "Đền Hội Đồng",
+                  "text": "Ein Tempel, der dem „Rat“ der Gottheiten im vietnamesischen Volksglauben gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.096537,
+                        21.202346
+                  ]
+            },
+            {
+                  "name": "Nhà thờ họ Vũ Đình",
+                  "text": "Ein Ahnenhaus der Familie Vu Dinh, das der Verehrung der Vorfahren des Clans dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.094385,
+                        21.200601
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thị Đáp Cầu",
+                  "text": "Eine katholische Kirche in Bac Ninh mit traditionellem Kirchturm und markanter Ziegelarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        106.093323,
+                        21.196017
+                  ]
+            },
+            {
+                  "name": "Đình làng thôn Nội Viên",
+                  "text": "Traditionelles Gemeindehaus mit einem geschwungenen Ziegeldach, typisch für die nordvietnamesische Dorfarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        106.061367,
+                        21.117087
+                  ]
+            },
+            {
+                  "name": "Đình làng Diềm",
+                  "text": "Historisches Gemeindehaus im Dorf Diem, der Wiege des Quan-Ho-Gesangs, mit kunstvollen Holzschnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        106.050107,
+                        21.214999
+                  ]
+            },
+            {
+                  "name": "Đình làng Đại Phúc",
+                  "text": "Lokales Gemeindehaus in Dai Phuc, das für traditionelle Feste zu Ehren der Schutzgottheiten genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        106.082411,
+                        21.170747
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trại Phán",
+                  "text": "Große katholische Kirche im Industriegebiet, bekannt für ihre imposante, gotisch inspirierte Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        106.149742,
+                        21.170272
+                  ]
+            },
+            {
+                  "name": "Đình Đẩu Hàn",
+                  "text": "Traditionelle Kultstätte mit rotem Ziegeldach, die als spirituelles Zentrum für die Gemeinschaft von Dau Han dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.080294,
+                        21.217289
+                  ]
+            },
+            {
+                  "name": "Đình Bồ Sơn",
+                  "text": "Gemeindehaus im Bezirk Bo Son, das sich durch seine traditionellen Holzpfeiler und das Ziegeldach auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        106.059509,
+                        21.168365
+                  ]
+            },
+            {
+                  "name": "Đình Khả Lễ",
+                  "text": "Lokaler Schrein und Gemeindehaus in Kha Le, das die traditionellen Dorfbräuche von Bac Ninh bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        106.049828,
+                        21.162806
+                  ]
+            },
+            {
+                  "name": "Nhà thở ông Đỗ Văn Xưởng - Bí danh Nguyễn Hồng",
+                  "text": "Ein Familienheiligtum zu Ehren von Do Van Xuong, einer lokalen Persönlichkeit mit revolutionärem Decknamen.",
+                  "category": "religious",
+                  "coords": [
+                        106.045923,
+                        21.164276
+                  ]
+            },
+            {
+                  "name": "Di Tích Lịch Sử Văn Hóa Đình Thị Chung",
+                  "text": "Historisches Kulturdenkmal und Gemeindehaus mit einer traditionellen nordvietnamesischen Holzstruktur.",
+                  "category": "religious",
+                  "coords": [
+                        106.063249,
+                        21.187294
+                  ]
+            },
+            {
+                  "name": "Đền Thanh Sơn (Đền Quan Tam Phủ)",
+                  "text": "Tempel, der dem Dritten Prinzen der Drei Paläste in der vietnamesischen Muttergöttin-Religion gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.083716,
+                        21.187417
+                  ]
+            },
+            {
+                  "name": "Đình làng Kim Đôi",
+                  "text": "Gemeindehaus in einem Dorf, das historisch für seine vielen erfolgreichen Gelehrten der kaiserlichen Prüfungen berühmt ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.112424,
+                        21.198924
+                  ]
+            },
+            {
+                  "name": "Đình Ngang",
+                  "text": "Einfaches traditionelles Gemeindehaus, das für lokale Rituale und Versammlungen im Dorf Ngang genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        106.079978,
+                        21.17021
+                  ]
+            },
+            {
+                  "name": "Trung tâm thương mại quốc tế điện tử Việt Trung",
+                  "text": "Ein großer Handelsknotenpunkt, spezialisiert auf Elektronikprodukte und den grenzüberschreitenden Handel mit China.",
+                  "category": "cultural",
+                  "coords": [
+                        106.069363,
+                        21.181322
+                  ]
+            },
+            {
+                  "name": "4T Mart",
+                  "text": "Lokaler Supermarkt und Marktplatz, der die Arbeiter der Industriezone mit Waren des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.061933,
+                        21.178124
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Mẫu",
+                  "text": "Traditioneller dörflicher Markt, auf dem Einheimische frische Lebensmittel und regionale Erzeugnisse handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        106.098287,
+                        21.166287
+                  ]
+            },
+            {
+                  "name": "Chợ Nam Sơn",
+                  "text": "Belebter Nachbarschaftsmarkt, der die Wohngebiete in der Nähe der Industriezonen von Bac Ninh bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        106.113264,
+                        21.148796
+                  ]
+            },
+            {
+                  "name": "Chợ Phủ",
+                  "text": "Traditioneller Markt im Phủ-Stil, der eine Vielzahl an lokalen Lebensmitteln und Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.161961,
+                        21.150921
+                  ]
+            },
+            {
+                  "name": "Chợ Hà Liễu",
+                  "text": "Dorfmarkt in Ha Lieu, bekannt für frische landwirtschaftliche Produkte aus der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        106.138161,
+                        21.166521
+                  ]
+            },
+            {
+                  "name": "Chợ trung tâm phường Phố Mới",
+                  "text": "Zentraler Marktplatz im Bezirk Pho Moi, ein wichtiger Knotenpunkt für den täglichen lokalen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        106.150102,
+                        21.152174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cầu Thị Cầu",
+                  "text": "Fontos híd a Cau-folyó felett, amely Bac Ninh-t köti össze Bac Giang tartománnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091987,
+                        21.20567
+                  ]
+            },
+            {
+                  "name": "Cầu Như Nguyệt",
+                  "text": "Jelentős közúti híd az 1A főúton, amely a Nhu Nguyet-folyó felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100155,
+                        21.203672
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Bắc Ninh",
+                  "text": "A múzeum Bac Ninh kulturális örökségét és a Quan ho népi éneklés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm đồng chí Hoàng Quốc Việt",
+                  "text": "Hoang Quoc Viet, egy kiemelkedő vietnámi forradalmi vezető emlékére emelt ház.",
+                  "category": "historical",
+                  "coords": [
+                        106.102003,
+                        21.20053
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "Szobor Ly Thai To király, a Ly-dinasztia alapítójának tiszteletére, aki ebben a régióban született.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "Emlékhely a Thi Cau környéki elesett katonák és mártírok tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        106.088212,
+                        21.193648
+                  ]
+            },
+            {
+                  "name": "Nhà hát Dân ca Quan họ Bắc Ninh",
+                  "text": "Modern színház, amelyet az UNESCO világörökség részét képező Quan ho népdalok ápolására szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        106.052049,
+                        21.213653
+                  ]
+            },
+            {
+                  "name": "Đền Can Vang-Thọ Đức",
+                  "text": "Helyi templom, amely Can Vang és Tho Duc közösségeinek vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        106.033881,
+                        21.245293
+                  ]
+            },
+            {
+                  "name": "Đền Phấn Động",
+                  "text": "Hagyományos vietnámi templom, amely a Phan Dong területen található.",
+                  "category": "religious",
+                  "coords": [
+                        106.033745,
+                        21.226181
+                  ]
+            },
+            {
+                  "name": "Đình làng Đông Phù",
+                  "text": "Dong Phu falu közösségi háza, a helyi ünnepek és tiszteletadás központja.",
+                  "category": "religious",
+                  "coords": [
+                        105.999752,
+                        21.169884
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Đô Thống Lê Phụng Hiểu",
+                  "text": "Szentély Le Phung Hieu, a Ly-dinasztia legendás hadvezérének tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        106.047199,
+                        21.170069
+                  ]
+            },
+            {
+                  "name": "Đình Niềm Xá",
+                  "text": "Hagyományos közösségi ház Niem Xa faluban, amely a Kinh Bac régió építészeti stílusát tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        106.053503,
+                        21.181285
+                  ]
+            },
+            {
+                  "name": "Đền Trình Bà Chúa Kho",
+                  "text": "„Bemutatkozó” templom, ahol a zarándokok bejelentkeznek a Ba Chua Kho főtemplom felkeresése előtt.",
+                  "category": "religious",
+                  "coords": [
+                        106.076559,
+                        21.190883
+                  ]
+            },
+            {
+                  "name": "Đền Bà Chúa kho",
+                  "text": "Híres zarándokhely, ahol az emberek rituálisan pénzt „kölcsönöznek” a Tárház Istennőjétől a szerencse reményében.",
+                  "category": "religious",
+                  "coords": [
+                        106.084738,
+                        21.205559
+                  ]
+            },
+            {
+                  "name": "Miếu Ông Thiêng",
+                  "text": "Kisméretű helyi szentély, amelyet egy szent szellemnek vagy istenségnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        106.093084,
+                        21.200333
+                  ]
+            },
+            {
+                  "name": "Đền Hội Đồng",
+                  "text": "Templom, amelyet a vietnámi néphit szerinti istenek „tanácsának” szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        106.096537,
+                        21.202346
+                  ]
+            },
+            {
+                  "name": "Nhà thờ họ Vũ Đình",
+                  "text": "A Vu Dinh család ősi háza, amely a klán felmenőinek tiszteletére szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        106.094385,
+                        21.200601
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thị Đáp Cầu",
+                  "text": "Katolikus templom Bac Ninh-ben, hagyományos harangtoronnyal és jellegzetes téglaépítészettel.",
+                  "category": "religious",
+                  "coords": [
+                        106.093323,
+                        21.196017
+                  ]
+            },
+            {
+                  "name": "Đình làng thôn Nội Viên",
+                  "text": "Hagyományos falusi közösségi ház ívelt cseréptetővel, amely az észak-vietnami építészet jellegzetessége.",
+                  "category": "religious",
+                  "coords": [
+                        106.061367,
+                        21.117087
+                  ]
+            },
+            {
+                  "name": "Đình làng Diềm",
+                  "text": "Történelmi közösségi ház Diem faluban, a Quan ho éneklés bölcsőjében, díszes fafaragásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        106.050107,
+                        21.214999
+                  ]
+            },
+            {
+                  "name": "Đình làng Đại Phúc",
+                  "text": "Helyi közösségi ház Dai Phucban, amelyet a védőistenek tiszteletére rendezett hagyományos fesztiválokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        106.082411,
+                        21.170747
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trại Phán",
+                  "text": "Impozáns katolikus templom az ipari övezetben, amely gótikus stílusú építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        106.149742,
+                        21.170272
+                  ]
+            },
+            {
+                  "name": "Đình Đẩu Hàn",
+                  "text": "Hagyományos istentiszteleti hely vörös cseréptetővel, amely a Dau Han közösség spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        106.080294,
+                        21.217289
+                  ]
+            },
+            {
+                  "name": "Đình Bồ Sơn",
+                  "text": "Közösségi ház Bo Son negyedben, hagyományos oszlopokkal és cseréptetővel.",
+                  "category": "religious",
+                  "coords": [
+                        106.059509,
+                        21.168365
+                  ]
+            },
+            {
+                  "name": "Đình Khả Lễ",
+                  "text": "Helyi szentély és közösségi ház Kha Le-ben, amely a hagyományos falusi szokásokat őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        106.049828,
+                        21.162806
+                  ]
+            },
+            {
+                  "name": "Nhà thở ông Đỗ Văn Xưởng - Bí danh Nguyễn Hồng",
+                  "text": "Családi szentély Do Van Xuong tiszteletére, aki forradalmi álnévvel rendelkező helyi alak volt.",
+                  "category": "religious",
+                  "coords": [
+                        106.045923,
+                        21.164276
+                  ]
+            },
+            {
+                  "name": "Di Tích Lịch Sử Văn Hóa Đình Thị Chung",
+                  "text": "Történelmi kulturális emlékhely és közösségi ház hagyományos észak-vietnami faszerkezettel.",
+                  "category": "religious",
+                  "coords": [
+                        106.063249,
+                        21.187294
+                  ]
+            },
+            {
+                  "name": "Đền Thanh Sơn (Đền Quan Tam Phủ)",
+                  "text": "A vietnámi Anyaistennő-vallás Három Palotájának harmadik hercegének szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        106.083716,
+                        21.187417
+                  ]
+            },
+            {
+                  "name": "Đình làng Kim Đôi",
+                  "text": "Közösségi ház egy faluban, amely a császári vizsgákon sikeres tudósairól híres.",
+                  "category": "religious",
+                  "coords": [
+                        106.112424,
+                        21.198924
+                  ]
+            },
+            {
+                  "name": "Đình Ngang",
+                  "text": "Egyszerű hagyományos közösségi ház, amelyet helyi rítusokra és gyűlésekre használnak Ngang faluban.",
+                  "category": "religious",
+                  "coords": [
+                        106.079978,
+                        21.17021
+                  ]
+            },
+            {
+                  "name": "Trung tâm thương mại quốc tế điện tử Việt Trung",
+                  "text": "Nagy kereskedelmi központ, amely elektronikai termékekre és a Kínával folytatott kereskedelemre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        106.069363,
+                        21.181322
+                  ]
+            },
+            {
+                  "name": "4T Mart",
+                  "text": "Helyi szupermarket és piac, amely napi cikkekkel látja el az ipari övezet dolgozóit.",
+                  "category": "cultural",
+                  "coords": [
+                        106.061933,
+                        21.178124
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Mẫu",
+                  "text": "Hagyományos falusi piac, ahol a helyiek friss élelmiszerekkel és regionális termékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        106.098287,
+                        21.166287
+                  ]
+            },
+            {
+                  "name": "Chợ Nam Sơn",
+                  "text": "Nyüzsgő környékbeli piac, amely a Bac Ninh ipari övezetek közeli lakónegyedeit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        106.113264,
+                        21.148796
+                  ]
+            },
+            {
+                  "name": "Chợ Phủ",
+                  "text": "Hagyományos piac, amely helyi élelmiszerek és háztartási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.161961,
+                        21.150921
+                  ]
+            },
+            {
+                  "name": "Chợ Hà Liễu",
+                  "text": "Ha Lieu-i falusi piac, amely friss helyi mezőgazdasági termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        106.138161,
+                        21.166521
+                  ]
+            },
+            {
+                  "name": "Chợ trung tâm phường Phố Mới",
+                  "text": "Központi piactér Pho Moi negyedben, a napi helyi kereskedelem fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.150102,
+                        21.152174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cầu Thị Cầu",
+                  "text": "Un pod vital peste râul Cau, care leagă Bac Ninh de provincia Bac Giang.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091987,
+                        21.20567
+                  ]
+            },
+            {
+                  "name": "Cầu Như Nguyệt",
+                  "text": "Un pod rutier major de pe autostrada 1A, care traversează râul Nhu Nguyet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100155,
+                        21.203672
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Bắc Ninh",
+                  "text": "Acest muzeu expune patrimoniul cultural din Bac Ninh și istoria cântecului popular Quan ho.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm đồng chí Hoàng Quốc Việt",
+                  "text": "O casă memorială dedicată lui Hoang Quoc Viet, un proeminent lider revoluționar vietnamez.",
+                  "category": "historical",
+                  "coords": [
+                        106.102003,
+                        21.20053
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "O statuie în cinstea regelui Ly Thai To, fondatorul dinastiei Ly, născut în această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "Un monument dedicat soldaților și martirilor căzuți din zona Thi Cau.",
+                  "category": "historical",
+                  "coords": [
+                        106.088212,
+                        21.193648
+                  ]
+            },
+            {
+                  "name": "Nhà hát Dân ca Quan họ Bắc Ninh",
+                  "text": "Un teatru modern dedicat interpretării și conservării cântecelor populare Quan ho, patrimoniu UNESCO.",
+                  "category": "cultural",
+                  "coords": [
+                        106.052049,
+                        21.213653
+                  ]
+            },
+            {
+                  "name": "Đền Can Vang-Thọ Đức",
+                  "text": "Un templu local care deservește nevoile spirituale ale comunităților Can Vang și Tho Duc.",
+                  "category": "religious",
+                  "coords": [
+                        106.033881,
+                        21.245293
+                  ]
+            },
+            {
+                  "name": "Đền Phấn Động",
+                  "text": "Un templu tradițional vietnamez situat în zona Phan Dong.",
+                  "category": "religious",
+                  "coords": [
+                        106.033745,
+                        21.226181
+                  ]
+            },
+            {
+                  "name": "Đình làng Đông Phù",
+                  "text": "Casa comunală a satului Dong Phu, centru pentru festivaluri locale și venerare.",
+                  "category": "religious",
+                  "coords": [
+                        105.999752,
+                        21.169884
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Đô Thống Lê Phụng Hiểu",
+                  "text": "Un altar dedicat legendarului general militar Le Phung Hieu din dinastia Ly.",
+                  "category": "religious",
+                  "coords": [
+                        106.047199,
+                        21.170069
+                  ]
+            },
+            {
+                  "name": "Đình Niềm Xá",
+                  "text": "O casă comunală tradițională în satul Niem Xa, tipică stilului arhitectural Kinh Bac.",
+                  "category": "religious",
+                  "coords": [
+                        106.053503,
+                        21.181285
+                  ]
+            },
+            {
+                  "name": "Đền Trình Bà Chúa Kho",
+                  "text": "Un templu de „prezentare” unde pelerinii se anunță înainte de a vizita templul principal Ba Chua Kho.",
+                  "category": "religious",
+                  "coords": [
+                        106.076559,
+                        21.190883
+                  ]
+            },
+            {
+                  "name": "Đền Bà Chúa kho",
+                  "text": "Un faimos loc de pelerinaj unde oamenii „împrumută” simbolic bani de la Zeița Depozitului pentru noroc în afaceri.",
+                  "category": "religious",
+                  "coords": [
+                        106.084738,
+                        21.205559
+                  ]
+            },
+            {
+                  "name": "Miếu Ông Thiêng",
+                  "text": "Un mic altar local dedicat unui spirit sacru sau unei divinități.",
+                  "category": "religious",
+                  "coords": [
+                        106.093084,
+                        21.200333
+                  ]
+            },
+            {
+                  "name": "Đền Hội Đồng",
+                  "text": "Un templu dedicat „Consiliului” divinităților din credința populară vietnameză.",
+                  "category": "religious",
+                  "coords": [
+                        106.096537,
+                        21.202346
+                  ]
+            },
+            {
+                  "name": "Nhà thờ họ Vũ Đình",
+                  "text": "O casă ancestrală a familiei Vu Dinh, dedicată venerării strămoșilor clanului.",
+                  "category": "religious",
+                  "coords": [
+                        106.094385,
+                        21.200601
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thị Đáp Cầu",
+                  "text": "O biserică catolică din Bac Ninh, cu o turlă tradițională și o arhitectură distinctivă din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        106.093323,
+                        21.196017
+                  ]
+            },
+            {
+                  "name": "Đình làng thôn Nội Viên",
+                  "text": "Casă comunală tradițională cu acoperiș din țiglă curbată, tipică arhitecturii rurale din nordul Vietnamului.",
+                  "category": "religious",
+                  "coords": [
+                        106.061367,
+                        21.117087
+                  ]
+            },
+            {
+                  "name": "Đình làng Diềm",
+                  "text": "Casă comunală istorică în satul Diem, leagănul cântecului popular Quan ho, cu sculpturi ornamentate în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        106.050107,
+                        21.214999
+                  ]
+            },
+            {
+                  "name": "Đình làng Đại Phúc",
+                  "text": "Casă comunală locală în Dai Phuc, utilizată pentru festivaluri tradiționale în onoarea zeităților tutelare.",
+                  "category": "religious",
+                  "coords": [
+                        106.082411,
+                        21.170747
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trại Phán",
+                  "text": "O biserică catolică impunătoare din zona industrială, cunoscută pentru arhitectura sa de inspirație gotică.",
+                  "category": "religious",
+                  "coords": [
+                        106.149742,
+                        21.170272
+                  ]
+            },
+            {
+                  "name": "Đình Đẩu Hàn",
+                  "text": "Loc de cult tradițional cu acoperiș din țiglă roșie, care servește drept centru spiritual pentru comunitatea Dau Han.",
+                  "category": "religious",
+                  "coords": [
+                        106.080294,
+                        21.217289
+                  ]
+            },
+            {
+                  "name": "Đình Bồ Sơn",
+                  "text": "Casă comunală în cartierul Bo Son, remarcabilă prin stâlpii tradiționali din lemn și acoperișul din țiglă.",
+                  "category": "religious",
+                  "coords": [
+                        106.059509,
+                        21.168365
+                  ]
+            },
+            {
+                  "name": "Đình Khả Lễ",
+                  "text": "Altar local și casă comunală în Kha Le, care păstrează obiceiurile tradiționale ale satului.",
+                  "category": "religious",
+                  "coords": [
+                        106.049828,
+                        21.162806
+                  ]
+            },
+            {
+                  "name": "Nhà thở ông Đỗ Văn Xưởng - Bí danh Nguyễn Hồng",
+                  "text": "Un altar familial în cinstea lui Do Van Xuong, o figură locală cu un nume de cod revoluționar.",
+                  "category": "religious",
+                  "coords": [
+                        106.045923,
+                        21.164276
+                  ]
+            },
+            {
+                  "name": "Di Tích Lịch Sử Văn Hóa Đình Thị Chung",
+                  "text": "Monument cultural istoric și casă comunală cu o structură tradițională din lemn specifică nordului Vietnamului.",
+                  "category": "religious",
+                  "coords": [
+                        106.063249,
+                        21.187294
+                  ]
+            },
+            {
+                  "name": "Đền Thanh Sơn (Đền Quan Tam Phủ)",
+                  "text": "Templu dedicat celui de-al Treilea Prinț al celor Trei Palate din religia vietnameză a Zeiței Mame.",
+                  "category": "religious",
+                  "coords": [
+                        106.083716,
+                        21.187417
+                  ]
+            },
+            {
+                  "name": "Đình làng Kim Đôi",
+                  "text": "Casă comunală într-un sat faimos istoric pentru numărul mare de cărturari de succes la examenele imperiale.",
+                  "category": "religious",
+                  "coords": [
+                        106.112424,
+                        21.198924
+                  ]
+            },
+            {
+                  "name": "Đình Ngang",
+                  "text": "Casă comunală tradițională simplă, utilizată pentru ritualuri locale și adunări în satul Ngang.",
+                  "category": "religious",
+                  "coords": [
+                        106.079978,
+                        21.17021
+                  ]
+            },
+            {
+                  "name": "Trung tâm thương mại quốc tế điện tử Việt Trung",
+                  "text": "Un mare centru comercial specializat în produse electronice și comerț transfrontalier cu China.",
+                  "category": "cultural",
+                  "coords": [
+                        106.069363,
+                        21.181322
+                  ]
+            },
+            {
+                  "name": "4T Mart",
+                  "text": "Supermarket local și piață care oferă bunuri de zi cu zi pentru lucrătorii din zona industrială.",
+                  "category": "cultural",
+                  "coords": [
+                        106.061933,
+                        21.178124
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Mẫu",
+                  "text": "Piață tradițională sătească unde localnicii comercializează alimente proaspete și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.098287,
+                        21.166287
+                  ]
+            },
+            {
+                  "name": "Chợ Nam Sơn",
+                  "text": "Piață de cartier animată care deservește zonele rezidențiale din apropierea zonelor industriale Bac Ninh.",
+                  "category": "cultural",
+                  "coords": [
+                        106.113264,
+                        21.148796
+                  ]
+            },
+            {
+                  "name": "Chợ Phủ",
+                  "text": "Piață tradițională care oferă o varietate de alimente locale și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.161961,
+                        21.150921
+                  ]
+            },
+            {
+                  "name": "Chợ Hà Liễu",
+                  "text": "Piață sătească în Ha Lieu, cunoscută pentru produsele agricole proaspete din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        106.138161,
+                        21.166521
+                  ]
+            },
+            {
+                  "name": "Chợ trung tâm phường Phố Mới",
+                  "text": "Piață centrală în cartierul Pho Moi, un centru important pentru comerțul local zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.150102,
+                        21.152174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thi Cau Bridge",
+                  "text": "A vital bridge crossing the Cau River, connecting Bac Ninh with Bac Giang province.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091987,
+                        21.20567
+                  ]
+            },
+            {
+                  "name": "Nhu Nguyet Bridge",
+                  "text": "A major road bridge on Highway 1A spanning the Nhu Nguyet (Cau) River.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100155,
+                        21.203672
+                  ]
+            },
+            {
+                  "name": "Bac Ninh Museum",
+                  "text": "A museum showcasing the cultural heritage of Bac Ninh and the history of Quan ho folk singing.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm đồng chí Hoàng Quốc Việt",
+                  "text": "A memorial house dedicated to the prominent Vietnamese revolutionary leader Hoang Quoc Viet.",
+                  "category": "historical",
+                  "coords": [
+                        106.102003,
+                        21.20053
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "A statue honoring King Ly Thai To, the founder of the Ly Dynasty, who was born in this region.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "A memorial dedicated to the fallen soldiers and martyrs of the Thi Cau area.",
+                  "category": "historical",
+                  "coords": [
+                        106.088212,
+                        21.193648
+                  ]
+            },
+            {
+                  "name": "Nhà hát Dân ca Quan họ Bắc Ninh",
+                  "text": "A modern theater dedicated to performing and preserving Quan ho folk songs, a UNESCO heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        106.052049,
+                        21.213653
+                  ]
+            },
+            {
+                  "name": "Đền Can Vang-Thọ Đức",
+                  "text": "A local temple serving the spiritual needs of the Can Vang and Tho Duc communities.",
+                  "category": "religious",
+                  "coords": [
+                        106.033881,
+                        21.245293
+                  ]
+            },
+            {
+                  "name": "Đền Phấn Động",
+                  "text": "A traditional Vietnamese temple located in the Phan Dong area.",
+                  "category": "religious",
+                  "coords": [
+                        106.033745,
+                        21.226181
+                  ]
+            },
+            {
+                  "name": "Đình làng Đông Phù",
+                  "text": "The village communal house of Dong Phu, serving as a center for local festivals and worship.",
+                  "category": "religious",
+                  "coords": [
+                        105.999752,
+                        21.169884
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Đô Thống Lê Phụng Hiểu",
+                  "text": "A shrine dedicated to the legendary military general Le Phung Hieu of the Ly Dynasty.",
+                  "category": "religious",
+                  "coords": [
+                        106.047199,
+                        21.170069
+                  ]
+            },
+            {
+                  "name": "Đình Niềm Xá",
+                  "text": "A traditional communal house in Niem Xa village, typical of the Kinh Bac architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        106.053503,
+                        21.181285
+                  ]
+            },
+            {
+                  "name": "Đền Trình Bà Chúa Kho",
+                  "text": "A 'presentation' temple where pilgrims announce their arrival before visiting the main Ba Chua Kho Temple.",
+                  "category": "religious",
+                  "coords": [
+                        106.076559,
+                        21.190883
+                  ]
+            },
+            {
+                  "name": "Đền Bà Chúa kho",
+                  "text": "A famous pilgrimage site where people ritually 'borrow' money from the Goddess of the Storehouse for luck.",
+                  "category": "religious",
+                  "coords": [
+                        106.084738,
+                        21.205559
+                  ]
+            },
+            {
+                  "name": "Miếu Ông Thiêng",
+                  "text": "A small local shrine ('mieu') dedicated to a sacred spirit or deity.",
+                  "category": "religious",
+                  "coords": [
+                        106.093084,
+                        21.200333
+                  ]
+            },
+            {
+                  "name": "Đền Hội Đồng",
+                  "text": "A temple dedicated to the 'Council' of deities in Vietnamese folk belief.",
+                  "category": "religious",
+                  "coords": [
+                        106.096537,
+                        21.202346
+                  ]
+            },
+            {
+                  "name": "Nhà thờ họ Vũ Đình",
+                  "text": "An ancestral worship house for the Vu Dinh family clan.",
+                  "category": "religious",
+                  "coords": [
+                        106.094385,
+                        21.200601
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thị Đáp Cầu",
+                  "text": "A Catholic church in Bac Ninh featuring a traditional steeple and prominent brick architecture.",
+                  "category": "religious",
+                  "coords": [
+                        106.093323,
+                        21.196017
+                  ]
+            },
+            {
+                  "name": "Đình làng thôn Nội Viên",
+                  "text": "Traditional village communal house with a curved tiled roof, typical of Northern Vietnamese architecture.",
+                  "category": "religious",
+                  "coords": [
+                        106.061367,
+                        21.117087
+                  ]
+            },
+            {
+                  "name": "Đình làng Diềm",
+                  "text": "Historic communal house in Diem village, the cradle of Quan Ho singing, featuring ornate wood carvings.",
+                  "category": "religious",
+                  "coords": [
+                        106.050107,
+                        21.214999
+                  ]
+            },
+            {
+                  "name": "Đình làng Đại Phúc",
+                  "text": "Local communal house in Dai Phuc used for traditional festivals honoring the tutelary deities.",
+                  "category": "religious",
+                  "coords": [
+                        106.082411,
+                        21.170747
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Trại Phán",
+                  "text": "Grand Catholic church in the industrial region, known for its Gothic-inspired architecture.",
+                  "category": "religious",
+                  "coords": [
+                        106.149742,
+                        21.170272
+                  ]
+            },
+            {
+                  "name": "Đình Đẩu Hàn",
+                  "text": "Traditional place of worship with a red-tiled roof, serving as the spiritual center for the Dau Han community.",
+                  "category": "religious",
+                  "coords": [
+                        106.080294,
+                        21.217289
+                  ]
+            },
+            {
+                  "name": "Đình Bồ Sơn",
+                  "text": "Community house in Bo Son ward, featuring traditional wooden pillars and a tiled roof.",
+                  "category": "religious",
+                  "coords": [
+                        106.059509,
+                        21.168365
+                  ]
+            },
+            {
+                  "name": "Đình Khả Lễ",
+                  "text": "Local shrine and communal house in Kha Le preserving traditional village customs.",
+                  "category": "religious",
+                  "coords": [
+                        106.049828,
+                        21.162806
+                  ]
+            },
+            {
+                  "name": "Nhà thở ông Đỗ Văn Xưởng - Bí danh Nguyễn Hồng",
+                  "text": "A family place of worship honoring Do Van Xuong, a local figure with a revolutionary alias.",
+                  "category": "religious",
+                  "coords": [
+                        106.045923,
+                        21.164276
+                  ]
+            },
+            {
+                  "name": "Di Tích Lịch Sử Văn Hóa Đình Thị Chung",
+                  "text": "Historical cultural relic and communal house featuring a traditional Northern Vietnamese wooden structure.",
+                  "category": "religious",
+                  "coords": [
+                        106.063249,
+                        21.187294
+                  ]
+            },
+            {
+                  "name": "Đền Thanh Sơn (Đền Quan Tam Phủ)",
+                  "text": "Temple dedicated to the Third Prince of the Three Palaces in the Vietnamese Mother Goddess religion.",
+                  "category": "religious",
+                  "coords": [
+                        106.083716,
+                        21.187417
+                  ]
+            },
+            {
+                  "name": "Đình làng Kim Đôi",
+                  "text": "Communal house in a village historically famous for its many successful imperial exam scholars.",
+                  "category": "religious",
+                  "coords": [
+                        106.112424,
+                        21.198924
+                  ]
+            },
+            {
+                  "name": "Đình Ngang",
+                  "text": "Simple traditional communal house used for local rituals and gatherings in Ngang village.",
+                  "category": "religious",
+                  "coords": [
+                        106.079978,
+                        21.17021
+                  ]
+            },
+            {
+                  "name": "Trung tâm thương mại quốc tế điện tử Việt Trung",
+                  "text": "A large commercial hub specializing in electronic products and cross-border trade with China.",
+                  "category": "cultural",
+                  "coords": [
+                        106.069363,
+                        21.181322
+                  ]
+            },
+            {
+                  "name": "4T Mart",
+                  "text": "Local supermarket and marketplace providing daily goods for the industrial zone workers.",
+                  "category": "cultural",
+                  "coords": [
+                        106.061933,
+                        21.178124
+                  ]
+            },
+            {
+                  "name": "Chợ Chu Mẫu",
+                  "text": "Traditional village market where locals trade fresh food and regional agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        106.098287,
+                        21.166287
+                  ]
+            },
+            {
+                  "name": "Chợ Nam Sơn",
+                  "text": "Bustling neighborhood market serving the residential areas near the Bac Ninh industrial zones.",
+                  "category": "cultural",
+                  "coords": [
+                        106.113264,
+                        21.148796
+                  ]
+            },
+            {
+                  "name": "Chợ Phủ",
+                  "text": "Traditional market offering a variety of local foodstuffs and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        106.161961,
+                        21.150921
+                  ]
+            },
+            {
+                  "name": "Chợ Hà Liễu",
+                  "text": "Village market in Ha Lieu known for fresh agricultural products from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        106.138161,
+                        21.166521
+                  ]
+            },
+            {
+                  "name": "Chợ trung tâm phường Phố Mới",
+                  "text": "Central marketplace in Pho Moi ward, a major hub for daily local commerce.",
+                  "category": "cultural",
+                  "coords": [
+                        106.150102,
+                        21.152174
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VN-BN",
     coords: [106.076, 21.183],
@@ -531,7 +7047,412 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["L'une des zones industrielles les plus importantes du nord du Vietnam, réputée pour attirer les investissements high-tech.", "Située sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/bac-ninh-industrial-zone-economic-v2.webp"},
   {
-    id: "binh-duong-industrial-parks-economic-v2",
+    id: "binh-duong-industrial-parks-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Công Ty CJ FRESHWAY VIỆT NAM",
+                  "text": "Eine Industrieanlage in der Zone Bình Dương, die als Ausstellungsraum für die Unternehmens- und Produktionsgeschichte dient.",
+                  "category": "museum",
+                  "coords": [
+                        106.69545,
+                        11.130074
+                  ]
+            },
+            {
+                  "name": "yamaha town thủy tuyen phát",
+                  "text": "Ein spezialisierter Automobil-Showroom und ein Unternehmensmuseum, in dem verschiedene Motorradmodelle und die Markengeschichte ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        106.62603,
+                        11.097143
+                  ]
+            },
+            {
+                  "name": "nha may tin hoa sen . ben cát binh duong",
+                  "text": "Ein ehemaliges Industriegelände, das in einen Museumsraum umgewandelt wurde und die wirtschaftliche Entwicklung des Bezirks Bến Cát veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        106.625246,
+                        11.100513
+                  ]
+            },
+            {
+                  "name": "Nhà hát Mỹ Phước",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste in der Industriezone, der für kulturelle Shows und Gemeinschaftsveranstaltungen konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615226,
+                        11.135252
+                  ]
+            },
+            {
+                  "name": "Đình thần An Lợi",
+                  "text": "Ein traditionelles vietnamesisches kommunales Volkshaus mit einem verzierten Dach, in dem lokale Schutzgeister verehrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        106.662342,
+                        11.120226
+                  ]
+            },
+            {
+                  "name": "Khu Di tích Bàu Gốc",
+                  "text": "Eine historische religiöse Reliktstätte inmitten der sich entwickelnden Industrieparks, die das regionale religiöse Erbe bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        106.752789,
+                        11.147457
+                  ]
+            },
+            {
+                  "name": "Đình thần An Hòa",
+                  "text": "Ein authentisches Gemeinschaftshaus, das dem vietnamesischen Volksglauben gewidmet ist und sich durch traditionelle Holzsäulen und Altaropfer auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667765,
+                        11.09573
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Tân",
+                  "text": "Ein belebter Bezirksmarkt in Vĩnh Tân, der frische Produkte und Dinge des täglichen Bedarfs für die lokalen Arbeitskräfte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703152,
+                        11.117075
+                  ]
+            },
+            {
+                  "name": "Chợ Hòa Lợi",
+                  "text": "Ein Freiluftmarkt, der die Industriegemeinde mit Ständen für Lebensmittel, Kleidung und Haushaltswaren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673959,
+                        11.076866
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Phước II",
+                  "text": "Ein geräumiges Marktzentrum in der Nähe des Industrieparks Mỹ Phước II, das Fabrikarbeitern eine Reihe von Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.613426,
+                        11.13033
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cát",
+                  "text": "Das zentrale Handelszentrum von Bến Cát mit Reihen von Händlern, die alles von Streetfood bis hin zu lokalen Textilien verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.589444,
+                        11.151525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Công Ty CJ FRESHWAY VIỆT NAM",
+                  "text": "Ipari létesítmény a Bình Dương övezetben, amely a vállalati és gyártási történelem kiállítótereként is szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        106.69545,
+                        11.130074
+                  ]
+            },
+            {
+                  "name": "yamaha town thủy tuyen phát",
+                  "text": "Speciális autóipari bemutatóterem és vállalati múzeum, amely különböző motorkerékpár-modelleket és márkatörténetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.62603,
+                        11.097143
+                  ]
+            },
+            {
+                  "name": "nha may tin hoa sen . ben cát binh duong",
+                  "text": "Múzeummá alakított egykori ipari üzem, amely a Bến Cát körzet gazdasági fejlődését szemlélteti.",
+                  "category": "museum",
+                  "coords": [
+                        106.625246,
+                        11.100513
+                  ]
+            },
+            {
+                  "name": "Nhà hát Mỹ Phước",
+                  "text": "Helyi előadó-művészeti helyszín az ipari övezetben, amelyet kulturális műsorok és közösségi események megrendezésére terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615226,
+                        11.135252
+                  ]
+            },
+            {
+                  "name": "Đình thần An Lợi",
+                  "text": "Hagyományos vietnámi népi közösségi ház díszes tetővel, ahol a helyi védőszellemeket imádják.",
+                  "category": "landmark",
+                  "coords": [
+                        106.662342,
+                        11.120226
+                  ]
+            },
+            {
+                  "name": "Khu Di tích Bàu Gốc",
+                  "text": "Történelmi istentiszteleti emlékhely a fejlődő ipari parkok közepette, amely megőrzi a regionális vallási örökséget.",
+                  "category": "religious",
+                  "coords": [
+                        106.752789,
+                        11.147457
+                  ]
+            },
+            {
+                  "name": "Đình thần An Hòa",
+                  "text": "A vietnámi népi hiedelmeknek szentelt autentikus közösségi ház, amelyet hagyományos faoszlopok és oltári felajánlások jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667765,
+                        11.09573
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Tân",
+                  "text": "Nyüzsgő körzeti piac Vĩnh Tânban, amely friss termékeket és napi szükségleti cikkeket kínál a helyi munkaerő számára.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703152,
+                        11.117075
+                  ]
+            },
+            {
+                  "name": "Chợ Hòa Lợi",
+                  "text": "Nyitott kereskedelmi piac, amely az ipari közösséget szolgálja ki élelmiszert, ruházatot és háztartási cikkeket bemutató standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673959,
+                        11.076866
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Phước II",
+                  "text": "Tágas piacközpont a Mỹ Phước II ipari park közelében, amely áruk széles választékát kínálja a gyári munkásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.613426,
+                        11.13033
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cát",
+                  "text": "Bến Cát központi kereskedelmi csomópontja, ahol az árusok sorai az utcai ételektől a helyi textíliákig mindent árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.589444,
+                        11.151525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Công Ty CJ FRESHWAY VIỆT NAM",
+                  "text": "O facilitate industrială în zona Bình Dương, care servește drept spațiu expozițional pentru istoria corporativă și de producție.",
+                  "category": "museum",
+                  "coords": [
+                        106.69545,
+                        11.130074
+                  ]
+            },
+            {
+                  "name": "yamaha town thủy tuyen phát",
+                  "text": "Un showroom auto specializat și un muzeu corporativ care expune diverse modele de motociclete și istoria mărcii.",
+                  "category": "museum",
+                  "coords": [
+                        106.62603,
+                        11.097143
+                  ]
+            },
+            {
+                  "name": "nha may tin hoa sen . ben cát binh duong",
+                  "text": "O fostă fabrică industrială transformată în spațiu muzeal, ilustrând dezvoltarea economică a districtului Bến Cát.",
+                  "category": "museum",
+                  "coords": [
+                        106.625246,
+                        11.100513
+                  ]
+            },
+            {
+                  "name": "Nhà hát Mỹ Phước",
+                  "text": "Un loc de artele spectacolului local din zona industrială, conceput pentru a găzdui spectacole culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615226,
+                        11.135252
+                  ]
+            },
+            {
+                  "name": "Đình thần An Lợi",
+                  "text": "O casă comunală tradițională vietnameză, cu un acoperiș ornamentat, unde sunt venerați spiritele gardiene locale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.662342,
+                        11.120226
+                  ]
+            },
+            {
+                  "name": "Khu Di tích Bàu Gốc",
+                  "text": "Un sit istoric cu relicve de cult, situat în mijlocul parcurilor industriale în curs de dezvoltare, păstrând moștenirea religioasă regională.",
+                  "category": "religious",
+                  "coords": [
+                        106.752789,
+                        11.147457
+                  ]
+            },
+            {
+                  "name": "Đình thần An Hòa",
+                  "text": "O casă comunală autentică dedicată credințelor populare vietnameze, marcată de coloane tradiționale din lemn și ofrande la altar.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667765,
+                        11.09573
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Tân",
+                  "text": "O piață districtuală plină de viață în Vĩnh Tân, oferind produse proaspete și necesități zilnice pentru forța de muncă locală.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703152,
+                        11.117075
+                  ]
+            },
+            {
+                  "name": "Chợ Hòa Lợi",
+                  "text": "O piață în aer liber care deservește comunitatea industrială, cu tarabe expunând alimente, îmbrăcăminte și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673959,
+                        11.076866
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Phước II",
+                  "text": "Un centru comercial spațios situat lângă parcul industrial Mỹ Phước II, oferind o gamă de bunuri lucrătorilor din fabrici.",
+                  "category": "cultural",
+                  "coords": [
+                        106.613426,
+                        11.13033
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cát",
+                  "text": "Centrul comercial central din Bến Cát, cu rânduri de comercianți care vând de la mâncare stradală la textile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.589444,
+                        11.151525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Công Ty CJ FRESHWAY VIỆT NAM",
+                  "text": "An industrial facility in the Bình Dương zone that serves as an exhibition space for corporate and manufacturing history.",
+                  "category": "museum",
+                  "coords": [
+                        106.69545,
+                        11.130074
+                  ]
+            },
+            {
+                  "name": "yamaha town thủy tuyen phát",
+                  "text": "A specialized automotive showroom and corporate museum displaying various motorcycle models and brand history.",
+                  "category": "museum",
+                  "coords": [
+                        106.62603,
+                        11.097143
+                  ]
+            },
+            {
+                  "name": "nha may tin hoa sen . ben cát binh duong",
+                  "text": "A former industrial plant converted into a museum space, illustrating the economic development of the Bến Cát district.",
+                  "category": "museum",
+                  "coords": [
+                        106.625246,
+                        11.100513
+                  ]
+            },
+            {
+                  "name": "My Phuoc Theatre",
+                  "text": "A local performing arts venue in the industrial zone designed to host cultural shows and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615226,
+                        11.135252
+                  ]
+            },
+            {
+                  "name": "Đình thần An Lợi",
+                  "text": "A traditional Vietnamese folk communal house featuring an ornate roof where local guardian spirits are worshipped.",
+                  "category": "landmark",
+                  "coords": [
+                        106.662342,
+                        11.120226
+                  ]
+            },
+            {
+                  "name": "Khu Di tích Bàu Gốc",
+                  "text": "A historical worship relic site set amidst the developing industrial parks, preserving regional religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        106.752789,
+                        11.147457
+                  ]
+            },
+            {
+                  "name": "Đình thần An Hòa",
+                  "text": "An authentic communal house dedicated to Vietnamese folk beliefs, marked by traditional wooden columns and altar offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667765,
+                        11.09573
+                  ]
+            },
+            {
+                  "name": "Chợ Vĩnh Tân",
+                  "text": "A bustling district marketplace in Vĩnh Tân offering fresh produce and daily necessities for the local workforce.",
+                  "category": "cultural",
+                  "coords": [
+                        106.703152,
+                        11.117075
+                  ]
+            },
+            {
+                  "name": "Hoa Loi Market",
+                  "text": "An open-air trading market servicing the industrial community with stalls displaying food, clothing, and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673959,
+                        11.076866
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Phước II",
+                  "text": "A spacious market center located near the Mỹ Phước II industrial park, providing an array of goods to factory workers.",
+                  "category": "cultural",
+                  "coords": [
+                        106.613426,
+                        11.13033
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cát",
+                  "text": "The central commercial hub of Bến Cát, featuring rows of vendors selling everything from street food to local textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        106.589444,
+                        11.151525
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VN-BD",
     coords: [106.666, 11.166],
@@ -579,7 +7500,520 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "lao-cai-border-gate-economic-v2",
+    id: "lao-cai-border-gate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "Ein Museum in Lao Cai, das die Geschichte und die vielfältigen Kulturen der ethnischen Gruppen an der chinesischen Grenze zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
+                  "text": "Ein feierliches Denkmal in Lao Cai zum Gedenken an die Soldaten, die in den Grenzkriegen gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            },
+            {
+                  "name": "Old Hekou Wharf",
+                  "text": "Ein historischer Kai am Flussufer, der einst ein wichtiger Handelspunkt zwischen Vietnam und der chinesischen Stadt Hekou war.",
+                  "category": "landmark",
+                  "coords": [
+                        103.964792,
+                        22.509087
+                  ]
+            },
+            {
+                  "name": "Đền Thượng",
+                  "text": "Dieser bedeutende Tempel liegt auf einem Hügel am Zusammenfluss der Flüsse Rot und Nam Thi.",
+                  "category": "religious",
+                  "coords": [
+                        103.968162,
+                        22.509608
+                  ]
+            },
+            {
+                  "name": "Former Site of Hekou Customs",
+                  "text": "Ein erhaltenes französisches Kolonialgebäude, das früher als Zollamt an der Grenze zwischen China und Vietnam diente.",
+                  "category": "museum",
+                  "coords": [
+                        103.963697,
+                        22.508521
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh Lào Cai",
+                  "text": "Das Provinzmuseum von Lao Cai beherbergt Artefakte zur Regionalgeschichte und Exponate über die 25 ethnischen Gruppen der Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        104.009618,
+                        22.444219
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm Bác Hồ",
+                  "text": "Ein Gedenkhaus für Ho Chi Minh in Lao Cai, das an seinen Besuch in der Grenzstadt im Jahr 1958 erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        103.972007,
+                        22.499131
+                  ]
+            },
+            {
+                  "name": "Guanyin Temple",
+                  "text": "Ein der Göttin der Barmherzigkeit geweihter Tempel, der im traditionellen Stil an der Grenze nahe dem Flussufer steht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.970602,
+                        22.513235
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "Ein heiliger Mau-Tempel in Lao Cai, in dem die heiligen Mütter des vietnamesischen Geisterglaubens verehrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965565,
+                        22.507289
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Cốc Lếu",
+                  "text": "Eine moderne katholische Kirche in Lao Cai, die durch ihre Architektur und den auffälligen Glockenturm im Grenzbezirk Coc Leu hervorsticht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968215,
+                        22.500373
+                  ]
+            },
+            {
+                  "name": "Đền Cấm Lào Cai",
+                  "text": "Ein jahrhundertealter Tempel in Lao Cai, der am Fuße eines Berges liegt und der Verehrung lokaler Schutzgeister dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977898,
+                        22.495211
+                  ]
+            },
+            {
+                  "name": "Cốc Lều B Market",
+                  "text": "Der zweite Teil des Coc-Leu-Marktes, in dem hauptsächlich Lebensmittel, Gewürze und frische Waren aus der Region angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        103.968278,
+                        22.501361
+                  ]
+            },
+            {
+                  "name": "Chợ du lịch Lào Cai",
+                  "text": "Ein moderner Touristenmarkt in Lao Cai, der Souvenirs, Schmuck und traditionelles Kunsthandwerk der lokalen Bergvölker führt.",
+                  "category": "cultural",
+                  "coords": [
+                        103.975655,
+                        22.493878
+                  ]
+            },
+            {
+                  "name": "Chợ Kim Tân",
+                  "text": "Ein lokaler Markt im Viertel Kim Tan, auf dem Einheimische täglich frisches Gemüse und Fleisch aus den umliegenden Dörfern kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.973954,
+                        22.474617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "Lao Cai-i múzeum, amely a kínai határ mentén élő etnikai csoportok történelmét és változatos kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
+                  "text": "Ünnepélyes emlékmű Lao Cai-ban a határ menti háborúkban elesett katonák emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            },
+            {
+                  "name": "Old Hekou Wharf",
+                  "text": "Történelmi folyóparti rakpart, amely egykor fontos kereskedelmi pont volt Vietnám és a kínai Hekou városa között.",
+                  "category": "landmark",
+                  "coords": [
+                        103.964792,
+                        22.509087
+                  ]
+            },
+            {
+                  "name": "Đền Thượng",
+                  "text": "Ez a jelentős templom egy dombon található, a Vörös-folyó és a Nam Thi összefolyásánál.",
+                  "category": "religious",
+                  "coords": [
+                        103.968162,
+                        22.509608
+                  ]
+            },
+            {
+                  "name": "Former Site of Hekou Customs",
+                  "text": "Fennmaradt francia koloniális épület, amely korábban vámhivatalként szolgált a Kína és Vietnám közötti határon.",
+                  "category": "museum",
+                  "coords": [
+                        103.963697,
+                        22.508521
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh Lào Cai",
+                  "text": "A Lao Cai Tartományi Múzeum a helyi történelem emlékeit és a tartomány 25 etnikai csoportját bemutató kiállításokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        104.009618,
+                        22.444219
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm Bác Hồ",
+                  "text": "Ho Si Minh-emlékház Lao Cai-ban, amely az 1958-as határvárosi látogatásának állít emléket.",
+                  "category": "religious",
+                  "coords": [
+                        103.972007,
+                        22.499131
+                  ]
+            },
+            {
+                  "name": "Guanyin Temple",
+                  "text": "Az Irgalmasság Istennőjének szentelt templom, amely hagyományos stílusban épült a folyópart közeli határon.",
+                  "category": "landmark",
+                  "coords": [
+                        103.970602,
+                        22.513235
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "Szent Mau-templom Lao Cai-ban, ahol a vietnami szellemi hitvilág szent anyait tisztelik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965565,
+                        22.507289
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Cốc Lếu",
+                  "text": "Modern katolikus templom Lao Cai-ban, amely építészetével és feltűnő harangtornyával emelkedik ki a Coc Leu határnegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968215,
+                        22.500373
+                  ]
+            },
+            {
+                  "name": "Đền Cấm Lào Cai",
+                  "text": "Évszázados templom Lao Cai-ban egy hegy lábánál, amely a helyi védőszellemek tiszteletére szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977898,
+                        22.495211
+                  ]
+            },
+            {
+                  "name": "Cốc Lều B Market",
+                  "text": "A Coc Leu piac második része, ahol főként élelmiszereket, fűszereket és friss helyi termékeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.968278,
+                        22.501361
+                  ]
+            },
+            {
+                  "name": "Chợ du lịch Lào Cai",
+                  "text": "Modern turisztikai piac Lao Cai-ban, ahol szuveníreket, ékszereket és a helyi hegyi törzsek hagyományos kézműves termékeit árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        103.975655,
+                        22.493878
+                  ]
+            },
+            {
+                  "name": "Chợ Kim Tân",
+                  "text": "Helyi piac Kim Tan negyedben, ahol a helyiek naponta friss zöldséget és húst vásárolnak a környező falvakból.",
+                  "category": "cultural",
+                  "coords": [
+                        103.973954,
+                        22.474617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "Un muzeu din Lao Cai care prezintă istoria și culturile diverse ale grupurilor etnice de la granița cu China.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
+                  "text": "Un monument solemn din Lao Cai, dedicat memoriei soldaților care au căzut în războaiele de graniță.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            },
+            {
+                  "name": "Old Hekou Wharf",
+                  "text": "Un debarcader istoric pe malul râului, care a fost odinioară un punct comercial important între Vietnam și orașul chinez Hekou.",
+                  "category": "landmark",
+                  "coords": [
+                        103.964792,
+                        22.509087
+                  ]
+            },
+            {
+                  "name": "Đền Thượng",
+                  "text": "Acest templu important este situat pe un deal la confluența fluviului Roșu cu râul Nam Thi.",
+                  "category": "religious",
+                  "coords": [
+                        103.968162,
+                        22.509608
+                  ]
+            },
+            {
+                  "name": "Former Site of Hekou Customs",
+                  "text": "O clădire colonială franceză conservată, care a servit anterior drept birou vamal la granița dintre China și Vietnam.",
+                  "category": "museum",
+                  "coords": [
+                        103.963697,
+                        22.508521
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh Lào Cai",
+                  "text": "Muzeul Provincial Lao Cai adăpostește artefacte din istoria regională și exponate despre cele 25 de grupuri etnice ale provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        104.009618,
+                        22.444219
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm Bác Hồ",
+                  "text": "O casă memorială dedicată lui Ho Chi Minh în Lao Cai, care comemorează vizita sa în orașul de frontieră în 1958.",
+                  "category": "religious",
+                  "coords": [
+                        103.972007,
+                        22.499131
+                  ]
+            },
+            {
+                  "name": "Guanyin Temple",
+                  "text": "Un templu dedicat Zeiței Milei, situat în apropierea malului râului la frontieră și construit în stil tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        103.970602,
+                        22.513235
+                  ]
+            },
+            {
+                  "name": "Đền Mẫu",
+                  "text": "Un templu Mau sacru în Lao Cai, unde sunt venerate Sfintele Mame din credința spirituală vietnameză.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965565,
+                        22.507289
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Cốc Lếu",
+                  "text": "O biserică catolică modernă în Lao Cai, care se remarcă prin arhitectura sa și clopotnița proeminentă din districtul de frontieră Coc Leu.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968215,
+                        22.500373
+                  ]
+            },
+            {
+                  "name": "Đền Cấm Lào Cai",
+                  "text": "Un templu vechi de secole în Lao Cai, situat la poalele unui munte, dedicat venerării spiritelor protectoare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977898,
+                        22.495211
+                  ]
+            },
+            {
+                  "name": "Cốc Lều B Market",
+                  "text": "A doua parte a pieței Coc Leu, unde se vând în principal alimente, condimente și produse locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        103.968278,
+                        22.501361
+                  ]
+            },
+            {
+                  "name": "Chợ du lịch Lào Cai",
+                  "text": "O piață turistică modernă în Lao Cai, care oferü suveniruri, bijuterii și artizanat tradițional al triburilor montane locale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.975655,
+                        22.493878
+                  ]
+            },
+            {
+                  "name": "Chợ Kim Tân",
+                  "text": "O piață locală în cartierul Kim Tan, unde localnicii cumpără zilnic legume și carne proaspătă din satele din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        103.973954,
+                        22.474617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "A museum in Lao Cai showcasing the history and diverse cultures of the ethnic groups along the Chinese border.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Lao Cai Martyrs Memorial",
+                  "text": "A solemn monument in Lao Cai commemorating the soldiers who fell in the border wars.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            },
+            {
+                  "name": "Old Hekou Wharf",
+                  "text": "A historic riverside wharf that was once a major trading point between Vietnam and the Chinese city of Hekou.",
+                  "category": "landmark",
+                  "coords": [
+                        103.964792,
+                        22.509087
+                  ]
+            },
+            {
+                  "name": "Shrine to Saint Tran Hung Dao",
+                  "text": "This significant temple is located on a hill at the confluence of the Red and Nam Thi rivers.",
+                  "category": "religious",
+                  "coords": [
+                        103.968162,
+                        22.509608
+                  ]
+            },
+            {
+                  "name": "Former Site of Hekou Customs",
+                  "text": "A preserved French colonial building that formerly served as the customs office at the border between China and Vietnam.",
+                  "category": "museum",
+                  "coords": [
+                        103.963697,
+                        22.508521
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh Lào Cai",
+                  "text": "The Lao Cai Provincial Museum houses artifacts of regional history and exhibits on the province's 25 ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        104.009618,
+                        22.444219
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm Bác Hồ",
+                  "text": "A memorial house for Ho Chi Minh in Lao Cai, commemorating his visit to the border city in 1958.",
+                  "category": "religious",
+                  "coords": [
+                        103.972007,
+                        22.499131
+                  ]
+            },
+            {
+                  "name": "Guanyin Temple",
+                  "text": "A temple dedicated to the Goddess of Mercy, standing in a traditional style at the border near the riverbank.",
+                  "category": "landmark",
+                  "coords": [
+                        103.970602,
+                        22.513235
+                  ]
+            },
+            {
+                  "name": "Mau Temple",
+                  "text": "A sacred Mau temple in Lao Cai where the Holy Mothers of Vietnamese spiritual belief are worshipped.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965565,
+                        22.507289
+                  ]
+            },
+            {
+                  "name": "Coc Leu Church",
+                  "text": "A modern Catholic church in Lao Cai, notable for its architecture and striking bell tower in the Coc Leu border district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968215,
+                        22.500373
+                  ]
+            },
+            {
+                  "name": "Đền Cấm Lào Cai",
+                  "text": "A centuries-old temple in Lao Cai located at the foot of a mountain, used for worshipping local guardian spirits.",
+                  "category": "landmark",
+                  "coords": [
+                        103.977898,
+                        22.495211
+                  ]
+            },
+            {
+                  "name": "Cốc Lều B Market",
+                  "text": "The second part of Coc Leu Market, offering mainly food, spices, and fresh local produce.",
+                  "category": "cultural",
+                  "coords": [
+                        103.968278,
+                        22.501361
+                  ]
+            },
+            {
+                  "name": "Chợ du lịch Lào Cai",
+                  "text": "A modern tourism market in Lao Cai carrying souvenirs, jewelry, and traditional crafts from local hill tribes.",
+                  "category": "cultural",
+                  "coords": [
+                        103.975655,
+                        22.493878
+                  ]
+            },
+            {
+                  "name": "Chợ Kim Tân",
+                  "text": "A local market in Kim Tan neighborhood where residents buy daily fresh vegetables and meat from surrounding villages.",
+                  "category": "cultural",
+                  "coords": [
+                        103.973954,
+                        22.474617
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "VN-LC",
     coords: [103.968, 22.508],
@@ -626,7 +8060,988 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["Un poste frontière et un centre commercial importants entre le Vietnam et la province du Yunnan en Chine.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/lao-cai-border-gate-economic-v2.webp"},
   {
-    id: "mong-cai-border-gate-economic-v2",
+    id: "mong-cai-border-gate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bãi Đá Đen",
+                  "text": "Ein zerklüfteter Strand bei Móng Cái, der für seine dunklen Steine und den Blick auf das offene Meer bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        107.977716,
+                        21.437045
+                  ]
+            },
+            {
+                  "name": "Biểu tượng du lịch ngã ba Trà Cổ",
+                  "text": "Ein großes Monument an einer Kreuzung, das den Weg zum historischen Strand von Trà Cổ markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.011721,
+                        21.483943
+                  ]
+            },
+            {
+                  "name": "Libi Shoal",
+                  "text": "Eine Sandbank nahe der Grenze, die bei Ebbe im Golf von Tonkin aus dem Meer auftaucht.",
+                  "category": "landmark",
+                  "coords": [
+                        107.924774,
+                        21.585875
+                  ]
+            },
+            {
+                  "name": "c Lu",
+                  "text": "Diese 2017 eröffnete moderne Brücke verbindet Móng Cái direkt mit dem chinesischen Dongxing.",
+                  "category": "landmark",
+                  "coords": [
+                        107.992729,
+                        21.547645
+                  ]
+            },
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "Ein modernes Freizeitzentrum in der Grenzstadt Móng Cái mit großen Schwimmbecken und Wasserrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974125,
+                        21.522487
+                  ]
+            },
+            {
+                  "name": "Đền Xã Tắc",
+                  "text": "Ein alter Tempel an der Grenze, der den Geistern der Erde und des Getreides gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965303,
+                        21.533802
+                  ]
+            },
+            {
+                  "name": "c Lu",
+                  "text": "Die historische Brücke über den Fluss Ka Long ist der zentrale internationale Grenzübergang nach China.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968597,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Bãi Trà Cổ",
+                  "text": "Ein 17 Kilometer langer Sandstrand, der als der längste und naturbelassenste Strand Nordvietnams gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        108.048682,
+                        21.483097
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Linh Khánh",
+                  "text": "Eine friedliche Pagode in Küstennähe mit traditionellen vietnamesischen Tempelbauten und Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        108.012815,
+                        21.476853
+                  ]
+            },
+            {
+                  "name": "Chùa Xuân Lan",
+                  "text": "Eine ruhige Pagode in Móng Cái, in der sich Gläubige inmitten einer gepflegten Gartenanlage zum Gebet treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        107.979173,
+                        21.514606
+                  ]
+            },
+            {
+                  "name": "Đình làng Tràng Vĩ",
+                  "text": "Ein dörfliches Gemeinschaftshaus am Meer, in dem Ahnenfeste und maritime Zeremonien abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        108.053592,
+                        21.490906
+                  ]
+            },
+            {
+                  "name": "Đình Trà Cổ",
+                  "text": "Ein prächtiges Gemeindehaus aus dem 16. Jahrhundert mit kunstvollen Holzschnitzereien der Lê-Dynastie.",
+                  "category": "landmark",
+                  "coords": [
+                        108.015686,
+                        21.477084
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Ninh",
+                  "text": "Eine abgelegene buddhistische Pagode in Vạn Ninh, die ein wichtiges Zentrum des lokalen Glaubenslebens ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.943068,
+                        21.477772
+                  ]
+            },
+            {
+                  "name": "Đền Thiên Hậu Thánh Mẫu",
+                  "text": "Dieser vietnamesische Tempel in Grenznähe ist der Meeresgöttin Mẫu gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.019952,
+                        21.480272
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Xuân Ninh",
+                  "text": "Eine katholische Pfarrkirche in Móng Cái, die die lokale christliche Gemeinde an der Grenze bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.974006,
+                        21.506179
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Móng Cái",
+                  "text": "Diese christliche Kirche befindet sich im Stadtzentrum von Móng Cái unweit des Ka-Long-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        107.969659,
+                        21.519873
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Sơn",
+                  "text": "Eine buddhistische Pagode mit traditioneller Architektur und ruhigen Gärten in Grenznähe.",
+                  "category": "landmark",
+                  "coords": [
+                        107.928723,
+                        21.549683
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Ninh Dương",
+                  "text": "Die Pfarrkirche von Ninh Duong ist ein lokales christliches Wahrzeichen im Grenzbezirk von Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.955161,
+                        21.507706
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà cổ",
+                  "text": "Diese ikonische katholische Kirche im gotischen Stil wurde Anfang des 20. Jahrhunderts in Strandnähe erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        108.037993,
+                        21.486457
+                  ]
+            },
+            {
+                  "name": "Chợ số 4",
+                  "text": "Ein lokaler Marktplatz in Móng Cái, bekannt für den Handel mit Waren über die Grenze.",
+                  "category": "cultural",
+                  "coords": [
+                        107.9765,
+                        21.535805
+                  ]
+            },
+            {
+                  "name": "Chợ Hải Đông",
+                  "text": "Der Hai-Dong-Markt ist ein geschäftiges Handelszentrum für frische Produkte und lokale Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        107.887097,
+                        21.540363
+                  ]
+            },
+            {
+                  "name": "Chợ Togi",
+                  "text": "Ein lebhafter Marktplatz in Móng Cái, der sich auf Textilien und Grenzüberschreitende Konsumgüter spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        107.971889,
+                        21.532325
+                  ]
+            },
+            {
+                  "name": "Chợ số 3",
+                  "text": "Dieser Markt dient als wichtiger Knotenpunkt für den täglichen Bedarf der Bewohner im Grenzgebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        107.970541,
+                        21.532704
+                  ]
+            },
+            {
+                  "name": "Chợ số 2",
+                  "text": "Ein zentral gelegener Markt in Móng Cái, auf dem lokale Händler Waren aus Vietnam und China verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        107.969433,
+                        21.532
+                  ]
+            },
+            {
+                  "name": "Chợ Trung Tâm Móng Cái",
+                  "text": "Der Hauptmarkt von Móng Cái ist ein großes Handelszentrum für Import- und Exportwaren an der Grenze.",
+                  "category": "cultural",
+                  "coords": [
+                        107.968279,
+                        21.531274
+                  ]
+            },
+            {
+                  "name": "Chợ Thọ Xuân",
+                  "text": "Ein lokaler Markt im Tho-Xuan-Viertel, der für seine Auswahl an frischen Meeresfrüchten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        107.966413,
+                        21.518815
+                  ]
+            },
+            {
+                  "name": "Chợ Ka Long",
+                  "text": "Dieser Markt am Ufer des Ka-Long-Flusses ist ein wichtiger Punkt für den Grenzhandel.",
+                  "category": "cultural",
+                  "coords": [
+                        107.956619,
+                        21.529688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bãi Đá Đen",
+                  "text": "Sziklás tengerpart Móng Cái mellett, amely sötét köveiről és a nyílt tengerre nyíló kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        107.977716,
+                        21.437045
+                  ]
+            },
+            {
+                  "name": "Biểu tượng du lịch ngã ba Trà Cổ",
+                  "text": "Jellegzetes emlékmű egy útkereszteződésnél, amely a történelmi Trà Cổ tengerpart felé mutatja az utat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.011721,
+                        21.483943
+                  ]
+            },
+            {
+                  "name": "Libi Shoal",
+                  "text": "A tengerparti homokpad a határ közelében, amely apály idején bukkan elő a Tonkingi-öböl vízéből.",
+                  "category": "landmark",
+                  "coords": [
+                        107.924774,
+                        21.585875
+                  ]
+            },
+            {
+                  "name": "c Lu",
+                  "text": "Ez a 2017-ben megnyitott modern híd közvetlen összeköttetést biztosít Móng Cái és a kínai Dongxing között.",
+                  "category": "landmark",
+                  "coords": [
+                        107.992729,
+                        21.547645
+                  ]
+            },
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "Modern szabadidőközpont Móng Cái határvárosában, úszómedencékkel és vízi csúszdákkal felszerelve.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974125,
+                        21.522487
+                  ]
+            },
+            {
+                  "name": "Đền Xã Tắc",
+                  "text": "Ősi templom a határ mentén, amelyet a föld és a gabona szellemeinek tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965303,
+                        21.533802
+                  ]
+            },
+            {
+                  "name": "c Lu",
+                  "text": "A Ka Long-folyón átívelő történelmi híd, amely Kína felé az egyik legfontosabb nemzetközi határátkelő.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968597,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Bãi Trà Cổ",
+                  "text": "17 kilométer hosszú homokos part, amelyet Észak-Vietnám leghosszabb és legvadregényesebb strandjaként ismernek.",
+                  "category": "recreational",
+                  "coords": [
+                        108.048682,
+                        21.483097
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Linh Khánh",
+                  "text": "Békés buddhista pagoda a tengerpart közelében, hagyományos vietnámi templomkerttel és építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        108.012815,
+                        21.476853
+                  ]
+            },
+            {
+                  "name": "Chùa Xuân Lan",
+                  "text": "Nyugodt imádkozóhely Móng Cái-ban, ahol a hívők gondozott kertek között gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        107.979173,
+                        21.514606
+                  ]
+            },
+            {
+                  "name": "Đình làng Tràng Vĩ",
+                  "text": "Tengerközeli falusi közösségi ház, ahol a helyiek ősapáikról emlékeznek meg és tengeri ünnepeket tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        108.053592,
+                        21.490906
+                  ]
+            },
+            {
+                  "name": "Đình Trà Cổ",
+                  "text": "Pompás, 16. századi közösségi épület, amely a Lê-dinasztia korabeli míves fafaragásairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        108.015686,
+                        21.477084
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Ninh",
+                  "text": "Csendes buddhista pagoda Vạn Ninh faluban, amely a helyi vallási élet egyik fontos központja.",
+                  "category": "landmark",
+                  "coords": [
+                        107.943068,
+                        21.477772
+                  ]
+            },
+            {
+                  "name": "Đền Thiên Hậu Thánh Mẫu",
+                  "text": "Ez a vietnámi népi vallási templom a határ közelében Mẫu istennő tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        108.019952,
+                        21.480272
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Xuân Ninh",
+                  "text": "Móng Cái katolikus plébániatemploma, amely a határ menti keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        107.974006,
+                        21.506179
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Móng Cái",
+                  "text": "Ez a keresztény templom Móng Cái városközpontjában, a Ka Long-folyó közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        107.969659,
+                        21.519873
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Sơn",
+                  "text": "Hagyományos építészetű buddhista pagoda nyugodt kertekkel a határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        107.928723,
+                        21.549683
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Ninh Dương",
+                  "text": "Ninh Duong plébániatemploma helyi keresztény nevezetesség Móng Cái határmenti kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        107.955161,
+                        21.507706
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà cổ",
+                  "text": "Ez az ikonikus gótikus stílusú katolikus templom a 20. század elején épült a tengerpart közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        108.037993,
+                        21.486457
+                  ]
+            },
+            {
+                  "name": "Chợ số 4",
+                  "text": "Helyi piactér Móng Cáiban, amely a határon átnyúló árukereskedelemről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        107.9765,
+                        21.535805
+                  ]
+            },
+            {
+                  "name": "Chợ Hải Đông",
+                  "text": "A Hai Dong piac egy nyüzsgő kereskedelmi központ friss termékekkel és helyi háztartási cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        107.887097,
+                        21.540363
+                  ]
+            },
+            {
+                  "name": "Chợ Togi",
+                  "text": "Élénk piactér Móng Cáiban, amely textilekre és határon átnyúló fogyasztási cikkekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        107.971889,
+                        21.532325
+                  ]
+            },
+            {
+                  "name": "Chợ số 3",
+                  "text": "Ez a piac fontos központ a határ menti lakosok napi szükségleteinek ellátásában.",
+                  "category": "cultural",
+                  "coords": [
+                        107.970541,
+                        21.532704
+                  ]
+            },
+            {
+                  "name": "Chợ số 2",
+                  "text": "Központi fekvésű piac Móng Cáiban, ahol helyi kereskedők vietnámi és kínai árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        107.969433,
+                        21.532
+                  ]
+            },
+            {
+                  "name": "Chợ Trung Tâm Móng Cái",
+                  "text": "Móng Cái központi piaca az import- és exportcikkek nagy kereskedelmi központja a határon.",
+                  "category": "cultural",
+                  "coords": [
+                        107.968279,
+                        21.531274
+                  ]
+            },
+            {
+                  "name": "Chợ Thọ Xuân",
+                  "text": "Helyi piac Tho Xuan negyedében, amely a friss tenger gyümölcsei választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        107.966413,
+                        21.518815
+                  ]
+            },
+            {
+                  "name": "Chợ Ka Long",
+                  "text": "Ez a Ka Long-folyó partján fekvő piac a határ menti kereskedelem egyik kulcsfontosságú pontja.",
+                  "category": "cultural",
+                  "coords": [
+                        107.956619,
+                        21.529688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bãi Đá Đen",
+                  "text": "O plajă sălbatică lângă Móng Cái, caracterizată prin pietrele sale negre și vederea spre marea deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        107.977716,
+                        21.437045
+                  ]
+            },
+            {
+                  "name": "Biểu tượng du lịch ngã ba Trà Cổ",
+                  "text": "Un monument mare situat într-o intersecție, care marchează drumul către plaja istorică Trà Cổ.",
+                  "category": "landmark",
+                  "coords": [
+                        108.011721,
+                        21.483943
+                  ]
+            },
+            {
+                  "name": "Libi Shoal",
+                  "text": "Un banc de nisip de coastă lângă granița cu China, vizibil la reflux în Golful Tonkin.",
+                  "category": "landmark",
+                  "coords": [
+                        107.924774,
+                        21.585875
+                  ]
+            },
+            {
+                  "name": "c Lu",
+                  "text": "Un pod modern inaugurat în 2017, care leagă direct orașul Móng Cái de Dongxing din China.",
+                  "category": "landmark",
+                  "coords": [
+                        107.992729,
+                        21.547645
+                  ]
+            },
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "Un centru modern de recreere în orașul de frontieră Móng Cái, dotat cu piscine și tobogane de apă.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974125,
+                        21.522487
+                  ]
+            },
+            {
+                  "name": "Đền Xã Tắc",
+                  "text": "Un templu vechi situat lângă graniță, dedicat spiritelor pământului și ale grânelor.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965303,
+                        21.533802
+                  ]
+            },
+            {
+                  "name": "c Lu",
+                  "text": "Podul istoric peste râul Ka Long, care reprezintă un punct major de trecere internațională către China.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968597,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Bãi Trà Cổ",
+                  "text": "O plajă de nisip lungă de 17 kilometri, considerată cea mai lungă și sălbatică plajă din nordul Vietnamului.",
+                  "category": "recreational",
+                  "coords": [
+                        108.048682,
+                        21.483097
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Linh Khánh",
+                  "text": "O pagodă budistă liniștită lângă coastă, cu arhitectură tradițională vietnameză și grădini îngrijite.",
+                  "category": "landmark",
+                  "coords": [
+                        108.012815,
+                        21.476853
+                  ]
+            },
+            {
+                  "name": "Chùa Xuân Lan",
+                  "text": "Un loc de rugăciune liniștit în Móng Cái, unde credincioșii se adună în mijlocul unei grădini verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        107.979173,
+                        21.514606
+                  ]
+            },
+            {
+                  "name": "Đình làng Tràng Vĩ",
+                  "text": "O casă comunală sătească lângă mare, unde localnicii își onorează strămoșii prin festivaluri maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        108.053592,
+                        21.490906
+                  ]
+            },
+            {
+                  "name": "Đình Trà Cổ",
+                  "text": "O casă comunală magnifică din secolul al XVI-lea, cu sculpturi în lemn detaliate din epoca dinastiei Lê.",
+                  "category": "landmark",
+                  "coords": [
+                        108.015686,
+                        21.477084
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Ninh",
+                  "text": "O pagodă budistă retrasă în comuna Vạn Ninh, fiind un centru important al vieții religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        107.943068,
+                        21.477772
+                  ]
+            },
+            {
+                  "name": "Đền Thiên Hậu Thánh Mẫu",
+                  "text": "Acest templu popular vietnamez de lângă graniță este dedicat zeiței mării Mẫu.",
+                  "category": "landmark",
+                  "coords": [
+                        108.019952,
+                        21.480272
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Xuân Ninh",
+                  "text": "O biserică parohială catolică din Móng Cái care deservește comunitatea creștină locală de la graniță.",
+                  "category": "landmark",
+                  "coords": [
+                        107.974006,
+                        21.506179
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Móng Cái",
+                  "text": "Această biserică creștină este situată în centrul orașului Móng Cái, nu departe de râul Ka Long.",
+                  "category": "landmark",
+                  "coords": [
+                        107.969659,
+                        21.519873
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Sơn",
+                  "text": "O pagodă budistă cu arhitectură tradițională și grădini liniștite lângă graniță.",
+                  "category": "landmark",
+                  "coords": [
+                        107.928723,
+                        21.549683
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Ninh Dương",
+                  "text": "Biserica parohială din Ninh Duong este un reper creștin local în districtul de frontieră Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.955161,
+                        21.507706
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Trà cổ",
+                  "text": "Această biserică catolică iconică în stil gotic a fost construită la începutul secolului al XX-lea lângă plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.037993,
+                        21.486457
+                  ]
+            },
+            {
+                  "name": "Chợ số 4",
+                  "text": "O piață locală din Móng Cái, cunoscută pentru comerțul cu mărfuri peste graniță.",
+                  "category": "cultural",
+                  "coords": [
+                        107.9765,
+                        21.535805
+                  ]
+            },
+            {
+                  "name": "Chợ Hải Đông",
+                  "text": "Piața Hai Dong este un centru comercial plin de viață pentru produse proaspete și articole de uz casnic locale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.887097,
+                        21.540363
+                  ]
+            },
+            {
+                  "name": "Chợ Togi",
+                  "text": "O piață vibrantă din Móng Cái, specializată în textile și bunuri de larg consum transfrontaliere.",
+                  "category": "cultural",
+                  "coords": [
+                        107.971889,
+                        21.532325
+                  ]
+            },
+            {
+                  "name": "Chợ số 3",
+                  "text": "Această piață servește ca un nod important pentru nevoile zilnice ale locuitorilor din zona de frontieră.",
+                  "category": "cultural",
+                  "coords": [
+                        107.970541,
+                        21.532704
+                  ]
+            },
+            {
+                  "name": "Chợ số 2",
+                  "text": "O piață situată central în Móng Cái, unde comercianții locali vând mărfuri din Vietnam și China.",
+                  "category": "cultural",
+                  "coords": [
+                        107.969433,
+                        21.532
+                  ]
+            },
+            {
+                  "name": "Chợ Trung Tâm Móng Cái",
+                  "text": "Piața Centrală din Móng Cái este un centru comercial major pentru bunuri de import și export la graniță.",
+                  "category": "cultural",
+                  "coords": [
+                        107.968279,
+                        21.531274
+                  ]
+            },
+            {
+                  "name": "Chợ Thọ Xuân",
+                  "text": "O piață locală din cartierul Tho Xuan, cunoscută pentru selecția sa de fructe de mare proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        107.966413,
+                        21.518815
+                  ]
+            },
+            {
+                  "name": "Chợ Ka Long",
+                  "text": "Această piață de pe malul râului Ka Long este un punct cheie pentru comerțul de frontieră.",
+                  "category": "cultural",
+                  "coords": [
+                        107.956619,
+                        21.529688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Da Den Beach",
+                  "text": "A rugged beach in Mong Cai characterized by its dark stones and views of the open sea.",
+                  "category": "recreational",
+                  "coords": [
+                        107.977716,
+                        21.437045
+                  ]
+            },
+            {
+                  "name": "Biểu tượng du lịch ngã ba Trà Cổ",
+                  "text": "A large landmark monument marking the junction leading to the historic Tra Co beach and border area.",
+                  "category": "landmark",
+                  "coords": [
+                        108.011721,
+                        21.483943
+                  ]
+            },
+            {
+                  "name": "Libi Shoal",
+                  "text": "A coastal sandbank near the Chinese border, visible during low tide in the Gulf of Tonkin.",
+                  "category": "landmark",
+                  "coords": [
+                        107.924774,
+                        21.585875
+                  ]
+            },
+            {
+                  "name": "Second Beilun Bridge",
+                  "text": "A modern cross-border bridge opened in 2017 connecting Mong Cai with Dongxing in China.",
+                  "category": "landmark",
+                  "coords": [
+                        107.992729,
+                        21.547645
+                  ]
+            },
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "A modern recreation center in the border city featuring swimming pools and family water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974125,
+                        21.522487
+                  ]
+            },
+            {
+                  "name": "Xa Tac Temple",
+                  "text": "An ancient temple near the border dedicated to the Earth and Grain deities of local spiritual life.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965303,
+                        21.533802
+                  ]
+            },
+            {
+                  "name": "Beilun Bridge",
+                  "text": "The historic bridge across the Ka Long River that serves as a key international crossing to China.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968597,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Tra Co Beach",
+                  "text": "A 17-kilometer long sandy beach, known for its wild beauty and being the longest in northern Vietnam.",
+                  "category": "recreational",
+                  "coords": [
+                        108.048682,
+                        21.483097
+                  ]
+            },
+            {
+                  "name": "Van Linh Khanh Pagoda",
+                  "text": "A serene Buddhist pagoda near the coast featuring traditional Vietnamese temple architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        108.012815,
+                        21.476853
+                  ]
+            },
+            {
+                  "name": "Xuan Lan Pagoda",
+                  "text": "A tranquil spiritual site in Mong Cai where local Buddhists gather for prayer in garden surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        107.979173,
+                        21.514606
+                  ]
+            },
+            {
+                  "name": "Trang Vi Village Temple",
+                  "text": "A village communal house near the sea where locals honor ancestors and hold coastal festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        108.053592,
+                        21.490906
+                  ]
+            },
+            {
+                  "name": "Tra Co Village Temple",
+                  "text": "A magnificent 16th-century communal house showcasing intricate wood carvings from the Le dynasty.",
+                  "category": "landmark",
+                  "coords": [
+                        108.015686,
+                        21.477084
+                  ]
+            },
+            {
+                  "name": "Chùa Vạn Ninh",
+                  "text": "A quiet Buddhist pagoda in the Van Ninh commune, serving as a center for local religious life.",
+                  "category": "landmark",
+                  "coords": [
+                        107.943068,
+                        21.477772
+                  ]
+            },
+            {
+                  "name": "Đền Thiên Hậu Thánh Mẫu",
+                  "text": "This Vietnamese folk temple near the border is dedicated to the sea goddess Mẫu.",
+                  "category": "landmark",
+                  "coords": [
+                        108.019952,
+                        21.480272
+                  ]
+            },
+            {
+                  "name": "Xuan Ninh Catholic Church",
+                  "text": "A Catholic parish church in Móng Cái serving the local Christian community near the border.",
+                  "category": "landmark",
+                  "coords": [
+                        107.974006,
+                        21.506179
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Móng Cái",
+                  "text": "This Christian church is located in the city center of Móng Cái, not far from the Ka Long River.",
+                  "category": "landmark",
+                  "coords": [
+                        107.969659,
+                        21.519873
+                  ]
+            },
+            {
+                  "name": "Linh Son Pagoda",
+                  "text": "A Buddhist pagoda featuring traditional architecture and quiet gardens near the border.",
+                  "category": "landmark",
+                  "coords": [
+                        107.928723,
+                        21.549683
+                  ]
+            },
+            {
+                  "name": "Ninh Duong Parish Church",
+                  "text": "Ninh Duong Parish Church is a local Christian landmark in the border district of Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.955161,
+                        21.507706
+                  ]
+            },
+            {
+                  "name": "Tra Co Catholic Church",
+                  "text": "This iconic Gothic-style Catholic church was built in the early 20th century near the beach.",
+                  "category": "landmark",
+                  "coords": [
+                        108.037993,
+                        21.486457
+                  ]
+            },
+            {
+                  "name": "Chợ số 4",
+                  "text": "A local marketplace in Móng Cái known for trading goods across the border.",
+                  "category": "cultural",
+                  "coords": [
+                        107.9765,
+                        21.535805
+                  ]
+            },
+            {
+                  "name": "Hai Dong Market",
+                  "text": "Hai Dong Market is a bustling trade hub for fresh produce and local household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        107.887097,
+                        21.540363
+                  ]
+            },
+            {
+                  "name": "Chợ Togi",
+                  "text": "A lively marketplace in Móng Cái specializing in textiles and cross-border consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        107.971889,
+                        21.532325
+                  ]
+            },
+            {
+                  "name": "Chợ số 3",
+                  "text": "This market serves as an important hub for the daily needs of residents in the border area.",
+                  "category": "cultural",
+                  "coords": [
+                        107.970541,
+                        21.532704
+                  ]
+            },
+            {
+                  "name": "Chợ số 2",
+                  "text": "A centrally located market in Móng Cái where local vendors sell goods from both Vietnam and China.",
+                  "category": "cultural",
+                  "coords": [
+                        107.969433,
+                        21.532
+                  ]
+            },
+            {
+                  "name": "Mong Cai Central Market",
+                  "text": "The main market of Móng Cái is a major trade center for import and export goods at the border.",
+                  "category": "cultural",
+                  "coords": [
+                        107.968279,
+                        21.531274
+                  ]
+            },
+            {
+                  "name": "Tho Xuan Market",
+                  "text": "A local market in the Tho Xuan area known for its variety of fresh seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        107.966413,
+                        21.518815
+                  ]
+            },
+            {
+                  "name": "Ka Long Market",
+                  "text": "This market on the banks of the Ka Long River is a key point for border trade.",
+                  "category": "cultural",
+                  "coords": [
+                        107.956619,
+                        21.529688
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "VN-QN",
     coords: [107.966, 21.522],
@@ -673,7 +9088,484 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["Un poste frontière très fréquenté avec la ville chinoise de Dongxing, qui constitue une plaque tournante majeure pour le commerce entre le Vietnam et la Chine.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/mong-cai-border-gate-economic-v2.webp"},
   {
-    id: "quang-ninh-coal-basin-economic-v2",
+    id: "quang-ninh-coal-basin-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "High long mountain",
+                  "text": "Ein markanter Bergrücken mit Aussicht über die weitläufigen Kohlebergbaugebiete der Provinz Quảng Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        107.245067,
+                        20.998861
+                  ]
+            },
+            {
+                  "name": "Núi Sư Tử",
+                  "text": "Dieser Berggipfel in Form eines hockenden Löwen überblickt die Küstenstadt und die umliegende Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        107.244281,
+                        20.982573
+                  ]
+            },
+            {
+                  "name": "Nhà Văn hóa Công Nhân Cẩm Phả",
+                  "text": "Ein großes Kulturhaus in Cẩm Phả, das als Theater- und Begegnungsstätte für die Bergbaufamilien dient.",
+                  "category": "cultural",
+                  "coords": [
+                        107.283851,
+                        21.01304
+                  ]
+            },
+            {
+                  "name": "Khu vui chơi thiếu niên nhi đồng",
+                  "text": "Ein lokaler Freizeitpark in Cẩm Phả mit Fahrgeschäften und Spielbereichen für Familien und Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        107.262231,
+                        21.009538
+                  ]
+            },
+            {
+                  "name": "Hàng Mã Bà Dung",
+                  "text": "Eine traditionelle Kultstätte, die lokalen Schutzgeistern gewidmet und mit bunten Opfergaben geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        107.27561,
+                        21.008647
+                  ]
+            },
+            {
+                  "name": "Đền Cao Lâm",
+                  "text": "Ein am Hang gelegener Volkstempel, in dem historische Persönlichkeiten und Schutzgottheiten geehrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        107.259049,
+                        21.017353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Cẩm Phả",
+                  "text": "Eine katholische Pfarrkirche im Zentrum der Bergbaustadt Cẩm Phả mit einem markanten Glockenturm.",
+                  "category": "landmark",
+                  "coords": [
+                        107.286912,
+                        21.010894
+                  ]
+            },
+            {
+                  "name": "Đền Đông Cuông Vọng Từ",
+                  "text": "Diese spirituelle Stätte ist den Muttergöttinnen gewidmet und pflegt die traditionelle Đạo-Mẫu-Verehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        107.260415,
+                        21.01167
+                  ]
+            },
+            {
+                  "name": "Chợ Suối Khoáng",
+                  "text": "Ein lokaler Markt in der Nähe der Thermalquellen, der frische Erzeugnisse und Waren des täglichen Bedarfs bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        107.194992,
+                        20.985191
+                  ]
+            },
+            {
+                  "name": "Chợ Km10 Quang Hanh",
+                  "text": "Ein Markt am Straßenrand bei Kilometer 10, der für regionale Spezialitäten und Snacks bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        107.209944,
+                        20.996805
+                  ]
+            },
+            {
+                  "name": "Chợ Ba Tầng",
+                  "text": "Ein mehrstöckiger Hallenmarkt in Cẩm Phả, der für seine Auswahl an Textilien und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        107.279121,
+                        21.012485
+                  ]
+            },
+            {
+                  "name": "Chợ Cẩm Thạch",
+                  "text": "Ein lebhafter Stadtteilmarkt, der das Bergbauviertel mit frischen Zutaten und Garküchen versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        107.256398,
+                        21.010412
+                  ]
+            },
+            {
+                  "name": "Yoko onsen",
+                  "text": "Ein luxuriöses Thermalbad im japanischen Stil, das die natürlichen Mineralquellen der Region nutzt.",
+                  "category": "natural",
+                  "coords": [
+                        107.202732,
+                        20.98234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "High long mountain",
+                  "text": "Kiemelkedő hegygerinc, ahonnan rálátás nyílik Quảng Ninh tartomány kiterjedt kőszénbányáira.",
+                  "category": "landmark",
+                  "coords": [
+                        107.245067,
+                        20.998861
+                  ]
+            },
+            {
+                  "name": "Núi Sư Tử",
+                  "text": "Guggoló oroszlánra emlékeztető hegycsúcs, amely a part menti városra és az öbölre néz.",
+                  "category": "natural",
+                  "coords": [
+                        107.244281,
+                        20.982573
+                  ]
+            },
+            {
+                  "name": "Nhà Văn hóa Công Nhân Cẩm Phả",
+                  "text": "Cẩm Phả nagy kulturális központja, amely színházi előadásokkal szolgálja a helyi bányászcsaládokat.",
+                  "category": "cultural",
+                  "coords": [
+                        107.283851,
+                        21.01304
+                  ]
+            },
+            {
+                  "name": "Khu vui chơi thiếu niên nhi đồng",
+                  "text": "Helyi vidámpark Cẩm Phả városában, ahol játékok és szabadidős terek várják a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        107.262231,
+                        21.009538
+                  ]
+            },
+            {
+                  "name": "Hàng Mã Bà Dung",
+                  "text": "Hagyományos kultuszhely a helyi szellemek tiszteletére, színes szertartási felajánlásokkal díszítve.",
+                  "category": "religious",
+                  "coords": [
+                        107.27561,
+                        21.008647
+                  ]
+            },
+            {
+                  "name": "Đền Cao Lâm",
+                  "text": "Domboldalra épült népi templom, ahol történelmi alakok és védőszellemek előtt tisztelegnek.",
+                  "category": "landmark",
+                  "coords": [
+                        107.259049,
+                        21.017353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Cẩm Phả",
+                  "text": "Cẩm Phả bányászvárosának központjában álló katolikus plébániatemplom, jellegzetes harangtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        107.286912,
+                        21.010894
+                  ]
+            },
+            {
+                  "name": "Đền Đông Cuông Vọng Từ",
+                  "text": "Az Anyaistennőknek szentelt spirituális helyszín, amely a hagyományos Đạo Mẫu vallást őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        107.260415,
+                        21.01167
+                  ]
+            },
+            {
+                  "name": "Chợ Suối Khoáng",
+                  "text": "Helyi piac a termálforrások közelében, ahol napi friss árut és helyi termékeket vásárolhatunk.",
+                  "category": "cultural",
+                  "coords": [
+                        107.194992,
+                        20.985191
+                  ]
+            },
+            {
+                  "name": "Chợ Km10 Quang Hanh",
+                  "text": "Útmenti piac a 10-es kilométernél, amely regionális falatokról és helyi specialitásokról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        107.209944,
+                        20.996805
+                  ]
+            },
+            {
+                  "name": "Chợ Ba Tầng",
+                  "text": "Többszintes fedett piac Cẩm Phả-ban, amely széles textil- és háztartásiáru-választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        107.279121,
+                        21.012485
+                  ]
+            },
+            {
+                  "name": "Chợ Cẩm Thạch",
+                  "text": "Élénk városrészi piac, amely friss alapanyagokkal és utcai étkezdékkel szolgálja a bányásznegyedet.",
+                  "category": "cultural",
+                  "coords": [
+                        107.256398,
+                        21.010412
+                  ]
+            },
+            {
+                  "name": "Yoko onsen",
+                  "text": "Luxus kategóriájú, japán stílusú termálfürdő, amely a környék természetes ásványvizeit hasznosítja.",
+                  "category": "natural",
+                  "coords": [
+                        107.202732,
+                        20.98234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "High long mountain",
+                  "text": "O creastă muntoasă proeminentă ce oferă vederi asupra peisajelor miniere de cărbune din provincia Quảng Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        107.245067,
+                        20.998861
+                  ]
+            },
+            {
+                  "name": "Núi Sư Tử",
+                  "text": "Un vârf de munte în formă de leu ghemuit, care domină orașul de coastă și golful din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        107.244281,
+                        20.982573
+                  ]
+            },
+            {
+                  "name": "Nhà Văn hóa Công Nhân Cẩm Phả",
+                  "text": "O casă de cultură mare în Cẩm Phả, cu un teatru construit pentru familiile de mineri din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        107.283851,
+                        21.01304
+                  ]
+            },
+            {
+                  "name": "Khu vui chơi thiếu niên nhi đồng",
+                  "text": "Un parc de distracții local în Cẩm Phả, cu atracții și spații de recreere pentru familii și copii.",
+                  "category": "recreational",
+                  "coords": [
+                        107.262231,
+                        21.009538
+                  ]
+            },
+            {
+                  "name": "Hàng Mã Bà Dung",
+                  "text": "Un lăcaș de cult tradițional dedicat spiritelor locale, decorat cu ofrande ceremoniale colorate.",
+                  "category": "religious",
+                  "coords": [
+                        107.27561,
+                        21.008647
+                  ]
+            },
+            {
+                  "name": "Đền Cao Lâm",
+                  "text": "Un templu popular situat pe un deal, unde sunt onorate figuri istorice și divinități protectoare.",
+                  "category": "landmark",
+                  "coords": [
+                        107.259049,
+                        21.017353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Cẩm Phả",
+                  "text": "O biserică parohială catolică din centrul orașului Cẩm Phả, remarcabilă prin turnul său cu clopot.",
+                  "category": "landmark",
+                  "coords": [
+                        107.286912,
+                        21.010894
+                  ]
+            },
+            {
+                  "name": "Đền Đông Cuông Vọng Từ",
+                  "text": "Un sit spiritual dedicat Zeițelor Mame, care păstrează tradiția locală de venerare Đạo Mẫu.",
+                  "category": "landmark",
+                  "coords": [
+                        107.260415,
+                        21.01167
+                  ]
+            },
+            {
+                  "name": "Chợ Suối Khoáng",
+                  "text": "O piață de cartier situată lângă izvoarele termale, oferind produse proaspete și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        107.194992,
+                        20.985191
+                  ]
+            },
+            {
+                  "name": "Chợ Km10 Quang Hanh",
+                  "text": "O piață la marginea drumului la kilometrul 10, cunoscută pentru gustări locale și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.209944,
+                        20.996805
+                  ]
+            },
+            {
+                  "name": "Chợ Ba Tầng",
+                  "text": "O piață interioară cu mai multe etaje în Cẩm Phả, renumită pentru varietatea de textile și articole casnice.",
+                  "category": "cultural",
+                  "coords": [
+                        107.279121,
+                        21.012485
+                  ]
+            },
+            {
+                  "name": "Chợ Cẩm Thạch",
+                  "text": "O piață vibrantă de cartier care deservește zona minieră cu ingrediente proaspete și mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        107.256398,
+                        21.010412
+                  ]
+            },
+            {
+                  "name": "Yoko onsen",
+                  "text": "Un complex termal de lux în stil japonez, care folosește izvoarele minerale naturale din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        107.202732,
+                        20.98234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "High long mountain",
+                  "text": "A prominent ridge offering views over the industrial coal mining landscapes of Quang Ninh province.",
+                  "category": "landmark",
+                  "coords": [
+                        107.245067,
+                        20.998861
+                  ]
+            },
+            {
+                  "name": "Su Tu Mountain",
+                  "text": "A mountain peak shaped like a crouching lion, overlooking the coastal city and the bay beyond.",
+                  "category": "natural",
+                  "coords": [
+                        107.244281,
+                        20.982573
+                  ]
+            },
+            {
+                  "name": "Nhà Văn hóa Công Nhân Cẩm Phả",
+                  "text": "A large community theatre and cultural hub built to serve the mining families of Cam Pha city.",
+                  "category": "cultural",
+                  "coords": [
+                        107.283851,
+                        21.01304
+                  ]
+            },
+            {
+                  "name": "Khu vui chơi thiếu niên nhi đồng",
+                  "text": "A local amusement park in Cam Pha featuring rides and recreational spaces for families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        107.262231,
+                        21.009538
+                  ]
+            },
+            {
+                  "name": "Hàng Mã Bà Dung",
+                  "text": "A traditional place of worship dedicated to local spirits, adorned with colorful ceremonial offerings.",
+                  "category": "religious",
+                  "coords": [
+                        107.27561,
+                        21.008647
+                  ]
+            },
+            {
+                  "name": "Đền Cao Lâm",
+                  "text": "A Vietnamese folk temple set against a hillside, honoring historical figures and tutelary deities.",
+                  "category": "landmark",
+                  "coords": [
+                        107.259049,
+                        21.017353
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Cẩm Phả",
+                  "text": "A Catholic parish church in the center of the mining city, featuring a distinctive bell tower.",
+                  "category": "landmark",
+                  "coords": [
+                        107.286912,
+                        21.010894
+                  ]
+            },
+            {
+                  "name": "Đền Đông Cuông Vọng Từ",
+                  "text": "A spiritual site dedicated to the Mother Goddesses, reflecting the local Dao Mau worship tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        107.260415,
+                        21.01167
+                  ]
+            },
+            {
+                  "name": "Chợ Suối Khoáng",
+                  "text": "A local neighborhood market selling daily goods and fresh produce near the area's thermal springs.",
+                  "category": "cultural",
+                  "coords": [
+                        107.194992,
+                        20.985191
+                  ]
+            },
+            {
+                  "name": "Chợ Km10 Quang Hanh",
+                  "text": "A roadside market at kilometer 10 where travelers stop for local snacks and regional specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        107.209944,
+                        20.996805
+                  ]
+            },
+            {
+                  "name": "Chợ Ba Tầng",
+                  "text": "A multi-story indoor market in Cam Pha known for its variety of textiles, clothing, and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        107.279121,
+                        21.012485
+                  ]
+            },
+            {
+                  "name": "Chợ Cẩm Thạch",
+                  "text": "A vibrant local market serving the residential mining neighborhood with fresh ingredients and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        107.256398,
+                        21.010412
+                  ]
+            },
+            {
+                  "name": "Yoko onsen",
+                  "text": "A luxury Japanese-style hot spring resort utilizing natural thermal mineral waters for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        107.202732,
+                        20.98234
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "VN-QN",
     coords: [107.199, 21.045],
@@ -720,7 +9612,952 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["La plus grande réserve de charbon du Vietnam, qui joue un rôle crucial dans le paysage énergétique et industriel du pays depuis plus d'un siècle.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/quang-ninh-coal-basin-economic-v2.webp"},
   {
-    id: "central-highlands-bauxite-mine-economic-v2",
+    id: "central-highlands-bauxite-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xóm 4 thôn 1",
+                  "text": "Ein lokaler Veranstaltungsort in der Hochlandgemeinde, der Unterhaltung und kulturelle Veranstaltungen für das nahegelegene Bergbaugebiet bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        107.902534,
+                        11.549333
+                  ]
+            },
+            {
+                  "name": "điểm 1",
+                  "text": "Dieser ländliche Veranstaltungsort dient der Bauxitbergbaugemeinde im zentralen Hochland mit lokalen Kulturaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            },
+            {
+                  "name": "Coffee and Tea farm",
+                  "text": "Besucher können die terrassenförmigen Hangplantagen des zentralen Hochlands erkunden, um zu sehen, wie lokaler Kaffee und Tee angebaut wird.",
+                  "category": "landmark",
+                  "coords": [
+                        107.87822,
+                        11.631091
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Liệt Sĩ Xã Bảo Lâm 1",
+                  "text": "Ein feierliches Denkmal zu Ehren der gefallenen Soldaten von Bao Lam, vor der Kulisse des zentralen Hochlands gelegen.",
+                  "category": "historical",
+                  "coords": [
+                        107.829915,
+                        11.626986
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Eine ruhige spirituelle Stätte inmitten der landwirtschaftlich geprägten Hochlandregion, die den lokalen Bauern und Bergarbeitern dient.",
+                  "category": "religious",
+                  "coords": [
+                        107.910284,
+                        11.549226
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ",
+                  "text": "Diese christliche Kirche ist ein zentraler Ort der Anbetung und des gemeinschaftlichen Zusammenkommens in der Roterde-Region des zentralen Hochlands.",
+                  "category": "landmark",
+                  "coords": [
+                        107.88669,
+                        11.525965
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Lam Sơn",
+                  "text": "Dieses katholische Gotteshaus, das der Pfarrei Lam Son dient, zeichnet sich durch seine besondere Architektur inmitten der Kaffeeplantagen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        107.814177,
+                        11.530549
+                  ]
+            },
+            {
+                  "name": "chùa pháp ấn",
+                  "text": "Diese oft in Bergnebel gehüllte Hochlandpagode bietet einen weiten Panoramablick auf die umliegenden Teeplantagen.",
+                  "category": "religious",
+                  "coords": [
+                        107.788099,
+                        11.534435
+                  ]
+            },
+            {
+                  "name": "nhà thờ Minh Rồng",
+                  "text": "Die Minh-Rong-Kirche verfügt über eine robuste strukturelle Gestaltung, die an das kühlere Klima des zentralen Hochlands angepasst ist.",
+                  "category": "religious",
+                  "coords": [
+                        107.835295,
+                        11.609393
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Tân Hà",
+                  "text": "Die Pfarrkirche Tan Ha bietet den lokalen katholischen Bewohnern des Hochlandbezirks spirituelle Begleitung und einen Gemeindesaal.",
+                  "category": "landmark",
+                  "coords": [
+                        107.778799,
+                        11.537515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hóa An",
+                  "text": "Inmitten der sanften landwirtschaftlichen Hügel gelegen, verfügt die Hoa-An-Kirche über ein markantes Kreuz, das die Gläubigen aus den umliegenden Tälern leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.860764,
+                        11.538165
+                  ]
+            },
+            {
+                  "name": "Chùa Lam Sơn",
+                  "text": "Ein friedlicher buddhistischer Tempel in Lam Son, wo Mönche ruhige Meditationsgärten inmitten der geschäftigen Wirtschaft des Hochlands pflegen.",
+                  "category": "landmark",
+                  "coords": [
+                        107.813031,
+                        11.534873
+                  ]
+            },
+            {
+                  "name": "Thánh thất Bảo Lộc",
+                  "text": "Dieser Cao-Dai-Tempel in Bao Loc zeigt die charakteristischen leuchtenden Farben der Religion und das Symbol des Göttlichen Auges auf seiner Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        107.817946,
+                        11.533661
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Bảo Lộc",
+                  "text": "Als zentrale katholische Pfarrkirche von Bao Loc ist ihr hoch aufragender Turm ein erkennbares Wahrzeichen im Herzen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.806211,
+                        11.542948
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Thanh Tâm",
+                  "text": "Diese dem Heiligen Herzen geweihte Pfarrkirche verfügt über große Buntglasfenster, die ihr friedliches Kirchenschiff beleuchten.",
+                  "category": "landmark",
+                  "coords": [
+                        107.789268,
+                        11.539834
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang",
+                  "text": "Die an einem Hochlandhang versteckte Linh-Quang-Pagode bietet Besuchern einen ruhigen Innenhof, der von ausgewachsenen Bodhi-Bäumen beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        107.768331,
+                        11.543351
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Thánh Mẫu Bảo Lộc",
+                  "text": "Diese Pfarrkirche der Heiligen Muttergottes versammelt die katholische Gemeinde von Bao Loc in einem geräumigen Heiligtum, das aus lokalem Hochlandstein erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        107.837185,
+                        11.56423
+                  ]
+            },
+            {
+                  "name": "Dòng Mến Thánh giá - Đà Lạt",
+                  "text": "Ein Kloster der Schwestern vom Heiligen Kreuz, in dem sich Nonnen in der lokalen Seelsorge und wohltätigen Missionen im Hochland engagieren.",
+                  "category": "landmark",
+                  "coords": [
+                        107.843379,
+                        11.552451
+                  ]
+            },
+            {
+                  "name": "Lộc Thanh",
+                  "text": "Die christliche Kirche in Loc Thanh dient als wichtiger spiritueller Anker für die Familien, die in der umliegenden Tee- und Bauxitindustrie von Bao Loc arbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        107.845087,
+                        11.54964
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Giuse",
+                  "text": "Diese kleinere, dem Heiligen Josef geweihte katholische Teilgemeinde bietet einen intimen Rahmen für den Gottesdienst im grünen zentralen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        107.857332,
+                        11.600406
+                  ]
+            },
+            {
+                  "name": "Chùa Hoa Nghiêm - Bảo Lâm",
+                  "text": "Der buddhistische Tempel Hoa Nghiem in Bao Lam heißt Praktizierende mit einem markanten Eingangstor und einer großen, friedlichen Buddhastatue willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        107.830719,
+                        11.619141
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Tân Rai",
+                  "text": "Die nahe den Bauxitabbaukomplexen gelegene Pfarrkirche Tan Rai wurde mit einer gewölbten Decke erbaut, um ihre Chorgesänge zu verstärken.",
+                  "category": "religious",
+                  "coords": [
+                        107.828497,
+                        11.632076
+                  ]
+            },
+            {
+                  "name": "chợ Tân Bùi",
+                  "text": "Ein lebendiger lokaler Markt, auf dem regionale Bauern frisch geerntetes Hochlandgemüse, Kaffeebohnen und Teeblätter verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        107.775475,
+                        11.529796
+                  ]
+            },
+            {
+                  "name": "Chợ Bảo Lộc",
+                  "text": "Dieses historische Handelszentrum von Bao Loc ist nach wie vor ein geschäftiges Labyrinth aus Ständen, die aromatische Berggewürze und regionale Textilien anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        107.81053,
+                        11.546696
+                  ]
+            },
+            {
+                  "name": "Chợ Lộc Quảng",
+                  "text": "Ein wichtiges Handelszentrum für den Bezirk Loc Quang mit Freiluftverkäufern, die Dinge des täglichen Bedarfs und frische Produkte aus dem zentralen Hochland verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        107.813122,
+                        11.610131
+                  ]
+            },
+            {
+                  "name": "Chợ Bảo Lâm",
+                  "text": "Der Hauptmarkt des Bezirks Bao Lam, auf dem die Einheimischen lautstark landwirtschaftliche Geräte und frische Hochlandernten handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        107.838577,
+                        11.627152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xóm 4 thôn 1",
+                  "text": "Egy helyi előadóhely a felvidéki közösségben, amely szórakoztató és kulturális eseményeket kínál a közeli bányakerületnek.",
+                  "category": "cultural",
+                  "coords": [
+                        107.902534,
+                        11.549333
+                  ]
+            },
+            {
+                  "name": "điểm 1",
+                  "text": "Ez a vidéki előadótér a közép-hegyvidéki bauxitbányász közösséget szolgálja ki helyi kulturális műsorokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            },
+            {
+                  "name": "Coffee and Tea farm",
+                  "text": "A látogatók felfedezhetik a Közép-hegyvidék teraszos hegyoldali ültetvényeit, és megfigyelhetik a helyi kávé és tea termesztését.",
+                  "category": "landmark",
+                  "coords": [
+                        107.87822,
+                        11.631091
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Liệt Sĩ Xã Bảo Lâm 1",
+                  "text": "Ünnepélyes emlékmű, amelyet Bảo Lâm elesett katonáinak szenteltek, a Közép-hegyvidék hátterében.",
+                  "category": "historical",
+                  "coords": [
+                        107.829915,
+                        11.626986
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Békés spirituális hely a mezőgazdasági felvidéki régióban, amely a helyi gazdálkodókat és bányászokat szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        107.910284,
+                        11.549226
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ",
+                  "text": "Ez a keresztény templom az istentisztelet és a közösségi összejövetelek központjaként áll a Közép-hegyvidék vörös talajú régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        107.88669,
+                        11.525965
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Lam Sơn",
+                  "text": "A Lam Sơn egyházközséget szolgáló katolikus istentiszteleti hely jellegzetes építészetével tűnik ki a kávéültetvények közül.",
+                  "category": "landmark",
+                  "coords": [
+                        107.814177,
+                        11.530549
+                  ]
+            },
+            {
+                  "name": "chùa pháp ấn",
+                  "text": "A gyakran hegyi ködbe burkolózó felvidéki pagoda lenyűgöző panorámát nyújt a környező teabirtokokra.",
+                  "category": "religious",
+                  "coords": [
+                        107.788099,
+                        11.534435
+                  ]
+            },
+            {
+                  "name": "nhà thờ Minh Rồng",
+                  "text": "A Minh Rồng templom masszív szerkezeti kialakítással rendelkezik, amely megfelel a Közép-hegyvidék hűvösebb éghajlatának.",
+                  "category": "religious",
+                  "coords": [
+                        107.835295,
+                        11.609393
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Tân Hà",
+                  "text": "A Tân Hà plébániatemplom spirituális útmutatást és közösségi termet biztosít a felvidéki kerület helyi katolikus lakosainak.",
+                  "category": "landmark",
+                  "coords": [
+                        107.778799,
+                        11.537515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hóa An",
+                  "text": "A lankás mezőgazdasági dombok között fekvő Hóa An templom kiemelkedő keresztjével iránymutatást nyújt a környező völgyekből érkező hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        107.860764,
+                        11.538165
+                  ]
+            },
+            {
+                  "name": "Chùa Lam Sơn",
+                  "text": "Békés buddhista templom Lam Sơnban, ahol a szerzetesek csendes meditációs kerteket tartanak fenn a nyüzsgő felvidéki gazdaság közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        107.813031,
+                        11.534873
+                  ]
+            },
+            {
+                  "name": "Thánh thất Bảo Lộc",
+                  "text": "Ez a cao đài templom Bảo Lộcban a vallás jellegzetes élénk színeit és az isteni szem szimbólumát mutatja be homlokzatán.",
+                  "category": "religious",
+                  "coords": [
+                        107.817946,
+                        11.533661
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Bảo Lộc",
+                  "text": "Bảo Lộc központi katolikus plébániatemplomaként magasba törő tornya felismerhető nevezetesség a város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        107.806211,
+                        11.542948
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Thanh Tâm",
+                  "text": "A Jézus Szívének szentelt plébániatemplom nagy ólomüveg ablakokkal rendelkezik, amelyek megvilágítják békés főhajóját.",
+                  "category": "landmark",
+                  "coords": [
+                        107.789268,
+                        11.539834
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang",
+                  "text": "A hegyoldalon megbúvó Linh Quang Pagoda egy csendes udvart kínál a látogatóknak, amelyet érett bódhifák árnyékolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        107.768331,
+                        11.543351
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Thánh Mẫu Bảo Lộc",
+                  "text": "Ez a Szent Anya plébániatemplom Bảo Lộc katolikus közösségét gyűjti össze egy tágas, helyi felvidéki kőből épült szentélyben.",
+                  "category": "religious",
+                  "coords": [
+                        107.837185,
+                        11.56423
+                  ]
+            },
+            {
+                  "name": "Dòng Mến Thánh giá - Đà Lạt",
+                  "text": "A Szent Kereszt Szerelmeseinek rendjéhez tartozó kolostor, ahol apácák helyi lelkipásztori munkát és felvidéki jótékonysági missziókat végeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        107.843379,
+                        11.552451
+                  ]
+            },
+            {
+                  "name": "Lộc Thanh",
+                  "text": "A Lộc Thanh keresztény templom fontos spirituális horgonyként szolgál a környező Bảo Lộc-i tea- és bauxitiparban dolgozó családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        107.845087,
+                        11.54964
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Giuse",
+                  "text": "A Szent Józsefnek szentelt kisebb katolikus alplébánia meghitt istentiszteleti környezetet biztosít a zöldellő Közép-hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        107.857332,
+                        11.600406
+                  ]
+            },
+            {
+                  "name": "Chùa Hoa Nghiêm - Bảo Lâm",
+                  "text": "A Bảo Lâm-i Hoa Nghiêm buddhista templom lenyűgöző bejárati kapuval és egy nagy, békés Buddha-szoborral várja a gyakorlókat.",
+                  "category": "landmark",
+                  "coords": [
+                        107.830719,
+                        11.619141
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Tân Rai",
+                  "text": "A bauxitbányászati komplexumok közelében fekvő Tân Rai plébániatemplom boltíves mennyezettel épült, hogy felerősítse a kórus énekét.",
+                  "category": "religious",
+                  "coords": [
+                        107.828497,
+                        11.632076
+                  ]
+            },
+            {
+                  "name": "chợ Tân Bùi",
+                  "text": "Egy nyüzsgő helyi piac, ahol a regionális gazdák frissen betakarított felvidéki zöldségeket, kávébabot és tealeveleket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        107.775475,
+                        11.529796
+                  ]
+            },
+            {
+                  "name": "Chợ Bảo Lộc",
+                  "text": "Bảo Lộc e történelmi kereskedelmi központja ma is nyüzsgő standok labirintusa, ahol aromás hegyi fűszereket és regionális textíliákat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        107.81053,
+                        11.546696
+                  ]
+            },
+            {
+                  "name": "Chợ Lộc Quảng",
+                  "text": "A Lộc Quảng negyed alapvető kereskedelmi központja, ahol szabadtéri árusok mindennapi cikkeket és friss közép-hegyvidéki termékeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        107.813122,
+                        11.610131
+                  ]
+            },
+            {
+                  "name": "Chợ Bảo Lâm",
+                  "text": "A Bảo Lâm kerület fő piaca, amely a mezőgazdasági szerszámokkal és friss felvidéki terményekkel kereskedő helyiek hangjától visszhangzik.",
+                  "category": "cultural",
+                  "coords": [
+                        107.838577,
+                        11.627152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xóm 4 thôn 1",
+                  "text": "O sală de spectacole locală situată în comunitatea montană, oferind divertisment și evenimente culturale pentru districtul minier din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        107.902534,
+                        11.549333
+                  ]
+            },
+            {
+                  "name": "điểm 1",
+                  "text": "Acest spațiu de spectacole rural servește comunitatea minieră de bauxită din Munții Centrali cu spectacole culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            },
+            {
+                  "name": "Coffee and Tea farm",
+                  "text": "Vizitatorii pot explora plantațiile terasate de pe dealurile din Munții Centrali pentru a vedea cum sunt cultivate cafeaua și ceaiul local.",
+                  "category": "landmark",
+                  "coords": [
+                        107.87822,
+                        11.631091
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Liệt Sĩ Xã Bảo Lâm 1",
+                  "text": "Un monument memorial solemn dedicat soldaților căzuți din Bao Lam, situat pe fundalul Munților Centrali.",
+                  "category": "historical",
+                  "coords": [
+                        107.829915,
+                        11.626986
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un loc spiritual senin ascuns în regiunea agricolă montană, care deservește fermierii și minerii locali.",
+                  "category": "religious",
+                  "coords": [
+                        107.910284,
+                        11.549226
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ",
+                  "text": "Această biserică creștină reprezintă un punct central de cult și adunare comunitară în regiunea cu sol roșu a Munților Centrali.",
+                  "category": "landmark",
+                  "coords": [
+                        107.88669,
+                        11.525965
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Lam Sơn",
+                  "text": "Deservind parohia Lam Son, acest lăcaș de cult catolic se distinge prin arhitectura sa aparte în mijlocul plantațiilor de cafea.",
+                  "category": "landmark",
+                  "coords": [
+                        107.814177,
+                        11.530549
+                  ]
+            },
+            {
+                  "name": "chùa pháp ấn",
+                  "text": "Adesea învăluită în ceață montană, această pagodă oferă vederi panoramice spectaculoase asupra plantațiilor de ceai din jur.",
+                  "category": "religious",
+                  "coords": [
+                        107.788099,
+                        11.534435
+                  ]
+            },
+            {
+                  "name": "nhà thờ Minh Rồng",
+                  "text": "Biserica Minh Rong prezintă un design structural robust, potrivit pentru climatul mai răcoros din Munții Centrali.",
+                  "category": "religious",
+                  "coords": [
+                        107.835295,
+                        11.609393
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Tân Hà",
+                  "text": "Biserica Parohială Tan Ha oferă îndrumare spirituală și o sală comunitară pentru rezidenții catolici locali din districtul montan.",
+                  "category": "landmark",
+                  "coords": [
+                        107.778799,
+                        11.537515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hóa An",
+                  "text": "Situată printre dealurile agricole ondulate, Biserica Hoa An are o cruce proeminentă care ghidează credincioșii din văile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        107.860764,
+                        11.538165
+                  ]
+            },
+            {
+                  "name": "Chùa Lam Sơn",
+                  "text": "Un templu budist liniștit în Lam Son, unde călugării mențin grădini de meditație senine în mijlocul economiei montane agitate.",
+                  "category": "landmark",
+                  "coords": [
+                        107.813031,
+                        11.534873
+                  ]
+            },
+            {
+                  "name": "Thánh thất Bảo Lộc",
+                  "text": "Acest templu caodaist din Bao Loc prezintă culorile strălucitoare specifice religiei și simbolul Ochiului Divin pe fațada sa.",
+                  "category": "religious",
+                  "coords": [
+                        107.817946,
+                        11.533661
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Bảo Lộc",
+                  "text": "Fiind biserica parohială catolică centrală din Bao Loc, turla sa impunătoare este un punct de reper recunoscut în inima orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        107.806211,
+                        11.542948
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Thanh Tâm",
+                  "text": "Dedicată Inimii Sacre, această biserică parohială are ferestre mari cu vitralii care luminează naosul său liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        107.789268,
+                        11.539834
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang",
+                  "text": "Ascunsă pe o pantă montană, Pagoda Linh Quang oferă vizitatorilor o curte liniștită umbrită de copaci bodhi maturi.",
+                  "category": "landmark",
+                  "coords": [
+                        107.768331,
+                        11.543351
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Thánh Mẫu Bảo Lộc",
+                  "text": "Această biserică parohială a Sfintei Mame adună comunitatea catolică din Bao Loc într-un sanctuar spațios construit cu piatră locală din munți.",
+                  "category": "religious",
+                  "coords": [
+                        107.837185,
+                        11.56423
+                  ]
+            },
+            {
+                  "name": "Dòng Mến Thánh giá - Đà Lạt",
+                  "text": "O mănăstire aparținând Iubitorilor Sfintei Cruci, unde călugărițele se implică în activități pastorale locale și misiuni caritabile în regiunea montană.",
+                  "category": "landmark",
+                  "coords": [
+                        107.843379,
+                        11.552451
+                  ]
+            },
+            {
+                  "name": "Lộc Thanh",
+                  "text": "Biserica creștină din Loc Thanh servește ca o ancoră spirituală vitală pentru familiile care lucrează în industriile locale de ceai și bauxită din Bao Loc.",
+                  "category": "landmark",
+                  "coords": [
+                        107.845087,
+                        11.54964
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Giuse",
+                  "text": "Dedicată Sfântului Iosif, această sub-parohie catolică mai mică oferă un cadru intim de cult în inima Munților Centrali înverziți.",
+                  "category": "landmark",
+                  "coords": [
+                        107.857332,
+                        11.600406
+                  ]
+            },
+            {
+                  "name": "Chùa Hoa Nghiêm - Bảo Lâm",
+                  "text": "Templul budist Hoa Nghiem din Bao Lam îi întâmpină pe practicanți cu o poartă de intrare impresionantă și o statuie mare și pașnică a lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        107.830719,
+                        11.619141
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Tân Rai",
+                  "text": "Situată lângă complexele de extracție a bauxitei, Biserica Parohială Tan Rai este construită cu un tavan boltit pentru a-și amplifica imnurile corale.",
+                  "category": "religious",
+                  "coords": [
+                        107.828497,
+                        11.632076
+                  ]
+            },
+            {
+                  "name": "chợ Tân Bùi",
+                  "text": "O piață locală vibrantă unde fermierii regionali vând legume proaspăt recoltate la munte, boabe de cafea și frunze de ceai.",
+                  "category": "cultural",
+                  "coords": [
+                        107.775475,
+                        11.529796
+                  ]
+            },
+            {
+                  "name": "Chợ Bảo Lộc",
+                  "text": "Acest centru comercial istoric din Bao Loc rămâne un labirint plin de viață de tarabe care oferă condimente aromate de munte și textile regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.81053,
+                        11.546696
+                  ]
+            },
+            {
+                  "name": "Chợ Lộc Quảng",
+                  "text": "Un centru comercial esențial pentru cartierul Loc Quang, având vânzători în aer liber care comercializează necesități zilnice și produse proaspete din Munții Centrali.",
+                  "category": "cultural",
+                  "coords": [
+                        107.813122,
+                        11.610131
+                  ]
+            },
+            {
+                  "name": "Chợ Bảo Lâm",
+                  "text": "Piața principală a districtului Bao Lam, răsunând de vocile localnicilor care tranzacționează unelte agricole și recolte montane proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        107.838577,
+                        11.627152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xóm 4 thôn 1",
+                  "text": "A local performance venue situated in the highland community, providing entertainment and cultural events for the nearby mining district.",
+                  "category": "cultural",
+                  "coords": [
+                        107.902534,
+                        11.549333
+                  ]
+            },
+            {
+                  "name": "điểm 1",
+                  "text": "This rural performance space serves the Central Highlands bauxite mining community with local cultural shows.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            },
+            {
+                  "name": "Coffee and Tea farm",
+                  "text": "Visitors can explore the terraced hillside plantations of the Central Highlands to see how local coffee and tea are cultivated.",
+                  "category": "landmark",
+                  "coords": [
+                        107.87822,
+                        11.631091
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm Liệt Sĩ Xã Bảo Lâm 1",
+                  "text": "A solemn memorial structure dedicated to the fallen soldiers of Bao Lam, set against the backdrop of the Central Highlands.",
+                  "category": "historical",
+                  "coords": [
+                        107.829915,
+                        11.626986
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A serene spiritual site tucked within the agricultural highland region, serving the local farming and mining workers.",
+                  "category": "religious",
+                  "coords": [
+                        107.910284,
+                        11.549226
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ",
+                  "text": "This Christian church stands as a focal point of worship and community gathering in the red-soil region of the Central Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        107.88669,
+                        11.525965
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Lam Sơn",
+                  "text": "Serving the Lam Son parish, this Catholic place of worship is distinguished by its distinct architecture amidst the coffee plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        107.814177,
+                        11.530549
+                  ]
+            },
+            {
+                  "name": "chùa pháp ấn",
+                  "text": "Often enshrouded in mountain mist, this highland pagoda offers sweeping panoramic views of the surrounding tea estates.",
+                  "category": "religious",
+                  "coords": [
+                        107.788099,
+                        11.534435
+                  ]
+            },
+            {
+                  "name": "nhà thờ Minh Rồng",
+                  "text": "The Minh Rong church features a robust structural design suited to the cooler climate of the Central Highlands.",
+                  "category": "religious",
+                  "coords": [
+                        107.835295,
+                        11.609393
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Tân Hà",
+                  "text": "The Tan Ha Parish Church provides spiritual guidance and a community hall for the local Catholic residents of the highland district.",
+                  "category": "landmark",
+                  "coords": [
+                        107.778799,
+                        11.537515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Hóa An",
+                  "text": "Set among the rolling agricultural hills, the Hoa An Church features a prominent cross that guides worshippers from the surrounding valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        107.860764,
+                        11.538165
+                  ]
+            },
+            {
+                  "name": "Chùa Lam Sơn",
+                  "text": "A peaceful Buddhist temple in Lam Son where monks maintain serene meditation gardens amidst the bustling highland economy.",
+                  "category": "landmark",
+                  "coords": [
+                        107.813031,
+                        11.534873
+                  ]
+            },
+            {
+                  "name": "Thánh thất Bảo Lộc",
+                  "text": "This Caodaist temple in Bao Loc showcases the religion's signature bright colors and the Divine Eye symbol on its facade.",
+                  "category": "religious",
+                  "coords": [
+                        107.817946,
+                        11.533661
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Bảo Lộc",
+                  "text": "As the central Catholic parish church of Bao Loc, its towering spire is a recognizable landmark in the heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        107.806211,
+                        11.542948
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Thanh Tâm",
+                  "text": "Dedicated to the Sacred Heart, this parish church features large stained-glass windows illuminating its peaceful nave.",
+                  "category": "landmark",
+                  "coords": [
+                        107.789268,
+                        11.539834
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang",
+                  "text": "Tucked away on a highland slope, the Linh Quang Pagoda offers visitors a quiet courtyard shaded by mature bodhi trees.",
+                  "category": "landmark",
+                  "coords": [
+                        107.768331,
+                        11.543351
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Thánh Mẫu Bảo Lộc",
+                  "text": "This Holy Mother parish church gathers the Catholic community of Bao Loc in a spacious sanctuary built with local highland stone.",
+                  "category": "religious",
+                  "coords": [
+                        107.837185,
+                        11.56423
+                  ]
+            },
+            {
+                  "name": "Dòng Mến Thánh giá - Đà Lạt",
+                  "text": "A convent belonging to the Lovers of the Holy Cross, where nuns engage in local pastoral work and highland charity missions.",
+                  "category": "landmark",
+                  "coords": [
+                        107.843379,
+                        11.552451
+                  ]
+            },
+            {
+                  "name": "Lộc Thanh",
+                  "text": "The Loc Thanh Christian church serves as a vital spiritual anchor for the families working in the surrounding Bao Loc tea and bauxite industries.",
+                  "category": "landmark",
+                  "coords": [
+                        107.845087,
+                        11.54964
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Giuse",
+                  "text": "Dedicated to St. Joseph, this smaller Catholic sub-parish provides an intimate worship setting within the verdant Central Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        107.857332,
+                        11.600406
+                  ]
+            },
+            {
+                  "name": "Chùa Hoa Nghiêm - Bảo Lâm",
+                  "text": "The Hoa Nghiem Buddhist temple in Bao Lam welcomes practitioners with a striking entrance gate and a large, peaceful Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.830719,
+                        11.619141
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ Tân Rai",
+                  "text": "Positioned near the bauxite mining complexes, the Tan Rai Parish Church is built with a vaulted ceiling to amplify its choral hymns.",
+                  "category": "religious",
+                  "coords": [
+                        107.828497,
+                        11.632076
+                  ]
+            },
+            {
+                  "name": "chợ Tân Bùi",
+                  "text": "A vibrant local marketplace where regional farmers sell freshly harvested highland vegetables, coffee beans, and tea leaves.",
+                  "category": "cultural",
+                  "coords": [
+                        107.775475,
+                        11.529796
+                  ]
+            },
+            {
+                  "name": "Bao Loc's old market",
+                  "text": "This historic trading center of Bao Loc remains a bustling labyrinth of stalls offering aromatic mountain spices and regional textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        107.81053,
+                        11.546696
+                  ]
+            },
+            {
+                  "name": "Chợ Lộc Quảng",
+                  "text": "An essential commercial hub for the Loc Quang ward, featuring open-air vendors selling daily necessities and fresh Central Highlands produce.",
+                  "category": "cultural",
+                  "coords": [
+                        107.813122,
+                        11.610131
+                  ]
+            },
+            {
+                  "name": "Bao Lam Market",
+                  "text": "The primary market for the Bao Lam district, echoing with the sounds of locals trading agricultural tools and fresh highland crops.",
+                  "category": "cultural",
+                  "coords": [
+                        107.838577,
+                        11.627152
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "VN-DT",
     coords: [107.839, 11.593],
@@ -768,7 +10605,1240 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     },
   },
   {
-    id: "mekong-delta-rice-bowl-economic-v2",
+    id: "mekong-delta-rice-bowl-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cầu Cần Thơ",
+                  "text": "Die Cần Thơ-Brücke ist eine markante Schrägseilbrücke über den Hậu-Fluss, die das Mekong-Delta mit wichtigen Transportwegen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81016,
+                        10.032829
+                  ]
+            },
+            {
+                  "name": "Tarot Museum",
+                  "text": "Das Tarot Museum ist ein einzigartiger kultureller Ausstellungsraum in der Mekong-Delta-Region, der der Kunst und Geschichte der Tarotkarten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        105.783365,
+                        10.034813
+                  ]
+            },
+            {
+                  "name": "khám lớn Cần Thơ",
+                  "text": "Khám Lớn Cần Thơ ist ein ehemaliges koloniales Großgefängnis, das heute als historisches Museum die Erinnerung an die politischen Gefangenen der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        105.788308,
+                        10.036086
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 9",
+                  "text": "Das Museum der Militärregion 9 zeigt eine Sammlung von Militärfahrzeugen, Waffen und Artefakten, die die Kriegsgeschichte des Mekong-Deltas dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        105.785246,
+                        10.03608
+                  ]
+            },
+            {
+                  "name": "Bảo tàng thành phố Cần Thơ",
+                  "text": "Das Museum der Stadt Cần Thơ präsentiert das reiche kulturelle Erbe und die landwirtschaftliche Geschichte des Mekong-Deltas durch lebensgroße Dioramen und lokale Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        105.786818,
+                        10.034988
+                  ]
+            },
+            {
+                  "name": "Trung Tam Hoi Cho Trien Lam Can Tho",
+                  "text": "Das Messe- und Ausstellungszentrum Cần Thơ ist ein wichtiges regionales Zentrum für Kunst und Handel, in dem große kulturelle Ausstellungen und Handelsveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.789236,
+                        10.046077
+                  ]
+            },
+            {
+                  "name": "Nhà hát Tây Đô",
+                  "text": "Das Tây Đô Theater dient als kultureller Mittelpunkt im Mekong-Delta und zeigt traditionelle vietnamesische darstellende Kunst, Musik und lokale Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776473,
+                        10.036955
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Lạc",
+                  "text": "Chùa Pháp Lạc ist eine ruhige lokale Kultstätte im Mekong-Delta mit verzierten Altären, an denen sich Gläubige zum Gebet versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        105.757764,
+                        9.957048
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Hải Thượng Lãng Ông",
+                  "text": "Dieser Tempel ist Hải Thượng Lãn Ông gewidmet und ehrt den verehrten Gründervater der traditionellen vietnamesischen Medizin mit einem eigenen Heiligtum.",
+                  "category": "religious",
+                  "coords": [
+                        105.774431,
+                        10.049244
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tinh Lành VN ( chi hội cần thơ)",
+                  "text": "Der Zweig der Evangelischen Kirche von Vietnam in Cần Thơ bietet einen Versammlungsraum für die lokale protestantische Gemeinde im Mekong-Delta.",
+                  "category": "religious",
+                  "coords": [
+                        105.78217,
+                        10.040106
+                  ]
+            },
+            {
+                  "name": "TT Trị sự phật giáo Hòa Hảo Bình Minh",
+                  "text": "Dieses administrative und religiöse Zentrum in Bình Minh dient den Praktizierenden des Hòa Hảo-Buddhismus, einer indigenen religiösen Tradition des Mekong-Deltas.",
+                  "category": "religious",
+                  "coords": [
+                        105.806315,
+                        10.066118
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thạnh",
+                  "text": "Chùa Phước Thạnh ist ein traditioneller Tempel in der Mekong-Delta-Region, der mit klassischen buddhistischen Architekturmotiven und Statuen geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        105.754298,
+                        9.970959
+                  ]
+            },
+            {
+                  "name": "Khu Di Tích Lịch Sử Thành Phố Cần Thơ - Địa Điểm Chiến Thắng của Tiểu Đoàn Tây Đô Tại Rạch Ông Cửu 1968",
+                  "text": "Dieser historische Schrein markiert den Ort des Sieges des Tây Đô-Bataillons in Rạch Ông Cửu im Jahr 1968 und dient sowohl als Denkmal als auch als lokaler Ort der Verehrung.",
+                  "category": "religious",
+                  "coords": [
+                        105.75815,
+                        9.97108
+                  ]
+            },
+            {
+                  "name": "Chợ An Hòa",
+                  "text": "Der An Hòa Markt ist ein geschäftiger lokaler Handelsplatz im Mekong-Delta, auf dem Verkäufer frische Flussprodukte und Haushaltswaren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        105.772408,
+                        10.049164
+                  ]
+            },
+            {
+                  "name": "Siêu thị Vinmart+",
+                  "text": "Vinmart+ ist ein moderner Convenience-Supermarkt, der verpackte Lebensmittel, gekühlte Getränke und Dinge des täglichen Bedarfs für die Nachbarschaft anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        105.775705,
+                        10.034545
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Việt Châu",
+                  "text": "Der Trần Việt Châu Markt ist ein traditioneller vietnamesischer Frischmarkt mit Ständen, an denen frisches Fleisch, lokaler Fisch und saisonale Kräuter angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.767981,
+                        10.046034
+                  ]
+            },
+            {
+                  "name": "Công ty Cổ phần nông sản thực phẩm xuất khẩu Cần thơ",
+                  "text": "Diese große landwirtschaftliche Anlage verarbeitet und handelt mit Lebensmitteln in Exportqualität, die im fruchtbaren Mekong-Delta geerntet werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776882,
+                        10.039311
+                  ]
+            },
+            {
+                  "name": "Khu ăn uống chợ đêm bến Ninh Kiều",
+                  "text": "Der Open-Air-Nachtmarkt erwacht nach Einbruch der Dunkelheit zum Leben und bietet eine Reihe von brutzelndem vietnamesischem Streetfood und traditionellen Grillsnacks.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787568,
+                        10.031528
+                  ]
+            },
+            {
+                  "name": "Chợ Cần Thơ",
+                  "text": "Der Markt von Cần Thơ ist die zentrale Einkaufshalle der Stadt, die sich durch ihre geschwungene Dacharchitektur und eine große Auswahl an regionalem Kunsthandwerk und Textilien auszeichnet.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787093,
+                        10.028062
+                  ]
+            },
+            {
+                  "name": "Nhà Lồng 3",
+                  "text": "Der Marktpavillon 3 fungiert als spezialisierte überdachte Handelshalle, die dicht an dicht mit Ständen gefüllt ist, an denen lokale Kleidung, Souvenirs und Trockenwaren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        105.750666,
+                        10.005915
+                  ]
+            },
+            {
+                  "name": "Chợ An Lạc",
+                  "text": "Der An Lạc Markt ist ein kommerzielles Zentrum im Viertel, das die lokale Gemeinde mit Dingen des täglichen Bedarfs versorgt, von frischem Flussfang bis hin zu Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        105.783137,
+                        10.025673
+                  ]
+            },
+            {
+                  "name": "Chợ Hưng Lợi",
+                  "text": "Dieser belebte Markt im Bezirk Hưng Lợi ist ein zentraler Anlaufpunkt für den täglichen Lebensmitteleinkauf und bietet überfüllte Gänge mit frischen Produkten und Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        105.761707,
+                        10.023858
+                  ]
+            },
+            {
+                  "name": "Chợ Giáo Mẹo",
+                  "text": "Chợ Giáo Mẹo dient als intimer lokaler Basar, auf dem sich die Bewohner früh morgens versammeln, um frische Zutaten für regionale Mekong-Gerichte zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.865085,
+                        10.046497
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Vồn",
+                  "text": "Der Markt von Cái Vồn ist ein bedeutendes Handelszentrum in der Stadt Bình Minh und liegt in der Nähe des Flusses, um den Handel mit der reichhaltigen lokalen Landwirtschaft zu erleichtern.",
+                  "category": "cultural",
+                  "coords": [
+                        105.822719,
+                        10.065545
+                  ]
+            },
+            {
+                  "name": "Chợ Tạm Đông Bình",
+                  "text": "Dieser temporäre Markt in Đông Bình bietet einen Übergangsverkaufsraum für Kleinverkäufer, um frische Lebensmittel und Grundversorgungsgüter zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.825679,
+                        10.063355
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Hòa",
+                  "text": "Der Markt von Mỹ Hòa ist ein lebendiger ländlicher Handelsposten, an dem Bauern aus den umliegenden Gemeinden zusammenkommen, um ihre frisch geernteten Feldfrüchte zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.839049,
+                        10.024378
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Bình",
+                  "text": "Der Markt von Đông Bình ist eine etablierte Gemeindemarkthalle mit organisierten Ständen für Fleisch, Meeresfrüchte und farbenfrohe tropische Früchte.",
+                  "category": "cultural",
+                  "coords": [
+                        105.835368,
+                        10.044513
+                  ]
+            },
+            {
+                  "name": "Chợ Khu Công Nghiệp Bình Minh",
+                  "text": "Dieser belebte Markt neben dem Industriepark Bình Minh versorgt hauptsächlich Fabrikarbeiter mit schnellen Mahlzeiten und Lebensmitteln des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        105.828007,
+                        10.040698
+                  ]
+            },
+            {
+                  "name": "Chợ Nhà Hát",
+                  "text": "Dieser lebendige Handelsplatz, der wörtlich \"Theatermarkt\" heißt, ist in der Nähe der örtlichen Aufführungssäle eingerichtet, um die abendliche Laufkundschaft anzuziehen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.821616,
+                        10.067757
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Khế",
+                  "text": "Der Cai Khe Markt ist ein weitläufiges Handelszentrum in Cần Thơ mit ausgewiesenen Zonen für Großhandelsstoffe, Elektronik und einem großen Bereich für frische Lebensmittel.",
+                  "category": "cultural",
+                  "coords": [
+                        105.784484,
+                        10.043931
+                  ]
+            },
+            {
+                  "name": "Chợ An Cư",
+                  "text": "Der An Cư Markt dient seinem umliegenden Wohnviertel als zentraler Knotenpunkt für die Beschaffung täglicher Zutaten wie frischem Gemüse und lokal gefangenem Fisch.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781062,
+                        10.037612
+                  ]
+            },
+            {
+                  "name": "Chợ",
+                  "text": "Dieser generische ländliche Markttreffpunkt bietet Dorfbewohnern einen lokalen Raum, um wichtige Güter und saisonale Ernten aus dem Mekong auszutauschen.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781942,
+                        10.034555
+                  ]
+            },
+            {
+                  "name": "Cái Chanh",
+                  "text": "Cái Chanh ist ein lokaler Markt im Mekong-Delta, der die umliegenden ländlichen Gemeinden mit frischen Lebensmitteln und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760996,
+                        9.959036
+                  ]
+            },
+            {
+                  "name": "Chợ Xuân Khánh",
+                  "text": "Der Xuân Khánh Markt ist ein geschäftiger täglicher Markt im Mekong-Delta, der für seine große Auswahl an regionalem Gemüse und Fisch bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        105.77688,
+                        10.026606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cầu Cần Thơ",
+                  "text": "A Cần Thơ híd egy jelentős ferdekábeles híd a Hậu folyó felett, amely a Mekong-delta régióját köti össze a fontos közlekedési útvonalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81016,
+                        10.032829
+                  ]
+            },
+            {
+                  "name": "Tarot Museum",
+                  "text": "A Tarot Múzeum egy egyedülálló kulturális kiállítótér a Mekong-delta régióban, amelyet a tarot kártyák művészetének és történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        105.783365,
+                        10.034813
+                  ]
+            },
+            {
+                  "name": "khám lớn Cần Thơ",
+                  "text": "A Khám Lớn Cần Thơ egy egykori nagy gyarmati börtönből lett történelmi múzeum, amely a régió politikai foglyainak emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        105.788308,
+                        10.036086
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 9",
+                  "text": "A 9-es Katonai Régió Múzeuma katonai járművek, fegyverek és leletek gyűjteményét mutatja be, részletezve a Mekong-delta háborús történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        105.785246,
+                        10.03608
+                  ]
+            },
+            {
+                  "name": "Bảo tàng thành phố Cần Thơ",
+                  "text": "A Cần Thơ Városi Múzeum a Mekong-delta gazdag kulturális örökségét és mezőgazdasági történetét mutatja be életnagyságú diorámákon és helyi leleteken keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        105.786818,
+                        10.034988
+                  ]
+            },
+            {
+                  "name": "Trung Tam Hoi Cho Trien Lam Can Tho",
+                  "text": "A Cần Thơ Kiállítási és Vásárközpont egy jelentős regionális művészeti és kereskedelmi csomópont, amely nagyszabású kulturális kiállításoknak és kereskedelmi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        105.789236,
+                        10.046077
+                  ]
+            },
+            {
+                  "name": "Nhà hát Tây Đô",
+                  "text": "A Tây Đô Színház a Mekong-delta kulturális központjaként szolgál, hagyományos vietnámi drámai művészeteket, zenét és helyi színházi előadásokat állítva színpadra.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776473,
+                        10.036955
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Lạc",
+                  "text": "A Chùa Pháp Lạc egy nyugodt helyi imahely a Mekong-deltában, amely díszes oltárokkal rendelkezik, ahol a hívek imádkozni gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        105.757764,
+                        9.957048
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Hải Thượng Lãng Ông",
+                  "text": "Ezt a templomot Hải Thượng Lãn Ôngnak szentelték, tisztelegve a hagyományos vietnámi orvoslás tisztelt alapító atyja előtt egy külön szentéllyel.",
+                  "category": "religious",
+                  "coords": [
+                        105.774431,
+                        10.049244
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tinh Lành VN ( chi hội cần thơ)",
+                  "text": "A Vietnámi Evangélikus Egyház Cần Thơ-i ága közösségi gyülekezőhelyet biztosít a Mekong-delta helyi protestáns hívei számára.",
+                  "category": "religious",
+                  "coords": [
+                        105.78217,
+                        10.040106
+                  ]
+            },
+            {
+                  "name": "TT Trị sự phật giáo Hòa Hảo Bình Minh",
+                  "text": "Ez a Bình Minh-i adminisztratív és vallási központ a Hòa Hảo buddhizmus – a Mekong-delta egyik őslakos vallási hagyománya – gyakorlóit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        105.806315,
+                        10.066118
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thạnh",
+                  "text": "A Chùa Phước Thạnh egy hagyományos templom a Mekong-delta régiójában, amelyet klasszikus buddhista építészeti motívumok és szobrok díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        105.754298,
+                        9.970959
+                  ]
+            },
+            {
+                  "name": "Khu Di Tích Lịch Sử Thành Phố Cần Thơ - Địa Điểm Chiến Thắng của Tiểu Đoàn Tây Đô Tại Rạch Ông Cửu 1968",
+                  "text": "Ez a történelmi kegyhely a Tây Đô zászlóalj 1968-as Rạch Ông Cửu-i győzelmének helyszínét jelöli, amely emlékműként és helyi tiszteleti helyként egyaránt szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        105.75815,
+                        9.97108
+                  ]
+            },
+            {
+                  "name": "Chợ An Hòa",
+                  "text": "Az An Hòa Piac egy nyüzsgő helyi kereskedelmi csomópont a Mekong-deltában, ahol az árusok friss folyami termékeket és mindennapi háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.772408,
+                        10.049164
+                  ]
+            },
+            {
+                  "name": "Siêu thị Vinmart+",
+                  "text": "A Vinmart+ egy modern kényelmi szupermarket, amely csomagolt élelmiszereket, hűtött italokat és mindennapi szükségleti cikkeket biztosít a helyi környék számára.",
+                  "category": "cultural",
+                  "coords": [
+                        105.775705,
+                        10.034545
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Việt Châu",
+                  "text": "A Trần Việt Châu Piac egy hagyományos vietnámi nedves piac, ahol a standok friss húsokat, helyi halakat és szezonális fűszernövényeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.767981,
+                        10.046034
+                  ]
+            },
+            {
+                  "name": "Công ty Cổ phần nông sản thực phẩm xuất khẩu Cần thơ",
+                  "text": "Ez a nagyszabású mezőgazdasági létesítmény a termékeny Mekong-deltából betakarított, exportminőségű élelmiszerek feldolgozásával és kereskedelmével foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776882,
+                        10.039311
+                  ]
+            },
+            {
+                  "name": "Khu ăn uống chợ đêm bến Ninh Kiều",
+                  "text": "A szabadtéri éjszakai élelmiszerpiac szürkület után kel életre, a sercegő vietnámi utcai ételek és hagyományos grillezett snackek széles választékát kínálva.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787568,
+                        10.031528
+                  ]
+            },
+            {
+                  "name": "Chợ Cần Thơ",
+                  "text": "A Cần Thơ Piac a város központi bevásárlócsarnoka, amelyet ívelt tetőszerkezete és a regionális kézműves termékek, valamint textíliák széles választéka jellemez.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787093,
+                        10.028062
+                  ]
+            },
+            {
+                  "name": "Nhà Lồng 3",
+                  "text": "A 3-as Piacpavilon egy speciális beltéri kereskedelmi csarnokként működik, tele helyi ruházatot, ajándéktárgyakat és szárazárut árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        105.750666,
+                        10.005915
+                  ]
+            },
+            {
+                  "name": "Chợ An Lạc",
+                  "text": "Az An Lạc Piac egy környékbeli kereskedelmi központ, amely a helyi közösséget látja el mindennapi szükségletekkel, a friss folyami fogásoktól a háztartási cikkekig.",
+                  "category": "cultural",
+                  "coords": [
+                        105.783137,
+                        10.025673
+                  ]
+            },
+            {
+                  "name": "Chợ Hưng Lợi",
+                  "text": "A Hưng Lợi negyedben található ez a forgalmas piac, amely a mindennapi élelmiszer-vásárlás központja, friss termékekkel és húsokkal teli zsúfolt sorokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        105.761707,
+                        10.023858
+                  ]
+            },
+            {
+                  "name": "Chợ Giáo Mẹo",
+                  "text": "A Chợ Giáo Mẹo egy hangulatos helyi bazár, ahol a lakosok kora reggel gyűlnek össze, hogy friss alapanyagokat vásároljanak a regionális Mekong-ételekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        105.865085,
+                        10.046497
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Vồn",
+                  "text": "A Cái Vồn Piac egy jelentős kereskedelmi központ Bình Minh városában, amely a folyó közelében helyezkedik el, megkönnyítve a bőséges helyi mezőgazdasági termékek kereskedelmét.",
+                  "category": "cultural",
+                  "coords": [
+                        105.822719,
+                        10.065545
+                  ]
+            },
+            {
+                  "name": "Chợ Tạm Đông Bình",
+                  "text": "Ez a Đông Bình-i ideiglenes piac átmeneti kiskereskedelmi teret biztosít a kisárusok számára, hogy friss élelmiszereket és alapvető cikkeket áruljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.825679,
+                        10.063355
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Hòa",
+                  "text": "A Mỹ Hòa Piac egy nyüzsgő vidéki kereskedelmi állomás, ahol a környező települések gazdái gyűlnek össze, hogy eladják frissen betakarított terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        105.839049,
+                        10.024378
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Bình",
+                  "text": "A Đông Bình Piac egy bevett közösségi piaccsarnok, amely szervezett standokon kínál húsokat, tenger gyümölcseit és színes trópusi gyümölcsöket.",
+                  "category": "cultural",
+                  "coords": [
+                        105.835368,
+                        10.044513
+                  ]
+            },
+            {
+                  "name": "Chợ Khu Công Nghiệp Bình Minh",
+                  "text": "A Bình Minh Ipari Park mellett található forgalmas piac elsősorban a gyári munkásokat szolgálja ki gyorsételekkel és napi élelmiszerekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        105.828007,
+                        10.040698
+                  ]
+            },
+            {
+                  "name": "Chợ Nhà Hát",
+                  "text": "A szó szerint „Színház Piacnak” nevezett nyüzsgő kereskedelmi helyszínt a helyi előadótermek közelében alakították ki, hogy vonzza az esti gyalogosforgalmat.",
+                  "category": "cultural",
+                  "coords": [
+                        105.821616,
+                        10.067757
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Khế",
+                  "text": "A Cai Khe Piac egy kiterjedt kereskedelmi központ Cần Thơban, kijelölt zónákkal a nagykereskedelmi szövetek, az elektronika és egy nagy nedvespiac számára.",
+                  "category": "cultural",
+                  "coords": [
+                        105.784484,
+                        10.043931
+                  ]
+            },
+            {
+                  "name": "Chợ An Cư",
+                  "text": "Az An Cư Piac a környező lakónegyed központi csomópontjaként szolgál az olyan napi alapanyagok beszerzéséhez, mint a friss zöldségek és a helyben fogott halak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781062,
+                        10.037612
+                  ]
+            },
+            {
+                  "name": "Chợ",
+                  "text": "Ez az általános vidéki piactér helyi találkozóhelyet biztosít a falusiak számára, hogy elcseréljék az alapvető javakat és a Mekong szezonális terméseit.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781942,
+                        10.034555
+                  ]
+            },
+            {
+                  "name": "Cái Chanh",
+                  "text": "A Cái Chanh egy helyi piac a Mekong-deltában, amely friss élelmiszerekkel és napi szükségleti cikkekkel látja el a környező vidéki közösségeket.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760996,
+                        9.959036
+                  ]
+            },
+            {
+                  "name": "Chợ Xuân Khánh",
+                  "text": "A Xuân Khánh piac egy forgalmas napi piac a Mekong-deltában, amely a regionális zöldségek és halak széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        105.77688,
+                        10.026606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cầu Cần Thơ",
+                  "text": "Podul Cần Thơ este un pod hobanat proeminent peste râul Hậu, conectând regiunea Deltei Mekong cu rute de transport vitale.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81016,
+                        10.032829
+                  ]
+            },
+            {
+                  "name": "Tarot Museum",
+                  "text": "Muzeul Tarot este un spațiu expozițional cultural unic în regiunea Deltei Mekong, dedicat artei și istoriei cărților de tarot.",
+                  "category": "museum",
+                  "coords": [
+                        105.783365,
+                        10.034813
+                  ]
+            },
+            {
+                  "name": "khám lớn Cần Thơ",
+                  "text": "Khám Lớn Cần Thơ este o fostă mare închisoare colonială transformată în muzeu istoric, păstrând memoria deținuților politici din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        105.788308,
+                        10.036086
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 9",
+                  "text": "Muzeul Regiunii Militare 9 expune o colecție de vehicule militare, armament și artefacte care detaliază istoria de război a Deltei Mekong.",
+                  "category": "museum",
+                  "coords": [
+                        105.785246,
+                        10.03608
+                  ]
+            },
+            {
+                  "name": "Bảo tàng thành phố Cần Thơ",
+                  "text": "Muzeul orașului Cần Thơ prezintă bogata moștenire culturală și istoria agricolă a Deltei Mekong prin diorame în mărime naturală și artefacte locale.",
+                  "category": "museum",
+                  "coords": [
+                        105.786818,
+                        10.034988
+                  ]
+            },
+            {
+                  "name": "Trung Tam Hoi Cho Trien Lam Can Tho",
+                  "text": "Centrul de Expoziții și Târguri Cần Thơ este un centru regional major de artă și comerț care găzduiește expoziții culturale și evenimente comerciale pe scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        105.789236,
+                        10.046077
+                  ]
+            },
+            {
+                  "name": "Nhà hát Tây Đô",
+                  "text": "Teatrul Tây Đô servește drept punct focal cultural în Delta Mekongului, punând în scenă arte dramatice tradiționale vietnameze, muzică și spectacole de teatru locale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776473,
+                        10.036955
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Lạc",
+                  "text": "Chùa Pháp Lạc este un lăcaș de cult local și liniștit din Delta Mekongului, cu altare ornamentate unde credincioșii se adună pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        105.757764,
+                        9.957048
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Hải Thượng Lãng Ông",
+                  "text": "Acest templu este dedicat lui Hải Thượng Lãn Ông, onorând veneratul părinte fondator al medicinei tradiționale vietnameze cu un sanctuar dedicat.",
+                  "category": "religious",
+                  "coords": [
+                        105.774431,
+                        10.049244
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tinh Lành VN ( chi hội cần thơ)",
+                  "text": "Filiala din Cần Thơ a Bisericii Evanghelice din Vietnam oferă un spațiu de adunare comunitară pentru credincioșii protestanți locali din Delta Mekongului.",
+                  "category": "religious",
+                  "coords": [
+                        105.78217,
+                        10.040106
+                  ]
+            },
+            {
+                  "name": "TT Trị sự phật giáo Hòa Hảo Bình Minh",
+                  "text": "Acest centru administrativ și religios din Bình Minh servește practicanților budismului Hòa Hảo, o tradiție religioasă indigenă a Deltei Mekongului.",
+                  "category": "religious",
+                  "coords": [
+                        105.806315,
+                        10.066118
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thạnh",
+                  "text": "Chùa Phước Thạnh este un templu tradițional situat în regiunea Deltei Mekong, împodobit cu motive arhitecturale și statui budiste clasice.",
+                  "category": "religious",
+                  "coords": [
+                        105.754298,
+                        9.970959
+                  ]
+            },
+            {
+                  "name": "Khu Di Tích Lịch Sử Thành Phố Cần Thơ - Địa Điểm Chiến Thắng của Tiểu Đoàn Tây Đô Tại Rạch Ông Cửu 1968",
+                  "text": "Acest altar istoric marchează locul victoriei din 1968 a Batalionului Tây Đô la Rạch Ông Cửu, servind atât ca memorial, cât și ca loc local de reverență.",
+                  "category": "religious",
+                  "coords": [
+                        105.75815,
+                        9.97108
+                  ]
+            },
+            {
+                  "name": "Chợ An Hòa",
+                  "text": "Piața An Hòa este un centru comercial local plin de viață în Delta Mekongului, unde vânzătorii oferă produse proaspete din râu și bunuri de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        105.772408,
+                        10.049164
+                  ]
+            },
+            {
+                  "name": "Siêu thị Vinmart+",
+                  "text": "Vinmart+ este un supermarket modern de proximitate care oferă alimente ambalate, băuturi reci și necesități zilnice pentru cartierul local.",
+                  "category": "cultural",
+                  "coords": [
+                        105.775705,
+                        10.034545
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Việt Châu",
+                  "text": "Piața Trần Việt Châu este o piață tradițională vietnameză umedă, aliniată cu tarabe care expun bucăți de carne proaspătă, pește local și ierburi de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        105.767981,
+                        10.046034
+                  ]
+            },
+            {
+                  "name": "Công ty Cổ phần nông sản thực phẩm xuất khẩu Cần thơ",
+                  "text": "Această facilitate agricolă pe scară largă procesează și comercializează produse alimentare de calitate pentru export recoltate din fertila Deltă a Mekongului.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776882,
+                        10.039311
+                  ]
+            },
+            {
+                  "name": "Khu ăn uống chợ đêm bến Ninh Kiều",
+                  "text": "Piața alimentară de noapte în aer liber prinde viață după lăsarea întunericului, oferind o serie de preparate stradale vietnameze sfârâitoare și gustări tradiționale la grătar.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787568,
+                        10.031528
+                  ]
+            },
+            {
+                  "name": "Chợ Cần Thơ",
+                  "text": "Piața Cần Thơ este hala centrală de cumpărături a orașului, distinsă prin arhitectura acoperișului curbat și o selecție largă de obiecte de artizanat și textile regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787093,
+                        10.028062
+                  ]
+            },
+            {
+                  "name": "Nhà Lồng 3",
+                  "text": "Pavilionul Pieței 3 funcționează ca o hală comercială interioară specializată, plină cu tarabe care vând îmbrăcăminte locală, suveniruri și mărfuri uscate.",
+                  "category": "cultural",
+                  "coords": [
+                        105.750666,
+                        10.005915
+                  ]
+            },
+            {
+                  "name": "Chợ An Lạc",
+                  "text": "Piața An Lạc este un centru comercial de cartier care aprovizionează comunitatea locală cu produse esențiale de zi cu zi, de la pește proaspăt de râu la articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        105.783137,
+                        10.025673
+                  ]
+            },
+            {
+                  "name": "Chợ Hưng Lợi",
+                  "text": "Situată în cartierul Hưng Lợi, această piață aglomerată este un punct central pentru cumpărăturile zilnice de alimente, având culoare pline de produse proaspete și cărnuri.",
+                  "category": "cultural",
+                  "coords": [
+                        105.761707,
+                        10.023858
+                  ]
+            },
+            {
+                  "name": "Chợ Giáo Mẹo",
+                  "text": "Chợ Giáo Mẹo servește ca un bazar local intim unde locuitorii se adună dimineața devreme pentru a cumpăra ingrediente proaspete pentru preparatele regionale din Mekong.",
+                  "category": "cultural",
+                  "coords": [
+                        105.865085,
+                        10.046497
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Vồn",
+                  "text": "Piața Cái Vồn este un centru comercial semnificativ în orașul Bình Minh, poziționată lângă râu pentru a facilita comerțul cu produse agricole locale abundente.",
+                  "category": "cultural",
+                  "coords": [
+                        105.822719,
+                        10.065545
+                  ]
+            },
+            {
+                  "name": "Chợ Tạm Đông Bình",
+                  "text": "Această piață temporară din Đông Bình oferă un spațiu de vânzare cu amănuntul de tranziție pentru micii comercianți care vând alimente proaspete și provizii de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        105.825679,
+                        10.063355
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Hòa",
+                  "text": "Piața Mỹ Hòa este un punct comercial rural vibrant, unde fermierii din comunele învecinate converg pentru a-și vinde recoltele proaspăt culese.",
+                  "category": "cultural",
+                  "coords": [
+                        105.839049,
+                        10.024378
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Bình",
+                  "text": "Piața Đông Bình este o hală comunitară de piață consacrată, prezentând tarabe organizate dedicate cărnurilor, fructelor de mare și șirurilor colorate de fructe tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.835368,
+                        10.044513
+                  ]
+            },
+            {
+                  "name": "Chợ Khu Công Nghiệp Bình Minh",
+                  "text": "Situată lângă Parcul Industrial Bình Minh, această piață plină de viață servește în principal muncitorilor din fabrici cu mese rapide și alimente zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        105.828007,
+                        10.040698
+                  ]
+            },
+            {
+                  "name": "Chợ Nhà Hát",
+                  "text": "Numit literal „Piața Teatrului”, acest loc comercial vibrant este amenajat lângă sălile de spectacole locale pentru a atrage traficul pietonal de seară.",
+                  "category": "cultural",
+                  "coords": [
+                        105.821616,
+                        10.067757
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Khế",
+                  "text": "Piața Cai Khe este un centru comercial vast în Cần Thơ, cu zone desemnate pentru țesături cu ridicata, electronice și o secțiune mare de piață umedă.",
+                  "category": "cultural",
+                  "coords": [
+                        105.784484,
+                        10.043931
+                  ]
+            },
+            {
+                  "name": "Chợ An Cư",
+                  "text": "Piața An Cư servește cartierului său rezidențial ca un centru principal pentru achiziționarea de ingrediente zilnice, cum ar fi legume proaspete și pește prins local.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781062,
+                        10.037612
+                  ]
+            },
+            {
+                  "name": "Chợ",
+                  "text": "Acest punct generic de adunare a pieței rurale oferă un spațiu localizat pentru ca sătenii să facă schimb de bunuri esențiale și recolte sezoniere din Mekong.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781942,
+                        10.034555
+                  ]
+            },
+            {
+                  "name": "Cái Chanh",
+                  "text": "Cái Chanh este o piață locală din Delta Mekongului care aprovizionează comunitățile rurale din jur cu alimente proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760996,
+                        9.959036
+                  ]
+            },
+            {
+                  "name": "Chợ Xuân Khánh",
+                  "text": "Piața Xuân Khánh este o piață zilnică aglomerată din Delta Mekongului, cunoscută pentru selecția sa largă de legume și pește regional.",
+                  "category": "cultural",
+                  "coords": [
+                        105.77688,
+                        10.026606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cầu Cần Thơ",
+                  "text": "The Cần Thơ Bridge is a prominent cable-stayed bridge spanning the Hậu River, connecting the Mekong Delta region with vital transport routes.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81016,
+                        10.032829
+                  ]
+            },
+            {
+                  "name": "Tarot Museum",
+                  "text": "The Tarot Museum is a unique cultural exhibition space in the Mekong Delta region dedicated to the art and history of tarot cards.",
+                  "category": "museum",
+                  "coords": [
+                        105.783365,
+                        10.034813
+                  ]
+            },
+            {
+                  "name": "khám lớn Cần Thơ",
+                  "text": "Khám Lớn Cần Thơ is a former major colonial prison turned historical museum, preserving the memory of the region's political prisoners.",
+                  "category": "museum",
+                  "coords": [
+                        105.788308,
+                        10.036086
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 9",
+                  "text": "The Military Region 9 Museum displays a collection of military vehicles, weaponry, and artifacts detailing the wartime history of the Mekong Delta.",
+                  "category": "museum",
+                  "coords": [
+                        105.785246,
+                        10.03608
+                  ]
+            },
+            {
+                  "name": "Museum of Can Tho City",
+                  "text": "The Museum of Can Tho City showcases the rich cultural heritage and agricultural history of the Mekong Delta through life-sized dioramas and local artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        105.786818,
+                        10.034988
+                  ]
+            },
+            {
+                  "name": "Trung Tam Hoi Cho Trien Lam Can Tho",
+                  "text": "The Can Tho Exhibition and Fair Center is a major regional arts and commerce hub that hosts large-scale cultural exhibitions and trade events.",
+                  "category": "cultural",
+                  "coords": [
+                        105.789236,
+                        10.046077
+                  ]
+            },
+            {
+                  "name": "Nhà hát Tây Đô",
+                  "text": "Tây Đô Theatre serves as a cultural focal point in the Mekong Delta, staging traditional Vietnamese dramatic arts, music, and local theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776473,
+                        10.036955
+                  ]
+            },
+            {
+                  "name": "Chùa Pháp Lạc",
+                  "text": "Chùa Pháp Lạc is a tranquil local place of worship in the Mekong Delta featuring ornate altars where devotees gather for prayers.",
+                  "category": "religious",
+                  "coords": [
+                        105.757764,
+                        9.957048
+                  ]
+            },
+            {
+                  "name": "Đền Thờ Hải Thượng Lãng Ông",
+                  "text": "This temple is dedicated to Hải Thượng Lãn Ông, honoring the revered founding father of Vietnamese traditional medicine with a dedicated sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        105.774431,
+                        10.049244
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tinh Lành VN ( chi hội cần thơ)",
+                  "text": "The Can Tho branch of the Evangelical Church of Vietnam provides a community gathering space for local Protestant worshippers in the Mekong Delta.",
+                  "category": "religious",
+                  "coords": [
+                        105.78217,
+                        10.040106
+                  ]
+            },
+            {
+                  "name": "TT Trị sự phật giáo Hòa Hảo Bình Minh",
+                  "text": "This administrative and religious center in Bình Minh serves the practitioners of Hòa Hảo Buddhism, an indigenous religious tradition of the Mekong Delta.",
+                  "category": "religious",
+                  "coords": [
+                        105.806315,
+                        10.066118
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Thạnh",
+                  "text": "Chùa Phước Thạnh is a traditional temple nestled in the Mekong Delta region, adorned with classic Buddhist architectural motifs and statues.",
+                  "category": "religious",
+                  "coords": [
+                        105.754298,
+                        9.970959
+                  ]
+            },
+            {
+                  "name": "Khu Di Tích Lịch Sử Thành Phố Cần Thơ - Địa Điểm Chiến Thắng của Tiểu Đoàn Tây Đô Tại Rạch Ông Cửu 1968",
+                  "text": "This historical shrine marks the 1968 victory site of the Tây Đô Battalion at Rạch Ông Cửu, serving both as a memorial and a local place of reverence.",
+                  "category": "religious",
+                  "coords": [
+                        105.75815,
+                        9.97108
+                  ]
+            },
+            {
+                  "name": "Chợ An Hòa",
+                  "text": "An Hòa Market is a bustling local trading hub in the Mekong Delta where vendors sell fresh river produce and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.772408,
+                        10.049164
+                  ]
+            },
+            {
+                  "name": "Siêu thị Vinmart+",
+                  "text": "Vinmart+ is a modern convenience supermarket providing packaged groceries, chilled beverages, and daily necessities to the local neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        105.775705,
+                        10.034545
+                  ]
+            },
+            {
+                  "name": "Chợ Trần Việt Châu",
+                  "text": "Trần Việt Châu Market is a traditional Vietnamese wet market lined with stalls displaying fresh cuts of meat, local fish, and seasonal herbs.",
+                  "category": "cultural",
+                  "coords": [
+                        105.767981,
+                        10.046034
+                  ]
+            },
+            {
+                  "name": "Công ty Cổ phần nông sản thực phẩm xuất khẩu Cần thơ",
+                  "text": "This large-scale agricultural facility processes and trades export-quality food products harvested from the fertile Mekong Delta.",
+                  "category": "cultural",
+                  "coords": [
+                        105.776882,
+                        10.039311
+                  ]
+            },
+            {
+                  "name": "Night food market",
+                  "text": "The open-air Night Food Market comes alive after dusk, offering an array of sizzling Vietnamese street food and traditional grilled snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787568,
+                        10.031528
+                  ]
+            },
+            {
+                  "name": "Chợ Cần Thơ",
+                  "text": "Cần Thơ Market is the central shopping hall of the city, distinguished by its curved roof architecture and a wide selection of regional handicrafts and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        105.787093,
+                        10.028062
+                  ]
+            },
+            {
+                  "name": "Nhà Lồng 3",
+                  "text": "Market Pavilion 3 operates as a specialized indoor trading hall, packed tightly with stalls selling local garments, souvenirs, and dry goods.",
+                  "category": "cultural",
+                  "coords": [
+                        105.750666,
+                        10.005915
+                  ]
+            },
+            {
+                  "name": "Chợ An Lạc",
+                  "text": "An Lạc Market is a neighborhood commercial center supplying the local community with everyday essentials, from fresh river catch to household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        105.783137,
+                        10.025673
+                  ]
+            },
+            {
+                  "name": "Chợ Hưng Lợi",
+                  "text": "Located in the Hưng Lợi ward, this busy market is a focal point for daily grocery shopping, featuring crowded aisles of fresh produce and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        105.761707,
+                        10.023858
+                  ]
+            },
+            {
+                  "name": "Chợ Giáo Mẹo",
+                  "text": "Chợ Giáo Mẹo serves as an intimate local bazaar where residents gather early in the morning to purchase fresh ingredients for regional Mekong dishes.",
+                  "category": "cultural",
+                  "coords": [
+                        105.865085,
+                        10.046497
+                  ]
+            },
+            {
+                  "name": "Chợ Cái Vồn",
+                  "text": "Cái Vồn Market is a significant commercial hub in Bình Minh town, positioned near the river to facilitate the trade of abundant local agriculture.",
+                  "category": "cultural",
+                  "coords": [
+                        105.822719,
+                        10.065545
+                  ]
+            },
+            {
+                  "name": "Chợ Tạm Đông Bình",
+                  "text": "This temporary market setup in Đông Bình provides a transitional retail space for small-scale vendors to sell fresh groceries and basic supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        105.825679,
+                        10.063355
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Hòa",
+                  "text": "Mỹ Hòa Market is a vibrant rural trading post where farmers from surrounding communes converge to sell their freshly harvested crops.",
+                  "category": "cultural",
+                  "coords": [
+                        105.839049,
+                        10.024378
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Bình",
+                  "text": "Đông Bình Market is an established community market hall featuring organized stalls dedicated to meats, seafood, and colorful arrays of tropical fruit.",
+                  "category": "cultural",
+                  "coords": [
+                        105.835368,
+                        10.044513
+                  ]
+            },
+            {
+                  "name": "Chợ Khu Công Nghiệp Bình Minh",
+                  "text": "Situated next to the Bình Minh Industrial Park, this bustling market primarily serves factory workers with quick meals and daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        105.828007,
+                        10.040698
+                  ]
+            },
+            {
+                  "name": "Chợ Nhà Hát",
+                  "text": "Literally named \"Theater Market,\" this vibrant commercial spot is set up near the local performance halls to capture evening foot traffic.",
+                  "category": "cultural",
+                  "coords": [
+                        105.821616,
+                        10.067757
+                  ]
+            },
+            {
+                  "name": "Cho Cai Khe",
+                  "text": "Cai Khe Market is an expansive trading center in Can Tho with designated zones for wholesale fabrics, electronics, and a large wet market section.",
+                  "category": "cultural",
+                  "coords": [
+                        105.784484,
+                        10.043931
+                  ]
+            },
+            {
+                  "name": "Chợ An Cư",
+                  "text": "An Cư Market serves its surrounding residential ward as a central hub for procuring daily ingredients like fresh vegetables and locally caught fish.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781062,
+                        10.037612
+                  ]
+            },
+            {
+                  "name": "Chợ",
+                  "text": "This generic rural market gathering point provides a localized space for villagers to exchange essential goods and seasonal harvests from the Mekong.",
+                  "category": "cultural",
+                  "coords": [
+                        105.781942,
+                        10.034555
+                  ]
+            },
+            {
+                  "name": "Cái Chanh",
+                  "text": "Cái Chanh is a local marketplace in the Mekong Delta serving the surrounding rural communities with fresh food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760996,
+                        9.959036
+                  ]
+            },
+            {
+                  "name": "Xuân Khánh Market",
+                  "text": "The Xuân Khánh Market is a bustling daily market in the Mekong Delta, known for its wide selection of regional vegetables and fish.",
+                  "category": "cultural",
+                  "coords": [
+                        105.77688,
+                        10.026606
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VN-CT",
     coords: [105.78, 10.03],
@@ -815,7 +11885,1312 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["Le cœur agricole du Vietnam, qui produit plus de la moitié du riz du pays et est vital pour la sécurité alimentaire et les exportations.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/mekong-delta-rice-bowl-economic-v2.webp"},
   {
-    id: "dalat-agri-hub-economic-v2",
+    id: "dalat-agri-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crazy House",
+                  "text": "Dieses berühmt-bizarre Gästehaus und Museum besticht durch seine surreale, organische Architektur, die einem riesigen Baum mit Tierskulpturen und Höhlen ähnelt.",
+                  "category": "museum",
+                  "coords": [
+                        108.43067,
+                        11.934538
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Trúc Lâm",
+                  "text": "Dieser bedeutende Zen-buddhistische Klosterkomplex ist per Seilbahn erreichbar, überblickt den Tuyen Lam-See und ist von gepflegten Blumengärten umgeben.",
+                  "category": "religious",
+                  "coords": [
+                        108.435621,
+                        11.903632
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "Ein interaktives Trickart-Museum voller großflächiger 3D-Wandmalereien mit optischen Täuschungen für kreative Fotos.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "Dieser vielseitige Ausstellungsraum zeigt kuriose lokale Artefakte und Vintage-Gegenstände, die in einem rustikalen Ambiente arrangiert sind.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Modern castle's ruin",
+                  "text": "Die bröckelnden steinernen Überreste einer modernen Scheinburg stehen verlassen inmitten der überwucherten Vegetation des Berghangs.",
+                  "category": "castle",
+                  "coords": [
+                        108.413111,
+                        11.886553
+                  ]
+            },
+            {
+                  "name": "Museum Madam De Dalat",
+                  "text": "Ein Boutique-Museum, das das historische Ambiente und die eleganten persönlichen Sammlungen aus der französischen Kolonialzeit im Hochland bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        108.426253,
+                        11.946306
+                  ]
+            },
+            {
+                  "name": "Viện Khoa học sự sống (cơ sở 2)",
+                  "text": "Die Ausstellungshalle dieser wissenschaftlichen Einrichtung zeigt biologische Präparate und Forschungen zur einzigartigen Flora und Fauna der Hochebene.",
+                  "category": "museum",
+                  "coords": [
+                        108.421815,
+                        11.971253
+                  ]
+            },
+            {
+                  "name": "Bia Tưởng Niệm",
+                  "text": "Eine feierliche Gedenkstele, die zu Ehren der Gefallenen errichtet wurde und als Ort der stillen Einkehr und Erinnerung.",
+                  "category": "religious",
+                  "coords": [
+                        108.359608,
+                        11.997229
+                  ]
+            },
+            {
+                  "name": "Den Co Ba Cam Ly",
+                  "text": "Dieser kleine, farbenfrohe Schrein in der Nähe des Wasserfalls ist einem verehrten lokalen weiblichen Geist gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        108.41949,
+                        11.941315
+                  ]
+            },
+            {
+                  "name": "tượng mẹ quan âm",
+                  "text": "Eine ruhige, große Freiluftstatue der Göttin der Barmherzigkeit, Guan Yin, die Gläubige zum Gebet und für Opfergaben anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        108.424781,
+                        11.931198
+                  ]
+            },
+            {
+                  "name": "Đình Đà Lạt",
+                  "text": "Dieses traditionelle Gemeindehaus mit seinen geschnitzten Holzsäulen ist ein wichtiges Zentrum für Gemeinderituale und Ahnenverehrung.",
+                  "category": "religious",
+                  "coords": [
+                        108.433678,
+                        11.939898
+                  ]
+            },
+            {
+                  "name": "Đình Thiên Thành",
+                  "text": "Ein klassischer Dorftempel, der der Schutzgottheit gewidmet ist und mit traditionellen Bogentoren und Ziegeldächern erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        108.43208,
+                        11.940187
+                  ]
+            },
+            {
+                  "name": "Đền Tử sĩ",
+                  "text": "Dieser Schrein ehrt militärische Märtyrer und bietet einen feierlichen und hoch angesehenen Raum für nationale Gedenkfeiern.",
+                  "category": "religious",
+                  "coords": [
+                        108.410987,
+                        11.94048
+                  ]
+            },
+            {
+                  "name": "Chợ đêm Da Lat",
+                  "text": "Nach Einbruch der Dunkelheit verwandeln sich die Straßen in eine belebte Fußgängerzone, die für gegrilltes Streetfood, heiße Sojamilch und Wollkleidung bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        108.4371,
+                        11.942114
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Thành",
+                  "text": "Ein Obst- und Gemüsemarkt im Viertel, auf dem die Anwohner frisches Gemüse und wichtige Haushaltsartikel direkt an den Ständen kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        108.428071,
+                        11.942622
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "Dieses exzentrische, mehrstöckige Nachtlokal ist wie ein verworrenes Labyrinth aus gewundenen Treppen und wild dekorierten versteckten Räumen gestaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Lebendige, moderne Graffiti und bemalte Wandbilder bedecken die abfallenden Mauern des Viertels und verleihen der Bergstadt einen Hauch von urbaner Kreativität.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.943159
+                  ]
+            },
+            {
+                  "name": "Dinh III Bảo Đại",
+                  "text": "Diese elegante Art-déco-Villa aus den 1930er Jahren diente als Sommerpalast für Vietnams letzten Kaiser und verfügt über erhaltene königliche Wohnräume und französische Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        108.429674,
+                        11.930047
+                  ]
+            },
+            {
+                  "name": "Garnet Cellar Farden",
+                  "text": "Der Garnet Cellar Farden ist eine landwirtschaftliche Attraktion in der Region Da Lat, die Besuchern Einblicke in lokale Kellertraditionen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426294,
+                        11.91081
+                  ]
+            },
+            {
+                  "name": "Làng Cổ Tích",
+                  "text": "Làng Cổ Tích ist ein märchenhaft thematisiertes Dorf in den malerischen Bergen nahe Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.402978,
+                        11.948535
+                  ]
+            },
+            {
+                  "name": "Kho",
+                  "text": "Kho ist eine rustikale Attraktion, die das landwirtschaftliche Lagererbe des Agrarzentrums Da Lat widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.345089,
+                        11.922157
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Dieser malerische Wasserfall stürzt durch die üppige Hochlandvegetation der Region Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.37101,
+                        11.924195
+                  ]
+            },
+            {
+                  "name": "Skulpturen Tunnel",
+                  "text": "Die Lehmtunnel umfassen ein weitreichendes Netzwerk aus kunstvollen Basaltlehm-Skulpturen, die die Geschichte von Da Lat darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        108.411222,
+                        11.882871
+                  ]
+            },
+            {
+                  "name": "Infinity lake",
+                  "text": "Dieser moderne Infinity-See fügt sich nahtlos in die umliegenden kiefernbewachsenen Hügel von Da Lat ein.",
+                  "category": "landmark",
+                  "coords": [
+                        108.40997,
+                        11.883619
+                  ]
+            },
+            {
+                  "name": "Reo Có Gì",
+                  "text": "Reo Có Gì ist eine vielseitige Touristenattraktion inmitten der landwirtschaftlichen Landschaften außerhalb von Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412986,
+                        11.888349
+                  ]
+            },
+            {
+                  "name": "Đỉnh núi",
+                  "text": "Dieser markante Berggipfel bietet einen weiten Panoramablick über die terrassierten Farmen des Da Lat-Hochlands.",
+                  "category": "landmark",
+                  "coords": [
+                        108.440376,
+                        11.862586
+                  ]
+            },
+            {
+                  "name": "Vườn dâu Công nghệ cao Bình Yên",
+                  "text": "Der Binh Yen High-Tech Strawberry Garden präsentiert moderne landwirtschaftliche Methoden mit ordentlichen Reihen hydroponisch angebauter Beeren in Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.427149,
+                        11.948811
+                  ]
+            },
+            {
+                  "name": "Chùa A Dục Vương Thiền Viện Trúc Lâm Từ Nguyên",
+                  "text": "Der Asoka-Tempel ist ein ruhiges buddhistisches Heiligtum inmitten der friedlichen landwirtschaftlichen Randgebiete von Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.406913,
+                        11.98108
+                  ]
+            },
+            {
+                  "name": "Đình An Hòa",
+                  "text": "Đình An Hòa ist ein traditioneller vietnamesischer Volkstempel, der als spirituelles Zentrum für die lokale Bauerngemeinschaft in Da Lat dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434075,
+                        11.942354
+                  ]
+            },
+            {
+                  "name": "Gold Small Buddha",
+                  "text": "Der Gold Small Buddha ist ein glänzendes buddhistisches Denkmal, das einen Ort für ruhige Kontemplation im Hochland von Da Lat bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.418568,
+                        11.941383
+                  ]
+            },
+            {
+                  "name": "Minh Giáo Church",
+                  "text": "Die Minh Giáo Kirche ist ein markantes christliches Gotteshaus, das sich durch seine einfache Architektur inmitten der Agrarregion von Da Lat auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.423037,
+                        11.935011
+                  ]
+            },
+            {
+                  "name": "Tuệ Quang",
+                  "text": "Tue Quang ist ein friedlicher buddhistischer Rückzugsort, der sich in die üppige, bergige Topographie von Da Lat einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430175,
+                        11.953777
+                  ]
+            },
+            {
+                  "name": "Kỳ Viên",
+                  "text": "Ky Vien ist ein aktives buddhistisches Kloster, umgeben von den ruhigen ländlichen Landschaften außerhalb von Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43327,
+                        11.954581
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Đà",
+                  "text": "Das Ngoc Da Kloster besticht durch traditionelle asiatische buddhistische Architektur, eingebettet in die kühlen Kiefernwälder von Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.42486,
+                        11.959179
+                  ]
+            },
+            {
+                  "name": "Đình làng Đa Thành",
+                  "text": "Đình làng Đa Thành ist ein kommunaler vietnamesischer Volkstempel, der das Erbe der Ahnen in diesem landwirtschaftlichen Dorf bei Da Lat bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426116,
+                        11.965324
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Tâm",
+                  "text": "Nhà thờ Thánh Tâm ist eine christliche Kirche, deren hoch aufragender Glockenturm als Wahrzeichen in der Gegend von Da Lat dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430666,
+                        11.937461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crazy House",
+                  "text": "Ez a híresen bizarr vendégház és múzeum szürreális, organikus építészetet vonultat fel, amely egy hatalmas, szoborállatokkal és barlangokkal teli fára hasonlít.",
+                  "category": "museum",
+                  "coords": [
+                        108.43067,
+                        11.934538
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Trúc Lâm",
+                  "text": "A felvonóval is megközelíthető, Tuyen Lam-tóra néző nagy zen buddhista kolostorkomplexumot gondosan ápolt virágoskertek veszik körül.",
+                  "category": "religious",
+                  "coords": [
+                        108.435621,
+                        11.903632
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "Interaktív trükk-múzeum, amely tele van nagyszabású 3D-s optikai illúziós falfestményekkel a kreatív fotókészítéshez.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "Ez az eklektikus kiállítótér érdekes helyi műtárgyakat és vintage tárgyakat mutat be rusztikus, hangulatos elrendezésben.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Modern castle's ruin",
+                  "text": "Egy modern, kastélyt utánzó építmény omladozó kőmaradványai elhagyatottan hevernek a hegyoldal elburjánzott növényzetében.",
+                  "category": "castle",
+                  "coords": [
+                        108.413111,
+                        11.886553
+                  ]
+            },
+            {
+                  "name": "Museum Madam De Dalat",
+                  "text": "Egy butikmúzeum, amely a francia gyarmati korszak történelmi hangulatát és elegáns személyes gyűjteményeit őrzi a hegyvidéken.",
+                  "category": "museum",
+                  "coords": [
+                        108.426253,
+                        11.946306
+                  ]
+            },
+            {
+                  "name": "Viện Khoa học sự sống (cơ sở 2)",
+                  "text": "Ennek a tudományos intézménynek a kiállítóterme a fennsík egyedülálló növény- és állatvilágával kapcsolatos biológiai példányokat és kutatásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        108.421815,
+                        11.971253
+                  ]
+            },
+            {
+                  "name": "Bia Tưởng Niệm",
+                  "text": "Az elesettek tiszteletére emelt ünnepélyes emléksztélé, amely a csendes elmélkedés és emlékezés helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        108.359608,
+                        11.997229
+                  ]
+            },
+            {
+                  "name": "Den Co Ba Cam Ly",
+                  "text": "Ez a vízesés közelében található kis, színes szentély egy tisztelt helyi női szellemnek van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        108.41949,
+                        11.941315
+                  ]
+            },
+            {
+                  "name": "tượng mẹ quan âm",
+                  "text": "Az Irgalom Istennőjének, Kuan Jinnek nyugodt, nagyméretű szabadtéri szobra, amely imára és felajánlásokra vonzza a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        108.424781,
+                        11.931198
+                  ]
+            },
+            {
+                  "name": "Đình Đà Lạt",
+                  "text": "Ez a faragott faoszlopokkal díszített hagyományos közösségi ház a közösségi rituálék és az őskultusz létfontosságú központja.",
+                  "category": "religious",
+                  "coords": [
+                        108.433678,
+                        11.939898
+                  ]
+            },
+            {
+                  "name": "Đình Thiên Thành",
+                  "text": "A védőistenségnek szentelt klasszikus falusi templom, amely hagyományos íves kapukkal és cseréptetővel épült.",
+                  "category": "religious",
+                  "coords": [
+                        108.43208,
+                        11.940187
+                  ]
+            },
+            {
+                  "name": "Đền Tử sĩ",
+                  "text": "Ez a szentély a katonai mártírok előtt tiszteleg, ünnepélyes és nagyra becsült teret biztosítva a nemzeti megemlékezéseknek.",
+                  "category": "religious",
+                  "coords": [
+                        108.410987,
+                        11.94048
+                  ]
+            },
+            {
+                  "name": "Chợ đêm Da Lat",
+                  "text": "Sötétedés után az utcák nyüzsgő sétálóutcává változnak, amely grillezett utcai ételeiről, forró szójatejéről és gyapjúruháiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        108.4371,
+                        11.942114
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Thành",
+                  "text": "Egy környékbeli termelői piac, ahol a helyi lakosok friss zöldségeket és alapvető háztartási cikkeket vásárolnak közvetlenül a standokról.",
+                  "category": "cultural",
+                  "coords": [
+                        108.428071,
+                        11.942622
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "Ezt az excentrikus, többszintes éjszakai szórakozóhelyet úgy tervezték, mint egy tekervényes lépcsőkből és vadul díszített rejtett szobákból álló szövevényes labirintust.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Élénk, kortárs graffitik és festett falfestmények borítják a környék lejtős falait, városi kreativitást csempészve a hegyvidéki kisvárosba.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.943159
+                  ]
+            },
+            {
+                  "name": "Dinh III Bảo Đại",
+                  "text": "Ez a stílusos 1930-as évekbeli art deco kúria Vietnam utolsó császárának nyári palotájaként szolgált, megőrzött királyi lakosztályokkal és francia stílusú kertekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        108.429674,
+                        11.930047
+                  ]
+            },
+            {
+                  "name": "Garnet Cellar Farden",
+                  "text": "A Garnet Cellar Farden egy Da Lat régiójában található mezőgazdasági látványosság, amely bepillantást enged a helyi pincerendszerek világába.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426294,
+                        11.91081
+                  ]
+            },
+            {
+                  "name": "Làng Cổ Tích",
+                  "text": "A Làng Cổ Tích egy mesebeli témájú falu Da Lat festői hegyvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        108.402978,
+                        11.948535
+                  ]
+            },
+            {
+                  "name": "Kho",
+                  "text": "A Kho egy rusztikus látványosság, amely a Da Lat mezőgazdasági központjának raktározási örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        108.345089,
+                        11.922157
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Ez a festői vízesés a Da Lat régió buja hegyvidéki növényzetén keresztül zuhog alá.",
+                  "category": "landmark",
+                  "coords": [
+                        108.37101,
+                        11.924195
+                  ]
+            },
+            {
+                  "name": "Đường hầm điêu khắc",
+                  "text": "Az Agyagalagutak bonyolult bazaltagyag-szobrok kiterjedt hálózatát rejtik, amelyek Da Lat történelmét ábrázolják.",
+                  "category": "landmark",
+                  "coords": [
+                        108.411222,
+                        11.882871
+                  ]
+            },
+            {
+                  "name": "Infinity lake",
+                  "text": "Ez a modern feszített víztükrű tó zökkenőmentesen olvad bele a Da Lat környéki fenyves dombokba.",
+                  "category": "landmark",
+                  "coords": [
+                        108.40997,
+                        11.883619
+                  ]
+            },
+            {
+                  "name": "Reo Có Gì",
+                  "text": "A Reo Có Gì egy eklektikus turisztikai látványosság a Da Lat melletti mezőgazdasági vidékeken.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412986,
+                        11.888349
+                  ]
+            },
+            {
+                  "name": "Đỉnh núi",
+                  "text": "Ez a kiemelkedő hegycsúcs széles panorámát nyújt a Da Lat-i fennsík teraszos gazdaságaira.",
+                  "category": "landmark",
+                  "coords": [
+                        108.440376,
+                        11.862586
+                  ]
+            },
+            {
+                  "name": "Vườn dâu Công nghệ cao Bình Yên",
+                  "text": "A Binh Yen High-Tech Strawberry Garden modern mezőgazdasági módszereket mutat be Da Latban a hidroponikusan termesztett bogyók rendezett soraival.",
+                  "category": "landmark",
+                  "coords": [
+                        108.427149,
+                        11.948811
+                  ]
+            },
+            {
+                  "name": "Chùa A Dục Vương Thiền Viện Trúc Lâm Từ Nguyên",
+                  "text": "Az Asoka-templom egy békés buddhista szentély, amely Da Lat nyugodt, mezőgazdasági külvárosában található.",
+                  "category": "landmark",
+                  "coords": [
+                        108.406913,
+                        11.98108
+                  ]
+            },
+            {
+                  "name": "Đình An Hòa",
+                  "text": "A Đình An Hòa egy hagyományos vietnámi népi templom, amely a Da Lat-i helyi gazdálkodó közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434075,
+                        11.942354
+                  ]
+            },
+            {
+                  "name": "Gold Small Buddha",
+                  "text": "A Kicsi Arany Buddha egy csillogó buddhista emlékmű, amely csendes elmélkedésre ad lehetőséget a Da Lat-i hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        108.418568,
+                        11.941383
+                  ]
+            },
+            {
+                  "name": "Minh Giáo Church",
+                  "text": "A Minh Giáo templom egy jellegzetes keresztény istentiszteleti hely, amelyet egyszerű építészet jellemez a Da Lat mezőgazdasági régió közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        108.423037,
+                        11.935011
+                  ]
+            },
+            {
+                  "name": "Tuệ Quang",
+                  "text": "A Tue Quang egy békés buddhista elvonulóhely, amely beleolvad Da Lat buja hegyvidéki domborzatába.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430175,
+                        11.953777
+                  ]
+            },
+            {
+                  "name": "Kỳ Viên",
+                  "text": "A Ky Vien egy aktív buddhista kolostor, amelyet Da Lat békés vidéki tájai vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43327,
+                        11.954581
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Đà",
+                  "text": "A Ngoc Da kolostor hagyományos ázsiai buddhista építészettel büszkélkedhet, amely Da Lat hűvös fenyőerdői között bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        108.42486,
+                        11.959179
+                  ]
+            },
+            {
+                  "name": "Đình làng Đa Thành",
+                  "text": "A Đình làng Đa Thành egy vietnámi népi közösségi templom, amely megőrzi az ősök örökségét ebben a Da Lat-i mezőgazdasági faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426116,
+                        11.965324
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Tâm",
+                  "text": "A Nhà thờ Thánh Tâm egy keresztény templom, amelynek magasba törő harangtornya tájékozódási pontként szolgál a Da Lat környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430666,
+                        11.937461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crazy House",
+                  "text": "Această faimoasă și bizară pensiune și muzeu prezintă o arhitectură suprarealistă, organică, ce seamănă cu un copac masiv cu animale sculptate și peșteri.",
+                  "category": "museum",
+                  "coords": [
+                        108.43067,
+                        11.934538
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Trúc Lâm",
+                  "text": "Accesibil prin telecabină, acest important complex de mănăstiri budiste Zen domină Lacul Tuyen Lam și este înconjurat de grădini cu flori meticulos întreținute.",
+                  "category": "religious",
+                  "coords": [
+                        108.435621,
+                        11.903632
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "Un muzeu interactiv de iluzii optice, plin de picturi murale 3D la scară largă, concepute pentru oportunități creative de fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "Acest spațiu expozițional eclectic prezintă artefacte locale curioase și obiecte de epocă aranjate într-un cadru rustic și plin de atmosferă.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Modern castle's ruin",
+                  "text": "Rămășițele de piatră fărâmițate ale unei structuri moderne de castel stau abandonate printre vegetația crescută excesiv de pe deal.",
+                  "category": "castle",
+                  "coords": [
+                        108.413111,
+                        11.886553
+                  ]
+            },
+            {
+                  "name": "Museum Madam De Dalat",
+                  "text": "Un muzeu de tip boutique care păstrează ambianța istorică și colecțiile personale elegante din perioada colonială franceză din zonele înalte.",
+                  "category": "museum",
+                  "coords": [
+                        108.426253,
+                        11.946306
+                  ]
+            },
+            {
+                  "name": "Viện Khoa học sự sống (cơ sở 2)",
+                  "text": "Sala de expoziție a acestei instituții științifice prezintă specimene biologice și cercetări legate de flora și fauna unică a platoului.",
+                  "category": "museum",
+                  "coords": [
+                        108.421815,
+                        11.971253
+                  ]
+            },
+            {
+                  "name": "Bia Tưởng Niệm",
+                  "text": "O stelă memorială solemnă ridicată în onoarea celor căzuți, servind ca loc de contemplare și amintire tăcută.",
+                  "category": "religious",
+                  "coords": [
+                        108.359608,
+                        11.997229
+                  ]
+            },
+            {
+                  "name": "Den Co Ba Cam Ly",
+                  "text": "Acest mic și colorat altar de lângă cascadă este dedicat unui venerat spirit feminin local.",
+                  "category": "religious",
+                  "coords": [
+                        108.41949,
+                        11.941315
+                  ]
+            },
+            {
+                  "name": "tượng mẹ quan âm",
+                  "text": "O statuie în aer liber senină și mare a Zeiței Milei, Guan Yin, care atrage devotații pentru rugăciune și ofrande.",
+                  "category": "religious",
+                  "coords": [
+                        108.424781,
+                        11.931198
+                  ]
+            },
+            {
+                  "name": "Đình Đà Lạt",
+                  "text": "Această casă comunală tradițională se distinge prin stâlpi din lemn sculptat și servește drept centru vital pentru ritualurile comunitare și cultul strămoșilor.",
+                  "category": "religious",
+                  "coords": [
+                        108.433678,
+                        11.939898
+                  ]
+            },
+            {
+                  "name": "Đình Thiên Thành",
+                  "text": "Un templu clasic de sat dedicat divinității tutelare, construit cu porți arcuite tradiționale și acoperișuri de țiglă.",
+                  "category": "religious",
+                  "coords": [
+                        108.43208,
+                        11.940187
+                  ]
+            },
+            {
+                  "name": "Đền Tử sĩ",
+                  "text": "Acest altar onorează martirii militari, oferind un spațiu solemn și extrem de respectat pentru slujbele comemorative naționale.",
+                  "category": "religious",
+                  "coords": [
+                        108.410987,
+                        11.94048
+                  ]
+            },
+            {
+                  "name": "Chợ đêm Da Lat",
+                  "text": "După lăsarea întunericului, străzile se transformă într-o zonă pietonală aglomerată, faimoasă pentru mâncarea stradală la grătar, laptele de soia cald și hainele de lână.",
+                  "category": "cultural",
+                  "coords": [
+                        108.4371,
+                        11.942114
+                  ]
+            },
+            {
+                  "name": "Chợ Mỹ Thành",
+                  "text": "O piață de produse din cartier, unde rezidenții locali cumpără legume proaspete și provizii de uz casnic direct de la tarabe.",
+                  "category": "cultural",
+                  "coords": [
+                        108.428071,
+                        11.942622
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "Acest local de noapte excentric, pe mai multe niveluri, este conceput ca un labirint complicat de scări întortocheate și camere ascunse decorate sălbatic.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Graffiti contemporane și picturi murale vii acoperă zidurile în pantă ale cartierului, adăugând o notă de creativitate urbană orașului de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.943159
+                  ]
+            },
+            {
+                  "name": "Dinh III Bảo Đại",
+                  "text": "Această vilă elegantă în stil Art Deco din anii 1930 a servit drept palat de vară pentru ultimul împărat al Vietnamului, cu încăperi regale conservate și grădini în stil francez.",
+                  "category": "landmark",
+                  "coords": [
+                        108.429674,
+                        11.930047
+                  ]
+            },
+            {
+                  "name": "Garnet Cellar Farden",
+                  "text": "Garnet Cellar Farden este o atracție cu profil agricol din regiunea Da Lat, oferind vizitatorilor o privire asupra tradițiilor locale de cramă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426294,
+                        11.91081
+                  ]
+            },
+            {
+                  "name": "Làng Cổ Tích",
+                  "text": "Làng Cổ Tích este un sat tematic de basm, construit în zonele muntoase pitorești din apropiere de Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.402978,
+                        11.948535
+                  ]
+            },
+            {
+                  "name": "Kho",
+                  "text": "Kho este o atracție rustică ce reflectă patrimoniul de depozitare agricolă din centrul agrar Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.345089,
+                        11.922157
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Această cascadă pitorească se prăvălește prin vegetația luxuriantă a zonei montane din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.37101,
+                        11.924195
+                  ]
+            },
+            {
+                  "name": "Đường hầm điêu khắc",
+                  "text": "Tunelurile de Argilă prezintă o rețea extinsă de sculpturi complicate din argilă bazaltică ce ilustrează istoria orașului Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.411222,
+                        11.882871
+                  ]
+            },
+            {
+                  "name": "Infinity lake",
+                  "text": "Acest lac modern tip infinity se îmbină perfect cu dealurile acoperite de pini din împrejurimile orașului Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.40997,
+                        11.883619
+                  ]
+            },
+            {
+                  "name": "Reo Có Gì",
+                  "text": "Reo Có Gì este o atracție turistică eclectică, cuibărită în peisajele agricole din afara orașului Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412986,
+                        11.888349
+                  ]
+            },
+            {
+                  "name": "Đỉnh núi",
+                  "text": "Acest vârf de munte proeminent oferă o panoramă vastă asupra fermelor terasate din zonele înalte ale orașului Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.440376,
+                        11.862586
+                  ]
+            },
+            {
+                  "name": "Vườn dâu Công nghệ cao Bình Yên",
+                  "text": "Grădina de căpșuni high-tech Binh Yen prezintă practici agricole moderne, cu rânduri ordonate de fructe de pădure cultivate hidroponic în Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.427149,
+                        11.948811
+                  ]
+            },
+            {
+                  "name": "Chùa A Dục Vương Thiền Viện Trúc Lâm Từ Nguyên",
+                  "text": "Templul Asoka este un sanctuar budist senin, situat printre zonele agricole liniștite de la periferia orașului Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.406913,
+                        11.98108
+                  ]
+            },
+            {
+                  "name": "Đình An Hòa",
+                  "text": "Đình An Hòa este un templu popular tradițional vietnamez care servește ca centru spiritual pentru comunitatea agricolă locală din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434075,
+                        11.942354
+                  ]
+            },
+            {
+                  "name": "Gold Small Buddha",
+                  "text": "Micul Buddha de Aur este un monument budist strălucitor care oferă un loc pentru contemplare liniștită în munții Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.418568,
+                        11.941383
+                  ]
+            },
+            {
+                  "name": "Minh Giáo Church",
+                  "text": "Biserica Minh Giáo este un lăcaș de cult creștin distinctiv, caracterizat prin arhitectura sa simplă, în mijlocul regiunii agricole Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.423037,
+                        11.935011
+                  ]
+            },
+            {
+                  "name": "Tuệ Quang",
+                  "text": "Tue Quang este un refugiu budist liniștit, care se integrează în topografia muntoasă și luxuriantă din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430175,
+                        11.953777
+                  ]
+            },
+            {
+                  "name": "Kỳ Viên",
+                  "text": "Ky Vien este o mănăstire budistă activă, înconjurată de peisajele rurale liniștite din afara orașului Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43327,
+                        11.954581
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Đà",
+                  "text": "Mănăstirea Ngoc Da prezintă o arhitectură budistă asiatică tradițională, fiind ascunsă printre pădurile răcoroase de pini din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.42486,
+                        11.959179
+                  ]
+            },
+            {
+                  "name": "Đình làng Đa Thành",
+                  "text": "Đình làng Đa Thành este un templu popular comunitar vietnamez care păstrează moștenirea ancestrală a acestui sat agricol din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426116,
+                        11.965324
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Tâm",
+                  "text": "Nhà thờ Thánh Tâm este o biserică creștină caracterizată de clopotnița sa înaltă, care servește drept punct de reper în zona Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430666,
+                        11.937461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hang Nga Crazy House",
+                  "text": "This famously bizarre guesthouse and museum features surreal, organic architecture resembling a massive tree with sculpted animals and caves.",
+                  "category": "museum",
+                  "coords": [
+                        108.43067,
+                        11.934538
+                  ]
+            },
+            {
+                  "name": "Thiền Viện Trúc Lâm",
+                  "text": "Accessible by cable car, this major Zen Buddhist monastery complex overlooks Tuyen Lam Lake and is surrounded by meticulously kept flower gardens.",
+                  "category": "religious",
+                  "coords": [
+                        108.435621,
+                        11.903632
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "An interactive trick-art museum filled with large-scale 3D optical illusion murals designed for creative photo opportunities.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "This eclectic exhibition space displays curious local artifacts and vintage items arranged in rustic, atmospheric settings.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Modern castle's ruin",
+                  "text": "The crumbling stone remains of a modern mock-castle structure sit abandoned among the overgrown vegetation of the hillside.",
+                  "category": "castle",
+                  "coords": [
+                        108.413111,
+                        11.886553
+                  ]
+            },
+            {
+                  "name": "Museum Madam De Dalat",
+                  "text": "A boutique museum preserving the historical ambiance and elegant personal collections from the French colonial era in the highlands.",
+                  "category": "museum",
+                  "coords": [
+                        108.426253,
+                        11.946306
+                  ]
+            },
+            {
+                  "name": "Viện Khoa học sự sống (cơ sở 2)",
+                  "text": "This scientific institution's exhibition hall showcases biological specimens and research related to the unique flora and fauna of the plateau.",
+                  "category": "museum",
+                  "coords": [
+                        108.421815,
+                        11.971253
+                  ]
+            },
+            {
+                  "name": "Bia Tưởng Niệm",
+                  "text": "A solemn memorial stele erected to honor the fallen, serving as a site for quiet contemplation and remembrance.",
+                  "category": "religious",
+                  "coords": [
+                        108.359608,
+                        11.997229
+                  ]
+            },
+            {
+                  "name": "Den Co Ba Cam Ly",
+                  "text": "This small, colorful shrine near the waterfall is dedicated to a revered local female spirit.",
+                  "category": "religious",
+                  "coords": [
+                        108.41949,
+                        11.941315
+                  ]
+            },
+            {
+                  "name": "tượng mẹ quan âm",
+                  "text": "A serene, large outdoor statue of the Goddess of Mercy, Guan Yin, which attracts devotees for prayer and offerings.",
+                  "category": "religious",
+                  "coords": [
+                        108.424781,
+                        11.931198
+                  ]
+            },
+            {
+                  "name": "Đình Đà Lạt",
+                  "text": "This traditional communal house features carved wooden pillars and serves as a vital center for community rituals and ancestor worship.",
+                  "category": "religious",
+                  "coords": [
+                        108.433678,
+                        11.939898
+                  ]
+            },
+            {
+                  "name": "Đình Thiên Thành",
+                  "text": "A classic village temple dedicated to the tutelary deity, built with traditional arched gates and tiled roofs.",
+                  "category": "religious",
+                  "coords": [
+                        108.43208,
+                        11.940187
+                  ]
+            },
+            {
+                  "name": "Đền Tử sĩ",
+                  "text": "This shrine honors military martyrs, providing a solemn and highly respected space for national memorial services.",
+                  "category": "religious",
+                  "coords": [
+                        108.410987,
+                        11.94048
+                  ]
+            },
+            {
+                  "name": "Da Lat Night Market",
+                  "text": "After dusk, the streets transform into a bustling pedestrian zone famous for its grilled street food, hot soy milk, and woolen garments.",
+                  "category": "cultural",
+                  "coords": [
+                        108.4371,
+                        11.942114
+                  ]
+            },
+            {
+                  "name": "My Thanh market",
+                  "text": "A neighborhood produce market where local residents buy fresh vegetables and essential household supplies directly from the stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        108.428071,
+                        11.942622
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "This eccentric multi-level nightlife venue is designed like an intricate labyrinth of twisted staircases and wildly decorated hidden rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Vivid, contemporary graffiti and painted murals cover the sloping neighborhood walls, adding a splash of urban creativity to the mountain town.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.943159
+                  ]
+            },
+            {
+                  "name": "Dinh III Bảo Đại",
+                  "text": "This elegant 1930s Art Deco mansion served as the summer palace for Vietnam's last emperor, featuring preserved royal living quarters and French-style gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        108.429674,
+                        11.930047
+                  ]
+            },
+            {
+                  "name": "Garnet Cellar Farden",
+                  "text": "Garnet Cellar Farden is an agricultural attraction nestled in the Da Lat region, offering visitors a glimpse into local cellar traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426294,
+                        11.91081
+                  ]
+            },
+            {
+                  "name": "Làng Cổ Tích",
+                  "text": "Làng Cổ Tích is a fairytale-themed village attraction built in the scenic highlands near Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.402978,
+                        11.948535
+                  ]
+            },
+            {
+                  "name": "Kho",
+                  "text": "Kho is a rustic attraction reflecting the agricultural storage heritage of the Da Lat farming hub.",
+                  "category": "landmark",
+                  "coords": [
+                        108.345089,
+                        11.922157
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "This scenic waterfall cascades through the lush highland vegetation of the Da Lat region.",
+                  "category": "landmark",
+                  "coords": [
+                        108.37101,
+                        11.924195
+                  ]
+            },
+            {
+                  "name": "Clay Tunnels - Dalat Star",
+                  "text": "The Clay Tunnels feature an extensive network of intricate basalt clay sculptures depicting Da Lat's history.",
+                  "category": "landmark",
+                  "coords": [
+                        108.411222,
+                        11.882871
+                  ]
+            },
+            {
+                  "name": "Infinity lake",
+                  "text": "This modern infinity lake blends seamlessly with the surrounding pine-covered hills of Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.40997,
+                        11.883619
+                  ]
+            },
+            {
+                  "name": "Reo Có Gì",
+                  "text": "Reo Có Gì is an eclectic tourist attraction nestled in the agricultural landscapes outside Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412986,
+                        11.888349
+                  ]
+            },
+            {
+                  "name": "Mountain Peak",
+                  "text": "This prominent mountain peak offers sweeping panoramic views over the terraced farms of the Da Lat highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        108.440376,
+                        11.862586
+                  ]
+            },
+            {
+                  "name": "Binh Yen High-Tech Strawberry Garden",
+                  "text": "The Binh Yen High-Tech Strawberry Garden showcases modern agricultural practices with neat rows of hydroponically grown berries in Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.427149,
+                        11.948811
+                  ]
+            },
+            {
+                  "name": "Temple Asoka",
+                  "text": "Temple Asoka is a serene Buddhist sanctuary set among the tranquil agricultural outskirts of Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.406913,
+                        11.98108
+                  ]
+            },
+            {
+                  "name": "Đình An Hòa",
+                  "text": "Đình An Hòa is a traditional Vietnamese folk temple serving as a spiritual center for the local farming community in Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434075,
+                        11.942354
+                  ]
+            },
+            {
+                  "name": "Gold Small Buddha",
+                  "text": "The Gold Small Buddha is a gleaming Buddhist monument providing a spot for quiet contemplation in the Da Lat highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        108.418568,
+                        11.941383
+                  ]
+            },
+            {
+                  "name": "Minh Giáo Church",
+                  "text": "Minh Giáo Church is a distinctive Christian place of worship characterized by its simple architecture amid the Da Lat farming region.",
+                  "category": "landmark",
+                  "coords": [
+                        108.423037,
+                        11.935011
+                  ]
+            },
+            {
+                  "name": "Tue Quang",
+                  "text": "Tue Quang is a peaceful Buddhist retreat blending into the lush, mountainous topography of Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430175,
+                        11.953777
+                  ]
+            },
+            {
+                  "name": "Ky Vien",
+                  "text": "The Ky Vien is an active Buddhist monastery surrounded by the tranquil rural landscapes outside Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43327,
+                        11.954581
+                  ]
+            },
+            {
+                  "name": "Ngoc Da Monastery",
+                  "text": "Ngoc Da Monastery features traditional Asian Buddhist architecture nestled among the cool pine forests of Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.42486,
+                        11.959179
+                  ]
+            },
+            {
+                  "name": "Đình làng Đa Thành",
+                  "text": "Đình làng Đa Thành is a communal Vietnamese folk temple that preserves the ancestral heritage of this Da Lat agricultural village.",
+                  "category": "landmark",
+                  "coords": [
+                        108.426116,
+                        11.965324
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Tâm",
+                  "text": "Nhà thờ Thánh Tâm is a Christian church characterized by its soaring bell tower that acts as a landmark in the Da Lat area.",
+                  "category": "landmark",
+                  "coords": [
+                        108.430666,
+                        11.937461
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VN-LD",
     coords: [108.43, 11.94],
@@ -862,7 +13237,664 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["Connue comme la « ville de l'éternel printemps », c'est un pôle de production agricole de qualité.", "Située sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Reconnue pour son importance paysagère et culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/dalat-agri-hub-economic-v2.webp"},
   {
-    id: "nha-trang-port-economic-v2",
+    id: "nha-trang-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snake and crocodile farm",
+                  "text": "Eine Wildtierattraktion, in der Besucher exotische Reptilien und Krokodile in speziellen Gehegen sicher beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        109.161332,
+                        12.20372
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Ein derzeit geschlossenes Ausstellungsgebäude in der Nähe des Hafens, das einst lokale maritime und historische Artefakte zeigte.",
+                  "category": "museum",
+                  "coords": [
+                        109.191905,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "Diese traditionelle kulturelle Attraktion in der Nähe des Hafens zeigt die lokale vietnamesische Handwerkskunst.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "100 Eggs Mud Bath",
+                  "text": "Ein einzigartiger Themenpark, der entspannende Mineral-Schlammbäder in markanten eiförmigen Wannen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        109.161056,
+                        12.187305
+                  ]
+            },
+            {
+                  "name": "Nhà Bảo Đại",
+                  "text": "Die ehemalige Küstenresidenz von Kaiser Bao Dai besticht durch ihre französische Kolonialarchitektur mit Blick auf das Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        109.215366,
+                        12.210308
+                  ]
+            },
+            {
+                  "name": "Nha Trang Beach",
+                  "text": "Ein bekannter Küstenbadeort, der für seine langen weißen Sandstrände und das klare Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        109.200288,
+                        12.233925
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Ein angelegter Stadtpark in der Nähe des Hafens, der Grünflächen und Erholungsgebiete an der Küste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199571,
+                        12.229009
+                  ]
+            },
+            {
+                  "name": "An Viên Beach",
+                  "text": "Ein ruhiger Sandstrand in einem friedlichen Küstenviertel in der Nähe des Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        109.212141,
+                        12.195691
+                  ]
+            },
+            {
+                  "name": "Hải đăng Mũi Chụt",
+                  "text": "Ein historischer Leuchtturm, der den Schiffsverkehr sicher in den Hafen von Nha Trang leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21654,
+                        12.210535
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải dương học Nha Trang",
+                  "text": "Ein ozeanographisches Museum, das eine umfangreiche Sammlung mariner Exemplare und lebender Wasserausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        109.21478,
+                        12.207804
+                  ]
+            },
+            {
+                  "name": "ASD",
+                  "text": "Eine lokale Kultstätte, die den spirituellen Bedürfnissen der umliegenden Hafengemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        109.200855,
+                        12.21818
+                  ]
+            },
+            {
+                  "name": "Chùa Nghĩa Minh Ni Tự",
+                  "text": "Ein ruhiger buddhistischer Tempel mit traditioneller Architektur, der einen friedlichen Rückzugsort in der Nähe des Hafens bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19984,
+                        12.219771
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang(Thích Nhuận Thanh)Đồng Rọ,Vĩnh Xuân,Vĩnh Thái,Nha Trang,Khánh Hoà.ĐT:02583534126.",
+                  "text": "Ein friedliches buddhistisches Kloster, in dem einheimische Mönche praktizieren und sich Gläubige zum Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        109.175335,
+                        12.224463
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Eine traditionelle buddhistische Pagode, die als ruhiges spirituelles Zentrum für die Bewohner der Hafenregion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        109.207457,
+                        12.216987
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Thánh Gia",
+                  "text": "Eine christliche Pfarrkirche, in der Gottesdienste und Gemeindeversammlungen in der Nähe des Hafens stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199871,
+                        12.210524
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Thành",
+                  "text": "Ein geschäftiger lokaler Marktplatz, auf dem Händler frische Produkte, Meeresfrüchte und Dinge des täglichen Bedarfs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        109.196772,
+                        12.21372
+                  ]
+            },
+            {
+                  "name": "Vinh Truong Market",
+                  "text": "Ein lebhafter Viertelmarkt, der für seine frischen lokalen Meeresfrüchte und seine pulsierende Handelsatmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        109.201587,
+                        12.205975
+                  ]
+            },
+            {
+                  "name": "Tram Trung 100 egg",
+                  "text": "Ein beliebtes Thermalbad, das therapeutische Mineral-Schlammbäder in eiförmigen Becken anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        109.19254,
+                        12.214914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snake and crocodile farm",
+                  "text": "Vadvilági látványosság, ahol a látogatók biztonságosan megfigyelhetik az egzotikus hüllőket és krokodilokat a számukra kialakított kifutókban.",
+                  "category": "landmark",
+                  "coords": [
+                        109.161332,
+                        12.20372
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Jelenleg bezárt kiállítási épület a kikötő közelében, amely egykor helyi tengerészeti és történelmi leleteket mutatott be.",
+                  "category": "museum",
+                  "coords": [
+                        109.191905,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "Ez a kikötő közelében található hagyományos kulturális látványosság a helyi vietnami kézművességet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "100 Eggs Mud Bath",
+                  "text": "Egy egyedülálló vidámpark, amely pihentető ásványi iszapfürdőket kínál jellegzetes, tojás alakú kádakban.",
+                  "category": "recreational",
+                  "coords": [
+                        109.161056,
+                        12.187305
+                  ]
+            },
+            {
+                  "name": "Nhà Bảo Đại",
+                  "text": "Bao Dai császár egykori tengerparti rezidenciája, amely francia gyarmati építészetével a tengerre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        109.215366,
+                        12.210308
+                  ]
+            },
+            {
+                  "name": "Nha Trang",
+                  "text": "Egy kiemelkedő tengerparti üdülőhely, amely hosszú fehér homokos strandjairól és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        109.200288,
+                        12.233925
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Egy parkosított városi park a kikötő közelében, amely zöldterületeket és rekreációs területeket kínál a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199571,
+                        12.229009
+                  ]
+            },
+            {
+                  "name": "An Viên Beach",
+                  "text": "Egy nyugodt homokos strand egy csendes tengerparti környéken, a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        109.212141,
+                        12.195691
+                  ]
+            },
+            {
+                  "name": "Hải đăng Mũi Chụt",
+                  "text": "Egy történelmi tengerparti világítótorony, amely a tengeri forgalmat Nha Trang kikötőjébe irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21654,
+                        12.210535
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải dương học Nha Trang",
+                  "text": "Egy óceánográfiai múzeum, amely tengeri példányok és élő vízi kiállítások hatalmas gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        109.21478,
+                        12.207804
+                  ]
+            },
+            {
+                  "name": "ASD",
+                  "text": "Egy helyi istentiszteleti hely, amely a környező kikötői közösség spirituális igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        109.200855,
+                        12.21818
+                  ]
+            },
+            {
+                  "name": "Chùa Nghĩa Minh Ni Tự",
+                  "text": "Egy nyugodt, hagyományos építészetű buddhista templom, amely békés menedéket kínál a kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19984,
+                        12.219771
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang(Thích Nhuận Thanh)Đồng Rọ,Vĩnh Xuân,Vĩnh Thái,Nha Trang,Khánh Hoà.ĐT:02583534126.",
+                  "text": "Egy békés buddhista kolostor, ahol a helyi szerzetesek gyakorolnak, a hívők pedig imára gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        109.175335,
+                        12.224463
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Egy hagyományos buddhista pagoda, amely csendes spirituális központként szolgál a kikötő lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        109.207457,
+                        12.216987
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Thánh Gia",
+                  "text": "Egy keresztény plébániatemplom, amely vallási szertartásoknak és közösségi összejöveteleknek ad otthont a kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199871,
+                        12.210524
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Thành",
+                  "text": "Egy nyüzsgő helyi piac, ahol az árusok friss terményeket, tenger gyümölcseit és napi szükségleti cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        109.196772,
+                        12.21372
+                  ]
+            },
+            {
+                  "name": "Vinh Truong Market",
+                  "text": "Egy nyüzsgő környékbeli piac, amely friss helyi tengeri herkentyűiről és élénk kereskedelmi atmoszférájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        109.201587,
+                        12.205975
+                  ]
+            },
+            {
+                  "name": "Tram Trung 100 egg",
+                  "text": "Egy népszerű hőforrás üdülőhely, amely terápiás ásványi iszapfürdőket kínál tojás alakú medencékben.",
+                  "category": "natural",
+                  "coords": [
+                        109.19254,
+                        12.214914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snake and crocodile farm",
+                  "text": "O atracție cu animale sălbatice, unde vizitatorii pot observa în siguranță reptile exotice și crocodili în incinte specializate.",
+                  "category": "landmark",
+                  "coords": [
+                        109.161332,
+                        12.20372
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "O clădire expozițională închisă în prezent, care odinioară expunea artefacte maritime și istorice locale în apropierea portului.",
+                  "category": "museum",
+                  "coords": [
+                        109.191905,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "Această atracție culturală tradițională din apropierea portului prezintă meșteșugurile locale vietnameze.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "100 Eggs Mud Bath",
+                  "text": "Un parc tematic unic, care oferă băi relaxante cu nămol mineral în căzi distinctive în formă de ou.",
+                  "category": "recreational",
+                  "coords": [
+                        109.161056,
+                        12.187305
+                  ]
+            },
+            {
+                  "name": "Nhà Bảo Đại",
+                  "text": "Fosta reședință de coastă a împăratului Bao Dai prezintă o arhitectură colonială franceză cu vedere la mare.",
+                  "category": "landmark",
+                  "coords": [
+                        109.215366,
+                        12.210308
+                  ]
+            },
+            {
+                  "name": "Nha Trang",
+                  "text": "O stațiune de coastă renumită pentru plajele sale lungi cu nisip alb și apele limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        109.200288,
+                        12.233925
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Un parc urban amenajat lângă port, oferind spații verzi și zone de recreere pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199571,
+                        12.229009
+                  ]
+            },
+            {
+                  "name": "An Viên Beach",
+                  "text": "O plajă cu nisip liniștită, situată într-un cartier de coastă pașnic de lângă port.",
+                  "category": "recreational",
+                  "coords": [
+                        109.212141,
+                        12.195691
+                  ]
+            },
+            {
+                  "name": "Hải đăng Mũi Chụt",
+                  "text": "Un far istoric de coastă care ghidează traficul maritim către portul Nha Trang.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21654,
+                        12.210535
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải dương học Nha Trang",
+                  "text": "Un muzeu oceanografic care găzduiește o vastă colecție de exemplare marine și expoziții acvatice vii.",
+                  "category": "museum",
+                  "coords": [
+                        109.21478,
+                        12.207804
+                  ]
+            },
+            {
+                  "name": "ASD",
+                  "text": "Un lăcaș de cult local care servește nevoilor spirituale ale comunității portuare din jur.",
+                  "category": "religious",
+                  "coords": [
+                        109.200855,
+                        12.21818
+                  ]
+            },
+            {
+                  "name": "Chùa Nghĩa Minh Ni Tự",
+                  "text": "Un templu budist liniștit cu arhitectură tradițională, oferind un refugiu pașnic lângă port.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19984,
+                        12.219771
+                  ]
+            },
+            {
+                  "name": "chùa Linh Quang(Thích Nhuận Thanh)Đồng Rọ,Vĩnh Xuân,Vĩnh Thái,Nha Trang,Khánh Hoà.ĐT:02583534126.",
+                  "text": "O mănăstire budistă senină unde călugării rezidenți practică și credincioșii locali se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        109.175335,
+                        12.224463
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "O pagodă budistă tradițională care servește drept centru spiritual liniștit pentru locuitorii portului.",
+                  "category": "landmark",
+                  "coords": [
+                        109.207457,
+                        12.216987
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Thánh Gia",
+                  "text": "O biserică parohială creștină care oferă slujbe religioase și adunări comunitare lângă port.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199871,
+                        12.210524
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Thành",
+                  "text": "O piață locală plină de viață unde vânzătorii oferă produse proaspete, fructe de mare și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        109.196772,
+                        12.21372
+                  ]
+            },
+            {
+                  "name": "Vinh Truong Market",
+                  "text": "O piață de cartier plină de viață, cunoscută pentru fructele de mare locale proaspete și atmosfera comercială vibrantă.",
+                  "category": "cultural",
+                  "coords": [
+                        109.201587,
+                        12.205975
+                  ]
+            },
+            {
+                  "name": "Tram Trung 100 egg",
+                  "text": "O stațiune populară cu izvoare termale care oferă băi terapeutice cu nămol mineral în bazine în formă de ou.",
+                  "category": "natural",
+                  "coords": [
+                        109.19254,
+                        12.214914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snake and crocodile farm",
+                  "text": "A wildlife attraction where visitors can safely observe exotic reptiles and crocodiles in specialized enclosures.",
+                  "category": "landmark",
+                  "coords": [
+                        109.161332,
+                        12.20372
+                  ]
+            },
+            {
+                  "name": "Museum (closed!)",
+                  "text": "A currently shuttered exhibition building that once displayed local maritime and historical artifacts near the port.",
+                  "category": "museum",
+                  "coords": [
+                        109.191905,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "This traditional cultural attraction near the port showcases local Vietnamese craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "100 Eggs Mud Bath",
+                  "text": "A unique theme park offering relaxing mineral mud baths in distinctive egg-shaped tubs.",
+                  "category": "recreational",
+                  "coords": [
+                        109.161056,
+                        12.187305
+                  ]
+            },
+            {
+                  "name": "Nhà Bảo Đại",
+                  "text": "The former coastal residence of Emperor Bao Dai features French colonial architecture overlooking the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        109.215366,
+                        12.210308
+                  ]
+            },
+            {
+                  "name": "Nha Trang",
+                  "text": "A prominent coastal beach resort area known for its long stretches of white sand and clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        109.200288,
+                        12.233925
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A landscaped urban park near the port offering green spaces and recreational areas by the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199571,
+                        12.229009
+                  ]
+            },
+            {
+                  "name": "An Viên Beach",
+                  "text": "A serene sandy beach located in a quiet coastal neighborhood near the port.",
+                  "category": "recreational",
+                  "coords": [
+                        109.212141,
+                        12.195691
+                  ]
+            },
+            {
+                  "name": "Hải đăng Mũi Chụt",
+                  "text": "A historic coastal lighthouse guiding maritime traffic into the port of Nha Trang.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21654,
+                        12.210535
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải dương học Nha Trang",
+                  "text": "An oceanographic museum housing a vast collection of marine specimens and living aquatic exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        109.21478,
+                        12.207804
+                  ]
+            },
+            {
+                  "name": "ASD",
+                  "text": "A local place of worship serving the spiritual needs of the surrounding port community.",
+                  "category": "religious",
+                  "coords": [
+                        109.200855,
+                        12.21818
+                  ]
+            },
+            {
+                  "name": "Nghĩa Minh Temple",
+                  "text": "A tranquil Buddhist temple featuring traditional architecture and offering a peaceful retreat near the port.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19984,
+                        12.219771
+                  ]
+            },
+            {
+                  "name": "Linh Quang Monastery",
+                  "text": "A serene Buddhist monastery where resident monks practice and local devotees gather for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        109.175335,
+                        12.224463
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "A traditional Buddhist pagoda serving as a quiet spiritual center for the port's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        109.207457,
+                        12.216987
+                  ]
+            },
+            {
+                  "name": "Holy Family Parish Church",
+                  "text": "A Christian parish church providing religious services and community gatherings near the port.",
+                  "category": "landmark",
+                  "coords": [
+                        109.199871,
+                        12.210524
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Thành",
+                  "text": "A bustling local marketplace where vendors sell fresh produce, seafood, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        109.196772,
+                        12.21372
+                  ]
+            },
+            {
+                  "name": "Vinh Truong Market",
+                  "text": "A lively neighborhood marketplace known for its fresh local seafood and vibrant trading atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        109.201587,
+                        12.205975
+                  ]
+            },
+            {
+                  "name": "100 egg",
+                  "text": "A popular hot spring resort offering therapeutic mineral mud baths in egg-shaped basins.",
+                  "category": "natural",
+                  "coords": [
+                        109.19254,
+                        12.214914
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VN-KH",
     coords: [109.20, 12.23],
@@ -909,7 +13941,1240 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       fr: ["Un port qui gère à la fois le trafic commercial de marchandises et un nombre croissant de navires de croisière, alliant ainsi commerce et tourisme.", "Situé sur le territoire de la République socialiste du Vietnam.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/nha-trang-port-economic-v2.webp"},
   {
-    id: "quy-nhon-port-economic-v2",
+    id: "quy-nhon-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tháp Đôi",
+                  "text": "Diese markanten Zwillings-Cham-Türme, die auf das 11. bis 13. Jahrhundert zurückgehen, weisen aufwendige Ziegelschnitzereien auf.",
+                  "category": "historical",
+                  "coords": [
+                        109.211083,
+                        13.786253
+                  ]
+            },
+            {
+                  "name": "Tượng đài Quang Trung - Nguyễn Huệ",
+                  "text": "Dieses Denkmal ehrt den vietnamesischen Kaiser Quang Trung und erinnert an seine historischen militärischen Siege.",
+                  "category": "historical",
+                  "coords": [
+                        109.22624,
+                        13.777166
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Tổng Hợp Bình Định",
+                  "text": "Das Provinzmuseum beherbergt eine umfassende Sammlung lokaler Cham-Skulpturen und Artefakte aus der Geschichte von Bình Định.",
+                  "category": "museum",
+                  "coords": [
+                        109.233387,
+                        13.770453
+                  ]
+            },
+            {
+                  "name": "Tượng Đài Chiến Thắng",
+                  "text": "Ein imposantes Siegesdenkmal, das in einem öffentlichen Platz steht, um die Widerstandsfähigkeit und Triumphe der Region zu feiern.",
+                  "category": "historical",
+                  "coords": [
+                        109.234665,
+                        13.769729
+                  ]
+            },
+            {
+                  "name": "BẢO TÀNG TƯ NHÂN GỐM CỔ GÒ SÀNH VIJAYA - CHAMPA - BÌNH ĐỊNH",
+                  "text": "Dieses private Museum ist der Bewahrung seltener, antiker Vijaya-Cham-Keramik aus der Gò Sành-Stätte gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        109.227334,
+                        13.773405
+                  ]
+            },
+            {
+                  "name": "Inexpensive banana fritters and coffee",
+                  "text": "Eine gemütliche Straßenecke in Quy Nhon, wo man frisch gebratene Bananen und starken vietnamesischen Kaffee genießen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21673,
+                        13.765324
+                  ]
+            },
+            {
+                  "name": "Tượng đài Nguyễn Sinh Sắc - Nguyễn Tất Thành",
+                  "text": "Die Statuen würdigen die historische Trennung zwischen Nguyễn Sinh Sắc und seinem Sohn Ho Chi Minh auf dem Hauptplatz.",
+                  "category": "historical",
+                  "coords": [
+                        109.220966,
+                        13.762777
+                  ]
+            },
+            {
+                  "name": "Flower",
+                  "text": "Ein dekoratives blumenförmiges Denkmal, das Farbe in die städtische Parklandschaft von Quy Nhon bringt.",
+                  "category": "historical",
+                  "coords": [
+                        109.220682,
+                        13.76112
+                  ]
+            },
+            {
+                  "name": "Gazebos",
+                  "text": "Überdachte Aussichtspavillons, die einen schattigen Ort bieten, um den weiten Blick auf den Hafen und das Meer zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        109.214591,
+                        13.744963
+                  ]
+            },
+            {
+                  "name": "Khu du lịch Ghềnh Ráng",
+                  "text": "Dieses touristische Küstengebiet ist berühmt für seine felsige Uferlinie und das von Pinien gesäumte Hügelgelände.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214763,
+                        13.743319
+                  ]
+            },
+            {
+                  "name": "Trại Phong Quy Hòa",
+                  "text": "Die ehemalige Leprakolonie liegt in einem ruhigen Tal am Meer und bietet historische Architektur und Gärten.",
+                  "category": "natural",
+                  "coords": [
+                        109.217588,
+                        13.723958
+                  ]
+            },
+            {
+                  "name": "Núi Trường Úc",
+                  "text": "Ein markanter Hügel, der als natürlicher Aussichtspunkt für Panoramablicke auf die Hafenstadt und die Bucht dient.",
+                  "category": "natural",
+                  "coords": [
+                        109.175988,
+                        13.822897
+                  ]
+            },
+            {
+                  "name": "Tháp Thầy Bói",
+                  "text": "Ein kleines, auf einem Felsen errichtetes Turmdenkmal in den Gewässern der Lagune von Thi Nai.",
+                  "category": "historical",
+                  "coords": [
+                        109.239492,
+                        13.796959
+                  ]
+            },
+            {
+                  "name": "Hải đăng Phước Mai",
+                  "text": "Ein französischer Kolonialleuchtturm auf der Halbinsel Phuong Mai, der Schiffe in den Hafen von Quy Nhon führt.",
+                  "category": "landmark",
+                  "coords": [
+                        109.250826,
+                        13.761425
+                  ]
+            },
+            {
+                  "name": "Quy Nhon Beach",
+                  "text": "Ein langer, halbmondförmiger Sandstrand im Herzen der Stadt, gesäumt von einer belebten Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        109.226197,
+                        13.762409
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Tịnh",
+                  "text": "Eine friedliche vietnamesische Pagode, deren Architektur kunstvolle Drachenmotive und aufwendige Dachverzierungen aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        109.217003,
+                        13.766328
+                  ]
+            },
+            {
+                  "name": "Nhu Y's Beach",
+                  "text": "Ein abgelegener, weniger überlaufener Sandstrand, der sich ideal für einen ruhigen Badeausflug abseits des Hafens eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        109.217775,
+                        13.72032
+                  ]
+            },
+            {
+                  "name": "Chùa Phổ Minh",
+                  "text": "Dieser buddhistische Tempel bietet Gläubigen einen spirituellen Zufluchtsort mit traditionellen Schreinen und einem Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        109.213945,
+                        13.790268
+                  ]
+            },
+            {
+                  "name": "Chùa Tịnh xá Ngọc Nhơn",
+                  "text": "Ein ruhiges buddhistisches Kloster, das Mönchen und Einheimischen als Ort für Meditation und Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214966,
+                        13.783396
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "Eine aus dem 18. Jahrhundert stammende buddhistische Pagode mit einer beeindruckenden, großen stehenden Buddha-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        109.229431,
+                        13.774566
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nhọn",
+                  "text": "Eine markante katholische Kirche im neugotischen Stil, bekannt für ihren hohen, spitzen Glockenturm.",
+                  "category": "landmark",
+                  "coords": [
+                        109.235031,
+                        13.775473
+                  ]
+            },
+            {
+                  "name": "Quy Nhơn Evangelical Church",
+                  "text": "Ein schlichtes, aber einladendes Gebäude der evangelischen Gemeinde in der wirtschaftlichen Zone der Hafenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        109.231253,
+                        13.771942
+                  ]
+            },
+            {
+                  "name": "Chùa Tâm Ấn Tự",
+                  "text": "Diese buddhistische Pagode zeichnet sich durch einen schönen, von schattigen Bäumen und Lotusblumen umgebenen Innenhof aus.",
+                  "category": "landmark",
+                  "coords": [
+                        109.230841,
+                        13.772951
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Hòa Ninh",
+                  "text": "Die christliche Pfarrkirche dient der lokalen katholischen Gemeinde mit regelmäßigen Gottesdiensten in einem modernen Gebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        109.223558,
+                        13.765249
+                  ]
+            },
+            {
+                  "name": "Chùa Hiển Nam",
+                  "text": "Ein spirituelles Heiligtum des Mahayana-Buddhismus, das für seine friedliche Atmosphäre und detailreichen Altäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        109.219692,
+                        13.767887
+                  ]
+            },
+            {
+                  "name": "Ghềnh Ráng Church",
+                  "text": "Eine katholische Kirche, die sich in die hügelige und felsige Küstenlandschaft von Ghềnh Ráng einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        109.212482,
+                        13.749381
+                  ]
+            },
+            {
+                  "name": "Chùa Hương Mai",
+                  "text": "Ein buddhistischer Tempel, dessen Architektur von hellen gelben Wänden und traditionell geschwungenen Ziegeldächern geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        109.288886,
+                        13.765366
+                  ]
+            },
+            {
+                  "name": "Chùa Sơn Long",
+                  "text": "Diese alte Pagode beherbergt eine bedeutende Buddha-Statue, die aus einem einzigen großen Felsblock gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        109.177646,
+                        13.819316
+                  ]
+            },
+            {
+                  "name": "Tiểu chủng viện Làng Sông",
+                  "text": "Das ehemalige theologische Seminar zeichnet sich durch seine majestätische gotische Architektur und alte Banyan-Bäume aus.",
+                  "category": "religious",
+                  "coords": [
+                        109.199092,
+                        13.820358
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "Ein Zen-buddhistisches Kloster der Truc Lam-Tradition, das Meditationskurse in einer ruhigen Umgebung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        109.222785,
+                        13.780842
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "Dieser kreisförmige Markt, auch bekannt als Dam-Markt, ist ein lokales Zentrum für Kleidung und getrocknete Meeresfrüchte.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224988,
+                        13.782407
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Der größte zentrale Handelsplatz der Hafenstadt, der täglich eine immense Auswahl an frischem Gemüse und Haushaltswaren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224633,
+                        13.772438
+                  ]
+            },
+            {
+                  "name": "Market 2 (Produce and fish)",
+                  "text": "Dieser authentische lokale Marktbereich ist speziell auf frisches Gemüse und den morgendlichen Fischfang fokussiert.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224722,
+                        13.76587
+                  ]
+            },
+            {
+                  "name": "Evening Textile Market",
+                  "text": "Ein abendlicher Textilmarkt, der eine große Auswahl an bunten Stoffen im Hafenviertel von Quy Nhon bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        109.221072,
+                        13.764168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tháp Đôi",
+                  "text": "Ezek a feltűnő, 11-13. századból származó csam ikertornyok bonyolult téglafaragványokkal büszkélkedhetnek.",
+                  "category": "historical",
+                  "coords": [
+                        109.211083,
+                        13.786253
+                  ]
+            },
+            {
+                  "name": "Tượng đài Quang Trung - Nguyễn Huệ",
+                  "text": "Ez az emlékmű Quang Trung vietnami császár előtt tiszteleg, emléket állítva történelmi katonai győzelmeinek.",
+                  "category": "historical",
+                  "coords": [
+                        109.22624,
+                        13.777166
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Tổng Hợp Bình Định",
+                  "text": "A tartományi múzeum a helyi csam szobrok és a Bình Định történelméből származó műtárgyak átfogó gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        109.233387,
+                        13.770453
+                  ]
+            },
+            {
+                  "name": "Tượng Đài Chiến Thắng",
+                  "text": "Egy impozáns győzelmi emlékmű, amely egy köztéren áll, a régió ellenállóképességét és diadalait ünnepelve.",
+                  "category": "historical",
+                  "coords": [
+                        109.234665,
+                        13.769729
+                  ]
+            },
+            {
+                  "name": "BẢO TÀNG TƯ NHÂN GỐM CỔ GÒ SÀNH VIJAYA - CHAMPA - BÌNH ĐỊNH",
+                  "text": "Ez a magánmúzeum a Gò Sành lelőhelyről származó ritka, ősi Vijaya-Csam kerámiák megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        109.227334,
+                        13.773405
+                  ]
+            },
+            {
+                  "name": "Inexpensive banana fritters and coffee",
+                  "text": "Egy hangulatos utcasarok Quy Nhonban, ahol frissen sült banánt és erős vietnami kávét fogyaszthatnak a látogatók.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21673,
+                        13.765324
+                  ]
+            },
+            {
+                  "name": "Tượng đài Nguyễn Sinh Sắc - Nguyễn Tất Thành",
+                  "text": "A szobrok Nguyễn Sinh Sắc és fia, Ho Si Minh történelmi elválásának állítanak emléket a főtéren.",
+                  "category": "historical",
+                  "coords": [
+                        109.220966,
+                        13.762777
+                  ]
+            },
+            {
+                  "name": "Flower",
+                  "text": "Egy dekoratív virág alakú emlékmű, amely színt visz Quy Nhon városi parki tájába.",
+                  "category": "historical",
+                  "coords": [
+                        109.220682,
+                        13.76112
+                  ]
+            },
+            {
+                  "name": "Gazebos",
+                  "text": "Fedett kilátó pavilonok, amelyek árnyékos helyet kínálnak a kikötőre és a tengerre nyíló lenyűgöző kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        109.214591,
+                        13.744963
+                  ]
+            },
+            {
+                  "name": "Khu du lịch Ghềnh Ráng",
+                  "text": "Ez a tengerparti turisztikai övezet híres sziklás partvonaláról és fenyőkkel szegélyezett dombos terepéről.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214763,
+                        13.743319
+                  ]
+            },
+            {
+                  "name": "Trại Phong Quy Hòa",
+                  "text": "Az egykori lepratelep egy csendes tengerparti völgyben fekszik, és történelmi építészettel, valamint kertekkel várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        109.217588,
+                        13.723958
+                  ]
+            },
+            {
+                  "name": "Núi Trường Úc",
+                  "text": "Egy kiemelkedő domb, amely természetes kilátóként szolgál a kikötővárosra és az öbölre nyíló panorámához.",
+                  "category": "natural",
+                  "coords": [
+                        109.175988,
+                        13.822897
+                  ]
+            },
+            {
+                  "name": "Tháp Thầy Bói",
+                  "text": "Egy apró, sziklára épült toronyemlékmű a Thi Nai lagúna vizében.",
+                  "category": "historical",
+                  "coords": [
+                        109.239492,
+                        13.796959
+                  ]
+            },
+            {
+                  "name": "Hải đăng Phước Mai",
+                  "text": "Egy francia gyarmati világítótorony a Phuong Mai-félszigeten, amely a hajókat irányítja a Quy Nhon-i kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        109.250826,
+                        13.761425
+                  ]
+            },
+            {
+                  "name": "Quy Nhon Beach",
+                  "text": "Hosszú, félhold alakú homokos strand a város szívében, amelyet egy nyüzsgő sétány szegélyez.",
+                  "category": "recreational",
+                  "coords": [
+                        109.226197,
+                        13.762409
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Tịnh",
+                  "text": "Egy békés vietnami pagoda, amelynek építészete díszes sárkánymotívumokat és bonyolult tetődíszítéseket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        109.217003,
+                        13.766328
+                  ]
+            },
+            {
+                  "name": "Nhu Y's Beach",
+                  "text": "Egy eldugott, kevésbé zsúfolt homokos strand, amely ideális egy csendes úszáshoz a kikötőtől távol.",
+                  "category": "recreational",
+                  "coords": [
+                        109.217775,
+                        13.72032
+                  ]
+            },
+            {
+                  "name": "Chùa Phổ Minh",
+                  "text": "Ez a buddhista templom spirituális menedéket kínál a hívőknek hagyományos szentélyeivel és egy belső udvarral.",
+                  "category": "landmark",
+                  "coords": [
+                        109.213945,
+                        13.790268
+                  ]
+            },
+            {
+                  "name": "Chùa Tịnh xá Ngọc Nhơn",
+                  "text": "Egy csendes buddhista kolostor, amely a szerzetesek és a helyiek számára a meditáció és az ima helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214966,
+                        13.783396
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "A 18. századból származó buddhista pagoda, amely egy lenyűgöző, nagy álló Buddha-szoborral büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        109.229431,
+                        13.774566
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nhọn",
+                  "text": "Jellegzetes, neogótikus stílusú katolikus templom, amely magas, hegyes harangtornyáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.235031,
+                        13.775473
+                  ]
+            },
+            {
+                  "name": "Quy Nhơn Evangelical Church",
+                  "text": "A kikötőváros gazdasági övezetében található egyszerű, de barátságos evangélikus gyülekezeti épület.",
+                  "category": "landmark",
+                  "coords": [
+                        109.231253,
+                        13.771942
+                  ]
+            },
+            {
+                  "name": "Chùa Tâm Ấn Tự",
+                  "text": "Ezt a buddhista pagodát egy gyönyörű, árnyas fákkal és lótuszvirágokkal teli udvar jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        109.230841,
+                        13.772951
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Hòa Ninh",
+                  "text": "A keresztény plébániatemplom a helyi katolikus közösséget szolgálja, rendszeres istentiszteletekkel egy modern épületben.",
+                  "category": "landmark",
+                  "coords": [
+                        109.223558,
+                        13.765249
+                  ]
+            },
+            {
+                  "name": "Chùa Hiển Nam",
+                  "text": "A mahájána buddhizmus spirituális szentélye, amely békés légköréről és részletgazdag oltárairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.219692,
+                        13.767887
+                  ]
+            },
+            {
+                  "name": "Ghềnh Ráng Church",
+                  "text": "A Ghềnh Ráng dombos és sziklás part menti tájába illeszkedő katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        109.212482,
+                        13.749381
+                  ]
+            },
+            {
+                  "name": "Chùa Hương Mai",
+                  "text": "Buddhista templom, amelynek építészetét élénk sárga falak és hagyományosan ívelt cseréptetők jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        109.288886,
+                        13.765366
+                  ]
+            },
+            {
+                  "name": "Chùa Sơn Long",
+                  "text": "Ez a régi pagoda egy jelentős Buddha-szobrot rejt, amelyet egyetlen hatalmas sziklából faragtak.",
+                  "category": "landmark",
+                  "coords": [
+                        109.177646,
+                        13.819316
+                  ]
+            },
+            {
+                  "name": "Tiểu chủng viện Làng Sông",
+                  "text": "Az egykori teológiai szeminárium fenséges gótikus építészetével és ősi banyánfáival tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        109.199092,
+                        13.820358
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "A Truc Lam hagyományt követő zen buddhista kolostor, amely csendes környezetben kínál meditációs elvonulásokat.",
+                  "category": "landmark",
+                  "coords": [
+                        109.222785,
+                        13.780842
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "Ez a kör alakú piac, más néven Dam piac, a ruházat és a szárított tenger gyümölcsei helyi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224988,
+                        13.782407
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "A kikötőváros legnagyobb központi piaca, amely naponta friss zöldségek és háztartási cikkek hatalmas választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224633,
+                        13.772438
+                  ]
+            },
+            {
+                  "name": "Market 2 (Produce and fish)",
+                  "text": "Ez az autentikus helyi piactér kifejezetten a friss zöldségekre és a reggeli halfogásra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224722,
+                        13.76587
+                  ]
+            },
+            {
+                  "name": "Evening Textile Market",
+                  "text": "Esti textilpiac, amely színes szövetek széles választékát kínálja Quy Nhon kikötőnegyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        109.221072,
+                        13.764168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tháp Đôi",
+                  "text": "Aceste turnuri gemene izbitoare Cham, datând din secolele XI-XIII, prezintă sculpturi complicate în cărămidă.",
+                  "category": "historical",
+                  "coords": [
+                        109.211083,
+                        13.786253
+                  ]
+            },
+            {
+                  "name": "Tượng đài Quang Trung - Nguyễn Huệ",
+                  "text": "Acest monument îl onorează pe împăratul vietnamez Quang Trung, comemorând victoriile sale militare istorice.",
+                  "category": "historical",
+                  "coords": [
+                        109.22624,
+                        13.777166
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Tổng Hợp Bình Định",
+                  "text": "Muzeul provincial găzduiește o colecție cuprinzătoare de sculpturi locale Cham și artefacte din istoria regiunii Bình Định.",
+                  "category": "museum",
+                  "coords": [
+                        109.233387,
+                        13.770453
+                  ]
+            },
+            {
+                  "name": "Tượng Đài Chiến Thắng",
+                  "text": "Un impunător monument al victoriei aflat într-o piață publică, sărbătorind reziliența și triumfurile regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        109.234665,
+                        13.769729
+                  ]
+            },
+            {
+                  "name": "BẢO TÀNG TƯ NHÂN GỐM CỔ GÒ SÀNH VIJAYA - CHAMPA - BÌNH ĐỊNH",
+                  "text": "Acest muzeu privat este dedicat conservării ceramicii rare, antice Vijaya-Cham din situl Gò Sành.",
+                  "category": "museum",
+                  "coords": [
+                        109.227334,
+                        13.773405
+                  ]
+            },
+            {
+                  "name": "Inexpensive banana fritters and coffee",
+                  "text": "Un colț de stradă confortabil din Quy Nhon, unde vă puteți bucura de banane proaspăt prăjite și de o cafea vietnameză tare.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21673,
+                        13.765324
+                  ]
+            },
+            {
+                  "name": "Tượng đài Nguyễn Sinh Sắc - Nguyễn Tất Thành",
+                  "text": "Statuile onorează despărțirea istorică dintre Nguyễn Sinh Sắc și fiul său Ho Chi Minh în piața principală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        109.220966,
+                        13.762777
+                  ]
+            },
+            {
+                  "name": "Flower",
+                  "text": "Un monument decorativ în formă de floare care adaugă culoare peisajului parcului urban din Quy Nhon.",
+                  "category": "historical",
+                  "coords": [
+                        109.220682,
+                        13.76112
+                  ]
+            },
+            {
+                  "name": "Gazebos",
+                  "text": "Foișoare de observație acoperite care oferă un loc umbrit pentru a vă bucura de priveliștile largi ale portului și mării.",
+                  "category": "natural",
+                  "coords": [
+                        109.214591,
+                        13.744963
+                  ]
+            },
+            {
+                  "name": "Khu du lịch Ghềnh Ráng",
+                  "text": "Această zonă turistică de coastă este faimoasă pentru țărmul său stâncos și terenul deluros mărginit de pini.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214763,
+                        13.743319
+                  ]
+            },
+            {
+                  "name": "Trại Phong Quy Hòa",
+                  "text": "Fosta colonie de leproși este situată într-o vale liniștită de pe litoral, oferind o arhitectură istorică și grădini.",
+                  "category": "natural",
+                  "coords": [
+                        109.217588,
+                        13.723958
+                  ]
+            },
+            {
+                  "name": "Núi Trường Úc",
+                  "text": "Un deal proeminent care servește ca punct de observare natural pentru vederi panoramice ale orașului-port și ale golfului.",
+                  "category": "natural",
+                  "coords": [
+                        109.175988,
+                        13.822897
+                  ]
+            },
+            {
+                  "name": "Tháp Thầy Bói",
+                  "text": "Un mic turn-monument construit pe o stâncă în apele lagunei Thi Nai.",
+                  "category": "historical",
+                  "coords": [
+                        109.239492,
+                        13.796959
+                  ]
+            },
+            {
+                  "name": "Hải đăng Phước Mai",
+                  "text": "Un far colonial francez de pe peninsula Phuong Mai care ghidează navele în portul Quy Nhon.",
+                  "category": "landmark",
+                  "coords": [
+                        109.250826,
+                        13.761425
+                  ]
+            },
+            {
+                  "name": "Quy Nhon Beach",
+                  "text": "O plajă lungă cu nisip în formă de semilună în inima orașului, mărginită de o promenadă plină de viață.",
+                  "category": "recreational",
+                  "coords": [
+                        109.226197,
+                        13.762409
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Tịnh",
+                  "text": "O pagodă vietnameză liniștită a cărei arhitectură prezintă motive ornamentale cu dragoni și decorațiuni complicate ale acoperișului.",
+                  "category": "landmark",
+                  "coords": [
+                        109.217003,
+                        13.766328
+                  ]
+            },
+            {
+                  "name": "Nhu Y's Beach",
+                  "text": "O plajă retrasă, mai puțin aglomerată, ideală pentru o baie liniștită, departe de portul principal.",
+                  "category": "recreational",
+                  "coords": [
+                        109.217775,
+                        13.72032
+                  ]
+            },
+            {
+                  "name": "Chùa Phổ Minh",
+                  "text": "Acest templu budist oferă un refugiu spiritual credincioșilor, cu altare tradiționale și o curte interioară.",
+                  "category": "landmark",
+                  "coords": [
+                        109.213945,
+                        13.790268
+                  ]
+            },
+            {
+                  "name": "Chùa Tịnh xá Ngọc Nhơn",
+                  "text": "O mănăstire budistă liniștită care servește ca spațiu pentru meditație și rugăciune pentru călugări și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214966,
+                        13.783396
+                  ]
+            },
+            {
+                  "name": "Chùa Long Khánh",
+                  "text": "O pagodă budistă datând din secolul al XVIII-lea, care se mândrește cu o statuie impresionantă și mare a lui Buddha stând în picioare.",
+                  "category": "landmark",
+                  "coords": [
+                        109.229431,
+                        13.774566
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nhọn",
+                  "text": "O biserică catolică distinctivă în stil neogotic, recunoscută pentru turnul său înalt și ascuțit cu clopot.",
+                  "category": "landmark",
+                  "coords": [
+                        109.235031,
+                        13.775473
+                  ]
+            },
+            {
+                  "name": "Quy Nhơn Evangelical Church",
+                  "text": "O clădire de biserică evanghelică simplă, dar primitoare, situată în zona economică a orașului-port.",
+                  "category": "landmark",
+                  "coords": [
+                        109.231253,
+                        13.771942
+                  ]
+            },
+            {
+                  "name": "Chùa Tâm Ấn Tự",
+                  "text": "Această pagodă budistă se caracterizează printr-o curte frumoasă, cu copaci umbroși și flori de lotus.",
+                  "category": "landmark",
+                  "coords": [
+                        109.230841,
+                        13.772951
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Hòa Ninh",
+                  "text": "Biserica parohială creștină servește comunității catolice locale cu slujbe regulate într-o clădire modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        109.223558,
+                        13.765249
+                  ]
+            },
+            {
+                  "name": "Chùa Hiển Nam",
+                  "text": "Un sanctuar spiritual budist Mahayana, cunoscut pentru atmosfera sa pașnică și altarele bogat detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        109.219692,
+                        13.767887
+                  ]
+            },
+            {
+                  "name": "Ghềnh Ráng Church",
+                  "text": "O biserică catolică care se integrează în peisajul de coastă deluros și stâncos din Ghềnh Ráng.",
+                  "category": "landmark",
+                  "coords": [
+                        109.212482,
+                        13.749381
+                  ]
+            },
+            {
+                  "name": "Chùa Hương Mai",
+                  "text": "Un templu budist a cărui arhitectură se remarcă prin pereți galbeni luminoși și acoperișuri curbate din țiglă.",
+                  "category": "landmark",
+                  "coords": [
+                        109.288886,
+                        13.765366
+                  ]
+            },
+            {
+                  "name": "Chùa Sơn Long",
+                  "text": "Această veche pagodă adăpostește o importantă statuie a lui Buddha, sculptată dintr-un singur bolovan masiv.",
+                  "category": "landmark",
+                  "coords": [
+                        109.177646,
+                        13.819316
+                  ]
+            },
+            {
+                  "name": "Tiểu chủng viện Làng Sông",
+                  "text": "Fostul seminar teologic se remarcă prin arhitectura sa gotică maiestuoasă și copacii de banyan vechi.",
+                  "category": "religious",
+                  "coords": [
+                        109.199092,
+                        13.820358
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "O mănăstire budistă zen din tradiția Truc Lam, oferind un mediu pașnic pentru practicile de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        109.222785,
+                        13.780842
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "Această piață circulară, cunoscută și sub numele de Piața Dam, este un centru local pentru îmbrăcăminte și fructe de mare uscate.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224988,
+                        13.782407
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Cel mai mare spațiu comercial central din orașul-port, oferind o selecție imensă de legume proaspete și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224633,
+                        13.772438
+                  ]
+            },
+            {
+                  "name": "Market 2 (Produce and fish)",
+                  "text": "Această zonă autentică a pieței locale este concentrată în mod special pe legumele proaspete și pe captura de pește de dimineață.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224722,
+                        13.76587
+                  ]
+            },
+            {
+                  "name": "Evening Textile Market",
+                  "text": "O piață textilă de seară care oferă o gamă largă de țesături colorate în zona portuară din Quy Nhon.",
+                  "category": "cultural",
+                  "coords": [
+                        109.221072,
+                        13.764168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doi Cham Towers",
+                  "text": "These striking twin Cham towers, dating back to the 11th-13th centuries, feature intricate brickwork carvings.",
+                  "category": "historical",
+                  "coords": [
+                        109.211083,
+                        13.786253
+                  ]
+            },
+            {
+                  "name": "Memorial of Emperor Quang Trung",
+                  "text": "This monument honors the Vietnamese Emperor Quang Trung, commemorating his historic military victories.",
+                  "category": "historical",
+                  "coords": [
+                        109.22624,
+                        13.777166
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Tổng Hợp Bình Định",
+                  "text": "The provincial museum houses a comprehensive collection of local Cham sculptures and artifacts from Bình Định's history.",
+                  "category": "museum",
+                  "coords": [
+                        109.233387,
+                        13.770453
+                  ]
+            },
+            {
+                  "name": "Tượng Đài Chiến Thắng",
+                  "text": "An imposing victory monument standing in a public square to celebrate the region's resilience and triumphs.",
+                  "category": "historical",
+                  "coords": [
+                        109.234665,
+                        13.769729
+                  ]
+            },
+            {
+                  "name": "BẢO TÀNG TƯ NHÂN GỐM CỔ GÒ SÀNH VIJAYA - CHAMPA - BÌNH ĐỊNH",
+                  "text": "This private museum is dedicated to preserving rare, ancient Vijaya-Cham ceramics excavated from the Gò Sành site.",
+                  "category": "museum",
+                  "coords": [
+                        109.227334,
+                        13.773405
+                  ]
+            },
+            {
+                  "name": "Inexpensive banana fritters and coffee",
+                  "text": "A cozy street corner in Quy Nhon where you can enjoy freshly fried banana fritters paired with strong Vietnamese coffee.",
+                  "category": "landmark",
+                  "coords": [
+                        109.21673,
+                        13.765324
+                  ]
+            },
+            {
+                  "name": "Tượng đài Nguyễn Sinh Sắc - Nguyễn Tất Thành",
+                  "text": "The statues honor the historic parting between Nguyễn Sinh Sắc and his son Ho Chi Minh located in the main square.",
+                  "category": "historical",
+                  "coords": [
+                        109.220966,
+                        13.762777
+                  ]
+            },
+            {
+                  "name": "Flower",
+                  "text": "A decorative flower-shaped monument that adds color to the urban park landscape of Quy Nhon.",
+                  "category": "historical",
+                  "coords": [
+                        109.220682,
+                        13.76112
+                  ]
+            },
+            {
+                  "name": "Gazebos",
+                  "text": "Covered viewing gazebos providing a shaded spot to take in the sweeping vistas of the port and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        109.214591,
+                        13.744963
+                  ]
+            },
+            {
+                  "name": "Khu du lịch Ghềnh Ráng",
+                  "text": "This coastal tourist area is famous for its rocky shoreline and pine-lined hilly terrain overlooking the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214763,
+                        13.743319
+                  ]
+            },
+            {
+                  "name": "Trại Phong Quy Hòa",
+                  "text": "The former leper colony is nestled in a quiet seaside valley, offering historical architecture and serene gardens.",
+                  "category": "natural",
+                  "coords": [
+                        109.217588,
+                        13.723958
+                  ]
+            },
+            {
+                  "name": "Truong Uc Mountain",
+                  "text": "A prominent hill serving as a natural vantage point for panoramic views over the port city and the bay.",
+                  "category": "natural",
+                  "coords": [
+                        109.175988,
+                        13.822897
+                  ]
+            },
+            {
+                  "name": "Tháp Thầy Bói",
+                  "text": "A small tower monument built on a rock outcropping within the waters of the Thi Nai Lagoon.",
+                  "category": "historical",
+                  "coords": [
+                        109.239492,
+                        13.796959
+                  ]
+            },
+            {
+                  "name": "Hải đăng Phước Mai",
+                  "text": "A French colonial-era lighthouse standing on the Phuong Mai Peninsula, guiding ships into the port of Quy Nhon.",
+                  "category": "landmark",
+                  "coords": [
+                        109.250826,
+                        13.761425
+                  ]
+            },
+            {
+                  "name": "Quy Nhon Beach",
+                  "text": "A long, crescent-shaped sandy beach right in the heart of the city, lined with a bustling promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        109.226197,
+                        13.762409
+                  ]
+            },
+            {
+                  "name": "Chùa Minh Tịnh",
+                  "text": "A peaceful Vietnamese pagoda whose architecture features ornate dragon motifs and elaborate roof decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        109.217003,
+                        13.766328
+                  ]
+            },
+            {
+                  "name": "Nhu Y's Beach",
+                  "text": "A secluded, less crowded sandy beach ideal for a quiet swim away from the main port area.",
+                  "category": "recreational",
+                  "coords": [
+                        109.217775,
+                        13.72032
+                  ]
+            },
+            {
+                  "name": "Chùa Phổ Minh",
+                  "text": "This Buddhist temple offers a spiritual refuge for worshippers with traditional shrines and a courtyard space.",
+                  "category": "landmark",
+                  "coords": [
+                        109.213945,
+                        13.790268
+                  ]
+            },
+            {
+                  "name": "Chùa Tịnh xá Ngọc Nhơn",
+                  "text": "A quiet Buddhist vihara functioning as a space for meditation and prayer for monks and locals.",
+                  "category": "landmark",
+                  "coords": [
+                        109.214966,
+                        13.783396
+                  ]
+            },
+            {
+                  "name": "Long Khanh Pagoda",
+                  "text": "A Buddhist pagoda originating from the 18th century, boasting an impressive, large standing Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        109.229431,
+                        13.774566
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Nhọn",
+                  "text": "A distinctive neo-Gothic Catholic church recognized by its tall, pointed bell tower spire.",
+                  "category": "landmark",
+                  "coords": [
+                        109.235031,
+                        13.775473
+                  ]
+            },
+            {
+                  "name": "Quy Nhơn Evangelical Church",
+                  "text": "A simple yet welcoming Evangelical congregation building situated in the economic zone of the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        109.231253,
+                        13.771942
+                  ]
+            },
+            {
+                  "name": "Chùa Tâm Ấn Tự",
+                  "text": "This Buddhist pagoda is characterized by a beautiful courtyard setting with shady trees and lotus displays.",
+                  "category": "landmark",
+                  "coords": [
+                        109.230841,
+                        13.772951
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Hòa Ninh",
+                  "text": "The Christian parish church serves the local Catholic community with regular masses in a modern building.",
+                  "category": "landmark",
+                  "coords": [
+                        109.223558,
+                        13.765249
+                  ]
+            },
+            {
+                  "name": "Chùa Hiển Nam",
+                  "text": "A Mahayana Buddhist spiritual sanctuary known for its peaceful atmosphere and richly detailed altars.",
+                  "category": "landmark",
+                  "coords": [
+                        109.219692,
+                        13.767887
+                  ]
+            },
+            {
+                  "name": "Ghềnh Ráng Church",
+                  "text": "A Catholic church blending into the hilly and rocky coastal landscape of the Ghềnh Ráng area.",
+                  "category": "landmark",
+                  "coords": [
+                        109.212482,
+                        13.749381
+                  ]
+            },
+            {
+                  "name": "Chùa Hương Mai",
+                  "text": "A Buddhist temple whose architecture is marked by bright yellow walls and traditional curved tile roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        109.288886,
+                        13.765366
+                  ]
+            },
+            {
+                  "name": "Chùa Sơn Long",
+                  "text": "This old pagoda houses a significant Buddha statue that was carved from a single massive boulder.",
+                  "category": "landmark",
+                  "coords": [
+                        109.177646,
+                        13.819316
+                  ]
+            },
+            {
+                  "name": "Làng Sông Minor Seminary",
+                  "text": "The former theological seminary stands out with its majestic Gothic architecture and ancient banyan trees.",
+                  "category": "religious",
+                  "coords": [
+                        109.199092,
+                        13.820358
+                  ]
+            },
+            {
+                  "name": "Chùa Trúc Lâm",
+                  "text": "A Zen Buddhist monastery following the Truc Lam tradition, offering a peaceful environment for meditation practices.",
+                  "category": "landmark",
+                  "coords": [
+                        109.222785,
+                        13.780842
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "This circular structured market, also known as Dam Market, is a local hub for clothing and dried seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224988,
+                        13.782407
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "The largest central trading space of the port city, offering an immense daily selection of fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224633,
+                        13.772438
+                  ]
+            },
+            {
+                  "name": "Market 2 (Produce and fish)",
+                  "text": "This authentic local market sector is specifically focused on fresh farm produce and the morning fish catch.",
+                  "category": "cultural",
+                  "coords": [
+                        109.224722,
+                        13.76587
+                  ]
+            },
+            {
+                  "name": "Evening Textile Market",
+                  "text": "An evening textile market offering a wide array of colourful fabrics in the port area of Quy Nhon.",
+                  "category": "cultural",
+                  "coords": [
+                        109.221072,
+                        13.764168
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VN-BD",
     coords: [109.24, 13.76],

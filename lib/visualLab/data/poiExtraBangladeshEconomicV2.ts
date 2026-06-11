@@ -3,7 +3,1456 @@ import { POI } from './poi';
 export const bangladeshEconomicV2: POI[] = [
 
   {
-    id: "bangladesh-mongla-port-economic-v2",
+    id: "bangladesh-mongla-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sonailltola Ferry Ghat Bazar.",
+                  "text": "Ein belebter Markt am Flussufer, der sich direkt an der Fährüberfahrt Sonailltola in der Nähe des Hafens von Mongla befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        89.684073,
+                        22.525914
+                  ]
+            },
+            {
+                  "name": "Ray Market সত্যজিৎ বাজার",
+                  "text": "Ein lokales Handelszentrum, das frische Produkte und Dinge des täglichen Bedarfs für die Hafengemeinde Mongla anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        89.590021,
+                        22.532885
+                  ]
+            },
+            {
+                  "name": "Crab Market",
+                  "text": "Ein spezialisierter Meeresfrüchtemarkt in der Nähe des Hafens von Mongla, auf dem lokale Fischer frisch gefangene Krabben handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        89.589527,
+                        22.530734
+                  ]
+            },
+            {
+                  "name": "Gona Bridge Bazar (Hat)",
+                  "text": "Ein pulsierendes lokales Handelszentrum in der Nähe der Gona-Brücke am Hafengebiet von Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.595821,
+                        22.556905
+                  ]
+            },
+            {
+                  "name": "Sundarban Market",
+                  "text": "Ein regionaler Markt in der Nähe des Hafens von Mongla, auf dem Waren aus dem nahe gelegenen Sundarbans-Mangrovenwald angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        89.602026,
+                        22.46949
+                  ]
+            },
+            {
+                  "name": "Digraj Market",
+                  "text": "Ein geschäftiges Handelszentrum, das Arbeiter und Anwohner in der Nähe des Hafens von Mongla mit wichtigen Gütern versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.674983,
+                        22.43465
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein standardmäßiger lokaler Marktplatz, der die Gemeinde rund um den Hafen von Mongla mit täglichen Vorräten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642065,
+                        22.485966
+                  ]
+            },
+            {
+                  "name": "Bashtola market",
+                  "text": "Ein lebhafter lokaler Einkaufsort, der regionale Lebensmittel und Waren im Hafengebiet von Mongla anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        89.649518,
+                        22.437303
+                  ]
+            },
+            {
+                  "name": "Amratola Bazar.",
+                  "text": "Ein belebter Nachbarschaftsmarkt, der den täglichen Einkaufsbedarf der Gemeinde Amratola in der Nähe des Hafens von Mongla deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.668723,
+                        22.504053
+                  ]
+            },
+            {
+                  "name": "Ghoper Hat Bazar",
+                  "text": "Ein traditioneller Wochenmarkt, auf dem sich Bauern und Händler in der Nähe der Hafenregion Mongla versammeln.",
+                  "category": "cultural",
+                  "coords": [
+                        89.696771,
+                        22.483482
+                  ]
+            },
+            {
+                  "name": "Bokultola Purbo Para jmi Mosque.",
+                  "text": "Eine islamische Kultstätte für das Viertel Purbo Para in Bokultola in der Nähe des Hafens von Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.689823,
+                        22.516454
+                  ]
+            },
+            {
+                  "name": "Bokultola West Jami Mosque.",
+                  "text": "Ein zentraler muslimischer Versammlungsort im westlichen Sektor von Bokultola in der Nähe des Hafens von Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679661,
+                        22.520204
+                  ]
+            },
+            {
+                  "name": "Bokultola Haldar Para Jami Mosque.",
+                  "text": "Eine lokale Moschee, die tägliche islamische Gottesdienste für die Gemeinde Haldar Para in Bokultola anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679926,
+                        22.516505
+                  ]
+            },
+            {
+                  "name": "Amratola Purbo Para Baitun noor Jami Mosque.",
+                  "text": "Eine aus Ziegeln erbaute islamische Moschee, die den religiösen Bedürfnissen des Gebiets Purbo Para in Amratola in der Nähe des Hafens von Mongla dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.680173,
+                        22.508742
+                  ]
+            },
+            {
+                  "name": "Amratola Mollha Bari Mosque.",
+                  "text": "Ein lokales islamisches Gotteshaus, das der Gemeinde Amratola in der Nähe der Hafenzone von Mongla dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670126,
+                        22.505226
+                  ]
+            },
+            {
+                  "name": "Sordar Bari Jami Mosque.",
+                  "text": "Eine Gemeindemoschee, in der sich die muslimische Gemeinde von Sordar Bari im Hafengebiet von Mongla zum Freitagsgebet versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670471,
+                        22.517929
+                  ]
+            },
+            {
+                  "name": "Sonailtola Purbo Para Mosque.",
+                  "text": "Diese Moschee liegt im östlichen Viertel von Sonailtola und dient muslimischen Gläubigen in der Nähe des Hafens.",
+                  "category": "landmark",
+                  "coords": [
+                        89.669528,
+                        22.523592
+                  ]
+            },
+            {
+                  "name": "Boro Kathalli Eidgha Mosque.",
+                  "text": "Ein islamischer Gebetsplatz und eine Moschee in Boro Kathalli, die für große Versammlungen während des Eid-Festes in der Nähe von Mongla ausgelegt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679005,
+                        22.524126
+                  ]
+            },
+            {
+                  "name": "Chopra Kalli Temple.",
+                  "text": "Ein Hindu-Tempel, der der Göttin Kali gewidmet ist und ein spirituelles Zentrum für die Chopra-Gemeinde in der Hafenregion Mongla bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.650781,
+                        22.505481
+                  ]
+            },
+            {
+                  "name": "Sre Sre Sorbojannin Thakur Temple.",
+                  "text": "Ein öffentliches hinduistisches Heiligtum, das alle Gläubigen zur Thakur-Verehrung in der Nähe des geschäftigen Hafens von Mongla willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640803,
+                        22.520174
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Moddho Para Jmai Mosque.",
+                  "text": "Eine zentrale Viertelmoschee, die den islamischen spirituellen Bedürfnissen des Bezirks Ullubonniya Moddho Para dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640423,
+                        22.524984
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Mosque Ul-Habib Jami Mosque.",
+                  "text": "Diese lokale Jami-Moschee in Ullubonniya veranstaltet die freitäglichen Gemeinschaftsgebete für die umliegende muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        89.649066,
+                        22.522386
+                  ]
+            },
+            {
+                  "name": "Joykhaar Purba Para Sorbojannin Durga Temple.",
+                  "text": "Ein kommunaler Hindu-Tempel im östlichen Teil von Joykhaar, der der Verehrung der Göttin Durga gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.630354,
+                        22.510855
+                  ]
+            },
+            {
+                  "name": "Baptis Church",
+                  "text": "Ein lokales christliches Heiligtum, das der Baptisten-Gemeinde inmitten der vielfältigen Hafengemeinschaft von Mongla dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.620899,
+                        22.472945
+                  ]
+            },
+            {
+                  "name": "Atim Khana Mosque",
+                  "text": "Ein islamisches Gotteshaus, das traditionell mit einem lokalen Waisenhaus in der Region Mongla verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.621596,
+                        22.478835
+                  ]
+            },
+            {
+                  "name": "Malgazi Mohammadia Mosque",
+                  "text": "Eine Gemeindemoschee, die einen eigenen Gebetsraum für die muslimischen Bewohner im Malgazi-Gebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.628557,
+                        22.472185
+                  ]
+            },
+            {
+                  "name": "Seventh Advantist Church",
+                  "text": "Ein christliches Gotteshaus in der Hafenzone von Mongla, das der örtlichen Gemeinde der Siebenten-Tags-Adventisten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.627294,
+                        22.468001
+                  ]
+            },
+            {
+                  "name": "মংলা উপজেলা কেন্দ্রীয় মন্দির",
+                  "text": "Der zentrale Hindu-Tempel der Upazila Mongla, der als primäres spirituelles und kulturelles Zentrum für lokale Gläubige dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.614466,
+                        22.469624
+                  ]
+            },
+            {
+                  "name": "Adhar Manick Jmai Mosque",
+                  "text": "Eine Jami-Gemeindemoschee, die tägliche und freitägliche Gebetsdienste für Muslime in Adhar Manick anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594211,
+                        22.464301
+                  ]
+            },
+            {
+                  "name": "Amtol Moddhopara Sree Sree Setola Mondir",
+                  "text": "Ein hinduistischer Nachbarschaftstempel in Amtol Moddhopara, der traditionell Shitala, der Göttin der Gesundheit, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.578131,
+                        22.470782
+                  ]
+            },
+            {
+                  "name": "Amtola Polish Fari Jami Mosque",
+                  "text": "Ein lokaler islamischer Gebetsort in der Nähe des Polizeipostens in der Gegend von Amtola.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582479,
+                        22.465057
+                  ]
+            },
+            {
+                  "name": "Amtola Banishanta Sorbajanin Durga Mondir",
+                  "text": "Ein öffentliches hinduistisches Heiligtum in Amtola Banishanta, das die Verehrung der Göttin Durga feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582157,
+                        22.466701
+                  ]
+            },
+            {
+                  "name": "Banishanta Sorbojanin Durga Mondir",
+                  "text": "Ein kommunaler Hindu-Schrein in Banishanta, wo sich Einheimische zur Durga Puja und zum täglichen Gottesdienst versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        89.58312,
+                        22.459561
+                  ]
+            },
+            {
+                  "name": "Sundorban Jami Mosque",
+                  "text": "Eine muslimische Gemeindemoschee, die nach dem üppigen Mangrovenwald der Sundarbans benannt ist und an dessen Rand liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583541,
+                        22.45825
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Sree Sree Kali Mondir",
+                  "text": "Ein lebendiger Hindu-Tempel in Gora Dongmari, der der wilden Göttin Kali gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.584274,
+                        22.444713
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Forest Jami Mosque",
+                  "text": "Ein islamisches Gebetsheiligtum, das den Gemeinden dient, die in der Nähe der Waldgebiete von Gora Dongmari leben.",
+                  "category": "landmark",
+                  "coords": [
+                        89.585741,
+                        22.439985
+                  ]
+            },
+            {
+                  "name": "Rakhamari Baitun Noor Jami Mosque",
+                  "text": "Eine „Haus des Lichts“-Jami-Moschee, die die muslimische Gemeinde von Rakhamari zum freitäglichen Gemeinschaftsgebet versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583638,
+                        22.449304
+                  ]
+            },
+            {
+                  "name": "Banishanta Baitun Aman Jami Mosque",
+                  "text": "Ein lokales islamisches „Haus des Friedens“, das eine ruhige Gebetsumgebung für die Gemeinde Banishanta bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576766,
+                        22.453543
+                  ]
+            },
+            {
+                  "name": "Dangmari Mithapukur Jami Mosque",
+                  "text": "Diese Moschee in der Nähe eines Süßwasserteichs dient den täglichen religiösen Bedürfnissen der Muslime von Dangmari.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576101,
+                        22.443838
+                  ]
+            },
+            {
+                  "name": "Poshim Vuajonkhali Baitun Mamur Jami Mosque",
+                  "text": "Eine Gemeindemoschee im Viertel, die den westlichen Teil von Vuajonkhali versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.566075,
+                        22.443404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sonailltola Ferry Ghat Bazar.",
+                  "text": "Nyüzsgő folyóparti piac, amely közvetlenül a Sonailltola kompkikötőnél található, a Mongla kikötő közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        89.684073,
+                        22.525914
+                  ]
+            },
+            {
+                  "name": "Ray Market সত্যজিৎ বাজার",
+                  "text": "Helyi kereskedelmi központ, amely friss termékeket és napi szükségleteket kínál a Mongla kikötő közössége számára.",
+                  "category": "cultural",
+                  "coords": [
+                        89.590021,
+                        22.532885
+                  ]
+            },
+            {
+                  "name": "Crab Market",
+                  "text": "Egy speciális tenger gyümölcsei piac Mongla kikötője közelében, ahol a helyi halászok frissen fogott rákokkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        89.589527,
+                        22.530734
+                  ]
+            },
+            {
+                  "name": "Gona Bridge Bazar (Hat)",
+                  "text": "Élénk helyi kereskedelmi központ, amely a Gona híd közelében, a Mongla kikötő területén működik.",
+                  "category": "cultural",
+                  "coords": [
+                        89.595821,
+                        22.556905
+                  ]
+            },
+            {
+                  "name": "Sundarban Market",
+                  "text": "Egy regionális piac Mongla kikötője közelében, amely a közeli Sundarbans mangroveerdőből származó árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        89.602026,
+                        22.46949
+                  ]
+            },
+            {
+                  "name": "Digraj Market",
+                  "text": "Nyüzsgő kereskedelmi központ, amely alapvető árukkal látja el a Mongla kikötő közelében élő munkásokat és lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        89.674983,
+                        22.43465
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Hagyományos helyi piac, amely napi élelmiszereket biztosít a Mongla kikötőt körülvevő közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642065,
+                        22.485966
+                  ]
+            },
+            {
+                  "name": "Bashtola market",
+                  "text": "Élénk helyi bevásárlóhely, amely regionális élelmiszereket és árukat kínál a Mongla kikötőnegyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        89.649518,
+                        22.437303
+                  ]
+            },
+            {
+                  "name": "Amratola Bazar.",
+                  "text": "Nyüzsgő környékbeli piac, amely az Amratola közösség mindennapi vásárlási igényeit elégíti ki Mongla kikötője közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        89.668723,
+                        22.504053
+                  ]
+            },
+            {
+                  "name": "Ghoper Hat Bazar",
+                  "text": "Hagyományos heti piac, amely gazdákat és kereskedőket gyűjt össze a Mongla kikötő régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        89.696771,
+                        22.483482
+                  ]
+            },
+            {
+                  "name": "Bokultola Purbo Para jmi Mosque.",
+                  "text": "Iszlám istentiszteleti hely a Purbo Para negyedben Bokultolában, a Mongla kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.689823,
+                        22.516454
+                  ]
+            },
+            {
+                  "name": "Bokultola West Jami Mosque.",
+                  "text": "Központi muszlim gyülekezeti pont Bokultola nyugati szektorában, a Mongla kikötő mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679661,
+                        22.520204
+                  ]
+            },
+            {
+                  "name": "Bokultola Haldar Para Jami Mosque.",
+                  "text": "Helyi mecset, amely napi iszlám istentiszteleteket biztosít a Bokultola-i Haldar Para közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679926,
+                        22.516505
+                  ]
+            },
+            {
+                  "name": "Amratola Purbo Para Baitun noor Jami Mosque.",
+                  "text": "Téglaépítésű iszlám mecset, amely az Amratola-i Purbo Para terület vallási igényeit szolgálja ki Mongla kikötője közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.680173,
+                        22.508742
+                  ]
+            },
+            {
+                  "name": "Amratola Mollha Bari Mosque.",
+                  "text": "Egy helyi iszlám istentiszteleti hely, amely az Amratola közösséget szolgálja a Mongla kikötőövezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670126,
+                        22.505226
+                  ]
+            },
+            {
+                  "name": "Sordar Bari Jami Mosque.",
+                  "text": "Egy gyülekezeti mecset, amely a helyi Sordar Bari muszlim közösséget gyűjti össze pénteki imára a Mongla kikötő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670471,
+                        22.517929
+                  ]
+            },
+            {
+                  "name": "Sonailtola Purbo Para Mosque.",
+                  "text": "A Sonailtola keleti negyedében található mecset a kikötő közelében lévő muszlim hívőket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        89.669528,
+                        22.523592
+                  ]
+            },
+            {
+                  "name": "Boro Kathalli Eidgha Mosque.",
+                  "text": "Egy iszlám imatér és mecset Boro Kathalliban, amelyet úgy terveztek, hogy nagy gyülekezeteket fogadjon be az Eid ünnepek alatt Mongla közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679005,
+                        22.524126
+                  ]
+            },
+            {
+                  "name": "Chopra Kalli Temple.",
+                  "text": "A Kali istennőnek szentelt hindu templom, amely a Mongla kikötőrégió Chopra közösségének spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.650781,
+                        22.505481
+                  ]
+            },
+            {
+                  "name": "Sre Sre Sorbojannin Thakur Temple.",
+                  "text": "Egy nyilvános hindu szentély, amely minden hívőt szeretettel vár Thakur imádatára a nyüzsgő Mongla kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640803,
+                        22.520174
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Moddho Para Jmai Mosque.",
+                  "text": "Egy központi kerületi mecset, amely az Ullubonniya Moddho Para negyed iszlám spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640423,
+                        22.524984
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Mosque Ul-Habib Jami Mosque.",
+                  "text": "Ez a helyi Jami mecset Ullubonniyában ad otthont a környező muszlim közösség pénteki gyülekezeti imáinak.",
+                  "category": "landmark",
+                  "coords": [
+                        89.649066,
+                        22.522386
+                  ]
+            },
+            {
+                  "name": "Joykhaar Purba Para Sorbojannin Durga Temple.",
+                  "text": "Egy közösségi hindu templom Joykhaar keleti részén, amelyet Durga istennő tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        89.630354,
+                        22.510855
+                  ]
+            },
+            {
+                  "name": "Baptis Church",
+                  "text": "Egy helyi keresztény szentély, amely a baptista gyülekezetet szolgálja a sokszínű monglai kikötői közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        89.620899,
+                        22.472945
+                  ]
+            },
+            {
+                  "name": "Atim Khana Mosque",
+                  "text": "Egy iszlám istentiszteleti hely, amely hagyományosan egy helyi árvaházhoz kapcsolódik a Mongla régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        89.621596,
+                        22.478835
+                  ]
+            },
+            {
+                  "name": "Malgazi Mohammadia Mosque",
+                  "text": "Egy közösségi mecset, amely dedikált imateret biztosít a Malgazi terület muszlim lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        89.628557,
+                        22.472185
+                  ]
+            },
+            {
+                  "name": "Seventh Advantist Church",
+                  "text": "Egy keresztény istentiszteleti hely a Mongla kikötőövezetben, amely a helyi Hetednapi Adventista gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.627294,
+                        22.468001
+                  ]
+            },
+            {
+                  "name": "মংলা উপজেলা কেন্দ্রীয় মন্দির",
+                  "text": "A Mongla Upazila központi hindu temploma, amely a helyi hívek elsődleges spirituális és kulturális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        89.614466,
+                        22.469624
+                  ]
+            },
+            {
+                  "name": "Adhar Manick Jmai Mosque",
+                  "text": "Egy gyülekezeti Jami mecset, amely napi és pénteki imaszolgálatokat biztosít az Adhar Manick-i muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594211,
+                        22.464301
+                  ]
+            },
+            {
+                  "name": "Amtol Moddhopara Sree Sree Setola Mondir",
+                  "text": "Egy környékbeli hindu templom Amtol Moddhoparában, amelyet hagyományosan Shitalának, az egészség istennőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        89.578131,
+                        22.470782
+                  ]
+            },
+            {
+                  "name": "Amtola Polish Fari Jami Mosque",
+                  "text": "Egy helyi iszlám imahely az Amtola terület rendőrségi őrhelye közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582479,
+                        22.465057
+                  ]
+            },
+            {
+                  "name": "Amtola Banishanta Sorbajanin Durga Mondir",
+                  "text": "Egy nyilvános hindu szentély Amtola Banishantában, amely Durga istennő tiszteletét ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582157,
+                        22.466701
+                  ]
+            },
+            {
+                  "name": "Banishanta Sorbojanin Durga Mondir",
+                  "text": "Egy közösségi hindu szentély Banishantában, ahol a helyiek a Durga Puja ünnepre és a napi istentiszteletre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        89.58312,
+                        22.459561
+                  ]
+            },
+            {
+                  "name": "Sundorban Jami Mosque",
+                  "text": "Egy muszlim gyülekezeti mecset, amelyet a buja Sundarbans mangroveerdőről neveztek el, és annak szélén található.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583541,
+                        22.45825
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Sree Sree Kali Mondir",
+                  "text": "Egy nyüzsgő hindu templom Gora Dongmariban, amelyet a vad Kali istennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        89.584274,
+                        22.444713
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Forest Jami Mosque",
+                  "text": "Egy iszlám imaszentély, amely a Gora Dongmari erdős területei közelében élő közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.585741,
+                        22.439985
+                  ]
+            },
+            {
+                  "name": "Rakhamari Baitun Noor Jami Mosque",
+                  "text": "Egy „Fény Háza” Jami mecset, amely a rakhamari muszlim közösséget gyűjti össze a pénteki gyülekezeti imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583638,
+                        22.449304
+                  ]
+            },
+            {
+                  "name": "Banishanta Baitun Aman Jami Mosque",
+                  "text": "Egy helyi iszlám „Béke Háza”, amely nyugodt imakörnyezetet kínál a banishantai közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576766,
+                        22.453543
+                  ]
+            },
+            {
+                  "name": "Dangmari Mithapukur Jami Mosque",
+                  "text": "Egy édesvizű tó közelében található mecset, amely a dangmari muszlimok napi vallási igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576101,
+                        22.443838
+                  ]
+            },
+            {
+                  "name": "Poshim Vuajonkhali Baitun Mamur Jami Mosque",
+                  "text": "Egy környékbeli gyülekezeti mecset, amely Vuajonkhali nyugati részét szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        89.566075,
+                        22.443404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sonailltola Ferry Ghat Bazar.",
+                  "text": "O piață aglomerată pe malul râului, situată direct la trecerea cu feribotul Sonailltola, lângă Portul Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.684073,
+                        22.525914
+                  ]
+            },
+            {
+                  "name": "Ray Market সত্যজিৎ বাজার",
+                  "text": "Un centru comercial local care oferă produse proaspete și necesități zilnice pentru comunitatea portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.590021,
+                        22.532885
+                  ]
+            },
+            {
+                  "name": "Crab Market",
+                  "text": "O piață specializată de fructe de mare în apropiere de Portul Mongla, unde pescarii locali fac comerț cu crabi proaspăt prinși.",
+                  "category": "cultural",
+                  "coords": [
+                        89.589527,
+                        22.530734
+                  ]
+            },
+            {
+                  "name": "Gona Bridge Bazar (Hat)",
+                  "text": "Un centru comercial local vibrant care operează lângă Podul Gona, în zona Portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.595821,
+                        22.556905
+                  ]
+            },
+            {
+                  "name": "Sundarban Market",
+                  "text": "O piață regională în apropierea portului Mongla, care oferă bunuri provenite din pădurea de mangrove Sundarbans din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        89.602026,
+                        22.46949
+                  ]
+            },
+            {
+                  "name": "Digraj Market",
+                  "text": "Un centru comercial aglomerat care furnizează bunuri esențiale muncitorilor și rezidenților din apropierea portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.674983,
+                        22.43465
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață locală standard care oferă provizii zilnice comunității din jurul Portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642065,
+                        22.485966
+                  ]
+            },
+            {
+                  "name": "Bashtola market",
+                  "text": "Un loc local animat de cumpărături care oferă produse alimentare și bunuri regionale în districtul Portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.649518,
+                        22.437303
+                  ]
+            },
+            {
+                  "name": "Amratola Bazar.",
+                  "text": "O piață de cartier aglomerată care servește nevoilor zilnice de cumpărături ale comunității Amratola din apropierea Portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.668723,
+                        22.504053
+                  ]
+            },
+            {
+                  "name": "Ghoper Hat Bazar",
+                  "text": "O piață săptămânală tradițională care adună fermieri și comercianți în apropierea regiunii Portului Mongla.",
+                  "category": "cultural",
+                  "coords": [
+                        89.696771,
+                        22.483482
+                  ]
+            },
+            {
+                  "name": "Bokultola Purbo Para jmi Mosque.",
+                  "text": "Un lăcaș de cult islamic care deservește cartierul Purbo Para din Bokultola, lângă Portul Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.689823,
+                        22.516454
+                  ]
+            },
+            {
+                  "name": "Bokultola West Jami Mosque.",
+                  "text": "Un punct central de adunare musulmană situat în sectorul de vest al orașului Bokultola, lângă Portul Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679661,
+                        22.520204
+                  ]
+            },
+            {
+                  "name": "Bokultola Haldar Para Jami Mosque.",
+                  "text": "O moschee locală care oferă slujbe islamice zilnice pentru comunitatea Haldar Para din Bokultola.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679926,
+                        22.516505
+                  ]
+            },
+            {
+                  "name": "Amratola Purbo Para Baitun noor Jami Mosque.",
+                  "text": "O moschee islamică din cărămidă care deservește nevoile religioase din zona Purbo Para din Amratola, lângă Portul Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.680173,
+                        22.508742
+                  ]
+            },
+            {
+                  "name": "Amratola Mollha Bari Mosque.",
+                  "text": "Un lăcaș de cult islamic local care deservește comunitatea Amratola din apropierea zonei portuare Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670126,
+                        22.505226
+                  ]
+            },
+            {
+                  "name": "Sordar Bari Jami Mosque.",
+                  "text": "O moschee congregațională care adună comunitatea musulmană locală Sordar Bari din zona portului Mongla pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670471,
+                        22.517929
+                  ]
+            },
+            {
+                  "name": "Sonailtola Purbo Para Mosque.",
+                  "text": "Situată în cartierul estic din Sonailtola, această moschee deservește credincioșii musulmani din apropierea portului.",
+                  "category": "landmark",
+                  "coords": [
+                        89.669528,
+                        22.523592
+                  ]
+            },
+            {
+                  "name": "Boro Kathalli Eidgha Mosque.",
+                  "text": "Un teren de rugăciune islamic și o moschee în Boro Kathalli concepute pentru a găzdui congregații mari în timpul sărbătorii Eid din apropiere de Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679005,
+                        22.524126
+                  ]
+            },
+            {
+                  "name": "Chopra Kalli Temple.",
+                  "text": "Un templu hindus dedicat zeiței Kali, oferind un centru spiritual pentru comunitatea Chopra din regiunea portuară Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.650781,
+                        22.505481
+                  ]
+            },
+            {
+                  "name": "Sre Sre Sorbojannin Thakur Temple.",
+                  "text": "Un sanctuar hindus public care întâmpină toți devotații pentru venerarea lui Thakur lângă portul plin de viață Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640803,
+                        22.520174
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Moddho Para Jmai Mosque.",
+                  "text": "O moschee centrală de cartier care deservește nevoile spirituale islamice ale districtului Ullubonniya Moddho Para.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640423,
+                        22.524984
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Mosque Ul-Habib Jami Mosque.",
+                  "text": "Această moschee locală Jami din Ullubonniya găzduiește rugăciunile congregaționale de vineri pentru comunitatea musulmană din împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        89.649066,
+                        22.522386
+                  ]
+            },
+            {
+                  "name": "Joykhaar Purba Para Sorbojannin Durga Temple.",
+                  "text": "Un templu hindus comunal în partea de est a orașului Joykhaar, dedicat venerării zeiței Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        89.630354,
+                        22.510855
+                  ]
+            },
+            {
+                  "name": "Baptis Church",
+                  "text": "Un sanctuar creștin local care deservește congregația baptistă în mijlocul comunității diverse din portul Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.620899,
+                        22.472945
+                  ]
+            },
+            {
+                  "name": "Atim Khana Mosque",
+                  "text": "Un lăcaș de cult islamic asociat în mod tradițional cu un orfelinat local din regiunea Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.621596,
+                        22.478835
+                  ]
+            },
+            {
+                  "name": "Malgazi Mohammadia Mosque",
+                  "text": "O moschee comunitară care oferă un spațiu de rugăciune dedicat rezidenților musulmani din zona Malgazi.",
+                  "category": "landmark",
+                  "coords": [
+                        89.628557,
+                        22.472185
+                  ]
+            },
+            {
+                  "name": "Seventh Advantist Church",
+                  "text": "Un lăcaș de cult creștin din zona portului Mongla care deservește congregația locală a adventiștilor de ziua a șaptea.",
+                  "category": "landmark",
+                  "coords": [
+                        89.627294,
+                        22.468001
+                  ]
+            },
+            {
+                  "name": "মংলা উপজেলা কেন্দ্রীয় মন্দির",
+                  "text": "Templul hindus central din Mongla Upazila, servind ca un hub spiritual și cultural principal pentru devotații locali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.614466,
+                        22.469624
+                  ]
+            },
+            {
+                  "name": "Adhar Manick Jmai Mosque",
+                  "text": "O moschee congregațională Jami care oferă servicii de rugăciune zilnice și de vineri pentru musulmanii din Adhar Manick.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594211,
+                        22.464301
+                  ]
+            },
+            {
+                  "name": "Amtol Moddhopara Sree Sree Setola Mondir",
+                  "text": "Un templu hindus de cartier din Amtol Moddhopara dedicat în mod tradițional zeiței sănătății, Shitala.",
+                  "category": "landmark",
+                  "coords": [
+                        89.578131,
+                        22.470782
+                  ]
+            },
+            {
+                  "name": "Amtola Polish Fari Jami Mosque",
+                  "text": "Un loc local de rugăciune islamic situat în apropierea postului de poliție din zona Amtola.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582479,
+                        22.465057
+                  ]
+            },
+            {
+                  "name": "Amtola Banishanta Sorbajanin Durga Mondir",
+                  "text": "Un sanctuar hindus public din Amtola Banishanta care celebrează venerarea zeiței Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582157,
+                        22.466701
+                  ]
+            },
+            {
+                  "name": "Banishanta Sorbojanin Durga Mondir",
+                  "text": "Un altar hindus comunal în Banishanta, unde localnicii se adună pentru Durga Puja și închinarea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        89.58312,
+                        22.459561
+                  ]
+            },
+            {
+                  "name": "Sundorban Jami Mosque",
+                  "text": "O moschee congregațională musulmană numită și situată la marginea pădurii luxuriante de mangrove Sundarbans.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583541,
+                        22.45825
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Sree Sree Kali Mondir",
+                  "text": "Un templu hindus plin de viață în Gora Dongmari, dedicat zeiței fioroase Kali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.584274,
+                        22.444713
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Forest Jami Mosque",
+                  "text": "Un sanctuar de rugăciune islamic care deservește comunitățile care trăiesc în apropierea zonelor împădurite din Gora Dongmari.",
+                  "category": "landmark",
+                  "coords": [
+                        89.585741,
+                        22.439985
+                  ]
+            },
+            {
+                  "name": "Rakhamari Baitun Noor Jami Mosque",
+                  "text": "O moschee Jami „Casa Luminii” care adună comunitatea musulmană din Rakhamari pentru rugăciunile congregaționale de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583638,
+                        22.449304
+                  ]
+            },
+            {
+                  "name": "Banishanta Baitun Aman Jami Mosque",
+                  "text": "O „Casă a Păcii” islamică locală care oferă un mediu de rugăciune liniștit pentru comunitatea Banishanta.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576766,
+                        22.453543
+                  ]
+            },
+            {
+                  "name": "Dangmari Mithapukur Jami Mosque",
+                  "text": "Situată lângă un iaz cu apă dulce, această moschee deservește nevoile religioase zilnice ale musulmanilor din Dangmari.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576101,
+                        22.443838
+                  ]
+            },
+            {
+                  "name": "Poshim Vuajonkhali Baitun Mamur Jami Mosque",
+                  "text": "O moschee congregațională de cartier care deservește partea de vest a Vuajonkhali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.566075,
+                        22.443404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sonailltola Ferry Ghat Bazar.",
+                  "text": "A bustling riverside marketplace situated directly at the Sonailltola ferry crossing near Mongla Port.",
+                  "category": "cultural",
+                  "coords": [
+                        89.684073,
+                        22.525914
+                  ]
+            },
+            {
+                  "name": "Ray Market সত্যজিৎ বাজার",
+                  "text": "A local trade center offering fresh produce and daily necessities for the Mongla Port community.",
+                  "category": "cultural",
+                  "coords": [
+                        89.590021,
+                        22.532885
+                  ]
+            },
+            {
+                  "name": "Crab Market",
+                  "text": "A specialized seafood market near Mongla Port where local fishermen trade freshly caught crabs.",
+                  "category": "cultural",
+                  "coords": [
+                        89.589527,
+                        22.530734
+                  ]
+            },
+            {
+                  "name": "Gona Bridge Bazar (Hat)",
+                  "text": "A vibrant local trading hub operating near the Gona Bridge by the Mongla Port area.",
+                  "category": "cultural",
+                  "coords": [
+                        89.595821,
+                        22.556905
+                  ]
+            },
+            {
+                  "name": "Sundarban Market",
+                  "text": "A regional market near Mongla Port featuring goods sourced from the nearby Sundarbans mangrove forest.",
+                  "category": "cultural",
+                  "coords": [
+                        89.602026,
+                        22.46949
+                  ]
+            },
+            {
+                  "name": "Digraj Market",
+                  "text": "A bustling commercial hub supplying essential goods to workers and residents near Mongla Port.",
+                  "category": "cultural",
+                  "coords": [
+                        89.674983,
+                        22.43465
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A standard local marketplace providing daily provisions for the community surrounding Mongla Port.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642065,
+                        22.485966
+                  ]
+            },
+            {
+                  "name": "Bashtola market",
+                  "text": "A lively local shopping spot offering regional groceries and goods in the Mongla Port district.",
+                  "category": "cultural",
+                  "coords": [
+                        89.649518,
+                        22.437303
+                  ]
+            },
+            {
+                  "name": "Amratola Bazar.",
+                  "text": "A bustling neighborhood market serving the daily shopping needs of the Amratola community near Mongla Port.",
+                  "category": "cultural",
+                  "coords": [
+                        89.668723,
+                        22.504053
+                  ]
+            },
+            {
+                  "name": "Ghoper Hat Bazar",
+                  "text": "A traditional weekly market gathering farmers and traders near the Mongla Port region.",
+                  "category": "cultural",
+                  "coords": [
+                        89.696771,
+                        22.483482
+                  ]
+            },
+            {
+                  "name": "Bokultola Purbo Para jmi Mosque.",
+                  "text": "An Islamic place of worship serving the Purbo Para neighborhood in Bokultola near Mongla Port.",
+                  "category": "landmark",
+                  "coords": [
+                        89.689823,
+                        22.516454
+                  ]
+            },
+            {
+                  "name": "Bokultola West Jami Mosque.",
+                  "text": "A central Muslim congregation point located in the western sector of Bokultola by Mongla Port.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679661,
+                        22.520204
+                  ]
+            },
+            {
+                  "name": "Bokultola Haldar Para Jami Mosque.",
+                  "text": "A local mosque providing daily Islamic services for the Haldar Para community in Bokultola.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679926,
+                        22.516505
+                  ]
+            },
+            {
+                  "name": "Amratola Purbo Para Baitun noor Jami Mosque.",
+                  "text": "A brick-built Islamic mosque serving the religious needs of the Purbo Para area in Amratola near Mongla Port.",
+                  "category": "landmark",
+                  "coords": [
+                        89.680173,
+                        22.508742
+                  ]
+            },
+            {
+                  "name": "Amratola Mollha Bari Mosque.",
+                  "text": "A local Islamic house of worship serving the Amratola community near the Mongla Port zone.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670126,
+                        22.505226
+                  ]
+            },
+            {
+                  "name": "Sordar Bari Jami Mosque.",
+                  "text": "A congregational mosque gathering the local Sordar Bari Muslim community in the Mongla Port area for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        89.670471,
+                        22.517929
+                  ]
+            },
+            {
+                  "name": "Sonailtola Purbo Para Mosque.",
+                  "text": "Situated in the eastern neighborhood of Sonailtola, this mosque serves Muslim worshippers near the port.",
+                  "category": "landmark",
+                  "coords": [
+                        89.669528,
+                        22.523592
+                  ]
+            },
+            {
+                  "name": "Boro Kathalli Eidgha Mosque.",
+                  "text": "An Islamic prayer ground and mosque in Boro Kathalli designed to accommodate large congregations during Eid near Mongla.",
+                  "category": "landmark",
+                  "coords": [
+                        89.679005,
+                        22.524126
+                  ]
+            },
+            {
+                  "name": "Chopra Kalli Temple.",
+                  "text": "A Hindu temple dedicated to Goddess Kali, providing a spiritual center for the Chopra community in the Mongla port region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.650781,
+                        22.505481
+                  ]
+            },
+            {
+                  "name": "Sre Sre Sorbojannin Thakur Temple.",
+                  "text": "A public Hindu sanctuary welcoming all devotees for Thakur worship near the bustling Mongla port.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640803,
+                        22.520174
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Moddho Para Jmai Mosque.",
+                  "text": "A central neighborhood mosque serving the Islamic spiritual needs of the Ullubonniya Moddho Para district.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640423,
+                        22.524984
+                  ]
+            },
+            {
+                  "name": "Ullubonniya Mosque Ul-Habib Jami Mosque.",
+                  "text": "This local Jami mosque in Ullubonniya hosts Friday congregational prayers for the surrounding Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        89.649066,
+                        22.522386
+                  ]
+            },
+            {
+                  "name": "Joykhaar Purba Para Sorbojannin Durga Temple.",
+                  "text": "A communal Hindu temple in the eastern part of Joykhaar, dedicated to the veneration of the goddess Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        89.630354,
+                        22.510855
+                  ]
+            },
+            {
+                  "name": "Baptis Church",
+                  "text": "A local Christian sanctuary serving the Baptist congregation amidst the diverse Mongla port community.",
+                  "category": "landmark",
+                  "coords": [
+                        89.620899,
+                        22.472945
+                  ]
+            },
+            {
+                  "name": "Atim Khana Mosque",
+                  "text": "An Islamic house of worship traditionally associated with a local orphanage (Atim Khana) in the Mongla region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.621596,
+                        22.478835
+                  ]
+            },
+            {
+                  "name": "Malgazi Mohammadia Mosque",
+                  "text": "A community mosque providing a dedicated prayer space for Muslim residents in the Malgazi area.",
+                  "category": "landmark",
+                  "coords": [
+                        89.628557,
+                        22.472185
+                  ]
+            },
+            {
+                  "name": "Seventh Advantist Church",
+                  "text": "A Christian place of worship in the Mongla Port zone serving the local Seventh-day Adventist congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        89.627294,
+                        22.468001
+                  ]
+            },
+            {
+                  "name": "মংলা উপজেলা কেন্দ্রীয় মন্দির",
+                  "text": "The central Hindu temple of the Mongla Upazila, serving as a primary spiritual and cultural hub for local devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        89.614466,
+                        22.469624
+                  ]
+            },
+            {
+                  "name": "Adhar Manick Jmai Mosque",
+                  "text": "A congregational Jami mosque providing daily and Friday prayer services for Muslims in Adhar Manick.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594211,
+                        22.464301
+                  ]
+            },
+            {
+                  "name": "Amtol Moddhopara Sree Sree Setola Mondir",
+                  "text": "A neighborhood Hindu temple in Amtol Moddhopara traditionally dedicated to Shitala, the goddess of health.",
+                  "category": "landmark",
+                  "coords": [
+                        89.578131,
+                        22.470782
+                  ]
+            },
+            {
+                  "name": "Amtola Polish Fari Jami Mosque",
+                  "text": "A local Islamic prayer site situated near the police outpost in the Amtola area.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582479,
+                        22.465057
+                  ]
+            },
+            {
+                  "name": "Amtola Banishanta Sorbajanin Durga Mondir",
+                  "text": "A public Hindu sanctuary in Amtola Banishanta celebrating the veneration of the goddess Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        89.582157,
+                        22.466701
+                  ]
+            },
+            {
+                  "name": "Banishanta Sorbojanin Durga Mondir",
+                  "text": "A communal Hindu shrine in Banishanta where locals gather for Durga Puja and daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        89.58312,
+                        22.459561
+                  ]
+            },
+            {
+                  "name": "Sundorban Jami Mosque",
+                  "text": "A Muslim congregational mosque named for and situated near the edges of the lush Sundarbans mangrove forest.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583541,
+                        22.45825
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Sree Sree Kali Mondir",
+                  "text": "A vibrant Hindu temple in Gora Dongmari dedicated to the fierce goddess Kali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.584274,
+                        22.444713
+                  ]
+            },
+            {
+                  "name": "Gora Dongmari Forest Jami Mosque",
+                  "text": "An Islamic prayer sanctuary serving communities living near the forested areas of Gora Dongmari.",
+                  "category": "landmark",
+                  "coords": [
+                        89.585741,
+                        22.439985
+                  ]
+            },
+            {
+                  "name": "Rakhamari Baitun Noor Jami Mosque",
+                  "text": "A 'House of Light' Jami mosque gathering the Muslim community of Rakhamari for Friday congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        89.583638,
+                        22.449304
+                  ]
+            },
+            {
+                  "name": "Banishanta Baitun Aman Jami Mosque",
+                  "text": "A local Islamic 'House of Peace' offering a tranquil prayer environment for the Banishanta community.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576766,
+                        22.453543
+                  ]
+            },
+            {
+                  "name": "Dangmari Mithapukur Jami Mosque",
+                  "text": "Located near a freshwater pond, this mosque serves the daily religious needs of Dangmari's Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        89.576101,
+                        22.443838
+                  ]
+            },
+            {
+                  "name": "Poshim Vuajonkhali Baitun Mamur Jami Mosque",
+                  "text": "A neighborhood congregational mosque serving the western section of Vuajonkhali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.566075,
+                        22.443404
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "port",
     name: { de: "Hafen von Mongla", hu: "Monglai kikötő", ro: "Portul Mongla", en: "Port of Mongla" },
@@ -48,7 +1497,556 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-mongla-port-economic-v2.webp",
   },
   {
-    id: "bangladesh-payra-port-economic-v2",
+    id: "bangladesh-payra-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hatem Ali Palwan Bari Jame Masjid",
+                  "text": "Eine von einer örtlichen Familie gegründete Moschee, die einen islamischen Gebetsraum für die Gemeinde in der Nähe der Payra-Hafenentwicklung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.341097,
+                        21.935512
+                  ]
+            },
+            {
+                  "name": "Twabuni Bazar Jame Masjid",
+                  "text": "Ein zentrales islamisches Gotteshaus, das Händlern und Käufern im geschäftigen Marktgebiet von Twabuni dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347456,
+                        21.940734
+                  ]
+            },
+            {
+                  "name": "samchad Darus Salam Jame Masjid",
+                  "text": "Diese „Wohnstatt des Friedens“-Gemeindemoschee dient den muslimischen Gläubigen des lokalen Hafenbezirks Payra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.353336,
+                        21.950484
+                  ]
+            },
+            {
+                  "name": "Uttar Monipara Jannatul baki Jame Masjid",
+                  "text": "Eine nördliche Viertelmoschee in Monipara, die einen spirituellen Hafen für die täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.358812,
+                        21.949836
+                  ]
+            },
+            {
+                  "name": "Tunggibariya Sluice Ghat Jame Masjid",
+                  "text": "An der örtlichen Wasserwehranlage gelegen, dient diese Moschee Bootsleuten und Bewohnern in Tunggibariya.",
+                  "category": "landmark",
+                  "coords": [
+                        90.351393,
+                        21.959225
+                  ]
+            },
+            {
+                  "name": "Hazi Tahsaniya Jame Masjid",
+                  "text": "Ein islamischer Versammlungsraum, der errichtet wurde, um der wachsenden muslimischen Bevölkerung in der Nähe des südlichen Küstenhafens zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.349213,
+                        21.95081
+                  ]
+            },
+            {
+                  "name": "Launch Ghat Masjid",
+                  "text": "Ein günstig gelegener Gebetsraum für muslimische Reisende und Flussarbeiter, die am Bootsanleger warten.",
+                  "category": "landmark",
+                  "coords": [
+                        90.340091,
+                        21.943404
+                  ]
+            },
+            {
+                  "name": "Felabunia Bazar Jame Masjid",
+                  "text": "Im Herzen des lokalen Marktes von Felabunia gelegen, richtet sich diese Moschee an die täglichen Gebetsroutinen der Händler aus der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        90.367267,
+                        21.984756
+                  ]
+            },
+            {
+                  "name": "North Gabbunia Osman Fakir Barir Jame Masjid",
+                  "text": "Eine Viertelmoschee in der Nähe des Anwesens der lokalen Familie Osman Fakir, die der nördlichen Gemeinde von Gabbunia dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392895,
+                        21.994053
+                  ]
+            },
+            {
+                  "name": "Sluice Ghat Jame Masjid",
+                  "text": "An einem wichtigen Küstenwassertor gelegen, dient diese Gemeindemoschee den spirituellen Bedürfnissen lokaler Fischer und Bauern.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377782,
+                        21.99161
+                  ]
+            },
+            {
+                  "name": "khalil Farajir Barir Samner Masjid",
+                  "text": "Ein islamischer Gebetsraum in der Nachbarschaft, der direkt vor dem Haus der Familie Khalil Faraji in der Nähe des Hafens Payra liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.379683,
+                        21.990278
+                  ]
+            },
+            {
+                  "name": "Chairman Barir Jame Masjid",
+                  "text": "Eine prominente lokale Moschee, die in der Nähe des Wohnsitzes des Gemeindevorstehers für Freitagsversammlungen errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38274,
+                        21.976693
+                  ]
+            },
+            {
+                  "name": "Bellal Chawkidar Barir Jame Masjid",
+                  "text": "Ein islamisches Gemeindezentrum und eine Moschee, die um das Haus der Familie Bellal Chawkidar verankert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        90.373782,
+                        21.966846
+                  ]
+            },
+            {
+                  "name": "Kalapara New Market",
+                  "text": "Ein geschäftiges, modernes Handelszentrum in Kalapara, das frische Produkte, Waren des täglichen Bedarfs und lokalen Küstenhandel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.225026,
+                        21.983185
+                  ]
+            },
+            {
+                  "name": "Kata Kahli Bazar",
+                  "text": "Dieser belebte Marktplatz bietet eine Vielzahl von lokalen Waren und Dingen des täglichen Bedarfs in der Sonderwirtschaftszone des Hafens von Payra.",
+                  "category": "cultural",
+                  "coords": [
+                        90.374627,
+                        21.964676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hatem Ali Palwan Bari Jame Masjid",
+                  "text": "Egy helyi család által alapított mecset, amely iszlám imateret biztosít a Payra kikötő fejlesztésének közelében élő közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.341097,
+                        21.935512
+                  ]
+            },
+            {
+                  "name": "Twabuni Bazar Jame Masjid",
+                  "text": "Egy központi iszlám istentiszteleti hely, amely a nyüzsgő Twabuni piac területén kiszolgálja a kereskedőket és vásárlókat.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347456,
+                        21.940734
+                  ]
+            },
+            {
+                  "name": "samchad Darus Salam Jame Masjid",
+                  "text": "Ez a „Béke Hajléka” gyülekezeti mecset a helyi Payra kikötői negyed muszlim hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.353336,
+                        21.950484
+                  ]
+            },
+            {
+                  "name": "Uttar Monipara Jannatul baki Jame Masjid",
+                  "text": "Egy északi negyedi mecset Moniparában, amely spirituális menedéket nyújt a napi iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.358812,
+                        21.949836
+                  ]
+            },
+            {
+                  "name": "Tunggibariya Sluice Ghat Jame Masjid",
+                  "text": "A helyi vízi zsilipek mellett található mecset a hajósokat és Tunggibariya lakóit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.351393,
+                        21.959225
+                  ]
+            },
+            {
+                  "name": "Hazi Tahsaniya Jame Masjid",
+                  "text": "Egy iszlám gyülekezeti tér, épült a növekvő muszlim lakosság kiszolgálására a déli parti kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.349213,
+                        21.95081
+                  ]
+            },
+            {
+                  "name": "Launch Ghat Masjid",
+                  "text": "Kényelmesen elhelyezkedő imatér muszlim utazók és folyami munkások számára, akik a hajóállomáson várakoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.340091,
+                        21.943404
+                  ]
+            },
+            {
+                  "name": "Felabunia Bazar Jame Masjid",
+                  "text": "A felabuniai helyi piac szívében található mecset a környékbeli árusok napi imarutinját szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.367267,
+                        21.984756
+                  ]
+            },
+            {
+                  "name": "North Gabbunia Osman Fakir Barir Jame Masjid",
+                  "text": "A helyi Osman Fakir családi birtok közelében gyökerező negyedi mecset, amely az északi gabbuniai közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392895,
+                        21.994053
+                  ]
+            },
+            {
+                  "name": "Sluice Ghat Jame Masjid",
+                  "text": "Egy fontos parti vízikapu mellett található gyülekezeti mecset a helyi halászok és gazdák spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377782,
+                        21.99161
+                  ]
+            },
+            {
+                  "name": "khalil Farajir Barir Samner Masjid",
+                  "text": "Egy környékbeli iszlám imatér, amely közvetlenül a Khalil Faraji családi ház előtt található, a Payra kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.379683,
+                        21.990278
+                  ]
+            },
+            {
+                  "name": "Chairman Barir Jame Masjid",
+                  "text": "Egy kiemelkedő helyi mecset, amelyet a közösségi vezető lakóhelye közelében alapítottak pénteki összejövetelek céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38274,
+                        21.976693
+                  ]
+            },
+            {
+                  "name": "Bellal Chawkidar Barir Jame Masjid",
+                  "text": "Egy iszlám közösségi központ és mecset, amely a Bellal Chawkidar családi ház körül horgonyoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.373782,
+                        21.966846
+                  ]
+            },
+            {
+                  "name": "Kalapara New Market",
+                  "text": "Egy nyüzsgő modern kereskedelmi központ Kalaparában, amely friss termékeket, napi cikkeket és helyi part menti kereskedelmet kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.225026,
+                        21.983185
+                  ]
+            },
+            {
+                  "name": "Kata Kahli Bazar",
+                  "text": "Ez a nyüzsgő piac különféle helyi árukat és napi szükségleti cikkeket kínál a Payra kikötő gazdasági övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        90.374627,
+                        21.964676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hatem Ali Palwan Bari Jame Masjid",
+                  "text": "O moschee fondată de o familie locală care oferă un spațiu de rugăciune islamic pentru comunitatea din apropierea dezvoltării portului Payra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.341097,
+                        21.935512
+                  ]
+            },
+            {
+                  "name": "Twabuni Bazar Jame Masjid",
+                  "text": "Un lăcaș de cult islamic central care deservește comercianții și cumpărătorii din zona aglomerată a pieței Twabuni.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347456,
+                        21.940734
+                  ]
+            },
+            {
+                  "name": "samchad Darus Salam Jame Masjid",
+                  "text": "Această moschee congregațională „Lăcașul Păcii” deservește credincioșii musulmani din districtul local al portului Payra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.353336,
+                        21.950484
+                  ]
+            },
+            {
+                  "name": "Uttar Monipara Jannatul baki Jame Masjid",
+                  "text": "O moschee din cartierul de nord din Monipara care oferă un refugiu spiritual pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.358812,
+                        21.949836
+                  ]
+            },
+            {
+                  "name": "Tunggibariya Sluice Ghat Jame Masjid",
+                  "text": "Așezată lângă structura locală de control al apei, această moschee deservește barcagiii și rezidenții din Tunggibariya.",
+                  "category": "landmark",
+                  "coords": [
+                        90.351393,
+                        21.959225
+                  ]
+            },
+            {
+                  "name": "Hazi Tahsaniya Jame Masjid",
+                  "text": "Un spațiu congregațional islamic construit pentru a deservi populația musulmană în creștere din apropierea portului de coastă sudic.",
+                  "category": "landmark",
+                  "coords": [
+                        90.349213,
+                        21.95081
+                  ]
+            },
+            {
+                  "name": "Launch Ghat Masjid",
+                  "text": "Un spațiu de rugăciune situat convenabil pentru călătorii musulmani și lucrătorii fluviali care așteaptă la terminalul de lansare a bărcilor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.340091,
+                        21.943404
+                  ]
+            },
+            {
+                  "name": "Felabunia Bazar Jame Masjid",
+                  "text": "Situată în inima pieței locale din Felabunia, această moschee răspunde rutinelor zilnice de rugăciune ale vânzătorilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.367267,
+                        21.984756
+                  ]
+            },
+            {
+                  "name": "North Gabbunia Osman Fakir Barir Jame Masjid",
+                  "text": "O moschee de cartier înrădăcinată în apropierea complexului familiei locale Osman Fakir, deservind comunitatea din nordul Gabbunia.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392895,
+                        21.994053
+                  ]
+            },
+            {
+                  "name": "Sluice Ghat Jame Masjid",
+                  "text": "Situată lângă o poartă de apă de coastă vitală, această moschee congregațională deservește nevoile spirituale ale pescarilor și fermierilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377782,
+                        21.99161
+                  ]
+            },
+            {
+                  "name": "khalil Farajir Barir Samner Masjid",
+                  "text": "Un spațiu de rugăciune islamic de cartier situat chiar în fața casei familiei Khalil Faraji, lângă portul Payra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.379683,
+                        21.990278
+                  ]
+            },
+            {
+                  "name": "Chairman Barir Jame Masjid",
+                  "text": "O moschee locală proeminentă înființată în apropierea reședinței liderului comunității pentru adunările de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38274,
+                        21.976693
+                  ]
+            },
+            {
+                  "name": "Bellal Chawkidar Barir Jame Masjid",
+                  "text": "Un centru comunitar islamic și o moschee ancorate în jurul casei familiei Bellal Chawkidar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.373782,
+                        21.966846
+                  ]
+            },
+            {
+                  "name": "Kalapara New Market",
+                  "text": "Un centru comercial modern plin de viață în Kalapara, care oferă produse proaspete, bunuri zilnice și comerț local de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        90.225026,
+                        21.983185
+                  ]
+            },
+            {
+                  "name": "Kata Kahli Bazar",
+                  "text": "Această piață vibrantă oferă o varietate de bunuri locale și necesități zilnice în zona economică a portului Payra.",
+                  "category": "cultural",
+                  "coords": [
+                        90.374627,
+                        21.964676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hatem Ali Palwan Bari Jame Masjid",
+                  "text": "A local family-established mosque providing an Islamic prayer space for the community near the Payra Port development.",
+                  "category": "landmark",
+                  "coords": [
+                        90.341097,
+                        21.935512
+                  ]
+            },
+            {
+                  "name": "Twabuni Bazar Jame Masjid",
+                  "text": "A central Islamic place of worship serving merchants and shoppers within the bustling Twabuni market area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347456,
+                        21.940734
+                  ]
+            },
+            {
+                  "name": "samchad Darus Salam Jame Masjid",
+                  "text": "This 'Abode of Peace' congregational mosque serves the Muslim worshippers of the local Payra port district.",
+                  "category": "landmark",
+                  "coords": [
+                        90.353336,
+                        21.950484
+                  ]
+            },
+            {
+                  "name": "Uttar Monipara Jannatul baki Jame Masjid",
+                  "text": "A northern neighborhood mosque in Monipara providing a spiritual haven for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.358812,
+                        21.949836
+                  ]
+            },
+            {
+                  "name": "Tunggibariya Sluice Ghat Jame Masjid",
+                  "text": "Set by the local water control structure, this mosque serves boatmen and residents in Tunggibariya.",
+                  "category": "landmark",
+                  "coords": [
+                        90.351393,
+                        21.959225
+                  ]
+            },
+            {
+                  "name": "Hazi Tahsaniya Jame Masjid",
+                  "text": "An Islamic congregational space built to serve the growing Muslim populace near the southern coastal port.",
+                  "category": "landmark",
+                  "coords": [
+                        90.349213,
+                        21.95081
+                  ]
+            },
+            {
+                  "name": "Launch Ghat Masjid",
+                  "text": "A conveniently located prayer space for Muslim travelers and riverine workers waiting at the boat launch terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.340091,
+                        21.943404
+                  ]
+            },
+            {
+                  "name": "Felabunia Bazar Jame Masjid",
+                  "text": "Situated in the heart of Felabunia's local market, this mosque caters to the daily prayer routines of area vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        90.367267,
+                        21.984756
+                  ]
+            },
+            {
+                  "name": "North Gabbunia Osman Fakir Barir Jame Masjid",
+                  "text": "A neighborhood mosque rooted near the local Osman Fakir family compound, serving the northern Gabbunia community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392895,
+                        21.994053
+                  ]
+            },
+            {
+                  "name": "Sluice Ghat Jame Masjid",
+                  "text": "Located by a vital coastal water gate, this congregational mosque serves the spiritual needs of local fishermen and farmers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377782,
+                        21.99161
+                  ]
+            },
+            {
+                  "name": "khalil Farajir Barir Samner Masjid",
+                  "text": "A neighborhood Islamic prayer space situated directly in front of the Khalil Faraji family home near Payra Port.",
+                  "category": "landmark",
+                  "coords": [
+                        90.379683,
+                        21.990278
+                  ]
+            },
+            {
+                  "name": "Chairman Barir Jame Masjid",
+                  "text": "A prominent local mosque established near the community leader's residence for Friday gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38274,
+                        21.976693
+                  ]
+            },
+            {
+                  "name": "Bellal Chawkidar Barir Jame Masjid",
+                  "text": "An Islamic community center and mosque anchored around the Bellal Chawkidar family home.",
+                  "category": "landmark",
+                  "coords": [
+                        90.373782,
+                        21.966846
+                  ]
+            },
+            {
+                  "name": "Kalapara New Market",
+                  "text": "A bustling modern commercial hub in Kalapara offering fresh produce, daily goods, and local coastal trade.",
+                  "category": "cultural",
+                  "coords": [
+                        90.225026,
+                        21.983185
+                  ]
+            },
+            {
+                  "name": "Kata Kahli Bazar",
+                  "text": "This vibrant marketplace offers a variety of local goods and daily necessities in the Payra Port economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        90.374627,
+                        21.964676
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "port",
     name: { de: "Seehafen Payra", hu: "Payra tengeri kikötő", ro: "Portul maritim Payra", en: "Payra Sea Port" },
@@ -93,7 +2091,1168 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-payra-port-economic-v2.webp",
   },
   {
-    id: "bangladesh-pangaon-terminal-economic-v2",
+    id: "bangladesh-pangaon-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shahid Meenar",
+                  "text": "Ein Nationaldenkmal zum Gedenken an die Märtyrer der Sprachbewegung von 1952.",
+                  "category": "historical",
+                  "coords": [
+                        90.389015,
+                        23.570759
+                  ]
+            },
+            {
+                  "name": "Jinda Peer er Majar",
+                  "text": "Ein verehrter Sufi-Schrein, der Pilger anzieht, die spirituellen Segen suchen.",
+                  "category": "religious",
+                  "coords": [
+                        90.420659,
+                        23.659974
+                  ]
+            },
+            {
+                  "name": "Shyampur Kodomtoly Eid Gah",
+                  "text": "Ein großer Gebetsplatz unter freiem Himmel, der für Massenversammlungen während der Eid-Feste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        90.438499,
+                        23.681441
+                  ]
+            },
+            {
+                  "name": "Bholail Central Eidgah Mayden ভোলাইল কেন্দ্রীয় ঈদগাহ ময়দান",
+                  "text": "Ein zentrales Feld für die festlichen Gebete zu Eid-ul-Fitr und Eid-ul-Adha.",
+                  "category": "religious",
+                  "coords": [
+                        90.478673,
+                        23.616861
+                  ]
+            },
+            {
+                  "name": "Shasongaon Central Koborstan শাসনগাঁও কেন্দ্রীয় কবরস্থান",
+                  "text": "Ein gemeinschaftlicher Friedhof und spiritueller Ort für die Region Shasongaon.",
+                  "category": "religious",
+                  "coords": [
+                        90.476696,
+                        23.622893
+                  ]
+            },
+            {
+                  "name": "Market opening, Village hall, Unnamed Road, Mawa",
+                  "text": "Ein dörflicher Handelsplatz am Ufer des Padma-Flusses in der Nähe des Gemeindehauses von Mawa.",
+                  "category": "cultural",
+                  "coords": [
+                        90.348975,
+                        23.633179
+                  ]
+            },
+            {
+                  "name": "Pagla Masjid Market",
+                  "text": "Ein belebtes Marktgebiet direkt neben der prominenten Pagla-Moschee am Stadtrand von Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.456643,
+                        23.66192
+                  ]
+            },
+            {
+                  "name": "Balu Char Bazar",
+                  "text": "Ein lokaler Flussmarkt auf den sandigen Uferbänken von Balu Char.",
+                  "category": "cultural",
+                  "coords": [
+                        90.420471,
+                        23.610091
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "Dieser lebhafte Marktplatz dient als zentraler Knotenpunkt für den täglichen Bedarf und Kleidung.",
+                  "category": "cultural",
+                  "coords": [
+                        90.443857,
+                        23.631525
+                  ]
+            },
+            {
+                  "name": "Mamun Super Market",
+                  "text": "Ein lokales Einkaufszentrum, das eine Vielzahl von Haushaltswaren und frischen Produkten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475759,
+                        23.632987
+                  ]
+            },
+            {
+                  "name": "Amir Super Market আমির সুপার মার্কেট",
+                  "text": "Dieser mehrstöckige Markt ist bekannt für sein breites Angebot an Textilien und Elektronik.",
+                  "category": "cultural",
+                  "coords": [
+                        90.473563,
+                        23.638489
+                  ]
+            },
+            {
+                  "name": "Kuchiamura Bazar কুচিয়ামোড়া বাজার",
+                  "text": "Ein geschäftiger Basar direkt am Dhaka-Mawa Highway, ideal für Reisende.",
+                  "category": "cultural",
+                  "coords": [
+                        90.344826,
+                        23.635837
+                  ]
+            },
+            {
+                  "name": "S.M Market এস.এম মার্কেট",
+                  "text": "Ein lokaler Markt, der für seine Auswahl an frischem Gemüse und regionalen Lebensmitteln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.457666,
+                        23.662548
+                  ]
+            },
+            {
+                  "name": "Evergreen Textiles Ltd",
+                  "text": "Ein Marktplatz, der mit dem Textilsektor verbunden ist und eine Auswahl an lokal hergestellten Stoffen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.447008,
+                        23.676517
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Cemetery Jame Masjid, Dhaka - Mawa Hwy",
+                  "text": "Eine Moschee am Dhaka-Mawa Highway, die an einen örtlichen Friedhof angrenzt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.34213,
+                        23.631787
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Baitun Noor Jame Masjid, Dhaka - Mawa Hwy, Mawa",
+                  "text": "Ein markanter Gebetsort am Dhaka-Mawa Highway im Mawa-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.346545,
+                        23.632673
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Mostofa khan mosque, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
+                  "text": "Eine lokale Moschee in Kalakandi, gelegen an der wichtigen Dhaka-Barisal-Verbindung.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344444,
+                        23.629254
+                  ]
+            },
+            {
+                  "name": "Munshi Bari Jame Masjid, Dhaka - Barisal High",
+                  "text": "Eine traditionelle Jame-Moschee, die als spirituelles Zentrum für das Viertel Munshi Bari dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347841,
+                        23.639586
+                  ]
+            },
+            {
+                  "name": "Char Kundolia Baitul Aman Jame Mosque, Dhaka - Barisal Highway, Mawa",
+                  "text": "Diese Moschee in Char Kundolia liegt direkt am verkehrsreichen Dhaka-Barisal Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344766,
+                        23.642828
+                  ]
+            },
+            {
+                  "name": "Dhaka Match Jame Masjid",
+                  "text": "Eine lokale Moschee, die nach dem umliegenden Dhaka Match-Fabrikviertel benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.447582,
+                        23.673454
+                  ]
+            },
+            {
+                  "name": "Baghair Chowdhury Para Jame Mosjid, Dhaka - Mawa Hwy, Kalakandi",
+                  "text": "Eine Gemeinde-Moschee in Kalakandi, die direkt vom Dhaka-Mawa Highway aus zugänglich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386481,
+                        23.664558
+                  ]
+            },
+            {
+                  "name": "Madani Mosque",
+                  "text": "Ein friedlicher Gebetsort für die lokale muslimische Gemeinschaft in der Region Pangaon.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377186,
+                        23.661703
+                  ]
+            },
+            {
+                  "name": "Kadampur Purbapara Jame Mosque, Kadompur Bridge, Dhaka - Khulna Hwy, Kalakandi",
+                  "text": "Diese Moschee befindet sich in der Nähe der Kadompur-Brücke am Dhaka-Khulna Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        90.369319,
+                        23.657029
+                  ]
+            },
+            {
+                  "name": "ঢাকা কেন্দ্রীয় কারাগার মসজিদ",
+                  "text": "Diese Moschee dient der Gemeinde und den Besuchern in der Nähe der zentralen Haftanstalt von Dhaka.",
+                  "category": "landmark",
+                  "coords": [
+                        90.37857,
+                        23.660634
+                  ]
+            },
+            {
+                  "name": "Khalpar Jame Masjid, Dhaka - Mawa Hwy, Dhaka",
+                  "text": "Eine verkehrsgünstig gelegene Moschee am Khalpar-Abschnitt des Dhaka-Mawa Highways.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390081,
+                        23.660939
+                  ]
+            },
+            {
+                  "name": "Baitul Noor Jame Masjid, Baghair, Dhaka - Mawa Hwy",
+                  "text": "Ein lokales religiöses Zentrum in Baghair, gelegen an der Hauptverkehrsader Dhaka-Mawa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390975,
+                        23.666355
+                  ]
+            },
+            {
+                  "name": "Arakul Moth (Temple)",
+                  "text": "Ein traditioneller Hindu-Tempel mit einem markanten Turm, der der lokalen Gottheit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.422637,
+                        23.659781
+                  ]
+            },
+            {
+                  "name": "Beyara jame mosque",
+                  "text": "Eine schlichte und ruhige Moschee, die den Bewohnern des Beyara-Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.419673,
+                        23.669363
+                  ]
+            },
+            {
+                  "name": "Doleshwar Purbo Para Ahle Hadis Masjid",
+                  "text": "Eine Ahle Hadis-Moschee im östlichen Teil von Doleshwar für die lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.440466,
+                        23.671745
+                  ]
+            },
+            {
+                  "name": "Ainta Ahle Hadith Jame Masjid",
+                  "text": "Eine lokale Moschee in Ainta, die als Versammlungsort für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.438246,
+                        23.663429
+                  ]
+            },
+            {
+                  "name": "SANTINAGOR BAITUR NOOR JAME MOSJID",
+                  "text": "Diese Jame-Moschee ist ein zentrales religiöses Wahrzeichen im Santinagor-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        90.478493,
+                        23.612601
+                  ]
+            },
+            {
+                  "name": "Alipara Jame Mosjid",
+                  "text": "Eine Nachbarschafts-Moschee in Alipara, die einen ruhigen Raum für spirituelle Reflexion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.476408,
+                        23.61283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shahid Meenar",
+                  "text": "Nemzeti emlékmű, amely az 1952-es nyelvmozgalom mártírjai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        90.389015,
+                        23.570759
+                  ]
+            },
+            {
+                  "name": "Jinda Peer er Majar",
+                  "text": "Tisztelt szúfi szentély és nyughely, amely lelki áldást kereső zarándokokat vonz.",
+                  "category": "religious",
+                  "coords": [
+                        90.420659,
+                        23.659974
+                  ]
+            },
+            {
+                  "name": "Shyampur Kodomtoly Eid Gah",
+                  "text": "Nagy szabadtéri imaterület, amelyet az Eid ünnepek alatti tömeges imádságokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        90.438499,
+                        23.681441
+                  ]
+            },
+            {
+                  "name": "Bholail Central Eidgah Mayden ভোলাইল কেন্দ্রীয় ঈদগাহ ময়দান",
+                  "text": "Központi terület az Eid-ul-Fitr és Eid-ul-Adha ünnepi imádságainak elvégzésére.",
+                  "category": "religious",
+                  "coords": [
+                        90.478673,
+                        23.616861
+                  ]
+            },
+            {
+                  "name": "Shasongaon Central Koborstan শাসনগাঁও কেন্দ্রীয় কবরস্থান",
+                  "text": "Közösségi temető és szakrális hely a Shasongaon területén.",
+                  "category": "religious",
+                  "coords": [
+                        90.476696,
+                        23.622893
+                  ]
+            },
+            {
+                  "name": "Market opening, Village hall, Unnamed Road, Mawa",
+                  "text": "Falusi kereskedelmi hely a Padma folyó partján, a mawai községháza közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        90.348975,
+                        23.633179
+                  ]
+            },
+            {
+                  "name": "Pagla Masjid Market",
+                  "text": "Forgalmas piaci terület a Narayanganj szélén található nevezetes Pagla-mecset mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        90.456643,
+                        23.66192
+                  ]
+            },
+            {
+                  "name": "Balu Char Bazar",
+                  "text": "Helyi folyóparti piac Balu Char homokos partjain.",
+                  "category": "cultural",
+                  "coords": [
+                        90.420471,
+                        23.610091
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "Ez a nyüzsgő helyi piac a mindennapi cikkek és ruházati termékek központi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        90.443857,
+                        23.631525
+                  ]
+            },
+            {
+                  "name": "Mamun Super Market",
+                  "text": "Helyi bevásárlóközpont, amely háztartási cikkek és friss termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475759,
+                        23.632987
+                  ]
+            },
+            {
+                  "name": "Amir Super Market আমির সুপার মার্কেট",
+                  "text": "Ez a többszintes piac a textilek és elektronikai cikkek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.473563,
+                        23.638489
+                  ]
+            },
+            {
+                  "name": "Kuchiamura Bazar কুচিয়ামোড়া বাজার",
+                  "text": "Forgalmas bazár közvetlenül a Dhaka-Mawa autópálya mentén, ideális az utazók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        90.344826,
+                        23.635837
+                  ]
+            },
+            {
+                  "name": "S.M Market এস.এম মার্কেট",
+                  "text": "Friss zöldségválasztékáról és regionális élelmiszereiről ismert helyi piac.",
+                  "category": "cultural",
+                  "coords": [
+                        90.457666,
+                        23.662548
+                  ]
+            },
+            {
+                  "name": "Evergreen Textiles Ltd",
+                  "text": "A textilágazathoz kapcsolódó piac, amely helyben gyártott szövetek választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        90.447008,
+                        23.676517
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Cemetery Jame Masjid, Dhaka - Mawa Hwy",
+                  "text": "Mecset a Dhaka-Mawa autópálya mentén, amely egy helyi temető mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.34213,
+                        23.631787
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Baitun Noor Jame Masjid, Dhaka - Mawa Hwy, Mawa",
+                  "text": "Jelentős imádkozóhely a Dhaka-Mawa autópálya mentén, Mawa térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.346545,
+                        23.632673
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Mostofa khan mosque, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
+                  "text": "Helyi mecset Kalakandiban, a fontos Dhaka-Barisal útvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344444,
+                        23.629254
+                  ]
+            },
+            {
+                  "name": "Munshi Bari Jame Masjid, Dhaka - Barisal High",
+                  "text": "Hagyományos Jame mecset, amely a Munshi Bari negyed spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347841,
+                        23.639586
+                  ]
+            },
+            {
+                  "name": "Char Kundolia Baitul Aman Jame Mosque, Dhaka - Barisal Highway, Mawa",
+                  "text": "Ez a Char Kundoliában található mecset közvetlenül a forgalmas Dhaka-Barisal autópálya mellett fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344766,
+                        23.642828
+                  ]
+            },
+            {
+                  "name": "Dhaka Match Jame Masjid",
+                  "text": "A környékbeli Dhaka Match gyárnegyedről elnevezett helyi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.447582,
+                        23.673454
+                  ]
+            },
+            {
+                  "name": "Baghair Chowdhury Para Jame Mosjid, Dhaka - Mawa Hwy, Kalakandi",
+                  "text": "Közösségi mecset Kalakandiban, amely közvetlenül a Dhaka-Mawa autópályáról érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386481,
+                        23.664558
+                  ]
+            },
+            {
+                  "name": "Madani Mosque",
+                  "text": "Békés imádkozóhely a helyi muszlim közösség számára Pangaon régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377186,
+                        23.661703
+                  ]
+            },
+            {
+                  "name": "Kadampur Purbapara Jame Mosque, Kadompur Bridge, Dhaka - Khulna Hwy, Kalakandi",
+                  "text": "Ez a mecset a Dhaka-Khulna autópályán lévő Kadompur-híd közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.369319,
+                        23.657029
+                  ]
+            },
+            {
+                  "name": "ঢাকা কেন্দ্রীয় কারাগার মসজিদ",
+                  "text": "Ez a mecset a dhakai központi börtön közelében lévő közösséget és látogatókat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.37857,
+                        23.660634
+                  ]
+            },
+            {
+                  "name": "Khalpar Jame Masjid, Dhaka - Mawa Hwy, Dhaka",
+                  "text": "Kényelmes helyen lévő mecset a Dhaka-Mawa autópálya Khalpar szakaszánál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390081,
+                        23.660939
+                  ]
+            },
+            {
+                  "name": "Baitul Noor Jame Masjid, Baghair, Dhaka - Mawa Hwy",
+                  "text": "Helyi vallási központ Baghairban, a Dhaka-Mawa főútvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390975,
+                        23.666355
+                  ]
+            },
+            {
+                  "name": "Arakul Moth (Temple)",
+                  "text": "Hagyományos hindu templom jellegzetes toronnyal, amelyet a helyi istenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.422637,
+                        23.659781
+                  ]
+            },
+            {
+                  "name": "Beyara jame mosque",
+                  "text": "Egyszerű és nyugodt mecset, amely Beyara negyed lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.419673,
+                        23.669363
+                  ]
+            },
+            {
+                  "name": "Doleshwar Purbo Para Ahle Hadis Masjid",
+                  "text": "Ahle Hadis mecset Doleshwar keleti részén a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.440466,
+                        23.671745
+                  ]
+            },
+            {
+                  "name": "Ainta Ahle Hadith Jame Masjid",
+                  "text": "Helyi mecset Aintában, amely a napi imádságok gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.438246,
+                        23.663429
+                  ]
+            },
+            {
+                  "name": "SANTINAGOR BAITUR NOOR JAME MOSJID",
+                  "text": "Ez a Jame mecset Santinagor negyed központi vallási jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        90.478493,
+                        23.612601
+                  ]
+            },
+            {
+                  "name": "Alipara Jame Mosjid",
+                  "text": "Környékbeli mecset Aliparában, amely nyugodt teret biztosít a spirituális elmélyüléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.476408,
+                        23.61283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shahid Meenar",
+                  "text": "Un monument național dedicat martirilor Mișcării pentru Limbă din 1952.",
+                  "category": "historical",
+                  "coords": [
+                        90.389015,
+                        23.570759
+                  ]
+            },
+            {
+                  "name": "Jinda Peer er Majar",
+                  "text": "Un altar sufi venerat și loc de înmormântare care atrage pelerini în căutarea binecuvântării spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        90.420659,
+                        23.659974
+                  ]
+            },
+            {
+                  "name": "Shyampur Kodomtoly Eid Gah",
+                  "text": "Un teren mare pentru rugăciune în aer liber, folosit pentru congregații masive în timpul festivalurilor Eid.",
+                  "category": "religious",
+                  "coords": [
+                        90.438499,
+                        23.681441
+                  ]
+            },
+            {
+                  "name": "Bholail Central Eidgah Mayden ভোলাইল কেন্দ্রীয় ঈদগাহ ময়দান",
+                  "text": "Un câmp central dedicat rugăciunilor festive de Eid-ul-Fitr și Eid-ul-Adha.",
+                  "category": "religious",
+                  "coords": [
+                        90.478673,
+                        23.616861
+                  ]
+            },
+            {
+                  "name": "Shasongaon Central Koborstan শাসনগাঁও কেন্দ্রীয় কবরস্থান",
+                  "text": "Un cimitir comunal principal și sit spiritual pentru zona Shasongaon.",
+                  "category": "religious",
+                  "coords": [
+                        90.476696,
+                        23.622893
+                  ]
+            },
+            {
+                  "name": "Market opening, Village hall, Unnamed Road, Mawa",
+                  "text": "Un punct comercial rural situat lângă primăria satului Mawa, aproape de malurile râului Padma.",
+                  "category": "cultural",
+                  "coords": [
+                        90.348975,
+                        23.633179
+                  ]
+            },
+            {
+                  "name": "Pagla Masjid Market",
+                  "text": "O zonă comercială plină de viață, adiacentă proeminentei moschei Pagla de la periferia Narayanganjului.",
+                  "category": "cultural",
+                  "coords": [
+                        90.456643,
+                        23.66192
+                  ]
+            },
+            {
+                  "name": "Balu Char Bazar",
+                  "text": "O piață locală pe malul râului, situată pe malurile nisipoase din Balu Char.",
+                  "category": "cultural",
+                  "coords": [
+                        90.420471,
+                        23.610091
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "Această piață locală plină de viață servește ca un nod central pentru bunuri de zi cu zi și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        90.443857,
+                        23.631525
+                  ]
+            },
+            {
+                  "name": "Mamun Super Market",
+                  "text": "Un centru comercial local care oferă o varietate de articole de uz casnic și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475759,
+                        23.632987
+                  ]
+            },
+            {
+                  "name": "Amir Super Market আমির সুপার মার্কেট",
+                  "text": "Această piață cu mai multe etaje este cunoscută pentru gama sa largă de textile și electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        90.473563,
+                        23.638489
+                  ]
+            },
+            {
+                  "name": "Kuchiamura Bazar কুচিয়ামোড়া বাজার",
+                  "text": "Un bazar aglomerat situat chiar lângă autostrada Dhaka-Mawa, ideal pentru călători.",
+                  "category": "cultural",
+                  "coords": [
+                        90.344826,
+                        23.635837
+                  ]
+            },
+            {
+                  "name": "S.M Market এস.এম মার্কেট",
+                  "text": "O piață locală cunoscută pentru selecția sa de legume proaspete și produse alimentare regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.457666,
+                        23.662548
+                  ]
+            },
+            {
+                  "name": "Evergreen Textiles Ltd",
+                  "text": "O piață conectată la sectorul textil, care oferă o selecție de țesături produse local.",
+                  "category": "cultural",
+                  "coords": [
+                        90.447008,
+                        23.676517
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Cemetery Jame Masjid, Dhaka - Mawa Hwy",
+                  "text": "O moschee situată pe autostrada Dhaka-Mawa, adiacentă unui cimitir local.",
+                  "category": "landmark",
+                  "coords": [
+                        90.34213,
+                        23.631787
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Baitun Noor Jame Masjid, Dhaka - Mawa Hwy, Mawa",
+                  "text": "Un loc de rugăciune proeminent situat pe autostrada Dhaka-Mawa, în zona Mawa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.346545,
+                        23.632673
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Mostofa khan mosque, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
+                  "text": "O moschee locală în Kalakandi, situată de-a lungul importantei legături Dhaka-Barisal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344444,
+                        23.629254
+                  ]
+            },
+            {
+                  "name": "Munshi Bari Jame Masjid, Dhaka - Barisal High",
+                  "text": "O moschee tradițională Jame care servește ca centru spiritual pentru cartierul Munshi Bari.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347841,
+                        23.639586
+                  ]
+            },
+            {
+                  "name": "Char Kundolia Baitul Aman Jame Mosque, Dhaka - Barisal Highway, Mawa",
+                  "text": "Această moschee din Char Kundolia se află chiar lângă autostrada aglomerată Dhaka-Barisal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344766,
+                        23.642828
+                  ]
+            },
+            {
+                  "name": "Dhaka Match Jame Masjid",
+                  "text": "O moschee locală numită după zona fabricii de chibrituri Dhaka Match din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.447582,
+                        23.673454
+                  ]
+            },
+            {
+                  "name": "Baghair Chowdhury Para Jame Mosjid, Dhaka - Mawa Hwy, Kalakandi",
+                  "text": "O moschee comunitară în Kalakandi, accesibilă direct de pe autostrada Dhaka-Mawa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386481,
+                        23.664558
+                  ]
+            },
+            {
+                  "name": "Madani Mosque",
+                  "text": "Un loc de rugăciune liniștit pentru comunitatea musulmană locală din regiunea Pangaon.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377186,
+                        23.661703
+                  ]
+            },
+            {
+                  "name": "Kadampur Purbapara Jame Mosque, Kadompur Bridge, Dhaka - Khulna Hwy, Kalakandi",
+                  "text": "Această moschee este situată lângă Podul Kadompur, pe autostrada Dhaka-Khulna.",
+                  "category": "landmark",
+                  "coords": [
+                        90.369319,
+                        23.657029
+                  ]
+            },
+            {
+                  "name": "ঢাকা কেন্দ্রীয় কারাগার মসজিদ",
+                  "text": "Această moschee deservește comunitatea și vizitatorii din apropierea închisorii centrale din Dhaka.",
+                  "category": "landmark",
+                  "coords": [
+                        90.37857,
+                        23.660634
+                  ]
+            },
+            {
+                  "name": "Khalpar Jame Masjid, Dhaka - Mawa Hwy, Dhaka",
+                  "text": "O moschee situată convenabil la secțiunea Khalpar a autostrăzii Dhaka-Mawa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390081,
+                        23.660939
+                  ]
+            },
+            {
+                  "name": "Baitul Noor Jame Masjid, Baghair, Dhaka - Mawa Hwy",
+                  "text": "Un centru religios local în Baghair, situat de-a lungul arterei principale Dhaka-Mawa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390975,
+                        23.666355
+                  ]
+            },
+            {
+                  "name": "Arakul Moth (Temple)",
+                  "text": "Un templu hindu tradițional cu o turlă distinctivă, dedicat zeității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        90.422637,
+                        23.659781
+                  ]
+            },
+            {
+                  "name": "Beyara jame mosque",
+                  "text": "O moschee simplă și liniștită care deservește locuitorii din cartierul Beyara.",
+                  "category": "landmark",
+                  "coords": [
+                        90.419673,
+                        23.669363
+                  ]
+            },
+            {
+                  "name": "Doleshwar Purbo Para Ahle Hadis Masjid",
+                  "text": "O moschee Ahle Hadis situată în partea de est a orașului Doleshwar pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.440466,
+                        23.671745
+                  ]
+            },
+            {
+                  "name": "Ainta Ahle Hadith Jame Masjid",
+                  "text": "O moschee locală în Ainta, care servește ca loc de adunare pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.438246,
+                        23.663429
+                  ]
+            },
+            {
+                  "name": "SANTINAGOR BAITUR NOOR JAME MOSJID",
+                  "text": "Această moschee Jame este un punct de reper religios central în cartierul Santinagor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.478493,
+                        23.612601
+                  ]
+            },
+            {
+                  "name": "Alipara Jame Mosjid",
+                  "text": "O moschee de cartier în Alipara, care oferă un spațiu liniștit pentru reflecție spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.476408,
+                        23.61283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahid Meenar",
+                  "text": "A national monument commemorating the martyrs of the 1952 Language Movement.",
+                  "category": "historical",
+                  "coords": [
+                        90.389015,
+                        23.570759
+                  ]
+            },
+            {
+                  "name": "Jinda Peer er Majar",
+                  "text": "A revered Sufi shrine and burial site attracting pilgrims seeking spiritual blessings.",
+                  "category": "religious",
+                  "coords": [
+                        90.420659,
+                        23.659974
+                  ]
+            },
+            {
+                  "name": "Shyampur Kodomtoly Eid Gah",
+                  "text": "A large open-air prayer ground used specifically for massive congregations during Eid festivals.",
+                  "category": "religious",
+                  "coords": [
+                        90.438499,
+                        23.681441
+                  ]
+            },
+            {
+                  "name": "Bholail Central Eidgah Mayden ভোলাইল কেন্দ্রীয় ঈদগাহ ময়দান",
+                  "text": "A dedicated central field for performing festive Eid-ul-Fitr and Eid-ul-Adha prayers.",
+                  "category": "religious",
+                  "coords": [
+                        90.478673,
+                        23.616861
+                  ]
+            },
+            {
+                  "name": "Shasongaon Central Koborstan শাসনগাঁও কেন্দ্রীয় কবরস্থান",
+                  "text": "A primary communal cemetery and spiritual site for the Shasongaon area.",
+                  "category": "religious",
+                  "coords": [
+                        90.476696,
+                        23.622893
+                  ]
+            },
+            {
+                  "name": "Market opening, Village hall, Unnamed Road, Mawa",
+                  "text": "A rural trading spot located near the Mawa village hall, close to the Padma River banks.",
+                  "category": "cultural",
+                  "coords": [
+                        90.348975,
+                        23.633179
+                  ]
+            },
+            {
+                  "name": "Pagla Masjid Market",
+                  "text": "A bustling market adjacent to the prominent Pagla Mosque on the outskirts of Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.456643,
+                        23.66192
+                  ]
+            },
+            {
+                  "name": "Balu Char Bazar",
+                  "text": "A local riverside market specialized in regional goods on the sandy banks of the river.",
+                  "category": "cultural",
+                  "coords": [
+                        90.420471,
+                        23.610091
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "This bustling local marketplace serves as a central hub for daily necessities and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        90.443857,
+                        23.631525
+                  ]
+            },
+            {
+                  "name": "Mamun Super Market",
+                  "text": "A local shopping center offering a variety of household goods and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475759,
+                        23.632987
+                  ]
+            },
+            {
+                  "name": "Amir Super Market আমির সুপার মার্কেট",
+                  "text": "This multi-story market is known for its wide range of textiles and electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        90.473563,
+                        23.638489
+                  ]
+            },
+            {
+                  "name": "Kuchiamura Bazar কুচিয়ামোড়া বাজার",
+                  "text": "A busy bazaar located right along the Dhaka-Mawa Highway, ideal for travelers.",
+                  "category": "cultural",
+                  "coords": [
+                        90.344826,
+                        23.635837
+                  ]
+            },
+            {
+                  "name": "S.M Market এস.এম মার্কেট",
+                  "text": "A local market known for its selection of fresh vegetables and regional food items.",
+                  "category": "cultural",
+                  "coords": [
+                        90.457666,
+                        23.662548
+                  ]
+            },
+            {
+                  "name": "Evergreen Textiles Ltd",
+                  "text": "A marketplace connected to the textile sector, offering a selection of locally produced fabrics.",
+                  "category": "cultural",
+                  "coords": [
+                        90.447008,
+                        23.676517
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Cemetery Jame Masjid, Dhaka - Mawa Hwy",
+                  "text": "A mosque situated along the Dhaka-Mawa Highway, adjacent to a local cemetery.",
+                  "category": "landmark",
+                  "coords": [
+                        90.34213,
+                        23.631787
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Baitun Noor Jame Masjid, Dhaka - Mawa Hwy, Mawa",
+                  "text": "A prominent place of worship situated on the Dhaka-Mawa Highway in the Mawa area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.346545,
+                        23.632673
+                  ]
+            },
+            {
+                  "name": "Kuchiamora Mostofa khan mosque, Dhaka - Barisal Highway, Kalakandi, Kuchiamora",
+                  "text": "A local mosque in Kalakandi, positioned along the important Dhaka-Barisal link.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344444,
+                        23.629254
+                  ]
+            },
+            {
+                  "name": "Munshi Bari Jame Masjid, Dhaka - Barisal High",
+                  "text": "A traditional Jame mosque serving as a spiritual center for the Munshi Bari neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.347841,
+                        23.639586
+                  ]
+            },
+            {
+                  "name": "Char Kundolia Baitul Aman Jame Mosque, Dhaka - Barisal Highway, Mawa",
+                  "text": "This mosque in Char Kundolia sits right by the busy Dhaka-Barisal Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        90.344766,
+                        23.642828
+                  ]
+            },
+            {
+                  "name": "Dhaka Match Jame Masjid",
+                  "text": "A local mosque named after the surrounding Dhaka Match factory district.",
+                  "category": "landmark",
+                  "coords": [
+                        90.447582,
+                        23.673454
+                  ]
+            },
+            {
+                  "name": "Baghair Chowdhury Para Jame Mosjid, Dhaka - Mawa Hwy, Kalakandi",
+                  "text": "A community mosque in Kalakandi, accessible directly from the Dhaka-Mawa Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386481,
+                        23.664558
+                  ]
+            },
+            {
+                  "name": "Madani Mosque",
+                  "text": "A peaceful place of worship for the local Muslim community in the Pangaon region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.377186,
+                        23.661703
+                  ]
+            },
+            {
+                  "name": "Kadampur Purbapara Jame Mosque, Kadompur Bridge, Dhaka - Khulna Hwy, Kalakandi",
+                  "text": "This mosque is located near the Kadompur Bridge on the Dhaka-Khulna Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        90.369319,
+                        23.657029
+                  ]
+            },
+            {
+                  "name": "Dhaka Central Jail Masjid",
+                  "text": "This mosque serves the community and visitors near the Dhaka Central Jail facility.",
+                  "category": "landmark",
+                  "coords": [
+                        90.37857,
+                        23.660634
+                  ]
+            },
+            {
+                  "name": "Khalpar Jame Masjid, Dhaka - Mawa Hwy, Dhaka",
+                  "text": "A conveniently located mosque at the Khalpar section of the Dhaka-Mawa Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390081,
+                        23.660939
+                  ]
+            },
+            {
+                  "name": "Baitul Noor Jame Masjid, Baghair, Dhaka - Mawa Hwy",
+                  "text": "A local religious center in Baghair, situated along the Dhaka-Mawa main artery.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390975,
+                        23.666355
+                  ]
+            },
+            {
+                  "name": "Arakul Moth (Temple)",
+                  "text": "A traditional Hindu temple featuring a distinctive spire, dedicated to the local deity.",
+                  "category": "landmark",
+                  "coords": [
+                        90.422637,
+                        23.659781
+                  ]
+            },
+            {
+                  "name": "Beyara jame mosque",
+                  "text": "A simple and serene mosque serving the residents of the Beyara neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.419673,
+                        23.669363
+                  ]
+            },
+            {
+                  "name": "Doleshwar Purbo Para Ahle Hadis Masjid",
+                  "text": "An Ahle Hadis mosque located in the eastern part of Doleshwar for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.440466,
+                        23.671745
+                  ]
+            },
+            {
+                  "name": "Ainta Ahle Hadith Jame Masjid",
+                  "text": "A local mosque in Ainta, serving as a gathering place for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.438246,
+                        23.663429
+                  ]
+            },
+            {
+                  "name": "SANTINAGOR BAITUR NOOR JAME MOSJID",
+                  "text": "This Jame mosque is a central religious landmark in the Santinagor neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.478493,
+                        23.612601
+                  ]
+            },
+            {
+                  "name": "Alipara Jame Mosjid",
+                  "text": "A neighborhood mosque in Alipara, providing a quiet space for spiritual reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        90.476408,
+                        23.61283
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "port",
     name: { de: "Binnencontainerterminal Pangaon", hu: "Pangaon belvízi konténerterminál", ro: "Terminalul de containere Pangaon", en: "Pangaon Inland Container Terminal" },
@@ -138,7 +3297,1060 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-pangaon-terminal-economic-v2.webp",
   },
   {
-    id: "bangladesh-adamjee-epz-economic-v2",
+    id: "bangladesh-adamjee-epz-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "Ein Denkmal zum Gedenken an den Befreiungskrieg von 1971 und die Unabhängigkeit Bangladeschs.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "Eine Verteidigungsfestung aus der Mogulzeit am Ufer des Shitalakshya-Flusses aus dem 17. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512814,
+                        23.633427
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "Ein Denkmal zu Ehren der Märtyrer der Sprachbewegung von 1952 in Bandar.",
+                  "category": "historical",
+                  "coords": [
+                        90.512827,
+                        23.614164
+                  ]
+            },
+            {
+                  "name": "Ali city mosque",
+                  "text": "Eine moderne Moschee im Ali-City-Wohngebiet, die als lokales Gebetszentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        90.492016,
+                        23.627345
+                  ]
+            },
+            {
+                  "name": "বায়তুল মামুর জামে মসজিদ",
+                  "text": "Diese Moschee im Adamjee-Viertel ist für ihre markanten grünen Kuppeln bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        90.507131,
+                        23.621067
+                  ]
+            },
+            {
+                  "name": "Shah Minnat Ali (RH) Majar Language Solder Momotaj Begaam Rd Narayanganj 1400",
+                  "text": "Ein heiliger Schrein (Mazar), der dem lokalen Sufi-Heiligen Shah Minnat Ali gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        90.501586,
+                        23.614343
+                  ]
+            },
+            {
+                  "name": "Syedpur Eidgah সৈয়দপুর ঈদগাহ",
+                  "text": "Ein weitläufiges offenes Gelände in Syedpur für die großen Versammlungen zum Eid-Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        90.500333,
+                        23.591799
+                  ]
+            },
+            {
+                  "name": "Jalal Sordar Jame Masjid",
+                  "text": "Diese traditionelle Moschee in der Nähe von Bandar ist nach einem lokalen Anführer (Sordar) benannt.",
+                  "category": "religious",
+                  "coords": [
+                        90.524477,
+                        23.632832
+                  ]
+            },
+            {
+                  "name": "Bitul Jannat Jame Masjid",
+                  "text": "Eine lebendige Gemeindemoschee im Herzen des geschäftigen Adamjee-Bezirks.",
+                  "category": "religious",
+                  "coords": [
+                        90.526424,
+                        23.630209
+                  ]
+            },
+            {
+                  "name": "Bandar Upzilla Health Complex Jame Masjid",
+                  "text": "Eine Moschee auf dem Gelände des Bandar Upazila Gesundheitszentrums für Patienten und Personal.",
+                  "category": "religious",
+                  "coords": [
+                        90.525216,
+                        23.629119
+                  ]
+            },
+            {
+                  "name": "Forajikanda Bazar",
+                  "text": "Ein lebhafter Markt am Ufer des Shitalakshya-Flusses, bekannt für frischen Fisch.",
+                  "category": "cultural",
+                  "coords": [
+                        90.515822,
+                        23.596399
+                  ]
+            },
+            {
+                  "name": "signboard Bamboo Market",
+                  "text": "Ein spezialisierter Markt für Bambusrohre und handgefertigte Bambusprodukte in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        90.479681,
+                        23.693922
+                  ]
+            },
+            {
+                  "name": "Mintu Chattar Supermarket",
+                  "text": "Ein lokales Einkaufszentrum am belebten Mintu-Chattar-Verkehrsknotenpunkt in Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475376,
+                        23.69548
+                  ]
+            },
+            {
+                  "name": "Mofiz Market মফিজ বাজার",
+                  "text": "Ein traditioneller Bazar, auf dem frische Produkte und Textilien aus der Region verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        90.502282,
+                        23.617221
+                  ]
+            },
+            {
+                  "name": "Sonakanda Hat",
+                  "text": "Ein traditioneller bengalischer 'Hat' oder Freiluftmarkt, der ein authentisches lokales Einkaufserlebnis bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.509051,
+                        23.602836
+                  ]
+            },
+            {
+                  "name": "Sahi Market Dhaka - Narayanganj Rd",
+                  "text": "Ein verkehrsgünstig an der Hauptstraße gelegener Markt, der für Pendler zwischen Dhaka und Narayanganj wichtig ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.496786,
+                        23.628769
+                  ]
+            },
+            {
+                  "name": "Ranima Plazza,Shibu Market",
+                  "text": "Ein modernes Einkaufszentrum mit mehreren Etagen, das eine Vielzahl von Modegeschäften beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.49349,
+                        23.644092
+                  ]
+            },
+            {
+                  "name": "Haji Ali Ahamed super market",
+                  "text": "Ein lokaler Supermarkt, der eine breite Palette an Kleidung und Konsumgütern unter einem Dach vereint.",
+                  "category": "cultural",
+                  "coords": [
+                        90.510775,
+                        23.639243
+                  ]
+            },
+            {
+                  "name": "City Madhabi Plaza সিটি মাধবী প্লাজা",
+                  "text": "Ein zeitgenössischer Geschäftskomplex, der moderne Einkaufsmöglichkeiten in die Wohngegend bringt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.501032,
+                        23.62382
+                  ]
+            },
+            {
+                  "name": "Asgar Super Market আসগর সুপার মার্কেট",
+                  "text": "Ein geschäftiger kleinerer Markt, der für seine frischen Lebensmittel und Gewürzstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503561,
+                        23.615895
+                  ]
+            },
+            {
+                  "name": "Friends Market ফ্রেন্ডস মার্কেট",
+                  "text": "Ein nachbarschaftlicher Einkaufsplatz, der als sozialer Treffpunkt für lokale Einkäufer dient.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503688,
+                        23.619218
+                  ]
+            },
+            {
+                  "name": "Bata Shop বাটা দোকান",
+                  "text": "Ein bekanntes Fachgeschäft für Schuhe, das Teil einer globalen Kette im Herzen des Marktviertels ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.519127,
+                        23.673486
+                  ]
+            },
+            {
+                  "name": "Alinagar Poraton Jame Masjid",
+                  "text": "Eine historische Gemeindemoschee, die durch ihre traditionelle Architektur im Alinagar-Viertel besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522971,
+                        23.589626
+                  ]
+            },
+            {
+                  "name": "BAITUN NUR JAME MOSJID ( বায়তুন নূর জামে মসজিদ)",
+                  "text": "Eine moderne Moschee mit einem hellen Gebetssaal, die Platz für tägliche Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519284,
+                        23.618677
+                  ]
+            },
+            {
+                  "name": "Anwara Khatun Jame Masjid",
+                  "text": "Eine von Wohltätern gestiftete Moschee, die für ihre ruhige Atmosphäre inmitten der geschäftigen Stadt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.475821,
+                        23.694371
+                  ]
+            },
+            {
+                  "name": "Baytur Rahman Jame Masjid",
+                  "text": "Ein großzügiges Gebetshaus mit markanten Minaretten, das ein wichtiger Orientierungspunkt im Viertel ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496335,
+                        23.631088
+                  ]
+            },
+            {
+                  "name": "Khanpur Lal Mosque",
+                  "text": "Diese Moschee im Khanpur-Viertel ist lokal für ihre markante rote Farbgestaltung bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.505226,
+                        23.627231
+                  ]
+            },
+            {
+                  "name": "Sonakanda Kella Jame Masjid",
+                  "text": "Eine Moschee in der Nähe der historischen Flussfestung Sonakanda, die religiöses Erbe mit Geschichte verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512574,
+                        23.606282
+                  ]
+            },
+            {
+                  "name": "গোগনগর বড় জামে মসিজদ",
+                  "text": "Das größte islamische Gotteshaus in Gognagar, bekannt für seine beeindruckende zentrale Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        90.492897,
+                        23.595281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "Emlékmű az 1971-es felszabadító háború és Banglades függetlenségének emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "17. századi, mogul korszakból származó védelmi erőd a Shitalakshya-folyó partján.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512814,
+                        23.633427
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "Emlékmű az 1952-es nyelvmozgalom mártírjainak tiszteletére Bandarban.",
+                  "category": "historical",
+                  "coords": [
+                        90.512827,
+                        23.614164
+                  ]
+            },
+            {
+                  "name": "Ali city mosque",
+                  "text": "Modern mecset az Ali City lakóövezetben, amely helyi imaközpontként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        90.492016,
+                        23.627345
+                  ]
+            },
+            {
+                  "name": "বায়তুল মামুর জামে মসজিদ",
+                  "text": "Ez az Adamjee negyedben található mecset jellegzetes zöld kupoláiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        90.507131,
+                        23.621067
+                  ]
+            },
+            {
+                  "name": "Shah Minnat Ali (RH) Majar Language Solder Momotaj Begaam Rd Narayanganj 1400",
+                  "text": "Szent sírhely (mazar), amelyet Shah Minnat Ali helyi szúfi szentnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        90.501586,
+                        23.614343
+                  ]
+            },
+            {
+                  "name": "Syedpur Eidgah সৈয়দপুর ঈদগাহ",
+                  "text": "Kiterjedt nyitott terület Syedpurban a nagy Eid-ima gyűlések számára.",
+                  "category": "religious",
+                  "coords": [
+                        90.500333,
+                        23.591799
+                  ]
+            },
+            {
+                  "name": "Jalal Sordar Jame Masjid",
+                  "text": "Ez a Bandar közeli hagyományos mecset egy helyi vezetőről (sordar) kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        90.524477,
+                        23.632832
+                  ]
+            },
+            {
+                  "name": "Bitul Jannat Jame Masjid",
+                  "text": "Élénk közösségi mecset a nyüzsgő Adamjee negyed szívében.",
+                  "category": "religious",
+                  "coords": [
+                        90.526424,
+                        23.630209
+                  ]
+            },
+            {
+                  "name": "Bandar Upzilla Health Complex Jame Masjid",
+                  "text": "A Bandar Upazila Egészségügyi Központ területén található mecset betegek és személyzet számára.",
+                  "category": "religious",
+                  "coords": [
+                        90.525216,
+                        23.629119
+                  ]
+            },
+            {
+                  "name": "Forajikanda Bazar",
+                  "text": "Nyüzsgő piac a Shitalakshya-folyó partján, amely friss halairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.515822,
+                        23.596399
+                  ]
+            },
+            {
+                  "name": "signboard Bamboo Market",
+                  "text": "Bambuszrudakra és kézzel készített bambusztermékekre szakosodott piac a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        90.479681,
+                        23.693922
+                  ]
+            },
+            {
+                  "name": "Mintu Chattar Supermarket",
+                  "text": "Helyi bevásárlóközpont a forgalmas narayanganji Mintu Chattar közlekedési csomópontnál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475376,
+                        23.69548
+                  ]
+            },
+            {
+                  "name": "Mofiz Market মফিজ বাজার",
+                  "text": "Hagyományos bazár, ahol friss termékeket és helyi textíliákat árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        90.502282,
+                        23.617221
+                  ]
+            },
+            {
+                  "name": "Sonakanda Hat",
+                  "text": "Hagyományos bengáli „hat” vagy szabadtéri piac, amely hiteles helyi vásárlási élményt nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.509051,
+                        23.602836
+                  ]
+            },
+            {
+                  "name": "Sahi Market Dhaka - Narayanganj Rd",
+                  "text": "A főút mellett kényelmesen elhelyezkedő piac, amely fontos a Dhaka és Narayanganj közötti ingázók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        90.496786,
+                        23.628769
+                  ]
+            },
+            {
+                  "name": "Ranima Plazza,Shibu Market",
+                  "text": "Modern, többszintes bevásárlóközpont, amely számos divatüzletnek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        90.49349,
+                        23.644092
+                  ]
+            },
+            {
+                  "name": "Haji Ali Ahamed super market",
+                  "text": "Helyi szupermarket, amely ruházati cikkek és fogyasztási cikkek széles választékát kínálja egy fedél alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.510775,
+                        23.639243
+                  ]
+            },
+            {
+                  "name": "City Madhabi Plaza সিটি মাধবী প্লাজা",
+                  "text": "Kortárs üzleti komplexum, amely modern vásárlási lehetőségeket kínál a lakóövezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        90.501032,
+                        23.62382
+                  ]
+            },
+            {
+                  "name": "Asgar Super Market আসগর সুপার মার্কেট",
+                  "text": "Forgalmas kisebb piac, amely friss élelmiszereiről és fűszerstandjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503561,
+                        23.615895
+                  ]
+            },
+            {
+                  "name": "Friends Market ফ্রেন্ডস মার্কেট",
+                  "text": "Szomszédsági bevásárlóhely, amely a helyi vásárlók közösségi találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503688,
+                        23.619218
+                  ]
+            },
+            {
+                  "name": "Bata Shop বাটা দোকান",
+                  "text": "Ismert cipőszaküzlet, amely egy globális hálózat része a negyed piaci központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        90.519127,
+                        23.673486
+                  ]
+            },
+            {
+                  "name": "Alinagar Poraton Jame Masjid",
+                  "text": "Történelmi közösségi mecset, amely hagyományos építészetével tűnik ki az Alinagar negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522971,
+                        23.589626
+                  ]
+            },
+            {
+                  "name": "BAITUN NUR JAME MOSJID ( বায়তুন নূর জামে মসজিদ)",
+                  "text": "Modern mecset világos imateremmel, amely helyet biztosít a napi istentiszteleteknek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519284,
+                        23.618677
+                  ]
+            },
+            {
+                  "name": "Anwara Khatun Jame Masjid",
+                  "text": "Jótékonykodók által alapított mecset, amely nyugodt légköréről ismert a nyüzsgő város közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.475821,
+                        23.694371
+                  ]
+            },
+            {
+                  "name": "Baytur Rahman Jame Masjid",
+                  "text": "Tágas imaház jellegzetes minaretekkel, amely a negyed fontos tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496335,
+                        23.631088
+                  ]
+            },
+            {
+                  "name": "Khanpur Lal Mosque",
+                  "text": "Ez a Khanpur negyedben található mecset helyben a jellegzetes vörös színéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.505226,
+                        23.627231
+                  ]
+            },
+            {
+                  "name": "Sonakanda Kella Jame Masjid",
+                  "text": "A történelmi Sonakanda folyami erőd közelében található mecset, amely ötvözi a vallási örökséget a történelemmel.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512574,
+                        23.606282
+                  ]
+            },
+            {
+                  "name": "গোগনগর বড় জামে মসিজদ",
+                  "text": "Gognagar legnagyobb iszlám imaháza, amely lenyűgöző központi imaterméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.492897,
+                        23.595281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "Un monument care comemorează războiul de eliberare din 1971 și independența Bangladeshului.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "O fortăreață defensivă din epoca mogulă pe malul râului Shitalakshya, datând din secolul al XVII-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512814,
+                        23.633427
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "Un monument onorând martirii Mișcării pentru Limbă din 1952 din Bandar.",
+                  "category": "historical",
+                  "coords": [
+                        90.512827,
+                        23.614164
+                  ]
+            },
+            {
+                  "name": "Ali city mosque",
+                  "text": "O moschee modernă în zona rezidențială Ali City, servind ca centru local de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        90.492016,
+                        23.627345
+                  ]
+            },
+            {
+                  "name": "বায়তুল মামুর জামে মসজিদ",
+                  "text": "Această moschee din cartierul Adamjee este cunoscută pentru cupolele sale verzi distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        90.507131,
+                        23.621067
+                  ]
+            },
+            {
+                  "name": "Shah Minnat Ali (RH) Majar Language Solder Momotaj Begaam Rd Narayanganj 1400",
+                  "text": "Un altar sfânt (mazar) dedicat sfântului sufit local Shah Minnat Ali.",
+                  "category": "religious",
+                  "coords": [
+                        90.501586,
+                        23.614343
+                  ]
+            },
+            {
+                  "name": "Syedpur Eidgah সৈয়দপুর ঈদগাহ",
+                  "text": "Un teren deschis vast în Syedpur pentru marile adunări de rugăciune de Eid.",
+                  "category": "religious",
+                  "coords": [
+                        90.500333,
+                        23.591799
+                  ]
+            },
+            {
+                  "name": "Jalal Sordar Jame Masjid",
+                  "text": "Această moschee tradițională de lângă Bandar poartă numele unui lider local (sordar).",
+                  "category": "religious",
+                  "coords": [
+                        90.524477,
+                        23.632832
+                  ]
+            },
+            {
+                  "name": "Bitul Jannat Jame Masjid",
+                  "text": "O moschee comunitară vibrantă situată în inima districtului aglomerat Adamjee.",
+                  "category": "religious",
+                  "coords": [
+                        90.526424,
+                        23.630209
+                  ]
+            },
+            {
+                  "name": "Bandar Upzilla Health Complex Jame Masjid",
+                  "text": "O moschee situată în incinta centrului de sănătate Bandar Upazila pentru pacienți și personal.",
+                  "category": "religious",
+                  "coords": [
+                        90.525216,
+                        23.629119
+                  ]
+            },
+            {
+                  "name": "Forajikanda Bazar",
+                  "text": "O piață plină de viață pe malul râului Shitalakshya, cunoscută pentru peștele proaspăt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.515822,
+                        23.596399
+                  ]
+            },
+            {
+                  "name": "signboard Bamboo Market",
+                  "text": "O piață specializată în tije de bambus și produse artizanale din bambus din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        90.479681,
+                        23.693922
+                  ]
+            },
+            {
+                  "name": "Mintu Chattar Supermarket",
+                  "text": "Un centru comercial local la nodul de transport aglomerat Mintu Chattar din Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475376,
+                        23.69548
+                  ]
+            },
+            {
+                  "name": "Mofiz Market মফিজ বাজার",
+                  "text": "Un bazar tradițional unde se vând produse proaspete și textile din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        90.502282,
+                        23.617221
+                  ]
+            },
+            {
+                  "name": "Sonakanda Hat",
+                  "text": "Un „hat” tradițional bengalez sau o piață în aer liber, care oferă o experiență locală de cumpărături autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        90.509051,
+                        23.602836
+                  ]
+            },
+            {
+                  "name": "Sahi Market Dhaka - Narayanganj Rd",
+                  "text": "O piață situată convenabil lângă drumul principal, importantă pentru navetiștii între Dhaka și Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.496786,
+                        23.628769
+                  ]
+            },
+            {
+                  "name": "Ranima Plazza,Shibu Market",
+                  "text": "Un centru comercial modern cu mai multe etaje, care găzduiește o varietate de magazine de modă.",
+                  "category": "cultural",
+                  "coords": [
+                        90.49349,
+                        23.644092
+                  ]
+            },
+            {
+                  "name": "Haji Ali Ahamed super market",
+                  "text": "Un supermarket local care oferă o gamă largă de articole de îmbrăcăminte și bunuri de larg consum sub un singur acoperiș.",
+                  "category": "cultural",
+                  "coords": [
+                        90.510775,
+                        23.639243
+                  ]
+            },
+            {
+                  "name": "City Madhabi Plaza সিটি মাধবী প্লাজা",
+                  "text": "Un complex comercial contemporan care aduce facilități moderne de cumpărături în zona rezidențială.",
+                  "category": "cultural",
+                  "coords": [
+                        90.501032,
+                        23.62382
+                  ]
+            },
+            {
+                  "name": "Asgar Super Market আসগর সুপার মার্কেট",
+                  "text": "O piață mică și aglomerată, cunoscută pentru alimentele sale proaspete și standurile de condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503561,
+                        23.615895
+                  ]
+            },
+            {
+                  "name": "Friends Market ফ্রেন্ডস মার্কেট",
+                  "text": "Un loc de cumpărături de cartier care servește ca punct de întâlnire socială pentru cumpărătorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503688,
+                        23.619218
+                  ]
+            },
+            {
+                  "name": "Bata Shop বাটা দোকান",
+                  "text": "Un magazin specializat de încălțăminte binecunoscut, parte a unui lanț global situat în inima zonei comerciale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.519127,
+                        23.673486
+                  ]
+            },
+            {
+                  "name": "Alinagar Poraton Jame Masjid",
+                  "text": "O moschee istorică a comunității, care se remarcă prin arhitectura sa tradițională în cartierul Alinagar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522971,
+                        23.589626
+                  ]
+            },
+            {
+                  "name": "BAITUN NUR JAME MOSJID ( বায়তুন নূর জামে মসজিদ)",
+                  "text": "O moschee modernă cu o sală de rugăciune luminoasă, care oferă spațiu pentru serviciile religioase zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519284,
+                        23.618677
+                  ]
+            },
+            {
+                  "name": "Anwara Khatun Jame Masjid",
+                  "text": "O moschee ctitorită de binefăcători, cunoscută pentru atmosfera sa liniștită în mijlocul orașului aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        90.475821,
+                        23.694371
+                  ]
+            },
+            {
+                  "name": "Baytur Rahman Jame Masjid",
+                  "text": "O casă de rugăciune spațioasă cu minarete distinctive, fiind un punct de reper important în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496335,
+                        23.631088
+                  ]
+            },
+            {
+                  "name": "Khanpur Lal Mosque",
+                  "text": "Această moschee din cartierul Khanpur este cunoscută local pentru coloritul său roșu distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        90.505226,
+                        23.627231
+                  ]
+            },
+            {
+                  "name": "Sonakanda Kella Jame Masjid",
+                  "text": "O moschee situată lângă fortăreața istorică de râu Sonakanda, îmbinând moștenirea religioasă cu istoria.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512574,
+                        23.606282
+                  ]
+            },
+            {
+                  "name": "গোগনগর বড় জামে মসিজদ",
+                  "text": "Cel mai mare lăcaș de cult islamic din Gognagar, cunoscut pentru sala sa de rugăciune centrală impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.492897,
+                        23.595281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "A monument commemorating the 1971 Liberation War and the independence of Bangladesh.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "A 17th-century Mughal-era defensive fort situated on the banks of the Shitalakshya River.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512814,
+                        23.633427
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "A monument honoring the martyrs of the 1952 Language Movement in Bandar.",
+                  "category": "historical",
+                  "coords": [
+                        90.512827,
+                        23.614164
+                  ]
+            },
+            {
+                  "name": "Ali city mosque",
+                  "text": "A modern mosque in the Ali City residential area, serving as a local prayer center.",
+                  "category": "religious",
+                  "coords": [
+                        90.492016,
+                        23.627345
+                  ]
+            },
+            {
+                  "name": "Baytul Mamur Jame Mosque",
+                  "text": "This mosque in the Adamjee area is known for its distinctive green domes.",
+                  "category": "religious",
+                  "coords": [
+                        90.507131,
+                        23.621067
+                  ]
+            },
+            {
+                  "name": "Shah Minnat Ali (RH) Majar Language Solder Momotaj Begaam Rd Narayanganj 1400",
+                  "text": "A sacred shrine (mazar) dedicated to the local Sufi saint Shah Minnat Ali.",
+                  "category": "religious",
+                  "coords": [
+                        90.501586,
+                        23.614343
+                  ]
+            },
+            {
+                  "name": "Syedpur Eidgah সৈয়দপুর ঈদগাহ",
+                  "text": "An extensive open ground in Syedpur for the large Eid prayer gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        90.500333,
+                        23.591799
+                  ]
+            },
+            {
+                  "name": "Jalal Sordar Jame Masjid",
+                  "text": "This traditional mosque near Bandar is named after a local leader (Sordar).",
+                  "category": "religious",
+                  "coords": [
+                        90.524477,
+                        23.632832
+                  ]
+            },
+            {
+                  "name": "Bitul Jannat Jame Masjid",
+                  "text": "A vibrant community mosque located in the heart of the busy Adamjee district.",
+                  "category": "religious",
+                  "coords": [
+                        90.526424,
+                        23.630209
+                  ]
+            },
+            {
+                  "name": "Bandar Upzilla Health Complex Jame Masjid",
+                  "text": "A mosque located within the Bandar Upazila health complex for patients and staff.",
+                  "category": "religious",
+                  "coords": [
+                        90.525216,
+                        23.629119
+                  ]
+            },
+            {
+                  "name": "Forajikanda Bazar",
+                  "text": "A lively marketplace on the banks of the Shitalakshya River, known for fresh fish.",
+                  "category": "cultural",
+                  "coords": [
+                        90.515822,
+                        23.596399
+                  ]
+            },
+            {
+                  "name": "signboard Bamboo Market",
+                  "text": "A specialized market for bamboo poles and handcrafted bamboo products in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        90.479681,
+                        23.693922
+                  ]
+            },
+            {
+                  "name": "Mintu Chattar Supermarket",
+                  "text": "A local shopping center at the busy Mintu Chattar transport hub in Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.475376,
+                        23.69548
+                  ]
+            },
+            {
+                  "name": "Mofiz Market মফিজ বাজার",
+                  "text": "A traditional bazaar where fresh produce and regional textiles are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        90.502282,
+                        23.617221
+                  ]
+            },
+            {
+                  "name": "Sonakanda Hat",
+                  "text": "A traditional Bengali 'hat' or open-air market offering an authentic local shopping experience.",
+                  "category": "cultural",
+                  "coords": [
+                        90.509051,
+                        23.602836
+                  ]
+            },
+            {
+                  "name": "Sahi Market Dhaka - Narayanganj Rd",
+                  "text": "A market conveniently located by the main road, important for commuters between Dhaka and Narayanganj.",
+                  "category": "cultural",
+                  "coords": [
+                        90.496786,
+                        23.628769
+                  ]
+            },
+            {
+                  "name": "Ranima Plazza,Shibu Market",
+                  "text": "A modern multi-story shopping plaza housing a variety of fashion retail outlets.",
+                  "category": "cultural",
+                  "coords": [
+                        90.49349,
+                        23.644092
+                  ]
+            },
+            {
+                  "name": "Haji Ali Ahamed super market",
+                  "text": "A local supermarket offering a wide range of clothing and consumer goods under one roof.",
+                  "category": "cultural",
+                  "coords": [
+                        90.510775,
+                        23.639243
+                  ]
+            },
+            {
+                  "name": "City Madhabi Plaza সিটি মাধবী প্লাজা",
+                  "text": "A contemporary commercial complex bringing modern shopping facilities to the residential area.",
+                  "category": "cultural",
+                  "coords": [
+                        90.501032,
+                        23.62382
+                  ]
+            },
+            {
+                  "name": "Asgar Super Market আসগর সুপার মার্কেট",
+                  "text": "A busy smaller market known for its fresh food items and spice stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503561,
+                        23.615895
+                  ]
+            },
+            {
+                  "name": "Friends Market ফ্রেন্ডস মার্কেট",
+                  "text": "A neighborhood shopping spot that serves as a social meeting point for local shoppers.",
+                  "category": "cultural",
+                  "coords": [
+                        90.503688,
+                        23.619218
+                  ]
+            },
+            {
+                  "name": "Bata Shop বাটা দোকান",
+                  "text": "A well-known specialized footwear shop, part of a global chain located in the heart of the market area.",
+                  "category": "cultural",
+                  "coords": [
+                        90.519127,
+                        23.673486
+                  ]
+            },
+            {
+                  "name": "Alinagar Poraton Jame Masjid",
+                  "text": "A historic community mosque that stands out with its traditional architecture in the Alinagar neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522971,
+                        23.589626
+                  ]
+            },
+            {
+                  "name": "BAITUN NUR JAME MOSJID ( বায়তুন নূর জামে মসজিদ)",
+                  "text": "A modern mosque with a bright prayer hall providing space for daily worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519284,
+                        23.618677
+                  ]
+            },
+            {
+                  "name": "Anwara Khatun jame Masjid",
+                  "text": "A mosque established by benefactors, known for its serene atmosphere amidst the busy city.",
+                  "category": "landmark",
+                  "coords": [
+                        90.475821,
+                        23.694371
+                  ]
+            },
+            {
+                  "name": "Baytur Rahman Jame Masjid",
+                  "text": "A spacious house of prayer with distinctive minarets, serving as a key landmark in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496335,
+                        23.631088
+                  ]
+            },
+            {
+                  "name": "Khanpur Lal Mosque",
+                  "text": "This mosque in the Khanpur district is locally known for its distinctive red color scheme.",
+                  "category": "landmark",
+                  "coords": [
+                        90.505226,
+                        23.627231
+                  ]
+            },
+            {
+                  "name": "Sonakanda Kella Jame Masjid",
+                  "text": "A mosque located near the historic Sonakanda river fort, blending religious heritage with history.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512574,
+                        23.606282
+                  ]
+            },
+            {
+                  "name": "গোগনগর বড় জামে মসিজদ",
+                  "text": "The largest Islamic place of worship in Gognagar, known for its impressive central prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        90.492897,
+                        23.595281
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Exportverarbeitungszone Adamjee", hu: "Adamjee exportfeldolgozó övezet", ro: "Zona de procesare a exporturilor Adamjee", en: "Adamjee Export Processing Zone" },
@@ -183,7 +4395,1384 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-adamjee-epz-economic-v2.webp",
   },
   {
-    id: "bangladesh-shilpa-nagar-economic-v2",
+    id: "bangladesh-shilpa-nagar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thakur Dhigi Circle",
+                  "text": "Diese Gemeindegottesdienststätte befindet sich an einem markanten örtlichen Kreisverkehr in Shilpa Nagar und dient als Orientierungspunkt und spirituelles Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        91.554511,
+                        22.817859
+                  ]
+            },
+            {
+                  "name": "Wahedpur Eidgah, Mirsharai, Chattogram",
+                  "text": "Dieser Open-Air-Eidgah in Mirsharai verfügt über eine große Außenfläche, die speziell für gemeinsame Gebete während großer islamischer Feste konzipiert wurde.",
+                  "category": "religious",
+                  "coords": [
+                        91.620709,
+                        22.70567
+                  ]
+            },
+            {
+                  "name": "Derbox Sugani Jame Moshjid, Mirsharai, Chattogram",
+                  "text": "Diese islamische Versammlungsmoschee bedient die Region Mirsharai und verfügt über traditionelle Minarette, die die örtliche Gemeinde zum täglichen Gebet rufen.",
+                  "category": "religious",
+                  "coords": [
+                        91.604316,
+                        22.707409
+                  ]
+            },
+            {
+                  "name": "Sarkar Bari Jame Masjid, Pathuria Rd, Chattogram",
+                  "text": "Diese örtliche Moschee liegt in der Nähe der Pathuria Road und fungiert als wesentlicher spiritueller Anker für die Bewohner des Landguts Sarkar Bari.",
+                  "category": "religious",
+                  "coords": [
+                        91.601668,
+                        22.716729
+                  ]
+            },
+            {
+                  "name": "Ichamati Qaderia Jame Masjid, Ichamoti, Mirsharai, Chattogram",
+                  "text": "Diese Moschee in der Siedlung Ichamoti ist in der Qaderia-Sufi-Tradition verwurzelt und bietet eine ruhige Umgebung für spezielle islamische Rezitationen.",
+                  "category": "religious",
+                  "coords": [
+                        91.606225,
+                        22.712887
+                  ]
+            },
+            {
+                  "name": "Nizampur Rail Station Jaame Masjid, Nijampur, Station Rd, Mirsarai, Chittagong",
+                  "text": "Diese praktische Moschee grenzt direkt an den Bahnhof Nizampur und ermöglicht es durchreisenden Reisenden und Eisenbahnarbeitern, ihre Gebete ohne Verzögerung zu verrichten.",
+                  "category": "religious",
+                  "coords": [
+                        91.613101,
+                        22.721897
+                  ]
+            },
+            {
+                  "name": "Nizampur College Mosque,Nizampur College, Mirsarai, Chittagong",
+                  "text": "Diese Campus-Moschee ist in das Gelände des Nizampur College eingebettet und kümmert sich um die spirituellen Routinen der örtlichen Studenten und Fakultätsmitglieder.",
+                  "category": "religious",
+                  "coords": [
+                        91.603783,
+                        22.719266
+                  ]
+            },
+            {
+                  "name": "Sarkerhat School Mashjid, Chittagong",
+                  "text": "Diese Moschee neben der Schule fungiert als Nebengebäude und stellt sicher, dass junge Schüler in Sarkerhat einfachen Zugang zum täglichen Gemeindegebet haben.",
+                  "category": "religious",
+                  "coords": [
+                        91.602466,
+                        22.720294
+                  ]
+            },
+            {
+                  "name": "Abdus Chobahan Jame Masjid, Chittagong",
+                  "text": "Diese islamische Versammlungsmoschee in Chittagong ist vor Ort für ihre speziellen Gebetsräume und die starke Besucherzahl während der Dschumʿa bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        91.603079,
+                        22.733612
+                  ]
+            },
+            {
+                  "name": "Gachbaria Jame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "Diese strategisch günstig am belebten Dhaka-Chittagong Highway in Haitkandi gelegene Moschee dient als wichtiger Rast- und Gebetsstopp für Fernfahrer.",
+                  "category": "religious",
+                  "coords": [
+                        91.599504,
+                        22.728064
+                  ]
+            },
+            {
+                  "name": "Hadi Fokirhat Jaame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "Diese Moschee liegt direkt neben dem Highway-Marktplatz von Hadi Fokirhat und verbindet spirituelle Ruhe mit dem schnellen Tempo des lokalen Transitkorridors.",
+                  "category": "religious",
+                  "coords": [
+                        91.600964,
+                        22.727193
+                  ]
+            },
+            {
+                  "name": "Kazi Para Jame Masjid, Sorarqule Rd, Chittagong",
+                  "text": "Eingebettet in die Sorarqule Road in Kazi Para bietet diese islamische Nachbarschaftsmoschee ein schattiges, ruhiges Interieur für die täglichen Gebete der Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        91.592191,
+                        22.728746
+                  ]
+            },
+            {
+                  "name": "Chararkul Jame Mosjid, Mirsharai, Chittagong",
+                  "text": "Diese Moschee in Mirsharai fungiert als primärer Versammlungsanker für Chararkul und bringt die umliegende ländliche Gemeinde zum islamischen Gottesdienst zusammen.",
+                  "category": "religious",
+                  "coords": [
+                        91.594902,
+                        22.732056
+                  ]
+            },
+            {
+                  "name": "Mosjidia Chowdhury Para Jame Mosque",
+                  "text": "Diese traditionelle islamische Moschee verankert die Gemeinde Chowdhury Para und betont in ihrem weitläufigen Gebetssaal lokale Architekturstile.",
+                  "category": "religious",
+                  "coords": [
+                        91.587685,
+                        22.737819
+                  ]
+            },
+            {
+                  "name": "Baitula Jame Mosjid, Shadon Ali Munshi Rd, Mirsharai, Chittagong",
+                  "text": "Diese islamische Moschee in Mirsharai liegt an der Shadon Ali Munshi Road und bietet ein leicht zugängliches spirituelles Zentrum für die benachbarten Dorfhaushalte.",
+                  "category": "religious",
+                  "coords": [
+                        91.576866,
+                        22.763541
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Shahe Zahid (ra) Mazar Sharif, Takia Para Rd, Mirsharai, Chittagong",
+                  "text": "Dieses ehrwürdige islamische Grabmal, das über die Takia Para Road erreichbar ist, ehrt Hazrat Mawolana Shahe Zahid und zieht Pilger an, die Segen und spirituellen Trost suchen.",
+                  "category": "religious",
+                  "coords": [
+                        91.586367,
+                        22.757001
+                  ]
+            },
+            {
+                  "name": "হজরত শাহ, সূফি জামাল শাহ রহঃ মাজার. Hozrot sha, Jamal (R) Mazer",
+                  "text": "Diese islamische Stätte umfasst das Grab des Sufi Jamal Shah und dient sowohl als funktionierende Moschee als auch als spezieller Schrein für regionale Mystiker.",
+                  "category": "religious",
+                  "coords": [
+                        91.588834,
+                        22.752618
+                  ]
+            },
+            {
+                  "name": "Purbo Polmoghra Zame Majid, Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Diese östliche Moschee in Polmoghra ist der Ahmmad Shoban Road zugewandt und bietet einen wesentlichen Raum für die täglichen fünfmaligen Gebete der örtlichen Arbeiterschaft.",
+                  "category": "religious",
+                  "coords": [
+                        91.59481,
+                        22.752518
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Hadee Shahe (ra) mazer., Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Diese Stätte an der Ahmmad Shoban Road kombiniert eine Moschee mit dem heiligen Mazar (Schrein) von Maulana Hadee Shah und beherbergt tiefe meditative Praktiken und Sufi-Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        91.597725,
+                        22.752063
+                  ]
+            },
+            {
+                  "name": "South Ambaria Jame Mosque, South Ambaria Jam-e-Masjid Road, Mirsharai, Chittagong",
+                  "text": "Diese lokale Moschee an der South Ambaria Jam-e-Masjid Road bietet einen eigenen Raum für islamische Gottesdienste und Gemeinschaftsgebete.",
+                  "category": "religious",
+                  "coords": [
+                        91.580612,
+                        22.769369
+                  ]
+            },
+            {
+                  "name": "Siddik Haji Bari Jame Mosque, Mirsharai, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Diese islamische Kultstätte am Dhaka-Chittagong Highway dient der lokalen muslimischen Gemeinde in Mirsharai.",
+                  "category": "religious",
+                  "coords": [
+                        91.561976,
+                        22.792954
+                  ]
+            },
+            {
+                  "name": "Upazila Model Masjid and Islamic Culture Center, Mirsarai, Chattogram",
+                  "text": "Diese Modellmoschee mit Kulturzentrum in Mirsarai ist als modernes Zentrum für islamische Bildung und tägliche Gebete konzipiert.",
+                  "category": "religious",
+                  "coords": [
+                        91.568019,
+                        22.777568
+                  ]
+            },
+            {
+                  "name": "Mosjid Al Jame An-Nur",
+                  "text": "Eine Viertelmoschee, die tägliche Gebete und spirituelle Führung für die umliegenden muslimischen Bewohner anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.56849,
+                        22.782137
+                  ]
+            },
+            {
+                  "name": "Hazrat Qazi Khwaja Moakekal (RA) Mazar Sharif, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "Dieser verehrte Schrein am Dhaka-Chittagong Highway dient als spirituelle Stätte, die einer angesehenen islamischen Persönlichkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.570942,
+                        22.779139
+                  ]
+            },
+            {
+                  "name": "Baitus Subhan Jame Mosque, Wireless, North Talbaria, Mirsharai, Chittagong",
+                  "text": "Diese Moschee im Wireless-Viertel von North Talbaria fungiert als zentrale Gebetsstätte für die Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        91.564332,
+                        22.792152
+                  ]
+            },
+            {
+                  "name": "Mithachara Islamia Fazil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Diese Moschee ist an eine traditionelle islamische Schule an der Autobahn angeschlossen und dient sowohl den Schülern als auch der breiteren muslimischen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        91.557442,
+                        22.804208
+                  ]
+            },
+            {
+                  "name": "Sajedia Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Diese lokale islamische Kultstätte ist über den Dhaka-Chittagong Highway erreichbar und ein Ort für Gemeindezusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        91.562516,
+                        22.802336
+                  ]
+            },
+            {
+                  "name": "Daulat Bhuiyan Bari Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Diese Moschee in der Nähe der großen Regionalstraße bietet eine engagierte Umgebung für tägliche islamische Andachten.",
+                  "category": "religious",
+                  "coords": [
+                        91.56005,
+                        22.794773
+                  ]
+            },
+            {
+                  "name": "Mandarbaria Shah Walia Girls Dakhil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Diese Moschee, die mit einer örtlichen Mädchen-Madrasa verbunden ist, erleichtert den islamischen Gottesdienst und das religiöse Studium in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        91.561457,
+                        22.796299
+                  ]
+            },
+            {
+                  "name": "Rahmatullil Alamin Jame Mosque",
+                  "text": "Diese islamische Kultstätte dient als lokaler Treffpunkt für regelmäßige Gebete und spirituelle Reflexion.",
+                  "category": "religious",
+                  "coords": [
+                        91.549178,
+                        22.832137
+                  ]
+            },
+            {
+                  "name": "বাইতুল মামুর জামে মসজিদ",
+                  "text": "Eine bengalisch benannte Jame-Moschee, die einen traditionellen Rahmen für Freitagsgebete und Gemeindeereignisse bietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.550414,
+                        22.844454
+                  ]
+            },
+            {
+                  "name": "বাইতুল আমান জামে মসজিদ",
+                  "text": "Diese Moschee dient den spirituellen Bedürfnissen der lokalen Muslime und ist ein spezieller Ort für den täglichen Gemeinschaftsgottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        91.552587,
+                        22.844957
+                  ]
+            },
+            {
+                  "name": "Baitul Anam Jame Mosque.",
+                  "text": "Ein islamisches Nachbarschaftszentrum, in dem sich Gläubige zu täglichen Gebeten und religiösen Aktivitäten der Gemeinde versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        91.544777,
+                        22.840168
+                  ]
+            },
+            {
+                  "name": "Moghadia Jame Masjid",
+                  "text": "Diese im Gebiet Moghadia gelegene Moschee fungiert als primärer Anziehungspunkt für lokale islamische Gemeindezusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        91.54294,
+                        22.744086
+                  ]
+            },
+            {
+                  "name": "Nizampur Bazar",
+                  "text": "Ein geschäftiger traditioneller Marktplatz in der Region, auf dem die Verkäufer eine Vielzahl von frischen Produkten und Dingen des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        91.604142,
+                        22.720636
+                  ]
+            },
+            {
+                  "name": "Noyduaria Bazar, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Dieser lokale Markt liegt an der Autobahn und versorgt Einwohner und Reisende mit den wichtigsten Gütern und frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        91.596464,
+                        22.738569
+                  ]
+            },
+            {
+                  "name": "Sorarqul Road, Mirsharai",
+                  "text": "Dieses lokale Gewerbegebiet in Mirsharai verfügt über verschiedene Geschäfte und Stände, die mit alltäglichen Haushaltsartikeln handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        91.598342,
+                        22.732636
+                  ]
+            },
+            {
+                  "name": "Baratakia New Fish Market, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "Dieser kürzlich eingerichtete Fischmarkt abseits des Dhaka-Chittagong Highway bietet eine große Auswahl an regional gefangenen Meeresfrüchten.",
+                  "category": "cultural",
+                  "coords": [
+                        91.587522,
+                        22.755316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thakur Dhigi Circle",
+                  "text": "A Shilpa Nagar-i jelentős helyi körforgalom körül elhelyezkedő közösségi istentiszteleti hely navigációs és spirituális tájékozódási pontként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        91.554511,
+                        22.817859
+                  ]
+            },
+            {
+                  "name": "Wahedpur Eidgah, Mirsharai, Chattogram",
+                  "text": "Ez a Mirsharai-i szabadtéri Eidgah hatalmas külső területtel rendelkezik, amelyet kifejezetten a nagyobb iszlám ünnepek alatti közös imákra terveztek.",
+                  "category": "religious",
+                  "coords": [
+                        91.620709,
+                        22.70567
+                  ]
+            },
+            {
+                  "name": "Derbox Sugani Jame Moshjid, Mirsharai, Chattogram",
+                  "text": "A Mirsharai régiót szolgáló iszlám gyülekezeti mecset hagyományos minaretekkel hívja a helyi közösséget a napi imára.",
+                  "category": "religious",
+                  "coords": [
+                        91.604316,
+                        22.707409
+                  ]
+            },
+            {
+                  "name": "Sarkar Bari Jame Masjid, Pathuria Rd, Chattogram",
+                  "text": "A Pathuria úthoz közel található helyi mecset a Sarkar Bari birtok lakóinak szerves spirituális horgonyaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        91.601668,
+                        22.716729
+                  ]
+            },
+            {
+                  "name": "Ichamati Qaderia Jame Masjid, Ichamoti, Mirsharai, Chattogram",
+                  "text": "Az Ichamoti településen található, a Qaderia szufi hagyományokban gyökerező mecset nyugodt környezetet biztosít a speciális iszlám recitációkhoz.",
+                  "category": "religious",
+                  "coords": [
+                        91.606225,
+                        22.712887
+                  ]
+            },
+            {
+                  "name": "Nizampur Rail Station Jaame Masjid, Nijampur, Station Rd, Mirsarai, Chittagong",
+                  "text": "Közvetlenül a nizampuri vasútállomás mellett található ez a kényelmes mecset, amely lehetővé teszi az átutazók és a vasutasok számára a késedelem nélküli imádkozást.",
+                  "category": "religious",
+                  "coords": [
+                        91.613101,
+                        22.721897
+                  ]
+            },
+            {
+                  "name": "Nizampur College Mosque,Nizampur College, Mirsarai, Chittagong",
+                  "text": "A Nizampur College területén belül található egyetemi mecset a helyi hallgatók és oktatók spirituális rutinjait szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        91.603783,
+                        22.719266
+                  ]
+            },
+            {
+                  "name": "Sarkerhat School Mashjid, Chittagong",
+                  "text": "Oktatási melléképületként funkcionáló iskolai mecset, amely biztosítja, hogy a sarkerhati fiatal diákok könnyen hozzáférjenek a napi közös istentisztelethez.",
+                  "category": "religious",
+                  "coords": [
+                        91.602466,
+                        22.720294
+                  ]
+            },
+            {
+                  "name": "Abdus Chobahan Jame Masjid, Chittagong",
+                  "text": "Ez a csittagongi székhelyű iszlám gyülekezeti mecset a helyiek körében ismert a dedikált imatereiről és a Jum'ah alatti nagy látogatottságáról.",
+                  "category": "religious",
+                  "coords": [
+                        91.603079,
+                        22.733612
+                  ]
+            },
+            {
+                  "name": "Gachbaria Jame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "A forgalmas Dakka-Csittagong autópálya mentén, Haitkandiban stratégiailag elhelyezkedő mecset létfontosságú pihenő- és imádkozóhely a távolsági sofőrök számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.599504,
+                        22.728064
+                  ]
+            },
+            {
+                  "name": "Hadi Fokirhat Jaame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "A Hadi Fokirhat autópálya-piaci területének szomszédságában található mecset ötvözi a spirituális nyugalmat a helyi tranzitfolyosó gyors tempójával.",
+                  "category": "religious",
+                  "coords": [
+                        91.600964,
+                        22.727193
+                  ]
+            },
+            {
+                  "name": "Kazi Para Jame Masjid, Sorarqule Rd, Chittagong",
+                  "text": "A Kazi Para-i Sorarqule út mellett megbúvó szomszédsági iszlám mecset árnyékos, csendes belső teret kínál a helyi lakosok napi imáihoz.",
+                  "category": "religious",
+                  "coords": [
+                        91.592191,
+                        22.728746
+                  ]
+            },
+            {
+                  "name": "Chararkul Jame Mosjid, Mirsharai, Chittagong",
+                  "text": "A Chararkul elsődleges gyülekezeti horgonyaként működő mirsharai mecset összehozza a környező vidéki közösséget az iszlám istentiszteletre.",
+                  "category": "religious",
+                  "coords": [
+                        91.594902,
+                        22.732056
+                  ]
+            },
+            {
+                  "name": "Mosjidia Chowdhury Para Jame Mosque",
+                  "text": "A Chowdhury Para közösségét összefogó hagyományos iszlám mecset tágas imatermében a helyi építészeti stílusokat hangsúlyozza.",
+                  "category": "religious",
+                  "coords": [
+                        91.587685,
+                        22.737819
+                  ]
+            },
+            {
+                  "name": "Baitula Jame Mosjid, Shadon Ali Munshi Rd, Mirsharai, Chittagong",
+                  "text": "A Shadon Ali Munshi úton található mirsharai iszlám mecset könnyen megközelíthető spirituális központot biztosít a szomszédos falu háztartásai számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.576866,
+                        22.763541
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Shahe Zahid (ra) Mazar Sharif, Takia Para Rd, Mirsharai, Chittagong",
+                  "text": "A Takia Para úton megközelíthető tiszteletre méltó iszlám sír Hazrat Mawolana Shahe Zahid előtt tiszteleg, áldást és spirituális vigaszt kereső zarándokokat vonzva.",
+                  "category": "religious",
+                  "coords": [
+                        91.586367,
+                        22.757001
+                  ]
+            },
+            {
+                  "name": "হজরত শাহ, সূফি জামাল শাহ রহঃ মাজার. Hozrot sha, Jamal (R) Mazer",
+                  "text": "A Szufi Jamal Shah sírját magában foglaló iszlám hely működő mecsetként és a regionális misztikusok dedikált szentélyeként is szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        91.588834,
+                        22.752618
+                  ]
+            },
+            {
+                  "name": "Purbo Polmoghra Zame Majid, Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Az Ahmmad Shoban útra néző keleti mecset Polmoghrában elengedhetetlen teret biztosít a helyi munkaerő napi ötszöri imájához.",
+                  "category": "religious",
+                  "coords": [
+                        91.59481,
+                        22.752518
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Hadee Shahe (ra) mazer., Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "A mecsetet és Maulana Hadee Shah szent mazarját (szentélyét) ötvöző hely az Ahmmad Shoban úton mély meditatív gyakorlatoknak és szufi összejöveteleknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        91.597725,
+                        22.752063
+                  ]
+            },
+            {
+                  "name": "South Ambaria Jame Mosque, South Ambaria Jam-e-Masjid Road, Mirsharai, Chittagong",
+                  "text": "Ez a South Ambaria Jam-e-Masjid Roadon található helyi mecset az iszlám istentiszteletek és a közösségi imák helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        91.580612,
+                        22.769369
+                  ]
+            },
+            {
+                  "name": "Siddik Haji Bari Jame Mosque, Mirsharai, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "A Dakka-Chittagong autópálya mentén található iszlám istentiszteleti hely a mirsharai muszlim közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        91.561976,
+                        22.792954
+                  ]
+            },
+            {
+                  "name": "Upazila Model Masjid and Islamic Culture Center, Mirsarai, Chattogram",
+                  "text": "Ezt a mirsarai modellmecsetet és kulturális központot az iszlám oktatás és a napi imák modern központjaként tervezték.",
+                  "category": "religious",
+                  "coords": [
+                        91.568019,
+                        22.777568
+                  ]
+            },
+            {
+                  "name": "Mosjid Al Jame An-Nur",
+                  "text": "A környékbeli mecset napi imákat és spirituális útmutatást kínál a helyi muszlim lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.56849,
+                        22.782137
+                  ]
+            },
+            {
+                  "name": "Hazrat Qazi Khwaja Moakekal (RA) Mazar Sharif, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "Ez a Dakka-Chittagong autópálya mentén található tiszteletreméltó szentély egy tekintélyes iszlám személyiségnek szentelt spirituális hely.",
+                  "category": "religious",
+                  "coords": [
+                        91.570942,
+                        22.779139
+                  ]
+            },
+            {
+                  "name": "Baitus Subhan Jame Mosque, Wireless, North Talbaria, Mirsharai, Chittagong",
+                  "text": "A North Talbaria Wireless negyedében található mecset a környék központi imaházaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        91.564332,
+                        22.792152
+                  ]
+            },
+            {
+                  "name": "Mithachara Islamia Fazil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Az autópálya melletti hagyományos iszlám iskolához kapcsolódó mecset a diákokat és a szélesebb muszlim közösséget egyaránt szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        91.557442,
+                        22.804208
+                  ]
+            },
+            {
+                  "name": "Sajedia Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "A Dakka-Chittagong autópályán keresztül megközelíthető helyi iszlám istentiszteleti hely a közösségi összejövetelek helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        91.562516,
+                        22.802336
+                  ]
+            },
+            {
+                  "name": "Daulat Bhuiyan Bari Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Ez a fő regionális autópálya közelében található mecset dedikált környezetet biztosít a napi iszlám áhítatokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        91.56005,
+                        22.794773
+                  ]
+            },
+            {
+                  "name": "Mandarbaria Shah Walia Girls Dakhil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "A helyi lány madraszával kapcsolatban álló mecset elősegíti az iszlám istentiszteletet és a vallási tanulmányokat a közösségben.",
+                  "category": "religious",
+                  "coords": [
+                        91.561457,
+                        22.796299
+                  ]
+            },
+            {
+                  "name": "Rahmatullil Alamin Jame Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely a rendszeres imák és a spirituális elmélyülés helyi gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        91.549178,
+                        22.832137
+                  ]
+            },
+            {
+                  "name": "বাইতুল মামুর জামে মসজিদ",
+                  "text": "A bengáli nevű Jame mecset hagyományos környezetet biztosít a pénteki közösségi imákhoz és a közösségi eseményekhez.",
+                  "category": "religious",
+                  "coords": [
+                        91.550414,
+                        22.844454
+                  ]
+            },
+            {
+                  "name": "বাইতুল আমান জামে মসজিদ",
+                  "text": "A helyi muszlimok spirituális igényeit kielégítő mecset a napi közösségi istentisztelet dedikált helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        91.552587,
+                        22.844957
+                  ]
+            },
+            {
+                  "name": "Baitul Anam Jame Mosque.",
+                  "text": "Egy környékbeli iszlám központ, amely helyet ad a hívőknek a napi imákhoz és a közösségi vallási tevékenységekhez.",
+                  "category": "religious",
+                  "coords": [
+                        91.544777,
+                        22.840168
+                  ]
+            },
+            {
+                  "name": "Moghadia Jame Masjid",
+                  "text": "A Moghadia területén található mecset a helyi iszlám közösségi összejövetelek elsődleges fókuszpontjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        91.54294,
+                        22.744086
+                  ]
+            },
+            {
+                  "name": "Nizampur Bazar",
+                  "text": "Egy nyüzsgő hagyományos piac a régióban, ahol az árusok friss termékek és napi szükségleti cikkek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        91.604142,
+                        22.720636
+                  ]
+            },
+            {
+                  "name": "Noyduaria Bazar, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Az autópálya mentén található helyi piac alapvető cikkekkel és friss élelmiszerekkel látja el a lakosokat és az utazókat.",
+                  "category": "cultural",
+                  "coords": [
+                        91.596464,
+                        22.738569
+                  ]
+            },
+            {
+                  "name": "Sorarqul Road, Mirsharai",
+                  "text": "Ez a mirsharai helyi kereskedelmi terület különféle üzletekkel és standokkal rendelkezik, amelyek mindennapi háztartási cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        91.598342,
+                        22.732636
+                  ]
+            },
+            {
+                  "name": "Baratakia New Fish Market, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "Ez a Dakka-Chittagong autópálya mellett újonnan létesített halpiac a regionálisan fogott tenger gyümölcseinek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        91.587522,
+                        22.755316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thakur Dhigi Circle",
+                  "text": "Situat în jurul unui sens giratoriu local proeminent din Shilpa Nagar, acest lăcaș de cult comunitar servește drept punct de reper navigațional și spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        91.554511,
+                        22.817859
+                  ]
+            },
+            {
+                  "name": "Wahedpur Eidgah, Mirsharai, Chattogram",
+                  "text": "Acest Eidgah în aer liber din Mirsharai are o întindere mare în exterior, concepută special pentru rugăciuni comunitare în timpul festivalurilor islamice majore.",
+                  "category": "religious",
+                  "coords": [
+                        91.620709,
+                        22.70567
+                  ]
+            },
+            {
+                  "name": "Derbox Sugani Jame Moshjid, Mirsharai, Chattogram",
+                  "text": "Deservind regiunea Mirsharai, această moschee islamică congregațională prezintă minarete tradiționale care cheamă comunitatea locală la rugăciunea zilnică.",
+                  "category": "religious",
+                  "coords": [
+                        91.604316,
+                        22.707409
+                  ]
+            },
+            {
+                  "name": "Sarkar Bari Jame Masjid, Pathuria Rd, Chattogram",
+                  "text": "Situată în apropiere de drumul Pathuria, această moschee locală acționează ca o ancoră spirituală integrală pentru locuitorii din zona moșiei Sarkar Bari.",
+                  "category": "religious",
+                  "coords": [
+                        91.601668,
+                        22.716729
+                  ]
+            },
+            {
+                  "name": "Ichamati Qaderia Jame Masjid, Ichamoti, Mirsharai, Chattogram",
+                  "text": "Înrădăcinată în tradiția sufi Qaderia, această moschee din așezarea Ichamoti oferă un mediu senin pentru recitările islamice specializate.",
+                  "category": "religious",
+                  "coords": [
+                        91.606225,
+                        22.712887
+                  ]
+            },
+            {
+                  "name": "Nizampur Rail Station Jaame Masjid, Nijampur, Station Rd, Mirsarai, Chittagong",
+                  "text": "Adiacentă direct gării Nizampur, această moschee convenabilă permite călătorilor în trecere și lucrătorilor feroviari să-și respecte rugăciunile fără întârziere.",
+                  "category": "religious",
+                  "coords": [
+                        91.613101,
+                        22.721897
+                  ]
+            },
+            {
+                  "name": "Nizampur College Mosque,Nizampur College, Mirsarai, Chittagong",
+                  "text": "Integrată în terenurile Colegiului Nizampur, această moschee din campusul academic răspunde rutinelor spirituale ale studenților locali și membrilor facultății.",
+                  "category": "religious",
+                  "coords": [
+                        91.603783,
+                        22.719266
+                  ]
+            },
+            {
+                  "name": "Sarkerhat School Mashjid, Chittagong",
+                  "text": "Funcționând ca o anexă educațională, această moschee de lângă școală se asigură că tinerii elevi din Sarkerhat au acces ușor la rugăciunile congregaționale zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        91.602466,
+                        22.720294
+                  ]
+            },
+            {
+                  "name": "Abdus Chobahan Jame Masjid, Chittagong",
+                  "text": "Această moschee islamică congregațională cu sediul în Chittagong este cunoscută pe plan local pentru spațiile sale dedicate rugăciunii și pentru prezența puternică în timpul vineri.",
+                  "category": "religious",
+                  "coords": [
+                        91.603079,
+                        22.733612
+                  ]
+            },
+            {
+                  "name": "Gachbaria Jame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "Poziționată strategic de-a lungul aglomeratei autostrăzi Dhaka-Chittagong în Haitkandi, această moschee servește drept un popas vital de odihnă și rugăciune pentru șoferii de cursă lungă.",
+                  "category": "religious",
+                  "coords": [
+                        91.599504,
+                        22.728064
+                  ]
+            },
+            {
+                  "name": "Hadi Fokirhat Jaame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "Situată adiacent zonei pieței de pe autostradă din Hadi Fokirhat, această moschee îmbină liniștea spirituală cu ritmul rapid al coridorului de tranzit local.",
+                  "category": "religious",
+                  "coords": [
+                        91.600964,
+                        22.727193
+                  ]
+            },
+            {
+                  "name": "Kazi Para Jame Masjid, Sorarqule Rd, Chittagong",
+                  "text": "Ascunsă de pe drumul Sorarqule în Kazi Para, această moschee islamică de cartier oferă un interior umbrit și liniștit pentru rugăciunile zilnice ale rezidenților locali.",
+                  "category": "religious",
+                  "coords": [
+                        91.592191,
+                        22.728746
+                  ]
+            },
+            {
+                  "name": "Chararkul Jame Mosjid, Mirsharai, Chittagong",
+                  "text": "Funcționând ca ancora congregațională principală pentru Chararkul, această moschee din Mirsharai aduce comunitatea rurală înconjurătoare împreună pentru cultul islamic.",
+                  "category": "religious",
+                  "coords": [
+                        91.594902,
+                        22.732056
+                  ]
+            },
+            {
+                  "name": "Mosjidia Chowdhury Para Jame Mosque",
+                  "text": "Ancorând comunitatea Chowdhury Para, această moschee islamică tradițională pune accent pe stilurile arhitecturale locale în cadrul sălii sale vaste de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        91.587685,
+                        22.737819
+                  ]
+            },
+            {
+                  "name": "Baitula Jame Mosjid, Shadon Ali Munshi Rd, Mirsharai, Chittagong",
+                  "text": "Situată pe drumul Shadon Ali Munshi, această moschee islamică din Mirsharai oferă un centru spiritual ușor accesibil pentru gospodăriile satelor învecinate.",
+                  "category": "religious",
+                  "coords": [
+                        91.576866,
+                        22.763541
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Shahe Zahid (ra) Mazar Sharif, Takia Para Rd, Mirsharai, Chittagong",
+                  "text": "Accesibil prin drumul Takia Para, acest mormânt islamic plin de venerație îl onorează pe Hazrat Mawolana Shahe Zahid, atrăgând pelerini care caută binecuvântări și alinare spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        91.586367,
+                        22.757001
+                  ]
+            },
+            {
+                  "name": "হজরত শাহ, সূফি জামাল শাহ রহঃ মাজার. Hozrot sha, Jamal (R) Mazer",
+                  "text": "Cuprinzând mormântul sufitului Jamal Shah, acest sit islamic servește atât ca o moschee funcțională, cât și ca un altar dedicat misticilor regionali.",
+                  "category": "religious",
+                  "coords": [
+                        91.588834,
+                        22.752618
+                  ]
+            },
+            {
+                  "name": "Purbo Polmoghra Zame Majid, Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Cu fața spre drumul Ahmmad Shoban, această moschee estică din Polmoghra oferă un spațiu esențial pentru cele cinci rugăciuni zilnice ale forței de muncă locale.",
+                  "category": "religious",
+                  "coords": [
+                        91.59481,
+                        22.752518
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Hadee Shahe (ra) mazer., Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Combinând o moschee cu mazar-ul sacru (altarul) al lui Maulana Hadee Shah de pe drumul Ahmmad Shoban, acest sit găzduiește practici meditative profunde și adunări sufi.",
+                  "category": "religious",
+                  "coords": [
+                        91.597725,
+                        22.752063
+                  ]
+            },
+            {
+                  "name": "South Ambaria Jame Mosque, South Ambaria Jam-e-Masjid Road, Mirsharai, Chittagong",
+                  "text": "Această moschee locală de pe South Ambaria Jam-e-Masjid Road oferă un spațiu dedicat pentru cultul islamic și rugăciunile congregaționale.",
+                  "category": "religious",
+                  "coords": [
+                        91.580612,
+                        22.769369
+                  ]
+            },
+            {
+                  "name": "Siddik Haji Bari Jame Mosque, Mirsharai, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Situat de-a lungul autostrăzii Dhaka-Chittagong, acest lăcaș de cult islamic deservește comunitatea musulmană locală din Mirsharai.",
+                  "category": "religious",
+                  "coords": [
+                        91.561976,
+                        22.792954
+                  ]
+            },
+            {
+                  "name": "Upazila Model Masjid and Islamic Culture Center, Mirsarai, Chattogram",
+                  "text": "Această moschee model și centru cultural din Mirsarai este concepută ca un centru modern pentru educația islamică și rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        91.568019,
+                        22.777568
+                  ]
+            },
+            {
+                  "name": "Mosjid Al Jame An-Nur",
+                  "text": "O moschee de cartier care oferă rugăciuni zilnice și îndrumare spirituală pentru rezidenții musulmani din împrejurimi.",
+                  "category": "religious",
+                  "coords": [
+                        91.56849,
+                        22.782137
+                  ]
+            },
+            {
+                  "name": "Hazrat Qazi Khwaja Moakekal (RA) Mazar Sharif, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "Acest altar venerat de-a lungul autostrăzii Dhaka-Chittagong servește drept sit spiritual dedicat unei figuri islamice respectate.",
+                  "category": "religious",
+                  "coords": [
+                        91.570942,
+                        22.779139
+                  ]
+            },
+            {
+                  "name": "Baitus Subhan Jame Mosque, Wireless, North Talbaria, Mirsharai, Chittagong",
+                  "text": "Situată în zona Wireless din North Talbaria, această moschee funcționează ca un centru central de rugăciune pentru cartier.",
+                  "category": "religious",
+                  "coords": [
+                        91.564332,
+                        22.792152
+                  ]
+            },
+            {
+                  "name": "Mithachara Islamia Fazil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Ataşată unei școli islamice tradiționale de pe autostradă, această moschee deservește atât studenții, cât și comunitatea musulmană mai largă.",
+                  "category": "religious",
+                  "coords": [
+                        91.557442,
+                        22.804208
+                  ]
+            },
+            {
+                  "name": "Sajedia Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Accesibil prin autostrada Dhaka-Chittagong, acest lăcaș de cult islamic local este un loc pentru adunări congregaționale.",
+                  "category": "religious",
+                  "coords": [
+                        91.562516,
+                        22.802336
+                  ]
+            },
+            {
+                  "name": "Daulat Bhuiyan Bari Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Această moschee situată lângă principala autostradă regională oferă un mediu dedicat pentru devotamentele islamice zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        91.56005,
+                        22.794773
+                  ]
+            },
+            {
+                  "name": "Mandarbaria Shah Walia Girls Dakhil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Asociată cu o madrasă locală pentru fete, această moschee facilitează cultul islamic și studiul religios în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        91.561457,
+                        22.796299
+                  ]
+            },
+            {
+                  "name": "Rahmatullil Alamin Jame Mosque",
+                  "text": "Acest lăcaș de cult islamic servește ca punct de adunare local pentru rugăciuni regulate și reflecție spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        91.549178,
+                        22.832137
+                  ]
+            },
+            {
+                  "name": "বাইতুল মামুর জামে মসজিদ",
+                  "text": "O moschee Jame cu un nume bengalez, care oferă un cadru tradițional pentru rugăciunile congregaționale de vineri și evenimentele comunității.",
+                  "category": "religious",
+                  "coords": [
+                        91.550414,
+                        22.844454
+                  ]
+            },
+            {
+                  "name": "বাইতুল আমান জামে মসজিদ",
+                  "text": "Deservind nevoilor spirituale ale musulmanilor locali, această moschee este un loc dedicat cultului comunal zilnic.",
+                  "category": "religious",
+                  "coords": [
+                        91.552587,
+                        22.844957
+                  ]
+            },
+            {
+                  "name": "Baitul Anam Jame Mosque.",
+                  "text": "Un centru islamic de cartier care găzduiește credincioși pentru rugăciuni zilnice și activități religioase comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        91.544777,
+                        22.840168
+                  ]
+            },
+            {
+                  "name": "Moghadia Jame Masjid",
+                  "text": "Situată în zona Moghadia, această moschee acționează ca principal punct focal pentru adunările congregaționale islamice locale.",
+                  "category": "religious",
+                  "coords": [
+                        91.54294,
+                        22.744086
+                  ]
+            },
+            {
+                  "name": "Nizampur Bazar",
+                  "text": "O piață tradițională plină de viață din regiune, unde vânzătorii oferă o varietate de produse proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        91.604142,
+                        22.720636
+                  ]
+            },
+            {
+                  "name": "Noyduaria Bazar, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Situată de-a lungul autostrăzii, această piață locală oferă rezidenților și călătorilor bunuri esențiale și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        91.596464,
+                        22.738569
+                  ]
+            },
+            {
+                  "name": "Sorarqul Road, Mirsharai",
+                  "text": "Această zonă comercială locală din Mirsharai are diverse magazine și tarabe care comercializează articole de uz casnic de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        91.598342,
+                        22.732636
+                  ]
+            },
+            {
+                  "name": "Baratakia New Fish Market, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "Această piață de pește recent înființată pe autostrada Dhaka-Chittagong oferă o gamă largă de fructe de mare prinse la nivel regional.",
+                  "category": "cultural",
+                  "coords": [
+                        91.587522,
+                        22.755316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thakur Dhigi Circle",
+                  "text": "Set around a prominent local roundabout in Shilpa Nagar, this community place of worship serves as a navigational and spiritual landmark.",
+                  "category": "religious",
+                  "coords": [
+                        91.554511,
+                        22.817859
+                  ]
+            },
+            {
+                  "name": "Wahedpur Eidgah, Mirsharai, Chattogram",
+                  "text": "This open-air Eidgah in Mirsharai features a large outdoor expanse designed specifically for communal prayers during major Islamic festivals.",
+                  "category": "religious",
+                  "coords": [
+                        91.620709,
+                        22.70567
+                  ]
+            },
+            {
+                  "name": "Derbox Sugani Jame Moshjid, Mirsharai, Chattogram",
+                  "text": "Serving the Mirsharai region, this Islamic congregational mosque features traditional minarets calling the local community to daily prayer.",
+                  "category": "religious",
+                  "coords": [
+                        91.604316,
+                        22.707409
+                  ]
+            },
+            {
+                  "name": "Sarkar Bari Jame Masjid, Pathuria Rd, Chattogram",
+                  "text": "Located closely to Pathuria Road, this local mosque acts as an integral spiritual anchor for the residents of the Sarkar Bari estate area.",
+                  "category": "religious",
+                  "coords": [
+                        91.601668,
+                        22.716729
+                  ]
+            },
+            {
+                  "name": "Ichamati Qaderia Jame Masjid, Ichamoti, Mirsharai, Chattogram",
+                  "text": "Rooted in the Qaderia Sufi tradition, this mosque in the Ichamoti settlement provides a serene environment for specialized Islamic recitations.",
+                  "category": "religious",
+                  "coords": [
+                        91.606225,
+                        22.712887
+                  ]
+            },
+            {
+                  "name": "Nizampur Rail Station Jaame Masjid, Nijampur, Station Rd, Mirsarai, Chittagong",
+                  "text": "Directly adjoining the Nizampur Rail Station, this convenient mosque allows passing travelers and railway workers to observe their prayers without delay.",
+                  "category": "religious",
+                  "coords": [
+                        91.613101,
+                        22.721897
+                  ]
+            },
+            {
+                  "name": "Nizampur College Mosque,Nizampur College, Mirsarai, Chittagong",
+                  "text": "Embedded within the Nizampur College grounds, this academic campus mosque caters to the spiritual routines of local students and faculty members.",
+                  "category": "religious",
+                  "coords": [
+                        91.603783,
+                        22.719266
+                  ]
+            },
+            {
+                  "name": "Sarkerhat School Mashjid, Chittagong",
+                  "text": "Functioning as an educational annex, this schoolside mosque ensures that young students in Sarkerhat have easy access to daily congregational worship.",
+                  "category": "religious",
+                  "coords": [
+                        91.602466,
+                        22.720294
+                  ]
+            },
+            {
+                  "name": "Abdus Chobahan Jame Masjid, Chittagong",
+                  "text": "This Chittagong-based Islamic congregational mosque is known locally for its dedicated prayer spaces and strong attendance during Jum'ah.",
+                  "category": "religious",
+                  "coords": [
+                        91.603079,
+                        22.733612
+                  ]
+            },
+            {
+                  "name": "Gachbaria Jame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "Positioned strategically along the busy Dhaka-Chittagong Highway in Haitkandi, this mosque serves as a vital rest and prayer stop for long-distance drivers.",
+                  "category": "religious",
+                  "coords": [
+                        91.599504,
+                        22.728064
+                  ]
+            },
+            {
+                  "name": "Hadi Fokirhat Jaame Masjid, Dhaka - Chittagong Hwy, Haitkandi, Chittagong",
+                  "text": "Located adjacent to the highway market area of Hadi Fokirhat, this mosque blends spiritual tranquility with the fast pace of the local transit corridor.",
+                  "category": "religious",
+                  "coords": [
+                        91.600964,
+                        22.727193
+                  ]
+            },
+            {
+                  "name": "Kazi Para Jame Masjid, Sorarqule Rd, Chittagong",
+                  "text": "Nestled off Sorarqule Road in Kazi Para, this neighborhood Islamic mosque offers a shaded, quiet interior for the daily prayers of local residents.",
+                  "category": "religious",
+                  "coords": [
+                        91.592191,
+                        22.728746
+                  ]
+            },
+            {
+                  "name": "Chararkul Jame Mosjid, Mirsharai, Chittagong",
+                  "text": "Functioning as the primary congregational anchor for Chararkul, this Mirsharai mosque brings the surrounding rural community together for Islamic worship.",
+                  "category": "religious",
+                  "coords": [
+                        91.594902,
+                        22.732056
+                  ]
+            },
+            {
+                  "name": "Mosjidia Chowdhury Para Jame Mosque",
+                  "text": "Anchoring the Chowdhury Para community, this traditional Islamic mosque emphasizes local architectural styles within its expansive prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        91.587685,
+                        22.737819
+                  ]
+            },
+            {
+                  "name": "Baitula Jame Mosjid, Shadon Ali Munshi Rd, Mirsharai, Chittagong",
+                  "text": "Located on Shadon Ali Munshi Road, this Mirsharai Islamic mosque provides an easily accessible spiritual center for neighboring village households.",
+                  "category": "religious",
+                  "coords": [
+                        91.576866,
+                        22.763541
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Shahe Zahid (ra) Mazar Sharif, Takia Para Rd, Mirsharai, Chittagong",
+                  "text": "Reached via Takia Para Road, this reverent Islamic tomb honors Hazrat Mawolana Shahe Zahid, attracting pilgrims seeking blessings and spiritual solace.",
+                  "category": "religious",
+                  "coords": [
+                        91.586367,
+                        22.757001
+                  ]
+            },
+            {
+                  "name": "হজরত শাহ, সূফি জামাল শাহ রহঃ মাজার. Hozrot sha, Jamal (R) Mazer",
+                  "text": "Encompassing the tomb of Sufi Jamal Shah, this Islamic site serves both as a functioning mosque and a dedicated shrine for regional mystics.",
+                  "category": "religious",
+                  "coords": [
+                        91.588834,
+                        22.752618
+                  ]
+            },
+            {
+                  "name": "Purbo Polmoghra Zame Majid, Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Facing the Ahmmad Shoban Road, this eastern mosque in Polmoghra provides an essential space for the daily fivefold prayers of the local workforce.",
+                  "category": "religious",
+                  "coords": [
+                        91.59481,
+                        22.752518
+                  ]
+            },
+            {
+                  "name": "Hazrat Mawolana Hadee Shahe (ra) mazer., Ahmmad Shoban Rd, Mirsharai, Chittagong",
+                  "text": "Combining a mosque with the sacred mazar (shrine) of Maulana Hadee Shah on Ahmmad Shoban Road, this site hosts deep meditative practices and Sufi gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        91.597725,
+                        22.752063
+                  ]
+            },
+            {
+                  "name": "South Ambaria Jame Mosque, South Ambaria Jam-e-Masjid Road, Mirsharai, Chittagong",
+                  "text": "This local mosque on South Ambaria Jam-e-Masjid Road provides a dedicated space for Islamic worship and congregational prayers.",
+                  "category": "religious",
+                  "coords": [
+                        91.580612,
+                        22.769369
+                  ]
+            },
+            {
+                  "name": "Siddik Haji Bari Jame Mosque, Mirsharai, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Situated along the Dhaka-Chittagong Highway, this Islamic place of worship serves the local Muslim community in Mirsharai.",
+                  "category": "religious",
+                  "coords": [
+                        91.561976,
+                        22.792954
+                  ]
+            },
+            {
+                  "name": "Upazila Model Masjid and Islamic Culture Center, Mirsarai, Chattogram",
+                  "text": "This model mosque and cultural center in Mirsarai is designed as a modern hub for Islamic education and daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        91.568019,
+                        22.777568
+                  ]
+            },
+            {
+                  "name": "Mosjid Al Jame An-Nur",
+                  "text": "A neighborhood mosque offering daily prayers and spiritual guidance for the surrounding Muslim residents.",
+                  "category": "religious",
+                  "coords": [
+                        91.56849,
+                        22.782137
+                  ]
+            },
+            {
+                  "name": "Hazrat Qazi Khwaja Moakekal (RA) Mazar Sharif, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "This revered shrine along the Dhaka-Chittagong Highway serves as a spiritual site dedicated to a respected Islamic figure.",
+                  "category": "religious",
+                  "coords": [
+                        91.570942,
+                        22.779139
+                  ]
+            },
+            {
+                  "name": "Baitus Subhan Jame Mosque, Wireless, North Talbaria, Mirsharai, Chittagong",
+                  "text": "Located in the Wireless area of North Talbaria, this mosque functions as a central prayer facility for the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        91.564332,
+                        22.792152
+                  ]
+            },
+            {
+                  "name": "Mithachara Islamia Fazil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Attached to a traditional Islamic school on the highway, this mosque serves both students and the broader Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        91.557442,
+                        22.804208
+                  ]
+            },
+            {
+                  "name": "Sajedia Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Accessible via the Dhaka-Chittagong Highway, this local Islamic place of worship is a venue for congregational gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        91.562516,
+                        22.802336
+                  ]
+            },
+            {
+                  "name": "Daulat Bhuiyan Bari Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "This mosque near the major regional highway provides a dedicated environment for daily Islamic devotions.",
+                  "category": "religious",
+                  "coords": [
+                        91.56005,
+                        22.794773
+                  ]
+            },
+            {
+                  "name": "Mandarbaria Shah Walia Girls Dakhil Madrasah Jame Mosque, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Associated with a local girls' madrasah, this mosque facilitates Islamic worship and religious study in the community.",
+                  "category": "religious",
+                  "coords": [
+                        91.561457,
+                        22.796299
+                  ]
+            },
+            {
+                  "name": "Rahmatullil Alamin Jame Mosque",
+                  "text": "This Islamic place of worship serves as a local gathering point for regular prayers and spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        91.549178,
+                        22.832137
+                  ]
+            },
+            {
+                  "name": "বাইতুল মামুর জামে মসজিদ",
+                  "text": "A Bengali-named Jame mosque providing a traditional setting for Friday congregational prayers and community events.",
+                  "category": "religious",
+                  "coords": [
+                        91.550414,
+                        22.844454
+                  ]
+            },
+            {
+                  "name": "বাইতুল আমান জামে মসজিদ",
+                  "text": "Serving the spiritual needs of local Muslims, this mosque is a dedicated site for daily communal worship.",
+                  "category": "religious",
+                  "coords": [
+                        91.552587,
+                        22.844957
+                  ]
+            },
+            {
+                  "name": "Baitul Anam Jame Mosque.",
+                  "text": "A neighborhood Islamic center that accommodates worshippers for daily prayers and community religious activities.",
+                  "category": "religious",
+                  "coords": [
+                        91.544777,
+                        22.840168
+                  ]
+            },
+            {
+                  "name": "Moghadia Jame Masjid",
+                  "text": "Located in the Moghadia area, this mosque acts as the primary focal point for local Islamic congregational gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        91.54294,
+                        22.744086
+                  ]
+            },
+            {
+                  "name": "Nizampur Bazar",
+                  "text": "A bustling traditional marketplace in the region where vendors offer a variety of fresh produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        91.604142,
+                        22.720636
+                  ]
+            },
+            {
+                  "name": "Noyduaria Bazar, Dhaka - Chittagong Hwy, Chittagong",
+                  "text": "Situated along the highway, this local market provides residents and travelers with essential goods and fresh groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        91.596464,
+                        22.738569
+                  ]
+            },
+            {
+                  "name": "Sorarqul Road, Mirsharai",
+                  "text": "This local commercial area in Mirsharai features various shops and stalls trading in everyday household items.",
+                  "category": "cultural",
+                  "coords": [
+                        91.598342,
+                        22.732636
+                  ]
+            },
+            {
+                  "name": "Baratakia New Fish Market, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+                  "text": "This recently established fish market off the Dhaka-Chittagong Highway offers a wide selection of regionally caught seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        91.587522,
+                        22.755316
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Bangabandhu Sheikh Mujib Shilpa Nagar", hu: "Bangabandhu Sheikh Mujib Shilpa Nagar", ro: "Bangabandhu Sheikh Mujib Shilpa Nagar", en: "Bangabandhu Sheikh Mujib Shilpa Nagar" },
@@ -273,7 +5862,664 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-matarbari-port-economic-v2.webp",
   },
   {
-    id: "bangladesh-rooppur-nuclear-economic-v2",
+    id: "bangladesh-rooppur-nuclear-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dashuria circle",
+                  "text": "Ein zentraler Straßenknotenpunkt und markanter Kreisverkehr in Dashuria, der als wichtiger lokaler Treffpunkt dient.",
+                  "category": "historical",
+                  "coords": [
+                        89.121662,
+                        24.112368
+                  ]
+            },
+            {
+                  "name": "Ishwardi Liberation War Monument",
+                  "text": "Ein Gedenkmonument in Ishwardi zu Ehren der lokalen Märtyrer des Befreiungskrieges von 1971.",
+                  "category": "historical",
+                  "coords": [
+                        89.063919,
+                        24.127162
+                  ]
+            },
+            {
+                  "name": "Umirpur mosque",
+                  "text": "Eine kleine Nachbarschaftsmoschee im Umirpur-Gebiet von Ishwardi, die für tägliche Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        89.065213,
+                        24.112492
+                  ]
+            },
+            {
+                  "name": "ইস্তা সাঁকো জামে মসজিদ",
+                  "text": "Eine lokale Moschee in Ishwardi, die sich in der Nähe einer traditionellen Holz- oder Bambusbrücke (Sanko) befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.063135,
+                        24.10294
+                  ]
+            },
+            {
+                  "name": "উত্তর বাঘইল মডেল ঈদগাহ",
+                  "text": "Ein großer Open-Air-Gebetsplatz in Nord-Baghoil, der für gemeinschaftliche Eid-Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        89.062046,
+                        24.106961
+                  ]
+            },
+            {
+                  "name": "স্কুল পাড়া জামে মসজিদ",
+                  "text": "Eine Nachbarschaftsmoschee in Ishwardi, die sich im Wohngebiet rund um die örtliche Schule befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.055492,
+                        24.134983
+                  ]
+            },
+            {
+                  "name": "বাবুপাড়া মসজিদ",
+                  "text": "Eine lokale Moschee im Babupara-Viertel von Ishwardi, die den Anwohnern in der Nähe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.059871,
+                        24.132204
+                  ]
+            },
+            {
+                  "name": "দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ",
+                  "text": "Eine Gemeindemoschee im nördlichen Sektor von Dashuria, die der lokalen muslimischen Bevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.123664,
+                        24.116039
+                  ]
+            },
+            {
+                  "name": "বাবুপাড়া ঈদগাহ",
+                  "text": "Ein großes offenes Feld in Babupara, das für groß angelegte Gemeinschaftsgebete während islamischer Feste reserviert ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.061078,
+                        24.132104
+                  ]
+            },
+            {
+                  "name": "ঈশ্বরদী মার্কাজ মসজিদ",
+                  "text": "Diese zentrale Moschee in Ishurdi dient als wichtiges geistiges Zentrum für die lokale Tablighi-Jamaat-Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        89.061779,
+                        24.130761
+                  ]
+            },
+            {
+                  "name": "Notun Hatt Jame Mosque",
+                  "text": "Diese Freitagsmoschee im Viertel Notun Hatt ist ein wichtiger Versammlungsort für das tägliche Gebet der Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        89.06715,
+                        24.07608
+                  ]
+            },
+            {
+                  "name": "Dashuria Bazar Jame Mosque",
+                  "text": "Die Moschee liegt direkt im belebten Dashuria-Marktviertel und bietet Händlern und Besuchern einen Ort der Ruhe.",
+                  "category": "landmark",
+                  "coords": [
+                        89.124402,
+                        24.110356
+                  ]
+            },
+            {
+                  "name": "Ruppur Mor Jame Masjid",
+                  "text": "Diese Moschee befindet sich an der strategisch wichtigen Straßenkreuzung Ruppur Mor unweit des Kernkraftwerksprojekts.",
+                  "category": "landmark",
+                  "coords": [
+                        89.051198,
+                        24.071848
+                  ]
+            },
+            {
+                  "name": "Paper Mill's Mosque পেপার মিল এর মসজিদ",
+                  "text": "Diese Moschee wurde speziell für die Arbeiter der nahe gelegenen Papierfabrik North Bengal errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.04939,
+                        24.077535
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "Die Al-Baraka-Moschee ist ein modernes religiöses Bauwerk, das der örtlichen Gemeinde in Rooppur als Gebetshaus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.048282,
+                        24.087074
+                  ]
+            },
+            {
+                  "name": "Bus Terminal Mosque বাস টার্মিনাল মসজিদ",
+                  "text": "Diese Moschee liegt direkt am Busbahnhof von Ishurdi und wird häufig von Reisenden und Fernfahrern genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.064396,
+                        24.123343
+                  ]
+            },
+            {
+                  "name": "Aminpara jame masjid",
+                  "text": "Die Aminpara-Moschee ist ein lokales Gebetshaus im Wohnviertel Aminpara in der Nähe von Rooppur.",
+                  "category": "landmark",
+                  "coords": [
+                        89.073177,
+                        24.117551
+                  ]
+            },
+            {
+                  "name": "Ishwardi Bazar",
+                  "text": "Dieser zentrale Marktplatz ist ein bedeutender Umschlagplatz für landwirtschaftliche Erzeugnisse und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        89.064327,
+                        24.130775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dashuria circle",
+                  "text": "Központi útkereszteződés és jellegzetes körforgalom Dashuriában, amely fontos helyi találkozóhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        89.121662,
+                        24.112368
+                  ]
+            },
+            {
+                  "name": "Ishwardi Liberation War Monument",
+                  "text": "Emlékmű Ishwardiban, amely az 1971-es felszabadító háború helyi mártírjai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        89.063919,
+                        24.127162
+                  ]
+            },
+            {
+                  "name": "Umirpur mosque",
+                  "text": "Kicsi környékbeli mecset Ishwardi Umirpur negyedében, amelyet a napi imádságokhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        89.065213,
+                        24.112492
+                  ]
+            },
+            {
+                  "name": "ইস্তা সাঁকো জামে মসজিদ",
+                  "text": "Helyi mecset Ishwardiban, amely egy hagyományos fa- vagy bambuszhíd (sanko) közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        89.063135,
+                        24.10294
+                  ]
+            },
+            {
+                  "name": "উত্তর বাঘইল মডেল ঈদগাহ",
+                  "text": "Nagy szabadtéri imaterület Észak-Baghoilban, amelyet a közös Eid-imákhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        89.062046,
+                        24.106961
+                  ]
+            },
+            {
+                  "name": "স্কুল পাড়া জামে মসজিদ",
+                  "text": "Környékbeli mecset Ishwardiban, a helyi iskola körüli lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        89.055492,
+                        24.134983
+                  ]
+            },
+            {
+                  "name": "বাবুপাড়া মসজিদ",
+                  "text": "Helyi mecset Ishwardi Babupara negyedében, amely a közelben lakókat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.059871,
+                        24.132204
+                  ]
+            },
+            {
+                  "name": "দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ",
+                  "text": "Közösségi mecset Dashuria északi részén, amely a helyi muszlim lakosságot szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.123664,
+                        24.116039
+                  ]
+            },
+            {
+                  "name": "বাবুপাড়া ঈদগাহ",
+                  "text": "Hatalmas nyitott terület Babuparában, amelyet az iszlám ünnepek alatti nagyszabású közös imádságoknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        89.061078,
+                        24.132104
+                  ]
+            },
+            {
+                  "name": "ঈশ্বরদী মার্কাজ মসজিদ",
+                  "text": "Ez az ishurdi központi mecset a helyi Tablighi Jamaat közösség fontos szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        89.061779,
+                        24.130761
+                  ]
+            },
+            {
+                  "name": "Notun Hatt Jame Mosque",
+                  "text": "Ez a Notun Hatt negyedben található pénteki mecset a helyi lakosok napi imádságainak fontos gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        89.06715,
+                        24.07608
+                  ]
+            },
+            {
+                  "name": "Dashuria Bazar Jame Mosque",
+                  "text": "A mecset közvetlenül a nyüzsgő Dashuria piaci negyedben található, nyugalmat kínálva a kereskedőknek és látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        89.124402,
+                        24.110356
+                  ]
+            },
+            {
+                  "name": "Ruppur Mor Jame Masjid",
+                  "text": "Ez a mecset a stratégiailag fontos Ruppur Mor útkereszteződésnél található, nem messze az atomerőmű-projekttől.",
+                  "category": "landmark",
+                  "coords": [
+                        89.051198,
+                        24.071848
+                  ]
+            },
+            {
+                  "name": "Paper Mill's Mosque পেপার মিল এর মসজিদ",
+                  "text": "Ezt a mecsetet kifejezetten a közeli észak-bengáli papírgyár munkásai számára építették.",
+                  "category": "landmark",
+                  "coords": [
+                        89.04939,
+                        24.077535
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "Az Al-Baraka mecset egy modern vallási épület, amely a rooppuri helyi közösség imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        89.048282,
+                        24.087074
+                  ]
+            },
+            {
+                  "name": "Bus Terminal Mosque বাস টার্মিনাল মসজিদ",
+                  "text": "Ez a mecset közvetlenül az ishurdi buszpályaudvar mellett található, és gyakran használják utazók és sofőrök.",
+                  "category": "landmark",
+                  "coords": [
+                        89.064396,
+                        24.123343
+                  ]
+            },
+            {
+                  "name": "Aminpara jame masjid",
+                  "text": "Az Aminpara mecset egy helyi imaház az Aminpara lakónegyedben, Rooppur közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.073177,
+                        24.117551
+                  ]
+            },
+            {
+                  "name": "Ishwardi Bazar",
+                  "text": "Ez a központi piactér a mezőgazdasági termékek és a napi szükségleti cikkek jelentős kereskedelmi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        89.064327,
+                        24.130775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dashuria circle",
+                  "text": "Un nod rutier central și un sens giratoriu emblematic în Dashuria, servind ca punct de întâlnire local cheie.",
+                  "category": "historical",
+                  "coords": [
+                        89.121662,
+                        24.112368
+                  ]
+            },
+            {
+                  "name": "Ishwardi Liberation War Monument",
+                  "text": "Un monument comemorativ în Ishwardi, care onorează martirii locali ai Războiului de Eliberare din 1971.",
+                  "category": "historical",
+                  "coords": [
+                        89.063919,
+                        24.127162
+                  ]
+            },
+            {
+                  "name": "Umirpur mosque",
+                  "text": "O mică moschee de cartier în zona Umirpur din Ishwardi, utilizată pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        89.065213,
+                        24.112492
+                  ]
+            },
+            {
+                  "name": "ইস্তা সাঁকো জামে মসজিদ",
+                  "text": "O moschee locală din Ishwardi, situată lângă un pod tradițional din lemn sau bambus (sanko).",
+                  "category": "landmark",
+                  "coords": [
+                        89.063135,
+                        24.10294
+                  ]
+            },
+            {
+                  "name": "উত্তর বাঘইল মডেল ঈদগাহ",
+                  "text": "Un teren mare de rugăciune în aer liber în Baghoil de Nord, utilizat pentru rugăciunile colective de Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        89.062046,
+                        24.106961
+                  ]
+            },
+            {
+                  "name": "স্কুল পাড়া জামে মসজিদ",
+                  "text": "O moschee de cartier din Ishwardi, situată în zona rezidențială din jurul școlii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        89.055492,
+                        24.134983
+                  ]
+            },
+            {
+                  "name": "বাবুপাড়া মসজিদ",
+                  "text": "O moschee locală în districtul Babupara din Ishwardi, care deservește locuitorii din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        89.059871,
+                        24.132204
+                  ]
+            },
+            {
+                  "name": "দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ",
+                  "text": "O moschee comunitară situată în sectorul nordic al Dashuria, care deservește populația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        89.123664,
+                        24.116039
+                  ]
+            },
+            {
+                  "name": "বাবুপাড়া ঈদগাহ",
+                  "text": "Un câmp deschis vast în Babupara, dedicat rugăciunilor colective la scară largă în timpul festivalurilor islamice.",
+                  "category": "religious",
+                  "coords": [
+                        89.061078,
+                        24.132104
+                  ]
+            },
+            {
+                  "name": "ঈশ্বরদী মার্কাজ মসজিদ",
+                  "text": "Această moschee centrală din Ishurdi servește ca un important centru spiritual pentru comunitatea locală Tablighi Jamaat.",
+                  "category": "landmark",
+                  "coords": [
+                        89.061779,
+                        24.130761
+                  ]
+            },
+            {
+                  "name": "Notun Hatt Jame Mosque",
+                  "text": "Această moschee de vineri din cartierul Notun Hatt este un loc de adunare important pentru rugăciunile zilnice ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        89.06715,
+                        24.07608
+                  ]
+            },
+            {
+                  "name": "Dashuria Bazar Jame Mosque",
+                  "text": "Moscheea este situată direct în cartierul aglomerat al pieței Dashuria, oferind un loc de liniște negustorilor și vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        89.124402,
+                        24.110356
+                  ]
+            },
+            {
+                  "name": "Ruppur Mor Jame Masjid",
+                  "text": "Această moschee este situată la intersecția strategică Ruppur Mor, nu departe de proiectul centralei nucleare.",
+                  "category": "landmark",
+                  "coords": [
+                        89.051198,
+                        24.071848
+                  ]
+            },
+            {
+                  "name": "Paper Mill's Mosque পেপার মিল এর মসজিদ",
+                  "text": "Această moschee a fost construită special pentru lucrătorii de la fabrica de hârtie North Bengal din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        89.04939,
+                        24.077535
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "Moscheea Al-Baraka este o structură religioasă modernă care servește ca casă de rugăciune pentru comunitatea locală din Rooppur.",
+                  "category": "landmark",
+                  "coords": [
+                        89.048282,
+                        24.087074
+                  ]
+            },
+            {
+                  "name": "Bus Terminal Mosque বাস টার্মিনাল মসজিদ",
+                  "text": "Această moschee este situată chiar lângă autogara din Ishurdi și este frecvent utilizată de călători și șoferi.",
+                  "category": "landmark",
+                  "coords": [
+                        89.064396,
+                        24.123343
+                  ]
+            },
+            {
+                  "name": "Aminpara jame masjid",
+                  "text": "Moscheea Aminpara este o casă de rugăciune locală în cartierul rezidențial Aminpara, lângă Rooppur.",
+                  "category": "landmark",
+                  "coords": [
+                        89.073177,
+                        24.117551
+                  ]
+            },
+            {
+                  "name": "Ishwardi Bazar",
+                  "text": "Această piață centrală este un important centru comercial pentru produse agricole și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        89.064327,
+                        24.130775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dashuria circle",
+                  "text": "A central road junction and landmark roundabout in Dashuria, serving as a key local meeting point.",
+                  "category": "historical",
+                  "coords": [
+                        89.121662,
+                        24.112368
+                  ]
+            },
+            {
+                  "name": "Ishwardi Liberation War Monument",
+                  "text": "A commemorative monument in Ishwardi honoring the local martyrs of the 1971 Liberation War.",
+                  "category": "historical",
+                  "coords": [
+                        89.063919,
+                        24.127162
+                  ]
+            },
+            {
+                  "name": "Umirpur mosque",
+                  "text": "A small neighborhood mosque in the Umirpur area of Ishwardi, used for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        89.065213,
+                        24.112492
+                  ]
+            },
+            {
+                  "name": "ইস্তা সাঁকো জামে মসজিদ",
+                  "text": "A local mosque in Ishwardi situated near a traditional wooden or bamboo bridge (sanko).",
+                  "category": "landmark",
+                  "coords": [
+                        89.063135,
+                        24.10294
+                  ]
+            },
+            {
+                  "name": "উত্তর বাঘইল মডেল ঈদগাহ",
+                  "text": "A large open-air prayer ground in North Baghoil used for congregational Eid prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        89.062046,
+                        24.106961
+                  ]
+            },
+            {
+                  "name": "স্কুল পাড়া জামে মসজিদ",
+                  "text": "A neighborhood mosque in Ishwardi located in the residential area surrounding the local school.",
+                  "category": "landmark",
+                  "coords": [
+                        89.055492,
+                        24.134983
+                  ]
+            },
+            {
+                  "name": "Babupara Mosque",
+                  "text": "A local mosque in the Babupara district of Ishwardi, serving the nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        89.059871,
+                        24.132204
+                  ]
+            },
+            {
+                  "name": "দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ দাশ্তড়িয়া উত্তর পাড়া জামে মসজিদ",
+                  "text": "A community mosque located in the northern sector of Dashuria, serving the local Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        89.123664,
+                        24.116039
+                  ]
+            },
+            {
+                  "name": "Babupara Eidgah",
+                  "text": "A vast open field in Babupara dedicated to large-scale congregational prayers during Islamic festivals.",
+                  "category": "religious",
+                  "coords": [
+                        89.061078,
+                        24.132104
+                  ]
+            },
+            {
+                  "name": "Ishurdi Markaz Masjid",
+                  "text": "This central mosque in Ishurdi serves as an important spiritual hub for the local Tablighi Jamaat community.",
+                  "category": "landmark",
+                  "coords": [
+                        89.061779,
+                        24.130761
+                  ]
+            },
+            {
+                  "name": "Notun Hatt Jame Mosque",
+                  "text": "This Friday mosque in the Notun Hatt neighborhood is a key gathering place for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        89.06715,
+                        24.07608
+                  ]
+            },
+            {
+                  "name": "Dashuria Bazar Jame Mosque",
+                  "text": "The mosque is located directly within the bustling Dashuria market area, offering a place of peace for traders and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        89.124402,
+                        24.110356
+                  ]
+            },
+            {
+                  "name": "Ruppur Mor Jame Masjid",
+                  "text": "This mosque is situated at the strategic Ruppur Mor road junction, not far from the nuclear power plant project.",
+                  "category": "landmark",
+                  "coords": [
+                        89.051198,
+                        24.071848
+                  ]
+            },
+            {
+                  "name": "Paper Mill's Mosque পেপার মিল এর মসজিদ",
+                  "text": "This mosque was specifically built to serve the workers of the nearby North Bengal Paper Mill.",
+                  "category": "landmark",
+                  "coords": [
+                        89.04939,
+                        24.077535
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "The Al-Baraka Mosque is a modern religious structure serving as a house of prayer for the local community in Rooppur.",
+                  "category": "landmark",
+                  "coords": [
+                        89.048282,
+                        24.087074
+                  ]
+            },
+            {
+                  "name": "Bus Terminal Mosque বাস টার্মিনাল মসজিদ",
+                  "text": "This mosque is located right at the Ishurdi bus terminal and is frequently used by travelers and long-distance drivers.",
+                  "category": "landmark",
+                  "coords": [
+                        89.064396,
+                        24.123343
+                  ]
+            },
+            {
+                  "name": "Aminpara jame masjid",
+                  "text": "The Aminpara Mosque is a local house of prayer in the Aminpara residential neighborhood near Rooppur.",
+                  "category": "landmark",
+                  "coords": [
+                        89.073177,
+                        24.117551
+                  ]
+            },
+            {
+                  "name": "Ishwardi Bazar",
+                  "text": "This central marketplace is a major trading hub for agricultural products and daily necessities in Ishwardi.",
+                  "category": "cultural",
+                  "coords": [
+                        89.064327,
+                        24.130775
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Kernkraftwerk Rooppur", hu: "Rooppuri atomerőmű", ro: "Centrala nucleară Rooppur", en: "Rooppur Nuclear Power Plant" },
@@ -318,7 +6564,232 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-rooppur-nuclear-economic-v2.webp",
   },
   {
-    id: "bangladesh-barapukuria-coal-economic-v2",
+    id: "bangladesh-barapukuria-coal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhaka mor",
+                  "text": "Eine markante Straßenkreuzung und ein Wahrzeichen, das den Verkehr in Richtung der Hauptstadt Dhaka lenkt.",
+                  "category": "historical",
+                  "coords": [
+                        88.965702,
+                        25.498669
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein lokales islamisches Gebetshaus, das traditionelle architektonische Elemente wie ein bescheidenes Minarett aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950849,
+                        25.500917
+                  ]
+            },
+            {
+                  "name": "Kalibari",
+                  "text": "Ein verehrter lokaler Schrein, der speziell der Anbetung der mächtigen hinduistischen Göttin Kali gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954236,
+                        25.497003
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Phulbari Central Jame Masjid",
+                  "text": "Die zentrale Hauptmoschee von Phulbari mit einem großen Gebetssaal, in dem große Freitagsversammlungen stattfinden können.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954877,
+                        25.500131
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "Ein an die Hochschule angrenzendes islamisches Gotteshaus, das den täglichen Gebetsbedürfnissen der Studenten und Fakultätsmitglieder dient.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950812,
+                        25.497151
+                  ]
+            },
+            {
+                  "name": "Montri Market",
+                  "text": "Ein etablierter lokaler Einkaufsblock, der dafür bekannt ist, der Nachbarschaft verschiedene Haushaltswaren und Kleidung anzubieten.",
+                  "category": "cultural",
+                  "coords": [
+                        88.953616,
+                        25.500091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhaka mor",
+                  "text": "Egy kiemelkedő útkereszteződés és jelzőemlékmű, amely a forgalmat a főváros, Dhaka felé irányítja.",
+                  "category": "historical",
+                  "coords": [
+                        88.965702,
+                        25.498669
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egy helyi iszlám imaház, amely hagyományos építészeti elemekkel, például egy szerény minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950849,
+                        25.500917
+                  ]
+            },
+            {
+                  "name": "Kalibari",
+                  "text": "Egy tisztelt helyi szentély, amelyet kifejezetten a hatalmas hindu istennő, Káli imádatának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954236,
+                        25.497003
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Phulbari Central Jame Masjid",
+                  "text": "Phulbari fő központi mecsete, amely egy nagy imateremmel rendelkezik, és képes hatalmas pénteki gyülekezetek befogadására.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954877,
+                        25.500131
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "Egy főiskola melletti iszlám istentiszteleti hely, amely a helyi főiskolai hallgatók és oktatók napi imaszükségleteit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950812,
+                        25.497151
+                  ]
+            },
+            {
+                  "name": "Montri Market",
+                  "text": "Egy jól bevált helyi bevásárlótömb, amely arról ismert, hogy különféle hazai árucikkeket és ruházatot kínál a környéknek.",
+                  "category": "cultural",
+                  "coords": [
+                        88.953616,
+                        25.500091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhaka mor",
+                  "text": "O intersecție rutieră proeminentă și un monument de reper care direcționează traficul către capitala Dhaka.",
+                  "category": "historical",
+                  "coords": [
+                        88.965702,
+                        25.498669
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O casă de rugăciune islamică locală, cu elemente arhitecturale tradiționale, cum ar fi un minaret modest.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950849,
+                        25.500917
+                  ]
+            },
+            {
+                  "name": "Kalibari",
+                  "text": "Un altar local venerat, dedicat în mod specific cultului puternicei zeițe hinduse Kali.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954236,
+                        25.497003
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Phulbari Central Jame Masjid",
+                  "text": "Principala moschee centrală din Phulbari, având o sală mare de rugăciune capabilă să găzduiască mari congregații de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954877,
+                        25.500131
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "Un lăcaș de cult islamic adiacent unei instituții de învățământ, care deservește nevoile zilnice de rugăciune ale studenților și facultății locale.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950812,
+                        25.497151
+                  ]
+            },
+            {
+                  "name": "Montri Market",
+                  "text": "Un bloc comercial local consacrat, cunoscut pentru furnizarea de diverse mărfuri autohtone și îmbrăcăminte cartierului.",
+                  "category": "cultural",
+                  "coords": [
+                        88.953616,
+                        25.500091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhaka mor",
+                  "text": "A prominent road intersection and landmark monument that directs traffic toward the capital of Dhaka.",
+                  "category": "historical",
+                  "coords": [
+                        88.965702,
+                        25.498669
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local Islamic prayer house featuring traditional architectural elements like a modest minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950849,
+                        25.500917
+                  ]
+            },
+            {
+                  "name": "Kalibari",
+                  "text": "A revered local shrine specifically dedicated to the worship of the powerful Hindu goddess Kali.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954236,
+                        25.497003
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Phulbari Central Jame Masjid",
+                  "text": "The main central mosque of Phulbari, featuring a large prayer hall capable of hosting major Friday congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        88.954877,
+                        25.500131
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "An academic-adjacent Islamic place of worship serving the daily prayer needs of local college students and faculty.",
+                  "category": "landmark",
+                  "coords": [
+                        88.950812,
+                        25.497151
+                  ]
+            },
+            {
+                  "name": "Montri Market",
+                  "text": "An established local shopping block known for providing varied domestic merchandise and clothing to the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        88.953616,
+                        25.500091
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "mine",
     name: { de: "Kohlebergwerk Barapukuria", hu: "Barapukuria szénbánya", ro: "Mina de cărbune Barapukuria", en: "Barapukuria Coal Mine" },
@@ -408,7 +6879,376 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-madhyapara-mine-economic-v2.webp",
   },
   {
-    id: "bangladesh-titas-gas-economic-v2",
+    id: "bangladesh-titas-gas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kal Bhairab Temple",
+                  "text": "Diese bedeutende hinduistische Pilgerstätte in Brahmanbaria beherbergt eine kolossale, 8,5 Meter hohe Statue von Lord Shiva in seiner Bhairab-Form.",
+                  "category": "landmark",
+                  "coords": [
+                        91.112922,
+                        23.985928
+                  ]
+            },
+            {
+                  "name": "Hatirpool",
+                  "text": "Eine historische Ziegelbrücke aus der Kolonialzeit, die gebaut wurde, um die Elefanten der lokalen Großgrundbesitzer (Zamindars) passieren zu lassen.",
+                  "category": "historical",
+                  "coords": [
+                        91.151115,
+                        24.054236
+                  ]
+            },
+            {
+                  "name": "Bangladesh Gas Field Jame Mosque",
+                  "text": "Eine Moschee in der Nähe des Industriegebiets der Titas-Gasfelder, die den Arbeitern des Energiesektors dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.098981,
+                        23.982941
+                  ]
+            },
+            {
+                  "name": "হরিনাদী পুর্বপাড়া বায়তুল ফালাহ জামে মসজিদ",
+                  "text": "Eine Gemeindemoschee im Harinadi-Viertel, bekannt für ihre friedliche Umgebung in der Nähe der lokalen Wasserwege.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106904,
+                        24.002658
+                  ]
+            },
+            {
+                  "name": "হরিনাদি জামে মসজিদ",
+                  "text": "Die Hauptmoschee des Dorfes Harinadi mit einer traditionellen Gebetshalle für die lokale muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        91.105865,
+                        24.003863
+                  ]
+            },
+            {
+                  "name": "বারিউড়া দক্ষিণ পাড়া জামে মসজিদ",
+                  "text": "Eine Dorfmoschee in der Region Bariura, die das südliche Viertel mit täglichen Gemeinschaftsgebeten versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.149916,
+                        24.053538
+                  ]
+            },
+            {
+                  "name": "Jame Masjid জামে মসজিদ",
+                  "text": "Eine zentrale Gebetseinrichtung in der Region Titas Gas, die einen geräumigen Bereich für die Freitagsgebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113987,
+                        24.050472
+                  ]
+            },
+            {
+                  "name": "মাঠেরপাড় জামে মসজিদ",
+                  "text": "Eine ruhige lokale Moschee inmitten landwirtschaftlicher Felder, die der ländlichen Bauerngemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113666,
+                        24.054092
+                  ]
+            },
+            {
+                  "name": "Ghatura Kendrio Jame Mosjid",
+                  "text": "Die zentrale Moschee dient als religiöser Mittelpunkt der Gemeinde Ghatura.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106158,
+                        23.999781
+                  ]
+            },
+            {
+                  "name": "Ghatura Molla Bari Jame Mosjid",
+                  "text": "Eine traditionsreiche Moschee auf dem Gelände des Molla-Bari-Anwesens.",
+                  "category": "landmark",
+                  "coords": [
+                        91.107444,
+                        24.001627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kal Bhairab Temple",
+                  "text": "Ez a jelentős hindu zarándokhely Brahmanbariában egy hatalmas, 28 láb magas Lord Shiva-szobornak ad otthont Bhairab formájában.",
+                  "category": "landmark",
+                  "coords": [
+                        91.112922,
+                        23.985928
+                  ]
+            },
+            {
+                  "name": "Hatirpool",
+                  "text": "Történelmi tégla híd a gyarmati korszakból, amelyet a helyi földesurak (zamindarok) elefántjainak áthaladására építettek.",
+                  "category": "historical",
+                  "coords": [
+                        91.151115,
+                        24.054236
+                  ]
+            },
+            {
+                  "name": "Bangladesh Gas Field Jame Mosque",
+                  "text": "A Titas gázmezők ipari területe közelében található mecset, amely az energiaszektor dolgozóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.098981,
+                        23.982941
+                  ]
+            },
+            {
+                  "name": "হরিনাদী পুর্বপাড়া বায়তুল ফালাহ জামে মসজিদ",
+                  "text": "Harinadi környéki közösségi mecset, amely a helyi vízi utak közeli békés környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106904,
+                        24.002658
+                  ]
+            },
+            {
+                  "name": "হরিনাদি জামে মসজিদ",
+                  "text": "Harinadi falu fő mecsete, amely hagyományos imaházzal rendelkezik a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.105865,
+                        24.003863
+                  ]
+            },
+            {
+                  "name": "বারিউড়া দক্ষিণ পাড়া জামে মসজিদ",
+                  "text": "Bariura régió egyik falusi mecsete, amely a déli szomszédságot szolgálja a napi közös imádságokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        91.149916,
+                        24.053538
+                  ]
+            },
+            {
+                  "name": "Jame Masjid জামে মসজিদ",
+                  "text": "Központi imaház a Titas gázmező régiójában, amely tágas helyet biztosít a pénteki Jumu'ah imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113987,
+                        24.050472
+                  ]
+            },
+            {
+                  "name": "মাঠেরপাড় জামে মসজিদ",
+                  "text": "Nyugodt helyi mecset a mezőgazdasági táblák között, amely a vidéki gazdálkodó közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113666,
+                        24.054092
+                  ]
+            },
+            {
+                  "name": "Ghatura Kendrio Jame Mosjid",
+                  "text": "Ghatura központi mecsetje a helyi közösség vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106158,
+                        23.999781
+                  ]
+            },
+            {
+                  "name": "Ghatura Molla Bari Jame Mosjid",
+                  "text": "Egy hagyományos mecset a Molla Bari családi birtok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        91.107444,
+                        24.001627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kal Bhairab Temple",
+                  "text": "Acest important loc de pelerinaj hindu din Brahmanbaria adăpostește o statuie colosală a zeului Shiva, înaltă de peste 8 metri, în forma sa Bhairab.",
+                  "category": "landmark",
+                  "coords": [
+                        91.112922,
+                        23.985928
+                  ]
+            },
+            {
+                  "name": "Hatirpool",
+                  "text": "Un pod istoric din cărămidă construit în epoca colonială pentru a permite trecerea elefanților aparținând marilor proprietari funciari locali (zamindars).",
+                  "category": "historical",
+                  "coords": [
+                        91.151115,
+                        24.054236
+                  ]
+            },
+            {
+                  "name": "Bangladesh Gas Field Jame Mosque",
+                  "text": "O moschee situată lângă zona industrială a zăcămintelor de gaz Titas, servind lucrătorii din sectorul energetic.",
+                  "category": "landmark",
+                  "coords": [
+                        91.098981,
+                        23.982941
+                  ]
+            },
+            {
+                  "name": "হরিনাদী পুর্বপাড়া বায়তুল ফালাহ জামে মসজিদ",
+                  "text": "O moschee comunitară în zona Harinadi, cunoscută pentru mediul său liniștit în apropierea cursurilor de apă locale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106904,
+                        24.002658
+                  ]
+            },
+            {
+                  "name": "হরিনাদি জামে মসজিদ",
+                  "text": "Principala moschee din satul Harinadi, având o sală de rugăciune tradițională pentru congregația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.105865,
+                        24.003863
+                  ]
+            },
+            {
+                  "name": "বারিউড়া দক্ষিণ পাড়া জামে মসজিদ",
+                  "text": "O moschee sătească în regiunea Bariura, care deservește cartierul sudic cu rugăciuni congregaționale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        91.149916,
+                        24.053538
+                  ]
+            },
+            {
+                  "name": "Jame Masjid জামে মসজিদ",
+                  "text": "O facilitate centrală de rugăciune în regiunea Titas Gas, care oferă un spațiu generos pentru rugăciunile de vineri (Jumu'ah).",
+                  "category": "landmark",
+                  "coords": [
+                        91.113987,
+                        24.050472
+                  ]
+            },
+            {
+                  "name": "মাঠেরপাড় জামে মসজিদ",
+                  "text": "O moschee locală senină, situată în mijlocul câmpurilor agricole, deservind comunitatea rurală de fermieri.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113666,
+                        24.054092
+                  ]
+            },
+            {
+                  "name": "Ghatura Kendrio Jame Mosjid",
+                  "text": "Moscheea centrală servește drept punct de referință religios pentru comunitatea Ghatura.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106158,
+                        23.999781
+                  ]
+            },
+            {
+                  "name": "Ghatura Molla Bari Jame Mosjid",
+                  "text": "O moschee tradițională situată pe domeniul familiei Molla Bari.",
+                  "category": "landmark",
+                  "coords": [
+                        91.107444,
+                        24.001627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kal Bhairab Temple",
+                  "text": "This significant Hindu pilgrimage site in Brahmanbaria houses a colossal 28-foot tall statue of Lord Shiva in his Bhairab form.",
+                  "category": "landmark",
+                  "coords": [
+                        91.112922,
+                        23.985928
+                  ]
+            },
+            {
+                  "name": "Hatirpool",
+                  "text": "A historic brick bridge built during the colonial era to accommodate the passage of elephants belonging to local zamindars.",
+                  "category": "historical",
+                  "coords": [
+                        91.151115,
+                        24.054236
+                  ]
+            },
+            {
+                  "name": "Bangladesh Gas Field Jame Mosque",
+                  "text": "A mosque situated near the industrial area of the Titas gas fields, serving the energy sector workers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.098981,
+                        23.982941
+                  ]
+            },
+            {
+                  "name": "হরিনাদী পুর্বপাড়া বায়তুল ফালাহ জামে মসজিদ",
+                  "text": "A community mosque in the Harinadi area, known for its peaceful environment near the local waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106904,
+                        24.002658
+                  ]
+            },
+            {
+                  "name": "হরিনাদি জামে মসজিদ",
+                  "text": "The principal mosque of Harinadi village, featuring a traditional prayer hall for the local Muslim congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        91.105865,
+                        24.003863
+                  ]
+            },
+            {
+                  "name": "বারিউড়া দক্ষিণ পাড়া জামে মসজিদ",
+                  "text": "A village mosque in the Bariura region serving the southern neighborhood with daily congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.149916,
+                        24.053538
+                  ]
+            },
+            {
+                  "name": "Jame Masjid জামে মসজিদ",
+                  "text": "A central prayer facility in the Titas Gas region providing a spacious area for Friday Jumu'ah prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113987,
+                        24.050472
+                  ]
+            },
+            {
+                  "name": "মাঠেরপাড় জামে মসজিদ",
+                  "text": "A serene local mosque located amidst the agricultural fields, serving the rural farming community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.113666,
+                        24.054092
+                  ]
+            },
+            {
+                  "name": "Ghatura Kendrio Jame Mosjid",
+                  "text": "The central mosque serves as the primary religious focal point for the Ghatura community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.106158,
+                        23.999781
+                  ]
+            },
+            {
+                  "name": "Ghatura Molla Bari Jame Mosjid",
+                  "text": "A traditional mosque located within the grounds of the Molla Bari estate.",
+                  "category": "landmark",
+                  "coords": [
+                        91.107444,
+                        24.001627
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Gasfeld Titas", hu: "Titas gázmező", ro: "Zăcământul de gaze Titas", en: "Titas Gas Field" },
@@ -453,7 +7293,160 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-titas-gas-economic-v2.webp",
   },
   {
-    id: "bangladesh-bibiyana-gas-economic-v2",
+    id: "bangladesh-bibiyana-gas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aushkandi Bazar Mosque",
+                  "text": "Ein zentraler Ort islamischer Anbetung direkt im Marktplatz von Aushkandi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.606138,
+                        24.594929
+                  ]
+            },
+            {
+                  "name": "Aushkandi Yakubia Hafizia Dakhil Madrasa Mosque",
+                  "text": "Eine islamische Moschee, die an die lokale theologische Madrasa in Aushkandi angegliedert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.603117,
+                        24.591373
+                  ]
+            },
+            {
+                  "name": "Dighalbak Eidgah",
+                  "text": "Ein Versammlungsort im Freien, speziell für die Eid-Gebete in Dighalbak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.611664,
+                        24.67039
+                  ]
+            },
+            {
+                  "name": "MS Market",
+                  "text": "Ein kommerzieller Basar, der die lokale Gemeinschaft in der Gasregion Bibiyana versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        91.515947,
+                        24.565785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aushkandi Bazar Mosque",
+                  "text": "Központi iszlám istentiszteleti hely, amely közvetlenül az Aushkandi piac területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        91.606138,
+                        24.594929
+                  ]
+            },
+            {
+                  "name": "Aushkandi Yakubia Hafizia Dakhil Madrasa Mosque",
+                  "text": "Az aushkandi helyi teológiai medreszéhez (madrasához) tartozó iszlám mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        91.603117,
+                        24.591373
+                  ]
+            },
+            {
+                  "name": "Dighalbak Eidgah",
+                  "text": "Egy szabadtéri gyülekezési hely, kifejezetten az ünnepi (Eid) imákra Dighalbakban.",
+                  "category": "landmark",
+                  "coords": [
+                        91.611664,
+                        24.67039
+                  ]
+            },
+            {
+                  "name": "MS Market",
+                  "text": "A bibiyanai gázrégió helyi közösségét kiszolgáló kereskedelmi bazárterület.",
+                  "category": "cultural",
+                  "coords": [
+                        91.515947,
+                        24.565785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aushkandi Bazar Mosque",
+                  "text": "Un loc central de cult islamic situat chiar în interiorul pieței Aushkandi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.606138,
+                        24.594929
+                  ]
+            },
+            {
+                  "name": "Aushkandi Yakubia Hafizia Dakhil Madrasa Mosque",
+                  "text": "O moschee islamică afiliată madrasai teologice locale din Aushkandi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.603117,
+                        24.591373
+                  ]
+            },
+            {
+                  "name": "Dighalbak Eidgah",
+                  "text": "Un loc de adunare în aer liber special pentru rugăciunile de Eid din Dighalbak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.611664,
+                        24.67039
+                  ]
+            },
+            {
+                  "name": "MS Market",
+                  "text": "O zonă comercială tip bazar care se adresează comunității locale din regiunea gaziferă Bibiyana.",
+                  "category": "cultural",
+                  "coords": [
+                        91.515947,
+                        24.565785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aushkandi Bazar Mosque",
+                  "text": "A central place of Islamic worship located right inside the Aushkandi marketplace.",
+                  "category": "landmark",
+                  "coords": [
+                        91.606138,
+                        24.594929
+                  ]
+            },
+            {
+                  "name": "Aushkandi Yakubia Hafizia Dakhil Madrasa Mosque",
+                  "text": "An Islamic mosque affiliated with the local theological madrasa in Aushkandi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.603117,
+                        24.591373
+                  ]
+            },
+            {
+                  "name": "Dighalbak Eidgah",
+                  "text": "An outdoor gathering place specifically for Eid prayers in Dighalbak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.611664,
+                        24.67039
+                  ]
+            },
+            {
+                  "name": "MS Market",
+                  "text": "A commercial bazaar area catering to the local community in the Bibiyana gas region.",
+                  "category": "cultural",
+                  "coords": [
+                        91.515947,
+                        24.565785
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Gasfeld Bibiyana", hu: "Bibiyana gázmező", ro: "Zăcământul de gaze Bibiyana", en: "Bibiyana Gas Field" },
@@ -498,7 +7491,1204 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-bibiyana-gas-economic-v2.webp",
   },
   {
-    id: "bangladesh-ashuganj-power-economic-v2",
+    id: "bangladesh-ashuganj-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "মেঘনা নদীর পাড়",
+                  "text": "Ein malerisches Ufergebiet mit Blick auf die weite Meghna, einen der größten Flüsse Bangladeschs.",
+                  "category": "landmark",
+                  "coords": [
+                        90.992428,
+                        24.047045
+                  ]
+            },
+            {
+                  "name": "Apscl পার্ক",
+                  "text": "Eine Erholungsanlage mit Grünflächen in der Nähe des Kraftwerkskomplexes von Ashuganj.",
+                  "category": "recreational",
+                  "coords": [
+                        91.014044,
+                        24.041128
+                  ]
+            },
+            {
+                  "name": "সৈয়দ নজরুল ইসলাম সেতু",
+                  "text": "Eine bedeutende Straßenbrücke über die Meghna, die die Städte Ashuganj und Bhairab verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.995835,
+                        24.044685
+                  ]
+            },
+            {
+                  "name": "Hazari Bari Jame Masjid",
+                  "text": "Historische Moschee in Ashuganj, die traditionell mit einem bedeutenden Familienbesitz verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.950883,
+                        24.057997
+                  ]
+            },
+            {
+                  "name": "Baganbari Jame Masjid",
+                  "text": "Ein lokales Gebetshaus, das in einer grünen, gartenähnlichen Umgebung im Viertel Baganbari liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.931309,
+                        24.05554
+                  ]
+            },
+            {
+                  "name": "Nilkuti Bus Stop Jame Masjid",
+                  "text": "Diese Moschee liegt verkehrsgünstig direkt an der Bushaltestelle Nilkuti.",
+                  "category": "landmark",
+                  "coords": [
+                        90.935373,
+                        24.055488
+                  ]
+            },
+            {
+                  "name": "Narayanpur bustand(fajorer bari)jame mosque",
+                  "text": "Eine muslimische Gebetsstätte am belebten Verkehrsknotenpunkt Narayanpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.918282,
+                        24.054123
+                  ]
+            },
+            {
+                  "name": "আশুগঞ্জ বিদ্যুৎ কেন্দ্র মসজিদ",
+                  "text": "Diese Moschee dient den Mitarbeitern des großen Kraftwerkskomplexes Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.012577,
+                        24.039471
+                  ]
+            },
+            {
+                  "name": "এপিএসসিএল মন্দির",
+                  "text": "Ein hinduistisches Heiligtum, das für die Arbeiter des nahe gelegenen Kraftwerks errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        91.01014,
+                        24.040099
+                  ]
+            },
+            {
+                  "name": "Jamia Islamia Madinatul Uloom Masjid",
+                  "text": "Diese Einrichtung kombiniert eine Moschee mit einer traditionellen islamischen Bildungsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        91.008023,
+                        24.035802
+                  ]
+            },
+            {
+                  "name": "রেলওয়ে জামে মসজিদ, আশুগঞ্জ",
+                  "text": "Diese Moschee bietet Reisenden am Bahnhof von Ashuganj einen Ort für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.001654,
+                        24.038349
+                  ]
+            },
+            {
+                  "name": "দারুস সালাম জামে মসজিদ",
+                  "text": "Eine lokale Jame-Moschee im Herzen des Stadtgebiets von Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.000972,
+                        24.039506
+                  ]
+            },
+            {
+                  "name": "ফেরীঘাট মন্দির",
+                  "text": "Dieser Tempel liegt in unmittelbarer Nähe zur Fähre über den Fluss Meghna.",
+                  "category": "landmark",
+                  "coords": [
+                        90.991167,
+                        24.04988
+                  ]
+            },
+            {
+                  "name": "Chand Vandar Darbar Sharif",
+                  "text": "Ein spiritueller Schrein und Versammlungsort für die lokale muslimische Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985056,
+                        24.050971
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Diese zentrale Moschee ist für ihre große Gebetshalle und Freitagsgottesdienste bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985284,
+                        24.042993
+                  ]
+            },
+            {
+                  "name": "Jehadi Jame Masque",
+                  "text": "Eine muslimische Gemeinde-Moschee in einem der Wohnviertel von Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.009845,
+                        24.017518
+                  ]
+            },
+            {
+                  "name": "Shohagpur Mohila Madrasha",
+                  "text": "Eine religiöse Bildungsstätte, die speziell auf die Ausbildung von Frauen ausgerichtet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.035958,
+                        24.040311
+                  ]
+            },
+            {
+                  "name": "Bertola Jame Masjid",
+                  "text": "Diese traditionelle Dorfmoschee bildet den religiösen Mittelpunkt von Bertola.",
+                  "category": "landmark",
+                  "coords": [
+                        91.074944,
+                        24.045459
+                  ]
+            },
+            {
+                  "name": "Bhairab Stadium Mosque",
+                  "text": "Die Moschee befindet sich in direkter Nachbarschaft zum Bhairab-Stadion.",
+                  "category": "landmark",
+                  "coords": [
+                        90.975842,
+                        24.066465
+                  ]
+            },
+            {
+                  "name": "Pagol Sha Abdul Mazid Shai",
+                  "text": "Ein lokaler Mazar, der dem Gedenken an einen verehrten spirituellen Führer gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.986007,
+                        24.048454
+                  ]
+            },
+            {
+                  "name": "Bus Stand Masjid",
+                  "text": "Diese Moschee bietet Gebetsmöglichkeiten für Reisende am Hauptbusbahnhof.",
+                  "category": "landmark",
+                  "coords": [
+                        90.983339,
+                        24.054949
+                  ]
+            },
+            {
+                  "name": "Meher Chan Jame Masjid",
+                  "text": "Eine Nachbarschaftsmoschee, die die muslimischen Bewohner des Meher-Chan-Gebiets betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        90.9822,
+                        24.055005
+                  ]
+            },
+            {
+                  "name": "afccl new colony mosque",
+                  "text": "Diese Moschee liegt in der Wohnkolonie der AFCCL-Düngemittelfabrik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985496,
+                        24.018388
+                  ]
+            },
+            {
+                  "name": "Jame mosjid",
+                  "text": "Ein zentraler Gebetsort für die Anwohner und Arbeiter des Industriegebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        90.98896,
+                        24.014687
+                  ]
+            },
+            {
+                  "name": "Algi Bazar (Market)",
+                  "text": "Ein geschäftiger Basar, der für frische Lebensmittel und Waren des täglichen Bedarfs bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.947021,
+                        23.994753
+                  ]
+            },
+            {
+                  "name": "Chobi Ghor Shopping Complex",
+                  "text": "Ein mehrstöckiges Einkaufszentrum mit einer Auswahl an Kleidung und Elektronik.",
+                  "category": "cultural",
+                  "coords": [
+                        90.988277,
+                        24.044426
+                  ]
+            },
+            {
+                  "name": "Salam Plaza",
+                  "text": "Ein modernes Geschäftsgebäude mit verschiedenen Einzelhandelsgeschäften im Zentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        90.986381,
+                        24.046898
+                  ]
+            },
+            {
+                  "name": "ৰেণী বাজার",
+                  "text": "Ein lokaler Handelsplatz, der als wichtiger Treffpunkt für die Gemeinde dient.",
+                  "category": "cultural",
+                  "coords": [
+                        90.966107,
+                        24.056668
+                  ]
+            },
+            {
+                  "name": "Noya Bazar",
+                  "text": "Ein neu entwickeltes Einkaufsviertel mit einem vielfältigen Angebot an Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        90.96129,
+                        24.036116
+                  ]
+            },
+            {
+                  "name": "মালীহাতা নতুন বাজার Malihata Notun Bazar",
+                  "text": "Ein Marktplatz am Rande von Malihata, der die umliegenden ländlichen Gebiete versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        91.103264,
+                        24.048799
+                  ]
+            },
+            {
+                  "name": "হাট বাজার",
+                  "text": "Ein traditioneller Marktplatz, auf dem lokale Bauern ihre saisonale Ernte tauschen.",
+                  "category": "cultural",
+                  "coords": [
+                        91.002718,
+                        24.039103
+                  ]
+            },
+            {
+                  "name": "হুমায়ুন কবির অ্যাসেট লিমিটেড",
+                  "text": "Ein gewerbliches Zentrum, das verschiedene lokale Unternehmen und Dienstleister beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.984882,
+                        24.054588
+                  ]
+            },
+            {
+                  "name": "শহীদুল্লাহ্ কায়সার পাদুকা মার্কেট",
+                  "text": "Dieser spezialisierte Markt ist stadtweit für seine große Auswahl an Schuhen bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.972621,
+                        24.056959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "মেঘনা নদীর পাড়",
+                  "text": "Festői folyóparti terület, amely rálátást nyújt a hatalmas Meghnára, Banglades egyik legnagyobb folyójára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.992428,
+                        24.047045
+                  ]
+            },
+            {
+                  "name": "Apscl পার্ক",
+                  "text": "Zöldterülettel rendelkező szabadidős park az ashuganji erőműkomplexum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        91.014044,
+                        24.041128
+                  ]
+            },
+            {
+                  "name": "সৈয়দ নজরুল ইসলাম সেতু",
+                  "text": "A Meghna folyón átívelő jelentős közúti híd, amely Ashuganj és Bhairab városait köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        90.995835,
+                        24.044685
+                  ]
+            },
+            {
+                  "name": "Hazari Bari Jame Masjid",
+                  "text": "Történelmi mecset Ashuganjban, amely hagyományosan egy jelentős családi birtokhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.950883,
+                        24.057997
+                  ]
+            },
+            {
+                  "name": "Baganbari Jame Masjid",
+                  "text": "Helyi imaház, amely buja, kertvárosi környezetben található Baganbari negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.931309,
+                        24.05554
+                  ]
+            },
+            {
+                  "name": "Nilkuti Bus Stop Jame Masjid",
+                  "text": "Ez a mecset közvetlenül a Nilkuti buszmegálló mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.935373,
+                        24.055488
+                  ]
+            },
+            {
+                  "name": "Narayanpur bustand(fajorer bari)jame mosque",
+                  "text": "Muszlim imaház a forgalmas narayanpuri közlekedési csomópontnál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.918282,
+                        24.054123
+                  ]
+            },
+            {
+                  "name": "আশুগঞ্জ বিদ্যুৎ কেন্দ্র মসজিদ",
+                  "text": "Ez a mecset a nagy Ashuganj erőműkomplexum alkalmazottait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.012577,
+                        24.039471
+                  ]
+            },
+            {
+                  "name": "এপিএসসিএল মন্দির",
+                  "text": "A közeli erőmű dolgozói számára épült hindu szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        91.01014,
+                        24.040099
+                  ]
+            },
+            {
+                  "name": "Jamia Islamia Madinatul Uloom Masjid",
+                  "text": "Ez az intézmény egy mecsetet ötvöz egy hagyományos iszlám oktatási központtal.",
+                  "category": "landmark",
+                  "coords": [
+                        91.008023,
+                        24.035802
+                  ]
+            },
+            {
+                  "name": "রেলওয়ে জামে মসজিদ, আশুগঞ্জ",
+                  "text": "Ez a mecset az ashuganji vasútállomás utasainak kínál helyet az imádkozásra.",
+                  "category": "landmark",
+                  "coords": [
+                        91.001654,
+                        24.038349
+                  ]
+            },
+            {
+                  "name": "দারুস সালাম জামে মসজিদ",
+                  "text": "Helyi mecset Ashuganj városi területének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.000972,
+                        24.039506
+                  ]
+            },
+            {
+                  "name": "ফেরীঘাট মন্দির",
+                  "text": "Ez a templom a Meghna-folyón átkelő komp közvetlen közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.991167,
+                        24.04988
+                  ]
+            },
+            {
+                  "name": "Chand Vandar Darbar Sharif",
+                  "text": "Spirituális kegyhely és gyülekezőhely a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985056,
+                        24.050971
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Ez a központi mecset nagy imaterméről és pénteki istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985284,
+                        24.042993
+                  ]
+            },
+            {
+                  "name": "Jehadi Jame Masque",
+                  "text": "Közösségi mecset Ashuganj egyik lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.009845,
+                        24.017518
+                  ]
+            },
+            {
+                  "name": "Shohagpur Mohila Madrasha",
+                  "text": "Vallási oktatási központ, amely kifejezetten a nők képzésére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        91.035958,
+                        24.040311
+                  ]
+            },
+            {
+                  "name": "Bertola Jame Masjid",
+                  "text": "Ez a hagyományos falusi mecset Bertola vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.074944,
+                        24.045459
+                  ]
+            },
+            {
+                  "name": "Bhairab Stadium Mosque",
+                  "text": "A mecset a Bhairab stadion közvetlen szomszédságában található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.975842,
+                        24.066465
+                  ]
+            },
+            {
+                  "name": "Pagol Sha Abdul Mazid Shai",
+                  "text": "Helyi kegyhely (mazar), amelyet egy tisztelt spirituális vezető emlékének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.986007,
+                        24.048454
+                  ]
+            },
+            {
+                  "name": "Bus Stand Masjid",
+                  "text": "Ez a mecset imádkozási lehetőséget biztosít a központi buszpályaudvar utasainak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.983339,
+                        24.054949
+                  ]
+            },
+            {
+                  "name": "Meher Chan Jame Masjid",
+                  "text": "A Meher Chan terület muszlim lakóit kiszolgáló környékbeli mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.9822,
+                        24.055005
+                  ]
+            },
+            {
+                  "name": "afccl new colony mosque",
+                  "text": "Ez a mecset az AFCCL műtrágyagyár lakótelepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985496,
+                        24.018388
+                  ]
+            },
+            {
+                  "name": "Jame mosjid",
+                  "text": "Központi imaház az ipari negyed lakói és dolgozói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.98896,
+                        24.014687
+                  ]
+            },
+            {
+                  "name": "Algi Bazar (Market)",
+                  "text": "Nyüzsgő bazár, amely friss élelmiszereiről és napi cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.947021,
+                        23.994753
+                  ]
+            },
+            {
+                  "name": "Chobi Ghor Shopping Complex",
+                  "text": "Többszintes bevásárlóközpont ruházati és elektronikai szaküzletekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        90.988277,
+                        24.044426
+                  ]
+            },
+            {
+                  "name": "Salam Plaza",
+                  "text": "Modern üzletház különféle kiskereskedelmi egységekkel a központban.",
+                  "category": "cultural",
+                  "coords": [
+                        90.986381,
+                        24.046898
+                  ]
+            },
+            {
+                  "name": "ৰেণী বাজার",
+                  "text": "Helyi kereskedelmi központ, amely fontos találkozóhely a közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        90.966107,
+                        24.056668
+                  ]
+            },
+            {
+                  "name": "Noya Bazar",
+                  "text": "Újonnan kialakított bevásárlónegyed, ahol áruk széles választéka érhető el.",
+                  "category": "cultural",
+                  "coords": [
+                        90.96129,
+                        24.036116
+                  ]
+            },
+            {
+                  "name": "মালীহাতা নতুন বাজার Malihata Notun Bazar",
+                  "text": "Piactér Malihata szélén, amely a környező vidéki területeket látja el.",
+                  "category": "cultural",
+                  "coords": [
+                        91.103264,
+                        24.048799
+                  ]
+            },
+            {
+                  "name": "হাট বাজার",
+                  "text": "Hagyományos időszakos piac, ahol a helyi gazdák szezonális terményeikkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        91.002718,
+                        24.039103
+                  ]
+            },
+            {
+                  "name": "হুমায়ুন কবির অ্যাসেট লিমিটেড",
+                  "text": "Kereskedelmi központ, amely különféle helyi vállalkozásoknak és szolgáltatóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        90.984882,
+                        24.054588
+                  ]
+            },
+            {
+                  "name": "শহীদুল্লাহ্ কায়সার পাদুকা মার্কেট",
+                  "text": "Ez a specializált piac városszerte ismert széles cipőválasztékáról.",
+                  "category": "cultural",
+                  "coords": [
+                        90.972621,
+                        24.056959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "মেঘনা নদীর পাড়",
+                  "text": "O zonă pitorească de mal cu vedere la vastul râu Meghna, unul dintre cele mai mari fluvii din Bangladesh.",
+                  "category": "landmark",
+                  "coords": [
+                        90.992428,
+                        24.047045
+                  ]
+            },
+            {
+                  "name": "Apscl পার্ক",
+                  "text": "Un spațiu verde recreativ întreținut în apropierea complexului centralei electrice din Ashuganj.",
+                  "category": "recreational",
+                  "coords": [
+                        91.014044,
+                        24.041128
+                  ]
+            },
+            {
+                  "name": "সৈয়দ নজরুল ইসলাম সেতু",
+                  "text": "Un pod rutier major care traversează fluviul Meghna, legând orașele Ashuganj și Bhairab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.995835,
+                        24.044685
+                  ]
+            },
+            {
+                  "name": "Hazari Bari Jame Masjid",
+                  "text": "Moschee istorică din Ashuganj, legată tradițional de o proprietate familială importantă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.950883,
+                        24.057997
+                  ]
+            },
+            {
+                  "name": "Baganbari Jame Masjid",
+                  "text": "O casă de rugăciune locală situată într-un cadru verde, asemănător unei grădini, în cartierul Baganbari.",
+                  "category": "landmark",
+                  "coords": [
+                        90.931309,
+                        24.05554
+                  ]
+            },
+            {
+                  "name": "Nilkuti Bus Stop Jame Masjid",
+                  "text": "Această moschee este situată convenabil chiar lângă stația de autobuz Nilkuti.",
+                  "category": "landmark",
+                  "coords": [
+                        90.935373,
+                        24.055488
+                  ]
+            },
+            {
+                  "name": "Narayanpur bustand(fajorer bari)jame mosque",
+                  "text": "Un lăcaș de cult musulman situat la nodul de transport aglomerat Narayanpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.918282,
+                        24.054123
+                  ]
+            },
+            {
+                  "name": "আশুগঞ্জ বিদ্যুৎ কেন্দ্র মসজিদ",
+                  "text": "Această moschee deservește angajații marelui complex energetic Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.012577,
+                        24.039471
+                  ]
+            },
+            {
+                  "name": "এপিএসসিএল মন্দির",
+                  "text": "Un sanctuar hindu construit pentru lucrătorii de la centrala electrică din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        91.01014,
+                        24.040099
+                  ]
+            },
+            {
+                  "name": "Jamia Islamia Madinatul Uloom Masjid",
+                  "text": "Această instituție combină o moschee cu un centru de educație islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        91.008023,
+                        24.035802
+                  ]
+            },
+            {
+                  "name": "রেলওয়ে জামে মসজিদ, আশুগঞ্জ",
+                  "text": "Această moschee oferă călătorilor de la gara Ashuganj un loc pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        91.001654,
+                        24.038349
+                  ]
+            },
+            {
+                  "name": "দারুস সালাম জামে মসজিদ",
+                  "text": "O moschee locală situată în inima zonei urbane din Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.000972,
+                        24.039506
+                  ]
+            },
+            {
+                  "name": "ফেরীঘাট মন্দির",
+                  "text": "Acest templu este situat în imediata apropiere a bacului de peste râul Meghna.",
+                  "category": "landmark",
+                  "coords": [
+                        90.991167,
+                        24.04988
+                  ]
+            },
+            {
+                  "name": "Chand Vandar Darbar Sharif",
+                  "text": "Un altar spiritual și loc de adunare pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985056,
+                        24.050971
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Această moschee centrală este cunoscută pentru sala sa mare de rugăciune și slujbele de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985284,
+                        24.042993
+                  ]
+            },
+            {
+                  "name": "Jehadi Jame Masque",
+                  "text": "O moschee comunitară situată într-unul dintre cartierele rezidențiale din Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.009845,
+                        24.017518
+                  ]
+            },
+            {
+                  "name": "Shohagpur Mohila Madrasha",
+                  "text": "Un centru de educație religioasă axat în special pe instruirea femeilor.",
+                  "category": "landmark",
+                  "coords": [
+                        91.035958,
+                        24.040311
+                  ]
+            },
+            {
+                  "name": "Bertola Jame Masjid",
+                  "text": "Această moschee tradițională de sat constituie centrul religios din Bertola.",
+                  "category": "landmark",
+                  "coords": [
+                        91.074944,
+                        24.045459
+                  ]
+            },
+            {
+                  "name": "Bhairab Stadium Mosque",
+                  "text": "Moscheea este situată în imediata vecinătate a stadionului Bhairab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.975842,
+                        24.066465
+                  ]
+            },
+            {
+                  "name": "Pagol Sha Abdul Mazid Shai",
+                  "text": "Un altar local (mazar) dedicat memoriei unui lider spiritual venerat.",
+                  "category": "landmark",
+                  "coords": [
+                        90.986007,
+                        24.048454
+                  ]
+            },
+            {
+                  "name": "Bus Stand Masjid",
+                  "text": "Această moschee oferă facilități de rugăciune pentru călătorii de la autogara centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.983339,
+                        24.054949
+                  ]
+            },
+            {
+                  "name": "Meher Chan Jame Masjid",
+                  "text": "O moschee de cartier care deservește locuitorii musulmani din zona Meher Chan.",
+                  "category": "landmark",
+                  "coords": [
+                        90.9822,
+                        24.055005
+                  ]
+            },
+            {
+                  "name": "afccl new colony mosque",
+                  "text": "Această moschee este situată în colonia rezidențială a fabricii de îngrășăminte AFCCL.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985496,
+                        24.018388
+                  ]
+            },
+            {
+                  "name": "Jame mosjid",
+                  "text": "Un loc central de rugăciune pentru locuitorii și lucrătorii din zona industrială.",
+                  "category": "landmark",
+                  "coords": [
+                        90.98896,
+                        24.014687
+                  ]
+            },
+            {
+                  "name": "Algi Bazar (Market)",
+                  "text": "Un bazar plin de viață, cunoscut pentru alimente proaspete și articole de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        90.947021,
+                        23.994753
+                  ]
+            },
+            {
+                  "name": "Chobi Ghor Shopping Complex",
+                  "text": "Un centru comercial cu mai multe etaje, oferind o selecție de îmbrăcăminte și electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        90.988277,
+                        24.044426
+                  ]
+            },
+            {
+                  "name": "Salam Plaza",
+                  "text": "O clădire comercială modernă cu diverse magazine de vânzare cu amănuntul în centru.",
+                  "category": "cultural",
+                  "coords": [
+                        90.986381,
+                        24.046898
+                  ]
+            },
+            {
+                  "name": "ৰেণী বাজার",
+                  "text": "Un punct comercial local care servește ca loc important de întâlnire pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        90.966107,
+                        24.056668
+                  ]
+            },
+            {
+                  "name": "Noya Bazar",
+                  "text": "O zonă comercială recent dezvoltată, oferind o gamă diversă de produse.",
+                  "category": "cultural",
+                  "coords": [
+                        90.96129,
+                        24.036116
+                  ]
+            },
+            {
+                  "name": "মালীহাতা নতুন বাজার Malihata Notun Bazar",
+                  "text": "O piață la marginea orașului Malihata, care deservește zonele rurale învecinate.",
+                  "category": "cultural",
+                  "coords": [
+                        91.103264,
+                        24.048799
+                  ]
+            },
+            {
+                  "name": "হাট বাজার",
+                  "text": "O piață periodică tradițională unde fermierii locali își vând recoltele sezoniere.",
+                  "category": "cultural",
+                  "coords": [
+                        91.002718,
+                        24.039103
+                  ]
+            },
+            {
+                  "name": "হুমায়ুন কবির অ্যাসেট লিমিটেড",
+                  "text": "Un centru comercial care găzduiește diverse afaceri și furnizori de servicii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        90.984882,
+                        24.054588
+                  ]
+            },
+            {
+                  "name": "শহীদুল্লাহ্ কায়সার পাদুকা মার্কেট",
+                  "text": "Această piață specializată este cunoscută în tot orașul pentru selecția sa mare de încălțăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        90.972621,
+                        24.056959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meghna River Bank মেঘনা নদীর পাড়",
+                  "text": "A scenic riverside area offering views of the vast Meghna, one of Bangladesh's largest rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.992428,
+                        24.047045
+                  ]
+            },
+            {
+                  "name": "Apscl Park",
+                  "text": "A recreational green space maintained near the Ashuganj Power Station complex.",
+                  "category": "recreational",
+                  "coords": [
+                        91.014044,
+                        24.041128
+                  ]
+            },
+            {
+                  "name": "সৈয়দ নজরুল ইসলাম সেতু",
+                  "text": "A major road bridge spanning the Meghna River, connecting the towns of Ashuganj and Bhairab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.995835,
+                        24.044685
+                  ]
+            },
+            {
+                  "name": "Hazari Bari Jame Masjid",
+                  "text": "A historic family-associated mosque located in the Ashuganj region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.950883,
+                        24.057997
+                  ]
+            },
+            {
+                  "name": "Baganbari Jame Masjid",
+                  "text": "A local prayer hall set within a lush, garden-like setting in the Baganbari neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.931309,
+                        24.05554
+                  ]
+            },
+            {
+                  "name": "Nilkuti Bus Stop Jame Masjid",
+                  "text": "This mosque is conveniently located right next to the Nilkuti bus stop.",
+                  "category": "landmark",
+                  "coords": [
+                        90.935373,
+                        24.055488
+                  ]
+            },
+            {
+                  "name": "Narayanpur bustand(fajorer bari)jame mosque",
+                  "text": "A Muslim place of worship located at the busy Narayanpur transport hub.",
+                  "category": "landmark",
+                  "coords": [
+                        90.918282,
+                        24.054123
+                  ]
+            },
+            {
+                  "name": "APSCL Mosque",
+                  "text": "This mosque serves the employees of the large Ashuganj power station complex.",
+                  "category": "landmark",
+                  "coords": [
+                        91.012577,
+                        24.039471
+                  ]
+            },
+            {
+                  "name": "APSCL Temple",
+                  "text": "A Hindu shrine built for the workers of the nearby power station.",
+                  "category": "landmark",
+                  "coords": [
+                        91.01014,
+                        24.040099
+                  ]
+            },
+            {
+                  "name": "Jamia Islamia Madinatul Uloom Masjid",
+                  "text": "This institution combines a mosque with a traditional Islamic educational center.",
+                  "category": "landmark",
+                  "coords": [
+                        91.008023,
+                        24.035802
+                  ]
+            },
+            {
+                  "name": "রেলওয়ে জামে মসজিদ, আশুগঞ্জ",
+                  "text": "This mosque offers travelers at the Ashuganj railway station a place for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        91.001654,
+                        24.038349
+                  ]
+            },
+            {
+                  "name": "Darus Salam Jame Mosjid",
+                  "text": "A local Jame mosque located in the heart of the Ashuganj urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.000972,
+                        24.039506
+                  ]
+            },
+            {
+                  "name": "ফেরীঘাট মন্দির",
+                  "text": "This temple is located in close proximity to the ferry crossing on the Meghna River.",
+                  "category": "landmark",
+                  "coords": [
+                        90.991167,
+                        24.04988
+                  ]
+            },
+            {
+                  "name": "Chand Vandar Darbar Sharif",
+                  "text": "A spiritual shrine and gathering place for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985056,
+                        24.050971
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "This central mosque is known for its large prayer hall and Friday services.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985284,
+                        24.042993
+                  ]
+            },
+            {
+                  "name": "Jehadi Jame Masque",
+                  "text": "A community Muslim mosque located in one of the residential neighborhoods of Ashuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.009845,
+                        24.017518
+                  ]
+            },
+            {
+                  "name": "Shohagpur Mohila Madrasha",
+                  "text": "A religious educational center specifically focused on the instruction of women.",
+                  "category": "landmark",
+                  "coords": [
+                        91.035958,
+                        24.040311
+                  ]
+            },
+            {
+                  "name": "Bertola Jame Masjid",
+                  "text": "This traditional village mosque forms the religious center of Bertola.",
+                  "category": "landmark",
+                  "coords": [
+                        91.074944,
+                        24.045459
+                  ]
+            },
+            {
+                  "name": "Bhairab Stadium Mosque",
+                  "text": "The mosque is located in the immediate vicinity of the Bhairab Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        90.975842,
+                        24.066465
+                  ]
+            },
+            {
+                  "name": "Pagol Sha Abdul Mazid Shai",
+                  "text": "A local mazar dedicated to the memory of a revered spiritual leader.",
+                  "category": "landmark",
+                  "coords": [
+                        90.986007,
+                        24.048454
+                  ]
+            },
+            {
+                  "name": "Bus Stand Masjid",
+                  "text": "This mosque provides prayer facilities for travelers at the main bus terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.983339,
+                        24.054949
+                  ]
+            },
+            {
+                  "name": "Meher Chan Jame Masjid",
+                  "text": "A neighborhood mosque serving the Muslim residents of the Meher Chan area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.9822,
+                        24.055005
+                  ]
+            },
+            {
+                  "name": "afccl new colony mosque",
+                  "text": "This mosque is located within the residential colony of the AFCCL fertilizer factory.",
+                  "category": "landmark",
+                  "coords": [
+                        90.985496,
+                        24.018388
+                  ]
+            },
+            {
+                  "name": "Jame mosjid",
+                  "text": "A central prayer location for the residents and workers of the industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.98896,
+                        24.014687
+                  ]
+            },
+            {
+                  "name": "Algi Bazar (Market)",
+                  "text": "A bustling bazaar known for fresh produce and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.947021,
+                        23.994753
+                  ]
+            },
+            {
+                  "name": "Chobi Ghor Shopping Complex",
+                  "text": "A multi-story shopping complex featuring a selection of clothing and electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        90.988277,
+                        24.044426
+                  ]
+            },
+            {
+                  "name": "Salam Plaza",
+                  "text": "A modern commercial building with various retail shops located in the center.",
+                  "category": "cultural",
+                  "coords": [
+                        90.986381,
+                        24.046898
+                  ]
+            },
+            {
+                  "name": "ৰেণী বাজার",
+                  "text": "A local trade hub that serves as an important meeting spot for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        90.966107,
+                        24.056668
+                  ]
+            },
+            {
+                  "name": "Noya Bazar",
+                  "text": "A recently developed retail area offering a diverse range of goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.96129,
+                        24.036116
+                  ]
+            },
+            {
+                  "name": "মালীহাতা নতুন বাজার Malihata Notun Bazar",
+                  "text": "A marketplace on the outskirts of Malihata serving the surrounding rural areas.",
+                  "category": "cultural",
+                  "coords": [
+                        91.103264,
+                        24.048799
+                  ]
+            },
+            {
+                  "name": "Hut-Bazar",
+                  "text": "A traditional periodic market where local farmers trade their seasonal harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        91.002718,
+                        24.039103
+                  ]
+            },
+            {
+                  "name": "Humayun Kabir Asset Ltd",
+                  "text": "A commercial center housing various local businesses and service providers.",
+                  "category": "cultural",
+                  "coords": [
+                        90.984882,
+                        24.054588
+                  ]
+            },
+            {
+                  "name": "শহীদুল্লাহ্ কায়সার পাদুকা মার্কেট",
+                  "text": "This specialized market is known city-wide for its large selection of footwear.",
+                  "category": "cultural",
+                  "coords": [
+                        90.972621,
+                        24.056959
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Ashuganj", hu: "Ashuganji erőmű", ro: "Centrala electrică Ashuganj", en: "Ashuganj Power Station" },
@@ -543,7 +8733,1024 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-ashuganj-power-economic-v2.webp",
   },
   {
-    id: "bangladesh-karwan-bazar-economic-v2",
+    id: "bangladesh-karwan-bazar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "TCB Auditorium",
+                  "text": "Ein moderner Veranstaltungsort für kulturelle Aufführungen und Firmenseminare im Wirtschaftszentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        90.395341,
+                        23.751057
+                  ]
+            },
+            {
+                  "name": "SAARC Fountain",
+                  "text": "Denkmal an einer belebten Kreuzung, das an die Südasiatische Vereinigung für regionale Kooperation erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393237,
+                        23.74987
+                  ]
+            },
+            {
+                  "name": "Panth Kunzo Plaza",
+                  "text": "Ein städtischer Platz im Herzen des Geschäftsviertels Karwan Bazar, der als lokaler Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393344,
+                        23.748949
+                  ]
+            },
+            {
+                  "name": "Al Hera Mosque",
+                  "text": "Lokale muslimische Gebetsstätte, die der dicht besiedelten Wohn- und Geschäftsgegend dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.387758,
+                        23.745453
+                  ]
+            },
+            {
+                  "name": "Masjid Saleha Jame Masjid, Sonargaon Road, Dhaka",
+                  "text": "Freitagsmoschee an der belebten Sonargaon Road mit traditioneller islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392076,
+                        23.746336
+                  ]
+            },
+            {
+                  "name": "Dilu Road Chata Masjid",
+                  "text": "Diese Gemeindemoschee ist ein zentraler religiöser Punkt im Viertel Dilu Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.400771,
+                        23.7484
+                  ]
+            },
+            {
+                  "name": "Khankaye Kaderia Hamidia Dorbar Sharif",
+                  "text": "Ein spirituelles Zentrum und eine Moschee, die mit der Sufi-Tradition in Dhaka verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.405171,
+                        23.751433
+                  ]
+            },
+            {
+                  "name": "Sheikh Dilu Bepari Wakf Estate Jame Mosque",
+                  "text": "Eine gestiftete religiöse Stätte, die der lokalen muslimischen Gemeinschaft für tägliche Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.401707,
+                        23.751379
+                  ]
+            },
+            {
+                  "name": "Baitun Nur Jame Masjid - DLR Mosque",
+                  "text": "Eine Nachbarschaftsmoschee, die Raum für tägliche Gebete und Freitagsversammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398133,
+                        23.755692
+                  ]
+            },
+            {
+                  "name": "Garden Road Jame Masjid",
+                  "text": "Lokaler Gebetssaal inmitten der Wohnblöcke der Garden Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.389595,
+                        23.752802
+                  ]
+            },
+            {
+                  "name": "Basundhara City Jame Masjid",
+                  "text": "Moderne Moschee direkt neben dem großen Einkaufszentrum Basundhara City.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390141,
+                        23.751018
+                  ]
+            },
+            {
+                  "name": "Water Development Board Jame Masjid",
+                  "text": "Moschee für Mitarbeiter und Besucher der nahe gelegenen Regierungsbüros der Wasserbehörde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388021,
+                        23.752542
+                  ]
+            },
+            {
+                  "name": "Tejturi Bazar Central Jame Masjid",
+                  "text": "Zentrales religiöses Wahrzeichen für den geschäftigen Marktplatz Tejturi Bazar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390739,
+                        23.755407
+                  ]
+            },
+            {
+                  "name": "East Raja Bazar Jame Masjid",
+                  "text": "Gemeindemoschee in den Wohnvierteln des Gebiets East Raja Bazar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38603,
+                        23.753599
+                  ]
+            },
+            {
+                  "name": "Dulara Shahi Jame Masjid, Green Rd, Dhaka",
+                  "text": "Traditionelle Freitagsmoschee an der Green Road, bekannt für ihre lokale religiöse Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386167,
+                        23.747141
+                  ]
+            },
+            {
+                  "name": "Baitul Jannat Jaame Masjid, Green Rd, Dhaka",
+                  "text": "Lokale muslimische Gebetsstätte an der Green Road, die das umliegende Stadtviertel bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385363,
+                        23.745171
+                  ]
+            },
+            {
+                  "name": "Green Corner Jame Mosque, Momotaz Mention, Green Corner, Dhaka",
+                  "text": "Nachbarschaftsmoschee im Gebäudekomplex Momotaz Mention.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386169,
+                        23.744244
+                  ]
+            },
+            {
+                  "name": "The Central Pharmacy Jame Masjid",
+                  "text": "Ein kleiner Gebetsraum, der dem lokalen Geschäftsviertel und Apothekenmitarbeitern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398779,
+                        23.757453
+                  ]
+            },
+            {
+                  "name": "Al-Amin Mosque",
+                  "text": "Muslimische Gebetsstätte, die ein spirituelles Zentrum für die lokale Gemeinschaft bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388246,
+                        23.747274
+                  ]
+            },
+            {
+                  "name": "Nur Nogor Jame Masjid",
+                  "text": "Religiöses Zentrum für die Bewohner der Ortschaft Nur Nogor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.396223,
+                        23.748082
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Masjid",
+                  "text": "Lokale Freitagsmoschee, die eine ruhige Umgebung für den Gottesdienst in der Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.399496,
+                        23.754934
+                  ]
+            },
+            {
+                  "name": "Basiruddin Road Masjid",
+                  "text": "Gemeindemoschee für die Anwohner entlang der Basiruddin Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383642,
+                        23.748885
+                  ]
+            },
+            {
+                  "name": "Dormitory Jame Mashjid",
+                  "text": "Moschee für die Bewohner der nahe gelegenen Wohnheime für Studenten oder Arbeiter.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385918,
+                        23.748944
+                  ]
+            },
+            {
+                  "name": "Kalabagan Staff Quarter Mosque",
+                  "text": "Religiöse Einrichtung für die Angestellten, die in den Kalabagan-Personalunterkünften wohnen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383901,
+                        23.74652
+                  ]
+            },
+            {
+                  "name": "Haqqani",
+                  "text": "Islamische religiöse Stätte oder Moschee, die mit der spirituellen Haqqani-Tradition verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38624,
+                        23.74315
+                  ]
+            },
+            {
+                  "name": "Hatirpool Tiles And Ceramics Market",
+                  "text": "Spezialisierter Marktplatz, bekannt für seine große Auswahl an Baufliesen und Sanitärkeramik.",
+                  "category": "cultural",
+                  "coords": [
+                        90.392519,
+                        23.744886
+                  ]
+            },
+            {
+                  "name": "Karwan Bazar Fish Market",
+                  "text": "Lebhafter Großhandelsmarkt, auf dem täglich eine große Auswahl an frischem Fisch gehandelt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        90.397059,
+                        23.75144
+                  ]
+            },
+            {
+                  "name": "Vegetable wholesale marke",
+                  "text": "Ein wichtiges Handelszentrum für den Vertrieb von frischem Gemüse in Dhaka.",
+                  "category": "cultural",
+                  "coords": [
+                        90.394152,
+                        23.753433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TCB Auditorium",
+                  "text": "Modern helyszín kulturális előadások és vállalati szemináriumok számára a gazdasági negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        90.395341,
+                        23.751057
+                  ]
+            },
+            {
+                  "name": "SAARC Fountain",
+                  "text": "Ikonikus emlékmű egy forgalmas kereszteződésben, amely a Dél-ázsiai Regionális Együttműködési Társulásnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393237,
+                        23.74987
+                  ]
+            },
+            {
+                  "name": "Panth Kunzo Plaza",
+                  "text": "Városi tér Karwan Bazar üzleti negyedének szívében, amely helyi találkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393344,
+                        23.748949
+                  ]
+            },
+            {
+                  "name": "Al Hera Mosque",
+                  "text": "Helyi muszlim imahely, amely a sűrűn lakott lakó- és kereskedelmi negyedet szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.387758,
+                        23.745453
+                  ]
+            },
+            {
+                  "name": "Masjid Saleha Jame Masjid, Sonargaon Road, Dhaka",
+                  "text": "Pénteki mecset a forgalmas Sonargaon Road mentén, hagyományos iszlám építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392076,
+                        23.746336
+                  ]
+            },
+            {
+                  "name": "Dilu Road Chata Masjid",
+                  "text": "Ez a közösségi mecset központi vallási pont a Dilu Road negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        90.400771,
+                        23.7484
+                  ]
+            },
+            {
+                  "name": "Khankaye Kaderia Hamidia Dorbar Sharif",
+                  "text": "Spirituális központ és mecset, amely a dakkai szúfi hagyományokhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.405171,
+                        23.751433
+                  ]
+            },
+            {
+                  "name": "Sheikh Dilu Bepari Wakf Estate Jame Mosque",
+                  "text": "Alapítványi vallási helyszín, amely a helyi muszlim közösséget szolgálja a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.401707,
+                        23.751379
+                  ]
+            },
+            {
+                  "name": "Baitun Nur Jame Masjid - DLR Mosque",
+                  "text": "Környékbeli mecset, amely helyet biztosít a napi imáknak és a pénteki gyülekezeteknek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398133,
+                        23.755692
+                  ]
+            },
+            {
+                  "name": "Garden Road Jame Masjid",
+                  "text": "Helyi imaterem a Garden Road lakótömbjei között.",
+                  "category": "landmark",
+                  "coords": [
+                        90.389595,
+                        23.752802
+                  ]
+            },
+            {
+                  "name": "Basundhara City Jame Masjid",
+                  "text": "Modern mecset a hatalmas Basundhara City bevásárlóközpont közvetlen szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390141,
+                        23.751018
+                  ]
+            },
+            {
+                  "name": "Water Development Board Jame Masjid",
+                  "text": "Mecset a közeli vízügyi hatóság kormányzati irodáinak dolgozói és látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388021,
+                        23.752542
+                  ]
+            },
+            {
+                  "name": "Tejturi Bazar Central Jame Masjid",
+                  "text": "Központi vallási jelkép a nyüzsgő Tejturi Bazar piactér számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390739,
+                        23.755407
+                  ]
+            },
+            {
+                  "name": "East Raja Bazar Jame Masjid",
+                  "text": "Közösségi mecset az East Raja Bazar negyed lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38603,
+                        23.753599
+                  ]
+            },
+            {
+                  "name": "Dulara Shahi Jame Masjid, Green Rd, Dhaka",
+                  "text": "Hagyományos pénteki mecset a Green Roadon, amely helyi vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386167,
+                        23.747141
+                  ]
+            },
+            {
+                  "name": "Baitul Jannat Jaame Masjid, Green Rd, Dhaka",
+                  "text": "Helyi muszlim imahely a Green Roadon, amely a környező városi negyedet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385363,
+                        23.745171
+                  ]
+            },
+            {
+                  "name": "Green Corner Jame Mosque, Momotaz Mention, Green Corner, Dhaka",
+                  "text": "Környékbeli mecset a Momotaz Mention épületkomplexumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386169,
+                        23.744244
+                  ]
+            },
+            {
+                  "name": "The Central Pharmacy Jame Masjid",
+                  "text": "Kis imaterem a helyi kereskedelmi negyed és a gyógyszertári dolgozók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398779,
+                        23.757453
+                  ]
+            },
+            {
+                  "name": "Al-Amin Mosque",
+                  "text": "Muszlim imahely, amely spirituális központot biztosít a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388246,
+                        23.747274
+                  ]
+            },
+            {
+                  "name": "Nur Nogor Jame Masjid",
+                  "text": "Vallási központ Nur Nogor település lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.396223,
+                        23.748082
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Masjid",
+                  "text": "Helyi pénteki mecset, amely nyugodt környezetet biztosít a városi istentisztelethez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.399496,
+                        23.754934
+                  ]
+            },
+            {
+                  "name": "Basiruddin Road Masjid",
+                  "text": "Közösségi mecset a Basiruddin Road mentén élő lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383642,
+                        23.748885
+                  ]
+            },
+            {
+                  "name": "Dormitory Jame Mashjid",
+                  "text": "Mecset a közeli diák- vagy munkásszállók lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385918,
+                        23.748944
+                  ]
+            },
+            {
+                  "name": "Kalabagan Staff Quarter Mosque",
+                  "text": "Vallási létesítmény a Kalabagan személyzeti szállásain lakó alkalmazottak számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383901,
+                        23.74652
+                  ]
+            },
+            {
+                  "name": "Haqqani",
+                  "text": "Iszlám vallási helyszín vagy mecset, amely a Haqqani spirituális irányzathoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38624,
+                        23.74315
+                  ]
+            },
+            {
+                  "name": "Hatirpool Tiles And Ceramics Market",
+                  "text": "Speciális piac, amely építőipari csempék és szaniterek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.392519,
+                        23.744886
+                  ]
+            },
+            {
+                  "name": "Karwan Bazar Fish Market",
+                  "text": "Nyüzsgő nagybani piac, ahol naponta friss halak hatalmas választékával kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        90.397059,
+                        23.75144
+                  ]
+            },
+            {
+                  "name": "Vegetable wholesale marke",
+                  "text": "A friss zöldségek elosztásának jelentős kereskedelmi központja Dakkában.",
+                  "category": "cultural",
+                  "coords": [
+                        90.394152,
+                        23.753433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TCB Auditorium",
+                  "text": "Un loc modern pentru spectacole culturale și seminarii de afaceri în centrul economic.",
+                  "category": "cultural",
+                  "coords": [
+                        90.395341,
+                        23.751057
+                  ]
+            },
+            {
+                  "name": "SAARC Fountain",
+                  "text": "Monument iconic situat într-o intersecție aglomerată, dedicat Asociației de Cooperare Regională din Asia de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393237,
+                        23.74987
+                  ]
+            },
+            {
+                  "name": "Panth Kunzo Plaza",
+                  "text": "O piață urbană în inima districtului de afaceri Karwan Bazar, servind ca punct de întâlnire local.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393344,
+                        23.748949
+                  ]
+            },
+            {
+                  "name": "Al Hera Mosque",
+                  "text": "Loc de rugăciune musulman care deservește zona rezidențială și comercială dens populată.",
+                  "category": "landmark",
+                  "coords": [
+                        90.387758,
+                        23.745453
+                  ]
+            },
+            {
+                  "name": "Masjid Saleha Jame Masjid, Sonargaon Road, Dhaka",
+                  "text": "Moschee de vineri situată pe aglomerata Sonargaon Road, având o arhitectură islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392076,
+                        23.746336
+                  ]
+            },
+            {
+                  "name": "Dilu Road Chata Masjid",
+                  "text": "Această moschee comunitară este un punct religios central în cartierul Dilu Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.400771,
+                        23.7484
+                  ]
+            },
+            {
+                  "name": "Khankaye Kaderia Hamidia Dorbar Sharif",
+                  "text": "Un centru spiritual și o moschee asociată cu tradiția sufi din Dhaka.",
+                  "category": "landmark",
+                  "coords": [
+                        90.405171,
+                        23.751433
+                  ]
+            },
+            {
+                  "name": "Sheikh Dilu Bepari Wakf Estate Jame Mosque",
+                  "text": "Un sit religios dotat care deservește comunitatea musulmană locală pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.401707,
+                        23.751379
+                  ]
+            },
+            {
+                  "name": "Baitun Nur Jame Masjid - DLR Mosque",
+                  "text": "O moschee de cartier care oferă spațiu pentru rugăciunile zilnice și congregațiile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398133,
+                        23.755692
+                  ]
+            },
+            {
+                  "name": "Garden Road Jame Masjid",
+                  "text": "O sală de rugăciune locală situată printre blocurile rezidențiale de pe Garden Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.389595,
+                        23.752802
+                  ]
+            },
+            {
+                  "name": "Basundhara City Jame Masjid",
+                  "text": "O moschee modernă situată chiar lângă marele complex comercial Basundhara City.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390141,
+                        23.751018
+                  ]
+            },
+            {
+                  "name": "Water Development Board Jame Masjid",
+                  "text": "Moschee care deservește personalul și vizitatorii birourilor guvernamentale din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388021,
+                        23.752542
+                  ]
+            },
+            {
+                  "name": "Tejturi Bazar Central Jame Masjid",
+                  "text": "Repere religios central pentru piața efervescentă Tejturi Bazar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390739,
+                        23.755407
+                  ]
+            },
+            {
+                  "name": "East Raja Bazar Jame Masjid",
+                  "text": "Moschee comunitară situată în zonele rezidențiale din East Raja Bazar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38603,
+                        23.753599
+                  ]
+            },
+            {
+                  "name": "Dulara Shahi Jame Masjid, Green Rd, Dhaka",
+                  "text": "Moschee de vineri tradițională pe Green Road, cunoscută pentru importanța sa religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386167,
+                        23.747141
+                  ]
+            },
+            {
+                  "name": "Baitul Jannat Jaame Masjid, Green Rd, Dhaka",
+                  "text": "Loc de rugăciune musulman local pe Green Road, care deservește cartierul urban din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385363,
+                        23.745171
+                  ]
+            },
+            {
+                  "name": "Green Corner Jame Mosque, Momotaz Mention, Green Corner, Dhaka",
+                  "text": "Moschee de cartier situată în complexul de clădiri Momotaz Mention.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386169,
+                        23.744244
+                  ]
+            },
+            {
+                  "name": "The Central Pharmacy Jame Masjid",
+                  "text": "Un mic spațiu de rugăciune care deservește districtul comercial local și angajații farmaciilor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398779,
+                        23.757453
+                  ]
+            },
+            {
+                  "name": "Al-Amin Mosque",
+                  "text": "Loc de rugăciune musulman care oferă un hub spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388246,
+                        23.747274
+                  ]
+            },
+            {
+                  "name": "Nur Nogor Jame Masjid",
+                  "text": "Centru religios pentru locuitorii din localitatea Nur Nogor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.396223,
+                        23.748082
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Masjid",
+                  "text": "Moschee de vineri locală care oferă un mediu senin pentru închinare în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        90.399496,
+                        23.754934
+                  ]
+            },
+            {
+                  "name": "Basiruddin Road Masjid",
+                  "text": "Moschee comunitară care deservește rezidenții de pe strada Basiruddin.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383642,
+                        23.748885
+                  ]
+            },
+            {
+                  "name": "Dormitory Jame Mashjid",
+                  "text": "Moschee care deservește rezidenții căminelor de studenți sau muncitori din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385918,
+                        23.748944
+                  ]
+            },
+            {
+                  "name": "Kalabagan Staff Quarter Mosque",
+                  "text": "Facilitate religioasă pentru angajații care locuiesc în cartierul personalului din Kalabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383901,
+                        23.74652
+                  ]
+            },
+            {
+                  "name": "Haqqani",
+                  "text": "Sit religios islamic sau moschee asociată cu tradiția spirituală Haqqani.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38624,
+                        23.74315
+                  ]
+            },
+            {
+                  "name": "Hatirpool Tiles And Ceramics Market",
+                  "text": "Piață specializată cunoscută pentru o gamă largă de plăci ceramice și obiecte sanitare.",
+                  "category": "cultural",
+                  "coords": [
+                        90.392519,
+                        23.744886
+                  ]
+            },
+            {
+                  "name": "Karwan Bazar Fish Market",
+                  "text": "Piață angro efervescentă unde se comercializează zilnic o mare varietate de pește proaspăt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.397059,
+                        23.75144
+                  ]
+            },
+            {
+                  "name": "Vegetable wholesale marke",
+                  "text": "Un centru comercial major pentru distribuția legumelor proaspete în Dhaka.",
+                  "category": "cultural",
+                  "coords": [
+                        90.394152,
+                        23.753433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TCB Auditorium",
+                  "text": "A modern indoor venue for cultural performances and corporate seminars in the economic hub.",
+                  "category": "cultural",
+                  "coords": [
+                        90.395341,
+                        23.751057
+                  ]
+            },
+            {
+                  "name": "SAARC Fountain",
+                  "text": "Iconic monument at a busy intersection commemorating the South Asian Association for Regional Cooperation.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393237,
+                        23.74987
+                  ]
+            },
+            {
+                  "name": "Panth Kunzo Plaza",
+                  "text": "An urban plaza in the heart of the Karwan Bazar business district, serving as a local meeting point.",
+                  "category": "landmark",
+                  "coords": [
+                        90.393344,
+                        23.748949
+                  ]
+            },
+            {
+                  "name": "Al Hera Mosque",
+                  "text": "Local Muslim place of worship serving the densely populated residential and commercial area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.387758,
+                        23.745453
+                  ]
+            },
+            {
+                  "name": "Masjid Saleha Jame Masjid, Sonargaon Road, Dhaka",
+                  "text": "Friday mosque located along the busy Sonargaon Road, featuring traditional Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        90.392076,
+                        23.746336
+                  ]
+            },
+            {
+                  "name": "Dilu Road Chata Masjid",
+                  "text": "This community mosque is a central religious point in the Dilu Road neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.400771,
+                        23.7484
+                  ]
+            },
+            {
+                  "name": "Khankaye Kaderia Hamidia Dorbar Sharif",
+                  "text": "A spiritual center and mosque associated with the Sufi tradition in Dhaka.",
+                  "category": "landmark",
+                  "coords": [
+                        90.405171,
+                        23.751433
+                  ]
+            },
+            {
+                  "name": "Sheikh Dilu Bepari Wakf Estate Jame Mosque",
+                  "text": "An endowed religious site serving the local Muslim community for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.401707,
+                        23.751379
+                  ]
+            },
+            {
+                  "name": "Baitun Nur Jame Masjid - DLR Mosque",
+                  "text": "A neighborhood mosque providing a space for daily prayers and Friday congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398133,
+                        23.755692
+                  ]
+            },
+            {
+                  "name": "Garden Road Jame Masjid",
+                  "text": "Local prayer hall situated within the residential blocks of Garden Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.389595,
+                        23.752802
+                  ]
+            },
+            {
+                  "name": "Basundhara City Jame Masjid",
+                  "text": "Modern mosque located adjacent to the large Basundhara City shopping complex.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390141,
+                        23.751018
+                  ]
+            },
+            {
+                  "name": "Water Development Board Jame Masjid",
+                  "text": "Mosque serving the staff and visitors of the nearby government offices.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388021,
+                        23.752542
+                  ]
+            },
+            {
+                  "name": "Tejturi Bazar Central Jame Masjid",
+                  "text": "Central religious landmark for the bustling Tejturi Bazar marketplace.",
+                  "category": "landmark",
+                  "coords": [
+                        90.390739,
+                        23.755407
+                  ]
+            },
+            {
+                  "name": "East Raja Bazar Jame Masjid",
+                  "text": "Community mosque located in the residential lanes of the East Raja Bazar area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38603,
+                        23.753599
+                  ]
+            },
+            {
+                  "name": "Dulara Shahi Jame Masjid, Green Rd, Dhaka",
+                  "text": "Traditional Friday mosque situated on Green Road, known for its local religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386167,
+                        23.747141
+                  ]
+            },
+            {
+                  "name": "Baitul Jannat Jaame Masjid, Green Rd, Dhaka",
+                  "text": "Local Muslim place of worship on Green Road serving the surrounding urban neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385363,
+                        23.745171
+                  ]
+            },
+            {
+                  "name": "Green Corner Jame Mosque, Momotaz Mention, Green Corner, Dhaka",
+                  "text": "Neighborhood mosque located within the Momotaz Mention building complex.",
+                  "category": "landmark",
+                  "coords": [
+                        90.386169,
+                        23.744244
+                  ]
+            },
+            {
+                  "name": "The Central Pharmacy Jame Masjid",
+                  "text": "A small prayer space serving the local commercial district and pharmacy workers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.398779,
+                        23.757453
+                  ]
+            },
+            {
+                  "name": "Al-Amin Mosque",
+                  "text": "Muslim place of worship providing a spiritual hub for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.388246,
+                        23.747274
+                  ]
+            },
+            {
+                  "name": "Nur Nogor Jame Masjid",
+                  "text": "Religious center for the residents of the Nur Nogor locality.",
+                  "category": "landmark",
+                  "coords": [
+                        90.396223,
+                        23.748082
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Masjid",
+                  "text": "Local Friday mosque providing a serene environment for worship in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        90.399496,
+                        23.754934
+                  ]
+            },
+            {
+                  "name": "Basiruddin Road Masjid",
+                  "text": "Community mosque serving the residents along Basiruddin Road.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383642,
+                        23.748885
+                  ]
+            },
+            {
+                  "name": "Dormitory Jame Mashjid",
+                  "text": "Mosque specifically serving the residents of the nearby student or worker dormitories.",
+                  "category": "landmark",
+                  "coords": [
+                        90.385918,
+                        23.748944
+                  ]
+            },
+            {
+                  "name": "Kalabagan Staff Quarter Mosque",
+                  "text": "Religious facility for the employees residing in the Kalabagan staff quarters.",
+                  "category": "landmark",
+                  "coords": [
+                        90.383901,
+                        23.74652
+                  ]
+            },
+            {
+                  "name": "Haqqani",
+                  "text": "Islamic religious site or mosque associated with the Haqqani spiritual lineage.",
+                  "category": "landmark",
+                  "coords": [
+                        90.38624,
+                        23.74315
+                  ]
+            },
+            {
+                  "name": "Hatirpool Tiles And Ceramics Market",
+                  "text": "Specialized marketplace known for a wide variety of construction tiles and sanitary ware.",
+                  "category": "cultural",
+                  "coords": [
+                        90.392519,
+                        23.744886
+                  ]
+            },
+            {
+                  "name": "Karwan Bazar Fish Market",
+                  "text": "Bustling wholesale hub where a vast variety of fresh fish is traded daily.",
+                  "category": "cultural",
+                  "coords": [
+                        90.397059,
+                        23.75144
+                  ]
+            },
+            {
+                  "name": "Vegetable wholesale marke",
+                  "text": "A major commercial center for the distribution of fresh produce in Dhaka.",
+                  "category": "cultural",
+                  "coords": [
+                        90.394152,
+                        23.753433
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "landmark",
     name: { de: "Karwan-Basar", hu: "Karwan bazár", ro: "Bazarul Karwan", en: "Karwan Bazar" },
@@ -588,7 +9795,1024 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-karwan-bazar-economic-v2.webp",
   },
   {
-    id: "bangladesh-khatunganj-market-economic-v2",
+    id: "bangladesh-khatunganj-market-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheragi Pahar",
+                  "text": "Ein historischer Hügel, auf dem einst ein Sufi-Heiliger eine Lampe anzündete, was ihn zu einem legendären Wahrzeichen macht.",
+                  "category": "historical",
+                  "coords": [
+                        91.833654,
+                        22.343731
+                  ]
+            },
+            {
+                  "name": "Chattogram Central Shaheed Minar",
+                  "text": "Ein nationales Denkmal zu Ehren der Märtyrer der Sprachbewegung von 1952.",
+                  "category": "historical",
+                  "coords": [
+                        91.83371,
+                        22.33734
+                  ]
+            },
+            {
+                  "name": "শাহ আমানত সেতু",
+                  "text": "Eine bedeutende Schrägseilbrücke, die den Fluss Karnaphuli überspannt und die Stadtbezirke verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.853094,
+                        22.325127
+                  ]
+            },
+            {
+                  "name": "Anderkilla Moore",
+                  "text": "Eine zentrale Kreuzung im historischen Viertel Anderkilla, bekannt für seinen Charme der alten Welt.",
+                  "category": "historical",
+                  "coords": [
+                        91.836742,
+                        22.342175
+                  ]
+            },
+            {
+                  "name": "New Market Circle",
+                  "text": "Ein geschäftiger Verkehrsknotenpunkt und Wahrzeichen in der Nähe des zentralen Handelsmarktes der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        91.832494,
+                        22.333948
+                  ]
+            },
+            {
+                  "name": "Cinema Palace",
+                  "text": "Einer der ältesten und ikonischsten Kinosäle der Stadt, in dem lokale und ausländische Filme gezeigt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835768,
+                        22.33793
+                  ]
+            },
+            {
+                  "name": "J M Sen Hall",
+                  "text": "Eine historische Gemeindehalle, die für kulturelle Zusammenkünfte und religiöse Zeremonien genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        91.836154,
+                        22.343646
+                  ]
+            },
+            {
+                  "name": "প্রভু জগদ্বন্ধু সুন্দর আশ্রম",
+                  "text": "Ein spiritueller Rückzugsort und Gebetsstätte, die den Lehren von Prabhu Jagadbandhu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.838398,
+                        22.334315
+                  ]
+            },
+            {
+                  "name": "Hazrat Ma Halima (RA) Shrine, Vellapara Road, Matha.Jiri, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Ein Schrein am Rande der Schnellstraße, der der verehrten Persönlichkeit Hazrat Ma Halima gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.879719,
+                        22.296327
+                  ]
+            },
+            {
+                  "name": "Panchariya Universal Buddhist monastery",
+                  "text": "Ein friedliches buddhistisches Kloster, das als Zentrum für Meditation und spirituelles Lernen dient.",
+                  "category": "religious",
+                  "coords": [
+                        91.911169,
+                        22.323624
+                  ]
+            },
+            {
+                  "name": "Universal Dewangan Monastery",
+                  "text": "Ein Heiligtum für buddhistische Mönche und Praktizierende im Viertel Dewangan.",
+                  "category": "religious",
+                  "coords": [
+                        91.910425,
+                        22.326488
+                  ]
+            },
+            {
+                  "name": "Hawkars Market, Jubilee Rd, Chattogram",
+                  "text": "Ein lebhafter Straßenmarkt an der Jubilee Road, der für seine erschwingliche Kleidung und Stoffe bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83282,
+                        22.335783
+                  ]
+            },
+            {
+                  "name": "Reazuddin Bazar, Shop No 6, CDA Market ( GR Floor) Amtal, Chattogram",
+                  "text": "Einer der größten Großmärkte der Stadt, der von frischen Produkten bis hin zu Elektronik alles anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.830389,
+                        22.336553
+                  ]
+            },
+            {
+                  "name": "Maya Jewellers, D. M. Market, Infront Of New Bangladesh Bank, Kotwali, Chattogram",
+                  "text": "Ein spezialisiertes Juweliergeschäft im D. M. Markt gegenüber der Bangladesh Bank.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835102,
+                        22.333074
+                  ]
+            },
+            {
+                  "name": "Firingi Bazar",
+                  "text": "Ein historisches Marktviertel am Fluss, das ursprünglich von portugiesischen Händlern in der Kolonialzeit besiedelt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        91.836033,
+                        22.33009
+                  ]
+            },
+            {
+                  "name": "Patiya crossing bazar, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Ein lebhafter Straßenmarkt an der strategischen Kreuzung Patiya an der Hauptstraße.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870148,
+                        22.291316
+                  ]
+            },
+            {
+                  "name": "Haji Anumia Market, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Ein örtliches Einzelhandelszentrum an der Schnellstraße, das Reisende und Anwohner mit lebensnotwendigen Gütern versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        91.863384,
+                        22.303265
+                  ]
+            },
+            {
+                  "name": "Mohammadia Medico, Khan Market, Natun Bridge, Chaktai, Chattogram",
+                  "text": "Ein geschäftiger Marktplatz in der Nähe der Natun-Brücke, der als regionales Zentrum für den Handel mit medizinischen Waren dient.",
+                  "category": "cultural",
+                  "coords": [
+                        91.850489,
+                        22.33128
+                  ]
+            },
+            {
+                  "name": "I T Ghor, Mir Super Market. আই টি ঘর, মীর সুপার মার্কেট।",
+                  "text": "Ein mehrstöckiger Supermarktkomplex im Handelsviertel, bekannt für Elektronik und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        91.891583,
+                        22.299713
+                  ]
+            },
+            {
+                  "name": "Karnnafully Livestock Market",
+                  "text": "Ein bedeutender Viehmarkt in der Nähe des Karnaphuli-Flusses, auf dem vor allem Rinder und Ziegen gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        91.85787,
+                        22.309229
+                  ]
+            },
+            {
+                  "name": "Ahasanulla Mazar",
+                  "text": "Ein traditioneller Marktbereich, der sich um das Grabmal (Mazar) von Ahasanulla konzentriert und religiöse Artikel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870329,
+                        22.310549
+                  ]
+            },
+            {
+                  "name": "Charkanai Market চরকানাই বাজার",
+                  "text": "Ein lokaler Marktplatz im Viertel Charkanai, der für den täglichen Bedarf und frische landwirtschaftliche Erzeugnisse bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.901225,
+                        22.330433
+                  ]
+            },
+            {
+                  "name": "Shila Sha Market",
+                  "text": "Ein geschäftiges Einkaufszentrum im Herzen des Handelsdistrikts, das eine Vielzahl von Textilien und Bekleidung anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.89827,
+                        22.301552
+                  ]
+            },
+            {
+                  "name": "Boat Rental",
+                  "text": "Ein Bootsverleih am Chaktai-Kanal, der traditionelle Sampan-Fahrten entlang der Wasserwege von Chattogram anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82993,
+                        22.324379
+                  ]
+            },
+            {
+                  "name": "Jamal Khan PDB Colony Jame Masjid, Jamal Khan Rd, Chattogram",
+                  "text": "Eine moderne Jame-Moschee in der PDB-Kolonie, die sich durch ihre Lage an der belebten Jamal Khan Road auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833918,
+                        22.34662
+                  ]
+            },
+            {
+                  "name": "Laldighi Shahi Jame Masjid",
+                  "text": "Eine historische Moschee aus dem 18. Jahrhundert in der Nähe des Laldighi-Teichs, die für ihre Mogul-Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.837632,
+                        22.337858
+                  ]
+            },
+            {
+                  "name": "BAtul Sarf Jame Masjid",
+                  "text": "Eine lokale Jame-Moschee, die als wichtiger spiritueller Anlaufpunkt für die Gemeinde Batul Sarf dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831064,
+                        22.335233
+                  ]
+            },
+            {
+                  "name": "Shree Shree Loknath Temple, Nandan Kanan No 1 Ln, Chattogram",
+                  "text": "Ein hinduistischer Tempel in Nandan Kanan, der dem Heiligen Loknath Brahmachari gewidmet ist und für seine spirituelle Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831214,
+                        22.340782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheragi Pahar",
+                  "text": "Történelmi dombtető, ahol egykor egy szúfi szent lámpást gyújtott, legendás helyi nevezetességet jelölve.",
+                  "category": "historical",
+                  "coords": [
+                        91.833654,
+                        22.343731
+                  ]
+            },
+            {
+                  "name": "Chattogram Central Shaheed Minar",
+                  "text": "Nemzeti emlékmű az 1952-es nyelvmozgalom mártírjainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        91.83371,
+                        22.33734
+                  ]
+            },
+            {
+                  "name": "শাহ আমানত সেতু",
+                  "text": "Jelentős ferdekábeles híd a Karnaphuli folyón, amely összeköti a városrészeket.",
+                  "category": "landmark",
+                  "coords": [
+                        91.853094,
+                        22.325127
+                  ]
+            },
+            {
+                  "name": "Anderkilla Moore",
+                  "text": "Központi útkereszteződés a történelmi Anderkilla negyedben, amely a régi idők hangulatáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        91.836742,
+                        22.342175
+                  ]
+            },
+            {
+                  "name": "New Market Circle",
+                  "text": "Nyüzsgő közlekedési csomópont és nevezetesség a város központi kereskedelmi piaca közelében.",
+                  "category": "historical",
+                  "coords": [
+                        91.832494,
+                        22.333948
+                  ]
+            },
+            {
+                  "name": "Cinema Palace",
+                  "text": "A város egyik legrégebbi és legikonikusabb moziterme, ahol hazai és külföldi filmeket vetítenek.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835768,
+                        22.33793
+                  ]
+            },
+            {
+                  "name": "J M Sen Hall",
+                  "text": "Történelmi közösségi terem, amelyet kulturális összejövetelekre és vallási ceremóniákra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        91.836154,
+                        22.343646
+                  ]
+            },
+            {
+                  "name": "প্রভু জগদ্বন্ধু সুন্দর আশ্রম",
+                  "text": "Spirituális elvonulási hely és istentiszteleti hely, amelyet Prabhu Jagadbandhu tanításainak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        91.838398,
+                        22.334315
+                  ]
+            },
+            {
+                  "name": "Hazrat Ma Halima (RA) Shrine, Vellapara Road, Matha.Jiri, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Az országút menti kegyhely, amelyet a tisztelt Hazrat Ma Halima alakjának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        91.879719,
+                        22.296327
+                  ]
+            },
+            {
+                  "name": "Panchariya Universal Buddhist monastery",
+                  "text": "Békés buddhista kolostor, amely a meditáció és a spirituális tanulás központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        91.911169,
+                        22.323624
+                  ]
+            },
+            {
+                  "name": "Universal Dewangan Monastery",
+                  "text": "Buddhista szerzetesek és gyakorlók szentélye a Dewangan negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        91.910425,
+                        22.326488
+                  ]
+            },
+            {
+                  "name": "Hawkars Market, Jubilee Rd, Chattogram",
+                  "text": "Nyüzsgő utcai piac a Jubilee úton, amely megfizethető ruházatáról és szöveteiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83282,
+                        22.335783
+                  ]
+            },
+            {
+                  "name": "Reazuddin Bazar, Shop No 6, CDA Market ( GR Floor) Amtal, Chattogram",
+                  "text": "A város egyik legnagyobb nagybani piaca, ahol a friss termékektől az elektronikáig minden megtalálható.",
+                  "category": "cultural",
+                  "coords": [
+                        91.830389,
+                        22.336553
+                  ]
+            },
+            {
+                  "name": "Maya Jewellers, D. M. Market, Infront Of New Bangladesh Bank, Kotwali, Chattogram",
+                  "text": "Speciális ékszerüzlet a D. M. piacon, a Bangladesh Bankkal szemben.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835102,
+                        22.333074
+                  ]
+            },
+            {
+                  "name": "Firingi Bazar",
+                  "text": "Történelmi piaci terület a folyóparton, amelyet eredetileg portugál kereskedők laktak be a gyarmati korszakban.",
+                  "category": "cultural",
+                  "coords": [
+                        91.836033,
+                        22.33009
+                  ]
+            },
+            {
+                  "name": "Patiya crossing bazar, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Élénk útmenti piac a főút stratégiai Patiya-kereszteződésénél.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870148,
+                        22.291316
+                  ]
+            },
+            {
+                  "name": "Haji Anumia Market, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Helyi kiskereskedelmi központ az országút mentén, amely alapvető árukkal látja el az utazókat és a lakókat.",
+                  "category": "cultural",
+                  "coords": [
+                        91.863384,
+                        22.303265
+                  ]
+            },
+            {
+                  "name": "Mohammadia Medico, Khan Market, Natun Bridge, Chaktai, Chattogram",
+                  "text": "Forgalmas piactér a Natun-híd közelében, amely az orvosi áruk kereskedelmének regionális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        91.850489,
+                        22.33128
+                  ]
+            },
+            {
+                  "name": "I T Ghor, Mir Super Market. আই টি ঘর, মীর সুপার মার্কেট।",
+                  "text": "Többszintes szupermarket-komplexum a kereskedelmi negyedben, amely elektronikai cikkekről és háztartási árukról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.891583,
+                        22.299713
+                  ]
+            },
+            {
+                  "name": "Karnnafully Livestock Market",
+                  "text": "Jelentős állatpiac a Karnaphuli-folyó közelében, ahol elsősorban szarvasmarhákkal és kecskékkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        91.85787,
+                        22.309229
+                  ]
+            },
+            {
+                  "name": "Ahasanulla Mazar",
+                  "text": "Hagyományos piaci terület Ahasanulla síremléke (Mazar) körül, ahol vallási kegytárgyakat árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870329,
+                        22.310549
+                  ]
+            },
+            {
+                  "name": "Charkanai Market চরকানাই বাজার",
+                  "text": "Helyi piactér a Charkanai negyedben, amely a napi szükségleti cikkekről és friss mezőgazdasági terményekről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.901225,
+                        22.330433
+                  ]
+            },
+            {
+                  "name": "Shila Sha Market",
+                  "text": "Forgalmas bevásárlóközpont a kereskedelmi negyed szívében, amely különféle textileket és ruházati cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        91.89827,
+                        22.301552
+                  ]
+            },
+            {
+                  "name": "Boat Rental",
+                  "text": "Csónakkölcsönző a Chaktai-csatornánál, amely hagyományos szampan-utazásokat kínál Chattogram vízi útjain.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82993,
+                        22.324379
+                  ]
+            },
+            {
+                  "name": "Jamal Khan PDB Colony Jame Masjid, Jamal Khan Rd, Chattogram",
+                  "text": "Modern Jame-mecset a PDB-lakótelepen, amely a forgalmas Jamal Khan Roadon található.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833918,
+                        22.34662
+                  ]
+            },
+            {
+                  "name": "Laldighi Shahi Jame Masjid",
+                  "text": "Történelmi, 18. századi mecset a Laldighi-tó közelében, amely mogul stílusú építészetéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        91.837632,
+                        22.337858
+                  ]
+            },
+            {
+                  "name": "BAtul Sarf Jame Masjid",
+                  "text": "Helyi Jame-mecset, amely a Batul Sarf közösség fontos spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831064,
+                        22.335233
+                  ]
+            },
+            {
+                  "name": "Shree Shree Loknath Temple, Nandan Kanan No 1 Ln, Chattogram",
+                  "text": "Nandan Kanan-i hindu templom, amelyet Loknath Brahmachari szentnek szenteltek, és spirituális légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831214,
+                        22.340782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheragi Pahar",
+                  "text": "Un deal istoric unde un sfânt sufit a aprins odată o lampă, marcând un reper local legendar.",
+                  "category": "historical",
+                  "coords": [
+                        91.833654,
+                        22.343731
+                  ]
+            },
+            {
+                  "name": "Chattogram Central Shaheed Minar",
+                  "text": "Un monument național construit în onoarea martirilor Mișcării pentru Limbă din 1952.",
+                  "category": "historical",
+                  "coords": [
+                        91.83371,
+                        22.33734
+                  ]
+            },
+            {
+                  "name": "শাহ আমানত সেতু",
+                  "text": "Un pod hobanat major care traversează râul Karnaphuli pentru a conecta districtele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.853094,
+                        22.325127
+                  ]
+            },
+            {
+                  "name": "Anderkilla Moore",
+                  "text": "O intersecție centrală în districtul istoric Anderkilla, cunoscută pentru farmecul său de altădată.",
+                  "category": "historical",
+                  "coords": [
+                        91.836742,
+                        22.342175
+                  ]
+            },
+            {
+                  "name": "New Market Circle",
+                  "text": "Un nod de trafic aglomerat și un punct de reper situat lângă piața comercială centrală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        91.832494,
+                        22.333948
+                  ]
+            },
+            {
+                  "name": "Cinema Palace",
+                  "text": "Una dintre cele mai vechi și emblematice săli de cinema din oraș, care prezintă filme locale și străine.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835768,
+                        22.33793
+                  ]
+            },
+            {
+                  "name": "J M Sen Hall",
+                  "text": "O sală comunitară istorică folosită pentru adunări culturale și ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        91.836154,
+                        22.343646
+                  ]
+            },
+            {
+                  "name": "প্রভু জগদ্বন্ধু সুন্দর আশ্রম",
+                  "text": "Un refugiu spiritual și lăcaș de cult dedicat învățăturilor lui Prabhu Jagadbandhu.",
+                  "category": "religious",
+                  "coords": [
+                        91.838398,
+                        22.334315
+                  ]
+            },
+            {
+                  "name": "Hazrat Ma Halima (RA) Shrine, Vellapara Road, Matha.Jiri, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Un altar la marginea drumului, de-a lungul autostrăzii, dedicat figurii venerate Hazrat Ma Halima.",
+                  "category": "religious",
+                  "coords": [
+                        91.879719,
+                        22.296327
+                  ]
+            },
+            {
+                  "name": "Panchariya Universal Buddhist monastery",
+                  "text": "O mănăstire budistă liniștită care servește ca centru pentru meditație și învățare spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        91.911169,
+                        22.323624
+                  ]
+            },
+            {
+                  "name": "Universal Dewangan Monastery",
+                  "text": "Un sanctuar pentru călugării și practicanții budiști situat în zona Dewangan.",
+                  "category": "religious",
+                  "coords": [
+                        91.910425,
+                        22.326488
+                  ]
+            },
+            {
+                  "name": "Hawkars Market, Jubilee Rd, Chattogram",
+                  "text": "O piață stradală vibrantă pe drumul Jubilee, faimoasă pentru îmbrăcămintea și țesăturile sale accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83282,
+                        22.335783
+                  ]
+            },
+            {
+                  "name": "Reazuddin Bazar, Shop No 6, CDA Market ( GR Floor) Amtal, Chattogram",
+                  "text": "Una dintre cele mai mari piețe angro din oraș, care oferă de toate, de la produse proaspete la electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        91.830389,
+                        22.336553
+                  ]
+            },
+            {
+                  "name": "Maya Jewellers, D. M. Market, Infront Of New Bangladesh Bank, Kotwali, Chattogram",
+                  "text": "Un magazin de bijuterii specializat situat în piața D. M., vizavi de Banca Bangladesh.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835102,
+                        22.333074
+                  ]
+            },
+            {
+                  "name": "Firingi Bazar",
+                  "text": "O zonă de piață istorică lângă râu, stabilită inițial de comercianții portughezi în era colonială.",
+                  "category": "cultural",
+                  "coords": [
+                        91.836033,
+                        22.33009
+                  ]
+            },
+            {
+                  "name": "Patiya crossing bazar, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "O piață plină de viață la marginea drumului, situată la intersecția strategică Patiya de pe autostrada principală.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870148,
+                        22.291316
+                  ]
+            },
+            {
+                  "name": "Haji Anumia Market, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "Un centru comercial local de-a lungul autostrăzii, care oferă bunuri esențiale călătorilor și rezidenților.",
+                  "category": "cultural",
+                  "coords": [
+                        91.863384,
+                        22.303265
+                  ]
+            },
+            {
+                  "name": "Mohammadia Medico, Khan Market, Natun Bridge, Chaktai, Chattogram",
+                  "text": "O piață aglomerată lângă podul Natun, care servește drept centru regional pentru comerțul cu produse medicale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.850489,
+                        22.33128
+                  ]
+            },
+            {
+                  "name": "I T Ghor, Mir Super Market. আই টি ঘর, মীর সুপার মার্কেট।",
+                  "text": "Un complex comercial etajat în districtul comercial, cunoscut pentru electronice și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        91.891583,
+                        22.299713
+                  ]
+            },
+            {
+                  "name": "Karnnafully Livestock Market",
+                  "text": "O piață importantă de animale lângă râul Karnaphuli, unde se comercializează în principal vite și capre.",
+                  "category": "cultural",
+                  "coords": [
+                        91.85787,
+                        22.309229
+                  ]
+            },
+            {
+                  "name": "Ahasanulla Mazar",
+                  "text": "O zonă de piață tradițională concentrată în jurul mormântului (Mazar) lui Ahasanulla, oferind articole religioase.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870329,
+                        22.310549
+                  ]
+            },
+            {
+                  "name": "Charkanai Market চরকানাই বাজার",
+                  "text": "O piață locală în cartierul Charkanai, cunoscută pentru necesitățile zilnice și produsele agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        91.901225,
+                        22.330433
+                  ]
+            },
+            {
+                  "name": "Shila Sha Market",
+                  "text": "Un centru comercial aglomerat în inima districtului comercial, care oferă o varietate de textile și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        91.89827,
+                        22.301552
+                  ]
+            },
+            {
+                  "name": "Boat Rental",
+                  "text": "Un punct de închiriere de bărci pe canalul Chaktai, care oferă plimbări tradiționale cu sampanul pe căile navigabile din Chattogram.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82993,
+                        22.324379
+                  ]
+            },
+            {
+                  "name": "Jamal Khan PDB Colony Jame Masjid, Jamal Khan Rd, Chattogram",
+                  "text": "O moschee Jame modernă în colonia PDB, remarcată prin amplasarea sa pe aglomerata Jamal Khan Road.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833918,
+                        22.34662
+                  ]
+            },
+            {
+                  "name": "Laldighi Shahi Jame Masjid",
+                  "text": "O moschee istorică din secolul al XVIII-lea, situată lângă iazul Laldighi, cunoscută pentru arhitectura sa de tip mogul.",
+                  "category": "landmark",
+                  "coords": [
+                        91.837632,
+                        22.337858
+                  ]
+            },
+            {
+                  "name": "BAtul Sarf Jame Masjid",
+                  "text": "O moschee Jame locală care servește ca un punct spiritual important pentru comunitatea Batul Sarf.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831064,
+                        22.335233
+                  ]
+            },
+            {
+                  "name": "Shree Shree Loknath Temple, Nandan Kanan No 1 Ln, Chattogram",
+                  "text": "Un templu hindu din Nandan Kanan dedicat sfântului Loknath Brahmachari, cunoscut pentru atmosfera sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831214,
+                        22.340782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheragi Pahar",
+                  "text": "A historic hilltop where a Sufi saint once lit a lamp, marking a legendary local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        91.833654,
+                        22.343731
+                  ]
+            },
+            {
+                  "name": "Chattogram Central Shaheed Minar",
+                  "text": "A national monument built to honor the martyrs of the 1952 Language Movement.",
+                  "category": "historical",
+                  "coords": [
+                        91.83371,
+                        22.33734
+                  ]
+            },
+            {
+                  "name": "শাহ আমানত সেতু",
+                  "text": "A major cable-stayed bridge spanning the Karnaphuli River to connect the city's districts.",
+                  "category": "landmark",
+                  "coords": [
+                        91.853094,
+                        22.325127
+                  ]
+            },
+            {
+                  "name": "Anderkilla Moore",
+                  "text": "A central intersection in the historic Anderkilla district, known for its old-world charm.",
+                  "category": "historical",
+                  "coords": [
+                        91.836742,
+                        22.342175
+                  ]
+            },
+            {
+                  "name": "New Market Circle",
+                  "text": "A bustling traffic hub and landmark situated near the city's central commercial market.",
+                  "category": "historical",
+                  "coords": [
+                        91.832494,
+                        22.333948
+                  ]
+            },
+            {
+                  "name": "Cinema Palace",
+                  "text": "One of the city's oldest and most iconic cinema halls, showcasing local and foreign films.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835768,
+                        22.33793
+                  ]
+            },
+            {
+                  "name": "J M Sen Hall",
+                  "text": "A historic community hall used for cultural gatherings and religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        91.836154,
+                        22.343646
+                  ]
+            },
+            {
+                  "name": "Prabhu Jagadbandhu Shundar Ashram",
+                  "text": "A spiritual retreat and place of worship dedicated to the teachings of Prabhu Jagadbandhu.",
+                  "category": "religious",
+                  "coords": [
+                        91.838398,
+                        22.334315
+                  ]
+            },
+            {
+                  "name": "Hazrat Ma Halima (RA) Shrine, Vellapara Road, Matha.Jiri, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "A roadside shrine along the highway dedicated to the revered figure Hazrat Ma Halima.",
+                  "category": "religious",
+                  "coords": [
+                        91.879719,
+                        22.296327
+                  ]
+            },
+            {
+                  "name": "Panchariya Universal Buddhist monastery",
+                  "text": "A peaceful Buddhist monastery serving as a center for meditation and spiritual learning.",
+                  "category": "religious",
+                  "coords": [
+                        91.911169,
+                        22.323624
+                  ]
+            },
+            {
+                  "name": "Universal Dewangan Monastery",
+                  "text": "A sanctuary for Buddhist monks and practitioners located in the Dewangan area.",
+                  "category": "religious",
+                  "coords": [
+                        91.910425,
+                        22.326488
+                  ]
+            },
+            {
+                  "name": "Hawkars Market, Jubilee Rd, Chattogram",
+                  "text": "A vibrant street market on Jubilee Road famous for its affordable clothing and fabrics.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83282,
+                        22.335783
+                  ]
+            },
+            {
+                  "name": "Reazuddin Bazar, Shop No 6, CDA Market ( GR Floor) Amtal, Chattogram",
+                  "text": "One of the city's largest wholesale markets, offering everything from fresh produce to electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        91.830389,
+                        22.336553
+                  ]
+            },
+            {
+                  "name": "Maya Jewellers, D. M. Market, Infront Of New Bangladesh Bank, Kotwali, Chattogram",
+                  "text": "A specialized jewelry store located in the D. M. Market opposite the Bangladesh Bank.",
+                  "category": "cultural",
+                  "coords": [
+                        91.835102,
+                        22.333074
+                  ]
+            },
+            {
+                  "name": "Firingi Bazar",
+                  "text": "A historic market area by the river, originally settled by Portuguese merchants in the colonial era.",
+                  "category": "cultural",
+                  "coords": [
+                        91.836033,
+                        22.33009
+                  ]
+            },
+            {
+                  "name": "Patiya crossing bazar, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "A lively roadside market located at the strategic Patiya intersection on the main highway.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870148,
+                        22.291316
+                  ]
+            },
+            {
+                  "name": "Haji Anumia Market, Chittagong-Coxs Bazar Hwy, Chattogram",
+                  "text": "A local retail center along the highway providing essential goods to travelers and residents.",
+                  "category": "cultural",
+                  "coords": [
+                        91.863384,
+                        22.303265
+                  ]
+            },
+            {
+                  "name": "Mohammadia Medico, Khan Market, Natun Bridge, Chaktai, Chattogram",
+                  "text": "A busy marketplace near the Natun Bridge that serves as a regional hub for the trade of medical supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        91.850489,
+                        22.33128
+                  ]
+            },
+            {
+                  "name": "I T Ghor, Mir Super Market. আই টি ঘর, মীর সুপার মার্কেট।",
+                  "text": "A multi-story supermarket complex in the commercial district known for electronics and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        91.891583,
+                        22.299713
+                  ]
+            },
+            {
+                  "name": "Karnnafully Livestock Market",
+                  "text": "A major livestock market located near the Karnaphuli River, primarily trading cattle and goats.",
+                  "category": "cultural",
+                  "coords": [
+                        91.85787,
+                        22.309229
+                  ]
+            },
+            {
+                  "name": "Ahasanulla Mazar",
+                  "text": "A traditional market area centered around the tomb (Mazar) of Ahasanulla, offering religious items.",
+                  "category": "cultural",
+                  "coords": [
+                        91.870329,
+                        22.310549
+                  ]
+            },
+            {
+                  "name": "Charkanai Market চরকানাই বাজার",
+                  "text": "A local marketplace in the Charkanai neighborhood known for daily necessities and fresh agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        91.901225,
+                        22.330433
+                  ]
+            },
+            {
+                  "name": "Shila Sha Market",
+                  "text": "A busy shopping center in the heart of the commercial district offering a variety of textiles and apparel.",
+                  "category": "cultural",
+                  "coords": [
+                        91.89827,
+                        22.301552
+                  ]
+            },
+            {
+                  "name": "Boat Rental",
+                  "text": "A boat rental point on the Chaktai canal offering traditional sampan rides along Chattogram's waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82993,
+                        22.324379
+                  ]
+            },
+            {
+                  "name": "Jamal Khan PDB Colony Jame Masjid, Jamal Khan Rd, Chattogram",
+                  "text": "A modern Jame mosque within the PDB colony, notable for its location along the busy Jamal Khan Road.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833918,
+                        22.34662
+                  ]
+            },
+            {
+                  "name": "Laldighi Shahi Jame Masjid",
+                  "text": "A historic 18th-century mosque located near the Laldighi pond, renowned for its Mughal-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        91.837632,
+                        22.337858
+                  ]
+            },
+            {
+                  "name": "BAtul Sarf Jame Masjid",
+                  "text": "A local Jame mosque serving as an important spiritual hub for the Batul Sarf community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831064,
+                        22.335233
+                  ]
+            },
+            {
+                  "name": "Shree Shree Loknath Temple, Nandan Kanan No 1 Ln, Chattogram",
+                  "text": "A Hindu temple in Nandan Kanan dedicated to the saint Loknath Brahmachari, known for its spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831214,
+                        22.340782
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "landmark",
     name: { de: "Großhandelsmarkt Khatunganj", hu: "Khatunganj nagykereskedelmi piac", ro: "Piața angro Khatunganj", en: "Khatunganj Wholesale Market" },
@@ -633,7 +10857,1312 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-khatunganj-market-economic-v2.webp",
   },
   {
-    id: "bangladesh-ghorashal-power-economic-v2",
+    id: "bangladesh-ghorashal-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "Ein Denkmal auf dem College-Gelände, das den Märtyrern der Sprachbewegung gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        90.723357,
+                        23.933498
+                  ]
+            },
+            {
+                  "name": "এমরান সাহেবের মাজার",
+                  "text": "Ein heiliger Schrein und das Grabmal der lokalen Persönlichkeit Emran Shaheb.",
+                  "category": "religious",
+                  "coords": [
+                        90.618165,
+                        23.932842
+                  ]
+            },
+            {
+                  "name": "Baitul fatah mosque",
+                  "text": "Eine lokale Moschee, die der Gemeinde Raum für die täglichen Gebete bietet.",
+                  "category": "religious",
+                  "coords": [
+                        90.709339,
+                        23.933318
+                  ]
+            },
+            {
+                  "name": "sarkar super market",
+                  "text": "Ein modernes, mehrstöckiges Handelszentrum für lokale Einkäufer.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68941,
+                        23.912793
+                  ]
+            },
+            {
+                  "name": "সফিউদ্দিন সুপার মার্কেট",
+                  "text": "Ein belebtes Geschäftshaus, das verschiedene lokale Einzelhandelsgeschäfte beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68719,
+                        23.909801
+                  ]
+            },
+            {
+                  "name": "Noakanda Notun Bazar",
+                  "text": "Ein neu errichteter lokaler Markt, der das Gebiet Noakanda versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.696264,
+                        23.954293
+                  ]
+            },
+            {
+                  "name": "Gozariah Bazar",
+                  "text": "Ein ländlicher Marktplatz, auf dem lokale Bauern und Händler zusammenkommen.",
+                  "category": "cultural",
+                  "coords": [
+                        90.707962,
+                        23.963922
+                  ]
+            },
+            {
+                  "name": "Itakhola Bazar",
+                  "text": "Ein bedeutender Handelsknotenpunkt an der belebten Straßenkreuzung von Itakhola.",
+                  "category": "cultural",
+                  "coords": [
+                        90.733589,
+                        23.979743
+                  ]
+            },
+            {
+                  "name": "Ghorashal Bazzar",
+                  "text": "Ein geschäftiger lokaler Basar mit frischen Produkten und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        90.617582,
+                        23.935383
+                  ]
+            },
+            {
+                  "name": "পাঁচদোনা মোড় জামে মসজিদ।",
+                  "text": "Eine markante Moschee direkt an der viel befahrenen Straßenkreuzung Panchdona.",
+                  "category": "landmark",
+                  "coords": [
+                        90.664284,
+                        23.893552
+                  ]
+            },
+            {
+                  "name": "Saheprotab Baitun Nur Jame Masjid",
+                  "text": "Eine Gemeindemoschee im Wohnviertel Saheprotab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.688095,
+                        23.909616
+                  ]
+            },
+            {
+                  "name": "Mill Gaite Jame Masjid",
+                  "text": "Eine Moschee in der Nähe des Fabriktors für die dortigen Arbeiter.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70988,
+                        23.941084
+                  ]
+            },
+            {
+                  "name": "Kurerpar Jame Masjid কুড়েরপাড় জামে মসজিদ",
+                  "text": "Eine lokale Gebetsstätte im Viertel Kurerpar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.712536,
+                        23.945145
+                  ]
+            },
+            {
+                  "name": "BSCIC Jame Masjid বিসিক জামে মসজিদ",
+                  "text": "Eine Moschee innerhalb des BSCIC-Industriegebiets für die Fabrikarbeiter.",
+                  "category": "landmark",
+                  "coords": [
+                        90.709616,
+                        23.947501
+                  ]
+            },
+            {
+                  "name": "Khashmohol Purbopara Jame Masjid",
+                  "text": "Eine Moschee im Wohngebiet Purbopara im Bezirk Khashmohol.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70455,
+                        23.943844
+                  ]
+            },
+            {
+                  "name": "Itakhola Jame Mosjid",
+                  "text": "Eine Moschee für Reisende und Einheimische am Itakhola-Verkehrsknotenpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.731866,
+                        23.978927
+                  ]
+            },
+            {
+                  "name": "Mia Bari Mosque",
+                  "text": "Eine private Moschee, die dem Anwesen der lokalen Mia-Familie angehört.",
+                  "category": "landmark",
+                  "coords": [
+                        90.671875,
+                        24.003093
+                  ]
+            },
+            {
+                  "name": "Baghaba Temple Baghaba(Bakshiya) Temple,",
+                  "text": "Ein traditioneller Hindu-Tempel, der der lokalen Gemeinschaft in Baghaba dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.654226,
+                        23.926278
+                  ]
+            },
+            {
+                  "name": "Ghunapara Jame Masjid",
+                  "text": "Eine ruhige Gemeindemoschee im Viertel Ghunapara.",
+                  "category": "landmark",
+                  "coords": [
+                        90.591689,
+                        23.924772
+                  ]
+            },
+            {
+                  "name": "Police Lines Jame Masjid",
+                  "text": "Eine Moschee innerhalb des Wohn- und Verwaltungskomplexes der Polizei.",
+                  "category": "landmark",
+                  "coords": [
+                        90.690834,
+                        23.91611
+                  ]
+            },
+            {
+                  "name": "Baghata Jame Mosque",
+                  "text": "Eine lokale Gemeindemoschee im Gebiet Baghata.",
+                  "category": "landmark",
+                  "coords": [
+                        90.683701,
+                        23.902177
+                  ]
+            },
+            {
+                  "name": "সাহেপ্রতাব উত্তরপাড়া আল আকসা জামে মসজিদ",
+                  "text": "Eine Moschee im nördlichen Teil des Viertels Saheprotab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.689918,
+                        23.913877
+                  ]
+            },
+            {
+                  "name": "Madrasah Jame Mosque",
+                  "text": "Eine Moschee, die mit einer islamischen Schule für Schüler und Anwohner verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.68773,
+                        23.910984
+                  ]
+            },
+            {
+                  "name": "Bashail Madrasah Masjid",
+                  "text": "Eine Moschee auf dem Gelände der islamischen Schule von Bashail.",
+                  "category": "landmark",
+                  "coords": [
+                        90.704439,
+                        23.929408
+                  ]
+            },
+            {
+                  "name": "Hospital Masjid",
+                  "text": "Eine Moschee in verkehrsgünstiger Lage für Krankenhauspersonal und Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        90.703162,
+                        23.929765
+                  ]
+            },
+            {
+                  "name": "Thermax Group Jame Masjid",
+                  "text": "Eine große Industriemoschee, die von der Thermax Group für ihre Mitarbeiter errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.717379,
+                        23.957952
+                  ]
+            },
+            {
+                  "name": "Upazila Mosque উপজেলা মসজিদ",
+                  "text": "Die zentrale Moschee des Verwaltungsbezirks für den öffentlichen Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        90.573633,
+                        23.924715
+                  ]
+            },
+            {
+                  "name": "Bagerpara Jame Mosque",
+                  "text": "Eine Nachbarschaftsmoschee für die Bewohner von Bagerpara.",
+                  "category": "landmark",
+                  "coords": [
+                        90.568563,
+                        23.921443
+                  ]
+            },
+            {
+                  "name": "Boronagor Mosque",
+                  "text": "Eine Gemeindemoschee im dörflichen Gebiet von Boronagor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.567563,
+                        23.928788
+                  ]
+            },
+            {
+                  "name": "Nazamuddin Mamber Bari Jame Masjid",
+                  "text": "Eine lokale Moschee, die mit der Familie eines Gemeinderatsmitglieds verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.577176,
+                        23.925456
+                  ]
+            },
+            {
+                  "name": "Chowra purbo para jame mosjid",
+                  "text": "Eine Moschee im östlichen Wohnviertel von Chowra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.580813,
+                        23.932571
+                  ]
+            },
+            {
+                  "name": "Baligaon Eidgah Mosque বালীগাও ঈদ্গাহ মসজিদ",
+                  "text": "Eine Moschee direkt neben dem Festgebetplatz von Baligaon.",
+                  "category": "landmark",
+                  "coords": [
+                        90.581593,
+                        23.927089
+                  ]
+            },
+            {
+                  "name": "RIP Jama Masjid",
+                  "text": "Eine Moschee der Gemeinde für die täglichen gemeinschaftlichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        90.603196,
+                        23.928439
+                  ]
+            },
+            {
+                  "name": "পূবালী জুট মিলস জামি মসজিদ",
+                  "text": "Eine Moschee für die Arbeiter der Pubali-Jutespinnereien.",
+                  "category": "landmark",
+                  "coords": [
+                        90.615404,
+                        23.92578
+                  ]
+            },
+            {
+                  "name": "Kalabagan Masjid কলাবাগান মসজিদ",
+                  "text": "Eine lokale Moschee mit traditioneller Kuppelarchitektur im Wohngebiet von Ghorashal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618389,
+                        23.928631
+                  ]
+            },
+            {
+                  "name": "Kamartek Jame Masjid কামারটেক জামে মাসজিদ",
+                  "text": "Ein markantes Gebetshaus der Gemeinde, das den Gläubigen im Viertel Kamartek dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618527,
+                        23.927717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "A főiskola területén álló emlékmű, amelyet a nyelvmozgalom mártírjainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        90.723357,
+                        23.933498
+                  ]
+            },
+            {
+                  "name": "এমরান সাহেবের মাজার",
+                  "text": "A helyi tekintély, Emran Shaheb szentélye és sírhelye.",
+                  "category": "religious",
+                  "coords": [
+                        90.618165,
+                        23.932842
+                  ]
+            },
+            {
+                  "name": "Baitul fatah mosque",
+                  "text": "Egy helyi mecset, amely napi imádságok helyszínéül szolgál a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        90.709339,
+                        23.933318
+                  ]
+            },
+            {
+                  "name": "sarkar super market",
+                  "text": "Modern, többszintes kereskedelmi központ a helyi vásárlók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68941,
+                        23.912793
+                  ]
+            },
+            {
+                  "name": "সফিউদ্দিন সুপার মার্কেট",
+                  "text": "Forgalmas kereskedelmi épület, amely számos helyi üzletnek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68719,
+                        23.909801
+                  ]
+            },
+            {
+                  "name": "Noakanda Notun Bazar",
+                  "text": "Egy újonnan alapított helyi piac, amely Noakanda környékét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        90.696264,
+                        23.954293
+                  ]
+            },
+            {
+                  "name": "Gozariah Bazar",
+                  "text": "Vidéki piactér, ahol a helyi gazdák és kereskedők gyűlnek össze.",
+                  "category": "cultural",
+                  "coords": [
+                        90.707962,
+                        23.963922
+                  ]
+            },
+            {
+                  "name": "Itakhola Bazar",
+                  "text": "Jelentős kereskedelmi központ a forgalmas Itakhola útkereszteződésnél.",
+                  "category": "cultural",
+                  "coords": [
+                        90.733589,
+                        23.979743
+                  ]
+            },
+            {
+                  "name": "Ghorashal Bazzar",
+                  "text": "Nyüzsgő helyi bazár friss termékekkel és napi árucikkekkel Ghorashalban.",
+                  "category": "cultural",
+                  "coords": [
+                        90.617582,
+                        23.935383
+                  ]
+            },
+            {
+                  "name": "পাঁচদোনা মোড় জামে মসজিদ।",
+                  "text": "Kiemelkedő mecset közvetlenül a forgalmas Panchdona útkereszteződésnél.",
+                  "category": "landmark",
+                  "coords": [
+                        90.664284,
+                        23.893552
+                  ]
+            },
+            {
+                  "name": "Saheprotab Baitun Nur Jame Masjid",
+                  "text": "Közösségi mecset Saheprotab lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.688095,
+                        23.909616
+                  ]
+            },
+            {
+                  "name": "Mill Gaite Jame Masjid",
+                  "text": "Egy mecset a gyárkapu közelében a helyi munkások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70988,
+                        23.941084
+                  ]
+            },
+            {
+                  "name": "Kurerpar Jame Masjid কুড়েরপাড় জামে মসজিদ",
+                  "text": "Helyi istentiszteleti hely Kurerpar negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.712536,
+                        23.945145
+                  ]
+            },
+            {
+                  "name": "BSCIC Jame Masjid বিসিক জামে মসজিদ",
+                  "text": "Mecset a BSCIC ipari park területén a gyári munkások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.709616,
+                        23.947501
+                  ]
+            },
+            {
+                  "name": "Khashmohol Purbopara Jame Masjid",
+                  "text": "Lakóövezeti mecset Khashmohol Purbopara negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70455,
+                        23.943844
+                  ]
+            },
+            {
+                  "name": "Itakhola Jame Mosjid",
+                  "text": "Az Itakhola csomópontnál található mecset utazókat és helyieket egyaránt kiszolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.731866,
+                        23.978927
+                  ]
+            },
+            {
+                  "name": "Mia Bari Mosque",
+                  "text": "A helyi Mia család birtokához tartozó magánmecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.671875,
+                        24.003093
+                  ]
+            },
+            {
+                  "name": "Baghaba Temple Baghaba(Bakshiya) Temple,",
+                  "text": "Hagyományos hindu templom Baghaba helyi közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.654226,
+                        23.926278
+                  ]
+            },
+            {
+                  "name": "Ghunapara Jame Masjid",
+                  "text": "Csendes közösségi mecset Ghunapara negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.591689,
+                        23.924772
+                  ]
+            },
+            {
+                  "name": "Police Lines Jame Masjid",
+                  "text": "A rendőrség lakó- és igazgatási komplexumán belül található mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.690834,
+                        23.91611
+                  ]
+            },
+            {
+                  "name": "Baghata Jame Mosque",
+                  "text": "Helyi közösségi mecset Baghata környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.683701,
+                        23.902177
+                  ]
+            },
+            {
+                  "name": "সাহেপ্রতাব উত্তরপাড়া আল আকসা জামে মসজিদ",
+                  "text": "Mecset Saheprotab északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.689918,
+                        23.913877
+                  ]
+            },
+            {
+                  "name": "Madrasah Jame Mosque",
+                  "text": "Iszlám iskolával egybekötött mecset diákok és helyiek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.68773,
+                        23.910984
+                  ]
+            },
+            {
+                  "name": "Bashail Madrasah Masjid",
+                  "text": "Mecset a bashaili iszlám iskola területén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.704439,
+                        23.929408
+                  ]
+            },
+            {
+                  "name": "Hospital Masjid",
+                  "text": "Kórházi dolgozók és látogatók számára kényelmesen elérhető mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.703162,
+                        23.929765
+                  ]
+            },
+            {
+                  "name": "Thermax Group Jame Masjid",
+                  "text": "A Thermax Group által az alkalmazottai számára épített nagy ipari mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.717379,
+                        23.957952
+                  ]
+            },
+            {
+                  "name": "Upazila Mosque উপজেলা মসজিদ",
+                  "text": "A közigazgatási körzet központi mecsetje a nyilvános istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.573633,
+                        23.924715
+                  ]
+            },
+            {
+                  "name": "Bagerpara Jame Mosque",
+                  "text": "Bagerpara lakóit kiszolgáló szomszédsági mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.568563,
+                        23.921443
+                  ]
+            },
+            {
+                  "name": "Boronagor Mosque",
+                  "text": "Közösségi mecset Boronagor falusi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.567563,
+                        23.928788
+                  ]
+            },
+            {
+                  "name": "Nazamuddin Mamber Bari Jame Masjid",
+                  "text": "A helyi tanácstag családjához kötődő mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.577176,
+                        23.925456
+                  ]
+            },
+            {
+                  "name": "Chowra purbo para jame mosjid",
+                  "text": "Mecset Chowra keleti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.580813,
+                        23.932571
+                  ]
+            },
+            {
+                  "name": "Baligaon Eidgah Mosque বালীগাও ঈদ্গাহ মসজিদ",
+                  "text": "Mecset a baligaoni ünnepi imatér mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        90.581593,
+                        23.927089
+                  ]
+            },
+            {
+                  "name": "RIP Jama Masjid",
+                  "text": "Közösségi mecset a napi közös imádkozásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.603196,
+                        23.928439
+                  ]
+            },
+            {
+                  "name": "পূবালী জুট মিলস জামি মসজিদ",
+                  "text": "A Pubali Jutaüzem munkásait kiszolgáló mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        90.615404,
+                        23.92578
+                  ]
+            },
+            {
+                  "name": "Kalabagan Masjid কলাবাগান মসজিদ",
+                  "text": "Hagyományos kupolás építészetű helyi mecset Ghorashal lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618389,
+                        23.928631
+                  ]
+            },
+            {
+                  "name": "Kamartek Jame Masjid কামারটেক জামে মাসজিদ",
+                  "text": "A közösség kiemelkedő imaháza, amely a Kamartek negyed hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618527,
+                        23.927717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "Un monument situat în incinta colegiului, dedicat martirilor mișcării pentru limbă.",
+                  "category": "historical",
+                  "coords": [
+                        90.723357,
+                        23.933498
+                  ]
+            },
+            {
+                  "name": "এমরান সাহেবের মাজার",
+                  "text": "Un altar sacru și mormântul figurii locale Emran Shaheb.",
+                  "category": "religious",
+                  "coords": [
+                        90.618165,
+                        23.932842
+                  ]
+            },
+            {
+                  "name": "Baitul fatah mosque",
+                  "text": "O moschee locală care oferă spațiu pentru rugăciunile zilnice ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        90.709339,
+                        23.933318
+                  ]
+            },
+            {
+                  "name": "sarkar super market",
+                  "text": "Un centru comercial modern, cu mai multe etaje, pentru cumpărătorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68941,
+                        23.912793
+                  ]
+            },
+            {
+                  "name": "সফিউদ্দিন সুপার মার্কেট",
+                  "text": "O clădire comercială animată care găzduiește diverse magazine locale de retail.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68719,
+                        23.909801
+                  ]
+            },
+            {
+                  "name": "Noakanda Notun Bazar",
+                  "text": "O piață locală recent înființată care deservește zona Noakanda.",
+                  "category": "cultural",
+                  "coords": [
+                        90.696264,
+                        23.954293
+                  ]
+            },
+            {
+                  "name": "Gozariah Bazar",
+                  "text": "O piață rurală unde se adună fermierii și comercianții locali.",
+                  "category": "cultural",
+                  "coords": [
+                        90.707962,
+                        23.963922
+                  ]
+            },
+            {
+                  "name": "Itakhola Bazar",
+                  "text": "Un nod comercial semnificativ situat la intersecția aglomerată Itakhola.",
+                  "category": "cultural",
+                  "coords": [
+                        90.733589,
+                        23.979743
+                  ]
+            },
+            {
+                  "name": "Ghorashal Bazzar",
+                  "text": "Un bazar local plin de viață care oferă produse proaspete și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        90.617582,
+                        23.935383
+                  ]
+            },
+            {
+                  "name": "পাঁচদোনা মোড় জামে মসজিদ।",
+                  "text": "O moschee proeminentă situată chiar la intersecția rutieră aglomerată Panchdona.",
+                  "category": "landmark",
+                  "coords": [
+                        90.664284,
+                        23.893552
+                  ]
+            },
+            {
+                  "name": "Saheprotab Baitun Nur Jame Masjid",
+                  "text": "O moschee comunitară situată în cartierul Saheprotab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.688095,
+                        23.909616
+                  ]
+            },
+            {
+                  "name": "Mill Gaite Jame Masjid",
+                  "text": "O moschee situată lângă poarta fabricii pentru muncitorii de acolo.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70988,
+                        23.941084
+                  ]
+            },
+            {
+                  "name": "Kurerpar Jame Masjid কুড়েরপাড় জামে মসজিদ",
+                  "text": "Un lăcaș de cult local în cartierul Kurerpar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.712536,
+                        23.945145
+                  ]
+            },
+            {
+                  "name": "BSCIC Jame Masjid বিসিক জামে মসজিদ",
+                  "text": "O moschee situată în parcul industrial BSCIC pentru muncitorii din fabrică.",
+                  "category": "landmark",
+                  "coords": [
+                        90.709616,
+                        23.947501
+                  ]
+            },
+            {
+                  "name": "Khashmohol Purbopara Jame Masjid",
+                  "text": "O moschee de zonă rezidențială în secțiunea Purbopara din Khashmohol.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70455,
+                        23.943844
+                  ]
+            },
+            {
+                  "name": "Itakhola Jame Mosjid",
+                  "text": "O moschee care deservește călătorii și localnicii la intersecția Itakhola.",
+                  "category": "landmark",
+                  "coords": [
+                        90.731866,
+                        23.978927
+                  ]
+            },
+            {
+                  "name": "Mia Bari Mosque",
+                  "text": "O moschee privată care aparține domeniului familiei locale Mia.",
+                  "category": "landmark",
+                  "coords": [
+                        90.671875,
+                        24.003093
+                  ]
+            },
+            {
+                  "name": "Baghaba Temple Baghaba(Bakshiya) Temple,",
+                  "text": "Un templu hindu tradițional care deservește comunitatea locală din Baghaba.",
+                  "category": "landmark",
+                  "coords": [
+                        90.654226,
+                        23.926278
+                  ]
+            },
+            {
+                  "name": "Ghunapara Jame Masjid",
+                  "text": "O moschee comunitară liniștită în cartierul Ghunapara.",
+                  "category": "landmark",
+                  "coords": [
+                        90.591689,
+                        23.924772
+                  ]
+            },
+            {
+                  "name": "Police Lines Jame Masjid",
+                  "text": "O moschee situată în complexul rezidențial și administrativ al poliției.",
+                  "category": "landmark",
+                  "coords": [
+                        90.690834,
+                        23.91611
+                  ]
+            },
+            {
+                  "name": "Baghata Jame Mosque",
+                  "text": "O moschee comunitară locală în zona Baghata.",
+                  "category": "landmark",
+                  "coords": [
+                        90.683701,
+                        23.902177
+                  ]
+            },
+            {
+                  "name": "সাহেপ্রতাব উত্তরপাড়া আল আকসা জামে মসজিদ",
+                  "text": "O moschee în partea de nord a cartierului Saheprotab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.689918,
+                        23.913877
+                  ]
+            },
+            {
+                  "name": "Madrasah Jame Mosque",
+                  "text": "O moschee integrată cu o școală islamică pentru studenți și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        90.68773,
+                        23.910984
+                  ]
+            },
+            {
+                  "name": "Bashail Madrasah Masjid",
+                  "text": "O moschee situată pe terenul școlii islamice Bashail.",
+                  "category": "landmark",
+                  "coords": [
+                        90.704439,
+                        23.929408
+                  ]
+            },
+            {
+                  "name": "Hospital Masjid",
+                  "text": "O moschee situată convenabil pentru personalul spitalului și vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        90.703162,
+                        23.929765
+                  ]
+            },
+            {
+                  "name": "Thermax Group Jame Masjid",
+                  "text": "O moschee industrială mare construită de Grupul Thermax pentru angajații săi.",
+                  "category": "landmark",
+                  "coords": [
+                        90.717379,
+                        23.957952
+                  ]
+            },
+            {
+                  "name": "Upazila Mosque উপজেলা মসজিদ",
+                  "text": "Moscheea principală a districtului administrativ pentru cultul public.",
+                  "category": "landmark",
+                  "coords": [
+                        90.573633,
+                        23.924715
+                  ]
+            },
+            {
+                  "name": "Bagerpara Jame Mosque",
+                  "text": "O moschee de cartier care deservește rezidenții din Bagerpara.",
+                  "category": "landmark",
+                  "coords": [
+                        90.568563,
+                        23.921443
+                  ]
+            },
+            {
+                  "name": "Boronagor Mosque",
+                  "text": "O moschee comunitară în zona rurală Boronagor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.567563,
+                        23.928788
+                  ]
+            },
+            {
+                  "name": "Nazamuddin Mamber Bari Jame Masjid",
+                  "text": "O moschee locală asociată cu familia unui membru al consiliului local.",
+                  "category": "landmark",
+                  "coords": [
+                        90.577176,
+                        23.925456
+                  ]
+            },
+            {
+                  "name": "Chowra purbo para jame mosjid",
+                  "text": "O moschee situată în cartierul de est din Chowra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.580813,
+                        23.932571
+                  ]
+            },
+            {
+                  "name": "Baligaon Eidgah Mosque বালীগাও ঈদ্গাহ মসজিদ",
+                  "text": "O moschee situată lângă terenul de rugăciune de sărbătoare din Baligaon.",
+                  "category": "landmark",
+                  "coords": [
+                        90.581593,
+                        23.927089
+                  ]
+            },
+            {
+                  "name": "RIP Jama Masjid",
+                  "text": "O moschee comunitară pentru rugăciunile congregaționale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.603196,
+                        23.928439
+                  ]
+            },
+            {
+                  "name": "পূবালী জুট মিলস জামি মসজিদ",
+                  "text": "O moschee care deservește muncitorii de la fabricile de iută Pubali.",
+                  "category": "landmark",
+                  "coords": [
+                        90.615404,
+                        23.92578
+                  ]
+            },
+            {
+                  "name": "Kalabagan Masjid কলাবাগান মসজিদ",
+                  "text": "O moschee locală cu arhitectură tradițională cu cupolă în zona rezidențială din Ghorashal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618389,
+                        23.928631
+                  ]
+            },
+            {
+                  "name": "Kamartek Jame Masjid কামারটেক জামে মাসজিদ",
+                  "text": "O casă de rugăciune proeminentă a comunității, care deservește credincioșii din cartierul Kamartek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618527,
+                        23.927717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "A memorial on the college campus dedicated to the martyrs of the Language Movement.",
+                  "category": "historical",
+                  "coords": [
+                        90.723357,
+                        23.933498
+                  ]
+            },
+            {
+                  "name": "এমরান সাহেবের মাজার",
+                  "text": "A sacred shrine and the tomb of the local figure Emran Shaheb.",
+                  "category": "religious",
+                  "coords": [
+                        90.618165,
+                        23.932842
+                  ]
+            },
+            {
+                  "name": "Baitul fatah mosque",
+                  "text": "A local mosque providing space for daily prayers within the community.",
+                  "category": "religious",
+                  "coords": [
+                        90.709339,
+                        23.933318
+                  ]
+            },
+            {
+                  "name": "sarkar super market",
+                  "text": "A modern multi-story commercial hub for local shoppers.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68941,
+                        23.912793
+                  ]
+            },
+            {
+                  "name": "সফিউদ্দিন সুপার মার্কেট",
+                  "text": "A busy commercial building hosting various local retail shops.",
+                  "category": "cultural",
+                  "coords": [
+                        90.68719,
+                        23.909801
+                  ]
+            },
+            {
+                  "name": "Noakanda Notun Bazar",
+                  "text": "A newly established local market catering to the Noakanda area.",
+                  "category": "cultural",
+                  "coords": [
+                        90.696264,
+                        23.954293
+                  ]
+            },
+            {
+                  "name": "Gozariah Bazar",
+                  "text": "A rural marketplace where local farmers and traders gather.",
+                  "category": "cultural",
+                  "coords": [
+                        90.707962,
+                        23.963922
+                  ]
+            },
+            {
+                  "name": "Itakhola Bazar",
+                  "text": "A significant trading hub located at the busy Itakhola road junction.",
+                  "category": "cultural",
+                  "coords": [
+                        90.733589,
+                        23.979743
+                  ]
+            },
+            {
+                  "name": "Ghorashal Bazzar",
+                  "text": "A bustling local bazaar offering fresh produce and daily goods in Ghorashal.",
+                  "category": "cultural",
+                  "coords": [
+                        90.617582,
+                        23.935383
+                  ]
+            },
+            {
+                  "name": "পাঁচদোনা মোড় জামে মসজিদ।",
+                  "text": "A prominent mosque located right at the busy Panchdona road intersection.",
+                  "category": "landmark",
+                  "coords": [
+                        90.664284,
+                        23.893552
+                  ]
+            },
+            {
+                  "name": "Saheprotab Baitun Nur Jame Masjid",
+                  "text": "A community mosque in the Saheprotab neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.688095,
+                        23.909616
+                  ]
+            },
+            {
+                  "name": "Mill Gaite Jame Masjid",
+                  "text": "A mosque situated near the mill gate for the industrial workers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70988,
+                        23.941084
+                  ]
+            },
+            {
+                  "name": "Kurerpar Jame Masjid কুড়েরপাড় জামে মসজিদ",
+                  "text": "A local place of worship in the Kurerpar neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.712536,
+                        23.945145
+                  ]
+            },
+            {
+                  "name": "BSCIC Jame Masjid বিসিক জামে মসজিদ",
+                  "text": "A mosque located within the BSCIC industrial estate for factory workers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.709616,
+                        23.947501
+                  ]
+            },
+            {
+                  "name": "Khashmohol Purbopara Jame Masjid",
+                  "text": "A residential area mosque in the Purbopara section of Khashmohol.",
+                  "category": "landmark",
+                  "coords": [
+                        90.70455,
+                        23.943844
+                  ]
+            },
+            {
+                  "name": "Itakhola Jame Mosjid",
+                  "text": "A mosque serving travelers and locals at the Itakhola junction.",
+                  "category": "landmark",
+                  "coords": [
+                        90.731866,
+                        23.978927
+                  ]
+            },
+            {
+                  "name": "Mia Bari Mosque",
+                  "text": "A private estate mosque belonging to the local Mia family.",
+                  "category": "landmark",
+                  "coords": [
+                        90.671875,
+                        24.003093
+                  ]
+            },
+            {
+                  "name": "Baghaba Temple Baghaba(Bakshiya) Temple,",
+                  "text": "A traditional Hindu temple serving the local community in Baghaba.",
+                  "category": "landmark",
+                  "coords": [
+                        90.654226,
+                        23.926278
+                  ]
+            },
+            {
+                  "name": "Ghunapara Jame Masjid",
+                  "text": "A quiet community mosque in the Ghunapara neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.591689,
+                        23.924772
+                  ]
+            },
+            {
+                  "name": "Police Lines Jame Masjid",
+                  "text": "A mosque located within the police residential and administrative complex.",
+                  "category": "landmark",
+                  "coords": [
+                        90.690834,
+                        23.91611
+                  ]
+            },
+            {
+                  "name": "Baghata Jame Mosque",
+                  "text": "A local community mosque in the Baghata area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.683701,
+                        23.902177
+                  ]
+            },
+            {
+                  "name": "সাহেপ্রতাব উত্তরপাড়া আল আকসা জামে মসজিদ",
+                  "text": "A mosque in the northern part of Saheprotab.",
+                  "category": "landmark",
+                  "coords": [
+                        90.689918,
+                        23.913877
+                  ]
+            },
+            {
+                  "name": "Madrasah Jame Mosque",
+                  "text": "A mosque integrated with an Islamic school for students and locals.",
+                  "category": "landmark",
+                  "coords": [
+                        90.68773,
+                        23.910984
+                  ]
+            },
+            {
+                  "name": "Bashail Madrasah Masjid",
+                  "text": "A mosque located on the grounds of the Bashail Islamic school.",
+                  "category": "landmark",
+                  "coords": [
+                        90.704439,
+                        23.929408
+                  ]
+            },
+            {
+                  "name": "Hospital Masjid",
+                  "text": "A mosque conveniently located for hospital staff and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        90.703162,
+                        23.929765
+                  ]
+            },
+            {
+                  "name": "Thermax Group Jame Masjid",
+                  "text": "A large industrial mosque built by the Thermax Group for its employees.",
+                  "category": "landmark",
+                  "coords": [
+                        90.717379,
+                        23.957952
+                  ]
+            },
+            {
+                  "name": "Upazila Mosque উপজেলা মসজিদ",
+                  "text": "The main administrative district mosque for public worship.",
+                  "category": "landmark",
+                  "coords": [
+                        90.573633,
+                        23.924715
+                  ]
+            },
+            {
+                  "name": "Bagerpara Jame Mosque",
+                  "text": "A neighborhood mosque serving the residents of Bagerpara.",
+                  "category": "landmark",
+                  "coords": [
+                        90.568563,
+                        23.921443
+                  ]
+            },
+            {
+                  "name": "Boronagor Mosque",
+                  "text": "A community mosque in the Boronagor village area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.567563,
+                        23.928788
+                  ]
+            },
+            {
+                  "name": "Nazamuddin Mamber Bari Jame Masjid",
+                  "text": "A local mosque associated with the family of a village council member.",
+                  "category": "landmark",
+                  "coords": [
+                        90.577176,
+                        23.925456
+                  ]
+            },
+            {
+                  "name": "Chowra purbo para jame mosjid",
+                  "text": "A mosque located in the eastern neighborhood of Chowra.",
+                  "category": "landmark",
+                  "coords": [
+                        90.580813,
+                        23.932571
+                  ]
+            },
+            {
+                  "name": "Baligaon Eidgah Mosque বালীগাও ঈদ্গাহ মসজিদ",
+                  "text": "A mosque situated next to the Baligaon festival prayer ground.",
+                  "category": "landmark",
+                  "coords": [
+                        90.581593,
+                        23.927089
+                  ]
+            },
+            {
+                  "name": "RIP Jama Masjid",
+                  "text": "A local community mosque for daily congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.603196,
+                        23.928439
+                  ]
+            },
+            {
+                  "name": "পূবালী জুট মিলস জামি মসজিদ",
+                  "text": "A mosque serving the workers of the Pubali Jute Mills.",
+                  "category": "landmark",
+                  "coords": [
+                        90.615404,
+                        23.92578
+                  ]
+            },
+            {
+                  "name": "Kalabagan Masjid কলাবাগান মসজিদ",
+                  "text": "A local neighborhood mosque featuring traditional dome architecture in the Ghorashal residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618389,
+                        23.928631
+                  ]
+            },
+            {
+                  "name": "Kamartek Jame Masjid কামারটেক জামে মাসজিদ",
+                  "text": "A prominent community prayer hall serving the faithful in the Kamartek neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.618527,
+                        23.927717
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Ghorashal", hu: "Ghorashali erőmű", ro: "Centrala electrică Ghorashal", en: "Ghorashal Power Station" },
@@ -678,7 +12207,376 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-ghorashal-power-economic-v2.webp",
   },
   {
-    id: "bangladesh-shahjibazar-power-economic-v2",
+    id: "bangladesh-shahjibazar-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "জননী সংসদ",
+                  "text": "Das Janani Sangsad nahe dem Kraftwerk Shahjibazar ist ein von der Gemeinschaft getragener Ort, der der hinduistischen Mütterverehrung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.478227,
+                        24.272969
+                  ]
+            },
+            {
+                  "name": "Boro Bohula Keramot Mosjid",
+                  "text": "Die Boro Bohula Keramot Mosjid nahe Shahjibazar ist ein islamischer Gebetsort, in dem die lokale dörfliche Gemeinschaft zusammenkommt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.417768,
+                        24.364586
+                  ]
+            },
+            {
+                  "name": "Shahjibazar Power Company Limited Mosjid",
+                  "text": "Diese Moschee befindet sich direkt auf dem Gelände der Shahjibazar Power Company und bietet den muslimischen Kraftwerksarbeitern einen Ort für ihre täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        91.35706,
+                        24.211768
+                  ]
+            },
+            {
+                  "name": "Lalchand Durga Temple",
+                  "text": "Der Lalchand Durga Tempel nahe Shahjibazar ist ein hinduistischer Schrein, an dem die Gläubigen die Kraft der Göttin Durga verehren.",
+                  "category": "landmark",
+                  "coords": [
+                        91.413593,
+                        24.240092
+                  ]
+            },
+            {
+                  "name": "শায়েস্তাগঞ্জ নতুন ব্রীজ মসজিদ",
+                  "text": "Die Shayestaganj New Bridge Mosque liegt verkehrsgünstig an der neuen Brücke und dient Reisenden sowie Einheimischen als islamischer Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        91.476785,
+                        24.266547
+                  ]
+            },
+            {
+                  "name": "Laskarpur Eidgah",
+                  "text": "Das Laskarpur Eidgah ist ein weitläufiger, offener islamischer Gebetsplatz nahe Shahjibazar, der für die großen Gemeindegebete an den Eid-Festen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481369,
+                        24.277235
+                  ]
+            },
+            {
+                  "name": "হবিগঞ্জ কেন্দ্রীয় ঈদগাহ",
+                  "text": "Das Habiganj Central Eidgah ist das zentrale Open-Air-Gebetsfeld der Region, auf dem sich Tausende Muslime zum festlichen Eid-Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        91.418788,
+                        24.365363
+                  ]
+            },
+            {
+                  "name": "Shankarpasha Mosque",
+                  "text": "Die historische Shankarpasha-Moschee bei Shahjibazar besticht durch ihre Terrakotta-Verzierungen, die typisch für die alte bengalisch-islamische Architektur sind.",
+                  "category": "religious",
+                  "coords": [
+                        91.358845,
+                        24.302317
+                  ]
+            },
+            {
+                  "name": "Lalchand Puran Bazar",
+                  "text": "Der Lalchand Puran Bazar nahe Shahjibazar ist ein traditioneller alter Markt, der die ländliche Umgebung mit Waren und Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        91.413705,
+                        24.242596
+                  ]
+            },
+            {
+                  "name": "Sayestanogor Kacha Bazar",
+                  "text": "Der Sayestanogor Kacha Bazar ist ein lokaler Feuchtmarkt nahe Shahjibazar, der auf den täglichen Handel mit frischem Gemüse und verderblichen Lebensmitteln spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.419345,
+                        24.3666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "জননী সংসদ",
+                  "text": "A Shahjibazar erőmű közelében fekvő Janani Sangsad egy közösségi fenntartású hindu hely, amely az isteni anya tiszteletének ad teret.",
+                  "category": "landmark",
+                  "coords": [
+                        91.478227,
+                        24.272969
+                  ]
+            },
+            {
+                  "name": "Boro Bohula Keramot Mosjid",
+                  "text": "A Shahjibazar melletti Boro Bohula Keramot Mosjid egy iszlám imahely, ahol a helyi falusi közösség tartja istentiszteleteit.",
+                  "category": "landmark",
+                  "coords": [
+                        91.417768,
+                        24.364586
+                  ]
+            },
+            {
+                  "name": "Shahjibazar Power Company Limited Mosjid",
+                  "text": "Ez a mecset közvetlenül a Shahjibazar Power Company területén található, és a muszlim erőművi munkások napi imáinak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.35706,
+                        24.211768
+                  ]
+            },
+            {
+                  "name": "Lalchand Durga Temple",
+                  "text": "A Shahjibazar közelében álló Lalchand Durga templom egy hindu szentély, ahol a hívők Durga istennő erejét tisztelik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.413593,
+                        24.240092
+                  ]
+            },
+            {
+                  "name": "শায়েস্তাগঞ্জ নতুন ব্রীজ মসজিদ",
+                  "text": "A Shayestaganj új hídnál fekvő mecset az utazóknak és a helyieknek egyaránt iszlám imateremként szolgál a forgalmas csomópontban.",
+                  "category": "landmark",
+                  "coords": [
+                        91.476785,
+                        24.266547
+                  ]
+            },
+            {
+                  "name": "Laskarpur Eidgah",
+                  "text": "A Laskarpur Eidgah egy tágas, szabadtéri muszlim imahely a Shahjibazar régióban, amely az Eid ünnepekkor fogadja a hatalmas tömeget.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481369,
+                        24.277235
+                  ]
+            },
+            {
+                  "name": "হবিগঞ্জ কেন্দ্রীয় ঈদগাহ",
+                  "text": "A Habiganj Central Eidgah a régió központi szabadtéri imaterülete, ahol muszlimok ezrei gyűlnek össze az ünnepi Eid imára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.418788,
+                        24.365363
+                  ]
+            },
+            {
+                  "name": "Shankarpasha Mosque",
+                  "text": "A Shahjibazar melletti történelmi Shankarpasha mecset a régi bengáli iszlám építészetre jellemző gyönyörű terrakotta díszítéseiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        91.358845,
+                        24.302317
+                  ]
+            },
+            {
+                  "name": "Lalchand Puran Bazar",
+                  "text": "A Shahjibazar közelében fekvő Lalchand Puran Bazar egy hagyományos régi piac, amely árukkal és élelmiszerekkel látja el a vidéki lakosságot.",
+                  "category": "cultural",
+                  "coords": [
+                        91.413705,
+                        24.242596
+                  ]
+            },
+            {
+                  "name": "Sayestanogor Kacha Bazar",
+                  "text": "A Sayestanogor Kacha Bazar egy helyi piac Shahjibazar közelében, amely a friss zöldségek és romlandó élelmiszerek napi kereskedelmére specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        91.419345,
+                        24.3666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "জননী সংসদ",
+                  "text": "Janani Sangsad, situat lângă centrala Shahjibazar, este un spațiu comunitar hindus dedicat venerării divine a figurii materne.",
+                  "category": "landmark",
+                  "coords": [
+                        91.478227,
+                        24.272969
+                  ]
+            },
+            {
+                  "name": "Boro Bohula Keramot Mosjid",
+                  "text": "Boro Bohula Keramot Mosjid, aflată lângă Shahjibazar, este o moschee islamică unde se adună comunitatea satului local.",
+                  "category": "landmark",
+                  "coords": [
+                        91.417768,
+                        24.364586
+                  ]
+            },
+            {
+                  "name": "Shahjibazar Power Company Limited Mosjid",
+                  "text": "Această moschee situată pe terenul Shahjibazar Power Company oferă muncitorilor musulmani de la centrală un loc pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        91.35706,
+                        24.211768
+                  ]
+            },
+            {
+                  "name": "Lalchand Durga Temple",
+                  "text": "Templul hindus Lalchand Durga de lângă Shahjibazar este un sanctuar în care credincioșii venerează puterea zeiței Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        91.413593,
+                        24.240092
+                  ]
+            },
+            {
+                  "name": "শায়েস্তাগঞ্জ নতুন ব্রীজ মসজিদ",
+                  "text": "Moscheea de la noul pod Shayestaganj oferă un spațiu de rugăciune islamic accesibil atât călătorilor, cât și localnicilor.",
+                  "category": "landmark",
+                  "coords": [
+                        91.476785,
+                        24.266547
+                  ]
+            },
+            {
+                  "name": "Laskarpur Eidgah",
+                  "text": "Laskarpur Eidgah este un spațiu deschis de rugăciune islamică lângă Shahjibazar, folosit pentru adunările masive din timpul sărbătorilor Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481369,
+                        24.277235
+                  ]
+            },
+            {
+                  "name": "হবিগঞ্জ কেন্দ্রীয় ঈদগাহ",
+                  "text": "Habiganj Central Eidgah este principala zonă în aer liber din regiune unde mii de musulmani se adună pentru rugăciunile de Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        91.418788,
+                        24.365363
+                  ]
+            },
+            {
+                  "name": "Shankarpasha Mosque",
+                  "text": "Istorica moschee Shankarpasha de lângă Shahjibazar se distinge prin decorațiunile sale din teracotă, tipice arhitecturii islamice bengaleze vechi.",
+                  "category": "religious",
+                  "coords": [
+                        91.358845,
+                        24.302317
+                  ]
+            },
+            {
+                  "name": "Lalchand Puran Bazar",
+                  "text": "Lalchand Puran Bazar de lângă Shahjibazar este o veche piață tradițională care furnizează bunuri și alimente comunității rurale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.413705,
+                        24.242596
+                  ]
+            },
+            {
+                  "name": "Sayestanogor Kacha Bazar",
+                  "text": "Sayestanogor Kacha Bazar este o piață locală de lângă Shahjibazar axată pe comerțul zilnic cu legume proaspete și alimente perisabile.",
+                  "category": "cultural",
+                  "coords": [
+                        91.419345,
+                        24.3666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "জননী সংসদ",
+                  "text": "Janani Sangsad near the Shahjibazar power plant is a community-supported Hindu space dedicated to the spiritual veneration of the mother deity.",
+                  "category": "landmark",
+                  "coords": [
+                        91.478227,
+                        24.272969
+                  ]
+            },
+            {
+                  "name": "Boro Bohula Keramot Mosjid",
+                  "text": "The Boro Bohula Keramot Mosjid near Shahjibazar is an Islamic prayer site anchoring the religious life of the local village community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.417768,
+                        24.364586
+                  ]
+            },
+            {
+                  "name": "Shahjibazar Power Company Limited Mosjid",
+                  "text": "Situated on the grounds of the Shahjibazar Power Company, this mosque provides Muslim power plant workers a dedicated space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.35706,
+                        24.211768
+                  ]
+            },
+            {
+                  "name": "Lalchand Durga Temple",
+                  "text": "The Lalchand Durga Temple near Shahjibazar is a Hindu shrine where devotees gather to honor the power of the goddess Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        91.413593,
+                        24.240092
+                  ]
+            },
+            {
+                  "name": "শায়েস্তাগঞ্জ নতুন ব্রীজ মসজিদ",
+                  "text": "Located conveniently at the new bridge in Shayestaganj, this mosque serves as an accessible Islamic prayer room for travelers and locals alike.",
+                  "category": "landmark",
+                  "coords": [
+                        91.476785,
+                        24.266547
+                  ]
+            },
+            {
+                  "name": "Laskarpur Eidgah",
+                  "text": "Laskarpur Eidgah is an expansive, open-air Islamic prayer ground near Shahjibazar utilized for large congregational prayers during Eid festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481369,
+                        24.277235
+                  ]
+            },
+            {
+                  "name": "Habiganj Central Eidgah",
+                  "text": "The Habiganj Central Eidgah serves as the region's main open-air prayer ground where thousands of Muslims congregate for festive Eid prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.418788,
+                        24.365363
+                  ]
+            },
+            {
+                  "name": "Shankarpasha Mosque",
+                  "text": "The historic Shankarpasha Mosque near Shahjibazar is distinguished by its terracotta ornamentation, typical of ancient Bengali Islamic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        91.358845,
+                        24.302317
+                  ]
+            },
+            {
+                  "name": "Lalchand Puran Bazar",
+                  "text": "The Lalchand Puran Bazar near Shahjibazar is a traditional old marketplace supplying rural communities with everyday goods and provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        91.413705,
+                        24.242596
+                  ]
+            },
+            {
+                  "name": "Sayestanogor Kacha Bazar",
+                  "text": "Sayestanogor Kacha Bazar is a local wet market near Shahjibazar specialized in the daily trade of fresh vegetables and perishable foods.",
+                  "category": "cultural",
+                  "coords": [
+                        91.419345,
+                        24.3666
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Shahjibazar", hu: "Shahjibazar erőmű", ro: "Centrala electrică Shahjibazar", en: "Shahjibazar Power Station" },
@@ -723,7 +12621,772 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-shahjibazar-power-economic-v2.webp",
   },
   {
-    id: "bangladesh-jalalabad-gas-economic-v2",
+    id: "bangladesh-jalalabad-gas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dreamland Amusement & Waterpark",
+                  "text": "Der Dreamland Amusement & Waterpark bietet eine Vielzahl von Wasserrutschen und Familienfahrgeschäften in der Nähe von Jalalabad.",
+                  "category": "recreational",
+                  "coords": [
+                        91.931373,
+                        24.849388
+                  ]
+            },
+            {
+                  "name": "Tobarok Ali Jame Mosque",
+                  "text": "Die Tobarok Ali Jame Moschee ist ein islamischer Gebetssaal der Gemeinde im Wirtschaftsviertel von Jalalabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.92322,
+                        24.905003
+                  ]
+            },
+            {
+                  "name": "Kollogram Jame Mashjid",
+                  "text": "Kollogram Jame Mashjid bietet einen eigenen Raum für islamische Freitagsversammlungen im Herzen des Dorfes Kollogram.",
+                  "category": "landmark",
+                  "coords": [
+                        91.943979,
+                        24.905045
+                  ]
+            },
+            {
+                  "name": "Kollogram Markaj Mashjid",
+                  "text": "Diese Moschee fungiert als zentrales Markaz und beherbergt größere islamische Versammlungen und Gemeindeschulungen in Kollogram.",
+                  "category": "landmark",
+                  "coords": [
+                        91.947415,
+                        24.907954
+                  ]
+            },
+            {
+                  "name": "Gudaura Moshjid",
+                  "text": "Gudaura Moshjid ist ein traditionelles islamisches Gotteshaus, das sich durch seine bescheidene ländliche Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.935013,
+                        24.911101
+                  ]
+            },
+            {
+                  "name": "Rustompur Kendrio Jame Mashjid",
+                  "text": "Als zentrale Moschee von Rustompur koordiniert diese islamische Einrichtung die Hauptgebete der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        91.939345,
+                        24.915777
+                  ]
+            },
+            {
+                  "name": "Islampur Colony Jame Masjid",
+                  "text": "Diese Moschee befindet sich in den Wohnblöcken der Kolonie Islampur und dient den täglichen religiösen Bedürfnissen der Bewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        91.912024,
+                        24.89843
+                  ]
+            },
+            {
+                  "name": "Majortila Jame Masjid",
+                  "text": "Die Majortila Jame Masjid ist eine leicht zugängliche islamische Gebetsstätte, die die Viertel entlang der Hauptstraße versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910609,
+                        24.898528
+                  ]
+            },
+            {
+                  "name": "Jalalabad Cantonment Board Jame Mosque",
+                  "text": "Diese von der Kantonnementbehörde verwaltete, strukturierte islamische Moschee dient Militärangehörigen und lokalen Mitarbeitern.",
+                  "category": "landmark",
+                  "coords": [
+                        91.989293,
+                        24.938846
+                  ]
+            },
+            {
+                  "name": "Molaitila Goilapara Jame Mosque",
+                  "text": "Die Molaitila Goilapara Jame Moschee ist ein von der Gemeinde finanziertes islamisches Zentrum, das gebaut wurde, um die spirituellen Praktiken der lokalen Dorfbewohner zu unterstützen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.975516,
+                        24.93243
+                  ]
+            },
+            {
+                  "name": "সেনানিবাস মসজিদ",
+                  "text": "Die Cantonment-Moschee bietet ein diszipliniertes, friedliches islamisches Gottesdienstumfeld innerhalb der Grenzen des Militärstützpunkts.",
+                  "category": "landmark",
+                  "coords": [
+                        91.980295,
+                        24.936495
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kaium and Islamic Center",
+                  "text": "Die Masjid Al Kaium fungiert sowohl als Moschee als auch als islamisches Zentrum und beherbergt religiöse Vorträge und Bildungsprogramme.",
+                  "category": "landmark",
+                  "coords": [
+                        91.982376,
+                        24.935346
+                  ]
+            },
+            {
+                  "name": "Chuwabohor Sonargaon Jame Mosjid",
+                  "text": "Die Chuwabohor Sonargaon Jame Mosjid ist eine islamische Moschee in der Nachbarschaft mit traditionellen architektonischen Elementen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.979041,
+                        24.932384
+                  ]
+            },
+            {
+                  "name": "চামেলীবাগ জামে মসজিদ",
+                  "text": "Die Chamelibag Jame Masjid ist eine islamische Kultstätte, die der lokalen Gemeinde im Gebiet Jalalabad dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.915512,
+                        24.901676
+                  ]
+            },
+            {
+                  "name": "Sylhet Sadar Upazila Mosque",
+                  "text": "Die Sylhet Sadar Upazila Moschee dient als zentraler islamischer Versammlungsort für die täglichen Gebete im lokalen Bezirk.",
+                  "category": "landmark",
+                  "coords": [
+                        91.930341,
+                        24.909914
+                  ]
+            },
+            {
+                  "name": "Shah Paran (R) High School Jame Mosque",
+                  "text": "Die in der Nähe einer Bildungseinrichtung gelegene Shah Paran (R) High School Jame Mosque bietet Schülern und Einheimischen gleichermaßen einen speziellen Ort der Anbetung.",
+                  "category": "religious",
+                  "coords": [
+                        91.933037,
+                        24.911416
+                  ]
+            },
+            {
+                  "name": "Boitikor Jame Mosque",
+                  "text": "Die Boitikor Jame Moschee ist ein ausgeprägtes muslimisches Heiligtum, das regelmäßigen Gemeinschaftsgebeten und spirituellen Aktivitäten gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.991842,
+                        24.856848
+                  ]
+            },
+            {
+                  "name": "Khandaker Super Market",
+                  "text": "Der Khandaker Super Market ist ein belebter lokaler Marktplatz, auf dem sich die Einwohner zum täglichen Einkaufen und Handel treffen.",
+                  "category": "cultural",
+                  "coords": [
+                        91.926758,
+                        24.90777
+                  ]
+            },
+            {
+                  "name": "মাছ / সবজি বাজার",
+                  "text": "Dieser lebhafte Fisch- und Gemüsemarkt bietet ein tägliches Sortiment an frisch gefangenen Meeresfrüchten und lokalen landwirtschaftlichen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        91.984005,
+                        24.936146
+                  ]
+            },
+            {
+                  "name": "M K Market",
+                  "text": "Der M K Market fungiert als wichtiger Handelsposten in der Region und versorgt die Einwohner mit verschiedenen Einzelhandels- und Lebensmittelprodukten.",
+                  "category": "cultural",
+                  "coords": [
+                        91.969281,
+                        24.92854
+                  ]
+            },
+            {
+                  "name": "Sheguntali Market",
+                  "text": "Der Sheguntali-Markt ist ein beliebtes lokales Einkaufsziel mit Ständen, an denen Waren des täglichen Bedarfs und frische Lebensmittel gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        91.913788,
+                        24.900655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dreamland Amusement & Waterpark",
+                  "text": "A Dreamland Amusement & Waterpark különféle vízi csúszdákkal és családi túrákkal várja a Jalalabad terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        91.931373,
+                        24.849388
+                  ]
+            },
+            {
+                  "name": "Tobarok Ali Jame Mosque",
+                  "text": "A Tobarok Ali Jame mecset egy közösségi iszlám imaterem Jalalabad gazdasági negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.92322,
+                        24.905003
+                  ]
+            },
+            {
+                  "name": "Kollogram Jame Mashjid",
+                  "text": "A Kollogram Jame Mashjid külön teret kínál az iszlám pénteki gyülekezetek számára Kollogram falu szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.943979,
+                        24.905045
+                  ]
+            },
+            {
+                  "name": "Kollogram Markaj Mashjid",
+                  "text": "Központi Markazként működik, ez a mecset nagyobb iszlám összejöveteleknek és közösségi tanulmányoknak ad otthont Kollogramban.",
+                  "category": "landmark",
+                  "coords": [
+                        91.947415,
+                        24.907954
+                  ]
+            },
+            {
+                  "name": "Gudaura Moshjid",
+                  "text": "A Gudaura Moshjid egy hagyományos iszlám istentiszteleti hely, amelyet szerény vidéki építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        91.935013,
+                        24.911101
+                  ]
+            },
+            {
+                  "name": "Rustompur Kendrio Jame Mashjid",
+                  "text": "Rustompur központi mecsetjeként ez az iszlám létesítmény koordinálja a fő közösségi imákat.",
+                  "category": "landmark",
+                  "coords": [
+                        91.939345,
+                        24.915777
+                  ]
+            },
+            {
+                  "name": "Islampur Colony Jame Masjid",
+                  "text": "Az Islampur kolónia lakótömbjein belül található ez a mecset, amely a lakosok napi vallási igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.912024,
+                        24.89843
+                  ]
+            },
+            {
+                  "name": "Majortila Jame Masjid",
+                  "text": "A Majortila Jame Masjid egy könnyen megközelíthető iszlám imádkozóhely, amely a főút menti negyedeket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910609,
+                        24.898528
+                  ]
+            },
+            {
+                  "name": "Jalalabad Cantonment Board Jame Mosque",
+                  "text": "A kantonmenti tanács által kezelt strukturált iszlám mecset a katonai személyzetet és a helyi személyzetet szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        91.989293,
+                        24.938846
+                  ]
+            },
+            {
+                  "name": "Molaitila Goilapara Jame Mosque",
+                  "text": "A Molaitila Goilapara Jame mecset egy közösség által finanszírozott iszlám központ, amely a helyi falusiak spirituális gyakorlatainak támogatására épült.",
+                  "category": "landmark",
+                  "coords": [
+                        91.975516,
+                        24.93243
+                  ]
+            },
+            {
+                  "name": "সেনানিবাস মসজিদ",
+                  "text": "A kantoni mecset fegyelmezett, békés iszlám istentiszteleti környezetet biztosít a katonai bázis határain belül.",
+                  "category": "landmark",
+                  "coords": [
+                        91.980295,
+                        24.936495
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kaium and Islamic Center",
+                  "text": "A Masjid Al Kaium mecsetként és iszlám központként is működik, vallási előadásoknak és oktatási programoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        91.982376,
+                        24.935346
+                  ]
+            },
+            {
+                  "name": "Chuwabohor Sonargaon Jame Mosjid",
+                  "text": "A Chuwabohor Sonargaon Jame Mosjid egy iszlám mecset a környéken hagyományos építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.979041,
+                        24.932384
+                  ]
+            },
+            {
+                  "name": "চামেলীবাগ জামে মসজিদ",
+                  "text": "A Chamelibag Jame Masjid egy iszlám imahely, amely a helyi közösséget szolgálja Dzsalálábád térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.915512,
+                        24.901676
+                  ]
+            },
+            {
+                  "name": "Sylhet Sadar Upazila Mosque",
+                  "text": "A Sylhet Sadar Upazila mecset központi iszlám gyülekezési helyként szolgál a napi imákhoz a helyi kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.930341,
+                        24.909914
+                  ]
+            },
+            {
+                  "name": "Shah Paran (R) High School Jame Mosque",
+                  "text": "Egy oktatási intézmény közelében található a Shah Paran (R) High School Jame mecset, amely a diákok és a helyiek számára egyaránt imahelyet biztosít.",
+                  "category": "religious",
+                  "coords": [
+                        91.933037,
+                        24.911416
+                  ]
+            },
+            {
+                  "name": "Boitikor Jame Mosque",
+                  "text": "A Boitikor Jame mecset egy muszlim szentély, amelyet a rendszeres közösségi imáknak és spirituális tevékenységeknek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        91.991842,
+                        24.856848
+                  ]
+            },
+            {
+                  "name": "Khandaker Super Market",
+                  "text": "A Khandaker Super Market egy nyüzsgő helyi piac, ahol a lakosok a mindennapi vásárlás és a kereskedelem miatt gyűlnek össze.",
+                  "category": "cultural",
+                  "coords": [
+                        91.926758,
+                        24.90777
+                  ]
+            },
+            {
+                  "name": "মাছ / সবজি বাজার",
+                  "text": "Ez a nyüzsgő hal- és zöldségpiac naponta frissen fogott tenger gyümölcseit és helyi mezőgazdasági termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        91.984005,
+                        24.936146
+                  ]
+            },
+            {
+                  "name": "M K Market",
+                  "text": "Az M K Piac létfontosságú kereskedelmi állomásként működik a térségben, különféle kiskereskedelmi és élelmiszeripari termékekkel látva el a lakosságot.",
+                  "category": "cultural",
+                  "coords": [
+                        91.969281,
+                        24.92854
+                  ]
+            },
+            {
+                  "name": "Sheguntali Market",
+                  "text": "A Sheguntali Piac egy kiemelkedő helyi bevásárlóhely, ahol a standok mindennapi cikkekkel és friss élelmiszerekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        91.913788,
+                        24.900655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dreamland Amusement & Waterpark",
+                  "text": "Dreamland Amusement & Waterpark are o varietate de tobogane cu apă și atracții de familie în apropierea zonei Jalalabad.",
+                  "category": "recreational",
+                  "coords": [
+                        91.931373,
+                        24.849388
+                  ]
+            },
+            {
+                  "name": "Tobarok Ali Jame Mosque",
+                  "text": "Moscheea Tobarok Ali Jame este o sală de rugăciune islamică comunitară situată în districtul economic Jalalabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.92322,
+                        24.905003
+                  ]
+            },
+            {
+                  "name": "Kollogram Jame Mashjid",
+                  "text": "Kollogram Jame Mashjid oferă un spațiu dedicat pentru congregațiile islamice de vineri în inima satului Kollogram.",
+                  "category": "landmark",
+                  "coords": [
+                        91.943979,
+                        24.905045
+                  ]
+            },
+            {
+                  "name": "Kollogram Markaj Mashjid",
+                  "text": "Funcționând ca Markaz central, această moschee găzduiește adunări islamice mai mari și studii comunitare în Kollogram.",
+                  "category": "landmark",
+                  "coords": [
+                        91.947415,
+                        24.907954
+                  ]
+            },
+            {
+                  "name": "Gudaura Moshjid",
+                  "text": "Gudaura Moshjid este un loc de cult islamic tradițional caracterizat prin arhitectura sa rurală modestă.",
+                  "category": "landmark",
+                  "coords": [
+                        91.935013,
+                        24.911101
+                  ]
+            },
+            {
+                  "name": "Rustompur Kendrio Jame Mashjid",
+                  "text": "Servind ca moschee centrală din Rustompur, această unitate islamică coordonează principalele rugăciuni ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        91.939345,
+                        24.915777
+                  ]
+            },
+            {
+                  "name": "Islampur Colony Jame Masjid",
+                  "text": "Situată în blocurile rezidențiale ale Coloniei Islampur, această moschee servește nevoile religioase zilnice ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        91.912024,
+                        24.89843
+                  ]
+            },
+            {
+                  "name": "Majortila Jame Masjid",
+                  "text": "Majortila Jame Masjid este un loc de rugăciune islamic ușor accesibil pentru cartierele de-a lungul drumului principal.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910609,
+                        24.898528
+                  ]
+            },
+            {
+                  "name": "Jalalabad Cantonment Board Jame Mosque",
+                  "text": "Administrată de Consiliul de Cantonament, această moschee islamică structurată servește personalul militar și cel local.",
+                  "category": "landmark",
+                  "coords": [
+                        91.989293,
+                        24.938846
+                  ]
+            },
+            {
+                  "name": "Molaitila Goilapara Jame Mosque",
+                  "text": "Moscheea Molaitila Goilapara Jame este un centru islamic finanțat de comunitate, construit pentru a sprijini practicile spirituale ale sătenilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        91.975516,
+                        24.93243
+                  ]
+            },
+            {
+                  "name": "সেনানিবাস মসজিদ",
+                  "text": "Moscheea Cantonment oferă un mediu de cult islamic disciplinat și liniștit în limitele bazei militare.",
+                  "category": "landmark",
+                  "coords": [
+                        91.980295,
+                        24.936495
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kaium and Islamic Center",
+                  "text": "Masjid Al Kaium funcționează atât ca moschee, cât și ca centru islamic, găzduind prelegeri religioase și programe educaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.982376,
+                        24.935346
+                  ]
+            },
+            {
+                  "name": "Chuwabohor Sonargaon Jame Mosjid",
+                  "text": "Chuwabohor Sonargaon Jame Mosjid este o moschee islamică de cartier care prezintă elemente arhitecturale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.979041,
+                        24.932384
+                  ]
+            },
+            {
+                  "name": "চামেলীবাগ জামে মসজিদ",
+                  "text": "Chamelibag Jame Masjid este un lăcaș de cult islamic care deservește comunitatea locală din zona Jalalabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.915512,
+                        24.901676
+                  ]
+            },
+            {
+                  "name": "Sylhet Sadar Upazila Mosque",
+                  "text": "Moscheea Sylhet Sadar Upazila servește ca loc central de adunare islamică pentru rugăciunile zilnice din districtul local.",
+                  "category": "landmark",
+                  "coords": [
+                        91.930341,
+                        24.909914
+                  ]
+            },
+            {
+                  "name": "Shah Paran (R) High School Jame Mosque",
+                  "text": "Situată în apropierea unei instituții de învățământ, Moscheea Jame a liceului Shah Paran (R) oferă un lăcaș de cult dedicat atât elevilor, cât și localnicilor.",
+                  "category": "religious",
+                  "coords": [
+                        91.933037,
+                        24.911416
+                  ]
+            },
+            {
+                  "name": "Boitikor Jame Mosque",
+                  "text": "Moscheea Boitikor Jame este un sanctuar musulman dedicat rugăciunilor comunale regulate și activităților spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        91.991842,
+                        24.856848
+                  ]
+            },
+            {
+                  "name": "Khandaker Super Market",
+                  "text": "Khandaker Super Market este o piață locală plină de viață, unde rezidenții se adună pentru cumpărături de zi cu zi și comerț.",
+                  "category": "cultural",
+                  "coords": [
+                        91.926758,
+                        24.90777
+                  ]
+            },
+            {
+                  "name": "মাছ / সবজি বাজার",
+                  "text": "Această piață vibrantă de pește și legume oferă un sortiment zilnic de fructe de mare proaspăt prinse și produse agricole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.984005,
+                        24.936146
+                  ]
+            },
+            {
+                  "name": "M K Market",
+                  "text": "Piața M K funcționează ca un punct de comerț vital în zonă, aprovizionând rezidenții cu diverse produse cu amănuntul și alimentare.",
+                  "category": "cultural",
+                  "coords": [
+                        91.969281,
+                        24.92854
+                  ]
+            },
+            {
+                  "name": "Sheguntali Market",
+                  "text": "Piața Sheguntali este o destinație proeminentă de cumpărături locale, cu tarabe care comercializează bunuri de zi cu zi și provizii proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        91.913788,
+                        24.900655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dreamland Amusement & Waterpark",
+                  "text": "Dreamland Amusement & Waterpark features a variety of water slides and family rides near the Jalalabad area.",
+                  "category": "recreational",
+                  "coords": [
+                        91.931373,
+                        24.849388
+                  ]
+            },
+            {
+                  "name": "Tobarok Ali Jame Mosque",
+                  "text": "Tobarok Ali Jame Mosque is a community Islamic prayer hall situated within the economic district of Jalalabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.92322,
+                        24.905003
+                  ]
+            },
+            {
+                  "name": "Kollogram Jame Mashjid",
+                  "text": "Kollogram Jame Mashjid offers a dedicated space for Islamic Friday congregations in the heart of Kollogram village.",
+                  "category": "landmark",
+                  "coords": [
+                        91.943979,
+                        24.905045
+                  ]
+            },
+            {
+                  "name": "Kollogram Markaj Mashjid",
+                  "text": "Functioning as the central Markaz, this mosque hosts larger Islamic gatherings and community studies in Kollogram.",
+                  "category": "landmark",
+                  "coords": [
+                        91.947415,
+                        24.907954
+                  ]
+            },
+            {
+                  "name": "Gudaura Moshjid",
+                  "text": "Gudaura Moshjid is a traditional Islamic place of worship characterized by its modest rural architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        91.935013,
+                        24.911101
+                  ]
+            },
+            {
+                  "name": "Rustompur Kendrio Jame Mashjid",
+                  "text": "Serving as the central mosque of Rustompur, this Islamic facility coordinates the main community prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.939345,
+                        24.915777
+                  ]
+            },
+            {
+                  "name": "Islampur Colony Jame Masjid",
+                  "text": "Located within the residential blocks of Islampur Colony, this mosque serves the daily religious needs of the inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        91.912024,
+                        24.89843
+                  ]
+            },
+            {
+                  "name": "Majortila Jame Masjid",
+                  "text": "Majortila Jame Masjid is an easily accessible Islamic prayer site catering to the neighborhoods along the main road.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910609,
+                        24.898528
+                  ]
+            },
+            {
+                  "name": "Jalalabad Cantonment Board Jame Mosque",
+                  "text": "Managed by the Cantonment Board, this structured Islamic mosque serves military personnel and local staff.",
+                  "category": "landmark",
+                  "coords": [
+                        91.989293,
+                        24.938846
+                  ]
+            },
+            {
+                  "name": "Molaitila Goilapara Jame Mosque",
+                  "text": "Molaitila Goilapara Jame Mosque is a community-funded Islamic center built to support the local villagers' spiritual practices.",
+                  "category": "landmark",
+                  "coords": [
+                        91.975516,
+                        24.93243
+                  ]
+            },
+            {
+                  "name": "Cantonment Mosque",
+                  "text": "The Cantonment Mosque provides a disciplined, peaceful Islamic worship environment within the bounds of the military base.",
+                  "category": "landmark",
+                  "coords": [
+                        91.980295,
+                        24.936495
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kaium and Islamic Center",
+                  "text": "Masjid Al Kaium operates both as a mosque and an Islamic center, hosting religious lectures and educational programs.",
+                  "category": "landmark",
+                  "coords": [
+                        91.982376,
+                        24.935346
+                  ]
+            },
+            {
+                  "name": "Chuwabohor Sonargaon Jame Mosjid",
+                  "text": "Chuwabohor Sonargaon Jame Mosjid is a neighborhood Islamic mosque featuring traditional architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        91.979041,
+                        24.932384
+                  ]
+            },
+            {
+                  "name": "চামেলীবাগ জামে মসজিদ",
+                  "text": "The Chamelibag Jame Masjid is an Islamic place of worship serving the local community in the Jalalabad area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.915512,
+                        24.901676
+                  ]
+            },
+            {
+                  "name": "Sylhet Sadar Upazila Mosque",
+                  "text": "The Sylhet Sadar Upazila Mosque serves as a central Islamic gathering place for daily prayers in the local district.",
+                  "category": "landmark",
+                  "coords": [
+                        91.930341,
+                        24.909914
+                  ]
+            },
+            {
+                  "name": "Shah Paran (R) High School Jame Mosque",
+                  "text": "Situated near an educational institution, the Shah Paran (R) High School Jame Mosque provides a dedicated place of worship for students and locals alike.",
+                  "category": "religious",
+                  "coords": [
+                        91.933037,
+                        24.911416
+                  ]
+            },
+            {
+                  "name": "Boitikor Jame Mosque",
+                  "text": "The Boitikor Jame Mosque is a distinct Muslim sanctuary dedicated to regular communal prayers and spiritual activities.",
+                  "category": "religious",
+                  "coords": [
+                        91.991842,
+                        24.856848
+                  ]
+            },
+            {
+                  "name": "Khandaker Super Market",
+                  "text": "Khandaker Super Market is a bustling local marketplace where residents gather for everyday shopping and commercial trade.",
+                  "category": "cultural",
+                  "coords": [
+                        91.926758,
+                        24.90777
+                  ]
+            },
+            {
+                  "name": "Fish/Vegetables Market",
+                  "text": "This vibrant Fish and Vegetables Market offers a daily assortment of freshly caught seafood and local agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        91.984005,
+                        24.936146
+                  ]
+            },
+            {
+                  "name": "M K Market",
+                  "text": "M K Market functions as a vital trading post in the area, supplying residents with various retail and grocery products.",
+                  "category": "cultural",
+                  "coords": [
+                        91.969281,
+                        24.92854
+                  ]
+            },
+            {
+                  "name": "Sheguntali Market",
+                  "text": "Sheguntali Market is a prominent local shopping destination featuring stalls that trade in everyday goods and fresh provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        91.913788,
+                        24.900655
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Gasfeld Jalalabad", hu: "Jalalabad gázmező", ro: "Zăcământul de gaze Jalalabad", en: "Jalalabad Gas Field" },
@@ -768,7 +13431,1024 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-jalalabad-gas-economic-v2.webp",
   },
   {
-    id: "bangladesh-haripur-power-economic-v2",
+    id: "bangladesh-haripur-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sordarpara Jame Masjid",
+                  "text": "Als lokale islamische Kultstätte dient diese Jame-Moschee den täglichen spirituellen Bedürfnissen der umliegenden muslimischen Gemeinde im Gebiet des Kraftwerks Haripur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518172,
+                        23.689183
+                  ]
+            },
+            {
+                  "name": "পশ্চিম ওমরপুর মসজিদ",
+                  "text": "Dieser islamische Gebetssaal dient den religiösen Praktiken der lokalen muslimischen Gemeinde im westlichen Gebiet von Omorpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518558,
+                        23.687345
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ সাইলো রোড জামে মসজিদ",
+                  "text": "An der Silo Road gelegen, bietet diese Jame-Moschee einen regelmäßigen Gebetsraum für die Muslime im Bezirk Siddhirganj.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519048,
+                        23.685656
+                  ]
+            },
+            {
+                  "name": "পূর্ব ওমরপুর মসজিদ",
+                  "text": "Diese lokale Moschee dient dem östlichen Viertel von Omorpur und ist ein spezieller Ort für islamische tägliche Gebete und Gemeindetreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520743,
+                        23.688074
+                  ]
+            },
+            {
+                  "name": "BSRM Regional Sales Office- Jungal",
+                  "text": "Als lokaler religiöser Treffpunkt in Jungal dient diese Kultstätte den spirituellen Aktivitäten der umliegenden Belegschaft und der Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        90.557135,
+                        23.674189
+                  ]
+            },
+            {
+                  "name": "Highway Mosque",
+                  "text": "Diese verkehrsgünstig für Reisende gelegene islamische Moschee am Straßenrand bietet eine friedliche Umgebung für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        90.557657,
+                        23.675557
+                  ]
+            },
+            {
+                  "name": "Sonali Bandar Jame Masjid সোনালী বন্দর জামে মসজিদ",
+                  "text": "Dieses islamische Gemeindezentrum ist ein wesentlicher Anlaufpunkt für das Freitagsgebet der Gläubigen, die in der Nähe des Hafengebiets leben.",
+                  "category": "landmark",
+                  "coords": [
+                        90.539417,
+                        23.690975
+                  ]
+            },
+            {
+                  "name": "Ajibpur Mosque",
+                  "text": "Als Eckpfeiler des Viertels Ajibpur dient diese Moschee als tägliches Heiligtum für die lokalen islamischen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520163,
+                        23.692476
+                  ]
+            },
+            {
+                  "name": "Konapara Jame Mosjid",
+                  "text": "Diese lokale Moschee, die die islamische Gemeinde von Konapara versammelt, zeichnet sich durch ihre regelmäßigen Gebetszeiten und religiösen Studien aus.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519362,
+                        23.691234
+                  ]
+            },
+            {
+                  "name": "Iqbal Group Jame Mosque",
+                  "text": "Diese islamische Moschee wurde eingerichtet, um der Belegschaft und der lokalen Gemeinde zu dienen, und ermöglicht das tägliche Gebet in der Nähe der Industriezone.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518216,
+                        23.690447
+                  ]
+            },
+            {
+                  "name": "Ati Central Jame Masjid",
+                  "text": "Als zentrales religiöses Zentrum in Ati bietet dieses markante islamische Bauwerk großen Gemeinden Platz für Freitagsgebete und Eid-Feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519997,
+                        23.694324
+                  ]
+            },
+            {
+                  "name": "Kachpur Jame Masjid",
+                  "text": "Dieses bedeutende islamische Heiligtum liegt zentral in Kachpur und verfügt über weitläufige Gebetssäle für die wachsende lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522942,
+                        23.705921
+                  ]
+            },
+            {
+                  "name": "Kachpur Daying Baitul Aman Jame Moshjid",
+                  "text": "Diese Jame-Moschee, auch bekannt als Baitul Aman, dient den spirituellen und sozialen Bedürfnissen der muslimischen Bevölkerung, die rund um das Färbereigebiet von Kachpur lebt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519571,
+                        23.708715
+                  ]
+            },
+            {
+                  "name": "Babe jannay Dewanbag shorif",
+                  "text": "Dieses bemerkenswerte Gotteshaus, ein spirituelles Heiligtum, bietet einen ruhigen Raum für Kontemplation und religiöse Zeremonien der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        90.542438,
+                        23.691711
+                  ]
+            },
+            {
+                  "name": "Shiddhirganj Power Station Eidgah",
+                  "text": "Dieser Open-Air-Eidgah bietet den lokalen Muslimen einen riesigen Versammlungsplatz, um während der halbjährlichen Eid-Feste ihre gemeinsamen Gebete zu verrichten.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51948,
+                        23.682307
+                  ]
+            },
+            {
+                  "name": "Kanchpur Jame Masjid",
+                  "text": "Diese wichtige lokale Kultstätte ist Austragungsort großer Freitagsgemeinden aus dem Industrieviertel Kanchpur.",
+                  "category": "religious",
+                  "coords": [
+                        90.530656,
+                        23.700571
+                  ]
+            },
+            {
+                  "name": "জমির খাঁন জামে মসজিদ",
+                  "text": "Dieses engagierte islamische Gebetshaus dient als spiritueller Anker für die umliegende Gemeinde und legt den Schwerpunkt auf regelmäßige religiöse Lehren.",
+                  "category": "religious",
+                  "coords": [
+                        90.532212,
+                        23.698149
+                  ]
+            },
+            {
+                  "name": "খাসপাড়া বাগবাড়ী জামে মসজিদ",
+                  "text": "Eingebettet in die Khaspara Bagbari-Gegend, empfängt diese spirituelle Kultstätte muslimische Bewohner für ununterbrochene tägliche Andachten.",
+                  "category": "religious",
+                  "coords": [
+                        90.530864,
+                        23.696992
+                  ]
+            },
+            {
+                  "name": "Kanchpur Landing Station Baitul Mamur Jame Masjid",
+                  "text": "In der Nähe der Landestation gelegen, bietet diese islamische Moschee ein gut gepflegtes Heiligtum für Durchreisende und einheimische Gläubige gleichermaßen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517387,
+                        23.700132
+                  ]
+            },
+            {
+                  "name": "DnD Project Jame Mosque",
+                  "text": "Diese islamische Moschee wurde parallel zum lokalen Infrastrukturprojekt entwickelt und ermöglicht Gemeinderegebete für Anwohner und Bauarbeiter.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516178,
+                        23.699302
+                  ]
+            },
+            {
+                  "name": "কাঁচপুর সেনপাড়া জামে মসজিদ",
+                  "text": "Als fester Bestandteil der Senpara-Gemeinde in Kanchpur wird diese islamische Kultstätte häufig während des Freitagsgebets besucht.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519055,
+                        23.703747
+                  ]
+            },
+            {
+                  "name": "ভূমি পল্লী জামে মসজিদ",
+                  "text": "In der Enklave Bhumi Polly gelegen, dient diese traditionelle islamische Moschee als Hauptstandort für die lokale religiöse Führung.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51227,
+                        23.696852
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ কবরস্থান মসজিদ",
+                  "text": "Diese islamische Moschee befindet sich neben dem Friedhof und bietet regelmäßige Trauergebete und Trost für die Hinterbliebenen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512993,
+                        23.689311
+                  ]
+            },
+            {
+                  "name": "Kazi Para Bazar",
+                  "text": "Ein geschäftiger Marktplatz in der Nachbarschaft, auf dem Händler eine Reihe frischer Produkte und wichtige Gebrauchsgüter verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        90.576351,
+                        23.684772
+                  ]
+            },
+            {
+                  "name": "Modonpur Bazar",
+                  "text": "Dieser aktive Marktplatz dient der Gemeinde Modonpur und zeichnet sich durch zahlreiche Stände aus, an denen farbenfrohe lokale Lebensmittel angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        90.547145,
+                        23.690511
+                  ]
+            },
+            {
+                  "name": "Hazi Store",
+                  "text": "Als unverzichtbarer lokaler Marktstand bietet er der umliegenden Gemeinde einen schnellen Anlaufpunkt für Dinge des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        90.545923,
+                        23.69032
+                  ]
+            },
+            {
+                  "name": "Kanchpur Kacha Bazar",
+                  "text": "Ein lebhafter Frischwarenmarkt in Kanchpur, auf dem sich die Einheimischen regelmäßig treffen, um Gemüse und Fleisch der Saison zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        90.521976,
+                        23.706776
+                  ]
+            },
+            {
+                  "name": "1 No.Shukkur Super Market",
+                  "text": "Dieser markante Marktplatz mit mehreren Verkäufern bietet eine große Auswahl an Einzelhandelsartikeln und Dingen des täglichen Bedarfs für die regionale Bevölkerung.",
+                  "category": "cultural",
+                  "coords": [
+                        90.514315,
+                        23.68869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sordarpara Jame Masjid",
+                  "text": "Ez a helyi iszlám istentiszteleti hely, a Jame-mecset a Haripur erőmű területén élő muszlim közösség napi spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518172,
+                        23.689183
+                  ]
+            },
+            {
+                  "name": "পশ্চিম ওমরপুর মসজিদ",
+                  "text": "Ez az iszlám imaterem a nyugat-omorpur-i muszlim gyülekezet vallási gyakorlatait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518558,
+                        23.687345
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ সাইলো রোড জামে মসজিদ",
+                  "text": "A Silo Road mentén található Jame mecset rendszeres gyülekezeti imateret biztosít a Siddhirganj negyed muszlimjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519048,
+                        23.685656
+                  ]
+            },
+            {
+                  "name": "পূর্ব ওমরপুর মসজিদ",
+                  "text": "A kelet-omorpur-i negyedet kiszolgáló helyi mecset az iszlám napi imák és közösségi összejövetelek dedikált helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520743,
+                        23.688074
+                  ]
+            },
+            {
+                  "name": "BSRM Regional Sales Office- Jungal",
+                  "text": "Ez a Jungalban található helyi vallási gyülekezőhely a környező munkaerő és a lakosok spirituális tevékenységeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        90.557135,
+                        23.674189
+                  ]
+            },
+            {
+                  "name": "Highway Mosque",
+                  "text": "Az utazók számára kényelmesen megközelíthető iszlám útmenti mecset békés környezetet kínál a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.557657,
+                        23.675557
+                  ]
+            },
+            {
+                  "name": "Sonali Bandar Jame Masjid সোনালী বন্দর জামে মসজিদ",
+                  "text": "Ez az iszlám gyülekezeti központ a kikötőnegyed közelében élő hívők pénteki imáinak alapvető fókuszpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.539417,
+                        23.690975
+                  ]
+            },
+            {
+                  "name": "Ajibpur Mosque",
+                  "text": "Az Ajibpur negyed sarokköveként ez a mecset a helyi iszlám hívők napi szentélyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520163,
+                        23.692476
+                  ]
+            },
+            {
+                  "name": "Konapara Jame Mosjid",
+                  "text": "A Konapara iszlám közösségét összefogó helyi mecsetet a rendszeres imarend és a vallási tanulmányi foglalkozások jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519362,
+                        23.691234
+                  ]
+            },
+            {
+                  "name": "Iqbal Group Jame Mosque",
+                  "text": "A munkaerő és a helyi közösség kiszolgálására létrehozott iszlám mecset megkönnyíti a napi imádkozást az ipari övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518216,
+                        23.690447
+                  ]
+            },
+            {
+                  "name": "Ati Central Jame Masjid",
+                  "text": "Ati központi vallási központjaként ez a kiemelkedő iszlám építmény nagy gyülekezeteknek ad helyet a pénteki imák és az Eid-ünnepségek alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519997,
+                        23.694324
+                  ]
+            },
+            {
+                  "name": "Kachpur Jame Masjid",
+                  "text": "Ez a Kachpur központjában található jelentős iszlám szentély kiterjedt imatermekkel rendelkezik a növekvő helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522942,
+                        23.705921
+                  ]
+            },
+            {
+                  "name": "Kachpur Daying Baitul Aman Jame Moshjid",
+                  "text": "A Baitul Amanként is ismert Jame mecset a kachpuri festőipar környékén élő muszlim lakosság spirituális és társadalmi igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519571,
+                        23.708715
+                  ]
+            },
+            {
+                  "name": "Babe jannay Dewanbag shorif",
+                  "text": "Jelentős istentiszteleti helyként ez a spirituális szentély nyugodt teret kínál az elmélkedéshez és a közösségi vallási szertartásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        90.542438,
+                        23.691711
+                  ]
+            },
+            {
+                  "name": "Shiddhirganj Power Station Eidgah",
+                  "text": "Ez a szabadtéri Eidgah hatalmas gyülekezési teret biztosít a helyi muszlimok számára, hogy a félévenkénti Eid fesztiválok idején közösen imádkozhassanak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51948,
+                        23.682307
+                  ]
+            },
+            {
+                  "name": "Kanchpur Jame Masjid",
+                  "text": "A jelentős helyi vallási helyszín hatalmas pénteki gyülekezeteket fogad Kanchpur ipari negyedéből.",
+                  "category": "religious",
+                  "coords": [
+                        90.530656,
+                        23.700571
+                  ]
+            },
+            {
+                  "name": "জমির খাঁন জামে মসজিদ",
+                  "text": "Ez a dedikált iszlám imaház a környező közösség spirituális horgonyaként szolgál, hangsúlyozva a rendszeres vallási tanításokat.",
+                  "category": "religious",
+                  "coords": [
+                        90.532212,
+                        23.698149
+                  ]
+            },
+            {
+                  "name": "খাসপাড়া বাগবাড়ী জামে মসজিদ",
+                  "text": "A Khaspara Bagbari területén megbúvó spirituális istentiszteleti hely a muszlim lakosokat várja a zavartalan napi áhítatokra.",
+                  "category": "religious",
+                  "coords": [
+                        90.530864,
+                        23.696992
+                  ]
+            },
+            {
+                  "name": "Kanchpur Landing Station Baitul Mamur Jame Masjid",
+                  "text": "A leszállóállomás közelében található iszlám mecset jól karbantartott szentélyt kínál az átutazóknak és a helyi hívőknek egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517387,
+                        23.700132
+                  ]
+            },
+            {
+                  "name": "DnD Project Jame Mosque",
+                  "text": "A helyi infrastrukturális projekt mellett fejlesztett iszlám mecset megkönnyíti a közös imákat a lakosok és az építőszemélyzet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516178,
+                        23.699302
+                  ]
+            },
+            {
+                  "name": "কাঁচপুর সেনপাড়া জামে মসজিদ",
+                  "text": "A kachpuri Senpara közösség szerves részét képező iszlám istentiszteleti helyet gyakran látogatják a pénteki Jum'ah imák idején.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519055,
+                        23.703747
+                  ]
+            },
+            {
+                  "name": "ভূমি পল্লী জামে মসজিদ",
+                  "text": "A Bhumi Polly enklávén belül található hagyományos iszlám mecset a helyi vallási útmutatás elsődleges helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51227,
+                        23.696852
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ কবরস্থান মসজিদ",
+                  "text": "A temető mellett található iszlám mecsetben rendszeres temetési imákat tartanak, és vigasztalást nyújtanak a gyászoló családoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512993,
+                        23.689311
+                  ]
+            },
+            {
+                  "name": "Kazi Para Bazar",
+                  "text": "Nyüzsgő környékbeli piac, ahol az árusok friss termékek és alapvető árucikkek sorával kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        90.576351,
+                        23.684772
+                  ]
+            },
+            {
+                  "name": "Modonpur Bazar",
+                  "text": "Ez az aktív piac a Modonpur közösséget szolgálja ki, melyet színes helyi élelmiszereket kínáló számos stand jellemez.",
+                  "category": "cultural",
+                  "coords": [
+                        90.547145,
+                        23.690511
+                  ]
+            },
+            {
+                  "name": "Hazi Store",
+                  "text": "Létfontosságú helyi piaci bódéként működik, és a környező közösség számára gyors megállót biztosít a napi cikkek beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        90.545923,
+                        23.69032
+                  ]
+            },
+            {
+                  "name": "Kanchpur Kacha Bazar",
+                  "text": "Kanchpur nyüzsgő friss élelmiszerpiaca, ahol a helyiek rendszeresen összegyűlnek, hogy szezonális zöldségeket és húsokat vásároljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        90.521976,
+                        23.706776
+                  ]
+            },
+            {
+                  "name": "1 No.Shukkur Super Market",
+                  "text": "Ez a kiemelkedő, több eladóval rendelkező piac a kiskereskedelmi cikkek és a napi szükségleti cikkek széles választékát kínálja a regionális lakosság számára.",
+                  "category": "cultural",
+                  "coords": [
+                        90.514315,
+                        23.68869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sordarpara Jame Masjid",
+                  "text": "Ca lăcaș de cult islamic local, această moschee Jame deservește nevoile spirituale zilnice ale comunității musulmane din zona centralei electrice Haripur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518172,
+                        23.689183
+                  ]
+            },
+            {
+                  "name": "পশ্চিম ওমরপুর মসজিদ",
+                  "text": "Această sală de rugăciune islamică răspunde practicilor religioase ale congregației musulmane locale din zona de vest a Omorpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518558,
+                        23.687345
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ সাইলো রোড জামে মসজিদ",
+                  "text": "Situată de-a lungul Silo Road, această moschee Jame oferă un spațiu regulat de rugăciune pentru congregația musulmană din districtul Siddhirganj.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519048,
+                        23.685656
+                  ]
+            },
+            {
+                  "name": "পূর্ব ওমরপুর মসজিদ",
+                  "text": "Deservind cartierul estic Omorpur, această moschee locală este un loc dedicat rugăciunilor zilnice islamice și adunărilor comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520743,
+                        23.688074
+                  ]
+            },
+            {
+                  "name": "BSRM Regional Sales Office- Jungal",
+                  "text": "Funcționând ca un loc de adunare religioasă locală în Jungal, acest lăcaș de cult răspunde activităților spirituale ale forței de muncă și ale rezidenților din împrejurimi.",
+                  "category": "religious",
+                  "coords": [
+                        90.557135,
+                        23.674189
+                  ]
+            },
+            {
+                  "name": "Highway Mosque",
+                  "text": "Poziționată convenabil pentru călători, această moschee islamică de pe marginea drumului oferă un mediu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.557657,
+                        23.675557
+                  ]
+            },
+            {
+                  "name": "Sonali Bandar Jame Masjid সোনালী বন্দর জামে মসজিদ",
+                  "text": "Acest centru al congregației islamice este un punct focal esențial pentru rugăciunile de vineri ale credincioșilor care locuiesc în apropierea zonei portuare.",
+                  "category": "landmark",
+                  "coords": [
+                        90.539417,
+                        23.690975
+                  ]
+            },
+            {
+                  "name": "Ajibpur Mosque",
+                  "text": "O piatră de temelie a cartierului Ajibpur, această moschee funcționează ca un sanctuar zilnic pentru închinătorii islamici locali.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520163,
+                        23.692476
+                  ]
+            },
+            {
+                  "name": "Konapara Jame Mosjid",
+                  "text": "Adunând comunitatea islamică din Konapara, această moschee locală se caracterizează prin programele sale regulate de rugăciune și sesiunile de studiu religios.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519362,
+                        23.691234
+                  ]
+            },
+            {
+                  "name": "Iqbal Group Jame Mosque",
+                  "text": "Înființată pentru a deservi forța de muncă și comunitatea locală, această moschee islamică facilitează rugăciunile zilnice în apropierea zonei industriale.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518216,
+                        23.690447
+                  ]
+            },
+            {
+                  "name": "Ati Central Jame Masjid",
+                  "text": "Ca un hub religios central în Ati, această structură islamică proeminentă găzduiește congregații mari pentru rugăciunile de vineri și sărbătorile Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519997,
+                        23.694324
+                  ]
+            },
+            {
+                  "name": "Kachpur Jame Masjid",
+                  "text": "Situat central în Kachpur, acest sanctuar islamic major dispune de săli de rugăciune extinse pentru comunitatea locală în creștere.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522942,
+                        23.705921
+                  ]
+            },
+            {
+                  "name": "Kachpur Daying Baitul Aman Jame Moshjid",
+                  "text": "Cunoscută și sub numele de Baitul Aman, această moschee Jame deservește nevoile spirituale și sociale ale populației musulmane care locuiește în zona industriei vopsirii din Kachpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519571,
+                        23.708715
+                  ]
+            },
+            {
+                  "name": "Babe jannay Dewanbag shorif",
+                  "text": "Un lăcaș de cult notabil, acest sanctuar spiritual oferă un spațiu liniștit pentru contemplare și ceremonii religioase comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        90.542438,
+                        23.691711
+                  ]
+            },
+            {
+                  "name": "Shiddhirganj Power Station Eidgah",
+                  "text": "Acest Eidgah în aer liber oferă un spațiu vast de adunare pentru musulmanii locali pentru a efectua rugăciunile comune în timpul festivalurilor bianuale Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51948,
+                        23.682307
+                  ]
+            },
+            {
+                  "name": "Kanchpur Jame Masjid",
+                  "text": "Un loc religios local cheie, acest lăcaș de cult găzduiește congregații mari de vineri din cartierul industrial Kanchpur.",
+                  "category": "religious",
+                  "coords": [
+                        90.530656,
+                        23.700571
+                  ]
+            },
+            {
+                  "name": "জমির খাঁন জামে মসজিদ",
+                  "text": "Această casă de rugăciune islamică dedicată servește ca ancoră spirituală pentru comunitatea din jur, subliniind învățăturile religioase regulate.",
+                  "category": "religious",
+                  "coords": [
+                        90.532212,
+                        23.698149
+                  ]
+            },
+            {
+                  "name": "খাসপাড়া বাগবাড়ী জামে মসজিদ",
+                  "text": "Amplasat în zona Khaspara Bagbari, acest lăcaș spiritual de cult primește rezidenții musulmani pentru devoțiuni zilnice neîntrerupte.",
+                  "category": "religious",
+                  "coords": [
+                        90.530864,
+                        23.696992
+                  ]
+            },
+            {
+                  "name": "Kanchpur Landing Station Baitul Mamur Jame Masjid",
+                  "text": "Situată aproape de stația de debarcare, această moschee islamică oferă un sanctuar bine întreținut pentru călătorii tranzitorii și pentru credincioșii locali deopotrivă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517387,
+                        23.700132
+                  ]
+            },
+            {
+                  "name": "DnD Project Jame Mosque",
+                  "text": "Dezvoltată alături de proiectul de infrastructură locală, această moschee islamică facilitează rugăciunile comunitare pentru rezidenți și personalul de construcții.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516178,
+                        23.699302
+                  ]
+            },
+            {
+                  "name": "কাঁচপুর সেনপাড়া জামে মসজিদ",
+                  "text": "Integrant al comunității Senpara din Kanchpur, acest lăcaș de cult islamic este vizitat frecvent în timpul rugăciunilor de vineri Jum'ah.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519055,
+                        23.703747
+                  ]
+            },
+            {
+                  "name": "ভূমি পল্লী জামে মসজিদ",
+                  "text": "Situată în enclava Bhumi Polly, această moschee islamică tradițională servește ca locație principală pentru îndrumarea religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51227,
+                        23.696852
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ কবরস্থান মসজিদ",
+                  "text": "Situată lângă cimitir, această moschee islamică găzduiește rugăciuni funerare regulate și oferă confort familiilor îndoliate.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512993,
+                        23.689311
+                  ]
+            },
+            {
+                  "name": "Kazi Para Bazar",
+                  "text": "O piață de cartier plină de viață, unde vânzătorii comercializează o gamă largă de produse proaspete și mărfuri esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.576351,
+                        23.684772
+                  ]
+            },
+            {
+                  "name": "Modonpur Bazar",
+                  "text": "Această piață activă deservește comunitatea Modonpur, caracterizată de numeroase tarabe care oferă alimente locale colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        90.547145,
+                        23.690511
+                  ]
+            },
+            {
+                  "name": "Hazi Store",
+                  "text": "Funcționând ca o tarabă esențială pe piața locală, oferă comunității din jur o oprire rapidă pentru bunurile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        90.545923,
+                        23.69032
+                  ]
+            },
+            {
+                  "name": "Kanchpur Kacha Bazar",
+                  "text": "O piață vibrantă de alimente proaspete în Kanchpur, unde localnicii se adună în mod regulat pentru a cumpăra legume de sezon și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        90.521976,
+                        23.706776
+                  ]
+            },
+            {
+                  "name": "1 No.Shukkur Super Market",
+                  "text": "Această piață proeminentă cu mai mulți furnizori oferă o gamă largă de articole cu amănuntul și necesități zilnice pentru populația regională.",
+                  "category": "cultural",
+                  "coords": [
+                        90.514315,
+                        23.68869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sordarpara Jame Masjid",
+                  "text": "A local Islamic place of worship, this Jame mosque serves the daily spiritual needs of the surrounding Muslim community in the Haripur power station area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518172,
+                        23.689183
+                  ]
+            },
+            {
+                  "name": "পশ্চিম ওমরপুর মসজিদ",
+                  "text": "This Islamic prayer hall caters to the religious practices of the local Muslim congregation in the western Omorpur area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518558,
+                        23.687345
+                  ]
+            },
+            {
+                  "name": "সিদ্ধিরগঞ্জ সাইলো রোড জামে মসজিদ",
+                  "text": "Situated along Silo Road, this Jame mosque provides a regular congregational prayer space for Muslims in the Siddhirganj district.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519048,
+                        23.685656
+                  ]
+            },
+            {
+                  "name": "পূর্ব ওমরপুর মসজিদ",
+                  "text": "Serving the eastern Omorpur neighborhood, this local mosque is a dedicated site for Islamic daily prayers and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520743,
+                        23.688074
+                  ]
+            },
+            {
+                  "name": "BSRM Regional Sales Office- Jungal",
+                  "text": "Operating as a local religious gathering spot in Jungal, this place of worship caters to the spiritual activities of the surrounding workforce and residents.",
+                  "category": "religious",
+                  "coords": [
+                        90.557135,
+                        23.674189
+                  ]
+            },
+            {
+                  "name": "Highway Mosque",
+                  "text": "Conveniently positioned for travelers, this roadside Islamic mosque offers a peaceful environment for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.557657,
+                        23.675557
+                  ]
+            },
+            {
+                  "name": "Sonali Bandar Jame Masjid সোনালী বন্দর জামে মসজিদ",
+                  "text": "This Islamic congregation center is an essential focal point for Friday prayers among the faithful residing near the port area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.539417,
+                        23.690975
+                  ]
+            },
+            {
+                  "name": "Ajibpur Mosque",
+                  "text": "A cornerstone of the Ajibpur neighborhood, this mosque functions as a daily sanctuary for local Islamic worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.520163,
+                        23.692476
+                  ]
+            },
+            {
+                  "name": "Konapara Jame Mosjid",
+                  "text": "Gathering the Islamic community of Konapara, this local mosque is characterized by its regular prayer schedules and religious study sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519362,
+                        23.691234
+                  ]
+            },
+            {
+                  "name": "Iqbal Group Jame Mosque",
+                  "text": "Established to serve the workforce and local community, this Islamic mosque facilitates daily prayers near the industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        90.518216,
+                        23.690447
+                  ]
+            },
+            {
+                  "name": "Ati Central Jame Masjid",
+                  "text": "As a central religious hub in Ati, this prominent Islamic structure accommodates large congregations for Friday prayers and Eid celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519997,
+                        23.694324
+                  ]
+            },
+            {
+                  "name": "Kachpur Jame Masjid",
+                  "text": "Situated centrally in Kachpur, this major Islamic sanctuary features extensive prayer halls for the growing local community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.522942,
+                        23.705921
+                  ]
+            },
+            {
+                  "name": "Kachpur Daying Baitul Aman Jame Moshjid",
+                  "text": "Also known as Baitul Aman, this Jame mosque serves the spiritual and social needs of the Muslim population residing around the Kachpur dyeing industry area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519571,
+                        23.708715
+                  ]
+            },
+            {
+                  "name": "Babe jannay Dewanbag shorif",
+                  "text": "A notable place of worship, this spiritual sanctuary offers a tranquil space for contemplation and community religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        90.542438,
+                        23.691711
+                  ]
+            },
+            {
+                  "name": "Shiddhirganj Power Station Eidgah",
+                  "text": "This open-air Eidgah provides a vast gathering space for local Muslims to perform their communal prayers during the biannual Eid festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51948,
+                        23.682307
+                  ]
+            },
+            {
+                  "name": "Kanchpur Jame Masjid",
+                  "text": "A key local religious site, this place of worship hosts large Friday congregations from the industrial neighborhood of Kanchpur.",
+                  "category": "religious",
+                  "coords": [
+                        90.530656,
+                        23.700571
+                  ]
+            },
+            {
+                  "name": "জমির খাঁন জামে মসজিদ",
+                  "text": "This dedicated Islamic prayer house serves as a spiritual anchor for its surrounding community, emphasizing regular religious teachings.",
+                  "category": "religious",
+                  "coords": [
+                        90.532212,
+                        23.698149
+                  ]
+            },
+            {
+                  "name": "খাসপাড়া বাগবাড়ী জামে মসজিদ",
+                  "text": "Nestled in the Khaspara Bagbari area, this spiritual place of worship welcomes Muslim residents for uninterrupted daily devotions.",
+                  "category": "religious",
+                  "coords": [
+                        90.530864,
+                        23.696992
+                  ]
+            },
+            {
+                  "name": "Kanchpur Landing Station Baitul Mamur Jame Masjid",
+                  "text": "Sited close to the landing station, this Islamic mosque offers a well-maintained sanctuary for transient travelers and local believers alike.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517387,
+                        23.700132
+                  ]
+            },
+            {
+                  "name": "DnD Project Jame Mosque",
+                  "text": "Developed alongside the local infrastructure project, this Islamic mosque facilitates community prayers for residents and construction staff.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516178,
+                        23.699302
+                  ]
+            },
+            {
+                  "name": "Kanchpur Senpara Jamee Masque",
+                  "text": "Integral to the Senpara community in Kanchpur, this Islamic place of worship is frequently visited during Friday Jum'ah prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.519055,
+                        23.703747
+                  ]
+            },
+            {
+                  "name": "Bhumi Polly Jame Masjid",
+                  "text": "Found within the Bhumi Polly enclave, this traditional Islamic mosque serves as the primary location for local religious guidance.",
+                  "category": "landmark",
+                  "coords": [
+                        90.51227,
+                        23.696852
+                  ]
+            },
+            {
+                  "name": "Siddhirganj Graveyard Mosque",
+                  "text": "Located adjacent to the cemetery, this Islamic mosque holds regular funeral prayers and offers comfort to bereaved families.",
+                  "category": "landmark",
+                  "coords": [
+                        90.512993,
+                        23.689311
+                  ]
+            },
+            {
+                  "name": "Kazi Para Bazar",
+                  "text": "A bustling neighborhood marketplace where vendors trade an array of fresh produce and essential commodities.",
+                  "category": "cultural",
+                  "coords": [
+                        90.576351,
+                        23.684772
+                  ]
+            },
+            {
+                  "name": "Modonpur Bazar",
+                  "text": "This active marketplace serves the Modonpur community, characterized by numerous stalls offering colorful local groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        90.547145,
+                        23.690511
+                  ]
+            },
+            {
+                  "name": "Hazi Store",
+                  "text": "Operating as an essential local marketplace stall, it provides the surrounding community with a quick stop for daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.545923,
+                        23.69032
+                  ]
+            },
+            {
+                  "name": "Kanchpur Kacha Bazar",
+                  "text": "A vibrant fresh food marketplace in Kanchpur where locals regularly gather to purchase seasonal vegetables and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        90.521976,
+                        23.706776
+                  ]
+            },
+            {
+                  "name": "1 No.Shukkur Super Market",
+                  "text": "This prominent multi-vendor marketplace offers a wide selection of retail items and daily necessities for the regional population.",
+                  "category": "cultural",
+                  "coords": [
+                        90.514315,
+                        23.68869
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Kraftwerk Haripur", hu: "Haripuri erőmű", ro: "Centrala electrică Haripur", en: "Haripur Power Plant" },
@@ -813,7 +14493,700 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-haripur-power-economic-v2.webp",
   },
   {
-    id: "bangladesh-nasirabad-industrial-economic-v2",
+    id: "bangladesh-nasirabad-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biplob uddan monument",
+                  "text": "Ein Gedenkgarten und Denkmal in Nasirabad, das an den revolutionären Geist erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        91.823536,
+                        22.366349
+                  ]
+            },
+            {
+                  "name": "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
+                  "text": "Eine Kunstgalerie in Chattogram, die zeitgenössische Werke und Gemälde lokaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        91.816131,
+                        22.361528
+                  ]
+            },
+            {
+                  "name": "Photobank Gallery, Concord Khulshi Town Center, Zakir Hossain Rd, Chattogram",
+                  "text": "Eine Galerie im Khulshi Town Center, die auf Fotokunst und visuelle Medien spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        91.812593,
+                        22.361735
+                  ]
+            },
+            {
+                  "name": "পূর্ব নাসিরাবাদ জামে মসজিদ",
+                  "text": "Eine prominente Moschee im Osten Nasirabads, die einen wichtigen Treffpunkt für Gläubige darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.815322,
+                        22.372639
+                  ]
+            },
+            {
+                  "name": "Forest Research Jame Mosjid",
+                  "text": "Eine Moschee in der Nähe des Forstforschungsinstituts, die von Forschern und Anwohnern genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        91.828086,
+                        22.370945
+                  ]
+            },
+            {
+                  "name": "Oli Mia Khan Jame Masjid, Chittagong - Rangamati Hwy, Chattogram",
+                  "text": "Eine traditionelle Moschee direkt am Highway zwischen Chattogram und Rangamati.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830697,
+                        22.379332
+                  ]
+            },
+            {
+                  "name": "Hazrat Hamza Khan (RA) Shahi Jame Masjid, Hamjarbag Rd, Chattogram",
+                  "text": "Eine historische Moschee im Shahi-Architekturstil, die für ihre elegante Bauweise in Hamjarbag bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831693,
+                        22.376087
+                  ]
+            },
+            {
+                  "name": "Tayebia Jame Mosjid",
+                  "text": "Eine lokale Moschee für tägliche Gebete, die ein Zentrum der muslimischen Gemeinschaft im Viertel ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833322,
+                        22.373601
+                  ]
+            },
+            {
+                  "name": "Syed Nesar Ahmed Jame Mosque, Mohammedpur Road, Railgate no.1, Chattogram",
+                  "text": "Diese Moschee liegt direkt am Railgate Nr. 1 und dient den Gläubigen im Industriegebiet von Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.834222,
+                        22.371512
+                  ]
+            },
+            {
+                  "name": "South Khulshi Jame Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Wohnviertel South Khulshi in Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812511,
+                        22.357019
+                  ]
+            },
+            {
+                  "name": "Omargani MES University College Jame Masjid, Zakir Hossain Rd, Chattogram",
+                  "text": "Diese Moschee befindet sich auf dem Gelände des Omargani MES University College.",
+                  "category": "landmark",
+                  "coords": [
+                        91.81666,
+                        22.36057
+                  ]
+            },
+            {
+                  "name": "Almas Khatun Jame Masjid, Zakir Hossain By Ln, Chattogram",
+                  "text": "Ein lokales muslimisches Gotteshaus in der Zakir Hossain Lane in Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82002,
+                        22.362755
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Mosque",
+                  "text": "Eine große Moschee in Nasirabad, die als wichtiges Zentrum für das Freitagsgebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.820772,
+                        22.364763
+                  ]
+            },
+            {
+                  "name": "Baitush Salam Jame Mosque",
+                  "text": "Ein ruhiges muslimisches Gotteshaus im Herzen des Stadtteils Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.818413,
+                        22.365164
+                  ]
+            },
+            {
+                  "name": "Muradpur Jame Masjid",
+                  "text": "Diese Moschee liegt nahe dem Verkehrsknotenpunkt Muradpur und dient der lokalen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830177,
+                        22.367985
+                  ]
+            },
+            {
+                  "name": "Nasirabad Mosque",
+                  "text": "Die zentrale Gebetsstätte für Muslime im Wohn- und Industriegebiet von Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.827557,
+                        22.366158
+                  ]
+            },
+            {
+                  "name": "Shantidhara R/A Jame Masjid",
+                  "text": "Eine Gemeindemoschee innerhalb des Shantidhara-Wohngebiets in Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.819865,
+                        22.360796
+                  ]
+            },
+            {
+                  "name": "Bibirhat Kacha Bazar Market, Hathazari Rd, Chattogram",
+                  "text": "Ein traditioneller Markt für frische Lebensmittel an der Hathazari Road in Nasirabad.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83223,
+                        22.375062
+                  ]
+            },
+            {
+                  "name": "Baby Super Market",
+                  "text": "Ein bekanntes lokales Einkaufszentrum im belebten Viertel Nasirabad.",
+                  "category": "cultural",
+                  "coords": [
+                        91.818109,
+                        22.368997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biplob uddan monument",
+                  "text": "Nasirabadban található emlékkert és emlékmű, amely a forradalmi szellemiségnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        91.823536,
+                        22.366349
+                  ]
+            },
+            {
+                  "name": "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
+                  "text": "Művészeti galéria Chattogramban, amely helyi művészek kortárs alkotásait és festményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        91.816131,
+                        22.361528
+                  ]
+            },
+            {
+                  "name": "Photobank Gallery, Concord Khulshi Town Center, Zakir Hossain Rd, Chattogram",
+                  "text": "A Khulshi Town Centerben található galéria, amely fotóművészetre és vizuális médiára szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        91.812593,
+                        22.361735
+                  ]
+            },
+            {
+                  "name": "পূর্ব নাসিরাবাদ জামে মসজিদ",
+                  "text": "Kelet-Nasirabad egyik kiemelkedő mecsetje, amely a hívők fontos gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        91.815322,
+                        22.372639
+                  ]
+            },
+            {
+                  "name": "Forest Research Jame Mosjid",
+                  "text": "Az Erdészeti Kutatóintézet közelében található mecset, amelyet kutatók és a környék lakói látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.828086,
+                        22.370945
+                  ]
+            },
+            {
+                  "name": "Oli Mia Khan Jame Masjid, Chittagong - Rangamati Hwy, Chattogram",
+                  "text": "Hagyományos mecset közvetlenül a Chattogram és Rangamati közötti országút mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830697,
+                        22.379332
+                  ]
+            },
+            {
+                  "name": "Hazrat Hamza Khan (RA) Shahi Jame Masjid, Hamjarbag Rd, Chattogram",
+                  "text": "Történelmi mecset Shahi építészeti stílusban, amely elegáns kialakításáról ismert Hamjarbagban.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831693,
+                        22.376087
+                  ]
+            },
+            {
+                  "name": "Tayebia Jame Mosjid",
+                  "text": "Helyi mecset a napi imádságokhoz, amely a környék muszlim közösségének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833322,
+                        22.373601
+                  ]
+            },
+            {
+                  "name": "Syed Nesar Ahmed Jame Mosque, Mohammedpur Road, Railgate no.1, Chattogram",
+                  "text": "Ez a mecset közvetlenül az 1-es vasúti átjárónál található Nasirabad ipari negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.834222,
+                        22.371512
+                  ]
+            },
+            {
+                  "name": "South Khulshi Jame Mosque",
+                  "text": "Muszlim imaház Nasirabad South Khulshi lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812511,
+                        22.357019
+                  ]
+            },
+            {
+                  "name": "Omargani MES University College Jame Masjid, Zakir Hossain Rd, Chattogram",
+                  "text": "Ez a mecset az Omargani MES University College campuszán található.",
+                  "category": "landmark",
+                  "coords": [
+                        91.81666,
+                        22.36057
+                  ]
+            },
+            {
+                  "name": "Almas Khatun Jame Masjid, Zakir Hossain By Ln, Chattogram",
+                  "text": "Helyi muszlim imaház a Nasirabad negyedbeli Zakir Hossain közben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82002,
+                        22.362755
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Mosque",
+                  "text": "Nagyméretű mecset Nasirabadban, amely a pénteki imádságok egyik fő helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        91.820772,
+                        22.364763
+                  ]
+            },
+            {
+                  "name": "Baitush Salam Jame Mosque",
+                  "text": "Békés muszlim imaház Nasirabad városrész szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.818413,
+                        22.365164
+                  ]
+            },
+            {
+                  "name": "Muradpur Jame Masjid",
+                  "text": "Ez a mecset a Muradpur közlekedési csomópont közelében található, a helyi közösséget szolgálva.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830177,
+                        22.367985
+                  ]
+            },
+            {
+                  "name": "Nasirabad Mosque",
+                  "text": "Nasirabad lakó- és ipari negyedének központi muszlim imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        91.827557,
+                        22.366158
+                  ]
+            },
+            {
+                  "name": "Shantidhara R/A Jame Masjid",
+                  "text": "Közösségi mecset a nasirabadi Shantidhara lakópark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        91.819865,
+                        22.360796
+                  ]
+            },
+            {
+                  "name": "Bibirhat Kacha Bazar Market, Hathazari Rd, Chattogram",
+                  "text": "Hagyományos frissáru-piac a nasirabadi Hathazari úton.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83223,
+                        22.375062
+                  ]
+            },
+            {
+                  "name": "Baby Super Market",
+                  "text": "Ismert helyi bevásárlóközpont Nasirabad nyüzsgő negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        91.818109,
+                        22.368997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biplob uddan monument",
+                  "text": "O grădină memorială și un monument în Nasirabad care onorează spiritul revoluționar.",
+                  "category": "historical",
+                  "coords": [
+                        91.823536,
+                        22.366349
+                  ]
+            },
+            {
+                  "name": "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
+                  "text": "O galerie de artă în Chattogram care expune lucrări contemporane și picturi ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        91.816131,
+                        22.361528
+                  ]
+            },
+            {
+                  "name": "Photobank Gallery, Concord Khulshi Town Center, Zakir Hossain Rd, Chattogram",
+                  "text": "O galerie în Khulshi Town Center, specializată în arta fotografică și media vizuală.",
+                  "category": "museum",
+                  "coords": [
+                        91.812593,
+                        22.361735
+                  ]
+            },
+            {
+                  "name": "পূর্ব নাসিরাবাদ জামে মসজিদ",
+                  "text": "O moschee proeminentă în estul Nasirabadului, reprezentând un punct important de întâlnire pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        91.815322,
+                        22.372639
+                  ]
+            },
+            {
+                  "name": "Forest Research Jame Mosjid",
+                  "text": "O moschee situată lângă institutul de cercetări forestiere, frecventată de cercetători și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        91.828086,
+                        22.370945
+                  ]
+            },
+            {
+                  "name": "Oli Mia Khan Jame Masjid, Chittagong - Rangamati Hwy, Chattogram",
+                  "text": "O moschee tradițională situată chiar pe autostrada dintre Chattogram și Rangamati.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830697,
+                        22.379332
+                  ]
+            },
+            {
+                  "name": "Hazrat Hamza Khan (RA) Shahi Jame Masjid, Hamjarbag Rd, Chattogram",
+                  "text": "O moschee istorică în stil arhitectural Shahi, cunoscută pentru designul său elegant în Hamjarbag.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831693,
+                        22.376087
+                  ]
+            },
+            {
+                  "name": "Tayebia Jame Mosjid",
+                  "text": "O moschee locală pentru rugăciunile zilnice, fiind un centru al comunității musulmane din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833322,
+                        22.373601
+                  ]
+            },
+            {
+                  "name": "Syed Nesar Ahmed Jame Mosque, Mohammedpur Road, Railgate no.1, Chattogram",
+                  "text": "Această moschee este situată chiar lângă poarta feroviară nr. 1 din zona industrială Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.834222,
+                        22.371512
+                  ]
+            },
+            {
+                  "name": "South Khulshi Jame Mosque",
+                  "text": "Un lăcaș de rugăciune musulman situat în zona rezidențială South Khulshi din Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812511,
+                        22.357019
+                  ]
+            },
+            {
+                  "name": "Omargani MES University College Jame Masjid, Zakir Hossain Rd, Chattogram",
+                  "text": "Această moschee se află în incinta colegiului universitar Omargani MES.",
+                  "category": "landmark",
+                  "coords": [
+                        91.81666,
+                        22.36057
+                  ]
+            },
+            {
+                  "name": "Almas Khatun Jame Masjid, Zakir Hossain By Ln, Chattogram",
+                  "text": "Un lăcaș de cult musulman local situat pe aleea Zakir Hossain din Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82002,
+                        22.362755
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Mosque",
+                  "text": "O moschee mare din Nasirabad, care servește ca centru important pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        91.820772,
+                        22.364763
+                  ]
+            },
+            {
+                  "name": "Baitush Salam Jame Mosque",
+                  "text": "Un lăcaș de cult musulman liniștit situat în inima districtului Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.818413,
+                        22.365164
+                  ]
+            },
+            {
+                  "name": "Muradpur Jame Masjid",
+                  "text": "Această moschee este situată lângă nodul de transport Muradpur, deservind comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830177,
+                        22.367985
+                  ]
+            },
+            {
+                  "name": "Nasirabad Mosque",
+                  "text": "Principalul lăcaș de rugăciune pentru musulmani din zona rezidențială și industrială Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.827557,
+                        22.366158
+                  ]
+            },
+            {
+                  "name": "Shantidhara R/A Jame Masjid",
+                  "text": "O moschee comunitară situată în zona rezidențială Shantidhara din Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.819865,
+                        22.360796
+                  ]
+            },
+            {
+                  "name": "Bibirhat Kacha Bazar Market, Hathazari Rd, Chattogram",
+                  "text": "O piață tradițională de produse proaspete situată pe drumul Hathazari din Nasirabad.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83223,
+                        22.375062
+                  ]
+            },
+            {
+                  "name": "Baby Super Market",
+                  "text": "Un centru comercial local cunoscut în cartierul plin de viață Nasirabad.",
+                  "category": "cultural",
+                  "coords": [
+                        91.818109,
+                        22.368997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biplob uddan monument",
+                  "text": "A memorial garden and monument in Nasirabad celebrating the spirit of revolution.",
+                  "category": "historical",
+                  "coords": [
+                        91.823536,
+                        22.366349
+                  ]
+            },
+            {
+                  "name": "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
+                  "text": "An art gallery in Chattogram showcasing contemporary works and paintings by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        91.816131,
+                        22.361528
+                  ]
+            },
+            {
+                  "name": "Photobank Gallery, Concord Khulshi Town Center, Zakir Hossain Rd, Chattogram",
+                  "text": "A gallery located in the Khulshi Town Center specializing in photographic art and visual media.",
+                  "category": "museum",
+                  "coords": [
+                        91.812593,
+                        22.361735
+                  ]
+            },
+            {
+                  "name": "Purbo Nasirabad Jame Mosjid",
+                  "text": "A prominent mosque in East Nasirabad, serving as a major gathering point for worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.815322,
+                        22.372639
+                  ]
+            },
+            {
+                  "name": "Forest Research Jame Mosjid",
+                  "text": "A mosque located near the forest research institute, used by researchers and local residents alike.",
+                  "category": "landmark",
+                  "coords": [
+                        91.828086,
+                        22.370945
+                  ]
+            },
+            {
+                  "name": "Oli Mia Khan Jame Masjid, Chittagong - Rangamati Hwy, Chattogram",
+                  "text": "A traditional mosque situated directly on the highway between Chattogram and Rangamati.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830697,
+                        22.379332
+                  ]
+            },
+            {
+                  "name": "Hazrat Hamza Khan (RA) Shahi Jame Masjid, Hamjarbag Rd, Chattogram",
+                  "text": "A historic mosque built in the Shahi architectural style, known for its elegant design in Hamjarbag.",
+                  "category": "landmark",
+                  "coords": [
+                        91.831693,
+                        22.376087
+                  ]
+            },
+            {
+                  "name": "Tayebia Jame Mosjid",
+                  "text": "A local mosque for daily prayers, serving as a center for the neighborhood's Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.833322,
+                        22.373601
+                  ]
+            },
+            {
+                  "name": "Syed Nesar Ahmed Jame Mosque, Mohammedpur Road, Railgate no.1, Chattogram",
+                  "text": "This mosque is located right by Railgate No. 1, serving the faithful in the Nasirabad industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.834222,
+                        22.371512
+                  ]
+            },
+            {
+                  "name": "South Khulshi Jame Mosque",
+                  "text": "A Muslim place of worship situated in the South Khulshi residential area of Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812511,
+                        22.357019
+                  ]
+            },
+            {
+                  "name": "Omargani MES University College Jame Masjid, Zakir Hossain Rd, Chattogram",
+                  "text": "This mosque is located within the campus grounds of the Omargani MES University College.",
+                  "category": "landmark",
+                  "coords": [
+                        91.81666,
+                        22.36057
+                  ]
+            },
+            {
+                  "name": "Almas Khatun Jame Masjid, Zakir Hossain By Ln, Chattogram",
+                  "text": "A local Muslim house of worship located on Zakir Hossain Lane in Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.82002,
+                        22.362755
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Mosque",
+                  "text": "A large mosque in Nasirabad that serves as a major center for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.820772,
+                        22.364763
+                  ]
+            },
+            {
+                  "name": "Baitush Salam Jame Mosque",
+                  "text": "A peaceful Muslim house of worship located in the heart of the Nasirabad district.",
+                  "category": "landmark",
+                  "coords": [
+                        91.818413,
+                        22.365164
+                  ]
+            },
+            {
+                  "name": "Muradpur Jame Masjid",
+                  "text": "This mosque is situated near the Muradpur traffic hub, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.830177,
+                        22.367985
+                  ]
+            },
+            {
+                  "name": "Nasirabad Mosque",
+                  "text": "The central place of worship for Muslims in the Nasirabad residential and industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.827557,
+                        22.366158
+                  ]
+            },
+            {
+                  "name": "Shantidhara R/A Jame Masjid",
+                  "text": "A community mosque located within the Shantidhara residential area of Nasirabad.",
+                  "category": "landmark",
+                  "coords": [
+                        91.819865,
+                        22.360796
+                  ]
+            },
+            {
+                  "name": "Bibirhat Kacha Bazar Market, Hathazari Rd, Chattogram",
+                  "text": "A traditional fresh produce market located on Hathazari Road in Nasirabad.",
+                  "category": "cultural",
+                  "coords": [
+                        91.83223,
+                        22.375062
+                  ]
+            },
+            {
+                  "name": "Baby Super Market",
+                  "text": "A well-known local retail center in the busy Nasirabad neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        91.818109,
+                        22.368997
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Nasirabad", hu: "Nasirabad ipari negyed", ro: "Zona industrială Nasirabad", en: "Nasirabad Industrial Area" },
@@ -858,7 +15231,1348 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-nasirabad-industrial-economic-v2.webp",
   },
   {
-    id: "bangladesh-kalurghat-industrial-economic-v2",
+    id: "bangladesh-kalurghat-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "কালুরঘাট সেতু",
+                  "text": "Die historische Kalurghat-Brücke ist eine kombinierte Eisenbahn- und Straßenbrücke, die sich über den Fluss Karnaphuli spannt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.88903,
+                        22.395891
+                  ]
+            },
+            {
+                  "name": "Bengura Shah Kabiria Darbar Sharif",
+                  "text": "Bengura Shah Kabiria Darbar Sharif ist ein architektonischer Komplex, der als spirituelles Heiligtum mit markanten burgähnlichen Merkmalen dient.",
+                  "category": "castle",
+                  "coords": [
+                        91.937308,
+                        22.354253
+                  ]
+            },
+            {
+                  "name": "Bengura Senior Madrasah Mosque",
+                  "text": "Die Bengura Senior Madrasah Moschee ist ein islamisches Lern- und Gebetszentrum, das die spirituellen Bedürfnisse der lokalen Schüler und Bewohner unterstützt.",
+                  "category": "religious",
+                  "coords": [
+                        91.937715,
+                        22.356534
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Diese lokale Masjid bietet der Gemeinde im Industriegebiet von Kalurghat einen speziellen Ort für Gebet und spirituelle Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        91.896782,
+                        22.417627
+                  ]
+            },
+            {
+                  "name": "মনহুর আলি চৌধুরি জামে মসজিদ",
+                  "text": "Die Monhur Ali Chowdhury Jame Moschee ist ein bedeutendes islamisches Heiligtum, in dem regelmäßig Gemeinschaftsgebete im Viertel stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        91.870407,
+                        22.398856
+                  ]
+            },
+            {
+                  "name": "Kalurghat Maach Bazar",
+                  "text": "Der Kalurghat Maach Bazar ist ein belebter Fischmarkt, auf dem Händler frischen Fang direkt aus dem nahe gelegenen Fluss und den Küstengewässern verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        91.884212,
+                        22.397655
+                  ]
+            },
+            {
+                  "name": "Mohora",
+                  "text": "Mohora ist ein aktiver kommerzieller Marktplatz, der einen zentralen Handelsplatz für tägliche Vorräte und regionale Waren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.867011,
+                        22.401536
+                  ]
+            },
+            {
+                  "name": "Zaman market জামান বাজার",
+                  "text": "Der Zaman Market ist ein traditionelles Einzelhandelszentrum mit zahlreichen Geschäften, die den täglichen Einkaufsbedarf der lokalen Gemeinde decken.",
+                  "category": "cultural",
+                  "coords": [
+                        91.924714,
+                        22.442311
+                  ]
+            },
+            {
+                  "name": "Gashchi Naya Hut গশ্চি নয়া হাট Chittagong - Kaptai Rd",
+                  "text": "Die an der Chittagong-Kaptai Road gelegene Gashchi Naya Hut ist ein lebhafter Marktplatz, der sowohl Reisenden als auch Einheimischen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        91.945284,
+                        22.451336
+                  ]
+            },
+            {
+                  "name": "Shorif Market",
+                  "text": "Der Shorif Market fungiert als praktisches Einkaufsviertel mit verschiedenen Ständen und Geschäften für den täglichen Bedarf der Nachbarschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        91.865948,
+                        22.421614
+                  ]
+            },
+            {
+                  "name": "Madina Shopping Complex",
+                  "text": "Der Madina Shopping Complex bietet ein strukturiertes Einzelhandelsumfeld mit diversen Geschäften für Kleidung, Elektronik und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        91.871149,
+                        22.433746
+                  ]
+            },
+            {
+                  "name": "N. I city এন আমি শহর",
+                  "text": "N. I City ist ein bedeutender kommerzieller Marktplatz, der für die Unterstützung mehrerer Verkäufer konzipiert wurde, die Produkte für den täglichen Lebensbedarf und Lebensmittel anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        91.905711,
+                        22.440162
+                  ]
+            },
+            {
+                  "name": "Mia market",
+                  "text": "Der Mia Market ist ein traditioneller Gemeindebasar, auf dem Einheimische frische Produkte und Grundbedarfsgüter des täglichen Lebens einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        91.91204,
+                        22.441766
+                  ]
+            },
+            {
+                  "name": "BS Plaza",
+                  "text": "BS Plaza ist ein mehrstöckiges Einkaufszentrum mit einer Reihe von Einzelhandelsgeschäften und Handelsunternehmen für die Region.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908528,
+                        22.441791
+                  ]
+            },
+            {
+                  "name": "Al Falah Jaame Masjid, Kaptai Rd, Chattogram",
+                  "text": "Die an der Kaptai Road gelegene Al Falah Jaame Masjid ist ein aktiver muslimischer Gottesdienstraum, der die lokale Gemeinde zu Gemeinschaftsgebeten willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867396,
+                        22.42421
+                  ]
+            },
+            {
+                  "name": "Bathua Central Jame Masjeed, Haji Neyamot Ali Rd, Chattogram",
+                  "text": "Die Bathua Central Jame Masjeed an der Haji Neyamot Ali Road dient als wichtigster islamischer Gebetssaal für religiöse Feierlichkeiten in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865197,
+                        22.422561
+                  ]
+            },
+            {
+                  "name": "Subedar Masjid",
+                  "text": "Die Subedar Masjid ist ein auf die Gemeinschaft ausgerichtetes muslimisches Gebetszentrum, das eine ruhige Umgebung für tägliche religiöse Andachten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.874918,
+                        22.422548
+                  ]
+            },
+            {
+                  "name": "Al Aqsa Jame Masjid, Abdul hakim mistri bari, Chattogram",
+                  "text": "Die Al Aqsa Jame Masjid, die sich in der Nähe der Abdul Hakim mistri bari befindet, fungiert als lokales Heiligtum für tägliche islamische Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867862,
+                        22.427914
+                  ]
+            },
+            {
+                  "name": "Akbar shah (R) Jame Masjid",
+                  "text": "Diese Versammlungsmoschee dient der örtlichen muslimischen Gemeinde im Industriegebiet Kalurghat und bietet einen ruhigen Gebetsraum inmitten des städtischen Trubels.",
+                  "category": "landmark",
+                  "coords": [
+                        91.858843,
+                        22.4445
+                  ]
+            },
+            {
+                  "name": "আলহাজ্ব দেলোয়ার হোসেন সও: জামে মসজিদ",
+                  "text": "Diese islamische Versammlungsmoschee verfügt über traditionelle Gebetssäle, die auf die spirituellen Bedürfnisse der Bewohner von Kalurghat zugeschnitten sind.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944347,
+                        22.353085
+                  ]
+            },
+            {
+                  "name": "হযরত ইউসুফ আহমেদ শাহ (ক:) মাজার শরীফ",
+                  "text": "Dieser islamische Schrein ist Hazrat Yusuf Ahmed Shah gewidmet und dient als friedlicher Pilgerort, an dem sich Gläubige zu Sufi-Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944036,
+                        22.3457
+                  ]
+            },
+            {
+                  "name": "Raja Khan Jame Mosque",
+                  "text": "Diese islamische Moschee wurde für große Freitagsversammlungen erbaut und verfügt über einen markanten Gebetssaal, der der Industriegemeinde Kalurghat dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.87722,
+                        22.412025
+                  ]
+            },
+            {
+                  "name": "Purbo Mohra Jame Masjid",
+                  "text": "Dieses islamische Gotteshaus im Viertel Purbo Mohra fungiert als zentraler spiritueller Knotenpunkt für die täglichen Gebete vor Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        91.887104,
+                        22.405772
+                  ]
+            },
+            {
+                  "name": "চট্টগ্রাম দরবার শরীফ",
+                  "text": "Dieser islamische Darbar Sharif dient als bedeutender Sufi-Versammlungsort in Chittagong und bietet spirituelle Führung und gemeinsame Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911393,
+                        22.409948
+                  ]
+            },
+            {
+                  "name": "কালুরঘাট জামে মসজিদ",
+                  "text": "Diese prominente islamische Moschee liegt zentral im Kalurghat-Gebiet und heißt örtliche Arbeiter und Anwohner zu regelmäßigen religiösen Versammlungen willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.886273,
+                        22.397007
+                  ]
+            },
+            {
+                  "name": "Srimad Shawmi Taranandha Mohakali Yogaahsrom",
+                  "text": "Dieses spirituelle Zentrum fungiert als hinduistischer Ashram und konzentriert sich auf Yoga-Praktiken und die Verehrung der Göttin Mohakali.",
+                  "category": "landmark",
+                  "coords": [
+                        91.888233,
+                        22.401794
+                  ]
+            },
+            {
+                  "name": "Ejhar Chawdhury Jame Mosjid, Unnamed Road, Chattogram",
+                  "text": "Eingebettet in ein Wohnviertel von Chattogram ist diese islamische Nachbarschaftsmoschee hauptsächlich den gemeinsamen Freitagsgebeten gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869173,
+                        22.395672
+                  ]
+            },
+            {
+                  "name": "Siddiquia Nezamiya Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Diese islamische religiöse Stätte, die nach der Siddiquia Nezamiya-Tradition geführt wird, pflegt durch tägliche Gemeindegebete starke Gemeinschaftsbindungen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867968,
+                        22.398106
+                  ]
+            },
+            {
+                  "name": "Hazrat Shamsuddin Auliya (RA): Jame Masjid, Road, Mazar Gate, Rangunia, Chattogram",
+                  "text": "Dieser islamische Moschee- und Schreinkomplex am Mazar Gate ehrt den verehrten Sufi-Heiligen Hazrat Shamsuddin Auliya.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868502,
+                        22.400689
+                  ]
+            },
+            {
+                  "name": "Abu Bakar Jame masjid, Mukim Kha Chowdhury house, Chattogram",
+                  "text": "In der Nähe des historischen Hauses Mukim Kha Chowdhury gelegen, bewahrt diese islamische Moschee neben ihren täglichen religiösen Funktionen das lokale Erbe.",
+                  "category": "landmark",
+                  "coords": [
+                        91.866675,
+                        22.399869
+                  ]
+            },
+            {
+                  "name": "Sri Sri Ma Magadeswari Mandir",
+                  "text": "Dieser der Göttin Magadeswari gewidmete Hindu-Tempel bietet einen farbenfrohen und hoch verehrten spirituellen Raum für regionale Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865361,
+                        22.40308
+                  ]
+            },
+            {
+                  "name": "Quaish Chandgaon Sri Sri Shama Mondir",
+                  "text": "Dieses hinduistische Heiligtum im Gebiet von Chandgaon konzentriert sich auf die Verehrung der Göttin Shama und verfügt über traditionelle Ritualräume.",
+                  "category": "landmark",
+                  "coords": [
+                        91.859498,
+                        22.404224
+                  ]
+            },
+            {
+                  "name": "Quaish Burischar Jame Masjid, Kaptai Rd, Chattogram",
+                  "text": "Diese markante islamische Moschee an der Kaptai Road ermöglicht sowohl tägliche Andachten als auch größere Freitagsgebete für die Gemeinde Burischar.",
+                  "category": "landmark",
+                  "coords": [
+                        91.862034,
+                        22.409239
+                  ]
+            },
+            {
+                  "name": "Shah Mohammad Chowdhury Mosque",
+                  "text": "Diese islamische Moschee trägt den Namen einer bekannten lokalen Persönlichkeit und bietet eine ruhige, strukturierte Umgebung für den Gemeindegottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        91.872915,
+                        22.414336
+                  ]
+            },
+            {
+                  "name": "Middle Burischar Jame Moshjid",
+                  "text": "Diese lokale islamische Moschee liegt im zentralen Teil von Burischar und ist ein wichtiger Treffpunkt für die Bewohner der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869253,
+                        22.417019
+                  ]
+            },
+            {
+                  "name": "Manikia Darbar Sharif",
+                  "text": "Obwohl dieser spirituelle Darbar Sharif ungewöhnlicherweise mit Shinto-Klassifikationen versehen ist, fungiert er hauptsächlich als lokales Zentrum für mystische und gemeinschaftliche Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868461,
+                        22.419499
+                  ]
+            },
+            {
+                  "name": "Haji Hamid Sharif Road Jame Masjid, Haji Hamid Sharif Road, Chattogram",
+                  "text": "Diese islamische Moschee flankiert die Haji Hamid Sharif Road und bietet Arbeitern und Anwohnern, die auf der belebten Straße unterwegs sind, sofortigen spirituellen Zugang.",
+                  "category": "landmark",
+                  "coords": [
+                        91.864564,
+                        22.416436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "কালুরঘাট সেতু",
+                  "text": "A történelmi Kalurghat híd egy kettős célú vasúti és közúti híd, amely a Karnaphuli folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        91.88903,
+                        22.395891
+                  ]
+            },
+            {
+                  "name": "Bengura Shah Kabiria Darbar Sharif",
+                  "text": "A Bengura Shah Kabiria Darbar Sharif egy építészeti komplexum, amely spirituális szentélyként szolgál, jellegzetes kastélyszerű vonásokkal.",
+                  "category": "castle",
+                  "coords": [
+                        91.937308,
+                        22.354253
+                  ]
+            },
+            {
+                  "name": "Bengura Senior Madrasah Mosque",
+                  "text": "A Bengura Senior Madrasah mecset egy iszlám oktatási és imaközpont, amely a helyi diákok és lakosok spirituális igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        91.937715,
+                        22.356534
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ez a helyi mecset egy dedikált ima- és spirituális gyülekezési helyet biztosít a Kalurghat ipari negyed közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.896782,
+                        22.417627
+                  ]
+            },
+            {
+                  "name": "মনহুর আলি চৌধুরি জামে মসজিদ",
+                  "text": "A Monhur Ali Chowdhury Jame mecset egy kiemelkedő iszlám szentély, amely rendszeres gyülekezeti imáknak ad otthont a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        91.870407,
+                        22.398856
+                  ]
+            },
+            {
+                  "name": "Kalurghat Maach Bazar",
+                  "text": "A Kalurghat Maach Bazar egy nyüzsgő halpiac, ahol az árusok közvetlenül a közeli folyóból és a parti vizekből származó friss fogást árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        91.884212,
+                        22.397655
+                  ]
+            },
+            {
+                  "name": "Mohora",
+                  "text": "Mohora egy aktív kereskedelmi piac, amely központi kereskedési helyként szolgál a napi élelmiszerek és regionális áruk számára.",
+                  "category": "cultural",
+                  "coords": [
+                        91.867011,
+                        22.401536
+                  ]
+            },
+            {
+                  "name": "Zaman market জামান বাজার",
+                  "text": "A Zaman Piac egy hagyományos kiskereskedelmi központ, számos üzlettel, amelyek kielégítik a helyi közösség mindennapi vásárlási igényeit.",
+                  "category": "cultural",
+                  "coords": [
+                        91.924714,
+                        22.442311
+                  ]
+            },
+            {
+                  "name": "Gashchi Naya Hut গশ্চি নয়া হাট Chittagong - Kaptai Rd",
+                  "text": "A Chittagong-Kaptai út mentén található Gashchi Naya Hut egy nyüzsgő piac, amely az utazókat és a helyi lakosokat egyaránt kiszolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        91.945284,
+                        22.451336
+                  ]
+            },
+            {
+                  "name": "Shorif Market",
+                  "text": "A Shorif Piac kényelmes bevásárlónegyedként működik, amely különféle standokat és kereskedelmi üzleteket kínál a helyi környék alapvető szükségleteinek kielégítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        91.865948,
+                        22.421614
+                  ]
+            },
+            {
+                  "name": "Madina Shopping Complex",
+                  "text": "A Madina Bevásárlóközpont strukturált kiskereskedelmi környezetet kínál, ahol ruházati cikkeket, elektronikai cikkeket és háztartási cikkeket árusító üzletek találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        91.871149,
+                        22.433746
+                  ]
+            },
+            {
+                  "name": "N. I city এন আমি শহর",
+                  "text": "Az N. I City egy kiemelkedő kereskedelmi piac, amelyet úgy terveztek, hogy támogassa a mindennapi életmóddal kapcsolatos és élelmiszeripari termékeket árusító árusokat.",
+                  "category": "cultural",
+                  "coords": [
+                        91.905711,
+                        22.440162
+                  ]
+            },
+            {
+                  "name": "Mia market",
+                  "text": "A Mia Piac egy hagyományos közösségi bazár, ahol a helyiek friss termékeket és alapvető napi szükségleti cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        91.91204,
+                        22.441766
+                  ]
+            },
+            {
+                  "name": "BS Plaza",
+                  "text": "A BS Plaza egy többszintes bevásárlólétesítmény, amely számos kiskereskedelmi üzletet és kereskedelmi vállalkozást kínál a régió számára.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908528,
+                        22.441791
+                  ]
+            },
+            {
+                  "name": "Al Falah Jaame Masjid, Kaptai Rd, Chattogram",
+                  "text": "A Kaptai úton található Al Falah Jaame Masjid egy aktív muszlim imahely, amely gyülekezeti imákra várja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867396,
+                        22.42421
+                  ]
+            },
+            {
+                  "name": "Bathua Central Jame Masjeed, Haji Neyamot Ali Rd, Chattogram",
+                  "text": "A Haji Neyamot Ali úton található Bathua Central Jame Masjeed a környék vallási szertartásainak fő iszlám imatermeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865197,
+                        22.422561
+                  ]
+            },
+            {
+                  "name": "Subedar Masjid",
+                  "text": "A Subedar Masjid egy közösségközpontú muszlim imaközpont, amely nyugodt környezetet biztosít a napi vallási istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        91.874918,
+                        22.422548
+                  ]
+            },
+            {
+                  "name": "Al Aqsa Jame Masjid, Abdul hakim mistri bari, Chattogram",
+                  "text": "Az Abdul Hakim mistri bari közelében található Al Aqsa Jame Masjid helyi szentélyként működik a napi iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867862,
+                        22.427914
+                  ]
+            },
+            {
+                  "name": "Akbar shah (R) Jame Masjid",
+                  "text": "A kalurghati ipari övezet muszlim közösségét szolgáló gyülekezeti mecset nyugodt imateret biztosít a városi nyüzsgésben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.858843,
+                        22.4445
+                  ]
+            },
+            {
+                  "name": "আলহাজ্ব দেলোয়ার হোসেন সও: জামে মসজিদ",
+                  "text": "Ez az iszlám gyülekezeti mecset hagyományos imatermekkel rendelkezik, amelyek a kalurghati lakosok spirituális igényeit szolgálják.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944347,
+                        22.353085
+                  ]
+            },
+            {
+                  "name": "হযরত ইউসুফ আহমেদ শাহ (ক:) মাজার শরীফ",
+                  "text": "A Hazrat Yusuf Ahmed Shahnak szentelt iszlám szentély békés zarándokhelyként működik, ahol a hívek szufi imákra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944036,
+                        22.3457
+                  ]
+            },
+            {
+                  "name": "Raja Khan Jame Mosque",
+                  "text": "A nagy pénteki gyülekezetek befogadására épült iszlám mecset egy különálló imateremmel várja a kalurghati ipari közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        91.87722,
+                        22.412025
+                  ]
+            },
+            {
+                  "name": "Purbo Mohra Jame Masjid",
+                  "text": "A Purbo Mohra negyedben található iszlám istentiszteleti hely a helyi napi imák központi spirituális csomópontjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.887104,
+                        22.405772
+                  ]
+            },
+            {
+                  "name": "চট্টগ্রাম দরবার শরীফ",
+                  "text": "Ez az iszlám Darbar Sharif jelentős szufi gyülekezési helyként szolgál Csittagongban, spirituális útmutatást és közös imákat kínálva.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911393,
+                        22.409948
+                  ]
+            },
+            {
+                  "name": "কালুরঘাট জামে মসজিদ",
+                  "text": "A Kalurghat negyed központjában található híres iszlám mecset rendszeres vallási gyülekezetekre várja a helyi munkásokat és lakosokat.",
+                  "category": "landmark",
+                  "coords": [
+                        91.886273,
+                        22.397007
+                  ]
+            },
+            {
+                  "name": "Srimad Shawmi Taranandha Mohakali Yogaahsrom",
+                  "text": "Hindu ásramként működő spirituális központ, amely a jógagyakorlatokra és Mohakali istennő tiszteletére fókuszál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.888233,
+                        22.401794
+                  ]
+            },
+            {
+                  "name": "Ejhar Chawdhury Jame Mosjid, Unnamed Road, Chattogram",
+                  "text": "A Csittagong egyik lakóövezetében megbúvó szomszédsági iszlám mecsetet elsősorban a pénteki közösségi imáknak szentelik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869173,
+                        22.395672
+                  ]
+            },
+            {
+                  "name": "Siddiquia Nezamiya Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "A Siddiquia Nezamiya hagyomány szerint működő iszlám vallási hely napi közös istentiszteletek révén ápolja a közösségi kötelékeket.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867968,
+                        22.398106
+                  ]
+            },
+            {
+                  "name": "Hazrat Shamsuddin Auliya (RA): Jame Masjid, Road, Mazar Gate, Rangunia, Chattogram",
+                  "text": "A Mazar-kapu bejáratát jelző iszlám mecset és szentélykomplexum a tisztelt szufi szent, Hazrat Shamsuddin Auliya előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868502,
+                        22.400689
+                  ]
+            },
+            {
+                  "name": "Abu Bakar Jame masjid, Mukim Kha Chowdhury house, Chattogram",
+                  "text": "A történelmi Mukim Kha Chowdhury-ház közelében található iszlám mecset mindennapi vallási funkciói mellett a helyi örökséget is őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.866675,
+                        22.399869
+                  ]
+            },
+            {
+                  "name": "Sri Sri Ma Magadeswari Mandir",
+                  "text": "A Magadeswari istennőnek szentelt hindu templom színes és nagy tiszteletben álló spirituális teret biztosít a regionális hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865361,
+                        22.40308
+                  ]
+            },
+            {
+                  "name": "Quaish Chandgaon Sri Sri Shama Mondir",
+                  "text": "A Chandgaon területén megbúvó hindu szentély Shama istennő imádatára összpontosít, hagyományos rituális terekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.859498,
+                        22.404224
+                  ]
+            },
+            {
+                  "name": "Quaish Burischar Jame Masjid, Kaptai Rd, Chattogram",
+                  "text": "A Kaptai úton kiemelkedő iszlám mecset a mindennapi áhítatnak és a nagyobb pénteki imáknak is helyet ad a burischari közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.862034,
+                        22.409239
+                  ]
+            },
+            {
+                  "name": "Shah Mohammad Chowdhury Mosque",
+                  "text": "Egy neves helyi személyiség nevét viselő iszlám mecset csendes, strukturált környezetet biztosít a közösségi istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        91.872915,
+                        22.414336
+                  ]
+            },
+            {
+                  "name": "Middle Burischar Jame Moshjid",
+                  "text": "Burischar központi részén található ez a helyi iszlám mecset, amely a környék lakóinak elengedhetetlen találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869253,
+                        22.417019
+                  ]
+            },
+            {
+                  "name": "Manikia Darbar Sharif",
+                  "text": "Bár szokatlan módon sintoista besorolást kapott, ez a spirituális Darbar Sharif elsősorban a misztikus és közösségi áhítat helyi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868461,
+                        22.419499
+                  ]
+            },
+            {
+                  "name": "Haji Hamid Sharif Road Jame Masjid, Haji Hamid Sharif Road, Chattogram",
+                  "text": "A Haji Hamid Sharif utca mentén található iszlám mecset azonnali spirituális hozzáférést biztosít a forgalmas utcán közlekedő munkások és lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.864564,
+                        22.416436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "কালুরঘাট সেতু",
+                  "text": "Istoricul pod Kalurghat este un pod cu dublu scop, feroviar și rutier, care se întinde peste râul Karnaphuli.",
+                  "category": "landmark",
+                  "coords": [
+                        91.88903,
+                        22.395891
+                  ]
+            },
+            {
+                  "name": "Bengura Shah Kabiria Darbar Sharif",
+                  "text": "Bengura Shah Kabiria Darbar Sharif este un complex arhitectural care servește drept sanctuar spiritual cu caracteristici distinctive asemănătoare unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        91.937308,
+                        22.354253
+                  ]
+            },
+            {
+                  "name": "Bengura Senior Madrasah Mosque",
+                  "text": "Moscheea Madrasah Senior Bengura este un centru islamic de învățare și rugăciune care sprijină nevoile spirituale ale elevilor și rezidenților locali.",
+                  "category": "religious",
+                  "coords": [
+                        91.937715,
+                        22.356534
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Această Masjid locală oferă un lăcaș de cult și adunare spirituală dedicat comunității din zona industrială Kalurghat.",
+                  "category": "religious",
+                  "coords": [
+                        91.896782,
+                        22.417627
+                  ]
+            },
+            {
+                  "name": "মনহুর আলি চৌধুরি জামে মসজিদ",
+                  "text": "Moscheea Monhur Ali Chowdhury Jame este un sanctuar islamic proeminent care oferă rugăciuni congregaționale regulate în cartier.",
+                  "category": "religious",
+                  "coords": [
+                        91.870407,
+                        22.398856
+                  ]
+            },
+            {
+                  "name": "Kalurghat Maach Bazar",
+                  "text": "Kalurghat Maach Bazar este o piață de pește plină de viață, unde vânzătorii vând capturi proaspete direct din râul și apele de coastă din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        91.884212,
+                        22.397655
+                  ]
+            },
+            {
+                  "name": "Mohora",
+                  "text": "Mohora este o piață comercială activă, oferind un loc central de tranzacționare pentru proviziile zilnice și mărfurile regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.867011,
+                        22.401536
+                  ]
+            },
+            {
+                  "name": "Zaman market জামান বাজার",
+                  "text": "Piața Zaman este un centru tradițional de vânzare cu amănuntul, cu numeroase magazine care satisfac nevoile de cumpărături de zi cu zi ale comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.924714,
+                        22.442311
+                  ]
+            },
+            {
+                  "name": "Gashchi Naya Hut গশ্চি নয়া হাট Chittagong - Kaptai Rd",
+                  "text": "Situat de-a lungul drumului Chittagong-Kaptai, Gashchi Naya Hut este o piață plină de viață care deservește atât călătorii, cât și rezidenții locali.",
+                  "category": "cultural",
+                  "coords": [
+                        91.945284,
+                        22.451336
+                  ]
+            },
+            {
+                  "name": "Shorif Market",
+                  "text": "Piața Shorif funcționează ca o zonă convenabilă de cumpărături, oferind diverse tarabe și magazine comerciale pentru produsele esențiale din cartierul local.",
+                  "category": "cultural",
+                  "coords": [
+                        91.865948,
+                        22.421614
+                  ]
+            },
+            {
+                  "name": "Madina Shopping Complex",
+                  "text": "Complexul comercial Madina oferă un mediu de vânzare cu amănuntul structurat, cu magazine diverse care comercializează îmbrăcăminte, electronice și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        91.871149,
+                        22.433746
+                  ]
+            },
+            {
+                  "name": "N. I city এন আমি শহর",
+                  "text": "N. I City este o piață comercială proeminentă concepută pentru a sprijini mai mulți vânzători care oferă produse de uz zilnic și alimentare.",
+                  "category": "cultural",
+                  "coords": [
+                        91.905711,
+                        22.440162
+                  ]
+            },
+            {
+                  "name": "Mia market",
+                  "text": "Piața Mia este un bazar comunitar tradițional unde localnicii cumpără produse proaspete și necesități de bază zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        91.91204,
+                        22.441766
+                  ]
+            },
+            {
+                  "name": "BS Plaza",
+                  "text": "BS Plaza este o facilitate comercială cu mai multe etaje, cu o gamă largă de magazine de vânzare cu amănuntul și întreprinderi comerciale pentru regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908528,
+                        22.441791
+                  ]
+            },
+            {
+                  "name": "Al Falah Jaame Masjid, Kaptai Rd, Chattogram",
+                  "text": "Situată pe strada Kaptai, Al Falah Jaame Masjid este un lăcaș de cult musulman activ care primește comunitatea locală pentru rugăciuni congregaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867396,
+                        22.42421
+                  ]
+            },
+            {
+                  "name": "Bathua Central Jame Masjeed, Haji Neyamot Ali Rd, Chattogram",
+                  "text": "Bathua Central Jame Masjeed de pe strada Haji Neyamot Ali servește ca sală principală de rugăciune islamică pentru ceremoniile religioase din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865197,
+                        22.422561
+                  ]
+            },
+            {
+                  "name": "Subedar Masjid",
+                  "text": "Subedar Masjid este un centru de rugăciune musulman axat pe comunitate, oferind un mediu senin pentru cultul religios zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        91.874918,
+                        22.422548
+                  ]
+            },
+            {
+                  "name": "Al Aqsa Jame Masjid, Abdul hakim mistri bari, Chattogram",
+                  "text": "Al Aqsa Jame Masjid, situată lângă Abdul Hakim mistri bari, funcționează ca un sanctuar local pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867862,
+                        22.427914
+                  ]
+            },
+            {
+                  "name": "Akbar shah (R) Jame Masjid",
+                  "text": "Deservind comunitatea musulmană locală din zona industrială Kalurghat, această moschee congregațională oferă un spațiu liniștit de rugăciune în mijlocul agitației urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        91.858843,
+                        22.4445
+                  ]
+            },
+            {
+                  "name": "আলহাজ্ব দেলোয়ার হোসেন সও: জামে মসজিদ",
+                  "text": "Această moschee islamică congregațională dispune de săli de rugăciune tradiționale adaptate nevoilor spirituale ale locuitorilor din Kalurghat.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944347,
+                        22.353085
+                  ]
+            },
+            {
+                  "name": "হযরত ইউসুফ আহমেদ শাহ (ক:) মাজার শরীফ",
+                  "text": "Dedicat lui Hazrat Yusuf Ahmed Shah, acest altar islamic acționează ca un loc de pelerinaj pașnic unde credincioșii se adună pentru rugăciuni sufi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944036,
+                        22.3457
+                  ]
+            },
+            {
+                  "name": "Raja Khan Jame Mosque",
+                  "text": "Construită pentru a găzdui marile adunări de vineri, această moschee islamică prezintă o sală de rugăciune distinctă ce deservește comunitatea industrială din Kalurghat.",
+                  "category": "landmark",
+                  "coords": [
+                        91.87722,
+                        22.412025
+                  ]
+            },
+            {
+                  "name": "Purbo Mohra Jame Masjid",
+                  "text": "Situat în cartierul Purbo Mohra, acest lăcaș de cult islamic funcționează ca un centru spiritual pentru rugăciunile zilnice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.887104,
+                        22.405772
+                  ]
+            },
+            {
+                  "name": "চট্টগ্রাম দরবার শরীফ",
+                  "text": "Acest Darbar Sharif islamic servește ca un spațiu de adunare sufi semnificativ în Chittagong, oferind îndrumare spirituală și rugăciuni comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911393,
+                        22.409948
+                  ]
+            },
+            {
+                  "name": "কালুরঘাট জামে মসজিদ",
+                  "text": "Situată central în zona Kalurghat, această proeminentă moschee islamică primește muncitorii și rezidenții locali pentru adunări religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        91.886273,
+                        22.397007
+                  ]
+            },
+            {
+                  "name": "Srimad Shawmi Taranandha Mohakali Yogaahsrom",
+                  "text": "Funcționând ca un ashram hindus, acest centru spiritual se concentrează pe practicile yoga și pe venerarea zeiței Mohakali.",
+                  "category": "landmark",
+                  "coords": [
+                        91.888233,
+                        22.401794
+                  ]
+            },
+            {
+                  "name": "Ejhar Chawdhury Jame Mosjid, Unnamed Road, Chattogram",
+                  "text": "Ascunsă într-o parte rezidențială din Chattogram, această moschee islamică de cartier este dedicată în principal rugăciunilor comunitare de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869173,
+                        22.395672
+                  ]
+            },
+            {
+                  "name": "Siddiquia Nezamiya Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Funcționând sub tradiția Siddiquia Nezamiya, acest sit religios islamic menține legături comunitare puternice prin rugăciuni congregaționale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867968,
+                        22.398106
+                  ]
+            },
+            {
+                  "name": "Hazrat Shamsuddin Auliya (RA): Jame Masjid, Road, Mazar Gate, Rangunia, Chattogram",
+                  "text": "Marcând intrarea de la Poarta Mazar, acest complex islamic format din moschee și altar onorează veneratul sfânt sufi Hazrat Shamsuddin Auliya.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868502,
+                        22.400689
+                  ]
+            },
+            {
+                  "name": "Abu Bakar Jame masjid, Mukim Kha Chowdhury house, Chattogram",
+                  "text": "Situată în apropierea casei istorice Mukim Kha Chowdhury, această moschee islamică păstrează moștenirea locală alături de funcțiile sale religioase zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        91.866675,
+                        22.399869
+                  ]
+            },
+            {
+                  "name": "Sri Sri Ma Magadeswari Mandir",
+                  "text": "Dedicat zeiței Magadeswari, acest templu hindus oferă un spațiu spiritual colorat și extrem de venerat pentru credincioșii regionali.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865361,
+                        22.40308
+                  ]
+            },
+            {
+                  "name": "Quaish Chandgaon Sri Sri Shama Mondir",
+                  "text": "Ascuns în zona Chandgaon, acest sanctuar hindus se concentrează pe venerarea zeiței Shama, prezentând spații ritualice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.859498,
+                        22.404224
+                  ]
+            },
+            {
+                  "name": "Quaish Burischar Jame Masjid, Kaptai Rd, Chattogram",
+                  "text": "Având o poziție proeminentă pe drumul Kaptai, această moschee islamică facilitează atât devotamentul zilnic, cât și rugăciunile mai mari de vineri pentru comunitatea Burischar.",
+                  "category": "landmark",
+                  "coords": [
+                        91.862034,
+                        22.409239
+                  ]
+            },
+            {
+                  "name": "Shah Mohammad Chowdhury Mosque",
+                  "text": "Purtând numele unei personalități locale notabile, această moschee islamică oferă un mediu liniștit și structurat pentru cultul comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        91.872915,
+                        22.414336
+                  ]
+            },
+            {
+                  "name": "Middle Burischar Jame Moshjid",
+                  "text": "Situată în partea centrală a orașului Burischar, această moschee islamică locală este un loc de adunare esențial pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869253,
+                        22.417019
+                  ]
+            },
+            {
+                  "name": "Manikia Darbar Sharif",
+                  "text": "Etichetat în mod neobișnuit cu clasificări șintoiste, acest Darbar Sharif spiritual funcționează în principal ca un centru local pentru devotament mistic și comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868461,
+                        22.419499
+                  ]
+            },
+            {
+                  "name": "Haji Hamid Sharif Road Jame Masjid, Haji Hamid Sharif Road, Chattogram",
+                  "text": "Flancând strada Haji Hamid Sharif, această moschee islamică oferă acces spiritual imediat pentru muncitorii și rezidenții care navighează pe strada aglomerată.",
+                  "category": "landmark",
+                  "coords": [
+                        91.864564,
+                        22.416436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalurghat Bridge",
+                  "text": "The historic Kalurghat Bridge is a dual-purpose railway and road bridge that stretches across the Karnaphuli River.",
+                  "category": "landmark",
+                  "coords": [
+                        91.88903,
+                        22.395891
+                  ]
+            },
+            {
+                  "name": "Bengura Shah Kabiria Darbar Sharif",
+                  "text": "Bengura Shah Kabiria Darbar Sharif is an architectural complex serving as a spiritual sanctuary with distinctive castle-like features.",
+                  "category": "castle",
+                  "coords": [
+                        91.937308,
+                        22.354253
+                  ]
+            },
+            {
+                  "name": "Bengura Senior Madrasah Mosque",
+                  "text": "The Bengura Senior Madrasah Mosque is an Islamic center of learning and prayer that supports the spiritual needs of local students and residents.",
+                  "category": "religious",
+                  "coords": [
+                        91.937715,
+                        22.356534
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This local Masjid provides a dedicated place of worship and spiritual gathering for the community in the Kalurghat industrial area.",
+                  "category": "religious",
+                  "coords": [
+                        91.896782,
+                        22.417627
+                  ]
+            },
+            {
+                  "name": "মনহুর আলি চৌধুরি জামে মসজিদ",
+                  "text": "The Monhur Ali Chowdhury Jame Mosque is a prominent Islamic sanctuary offering regular congregational prayers in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        91.870407,
+                        22.398856
+                  ]
+            },
+            {
+                  "name": "Kalurghat Maach Bazar",
+                  "text": "Kalurghat Maach Bazar is a bustling fish market where vendors sell a fresh catch directly from the nearby river and coastal waters.",
+                  "category": "cultural",
+                  "coords": [
+                        91.884212,
+                        22.397655
+                  ]
+            },
+            {
+                  "name": "Mohora",
+                  "text": "Mohora is an active commercial marketplace providing a central trading spot for daily provisions and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        91.867011,
+                        22.401536
+                  ]
+            },
+            {
+                  "name": "Zaman market জামান বাজার",
+                  "text": "Zaman Market is a traditional retail hub featuring numerous shops that cater to the everyday shopping needs of the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        91.924714,
+                        22.442311
+                  ]
+            },
+            {
+                  "name": "Gashchi Naya Hut গশ্চি নয়া হাট Chittagong - Kaptai Rd",
+                  "text": "Situated along the Chittagong-Kaptai Road, Gashchi Naya Hut is a lively marketplace serving travelers and local residents alike.",
+                  "category": "cultural",
+                  "coords": [
+                        91.945284,
+                        22.451336
+                  ]
+            },
+            {
+                  "name": "Shorif Market",
+                  "text": "Shorif Market operates as a convenient shopping area providing various stalls and commercial outlets for local neighborhood essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        91.865948,
+                        22.421614
+                  ]
+            },
+            {
+                  "name": "Madina Shopping Complex",
+                  "text": "Madina Shopping Complex offers a structured retail environment with diverse stores catering to clothing, electronics, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        91.871149,
+                        22.433746
+                  ]
+            },
+            {
+                  "name": "N. I city এন আমি শহর",
+                  "text": "N. I City is a prominent commercial marketplace designed to support multiple vendors selling daily lifestyle and grocery products.",
+                  "category": "cultural",
+                  "coords": [
+                        91.905711,
+                        22.440162
+                  ]
+            },
+            {
+                  "name": "Mia market",
+                  "text": "Mia Market is a traditional community bazaar where locals shop for fresh produce and basic daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        91.91204,
+                        22.441766
+                  ]
+            },
+            {
+                  "name": "BS Plaza",
+                  "text": "BS Plaza is a multi-story shopping facility featuring a range of retail outlets and commercial businesses for the region.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908528,
+                        22.441791
+                  ]
+            },
+            {
+                  "name": "Al Falah Jaame Masjid, Kaptai Rd, Chattogram",
+                  "text": "Located on Kaptai Road, the Al Falah Jaame Masjid is an active Muslim place of worship welcoming the local community for congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867396,
+                        22.42421
+                  ]
+            },
+            {
+                  "name": "Bathua Central Jame Masjeed, Haji Neyamot Ali Rd, Chattogram",
+                  "text": "Bathua Central Jame Masjeed on Haji Neyamot Ali Road serves as a principal Islamic prayer hall for religious observances in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865197,
+                        22.422561
+                  ]
+            },
+            {
+                  "name": "Subedar Masjid",
+                  "text": "The Subedar Masjid is a community-focused Muslim prayer center providing a serene environment for daily religious worship.",
+                  "category": "landmark",
+                  "coords": [
+                        91.874918,
+                        22.422548
+                  ]
+            },
+            {
+                  "name": "Al Aqsa Jame Masjid, Abdul hakim mistri bari, Chattogram",
+                  "text": "Al Aqsa Jame Masjid, situated near the Abdul Hakim mistri bari, functions as a local sanctuary for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867862,
+                        22.427914
+                  ]
+            },
+            {
+                  "name": "Akbar shah (R) Jame Masjid",
+                  "text": "Serving the local Muslim community in the Kalurghat industrial zone, this congregational mosque provides a tranquil prayer space amidst the urban bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        91.858843,
+                        22.4445
+                  ]
+            },
+            {
+                  "name": "আলহাজ্ব দেলোয়ার হোসেন সও: জামে মসজিদ",
+                  "text": "This Islamic congregational mosque features traditional prayer halls tailored for the spiritual needs of Kalurghat's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944347,
+                        22.353085
+                  ]
+            },
+            {
+                  "name": "হযরত ইউসুফ আহমেদ শাহ (ক:) মাজার শরীফ",
+                  "text": "Dedicated to Hazrat Yusuf Ahmed Shah, this Islamic shrine acts as a peaceful pilgrimage site where devotees gather for Sufi prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.944036,
+                        22.3457
+                  ]
+            },
+            {
+                  "name": "Raja Khan Jame Mosque",
+                  "text": "Built to accommodate large Friday congregations, this Islamic mosque features a distinct prayer hall serving the Kalurghat industrial community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.87722,
+                        22.412025
+                  ]
+            },
+            {
+                  "name": "Purbo Mohra Jame Masjid",
+                  "text": "Situated in the Purbo Mohra neighborhood, this Islamic place of worship acts as a central spiritual hub for local daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.887104,
+                        22.405772
+                  ]
+            },
+            {
+                  "name": "চট্টগ্রাম দরবার শরীফ",
+                  "text": "This Islamic Darbar Sharif serves as a significant Sufi gathering space in Chittagong, offering spiritual guidance and communal prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911393,
+                        22.409948
+                  ]
+            },
+            {
+                  "name": "Kalurghat Jame Masjid",
+                  "text": "Located centrally in the Kalurghat area, this prominent Islamic mosque welcomes local workers and residents for regular religious congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        91.886273,
+                        22.397007
+                  ]
+            },
+            {
+                  "name": "Srimad Shawmi Taranandha Mohakali Yogaahsrom",
+                  "text": "Functioning as a Hindu ashram, this spiritual center focuses on yoga practices and the veneration of Goddess Mohakali.",
+                  "category": "landmark",
+                  "coords": [
+                        91.888233,
+                        22.401794
+                  ]
+            },
+            {
+                  "name": "Ejhar Chawdhury Jame Mosjid, Unnamed Road, Chattogram",
+                  "text": "Nestled in a residential part of Chattogram, this neighborhood Islamic mosque is primarily dedicated to Friday communal prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869173,
+                        22.395672
+                  ]
+            },
+            {
+                  "name": "Siddiquia Nezamiya Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Operating under the Siddiquia Nezamiya tradition, this Islamic religious site maintains strong community ties through daily congregational worship.",
+                  "category": "landmark",
+                  "coords": [
+                        91.867968,
+                        22.398106
+                  ]
+            },
+            {
+                  "name": "Hazrat Shamsuddin Auliya (RA): Jame Masjid, Road, Mazar Gate, Rangunia, Chattogram",
+                  "text": "Marking the entrance at Mazar Gate, this Islamic mosque and shrine complex honors the revered Sufi saint Hazrat Shamsuddin Auliya.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868502,
+                        22.400689
+                  ]
+            },
+            {
+                  "name": "Abu Bakar Jame masjid, Mukim Kha Chowdhury house, Chattogram",
+                  "text": "Located near the historic Mukim Kha Chowdhury house, this Islamic mosque preserves local heritage alongside its daily religious functions.",
+                  "category": "landmark",
+                  "coords": [
+                        91.866675,
+                        22.399869
+                  ]
+            },
+            {
+                  "name": "Sri Sri Ma Magadeswari Mandir",
+                  "text": "Dedicated to Goddess Magadeswari, this Hindu temple provides a colorful and highly revered spiritual space for regional devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        91.865361,
+                        22.40308
+                  ]
+            },
+            {
+                  "name": "Quaish Chandgaon Sri Sri Shama Mondir",
+                  "text": "Nestled in the Chandgaon area, this Hindu sanctuary centers on the worship of Goddess Shama, featuring traditional ritual spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        91.859498,
+                        22.404224
+                  ]
+            },
+            {
+                  "name": "Quaish Burischar Jame Masjid, Kaptai Rd, Chattogram",
+                  "text": "Standing prominently on Kaptai Road, this Islamic mosque facilitates both daily devotion and larger Friday prayers for the Burischar community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.862034,
+                        22.409239
+                  ]
+            },
+            {
+                  "name": "Shah Mohammad Chowdhury Mosque",
+                  "text": "Bearing the name of a notable local figure, this Islamic mosque offers a quiet, structured environment for community worship.",
+                  "category": "landmark",
+                  "coords": [
+                        91.872915,
+                        22.414336
+                  ]
+            },
+            {
+                  "name": "Middle Burischar Jame Moshjid",
+                  "text": "Situated in the central part of Burischar, this local Islamic mosque is an essential gathering place for neighborhood residents.",
+                  "category": "landmark",
+                  "coords": [
+                        91.869253,
+                        22.417019
+                  ]
+            },
+            {
+                  "name": "Manikia Darbar Sharif",
+                  "text": "Unusually tagged with Shinto classifications, this spiritual Darbar Sharif primarily functions as a local center for mystical and communal devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        91.868461,
+                        22.419499
+                  ]
+            },
+            {
+                  "name": "Haji Hamid Sharif Road Jame Masjid, Haji Hamid Sharif Road, Chattogram",
+                  "text": "Flanking the Haji Hamid Sharif Road, this Islamic mosque provides immediate spiritual access for laborers and residents navigating the busy street.",
+                  "category": "landmark",
+                  "coords": [
+                        91.864564,
+                        22.416436
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Kalurghat", hu: "Kalurghat ipari negyed", ro: "Zona industrială Kalurghat", en: "Kalurghat Industrial Area" },
@@ -903,7 +16617,1312 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-kalurghat-industrial-economic-v2.webp",
   },
   {
-    id: "bangladesh-sagorika-industrial-economic-v2",
+    id: "bangladesh-sagorika-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bangabandhu Sculpture (Barapole More), Barapole More, Chattogram",
+                  "text": "Ein heroisches Denkmal von Sheikh Mujibur Rahman an der Barapole-Kreuzung.",
+                  "category": "historical",
+                  "coords": [
+                        91.789276,
+                        22.327997
+                  ]
+            },
+            {
+                  "name": "STAR ART RAOZAN, Chattogram",
+                  "text": "Ein lokales Kulturzentrum, das der bildenden Kunst und kreativen Ausbildung gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.78098,
+                        22.359202
+                  ]
+            },
+            {
+                  "name": "Uran Shah Shrine, Dhaka Trunk Rd, Chattogram",
+                  "text": "Ein traditioneller Sufi-Schrein an der stark befahrenen Dhaka Trunk Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.783815,
+                        22.357988
+                  ]
+            },
+            {
+                  "name": "Monir Ullah Shah Shrine, Port Connecting Rd, Chattogram",
+                  "text": "Ein lokales Mausoleum und Pilgerort an der Port Connecting Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.784716,
+                        22.353214
+                  ]
+            },
+            {
+                  "name": "Eidgah Bou Bazar, Halishahor edhgha, Chattogram",
+                  "text": "Ein weitläufiger Gebetsplatz unter freiem Himmel für große Festversammlungen in Halishahor.",
+                  "category": "religious",
+                  "coords": [
+                        91.79632,
+                        22.344685
+                  ]
+            },
+            {
+                  "name": "Texin Fokirer Mazar, Eidgah Munshipara, Chattogram",
+                  "text": "Ein spirituelles Grabmal (Mazar) im Viertel Eidgah Munshipara.",
+                  "category": "religious",
+                  "coords": [
+                        91.801631,
+                        22.339119
+                  ]
+            },
+            {
+                  "name": "Azim Shah Mazar, Port Connecting Rd, Chattogram",
+                  "text": "Der Schrein eines Sufi-Heiligen direkt an dem Transportkorridor der Port Connecting Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.797671,
+                        22.321533
+                  ]
+            },
+            {
+                  "name": "HHazrat Zamiruddin Shah Mazar Sharif, Port Link Rd, Chattogram",
+                  "text": "Ein heiliger Grabkomplex an der Port Link Road, der häufig von Gläubigen besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        91.775177,
+                        22.323359
+                  ]
+            },
+            {
+                  "name": "Sultanul Auliya Kutubul Ershad Hazrat Hafez Muniruddin Nurullah (R) Mazar Sharif, Chattogram",
+                  "text": "Ein kunstvoller Sufi-Schrein, der einem lokalen spirituellen Lehrer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.773656,
+                        22.32073
+                  ]
+            },
+            {
+                  "name": "Hazrat Sayed Shamsul Hoque Jalaluddin (R) and Hazrat Sayeda Anuwara Begum (R) Mazar Sharif, Chattogram",
+                  "text": "Das gemeinsame Grabmal eines Sufi-Heiligen und seiner Familie in Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.773811,
+                        22.32166
+                  ]
+            },
+            {
+                  "name": "Hazrat Abdul Jalil Shah RA Mazar, Munir Nagar, Jora pukur par, Chattogram",
+                  "text": "Ein friedlicher Schrein in der Nähe der Jora Pukur (Zwillings-Teiche).",
+                  "category": "religious",
+                  "coords": [
+                        91.78233,
+                        22.318059
+                  ]
+            },
+            {
+                  "name": "Hazrat Korban Ali Shah Mazar, Korban Ali, Shah Road, Chattogram",
+                  "text": "Ein religiöser Schrein an der Korban Ali Shah Road, dem gleichnamigen Heiligen gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        91.791119,
+                        22.308782
+                  ]
+            },
+            {
+                  "name": "Gausia Committee - Office of Numbering B Unit, Ahammadia School, Road, Chattogram",
+                  "text": "Ein religiöses Verwaltungsbüro und Gemeindezentrum in der Nähe der Ahammadia-Schule.",
+                  "category": "religious",
+                  "coords": [
+                        91.788778,
+                        22.296413
+                  ]
+            },
+            {
+                  "name": "South Kattoli Jame Masjid, Samudra saikata, Chattogram",
+                  "text": "Eine Gemeindemoschee in der Nähe des Küstengebiets von South Kattoli.",
+                  "category": "religious",
+                  "coords": [
+                        91.766822,
+                        22.354031
+                  ]
+            },
+            {
+                  "name": "Islami Somaj Kollan Parishad Jame Mosque, Lane No. 12, Chattogram",
+                  "text": "Eine Moschee in der Lane 12, die sich auf soziale Wohlfahrtsaktivitäten konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        91.781587,
+                        22.355526
+                  ]
+            },
+            {
+                  "name": "Kazir Dighi Masjid,Loharpool Road, masjid er pashe, Chattogram",
+                  "text": "Eine Moschee an der Loharpool Road, direkt neben dem historischen Kazir-Dighi-Teich.",
+                  "category": "religious",
+                  "coords": [
+                        91.78306,
+                        22.352784
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Hurairah (RA) Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Ein lokales Gebetshaus, benannt nach einem Gefährten des Propheten.",
+                  "category": "religious",
+                  "coords": [
+                        91.767306,
+                        22.347486
+                  ]
+            },
+            {
+                  "name": "Shah Afjal Fakir Mosque, Golichipa Para Rd, Chattogram",
+                  "text": "Eine traditionelle Moschee im Wohnviertel Golichipa Para.",
+                  "category": "religious",
+                  "coords": [
+                        91.77268,
+                        22.339422
+                  ]
+            },
+            {
+                  "name": "Garib Ullah Khandokar Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Diese Moschee an der Unnamed Road dient der lokalen Gemeinschaft im geschäftigen Viertel Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.771169,
+                        22.342193
+                  ]
+            },
+            {
+                  "name": "Halisohor housing central Jame Masjid, Halishahar, Chattogram",
+                  "text": "Eine zentrale Moschee, die als religiöser Mittelpunkt für das Wohngebiet Halishahar in Chattogram fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        91.781136,
+                        22.338859
+                  ]
+            },
+            {
+                  "name": "Baitul Akbar Madrasha",
+                  "text": "Diese Einrichtung kombiniert eine Moschee mit einer religiösen Schule für die lokale Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        91.782449,
+                        22.337656
+                  ]
+            },
+            {
+                  "name": "Nachu Fakir Jame Mosque, Nachu Fakir Jame Mosque, Chattogram",
+                  "text": "Eine traditionelle Freitagsmoschee, die einen ruhigen Raum für Gebete im Stadtteil Chattogram bietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.791806,
+                        22.341923
+                  ]
+            },
+            {
+                  "name": "Bolir Para Gaousia Jame Masjid, Port Connecting Rd, Chattogram",
+                  "text": "Eine lokale Moschee in Bolir Para, die als wichtiger Versammlungsort für die muslimische Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        91.79836,
+                        22.320385
+                  ]
+            },
+            {
+                  "name": "AC Mosque",
+                  "text": "Diese Moschee ist in der Gegend für ihre klimatisierte Gebetshalle bekannt, die Schutz vor der tropischen Hitze bietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.788431,
+                        22.334312
+                  ]
+            },
+            {
+                  "name": "Masjid E Rahmania, Mailer matha, M. A Aziz Rd, Chattogram",
+                  "text": "Eine markante Moschee an der M. A. Aziz Road, die durch ihre Lage an der Kreuzung Mailer Matha leicht zu finden ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.784944,
+                        22.298783
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Bakr Siddique (RA) Jame Masjid, CEPZ Exit Rd, Chattogram",
+                  "text": "Diese Moschee befindet sich in der Nähe des Ausgangs der Export Processing Zone (CEPZ) und wird häufig von Pendlern besucht.",
+                  "category": "religious",
+                  "coords": [
+                        91.779342,
+                        22.294397
+                  ]
+            },
+            {
+                  "name": "Kutub Bari Jame Masjid, Kutub Badi Road, Chattogram",
+                  "text": "Eine Nachbarschaftsmoschee an der Kutub Badi Road, die ein spirituelles Zentrum für die Anwohner von Chattogram darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        91.761227,
+                        22.362831
+                  ]
+            },
+            {
+                  "name": "Sagarika Goru Bazar, Chattogram",
+                  "text": "Ein bedeutender lokaler Marktplatz in Chattogram, der besonders für den Handel mit Vieh bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.777945,
+                        22.357153
+                  ]
+            },
+            {
+                  "name": "Sagorika Cattle Market, Sagorika Rd, Chattogram",
+                  "text": "Ein weitläufiger Viehmarkt an der Sagorika Road, auf dem Händler aus der gesamten Region zusammenkommen.",
+                  "category": "cultural",
+                  "coords": [
+                        91.778712,
+                        22.358668
+                  ]
+            },
+            {
+                  "name": "Bandar Bitan Makert, Alanker moor, Chattogram",
+                  "text": "Ein lebhafter Markt am Alanker Moor, der eine Vielzahl von Waren für den täglichen Bedarf anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.782432,
+                        22.35864
+                  ]
+            },
+            {
+                  "name": "Murgi Farm Kacha bazar",
+                  "text": "Ein lokaler Frischmarkt, der sich in der Nähe einer Geflügelfarm befindet und für frische Produkte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.7817,
+                        22.354458
+                  ]
+            },
+            {
+                  "name": "Foillatoli Bazar, Halishahar, Chattogram",
+                  "text": "Ein traditioneller Basar im Viertel Halishahar, der ein authentisches Einkaufserlebnis im Herzen von Chattogram bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.775705,
+                        22.344422
+                  ]
+            },
+            {
+                  "name": "I Block Bazar",
+                  "text": "Dieser lokale Markt bedient speziell die Bewohner des I-Blocks und bietet frische Lebensmittel und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        91.784387,
+                        22.339885
+                  ]
+            },
+            {
+                  "name": "Haji Nurul Islam Market, Port Connecting Rd, Chattogram",
+                  "text": "Ein kommerzieller Markt an der Port Connecting Road, der ein wichtiger Handelsknotenpunkt für das Industriegebiet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.785496,
+                        22.350501
+                  ]
+            },
+            {
+                  "name": "Kacha bazaar, Noya bazaar Halisohor, Agrabad Access Rd, Chattogram",
+                  "text": "Ein geschäftiger Frischmarkt an der Agrabad Access Road, bekannt für seine Auswahl an lokalem Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        91.790032,
+                        22.344342
+                  ]
+            },
+            {
+                  "name": "Bou Bazar, Amtol, Bow Bazar, Chattogram",
+                  "text": "Ein volkstümlicher Nachbarschaftsmarkt in Chattogram, der für seine lebendige Atmosphäre und lokalen Imbissstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.795187,
+                        22.344599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bangabandhu Sculpture (Barapole More), Barapole More, Chattogram",
+                  "text": "Sejk Mudzsibur Rahmán tiszteletére emelt hősies emlékmű a Barapole útkereszteződésnél.",
+                  "category": "historical",
+                  "coords": [
+                        91.789276,
+                        22.327997
+                  ]
+            },
+            {
+                  "name": "STAR ART RAOZAN, Chattogram",
+                  "text": "Helyi kulturális központ, amely a képzőművészetnek és a kreatív képzésnek szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        91.78098,
+                        22.359202
+                  ]
+            },
+            {
+                  "name": "Uran Shah Shrine, Dhaka Trunk Rd, Chattogram",
+                  "text": "Hagyományos szúfi kegyhely a forgalmas Dhaka Trunk Road mentén.",
+                  "category": "religious",
+                  "coords": [
+                        91.783815,
+                        22.357988
+                  ]
+            },
+            {
+                  "name": "Monir Ullah Shah Shrine, Port Connecting Rd, Chattogram",
+                  "text": "Helyi mauzóleum és zarándokhely a Port Connecting Road mentén.",
+                  "category": "religious",
+                  "coords": [
+                        91.784716,
+                        22.353214
+                  ]
+            },
+            {
+                  "name": "Eidgah Bou Bazar, Halishahor edhgha, Chattogram",
+                  "text": "Tágas szabadtéri imatér a nagy ünnepi gyülekezetek számára Halishahorban.",
+                  "category": "religious",
+                  "coords": [
+                        91.79632,
+                        22.344685
+                  ]
+            },
+            {
+                  "name": "Texin Fokirer Mazar, Eidgah Munshipara, Chattogram",
+                  "text": "Spirituális sírbolt (mazar) az Eidgah Munshipara lakónegyedben.",
+                  "category": "religious",
+                  "coords": [
+                        91.801631,
+                        22.339119
+                  ]
+            },
+            {
+                  "name": "Azim Shah Mazar, Port Connecting Rd, Chattogram",
+                  "text": "Egy szúfi szent kegyhelye a Port Connecting Road közlekedési folyosója mentén.",
+                  "category": "religious",
+                  "coords": [
+                        91.797671,
+                        22.321533
+                  ]
+            },
+            {
+                  "name": "HHazrat Zamiruddin Shah Mazar Sharif, Port Link Rd, Chattogram",
+                  "text": "Szent sírkomplexum a Port Link Roadon, amelyet gyakran látogatnak a hívők.",
+                  "category": "religious",
+                  "coords": [
+                        91.775177,
+                        22.323359
+                  ]
+            },
+            {
+                  "name": "Sultanul Auliya Kutubul Ershad Hazrat Hafez Muniruddin Nurullah (R) Mazar Sharif, Chattogram",
+                  "text": "Díszes szúfi kegyhely, amelyet egy helyi spirituális tanítónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        91.773656,
+                        22.32073
+                  ]
+            },
+            {
+                  "name": "Hazrat Sayed Shamsul Hoque Jalaluddin (R) and Hazrat Sayeda Anuwara Begum (R) Mazar Sharif, Chattogram",
+                  "text": "Egy szúfi szent és családjának közös síremléke Chattogramban.",
+                  "category": "religious",
+                  "coords": [
+                        91.773811,
+                        22.32166
+                  ]
+            },
+            {
+                  "name": "Hazrat Abdul Jalil Shah RA Mazar, Munir Nagar, Jora pukur par, Chattogram",
+                  "text": "Békés kegyhely a Jora Pukur (iker-tavak) közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.78233,
+                        22.318059
+                  ]
+            },
+            {
+                  "name": "Hazrat Korban Ali Shah Mazar, Korban Ali, Shah Road, Chattogram",
+                  "text": "Vallási kegyhely a Korban Ali Shah Roadon, a névadó szent tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        91.791119,
+                        22.308782
+                  ]
+            },
+            {
+                  "name": "Gausia Committee - Office of Numbering B Unit, Ahammadia School, Road, Chattogram",
+                  "text": "Vallási adminisztratív iroda és közösségi központ az Ahammadia iskola közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.788778,
+                        22.296413
+                  ]
+            },
+            {
+                  "name": "South Kattoli Jame Masjid, Samudra saikata, Chattogram",
+                  "text": "Közösségi mecset Dél-Kattoli tengerparti övezetének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.766822,
+                        22.354031
+                  ]
+            },
+            {
+                  "name": "Islami Somaj Kollan Parishad Jame Mosque, Lane No. 12, Chattogram",
+                  "text": "A 12-es utcában található mecset, amely szociális jóléti tevékenységekre összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        91.781587,
+                        22.355526
+                  ]
+            },
+            {
+                  "name": "Kazir Dighi Masjid,Loharpool Road, masjid er pashe, Chattogram",
+                  "text": "Mecset a Loharpool Road mentén, a történelmi Kazir Dighi tó szomszédságában.",
+                  "category": "religious",
+                  "coords": [
+                        91.78306,
+                        22.352784
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Hurairah (RA) Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "A Próféta egyik társáról elnevezett helyi imaház.",
+                  "category": "religious",
+                  "coords": [
+                        91.767306,
+                        22.347486
+                  ]
+            },
+            {
+                  "name": "Shah Afjal Fakir Mosque, Golichipa Para Rd, Chattogram",
+                  "text": "Hagyományos mecset a Golichipa Para lakónegyedben.",
+                  "category": "religious",
+                  "coords": [
+                        91.77268,
+                        22.339422
+                  ]
+            },
+            {
+                  "name": "Garib Ullah Khandokar Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Ez a mecset az Unnamed Road mentén szolgálja a helyi közösséget Chattogram forgalmas negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        91.771169,
+                        22.342193
+                  ]
+            },
+            {
+                  "name": "Halisohor housing central Jame Masjid, Halishahar, Chattogram",
+                  "text": "Központi mecset, amely a Halishahar lakónegyed vallási központjaként működik Chattogramban.",
+                  "category": "religious",
+                  "coords": [
+                        91.781136,
+                        22.338859
+                  ]
+            },
+            {
+                  "name": "Baitul Akbar Madrasha",
+                  "text": "Ez az intézmény egy mecsetet és egy vallási iskolát ötvöz a helyi szomszédság számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.782449,
+                        22.337656
+                  ]
+            },
+            {
+                  "name": "Nachu Fakir Jame Mosque, Nachu Fakir Jame Mosque, Chattogram",
+                  "text": "Hagyományos pénteki mecset, amely nyugodt helyet biztosít az imádsághoz Chattogram városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        91.791806,
+                        22.341923
+                  ]
+            },
+            {
+                  "name": "Bolir Para Gaousia Jame Masjid, Port Connecting Rd, Chattogram",
+                  "text": "Helyi mecset Bolir Parában, amely a muszlim közösség fontos gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        91.79836,
+                        22.320385
+                  ]
+            },
+            {
+                  "name": "AC Mosque",
+                  "text": "Ez a mecset a légkondicionált imaterméről ismert a környéken, amely enyhülést nyújt a trópusi hőségben.",
+                  "category": "religious",
+                  "coords": [
+                        91.788431,
+                        22.334312
+                  ]
+            },
+            {
+                  "name": "Masjid E Rahmania, Mailer matha, M. A Aziz Rd, Chattogram",
+                  "text": "Jellegzetes mecset az M. A. Aziz Roadon, amely a Mailer Matha kereszteződésnél lévő elhelyezkedése miatt könnyen megtalálható.",
+                  "category": "religious",
+                  "coords": [
+                        91.784944,
+                        22.298783
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Bakr Siddique (RA) Jame Masjid, CEPZ Exit Rd, Chattogram",
+                  "text": "Ez a mecset az exportfeldolgozó övezet (CEPZ) kijáratánál található, és gyakran látogatják az ingázók.",
+                  "category": "religious",
+                  "coords": [
+                        91.779342,
+                        22.294397
+                  ]
+            },
+            {
+                  "name": "Kutub Bari Jame Masjid, Kutub Badi Road, Chattogram",
+                  "text": "Környékbeli mecset a Kutub Badi Roadon, amely lelki központot jelent Chattogram lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.761227,
+                        22.362831
+                  ]
+            },
+            {
+                  "name": "Sagarika Goru Bazar, Chattogram",
+                  "text": "Jelentős helyi piactér Chattogramban, amely különösen az állatkereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.777945,
+                        22.357153
+                  ]
+            },
+            {
+                  "name": "Sagorika Cattle Market, Sagorika Rd, Chattogram",
+                  "text": "Kiterjedt állatvásár a Sagorika Roadon, ahol a régió minden részéről érkező kereskedők gyűlnek össze.",
+                  "category": "cultural",
+                  "coords": [
+                        91.778712,
+                        22.358668
+                  ]
+            },
+            {
+                  "name": "Bandar Bitan Makert, Alanker moor, Chattogram",
+                  "text": "Nyüzsgő piac az Alanker Moornál, amely napi szükségleti cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        91.782432,
+                        22.35864
+                  ]
+            },
+            {
+                  "name": "Murgi Farm Kacha bazar",
+                  "text": "Helyi frissáru piac egy baromfitelep közelében, amely friss termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.7817,
+                        22.354458
+                  ]
+            },
+            {
+                  "name": "Foillatoli Bazar, Halishahar, Chattogram",
+                  "text": "Hagyományos bazár Halishahar negyedében, amely hiteles vásárlási élményt nyújt Chattogram szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        91.775705,
+                        22.344422
+                  ]
+            },
+            {
+                  "name": "I Block Bazar",
+                  "text": "Ez a helyi piac kifejezetten az I-Block lakóit szolgálja ki friss élelmiszerekkel és háztartási cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        91.784387,
+                        22.339885
+                  ]
+            },
+            {
+                  "name": "Haji Nurul Islam Market, Port Connecting Rd, Chattogram",
+                  "text": "Kereskedelmi piac a kikötői összekötő úton, amely az ipari negyed fontos kereskedelmi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        91.785496,
+                        22.350501
+                  ]
+            },
+            {
+                  "name": "Kacha bazaar, Noya bazaar Halisohor, Agrabad Access Rd, Chattogram",
+                  "text": "Forgalmas frissáru piac az Agrabad Access Roadon, amely a helyi zöldségválasztékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.790032,
+                        22.344342
+                  ]
+            },
+            {
+                  "name": "Bou Bazar, Amtol, Bow Bazar, Chattogram",
+                  "text": "Népszerű környékbeli piac Chattogramban, amely vibráló hangulatáról és helyi ételstandjairöl ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.795187,
+                        22.344599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bangabandhu Sculpture (Barapole More), Barapole More, Chattogram",
+                  "text": "Un monument eroic al lui Sheikh Mujibur Rahman situat în intersecția Barapole.",
+                  "category": "historical",
+                  "coords": [
+                        91.789276,
+                        22.327997
+                  ]
+            },
+            {
+                  "name": "STAR ART RAOZAN, Chattogram",
+                  "text": "Un centru cultural local dedicat artelor vizuale și formării creative.",
+                  "category": "cultural",
+                  "coords": [
+                        91.78098,
+                        22.359202
+                  ]
+            },
+            {
+                  "name": "Uran Shah Shrine, Dhaka Trunk Rd, Chattogram",
+                  "text": "Un altar sufi tradițional situat de-a lungul aglomeratei șosele Dhaka Trunk.",
+                  "category": "religious",
+                  "coords": [
+                        91.783815,
+                        22.357988
+                  ]
+            },
+            {
+                  "name": "Monir Ullah Shah Shrine, Port Connecting Rd, Chattogram",
+                  "text": "Un mausoleu local și loc de pelerinaj situat pe Port Connecting Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.784716,
+                        22.353214
+                  ]
+            },
+            {
+                  "name": "Eidgah Bou Bazar, Halishahor edhgha, Chattogram",
+                  "text": "Un teren de rugăciune în aer liber pentru congregații festive masive în Halishahor.",
+                  "category": "religious",
+                  "coords": [
+                        91.79632,
+                        22.344685
+                  ]
+            },
+            {
+                  "name": "Texin Fokirer Mazar, Eidgah Munshipara, Chattogram",
+                  "text": "Un mormânt spiritual (mazar) situat în cartierul Eidgah Munshipara.",
+                  "category": "religious",
+                  "coords": [
+                        91.801631,
+                        22.339119
+                  ]
+            },
+            {
+                  "name": "Azim Shah Mazar, Port Connecting Rd, Chattogram",
+                  "text": "Altarul unui sfânt sufi situat de-a lungul coridorului de transport Port Connecting Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.797671,
+                        22.321533
+                  ]
+            },
+            {
+                  "name": "HHazrat Zamiruddin Shah Mazar Sharif, Port Link Rd, Chattogram",
+                  "text": "Un complex sacru de morminte pe Port Link Road, frecventat de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        91.775177,
+                        22.323359
+                  ]
+            },
+            {
+                  "name": "Sultanul Auliya Kutubul Ershad Hazrat Hafez Muniruddin Nurullah (R) Mazar Sharif, Chattogram",
+                  "text": "Un altar sufi elaborat dedicat unui învățător spiritual local.",
+                  "category": "religious",
+                  "coords": [
+                        91.773656,
+                        22.32073
+                  ]
+            },
+            {
+                  "name": "Hazrat Sayed Shamsul Hoque Jalaluddin (R) and Hazrat Sayeda Anuwara Begum (R) Mazar Sharif, Chattogram",
+                  "text": "Mormântul combinat al unui sfânt sufi și al familiei sale în Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.773811,
+                        22.32166
+                  ]
+            },
+            {
+                  "name": "Hazrat Abdul Jalil Shah RA Mazar, Munir Nagar, Jora pukur par, Chattogram",
+                  "text": "Un altar liniștit situat lângă zona Jora Pukur (iazul geamăn).",
+                  "category": "religious",
+                  "coords": [
+                        91.78233,
+                        22.318059
+                  ]
+            },
+            {
+                  "name": "Hazrat Korban Ali Shah Mazar, Korban Ali, Shah Road, Chattogram",
+                  "text": "Un altar religios pe Korban Ali Shah Road, dedicat sfântului omonim.",
+                  "category": "religious",
+                  "coords": [
+                        91.791119,
+                        22.308782
+                  ]
+            },
+            {
+                  "name": "Gausia Committee - Office of Numbering B Unit, Ahammadia School, Road, Chattogram",
+                  "text": "Un birou administrativ religios și centru comunitar lângă școala Ahammadia.",
+                  "category": "religious",
+                  "coords": [
+                        91.788778,
+                        22.296413
+                  ]
+            },
+            {
+                  "name": "South Kattoli Jame Masjid, Samudra saikata, Chattogram",
+                  "text": "O moschee comunitară situată lângă zona de coastă din South Kattoli.",
+                  "category": "religious",
+                  "coords": [
+                        91.766822,
+                        22.354031
+                  ]
+            },
+            {
+                  "name": "Islami Somaj Kollan Parishad Jame Mosque, Lane No. 12, Chattogram",
+                  "text": "O moschee de cartier pe Lane 12, concentrată pe activități de asistență socială.",
+                  "category": "religious",
+                  "coords": [
+                        91.781587,
+                        22.355526
+                  ]
+            },
+            {
+                  "name": "Kazir Dighi Masjid,Loharpool Road, masjid er pashe, Chattogram",
+                  "text": "O moschee pe Loharpool Road, adiacentă iazului istoric Kazir Dighi.",
+                  "category": "religious",
+                  "coords": [
+                        91.78306,
+                        22.352784
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Hurairah (RA) Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Un lăcaș de cult local numit după un companion al Profetului.",
+                  "category": "religious",
+                  "coords": [
+                        91.767306,
+                        22.347486
+                  ]
+            },
+            {
+                  "name": "Shah Afjal Fakir Mosque, Golichipa Para Rd, Chattogram",
+                  "text": "O moschee tradițională situată în districtul rezidențial Golichipa Para.",
+                  "category": "religious",
+                  "coords": [
+                        91.77268,
+                        22.339422
+                  ]
+            },
+            {
+                  "name": "Garib Ullah Khandokar Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "Această moschee de pe Unnamed Road servește comunitatea locală din cartierul aglomerat Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.771169,
+                        22.342193
+                  ]
+            },
+            {
+                  "name": "Halisohor housing central Jame Masjid, Halishahar, Chattogram",
+                  "text": "O moschee centrală care funcționează ca punct de reper religios pentru zona rezidențială Halishahar din Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.781136,
+                        22.338859
+                  ]
+            },
+            {
+                  "name": "Baitul Akbar Madrasha",
+                  "text": "Această instituție combină o moschee cu o școală religioasă pentru cartierul local.",
+                  "category": "religious",
+                  "coords": [
+                        91.782449,
+                        22.337656
+                  ]
+            },
+            {
+                  "name": "Nachu Fakir Jame Mosque, Nachu Fakir Jame Mosque, Chattogram",
+                  "text": "O moschee tradițională de vineri, care oferă un spațiu liniștit pentru rugăciune în districtul Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.791806,
+                        22.341923
+                  ]
+            },
+            {
+                  "name": "Bolir Para Gaousia Jame Masjid, Port Connecting Rd, Chattogram",
+                  "text": "O moschee locală în Bolir Para, care servește ca loc important de adunare pentru comunitatea musulmană.",
+                  "category": "religious",
+                  "coords": [
+                        91.79836,
+                        22.320385
+                  ]
+            },
+            {
+                  "name": "AC Mosque",
+                  "text": "Această moschee este cunoscută în zonă pentru sala sa de rugăciune cu aer condiționat, care oferă răcoare în arșița tropicală.",
+                  "category": "religious",
+                  "coords": [
+                        91.788431,
+                        22.334312
+                  ]
+            },
+            {
+                  "name": "Masjid E Rahmania, Mailer matha, M. A Aziz Rd, Chattogram",
+                  "text": "O moschee distinctivă pe M. A. Aziz Road, ușor de reperat datorită locației sale la intersecția Mailer Matha.",
+                  "category": "religious",
+                  "coords": [
+                        91.784944,
+                        22.298783
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Bakr Siddique (RA) Jame Masjid, CEPZ Exit Rd, Chattogram",
+                  "text": "Această moschee este situată lângă ieșirea din Zona de Procesare a Exportului (CEPZ) și este frecventată de navetiști.",
+                  "category": "religious",
+                  "coords": [
+                        91.779342,
+                        22.294397
+                  ]
+            },
+            {
+                  "name": "Kutub Bari Jame Masjid, Kutub Badi Road, Chattogram",
+                  "text": "O moschee de cartier pe Kutub Badi Road, reprezentând un centru spiritual pentru locuitorii din Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.761227,
+                        22.362831
+                  ]
+            },
+            {
+                  "name": "Sagarika Goru Bazar, Chattogram",
+                  "text": "O piață locală importantă în Chattogram, cunoscută în special pentru comerțul cu animale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.777945,
+                        22.357153
+                  ]
+            },
+            {
+                  "name": "Sagorika Cattle Market, Sagorika Rd, Chattogram",
+                  "text": "O piață de vite întinsă pe Sagorika Road, unde se adună comercianți din întreaga regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        91.778712,
+                        22.358668
+                  ]
+            },
+            {
+                  "name": "Bandar Bitan Makert, Alanker moor, Chattogram",
+                  "text": "O piață plină de viață la Alanker Moor, care oferă o varietate de bunuri pentru nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        91.782432,
+                        22.35864
+                  ]
+            },
+            {
+                  "name": "Murgi Farm Kacha bazar",
+                  "text": "O piață locală de produse proaspete, situată lângă o fermă de păsări și cunoscută pentru marfa sa.",
+                  "category": "cultural",
+                  "coords": [
+                        91.7817,
+                        22.354458
+                  ]
+            },
+            {
+                  "name": "Foillatoli Bazar, Halishahar, Chattogram",
+                  "text": "Un bazar tradițional în cartierul Halishahar, oferind o experiență de cumpărături autentică în inima orașului Chattogram.",
+                  "category": "cultural",
+                  "coords": [
+                        91.775705,
+                        22.344422
+                  ]
+            },
+            {
+                  "name": "I Block Bazar",
+                  "text": "Această piață locală deservește special locuitorii din I-Block, oferind alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        91.784387,
+                        22.339885
+                  ]
+            },
+            {
+                  "name": "Haji Nurul Islam Market, Port Connecting Rd, Chattogram",
+                  "text": "O piață comercială pe Port Connecting Road, fiind un nod comercial important pentru zona industrială.",
+                  "category": "cultural",
+                  "coords": [
+                        91.785496,
+                        22.350501
+                  ]
+            },
+            {
+                  "name": "Kacha bazaar, Noya bazaar Halisohor, Agrabad Access Rd, Chattogram",
+                  "text": "O piață de produse proaspete aglomerată pe Agrabad Access Road, cunoscută pentru selecția de legume locale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.790032,
+                        22.344342
+                  ]
+            },
+            {
+                  "name": "Bou Bazar, Amtol, Bow Bazar, Chattogram",
+                  "text": "O piață populară de cartier din Chattogram, cunoscută pentru atmosfera sa vibrantă și tarabele cu mâncare locală.",
+                  "category": "cultural",
+                  "coords": [
+                        91.795187,
+                        22.344599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bangabandhu Sculpture (Barapole More), Barapole More, Chattogram",
+                  "text": "A heroic monument of Sheikh Mujibur Rahman located at the Barapole intersection.",
+                  "category": "historical",
+                  "coords": [
+                        91.789276,
+                        22.327997
+                  ]
+            },
+            {
+                  "name": "STAR ART RAOZAN, Chattogram",
+                  "text": "A local cultural center dedicated to visual arts and creative training.",
+                  "category": "cultural",
+                  "coords": [
+                        91.78098,
+                        22.359202
+                  ]
+            },
+            {
+                  "name": "Uran Shah Shrine, Dhaka Trunk Rd, Chattogram",
+                  "text": "A traditional Sufi shrine located along the busy Dhaka Trunk Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.783815,
+                        22.357988
+                  ]
+            },
+            {
+                  "name": "Monir Ullah Shah Shrine, Port Connecting Rd, Chattogram",
+                  "text": "A local mausoleum and pilgrimage site on Port Connecting Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.784716,
+                        22.353214
+                  ]
+            },
+            {
+                  "name": "Eidgah Bou Bazar, Halishahor edhgha, Chattogram",
+                  "text": "A wide open-air prayer ground used for massive festival congregations in Halishahor.",
+                  "category": "religious",
+                  "coords": [
+                        91.79632,
+                        22.344685
+                  ]
+            },
+            {
+                  "name": "Texin Fokirer Mazar, Eidgah Munshipara, Chattogram",
+                  "text": "A spiritual tomb (mazar) located in the Eidgah Munshipara neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        91.801631,
+                        22.339119
+                  ]
+            },
+            {
+                  "name": "Azim Shah Mazar, Port Connecting Rd, Chattogram",
+                  "text": "A Sufi saint's shrine situated along the Port Connecting Road transport corridor.",
+                  "category": "religious",
+                  "coords": [
+                        91.797671,
+                        22.321533
+                  ]
+            },
+            {
+                  "name": "HHazrat Zamiruddin Shah Mazar Sharif, Port Link Rd, Chattogram",
+                  "text": "A sacred tomb complex on Port Link Road frequented by devotees.",
+                  "category": "religious",
+                  "coords": [
+                        91.775177,
+                        22.323359
+                  ]
+            },
+            {
+                  "name": "Sultanul Auliya Kutubul Ershad Hazrat Hafez Muniruddin Nurullah (R) Mazar Sharif, Chattogram",
+                  "text": "An elaborate Sufi shrine dedicated to a local spiritual teacher.",
+                  "category": "religious",
+                  "coords": [
+                        91.773656,
+                        22.32073
+                  ]
+            },
+            {
+                  "name": "Hazrat Sayed Shamsul Hoque Jalaluddin (R) and Hazrat Sayeda Anuwara Begum (R) Mazar Sharif, Chattogram",
+                  "text": "A combined mazar of a Sufi saint and his family in Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.773811,
+                        22.32166
+                  ]
+            },
+            {
+                  "name": "Hazrat Abdul Jalil Shah RA Mazar, Munir Nagar, Jora pukur par, Chattogram",
+                  "text": "A peaceful shrine located near the Jora Pukur (twin pond) area.",
+                  "category": "religious",
+                  "coords": [
+                        91.78233,
+                        22.318059
+                  ]
+            },
+            {
+                  "name": "Hazrat Korban Ali Shah Mazar, Korban Ali, Shah Road, Chattogram",
+                  "text": "A religious shrine on Korban Ali Shah Road dedicated to the eponymous saint.",
+                  "category": "religious",
+                  "coords": [
+                        91.791119,
+                        22.308782
+                  ]
+            },
+            {
+                  "name": "Gausia Committee - Office of Numbering B Unit, Ahammadia School, Road, Chattogram",
+                  "text": "A religious administrative office and community center near the Ahammadia School.",
+                  "category": "religious",
+                  "coords": [
+                        91.788778,
+                        22.296413
+                  ]
+            },
+            {
+                  "name": "South Kattoli Jame Masjid, Samudra saikata, Chattogram",
+                  "text": "A community mosque located near the coastal area of South Kattoli.",
+                  "category": "religious",
+                  "coords": [
+                        91.766822,
+                        22.354031
+                  ]
+            },
+            {
+                  "name": "Islami Somaj Kollan Parishad Jame Mosque, Lane No. 12, Chattogram",
+                  "text": "A neighborhood mosque on Lane 12 focused on social welfare activities.",
+                  "category": "religious",
+                  "coords": [
+                        91.781587,
+                        22.355526
+                  ]
+            },
+            {
+                  "name": "Kazir Dighi Masjid,Loharpool Road, masjid er pashe, Chattogram",
+                  "text": "A mosque located on Loharpool Road adjacent to the historical Kazir Dighi pond.",
+                  "category": "religious",
+                  "coords": [
+                        91.78306,
+                        22.352784
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Hurairah (RA) Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "A local place of worship named after a companion of the Prophet.",
+                  "category": "religious",
+                  "coords": [
+                        91.767306,
+                        22.347486
+                  ]
+            },
+            {
+                  "name": "Shah Afjal Fakir Mosque, Golichipa Para Rd, Chattogram",
+                  "text": "A traditional mosque situated in the Golichipa Para residential district.",
+                  "category": "religious",
+                  "coords": [
+                        91.77268,
+                        22.339422
+                  ]
+            },
+            {
+                  "name": "Garib Ullah Khandokar Jame Masjid, Unnamed Road, Chattogram",
+                  "text": "This mosque along Unnamed Road serves the local community in the busy district of Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.771169,
+                        22.342193
+                  ]
+            },
+            {
+                  "name": "Halisohor housing central Jame Masjid, Halishahar, Chattogram",
+                  "text": "A central mosque that serves as a religious focal point for the Halishahar housing area in Chattogram.",
+                  "category": "religious",
+                  "coords": [
+                        91.781136,
+                        22.338859
+                  ]
+            },
+            {
+                  "name": "Baitul Akbar Madrasha",
+                  "text": "This facility combines a mosque with a religious school for the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        91.782449,
+                        22.337656
+                  ]
+            },
+            {
+                  "name": "Nachu Fakir Jame Mosque, Nachu Fakir Jame Mosque, Chattogram",
+                  "text": "A traditional Friday mosque providing a quiet space for prayer in the Chattogram district.",
+                  "category": "religious",
+                  "coords": [
+                        91.791806,
+                        22.341923
+                  ]
+            },
+            {
+                  "name": "Bolir Para Gaousia Jame Masjid",
+                  "text": "A local mosque in Bolir Para that serves as an important gathering place for the Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        91.79836,
+                        22.320385
+                  ]
+            },
+            {
+                  "name": "AC Mosque",
+                  "text": "This mosque is known in the area for its air-conditioned prayer hall, providing relief from the tropical heat.",
+                  "category": "religious",
+                  "coords": [
+                        91.788431,
+                        22.334312
+                  ]
+            },
+            {
+                  "name": "Masjid E Rahmania, Mailer matha, M. A Aziz Rd, Chattogram",
+                  "text": "A prominent mosque on M. A. Aziz Road, easily located due to its position at the Mailer Matha intersection.",
+                  "category": "religious",
+                  "coords": [
+                        91.784944,
+                        22.298783
+                  ]
+            },
+            {
+                  "name": "Hazrat Abu Bakr Siddique (RA) Jame Masjid, CEPZ Exit Rd, Chattogram",
+                  "text": "Located near the Export Processing Zone (CEPZ) exit, this mosque is frequently visited by commuting workers.",
+                  "category": "religious",
+                  "coords": [
+                        91.779342,
+                        22.294397
+                  ]
+            },
+            {
+                  "name": "Kutub Bari Jame Masjid, Kutub Badi Road, Chattogram",
+                  "text": "A neighborhood mosque on Kutub Badi Road, providing a spiritual center for Chattogram residents.",
+                  "category": "religious",
+                  "coords": [
+                        91.761227,
+                        22.362831
+                  ]
+            },
+            {
+                  "name": "Sagarika Goru Bazar, Chattogram",
+                  "text": "A significant local marketplace in Chattogram, particularly well-known for the livestock trade.",
+                  "category": "cultural",
+                  "coords": [
+                        91.777945,
+                        22.357153
+                  ]
+            },
+            {
+                  "name": "Sagorika Cattle Market, Sagorika Rd, Chattogram",
+                  "text": "An extensive cattle market on Sagorika Road where traders from across the region gather.",
+                  "category": "cultural",
+                  "coords": [
+                        91.778712,
+                        22.358668
+                  ]
+            },
+            {
+                  "name": "Bandar Bitan Makert, Alanker moor, Chattogram",
+                  "text": "A bustling market located at Alanker Moor, offering a variety of goods for daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        91.782432,
+                        22.35864
+                  ]
+            },
+            {
+                  "name": "Murgi Farm Kacha bazar",
+                  "text": "A local fresh market situated near a poultry farm area, known for its daily produce.",
+                  "category": "cultural",
+                  "coords": [
+                        91.7817,
+                        22.354458
+                  ]
+            },
+            {
+                  "name": "Foillatoli Bazar, Halishahar, Chattogram",
+                  "text": "A traditional bazaar in the Halishahar neighborhood, offering an authentic shopping experience in Chattogram.",
+                  "category": "cultural",
+                  "coords": [
+                        91.775705,
+                        22.344422
+                  ]
+            },
+            {
+                  "name": "I Block Bazar",
+                  "text": "This local market specifically serves the residents of I Block, providing fresh food and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        91.784387,
+                        22.339885
+                  ]
+            },
+            {
+                  "name": "Haji Nurul Islam Market, Port Connecting Rd, Chattogram",
+                  "text": "A commercial market on the Port Connecting Road, serving as an important trade hub for the industrial area.",
+                  "category": "cultural",
+                  "coords": [
+                        91.785496,
+                        22.350501
+                  ]
+            },
+            {
+                  "name": "Kacha bazaar, Noya bazaar Halisohor, Agrabad Access Rd, Chattogram",
+                  "text": "A busy fresh market on Agrabad Access Road, known for its selection of local vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        91.790032,
+                        22.344342
+                  ]
+            },
+            {
+                  "name": "Bou Bazar, Amtol, Bow Bazar, Chattogram",
+                  "text": "A popular neighborhood market in Chattogram, known for its vibrant atmosphere and local food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        91.795187,
+                        22.344599
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Sagorika", hu: "Sagorika ipari negyed", ro: "Zona industrială Sagorika", en: "Sagorika Industrial Area" },
@@ -948,7 +17967,1204 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-sagorika-industrial-economic-v2.webp",
   },
   {
-    id: "bangladesh-faujdarhat-industrial-economic-v2",
+    id: "bangladesh-faujdarhat-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chittagong University Museam",
+                  "text": "Das Universitätsmuseum beherbergt eine bedeutende Sammlung regionaler Artefakte, darunter antike Skulpturen und historische Dokumente.",
+                  "category": "museum",
+                  "coords": [
+                        91.784464,
+                        22.470437
+                  ]
+            },
+            {
+                  "name": "Swaran",
+                  "text": "Ein Gedenkkunstwerk auf dem Campus der Universität Chittagong, das an wichtige historische Ereignisse erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        91.793369,
+                        22.471024
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar",
+                  "text": "Ein zentrales Denkmal an der Universität, das den Märtyrern der Sprachbewegung von 1952 gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        91.787042,
+                        22.47092
+                  ]
+            },
+            {
+                  "name": "Mile Test SP, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+                  "text": "Ein strategischer militärischer Kontrollpunkt und Ausbildungsort in den malerischen Hügeln von Bhatiari.",
+                  "category": "fortress",
+                  "coords": [
+                        91.75213,
+                        22.428724
+                  ]
+            },
+            {
+                  "name": "Shahid S Kabir sir ambagaan ground",
+                  "text": "Ein Gedenkort und Übungsgelände innerhalb des Militärareal, benannt nach einem gefallenen Offizier.",
+                  "category": "fortress",
+                  "coords": [
+                        91.750908,
+                        22.427726
+                  ]
+            },
+            {
+                  "name": "Parityakta lala ghore, Faujdarhat, Dhaka - Chittagong Hwy, Chattogram",
+                  "text": "Ein verlassenes, markantes rotes Gebäude an der Schnellstraße nach Chattogram.",
+                  "category": "historical",
+                  "coords": [
+                        91.757141,
+                        22.405781
+                  ]
+            },
+            {
+                  "name": "Bhatiari Shaheed Minar, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "Ein Denkmal für die Sprachmärtyrer an der belebten Hauptstraße in Bhatiari.",
+                  "category": "historical",
+                  "coords": [
+                        91.746175,
+                        22.424426
+                  ]
+            },
+            {
+                  "name": "Sea Marine Enterprise, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "Ein maritim gestaltetes Denkmal in der Industriezone von Bhatiari.",
+                  "category": "historical",
+                  "coords": [
+                        91.738673,
+                        22.439631
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein lokales Gebetshaus für die industrielle Gemeinschaft von Faujdarhat.",
+                  "category": "religious",
+                  "coords": [
+                        91.789492,
+                        22.462835
+                  ]
+            },
+            {
+                  "name": "Shah Jalal Hall Mosque",
+                  "text": "Ein spirituelles Zentrum für Studenten nahe dem Shah-Jalal-Wohnheim.",
+                  "category": "religious",
+                  "coords": [
+                        91.792641,
+                        22.472138
+                  ]
+            },
+            {
+                  "name": "সৌখিন কলোনি মসজিদ",
+                  "text": "Eine Moschee inmitten der Shoukhin-Wohnkolonie für die dortigen Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        91.788369,
+                        22.480182
+                  ]
+            },
+            {
+                  "name": "Hazrat Allama Shajani (R) Dargah Sharif হজরত আল্লামা শাহজানি (রঃ) দরগাহ শরীফ",
+                  "text": "Ein verehrter Sufi-Schrein von Hazrat Allama Shajani, der lokale Pilger anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        91.738257,
+                        22.438573
+                  ]
+            },
+            {
+                  "name": "Hajrate Korbana Ali Shah (RA)er Mazar Sharif, Bhatiari, Chattogram",
+                  "text": "Ein Sufi-Schrein in Bhatiari, an dem Gläubige Gebete für Korbana Ali Shah verrichten.",
+                  "category": "religious",
+                  "coords": [
+                        91.741955,
+                        22.437844
+                  ]
+            },
+            {
+                  "name": "Stetion road, Rail Station, Bhatiari, Chattogram",
+                  "text": "Ein Gebetshaus in verkehrsgünstiger Lage nahe dem Bahnhof von Bhatiari.",
+                  "category": "religious",
+                  "coords": [
+                        91.750712,
+                        22.430258
+                  ]
+            },
+            {
+                  "name": "Hazrat Maulana Shah Chufi Hussain Shah (RA) Chilla Sharif and Ibadatkhana,Bhatiari Overbridge, Bhatiari, Chattogram",
+                  "text": "Ein Ort der Meditation und Schrein nahe der Autobahnüberführung von Bhatiari.",
+                  "category": "religious",
+                  "coords": [
+                        91.750219,
+                        22.425826
+                  ]
+            },
+            {
+                  "name": "Hazrat Kalu Shah (R:) Mazar Sharif, Salimpur, Salimpur Union, Chattogram",
+                  "text": "Ein traditionelles Sufi-Mazar in Salimpur, das Hazrat Kalu Shah gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.758694,
+                        22.389064
+                  ]
+            },
+            {
+                  "name": "BMA Mosque 1, Bhatiari, Bhatiari Union, Chattogram",
+                  "text": "Eine große militärische Gebetshalle auf dem Gelände der Militärakademie von Bangladesch.",
+                  "category": "religious",
+                  "coords": [
+                        91.755774,
+                        22.423276
+                  ]
+            },
+            {
+                  "name": "Ambia Masjid, Ambia Bari Rd, Sonaichhari, Chattogram",
+                  "text": "Eine Nachbarschaftsmoschee an der Ambia Bari Road in Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.713507,
+                        22.486777
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Masjid, Sonaichhari, Chattogram",
+                  "text": "Eine lokale Moschee für die Industrie- und Wohngebiete von Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.716663,
+                        22.479672
+                  ]
+            },
+            {
+                  "name": "Ghazi Jame Masjid, Unnamed Road, Sonaichhari, Chattogram",
+                  "text": "Ein gemeinschaftliches Gebetshaus an einer unbenannten Straße in Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.724699,
+                        22.48002
+                  ]
+            },
+            {
+                  "name": "Old Colony Jame Masjid, Hafiz Jute Mills Rd, Sonaichhari, Chittagong",
+                  "text": "Ein historischer Gebetsort nahe der Wohnsiedlung der Hafiz-Jutespinnerei.",
+                  "category": "religious",
+                  "coords": [
+                        91.725767,
+                        22.476614
+                  ]
+            },
+            {
+                  "name": "Hazrat Peer Baroawlia (R) Jame Mosque, Sonaichhari, Chattogram",
+                  "text": "Eine Moschee in Sonaichhari, benannt nach dem prominenten Heiligen Peer Baroawlia.",
+                  "category": "religious",
+                  "coords": [
+                        91.721081,
+                        22.478073
+                  ]
+            },
+            {
+                  "name": "Mowlana jame Masjid, Sonaichhari, Chattogram",
+                  "text": "Eine traditionelle Moschee für die religiösen Bedürfnisse der Gemeinde Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.725012,
+                        22.467548
+                  ]
+            },
+            {
+                  "name": "Delepara Wajuddin Sarang Jame Masjid, near mukbul, Ali Azam Rd, Sonaichhari, Chattogram",
+                  "text": "Eine lokale Jame-Moschee an der Ali Azam Road nahe dem Delepara-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        91.728208,
+                        22.460087
+                  ]
+            },
+            {
+                  "name": "রহমত উল্লাহ্‌ (রঃ) এর রওজা শরীফ",
+                  "text": "Das heilige Grab des Heiligen Rahmat Ullah, ein Ort lokaler Verehrung.",
+                  "category": "religious",
+                  "coords": [
+                        91.736604,
+                        22.440817
+                  ]
+            },
+            {
+                  "name": "Ali nogor Abdul Jalil jame mosque, Bhatiari, Chattogram",
+                  "text": "Eine lokale Moschee in Bhatiari, die der Ali-Nogor-Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        91.733521,
+                        22.457134
+                  ]
+            },
+            {
+                  "name": "Kashem Ali Ma Jame Mosque",
+                  "text": "Eine Gemeindemoschee für die täglichen Gebete im Bezirk Bhatiari.",
+                  "category": "religious",
+                  "coords": [
+                        91.735183,
+                        22.461162
+                  ]
+            },
+            {
+                  "name": "AKSML Internal Masjid, Sonaichhari, Chattogram",
+                  "text": "Ein privater Gebetsraum innerhalb des AKSML-Industriekomplexes.",
+                  "category": "religious",
+                  "coords": [
+                        91.736297,
+                        22.468774
+                  ]
+            },
+            {
+                  "name": "CDA Salimpur Residential Area Jame Masjid, Solimpur CDA R/A, Chattogram",
+                  "text": "Eine moderne Moschee für die Bewohner des CDA-Wohngebiets Salimpur.",
+                  "category": "religious",
+                  "coords": [
+                        91.765718,
+                        22.413766
+                  ]
+            },
+            {
+                  "name": "Baitul Mamur Jame Masjid, Salimpur North, Salimpur Union, Chattogram",
+                  "text": "Ein lokales Gebetshaus für das Viertel Nord-Salimpur.",
+                  "category": "religious",
+                  "coords": [
+                        91.754403,
+                        22.405406
+                  ]
+            },
+            {
+                  "name": "Kaderi Mosjid, Hazi Fayez Ahmed Rd, Salimpur, Chattogram",
+                  "text": "Eine kleine Moschee an der Hazi Fayez Ahmed Road im Bezirk Salimpur.",
+                  "category": "religious",
+                  "coords": [
+                        91.751189,
+                        22.413125
+                  ]
+            },
+            {
+                  "name": "Bocha Mian Shah (R:) Majar বোচা মিয়া শাহ্‌ (রঃ) মাজার",
+                  "text": "Ein lokaler Pilgerort in Salimpur mit dem Grab von Bocha Mian Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.755611,
+                        22.412799
+                  ]
+            },
+            {
+                  "name": "Mirzanagar Fakira Jame Masjid, Salimpur, Bhatiari, Chattogram",
+                  "text": "Eine Gemeindemoschee im Viertel Mirzanagar nahe der Schnellstraße.",
+                  "category": "religious",
+                  "coords": [
+                        91.745741,
+                        22.410616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chittagong University Museam",
+                  "text": "Az egyetemi múzeum a régió műtárgyainak jelentős gyűjteményét őrzi, beleértve az ókori szobrokat és történelmi dokumentumokat.",
+                  "category": "museum",
+                  "coords": [
+                        91.784464,
+                        22.470437
+                  ]
+            },
+            {
+                  "name": "Swaran",
+                  "text": "Egy emlékmű a Chittagongi Egyetem kampuszán, amely fontos történelmi eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        91.793369,
+                        22.471024
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar",
+                  "text": "Az egyetem központi emlékműve, amelyet az 1952-es nyelvmozgalom mártírjainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        91.787042,
+                        22.47092
+                  ]
+            },
+            {
+                  "name": "Mile Test SP, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+                  "text": "Egy stratégiai katonai ellenőrző pont és kiképzőhely a festői Bhatiari-dombok között.",
+                  "category": "fortress",
+                  "coords": [
+                        91.75213,
+                        22.428724
+                  ]
+            },
+            {
+                  "name": "Shahid S Kabir sir ambagaan ground",
+                  "text": "Emlékhely és gyakorlótér a katonai területen belül, amelyet egy elesett tisztről neveztek el.",
+                  "category": "fortress",
+                  "coords": [
+                        91.750908,
+                        22.427726
+                  ]
+            },
+            {
+                  "name": "Parityakta lala ghore, Faujdarhat, Dhaka - Chittagong Hwy, Chattogram",
+                  "text": "Egy elhagyatott, jellegzetes vörös épület a Chattogram felé vezető autópálya mentén.",
+                  "category": "historical",
+                  "coords": [
+                        91.757141,
+                        22.405781
+                  ]
+            },
+            {
+                  "name": "Bhatiari Shaheed Minar, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "A nyelvvértanúk emlékműve Bhatiari forgalmas főútja mentén.",
+                  "category": "historical",
+                  "coords": [
+                        91.746175,
+                        22.424426
+                  ]
+            },
+            {
+                  "name": "Sea Marine Enterprise, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "Tengerészeti témájú emlékmű Bhatiari ipari negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        91.738673,
+                        22.439631
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi imaház Faujdarhat ipari közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.789492,
+                        22.462835
+                  ]
+            },
+            {
+                  "name": "Shah Jalal Hall Mosque",
+                  "text": "Spirituális központ a hallgatók számára a Shah Jalal kollégium közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.792641,
+                        22.472138
+                  ]
+            },
+            {
+                  "name": "সৌখিন কলোনি মসজিদ",
+                  "text": "A Shoukhin lakótelep szívében található mecset a helyi lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.788369,
+                        22.480182
+                  ]
+            },
+            {
+                  "name": "Hazrat Allama Shajani (R) Dargah Sharif হজরত আল্লামা শাহজানি (রঃ) দরগাহ শরীফ",
+                  "text": "Hazrat Allama Shajani tisztelt szúfi kegyhelye, amely vonzza a helyi zarándokokat.",
+                  "category": "religious",
+                  "coords": [
+                        91.738257,
+                        22.438573
+                  ]
+            },
+            {
+                  "name": "Hajrate Korbana Ali Shah (RA)er Mazar Sharif, Bhatiari, Chattogram",
+                  "text": "Szúfi kegyhely Bhatiari-ban, ahol a hívők Korbana Ali Shah-hoz imádkoznak.",
+                  "category": "religious",
+                  "coords": [
+                        91.741955,
+                        22.437844
+                  ]
+            },
+            {
+                  "name": "Stetion road, Rail Station, Bhatiari, Chattogram",
+                  "text": "Kényelmes helyen, a bhatiari vasútállomás közelében található imaház.",
+                  "category": "religious",
+                  "coords": [
+                        91.750712,
+                        22.430258
+                  ]
+            },
+            {
+                  "name": "Hazrat Maulana Shah Chufi Hussain Shah (RA) Chilla Sharif and Ibadatkhana,Bhatiari Overbridge, Bhatiari, Chattogram",
+                  "text": "Meditációs hely és kegyhely a bhatiari autópálya-felüljáró közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.750219,
+                        22.425826
+                  ]
+            },
+            {
+                  "name": "Hazrat Kalu Shah (R:) Mazar Sharif, Salimpur, Salimpur Union, Chattogram",
+                  "text": "Hagyományos szúfi mazar Salimpurban, Hazrat Kalu Shah emlékére.",
+                  "category": "religious",
+                  "coords": [
+                        91.758694,
+                        22.389064
+                  ]
+            },
+            {
+                  "name": "BMA Mosque 1, Bhatiari, Bhatiari Union, Chattogram",
+                  "text": "A Bangladesi Katonai Akadémia területén található tágas katonai imaház.",
+                  "category": "religious",
+                  "coords": [
+                        91.755774,
+                        22.423276
+                  ]
+            },
+            {
+                  "name": "Ambia Masjid, Ambia Bari Rd, Sonaichhari, Chattogram",
+                  "text": "Környékbeli mecset a Sonaichhari-ban található Ambia Bari úton.",
+                  "category": "religious",
+                  "coords": [
+                        91.713507,
+                        22.486777
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Masjid, Sonaichhari, Chattogram",
+                  "text": "Helyi mecset Sonaichhari ipari és lakónegyedei számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.716663,
+                        22.479672
+                  ]
+            },
+            {
+                  "name": "Ghazi Jame Masjid, Unnamed Road, Sonaichhari, Chattogram",
+                  "text": "Közösségi imaház egy névtelen úton Sonaichhari-ban.",
+                  "category": "religious",
+                  "coords": [
+                        91.724699,
+                        22.48002
+                  ]
+            },
+            {
+                  "name": "Old Colony Jame Masjid, Hafiz Jute Mills Rd, Sonaichhari, Chittagong",
+                  "text": "Történelmi imaház a Hafiz jutagyár lakónegyedének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.725767,
+                        22.476614
+                  ]
+            },
+            {
+                  "name": "Hazrat Peer Baroawlia (R) Jame Mosque, Sonaichhari, Chattogram",
+                  "text": "Sonaichhari mecsetje, amelyet a neves Peer Baroawlia szentről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        91.721081,
+                        22.478073
+                  ]
+            },
+            {
+                  "name": "Mowlana jame Masjid, Sonaichhari, Chattogram",
+                  "text": "Hagyományos mecset a sonaichhari közösség vallási igényeinek kielégítésére.",
+                  "category": "religious",
+                  "coords": [
+                        91.725012,
+                        22.467548
+                  ]
+            },
+            {
+                  "name": "Delepara Wajuddin Sarang Jame Masjid, near mukbul, Ali Azam Rd, Sonaichhari, Chattogram",
+                  "text": "Helyi Jame mecset az Ali Azam úton, a Delepara negyed közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.728208,
+                        22.460087
+                  ]
+            },
+            {
+                  "name": "রহমত উল্লাহ্‌ (রঃ) এর রওজা শরীফ",
+                  "text": "Rahmat Ullah szent sírja, a helyi tisztelet egyik központja.",
+                  "category": "religious",
+                  "coords": [
+                        91.736604,
+                        22.440817
+                  ]
+            },
+            {
+                  "name": "Ali nogor Abdul Jalil jame mosque, Bhatiari, Chattogram",
+                  "text": "Helyi mecset Bhatiari-ban, amely az Ali Nogor közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        91.733521,
+                        22.457134
+                  ]
+            },
+            {
+                  "name": "Kashem Ali Ma Jame Mosque",
+                  "text": "Közösségi mecset a napi imádságokhoz Bhatiari negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        91.735183,
+                        22.461162
+                  ]
+            },
+            {
+                  "name": "AKSML Internal Masjid, Sonaichhari, Chattogram",
+                  "text": "Magán imaház az AKSML ipari komplexum területén belül.",
+                  "category": "religious",
+                  "coords": [
+                        91.736297,
+                        22.468774
+                  ]
+            },
+            {
+                  "name": "CDA Salimpur Residential Area Jame Masjid, Solimpur CDA R/A, Chattogram",
+                  "text": "Modern mecset a Salimpur CDA lakónegyed lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.765718,
+                        22.413766
+                  ]
+            },
+            {
+                  "name": "Baitul Mamur Jame Masjid, Salimpur North, Salimpur Union, Chattogram",
+                  "text": "Helyi imaház Észak-Salimpur negyede számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.754403,
+                        22.405406
+                  ]
+            },
+            {
+                  "name": "Kaderi Mosjid, Hazi Fayez Ahmed Rd, Salimpur, Chattogram",
+                  "text": "Kis mecset a salimpuri Hazi Fayez Ahmed úton.",
+                  "category": "religious",
+                  "coords": [
+                        91.751189,
+                        22.413125
+                  ]
+            },
+            {
+                  "name": "Bocha Mian Shah (R:) Majar বোচা মিয়া শাহ্‌ (রঃ) মাজার",
+                  "text": "Helyi zarándokhely Salimpurban, ahol Bocha Mian Shah sírja található.",
+                  "category": "religious",
+                  "coords": [
+                        91.755611,
+                        22.412799
+                  ]
+            },
+            {
+                  "name": "Mirzanagar Fakira Jame Masjid, Salimpur, Bhatiari, Chattogram",
+                  "text": "Közösségi mecset Mirzanagar negyedében, az autópálya közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.745741,
+                        22.410616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chittagong University Museam",
+                  "text": "Muzeul universității găzduiește o colecție importantă de artefacte regionale, inclusiv sculpturi antice și documente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        91.784464,
+                        22.470437
+                  ]
+            },
+            {
+                  "name": "Swaran",
+                  "text": "O operă de artă memorială în campusul Universității din Chittagong, care comemorează evenimente istorice importante.",
+                  "category": "historical",
+                  "coords": [
+                        91.793369,
+                        22.471024
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar",
+                  "text": "Un monument central la universitate, dedicat martirilor Mișcării pentru Limbă din 1952.",
+                  "category": "historical",
+                  "coords": [
+                        91.787042,
+                        22.47092
+                  ]
+            },
+            {
+                  "name": "Mile Test SP, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+                  "text": "Un punct de control militar strategic și un loc de antrenament situat în dealurile pitorești din Bhatiari.",
+                  "category": "fortress",
+                  "coords": [
+                        91.75213,
+                        22.428724
+                  ]
+            },
+            {
+                  "name": "Shahid S Kabir sir ambagaan ground",
+                  "text": "Un sit comemorativ și teren în cadrul zonei militare, numit după un ofițer căzut la datorie.",
+                  "category": "fortress",
+                  "coords": [
+                        91.750908,
+                        22.427726
+                  ]
+            },
+            {
+                  "name": "Parityakta lala ghore, Faujdarhat, Dhaka - Chittagong Hwy, Chattogram",
+                  "text": "O clădire roșie abandonată, situată pe autostrada spre Chattogram.",
+                  "category": "historical",
+                  "coords": [
+                        91.757141,
+                        22.405781
+                  ]
+            },
+            {
+                  "name": "Bhatiari Shaheed Minar, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "Un monument dedicat martirilor limbii, situat pe drumul principal din Bhatiari.",
+                  "category": "historical",
+                  "coords": [
+                        91.746175,
+                        22.424426
+                  ]
+            },
+            {
+                  "name": "Sea Marine Enterprise, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "Un monument cu tematică maritimă situat în zona industrială din Bhatiari.",
+                  "category": "historical",
+                  "coords": [
+                        91.738673,
+                        22.439631
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult local ce deservește comunitatea industrială din Faujdarhat.",
+                  "category": "religious",
+                  "coords": [
+                        91.789492,
+                        22.462835
+                  ]
+            },
+            {
+                  "name": "Shah Jalal Hall Mosque",
+                  "text": "Un centru spiritual pentru studenți, situat lângă căminul Shah Jalal.",
+                  "category": "religious",
+                  "coords": [
+                        91.792641,
+                        22.472138
+                  ]
+            },
+            {
+                  "name": "সৌখিন কলোনি মসজিদ",
+                  "text": "O moschee situată în mijlocul coloniei rezidențiale Shoukhin pentru locuitorii zonei.",
+                  "category": "religious",
+                  "coords": [
+                        91.788369,
+                        22.480182
+                  ]
+            },
+            {
+                  "name": "Hazrat Allama Shajani (R) Dargah Sharif হজরত আল্লামা শাহজানি (রঃ) দরগাহ শরীফ",
+                  "text": "Sanctuarul sufit venerat al lui Hazrat Allama Shajani, care atrage pelerini locali.",
+                  "category": "religious",
+                  "coords": [
+                        91.738257,
+                        22.438573
+                  ]
+            },
+            {
+                  "name": "Hajrate Korbana Ali Shah (RA)er Mazar Sharif, Bhatiari, Chattogram",
+                  "text": "Un sanctuar sufit din Bhatiari, unde credincioșii oferă rugăciuni lui Korbana Ali Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.741955,
+                        22.437844
+                  ]
+            },
+            {
+                  "name": "Stetion road, Rail Station, Bhatiari, Chattogram",
+                  "text": "O casă de rugăciune situată convenabil lângă gara din Bhatiari.",
+                  "category": "religious",
+                  "coords": [
+                        91.750712,
+                        22.430258
+                  ]
+            },
+            {
+                  "name": "Hazrat Maulana Shah Chufi Hussain Shah (RA) Chilla Sharif and Ibadatkhana,Bhatiari Overbridge, Bhatiari, Chattogram",
+                  "text": "Un loc de meditație și sanctuar situat lângă pasajul autostrăzii din Bhatiari.",
+                  "category": "religious",
+                  "coords": [
+                        91.750219,
+                        22.425826
+                  ]
+            },
+            {
+                  "name": "Hazrat Kalu Shah (R:) Mazar Sharif, Salimpur, Salimpur Union, Chattogram",
+                  "text": "Un mazar sufit tradițional din Salimpur, dedicat lui Hazrat Kalu Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.758694,
+                        22.389064
+                  ]
+            },
+            {
+                  "name": "BMA Mosque 1, Bhatiari, Bhatiari Union, Chattogram",
+                  "text": "O sală mare de rugăciune situată în incinta Academiei Militare din Bangladesh.",
+                  "category": "religious",
+                  "coords": [
+                        91.755774,
+                        22.423276
+                  ]
+            },
+            {
+                  "name": "Ambia Masjid, Ambia Bari Rd, Sonaichhari, Chattogram",
+                  "text": "O moschee de cartier situată pe strada Ambia Bari din Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.713507,
+                        22.486777
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Masjid, Sonaichhari, Chattogram",
+                  "text": "O moschee locală ce deservește zonele industriale și rezidențiale din Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.716663,
+                        22.479672
+                  ]
+            },
+            {
+                  "name": "Ghazi Jame Masjid, Unnamed Road, Sonaichhari, Chattogram",
+                  "text": "Un lăcaș de cult comunitar situat pe un drum fără nume din Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.724699,
+                        22.48002
+                  ]
+            },
+            {
+                  "name": "Old Colony Jame Masjid, Hafiz Jute Mills Rd, Sonaichhari, Chittagong",
+                  "text": "Un loc istoric de rugăciune situat lângă zona rezidențială a fabricii de iută Hafiz.",
+                  "category": "religious",
+                  "coords": [
+                        91.725767,
+                        22.476614
+                  ]
+            },
+            {
+                  "name": "Hazrat Peer Baroawlia (R) Jame Mosque, Sonaichhari, Chattogram",
+                  "text": "O moschee din Sonaichhari, numită după proeminentul sfânt Peer Baroawlia.",
+                  "category": "religious",
+                  "coords": [
+                        91.721081,
+                        22.478073
+                  ]
+            },
+            {
+                  "name": "Mowlana jame Masjid, Sonaichhari, Chattogram",
+                  "text": "O moschee tradițională ce răspunde nevoilor religioase ale comunității Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.725012,
+                        22.467548
+                  ]
+            },
+            {
+                  "name": "Delepara Wajuddin Sarang Jame Masjid, near mukbul, Ali Azam Rd, Sonaichhari, Chattogram",
+                  "text": "O moschee Jame locală situată pe strada Ali Azam, lângă zona Delepara.",
+                  "category": "religious",
+                  "coords": [
+                        91.728208,
+                        22.460087
+                  ]
+            },
+            {
+                  "name": "রহমত উল্লাহ্‌ (রঃ) এর রওজা শরীফ",
+                  "text": "Mormântul sfânt al lui Rahmat Ullah, un sit de venerație locală.",
+                  "category": "religious",
+                  "coords": [
+                        91.736604,
+                        22.440817
+                  ]
+            },
+            {
+                  "name": "Ali nogor Abdul Jalil jame mosque, Bhatiari, Chattogram",
+                  "text": "O moschee locală din Bhatiari, care deservește comunitatea Ali Nogor.",
+                  "category": "religious",
+                  "coords": [
+                        91.733521,
+                        22.457134
+                  ]
+            },
+            {
+                  "name": "Kashem Ali Ma Jame Mosque",
+                  "text": "O moschee comunitară ce oferă spațiu pentru rugăciunile zilnice în zona Bhatiari.",
+                  "category": "religious",
+                  "coords": [
+                        91.735183,
+                        22.461162
+                  ]
+            },
+            {
+                  "name": "AKSML Internal Masjid, Sonaichhari, Chattogram",
+                  "text": "Un spațiu de rugăciune privat situat în cadrul complexului industrial AKSML.",
+                  "category": "religious",
+                  "coords": [
+                        91.736297,
+                        22.468774
+                  ]
+            },
+            {
+                  "name": "CDA Salimpur Residential Area Jame Masjid, Solimpur CDA R/A, Chattogram",
+                  "text": "O moschee modernă care deservește rezidenții zonei rezidențiale Salimpur CDA.",
+                  "category": "religious",
+                  "coords": [
+                        91.765718,
+                        22.413766
+                  ]
+            },
+            {
+                  "name": "Baitul Mamur Jame Masjid, Salimpur North, Salimpur Union, Chattogram",
+                  "text": "O casă de rugăciune locală ce deservește cartierul Salimpur de Nord.",
+                  "category": "religious",
+                  "coords": [
+                        91.754403,
+                        22.405406
+                  ]
+            },
+            {
+                  "name": "Kaderi Mosjid, Hazi Fayez Ahmed Rd, Salimpur, Chattogram",
+                  "text": "O moschee mică pe strada Hazi Fayez Ahmed din districtul Salimpur.",
+                  "category": "religious",
+                  "coords": [
+                        91.751189,
+                        22.413125
+                  ]
+            },
+            {
+                  "name": "Bocha Mian Shah (R:) Majar বোচা মিয়া শাহ্‌ (রঃ) মাজার",
+                  "text": "Un loc de pelerinaj local din Salimpur, care adăpostește mormântul lui Bocha Mian Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.755611,
+                        22.412799
+                  ]
+            },
+            {
+                  "name": "Mirzanagar Fakira Jame Masjid, Salimpur, Bhatiari, Chattogram",
+                  "text": "O moschee comunitară în cartierul Mirzanagar, situată lângă autostradă.",
+                  "category": "religious",
+                  "coords": [
+                        91.745741,
+                        22.410616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chittagong University Museam",
+                  "text": "The university museum houses a significant collection of regional artifacts, including ancient sculptures and historical documents.",
+                  "category": "museum",
+                  "coords": [
+                        91.784464,
+                        22.470437
+                  ]
+            },
+            {
+                  "name": "Swaran",
+                  "text": "A memorial artwork on the Chittagong University campus, commemorating important historical events.",
+                  "category": "historical",
+                  "coords": [
+                        91.793369,
+                        22.471024
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar",
+                  "text": "A central monument at the university dedicated to the martyrs of the 1952 Language Movement.",
+                  "category": "historical",
+                  "coords": [
+                        91.787042,
+                        22.47092
+                  ]
+            },
+            {
+                  "name": "Mile Test SP, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+                  "text": "A strategic military checkpoint and training site situated in the scenic Bhatiari hills.",
+                  "category": "fortress",
+                  "coords": [
+                        91.75213,
+                        22.428724
+                  ]
+            },
+            {
+                  "name": "Shahid S Kabir sir ambagaan ground",
+                  "text": "A commemorative site and ground within the military area, named after a fallen officer.",
+                  "category": "fortress",
+                  "coords": [
+                        91.750908,
+                        22.427726
+                  ]
+            },
+            {
+                  "name": "Parityakta lala ghore, Faujdarhat, Dhaka - Chittagong Hwy, Chattogram",
+                  "text": "An abandoned, distinctive red building located along the Dhaka-Chittagong highway.",
+                  "category": "historical",
+                  "coords": [
+                        91.757141,
+                        22.405781
+                  ]
+            },
+            {
+                  "name": "Bhatiari Shaheed Minar, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "A commemorative monument for language martyrs located along the busy main road in Bhatiari.",
+                  "category": "historical",
+                  "coords": [
+                        91.746175,
+                        22.424426
+                  ]
+            },
+            {
+                  "name": "Sea Marine Enterprise, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+                  "text": "A maritime-themed monument situated within the industrial zone of Bhatiari.",
+                  "category": "historical",
+                  "coords": [
+                        91.738673,
+                        22.439631
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local house of prayer serving the industrial community of Faujdarhat.",
+                  "category": "religious",
+                  "coords": [
+                        91.789492,
+                        22.462835
+                  ]
+            },
+            {
+                  "name": "Shah Jalal Hall Mosque",
+                  "text": "A spiritual center for students located near the Shah Jalal residence hall.",
+                  "category": "religious",
+                  "coords": [
+                        91.792641,
+                        22.472138
+                  ]
+            },
+            {
+                  "name": "সৌখিন কলোনি মসজিদ",
+                  "text": "A mosque located within the Shoukhin residential colony for local residents.",
+                  "category": "religious",
+                  "coords": [
+                        91.788369,
+                        22.480182
+                  ]
+            },
+            {
+                  "name": "Hazrat Allama Shajani (R) Dargah Sharif হজরত আল্লামা শাহজানি (রঃ) দরগাহ শরীফ",
+                  "text": "A revered Sufi shrine of Hazrat Allama Shajani that attracts local pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        91.738257,
+                        22.438573
+                  ]
+            },
+            {
+                  "name": "Hajrate Korbana Ali Shah (RA)er Mazar Sharif, Bhatiari, Chattogram",
+                  "text": "A Sufi shrine in Bhatiari where devotees offer prayers to Korbana Ali Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.741955,
+                        22.437844
+                  ]
+            },
+            {
+                  "name": "Stetion road, Rail Station, Bhatiari, Chattogram",
+                  "text": "A house of prayer conveniently located near the Bhatiari railway station.",
+                  "category": "religious",
+                  "coords": [
+                        91.750712,
+                        22.430258
+                  ]
+            },
+            {
+                  "name": "Hazrat Maulana Shah Chufi Hussain Shah (RA) Chilla Sharif and Ibadatkhana,Bhatiari Overbridge, Bhatiari, Chattogram",
+                  "text": "A place of meditation and shrine located near the Bhatiari highway overpass.",
+                  "category": "religious",
+                  "coords": [
+                        91.750219,
+                        22.425826
+                  ]
+            },
+            {
+                  "name": "Hazrat Kalu Shah (R:) Mazar Sharif, Salimpur, Salimpur Union, Chattogram",
+                  "text": "A traditional Sufi mazar in Salimpur dedicated to Hazrat Kalu Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.758694,
+                        22.389064
+                  ]
+            },
+            {
+                  "name": "BMA Mosque 1, Bhatiari, Bhatiari Union, Chattogram",
+                  "text": "A large military prayer hall located within the grounds of the Bangladesh Military Academy.",
+                  "category": "religious",
+                  "coords": [
+                        91.755774,
+                        22.423276
+                  ]
+            },
+            {
+                  "name": "Ambia Masjid, Ambia Bari Rd, Sonaichhari, Chattogram",
+                  "text": "A neighborhood mosque located on Ambia Bari Road in Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.713507,
+                        22.486777
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Masjid, Sonaichhari, Chattogram",
+                  "text": "A local mosque serving the industrial and residential areas of Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.716663,
+                        22.479672
+                  ]
+            },
+            {
+                  "name": "Ghazi Jame Masjid, Unnamed Road, Sonaichhari, Chattogram",
+                  "text": "A community house of worship located on an unnamed road in Sonaichhari.",
+                  "category": "religious",
+                  "coords": [
+                        91.724699,
+                        22.48002
+                  ]
+            },
+            {
+                  "name": "Old Colony Jame Masjid, Hafiz Jute Mills Rd, Sonaichhari, Chittagong",
+                  "text": "A historical prayer site located near the Hafiz Jute Mills residential area.",
+                  "category": "religious",
+                  "coords": [
+                        91.725767,
+                        22.476614
+                  ]
+            },
+            {
+                  "name": "Hazrat Peer Baroawlia (R) Jame Mosque, Sonaichhari, Chattogram",
+                  "text": "A mosque in Sonaichhari named after the prominent saint Peer Baroawlia.",
+                  "category": "religious",
+                  "coords": [
+                        91.721081,
+                        22.478073
+                  ]
+            },
+            {
+                  "name": "Mowlana jame Masjid, Sonaichhari, Chattogram",
+                  "text": "A traditional mosque serving the religious needs of the Sonaichhari community.",
+                  "category": "religious",
+                  "coords": [
+                        91.725012,
+                        22.467548
+                  ]
+            },
+            {
+                  "name": "Delepara Wajuddin Sarang Jame Masjid, near mukbul, Ali Azam Rd, Sonaichhari, Chattogram",
+                  "text": "A local Jame mosque situated on Ali Azam Road near the Delepara area.",
+                  "category": "religious",
+                  "coords": [
+                        91.728208,
+                        22.460087
+                  ]
+            },
+            {
+                  "name": "রহমত উল্লাহ্‌ (রঃ) এর রওজা শরীফ",
+                  "text": "The sacred tomb of the saint Rahmat Ullah, a site of local veneration.",
+                  "category": "religious",
+                  "coords": [
+                        91.736604,
+                        22.440817
+                  ]
+            },
+            {
+                  "name": "Ali nogor Abdul Jalil jame mosque, Bhatiari, Chattogram",
+                  "text": "A local mosque in the Bhatiari region serving the Ali Nogor community.",
+                  "category": "religious",
+                  "coords": [
+                        91.733521,
+                        22.457134
+                  ]
+            },
+            {
+                  "name": "Kashem Ali Ma Jame Mosque",
+                  "text": "A community mosque providing space for daily prayers in the Bhatiari area.",
+                  "category": "religious",
+                  "coords": [
+                        91.735183,
+                        22.461162
+                  ]
+            },
+            {
+                  "name": "AKSML Internal Masjid, Sonaichhari, Chattogram",
+                  "text": "A private prayer space located inside the AKSML industrial complex.",
+                  "category": "religious",
+                  "coords": [
+                        91.736297,
+                        22.468774
+                  ]
+            },
+            {
+                  "name": "CDA Salimpur Residential Area Jame Masjid, Solimpur CDA R/A, Chattogram",
+                  "text": "A modern mosque serving the residents of the Salimpur CDA residential area.",
+                  "category": "religious",
+                  "coords": [
+                        91.765718,
+                        22.413766
+                  ]
+            },
+            {
+                  "name": "Baitul Mamur Jame Masjid, Salimpur North, Salimpur Union, Chattogram",
+                  "text": "A local house of prayer serving the North Salimpur neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        91.754403,
+                        22.405406
+                  ]
+            },
+            {
+                  "name": "Kaderi Mosjid, Hazi Fayez Ahmed Rd, Salimpur, Chattogram",
+                  "text": "A small mosque on Hazi Fayez Ahmed Road in the Salimpur district.",
+                  "category": "religious",
+                  "coords": [
+                        91.751189,
+                        22.413125
+                  ]
+            },
+            {
+                  "name": "Bocha Mian Shah (R:) Majar বোচা মিয়া শাহ্‌ (রঃ) মাজার",
+                  "text": "A local pilgrimage site in Salimpur housing the tomb of Bocha Mian Shah.",
+                  "category": "religious",
+                  "coords": [
+                        91.755611,
+                        22.412799
+                  ]
+            },
+            {
+                  "name": "Mirzanagar Fakira Jame Masjid, Salimpur, Bhatiari, Chattogram",
+                  "text": "A community mosque in the Mirzanagar neighborhood located near the highway.",
+                  "category": "religious",
+                  "coords": [
+                        91.745741,
+                        22.410616
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Industriegebiet Faujdarhat", hu: "Faujdarhat ipari negyed", ro: "Zona industrială Faujdarhat", en: "Faujdarhat Industrial Area" },
@@ -993,7 +19209,1168 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-faujdarhat-industrial-economic-v2.webp",
   },
   {
-    id: "bangladesh-hemayetpur-leather-economic-v2",
+    id: "bangladesh-hemayetpur-leather-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rana Plaza (Collapsed)",
+                  "text": "Die Überreste des eingestürzten Rana-Plaza-Komplexes dienen heute als Mahnmal für die Opfer des Unglücks von 2013.",
+                  "category": "historical",
+                  "coords": [
+                        90.257609,
+                        23.84621
+                  ]
+            },
+            {
+                  "name": "Raja Harish Chandra's Palace",
+                  "text": "Die archäologischen Ruinen dieses antiken Palastes in Savar zeugen von der prunkvollen Vergangenheit lokaler Herrscher.",
+                  "category": "historical",
+                  "coords": [
+                        90.262603,
+                        23.846465
+                  ]
+            },
+            {
+                  "name": "Bilash Cinema Hall Market বিলাস সিনেমা হল মার্কেট",
+                  "text": "Ein lebhafter Markt rund um das Bilash-Kino, bekannt für Unterhaltungselektronik und Filmplakate.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256307,
+                        23.847427
+                  ]
+            },
+            {
+                  "name": "Bahadia Bazaar",
+                  "text": "Ein ländlicher Basar am Stadtrand von Savar, der ein authentisches Bild des regionalen Handels vermittelt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.166949,
+                        23.789562
+                  ]
+            },
+            {
+                  "name": "Hazi Jalaluddin Super Market",
+                  "text": "Ein moderner Supermarktkomplex in Savar, der als zentraler Einkaufspunkt für die wachsende Industriezone dient.",
+                  "category": "cultural",
+                  "coords": [
+                        90.201378,
+                        23.806302
+                  ]
+            },
+            {
+                  "name": "Mohammadia Super Market, Market",
+                  "text": "Ein geschäftiges Einkaufszentrum, das für seine große Auswahl an erschwinglichen Textilien für Fabrikarbeiter bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259618,
+                        23.830713
+                  ]
+            },
+            {
+                  "name": "Savar Municipality Crops Wholesale Market সাভার পৌরসভা পাইকারী কাঁচাবাজার",
+                  "text": "Ein riesiger Großhandelsmarkt in Savar, der eine Schlüsselfunktion bei der Belieferung Dhakas mit frischem Getreide und Feldfrüchten hat.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259434,
+                        23.834844
+                  ]
+            },
+            {
+                  "name": "Bismillah Super Market বিসমিল্লাহ্‌ সুপার মার্কেট",
+                  "text": "Ein mehrstöckiger Einkaufskomplex, der eine Vielzahl von Einzelhandelsgeschäften für Kleidung und Elektronik bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.25431,
+                        23.847009
+                  ]
+            },
+            {
+                  "name": "United Super Market",
+                  "text": "Ein modernes Einkaufszentrum, das als Treffpunkt für Einkäufe und lokale Dienstleistungen im Viertel dient.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257653,
+                        23.847369
+                  ]
+            },
+            {
+                  "name": "কোরাইসি সুপার মার্কেট",
+                  "text": "Ein lebhaftes Einzelhandelszentrum, das für seine Vielfalt an erschwinglicher Mode und lokalen Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256382,
+                        23.843903
+                  ]
+            },
+            {
+                  "name": "Chan Mia Market",
+                  "text": "Ein traditioneller Marktbereich, der für seinen regen Handel mit Lebensmitteln und Haushaltsartikeln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257044,
+                        23.83937
+                  ]
+            },
+            {
+                  "name": "Ulail Kacha Bazar, Market",
+                  "text": "Ein geschäftiger Lebensmittelmarkt in Ulail, auf dem Bauern aus der Region ihre frische Ernte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257933,
+                        23.828484
+                  ]
+            },
+            {
+                  "name": "Bou Bazar বউ বাজার",
+                  "text": "Ein beliebter lokaler Markt, der besonders für Damenbekleidung, Schmuck und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.249582,
+                        23.811598
+                  ]
+            },
+            {
+                  "name": "Imran Market, Market",
+                  "text": "Ein Nachbarschaftsmarkt, der für seine kleinen Kioske und die Verfügbarkeit von lokalen Snacks und Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.228009,
+                        23.80351
+                  ]
+            },
+            {
+                  "name": "Nizam Uddin Market, Grocery store",
+                  "text": "Ein auf Lebensmittel spezialisierter Markt, der frische Zutaten und Gewürze für die Küche der Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256097,
+                        23.792904
+                  ]
+            },
+            {
+                  "name": "Hazi Madhu Super Market হাজী মধু সুপার মার্কেট",
+                  "text": "Ein bedeutendes Handelszentrum, das für seine Textilgeschäfte und die große Auswahl an Stoffen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.270882,
+                        23.794051
+                  ]
+            },
+            {
+                  "name": "ব্যাংকটাউন কাঁচা বাজার",
+                  "text": "Ein lokaler Frischemarkt in Banktown, der die Bewohner mit Obst, Gemüse und Fleisch versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.258079,
+                        23.820197
+                  ]
+            },
+            {
+                  "name": "Madani Super Market মাদানী সুপার মার্কেট",
+                  "text": "Ein lokales Einkaufszentrum, das eine breite Palette an Haushaltsgeräten und täglichen Bedarfsartikeln führt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.27268,
+                        23.793587
+                  ]
+            },
+            {
+                  "name": "Dewly Graveyard Jame Mosque, Mosque",
+                  "text": "Diese Jame-Moschee befindet sich direkt neben dem Dewly-Friedhof und dient der lokalen Gemeinde als Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        90.17379,
+                        23.808898
+                  ]
+            },
+            {
+                  "name": "Azimpur Darus Salam Jame Masjid, Mosque",
+                  "text": "Eine traditionelle Moschee in Azimpur, die als wichtiges spirituelles Zentrum für die Bewohner des Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.154875,
+                        23.808456
+                  ]
+            },
+            {
+                  "name": "Joymontop Jame Masjid, Mosque",
+                  "text": "Eine lokale Jame-Moschee in Joymontop, die durch ihre schlichte Architektur und ihre Bedeutung für das Dorfleben geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180293,
+                        23.807319
+                  ]
+            },
+            {
+                  "name": "Durga Mondir, Hindu temple",
+                  "text": "Ein Hindu-Tempel, der der Göttin Durga gewidmet ist und während religiöser Feste ein Zentrum farbenfroher Zeremonien ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180298,
+                        23.806066
+                  ]
+            },
+            {
+                  "name": "Niltek Jame Masjid, Mosque",
+                  "text": "Eine Moschee im Niltek-Viertel, die einen ruhigen Raum für die täglichen Gebete der Anwohner bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.18224,
+                        23.805132
+                  ]
+            },
+            {
+                  "name": "Baitur Rahman Jame Masjid, Mosque",
+                  "text": "Eine lokale Jame-Moschee, die als spiritueller Mittelpunkt für die muslimische Gemeinde in diesem Teil von Hemayetpur fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.186624,
+                        23.806215
+                  ]
+            },
+            {
+                  "name": "Paschim Bhakum Pattadar Para Jame Masjid",
+                  "text": "Diese Moschee im Pattadar-Para-Viertel ist ein zentraler Treffpunkt für die täglichen gemeinschaftlichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        90.189059,
+                        23.807166
+                  ]
+            },
+            {
+                  "name": "Purbo Vakum Khejur Bagan Jame Masjid, Mosque",
+                  "text": "Die Moschee liegt im Gebiet Khejur Bagan, einem Ort, der historisch für seine Dattelpalmenhaine bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.193103,
+                        23.80656
+                  ]
+            },
+            {
+                  "name": "Medulia Dakshinpara Central Jame Mosque, Mosque",
+                  "text": "Eine bedeutende Moschee im Dakshinpara-Viertel von Medulia, die als religiöses Zentrum der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.213424,
+                        23.805798
+                  ]
+            },
+            {
+                  "name": "Govindal New Bazaar Jame Masjid, Mosque",
+                  "text": "Eine lokale Jame-Moschee am Govindal-Neumarkt, die bequem für Besucher des geschäftigen Basars erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136727,
+                        23.808286
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Jame Mosque, Mosque",
+                  "text": "Eine lokale Gebetsstätte mit traditioneller Architektur, die einen ruhigen Zufluchtsort im Herzen des geschäftigen Viertels bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136968,
+                        23.805545
+                  ]
+            },
+            {
+                  "name": "Baytur Rohman Jame Mosque",
+                  "text": "Eine schlichte und friedvolle Moschee, die als wichtiger Ort für die spirituelle Besinnung der Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.261337,
+                        23.839566
+                  ]
+            },
+            {
+                  "name": "Savar Upazila Model Mosque",
+                  "text": "Diese moderne Modellmoschee in Savar besticht durch ihre elegante islamische Architektur und großzügige Gebetsräume.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256528,
+                        23.846375
+                  ]
+            },
+            {
+                  "name": "বাটাজোর মানিকদ্বারা সালেহা মফিজ জামে মসজিদ",
+                  "text": "Eine ländliche Jame-Moschee in Batajor, die durch ihre Lage inmitten der grünen Felder der Region besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256392,
+                        23.845214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rana Plaza (Collapsed)",
+                  "text": "Az összeomlott Rana Plaza komplexum maradványai ma a 2013-as tragédia áldozatainak emlékhelyeként szolgálnak.",
+                  "category": "historical",
+                  "coords": [
+                        90.257609,
+                        23.84621
+                  ]
+            },
+            {
+                  "name": "Raja Harish Chandra's Palace",
+                  "text": "Savari ősi palota régészeti romjai, amelyek a helyi uralkodók fényűző múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        90.262603,
+                        23.846465
+                  ]
+            },
+            {
+                  "name": "Bilash Cinema Hall Market বিলাস সিনেমা হল মার্কেট",
+                  "text": "Élénk piac a Bilash mozi körül, amely szórakoztató elektronikáról és filmplakátokról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256307,
+                        23.847427
+                  ]
+            },
+            {
+                  "name": "Bahadia Bazaar",
+                  "text": "Vidéki bazár Savar szélén, amely autentikus képet nyújt a regionális kereskedelemről.",
+                  "category": "cultural",
+                  "coords": [
+                        90.166949,
+                        23.789562
+                  ]
+            },
+            {
+                  "name": "Hazi Jalaluddin Super Market",
+                  "text": "Modern szupermarket-komplexum Savarban, amely a növekvő ipari zóna központi bevásárlóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        90.201378,
+                        23.806302
+                  ]
+            },
+            {
+                  "name": "Mohammadia Super Market, Market",
+                  "text": "Nyüzsgő bevásárlóközpont, amely a gyári munkások számára kínált megfizethető textilek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259618,
+                        23.830713
+                  ]
+            },
+            {
+                  "name": "Savar Municipality Crops Wholesale Market সাভার পৌরসভা পাইকারী কাঁচাবাজার",
+                  "text": "Hatalmas nagykereskedelmi piac Savarban, amely kulcsszerepet játszik Dhaka friss gabonával és terményekkel való ellátásában.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259434,
+                        23.834844
+                  ]
+            },
+            {
+                  "name": "Bismillah Super Market বিসমিল্লাহ্‌ সুপার মার্কেট",
+                  "text": "Többszintes bevásárlóközpont, amely számos ruházati és elektronikai szaküzletet kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.25431,
+                        23.847009
+                  ]
+            },
+            {
+                  "name": "United Super Market",
+                  "text": "Modern bevásárlóközpont, amely a környék vásárlási és helyi szolgáltatási központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257653,
+                        23.847369
+                  ]
+            },
+            {
+                  "name": "কোরাইসি সুপার মার্কেট",
+                  "text": "Élénk kiskereskedelmi központ, amely megfizethető divatcikkeiről és helyi áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256382,
+                        23.843903
+                  ]
+            },
+            {
+                  "name": "Chan Mia Market",
+                  "text": "Hagyományos piaci terület, amely az élelmiszerekkel és háztartási cikkekkel való élénk kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257044,
+                        23.83937
+                  ]
+            },
+            {
+                  "name": "Ulail Kacha Bazar, Market",
+                  "text": "Nyüzsgő élelmiszerpiac Ulailban, ahol a régió gazdái árulják friss terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257933,
+                        23.828484
+                  ]
+            },
+            {
+                  "name": "Bou Bazar বউ বাজার",
+                  "text": "Népszerű helyi piac, amely különösen női ruházati cikkeiről, ékszereiről és háztartási eszközeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.249582,
+                        23.811598
+                  ]
+            },
+            {
+                  "name": "Imran Market, Market",
+                  "text": "Környékbeli piac, amely kis kioszkjairól, valamint a helyi harapnivalók és áruk választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.228009,
+                        23.80351
+                  ]
+            },
+            {
+                  "name": "Nizam Uddin Market, Grocery store",
+                  "text": "Élelmiszerekre szakosodott piac, amely friss alapanyagokat és fűszereket kínál a régió konyhájához.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256097,
+                        23.792904
+                  ]
+            },
+            {
+                  "name": "Hazi Madhu Super Market হাজী মধু সুপার মার্কেট",
+                  "text": "Jelentős kereskedelmi központ, amely textilboltjairól és széles szövetválasztékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.270882,
+                        23.794051
+                  ]
+            },
+            {
+                  "name": "ব্যাংকটাউন কাঁচা বাজার",
+                  "text": "Banktown helyi élelmiszerpiaca, amely gyümölccsel, zöldséggel és hússal látja el a lakókat.",
+                  "category": "cultural",
+                  "coords": [
+                        90.258079,
+                        23.820197
+                  ]
+            },
+            {
+                  "name": "Madani Super Market মাদানী সুপার মার্কেট",
+                  "text": "Helyi bevásárlóközpont, amely háztartási gépek és napi szükségleti cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        90.27268,
+                        23.793587
+                  ]
+            },
+            {
+                  "name": "Dewly Graveyard Jame Mosque, Mosque",
+                  "text": "Ez a Jame mecset közvetlenül a Dewly temető mellett található, és a helyi közösség imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.17379,
+                        23.808898
+                  ]
+            },
+            {
+                  "name": "Azimpur Darus Salam Jame Masjid, Mosque",
+                  "text": "Hagyományos mecset Azimpurban, amely a negyed lakóinak fontos spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.154875,
+                        23.808456
+                  ]
+            },
+            {
+                  "name": "Joymontop Jame Masjid, Mosque",
+                  "text": "Helyi Jame mecset Joymontopban, amelyet egyszerű építészet és a falusi életben betöltött jelentősége jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180293,
+                        23.807319
+                  ]
+            },
+            {
+                  "name": "Durga Mondir, Hindu temple",
+                  "text": "Durga istennőnek szentelt hindu templom, amely a vallási ünnepek alatt színes szertartások központja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180298,
+                        23.806066
+                  ]
+            },
+            {
+                  "name": "Niltek Jame Masjid, Mosque",
+                  "text": "Mecset a Niltek negyedben, amely nyugodt teret biztosít a környékbeliek napi imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.18224,
+                        23.805132
+                  ]
+            },
+            {
+                  "name": "Baitur Rahman Jame Masjid, Mosque",
+                  "text": "Helyi Jame mecset, amely Hemayetpur ezen részének muszlim közössége számára spirituális központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.186624,
+                        23.806215
+                  ]
+            },
+            {
+                  "name": "Paschim Bhakum Pattadar Para Jame Masjid",
+                  "text": "Ez a Pattadar Para negyedben található mecset a napi közösségi imák központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        90.189059,
+                        23.807166
+                  ]
+            },
+            {
+                  "name": "Purbo Vakum Khejur Bagan Jame Masjid, Mosque",
+                  "text": "A mecset Khejur Bagan területén található, amely történelmileg dátumpálmaligeteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.193103,
+                        23.80656
+                  ]
+            },
+            {
+                  "name": "Medulia Dakshinpara Central Jame Mosque, Mosque",
+                  "text": "Medulia Dakshinpara negyedének jelentős mecsete, amely a régió vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.213424,
+                        23.805798
+                  ]
+            },
+            {
+                  "name": "Govindal New Bazaar Jame Masjid, Mosque",
+                  "text": "Helyi Jame mecset a Govindal új piacon, amely könnyen elérhető a nyüzsgő bazár látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136727,
+                        23.808286
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Jame Mosque, Mosque",
+                  "text": "Hagyományos építészetű helyi imahely, amely nyugodt menedéket nyújt a nyüzsgő negyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136968,
+                        23.805545
+                  ]
+            },
+            {
+                  "name": "Baytur Rohman Jame Mosque",
+                  "text": "Egyszerű és békés mecset, amely a környék lakói számára a spirituális elmélyülés fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        90.261337,
+                        23.839566
+                  ]
+            },
+            {
+                  "name": "Savar Upazila Model Mosque",
+                  "text": "Ez a modern savari modellmecset elegáns iszlám építészetével és tágas imatermeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256528,
+                        23.846375
+                  ]
+            },
+            {
+                  "name": "বাটাজোর মানিকদ্বারা সালেহা মফিজ জামে মসজিদ",
+                  "text": "Batajor vidéki Jame mecsete, amely a régió zöld mezői között elhelyezkedő fekvésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256392,
+                        23.845214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rana Plaza (Collapsed)",
+                  "text": "Rămășițele complexului Rana Plaza prăbușit servesc astăzi ca memorial pentru victimele tragediei din 2013.",
+                  "category": "historical",
+                  "coords": [
+                        90.257609,
+                        23.84621
+                  ]
+            },
+            {
+                  "name": "Raja Harish Chandra's Palace",
+                  "text": "Ruinele arheologice ale acestui palat antic din Savar stau mărturie pentru trecutul somptuos al conducătorilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        90.262603,
+                        23.846465
+                  ]
+            },
+            {
+                  "name": "Bilash Cinema Hall Market বিলাস সিনেমা হল মার্কেট",
+                  "text": "O piață plină de viață în jurul cinematografului Bilash, cunoscută pentru electronice și afișe de film.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256307,
+                        23.847427
+                  ]
+            },
+            {
+                  "name": "Bahadia Bazaar",
+                  "text": "Un bazar rural la marginea orașului Savar, care oferă o imagine autentică a comerțului regional.",
+                  "category": "cultural",
+                  "coords": [
+                        90.166949,
+                        23.789562
+                  ]
+            },
+            {
+                  "name": "Hazi Jalaluddin Super Market",
+                  "text": "Un complex modern de supermarketuri în Savar, servind ca punct central de cumpărături pentru zona industrială în creștere.",
+                  "category": "cultural",
+                  "coords": [
+                        90.201378,
+                        23.806302
+                  ]
+            },
+            {
+                  "name": "Mohammadia Super Market, Market",
+                  "text": "Un centru comercial aglomerat, cunoscut pentru selecția sa largă de textile accesibile pentru lucrătorii din fabrici.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259618,
+                        23.830713
+                  ]
+            },
+            {
+                  "name": "Savar Municipality Crops Wholesale Market সাভার পৌরসভা পাইকারী কাঁচাবাজার",
+                  "text": "O piață angro imensă în Savar, care are o funcție cheie în aprovizionarea orașului Dhaka cu cereale și culturi proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259434,
+                        23.834844
+                  ]
+            },
+            {
+                  "name": "Bismillah Super Market বিসমিল্লাহ্‌ সুপার মার্কেট",
+                  "text": "Un complex comercial cu mai multe etaje, care oferă o varietate de magazine de haine și electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        90.25431,
+                        23.847009
+                  ]
+            },
+            {
+                  "name": "United Super Market",
+                  "text": "Un centru comercial modern care servește drept punct de întâlnire pentru cumpărături și servicii locale în cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257653,
+                        23.847369
+                  ]
+            },
+            {
+                  "name": "কোরাইসি সুপার মার্কেট",
+                  "text": "Un centru de retail vibrant, cunoscut pentru varietatea sa de modă accesibilă și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256382,
+                        23.843903
+                  ]
+            },
+            {
+                  "name": "Chan Mia Market",
+                  "text": "O zonă de piață tradițională, cunoscută pentru comerțul activ cu alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257044,
+                        23.83937
+                  ]
+            },
+            {
+                  "name": "Ulail Kacha Bazar, Market",
+                  "text": "O piață de alimente aglomerată în Ulail, unde fermierii din regiune își vând recolta proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257933,
+                        23.828484
+                  ]
+            },
+            {
+                  "name": "Bou Bazar বউ বাজার",
+                  "text": "O piață locală populară, cunoscută în special pentru îmbrăcăminte de damă, bijuterii și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        90.249582,
+                        23.811598
+                  ]
+            },
+            {
+                  "name": "Imran Market, Market",
+                  "text": "O piață de cartier cunoscută pentru micile sale chioșcuri și disponibilitatea gustărilor și produselor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.228009,
+                        23.80351
+                  ]
+            },
+            {
+                  "name": "Nizam Uddin Market, Grocery store",
+                  "text": "O piață specializată în alimente, care oferă ingrediente proaspete și condimente pentru bucătăria regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256097,
+                        23.792904
+                  ]
+            },
+            {
+                  "name": "Hazi Madhu Super Market হাজী মধু সুপার মার্কেট",
+                  "text": "Un centru comercial important, cunoscut pentru magazinele sale de textile și selecția largă de țesături.",
+                  "category": "cultural",
+                  "coords": [
+                        90.270882,
+                        23.794051
+                  ]
+            },
+            {
+                  "name": "ব্যাংকটাউন কাঁচা বাজার",
+                  "text": "O piață locală de produse proaspete în Banktown, care aprovizionează locuitorii cu fructe, legume și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        90.258079,
+                        23.820197
+                  ]
+            },
+            {
+                  "name": "Madani Super Market মাদানী সুপার মার্কেট",
+                  "text": "Un centru comercial local care deține o gamă largă de aparate de uz casnic și articole de primă necesitate.",
+                  "category": "cultural",
+                  "coords": [
+                        90.27268,
+                        23.793587
+                  ]
+            },
+            {
+                  "name": "Dewly Graveyard Jame Mosque, Mosque",
+                  "text": "Această moschee Jame este situată chiar lângă cimitirul Dewly și servește comunității locale ca loc de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        90.17379,
+                        23.808898
+                  ]
+            },
+            {
+                  "name": "Azimpur Darus Salam Jame Masjid, Mosque",
+                  "text": "O moschee tradițională în Azimpur, care servește ca un important centru spiritual pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        90.154875,
+                        23.808456
+                  ]
+            },
+            {
+                  "name": "Joymontop Jame Masjid, Mosque",
+                  "text": "O moschee Jame locală în Joymontop, caracterizată prin arhitectura sa simplă și importanța sa pentru viața satului.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180293,
+                        23.807319
+                  ]
+            },
+            {
+                  "name": "Durga Mondir, Hindu temple",
+                  "text": "Un templu hindu dedicat zeiței Durga, care este un centru al ceremoniilor colorate în timpul festivalurilor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180298,
+                        23.806066
+                  ]
+            },
+            {
+                  "name": "Niltek Jame Masjid, Mosque",
+                  "text": "O moschee în cartierul Niltek, care oferă un spațiu liniștit pentru rugăciunile zilnice ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.18224,
+                        23.805132
+                  ]
+            },
+            {
+                  "name": "Baitur Rahman Jame Masjid, Mosque",
+                  "text": "O moschee Jame locală, care funcționează ca un centru spiritual pentru comunitatea musulmană din această parte a localității Hemayetpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.186624,
+                        23.806215
+                  ]
+            },
+            {
+                  "name": "Paschim Bhakum Pattadar Para Jame Masjid",
+                  "text": "Această moschee din cartierul Pattadar Para este un punct de întâlnire central pentru rugăciunile comunitare zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.189059,
+                        23.807166
+                  ]
+            },
+            {
+                  "name": "Purbo Vakum Khejur Bagan Jame Masjid, Mosque",
+                  "text": "Moscheea este situată în zona Khejur Bagan, un loc cunoscut istoric pentru livezile sale de curmali.",
+                  "category": "landmark",
+                  "coords": [
+                        90.193103,
+                        23.80656
+                  ]
+            },
+            {
+                  "name": "Medulia Dakshinpara Central Jame Mosque, Mosque",
+                  "text": "O moschee importantă în cartierul Dakshinpara din Medulia, care servește ca centru religios al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        90.213424,
+                        23.805798
+                  ]
+            },
+            {
+                  "name": "Govindal New Bazaar Jame Masjid, Mosque",
+                  "text": "O moschee Jame locală în piața nouă Govindal, ușor accesibilă pentru vizitatorii bazarului aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136727,
+                        23.808286
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Jame Mosque, Mosque",
+                  "text": "Un lăcaș de cult local cu arhitectură tradițională, oferind un refugiu liniștit în inima cartierului aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136968,
+                        23.805545
+                  ]
+            },
+            {
+                  "name": "Baytur Rohman Jame Mosque",
+                  "text": "O moschee simplă și liniștită, care servește ca un loc important pentru reflecția spirituală a locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        90.261337,
+                        23.839566
+                  ]
+            },
+            {
+                  "name": "Savar Upazila Model Mosque",
+                  "text": "Această moschee model modernă din Savar impresionează prin arhitectura sa islamică elegantă și sălile de rugăciune spațioase.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256528,
+                        23.846375
+                  ]
+            },
+            {
+                  "name": "বাটাজোর মানিকদ্বারা সালেহা মফিজ জামে মসজিদ",
+                  "text": "O moschee Jame rurală în Batajor, care se remarcă prin locația sa în mijlocul câmpurilor verzi ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256392,
+                        23.845214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rana Plaza (Collapsed)",
+                  "text": "The remains of the collapsed Rana Plaza complex now serve as a memorial site for the victims of the 2013 tragedy.",
+                  "category": "historical",
+                  "coords": [
+                        90.257609,
+                        23.84621
+                  ]
+            },
+            {
+                  "name": "Raja Harish Chandra's Palace",
+                  "text": "The archaeological ruins of this ancient palace in Savar bear witness to the opulent past of local rulers.",
+                  "category": "historical",
+                  "coords": [
+                        90.262603,
+                        23.846465
+                  ]
+            },
+            {
+                  "name": "Bilash Cinema Hall Market বিলাস সিনেমা হল মার্কেট",
+                  "text": "A lively market surrounding the Bilash cinema hall, known for consumer electronics and movie posters.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256307,
+                        23.847427
+                  ]
+            },
+            {
+                  "name": "Bahadia Bazaar",
+                  "text": "A rural bazaar on the outskirts of Savar, providing an authentic glimpse into regional trade.",
+                  "category": "cultural",
+                  "coords": [
+                        90.166949,
+                        23.789562
+                  ]
+            },
+            {
+                  "name": "Hazi Jalaluddin Super Market",
+                  "text": "A modern supermarket complex in Savar, serving as a central shopping hub for the growing industrial zone.",
+                  "category": "cultural",
+                  "coords": [
+                        90.201378,
+                        23.806302
+                  ]
+            },
+            {
+                  "name": "Mohammadia Super Market, Market",
+                  "text": "A busy shopping mall known for its wide selection of affordable textiles catering to factory workers.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259618,
+                        23.830713
+                  ]
+            },
+            {
+                  "name": "Savar Municipality Crops Wholesale Market সাভার পৌরসভা পাইকারী কাঁচাবাজার",
+                  "text": "A massive wholesale market in Savar, which plays a key role in supplying Dhaka with fresh grains and crops.",
+                  "category": "cultural",
+                  "coords": [
+                        90.259434,
+                        23.834844
+                  ]
+            },
+            {
+                  "name": "Bismillah Super Market বিসমিল্লাহ্‌ সুপার মার্কেট",
+                  "text": "A multi-story shopping complex offering a variety of retail stores for clothing and electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        90.25431,
+                        23.847009
+                  ]
+            },
+            {
+                  "name": "United Super Market",
+                  "text": "A modern shopping center that serves as a hub for retail and local services in the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257653,
+                        23.847369
+                  ]
+            },
+            {
+                  "name": "কোরাইসি সুপার মার্কেট",
+                  "text": "A vibrant retail center known for its variety of affordable fashion and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256382,
+                        23.843903
+                  ]
+            },
+            {
+                  "name": "Chan Mia Market",
+                  "text": "A traditional market area known for its busy trade in groceries and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257044,
+                        23.83937
+                  ]
+            },
+            {
+                  "name": "Ulail Kacha Bazar, Market",
+                  "text": "A busy food market in Ulail where local farmers sell their fresh harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        90.257933,
+                        23.828484
+                  ]
+            },
+            {
+                  "name": "Bou Bazar বউ বাজার",
+                  "text": "A popular local market known especially for women's apparel, jewelry, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.249582,
+                        23.811598
+                  ]
+            },
+            {
+                  "name": "Imran Market, Market",
+                  "text": "A neighborhood market known for its small kiosks and availability of local snacks and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.228009,
+                        23.80351
+                  ]
+            },
+            {
+                  "name": "Nizam Uddin Market, Grocery store",
+                  "text": "A market specialized in groceries, offering fresh ingredients and spices for the region's cuisine.",
+                  "category": "cultural",
+                  "coords": [
+                        90.256097,
+                        23.792904
+                  ]
+            },
+            {
+                  "name": "Hazi Madhu Super Market হাজী মধু সুপার মার্কেট",
+                  "text": "A prominent trade center known for its textile shops and wide selection of fabrics.",
+                  "category": "cultural",
+                  "coords": [
+                        90.270882,
+                        23.794051
+                  ]
+            },
+            {
+                  "name": "Banktown Kacha Bazar",
+                  "text": "A local fresh market in Banktown providing residents with fruit, vegetables, and meat.",
+                  "category": "cultural",
+                  "coords": [
+                        90.258079,
+                        23.820197
+                  ]
+            },
+            {
+                  "name": "Madani Super Market মাদানী সুপার মার্কেট",
+                  "text": "A local shopping center carrying a wide range of household appliances and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        90.27268,
+                        23.793587
+                  ]
+            },
+            {
+                  "name": "Dewly Graveyard Jame Mosque, Mosque",
+                  "text": "This Jame mosque is located right next to the Dewly cemetery and serves as a place of prayer for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.17379,
+                        23.808898
+                  ]
+            },
+            {
+                  "name": "Azimpur Darus Salam Jame Masjid, Mosque",
+                  "text": "A traditional mosque in Azimpur that serves as an important spiritual center for the neighborhood's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        90.154875,
+                        23.808456
+                  ]
+            },
+            {
+                  "name": "Joymontop Jame Masjid, Mosque",
+                  "text": "A local Jame mosque in Joymontop characterized by its simple architecture and importance to village life.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180293,
+                        23.807319
+                  ]
+            },
+            {
+                  "name": "Durga Mondir, Hindu temple",
+                  "text": "A Hindu temple dedicated to the goddess Durga, serving as a center of colorful ceremonies during religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        90.180298,
+                        23.806066
+                  ]
+            },
+            {
+                  "name": "Niltek Jame Masjid, Mosque",
+                  "text": "A mosque in the Niltek neighborhood providing a calm space for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        90.18224,
+                        23.805132
+                  ]
+            },
+            {
+                  "name": "Baitur Rahman Jame Masjid, Mosque",
+                  "text": "A local Jame mosque that functions as a spiritual center for the Muslim community in this part of Hemayetpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.186624,
+                        23.806215
+                  ]
+            },
+            {
+                  "name": "Paschim Bhakum Pattadar Para Jame Masjid",
+                  "text": "This mosque in the Pattadar Para neighborhood is a central gathering point for daily communal prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.189059,
+                        23.807166
+                  ]
+            },
+            {
+                  "name": "Purbo Vakum Khejur Bagan Jame Masjid, Mosque",
+                  "text": "The mosque is situated in the Khejur Bagan area, a place historically known for its date palm groves.",
+                  "category": "landmark",
+                  "coords": [
+                        90.193103,
+                        23.80656
+                  ]
+            },
+            {
+                  "name": "Medulia Dakshinpara Central Jame Mosque, Mosque",
+                  "text": "A prominent mosque in the Dakshinpara neighborhood of Medulia, serving as a religious center for the region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.213424,
+                        23.805798
+                  ]
+            },
+            {
+                  "name": "Govindal New Bazaar Jame Masjid, Mosque",
+                  "text": "A local Jame mosque at the Govindal New Market, easily accessible for visitors of the busy bazaar.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136727,
+                        23.808286
+                  ]
+            },
+            {
+                  "name": "Baitul Falah Jame Mosque, Mosque",
+                  "text": "A local place of worship with traditional architecture, providing a peaceful retreat in the heart of the busy neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.136968,
+                        23.805545
+                  ]
+            },
+            {
+                  "name": "Baytur Rohman Jame Mosque",
+                  "text": "A simple and peaceful mosque that serves as an important site for spiritual reflection for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        90.261337,
+                        23.839566
+                  ]
+            },
+            {
+                  "name": "Savar Upazila Model Mosque",
+                  "text": "This modern model mosque in Savar stands out with its elegant Islamic architecture and spacious prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256528,
+                        23.846375
+                  ]
+            },
+            {
+                  "name": "বাটাজোর মানিকদ্বারা সালেহা মফিজ জামে মসজিদ",
+                  "text": "A rural Jame mosque in Batajor noted for its location amidst the green fields of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256392,
+                        23.845214
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Lederindustriepark Hemayetpur", hu: "Hemayetpuri bőripari park", ro: "Parcul industrial de piele Hemayetpur", en: "Hemayetpur Leather Industrial Estate" },
@@ -1038,7 +20415,124 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-hemayetpur-leather-economic-v2.webp",
   },
   {
-    id: "bangladesh-kutubdia-wind-farm-economic-v2",
+    id: "bangladesh-kutubdia-wind-farm-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kutubdia Lighthouse",
+                  "text": "Dieser im Jahr 2004 errichtete Leuchtturm dient als wichtiger Navigationspunkt für Schiffe vor der Insel Kutubdia.",
+                  "category": "landmark",
+                  "coords": [
+                        91.842389,
+                        21.864972
+                  ]
+            },
+            {
+                  "name": "Kabi Jasimuddin High School Jame Masjid",
+                  "text": "Eine Moschee auf dem Gelände der Kabi Jasimuddin High School, die Schülern und Anwohnern als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.845716,
+                        21.786957
+                  ]
+            },
+            {
+                  "name": "Dhurung Bazar",
+                  "text": "Ein wichtiger lokaler Marktplatz auf der Insel Kutubdia, bekannt für den Handel mit frischem Fisch und Salz.",
+                  "category": "cultural",
+                  "coords": [
+                        91.858952,
+                        21.878893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kutubdia Lighthouse",
+                  "text": "Ez a 2004-ben épült világítótorony fontos navigációs pontként szolgál a Kutubdia-szigetnél elhaladó hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.842389,
+                        21.864972
+                  ]
+            },
+            {
+                  "name": "Kabi Jasimuddin High School Jame Masjid",
+                  "text": "A Kabi Jasimuddin Gimnázium területén található mecset, amely a diákok és a helyi lakosok imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.845716,
+                        21.786957
+                  ]
+            },
+            {
+                  "name": "Dhurung Bazar",
+                  "text": "Fontos helyi piac Kutubdia szigetén, amely friss hal- és sókereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.858952,
+                        21.878893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kutubdia Lighthouse",
+                  "text": "Acest far, construit în 2004, servește drept punct de navigație vital pentru navele de lângă Insula Kutubdia.",
+                  "category": "landmark",
+                  "coords": [
+                        91.842389,
+                        21.864972
+                  ]
+            },
+            {
+                  "name": "Kabi Jasimuddin High School Jame Masjid",
+                  "text": "O moschee situată în incinta liceului Kabi Jasimuddin, servind drept loc de rugăciune pentru elevi și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        91.845716,
+                        21.786957
+                  ]
+            },
+            {
+                  "name": "Dhurung Bazar",
+                  "text": "O piață locală importantă de pe Insula Kutubdia, cunoscută pentru comerțul cu pește proaspăt și sare.",
+                  "category": "cultural",
+                  "coords": [
+                        91.858952,
+                        21.878893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kutubdia Lighthouse",
+                  "text": "Built in 2004, this lighthouse serves as a vital navigation point for vessels off Kutubdia Island.",
+                  "category": "landmark",
+                  "coords": [
+                        91.842389,
+                        21.864972
+                  ]
+            },
+            {
+                  "name": "Kabi Jasimuddin High School Jame Masjid",
+                  "text": "A mosque located within the Kabi Jasimuddin High School grounds, serving as a prayer hall for students and locals.",
+                  "category": "landmark",
+                  "coords": [
+                        91.845716,
+                        21.786957
+                  ]
+            },
+            {
+                  "name": "Dhurung Bazar",
+                  "text": "An important local marketplace on Kutubdia Island known for fresh fish and salt trading.",
+                  "category": "cultural",
+                  "coords": [
+                        91.858952,
+                        21.878893
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Windpark Kutubdia", hu: "Kutubdia szélerőmű", ro: "Parcul eolian Kutubdia", en: "Kutubdia Wind Farm" },
@@ -1128,7 +20622,1384 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-moheshkhali-lng-economic-v2.webp",
   },
   {
-    id: "bangladesh-kaliakair-hitech-economic-v2",
+    id: "bangladesh-kaliakair-hitech-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Folk Culture of Bengal, Museum",
+                  "text": "Dieses Museum bewahrt das kulturelle Erbe von Bengalen durch Ausstellungen über traditionelles Handwerk und Landwirtschaft.",
+                  "category": "museum",
+                  "coords": [
+                        90.248411,
+                        24.004716
+                  ]
+            },
+            {
+                  "name": "Sreefalati Palace",
+                  "text": "Ein historischer Adelssitz aus der Kolonialzeit, der für seine dekorativen Säulen und die weitläufigen Veranden bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        90.209694,
+                        24.06844
+                  ]
+            },
+            {
+                  "name": "Appollo Ispat Land Zirani Bazar Savar",
+                  "text": "Ein weitläufiges Gewerbegebiet in Savar, das als wichtiger Standort für die Eisen- und Stahlindustrie der Region gilt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.253966,
+                        24.00041
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar জিরানী বাজার",
+                  "text": "Ein wichtiger Straßenmarkt an der Kreuzung nach Zirani, berühmt für seine vielfältigen Textil- und Stoffstände.",
+                  "category": "cultural",
+                  "coords": [
+                        90.254503,
+                        23.993512
+                  ]
+            },
+            {
+                  "name": "Dica Tex Limited (Unit 2) Ltd",
+                  "text": "Ein spezialisierter Markt für Textilprodukte und Industriebedarf im Herzen der Kaliakair-Wirtschaftszone.",
+                  "category": "cultural",
+                  "coords": [
+                        90.248992,
+                        23.99334
+                  ]
+            },
+            {
+                  "name": "GAS GEN EQUIPMENTS LTD",
+                  "text": "Ein Fachhandelszentrum für industrielle Gasausrüstung, das die umliegenden Fabriken technisch unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.176873,
+                        24.089869
+                  ]
+            },
+            {
+                  "name": "Board Ghor Bazar বোর্ড ঘোর বাজার",
+                  "text": "Ein lokaler Dorfmarkt, der für seine traditionellen Süßwarengeschäfte und frischen Fischstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.185919,
+                        24.089106
+                  ]
+            },
+            {
+                  "name": "Talsultanpur Bazar",
+                  "text": "Ein kleiner Marktplatz, der als sozialer Treffpunkt dient und lokale Handwerkswaren der Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        90.199924,
+                        24.084887
+                  ]
+            },
+            {
+                  "name": "Kaliakair New Market",
+                  "text": "Ein belebter Marktplatz in Kaliakair, der ein wichtiges Zentrum für den Handel mit lokalen Textilien ist.",
+                  "category": "cultural",
+                  "coords": [
+                        90.208084,
+                        24.07825
+                  ]
+            },
+            {
+                  "name": "Kaliakair Mukti Joddhya Market কালিয়াকৈর মুক্তিযোদ্ধা মার্কেট",
+                  "text": "Dieser nach den Freiheitskämpfern benannte Markt ist ein lebhafter Ort für den täglichen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210212,
+                        24.079808
+                  ]
+            },
+            {
+                  "name": "Fcl Kaliakair",
+                  "text": "Ein moderner Einkaufskomplex, der das umliegende High-Tech-Industriegebiet von Kaliakair versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.209158,
+                        24.076612
+                  ]
+            },
+            {
+                  "name": "Haji Khobir Uddin Market হাজী খবির উদ্দিন মার্কেট",
+                  "text": "Ein traditioneller, mehrstöckiger Basar mit einer Vielzahl von lokalen Anbietern und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210654,
+                        24.078638
+                  ]
+            },
+            {
+                  "name": "Shaitta Banyan Tree",
+                  "text": "Ein gewaltiger, alter Banyan-Feigenbaum, der für seine beeindruckenden, weitläufigen Luftwurzeln bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.124577,
+                        24.004958
+                  ]
+            },
+            {
+                  "name": "Mullah Bari Baitush Sharif Jame Masjid",
+                  "text": "Eine Moschee in einem Wohngebiet, die durch ihr schlichtes Design und ihren zentralen Gebetssaal besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240937,
+                        24.024694
+                  ]
+            },
+            {
+                  "name": "Baroipara,Modhobari,Sree,Sree,Sarbojanin Durga Mondir, Hindu temple",
+                  "text": "Ein Gemeinschaftstempel der Hindus in Baroipara, der der Göttin Durga gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244224,
+                        24.023111
+                  ]
+            },
+            {
+                  "name": "Murdha Bari Al-Aqsa Jame Masjid",
+                  "text": "Ein lokales muslimisches Gotteshaus, das nach der berühmten Al-Aqsa-Moschee benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244259,
+                        24.021
+                  ]
+            },
+            {
+                  "name": "Baytul Mamur Jame Masjid",
+                  "text": "Eine traditionelle Dorfmoschee, die als spirituelles Zentrum für die Bewohner der Umgebung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.243296,
+                        24.012138
+                  ]
+            },
+            {
+                  "name": "Radial International Masjid, Mosque",
+                  "text": "Ein großer Moscheekomplex, der hauptsächlich von den Arbeitern der nahegelegenen Industriegebiete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        90.253709,
+                        23.99834
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar Bango Market Mosque, Mosque",
+                  "text": "Diese verkehrsgünstig im Zirani-Basar gelegene Moschee bietet Markthändlern einen Ort der Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256503,
+                        23.993066
+                  ]
+            },
+            {
+                  "name": "Dakshin Kabirpur Purbpara Darus Salam Jame Masjid",
+                  "text": "Eine Moschee im südlichen Kabirpur, die durch ihre Lage in einem ruhigen Wohnviertel geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.248308,
+                        24.000229
+                  ]
+            },
+            {
+                  "name": "Kabirpur Ahmadiyya Mosque, Mosque",
+                  "text": "Ein Gotteshaus der Ahmadiyya-Gemeinde in Kabirpur, das sich durch seine gepflegte Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.247909,
+                        24.007161
+                  ]
+            },
+            {
+                  "name": "বাইদগাঁও দক্ষিনপাড়া বাইতুল ইসলাম জামে মসজিদ",
+                  "text": "Eine lokale Moschee im südlichen Teil des Dorfes Baidgaon, die der Gemeinschaft als Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.224381,
+                        23.999271
+                  ]
+            },
+            {
+                  "name": "বাইদগাও আহলে হাদীস কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Die zentrale Moschee der Ahle-Hadith-Gemeinde in Baidgaon mit markanten architektonischen Merkmalen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226821,
+                        24.007947
+                  ]
+            },
+            {
+                  "name": "চাটয়েল ভিটি জামে মস্ক",
+                  "text": "Eine kleine, funktionale Moschee, die inmitten der Wohnsiedlung Chatail Viti liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226998,
+                        24.014532
+                  ]
+            },
+            {
+                  "name": "Hijalhati Mandal Bari Jame Masjid",
+                  "text": "Diese im Mandal-Bari-Viertel gelegene Moschee wurde von einer lokalen Familie für die Gemeinde gestiftet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232666,
+                        24.020636
+                  ]
+            },
+            {
+                  "name": "হিজলহাটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Das wichtigste religiöse Zentrum in Hijalhati, das als Hauptmoschee für die Dorfbewohner fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232849,
+                        24.022393
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি মধ্যপাড়া বাইতুল্লাহ জামে মসজিদ",
+                  "text": "Eine Moschee im Herzen von Boroichuti, die für ihre ruhige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.229121,
+                        24.03287
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Die zentrale Freitagsmoschee von Boroichuti, die Platz für große Versammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.233145,
+                        24.031423
+                  ]
+            },
+            {
+                  "name": "Nandan Park Mosque, Mosque",
+                  "text": "Diese Moschee liegt direkt neben dem Nandan Park und wird oft von Parkbesuchern genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240094,
+                        24.030657
+                  ]
+            },
+            {
+                  "name": "West Chandra Baitun Noor Jame Masjid",
+                  "text": "Eine Moschee in der Industriezone West-Chandra, die den Arbeitern der umliegenden Fabriken dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24004,
+                        24.034663
+                  ]
+            },
+            {
+                  "name": "Shamsul Alamin Group Mosque",
+                  "text": "Diese Moschee wurde speziell für die Angestellten der Shamsul Alamin Gruppe in der Nähe ihres Arbeitsplatzes errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.228112,
+                        24.056526
+                  ]
+            },
+            {
+                  "name": "Rupjan Mosque, Mosque",
+                  "text": "Eine Moschee mit traditioneller bengalischer Architektur, die ein friedlicher Ort für das tägliche Gebet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.221855,
+                        24.061858
+                  ]
+            },
+            {
+                  "name": "Gazaria Kanchanpur Kali Mandir, Hindu temple",
+                  "text": "Ein der Göttin Kali geweihter Tempel, der ein wichtiges spirituelles Ziel für die Hindus in Kanchanpur darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.187812,
+                        24.085831
+                  ]
+            },
+            {
+                  "name": "Nama Sutrapur mosque",
+                  "text": "Eine im tiefer gelegenen Teil von Sutrapur gelegene Moschee, die ein typisches Beispiel ländlicher Sakralbauten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.199737,
+                        24.089583
+                  ]
+            },
+            {
+                  "name": "Sutrapur Goddess Temple, Hindu temple",
+                  "text": "Ein lokaler Schrein in Sutrapur, der einer schützenden Göttin gewidmet ist und das Dorfzentrum markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.200687,
+                        24.08988
+                  ]
+            },
+            {
+                  "name": "Baytul Aman Bongshay Bridge Jame Mosque",
+                  "text": "Diese Moschee liegt direkt an der Bongshay-Brücke und bietet Reisenden einen praktischen Ort zum Beten.",
+                  "category": "landmark",
+                  "coords": [
+                        90.206426,
+                        24.079734
+                  ]
+            },
+            {
+                  "name": "Kaliakair South Palpara Universal Durga Temple",
+                  "text": "Ein Tempel im Töpferviertel Palpara, in dem jedes Jahr das Durga-Puja-Fest groß gefeiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        90.207561,
+                        24.080195
+                  ]
+            },
+            {
+                  "name": "Uttor Hizoltoly Jame mosjid",
+                  "text": "Eine kleine Moschee im Norden von Hizoltoly, die durch ihre Lage am Rande grüner Felder besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203727,
+                        24.080922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Folk Culture of Bengal, Museum",
+                  "text": "Ez a múzeum Bengália kulturális örökségét őrzi a hagyományos kézművességet és mezőgazdaságot bemutató kiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        90.248411,
+                        24.004716
+                  ]
+            },
+            {
+                  "name": "Sreefalati Palace",
+                  "text": "Történelmi nemesi lakhely a gyarmati korból, amely díszes oszlopairól és tágas verandáiról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        90.209694,
+                        24.06844
+                  ]
+            },
+            {
+                  "name": "Appollo Ispat Land Zirani Bazar Savar",
+                  "text": "Kiterjedt kereskedelmi terület Savarban, amely a régió vas- és acéliparának fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        90.253966,
+                        24.00041
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar জিরানী বাজার",
+                  "text": "Fontos utcai piac a zirani elágazásnál, amely változatos textil- és szövetboltjairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        90.254503,
+                        23.993512
+                  ]
+            },
+            {
+                  "name": "Dica Tex Limited (Unit 2) Ltd",
+                  "text": "Textiltermékekre és ipari cikkekre szakosodott piac a Kaliakair gazdasági övezet szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        90.248992,
+                        23.99334
+                  ]
+            },
+            {
+                  "name": "GAS GEN EQUIPMENTS LTD",
+                  "text": "Ipari gázberendezésekre szakosodott kereskedelmi központ, amely a környező gyárakat támogatja technikailag.",
+                  "category": "cultural",
+                  "coords": [
+                        90.176873,
+                        24.089869
+                  ]
+            },
+            {
+                  "name": "Board Ghor Bazar বোর্ড ঘোর বাজার",
+                  "text": "Helyi falusi piac, amely hagyományos édességboltjairól és friss halárusairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        90.185919,
+                        24.089106
+                  ]
+            },
+            {
+                  "name": "Talsultanpur Bazar",
+                  "text": "Kisméretű piactér, amely társadalmi találkozóhelyként szolgál és helyi kézműves termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.199924,
+                        24.084887
+                  ]
+            },
+            {
+                  "name": "Kaliakair New Market",
+                  "text": "Kaliakair élénk piaca, amely a helyi textilkereskedelem fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        90.208084,
+                        24.07825
+                  ]
+            },
+            {
+                  "name": "Kaliakair Mukti Joddhya Market কালিয়াকৈর মুক্তিযোদ্ধা মার্কেট",
+                  "text": "A szabadságharcosokról elnevezett piac a napi kereskedelem élénk helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210212,
+                        24.079808
+                  ]
+            },
+            {
+                  "name": "Fcl Kaliakair",
+                  "text": "Modern bevásárlókomplexum, amely Kaliakair környező hi-tech ipari negyedét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        90.209158,
+                        24.076612
+                  ]
+            },
+            {
+                  "name": "Haji Khobir Uddin Market হাজী খবির উদ্দিন মার্কেট",
+                  "text": "Hagyományos, többszintes bazár számos helyi árussal és különféle portékával.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210654,
+                        24.078638
+                  ]
+            },
+            {
+                  "name": "Shaitta Banyan Tree",
+                  "text": "Hatalmas, ősi banyánfa, amely lenyűgöző, szétterülő léggyökereiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.124577,
+                        24.004958
+                  ]
+            },
+            {
+                  "name": "Mullah Bari Baitush Sharif Jame Masjid",
+                  "text": "Lakóövezeti mecset, amely egyszerű kialakításával és központi imatermével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240937,
+                        24.024694
+                  ]
+            },
+            {
+                  "name": "Baroipara,Modhobari,Sree,Sree,Sarbojanin Durga Mondir, Hindu temple",
+                  "text": "A hindu közösség Baroiparában található temploma, amelyet Durga istennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244224,
+                        24.023111
+                  ]
+            },
+            {
+                  "name": "Murdha Bari Al-Aqsa Jame Masjid",
+                  "text": "Helyi muszlim imaház, amelyet a híres Al-Aksza mecsetről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244259,
+                        24.021
+                  ]
+            },
+            {
+                  "name": "Baytul Mamur Jame Masjid",
+                  "text": "Hagyományos falusi mecset, amely a környező lakók spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.243296,
+                        24.012138
+                  ]
+            },
+            {
+                  "name": "Radial International Masjid, Mosque",
+                  "text": "Nagy mecsetkomplexum, amelyet főként a közeli ipari zónák munkásai látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.253709,
+                        23.99834
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar Bango Market Mosque, Mosque",
+                  "text": "A Zirani bazárban található mecset az árusoknak és vásárlóknak nyújt helyet az imára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256503,
+                        23.993066
+                  ]
+            },
+            {
+                  "name": "Dakshin Kabirpur Purbpara Darus Salam Jame Masjid",
+                  "text": "Dél-Kabirpur mecsetje, amelyet csendes lakóövezeti környezete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.248308,
+                        24.000229
+                  ]
+            },
+            {
+                  "name": "Kabirpur Ahmadiyya Mosque, Mosque",
+                  "text": "Az Ahmadijja közösség imaháza Kabirpurban, amelyet rendezett építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.247909,
+                        24.007161
+                  ]
+            },
+            {
+                  "name": "বাইদগাঁও দক্ষিনপাড়া বাইতুল ইসলাম জামে মসজিদ",
+                  "text": "Helyi mecset Baidgaon falu déli részén, amely közösségi találkozóhelyként is szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.224381,
+                        23.999271
+                  ]
+            },
+            {
+                  "name": "বাইদগাও আহলে হাদীস কেন্দ্রীয় জামে মসজিদ",
+                  "text": "A baidgaoni Ahle Hadith közösség központi mecsetje, jellegzetes építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226821,
+                        24.007947
+                  ]
+            },
+            {
+                  "name": "চাটয়েল ভিটি জামে মস্ক",
+                  "text": "Kisméretű, funkcionális mecset, amely a Chatail Viti lakónegyed közepén található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226998,
+                        24.014532
+                  ]
+            },
+            {
+                  "name": "Hijalhati Mandal Bari Jame Masjid",
+                  "text": "A Mandal Bari negyedben található mecsetet egy helyi család alapította a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232666,
+                        24.020636
+                  ]
+            },
+            {
+                  "name": "হিজলহাটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Hijalhati legfontosabb vallási központja, amely a falusiak főmecsetjeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232849,
+                        24.022393
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি মধ্যপাড়া বাইতুল্লাহ জামে মসজিদ",
+                  "text": "Boroichuti szívében található mecset, amely nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.229121,
+                        24.03287
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Boroichuti központi pénteki mecsetje, amely nagy közösségi eseményeknek ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.233145,
+                        24.031423
+                  ]
+            },
+            {
+                  "name": "Nandan Park Mosque, Mosque",
+                  "text": "Közvetlenül a Nandan Park mellett található mecset, amelyet gyakran látogatnak a park vendégei is.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240094,
+                        24.030657
+                  ]
+            },
+            {
+                  "name": "West Chandra Baitun Noor Jame Masjid",
+                  "text": "Mecset Nyugat-Chandra ipari övezetében, amely a környező gyárak munkásait szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24004,
+                        24.034663
+                  ]
+            },
+            {
+                  "name": "Shamsul Alamin Group Mosque",
+                  "text": "Ezt a mecsetet kifejezetten a Shamsul Alamin csoport alkalmazottai számára építették munkahelyük közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.228112,
+                        24.056526
+                  ]
+            },
+            {
+                  "name": "Rupjan Mosque, Mosque",
+                  "text": "Hagyományos bengáli építészetű mecset, amely békés helyszín a napi imádsághoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.221855,
+                        24.061858
+                  ]
+            },
+            {
+                  "name": "Gazaria Kanchanpur Kali Mandir, Hindu temple",
+                  "text": "Káli istennőnek szentelt templom, amely a kancsanpuri hinduk fontos spirituális célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.187812,
+                        24.085831
+                  ]
+            },
+            {
+                  "name": "Nama Sutrapur mosque",
+                  "text": "Sutrapur alacsonyabban fekvő részén található mecset, a vidéki szakrális építészet tipikus példája.",
+                  "category": "landmark",
+                  "coords": [
+                        90.199737,
+                        24.089583
+                  ]
+            },
+            {
+                  "name": "Sutrapur Goddess Temple, Hindu temple",
+                  "text": "Sutrapuri helyi szentély, amelyet egy védelmező istennőnek szenteltek a falu központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        90.200687,
+                        24.08988
+                  ]
+            },
+            {
+                  "name": "Baytul Aman Bongshay Bridge Jame Mosque",
+                  "text": "Közvetlenül a Bongshay-hídnál található mecset, amely kényelmes imahelyet biztosít az utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.206426,
+                        24.079734
+                  ]
+            },
+            {
+                  "name": "Kaliakair South Palpara Universal Durga Temple",
+                  "text": "Templom a Palpara fazekasnegyedben, ahol minden évben nagyszabású Durga Púdzsá ünnepséget tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.207561,
+                        24.080195
+                  ]
+            },
+            {
+                  "name": "Uttor Hizoltoly Jame mosjid",
+                  "text": "Hizoltoly északi részén fekvő kis mecset, amely zöld mezők szélén található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203727,
+                        24.080922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Folk Culture of Bengal, Museum",
+                  "text": "Acest muzeu păstrează moștenirea culturală a Bengalului prin expoziții despre meșteșugurile tradiționale și agricultură.",
+                  "category": "museum",
+                  "coords": [
+                        90.248411,
+                        24.004716
+                  ]
+            },
+            {
+                  "name": "Sreefalati Palace",
+                  "text": "O reședință nobiliară istorică din epoca colonială, cunoscută pentru coloanele sale decorative și verandele largi.",
+                  "category": "castle",
+                  "coords": [
+                        90.209694,
+                        24.06844
+                  ]
+            },
+            {
+                  "name": "Appollo Ispat Land Zirani Bazar Savar",
+                  "text": "O zonă comercială extinsă în Savar, considerată o locație importantă pentru industria fierului și oțelului din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        90.253966,
+                        24.00041
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar জিরানী বাজার",
+                  "text": "O piață stradală importantă la intersecția spre Zirani, faimoasă pentru standurile sale diverse cu textile și țesături.",
+                  "category": "cultural",
+                  "coords": [
+                        90.254503,
+                        23.993512
+                  ]
+            },
+            {
+                  "name": "Dica Tex Limited (Unit 2) Ltd",
+                  "text": "O piață specializată în produse textile și necesități industriale, în inima zonei economice Kaliakair.",
+                  "category": "cultural",
+                  "coords": [
+                        90.248992,
+                        23.99334
+                  ]
+            },
+            {
+                  "name": "GAS GEN EQUIPMENTS LTD",
+                  "text": "Un centru comercial specializat în echipamente industriale de gaz, care oferă suport tehnic fabricilor din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        90.176873,
+                        24.089869
+                  ]
+            },
+            {
+                  "name": "Board Ghor Bazar বোর্ড ঘোর বাজার",
+                  "text": "O piață locală sătească cunoscută pentru magazinele sale tradiționale de dulciuri și tarabele cu pește proaspăt.",
+                  "category": "cultural",
+                  "coords": [
+                        90.185919,
+                        24.089106
+                  ]
+            },
+            {
+                  "name": "Talsultanpur Bazar",
+                  "text": "O mică piață care servește ca loc de întâlnire socială și oferă produse de artizanat local din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        90.199924,
+                        24.084887
+                  ]
+            },
+            {
+                  "name": "Kaliakair New Market",
+                  "text": "O piață animată în Kaliakair, care este un centru important pentru comerțul cu textile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.208084,
+                        24.07825
+                  ]
+            },
+            {
+                  "name": "Kaliakair Mukti Joddhya Market কালিয়াকৈর মুক্তিযোদ্ধা মার্কেট",
+                  "text": "Această piață, numită după luptătorii pentru libertate, este un loc plin de viață pentru comerțul zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210212,
+                        24.079808
+                  ]
+            },
+            {
+                  "name": "Fcl Kaliakair",
+                  "text": "Un complex comercial modern care deservește zona industrială hi-tech din Kaliakair.",
+                  "category": "cultural",
+                  "coords": [
+                        90.209158,
+                        24.076612
+                  ]
+            },
+            {
+                  "name": "Haji Khobir Uddin Market হাজী খবির উদ্দিন মার্কেট",
+                  "text": "Un bazar tradițional cu mai multe etaje, cu o varietate de vânzători locali și mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210654,
+                        24.078638
+                  ]
+            },
+            {
+                  "name": "Shaitta Banyan Tree",
+                  "text": "Un arbore banyan masiv și străvechi, cunoscut pentru rădăcinile sale aeriene impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        90.124577,
+                        24.004958
+                  ]
+            },
+            {
+                  "name": "Mullah Bari Baitush Sharif Jame Masjid",
+                  "text": "O moschee de cartier care se remarcă prin designul său simplu și sala centrală de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240937,
+                        24.024694
+                  ]
+            },
+            {
+                  "name": "Baroipara,Modhobari,Sree,Sree,Sarbojanin Durga Mondir, Hindu temple",
+                  "text": "Un templu comunitar hindu din Baroipara, dedicat zeiței Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244224,
+                        24.023111
+                  ]
+            },
+            {
+                  "name": "Murdha Bari Al-Aqsa Jame Masjid",
+                  "text": "Un lăcaș de cult musulman local, numit după faimoasa moschee Al-Aqsa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244259,
+                        24.021
+                  ]
+            },
+            {
+                  "name": "Baytul Mamur Jame Masjid",
+                  "text": "O moschee tradițională de sat care servește drept centru spiritual pentru locuitorii din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.243296,
+                        24.012138
+                  ]
+            },
+            {
+                  "name": "Radial International Masjid, Mosque",
+                  "text": "Un complex mare de moschee, frecventat în principal de muncitorii din zonele industriale din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        90.253709,
+                        23.99834
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar Bango Market Mosque, Mosque",
+                  "text": "Această moschee situată convenabil în bazarul Zirani oferă comercianților un loc pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256503,
+                        23.993066
+                  ]
+            },
+            {
+                  "name": "Dakshin Kabirpur Purbpara Darus Salam Jame Masjid",
+                  "text": "O moschee în sudul Kabirpur, caracterizată prin locația sa într-un cartier rezidențial liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        90.248308,
+                        24.000229
+                  ]
+            },
+            {
+                  "name": "Kabirpur Ahmadiyya Mosque, Mosque",
+                  "text": "Un lăcaș de cult al comunității Ahmadiyya din Kabirpur, remarcat prin arhitectura sa îngrijită.",
+                  "category": "landmark",
+                  "coords": [
+                        90.247909,
+                        24.007161
+                  ]
+            },
+            {
+                  "name": "বাইদগাঁও দক্ষিনপাড়া বাইতুল ইসলাম জামে মসজিদ",
+                  "text": "O moschee locală în partea de sud a satului Baidgaon, servind drept loc de adunare pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        90.224381,
+                        23.999271
+                  ]
+            },
+            {
+                  "name": "বাইদগাও আহলে হাদীস কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Moscheea centrală a comunității Ahle Hadith din Baidgaon, cu trăsături arhitecturale distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226821,
+                        24.007947
+                  ]
+            },
+            {
+                  "name": "চাটয়েল ভিটি জামে মস্ক",
+                  "text": "O moschee mică și funcțională, situată în mijlocul așezării rezidențiale Chatail Viti.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226998,
+                        24.014532
+                  ]
+            },
+            {
+                  "name": "Hijalhati Mandal Bari Jame Masjid",
+                  "text": "Această moschee situată în cartierul Mandal Bari a fost ctitorită de o familie locală pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232666,
+                        24.020636
+                  ]
+            },
+            {
+                  "name": "হিজলহাটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Cel mai important centru religios din Hijalhati, funcționând ca moschee principală pentru săteni.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232849,
+                        24.022393
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি মধ্যপাড়া বাইতুল্লাহ জামে মসজিদ",
+                  "text": "O moschee în inima localității Boroichuti, cunoscută pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        90.229121,
+                        24.03287
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "Moscheea centrală de vineri din Boroichuti, care oferă spațiu pentru adunări mari.",
+                  "category": "landmark",
+                  "coords": [
+                        90.233145,
+                        24.031423
+                  ]
+            },
+            {
+                  "name": "Nandan Park Mosque, Mosque",
+                  "text": "Această moschee este situată chiar lângă Parcul Nandan și este adesea folosită de vizitatorii parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240094,
+                        24.030657
+                  ]
+            },
+            {
+                  "name": "West Chandra Baitun Noor Jame Masjid",
+                  "text": "O moschee în zona industrială West Chandra, care deservește muncitorii din fabricile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24004,
+                        24.034663
+                  ]
+            },
+            {
+                  "name": "Shamsul Alamin Group Mosque",
+                  "text": "Această moschee a fost construită special pentru angajații grupului Shamsul Alamin, aproape de locul lor de muncă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.228112,
+                        24.056526
+                  ]
+            },
+            {
+                  "name": "Rupjan Mosque, Mosque",
+                  "text": "O moschee cu arhitectură tradițională bengaleză, fiind un loc pașnic pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        90.221855,
+                        24.061858
+                  ]
+            },
+            {
+                  "name": "Gazaria Kanchanpur Kali Mandir, Hindu temple",
+                  "text": "Un templu dedicat zeiței Kali, fiind o destinație spirituală importantă pentru hindușii din Kanchanpur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.187812,
+                        24.085831
+                  ]
+            },
+            {
+                  "name": "Nama Sutrapur mosque",
+                  "text": "O moschee situată în zona joasă a localității Sutrapur, un exemplu tipic de arhitectură sacră rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.199737,
+                        24.089583
+                  ]
+            },
+            {
+                  "name": "Sutrapur Goddess Temple, Hindu temple",
+                  "text": "Un altar local în Sutrapur dedicat unei zeițe protectoare, marcând centrul satului.",
+                  "category": "landmark",
+                  "coords": [
+                        90.200687,
+                        24.08988
+                  ]
+            },
+            {
+                  "name": "Baytul Aman Bongshay Bridge Jame Mosque",
+                  "text": "Această moschee se află chiar lângă podul Bongshay, oferind un loc convenabil de rugăciune pentru călători.",
+                  "category": "landmark",
+                  "coords": [
+                        90.206426,
+                        24.079734
+                  ]
+            },
+            {
+                  "name": "Kaliakair South Palpara Universal Durga Temple",
+                  "text": "Un templu în cartierul olarilor Palpara, unde festivalul Durga Puja este celebrat cu fast în fiecare an.",
+                  "category": "landmark",
+                  "coords": [
+                        90.207561,
+                        24.080195
+                  ]
+            },
+            {
+                  "name": "Uttor Hizoltoly Jame mosjid",
+                  "text": "O mică moschee în nordul localității Hizoltoly, situată la marginea câmpurilor verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203727,
+                        24.080922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Culture of Bengal, Museum",
+                  "text": "This museum preserves the cultural heritage of Bengal through exhibits on traditional crafts, folk art, and rural tools.",
+                  "category": "museum",
+                  "coords": [
+                        90.248411,
+                        24.004716
+                  ]
+            },
+            {
+                  "name": "Sreefalati Palace",
+                  "text": "A historic colonial-era noble estate, known for its decorative pillars and expansive shaded verandas.",
+                  "category": "castle",
+                  "coords": [
+                        90.209694,
+                        24.06844
+                  ]
+            },
+            {
+                  "name": "Appollo Ispat Land Zirani Bazar Savar",
+                  "text": "An extensive commercial area in Savar, serving as a significant site for the region's iron and steel trade.",
+                  "category": "cultural",
+                  "coords": [
+                        90.253966,
+                        24.00041
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar জিরানী বাজার",
+                  "text": "A major roadside market at the Zirani junction, famous for its diverse textile and fabric stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        90.254503,
+                        23.993512
+                  ]
+            },
+            {
+                  "name": "Dica Tex Limited (Unit 2) Ltd",
+                  "text": "A specialized market for textile products and industrial supplies in the heart of the Kaliakair economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        90.248992,
+                        23.99334
+                  ]
+            },
+            {
+                  "name": "GAS GEN EQUIPMENTS LTD",
+                  "text": "A specialized trade center for industrial gas equipment, providing technical supplies to nearby factories.",
+                  "category": "cultural",
+                  "coords": [
+                        90.176873,
+                        24.089869
+                  ]
+            },
+            {
+                  "name": "Board Ghor Bazar বোর্ড ঘোর বাজার",
+                  "text": "A local village market known for its traditional sweet shops and fresh river fish stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        90.185919,
+                        24.089106
+                  ]
+            },
+            {
+                  "name": "Talsultanpur Bazar",
+                  "text": "A small marketplace that serves as a social gathering spot, offering local artisanal goods from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        90.199924,
+                        24.084887
+                  ]
+            },
+            {
+                  "name": "Kaliakair New Market",
+                  "text": "A bustling marketplace in Kaliakair that serves as a key hub for local textile trade.",
+                  "category": "cultural",
+                  "coords": [
+                        90.208084,
+                        24.07825
+                  ]
+            },
+            {
+                  "name": "Kaliakair Mukti Joddhya Market কালিয়াকৈর মুক্তিযোদ্ধা মার্কেট",
+                  "text": "Named after freedom fighters, this market is a lively spot for daily local commerce.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210212,
+                        24.079808
+                  ]
+            },
+            {
+                  "name": "Fcl Kaliakair",
+                  "text": "A modern shopping complex serving the surrounding hi-tech industrial area of Kaliakair.",
+                  "category": "cultural",
+                  "coords": [
+                        90.209158,
+                        24.076612
+                  ]
+            },
+            {
+                  "name": "Haji Khobir Uddin Market হাজী খবির উদ্দিন মার্কেট",
+                  "text": "A traditional multi-story bazaar featuring a variety of local vendors and diverse goods.",
+                  "category": "cultural",
+                  "coords": [
+                        90.210654,
+                        24.078638
+                  ]
+            },
+            {
+                  "name": "Shaitta Banyan Tree",
+                  "text": "A massive, ancient banyan tree known for its impressive, sprawling aerial roots.",
+                  "category": "landmark",
+                  "coords": [
+                        90.124577,
+                        24.004958
+                  ]
+            },
+            {
+                  "name": "Mullah Bari Baitush Sharif Jame Masjid",
+                  "text": "A residential neighborhood mosque featuring a modest design and a central prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240937,
+                        24.024694
+                  ]
+            },
+            {
+                  "name": "Baroipara,Modhobari,Sree,Sree,Sarbojanin Durga Mondir, Hindu temple",
+                  "text": "A Hindu community temple in Baroipara dedicated to the goddess Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244224,
+                        24.023111
+                  ]
+            },
+            {
+                  "name": "Murdha Bari Al-Aqsa Jame Masjid",
+                  "text": "A local Muslim place of worship named after the famous Al-Aqsa mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        90.244259,
+                        24.021
+                  ]
+            },
+            {
+                  "name": "Baytul Mamur Jame Masjid",
+                  "text": "A traditional village mosque serving as a spiritual center for the surrounding residents.",
+                  "category": "landmark",
+                  "coords": [
+                        90.243296,
+                        24.012138
+                  ]
+            },
+            {
+                  "name": "Radial International Masjid, Mosque",
+                  "text": "A large mosque complex primarily serving workers from the nearby industrial zones.",
+                  "category": "landmark",
+                  "coords": [
+                        90.253709,
+                        23.99834
+                  ]
+            },
+            {
+                  "name": "Zirani Bazar Bango Market Mosque, Mosque",
+                  "text": "Conveniently located within the Zirani bazaar, this mosque provides a place for prayer for market traders.",
+                  "category": "landmark",
+                  "coords": [
+                        90.256503,
+                        23.993066
+                  ]
+            },
+            {
+                  "name": "Dakshin Kabirpur Purbpara Darus Salam Jame Masjid",
+                  "text": "A mosque in southern Kabirpur, characterized by its location in a quiet residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        90.248308,
+                        24.000229
+                  ]
+            },
+            {
+                  "name": "Kabirpur Ahmadiyya Mosque, Mosque",
+                  "text": "A place of worship for the Ahmadiyya community in Kabirpur, noted for its tidy architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        90.247909,
+                        24.007161
+                  ]
+            },
+            {
+                  "name": "বাইদগাঁও দক্ষিনপাড়া বাইতুল ইসলাম জামে মসজিদ",
+                  "text": "A local mosque in the southern part of Baidgaon village, serving as a community gathering point.",
+                  "category": "landmark",
+                  "coords": [
+                        90.224381,
+                        23.999271
+                  ]
+            },
+            {
+                  "name": "বাইদগাও আহলে হাদীস কেন্দ্রীয় জামে মসজিদ",
+                  "text": "The central mosque for the Ahle Hadith community in Baidgaon, featuring distinct architectural traits.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226821,
+                        24.007947
+                  ]
+            },
+            {
+                  "name": "চাটয়েল ভিটি জামে মস্ক",
+                  "text": "A small, functional mosque situated amidst the Chatail Viti residential cluster.",
+                  "category": "landmark",
+                  "coords": [
+                        90.226998,
+                        24.014532
+                  ]
+            },
+            {
+                  "name": "Hijalhati Mandal Bari Jame Masjid",
+                  "text": "Located in the Mandal Bari area, this mosque was founded by a local family for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232666,
+                        24.020636
+                  ]
+            },
+            {
+                  "name": "হিজলহাটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "The primary religious center in Hijalhati, functioning as the main mosque for the villagers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232849,
+                        24.022393
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি মধ্যপাড়া বাইতুল্লাহ জামে মসজিদ",
+                  "text": "A mosque located in the heart of Boroichuti, known for its serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        90.229121,
+                        24.03287
+                  ]
+            },
+            {
+                  "name": "বড়ইছুটি কেন্দ্রীয় জামে মসজিদ",
+                  "text": "The central Friday mosque of Boroichuti, providing space for large community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        90.233145,
+                        24.031423
+                  ]
+            },
+            {
+                  "name": "Nandan Park Mosque, Mosque",
+                  "text": "Located right next to Nandan Park, this mosque is often used by visitors to the theme park.",
+                  "category": "landmark",
+                  "coords": [
+                        90.240094,
+                        24.030657
+                  ]
+            },
+            {
+                  "name": "West Chandra Baitun Noor Jame Masjid",
+                  "text": "A mosque in the West Chandra industrial zone, serving workers from nearby factories.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24004,
+                        24.034663
+                  ]
+            },
+            {
+                  "name": "Shamsul Alamin Group Mosque",
+                  "text": "This mosque was built specifically for the employees of the Shamsul Alamin Group near their workplace.",
+                  "category": "landmark",
+                  "coords": [
+                        90.228112,
+                        24.056526
+                  ]
+            },
+            {
+                  "name": "Rupjan Mosque, Mosque",
+                  "text": "A mosque featuring traditional Bengali architecture, serving as a peaceful site for daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        90.221855,
+                        24.061858
+                  ]
+            },
+            {
+                  "name": "Gazaria Kanchanpur Kali Mandir, Hindu temple",
+                  "text": "A temple dedicated to Goddess Kali, serving as an important spiritual site for Kanchanpur's Hindus.",
+                  "category": "landmark",
+                  "coords": [
+                        90.187812,
+                        24.085831
+                  ]
+            },
+            {
+                  "name": "Nama Sutrapur mosque",
+                  "text": "A mosque located in the lower-lying area of Sutrapur, typical of rural religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        90.199737,
+                        24.089583
+                  ]
+            },
+            {
+                  "name": "Sutrapur Goddess Temple, Hindu temple",
+                  "text": "A local shrine in Sutrapur dedicated to a protective goddess, marking the village center.",
+                  "category": "landmark",
+                  "coords": [
+                        90.200687,
+                        24.08988
+                  ]
+            },
+            {
+                  "name": "Baytul Aman Bongshay Bridge Jame Mosque",
+                  "text": "Located right by the Bongshay bridge, this mosque offers a convenient prayer spot for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        90.206426,
+                        24.079734
+                  ]
+            },
+            {
+                  "name": "Kaliakair South Palpara Universal Durga Temple",
+                  "text": "A temple in the Palpara potters' district, where the Durga Puja festival is celebrated grandly each year.",
+                  "category": "landmark",
+                  "coords": [
+                        90.207561,
+                        24.080195
+                  ]
+            },
+            {
+                  "name": "Uttor Hizoltoly Jame mosjid",
+                  "text": "A small mosque in northern Hizoltoly, situated on the edge of lush green fields.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203727,
+                        24.080922
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "industry",
     name: { de: "Bangabandhu Hi-Tech City", hu: "Bangabandhu Hi-Tech City", ro: "Bangabandhu Hi-Tech City", en: "Bangabandhu Hi-Tech City" },
@@ -1173,7 +22044,52 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-kaliakair-hitech-economic-v2.webp",
   },
   {
-    id: "bangladesh-chatak-cement-economic-v2",
+    id: "bangladesh-chatak-cement-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "4 No Area Jame Mosque",
+                  "text": "Eine Viertelmoschee, die Industriearbeitern in der Nähe der Zementwerke von Chatak dient.",
+                  "category": "religious",
+                  "coords": [
+                        91.656919,
+                        25.050082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "4 No Area Jame Mosque",
+                  "text": "A chataki cementgyárak közelében dolgozó ipari munkásokat kiszolgáló szomszédsági mecset.",
+                  "category": "religious",
+                  "coords": [
+                        91.656919,
+                        25.050082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "4 No Area Jame Mosque",
+                  "text": "O moschee de cartier care deservește muncitorii industriali de lângă fabricile de ciment din Chatak.",
+                  "category": "religious",
+                  "coords": [
+                        91.656919,
+                        25.050082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "4 No Area Jame Mosque",
+                  "text": "A neighborhood mosque serving industrial workers near the Chatak cement plants.",
+                  "category": "religious",
+                  "coords": [
+                        91.656919,
+                        25.050082
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "factory",
     name: { de: "Zementfabrik Chatak", hu: "Chatak cementgyár", ro: "Fabrica de ciment Chatak", en: "Chatak Cement Factory" },
@@ -1218,7 +22134,232 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-chatak-cement-economic-v2.webp",
   },
   {
-    id: "bangladesh-fenchuganj-fertilizer-economic-v2",
+    id: "bangladesh-fenchuganj-fertilizer-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hatuvanga Jame Masjid",
+                  "text": "Eine lokale islamische Moschee, die der Gemeinde in der Nähe von Fenchuganj dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.937357,
+                        24.676395
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর পূর্ব জামে মসজিদ",
+                  "text": "Ein islamisches Gebetszentrum in der Industrieregion Fenchuganj.",
+                  "category": "religious",
+                  "coords": [
+                        91.954566,
+                        24.704606
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর শাহী ঈদগাহ",
+                  "text": "Ein Freiluftgelände, das speziell für die islamischen Eid-Gebete in Fenchuganj vorgesehen ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.955598,
+                        24.704384
+                  ]
+            },
+            {
+                  "name": "Manikkuna Bazar Moholla Jame Masjid Complex",
+                  "text": "Ein bekannter lokaler Moscheekomplex im geschäftigen Viertel Manikkuna Bazar.",
+                  "category": "religious",
+                  "coords": [
+                        91.982813,
+                        24.716597
+                  ]
+            },
+            {
+                  "name": "Haji Chomru Miah Market",
+                  "text": "Ein belebter Marktplatz in der Nähe der Düngemittelfabriken von Fenchuganj, der die täglichen Waren liefert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.914489,
+                        24.69504
+                  ]
+            },
+            {
+                  "name": "Maijgaon Bazar",
+                  "text": "Ein lebendiges lokales Handelszentrum für das Viertel Maijgaon.",
+                  "category": "cultural",
+                  "coords": [
+                        91.954215,
+                        24.684903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hatuvanga Jame Masjid",
+                  "text": "A Fenchuganj melletti közösséget szolgáló helyi iszlám mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        91.937357,
+                        24.676395
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর পূর্ব জামে মসজিদ",
+                  "text": "Egy iszlám imaközpont Fenchuganj ipari régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        91.954566,
+                        24.704606
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর শাহী ঈদগাহ",
+                  "text": "Kifejezetten az iszlám ünnepi (Eid) imákhoz kijelölt szabadtéri terület Fenchuganjban.",
+                  "category": "religious",
+                  "coords": [
+                        91.955598,
+                        24.704384
+                  ]
+            },
+            {
+                  "name": "Manikkuna Bazar Moholla Jame Masjid Complex",
+                  "text": "Egy kiemelkedő helyi mecsetkomplexum a nyüzsgő Manikkuna Bazar területén.",
+                  "category": "religious",
+                  "coords": [
+                        91.982813,
+                        24.716597
+                  ]
+            },
+            {
+                  "name": "Haji Chomru Miah Market",
+                  "text": "A fenchuganji műtrágyagyárak közelében található, napi cikkeket kínáló nyüzsgő piac.",
+                  "category": "cultural",
+                  "coords": [
+                        91.914489,
+                        24.69504
+                  ]
+            },
+            {
+                  "name": "Maijgaon Bazar",
+                  "text": "A Maijgaon környékét kiszolgáló, élettel teli helyi kereskedelmi központ.",
+                  "category": "cultural",
+                  "coords": [
+                        91.954215,
+                        24.684903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hatuvanga Jame Masjid",
+                  "text": "O moschee islamică locală care deservește comunitatea din apropiere de Fenchuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.937357,
+                        24.676395
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর পূর্ব জামে মসজিদ",
+                  "text": "Un centru de rugăciune islamic situat în regiunea industrială Fenchuganj.",
+                  "category": "religious",
+                  "coords": [
+                        91.954566,
+                        24.704606
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর শাহী ঈদগাহ",
+                  "text": "Un spațiu în aer liber desemnat special pentru rugăciunile islamice de Eid în Fenchuganj.",
+                  "category": "religious",
+                  "coords": [
+                        91.955598,
+                        24.704384
+                  ]
+            },
+            {
+                  "name": "Manikkuna Bazar Moholla Jame Masjid Complex",
+                  "text": "Un complex proeminent de moschee locală situat în zona plină de viață Manikkuna Bazar.",
+                  "category": "religious",
+                  "coords": [
+                        91.982813,
+                        24.716597
+                  ]
+            },
+            {
+                  "name": "Haji Chomru Miah Market",
+                  "text": "O piață aglomerată care furnizează bunuri zilnice în apropierea fabricilor de îngrășăminte din Fenchuganj.",
+                  "category": "cultural",
+                  "coords": [
+                        91.914489,
+                        24.69504
+                  ]
+            },
+            {
+                  "name": "Maijgaon Bazar",
+                  "text": "Un hub comercial local plin de viață care deservește cartierul Maijgaon.",
+                  "category": "cultural",
+                  "coords": [
+                        91.954215,
+                        24.684903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hatuvanga Jame Masjid",
+                  "text": "A local Islamic mosque serving the community near Fenchuganj.",
+                  "category": "landmark",
+                  "coords": [
+                        91.937357,
+                        24.676395
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর পূর্ব জামে মসজিদ",
+                  "text": "An Islamic prayer center nestled in the industrial region of Fenchuganj.",
+                  "category": "religious",
+                  "coords": [
+                        91.954566,
+                        24.704606
+                  ]
+            },
+            {
+                  "name": "পিটাইটিকর শাহী ঈদগাহ",
+                  "text": "An open-air site specifically designated for Islamic Eid prayers in Fenchuganj.",
+                  "category": "religious",
+                  "coords": [
+                        91.955598,
+                        24.704384
+                  ]
+            },
+            {
+                  "name": "Manikkuna Bazar Moholla Jame Masjid Complex",
+                  "text": "A prominent local mosque complex located within the bustling Manikkuna Bazar area.",
+                  "category": "religious",
+                  "coords": [
+                        91.982813,
+                        24.716597
+                  ]
+            },
+            {
+                  "name": "Haji Chomru Miah Market",
+                  "text": "A bustling marketplace supplying daily goods near the Fenchuganj fertilizer plants.",
+                  "category": "cultural",
+                  "coords": [
+                        91.914489,
+                        24.69504
+                  ]
+            },
+            {
+                  "name": "Maijgaon Bazar",
+                  "text": "A lively local commercial hub serving the Maijgaon neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        91.954215,
+                        24.684903
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "factory",
     name: { de: "Düngemittelfabrik Fenchuganj", hu: "Fenchuganji műtrágyagyár", ro: "Fabrica de îngrășăminte Fenchuganj", en: "Fenchuganj Fertilizer Factory" },
@@ -1263,7 +22404,268 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-fenchuganj-fertilizer-economic-v2.webp",
   },
   {
-    id: "bangladesh-kafco-plant-economic-v2",
+    id: "bangladesh-kafco-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naval Sea Beach, Potenga Rd, VIP Rd, Chattogram",
+                  "text": "Ein malerischer Küstenplatz unter der Verwaltung der Marine, bekannt für seine Aussicht auf den Sonnenuntergang.",
+                  "category": "landmark",
+                  "coords": [
+                        91.817358,
+                        22.239316
+                  ]
+            },
+            {
+                  "name": "Neval Beach",
+                  "text": "Eine beliebte Uferpromenade am Karnaphuli, ideal für Entspannung im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        91.816196,
+                        22.23856
+                  ]
+            },
+            {
+                  "name": "Masjid A Baitur Rahat",
+                  "text": "Ein lokales Gotteshaus, das ein spirituelles Zentrum für die nahe gelegene Gemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        91.813401,
+                        22.244247
+                  ]
+            },
+            {
+                  "name": "Hazrat Belal Habsi (Ra) Mosjid, Potenga Rd, Chattogram",
+                  "text": "Eine lokale Moschee, benannt zu Ehren von Hazrat Belal Habsi, einem Gefährten des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814559,
+                        22.23767
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Mosjider Koborsthan, Potenga, Chattogram",
+                  "text": "Eine Gemeindemoschee, zu der auch ein traditioneller islamischer Begräbnisplatz gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814666,
+                        22.24083
+                  ]
+            },
+            {
+                  "name": "Chandpu Railway Mosque & Madrasa., Nizam Market Rd, Chattogram",
+                  "text": "Ein religiöses Bildungszentrum und eine Moschee für die örtliche Eisenbahnergemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812094,
+                        22.240614
+                  ]
+            },
+            {
+                  "name": "Omar Faruk Jame Mosque, South Para Road, Chattogram",
+                  "text": "Eine Nachbarschaftsmoschee im Viertel South Para, die Raum für Gemeinschaftsgebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.810457,
+                        22.23785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naval Sea Beach, Potenga Rd, VIP Rd, Chattogram",
+                  "text": "Festői tengerparti hely a haditengerészet kezelésében, amely naplementéiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        91.817358,
+                        22.239316
+                  ]
+            },
+            {
+                  "name": "Neval Beach",
+                  "text": "Népszerű folyóparti sétány a Karnaphuli mentén, amely ideális a szabadtéri kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        91.816196,
+                        22.23856
+                  ]
+            },
+            {
+                  "name": "Masjid A Baitur Rahat",
+                  "text": "Helyi istentiszteleti hely, amely spirituális központot biztosít a közeli közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.813401,
+                        22.244247
+                  ]
+            },
+            {
+                  "name": "Hazrat Belal Habsi (Ra) Mosjid, Potenga Rd, Chattogram",
+                  "text": "Helyi mecset, amelyet Hazrat Belal Habsi, a Próféta társa tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814559,
+                        22.23767
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Mosjider Koborsthan, Potenga, Chattogram",
+                  "text": "Közösségi mecset, amelyhez hagyományos iszlám temetkezési hely is tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814666,
+                        22.24083
+                  ]
+            },
+            {
+                  "name": "Chandpu Railway Mosque & Madrasa., Nizam Market Rd, Chattogram",
+                  "text": "Vallási oktatási központ és mecset, amely a helyi vasutas közösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812094,
+                        22.240614
+                  ]
+            },
+            {
+                  "name": "Omar Faruk Jame Mosque, South Para Road, Chattogram",
+                  "text": "Szomszédsági mecset South Para negyedében, amely helyet biztosít a közösségi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        91.810457,
+                        22.23785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naval Sea Beach, Potenga Rd, VIP Rd, Chattogram",
+                  "text": "Un loc pitoresc la malul mării administrat de marină, cunoscut pentru priveliștile sale la apus.",
+                  "category": "landmark",
+                  "coords": [
+                        91.817358,
+                        22.239316
+                  ]
+            },
+            {
+                  "name": "Neval Beach",
+                  "text": "O promenadă populară pe malul râului Karnaphuli, ideală pentru relaxare în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        91.816196,
+                        22.23856
+                  ]
+            },
+            {
+                  "name": "Masjid A Baitur Rahat",
+                  "text": "Un lăcaș de cult local care oferă un centru spiritual pentru comunitatea din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        91.813401,
+                        22.244247
+                  ]
+            },
+            {
+                  "name": "Hazrat Belal Habsi (Ra) Mosjid, Potenga Rd, Chattogram",
+                  "text": "O moschee locală numită în onoarea lui Hazrat Belal Habsi, un companion al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814559,
+                        22.23767
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Mosjider Koborsthan, Potenga, Chattogram",
+                  "text": "O moschee comunitară care include un cimitir islamic tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814666,
+                        22.24083
+                  ]
+            },
+            {
+                  "name": "Chandpu Railway Mosque & Madrasa., Nizam Market Rd, Chattogram",
+                  "text": "Un centru educațional religios și o moschee care deservește comunitatea feroviară locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812094,
+                        22.240614
+                  ]
+            },
+            {
+                  "name": "Omar Faruk Jame Mosque, South Para Road, Chattogram",
+                  "text": "O moschee de cartier care oferă un spațiu pentru rugăciunile congregaționale în South Para.",
+                  "category": "landmark",
+                  "coords": [
+                        91.810457,
+                        22.23785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naval Sea Beach, Potenga Rd, VIP Rd, Chattogram",
+                  "text": "A picturesque seaside spot managed by the navy, known for its sunset views.",
+                  "category": "landmark",
+                  "coords": [
+                        91.817358,
+                        22.239316
+                  ]
+            },
+            {
+                  "name": "Neval Beach",
+                  "text": "A popular riverside promenade along the Karnaphuli, ideal for outdoor relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        91.816196,
+                        22.23856
+                  ]
+            },
+            {
+                  "name": "Masjid A Baitur Rahat",
+                  "text": "A local place of worship providing a spiritual center for the nearby community.",
+                  "category": "religious",
+                  "coords": [
+                        91.813401,
+                        22.244247
+                  ]
+            },
+            {
+                  "name": "Hazrat Belal Habsi (Ra) Mosjid, Potenga Rd, Chattogram",
+                  "text": "A local mosque named in honor of Hazrat Belal Habsi, a companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814559,
+                        22.23767
+                  ]
+            },
+            {
+                  "name": "Baitul Aman Jame Mosjider Koborsthan, Potenga, Chattogram",
+                  "text": "A community mosque that includes a traditional Islamic burial ground.",
+                  "category": "landmark",
+                  "coords": [
+                        91.814666,
+                        22.24083
+                  ]
+            },
+            {
+                  "name": "Chandpu Railway Mosque & Madrasa., Nizam Market Rd, Chattogram",
+                  "text": "A religious educational center and mosque serving the local railway community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.812094,
+                        22.240614
+                  ]
+            },
+            {
+                  "name": "Omar Faruk Jame Mosque, South Para Road, Chattogram",
+                  "text": "A neighborhood mosque providing a space for congregational prayers in South Para.",
+                  "category": "landmark",
+                  "coords": [
+                        91.810457,
+                        22.23785
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "factory",
     name: { de: "KAFCO-Düngemittelwerk", hu: "KAFCO műtrágyagyár", ro: "Fabrica de îngrășăminte KAFCO", en: "KAFCO Fertilizer Plant" },
@@ -1308,7 +22710,304 @@ export const bangladeshEconomicV2: POI[] = [
     image: "/poi-images/bangladesh-kafco-plant-economic-v2.webp",
   },
   {
-    id: "bangladesh-cufl-plant-economic-v2",
+    id: "bangladesh-cufl-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "শ্রী শ্রী ঠাকুর অনুকূল চন্দ্র স​ৎসঙ্গ আশ্রম, আনোয়ারা",
+                  "text": "Ein ruhiger Hindu-Ashram in Anwara, der Sri Sri Thakur Anukul Chandra gewidmet ist und sich in der Nähe des CUFL-Werks befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911695,
+                        22.222991
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী লোকনাথ ব্রহ্মচারী সেবাশ্রম​, আনোয়ারা",
+                  "text": "Ein friedliches hinduistisches religiöses Zentrum in Anwara zu Ehren von Sri Sri Loknath Brahmachari.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910024,
+                        22.222807
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী রামকৃষ্ণ-সারদা সেবাশ্রম​, আনোয়ারা",
+                  "text": "Ein engagierter hinduistischer Service-Ashram in Anwara, der von den Lehren von Ramakrishna und Sarada inspiriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.913794,
+                        22.220139
+                  ]
+            },
+            {
+                  "name": "সরস্বতী বাড়ী, আনোয়ারা",
+                  "text": "Eine traditionelle hinduistische Andachtsstätte in Anwara zu Ehren von Saraswati, der Göttin des Wissens.",
+                  "category": "landmark",
+                  "coords": [
+                        91.909058,
+                        22.221456
+                  ]
+            },
+            {
+                  "name": "Mohammad Ali Jame Miosque, Chittagong-Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "Eine lokale muslimische Moschee an der belebten Chittagong-Anwara-Banshkhali Road in Anwara.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871896,
+                        22.231317
+                  ]
+            },
+            {
+                  "name": "Chatori Bazar Jame Mosjid, Chatori Choumohoni Bazzar, Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "Eine islamische Kultstätte direkt im belebten Chatori Choumohoni Bazaar an der Anwara-Banshkhali Road.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871916,
+                        22.234501
+                  ]
+            },
+            {
+                  "name": "Rajchila Fakir Shrine, Chittagong-Anwara-Banshkhali Rd, Anowara, Chattogram",
+                  "text": "Ein spiritueller Schrein, der Rajchila Fakir gewidmet ist und Gläubige entlang der Chittagong-Anwara-Banshkhali Road anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        91.870585,
+                        22.240372
+                  ]
+            },
+            {
+                  "name": "Sarker Hat Cow Market",
+                  "text": "Ein großer regionaler Viehmarkt, der auf den Rinderhandel nahe dem Industriegebiet Anwara spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908299,
+                        22.176077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "শ্রী শ্রী ঠাকুর অনুকূল চন্দ্র স​ৎসঙ্গ আশ্রম, আনোয়ারা",
+                  "text": "Egy nyugodt hindu ásram Anwarában, amelyet Sri Sri Thakur Anukul Chandra tiszteletére szenteltek a CUFL üzem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911695,
+                        22.222991
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী লোকনাথ ব্রহ্মচারী সেবাশ্রম​, আনোয়ারা",
+                  "text": "Békés hindu vallási központ Anwarában, amely Sri Sri Loknath Brahmachari előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910024,
+                        22.222807
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী রামকৃষ্ণ-সারদা সেবাশ্রম​, আনোয়ারা",
+                  "text": "Egy elkötelezett hindu szolgálati ásram Anwarában, amelyet Ramakrishna és Sarada tanításai ihlettek.",
+                  "category": "landmark",
+                  "coords": [
+                        91.913794,
+                        22.220139
+                  ]
+            },
+            {
+                  "name": "সরস্বতী বাড়ী, আনোয়ারা",
+                  "text": "Hagyományos hindu kegyhely Anwarában Szaraszvati, a tudás istennőjének tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        91.909058,
+                        22.221456
+                  ]
+            },
+            {
+                  "name": "Mohammad Ali Jame Miosque, Chittagong-Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "Helyi muszlim mecset a forgalmas Chittagong-Anwara-Banshkhali út mentén Anwarában.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871896,
+                        22.231317
+                  ]
+            },
+            {
+                  "name": "Chatori Bazar Jame Mosjid, Chatori Choumohoni Bazzar, Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "Iszlám istentiszteleti hely, amely közvetlenül a nyüzsgő Chatori Choumohoni bazárban található az Anwara-Banshkhali úton.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871916,
+                        22.234501
+                  ]
+            },
+            {
+                  "name": "Rajchila Fakir Shrine, Chittagong-Anwara-Banshkhali Rd, Anowara, Chattogram",
+                  "text": "A Rajchila Fakirnek szentelt szellemi szentély, amely vonzza a híveket a Chittagong-Anwara-Banshkhali út mentén.",
+                  "category": "religious",
+                  "coords": [
+                        91.870585,
+                        22.240372
+                  ]
+            },
+            {
+                  "name": "Sarker Hat Cow Market",
+                  "text": "Egy nagy regionális állatpiac, amely szarvasmarha-kereskedelemre specializálódott az anwarai ipari terület közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908299,
+                        22.176077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "শ্রী শ্রী ঠাকুর অনুকূল চন্দ্র স​ৎসঙ্গ আশ্রম, আনোয়ারা",
+                  "text": "Un ashram hindus liniștit din Anwara dedicat lui Sri Sri Thakur Anukul Chandra, lângă uzina CUFL.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911695,
+                        22.222991
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী লোকনাথ ব্রহ্মচারী সেবাশ্রম​, আনোয়ারা",
+                  "text": "Un centru religios hindus pașnic din Anwara care îl onorează pe Sri Sri Loknath Brahmachari.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910024,
+                        22.222807
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী রামকৃষ্ণ-সারদা সেবাশ্রম​, আনোয়ারা",
+                  "text": "Un ashram de servicii hindus dedicat din Anwara inspirat de învățăturile lui Ramakrishna și Sarada.",
+                  "category": "landmark",
+                  "coords": [
+                        91.913794,
+                        22.220139
+                  ]
+            },
+            {
+                  "name": "সরস্বতী বাড়ী, আনোয়ারা",
+                  "text": "Un loc devoțional hindus tradițional din Anwara care o onorează pe Saraswati, zeița cunoașterii.",
+                  "category": "landmark",
+                  "coords": [
+                        91.909058,
+                        22.221456
+                  ]
+            },
+            {
+                  "name": "Mohammad Ali Jame Miosque, Chittagong-Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "O moschee musulmană locală situată de-a lungul aglomeratei rute Chittagong-Anwara-Banshkhali din Anwara.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871896,
+                        22.231317
+                  ]
+            },
+            {
+                  "name": "Chatori Bazar Jame Mosjid, Chatori Choumohoni Bazzar, Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "Un lăcaș de cult islamic situat direct în aglomeratul bazar Chatori Choumohoni de pe drumul Anwara-Banshkhali.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871916,
+                        22.234501
+                  ]
+            },
+            {
+                  "name": "Rajchila Fakir Shrine, Chittagong-Anwara-Banshkhali Rd, Anowara, Chattogram",
+                  "text": "Un altar spiritual dedicat lui Rajchila Fakir, atrăgând devotați de-a lungul drumului Chittagong-Anwara-Banshkhali.",
+                  "category": "religious",
+                  "coords": [
+                        91.870585,
+                        22.240372
+                  ]
+            },
+            {
+                  "name": "Sarker Hat Cow Market",
+                  "text": "O piață regională mare de animale specializată în comerțul cu vite în apropierea zonei industriale Anwara.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908299,
+                        22.176077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "শ্রী শ্রী ঠাকুর অনুকূল চন্দ্র স​ৎসঙ্গ আশ্রম, আনোয়ারা",
+                  "text": "A serene Hindu ashram in Anwara dedicated to Sri Sri Thakur Anukul Chandra, near the CUFL plant.",
+                  "category": "landmark",
+                  "coords": [
+                        91.911695,
+                        22.222991
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী লোকনাথ ব্রহ্মচারী সেবাশ্রম​, আনোয়ারা",
+                  "text": "A peaceful Hindu religious center in Anwara honoring Sri Sri Loknath Brahmachari.",
+                  "category": "landmark",
+                  "coords": [
+                        91.910024,
+                        22.222807
+                  ]
+            },
+            {
+                  "name": "শ্রী শ্রী রামকৃষ্ণ-সারদা সেবাশ্রম​, আনোয়ারা",
+                  "text": "A dedicated Hindu service ashram in Anwara inspired by the teachings of Ramakrishna and Sarada.",
+                  "category": "landmark",
+                  "coords": [
+                        91.913794,
+                        22.220139
+                  ]
+            },
+            {
+                  "name": "সরস্বতী বাড়ী, আনোয়ারা",
+                  "text": "A traditional Hindu devotional site in Anwara honoring Saraswati, the goddess of knowledge.",
+                  "category": "landmark",
+                  "coords": [
+                        91.909058,
+                        22.221456
+                  ]
+            },
+            {
+                  "name": "Mohammad Ali Jame Miosque, Chittagong-Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "A local Muslim mosque situated along the busy Chittagong-Anwara-Banshkhali Road in Anwara.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871896,
+                        22.231317
+                  ]
+            },
+            {
+                  "name": "Chatori Bazar Jame Mosjid, Chatori Choumohoni Bazzar, Anwara-Banshkhali Rd, Anwara, Chattogram",
+                  "text": "An Islamic place of worship located directly within the bustling Chatori Choumohoni Bazaar on the Anwara-Banshkhali Road.",
+                  "category": "landmark",
+                  "coords": [
+                        91.871916,
+                        22.234501
+                  ]
+            },
+            {
+                  "name": "Rajchila Fakir Shrine, Chittagong-Anwara-Banshkhali Rd, Anowara, Chattogram",
+                  "text": "A spiritual shrine dedicated to Rajchila Fakir, attracting devotees along the Chittagong-Anwara-Banshkhali Road.",
+                  "category": "religious",
+                  "coords": [
+                        91.870585,
+                        22.240372
+                  ]
+            },
+            {
+                  "name": "Sarker Hat Cow Market",
+                  "text": "A large regional livestock market specializing in cattle trading near the Anwara industrial area.",
+                  "category": "cultural",
+                  "coords": [
+                        91.908299,
+                        22.176077
+                  ]
+            }
+      ]
+},
     parent: "BD",
     type: "factory",
     name: { de: "CUFL-Düngemittelwerk", hu: "CUFL műtrágyagyár", ro: "Fabrica de îngrășăminte CUFL", en: "CUFL Fertilizer Plant" },

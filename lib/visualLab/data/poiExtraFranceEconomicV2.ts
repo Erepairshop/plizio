@@ -334,7 +334,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin d'Acclimatation",
-                  "text": "Der Freizeitpark Jardin d'Acclimatation in La Défense ist ein Ziel für die ganze Familie.",
+                  "text": "Historischer Vergnügungspark Jardin d’Acclimatation in La Défense Business.",
                   "category": "family",
                   "coords": [
                         2.264684,
@@ -343,7 +343,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire",
-                  "text": "Das Schwimmbad Pateaugeoire befindet sich in La Défense.",
+                  "text": "Planschbecken in La Défense Business.",
                   "category": "family",
                   "coords": [
                         2.254188,
@@ -593,7 +593,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin d'Acclimatation",
-                  "text": "A La Défense-i Jardin d'Acclimatation szabadidőpark az egész család számára kínál kikapcsolódást.",
+                  "text": "Történelmi vidámpark, Jardin d’Acclimatation, La Défense Business-ben.",
                   "category": "family",
                   "coords": [
                         2.264684,
@@ -602,7 +602,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire",
-                  "text": "A Pateaugeoire úszómedence La Défense-ban található.",
+                  "text": "Pancsolómedence La Défense Business-ben.",
                   "category": "family",
                   "coords": [
                         2.254188,
@@ -852,7 +852,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin d'Acclimatation",
-                  "text": "Parcul de distracții Jardin d'Acclimatation din La Defense este o destinație pentru întreaga familie.",
+                  "text": "Parcul de distracții istoric Jardin d’Acclimatation în La Défense Business.",
                   "category": "family",
                   "coords": [
                         2.264684,
@@ -861,7 +861,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire",
-                  "text": "Piscina Pateaugeoire este situată în La Defense.",
+                  "text": "Bazin de joacă pentru copii în La Défense Business.",
                   "category": "family",
                   "coords": [
                         2.254188,
@@ -1111,7 +1111,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin d'Acclimatation",
-                  "text": "The theme park Jardin d'Acclimatation in La Defense is a destination for the whole family.",
+                  "text": "Historic amusement park Jardin d’Acclimatation in La Défense Business.",
                   "category": "family",
                   "coords": [
                         2.264684,
@@ -1120,7 +1120,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Pateaugeoire",
-                  "text": "The swimming pool Pateaugeoire is located in La Defense.",
+                  "text": "A paddling pool in La Défense Business.",
                   "category": "family",
                   "coords": [
                         2.254188,
@@ -1621,7 +1621,7 @@ export const franceEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Plage de Trébezy",
-                  "text": "Plage de Trébezy ist ein kleiner Strand in der Nähe des Hafens von Saint-Nazaire.",
+                  "text": "Strand Trébezy am Atlantik in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.258159,
@@ -1630,7 +1630,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Virechat",
-                  "text": "Plage de Virechat ist ein Strandabschnitt an der Küste von Saint-Nazaire.",
+                  "text": "Strand Virechat in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.259997,
@@ -1648,7 +1648,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Belle Fontaine",
-                  "text": "Plage de Belle Fontaine ist ein ruhiger Strand an der Küste von Saint-Nazaire.",
+                  "text": "Strand der schönen Quelle (Belle Fontaine) in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.241849,
@@ -1657,7 +1657,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerlédé",
-                  "text": "Plage de Kerlédé ist ein Küstenabschnitt in der Nähe des Hafens von Saint-Nazaire.",
+                  "text": "Strand Kerlédé in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.236316,
@@ -1666,7 +1666,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerloupiots",
-                  "text": "Plage de Kerloupiots ist ein kleiner Strandbereich in Saint-Nazaire.",
+                  "text": "Strand Kerloupiots in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.238583,
@@ -1684,7 +1684,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Porcé",
-                  "text": "Plage de Porcé ist ein natürlicher Strandabschnitt in Saint-Nazaire.",
+                  "text": "Strand an der Loire-Mündung bei Saint-Nazaire.",
                   "category": "recreational",
                   "coords": [
                         -2.252115,
@@ -1693,7 +1693,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Bonne Anse",
-                  "text": "Plage de Bonne Anse ist ein Strand in der Nähe des Hafengebiets von Saint-Nazaire.",
+                  "text": "Strand der guten Bucht (Bonne Anse) in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.246988,
@@ -1702,7 +1702,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Port Charlotte",
-                  "text": "Port Charlotte ist ein Küstenbereich in der Region Nantes-Saint-Nazaire.",
+                  "text": "Jachthafen Port Charlotte in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.262212,
@@ -1713,7 +1713,7 @@ export const franceEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Plage de Trébezy",
-                  "text": "A Plage de Trébezy egy kis strand Saint-Nazaire kikötője közelében.",
+                  "text": "Trébezy strand az Atlanti-óceánnál Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.258159,
@@ -1722,7 +1722,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Virechat",
-                  "text": "A Plage de Virechat egy strandszakasz Saint-Nazaire partjainál.",
+                  "text": "Virechat strand Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.259997,
@@ -1740,7 +1740,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Belle Fontaine",
-                  "text": "A Plage de Belle Fontaine egy csendes strand Saint-Nazaire tengerpartján.",
+                  "text": "Belle Fontaine („Szép Forrás”) strand Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.241849,
@@ -1749,7 +1749,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerlédé",
-                  "text": "A Plage de Kerlédé egy tengerparti szakasz Saint-Nazaire kikötője közelében.",
+                  "text": "Kerlédé strand Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.236316,
@@ -1758,7 +1758,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerloupiots",
-                  "text": "A Plage de Kerloupiots egy kis strand Saint-Nazaire területén.",
+                  "text": "Kerloupiots strand Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.238583,
@@ -1776,7 +1776,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Porcé",
-                  "text": "A Plage de Porcé egy természetes strandszakasz Saint-Nazaire városában.",
+                  "text": "Strand a Loire torkolatánál Saint-Nazaire közelében.",
                   "category": "recreational",
                   "coords": [
                         -2.252115,
@@ -1785,7 +1785,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Bonne Anse",
-                  "text": "A Plage de Bonne Anse egy strand Saint-Nazaire kikötői övezetének közelében.",
+                  "text": "Bonne Anse („Jó Öböl”) strand Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.246988,
@@ -1794,7 +1794,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Port Charlotte",
-                  "text": "A Port Charlotte egy tengerparti rész Nantes-Saint-Nazaire régiójában.",
+                  "text": "Port Charlotte kikötő Nantes Saint-Nazaire Portban.",
                   "category": "recreational",
                   "coords": [
                         -2.262212,
@@ -1805,7 +1805,7 @@ export const franceEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Plage de Trébezy",
-                  "text": "Plage de Trébezy este o mică plajă situată lângă portul Saint-Nazaire.",
+                  "text": "Plaja Trébezy la Oceanul Atlantic în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.258159,
@@ -1814,7 +1814,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Virechat",
-                  "text": "Plage de Virechat este o porțiune de plajă de pe coasta orașului Saint-Nazaire.",
+                  "text": "Plaja Virechat în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.259997,
@@ -1832,7 +1832,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Belle Fontaine",
-                  "text": "Plage de Belle Fontaine este o plajă liniștită pe coasta orașului Saint-Nazaire.",
+                  "text": "Plaja Belle Fontaine („Fântâna Frumoasă”) în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.241849,
@@ -1841,7 +1841,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerlédé",
-                  "text": "Plage de Kerlédé este o porțiune de coastă situată lângă portul Saint-Nazaire.",
+                  "text": "Plaja Kerlédé în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.236316,
@@ -1850,7 +1850,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerloupiots",
-                  "text": "Plage de Kerloupiots este o mică zonă de plajă în Saint-Nazaire.",
+                  "text": "Plaja Kerloupiots în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.238583,
@@ -1868,7 +1868,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Porcé",
-                  "text": "Plage de Porcé este o porțiune de plajă naturală în Saint-Nazaire.",
+                  "text": "Plajă la gura Loarei lângă Saint-Nazaire.",
                   "category": "recreational",
                   "coords": [
                         -2.252115,
@@ -1877,7 +1877,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Bonne Anse",
-                  "text": "Plage de Bonne Anse este o plajă situată lângă zona portuară din Saint-Nazaire.",
+                  "text": "Plaja Bonne Anse („Bunul Golf”) în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.246988,
@@ -1886,7 +1886,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Port Charlotte",
-                  "text": "Port Charlotte este o zonă de coastă în regiunea Nantes-Saint-Nazaire.",
+                  "text": "Portul Charlotte în Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.262212,
@@ -1897,7 +1897,7 @@ export const franceEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Plage de Trébezy",
-                  "text": "Plage de Trébezy is a small beach located near the port of Saint-Nazaire.",
+                  "text": "Trébezy beach on the Atlantic in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.258159,
@@ -1906,7 +1906,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Virechat",
-                  "text": "Plage de Virechat is a beach section on the coast of Saint-Nazaire.",
+                  "text": "Virechat beach in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.259997,
@@ -1924,7 +1924,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Belle Fontaine",
-                  "text": "Plage de Belle Fontaine is a quiet beach on the Saint-Nazaire coast.",
+                  "text": "Belle Fontaine beach (beautiful fountain) in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.241849,
@@ -1933,7 +1933,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerlédé",
-                  "text": "Plage de Kerlédé is a coastal stretch located near the port of Saint-Nazaire.",
+                  "text": "Kerlédé beach in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.236316,
@@ -1942,7 +1942,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Kerloupiots",
-                  "text": "Plage de Kerloupiots is a small beach area in Saint-Nazaire.",
+                  "text": "Kerloupiots beach in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.238583,
@@ -1960,7 +1960,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Porcé",
-                  "text": "Plage de Porcé is a natural beach section in Saint-Nazaire.",
+                  "text": "Beach on the Loire estuary near Saint-Nazaire.",
                   "category": "recreational",
                   "coords": [
                         -2.252115,
@@ -1969,7 +1969,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de Bonne Anse",
-                  "text": "Plage de Bonne Anse is a beach located near the port area of Saint-Nazaire.",
+                  "text": "Bonne Anse beach (good cove) in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.246988,
@@ -1978,7 +1978,7 @@ export const franceEconomicV2: POI[] = [
             },
             {
                   "name": "Port Charlotte",
-                  "text": "Port Charlotte is a coastal area in the Nantes-Saint-Nazaire region.",
+                  "text": "Port Charlotte marina in Nantes Saint-Nazaire Port.",
                   "category": "recreational",
                   "coords": [
                         -2.262212,

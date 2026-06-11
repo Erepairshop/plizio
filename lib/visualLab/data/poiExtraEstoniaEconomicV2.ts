@@ -439,7 +439,7 @@ export const estoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Maardu järve supelrand",
-                  "text": "Strand am Maardu-See.",
+                  "text": "Badesandstrand am Maardu-See, nahe Maardu Logistics.",
                   "category": "recreational",
                   "coords": [
                         24.994477,
@@ -513,7 +513,7 @@ export const estoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Maardu järve supelrand",
-                  "text": "Strand a Maardu-tónál.",
+                  "text": "Fürdő strand a Maardu-tónál, Maardu Logistics közelében.",
                   "category": "recreational",
                   "coords": [
                         24.994477,
@@ -587,7 +587,7 @@ export const estoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Maardu järve supelrand",
-                  "text": "Plajă la lacul Maardu.",
+                  "text": "Plajă de înot la Lacul Maardu, lângă Maardu Logistics.",
                   "category": "recreational",
                   "coords": [
                         24.994477,
@@ -661,7 +661,7 @@ export const estoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Maardu järve supelrand",
-                  "text": "Beach at Lake Maardu.",
+                  "text": "Swimming beach at Maardu Lake, near Maardu Logistics.",
                   "category": "recreational",
                   "coords": [
                         24.994477,
@@ -826,7 +826,7 @@ export const estoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Tamula supelrand",
-                  "text": "Tamula-Strand in Võru.",
+                  "text": "Badesandstrand am Tamula-See nahe Voru Furniture.",
                   "category": "recreational",
                   "coords": [
                         26.989926,
@@ -837,7 +837,7 @@ export const estoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Tamula supelrand",
-                  "text": "Tamula strand Võruban.",
+                  "text": "Fürdő strand a Tamula-tónál, Voru Furniture közelében.",
                   "category": "recreational",
                   "coords": [
                         26.989926,
@@ -848,7 +848,7 @@ export const estoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Tamula supelrand",
-                  "text": "Plaja Tamula în Võru.",
+                  "text": "Plajă de înot pe Lacul Tamula lângă Voru Furniture.",
                   "category": "recreational",
                   "coords": [
                         26.989926,
@@ -859,7 +859,7 @@ export const estoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Tamula supelrand",
-                  "text": "Tamula beach in Võru.",
+                  "text": "Swimming beach on Lake Tamula near Voru Furniture.",
                   "category": "recreational",
                   "coords": [
                         26.989926,
@@ -961,7 +961,7 @@ export const estoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kunda supelrand",
-                  "text": "Strand bei Kunda.",
+                  "text": "Badesandstrand im Bereich Kunda Cement.",
                   "category": "recreational",
                   "coords": [
                         26.536635,
@@ -972,7 +972,7 @@ export const estoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kunda supelrand",
-                  "text": "Strand Kunda közelében.",
+                  "text": "Fürdő strand a Kunda Cement területén.",
                   "category": "recreational",
                   "coords": [
                         26.536635,
@@ -983,7 +983,7 @@ export const estoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kunda supelrand",
-                  "text": "Plajă lângă Kunda.",
+                  "text": "Plajă de înot în zona Kunda Cement.",
                   "category": "recreational",
                   "coords": [
                         26.536635,
@@ -994,7 +994,7 @@ export const estoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Kunda supelrand",
-                  "text": "Beach near Kunda.",
+                  "text": "Swimming beach at Kunda Cement area.",
                   "category": "recreational",
                   "coords": [
                         26.536635,
@@ -1051,7 +1051,7 @@ export const estoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Pärnu Veteranide pargi supelrand",
-                  "text": "Strand im Veteranenpark von Pärnu.",
+                  "text": "Badesandstrand im Veteranenpark im Bereich Parnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.55866,
@@ -1060,7 +1060,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Uuemetsa supelrand",
-                  "text": "Uuemetsa-Badestrand bei Pärnu.",
+                  "text": "Badesandstrand in Uuemetsa nahe Parnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.569668,
@@ -1069,7 +1069,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Nurmenuku supelrand",
-                  "text": "Der Nurmenuku-Badestrand befindet sich in Pärnu.",
+                  "text": "Badesandstrand in Nurmenuku nahe Parnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.579657,
@@ -1089,7 +1089,7 @@ export const estoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Pärnu Veteranide pargi supelrand",
-                  "text": "Strand a pärnui Veteránok parkjában.",
+                  "text": "Fürdő strand a Veteránok parkjában, Parnu Food területén.",
                   "category": "recreational",
                   "coords": [
                         24.55866,
@@ -1098,7 +1098,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Uuemetsa supelrand",
-                  "text": "Uuemetsa strand Pärnu közelében.",
+                  "text": "Fürdő strand Uuemetsában, Parnu Food közelében.",
                   "category": "recreational",
                   "coords": [
                         24.569668,
@@ -1107,7 +1107,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Nurmenuku supelrand",
-                  "text": "A Nurmenuku strand Pärnuban található.",
+                  "text": "Fürdő strand Nurmenukuban, Parnu Food közelében.",
                   "category": "recreational",
                   "coords": [
                         24.579657,
@@ -1127,7 +1127,7 @@ export const estoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Pärnu Veteranide pargi supelrand",
-                  "text": "Plajă în parcul Veteranilor din Pärnu.",
+                  "text": "Plajă de înot în Parcul Veteranilor, zona Parnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.55866,
@@ -1136,7 +1136,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Uuemetsa supelrand",
-                  "text": "Plaja Uuemetsa lângă Pärnu.",
+                  "text": "Plajă de înot în Uuemetsa lângă Parnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.569668,
@@ -1145,7 +1145,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Nurmenuku supelrand",
-                  "text": "Plaja Nurmenuku este situată în Pärnu.",
+                  "text": "Plajă de înot la Nurmenuku lângă Parnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.579657,
@@ -1165,7 +1165,7 @@ export const estoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Pärnu Veteranide pargi supelrand",
-                  "text": "Beach in the Veterans' park in Pärnu.",
+                  "text": "Swimming beach in Veterans' Park, Pärnu Food area.",
                   "category": "recreational",
                   "coords": [
                         24.55866,
@@ -1174,7 +1174,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Uuemetsa supelrand",
-                  "text": "Uuemetsa beach near Pärnu.",
+                  "text": "Swimming beach in Uuemetsa near Pärnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.569668,
@@ -1183,7 +1183,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Nurmenuku supelrand",
-                  "text": "Nurmenuku beach is located in Pärnu.",
+                  "text": "Swimming beach at Nurmenuku near Pärnu Food.",
                   "category": "recreational",
                   "coords": [
                         24.579657,
@@ -2203,7 +2203,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Randvere Peetri kirik",
-                  "text": "Die Kirche von Randvere ist ein historisches Kirchengebäude an der Küste.",
+                  "text": "Mittelalterliche Steinkirche mit barockem Holzhelmturm in Randvere bei Muuga.",
                   "category": "religious",
                   "coords": [
                         24.908277,
@@ -2259,7 +2259,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Randvere Peetri kirik",
-                  "text": "A randverei templom egy történelmi egyházi épület a tengerpart közelében.",
+                  "text": "Középkori kőtemplom barokk fa sisakos toronnyal Randvere-ben, Muuga közelében.",
                   "category": "religious",
                   "coords": [
                         24.908277,
@@ -2315,7 +2315,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Randvere Peetri kirik",
-                  "text": "Biserica din Randvere este un edificiu religios istoric situat în apropierea coastei.",
+                  "text": "Biserică medievală de piatră cu un turn de lemn baroc în Randvere, lângă Muuga.",
                   "category": "religious",
                   "coords": [
                         24.908277,
@@ -2371,7 +2371,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Randvere church",
-                  "text": "Randvere Church is a historical religious building located near the coast.",
+                  "text": "Medieval stone church with a baroque wooden spire in Randvere near Muuga.",
                   "category": "religious",
                   "coords": [
                         24.908277,
@@ -2437,7 +2437,7 @@ export const estoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Tõrvanina supelrand",
-                  "text": "Strand Tõrvanina bei Kärdla.",
+                  "text": "Badesandstrand am Kap Tõrvanina nahe Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.692235,
@@ -2446,7 +2446,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla politseirand",
-                  "text": "Strand in Kärdla.",
+                  "text": "Polizeistrand in Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.757682,
@@ -2455,7 +2455,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla paargu rand",
-                  "text": "Strand bei Kärdla.",
+                  "text": "Paargu-Strand in Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.744739,
@@ -2466,7 +2466,7 @@ export const estoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Tõrvanina supelrand",
-                  "text": "Tõrvanina strand Kärdla közelében.",
+                  "text": "Fürdő strand a Tõrvanina-foknál, Kardla Port közelében.",
                   "category": "recreational",
                   "coords": [
                         22.692235,
@@ -2475,7 +2475,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla politseirand",
-                  "text": "Strand Kärdlában.",
+                  "text": "Rendőr strand Kardla Portban.",
                   "category": "recreational",
                   "coords": [
                         22.757682,
@@ -2484,7 +2484,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla paargu rand",
-                  "text": "Strand Kärdlánál.",
+                  "text": "Paargu strand Kardla Portban.",
                   "category": "recreational",
                   "coords": [
                         22.744739,
@@ -2495,7 +2495,7 @@ export const estoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Tõrvanina supelrand",
-                  "text": "Plaja Tõrvanina lângă Kärdla.",
+                  "text": "Plajă de înot la Capul Tõrvanina lângă Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.692235,
@@ -2504,7 +2504,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla politseirand",
-                  "text": "Plajă în Kärdla.",
+                  "text": "Plajă de poliție în Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.757682,
@@ -2513,7 +2513,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla paargu rand",
-                  "text": "Plajă lângă Kärdla.",
+                  "text": "Plaja Paargu în Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.744739,
@@ -2524,7 +2524,7 @@ export const estoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Tõrvanina supelrand",
-                  "text": "Tõrvanina beach near Kärdla.",
+                  "text": "Swimming beach at Cape Tõrvanina near Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.692235,
@@ -2533,7 +2533,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla politseirand",
-                  "text": "Beach in Kärdla.",
+                  "text": "Police beach in Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.757682,
@@ -2542,7 +2542,7 @@ export const estoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Kärdla paargu rand",
-                  "text": "Beach near Kärdla.",
+                  "text": "Paargu beach in Kardla Port.",
                   "category": "recreational",
                   "coords": [
                         22.744739,
@@ -2644,7 +2644,7 @@ export const estoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Saialille supelrand",
-                  "text": "Saialille-Badestrand bei Sindi.",
+                  "text": "Saialille Badesandstrand in Sindi.",
                   "category": "recreational",
                   "coords": [
                         24.605203,
@@ -2655,7 +2655,7 @@ export const estoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Saialille supelrand",
-                  "text": "Saialille strand Sindi közelében.",
+                  "text": "Saialille fürdő strand Sindiben.",
                   "category": "recreational",
                   "coords": [
                         24.605203,
@@ -2666,7 +2666,7 @@ export const estoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Saialille supelrand",
-                  "text": "Plaja Saialille lângă Sindi.",
+                  "text": "Plajă de înot Saialille în Sindi.",
                   "category": "recreational",
                   "coords": [
                         24.605203,
@@ -2677,7 +2677,7 @@ export const estoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Saialille supelrand",
-                  "text": "Saialille beach near Sindi.",
+                  "text": "Saialille swimming beach in Sindi.",
                   "category": "recreational",
                   "coords": [
                         24.605203,

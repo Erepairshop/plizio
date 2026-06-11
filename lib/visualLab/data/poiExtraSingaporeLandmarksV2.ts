@@ -4,7 +4,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSingaporeLandmarksV2: POI[] = [
   {
-    id: "merlion-park-landmarks-v2",
+    id: "merlion-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marina Bay View",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die moderne Skyline des Marina-Bay-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        103.854048,
+                        1.284673
+                  ]
+            },
+            {
+                  "name": "Merlion Park",
+                  "text": "Ein bekannter Park am Wasser, berühmt für seine ikonische Statue eines halben Löwen und halben Fisches, die Wasser in die Bucht speit.",
+                  "category": "park",
+                  "coords": [
+                        103.854263,
+                        1.286266
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marina Bay View",
+                  "text": "Festői kilátópont, amely a Marina Bay területének modern sziluettjére néz.",
+                  "category": "natural",
+                  "coords": [
+                        103.854048,
+                        1.284673
+                  ]
+            },
+            {
+                  "name": "Merlion Park",
+                  "text": "Vízparti park, amely a tengerbe vizet köpő, ikonikus félig oroszlán, félig hal szobráról ismert.",
+                  "category": "park",
+                  "coords": [
+                        103.854263,
+                        1.286266
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina Bay View",
+                  "text": "Un punct de belvedere pitoresc cu vedere la orizontul modern al zonei Marina Bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.854048,
+                        1.284673
+                  ]
+            },
+            {
+                  "name": "Merlion Park",
+                  "text": "Un parc emblematic pe malul apei, cunoscut pentru faimoasa sa statuie jumătate leu, jumătate pește, care scuipă apă în golf.",
+                  "category": "park",
+                  "coords": [
+                        103.854263,
+                        1.286266
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marina Bay View",
+                  "text": "A scenic vantage point overlooking the modern skyline of the Marina Bay area.",
+                  "category": "natural",
+                  "coords": [
+                        103.854048,
+                        1.284673
+                  ]
+            },
+            {
+                  "name": "Merlion Park",
+                  "text": "A landmark waterside park known for its iconic half-lion, half-fish statue spouting water into the bay.",
+                  "category": "park",
+                  "coords": [
+                        103.854263,
+                        1.286266
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8545, 1.2869],
@@ -52,7 +133,268 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gardens-by-the-bay-landmarks-v2",
+    id: "gardens-by-the-bay-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Singapore Maritime Gallery",
+                  "text": "Durch interaktive Exponate und Schiffsmodelle veranschaulicht diese Galerie die Entwicklung des lokalen Hafens zu einem globalen Schifffahrtszentrum.",
+                  "category": "museum",
+                  "coords": [
+                        103.862987,
+                        1.270718
+                  ]
+            },
+            {
+                  "name": "Supertree Observatory",
+                  "text": "Diese Freiluftplattform an der Spitze der höchsten vertikalen Gartenstruktur bietet einen weiten Panoramablick auf die Skyline der Marina Bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.863934,
+                        1.281942
+                  ]
+            },
+            {
+                  "name": "Big Fish Aquarium",
+                  "text": "Große Glassichtbecken zeigen eine Vielzahl von riesigen Süßwasserfischarten, die langsam durch ihre aquatischen Lebensräume gleiten.",
+                  "category": "recreational",
+                  "coords": [
+                        103.866469,
+                        1.282841
+                  ]
+            },
+            {
+                  "name": "Secret Life of Trees",
+                  "text": "Dieser lehrreiche Naturpfad offenbart durch interaktive botanische Ausstellungen die verborgenen biologischen Prozesse der Baumkrone.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864944,
+                        1.282687
+                  ]
+            },
+            {
+                  "name": "Chinese Garden",
+                  "text": "Dieser ruhige Landschaftsgarten ist der nordchinesischen kaiserlichen Architektur nachempfunden und verfügt über Steinbrücken sowie eine traditionelle siebenstöckige Pagode.",
+                  "category": "park",
+                  "coords": [
+                        103.863555,
+                        1.283095
+                  ]
+            },
+            {
+                  "name": "Silver Garden",
+                  "text": "Diese schimmernde Freiluftausstellung präsentiert eine Reihe von blassblättrigen, silbernen Pflanzen, die speziell wegen ihrer metallischen Texturen ausgewählt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863553,
+                        1.284289
+                  ]
+            },
+            {
+                  "name": "Colonial Garden",
+                  "text": "Dieser Bereich erzählt die Geschichte der kommerziellen Botanik und stellt die Gewürzbäume und Nutzpflanzen in den Mittelpunkt, die den historischen Kolonialhandel der Region antrieben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862848,
+                        1.281367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Singapore Maritime Gallery",
+                  "text": "Az interaktív kiállításokon és hajómodelleken keresztül a galéria bemutatja a helyi kikötő globális hajózási csomóponttá válását.",
+                  "category": "museum",
+                  "coords": [
+                        103.862987,
+                        1.270718
+                  ]
+            },
+            {
+                  "name": "Supertree Observatory",
+                  "text": "A legmagasabb vertikális kertszerkezet lombkoronáján elhelyezkedő szabadtéri kilátó széles panorámát nyújt a Marina Bay sziluettjére.",
+                  "category": "natural",
+                  "coords": [
+                        103.863934,
+                        1.281942
+                  ]
+            },
+            {
+                  "name": "Big Fish Aquarium",
+                  "text": "A nagy üvegmedencék számos hatalmas édesvízi halfajt mutatnak be, amelyek lassan siklanak vízi élőhelyeiken.",
+                  "category": "recreational",
+                  "coords": [
+                        103.866469,
+                        1.282841
+                  ]
+            },
+            {
+                  "name": "Secret Life of Trees",
+                  "text": "Ez az oktató jellegű tanösvény interaktív botanikai bemutatókon keresztül tárja fel az erdei lombkorona rejtett biológiai folyamatait.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864944,
+                        1.282687
+                  ]
+            },
+            {
+                  "name": "Chinese Garden",
+                  "text": "Az észak-kínai császári építészet mintájára készült csendes, parkosított kert kőhidakkal és egy hagyományos hétemeletes pagodával büszkélkedhet.",
+                  "category": "park",
+                  "coords": [
+                        103.863555,
+                        1.283095
+                  ]
+            },
+            {
+                  "name": "Silver Garden",
+                  "text": "Ez a csillogó szabadtéri bemutató sápadt levelű, ezüstös növények sorát vonultatja fel, amelyeket kifejezetten fémes textúrájuk miatt választottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863553,
+                        1.284289
+                  ]
+            },
+            {
+                  "name": "Colonial Garden",
+                  "text": "A kereskedelmi botanika történetét elmesélő terület a régió történelmi gyarmati kereskedelmét fellendítő fűszerfákat és haszonnövényeket emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862848,
+                        1.281367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Singapore Maritime Gallery",
+                  "text": "Prin expoziții interactive și modele de nave, această galerie detaliază transformarea portului local într-un hub global de transport maritim.",
+                  "category": "museum",
+                  "coords": [
+                        103.862987,
+                        1.270718
+                  ]
+            },
+            {
+                  "name": "Supertree Observatory",
+                  "text": "Așezată în coronamentul celei mai înalte structuri de grădină verticală, această punte în aer liber oferă vederi panoramice ample ale orizontului Marina Bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.863934,
+                        1.281942
+                  ]
+            },
+            {
+                  "name": "Big Fish Aquarium",
+                  "text": "Bazinele mari de vizionare din sticlă prezintă o varietate de specii enorme de pești de apă dulce care alunecă încet prin habitatele lor acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        103.866469,
+                        1.282841
+                  ]
+            },
+            {
+                  "name": "Secret Life of Trees",
+                  "text": "Acest traseu natural educațional dezvăluie procesele biologice ascunse ale coronamentului pădurii prin afișaje botanice interactive.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864944,
+                        1.282687
+                  ]
+            },
+            {
+                  "name": "Chinese Garden",
+                  "text": "Modelată după arhitectura imperială nord-chineză, această grădină liniștită are poduri de piatră și o pagodă tradițională cu șapte etaje.",
+                  "category": "park",
+                  "coords": [
+                        103.863555,
+                        1.283095
+                  ]
+            },
+            {
+                  "name": "Silver Garden",
+                  "text": "Această expoziție în aer liber strălucitoare evidențiază o gamă de plante cu frunze palide, argintii, alese special pentru texturile lor metalice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863553,
+                        1.284289
+                  ]
+            },
+            {
+                  "name": "Colonial Garden",
+                  "text": "Spunând povestea botanicii comerciale, această zonă evidențiază arborii de condimente și culturile comerciale care au alimentat comerțul colonial istoric al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862848,
+                        1.281367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Singapore Maritime Gallery",
+                  "text": "Through interactive exhibits and ship models, this gallery details the transformation of the local harbor into a global shipping hub.",
+                  "category": "museum",
+                  "coords": [
+                        103.862987,
+                        1.270718
+                  ]
+            },
+            {
+                  "name": "Supertree Observatory",
+                  "text": "Perched at the canopy of the tallest vertical garden structure, this open-air deck provides sweeping panoramic views of the Marina Bay skyline.",
+                  "category": "natural",
+                  "coords": [
+                        103.863934,
+                        1.281942
+                  ]
+            },
+            {
+                  "name": "Big Fish Aquarium",
+                  "text": "Large glass viewing tanks showcase a variety of enormous freshwater fish species gliding slowly through aquatic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        103.866469,
+                        1.282841
+                  ]
+            },
+            {
+                  "name": "Secret Life of Trees",
+                  "text": "This educational nature trail reveals the hidden biological processes of the forest canopy through interactive botanical displays.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864944,
+                        1.282687
+                  ]
+            },
+            {
+                  "name": "Chinese Garden",
+                  "text": "Modeled after northern Chinese imperial architecture, this tranquil landscaped garden features stone bridges and a traditional seven-story pagoda.",
+                  "category": "park",
+                  "coords": [
+                        103.863555,
+                        1.283095
+                  ]
+            },
+            {
+                  "name": "Silver Garden",
+                  "text": "This shimmering outdoor display highlights an array of pale-leaved, silvery plants specifically chosen for their metallic textures.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863553,
+                        1.284289
+                  ]
+            },
+            {
+                  "name": "Colonial Garden",
+                  "text": "Telling the story of commercial botany, this area highlights the spice trees and cash crops that fueled the region's historic colonial trade.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862848,
+                        1.281367
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "SG-01",
     coords: [103.8636, 1.2816],
@@ -100,7 +442,160 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "marina-bay-sands-landmarks-v2",
+    id: "marina-bay-sands-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "SkyPark Observation Deck",
+                  "text": "Diese über drei Hoteltürmen freitragende Aussichtsplattform mit Holzdeck bietet ein atemberaubendes Panorama aus dem 57. Stock über der Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        103.861157,
+                        1.284918
+                  ]
+            },
+            {
+                  "name": "Marina Bay Laser show viewpoint",
+                  "text": "Dieser Ort am Wasser bietet einen Sitzplatz in der ersten Reihe, um die allabendlichen Brunnen- und Laserprojektionen zu beobachten, die sich im dunklen Wasser der Bucht spiegeln.",
+                  "category": "natural",
+                  "coords": [
+                        103.859099,
+                        1.284377
+                  ]
+            },
+            {
+                  "name": "Marina Bay Sands Expo and Convention Centre",
+                  "text": "Bekannt für seine massiven säulenfreien Ballsäle, beherbergt diese moderne Einrichtung globale Gipfeltreffen und große internationale Handelsausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.858526,
+                        1.282329
+                  ]
+            },
+            {
+                  "name": "IMBA Theatre",
+                  "text": "Diese moderne Galerie und Aufführungsstätte, die am 12. Februar 2026 eröffnet werden soll, verfügt über modernste Akustik und digitale visuelle Wände.",
+                  "category": "museum",
+                  "coords": [
+                        103.861912,
+                        1.283226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SkyPark Observation Deck",
+                  "text": "A három szállodatornyot összekötő, fapadlós kilátóterasz lélegzetelállító panorámát kínál a tengeröböl felett, 57 emelet magasságból.",
+                  "category": "natural",
+                  "coords": [
+                        103.861157,
+                        1.284918
+                  ]
+            },
+            {
+                  "name": "Marina Bay Laser show viewpoint",
+                  "text": "Ez a vízparti hely az első sorból nyújt kilátást az esti szökőkút- és lézerkivetítésekre, amelyek az öböl sötét vizén tükröződnek.",
+                  "category": "natural",
+                  "coords": [
+                        103.859099,
+                        1.284377
+                  ]
+            },
+            {
+                  "name": "Marina Bay Sands Expo and Convention Centre",
+                  "text": "A hatalmas oszlop nélküli báltermeiről ismert modern létesítmény globális csúcstalálkozóknak és nagyszabású nemzetközi kereskedelmi kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.858526,
+                        1.282329
+                  ]
+            },
+            {
+                  "name": "IMBA Theatre",
+                  "text": "A tervek szerint 2026. február 12-én nyíló kortárs galéria és előadótér csúcstechnológiás akusztikával és digitális vizuális falakkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        103.861912,
+                        1.283226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SkyPark Observation Deck",
+                  "text": "Consolidată peste trei turnuri de hotel, această platformă de vizionare cu punte din lemn oferă o panoramă uluitoare de la 57 de etaje deasupra golfului.",
+                  "category": "natural",
+                  "coords": [
+                        103.861157,
+                        1.284918
+                  ]
+            },
+            {
+                  "name": "Marina Bay Laser show viewpoint",
+                  "text": "Acest loc pe faleză oferă un loc în primul rând pentru proiecțiile nocturne de fântâni și lasere care se reflectă pe apele întunecate ale golfului.",
+                  "category": "natural",
+                  "coords": [
+                        103.859099,
+                        1.284377
+                  ]
+            },
+            {
+                  "name": "Marina Bay Sands Expo and Convention Centre",
+                  "text": "Cunoscută pentru sălile sale masive de bal fără stâlpi, această facilitate modernă găzduiește summituri globale și expoziții comerciale internaționale pe scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        103.858526,
+                        1.282329
+                  ]
+            },
+            {
+                  "name": "IMBA Theatre",
+                  "text": "Programată să se deschidă pe 12 februarie 2026, această galerie contemporană și spațiu de performanță prezintă acustică de ultimă generație și pereți vizuali digitali.",
+                  "category": "museum",
+                  "coords": [
+                        103.861912,
+                        1.283226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SkyPark Observation Deck",
+                  "text": "Cantilevered across three hotel towers, this wooden-decked viewing platform offers a breathtaking panorama from 57 stories above the bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.861157,
+                        1.284918
+                  ]
+            },
+            {
+                  "name": "Marina Bay Laser show viewpoint",
+                  "text": "This waterfront spot offers a front-row seat to the nightly fountain and laser projections reflecting off the dark waters of the bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.859099,
+                        1.284377
+                  ]
+            },
+            {
+                  "name": "Marina Bay Sands Expo and Convention Centre",
+                  "text": "Known for its massive pillarless ballrooms, this modern facility hosts global summits and large-scale international trade exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        103.858526,
+                        1.282329
+                  ]
+            },
+            {
+                  "name": "IMBA Theatre",
+                  "text": "Slated to open on February 12, 2026, this contemporary gallery and performance space features state-of-the-art acoustics and digital visual walls.",
+                  "category": "museum",
+                  "coords": [
+                        103.861912,
+                        1.283226
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "SG-01",
     coords: [103.8600, 1.2839],
@@ -148,7 +643,52 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "singapore-flyer-landmarks-v2",
+    id: "singapore-flyer-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Benjamin Sheares Bridge",
+                  "text": "Die im September 1981 eröffnete Benjamin Sheares Bridge ist ein aufgeständerter Viadukt und Teil des East Coast Parkway.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863956,
+                        1.291856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Benjamin Sheares Bridge",
+                  "text": "Az 1981 szeptemberében megnyílt Benjamin Sheares híd egy magasított viadukt, amely az East Coast Parkway részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863956,
+                        1.291856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Benjamin Sheares Bridge",
+                  "text": "Deschis în septembrie 1981, Podul Benjamin Sheares este un viaduct suspendat care face parte din East Coast Parkway.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863956,
+                        1.291856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Benjamin Sheares Bridge",
+                  "text": "Opened in September 1981, the Benjamin Sheares Bridge is an elevated viaduct that forms part of the East Coast Parkway.",
+                  "category": "landmark",
+                  "coords": [
+                        103.863956,
+                        1.291856
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8631, 1.2893],
@@ -196,7 +736,88 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "helix-bridge-landmarks-v2",
+    id: "helix-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayfront Bridge",
+                  "text": "Diese Brücke bietet eine Straßenverbindung über das Gebiet der Marina Bay und ergänzt die nahegelegenen Fußgängerstrukturen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860849,
+                        1.287285
+                  ]
+            },
+            {
+                  "name": "Youth Olympic Park",
+                  "text": "Dieser Park in der Nähe der Marina Bay wurde zum Gedenken an die Olympischen Jugend-Sommerspiele 2010 angelegt und bietet einen Kunstspaziergang sowie angelegte Gärten.",
+                  "category": "park",
+                  "coords": [
+                        103.860505,
+                        1.289108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayfront Bridge",
+                  "text": "Ez a híd járműkapcsolatot biztosít a Marina Bay területén, kiegészítve a közeli gyalogos szerkezeteket.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860849,
+                        1.287285
+                  ]
+            },
+            {
+                  "name": "Youth Olympic Park",
+                  "text": "A 2010-es nyári ifjúsági olimpiai játékok emlékére épült Marina Bay melletti park művészeti sétánnyal és parkosított kertekkel várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        103.860505,
+                        1.289108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayfront Bridge",
+                  "text": "Acest pod oferă o legătură rutieră peste zona Marina Bay, completând structurile pietonale din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860849,
+                        1.287285
+                  ]
+            },
+            {
+                  "name": "Youth Olympic Park",
+                  "text": "Dezvoltat pentru a comemora Jocurile Olimpice de vară pentru tineret din 2010, acest parc din apropiere de Marina Bay are o promenadă de artă și grădini amenajate.",
+                  "category": "park",
+                  "coords": [
+                        103.860505,
+                        1.289108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayfront Bridge",
+                  "text": "This bridge provides a vehicular link across the Marina Bay area, complementing the nearby pedestrian structures.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860849,
+                        1.287285
+                  ]
+            },
+            {
+                  "name": "Youth Olympic Park",
+                  "text": "Developed to commemorate the 2010 Summer Youth Olympics, this park near Marina Bay features an art walk and landscaped gardens.",
+                  "category": "park",
+                  "coords": [
+                        103.860505,
+                        1.289108
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8598, 1.2875],
@@ -244,7 +865,52 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sentosa-island-landmarks-v2",
+    id: "sentosa-island-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Serapong",
+                  "text": "Dieser bewaldete Gipfel erhebt sich steil und bietet einen herrlichen, erhöhten Blick über die Insel und die umliegenden Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        103.833133,
+                        1.250095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Serapong",
+                  "text": "Ez az erdős hegycsúcs meredeken emelkedik, és lenyűgöző kilátást nyújt a szigetre és a környező vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        103.833133,
+                        1.250095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Serapong",
+                  "text": "Acest vârf împădurit se înalță abrupt, oferind vederi panoramice la înălțime asupra insulei și a apelor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        103.833133,
+                        1.250095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Serapong",
+                  "text": "This forested peak rises steeply, offering commanding elevated views over the island and surrounding waters.",
+                  "category": "natural",
+                  "coords": [
+                        103.833133,
+                        1.250095
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "SG-04",
     coords: [103.8300, 1.2494],
@@ -292,7 +958,736 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-museum-of-singapore-landmarks-v2",
+    id: "national-museum-of-singapore-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Canning Tree Tunnel",
+                  "text": "Dieser beliebte Fotospot bietet eine malerische unterirdische Treppe, die von den kaskadierenden Wurzeln alter Bäume umhüllt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846395,
+                        1.297257
+                  ]
+            },
+            {
+                  "name": "Jews of Singapore Museum",
+                  "text": "Diese kulturelle Einrichtung zeichnet die Geschichte, das Erbe und die Beiträge der lokalen jüdischen Gemeinde nach.",
+                  "category": "museum",
+                  "coords": [
+                        103.850486,
+                        1.298144
+                  ]
+            },
+            {
+                  "name": "Objectifs - Centre for Photography and Film",
+                  "text": "Dieser unabhängige Raum für visuelle Kunst widmet sich ganz der Förderung von Fotografie und Film.",
+                  "category": "museum",
+                  "coords": [
+                        103.852019,
+                        1.299803
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Good Shepherd",
+                  "text": "Diese 1847 geweihte römisch-katholische Kirche ist die älteste in Singapur und besticht durch klassische Renaissance-Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        103.851222,
+                        1.29605
+                  ]
+            },
+            {
+                  "name": "National Museum of Singapore",
+                  "text": "Diese großartige Institution aus dem Jahr 1887 ist das älteste Museum des Landes und konzentriert sich auf dessen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        103.848422,
+                        1.296563
+                  ]
+            },
+            {
+                  "name": "The Substation",
+                  "text": "In einem 1926 erbauten ehemaligen Umspannwerk untergebracht, ist dies ein wegweisendes unabhängiges Zentrum für zeitgenössische Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849175,
+                        1.294484
+                  ]
+            },
+            {
+                  "name": "Visual Arts Centre",
+                  "text": "Dieser Ausstellungsraum liegt in einer üppigen Parklandschaft und bietet regelmäßig Kunstausstellungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        103.846116,
+                        1.298483
+                  ]
+            },
+            {
+                  "name": "Orchard Road Presbyterian Church",
+                  "text": "Das 1878 errichtete Kirchengebäude dieser schottischen Gemeinde ist eines der ältesten in der berühmten Einkaufsstraße.",
+                  "category": "religious",
+                  "coords": [
+                        103.847444,
+                        1.297796
+                  ]
+            },
+            {
+                  "name": "Selegie Arts Centre",
+                  "text": "Dieser Raum ist in einem markanten, schmalen, mehrstöckigen Vorkriegsgebäude untergebracht und beherbergt die Photographic Society of Singapore.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849832,
+                        1.300067
+                  ]
+            },
+            {
+                  "name": "Prinsep St. Presbyterian Church",
+                  "text": "Bekannt für ihr markantes rotes Mauerwerk und den romanischen Stil, hat diese Kirche eine bedeutende Geschichte für die lokalen Straits-Chinesen.",
+                  "category": "religious",
+                  "coords": [
+                        103.851097,
+                        1.30173
+                  ]
+            },
+            {
+                  "name": "Singapore Life Church",
+                  "text": "Diese 1883 gegründete presbyterianische Gemeinde blickt auf eine lange Geschichte der Seelsorge für die lokale Teochew-sprechende Bevölkerung zurück.",
+                  "category": "religious",
+                  "coords": [
+                        103.852152,
+                        1.302242
+                  ]
+            },
+            {
+                  "name": "Mount Emily Park",
+                  "text": "Dieser ruhige Park am Hang bietet mit seinen alten Bäumen einen friedlichen grünen Rückzugsort, nur einen kurzen Spaziergang vom geschäftigen Stadtzentrum entfernt.",
+                  "category": "park",
+                  "coords": [
+                        103.847627,
+                        1.304595
+                  ]
+            },
+            {
+                  "name": "Church Of Christ Of Malaya",
+                  "text": "Diese lokale Gemeinde dient der christlichen Gemeinschaft in der Umgebung mit regelmäßigen Gottesdiensten und Gemeinschaftsveranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        103.8486,
+                        1.301932
+                  ]
+            },
+            {
+                  "name": "Sri Temasek",
+                  "text": "Dieses denkmalgeschützte Haus, das ursprünglich als Residenz des Kolonialsekretärs erbaut wurde, dient heute als offizieller Wohnsitz des Premierministers.",
+                  "category": "castle",
+                  "coords": [
+                        103.843037,
+                        1.303925
+                  ]
+            },
+            {
+                  "name": "Villa",
+                  "text": "Dieses stattliche Wohnanwesen zeichnet sich durch klassische Architektur inmitten eines üppigen, tropischen Landschaftsparks aus.",
+                  "category": "castle",
+                  "coords": [
+                        103.842021,
+                        1.303793
+                  ]
+            },
+            {
+                  "name": "Istana",
+                  "text": "Dieses 1869 im neopalladianischen anglo-indischen Stil fertiggestellte palastartige Anwesen ist der offizielle Sitz des Präsidenten von Singapur.",
+                  "category": "castle",
+                  "coords": [
+                        103.843001,
+                        1.307115
+                  ]
+            },
+            {
+                  "name": "Khalsa Dharmak Sabha",
+                  "text": "Dieser Sikh-Gurdwara bietet spirituelle Führung und eine Gemeinschaftsküche (Langar) für die lokale Punjabi-Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849611,
+                        1.302593
+                  ]
+            },
+            {
+                  "name": "Sian Teck Tng Temple",
+                  "text": "Dieser buddhistische Nachbarschaftstempel besticht durch verzierte Dachschnitzereien und bietet einen ruhigen Ort für Meditation und Gesang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840232,
+                        1.303222
+                  ]
+            },
+            {
+                  "name": "The Free Christian Church of Singapore",
+                  "text": "Als unabhängige christliche Gemeinde bietet diese Kirche ein einladendes Umfeld für zeitgemäße Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846836,
+                        1.306944
+                  ]
+            },
+            {
+                  "name": "Tekka Wet Market",
+                  "text": "Dieser lebendige, mehrstöckige Marktkomplex ist ein geschäftiger Knotenpunkt für frische Produkte, Gewürze und authentisches lokales Streetfood.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850483,
+                        1.306521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Canning Tree Tunnel",
+                  "text": "Ez a népszerű fotózási helyszín egy festői földalatti lépcsővel rendelkezik, amelyet öreg fák lezúduló gyökerei vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846395,
+                        1.297257
+                  ]
+            },
+            {
+                  "name": "Jews of Singapore Museum",
+                  "text": "Ez a kulturális intézmény a helyi zsidó közösség történelmét, örökségét és hozzájárulását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.850486,
+                        1.298144
+                  ]
+            },
+            {
+                  "name": "Objectifs - Centre for Photography and Film",
+                  "text": "Ez a független vizuális művészeti tér teljes egészében a fotózás és a filmkészítés ápolásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        103.852019,
+                        1.299803
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Good Shepherd",
+                  "text": "Az 1847-ben felszentelt épület Szingapúr legrégebbi római katolikus temploma, amely klasszikus reneszánsz építészeti stílusú.",
+                  "category": "religious",
+                  "coords": [
+                        103.851222,
+                        1.29605
+                  ]
+            },
+            {
+                  "name": "National Museum of Singapore",
+                  "text": "Az 1887-ig visszanyúló nagyszerű intézmény az ország legrégebbi múzeuma, amely történelmére és kultúrájára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        103.848422,
+                        1.296563
+                  ]
+            },
+            {
+                  "name": "The Substation",
+                  "text": "Egy 1926-ban épült egykori áramelosztó állomáson kapott helyet ez az úttörő független kortárs művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849175,
+                        1.294484
+                  ]
+            },
+            {
+                  "name": "Visual Arts Centre",
+                  "text": "A buja parki környezetben található kiállítótér rendszeres képzőművészeti bemutatóknak és workshopoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.846116,
+                        1.298483
+                  ]
+            },
+            {
+                  "name": "Orchard Road Presbyterian Church",
+                  "text": "Az 1878-ban alapított skót gyülekezet templomépülete az egyik legrégebbi a híres bevásárlóutcában.",
+                  "category": "religious",
+                  "coords": [
+                        103.847444,
+                        1.297796
+                  ]
+            },
+            {
+                  "name": "Selegie Arts Centre",
+                  "text": "Ez a jellegzetes, keskeny, többszintes háború előtti épületben található hely ad otthont a Szingapúri Fotográfiai Társaságnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849832,
+                        1.300067
+                  ]
+            },
+            {
+                  "name": "Prinsep St. Presbyterian Church",
+                  "text": "A feltűnő vörös téglafaláról és román stílusáról ismert templom jelentős történelemmel bír a helyi szorosi kínaiak számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.851097,
+                        1.30173
+                  ]
+            },
+            {
+                  "name": "Singapore Life Church",
+                  "text": "Az 1883-ban alapított presbiteriánus gyülekezet hosszú múltra tekint vissza a helyi teochew nyelvű közösség szolgálatában.",
+                  "category": "religious",
+                  "coords": [
+                        103.852152,
+                        1.302242
+                  ]
+            },
+            {
+                  "name": "Mount Emily Park",
+                  "text": "Ez a csendes domboldali park békés, fás zöld menedéket kínál mindössze egy rövid sétára a nyüzsgő városközponttól.",
+                  "category": "park",
+                  "coords": [
+                        103.847627,
+                        1.304595
+                  ]
+            },
+            {
+                  "name": "Church Of Christ Of Malaya",
+                  "text": "Ez a helyi gyülekezet a környék keresztény közösségét szolgálja rendszeres istentiszteletekkel és közösségi eseményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        103.8486,
+                        1.301932
+                  ]
+            },
+            {
+                  "name": "Sri Temasek",
+                  "text": "Ezt a műemlékvédelem alatt álló házat eredetileg a gyarmati titkár rezidenciájaként építették, ma pedig a miniszterelnök hivatalos rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        103.843037,
+                        1.303925
+                  ]
+            },
+            {
+                  "name": "Villa",
+                  "text": "Ez a fenséges lakóingatlan klasszikus építészeti stílusával buja, trópusi parkosított területen fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        103.842021,
+                        1.303793
+                  ]
+            },
+            {
+                  "name": "Istana",
+                  "text": "Az 1869-ben neo-palladiánus angol-indiai stílusban épült palotaegyüttes Szingapúr elnökének hivatalos rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        103.843001,
+                        1.307115
+                  ]
+            },
+            {
+                  "name": "Khalsa Dharmak Sabha",
+                  "text": "Ez a szikh gurdwara spirituális útmutatást és közösségi konyhát (langar) biztosít a helyi pandzsábi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849611,
+                        1.302593
+                  ]
+            },
+            {
+                  "name": "Sian Teck Tng Temple",
+                  "text": "Ez a környékbeli buddhista templom díszes tetőfaragásokkal rendelkezik, és csendes teret kínál a meditációhoz és a kántáláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840232,
+                        1.303222
+                  ]
+            },
+            {
+                  "name": "The Free Christian Church of Singapore",
+                  "text": "Független keresztény gyülekezetként ez a templom barátságos környezetet biztosít a kortárs istentiszteletek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846836,
+                        1.306944
+                  ]
+            },
+            {
+                  "name": "Tekka Wet Market",
+                  "text": "Ez az élénk, többszintes piackomplexum a friss termékek, fűszerek és az autentikus helyi utcai ételek nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850483,
+                        1.306521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Canning Tree Tunnel",
+                  "text": "Acest loc popular pentru fotografii prezintă o scară subterană pitorească învăluită de rădăcinile în cascadă ale copacilor bătrâni.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846395,
+                        1.297257
+                  ]
+            },
+            {
+                  "name": "Jews of Singapore Museum",
+                  "text": "Această instituție culturală urmărește istoria, moștenirea și contribuțiile comunității evreiești locale.",
+                  "category": "museum",
+                  "coords": [
+                        103.850486,
+                        1.298144
+                  ]
+            },
+            {
+                  "name": "Objectifs - Centre for Photography and Film",
+                  "text": "Acest spațiu independent de arte vizuale este dedicat în întregime cultivării fotografiei și cinematografiei.",
+                  "category": "museum",
+                  "coords": [
+                        103.852019,
+                        1.299803
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Good Shepherd",
+                  "text": "Consfințită în 1847, aceasta este cea mai veche biserică romano-catolică din Singapore și prezintă o arhitectură renascentistă clasică.",
+                  "category": "religious",
+                  "coords": [
+                        103.851222,
+                        1.29605
+                  ]
+            },
+            {
+                  "name": "National Museum of Singapore",
+                  "text": "Datând din 1887, această grandioasă instituție este cel mai vechi muzeu al națiunii, axat pe istoria și cultura sa.",
+                  "category": "museum",
+                  "coords": [
+                        103.848422,
+                        1.296563
+                  ]
+            },
+            {
+                  "name": "The Substation",
+                  "text": "Găzduit într-o fostă stație electrică construită în 1926, acesta este un centru independent de pionierat pentru artele contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849175,
+                        1.294484
+                  ]
+            },
+            {
+                  "name": "Visual Arts Centre",
+                  "text": "Situat într-un mediu de parc luxuriant, acest spațiu expozițional găzduiește regulat expoziții de artă plastică și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        103.846116,
+                        1.298483
+                  ]
+            },
+            {
+                  "name": "Orchard Road Presbyterian Church",
+                  "text": "Înființată în 1878, clădirea acestei biserici cu congregație scoțiană este una dintre cele mai vechi de pe faimoasa stradă comercială.",
+                  "category": "religious",
+                  "coords": [
+                        103.847444,
+                        1.297796
+                  ]
+            },
+            {
+                  "name": "Selegie Arts Centre",
+                  "text": "Găzduit într-o clădire antebelică distinctiv de îngustă, cu mai multe etaje, acest spațiu găzduiește Societatea Fotografică din Singapore.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849832,
+                        1.300067
+                  ]
+            },
+            {
+                  "name": "Prinsep St. Presbyterian Church",
+                  "text": "Cunoscută pentru zidăria sa roșie izbitoare și stilul romanic, această biserică are o istorie semnificativă pentru chinezii din strâmtori.",
+                  "category": "religious",
+                  "coords": [
+                        103.851097,
+                        1.30173
+                  ]
+            },
+            {
+                  "name": "Singapore Life Church",
+                  "text": "Fondată în 1883, această congregație presbiteriană are o lungă istorie de slujire a comunității locale vorbitoare de dialect Teochew.",
+                  "category": "religious",
+                  "coords": [
+                        103.852152,
+                        1.302242
+                  ]
+            },
+            {
+                  "name": "Mount Emily Park",
+                  "text": "Acest parc liniștit pe un deal oferă un refugiu verde și liniștit, cu copaci maturi, la doar o scurtă plimbare de centrul plin de viață al orașului.",
+                  "category": "park",
+                  "coords": [
+                        103.847627,
+                        1.304595
+                  ]
+            },
+            {
+                  "name": "Church Of Christ Of Malaya",
+                  "text": "Această congregație locală servește comunitatea creștină din zonă cu slujbe regulate și evenimente de părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        103.8486,
+                        1.301932
+                  ]
+            },
+            {
+                  "name": "Sri Temasek",
+                  "text": "Această casă de patrimoniu desemnată, construită inițial ca reședință a secretarului colonial, servește acum ca reședință oficială a prim-ministrului.",
+                  "category": "castle",
+                  "coords": [
+                        103.843037,
+                        1.303925
+                  ]
+            },
+            {
+                  "name": "Villa",
+                  "text": "Această proprietate rezidențială impunătoare are o arhitectură clasică amplasată în mijlocul unor terenuri tropicale luxuriante amenajate.",
+                  "category": "castle",
+                  "coords": [
+                        103.842021,
+                        1.303793
+                  ]
+            },
+            {
+                  "name": "Istana",
+                  "text": "Finalizată în 1869 într-un stil anglo-indian neo-palladian, această moșie somptuoasă este reședința oficială a președintelui din Singapore.",
+                  "category": "castle",
+                  "coords": [
+                        103.843001,
+                        1.307115
+                  ]
+            },
+            {
+                  "name": "Khalsa Dharmak Sabha",
+                  "text": "Această gurdwara sikh oferă îndrumare spirituală și o bucătărie comunitară (langar) pentru comunitatea locală punjabi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849611,
+                        1.302593
+                  ]
+            },
+            {
+                  "name": "Sian Teck Tng Temple",
+                  "text": "Acest templu budist de cartier prezintă sculpturi ornamentate pe acoperiș și oferă un spațiu liniștit pentru meditație și incantații.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840232,
+                        1.303222
+                  ]
+            },
+            {
+                  "name": "The Free Christian Church of Singapore",
+                  "text": "Fiind o congregație creștină independentă, această biserică oferă un mediu primitor pentru slujbele de închinare contemporane.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846836,
+                        1.306944
+                  ]
+            },
+            {
+                  "name": "Tekka Wet Market",
+                  "text": "Acest complex de piață cu mai multe etaje este un centru plin de viață pentru produse proaspete, condimente și mâncare stradală locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850483,
+                        1.306521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Canning Tree Tunnel",
+                  "text": "This popular photographic spot features a scenic underground staircase enveloped by the cascading roots of mature trees.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846395,
+                        1.297257
+                  ]
+            },
+            {
+                  "name": "Jews of Singapore Museum",
+                  "text": "This cultural institution traces the history, heritage, and contributions of the local Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        103.850486,
+                        1.298144
+                  ]
+            },
+            {
+                  "name": "Objectifs - Centre for Photography and Film",
+                  "text": "This independent visual arts space is dedicated entirely to the cultivation of photography and filmmaking.",
+                  "category": "museum",
+                  "coords": [
+                        103.852019,
+                        1.299803
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Good Shepherd",
+                  "text": "Consecrated in 1847, this is the oldest Roman Catholic church in Singapore and features classical Renaissance architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.851222,
+                        1.29605
+                  ]
+            },
+            {
+                  "name": "National Museum of Singapore",
+                  "text": "Dating back to 1887, this grand institution is the nation's oldest museum, focusing on its history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        103.848422,
+                        1.296563
+                  ]
+            },
+            {
+                  "name": "The Substation",
+                  "text": "Housed in a former power substation built in 1926, this is a pioneering independent contemporary arts centre.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849175,
+                        1.294484
+                  ]
+            },
+            {
+                  "name": "Visual Arts Centre",
+                  "text": "Set within a lush park environment, this exhibition space hosts regular fine art displays and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        103.846116,
+                        1.298483
+                  ]
+            },
+            {
+                  "name": "Orchard Road Presbyterian Church",
+                  "text": "Established in 1878, this Scottish congregation's church building is one of the oldest on the famous shopping street.",
+                  "category": "religious",
+                  "coords": [
+                        103.847444,
+                        1.297796
+                  ]
+            },
+            {
+                  "name": "Selegie Arts Centre",
+                  "text": "Housed in a distinctively narrow, multi-storey pre-war building, this space hosts the Photographic Society of Singapore.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849832,
+                        1.300067
+                  ]
+            },
+            {
+                  "name": "Prinsep St. Presbyterian Church",
+                  "text": "Known for its striking red brickwork and Romanesque style, this church holds significant history for the local Straits Chinese.",
+                  "category": "religious",
+                  "coords": [
+                        103.851097,
+                        1.30173
+                  ]
+            },
+            {
+                  "name": "Singapore Life Church",
+                  "text": "Founded in 1883, this Presbyterian congregation has a long history of ministering to the local Teochew-speaking community.",
+                  "category": "religious",
+                  "coords": [
+                        103.852152,
+                        1.302242
+                  ]
+            },
+            {
+                  "name": "Mount Emily Park",
+                  "text": "This tranquil hillside park offers a quiet green retreat with mature trees just a short walk from the bustling city centre.",
+                  "category": "park",
+                  "coords": [
+                        103.847627,
+                        1.304595
+                  ]
+            },
+            {
+                  "name": "Church Of Christ Of Malaya",
+                  "text": "This local congregation serves the Christian community in the area with regular worship and fellowship events.",
+                  "category": "religious",
+                  "coords": [
+                        103.8486,
+                        1.301932
+                  ]
+            },
+            {
+                  "name": "Sri Temasek",
+                  "text": "This designated heritage house, originally built as the Colonial Secretary's residence, now serves as the official home of the Prime Minister.",
+                  "category": "castle",
+                  "coords": [
+                        103.843037,
+                        1.303925
+                  ]
+            },
+            {
+                  "name": "Villa",
+                  "text": "This stately residential property features classical architecture set amidst lush, tropical landscaped grounds.",
+                  "category": "castle",
+                  "coords": [
+                        103.842021,
+                        1.303793
+                  ]
+            },
+            {
+                  "name": "Istana",
+                  "text": "Completed in 1869 in a neo-Palladian Anglo-Indian style, this palatial estate is the official residence of the President of Singapore.",
+                  "category": "castle",
+                  "coords": [
+                        103.843001,
+                        1.307115
+                  ]
+            },
+            {
+                  "name": "Khalsa Dharmak Sabha",
+                  "text": "This Sikh gurdwara provides spiritual guidance and a community kitchen (langar) for the local Punjabi community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849611,
+                        1.302593
+                  ]
+            },
+            {
+                  "name": "Sian Teck Tng Temple",
+                  "text": "This neighborhood Buddhist temple features ornate roof carvings and offers a quiet space for meditation and chanting.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840232,
+                        1.303222
+                  ]
+            },
+            {
+                  "name": "The Free Christian Church of Singapore",
+                  "text": "As an independent Christian congregation, this church provides a welcoming environment for contemporary worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846836,
+                        1.306944
+                  ]
+            },
+            {
+                  "name": "Tekka Wet Market",
+                  "text": "This vibrant multi-storey market complex is a bustling hub for fresh produce, spices, and authentic local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850483,
+                        1.306521
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "SG-01",
     coords: [103.8485, 1.2966],
@@ -340,7 +1735,340 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "clarke-quay-landmarks-v2",
+    id: "clarke-quay-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "72-13",
+                  "text": "Dieses Aufführungstheater beherbergt verschiedene kreative Bühnenproduktionen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840125,
+                        1.291386
+                  ]
+            },
+            {
+                  "name": "River House",
+                  "text": "Dieses historische Herrenhaus steht elegant in der Nähe des belebten Flussufers.",
+                  "category": "historical",
+                  "coords": [
+                        103.844953,
+                        1.289956
+                  ]
+            },
+            {
+                  "name": "Civil Defense Heritage Gallery",
+                  "text": "Dieses Museum zeigt historische Artefakte im Zusammenhang mit den Zivilschutzbemühungen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        103.849142,
+                        1.292073
+                  ]
+            },
+            {
+                  "name": "Clemenceau Bridge",
+                  "text": "Diese bemerkenswerte Brücke stellt eine wichtige architektonische Verbindung über die städtische Wasserstraße dar.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842443,
+                        1.290762
+                  ]
+            },
+            {
+                  "name": "Alkaff Bridge",
+                  "text": "Diese für ihr Design bekannte, bemerkenswerte Fußgängerbrücke überspannt den Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        103.839943,
+                        1.290117
+                  ]
+            },
+            {
+                  "name": "Hong San See Temple",
+                  "text": "Diese bemerkenswerte, 1913 gegründete Kultstätte besticht durch ihre detailreiche historische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        103.840849,
+                        1.29331
+                  ]
+            },
+            {
+                  "name": "Ord Bridge",
+                  "text": "Diese bemerkenswerte Brücke dient als struktureller Übergang über den belebten Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844029,
+                        1.290926
+                  ]
+            },
+            {
+                  "name": "The Lighthouse",
+                  "text": "Diese bemerkenswerte Leuchtturmstruktur führte einst Schiffe an der Küste entlang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847766,
+                        1.292107
+                  ]
+            },
+            {
+                  "name": "Coleman Bridge",
+                  "text": "Diese bemerkenswerte Straßenbrücke verbindet verschiedene Stadtteile über den fließenden Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848009,
+                        1.289767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "72-13",
+                  "text": "Ez az előadószínház különféle kreatív színpadi produkcióknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840125,
+                        1.291386
+                  ]
+            },
+            {
+                  "name": "River House",
+                  "text": "Ez a történelmi udvarház elegánsan áll a nyüzsgő folyópart közelében.",
+                  "category": "historical",
+                  "coords": [
+                        103.844953,
+                        1.289956
+                  ]
+            },
+            {
+                  "name": "Civil Defense Heritage Gallery",
+                  "text": "Ez a múzeum a régió polgári védelmi erőfeszítéseivel kapcsolatos történelmi tárgyakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.849142,
+                        1.292073
+                  ]
+            },
+            {
+                  "name": "Clemenceau Bridge",
+                  "text": "Ez a figyelemre méltó híd létfontosságú építészeti kapcsolatot biztosít a városi vízi úton.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842443,
+                        1.290762
+                  ]
+            },
+            {
+                  "name": "Alkaff Bridge",
+                  "text": "A dizájnjáról elismert, figyelemre méltó gyalogoshíd ível át a folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        103.839943,
+                        1.290117
+                  ]
+            },
+            {
+                  "name": "Hong San See Temple",
+                  "text": "Az 1913-ban alapított, figyelemre méltó istentiszteleti hely bonyolult történelmi építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        103.840849,
+                        1.29331
+                  ]
+            },
+            {
+                  "name": "Ord Bridge",
+                  "text": "Ez a figyelemre méltó híd szerkezeti átkelőként szolgál a forgalmas folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844029,
+                        1.290926
+                  ]
+            },
+            {
+                  "name": "The Lighthouse",
+                  "text": "Ez a nevezetes világítótorony-építmény egykor hajókat vezetett a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847766,
+                        1.292107
+                  ]
+            },
+            {
+                  "name": "Coleman Bridge",
+                  "text": "Ez a figyelemre méltó közúti híd a folyó túloldalán fekvő különböző kerületeket köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848009,
+                        1.289767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "72-13",
+                  "text": "Acest teatru de spectacole găzduiește diverse producții și evenimente creative pe scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840125,
+                        1.291386
+                  ]
+            },
+            {
+                  "name": "River House",
+                  "text": "Acest conac istoric stă elegant aproape de malul plin de viață al râului.",
+                  "category": "historical",
+                  "coords": [
+                        103.844953,
+                        1.289956
+                  ]
+            },
+            {
+                  "name": "Civil Defense Heritage Gallery",
+                  "text": "Acest muzeu prezintă artefacte istorice legate de eforturile de apărare civilă ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        103.849142,
+                        1.292073
+                  ]
+            },
+            {
+                  "name": "Clemenceau Bridge",
+                  "text": "Această punte notabilă oferă o legătură arhitecturală vitală peste calea navigabilă urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842443,
+                        1.290762
+                  ]
+            },
+            {
+                  "name": "Alkaff Bridge",
+                  "text": "Recunoscut pentru designul său, acest pod pietonal notabil traversează râul.",
+                  "category": "landmark",
+                  "coords": [
+                        103.839943,
+                        1.290117
+                  ]
+            },
+            {
+                  "name": "Hong San See Temple",
+                  "text": "Înființat în 1913, acest lăcaș de cult notabil prezintă o arhitectură istorică complicată.",
+                  "category": "religious",
+                  "coords": [
+                        103.840849,
+                        1.29331
+                  ]
+            },
+            {
+                  "name": "Ord Bridge",
+                  "text": "Această punte notabilă servește ca o trecere structurală peste râul aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844029,
+                        1.290926
+                  ]
+            },
+            {
+                  "name": "The Lighthouse",
+                  "text": "Această structură notabilă de far a ghidat odată navele de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847766,
+                        1.292107
+                  ]
+            },
+            {
+                  "name": "Coleman Bridge",
+                  "text": "Acest pod rutier notabil leagă diferite cartiere peste râul curgător.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848009,
+                        1.289767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "72-13",
+                  "text": "This performance theatre hosts various creative stage productions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840125,
+                        1.291386
+                  ]
+            },
+            {
+                  "name": "River House",
+                  "text": "This historic manor house stands elegantly close to the bustling riverfront.",
+                  "category": "historical",
+                  "coords": [
+                        103.844953,
+                        1.289956
+                  ]
+            },
+            {
+                  "name": "Civil Defense Heritage Gallery",
+                  "text": "This museum showcases historical artifacts related to the region's civil defense efforts.",
+                  "category": "museum",
+                  "coords": [
+                        103.849142,
+                        1.292073
+                  ]
+            },
+            {
+                  "name": "Clemenceau Bridge",
+                  "text": "This notable bridge provides a vital architectural link across the urban waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842443,
+                        1.290762
+                  ]
+            },
+            {
+                  "name": "Alkaff Bridge",
+                  "text": "Recognized for its design, this notable pedestrian bridge spans the river.",
+                  "category": "landmark",
+                  "coords": [
+                        103.839943,
+                        1.290117
+                  ]
+            },
+            {
+                  "name": "Hong San See Temple",
+                  "text": "Established in 1913, this notable place of worship features intricate historical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.840849,
+                        1.29331
+                  ]
+            },
+            {
+                  "name": "Ord Bridge",
+                  "text": "This notable bridge serves as a structural crossing over the busy river.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844029,
+                        1.290926
+                  ]
+            },
+            {
+                  "name": "The Lighthouse",
+                  "text": "This notable lighthouse structure once guided ships along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847766,
+                        1.292107
+                  ]
+            },
+            {
+                  "name": "Coleman Bridge",
+                  "text": "This notable road bridge connects different districts across the flowing river.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848009,
+                        1.289767
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "SG-01",
     coords: [103.8465, 1.2905],
@@ -388,7 +2116,232 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "jewel-changi-airport-landmarks-v2",
+    id: "jewel-changi-airport-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Navy Museum",
+                  "text": "Ein Museum in der Nähe des Flughafens Changi, das die Geschichte der Marine von Singapur anhand maritimer Artefakte und Schiffsmodelle ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        104.017159,
+                        1.316641
+                  ]
+            },
+            {
+                  "name": "Discovery Garden",
+                  "text": "Ein erhöhter Garten im Jewel Changi Airport mit baumähnlichen Strukturen, die mit verschiedenen tropischen Pflanzen bewachsen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.991746,
+                        1.361951
+                  ]
+            },
+            {
+                  "name": "Petal Garden",
+                  "text": "Eine wunderschön angelegte Blumenausstellung im Jewel Changi Airport, die saisonale Blumen in kreativen, farbenfrohen Arrangements zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.989369,
+                        1.360774
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "Ein tropisches Gehege im Flughafen Changi, in dem Reisende zwischen Hunderten von frei fliegenden Schmetterlingen und Kannenpflanzen spazieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        103.986179,
+                        1.35754
+                  ]
+            },
+            {
+                  "name": "Terminal 2 Orchid Garden",
+                  "text": "Ein spezieller Innengarten im Terminal 2 des Flughafens Changi mit einer lebendigen Sammlung von Singapurs Nationalblumen und seltenen Orchideenhybriden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.988704,
+                        1.354076
+                  ]
+            },
+            {
+                  "name": "Hedge Maze",
+                  "text": "Ein sorgfältig beschnittenes Labyrinth im Jewel Changi Airport, das einen Wachturm mit Blick aus der Vogelperspektive auf den Irrgarten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.99049,
+                        1.360108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navy Museum",
+                  "text": "A Changi repülőtér közelében található múzeum, amely tengerészeti műtárgyakon és hajómodelleken keresztül mutatja be a Szingapúri Haditengerészet történetét.",
+                  "category": "museum",
+                  "coords": [
+                        104.017159,
+                        1.316641
+                  ]
+            },
+            {
+                  "name": "Discovery Garden",
+                  "text": "Egy magaslati kert a Jewel Changi repülőtéren, amely faszerű szerkezeteket mutat be, összefonódva különféle trópusi növényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.991746,
+                        1.361951
+                  ]
+            },
+            {
+                  "name": "Petal Garden",
+                  "text": "Egy gyönyörűen parkosított virágkiállítás a Jewel Changi repülőtéren, amely szezonális virágokat mutat be kreatív, színes elrendezésben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.989369,
+                        1.360774
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "Egy trópusi kifutó a Changi repülőtéren, ahol az utazók több száz szabadon repkedő pillangó és húsevő kancsóka között sétálhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        103.986179,
+                        1.35754
+                  ]
+            },
+            {
+                  "name": "Terminal 2 Orchid Garden",
+                  "text": "Egy dedikált beltéri kert a Changi repülőtér 2-es termináljában, amely Szingapúr nemzeti virágainak és ritka orchideahibrideknek élénk gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.988704,
+                        1.354076
+                  ]
+            },
+            {
+                  "name": "Hedge Maze",
+                  "text": "Egy aprólékosan metszett labirintus a Jewel Changi repülőtéren, amelynek őrtornya madártávlatból nyújt kilátást az útvesztőre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.99049,
+                        1.360108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navy Museum",
+                  "text": "Un muzeu lângă Aeroportul Changi care expune istoria Marinei Republicii Singapore prin artefacte maritime și modele de nave.",
+                  "category": "museum",
+                  "coords": [
+                        104.017159,
+                        1.316641
+                  ]
+            },
+            {
+                  "name": "Discovery Garden",
+                  "text": "O grădină suspendată în Aeroportul Jewel Changi, cu structuri asemănătoare copacilor, împletite cu frunziș tropical divers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.991746,
+                        1.361951
+                  ]
+            },
+            {
+                  "name": "Petal Garden",
+                  "text": "O expoziție florală frumos amenajată în Aeroportul Jewel Changi, care prezintă flori de sezon în aranjamente creative și colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.989369,
+                        1.360774
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "O incintă tropicală în Aeroportul Changi, unde călătorii se pot plimba printre sute de fluturi care zboară liber și plante carnivore.",
+                  "category": "recreational",
+                  "coords": [
+                        103.986179,
+                        1.35754
+                  ]
+            },
+            {
+                  "name": "Terminal 2 Orchid Garden",
+                  "text": "O grădină interioară dedicată în Terminalul 2 al Aeroportului Changi, cu o colecție vibrantă de flori naționale ale statului Singapore și hibrizi rari de orhidee.",
+                  "category": "landmark",
+                  "coords": [
+                        103.988704,
+                        1.354076
+                  ]
+            },
+            {
+                  "name": "Hedge Maze",
+                  "text": "Un labirint tăiat meticulos în Aeroportul Jewel Changi, care are un turn de veghe oferind o vedere de sus a întregului traseu.",
+                  "category": "landmark",
+                  "coords": [
+                        103.99049,
+                        1.360108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navy Museum",
+                  "text": "A museum near Changi Airport exhibiting the history of the Republic of Singapore Navy through maritime artifacts and ship models.",
+                  "category": "museum",
+                  "coords": [
+                        104.017159,
+                        1.316641
+                  ]
+            },
+            {
+                  "name": "Discovery Garden",
+                  "text": "An elevated garden space in Jewel Changi Airport featuring tree-like structures intertwined with diverse tropical foliage.",
+                  "category": "landmark",
+                  "coords": [
+                        103.991746,
+                        1.361951
+                  ]
+            },
+            {
+                  "name": "Petal Garden",
+                  "text": "A beautifully landscaped floral display in Jewel Changi Airport that showcases seasonal flowers in creative, colorful arrangements.",
+                  "category": "landmark",
+                  "coords": [
+                        103.989369,
+                        1.360774
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "A tropical enclosure at Changi Airport where travelers can walk among hundreds of free-flying butterflies and exotic pitcher plants.",
+                  "category": "recreational",
+                  "coords": [
+                        103.986179,
+                        1.35754
+                  ]
+            },
+            {
+                  "name": "Terminal 2 Orchid Garden",
+                  "text": "A dedicated indoor garden in Terminal 2 of Changi Airport featuring a vibrant collection of Singapore's national flowers and rare orchid hybrids.",
+                  "category": "landmark",
+                  "coords": [
+                        103.988704,
+                        1.354076
+                  ]
+            },
+            {
+                  "name": "Hedge Maze",
+                  "text": "A meticulously pruned labyrinth inside Jewel Changi Airport that features a watchtower offering a bird's-eye view of the maze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.99049,
+                        1.360108
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "SG-02",
     coords: [103.9894, 1.3601],
@@ -484,7 +2437,160 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "esplanade-theatres-on-the-bay-landmarks-v2",
+    id: "esplanade-theatres-on-the-bay-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pororo Park",
+                  "text": "Ein familienorientierter Indoor-Themenpark, der der beliebten animierten Pinguinfigur gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        103.857079,
+                        1.29061
+                  ]
+            },
+            {
+                  "name": "Happy Family of Five",
+                  "text": "Ein skulpturales Denkmal im Freien, das eine fröhliche Familiengruppe darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        103.854822,
+                        1.290186
+                  ]
+            },
+            {
+                  "name": "Roof Terrace",
+                  "text": "Ein malerischer erhöhter Aussichtspunkt mit weitem Panoramablick über das Wasser der Marina Bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.856031,
+                        1.289219
+                  ]
+            },
+            {
+                  "name": "Singtel Waterfront Theatre",
+                  "text": "Ein modernes mittelgroßes Theater direkt am malerischen Ufer der Bucht.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857187,
+                        1.289124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pororo Park",
+                  "text": "Családbarát beltéri vidámpark, amelynek témája a népszerű animációs pingvinfigura.",
+                  "category": "recreational",
+                  "coords": [
+                        103.857079,
+                        1.29061
+                  ]
+            },
+            {
+                  "name": "Happy Family of Five",
+                  "text": "Szabadtéri szoborműemlék, amely egy vidám, öttagú családot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        103.854822,
+                        1.290186
+                  ]
+            },
+            {
+                  "name": "Roof Terrace",
+                  "text": "Festői, magasan fekvő kilátó, ahonnan lenyűgöző panoráma nyílik a Marina-öböl vizére.",
+                  "category": "natural",
+                  "coords": [
+                        103.856031,
+                        1.289219
+                  ]
+            },
+            {
+                  "name": "Singtel Waterfront Theatre",
+                  "text": "Modern, közepes méretű színház, amely közvetlenül az öböl festői vízpartján helyezkedik el.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857187,
+                        1.289124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pororo Park",
+                  "text": "Un parc tematic de interior pentru familii, având ca temă popularul personaj animat pinguin.",
+                  "category": "recreational",
+                  "coords": [
+                        103.857079,
+                        1.29061
+                  ]
+            },
+            {
+                  "name": "Happy Family of Five",
+                  "text": "Un monument sculptural în aer liber care înfățișează o familie veselă formată din cinci membri.",
+                  "category": "historical",
+                  "coords": [
+                        103.854822,
+                        1.290186
+                  ]
+            },
+            {
+                  "name": "Roof Terrace",
+                  "text": "Un punct de belvedere la înălțime, oferind panorame spectaculoase asupra apelor din Marina Bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.856031,
+                        1.289219
+                  ]
+            },
+            {
+                  "name": "Singtel Waterfront Theatre",
+                  "text": "Un teatru modern de dimensiuni medii, amplasat direct pe malul pitoresc al golfului.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857187,
+                        1.289124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pororo Park",
+                  "text": "An indoor, family-oriented theme park themed around the popular animated penguin character.",
+                  "category": "recreational",
+                  "coords": [
+                        103.857079,
+                        1.29061
+                  ]
+            },
+            {
+                  "name": "Happy Family of Five",
+                  "text": "An outdoor sculptural monument depicting a cheerful family group.",
+                  "category": "historical",
+                  "coords": [
+                        103.854822,
+                        1.290186
+                  ]
+            },
+            {
+                  "name": "Roof Terrace",
+                  "text": "A scenic elevated viewpoint offering sweeping panoramic vistas over the waters of Marina Bay.",
+                  "category": "natural",
+                  "coords": [
+                        103.856031,
+                        1.289219
+                  ]
+            },
+            {
+                  "name": "Singtel Waterfront Theatre",
+                  "text": "A modern mid-sized theatre venue positioned directly along the scenic waterfront edge of the bay.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857187,
+                        1.289124
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8553, 1.2896],
@@ -532,7 +2638,52 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lau-pa-sat-landmarks-v2",
+    id: "lau-pa-sat-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roof Garden",
+                  "text": "Ein erhöhter Aussichtspunkt im Freien, der malerische Panoramen vom begrünten Dach des Gebäudes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.849582,
+                        1.275821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roof Garden",
+                  "text": "Magasan fekvő szabadtéri kilátó, amely festői panorámát kínál az épület parkosított tetejéről.",
+                  "category": "natural",
+                  "coords": [
+                        103.849582,
+                        1.275821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roof Garden",
+                  "text": "Un punct de belvedere în aer liber ridicat, care oferă panorame pitorești de pe acoperișul amenajat al clădirii.",
+                  "category": "natural",
+                  "coords": [
+                        103.849582,
+                        1.275821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roof Garden",
+                  "text": "An elevated outdoor viewpoint offering scenic panoramas from atop the building's landscaped roof.",
+                  "category": "natural",
+                  "coords": [
+                        103.849582,
+                        1.275821
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SG-01",
     coords: [103.8502, 1.2806],
@@ -580,7 +2731,88 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "artscience-museum-landmarks-v2",
+    id: "artscience-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ArtScience Museum",
+                  "text": "Das wie eine blühende Lotusblume gestaltete markante Museum beherbergt immersive Ausstellungen, die digitale Kunst, Technologie und Wissenschaft verschmelzen.",
+                  "category": "museum",
+                  "coords": [
+                        103.85923,
+                        1.286138
+                  ]
+            },
+            {
+                  "name": "Spectra",
+                  "text": "Diese spektakuläre 15-minütige Wasser- und Lichtsymphonie im Freien schießt beleuchtete Wasserfontänen hoch in die Luft vor der Skyline der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.857935,
+                        1.284415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ArtScience Museum",
+                  "text": "A virágzó lótuszvirág alakú, lenyűgöző múzeum a digitális művészetet, a technológiát és a tudományt ötvöző, magával ragadó kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        103.85923,
+                        1.286138
+                  ]
+            },
+            {
+                  "name": "Spectra",
+                  "text": "Ez a látványos, 15 perces szabadtéri víz- és fényszimfónia megvilágított szökőkútsugarakat lő magasra a levegőbe a város látképe előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.857935,
+                        1.284415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ArtScience Museum",
+                  "text": "Conceput ca o floare de lotus înflorită, acest muzeu impresionant găzduiește expoziții imersive care îmbină arta digitală, tehnologia și știința.",
+                  "category": "museum",
+                  "coords": [
+                        103.85923,
+                        1.286138
+                  ]
+            },
+            {
+                  "name": "Spectra",
+                  "text": "Această spectaculoasă simfonie în aer liber de apă și lumină, de 15 minute, aruncă jeturi iluminate de fântâni sus în aer pe fundalul orizontului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.857935,
+                        1.284415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ArtScience Museum",
+                  "text": "Designed like a blossoming lotus flower, this striking museum hosts immersive exhibitions blending digital art, technology, and science.",
+                  "category": "museum",
+                  "coords": [
+                        103.85923,
+                        1.286138
+                  ]
+            },
+            {
+                  "name": "Spectra",
+                  "text": "This spectacular 15-minute outdoor water and light symphony shoots illuminated fountain jets high into the air against the city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        103.857935,
+                        1.284415
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8588, 1.2863],
@@ -628,7 +2860,232 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "old-parliament-house-landmarks-v2",
+    id: "old-parliament-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phil's Studio",
+                  "text": "Ein intimer Studiotheaterraum, der für spezielle Bühnenshows konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849116,
+                        1.290116
+                  ]
+            },
+            {
+                  "name": "The Arts House At The Old Parliament",
+                  "text": "Dieses Kunstzentrum ist in einem historisch bedeutsamen ehemaligen Parlamentsgebäude untergebracht.",
+                  "category": "cultural",
+                  "coords": [
+                        103.85105,
+                        1.288601
+                  ]
+            },
+            {
+                  "name": "VOS @ Adelphi",
+                  "text": "Dieses kreative Kunstzentrum bietet einen Veranstaltungsort für lokale künstlerische Gemeindeprojekte.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851448,
+                        1.291241
+                  ]
+            },
+            {
+                  "name": "National Gallery Singapore",
+                  "text": "Dieses bedeutende Nationalmuseum beherbergt eine umfangreiche Sammlung südostasiatischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        103.851471,
+                        1.290256
+                  ]
+            },
+            {
+                  "name": "The Ngee Ann Kongsi Theatre",
+                  "text": "Ein moderner Theaterort, der für große dramatische und musikalische Aufführungen gebaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850133,
+                        1.291048
+                  ]
+            },
+            {
+                  "name": "Elgin Bridge",
+                  "text": "Diese bemerkenswerte Brücke, die den Hauptfluss überspannt, ist ein wichtiges Stück städtischer Infrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849314,
+                        1.289057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phil's Studio",
+                  "text": "Speciális színpadi bemutatókra tervezett intim stúdiószínházi tér.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849116,
+                        1.290116
+                  ]
+            },
+            {
+                  "name": "The Arts House At The Old Parliament",
+                  "text": "Ez a művészeti központ egy történelmileg jelentős egykori parlamenti épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.85105,
+                        1.288601
+                  ]
+            },
+            {
+                  "name": "VOS @ Adelphi",
+                  "text": "Ez a kreatív művészeti központ helyszínt biztosít a helyi művészeti közösségi projekteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851448,
+                        1.291241
+                  ]
+            },
+            {
+                  "name": "National Gallery Singapore",
+                  "text": "Ez a figyelemre méltó nemzeti múzeum délkelet-ázsiai művészetek kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        103.851471,
+                        1.290256
+                  ]
+            },
+            {
+                  "name": "The Ngee Ann Kongsi Theatre",
+                  "text": "Nagyszabású drámai és zenei előadások megrendezésére épült modern színházi helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850133,
+                        1.291048
+                  ]
+            },
+            {
+                  "name": "Elgin Bridge",
+                  "text": "A fő folyón átívelő, figyelemre méltó híd a városi infrastruktúra kulcsfontosságú eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849314,
+                        1.289057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phil's Studio",
+                  "text": "Un spațiu de teatru de studio intim conceput pentru spectacole de scenă specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849116,
+                        1.290116
+                  ]
+            },
+            {
+                  "name": "The Arts House At The Old Parliament",
+                  "text": "Acest centru de arte este găzduit într-o fostă clădire a parlamentului, semnificativă din punct de vedere istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        103.85105,
+                        1.288601
+                  ]
+            },
+            {
+                  "name": "VOS @ Adelphi",
+                  "text": "Acest centru de artă creativă oferă un loc pentru proiecte comunitare artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851448,
+                        1.291241
+                  ]
+            },
+            {
+                  "name": "National Gallery Singapore",
+                  "text": "Acest muzeu național notabil găzduiește o colecție vastă de artă din Asia de Sud-Est.",
+                  "category": "museum",
+                  "coords": [
+                        103.851471,
+                        1.290256
+                  ]
+            },
+            {
+                  "name": "The Ngee Ann Kongsi Theatre",
+                  "text": "Un loc de teatru modern construit pentru a găzdui spectacole dramatice și muzicale la scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850133,
+                        1.291048
+                  ]
+            },
+            {
+                  "name": "Elgin Bridge",
+                  "text": "Traversând râul principal, acest pod notabil este o piesă cheie a infrastructurii urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849314,
+                        1.289057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phil's Studio",
+                  "text": "An intimate studio theatre space designed for specialized stage shows.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849116,
+                        1.290116
+                  ]
+            },
+            {
+                  "name": "The Arts House At The Old Parliament",
+                  "text": "This arts centre is housed within a historically significant former parliament building.",
+                  "category": "cultural",
+                  "coords": [
+                        103.85105,
+                        1.288601
+                  ]
+            },
+            {
+                  "name": "VOS @ Adelphi",
+                  "text": "This creative arts centre provides a venue for local artistic community projects.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851448,
+                        1.291241
+                  ]
+            },
+            {
+                  "name": "National Gallery Singapore",
+                  "text": "This notable national museum houses an extensive collection of Southeast Asian art.",
+                  "category": "museum",
+                  "coords": [
+                        103.851471,
+                        1.290256
+                  ]
+            },
+            {
+                  "name": "The Ngee Ann Kongsi Theatre",
+                  "text": "A modern theatrical venue built to host large-scale dramatic and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850133,
+                        1.291048
+                  ]
+            },
+            {
+                  "name": "Elgin Bridge",
+                  "text": "Spanning the main river, this notable bridge is a key piece of urban infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849314,
+                        1.289057
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "SG-01",
     coords: [103.8509, 1.2885],
@@ -676,7 +3133,52 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "victoria-theatre-and-concert-hall-landmarks-v2",
+    id: "victoria-theatre-and-concert-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dalhousie Obelisk",
+                  "text": "Ein steinernes Nadeldenkmal, das zur Erinnerung an den Besuch des Marquis von Dalhousie errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        103.852223,
+                        1.287448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dalhousie Obelisk",
+                  "text": "Kőből készült obeliszk, amelyet Dalhousie márkijának látogatása emlékére állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        103.852223,
+                        1.287448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dalhousie Obelisk",
+                  "text": "Un monument sub formă de ac de piatră ridicat pentru a comemora vizita Marchizului de Dalhousie.",
+                  "category": "historical",
+                  "coords": [
+                        103.852223,
+                        1.287448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dalhousie Obelisk",
+                  "text": "A stone needle monument erected to commemorate the visit of the Marquis of Dalhousie.",
+                  "category": "historical",
+                  "coords": [
+                        103.852223,
+                        1.287448
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "SG-01",
     coords: [103.8516, 1.2878],
@@ -724,7 +3226,304 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "raffles-hotel-landmarks-v2",
+    id: "raffles-hotel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Long Bar",
+                  "text": "Diese beliebte Bar-Attraktion ist berühmt für ihre charakteristischen Cocktails und ihren historischen Charme.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853468,
+                        1.295131
+                  ]
+            },
+            {
+                  "name": "Cape of Good Heart Gallery",
+                  "text": "Ein Ausstellungsgalerieraum, der eine kuratierte Auswahl an feinen visuellen Kunstwerken präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        103.853821,
+                        1.296833
+                  ]
+            },
+            {
+                  "name": "Artcommune Gallery",
+                  "text": "Diese Kunstgalerie stellt Werke prominenter lokaler Maler und Schöpfer aus.",
+                  "category": "museum",
+                  "coords": [
+                        103.852652,
+                        1.296434
+                  ]
+            },
+            {
+                  "name": "The Chinese Opera Institute",
+                  "text": "Dieses Kunstzentrum bewahrt und fördert die traditionellen Praktiken der chinesischen Oper.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853387,
+                        1.298597
+                  ]
+            },
+            {
+                  "name": "Hsinghai Art Association",
+                  "text": "Ein Gemeindekunstzentrum, das Ausstellungen organisiert, um regionale künstlerische Talente zu unterstützen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.852838,
+                        1.300119
+                  ]
+            },
+            {
+                  "name": "Singapore Dance Theatre",
+                  "text": "Dieser Veranstaltungsort ist auf die Ausrichtung professioneller klassischer und zeitgenössischer Tanzproduktionen spezialisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854062,
+                        1.299749
+                  ]
+            },
+            {
+                  "name": "CHIJMES Hall",
+                  "text": "Diese 1841 gegründete ehemalige Klosterkapelle ist heute ein bekannter Veranstaltungs- und Gastronomieort.",
+                  "category": "religious",
+                  "coords": [
+                        103.851868,
+                        1.29518
+                  ]
+            },
+            {
+                  "name": "Grace (Singapore Chinese Christian) Church",
+                  "text": "Diese 1971 gegründete chinesisch-christliche Kirche ist ein aktives spirituelles Zentrum in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852442,
+                        1.297783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Long Bar",
+                  "text": "Ez a népszerű bár látványosság híres jellegzetes koktéljairól és történelmi varázsáról.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853468,
+                        1.295131
+                  ]
+            },
+            {
+                  "name": "Cape of Good Heart Gallery",
+                  "text": "Kiállítási galériatér, amely finom vizuális művészeti alkotások válogatott válogatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.853821,
+                        1.296833
+                  ]
+            },
+            {
+                  "name": "Artcommune Gallery",
+                  "text": "Ez a képzőművészeti galéria kiemelkedő helyi festők és alkotók műveit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        103.852652,
+                        1.296434
+                  ]
+            },
+            {
+                  "name": "The Chinese Opera Institute",
+                  "text": "Ez a művészeti központ a kínai opera hagyományos gyakorlatát őrzi és népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853387,
+                        1.298597
+                  ]
+            },
+            {
+                  "name": "Hsinghai Art Association",
+                  "text": "Egy közösségi művészeti központ, amely kiállításokat szervez a regionális művészeti tehetségek támogatására.",
+                  "category": "cultural",
+                  "coords": [
+                        103.852838,
+                        1.300119
+                  ]
+            },
+            {
+                  "name": "Singapore Dance Theatre",
+                  "text": "Ez az előadóhely professzionális klasszikus és kortárs táncprodukciók megrendezésére specializálódott.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854062,
+                        1.299749
+                  ]
+            },
+            {
+                  "name": "CHIJMES Hall",
+                  "text": "Az 1841-ben alapított egykori kolostorkápolna ma egy kiemelkedő rendezvény- és vendéglátóhely.",
+                  "category": "religious",
+                  "coords": [
+                        103.851868,
+                        1.29518
+                  ]
+            },
+            {
+                  "name": "Grace (Singapore Chinese Christian) Church",
+                  "text": "Az 1971-ben alapított kínai keresztény templom a környék aktív spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852442,
+                        1.297783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Long Bar",
+                  "text": "Această atracție populară de bar este renumită pentru cocktailurile sale tipice și farmecul istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853468,
+                        1.295131
+                  ]
+            },
+            {
+                  "name": "Cape of Good Heart Gallery",
+                  "text": "Un spațiu de galerie de expoziție care prezintă o selecție curată de opere de artă vizuală plastică.",
+                  "category": "museum",
+                  "coords": [
+                        103.853821,
+                        1.296833
+                  ]
+            },
+            {
+                  "name": "Artcommune Gallery",
+                  "text": "Această galerie de artă prezintă lucrări ale unor pictori și creatori locali proeminenți.",
+                  "category": "museum",
+                  "coords": [
+                        103.852652,
+                        1.296434
+                  ]
+            },
+            {
+                  "name": "The Chinese Opera Institute",
+                  "text": "Acest centru de arte păstrează și promovează practicile tradiționale ale operei chineze.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853387,
+                        1.298597
+                  ]
+            },
+            {
+                  "name": "Hsinghai Art Association",
+                  "text": "Un centru de artă comunitar care organizează expoziții pentru a sprijini talentul artistic regional.",
+                  "category": "cultural",
+                  "coords": [
+                        103.852838,
+                        1.300119
+                  ]
+            },
+            {
+                  "name": "Singapore Dance Theatre",
+                  "text": "Această locație de spectacol este specializată în găzduirea de producții profesionale de dans clasic și contemporan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854062,
+                        1.299749
+                  ]
+            },
+            {
+                  "name": "CHIJMES Hall",
+                  "text": "Înființată inițial în 1841, această fostă capelă de mănăstire este acum un important centru de evenimente și gastronomie.",
+                  "category": "religious",
+                  "coords": [
+                        103.851868,
+                        1.29518
+                  ]
+            },
+            {
+                  "name": "Grace (Singapore Chinese Christian) Church",
+                  "text": "Înființată în 1971, această biserică creștină chineză este un centru spiritual activ din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852442,
+                        1.297783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Long Bar",
+                  "text": "This popular bar attraction is famously known for its signature cocktails and historic charm.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853468,
+                        1.295131
+                  ]
+            },
+            {
+                  "name": "Cape of Good Heart Gallery",
+                  "text": "An exhibition gallery space showcasing a curated selection of fine visual artworks.",
+                  "category": "museum",
+                  "coords": [
+                        103.853821,
+                        1.296833
+                  ]
+            },
+            {
+                  "name": "Artcommune Gallery",
+                  "text": "This fine art gallery exhibits works from prominent local painters and creators.",
+                  "category": "museum",
+                  "coords": [
+                        103.852652,
+                        1.296434
+                  ]
+            },
+            {
+                  "name": "The Chinese Opera Institute",
+                  "text": "This arts centre preserves and promotes the traditional practices of Chinese opera.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853387,
+                        1.298597
+                  ]
+            },
+            {
+                  "name": "Hsinghai Art Association",
+                  "text": "A community arts centre organizing exhibitions to support regional artistic talent.",
+                  "category": "cultural",
+                  "coords": [
+                        103.852838,
+                        1.300119
+                  ]
+            },
+            {
+                  "name": "Singapore Dance Theatre",
+                  "text": "This performing venue specializes in hosting professional classical and contemporary dance productions.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854062,
+                        1.299749
+                  ]
+            },
+            {
+                  "name": "CHIJMES Hall",
+                  "text": "Originally established in 1841, this former convent chapel is now a prominent lifestyle and dining venue.",
+                  "category": "religious",
+                  "coords": [
+                        103.851868,
+                        1.29518
+                  ]
+            },
+            {
+                  "name": "Grace (Singapore Chinese Christian) Church",
+                  "text": "Established in 1971, this Chinese Christian church is an active spiritual center in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852442,
+                        1.297783
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SG-01",
     coords: [103.8542, 1.2949],
@@ -772,7 +3571,448 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tiong-bahru-market-landmarks-v2",
+    id: "tiong-bahru-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grave of Tan Tock Seng",
+                  "text": "Das Grab von Tan Tock Seng ist die historische Ruhestätte eines prominenten lokalen Pioniers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835076,
+                        1.286051
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Air Raid Shelter",
+                  "text": "Der Tiong Bahru Air Raid Shelter ist ein erhaltener unterirdischer Bunker aus der Vorkriegszeit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830837,
+                        1.283415
+                  ]
+            },
+            {
+                  "name": "SEAB Heritage Gallery",
+                  "text": "Die SEAB Heritage Gallery ist ein Museum, das historische Bildungsartefakte und lokale Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.83048,
+                        1.28756
+                  ]
+            },
+            {
+                  "name": "Hatch Art Project",
+                  "text": "Das Hatch Art Project dient als moderne Ausstellungsgalerie für zeitgenössische bildende Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        103.830313,
+                        1.282483
+                  ]
+            },
+            {
+                  "name": "Robertson Bridge",
+                  "text": "Die Robertson Bridge ist eine Fußgängerbrücke über den Singapore River, die die lokalen Uferpromenaden verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836444,
+                        1.289949
+                  ]
+            },
+            {
+                  "name": "Jiak Kim Bridge",
+                  "text": "Die Jiak Kim Bridge ist eine bekannte Fußgängerbrücke, die den malerischen Singapore River überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835691,
+                        1.292259
+                  ]
+            },
+            {
+                  "name": "Qi Tian Gong",
+                  "text": "Qi Tian Gong ist ein traditioneller taoistischer Tempel, der für seine kunstvolle religiöse Architektur bekannt ist, die dem Affengott gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834336,
+                        1.283845
+                  ]
+            },
+            {
+                  "name": "Jin Lan Miao",
+                  "text": "Jin Lan Miao dient als taoistisches Heiligtum, das mit komplizierten traditionellen Motiven und Altären geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82734,
+                        1.282439
+                  ]
+            },
+            {
+                  "name": "Jubilee Presby Church",
+                  "text": "Die Jubilee Presby Church ist ein christliches Anbetungszentrum, in dem regelmäßig presbyterianische Gottesdienste abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836031,
+                        1.285761
+                  ]
+            },
+            {
+                  "name": "Hock Teck Tong Temple",
+                  "text": "Der Hock Teck Tong Tempel ist ein taoistischer Schrein in der Nachbarschaft mit traditionellen Altarplätzen für lokale Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832685,
+                        1.289757
+                  ]
+            },
+            {
+                  "name": "Ho Lim Kong Temple",
+                  "text": "Der Ho Lim Kong Tempel ist eine buddhistische Anbetungshalle, die einen friedlichen Raum für spirituelle Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836442,
+                        1.284245
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Market",
+                  "text": "Der Tiong Bahru Market ist ein belebter Marktplatz mit einem bekannten Hawker-Zentrum und Anbietern frischer Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        103.832349,
+                        1.284883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grave of Tan Tock Seng",
+                  "text": "Tan Tock Seng sírja egy kiemelkedő helyi úttörő történelmi nyughelye.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835076,
+                        1.286051
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Air Raid Shelter",
+                  "text": "A Tiong Bahru légvédelmi óvóhely egy háború előtti korszakból fennmaradt földalatti bunker.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830837,
+                        1.283415
+                  ]
+            },
+            {
+                  "name": "SEAB Heritage Gallery",
+                  "text": "A SEAB Heritage Gallery egy múzeum, amely történelmi oktatási tárgyakat és helyi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        103.83048,
+                        1.28756
+                  ]
+            },
+            {
+                  "name": "Hatch Art Project",
+                  "text": "A Hatch Art Project egy modern kiállítógaléria, amely kortárs képzőművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        103.830313,
+                        1.282483
+                  ]
+            },
+            {
+                  "name": "Robertson Bridge",
+                  "text": "A Robertson híd a Szingapúr folyón átívelő gyalogoshíd, amely a helyi folyóparti sétányokat köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836444,
+                        1.289949
+                  ]
+            },
+            {
+                  "name": "Jiak Kim Bridge",
+                  "text": "A Jiak Kim híd egy jól ismert gyalogos felüljáró, amely a festői Szingapúr folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835691,
+                        1.292259
+                  ]
+            },
+            {
+                  "name": "Qi Tian Gong",
+                  "text": "A Qi Tian Gong egy hagyományos taoista templom, amely a Majomistennek szentelt díszes vallási építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834336,
+                        1.283845
+                  ]
+            },
+            {
+                  "name": "Jin Lan Miao",
+                  "text": "A Jin Lan Miao egy taoista szentély, amelyet bonyolult hagyományos motívumok és oltárok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82734,
+                        1.282439
+                  ]
+            },
+            {
+                  "name": "Jubilee Presby Church",
+                  "text": "A Jubilee Presby Church egy keresztény istentiszteleti központ, amely rendszeres presbiteriánus vallási szolgáltatásokat tart.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836031,
+                        1.285761
+                  ]
+            },
+            {
+                  "name": "Hock Teck Tong Temple",
+                  "text": "A Hock Teck Tong templom egy környékbeli taoista szentély, amely hagyományos oltárterekkel rendelkezik a helyi hívek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832685,
+                        1.289757
+                  ]
+            },
+            {
+                  "name": "Ho Lim Kong Temple",
+                  "text": "A Ho Lim Kong templom egy buddhista istentiszteleti csarnok, amely békés teret kínál a spirituális meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836442,
+                        1.284245
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Market",
+                  "text": "A Tiong Bahru Market egy nyüzsgő piac, amely egy jól ismert árusító központot és friss termékeket kínáló árusokat foglal magában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.832349,
+                        1.284883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grave of Tan Tock Seng",
+                  "text": "Mormântul lui Tan Tock Seng este locul de odihnă istoric al unui pionier local proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835076,
+                        1.286051
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Air Raid Shelter",
+                  "text": "Adăpostul antiaerian Tiong Bahru este un buncăr subteran conservat din perioada interbelică.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830837,
+                        1.283415
+                  ]
+            },
+            {
+                  "name": "SEAB Heritage Gallery",
+                  "text": "Galeria de patrimoniu SEAB este un muzeu care expune artefacte educaționale istorice și expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        103.83048,
+                        1.28756
+                  ]
+            },
+            {
+                  "name": "Hatch Art Project",
+                  "text": "Hatch Art Project servește ca o galerie modernă de expoziții care prezintă arte vizuale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        103.830313,
+                        1.282483
+                  ]
+            },
+            {
+                  "name": "Robertson Bridge",
+                  "text": "Podul Robertson este un pod pietonal care traversează râul Singapore, conectând promenadele locale de pe malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836444,
+                        1.289949
+                  ]
+            },
+            {
+                  "name": "Jiak Kim Bridge",
+                  "text": "Podul Jiak Kim este un pasaj pietonal binecunoscut care traversează pitorescul râu Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835691,
+                        1.292259
+                  ]
+            },
+            {
+                  "name": "Qi Tian Gong",
+                  "text": "Qi Tian Gong este un templu taoist tradițional, cunoscut pentru arhitectura sa religioasă ornamentată dedicată Zeului Maimuță.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834336,
+                        1.283845
+                  ]
+            },
+            {
+                  "name": "Jin Lan Miao",
+                  "text": "Jin Lan Miao servește ca sanctuar taoist împodobit cu motive și altare tradiționale complicate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82734,
+                        1.282439
+                  ]
+            },
+            {
+                  "name": "Jubilee Presby Church",
+                  "text": "Jubilee Presby Church este un centru de cult creștin care organizează servicii religioase prezbiteriene regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836031,
+                        1.285761
+                  ]
+            },
+            {
+                  "name": "Hock Teck Tong Temple",
+                  "text": "Templul Hock Teck Tong este un altar taoist de cartier care prezintă spații de altar tradiționale pentru închinătorii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832685,
+                        1.289757
+                  ]
+            },
+            {
+                  "name": "Ho Lim Kong Temple",
+                  "text": "Templul Ho Lim Kong este o sală de cult budistă care oferă un spațiu pașnic pentru meditație spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836442,
+                        1.284245
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Market",
+                  "text": "Piața Tiong Bahru este o piață plină de viață, cu un centru de vânzători ambulanți binecunoscut și vânzători de produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        103.832349,
+                        1.284883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grave of Tan Tock Seng",
+                  "text": "The Grave of Tan Tock Seng is a historical resting place of a prominent local pioneer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835076,
+                        1.286051
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Air Raid Shelter",
+                  "text": "Tiong Bahru Air Raid Shelter is a preserved underground bunker from the pre-war era.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830837,
+                        1.283415
+                  ]
+            },
+            {
+                  "name": "SEAB Heritage Gallery",
+                  "text": "The SEAB Heritage Gallery is a museum displaying historical educational artifacts and local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        103.83048,
+                        1.28756
+                  ]
+            },
+            {
+                  "name": "Hatch Art Project",
+                  "text": "Hatch Art Project serves as a modern exhibition gallery showcasing contemporary visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        103.830313,
+                        1.282483
+                  ]
+            },
+            {
+                  "name": "Robertson Bridge",
+                  "text": "Robertson Bridge is a pedestrian bridge crossing the Singapore River, connecting local riverfront promenades.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836444,
+                        1.289949
+                  ]
+            },
+            {
+                  "name": "Jiak Kim Bridge",
+                  "text": "Jiak Kim Bridge is a well-known pedestrian overpass spanning the scenic Singapore River.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835691,
+                        1.292259
+                  ]
+            },
+            {
+                  "name": "Qi Tian Gong",
+                  "text": "Qi Tian Gong is a traditional Taoist temple known for its ornate religious architecture dedicated to the Monkey God.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834336,
+                        1.283845
+                  ]
+            },
+            {
+                  "name": "Jin Lan Miao",
+                  "text": "Jin Lan Miao serves as a Taoist sanctuary adorned with intricate traditional motifs and altars.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82734,
+                        1.282439
+                  ]
+            },
+            {
+                  "name": "Jubilee Presby Church",
+                  "text": "Jubilee Presby Church is a Christian worship center holding regular Presbyterian religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836031,
+                        1.285761
+                  ]
+            },
+            {
+                  "name": "Hock Teck Tong Temple",
+                  "text": "Hock Teck Tong Temple is a neighborhood Taoist shrine featuring traditional altar spaces for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832685,
+                        1.289757
+                  ]
+            },
+            {
+                  "name": "Ho Lim Kong Temple",
+                  "text": "Ho Lim Kong Temple is a Buddhist worship hall offering a peaceful space for spiritual meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836442,
+                        1.284245
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Market",
+                  "text": "Tiong Bahru Market is a bustling marketplace featuring a well-known hawker center and fresh produce vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        103.832349,
+                        1.284883
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8341, 1.2848],
@@ -820,7 +4060,232 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "southern-ridges-landmarks-v2",
+    id: "southern-ridges-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forest Walk",
+                  "text": "Dieser 1,3 Kilometer lange erhöhte Stahlsteg ist ein wichtiges Verbindungsstück der Southern Ridges und führt direkt durch das üppige Blätterdach der Sekundärwälder.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803022,
+                        1.28
+                  ]
+            },
+            {
+                  "name": "Mizuma Gallery",
+                  "text": "Diese zeitgenössische Galerie befindet sich im Kunstzentrum Gillman Barracks und fördert progressive Kunstwerke japanischer und regionaler asiatischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        103.805036,
+                        1.27922
+                  ]
+            },
+            {
+                  "name": "Art Outreach",
+                  "text": "Dieser Ort fungiert als gemeinnützige Organisation im Kunstviertel und konzentriert sich auf Programme zur visuellen Bildung sowie kostenlose öffentliche Kunstführungen.",
+                  "category": "museum",
+                  "coords": [
+                        103.803701,
+                        1.277229
+                  ]
+            },
+            {
+                  "name": "ShanghART Gallery",
+                  "text": "Als ausländische Niederlassung einer großen chinesischen Kunstinstitution zeigt dieser Raum großformatige Installationen und avantgardistische Werke von Festlandkünstlern.",
+                  "category": "museum",
+                  "coords": [
+                        103.804378,
+                        1.278312
+                  ]
+            },
+            {
+                  "name": "HortPark",
+                  "text": "Dieser weitläufige Park gilt als wichtigstes Gartenbauzentrum der Southern Ridges und bringt Besuchern durch seine wunderschön kuratierten Blumenschaugärten die Natur näher.",
+                  "category": "park",
+                  "coords": [
+                        103.799327,
+                        1.279089
+                  ]
+            },
+            {
+                  "name": "NTU Centre for Contemporary Art Singapore",
+                  "text": "Diese Institution fungiert als nationales Forschungszentrum in einem ehemaligen Militärlager und fördert durch ihre Residenzen für zeitgenössische Kunst und Ausstellungen den kritischen Diskurs.",
+                  "category": "cultural",
+                  "coords": [
+                        103.804212,
+                        1.274468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forest Walk",
+                  "text": "A Southern Ridges létfontosságú láncszemét alkotó 1,3 kilométer hosszú, megemelt acélsétány egyenesen a másodlagos erdők buja lombkoronáján halad keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803022,
+                        1.28
+                  ]
+            },
+            {
+                  "name": "Mizuma Gallery",
+                  "text": "A Gillman Barracks művészeti klaszterben található kortárs galéria japán és regionális ázsiai művészek progresszív alkotásait támogatja.",
+                  "category": "museum",
+                  "coords": [
+                        103.805036,
+                        1.27922
+                  ]
+            },
+            {
+                  "name": "Art Outreach",
+                  "text": "A művészeti negyedben nonprofit szervezetként működő helyszín a vizuális műveltségi programokra és az ingyenes nyilvános művészetoktatási túrákra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        103.803701,
+                        1.277229
+                  ]
+            },
+            {
+                  "name": "ShanghART Gallery",
+                  "text": "Egy jelentős kínai művészeti intézmény tengerentúli kihelyezett egységeként ez a tér nagyszabású installációkat és szárazföldi művészek avantgárd alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.804378,
+                        1.278312
+                  ]
+            },
+            {
+                  "name": "HortPark",
+                  "text": "A Southern Ridges első számú kertészeti központjaként számon tartott hatalmas park gyönyörűen gondozott virágos bemutatókertjein keresztül hozza közelebb a látogatókat a természethez.",
+                  "category": "park",
+                  "coords": [
+                        103.799327,
+                        1.279089
+                  ]
+            },
+            {
+                  "name": "NTU Centre for Contemporary Art Singapore",
+                  "text": "A korábbi katonai táborban nemzeti kutatóközpontként működő intézmény kortárs művészeti rezidenciaprogramjain és kiállításain keresztül ösztönzi a kritikai diskurzust.",
+                  "category": "cultural",
+                  "coords": [
+                        103.804212,
+                        1.274468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forest Walk",
+                  "text": "Formând o legătură crucială în Southern Ridges, această pasarelă metalică suspendată de 1,3 kilometri își face loc direct prin coronamentul luxuriant al pădurilor secundare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803022,
+                        1.28
+                  ]
+            },
+            {
+                  "name": "Mizuma Gallery",
+                  "text": "Situată în cadrul clusterului de artă Gillman Barracks, această galerie contemporană promovează opere de artă progresiste ale artiștilor japonezi și asiatici regionali.",
+                  "category": "museum",
+                  "coords": [
+                        103.805036,
+                        1.27922
+                  ]
+            },
+            {
+                  "name": "Art Outreach",
+                  "text": "Funcționând ca o organizație non-profit în cartierul artelor, această locație se concentrează pe programe de alfabetizare vizuală și tururi educaționale publice gratuite de artă.",
+                  "category": "museum",
+                  "coords": [
+                        103.803701,
+                        1.277229
+                  ]
+            },
+            {
+                  "name": "ShanghART Gallery",
+                  "text": "Ca o avanpost de peste mări al unei importante instituții de artă chineză, acest spațiu expune instalații la scară largă și lucrări avangardiste ale artiștilor continentali.",
+                  "category": "museum",
+                  "coords": [
+                        103.804378,
+                        1.278312
+                  ]
+            },
+            {
+                  "name": "HortPark",
+                  "text": "Poziționat ca un hub principal de grădinărit în Southern Ridges, acest parc vast conectează vizitatorii cu natura prin grădinile sale expoziționale florale frumos amenajate.",
+                  "category": "park",
+                  "coords": [
+                        103.799327,
+                        1.279089
+                  ]
+            },
+            {
+                  "name": "NTU Centre for Contemporary Art Singapore",
+                  "text": "Funcționând ca un centru național de cercetare într-o fostă tabără militară, această instituție stimulează discursul critic prin rezidențele și expozițiile sale de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        103.804212,
+                        1.274468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forest Walk",
+                  "text": "Forming a crucial link in the Southern Ridges, this 1.3-kilometer elevated steel walkway threads its way straight through the lush canopy of secondary forests.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803022,
+                        1.28
+                  ]
+            },
+            {
+                  "name": "Mizuma Gallery",
+                  "text": "Situated within the Gillman Barracks art cluster, this contemporary gallery champions progressive artworks by Japanese and regional Asian artists.",
+                  "category": "museum",
+                  "coords": [
+                        103.805036,
+                        1.27922
+                  ]
+            },
+            {
+                  "name": "Art Outreach",
+                  "text": "Operating as a non-profit organization in the arts precinct, this venue focuses on visual literacy programs and free public art educational tours.",
+                  "category": "museum",
+                  "coords": [
+                        103.803701,
+                        1.277229
+                  ]
+            },
+            {
+                  "name": "ShanghART Gallery",
+                  "text": "As an overseas outpost of a major Chinese art institution, this space displays large-scale installations and avant-garde works by mainland artists.",
+                  "category": "museum",
+                  "coords": [
+                        103.804378,
+                        1.278312
+                  ]
+            },
+            {
+                  "name": "HortPark",
+                  "text": "Positioned as a premier gardening hub in the Southern Ridges, this vast park connects visitors with nature through its beautifully curated floral show gardens.",
+                  "category": "park",
+                  "coords": [
+                        103.799327,
+                        1.279089
+                  ]
+            },
+            {
+                  "name": "NTU Centre for Contemporary Art Singapore",
+                  "text": "Functioning as a national research center within a former military camp, this institution drives critical discourse through its contemporary art residencies and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        103.804212,
+                        1.274468
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "SG-04",
     coords: [103.8040, 1.2800],
@@ -868,7 +4333,772 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "singapore-botanic-gardens-landmarks-v2",
+    id: "singapore-botanic-gardens-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "St George's Church",
+                  "text": "Eine historische anglikanische Kirche, die ursprünglich für das britische Militär im Bereich der Tanglin-Kaserne erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        103.815087,
+                        1.30478
+                  ]
+            },
+            {
+                  "name": "Ginger Garden",
+                  "text": "Eine spezialisierte botanische Attraktion, die eine große Vielfalt an Ingwerpflanzenarten präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815074,
+                        1.310897
+                  ]
+            },
+            {
+                  "name": "Primary Rainforest Urban Walk",
+                  "text": "Ein städtischer Wanderweg, der Besucher durch ein erhaltenes Stück primären tropischen Regenwalds führt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815863,
+                        1.312321
+                  ]
+            },
+            {
+                  "name": "VIP Orchid Garden",
+                  "text": "Ein exklusiver Gartenbereich, der hybride Orchideen zeigt, die nach besuchenden Staatsoberhäuptern und internationalen Prominenten benannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813689,
+                        1.312483
+                  ]
+            },
+            {
+                  "name": "Bambusetum",
+                  "text": "Eine spezialisierte botanische Sammlung, die sich der Präsentation verschiedener Bambusarten widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812879,
+                        1.31129
+                  ]
+            },
+            {
+                  "name": "Forest Discovery Centre",
+                  "text": "Ein Bildungszentrum, das interaktive Ausstellungen über die vielfältigen Waldökosysteme Singapurs bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.810677,
+                        1.313797
+                  ]
+            },
+            {
+                  "name": "Wetlands",
+                  "text": "Ein rekonstruierter Süßwasser-Sumpfwald, in dem es von vielfältigem Wasserpflanzen- und Tierleben wimmelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813873,
+                        1.310183
+                  ]
+            },
+            {
+                  "name": "Learning Forest",
+                  "text": "Ein Netzwerk von erhöhten Holzstegen, das es Besuchern ermöglicht, verschiedene Schichten des tropischen Regenwaldökosystems zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814229,
+                        1.309174
+                  ]
+            },
+            {
+                  "name": "Hoya House",
+                  "text": "Ein Gewächshaus, das speziell der Präsentation von kletternden und rankenden Wachsblumen, den sogenannten Hoyas, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816253,
+                        1.309965
+                  ]
+            },
+            {
+                  "name": "Marsh Garden",
+                  "text": "Eine nachgebildete Sumpfumgebung, in der spezialisierte Sumpf- und Wasserpflanzen gedeihen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817048,
+                        1.306808
+                  ]
+            },
+            {
+                  "name": "CDL Green Gallery",
+                  "text": "Eine umweltfreundliche Ausstellungsgalerie, die mit nachhaltigen Materialien wie Hanfbeton errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        103.817735,
+                        1.308369
+                  ]
+            },
+            {
+                  "name": "Plant House",
+                  "text": "Ein traditionelles Gewächshaus, das empfindliche und historisch bedeutsame tropische Pflanzenexemplare schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817494,
+                        1.310114
+                  ]
+            },
+            {
+                  "name": "Kwok Gallery",
+                  "text": "Eine überdachte Galerie, die eine wechselnde Auswahl an botanischer Geschichte und natürlichen Artefakten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.830202,
+                        1.30541
+                  ]
+            },
+            {
+                  "name": "Evolution Garden",
+                  "text": "Ein chronologischer Gartenpfad, der die Geschichte der Pflanzenentwicklung erzählt, komplett mit alten Palmfarnen und hochaufragenden Baumfarnen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815862,
+                        1.316789
+                  ]
+            },
+            {
+                  "name": "Singapore Botanic Gardens",
+                  "text": "Ein UNESCO-Weltkulturerbe, das üppige tropische Gärten umfasst, deren botanische Geschichte über 165 Jahre zurückreicht.",
+                  "category": "park",
+                  "coords": [
+                        103.815969,
+                        1.314087
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Symphony Stage",
+                  "text": "Ein malerischer Veranstaltungsort, der auf einer kleinen, von Seerosen umgebenen Insel mitten im Symphony Lake erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815044,
+                        1.313753
+                  ]
+            },
+            {
+                  "name": "OMF International",
+                  "text": "Das Hauptquartier einer internationalen protestantisch-christlichen Missionsgesellschaft, die historisch in Ostasien verwurzelt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.81856,
+                        1.309336
+                  ]
+            },
+            {
+                  "name": "St Francis Xavier Chapel",
+                  "text": "Eine katholisch-christliche Kapelle, die den lokalen Gläubigen in der Nähe der botanischen Gärten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804936,
+                        1.318393
+                  ]
+            },
+            {
+                  "name": "St. John's Chapel",
+                  "text": "Eine christliche Kapelle, die regelmäßige Gottesdienste und Gemeindeunterstützung in der Nähe der botanischen Gärten anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809479,
+                        1.319455
+                  ]
+            },
+            {
+                  "name": "International Baptist Church",
+                  "text": "Eine internationale christliche Baptistenkirche, die sich an eine englischsprachige Gemeinde aus Expats und Einheimischen richtet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.806245,
+                        1.317677
+                  ]
+            },
+            {
+                  "name": "Empress Market",
+                  "text": "Ein belebter traditioneller Frischmarkt und Hawker-Centre, der authentisches lokales Street Food serviert.",
+                  "category": "cultural",
+                  "coords": [
+                        103.805633,
+                        1.316253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St George's Church",
+                  "text": "Történelmi anglikán templom, amely eredetileg a brit hadsereg számára épült a Tanglin laktanya területén.",
+                  "category": "religious",
+                  "coords": [
+                        103.815087,
+                        1.30478
+                  ]
+            },
+            {
+                  "name": "Ginger Garden",
+                  "text": "Különleges botanikai látványosság, amely a gyömbérnövények széles választékát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815074,
+                        1.310897
+                  ]
+            },
+            {
+                  "name": "Primary Rainforest Urban Walk",
+                  "text": "Városi sétaút, amely egy fennmaradt elsődleges trópusi esőerdőn vezeti át a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815863,
+                        1.312321
+                  ]
+            },
+            {
+                  "name": "VIP Orchid Garden",
+                  "text": "Exkluzív kertrész, ahol az idelátogató államfőkről és nemzetközi hírességekről elnevezett hibrid orchideákat mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813689,
+                        1.312483
+                  ]
+            },
+            {
+                  "name": "Bambusetum",
+                  "text": "Különféle bambuszfajok bemutatására szentelt speciális botanikai gyűjtemény.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812879,
+                        1.31129
+                  ]
+            },
+            {
+                  "name": "Forest Discovery Centre",
+                  "text": "Oktatási központ, amely interaktív kiállításokat kínál Szingapúr változatos erdei ökoszisztémáiról.",
+                  "category": "landmark",
+                  "coords": [
+                        103.810677,
+                        1.313797
+                  ]
+            },
+            {
+                  "name": "Wetlands",
+                  "text": "Rekonstruált édesvízi mocsári erdei élőhely, amely hemzseg a változatos vízi növény- és állatvilágtól.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813873,
+                        1.310183
+                  ]
+            },
+            {
+                  "name": "Learning Forest",
+                  "text": "Magasított pallókból álló hálózat, amely lehetővé teszi a látogatók számára a trópusi esőerdő ökoszisztémájának különböző rétegeinek felfedezését.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814229,
+                        1.309174
+                  ]
+            },
+            {
+                  "name": "Hoya House",
+                  "text": "Egy üvegház, amelyet kifejezetten a Hoya néven ismert kúszó viaszvirágok bemutatására hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816253,
+                        1.309965
+                  ]
+            },
+            {
+                  "name": "Marsh Garden",
+                  "text": "Rekonstruált mocsaras környezet, amely speciális mocsári és vízi növényzetet táplál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817048,
+                        1.306808
+                  ]
+            },
+            {
+                  "name": "CDL Green Gallery",
+                  "text": "Környezetbarát kiállítógaléria, amely fenntartható anyagokból, például kenderbetonból épült.",
+                  "category": "museum",
+                  "coords": [
+                        103.817735,
+                        1.308369
+                  ]
+            },
+            {
+                  "name": "Plant House",
+                  "text": "Hagyományos üvegházszerkezet, amely finom és történelmi jelentőségű trópusi növénypéldányokat véd.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817494,
+                        1.310114
+                  ]
+            },
+            {
+                  "name": "Kwok Gallery",
+                  "text": "Fedett galéria, amely a botanikai történelem és természeti leletek változó válogatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.830202,
+                        1.30541
+                  ]
+            },
+            {
+                  "name": "Evolution Garden",
+                  "text": "A növények evolúciójának történetét elbeszélő, időrendi kerti ösvény, tele ősi cikászokkal és magasodó páfrányfákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815862,
+                        1.316789
+                  ]
+            },
+            {
+                  "name": "Singapore Botanic Gardens",
+                  "text": "Egy UNESCO világörökségi helyszín, amelynek buja trópusi kertjei több mint 165 éves botanikai múltra tekintenek vissza.",
+                  "category": "park",
+                  "coords": [
+                        103.815969,
+                        1.314087
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Symphony Stage",
+                  "text": "Festői koncerthelyszín, amely egy kis liliomos szigetre épült a Symphony-tó közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815044,
+                        1.313753
+                  ]
+            },
+            {
+                  "name": "OMF International",
+                  "text": "Egy történelmileg Kelet-Ázsiában gyökerező nemzetközi protestáns keresztény missziós társaság központja.",
+                  "category": "religious",
+                  "coords": [
+                        103.81856,
+                        1.309336
+                  ]
+            },
+            {
+                  "name": "St Francis Xavier Chapel",
+                  "text": "Katolikus keresztény kápolna, amely a botanikus kertek közelében lévő helyi hívőket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804936,
+                        1.318393
+                  ]
+            },
+            {
+                  "name": "St. John's Chapel",
+                  "text": "Keresztény kápolna, amely rendszeres istentiszteleteket és közösségi támogatást kínál a botanikus kertek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809479,
+                        1.319455
+                  ]
+            },
+            {
+                  "name": "International Baptist Church",
+                  "text": "Nemzetközi keresztény baptista templom, amely a külföldi és a helyi angol nyelvű gyülekezetet egyaránt kiszolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.806245,
+                        1.317677
+                  ]
+            },
+            {
+                  "name": "Empress Market",
+                  "text": "Nyüzsgő hagyományos piac és ételudvar, ahol autentikus helyi utcai ételeket szolgálnak fel.",
+                  "category": "cultural",
+                  "coords": [
+                        103.805633,
+                        1.316253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St George's Church",
+                  "text": "O biserică anglicană istorică construită inițial pentru armata britanică în zona cazărmilor Tanglin.",
+                  "category": "religious",
+                  "coords": [
+                        103.815087,
+                        1.30478
+                  ]
+            },
+            {
+                  "name": "Ginger Garden",
+                  "text": "O atracție botanică specializată care prezintă o mare varietate de specii de plante de ghimbir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815074,
+                        1.310897
+                  ]
+            },
+            {
+                  "name": "Primary Rainforest Urban Walk",
+                  "text": "Un traseu pietonal urban care ghidează vizitatorii printr-o zonă conservată de pădure tropicală primară.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815863,
+                        1.312321
+                  ]
+            },
+            {
+                  "name": "VIP Orchid Garden",
+                  "text": "O zonă de grădină exclusivistă care expune orhidee hibride numite după șefi de stat și celebrități internaționale aflate în vizită.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813689,
+                        1.312483
+                  ]
+            },
+            {
+                  "name": "Bambusetum",
+                  "text": "O colecție botanică specializată dedicată prezentării diverselor specii de bambus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812879,
+                        1.31129
+                  ]
+            },
+            {
+                  "name": "Forest Discovery Centre",
+                  "text": "Un centru educațional care oferă expoziții interactive despre ecosistemele forestiere variate din Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.810677,
+                        1.313797
+                  ]
+            },
+            {
+                  "name": "Wetlands",
+                  "text": "Un habitat forestier de zone umede de apă dulce reconstruit, plin de o floră și faună acvatică diversă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813873,
+                        1.310183
+                  ]
+            },
+            {
+                  "name": "Learning Forest",
+                  "text": "O rețea de poteci suspendate care permite vizitatorilor să exploreze diferitele niveluri ale ecosistemului pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814229,
+                        1.309174
+                  ]
+            },
+            {
+                  "name": "Hoya House",
+                  "text": "O seră dedicată în mod special expunerii plantelor de ceară agățătoare, cunoscute sub numele de Hoya.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816253,
+                        1.309965
+                  ]
+            },
+            {
+                  "name": "Marsh Garden",
+                  "text": "Un mediu mlăștinos recreat care hrănește o vegetație palustră și acvatică specializată.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817048,
+                        1.306808
+                  ]
+            },
+            {
+                  "name": "CDL Green Gallery",
+                  "text": "O galerie expozițională ecologică construită cu materiale durabile, precum betonul de cânepă.",
+                  "category": "museum",
+                  "coords": [
+                        103.817735,
+                        1.308369
+                  ]
+            },
+            {
+                  "name": "Plant House",
+                  "text": "O seră tradițională care adăpostește specimene delicate și semnificative istoric de plante tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817494,
+                        1.310114
+                  ]
+            },
+            {
+                  "name": "Kwok Gallery",
+                  "text": "O galerie interioară care expune o selecție rotativă de istorie botanică și artefacte naturale.",
+                  "category": "museum",
+                  "coords": [
+                        103.830202,
+                        1.30541
+                  ]
+            },
+            {
+                  "name": "Evolution Garden",
+                  "text": "Un traseu de grădină cronologic care spune povestea evoluției plantelor, completat cu cicade antice și ferigi arborescente falnice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815862,
+                        1.316789
+                  ]
+            },
+            {
+                  "name": "Singapore Botanic Gardens",
+                  "text": "Un sit al Patrimoniului Mondial UNESCO care cuprinde grădini tropicale luxuriante a căror istorie botanică depășește 165 de ani.",
+                  "category": "park",
+                  "coords": [
+                        103.815969,
+                        1.314087
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Symphony Stage",
+                  "text": "Un loc pitoresc pentru spectacole construit pe o mică insulă cu nuferi în mijlocul Lacului Symphony.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815044,
+                        1.313753
+                  ]
+            },
+            {
+                  "name": "OMF International",
+                  "text": "Sediul unei societăți misionare creștine protestante internaționale, cu rădăcini istorice în Asia de Est.",
+                  "category": "religious",
+                  "coords": [
+                        103.81856,
+                        1.309336
+                  ]
+            },
+            {
+                  "name": "St Francis Xavier Chapel",
+                  "text": "O capelă creștină catolică care deservește credincioșii locali în apropierea grădinilor botanice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804936,
+                        1.318393
+                  ]
+            },
+            {
+                  "name": "St. John's Chapel",
+                  "text": "O capelă creștină care oferă slujbe regulate și sprijin comunitar în apropierea grădinilor botanice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809479,
+                        1.319455
+                  ]
+            },
+            {
+                  "name": "International Baptist Church",
+                  "text": "O biserică baptistă creștină internațională care se adresează unei congregații vorbitoare de limba engleză, formată din expatriați și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        103.806245,
+                        1.317677
+                  ]
+            },
+            {
+                  "name": "Empress Market",
+                  "text": "O piață tradițională plină de viață și un centru alimentar care servește mâncare stradală locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        103.805633,
+                        1.316253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St George's Church",
+                  "text": "A historic Anglican church originally built to serve the British military in the Tanglin barracks area.",
+                  "category": "religious",
+                  "coords": [
+                        103.815087,
+                        1.30478
+                  ]
+            },
+            {
+                  "name": "Ginger Garden",
+                  "text": "A specialized botanical attraction featuring a wide variety of ginger plant species.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815074,
+                        1.310897
+                  ]
+            },
+            {
+                  "name": "Primary Rainforest Urban Walk",
+                  "text": "An urban walking trail guiding visitors through a preserved patch of primary tropical rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815863,
+                        1.312321
+                  ]
+            },
+            {
+                  "name": "VIP Orchid Garden",
+                  "text": "An exclusive garden area displaying hybrid orchids named after visiting heads of state and international celebrities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813689,
+                        1.312483
+                  ]
+            },
+            {
+                  "name": "Bambusetum",
+                  "text": "A specialized botanical collection dedicated to showcasing diverse species of bamboo.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812879,
+                        1.31129
+                  ]
+            },
+            {
+                  "name": "Forest Discovery Centre",
+                  "text": "An educational center offering interactive exhibits about Singapore's varied forest ecosystems.",
+                  "category": "landmark",
+                  "coords": [
+                        103.810677,
+                        1.313797
+                  ]
+            },
+            {
+                  "name": "Wetlands",
+                  "text": "A reconstructed freshwater forest wetland habitat teeming with diverse aquatic plant and animal life.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813873,
+                        1.310183
+                  ]
+            },
+            {
+                  "name": "Learning Forest",
+                  "text": "A network of elevated boardwalks allowing visitors to explore different layers of the tropical rainforest ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814229,
+                        1.309174
+                  ]
+            },
+            {
+                  "name": "Hoya House",
+                  "text": "A glasshouse specifically dedicated to showcasing climbing and trailing wax plants known as Hoyas.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816253,
+                        1.309965
+                  ]
+            },
+            {
+                  "name": "Marsh Garden",
+                  "text": "A recreated swampy environment nurturing specialized marshland and aquatic vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817048,
+                        1.306808
+                  ]
+            },
+            {
+                  "name": "CDL Green Gallery",
+                  "text": "An eco-friendly exhibition gallery constructed with sustainable materials like hempcrete.",
+                  "category": "museum",
+                  "coords": [
+                        103.817735,
+                        1.308369
+                  ]
+            },
+            {
+                  "name": "Plant House",
+                  "text": "A traditional glasshouse structure sheltering delicate and historically significant tropical plant specimens.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817494,
+                        1.310114
+                  ]
+            },
+            {
+                  "name": "Kwok Gallery",
+                  "text": "An indoor gallery displaying a rotating selection of botanical history and natural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        103.830202,
+                        1.30541
+                  ]
+            },
+            {
+                  "name": "Evolution Garden",
+                  "text": "A chronological garden trail telling the story of plant evolution, complete with ancient cycads and towering tree ferns.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815862,
+                        1.316789
+                  ]
+            },
+            {
+                  "name": "Singapore Botanic Gardens",
+                  "text": "A UNESCO World Heritage site featuring lush tropical gardens with a botanical history spanning over 165 years.",
+                  "category": "park",
+                  "coords": [
+                        103.815969,
+                        1.314087
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Symphony Stage",
+                  "text": "A picturesque performance venue built on a small lily-padded islet in the middle of Symphony Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815044,
+                        1.313753
+                  ]
+            },
+            {
+                  "name": "OMF International",
+                  "text": "The headquarters for an international Protestant Christian missionary society historically rooted in East Asia.",
+                  "category": "religious",
+                  "coords": [
+                        103.81856,
+                        1.309336
+                  ]
+            },
+            {
+                  "name": "St Francis Xavier Chapel",
+                  "text": "A Catholic Christian chapel serving local worshippers near the botanic gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804936,
+                        1.318393
+                  ]
+            },
+            {
+                  "name": "St. John's Chapel",
+                  "text": "A Christian chapel offering regular services and community support near the botanic gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809479,
+                        1.319455
+                  ]
+            },
+            {
+                  "name": "International Baptist Church",
+                  "text": "An international Christian Baptist church catering to an expatriate and local English-speaking congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.806245,
+                        1.317677
+                  ]
+            },
+            {
+                  "name": "Empress Market",
+                  "text": "A bustling traditional wet market and hawker centre serving authentic local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        103.805633,
+                        1.316253
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SG-01",
     coords: [103.8158, 1.3138],
@@ -916,7 +5146,124 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
     },
   },
   {
-    id: "civilian-war-memorial-landmarks-v2",
+    id: "civilian-war-memorial-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stamford Bridge",
+                  "text": "Die verstreuten Ruinen einer alten Brückenstruktur, die einst als historischer Übergangspunkt diente.",
+                  "category": "historical",
+                  "coords": [
+                        103.85472,
+                        1.29196
+                  ]
+            },
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Dieses historische Theater aus dem Jahr 1930 zeichnet sich durch seine neoklassizistische Fassade und die ikonische, mit dem Tierkreis verzierte Kuppel aus.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851188,
+                        1.293496
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Cathedral",
+                  "text": "Diese anglikanische Kultstätte wurde 1862 geweiht und ist ein architektonisches Meisterwerk, das mit strahlend weißem Madras-Chunam-Putz überzogen ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.852245,
+                        1.292337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stamford Bridge",
+                  "text": "Egy régi hídszerkezet elszórt romjai, amely egykor történelmi átkelőhelyként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        103.85472,
+                        1.29196
+                  ]
+            },
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Az 1930-ban épült történelmi színház neoklasszikus homlokzatával és ikonikus, csillagjegyekkel díszített kupolájával tűnik ki.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851188,
+                        1.293496
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Cathedral",
+                  "text": "Az 1862-ben felszentelt anglikán istentiszteleti hely egy építészeti remekmű, amelyet ragyogó hófehér Madras-chunam vakolattal vontak be.",
+                  "category": "religious",
+                  "coords": [
+                        103.852245,
+                        1.292337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stamford Bridge",
+                  "text": "Ruinele împrăștiate ale unei vechi structuri de pod care a servit cândva drept punct istoric de trecere.",
+                  "category": "historical",
+                  "coords": [
+                        103.85472,
+                        1.29196
+                  ]
+            },
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Construit în 1930, acest teatru istoric se distinge prin fațada sa neoclasică și cupola iconică decorată cu semne zodiacale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851188,
+                        1.293496
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Cathedral",
+                  "text": "Consacrat în 1862, acest lăcaș de cult anglican este o capodoperă arhitecturală acoperită cu tencuială albă strălucitoare Madras chunam.",
+                  "category": "religious",
+                  "coords": [
+                        103.852245,
+                        1.292337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stamford Bridge",
+                  "text": "The scattered ruins of an old bridge structure that once served as a historical crossing point.",
+                  "category": "historical",
+                  "coords": [
+                        103.85472,
+                        1.29196
+                  ]
+            },
+            {
+                  "name": "Capitol Theatre",
+                  "text": "Built in 1930, this historic theatre is distinguished by its neoclassical facade and iconic zodiac-decorated dome.",
+                  "category": "cultural",
+                  "coords": [
+                        103.851188,
+                        1.293496
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Cathedral",
+                  "text": "Consecrated in 1862, this Anglican place of worship is an architectural masterpiece coated in brilliant white Madras chunam plaster.",
+                  "category": "religious",
+                  "coords": [
+                        103.852245,
+                        1.292337
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "SG-01",
     coords: [103.8540, 1.2924],

@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const poiExtraSingaporeReliefV2: POI[] = [
   {
-    id: "sg-bukit-timah-hill-relief-v2",
+    id: "sg-bukit-timah-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brick Walls Stairs Ruins (NBE)",
+                  "text": "Die Brick Walls Stairs Ruins (NBE) bestehen aus verfallendem Mauerwerk und Resten einer Treppe inmitten der Hügelvegetation.",
+                  "category": "historical",
+                  "coords": [
+                        103.76871,
+                        1.350422
+                  ]
+            },
+            {
+                  "name": "Local market",
+                  "text": "Dieser lokale Markt in der Nähe von Bukit Timah bietet an traditionellen Ständen eine Vielzahl von frischen Lebensmitteln und Waren des täglichen Bedarfs.",
+                  "category": "landmark",
+                  "coords": [
+                        103.757501,
+                        1.348262
+                  ]
+            },
+            {
+                  "name": "St Mary of the Angels Church",
+                  "text": "Die Kirche St Mary of the Angels ist eine bemerkenswerte katholische Pfarrkirche, die für ihre markante moderne Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.759324,
+                        1.347201
+                  ]
+            },
+            {
+                  "name": "Beeh Low See Buddhist Temple",
+                  "text": "Der buddhistische Tempel Beeh Low See verfügt über lebendige Altäre und traditionelle Ikonografie, die typisch für die lokale buddhistische Anbetung sind.",
+                  "category": "religious",
+                  "coords": [
+                        103.773536,
+                        1.339263
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Nature Park",
+                  "text": "Der Bukit Batok Nature Park ist eine ruhige Grünfläche auf einem stillgelegten Steinbruchgelände und verfügt über ein großes Wasserbecken.",
+                  "category": "natural",
+                  "coords": [
+                        103.764206,
+                        1.350143
+                  ]
+            },
+            {
+                  "name": "Hindhede Nature Park",
+                  "text": "Der Hindhede Nature Park ist ein familienfreundliches Reservat mit malerischem Blick auf einen tiefen Steinbruchsee, der von steilen Klippen umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.776059,
+                        1.350332
+                  ]
+            },
+            {
+                  "name": "Church of Singapore",
+                  "text": "Die Church of Singapore ist ein christliches Gotteshaus, das die lokale Gemeinde zu regelmäßigen Gottesdiensten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775657,
+                        1.34464
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Monastery",
+                  "text": "Das Mahabodhi-Kloster ist ein ruhiger buddhistischer Komplex, der mit traditionellen architektonischen Motiven für Meditation und Lehre gestaltet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.774027,
+                        1.341226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brick Walls Stairs Ruins (NBE)",
+                  "text": "A téglafalak és lépcsők romjai (NBE) a domb növényzete között megbúvó omladozó téglafalakból és egy lépcső maradványaiból állnak.",
+                  "category": "historical",
+                  "coords": [
+                        103.76871,
+                        1.350422
+                  ]
+            },
+            {
+                  "name": "Local market",
+                  "text": "Ez a Bukit Timah közelében található helyi piac különféle friss élelmiszereket és mindennapi szükségleti cikkeket kínál hagyományos standokon.",
+                  "category": "landmark",
+                  "coords": [
+                        103.757501,
+                        1.348262
+                  ]
+            },
+            {
+                  "name": "St Mary of the Angels Church",
+                  "text": "Az Angyalok Szűz Máriája templom egy jelentős katolikus plébániatemplom, amely jellegzetes modern építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        103.759324,
+                        1.347201
+                  ]
+            },
+            {
+                  "name": "Beeh Low See Buddhist Temple",
+                  "text": "A Beeh Low See buddhista templom élénk színű oltárokkal és a helyi buddhista tiszteletadásra jellemző hagyományos ikonográfiával rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        103.773536,
+                        1.339263
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Nature Park",
+                  "text": "A Bukit Batok Natúrpark egy elhagyott kőbánya területén kialakított nyugodt zöldterület, amelynek közepén egy nagy tükröződő medence található.",
+                  "category": "natural",
+                  "coords": [
+                        103.764206,
+                        1.350143
+                  ]
+            },
+            {
+                  "name": "Hindhede Nature Park",
+                  "text": "A Hindhede Natúrpark egy családbarát rezervátum, amely festői kilátást nyújt a meredek sziklákkal körülvett, mély kőbányatóra.",
+                  "category": "natural",
+                  "coords": [
+                        103.776059,
+                        1.350332
+                  ]
+            },
+            {
+                  "name": "Church of Singapore",
+                  "text": "A szingapúri egyház egy keresztény istentiszteleti hely, amely rendszeres istentiszteletekre gyűjti össze a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775657,
+                        1.34464
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Monastery",
+                  "text": "A Mahabodhi kolostor egy békés buddhista komplexum, amelyet hagyományos építészeti motívumokkal terveztek a meditáció és a tanulás céljára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.774027,
+                        1.341226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brick Walls Stairs Ruins (NBE)",
+                  "text": "Ruinele zidurilor de cărămidă și ale scărilor (NBE) constau din zidărie deteriorată și rămășițele unei scări în mijlocul vegetației dealului.",
+                  "category": "historical",
+                  "coords": [
+                        103.76871,
+                        1.350422
+                  ]
+            },
+            {
+                  "name": "Local market",
+                  "text": "Această piață locală de lângă Bukit Timah oferă o varietate de produse alimentare proaspete și necesități zilnice la tarabele tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.757501,
+                        1.348262
+                  ]
+            },
+            {
+                  "name": "St Mary of the Angels Church",
+                  "text": "Biserica Sfânta Maria a Îngerilor este o parohie catolică notabilă, cunoscută pentru arhitectura sa modernă distinctă.",
+                  "category": "religious",
+                  "coords": [
+                        103.759324,
+                        1.347201
+                  ]
+            },
+            {
+                  "name": "Beeh Low See Buddhist Temple",
+                  "text": "Templul budist Beeh Low See prezintă altare vibrante și o iconografie tradițională tipică cultului budist local.",
+                  "category": "religious",
+                  "coords": [
+                        103.773536,
+                        1.339263
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Nature Park",
+                  "text": "Parcul Natural Bukit Batok este un spațiu verde liniștit amenajat pe locul unei cariere abandonate, având un bazin mare de reflecție.",
+                  "category": "natural",
+                  "coords": [
+                        103.764206,
+                        1.350143
+                  ]
+            },
+            {
+                  "name": "Hindhede Nature Park",
+                  "text": "Parcul Natural Hindhede este o rezervație potrivită pentru familii, care oferă vederi pitorești la un lac adânc de carieră înconjurat de stânci abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        103.776059,
+                        1.350332
+                  ]
+            },
+            {
+                  "name": "Church of Singapore",
+                  "text": "Biserica din Singapore este un lăcaș de cult creștin care adună comunitatea locală pentru slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775657,
+                        1.34464
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Monastery",
+                  "text": "Mănăstirea Mahabodhi este un complex budist liniștit, proiectat cu motive arhitecturale tradiționale pentru meditație și învățare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.774027,
+                        1.341226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brick Walls Stairs Ruins (NBE)",
+                  "text": "The Brick Walls Stairs Ruins (NBE) consist of deteriorating brickwork and remnants of a staircase amidst the hill's vegetation.",
+                  "category": "historical",
+                  "coords": [
+                        103.76871,
+                        1.350422
+                  ]
+            },
+            {
+                  "name": "Local market",
+                  "text": "This local market near Bukit Timah offers a variety of fresh groceries and daily necessities at traditional stalls.",
+                  "category": "landmark",
+                  "coords": [
+                        103.757501,
+                        1.348262
+                  ]
+            },
+            {
+                  "name": "St Mary of the Angels Church",
+                  "text": "St Mary of the Angels Church is a notable Catholic parish church known for its distinct modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.759324,
+                        1.347201
+                  ]
+            },
+            {
+                  "name": "Beeh Low See Buddhist Temple",
+                  "text": "The Beeh Low See Buddhist Temple features vibrant altars and traditional iconography typical of local Buddhist worship.",
+                  "category": "religious",
+                  "coords": [
+                        103.773536,
+                        1.339263
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Nature Park",
+                  "text": "Bukit Batok Nature Park is a serene green space developed on an abandoned quarry site, featuring a large reflecting pool.",
+                  "category": "natural",
+                  "coords": [
+                        103.764206,
+                        1.350143
+                  ]
+            },
+            {
+                  "name": "Hindhede Nature Park",
+                  "text": "Hindhede Nature Park is a family-friendly reserve offering scenic views of a deep quarry lake surrounded by steep cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        103.776059,
+                        1.350332
+                  ]
+            },
+            {
+                  "name": "Church of Singapore",
+                  "text": "The Church of Singapore is a Christian place of worship that gathers the local community for regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775657,
+                        1.34464
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Monastery",
+                  "text": "The Mahabodhi Monastery is a tranquil Buddhist complex designed with traditional architectural motifs for meditation and learning.",
+                  "category": "landmark",
+                  "coords": [
+                        103.774027,
+                        1.341226
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SG-01",
     coords: [103.7782, 1.3483],
@@ -51,7 +348,520 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-mount-faber-park-relief-v2",
+    id: "sg-mount-faber-park-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Banyan Tree",
+                  "text": "Der Big Banyan Tree ist ein massives Naturdenkmal mit einem riesigen Blätterdach, das von zahlreichen hängenden Luftwurzeln getragen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819962,
+                        1.270229
+                  ]
+            },
+            {
+                  "name": "Polens Glücksglocken (Dar Pomorza)",
+                  "text": "Polens Glücksglocken, die ursprünglich vom Schiff Dar Pomorza stammen, dienen als symbolisches maritimes Denkmal auf dem Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818969,
+                        1.27166
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Dieser kleine Schrein auf einem Hügel bietet einen ruhigen Ort unter freiem Himmel für Opfergaben und friedliche Kontemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817179,
+                        1.273033
+                  ]
+            },
+            {
+                  "name": "Henderson Waves",
+                  "text": "Henderson Waves ist eine markante, wellenförmige Fußgängerbrücke, die für ihre gebogenen Holzrippen und malerischen Baumkronenpfade bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815414,
+                        1.276051
+                  ]
+            },
+            {
+                  "name": "Storage Ruin",
+                  "text": "Die Storage Ruin zeigt die verwitterten, überwachsenen Überreste einer historischen utilitaristischen Gebäudestruktur am Hang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81336,
+                        1.272132
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Diese verstreuten Ruinen bieten einen Einblick in die moosbedeckten, überwachsenen Überreste ehemaliger Hangstrukturen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814482,
+                        1.272154
+                  ]
+            },
+            {
+                  "name": "Seah Im Air Raid Shelter",
+                  "text": "Der Seah Im Air Raid Shelter ist ein verlassener unterirdischer Vorkriegsbunker, der tief im bewaldeten Hang verborgen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817373,
+                        1.268875
+                  ]
+            },
+            {
+                  "name": "Abandoned Motorbike",
+                  "text": "Dieses verlassene Motorrad ist ein verrostetes mechanisches Relikt, das im dichten tropischen Dickicht stehen gelassen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819216,
+                        1.268565
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin",
+                  "text": "Die Masjid Al-Amin ist ein markantes islamisches Gotteshaus, das für seine unverwechselbare Architektur im Sumatra-Stil und seine rote Backsteinfassade bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.819265,
+                        1.275184
+                  ]
+            },
+            {
+                  "name": "Masjid Tememggong Daeng Ibrahim",
+                  "text": "Diese historische, von der königlichen Familie von Johor finanzierte Moschee liegt am Fuße des Mount Faber nahe einem königlichen Mausoleum.",
+                  "category": "religious",
+                  "coords": [
+                        103.824375,
+                        1.266489
+                  ]
+            },
+            {
+                  "name": "Keramat Radin Mas",
+                  "text": "Dieser friedliche muslimische Schrein markiert die legendäre Ruhestätte von Radin Mas Ayu, einer verehrten javanischen Prinzessin.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824019,
+                        1.269986
+                  ]
+            },
+            {
+                  "name": "Danish Seamen's Church",
+                  "text": "Diese christliche Kirche, die in einem schwarz-weißen Bungalow aus der Kolonialzeit untergebracht ist, dient der örtlichen dänischen und skandinavischen maritimen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814845,
+                        1.27327
+                  ]
+            },
+            {
+                  "name": "Christian Community Chapel",
+                  "text": "Diese moderne christliche Kapelle dient den spirituellen Bedürfnissen des umliegenden Wohnviertels mit regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813665,
+                        1.269884
+                  ]
+            },
+            {
+                  "name": "Telok Ayer Chinese Methodist Church",
+                  "text": "Dieses christliche Heiligtum richtet sich an die chinesischsprachige methodistische Gemeinde in einem gut strukturierten modernen Kirchengebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814651,
+                        1.26933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Banyan Tree",
+                  "text": "A Big Banyan Tree egy hatalmas természeti nevezetesség, amelynek hatalmas lombkoronáját számos lelógó léggyökér támasztja alá.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819962,
+                        1.270229
+                  ]
+            },
+            {
+                  "name": "Poland's Bells of Happiness (Dar Pomorza)",
+                  "text": "Lengyelország Boldogság Harangjai, amelyek eredetileg a Dar Pomorza hajóról származnak, szimbolikus tengerészeti emlékműként szolgálnak a dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818969,
+                        1.27166
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Ez a kis hegytetőn lévő szentély csendes, szabadtéri helyet biztosít az áldozatok bemutatásához és a békés elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817179,
+                        1.273033
+                  ]
+            },
+            {
+                  "name": "Henderson Waves",
+                  "text": "A Henderson Waves egy jellegzetes hullámzó gyalogoshíd, amely ívelt fabordáiról és festői lombkoronasétányairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815414,
+                        1.276051
+                  ]
+            },
+            {
+                  "name": "Storage Ruin",
+                  "text": "A Raktárrom egy történelmi haszonelvű épületszerkezet viharvert, benőtt maradványait mutatja be a domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81336,
+                        1.272132
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Ezek az elszórtan elhelyezkedő romok bepillantást engednek az egykori domboldali építmények mohával borított, benőtt maradványaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814482,
+                        1.272154
+                  ]
+            },
+            {
+                  "name": "Seah Im Air Raid Shelter",
+                  "text": "A Seah Im légvédelmi óvóhely egy elhagyatott háború előtti földalatti bunker, amely mélyen az erdős domboldalban rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817373,
+                        1.268875
+                  ]
+            },
+            {
+                  "name": "Abandoned Motorbike",
+                  "text": "Ez az elhagyatott motorkerékpár egy rozsdás mechanikai relikvia, amely a sűrű trópusi aljnövényzet között maradt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819216,
+                        1.268565
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin",
+                  "text": "A Masjid Al-Amin egy kiemelkedő iszlám istentiszteleti hely, amely egyedi szumátrai stílusú építészetéről és vöröstéglás külsejéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        103.819265,
+                        1.275184
+                  ]
+            },
+            {
+                  "name": "Masjid Tememggong Daeng Ibrahim",
+                  "text": "A johori királyi család által finanszírozott történelmi mecset a Mount Faber lábánál, egy királyi mauzóleum közelében fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        103.824375,
+                        1.266489
+                  ]
+            },
+            {
+                  "name": "Keramat Radin Mas",
+                  "text": "Ez a békés muszlim szentély Radin Mas Ayu, egy tisztelt jávai hercegnő legendás nyughelyét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824019,
+                        1.269986
+                  ]
+            },
+            {
+                  "name": "Danish Seamen's Church",
+                  "text": "Egy gyarmati korabeli, fekete-fehér bungalóban kapott helyet ez a keresztény templom, amely a helyi dán és skandináv tengerészeti közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814845,
+                        1.27327
+                  ]
+            },
+            {
+                  "name": "Christian Community Chapel",
+                  "text": "Ez a kortárs keresztény kápolna a környező lakóövezet spirituális igényeit szolgálja ki rendszeres közösségi istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813665,
+                        1.269884
+                  ]
+            },
+            {
+                  "name": "Telok Ayer Chinese Methodist Church",
+                  "text": "Ez a keresztény szentély a kínai ajkú metodista közösséget szolgálja egy jól felépített modern templomépületben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814651,
+                        1.26933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Banyan Tree",
+                  "text": "Arborele Big Banyan este un reper natural masiv, cu un coronament vast susținut de numeroase rădăcini aeriene atârnate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819962,
+                        1.270229
+                  ]
+            },
+            {
+                  "name": "Poland's Bells of Happiness (Dar Pomorza)",
+                  "text": "Clopotele Fericirii din Polonia, originare de pe nava Dar Pomorza, servesc ca monument maritim simbolic pe deal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818969,
+                        1.27166
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Acest mic altar din vârful dealului oferă un loc liniștit, în aer liber, pentru a face ofrande și pentru o contemplație pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817179,
+                        1.273033
+                  ]
+            },
+            {
+                  "name": "Henderson Waves",
+                  "text": "Henderson Waves este un pod pietonal ondulat distinctiv, cunoscut pentru nervurile sale curbate din lemn și plimbările pitorești pe deasupra copacilor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815414,
+                        1.276051
+                  ]
+            },
+            {
+                  "name": "Storage Ruin",
+                  "text": "Ruina Depozitului prezintă rămășițele bătute de vreme și acoperite de vegetație ale unei clădiri utilitare istorice de pe coasta dealului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81336,
+                        1.272132
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Aceste ruine împrăștiate oferă o privire asupra rămășițelor acoperite de mușchi și vegetație ale fostelor structuri de pe deal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814482,
+                        1.272154
+                  ]
+            },
+            {
+                  "name": "Seah Im Air Raid Shelter",
+                  "text": "Adăpostul antiaerian Seah Im este un buncăr subteran abandonat din perioada interbelică, ascuns adânc în versantul împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817373,
+                        1.268875
+                  ]
+            },
+            {
+                  "name": "Abandoned Motorbike",
+                  "text": "Această motocicletă abandonată este o relicvă mecanică ruginită lăsată printre vegetația tropicală densă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819216,
+                        1.268565
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin",
+                  "text": "Masjid Al-Amin este un lăcaș de cult islamic proeminent, cunoscut pentru arhitectura sa distinctă în stil sumatran și exteriorul din cărămidă roșie.",
+                  "category": "religious",
+                  "coords": [
+                        103.819265,
+                        1.275184
+                  ]
+            },
+            {
+                  "name": "Masjid Tememggong Daeng Ibrahim",
+                  "text": "Finanțată de familia regală din Johor, această moschee istorică este situată la poalele Muntelui Faber, lângă un mausoleu regal.",
+                  "category": "religious",
+                  "coords": [
+                        103.824375,
+                        1.266489
+                  ]
+            },
+            {
+                  "name": "Keramat Radin Mas",
+                  "text": "Acest altar musulman liniștit marchează legendarul loc de odihnă al lui Radin Mas Ayu, o venerată prințesă javaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824019,
+                        1.269986
+                  ]
+            },
+            {
+                  "name": "Danish Seamen's Church",
+                  "text": "Găzduită într-un bungalou alb-negru din era colonială, această biserică creștină deservește comunitatea maritimă daneză și scandinavă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814845,
+                        1.27327
+                  ]
+            },
+            {
+                  "name": "Christian Community Chapel",
+                  "text": "Această capelă creștină contemporană deservește nevoile spirituale ale cartierului rezidențial înconjurător prin slujbe comunitare regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813665,
+                        1.269884
+                  ]
+            },
+            {
+                  "name": "Telok Ayer Chinese Methodist Church",
+                  "text": "Acest sanctuar creștin se adresează comunității metodiste vorbitoare de chineză într-o clădire de biserică modernă și bine structurată.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814651,
+                        1.26933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Banyan Tree",
+                  "text": "The Big Banyan Tree is a massive natural landmark featuring a vast canopy supported by numerous hanging aerial roots.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819962,
+                        1.270229
+                  ]
+            },
+            {
+                  "name": "Poland's Bells of Happiness (Dar Pomorza)",
+                  "text": "Poland's Bells of Happiness, originally from the Dar Pomorza ship, serve as a symbolic maritime monument on the hill.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818969,
+                        1.27166
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "This small hilltop shrine provides a quiet, open-air spot for making offerings and peaceful contemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817179,
+                        1.273033
+                  ]
+            },
+            {
+                  "name": "Henderson Waves",
+                  "text": "Henderson Waves is a distinctive undulating pedestrian bridge known for its curved wooden ribs and scenic canopy walks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815414,
+                        1.276051
+                  ]
+            },
+            {
+                  "name": "Storage Ruin",
+                  "text": "The Storage Ruin features the weathered, overgrown remains of a historic utilitarian building structure on the hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81336,
+                        1.272132
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "These scattered ruins offer a glimpse into the moss-covered, overgrown remains of former hillside structures.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814482,
+                        1.272154
+                  ]
+            },
+            {
+                  "name": "Seah Im Air Raid Shelter",
+                  "text": "Seah Im Air Raid Shelter is an abandoned pre-war underground bunker hidden deep within the forested hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817373,
+                        1.268875
+                  ]
+            },
+            {
+                  "name": "Abandoned Motorbike",
+                  "text": "This abandoned motorbike is a rusted mechanical relic left standing among the dense tropical overgrowth.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819216,
+                        1.268565
+                  ]
+            },
+            {
+                  "name": "Al-Amin Mosque",
+                  "text": "Masjid Al-Amin is a prominent Islamic place of worship known for its distinct Sumatran-style architecture and red-brick exterior.",
+                  "category": "religious",
+                  "coords": [
+                        103.819265,
+                        1.275184
+                  ]
+            },
+            {
+                  "name": "Masjid Tememggong Daeng Ibrahim",
+                  "text": "Funded by the Johor royal family, this historic mosque sits at the foot of Mount Faber near a royal mausoleum.",
+                  "category": "religious",
+                  "coords": [
+                        103.824375,
+                        1.266489
+                  ]
+            },
+            {
+                  "name": "Keramat Radin Mas",
+                  "text": "This peaceful Muslim shrine marks the legendary resting place of Radin Mas Ayu, a revered Javanese princess.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824019,
+                        1.269986
+                  ]
+            },
+            {
+                  "name": "Danish Seamen's Church",
+                  "text": "Housed in a colonial-era black-and-white bungalow, this Christian church serves the local Danish and Scandinavian maritime community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814845,
+                        1.27327
+                  ]
+            },
+            {
+                  "name": "Christian Community Chapel",
+                  "text": "This contemporary Christian chapel serves the spiritual needs of the surrounding residential neighborhood with regular community services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813665,
+                        1.269884
+                  ]
+            },
+            {
+                  "name": "Telok Ayer Chinese Methodist Church",
+                  "text": "This Christian sanctuary caters to the Chinese-speaking Methodist community within a well-structured modern church building.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814651,
+                        1.26933
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SG-01",
     coords: [103.8183, 1.2737],
@@ -99,7 +909,124 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
     {
-    id: "sg-macritchie-reservoir-park-relief-v2",
+    id: "sg-macritchie-reservoir-park-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "MacRitchie Reservoir Submerged Boardwalk",
+                  "text": "Dieser einzigartige Holzsteg führt Besucher in MacRitchie direkt an die Wasseroberfläche des Stausees.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831519,
+                        1.341374
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Community Church",
+                  "text": "Eine christliche Gemeindekirche, die zur Glaubensgemeinschaft der Siebenten-Tags-Adventisten gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        103.837479,
+                        1.340051
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Salmah",
+                  "text": "Diese traditionelle muslimische Moschee dient als Gotteshaus für die lokale islamische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831959,
+                        1.334702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MacRitchie Reservoir Submerged Boardwalk",
+                  "text": "Ez az egyedülálló fapallós sétány közvetlenül a MacRitchie-víztározó vízszintje felett vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831519,
+                        1.341374
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Community Church",
+                  "text": "A Hetednapi Adventista egyházhoz tartozó keresztény közösségi templom.",
+                  "category": "landmark",
+                  "coords": [
+                        103.837479,
+                        1.340051
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Salmah",
+                  "text": "Ez a hagyományos muszlim mecset a helyi iszlám közösség istentiszteleti helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831959,
+                        1.334702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MacRitchie Reservoir Submerged Boardwalk",
+                  "text": "Această pasarelă unică de lemn poartă vizitatorii chiar la nivelul apei de pe marginea rezervorului MacRitchie.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831519,
+                        1.341374
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Community Church",
+                  "text": "O biserică comunitară creștină aparținând cultului adventiștilor de ziua a șaptea.",
+                  "category": "landmark",
+                  "coords": [
+                        103.837479,
+                        1.340051
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Salmah",
+                  "text": "Această moschee tradițională musulmană servește drept lăcaș de cult pentru comunitatea islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831959,
+                        1.334702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MacRitchie Reservoir Submerged Boardwalk",
+                  "text": "This unique boardwalk allows visitors to walk close to the water level at the edge of the MacRitchie Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831519,
+                        1.341374
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Community Church",
+                  "text": "A Christian community church belonging to the Seventh-day Adventist denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        103.837479,
+                        1.340051
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Salmah",
+                  "text": "This traditional Muslim mosque serves as a place of worship for the local Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831959,
+                        1.334702
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SG-01",
     coords: [103.8344, 1.3414],
@@ -147,7 +1074,232 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
     {
-    id: "sg-changi-beach-park-relief-v2",
+    id: "sg-changi-beach-park-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jejawi Tower",
+                  "text": "Der Jejawi Tower ist ein hoher Aussichtsturm, der Besuchern aus der Luft einen weiten Blick über die dichten Baumkronen des Küstenwaldes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.989954,
+                        1.409561
+                  ]
+            },
+            {
+                  "name": "Kampong Selabin Well",
+                  "text": "Dieser historische Steinbrunnen ist eine der wenigen erhaltenen Ruinen der ehemaligen Siedlung Kampong Selabin, die hier einst blühte.",
+                  "category": "historical",
+                  "coords": [
+                        104.031481,
+                        1.415583
+                  ]
+            },
+            {
+                  "name": "NS Gallery",
+                  "text": "Die NS Gallery ist ein Militärmuseum, das die Geschichte und Entwicklung des Nationaldienstes anhand von informativen Exponaten und Artefakten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        104.0295,
+                        1.406178
+                  ]
+            },
+            {
+                  "name": "Entrance to Old Tekong Battery",
+                  "text": "Diese Betonruinen markieren den Eingang zu einer ehemaligen Küstenverteidigungsbatterie, die zum Schutz der Meerenge in Kriegszeiten errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        104.05692,
+                        1.399658
+                  ]
+            },
+            {
+                  "name": "Changi Beach Park",
+                  "text": "Der Changi Beach Park ist ein langer Sandstrand, der für seine Grillplätze und die hervorragende Aussicht auf landende Flugzeuge am nahegelegenen Flughafen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        103.990732,
+                        1.391472
+                  ]
+            },
+            {
+                  "name": "Maranatha Bible Presbyterian Church",
+                  "text": "Die Maranatha Bible Presbyterian Church ist ein eigener christlicher Andachtsraum, der regelmäßige Gottesdienste für seine lokale Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.981391,
+                        1.387381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jejawi Tower",
+                  "text": "A Jejawi-torony egy magas kilátó, amely madártávlatból nyújt lenyűgöző kilátást a sűrű tengerparti erdő lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        103.989954,
+                        1.409561
+                  ]
+            },
+            {
+                  "name": "Kampong Selabin Well",
+                  "text": "Ez a történelmi kút egyike azon kevés fennmaradt romnak, amely az egykor itt virágzó Kampong Selabin településről maradt.",
+                  "category": "historical",
+                  "coords": [
+                        104.031481,
+                        1.415583
+                  ]
+            },
+            {
+                  "name": "NS Gallery",
+                  "text": "Az NS Gallery egy katonai múzeum, amely informatív kiállításokon és műtárgyakon keresztül mutatja be a Nemzeti Szolgálat történetét és fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        104.0295,
+                        1.406178
+                  ]
+            },
+            {
+                  "name": "Entrance to Old Tekong Battery",
+                  "text": "Ezek a betonromok egy egykori partvédelmi üteg bejáratát jelzik, amelyet a tengerszoros védelmére építettek háborús időkben.",
+                  "category": "historical",
+                  "coords": [
+                        104.05692,
+                        1.399658
+                  ]
+            },
+            {
+                  "name": "Changi Beach Park",
+                  "text": "A Changi Beach Park egy hosszú, homokos part menti sáv, amely grillezőhelyeiről és a közeli repülőtéren leszálló repülőgépek kiváló látványáról híres.",
+                  "category": "park",
+                  "coords": [
+                        103.990732,
+                        1.391472
+                  ]
+            },
+            {
+                  "name": "Maranatha Bible Presbyterian Church",
+                  "text": "A Maranatha Bible presbiteriánus templom egy dedikált keresztény istentiszteleti hely, amely rendszeres istentiszteleteket kínál a helyi gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.981391,
+                        1.387381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jejawi Tower",
+                  "text": "Turnul Jejawi este o structură de observare înaltă, care oferă vizitatorilor o vedere aeriană vastă asupra coronamentului dens al pădurii de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        103.989954,
+                        1.409561
+                  ]
+            },
+            {
+                  "name": "Kampong Selabin Well",
+                  "text": "Această fântână istorică din piatră este una dintre puținele ruine supraviețuitoare ale fostei așezări Kampong Selabin, care odinioară prospera aici.",
+                  "category": "historical",
+                  "coords": [
+                        104.031481,
+                        1.415583
+                  ]
+            },
+            {
+                  "name": "NS Gallery",
+                  "text": "Galeria NS este un muzeu militar care prezintă istoria și evoluția Serviciului Național prin intermediul unor exponate și artefacte informative.",
+                  "category": "museum",
+                  "coords": [
+                        104.0295,
+                        1.406178
+                  ]
+            },
+            {
+                  "name": "Entrance to Old Tekong Battery",
+                  "text": "Aceste ruine din beton marchează intrarea într-o fostă baterie de apărare a coastei, construită pentru a proteja strâmtoarea pe timp de război.",
+                  "category": "historical",
+                  "coords": [
+                        104.05692,
+                        1.399658
+                  ]
+            },
+            {
+                  "name": "Changi Beach Park",
+                  "text": "Changi Beach Park este o fâșie lungă de coastă nisipoasă, faimoasă pentru locurile de grătar și priveliștile excelente ale avioanelor care aterizează pe aeroportul din apropiere.",
+                  "category": "park",
+                  "coords": [
+                        103.990732,
+                        1.391472
+                  ]
+            },
+            {
+                  "name": "Maranatha Bible Presbyterian Church",
+                  "text": "Biserica Prezbiteriană Maranatha Bible este un spațiu dedicat cultului creștin care oferă slujbe regulate pentru congregația sa locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.981391,
+                        1.387381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jejawi Tower",
+                  "text": "The Jejawi Tower is a tall observation structure offering visitors a sweeping aerial view over the dense coastal forest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        103.989954,
+                        1.409561
+                  ]
+            },
+            {
+                  "name": "Kampong Selabin Well",
+                  "text": "This historic stone well is one of the few surviving ruins of the former Kampong Selabin settlement that once thrived here.",
+                  "category": "historical",
+                  "coords": [
+                        104.031481,
+                        1.415583
+                  ]
+            },
+            {
+                  "name": "NS Gallery",
+                  "text": "The NS Gallery is a military museum showcasing the history and evolution of National Service through informative exhibits and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        104.0295,
+                        1.406178
+                  ]
+            },
+            {
+                  "name": "Entrance to Old Tekong Battery",
+                  "text": "These concrete ruins mark the entrance to a former coastal defense battery built to protect the straits during wartime.",
+                  "category": "historical",
+                  "coords": [
+                        104.05692,
+                        1.399658
+                  ]
+            },
+            {
+                  "name": "Changi Beach Park",
+                  "text": "Changi Beach Park is a long, sandy coastal strip famed for its barbecue pits and excellent views of airplanes landing at the nearby airport.",
+                  "category": "park",
+                  "coords": [
+                        103.990732,
+                        1.391472
+                  ]
+            },
+            {
+                  "name": "Maranatha Bible Presbyterian Church",
+                  "text": "The Maranatha Bible Presbyterian Church is a dedicated Christian worship space offering regular services for its local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.981391,
+                        1.387381
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SG-01",
     coords: [103.9918, 1.3917],
@@ -195,7 +1347,124 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
     {
-    id: "sg-labrador-nature-reserve-relief-v2",
+    id: "sg-labrador-nature-reserve-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gun Emplacement IV",
+                  "text": "Besucher können das kreisförmige Betonfundament dieser ehemaligen schweren Artilleriestellung inmitten der tropischen Vegetation erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80345,
+                        1.265648
+                  ]
+            },
+            {
+                  "name": "bomb shelter ruin",
+                  "text": "Die eingestürzten Betonwände dieses Luftschutzbunkers aus dem Zweiten Weltkrieg bieten einen düsteren archäologischen Einblick in die Kriegsverteidigung der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        103.801295,
+                        1.266981
+                  ]
+            },
+            {
+                  "name": "The Tunnel",
+                  "text": "Dieser dunkle, unterirdische Gang wurde ursprünglich in den Hang gegraben, um die Küstengeschütze oben sicher mit Munition zu versorgen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.802992,
+                        1.266746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gun Emplacement IV",
+                  "text": "A látogatók felfedezhetik ezen egykori nehéztüzérségi állás kör alakú betonalapját a trópusi lombozat között.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80345,
+                        1.265648
+                  ]
+            },
+            {
+                  "name": "bomb shelter ruin",
+                  "text": "Ennek a második világháborús óvóhelynek az omladozó betonfalai komor régészeti bepillantást engednek a sziget háborús védelmi rendszerébe.",
+                  "category": "historical",
+                  "coords": [
+                        103.801295,
+                        1.266981
+                  ]
+            },
+            {
+                  "name": "The Tunnel",
+                  "text": "Ezt a sötét, földalatti járatot eredetileg a domboldalba vájták, hogy biztonságosan szállítsák a lőszert a fenti partvédelmi ágyúkhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.802992,
+                        1.266746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gun Emplacement IV",
+                  "text": "Vizitatorii pot explora fundația circulară de beton a acestui fost amplasament de artilerie grea așezat printre frunzișul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80345,
+                        1.265648
+                  ]
+            },
+            {
+                  "name": "bomb shelter ruin",
+                  "text": "Pereții de beton prăbușiți ai acestui adăpost antiaerian din Al Doilea Război Mondial oferă o privire arheologică sumbră asupra apărării insulei în timpul războiului.",
+                  "category": "historical",
+                  "coords": [
+                        103.801295,
+                        1.266981
+                  ]
+            },
+            {
+                  "name": "The Tunnel",
+                  "text": "Acest pasaj subteran întunecat a fost inițial sculptat în deal pentru a furniza muniție în siguranță tunurilor de coastă de deasupra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.802992,
+                        1.266746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gun Emplacement IV",
+                  "text": "Visitors can explore the circular concrete foundation of this former heavy artillery position set among the tropical foliage.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80345,
+                        1.265648
+                  ]
+            },
+            {
+                  "name": "bomb shelter ruin",
+                  "text": "The collapsed concrete walls of this World War II bomb shelter offer a somber archaeological glimpse into the island's wartime defenses.",
+                  "category": "historical",
+                  "coords": [
+                        103.801295,
+                        1.266981
+                  ]
+            },
+            {
+                  "name": "The Tunnel",
+                  "text": "This dark, subterranean passage was originally carved into the hillside to supply ammunition safely to the coastal guns above.",
+                  "category": "landmark",
+                  "coords": [
+                        103.802992,
+                        1.266746
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SG-01",
     coords: [103.8028, 1.2662],
@@ -243,7 +1512,772 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-sentosa-island-beaches-relief-v2",
+    id: "sg-sentosa-island-beaches-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Southernmost Point of Continental Asia",
+                  "text": "Ein malerischer Aussichtspunkt auf einer kleinen Insel vor Sentosa, der als südlichster Punkt des asiatischen Festlandes gilt.",
+                  "category": "natural",
+                  "coords": [
+                        103.821412,
+                        1.247947
+                  ]
+            },
+            {
+                  "name": "4D Adventureland",
+                  "text": "Ein interaktiver Themenpark auf Sentosa, der immersive 4D-Filmerlebnisse und virtuelle Fahrgeschäfte bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.816543,
+                        1.255334
+                  ]
+            },
+            {
+                  "name": "Glow Garden",
+                  "text": "Eine leuchtende Gartenattraktion, die nachts beleuchtet wird und entlang des Sentosa Sensoryscape-Pfads liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818099,
+                        1.252128
+                  ]
+            },
+            {
+                  "name": "Wings of Time (Musical)",
+                  "text": "Eine nächtliche Freiluft-Theatershow mit Wasserfontänen, Lasern und Feuereffekten vor der Kulisse des offenen Meeres.",
+                  "category": "cultural",
+                  "coords": [
+                        103.817055,
+                        1.251281
+                  ]
+            },
+            {
+                  "name": "Madame Tussauds Singapore",
+                  "text": "Ein berühmtes Wachsfigurenkabinett am Imbiah Lookout, das lebensechte Figuren globaler Prominenter und historischer Ikonen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.817766,
+                        1.254099
+                  ]
+            },
+            {
+                  "name": "Lookout Loop",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen Panoramablick auf das Sentosa Sensoryscape und die umliegende Insellandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.818975,
+                        1.254166
+                  ]
+            },
+            {
+                  "name": "New York",
+                  "text": "Ein Themenbereich in den Universal Studios Singapore, der die klassische Architektur und die Straßen von New York City nachbildet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821274,
+                        1.254564
+                  ]
+            },
+            {
+                  "name": "KidZania Singapore",
+                  "text": "Eine interaktive Indoor-Stadt für Kinder, in der sie in einer realistischen Umgebung verschiedene Erwachsenenberufe nachspielen können.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820368,
+                        1.251388
+                  ]
+            },
+            {
+                  "name": "Far Far Away",
+                  "text": "Ein skurriler, vom Shrek-Franchise inspirierter Themenbereich in den Universal Studios Singapore mit einem markanten Schloss.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823623,
+                        1.254964
+                  ]
+            },
+            {
+                  "name": "Jurassic World",
+                  "text": "Ein Vergnügungsparkbereich mit Dinosaurier-Thema, der auf der Filmreihe basiert und prähistorische Animatronics sowie aufregende Fahrgeschäfte bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.823853,
+                        1.253904
+                  ]
+            },
+            {
+                  "name": "Ancient Egypt",
+                  "text": "Ein immersiver Bereich in den Universal Studios Singapore mit hoch aufragenden ägyptischen Statuen und einer Indoor-Achterbahn.",
+                  "category": "recreational",
+                  "coords": [
+                        103.82284,
+                        1.253673
+                  ]
+            },
+            {
+                  "name": "Hollywood",
+                  "text": "Der Haupteingangsbereich der Universal Studios Singapore, der dem legendären, von Palmen gesäumten Hollywood Boulevard nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822074,
+                        1.25593
+                  ]
+            },
+            {
+                  "name": "Resorts World Theatre",
+                  "text": "Ein großer Veranstaltungsort für darstellende Künste im Resorts World Sentosa, in dem internationale Musicals, Konzerte und Bühnenshows stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        103.820006,
+                        1.256302
+                  ]
+            },
+            {
+                  "name": "Southern Ridges",
+                  "text": "Ein malerischer Aussichtspunkt, der Ausblicke auf die bewaldeten Hügel und die zusammenhängenden Wanderwege in Richtung Festland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.81774,
+                        1.255571
+                  ]
+            },
+            {
+                  "name": "Tanjong Beach",
+                  "text": "Ein ruhiger, sichelförmiger Sandstrand an der Südostküste von Sentosa, beliebt zum Entspannen und für seine Beach Clubs.",
+                  "category": "recreational",
+                  "coords": [
+                        103.828936,
+                        1.241998
+                  ]
+            },
+            {
+                  "name": "HydroDash",
+                  "text": "Ein aufblasbarer, schwimmender Wasserpark vor Palawan Beach mit verschiedenen Hindernisparcours auf dem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820997,
+                        1.249184
+                  ]
+            },
+            {
+                  "name": "WaterWorld",
+                  "text": "Ein Freiluft-Amphitheater, in dem eine Live-Action-Stuntshow mit spektakulären Wasser- und Feuereffekten basierend auf dem postapokalyptischen Film stattfindet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.824997,
+                        1.253178
+                  ]
+            },
+            {
+                  "name": "Trick Eye Museum",
+                  "text": "Ein interaktives Museum für optische Täuschungen auf Sentosa, in dem Besucher kreativ in fantasievollen 3D-Kunstwerken posieren können.",
+                  "category": "museum",
+                  "coords": [
+                        103.822652,
+                        1.256978
+                  ]
+            },
+            {
+                  "name": "Singapore Oceanarium",
+                  "text": "Ein riesiger Meerespark, der das S.E.A. Aquarium umfasst und über 100.000 Meerestiere aus 1.000 Arten beherberget.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820508,
+                        1.258363
+                  ]
+            },
+            {
+                  "name": "Tidal Twister, Pipeline Plunge",
+                  "text": "Ein aufregendes Paar kurvenreicher Wasserrutschen mit plötzlichen Gefällen im Adventure Cove Waterpark.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817959,
+                        1.257084
+                  ]
+            },
+            {
+                  "name": "Adventure Cove Waterpark",
+                  "text": "Ein Wasser-Vergnügungspark auf Sentosa mit Hochgeschwindigkeits-Wasserrutschen, einem Strömungskanal und einem Schnorchel-Riff.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81809,
+                        1.258258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Southernmost Point of Continental Asia",
+                  "text": "Festői kilátópont egy kis szigeten Sentosa partjainál, amely az ázsiai kontinens legdélibb pontját jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        103.821412,
+                        1.247947
+                  ]
+            },
+            {
+                  "name": "4D Adventureland",
+                  "text": "Interaktív vidámpark Sentosa szigetén, amely magával ragadó 4D-s filmélményeket és virtuális utazásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        103.816543,
+                        1.255334
+                  ]
+            },
+            {
+                  "name": "Glow Garden",
+                  "text": "Éjszaka kivilágított, világító kertészeti látványosság a Sentosa Sensoryscape ösvénye mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818099,
+                        1.252128
+                  ]
+            },
+            {
+                  "name": "Wings of Time (Musical)",
+                  "text": "Éjszakai szabadtéri színházi showműsor szökőkutakkal, lézerekkel és tűzeffektekkel a nyílt tenger háttere előtt.",
+                  "category": "cultural",
+                  "coords": [
+                        103.817055,
+                        1.251281
+                  ]
+            },
+            {
+                  "name": "Madame Tussauds Singapore",
+                  "text": "Híres viaszmúzeum az Imbiah Lookoutnál, amely világsztárok és történelmi ikonok élethű alakjait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.817766,
+                        1.254099
+                  ]
+            },
+            {
+                  "name": "Lookout Loop",
+                  "text": "Kiemelkedő kilátópont, amely panorámás kilátást nyújt a Sentosa Sensoryscape-re és a környező szigeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        103.818975,
+                        1.254166
+                  ]
+            },
+            {
+                  "name": "New York",
+                  "text": "A Universal Studios Singapore tematikus zónája, amely New York City klasszikus építészetét és utcáit idézi fel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821274,
+                        1.254564
+                  ]
+            },
+            {
+                  "name": "KidZania Singapore",
+                  "text": "Interaktív beltéri város gyerekeknek, ahol valósághű környezetben játszhatnak el különféle felnőtt szakmákat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820368,
+                        1.251388
+                  ]
+            },
+            {
+                  "name": "Far Far Away",
+                  "text": "A Shrek-franchise ihlette szeszélyes tematikus zóna a Universal Studios Singapore területén, amelynek kiemelkedő eleme egy kastély.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823623,
+                        1.254964
+                  ]
+            },
+            {
+                  "name": "Jurassic World",
+                  "text": "A filmsorozaton alapuló, dinoszaurusz témájú vidámparki terület, amely történelem előtti animatronikával és izgalmas túrákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        103.823853,
+                        1.253904
+                  ]
+            },
+            {
+                  "name": "Ancient Egypt",
+                  "text": "Egy magával ragadó zóna a Universal Studios Singapore-ban, magasodó egyiptomi szobrokkal és egy beltéri hullámvasúttal.",
+                  "category": "recreational",
+                  "coords": [
+                        103.82284,
+                        1.253673
+                  ]
+            },
+            {
+                  "name": "Hollywood",
+                  "text": "A Universal Studios Singapore főbejárati zónája, amelyet az ikonikus, pálmafákkal szegélyezett Hollywood Boulevard mintájára terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822074,
+                        1.25593
+                  ]
+            },
+            {
+                  "name": "Resorts World Theatre",
+                  "text": "Nagy előadóművészeti helyszín a Resorts World Sentosa területén, amely nemzetközi musicaleknek, koncerteknek és színpadi műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.820006,
+                        1.256302
+                  ]
+            },
+            {
+                  "name": "Southern Ridges",
+                  "text": "Festői kilátópont, ahonnan megpillanthatók a szárazföld felé nyúló erdős dombok és az összekapcsolódó túraútvonalak.",
+                  "category": "natural",
+                  "coords": [
+                        103.81774,
+                        1.255571
+                  ]
+            },
+            {
+                  "name": "Tanjong Beach",
+                  "text": "Nyugodt, félhold alakú homokos strand Sentosa délkeleti partján, amely népszerű a pihenni vágyók és a strandklubok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        103.828936,
+                        1.241998
+                  ]
+            },
+            {
+                  "name": "HydroDash",
+                  "text": "A Palawan strand mellett található felfújható, lebegő vízipark, amely különféle vízi akadálypályákkal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820997,
+                        1.249184
+                  ]
+            },
+            {
+                  "name": "WaterWorld",
+                  "text": "Szabadtéri amfiteátrum, amely látványos vízi és tüzes effektekkel kísért élőszereplős kaszkadőr show-nak ad otthont a posztapokaliptikus film alapján.",
+                  "category": "cultural",
+                  "coords": [
+                        103.824997,
+                        1.253178
+                  ]
+            },
+            {
+                  "name": "Trick Eye Museum",
+                  "text": "Interaktív optikai csalódások múzeuma Sentosán, ahol a látogatók kreatívan pózolhatnak a fantáziadús 3D-s műalkotásokban.",
+                  "category": "museum",
+                  "coords": [
+                        103.822652,
+                        1.256978
+                  ]
+            },
+            {
+                  "name": "Singapore Oceanarium",
+                  "text": "Hatalmas tengeri park, amely a S.E.A. Aquariumot foglalja magában, és több mint 1000 faj 100 000 tengeri állatának ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820508,
+                        1.258363
+                  ]
+            },
+            {
+                  "name": "Tidal Twister, Pipeline Plunge",
+                  "text": "Izgalmas, kanyargós vízi csúszdapár hirtelen esésekkel az Adventure Cove víziparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817959,
+                        1.257084
+                  ]
+            },
+            {
+                  "name": "Adventure Cove Waterpark",
+                  "text": "Vízi vidámpark Sentosán nagy sebességű csúszdákkal, sodrófolyóval és sznorkelezési lehetőséggel a zátonyon.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81809,
+                        1.258258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Southernmost Point of Continental Asia",
+                  "text": "Un punct de belvedere pitoresc pe o mică insulă din apropiere de Sentosa, ce marchează cel mai sudic punct al Asiei continentale.",
+                  "category": "natural",
+                  "coords": [
+                        103.821412,
+                        1.247947
+                  ]
+            },
+            {
+                  "name": "4D Adventureland",
+                  "text": "Un parc tematic interactiv pe Sentosa care oferă experiențe imersive de filme 4D și atracții virtuale de mișcare.",
+                  "category": "recreational",
+                  "coords": [
+                        103.816543,
+                        1.255334
+                  ]
+            },
+            {
+                  "name": "Glow Garden",
+                  "text": "O atracție de grădină luminoasă, iluminată pe timp de noapte, situată de-a lungul aleii Sentosa Sensoryscape.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818099,
+                        1.252128
+                  ]
+            },
+            {
+                  "name": "Wings of Time (Musical)",
+                  "text": "Un spectacol de teatru în aer liber pe timp de noapte, care prezintă fântâni cu apă, lasere și efecte de foc pe fundalul mării.",
+                  "category": "cultural",
+                  "coords": [
+                        103.817055,
+                        1.251281
+                  ]
+            },
+            {
+                  "name": "Madame Tussauds Singapore",
+                  "text": "Un faimos muzeu de ceară de la Imbiah Lookout, ce expune figuri realiste ale celebrităților globale și ale icoanelor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        103.817766,
+                        1.254099
+                  ]
+            },
+            {
+                  "name": "Lookout Loop",
+                  "text": "Un punct de belvedere la înălțime, care oferă vederi panoramice ale Sentosa Sensoryscape și ale peisajului insular înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        103.818975,
+                        1.254166
+                  ]
+            },
+            {
+                  "name": "New York",
+                  "text": "O zonă tematică din Universal Studios Singapore care recreează arhitectura clasică și străzile din New York City.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821274,
+                        1.254564
+                  ]
+            },
+            {
+                  "name": "KidZania Singapore",
+                  "text": "Un oraș interior interactiv construit pentru copii, pentru a juca rolul diferitelor profesii de adulți într-un mediu realist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820368,
+                        1.251388
+                  ]
+            },
+            {
+                  "name": "Far Far Away",
+                  "text": "O zonă tematică fantezistă inspirată de franciza Shrek în cadrul Universal Studios Singapore, care include un castel proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823623,
+                        1.254964
+                  ]
+            },
+            {
+                  "name": "Jurassic World",
+                  "text": "O zonă a parcului de distracții cu tematică de dinozauri, bazată pe franciza de filme, cu animatronice preistorice și atracții palpitante.",
+                  "category": "recreational",
+                  "coords": [
+                        103.823853,
+                        1.253904
+                  ]
+            },
+            {
+                  "name": "Ancient Egypt",
+                  "text": "O zonă imersivă în Universal Studios Singapore care prezintă statui egiptene impunătoare și un montagne rousse de interior.",
+                  "category": "recreational",
+                  "coords": [
+                        103.82284,
+                        1.253673
+                  ]
+            },
+            {
+                  "name": "Hollywood",
+                  "text": "Zona principală de intrare din Universal Studios Singapore, concepută pentru a semăna cu iconicul bulevard cu palmieri Hollywood Boulevard.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822074,
+                        1.25593
+                  ]
+            },
+            {
+                  "name": "Resorts World Theatre",
+                  "text": "Un spațiu mare de spectacole din cadrul Resorts World Sentosa, care găzduiește musicaluri internaționale, concerte și spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        103.820006,
+                        1.256302
+                  ]
+            },
+            {
+                  "name": "Southern Ridges",
+                  "text": "Un punct de belvedere pitoresc care oferă perspective asupra dealurilor împădurite și a traseelor de drumeție interconectate care se întind spre continent.",
+                  "category": "natural",
+                  "coords": [
+                        103.81774,
+                        1.255571
+                  ]
+            },
+            {
+                  "name": "Tanjong Beach",
+                  "text": "O plajă de nisip liniștită, în formă de semilună, pe coasta de sud-est a insulei Sentosa, populară pentru relaxare și cluburi de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        103.828936,
+                        1.241998
+                  ]
+            },
+            {
+                  "name": "HydroDash",
+                  "text": "Un parc acvatic gonflabil plutitor situat în largul plajei Palawan, care oferă diverse curse cu obstacole pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820997,
+                        1.249184
+                  ]
+            },
+            {
+                  "name": "WaterWorld",
+                  "text": "Un amfiteatru în aer liber care găzduiește un spectacol de cascadorii live cu efecte spectaculoase de apă și foc, bazat pe filmul post-apocaliptic.",
+                  "category": "cultural",
+                  "coords": [
+                        103.824997,
+                        1.253178
+                  ]
+            },
+            {
+                  "name": "Trick Eye Museum",
+                  "text": "Un muzeu interactiv de iluzii optice pe Sentosa, unde vizitatorii pot poza creativ în cadrul unor opere de artă 3D pline de imaginație.",
+                  "category": "museum",
+                  "coords": [
+                        103.822652,
+                        1.256978
+                  ]
+            },
+            {
+                  "name": "Singapore Oceanarium",
+                  "text": "Un parc marin masiv care cuprinde Acvariul S.E.A., găzduind peste 100.000 de animale marine reprezentând 1.000 de specii.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820508,
+                        1.258363
+                  ]
+            },
+            {
+                  "name": "Tidal Twister, Pipeline Plunge",
+                  "text": "O pereche palpitantă de tobogane de apă șerpuitoare, cu căderi bruște, în parcul acvatic Adventure Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817959,
+                        1.257084
+                  ]
+            },
+            {
+                  "name": "Adventure Cove Waterpark",
+                  "text": "Un parc de distracții acvatic pe Sentosa, având tobogane de apă de mare viteză, un râu leneș și un recif pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81809,
+                        1.258258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Southernmost Point of Continental Asia",
+                  "text": "A scenic viewpoint on a small islet off Sentosa, claiming to mark the southernmost tip of continental Asia.",
+                  "category": "natural",
+                  "coords": [
+                        103.821412,
+                        1.247947
+                  ]
+            },
+            {
+                  "name": "4D Adventureland",
+                  "text": "An interactive theme park on Sentosa offering immersive 4D movie experiences and virtual motion rides.",
+                  "category": "recreational",
+                  "coords": [
+                        103.816543,
+                        1.255334
+                  ]
+            },
+            {
+                  "name": "Glow Garden",
+                  "text": "A luminous garden attraction illuminated at night, located along the Sentosa Sensoryscape pathway.",
+                  "category": "landmark",
+                  "coords": [
+                        103.818099,
+                        1.252128
+                  ]
+            },
+            {
+                  "name": "Wings of Time (Musical)",
+                  "text": "A night-time outdoor theatre show featuring water fountains, lasers, and fire effects set against the open sea.",
+                  "category": "cultural",
+                  "coords": [
+                        103.817055,
+                        1.251281
+                  ]
+            },
+            {
+                  "name": "Madame Tussauds Singapore",
+                  "text": "A famous wax museum at Imbiah Lookout showcasing lifelike figures of global celebrities and historical icons.",
+                  "category": "museum",
+                  "coords": [
+                        103.817766,
+                        1.254099
+                  ]
+            },
+            {
+                  "name": "Lookout Loop",
+                  "text": "An elevated viewpoint offering panoramic sights of the Sentosa Sensoryscape and the surrounding island landscape.",
+                  "category": "natural",
+                  "coords": [
+                        103.818975,
+                        1.254166
+                  ]
+            },
+            {
+                  "name": "New York",
+                  "text": "A themed zone within Universal Studios Singapore recreating the classic architecture and streets of New York City.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821274,
+                        1.254564
+                  ]
+            },
+            {
+                  "name": "KidZania Singapore",
+                  "text": "An interactive indoor city built for children to role-play various adult professions in a realistic environment.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820368,
+                        1.251388
+                  ]
+            },
+            {
+                  "name": "Far Far Away",
+                  "text": "A whimsical themed zone inspired by the Shrek franchise within Universal Studios Singapore, featuring a prominent castle.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823623,
+                        1.254964
+                  ]
+            },
+            {
+                  "name": "Jurassic World",
+                  "text": "A dinosaur-themed amusement park area based on the movie franchise, featuring prehistoric animatronics and thrilling rides.",
+                  "category": "recreational",
+                  "coords": [
+                        103.823853,
+                        1.253904
+                  ]
+            },
+            {
+                  "name": "Ancient Egypt",
+                  "text": "An immersive zone in Universal Studios Singapore featuring towering Egyptian statues and an indoor roller coaster.",
+                  "category": "recreational",
+                  "coords": [
+                        103.82284,
+                        1.253673
+                  ]
+            },
+            {
+                  "name": "Hollywood",
+                  "text": "The main entrance zone of Universal Studios Singapore, designed to look like the iconic palm-lined Hollywood Boulevard.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822074,
+                        1.25593
+                  ]
+            },
+            {
+                  "name": "Resorts World Theatre",
+                  "text": "A large performing arts venue within Resorts World Sentosa hosting international musicals, concerts, and stage shows.",
+                  "category": "cultural",
+                  "coords": [
+                        103.820006,
+                        1.256302
+                  ]
+            },
+            {
+                  "name": "Southern Ridges",
+                  "text": "A scenic viewpoint offering glimpses of the forested hills and interconnected walking trails stretching towards the mainland.",
+                  "category": "natural",
+                  "coords": [
+                        103.81774,
+                        1.255571
+                  ]
+            },
+            {
+                  "name": "Tanjong Beach",
+                  "text": "A tranquil, crescent-shaped sandy beach on the southeastern coast of Sentosa, popular for relaxing and beach clubs.",
+                  "category": "recreational",
+                  "coords": [
+                        103.828936,
+                        1.241998
+                  ]
+            },
+            {
+                  "name": "HydroDash",
+                  "text": "An inflatable floating water park located off Palawan Beach, featuring various obstacle courses on the water.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820997,
+                        1.249184
+                  ]
+            },
+            {
+                  "name": "WaterWorld",
+                  "text": "An outdoor amphitheatre hosting a live-action stunt show with spectacular water and fire effects based on the post-apocalyptic film.",
+                  "category": "cultural",
+                  "coords": [
+                        103.824997,
+                        1.253178
+                  ]
+            },
+            {
+                  "name": "Trick Eye Museum",
+                  "text": "An interactive optical illusion museum on Sentosa where visitors can creatively pose within imaginative 3D artworks.",
+                  "category": "museum",
+                  "coords": [
+                        103.822652,
+                        1.256978
+                  ]
+            },
+            {
+                  "name": "Singapore Oceanarium",
+                  "text": "A massive marine park encompassing the S.E.A. Aquarium, home to over 100,000 marine animals representing 1,000 species.",
+                  "category": "recreational",
+                  "coords": [
+                        103.820508,
+                        1.258363
+                  ]
+            },
+            {
+                  "name": "Tidal Twister, Pipeline Plunge",
+                  "text": "A thrilling pair of winding water slide attractions with sudden drops within the Adventure Cove Waterpark.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817959,
+                        1.257084
+                  ]
+            },
+            {
+                  "name": "Adventure Cove Waterpark",
+                  "text": "An aquatic amusement park on Sentosa featuring high-speed water slides, a lazy river, and a snorkeling reef.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81809,
+                        1.258258
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SG-01",
     coords: [103.8293, 1.2494],
@@ -291,7 +2325,160 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
         {
-    id: "sg-telok-blangah-hill-park-relief-v2",
+    id: "sg-telok-blangah-hill-park-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forest Canopy Walk",
+                  "text": "Dieser erhöhte, im Zickzack verlaufende Metallsteg ermöglicht es Besuchern, hoch über dem Boden direkt durch das Kronendach des Sekundärwaldes zu spazieren.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809338,
+                        1.278529
+                  ]
+            },
+            {
+                  "name": "Sri Ruthra Kaliamman Temple",
+                  "text": "Dieser reich verzierte Hindutempel, der ursprünglich als kleiner Schrein von Hafenarbeitern gegründet wurde, ist der wilden Göttin Sri Ruthra Kaliamman gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        103.813992,
+                        1.281389
+                  ]
+            },
+            {
+                  "name": "Kong Hock Keng Temple",
+                  "text": "Dieser buddhistische Tempel in der Nachbarschaft zeichnet sich durch seine massiven Holztüren und die goldenen Urnen im Innenhof aus, in denen Joss-Papier verbrannt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        103.807332,
+                        1.274376
+                  ]
+            },
+            {
+                  "name": "Koon Seng Ting Temple",
+                  "text": "In der Nähe der grünen Parkanlagen versteckt sich dieser kleine taoistische Tempel, dessen wunderschön bemaltes Firstdach mit mythischen chinesischen Wächterfiguren verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811708,
+                        1.273024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forest Canopy Walk",
+                  "text": "Ez a megemelt, cikkcakkos fémsétány lehetővé teszi a látogatók számára, hogy magasan a föld felett, közvetlenül a másodlagos erdő lombkoronájában sétáljanak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809338,
+                        1.278529
+                  ]
+            },
+            {
+                  "name": "Sri Ruthra Kaliamman Temple",
+                  "text": "A kikötői munkások által eredetileg kis szentélyként alapított, díszes hindu templomot a vad Sri Ruthra Kaliamman istennőnek szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        103.813992,
+                        1.281389
+                  ]
+            },
+            {
+                  "name": "Kong Hock Keng Temple",
+                  "text": "Ezt a környékbeli buddhista templomot nehéz faajtajai és az udvaron található arany színű urnák jellemzik, amelyeket füstölőpapír égetésére használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.807332,
+                        1.274376
+                  ]
+            },
+            {
+                  "name": "Koon Seng Ting Temple",
+                  "text": "A zöldellő parkok közelében megbúvó kis taoista templom gyönyörűen festett gerinctetővel büszkélkedhet, amelyet mitikus kínai őrfigurák díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811708,
+                        1.273024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forest Canopy Walk",
+                  "text": "Această pasarelă metalică suspendată în zigzag permite vizitatorilor să se plimbe direct prin coronamentul pădurii secundare, la mare înălțime deasupra solului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809338,
+                        1.278529
+                  ]
+            },
+            {
+                  "name": "Sri Ruthra Kaliamman Temple",
+                  "text": "Fondat inițial ca un mic altar de către muncitorii portuari, acest templu hindus ornamentat este dedicat zeiței feroce Sri Ruthra Kaliamman.",
+                  "category": "religious",
+                  "coords": [
+                        103.813992,
+                        1.281389
+                  ]
+            },
+            {
+                  "name": "Kong Hock Keng Temple",
+                  "text": "Acest templu budist de cartier se caracterizează prin ușile sale grele din lemn și urnele aurii din curte, folosite pentru arderea hârtiei de ofrandă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.807332,
+                        1.274376
+                  ]
+            },
+            {
+                  "name": "Koon Seng Ting Temple",
+                  "text": "Ascuns lângă parcurile înverzite, acest mic templu taoist se mândrește cu un acoperiș frumos pictat, împodobit cu figuri de gardieni mitici chinezi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811708,
+                        1.273024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forest Canopy Walk",
+                  "text": "This elevated zigzagging metal walkway allows visitors to stroll directly through the secondary forest canopy high above the ground.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809338,
+                        1.278529
+                  ]
+            },
+            {
+                  "name": "Sri Ruthra Kaliamman Temple",
+                  "text": "Originally founded as a small shrine by port workers, this ornate Hindu temple is dedicated to the fierce goddess Sri Ruthra Kaliamman.",
+                  "category": "religious",
+                  "coords": [
+                        103.813992,
+                        1.281389
+                  ]
+            },
+            {
+                  "name": "Kong Hock Keng Temple",
+                  "text": "This neighborhood Buddhist temple is characterized by its heavy timber doors and golden courtyard urns used for burning joss paper.",
+                  "category": "landmark",
+                  "coords": [
+                        103.807332,
+                        1.274376
+                  ]
+            },
+            {
+                  "name": "Koon Seng Ting Temple",
+                  "text": "Tucked near the verdant parklands, this small Taoist temple boasts a beautifully painted ridge roof adorned with mythical Chinese guardian figures.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811708,
+                        1.273024
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SG-01",
     coords: [103.8115, 1.2778],
@@ -387,7 +2574,232 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-sunget-buloh-wetland-reserve-relief-v2",
+    id: "sg-sunget-buloh-wetland-reserve-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Route 2 - closed 2019",
+                  "text": "Die ehemals malerische Route 2 innerhalb des Reservats, die als Aussichtspunkt diente, wurde 2019 für die Öffentlichkeit geschlossen.",
+                  "category": "natural",
+                  "coords": [
+                        103.725231,
+                        1.446384
+                  ]
+            },
+            {
+                  "name": "Kampung Sungai Melayu",
+                  "text": "Kampung Sungai Melayu ist ein traditionelles Dorf am Flusslauf, das für seinen authentischen ländlichen Charme und die vom Wasser geprägte Lebensweise bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.692873,
+                        1.452128
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Kampung Sungai Melayu Eco Tourism ( PELANCONGAN) Kampung Sungai Melayu",
+                  "text": "Diese Ökotourismus-Initiative in Kampung Sungai Melayu lädt Besucher ein, nachhaltige lokale Traditionen und das natürliche Flussökosystem zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.691439,
+                        1.454876
+                  ]
+            },
+            {
+                  "name": "Perling Jin Fu She",
+                  "text": "Perling Jin Fu She ist ein traditioneller lokaler Tempel, der als Zentrum für gemeinsame Gebete und spirituelle Praktiken dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.68381,
+                        1.481853
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Buddha Fo Guang Shan (Malaysia)",
+                  "text": "Dieser malaysische Zweig des buddhistischen Ordens Fo Guang Shan bietet eine ruhige Umgebung für Meditation und das Studium des Dharma.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68827,
+                        1.478546
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Sungai Danga",
+                  "text": "Die Masjid Jamek in Kampung Sungai Danga ist das zentrale islamische Gotteshaus für die lokale Gemeinde am Flussufer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.69239,
+                        1.469927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Route 2 - closed 2019",
+                  "text": "A rezervátumon belül egykor festői kilátópontként szolgáló 2-es útvonalat 2019-ben lezárták a nagyközönség elől.",
+                  "category": "natural",
+                  "coords": [
+                        103.725231,
+                        1.446384
+                  ]
+            },
+            {
+                  "name": "Kampung Sungai Melayu",
+                  "text": "A Kampung Sungai Melayu egy hagyományos falu a folyó mentén, amely autentikus vidéki bájáról és a tengerparti megélhetésről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.692873,
+                        1.452128
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Kampung Sungai Melayu Eco Tourism ( PELANCONGAN) Kampung Sungai Melayu",
+                  "text": "Ez a Kampung Sungai Melayu-i ökoturisztikai kezdeményezés arra hívja a látogatókat, hogy megtapasztalják a fenntartható helyi hagyományokat és a természetes folyóparti ökoszisztémát.",
+                  "category": "landmark",
+                  "coords": [
+                        103.691439,
+                        1.454876
+                  ]
+            },
+            {
+                  "name": "Perling Jin Fu She",
+                  "text": "A Perling Jin Fu She egy hagyományos helyi templom, amely a közösségi imák és spirituális gyakorlatok központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        103.68381,
+                        1.481853
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Buddha Fo Guang Shan (Malaysia)",
+                  "text": "A Fo Guang Shan buddhista rend malajziai ága nyugodt környezetet biztosít a meditációhoz és a Dharma tanulmányozásához.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68827,
+                        1.478546
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Sungai Danga",
+                  "text": "A Kampung Sungai Danga-i Masjid Jamek a helyi folyóparti közösség központi iszlám istentiszteleti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        103.69239,
+                        1.469927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Route 2 - closed 2019",
+                  "text": "Fost punct de belvedere pitoresc, Ruta 2 din rezervație a fost închisă publicului în 2019.",
+                  "category": "natural",
+                  "coords": [
+                        103.725231,
+                        1.446384
+                  ]
+            },
+            {
+                  "name": "Kampung Sungai Melayu",
+                  "text": "Kampung Sungai Melayu este un sat tradițional situat de-a lungul râului, cunoscut pentru farmecul său rural autentic și modul de viață de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.692873,
+                        1.452128
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Kampung Sungai Melayu Eco Tourism ( PELANCONGAN) Kampung Sungai Melayu",
+                  "text": "Această inițiativă de ecoturism din Kampung Sungai Melayu invită vizitatorii să descopere tradițiile locale sustenabile și ecosistemul natural riveran.",
+                  "category": "landmark",
+                  "coords": [
+                        103.691439,
+                        1.454876
+                  ]
+            },
+            {
+                  "name": "Perling Jin Fu She",
+                  "text": "Perling Jin Fu She este un templu local tradițional care servește ca centru pentru rugăciunile comunității și practicile spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        103.68381,
+                        1.481853
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Buddha Fo Guang Shan (Malaysia)",
+                  "text": "Această filială din Malaezia a ordinului budist Fo Guang Shan oferă un mediu senin pentru meditație și studiul Dharmei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68827,
+                        1.478546
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Sungai Danga",
+                  "text": "Masjid Jamek din Kampung Sungai Danga este lăcașul de cult islamic central pentru comunitatea locală de pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.69239,
+                        1.469927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Route 2 - closed 2019",
+                  "text": "Formerly a scenic viewing spot, Route 2 within the reserve was closed to the public in 2019.",
+                  "category": "natural",
+                  "coords": [
+                        103.725231,
+                        1.446384
+                  ]
+            },
+            {
+                  "name": "Kampung Sungai Melayu",
+                  "text": "Kampung Sungai Melayu is a traditional village situated along the river, known for its authentic rural charm and coastal livelihood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.692873,
+                        1.452128
+                  ]
+            },
+            {
+                  "name": "Eco Tourism Kampung Sungai Melayu Eco Tourism ( PELANCONGAN) Kampung Sungai Melayu",
+                  "text": "This eco-tourism initiative in Kampung Sungai Melayu invites visitors to experience sustainable local traditions and the natural riverine ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        103.691439,
+                        1.454876
+                  ]
+            },
+            {
+                  "name": "Perling Jin Fu She",
+                  "text": "Perling Jin Fu She is a traditional local temple serving as a center for community prayers and spiritual practices.",
+                  "category": "religious",
+                  "coords": [
+                        103.68381,
+                        1.481853
+                  ]
+            },
+            {
+                  "name": "Persatuan Penganut Buddha Fo Guang Shan (Malaysia)",
+                  "text": "This Malaysian branch of the Fo Guang Shan Buddhist order offers a serene environment for meditation and the study of Dharma.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68827,
+                        1.478546
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kampung Sungai Danga",
+                  "text": "The Masjid Jamek in Kampung Sungai Danga is the central Islamic place of worship for the local riverside community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.69239,
+                        1.469927
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SG-03",
     coords: [103.7301, 1.4468],
@@ -435,7 +2847,52 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-marina-barrage-relief-v2",
+    id: "sg-marina-barrage-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skyline View",
+                  "text": "Von diesem erhöhten Aussichtspunkt auf dem Damm ist die gesamte glitzernde Wolkenkratzer-Skyline des zentralen Geschäftsviertels sichtbar.",
+                  "category": "natural",
+                  "coords": [
+                        103.870932,
+                        1.280506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skyline View",
+                  "text": "A gát tetején lévő megemelt kilátópontról a központi üzleti negyed összes csillogó felhőkarcolója látható.",
+                  "category": "natural",
+                  "coords": [
+                        103.870932,
+                        1.280506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skyline View",
+                  "text": "Din acest punct de belvedere înalt de pe baraj, poate fi admirat întregul orizont sclipitor de zgârie-nori al cartierului central de afaceri.",
+                  "category": "natural",
+                  "coords": [
+                        103.870932,
+                        1.280506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skyline View",
+                  "text": "From this elevated vantage point atop the dam, the entire glittering skyscraper skyline of the central business district is visible.",
+                  "category": "natural",
+                  "coords": [
+                        103.870932,
+                        1.280506
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SG-01",
     coords: [103.8708, 1.2809],
@@ -483,7 +2940,664 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-upper-seletar-reservoir-park-relief-v2",
+    id: "sg-upper-seletar-reservoir-park-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Ahmad Ibrahim",
+                  "text": "Eine Moschee, die für ihre markante Architektur und ihre Rolle in der muslimischen Gemeinde bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.820666,
+                        1.406671
+                  ]
+            },
+            {
+                  "name": "Mandai Wildlife Bridge",
+                  "text": "Eine 2019 fertiggestellte ökologische Brücke, die Wildtieren eine sichere Überquerung ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783631,
+                        1.407313
+                  ]
+            },
+            {
+                  "name": "Upper Seletar Reservoir Park",
+                  "text": "Ein Naturpark an den Ufern eines Stausees mit malerischem Blick auf das Wasser.",
+                  "category": "park",
+                  "coords": [
+                        103.806782,
+                        1.400879
+                  ]
+            },
+            {
+                  "name": "Singapore Zoo",
+                  "text": "Ein bekannter Zoo mit offenem Konzept, in dem Tiere in naturalistischen Lebensräumen gehalten werden.",
+                  "category": "recreational",
+                  "coords": [
+                        103.79073,
+                        1.404593
+                  ]
+            },
+            {
+                  "name": "Bird Paradise",
+                  "text": "Ein 2023 eröffneter, weitläufiger Vogelpark, der verschiedene Vogelarten in begehbaren Volieren beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        103.781132,
+                        1.405613
+                  ]
+            },
+            {
+                  "name": "Night Safari",
+                  "text": "Ein einzigartiger nächtlicher Wildpark, der Touren zur Beobachtung von Tieren im Dunkeln anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.787902,
+                        1.401911
+                  ]
+            },
+            {
+                  "name": "River Wonders",
+                  "text": "Ein auf Flüsse ausgerichteter Zoo, der Süßwasserlebensräume und deren Tierwelt zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        103.791579,
+                        1.402272
+                  ]
+            },
+            {
+                  "name": "(Former)Nee soon mansion",
+                  "text": "Die historischen Ruinen eines ehemaligen Herrenhauses auf dem Gelände.",
+                  "category": "historical",
+                  "coords": [
+                        103.823611,
+                        1.410341
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Amphitheater",
+                  "text": "Ein Freilufttheater für Live-Auftritte und Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        103.794957,
+                        1.404611
+                  ]
+            },
+            {
+                  "name": "Rainforest KidsWorld Ampitheatre",
+                  "text": "Ein familienfreundliches Freiluft-Amphitheater, in dem lehrreiche Tierpräsentationen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        103.796473,
+                        1.403504
+                  ]
+            },
+            {
+                  "name": "Francois' Langur",
+                  "text": "Ein Tiergehege für die auffällig gemusterten Tonkin-Schwarzlanguren.",
+                  "category": "landmark",
+                  "coords": [
+                        103.779805,
+                        1.409859
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein Sitzbereich im Freien rund um eine Bühne für öffentliche Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.78926,
+                        1.403646
+                  ]
+            },
+            {
+                  "name": "Phillipine Spotted Deer",
+                  "text": "Eine Attraktion im Gebiet des Upper Seletar Reservoir Parks, wo Besucher den philippinischen Fleckenhirsch beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783682,
+                        1.410437
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "Besucher können den Schweinshirsch bei dieser Tierattraktion im Gebiet des Upper Seletar Reservoirs entdecken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780891,
+                        1.40996
+                  ]
+            },
+            {
+                  "name": "Malayan Tiger",
+                  "text": "Eine Tierattraktion mit dem Malaiischen Tiger in der Nähe des Upper Seletar Reservoirs.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782335,
+                        1.410216
+                  ]
+            },
+            {
+                  "name": "Cave Racer",
+                  "text": "Eine Attraktion in der Nähe des Upper Seletar Reservoirs, bei der Besucher die Höhlennatter beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781529,
+                        1.408418
+                  ]
+            },
+            {
+                  "name": "Sugar Glider",
+                  "text": "Eine Ausstellung, die den kleinen nachtaktiven Kurzkopfgleitbeutler in der Nähe des Upper Seletar Reservoirs zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.787884,
+                        1.403108
+                  ]
+            },
+            {
+                  "name": "Malayan Tapir",
+                  "text": "Eine Attraktion im Gebiet des Upper Seletar Reservoir Parks, in der Besucher den unverwechselbaren Schabrackentapir beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        103.786731,
+                        1.403049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Ahmad Ibrahim",
+                  "text": "Különleges építészetéről és a muszlim közösségben betöltött szerepéről ismert mecset.",
+                  "category": "religious",
+                  "coords": [
+                        103.820666,
+                        1.406671
+                  ]
+            },
+            {
+                  "name": "Mandai Wildlife Bridge",
+                  "text": "Egy 2019-ben elkészült ökológiai híd, amely biztonságos átkelést biztosít a vadon élő állatok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783631,
+                        1.407313
+                  ]
+            },
+            {
+                  "name": "Upper Seletar Reservoir Park",
+                  "text": "Víztározó partján elterülő natúrpark, ahonnan festői kilátás nyílik a vízre.",
+                  "category": "park",
+                  "coords": [
+                        103.806782,
+                        1.400879
+                  ]
+            },
+            {
+                  "name": "Singapore Zoo",
+                  "text": "Egy híres, nyitott koncepciójú állatkert, ahol az állatokat természetes élőhelyükön tartják.",
+                  "category": "recreational",
+                  "coords": [
+                        103.79073,
+                        1.404593
+                  ]
+            },
+            {
+                  "name": "Bird Paradise",
+                  "text": "Egy 2023-ban megnyílt hatalmas madárpark, amely különféle madárfajoknak ad otthont immerzív röpdékben.",
+                  "category": "recreational",
+                  "coords": [
+                        103.781132,
+                        1.405613
+                  ]
+            },
+            {
+                  "name": "Night Safari",
+                  "text": "Egyedülálló éjszakai szafaripark, amely túrákat kínál az állatok sötétben történő megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        103.787902,
+                        1.401911
+                  ]
+            },
+            {
+                  "name": "River Wonders",
+                  "text": "Folyó tematikájú állatkert, amely édesvízi élőhelyeket és azok őshonos élővilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        103.791579,
+                        1.402272
+                  ]
+            },
+            {
+                  "name": "(Former)Nee soon mansion",
+                  "text": "Egykori kúria történelmi romjai a területen.",
+                  "category": "historical",
+                  "coords": [
+                        103.823611,
+                        1.410341
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Amphitheater",
+                  "text": "Szabadtéri színház, amelyet élő előadásokra és műsorokra terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        103.794957,
+                        1.404611
+                  ]
+            },
+            {
+                  "name": "Rainforest KidsWorld Ampitheatre",
+                  "text": "Családbarát szabadtéri amfiteátrum, amely oktatási célú állatbemutatóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.796473,
+                        1.403504
+                  ]
+            },
+            {
+                  "name": "Francois' Langur",
+                  "text": "A jellegzetes mintázatú François-langurok számára kialakított kifutó.",
+                  "category": "landmark",
+                  "coords": [
+                        103.779805,
+                        1.409859
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Szabadtéri lelátó, amelynek középpontjában egy nyilvános eseményekre szolgáló színpad áll.",
+                  "category": "landmark",
+                  "coords": [
+                        103.78926,
+                        1.403646
+                  ]
+            },
+            {
+                  "name": "Phillipine Spotted Deer",
+                  "text": "Egy látványosság az Upper Seletar Reservoir Park területén, ahol a látogatók megfigyelhetik a Fülöp-szigeteki pettyes szarvast.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783682,
+                        1.410437
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "A látogatók disznószarvast is láthatnak ebben az állatos látványosságban az Upper Seletar Reservoir területén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780891,
+                        1.40996
+                  ]
+            },
+            {
+                  "name": "Malayan Tiger",
+                  "text": "A maláj tigrist bemutató állatos látványosság az Upper Seletar Reservoir közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782335,
+                        1.410216
+                  ]
+            },
+            {
+                  "name": "Cave Racer",
+                  "text": "Látványosság, ahol a látogatók megfigyelhetik a barlangi siklót az Upper Seletar Reservoir közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781529,
+                        1.408418
+                  ]
+            },
+            {
+                  "name": "Sugar Glider",
+                  "text": "A kis éjszakai cukormókust bemutató kiállítás az Upper Seletar Reservoir közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.787884,
+                        1.403108
+                  ]
+            },
+            {
+                  "name": "Malayan Tapir",
+                  "text": "Látványosság, ahol a látogatók megtekinthetik a jellegzetes maláj tapírt az Upper Seletar Reservoir Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.786731,
+                        1.403049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Ahmad Ibrahim",
+                  "text": "O moschee cunoscută pentru arhitectura sa distinctivă și rolul în comunitatea musulmană.",
+                  "category": "religious",
+                  "coords": [
+                        103.820666,
+                        1.406671
+                  ]
+            },
+            {
+                  "name": "Mandai Wildlife Bridge",
+                  "text": "Un pod ecologic finalizat în 2019 pentru a oferi o traversare sigură a faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783631,
+                        1.407313
+                  ]
+            },
+            {
+                  "name": "Upper Seletar Reservoir Park",
+                  "text": "Un parc natural întins pe malul unui lac de acumulare, cu vedere pitorească la apă.",
+                  "category": "park",
+                  "coords": [
+                        103.806782,
+                        1.400879
+                  ]
+            },
+            {
+                  "name": "Singapore Zoo",
+                  "text": "O grădină zoologică renumită cu concept deschis, unde animalele sunt ținute în habitate naturaliste.",
+                  "category": "recreational",
+                  "coords": [
+                        103.79073,
+                        1.404593
+                  ]
+            },
+            {
+                  "name": "Bird Paradise",
+                  "text": "Un vast parc aviar deschis în 2023, care găzduiește diverse specii de păsări în aviare captivante.",
+                  "category": "recreational",
+                  "coords": [
+                        103.781132,
+                        1.405613
+                  ]
+            },
+            {
+                  "name": "Night Safari",
+                  "text": "Un parc unic de faună nocturnă care oferă tururi pentru a observa animalele în întuneric.",
+                  "category": "recreational",
+                  "coords": [
+                        103.787902,
+                        1.401911
+                  ]
+            },
+            {
+                  "name": "River Wonders",
+                  "text": "O grădină zoologică cu tematică fluvială, care prezintă habitate de apă dulce și fauna lor nativă.",
+                  "category": "recreational",
+                  "coords": [
+                        103.791579,
+                        1.402272
+                  ]
+            },
+            {
+                  "name": "(Former)Nee soon mansion",
+                  "text": "Ruinele istorice ale unui fost conac de pe acest domeniu.",
+                  "category": "historical",
+                  "coords": [
+                        103.823611,
+                        1.410341
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Amphitheater",
+                  "text": "Un teatru în aer liber conceput pentru spectacole și evenimente live.",
+                  "category": "cultural",
+                  "coords": [
+                        103.794957,
+                        1.404611
+                  ]
+            },
+            {
+                  "name": "Rainforest KidsWorld Ampitheatre",
+                  "text": "Un amfiteatru în aer liber, prietenos cu familia, care găzduiește prezentări educaționale cu animale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.796473,
+                        1.403504
+                  ]
+            },
+            {
+                  "name": "Francois' Langur",
+                  "text": "Un țarc de animale dedicat primatelor Langur François, cunoscute pentru coloritul lor distinct.",
+                  "category": "landmark",
+                  "coords": [
+                        103.779805,
+                        1.409859
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "O zonă de scaune în aer liber, centrată în jurul unei scene pentru evenimente publice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.78926,
+                        1.403646
+                  ]
+            },
+            {
+                  "name": "Phillipine Spotted Deer",
+                  "text": "O atracție situată în zona Upper Seletar Reservoir Park, unde vizitatorii pot observa cerbul pătat filipinez.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783682,
+                        1.410437
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "Vizitatorii pot observa cerbul porcin la această atracție cu animale din zona Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780891,
+                        1.40996
+                  ]
+            },
+            {
+                  "name": "Malayan Tiger",
+                  "text": "O atracție cu animale care prezintă tigrul malaiezian lângă Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782335,
+                        1.410216
+                  ]
+            },
+            {
+                  "name": "Cave Racer",
+                  "text": "O atracție unde vizitatorii pot observa șarpele de peșteră lângă Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781529,
+                        1.408418
+                  ]
+            },
+            {
+                  "name": "Sugar Glider",
+                  "text": "O expoziție care prezintă micul planor de zahăr nocturn lângă Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.787884,
+                        1.403108
+                  ]
+            },
+            {
+                  "name": "Malayan Tapir",
+                  "text": "O atracție unde vizitatorii pot vedea tapirul malaiezian distinctiv în zona Upper Seletar Reservoir Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.786731,
+                        1.403049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Ahmad Ibrahim",
+                  "text": "A mosque known for its distinctive architecture and role in the Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        103.820666,
+                        1.406671
+                  ]
+            },
+            {
+                  "name": "Mandai Wildlife Bridge",
+                  "text": "An ecological bridge completed in 2019 to provide a safe crossing for wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783631,
+                        1.407313
+                  ]
+            },
+            {
+                  "name": "Upper Seletar Reservoir Park",
+                  "text": "A natural park spanning the shores of a reservoir with scenic water views.",
+                  "category": "park",
+                  "coords": [
+                        103.806782,
+                        1.400879
+                  ]
+            },
+            {
+                  "name": "Singapore Zoo",
+                  "text": "A renowned open-concept zoo where animals are kept in naturalistic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        103.79073,
+                        1.404593
+                  ]
+            },
+            {
+                  "name": "Bird Paradise",
+                  "text": "An expansive avian park that opened in 2023, housing diverse bird species in immersive aviaries.",
+                  "category": "recreational",
+                  "coords": [
+                        103.781132,
+                        1.405613
+                  ]
+            },
+            {
+                  "name": "Night Safari",
+                  "text": "A unique nocturnal wildlife park offering nighttime tours to observe animals in the dark.",
+                  "category": "recreational",
+                  "coords": [
+                        103.787902,
+                        1.401911
+                  ]
+            },
+            {
+                  "name": "River Wonders",
+                  "text": "A river-themed zoo showcasing freshwater habitats and their native wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        103.791579,
+                        1.402272
+                  ]
+            },
+            {
+                  "name": "(Former)Nee soon mansion",
+                  "text": "The historic ruins of a former mansion set within the grounds.",
+                  "category": "historical",
+                  "coords": [
+                        103.823611,
+                        1.410341
+                  ]
+            },
+            {
+                  "name": "Shaw Foundation Amphitheater",
+                  "text": "An open-air theatre venue designed for live performances and shows.",
+                  "category": "cultural",
+                  "coords": [
+                        103.794957,
+                        1.404611
+                  ]
+            },
+            {
+                  "name": "Rainforest KidsWorld Ampitheatre",
+                  "text": "A family-friendly outdoor amphitheatre hosting educational animal presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        103.796473,
+                        1.403504
+                  ]
+            },
+            {
+                  "name": "Francois' Langur",
+                  "text": "An animal enclosure dedicated to the distinctively patterned Francois' Langur primates.",
+                  "category": "landmark",
+                  "coords": [
+                        103.779805,
+                        1.409859
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "An outdoor seating area centered around a stage for public events.",
+                  "category": "landmark",
+                  "coords": [
+                        103.78926,
+                        1.403646
+                  ]
+            },
+            {
+                  "name": "Phillipine Spotted Deer",
+                  "text": "An attraction located in the Upper Seletar Reservoir Park area where visitors can observe the Philippine spotted deer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.783682,
+                        1.410437
+                  ]
+            },
+            {
+                  "name": "Hog Deer",
+                  "text": "Visitors can spot the hog deer at this animal attraction in the Upper Seletar Reservoir area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780891,
+                        1.40996
+                  ]
+            },
+            {
+                  "name": "Malayan Tiger",
+                  "text": "An animal attraction featuring the Malayan tiger near the Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782335,
+                        1.410216
+                  ]
+            },
+            {
+                  "name": "Cave Racer",
+                  "text": "An attraction where visitors can observe the cave racer snake near Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781529,
+                        1.408418
+                  ]
+            },
+            {
+                  "name": "Sugar Glider",
+                  "text": "An exhibit displaying the small nocturnal sugar glider near the Upper Seletar Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.787884,
+                        1.403108
+                  ]
+            },
+            {
+                  "name": "Malayan Tapir",
+                  "text": "An attraction where visitors can view the distinctive Malayan tapir in the Upper Seletar Reservoir Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.786731,
+                        1.403049
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SG-03",
     coords: [103.8054, 1.4063],
@@ -531,7 +3645,556 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-kent-ridge-park-relief-v2",
+    id: "sg-kent-ridge-park-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "blue birds",
+                  "text": "Dieser Aussichtspunkt im Park bietet eine erhöhte Aussicht inmitten lokaler Vogelhabitate.",
+                  "category": "natural",
+                  "coords": [
+                        103.786842,
+                        1.282944
+                  ]
+            },
+            {
+                  "name": "Entrance portal",
+                  "text": "Ein dekorativer Torbogen, der als Haupteingang zum Gelände der Attraktion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781357,
+                        1.28418
+                  ]
+            },
+            {
+                  "name": "Haw Par Mansion",
+                  "text": "Die verfallenden strukturellen Überreste eines einst grandiosen Anwesens, die im Grünen versteckt sind.",
+                  "category": "historical",
+                  "coords": [
+                        103.78255,
+                        1.284856
+                  ]
+            },
+            {
+                  "name": "Kent Ridge Park",
+                  "text": "Dieser historische Naturpark bewahrt den Ort einer der letzten Schlachten um Singapur während des Zweiten Weltkriegs.",
+                  "category": "park",
+                  "coords": [
+                        103.790283,
+                        1.284248
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad",
+                  "text": "Diese historische Moschee dient der lokalen muslimischen Gemeinde mit ihrer markanten Kampung-Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        103.787212,
+                        1.280878
+                  ]
+            },
+            {
+                  "name": "The Studio/Rise of Asia Museum (2024)",
+                  "text": "Diese 2023 eröffnete zeitgenössische Ausstellungsfläche untersucht den kulturellen und wirtschaftlichen Aufstieg des asiatischen Kontinents.",
+                  "category": "museum",
+                  "coords": [
+                        103.781519,
+                        1.285495
+                  ]
+            },
+            {
+                  "name": "Norwegische Seemannskirche",
+                  "text": "Diese Mission mit Blick auf den Hafen bietet einen einladenden religiösen Zufluchtsort und Gemeinschaftsraum für skandinavische Seeleute.",
+                  "category": "religious",
+                  "coords": [
+                        103.780267,
+                        1.287479
+                  ]
+            },
+            {
+                  "name": "West Coast Park",
+                  "text": "Dieser weitläufigige Küstenpark, der oft als „Spielzentrum im Westen“ bezeichnet wird, verfügt über große Spielplätze und einen Radweg.",
+                  "category": "park",
+                  "coords": [
+                        103.765993,
+                        1.293952
+                  ]
+            },
+            {
+                  "name": "Village Temple",
+                  "text": "Ein kleiner, traditioneller daoistischer Schrein in der städtischen Landschaft, der mit Räucherspiralen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7825,
+                        1.282982
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Hill Brethren Church",
+                  "text": "Diese am Hang gelegene christliche Brüdergemeinde bietet einen weiten Blick auf das umliegende Wohnviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785772,
+                        1.280394
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Free Church",
+                  "text": "Diese evangelisch-freikirchliche Gemeinde veranstaltet regelmäßige Gottesdienste und religiöse Studien für ihre Mitglieder.",
+                  "category": "landmark",
+                  "coords": [
+                        103.778668,
+                        1.287336
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Sulaiman",
+                  "text": "Eine markante lokale Moschee mit traditionellen Minaretten und einem geräumigen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771716,
+                        1.291379
+                  ]
+            },
+            {
+                  "name": "Singapore Bible Baptist Church",
+                  "text": "Eine etablierte Bibel-Baptisten-Kirche, die der lokalen christlichen Gemeinschaft spirituelle Führung und Gemeinschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.773861,
+                        1.289995
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Church of Christ",
+                  "text": "Diese Einrichtung der Church of Christ bietet einen ruhigen spirituellen Rückzugsort inmitten des geschäftigen südlichen Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775998,
+                        1.289187
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Wholesale Centre",
+                  "text": "Ein riesiger Großhandelskomplex, in dem sich am frühen Morgen Händler tummeln, die frisches Obst und Gemüse auf der ganzen Insel verteilen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.777176,
+                        1.2856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "blue birds",
+                  "text": "Ez a parki kilátóhely magaslati kilátást kínál a helyi madárélőhelyek ölelésében.",
+                  "category": "natural",
+                  "coords": [
+                        103.786842,
+                        1.282944
+                  ]
+            },
+            {
+                  "name": "Entrance portal",
+                  "text": "Egy díszes, boltíves kapu, amely a látványosság területének fő bejárataként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781357,
+                        1.28418
+                  ]
+            },
+            {
+                  "name": "Haw Par Mansion",
+                  "text": "Egy egykor impozáns birtok omladozó szerkezeti maradványai, amelyek a növényzet között bújnak meg.",
+                  "category": "historical",
+                  "coords": [
+                        103.78255,
+                        1.284856
+                  ]
+            },
+            {
+                  "name": "Kent Ridge Park",
+                  "text": "Ez a történelmi természeti park a második világháború során a Szingapúrért vívott egyik utolsó csata helyszínét őrzi.",
+                  "category": "park",
+                  "coords": [
+                        103.790283,
+                        1.284248
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad",
+                  "text": "Ez a történelmi mecset jellegzetes kampung stílusú építészetével szolgálja a helyi muszlim gyülekezetet.",
+                  "category": "religious",
+                  "coords": [
+                        103.787212,
+                        1.280878
+                  ]
+            },
+            {
+                  "name": "The Studio/Rise of Asia Museum (2024)",
+                  "text": "A 2023-ban megnyílt kortárs kiállítótér az ázsiai kontinens kulturális és gazdasági felemelkedését vizsgálja.",
+                  "category": "museum",
+                  "coords": [
+                        103.781519,
+                        1.285495
+                  ]
+            },
+            {
+                  "name": "Sjømannskirken",
+                  "text": "A kikötőre néző misszió barátságos vallási menedéket és közösségi teret biztosít a skandináv tengerészek számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.780267,
+                        1.287479
+                  ]
+            },
+            {
+                  "name": "West Coast Park",
+                  "text": "A gyakran „a nyugati játékközpontnak” nevezett kiterjedt tengerparti parkban nagy játszóterek és kerékpárút található.",
+                  "category": "park",
+                  "coords": [
+                        103.765993,
+                        1.293952
+                  ]
+            },
+            {
+                  "name": "Village Temple",
+                  "text": "A városi környezetben megbúvó, kis hagyományos taoista szentély, amelyet füstölőtekercsek díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7825,
+                        1.282982
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Hill Brethren Church",
+                  "text": "A domboldalon található keresztény testvérgyülekezeti templom elsöprő kilátást nyújt a környező lakónegyedre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785772,
+                        1.280394
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Free Church",
+                  "text": "Ez az evangéliumi szabadegyház rendszeres istentiszteleteknek és vallási tanulmányoknak ad otthont gyülekezete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.778668,
+                        1.287336
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Sulaiman",
+                  "text": "Kiemelkedő helyi mecset, hagyományos minaretekkel és tágas imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771716,
+                        1.291379
+                  ]
+            },
+            {
+                  "name": "Singapore Bible Baptist Church",
+                  "text": "Egy bejáratott bibliai baptista gyülekezet, amely spirituális útmutatást és közösséget biztosít a helyi keresztényeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.773861,
+                        1.289995
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Church of Christ",
+                  "text": "Ez a Krisztus Egyháza létesítmény csendes spirituális menedéket nyújt a nyüzsgő déli kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775998,
+                        1.289187
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Wholesale Centre",
+                  "text": "Hatalmas nagykereskedelmi komplexum, amely kora reggel nyüzsög a friss gyümölcsöt és zöldséget a szigeten szétosztó kereskedőktől.",
+                  "category": "cultural",
+                  "coords": [
+                        103.777176,
+                        1.2856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "blue birds",
+                  "text": "Acest punct de belvedere din parc oferă priveliști la înălțime, fiind înconjurat de habitate aviare locale.",
+                  "category": "natural",
+                  "coords": [
+                        103.786842,
+                        1.282944
+                  ]
+            },
+            {
+                  "name": "Entrance portal",
+                  "text": "O poartă arcuită decorativă care servește drept punct principal de intrare pe domeniul atracției.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781357,
+                        1.28418
+                  ]
+            },
+            {
+                  "name": "Haw Par Mansion",
+                  "text": "Rămășițele structurale în descompunere ale unei foste moșii grandioase ascunse printre verdeață.",
+                  "category": "historical",
+                  "coords": [
+                        103.78255,
+                        1.284856
+                  ]
+            },
+            {
+                  "name": "Kent Ridge Park",
+                  "text": "Acest parc natural istoric păstrează locul uneia dintre ultimele bătălii pentru Singapore din timpul celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        103.790283,
+                        1.284248
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad",
+                  "text": "Această moschee istorică deservește congregația musulmană locală prin arhitectura sa distinctivă în stil kampung.",
+                  "category": "religious",
+                  "coords": [
+                        103.787212,
+                        1.280878
+                  ]
+            },
+            {
+                  "name": "The Studio/Rise of Asia Museum (2024)",
+                  "text": "Deschis în 2023, acest spațiu expozițional contemporan explorează emergența culturală și economică a continentului asiatic.",
+                  "category": "museum",
+                  "coords": [
+                        103.781519,
+                        1.285495
+                  ]
+            },
+            {
+                  "name": "Sjømannskirken",
+                  "text": "Cu vedere la port, această misiune oferă un refugiu religios primitor și un spațiu comunitar pentru marinarii scandinavi.",
+                  "category": "religious",
+                  "coords": [
+                        103.780267,
+                        1.287479
+                  ]
+            },
+            {
+                  "name": "West Coast Park",
+                  "text": "Numit adesea „Centrul de joacă din Vest”, acest parc de coastă întins are locuri de joacă mari și o pistă de biciclete.",
+                  "category": "park",
+                  "coords": [
+                        103.765993,
+                        1.293952
+                  ]
+            },
+            {
+                  "name": "Village Temple",
+                  "text": "Un mic altar taoist tradițional amplasat în peisajul urban, împodobit cu spirale de tămâie.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7825,
+                        1.282982
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Hill Brethren Church",
+                  "text": "Situată pe un deal, această biserică a fraților creștini oferă vederi ample asupra cartierului rezidențial înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785772,
+                        1.280394
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Free Church",
+                  "text": "Această biserică evanghelică liberă găzduiește slujbe regulate și studii religioase pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        103.778668,
+                        1.287336
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Sulaiman",
+                  "text": "O moschee locală proeminentă, cu minarete tradiționale și o sală de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771716,
+                        1.291379
+                  ]
+            },
+            {
+                  "name": "Singapore Bible Baptist Church",
+                  "text": "O biserică baptistă biblică consacrată, care oferă îndrumare spirituală și părtășie comunității creștine locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.773861,
+                        1.289995
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Church of Christ",
+                  "text": "Această facilitate a Bisericii lui Hristos oferă un refugiu spiritual liniștit în mijlocul aglomeratului district de sud.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775998,
+                        1.289187
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Wholesale Centre",
+                  "text": "Un complex angro masiv, animat dimineața devreme de comercianții care distribuie fructe și legume proaspete pe întreaga insulă.",
+                  "category": "cultural",
+                  "coords": [
+                        103.777176,
+                        1.2856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "blue birds",
+                  "text": "This vantage point in the park offers elevated views surrounded by local avian habitats.",
+                  "category": "natural",
+                  "coords": [
+                        103.786842,
+                        1.282944
+                  ]
+            },
+            {
+                  "name": "Entrance portal",
+                  "text": "A decorative arched gateway that serves as the main entry point to the attraction grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        103.781357,
+                        1.28418
+                  ]
+            },
+            {
+                  "name": "Haw Par Mansion",
+                  "text": "The decaying structural remnants of a once-grand estate hidden among the greenery.",
+                  "category": "historical",
+                  "coords": [
+                        103.78255,
+                        1.284856
+                  ]
+            },
+            {
+                  "name": "Kent Ridge Park",
+                  "text": "This historical nature park preserves the site of one of the final battles for Singapore during World War II.",
+                  "category": "park",
+                  "coords": [
+                        103.790283,
+                        1.284248
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad",
+                  "text": "This historic mosque serves the local Muslim congregation with its distinctive kampung-style architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.787212,
+                        1.280878
+                  ]
+            },
+            {
+                  "name": "The Studio/Rise of Asia Museum (2024)",
+                  "text": "Opened in 2023, this contemporary exhibition space explores the cultural and economic emergence of the Asian continent.",
+                  "category": "museum",
+                  "coords": [
+                        103.781519,
+                        1.285495
+                  ]
+            },
+            {
+                  "name": "Norwegian Seamen's Mission",
+                  "text": "Overlooking the port, this mission provides a welcoming religious haven and community space for Scandinavian sailors.",
+                  "category": "religious",
+                  "coords": [
+                        103.780267,
+                        1.287479
+                  ]
+            },
+            {
+                  "name": "West Coast Park",
+                  "text": "Often called the \"Play Centre in the West\", this expansive coastal park features large playgrounds and a cycling track.",
+                  "category": "park",
+                  "coords": [
+                        103.765993,
+                        1.293952
+                  ]
+            },
+            {
+                  "name": "Village Temple",
+                  "text": "A small, traditional Taoist shrine nestled in the urban landscape, adorned with incense coils.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7825,
+                        1.282982
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Hill Brethren Church",
+                  "text": "Situated on a hillside, this Christian brethren church offers sweeping views of the surrounding residential district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785772,
+                        1.280394
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Free Church",
+                  "text": "This evangelical free church hosts regular worship services and religious studies for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.778668,
+                        1.287336
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Sulaiman",
+                  "text": "A prominent local mosque featuring traditional minarets and a spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771716,
+                        1.291379
+                  ]
+            },
+            {
+                  "name": "Singapore Bible Baptist Church",
+                  "text": "An established Bible Baptist church providing spiritual guidance and fellowship to the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.773861,
+                        1.289995
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Church of Christ",
+                  "text": "This Church of Christ facility provides a quiet spiritual retreat amidst the bustling southern district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775998,
+                        1.289187
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang Wholesale Centre",
+                  "text": "A massive wholesale complex bustling with early-morning traders distributing fresh fruit and vegetables across the island.",
+                  "category": "cultural",
+                  "coords": [
+                        103.777176,
+                        1.2856
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SG-01",
     coords: [103.7852, 1.2858],
@@ -579,7 +4242,592 @@ export const poiExtraSingaporeReliefV2: POI[] = [
     },
   },
   {
-    id: "sg-clementi-forest-relief-v2",
+    id: "sg-clementi-forest-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Jurong railway",
+                  "text": "Die Old Jurong Railway ist eine stillgelegte Transportstrecke, die sich durch das Gebiet des Clementi Forest zieht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780294,
+                        1.32846
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Dieses Eisenbahnmuseum zeigt die Transportgeschichte der umliegenden Region.",
+                  "category": "museum",
+                  "coords": [
+                        103.781524,
+                        1.33457
+                  ]
+            },
+            {
+                  "name": "Dialogue in the Dark Singapore",
+                  "text": "Dialogue in the Dark Singapore bietet eine interaktive Ausstellung, in der Besucher durch komplett abgedunkelte Räume navigieren.",
+                  "category": "museum",
+                  "coords": [
+                        103.777159,
+                        1.334191
+                  ]
+            },
+            {
+                  "name": "Switch Room Ruin #NBE",
+                  "text": "Die Switch Room Ruin #NBE umfasst die von Vegetation überwucherten Betonüberreste einer alten elektrischen Anlage.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775771,
+                        1.324965
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Dieses Freilicht-Amphitheater bietet abgestufte Sitzreihen für lokale Freiluftaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772736,
+                        1.325012
+                  ]
+            },
+            {
+                  "name": "Former Buona Vista Battery No. 2 Gun",
+                  "text": "Die ehemalige Buona Vista Battery No. 2 Gun ist eine historische Militärstätte, die die Überreste einer Küstenartilleriestellung bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775359,
+                        1.318703
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Diese verwitterten baulichen Ruinen werden langsam vom umliegenden Wald zurückerobert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782535,
+                        1.320187
+                  ]
+            },
+            {
+                  "name": "Maju Camp Tunnel",
+                  "text": "Der Maju Camp Tunnel ist ein unterirdischer Betondurchgang, der früher für militärische Zwecke genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775452,
+                        1.326074
+                  ]
+            },
+            {
+                  "name": "Ang Chee Sia Ong Temple",
+                  "text": "Der Ang Chee Sia Ong Tempel ist eine bemerkenswerte daoistische und buddhistische Kultstätte mit traditionellen chinesischen Dachornamenten.",
+                  "category": "religious",
+                  "coords": [
+                        103.760525,
+                        1.311655
+                  ]
+            },
+            {
+                  "name": "Covenant Community Methodist Church",
+                  "text": "Die Covenant Community Methodist Church dient der lokalen christlichen Gemeinde mit regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782808,
+                        1.332914
+                  ]
+            },
+            {
+                  "name": "Datuk Gong Shrine",
+                  "text": "Dieser Datuk Gong Schrein ist ein kleiner lokaler Altar, der chinesischen Erdgeistern gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.756727,
+                        1.335983
+                  ]
+            },
+            {
+                  "name": "Fong Yun Thai Association Columbarium",
+                  "text": "Das Kolumbarium der Fong Yun Thai Association ist eine daoistische Ruhestätte mit zahlreichen Nischen für Ahnenurnen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.789627,
+                        1.328011
+                  ]
+            },
+            {
+                  "name": "Glory Presbyterian Church",
+                  "text": "Die Glory Presbyterian Church ist ein christliches Sakralgebäude, das Raum für gemeinschaftliche Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775645,
+                        1.338421
+                  ]
+            },
+            {
+                  "name": "Chee Ghee Deang Chiang Ching Meow",
+                  "text": "Chee Ghee Deang Chiang Ching Meow ist ein buddhistischer Tempel, der sich durch seine traditionelle orientalische Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.761665,
+                        1.322308
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "Die Masjid Darussalam ist eine lokale islamische Moschee, die der muslimischen Gemeinde für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771111,
+                        1.312477
+                  ]
+            },
+            {
+                  "name": "Clementi Market",
+                  "text": "Der Clementi Market ist ein belebter lokaler Treffpunkt, an dem Händler frische Produkte und regionales Streetfood verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.764505,
+                        1.31319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Jurong railway",
+                  "text": "Az Old Jurong vasút egy elhagyatott közlekedési útvonal, amely a Clementi-erdő területén húzódik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780294,
+                        1.32846
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Ez a vasúti múzeum a környező régió közlekedéstörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.781524,
+                        1.33457
+                  ]
+            },
+            {
+                  "name": "Dialogue in the Dark Singapore",
+                  "text": "A Szingapúri Párbeszéd a Sötétben egy olyan élménykiállítás, ahol a látogatók teljesen elsötétített szobákban tájékozódnak.",
+                  "category": "museum",
+                  "coords": [
+                        103.777159,
+                        1.334191
+                  ]
+            },
+            {
+                  "name": "Switch Room Ruin #NBE",
+                  "text": "A Switch Room Ruin #NBE egy régi elektromos létesítmény növényzettel benőtt betonmaradványait rejti.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775771,
+                        1.324965
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez a szabadtéri amfiteátrum lépcsőzetes ülőhelyekkel várja a helyi előadások közönségét.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772736,
+                        1.325012
+                  ]
+            },
+            {
+                  "name": "Former Buona Vista Battery No. 2 Gun",
+                  "text": "A korábbi Buona Vista 2-es számú üteg egy történelmi katonai helyszín, amely egy partvédelmi tüzérségi állás maradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775359,
+                        1.318703
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Ezeket a málladozó épületromokat lassan visszahódítja a környező erdő.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782535,
+                        1.320187
+                  ]
+            },
+            {
+                  "name": "Maju Camp Tunnel",
+                  "text": "A Maju tábor alagútja egy föld alatti betonátjáró, amelyet korábban katonai célokra használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775452,
+                        1.326074
+                  ]
+            },
+            {
+                  "name": "Ang Chee Sia Ong Temple",
+                  "text": "Az Ang Chee Sia Ong templom egy jelentős taoista és buddhista imahely, amelyet hagyományos kínai tetődíszek ékesítenek.",
+                  "category": "religious",
+                  "coords": [
+                        103.760525,
+                        1.311655
+                  ]
+            },
+            {
+                  "name": "Covenant Community Methodist Church",
+                  "text": "A Covenant Community Metodista Egyház a helyi keresztény gyülekezetet szolgálja rendszeres istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782808,
+                        1.332914
+                  ]
+            },
+            {
+                  "name": "Datuk Gong Shrine",
+                  "text": "Ez a Datuk Gong szentély egy kis helyi oltár, amelyet a kínai népi földszellemeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.756727,
+                        1.335983
+                  ]
+            },
+            {
+                  "name": "Fong Yun Thai Association Columbarium",
+                  "text": "A Fong Yun Thai Association kolumbáriuma egy taoista nyughely, amely számos fülkével rendelkezik az ősök urnái számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.789627,
+                        1.328011
+                  ]
+            },
+            {
+                  "name": "Glory Presbyterian Church",
+                  "text": "A Glory Presbiteriánus Templom egy keresztény vallási épület, amely teret ad a közösségi istentiszteleteknek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775645,
+                        1.338421
+                  ]
+            },
+            {
+                  "name": "Chee Ghee Deang Chiang Ching Meow",
+                  "text": "A Chee Ghee Deang Chiang Ching Meow egy buddhista templom, amelyet hagyományos keleti építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        103.761665,
+                        1.322308
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "A Masjid Darussalam egy helyi iszlám mecset, amely a muszlim közösséget szolgálja a napi imádságok során.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771111,
+                        1.312477
+                  ]
+            },
+            {
+                  "name": "Clementi Market",
+                  "text": "A Clementi piac egy nyüzsgő helyi központ, ahol az árusok friss termékeket és regionális utcai ételeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.764505,
+                        1.31319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Jurong railway",
+                  "text": "Calea ferată Old Jurong este o rută de transport abandonată care se întinde prin zona pădurii Clementi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780294,
+                        1.32846
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Acest muzeu feroviar prezintă istoria transporturilor din regiunea înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        103.781524,
+                        1.33457
+                  ]
+            },
+            {
+                  "name": "Dialogue in the Dark Singapore",
+                  "text": "Dialogue in the Dark Singapore oferă o expoziție experiențială în care vizitatorii navighează în camere complet întunecate.",
+                  "category": "museum",
+                  "coords": [
+                        103.777159,
+                        1.334191
+                  ]
+            },
+            {
+                  "name": "Switch Room Ruin #NBE",
+                  "text": "Switch Room Ruin #NBE prezintă rămășițele din beton ale unei vechi instalații electrice ascunse în vegetație.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775771,
+                        1.324965
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Acest amfiteatru în aer liber dispune de scaune în trepte pentru spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772736,
+                        1.325012
+                  ]
+            },
+            {
+                  "name": "Former Buona Vista Battery No. 2 Gun",
+                  "text": "Fosta baterie Buona Vista No. 2 Gun este un sit militar istoric care păstrează rămășițele unui amplasament de artilerie de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775359,
+                        1.318703
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Aceste ruine structurale erodate sunt încet recuperate de pădurea înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782535,
+                        1.320187
+                  ]
+            },
+            {
+                  "name": "Maju Camp Tunnel",
+                  "text": "Tunelul Maju Camp este un pasaj subteran din beton folosit anterior în scopuri militare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775452,
+                        1.326074
+                  ]
+            },
+            {
+                  "name": "Ang Chee Sia Ong Temple",
+                  "text": "Templul Ang Chee Sia Ong este un loc de cult taoist și budist remarcabil, cu ornamente tradiționale chinezești pe acoperiș.",
+                  "category": "religious",
+                  "coords": [
+                        103.760525,
+                        1.311655
+                  ]
+            },
+            {
+                  "name": "Covenant Community Methodist Church",
+                  "text": "Biserica Metodistă Covenant Community deservește congregația creștină locală cu slujbe religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782808,
+                        1.332914
+                  ]
+            },
+            {
+                  "name": "Datuk Gong Shrine",
+                  "text": "Acest altar Datuk Gong este un mic sanctuar local dedicat spiritelor pământului din folclorul chinezesc.",
+                  "category": "landmark",
+                  "coords": [
+                        103.756727,
+                        1.335983
+                  ]
+            },
+            {
+                  "name": "Fong Yun Thai Association Columbarium",
+                  "text": "Columbarul Asociației Fong Yun Thai este un loc de odihnă taoist cu numeroase nișe pentru urnele ancestrale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.789627,
+                        1.328011
+                  ]
+            },
+            {
+                  "name": "Glory Presbyterian Church",
+                  "text": "Biserica Presbiteriană Glory este o clădire religioasă creștină care oferă un spațiu pentru cultul comunal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775645,
+                        1.338421
+                  ]
+            },
+            {
+                  "name": "Chee Ghee Deang Chiang Ching Meow",
+                  "text": "Chee Ghee Deang Chiang Ching Meow este un templu budist caracterizat prin arhitectura sa orientală tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        103.761665,
+                        1.322308
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "Masjid Darussalam este o moschee islamică locală care servește comunitatea musulmană pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771111,
+                        1.312477
+                  ]
+            },
+            {
+                  "name": "Clementi Market",
+                  "text": "Piața Clementi este un centru local plin de viață, unde vânzătorii oferă produse proaspete și mâncare stradală regională.",
+                  "category": "cultural",
+                  "coords": [
+                        103.764505,
+                        1.31319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Jurong railway",
+                  "text": "The Old Jurong railway is an abandoned transport route stretching through the Clementi Forest area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.780294,
+                        1.32846
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "This railway museum showcases the transportation history of the surrounding area.",
+                  "category": "museum",
+                  "coords": [
+                        103.781524,
+                        1.33457
+                  ]
+            },
+            {
+                  "name": "Dialogue in the Dark Singapore",
+                  "text": "Dialogue in the Dark Singapore offers an experiential exhibition where visitors navigate completely darkened rooms.",
+                  "category": "museum",
+                  "coords": [
+                        103.777159,
+                        1.334191
+                  ]
+            },
+            {
+                  "name": "Switch Room Ruin #NBE",
+                  "text": "The Switch Room Ruin #NBE features the concrete remains of an old electrical facility hidden in the vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775771,
+                        1.324965
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "This open-air amphitheatre features tiered seating for local outdoor performances.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772736,
+                        1.325012
+                  ]
+            },
+            {
+                  "name": "Former Buona Vista Battery No. 2 Gun",
+                  "text": "The Former Buona Vista Battery No. 2 Gun is a historical military site preserving the remains of a coastal artillery emplacement.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775359,
+                        1.318703
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "These weathered structural ruins are slowly being reclaimed by the surrounding forest.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782535,
+                        1.320187
+                  ]
+            },
+            {
+                  "name": "Maju Camp Tunnel",
+                  "text": "The Maju Camp Tunnel is a subterranean concrete passage formerly used for military purposes.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775452,
+                        1.326074
+                  ]
+            },
+            {
+                  "name": "Ang Chee Sia Ong Temple",
+                  "text": "The Ang Chee Sia Ong Temple is a notable Taoist and Buddhist place of worship featuring traditional Chinese roof ornaments.",
+                  "category": "religious",
+                  "coords": [
+                        103.760525,
+                        1.311655
+                  ]
+            },
+            {
+                  "name": "Covenant Community Methodist Church",
+                  "text": "The Covenant Community Methodist Church serves the local Christian congregation with regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782808,
+                        1.332914
+                  ]
+            },
+            {
+                  "name": "Datuk Gong Shrine",
+                  "text": "This Datuk Gong Shrine is a small local altar dedicated to Chinese folk earth spirits.",
+                  "category": "landmark",
+                  "coords": [
+                        103.756727,
+                        1.335983
+                  ]
+            },
+            {
+                  "name": "Fong Yun Thai Association Columbarium",
+                  "text": "The Fong Yun Thai Association Columbarium is a Taoist resting place with numerous niches for ancestral urns.",
+                  "category": "landmark",
+                  "coords": [
+                        103.789627,
+                        1.328011
+                  ]
+            },
+            {
+                  "name": "Glory Presbyterian Church",
+                  "text": "The Glory Presbyterian Church is a Christian religious building offering a space for communal worship.",
+                  "category": "landmark",
+                  "coords": [
+                        103.775645,
+                        1.338421
+                  ]
+            },
+            {
+                  "name": "Chee Ghee Deang Chiang Ching Meow",
+                  "text": "Chee Ghee Deang Chiang Ching Meow is a Buddhist temple characterized by its traditional oriental architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        103.761665,
+                        1.322308
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "Masjid Darussalam is a local Islamic mosque serving the Muslim community for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.771111,
+                        1.312477
+                  ]
+            },
+            {
+                  "name": "Clementi Market",
+                  "text": "Clementi Market is a bustling local hub where vendors sell fresh produce and regional street food.",
+                  "category": "cultural",
+                  "coords": [
+                        103.764505,
+                        1.31319
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SG-01",
     coords: [103.78, 1.33],

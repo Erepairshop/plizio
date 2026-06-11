@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraUaeReliefV2: POI[] = [
   {
-    id: "al-hajar-mountains-relief-v2",
+    id: "al-hajar-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Hidehid",
+                  "text": "Ein schroffer Kalksteingipfel in der dramatischen, kargen Landschaft des Al-Hadschar-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        56.108605,
+                        25.319364
+                  ]
+            },
+            {
+                  "name": "Jabal Al 'Arfay",
+                  "text": "Ein markanter Gipfel mit weitem Blick über die zerklüfteten Grate und tiefen Wadis des Hadschar-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        56.031071,
+                        25.267479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Hidehid",
+                  "text": "Zord mészkőcsúcs az Al-Hadzsar-hegység drámai és kopár táján.",
+                  "category": "natural",
+                  "coords": [
+                        56.108605,
+                        25.319364
+                  ]
+            },
+            {
+                  "name": "Jabal Al 'Arfay",
+                  "text": "Kiemelkedő csúcs, ahonnan pazar kilátás nyílik az Al-Hadzsar-hegység csipkés gerinceire és mély vádijaira.",
+                  "category": "natural",
+                  "coords": [
+                        56.031071,
+                        25.267479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Hidehid",
+                  "text": "Un vârf calcaros accidentat în peisajul dramatic și arid al Munților Al Hajar.",
+                  "category": "natural",
+                  "coords": [
+                        56.108605,
+                        25.319364
+                  ]
+            },
+            {
+                  "name": "Jabal Al 'Arfay",
+                  "text": "Un vârf proeminent care oferă vederi ample asupra crestelor zimțate și uadelor adânci ale Munților Hajar.",
+                  "category": "natural",
+                  "coords": [
+                        56.031071,
+                        25.267479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Hidehid",
+                  "text": "A rugged limestone peak within the dramatic, arid landscape of the Al Hajar Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        56.108605,
+                        25.319364
+                  ]
+            },
+            {
+                  "name": "Jabal Al 'Arfay",
+                  "text": "A prominent summit offering vistas over the jagged peaks and deep wadis of the Hajar mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        56.031071,
+                        25.267479
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-FU",
     coords: [56.1000, 25.3000],
@@ -111,7 +192,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "jebel-mebrah-relief-v2",
+    id: "jebel-mebrah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Yibir / Jabal Al-Mebrah",
+                  "text": "Mit 1527 Metern der höchste Berggipfel, der sich vollständig auf dem Staatsgebiet der VAE befindet.",
+                  "category": "natural",
+                  "coords": [
+                        56.128685,
+                        25.648702
+                  ]
+            },
+            {
+                  "name": "Jabal Harf",
+                  "text": "Ein felsiger Gipfel in der Nähe des Jebel Mebrah, der den Blick auf die gewundenen Wadis der Region freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        56.111392,
+                        25.66793
+                  ]
+            },
+            {
+                  "name": "Site 7 - Wadi floor at base of jabal.",
+                  "text": "Eine Ausgrabungsstätte am Fuße des Berges, an der Siedlungsspuren in der Talsohle des Wadis gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        56.06842,
+                        25.571243
+                  ]
+            },
+            {
+                  "name": "Site 5 - Burial/Hab - Poorly-preserved stone houses/Islamic graves",
+                  "text": "Eine antike Stätte mit schlecht erhaltenen Steinhäusern und Gräbern aus der islamischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        56.061933,
+                        25.576884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Yibir / Jabal Al-Mebrah",
+                  "text": "1527 méteres magasságával ez a legmagasabb hegycsúcs, amely teljes egészében az Egyesült Arab Emírségek területén fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        56.128685,
+                        25.648702
+                  ]
+            },
+            {
+                  "name": "Jabal Harf",
+                  "text": "Sziklás csúcs a Jebel Mebrah közelében, ahonnan kilátás nyílik a régió kanyargós völgyeire (wadi).",
+                  "category": "natural",
+                  "coords": [
+                        56.111392,
+                        25.66793
+                  ]
+            },
+            {
+                  "name": "Site 7 - Wadi floor at base of jabal.",
+                  "text": "Régészeti feltárás a hegy lábánál, ahol településnyomokat találtak a völgy alján.",
+                  "category": "historical",
+                  "coords": [
+                        56.06842,
+                        25.571243
+                  ]
+            },
+            {
+                  "name": "Site 5 - Burial/Hab - Poorly-preserved stone houses/Islamic graves",
+                  "text": "Ősi lelőhely rossz állapotú kőházakkal és iszlám korszakból származó sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        56.061933,
+                        25.576884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Yibir / Jabal Al-Mebrah",
+                  "text": "La 1527 de metri, este cel mai înalt vârf muntos situat în întregime pe teritoriul Emiratelor Arabe Unite.",
+                  "category": "natural",
+                  "coords": [
+                        56.128685,
+                        25.648702
+                  ]
+            },
+            {
+                  "name": "Jabal Harf",
+                  "text": "Un vârf stâncos în apropiere de Jebel Mebrah, oferind vederi asupra udiurilor șerpuite din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        56.111392,
+                        25.66793
+                  ]
+            },
+            {
+                  "name": "Site 7 - Wadi floor at base of jabal.",
+                  "text": "Un sit arheologic la baza muntelui, unde au fost descoperite urme de așezări în valea udiului.",
+                  "category": "historical",
+                  "coords": [
+                        56.06842,
+                        25.571243
+                  ]
+            },
+            {
+                  "name": "Site 5 - Burial/Hab - Poorly-preserved stone houses/Islamic graves",
+                  "text": "Un sit antic care cuprinde case de piatră slab conservate și morminte din perioada islamică.",
+                  "category": "historical",
+                  "coords": [
+                        56.061933,
+                        25.576884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Yibir / Jabal Al-Mebrah",
+                  "text": "At 1,527 metres, this is the highest mountain summit located entirely within the territory of the UAE.",
+                  "category": "natural",
+                  "coords": [
+                        56.128685,
+                        25.648702
+                  ]
+            },
+            {
+                  "name": "Jabal Harf",
+                  "text": "A rocky peak near Jebel Mebrah offering views over the winding wadis of the region.",
+                  "category": "natural",
+                  "coords": [
+                        56.111392,
+                        25.66793
+                  ]
+            },
+            {
+                  "name": "Site 7 - Wadi floor at base of jabal.",
+                  "text": "An archaeological site at the base of the mountain featuring habitation traces on the wadi floor.",
+                  "category": "historical",
+                  "coords": [
+                        56.06842,
+                        25.571243
+                  ]
+            },
+            {
+                  "name": "Site 5 - Burial/Hab - Poorly-preserved stone houses/Islamic graves",
+                  "text": "An ancient site containing poorly-preserved stone houses and graves dating from the Islamic period.",
+                  "category": "historical",
+                  "coords": [
+                        56.061933,
+                        25.576884
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-FU",
     coords: [56.1264, 25.6425],
@@ -147,7 +381,196 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-asimah-relief-v2",
+    id: "wadi-asimah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Hakimah",
+                  "text": "Ein schroffer Berggipfel mit Blick auf die malerischen landwirtschaftlichen Terrassen von Wadi Asimah.",
+                  "category": "natural",
+                  "coords": [
+                        56.18587,
+                        25.428745
+                  ]
+            },
+            {
+                  "name": "Wadi Al Abadilah hiking trails",
+                  "text": "Eine Reihe malerischer Wanderwege durch ein üppiges Wadi mit Dattelpalmen und saisonalen Felsenbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        56.197398,
+                        25.440882
+                  ]
+            },
+            {
+                  "name": "Jabal Shemah",
+                  "text": "Ein markanter Gipfel in der Asimah-Region, der durch seine steilen, sonnenverbrannten Kalksteinhänge geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.132566,
+                        25.460262
+                  ]
+            },
+            {
+                  "name": "Jabal Mi'rad Al Fay",
+                  "text": "Ein Berggipfel mit weitem Ausblick über die zerklüfteten Kämme und Täler des zentralen Hadschar-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        56.112754,
+                        25.439891
+                  ]
+            },
+            {
+                  "name": "Old Asimah",
+                  "text": "Eindrucksvolle Ruinen eines verlassenen Bergdorfes mit traditionellem Trockenmauerwerk und alten Bewässerungskanälen.",
+                  "category": "historical",
+                  "coords": [
+                        56.136417,
+                        25.39952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Hakimah",
+                  "text": "Sziklás hegycsúcs, amely a Wadi Asimah festői mezőgazdasági teraszaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        56.18587,
+                        25.428745
+                  ]
+            },
+            {
+                  "name": "Wadi Al Abadilah hiking trails",
+                  "text": "Festői túraútvonalak egy dús vádi mentén, amelyet datolyapálmák és időszakos sziklamedencék díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        56.197398,
+                        25.440882
+                  ]
+            },
+            {
+                  "name": "Jabal Shemah",
+                  "text": "Az Asimah-régió egyik kiemelkedő csúcsa, amelyet meredek, napégette mészkőlejtők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        56.132566,
+                        25.460262
+                  ]
+            },
+            {
+                  "name": "Jabal Mi'rad Al Fay",
+                  "text": "Hegycsúcs, ahonnan pazar kilátás nyílik a középső Al-Hadzsar-hegység csipkés gerinceire és völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        56.112754,
+                        25.439891
+                  ]
+            },
+            {
+                  "name": "Old Asimah",
+                  "text": "Egy elhagyatott hegyi falu hangulatos romjai hagyományos szárazon rakott kőfalakkal és ősi öntözőcsatornákkal.",
+                  "category": "historical",
+                  "coords": [
+                        56.136417,
+                        25.39952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Hakimah",
+                  "text": "Un vârf muntos accidentat care domină terasele agricole pitorești din Wadi Asimah.",
+                  "category": "natural",
+                  "coords": [
+                        56.18587,
+                        25.428745
+                  ]
+            },
+            {
+                  "name": "Wadi Al Abadilah hiking trails",
+                  "text": "O serie de trasee de drumeție pitorești care șerpuiesc printr-un uadi luxuriant plin de curmali și bazine stâncoase sezoniere.",
+                  "category": "landmark",
+                  "coords": [
+                        56.197398,
+                        25.440882
+                  ]
+            },
+            {
+                  "name": "Jabal Shemah",
+                  "text": "Un vârf proeminent din regiunea Asimah, caracterizat prin pantele sale calcaroase abrupte și pârjolite de soare.",
+                  "category": "natural",
+                  "coords": [
+                        56.132566,
+                        25.460262
+                  ]
+            },
+            {
+                  "name": "Jabal Mi'rad Al Fay",
+                  "text": "Un vârf montan care oferă priveliști extinse peste crestele și văile zimțate ale Munților Hajar centrali.",
+                  "category": "natural",
+                  "coords": [
+                        56.112754,
+                        25.439891
+                  ]
+            },
+            {
+                  "name": "Old Asimah",
+                  "text": "Ruinele evocatoare ale unui sat montan abandonat, cu zidărie tradițională din piatră uscată și canale vechi de irigații.",
+                  "category": "historical",
+                  "coords": [
+                        56.136417,
+                        25.39952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Hakimah",
+                  "text": "A rugged mountain peak overlooking the scenic agricultural terraces of Wadi Asimah.",
+                  "category": "natural",
+                  "coords": [
+                        56.18587,
+                        25.428745
+                  ]
+            },
+            {
+                  "name": "Wadi Al Abadilah hiking trails",
+                  "text": "A series of scenic hiking trails winding through a lush wadi filled with date palms and seasonal rock pools.",
+                  "category": "landmark",
+                  "coords": [
+                        56.197398,
+                        25.440882
+                  ]
+            },
+            {
+                  "name": "Jabal Shemah",
+                  "text": "A prominent peak in the Asimah region, characterized by its steep, sun-scorched limestone slopes.",
+                  "category": "natural",
+                  "coords": [
+                        56.132566,
+                        25.460262
+                  ]
+            },
+            {
+                  "name": "Jabal Mi'rad Al Fay",
+                  "text": "A mountain summit offering expansive views across the jagged ridges and valleys of the central Hajar range.",
+                  "category": "natural",
+                  "coords": [
+                        56.112754,
+                        25.439891
+                  ]
+            },
+            {
+                  "name": "Old Asimah",
+                  "text": "The evocative ruins of an abandoned mountain village featuring traditional dry-stone masonry and ancient irrigation channels.",
+                  "category": "historical",
+                  "coords": [
+                        56.136417,
+                        25.39952
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AE-RK",
     coords: [56.1368, 25.4055],
@@ -183,7 +606,52 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "liwa-desert-relief-v2",
+    id: "liwa-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhafeer Fort",
+                  "text": "Eine alte Wüstenfestung, die zur Bewachung der Region Liwa-Oase errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        53.754363,
+                        23.12676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhafeer Fort",
+                  "text": "Egy régi sivatagi erőd, amelyet a Liwa-oázis régió védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        53.754363,
+                        23.12676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhafeer Fort",
+                  "text": "Un vechi fort defensiv din deșert, construit pentru a păzi regiunea Oazei Liwa.",
+                  "category": "fortress",
+                  "coords": [
+                        53.754363,
+                        23.12676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhafeer Fort",
+                  "text": "An old defensive desert fort constructed to guard the Liwa Oasis region.",
+                  "category": "fortress",
+                  "coords": [
+                        53.754363,
+                        23.12676
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "AE-AZ",
     coords: [53.7667, 23.1333],
@@ -219,7 +687,88 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "sir-bani-yas-coast-relief-v2",
+    id: "sir-bani-yas-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "SBY Swing",
+                  "text": "Diese Schaukel direkt am Ufer bietet einen malerischen Aussichtspunkt für Fotos bei Sonnenuntergang über dem Meer.",
+                  "category": "natural",
+                  "coords": [
+                        52.638308,
+                        24.290287
+                  ]
+            },
+            {
+                  "name": "Sculpture SBY Cruise Beach",
+                  "text": "Eine moderne Skulptur, die als markantes Kunstwerk am Anlegebereich für Kreuzfahrtschiffe steht.",
+                  "category": "landmark",
+                  "coords": [
+                        52.638719,
+                        24.291295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SBY Swing",
+                  "text": "Ez a közvetlenül a parton található hinta festői kilátóhelyet kínál a tenger feletti naplemente fotózásához.",
+                  "category": "natural",
+                  "coords": [
+                        52.638308,
+                        24.290287
+                  ]
+            },
+            {
+                  "name": "Sculpture SBY Cruise Beach",
+                  "text": "Modern szobor, amely jellegzetes műalkotásként áll a sétahajó-kikötő strandján.",
+                  "category": "landmark",
+                  "coords": [
+                        52.638719,
+                        24.291295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SBY Swing",
+                  "text": "Acest leagăn situat chiar pe mal oferă un punct de observație pitoresc pentru fotografii la apus deasupra mării.",
+                  "category": "natural",
+                  "coords": [
+                        52.638308,
+                        24.290287
+                  ]
+            },
+            {
+                  "name": "Sculpture SBY Cruise Beach",
+                  "text": "O sculptură modernă care servește ca operă de artă distinctivă pe plaja terminalului de croazieră.",
+                  "category": "landmark",
+                  "coords": [
+                        52.638719,
+                        24.291295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SBY Swing",
+                  "text": "This seaside swing offers a scenic viewpoint perfect for capturing photos during sunset over the water.",
+                  "category": "natural",
+                  "coords": [
+                        52.638308,
+                        24.290287
+                  ]
+            },
+            {
+                  "name": "Sculpture SBY Cruise Beach",
+                  "text": "A modern sculpture serving as a prominent artwork on the cruise ship terminal beach.",
+                  "category": "landmark",
+                  "coords": [
+                        52.638719,
+                        24.291295
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "AE-AZ",
     coords: [52.6000, 24.3000],
@@ -255,7 +804,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-al-helo-relief-v2",
+    id: "wadi-al-helo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hiblat (ruins of an ancient village)",
+                  "text": "Überreste einer alten Siedlung im Wadi Al Helo, die aus einfachen Steinstrukturen in der Berglandschaft bestehen.",
+                  "category": "historical",
+                  "coords": [
+                        56.205302,
+                        25.023038
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Archaeological Site",
+                  "text": "Diese Ausgrabungsstätte im Hajar-Gebirge zeigt die Überreste eines historischen Dorfes mit gut erhaltenen islamischen Wachtürmen.",
+                  "category": "historical",
+                  "coords": [
+                        56.218304,
+                        24.990554
+                  ]
+            },
+            {
+                  "name": "Jabal Qitab",
+                  "text": "Ein markanter Berggipfel im Hajar-Gebirge, der direkt an der Grenze zwischen den Vereinigten Arabischen Emiraten und Oman liegt.",
+                  "category": "natural",
+                  "coords": [
+                        56.241582,
+                        25.020614
+                  ]
+            },
+            {
+                  "name": "Eisa Al Thabbahi's home",
+                  "text": "Dieses beeindruckende Bauernhaus aus dem 19. Jahrhundert zeugt vom historischen Reichtum der Tabakbauern im Wadi Helo.",
+                  "category": "historical",
+                  "coords": [
+                        56.216968,
+                        24.990685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hiblat (ruins of an ancient village)",
+                  "text": "Egy régi település maradványai a Vádi Al Helo-ban, amely egyszerű kőszerkezetekből áll a hegyi tájban.",
+                  "category": "historical",
+                  "coords": [
+                        56.205302,
+                        25.023038
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Archaeological Site",
+                  "text": "Ez a Hajar-hegységben található régészeti lelőhely egy elhagyatott falu romjait és helyreállított iszlám kori őrtornyokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        56.218304,
+                        24.990554
+                  ]
+            },
+            {
+                  "name": "Jabal Qitab",
+                  "text": "Egy kiemelkedő hegycsúcs a Hajar-hegységben, közvetlenül az Egyesült Arab Emírségek és Omán határán.",
+                  "category": "natural",
+                  "coords": [
+                        56.241582,
+                        25.020614
+                  ]
+            },
+            {
+                  "name": "Eisa Al Thabbahi's home",
+                  "text": "Ez a kifinomult 19. századi tanya a Wadi Helo környéki egykori dohánytermesztő közösség gazdagságát tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        56.216968,
+                        24.990685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hiblat (ruins of an ancient village)",
+                  "text": "Rămășițele unei vechi așezări în Wadi Al Helo, constând din structuri simple de piatră în peisajul montan.",
+                  "category": "historical",
+                  "coords": [
+                        56.205302,
+                        25.023038
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Archaeological Site",
+                  "text": "Acest sit arheologic din Munții Hajar prezintă ruinele unui sat abandonat și turnuri de veghe restaurate din epoca islamică.",
+                  "category": "historical",
+                  "coords": [
+                        56.218304,
+                        24.990554
+                  ]
+            },
+            {
+                  "name": "Jabal Qitab",
+                  "text": "Un vârf muntos proeminent din lanțul Hajar, situat chiar la granița dintre Emiratele Arabe Unite și Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.241582,
+                        25.020614
+                  ]
+            },
+            {
+                  "name": "Eisa Al Thabbahi's home",
+                  "text": "Această fermă sofisticată din secolul al XIX-lea reflectă bogăția istorică a comunității cultivatoare de tutun din Wadi Helo.",
+                  "category": "historical",
+                  "coords": [
+                        56.216968,
+                        24.990685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hiblat (ruins of an ancient village)",
+                  "text": "Remains of an old settlement in Wadi Al Helo, consisting of simple stone structures within the mountain landscape.",
+                  "category": "historical",
+                  "coords": [
+                        56.205302,
+                        25.023038
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Archaeological Site",
+                  "text": "This archaeological site in the Hajar Mountains features the ruins of an abandoned village and restored Islamic-era watchtowers.",
+                  "category": "historical",
+                  "coords": [
+                        56.218304,
+                        24.990554
+                  ]
+            },
+            {
+                  "name": "Jabal Qitab",
+                  "text": "A prominent mountain peak in the Hajar range situated right on the border between the United Arab Emirates and Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.241582,
+                        25.020614
+                  ]
+            },
+            {
+                  "name": "Eisa Al Thabbahi's home",
+                  "text": "This sophisticated 19th-century farmhouse reflects the historical wealth of the tobacco-growing community in Wadi Helo.",
+                  "category": "historical",
+                  "coords": [
+                        56.216968,
+                        24.990685
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AE-SH",
     coords: [56.2000, 24.9667],
@@ -363,7 +1065,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-naqab-relief-v2",
+    id: "wadi-naqab-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qarn Ḩarf",
+                  "text": "Ein zerklüfteter Gipfel im Wadi Naqab, der für seine dramatischen Felsformationen und Wüstenpanoramen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.016704,
+                        25.723917
+                  ]
+            },
+            {
+                  "name": "Jabal Baqal",
+                  "text": "Ein steiler Kalksteinberg im Hadschar-Gebirge, der beliebte Wanderrouten durch die trockenen Schluchten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.098027,
+                        25.6884
+                  ]
+            },
+            {
+                  "name": "Qarn al-Harf",
+                  "text": "Eine prähistorische archäologische Stätte im Wadi Naqab, die Überreste aus der frühen Siedlungsgeschichte der Region birgt.",
+                  "category": "historical",
+                  "coords": [
+                        56.016675,
+                        25.722834
+                  ]
+            },
+            {
+                  "name": "Saqr Public Park",
+                  "text": "Ein großer Stadtpark mit einem künstlichen See, Grünflächen und Fahrgeschäften für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        55.971091,
+                        25.703568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qarn Ḩarf",
+                  "text": "Sziklás hegycsúcs a Wadi Naqab-ban, amely drámai sziklaalakzatairól és sivatagi panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.016704,
+                        25.723917
+                  ]
+            },
+            {
+                  "name": "Jabal Baqal",
+                  "text": "Meredek mészkőhegy a Hadzsar-hegységben, amely népszerű túraútvonalakat kínál a száraz szurdokokon át.",
+                  "category": "natural",
+                  "coords": [
+                        56.098027,
+                        25.6884
+                  ]
+            },
+            {
+                  "name": "Qarn al-Harf",
+                  "text": "Prehisztorikus régészeti lelőhely a Wadi Naqab-ban, amely a régió korai településtörténetének emlékeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        56.016675,
+                        25.722834
+                  ]
+            },
+            {
+                  "name": "Saqr Public Park",
+                  "text": "Hatalmas városi park mesterséges tóval, zöldfelületekkel és vidámparki játékokkal családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        55.971091,
+                        25.703568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qarn Ḩarf",
+                  "text": "Un vârf muntos accidentat în Wadi Naqab, cunoscut pentru formațiunile stâncoase dramatice și panoramele de deșert.",
+                  "category": "natural",
+                  "coords": [
+                        56.016704,
+                        25.723917
+                  ]
+            },
+            {
+                  "name": "Jabal Baqal",
+                  "text": "Un munte calcaros abrupt în Munții Hajar, oferind rute de drumeție populare prin cheile aride.",
+                  "category": "natural",
+                  "coords": [
+                        56.098027,
+                        25.6884
+                  ]
+            },
+            {
+                  "name": "Qarn al-Harf",
+                  "text": "Un sit arheologic preistoric în Wadi Naqab, care adăpostește rămășițe din istoria timpurie a așezărilor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        56.016675,
+                        25.722834
+                  ]
+            },
+            {
+                  "name": "Saqr Public Park",
+                  "text": "Un parc urban mare, cu un lac artificial, spații verzi și atracții de divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        55.971091,
+                        25.703568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qarn Ḩarf",
+                  "text": "A rugged peak in Wadi Naqab known for its dramatic rock formations and desert panoramas.",
+                  "category": "natural",
+                  "coords": [
+                        56.016704,
+                        25.723917
+                  ]
+            },
+            {
+                  "name": "Jabal Baqal",
+                  "text": "A steep limestone mountain in the Hajar range offering popular hiking routes through the arid canyons.",
+                  "category": "natural",
+                  "coords": [
+                        56.098027,
+                        25.6884
+                  ]
+            },
+            {
+                  "name": "Qarn al-Harf",
+                  "text": "A prehistoric archaeological site in Wadi Naqab containing remains from the region's early settlement history.",
+                  "category": "historical",
+                  "coords": [
+                        56.016675,
+                        25.722834
+                  ]
+            },
+            {
+                  "name": "Saqr Public Park",
+                  "text": "A large urban park featuring a boating lake, green spaces, and amusement rides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        55.971091,
+                        25.703568
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AE-RK",
     coords: [56.0694, 25.7142],
@@ -399,7 +1254,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "hatta-mountains-relief-v2",
+    id: "hatta-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Qimah",
+                  "text": "Ein beliebter Gipfel für Bergwanderer, der über steinige Pfade zu Panoramablicken über das Hatta-Gebirge führt.",
+                  "category": "natural",
+                  "coords": [
+                        56.156175,
+                        24.794861
+                  ]
+            },
+            {
+                  "name": "Hatta Mountain Sign",
+                  "text": "Ein riesiger 'HATTA'-Schriftzug auf einem Berggipfel, der im Stil des Hollywood-Schildes gestaltet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        56.148476,
+                        24.803917
+                  ]
+            },
+            {
+                  "name": "Jabal Ruwayshid",
+                  "text": "Ein schroffer Gipfel im Hatta-Massiv, der für seine anspruchsvollen Aufstiege und die Aussicht auf die Wadis bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.178193,
+                        24.818256
+                  ]
+            },
+            {
+                  "name": "Hatta sign",
+                  "text": "Wahrzeichen von Hatta: Große weiße Buchstaben auf dem Bergkamm, die über die gesamte Region blicken.",
+                  "category": "landmark",
+                  "coords": [
+                        56.200836,
+                        24.806944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Qimah",
+                  "text": "A túrázók körében népszerű csúcs, ahonnan köves ösvények vezetnek panorámás kilátáshoz a Hatta-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        56.156175,
+                        24.794861
+                  ]
+            },
+            {
+                  "name": "Hatta Mountain Sign",
+                  "text": "Egy hatalmas 'HATTA' felirat egy hegycsúcson, amelyet a Hollywood-felirat stílusában alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        56.148476,
+                        24.803917
+                  ]
+            },
+            {
+                  "name": "Jabal Ruwayshid",
+                  "text": "A Hatta-masszívum zord csúcsa, amely kihívást jelentő mászásairól és a vádikra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.178193,
+                        24.818256
+                  ]
+            },
+            {
+                  "name": "Hatta sign",
+                  "text": "Hatta jelképe: hatalmas fehér betűk a hegygerincen, amelyek az egész régióra rálátnak.",
+                  "category": "landmark",
+                  "coords": [
+                        56.200836,
+                        24.806944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Qimah",
+                  "text": "Un vârf popular pentru drumeți, cu poteci pietroase care duc spre vederi panoramice asupra munților Hatta.",
+                  "category": "natural",
+                  "coords": [
+                        56.156175,
+                        24.794861
+                  ]
+            },
+            {
+                  "name": "Hatta Mountain Sign",
+                  "text": "Un semn uriaș 'HATTA' pe un vârf de munte, creat în stilul faimosului semn Hollywood.",
+                  "category": "landmark",
+                  "coords": [
+                        56.148476,
+                        24.803917
+                  ]
+            },
+            {
+                  "name": "Jabal Ruwayshid",
+                  "text": "Un vârf accidentat în masivul Hatta, cunoscut pentru ascensiunile sale provocatoare și vederea asupra udedurilor.",
+                  "category": "natural",
+                  "coords": [
+                        56.178193,
+                        24.818256
+                  ]
+            },
+            {
+                  "name": "Hatta sign",
+                  "text": "Simbolul orașului Hatta: litere albe mari pe creasta muntelui, care domină întreaga regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        56.200836,
+                        24.806944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Qimah",
+                  "text": "A popular peak for hikers, with stony paths leading to panoramic views over the Hatta mountains.",
+                  "category": "natural",
+                  "coords": [
+                        56.156175,
+                        24.794861
+                  ]
+            },
+            {
+                  "name": "Hatta Mountain Sign",
+                  "text": "A giant 'HATTA' sign on a mountain peak, designed in the style of the iconic Hollywood sign.",
+                  "category": "landmark",
+                  "coords": [
+                        56.148476,
+                        24.803917
+                  ]
+            },
+            {
+                  "name": "Jabal Ruwayshid",
+                  "text": "A rugged peak in the Hatta massif, known for its challenging climbs and views of the surrounding wadis.",
+                  "category": "natural",
+                  "coords": [
+                        56.178193,
+                        24.818256
+                  ]
+            },
+            {
+                  "name": "Hatta sign",
+                  "text": "A landmark of Hatta: large white letters on the mountain ridge overlooking the entire region.",
+                  "category": "landmark",
+                  "coords": [
+                        56.200836,
+                        24.806944
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-DU",
     coords: [56.1333, 24.8167],
@@ -435,7 +1443,52 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "al-badayer-desert-relief-v2",
+    id: "al-badayer-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Desert Safari, Oman Route",
+                  "text": "Eine aufregende Offroad-Route durch die hohen roten Sanddünen von Al Badayer in Richtung Oman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.706793,
+                        24.965247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Desert Safari, Oman Route",
+                  "text": "Izgalmas terepjárós útvonal Al Badayer magas vörös homokdűnéin keresztül Omán irányába.",
+                  "category": "landmark",
+                  "coords": [
+                        55.706793,
+                        24.965247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Desert Safari, Oman Route",
+                  "text": "Un traseu off-road palpitant prin dunele înalte de nisip roșu de la Al Badayer, spre Oman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.706793,
+                        24.965247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Desert Safari, Oman Route",
+                  "text": "A thrilling off-road route through the high red sand dunes of Al Badayer towards Oman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.706793,
+                        24.965247
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "AE-SH",
     coords: [55.7266, 24.9542],
@@ -471,7 +1524,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "ruus-al-jibal-relief-v2",
+    id: "ruus-al-jibal-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadi Al Far Hike Pass",
+                  "text": "Ein Gebirgspass auf einer Trekkingroute mit Blick auf die steilen Klippen von Ru'us al Jibal.",
+                  "category": "natural",
+                  "coords": [
+                        56.133664,
+                        25.874364
+                  ]
+            },
+            {
+                  "name": "Wadi Al Far Hike Plateau",
+                  "text": "Ein erhöhtes Kalksteinplateau in den nördlichen Bergen, das ein Panorama-Trekking-Erlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.138069,
+                        25.880936
+                  ]
+            },
+            {
+                  "name": "Jabal Ar Ra'alah",
+                  "text": "Ein abgelegener Berggipfel in der Region Musandam nahe der Grenze zu den VAE.",
+                  "category": "natural",
+                  "coords": [
+                        56.115129,
+                        25.884777
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Eine kleine Gemeindemoschee in den rauen Bergdörfern der Halbinsel Musandam.",
+                  "category": "landmark",
+                  "coords": [
+                        56.097221,
+                        25.866268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadi Al Far Hike Pass",
+                  "text": "Hegyi hágó egy túraútvonalon, ahonnan kilátás nyílik a Ru'us al Jibal meredek szikláira.",
+                  "category": "natural",
+                  "coords": [
+                        56.133664,
+                        25.874364
+                  ]
+            },
+            {
+                  "name": "Wadi Al Far Hike Plateau",
+                  "text": "Magasan fekvő mészkőfennsík az északi hegyekben, amely panorámás túraélményt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        56.138069,
+                        25.880936
+                  ]
+            },
+            {
+                  "name": "Jabal Ar Ra'alah",
+                  "text": "Távoli hegycsúcs a Muszandam régióban, az Egyesült Arab Emírségek határának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        56.115129,
+                        25.884777
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Kis közösségi mecset a Muszandam-félsziget vadregényes hegyi falvaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.097221,
+                        25.866268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadi Al Far Hike Pass",
+                  "text": "O trecătoare montană pe un traseu de trekking, oferind vederi asupra stâncilor abrupte din Ru'us al Jibal.",
+                  "category": "natural",
+                  "coords": [
+                        56.133664,
+                        25.874364
+                  ]
+            },
+            {
+                  "name": "Wadi Al Far Hike Plateau",
+                  "text": "Un platou calcaros ridicat în munții din nord, oferind o experiență de trekking panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        56.138069,
+                        25.880936
+                  ]
+            },
+            {
+                  "name": "Jabal Ar Ra'alah",
+                  "text": "Un vârf de munte izolat în regiunea Musandam, lângă granița cu EAU.",
+                  "category": "natural",
+                  "coords": [
+                        56.115129,
+                        25.884777
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "O mică moschee comunitară situată în satele montane accidentate din peninsula Musandam.",
+                  "category": "landmark",
+                  "coords": [
+                        56.097221,
+                        25.866268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi Al Far Hike Pass",
+                  "text": "A mountain pass on a trekking route offering views of the steep cliffs of Ru'us al Jibal.",
+                  "category": "natural",
+                  "coords": [
+                        56.133664,
+                        25.874364
+                  ]
+            },
+            {
+                  "name": "Wadi Al Far Hike Plateau",
+                  "text": "An elevated limestone plateau in the northern mountains providing a panoramic trekking experience.",
+                  "category": "natural",
+                  "coords": [
+                        56.138069,
+                        25.880936
+                  ]
+            },
+            {
+                  "name": "Jabal Ar Ra'alah",
+                  "text": "A remote mountain peak in the Musandam region near the border with the UAE.",
+                  "category": "natural",
+                  "coords": [
+                        56.115129,
+                        25.884777
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "A small community mosque situated in the rugged mountain villages of the Musandam Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        56.097221,
+                        25.866268
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-RK",
     coords: [56.1167, 25.8667],
@@ -507,7 +1713,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-qor-relief-v2",
+    id: "wadi-qor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Tawah",
+                  "text": "Ein felsiger Gipfel im südlichen Hadschar-Gebirge, gelegen im Gebiet des Wadi Qor.",
+                  "category": "natural",
+                  "coords": [
+                        56.115059,
+                        25.014426
+                  ]
+            },
+            {
+                  "name": "Jabal Al Lattan",
+                  "text": "Dieser Gipfel bietet einen weiten Blick über das zerklüftete Gebirgsterritorium nahe der Grenze zu Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.174662,
+                        25.027503
+                  ]
+            },
+            {
+                  "name": "Mezdiya (ruins of an ancient village)",
+                  "text": "Ruinen eines alten Bergdorfes mit traditionellen Steinhäusern, die Einblicke in das frühere Leben im Wadi Qor geben.",
+                  "category": "historical",
+                  "coords": [
+                        56.195044,
+                        25.034871
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Nature Reserve",
+                  "text": "Ein Naturschutzgebiet im Wadi Al Helo, bekannt für seine archäologischen Stätten und die reiche Flora nach Regenfällen.",
+                  "category": "natural",
+                  "coords": [
+                        56.195962,
+                        25.046635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Tawah",
+                  "text": "Sziklás csúcs a déli Hajar-hegységben, a Vádi Qor területén.",
+                  "category": "natural",
+                  "coords": [
+                        56.115059,
+                        25.014426
+                  ]
+            },
+            {
+                  "name": "Jabal Al Lattan",
+                  "text": "Erről a csúcsról messzire ellátni az ománi határ közelében fekvő sziklás hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        56.174662,
+                        25.027503
+                  ]
+            },
+            {
+                  "name": "Mezdiya (ruins of an ancient village)",
+                  "text": "Egy régi hegyi falu romjai hagyományos kőházakkal, amelyek bepillantást engednek a Vádi Qor korábbi életébe.",
+                  "category": "historical",
+                  "coords": [
+                        56.195044,
+                        25.034871
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Nature Reserve",
+                  "text": "Természetvédelmi terület a Vádi Al Helo-ban, amely régészeti lelőhelyeiről és esők utáni gazdag flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.195962,
+                        25.046635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Tawah",
+                  "text": "Un vârf stâncos în munții Hajar de sud, situat în zona Wadi Qor.",
+                  "category": "natural",
+                  "coords": [
+                        56.115059,
+                        25.014426
+                  ]
+            },
+            {
+                  "name": "Jabal Al Lattan",
+                  "text": "Acest vârf oferă o vedere largă asupra teritoriului muntos accidentat de lângă granița cu Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.174662,
+                        25.027503
+                  ]
+            },
+            {
+                  "name": "Mezdiya (ruins of an ancient village)",
+                  "text": "Ruinele unui vechi sat de munte cu case tradiționale din piatră, oferind o privire asupra vieții de odinioară din Wadi Qor.",
+                  "category": "historical",
+                  "coords": [
+                        56.195044,
+                        25.034871
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Nature Reserve",
+                  "text": "O rezervație naturală în Wadi Al Helo, cunoscută pentru siturile sale arheologice și flora bogată după ploi.",
+                  "category": "natural",
+                  "coords": [
+                        56.195962,
+                        25.046635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Tawah",
+                  "text": "A rocky peak in the southern Hajar Mountains, located within the Wadi Qor area.",
+                  "category": "natural",
+                  "coords": [
+                        56.115059,
+                        25.014426
+                  ]
+            },
+            {
+                  "name": "Jabal Al Lattan",
+                  "text": "This peak offers an expansive view over the rugged mountain territory near the border with Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.174662,
+                        25.027503
+                  ]
+            },
+            {
+                  "name": "Mezdiya (ruins of an ancient village)",
+                  "text": "Ruins of an ancient mountain village with traditional stone houses, offering a look at former life in Wadi Qor.",
+                  "category": "historical",
+                  "coords": [
+                        56.195044,
+                        25.034871
+                  ]
+            },
+            {
+                  "name": "Wadi Al Helo Nature Reserve",
+                  "text": "A nature reserve in Wadi Al Helo, known for its archaeological sites and lush flora after rainfall.",
+                  "category": "natural",
+                  "coords": [
+                        56.195962,
+                        25.046635
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AE-RK",
     coords: [56.1628, 24.9814],
@@ -543,7 +1902,160 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "fossil-rock-relief-v2",
+    id: "fossil-rock-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riyas law",
+                  "text": "Ein Aussichtspunkt in der Nähe von Fossil Rock mit Blick auf das raue Wüstengelände und die Kalksteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.891259,
+                        25.20982
+                  ]
+            },
+            {
+                  "name": "Jabal Mulayḩah",
+                  "text": "Dieser auch als Fossil Rock bekannte Gipfel enthält sichtbare Meeresfossilien, die Millionen von Jahren alt sind.",
+                  "category": "natural",
+                  "coords": [
+                        55.837326,
+                        25.148159
+                  ]
+            },
+            {
+                  "name": "Meleiha Protected Area",
+                  "text": "Dieses Schutzgebiet umgibt die archäologischen Ruinen von Mleiha und verbindet natürliche Wüstenschönheit mit antiker Geschichte.",
+                  "category": "natural",
+                  "coords": [
+                        55.835565,
+                        25.151816
+                  ]
+            },
+            {
+                  "name": "Elmentether Greenbelt Protected Area",
+                  "text": "Eine Wüstenschutzzone mit einem Grüngürtel aus Vegetation, der zur Bekämpfung der Wüstenbildung angelegt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        55.79583,
+                        25.17278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riyas law",
+                  "text": "A Fossil Rock közelében található látványosság, ahonnan kilátás nyílik a zord sivatagi terepre és a mészkőképződményekre.",
+                  "category": "landmark",
+                  "coords": [
+                        55.891259,
+                        25.20982
+                  ]
+            },
+            {
+                  "name": "Jabal Mulayḩah",
+                  "text": "A Fossil Rock néven is ismert csúcs évmilliókkal ezelőtti, látható tengeri kövületeket tartalmaz.",
+                  "category": "natural",
+                  "coords": [
+                        55.837326,
+                        25.148159
+                  ]
+            },
+            {
+                  "name": "Meleiha Protected Area",
+                  "text": "Ez a védett terület körülveszi Mleiha régészeti romjait, ötvözve a sivatag természeti szépségét az ókori történelemmel.",
+                  "category": "natural",
+                  "coords": [
+                        55.835565,
+                        25.151816
+                  ]
+            },
+            {
+                  "name": "Elmentether Greenbelt Protected Area",
+                  "text": "Sivatagi védelmi zóna növényzeti zöldövvel, amelyet az elsivatagosodás elleni küzdelemre alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        55.79583,
+                        25.17278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riyas law",
+                  "text": "Un punct de interes lângă Fossil Rock, care oferă vedere la terenul deșertic accidentat și formațiunile de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        55.891259,
+                        25.20982
+                  ]
+            },
+            {
+                  "name": "Jabal Mulayḩah",
+                  "text": "Cunoscut și sub numele de Fossil Rock, acest vârf conține fosile marine vizibile care datează de milioane de ani.",
+                  "category": "natural",
+                  "coords": [
+                        55.837326,
+                        25.148159
+                  ]
+            },
+            {
+                  "name": "Meleiha Protected Area",
+                  "text": "Această arie protejată înconjoară ruinele arheologice din Mleiha, îmbinând frumusețea naturală a deșertului cu istoria antică.",
+                  "category": "natural",
+                  "coords": [
+                        55.835565,
+                        25.151816
+                  ]
+            },
+            {
+                  "name": "Elmentether Greenbelt Protected Area",
+                  "text": "O zonă de conservare a deșertului, cu o centură verde de vegetație concepută pentru a combate deșertificarea.",
+                  "category": "natural",
+                  "coords": [
+                        55.79583,
+                        25.17278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riyas law",
+                  "text": "A point of interest near Fossil Rock, offering views of the rugged desert terrain and limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        55.891259,
+                        25.20982
+                  ]
+            },
+            {
+                  "name": "Jabal Mulayhah",
+                  "text": "Also known as Fossil Rock, this peak contains visible marine fossils dating back millions of years.",
+                  "category": "natural",
+                  "coords": [
+                        55.837326,
+                        25.148159
+                  ]
+            },
+            {
+                  "name": "Meleiha Protected Area",
+                  "text": "This protected area surrounds Mleiha's archaeological ruins, blending natural desert beauty with ancient history.",
+                  "category": "natural",
+                  "coords": [
+                        55.835565,
+                        25.151816
+                  ]
+            },
+            {
+                  "name": "Elmentether Greenbelt Protected Area",
+                  "text": "A desert conservation zone featuring a greenbelt of vegetation designed to combat desertification.",
+                  "category": "natural",
+                  "coords": [
+                        55.79583,
+                        25.17278
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-SH",
     coords: [55.8286, 25.1432],
@@ -579,7 +2091,304 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "mleiha-desert-relief-v2",
+    id: "mleiha-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabel Faya Rock Shelter",
+                  "text": "Diese bedeutende paläolithische Ausgrabungsstätte in Sharjah lieferte wichtige Belege für die frühen menschlichen Migrationswege.",
+                  "category": "historical",
+                  "coords": [
+                        55.847459,
+                        25.118783
+                  ]
+            },
+            {
+                  "name": "The Wadi Caves",
+                  "text": "Diese natürlichen Kalksteinhöhlen in der Wüste bieten spektakuläre Aussichtspunkte über die archäologische Landschaft von Mleiha.",
+                  "category": "natural",
+                  "coords": [
+                        55.846574,
+                        25.121975
+                  ]
+            },
+            {
+                  "name": "Jabal Al Fayah",
+                  "text": "Ein markanter Kalksteinberg in Sharjah, der für seine prähistorischen Funde und seine raue Wüstenschönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        55.838957,
+                        25.111404
+                  ]
+            },
+            {
+                  "name": "Mleiha Burial Chambers",
+                  "text": "Diese monumentalen Gräber aus der Bronzezeit in der Mleiha-Wüste zeugen von den frühen Bestattungsriten der Region.",
+                  "category": "historical",
+                  "coords": [
+                        55.870728,
+                        25.111841
+                  ]
+            },
+            {
+                  "name": "Mleiha Palace",
+                  "text": "Die Überreste dieser befestigten Residenz aus der vorislamischen Zeit geben Einblick in die einstige Macht der Oase Mleiha.",
+                  "category": "historical",
+                  "coords": [
+                        55.876867,
+                        25.119371
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Fort of Maleha\"",
+                  "text": "Dieses Museum dokumentiert die Verteidigungsstrategien und die Geschichte des antiken Forts in der Mleiha-Region.",
+                  "category": "museum",
+                  "coords": [
+                        55.871638,
+                        25.11712
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Tomb of Maleha\"",
+                  "text": "Das Besucherzentrum beherbergt bedeutende Funde aus den monumentalen Gräbern der Eisenzeit in Mleiha.",
+                  "category": "museum",
+                  "coords": [
+                        55.857697,
+                        25.126226
+                  ]
+            },
+            {
+                  "name": "disused",
+                  "text": "Die Überreste dieser historischen muslimischen Stätte in der Mleiha-Wüste zeugen von der langen religiösen Geschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        55.844049,
+                        25.12799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabel Faya Rock Shelter",
+                  "text": "Ez a jelentős paleolit régészeti lelőhely Sharjah-ban fontos bizonyítékokkal szolgált a korai emberi vándorlási útvonalakról.",
+                  "category": "historical",
+                  "coords": [
+                        55.847459,
+                        25.118783
+                  ]
+            },
+            {
+                  "name": "The Wadi Caves",
+                  "text": "Ezek a sivatagi mészkőbarlangok látványos kilátópontokat kínálnak Mleiha régészeti tájára.",
+                  "category": "natural",
+                  "coords": [
+                        55.846574,
+                        25.121975
+                  ]
+            },
+            {
+                  "name": "Jabal Al Fayah",
+                  "text": "Sharjah egyik jellegzetes mészkőhegye, amely őskori leleteiről és vad sivatagi szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        55.838957,
+                        25.111404
+                  ]
+            },
+            {
+                  "name": "Mleiha Burial Chambers",
+                  "text": "Ezek a Mleiha-sivatagban található bronzkori monumentális sírok a régió korai temetkezési rítusairól tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        55.870728,
+                        25.111841
+                  ]
+            },
+            {
+                  "name": "Mleiha Palace",
+                  "text": "Ennek az iszlám előtti időkből származó erődített rezidenciának a maradványai betekintést nyújtanak Mleiha oázisának egykori hatalmába.",
+                  "category": "historical",
+                  "coords": [
+                        55.876867,
+                        25.119371
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Fort of Maleha\"",
+                  "text": "Ez a múzeum a Mleiha-régió ókori erődjének védelmi stratégiáit és történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        55.871638,
+                        25.11712
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Tomb of Maleha\"",
+                  "text": "A látogatóközpont a Mleiha vaskori monumentális sírjaiból származó jelentős leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.857697,
+                        25.126226
+                  ]
+            },
+            {
+                  "name": "disused",
+                  "text": "Ennek a Mleiha-sivatagban található történelmi muszlim helyszínnek a maradványai a régió hosszú vallási történelméről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        55.844049,
+                        25.12799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabel Faya Rock Shelter",
+                  "text": "Acest sit arheologic paleolitic important din Sharjah a oferit dovezi cruciale despre rutele timpurii de migrație umană.",
+                  "category": "historical",
+                  "coords": [
+                        55.847459,
+                        25.118783
+                  ]
+            },
+            {
+                  "name": "The Wadi Caves",
+                  "text": "Aceste peșteri naturale de calcar din deșert oferă puncte de observație spectaculoase asupra peisajului arheologic din Mleiha.",
+                  "category": "natural",
+                  "coords": [
+                        55.846574,
+                        25.121975
+                  ]
+            },
+            {
+                  "name": "Jabal Al Fayah",
+                  "text": "Un munte de calcar proeminent din Sharjah, cunoscut pentru descoperirile sale preistorice și frumusețea aspră a deșertului.",
+                  "category": "natural",
+                  "coords": [
+                        55.838957,
+                        25.111404
+                  ]
+            },
+            {
+                  "name": "Mleiha Burial Chambers",
+                  "text": "Aceste morminte monumentale din epoca bronzului din deșertul Mleiha atestă ritualurile funerare timpurii ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        55.870728,
+                        25.111841
+                  ]
+            },
+            {
+                  "name": "Mleiha Palace",
+                  "text": "Rămășițele acestei reședințe fortificate din perioada pre-islamică oferă o perspectivă asupra puterii de odinioară a oazei Mleiha.",
+                  "category": "historical",
+                  "coords": [
+                        55.876867,
+                        25.119371
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Fort of Maleha\"",
+                  "text": "Acest muzeu documentează strategiile de apărare și istoria fortului antic din regiunea Mleiha.",
+                  "category": "museum",
+                  "coords": [
+                        55.871638,
+                        25.11712
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Tomb of Maleha\"",
+                  "text": "Centrul pentru vizitatori găzduiește descoperiri importante din mormintele monumentale din epoca fierului din Mleiha.",
+                  "category": "museum",
+                  "coords": [
+                        55.857697,
+                        25.126226
+                  ]
+            },
+            {
+                  "name": "disused",
+                  "text": "Rămășițele acestui sit istoric musulman din deșertul Mleiha atestă istoria religioasă îndelungată a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        55.844049,
+                        25.12799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabel Faya Rock Shelter",
+                  "text": "This significant Paleolithic archaeological site in Sharjah has provided key evidence for early human migration routes.",
+                  "category": "historical",
+                  "coords": [
+                        55.847459,
+                        25.118783
+                  ]
+            },
+            {
+                  "name": "The Wadi Caves",
+                  "text": "Natural limestone cave formations in the desert offering spectacular viewpoints over the Mleiha archaeological landscape.",
+                  "category": "natural",
+                  "coords": [
+                        55.846574,
+                        25.121975
+                  ]
+            },
+            {
+                  "name": "Jabal Al Fayah",
+                  "text": "A prominent limestone mountain in Sharjah known for its prehistoric archaeological findings and rugged desert beauty.",
+                  "category": "natural",
+                  "coords": [
+                        55.838957,
+                        25.111404
+                  ]
+            },
+            {
+                  "name": "Mleiha Burial Chambers",
+                  "text": "Monumental Bronze Age tombs in the Mleiha desert that showcase the region's ancient funerary customs and architecture.",
+                  "category": "historical",
+                  "coords": [
+                        55.870728,
+                        25.111841
+                  ]
+            },
+            {
+                  "name": "Mleiha Palace",
+                  "text": "The remains of this fortified residence from the pre-Islamic era provide insight into the former prominence of the Mleiha oasis.",
+                  "category": "historical",
+                  "coords": [
+                        55.876867,
+                        25.119371
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Fort of Maleha\"",
+                  "text": "A museum documenting the defensive strategies and history of the ancient fortified structures in the Mleiha region.",
+                  "category": "museum",
+                  "coords": [
+                        55.871638,
+                        25.11712
+                  ]
+            },
+            {
+                  "name": "The Archaeological \"Tomb of Maleha\"",
+                  "text": "The visitor center showcases significant artifacts discovered within Mleiha's monumental Iron Age tombs.",
+                  "category": "museum",
+                  "coords": [
+                        55.857697,
+                        25.126226
+                  ]
+            },
+            {
+                  "name": "disused",
+                  "text": "The remnants of this historical Muslim site in the Mleiha desert reflect the region's long religious history.",
+                  "category": "landmark",
+                  "coords": [
+                        55.844049,
+                        25.12799
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "AE-SH",
     coords: [55.8500, 25.1167],
@@ -615,7 +2424,556 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "khor-fakkan-coast-relief-v2",
+    id: "khor-fakkan-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khorfakkan Amphitheater",
+                  "text": "Ein massives, römisch inspiriertes Freilichttheater mit Panoramablick auf die Küste von Khorfakkan.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347935,
+                        25.366813
+                  ]
+            },
+            {
+                  "name": "Zubarah Heritage Area",
+                  "text": "Die Ruinen einer alten Küstensiedlung, die traditionelle Steinbautechniken zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        56.362817,
+                        25.408124
+                  ]
+            },
+            {
+                  "name": "Zubarah Beach",
+                  "text": "Ein beliebter Sandstrand am Golf von Oman, bekannt für sein klares Wasser und die Bergkulisse.",
+                  "category": "recreational",
+                  "coords": [
+                        56.366363,
+                        25.405427
+                  ]
+            },
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "Eine antike Stätte in einem felsigen Tal mit prähistorischen Grabhügeln und Steinstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Reservoir. Observation deck",
+                  "text": "Ein Aussichtspunkt mit Blick auf das türkisfarbene Wasser des Al-Rafisah-Staudamms und das umliegende Hadschar-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        56.309338,
+                        25.347845
+                  ]
+            },
+            {
+                  "name": "Jabal as Saghir",
+                  "text": "Ein felsiger Gipfel im Hadschar-Gebirge, der einen anspruchsvollen Aufstieg und einen rauen Blick auf die Wüste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.341664,
+                        25.383735
+                  ]
+            },
+            {
+                  "name": "Al Sedra Heritage District",
+                  "text": "Ein Kulturerbe-Viertel in Khorfakkan mit restaurierten traditionellen Gebäuden und einem kleinen ethnografischen Museum.",
+                  "category": "museum",
+                  "coords": [
+                        56.353438,
+                        25.387668
+                  ]
+            },
+            {
+                  "name": "Qidfa Corniche",
+                  "text": "Eine malerische Uferpromenade, ideal für den Blick auf die Fischerboote im Golf von Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.372228,
+                        25.291975
+                  ]
+            },
+            {
+                  "name": "Jabal al Qitayliyah",
+                  "text": "Ein markanter Berggipfel in der rauen Landschaft nördlich von Khorfakkan.",
+                  "category": "natural",
+                  "coords": [
+                        56.339589,
+                        25.307021
+                  ]
+            },
+            {
+                  "name": "Qidfaʻ 1",
+                  "text": "Eine archäologische Stätte, an der ein bedeutendes Kollektivgrab aus dem zweiten Jahrtausend v. Chr. entdeckt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        56.356229,
+                        25.30263
+                  ]
+            },
+            {
+                  "name": "Khorfakkan Amphitheatre",
+                  "text": "Ein großes, in den Berghang gebautes Freilichttheater, in dem kulturelle Veranstaltungen und Konzerte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347338,
+                        25.367911
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "Ein helmförmiges Denkmal, das an den lokalen Widerstand gegen die portugiesische Flotte im Jahr 1507 erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320679
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Eine bedeutende islamische Gebetsstätte in Khorfakkan mit eleganten Bögen und einem ruhigen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        56.332467,
+                        25.287099
+                  ]
+            },
+            {
+                  "name": "Regus Khorfakkan",
+                  "text": "Eine moderne lokale Moschee, die der Gemeinde im Küstengebiet von Khorfakkan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346322,
+                        25.309396
+                  ]
+            },
+            {
+                  "name": "Fruit, Vegetable & Fish Market",
+                  "text": "Ein traditioneller Markt in Hafennähe, auf dem täglich lokaler Fisch und frische Produkte gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        56.36439,
+                        25.347155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khorfakkan Amphitheater",
+                  "text": "Hatalmas, római stílusú szabadtéri színház, amely panorámás kilátást nyújt Hor Fakkán partvidékére.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347935,
+                        25.366813
+                  ]
+            },
+            {
+                  "name": "Zubarah Heritage Area",
+                  "text": "Egy ősi parti település romjai, amelyek a hagyományos kőépítési technikákat mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        56.362817,
+                        25.408124
+                  ]
+            },
+            {
+                  "name": "Zubarah Beach",
+                  "text": "Népszerű homokos strand az Ománi-öbölben, amely tiszta vizéről és hegyi hátteréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        56.366363,
+                        25.405427
+                  ]
+            },
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "Egy ősi lelőhely egy sziklás völgyben, ahol őskori sírhalmok és kőszerkezetek láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Reservoir. Observation deck",
+                  "text": "Kilátó, ahonnan az Al Rafisah-gát türkizkék vizére és a környező Hadsar-hegységre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        56.309338,
+                        25.347845
+                  ]
+            },
+            {
+                  "name": "Jabal as Saghir",
+                  "text": "Sziklás csúcs a Hadsar-hegységben, amely kihívást jelentő mászást és vad sivatagi kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        56.341664,
+                        25.383735
+                  ]
+            },
+            {
+                  "name": "Al Sedra Heritage District",
+                  "text": "Kulturális negyed Hor Fakkánban, restaurált hagyományos épületekkel és egy kis néprajzi múzeummal.",
+                  "category": "museum",
+                  "coords": [
+                        56.353438,
+                        25.387668
+                  ]
+            },
+            {
+                  "name": "Qidfa Corniche",
+                  "text": "Festői vízparti sétány, amely ideális az Ománi-öböl halászhajóinak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        56.372228,
+                        25.291975
+                  ]
+            },
+            {
+                  "name": "Jabal al Qitayliyah",
+                  "text": "Egy jellegzetes hegycsúcs a Hor Fakkántól északra fekvő vad tájon.",
+                  "category": "natural",
+                  "coords": [
+                        56.339589,
+                        25.307021
+                  ]
+            },
+            {
+                  "name": "Qidfaʻ 1",
+                  "text": "Régészeti lelőhely, ahol egy jelentős, az i. e. második évezredből származó közös sírt fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        56.356229,
+                        25.30263
+                  ]
+            },
+            {
+                  "name": "Khorfakkan Amphitheatre",
+                  "text": "Hatalmas, a hegyoldalba épített szabadtéri színház, amely kulturális eseményeknek és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347338,
+                        25.367911
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "Sisak alakú emlékmű, amely a portugál flotta elleni 1507-es helyi ellenállásnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320679
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Hor Fakkán jelentős iszlám temploma elegáns ívekkel és csendes belső udvarral.",
+                  "category": "landmark",
+                  "coords": [
+                        56.332467,
+                        25.287099
+                  ]
+            },
+            {
+                  "name": "Regus Khorfakkan",
+                  "text": "Modern helyi mecset, amely a Hor Fakkán parti területén élő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346322,
+                        25.309396
+                  ]
+            },
+            {
+                  "name": "Fruit, Vegetable & Fish Market",
+                  "text": "Hagyományos piac a kikötő közelében, ahol naponta kereskednek helyi halakkal és friss árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        56.36439,
+                        25.347155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khorfakkan Amphitheater",
+                  "text": "Un amfiteatru masiv în aer liber, inspirat de arhitectura romană, oferind vederi panoramice asupra coastei Khorfakkan.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347935,
+                        25.366813
+                  ]
+            },
+            {
+                  "name": "Zubarah Heritage Area",
+                  "text": "Ruinele unei așezări de coastă antice care prezintă tehnici tradiționale de construcție din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        56.362817,
+                        25.408124
+                  ]
+            },
+            {
+                  "name": "Zubarah Beach",
+                  "text": "O plajă de nisip populară în Golful Oman, cunoscută pentru apele sale limpezi și peisajul montan.",
+                  "category": "recreational",
+                  "coords": [
+                        56.366363,
+                        25.405427
+                  ]
+            },
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "Un sit antic într-o vale stâncoasă, cu tumuli preistorici și structuri din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Reservoir. Observation deck",
+                  "text": "Un punct de observație care oferă vederi asupra apelor turcoaz ale barajului Al Rafisah și Munților Hajar.",
+                  "category": "natural",
+                  "coords": [
+                        56.309338,
+                        25.347845
+                  ]
+            },
+            {
+                  "name": "Jabal as Saghir",
+                  "text": "Un vârf stâncos în Munții Hajar, care oferă o ascensiune provocatoare și vederi deșertice aspre.",
+                  "category": "natural",
+                  "coords": [
+                        56.341664,
+                        25.383735
+                  ]
+            },
+            {
+                  "name": "Al Sedra Heritage District",
+                  "text": "Un cartier istoric din Khorfakkan cu clădiri tradiționale restaurate și un mic muzeu etnografic.",
+                  "category": "museum",
+                  "coords": [
+                        56.353438,
+                        25.387668
+                  ]
+            },
+            {
+                  "name": "Qidfa Corniche",
+                  "text": "O promenadă pitorească pe malul apei, ideală pentru vederi asupra bărcilor de pescuit din Golful Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.372228,
+                        25.291975
+                  ]
+            },
+            {
+                  "name": "Jabal al Qitayliyah",
+                  "text": "Un vârf de munte proeminent în peisajul accidentat de la nord de Khorfakkan.",
+                  "category": "natural",
+                  "coords": [
+                        56.339589,
+                        25.307021
+                  ]
+            },
+            {
+                  "name": "Qidfaʻ 1",
+                  "text": "Un sit arheologic unde a fost descoperit un mormânt colectiv semnificativ din mileniul al II-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        56.356229,
+                        25.30263
+                  ]
+            },
+            {
+                  "name": "Khorfakkan Amphitheatre",
+                  "text": "Un amfiteatru grandios în aer liber construit în versantul muntelui, care găzduiește evenimente culturale și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347338,
+                        25.367911
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "Un monument în formă de cască ce comemorează rezistența locală împotriva flotei portugheze în 1507.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320679
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Un lăcaș de cult islamic important în Khorfakkan, cu arcade elegante și o curte liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        56.332467,
+                        25.287099
+                  ]
+            },
+            {
+                  "name": "Regus Khorfakkan",
+                  "text": "O moschee locală modernă care deservește comunitatea din zona de coastă a Khorfakkan.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346322,
+                        25.309396
+                  ]
+            },
+            {
+                  "name": "Fruit, Vegetable & Fish Market",
+                  "text": "O piață tradițională lângă port, unde peștele local și produsele proaspete sunt comercializate zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        56.36439,
+                        25.347155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khorfakkan Amphitheater",
+                  "text": "A massive Roman-inspired open-air theater offering panoramic views of the Khorfakkan coastline.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347935,
+                        25.366813
+                  ]
+            },
+            {
+                  "name": "Zubarah Heritage Area",
+                  "text": "The ruins of an ancient coastal settlement showcasing traditional stone building techniques.",
+                  "category": "historical",
+                  "coords": [
+                        56.362817,
+                        25.408124
+                  ]
+            },
+            {
+                  "name": "Zubarah Beach",
+                  "text": "A popular sandy beach on the Gulf of Oman, known for its clear waters and mountain backdrop.",
+                  "category": "recreational",
+                  "coords": [
+                        56.366363,
+                        25.405427
+                  ]
+            },
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "An ancient site in a rocky valley featuring prehistoric burial mounds and stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Reservoir. Observation deck",
+                  "text": "A viewpoint overlooking the turquoise waters of the Al Rafisah Dam and the surrounding Hajar Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        56.309338,
+                        25.347845
+                  ]
+            },
+            {
+                  "name": "Jabal as Saghir",
+                  "text": "A rocky peak in the Hajar Mountains offering a challenging ascent and rugged desert views.",
+                  "category": "natural",
+                  "coords": [
+                        56.341664,
+                        25.383735
+                  ]
+            },
+            {
+                  "name": "Al Sedra Heritage District",
+                  "text": "A heritage area in Khorfakkan with restored traditional buildings and a small ethnographic museum.",
+                  "category": "museum",
+                  "coords": [
+                        56.353438,
+                        25.387668
+                  ]
+            },
+            {
+                  "name": "Qidfa Corniche",
+                  "text": "A scenic waterfront promenade ideal for views of the fishing boats in the Gulf of Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.372228,
+                        25.291975
+                  ]
+            },
+            {
+                  "name": "Jabal al Qitayliyah",
+                  "text": "A prominent mountain peak in the rugged landscape north of Khorfakkan.",
+                  "category": "natural",
+                  "coords": [
+                        56.339589,
+                        25.307021
+                  ]
+            },
+            {
+                  "name": "Qidfaʻ 1",
+                  "text": "An archaeological site where a significant collective tomb from the second millennium BC was discovered.",
+                  "category": "historical",
+                  "coords": [
+                        56.356229,
+                        25.30263
+                  ]
+            },
+            {
+                  "name": "Khorfakkan Amphitheatre",
+                  "text": "A grand open-air theater built into the mountainside, hosting cultural events and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        56.347338,
+                        25.367911
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "A helmet-shaped monument commemorating the local resistance against the Portuguese fleet in 1507.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320679
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "A significant Islamic place of worship in Khorfakkan with elegant arches and a quiet courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        56.332467,
+                        25.287099
+                  ]
+            },
+            {
+                  "name": "Regus Khorfakkan",
+                  "text": "A modern local mosque serving the community in the Khorfakkan coastal area.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346322,
+                        25.309396
+                  ]
+            },
+            {
+                  "name": "Fruit, Vegetable & Fish Market",
+                  "text": "A traditional market near the port where local fish and fresh produce are traded daily.",
+                  "category": "cultural",
+                  "coords": [
+                        56.36439,
+                        25.347155
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "AE-SH",
     coords: [56.3500, 25.3333],
@@ -651,7 +3009,52 @@ export const poiExtraUaeReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-al-bih-plateau-relief-v2",
+    id: "wadi-al-bih-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haqeel Valley Mosque",
+                  "text": "Vor der felsigen Kulisse des Wadi-al-Bih-Plateaus bietet die Moschee im Haqeel-Tal einen isolierten islamischen Zufluchtsort für Reisende und Einheimische.",
+                  "category": "landmark",
+                  "coords": [
+                        56.047656,
+                        25.811945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haqeel Valley Mosque",
+                  "text": "A Wadi al-Bih fennsík sziklás hátterében álló Haqeel-völgyi mecset elszigetelt iszlám menedéket nyújt az utazóknak és a helyieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        56.047656,
+                        25.811945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haqeel Valley Mosque",
+                  "text": "Amplasată pe fundalul stâncos al platoului Wadi al-Bih, Moscheea Văii Haqeel oferă un refugiu islamic izolat pentru călători și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        56.047656,
+                        25.811945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haqeel Valley Mosque",
+                  "text": "Set against the rocky backdrop of the Wadi al-Bih plateau, the Haqeel Valley Mosque provides an isolated Islamic refuge for travelers and locals.",
+                  "category": "landmark",
+                  "coords": [
+                        56.047656,
+                        25.811945
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "AE-RK",
     coords: [56.1000, 25.8167],

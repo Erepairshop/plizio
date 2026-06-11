@@ -192,7 +192,7 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
       "de": [
             {
                   "name": "Strandzone",
-                  "text": "Strandzone bei Planckendael.",
+                  "text": "Sandstrandbereich mit Planschbecken für Kinder im Tierpark Planckendael.",
                   "category": "recreational",
                   "coords": [
                         4.514351,
@@ -203,7 +203,7 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
       "hu": [
             {
                   "name": "Strandzone",
-                  "text": "Planckendael melletti strandzóna.",
+                  "text": "Homokos strandrész gyerekmedencével a Planckendael állatkertben.",
                   "category": "recreational",
                   "coords": [
                         4.514351,
@@ -214,7 +214,7 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
       "ro": [
             {
                   "name": "Strandzone",
-                  "text": "Zonă de plajă lângă Planckendael.",
+                  "text": "O zonă de plajă nisipoasă cu o piscină pentru copii în parcul zoologic Planckendael.",
                   "category": "recreational",
                   "coords": [
                         4.514351,
@@ -225,7 +225,7 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
       "en": [
             {
                   "name": "Strandzone",
-                  "text": "Beach zone near Planckendael.",
+                  "text": "A sandy beach area with a paddling pool for children within Planckendael animal park.",
                   "category": "recreational",
                   "coords": [
                         4.514351,
@@ -365,7 +365,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Monument Pietkin",
-                  "text": "Ein Denkmal zu Ehren von Henri Pietkin im Hohen Venn.",
+                  "text": "Steinernes Denkmal zur Erinnerung an den Widerstandskämpfer Pietkin auf dem Hohen Venn.",
                   "category": "historical",
                   "coords": [
                         6.120091,
@@ -430,7 +430,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Monument Pietkin",
-                  "text": "Henri Pietkin tiszteletére emelt emlékmű a Magas-Láp területén.",
+                  "text": "Kőemlékmű a Pietkin ellenálló emlékére a Hohes Venn-fennsíkon.",
                   "category": "historical",
                   "coords": [
                         6.120091,
@@ -495,7 +495,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Monument Pietkin",
-                  "text": "Un monument dedicat lui Henri Pietkin în regiunea High Fens.",
+                  "text": "Un monument de piatră în memoria rezistentului Pietkin pe platoul High Fens.",
                   "category": "historical",
                   "coords": [
                         6.120091,
@@ -560,7 +560,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Monument Pietkin",
-                  "text": "A monument honoring Henri Pietkin located in the High Fens.",
+                  "text": "A stone monument commemorating resistance fighter Pietkin on the High Fens plateau.",
                   "category": "historical",
                   "coords": [
                         6.120091,
@@ -682,7 +682,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Kasteel Boterberg",
-                  "text": "Ein lokales Schloss in der Nähe der Kalmthoutse Heide.",
+                  "text": "Kasteel Boterberg aus der Zeit um 1874 in der Kalmthoutse Heide, geschütztes Kulturerbe.",
                   "category": "castle",
                   "coords": [
                         4.462627,
@@ -756,7 +756,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Kasteel Boterberg",
-                  "text": "Helyi kastély a Kalmthoutse Heide közelében.",
+                  "text": "Boterberg-kastély, 1874 körül épült a Kalmthoutse Heide-ben, védett örökség.",
                   "category": "castle",
                   "coords": [
                         4.462627,
@@ -830,7 +830,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Kasteel Boterberg",
-                  "text": "Un castel local situat în apropiere de Kalmthoutse Heide.",
+                  "text": "Castelul Boterberg din jurul anului 1874 în Kalmthoutse Heide, patrimoniu protejat.",
                   "category": "castle",
                   "coords": [
                         4.462627,
@@ -904,7 +904,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
             },
             {
                   "name": "Kasteel Boterberg",
-                  "text": "A local castle located in the vicinity of Kalmthoutse Heide.",
+                  "text": "Kasteel Boterberg from around 1874 in Kalmthoutse Heide, listed heritage.",
                   "category": "castle",
                   "coords": [
                         4.462627,
@@ -1862,7 +1862,7 @@ imageHint: "Wild orchids growing on a limestone slope",
       "de": [
             {
                   "name": "Delvaux museum",
-                  "text": "Ein dem Künstler Paul Delvaux gewidmetes Museum in Sint-Idesbald.",
+                  "text": "Ein Museum für den surrealistischen Maler Paul Delvaux in Sint-Idesbald (Westhoek).",
                   "category": "museum",
                   "coords": [
                         2.610382,
@@ -1945,7 +1945,7 @@ imageHint: "Wild orchids growing on a limestone slope",
       "hu": [
             {
                   "name": "Delvaux museum",
-                  "text": "Paul Delvaux művésznek szentelt múzeum Sint-Idesbald területén.",
+                  "text": "Múzeum Paul Delvaux szürrealista festőnek Szent Idesbaldban (Westhoek).",
                   "category": "museum",
                   "coords": [
                         2.610382,
@@ -2028,7 +2028,7 @@ imageHint: "Wild orchids growing on a limestone slope",
       "ro": [
             {
                   "name": "Delvaux museum",
-                  "text": "Un muzeu dedicat artistului Paul Delvaux, situat în Sint-Idesbald.",
+                  "text": "Un muzeu dedicat pictorului suprarealist Paul Delvaux în Sint-Idesbald (Westhoek).",
                   "category": "museum",
                   "coords": [
                         2.610382,
@@ -2111,7 +2111,7 @@ imageHint: "Wild orchids growing on a limestone slope",
       "en": [
             {
                   "name": "Delvaux museum",
-                  "text": "A museum dedicated to the artist Paul Delvaux, located in Sint-Idesbald.",
+                  "text": "A museum dedicated to surrealist painter Paul Delvaux in Sint-Idesbald (Westhoek).",
                   "category": "museum",
                   "coords": [
                         2.610382,
@@ -3046,7 +3046,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Kasteel van Oppem",
-                  "text": "Ein historisches Schloss in der Region des Parks von Tervuren.",
+                  "text": "Schloss Oppem aus dem 19. Jahrhundert, von Wassergraben umgeben, im Wald des Tervuren-Parks.",
                   "category": "castle",
                   "coords": [
                         4.489326,
@@ -3120,7 +3120,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Kasteel van Oppem",
-                  "text": "Történelmi kastély a tervureni park régiójában.",
+                  "text": "A 19. századi Oppem-kastély vízárkokkal körülvéve a tervuren-i park erdejében.",
                   "category": "castle",
                   "coords": [
                         4.489326,
@@ -3194,7 +3194,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Kasteel van Oppem",
-                  "text": "Un castel istoric situat în regiunea Parcului Tervuren.",
+                  "text": "Castelul Oppem din secolul al XIX-lea, înconjurat de șanțuri cu apă, în pădurea parcului Tervuren.",
                   "category": "castle",
                   "coords": [
                         4.489326,
@@ -3268,7 +3268,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Kasteel van Oppem",
-                  "text": "A historic castle situated in the Park of Tervuren region.",
+                  "text": "Kasteel van Oppem, a 19th-century castle surrounded by a moat in the forest of Tervuren Park.",
                   "category": "castle",
                   "coords": [
                         4.489326,
@@ -3806,7 +3806,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Le Pied en Coulisses",
-                  "text": "Ein lokales Kunst- und Kulturzentrum in der Umgebung von Torgny.",
+                  "text": "Freilufttheaterbühne mit Blick auf die Weinberge des Naturreservats Torgny.",
                   "category": "cultural",
                   "coords": [
                         5.485749,
@@ -3824,7 +3824,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "Eine historische Pfarrkirche, die dem heiligen Michael gewidmet ist.",
+                  "text": "Église Saint-Michel ist eine römisch-katholische Kirche im Naturschutzgebiet Torgny, im südlichsten Dorf Belgiens gelegen.",
                   "category": "religious",
                   "coords": [
                         5.455568,
@@ -3871,7 +3871,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Le Pied en Coulisses",
-                  "text": "Egy helyi művészeti és kulturális központ Torgny környékén.",
+                  "text": "Szabadtéri színpad a Torgny természetvédelmi terület szőlőültetvényeire néző kilátással.",
                   "category": "cultural",
                   "coords": [
                         5.485749,
@@ -3889,7 +3889,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "Szent Mihálynak szentelt történelmi plébániatemplom.",
+                  "text": "Az Église Saint-Michel egy római katolikus templom a Torgny Természetvédelmi Területen, Belgium legdélebbi falujában található.",
                   "category": "religious",
                   "coords": [
                         5.455568,
@@ -3936,7 +3936,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Le Pied en Coulisses",
-                  "text": "Un centru local de artă și cultură din zona Torgny.",
+                  "text": "O scenă de teatru în aer liber cu vedere asupra podgoriilor rezervației naturale Torgny.",
                   "category": "cultural",
                   "coords": [
                         5.485749,
@@ -3954,7 +3954,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "O biserică parohială istorică dedicată Sfântului Mihail.",
+                  "text": "Église Saint-Michel este o biserică romano-catolică în Rezervația Naturală Torgny, situată în cel mai sudic sat al Belgiei.",
                   "category": "religious",
                   "coords": [
                         5.455568,
@@ -4001,7 +4001,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Le Pied en Coulisses",
-                  "text": "A local arts and cultural centre in the Torgny area.",
+                  "text": "An outdoor theater stage overlooking the vineyards of the Torgny nature reserve.",
                   "category": "cultural",
                   "coords": [
                         5.485749,
@@ -4019,7 +4019,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "A historic parish church dedicated to Saint Michael.",
+                  "text": "Église Saint-Michel is a Roman Catholic church in Torgny Nature Reserve, located in the southernmost village of Belgium.",
                   "category": "religious",
                   "coords": [
                         5.455568,

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraOmanEconomicV2: POI[] = [
   {
-    id: "port-sohar-economic-v2",
+    id: "port-sohar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fresh mart",
+                  "text": "Ein lokaler Lebensmittelmarkt, der Waren des täglichen Bedarfs in der Nähe des Hafens von Sohar anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        56.646637,
+                        24.408162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fresh mart",
+                  "text": "Egy helyi élelmiszerpiac, amely napi szükségleti cikkeket biztosít Sohar kikötője közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        56.646637,
+                        24.408162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fresh mart",
+                  "text": "O piață alimentară locală care oferă necesități zilnice în apropiere de Portul Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.646637,
+                        24.408162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fresh mart",
+                  "text": "A local grocery market providing daily necessities near the Port of Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.646637,
+                        24.408162
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "OM-BS",
     coords: [56.6214, 24.4019],
@@ -243,7 +288,160 @@ export const poiExtraOmanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mina-al-fahal-economic-v2",
+    id: "mina-al-fahal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "jazirat al fahl",
+                  "text": "Eine kleine Felseninsel vor der Küste, die ein beliebtes Ziel für Schnorchler und Bootsausflüge ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501076,
+                        23.680949
+                  ]
+            },
+            {
+                  "name": "EcoMan Center",
+                  "text": "Ein Bildungszentrum, das sich dem Umweltschutz und der natürlichen Ökologie Omans widmet.",
+                  "category": "museum",
+                  "coords": [
+                        58.5086,
+                        23.625061
+                  ]
+            },
+            {
+                  "name": "Ras Al Hamra Club Beach",
+                  "text": "Ein Küstenstreifen mit klarem Wasser und felsigen Abschnitten am Fuße der Ras Al Hamra Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        58.497376,
+                        23.642122
+                  ]
+            },
+            {
+                  "name": "Jain Temple",
+                  "text": "Ein seltener Jain-Tempel in Maskat, der der indischen Gemeinde als spiritueller Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.504331,
+                        23.617504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "jazirat al fahl",
+                  "text": "Egy kis sziklás sziget a part közelében, amely a búvárkodók és a hajókirándulók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501076,
+                        23.680949
+                  ]
+            },
+            {
+                  "name": "EcoMan Center",
+                  "text": "Oktatási központ, amely Omán környezetvédelmével és természetes ökológiájával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        58.5086,
+                        23.625061
+                  ]
+            },
+            {
+                  "name": "Ras Al Hamra Club Beach",
+                  "text": "Tengerparti szakasz tiszta vízzel és sziklás részekkel a Ras Al Hamra sziklák lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        58.497376,
+                        23.642122
+                  ]
+            },
+            {
+                  "name": "Jain Temple",
+                  "text": "Egy ritka dzsain templom Maszkatban, amely az indiai közösség spirituális találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        58.504331,
+                        23.617504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "jazirat al fahl",
+                  "text": "O mică insulă stâncoasă în largul coastei, care este o destinație populară pentru amatorii de snorkeling și excursii cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501076,
+                        23.680949
+                  ]
+            },
+            {
+                  "name": "EcoMan Center",
+                  "text": "Un centru educațional dedicat conservării mediului și ecologiei naturale a Omanului.",
+                  "category": "museum",
+                  "coords": [
+                        58.5086,
+                        23.625061
+                  ]
+            },
+            {
+                  "name": "Ras Al Hamra Club Beach",
+                  "text": "O fâșie de coastă cu ape clare și secțiuni stâncoase la baza stâncilor Ras Al Hamra.",
+                  "category": "recreational",
+                  "coords": [
+                        58.497376,
+                        23.642122
+                  ]
+            },
+            {
+                  "name": "Jain Temple",
+                  "text": "Un templu jain rar în Muscat, care servește drept punct de întâlnire spiritual pentru comunitatea indiană.",
+                  "category": "landmark",
+                  "coords": [
+                        58.504331,
+                        23.617504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "shark island",
+                  "text": "A small rocky island off the coast that is a popular destination for snorkeling and boat trips.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501076,
+                        23.680949
+                  ]
+            },
+            {
+                  "name": "EcoMan Center",
+                  "text": "An educational center dedicated to environmental conservation and the natural ecology of Oman.",
+                  "category": "museum",
+                  "coords": [
+                        58.5086,
+                        23.625061
+                  ]
+            },
+            {
+                  "name": "Ras Al Hamra Club Beach",
+                  "text": "A coastal stretch with clear waters and rocky sections at the base of the Ras Al Hamra cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        58.497376,
+                        23.642122
+                  ]
+            },
+            {
+                  "name": "Jain Temple",
+                  "text": "A rare Jain temple in Muscat, serving as a spiritual gathering point for the Indian community.",
+                  "category": "landmark",
+                  "coords": [
+                        58.504331,
+                        23.617504
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "OM-MA",
     coords: [58.5080, 23.6330],
@@ -423,7 +621,448 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "rusayl-industrial-city-economic-v2",
+    id: "rusayl-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sa'al Stairs Trail starting point",
+                  "text": "Der Startpunkt des Sa'al Stairs Trail ist eine Attraktion für Wanderer in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.206115,
+                        23.458019
+                  ]
+            },
+            {
+                  "name": "Amouage Perfumes Visitor Centre",
+                  "text": "Das Amouage Perfumes Visitor Centre ist eine bemerkenswerte Touristenattraktion in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.237879,
+                        23.591116
+                  ]
+            },
+            {
+                  "name": "Jabal Khuwi",
+                  "text": "Jabal Khuwi ist ein malerischer Berggipfel in rusayl-industrial-city-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        58.21,
+                        23.46
+                  ]
+            },
+            {
+                  "name": "al Khoudh Fort",
+                  "text": "Das al Khoudh Fort ist eine historische Burg in rusayl-industrial-city-economic-v2.",
+                  "category": "castle",
+                  "coords": [
+                        58.119925,
+                        23.573614
+                  ]
+            },
+            {
+                  "name": "Masjid Al Bade3",
+                  "text": "Die Masjid Al Bade3 ist ein religiöser Ort der Anbetung in rusayl-industrial-city-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.229325,
+                        23.596733
+                  ]
+            },
+            {
+                  "name": "al Baraa bin Azib Mosque",
+                  "text": "Die al Baraa bin Azib Moschee ist ein muslimisches Gotteshaus in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.132436,
+                        23.565304
+                  ]
+            },
+            {
+                  "name": "Al Islam Mosque",
+                  "text": "Die Al Islam Moschee ist eine religiöse Stätte für die lokale muslimische Gemeinde in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193815,
+                        23.580094
+                  ]
+            },
+            {
+                  "name": "Omar bin al Khattab",
+                  "text": "Omar bin al Khattab ist eine islamische Moschee in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121084,
+                        23.574127
+                  ]
+            },
+            {
+                  "name": "Al Moeen Mosque",
+                  "text": "Die Al Moeen Moschee ist ein aktiver Ort der muslimischen Anbetung in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121864,
+                        23.563274
+                  ]
+            },
+            {
+                  "name": "an Nahdah Mosque",
+                  "text": "Die an Nahdah Moschee ist ein islamisches Religionszentrum in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.126228,
+                        23.567889
+                  ]
+            },
+            {
+                  "name": "Alma express",
+                  "text": "Alma express ist ein lebhafter lokaler Marktplatz in rusayl-industrial-city-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.203211,
+                        23.591782
+                  ]
+            },
+            {
+                  "name": "Mawaleh Central Fruits and Vegetables Market",
+                  "text": "Der Mawaleh Central Fruits and Vegetables Market ist ein wichtiges Handelszentrum für Produkte in rusayl-industrial-city-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.224445,
+                        23.591745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sa'al Stairs Trail starting point",
+                  "text": "A Sa'al Stairs Trail kiindulópontja a túrázók egyik látványossága rusayl-industrial-city-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.206115,
+                        23.458019
+                  ]
+            },
+            {
+                  "name": "Amouage Perfumes Visitor Centre",
+                  "text": "Az Amouage Parfümök Látogatóközpontja figyelemre méltó turisztikai látványosság rusayl-industrial-city-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.237879,
+                        23.591116
+                  ]
+            },
+            {
+                  "name": "Jabal Khuwi",
+                  "text": "A Jabal Khuwi egy festői hegycsúcs a rusayl-industrial-city-economic-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        58.21,
+                        23.46
+                  ]
+            },
+            {
+                  "name": "al Khoudh Fort",
+                  "text": "Az al Khoudh erőd egy történelmi kastély rusayl-industrial-city-economic-v2 városában.",
+                  "category": "castle",
+                  "coords": [
+                        58.119925,
+                        23.573614
+                  ]
+            },
+            {
+                  "name": "Masjid Al Bade3",
+                  "text": "A Masjid Al Bade3 egy vallási imahely a rusayl-industrial-city-economic-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        58.229325,
+                        23.596733
+                  ]
+            },
+            {
+                  "name": "al Baraa bin Azib Mosque",
+                  "text": "Az al Baraa bin Azib mecset egy muszlim imahely a rusayl-industrial-city-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.132436,
+                        23.565304
+                  ]
+            },
+            {
+                  "name": "Al Islam Mosque",
+                  "text": "Az Al Islam mecset a helyi muszlim közösség vallási helyszíne a rusayl-industrial-city-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193815,
+                        23.580094
+                  ]
+            },
+            {
+                  "name": "Omar bin al Khattab",
+                  "text": "Az Omar bin al Khattab egy iszlám mecset rusayl-industrial-city-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121084,
+                        23.574127
+                  ]
+            },
+            {
+                  "name": "Al Moeen Mosque",
+                  "text": "Az Al Moeen mecset egy aktív muszlim imahely a rusayl-industrial-city-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121864,
+                        23.563274
+                  ]
+            },
+            {
+                  "name": "an Nahdah Mosque",
+                  "text": "Az an Nahdah mecset egy iszlám vallási központ rusayl-industrial-city-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.126228,
+                        23.567889
+                  ]
+            },
+            {
+                  "name": "Alma express",
+                  "text": "Az Alma express egy nyüzsgő helyi piac rusayl-industrial-city-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        58.203211,
+                        23.591782
+                  ]
+            },
+            {
+                  "name": "Mawaleh Central Fruits and Vegetables Market",
+                  "text": "A Mawaleh központi gyümölcs- és zöldségpiac fontos kereskedelmi központ a termékek számára rusayl-industrial-city-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        58.224445,
+                        23.591745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sa'al Stairs Trail starting point",
+                  "text": "Punctul de plecare al traseului Sa'al Stairs este o atracție pentru drumeții situată în rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.206115,
+                        23.458019
+                  ]
+            },
+            {
+                  "name": "Amouage Perfumes Visitor Centre",
+                  "text": "Centrul de Vizitatori Amouage Perfumes este o atracție turistică notabilă din rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.237879,
+                        23.591116
+                  ]
+            },
+            {
+                  "name": "Jabal Khuwi",
+                  "text": "Jabal Khuwi este un vârf de munte pitoresc situat în rusayl-industrial-city-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        58.21,
+                        23.46
+                  ]
+            },
+            {
+                  "name": "al Khoudh Fort",
+                  "text": "Fortul al Khoudh este un castel istoric situat în rusayl-industrial-city-economic-v2.",
+                  "category": "castle",
+                  "coords": [
+                        58.119925,
+                        23.573614
+                  ]
+            },
+            {
+                  "name": "Masjid Al Bade3",
+                  "text": "Masjid Al Bade3 este un lăcaș de cult religios din rusayl-industrial-city-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.229325,
+                        23.596733
+                  ]
+            },
+            {
+                  "name": "al Baraa bin Azib Mosque",
+                  "text": "Moscheea al Baraa bin Azib este un lăcaș de cult musulman situat în rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.132436,
+                        23.565304
+                  ]
+            },
+            {
+                  "name": "Al Islam Mosque",
+                  "text": "Moscheea Al Islam este un sit religios pentru comunitatea musulmană locală din rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193815,
+                        23.580094
+                  ]
+            },
+            {
+                  "name": "Omar bin al Khattab",
+                  "text": "Omar bin al Khattab este o moschee islamică situată în rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121084,
+                        23.574127
+                  ]
+            },
+            {
+                  "name": "Al Moeen Mosque",
+                  "text": "Moscheea Al Moeen este un loc activ de cult musulman situat în rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121864,
+                        23.563274
+                  ]
+            },
+            {
+                  "name": "an Nahdah Mosque",
+                  "text": "Moscheea an Nahdah este un centru religios islamic din rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.126228,
+                        23.567889
+                  ]
+            },
+            {
+                  "name": "Alma express",
+                  "text": "Alma express este o piață locală vibrantă situată în rusayl-industrial-city-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.203211,
+                        23.591782
+                  ]
+            },
+            {
+                  "name": "Mawaleh Central Fruits and Vegetables Market",
+                  "text": "Piața Centrală de Fructe și Legume Mawaleh este un important centru de tranzacționare a produselor din rusayl-industrial-city-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.224445,
+                        23.591745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sa'al Stairs Trail starting point",
+                  "text": "The Sa'al Stairs Trail starting point is an attraction for hikers located in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.206115,
+                        23.458019
+                  ]
+            },
+            {
+                  "name": "Amouage Perfumes Visitor Centre",
+                  "text": "The Amouage Perfumes Visitor Centre is a notable tourist attraction in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.237879,
+                        23.591116
+                  ]
+            },
+            {
+                  "name": "Jabal Khuwi",
+                  "text": "Jabal Khuwi is a scenic mountain peak located within rusayl-industrial-city-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        58.21,
+                        23.46
+                  ]
+            },
+            {
+                  "name": "al Khoudh Fort",
+                  "text": "The al Khoudh Fort is a historic castle situated in rusayl-industrial-city-economic-v2.",
+                  "category": "castle",
+                  "coords": [
+                        58.119925,
+                        23.573614
+                  ]
+            },
+            {
+                  "name": "Masjid Al Bade3",
+                  "text": "Masjid Al Bade3 is a religious place of worship in rusayl-industrial-city-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.229325,
+                        23.596733
+                  ]
+            },
+            {
+                  "name": "al Baraa bin Azib Mosque",
+                  "text": "The al Baraa bin Azib Mosque is a Muslim place of worship located in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.132436,
+                        23.565304
+                  ]
+            },
+            {
+                  "name": "Al Islam Mosque",
+                  "text": "Al Islam Mosque is a religious site for the local Muslim community in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193815,
+                        23.580094
+                  ]
+            },
+            {
+                  "name": "Omar bin al Khattab",
+                  "text": "Omar bin al Khattab is an Islamic mosque situated in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121084,
+                        23.574127
+                  ]
+            },
+            {
+                  "name": "Al Moeen Mosque",
+                  "text": "Al Moeen Mosque is an active place of Muslim worship located in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.121864,
+                        23.563274
+                  ]
+            },
+            {
+                  "name": "an Nahdah Mosque",
+                  "text": "The an Nahdah Mosque is an Islamic religious center in rusayl-industrial-city-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.126228,
+                        23.567889
+                  ]
+            },
+            {
+                  "name": "Alma express",
+                  "text": "Alma express is a vibrant local marketplace situated in rusayl-industrial-city-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.203211,
+                        23.591782
+                  ]
+            },
+            {
+                  "name": "Mawaleh Central Fruits and Vegetables Market",
+                  "text": "The Mawaleh Central Fruits and Vegetables Market is a major trading center for produce in rusayl-industrial-city-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.224445,
+                        23.591745
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "OM-MA",
     coords: [58.1750, 23.5410],
@@ -483,7 +1122,412 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "nizwa-industrial-city-economic-v2",
+    id: "nizwa-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oman Across Ages Museum",
+                  "text": "Dieses hochmoderne Museum zeigt die Geschichte Omans von der Vorgeschichte bis zur Ära der Renaissance.",
+                  "category": "museum",
+                  "coords": [
+                        57.557852,
+                        22.777674
+                  ]
+            },
+            {
+                  "name": "shreja",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über die traditionellen Terrassengärten des Jebel Akhdar bietet.",
+                  "category": "natural",
+                  "coords": [
+                        57.58108,
+                        22.791327
+                  ]
+            },
+            {
+                  "name": "Old Manah",
+                  "text": "Eine weitläufige, verlassene Siedlung mit massiven Wehrtürmen und alten Lehmgebäuden in Manah.",
+                  "category": "landmark",
+                  "coords": [
+                        57.598422,
+                        22.786786
+                  ]
+            },
+            {
+                  "name": "Nizwa Gate",
+                  "text": "Ein historisches Stadttor, das heute als Museum dient und die Befestigungsgeschichte von Nizwa präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        57.52685,
+                        22.877884
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Nizwa",
+                  "text": "Ein prachtvolles islamisches Bauwerk mit markanten blauen Kuppeln und kunstvoller Kalligrafie.",
+                  "category": "religious",
+                  "coords": [
+                        57.530165,
+                        22.855442
+                  ]
+            },
+            {
+                  "name": "Jabal Awq",
+                  "text": "Ein schroffer Berggipfel, der eine dramatische Kulisse für die Wüstenlandschaft um Nizwa bildet.",
+                  "category": "natural",
+                  "coords": [
+                        57.45,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fort Faiqain",
+                  "text": "Ein mehrstöckiger Wohnturm aus Lehm, der über die Palmenhaine von Manah wacht.",
+                  "category": "castle",
+                  "coords": [
+                        57.608461,
+                        22.801485
+                  ]
+            },
+            {
+                  "name": "Nizwa Grand Mall",
+                  "text": "Ein modernes Einkaufszentrum in Nizwa, das internationale Marken und Gastronomie unter einem Dach vereint.",
+                  "category": "landmark",
+                  "coords": [
+                        57.537917,
+                        22.871587
+                  ]
+            },
+            {
+                  "name": "Mosque Hail Farq",
+                  "text": "Eine schlichte Gemeindemoschee im Distrikt Farq, die für die täglichen Gebete der Anwohner genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        57.552607,
+                        22.860665
+                  ]
+            },
+            {
+                  "name": "New Farq shopping centre",
+                  "text": "Ein lebendiger Handelsplatz im Stadtteil Farq, der eine Vielzahl an lokalen Waren und Dienstleistungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        57.533884,
+                        22.873823
+                  ]
+            },
+            {
+                  "name": "Al Ghantaq light centre shopping",
+                  "text": "Ein spezialisierter Marktbereich im Zentrum von Nizwa für Haushaltswaren und elektronische Geräte.",
+                  "category": "cultural",
+                  "coords": [
+                        57.534257,
+                        22.872852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oman Across Ages Museum",
+                  "text": "Ez a modern múzeum Omán történelmét mutatja be az őskortól egészen a reneszánsz korszakáig.",
+                  "category": "museum",
+                  "coords": [
+                        57.557852,
+                        22.777674
+                  ]
+            },
+            {
+                  "name": "shreja",
+                  "text": "Magaslati kilátópont, ahonnan pazar kilátás nyílik a Dzsebel Ahdar hagyományos teraszos kertjeire.",
+                  "category": "natural",
+                  "coords": [
+                        57.58108,
+                        22.791327
+                  ]
+            },
+            {
+                  "name": "Old Manah",
+                  "text": "Kiterjedt, elhagyatott település masszív védőtornyokkal és régi vályogépületekkel Manah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.598422,
+                        22.786786
+                  ]
+            },
+            {
+                  "name": "Nizwa Gate",
+                  "text": "Történelmi városkapu, amely ma múzeumként működik, és Nizwa erődítési történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        57.52685,
+                        22.877884
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Nizwa",
+                  "text": "Pompás iszlám építmény jellegzetes kék kupolákkal és díszes kalligráfiával.",
+                  "category": "religious",
+                  "coords": [
+                        57.530165,
+                        22.855442
+                  ]
+            },
+            {
+                  "name": "Jabal Awq",
+                  "text": "Sziklás hegycsúcs, amely drámai hátteret biztosít a Nizwa környéki sivatagi tájnak.",
+                  "category": "natural",
+                  "coords": [
+                        57.45,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fort Faiqain",
+                  "text": "Többszintes vályog lakótorony, amely Manah pálmaligetei felett őrködik.",
+                  "category": "castle",
+                  "coords": [
+                        57.608461,
+                        22.801485
+                  ]
+            },
+            {
+                  "name": "Nizwa Grand Mall",
+                  "text": "Modern bevásárlóközpont Nizwában, amely nemzetközi márkákat és gasztronómiát egyesít egy fedél alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.537917,
+                        22.871587
+                  ]
+            },
+            {
+                  "name": "Mosque Hail Farq",
+                  "text": "Egyszerű közösségi mecset Farq negyedében, amelyet a helyiek napi imádságaira használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        57.552607,
+                        22.860665
+                  ]
+            },
+            {
+                  "name": "New Farq shopping centre",
+                  "text": "Élénk kereskedelmi központ Farq városrészben, amely helyi áruk és szolgáltatások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        57.533884,
+                        22.873823
+                  ]
+            },
+            {
+                  "name": "Al Ghantaq light centre shopping",
+                  "text": "Háztartási cikkekre és elektronikai eszközökre szakosodott piaci terület Nizwa központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.534257,
+                        22.872852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oman Across Ages Museum",
+                  "text": "Acest muzeu ultramodern prezintă istoria Omanului de la preistorie până la epoca renașterii.",
+                  "category": "museum",
+                  "coords": [
+                        57.557852,
+                        22.777674
+                  ]
+            },
+            {
+                  "name": "shreja",
+                  "text": "Un punct de observație la înălțime care oferă o vedere largă asupra grădinilor terasate tradiționale din Jebel Akhdar.",
+                  "category": "natural",
+                  "coords": [
+                        57.58108,
+                        22.791327
+                  ]
+            },
+            {
+                  "name": "Old Manah",
+                  "text": "O așezare părăsită întinsă, cu turnuri de apărare masive și clădiri vechi din lut în Manah.",
+                  "category": "landmark",
+                  "coords": [
+                        57.598422,
+                        22.786786
+                  ]
+            },
+            {
+                  "name": "Nizwa Gate",
+                  "text": "O poartă istorică a orașului care acum servește ca muzeu, prezentând istoria fortificațiilor din Nizwa.",
+                  "category": "museum",
+                  "coords": [
+                        57.52685,
+                        22.877884
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Nizwa",
+                  "text": "O structură islamică grandioasă, cu cupole albastre distincte și caligrafie complexă.",
+                  "category": "religious",
+                  "coords": [
+                        57.530165,
+                        22.855442
+                  ]
+            },
+            {
+                  "name": "Jabal Awq",
+                  "text": "Un vârf de munte abrupt care oferă un fundal dramatic pentru peisajul deșertic din jurul Nizwa.",
+                  "category": "natural",
+                  "coords": [
+                        57.45,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fort Faiqain",
+                  "text": "Un turn de locuit din lut, cu mai multe etaje, care veghează asupra livezilor de palmieri din Manah.",
+                  "category": "castle",
+                  "coords": [
+                        57.608461,
+                        22.801485
+                  ]
+            },
+            {
+                  "name": "Nizwa Grand Mall",
+                  "text": "Un centru comercial modern în Nizwa, care reunește mărci internaționale și gastronomie sub același acoperiș.",
+                  "category": "landmark",
+                  "coords": [
+                        57.537917,
+                        22.871587
+                  ]
+            },
+            {
+                  "name": "Mosque Hail Farq",
+                  "text": "O moschee comunitară simplă în districtul Farq, utilizată pentru rugăciunile zilnice de către rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        57.552607,
+                        22.860665
+                  ]
+            },
+            {
+                  "name": "New Farq shopping centre",
+                  "text": "Un loc comercial plin de viață în cartierul Farq, care oferă o varietate de produse și servicii locale.",
+                  "category": "cultural",
+                  "coords": [
+                        57.533884,
+                        22.873823
+                  ]
+            },
+            {
+                  "name": "Al Ghantaq light centre shopping",
+                  "text": "O zonă de piață specializată în centrul orașului Nizwa pentru articole de uz casnic și electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        57.534257,
+                        22.872852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oman Across Ages Museum",
+                  "text": "This state-of-the-art museum showcases Oman's history from prehistory to the Renaissance era.",
+                  "category": "museum",
+                  "coords": [
+                        57.557852,
+                        22.777674
+                  ]
+            },
+            {
+                  "name": "shreja",
+                  "text": "An elevated viewpoint offering broad views over the traditional terraced gardens of Jebel Akhdar.",
+                  "category": "natural",
+                  "coords": [
+                        57.58108,
+                        22.791327
+                  ]
+            },
+            {
+                  "name": "Old Manah",
+                  "text": "An extensive abandoned settlement with massive defensive towers and old mud buildings in Manah.",
+                  "category": "landmark",
+                  "coords": [
+                        57.598422,
+                        22.786786
+                  ]
+            },
+            {
+                  "name": "Nizwa Gate",
+                  "text": "A historic city gate that now serves as a museum, presenting the fortification history of Nizwa.",
+                  "category": "museum",
+                  "coords": [
+                        57.52685,
+                        22.877884
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Nizwa",
+                  "text": "A grand Islamic structure featuring distinct blue domes and intricate calligraphy.",
+                  "category": "religious",
+                  "coords": [
+                        57.530165,
+                        22.855442
+                  ]
+            },
+            {
+                  "name": "Jabal Awq",
+                  "text": "A rugged mountain peak providing a dramatic backdrop to the desert landscape around Nizwa.",
+                  "category": "natural",
+                  "coords": [
+                        57.45,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fort Faiqain",
+                  "text": "A multi-story mud-brick residential tower watching over the palm groves of Manah.",
+                  "category": "castle",
+                  "coords": [
+                        57.608461,
+                        22.801485
+                  ]
+            },
+            {
+                  "name": "Nizwa Grand Mall",
+                  "text": "A modern shopping mall in Nizwa combining international brands and gastronomy under one roof.",
+                  "category": "landmark",
+                  "coords": [
+                        57.537917,
+                        22.871587
+                  ]
+            },
+            {
+                  "name": "Mosque Hail Farq",
+                  "text": "A simple community mosque in the Farq district used for daily prayers by local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        57.552607,
+                        22.860665
+                  ]
+            },
+            {
+                  "name": "New Farq shopping centre",
+                  "text": "A vibrant commercial spot in the Farq district offering a variety of local goods and services.",
+                  "category": "cultural",
+                  "coords": [
+                        57.533884,
+                        22.873823
+                  ]
+            },
+            {
+                  "name": "Al Ghantaq light centre shopping",
+                  "text": "A specialized market area in central Nizwa for household goods and electronic devices.",
+                  "category": "cultural",
+                  "coords": [
+                        57.534257,
+                        22.872852
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "OM-DA",
     coords: [57.5450, 22.8600],
@@ -603,7 +1647,52 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "salalah-free-zone-economic-v2",
+    id: "salalah-free-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Hamar",
+                  "text": "Eine markante Kalksteinklippe, die einen weiten Panoramablick über die Küstenebene der Freizone von Salalah bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        53.930937,
+                        16.899219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Hamar",
+                  "text": "Egy jellegzetes mészkőszirt, ahonnan pazar panoráma nyílik Salalah szabadkereskedelmi övezetének tengerparti síkságára.",
+                  "category": "landmark",
+                  "coords": [
+                        53.930937,
+                        16.899219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Hamar",
+                  "text": "O faleză calcaroasă proeminentă ce oferă o vedere panoramică largă asupra câmpiei de coastă din zona liberă Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        53.930937,
+                        16.899219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Hamar",
+                  "text": "A prominent limestone cliff offering an expansive panoramic view over the coastal plain of the Salalah Free Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        53.930937,
+                        16.899219
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "OM-ZU",
     coords: [53.9650, 16.9600],
@@ -783,7 +1872,52 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "fahud-oil-field-economic-v2",
+    id: "fahud-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese lokale Moschee bietet einen spirituellen Versammlungsort für Arbeiter innerhalb des Fahud-Ölfeldkomplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        56.496233,
+                        22.326979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Ez a helyi mecset spirituális gyülekezőhelyet biztosít a Fahud olajmező komplexum dolgozói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        56.496233,
+                        22.326979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee locală oferă un loc de adunare spirituală pentru lucrătorii din complexul câmpului petrolier Fahud.",
+                  "category": "landmark",
+                  "coords": [
+                        56.496233,
+                        22.326979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "This local mosque provides a spiritual gathering place for workers within the Fahud oil field complex.",
+                  "category": "landmark",
+                  "coords": [
+                        56.496233,
+                        22.326979
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "OM-ZA",
     coords: [56.4900, 22.3100],
@@ -963,7 +2097,52 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "mukhaizna-oil-field-economic-v2",
+    id: "mukhaizna-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qarn as Sahmah",
+                  "text": "Ein markanter Wüstenhügel in der Nähe des Mukhaizna-Ölfeldes im Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.59,
+                        20.61
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qarn as Sahmah",
+                  "text": "Jellegzetes sivatagi domb az ománi Mukhaizna olajmező közelében.",
+                  "category": "natural",
+                  "coords": [
+                        56.59,
+                        20.61
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qarn as Sahmah",
+                  "text": "Un deal deșertic proeminent situat în apropierea câmpului petrolier Mukhaizna din Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.59,
+                        20.61
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qarn as Sahmah",
+                  "text": "A prominent desert hill located near the Mukhaizna oil field in Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.59,
+                        20.61
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "OM-WU",
     coords: [56.6200, 20.6500],
@@ -1023,7 +2202,196 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "yanqul-copper-mine-economic-v2",
+    id: "yanqul-copper-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yanqul Castle",
+                  "text": "Ein großer Festungskomplex mit sieben Türmen und einem zentralen bewohnten Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        56.540498,
+                        23.583681
+                  ]
+            },
+            {
+                  "name": "Hawrat Yanqul",
+                  "text": "Ein spitzer Kalksteingipfel, der die Silhouette der Bergbauregion um Yanqul dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        56.560126,
+                        23.568843
+                  ]
+            },
+            {
+                  "name": "Jabal Khushshah",
+                  "text": "Ein markanter Gipfel in den zerklüfteten Hadschar-Bergen nahe den Kupferminen von Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.49,
+                        23.68
+                  ]
+            },
+            {
+                  "name": "Jabal Khutaym",
+                  "text": "Dieser Wüstengipfel überragt das trockene Gelände im Yanqul-Bergbaugebiet.",
+                  "category": "natural",
+                  "coords": [
+                        56.463711,
+                        23.599745
+                  ]
+            },
+            {
+                  "name": "Jabal Rawdah",
+                  "text": "Ein felsiger Gipfel, der eine weite Aussicht über die Berglandschaft von Yanqul bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.466852,
+                        23.609502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yanqul Castle",
+                  "text": "Nagy erődítményrendszer hét toronnyal és egy központi lakott udvarral.",
+                  "category": "landmark",
+                  "coords": [
+                        56.540498,
+                        23.583681
+                  ]
+            },
+            {
+                  "name": "Hawrat Yanqul",
+                  "text": "Hegyes mészkőcsúcs, amely uralja a Yanqul környéki bányavidék látképét.",
+                  "category": "natural",
+                  "coords": [
+                        56.560126,
+                        23.568843
+                  ]
+            },
+            {
+                  "name": "Jabal Khushshah",
+                  "text": "Markáns hegycsúcs a Dzsebel Haddzsar vonulatában, Yanqul rézbányáinak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        56.49,
+                        23.68
+                  ]
+            },
+            {
+                  "name": "Jabal Khutaym",
+                  "text": "Sivatagi hegycsúcs, amely Yanqul bányavidékének száraz tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        56.463711,
+                        23.599745
+                  ]
+            },
+            {
+                  "name": "Jabal Rawdah",
+                  "text": "Sziklás hegycsúcs, amely tágas kilátást nyújt Yanqul hegyvidéki tájára.",
+                  "category": "natural",
+                  "coords": [
+                        56.466852,
+                        23.609502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yanqul Castle",
+                  "text": "Un complex fortificat mare, cu șapte turnuri și o curte interioară rezidențială centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        56.540498,
+                        23.583681
+                  ]
+            },
+            {
+                  "name": "Hawrat Yanqul",
+                  "text": "Un vârf calcaros ascuțit care domină silueta regiunii miniere de cupru din Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.560126,
+                        23.568843
+                  ]
+            },
+            {
+                  "name": "Jabal Khushshah",
+                  "text": "Un vârf proeminent în munții Al Hajar, situat în apropierea minelor de cupru din Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.49,
+                        23.68
+                  ]
+            },
+            {
+                  "name": "Jabal Khutaym",
+                  "text": "Acest vârf deșertic domină terenul arid din zona minieră Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.463711,
+                        23.599745
+                  ]
+            },
+            {
+                  "name": "Jabal Rawdah",
+                  "text": "Un vârf stâncos ce oferă o vedere panoramică asupra peisajului montan din Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.466852,
+                        23.609502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yanqul Castle",
+                  "text": "A large fortified complex featuring seven towers and a central residential courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        56.540498,
+                        23.583681
+                  ]
+            },
+            {
+                  "name": "Hawrat Yanqul",
+                  "text": "A sharp limestone peak that dominates the skyline of the Yanqul copper mining region.",
+                  "category": "natural",
+                  "coords": [
+                        56.560126,
+                        23.568843
+                  ]
+            },
+            {
+                  "name": "Jabal Khushshah",
+                  "text": "A prominent peak in the rugged Hajar Mountains near the copper mines of Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.49,
+                        23.68
+                  ]
+            },
+            {
+                  "name": "Jabal Khutaym",
+                  "text": "This desert peak towers over the arid terrain in the Yanqul mining district.",
+                  "category": "natural",
+                  "coords": [
+                        56.463711,
+                        23.599745
+                  ]
+            },
+            {
+                  "name": "Jabal Rawdah",
+                  "text": "A rocky summit offering broad views over the mountainous landscape of Yanqul.",
+                  "category": "natural",
+                  "coords": [
+                        56.466852,
+                        23.609502
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "OM-ZA",
     coords: [56.5400, 23.6200],
@@ -1083,7 +2451,52 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "duqm-refinery-economic-v2",
+    id: "duqm-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lawt",
+                  "text": "Ein Hügel an der Küste nahe Duqm, der die umliegende Wirtschaftsregion überragt.",
+                  "category": "natural",
+                  "coords": [
+                        57.7,
+                        19.6
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lawt",
+                  "text": "Tengerparti domb Duqm közelében, amely a környező gazdasági régió fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        57.7,
+                        19.6
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lawt",
+                  "text": "Un deal de coastă lângă Duqm, care domină regiunea economică înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        57.7,
+                        19.6
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lawt",
+                  "text": "A coastal hill near Duqm overlooking the surrounding economic region.",
+                  "category": "natural",
+                  "coords": [
+                        57.7,
+                        19.6
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "OM-WU",
     coords: [57.7300, 19.6500],
@@ -1143,7 +2556,340 @@ export const poiExtraOmanEconomicV2: POI[] = [
     }
   },
   {
-    id: "ibri-solar-power-plant-economic-v2",
+    id: "ibri-solar-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Rayba Farm",
+                  "text": "Ein traditioneller landwirtschaftlicher Betrieb bei Ibri, der Einblicke in den regionalen Anbau von Dattelpalmen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        56.506578,
+                        23.252896
+                  ]
+            },
+            {
+                  "name": "Al Rabia Farm",
+                  "text": "Ein grünes Refugium in der Wüstenregion, bekannt für seine fruchtbaren Gärten und den traditionellen Dattelanbau.",
+                  "category": "landmark",
+                  "coords": [
+                        56.495684,
+                        23.253025
+                  ]
+            },
+            {
+                  "name": "Jabal Jifrah",
+                  "text": "Ein felsiger Berggipfel in der Nähe von Ibri, der bei Wanderern für seine raue Schönheit und weite Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.47,
+                        23.27
+                  ]
+            },
+            {
+                  "name": "Jabal Ibri",
+                  "text": "Dieser markante Berg überragt die Stadt Ibri und bietet weite Ausblicke über die umliegende Steppenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        56.452657,
+                        23.256938
+                  ]
+            },
+            {
+                  "name": "Hay Al Nahda Park, Ibri",
+                  "text": "Diese gepflegte städtische Grünanlage bietet schattige Spazierwege inmitten der Wüstenstadt Ibri.",
+                  "category": "landmark",
+                  "coords": [
+                        56.478034,
+                        23.213626
+                  ]
+            },
+            {
+                  "name": "Jabal Fajj Rayibah",
+                  "text": "Ein markanter Kalksteingipfel, der weite Ausblicke über die zerklüftete Gebirgslandschaft von Oman bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.44969,
+                        23.248058
+                  ]
+            },
+            {
+                  "name": "Al Akhdar mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus, das durch seine traditionelle omanische Architektur in der Stadt Ibri besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        56.461703,
+                        23.222063
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "Diese Moschee dient als zentraler Gebetsort für Studenten und Bewohner in der Nähe des örtlichen College.",
+                  "category": "religious",
+                  "coords": [
+                        56.454251,
+                        23.21965
+                  ]
+            },
+            {
+                  "name": "Girls' Mosque",
+                  "text": "Ein kleineres muslimisches Gotteshaus in Ibri, das durch seine schlichte Bauweise und lokale Bedeutung geprägt ist.",
+                  "category": "religious",
+                  "coords": [
+                        56.455073,
+                        23.221835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Rayba Farm",
+                  "text": "Hagyományos mezőgazdasági farm Ibri közelében, amely betekintést nyújt a régió datolyapálma-termesztésébe.",
+                  "category": "landmark",
+                  "coords": [
+                        56.506578,
+                        23.252896
+                  ]
+            },
+            {
+                  "name": "Al Rabia Farm",
+                  "text": "Zöld menedék a sivatagi régióban, amely termékeny kertjeiről és hagyományos datolyatermesztéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        56.495684,
+                        23.253025
+                  ]
+            },
+            {
+                  "name": "Jabal Jifrah",
+                  "text": "Sziklás hegycsúcs Ibri közelében, amely vad szépsége és tágas kilátása miatt népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        56.47,
+                        23.27
+                  ]
+            },
+            {
+                  "name": "Jabal Ibri",
+                  "text": "Ez a kiemelkedő hegy Ibri városa fölé magasodik, és tágas kilátást nyújt a környező sztyeppei tájra.",
+                  "category": "natural",
+                  "coords": [
+                        56.452657,
+                        23.256938
+                  ]
+            },
+            {
+                  "name": "Hay Al Nahda Park, Ibri",
+                  "text": "Gondozott városi park, amely zöld oázist és árnyas sétányokat kínál Ibri sivatagi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        56.478034,
+                        23.213626
+                  ]
+            },
+            {
+                  "name": "Jabal Fajj Rayibah",
+                  "text": "Jellegzetes mészkőcsúcs, amely széles kilátást nyújt Omán északi részének kopár hegyvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        56.44969,
+                        23.248058
+                  ]
+            },
+            {
+                  "name": "Al Akhdar mosque",
+                  "text": "Helyi muszlim imaház, amely hagyományos ománi építészeti stílusával tűnik ki Ibri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        56.461703,
+                        23.222063
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "Ez a mecset központi imádsági helyként szolgál a helyi főiskola közelében lévő diákok és lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        56.454251,
+                        23.21965
+                  ]
+            },
+            {
+                  "name": "Girls' Mosque",
+                  "text": "Kisebb muszlim imaház Ibriben, amelyet egyszerű kialakítás és helyi közösségi jelentőség jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        56.455073,
+                        23.221835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Rayba Farm",
+                  "text": "O fermă agricolă tradițională lângă Ibri, oferind perspective asupra cultivării regionale a palmierilor de curmale.",
+                  "category": "landmark",
+                  "coords": [
+                        56.506578,
+                        23.252896
+                  ]
+            },
+            {
+                  "name": "Al Rabia Farm",
+                  "text": "Un sanctuar verde în regiunea deșertică, cunoscut pentru grădinile sale fertile și cultivarea tradițională a curmalelor.",
+                  "category": "landmark",
+                  "coords": [
+                        56.495684,
+                        23.253025
+                  ]
+            },
+            {
+                  "name": "Jabal Jifrah",
+                  "text": "Un vârf muntos stâncos lângă Ibri, popular printre excursioniști pentru frumusețea sa aspră și vederile ample.",
+                  "category": "natural",
+                  "coords": [
+                        56.47,
+                        23.27
+                  ]
+            },
+            {
+                  "name": "Jabal Ibri",
+                  "text": "Acest munte proeminent domină orașul Ibri și oferă vederi ample asupra peisajului de stepă înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        56.452657,
+                        23.256938
+                  ]
+            },
+            {
+                  "name": "Hay Al Nahda Park, Ibri",
+                  "text": "Un parc urban amenajat care oferă o oază de verdeață și alei umbroase în orașul deșertic Ibri.",
+                  "category": "landmark",
+                  "coords": [
+                        56.478034,
+                        23.213626
+                  ]
+            },
+            {
+                  "name": "Jabal Fajj Rayibah",
+                  "text": "Un vârf de calcar proeminent care oferă vederi panoramice asupra peisajului montan accidentat din Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.44969,
+                        23.248058
+                  ]
+            },
+            {
+                  "name": "Al Akhdar mosque",
+                  "text": "Un lăcaș de cult musulman local, remarcat prin arhitectura sa tradițională omaneză în orașul Ibri.",
+                  "category": "landmark",
+                  "coords": [
+                        56.461703,
+                        23.222063
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "Această moschee servește ca loc central de rugăciune pentru studenții și rezidenții din apropierea colegiului local.",
+                  "category": "religious",
+                  "coords": [
+                        56.454251,
+                        23.21965
+                  ]
+            },
+            {
+                  "name": "Girls' Mosque",
+                  "text": "Un lăcaș de cult musulman mai mic din Ibri, caracterizat prin designul său simplu și importanța locală.",
+                  "category": "religious",
+                  "coords": [
+                        56.455073,
+                        23.221835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Rayba Farm",
+                  "text": "A traditional agricultural farm near Ibri offering insights into the regional cultivation of date palms.",
+                  "category": "landmark",
+                  "coords": [
+                        56.506578,
+                        23.252896
+                  ]
+            },
+            {
+                  "name": "Al Rabia Farm",
+                  "text": "A green sanctuary in the desert region known for its fertile gardens and traditional date cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        56.495684,
+                        23.253025
+                  ]
+            },
+            {
+                  "name": "Jabal Jifrah",
+                  "text": "A rocky mountain peak near Ibri popular with hikers for its rugged beauty and expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        56.47,
+                        23.27
+                  ]
+            },
+            {
+                  "name": "Jabal Ibri",
+                  "text": "This prominent mountain towers over the city of Ibri and offers expansive views of the surrounding steppe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        56.452657,
+                        23.256938
+                  ]
+            },
+            {
+                  "name": "Hay Al Nahda Park, Ibri",
+                  "text": "A well-maintained urban park providing a green oasis and shaded walkways within the desert city of Ibri.",
+                  "category": "landmark",
+                  "coords": [
+                        56.478034,
+                        23.213626
+                  ]
+            },
+            {
+                  "name": "Jabal Fajj Rayibah",
+                  "text": "A prominent limestone peak offering wide views over the rugged mountain landscape of northern Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.44969,
+                        23.248058
+                  ]
+            },
+            {
+                  "name": "Al Akhdar mosque",
+                  "text": "A local Muslim place of worship featuring traditional Omani architectural elements in the city of Ibri.",
+                  "category": "landmark",
+                  "coords": [
+                        56.461703,
+                        23.222063
+                  ]
+            },
+            {
+                  "name": "College Mosque",
+                  "text": "This mosque serves as a central place of prayer for students and residents near the local college.",
+                  "category": "religious",
+                  "coords": [
+                        56.454251,
+                        23.21965
+                  ]
+            },
+            {
+                  "name": "Girls' Mosque",
+                  "text": "A smaller Muslim place of worship in Ibri, characterized by its simple design and local community significance.",
+                  "category": "religious",
+                  "coords": [
+                        56.455073,
+                        23.221835
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "OM-ZA",
     coords: [56.5000, 23.2300],

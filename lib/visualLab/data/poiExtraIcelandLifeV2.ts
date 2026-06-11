@@ -2587,7 +2587,7 @@ imageHint: "Thjorsarver highland wetland tundra",
       "de": [
             {
                   "name": "Grunnafjörður",
-                  "text": "Ein Naturschutzgebiet und Feuchtgebiet in Island.",
+                  "text": "Grunnafjörður, ein flacher Fjord in Westisland, bekannt für Vögel.",
                   "category": "natural",
                   "coords": [
                         -21.928211,
@@ -2598,7 +2598,7 @@ imageHint: "Thjorsarver highland wetland tundra",
       "hu": [
             {
                   "name": "Grunnafjörður",
-                  "text": "Természetvédelmi terület és mocsárvidék Izlandon.",
+                  "text": "Grunnafjörður, egy sekély fjord Nyugat-Izlandon, madarakról ismert.",
                   "category": "natural",
                   "coords": [
                         -21.928211,
@@ -2609,7 +2609,7 @@ imageHint: "Thjorsarver highland wetland tundra",
       "ro": [
             {
                   "name": "Grunnafjörður",
-                  "text": "O rezervație naturală și zonă umedă în Islanda.",
+                  "text": "Grunnafjörður, un fiord puțin adânc în Islanda de Vest, cunoscut pentru păsări.",
                   "category": "natural",
                   "coords": [
                         -21.928211,
@@ -2620,7 +2620,7 @@ imageHint: "Thjorsarver highland wetland tundra",
       "en": [
             {
                   "name": "Grunnafjördur",
-                  "text": "A nature reserve and wetland area in Iceland.",
+                  "text": "Grunnafjörður, a shallow fjord in West Iceland known for birdlife.",
                   "category": "natural",
                   "coords": [
                         -21.928211,

@@ -44,7 +44,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Taks Centre",
-                  "text": "Ein Zentrum für Kunst und kulturelle Aktivitäten in Gulu.",
+                  "text": "Taks Centre, ein kulturelles Zentrum in Gulu, das lokale Traditionen präsentiert.",
                   "category": "cultural",
                   "coords": [
                         32.297626,
@@ -55,7 +55,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Taks Centre",
-                  "text": "Művészeti és kulturális központ Guluban.",
+                  "text": "Taks Centre, egy kulturális központ Gulu városában, helyi hagyományokat bemutató.",
                   "category": "cultural",
                   "coords": [
                         32.297626,
@@ -66,7 +66,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Taks Centre",
-                  "text": "Un centru pentru activități artistice și culturale din Gulu.",
+                  "text": "Centrul Taks, un centru cultural în Gulu care prezintă tradiții locale.",
                   "category": "cultural",
                   "coords": [
                         32.297626,
@@ -77,7 +77,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Taks Centre",
-                  "text": "A center for arts and cultural activities in Gulu.",
+                  "text": "Taks Centre, a cultural centre in Gulu showcasing local traditions.",
                   "category": "cultural",
                   "coords": [
                         32.297626,
@@ -133,7 +133,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Armgod Black's Parlour",
-                  "text": "Ein Museum in der Stadt Lira.",
+                  "text": "Armgod Black's Parlour, ein Museum in Lira, das das Leben von Armgod Black dokumentiert.",
                   "category": "museum",
                   "coords": [
                         32.907598,
@@ -142,7 +142,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "LANGO HERITAGE CENTRE MUSEUM",
-                  "text": "Ein Heimatmuseum in Lira.",
+                  "text": "Lango Heritage Centre Museum in Lira, das kulturelle Artefakte des Lango-Volkes bewahrt.",
                   "category": "museum",
                   "coords": [
                         32.896046,
@@ -151,7 +151,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Lira Central Forest Reserve",
-                  "text": "Ein zentrales Waldschutzgebiet in Lira.",
+                  "text": "Lira Central Forest Reserve, ein geschütztes Waldgebiet in Lira.",
                   "category": "natural",
                   "coords": [
                         32.914134,
@@ -160,7 +160,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "St Augustine COU",
-                  "text": "Eine religiöse Andachtsstätte in Lira.",
+                  "text": "St Augustine COU (Church of Uganda) in Lira ist eine anglikanische Kirche.",
                   "category": "religious",
                   "coords": [
                         32.892411,
@@ -171,7 +171,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Armgod Black's Parlour",
-                  "text": "Egy múzeum Lira városában.",
+                  "text": "Armgod Black's Parlour, egy múzeum Lira városában, amely Armgod Black életét mutatja be.",
                   "category": "museum",
                   "coords": [
                         32.907598,
@@ -180,7 +180,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "LANGO HERITAGE CENTRE MUSEUM",
-                  "text": "Egy örökségvédelmi múzeum Lira városában.",
+                  "text": "Lango Örökség Központ Múzeum Lira városában, a Lango nép kulturális tárgyainak megőrzésére.",
                   "category": "museum",
                   "coords": [
                         32.896046,
@@ -189,7 +189,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Lira Central Forest Reserve",
-                  "text": "Egy védett központi erdőrezervátum Lira városában.",
+                  "text": "Lira Központi Erdőrezervátum, egy védett erdőterület Lira városában.",
                   "category": "natural",
                   "coords": [
                         32.914134,
@@ -198,7 +198,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "St Augustine COU",
-                  "text": "Egy vallási istentiszteleti hely Lira városában.",
+                  "text": "A St Augustine COU (Ugandai Egyház) Lirában egy anglikán templom.",
                   "category": "religious",
                   "coords": [
                         32.892411,
@@ -209,7 +209,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Armgod Black's Parlour",
-                  "text": "Un muzeu situat în orașul Lira.",
+                  "text": "Armgod Black's Parlour, un muzeu în Lira care documentează viața lui Armgod Black.",
                   "category": "museum",
                   "coords": [
                         32.907598,
@@ -218,7 +218,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "LANGO HERITAGE CENTRE MUSEUM",
-                  "text": "Un muzeu de patrimoniu situat în Lira.",
+                  "text": "Muzeul Centrului de Patrimoniu Lango din Lira, care păstrează artefacte culturale ale poporului Lango.",
                   "category": "museum",
                   "coords": [
                         32.896046,
@@ -227,7 +227,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Lira Central Forest Reserve",
-                  "text": "O rezervație forestieră centrală protejată în Lira.",
+                  "text": "Rezervația Forestieră Centrală Lira, o zonă forestieră protejată din Lira.",
                   "category": "natural",
                   "coords": [
                         32.914134,
@@ -236,7 +236,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "St Augustine COU",
-                  "text": "Un lăcaș de cult religios situat în Lira.",
+                  "text": "St Augustine COU (Biserica Uganda) din Lira este o biserică anglicană.",
                   "category": "religious",
                   "coords": [
                         32.892411,
@@ -247,7 +247,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Armgod Black's Parlour",
-                  "text": "A museum space located in the city of Lira.",
+                  "text": "Armgod Black's Parlour, a museum in Lira documenting the life of Armgod Black.",
                   "category": "museum",
                   "coords": [
                         32.907598,
@@ -256,7 +256,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "LANGO HERITAGE CENTRE MUSEUM",
-                  "text": "A heritage museum located in Lira.",
+                  "text": "Lango Heritage Centre Museum in Lira, preserving cultural artifacts of the Lango people.",
                   "category": "museum",
                   "coords": [
                         32.896046,
@@ -265,7 +265,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Lira Central Forest Reserve",
-                  "text": "A protected central forest reserve in Lira.",
+                  "text": "Lira Central Forest Reserve, a protected forest area in Lira.",
                   "category": "natural",
                   "coords": [
                         32.914134,
@@ -274,7 +274,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "St Augustine COU",
-                  "text": "A religious place of worship located in Lira.",
+                  "text": "St Augustine COU (Church of Uganda) in Lira is an Anglican church.",
                   "category": "religious",
                   "coords": [
                         32.892411,
@@ -339,7 +339,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Ankole Kingdom Palace",
-                  "text": "Der ehemalige Palast des Königreichs Ankole in Mbarara.",
+                  "text": "Ankole Königreichspalast in Mbarara, eine historische königliche Residenz.",
                   "category": "castle",
                   "coords": [
                         30.641183,
@@ -359,7 +359,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Ankole Kingdom Palace",
-                  "text": "Az Ankole Királyság egykori palotája Mbararában.",
+                  "text": "Ankole Királyi Palota Mbarara városában, egy történelmi királyi rezidencia.",
                   "category": "castle",
                   "coords": [
                         30.641183,
@@ -379,7 +379,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Ankole Kingdom Palace",
-                  "text": "Fostul palat al Regatului Ankole din Mbarara.",
+                  "text": "Palatul Regatului Ankole din Mbarara, o reședință regală istorică.",
                   "category": "castle",
                   "coords": [
                         30.641183,
@@ -399,7 +399,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Ankole Kingdom Palace",
-                  "text": "The former palace of the Ankole Kingdom in Mbarara.",
+                  "text": "Ankole Kingdom Palace in Mbarara, a historic royal residence.",
                   "category": "castle",
                   "coords": [
                         30.641183,
@@ -590,7 +590,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "law lib",
-                  "text": "Eine Museums- und Bibliotheksreinrichtung in der Stadt Mukono.",
+                  "text": "Law Lib in Mukono, ein Museum mit juristischen Artefakten und Dokumenten.",
                   "category": "museum",
                   "coords": [
                         32.740928,
@@ -610,7 +610,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "law lib",
-                  "text": "Múzeum és könyvtár Mukono városában.",
+                  "text": "Law Lib Mukonóban, egy múzeum jogi tárgyakkal és dokumentumokkal.",
                   "category": "museum",
                   "coords": [
                         32.740928,
@@ -630,7 +630,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "law lib",
-                  "text": "O facilitate de muzeu și bibliotecă situată în orașul Mukono.",
+                  "text": "Law Lib din Mukono, un muzeu cu artefacte și documente juridice.",
                   "category": "museum",
                   "coords": [
                         32.740928,
@@ -650,7 +650,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "law lib",
-                  "text": "A museum and library facility located in the city of Mukono.",
+                  "text": "Law Lib in Mukono, a museum of legal artifacts and documents.",
                   "category": "museum",
                   "coords": [
                         32.740928,
@@ -703,7 +703,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "BUDDU COMMUNITY MUSEUM",
-                  "text": "Ein Gemeindemuseum in Masaka.",
+                  "text": "Buddu Gemeinschaftsmuseum in Masaka, das die lokale Buganda-Kultur zeigt.",
                   "category": "museum",
                   "coords": [
                         31.740796,
@@ -712,7 +712,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Martyr's Shrine",
-                  "text": "Ein bemerkenswerter Schrein und eine lokale Attraktion in Masaka.",
+                  "text": "Märtyrer-Schrein in Masaka, eine Gedenkstätte für die Uganda-Märtyrer.",
                   "category": "landmark",
                   "coords": [
                         31.735503,
@@ -723,7 +723,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "BUDDU COMMUNITY MUSEUM",
-                  "text": "Egy közösségi múzeum Masaka városában.",
+                  "text": "Buddu Közösségi Múzeum Masaka városában, a helyi Buganda kultúra bemutatásával.",
                   "category": "museum",
                   "coords": [
                         31.740796,
@@ -732,7 +732,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Martyr's Shrine",
-                  "text": "Egy nevezetes szentély és helyi látványosság Masakában.",
+                  "text": "Vértanúk Szentélye Masaka városában, az ugandai vértanúk emlékhelye.",
                   "category": "landmark",
                   "coords": [
                         31.735503,
@@ -743,7 +743,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "BUDDU COMMUNITY MUSEUM",
-                  "text": "Un muzeu comunitar situat în Masaka.",
+                  "text": "Muzeul Comunitar Buddu din Masaka, care prezintă cultura locală Buganda.",
                   "category": "museum",
                   "coords": [
                         31.740796,
@@ -752,7 +752,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Martyr's Shrine",
-                  "text": "Un altar notabil și o atracție locală din Masaka.",
+                  "text": "Altarul Martirilor din Masaka, un memorial pentru Martirii Ugandei.",
                   "category": "landmark",
                   "coords": [
                         31.735503,
@@ -763,7 +763,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "BUDDU COMMUNITY MUSEUM",
-                  "text": "A community museum situated in Masaka.",
+                  "text": "Buddu Community Museum in Masaka, showcasing local Buganda culture.",
                   "category": "museum",
                   "coords": [
                         31.740796,
@@ -772,7 +772,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Martyr's Shrine",
-                  "text": "A notable shrine and local attraction in Masaka.",
+                  "text": "Martyr's Shrine in Masaka, a memorial to the Uganda Martyrs.",
                   "category": "landmark",
                   "coords": [
                         31.735503,
@@ -952,7 +952,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "MADI LUGBARA MUSUEM",
-                  "text": "Ein Museum in der Stadt Arua.",
+                  "text": "Madi Lugbara Museum in Arua, das das Erbe der Madi- und Lugbara-Völker bewahrt.",
                   "category": "museum",
                   "coords": [
                         30.910822,
@@ -961,7 +961,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arua Hill",
-                  "text": "Ein geografischer Gipfel in Arua.",
+                  "text": "Arua Hill in Arua (Uganda) ist ein markanter Hügel in der Stadt.",
                   "category": "natural",
                   "coords": [
                         30.916972,
@@ -970,7 +970,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Emmanuel Cathedral",
-                  "text": "Eine Kathedrale und Andachtsstätte in Arua.",
+                  "text": "Emmanuel Cathedral in Arua ist die katholische Kathedrale der Diözese Arua.",
                   "category": "religious",
                   "coords": [
                         30.936366,
@@ -981,7 +981,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "MADI LUGBARA MUSUEM",
-                  "text": "Egy múzeum Arua városában.",
+                  "text": "Madi Lugbara Múzeum Aruában, a Madi és Lugbara népek örökségének megőrzésére.",
                   "category": "museum",
                   "coords": [
                         30.910822,
@@ -990,7 +990,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arua Hill",
-                  "text": "Egy földrajzi csúcs Arua városában.",
+                  "text": "Az Arua Hill Aruában (Uganda) egy kiemelkedő domb a városban.",
                   "category": "natural",
                   "coords": [
                         30.916972,
@@ -999,7 +999,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Emmanuel Cathedral",
-                  "text": "Egy istentiszteleti helyként szolgáló katedrális Arua városában.",
+                  "text": "Az Emmanuel Cathedral Aruában az Aruai Egyházmegye katolikus székesegyháza.",
                   "category": "religious",
                   "coords": [
                         30.936366,
@@ -1010,7 +1010,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "MADI LUGBARA MUSUEM",
-                  "text": "Un muzeu situat în orașul Arua.",
+                  "text": "Muzeul Madi Lugbara din Arua, care păstrează moștenirea popoarelor Madi și Lugbara.",
                   "category": "museum",
                   "coords": [
                         30.910822,
@@ -1019,7 +1019,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arua Hill",
-                  "text": "Un vârf geografic situat în Arua.",
+                  "text": "Arua Hill din Arua (Uganda) este un deal proeminent în oraș.",
                   "category": "natural",
                   "coords": [
                         30.916972,
@@ -1028,7 +1028,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Emmanuel Cathedral",
-                  "text": "O catedrală care servește ca lăcaș de cult în Arua.",
+                  "text": "Emmanuel Cathedral din Arua este catedrala catolică a Diecezei de Arua.",
                   "category": "religious",
                   "coords": [
                         30.936366,
@@ -1039,7 +1039,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "MADI LUGBARA MUSUEM",
-                  "text": "A museum located in the city of Arua.",
+                  "text": "Madi Lugbara Museum in Arua, preserving the heritage of the Madi and Lugbara peoples.",
                   "category": "museum",
                   "coords": [
                         30.910822,
@@ -1048,7 +1048,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arua Hill",
-                  "text": "A geographic peak situated in Arua.",
+                  "text": "Arua Hill in Arua (Uganda) is a prominent hill in the town.",
                   "category": "natural",
                   "coords": [
                         30.916972,
@@ -1057,7 +1057,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Emmanuel Cathedral",
-                  "text": "A cathedral serving as a place of worship in Arua.",
+                  "text": "Emmanuel Cathedral in Arua is the Catholic cathedral of the Diocese of Arua.",
                   "category": "religious",
                   "coords": [
                         30.936366,
@@ -1636,7 +1636,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mutesa Hill",
-                  "text": "Eine Gedenkstätte in Nansana.",
+                  "text": "Mutesa Hill in Nansana, ein historischer Hügel in Verbindung mit der Buganda-Königsfamilie.",
                   "category": "historical",
                   "coords": [
                         32.548487,
@@ -1647,7 +1647,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mutesa Hill",
-                  "text": "Egy emlékmű helyszín Nansanában.",
+                  "text": "Mutesa-hegy Nansanában, egy történelmi domb, amely a Buganda királyi családhoz kapcsolódik.",
                   "category": "historical",
                   "coords": [
                         32.548487,
@@ -1658,7 +1658,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mutesa Hill",
-                  "text": "Un monument situat în Nansana.",
+                  "text": "Dealul Mutesa din Nansana, un deal istoric asociat cu familia regală Buganda.",
                   "category": "historical",
                   "coords": [
                         32.548487,
@@ -1669,7 +1669,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mutesa Hill",
-                  "text": "A monumental site located in Nansana.",
+                  "text": "Mutesa Hill in Nansana, a historic hill associated with Buganda royalty.",
                   "category": "historical",
                   "coords": [
                         32.548487,
@@ -1740,7 +1740,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda Martyrs' Shrine",
-                  "text": "Ein Denkmal zu Ehren der Märtyrer von Uganda in Kira.",
+                  "text": "Uganda-Märtyrer-Schrein in Kira, Ort des Martyriums der ugandischen christlichen Konvertiten.",
                   "category": "historical",
                   "coords": [
                         32.652456,
@@ -1778,7 +1778,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda Martyrs' Shrine",
-                  "text": "Emlékmű az ugandai mártírok tiszteletére Kirában.",
+                  "text": "Ugandai Vértanúk Szentélye Kira városában, az ugandai keresztény vértanúk kivégzésének helye.",
                   "category": "historical",
                   "coords": [
                         32.652456,
@@ -1816,7 +1816,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda Martyrs' Shrine",
-                  "text": "Un monument în onoarea martirilor din Uganda în Kira.",
+                  "text": "Altarul Martirilor Ugandei din Kira, locul martiriului convertiților creștini ugandezi.",
                   "category": "historical",
                   "coords": [
                         32.652456,
@@ -1854,7 +1854,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda Martyrs' Shrine",
-                  "text": "A monument honoring the martyrs of Uganda in Kira.",
+                  "text": "Uganda Martyrs' Shrine in Kira, site of the martyrdom of Uganda's Christian converts.",
                   "category": "historical",
                   "coords": [
                         32.652456,
@@ -1957,7 +1957,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Royal Theatre",
-                  "text": "Ein Theater in Rubaga.",
+                  "text": "Royal Theatre in Rubaga, ein historisches Theater für kulturelle Aufführungen des Buganda-Königreichs.",
                   "category": "cultural",
                   "coords": [
                         32.570299,
@@ -1966,7 +1966,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Playwright play house",
-                  "text": "Ein lokales Schauspielhaus und Theater in Rubaga.",
+                  "text": "Playwright Play House in Rubaga, ein kultureller Veranstaltungsort für ugandisches Theater.",
                   "category": "cultural",
                   "coords": [
                         32.555947,
@@ -1975,7 +1975,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Königliche Gräber der Buganda zu Kasubi",
-                  "text": "Ein Museumsstandort in Rubaga.",
+                  "text": "Kasubi-Königsgräber in Rubaga, Begräbnisstätte der Buganda-Könige (UNESCO-Weltkulturerbe).",
                   "category": "museum",
                   "coords": [
                         32.555088,
@@ -1984,7 +1984,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Buganda Kingdom museum",
-                  "text": "Eine Museumseinrichtung in Rubaga.",
+                  "text": "Buganda-Königreich-Museum in Rubaga, das Artefakte des Buganda-Königreichs ausstellt.",
                   "category": "museum",
                   "coords": [
                         32.565517,
@@ -1993,7 +1993,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Busses to Kigali",
-                  "text": "Ein bemerkenswerter Ort und eine Sehenswürdigkeit in Rubaga.",
+                  "text": "Busse nach Kigali, der Busbahnhof in Rubaga für Routen in die ruandische Hauptstadt.",
                   "category": "landmark",
                   "coords": [
                         32.566554,
@@ -2002,7 +2002,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Katwe market",
-                  "text": "Ein lokaler Markt und eine Attraktion in Rubaga.",
+                  "text": "Katwe-Markt in Rubaga, ein lebhafter lokaler Markt für frische Produkte und Kunsthandwerk.",
                   "category": "landmark",
                   "coords": [
                         32.575054,
@@ -2011,7 +2011,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda National Mosque",
-                  "text": "Eine bekannte religiöse Attraktion in Rubaga.",
+                  "text": "Uganda Nationalmoschee in Rubaga (Gaddafi-Moschee), die größte Moschee Ugandas mit einem hohen Minarett.",
                   "category": "landmark",
                   "coords": [
                         32.568564,
@@ -2020,7 +2020,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Parliament of the Kingdom of Bugunda",
-                  "text": "Ein Wahrzeichen und eine Attraktion in Rubaga.",
+                  "text": "Parlament des Königreichs Buganda in Rubaga, Sitz der gesetzgebenden Versammlung von Buganda.",
                   "category": "landmark",
                   "coords": [
                         32.558253,
@@ -2047,7 +2047,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Miracle Center Cathedral",
-                  "text": "Eine bekannte Andachtsstätte in Rubaga.",
+                  "text": "Miracle Center Cathedral in Rubaga (Kampala) ist eine große Pfingstkirche.",
                   "category": "religious",
                   "coords": [
                         32.560722,
@@ -2056,7 +2056,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Rubaga Cathedral",
-                  "text": "Eine religiöse Andachtsstätte in Rubaga.",
+                  "text": "Rubaga Cathedral in Rubaga (Kampala) ist die katholische Hauptkathedrale auf dem Rubaga-Hügel.",
                   "category": "religious",
                   "coords": [
                         32.552084,
@@ -2067,7 +2067,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Royal Theatre",
-                  "text": "Egy színház Rubaga városrészben.",
+                  "text": "Royal Theatre Rubagában, egy történelmi színház a Buganda királyság kulturális előadásainak.",
                   "category": "cultural",
                   "coords": [
                         32.570299,
@@ -2076,7 +2076,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Playwright play house",
-                  "text": "Egy helyi játszóház és színház Rubagában.",
+                  "text": "Playwright Play House Rubagában, egy kulturális helyszín ugandai színházi előadásokhoz.",
                   "category": "cultural",
                   "coords": [
                         32.555947,
@@ -2085,7 +2085,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kasubi Royal Tombs",
-                  "text": "Egy múzeumi helyszín Rubagában.",
+                  "text": "Kasubi Királyi Sírkamrák Rubagában, a Buganda királyok temetkezési helye (UNESCO világörökség).",
                   "category": "museum",
                   "coords": [
                         32.555088,
@@ -2094,7 +2094,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Buganda Kingdom museum",
-                  "text": "Egy múzeumi létesítmény Rubagában.",
+                  "text": "Buganda Királyság Múzeum Rubagában, a Buganda királyság tárgyainak kiállításával.",
                   "category": "museum",
                   "coords": [
                         32.565517,
@@ -2103,7 +2103,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Busses to Kigali",
-                  "text": "Egy nevezetes hely és látványosság Rubagában.",
+                  "text": "Buszok Kigaliba, a rubagai buszpályaudvar a ruandai fővárosba induló járatokkal.",
                   "category": "landmark",
                   "coords": [
                         32.566554,
@@ -2112,7 +2112,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Katwe market",
-                  "text": "Egy helyi piac és látványosság Rubagában.",
+                  "text": "Katwe piac Rubagában, egy nyüzsgő helyi piac friss termékekkel és kézműves termékekkel.",
                   "category": "landmark",
                   "coords": [
                         32.575054,
@@ -2121,7 +2121,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda National Mosque",
-                  "text": "Egy kiemelkedő vallási látványosság Rubagában.",
+                  "text": "Ugandai Nemzeti Mecset Rubagában (Gaddafi-mecset), Uganda legnagyobb mecsetje magas minarettel.",
                   "category": "landmark",
                   "coords": [
                         32.568564,
@@ -2130,7 +2130,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Parliament of the Kingdom of Bugunda",
-                  "text": "Egy nevezetesség és látványosság Rubagában.",
+                  "text": "Buganda Királyság Parlamentje Rubagában, a Buganda törvényhozó testület székhelye.",
                   "category": "landmark",
                   "coords": [
                         32.558253,
@@ -2157,7 +2157,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Miracle Center Cathedral",
-                  "text": "Egy kiemelkedő istentiszteleti hely Rubagában.",
+                  "text": "A Miracle Center Cathedral Rubagában (Kampala) egy nagy pünkösdi templom.",
                   "category": "religious",
                   "coords": [
                         32.560722,
@@ -2166,7 +2166,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Rubaga Cathedral",
-                  "text": "Egy vallási istentiszteleti hely Rubagában.",
+                  "text": "A Rubaga Cathedral Rubagában (Kampala) a katolikus főszékesegyház a Rubaga-dombon.",
                   "category": "religious",
                   "coords": [
                         32.552084,
@@ -2177,7 +2177,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Royal Theatre",
-                  "text": "Un teatru situat în Rubaga.",
+                  "text": "Teatrul Regal din Rubaga, un teatru istoric pentru spectacole culturale ale regatului Buganda.",
                   "category": "cultural",
                   "coords": [
                         32.570299,
@@ -2186,7 +2186,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Playwright play house",
-                  "text": "Un teatru și casă de spectacole locală din Rubaga.",
+                  "text": "Playwright Play House din Rubaga, un loc cultural pentru piese de teatru ugandeze.",
                   "category": "cultural",
                   "coords": [
                         32.555947,
@@ -2195,7 +2195,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kasubi Royal Tombs",
-                  "text": "Un complex muzeal situat în Rubaga.",
+                  "text": "Mormintele Regale Kasubi din Rubaga, locul de înmormântare al regilor Buganda (patrimoniu UNESCO).",
                   "category": "museum",
                   "coords": [
                         32.555088,
@@ -2204,7 +2204,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Buganda Kingdom museum",
-                  "text": "O instituție muzeală situată în Rubaga.",
+                  "text": "Muzeul Regatului Buganda din Rubaga, care expune artefacte ale regatului Buganda.",
                   "category": "museum",
                   "coords": [
                         32.565517,
@@ -2213,7 +2213,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Busses to Kigali",
-                  "text": "O locație notabilă și punct de interes în Rubaga.",
+                  "text": "Autobuze spre Kigali, terminalul de autobuze din Rubaga pentru rute către capitala Rwandei.",
                   "category": "landmark",
                   "coords": [
                         32.566554,
@@ -2222,7 +2222,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Katwe market",
-                  "text": "O piață locală și atracție în Rubaga.",
+                  "text": "Piața Katwe din Rubaga, o piață locală animată cu produse proaspete și meșteșuguri.",
                   "category": "landmark",
                   "coords": [
                         32.575054,
@@ -2231,7 +2231,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda National Mosque",
-                  "text": "O atracție religioasă importantă situată în Rubaga.",
+                  "text": "Moscheea Națională a Ugandei din Rubaga (Moscheea Gaddafi), cea mai mare moschee din Uganda cu un minaret înalt.",
                   "category": "landmark",
                   "coords": [
                         32.568564,
@@ -2240,7 +2240,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Parliament of the Kingdom of Bugunda",
-                  "text": "Un punct de reper și o atracție situată în Rubaga.",
+                  "text": "Parlamentul Regatului Buganda din Rubaga, sediul legislativului Buganda.",
                   "category": "landmark",
                   "coords": [
                         32.558253,
@@ -2267,7 +2267,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Miracle Center Cathedral",
-                  "text": "Un lăcaș de cult proeminent situat în Rubaga.",
+                  "text": "Miracle Center Cathedral din Rubaga (Kampala) este o mare biserică penticostală.",
                   "category": "religious",
                   "coords": [
                         32.560722,
@@ -2276,7 +2276,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Rubaga Cathedral",
-                  "text": "Un lăcaș de cult religios situat în Rubaga.",
+                  "text": "Rubaga Cathedral din Rubaga (Kampala) este catedrala catolică principală pe dealul Rubaga.",
                   "category": "religious",
                   "coords": [
                         32.552084,
@@ -2287,7 +2287,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Theatre",
-                  "text": "A theatre venue situated in Rubaga.",
+                  "text": "Royal Theatre in Rubaga, a historic theatre for Buganda kingdom cultural performances.",
                   "category": "cultural",
                   "coords": [
                         32.570299,
@@ -2296,7 +2296,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Playwright play house",
-                  "text": "A local playhouse and theatre in Rubaga.",
+                  "text": "Playwright Play House in Rubaga, a cultural venue for Ugandan theatre.",
                   "category": "cultural",
                   "coords": [
                         32.555947,
@@ -2305,7 +2305,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kasubi Royal Tombs",
-                  "text": "A museum site located in Rubaga.",
+                  "text": "Kasubi Royal Tombs in Rubaga, burial site of Buganda kings (UNESCO World Heritage).",
                   "category": "museum",
                   "coords": [
                         32.555088,
@@ -2314,7 +2314,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Buganda Kingdom museum",
-                  "text": "A museum facility located in Rubaga.",
+                  "text": "Buganda Kingdom Museum in Rubaga, displaying artifacts of the Buganda kingdom.",
                   "category": "museum",
                   "coords": [
                         32.565517,
@@ -2323,7 +2323,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Busses to Kigali",
-                  "text": "A notable location and point of interest in Rubaga.",
+                  "text": "Buses to Kigali, the bus terminal in Rubaga for routes to Rwanda's capital.",
                   "category": "landmark",
                   "coords": [
                         32.566554,
@@ -2332,7 +2332,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Katwe market",
-                  "text": "A local market and attraction in Rubaga.",
+                  "text": "Katwe Market in Rubaga, a bustling local market for fresh produce and crafts.",
                   "category": "landmark",
                   "coords": [
                         32.575054,
@@ -2341,7 +2341,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Uganda National Mosque",
-                  "text": "A prominent religious attraction located in Rubaga.",
+                  "text": "Uganda National Mosque in Rubaga (Gaddafi Mosque), the largest mosque in Uganda with a tall minaret.",
                   "category": "landmark",
                   "coords": [
                         32.568564,
@@ -2350,7 +2350,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Parliament of the Kingdom of Bugunda",
-                  "text": "A landmark and attraction located in Rubaga.",
+                  "text": "Parliament of the Kingdom of Buganda in Rubaga, seat of Buganda's legislative body.",
                   "category": "landmark",
                   "coords": [
                         32.558253,
@@ -2377,7 +2377,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Miracle Center Cathedral",
-                  "text": "A prominent place of worship located in Rubaga.",
+                  "text": "Miracle Center Cathedral in Rubaga (Kampala) is a large Pentecostal church.",
                   "category": "religious",
                   "coords": [
                         32.560722,
@@ -2386,7 +2386,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Rubaga Cathedral",
-                  "text": "A religious place of worship situated in Rubaga.",
+                  "text": "Rubaga Cathedral in Rubaga (Kampala) is the main Catholic cathedral on Rubaga Hill.",
                   "category": "religious",
                   "coords": [
                         32.552084,
@@ -2476,7 +2476,232 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nakawa-cities-v2", "sights": {"de": [{"name": "URA MUSEUM", "text": "Ein Museum im Stadtbezirk Nakawa von Kampala.", "category": "museum", "coords": [32.618759, 0.329861]}, {"name": "Naguru Hill", "text": "Ein markanter Hügel in Nakawa mit Panoramablick auf die Umgebung.", "category": "natural", "coords": [32.605012, 0.346895]}, {"name": "Afriart on 7th", "text": "Afriart on 7th in Nakawa ist eine herausragende Galerie für zeitgenössische Kunst in Uganda. Das Museum legt seinen Schwerpunkt darauf, ausdrucksstarke afrikanische Kunstwerke einem breiten Publikum zugänglich zu machen.", "category": "museum", "coords": [32.609159, 0.313506]}, {"name": "Kololo Hill", "text": "Ein bekannter Gipfel und gehobenes Wohnviertel in Nakawa.", "category": "natural", "coords": [32.593011, 0.334011]}, {"name": "Lugogo Show Grounds", "text": "Ein Ausstellungs- und Kunstzentrum in Nakawa.", "category": "cultural", "coords": [32.609065, 0.326653]}, {"name": "Nakawa Market", "text": "Ein belebter lokaler Marktplatz im Bezirk Nakawa.", "category": "landmark", "coords": [32.612211, 0.329426]}], "hu": [{"name": "URA MUSEUM", "text": "Múzeum Kampala Nakawa negyedében.", "category": "museum", "coords": [32.618759, 0.329861]}, {"name": "Naguru Hill", "text": "Jellegzetes domb Nakawában, ahonnan panorámás kilátás nyílik a környékre.", "category": "natural", "coords": [32.605012, 0.346895]}, {"name": "Afriart on 7th", "text": "A nakawai Afriart on 7th egy kiemelkedő kortárs művészeti galéria Ugandában. A múzeum fő célja, hogy kifejező afrikai művészeti alkotásokat mutasson be a nagyközönség számára.", "category": "museum", "coords": [32.609159, 0.313506]}, {"name": "Kololo Hill", "text": "Nevezetes domb és előkelő lakónegyed Nakawában.", "category": "natural", "coords": [32.593011, 0.334011]}, {"name": "Lugogo Show Grounds", "text": "Kiállítási és művészeti központ Nakawában.", "category": "cultural", "coords": [32.609065, 0.326653]}, {"name": "Nakawa Market", "text": "Nyüzsgő helyi piactér Nakawa negyedében.", "category": "landmark", "coords": [32.612211, 0.329426]}], "ro": [{"name": "URA MUSEUM", "text": "Un muzeu situat în divizia Nakawa din Kampala.", "category": "museum", "coords": [32.618759, 0.329861]}, {"name": "Naguru Hill", "text": "Un deal proeminent din Nakawa care oferă vedere panoramică asupra împrejurimilor.", "category": "natural", "coords": [32.605012, 0.346895]}, {"name": "Afriart on 7th", "text": "Afriart on 7th din Nakawa este o galerie de artă contemporană remarcabilă din Uganda. Acest muzeu se concentrează pe prezentarea și promovarea lucrărilor de artă africană expresivă.", "category": "museum", "coords": [32.609159, 0.313506]}, {"name": "Kololo Hill", "text": "Un vârf notabil și o zonă rezidențială exclusivistă din Nakawa.", "category": "natural", "coords": [32.593011, 0.334011]}, {"name": "Lugogo Show Grounds", "text": "Un centru de expoziții și artă situat în Nakawa.", "category": "cultural", "coords": [32.609065, 0.326653]}, {"name": "Nakawa Market", "text": "O piață locală plină de viață în districtul Nakawa.", "category": "landmark", "coords": [32.612211, 0.329426]}], "en": [{"name": "URA MUSEUM", "text": "A museum located in the Nakawa division of Kampala.", "category": "museum", "coords": [32.618759, 0.329861]}, {"name": "Naguru Hill", "text": "A prominent hill in Nakawa offering panoramic views of the surroundings.", "category": "natural", "coords": [32.605012, 0.346895]}, {"name": "Afriart on 7th", "text": "Afriart on 7th in Nakawa is an outstanding contemporary art gallery in Uganda. This museum focuses heavily on showcasing expressive African artwork to a wider audience.", "category": "museum", "coords": [32.609159, 0.313506]}, {"name": "Kololo Hill", "text": "A notable peak and upscale residential area in Nakawa.", "category": "natural", "coords": [32.593011, 0.334011]}, {"name": "Lugogo Show Grounds", "text": "An exhibition and arts centre located in Nakawa.", "category": "cultural", "coords": [32.609065, 0.326653]}, {"name": "Nakawa Market", "text": "A bustling local marketplace in the district of Nakawa.", "category": "landmark", "coords": [32.612211, 0.329426]}]},
+    id: "nakawa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "URA Museum in Nakawa, ein Museum zur Steuergeschichte Ugandas.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "Ein markanter Hügel in Nakawa mit Panoramablick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Afriart on 7th in Nakawa ist eine herausragende Galerie für zeitgenössische Kunst in Uganda. Das Museum legt seinen Schwerpunkt darauf, ausdrucksstarke afrikanische Kunstwerke einem breiten Publikum zugänglich zu machen.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "Kololo Hill in Nakawa (Kampala) ist ein Hügel mit Blick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Lugogo Show Grounds in Nakawa, ein Veranstaltungsort für Landwirtschaftsausstellungen und kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "Ein belebter lokaler Marktplatz im Bezirk Nakawa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612211,
+                        0.329426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "URA Múzeum Nakawában, Uganda adótörténetének múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "Jellegzetes domb Nakawában, ahonnan panorámás kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "A nakawai Afriart on 7th egy kiemelkedő kortárs művészeti galéria Ugandában. A múzeum fő célja, hogy kifejező afrikai művészeti alkotásokat mutasson be a nagyközönség számára.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "A Kololo Hill Nakawában (Kampala) egy domb, ahonnan kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Lugogo Show Grounds Nakawában, mezőgazdasági kiállítások és kulturális rendezvények helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "Nyüzsgő helyi piactér Nakawa negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612211,
+                        0.329426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "Muzeul URA din Nakawa, un muzeu al istoriei fiscale a Ugandei.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "Un deal proeminent din Nakawa care oferă vedere panoramică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Afriart on 7th din Nakawa este o galerie de artă contemporană remarcabilă din Uganda. Acest muzeu se concentrează pe prezentarea și promovarea lucrărilor de artă africană expresivă.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "Kololo Hill din Nakawa (Kampala) este un deal cu vedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Lugogo Show Grounds din Nakawa, un loc pentru expoziții agricole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "O piață locală plină de viață în districtul Nakawa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612211,
+                        0.329426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "URA MUSEUM",
+                  "text": "URA Museum in Nakawa, a museum of Uganda's tax history.",
+                  "category": "museum",
+                  "coords": [
+                        32.618759,
+                        0.329861
+                  ]
+            },
+            {
+                  "name": "Naguru Hill",
+                  "text": "A prominent hill in Nakawa offering panoramic views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        32.605012,
+                        0.346895
+                  ]
+            },
+            {
+                  "name": "Afriart on 7th",
+                  "text": "Afriart on 7th in Nakawa is an outstanding contemporary art gallery in Uganda. This museum focuses heavily on showcasing expressive African artwork to a wider audience.",
+                  "category": "museum",
+                  "coords": [
+                        32.609159,
+                        0.313506
+                  ]
+            },
+            {
+                  "name": "Kololo Hill",
+                  "text": "Kololo Hill in Nakawa (Kampala) is a hill with views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        32.593011,
+                        0.334011
+                  ]
+            },
+            {
+                  "name": "Lugogo Show Grounds",
+                  "text": "Lugogo Show Grounds in Nakawa, a venue for agricultural shows and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        32.609065,
+                        0.326653
+                  ]
+            },
+            {
+                  "name": "Nakawa Market",
+                  "text": "A bustling local marketplace in the district of Nakawa.",
+                  "category": "landmark",
+                  "coords": [
+                        32.612211,
+                        0.329426
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UG-102",
     coords: [32.6167, 0.3333],
@@ -3273,7 +3498,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "African Art",
-                  "text": "Eine Kunstgalerie in Kisoro, die afrikanische Kunstwerke ausstellt.",
+                  "text": "Afrikanische Kunst, ein Museum in Kisoro, das traditionelle afrikanische Kunstwerke zeigt.",
                   "category": "museum",
                   "coords": [
                         29.692373,
@@ -3284,7 +3509,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "African Art",
-                  "text": "Afrikai művészeti alkotásokat bemutató galéria Kisoróban.",
+                  "text": "Afrikai Művészet, egy múzeum Kisoro városában, hagyományos afrikai műalkotásokkal.",
                   "category": "museum",
                   "coords": [
                         29.692373,
@@ -3295,7 +3520,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "African Art",
-                  "text": "O galerie de artă din Kisoro care expune lucrări de artă africană.",
+                  "text": "Artă Africană, un muzeu în Kisoro care prezintă opere de artă tradiționale africane.",
                   "category": "museum",
                   "coords": [
                         29.692373,
@@ -3306,7 +3531,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "African Art",
-                  "text": "An art gallery in Kisoro displaying African artworks.",
+                  "text": "African Art, a museum in Kisoro showcasing traditional African artworks.",
                   "category": "museum",
                   "coords": [
                         29.692373,
@@ -3732,7 +3957,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Nakiloro Elder's Place",
-                  "text": "Ein traditioneller Ort von kultureller Bedeutung in Moroto.",
+                  "text": "Nakiloro Elder's Place in Moroto, ein kultureller Treffpunkt der Dorfältesten für Versammlungen.",
                   "category": "landmark",
                   "coords": [
                         34.658964,
@@ -3761,7 +3986,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Nakiloro Elder's Place",
-                  "text": "Hagyományos, kulturális jelentőséggel bíró helyszín Morotóban.",
+                  "text": "Nakiloro Vének Helye Moroto városában, egy kulturális találkozóhely az idősek gyűléseihez.",
                   "category": "landmark",
                   "coords": [
                         34.658964,
@@ -3790,7 +4015,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Nakiloro Elder's Place",
-                  "text": "Un loc tradițional cu semnificație culturală în Moroto.",
+                  "text": "Locul Bătrânilor Nakiloro din Moroto, un loc de întâlnire cultural pentru adunările bătrânilor.",
                   "category": "landmark",
                   "coords": [
                         34.658964,
@@ -3819,7 +4044,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
             },
             {
                   "name": "Nakiloro Elder's Place",
-                  "text": "A traditional site of cultural significance in Moroto.",
+                  "text": "Nakiloro Elder's Place in Moroto, a cultural gathering spot for elders' meetings.",
                   "category": "landmark",
                   "coords": [
                         34.658964,
@@ -3919,7 +4144,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Katoosa Martyrs Villa",
-                  "text": "Ein Denkmal in der Stadt Kyenjojo.",
+                  "text": "Katoosa Martyrs Villa in Kyenjojo, ein historisches Haus, das mit den ugandischen Märtyrern verbunden ist.",
                   "category": "historical",
                   "coords": [
                         30.647865,
@@ -3930,7 +4155,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Katoosa Martyrs Villa",
-                  "text": "Egy emlékmű Kyenjojo városában.",
+                  "text": "Katoosa Vértanúk Villája Kyenjojo városában, egy történelmi ház, amely az ugandai vértanúkhoz kötődik.",
                   "category": "historical",
                   "coords": [
                         30.647865,
@@ -3941,7 +4166,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Katoosa Martyrs Villa",
-                  "text": "Un monument situat în orașul Kyenjojo.",
+                  "text": "Vila Martirilor Katoosa din Kyenjojo, o casă istorică legată de martirii ugandezi.",
                   "category": "historical",
                   "coords": [
                         30.647865,
@@ -3952,7 +4177,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Katoosa Martyrs Villa",
-                  "text": "A monument located in the city of Kyenjojo.",
+                  "text": "Katoosa Martyrs Villa in Kyenjojo, a historic house linked to Uganda's martyrs.",
                   "category": "historical",
                   "coords": [
                         30.647865,

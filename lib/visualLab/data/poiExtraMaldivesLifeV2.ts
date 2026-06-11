@@ -3,7 +3,376 @@ import { POI } from './poi';
 export const maldivesLifeV2: POI[] = [
 
   {
-    id: "maldives-keylakunu-forest-life-v2",
+    id: "maldives-keylakunu-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maamiskith Tharaagandu",
+                  "text": "Diese antike archäologische Stätte offenbart bauliche Überreste früher maledivischer Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        72.951904,
+                        6.547851
+                  ]
+            },
+            {
+                  "name": "Vaikaradhoo",
+                  "text": "Dieses vom Architekten Abdull Waleed entworfene Monument ist eine markante Hommage in der Inselgemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        72.952129,
+                        6.552464
+                  ]
+            },
+            {
+                  "name": "Jaadi Valhulithan",
+                  "text": "Diese markanten Erdformationen markieren eine archäologische Stätte mit Überresten früherer Besiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        72.954316,
+                        6.547001
+                  ]
+            },
+            {
+                  "name": "Funa Hiya",
+                  "text": "Inmitten der Natur gelegen, bietet dieser Picknickplatz einen Sitzbereich für Mahlzeiten im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949871,
+                        6.546728
+                  ]
+            },
+            {
+                  "name": "Gumbaru Bodu Gaa",
+                  "text": "Diese anerkannte archäologische Stätte weist bedeutende historische Steinformationen aus der Vergangenheit der Insel auf.",
+                  "category": "historical",
+                  "coords": [
+                        72.94625,
+                        6.54883
+                  ]
+            },
+            {
+                  "name": "Masjidhul Nasru",
+                  "text": "Diese muslimische Moschee dient den einheimischen Gläubigen und bietet einen ruhigen architektonischen Rahmen für den täglichen Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        72.954,
+                        6.55217
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kabeer",
+                  "text": "Diese große muslimische Moschee fungiert als zentraler Versammlungsraum für die großen Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952319,
+                        6.550983
+                  ]
+            },
+            {
+                  "name": "HDh Atoll School Mosque",
+                  "text": "Eine islamische Kultstätte in der Nähe der HDh Atoll School auf den Malediven.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952709,
+                        6.549528
+                  ]
+            },
+            {
+                  "name": "Masjid al-Ikhlas",
+                  "text": "Eine maledivische Moschee, die der lokalen muslimischen Gemeinde für die täglichen Gebete zur Verfügung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952963,
+                        6.548355
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Izdhihaaru",
+                  "text": "Eine Inselmoschee, die den Bewohnern als spiritueller Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.978394,
+                        6.547338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maamiskith Tharaagandu",
+                  "text": "Ez az ősi régészeti lelőhely a korai maldív települések építészeti maradványait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        72.951904,
+                        6.547851
+                  ]
+            },
+            {
+                  "name": "Vaikaradhoo",
+                  "text": "Az Abdull Waleed építész által tervezett emlékmű kiemelkedő tiszteletadásként áll a szigeti közösségben.",
+                  "category": "historical",
+                  "coords": [
+                        72.952129,
+                        6.552464
+                  ]
+            },
+            {
+                  "name": "Jaadi Valhulithan",
+                  "text": "Ezek a kiemelkedő földképződmények olyan régészeti lelőhelyet jeleznek, amely múltbéli lakóhelyek maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        72.954316,
+                        6.547001
+                  ]
+            },
+            {
+                  "name": "Funa Hiya",
+                  "text": "A természetes tájban fekvő piknikezőhely szabadtéri ülőalkalmatosságokat kínál a szabad ég alatti étkezésekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949871,
+                        6.546728
+                  ]
+            },
+            {
+                  "name": "Gumbaru Bodu Gaa",
+                  "text": "Ez az elismert régészeti lelőhely a sziget múltjából származó jelentős történelmi kőképződményekkel büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        72.94625,
+                        6.54883
+                  ]
+            },
+            {
+                  "name": "Masjidhul Nasru",
+                  "text": "A helyi híveket szolgáló muszlim mecset nyugodt építészeti környezetet kínál a napi istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        72.954,
+                        6.55217
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kabeer",
+                  "text": "Ez a nagyméretű muszlim mecset központi gyülekezeti térként funkcionál a jelentős pénteki imák alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952319,
+                        6.550983
+                  ]
+            },
+            {
+                  "name": "HDh Atoll School Mosque",
+                  "text": "Egy iszlám istentiszteleti hely a Maldív-szigeteken, a HDh Atoll Iskola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952709,
+                        6.549528
+                  ]
+            },
+            {
+                  "name": "Masjid al-Ikhlas",
+                  "text": "Egy maldív mecset, amely a helyi muszlim közösség napi imáinak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952963,
+                        6.548355
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Izdhihaaru",
+                  "text": "Egy szigeti mecset, amely spirituális gyülekezőhelyet biztosít a lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.978394,
+                        6.547338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maamiskith Tharaagandu",
+                  "text": "Acest sit arheologic antic dezvăluie rămășițe structurale ale primelor așezări maldiviene.",
+                  "category": "historical",
+                  "coords": [
+                        72.951904,
+                        6.547851
+                  ]
+            },
+            {
+                  "name": "Vaikaradhoo",
+                  "text": "Proiectat de arhitectul Abdull Waleed, acest monument se înalță ca un omagiu proeminent în comunitatea insulară.",
+                  "category": "historical",
+                  "coords": [
+                        72.952129,
+                        6.552464
+                  ]
+            },
+            {
+                  "name": "Jaadi Valhulithan",
+                  "text": "Aceste formațiuni proeminente de pământ marchează un sit arheologic ce conține rămășițe ale unor așezări trecute.",
+                  "category": "historical",
+                  "coords": [
+                        72.954316,
+                        6.547001
+                  ]
+            },
+            {
+                  "name": "Funa Hiya",
+                  "text": "Situat în mijlocul peisajului natural, acest loc de picnic oferă o zonă de relaxare în aer liber pentru mese la iarbă verde.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949871,
+                        6.546728
+                  ]
+            },
+            {
+                  "name": "Gumbaru Bodu Gaa",
+                  "text": "Acest sit arheologic recunoscut prezintă formațiuni de piatră istorice semnificative din trecutul insulei.",
+                  "category": "historical",
+                  "coords": [
+                        72.94625,
+                        6.54883
+                  ]
+            },
+            {
+                  "name": "Masjidhul Nasru",
+                  "text": "Deservind credincioșii locali, această moschee musulmană oferă un cadru arhitectural liniștit pentru cultul zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        72.954,
+                        6.55217
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kabeer",
+                  "text": "Această mare moschee musulmană funcționează ca un spațiu central de adunare pentru marile rugăciuni de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952319,
+                        6.550983
+                  ]
+            },
+            {
+                  "name": "HDh Atoll School Mosque",
+                  "text": "Un lăcaș de cult islamic situat lângă Școala Atolului HDh din Maldive.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952709,
+                        6.549528
+                  ]
+            },
+            {
+                  "name": "Masjid al-Ikhlas",
+                  "text": "O moschee maldiviană care găzduiește rugăciunile zilnice ale comunității musulmane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952963,
+                        6.548355
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Izdhihaaru",
+                  "text": "O moschee insulară care oferă un loc de adunare spirituală pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        72.978394,
+                        6.547338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maamiskith Tharaagandu",
+                  "text": "This ancient archaeological site reveals structural remnants of early Maldivian settlements.",
+                  "category": "historical",
+                  "coords": [
+                        72.951904,
+                        6.547851
+                  ]
+            },
+            {
+                  "name": "Vaikaradhoo",
+                  "text": "Designed by architect Abdull Waleed, this monument stands as a prominent tribute in the island community.",
+                  "category": "historical",
+                  "coords": [
+                        72.952129,
+                        6.552464
+                  ]
+            },
+            {
+                  "name": "Archeological Mounds",
+                  "text": "These prominent earthen formations mark an archaeological site containing remnants of past habitation.",
+                  "category": "historical",
+                  "coords": [
+                        72.954316,
+                        6.547001
+                  ]
+            },
+            {
+                  "name": "Funa Hiya",
+                  "text": "Set amidst the natural landscape, this picnic site provides an outdoor seating area for open-air meals.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949871,
+                        6.546728
+                  ]
+            },
+            {
+                  "name": "Gunbaru Bodugaa",
+                  "text": "This recognized archaeological site features significant historical stone formations from the island's past.",
+                  "category": "historical",
+                  "coords": [
+                        72.94625,
+                        6.54883
+                  ]
+            },
+            {
+                  "name": "Masjidhul Nasru",
+                  "text": "Serving the local faithful, this Muslim mosque offers a tranquil architectural setting for daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        72.954,
+                        6.55217
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kabeer",
+                  "text": "This grand Muslim mosque functions as a central congregational space for large Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952319,
+                        6.550983
+                  ]
+            },
+            {
+                  "name": "HDh Atoll School Mosque",
+                  "text": "An Islamic place of worship located near the HDh Atoll School in the Maldives.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952709,
+                        6.549528
+                  ]
+            },
+            {
+                  "name": "Masjid al-Ikhlas",
+                  "text": "A Maldivian mosque hosting daily prayers for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.952963,
+                        6.548355
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Izdhihaaru",
+                  "text": "An island mosque providing a spiritual gathering place for the residents.",
+                  "category": "landmark",
+                  "coords": [
+                        72.978394,
+                        6.547338
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "forest",
     name: { de: "Keylakunu-Waldreservat", hu: "Keylakunu-erdőrezervátum", ro: "Rezervația forestieră Keylakunu", en: "Keylakunu Forest Reserve" },
@@ -93,7 +462,232 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-neykurendhoo-mangrove-life-v2.webp",
   },
   {
-    id: "maldives-goidhoo-wetland-life-v2",
+    id: "maldives-goidhoo-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shark and sting ray feeding point",
+                  "text": "Ein Aussichtspunkt am Ufer, wo Rochen und Haie in den flachen Gewässern beobachtet werden können.",
+                  "category": "natural",
+                  "coords": [
+                        72.972866,
+                        4.879702
+                  ]
+            },
+            {
+                  "name": "Rock Beach",
+                  "text": "Ein Küstenabschnitt auf Goidhoo, der durch seine natürlichen Felsformationen am Wasserrand besticht.",
+                  "category": "recreational",
+                  "coords": [
+                        73.007641,
+                        4.876123
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "Ein ruhiger Sandstrand an der Westküste der Insel Goidhoo, ideal für Sonnenuntergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        72.992834,
+                        4.877373
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Ein speziell für Touristen ausgewiesener Strandbereich auf Goidhoo, an dem Badekleidung erlaubt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        72.995251,
+                        4.862104
+                  ]
+            },
+            {
+                  "name": "Friday mosque",
+                  "text": "Die zentrale Freitagsmoschee der Insel Goidhoo mit ihrer traditionellen islamischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        72.997098,
+                        4.87682
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Eine lokale Moschee auf Goidhoo, die das geistliche Zentrum der Inselbewohner bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.974319,
+                        4.879894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shark and sting ray feeding point",
+                  "text": "Partmenti kilátópont, ahol ráják és cápák figyelhetők meg a sekély vízben.",
+                  "category": "natural",
+                  "coords": [
+                        72.972866,
+                        4.879702
+                  ]
+            },
+            {
+                  "name": "Rock Beach",
+                  "text": "Goidhoo tengerparti szakasza, amelyet a vízparti természetes sziklaformációk tesznek különlegessé.",
+                  "category": "recreational",
+                  "coords": [
+                        73.007641,
+                        4.876123
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "Nyugodt homokos strand Goidhoo-sziget nyugati partján, ideális a naplemente megtekintéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        72.992834,
+                        4.877373
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Turisták számára kijelölt strandrész Goidhoo-n, ahol megengedett a fürdőruha viselése.",
+                  "category": "recreational",
+                  "coords": [
+                        72.995251,
+                        4.862104
+                  ]
+            },
+            {
+                  "name": "Friday mosque",
+                  "text": "Goidhoo-sziget központi pénteki mecsetje hagyományos iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.997098,
+                        4.87682
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Helyi mecset Goidhoo-n, amely a szigetlakók lelki központja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.974319,
+                        4.879894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shark and sting ray feeding point",
+                  "text": "Un punct de observație la mal unde pot fi văzute pisici de mare și rechini în apele puțin adânci.",
+                  "category": "natural",
+                  "coords": [
+                        72.972866,
+                        4.879702
+                  ]
+            },
+            {
+                  "name": "Rock Beach",
+                  "text": "O secțiune de coastă pe Goidhoo, remarcabilă prin formațiunile sale stâncoase naturale de la marginea apei.",
+                  "category": "recreational",
+                  "coords": [
+                        73.007641,
+                        4.876123
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "O plajă de nisip liniștită pe coasta de vest a insulei Goidhoo, ideală pentru apusuri.",
+                  "category": "recreational",
+                  "coords": [
+                        72.992834,
+                        4.877373
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "O zonă de plajă special desemnată pentru turiști pe Goidhoo, unde este permis costumul de baie.",
+                  "category": "recreational",
+                  "coords": [
+                        72.995251,
+                        4.862104
+                  ]
+            },
+            {
+                  "name": "Friday mosque",
+                  "text": "Principala moschee de vineri de pe insula Goidhoo, cu arhitectură islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        72.997098,
+                        4.87682
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "O moschee locală pe Goidhoo care constituie centrul spiritual al locuitorilor insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        72.974319,
+                        4.879894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shark and sting ray feeding point",
+                  "text": "A shoreline viewpoint where rays and sharks can be observed in the shallow waters.",
+                  "category": "natural",
+                  "coords": [
+                        72.972866,
+                        4.879702
+                  ]
+            },
+            {
+                  "name": "Rock Beach",
+                  "text": "A stretch of coast on Goidhoo notable for its natural rock formations along the water's edge.",
+                  "category": "recreational",
+                  "coords": [
+                        73.007641,
+                        4.876123
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "A peaceful sandy beach on the western coast of Goidhoo island, ideal for watching sunsets.",
+                  "category": "recreational",
+                  "coords": [
+                        72.992834,
+                        4.877373
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A beach area on Goidhoo specifically designated for tourists where swimwear is permitted.",
+                  "category": "recreational",
+                  "coords": [
+                        72.995251,
+                        4.862104
+                  ]
+            },
+            {
+                  "name": "Friday mosque",
+                  "text": "The central Friday mosque of Goidhoo island featuring traditional Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        72.997098,
+                        4.87682
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A local mosque on Goidhoo that serves as a spiritual center for the island's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        72.974319,
+                        4.879894
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Goidhoo-Feuchtgebiet", hu: "Goidhoo-mocsárvidék", ro: "Zona umedă Goidhoo", en: "Goidhoo Wetland Area" },
@@ -138,7 +732,52 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-goidhoo-wetland-life-v2.webp",
   },
   {
-    id: "maldives-kaashidhoo-wetland-life-v2",
+    id: "maldives-kaashidhoo-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "Ein weißer Sandstrand auf Kaashidhoo, der speziell für Touristen zum Baden reserviert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.448513,
+                        4.951429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "Fehér homokos strand Kaashidhoo-n, amelyet kifejezetten turisták számára tartanak fenn.",
+                  "category": "recreational",
+                  "coords": [
+                        73.448513,
+                        4.951429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "O plajă cu nisip alb pe Kaashidhoo, rezervată special pentru turiști pentru scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        73.448513,
+                        4.951429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "A white sandy beach on Kaashidhoo specifically reserved for tourists to enjoy swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        73.448513,
+                        4.951429
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Kaashidhoo-Feuchtgebiet", hu: "Kaashidhoo-mocsárvidék", ro: "Zona umedă Kaashidhoo", en: "Kaashidhoo Wetland Area" },
@@ -183,7 +822,88 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-kaashidhoo-wetland-life-v2.webp",
   },
   {
-    id: "maldives-mushimasmingili-mpa-life-v2",
+    id: "maldives-mushimasmingili-mpa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ellaidhoo house reef",
+                  "text": "Ein lebhaftes Korallenriff, das direkt vom Strand der Insel Ellaidhoo aus zugänglich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949813,
+                        4.01525
+                  ]
+            },
+            {
+                  "name": "Fish Head",
+                  "text": "Ein berühmtes Meeresschutzgebiet, das für seine großen Haipopulationen und dichten Fischschwärme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.913141,
+                        3.935973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ellaidhoo house reef",
+                  "text": "Látványos korallzátony, amely közvetlenül az Ellaidhoo-sziget partjáról elérhető.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949813,
+                        4.01525
+                  ]
+            },
+            {
+                  "name": "Fish Head",
+                  "text": "Híres tengeri védett terület, amely nagy cápapopulációjáról és sűrű halrajairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.913141,
+                        3.935973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ellaidhoo house reef",
+                  "text": "Un recif de corali vibrant accesibil direct de pe plaja insulei Ellaidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949813,
+                        4.01525
+                  ]
+            },
+            {
+                  "name": "Fish Head",
+                  "text": "O celebră arie marină protejată, cunoscută pentru populațiile de rechini și bancurile dense de pești.",
+                  "category": "landmark",
+                  "coords": [
+                        72.913141,
+                        3.935973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ellaidhoo house reef",
+                  "text": "A vibrant coral reef accessible directly from the shores of Ellaidhoo island.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949813,
+                        4.01525
+                  ]
+            },
+            {
+                  "name": "Fish Head",
+                  "text": "A famous marine protected area known for its shark populations and dense schools of fish.",
+                  "category": "landmark",
+                  "coords": [
+                        72.913141,
+                        3.935973
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Mushimasmingili-Schutzgebiet", hu: "Mushimasmingili természetvédelmi terület", ro: "Zona protejată Mushimasmingili", en: "Mushimasmingili Marine Protected Area" },
@@ -228,7 +948,304 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-mushimasmingili-mpa-life-v2.webp",
   },
   {
-    id: "maldives-maaya-thila-marine-life-v2",
+    id: "maldives-maaya-thila-marine-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hafsa Thila",
+                  "text": "Ein tiefgelegenes Riffplateau (Thila), das für Begegnungen mit Grauen Riffhaien und großen Fischschwärmen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.838207,
+                        4.129193
+                  ]
+            },
+            {
+                  "name": "Maaya Lagoon",
+                  "text": "Eine weitläufige, türkisfarbene Lagune mit ruhigem Wasser, die sich hervorragend zum Schwimmen und Paddeln eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.884447,
+                        4.074567
+                  ]
+            },
+            {
+                  "name": "Aviary",
+                  "text": "Eine tropische Voliere auf dem Hotelgelände, in der verschiedene exotische Vogelarten der Inselregion leben.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887616,
+                        4.073455
+                  ]
+            },
+            {
+                  "name": "Parrot on a 30cm chain",
+                  "text": "Ein zahmer, farbenfroher Ara, der als prominenter Bewohner des Resorts oft im Geäst der Bäume zu sehen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887711,
+                        4.07471
+                  ]
+            },
+            {
+                  "name": "Maaya Thila",
+                  "text": "Dieses berühmte Meeresschutzgebiet ist weltweit bekannt für seine nächtlichen Tauchgänge mit Weißspitzen-Riffhaien.",
+                  "category": "landmark",
+                  "coords": [
+                        72.861972,
+                        4.091363
+                  ]
+            },
+            {
+                  "name": "Halaveli",
+                  "text": "Eine exklusive Resortinsel, die von einem artenreichen Hausriff und mehreren interessanten Schiffswracks umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.911639,
+                        4.054558
+                  ]
+            },
+            {
+                  "name": "Bathalaamaagaa Kanthila",
+                  "text": "Ein anspruchsvoller Strömungstauchplatz am Außenriff, der für seine großen Fächerkorallen und Adlerrochen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949754,
+                        4.070581
+                  ]
+            },
+            {
+                  "name": "Etheremadivaru house reef",
+                  "text": "Ein leicht zugängliches Korallenriff direkt vor dem Strand, das eine hohe Dichte an bunten Rifffischen aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936811,
+                        4.116151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hafsa Thila",
+                  "text": "Mélyen fekvő zátonyplató (thila), amely a szürke szirti cápákkal és nagy halrajokkal való találkozásokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.838207,
+                        4.129193
+                  ]
+            },
+            {
+                  "name": "Maaya Lagoon",
+                  "text": "Hatalmas türkizkék lagúna nyugodt vízzel, amely kiválóan alkalmas úszásra és evezésre.",
+                  "category": "landmark",
+                  "coords": [
+                        72.884447,
+                        4.074567
+                  ]
+            },
+            {
+                  "name": "Aviary",
+                  "text": "Trópusi madárház a szálloda területén, amely a szigetvilág különféle egzotikus madárfajainak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887616,
+                        4.073455
+                  ]
+            },
+            {
+                  "name": "Parrot on a 30cm chain",
+                  "text": "Szelíd, színes ara papagáj, a resort híres lakója, aki gyakran látható a fák ágai között.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887711,
+                        4.07471
+                  ]
+            },
+            {
+                  "name": "Maaya Thila",
+                  "text": "Ez a híres tengeri védett terület világszerte ismert az éjszakai merülésekről, ahol fehérfoltú szirti cápák láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        72.861972,
+                        4.091363
+                  ]
+            },
+            {
+                  "name": "Halaveli",
+                  "text": "Exkluzív üdülősziget, amelyet fajgazdag házi zátony és több érdekes hajóroncs vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        72.911639,
+                        4.054558
+                  ]
+            },
+            {
+                  "name": "Bathalaamaagaa Kanthila",
+                  "text": "Kihívást jelentő áramlatos merülőhely a külső zátonynál, amely hatalmas legyezőkoralljairól és sasrájáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949754,
+                        4.070581
+                  ]
+            },
+            {
+                  "name": "Etheremadivaru house reef",
+                  "text": "Könnyen megközelíthető korallzátony közvetlenül a partnál, ahol rengeteg színes zátonylakó hal él.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936811,
+                        4.116151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hafsa Thila",
+                  "text": "Un platou de recif la adâncime (thila), cunoscut pentru întâlnirile cu rechinii cenușii de recif și bancurile mari de pești.",
+                  "category": "landmark",
+                  "coords": [
+                        72.838207,
+                        4.129193
+                  ]
+            },
+            {
+                  "name": "Maaya Lagoon",
+                  "text": "O lagună turcoaz întinsă, cu ape liniștite, excelentă pentru înot și canotaj.",
+                  "category": "landmark",
+                  "coords": [
+                        72.884447,
+                        4.074567
+                  ]
+            },
+            {
+                  "name": "Aviary",
+                  "text": "O volieră tropicală în incinta hotelului, care găzduiește diverse specii de păsări exotice din regiunea insulară.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887616,
+                        4.073455
+                  ]
+            },
+            {
+                  "name": "Parrot on a 30cm chain",
+                  "text": "Un papagal Ara blând și colorat, locuitor proeminent al complexului, adesea văzut printre ramurile copacilor.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887711,
+                        4.07471
+                  ]
+            },
+            {
+                  "name": "Maaya Thila",
+                  "text": "Această rezervație marină faimoasă este cunoscută în întreaga lume pentru scufundările nocturne cu rechini de recif cu vârfuri albe.",
+                  "category": "landmark",
+                  "coords": [
+                        72.861972,
+                        4.091363
+                  ]
+            },
+            {
+                  "name": "Halaveli",
+                  "text": "O insulă exclusivistă cu resort, înconjurată de un recif bogat în specii și de câteva epave interesante.",
+                  "category": "landmark",
+                  "coords": [
+                        72.911639,
+                        4.054558
+                  ]
+            },
+            {
+                  "name": "Bathalaamaagaa Kanthila",
+                  "text": "Un loc de scufundări cu curenți provocatori la reciful exterior, cunoscut pentru coralii evantai uriași și pisicile de mare vultur.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949754,
+                        4.070581
+                  ]
+            },
+            {
+                  "name": "Etheremadivaru house reef",
+                  "text": "Un recif de corali ușor accesibil direct de pe plajă, care prezintă o densitate mare de pești de recif colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936811,
+                        4.116151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hafsa Thila",
+                  "text": "A deep-seated reef pinnacle (thila) known for encounters with grey reef sharks and large schools of fish.",
+                  "category": "landmark",
+                  "coords": [
+                        72.838207,
+                        4.129193
+                  ]
+            },
+            {
+                  "name": "Maaya Lagoon",
+                  "text": "A vast turquoise lagoon with calm waters, excellent for swimming and paddleboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        72.884447,
+                        4.074567
+                  ]
+            },
+            {
+                  "name": "Aviary",
+                  "text": "A tropical aviary on the resort grounds housing various exotic bird species from the island region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887616,
+                        4.073455
+                  ]
+            },
+            {
+                  "name": "Wolf, female parrot",
+                  "text": "A tame, colorful macaw who is a prominent resident of the resort, often seen among the tree branches.",
+                  "category": "landmark",
+                  "coords": [
+                        72.887711,
+                        4.07471
+                  ]
+            },
+            {
+                  "name": "Maaya Thila",
+                  "text": "This famous marine protected area is globally renowned for night dives with whitetip reef sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        72.861972,
+                        4.091363
+                  ]
+            },
+            {
+                  "name": "Halaveli",
+                  "text": "An exclusive resort island surrounded by a biodiverse house reef and several interesting shipwrecks.",
+                  "category": "landmark",
+                  "coords": [
+                        72.911639,
+                        4.054558
+                  ]
+            },
+            {
+                  "name": "Bathalaamaagaa Kanthila",
+                  "text": "A challenging drift dive site at the outer reef known for its large fan corals and eagle rays.",
+                  "category": "landmark",
+                  "coords": [
+                        72.949754,
+                        4.070581
+                  ]
+            },
+            {
+                  "name": "Etheremadivaru house reef",
+                  "text": "An easily accessible coral reef right off the beach featuring a high density of colorful reef fish.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936811,
+                        4.116151
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Maaya Thila Meeresschutzgebiet", hu: "Maaya Thila tengeri védett terület", ro: "Zona marină protejată Maaya Thila", en: "Maaya Thila Marine Site" },
@@ -273,7 +1290,196 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-maaya-thila-marine-life-v2.webp",
   },
   {
-    id: "maldives-madivaru-hammerhead-life-v2",
+    id: "maldives-madivaru-hammerhead-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Ein Naturpfad auf Kuramathi, der durch dichten Dschungel zu gewaltigen, uralten Banyan-Feigen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Das hauseigene Riff von Kuramathi ist bekannt für seine Korallenvielfalt und die dort lebenden Riffhaie.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Kuramathi North",
+                  "text": "Ein erstklassiges Tauchrevier im Norden der Insel Kuramathi, berühmt für seine Meeresbiologie.",
+                  "category": "landmark",
+                  "coords": [
+                        72.938879,
+                        4.277636
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Dieser Tauchplatz im Rasdhoo-Atoll ist weltberühmt für frühmorgendliche Sichtungen von Hammerhaien.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Ein Strand auf Rasdhoo, an dem Touristen offiziell Badekleidung tragen dürfen und klares Wasser genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992209,
+                        4.260684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Természeti ösvény Kuramathin, amely sűrű dzsungelen keresztül vezet a hatalmas, ősi banyánfákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Kuramathi házi zátonya koralljainak változatosságáról és az ott élő szirti cápákról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Kuramathi North",
+                  "text": "Elsőrangú merülőhely Kuramathi szigetének északi részén, amely tengerbiológiájáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        72.938879,
+                        4.277636
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Ez a Rasdhoo-atollnál található merülőhely világhírű a kora reggeli pörölycápa-észlelésekről.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Rasdhoo egyik strandja, ahol a turisták hivatalosan is viselhetnek fürdőruhát és élvezhetik a tiszta vizet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992209,
+                        4.260684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "O potecă naturală pe Kuramathi, care șerpuiește prin jungla densă spre smochini banyan uriași și antici.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Reciful casei din Kuramathi este cunoscut pentru diversitatea coralilor și rechinii de recif care trăiesc acolo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Kuramathi North",
+                  "text": "O zonă de scufundări de primă clasă în nordul insulei Kuramathi, renumită pentru biologia sa marină.",
+                  "category": "landmark",
+                  "coords": [
+                        72.938879,
+                        4.277636
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Acest loc de scufundări din Atolul Rasdhoo este faimos în întreaga lume pentru observările de rechini ciocan de dimineață.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "O plajă pe Rasdhoo unde turiștii pot purta oficial costume de baie și se pot bucura de apa limpede.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992209,
+                        4.260684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "A nature trail on Kuramathi winding through dense jungle to massive, ancient banyan trees.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Kuramathi's house reef is known for its coral diversity and the resident reef sharks found there.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Kuramathi North",
+                  "text": "A premier diving area on the north of Kuramathi island, famous for its marine biology.",
+                  "category": "landmark",
+                  "coords": [
+                        72.938879,
+                        4.277636
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "This dive site in Rasdhoo Atoll is world-famous for early morning sightings of hammerhead sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A beach on Rasdhoo where tourists are officially allowed to wear swimwear and enjoy the clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992209,
+                        4.260684
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Madivaru-Hammerhai-Gebiet", hu: "Madivaru pörölycápa-pont", ro: "Punctul de rechini ciocan Madivaru", en: "Madivaru Hammerhead Point" },
@@ -453,7 +1659,196 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-thanburudhoo-reef-life-v2.webp",
   },
   {
-    id: "maldives-vilimale-coral-life-v2",
+    id: "maldives-vilimale-coral-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vaadho Caves",
+                  "text": "Die Vaadho-Höhlen bieten spektakuläre Felsformationen unter der Wasseroberfläche, die von bunten Korallenfischen bewohnt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        73.455125,
+                        4.128736
+                  ]
+            },
+            {
+                  "name": "SAii Lagoon Maldives, Curio Collection by Hilton",
+                  "text": "Dieses moderne Resort wurde 2019 auf einer künstlichen Insel eröffnet und bietet luxuriöse Villen über dem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468377,
+                        4.120499
+                  ]
+            },
+            {
+                  "name": "Hard Rock Hotel Maldives",
+                  "text": "Ein lebhaftes Strandresort, das für seine Musikthemen und den direkten Zugang zur Lagune von Emboodhoo bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.47139,
+                        4.12279
+                  ]
+            },
+            {
+                  "name": "SAii Beach Club",
+                  "text": "Dieser Club bietet einen Infinity-Pool und direkten Strandzugang im modernen CROSSROADS-Freizeitkomplex.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465738,
+                        4.121163
+                  ]
+            },
+            {
+                  "name": "Crossroads Mosque",
+                  "text": "Diese moderne Moschee im CROSSROADS-Komplex dient sowohl Touristen als auch Angestellten als Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463274,
+                        4.124838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vaadho Caves",
+                  "text": "A Vaadho-barlangok látványos víz alatti sziklaalakzatokat kínálnak, amelyeket színes korallhalak laknak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.455125,
+                        4.128736
+                  ]
+            },
+            {
+                  "name": "SAii Lagoon Maldives, Curio Collection by Hilton",
+                  "text": "Ez a modern üdülőhely 2019-ben nyílt meg egy mesterséges szigeten, luxus vízi villákat kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468377,
+                        4.120499
+                  ]
+            },
+            {
+                  "name": "Hard Rock Hotel Maldives",
+                  "text": "Egy életteli tengerparti üdülőhely, amely zenei tematikájáról és az Emboodhoo-lagúnához való közvetlen hozzáféréséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        73.47139,
+                        4.12279
+                  ]
+            },
+            {
+                  "name": "SAii Beach Club",
+                  "text": "Ez a klub feszített víztükrű medencével és közvetlen tengerparti kapcsolattal várja a vendégeket a modern CROSSROADS komplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465738,
+                        4.121163
+                  ]
+            },
+            {
+                  "name": "Crossroads Mosque",
+                  "text": "A CROSSROADS komplexumban található modern mecset a turisták és az alkalmazottak számára egyaránt imaházként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463274,
+                        4.124838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vaadho Caves",
+                  "text": "Peșterile Vaadho oferă formațiuni stâncoase spectaculoase sub apă, populate de pești de corali colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        73.455125,
+                        4.128736
+                  ]
+            },
+            {
+                  "name": "SAii Lagoon Maldives, Curio Collection by Hilton",
+                  "text": "Acest complex modern a fost deschis în 2019 pe o insulă artificială și oferă vile de lux suspendate deasupra apei.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468377,
+                        4.120499
+                  ]
+            },
+            {
+                  "name": "Hard Rock Hotel Maldives",
+                  "text": "Un complex de plajă plin de viață, cunoscut pentru tematica muzicală și accesul direct la laguna Emboodhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.47139,
+                        4.12279
+                  ]
+            },
+            {
+                  "name": "SAii Beach Club",
+                  "text": "Acest club oferă o piscină de tip infinity și acces direct la plajă în cadrul complexului modern de agrement CROSSROADS.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465738,
+                        4.121163
+                  ]
+            },
+            {
+                  "name": "Crossroads Mosque",
+                  "text": "Această moșchee modernă din complexul CROSSROADS servește ca lăcaș de rugăciune atât pentru turiști, cât și pentru angajați.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463274,
+                        4.124838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vaadho Caves",
+                  "text": "The Vaadho caves feature spectacular underwater rock formations inhabited by colorful coral fish.",
+                  "category": "landmark",
+                  "coords": [
+                        73.455125,
+                        4.128736
+                  ]
+            },
+            {
+                  "name": "SAii Lagoon Maldives, Curio Collection by Hilton",
+                  "text": "This modern resort opened in 2019 on a man-made island and features luxury overwater villas.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468377,
+                        4.120499
+                  ]
+            },
+            {
+                  "name": "Hard Rock Hotel Maldives",
+                  "text": "A vibrant beach resort known for its music themes and direct access to the Emboodhoo lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        73.47139,
+                        4.12279
+                  ]
+            },
+            {
+                  "name": "SAii Beach Club",
+                  "text": "This club features an infinity pool and direct beach access within the modern CROSSROADS leisure complex.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465738,
+                        4.121163
+                  ]
+            },
+            {
+                  "name": "Crossroads Mosque",
+                  "text": "This modern mosque in the CROSSROADS complex serves as a place of prayer for both tourists and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463274,
+                        4.124838
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Vilimale-Korallenschutzgebiet", hu: "Vilimale korallvédelmi terület", ro: "Sit de conservare a coralilor Vilimale", en: "Vilimale Coral Restoration Site" },
@@ -498,7 +1893,736 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-vilimale-coral-life-v2.webp",
   },
   {
-    id: "maldives-guraidhoo-corner-life-v2",
+    id: "maldives-guraidhoo-corner-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South ist eine Sehenswürdigkeit in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North ist eine Touristenattraktion in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside ist eine Attraktion in der Region maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) ist eine Tauchattraktion in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Guraidhoo Channel ist eine Attraktion in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896087
+                  ]
+            },
+            {
+                  "name": "Coral Giri",
+                  "text": "Coral Giri ist eine Sehenswürdigkeit in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.430742,
+                        3.855119
+                  ]
+            },
+            {
+                  "name": "Fun Island Resort",
+                  "text": "Das Fun Island Resort ist ein Strandresort in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.456303,
+                        3.858362
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu ist eine lokale Attraktion in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef ist eine Sehenswürdigkeit in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru ist eine Sehenswürdigkeit in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "K.Guraidhoo beach ist ein Sandstrand in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470266,
+                        3.902086
+                  ]
+            },
+            {
+                  "name": "Olhuveli Beach & Spa",
+                  "text": "Olhuveli Beach & Spa ist ein beliebtes Strandresort in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.455033,
+                        3.849522
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Naanu Beach ist ein Strand in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.46887,
+                        3.903598
+                  ]
+            },
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach bietet eine ruhige Küstenumgebung in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469049,
+                        3.90043
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Chow Beach ist ein zugänglicher Strandabschnitt in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465889,
+                        3.901132
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach ist ein Strand in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470134,
+                        3.897299
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach ist ein Küstenort in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473327,
+                        3.901407
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Noor",
+                  "text": "Masjid Al-Noor ist eine islamische Kultstätte in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467276,
+                        3.901448
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iha",
+                  "text": "Masjid Al-Iha ist eine lokale muslimische Einrichtung in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468294,
+                        3.902581
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sidheeq",
+                  "text": "Masjid Al-Sidheeq dient der muslimischen Gemeinde in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467818,
+                        3.900449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guradoo South",
+                  "text": "A Guradoo South egy látványosság a maldives-guraidhoo-corner-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "A Guradoo North egy turisztikai látványosság maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "A Guradoo South Outside egy nevezetesség a maldives-guraidhoo-corner-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Az Emmadi Giri, más néven Manta Point, egy látványosság maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "A Guraidhoo Channel egy látványosság a maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896087
+                  ]
+            },
+            {
+                  "name": "Coral Giri",
+                  "text": "A Coral Giri egy nevezetesség a maldives-guraidhoo-corner-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.430742,
+                        3.855119
+                  ]
+            },
+            {
+                  "name": "Fun Island Resort",
+                  "text": "A Fun Island Resort egy tengerparti üdülőhely a maldives-guraidhoo-corner-life-v2 régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.456303,
+                        3.858362
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "A Guradoo Kuda Kandu egy helyi látványosság maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "A Banner Reef egy nevezetesség a maldives-guraidhoo-corner-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "A Kandoma Beru egy nevezetesség a maldives-guraidhoo-corner-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "A K.Guraidhoo beach egy homokos tengerpart maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470266,
+                        3.902086
+                  ]
+            },
+            {
+                  "name": "Olhuveli Beach & Spa",
+                  "text": "Az Olhuveli Beach & Spa egy tengerparti üdülőközpont a maldives-guraidhoo-corner-life-v2 régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.455033,
+                        3.849522
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "A Naanu Beach egy tengerparti helyszín maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.46887,
+                        3.903598
+                  ]
+            },
+            {
+                  "name": "Sihkko Beach",
+                  "text": "A Sihkko Beach egy tengerparti szakasz maldives-guraidhoo-corner-life-v2 régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469049,
+                        3.90043
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "A Chow Beach egy strandszakasz maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465889,
+                        3.901132
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A Bikini Beach egy strand a maldives-guraidhoo-corner-life-v2 térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470134,
+                        3.897299
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "A South Beach egy tengerparti helyszín maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473327,
+                        3.901407
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Noor",
+                  "text": "A Masjid Al-Noor egy muszlim istentiszteleti hely a maldives-guraidhoo-corner-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467276,
+                        3.901448
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iha",
+                  "text": "A Masjid Al-Iha egy muszlim helyszín maldives-guraidhoo-corner-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468294,
+                        3.902581
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sidheeq",
+                  "text": "A Masjid Al-Sidheeq a muszlim közösséget szolgálja a maldives-guraidhoo-corner-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467818,
+                        3.900449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South este o atracție din maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North este o atracție turistică în maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside este o atracție în zona maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) este o atracție din maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Guraidhoo Channel este o atracție din maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896087
+                  ]
+            },
+            {
+                  "name": "Coral Giri",
+                  "text": "Coral Giri este o atracție turistică localizată în maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.430742,
+                        3.855119
+                  ]
+            },
+            {
+                  "name": "Fun Island Resort",
+                  "text": "Fun Island Resort este o stațiune balneară situată în maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.456303,
+                        3.858362
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu este o atracție locală din maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef este o atracție situată în maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru este o atracție turistică din maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "K.Guraidhoo beach este o plajă de nisip din maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470266,
+                        3.902086
+                  ]
+            },
+            {
+                  "name": "Olhuveli Beach & Spa",
+                  "text": "Olhuveli Beach & Spa este o destinație de stațiune pe plajă în maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.455033,
+                        3.849522
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Naanu Beach este o plajă în maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.46887,
+                        3.903598
+                  ]
+            },
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach este un mediu de coastă în maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469049,
+                        3.90043
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Chow Beach este o zonă de plajă din maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465889,
+                        3.901132
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach este o plajă din maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470134,
+                        3.897299
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach este un loc de coastă situat în maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473327,
+                        3.901407
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Noor",
+                  "text": "Masjid Al-Noor este un lăcaș de cult musulman din maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467276,
+                        3.901448
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iha",
+                  "text": "Masjid Al-Iha este o unitate musulmană situată în maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468294,
+                        3.902581
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sidheeq",
+                  "text": "Masjid Al-Sidheeq este un așezământ musulman în maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467818,
+                        3.900449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South is an attraction found in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North is a tourist attraction in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside is an attraction located in the maldives-guraidhoo-corner-life-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) is an attraction in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Guraidhoo Channel is an attraction situated in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896087
+                  ]
+            },
+            {
+                  "name": "Coral Giri",
+                  "text": "Coral Giri is an attraction located in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.430742,
+                        3.855119
+                  ]
+            },
+            {
+                  "name": "Fun Island Resort",
+                  "text": "Fun Island Resort is a beach resort located in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.456303,
+                        3.858362
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu is a local attraction found in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef is an attraction in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru is an attraction located in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "K.Guraidhoo beach is a sandy beach in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470266,
+                        3.902086
+                  ]
+            },
+            {
+                  "name": "Olhuveli Beach & Spa",
+                  "text": "Olhuveli Beach & Spa is a beach resort destination in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.455033,
+                        3.849522
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Naanu Beach is a beach location in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.46887,
+                        3.903598
+                  ]
+            },
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach is a coastal environment in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469049,
+                        3.90043
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Chow Beach is a beach area in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465889,
+                        3.901132
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach is a beach located in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470134,
+                        3.897299
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach is a coastal spot situated in maldives-guraidhoo-corner-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473327,
+                        3.901407
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Noor",
+                  "text": "Masjid Al-Noor is a Muslim place of worship in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467276,
+                        3.901448
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Iha",
+                  "text": "Masjid Al-Iha is a Muslim facility situated in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468294,
+                        3.902581
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sidheeq",
+                  "text": "Masjid Al-Sidheeq serves as a Muslim facility in maldives-guraidhoo-corner-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467818,
+                        3.900449
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Guraidhoo-Eck-Schutzgebiet", hu: "Guraidhoo Corner tengeri terület", ro: "Zona marină Guraidhoo Corner", en: "Guraidhoo Channel Marine Area" },
@@ -543,7 +2667,52 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-guraidhoo-corner-life-v2.webp",
   },
   {
-    id: "maldives-dhigurah-whale-shark-life-v2",
+    id: "maldives-dhigurah-whale-shark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fish Bank",
+                  "text": "Ein Unterwasser-Plateau, das für seine außergewöhnlich hohe Dichte an Rifffischen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.918787,
+                        3.514871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fish Bank",
+                  "text": "Víz alatti fennsík, amely rendkívül magas szirti hal sűrűségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.918787,
+                        3.514871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fish Bank",
+                  "text": "Un platou subacvatic cunoscut pentru densitatea sa excepțional de mare de pești de recif.",
+                  "category": "landmark",
+                  "coords": [
+                        72.918787,
+                        3.514871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fish Bank",
+                  "text": "An underwater plateau known for its exceptionally high density of reef fish species.",
+                  "category": "landmark",
+                  "coords": [
+                        72.918787,
+                        3.514871
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Dhigurah-Walhai-Schutzgebiet", hu: "Dhigurah cetcápa-rezervátum", ro: "Sanctuarul de rechini balenă Dhigurah", en: "Dhigurah Whale Shark Sanctuary" },
@@ -588,7 +2757,52 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-dhigurah-whale-shark-life-v2.webp",
   },
   {
-    id: "maldives-kani-corner-life-v2",
+    id: "maldives-kani-corner-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ARTEMON",
+                  "text": "Ein Strandresort an der tropischen Küste der Malediven.",
+                  "category": "recreational",
+                  "coords": [
+                        73.649384,
+                        5.333168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ARTEMON",
+                  "text": "Egy tengerparti üdülőhely a Maldív-szigetek trópusi partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.649384,
+                        5.333168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ARTEMON",
+                  "text": "O stațiune balneară situată de-a lungul coastei tropicale a Maldivelor.",
+                  "category": "recreational",
+                  "coords": [
+                        73.649384,
+                        5.333168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ARTEMON",
+                  "text": "A beach resort situated along the tropical coastline of the Maldives.",
+                  "category": "recreational",
+                  "coords": [
+                        73.649384,
+                        5.333168
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Kani-Eck-Meeresstelle", hu: "Kani Corner tengeri élőhely", ro: "Sit-ul marin Kani Corner", en: "Kani Corner Marine Site" },
@@ -678,7 +2892,88 @@ export const maldivesLifeV2: POI[] = [
     image: "/poi-images/maldives-fushifaru-thila-life-v2.webp",
   },
   {
-    id: "maldives-gaafaru-reef-life-v2",
+    id: "maldives-gaafaru-reef-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "#GAAFARU Underwater Swing",
+                  "text": "Eine beliebte Fotostelle mit einer Schaukel, die mitten in der flachen Lagune im Wasser steht.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476666,
+                        4.731995
+                  ]
+            },
+            {
+                  "name": "LUX* North Malé Atoll",
+                  "text": "Ein luxuriöses Resort im Nord-Malé-Atoll mit modernen weißen Villen direkt am Privatstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        73.450844,
+                        4.690375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "#GAAFARU Underwater Swing",
+                  "text": "Népszerű fotóhelyszín egy hintával, amely a sekély lagúna vizében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476666,
+                        4.731995
+                  ]
+            },
+            {
+                  "name": "LUX* North Malé Atoll",
+                  "text": "Luxus üdülőhely az Északi-Malé-atollon, modern fehér villákkal közvetlenül a saját strandon.",
+                  "category": "recreational",
+                  "coords": [
+                        73.450844,
+                        4.690375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "#GAAFARU Underwater Swing",
+                  "text": "Un punct foto popular cu un leagăn amplasat direct în apa lagunei puțin adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476666,
+                        4.731995
+                  ]
+            },
+            {
+                  "name": "LUX* North Malé Atoll",
+                  "text": "Un complex de lux în atolul Male de Nord, cu vile albe moderne direct pe plaja privată.",
+                  "category": "recreational",
+                  "coords": [
+                        73.450844,
+                        4.690375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "#GAAFARU Underwater Swing",
+                  "text": "A popular photo spot featuring a swing set directly in the shallow waters of the lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476666,
+                        4.731995
+                  ]
+            },
+            {
+                  "name": "LUX* North Malé Atoll",
+                  "text": "A luxury resort in North Malé Atoll featuring modern white villas right on the private beach.",
+                  "category": "recreational",
+                  "coords": [
+                        73.450844,
+                        4.690375
+                  ]
+            }
+      ]
+},
     parent: "MV",
     type: "wildlife",
     name: { de: "Gaafaru-Riffschutzgebiet", hu: "Gaafaru-zátonyvédelmi terület", ro: "Zona de protecție a recifului Gaafaru", en: "Gaafaru Reef Protection Zone" },

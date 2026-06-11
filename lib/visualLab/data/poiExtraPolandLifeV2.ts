@@ -521,7 +521,7 @@ export const polandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Pomost widokowy",
-                  "text": "Eine Aussichtsplattform im Nationalpark Słowiński.",
+                  "text": "Aussichtsplattform über die Wanderdünen und den Łebsko-See im Slowinzischen Nationalpark.",
                   "category": "natural",
                   "coords": [
                         17.43122,
@@ -532,7 +532,7 @@ export const polandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Pomost widokowy",
-                  "text": "Kilátóterasz a Słowiński Nemzeti Parkban.",
+                  "text": "Kilátó, mely a mozgó homokdünereket és a Łebsko-tót nézi a Słowiński Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         17.43122,
@@ -543,7 +543,7 @@ export const polandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Pomost widokowy",
-                  "text": "O platformă de observație în Parcul Național Słowiński.",
+                  "text": "Platformă de observație cu vedere asupra dunelor de nisip în mișcare și a lacului Łebsko în Parcul Național Słowiński.",
                   "category": "natural",
                   "coords": [
                         17.43122,
@@ -554,7 +554,7 @@ export const polandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Pomost widokowy",
-                  "text": "A viewing platform in the Słowiński National Park.",
+                  "text": "Observation platform overlooking the shifting sand dunes and Lake Łebsko in Słowiński National Park.",
                   "category": "natural",
                   "coords": [
                         17.43122,
@@ -1269,7 +1269,7 @@ export const polandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Plaża Żoliborska",
-                  "text": "Strand Żoliborska bei der Warschauer Zoo.",
+                  "text": "Żoliborska Strand an der Weichsel in Warschau, direkt neben dem Zoo.",
                   "category": "recreational",
                   "coords": [
                         21.00292,
@@ -1280,7 +1280,7 @@ export const polandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża Żoliborska",
-                  "text": "Żoliborska strand a varsói állatkert mellett.",
+                  "text": "Żoliborska strand a Visztulán Varsóban, közvetlenül a Fővárosi Állat- és Növénykert mellett.",
                   "category": "recreational",
                   "coords": [
                         21.00292,
@@ -1291,7 +1291,7 @@ export const polandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża Żoliborska",
-                  "text": "Plaja Żoliborska lângă grădina zoologică din Varșovia.",
+                  "text": "Plaja Żoliborska pe râul Vistula în Varșovia, adiacentă Grădinii Zoologice.",
                   "category": "recreational",
                   "coords": [
                         21.00292,
@@ -1302,7 +1302,7 @@ export const polandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Plaża Żoliborska",
-                  "text": "Żoliborska beach near Warsaw Zoo.",
+                  "text": "Żoliborska Beach on the Vistula River in Warsaw, adjacent to the Warsaw Zoo.",
                   "category": "recreational",
                   "coords": [
                         21.00292,
@@ -2394,7 +2394,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bałtycki Park Miniatur",
-                  "text": "Der Bałtycki Park Miniatur ist ein Themenpark im Nationalpark Wolin.",
+                  "text": "Ostsee-Miniaturenpark mit Modellen von Leuchttürmen und historischen Gebäuden der Region.",
                   "category": "recreational",
                   "coords": [
                         14.43421,
@@ -2486,7 +2486,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bałtycki Park Miniatur",
-                  "text": "A Bałtycki Park Miniatur egy tematikus park a Wolin Nemzeti Parkban.",
+                  "text": "Balti Miniaturpark, amely a térség világítótornyainak és történelmi épületeinek kicsinyített másait mutatja be.",
                   "category": "recreational",
                   "coords": [
                         14.43421,
@@ -2578,7 +2578,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bałtycki Park Miniatur",
-                  "text": "Bałtycki Park Miniatur este un parc tematic situat în Parcul Național Wolin.",
+                  "text": "Parcul Baltic de Miniaturi, cu modele la scară ale farurilor și clădirilor istorice din regiunea baltică.",
                   "category": "recreational",
                   "coords": [
                         14.43421,
@@ -2670,7 +2670,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bałtycki Park Miniatur",
-                  "text": "Bałtycki Park Miniatur is a theme park located in Wolin National Park.",
+                  "text": "Baltic Miniature Park featuring scale models of lighthouses and historic buildings from the Baltic region.",
                   "category": "recreational",
                   "coords": [
                         14.43421,
@@ -2754,7 +2754,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Gówniak",
-                  "text": "Einer der Gipfel im Massiv der Babia Góra.",
+                  "text": "Der Gówniak ist ein Gipfel im Massiv der Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.540206,
@@ -2781,7 +2781,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "Ein Berggipfel im Gebiet des Nationalparks Babia Góra.",
+                  "text": "Der Bukovský grúň ist ein Berggipfel im Nationalpark Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2828,7 +2828,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Gówniak",
-                  "text": "A Babia Góra-masszívum egyik csúcsa.",
+                  "text": "A Gówniak egy csúcs a Babia Góra-hegységben.",
                   "category": "landmark",
                   "coords": [
                         19.540206,
@@ -2855,7 +2855,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "Hegyi csúcs a Babia Góra Nemzeti Park területén.",
+                  "text": "A Bukovský grúň egy hegycsúcs a Babia Góra Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2902,7 +2902,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Gówniak",
-                  "text": "Unul dintre vârfurile din masivul Babia Góra.",
+                  "text": "Gówniak este un vârf în masivul Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.540206,
@@ -2929,7 +2929,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "Un vârf muntos în zona Parcului Național Babia Góra.",
+                  "text": "Bukovský grúň este un vârf montan în Parcul Național Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2976,7 +2976,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Gówniak",
-                  "text": "One of the peaks in the Babia Góra massif.",
+                  "text": "Gówniak is a peak in the Babia Góra massif.",
                   "category": "landmark",
                   "coords": [
                         19.540206,
@@ -3003,7 +3003,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "A mountain peak in the Babia Góra National Park area.",
+                  "text": "Bukovský grúň is a mountain peak in Babia Gora National Park.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -4617,7 +4617,7 @@ export const polandLifeV2: POI[] = [
       "de": [
             {
                   "name": "plaża Swornegacie",
-                  "text": "Strand in Swornegacie im Nationalpark Bory Tucholskie.",
+                  "text": "Swornegacie-Strand am Ufer des Swornegacie-Sees im Nationalpark Bory Tucholskie.",
                   "category": "recreational",
                   "coords": [
                         17.503136,
@@ -4626,7 +4626,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Freesurf - Szkoła Windsurfingu",
-                  "text": "Surfschule im Nationalpark Bory Tucholskie.",
+                  "text": "Windsurfingschule Freesurf mit Kursen auf dem Charzykowskie-See im Nationalpark Bory Tucholskie.",
                   "category": "recreational",
                   "coords": [
                         17.501644,
@@ -4673,7 +4673,7 @@ export const polandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "plaża Swornegacie",
-                  "text": "Strand Swornegacie-ban, a Tucholai Erdők Nemzeti Parkban.",
+                  "text": "Swornegacie strand a Swornegacie-tó partján a Tucholai-erdő Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         17.503136,
@@ -4682,7 +4682,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Freesurf - Szkoła Windsurfingu",
-                  "text": "Szörfiskola a Tucholai Erdő Nemzeti Parkban.",
+                  "text": "Freesurf szörfiskola, amely órákat kínál a Charzykowskie-tavon a Tucholai-erdő Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         17.501644,
@@ -4729,7 +4729,7 @@ export const polandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "plaża Swornegacie",
-                  "text": "Plajă în Swornegacie în Parcul Național Bory Tucholskie.",
+                  "text": "Plaja Swornegacie pe malul lacului Swornegacie în Parcul Național Bory Tucholskie.",
                   "category": "recreational",
                   "coords": [
                         17.503136,
@@ -4738,7 +4738,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Freesurf - Szkoła Windsurfingu",
-                  "text": "Școală de windsurfing în Parcul Național Bory Tucholskie.",
+                  "text": "Școala de windsurfing Freesurf oferind lecții pe lacul Charzykowskie în Parcul Național Bory Tucholskie.",
                   "category": "recreational",
                   "coords": [
                         17.501644,
@@ -4785,7 +4785,7 @@ export const polandLifeV2: POI[] = [
       "en": [
             {
                   "name": "plaża Swornegacie",
-                  "text": "Beach in Swornegacie in Bory Tucholskie National Park.",
+                  "text": "Swornegacie beach on the shores of Lake Swornegacie in Bory Tucholskie National Park.",
                   "category": "recreational",
                   "coords": [
                         17.503136,
@@ -4794,7 +4794,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Freesurf - Szkoła Windsurfingu",
-                  "text": "Windsurfing school in Bory Tucholskie National Park.",
+                  "text": "Freesurf windsurfing school offering lessons on Lake Charzykowskie in Bory Tucholskie National Park.",
                   "category": "recreational",
                   "coords": [
                         17.501644,
@@ -4932,7 +4932,7 @@ export const polandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Plaża Bagry",
-                  "text": "Strand Bagry in der Nähe des Botanischen Gartens von Krakow.",
+                  "text": "Bagry-Strand, ein Sandstrand am Bagry-Stausee in Krakau nahe dem Botanischen Garten.",
                   "category": "recreational",
                   "coords": [
                         19.993347,
@@ -4941,7 +4941,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Plaża Bagry - Wschód",
-                  "text": "Strand Bagry-Ost in der Nähe des Botanischen Gartens von Krakow.",
+                  "text": "Bagry-Oststrand, der östliche Abschnitt des Bagry-Stausees in Krakau.",
                   "category": "recreational",
                   "coords": [
                         19.998361,
@@ -4961,7 +4961,7 @@ export const polandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża Bagry",
-                  "text": "Bagry strand a krakkói botanikus kert közelében.",
+                  "text": "Bagry strand, homokos partszakasz a Bagry-tározónál Krakkóban, a Botanikus Kert közelében.",
                   "category": "recreational",
                   "coords": [
                         19.993347,
@@ -4970,7 +4970,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Plaża Bagry - Wschód",
-                  "text": "Bagry-Kelet strand a krakkói botanikus kert közelében.",
+                  "text": "Bagry keleti strand, a Bagry-tározó keleti partszakasza Krakkóban.",
                   "category": "recreational",
                   "coords": [
                         19.998361,
@@ -4990,7 +4990,7 @@ export const polandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża Bagry",
-                  "text": "Plaja Bagry lângă grădina botanică din Cracovia.",
+                  "text": "Plaja Bagry, o plajă nisipoasă pe lacul de acumulare Bagry din Cracovia, lângă Grădina Botanică.",
                   "category": "recreational",
                   "coords": [
                         19.993347,
@@ -4999,7 +4999,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Plaża Bagry - Wschód",
-                  "text": "Plaja Bagry-Est lângă grădina botanică din Cracovia.",
+                  "text": "Plaja Bagry Est, sectorul estic al lacului de acumulare Bagry din Cracovia.",
                   "category": "recreational",
                   "coords": [
                         19.998361,
@@ -5019,7 +5019,7 @@ export const polandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Plaża Bagry",
-                  "text": "Bagry beach near Krakow Botanical Garden.",
+                  "text": "Bagry beach, a sandy shore on the Bagry reservoir in Krakow, near the Botanical Garden.",
                   "category": "recreational",
                   "coords": [
                         19.993347,
@@ -5028,7 +5028,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Plaża Bagry - Wschód",
-                  "text": "Bagry-East beach near Krakow Botanical Garden.",
+                  "text": "Bagry East beach, the eastern section of the Bagry reservoir in Krakow.",
                   "category": "recreational",
                   "coords": [
                         19.998361,
@@ -5247,7 +5247,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 6 – Krempna",
-                  "text": "Soldatenfriedhof aus dem Ersten Weltkrieg in der Nähe von Krempna.",
+                  "text": "Der Soldatenfriedhof Nr. 6 in Krempna ist ein Friedhof aus dem Ersten Weltkrieg im Nationalpark Magura.",
                   "category": "landmark",
                   "coords": [
                         21.493174,
@@ -5256,7 +5256,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Pieczątka Magurskiej Odznaki Terenowej",
-                  "text": "Stempelstelle für das regionale Wanderabzeichen des Magura-Gebirges.",
+                  "text": "Stempelstelle für das Magura-Gebietsabzeichen am Hauptsitz des Magura-Nationalparks.",
                   "category": "landmark",
                   "coords": [
                         21.495663,
@@ -5303,7 +5303,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 6 – Krempna",
-                  "text": "Első világháborús katonai temető Krempna közelében.",
+                  "text": "A krempnai 6. számú katonai temető egy első világháborús temető a Magura Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         21.493174,
@@ -5312,7 +5312,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Pieczątka Magurskiej Odznaki Terenowej",
-                  "text": "A Magura-vidéki túrajelvény megszerzéséhez szükséges pecsételőhely.",
+                  "text": "Bélyegzőpont a Magura Területi Jelvényhez a Magura Nemzeti Park központjában.",
                   "category": "landmark",
                   "coords": [
                         21.495663,
@@ -5359,7 +5359,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 6 – Krempna",
-                  "text": "Cimitir militar din Primul Război Mondial situat lângă Krempna.",
+                  "text": "Cimitirul militar nr. 6 din Krempna este un cimitir din Primul Război Mondial în Parcul Național Magura.",
                   "category": "landmark",
                   "coords": [
                         21.493174,
@@ -5368,7 +5368,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Pieczątka Magurskiej Odznaki Terenowej",
-                  "text": "Punct de ștampilare pentru insigna turistică regională Magura.",
+                  "text": "Punct de ștampilă pentru Insigna Teritorială Magura la sediul Parcului Național Magura.",
                   "category": "landmark",
                   "coords": [
                         21.495663,
@@ -5415,7 +5415,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Cmentarz wojenny nr 6 – Krempna",
-                  "text": "World War I military cemetery located near Krempna.",
+                  "text": "War Cemetery No. 6 in Krempna is a WWI cemetery within Magura National Park.",
                   "category": "landmark",
                   "coords": [
                         21.493174,
@@ -5424,7 +5424,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Pieczątka Magurskiej Odznaki Terenowej",
-                  "text": "Stamp station for the Magura regional hiking badge.",
+                  "text": "Stamp point for the Magura Region Hiking Badge at the Magura National Park headquarters.",
                   "category": "landmark",
                   "coords": [
                         21.495663,
@@ -5724,7 +5724,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Turbaczyk",
-                  "text": "Ein markanter Berggipfel im Nationalpark Gorce.",
+                  "text": "Der Turbaczyk ist ein Gipfel in den Gorcen, Teil des Nationalparks Gorce.",
                   "category": "landmark",
                   "coords": [
                         20.116041,
@@ -5742,7 +5742,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Przysłopek",
-                  "text": "Ein Berggipfel in der Gebirgskette der Gorce.",
+                  "text": "Der Przysłopek ist ein Gipfel im Gorce-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         20.152365,
@@ -5751,7 +5751,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Zbójecka Jama",
-                  "text": "Ein Höhleneingang im Nationalpark Gorce.",
+                  "text": "Die Zbójecka Jama ist eine Höhle (Räuberhöhle) in den Gorcen.",
                   "category": "landmark",
                   "coords": [
                         20.153404,
@@ -5760,7 +5760,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Basielka",
-                  "text": "Ein Berggipfel in den Gorce-Bergen in Polen.",
+                  "text": "Die Basielka ist ein Gipfel im Gorce-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         20.10446,
@@ -5798,7 +5798,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Turbaczyk",
-                  "text": "Jellegzetes hegycsúcs a Gorce Nemzeti Parkban.",
+                  "text": "A Turbaczyk egy csúcs a Gorce-hegységben, a Gorce Nemzeti Park része.",
                   "category": "landmark",
                   "coords": [
                         20.116041,
@@ -5816,7 +5816,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Przysłopek",
-                  "text": "Egy hegycsúcs a Gorce-hegyláncban.",
+                  "text": "A Przysłopek egy csúcs a Gorce-hegységben.",
                   "category": "landmark",
                   "coords": [
                         20.152365,
@@ -5825,7 +5825,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Zbójecka Jama",
-                  "text": "Egy barlangbejárat a Gorce Nemzeti Parkban.",
+                  "text": "A Zbójecka Jama egy barlang (Rablóbarlang) a Gorce-hegységben.",
                   "category": "landmark",
                   "coords": [
                         20.153404,
@@ -5834,7 +5834,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Basielka",
-                  "text": "Egy hegycsúcs a lengyelországi Gorce-hegységben.",
+                  "text": "A Basielka egy csúcs a Gorce Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         20.10446,
@@ -5872,7 +5872,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Turbaczyk",
-                  "text": "Un vârf muntos proeminent în Parcul Național Gorce.",
+                  "text": "Turbaczyk este un vârf în Munții Gorce, parte a Parcului Național Gorce.",
                   "category": "landmark",
                   "coords": [
                         20.116041,
@@ -5890,7 +5890,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Przysłopek",
-                  "text": "Un vârf muntos în lanțul muntos Gorce.",
+                  "text": "Przysłopek este un vârf în Munții Gorce.",
                   "category": "landmark",
                   "coords": [
                         20.152365,
@@ -5899,7 +5899,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Zbójecka Jama",
-                  "text": "O intrare în peșteră în Parcul Național Gorce.",
+                  "text": "Zbójecka Jama este o peșteră (Peștera Hoților) în Munții Gorce.",
                   "category": "landmark",
                   "coords": [
                         20.153404,
@@ -5908,7 +5908,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Basielka",
-                  "text": "Un vârf montan în munții Gorce din Polonia.",
+                  "text": "Basielka este un vârf în Parcul Național Gorce.",
                   "category": "landmark",
                   "coords": [
                         20.10446,
@@ -5946,7 +5946,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Turbaczyk",
-                  "text": "A prominent mountain peak in the Gorce National Park.",
+                  "text": "Turbaczyk is a peak in the Gorce Mountains, part of Gorce National Park.",
                   "category": "landmark",
                   "coords": [
                         20.116041,
@@ -5964,7 +5964,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Przysłopek",
-                  "text": "A mountain peak in the Gorce mountain range.",
+                  "text": "Przysłopek is a summit in the Gorce Mountains.",
                   "category": "landmark",
                   "coords": [
                         20.152365,
@@ -5973,7 +5973,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Zbójecka Jama",
-                  "text": "A cave entrance located in the Gorce National Park.",
+                  "text": "Zbójecka Jama is a cave (Robbers' Den) in the Gorce Mountains.",
                   "category": "landmark",
                   "coords": [
                         20.153404,
@@ -5982,7 +5982,7 @@ export const polandLifeV2: POI[] = [
             },
             {
                   "name": "Basielka",
-                  "text": "A mountain peak in the Gorce Mountains of Poland.",
+                  "text": "Basielka is a peak in Gorce National Park.",
                   "category": "landmark",
                   "coords": [
                         20.10446,

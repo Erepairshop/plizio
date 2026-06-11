@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraJordanReliefV2: POI[] = [
   {
-    id: "wadi-araba-relief-v2",
+    id: "wadi-araba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petroglyphs",
+                  "text": "Diese antiken Felszeichnungen im Wadi Araba zeigen Szenen aus dem Leben früher Wüstenbewohner und Nomadenstämme.",
+                  "category": "historical",
+                  "coords": [
+                        35.29153,
+                        30.182111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petroglyphs",
+                  "text": "Ezek az ősi sziklarajzok a Vádi Araba vidékén a korai sivatagi lakók és nomád törzsek életét mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        35.29153,
+                        30.182111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petroglyphs",
+                  "text": "Aceste gravuri rupestre antice din Wadi Araba înfățișează scene din viața primilor locuitori ai deșertului și a triburilor nomade.",
+                  "category": "historical",
+                  "coords": [
+                        35.29153,
+                        30.182111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petroglyphs",
+                  "text": "These ancient rock engravings in Wadi Araba depict scenes from the lives of early desert dwellers and nomadic tribes.",
+                  "category": "historical",
+                  "coords": [
+                        35.29153,
+                        30.182111
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "JO-AQ",
     coords: [35.212, 30.222],
@@ -39,7 +84,124 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "moab-plateau-relief-v2",
+    id: "moab-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Batra",
+                  "text": "Überreste antiker Trockenmauern und Schutt auf den Hochebenen des Moab-Plateaus.",
+                  "category": "historical",
+                  "coords": [
+                        35.791561,
+                        31.115727
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kinnar",
+                  "text": "Verstreute archäologische Reste einer Höhensiedlung mit Blick auf die landwirtschaftlichen Flächen.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "Wadi al Ghuwyar",
+                  "text": "Ein üppiger Flusscanyon mit hohen Sandsteinwänden, hängenden Gärten und einem fließenden Bach.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75718,
+                        31.138907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batra",
+                  "text": "Ősi szárazon rakott kőfalak és törmelékek a Moáb-fennsík magaslatain.",
+                  "category": "historical",
+                  "coords": [
+                        35.791561,
+                        31.115727
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kinnar",
+                  "text": "Egy dombtetői lakóhely elszórt régészeti maradványai, kilátással a fennsík mezőgazdasági területeire.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "Wadi al Ghuwyar",
+                  "text": "Bujja folyó kanyon magas homokkő falakkal, függőkertekkel és egy csörgedező patakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75718,
+                        31.138907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batra",
+                  "text": "Ziduri vechi din piatră uscată și resturi situate pe câmpiile înalte ale platoului Moab.",
+                  "category": "historical",
+                  "coords": [
+                        35.791561,
+                        31.115727
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kinnar",
+                  "text": "Rămășițe arheologice împrăștiate ale unei locuințe de pe deal, cu vedere la câmpurile agricole ale platoului.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "Wadi al Ghuwyar",
+                  "text": "Un canion luxuriant cu pereți înalți de gresie, grădini suspendate și un pârâu curgător.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75718,
+                        31.138907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batra",
+                  "text": "Ancient dry-stone walls and rubble located on the high plains of the Moab plateau.",
+                  "category": "historical",
+                  "coords": [
+                        35.791561,
+                        31.115727
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kinnar",
+                  "text": "Scattered archaeological remains of a hilltop dwelling overlooking the agricultural fields of the plateau.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "Wadi al Ghuwyar",
+                  "text": "A lush river canyon featuring tall sandstone walls, hanging gardens, and a flowing stream.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75718,
+                        31.138907
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "JO-KA",
     coords: [35.750, 31.183],
@@ -75,7 +237,52 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "edom-gebirge-relief-v2",
+    id: "edom-gebirge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Talai",
+                  "text": "Diese antiken Wüstenruinen befinden sich in der zerklüfteten Landschaft des Edom-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        30.633333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Talai",
+                  "text": "Ezek az ősi sivatagi romok az Edom-hegység sziklás vidékén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        30.633333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Talai",
+                  "text": "Aceste ruine antice din deșert sunt situate în peisajul accidentat al Munților Edom.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        30.633333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Talai",
+                  "text": "These ancient desert ruins are situated within the rugged landscape of the Edom Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        30.633333
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-AT",
     coords: [35.600, 30.633],
@@ -111,7 +318,52 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "schwarze-wueste-relief-v2",
+    id: "schwarze-wueste-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Desert Kite",
+                  "text": "Antike Steinanlagen in der Schwarzen Wüste, die prähistorischen Jägern als Gazellenfallen dienten.",
+                  "category": "historical",
+                  "coords": [
+                        37.380164,
+                        32.293206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Desert Kite",
+                  "text": "Ősi kőépítmények a Fekete-sivatagban, amelyek őskori vadászoknak szolgáltak gazellacsapdákként.",
+                  "category": "historical",
+                  "coords": [
+                        37.380164,
+                        32.293206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Desert Kite",
+                  "text": "Structuri antice din piatră în Deșertul Negru, folosite de vânătorii preistorici ca capcane pentru gazele.",
+                  "category": "historical",
+                  "coords": [
+                        37.380164,
+                        32.293206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Desert Kite",
+                  "text": "Ancient stone structures in the Black Desert used by prehistoric hunters as gazelle traps.",
+                  "category": "historical",
+                  "coords": [
+                        37.380164,
+                        32.293206
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "JO-MA",
     coords: [37.333, 32.333],
@@ -183,7 +435,556 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "belqa-plateau-relief-v2",
+    id: "belqa-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbet Gal'ad",
+                  "text": "Eine archäologische Fundstätte auf einem Bergrücken, die historisch mit der biblischen Region Gilead identifiziert wird.",
+                  "category": "historical",
+                  "coords": [
+                        35.790864,
+                        32.095451
+                  ]
+            },
+            {
+                  "name": "Al Buqat",
+                  "text": "Ruinen antiker Steinstrukturen, die über das raue Gelände des Belqa-Plateaus verstreut liegen.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "Ein Gedenkort für osmanische Soldaten, die im Ersten Weltkrieg gefallen sind, mit einem Ehrenmal und Gräbern.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            },
+            {
+                  "name": "Khirbat Zayy",
+                  "text": "Überreste einer antiken Siedlung mit behauenem Mauerwerk und in den Fels gehauenen Zisternen bei Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.717294,
+                        32.09896
+                  ]
+            },
+            {
+                  "name": "Al Sahn",
+                  "text": "Antike Ruinen in einer natürlichen Senke, die Fundamente aus massiven Steinblöcken aufweisen.",
+                  "category": "historical",
+                  "coords": [
+                        35.684407,
+                        32.099397
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummana",
+                  "text": "Archäologische Überreste auf dem Plateau, die durch kreisförmige Steinstrukturen und historische Zisternen geprägt sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "Wadi Schuʿeib",
+                  "text": "Ein Aussichtspunkt über einem üppigen Tal, das nach dem Propheten Jitro benannt ist und für seine Quellen bekannt war.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Salt",
+                  "text": "Ein Museum im historischen Beit Touqan, das Funde von der Kupfersteinzeit bis zur islamischen Periode zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Ein Historisches Museum in einem prächtigen Kaufmannshaus des 19. Jahrhunderts mit osmanischer Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "Das erste Krankenhaus der Region, das heute als Museum in einem markanten Steingebäude aus dem späten 19. Jahrhundert dient.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.03959
+                  ]
+            },
+            {
+                  "name": "Prophet Jadur Shrine",
+                  "text": "Ein Heiligtum auf einem Hügel, das dem Propheten Gad gewidmet ist und einen weiten Blick über die Stadt Salt bietet.",
+                  "category": "religious",
+                  "coords": [
+                        35.731129,
+                        32.034239
+                  ]
+            },
+            {
+                  "name": "Salt Academy Schools",
+                  "text": "Ein historisches Schulgebäude, das für seine monumentale Architektur aus dem typischen gelben Stein von Salt bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.737715,
+                        32.037322
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Eine klassische christliche Steinkirche mit einem markanten Glockenturm, die das historische Stadtbild von Salt prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727653,
+                        32.040765
+                  ]
+            },
+            {
+                  "name": "Haj Hamdi Mosque Alanis",
+                  "text": "Eine im lokalen Stil erbaute Moschee, deren goldgelbe Fassade harmonisch in das architektonische Erbe der Stadt passt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725588,
+                        32.0411
+                  ]
+            },
+            {
+                  "name": "Prophet Joshua Mosque",
+                  "text": "Eine 2004 renovierte Moschee, die das Schrein des Propheten Josua beherbergt und das Jordantal überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70884,
+                        32.071481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbet Gal'ad",
+                  "text": "Régészeti lelőhely egy hegygerincen, amelyet történelmileg a bibliai Gileád régiójával azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        35.790864,
+                        32.095451
+                  ]
+            },
+            {
+                  "name": "Al Buqat",
+                  "text": "Ősi kőszerkezetek romjai, amelyek szétszórva találhatók a Belqa-fennsík zord terepén.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "Az első világháborúban elesett oszmán katonák emlékhelye emlékművel és sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            },
+            {
+                  "name": "Khirbat Zayy",
+                  "text": "Egy antik település maradványai megmunkált falazattal és sziklába vájt ciszternákkal Salt közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.717294,
+                        32.09896
+                  ]
+            },
+            {
+                  "name": "Al Sahn",
+                  "text": "Egy természetes mélyedésben fekvő ősi romok, amelyek masszív kőtömbökből álló alapokat mutatnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.684407,
+                        32.099397
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummana",
+                  "text": "Régészeti maradványok a fennsíkon, amelyeket kör alakú kőszerkezetek és történelmi ciszternák jellemeznek.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "Wadi Shuʿeib",
+                  "text": "Kilátópont egy buja völgy felett, amelyet Jethro prófétáról neveztek el, s forrásairól volt ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "Salt Archaeological Museum",
+                  "text": "A történelmi Beit Touqan épületében működő múzeum, amely a kőrézkortól az iszlám korig mutat be leleteket.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Történeti múzeum egy pompás 19. századi kereskedőházban, amely az oszmán építészetet képviseli.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "A régió első kórháza, amely ma múzeumként működik egy jellegzetes, 19. század végi kőépületben.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.03959
+                  ]
+            },
+            {
+                  "name": "Prophet Jadur Shrine",
+                  "text": "Gád prófétának szentelt dombtetői szentély, ahonnan tágas kilátás nyílik Salt városára.",
+                  "category": "religious",
+                  "coords": [
+                        35.731129,
+                        32.034239
+                  ]
+            },
+            {
+                  "name": "Salt Academy Schools",
+                  "text": "Történelmi iskolaépület, amely Salt jellegzetes sárga kövéből emelt monumentális építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        35.737715,
+                        32.037322
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Klasszikus keresztény kőtemplom jellegzetes harangtoronnyal, amely Salt történelmi városképét meghatározza.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727653,
+                        32.040765
+                  ]
+            },
+            {
+                  "name": "Haj Hamdi Mosque Alanis",
+                  "text": "Helyi stílusban épült mecset, amelynek aranysárga homlokzata illeszkedik a város építészeti örökségéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725588,
+                        32.0411
+                  ]
+            },
+            {
+                  "name": "Prophet Joshua Mosque",
+                  "text": "2004-ben felújított mecset, amely Józsué próféta sírhelyét őrzi, s a Jordán-völgyre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70884,
+                        32.071481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbet Gal'ad",
+                  "text": "Un sit arheologic pe o creastă montană, identificat istoric cu regiunea biblică Galaad.",
+                  "category": "historical",
+                  "coords": [
+                        35.790864,
+                        32.095451
+                  ]
+            },
+            {
+                  "name": "Al Buqat",
+                  "text": "Ruine ale unor structuri antice de piatră, împrăștiate pe terenul accidentat al podișului Belqa.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "Un loc de comemorare pentru soldații otomani căzuți în Primul Război Mondial, cu un monument și morminte.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            },
+            {
+                  "name": "Khirbat Zayy",
+                  "text": "Vestigii ale unei așezări antice cu zidărie fasonată și cisterne săpate în stâncă lângă Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.717294,
+                        32.09896
+                  ]
+            },
+            {
+                  "name": "Al Sahn",
+                  "text": "Ruine antice într-o depresiune naturală, prezentând fundații din blocuri masive de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.684407,
+                        32.099397
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummana",
+                  "text": "Vestigii arheologice pe podiș, caracterizate prin structuri de piatră circulare și cisterne istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "Wadi Shuʿeib",
+                  "text": "Un punct de observație peste o vale luxuriantă, numită după profetul Ietro și cunoscută pentru izvoarele sale.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "Salt Archaeological Museum",
+                  "text": "Un muzeu în istorica clădire Beit Touqan, care expune descoperiri din calcolitic până în perioada islamică.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Un muzeu de istorie într-o somptuoasă casă de negustori din secolul al XIX-lea, cu arhitectură otomană.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "Primul spital din regiune, care servește astăzi ca muzeu într-o clădire de piatră de la sfârșitul secolului al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.03959
+                  ]
+            },
+            {
+                  "name": "Prophet Jadur Shrine",
+                  "text": "Un sanctuar pe deal dedicat profetului Gad, oferind o vedere panoramică asupra orașului Salt.",
+                  "category": "religious",
+                  "coords": [
+                        35.731129,
+                        32.034239
+                  ]
+            },
+            {
+                  "name": "Salt Academy Schools",
+                  "text": "O clădire școlară istorică, cunoscută pentru arhitectura sa monumentală din piatra galbenă tipică orașului Salt.",
+                  "category": "religious",
+                  "coords": [
+                        35.737715,
+                        32.037322
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "O biserică creștină clasică din piatră, cu o clopotniță distinctivă, care definește peisajul urban istoric din Salt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727653,
+                        32.040765
+                  ]
+            },
+            {
+                  "name": "Haj Hamdi Mosque Alanis",
+                  "text": "O moschee construită în stil local, a cărei fațadă galben-aurie se potrivește cu moștenirea arhitecturală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725588,
+                        32.0411
+                  ]
+            },
+            {
+                  "name": "Prophet Joshua Mosque",
+                  "text": "O moschee renovată în 2004, care adăpostește sanctuarul profetului Iosua și domină Valea Iordanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70884,
+                        32.071481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbet Gal'ad",
+                  "text": "An archaeological site on a mountain ridge, historically identified with the biblical region of Gilead.",
+                  "category": "historical",
+                  "coords": [
+                        35.790864,
+                        32.095451
+                  ]
+            },
+            {
+                  "name": "Al Buqat",
+                  "text": "Ruins of ancient stone structures scattered across the rugged terrain of the Belqa plateau.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "A memorial site for Ottoman soldiers fallen in World War I, featuring a monument and graves.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            },
+            {
+                  "name": "Khirbat Zayy",
+                  "text": "Remnants of an ancient settlement featuring dressed masonry and rock-cut cisterns near Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.717294,
+                        32.09896
+                  ]
+            },
+            {
+                  "name": "Al Sahn",
+                  "text": "Ancient ruins in a natural depression, showcasing foundations made of massive stone blocks.",
+                  "category": "historical",
+                  "coords": [
+                        35.684407,
+                        32.099397
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummana",
+                  "text": "Archaeological remains on the plateau characterized by circular stone structures and historical cisterns.",
+                  "category": "historical",
+                  "coords": [
+                        35.7,
+                        32.0
+                  ]
+            },
+            {
+                  "name": "Wadi Shuʿeib",
+                  "text": "A viewpoint over a lush valley named after the Prophet Jethro, historically known for its springs.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "Salt Archaeological Museum",
+                  "text": "A museum in the historic Beit Touqan building, displaying finds from the Chalcolithic to the Islamic period.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "A history museum set in a grand 19th-century merchant house featuring Ottoman architecture.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "The region's first hospital, now serving as a museum in a distinctive late 19th-century stone building.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.03959
+                  ]
+            },
+            {
+                  "name": "Prophet Jadur Shrine",
+                  "text": "A hilltop shrine dedicated to the Prophet Gad, offering wide views over the city of Salt.",
+                  "category": "religious",
+                  "coords": [
+                        35.731129,
+                        32.034239
+                  ]
+            },
+            {
+                  "name": "Salt Academy Schools",
+                  "text": "A historic school building known for its monumental architecture built from Salt's typical yellow stone.",
+                  "category": "religious",
+                  "coords": [
+                        35.737715,
+                        32.037322
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "A classic stone Christian church with a prominent bell tower that defines Salt's historical cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727653,
+                        32.040765
+                  ]
+            },
+            {
+                  "name": "Haj Hamdi Mosque Alanis",
+                  "text": "A mosque built in the local style, with a golden-yellow facade that fits the city's architectural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.725588,
+                        32.0411
+                  ]
+            },
+            {
+                  "name": "Prophet Joshua Mosque",
+                  "text": "A mosque renovated in 2004 housing the shrine of the Prophet Joshua and overlooking the Jordan Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70884,
+                        32.071481
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "JO-BA",
     coords: [35.733, 32.033],
@@ -219,7 +1020,340 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "schara-gebirge-relief-v2",
+    id: "schara-gebirge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Dinariyah",
+                  "text": "Diese antiken Steinruinen liegen in der rauen Berglandschaft des Schara-Gebirges oberhalb von Wadi Musa.",
+                  "category": "historical",
+                  "coords": [
+                        35.533185,
+                        30.257849
+                  ]
+            },
+            {
+                  "name": "Kafr Asham",
+                  "text": "Diese archäologische Stätte umfasst Fundamente antiker Gebäude in der Nähe der historischen Handelswege.",
+                  "category": "historical",
+                  "coords": [
+                        35.499623,
+                        30.265773
+                  ]
+            },
+            {
+                  "name": "Talat Umar",
+                  "text": "Die Überreste dieser antiken Siedlung liegen verstreut in der trockenen, hügeligen Landschaft der Region.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.25
+                  ]
+            },
+            {
+                  "name": "Al Mabrak",
+                  "text": "Diese historischen Ruinen markieren einen Ort, an dem sich traditionell Karawanenwege im Hochland kreuzten.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        30.233333
+                  ]
+            },
+            {
+                  "name": "Funtain Mouse",
+                  "text": "Diese berühmte Quelle gilt der Legende nach als der Ort, an dem Moses mit seinem Stab Wasser aus dem Fels schlug.",
+                  "category": "landmark",
+                  "coords": [
+                        35.484809,
+                        30.322599
+                  ]
+            },
+            {
+                  "name": "Mussa Spring Hotel",
+                  "text": "Dieses Hotel liegt in der Nähe der Moses-Quelle und ist ein bekannter Ausgangspunkt für Besucher von Petra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.497656,
+                        30.32439
+                  ]
+            },
+            {
+                  "name": "Al Hamma",
+                  "text": "Die antiken Überreste an diesem Ort zeugen von der frühen landwirtschaftlichen Nutzung der Hochplateaus um Petra.",
+                  "category": "historical",
+                  "coords": [
+                        35.46689,
+                        30.299771
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maghar",
+                  "text": "Diese archäologische Stätte umfasst in den Stein gehauene Strukturen und Ruinen aus vergangenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        35.466693,
+                        30.283754
+                  ]
+            },
+            {
+                  "name": "Große Moschee",
+                  "text": "Diese große Moschee bildet das religiöse Zentrum von Wadi Musa, der modernen Stadt direkt neben Petra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479306,
+                        30.320291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Dinariyah",
+                  "text": "Ezek az ősi kőromok a Schara-hegység zord hegyi táján találhatók, Wadi Musa felett.",
+                  "category": "historical",
+                  "coords": [
+                        35.533185,
+                        30.257849
+                  ]
+            },
+            {
+                  "name": "Kafr Asham",
+                  "text": "Ez a régészeti lelőhely ókori épületek alapjait foglalja magában a történelmi kereskedelmi utak közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.499623,
+                        30.265773
+                  ]
+            },
+            {
+                  "name": "Talat Umar",
+                  "text": "Ennek az ókori településnek a maradványai a régió száraz, dombos táján szétszórva találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.25
+                  ]
+            },
+            {
+                  "name": "Al Mabrak",
+                  "text": "Ezek a történelmi romok egy olyan helyet jelölnek, ahol hagyományosan karavánutak keresztezték egymást a felföldön.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        30.233333
+                  ]
+            },
+            {
+                  "name": "Mózes kútja",
+                  "text": "A legenda szerint ez a híres forrás az a hely, ahol Mózes a botjával vizet fakasztott a sziklából.",
+                  "category": "landmark",
+                  "coords": [
+                        35.484809,
+                        30.322599
+                  ]
+            },
+            {
+                  "name": "Mussa Spring Hotel",
+                  "text": "Ez a szálloda a Mózes-forrás közelében található, és ismert kiindulópont a Petrába látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.497656,
+                        30.32439
+                  ]
+            },
+            {
+                  "name": "Al Hamma",
+                  "text": "Az itt található ókori maradványok a Petra körüli fennsíkok korai mezőgazdasági hasznosításáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.46689,
+                        30.299771
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maghar",
+                  "text": "Ez a régészeti lelőhely kőbe vájt építményeket és romokat foglal magában a múlt korszakaiból.",
+                  "category": "historical",
+                  "coords": [
+                        35.466693,
+                        30.283754
+                  ]
+            },
+            {
+                  "name": "Grand Mosquée de Wadi Musa",
+                  "text": "Ez a nagy mecset képezi Vádi Músza, a közvetlenül Petra mellett fekvő modern város vallási központját.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479306,
+                        30.320291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Dinariyah",
+                  "text": "Aceste ruine antice de piatră se află în peisajul montan accidentat al munților Schara, deasupra Wadi Musa.",
+                  "category": "historical",
+                  "coords": [
+                        35.533185,
+                        30.257849
+                  ]
+            },
+            {
+                  "name": "Kafr Asham",
+                  "text": "Acest sit arheologic cuprinde fundațiile unor clădiri antice situate în apropierea rutelor comerciale istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.499623,
+                        30.265773
+                  ]
+            },
+            {
+                  "name": "Talat Umar",
+                  "text": "Rămășițele acestei așezări antice sunt împrăștiate în peisajul arid și deluros al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.25
+                  ]
+            },
+            {
+                  "name": "Al Mabrak",
+                  "text": "Aceste ruine istorice marchează un loc unde, în mod tradițional, se intersectau rutele caravanelor în zonele înalte.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        30.233333
+                  ]
+            },
+            {
+                  "name": "Funtain Mouse",
+                  "text": "Acest izvor faimos este considerat, conform legendei, locul unde Moise a scos apă din stâncă cu toiagul său.",
+                  "category": "landmark",
+                  "coords": [
+                        35.484809,
+                        30.322599
+                  ]
+            },
+            {
+                  "name": "Mussa Spring Hotel",
+                  "text": "Acest hotel este situat lângă Izvorul lui Moise și este un punct de plecare cunoscut pentru vizitatorii Petrei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.497656,
+                        30.32439
+                  ]
+            },
+            {
+                  "name": "Al Hamma",
+                  "text": "Rămășițele antice din acest loc atestă utilizarea agricolă timpurie a platourilor înalte din jurul Petrei.",
+                  "category": "historical",
+                  "coords": [
+                        35.46689,
+                        30.299771
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maghar",
+                  "text": "Acest sit arheologic cuprinde structuri săpate în piatră și ruine din epoci trecute.",
+                  "category": "historical",
+                  "coords": [
+                        35.466693,
+                        30.283754
+                  ]
+            },
+            {
+                  "name": "Grand Mosquée de Wadi Musa",
+                  "text": "Această moschee mare formează centrul religios din Wadi Musa, orașul modern situat chiar lângă Petra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479306,
+                        30.320291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Dinariyah",
+                  "text": "These ancient stone ruins are located in the rugged mountain landscape of the Schara range above Wadi Musa.",
+                  "category": "historical",
+                  "coords": [
+                        35.533185,
+                        30.257849
+                  ]
+            },
+            {
+                  "name": "Kafr Asham",
+                  "text": "This archaeological site encompasses foundations of ancient buildings located near historical trade routes.",
+                  "category": "historical",
+                  "coords": [
+                        35.499623,
+                        30.265773
+                  ]
+            },
+            {
+                  "name": "Talat Umar",
+                  "text": "The remains of this ancient settlement are scattered across the arid, hilly landscape of the region.",
+                  "category": "historical",
+                  "coords": [
+                        35.5,
+                        30.25
+                  ]
+            },
+            {
+                  "name": "Al Mabrak",
+                  "text": "These historical ruins mark a spot where caravan routes traditionally intersected in the highlands.",
+                  "category": "historical",
+                  "coords": [
+                        35.483333,
+                        30.233333
+                  ]
+            },
+            {
+                  "name": "Funtain Mouse",
+                  "text": "This famous spring is traditionally held to be the place where Moses struck the rock with his staff to bring forth water.",
+                  "category": "landmark",
+                  "coords": [
+                        35.484809,
+                        30.322599
+                  ]
+            },
+            {
+                  "name": "Mussa Spring Hotel",
+                  "text": "This hotel is located near the Spring of Moses and is a well-known starting point for visitors to Petra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.497656,
+                        30.32439
+                  ]
+            },
+            {
+                  "name": "Al Hamma",
+                  "text": "The ancient remains at this site testify to the early agricultural use of the high plateaus around Petra.",
+                  "category": "historical",
+                  "coords": [
+                        35.46689,
+                        30.299771
+                  ]
+            },
+            {
+                  "name": "Khirbat al Maghar",
+                  "text": "This archaeological site encompasses stone-cut structures and ruins from past eras.",
+                  "category": "historical",
+                  "coords": [
+                        35.466693,
+                        30.283754
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Wadi Musa",
+                  "text": "This large mosque forms the religious center of Wadi Musa, the modern town located right next to Petra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479306,
+                        30.320291
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-MN",
     coords: [35.483, 30.316],
@@ -255,7 +1389,52 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "adschlun-gebirge-relief-v2",
+    id: "adschlun-gebirge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tell Mar Elias",
+                  "text": "Diese Ruinen im malerischen Adschlun-Gebirge gehen auf ein antikes byzantinisches Kloster zurück, das den Propheten Elias ehrte.",
+                  "category": "historical",
+                  "coords": [
+                        35.722581,
+                        32.36223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Mar Elias",
+                  "text": "A festői Adzslún-hegységben található romok egy ősi bizánci kolostorból maradtak fenn, amely Illés prófétát tisztelte.",
+                  "category": "historical",
+                  "coords": [
+                        35.722581,
+                        32.36223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Mar Elias",
+                  "text": "Situate în pitoreștii Munți Ajloun, aceste ruine provin de la o antică mănăstire bizantină care onora profetul Ilie.",
+                  "category": "historical",
+                  "coords": [
+                        35.722581,
+                        32.36223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mar Elias Monastery",
+                  "text": "Set in the scenic Ajloun Mountains, these ruins trace back to an ancient Byzantine monastery honoring the prophet Elijah.",
+                  "category": "historical",
+                  "coords": [
+                        35.722581,
+                        32.36223
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-AJ",
     coords: [35.750, 32.350],
@@ -291,7 +1470,268 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "dschabal-harun-relief-v2",
+    id: "dschabal-harun-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nabataean guard tower",
+                  "text": "Die Sandsteinruinen eines antiken Verteidigungsturms auf einem strategischen Kamm mit Blick auf das Tal.",
+                  "category": "historical",
+                  "coords": [
+                        35.386151,
+                        30.294913
+                  ]
+            },
+            {
+                  "name": "Nabataeans terraces",
+                  "text": "Antike Steinmauern, die an den Hängen errichtet wurden, um die bewässerte Landwirtschaft in der Wüste zu unterstützen.",
+                  "category": "historical",
+                  "coords": [
+                        35.365753,
+                        30.314455
+                  ]
+            },
+            {
+                  "name": "Khirbet Sufaysif",
+                  "text": "Die archäologischen Überreste einer nabatäischen Höhensiedlung mit Trockenmauern und Zisternen.",
+                  "category": "historical",
+                  "coords": [
+                        35.320903,
+                        30.356866
+                  ]
+            },
+            {
+                  "name": "Nabataeans camp site",
+                  "text": "Ein flaches Wüstengebiet mit Keramikscherben und Herdresten von antiken nomadischen Rastplätzen.",
+                  "category": "historical",
+                  "coords": [
+                        35.318467,
+                        30.345802
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein kleines nabatäisches Theater, das direkt in die roten Sandsteinfelsen in der Nähe des Sabra-Wadis gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.412846,
+                        30.296969
+                  ]
+            },
+            {
+                  "name": "Nabatian temple ruins",
+                  "text": "Verstreute Steinblöcke und Säulenbasen eines ehemaligen religiösen Heiligtums, das Wüstengottheiten gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        35.411807,
+                        30.277069
+                  ]
+            },
+            {
+                  "name": "Sabra Theatre",
+                  "text": "Ein abgelegenes, in den Fels gehauenes Theater in der Wüste, das von den nabatäischen Bewohnern des Vororts Sabra genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.41352,
+                        30.277555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabataean guard tower",
+                  "text": "Egy ősi védőtorony homokkő romjai, amely egy völgyre néző stratégiai gerincen található.",
+                  "category": "historical",
+                  "coords": [
+                        35.386151,
+                        30.294913
+                  ]
+            },
+            {
+                  "name": "Nabataeans terraces",
+                  "text": "A sivatagi öntözéses mezőgazdaság támogatására a lejtők mentén épített ősi kő támfalak.",
+                  "category": "historical",
+                  "coords": [
+                        35.365753,
+                        30.314455
+                  ]
+            },
+            {
+                  "name": "Khirbet Sufaysif",
+                  "text": "Egy nabateus hegyi település régészeti maradványai szárazon rakott kőfalakkal és ciszternákkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.320903,
+                        30.356866
+                  ]
+            },
+            {
+                  "name": "Nabataeans camp site",
+                  "text": "Sík sivatagi terület, amely ősi nomád megállóhelyekről származó cseréptöredékeket és tűzhelymaradványokat tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        35.318467,
+                        30.345802
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Egy kis nabateus színház, amelyet közvetlenül a vörös homokkő sziklákba vájtak a Sabra-vádi közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.412846,
+                        30.296969
+                  ]
+            },
+            {
+                  "name": "Nabatian temple ruins",
+                  "text": "Egy egykori, sivatagi istenségeknek szentelt vallási szentély szétszórt kőtömbjei és oszloptalpai.",
+                  "category": "historical",
+                  "coords": [
+                        35.411807,
+                        30.277069
+                  ]
+            },
+            {
+                  "name": "Sabra Theatre",
+                  "text": "Egy távoli, sziklába vájt színház a sivatag szélén, amelyet Sabra külvárosának nabateus lakói használtak.",
+                  "category": "historical",
+                  "coords": [
+                        35.41352,
+                        30.277555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabataean guard tower",
+                  "text": "Ruinele de gresie ale unui turn defensiv antic, situat pe o creastă strategică cu vedere la vale.",
+                  "category": "historical",
+                  "coords": [
+                        35.386151,
+                        30.294913
+                  ]
+            },
+            {
+                  "name": "Nabataeans terraces",
+                  "text": "Ziduri de sprijin din piatră antică construite de-a lungul pantelor pentru a susține agricultura irigată în deșert.",
+                  "category": "historical",
+                  "coords": [
+                        35.365753,
+                        30.314455
+                  ]
+            },
+            {
+                  "name": "Khirbet Sufaysif",
+                  "text": "Rămășițele arheologice ale unei așezări nabateene pe deal, cu ziduri din piatră uscată și cisterne.",
+                  "category": "historical",
+                  "coords": [
+                        35.320903,
+                        30.356866
+                  ]
+            },
+            {
+                  "name": "Nabataeans camp site",
+                  "text": "O zonă plată de deșert care conține fragmente de ceramică și resturi de vetre din vechile puncte de oprire nomade.",
+                  "category": "historical",
+                  "coords": [
+                        35.318467,
+                        30.345802
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Un mic teatru nabatean sculptat direct în stâncile de gresie roșie de lângă wadi Sabra.",
+                  "category": "historical",
+                  "coords": [
+                        35.412846,
+                        30.296969
+                  ]
+            },
+            {
+                  "name": "Nabatian temple ruins",
+                  "text": "Blocuri de piatră împrăștiate și baze de coloane ale unui fost sanctuar religios dedicat zeităților deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        35.411807,
+                        30.277069
+                  ]
+            },
+            {
+                  "name": "Sabra Theatre",
+                  "text": "Un teatru sculptat în stâncă situat la periferia deșertului, folosit de locuitorii nabateeni din suburbia Sabra.",
+                  "category": "historical",
+                  "coords": [
+                        35.41352,
+                        30.277555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabataean guard tower",
+                  "text": "The sandstone ruins of an ancient defensive tower situated on a strategic ridge overlooking the valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.386151,
+                        30.294913
+                  ]
+            },
+            {
+                  "name": "Nabataeans terraces",
+                  "text": "Ancient stone retaining walls built along the slopes to support irrigated agriculture in the desert.",
+                  "category": "historical",
+                  "coords": [
+                        35.365753,
+                        30.314455
+                  ]
+            },
+            {
+                  "name": "Khirbet Sufaysif",
+                  "text": "The archaeological remains of a Nabataean hilltop settlement featuring dry-stone walls and cisterns.",
+                  "category": "historical",
+                  "coords": [
+                        35.320903,
+                        30.356866
+                  ]
+            },
+            {
+                  "name": "Nabataeans camp site",
+                  "text": "A flat desert area containing pottery shards and hearth remains from ancient nomadic stopping points.",
+                  "category": "historical",
+                  "coords": [
+                        35.318467,
+                        30.345802
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "A small Nabataean theater carved directly into the red sandstone cliffs near the Sabra wadi.",
+                  "category": "historical",
+                  "coords": [
+                        35.412846,
+                        30.296969
+                  ]
+            },
+            {
+                  "name": "Nabatian temple ruins",
+                  "text": "Scattered stone blocks and column bases of a former religious sanctuary dedicated to desert deities.",
+                  "category": "historical",
+                  "coords": [
+                        35.411807,
+                        30.277069
+                  ]
+            },
+            {
+                  "name": "Sabra Theatre",
+                  "text": "A remote rock-cut theater located in the desert outskirts, used by Nabataean inhabitants of the Sabra suburb.",
+                  "category": "historical",
+                  "coords": [
+                        35.41352,
+                        30.277555
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-MN",
     coords: [35.405, 30.316],
@@ -363,7 +1803,160 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-al-karak-relief-v2",
+    id: "wadi-al-karak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rujm al Shumus",
+                  "text": "Ruinen eines antiken Wachturms mit Panoramablick über das tiefe Kalksteintal von Wadi al Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.631667,
+                        31.211944
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qashab",
+                  "text": "Überreste einer Steinsiedlung an den felsigen Hängen über dem saisonalen Flussbett.",
+                  "category": "historical",
+                  "coords": [
+                        35.626703,
+                        31.190511
+                  ]
+            },
+            {
+                  "name": "Buthaynah",
+                  "text": "Historische Ruinen mit sichtbaren Fundamenten inmitten der dramatischen Klippen der Region Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.617222,
+                        31.205833
+                  ]
+            },
+            {
+                  "name": "Bab edh-Dhra",
+                  "text": "Bedeutende Fundstätte aus der frühen Bronzezeit, berühmt für ihren riesigen Friedhof und Lehmziegelruinen.",
+                  "category": "historical",
+                  "coords": [
+                        35.534028,
+                        31.254375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rujm al Shumus",
+                  "text": "Egy ősi őrtorony romjai, ahonnan panorámás kilátás nyílik a Wadi al Karak mély mészkővölgyére.",
+                  "category": "historical",
+                  "coords": [
+                        35.631667,
+                        31.211944
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qashab",
+                  "text": "Egy kőtelepülés maradványai a sziklás lejtőkön, az időszakos folyómeder felett.",
+                  "category": "historical",
+                  "coords": [
+                        35.626703,
+                        31.190511
+                  ]
+            },
+            {
+                  "name": "Buthaynah",
+                  "text": "Történelmi romok látható alapfalakkal a Karak-régió drámai sziklái között.",
+                  "category": "historical",
+                  "coords": [
+                        35.617222,
+                        31.205833
+                  ]
+            },
+            {
+                  "name": "Bab edh-Dhra",
+                  "text": "Jelentős kora bronzkori lelőhely, amely hatalmas temetőjéről és vályogtégla romjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        35.534028,
+                        31.254375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rujm al Shumus",
+                  "text": "Ruinele unui turn de veghe antic care oferă o vedere panoramică asupra văii adânci de calcar.",
+                  "category": "historical",
+                  "coords": [
+                        35.631667,
+                        31.211944
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qashab",
+                  "text": "Rămășițele unei așezări de piatră cocoțate pe pantele stâncoase deasupra albiei sezoniere.",
+                  "category": "historical",
+                  "coords": [
+                        35.626703,
+                        31.190511
+                  ]
+            },
+            {
+                  "name": "Buthaynah",
+                  "text": "Ruine istorice cu fundații vizibile situate în mijlocul stâncilor dramatice din regiunea Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.617222,
+                        31.205833
+                  ]
+            },
+            {
+                  "name": "Bab edh-Dhra",
+                  "text": "Un sit important din Epoca Timpurie a Bronzului, faimos pentru cimitirul său vast și ruinele din cărămidă nearsă.",
+                  "category": "historical",
+                  "coords": [
+                        35.534028,
+                        31.254375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rujm al Shumus",
+                  "text": "Ancient stone watchtower ruins offering a panoramic view of the deep limestone valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.631667,
+                        31.211944
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qashab",
+                  "text": "Remnants of a stone settlement perched on the rocky slopes above the seasonal riverbed.",
+                  "category": "historical",
+                  "coords": [
+                        35.626703,
+                        31.190511
+                  ]
+            },
+            {
+                  "name": "Buthaynah",
+                  "text": "Historic ruins with visible wall foundations located amidst the dramatic cliffs of the Karak region.",
+                  "category": "historical",
+                  "coords": [
+                        35.617222,
+                        31.205833
+                  ]
+            },
+            {
+                  "name": "Bab edh-Dhra",
+                  "text": "An Early Bronze Age site famous for its vast cemetery and ancient mud-brick remains.",
+                  "category": "historical",
+                  "coords": [
+                        35.534028,
+                        31.254375
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "JO-KA",
     coords: [35.583, 31.183],
@@ -399,7 +1992,52 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "jordangraben-relief-v2",
+    id: "jordangraben-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadi Malaha",
+                  "text": "Das Naturschutzgebiet Wadi Malaha im Jordangraben bewahrt wichtige Feuchtgebiete und Wüstenökosysteme.",
+                  "category": "natural",
+                  "coords": [
+                        35.485373,
+                        32.006278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadi Malaha",
+                  "text": "A Jordán-árokban található Wadi Malaha természetvédelmi terület fontos vizes élőhelyeket és sivatagi ökoszisztémákat őriz.",
+                  "category": "natural",
+                  "coords": [
+                        35.485373,
+                        32.006278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadi Malaha",
+                  "text": "Rezervația naturală Wadi Malaha din Valea Iordanului protejează zone umede și ecosisteme deșertice importante.",
+                  "category": "natural",
+                  "coords": [
+                        35.485373,
+                        32.006278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi Malaha",
+                  "text": "The Wadi Malaha nature reserve within the Jordan Rift Valley preserves crucial wetland habitats and desert ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        35.485373,
+                        32.006278
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "JO-BA",
     coords: [35.550, 32.000],
@@ -435,7 +2073,232 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "dschabal-al-madhbah-relief-v2",
+    id: "dschabal-al-madhbah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Obelisken",
+                  "text": "Zwei freistehende, direkt aus dem Bergrücken gemeißelte Felsobelsken in der Nähe des Opferplatzes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448005,
+                        30.32034
+                  ]
+            },
+            {
+                  "name": "Jabal al Madhbah",
+                  "text": "Ein heiliger Berggipfel, der den antiken Opferplatz beherbergt und weite Ausblicke über das Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.447178,
+                        30.32164
+                  ]
+            },
+            {
+                  "name": "Grab des römischen Soldaten",
+                  "text": "Ein kunstvolles nabatäisches Felsengrab mit römischen Einflüssen und drei Statuen in Nischen.",
+                  "category": "historical",
+                  "coords": [
+                        35.444887,
+                        30.320823
+                  ]
+            },
+            {
+                  "name": "Löwenbrunnen",
+                  "text": "Ein monumentales Löwenrelief, das direkt in den Fels gehauen wurde und einst als öffentlicher Brunnen diente.",
+                  "category": "landmark",
+                  "coords": [
+                        35.44634,
+                        30.320191
+                  ]
+            },
+            {
+                  "name": "Triklinium",
+                  "text": "Ein in den Fels gehauener Speisesaal im Wadi Farasa, der für zeremonielle Bankette genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.445047,
+                        30.323342
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Ein gewaltiges Theater aus dem 1. Jahrhundert, das direkt in die roten Sandsteinfelsen geschlagen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.446923,
+                        30.324781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Two Obelisks",
+                  "text": "Két szabadon álló, közvetlenül a hegygerincből kifaragott sziklaobeliszk az áldozati hely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448005,
+                        30.32034
+                  ]
+            },
+            {
+                  "name": "Jabal al Madhbah",
+                  "text": "Szent hegycsúcs, amely az ősi áldozati helynek ad otthont, és széles kilátást nyújt a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.447178,
+                        30.32164
+                  ]
+            },
+            {
+                  "name": "Roman Soldier's tomb",
+                  "text": "Díszes nabateus sziklasír római hatásokkal és három fülkében elhelyezett szoborral.",
+                  "category": "historical",
+                  "coords": [
+                        35.444887,
+                        30.320823
+                  ]
+            },
+            {
+                  "name": "Lion Monument",
+                  "text": "A sziklába vájt monumentális oroszlánrelief, amely egykor nyilvános szökőkútként működött.",
+                  "category": "landmark",
+                  "coords": [
+                        35.44634,
+                        30.320191
+                  ]
+            },
+            {
+                  "name": "Triclinium",
+                  "text": "A Vádi Faraszában található, sziklába vájt étkezőterem, amelyet szertartási bankettekhez használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.445047,
+                        30.323342
+                  ]
+            },
+            {
+                  "name": "The Theater",
+                  "text": "Hatalmas 1. századi színház, amelyet közvetlenül a vörös homokkő sziklákba vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.446923,
+                        30.324781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Two Obelisks",
+                  "text": "Două obeliscuri de stâncă de sine stătătoare, sculptate direct din creasta muntelui lângă locul de sacrificiu.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448005,
+                        30.32034
+                  ]
+            },
+            {
+                  "name": "Jabal al Madhbah",
+                  "text": "Un vârf de munte sacru care găzduiește vechiul loc de sacrificiu și oferă vederi largi asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        35.447178,
+                        30.32164
+                  ]
+            },
+            {
+                  "name": "Roman Soldier's tomb",
+                  "text": "Un mormânt nabateean bogat ornamentat, cu influențe romane și trei statui în nișe.",
+                  "category": "historical",
+                  "coords": [
+                        35.444887,
+                        30.320823
+                  ]
+            },
+            {
+                  "name": "Lion Monument",
+                  "text": "Un relief monumental cu leu sculptat direct în stâncă, care a servit odată drept fântână publică.",
+                  "category": "landmark",
+                  "coords": [
+                        35.44634,
+                        30.320191
+                  ]
+            },
+            {
+                  "name": "Triclinium",
+                  "text": "O sală de mese tăiată în stâncă în Wadi Farasa, folosită pentru banchete ceremoniale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.445047,
+                        30.323342
+                  ]
+            },
+            {
+                  "name": "The Theater",
+                  "text": "Un teatru masiv din secolul I, sculptat direct în stâncile de gresie roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.446923,
+                        30.324781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Two Obelisks",
+                  "text": "Two free-standing rock obelisks carved directly from the mountain ridge near the High Place of Sacrifice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448005,
+                        30.32034
+                  ]
+            },
+            {
+                  "name": "Jabal al Madhbah",
+                  "text": "A sacred mountain peak hosting the ancient High Place of Sacrifice and offering wide views over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        35.447178,
+                        30.32164
+                  ]
+            },
+            {
+                  "name": "Roman Soldier Tomb",
+                  "text": "An ornate Nabataean rock-cut tomb featuring Roman influences and three statues in niches.",
+                  "category": "historical",
+                  "coords": [
+                        35.444887,
+                        30.320823
+                  ]
+            },
+            {
+                  "name": "Lion Monument",
+                  "text": "A monumental lion relief carved directly into the rock that once functioned as a public fountain.",
+                  "category": "landmark",
+                  "coords": [
+                        35.44634,
+                        30.320191
+                  ]
+            },
+            {
+                  "name": "Triclinium",
+                  "text": "A rock-cut dining chamber in Wadi Farasa designed for ceremonial banquets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.445047,
+                        30.323342
+                  ]
+            },
+            {
+                  "name": "The Theater",
+                  "text": "A massive 1st-century theater carved directly into the red sandstone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        35.446923,
+                        30.324781
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-MN",
     coords: [35.446, 30.323],
@@ -471,7 +2334,376 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-as-sir-relief-v2",
+    id: "wadi-as-sir-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Saadah",
+                  "text": "Verwitterte Steinruinen im zerklüfteten Gelände des Wadi as-Sir-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        35.800367,
+                        31.917542
+                  ]
+            },
+            {
+                  "name": "Al Bahhath",
+                  "text": "Archäologische Überreste einer antiken Siedlung, die in der Nähe der Wasserquellen von Al Bahhath liegen.",
+                  "category": "historical",
+                  "coords": [
+                        35.799525,
+                        31.915719
+                  ]
+            },
+            {
+                  "name": "Al Sira",
+                  "text": "Historische Mauerreste und Fundamente, die von der langen Besiedlungsgeschichte des Wadi as-Sir zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        31.95
+                  ]
+            },
+            {
+                  "name": "Amman Exhibition Park",
+                  "text": "Ein weitläufiges Veranstaltungsgelände in Wadi as-Sir, das für große Messen und kulturelle Ausstellungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860537,
+                        31.924591
+                  ]
+            },
+            {
+                  "name": "Alsalheen Mosque",
+                  "text": "Eine moderne Moschee in Wadi as-Sir, die als spiritueller Treffpunkt für die lokale muslimische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.829272,
+                        31.883363
+                  ]
+            },
+            {
+                  "name": "Khlail Al-Rahman Mosque",
+                  "text": "Ein lokales islamisches Gotteshaus mit schlichter Architektur im Herzen von Wadi as-Sir.",
+                  "category": "religious",
+                  "coords": [
+                        35.821712,
+                        31.94987
+                  ]
+            },
+            {
+                  "name": "Huda Mosque",
+                  "text": "Eine kleine Moschee, die durch ihre Lage am Rande des Tals von Wadi as-Sir eine friedliche Atmosphäre bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825969,
+                        31.949212
+                  ]
+            },
+            {
+                  "name": "AlAbrar Mosque",
+                  "text": "Eine Moschee in Wadi as-Sir, die durch ihre klassischen islamischen Bauelemente und Bögen auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831784,
+                        31.954384
+                  ]
+            },
+            {
+                  "name": "Moa`th Bin Jabal Mosque",
+                  "text": "Eine Moschee, die nach einem Gefährten des Propheten benannt ist und einen zentralen Punkt im sozialen Gefüge von Wadi as-Sir bildet.",
+                  "category": "religious",
+                  "coords": [
+                        35.82402,
+                        31.952915
+                  ]
+            },
+            {
+                  "name": "Palm Suburb Church",
+                  "text": "Eine christliche Kirche im Palm-Viertel, die für ihre moderne Gestaltung und die lokale Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858205,
+                        31.907137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Saadah",
+                  "text": "Kőmaradványok a Wadi as-Sir völgyének zord terepén.",
+                  "category": "historical",
+                  "coords": [
+                        35.800367,
+                        31.917542
+                  ]
+            },
+            {
+                  "name": "Al Bahhath",
+                  "text": "Egy ősi település régészeti maradványai, amelyek Al Bahhath vízforrásainak közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.799525,
+                        31.915719
+                  ]
+            },
+            {
+                  "name": "Al Sira",
+                  "text": "Történelmi falmaradványok és alapok, amelyek a Wadi as-Sir hosszú betelepülési múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        31.95
+                  ]
+            },
+            {
+                  "name": "Amman Exhibition Park",
+                  "text": "Tágas szabadtéri helyszín Wadi as-Sirben, amelyet nagyszabású vásárokra és kulturális kiállításokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860537,
+                        31.924591
+                  ]
+            },
+            {
+                  "name": "Alsalheen Mosque",
+                  "text": "Modern mecset Wadi as-Sirben, amely a helyi muszlim közösség spirituális találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.829272,
+                        31.883363
+                  ]
+            },
+            {
+                  "name": "Khlail Al-Rahman Mosque",
+                  "text": "Helyi iszlám imaház egyszerű építészettel Wadi as-Sir szívében.",
+                  "category": "religious",
+                  "coords": [
+                        35.821712,
+                        31.94987
+                  ]
+            },
+            {
+                  "name": "Huda Mosque",
+                  "text": "Kicsiny mecset, amely a Wadi as-Sir völgyének szélén fekvő elhelyezkedése révén békés légkört áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825969,
+                        31.949212
+                  ]
+            },
+            {
+                  "name": "AlAbrar Mosque",
+                  "text": "Mecset Wadi as-Sirben, amely klasszikus iszlám építészeti elemeivel és íveivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831784,
+                        31.954384
+                  ]
+            },
+            {
+                  "name": "Moa`th Bin Jabal Mosque",
+                  "text": "A próféta egyik társáról elnevezett mecset, amely központi szerepet tölt be Wadi as-Sir közösségi életében.",
+                  "category": "religious",
+                  "coords": [
+                        35.82402,
+                        31.952915
+                  ]
+            },
+            {
+                  "name": "Palm Suburb Church",
+                  "text": "Keresztény templom a Palm negyedben, amely modern kialakításáról és helyi közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858205,
+                        31.907137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Saadah",
+                  "text": "Ruine de piatră erodate situate în terenul accidentat al văii Wadi as-Sir.",
+                  "category": "historical",
+                  "coords": [
+                        35.800367,
+                        31.917542
+                  ]
+            },
+            {
+                  "name": "Al Bahhath",
+                  "text": "Rămășițele arheologice ale unei așezări antice, situate în apropierea izvoarelor de apă din Al Bahhath.",
+                  "category": "historical",
+                  "coords": [
+                        35.799525,
+                        31.915719
+                  ]
+            },
+            {
+                  "name": "Al Sira",
+                  "text": "Rămășițe de ziduri istorice și fundații care atestă istoria lungă de așezare din Wadi as-Sir.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        31.95
+                  ]
+            },
+            {
+                  "name": "Amman Exhibition Park",
+                  "text": "Un spațiu exterior generos în Wadi as-Sir, utilizat pentru târguri comerciale de amploare și expoziții culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860537,
+                        31.924591
+                  ]
+            },
+            {
+                  "name": "Alsalheen Mosque",
+                  "text": "O moschee modernă în Wadi as-Sir, care servește ca loc de întâlnire spirituală pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.829272,
+                        31.883363
+                  ]
+            },
+            {
+                  "name": "Khlail Al-Rahman Mosque",
+                  "text": "Un lăcaș de cult islamic local, cu o arhitectură simplă, situat în inima Wadi as-Sir.",
+                  "category": "religious",
+                  "coords": [
+                        35.821712,
+                        31.94987
+                  ]
+            },
+            {
+                  "name": "Huda Mosque",
+                  "text": "O moschee mică ce oferă o atmosferă pașnică datorită locației sale la marginea văii Wadi as-Sir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825969,
+                        31.949212
+                  ]
+            },
+            {
+                  "name": "AlAbrar Mosque",
+                  "text": "O moschee din Wadi as-Sir care se remarcă prin elementele sale arhitecturale islamice clasice și arcade.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831784,
+                        31.954384
+                  ]
+            },
+            {
+                  "name": "Moa`th Bin Jabal Mosque",
+                  "text": "O moschee numită după un companion al Profetului, formând un punct central în viața socială din Wadi as-Sir.",
+                  "category": "religious",
+                  "coords": [
+                        35.82402,
+                        31.952915
+                  ]
+            },
+            {
+                  "name": "Palm Suburb Church",
+                  "text": "O biserică creștină în cartierul Palm, cunoscută pentru designul său modern și pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858205,
+                        31.907137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Saadah",
+                  "text": "Weathered stone ruins located in the rugged terrain of the Wadi as-Sir valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.800367,
+                        31.917542
+                  ]
+            },
+            {
+                  "name": "Al Bahhath",
+                  "text": "Archaeological remains of an ancient settlement situated near the water springs of Al Bahhath.",
+                  "category": "historical",
+                  "coords": [
+                        35.799525,
+                        31.915719
+                  ]
+            },
+            {
+                  "name": "Al Sira",
+                  "text": "Historical wall remnants and foundations testifying to the long history of settlement in Wadi as-Sir.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        31.95
+                  ]
+            },
+            {
+                  "name": "Amman Exhibition Park",
+                  "text": "A spacious outdoor venue in Wadi as-Sir used for large-scale trade fairs and cultural exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860537,
+                        31.924591
+                  ]
+            },
+            {
+                  "name": "Alsalheen Mosque",
+                  "text": "A modern mosque in Wadi as-Sir serving as a spiritual meeting point for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.829272,
+                        31.883363
+                  ]
+            },
+            {
+                  "name": "Khlail Al-Rahman Mosque",
+                  "text": "A local Islamic place of worship with simple architecture located in the heart of Wadi as-Sir.",
+                  "category": "religious",
+                  "coords": [
+                        35.821712,
+                        31.94987
+                  ]
+            },
+            {
+                  "name": "Huda Mosque",
+                  "text": "A small mosque offering a peaceful atmosphere due to its location on the edge of the Wadi as-Sir valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825969,
+                        31.949212
+                  ]
+            },
+            {
+                  "name": "Al Abrar Mosque",
+                  "text": "A mosque in Wadi as-Sir that stands out for its classical Islamic architectural elements and arches.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831784,
+                        31.954384
+                  ]
+            },
+            {
+                  "name": "Moa`th Bin Jabal Mosque",
+                  "text": "A mosque named after a companion of the Prophet, forming a central point in the social fabric of Wadi as-Sir.",
+                  "category": "religious",
+                  "coords": [
+                        35.82402,
+                        31.952915
+                  ]
+            },
+            {
+                  "name": "Palm Suburb Church",
+                  "text": "A Christian church in the Palm district, known for its modern design and local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858205,
+                        31.907137
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "JO-AM",
     coords: [35.816, 31.950],
@@ -507,7 +2739,52 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-shuaib-relief-v2",
+    id: "wadi-shuaib-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khersee",
+                  "text": "Antike Siedlungsreste im fruchtbaren Wadi Shuaib, das für seine Quellen und Landwirtschaft bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.611944,
+                        31.890833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Khersee",
+                  "text": "Ősi településmaradványok a termékeny Vadi-Suajb völgyében, amely forrásairól és mezőgazdaságáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.611944,
+                        31.890833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Khersee",
+                  "text": "Rămășițe ale unei așezări antice în valea fertilă Wadi Shuaib, cunoscută pentru izvoarele și agricultura sa.",
+                  "category": "historical",
+                  "coords": [
+                        35.611944,
+                        31.890833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khersee",
+                  "text": "Ancient settlement remains located in the fertile Wadi Shuaib, a valley known for its springs and agriculture.",
+                  "category": "historical",
+                  "coords": [
+                        35.611944,
+                        31.890833
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "JO-BA",
     coords: [35.633, 31.933],
@@ -543,7 +2820,124 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "totes-meer-kueste-relief-v2",
+    id: "totes-meer-kueste-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amman Beach",
+                  "text": "Ein öffentlicher Badebereich mit Pools und Zugang zum salzhaltigen Toten Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.581536,
+                        31.701086
+                  ]
+            },
+            {
+                  "name": "Amman Tourist Beach",
+                  "text": "Ein erschlossener Küstenort, der für seine Schlammanwendungen und Salzwasserbäder bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.582777,
+                        31.700117
+                  ]
+            },
+            {
+                  "name": "O'Beach",
+                  "text": "Ein privater Strandclub mit einem Infinity-Pool, der direkt über dem Meer zu schweben scheint.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575051,
+                        31.683292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amman Beach",
+                  "text": "Nyilvános fürdőhely medencékkel és lejáróval a sós Holt-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        35.581536,
+                        31.701086
+                  ]
+            },
+            {
+                  "name": "Amman Tourist Beach",
+                  "text": "Kiépített tengerparti üdülőhely, amely iszapterápiáiról és sós vizes fürdőiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.582777,
+                        31.700117
+                  ]
+            },
+            {
+                  "name": "O'Beach",
+                  "text": "Privát strandklub feszített víztükrű medencével, amely közvetlenül a tenger felett lebeg.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575051,
+                        31.683292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amman Beach",
+                  "text": "O zonă publică de scăldat cu piscine și acces la Marea Moartă hipersalină.",
+                  "category": "recreational",
+                  "coords": [
+                        35.581536,
+                        31.701086
+                  ]
+            },
+            {
+                  "name": "Amman Tourist Beach",
+                  "text": "O stațiune de coastă amenajată, cunoscută pentru tratamentele cu nămol și băile în apă sărată.",
+                  "category": "recreational",
+                  "coords": [
+                        35.582777,
+                        31.700117
+                  ]
+            },
+            {
+                  "name": "O'Beach",
+                  "text": "Un club de plajă privat cu o piscină de tip infinity care pare să plutească deasupra mării.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575051,
+                        31.683292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amman Beach",
+                  "text": "A public swimming area with pools and access to the hyper-saline Dead Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.581536,
+                        31.701086
+                  ]
+            },
+            {
+                  "name": "Amman Tourist Beach",
+                  "text": "A developed coastal resort offering mud treatments and saltwater bathing.",
+                  "category": "recreational",
+                  "coords": [
+                        35.582777,
+                        31.700117
+                  ]
+            },
+            {
+                  "name": "O'Beach",
+                  "text": "A private beach club featuring an infinity pool overlooking the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.575051,
+                        31.683292
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "JO-BA",
     coords: [35.583, 31.716],
@@ -615,7 +3009,88 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "dschabal-ataruz-relief-v2",
+    id: "dschabal-ataruz-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Dayr",
+                  "text": "Die Ruinen dieses antiken Klosterkomplexes liegen an den zerklüfteten Hängen des Jabal Ataruz.",
+                  "category": "historical",
+                  "coords": [
+                        35.6375,
+                        31.548333
+                  ]
+            },
+            {
+                  "name": "Halq",
+                  "text": "In der rauen Landschaft des Jabal Ataruz finden sich diese verstreuten Überreste einer historischen Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        31.5
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Dayr",
+                  "text": "Ennek az ősi kolostorkomplexumnak a romjai a Jabal Ataruz sziklás lejtőin fekszenek.",
+                  "category": "historical",
+                  "coords": [
+                        35.6375,
+                        31.548333
+                  ]
+            },
+            {
+                  "name": "Halq",
+                  "text": "A Jabal Ataruz vad táján találhatók egy történelmi helyszín ezen szétszórt maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        31.5
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Dayr",
+                  "text": "Ruinele acestui complex monahal antic se află pe versanții accidentați ai Jabal Ataruz.",
+                  "category": "historical",
+                  "coords": [
+                        35.6375,
+                        31.548333
+                  ]
+            },
+            {
+                  "name": "Halq",
+                  "text": "În peisajul aspru de la Jabal Ataruz se găsesc aceste rămășițe împrăștiate ale unui sit istoric.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        31.5
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Dayr",
+                  "text": "The ruins of this ancient monastic complex are situated on the rugged slopes of Jabal Ataruz.",
+                  "category": "historical",
+                  "coords": [
+                        35.6375,
+                        31.548333
+                  ]
+            },
+            {
+                  "name": "Halq",
+                  "text": "Scattered stone remains of a historic site are found in the rugged terrain of Jabal Ataruz.",
+                  "category": "historical",
+                  "coords": [
+                        35.716667,
+                        31.5
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JO-MD",
     coords: [35.650, 31.550],
@@ -651,7 +3126,340 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-al-wala-relief-v2",
+    id: "wadi-al-wala-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzaiyar Alya",
+                  "text": "Antike Steinruinen auf einem Hügel nahe der steilen Hänge des Wadi al-Wala.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.566667
+                  ]
+            },
+            {
+                  "name": "Rumeil",
+                  "text": "Überreste einer eisenzeitlichen Festung, die strategisch über der Schlucht thront.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Qasr al Zafaran",
+                  "text": "Die Ruinen eines ehemaligen Wachturms blicken weit über das umliegende Wüstenplateau.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.616667
+                  ]
+            },
+            {
+                  "name": "Al Sakran",
+                  "text": "Verwitterte Steinfundamente markieren diesen abgelegenen antiken Außenposten in der Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qubeiba",
+                  "text": "Historische Siedlungsreste auf einer Anhöhe über dem fruchtbaren Flusstal.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        31.533333
+                  ]
+            },
+            {
+                  "name": "Khirbat Iskandar",
+                  "text": "Bedeutende bronzezeitliche Fundstätte mit Resten einer antiken Stadtmauer.",
+                  "category": "historical",
+                  "coords": [
+                        35.77144,
+                        31.556792
+                  ]
+            },
+            {
+                  "name": "Dhiban",
+                  "text": "Die einstige Hauptstadt der Moabiter, in der die berühmte Mescha-Stele entdeckt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.776249,
+                        31.502271
+                  ]
+            },
+            {
+                  "name": "Dhiban Grand Mosque",
+                  "text": "Ein markantes modernes Gotteshaus im Zentrum der historischen Stadt Dhiban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780705,
+                        31.499688
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "Diese lokale Moschee dient der Gemeinde als traditioneller Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780293,
+                        31.498064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzaiyar Alya",
+                  "text": "Ókori kőromok egy dombon, a Wadi al-Wala meredek lejtőinek közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.566667
+                  ]
+            },
+            {
+                  "name": "Rumeil",
+                  "text": "Egy vaskori erőd maradványai, amely stratégiailag a szurdok felett trónol.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Qasr al Zafaran",
+                  "text": "Egy egykori őrtorony romjai, amelyek messzire tekintenek a környező sivatagi fennsíkra.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.616667
+                  ]
+            },
+            {
+                  "name": "Al Sakran",
+                  "text": "Megkopott kőalapok jelzik ezt a távoli ókori sivatagi őrhelyet.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qubeiba",
+                  "text": "Történelmi településmaradványok a termékeny folyóvölgy feletti magaslaton.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        31.533333
+                  ]
+            },
+            {
+                  "name": "Khirbat Iskandar",
+                  "text": "Jelentős bronzkori lelőhely egy ókori városfal maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.77144,
+                        31.556792
+                  ]
+            },
+            {
+                  "name": "Dhiban",
+                  "text": "A moábiták egykori fővárosa, ahol a híres Mesa-sztélét felfedezték.",
+                  "category": "historical",
+                  "coords": [
+                        35.776249,
+                        31.502271
+                  ]
+            },
+            {
+                  "name": "Dhiban Grand Mosque",
+                  "text": "Egy jellegzetes modern imaház Dhiban történelmi városának központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780705,
+                        31.499688
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "Ez a helyi mecset a közösség hagyományos imádságának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780293,
+                        31.498064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzaiyar Alya",
+                  "text": "Ruine antice de piatră pe un deal lângă pantele abrupte ale văii Wadi al-Wala.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.566667
+                  ]
+            },
+            {
+                  "name": "Rumeil",
+                  "text": "Rămășițele unei cetăți din epoca fierului, situată strategic deasupra defileului.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Qasr al Zafaran",
+                  "text": "Ruinele unui fost turn de veghe care domină platoul deșertic înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.616667
+                  ]
+            },
+            {
+                  "name": "Al Sakran",
+                  "text": "Fundații de piatră erodate marchează acest avanpost antic izolat din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qubeiba",
+                  "text": "Rămășițe ale unei așezări istorice pe o colină deasupra văii fertile a râului.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        31.533333
+                  ]
+            },
+            {
+                  "name": "Khirbat Iskandar",
+                  "text": "Sit arheologic important din epoca bronzului, cu resturi ale unui zid de apărare antic.",
+                  "category": "historical",
+                  "coords": [
+                        35.77144,
+                        31.556792
+                  ]
+            },
+            {
+                  "name": "Dhiban",
+                  "text": "Fosta capitală a moabiților, unde a fost descoperită celebra Stelă a lui Meșa.",
+                  "category": "historical",
+                  "coords": [
+                        35.776249,
+                        31.502271
+                  ]
+            },
+            {
+                  "name": "Dhiban Grand Mosque",
+                  "text": "Un lăcaș de cult modern și impunător în centrul orașului istoric Dhiban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780705,
+                        31.499688
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "Această moschee locală servește comunității ca loc tradițional de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780293,
+                        31.498064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzaiyar Alya",
+                  "text": "Ancient stone ruins situated on a hill near the steep slopes of Wadi al-Wala.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.566667
+                  ]
+            },
+            {
+                  "name": "Rumeil",
+                  "text": "Remains of an Iron Age fortress perched strategically above the canyon.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.583333
+                  ]
+            },
+            {
+                  "name": "Qasr al Zafaran",
+                  "text": "The ruins of a former watchtower look out over the surrounding desert plateau.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.616667
+                  ]
+            },
+            {
+                  "name": "Al Sakran",
+                  "text": "Weathered stone foundations mark this remote ancient desert outpost.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qubeiba",
+                  "text": "Historic settlement remains on a rise above the fertile river valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        31.533333
+                  ]
+            },
+            {
+                  "name": "Khirbat Iskandar",
+                  "text": "Significant Bronze Age archaeological site featuring remains of ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        35.77144,
+                        31.556792
+                  ]
+            },
+            {
+                  "name": "Dhiban",
+                  "text": "The former capital of the Moabites, where the famous Mesha Stele was discovered.",
+                  "category": "historical",
+                  "coords": [
+                        35.776249,
+                        31.502271
+                  ]
+            },
+            {
+                  "name": "Dhiban Grand Mosque",
+                  "text": "A prominent modern place of worship in the center of the historic town of Dhiban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780705,
+                        31.499688
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "This local mosque serves the community as a traditional place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.780293,
+                        31.498064
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "JO-MD",
     coords: [35.783, 31.566],
@@ -687,7 +3495,124 @@ export const poiExtraJordanReliefV2: POI[] = [
     },
   },
   {
-    id: "amman-plateau-relief-v2",
+    id: "amman-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beit Shkair",
+                  "text": "Ein restauriertes Erbe-Haus auf dem Jabal Amman, das heute als Museum für lokale Kultur und Geschichte dient.",
+                  "category": "museum",
+                  "coords": [
+                        35.931984,
+                        31.947662
+                  ]
+            },
+            {
+                  "name": "Scale colorate",
+                  "text": "Diese lebhaft bemalten Treppen sind ein farbenfrohes Beispiel für urbane Kunst in den Hangstraßen von Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934536,
+                        31.951381
+                  ]
+            },
+            {
+                  "name": "Husseini Mosque",
+                  "text": "Diese 1924 erbaute Moschee im osmanischen Stil steht auf dem Gelände eines antiken Heiligtums im Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934669,
+                        31.949667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beit Shkair",
+                  "text": "Restaurált műemlékház a Jabal Ammanon, amely ma a helyi kultúra és történelem múzeumaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        35.931984,
+                        31.947662
+                  ]
+            },
+            {
+                  "name": "Scale colorate",
+                  "text": "Ezek az élénken festett lépcsők az ammani domboldali utcák városi művészetének színes példái.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934536,
+                        31.951381
+                  ]
+            },
+            {
+                  "name": "Husseini Mosque",
+                  "text": "Ez az 1924-ben épült oszmán stílusú mecset egy ősi szentély helyén áll a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934669,
+                        31.949667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beit Shkair",
+                  "text": "O casă de patrimoniu restaurată pe Jabal Amman, care funcționează acum ca muzeu al culturii și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        35.931984,
+                        31.947662
+                  ]
+            },
+            {
+                  "name": "Scale colorate",
+                  "text": "Aceste scări pictate vibrant sunt un exemplu colorat de artă urbană pe străzile în pantă ale Ammanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934536,
+                        31.951381
+                  ]
+            },
+            {
+                  "name": "Husseini Mosque",
+                  "text": "Această moschee în stil otoman, construită în 1924, se află pe locul unui sanctuar antic din centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934669,
+                        31.949667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beit Shkair",
+                  "text": "A restored heritage house on Jabal Amman that now serves as a museum for local culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        35.931984,
+                        31.947662
+                  ]
+            },
+            {
+                  "name": "Scale colorate",
+                  "text": "These vibrantly painted stairs are a colorful example of urban art in the hillside streets of Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934536,
+                        31.951381
+                  ]
+            },
+            {
+                  "name": "Husseini Mosque",
+                  "text": "Built in 1924, this Ottoman-style mosque stands on the site of an ancient sanctuary in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.934669,
+                        31.949667
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "JO-AM",
     coords: [35.933, 31.950],

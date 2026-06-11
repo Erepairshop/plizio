@@ -3,7 +3,1024 @@ import type { POI } from "./poi";
 
 export const poiExtraCambodiaEconomicV2: POI[] = [
   {
-    id: "sihanoukville-autonomous-port-economic-v2",
+    id: "sihanoukville-autonomous-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "កោះពស់",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Bucht von Sihanoukville und die vorgelagerte Insel Koh Puos eröffnet.",
+                  "category": "natural",
+                  "coords": [
+                        103.485812,
+                        10.629006
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "Die goldene Löwenstatue steht als markantes Wahrzeichen und zentraler Verkehrsknotenpunkt in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "Das Betonmonument erinnert in typischer sozialistischer Ästhetik an die militärische Allianz zwischen Kambodscha und Vietnam.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "Diese Skulptur eines Wasserbüffels zollt der landwirtschaftlichen Tradition der Region Tribut.",
+                  "category": "historical",
+                  "coords": [
+                        103.499525,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "Ein beeindruckendes steinernes Drachenhaupt, das oft als dekoratives Element der asiatischen Architektur bewundert wird.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "Eine fischförmige Skulptur, die die Verbundenheit der Hafenstadt mit dem Meeresschutz und der Fischerei symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "Eine detaillierte Miniaturnachbildung des berühmten historischen Preah-Vihear-Tempels auf einem steinernen Podest.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Antonov 24B Plane",
+                  "text": "Ein ausgemustertes sowjetisches Antonow An-24B Transportflugzeug, das heute als statisches Ausstellungsstück dient.",
+                  "category": "historical",
+                  "coords": [
+                        103.509123,
+                        10.637803
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "Die beiden imposanten goldenen Löwenstatuen dominieren den wichtigsten Verkehrskreisel im Zentrum von Sihanoukville.",
+                  "category": "landmark",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "Prek Treng Beach",
+                  "text": "Ein ruhiger, etwas außerhalb gelegener Sandstrand am Rand der Sonderwirtschaftszone von Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.541631,
+                        10.684107
+                  ]
+            },
+            {
+                  "name": "Victory Beach",
+                  "text": "Dieser lebhafte Strand in der Nähe des Hafens ist bei Einheimischen für seine zahlreichen kleinen Bars beliebt.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500364,
+                        10.635673
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ហាវៃ",
+                  "text": "Ein von Nadelbäumen gesäumter Sandstrand, der einen schattigen Rückzugsort am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496823,
+                        10.629294
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរលំហែកាយ",
+                  "text": "Eine schmale, friedliche Küstenlinie mit weichem Sand, fernab des großen Touristentrubels.",
+                  "category": "recreational",
+                  "coords": [
+                        103.494036,
+                        10.626052
+                  ]
+            },
+            {
+                  "name": "Ratanak Beach",
+                  "text": "Der Strandabschnitt Ratanak besticht durch seinen flachen Zugang in das warme, türkisfarbene Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        103.490983,
+                        10.621749
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "In diesem Küstenabschnitt können Besucher wildlebende Affen beobachten, die oft auf der Suche nach Futter in den Bäumen klettern.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497314,
+                        10.620383
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ឯករាជ្យ",
+                  "text": "Dieser weitläufige Strand ist bekannt für das altehrwürdige Independence Hotel, das am Ende der Bucht thront.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497486,
+                        10.614845
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "Ein felsiger Abschnitt der Küste, der in die feinsandige Bucht von Sokha Beach übergeht.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523025,
+                        10.60582
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​សុខា",
+                  "text": "Der breite Privatstrand gehört zu einem Luxusresort, an dem feiner Sand auf gepflegte Resortanlagen trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510951,
+                        10.608818
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "Die kleine orthodoxe Kirche fällt durch ihre typischen Zwiebeltürme inmitten der kambodschanischen Hafenstadt auf.",
+                  "category": "landmark",
+                  "coords": [
+                        103.50785,
+                        10.634768
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Dieses christliche Gotteshaus dient der lokalen katholischen Gemeinde als ruhiger Ort der Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        103.516745,
+                        10.636172
+                  ]
+            },
+            {
+                  "name": "Yeay Mao",
+                  "text": "Ein lokaler Schrein, der der verehrten Geistfigur Yeay Mao gewidmet ist, die Reisende und Fischer beschützt.",
+                  "category": "religious",
+                  "coords": [
+                        103.526229,
+                        10.6419
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses Sihanoukville",
+                  "text": "Ein schlichter Königreichssaal, in dem die Zeugen Jehovas in Sihanoukville ihre Versammlungen abhalten.",
+                  "category": "religious",
+                  "coords": [
+                        103.540586,
+                        10.616328
+                  ]
+            },
+            {
+                  "name": "វត្ត​ឥន្ទញ្ញាណ ហៅ វត្ត​ក្រោម",
+                  "text": "Dieser buddhistische Tempel liegt auf einem Hügel und bietet bunte Fresken sowie einen Blick über die Hafenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.503553,
+                        10.622176
+                  ]
+            },
+            {
+                  "name": "វត្តជោតញ្ញាណ",
+                  "text": "Eine traditionelle buddhistische Stätte, deren pagodenartige Gebäude im typischen Khmer-Stil verziert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.521981,
+                        10.634866
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ពាណិជ្ជកម្ម",
+                  "text": "Phsar Benetchekam ist ein lebhafter traditioneller Markt, auf dem frische lokale Produkte und handwerkliche Waren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        103.521191,
+                        10.62526
+                  ]
+            },
+            {
+                  "name": "មជ្ឈមណ្ឌល​ពាណិជ្ជកម្ម ក្រុងព្រះសីហនុ",
+                  "text": "Das Sihanoukville Trade Center ist ein modernes Einkaufszentrum, das eine große Auswahl an Konsumgütern in der Hafenstadt anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.532078,
+                        10.623044
+                  ]
+            },
+            {
+                  "name": "Phsar Leur",
+                  "text": "Phsar Leur ist der größte traditionelle obere Markt der Stadt, bekannt für sein dichtes Labyrinth aus Ständen und frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        103.530037,
+                        10.622721
+                  ]
+            },
+            {
+                  "name": "ច្រករបៀងមាត់សមុទ្រ",
+                  "text": "Das Seaside Plaza ist eine kommerzielle Marktfläche nahe der Küste, die Einzelhandel in maritimem Ambiente bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.517791,
+                        10.604658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "កោះពស់",
+                  "text": "Egy kilátópont, ahonnan széles panoráma nyílik Sihanoukville öblére és a közeli Koh Puos szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        103.485812,
+                        10.629006
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "Az arany oroszlánszobor egy feltűnő nevezetesség és forgalmi csomópont Sihanoukville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "A betontömbökből épült emlékmű a jellegzetes szocialista esztétikával Kambodzsa és Vietnám katonai szövetségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "A vízibivalyt ábrázoló szobor a régió mezőgazdasági hagyományai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        103.499525,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "Egy lenyűgöző kőből faragott sárkányfej, amelyet gyakran csodálnak az ázsiai építészet díszítőelemeként.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "Egy hal formájú szobor, amely a kikötőváros tengeri halászathoz és óceánvédelemhez fűződő kapcsolatát szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "A híres történelmi Preah Vihear-templom részletes, kőből épült miniatűr másolata egy emelvényen.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Antonov 24B Plane",
+                  "text": "Egy kiszolgált szovjet Antonov An-24B szállítórepülőgép, amely ma statikus kiállítási tárgyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        103.509123,
+                        10.637803
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "A két impozáns arany oroszlánszobor Sihanoukville központjának legfontosabb körforgalmát uralja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "Prek Treng Beach",
+                  "text": "Egy csendes, a Sihanoukville Különleges Gazdasági Övezet szélén elhelyezkedő homokos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        103.541631,
+                        10.684107
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ជ័យជំនះ",
+                  "text": "Ez a kikötőhöz közeli nyüzsgő part népszerű a helyiek körében a számos kis bárja miatt.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500364,
+                        10.635673
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ហាវៃ",
+                  "text": "Egy fenyőfákkal szegélyezett homokos strand, amely árnyékos menedéket nyújt a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496823,
+                        10.629294
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរលំហែកាយ",
+                  "text": "Egy keskeny, békés partszakasz puha homokkal, távol a nagy turistatömegektől.",
+                  "category": "recreational",
+                  "coords": [
+                        103.494036,
+                        10.626052
+                  ]
+            },
+            {
+                  "name": "Ratanak Beach",
+                  "text": "A Ratanak partszakasz lassan mélyülő, meleg, türkizkék vizével hívogatja a fürdőzőket.",
+                  "category": "recreational",
+                  "coords": [
+                        103.490983,
+                        10.621749
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "Ezen a partszakaszon a látogatók vadon élő majmokat figyelhetnek meg, amelyek gyakran élelem után kutatva mászkálnak a fákon.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497314,
+                        10.620383
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ឯករាជ្យ",
+                  "text": "Ez a kiterjedt strand az öböl végén magasodó, nagy múltú Independence Hotelről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497486,
+                        10.614845
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "A tengerpart egy sziklás szakasza, amely a Sokha-part finom homokos öblébe olvad.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523025,
+                        10.60582
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​សុខា",
+                  "text": "Ez a széles privát strand egy luxusüdülőhelyhez tartozik, ahol a finom homok ápolt kertekkel találkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510951,
+                        10.608818
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "A kis ortodox templom jellegzetes hagymakupoláival tűnik ki a kambodzsai kikötővárosból.",
+                  "category": "landmark",
+                  "coords": [
+                        103.50785,
+                        10.634768
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Ez a keresztény templom a helyi katolikus közösség csendes imádkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.516745,
+                        10.636172
+                  ]
+            },
+            {
+                  "name": "Yeay Mao",
+                  "text": "Egy helyi szentély, amelyet a tisztelt Yeay Mao szellemfigurának szenteltek, aki az utazókat és a halászokat védi.",
+                  "category": "religious",
+                  "coords": [
+                        103.526229,
+                        10.6419
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses Sihanoukville",
+                  "text": "Egy egyszerű Királyság-terem, ahol a sihanoukville-i Jehova Tanúi tartják összejöveteleiket.",
+                  "category": "religious",
+                  "coords": [
+                        103.540586,
+                        10.616328
+                  ]
+            },
+            {
+                  "name": "វត្ត​ឥន្ទញ្ញាណ ហៅ វត្ត​ក្រោម",
+                  "text": "Ez a dombtetőn épült buddhista templom színes freskókkal és a kikötővárosra nyíló kilátással büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.503553,
+                        10.622176
+                  ]
+            },
+            {
+                  "name": "វត្តជោតញ្ញាណ",
+                  "text": "Egy hagyományos buddhista szentély, amelynek pagodaszerű épületeit jellegzetes khmer stílusú díszítések borítják.",
+                  "category": "landmark",
+                  "coords": [
+                        103.521981,
+                        10.634866
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ពាណិជ្ជកម្ម",
+                  "text": "A Phsar Benetchekam egy nyüzsgő hagyományos piac, ahol friss helyi termékeket és kézműves árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.521191,
+                        10.62526
+                  ]
+            },
+            {
+                  "name": "មជ្ឈមណ្ឌល​ពាណិជ្ជកម្ម ក្រុងព្រះសីហនុ",
+                  "text": "A Sihanoukville Trade Center egy modern bevásárlóközpont, amely fogyasztási cikkek széles választékát kínálja a kikötővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        103.532078,
+                        10.623044
+                  ]
+            },
+            {
+                  "name": "Phsar Leur",
+                  "text": "A Phsar Leur a város legnagyobb hagyományos felső piaca, amely a standok és a friss élelmiszerek sűrű útvesztőjéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        103.530037,
+                        10.622721
+                  ]
+            },
+            {
+                  "name": "ច្រករបៀងមាត់សមុទ្រ",
+                  "text": "A Seaside Plaza egy tengerparthoz közeli kereskedelmi piactér, amely tengeri hangulatú kiskereskedelmi lehetőségeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        103.517791,
+                        10.604658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "កោះពស់",
+                  "text": "Un punct de observație care oferă o priveliște vastă asupra golfului Sihanoukville și a insulei din apropiere, Koh Puos.",
+                  "category": "natural",
+                  "coords": [
+                        103.485812,
+                        10.629006
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "Statuia leului de aur stă ca un punct de reper izbitor și intersecție centrală în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "Monumentul din beton, cu o estetică tipică socialistă, comemorează alianța militară dintre Cambodgia și Vietnam.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "Această sculptură a unui bivol de apă aduce un omagiu tradiției agricole a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        103.499525,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "Un impresionant cap de dragon sculptat în piatră, adesea admirat ca element decorativ în arhitectura asiatică.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "O sculptură în formă de pește care simbolizează legătura orașului-port cu pescuitul și protecția marină.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "O replică miniaturală detaliată a faimosului templu istoric Preah Vihear, așezată pe un piedestal de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Antonov 24B Plane",
+                  "text": "O aeronavă de transport sovietică retrasă Antonov An-24B, care astăzi servește ca piesă de expoziție statică.",
+                  "category": "historical",
+                  "coords": [
+                        103.509123,
+                        10.637803
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "Cele două statui impunătoare de lei aurii domină cel mai important sens giratoriu din centrul Sihanoukville.",
+                  "category": "landmark",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "Prek Treng Beach",
+                  "text": "O plajă de nisip liniștită, situată puțin în afara orașului, la marginea Zonei Economice Speciale Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.541631,
+                        10.684107
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ជ័យជំនះ",
+                  "text": "Această plajă animată de lângă port este populară printre localnici datorită numeroaselor sale baruri mici.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500364,
+                        10.635673
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ហាវៃ",
+                  "text": "O plajă de nisip mărginită de conifere, care oferă un refugiu umbrit la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496823,
+                        10.629294
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរលំហែកាយ",
+                  "text": "O fâșie de coastă îngustă și pașnică, cu nisip moale, departe de aglomerația mare a turiștilor.",
+                  "category": "recreational",
+                  "coords": [
+                        103.494036,
+                        10.626052
+                  ]
+            },
+            {
+                  "name": "Ratanak Beach",
+                  "text": "Secțiunea de plajă Ratanak impresionează prin intrarea lină în marea caldă și turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        103.490983,
+                        10.621749
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "Pe această porțiune de coastă, vizitatorii pot observa maimuțe sălbatice cățărându-se adesea în copaci în căutare de hrană.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497314,
+                        10.620383
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ឯករាជ្យ",
+                  "text": "Această plajă extinsă este cunoscută pentru vechiul și prestigiosul Hotel Independence care tronează la capătul golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497486,
+                        10.614845
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "O secțiune stâncoasă a coastei care se prelungește în golful cu nisip fin al plajei Sokha.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523025,
+                        10.60582
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​សុខា",
+                  "text": "Plaja largă privată aparține unei stațiuni de lux, unde nisipul fin se întâlnește cu grădini bine îngrijite.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510951,
+                        10.608818
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "Mica biserică ortodoxă iese în evidență prin turlele sale tipice în formă de ceapă în mijlocul orașului-port cambodgian.",
+                  "category": "landmark",
+                  "coords": [
+                        103.50785,
+                        10.634768
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Acest lăcaș de cult creștin servește comunității catolice locale ca un loc liniștit de reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        103.516745,
+                        10.636172
+                  ]
+            },
+            {
+                  "name": "Yeay Mao",
+                  "text": "Un altar local dedicat veneratului spirit Yeay Mao, care protejează călătorii și pescarii.",
+                  "category": "religious",
+                  "coords": [
+                        103.526229,
+                        10.6419
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses Sihanoukville",
+                  "text": "O sală simplă a Regatului unde Martorii lui Iehova din Sihanoukville își țin adunările.",
+                  "category": "religious",
+                  "coords": [
+                        103.540586,
+                        10.616328
+                  ]
+            },
+            {
+                  "name": "វត្ត​ឥន្ទញ្ញាណ ហៅ វត្ត​ក្រោម",
+                  "text": "Acest templu budist este situat pe un deal și oferă fresce colorate, precum și o vedere asupra orașului-port.",
+                  "category": "landmark",
+                  "coords": [
+                        103.503553,
+                        10.622176
+                  ]
+            },
+            {
+                  "name": "វត្តជោតញ្ញាណ",
+                  "text": "Un sit budist tradițional, ale cărui clădiri în formă de pagodă sunt decorate în stilul tipic khmer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.521981,
+                        10.634866
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ពាណិជ្ជកម្ម",
+                  "text": "Phsar Benetchekam este o piață tradițională plină de viață, unde se comercializează produse locale proaspete și mărfuri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.521191,
+                        10.62526
+                  ]
+            },
+            {
+                  "name": "មជ្ឈមណ្ឌល​ពាណិជ្ជកម្ម ក្រុងព្រះសីហនុ",
+                  "text": "Sihanoukville Trade Center este un hub comercial modern care oferă o gamă largă de bunuri de larg consum în orașul-port.",
+                  "category": "cultural",
+                  "coords": [
+                        103.532078,
+                        10.623044
+                  ]
+            },
+            {
+                  "name": "Phsar Leur",
+                  "text": "Phsar Leur este cea mai mare piață tradițională de sus a orașului, cunoscută pentru labirintul său dens de tarabe și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        103.530037,
+                        10.622721
+                  ]
+            },
+            {
+                  "name": "ច្រករបៀងមាត់សមុទ្រ",
+                  "text": "Seaside Plaza este un spațiu comercial de piață situat aproape de coastă, oferind comerț cu amănuntul într-o ambianță maritimă.",
+                  "category": "cultural",
+                  "coords": [
+                        103.517791,
+                        10.604658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koh puos",
+                  "text": "A viewpoint that opens up expansive views across the bay of Sihanoukville and the offshore island of Koh Puos.",
+                  "category": "natural",
+                  "coords": [
+                        103.485812,
+                        10.629006
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "The golden lion statue stands as a striking landmark and central traffic roundabout in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "The concrete monument commemorates the military alliance between Cambodia and Vietnam in a typical socialist aesthetic.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "This sculpture of a water buffalo pays tribute to the agricultural tradition of the region.",
+                  "category": "historical",
+                  "coords": [
+                        103.499525,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "An impressive stone dragon head often admired as a decorative element of Asian architecture.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "A fish-shaped sculpture symbolizing the port city's connection to marine fishing and ocean conservation.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "A detailed miniature replica of the famous historical Preah Vihear temple set on a stone pedestal.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Antonov 24B Plane",
+                  "text": "A retired Soviet Antonov An-24B transport aircraft that today serves as a static display piece.",
+                  "category": "historical",
+                  "coords": [
+                        103.509123,
+                        10.637803
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "The two imposing golden lion statues dominate the most important traffic roundabout in the center of Sihanoukville.",
+                  "category": "landmark",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "Prek Treng Beach",
+                  "text": "A quiet sandy beach located somewhat outside the city at the edge of the Sihanoukville Special Economic Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        103.541631,
+                        10.684107
+                  ]
+            },
+            {
+                  "name": "Victory Beach",
+                  "text": "This lively beach near the port is popular among locals for its numerous small bars.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500364,
+                        10.635673
+                  ]
+            },
+            {
+                  "name": "Hawaii Beach",
+                  "text": "A pine-fringed sandy beach that provides a shaded seaside retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496823,
+                        10.629294
+                  ]
+            },
+            {
+                  "name": "Lomherkay Beach",
+                  "text": "A narrow, peaceful stretch of coastline with soft sand, far from the large tourist crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        103.494036,
+                        10.626052
+                  ]
+            },
+            {
+                  "name": "Ratanak Beach",
+                  "text": "The Ratanak beach section impresses with its shallow entry into the warm, turquoise sea.",
+                  "category": "recreational",
+                  "coords": [
+                        103.490983,
+                        10.621749
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "In this coastal area, visitors can observe free-living monkeys that often climb through the trees searching for food.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497314,
+                        10.620383
+                  ]
+            },
+            {
+                  "name": "Independence Beach",
+                  "text": "This expansive beach is known for the time-honored Independence Hotel perched at the end of the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497486,
+                        10.614845
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "A rocky section of the coastline that transitions into the fine-sandy bay of Sokha Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523025,
+                        10.60582
+                  ]
+            },
+            {
+                  "name": "Sokha Beach",
+                  "text": "The wide private beach belongs to a luxury resort, where fine sand meets manicured resort grounds.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510951,
+                        10.608818
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "The small Orthodox church stands out with its typical onion domes in the midst of the Cambodian port city.",
+                  "category": "landmark",
+                  "coords": [
+                        103.50785,
+                        10.634768
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "This Christian place of worship serves the local Catholic community as a quiet space for reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        103.516745,
+                        10.636172
+                  ]
+            },
+            {
+                  "name": "Yeay Mao",
+                  "text": "A local shrine dedicated to the revered spirit figure Yeay Mao, who protects travelers and fishermen.",
+                  "category": "religious",
+                  "coords": [
+                        103.526229,
+                        10.6419
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses Sihanoukville",
+                  "text": "A simple Kingdom Hall where Jehovah's Witnesses in Sihanoukville hold their meetings.",
+                  "category": "religious",
+                  "coords": [
+                        103.540586,
+                        10.616328
+                  ]
+            },
+            {
+                  "name": "Wat Krom",
+                  "text": "This Buddhist temple is situated on a hill, featuring colorful frescoes and views over the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        103.503553,
+                        10.622176
+                  ]
+            },
+            {
+                  "name": "Wat Chhotnhean",
+                  "text": "A traditional Buddhist site whose pagoda-like buildings are decorated in typical Khmer style.",
+                  "category": "landmark",
+                  "coords": [
+                        103.521981,
+                        10.634866
+                  ]
+            },
+            {
+                  "name": "Phsar Benetchekam",
+                  "text": "Phsar Benetchekam is a bustling traditional market trading in fresh local produce and artisan goods.",
+                  "category": "cultural",
+                  "coords": [
+                        103.521191,
+                        10.62526
+                  ]
+            },
+            {
+                  "name": "Sihanoukville Trade Center",
+                  "text": "The Sihanoukville Trade Center is a modern commercial hub offering a wide range of consumer goods in the port city.",
+                  "category": "cultural",
+                  "coords": [
+                        103.532078,
+                        10.623044
+                  ]
+            },
+            {
+                  "name": "Phsar Leur",
+                  "text": "Phsar Leur is the city's largest traditional upper market, known for its dense maze of stalls and fresh foods.",
+                  "category": "cultural",
+                  "coords": [
+                        103.530037,
+                        10.622721
+                  ]
+            },
+            {
+                  "name": "Seaside Plaza",
+                  "text": "Seaside Plaza is a commercial market space near the coast, offering retail shopping in a maritime ambiance.",
+                  "category": "cultural",
+                  "coords": [
+                        103.517791,
+                        10.604658
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KH-18",
     coords: [103.5042, 10.6358],
@@ -51,7 +1068,1312 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "phnom-penh-autonomous-port-economic-v2",
+    id: "phnom-penh-autonomous-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Joseph Catholic Church",
+                  "text": "Eine katholische Kirche nördlich des Stadtzentrums, die für die christliche Gemeinde in Phnom Penh errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        104.917803,
+                        11.592042
+                  ]
+            },
+            {
+                  "name": "Dubai-Moschee",
+                  "text": "Eine markante Moschee in Phnom Penh mit traditioneller islamischer Architektur, ein Geschenk der Familie Alserkal aus den VAE.",
+                  "category": "religious",
+                  "coords": [
+                        104.914287,
+                        11.579363
+                  ]
+            },
+            {
+                  "name": "មជ្ឈមណ្ឌលសិល្បៈ និងសិប្បកម្មវត្តភ្នំ",
+                  "text": "Ein Zentrum in der Nähe des autonomen Hafens, in dem lokale kambodschanische Kunst und traditionelles Handwerk ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        104.922826,
+                        11.576423
+                  ]
+            },
+            {
+                  "name": "Art Bar",
+                  "text": "Ein Kunstzentrum und sozialer Treffpunkt in der Nähe des autonomen Hafens von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917901,
+                        11.587891
+                  ]
+            },
+            {
+                  "name": "Kok Thlok Theatre",
+                  "text": "Ein lokales Theater, das sich auf traditionelles kambodschanisches Schattenspiel und klassische Aufführungen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.919323,
+                        11.576487
+                  ]
+            },
+            {
+                  "name": "លោកតាដំបងក្រញូង",
+                  "text": "Ein traditioneller animistischer Schrein in der Nähe des Hafens, der der verehrten Figur Louk Ta Dambang Kranhung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        104.908836,
+                        11.602358
+                  ]
+            },
+            {
+                  "name": "Russey Keo Baptist Church",
+                  "text": "Ein baptistisches christliches Gotteshaus im Bezirk Russey Keo in der Nähe des Hafens.",
+                  "category": "religious",
+                  "coords": [
+                        104.915561,
+                        11.61167
+                  ]
+            },
+            {
+                  "name": "Former Chapel of the Sisters of Providence",
+                  "text": "Eine historische ehemalige katholische Kapelle in der Nähe des autonomen Hafens, die mit den Vorsehungsschwestern verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        104.919497,
+                        11.584681
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​បឹង​បៃតង​",
+                  "text": "Dieser lokale Markt dient der Wirtschaftszone am autonomen Hafen von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.86261,
+                        11.589978
+                  ]
+            },
+            {
+                  "name": "ផ្សារតូច",
+                  "text": "Phsar Toch ist ein kommerzieller Markt, der im Wirtschaftsgebiet des autonomen Hafens von Phnom Penh betrieben wird.",
+                  "category": "cultural",
+                  "coords": [
+                        104.914578,
+                        11.587673
+                  ]
+            },
+            {
+                  "name": "ផ្សារធំ​ទួលសង្កែ",
+                  "text": "Dieser geschäftige Markt ist ein Handelszentrum in der Wirtschaftszone des autonomen Hafens von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.908143,
+                        11.591289
+                  ]
+            },
+            {
+                  "name": "Phum Ahha Night Market (closed)",
+                  "text": "Dieser einst belebte Nachtmarkt in der Wirtschaftszone des autonomen Hafens von Phnom Penh ist mittlerweile dauerhaft geschlossen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917742,
+                        11.60555
+                  ]
+            },
+            {
+                  "name": "Global House Cambodia",
+                  "text": "Diese kommerzielle Markteinrichtung bietet Einzelhandelsmöglichkeiten im Wirtschaftsviertel des autonomen Hafens von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.876631,
+                        11.595928
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ទំនប់",
+                  "text": "Der Tomnop-Markt fungiert als lokaler Einzelhandelsmarkt im Wirtschaftsgebiet des autonomen Hafens von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.898006,
+                        11.590739
+                  ]
+            },
+            {
+                  "name": "ផ្សារជ័យជំនះ",
+                  "text": "Dieser Handelsmarkt bedient die Gemeinde rund um den Wirtschaftssektor des autonomen Hafens von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.897365,
+                        11.591668
+                  ]
+            },
+            {
+                  "name": "Art's Container",
+                  "text": "Dieser einzigartige Markt besteht aus umgebauten Schiffscontainern in der Wirtschaftszone des autonomen Hafens von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.910999,
+                        11.580376
+                  ]
+            },
+            {
+                  "name": "Christian Church",
+                  "text": "Diese lokale christliche Kirche dient der Gemeinde im Wirtschaftsgebiet des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92338,
+                        11.597186
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Dieses christliche Versammlungshaus der Heiligen der Letzten Tage befindet sich in der Wirtschaftszone des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.912334,
+                        11.594736
+                  ]
+            },
+            {
+                  "name": "Jesus Village Church",
+                  "text": "Die Jesus Village Church ist ein christliches Gotteshaus im Wirtschaftsviertel des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910433,
+                        11.587119
+                  ]
+            },
+            {
+                  "name": "City Light Church",
+                  "text": "Diese christliche Stätte, bekannt als City Light Church, operiert im Wirtschaftssektor des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.903717,
+                        11.600847
+                  ]
+            },
+            {
+                  "name": "God's Family Church",
+                  "text": "In der God's Family Church in der Wirtschaftszone des autonomen Hafens von Phnom Penh versammelt sich eine lokale christliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        104.901157,
+                        11.599174
+                  ]
+            },
+            {
+                  "name": "Translate office of Jehovah’s Witnesses in Cambodia",
+                  "text": "Dieses Verwaltungs- und Übersetzungsbüro der christlichen Zeugen Jehovas befindet sich in der Nähe des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.891841,
+                        11.580789
+                  ]
+            },
+            {
+                  "name": "Phnom Penh House of Prayer (PPHOP)",
+                  "text": "PPHOP dient als engagiertes christliches Gebetshaus im Wirtschaftsgebiet des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.887688,
+                        11.58028
+                  ]
+            },
+            {
+                  "name": "វត្ត​ក្រសាំង​មាន​ជ័យ​",
+                  "text": "Diese buddhistische Pagode bietet einen Raum für spirituelle Besinnung im Wirtschaftsviertel des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.876911,
+                        11.584037
+                  ]
+            },
+            {
+                  "name": "វិមាន លោក យាយ ម៉ៅ",
+                  "text": "Diese taoistische religiöse Stätte ist ein spirituelles Wahrzeichen in der Wirtschaftszone des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92348,
+                        11.602791
+                  ]
+            },
+            {
+                  "name": "វត្តទួលសុវណ្ណរាមហៅវត្តទួលសង្កែ",
+                  "text": "Dieser buddhistische Tempelkomplex, auch bekannt als Toul Sangke Pagoda, liegt im Wirtschaftsgebiet des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910924,
+                        11.589969
+                  ]
+            },
+            {
+                  "name": "វត្តទូលសន្តិវ័ន ហៅ ទួលអស់លោក",
+                  "text": "Diese aktive buddhistische Stätte, auch Tuol Orh Louk Pagode genannt, dient den Gläubigen in der autonomen Hafenzone von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.906475,
+                        11.610741
+                  ]
+            },
+            {
+                  "name": "វត្តឧត្តរាវតី",
+                  "text": "Die Otaravatey-Pagode ist ein buddhistischer Klosterkomplex, der im Wirtschaftssektor des autonomen Hafens von Phnom Penh errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913409,
+                        11.613721
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall of Jehova's Witnesses",
+                  "text": "Dieser christliche Königreichssaal bietet Platz für Gottesdienste in der Nähe des Wirtschaftsgebiets des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.898063,
+                        11.605622
+                  ]
+            },
+            {
+                  "name": "វត្ត​កោះពោធីវង្ស",
+                  "text": "Gläubige besuchen diese buddhistische Pagode im Herzen des Wirtschaftsviertels des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.884601,
+                        11.593109
+                  ]
+            },
+            {
+                  "name": "វត្តញាណរង្សី",
+                  "text": "Die Nhien-Reangsey-Pagode fungiert als ruhiges buddhistisches Heiligtum in der geschäftigen Wirtschaftszone des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.900856,
+                        11.590086
+                  ]
+            },
+            {
+                  "name": "វត្ត​ព្រះពុទ្ធ​​ឃោសា​ចារ្យ​",
+                  "text": "Diese etablierte buddhistische Stätte bietet religiöse Lehren in der Nähe des Wirtschaftszentrums des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919376,
+                        11.5826
+                  ]
+            },
+            {
+                  "name": "វត្តវិមានតេជៈ ហៅ វត្តស្រះចក",
+                  "text": "Diese traditionelle buddhistische Pagode ist ein markantes religiöses Wahrzeichen im Wirtschaftssektor des autonomen Hafens von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919035,
+                        11.579416
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "Dieser Themenpark bietet Freizeitamüsierfahrten in der Wirtschaftszone des autonomen Hafens von Phnom Penh.",
+                  "category": "recreational",
+                  "coords": [
+                        104.907693,
+                        11.576154
+                  ]
+            },
+            {
+                  "name": "Kids fun park",
+                  "text": "Dieser Kinderthemenpark bietet familienfreundliche Attraktionen im Wirtschaftsviertel des autonomen Hafens von Phnom Penh.",
+                  "category": "recreational",
+                  "coords": [
+                        104.925288,
+                        11.589988
+                  ]
+            },
+            {
+                  "name": "Phnom Penh Fantasy World",
+                  "text": "Phnom Penh Fantasy World ist eine weitläufige Themenpark-Anlage im Wirtschaftssektor des autonomen Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        104.926712,
+                        11.595393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Joseph Catholic Church",
+                  "text": "A városközponttól északra található katolikus templom, amelyet a phnompeni keresztény közösség számára alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        104.917803,
+                        11.592042
+                  ]
+            },
+            {
+                  "name": "Al-Serkal Mosque",
+                  "text": "Egy kiemelkedő phnompeni mecset hagyományos iszlám építészettel, amelyet az egyesült arab emírségekbeli Alserkal család ajándékozott.",
+                  "category": "religious",
+                  "coords": [
+                        104.914287,
+                        11.579363
+                  ]
+            },
+            {
+                  "name": "មជ្ឈមណ្ឌលសិល្បៈ និងសិប្បកម្មវត្តភ្នំ",
+                  "text": "Az autonóm kikötő közelében lévő központ, amely a helyi kambodzsai művészetet és a hagyományos kézműves termékeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        104.922826,
+                        11.576423
+                  ]
+            },
+            {
+                  "name": "Art Bar",
+                  "text": "Egy művészeti központ és közösségi találkozóhely a phnompeni autonóm kikötő közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917901,
+                        11.587891
+                  ]
+            },
+            {
+                  "name": "Kok Thlok Theatre",
+                  "text": "Egy helyi színház, amely a hagyományos kambodzsai árnyjátékra és a klasszikus előadásokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        104.919323,
+                        11.576487
+                  ]
+            },
+            {
+                  "name": "លោកតាដំបងក្រញូង",
+                  "text": "Egy hagyományos animista szentély a kikötő közelében, amelyet a tisztelt Louk Ta Dambang Kranhung alakjának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        104.908836,
+                        11.602358
+                  ]
+            },
+            {
+                  "name": "Russey Keo Baptist Church",
+                  "text": "Egy baptista keresztény istentiszteleti hely a Russey Keo kerületben, a kikötő közelében.",
+                  "category": "religious",
+                  "coords": [
+                        104.915561,
+                        11.61167
+                  ]
+            },
+            {
+                  "name": "Former Chapel of the Sisters of Providence",
+                  "text": "Egy történelmi egykori katolikus kápolna az autonóm kikötő közelében, amely a Gondviselés Nővéreihez kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        104.919497,
+                        11.584681
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​បឹង​បៃតង​",
+                  "text": "Ez a helyi piac a phnompeni autonóm kikötő gazdasági övezetét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.86261,
+                        11.589978
+                  ]
+            },
+            {
+                  "name": "ផ្សារតូច",
+                  "text": "A Phsar Toch egy kereskedelmi piac, amely a phnompeni autonóm kikötő gazdasági területén működik.",
+                  "category": "cultural",
+                  "coords": [
+                        104.914578,
+                        11.587673
+                  ]
+            },
+            {
+                  "name": "ផ្សារធំ​ទួលសង្កែ",
+                  "text": "Ez a nyüzsgő piac a phnompeni autonóm kikötő gazdasági övezetének egyik kereskedelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        104.908143,
+                        11.591289
+                  ]
+            },
+            {
+                  "name": "Phum Ahha Night Market (closed)",
+                  "text": "Az egykor nyüzsgő éjszakai piac a phnompeni autonóm kikötő gazdasági övezetében ma már zárva tart.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917742,
+                        11.60555
+                  ]
+            },
+            {
+                  "name": "Global House Cambodia",
+                  "text": "Ez a kereskedelmi piaci létesítmény kiskereskedelmi lehetőségeket kínál a phnompeni autonóm kikötő gazdasági negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.876631,
+                        11.595928
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ទំនប់",
+                  "text": "A Tomnop piac helyi kiskereskedelmi piacként működik a phnompeni autonóm kikötő gazdasági övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.898006,
+                        11.590739
+                  ]
+            },
+            {
+                  "name": "ផ្សារជ័យជំនះ",
+                  "text": "Ez a kereskedelmi piac a phnompeni autonóm kikötő gazdasági szektora körüli közösséget szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.897365,
+                        11.591668
+                  ]
+            },
+            {
+                  "name": "Art's Container",
+                  "text": "Ez az egyedülálló piac újrahasznosított szállítókonténerekből áll, és a phnompeni autonóm kikötő gazdasági övezetében található.",
+                  "category": "cultural",
+                  "coords": [
+                        104.910999,
+                        11.580376
+                  ]
+            },
+            {
+                  "name": "Christian Church",
+                  "text": "Ez a helyi keresztény templom a phnompeni autonóm kikötő gazdasági övezetében lévő gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92338,
+                        11.597186
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Az Utolsó Napi Szentek ezen keresztény gyülekezeti háza a phnompeni autonóm kikötő gazdasági övezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        104.912334,
+                        11.594736
+                  ]
+            },
+            {
+                  "name": "Jesus Village Church",
+                  "text": "A Jesus Village Church egy keresztény istentiszteleti hely, amelyet a phnompeni autonóm kikötő gazdasági negyedében hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910433,
+                        11.587119
+                  ]
+            },
+            {
+                  "name": "City Light Church",
+                  "text": "Ez a City Light Church néven ismert keresztény helyszín a phnompeni autonóm kikötő gazdasági szektorában működik.",
+                  "category": "landmark",
+                  "coords": [
+                        104.903717,
+                        11.600847
+                  ]
+            },
+            {
+                  "name": "God's Family Church",
+                  "text": "A helyi keresztény gyülekezet a God's Family Church-ben gyűlik össze a phnompeni autonóm kikötő gazdasági övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.901157,
+                        11.599174
+                  ]
+            },
+            {
+                  "name": "Translate office of Jehovah’s Witnesses in Cambodia",
+                  "text": "A keresztény Jehova Tanúi ezen adminisztratív és fordítóirodája a phnompeni autonóm kikötő közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        104.891841,
+                        11.580789
+                  ]
+            },
+            {
+                  "name": "Phnom Penh House of Prayer (PPHOP)",
+                  "text": "A PPHOP dedikált keresztény imaházként szolgál a phnompeni autonóm kikötő gazdasági övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.887688,
+                        11.58028
+                  ]
+            },
+            {
+                  "name": "វត្ត​ក្រសាំង​មាន​ជ័យ​",
+                  "text": "Ez a buddhista pagoda teret kínál a spirituális elmélkedésre a phnompeni autonóm kikötő gazdasági negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.876911,
+                        11.584037
+                  ]
+            },
+            {
+                  "name": "វិមាន លោក យាយ ម៉ៅ",
+                  "text": "Ez a taoista vallási helyszín egy spirituális nevezetesség a phnompeni autonóm kikötő gazdasági övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92348,
+                        11.602791
+                  ]
+            },
+            {
+                  "name": "វត្តទួលសុវណ្ណរាមហៅវត្តទួលសង្កែ",
+                  "text": "A Toul Sangke pagodaként is ismert buddhista templomegyüttes a phnompeni autonóm kikötő gazdasági övezetében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910924,
+                        11.589969
+                  ]
+            },
+            {
+                  "name": "វត្តទូលសន្តិវ័ន ហៅ ទួលអស់លោក",
+                  "text": "Ez az aktív buddhista helyszín, amelyet Tuol Orh Louk pagodának is neveznek, a phnompeni autonóm kikötői övezet hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        104.906475,
+                        11.610741
+                  ]
+            },
+            {
+                  "name": "វត្តឧត្តរាវតី",
+                  "text": "Az Otaravatey Pagoda egy buddhista kolostoregyüttes, amelyet a phnompeni autonóm kikötő gazdasági szektorában hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913409,
+                        11.613721
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall of Jehova's Witnesses",
+                  "text": "Ez a keresztény Királyság-terem vallási szertartásoknak ad otthont a phnompeni autonóm kikötő gazdasági övezetének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.898063,
+                        11.605622
+                  ]
+            },
+            {
+                  "name": "វត្ត​កោះពោធីវង្ស",
+                  "text": "A hívők a phnompeni autonóm kikötő gazdasági negyedének szívében található buddhista pagodát látogatják.",
+                  "category": "landmark",
+                  "coords": [
+                        104.884601,
+                        11.593109
+                  ]
+            },
+            {
+                  "name": "វត្តញាណរង្សី",
+                  "text": "A Nhien Reangsey pagoda nyugodt buddhista szentélyként működik a nyüzsgő phnompeni autonóm kikötő gazdasági övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.900856,
+                        11.590086
+                  ]
+            },
+            {
+                  "name": "វត្ត​ព្រះពុទ្ធ​​ឃោសា​ចារ្យ​",
+                  "text": "Ez a jól bevált buddhista helyszín vallási tanításokat nyújt a phnompeni autonóm kikötő gazdasági központjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919376,
+                        11.5826
+                  ]
+            },
+            {
+                  "name": "វត្តវិមានតេជៈ ហៅ វត្តស្រះចក",
+                  "text": "Ez a hagyományos buddhista pagoda a phnompeni autonóm kikötő gazdasági szektorának kiemelkedő vallási nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919035,
+                        11.579416
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "Ez a vidámpark szórakoztató attrakciókat kínál a phnompeni autonóm kikötő gazdasági övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        104.907693,
+                        11.576154
+                  ]
+            },
+            {
+                  "name": "Kids fun park",
+                  "text": "Ez a gyermek vidámpark családbarát látványosságokat kínál a phnompeni autonóm kikötő gazdasági negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        104.925288,
+                        11.589988
+                  ]
+            },
+            {
+                  "name": "Phnom Penh Fantasy World",
+                  "text": "A Phnom Penh Fantasy World egy kiterjedt vidámparki létesítmény az autonóm kikötő gazdasági szektorában.",
+                  "category": "recreational",
+                  "coords": [
+                        104.926712,
+                        11.595393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Joseph Catholic Church",
+                  "text": "O biserică catolică situată la nord de centrul orașului, înființată pentru a deservi comunitatea creștină din Phnom Penh.",
+                  "category": "religious",
+                  "coords": [
+                        104.917803,
+                        11.592042
+                  ]
+            },
+            {
+                  "name": "Al-Serkal Mosque",
+                  "text": "O moschee proeminentă din Phnom Penh, cu arhitectură islamică tradițională, donată de familia Alserkal din EAU.",
+                  "category": "religious",
+                  "coords": [
+                        104.914287,
+                        11.579363
+                  ]
+            },
+            {
+                  "name": "មជ្ឈមណ្ឌលសិល្បៈ និងសិប្បកម្មវត្តភ្នំ",
+                  "text": "Un centru din apropierea Portului Autonom care expune artă cambodgiană locală și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        104.922826,
+                        11.576423
+                  ]
+            },
+            {
+                  "name": "Art Bar",
+                  "text": "Un centru de artă și spațiu de socializare situat în apropierea Portului Autonom Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917901,
+                        11.587891
+                  ]
+            },
+            {
+                  "name": "Kok Thlok Theatre",
+                  "text": "Un teatru local axat pe teatrul tradițional cambodgian de umbre și spectacole clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        104.919323,
+                        11.576487
+                  ]
+            },
+            {
+                  "name": "លោកតាដំបងក្រញូង",
+                  "text": "Un altar animist tradițional situat în apropierea portului, dedicat veneratei figuri Louk Ta Dambang Kranhung.",
+                  "category": "religious",
+                  "coords": [
+                        104.908836,
+                        11.602358
+                  ]
+            },
+            {
+                  "name": "Russey Keo Baptist Church",
+                  "text": "Un lăcaș de cult creștin baptist situat în districtul Russey Keo, în apropierea portului.",
+                  "category": "religious",
+                  "coords": [
+                        104.915561,
+                        11.61167
+                  ]
+            },
+            {
+                  "name": "Former Chapel of the Sisters of Providence",
+                  "text": "O fostă capelă catolică istorică, asociată cu Surorile Providenței, în apropierea Portului Autonom.",
+                  "category": "religious",
+                  "coords": [
+                        104.919497,
+                        11.584681
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​បឹង​បៃតង​",
+                  "text": "Această piață locală deservește zona economică a portului autonom din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.86261,
+                        11.589978
+                  ]
+            },
+            {
+                  "name": "ផ្សារតូច",
+                  "text": "Phsar Toch este o piață comercială care funcționează în zona economică a portului autonom din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.914578,
+                        11.587673
+                  ]
+            },
+            {
+                  "name": "ផ្សារធំ​ទួលសង្កែ",
+                  "text": "Această piață plină de viață este un centru comercial situat în zona economică a portului autonom din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.908143,
+                        11.591289
+                  ]
+            },
+            {
+                  "name": "Phum Ahha Night Market (closed)",
+                  "text": "Fostă piață de noapte aglomerată, această locație din zona economică a portului autonom Phnom Penh este acum închisă.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917742,
+                        11.60555
+                  ]
+            },
+            {
+                  "name": "Global House Cambodia",
+                  "text": "Această facilitate comercială oferă opțiuni de vânzare cu amănuntul în cadrul districtului economic al portului autonom din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.876631,
+                        11.595928
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ទំនប់",
+                  "text": "Piața Tomnop funcționează ca o piață locală de vânzare cu amănuntul în zona economică a portului autonom din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.898006,
+                        11.590739
+                  ]
+            },
+            {
+                  "name": "ផ្សារជ័យជំនះ",
+                  "text": "Această piață comercială deservește comunitatea din jurul sectorului economic al portului autonom Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.897365,
+                        11.591668
+                  ]
+            },
+            {
+                  "name": "Art's Container",
+                  "text": "Această piață unică include containere maritime refolosite, situate în zona economică a portului autonom din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.910999,
+                        11.580376
+                  ]
+            },
+            {
+                  "name": "Christian Church",
+                  "text": "Această biserică creștină locală deservește congregația din zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92338,
+                        11.597186
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această casă de întruniri creștină a Sfinților din Zilele din Urmă este situată în zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.912334,
+                        11.594736
+                  ]
+            },
+            {
+                  "name": "Jesus Village Church",
+                  "text": "Biserica Jesus Village este un lăcaș de cult creștin înființat în districtul economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910433,
+                        11.587119
+                  ]
+            },
+            {
+                  "name": "City Light Church",
+                  "text": "Acest sit creștin, cunoscut sub numele de City Light Church, operează în sectorul economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.903717,
+                        11.600847
+                  ]
+            },
+            {
+                  "name": "God's Family Church",
+                  "text": "O congregație creștină locală se adună la God's Family Church din zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.901157,
+                        11.599174
+                  ]
+            },
+            {
+                  "name": "Translate office of Jehovah’s Witnesses in Cambodia",
+                  "text": "Acest birou administrativ și de traduceri pentru creștinii Martori ai lui Iehova este situat lângă portul autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.891841,
+                        11.580789
+                  ]
+            },
+            {
+                  "name": "Phnom Penh House of Prayer (PPHOP)",
+                  "text": "PPHOP servește ca o casă de rugăciune creștină dedicată în zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.887688,
+                        11.58028
+                  ]
+            },
+            {
+                  "name": "វត្ត​ក្រសាំង​មាន​ជ័យ​",
+                  "text": "Această pagodă budistă oferă un spațiu pentru reflecție spirituală în districtul economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.876911,
+                        11.584037
+                  ]
+            },
+            {
+                  "name": "វិមាន លោក យាយ ម៉ៅ",
+                  "text": "Acest sit religios taoist este un punct de reper spiritual situat în zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92348,
+                        11.602791
+                  ]
+            },
+            {
+                  "name": "វត្តទួលសុវណ្ណរាមហៅវត្តទួលសង្កែ",
+                  "text": "Cunoscut și sub numele de Pagoda Toul Sangke, acest complex de temple budiste se află în zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910924,
+                        11.589969
+                  ]
+            },
+            {
+                  "name": "វត្តទូលសន្តិវ័ន ហៅ ទួលអស់លោក",
+                  "text": "Acest sit budist activ, numit și Pagoda Tuol Orh Louk, deservește închinătorii din zona portului autonom Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.906475,
+                        11.610741
+                  ]
+            },
+            {
+                  "name": "វត្តឧត្តរាវតី",
+                  "text": "Pagoda Otaravatey este un complex monastic budist stabilit în sectorul economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913409,
+                        11.613721
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall of Jehova's Witnesses",
+                  "text": "Această Sală a Regatului creștină găzduiește slujbe religioase lângă zona economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.898063,
+                        11.605622
+                  ]
+            },
+            {
+                  "name": "វត្ត​កោះពោធីវង្ស",
+                  "text": "Adepții vizitează această pagodă budistă situată în inima districtului economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.884601,
+                        11.593109
+                  ]
+            },
+            {
+                  "name": "វត្តញាណរង្សី",
+                  "text": "Pagoda Nhien Reangsey funcționează ca un sanctuar budist liniștit în aglomerata zonă economică a portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.900856,
+                        11.590086
+                  ]
+            },
+            {
+                  "name": "វត្ត​ព្រះពុទ្ធ​​ឃោសា​ចារ្យ​",
+                  "text": "Acest sit budist consacrat oferă învățături religioase în apropierea centrului economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919376,
+                        11.5826
+                  ]
+            },
+            {
+                  "name": "វត្តវិមានតេជៈ ហៅ វត្តស្រះចក",
+                  "text": "Această pagodă budistă tradițională este un punct de reper religios proeminent în sectorul economic al portului autonom din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919035,
+                        11.579416
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "Acest parc tematic oferă atracții de agrement în zona economică a portului autonom din Phnom Penh.",
+                  "category": "recreational",
+                  "coords": [
+                        104.907693,
+                        11.576154
+                  ]
+            },
+            {
+                  "name": "Kids fun park",
+                  "text": "Acest parc tematic pentru copii oferă atracții potrivite pentru familii în districtul economic al portului autonom din Phnom Penh.",
+                  "category": "recreational",
+                  "coords": [
+                        104.925288,
+                        11.589988
+                  ]
+            },
+            {
+                  "name": "Phnom Penh Fantasy World",
+                  "text": "Phnom Penh Fantasy World este o facilitate extinsă de parc tematic situată în sectorul economic al portului autonom.",
+                  "category": "recreational",
+                  "coords": [
+                        104.926712,
+                        11.595393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Joseph Catholic Church",
+                  "text": "A Catholic church located north of the city center, established to serve the Christian community in Phnom Penh.",
+                  "category": "religious",
+                  "coords": [
+                        104.917803,
+                        11.592042
+                  ]
+            },
+            {
+                  "name": "Al-Serkal Mosque",
+                  "text": "A prominent mosque in Phnom Penh featuring traditional Islamic architecture, gifted by the Alserkal family from the UAE.",
+                  "category": "religious",
+                  "coords": [
+                        104.914287,
+                        11.579363
+                  ]
+            },
+            {
+                  "name": "Wat Phnom Arts and Crafts Center",
+                  "text": "A center near the Autonomous Port exhibiting local Cambodian arts and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        104.922826,
+                        11.576423
+                  ]
+            },
+            {
+                  "name": "Art Bar",
+                  "text": "An arts center and social venue located near the Phnom Penh Autonomous Port.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917901,
+                        11.587891
+                  ]
+            },
+            {
+                  "name": "Kok Thlok Theatre",
+                  "text": "A local theater venue focused on traditional Cambodian shadow puppetry and classical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        104.919323,
+                        11.576487
+                  ]
+            },
+            {
+                  "name": "Rosewood Staff Sage (Louk Ta Dambang Kranhung)",
+                  "text": "A traditional animist shrine near the port dedicated to the revered figure Louk Ta Dambang Kranhung.",
+                  "category": "religious",
+                  "coords": [
+                        104.908836,
+                        11.602358
+                  ]
+            },
+            {
+                  "name": "Russey Keo Baptist Church",
+                  "text": "A Baptist Christian place of worship located in the Russey Keo district near the port.",
+                  "category": "religious",
+                  "coords": [
+                        104.915561,
+                        11.61167
+                  ]
+            },
+            {
+                  "name": "Former Chapel of the Sisters of Providence",
+                  "text": "A historic former Catholic chapel associated with the Sisters of Providence near the Autonomous Port.",
+                  "category": "religious",
+                  "coords": [
+                        104.919497,
+                        11.584681
+                  ]
+            },
+            {
+                  "name": "Boeung Baitorng Market",
+                  "text": "This local marketplace serves the Phnom Penh autonomous port economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.86261,
+                        11.589978
+                  ]
+            },
+            {
+                  "name": "Phsar Toch",
+                  "text": "Phsar Toch is a commercial marketplace operating in the Phnom Penh autonomous port economic area.",
+                  "category": "cultural",
+                  "coords": [
+                        104.914578,
+                        11.587673
+                  ]
+            },
+            {
+                  "name": "Phsar Thom Toul Sangke",
+                  "text": "This bustling marketplace is a trading hub located in the Phnom Penh autonomous port economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.908143,
+                        11.591289
+                  ]
+            },
+            {
+                  "name": "Phum Ahha Night Market (closed)",
+                  "text": "Formerly a bustling night marketplace, this location in the Phnom Penh autonomous port economic zone is now closed.",
+                  "category": "cultural",
+                  "coords": [
+                        104.917742,
+                        11.60555
+                  ]
+            },
+            {
+                  "name": "Global House Cambodia",
+                  "text": "This commercial marketplace facility provides retail options within the Phnom Penh autonomous port economic district.",
+                  "category": "cultural",
+                  "coords": [
+                        104.876631,
+                        11.595928
+                  ]
+            },
+            {
+                  "name": "Tomnop Market",
+                  "text": "Tomnop Market functions as a local retail marketplace in the Phnom Penh autonomous port economic area.",
+                  "category": "cultural",
+                  "coords": [
+                        104.898006,
+                        11.590739
+                  ]
+            },
+            {
+                  "name": "Chey Chumneah Market",
+                  "text": "This trading marketplace serves the community around the Phnom Penh autonomous port economic sector.",
+                  "category": "cultural",
+                  "coords": [
+                        104.897365,
+                        11.591668
+                  ]
+            },
+            {
+                  "name": "Art's Container",
+                  "text": "This unique marketplace features repurposed shipping containers located within the Phnom Penh autonomous port economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.910999,
+                        11.580376
+                  ]
+            },
+            {
+                  "name": "Christian Church",
+                  "text": "This local Christian church serves the congregation within the Phnom Penh autonomous port economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92338,
+                        11.597186
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This Latter-day Saints Christian meetinghouse is situated in the Phnom Penh autonomous port economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.912334,
+                        11.594736
+                  ]
+            },
+            {
+                  "name": "Jesus Village Church",
+                  "text": "The Jesus Village Church is a Christian place of worship established in the Phnom Penh autonomous port economic district.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910433,
+                        11.587119
+                  ]
+            },
+            {
+                  "name": "City Light Church",
+                  "text": "This Christian site, known as City Light Church, operates within the Phnom Penh autonomous port economic sector.",
+                  "category": "landmark",
+                  "coords": [
+                        104.903717,
+                        11.600847
+                  ]
+            },
+            {
+                  "name": "God's Family Church",
+                  "text": "A local Christian congregation gathers at God's Family Church in the Phnom Penh autonomous port economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.901157,
+                        11.599174
+                  ]
+            },
+            {
+                  "name": "Translate office of Jehovah’s Witnesses in Cambodia",
+                  "text": "This administrative and translation office for Christian Jehovah’s Witnesses is located near the Phnom Penh autonomous port.",
+                  "category": "landmark",
+                  "coords": [
+                        104.891841,
+                        11.580789
+                  ]
+            },
+            {
+                  "name": "Phnom Penh House of Prayer (PPHOP)",
+                  "text": "PPHOP serves as a dedicated Christian prayer house within the Phnom Penh autonomous port economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.887688,
+                        11.58028
+                  ]
+            },
+            {
+                  "name": "Krosang Mean Chey Pagoda",
+                  "text": "This Buddhist pagoda offers a space for spiritual reflection in the Phnom Penh autonomous port economic district.",
+                  "category": "landmark",
+                  "coords": [
+                        104.876911,
+                        11.584037
+                  ]
+            },
+            {
+                  "name": "Vimean Lok Yeay Mao",
+                  "text": "This Taoist religious site is a spiritual landmark set within the Phnom Penh autonomous port economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.92348,
+                        11.602791
+                  ]
+            },
+            {
+                  "name": "Wat Toul Savann Ram called Toul Sangke Pagoda",
+                  "text": "Known also as Toul Sangke Pagoda, this Buddhist temple compound sits in the Phnom Penh autonomous port economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.910924,
+                        11.589969
+                  ]
+            },
+            {
+                  "name": "Tuol Santevoan Pagoda (a.k.a. Tuol Orh Louk Pagoda)",
+                  "text": "This active Buddhist site, also called Tuol Orh Louk Pagoda, serves worshippers in the Phnom Penh autonomous port zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.906475,
+                        11.610741
+                  ]
+            },
+            {
+                  "name": "Otaravatey Pagoda",
+                  "text": "Otaravatey Pagoda is a Buddhist monastic complex established within the Phnom Penh autonomous port economic sector.",
+                  "category": "landmark",
+                  "coords": [
+                        104.913409,
+                        11.613721
+                  ]
+            },
+            {
+                  "name": "The Kingdom Hall of Jehova's Witnesses",
+                  "text": "This Christian Kingdom Hall accommodates religious services near the Phnom Penh autonomous port economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.898063,
+                        11.605622
+                  ]
+            },
+            {
+                  "name": "Koh Pothivong Pagoda",
+                  "text": "Adherents visit this Buddhist pagoda situated in the heart of the Phnom Penh autonomous port economic district.",
+                  "category": "landmark",
+                  "coords": [
+                        104.884601,
+                        11.593109
+                  ]
+            },
+            {
+                  "name": "Nhien Reangsey Pagoda",
+                  "text": "Nhien Reangsey Pagoda functions as a tranquil Buddhist sanctuary in the bustling Phnom Penh autonomous port economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.900856,
+                        11.590086
+                  ]
+            },
+            {
+                  "name": "Preah Put Khousacha Pagoda",
+                  "text": "This established Buddhist site provides religious teachings near the Phnom Penh autonomous port economic center.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919376,
+                        11.5826
+                  ]
+            },
+            {
+                  "name": "Sras Chak Pagoda",
+                  "text": "This traditional Buddhist pagoda is a prominent religious landmark in the Phnom Penh autonomous port economic sector.",
+                  "category": "landmark",
+                  "coords": [
+                        104.919035,
+                        11.579416
+                  ]
+            },
+            {
+                  "name": "Wonderland",
+                  "text": "This theme park provides recreational amusement rides within the Phnom Penh autonomous port economic zone.",
+                  "category": "recreational",
+                  "coords": [
+                        104.907693,
+                        11.576154
+                  ]
+            },
+            {
+                  "name": "Kids fun park",
+                  "text": "This children's theme park offers family-friendly attractions in the Phnom Penh autonomous port economic district.",
+                  "category": "recreational",
+                  "coords": [
+                        104.925288,
+                        11.589988
+                  ]
+            },
+            {
+                  "name": "Phnom Penh Fantasy World",
+                  "text": "Phnom Penh Fantasy World is an expansive theme park facility located in the autonomous port economic sector.",
+                  "category": "recreational",
+                  "coords": [
+                        104.926712,
+                        11.595393
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KH-12",
     coords: [104.9225, 11.5761],
@@ -99,7 +2421,1384 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "phnom-penh-sez-economic-v2",
+    id: "phnom-penh-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "(ចេតិយ)",
+                  "text": "Dieser freistehende buddhistische Stupa in der Sonderwirtschaftszone dient als Gedenkmonument für einheimische Arbeiter und Anwohner, um Opfergaben darzubringen.",
+                  "category": "historical",
+                  "coords": [
+                        104.7833,
+                        11.545812
+                  ]
+            },
+            {
+                  "name": "ផ្សារពិភពថ្មី",
+                  "text": "Der Piphop Thmey Market ist ein weitläufiges Handelszentrum im Innen- und Außenbereich, das die umliegenden Wohnblöcke mit frischen Produkten und Haushaltswaren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.851758,
+                        11.523688
+                  ]
+            },
+            {
+                  "name": "ផ្សារទួលពង្រ ចោមចៅ",
+                  "text": "Dieser lokale Markt im Bezirk Chom Chao bietet unzählige Stände, an denen alles von rohem Fleisch bis hin zu erschwinglicher Kleidung verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        104.859873,
+                        11.519961
+                  ]
+            },
+            {
+                  "name": "Borey Piphup Tmey National Road 3",
+                  "text": "Dieser lebhafte Gemeindemarkt entlang der Nationalstraße 3 richtet sich direkt an die Bewohner der Wohnsiedlung Borey Piphup Tmey.",
+                  "category": "cultural",
+                  "coords": [
+                        104.818948,
+                        11.49956
+                  ]
+            },
+            {
+                  "name": "G-Smart Tech-CCTV Security System",
+                  "text": "G-Smart Tech arbeitet als Elektronikanbieter, der auf Überwachungskameras und moderne Sicherheitssysteminstallationen innerhalb der Gewerbezone spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.823573,
+                        11.500794
+                  ]
+            },
+            {
+                  "name": "Kambol Rainbow Night Market",
+                  "text": "Der Kambol Rainbow Night Market erhellt den Abend mit neonbeleuchteten Essensständen, die gegrillte Spieße, Nudelsuppen und Unterhaltung anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        104.806479,
+                        11.492208
+                  ]
+            },
+            {
+                  "name": "ផ្សារដីហុយ",
+                  "text": "Phsar Dei Hoy ist ein lebhafter traditioneller Freiluftmarkt, auf dem Verkäufer Berge von tropischen Früchten, Gemüse und Gebrauchsgegenständen ausstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.860967,
+                        11.568424
+                  ]
+            },
+            {
+                  "name": "Romdul Market",
+                  "text": "Der Romdul Market bietet eine Reihe von überdachten Geschäften und Street-Food-Karren, die speziell den Fabrikarbeitern der Sonderwirtschaftszone dienen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776433,
+                        11.557942
+                  ]
+            },
+            {
+                  "name": "ផ្សារសង្ឃឹមថ្មី",
+                  "text": "Der New Hope Market, bekannt für seine wettbewerbsfähigen Preise, ist ein überfüllter Basar, der Textilien, Schuhe und frische Lebensmittel an die lokale Arbeiterschaft verkauft.",
+                  "category": "cultural",
+                  "coords": [
+                        104.761532,
+                        11.535431
+                  ]
+            },
+            {
+                  "name": "ផ្សារពិភពថ្មី (កំបូល ១)",
+                  "text": "Der New World Market in Kambol ist ein weitläufiger Einzelhandelsstandort, der darauf ausgelegt ist, die rasante Urbanisierung des Industrieviertels zu unterstützen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776156,
+                        11.51824
+                  ]
+            },
+            {
+                  "name": "ផ្សារកាណាឌីយ៉ា",
+                  "text": "Phsar Canadia ist ein Marktplatz in einem Industriepark, der direkt auf die Tausenden von Textilarbeitern ausgerichtet ist, die schnelle Mahlzeiten und Lebensmittel des täglichen Bedarfs suchen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864937,
+                        11.532214
+                  ]
+            },
+            {
+                  "name": "ផ្សារឯករាជ្យ ១",
+                  "text": "Phsar Ekreach I befindet sich im geschäftigen Wirtschaftszentrum und ist ein großer Nachbarschaftsmarkt, der für sein dichtes Labyrinth aus Bekleidungs- und Eisenwarenständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864495,
+                        11.531059
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងថ្លឹង",
+                  "text": "Phsar Trapeang Thleng ist ein lebhafter Marktplatz in der geschäftigen Sonderwirtschaftszone von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.853498,
+                        11.530189
+                  ]
+            },
+            {
+                  "name": "ផ្សារចោមចៅ",
+                  "text": "Phsar Chom Chao dient als lebendiges Handelszentrum für Einheimische innerhalb der Sonderwirtschaftszone von Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.8308,
+                        11.533529
+                  ]
+            },
+            {
+                  "name": "បុរីមរកតSH ទួលពង្រ2",
+                  "text": "Dieser lebendige Gemeinschaftsmarktplatz dient den Bewohnern der Wohnanlage Borey Morakot Toul Pongro 2.",
+                  "category": "cultural",
+                  "coords": [
+                        104.840519,
+                        11.501599
+                  ]
+            },
+            {
+                  "name": "Borey Piphub Thmey National Road 3",
+                  "text": "Dieser Marktplatz in einem weitläufigen Wohngebiet an der Nationalstraße 3 ist ein wichtiger Knotenpunkt für frische Lebensmittel und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        104.821174,
+                        11.499426
+                  ]
+            },
+            {
+                  "name": "ផ្សារ ញូវថោន អូដឹម",
+                  "text": "Der Odem New Town Market ist ein moderner Handelsplatz, der vielfältige Einkaufsmöglichkeiten für das sich entwickelnde Stadtgebiet von Phnom Penh bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        104.79726,
+                        11.524937
+                  ]
+            },
+            {
+                  "name": "ផ្សារឯករាជ្យ ២",
+                  "text": "Der Ekareach Market II ist ein geschäftiger Markt mit Verkäufern von lokalem Streetfood und frischen Produkten nahe der Sonderwirtschaftszone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.820538,
+                        11.538513
+                  ]
+            },
+            {
+                  "name": "ផ្សារព្រៃទា",
+                  "text": "Phsar Prey Tea ist ein traditioneller kambodschanischer Freiluftmarkt, der für seine farbenfrohe Auswahl an frischem Gemüse, Fleisch und Textilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.829545,
+                        11.549065
+                  ]
+            },
+            {
+                  "name": "ផ្សារតាំងក្រសាំង",
+                  "text": "Dieser geschäftige Gemeinschaftsmarktplatz versorgt die dichte Wohnbevölkerung rund um das Viertel Tang Krosang.",
+                  "category": "cultural",
+                  "coords": [
+                        104.841222,
+                        11.561935
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ពោធិ៍ចិនតុង",
+                  "text": "Der in der Nähe des internationalen Flughafens gelegene Phsar Pochentong ist ein wichtiger verkehrsorientierter Marktplatz, der schnelle Mahlzeiten und Reiseartikel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        104.857477,
+                        11.563385
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ឈូកមាស",
+                  "text": "Phsar Chhouk Meas ist ein bekannter Markt im Viertel mit markanten Ständen, die von Goldschmuck bis hin zu lokalen Gewürzen alles verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        104.852858,
+                        11.575419
+                  ]
+            },
+            {
+                  "name": "Touleap Train Return Point",
+                  "text": "Dieser Eisenbahn-Transitknotenpunkt dient als wichtiger Wendepunkt für Züge, die durch die Industriekorridore von Phnom Penh fahren.",
+                  "category": "landmark",
+                  "coords": [
+                        104.790848,
+                        11.563426
+                  ]
+            },
+            {
+                  "name": "ផ្ទះទេព រមា",
+                  "text": "Das Tep Roma House ist ein interessantes lokales architektonisches Wahrzeichen in den sich schnell entwickelnden Vorstadtzonen der Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.859873,
+                        11.57948
+                  ]
+            },
+            {
+                  "name": "សួន​ចំការ​ព្រីង",
+                  "text": "Der Chamkar Pring Park bietet eine ruhige grüne Oase mit schattigen Spazierwegen inmitten der städtischen Expansion im Westen von Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.856029,
+                        11.584367
+                  ]
+            },
+            {
+                  "name": "Taing Roneam Pagoda",
+                  "text": "Die Taing Roneam Pagode ist ein ruhiges buddhistisches Heiligtum, das mit traditionellen Naga-Schnitzereien in der Nähe der belebten Wirtschaftszone geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.809452,
+                        11.459929
+                  ]
+            },
+            {
+                  "name": "វត្តសិរីសោភា ហៅ វត្តអង្តតាម៉ិញ",
+                  "text": "Dieser lebendige buddhistische Tempel, allgemein bekannt als Ang Ta Menh, verfügt über eine atemberaubende goldene Stupa, in der sich Einheimische zu täglichen Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        104.861025,
+                        11.547264
+                  ]
+            },
+            {
+                  "name": "វត្តទួលសុភាឃួន",
+                  "text": "Die Tuol Sophea Khuon Pagode dient als spiritueller Anker für das Viertel und verfügt über einen wunderschön bemalten Vihara und ein ruhiges Klostergelände.",
+                  "category": "landmark",
+                  "coords": [
+                        104.83271,
+                        11.543683
+                  ]
+            },
+            {
+                  "name": "វត្ត​គោត្ត​មរង្សី ហៅ វត្តគោក​បញ្ជាន់",
+                  "text": "Diese auch als Kok Bagnchon Pagode bezeichnete buddhistische Stätte besticht durch detaillierte Wandmalereien in der Haupthalle, die das Leben Buddhas darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.844509,
+                        11.532419
+                  ]
+            },
+            {
+                  "name": "វត្តកំពែង",
+                  "text": "Die Kampeng Pagode zeichnet sich durch ihre hohen Schutzmauern und die klassischen Khmer-Dachstufen aus, die sich über die Industrielandschaft erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.849951,
+                        11.509737
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គ​ត្រគៀត",
+                  "text": "Dieser ruhige buddhistische Komplex verfügt über einen weitläufigen, von Bodhi-Bäumen gesäumten Innenhof, der einen friedlichen Rückzugsort von den nahe gelegenen belebten Märkten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814007,
+                        11.510707
+                  ]
+            },
+            {
+                  "name": "វត្ត​ក្រាំងធ្នង់",
+                  "text": "Wat Krang Thnong ist ein beeindruckendes buddhistisches Kloster mit einem zentralen Vihara, der durch seine schimmernden Blattgoldverzierungen auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.828566,
+                        11.583755
+                  ]
+            },
+            {
+                  "name": "វត្តតាំងកសាង​ខាងត្បូង",
+                  "text": "Die südliche Taing Kor Sang Pagode dient der lokalen buddhistischen Gemeinschaft mit ihren weitläufigen Meditationshallen und den Unterkünften der ansässigen Mönche.",
+                  "category": "landmark",
+                  "coords": [
+                        104.839836,
+                        11.565093
+                  ]
+            },
+            {
+                  "name": "Phom Penh Truth Church",
+                  "text": "Die Phnom Penh Truth Church ist ein moderner christlicher Versammlungsort, der wöchentliche Gottesdienste und kommunale Unterstützungsprogramme in den Außenbezirken der Stadt anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.846461,
+                        11.580715
+                  ]
+            },
+            {
+                  "name": "Church of Christ Our Peace International - Sen Sok",
+                  "text": "Diese internationale christliche Gemeinde im Bezirk Sen Sok bietet zweisprachige Gottesdienste und Initiativen zur Einbindung der Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        104.851099,
+                        11.59482
+                  ]
+            },
+            {
+                  "name": "វត្តទួល ហៅ កោះរនាង",
+                  "text": "Die Koh Roneang Pagode erhebt sich auf einem leichten Hügel und ist eine historische buddhistische Stätte, die von üppigen tropischen Bäumen und lebendigen Klosterwohnungen umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.772269,
+                        11.623163
+                  ]
+            },
+            {
+                  "name": "វត្ត​ភ្នៀតសិម្ពលី",
+                  "text": "Die Phniet Sempaly Pagode verfügt über ein kunstvolles, mehrstöckiges Dach, das mit geschwungenen Chofa-Kreuzblumen verziert ist, die den mythischen Garuda symbolisieren.",
+                  "category": "landmark",
+                  "coords": [
+                        104.773756,
+                        11.587722
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គនិស្ស័យ",
+                  "text": "Die Ang Nisai Pagode ist ein wunderschön gepflegter buddhistischer Komplex, in dem aufwendige Torschnitzereien Gläubige und Besucher gleichermaßen willkommen heißen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.757037,
+                        11.586093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "(ចេតិយ)",
+                  "text": "Ez az önálló buddhista sztúpa a Különleges Gazdasági Övezetben emlékhelyként szolgál a helyi munkások és lakosok számára, ahol felajánlásokat tehetnek.",
+                  "category": "historical",
+                  "coords": [
+                        104.7833,
+                        11.545812
+                  ]
+            },
+            {
+                  "name": "ផ្សារពិភពថ្មី",
+                  "text": "A Piphop Thmey Market egy kiterjedt beltéri és kültéri kereskedelmi központ, amely friss termékekkel és háztartási cikkekkel látja el a környező lakótömböket.",
+                  "category": "cultural",
+                  "coords": [
+                        104.851758,
+                        11.523688
+                  ]
+            },
+            {
+                  "name": "ផ្សារទួលពង្រ ចោមចៅ",
+                  "text": "Ez a Chom Chao negyedben található helyi piac számtalan standdal rendelkezik, ahol a nyers hústól a megfizethető ruhákig mindent árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.859873,
+                        11.519961
+                  ]
+            },
+            {
+                  "name": "Borey Piphup Tmey National Road 3",
+                  "text": "Ez a 3-as országút mentén fekvő, nyüzsgő közösségi piac közvetlenül a Borey Piphup Tmey lakópark lakóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.818948,
+                        11.49956
+                  ]
+            },
+            {
+                  "name": "G-Smart Tech-CCTV Security System",
+                  "text": "A G-Smart Tech elektronikai árusként működik, amely térfigyelő kamerákra és modern biztonsági rendszerek telepítésére specializálódott a kereskedelmi övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        104.823573,
+                        11.500794
+                  ]
+            },
+            {
+                  "name": "Kambol Rainbow Night Market",
+                  "text": "A Kambol Rainbow Éjszakai Piac neonfényes ételstandokkal dobja fel az estét, ahol grillezett nyársakat, tésztaleveseket és szórakozási lehetőségeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.806479,
+                        11.492208
+                  ]
+            },
+            {
+                  "name": "ផ្សារដីហុយ",
+                  "text": "A Phsar Dei Hoy egy nyüzsgő hagyományos szabadtéri piac, ahol az árusok hegyekben álló trópusi gyümölcsöket, zöldségeket és mindennapi használati tárgyakat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.860967,
+                        11.568424
+                  ]
+            },
+            {
+                  "name": "Romdul Market",
+                  "text": "A Romdul Piac fedett üzletek és utcai ételárusító kocsik sorát kínálja, amelyek kifejezetten a Különleges Gazdasági Övezet gyári munkásait szolgálják ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776433,
+                        11.557942
+                  ]
+            },
+            {
+                  "name": "ផ្សារសង្ឃឹមថ្មី",
+                  "text": "A versenyképes árairól ismert New Hope Market egy zsúfolt bazár, ahol textíliákat, cipőket és friss élelmiszereket árulnak a helyi munkaerő számára.",
+                  "category": "cultural",
+                  "coords": [
+                        104.761532,
+                        11.535431
+                  ]
+            },
+            {
+                  "name": "ផ្សារពិភពថ្មី (កំបូល ១)",
+                  "text": "A kamboli New World Market egy kiterjedt kiskereskedelmi helyszín, amely az ipari negyed gyors urbanizációjának támogatására épült.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776156,
+                        11.51824
+                  ]
+            },
+            {
+                  "name": "ផ្សារកាណាឌីយ៉ា",
+                  "text": "A Phsar Canadia egy ipari parki piac, amely közvetlenül azt a több ezer ruhaipari munkást szolgálja ki, akik gyors étkezést és napi bevásárlást keresnek.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864937,
+                        11.532214
+                  ]
+            },
+            {
+                  "name": "ផ្សារឯករាជ្យ ១",
+                  "text": "A nyüzsgő gazdasági központban található Phsar Ekreach I egy nagy környékbeli piac, amely a ruházati és fémáru standok sűrű útvesztőjéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864495,
+                        11.531059
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងថ្លឹង",
+                  "text": "A Phsar Trapeang Thleng egy nyüzsgő piac Phnom Penh különleges gazdasági övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.853498,
+                        11.530189
+                  ]
+            },
+            {
+                  "name": "ផ្សារចោមចៅ",
+                  "text": "A Phsar Chom Chao élénk kereskedelmi központként szolgál a helyiek számára Phnom Penh különleges gazdasági övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.8308,
+                        11.533529
+                  ]
+            },
+            {
+                  "name": "បុរីមរកតSH ទួលពង្រ2",
+                  "text": "Ez a pezsgő közösségi piac a Borey Morakot Toul Pongro 2 lakópark lakóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.840519,
+                        11.501599
+                  ]
+            },
+            {
+                  "name": "Borey Piphub Thmey National Road 3",
+                  "text": "A 3-as országút kiterjedt lakóövezetében található piac a friss élelmiszerek és háztartási cikkek fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        104.821174,
+                        11.499426
+                  ]
+            },
+            {
+                  "name": "ផ្សារ ញូវថោន អូដឹម",
+                  "text": "Az Odem New Town Market egy modern kereskedelmi létesítmény, amely változatos vásárlási lehetőségeket kínál Phnom Penh fejlődő városi övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.79726,
+                        11.524937
+                  ]
+            },
+            {
+                  "name": "ផ្សារឯករាជ្យ ២",
+                  "text": "Az Ekareach Market II nyüzsgő piacán helyi utcai ételeket és friss termékeket árulnak a különleges gazdasági övezet közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.820538,
+                        11.538513
+                  ]
+            },
+            {
+                  "name": "ផ្សារព្រៃទា",
+                  "text": "A Phsar Prey Tea egy hagyományos kambodzsai szabadtéri piac, amely friss zöldségek, húsok és textíliák színes kínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.829545,
+                        11.549065
+                  ]
+            },
+            {
+                  "name": "ផ្សារតាំងក្រសាំង",
+                  "text": "Ez a nyüzsgő közösségi piac a Tang Krosang negyed körüli sűrű lakosságot szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        104.841222,
+                        11.561935
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ពោធិ៍ចិនតុង",
+                  "text": "A nemzetközi repülőtér közelében található Phsar Pochentong egy jelentős, tranzitközpontú piac, amely gyorsétkezést és utazási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        104.857477,
+                        11.563385
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ឈូកមាស",
+                  "text": "A Phsar Chhouk Meas egy kiemelkedő környékbeli piac, melynek jellegzetes bódéi az arany ékszerektől a helyi fűszerekig mindent árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.852858,
+                        11.575419
+                  ]
+            },
+            {
+                  "name": "Touleap Train Return Point",
+                  "text": "Ez a vasúti tranzitcsomópont kulcsfontosságú fordulópontként szolgál a Phnom Penh ipari folyosóin közlekedő vonatok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        104.790848,
+                        11.563426
+                  ]
+            },
+            {
+                  "name": "ផ្ទះទេព រមា",
+                  "text": "A Tep Roma House egy érdekes helyi építészeti mérföldkő a főváros gyorsan fejlődő külvárosi övezeteiben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.859873,
+                        11.57948
+                  ]
+            },
+            {
+                  "name": "សួន​ចំការ​ព្រីង",
+                  "text": "A Chamkar Pring Park nyugodt, zöld oázist kínál árnyékos sétányokkal Nyugat-Phnom Penh városi terjeszkedése közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        104.856029,
+                        11.584367
+                  ]
+            },
+            {
+                  "name": "Taing Roneam Pagoda",
+                  "text": "A Taing Roneam Pagoda egy békés buddhista szentély, amelyet hagyományos Naga faragások díszítenek a nyüzsgő gazdasági övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.809452,
+                        11.459929
+                  ]
+            },
+            {
+                  "name": "វត្តសិរីសោភា ហៅ វត្តអង្តតាម៉ិញ",
+                  "text": "Az Ang Ta Menh néven ismert, élénk buddhista templom lenyűgöző arany sztúpával rendelkezik, ahol a helyiek napi imákra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        104.861025,
+                        11.547264
+                  ]
+            },
+            {
+                  "name": "វត្តទួលសុភាឃួន",
+                  "text": "A Tuol Sophea Khuon Pagoda a környék szellemi horgonyaként szolgál, gyönyörűen festett viharával és békés kolostori területekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        104.83271,
+                        11.543683
+                  ]
+            },
+            {
+                  "name": "វត្ត​គោត្ត​មរង្សី ហៅ វត្តគោក​បញ្ជាន់",
+                  "text": "A Kok Bagnchon pagoda néven is ismert buddhista helyszín fő imatermében a Buddha életét ábrázoló, rendkívül részletes falfestmények találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        104.844509,
+                        11.532419
+                  ]
+            },
+            {
+                  "name": "វត្តកំពែង",
+                  "text": "A Kampeng pagodát magas védőfalai és a klasszikus khmer tetőteraszok jellemzik, amelyek az ipari táj fölé magasodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.849951,
+                        11.509737
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គ​ត្រគៀត",
+                  "text": "Ez a nyugodt buddhista komplexum tágas, Bodhi fákkal szegélyezett udvarral rendelkezik, békés menedéket nyújtva a közeli nyüzsgő piacoktól.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814007,
+                        11.510707
+                  ]
+            },
+            {
+                  "name": "វត្ត​ក្រាំងធ្នង់",
+                  "text": "A Wat Krang Thnong egy lenyűgöző buddhista kolostor, amelynek központi viharája csillogó aranyfüst-díszítéseivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        104.828566,
+                        11.583755
+                  ]
+            },
+            {
+                  "name": "វត្តតាំងកសាង​ខាងត្បូង",
+                  "text": "A déli Taing Kor Sang pagoda kiterjedt meditációs termeivel és a helyi szerzetesek lakrészeivel szolgálja a buddhista közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        104.839836,
+                        11.565093
+                  ]
+            },
+            {
+                  "name": "Phom Penh Truth Church",
+                  "text": "A Phnom Penh Truth Church egy modern keresztény gyülekezeti hely, amely heti istentiszteleteket és közösségtámogató programokat kínál a város szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        104.846461,
+                        11.580715
+                  ]
+            },
+            {
+                  "name": "Church of Christ Our Peace International - Sen Sok",
+                  "text": "A Sen Sok negyedben található nemzetközi keresztény gyülekezet kétnyelvű istentiszteleteket és közösségi programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.851099,
+                        11.59482
+                  ]
+            },
+            {
+                  "name": "វត្តទួល ហៅ កោះរនាង",
+                  "text": "A Koh Roneang pagoda egy enyhe magaslatra épült történelmi buddhista helyszín, melyet buja trópusi fák és élénk kolostori lakások ölelnek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        104.772269,
+                        11.623163
+                  ]
+            },
+            {
+                  "name": "វត្ត​ភ្នៀតសិម្ពលី",
+                  "text": "A Phniet Sempaly pagoda díszes, többszintes tetővel büszkélkedhet, amelyet a mitikus Garudát jelképező, ívelt Chofa-záródások ékesítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.773756,
+                        11.587722
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គនិស្ស័យ",
+                  "text": "Az Ang Nisai Pagoda egy gyönyörűen karbantartott buddhista komplexum, ahol bonyolult kapufaragások fogadják a hívőket és a látogatókat egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.757037,
+                        11.586093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "(ចេតិយ)",
+                  "text": "Această stupă budistă de sine stătătoare din Zona Economică Specială servește ca un monument comemorativ pentru muncitorii și rezidenții locali pentru a aduce ofrande.",
+                  "category": "historical",
+                  "coords": [
+                        104.7833,
+                        11.545812
+                  ]
+            },
+            {
+                  "name": "ផ្សារពិភពថ្មី",
+                  "text": "Piața Piphop Thmey este un centru comercial extins în interior și în aer liber, care furnizează produse proaspete și bunuri de uz casnic blocurilor rezidențiale din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        104.851758,
+                        11.523688
+                  ]
+            },
+            {
+                  "name": "ផ្សារទួលពង្រ ចោមចៅ",
+                  "text": "Situată în districtul Chom Chao, această piață locală prezintă nenumărate tarabe care vând de toate, de la carne crudă la îmbrăcăminte la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        104.859873,
+                        11.519961
+                  ]
+            },
+            {
+                  "name": "Borey Piphup Tmey National Road 3",
+                  "text": "Această piață comunitară plină de viață de-a lungul Drumului Național 3 deservește direct rezidenții complexului rezidențial Borey Piphup Tmey.",
+                  "category": "cultural",
+                  "coords": [
+                        104.818948,
+                        11.49956
+                  ]
+            },
+            {
+                  "name": "G-Smart Tech-CCTV Security System",
+                  "text": "G-Smart Tech operează ca un furnizor de electronice specializat în camere de supraveghere și instalări de sisteme de securitate moderne în cadrul zonei comerciale.",
+                  "category": "cultural",
+                  "coords": [
+                        104.823573,
+                        11.500794
+                  ]
+            },
+            {
+                  "name": "Kambol Rainbow Night Market",
+                  "text": "Piața de Noapte Kambol Rainbow luminează seara cu tarabe cu mâncare luminate cu neon, care oferă frigărui la grătar, supe de tăiței și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        104.806479,
+                        11.492208
+                  ]
+            },
+            {
+                  "name": "ផ្សារដីហុយ",
+                  "text": "Phsar Dei Hoy este o piață tradițională vibrantă în aer liber, unde vânzătorii expun munți de fructe tropicale, legume și articole de utilitate zilnică.",
+                  "category": "cultural",
+                  "coords": [
+                        104.860967,
+                        11.568424
+                  ]
+            },
+            {
+                  "name": "Romdul Market",
+                  "text": "Piața Romdul oferă o serie de magazine acoperite și cărucioare de street food care deservesc în mod specific muncitorii din fabricile Zonei Economice Speciale.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776433,
+                        11.557942
+                  ]
+            },
+            {
+                  "name": "ផ្សារសង្ឃឹមថ្មី",
+                  "text": "Cunoscută pentru prețurile sale competitive, Piața New Hope este un bazar aglomerat care vinde textile, încălțăminte și provizii proaspete forței de muncă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        104.761532,
+                        11.535431
+                  ]
+            },
+            {
+                  "name": "ផ្សារពិភពថ្មី (កំបូល ១)",
+                  "text": "New World Market din Kambol este o locație extinsă de vânzare cu amănuntul, structurată pentru a sprijini urbanizarea rapidă a cartierului industrial.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776156,
+                        11.51824
+                  ]
+            },
+            {
+                  "name": "ផ្សារកាណាឌីយ៉ា",
+                  "text": "Phsar Canadia este o piață din parcul industrial care se adresează direct miilor de lucrători din industria confecțiilor care caută mese rapide și produse alimentare zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864937,
+                        11.532214
+                  ]
+            },
+            {
+                  "name": "ផ្សារឯករាជ្យ ១",
+                  "text": "Situată în centrul economic aglomerat, Phsar Ekreach I este o piață mare de cartier, cunoscută pentru labirintul său dens de tarabe cu îmbrăcăminte și articole de feronerie.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864495,
+                        11.531059
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងថ្លឹង",
+                  "text": "Phsar Trapeang Thleng este o piață animată situată în zona economică specială din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.853498,
+                        11.530189
+                  ]
+            },
+            {
+                  "name": "ផ្សារចោមចៅ",
+                  "text": "Phsar Chom Chao servește ca un centru comercial plin de viață pentru localnici în cadrul Zonei Economice Speciale Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.8308,
+                        11.533529
+                  ]
+            },
+            {
+                  "name": "បុរីមរកតSH ទួលពង្រ2",
+                  "text": "Această piață comunitară vibrantă deservește rezidenții complexului rezidențial Borey Morakot Toul Pongro 2.",
+                  "category": "cultural",
+                  "coords": [
+                        104.840519,
+                        11.501599
+                  ]
+            },
+            {
+                  "name": "Borey Piphub Thmey National Road 3",
+                  "text": "Situată într-o zonă rezidențială extinsă de pe Drumul Național 3, această piață este un centru vital pentru alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        104.821174,
+                        11.499426
+                  ]
+            },
+            {
+                  "name": "ផ្សារ ញូវថោន អូដឹម",
+                  "text": "Odem New Town Market este un spațiu comercial modern care oferă diverse opțiuni de cumpărături pentru zona urbană în dezvoltare din Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.79726,
+                        11.524937
+                  ]
+            },
+            {
+                  "name": "ផ្សារឯករាជ្យ ២",
+                  "text": "Ekareach Market II este plin de vânzători care oferă mâncare stradală locală și produse proaspete lângă zona economică specială.",
+                  "category": "cultural",
+                  "coords": [
+                        104.820538,
+                        11.538513
+                  ]
+            },
+            {
+                  "name": "ផ្សារព្រៃទា",
+                  "text": "Phsar Prey Tea este o piață în aer liber tradițională cambodgiană, cunoscută pentru gama sa colorată de legume proaspete, carne și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        104.829545,
+                        11.549065
+                  ]
+            },
+            {
+                  "name": "ផ្សារតាំងក្រសាំង",
+                  "text": "Această piață comunitară plină de viață deservește populația rezidențială densă din jurul cartierului Tang Krosang.",
+                  "category": "cultural",
+                  "coords": [
+                        104.841222,
+                        11.561935
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ពោធិ៍ចិនតុង",
+                  "text": "Situată în apropierea zonei aeroportului internațional, Phsar Pochentong este o piață majoră orientată spre tranzit, care oferă mese rapide și articole de călătorie.",
+                  "category": "cultural",
+                  "coords": [
+                        104.857477,
+                        11.563385
+                  ]
+            },
+            {
+                  "name": "ផ្សារ​ឈូកមាស",
+                  "text": "Phsar Chhouk Meas este o piață de cartier proeminentă, cu tarabe arhitecturale distincte, care vând de la bijuterii din aur la condimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        104.852858,
+                        11.575419
+                  ]
+            },
+            {
+                  "name": "Touleap Train Return Point",
+                  "text": "Acest nod de tranzit feroviar servește ca punct cheie de întoarcere pentru trenurile care navighează prin coridoarele industriale din Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.790848,
+                        11.563426
+                  ]
+            },
+            {
+                  "name": "ផ្ទះទេព រមា",
+                  "text": "Casa Tep Roma reprezintă un reper arhitectural local interesant în zonele suburbane cu dezvoltare rapidă ale capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        104.859873,
+                        11.57948
+                  ]
+            },
+            {
+                  "name": "សួន​ចំការ​ព្រីង",
+                  "text": "Parcul Chamkar Pring oferă o oază verde senină, cu alei de promenadă umbrite, în mijlocul expansiunii urbane din vestul Phnom Penh-ului.",
+                  "category": "landmark",
+                  "coords": [
+                        104.856029,
+                        11.584367
+                  ]
+            },
+            {
+                  "name": "Taing Roneam Pagoda",
+                  "text": "Pagoda Taing Roneam este un sanctuar budist liniștit, împodobit cu sculpturi tradiționale Naga, lângă zona economică plină de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        104.809452,
+                        11.459929
+                  ]
+            },
+            {
+                  "name": "វត្តសិរីសោភា ហៅ វត្តអង្តតាម៉ិញ",
+                  "text": "Cunoscut sub numele de Ang Ta Menh, acest templu budist vibrant are o stupă aurie uimitoare, unde localnicii se adună pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        104.861025,
+                        11.547264
+                  ]
+            },
+            {
+                  "name": "វត្តទួលសុភាឃួន",
+                  "text": "Pagoda Tuol Sophea Khuon servește drept ancoră spirituală pentru cartier, având un vihara frumos pictat și terenuri monahale liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        104.83271,
+                        11.543683
+                  ]
+            },
+            {
+                  "name": "វត្ត​គោត្ត​មរង្សី ហៅ វត្តគោក​បញ្ជាន់",
+                  "text": "Numită și Pagoda Kok Bagnchon, acest sit budist se mândrește cu picturi murale detaliate ce înfățișează viața lui Buddha în sala sa principală de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        104.844509,
+                        11.532419
+                  ]
+            },
+            {
+                  "name": "វត្តកំពែង",
+                  "text": "Pagoda Kampeng se caracterizează prin zidurile sale înalte de protecție și nivelurile clasice ale acoperișului khmer care se înalță deasupra peisajului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        104.849951,
+                        11.509737
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គ​ត្រគៀត",
+                  "text": "Acest complex budist senin are o curte spațioasă străjuită de copaci Bodhi, oferind un refugiu liniștit departe de piețele pline de viață din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814007,
+                        11.510707
+                  ]
+            },
+            {
+                  "name": "វត្ត​ក្រាំងធ្នង់",
+                  "text": "Wat Krang Thnong este o mănăstire budistă impresionantă, cu o vihara centrală care iese în evidență prin decorațiunile sale strălucitoare cu foiță de aur.",
+                  "category": "landmark",
+                  "coords": [
+                        104.828566,
+                        11.583755
+                  ]
+            },
+            {
+                  "name": "វត្តតាំងកសាង​ខាងត្បូង",
+                  "text": "Pagoda sudică Taing Kor Sang deservește comunitatea budistă locală prin sălile sale vaste de meditație și cartierele călugărilor rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        104.839836,
+                        11.565093
+                  ]
+            },
+            {
+                  "name": "Phom Penh Truth Church",
+                  "text": "Phnom Penh Truth Church este un loc de adunare creștin modern care oferă slujbe săptămânale și programe de sprijin comunitar la periferia orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        104.846461,
+                        11.580715
+                  ]
+            },
+            {
+                  "name": "Church of Christ Our Peace International - Sen Sok",
+                  "text": "Situată în districtul Sen Sok, această congregație creștină internațională oferă slujbe de închinare bilingve și inițiative de implicare comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        104.851099,
+                        11.59482
+                  ]
+            },
+            {
+                  "name": "វត្តទួល ហៅ កោះរនាង",
+                  "text": "Înălțată pe o ușoară movilă, Pagoda Koh Roneang este un sit budist istoric înconjurat de copaci tropicali luxurianți și locuințe monahale vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        104.772269,
+                        11.623163
+                  ]
+            },
+            {
+                  "name": "វត្ត​ភ្នៀតសិម្ពលី",
+                  "text": "Pagoda Phniet Sempaly prezintă un acoperiș ornamentat, pe mai multe niveluri, împodobit cu finisaje curbate Chofa, care îl simbolizează pe miticul Garuda.",
+                  "category": "landmark",
+                  "coords": [
+                        104.773756,
+                        11.587722
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គនិស្ស័យ",
+                  "text": "Pagoda Ang Nisai este un complex budist frumos întreținut, unde sculpturile complicate ale porților întâmpină deopotrivă închinătorii și vizitatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        104.757037,
+                        11.586093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "(stupa)",
+                  "text": "This standalone Buddhist stupa in the Special Economic Zone serves as a commemorative monument for local workers and residents to make offerings.",
+                  "category": "historical",
+                  "coords": [
+                        104.7833,
+                        11.545812
+                  ]
+            },
+            {
+                  "name": "Piphop Thmey Market",
+                  "text": "Piphop Thmey Market is a sprawling indoor and outdoor commercial center supplying fresh produce and household goods to the surrounding residential blocks.",
+                  "category": "cultural",
+                  "coords": [
+                        104.851758,
+                        11.523688
+                  ]
+            },
+            {
+                  "name": "ផ្សារទួលពង្រ ចោមចៅ",
+                  "text": "Situated in the Chom Chao district, this local market features countless stalls selling everything from raw meat to affordable garments.",
+                  "category": "cultural",
+                  "coords": [
+                        104.859873,
+                        11.519961
+                  ]
+            },
+            {
+                  "name": "Borey Piphup Tmey National Road 3",
+                  "text": "This bustling community market along National Road 3 caters directly to the residents of the Borey Piphup Tmey housing development.",
+                  "category": "cultural",
+                  "coords": [
+                        104.818948,
+                        11.49956
+                  ]
+            },
+            {
+                  "name": "G-Smart Tech-CCTV Security System",
+                  "text": "G-Smart Tech operates as an electronics vendor specializing in surveillance cameras and modern security system installations within the commercial zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.823573,
+                        11.500794
+                  ]
+            },
+            {
+                  "name": "Kambol Rainbow Night Market",
+                  "text": "Kambol Rainbow Night Market brightens the evening with neon-lit food stalls offering grilled skewers, noodle soups, and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        104.806479,
+                        11.492208
+                  ]
+            },
+            {
+                  "name": "ផ្សារដីហុយ",
+                  "text": "Phsar Dei Hoy is a vibrant traditional open-air market where vendors display mountains of tropical fruits, vegetables, and everyday utility items.",
+                  "category": "cultural",
+                  "coords": [
+                        104.860967,
+                        11.568424
+                  ]
+            },
+            {
+                  "name": "Romdul Market",
+                  "text": "Romdul Market provides an array of covered shops and street-food carts specifically serving the factory workers of the Special Economic Zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776433,
+                        11.557942
+                  ]
+            },
+            {
+                  "name": "New Hope Market",
+                  "text": "Known for its competitive prices, New Hope Market is a crowded bazaar selling textiles, shoes, and fresh provisions to the local workforce.",
+                  "category": "cultural",
+                  "coords": [
+                        104.761532,
+                        11.535431
+                  ]
+            },
+            {
+                  "name": "New World Market (Kambol I)",
+                  "text": "The New World Market in Kambol is an extensive retail venue structured to support the rapid urbanization of the industrial district.",
+                  "category": "cultural",
+                  "coords": [
+                        104.776156,
+                        11.51824
+                  ]
+            },
+            {
+                  "name": "Phsar Canadia",
+                  "text": "Phsar Canadia is an industrial-park marketplace directly catering to the thousands of garment workers seeking quick meals and daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864937,
+                        11.532214
+                  ]
+            },
+            {
+                  "name": "Phsar Ekreach I",
+                  "text": "Located within the bustling economic hub, Phsar Ekreach I is a large neighborhood market known for its dense maze of clothing and hardware stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        104.864495,
+                        11.531059
+                  ]
+            },
+            {
+                  "name": "Phsar Trapeang Thleng",
+                  "text": "Phsar Trapeang Thleng is a vibrant marketplace situated in the bustling Phnom Penh Special Economic Zone area.",
+                  "category": "cultural",
+                  "coords": [
+                        104.853498,
+                        11.530189
+                  ]
+            },
+            {
+                  "name": "Phsar Chom Chao",
+                  "text": "Phsar Chom Chao serves as a lively commercial hub for locals within the Phnom Penh Special Economic Zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.8308,
+                        11.533529
+                  ]
+            },
+            {
+                  "name": "បុរីមរកតSH ទួលពង្រ2",
+                  "text": "This vibrant community marketplace serves the residents of the Borey Morakot Toul Pongro 2 residential development.",
+                  "category": "cultural",
+                  "coords": [
+                        104.840519,
+                        11.501599
+                  ]
+            },
+            {
+                  "name": "Borey Piphub Thmey National Road 3",
+                  "text": "Set within a sprawling residential area on National Road 3, this marketplace is a vital hub for fresh food and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        104.821174,
+                        11.499426
+                  ]
+            },
+            {
+                  "name": "Odem New Town Market",
+                  "text": "Odem New Town Market is a modern commercial venue providing diverse shopping options for the developing urban zone of Phnom Penh.",
+                  "category": "cultural",
+                  "coords": [
+                        104.79726,
+                        11.524937
+                  ]
+            },
+            {
+                  "name": "Ekareach Market II",
+                  "text": "Ekareach Market II bustles with vendors selling local street food and fresh produce near the special economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        104.820538,
+                        11.538513
+                  ]
+            },
+            {
+                  "name": "Phsar Prey Tea",
+                  "text": "Phsar Prey Tea is a traditional Cambodian outdoor market known for its colorful array of fresh vegetables, meats, and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        104.829545,
+                        11.549065
+                  ]
+            },
+            {
+                  "name": "Tang Krosang Market",
+                  "text": "This bustling community marketplace caters to the dense residential population around the Tang Krosang neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        104.841222,
+                        11.561935
+                  ]
+            },
+            {
+                  "name": "Phsar Pochentong",
+                  "text": "Situated near the international airport area, Phsar Pochentong is a major transit-oriented marketplace offering quick meals and travel goods.",
+                  "category": "cultural",
+                  "coords": [
+                        104.857477,
+                        11.563385
+                  ]
+            },
+            {
+                  "name": "Phsar Chhouk Meas",
+                  "text": "Phsar Chhouk Meas is a prominent neighborhood market featuring distinct architectural stalls selling everything from gold jewelry to local spices.",
+                  "category": "cultural",
+                  "coords": [
+                        104.852858,
+                        11.575419
+                  ]
+            },
+            {
+                  "name": "Touleap Train Return Point",
+                  "text": "This railway transit node serves as a key turning point for trains navigating the industrial corridors of Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.790848,
+                        11.563426
+                  ]
+            },
+            {
+                  "name": "Tep Roma House",
+                  "text": "Tep Roma House stands as an interesting local architectural landmark within the rapidly developing suburban zones of the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        104.859873,
+                        11.57948
+                  ]
+            },
+            {
+                  "name": "Chamkar Pring Park",
+                  "text": "Chamkar Pring Park provides a serene green oasis with shaded walking paths amidst the urban expansion of western Phnom Penh.",
+                  "category": "landmark",
+                  "coords": [
+                        104.856029,
+                        11.584367
+                  ]
+            },
+            {
+                  "name": "Taing Roneam Pagoda",
+                  "text": "Taing Roneam Pagoda is a serene Buddhist sanctuary adorned with traditional Naga carvings near the bustling economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.809452,
+                        11.459929
+                  ]
+            },
+            {
+                  "name": "Serei Sorphea Pagoda called Ang Ta Men​h Pagoda",
+                  "text": "Commonly known as Ang Ta Menh, this vibrant Buddhist temple features a stunning golden stupa where locals gather for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        104.861025,
+                        11.547264
+                  ]
+            },
+            {
+                  "name": "Tuol Sophea Khuon Pagoda",
+                  "text": "Tuol Sophea Khuon Pagoda serves as a spiritual anchor for the neighborhood, featuring a beautifully painted vihara and tranquil monastic grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        104.83271,
+                        11.543683
+                  ]
+            },
+            {
+                  "name": "Kodom Reingsey Pagoda called Kok Bagnchon Pagoda",
+                  "text": "Also called Kok Bagnchon Pagoda, this Buddhist site boasts intricately detailed murals depicting the life of the Buddha in its main prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        104.844509,
+                        11.532419
+                  ]
+            },
+            {
+                  "name": "Kampeng Pagoda",
+                  "text": "Kampeng Pagoda is characterized by its high protective walls and classic Khmer roof tiers that rise above the industrial landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        104.849951,
+                        11.509737
+                  ]
+            },
+            {
+                  "name": "Ang Trokeat Pagoda",
+                  "text": "This serene Buddhist complex features a spacious courtyard lined with Bodhi trees, providing a peaceful retreat from the nearby bustling markets.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814007,
+                        11.510707
+                  ]
+            },
+            {
+                  "name": "Wat Krang Thnong",
+                  "text": "Wat Krang Thnong is an impressive Buddhist monastery with a central vihara that stands out with its shimmering gold-leaf decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        104.828566,
+                        11.583755
+                  ]
+            },
+            {
+                  "name": "Taing Kor Sang Khang Tboung Pagoda",
+                  "text": "The southern Taing Kor Sang Pagoda serves the local Buddhist community with its expansive meditation halls and resident monks' quarters.",
+                  "category": "landmark",
+                  "coords": [
+                        104.839836,
+                        11.565093
+                  ]
+            },
+            {
+                  "name": "Phom Penh Truth Church",
+                  "text": "Phnom Penh Truth Church is a modern Christian gathering place offering weekly services and community support programs in the city's outskirts.",
+                  "category": "landmark",
+                  "coords": [
+                        104.846461,
+                        11.580715
+                  ]
+            },
+            {
+                  "name": "Church of Christ Our Peace International - Sen Sok",
+                  "text": "Located in the Sen Sok district, this international Christian congregation provides bilingual worship services and community outreach initiatives.",
+                  "category": "landmark",
+                  "coords": [
+                        104.851099,
+                        11.59482
+                  ]
+            },
+            {
+                  "name": "Tuol called Koh Roneang Pagoda",
+                  "text": "Elevated on a slight mound, Koh Roneang Pagoda is a historic Buddhist site enveloped by lush tropical trees and vibrant monastic dwellings.",
+                  "category": "landmark",
+                  "coords": [
+                        104.772269,
+                        11.623163
+                  ]
+            },
+            {
+                  "name": "Phniet Sempaly Pagoda",
+                  "text": "Phniet Sempaly Pagoda features an ornate, multi-tiered roof adorned with curved Chofa finials, symbolizing the mythical Garuda.",
+                  "category": "landmark",
+                  "coords": [
+                        104.773756,
+                        11.587722
+                  ]
+            },
+            {
+                  "name": "Ang Nisai Pagoda",
+                  "text": "Ang Nisai Pagoda is a beautifully maintained Buddhist complex where intricate gate carvings welcome worshippers and visitors alike.",
+                  "category": "landmark",
+                  "coords": [
+                        104.757037,
+                        11.586093
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KH-12",
     coords: [104.8150, 11.5450],
@@ -147,7 +3846,52 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sihanoukville-sez-economic-v2",
+    id: "sihanoukville-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kbal Chhay Waterfall",
+                  "text": "Die stufenförmigen Kaskaden dieses bekannten Wasserfalls sind ein beliebtes Ausflugsziel in der Regenzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.609035,
+                        10.674971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kbal Chhay Waterfall",
+                  "text": "Ezen ismert vízesés lépcsőzetes zuhatagai népszerű kirándulóhelynek számítanak az esős évszakban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.609035,
+                        10.674971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kbal Chhay Waterfall",
+                  "text": "Cascadele în trepte ale acestei faimoase căderi de apă sunt o destinație populară de excursie în sezonul ploios.",
+                  "category": "landmark",
+                  "coords": [
+                        103.609035,
+                        10.674971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kbal Chhay Waterfall",
+                  "text": "The multi-tiered cascades of this well-known waterfall are a popular excursion destination during the rainy season.",
+                  "category": "landmark",
+                  "coords": [
+                        103.609035,
+                        10.674971
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KH-18",
     coords: [103.6269, 10.6719],
@@ -195,7 +3939,376 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "manhattan-sez-bavet-economic-v2",
+    id: "manhattan-sez-bavet-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nhà hát huyện Gò Dầu",
+                  "text": "Ein regionales Theater im Bezirk Go Dau, in dem lokale kulturelle Aufführungen und bürgerliche Versammlungen nahe der Grenzwirtschaftszone stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        106.266193,
+                        11.08949
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật Mẫu thị trấn Gò Dầu",
+                  "text": "Ein caodaistischer Tempel in der Stadt Go Dau, der der Heiligen Mutter gewidmet ist und den unverwechselbaren synkretistischen Architekturstil der Religion aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.269227,
+                        11.080418
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Gò Dầu",
+                  "text": "Diese katholische Pfarrkirche dient der christlichen Minderheit im geschäftigen Wirtschaftsviertel Go Dau.",
+                  "category": "landmark",
+                  "coords": [
+                        106.265169,
+                        11.088502
+                  ]
+            },
+            {
+                  "name": "Thánh thất Gò Dầu",
+                  "text": "Ein prominent gelegener Cao-Dai-Tempel in Go Dau, der sich durch seine farbenfrohe Fassade und das Symbol des Göttlichen Auges auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.27162,
+                        11.079947
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Chơn",
+                  "text": "Eine friedliche buddhistische Einsiedelei, die einen Raum für Meditation inmitten der rasanten Entwicklung der nahegelegenen Grenzwirtschaftszone bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.190317,
+                        11.076567
+                  ]
+            },
+            {
+                  "name": "Thánh thất An Thạnh",
+                  "text": "Diese lokale caodaistische Kultstätte im Dorf An Thạnh verbindet östliche und westliche religiöse Motive in ihrem lebendigen Design.",
+                  "category": "landmark",
+                  "coords": [
+                        106.231171,
+                        11.083997
+                  ]
+            },
+            {
+                  "name": "Thánh thất Lợi Thuận",
+                  "text": "Ein caodaistischer Tempel in Loi Thuan mit den für die synkretistische vietnamesische Religion typischen komplizierten Drachensäulen.",
+                  "category": "landmark",
+                  "coords": [
+                        106.18666,
+                        11.118805
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Dầu",
+                  "text": "Ein geschäftiger zentraler Markt im Bezirk Go Dau, auf dem lokale Händler frische Produkte, Kleidung und Haushaltswaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.264574,
+                        11.082714
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cầu",
+                  "text": "Dieser geschäftige lokale Markt in Ben Cau versorgt die Bewohner nahe der kambodschanisch-vietnamesischen Grenze mit dem Nötigsten für den Alltag.",
+                  "category": "cultural",
+                  "coords": [
+                        106.180824,
+                        11.108633
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Thạnh",
+                  "text": "Ein ländlicher vietnamesischer Markt, der das Gebiet Binh Thanh mit einer Vielzahl an regionalen landwirtschaftlichen Produkten und Fleisch versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.229818,
+                        11.02281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà hát huyện Gò Dầu",
+                  "text": "A Go Dau kerület regionális színháza, amely helyi kulturális előadásoknak és polgári összejöveteleknek ad otthont a határ menti gazdasági övezet közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        106.266193,
+                        11.08949
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật Mẫu thị trấn Gò Dầu",
+                  "text": "Go Dau városában található, a Szent Anyának szentelt kaodaista templom, amely a vallás jellegzetes szinkretikus építészeti stílusával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        106.269227,
+                        11.080418
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Gò Dầu",
+                  "text": "Ez a katolikus plébániatemplom a keresztény kisebbséget szolgálja Go Dau nyüzsgő gazdasági negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.265169,
+                        11.088502
+                  ]
+            },
+            {
+                  "name": "Thánh thất Gò Dầu",
+                  "text": "Egy kiemelkedő helyen található kaodaista templom Go Dauban, amelyet színes homlokzata és az Isteni Szem szimbóluma jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        106.27162,
+                        11.079947
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Chơn",
+                  "text": "Békés buddhista remetelak, amely helyet kínál a meditációra a közeli határ menti gazdasági övezet gyors fejlődése közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        106.190317,
+                        11.076567
+                  ]
+            },
+            {
+                  "name": "Thánh thất An Thạnh",
+                  "text": "Ez a helyi kaodaista istentiszteleti hely An Thạnh faluban a keleti és nyugati vallási motívumokat ötvözi élénk dizájnjában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.231171,
+                        11.083997
+                  ]
+            },
+            {
+                  "name": "Thánh thất Lợi Thuận",
+                  "text": "A Loi Thuanban található kaodaista templom a szinkretikus vietnami vallásra jellemző bonyolult sárkányoszlopokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        106.18666,
+                        11.118805
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Dầu",
+                  "text": "Nyüzsgő központi piac a Go Dau kerületben, ahol a helyi árusok friss termékeket, ruházati cikkeket és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.264574,
+                        11.082714
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cầu",
+                  "text": "Ez a forgalmas helyi piac Ben Cauban a kambodzsai-vietnami határ közelében élők napi szükségleteit biztosítja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.180824,
+                        11.108633
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Thạnh",
+                  "text": "Vidéki vietnami piac, amely Binh Thanh területét látja el különféle regionális mezőgazdasági termékekkel és húsokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        106.229818,
+                        11.02281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà hát huyện Gò Dầu",
+                  "text": "Un teatru regional din districtul Go Dau, care găzduiește spectacole culturale locale și adunări civice în apropierea zonei economice de frontieră.",
+                  "category": "cultural",
+                  "coords": [
+                        106.266193,
+                        11.08949
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật Mẫu thị trấn Gò Dầu",
+                  "text": "Un templu caodaist din orașul Go Dau dedicat Sfintei Mame, prezentând stilul arhitectural sincretic distinctiv al religiei.",
+                  "category": "landmark",
+                  "coords": [
+                        106.269227,
+                        11.080418
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Gò Dầu",
+                  "text": "Această biserică parohială catolică deservește minoritatea creștină din agitatul district economic Go Dau.",
+                  "category": "landmark",
+                  "coords": [
+                        106.265169,
+                        11.088502
+                  ]
+            },
+            {
+                  "name": "Thánh thất Gò Dầu",
+                  "text": "Un templu Caodai situat proeminent în Go Dau, caracterizat prin fațada sa colorată și simbolul Ochiului Divin.",
+                  "category": "landmark",
+                  "coords": [
+                        106.27162,
+                        11.079947
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Chơn",
+                  "text": "Un schit budist pașnic care oferă un spațiu de meditație în mijlocul dezvoltării rapide a zonei economice de frontieră din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        106.190317,
+                        11.076567
+                  ]
+            },
+            {
+                  "name": "Thánh thất An Thạnh",
+                  "text": "Acest lăcaș de cult Caodai local din satul An Thạnh îmbină motive religioase orientale și occidentale în designul său vibrant.",
+                  "category": "landmark",
+                  "coords": [
+                        106.231171,
+                        11.083997
+                  ]
+            },
+            {
+                  "name": "Thánh thất Lợi Thuận",
+                  "text": "Un templu caodaist situat în Loi Thuan, care prezintă stâlpii de dragon complexi, tipici religiei sincretice vietnameze.",
+                  "category": "landmark",
+                  "coords": [
+                        106.18666,
+                        11.118805
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Dầu",
+                  "text": "O piață centrală plină de viață în districtul Go Dau, unde comercianții locali vând produse proaspete, haine și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.264574,
+                        11.082714
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cầu",
+                  "text": "Această piață locală aglomerată din Ben Cau asigură necesitățile zilnice pentru locuitorii din apropierea graniței cambodgiano-vietnameze.",
+                  "category": "cultural",
+                  "coords": [
+                        106.180824,
+                        11.108633
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Thạnh",
+                  "text": "O piață rurală vietnameză care deservește zona Binh Thanh cu o varietate de produse agricole și carne regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.229818,
+                        11.02281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nhà hát huyện Gò Dầu",
+                  "text": "A regional theatre in the Go Dau district that hosts local cultural performances and civic gatherings near the border economic zone.",
+                  "category": "cultural",
+                  "coords": [
+                        106.266193,
+                        11.08949
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật Mẫu thị trấn Gò Dầu",
+                  "text": "A Caodaist temple in Go Dau town dedicated to the Holy Mother, featuring the religion's distinctive syncretic architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        106.269227,
+                        11.080418
+                  ]
+            },
+            {
+                  "name": "Giáo xứ Gò Dầu",
+                  "text": "This Catholic parish church serves the Christian minority in the bustling economic district of Go Dau.",
+                  "category": "landmark",
+                  "coords": [
+                        106.265169,
+                        11.088502
+                  ]
+            },
+            {
+                  "name": "Thánh thất Gò Dầu",
+                  "text": "A prominently located Caodai temple in Go Dau, characterized by its colorful facade and the Divine Eye symbol.",
+                  "category": "landmark",
+                  "coords": [
+                        106.27162,
+                        11.079947
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Chơn",
+                  "text": "A peaceful Buddhist hermitage offering a space for meditation amidst the rapid development of the nearby border economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        106.190317,
+                        11.076567
+                  ]
+            },
+            {
+                  "name": "Thánh thất An Thạnh",
+                  "text": "This local Caodai place of worship in An Thạnh village blends Eastern and Western religious motifs in its vibrant design.",
+                  "category": "landmark",
+                  "coords": [
+                        106.231171,
+                        11.083997
+                  ]
+            },
+            {
+                  "name": "Thánh thất Lợi Thuận",
+                  "text": "A Caodaist temple situated in Loi Thuan, displaying the intricate dragon pillars typical of the syncretic Vietnamese religion.",
+                  "category": "landmark",
+                  "coords": [
+                        106.18666,
+                        11.118805
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Dầu",
+                  "text": "A bustling central market in Go Dau district where local merchants sell fresh produce, clothing, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.264574,
+                        11.082714
+                  ]
+            },
+            {
+                  "name": "Chợ Bến Cầu",
+                  "text": "This busy local market in Ben Cau provides daily necessities for residents near the Cambodian-Vietnamese border.",
+                  "category": "cultural",
+                  "coords": [
+                        106.180824,
+                        11.108633
+                  ]
+            },
+            {
+                  "name": "Chợ Bình Thạnh",
+                  "text": "A rural Vietnamese market serving the Binh Thanh area with a variety of regional agricultural products and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        106.229818,
+                        11.02281
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KH-20",
     coords: [106.1822, 11.0825],
@@ -243,7 +4356,304 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "koh-kong-sez-economic-v2",
+    id: "koh-kong-sez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Dieses stumme Denkmal in der Sonderwirtschaftszone Koh Kong erinnert mit seiner Architektur an jene, die ihr Leben in der Region ließen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Dieses seit November 2018 in Koh Kong verankerte Schiff ist eine markante nautische Attraktion vor der Küste der Wirtschaftszone.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "Koh Kong Beach",
+                  "text": "Der weitläufige Koh Kong Beach bietet einen flach abfallenden Sandstrand, an dem sich Einheimische am Rand der Hafenstadt entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        102.972857,
+                        11.581339
+                  ]
+            },
+            {
+                  "name": "ស្ពានកោះកុង",
+                  "text": "Die Koh Kong Brücke überspannt mit einer Länge von beachtlichen 1900 Metern den breiten Kah Bpow Fluss und verbindet die Stadt mit der thailändischen Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        102.970922,
+                        11.617584
+                  ]
+            },
+            {
+                  "name": "វត្តនាងកុក",
+                  "text": "Die farbenfrohen, geschwungenen Dächer der buddhistischen Neang Kok Pagode ragen über das nahe Dorf bei Koh Kong hinaus.",
+                  "category": "landmark",
+                  "coords": [
+                        102.959205,
+                        11.626896
+                  ]
+            },
+            {
+                  "name": "Catholic Church Koh Kong",
+                  "text": "Diese kleine, unauffällige christliche Kirche dient der katholischen Gemeinde der Küstenstadt Koh Kong als Versammlungs- und Gebetsort.",
+                  "category": "landmark",
+                  "coords": [
+                        102.981717,
+                        11.613452
+                  ]
+            },
+            {
+                  "name": "ចេតិយ ឃុនឆាង",
+                  "text": "Der markante buddhistische Stupa von Khun Chhang in Koh Kong ist ein lokales Pilgerziel, das der Verehrung historischer Khmer-Legenden gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        102.964117,
+                        11.615379
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "Auf diesem belebten, überdachten kambodschanischen Markt (Phsar) in Koh Kong preisen Händler von fangfrischem Fisch bis hin zu bunten Textilien ihre Waren an.",
+                  "category": "cultural",
+                  "coords": [
+                        102.981606,
+                        11.608297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Ez a néma emlékmű a Koh Kong-i különleges gazdasági övezetben építészetével azokra emlékeztet, akik életüket vesztették a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Ez a 2018 novembere óta Koh Kongban horgonyzó hajó egy feltűnő tengerészeti látványosság a gazdasági övezet partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "Koh Kong Beach",
+                  "text": "A kiterjedt Koh Kong strand sekély vizű homokos partot kínál, ahol a helyiek kikapcsolódhatnak a kikötőváros szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        102.972857,
+                        11.581339
+                  ]
+            },
+            {
+                  "name": "ស្ពានកោះកុង",
+                  "text": "A Koh Kong híd lenyűgöző, 1900 méteres hosszával ível át a széles Kah Bpow folyón, összekötve a várost a thai határral.",
+                  "category": "landmark",
+                  "coords": [
+                        102.970922,
+                        11.617584
+                  ]
+            },
+            {
+                  "name": "វត្តនាងកុក",
+                  "text": "A buddhista Neang Kok pagoda színes, ívelt tetői kiemelkednek a Koh Kong közeli falu felett.",
+                  "category": "landmark",
+                  "coords": [
+                        102.959205,
+                        11.626896
+                  ]
+            },
+            {
+                  "name": "Catholic Church Koh Kong",
+                  "text": "Ez a kicsi, szerény keresztény templom a tengerparti város, Koh Kong katolikus közösségének gyülekezési és imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.981717,
+                        11.613452
+                  ]
+            },
+            {
+                  "name": "ចេតិយ ឃុនឆាង",
+                  "text": "A koh kong-i feltűnő, buddhista Khun Chhang sztúpa egy helyi zarándokhely, amelyet a történelmi khmer legendák tiszteletének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        102.964117,
+                        11.615379
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "Ezen a nyüzsgő, fedett kambodzsai piacon (Phsar) Koh Kongban a kereskedők a frissen fogott haltól a színes textíliákig mindent kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.981606,
+                        11.608297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Acest monument tăcut din zona economică specială Koh Kong comemorează, prin arhitectura sa, pe cei care și-au pierdut viața în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Această navă ancorată în Koh Kong din noiembrie 2018 este o atracție nautică proeminentă în largul coastei zonei economice.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "Koh Kong Beach",
+                  "text": "Plaja întinsă Koh Kong Beach oferă un țărm de nisip cu o pantă lină, unde localnicii se pot relaxa la marginea orașului-port.",
+                  "category": "recreational",
+                  "coords": [
+                        102.972857,
+                        11.581339
+                  ]
+            },
+            {
+                  "name": "ស្ពានកោះកុង",
+                  "text": "Podul Koh Kong, cu o lungime considerabilă de 1900 de metri, traversează râul lat Kah Bpow și leagă orașul de granița cu Thailanda.",
+                  "category": "landmark",
+                  "coords": [
+                        102.970922,
+                        11.617584
+                  ]
+            },
+            {
+                  "name": "វត្តនាងកុក",
+                  "text": "Acoperișurile colorate și curbate ale pagodei budiste Neang Kok se înalță deasupra satului din apropiere de lângă Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.959205,
+                        11.626896
+                  ]
+            },
+            {
+                  "name": "Catholic Church Koh Kong",
+                  "text": "Această mică biserică creștină discretă servește ca loc de adunare și rugăciune pentru comunitatea catolică din orașul de coastă Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.981717,
+                        11.613452
+                  ]
+            },
+            {
+                  "name": "ចេតិយ ឃុនឆាង",
+                  "text": "Stupa budistă distinctivă Khun Chhang din Koh Kong este o destinație de pelerinaj locală dedicată venerației legendelor istorice khmere.",
+                  "category": "religious",
+                  "coords": [
+                        102.964117,
+                        11.615379
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "În această piață cambodgiană acoperită și plină de viață (Phsar) din Koh Kong, comercianții vând de la pește proaspăt prins până la textile colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        102.981606,
+                        11.608297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "This silent monument in the Koh Kong Special Economic Zone serves with its architecture as a memorial to those who lost their lives in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Anchored in Koh Kong since November 2018, this ship is a striking nautical attraction off the coast of the economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "Koh Kong Beach",
+                  "text": "The sprawling Koh Kong Beach offers a gently sloping sandy shore where locals go to relax on the edge of the port city.",
+                  "category": "recreational",
+                  "coords": [
+                        102.972857,
+                        11.581339
+                  ]
+            },
+            {
+                  "name": "Koh Kong Bridge",
+                  "text": "The Koh Kong Bridge spans the wide Kah Bpow River with a notable length of 1900 metres, connecting the city to the Thai border.",
+                  "category": "landmark",
+                  "coords": [
+                        102.970922,
+                        11.617584
+                  ]
+            },
+            {
+                  "name": "Neang Kok Pagode",
+                  "text": "The colourful, sweeping roofs of the Buddhist Neang Kok Pagoda rise prominently above the nearby village by Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.959205,
+                        11.626896
+                  ]
+            },
+            {
+                  "name": "Catholic Church Koh Kong",
+                  "text": "This small, unassuming Christian church serves as a gathering and prayer space for the Catholic community in the coastal town of Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.981717,
+                        11.613452
+                  ]
+            },
+            {
+                  "name": "Stupa of Khun Chhang",
+                  "text": "The prominent Buddhist stupa of Khun Chhang in Koh Kong is a local pilgrimage site dedicated to the reverence of historical Khmer legends.",
+                  "category": "religious",
+                  "coords": [
+                        102.964117,
+                        11.615379
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "At this bustling, covered Cambodian market (Phsar) in Koh Kong, vendors hawk everything from freshly caught fish to colourful textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        102.981606,
+                        11.608297
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KH-09",
     coords: [102.9900, 11.6150],
@@ -291,7 +4701,304 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "neak-loeung-port-economic-v2",
+    id: "neak-loeung-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ស្វាយសាមសិប (ភូមិ)",
+                  "text": "Dieser ländliche Aussichtspunkt ermöglicht es Besuchern, das tägliche landwirtschaftliche Leben und die saftig grünen Reisfelder rund um das Dorf zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        105.362106,
+                        11.241439
+                  ]
+            },
+            {
+                  "name": "ជើងភ្នំ (ឃុំ)",
+                  "text": "Mit Blick auf die weiten Feuchtgebiete fängt dieser Aussichtspunkt die flache Flusstopografie ein, die typisch für die Ländereien der Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        105.367423,
+                        11.245446
+                  ]
+            },
+            {
+                  "name": "Pou Ratanaram",
+                  "text": "Eine ruhige Kultstätte, in der sich einheimische Gläubige in einem geräumigen, mit goldenen religiösen Motiven geschmückten Gebetssaal versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        105.325413,
+                        11.222763
+                  ]
+            },
+            {
+                  "name": "Chrey Udom",
+                  "text": "Diese spirituelle Stätte dreht sich um einen alten Bodhi-Baum und verfügt über klassische Stupas, in denen die Asche angesehener Mönche aufbewahrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        105.36729,
+                        11.233587
+                  ]
+            },
+            {
+                  "name": "Wat Steung Slot",
+                  "text": "Dieser buddhistische Komplex in der Nähe eines Wasserwegs nutzt seine Lage am Fluss für friedliche Meditationsspaziergänge am Ufer.",
+                  "category": "landmark",
+                  "coords": [
+                        105.321182,
+                        11.251856
+                  ]
+            },
+            {
+                  "name": "Sansam Kosal",
+                  "text": "Eine buddhistische Gemeindepagode, die durch ihre reich verzierten Zeremonientore und den weitläufigen Innenhof für religiöse Feste gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.289231,
+                        11.260327
+                  ]
+            },
+            {
+                  "name": "Wat Tuol Samathi",
+                  "text": "Dieser buddhistische Tempel bietet einen ruhigen Zufluchtsort auf einer leichten Anhöhe, sodass seine Meditationshallen während der Regenzeit sicher sind.",
+                  "category": "landmark",
+                  "coords": [
+                        105.298324,
+                        11.25313
+                  ]
+            },
+            {
+                  "name": "Preah Chy Thom",
+                  "text": "Eine ehrwürdige Kultstätte mit traditionellen Wächterlöwenstatuen, die die Stufen zum Hauptheiligtum flankieren.",
+                  "category": "religious",
+                  "coords": [
+                        105.347895,
+                        11.218894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ស្វាយសាមសិប (ភូមិ)",
+                  "text": "Ez a vidéki kilátópont lehetővé teszi a látogatók számára, hogy megfigyeljék a mindennapi mezőgazdasági életet és a falut körülvevő buja zöld rizsföldeket.",
+                  "category": "natural",
+                  "coords": [
+                        105.362106,
+                        11.241439
+                  ]
+            },
+            {
+                  "name": "ជើងភ្នំ (ឃុំ)",
+                  "text": "A kiterjedt vizes élőhelyekre néző kilátópont megörökíti a régió közösségi területeire jellemző lapos, folyóparti domborzatot.",
+                  "category": "natural",
+                  "coords": [
+                        105.367423,
+                        11.245446
+                  ]
+            },
+            {
+                  "name": "Pou Ratanaram",
+                  "text": "Békés istentiszteleti hely, ahol a helyi hívek egy tágas, arany vallási motívumokkal díszített imateremben gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        105.325413,
+                        11.222763
+                  ]
+            },
+            {
+                  "name": "Chrey Udom",
+                  "text": "Ez a spirituális hely egy ősi Bódhifa körül helyezkedik el, és klasszikus sztúpákkal rendelkezik, amelyek tisztelt szerzetesek hamvait őrzik.",
+                  "category": "religious",
+                  "coords": [
+                        105.36729,
+                        11.233587
+                  ]
+            },
+            {
+                  "name": "Wat Steung Slot",
+                  "text": "A vízi út közelében fekvő buddhista komplexum a folyóparti környezetet használja békés meditációs sétákra a parton.",
+                  "category": "landmark",
+                  "coords": [
+                        105.321182,
+                        11.251856
+                  ]
+            },
+            {
+                  "name": "Sansam Kosal",
+                  "text": "Egy közösségi buddhista pagoda, melyet erősen díszített szertartási kapui és vallási fesztiválokra használt tágas udvara jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        105.289231,
+                        11.260327
+                  ]
+            },
+            {
+                  "name": "Wat Tuol Samathi",
+                  "text": "Ez a buddhista templom csendes menedéket kínál egy enyhe magaslaton, így meditációs termei biztonságban vannak az esős évszakban is.",
+                  "category": "landmark",
+                  "coords": [
+                        105.298324,
+                        11.25313
+                  ]
+            },
+            {
+                  "name": "Preah Chy Thom",
+                  "text": "Tiszteletre méltó istentiszteleti hely, ahol hagyományos őrző oroszlánszobrok szegélyezik a főszentélyhez vezető lépcsőket.",
+                  "category": "religious",
+                  "coords": [
+                        105.347895,
+                        11.218894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ស្វាយសាមសិប (ភូមិ)",
+                  "text": "Acest punct de observație rural permite vizitatorilor să privească viața agricolă zilnică și orezăriile verzi și luxuriante din jurul satului.",
+                  "category": "natural",
+                  "coords": [
+                        105.362106,
+                        11.241439
+                  ]
+            },
+            {
+                  "name": "ជើងភ្នំ (ឃុំ)",
+                  "text": "Având vedere la zonele umede întinse, acest punct de observație surprinde topografia plată, fluvială, tipică terenurilor comunale din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        105.367423,
+                        11.245446
+                  ]
+            },
+            {
+                  "name": "Pou Ratanaram",
+                  "text": "Un loc de cult liniștit unde credincioșii locali se adună într-o sală de rugăciune spațioasă, împodobită cu motive religioase aurii.",
+                  "category": "religious",
+                  "coords": [
+                        105.325413,
+                        11.222763
+                  ]
+            },
+            {
+                  "name": "Chrey Udom",
+                  "text": "Acest sit spiritual este centrat în jurul unui arbore Bodhi antic și prezintă stupe clasice care păstrează cenușa călugărilor respectați.",
+                  "category": "religious",
+                  "coords": [
+                        105.36729,
+                        11.233587
+                  ]
+            },
+            {
+                  "name": "Wat Steung Slot",
+                  "text": "Poziționat lângă o cale navigabilă, acest complex budist își folosește decorul fluvial pentru plimbări pașnice de meditație de-a lungul malului.",
+                  "category": "landmark",
+                  "coords": [
+                        105.321182,
+                        11.251856
+                  ]
+            },
+            {
+                  "name": "Sansam Kosal",
+                  "text": "O pagodă budistă comunitară identificată prin porțile sale ceremoniale bogat decorate și curtea extinsă folosită pentru festivaluri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        105.289231,
+                        11.260327
+                  ]
+            },
+            {
+                  "name": "Wat Tuol Samathi",
+                  "text": "Acest templu budist oferă un refugiu liniștit construit pe o ușoară elevație, menținându-și sălile de meditație în siguranță în timpul sezonului umed.",
+                  "category": "landmark",
+                  "coords": [
+                        105.298324,
+                        11.25313
+                  ]
+            },
+            {
+                  "name": "Preah Chy Thom",
+                  "text": "Un loc de cult venerabil care prezintă statui tradiționale de lei păzitori flancând treptele care duc spre sanctuarul principal.",
+                  "category": "religious",
+                  "coords": [
+                        105.347895,
+                        11.218894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svay Sam Sep Village",
+                  "text": "This rural vantage point allows visitors to observe the daily agricultural life and lush green paddies surrounding the village.",
+                  "category": "natural",
+                  "coords": [
+                        105.362106,
+                        11.241439
+                  ]
+            },
+            {
+                  "name": "Cheung Phnum Commune",
+                  "text": "Overlooking the expansive wetlands, this viewpoint captures the flat, riverine topography typical of the region's commune lands.",
+                  "category": "natural",
+                  "coords": [
+                        105.367423,
+                        11.245446
+                  ]
+            },
+            {
+                  "name": "Pou Ratanaram",
+                  "text": "A serene place of worship where local devotees gather in a spacious prayer hall adorned with golden religious motifs.",
+                  "category": "religious",
+                  "coords": [
+                        105.325413,
+                        11.222763
+                  ]
+            },
+            {
+                  "name": "វត្តជ្រៃឧត្តម Chrey Odom",
+                  "text": "This spiritual site centers around an ancient Bodhi tree and features classical stupas preserving the ashes of respected monks.",
+                  "category": "religious",
+                  "coords": [
+                        105.36729,
+                        11.233587
+                  ]
+            },
+            {
+                  "name": "Wat Steung Slot",
+                  "text": "Positioned near a waterway, this Buddhist complex uses its riverine setting for peaceful meditation walks along the bank.",
+                  "category": "landmark",
+                  "coords": [
+                        105.321182,
+                        11.251856
+                  ]
+            },
+            {
+                  "name": "Sansam Kosal",
+                  "text": "A community Buddhist pagoda identified by its highly decorated ceremonial gates and extensive courtyard used for religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        105.289231,
+                        11.260327
+                  ]
+            },
+            {
+                  "name": "Wat Tuol Samathi",
+                  "text": "This Buddhist temple offers a quiet refuge built on a slight elevation, keeping its meditation halls secure during the wet season.",
+                  "category": "landmark",
+                  "coords": [
+                        105.298324,
+                        11.25313
+                  ]
+            },
+            {
+                  "name": "Preah Chy Thom",
+                  "text": "A venerable place of worship featuring traditional guardian lion statues flanking the steps up to the main sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        105.347895,
+                        11.218894
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KH-14",
     coords: [105.2817, 11.2586],
@@ -387,7 +5094,232 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kamchay-dam-economic-v2",
+    id: "kamchay-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc aquatique - Entanou Slide",
+                  "text": "Diese Wasserpark-Attraktion am Flussufer bietet die Entanou-Rutsche und sorgt für aufregende Wasserunterhaltung entlang der langsam fließenden Strömungen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.158559,
+                        10.669661
+                  ]
+            },
+            {
+                  "name": "River Rapids - Tubing",
+                  "text": "Der River Rapids-Bereich bietet Besuchern die Möglichkeit, aufblasbare Reifen zu mieten und die malerischen, bewaldeten Wasserwege hinunterzutreiben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.130042,
+                        10.671055
+                  ]
+            },
+            {
+                  "name": "Daung Te Resort",
+                  "text": "Das Daung Te Resort ist ein beliebtes Erholungsziel mit wasserbasierten Rutschen im Fluss, Seilrutschen und schwimmenden Freizeitplattformen.",
+                  "category": "recreational",
+                  "coords": [
+                        104.145111,
+                        10.663795
+                  ]
+            },
+            {
+                  "name": "Tada Waterfall",
+                  "text": "Der Tada-Wasserfall ist eine mehrstufige natürliche Kaskade mitten im Dschungel und verfügt über kühle Naturpools, die sich perfekt zum Schwimmen eignen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.10063,
+                        10.674622
+                  ]
+            },
+            {
+                  "name": "Teuk Chhou Zoo (closed)",
+                  "text": "Der ehemals aktive Teuk Chhou Zoo steht heute als verlassener zoologischer Park inmitten der überwucherten tropischen Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        104.136863,
+                        10.664917
+                  ]
+            },
+            {
+                  "name": "បឹងព្រះ (វត្ត)",
+                  "text": "Die Boeng Preah Pagoda ist ein religiöses Monument, das sich durch seinen traditionellen kambodschanischen Baustil und seine ruhige Lage am See auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        104.170542,
+                        10.684317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc aquatique - Entanou Slide",
+                  "text": "Ez a folyóparti vízi vidámparki attrakció az Entanou csúszdával rendelkezik, amely izgalmas vízi szórakozást nyújt a lassan folyó áramlatok mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        104.158559,
+                        10.669661
+                  ]
+            },
+            {
+                  "name": "River Rapids - Tubing",
+                  "text": "A River Rapids terület lehetőséget kínál a látogatóknak, hogy felfújható gumibelsőket béreljenek, és sodródjanak a festői, erdős vízi utakon.",
+                  "category": "landmark",
+                  "coords": [
+                        104.130042,
+                        10.671055
+                  ]
+            },
+            {
+                  "name": "Daung Te Resort",
+                  "text": "A Daung Te Resort egy népszerű rekreációs célpont, amely folyami vízi csúszdákkal, kötélpályákkal és úszó szabadidős platformokkal van felszerelve.",
+                  "category": "recreational",
+                  "coords": [
+                        104.145111,
+                        10.663795
+                  ]
+            },
+            {
+                  "name": "Tada Waterfall",
+                  "text": "A Tada-vízesés egy dzsungelben megbúvó többszintes természetes zuhatag, amely hűvös természetes medencékkel rendelkezik, és tökéletes az úszáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        104.10063,
+                        10.674622
+                  ]
+            },
+            {
+                  "name": "Teuk Chhou Zoo (closed)",
+                  "text": "Az egykor aktív Teuk Chhou Állatkert ma már egy elhagyatott zoológiai park a benőtt trópusi növényzet között.",
+                  "category": "recreational",
+                  "coords": [
+                        104.136863,
+                        10.664917
+                  ]
+            },
+            {
+                  "name": "បឹងព្រះ (វត្ត)",
+                  "text": "A Boeng Preah Pagoda egy vallási emlékmű, amely hagyományos kambodzsai építészeti stílusával és nyugodt tóparti környezetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        104.170542,
+                        10.684317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc aquatique - Entanou Slide",
+                  "text": "Această atracție de parc acvatic de pe malul râului are toboganul Entanou, oferind divertisment acvatic palpitant de-a lungul curenților lenți.",
+                  "category": "landmark",
+                  "coords": [
+                        104.158559,
+                        10.669661
+                  ]
+            },
+            {
+                  "name": "River Rapids - Tubing",
+                  "text": "Zona River Rapids oferă vizitatorilor posibilitatea de a închiria camere gonflabile și de a pluti în derivă pe căile navigabile pitorești, împădurite.",
+                  "category": "landmark",
+                  "coords": [
+                        104.130042,
+                        10.671055
+                  ]
+            },
+            {
+                  "name": "Daung Te Resort",
+                  "text": "Daung Te Resort este o destinație de agrement populară, dotată cu tobogane de apă pe râu, tiroliene și platforme de agrement plutitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        104.145111,
+                        10.663795
+                  ]
+            },
+            {
+                  "name": "Tada Waterfall",
+                  "text": "Cascada Tada este o cascadă naturală cu mai multe niveluri, cuibărită în junglă, cu piscine naturale răcoroase, perfecte pentru înot.",
+                  "category": "landmark",
+                  "coords": [
+                        104.10063,
+                        10.674622
+                  ]
+            },
+            {
+                  "name": "Teuk Chhou Zoo (closed)",
+                  "text": "Fosta grădină zoologică activă Teuk Chhou se află acum ca un parc zoologic abandonat printre vegetația tropicală invadatoare.",
+                  "category": "recreational",
+                  "coords": [
+                        104.136863,
+                        10.664917
+                  ]
+            },
+            {
+                  "name": "បឹងព្រះ (វត្ត)",
+                  "text": "Pagoda Boeng Preah este un monument religios care se distinge prin stilul său arhitectural tradițional cambodgian și cadrul senin de pe malul lacului.",
+                  "category": "religious",
+                  "coords": [
+                        104.170542,
+                        10.684317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc aquatique - Entanou Slide",
+                  "text": "This riverside water park attraction features the Entanou Slide, providing thrilling aquatic entertainment along the slow-flowing currents.",
+                  "category": "landmark",
+                  "coords": [
+                        104.158559,
+                        10.669661
+                  ]
+            },
+            {
+                  "name": "River Rapids - Tubing",
+                  "text": "The River Rapids area offers visitors the opportunity to rent inflatable tubes and drift down the scenic, forested waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        104.130042,
+                        10.671055
+                  ]
+            },
+            {
+                  "name": "Daung Te Resort",
+                  "text": "Daung Te Resort is a popular recreational destination equipped with river-based water slides, zip lines, and floating leisure platforms.",
+                  "category": "recreational",
+                  "coords": [
+                        104.145111,
+                        10.663795
+                  ]
+            },
+            {
+                  "name": "Tada Waterfall",
+                  "text": "Tada Waterfall is a multi-tiered natural cascade nestled in the jungle, featuring cool natural pools perfect for swimming.",
+                  "category": "landmark",
+                  "coords": [
+                        104.10063,
+                        10.674622
+                  ]
+            },
+            {
+                  "name": "Teuk Chhou Zoo (closed)",
+                  "text": "The formerly active Teuk Chhou Zoo now stands as an abandoned zoological park among the overgrown tropical vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        104.136863,
+                        10.664917
+                  ]
+            },
+            {
+                  "name": "Boeng Preah Pagoda",
+                  "text": "Boeng Preah Pagoda is a religious monument distinguished by its traditional Cambodian architectural style and serene lakeside setting.",
+                  "category": "religious",
+                  "coords": [
+                        104.170542,
+                        10.684317
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KH-07",
     coords: [104.1200, 10.7183],
@@ -435,7 +5367,52 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kirirom-1-hydropower-economic-v2",
+    id: "kirirom-1-hydropower-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "វត្តគិរីរម្យចាស់",
+                  "text": "Dieser historische buddhistische Tempel befindet sich in der Nähe des Wasserkraftwerks Kirirom 1, eingebettet in das bergige Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        104.03683,
+                        11.320337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "វត្តគិរីរម្យចាស់",
+                  "text": "A Kirirom 1 vízerőmű közelében fekvő történelmi buddhista templom a hegyvidéki terepen bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        104.03683,
+                        11.320337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "វត្តគិរីរម្យចាស់",
+                  "text": "Acest templu budist istoric este situat în vecinătatea hidrocentralei Kirirom 1, fiind cuibărit în relieful muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        104.03683,
+                        11.320337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Kirirom Chas",
+                  "text": "This historic Buddhist temple is located in the vicinity of the Kirirom 1 Hydropower station, nestled amid the mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        104.03683,
+                        11.320337
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KH-09",
     coords: [104.0433, 11.3125],
@@ -627,7 +5604,52 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "phnom-dek-iron-mine-economic-v2",
+    id: "phnom-dek-iron-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ប្រាសាទក្រពុំឈូក",
+                  "text": "Eine alte Tempelruine in der Nähe des Industrie- und Bergbaugebiets Phnom Dek.",
+                  "category": "religious",
+                  "coords": [
+                        105.031303,
+                        13.502169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ប្រាសាទក្រពុំឈូក",
+                  "text": "Egy ősi templomrom az ipari Phnom Dek bányászati ​​terület közelében.",
+                  "category": "religious",
+                  "coords": [
+                        105.031303,
+                        13.502169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ប្រាសាទក្រពុំឈូក",
+                  "text": "O ruină a unui templu antic situat în apropierea zonei miniere industriale Phnom Dek.",
+                  "category": "religious",
+                  "coords": [
+                        105.031303,
+                        13.502169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prasat Krapum Chhuk",
+                  "text": "An ancient temple ruin located near the industrial Phnom Dek mining area.",
+                  "category": "religious",
+                  "coords": [
+                        105.031303,
+                        13.502169
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KH-13",
     coords: [105.0200, 13.5100],
@@ -675,7 +5697,160 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kampot-cement-plant-economic-v2",
+    id: "kampot-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "លោកយាយម៉ៅ",
+                  "text": "Dieser verehrte Schrein am Straßenrand ist Lok Yeay Mao gewidmet, einer alten kambodschanischen mythischen Heldin, die als Beschützerin der Reisenden gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.313381,
+                        10.716399
+                  ]
+            },
+            {
+                  "name": "Phnom Chhngok Cave Temple",
+                  "text": "Versteckt in einem dramatischen Karstberg, beherbergt diese Attraktion einen bemerkenswerten Funan-Ziegeltempel aus dem 7. Jahrhundert, der direkt in die Höhlenstalaktiten gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        104.269635,
+                        10.642235
+                  ]
+            },
+            {
+                  "name": "វត្ត​ចក្រីទីង",
+                  "text": "Vor der Kulisse von Kalksteinhügeln in der Nähe des Zementwerks gelegen, ist Wat Chakrei Ting ein friedliches buddhistisches Kloster mit einer auffallend bunten Haupthalle.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248542,
+                        10.699659
+                  ]
+            },
+            {
+                  "name": "Angsdok pagoda",
+                  "text": "Die Angsdok Pagode ist eine ruhige buddhistische Stätte, die sich durch ihre kunstvoll geformten Stupas auszeichnet, die sich vor der ländlichen Landschaft von Kampot erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.265311,
+                        10.645345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "លោកយាយម៉ៅ",
+                  "text": "Ez a tisztelt út menti szentély Lok Yeay Mao-nak, a kambodzsai mitikus hősnőnek van szentelve, akit az utazók védelmezőjének tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.313381,
+                        10.716399
+                  ]
+            },
+            {
+                  "name": "Phnom Chhngok Cave Temple",
+                  "text": "Egy drámai karszthegyben megbúvó látványosság egy figyelemre méltó 7. századi tégla Funan templomot rejt, amely közvetlenül a barlang cseppköveibe épült.",
+                  "category": "landmark",
+                  "coords": [
+                        104.269635,
+                        10.642235
+                  ]
+            },
+            {
+                  "name": "វត្ត​ចក្រីទីង",
+                  "text": "A cementgyár közelében lévő mészkődombok hátterében található Wat Chakrei Ting egy békés buddhista kolostor, feltűnően színes főcsarnokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248542,
+                        10.699659
+                  ]
+            },
+            {
+                  "name": "Angsdok pagoda",
+                  "text": "Az Angsdok pagoda egy nyugodt buddhista vallási helyszín, amelyet Kampot vidéki tájából kiemelkedő, bonyolultan faragott sztúpái tesznek egyedivé.",
+                  "category": "landmark",
+                  "coords": [
+                        104.265311,
+                        10.645345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "លោកយាយម៉ៅ",
+                  "text": "Acest venerat altar de la marginea drumului este dedicat lui Lok Yeay Mao, o veche eroină mitică cambodgiană considerată o protectoare a călătorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.313381,
+                        10.716399
+                  ]
+            },
+            {
+                  "name": "Phnom Chhngok Cave Temple",
+                  "text": "Ascunsă într-un munte carstic dramatic, această atracție prezintă un remarcabil templu de cărămidă Funan din secolul al VII-lea, construit direct în stalactitele peșterii.",
+                  "category": "landmark",
+                  "coords": [
+                        104.269635,
+                        10.642235
+                  ]
+            },
+            {
+                  "name": "វត្ត​ចក្រីទីង",
+                  "text": "Situat pe fundalul dealurilor de calcar de lângă fabrica de ciment, Wat Chakrei Ting este o mănăstire budistă pașnică, cu o sală principală uimitor de colorată.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248542,
+                        10.699659
+                  ]
+            },
+            {
+                  "name": "Angsdok pagoda",
+                  "text": "Pagoda Angsdok este un sit religios budist liniștit, care se distinge prin stupele sale sculptate complicat, care se înalță pe peisajul rural din Kampot.",
+                  "category": "landmark",
+                  "coords": [
+                        104.265311,
+                        10.645345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lok Yeay Mao Shrine",
+                  "text": "This revered roadside shrine is dedicated to Lok Yeay Mao, an ancient Cambodian mythical heroine considered a protector of travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        104.313381,
+                        10.716399
+                  ]
+            },
+            {
+                  "name": "Phnom Chhngok Cave Temple",
+                  "text": "Hidden within a dramatic karst mountain, this attraction features a remarkable 7th-century brick Funan temple built directly into the cave stalactites.",
+                  "category": "landmark",
+                  "coords": [
+                        104.269635,
+                        10.642235
+                  ]
+            },
+            {
+                  "name": "Wat Chakrei Ting",
+                  "text": "Set against a backdrop of limestone hills near the cement plant, Wat Chakrei Ting is a peaceful Buddhist monastery with a strikingly colorful main hall.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248542,
+                        10.699659
+                  ]
+            },
+            {
+                  "name": "Angsdok pagoda",
+                  "text": "Angsdok Pagoda is a tranquil Buddhist religious site distinguished by its intricately sculpted stupas rising against the Kampot rural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        104.265311,
+                        10.645345
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KH-07",
     coords: [104.2800, 10.6600],
@@ -723,7 +5898,340 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "bavet-border-trade-hub-economic-v2",
+    id: "bavet-border-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tháp Bình Thạnh",
+                  "text": "Ein alter, aufwendig geschnitzter Cham-Turm aus Backstein aus dem 8. bis 9. Jahrhundert in der Provinz Tay Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.219194,
+                        11.018646
+                  ]
+            },
+            {
+                  "name": "វត្ត​តាពៅ",
+                  "text": "Ein kambodschanischer buddhistischer Tempel, der den Gemeinden in der Nähe des geschäftigen Grenzknotenpunkts Bavet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149976,
+                        11.036455
+                  ]
+            },
+            {
+                  "name": "វត្តកន្សៃរាជ",
+                  "text": "Dieser buddhistische Wat bietet einen ruhigen Ort für das klösterliche Leben, nur eine kurze Strecke vom geschäftigen internationalen Grenzübergang entfernt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.145399,
+                        11.005274
+                  ]
+            },
+            {
+                  "name": "វត្តថ្នាញ",
+                  "text": "Dieser buddhistische Tempelkomplex in der Grenzregion zeichnet sich durch traditionelle Khmer-Architektur und lebendige Zeremonienhallen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        106.12104,
+                        11.023607
+                  ]
+            },
+            {
+                  "name": "វត្ត​បុពារាម",
+                  "text": "Diese buddhistische Pagode ist bei den Einheimischen für ihre ruhigen Innenhöfe bekannt und bietet eine Atempause vom wirtschaftlichen Treiben in der Zone Bavet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.1735,
+                        11.051718
+                  ]
+            },
+            {
+                  "name": "Thánh thất Tiên Thuận",
+                  "text": "Ein heiliger Sitz der Cao Dai in Tien Thuan, der die unverwechselbare farbenfrohe, mehrstöckige Architektur des synkretistischen Glaubens zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.151389,
+                        11.111392
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật mẫu Tiên Thuận",
+                  "text": "Dieser Tempel der Heiligen Mutter in Tien Thuan ist ein wichtiger spiritueller Ort für caodaistische Gläubige nahe der Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149033,
+                        11.114011
+                  ]
+            },
+            {
+                  "name": "Chợ Đường Biên",
+                  "text": "Dieser direkt an der internationalen Grenze gelegene Grenzmarkt erleichtert den geschäftigen grenzüberschreitenden Handel zwischen Kambodscha und Vietnam.",
+                  "category": "cultural",
+                  "coords": [
+                        106.172701,
+                        11.079105
+                  ]
+            },
+            {
+                  "name": "ផ្សារអន្តរជាតិ បាវិត",
+                  "text": "Ein großes Handelszentrum in der Grenzstadt Bavet, das voller Stände ist, an denen von frischen Lebensmitteln bis hin zu Elektronik alles verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        106.154919,
+                        11.068499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tháp Bình Thạnh",
+                  "text": "Egy ősi, bonyolultan faragott tégla cham torony a 8-9. századból Tay Ninh tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        106.219194,
+                        11.018646
+                  ]
+            },
+            {
+                  "name": "វត្ត​តាពៅ",
+                  "text": "Kambodzsai buddhista templom, amely a nyüzsgő baveti határkereskedelmi központ közelében fekvő közösségeket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149976,
+                        11.036455
+                  ]
+            },
+            {
+                  "name": "វត្តកន្សៃរាជ",
+                  "text": "Ez a buddhista wat nyugodt helyet biztosít a szerzetesi élet számára, csak egy rövid távolságra a forgalmas nemzetközi határátkelőtől.",
+                  "category": "landmark",
+                  "coords": [
+                        106.145399,
+                        11.005274
+                  ]
+            },
+            {
+                  "name": "វត្តថ្នាញ",
+                  "text": "A határ menti régióban található buddhista templomkomplexum hagyományos khmer építészettel és élénk szertartási termekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.12104,
+                        11.023607
+                  ]
+            },
+            {
+                  "name": "វត្ត​បុពារាម",
+                  "text": "A helyiek körében nyugodt udvarairól ismert buddhista pagoda felüdülést nyújt a baveti övezet gazdasági tevékenysége elől.",
+                  "category": "landmark",
+                  "coords": [
+                        106.1735,
+                        11.051718
+                  ]
+            },
+            {
+                  "name": "Thánh thất Tiên Thuận",
+                  "text": "Kaodaista szentszék Tien Thuanban, amely a szinkretikus hit jellegzetes élénk színű, többszintes építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        106.151389,
+                        11.111392
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật mẫu Tiên Thuận",
+                  "text": "A Szent Anya temploma Tien Thuanban fontos spirituális helyszín a határ közelében élő kaodaista hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149033,
+                        11.114011
+                  ]
+            },
+            {
+                  "name": "Chợ Đường Biên",
+                  "text": "Közvetlenül a nemzetközi határnál működő határpiac megkönnyíti a nyüzsgő határon átnyúló kereskedelmet Kambodzsa és Vietnám között.",
+                  "category": "cultural",
+                  "coords": [
+                        106.172701,
+                        11.079105
+                  ]
+            },
+            {
+                  "name": "ផ្សារអន្តរជាតិ បាវិត",
+                  "text": "Jelentős kereskedelmi központ Bavet határvárosában, tele standokkal, amelyek a friss élelmiszerektől az elektronikáig mindent árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.154919,
+                        11.068499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tháp Bình Thạnh",
+                  "text": "Un vechi turn Cham din cărămidă, sculptat complex, din secolele VIII-IX, situat în provincia Tay Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.219194,
+                        11.018646
+                  ]
+            },
+            {
+                  "name": "វត្ត​តាពៅ",
+                  "text": "Un templu budist cambodgian care deservește comunitățile din apropierea hub-ului comercial de frontieră aglomerat din Bavet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149976,
+                        11.036455
+                  ]
+            },
+            {
+                  "name": "វត្តកន្សៃរាជ",
+                  "text": "Acest wat budist oferă un loc senin pentru viața monahală, la o scurtă distanță de aglomeratul punct de trecere a frontierei internaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.145399,
+                        11.005274
+                  ]
+            },
+            {
+                  "name": "វត្តថ្នាញ",
+                  "text": "Situat în regiunea de graniță, acest complex de temple budiste prezintă arhitectură tradițională khmeră și săli ceremoniale vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        106.12104,
+                        11.023607
+                  ]
+            },
+            {
+                  "name": "វត្ត​បុពារាម",
+                  "text": "Cunoscută printre localnici pentru curțile sale liniștite, această pagodă budistă oferă un răgaz de la activitatea economică din zona Bavet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.1735,
+                        11.051718
+                  ]
+            },
+            {
+                  "name": "Thánh thất Tiên Thuận",
+                  "text": "Un scaun sfânt Caodai din Tien Thuan care prezintă arhitectura distinctă, viu colorată și cu mai multe niveluri a credinței sincretice.",
+                  "category": "landmark",
+                  "coords": [
+                        106.151389,
+                        11.111392
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật mẫu Tiên Thuận",
+                  "text": "Acest templu al Sfintei Mame din Tien Thuan este un loc spiritual vital pentru credincioșii caodaiști din apropierea graniței.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149033,
+                        11.114011
+                  ]
+            },
+            {
+                  "name": "Chợ Đường Biên",
+                  "text": "Funcționând chiar la granița internațională, această piață de frontieră facilitează un comerț transfrontalier animat între Cambodgia și Vietnam.",
+                  "category": "cultural",
+                  "coords": [
+                        106.172701,
+                        11.079105
+                  ]
+            },
+            {
+                  "name": "ផ្សារអន្តរជាតិ បាវិត",
+                  "text": "Un centru comercial major în orașul de frontieră Bavet, plin de tarabe care vând de toate, de la alimente proaspete la electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.154919,
+                        11.068499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tháp Bình Thạnh",
+                  "text": "An ancient, intricately carved brick Cham tower from the 8th-9th centuries located in Tay Ninh province.",
+                  "category": "landmark",
+                  "coords": [
+                        106.219194,
+                        11.018646
+                  ]
+            },
+            {
+                  "name": "Wat Ta Phov",
+                  "text": "A Cambodian Buddhist temple serving the communities near the bustling Bavet border trade hub.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149976,
+                        11.036455
+                  ]
+            },
+            {
+                  "name": "Wat Kansey Reach",
+                  "text": "This Buddhist wat provides a serene place for monastic life just a short distance from the busy international border crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        106.145399,
+                        11.005274
+                  ]
+            },
+            {
+                  "name": "Wat Thnanh",
+                  "text": "Located in the border region, this Buddhist temple complex features traditional Khmer architecture and vibrant ceremonial halls.",
+                  "category": "landmark",
+                  "coords": [
+                        106.12104,
+                        11.023607
+                  ]
+            },
+            {
+                  "name": "Wat Bopharam",
+                  "text": "Known among locals for its tranquil courtyards, this Buddhist pagoda offers respite from the economic activity of the Bavet zone.",
+                  "category": "landmark",
+                  "coords": [
+                        106.1735,
+                        11.051718
+                  ]
+            },
+            {
+                  "name": "Thánh thất Tiên Thuận",
+                  "text": "A Caodai holy see in Tien Thuan showcasing the distinct brightly colored, multi-tiered architecture of the syncretic faith.",
+                  "category": "landmark",
+                  "coords": [
+                        106.151389,
+                        11.111392
+                  ]
+            },
+            {
+                  "name": "Điện thờ Phật mẫu Tiên Thuận",
+                  "text": "This temple of the Holy Mother in Tien Thuan is a vital spiritual venue for Caodaist worshippers near the border.",
+                  "category": "landmark",
+                  "coords": [
+                        106.149033,
+                        11.114011
+                  ]
+            },
+            {
+                  "name": "Chợ Đường Biên",
+                  "text": "Operating right at the international boundary, this border market facilitates bustling cross-border trade between Cambodia and Vietnam.",
+                  "category": "cultural",
+                  "coords": [
+                        106.172701,
+                        11.079105
+                  ]
+            },
+            {
+                  "name": "Bavet Market",
+                  "text": "A major commercial hub in the border town of Bavet, packed with stalls selling everything from fresh food to electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        106.154919,
+                        11.068499
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "KH-20",
     coords: [106.1750, 11.0769],
@@ -771,7 +6279,376 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "poipet-border-trade-hub-economic-v2",
+    id: "poipet-border-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prasat Khao Noi Si Chompu",
+                  "text": "Eine archäologische Stätte mit den Überresten eines antiken Heiligtums aus Laterit und Sandstein in der Nähe der Grenze von Poipet.",
+                  "category": "historical",
+                  "coords": [
+                        102.527298,
+                        13.583867
+                  ]
+            },
+            {
+                  "name": "Thailand–Cambodia Friendship Bridge (Aranyaprathet – Poipet)",
+                  "text": "Eine wichtige grenzüberschreitende Brücke über den Fluss, die Aranyaprathet in Thailand mit Poipet in Kambodscha verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            },
+            {
+                  "name": "វត្តប្រជាធម្មត្រ័យ",
+                  "text": "Ein traditioneller kambodschanischer buddhistischer Tempel, der als spirituelles Zentrum im geschäftigen Grenzknotenpunkt Poipet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.587597,
+                        13.661092
+                  ]
+            },
+            {
+                  "name": "វត្តទួលប្រាសាទ",
+                  "text": "Eine friedliche buddhistische Pagode, die einen ruhigen spirituellen Rückzugsort in der Nähe des geschäftigen Grenzübergangs Poipet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600359,
+                        13.688299
+                  ]
+            },
+            {
+                  "name": "ព្រះសហគមន៍ កាតូលិក ប៉ោយប៉ែត",
+                  "text": "Ein christliches Gotteshaus, das der lokalen Gemeinschaft in der lebhaften Stadt Poipet spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566259,
+                        13.655092
+                  ]
+            },
+            {
+                  "name": "វត្តសូរិយារាម ហៅវត្តថ្មី",
+                  "text": "Ein prominenter buddhistischer Tempelkomplex mit traditionellen architektonischen Elementen in der Grenzstadt Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.569345,
+                        13.659149
+                  ]
+            },
+            {
+                  "name": "វត្តម៉ុងចិន",
+                  "text": "Eine lokale buddhistische Pagode, die inmitten der grenzüberschreitenden Handelsaktivitäten von Poipet eine ruhige Atmosphäre bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.575078,
+                        13.641375
+                  ]
+            },
+            {
+                  "name": "Rongkleu Market",
+                  "text": "Ein weitläufiger grenzüberschreitender Markt, der für seine riesige Auswahl an Second-Hand-Waren und Kleidung bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.548386,
+                        13.664225
+                  ]
+            },
+            {
+                  "name": "Rong Kluea Market",
+                  "text": "Ein massiver Grenzmarkt, der für den Handel mit einer enormen Vielfalt an Großhandelskleidung und Alltagsgegenständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.550104,
+                        13.66821
+                  ]
+            },
+            {
+                  "name": "ផ្សារប៉ោយប៉ែត",
+                  "text": "Ein belebter lokaler Handelsmarkt im Grenzknotenpunkt Poipet, der frische regionale Produkte und Güter des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.562684,
+                        13.656074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prasat Khao Noi Si Chompu",
+                  "text": "Egy régészeti lelőhely, amely egy ősi lateritből és homokkőből készült szentély maradványait mutatja be a Poipet határ közelében.",
+                  "category": "historical",
+                  "coords": [
+                        102.527298,
+                        13.583867
+                  ]
+            },
+            {
+                  "name": "Thailand–Cambodia Friendship Bridge (Aranyaprathet – Poipet)",
+                  "text": "Egy fontos határon átnyúló híd a folyó felett, amely a thaiföldi Aranyaprathetet és a kambodzsai Poipetet köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            },
+            {
+                  "name": "វត្តប្រជាធម្មត្រ័យ",
+                  "text": "Egy hagyományos kambodzsai buddhista templom, amely spirituális központként szolgál a nyüzsgő poipeti határátkelőhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.587597,
+                        13.661092
+                  ]
+            },
+            {
+                  "name": "វត្តទួលប្រាសាទ",
+                  "text": "Egy békés buddhista pagoda, amely csendes spirituális menedéket nyújt a forgalmas poipeti határátkelő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600359,
+                        13.688299
+                  ]
+            },
+            {
+                  "name": "ព្រះសហគមន៍ កាតូលិក ប៉ោយប៉ែត",
+                  "text": "Egy keresztény istentiszteleti hely, amely spirituális szolgáltatásokat nyújt a helyi közösségnek az élettel teli Poipet városában.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566259,
+                        13.655092
+                  ]
+            },
+            {
+                  "name": "វត្តសូរិយារាម ហៅវត្តថ្មី",
+                  "text": "Egy prominens buddhista templomkomplexum hagyományos építészeti elemekkel a határ menti Poipet városában.",
+                  "category": "landmark",
+                  "coords": [
+                        102.569345,
+                        13.659149
+                  ]
+            },
+            {
+                  "name": "វត្តម៉ុងចិន",
+                  "text": "Egy helyi buddhista pagoda, amely nyugodt légkört kínál a poipeti határon átnyúló kereskedelmi tevékenységek közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        102.575078,
+                        13.641375
+                  ]
+            },
+            {
+                  "name": "Rongkleu Market",
+                  "text": "Egy kiterjedt, határon átnyúló piac, amely a használt áruk és ruházati cikkek hatalmas választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        102.548386,
+                        13.664225
+                  ]
+            },
+            {
+                  "name": "Rong Kluea Market",
+                  "text": "Egy hatalmas határ menti piac, amely a nagykereskedelmi ruházat és a mindennapi cikkek óriási választékának kereskedelméről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        102.550104,
+                        13.66821
+                  ]
+            },
+            {
+                  "name": "ផ្សារប៉ោយប៉ែត",
+                  "text": "Egy nyüzsgő helyi kereskedelmi piac a poipeti határátkelőhelyen, amely friss regionális termékeket és napi szükségleti cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        102.562684,
+                        13.656074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prasat Khao Noi Si Chompu",
+                  "text": "Un sit arheologic care prezintă rămășițele din laterit și gresie ale unui sanctuar antic în apropierea graniței din Poipet.",
+                  "category": "historical",
+                  "coords": [
+                        102.527298,
+                        13.583867
+                  ]
+            },
+            {
+                  "name": "Thailand–Cambodia Friendship Bridge (Aranyaprathet – Poipet)",
+                  "text": "Un pod transfrontalier esențial peste râu, care leagă Aranyaprathet din Thailanda de Poipet din Cambodgia.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            },
+            {
+                  "name": "វត្តប្រជាធម្មត្រ័យ",
+                  "text": "Un templu budist cambodgian tradițional care servește drept centru spiritual în aglomeratul punct de frontieră Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.587597,
+                        13.661092
+                  ]
+            },
+            {
+                  "name": "វត្តទួលប្រាសាទ",
+                  "text": "O pagodă budistă pașnică care oferă o retragere spirituală liniștită lângă aglomeratul punct de trecere a frontierei Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600359,
+                        13.688299
+                  ]
+            },
+            {
+                  "name": "ព្រះសហគមន៍ កាតូលិក ប៉ោយប៉ែត",
+                  "text": "Un lăcaș de cult creștin care oferă servicii spirituale comunității locale din vibrantul oraș Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566259,
+                        13.655092
+                  ]
+            },
+            {
+                  "name": "វត្តសូរិយារាម ហៅវត្តថ្មី",
+                  "text": "Un complex de temple budiste proeminent decorat cu elemente arhitecturale tradiționale în orașul de graniță Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.569345,
+                        13.659149
+                  ]
+            },
+            {
+                  "name": "វត្តម៉ុងចិន",
+                  "text": "O pagodă budistă locală care oferă o atmosferă senină în mijlocul activității comerciale transfrontaliere din Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.575078,
+                        13.641375
+                  ]
+            },
+            {
+                  "name": "Rongkleu Market",
+                  "text": "O piață transfrontalieră imensă renumită pentru selecția sa vastă de bunuri second-hand și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        102.548386,
+                        13.664225
+                  ]
+            },
+            {
+                  "name": "Rong Kluea Market",
+                  "text": "O piață de graniță masivă renumită pentru comerțul cu o varietate imensă de îmbrăcăminte en-gros și articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        102.550104,
+                        13.66821
+                  ]
+            },
+            {
+                  "name": "ផ្សារប៉ោយប៉ែត",
+                  "text": "O piață comercială locală aglomerată în punctul de frontieră Poipet, care oferă produse regionale proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        102.562684,
+                        13.656074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prasat Khao Noi Si Chompu",
+                  "text": "An archaeological site featuring the laterite and sandstone remains of an ancient sanctuary near the Poipet border.",
+                  "category": "historical",
+                  "coords": [
+                        102.527298,
+                        13.583867
+                  ]
+            },
+            {
+                  "name": "Thailand–Cambodia Friendship Bridge (Aranyaprathet – Poipet)",
+                  "text": "A crucial cross-border bridge over the river linking Aranyaprathet in Thailand with Poipet in Cambodia.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            },
+            {
+                  "name": "វត្តប្រជាធម្មត្រ័យ",
+                  "text": "A traditional Cambodian Buddhist temple serving as a spiritual center in the bustling border hub of Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.587597,
+                        13.661092
+                  ]
+            },
+            {
+                  "name": "Tuol Prasat Pagoda",
+                  "text": "A peaceful Buddhist pagoda providing a quiet spiritual retreat near the busy Poipet border crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600359,
+                        13.688299
+                  ]
+            },
+            {
+                  "name": "Poipet Catholic Church",
+                  "text": "A Christian place of worship providing spiritual services to the local community in the vibrant town of Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566259,
+                        13.655092
+                  ]
+            },
+            {
+                  "name": "Wat Thmey",
+                  "text": "A prominent Buddhist temple complex adorned with traditional architectural elements in the border town of Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.569345,
+                        13.659149
+                  ]
+            },
+            {
+                  "name": "Mong Chen Pagoda",
+                  "text": "A local Buddhist pagoda offering a serene atmosphere amidst the commercial cross-border activity of Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.575078,
+                        13.641375
+                  ]
+            },
+            {
+                  "name": "Rongkleu Market",
+                  "text": "A sprawling cross-border marketplace famous for its vast selection of second-hand goods and apparel.",
+                  "category": "cultural",
+                  "coords": [
+                        102.548386,
+                        13.664225
+                  ]
+            },
+            {
+                  "name": "Rong Kluea Market",
+                  "text": "A massive border market renowned for trading an immense variety of wholesale clothing and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        102.550104,
+                        13.66821
+                  ]
+            },
+            {
+                  "name": "Poipet Market",
+                  "text": "A bustling local commercial market in the border hub of Poipet, offering fresh regional produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        102.562684,
+                        13.656074
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "KH-01",
     coords: [102.5572, 13.6592],
@@ -819,7 +6696,160 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "chakrey-ting-cement-factory-economic-v2",
+    id: "chakrey-ting-cement-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese Moschee in der industriellen Umgebung nahe der Zementfabrik Chakrey Ting dient als spiritueller Anker für die lokalen muslimischen Arbeiter.",
+                  "category": "landmark",
+                  "coords": [
+                        104.180737,
+                        10.647215
+                  ]
+            },
+            {
+                  "name": "វត្តភ្នំស",
+                  "text": "In der Nähe des Industriegebiets Chakrey Ting gelegen, bietet diese buddhistische Pagode einen friedlichen Rückzugsort vor der Kulisse des Weißen Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        104.185824,
+                        10.66616
+                  ]
+            },
+            {
+                  "name": "វត្ត​ចក្រីទីង",
+                  "text": "Dieser lokale buddhistische Tempel in der Nähe der großen Zementfabrik bleibt ein wichtiges kulturelles Zentrum für die Einwohner von Chakrey Ting.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248331,
+                        10.699802
+                  ]
+            },
+            {
+                  "name": "Wat Ong Prey Serey Mean Chey",
+                  "text": "Dieser den buddhistischen Praktiken gewidmete Tempel bringt spirituellen Trost in den geschäftigen Wirtschaftsbezirk rund um Chakrey Ting.",
+                  "category": "landmark",
+                  "coords": [
+                        104.214276,
+                        10.624902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "A Chakrey Ting cementgyár közelében, az ipari környezetben található mecset a helyi muszlim munkások spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.180737,
+                        10.647215
+                  ]
+            },
+            {
+                  "name": "វត្តភ្នំស",
+                  "text": "A Chakrey Ting ipari terület közelében található buddhista pagoda békés menedéket kínál a Fehér-hegy hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.185824,
+                        10.66616
+                  ]
+            },
+            {
+                  "name": "វត្ត​ចក្រីទីង",
+                  "text": "A nagy cementgyár közelében fekvő helyi buddhista templom továbbra is fontos kulturális központ Chakrey Ting lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248331,
+                        10.699802
+                  ]
+            },
+            {
+                  "name": "Wat Ong Prey Serey Mean Chey",
+                  "text": "A buddhista gyakorlatoknak szentelt templom spirituális vigaszt nyújt a Chakrey Ting körüli forgalmas gazdasági negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.214276,
+                        10.624902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Situată în mediul industrial din apropierea fabricii de ciment Chakrey Ting, această moschee servește drept ancoră spirituală pentru muncitorii musulmani locali.",
+                  "category": "landmark",
+                  "coords": [
+                        104.180737,
+                        10.647215
+                  ]
+            },
+            {
+                  "name": "វត្តភ្នំស",
+                  "text": "Situată în apropiere de zona industrială Chakrey Ting, această pagodă budistă oferă un refugiu pașnic pe fundalul Muntelui Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        104.185824,
+                        10.66616
+                  ]
+            },
+            {
+                  "name": "វត្ត​ចក្រីទីង",
+                  "text": "Acest templu budist local, situat în apropierea marii fabrici de ciment, rămâne un important centru cultural pentru locuitorii din Chakrey Ting.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248331,
+                        10.699802
+                  ]
+            },
+            {
+                  "name": "Wat Ong Prey Serey Mean Chey",
+                  "text": "Dedicat practicilor budiste, acest templu aduce consolare spirituală în aglomeratul cartier economic din jurul orașului Chakrey Ting.",
+                  "category": "landmark",
+                  "coords": [
+                        104.214276,
+                        10.624902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "Set in the industrial environment near the Chakrey Ting cement factory, this mosque serves as a spiritual anchor for local Muslim workers.",
+                  "category": "landmark",
+                  "coords": [
+                        104.180737,
+                        10.647215
+                  ]
+            },
+            {
+                  "name": "Phnom Sor Pagoda",
+                  "text": "Located near the Chakrey Ting industrial area, this Buddhist pagoda offers a peaceful retreat against the backdrop of the White Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        104.185824,
+                        10.66616
+                  ]
+            },
+            {
+                  "name": "Wat Chakrei Ting",
+                  "text": "This local Buddhist temple, situated near the large cement factory, remains an important cultural hub for residents of Chakrey Ting.",
+                  "category": "landmark",
+                  "coords": [
+                        104.248331,
+                        10.699802
+                  ]
+            },
+            {
+                  "name": "Wat Ong Prey Serey Mean Chey",
+                  "text": "Dedicated to Buddhist practices, this temple brings spiritual solace to the busy economic district around Chakrey Ting.",
+                  "category": "landmark",
+                  "coords": [
+                        104.214276,
+                        10.624902
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KH-07",
     coords: [104.2400, 10.6500],
@@ -867,7 +6897,160 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "kampot-seaport-economic-v2",
+    id: "kampot-seaport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chamrong Dayita Kohtouch Boutique",
+                  "text": "Dieses Strandresort in der Nähe von Kampot bietet seinen Gästen entspannende Unterkünfte direkt am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        104.081028,
+                        10.556768
+                  ]
+            },
+            {
+                  "name": "Glühwürmchen",
+                  "text": "Bei dieser natürlichen nächtlichen Attraktion in Kampot können Besucher Bootstouren auf dem Fluss unternehmen, um leuchtende Glühwürmchen in den Mangroven zu sehen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.167749,
+                        10.640826
+                  ]
+            },
+            {
+                  "name": "វត្តវាលពួច",
+                  "text": "Diese ruhige buddhistische Pagode in der Region Kampot ist mit kunstvollen Stupas verziert und dient als stilles Zentrum für lokale Mönche.",
+                  "category": "landmark",
+                  "coords": [
+                        104.128878,
+                        10.609725
+                  ]
+            },
+            {
+                  "name": "Wat Teuk Vil",
+                  "text": "Traditionelle Khmer-Architektur und farbenfrohe Wandmalereien prägen diesen buddhistischen Tempel im Hafengebiet von Kampot.",
+                  "category": "landmark",
+                  "coords": [
+                        104.170543,
+                        10.641769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chamrong Dayita Kohtouch Boutique",
+                  "text": "Ez a Kampot melletti tengerparti üdülőhely pihentető, közvetlenül a vízparton található szállásokat kínál vendégeinek.",
+                  "category": "recreational",
+                  "coords": [
+                        104.081028,
+                        10.556768
+                  ]
+            },
+            {
+                  "name": "ផ្កាភ្លើង",
+                  "text": "Ennél a természetes éjszakai látványosságnál Kampotban a látogatók csónaktúrákat tehetnek a folyón, hogy megcsodálják a mangroveerdőkben világító szentjánosbogarakat.",
+                  "category": "landmark",
+                  "coords": [
+                        104.167749,
+                        10.640826
+                  ]
+            },
+            {
+                  "name": "វត្តវាលពួច",
+                  "text": "Ez a békés buddhista pagoda a Kampot régióban díszes sztúpákkal rendelkezik, és a helyi szerzetesek csendes központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.128878,
+                        10.609725
+                  ]
+            },
+            {
+                  "name": "Wat Teuk Vil",
+                  "text": "Hagyományos khmer építészet és színes falfestmények jellemzik ezt a buddhista templomot Kampot kikötővárosának térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.170543,
+                        10.641769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chamrong Dayita Kohtouch Boutique",
+                  "text": "Această stațiune de pe coasta din apropiere de Kampot oferă oaspeților cazare relaxantă la malul mării, chiar pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        104.081028,
+                        10.556768
+                  ]
+            },
+            {
+                  "name": "ផ្កាភ្លើង",
+                  "text": "Această atracție naturală nocturnă din Kampot le permite vizitatorilor să facă excursii cu barca pe râu pentru a vedea licuricii strălucind în mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        104.167749,
+                        10.640826
+                  ]
+            },
+            {
+                  "name": "វត្តវាលពួច",
+                  "text": "Această pagodă budistă senină din regiunea Kampot prezintă stupe ornamentate și servește drept centru liniștit pentru călugării locali.",
+                  "category": "landmark",
+                  "coords": [
+                        104.128878,
+                        10.609725
+                  ]
+            },
+            {
+                  "name": "Wat Teuk Vil",
+                  "text": "Arhitectura tradițională khmeră și picturile murale colorate definesc acest templu budist situat în zona portului maritim Kampot.",
+                  "category": "landmark",
+                  "coords": [
+                        104.170543,
+                        10.641769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chamrong Dayita Kohtouch Boutique",
+                  "text": "This coastal beach resort near Kampot offers guests relaxing seaside accommodations right along the waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        104.081028,
+                        10.556768
+                  ]
+            },
+            {
+                  "name": "fireflies",
+                  "text": "This natural nighttime attraction in Kampot allows visitors to take boat tours along the river to see glowing fireflies in the mangroves.",
+                  "category": "landmark",
+                  "coords": [
+                        104.167749,
+                        10.640826
+                  ]
+            },
+            {
+                  "name": "Veal Puoch Pagoda",
+                  "text": "This serene Buddhist pagoda in the Kampot region features ornate stupas and serves as a quiet center for local monks.",
+                  "category": "landmark",
+                  "coords": [
+                        104.128878,
+                        10.609725
+                  ]
+            },
+            {
+                  "name": "Wat Teuk Vil",
+                  "text": "Traditional Khmer architecture and colorful murals define this Buddhist temple situated in the Kampot seaport area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.170543,
+                        10.641769
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KH-07",
     coords: [104.1489, 10.5892],
@@ -915,7 +7098,52 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sihanoukville-coal-power-plant-economic-v2",
+    id: "sihanoukville-coal-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Das verrostete Wrack eines gestrandeten Schiffes bildet einen markanten Kontrast zur idyllischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.543621,
+                        10.689317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Egy megfeneklett hajó rozsdás roncsai feltűnő kontrasztot alkotnak az idilli partvidékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.543621,
+                        10.689317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Epava ruginită a unei nave eșuate creează un contrast izbitor cu coasta idilică.",
+                  "category": "landmark",
+                  "coords": [
+                        103.543621,
+                        10.689317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shipwreck",
+                  "text": "The rusted wreck of a stranded ship creates a striking contrast to the idyllic coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        103.543621,
+                        10.689317
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KH-18",
     coords: [103.5858, 10.7303],

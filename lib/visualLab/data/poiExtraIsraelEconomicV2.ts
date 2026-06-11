@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraIsraelEconomicV2: POI[] = [
   {
-    id: "il-port-haifa-economic-v2",
+    id: "il-port-haifa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Our Lady Church, Melkite",
+                  "text": "Diese Kultstätte dient der melkitischen griechisch-katholischen Gemeinde von Haifa und bereichert das vielfältige religiöse Gefüge nahe dem geschäftigen Hafen.",
+                  "category": "religious",
+                  "coords": [
+                        35.000594,
+                        32.816247
+                  ]
+            },
+            {
+                  "name": "Al-Jarina Mosque",
+                  "text": "Historisch als Große Moschee von Haifa bekannt, steht dieses imposante islamische Bauwerk prominent in der Unterstadt nahe dem Hafen.",
+                  "category": "religious",
+                  "coords": [
+                        35.002265,
+                        32.816688
+                  ]
+            },
+            {
+                  "name": "Israelisches Eisenbahnmuseum",
+                  "text": "Das israelische Eisenbahnmuseum befindet sich im historischen Ostbahnhof von Haifa und präsentiert Schienenfahrzeuge sowie die Geschichte des regionalen Schienenverkehrs.",
+                  "category": "museum",
+                  "coords": [
+                        35.006688,
+                        32.811172
+                  ]
+            },
+            {
+                  "name": "Elijah the Prophet Church",
+                  "text": "Diese christliche Kirche in Haifa ist dem Propheten Elia gewidmet, einer Figur, die tief mit dem nahe gelegenen Berg Karmel verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.000551,
+                        32.817585
+                  ]
+            },
+            {
+                  "name": "Al-Istiqlal Mosque",
+                  "text": "Diese Moschee dient den muslimischen Bewohnern von Haifa und bietet einen wichtigen spirituellen Anker im lebendigen Hafengebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.003872,
+                        32.812672
+                  ]
+            },
+            {
+                  "name": "Talpiot (interior) Market - historic building",
+                  "text": "Dieses historische, überdachte Marktgebäude ist ein Paradebeispiel der internationalen Architektur in Haifa und bleibt ein geschäftiger Knotenpunkt für frische Produkte und lokale Verkäufer.",
+                  "category": "cultural",
+                  "coords": [
+                        35.002708,
+                        32.80878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Our Lady Church, Melkite",
+                  "text": "Ez az istentiszteleti hely Haifa melkita görögkatolikus közösségét szolgálja, gazdagítva a nyüzsgő kikötő környékének vallási sokszínűségét.",
+                  "category": "religious",
+                  "coords": [
+                        35.000594,
+                        32.816247
+                  ]
+            },
+            {
+                  "name": "Al-Jarina Mosque",
+                  "text": "A történelmileg Haifa Nagy Mecsetjeként ismert impozáns iszlám építmény az alsóvárosban, a kikötő közelében magasodik.",
+                  "category": "religious",
+                  "coords": [
+                        35.002265,
+                        32.816688
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Az Izraeli Vasúti Múzeum a történelmi Haifa East vasútállomáson található, bemutatva a gördülőállományt és a regionális vasúti közlekedés történetét.",
+                  "category": "museum",
+                  "coords": [
+                        35.006688,
+                        32.811172
+                  ]
+            },
+            {
+                  "name": "Illés próféta templom",
+                  "text": "Ezt a haifai keresztény templomot Illés prófétának szentelték, aki szorosan kötődik a közeli Kármel-hegyhez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.000551,
+                        32.817585
+                  ]
+            },
+            {
+                  "name": "Al-Istiqlal Mosque",
+                  "text": "Ez a mecset Haifa muszlim lakóit szolgálja, jelentős spirituális horgonyt nyújtva a nyüzsgő kikötőváros térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.003872,
+                        32.812672
+                  ]
+            },
+            {
+                  "name": "Talpiot (interior) Market - historic building",
+                  "text": "A nemzetközi stílusú építészet kiváló példája Haifában ez a történelmi fedett piac, amely továbbra is a friss termékek és a helyi árusok nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        35.002708,
+                        32.80878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Our Lady Church, Melkite",
+                  "text": "Acest lăcaș de cult deservește comunitatea greco-catolică melchită din Haifa, adăugându-se la țesutul religios divers din apropierea portului plin de viață.",
+                  "category": "religious",
+                  "coords": [
+                        35.000594,
+                        32.816247
+                  ]
+            },
+            {
+                  "name": "Al-Jarina Mosque",
+                  "text": "Cunoscută istoric sub numele de Marea Moschee din Haifa, această structură islamică impunătoare se remarcă în orașul de jos, lângă port.",
+                  "category": "religious",
+                  "coords": [
+                        35.002265,
+                        32.816688
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Muzeul Căilor Ferate Israel se află în gara istorică Haifa Est, expunând material rulant și istoria transportului feroviar regional.",
+                  "category": "museum",
+                  "coords": [
+                        35.006688,
+                        32.811172
+                  ]
+            },
+            {
+                  "name": "Elijah the Prophet Church",
+                  "text": "Această biserică creștină din Haifa este dedicată Profetului Ilie, o figură profund asociată cu Muntele Carmel din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        35.000551,
+                        32.817585
+                  ]
+            },
+            {
+                  "name": "Al-Istiqlal Mosque",
+                  "text": "Această moschee deservește locuitorii musulmani din Haifa, oferind o ancoră spirituală semnificativă în zona vibrantă a orașului port.",
+                  "category": "landmark",
+                  "coords": [
+                        35.003872,
+                        32.812672
+                  ]
+            },
+            {
+                  "name": "Talpiot (interior) Market - historic building",
+                  "text": "Un exemplu de prim rang de arhitectură în stil internațional în Haifa, această clădire istorică a pieței interioare rămâne un centru plin de viață pentru produse proaspete și vânzători locali.",
+                  "category": "cultural",
+                  "coords": [
+                        35.002708,
+                        32.80878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady Church, Melkite",
+                  "text": "This place of worship serves Haifa's Melkite Greek Catholic community, adding to the diverse religious fabric near the bustling port.",
+                  "category": "religious",
+                  "coords": [
+                        35.000594,
+                        32.816247
+                  ]
+            },
+            {
+                  "name": "Al-Jarina Mosque",
+                  "text": "Historically known as the Great Mosque of Haifa, this imposing Islamic structure stands prominently in the lower city near the port.",
+                  "category": "religious",
+                  "coords": [
+                        35.002265,
+                        32.816688
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "The Israel Railway Museum is situated in the historic Haifa East railway station, showcasing rolling stock and the history of regional rail transport.",
+                  "category": "museum",
+                  "coords": [
+                        35.006688,
+                        32.811172
+                  ]
+            },
+            {
+                  "name": "Elijah the Prophet Church",
+                  "text": "This Christian church in Haifa is dedicated to the Prophet Elijah, a figure deeply associated with the nearby Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.000551,
+                        32.817585
+                  ]
+            },
+            {
+                  "name": "Al-Istiqlal Mosque",
+                  "text": "This mosque serves the Muslim residents of Haifa, providing a significant spiritual anchor in the vibrant port city area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.003872,
+                        32.812672
+                  ]
+            },
+            {
+                  "name": "Talpiot (interior) Market - historic building",
+                  "text": "A prime example of International Style architecture in Haifa, this historic indoor market building remains a bustling hub for fresh produce and local vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        35.002708,
+                        32.80878
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IL-HA",
     coords: [35.0116, 32.8197],
@@ -39,7 +264,196 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-port-ashdod-economic-v2",
+    id: "il-port-ashdod-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Haraz",
+                  "text": "Tel Haraz ist ein antiker archäologischer Hügel in der Nähe des Hafengebiets von Aschdod.",
+                  "category": "historical",
+                  "coords": [
+                        34.677222,
+                        31.871389
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Der Lido-Strand ist ein beliebter Sandstrand an der Küste von Aschdod mit klarem Mittelmeerwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        34.636579,
+                        31.808019
+                  ]
+            },
+            {
+                  "name": "Oranim Beach",
+                  "text": "Der Oranim-Strand in Aschdod bietet eine ruhige Umgebung zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.635114,
+                        31.805437
+                  ]
+            },
+            {
+                  "name": "Mei Ami Beach",
+                  "text": "Der Mei-Ami-Strand ist bekannt für seine breite Promenade und den Blick auf das Meer in Aschdod.",
+                  "category": "recreational",
+                  "coords": [
+                        34.638375,
+                        31.812204
+                  ]
+            },
+            {
+                  "name": "Lachish promenade end",
+                  "text": "Diese Attraktion markiert das Ende der Lachisch-Promenade, wo der Fluss ins Mittelmeer mündet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.641215,
+                        31.814947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Haraz",
+                  "text": "Tel Haraz egy ősi régészeti domb Asdod kikötőjének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        34.677222,
+                        31.871389
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "A Lido strand egy népszerű homokos part Asdodban, tiszta földközi-tengeri vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        34.636579,
+                        31.808019
+                  ]
+            },
+            {
+                  "name": "Oranim Beach",
+                  "text": "Az asdodi Oranim strand nyugodt környezetet biztosít a napozáshoz és az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.635114,
+                        31.805437
+                  ]
+            },
+            {
+                  "name": "Mei Ami Beach",
+                  "text": "A Mei Ami strand széles sétányáról és asdodi tengeri kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.638375,
+                        31.812204
+                  ]
+            },
+            {
+                  "name": "Lachish promenade end",
+                  "text": "Ez a látványosság a Lachish-sétány végét jelzi, ahol a folyó a Földközi-tengerbe torkollik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.641215,
+                        31.814947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Haraz",
+                  "text": "Tel Haraz este un sit arheologic antic situat în apropierea zonei portuare din Ashdod.",
+                  "category": "historical",
+                  "coords": [
+                        34.677222,
+                        31.871389
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Plaja Lido este o porțiune populară de nisip pe coasta din Ashdod, cu ape limpezi ale Mediteranei.",
+                  "category": "recreational",
+                  "coords": [
+                        34.636579,
+                        31.808019
+                  ]
+            },
+            {
+                  "name": "Oranim Beach",
+                  "text": "Plaja Oranim din Ashdod oferă un cadru de coastă liniștit pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        34.635114,
+                        31.805437
+                  ]
+            },
+            {
+                  "name": "Mei Ami Beach",
+                  "text": "Plaja Mei Ami este o plajă renumită din Ashdod, cu o promenadă largă și vedere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        34.638375,
+                        31.812204
+                  ]
+            },
+            {
+                  "name": "Lachish promenade end",
+                  "text": "Această atracție marchează capătul promenadei Lachish, unde râul se varsă în Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        34.641215,
+                        31.814947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Haraz",
+                  "text": "Tel Haraz is an ancient archaeological mound located near the port area of Ashdod.",
+                  "category": "historical",
+                  "coords": [
+                        34.677222,
+                        31.871389
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach is a popular sandy stretch on the Ashdod coastline with clear Mediterranean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        34.636579,
+                        31.808019
+                  ]
+            },
+            {
+                  "name": "Oranim Beach",
+                  "text": "Oranim Beach in Ashdod offers a quiet coastal setting for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        34.635114,
+                        31.805437
+                  ]
+            },
+            {
+                  "name": "Mei Ami Beach",
+                  "text": "Mei Ami Beach is a well-known beach in Ashdod featuring a wide promenade and sea views.",
+                  "category": "recreational",
+                  "coords": [
+                        34.638375,
+                        31.812204
+                  ]
+            },
+            {
+                  "name": "Lachish promenade end",
+                  "text": "This attraction marks the end of the Lachish promenade where the river meets the Mediterranean Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.641215,
+                        31.814947
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IL-D",
     coords: [34.6469, 31.8344],
@@ -75,7 +489,808 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-port-eilat-economic-v2",
+    id: "il-port-eilat-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ink Flag",
+                  "text": "Eine Bronzeskulptur zum Gedenken an das Hissen einer handgemachten Tintenflagge im Jahr 1949, die die Einnahme von Eilat markierte.",
+                  "category": "historical",
+                  "coords": [
+                        34.953277,
+                        29.549075
+                  ]
+            },
+            {
+                  "name": "#S4",
+                  "text": "Ein Kiesstrand am Südufer von Eilat, bekannt für das klare Wasser des Roten Meeres und die nahe gelegenen Korallenriffe.",
+                  "category": "recreational",
+                  "coords": [
+                        34.948373,
+                        29.541604
+                  ]
+            },
+            {
+                  "name": "Eilat Gallery",
+                  "text": "Eine lokale Kunstgalerie, die Werke regionaler israelischer Künstler und kreatives Handwerk aus der Gegend von Eilat zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        34.953458,
+                        29.551817
+                  ]
+            },
+            {
+                  "name": "Imax 3D Theatre",
+                  "text": "Ein auffälliges pyramidenförmiges Gebäude, in dem sich ein hochauflösendes 3D-Kino im Haupttouristenviertel von Eilat befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952416,
+                        29.552021
+                  ]
+            },
+            {
+                  "name": "Har Assa",
+                  "text": "Dieser Wüstengipfel im Eilat-Gebirge bietet einen weiten Blick über die karge Felslandschaft des südlichen Negev.",
+                  "category": "natural",
+                  "coords": [
+                        34.906103,
+                        29.566796
+                  ]
+            },
+            {
+                  "name": "Ramat Yotam",
+                  "text": "Dieses vulkanische Plateau in der Nähe von Eilat bietet einen Panoramablick auf den Golf von Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        34.913877,
+                        29.553712
+                  ]
+            },
+            {
+                  "name": "Airodium Eilat",
+                  "text": "Diese Attraktion bietet einen vertikalen Windkanal, der das Gefühl eines Fallschirmsprungs im Herzen von Eilat simuliert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.965126,
+                        29.551899
+                  ]
+            },
+            {
+                  "name": "Nin Beach",
+                  "text": "Ein entspannter Kieselstrand am Roten Meer, der für sein klares Wasser und die Nähe zu den Korallenriffen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956699,
+                        29.549735
+                  ]
+            },
+            {
+                  "name": "jumping ball",
+                  "text": "Dieses Fahrgeschäft in Eilat katapultiert Mutige in einer Kugel hoch in die Luft über die Strandpromenade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.959226,
+                        29.549781
+                  ]
+            },
+            {
+                  "name": "Amphi Theater",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über das Amphi-Theater und den angrenzenden Golf von Eilat.",
+                  "category": "natural",
+                  "coords": [
+                        34.967123,
+                        29.546967
+                  ]
+            },
+            {
+                  "name": "Um Rash-Rash Beach",
+                  "text": "Dieser Strand ist die historische Stätte, an der 1949 die handgezeichnete Tintenflagge zur Gründung von Eilat gehisst wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        34.954235,
+                        29.549367
+                  ]
+            },
+            {
+                  "name": "Katsaa Beach",
+                  "text": "Dieser Strand in der Nähe des Ölpiers ist ein Geheimtipp für Schnorchler, die die reiche Unterwasserwelt erkunden möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        34.934138,
+                        29.524637
+                  ]
+            },
+            {
+                  "name": "Dekel Beach",
+                  "text": "Dieser Strandclub bietet Palmen, einen schwimmenden Steg und eine gemütliche Atmosphäre am südlichen Ende von Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.947238,
+                        29.540434
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dieser Strandabschnitt grenzt an das berühmte Dolphin Reef und bietet oft die Gelegenheit, Delfine in Küstennähe zu sehen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.936069,
+                        29.526408
+                  ]
+            },
+            {
+                  "name": "The Fishermen Beach",
+                  "text": "Dieser rustikale Strandabschnitt wird traditionell von lokalen Fischern genutzt und bietet eine authentische Atmosphäre abseits der Touristenmassen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.953142,
+                        29.547196
+                  ]
+            },
+            {
+                  "name": "Ofira Park",
+                  "text": "Ein zentraler Stadtpark in Eilat mit großen Rasenflächen und schattigen Plätzen, ideal für eine Pause vom Strand.",
+                  "category": "park",
+                  "coords": [
+                        34.95738,
+                        29.552192
+                  ]
+            },
+            {
+                  "name": "Moriah Beach",
+                  "text": "Ein gepflegter Strand am Nordufer, der für sein ruhiges Wasser und den Blick auf die Berge von Jordanien geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        34.957959,
+                        29.549599
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Dieser exklusive Strandabschnitt bietet erstklassigen Service und einen weiten Blick auf den Golf von Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.963349,
+                        29.548362
+                  ]
+            },
+            {
+                  "name": "Neviot Beach",
+                  "text": "Ein lebhafter Strand an der Nordpromenade, der für seine Beachbars und die entspannte Ferienatmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.96206,
+                        29.548641
+                  ]
+            },
+            {
+                  "name": "Edom Beach",
+                  "text": "Dieser Strand bietet einen Panoramablick auf die namensgebenden Edom-Berge auf der jordanischen Seite des Golfs.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965947,
+                        29.547221
+                  ]
+            },
+            {
+                  "name": "Star Of The Sea Beach",
+                  "text": "Ein schöner Strandabschnitt in der Nähe des Jachthafens, ideal für einen Spaziergang entlang der Küste bei Sonnenuntergang.",
+                  "category": "recreational",
+                  "coords": [
+                        34.964984,
+                        29.547656
+                  ]
+            },
+            {
+                  "name": "Sun Bay Beach",
+                  "text": "Dies ist der nördlichste Strand Eilats, der direkt an die Grenze zu Jordanien grenzt und für seine Ruhe bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.970173,
+                        29.546115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ink Flag",
+                  "text": "Egy bronzszobor, amely az 1949-ben felvont, kézzel készített tintazászló emlékezetét őrzi, amely Eilat elfoglalását jelezte.",
+                  "category": "historical",
+                  "coords": [
+                        34.953277,
+                        29.549075
+                  ]
+            },
+            {
+                  "name": "#S4",
+                  "text": "Kavicsos strand Eilat déli partján, amely a Vörös-tenger tiszta vizéről és a közeli korallzátonyokról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.948373,
+                        29.541604
+                  ]
+            },
+            {
+                  "name": "Eilat Gallery",
+                  "text": "Helyi művészeti galéria, amely regionális izraeli művészek munkáit és az Eilat környéki kreatív kézműves termékeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        34.953458,
+                        29.551817
+                  ]
+            },
+            {
+                  "name": "Imax 3D Theatre",
+                  "text": "Eilat fő turisztikai negyedében található feltűnő piramis alakú épület, amely egy nagy felbontású 3D mozinak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952416,
+                        29.552021
+                  ]
+            },
+            {
+                  "name": "Har Assa",
+                  "text": "Ez az Eilati-hegységben található sivatagi csúcs széles kilátást nyújt a Negev-sivatag sziklás tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        34.906103,
+                        29.566796
+                  ]
+            },
+            {
+                  "name": "Ramat Yotam",
+                  "text": "Ez az Eilat közelében található vulkanikus fennsík panorámás kilátást nyújt az Akabai-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        34.913877,
+                        29.553712
+                  ]
+            },
+            {
+                  "name": "Airodium Eilat",
+                  "text": "Ez a látványosság egy függőleges szélcsatornát kínál, amely a szabadesés élményét szimulálja Eilat szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.965126,
+                        29.551899
+                  ]
+            },
+            {
+                  "name": "Nin Beach",
+                  "text": "A Vörös-tenger partján fekvő kavicsos strand, amely tiszta vizéről és a közeli korallzátonyokról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956699,
+                        29.549735
+                  ]
+            },
+            {
+                  "name": "jumping ball",
+                  "text": "Ez az eilati attrakció egy gömbben repíti a bátor jelentkezőket magasra a tengerparti sétány fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        34.959226,
+                        29.549781
+                  ]
+            },
+            {
+                  "name": "Amphi Theater",
+                  "text": "Erről a kilátópontról széles panoráma nyílik az amfiteátrumra és a szomszédos Eilati-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        34.967123,
+                        29.546967
+                  ]
+            },
+            {
+                  "name": "Um Rash-Rash Beach",
+                  "text": "Ez a strand az a történelmi helyszín, ahol 1949-ben felvonták a kézzel rajzolt Tinta-zászlót Eilat megalapításakor.",
+                  "category": "recreational",
+                  "coords": [
+                        34.954235,
+                        29.549367
+                  ]
+            },
+            {
+                  "name": "Katsaa Beach",
+                  "text": "Az olajkikötő közelében fekvő strand a búvárok kedvelt helye a gazdag víz alatti élővilág felfedezéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        34.934138,
+                        29.524637
+                  ]
+            },
+            {
+                  "name": "Dekel Beach",
+                  "text": "Ez a strandklub pálmákkal, egy úszó mólóval és barátságos hangulattal várja a látogatókat Eilat déli részén.",
+                  "category": "recreational",
+                  "coords": [
+                        34.947238,
+                        29.540434
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Ez a strand szakasz a híres Delfin-zátony mellett található, ahol gyakran látni delfineket a part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.936069,
+                        29.526408
+                  ]
+            },
+            {
+                  "name": "The Fishermen Beach",
+                  "text": "Ezt a rusztikus strandot hagyományosan a helyi halászok használják, hiteles hangulatot árasztva a tömegtől távol.",
+                  "category": "recreational",
+                  "coords": [
+                        34.953142,
+                        29.547196
+                  ]
+            },
+            {
+                  "name": "Ofira Park",
+                  "text": "Eilat központi városi parkja tágas gyepekkel és árnyékos helyekkel, ideális egy pihenőre a strandolás után.",
+                  "category": "park",
+                  "coords": [
+                        34.95738,
+                        29.552192
+                  ]
+            },
+            {
+                  "name": "Moriah Beach",
+                  "text": "Gondozott strand az északi parton, amely nyugodt vizéről és a jordániai hegyekre nyíló kilátásáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        34.957959,
+                        29.549599
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Ez az exkluzív strand szakasz első osztályú szolgáltatásokat és széles kilátást nyújt az Eilati-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        34.963349,
+                        29.548362
+                  ]
+            },
+            {
+                  "name": "Neviot Beach",
+                  "text": "Pezsgő strand az északi sétányon, amely bárjairól és a laza üdülési hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.96206,
+                        29.548641
+                  ]
+            },
+            {
+                  "name": "Edom Beach",
+                  "text": "Erről a strandról panorámás kilátás nyílik a névadó Edom-hegységre az öböl jordániai oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965947,
+                        29.547221
+                  ]
+            },
+            {
+                  "name": "Star Of The Sea Beach",
+                  "text": "Szép strandszakasz a kikötő közelében, amely ideális egy tengerparti sétához naplemente idején.",
+                  "category": "recreational",
+                  "coords": [
+                        34.964984,
+                        29.547656
+                  ]
+            },
+            {
+                  "name": "Sun Bay Beach",
+                  "text": "Ez Eilat legészakibb strandja, amely közvetlenül a jordán határ mellett fekszik, és nyugalmáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.970173,
+                        29.546115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ink Flag",
+                  "text": "O sculptură din bronz care comemorează înălțarea din 1949 a unui steag improvizat cu cerneală, care a marcat capturarea Eilatului.",
+                  "category": "historical",
+                  "coords": [
+                        34.953277,
+                        29.549075
+                  ]
+            },
+            {
+                  "name": "#S4",
+                  "text": "O plajă cu prundiş pe țărmul sudic al Eilatului, cunoscută pentru apele limpezi ale Mării Roșii și recifele de corali din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.948373,
+                        29.541604
+                  ]
+            },
+            {
+                  "name": "Eilat Gallery",
+                  "text": "O galerie de artă locală care expune lucrări ale artiștilor israelieni regionali și obiecte de artizanat creativ din zona Eilat.",
+                  "category": "museum",
+                  "coords": [
+                        34.953458,
+                        29.551817
+                  ]
+            },
+            {
+                  "name": "Imax 3D Theatre",
+                  "text": "O clădire izbitoare în formă de piramidă care găzduiește un cinematograf 3D de înaltă definiție în principala zonă turistică a Eilatului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952416,
+                        29.552021
+                  ]
+            },
+            {
+                  "name": "Har Assa",
+                  "text": "Acest vârf deșertic din Munții Eilat oferă o vedere panoramică asupra peisajului stâncos din sudul Deșertului Negev.",
+                  "category": "natural",
+                  "coords": [
+                        34.906103,
+                        29.566796
+                  ]
+            },
+            {
+                  "name": "Ramat Yotam",
+                  "text": "Acest platou vulcanic de lângă Eilat oferă o vedere panoramică asupra Golfului Aqaba.",
+                  "category": "natural",
+                  "coords": [
+                        34.913877,
+                        29.553712
+                  ]
+            },
+            {
+                  "name": "Airodium Eilat",
+                  "text": "Această atracție oferă un tunel de vânt vertical care simulează senzația de parașutism chiar în inima Eilatului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.965126,
+                        29.551899
+                  ]
+            },
+            {
+                  "name": "Nin Beach",
+                  "text": "O plajă relaxantă cu pietriș la Marea Roșie, cunoscută pentru apele sale limpezi și apropierea de recifele de corali.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956699,
+                        29.549735
+                  ]
+            },
+            {
+                  "name": "jumping ball",
+                  "text": "Această atracție din Eilat catapultează curajoșii într-o sferă sus în aer, deasupra promenadei de la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        34.959226,
+                        29.549781
+                  ]
+            },
+            {
+                  "name": "Amphi Theater",
+                  "text": "Acest punct de observare oferă o vedere largă asupra amfiteatrului și a Golfului Eilat adiacent.",
+                  "category": "natural",
+                  "coords": [
+                        34.967123,
+                        29.546967
+                  ]
+            },
+            {
+                  "name": "Um Rash-Rash Beach",
+                  "text": "Această plajă este locul istoric unde a fost arborat steagul de cerneală în 1949, marcând fondarea orașului Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.954235,
+                        29.549367
+                  ]
+            },
+            {
+                  "name": "Katsaa Beach",
+                  "text": "Această plajă de lângă debarcaderul petrolier este un loc preferat de pasionații de snorkeling pentru explorarea vieții marine bogate.",
+                  "category": "recreational",
+                  "coords": [
+                        34.934138,
+                        29.524637
+                  ]
+            },
+            {
+                  "name": "Dekel Beach",
+                  "text": "Acest club de plajă oferă palmieri, un debarcader plutitor și o atmosferă primitoare la marginea sudică a orașului Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.947238,
+                        29.540434
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Această secțiune de plajă se învecinează cu faimosul Recif al Delfinilor și oferă adesea șansa de a vedea delfini aproape de țărm.",
+                  "category": "landmark",
+                  "coords": [
+                        34.936069,
+                        29.526408
+                  ]
+            },
+            {
+                  "name": "The Fishermen Beach",
+                  "text": "Această porțiune rustică de plajă este folosită tradițional de pescarii locali, oferind o atmosferă autentică departe de mulțime.",
+                  "category": "recreational",
+                  "coords": [
+                        34.953142,
+                        29.547196
+                  ]
+            },
+            {
+                  "name": "Ofira Park",
+                  "text": "Un parc urban central din Eilat, cu peluze verzi și locuri umbrite, ideal pentru o pauză de la plajă.",
+                  "category": "park",
+                  "coords": [
+                        34.95738,
+                        29.552192
+                  ]
+            },
+            {
+                  "name": "Moriah Beach",
+                  "text": "O plajă bine întreținută de pe țărmul nordic, apreciată pentru apele sale calme și vederea spre munții Iordaniei.",
+                  "category": "recreational",
+                  "coords": [
+                        34.957959,
+                        29.549599
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Această secțiune exclusivistă de plajă oferă servicii de top și o vedere largă asupra Golfului Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.963349,
+                        29.548362
+                  ]
+            },
+            {
+                  "name": "Neviot Beach",
+                  "text": "O plajă plină de viață pe promenada de nord, cunoscută pentru barurile sale de plajă și atmosfera relaxată de vacanță.",
+                  "category": "recreational",
+                  "coords": [
+                        34.96206,
+                        29.548641
+                  ]
+            },
+            {
+                  "name": "Edom Beach",
+                  "text": "Această plajă oferă o vedere panoramică asupra munților Edom de pe partea iordaniană a golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965947,
+                        29.547221
+                  ]
+            },
+            {
+                  "name": "Star Of The Sea Beach",
+                  "text": "O porțiune frumoasă de plajă lângă portul de agrement, ideală pentru o plimbare de-a lungul coastei la apus.",
+                  "category": "recreational",
+                  "coords": [
+                        34.964984,
+                        29.547656
+                  ]
+            },
+            {
+                  "name": "Sun Bay Beach",
+                  "text": "Aceasta este cea mai nordică plajă din Eilat, situată chiar lângă granița cu Iordania, fiind cunoscută pentru liniștea sa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.970173,
+                        29.546115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ink Flag",
+                  "text": "A bronze sculpture commemorating the 1949 raising of a handmade ink flag that marked the capture of Eilat.",
+                  "category": "historical",
+                  "coords": [
+                        34.953277,
+                        29.549075
+                  ]
+            },
+            {
+                  "name": "#S4",
+                  "text": "A pebbly beach on Eilat's southern shore, known for its clear Red Sea waters and nearby coral reefs.",
+                  "category": "recreational",
+                  "coords": [
+                        34.948373,
+                        29.541604
+                  ]
+            },
+            {
+                  "name": "Eilat Gallery",
+                  "text": "A local art gallery showcasing works by regional Israeli artists and creative crafts from the Eilat area.",
+                  "category": "museum",
+                  "coords": [
+                        34.953458,
+                        29.551817
+                  ]
+            },
+            {
+                  "name": "Imax 3D Theatre",
+                  "text": "A striking pyramid-shaped building housing a high-definition 3D cinema in Eilat's main tourist area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952416,
+                        29.552021
+                  ]
+            },
+            {
+                  "name": "Har Assa",
+                  "text": "This desert peak in the Eilat Mountains offers sweeping views across the rugged rocky landscape of the southern Negev.",
+                  "category": "natural",
+                  "coords": [
+                        34.906103,
+                        29.566796
+                  ]
+            },
+            {
+                  "name": "Ramat Yotam",
+                  "text": "This volcanic plateau near Eilat provides panoramic views overlooking the Gulf of Aqaba.",
+                  "category": "natural",
+                  "coords": [
+                        34.913877,
+                        29.553712
+                  ]
+            },
+            {
+                  "name": "Airodium Eilat",
+                  "text": "This attraction features a vertical wind tunnel that simulates the sensation of skydiving in the heart of Eilat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.965126,
+                        29.551899
+                  ]
+            },
+            {
+                  "name": "Nin Beach",
+                  "text": "A relaxed pebble beach on the Red Sea, known for its clear waters and proximity to coral reefs.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956699,
+                        29.549735
+                  ]
+            },
+            {
+                  "name": "jumping ball",
+                  "text": "This Eilat thrill ride catapults brave riders high into the air inside a spherical capsule over the beachfront promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.959226,
+                        29.549781
+                  ]
+            },
+            {
+                  "name": "Amphi Theater",
+                  "text": "This viewpoint offers a broad vista overlooking the amphitheater area and the adjacent Gulf of Eilat.",
+                  "category": "natural",
+                  "coords": [
+                        34.967123,
+                        29.546967
+                  ]
+            },
+            {
+                  "name": "Um Rash-Rash Beach",
+                  "text": "This beach is the historic site where the hand-drawn Ink Flag was raised in 1949 to mark the founding of Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.954235,
+                        29.549367
+                  ]
+            },
+            {
+                  "name": "Katsaa Beach",
+                  "text": "Located near the oil pier, this beach is a favored spot for snorkelers looking to explore the rich marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        34.934138,
+                        29.524637
+                  ]
+            },
+            {
+                  "name": "Dekel Beach",
+                  "text": "This beach club features palm trees, a floating pier, and a cozy atmosphere on the southern edge of Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.947238,
+                        29.540434
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "This section of beach borders the famous Dolphin Reef, often offering chances to spot dolphins near the shore.",
+                  "category": "landmark",
+                  "coords": [
+                        34.936069,
+                        29.526408
+                  ]
+            },
+            {
+                  "name": "The Fishermen Beach",
+                  "text": "This rustic stretch of beach is traditionally used by local fishermen, offering an authentic atmosphere away from the crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        34.953142,
+                        29.547196
+                  ]
+            },
+            {
+                  "name": "Ofira Park",
+                  "text": "A central urban park in Eilat featuring grassy lawns and shaded spots, ideal for a break from the beach.",
+                  "category": "park",
+                  "coords": [
+                        34.95738,
+                        29.552192
+                  ]
+            },
+            {
+                  "name": "Moriah Beach",
+                  "text": "A well-maintained beach on the North Shore, valued for its calm waters and views across to the mountains of Jordan.",
+                  "category": "recreational",
+                  "coords": [
+                        34.957959,
+                        29.549599
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "This exclusive stretch of beach offers premium services and broad views across the Gulf of Eilat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.963349,
+                        29.548362
+                  ]
+            },
+            {
+                  "name": "Neviot Beach",
+                  "text": "A vibrant beach on the northern promenade, known for its beach bars and laid-back holiday atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.96206,
+                        29.548641
+                  ]
+            },
+            {
+                  "name": "Edom Beach",
+                  "text": "This beach offers a panoramic view across to the namesake Edom Mountains on the Jordanian side of the gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965947,
+                        29.547221
+                  ]
+            },
+            {
+                  "name": "Star Of The Sea Beach",
+                  "text": "A scenic stretch of beach located near the marina, ideal for a sunset stroll along the coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        34.964984,
+                        29.547656
+                  ]
+            },
+            {
+                  "name": "Sun Bay Beach",
+                  "text": "This is Eilat's northernmost beach, bordering the Jordanian frontier and known for its relative seclusion.",
+                  "category": "recreational",
+                  "coords": [
+                        34.970173,
+                        29.546115
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IL-D",
     coords: [34.9541, 29.5394],
@@ -111,7 +1326,160 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-orot-rabin-economic-v2",
+    id: "il-orot-rabin-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hephzibah",
+                  "text": "Hephzibah ist ein restaurierter historischer Bauernhof und ein Pumpwerk am Ufer des Hadera-Flusses.",
+                  "category": "museum",
+                  "coords": [
+                        34.900221,
+                        32.463717
+                  ]
+            },
+            {
+                  "name": "Hadera Strram park",
+                  "text": "Der Hadera-Flusspark ist ein Naturgebiet, das für die Tausenden von Kormoranen bekannt ist, die dort im Winter nisten.",
+                  "category": "park",
+                  "coords": [
+                        34.888838,
+                        32.462886
+                  ]
+            },
+            {
+                  "name": "Orot Rabin Powerstations Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf die massiven Schornsteine des Kraftwerks Orot Rabin.",
+                  "category": "natural",
+                  "coords": [
+                        34.897346,
+                        32.464636
+                  ]
+            },
+            {
+                  "name": "Shraga Goren Arts Center",
+                  "text": "Das Shraga-Goren-Kunstzentrum in Hadera ist ein Ort für Ausstellungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        34.886279,
+                        32.439595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hephzibah",
+                  "text": "Hefziba egy restaurált történelmi farm és szivattyútelep a Hadera-patak partján.",
+                  "category": "museum",
+                  "coords": [
+                        34.900221,
+                        32.463717
+                  ]
+            },
+            {
+                  "name": "Hadera Strram park",
+                  "text": "A Hadera-patak park egy természeti terület, amely a télen itt fészkelő kormoránok ezreiről híres.",
+                  "category": "park",
+                  "coords": [
+                        34.888838,
+                        32.462886
+                  ]
+            },
+            {
+                  "name": "Orot Rabin Powerstations Viewpoint",
+                  "text": "Erről a kilátópontról jól láthatók az Orot Rabin erőmű hatalmas kéményei.",
+                  "category": "natural",
+                  "coords": [
+                        34.897346,
+                        32.464636
+                  ]
+            },
+            {
+                  "name": "Shraga Goren Arts Center",
+                  "text": "A Shraga Goren Művészeti Központ egy kulturális helyszín Haderában, amely kiállításoknak és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        34.886279,
+                        32.439595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hephzibah",
+                  "text": "Hephzibah este o fermă istorică restaurată și o stație de pompare situată pe malul pârâului Hadera.",
+                  "category": "museum",
+                  "coords": [
+                        34.900221,
+                        32.463717
+                  ]
+            },
+            {
+                  "name": "Hadera Strram park",
+                  "text": "Parcul pârâului Hadera este o zonă naturală pitorească renumită pentru miile de cormorani care cuibăresc aici iarna.",
+                  "category": "park",
+                  "coords": [
+                        34.888838,
+                        32.462886
+                  ]
+            },
+            {
+                  "name": "Orot Rabin Powerstations Viewpoint",
+                  "text": "Acest punct de belvedere oferă o perspectivă clară asupra coșurilor masive ale centralei electrice Orot Rabin.",
+                  "category": "natural",
+                  "coords": [
+                        34.897346,
+                        32.464636
+                  ]
+            },
+            {
+                  "name": "Shraga Goren Arts Center",
+                  "text": "Centrul de Arte Shraga Goren este o locație culturală din Hadera care găzduiește diverse expoziții și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        34.886279,
+                        32.439595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hephzibah",
+                  "text": "Hephzibah is a restored historic farm and pumping station situated on the banks of the Hadera Stream.",
+                  "category": "museum",
+                  "coords": [
+                        34.900221,
+                        32.463717
+                  ]
+            },
+            {
+                  "name": "Hadera Strram park",
+                  "text": "Hadera Stream Park is a nature area famous for the thousands of cormorants that nest here in winter.",
+                  "category": "park",
+                  "coords": [
+                        34.888838,
+                        32.462886
+                  ]
+            },
+            {
+                  "name": "Orot Rabin Powerstations Viewpoint",
+                  "text": "This viewpoint offers a clear perspective of the massive chimneys of the Orot Rabin power plant.",
+                  "category": "natural",
+                  "coords": [
+                        34.897346,
+                        32.464636
+                  ]
+            },
+            {
+                  "name": "Shraga Goren Arts Center",
+                  "text": "The Shraga Goren Arts Center is a cultural venue in Hadera hosting various exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.886279,
+                        32.439595
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IL-HA",
     coords: [34.8817, 32.4681],
@@ -147,7 +1515,124 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-rutenberg-economic-v2",
+    id: "il-rutenberg-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beit Jirja",
+                  "text": "Ruinen eines verlassenen Dorfes, in dem noch alte Steinfundamente und Reste von Obstgärten zu sehen sind.",
+                  "category": "historical",
+                  "coords": [
+                        34.583333,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Ni`ilya",
+                  "text": "Die Überreste einer historischen Siedlung südlich von Ashkelon mit sichtbaren Ruinen alter Steinhäuser.",
+                  "category": "historical",
+                  "coords": [
+                        34.571599,
+                        31.642614
+                  ]
+            },
+            {
+                  "name": "Zikim Beach",
+                  "text": "Ein sandiger Küstenabschnitt am Mittelmeer, der für seine Dünenlandschaft und die Nähe zur Grenze bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.50432,
+                        31.612463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beit Jirja",
+                  "text": "Egy elhagyatott falu romjai, ahol még láthatók a régi kőalapok és a gyümölcsösök maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        34.583333,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Ni`ilya",
+                  "text": "Egy Ashkelontól délre fekvő történelmi település maradványai, régi kőházak látható romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        34.571599,
+                        31.642614
+                  ]
+            },
+            {
+                  "name": "Zikim Beach",
+                  "text": "A Földközi-tenger homokos partvonala, amely dűnéiről és a határhoz való közelségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.50432,
+                        31.612463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beit Jirja",
+                  "text": "Ruinele unui sat abandonat, unde se mai pot vedea vechi fundații de piatră și resturi de livezi.",
+                  "category": "historical",
+                  "coords": [
+                        34.583333,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Ni`ilya",
+                  "text": "Rămășițele unei așezări istorice la sud de Ashkelon, cu ruine vizibile ale unor case vechi de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        34.571599,
+                        31.642614
+                  ]
+            },
+            {
+                  "name": "Zikim Beach",
+                  "text": "O porțiune de coastă nisipoasă la Marea Mediterană, cunoscută pentru dunele sale și proximitatea față de graniță.",
+                  "category": "recreational",
+                  "coords": [
+                        34.50432,
+                        31.612463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beit Jirja",
+                  "text": "Ruins of an abandoned village where old stone foundations and remnants of fruit orchards are still visible.",
+                  "category": "historical",
+                  "coords": [
+                        34.583333,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Ni`ilya",
+                  "text": "The remains of a historical settlement south of Ashkelon with visible ruins of old stone houses.",
+                  "category": "historical",
+                  "coords": [
+                        34.571599,
+                        31.642614
+                  ]
+            },
+            {
+                  "name": "Zikim Beach",
+                  "text": "A sandy stretch of Mediterranean coastline known for its dunes and proximity to the border.",
+                  "category": "recreational",
+                  "coords": [
+                        34.50432,
+                        31.612463
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IL-D",
     coords: [34.5200, 31.6264],
@@ -183,7 +1668,520 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-reading-economic-v2",
+    id: "il-reading-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gan HaBanim",
+                  "text": "Ein im Jahr 2002 eingeweihter Gedenkpark, der den gefallenen Söhnen der Stadt gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        34.78161,
+                        32.097603
+                  ]
+            },
+            {
+                  "name": "Terror Victim's Park",
+                  "text": "Diese im Jahr 2006 angelegte Grünanlage dient als Gedenkstätte für die Opfer des Terrors.",
+                  "category": "park",
+                  "coords": [
+                        34.780105,
+                        32.09787
+                  ]
+            },
+            {
+                  "name": "Yarkon River Mouth Lighthouse",
+                  "text": "Ein historischer Leuchtturm, der den Schiffen den Weg zur Mündung des Yarkon-Flusses weist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777067,
+                        32.103536
+                  ]
+            },
+            {
+                  "name": "23 Seamen Monument",
+                  "text": "Das Denkmal erinnert an 23 Seeleute der Palmach, die 1941 bei einem Einsatz verschollen sind.",
+                  "category": "historical",
+                  "coords": [
+                        34.791369,
+                        32.10914
+                  ]
+            },
+            {
+                  "name": "Hapirtsa Beach",
+                  "text": "Ein ruhiger Sandstrand im Norden der Stadt, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.785751,
+                        32.129428
+                  ]
+            },
+            {
+                  "name": "Cliff lookout",
+                  "text": "Ein Aussichtspunkt auf den Klippen, der einen Panoramablick über das Mittelmeer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.787004,
+                        32.130758
+                  ]
+            },
+            {
+                  "name": "TV lookout",
+                  "text": "Ein Aussichtspunkt in der Nähe des Reading-Kraftwerks mit Blick auf die Küstenlinie.",
+                  "category": "natural",
+                  "coords": [
+                        34.785275,
+                        32.126264
+                  ]
+            },
+            {
+                  "name": "Bar Yehuda",
+                  "text": "Eine markante Betonbogenbrücke, die den Yarkon-Fluss im Norden von Tel Aviv überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783728,
+                        32.096368
+                  ]
+            },
+            {
+                  "name": "Ariyeh Ben-Eliezer Bridge",
+                  "text": "Diese Brücke führt über den Yarkon und verbindet die nördlichen Stadtteile miteinander.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777422,
+                        32.097828
+                  ]
+            },
+            {
+                  "name": "Jilber Garden",
+                  "text": "Eine gepflegte Grünanlage im nördlichen Wohngebiet, die ideal für kurze Spaziergänge ist.",
+                  "category": "park",
+                  "coords": [
+                        34.789728,
+                        32.107038
+                  ]
+            },
+            {
+                  "name": "The Northen Dogs Beach",
+                  "text": "Ein spezieller Strandabschnitt, an dem Hunde frei im Sand und Wasser spielen dürfen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.779493,
+                        32.113319
+                  ]
+            },
+            {
+                  "name": "Coastal Park",
+                  "text": "Ein langgestreckter Park entlang der Küste, der die Stadtviertel mit dem Meer verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.788718,
+                        32.131299
+                  ]
+            },
+            {
+                  "name": "Tel Baruch Beach",
+                  "text": "Ein beliebter Sandstrand im Norden, der für seine weite Fläche und die nahen Klippen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.78241,
+                        32.121737
+                  ]
+            },
+            {
+                  "name": "Wohl Synagogue",
+                  "text": "Diese moderne Synagoge am Universitätscampus besticht durch ihre außergewöhnliche Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        34.791203,
+                        32.11118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gan HaBanim",
+                  "text": "2002-ben felavatott emlékpark, amelyet a város elesett fiainak szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        34.78161,
+                        32.097603
+                  ]
+            },
+            {
+                  "name": "Terror Victim's Park",
+                  "text": "Ez a 2006-ban kialakított zöldterület a terror áldozatainak emlékhelyeként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        34.780105,
+                        32.09787
+                  ]
+            },
+            {
+                  "name": "Yarkon River Mouth Lighthouse",
+                  "text": "Történelmi világítótorony, amely a Jarkon-folyó torkolatánál segíti a hajók tájékozódását.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777067,
+                        32.103536
+                  ]
+            },
+            {
+                  "name": "23 Seamen Monument",
+                  "text": "Az emlékmű a Palmach 23 tengerészének állít emléket, akik 1941-ben tűntek el egy küldetés során.",
+                  "category": "historical",
+                  "coords": [
+                        34.791369,
+                        32.10914
+                  ]
+            },
+            {
+                  "name": "Hapirtsa Beach",
+                  "text": "Nyugodt, homokos tengerpart a város északi részén, amely pihentető hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.785751,
+                        32.129428
+                  ]
+            },
+            {
+                  "name": "Cliff lookout",
+                  "text": "Sziklafalon lévő kilátópont, amely panorámás kilátást nyújt a Földközi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        34.787004,
+                        32.130758
+                  ]
+            },
+            {
+                  "name": "TV lookout",
+                  "text": "A Reading erőmű közelében lévő kilátóhely, rálátással a tengerparti sávra.",
+                  "category": "natural",
+                  "coords": [
+                        34.785275,
+                        32.126264
+                  ]
+            },
+            {
+                  "name": "Bar Yehuda",
+                  "text": "Jellegzetes beton ívhíd, amely a Jarkon-folyót íveli át Tel-Aviv északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783728,
+                        32.096368
+                  ]
+            },
+            {
+                  "name": "Ariyeh Ben-Eliezer Bridge",
+                  "text": "Ez a híd a Jarkon felett vezet át, összekötve az északi városrészeket.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777422,
+                        32.097828
+                  ]
+            },
+            {
+                  "name": "Jilber Garden",
+                  "text": "Gondozott zöldterület az északi lakóövezetben, amely ideális rövid sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        34.789728,
+                        32.107038
+                  ]
+            },
+            {
+                  "name": "The Northen Dogs Beach",
+                  "text": "Különleges tengerparti szakasz, ahol a kutyák szabadon játszhatnak a homokban és a vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        34.779493,
+                        32.113319
+                  ]
+            },
+            {
+                  "name": "Coastal Park",
+                  "text": "A tengerpart mentén húzódó, hosszú park, amely összeköti a városnegyedeket a tengerrel.",
+                  "category": "landmark",
+                  "coords": [
+                        34.788718,
+                        32.131299
+                  ]
+            },
+            {
+                  "name": "Tel Baruch Beach",
+                  "text": "Népszerű homokos strand északon, amely tágas területéről és a közeli sziklákról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.78241,
+                        32.121737
+                  ]
+            },
+            {
+                  "name": "Wohl Synagogue",
+                  "text": "Ez az egyetemi campuson található modern zsinagóga különleges építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        34.791203,
+                        32.11118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gan HaBanim",
+                  "text": "Un parc memorial inaugurat în 2002, dedicat fiilor orașului căzuți la datorie.",
+                  "category": "park",
+                  "coords": [
+                        34.78161,
+                        32.097603
+                  ]
+            },
+            {
+                  "name": "Terror Victim's Park",
+                  "text": "Acest spațiu verde amenajat în 2006 servește ca loc de comemorare a victimelor terorii.",
+                  "category": "park",
+                  "coords": [
+                        34.780105,
+                        32.09787
+                  ]
+            },
+            {
+                  "name": "Yarkon River Mouth Lighthouse",
+                  "text": "Un far istoric care ghidează navele la vărsarea râului Yarkon în mare.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777067,
+                        32.103536
+                  ]
+            },
+            {
+                  "name": "23 Seamen Monument",
+                  "text": "Monumentul comemorează 23 de marinari Palmach care au dispărut în timpul unei misiuni în 1941.",
+                  "category": "historical",
+                  "coords": [
+                        34.791369,
+                        32.10914
+                  ]
+            },
+            {
+                  "name": "Hapirtsa Beach",
+                  "text": "O plajă liniștită cu nisip în nordul orașului, cunoscută pentru atmosfera sa relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.785751,
+                        32.129428
+                  ]
+            },
+            {
+                  "name": "Cliff lookout",
+                  "text": "Un punct de observație pe faleză care oferă o vedere panoramică asupra Mării Mediterane.",
+                  "category": "natural",
+                  "coords": [
+                        34.787004,
+                        32.130758
+                  ]
+            },
+            {
+                  "name": "TV lookout",
+                  "text": "Un punct de belvedere lângă centrala Reading, cu vedere spre linia țărmului.",
+                  "category": "natural",
+                  "coords": [
+                        34.785275,
+                        32.126264
+                  ]
+            },
+            {
+                  "name": "Bar Yehuda",
+                  "text": "Un pod în arc din beton proeminent care traversează râul Yarkon în nordul Tel Avivului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783728,
+                        32.096368
+                  ]
+            },
+            {
+                  "name": "Ariyeh Ben-Eliezer Bridge",
+                  "text": "Acest pod traversează râul Yarkon, legând cartierele din nordul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777422,
+                        32.097828
+                  ]
+            },
+            {
+                  "name": "Jilber Garden",
+                  "text": "Un spațiu verde îngrijit în zona rezidențială de nord, ideal pentru plimbări scurte.",
+                  "category": "park",
+                  "coords": [
+                        34.789728,
+                        32.107038
+                  ]
+            },
+            {
+                  "name": "The Northen Dogs Beach",
+                  "text": "O secțiune specială de plajă unde câinii au voie să se joace liber în nisip și în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.779493,
+                        32.113319
+                  ]
+            },
+            {
+                  "name": "Coastal Park",
+                  "text": "Un parc lung de-a lungul coastei, care face legătura între cartierele orașului și mare.",
+                  "category": "landmark",
+                  "coords": [
+                        34.788718,
+                        32.131299
+                  ]
+            },
+            {
+                  "name": "Tel Baruch Beach",
+                  "text": "O plajă populară cu nisip în nord, cunoscută pentru întinderea sa vastă și falezele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.78241,
+                        32.121737
+                  ]
+            },
+            {
+                  "name": "Wohl Synagogue",
+                  "text": "Această sinagogă modernă din campusul universitar se remarcă prin arhitectura sa deosebită.",
+                  "category": "landmark",
+                  "coords": [
+                        34.791203,
+                        32.11118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gan HaBanim",
+                  "text": "A memorial park inaugurated in 2002, dedicated to the fallen sons of the city.",
+                  "category": "park",
+                  "coords": [
+                        34.78161,
+                        32.097603
+                  ]
+            },
+            {
+                  "name": "Terror Victim's Park",
+                  "text": "This green space established in 2006 serves as a memorial site for victims of terror.",
+                  "category": "park",
+                  "coords": [
+                        34.780105,
+                        32.09787
+                  ]
+            },
+            {
+                  "name": "Yarkon River Mouth Lighthouse",
+                  "text": "A historical lighthouse marking the entrance to the Yarkon River mouth at the Mediterranean coast.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777067,
+                        32.103536
+                  ]
+            },
+            {
+                  "name": "23 Seamen Monument",
+                  "text": "This monument honors 23 Palmach seamen who disappeared during a mission in 1941.",
+                  "category": "historical",
+                  "coords": [
+                        34.791369,
+                        32.10914
+                  ]
+            },
+            {
+                  "name": "Hapirtsa Beach",
+                  "text": "A quiet sandy beach in the north of the city, known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.785751,
+                        32.129428
+                  ]
+            },
+            {
+                  "name": "Cliff lookout",
+                  "text": "A viewpoint atop the cliffs offering panoramic vistas of the Mediterranean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        34.787004,
+                        32.130758
+                  ]
+            },
+            {
+                  "name": "TV lookout",
+                  "text": "A lookout point near the Reading power station with views of the coastline.",
+                  "category": "natural",
+                  "coords": [
+                        34.785275,
+                        32.126264
+                  ]
+            },
+            {
+                  "name": "Bar Yehuda",
+                  "text": "A prominent concrete arch bridge spanning the Yarkon River in northern Tel Aviv.",
+                  "category": "landmark",
+                  "coords": [
+                        34.783728,
+                        32.096368
+                  ]
+            },
+            {
+                  "name": "Ariyeh Ben-Eliezer Bridge",
+                  "text": "This bridge crosses the Yarkon River, connecting the northern neighborhoods of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        34.777422,
+                        32.097828
+                  ]
+            },
+            {
+                  "name": "Jilber Garden",
+                  "text": "A well-kept green space in the northern residential district, ideal for short walks.",
+                  "category": "park",
+                  "coords": [
+                        34.789728,
+                        32.107038
+                  ]
+            },
+            {
+                  "name": "The Northen Dogs Beach",
+                  "text": "A dedicated stretch of beach where dogs are allowed to play freely in the sand and water.",
+                  "category": "recreational",
+                  "coords": [
+                        34.779493,
+                        32.113319
+                  ]
+            },
+            {
+                  "name": "Coastal Park",
+                  "text": "A long park running along the coastline, connecting the city's neighborhoods with the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.788718,
+                        32.131299
+                  ]
+            },
+            {
+                  "name": "Tel Baruch Beach",
+                  "text": "A popular sandy beach in the north, known for its wide open space and nearby cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        34.78241,
+                        32.121737
+                  ]
+            },
+            {
+                  "name": "Wohl Synagogue",
+                  "text": "This modern synagogue on the university campus stands out for its unique architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        34.791203,
+                        32.11118
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IL-TA",
     coords: [34.7761, 32.1039],
@@ -219,7 +2217,160 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-ashalim-economic-v2",
+    id: "il-ashalim-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Har Shahar",
+                  "text": "Ein Wüstengipfel im Negev mit weitem Blick über die trockene Landschaft und Solaranlagen.",
+                  "category": "natural",
+                  "coords": [
+                        34.830917,
+                        31.038309
+                  ]
+            },
+            {
+                  "name": "Givat Hayil",
+                  "text": "Ein Hügel in der Negev-Wüste, der in der Nähe historischer Ruinen und antiker Siedlungsplätze liegt.",
+                  "category": "natural",
+                  "coords": [
+                        34.664444,
+                        30.976389
+                  ]
+            },
+            {
+                  "name": "Chai Negev",
+                  "text": "Ein ökologischer Park mit Streichelzoo, dessen Gebäude vollständig aus Lehm und Naturmaterialien erbaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        34.717563,
+                        31.043844
+                  ]
+            },
+            {
+                  "name": "Mitzpe Revivim",
+                  "text": "Dieses Freilichtmuseum zeigt einen Wüstenstützpunkt von 1943 mit seinem ursprünglichen Steinturm und unterirdischen Bunkern.",
+                  "category": "museum",
+                  "coords": [
+                        34.717785,
+                        31.03828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Har Shahar",
+                  "text": "Sivatagi csúcs a Negevben, ahonnan pazar kilátás nyílik a kietlen tájra és a naperőművekre.",
+                  "category": "natural",
+                  "coords": [
+                        34.830917,
+                        31.038309
+                  ]
+            },
+            {
+                  "name": "Givat Hayil",
+                  "text": "Domb a Negev-sivatagban, amely történelmi romok és ősi településhelyek közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        34.664444,
+                        30.976389
+                  ]
+            },
+            {
+                  "name": "Chai Negev",
+                  "text": "Ökológiai park állatsimogatóval, amelynek épületei teljes egészében vályogból és természetes anyagokból épültek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.717563,
+                        31.043844
+                  ]
+            },
+            {
+                  "name": "Mitzpe Revivim",
+                  "text": "Ez a szabadtéri múzeum egy 1943-as sivatagi előőrsöt mutat be eredeti kőtornyával és földalatti bunkereivel.",
+                  "category": "museum",
+                  "coords": [
+                        34.717785,
+                        31.03828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Har Shahar",
+                  "text": "Un vârf de deșert în Negev, cu o vedere panoramică asupra peisajului arid și a instalațiilor solare.",
+                  "category": "natural",
+                  "coords": [
+                        34.830917,
+                        31.038309
+                  ]
+            },
+            {
+                  "name": "Givat Hayil",
+                  "text": "O colină în deșertul Negev, situată în apropierea unor ruine istorice și situri de așezări antice.",
+                  "category": "natural",
+                  "coords": [
+                        34.664444,
+                        30.976389
+                  ]
+            },
+            {
+                  "name": "Chai Negev",
+                  "text": "Un parc ecologic cu o grădină zoologică unde copiii pot atinge animalele, construit în întregime din lut și materiale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.717563,
+                        31.043844
+                  ]
+            },
+            {
+                  "name": "Mitzpe Revivim",
+                  "text": "Acest muzeu în aer liber prezintă un avanpost din deșert din 1943, cu turnul său original de piatră și buncăre subterane.",
+                  "category": "museum",
+                  "coords": [
+                        34.717785,
+                        31.03828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Har Shahar",
+                  "text": "A desert peak in the Negev offering wide views over the arid landscape and solar arrays.",
+                  "category": "natural",
+                  "coords": [
+                        34.830917,
+                        31.038309
+                  ]
+            },
+            {
+                  "name": "Givat Hayil",
+                  "text": "A hill in the Negev desert located near historic ruins and ancient settlement sites.",
+                  "category": "natural",
+                  "coords": [
+                        34.664444,
+                        30.976389
+                  ]
+            },
+            {
+                  "name": "Chai Negev",
+                  "text": "An ecological park and petting zoo built entirely from mud bricks and natural materials.",
+                  "category": "landmark",
+                  "coords": [
+                        34.717563,
+                        31.043844
+                  ]
+            },
+            {
+                  "name": "Mitzpe Revivim",
+                  "text": "This open-air museum showcases a 1943 desert outpost with its original stone tower and underground bunkers.",
+                  "category": "museum",
+                  "coords": [
+                        34.717785,
+                        31.03828
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IL-D",
     coords: [34.7350, 31.0250],
@@ -246,7 +2397,592 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-haifa-refinery-economic-v2",
+    id: "il-haifa-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Par",
+                  "text": "Ein bronzezeitlicher archäologischer Siedlungshügel am Ufer des historischen Flusses Kischon.",
+                  "category": "historical",
+                  "coords": [
+                        35.104444,
+                        32.770833
+                  ]
+            },
+            {
+                  "name": "Tel Regev",
+                  "text": "Ein großer Siedlungshügel im Sewulon-Tal mit bedeutenden Überresten aus der kanaanäischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.09,
+                        32.758333
+                  ]
+            },
+            {
+                  "name": "Art studio RIMONIM Workroom",
+                  "text": "Ein kreatives Kunststudio und eine Galerie, die zeitgenössische lokale Werke präsentiert und Workshops anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        35.043025,
+                        32.776163
+                  ]
+            },
+            {
+                  "name": "Tell Abu Hawam",
+                  "text": "Ruinen einer bedeutenden Hafenstadt aus der Spätbronzezeit nahe der Mündung des Kischon-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        35.019167,
+                        32.800833
+                  ]
+            },
+            {
+                  "name": "Tel Nahal",
+                  "text": "Ein kleiner antiker Hügel inmitten des Industriegebiets in der Nähe der Haifa-Raffinerie.",
+                  "category": "historical",
+                  "coords": [
+                        35.066671,
+                        32.799999
+                  ]
+            },
+            {
+                  "name": "Ohel Aharon Synagogue",
+                  "text": "Diese Synagoge auf dem Technion-Campus ist für ihre einzigartige Architektur bekannt, die an ein Zelt erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        35.020769,
+                        32.776958
+                  ]
+            },
+            {
+                  "name": "Kellner Amphitheater",
+                  "text": "Ein Freilufttheater am Technion mit abgestuften Sitzreihen und Blick auf die Umgebung.",
+                  "category": "cultural",
+                  "coords": [
+                        35.022919,
+                        32.777472
+                  ]
+            },
+            {
+                  "name": "Technion Ecological Garden",
+                  "text": "Ein botanischer Forschungsgarten, der sich der Erhaltung und Untersuchung lokaler mediterraner Pflanzen widmet.",
+                  "category": "park",
+                  "coords": [
+                        35.024752,
+                        32.778202
+                  ]
+            },
+            {
+                  "name": "Shavshevet Hill",
+                  "text": "Ein hoher Aussichtspunkt am Technion mit weitem Blick über die Bucht von Haifa und Galiläa.",
+                  "category": "natural",
+                  "coords": [
+                        35.013379,
+                        32.785488
+                  ]
+            },
+            {
+                  "name": "Lebeniya",
+                  "text": "Die ikonischen Kühltürme der Haifa-Raffinerie sind ein Wahrzeichen der industriellen Skyline der Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        35.051568,
+                        32.793344
+                  ]
+            },
+            {
+                  "name": "HaGalil/HaBerekha",
+                  "text": "Ein jüdisches Gemeindezentrum und Gebetshaus im Viertel Neve Sha'anan in Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.018991,
+                        32.789181
+                  ]
+            },
+            {
+                  "name": "Religious Youth Cultural Center",
+                  "text": "Ein kulturelles Zentrum in Haifa, das Aktivitäten und Programme für die religiöse Jugend anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016008,
+                        32.790641
+                  ]
+            },
+            {
+                  "name": "Ziv HaTorah",
+                  "text": "Eine Synagoge und ein Zentrum für Religionsstudien im Ziv-Distrikt von Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016199,
+                        32.791817
+                  ]
+            },
+            {
+                  "name": "Makam El-sheich Abdullah ElSahly",
+                  "text": "Ein historisches Sufi-Heiligtum und eine Grabstätte an den Hängen des Berges Karmel.",
+                  "category": "religious",
+                  "coords": [
+                        35.042745,
+                        32.77177
+                  ]
+            },
+            {
+                  "name": "Halperin",
+                  "text": "Ein jüdischer Gebetsraum für die Arbeiter im Industriekomplex der Raffinerie von Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.011972,
+                        32.786266
+                  ]
+            },
+            {
+                  "name": "Pe'er Yisrael",
+                  "text": "Ein jüdisches Gotteshaus inmitten der Industrieanlagen der Raffinerien von Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.010775,
+                        32.792357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Par",
+                  "text": "Bronzkori régészeti domb a történelmi Kison-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        35.104444,
+                        32.770833
+                  ]
+            },
+            {
+                  "name": "Tel Regev",
+                  "text": "Hatalmas régészeti domb a Zebulon-völgyben, jelentős kánaáni kori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.09,
+                        32.758333
+                  ]
+            },
+            {
+                  "name": "Art studio RIMONIM Workroom",
+                  "text": "Kreatív művészeti stúdió és galéria, amely kortárs helyi alkotásokat mutat be és workshopokat tart.",
+                  "category": "museum",
+                  "coords": [
+                        35.043025,
+                        32.776163
+                  ]
+            },
+            {
+                  "name": "Tell Abu Hawam",
+                  "text": "Egy jelentős késő bronzkori kikötőváros romjai a Kison-folyó torkolatának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.019167,
+                        32.800833
+                  ]
+            },
+            {
+                  "name": "Tel Nahal",
+                  "text": "Kisméretű ősi domb a haifai olajfinomító közelében lévő ipari területen.",
+                  "category": "historical",
+                  "coords": [
+                        35.066671,
+                        32.799999
+                  ]
+            },
+            {
+                  "name": "Ohel Aharon Synagogue",
+                  "text": "A Technion kampuszán található zsinagóga egyedi, sátorra emlékeztető építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        35.020769,
+                        32.776958
+                  ]
+            },
+            {
+                  "name": "Kellner Amphitheater",
+                  "text": "Szabadtéri színház a Technionon, lépcsőzetes ülésekkel és kilátással a környezetre.",
+                  "category": "cultural",
+                  "coords": [
+                        35.022919,
+                        32.777472
+                  ]
+            },
+            {
+                  "name": "Technion Ecological Garden",
+                  "text": "Botanikai kutatókert, amely a helyi mediterrán növények megőrzésével és tanulmányozásával foglalkozik.",
+                  "category": "park",
+                  "coords": [
+                        35.024752,
+                        32.778202
+                  ]
+            },
+            {
+                  "name": "Shavshevet Hill",
+                  "text": "Magas kilátópont a Technionon, ahonnan pazar kilátás nyílik a Haifai-öbölre és Galileára.",
+                  "category": "natural",
+                  "coords": [
+                        35.013379,
+                        32.785488
+                  ]
+            },
+            {
+                  "name": "Lebeniya",
+                  "text": "A haifai olajfinomító ikonikus hűtőtornyai a város ipari látképének jelképévé váltak.",
+                  "category": "tower",
+                  "coords": [
+                        35.051568,
+                        32.793344
+                  ]
+            },
+            {
+                  "name": "HaGalil/HaBerekha",
+                  "text": "Zsidó közösségi központ és imaház Haifa Neve Sha'anan negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.018991,
+                        32.789181
+                  ]
+            },
+            {
+                  "name": "Religious Youth Cultural Center",
+                  "text": "Kulturális központ Haifában, amely programokat és tevékenységeket kínál a vallásos fiataloknak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016008,
+                        32.790641
+                  ]
+            },
+            {
+                  "name": "Ziv HaTorah",
+                  "text": "Zsinagóga és vallási tanulmányi központ Haifa Ziv negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016199,
+                        32.791817
+                  ]
+            },
+            {
+                  "name": "Makam El-sheich Abdullah ElSahly",
+                  "text": "Történelmi szúfi szentély és temetkezési hely a Carmel-hegy lejtőin.",
+                  "category": "religious",
+                  "coords": [
+                        35.042745,
+                        32.77177
+                  ]
+            },
+            {
+                  "name": "Halperin",
+                  "text": "Zsidó imaház a haifai finomító ipari negyedének dolgozói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.011972,
+                        32.786266
+                  ]
+            },
+            {
+                  "name": "Pe'er Yisrael",
+                  "text": "Zsidó templom a haifai olajfinomítók ipari létesítményei között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.010775,
+                        32.792357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Par",
+                  "text": "O colină arheologică din Epoca Bronzului, situată pe malul râului istoric Kishon.",
+                  "category": "historical",
+                  "coords": [
+                        35.104444,
+                        32.770833
+                  ]
+            },
+            {
+                  "name": "Tel Regev",
+                  "text": "O colină arheologică mare în Valea Zevulun, cu vestigii semnificative din perioada canaanită.",
+                  "category": "historical",
+                  "coords": [
+                        35.09,
+                        32.758333
+                  ]
+            },
+            {
+                  "name": "Art studio RIMONIM Workroom",
+                  "text": "Un studio de artă creativ și o galerie care prezintă lucrări locale contemporane și oferă ateliere.",
+                  "category": "museum",
+                  "coords": [
+                        35.043025,
+                        32.776163
+                  ]
+            },
+            {
+                  "name": "Tell Abu Hawam",
+                  "text": "Ruinele unui important oraș portuar din Epoca Bronzului Târziu, lângă gura râului Kishon.",
+                  "category": "historical",
+                  "coords": [
+                        35.019167,
+                        32.800833
+                  ]
+            },
+            {
+                  "name": "Tel Nahal",
+                  "text": "O mică colină antică situată în zona industrială de lângă rafinăria din Haifa.",
+                  "category": "historical",
+                  "coords": [
+                        35.066671,
+                        32.799999
+                  ]
+            },
+            {
+                  "name": "Ohel Aharon Synagogue",
+                  "text": "Această sinagogă din campusul Technion este cunoscută pentru arhitectura sa unică ce amintește de un cort.",
+                  "category": "religious",
+                  "coords": [
+                        35.020769,
+                        32.776958
+                  ]
+            },
+            {
+                  "name": "Kellner Amphitheater",
+                  "text": "Un amfiteatru în aer liber la Technion, cu locuri dispuse în trepte și vedere spre împrejurimi.",
+                  "category": "cultural",
+                  "coords": [
+                        35.022919,
+                        32.777472
+                  ]
+            },
+            {
+                  "name": "Technion Ecological Garden",
+                  "text": "O grădină botanică de cercetare dedicată conservării și studierii plantelor mediteraneene locale.",
+                  "category": "park",
+                  "coords": [
+                        35.024752,
+                        32.778202
+                  ]
+            },
+            {
+                  "name": "Shavshevet Hill",
+                  "text": "Un punct de observație înalt la Technion, oferind vederi largi asupra golfului Haifa și Galileii.",
+                  "category": "natural",
+                  "coords": [
+                        35.013379,
+                        32.785488
+                  ]
+            },
+            {
+                  "name": "Lebeniya",
+                  "text": "Turnurile de răcire emblematice ale rafinăriei din Haifa sunt un simbol al orizontului industrial al orașului.",
+                  "category": "tower",
+                  "coords": [
+                        35.051568,
+                        32.793344
+                  ]
+            },
+            {
+                  "name": "HaGalil/HaBerekha",
+                  "text": "Un centru comunitar evreiesc și lăcaș de cult în cartierul Neve Sha'anan din Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.018991,
+                        32.789181
+                  ]
+            },
+            {
+                  "name": "Religious Youth Cultural Center",
+                  "text": "Un centru cultural din Haifa care oferă activități și programe pentru tineretul religios.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016008,
+                        32.790641
+                  ]
+            },
+            {
+                  "name": "Ziv HaTorah",
+                  "text": "O sinagogă și un centru de studii religioase în districtul Ziv din Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016199,
+                        32.791817
+                  ]
+            },
+            {
+                  "name": "Makam El-sheich Abdullah ElSahly",
+                  "text": "Un sanctuar sufit istoric și loc de înmormântare pe pantele Muntelui Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        35.042745,
+                        32.77177
+                  ]
+            },
+            {
+                  "name": "Halperin",
+                  "text": "Un spațiu de rugăciune evreiesc pentru lucrătorii din complexul industrial al rafinăriei din Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.011972,
+                        32.786266
+                  ]
+            },
+            {
+                  "name": "Pe'er Yisrael",
+                  "text": "Un lăcaș de cult evreiesc situat printre structurile industriale ale rafinăriilor din Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.010775,
+                        32.792357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Par",
+                  "text": "A Bronze Age archaeological mound located on the banks of the historic Kishon River.",
+                  "category": "historical",
+                  "coords": [
+                        35.104444,
+                        32.770833
+                  ]
+            },
+            {
+                  "name": "Tel Regev",
+                  "text": "A large archaeological mound in the Zevulun Valley with significant remains from the Canaanite period.",
+                  "category": "historical",
+                  "coords": [
+                        35.09,
+                        32.758333
+                  ]
+            },
+            {
+                  "name": "Art studio RIMONIM Workroom",
+                  "text": "A creative art studio and gallery showcasing contemporary local works and offering workshops.",
+                  "category": "museum",
+                  "coords": [
+                        35.043025,
+                        32.776163
+                  ]
+            },
+            {
+                  "name": "Tell Abu Hawam",
+                  "text": "Ruins of an important Late Bronze Age port city near the mouth of the Kishon River.",
+                  "category": "historical",
+                  "coords": [
+                        35.019167,
+                        32.800833
+                  ]
+            },
+            {
+                  "name": "Tel Nahal",
+                  "text": "A small ancient mound situated in the industrial area near the Haifa refinery.",
+                  "category": "historical",
+                  "coords": [
+                        35.066671,
+                        32.799999
+                  ]
+            },
+            {
+                  "name": "Ohel Aharon Synagogue",
+                  "text": "This synagogue on the Technion campus is known for its unique architecture resembling a tent.",
+                  "category": "religious",
+                  "coords": [
+                        35.020769,
+                        32.776958
+                  ]
+            },
+            {
+                  "name": "Kellner Amphitheater",
+                  "text": "An open-air theater at the Technion with tiered seating and views of the surrounding area.",
+                  "category": "cultural",
+                  "coords": [
+                        35.022919,
+                        32.777472
+                  ]
+            },
+            {
+                  "name": "Technion Ecological Garden",
+                  "text": "A botanical research garden dedicated to the preservation and study of local Mediterranean plants.",
+                  "category": "park",
+                  "coords": [
+                        35.024752,
+                        32.778202
+                  ]
+            },
+            {
+                  "name": "Shavshevet Hill",
+                  "text": "A high viewpoint at the Technion offering sweeping vistas of Haifa Bay and the Galilee.",
+                  "category": "natural",
+                  "coords": [
+                        35.013379,
+                        32.785488
+                  ]
+            },
+            {
+                  "name": "Lebeniya",
+                  "text": "The iconic cooling towers of the Haifa refinery are a landmark of the city's industrial skyline.",
+                  "category": "tower",
+                  "coords": [
+                        35.051568,
+                        32.793344
+                  ]
+            },
+            {
+                  "name": "HaGalil/HaBerekha",
+                  "text": "A Jewish community center and place of worship in the Neve Sha'anan neighborhood of Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.018991,
+                        32.789181
+                  ]
+            },
+            {
+                  "name": "Religious Youth Cultural Center",
+                  "text": "A cultural center in Haifa providing activities and programs for religious youth.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016008,
+                        32.790641
+                  ]
+            },
+            {
+                  "name": "Ziv HaTorah",
+                  "text": "A synagogue and center for religious study located in Haifa's Ziv district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.016199,
+                        32.791817
+                  ]
+            },
+            {
+                  "name": "Makam El-sheich Abdullah ElSahly",
+                  "text": "A historic Sufi shrine and burial place located on the slopes of Mount Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        35.042745,
+                        32.77177
+                  ]
+            },
+            {
+                  "name": "Halperin",
+                  "text": "A Jewish prayer space serving the workers within the Haifa refinery industrial complex.",
+                  "category": "landmark",
+                  "coords": [
+                        35.011972,
+                        32.786266
+                  ]
+            },
+            {
+                  "name": "Pe'er Yisrael",
+                  "text": "A Jewish house of worship located amidst the industrial structures of the Haifa refineries.",
+                  "category": "landmark",
+                  "coords": [
+                        35.010775,
+                        32.792357
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-HA",
     coords: [35.0394, 32.7931],
@@ -282,7 +3018,808 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-ashdod-refinery-economic-v2",
+    id: "il-ashdod-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Ashdod",
+                  "text": "Ein archäologischer Hügel mit den Ruinen einer alten philisterischen Hauptstadt und ihres Dagon-Tempels.",
+                  "category": "historical",
+                  "coords": [
+                        34.65881,
+                        31.755774
+                  ]
+            },
+            {
+                  "name": "Amphi Ashdod",
+                  "text": "Eines der größten Freilicht-Amphitheater Israels, gelegen in einem Park nahe der Mittelmeerküste.",
+                  "category": "cultural",
+                  "coords": [
+                        34.635797,
+                        31.798758
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut Ashdod",
+                  "text": "Aschdods wichtigstes Zentrum für darstellende Künste mit einem markanten modernen Design und einer Glasfassade.",
+                  "category": "cultural",
+                  "coords": [
+                        34.636272,
+                        31.793172
+                  ]
+            },
+            {
+                  "name": "Ad Halom Bridge",
+                  "text": "Eine historische Brücke aus der Mamlukenzeit über den Lachisch-Fluss, berühmt für die Schlacht von 1948 gegen die ägyptische Armee.",
+                  "category": "landmark",
+                  "coords": [
+                        34.669676,
+                        31.781851
+                  ]
+            },
+            {
+                  "name": "Die große Düne",
+                  "text": "Eine massive, 35 Meter hohe aktive Sanddüne in einem Naturschutzgebiet, die letzte ihrer Art an Israels Küste.",
+                  "category": "natural",
+                  "coords": [
+                        34.653768,
+                        31.773353
+                  ]
+            },
+            {
+                  "name": "Giv'at Yona",
+                  "text": "Der höchste Punkt von Aschdod mit einem Leuchtturm und Ausblicken, die traditionell mit dem Grab des Propheten Jona verbunden sind.",
+                  "category": "natural",
+                  "coords": [
+                        34.646617,
+                        31.813883
+                  ]
+            },
+            {
+                  "name": "Park Lakhish",
+                  "text": "Ein malerischer Uferpark am Lachisch-Bach mit einem Gehege für Zebras und Strauße.",
+                  "category": "park",
+                  "coords": [
+                        34.650956,
+                        31.81788
+                  ]
+            },
+            {
+                  "name": "Ben Gurion Park",
+                  "text": "Eine zentrale städtische Grünfläche in Aschdod mit schattigen Spazierwegen und Erholungsbereichen für die Bewohner.",
+                  "category": "park",
+                  "coords": [
+                        34.655828,
+                        31.802628
+                  ]
+            },
+            {
+                  "name": "Ashdod Yam Park",
+                  "text": "Ein großer moderner Stadtpark mit einem Musikbrunnen, einem See und umfangreichen Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        34.635372,
+                        31.79671
+                  ]
+            },
+            {
+                  "name": "Gan Elisheva",
+                  "text": "Ein Küstenpark im Norden von Aschdod, benannt nach Elischewa Eschkol, in der Nähe der beliebten Strände der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        34.641882,
+                        31.80932
+                  ]
+            },
+            {
+                  "name": "Testimony House",
+                  "text": "Ein Holocaust-Museum und Bildungszentrum in Aschdod, das sich auf die Bewahrung der Geschichte jüdischer Gemeinden konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        34.683039,
+                        31.825767
+                  ]
+            },
+            {
+                  "name": "Ashdod's museam Korin Maman",
+                  "text": "Ein spezialisiertes Museum, das der archäologischen Kultur der Philister im Land Israel gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.640361,
+                        31.798977
+                  ]
+            },
+            {
+                  "name": "Tel Mor",
+                  "text": "Ein antiker Hafenstandort und archäologischer Hügel an der Mündung des Lachisch-Baches.",
+                  "category": "historical",
+                  "coords": [
+                        34.656399,
+                        31.823023
+                  ]
+            },
+            {
+                  "name": "Ashdod-Yam Citadel",
+                  "text": "Restaurierte Überreste einer umayyadischen Küstenfestung aus dem 8. Jahrhundert direkt am Mittelmeerstrand.",
+                  "category": "historical",
+                  "coords": [
+                        34.621657,
+                        31.780436
+                  ]
+            },
+            {
+                  "name": "Obelisk to the Fallen Egyptian Soldiers",
+                  "text": "Ein ägyptisches Denkmal in Ad Halom, das im Rahmen des Friedensvertrags von 1979 zwischen Israel und Ägypten errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        34.666428,
+                        31.781915
+                  ]
+            },
+            {
+                  "name": "Municipality of Ashdod",
+                  "text": "Das moderne Verwaltungszentrum von Aschdod im zentralen Geschäftsviertel der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.638069,
+                        31.79227
+                  ]
+            },
+            {
+                  "name": "Yohai Lookout",
+                  "text": "Ein malerischer Küstenaussichtspunkt zum Gedenken an Major Yohai Kalangel mit Panoramablick auf das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        34.622658,
+                        31.781738
+                  ]
+            },
+            {
+                  "name": "Golda Garden",
+                  "text": "Ein öffentlicher Garten in Aschdod mit schattigen Sitzbereichen und Grünanlagen für die Gemeinde.",
+                  "category": "park",
+                  "coords": [
+                        34.631926,
+                        31.784206
+                  ]
+            },
+            {
+                  "name": "Gan Avner Garin",
+                  "text": "Ein Viertelpark in Aschdod mit Spielgeräten und offenen Grünflächen für Familien.",
+                  "category": "park",
+                  "coords": [
+                        34.643424,
+                        31.775967
+                  ]
+            },
+            {
+                  "name": "Gan HaVradim",
+                  "text": "Ein spezialisierter Stadtgarten in Aschdod, der verschiedenen Rosenarten und Blumenschauen gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        34.662997,
+                        31.779789
+                  ]
+            },
+            {
+                  "name": "Gan Bordeaux",
+                  "text": "Ein öffentlicher Park in Aschdod, benannt zu Ehren der französischen Partnerstadt Bordeaux.",
+                  "category": "park",
+                  "coords": [
+                        34.639555,
+                        31.801781
+                  ]
+            },
+            {
+                  "name": "Hakshatot Beach",
+                  "text": "Ein Sandstrand in Aschdod, der für seine dekorativen Betonbögen an der Küstenpromenade bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.632498,
+                        31.800411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Ashdod",
+                  "text": "Régészeti domb, amely egy ősi filiszteus főváros romjait és Dágon-templomát rejti.",
+                  "category": "historical",
+                  "coords": [
+                        34.65881,
+                        31.755774
+                  ]
+            },
+            {
+                  "name": "Amphi Ashdod",
+                  "text": "Izrael egyik legnagyobb szabadtéri amfiteátruma, amely egy parkban található a Földközi-tenger partján.",
+                  "category": "cultural",
+                  "coords": [
+                        34.635797,
+                        31.798758
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut Ashdod",
+                  "text": "Asdód fő előadó-művészeti központja, amely feltűnő modern építészeti stílusával és üveghomlokzatával hívja fel magára a figyelmet.",
+                  "category": "cultural",
+                  "coords": [
+                        34.636272,
+                        31.793172
+                  ]
+            },
+            {
+                  "name": "Ad Halom Bridge",
+                  "text": "Történelmi mamlúk kori híd a Lakis-folyón, amely az egyiptomi hadsereg elleni 1948-as csatáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.669676,
+                        31.781851
+                  ]
+            },
+            {
+                  "name": "The Great Dune",
+                  "text": "Egy hatalmas, 35 méter magas aktív homokdűne egy természetvédelmi területen, az utolsó ilyen Izrael partjainál.",
+                  "category": "natural",
+                  "coords": [
+                        34.653768,
+                        31.773353
+                  ]
+            },
+            {
+                  "name": "Giv'at Yona",
+                  "text": "Asdód legmagasabb pontja világítótoronnyal és kilátással, amelyet a hagyomány Jónás próféta sírjával hoz összefüggésbe.",
+                  "category": "natural",
+                  "coords": [
+                        34.646617,
+                        31.813883
+                  ]
+            },
+            {
+                  "name": "Park Lakhish",
+                  "text": "Gleccserparti park a Lakis-patak mentén, ahol zebrák és struccok kifutója található.",
+                  "category": "park",
+                  "coords": [
+                        34.650956,
+                        31.81788
+                  ]
+            },
+            {
+                  "name": "Ben Gurion Park",
+                  "text": "Központi városi zöldterület Asdódban, amely árnyas sétautakat és kikapcsolódási lehetőséget kínál a lakóknak.",
+                  "category": "park",
+                  "coords": [
+                        34.655828,
+                        31.802628
+                  ]
+            },
+            {
+                  "name": "Ashdod Yam Park",
+                  "text": "Hatalmas modern városi park zenélő szökőkúttal, tóval és kiterjedt szabadidős létesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        34.635372,
+                        31.79671
+                  ]
+            },
+            {
+                  "name": "Gan Elisheva",
+                  "text": "Tengerparti park Asdód északi részén, Eliséva Eskolról elnevezve, a város népszerű strandjainak közelében.",
+                  "category": "park",
+                  "coords": [
+                        34.641882,
+                        31.80932
+                  ]
+            },
+            {
+                  "name": "Testimony House",
+                  "text": "Holokauszt-múzeum és oktatási központ Asdódban, amely a zsidó közösségek történelmének megőrzésére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        34.683039,
+                        31.825767
+                  ]
+            },
+            {
+                  "name": "Ashdod's museam Korin Maman",
+                  "text": "Speciális múzeum, amely a filiszteusok régészeti kultúráját mutatja be Izrael földjén.",
+                  "category": "museum",
+                  "coords": [
+                        34.640361,
+                        31.798977
+                  ]
+            },
+            {
+                  "name": "Tel Mor",
+                  "text": "Ősi kikötőhely és régészeti domb a Lakis-patak torkolatánál.",
+                  "category": "historical",
+                  "coords": [
+                        34.656399,
+                        31.823023
+                  ]
+            },
+            {
+                  "name": "Ashdod-Yam Citadel",
+                  "text": "Egy 8. századi omajjád tengerparti erőd helyreállított maradványai közvetlenül a Földközi-tenger partján.",
+                  "category": "historical",
+                  "coords": [
+                        34.621657,
+                        31.780436
+                  ]
+            },
+            {
+                  "name": "Obelisk to the Fallen Egyptian Soldiers",
+                  "text": "Egyiptomi emlékmű Ad Halomban, amelyet az Izrael és Egyiptom közötti 1979-es békeszerződés részeként emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        34.666428,
+                        31.781915
+                  ]
+            },
+            {
+                  "name": "Municipality of Ashdod",
+                  "text": "Asdód modern közigazgatási központja a város központi üzleti negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        34.638069,
+                        31.79227
+                  ]
+            },
+            {
+                  "name": "Yohai Lookout",
+                  "text": "Festői tengerparti kilátóhely Yohai Kalangel őrnagy emlékére, panorámás kilátással a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        34.622658,
+                        31.781738
+                  ]
+            },
+            {
+                  "name": "Golda Garden",
+                  "text": "Közpark Asdódban árnyékos pihenőhelyekkel és parkosított területekkel a közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        34.631926,
+                        31.784206
+                  ]
+            },
+            {
+                  "name": "Gan Avner Garin",
+                  "text": "Környékbeli park Asdódban játszótérrel és nyitott zöldterülettel a családok számára.",
+                  "category": "park",
+                  "coords": [
+                        34.643424,
+                        31.775967
+                  ]
+            },
+            {
+                  "name": "Gan HaVradim",
+                  "text": "Speciális városi kert Asdódban, amely különböző rózsafajtáknak és virágbemutatóknak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        34.662997,
+                        31.779789
+                  ]
+            },
+            {
+                  "name": "Gan Bordeaux",
+                  "text": "Közpark Asdódban, amelyet a franciaországi testvérváros, Bordeaux tiszteletére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        34.639555,
+                        31.801781
+                  ]
+            },
+            {
+                  "name": "Hakshatot Beach",
+                  "text": "Asdód homokos strandja, amely a tengerparti sétányon található jellegzetes betoníveiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.632498,
+                        31.800411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Ashdod",
+                  "text": "Un sit arheologic ce conține ruinele unei vechi capitale filistene și templul său dedicat lui Dagon.",
+                  "category": "historical",
+                  "coords": [
+                        34.65881,
+                        31.755774
+                  ]
+            },
+            {
+                  "name": "Amphi Ashdod",
+                  "text": "Unul dintre cele mai mari amfiteatre în aer liber din Israel, situat într-un parc lângă țărmul Mediteranei.",
+                  "category": "cultural",
+                  "coords": [
+                        34.635797,
+                        31.798758
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut Ashdod",
+                  "text": "Principalul centru de arte spectacolului din Ashdod, având un design arhitectural modern izbitor, cu o fațadă de sticlă.",
+                  "category": "cultural",
+                  "coords": [
+                        34.636272,
+                        31.793172
+                  ]
+            },
+            {
+                  "name": "Ad Halom Bridge",
+                  "text": "Un pod istoric din epoca mamelucă peste râul Lachiș, renumit pentru bătălia din 1948 împotriva armatei egiptene.",
+                  "category": "landmark",
+                  "coords": [
+                        34.669676,
+                        31.781851
+                  ]
+            },
+            {
+                  "name": "The Great Dune",
+                  "text": "O dună de nisip activă masivă, înaltă de 35 de metri, aflată într-o rezervație naturală, ultima de acest fel de pe coasta Israelului.",
+                  "category": "natural",
+                  "coords": [
+                        34.653768,
+                        31.773353
+                  ]
+            },
+            {
+                  "name": "Giv'at Yona",
+                  "text": "Cel mai înalt punct din Ashdod, cu un far și priveliști asociate tradițional cu mormântul profetului Iona.",
+                  "category": "natural",
+                  "coords": [
+                        34.646617,
+                        31.813883
+                  ]
+            },
+            {
+                  "name": "Park Lakhish",
+                  "text": "Un parc pitoresc pe malul pârâului Lachiș, cu o împrejmuire pentru zebre și struți.",
+                  "category": "park",
+                  "coords": [
+                        34.650956,
+                        31.81788
+                  ]
+            },
+            {
+                  "name": "Ben Gurion Park",
+                  "text": "Un spațiu verde urban central în Ashdod, care oferă alei umbrite și zone de recreere pentru locuitori.",
+                  "category": "park",
+                  "coords": [
+                        34.655828,
+                        31.802628
+                  ]
+            },
+            {
+                  "name": "Ashdod Yam Park",
+                  "text": "Un parc urban modern și mare, cu o fântână muzicală, un lac și facilități de recreere extinse.",
+                  "category": "park",
+                  "coords": [
+                        34.635372,
+                        31.79671
+                  ]
+            },
+            {
+                  "name": "Gan Elisheva",
+                  "text": "Un parc de coastă în nordul orașului Ashdod, numit după Elisheva Eshkol, situat lângă plajele populare ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        34.641882,
+                        31.80932
+                  ]
+            },
+            {
+                  "name": "Testimony House",
+                  "text": "Un muzeu al Holocaustului și centru educațional din Ashdod concentrat pe păstrarea istoriei comunităților evreiești.",
+                  "category": "museum",
+                  "coords": [
+                        34.683039,
+                        31.825767
+                  ]
+            },
+            {
+                  "name": "Ashdod's museam Korin Maman",
+                  "text": "Un muzeu specializat dedicat culturii arheologice a filistenilor pe pământul Israelului.",
+                  "category": "museum",
+                  "coords": [
+                        34.640361,
+                        31.798977
+                  ]
+            },
+            {
+                  "name": "Tel Mor",
+                  "text": "Un sit portuar antic și un dâmb arheologic situat la gura de vărsare a pârâului Lachiș.",
+                  "category": "historical",
+                  "coords": [
+                        34.656399,
+                        31.823023
+                  ]
+            },
+            {
+                  "name": "Ashdod-Yam Citadel",
+                  "text": "Rămășițe restaurate ale unei cetăți de coastă omeiade din secolul al VIII-lea, situată direct pe plaja Mediteranei.",
+                  "category": "historical",
+                  "coords": [
+                        34.621657,
+                        31.780436
+                  ]
+            },
+            {
+                  "name": "Obelisk to the Fallen Egyptian Soldiers",
+                  "text": "Un monument comemorativ egiptean la Ad Halom, ridicat ca parte a tratatului de pace din 1979 dintre Israel și Egipt.",
+                  "category": "historical",
+                  "coords": [
+                        34.666428,
+                        31.781915
+                  ]
+            },
+            {
+                  "name": "Municipality of Ashdod",
+                  "text": "Sediul administrativ modern din Ashdod, situat în districtul central de afaceri al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        34.638069,
+                        31.79227
+                  ]
+            },
+            {
+                  "name": "Yohai Lookout",
+                  "text": "Un punct de belvedere pitoresc de pe coastă, numit în memoria maiorului Yohai Kalangel, oferind vedere panoramică la mare.",
+                  "category": "natural",
+                  "coords": [
+                        34.622658,
+                        31.781738
+                  ]
+            },
+            {
+                  "name": "Golda Garden",
+                  "text": "O grădină publică din Ashdod, cu zone de relaxare umbrite și amenajări peisagistice pentru uz comunitar.",
+                  "category": "park",
+                  "coords": [
+                        34.631926,
+                        31.784206
+                  ]
+            },
+            {
+                  "name": "Gan Avner Garin",
+                  "text": "Un parc de cartier în Ashdod, care oferă echipamente de joacă și spațiu verde deschis pentru familii.",
+                  "category": "park",
+                  "coords": [
+                        34.643424,
+                        31.775967
+                  ]
+            },
+            {
+                  "name": "Gan HaVradim",
+                  "text": "O grădină urbană specializată în Ashdod, dedicată diverselor specii de trandafiri și expozițiilor florale.",
+                  "category": "park",
+                  "coords": [
+                        34.662997,
+                        31.779789
+                  ]
+            },
+            {
+                  "name": "Gan Bordeaux",
+                  "text": "Un parc public din Ashdod, numit în onoarea orașului său înfrățit, Bordeaux, din Franța.",
+                  "category": "park",
+                  "coords": [
+                        34.639555,
+                        31.801781
+                  ]
+            },
+            {
+                  "name": "Hakshatot Beach",
+                  "text": "O plajă cu nisip din Ashdod, cunoscută pentru arcadele decorative de beton de-a lungul promenadei.",
+                  "category": "recreational",
+                  "coords": [
+                        34.632498,
+                        31.800411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Ashdod",
+                  "text": "An archaeological mound containing the ruins of an ancient Philistine capital and its temple to Dagon.",
+                  "category": "historical",
+                  "coords": [
+                        34.65881,
+                        31.755774
+                  ]
+            },
+            {
+                  "name": "Amphi Ashdod",
+                  "text": "One of Israel's largest outdoor amphitheaters, situated in a park near the Mediterranean shore.",
+                  "category": "cultural",
+                  "coords": [
+                        34.635797,
+                        31.798758
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut Ashdod",
+                  "text": "Ashdod's main performing arts center, featuring a striking modern architectural design with a glass facade.",
+                  "category": "cultural",
+                  "coords": [
+                        34.636272,
+                        31.793172
+                  ]
+            },
+            {
+                  "name": "Ad Halom Bridge",
+                  "text": "A historic Mamluk-era bridge over the Lachish River, famous for the 1948 battle against the Egyptian army.",
+                  "category": "landmark",
+                  "coords": [
+                        34.669676,
+                        31.781851
+                  ]
+            },
+            {
+                  "name": "The Great Dune",
+                  "text": "A massive 35-meter-high active sand dune within a nature reserve, the last of its kind on Israel's coast.",
+                  "category": "natural",
+                  "coords": [
+                        34.653768,
+                        31.773353
+                  ]
+            },
+            {
+                  "name": "Giv'at Yona",
+                  "text": "Ashdod's highest point, featuring a lighthouse and views traditionally associated with the prophet Jonah's tomb.",
+                  "category": "natural",
+                  "coords": [
+                        34.646617,
+                        31.813883
+                  ]
+            },
+            {
+                  "name": "Park Lakhish",
+                  "text": "A scenic riverside park along the Lachish stream featuring an enclosure with zebras and ostriches.",
+                  "category": "park",
+                  "coords": [
+                        34.650956,
+                        31.81788
+                  ]
+            },
+            {
+                  "name": "Ben Gurion Park",
+                  "text": "A central urban green space in Ashdod providing shaded walking paths and recreational areas for residents.",
+                  "category": "park",
+                  "coords": [
+                        34.655828,
+                        31.802628
+                  ]
+            },
+            {
+                  "name": "Ashdod Yam Park",
+                  "text": "A large modern urban park featuring a musical fountain, a lake, and extensive recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        34.635372,
+                        31.79671
+                  ]
+            },
+            {
+                  "name": "Gan Elisheva",
+                  "text": "A coastal park in northern Ashdod named after Elisheva Eshkol, located near the city's popular beaches.",
+                  "category": "park",
+                  "coords": [
+                        34.641882,
+                        31.80932
+                  ]
+            },
+            {
+                  "name": "Testimony House",
+                  "text": "A Holocaust museum and educational center in Ashdod focused on preserving the history of Jewish communities.",
+                  "category": "museum",
+                  "coords": [
+                        34.683039,
+                        31.825767
+                  ]
+            },
+            {
+                  "name": "Ashdod's museam Korin Maman",
+                  "text": "A specialized museum dedicated to the archaeological culture of the Philistines in the land of Israel.",
+                  "category": "museum",
+                  "coords": [
+                        34.640361,
+                        31.798977
+                  ]
+            },
+            {
+                  "name": "Tel Mor",
+                  "text": "An ancient harbor site and archaeological mound located at the mouth of the Lachish stream.",
+                  "category": "historical",
+                  "coords": [
+                        34.656399,
+                        31.823023
+                  ]
+            },
+            {
+                  "name": "Ashdod-Yam Citadel",
+                  "text": "Restored remains of an 8th-century Umayyad coastal fortress located directly on the Mediterranean beach.",
+                  "category": "historical",
+                  "coords": [
+                        34.621657,
+                        31.780436
+                  ]
+            },
+            {
+                  "name": "Obelisk to the Fallen Egyptian Soldiers",
+                  "text": "An Egyptian memorial monument at Ad Halom erected as part of the 1979 peace treaty between Israel and Egypt.",
+                  "category": "historical",
+                  "coords": [
+                        34.666428,
+                        31.781915
+                  ]
+            },
+            {
+                  "name": "Municipality of Ashdod",
+                  "text": "The modern administrative headquarters of Ashdod, located in the city's central business district.",
+                  "category": "historical",
+                  "coords": [
+                        34.638069,
+                        31.79227
+                  ]
+            },
+            {
+                  "name": "Yohai Lookout",
+                  "text": "A scenic coastal viewpoint named in memory of Major Yohai Kalangel, offering panoramic sea views.",
+                  "category": "natural",
+                  "coords": [
+                        34.622658,
+                        31.781738
+                  ]
+            },
+            {
+                  "name": "Golda Garden",
+                  "text": "A public garden in Ashdod featuring shaded seating areas and landscaping for community use.",
+                  "category": "park",
+                  "coords": [
+                        34.631926,
+                        31.784206
+                  ]
+            },
+            {
+                  "name": "Gan Avner Garin",
+                  "text": "A neighborhood park in Ashdod providing play equipment and open green space for families.",
+                  "category": "park",
+                  "coords": [
+                        34.643424,
+                        31.775967
+                  ]
+            },
+            {
+                  "name": "Gan HaVradim",
+                  "text": "A specialized urban garden in Ashdod dedicated to various species of roses and floral displays.",
+                  "category": "park",
+                  "coords": [
+                        34.662997,
+                        31.779789
+                  ]
+            },
+            {
+                  "name": "Gan Bordeaux",
+                  "text": "A public park in Ashdod named in honor of its sister city, Bordeaux, in France.",
+                  "category": "park",
+                  "coords": [
+                        34.639555,
+                        31.801781
+                  ]
+            },
+            {
+                  "name": "Hakshatot Beach",
+                  "text": "A sandy beach in Ashdod known for its decorative concrete arches along the coastal promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        34.632498,
+                        31.800411
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-D",
     coords: [34.6644, 31.8239],
@@ -309,7 +3846,52 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-dead-sea-works-economic-v2",
+    id: "il-dead-sea-works-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Hidden Spring",
+                  "text": "Ein verstecktes Quellbecken (Ein Plutit), das von dichtem Schilf umgeben ist und kühles Wasser in der Wüste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.363886,
+                        30.95612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Hidden Spring",
+                  "text": "Egy rejtett forrásmedence (Ein Plutit), amelyet sűrű nádas vesz körül, hűs vizet kínálva a sivatagban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.363886,
+                        30.95612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Hidden Spring",
+                  "text": "Un bazin cu izvor ascuns (Ein Plutit), înconjurat de stufăriș des, oferind apă rece în deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.363886,
+                        30.95612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Hidden Spring",
+                  "text": "A hidden spring pool (Ein Plutit) surrounded by dense reeds, offering cool water in the desert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.363886,
+                        30.95612
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-D",
     coords: [35.3970, 31.0360],
@@ -345,7 +3927,232 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-ramat-hovav-economic-v2",
+    id: "il-ramat-hovav-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ketef Avraham",
+                  "text": "Ein markanter Hügel in der nördlichen Negev-Wüste mit Ausblick über die umliegenden trockenen Hochebenen.",
+                  "category": "natural",
+                  "coords": [
+                        34.882813,
+                        31.210432
+                  ]
+            },
+            {
+                  "name": "Giv'at Habbelanim",
+                  "text": "Ein niedriggelegener Wüstengipfel inmitten der hügeligen Landschaft des nördlichen Negev.",
+                  "category": "natural",
+                  "coords": [
+                        34.794416,
+                        31.193119
+                  ]
+            },
+            {
+                  "name": "Har Naim",
+                  "text": "Ein Wüstengipfel in der Region Ramat Hovav, gekennzeichnet durch spärliche Vegetation und Kalksteingelände.",
+                  "category": "natural",
+                  "coords": [
+                        34.783333,
+                        31.166667
+                  ]
+            },
+            {
+                  "name": "Givat Shemen",
+                  "text": "Ein kleiner Hügel in der nördlichen Negev-Wüste, nahe den Industriezonen von Ramat Hovav.",
+                  "category": "natural",
+                  "coords": [
+                        34.833339,
+                        31.133331
+                  ]
+            },
+            {
+                  "name": "Horbat Zahal",
+                  "text": "Die Überreste eines antiken Wüstenaußenpostens, der heute als niedrige Steinfundamente in der Negev-Landschaft erkennbar ist.",
+                  "category": "historical",
+                  "coords": [
+                        34.839327,
+                        31.084867
+                  ]
+            },
+            {
+                  "name": "Har Beqa",
+                  "text": "Ein Gipfel im Hochland der Negev-Wüste mit Blick auf die weiten Ebenen der nördlichen Wüste.",
+                  "category": "natural",
+                  "coords": [
+                        34.883326,
+                        31.133331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ketef Avraham",
+                  "text": "Jellegzetes domb az északi Negev-sivatagban, ahonnan rálátni a környező száraz fennsíkokra.",
+                  "category": "natural",
+                  "coords": [
+                        34.882813,
+                        31.210432
+                  ]
+            },
+            {
+                  "name": "Giv'at Habbelanim",
+                  "text": "Alacsony sivatagi hegycsúcs az északi Negev hullámzó táján.",
+                  "category": "natural",
+                  "coords": [
+                        34.794416,
+                        31.193119
+                  ]
+            },
+            {
+                  "name": "Har Naim",
+                  "text": "Sivatagi hegycsúcs Ramat Hovav régiójában, amelyet ritkás növényzet és mészköves terep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        34.783333,
+                        31.166667
+                  ]
+            },
+            {
+                  "name": "Givat Shemen",
+                  "text": "Kis domb az északi Negev-sivatagban, Ramat Hovav ipari övezetének közelében.",
+                  "category": "natural",
+                  "coords": [
+                        34.833339,
+                        31.133331
+                  ]
+            },
+            {
+                  "name": "Horbat Zahal",
+                  "text": "Egy ősi sivatagi őrhely maradványai, amelyek ma alacsony kőalapokként látszanak a Negev-sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        34.839327,
+                        31.084867
+                  ]
+            },
+            {
+                  "name": "Har Beqa",
+                  "text": "Hegycsúcs a Negev-sivatag felföldjén, ahonnan kilátás nyílik az északi sivatag kiterjedt síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        34.883326,
+                        31.133331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ketef Avraham",
+                  "text": "Un deal proeminent în nordul deșertului Negev, oferind vedere asupra podișurilor aride din jur.",
+                  "category": "natural",
+                  "coords": [
+                        34.882813,
+                        31.210432
+                  ]
+            },
+            {
+                  "name": "Giv'at Habbelanim",
+                  "text": "Un vârf de deșert situat în peisajul deluros din nordul Negevului.",
+                  "category": "natural",
+                  "coords": [
+                        34.794416,
+                        31.193119
+                  ]
+            },
+            {
+                  "name": "Har Naim",
+                  "text": "Un vârf de deșert în regiunea Ramat Hovav, caracterizat prin vegetație rară și teren calcaros.",
+                  "category": "natural",
+                  "coords": [
+                        34.783333,
+                        31.166667
+                  ]
+            },
+            {
+                  "name": "Givat Shemen",
+                  "text": "Un mic deal în nordul deșertului Negev, situat lângă zonele industriale din Ramat Hovav.",
+                  "category": "natural",
+                  "coords": [
+                        34.833339,
+                        31.133331
+                  ]
+            },
+            {
+                  "name": "Horbat Zahal",
+                  "text": "Rămășițele unui vechi avanpost din deșert, vizibile acum ca fundații joase de piatră în peisajul Negev.",
+                  "category": "historical",
+                  "coords": [
+                        34.839327,
+                        31.084867
+                  ]
+            },
+            {
+                  "name": "Har Beqa",
+                  "text": "Un vârf în zonele înalte ale deșertului Negev, cu vedere spre câmpiile vaste ale deșertului nordic.",
+                  "category": "natural",
+                  "coords": [
+                        34.883326,
+                        31.133331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ketef Avraham",
+                  "text": "A prominent hill in the northern Negev desert, offering views over the surrounding arid plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        34.882813,
+                        31.210432
+                  ]
+            },
+            {
+                  "name": "Giv'at Habbelanim",
+                  "text": "A low-lying desert peak situated within the undulating landscape of the northern Negev.",
+                  "category": "natural",
+                  "coords": [
+                        34.794416,
+                        31.193119
+                  ]
+            },
+            {
+                  "name": "Har Naim",
+                  "text": "A desert peak in the Ramat Hovav region, characterized by its sparse vegetation and limestone terrain.",
+                  "category": "natural",
+                  "coords": [
+                        34.783333,
+                        31.166667
+                  ]
+            },
+            {
+                  "name": "Givat Shemen",
+                  "text": "A small hill in the northern Negev desert, located near the industrial zones of Ramat Hovav.",
+                  "category": "natural",
+                  "coords": [
+                        34.833339,
+                        31.133331
+                  ]
+            },
+            {
+                  "name": "Horbat Zahal",
+                  "text": "The remains of an ancient desert outpost, now appearing as low stone foundations in the Negev landscape.",
+                  "category": "historical",
+                  "coords": [
+                        34.839327,
+                        31.084867
+                  ]
+            },
+            {
+                  "name": "Har Beqa",
+                  "text": "A peak in the Negev desert highlands, overlooking the expansive plains of the northern desert.",
+                  "category": "natural",
+                  "coords": [
+                        34.883326,
+                        31.133331
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-D",
     coords: [34.8144, 31.1444],
@@ -381,7 +4188,772 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-diamond-exchange-economic-v2",
+    id: "il-diamond-exchange-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "David Labkovsky Center for Jewish Art",
+                  "text": "Museum für jüdische Kunst, das Werke von David Labkovsky zum jüdischen Leben und dem Holocaust zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        34.821323,
+                        32.077207
+                  ]
+            },
+            {
+                  "name": "Kozlovsky Hill",
+                  "text": "Höchster Punkt in Givatayim mit Panoramablick über die Skyline von Tel Aviv.",
+                  "category": "natural",
+                  "coords": [
+                        34.816058,
+                        32.072137
+                  ]
+            },
+            {
+                  "name": "Ramat Gan Municipality",
+                  "text": "Das moderne Verwaltungsgebäude und Sitz der Stadtverwaltung von Ramat Gan.",
+                  "category": "historical",
+                  "coords": [
+                        34.814294,
+                        32.082575
+                  ]
+            },
+            {
+                  "name": "Great Synagogue",
+                  "text": "Ein zentrales jüdisches Gotteshaus im Herzen des Stadtteils Ramat Gan.",
+                  "category": "religious",
+                  "coords": [
+                        34.815307,
+                        32.083472
+                  ]
+            },
+            {
+                  "name": "Ramat Gan",
+                  "text": "Kulturzentrum, das ein breites Spektrum an hebräischen Theateraufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.821776,
+                        32.079173
+                  ]
+            },
+            {
+                  "name": "Nili",
+                  "text": "Denkmal zur Erinnerung an den jüdischen Spionagering Nili im Ersten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        34.808935,
+                        32.086239
+                  ]
+            },
+            {
+                  "name": "Tel Hashash",
+                  "text": "Archäologische Stätte mit Überresten aus der Kupfer- und Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        34.796749,
+                        32.093676
+                  ]
+            },
+            {
+                  "name": "Yahalom Theatre",
+                  "text": "Theater im Diamantenviertel, bekannt für Konzerte und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        34.802299,
+                        32.084417
+                  ]
+            },
+            {
+                  "name": "Volovelski Karni",
+                  "text": "Städtische Grünanlage am Rande der Ayalon-Autobahn.",
+                  "category": "park",
+                  "coords": [
+                        34.794738,
+                        32.081577
+                  ]
+            },
+            {
+                  "name": "HaAliya HaShniya Garden",
+                  "text": "Gedenkgarten für die zweite Einwanderungswelle mit Skulpturen und schattigen Wegen.",
+                  "category": "park",
+                  "coords": [
+                        34.814924,
+                        32.069693
+                  ]
+            },
+            {
+                  "name": "Shaul Garden",
+                  "text": "Ruhiger Stadtpark mit Spielplätzen und Erholungsflächen für Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        34.811388,
+                        32.082326
+                  ]
+            },
+            {
+                  "name": "Gan Avraham",
+                  "text": "Historischer Park auf einem Hügel mit einem Amphitheater und einem Denkmal.",
+                  "category": "park",
+                  "coords": [
+                        34.818689,
+                        32.087132
+                  ]
+            },
+            {
+                  "name": "Gan Hamelech David",
+                  "text": "Gepflegte Parkanlage in einem Wohnviertel mit Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        34.813633,
+                        32.086174
+                  ]
+            },
+            {
+                  "name": "Haruzim Park",
+                  "text": "Erholungsgebiet im Geschäftsviertel der Diamantenbörse.",
+                  "category": "landmark",
+                  "coords": [
+                        34.804012,
+                        32.091322
+                  ]
+            },
+            {
+                  "name": "Moda'i Bridge",
+                  "text": "Große Straßenbrücke, die das Stadtzentrum über den Ayalon-Fluss hinweg verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798712,
+                        32.085083
+                  ]
+            },
+            {
+                  "name": "Sarona Bridge",
+                  "text": "Fußgänger- und Fahrzeugbrücke, die das Diamantenviertel mit dem Sarona-Komplex verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799884,
+                        32.082355
+                  ]
+            },
+            {
+                  "name": "Teiman synagogue",
+                  "text": "Traditionelles jemenitisch-jüdisches Gotteshaus für die örtliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81987,
+                        32.069071
+                  ]
+            },
+            {
+                  "name": "Heichal Mordechai",
+                  "text": "Synagoge im Herzen von Ramat Gan, die als religiöser Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.823457,
+                        32.078593
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Örtliche Synagoge für Gebete und gemeinschaftliche jüdische Rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.805235,
+                        32.075077
+                  ]
+            },
+            {
+                  "name": "Ein Yaakov",
+                  "text": "Jüdisches Bethaus, benannt nach einer berühmten Sammlung talmudischer Erzählungen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.813324,
+                        32.075812
+                  ]
+            },
+            {
+                  "name": "Ohel Shem Synagogue",
+                  "text": "Eine der Hauptsynagogen von Ramat Gan mit einem geräumigen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81747,
+                        32.079037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "David Labkovsky Center for Jewish Art",
+                  "text": "Zsidó művészeti központ, amely David Labkovsky a zsidó életet és a holokausztot bemutató műveit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        34.821323,
+                        32.077207
+                  ]
+            },
+            {
+                  "name": "Kozlovsky Hill",
+                  "text": "Givatayim legmagasabb pontja, ahonnan panorámás kilátás nyílik Tel-Aviv felhőkarcolóira.",
+                  "category": "natural",
+                  "coords": [
+                        34.816058,
+                        32.072137
+                  ]
+            },
+            {
+                  "name": "Ramat Gan Municipality",
+                  "text": "Ramat Gan modern városházi épülete és önkormányzati központja.",
+                  "category": "historical",
+                  "coords": [
+                        34.814294,
+                        32.082575
+                  ]
+            },
+            {
+                  "name": "Great Synagogue",
+                  "text": "Központi zsidó imaház Ramat Gan negyedének szívében.",
+                  "category": "religious",
+                  "coords": [
+                        34.815307,
+                        32.083472
+                  ]
+            },
+            {
+                  "name": "Ramat Gan",
+                  "text": "Kulturális központ, amely héber nyelvű színházi előadások széles választékának ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        34.821776,
+                        32.079173
+                  ]
+            },
+            {
+                  "name": "Nili",
+                  "text": "Emlékmű az első világháborús Nili zsidó kémcsoport tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        34.808935,
+                        32.086239
+                  ]
+            },
+            {
+                  "name": "Tel Hashash",
+                  "text": "Régészeti lelőhely kalkolitikus és bronzkori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        34.796749,
+                        32.093676
+                  ]
+            },
+            {
+                  "name": "Yahalom Theatre",
+                  "text": "Színház a gyémánttőzsdénél, amely koncertekről és kulturális eseményekről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        34.802299,
+                        32.084417
+                  ]
+            },
+            {
+                  "name": "Volovelski Karni",
+                  "text": "Városi zöldterület az Ayalon autópálya peremén.",
+                  "category": "park",
+                  "coords": [
+                        34.794738,
+                        32.081577
+                  ]
+            },
+            {
+                  "name": "HaAliya HaShniya Garden",
+                  "text": "A második alijának emléket állító kert szobrokkal és árnyékos ösvényekkel.",
+                  "category": "park",
+                  "coords": [
+                        34.814924,
+                        32.069693
+                  ]
+            },
+            {
+                  "name": "Shaul Garden",
+                  "text": "Csendes városi park játszóterekkel és pihenőhelyekkel a helyiek számára.",
+                  "category": "park",
+                  "coords": [
+                        34.811388,
+                        32.082326
+                  ]
+            },
+            {
+                  "name": "Gan Avraham",
+                  "text": "Történelmi park egy dombtetőn, amfiteátrummal és emlékművel.",
+                  "category": "park",
+                  "coords": [
+                        34.818689,
+                        32.087132
+                  ]
+            },
+            {
+                  "name": "Gan Hamelech David",
+                  "text": "Gondozott park egy lakónegyedben, sétányokkal és pihenőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        34.813633,
+                        32.086174
+                  ]
+            },
+            {
+                  "name": "Haruzim Park",
+                  "text": "Pihenőövezet a gyémánttőzsde üzleti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.804012,
+                        32.091322
+                  ]
+            },
+            {
+                  "name": "Moda'i Bridge",
+                  "text": "Jelentős közúti híd, amely az Ayalon-folyó felett köti össze a belvárost.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798712,
+                        32.085083
+                  ]
+            },
+            {
+                  "name": "Sarona Bridge",
+                  "text": "Gyalogos és gépjármű híd, amely a gyémántnegyedet köti össze a Sarona komplexummal.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799884,
+                        32.082355
+                  ]
+            },
+            {
+                  "name": "Teiman synagogue",
+                  "text": "Hagyományos jemeni zsidó imaház a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81987,
+                        32.069071
+                  ]
+            },
+            {
+                  "name": "Heichal Mordechai",
+                  "text": "Ramat Gan szívében található zsinagóga, amely vallási gyülekezőhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.823457,
+                        32.078593
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Helyi zsinagóga imádkozásra és közösségi zsidó rituálékra.",
+                  "category": "landmark",
+                  "coords": [
+                        34.805235,
+                        32.075077
+                  ]
+            },
+            {
+                  "name": "Ein Yaakov",
+                  "text": "Zsidó imaház, amelyet a talmudi történetek híres gyűjteményéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        34.813324,
+                        32.075812
+                  ]
+            },
+            {
+                  "name": "Ohel Shem Synagogue",
+                  "text": "Ramat Gan egyik fő zsinagógája tágas imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81747,
+                        32.079037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "David Labkovsky Center for Jewish Art",
+                  "text": "Centru de artă evreiască ce expune lucrările lui David Labkovsky despre viața evreiască și Holocaust.",
+                  "category": "museum",
+                  "coords": [
+                        34.821323,
+                        32.077207
+                  ]
+            },
+            {
+                  "name": "Kozlovsky Hill",
+                  "text": "Cel mai înalt punct din Givatayim, oferind o vedere panoramică asupra orizontului din Tel Aviv.",
+                  "category": "natural",
+                  "coords": [
+                        34.816058,
+                        32.072137
+                  ]
+            },
+            {
+                  "name": "Ramat Gan Municipality",
+                  "text": "Clădirea administrativă modernă și sediul primăriei din Ramat Gan.",
+                  "category": "historical",
+                  "coords": [
+                        34.814294,
+                        32.082575
+                  ]
+            },
+            {
+                  "name": "Great Synagogue",
+                  "text": "Un lăcaș de cult evreiesc central situat în inima cartierului Ramat Gan.",
+                  "category": "religious",
+                  "coords": [
+                        34.815307,
+                        32.083472
+                  ]
+            },
+            {
+                  "name": "Ramat Gan",
+                  "text": "Centru cultural care găzduiește o gamă largă de spectacole de teatru în ebraică.",
+                  "category": "cultural",
+                  "coords": [
+                        34.821776,
+                        32.079173
+                  ]
+            },
+            {
+                  "name": "Nili",
+                  "text": "Monument dedicat rețelei de spionaj evreiești Nili din timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        34.808935,
+                        32.086239
+                  ]
+            },
+            {
+                  "name": "Tel Hashash",
+                  "text": "Sit arheologic cu vestigii din perioada calcolitică și epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        34.796749,
+                        32.093676
+                  ]
+            },
+            {
+                  "name": "Yahalom Theatre",
+                  "text": "Teatru situat în zona Bursei de Diamante, cunoscut pentru concerte și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        34.802299,
+                        32.084417
+                  ]
+            },
+            {
+                  "name": "Volovelski Karni",
+                  "text": "Zonă verde urbană situată la marginea autostrăzii Ayalon.",
+                  "category": "park",
+                  "coords": [
+                        34.794738,
+                        32.081577
+                  ]
+            },
+            {
+                  "name": "HaAliya HaShniya Garden",
+                  "text": "Grădină memorială dedicată celei de-a doua Aliyah, cu sculpturi și alei umbrite.",
+                  "category": "park",
+                  "coords": [
+                        34.814924,
+                        32.069693
+                  ]
+            },
+            {
+                  "name": "Shaul Garden",
+                  "text": "Parc urban liniștit cu locuri de joacă și spații de recreere pentru localnici.",
+                  "category": "park",
+                  "coords": [
+                        34.811388,
+                        32.082326
+                  ]
+            },
+            {
+                  "name": "Gan Avraham",
+                  "text": "Parc istoric pe un deal, dotat cu un amfiteatru și un monument.",
+                  "category": "park",
+                  "coords": [
+                        34.818689,
+                        32.087132
+                  ]
+            },
+            {
+                  "name": "Gan Hamelech David",
+                  "text": "Parc amenajat într-o zonă rezidențială, cu alei pentru plimbare.",
+                  "category": "park",
+                  "coords": [
+                        34.813633,
+                        32.086174
+                  ]
+            },
+            {
+                  "name": "Haruzim Park",
+                  "text": "Zonă de recreere situată în districtul de afaceri al Bursei de Diamante.",
+                  "category": "landmark",
+                  "coords": [
+                        34.804012,
+                        32.091322
+                  ]
+            },
+            {
+                  "name": "Moda'i Bridge",
+                  "text": "Pod rutier major care traversează râul Ayalon, conectând centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798712,
+                        32.085083
+                  ]
+            },
+            {
+                  "name": "Sarona Bridge",
+                  "text": "Pod pietonal și auto care leagă zona diamantelor de complexul Sarona.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799884,
+                        32.082355
+                  ]
+            },
+            {
+                  "name": "Teiman synagogue",
+                  "text": "Lăcaș de cult evreiesc tradițional yemenit pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81987,
+                        32.069071
+                  ]
+            },
+            {
+                  "name": "Heichal Mordechai",
+                  "text": "Sinagogă în inima orașului Ramat Gan, servind ca loc de adunare religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.823457,
+                        32.078593
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Sinagogă locală pentru rugăciune și ritualuri comunitare evreiești.",
+                  "category": "landmark",
+                  "coords": [
+                        34.805235,
+                        32.075077
+                  ]
+            },
+            {
+                  "name": "Ein Yaakov",
+                  "text": "Casă de rugăciune evreiască, numită după o celebră colecție de legende talmudice.",
+                  "category": "landmark",
+                  "coords": [
+                        34.813324,
+                        32.075812
+                  ]
+            },
+            {
+                  "name": "Ohel Shem Synagogue",
+                  "text": "Una dintre principalele sinagogi din Ramat Gan, cu o sală de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81747,
+                        32.079037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "David Labkovsky Center for Jewish Art",
+                  "text": "Museum of Jewish art featuring David Labkovsky’s works depicting Jewish life and the Holocaust.",
+                  "category": "museum",
+                  "coords": [
+                        34.821323,
+                        32.077207
+                  ]
+            },
+            {
+                  "name": "Kozlovsky Hill",
+                  "text": "The highest point in Givatayim, offering panoramic views over the Tel Aviv skyline.",
+                  "category": "natural",
+                  "coords": [
+                        34.816058,
+                        32.072137
+                  ]
+            },
+            {
+                  "name": "Ramat Gan Municipality",
+                  "text": "The modern administrative building and seat of the Ramat Gan municipality.",
+                  "category": "historical",
+                  "coords": [
+                        34.814294,
+                        32.082575
+                  ]
+            },
+            {
+                  "name": "Great Synagogue",
+                  "text": "A central Jewish place of worship located in the heart of the Ramat Gan district.",
+                  "category": "religious",
+                  "coords": [
+                        34.815307,
+                        32.083472
+                  ]
+            },
+            {
+                  "name": "Ramat Gan",
+                  "text": "Cultural hub hosting a wide range of Hebrew theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.821776,
+                        32.079173
+                  ]
+            },
+            {
+                  "name": "Nili",
+                  "text": "Monument commemorating the Nili Jewish underground spy ring during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        34.808935,
+                        32.086239
+                  ]
+            },
+            {
+                  "name": "Tel Hashash",
+                  "text": "Archaeological site featuring remains from the Chalcolithic and Bronze Ages.",
+                  "category": "historical",
+                  "coords": [
+                        34.796749,
+                        32.093676
+                  ]
+            },
+            {
+                  "name": "Yahalom Theatre",
+                  "text": "Theatre located in the Diamond Exchange district, known for concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        34.802299,
+                        32.084417
+                  ]
+            },
+            {
+                  "name": "Volovelski Karni",
+                  "text": "Urban green space located on the edge of the Ayalon Highway.",
+                  "category": "park",
+                  "coords": [
+                        34.794738,
+                        32.081577
+                  ]
+            },
+            {
+                  "name": "HaAliya HaShniya Garden",
+                  "text": "Memorial garden honoring the Second Aliyah, featuring sculptures and shaded paths.",
+                  "category": "park",
+                  "coords": [
+                        34.814924,
+                        32.069693
+                  ]
+            },
+            {
+                  "name": "Shaul Garden",
+                  "text": "Quiet urban park with playgrounds and recreation areas for residents.",
+                  "category": "park",
+                  "coords": [
+                        34.811388,
+                        32.082326
+                  ]
+            },
+            {
+                  "name": "Gan Avraham",
+                  "text": "Historical hilltop park featuring an amphitheater and a memorial monument.",
+                  "category": "park",
+                  "coords": [
+                        34.818689,
+                        32.087132
+                  ]
+            },
+            {
+                  "name": "Gan Hamelech David",
+                  "text": "Landscaped park in a residential area with walking paths and seating.",
+                  "category": "park",
+                  "coords": [
+                        34.813633,
+                        32.086174
+                  ]
+            },
+            {
+                  "name": "Haruzim Park",
+                  "text": "Recreational area located in the Diamond Exchange business district.",
+                  "category": "landmark",
+                  "coords": [
+                        34.804012,
+                        32.091322
+                  ]
+            },
+            {
+                  "name": "Moda'i Bridge",
+                  "text": "Major road bridge crossing the Ayalon River, connecting the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        34.798712,
+                        32.085083
+                  ]
+            },
+            {
+                  "name": "Sarona Bridge",
+                  "text": "Pedestrian and vehicle bridge connecting the Diamond Exchange to the Sarona complex.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799884,
+                        32.082355
+                  ]
+            },
+            {
+                  "name": "Teiman synagogue",
+                  "text": "Traditional Yemenite Jewish place of worship for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81987,
+                        32.069071
+                  ]
+            },
+            {
+                  "name": "Heichal Mordechai",
+                  "text": "Synagogue in the heart of Ramat Gan serving as a religious gathering place.",
+                  "category": "landmark",
+                  "coords": [
+                        34.823457,
+                        32.078593
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Local synagogue for prayer and communal Jewish rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        34.805235,
+                        32.075077
+                  ]
+            },
+            {
+                  "name": "Ein Yaakov",
+                  "text": "Jewish prayer house named after a famous collection of Talmudic aggadah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.813324,
+                        32.075812
+                  ]
+            },
+            {
+                  "name": "Ohel Shem Synagogue",
+                  "text": "One of the main synagogues of Ramat Gan, featuring a spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        34.81747,
+                        32.079037
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "IL-TA",
     coords: [34.8025, 32.0839],
@@ -417,7 +4989,484 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-matam-park-economic-v2",
+    id: "il-matam-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Swing",
+                  "text": "Ein beliebter Freizeitort mit einer großen Schaukel im Matam-Gewerbepark.",
+                  "category": "landmark",
+                  "coords": [
+                        34.983062,
+                        32.772995
+                  ]
+            },
+            {
+                  "name": "Freud Treehouse",
+                  "text": "Ein hölzerner Aussichtspunkt am Hang, der über die Küstenlinie von Haifa blickt.",
+                  "category": "natural",
+                  "coords": [
+                        34.979158,
+                        32.778624
+                  ]
+            },
+            {
+                  "name": "Zeevik Eilon",
+                  "text": "Ein Denkmal in den Hügeln von Haifa, das einem gefallenen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        34.951397,
+                        32.750895
+                  ]
+            },
+            {
+                  "name": "Chiat Orchard",
+                  "text": "Ein historischer Obstgarten aus den 1930er Jahren im Siah-Tal mit steinernen Wasserkanälen.",
+                  "category": "park",
+                  "coords": [
+                        34.969974,
+                        32.80262
+                  ]
+            },
+            {
+                  "name": "Carmel Beach",
+                  "text": "Ein beliebter Sandstrand am Fuße des Berges, bekannt für seine lange Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955377,
+                        32.805799
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Der südlichste Abschnitt der Sandküste von Haifa, ein beliebter Ort für Kitesurfer.",
+                  "category": "recreational",
+                  "coords": [
+                        34.95506,
+                        32.78755
+                  ]
+            },
+            {
+                  "name": "Zappa Haifa",
+                  "text": "Ein bekannter Veranstaltungsort für Live-Musik im Matam-Viertel von Haifa.",
+                  "category": "cultural",
+                  "coords": [
+                        34.963093,
+                        32.789631
+                  ]
+            },
+            {
+                  "name": "Dado Beach",
+                  "text": "Haifas zentrale Strandpromenade mit zahlreichen Restaurants und schattigen Sitzbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955833,
+                        32.796929
+                  ]
+            },
+            {
+                  "name": "Zamir Beach",
+                  "text": "Ein breiter Sandstrand, der mit Sportanlagen im Freien und Beachvolleyballfeldern ausgestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956114,
+                        32.798935
+                  ]
+            },
+            {
+                  "name": "Beit Israel Synagogue",
+                  "text": "Ein traditionelles jüdisches Gotteshaus im südlichen Teil von Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967783,
+                        32.767191
+                  ]
+            },
+            {
+                  "name": "Siah Musalla",
+                  "text": "Ein muslimischer Gebetsplatz unter freiem Himmel im malerischen Wadi Siah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968313,
+                        32.802571
+                  ]
+            },
+            {
+                  "name": "Eliezer Hall",
+                  "text": "Ein Gemeindezentrum und religiöser Ort für jüdische Zeremonien in Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.994121,
+                        32.782123
+                  ]
+            },
+            {
+                  "name": "Carmelia",
+                  "text": "Eine lokale Synagoge, die den Bewohnern des Hangviertels Carmelia dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.976884,
+                        32.7959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Swing",
+                  "text": "Népszerű pihenőhely egy nagy hintával a Matam üzleti park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.983062,
+                        32.772995
+                  ]
+            },
+            {
+                  "name": "Freud Treehouse",
+                  "text": "Egy különleges fa kilátó a domboldalon, ahonnan Haifa partvidékére látni.",
+                  "category": "natural",
+                  "coords": [
+                        34.979158,
+                        32.778624
+                  ]
+            },
+            {
+                  "name": "Zeevik Eilon",
+                  "text": "Egy elesett katonának szentelt emlékoszlop Haifa dombjai között.",
+                  "category": "historical",
+                  "coords": [
+                        34.951397,
+                        32.750895
+                  ]
+            },
+            {
+                  "name": "Chiat Orchard",
+                  "text": "Történelmi, 1930-as évekbeli gyümölcsöskert a Siah-völgyben, kővel kirakott vízcsatornákkal.",
+                  "category": "park",
+                  "coords": [
+                        34.969974,
+                        32.80262
+                  ]
+            },
+            {
+                  "name": "Carmel Beach",
+                  "text": "Népszerű homokos tengerpart a hegy lábánál, amely hosszú sétányáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955377,
+                        32.805799
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Haifa homokos partjának legdélibb szakasza, a kiteszörfösök kedvelt helye.",
+                  "category": "recreational",
+                  "coords": [
+                        34.95506,
+                        32.78755
+                  ]
+            },
+            {
+                  "name": "Zappa Haifa",
+                  "text": "Jól ismert élőzenei helyszín, amely koncerteknek ad otthont a Matam negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        34.963093,
+                        32.789631
+                  ]
+            },
+            {
+                  "name": "Dado Beach",
+                  "text": "Haifa központi tengerparti sétánya éttermekkel és árnyékos pihenőhelyekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955833,
+                        32.796929
+                  ]
+            },
+            {
+                  "name": "Zamir Beach",
+                  "text": "Széles homokos strand szabadtéri sporteszközökkel és strandröplabdapályákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956114,
+                        32.798935
+                  ]
+            },
+            {
+                  "name": "Beit Israel Synagogue",
+                  "text": "Hagyományos zsidó imaház Haifa déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967783,
+                        32.767191
+                  ]
+            },
+            {
+                  "name": "Siah Musalla",
+                  "text": "Szabadtéri muszlim imádkozóhely a festői Wadi Siah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968313,
+                        32.802571
+                  ]
+            },
+            {
+                  "name": "Eliezer Hall",
+                  "text": "Közösségi terem és vallási központ zsidó szertartásokhoz Haifában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.994121,
+                        32.782123
+                  ]
+            },
+            {
+                  "name": "Carmelia",
+                  "text": "Helyi zsinagóga, amely a Carmelia negyed lakóit szolgálja Haifa domboldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        34.976884,
+                        32.7959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Swing",
+                  "text": "Un loc de recreere popular, dotat cu un leagăn mare, situat în parcul de afaceri Matam.",
+                  "category": "landmark",
+                  "coords": [
+                        34.983062,
+                        32.772995
+                  ]
+            },
+            {
+                  "name": "Freud Treehouse",
+                  "text": "Un punct de observare din lemn situat pe deal, cu vedere spre linia de coastă a Haifei.",
+                  "category": "natural",
+                  "coords": [
+                        34.979158,
+                        32.778624
+                  ]
+            },
+            {
+                  "name": "Zeevik Eilon",
+                  "text": "Un monument comemorativ dedicat unui soldat căzut, situat în dealurile Haifei.",
+                  "category": "historical",
+                  "coords": [
+                        34.951397,
+                        32.750895
+                  ]
+            },
+            {
+                  "name": "Chiat Orchard",
+                  "text": "O livadă istorică din anii 1930 în valea Siah, cu canale de apă căptușite cu piatră.",
+                  "category": "park",
+                  "coords": [
+                        34.969974,
+                        32.80262
+                  ]
+            },
+            {
+                  "name": "Carmel Beach",
+                  "text": "O plajă de nisip populară la poalele muntelui, cunoscută pentru faleza sa lungă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955377,
+                        32.805799
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Cea mai sudică porțiune a coastei de nisip din Haifa, preferată de practicanții de kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        34.95506,
+                        32.78755
+                  ]
+            },
+            {
+                  "name": "Zappa Haifa",
+                  "text": "O locație binecunoscută pentru muzică live, care găzduiește spectacole în districtul Matam.",
+                  "category": "cultural",
+                  "coords": [
+                        34.963093,
+                        32.789631
+                  ]
+            },
+            {
+                  "name": "Dado Beach",
+                  "text": "Principala faleză a Haifei, mărginită de restaurante și zone de relaxare umbrite.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955833,
+                        32.796929
+                  ]
+            },
+            {
+                  "name": "Zamir Beach",
+                  "text": "O plajă de nisip lată, dotată cu facilități sportive în aer liber și terenuri de volei pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956114,
+                        32.798935
+                  ]
+            },
+            {
+                  "name": "Beit Israel Synagogue",
+                  "text": "Un lăcaș de cult evreiesc tradițional situat în partea de sud a orașului Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967783,
+                        32.767191
+                  ]
+            },
+            {
+                  "name": "Siah Musalla",
+                  "text": "Un loc de rugăciune musulman în aer liber, situat în pitorescul Wadi Siah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968313,
+                        32.802571
+                  ]
+            },
+            {
+                  "name": "Eliezer Hall",
+                  "text": "O sală comunitară și centru religios folosit pentru ceremonii evreiești în Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.994121,
+                        32.782123
+                  ]
+            },
+            {
+                  "name": "Carmelia",
+                  "text": "O sinagogă locală care deservește locuitorii din cartierul Carmelia de pe dealurile Haifei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.976884,
+                        32.7959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Swing",
+                  "text": "A popular recreational spot featuring a large swing set within the Matam business park.",
+                  "category": "landmark",
+                  "coords": [
+                        34.983062,
+                        32.772995
+                  ]
+            },
+            {
+                  "name": "Freud Treehouse",
+                  "text": "A unique wooden lookout structure perched on the hillside above the Haifa coast.",
+                  "category": "natural",
+                  "coords": [
+                        34.979158,
+                        32.778624
+                  ]
+            },
+            {
+                  "name": "Zeevik Eilon",
+                  "text": "A memorial monument dedicated to a fallen soldier, located near the Haifa hills.",
+                  "category": "historical",
+                  "coords": [
+                        34.951397,
+                        32.750895
+                  ]
+            },
+            {
+                  "name": "Chiat Orchard",
+                  "text": "A historic 1930s orchard in the Siah valley, featuring stone-lined water channels and fruit trees.",
+                  "category": "park",
+                  "coords": [
+                        34.969974,
+                        32.80262
+                  ]
+            },
+            {
+                  "name": "Carmel Beach",
+                  "text": "A popular sandy beach at the base of the mountain, known for its long promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955377,
+                        32.805799
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "The southernmost stretch of Haifa's sandy coastline, favored by kite surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        34.95506,
+                        32.78755
+                  ]
+            },
+            {
+                  "name": "Zappa Haifa",
+                  "text": "A well-known live music venue hosting performances in the Matam district.",
+                  "category": "cultural",
+                  "coords": [
+                        34.963093,
+                        32.789631
+                  ]
+            },
+            {
+                  "name": "Dado Beach",
+                  "text": "Haifa's central beach promenade, lined with restaurants and shaded seating areas.",
+                  "category": "recreational",
+                  "coords": [
+                        34.955833,
+                        32.796929
+                  ]
+            },
+            {
+                  "name": "Zamir Beach",
+                  "text": "A wide sandy beach equipped with outdoor sports facilities and beach volleyball courts.",
+                  "category": "recreational",
+                  "coords": [
+                        34.956114,
+                        32.798935
+                  ]
+            },
+            {
+                  "name": "Beit Israel Synagogue",
+                  "text": "A traditional Jewish house of worship located in the southern part of Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967783,
+                        32.767191
+                  ]
+            },
+            {
+                  "name": "Siah Musalla",
+                  "text": "An open-air Muslim prayer site situated in the scenic Wadi Siah valley.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968313,
+                        32.802571
+                  ]
+            },
+            {
+                  "name": "Eliezer Hall",
+                  "text": "A community hall and religious center used for Jewish ceremonies in Haifa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.994121,
+                        32.782123
+                  ]
+            },
+            {
+                  "name": "Carmelia",
+                  "text": "A local synagogue serving the residents of the Haifa hillside neighborhood of Carmelia.",
+                  "category": "landmark",
+                  "coords": [
+                        34.976884,
+                        32.7959
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-HA",
     coords: [34.9578, 32.7892],
@@ -453,7 +5502,1348 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-airport-city-economic-v2",
+    id: "il-airport-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memorial of the 8th Brigade",
+                  "text": "Ein Denkmal für die 8. Brigade, die während des Krieges von 1948 den Flughafen eroberte.",
+                  "category": "historical",
+                  "coords": [
+                        34.902709,
+                        31.990713
+                  ]
+            },
+            {
+                  "name": "An old ruined pillbox",
+                  "text": "Ein kreisförmiger Wachposten aus Beton, der aus der Zeit des britischen Mandats stammt.",
+                  "category": "historical",
+                  "coords": [
+                        34.915501,
+                        32.010373
+                  ]
+            },
+            {
+                  "name": "Tomb of nabi Kifl",
+                  "text": "Steinruinen eines alten Schreins, der traditionell mit dem Propheten Hesekiel in Verbindung gebracht wird.",
+                  "category": "historical",
+                  "coords": [
+                        34.926669,
+                        32.007138
+                  ]
+            },
+            {
+                  "name": "Quleh",
+                  "text": "Eine archäologische Stätte mit Überresten antiker Behausungen und landwirtschaftlicher Anlagen.",
+                  "category": "historical",
+                  "coords": [
+                        34.952658,
+                        32.037036
+                  ]
+            },
+            {
+                  "name": "Qula",
+                  "text": "Die Überreste eines verlassenen Dorfes mit einem markanten Turm aus der Kreuzritterzeit.",
+                  "category": "historical",
+                  "coords": [
+                        34.954859,
+                        32.037776
+                  ]
+            },
+            {
+                  "name": "Culture center",
+                  "text": "Ein modernes Zentrum, in dem Theateraufführungen und Kunstworkshops für die Gemeinde stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        34.946279,
+                        32.000105
+                  ]
+            },
+            {
+                  "name": "Giv'at HaSaflulim;Saflulim Viewpoint",
+                  "text": "Ein Aussichtspunkt auf einem Hügel, der ein weites Panorama über die Küstenebene bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.955327,
+                        31.99319
+                  ]
+            },
+            {
+                  "name": "Shoham Forest Park",
+                  "text": "Ein bewaldetes Erholungsgebiet mit byzantinischen Ruinen und saisonaler Wildblumenblüte.",
+                  "category": "park",
+                  "coords": [
+                        34.958478,
+                        31.996771
+                  ]
+            },
+            {
+                  "name": "Khirbat el-Bira",
+                  "text": "Ruinen einer antiken Siedlung mit Überresten einer byzantinischen Kirche und Mosaiken.",
+                  "category": "historical",
+                  "coords": [
+                        34.965463,
+                        32.017007
+                  ]
+            },
+            {
+                  "name": "Horbat Amar",
+                  "text": "Die Steinüberreste einer ländlichen Siedlung aus antiker Zeit in der Nähe von Shoham.",
+                  "category": "historical",
+                  "coords": [
+                        34.96407,
+                        32.031665
+                  ]
+            },
+            {
+                  "name": "Horbat Pundaq",
+                  "text": "Überreste einer antiken Struktur, die vermutlich als Raststation an einer alten Straße diente.",
+                  "category": "historical",
+                  "coords": [
+                        34.967524,
+                        32.034412
+                  ]
+            },
+            {
+                  "name": "Horbat Hanya",
+                  "text": "Eine archäologische Stätte mit antiken Zisternen und in Stein gehauenen Fundamenten.",
+                  "category": "historical",
+                  "coords": [
+                        34.96718,
+                        32.027366
+                  ]
+            },
+            {
+                  "name": "Horbat Al",
+                  "text": "Kleine Überreste antiker Steinbauten, die über den Hügel verstreut liegen.",
+                  "category": "historical",
+                  "coords": [
+                        34.993146,
+                        32.028561
+                  ]
+            },
+            {
+                  "name": "Mazor (West)",
+                  "text": "Ein Ausgrabungsgelände, das Spuren antiker landwirtschaftlicher Tätigkeiten im Distrikt offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        34.944672,
+                        32.046519
+                  ]
+            },
+            {
+                  "name": "Horbat Tukkim",
+                  "text": "Ruinen einer ehemaligen Siedlung an den Hängen, die auf die umliegende Ebene blicken.",
+                  "category": "historical",
+                  "coords": [
+                        34.986776,
+                        32.060796
+                  ]
+            },
+            {
+                  "name": "Migdal Afeq (Mirabel Fortress) Ruins",
+                  "text": "Eine massive Kreuzritterfestung, auch Mirabel genannt, die auf einem strategischen Hügel thront.",
+                  "category": "historical",
+                  "coords": [
+                        34.957102,
+                        32.080806
+                  ]
+            },
+            {
+                  "name": "Turkish Jewish Heritage Center",
+                  "text": "Ein Museum in Jehud, das die Kulturgeschichte der jüdischen Gemeinde aus der Türkei dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        34.895344,
+                        32.035338
+                  ]
+            },
+            {
+                  "name": "Horvat Tinshemet",
+                  "text": "Eine Ausgrabungsstätte mit den Überresten einer byzantinischen Kirche aus dem 4. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        34.958114,
+                        31.997842
+                  ]
+            },
+            {
+                  "name": "Byzantine Water Pool",
+                  "text": "Ein großes, mit Steinen ausgekleidetes antikes Reservoir, das einst zur Wasserspeicherung genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        34.955591,
+                        32.038696
+                  ]
+            },
+            {
+                  "name": "Migdal Tzedek National Park",
+                  "text": "Ein Naturschutzgebiet, das historische Ruinen umgibt und malerische Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.959591,
+                        32.077272
+                  ]
+            },
+            {
+                  "name": "Nachshonit water park",
+                  "text": "Ein beliebter Freizeitkomplex mit verschiedenen Pools und Wasserrutschen nahe Kibbuz Nachshonim.",
+                  "category": "recreational",
+                  "coords": [
+                        34.94762,
+                        32.06354
+                  ]
+            },
+            {
+                  "name": "Mazor",
+                  "text": "Ein außergewöhnlich gut erhaltenes römisches Mausoleum aus dem 3. Jahrhundert, das in voller Höhe steht.",
+                  "category": "historical",
+                  "coords": [
+                        34.946152,
+                        32.046618
+                  ]
+            },
+            {
+                  "name": "Tomb of Judah",
+                  "text": "Eine heilige Stätte, die traditionell als Grabstätte des biblischen Juda gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.887528,
+                        32.030874
+                  ]
+            },
+            {
+                  "name": "Al-'Abbasiyya Mosque",
+                  "text": "Eine historische Moschee, die sich im Zentrum des heutigen Jehud befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888784,
+                        32.030789
+                  ]
+            },
+            {
+                  "name": "Dorot Avraham",
+                  "text": "Eine örtliche Synagoge, die ein Zentrum für das religiöse Leben in der Nachbarschaft bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.94822,
+                        31.996778
+                  ]
+            },
+            {
+                  "name": "Kiryat Edmond Safra",
+                  "text": "Ein jüdisches Gemeinde- und Gebetszentrum, benannt nach dem bekannten Philanthropen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.946832,
+                        31.997192
+                  ]
+            },
+            {
+                  "name": "Zechor Avraham",
+                  "text": "Eine Nachbarschaftssynagoge, die der örtlichen jüdischen Gemeinde für Gottesdienste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.944732,
+                        32.003821
+                  ]
+            },
+            {
+                  "name": "spain synagogue",
+                  "text": "Eine Synagoge, die dem sephardischen Ritus und den spanisch-jüdischen Traditionen folgt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.918817,
+                        32.07923
+                  ]
+            },
+            {
+                  "name": "neve reim synagogue",
+                  "text": "Ein moderner Andachtsort für die religiösen Bedürfnisse der örtlichen jüdischen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        34.915242,
+                        32.080633
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "Ein religiöses Zentrum für Gebete und kulturelle Veranstaltungen der jüdischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888345,
+                        32.033592
+                  ]
+            },
+            {
+                  "name": "Zichron Daliya sunagogue",
+                  "text": "Eine örtliche Synagoge, die als Mittelpunkt für religiöse Aktivitäten im Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.95466,
+                        32.046985
+                  ]
+            },
+            {
+                  "name": "Haichal Haim synagogue",
+                  "text": "Eine Nachbarschaftssynagoge, die den täglichen Gebeten und dem Tora-Studium gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.874833,
+                        32.028854
+                  ]
+            },
+            {
+                  "name": "Gorodna Yeshiva",
+                  "text": "Ein Zentrum für Thora-Studien in Airport City, das sich der jüdischen Bildung widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.839396,
+                        31.935135
+                  ]
+            },
+            {
+                  "name": "Haychal Moshe",
+                  "text": "Eine moderne Synagoge, die als lokales Zentrum für Gebet und Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913952,
+                        32.068129
+                  ]
+            },
+            {
+                  "name": "Nehalim Synagogue",
+                  "text": "Eine Synagoge der religiös-zionistischen Gemeinschaft im Wirtschaftsgebiet von Airport City.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913502,
+                        32.058446
+                  ]
+            },
+            {
+                  "name": "Kolel Retzon Yehuda",
+                  "text": "Ein religiöses Institut für fortgeschrittene Thora-Studien verheirateter Männer.",
+                  "category": "landmark",
+                  "coords": [
+                        34.908229,
+                        32.069696
+                  ]
+            },
+            {
+                  "name": "Wholesale market",
+                  "text": "Ein großer Umschlagplatz für frische landwirtschaftliche Erzeugnisse in Flughafennähe.",
+                  "category": "cultural",
+                  "coords": [
+                        34.8501,
+                        31.958088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memorial of the 8th Brigade",
+                  "text": "A 8. dandár emlékműve, amely az 1948-as háborúban a repülőteret elfoglaló egységnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        34.902709,
+                        31.990713
+                  ]
+            },
+            {
+                  "name": "An old ruined pillbox",
+                  "text": "Kör alakú beton őrhely, amely a brit mandátum idejéből származik.",
+                  "category": "historical",
+                  "coords": [
+                        34.915501,
+                        32.010373
+                  ]
+            },
+            {
+                  "name": "Tomb of nabi Kifl",
+                  "text": "Egy ősi szentély kőromjai, amelyet a hagyomány Ezékiel prófétával hoz összefüggésbe.",
+                  "category": "historical",
+                  "coords": [
+                        34.926669,
+                        32.007138
+                  ]
+            },
+            {
+                  "name": "Quleh",
+                  "text": "Régészeti lelőhely ősi lakóhelyek és mezőgazdasági létesítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        34.952658,
+                        32.037036
+                  ]
+            },
+            {
+                  "name": "Qula",
+                  "text": "Egy elhagyatott falu maradványai egy jellegzetes keresztes kori toronnyal.",
+                  "category": "historical",
+                  "coords": [
+                        34.954859,
+                        32.037776
+                  ]
+            },
+            {
+                  "name": "Culture center",
+                  "text": "Modern központ, amely színházi előadásoknak és művészeti műhelyeknek ad otthont a közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        34.946279,
+                        32.000105
+                  ]
+            },
+            {
+                  "name": "Giv'at HaSaflulim;Saflulim Viewpoint",
+                  "text": "Domboldali kilátópont, amely széles panorámát nyújt a tengerparti síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        34.955327,
+                        31.99319
+                  ]
+            },
+            {
+                  "name": "Shoham Forest Park",
+                  "text": "Erdős pihenőhely bizánci romokkal és szezonális vadvirágos rétekkel.",
+                  "category": "park",
+                  "coords": [
+                        34.958478,
+                        31.996771
+                  ]
+            },
+            {
+                  "name": "Khirbat el-Bira",
+                  "text": "Egy ősi település romjai egy bizánci templom és mozaikok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        34.965463,
+                        32.017007
+                  ]
+            },
+            {
+                  "name": "Horbat Amar",
+                  "text": "Egy ókori vidéki település kőmaradványai Shoham közelében.",
+                  "category": "historical",
+                  "coords": [
+                        34.96407,
+                        32.031665
+                  ]
+            },
+            {
+                  "name": "Horbat Pundaq",
+                  "text": "Egy ősi építmény maradványai, amely valószínűleg útmenti pihenőhelyként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        34.967524,
+                        32.034412
+                  ]
+            },
+            {
+                  "name": "Horbat Hanya",
+                  "text": "Régészeti lelőhely ősi ciszternákkal és kőbe vájt alapfalakkal.",
+                  "category": "historical",
+                  "coords": [
+                        34.96718,
+                        32.027366
+                  ]
+            },
+            {
+                  "name": "Horbat Al",
+                  "text": "Ősi kőépítmények kisebb maradványai a domboldalon szétszórva.",
+                  "category": "historical",
+                  "coords": [
+                        34.993146,
+                        32.028561
+                  ]
+            },
+            {
+                  "name": "Mazor (West)",
+                  "text": "Feltárási terület, amely ősi mezőgazdasági tevékenységek nyomait tárja fel a körzetben.",
+                  "category": "historical",
+                  "coords": [
+                        34.944672,
+                        32.046519
+                  ]
+            },
+            {
+                  "name": "Horbat Tukkim",
+                  "text": "Egy egykori település romjai a síkságra néző lankákon.",
+                  "category": "historical",
+                  "coords": [
+                        34.986776,
+                        32.060796
+                  ]
+            },
+            {
+                  "name": "Migdal Afeq (Mirabel Fortress) Ruins",
+                  "text": "Hatalmas keresztes lovagvár, más néven Mirabel, amely egy stratégiai dombon áll.",
+                  "category": "historical",
+                  "coords": [
+                        34.957102,
+                        32.080806
+                  ]
+            },
+            {
+                  "name": "Turkish Jewish Heritage Center",
+                  "text": "Múzeum Yehudban, amely a Törökországból származó zsidó közösség kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        34.895344,
+                        32.035338
+                  ]
+            },
+            {
+                  "name": "Horvat Tinshemet",
+                  "text": "Feltárási helyszín egy 4. századi bizánci templom maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        34.958114,
+                        31.997842
+                  ]
+            },
+            {
+                  "name": "Byzantine Water Pool",
+                  "text": "Nagy, kővel bélelt ősi víztározó, amelyet egykor víz tárolására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        34.955591,
+                        32.038696
+                  ]
+            },
+            {
+                  "name": "Migdal Tzedek National Park",
+                  "text": "Történelmi romokat körülölelő természetvédelmi terület festői túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        34.959591,
+                        32.077272
+                  ]
+            },
+            {
+                  "name": "Nachshonit water park",
+                  "text": "Népszerű szabadidős központ különféle medencékkel és csúszdákkal a Nachshonim kibuc közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.94762,
+                        32.06354
+                  ]
+            },
+            {
+                  "name": "Mazor",
+                  "text": "Kivételesen jó állapotú, 3. századi római mauzóleum, amely teljes magasságában áll.",
+                  "category": "historical",
+                  "coords": [
+                        34.946152,
+                        32.046618
+                  ]
+            },
+            {
+                  "name": "Tomb of Judah",
+                  "text": "Szent hely, amelyet a hagyomány a bibliai Júda sírhelyének tart.",
+                  "category": "landmark",
+                  "coords": [
+                        34.887528,
+                        32.030874
+                  ]
+            },
+            {
+                  "name": "Al-'Abbasiyya Mosque",
+                  "text": "Történelmi mecset, amely a mai Yehud központjában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888784,
+                        32.030789
+                  ]
+            },
+            {
+                  "name": "Dorot Avraham",
+                  "text": "Helyi zsinagóga, amely a környék hitéletének központját alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.94822,
+                        31.996778
+                  ]
+            },
+            {
+                  "name": "Kiryat Edmond Safra",
+                  "text": "Zsidó közösségi és imaközpont, amelyet a jól ismert filantrópról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        34.946832,
+                        31.997192
+                  ]
+            },
+            {
+                  "name": "Zechor Avraham",
+                  "text": "Környékbeli zsinagóga, amely a helyi zsidó közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.944732,
+                        32.003821
+                  ]
+            },
+            {
+                  "name": "spain synagogue",
+                  "text": "Szefárd rítust és spanyol zsidó hagyományokat követő zsinagóga.",
+                  "category": "landmark",
+                  "coords": [
+                        34.918817,
+                        32.07923
+                  ]
+            },
+            {
+                  "name": "neve reim synagogue",
+                  "text": "Modern istentiszteleti hely a helyi zsidó közösség hitéletéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        34.915242,
+                        32.080633
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "A zsidó közösség imádságainak és kulturális eseményeinek vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888345,
+                        32.033592
+                  ]
+            },
+            {
+                  "name": "Zichron Daliya sunagogue",
+                  "text": "Helyi zsinagóga, amely a negyed vallási tevékenységeinek központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.95466,
+                        32.046985
+                  ]
+            },
+            {
+                  "name": "Haichal Haim synagogue",
+                  "text": "Napi imádságoknak és Tóra-tanulásnak szentelt környékbeli zsinagóga.",
+                  "category": "landmark",
+                  "coords": [
+                        34.874833,
+                        32.028854
+                  ]
+            },
+            {
+                  "name": "Gorodna Yeshiva",
+                  "text": "Tóra-tanulmányi központ az Airport City területén, amely a zsidó oktatásnak szentelt hely.",
+                  "category": "landmark",
+                  "coords": [
+                        34.839396,
+                        31.935135
+                  ]
+            },
+            {
+                  "name": "Haychal Moshe",
+                  "text": "Modern zsinagóga, amely a helyi imádság és közösségi élet központja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913952,
+                        32.068129
+                  ]
+            },
+            {
+                  "name": "Nehalim Synagogue",
+                  "text": "A vallásos cionista közösség zsinagógája az Airport City gazdasági negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913502,
+                        32.058446
+                  ]
+            },
+            {
+                  "name": "Kolel Retzon Yehuda",
+                  "text": "Vallási intézet házas férfiak emelt szintű Tóra-tanulmányaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.908229,
+                        32.069696
+                  ]
+            },
+            {
+                  "name": "Wholesale market",
+                  "text": "Friss mezőgazdasági termékek nagykereskedelmi központja a repülőtér közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        34.8501,
+                        31.958088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorial of the 8th Brigade",
+                  "text": "Un monument dedicat Brigăzii a 8-a, care a cucerit aeroportul în timpul războiului din 1948.",
+                  "category": "historical",
+                  "coords": [
+                        34.902709,
+                        31.990713
+                  ]
+            },
+            {
+                  "name": "An old ruined pillbox",
+                  "text": "Un post de pază circular din beton, datând din perioada mandatului britanic.",
+                  "category": "historical",
+                  "coords": [
+                        34.915501,
+                        32.010373
+                  ]
+            },
+            {
+                  "name": "Tomb of nabi Kifl",
+                  "text": "Ruinele din piatră ale unui sanctuar antic, asociat tradițional cu profetul Ezechiel.",
+                  "category": "historical",
+                  "coords": [
+                        34.926669,
+                        32.007138
+                  ]
+            },
+            {
+                  "name": "Quleh",
+                  "text": "Un sit arheologic care prezintă rămășițe ale locuințelor antice și instalațiilor agricole.",
+                  "category": "historical",
+                  "coords": [
+                        34.952658,
+                        32.037036
+                  ]
+            },
+            {
+                  "name": "Qula",
+                  "text": "Rămășițele unui sat părăsit, cu un turn proeminent din epoca cruciaților.",
+                  "category": "historical",
+                  "coords": [
+                        34.954859,
+                        32.037776
+                  ]
+            },
+            {
+                  "name": "Culture center",
+                  "text": "Un centru modern care găzduiește spectacole de teatru și ateliere de artă pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        34.946279,
+                        32.000105
+                  ]
+            },
+            {
+                  "name": "Giv'at HaSaflulim;Saflulim Viewpoint",
+                  "text": "Un punct de belvedere pe un deal, care oferă o panoramă largă asupra câmpiei de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        34.955327,
+                        31.99319
+                  ]
+            },
+            {
+                  "name": "Shoham Forest Park",
+                  "text": "O zonă recreativă împădurită cu ruine bizantine și flori de câmp sezoniere.",
+                  "category": "park",
+                  "coords": [
+                        34.958478,
+                        31.996771
+                  ]
+            },
+            {
+                  "name": "Khirbat el-Bira",
+                  "text": "Ruinele unei așezări antice cu rămășițele unei biserici bizantine și mozaicuri.",
+                  "category": "historical",
+                  "coords": [
+                        34.965463,
+                        32.017007
+                  ]
+            },
+            {
+                  "name": "Horbat Amar",
+                  "text": "Rămășițele de piatră ale unei așezări rurale antice din apropiere de Shoham.",
+                  "category": "historical",
+                  "coords": [
+                        34.96407,
+                        32.031665
+                  ]
+            },
+            {
+                  "name": "Horbat Pundaq",
+                  "text": "Rămășițele unei structuri antice care probabil a servit ca stație de popas la marginea drumului.",
+                  "category": "historical",
+                  "coords": [
+                        34.967524,
+                        32.034412
+                  ]
+            },
+            {
+                  "name": "Horbat Hanya",
+                  "text": "Un sit arheologic care conține cisterne antice și fundații sculptate în piatră.",
+                  "category": "historical",
+                  "coords": [
+                        34.96718,
+                        32.027366
+                  ]
+            },
+            {
+                  "name": "Horbat Al",
+                  "text": "Rămășițe de mici dimensiuni ale unor structuri antice din piatră, împrăștiate pe deal.",
+                  "category": "historical",
+                  "coords": [
+                        34.993146,
+                        32.028561
+                  ]
+            },
+            {
+                  "name": "Mazor (West)",
+                  "text": "Un sit de excavare care dezvăluie urme ale activității agricole antice din district.",
+                  "category": "historical",
+                  "coords": [
+                        34.944672,
+                        32.046519
+                  ]
+            },
+            {
+                  "name": "Horbat Tukkim",
+                  "text": "Ruinele unei foste așezări pe pantele care domină câmpia înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        34.986776,
+                        32.060796
+                  ]
+            },
+            {
+                  "name": "Migdal Afeq (Mirabel Fortress) Ruins",
+                  "text": "O fortăreață masivă a cruciaților, numită și Mirabel, situată pe un deal strategic.",
+                  "category": "historical",
+                  "coords": [
+                        34.957102,
+                        32.080806
+                  ]
+            },
+            {
+                  "name": "Turkish Jewish Heritage Center",
+                  "text": "Un muzeu din Yehud care documentează istoria culturală a comunității evreiești din Turcia.",
+                  "category": "museum",
+                  "coords": [
+                        34.895344,
+                        32.035338
+                  ]
+            },
+            {
+                  "name": "Horvat Tinshemet",
+                  "text": "Un sit de excavare care prezintă rămășițele unei biserici bizantine din secolul al IV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        34.958114,
+                        31.997842
+                  ]
+            },
+            {
+                  "name": "Byzantine Water Pool",
+                  "text": "Un rezervor antic mare, căptușit cu piatră, folosit odinioară pentru stocarea apei.",
+                  "category": "historical",
+                  "coords": [
+                        34.955591,
+                        32.038696
+                  ]
+            },
+            {
+                  "name": "Migdal Tzedek National Park",
+                  "text": "O rezervație naturală care înconjoară ruine istorice, oferind trasee pitorești de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        34.959591,
+                        32.077272
+                  ]
+            },
+            {
+                  "name": "Nachshonit water park",
+                  "text": "Un complex recreativ popular, cu diverse piscine și tobogane cu apă, lângă kibuțul Nachshonim.",
+                  "category": "recreational",
+                  "coords": [
+                        34.94762,
+                        32.06354
+                  ]
+            },
+            {
+                  "name": "Mazor",
+                  "text": "Un mausoleu roman din secolul al III-lea, excepțional de bine conservat, care stă la înălțimea sa totală.",
+                  "category": "historical",
+                  "coords": [
+                        34.946152,
+                        32.046618
+                  ]
+            },
+            {
+                  "name": "Tomb of Judah",
+                  "text": "Un sit sacru considerat prin tradiție a fi locul de înmormântare al lui Iuda cel biblic.",
+                  "category": "landmark",
+                  "coords": [
+                        34.887528,
+                        32.030874
+                  ]
+            },
+            {
+                  "name": "Al-'Abbasiyya Mosque",
+                  "text": "O moschee istorică situată în centrul localității moderne Yehud.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888784,
+                        32.030789
+                  ]
+            },
+            {
+                  "name": "Dorot Avraham",
+                  "text": "O sinagogă locală care constituie un centru pentru viața religioasă din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        34.94822,
+                        31.996778
+                  ]
+            },
+            {
+                  "name": "Kiryat Edmond Safra",
+                  "text": "Un centru comunitar și de rugăciune evreiesc, numit după cunoscutul filantrop.",
+                  "category": "landmark",
+                  "coords": [
+                        34.946832,
+                        31.997192
+                  ]
+            },
+            {
+                  "name": "Zechor Avraham",
+                  "text": "O sinagogă de cartier care deservește comunitatea evreiască locală.",
+                  "category": "landmark",
+                  "coords": [
+                        34.944732,
+                        32.003821
+                  ]
+            },
+            {
+                  "name": "spain synagogue",
+                  "text": "O sinagogă care urmează ritul sefard și tradițiile evreiești spaniole.",
+                  "category": "landmark",
+                  "coords": [
+                        34.918817,
+                        32.07923
+                  ]
+            },
+            {
+                  "name": "neve reim synagogue",
+                  "text": "Un loc de cult modern pentru nevoile religioase ale comunității evreiești locale.",
+                  "category": "landmark",
+                  "coords": [
+                        34.915242,
+                        32.080633
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "Un centru religios pentru rugăciune și evenimente culturale ale comunității evreiești.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888345,
+                        32.033592
+                  ]
+            },
+            {
+                  "name": "Zichron Daliya sunagogue",
+                  "text": "O sinagogă locală care servește ca punct focal pentru activitățile religioase din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        34.95466,
+                        32.046985
+                  ]
+            },
+            {
+                  "name": "Haichal Haim synagogue",
+                  "text": "O sinagogă de cartier dedicată rugăciunilor zilnice și studiului Torei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.874833,
+                        32.028854
+                  ]
+            },
+            {
+                  "name": "Gorodna Yeshiva",
+                  "text": "Un centru de studii toraice în Airport City, dedicat educației evreiești.",
+                  "category": "landmark",
+                  "coords": [
+                        34.839396,
+                        31.935135
+                  ]
+            },
+            {
+                  "name": "Haychal Moshe",
+                  "text": "O sinagogă modernă care servește ca centru local pentru rugăciune și comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913952,
+                        32.068129
+                  ]
+            },
+            {
+                  "name": "Nehalim Synagogue",
+                  "text": "O sinagogă a comunității religios-zioniste în zona economică Airport City.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913502,
+                        32.058446
+                  ]
+            },
+            {
+                  "name": "Kolel Retzon Yehuda",
+                  "text": "Un institut religios pentru studii toraice avansate destinate bărbaților căsătoriți.",
+                  "category": "landmark",
+                  "coords": [
+                        34.908229,
+                        32.069696
+                  ]
+            },
+            {
+                  "name": "Wholesale market",
+                  "text": "Un centru major de distribuție pentru produse agricole proaspete lângă aeroport.",
+                  "category": "cultural",
+                  "coords": [
+                        34.8501,
+                        31.958088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial of the 8th Brigade",
+                  "text": "A monument to the 8th Brigade, commemorating the unit that captured the airport during the 1948 war.",
+                  "category": "historical",
+                  "coords": [
+                        34.902709,
+                        31.990713
+                  ]
+            },
+            {
+                  "name": "An old ruined pillbox",
+                  "text": "A circular concrete guard post dating back to the British Mandate period.",
+                  "category": "historical",
+                  "coords": [
+                        34.915501,
+                        32.010373
+                  ]
+            },
+            {
+                  "name": "Tomb of nabi Kifl",
+                  "text": "Stone ruins of an ancient shrine traditionally associated with the prophet Ezekiel.",
+                  "category": "historical",
+                  "coords": [
+                        34.926669,
+                        32.007138
+                  ]
+            },
+            {
+                  "name": "Quleh",
+                  "text": "An archaeological site featuring remains of ancient dwellings and agricultural installations.",
+                  "category": "historical",
+                  "coords": [
+                        34.952658,
+                        32.037036
+                  ]
+            },
+            {
+                  "name": "Qula",
+                  "text": "The remains of a deserted village featuring a prominent Crusader-era tower.",
+                  "category": "historical",
+                  "coords": [
+                        34.954859,
+                        32.037776
+                  ]
+            },
+            {
+                  "name": "Culture center",
+                  "text": "A modern center hosting theater performances and arts workshops for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        34.946279,
+                        32.000105
+                  ]
+            },
+            {
+                  "name": "Giv'at HaSaflulim;Saflulim Viewpoint",
+                  "text": "A hilltop viewpoint offering a wide panorama over the coastal plain.",
+                  "category": "natural",
+                  "coords": [
+                        34.955327,
+                        31.99319
+                  ]
+            },
+            {
+                  "name": "Shoham Forest Park",
+                  "text": "A wooded recreational area featuring Byzantine ruins and seasonal wildflower blooms.",
+                  "category": "park",
+                  "coords": [
+                        34.958478,
+                        31.996771
+                  ]
+            },
+            {
+                  "name": "Khirbat el-Bira",
+                  "text": "Ruins of an ancient settlement with the remains of a Byzantine church and mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        34.965463,
+                        32.017007
+                  ]
+            },
+            {
+                  "name": "Horbat Amar",
+                  "text": "The stone remains of an ancient rural settlement located near Shoham.",
+                  "category": "historical",
+                  "coords": [
+                        34.96407,
+                        32.031665
+                  ]
+            },
+            {
+                  "name": "Horbat Pundaq",
+                  "text": "Remains of an ancient structure that likely served as a roadside waystation.",
+                  "category": "historical",
+                  "coords": [
+                        34.967524,
+                        32.034412
+                  ]
+            },
+            {
+                  "name": "Horbat Hanya",
+                  "text": "An archaeological site containing ancient cisterns and stone-carved foundations.",
+                  "category": "historical",
+                  "coords": [
+                        34.96718,
+                        32.027366
+                  ]
+            },
+            {
+                  "name": "Horbat Al",
+                  "text": "Small-scale remains of ancient stone structures scattered across the hillside.",
+                  "category": "historical",
+                  "coords": [
+                        34.993146,
+                        32.028561
+                  ]
+            },
+            {
+                  "name": "Mazor (West)",
+                  "text": "An excavation site revealing traces of ancient agricultural activity in the district.",
+                  "category": "historical",
+                  "coords": [
+                        34.944672,
+                        32.046519
+                  ]
+            },
+            {
+                  "name": "Horbat Tukkim",
+                  "text": "Ruins of a former settlement on the slopes overlooking the surrounding plain.",
+                  "category": "historical",
+                  "coords": [
+                        34.986776,
+                        32.060796
+                  ]
+            },
+            {
+                  "name": "Migdal Afeq (Mirabel Fortress) Ruins",
+                  "text": "A massive Crusader fortress, also known as Mirabel, standing on a strategic hill.",
+                  "category": "historical",
+                  "coords": [
+                        34.957102,
+                        32.080806
+                  ]
+            },
+            {
+                  "name": "Turkish Jewish Heritage Center",
+                  "text": "A museum in Yehud documenting the cultural history of the Jewish community from Turkey.",
+                  "category": "museum",
+                  "coords": [
+                        34.895344,
+                        32.035338
+                  ]
+            },
+            {
+                  "name": "Horvat Tinshemet",
+                  "text": "An excavation site featuring the remains of a 4th-century Byzantine church.",
+                  "category": "historical",
+                  "coords": [
+                        34.958114,
+                        31.997842
+                  ]
+            },
+            {
+                  "name": "Byzantine Water Pool",
+                  "text": "A large, stone-lined ancient reservoir once used for water storage.",
+                  "category": "historical",
+                  "coords": [
+                        34.955591,
+                        32.038696
+                  ]
+            },
+            {
+                  "name": "Migdal Tzedek National Park",
+                  "text": "A nature reserve surrounding historical ruins, offering scenic hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        34.959591,
+                        32.077272
+                  ]
+            },
+            {
+                  "name": "Nachshonit water park",
+                  "text": "A popular recreational complex featuring various pools and water slides near Kibbutz Nachshonim.",
+                  "category": "recreational",
+                  "coords": [
+                        34.94762,
+                        32.06354
+                  ]
+            },
+            {
+                  "name": "Mazor",
+                  "text": "An exceptionally well-preserved 3rd-century Roman mausoleum standing to its full height.",
+                  "category": "historical",
+                  "coords": [
+                        34.946152,
+                        32.046618
+                  ]
+            },
+            {
+                  "name": "Tomb of Judah",
+                  "text": "A sacred site traditionally believed to be the burial place of the biblical Judah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.887528,
+                        32.030874
+                  ]
+            },
+            {
+                  "name": "Al-'Abbasiyya Mosque",
+                  "text": "A historic mosque located in the center of modern-day Yehud.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888784,
+                        32.030789
+                  ]
+            },
+            {
+                  "name": "Dorot Avraham",
+                  "text": "A local synagogue providing a center for religious life in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        34.94822,
+                        31.996778
+                  ]
+            },
+            {
+                  "name": "Kiryat Edmond Safra",
+                  "text": "A Jewish community and prayer center named after the well-known philanthropist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.946832,
+                        31.997192
+                  ]
+            },
+            {
+                  "name": "Zechor Avraham",
+                  "text": "A neighborhood synagogue serving the local Jewish congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        34.944732,
+                        32.003821
+                  ]
+            },
+            {
+                  "name": "spain synagogue",
+                  "text": "A synagogue following the Sephardic rite and Spanish Jewish traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        34.918817,
+                        32.07923
+                  ]
+            },
+            {
+                  "name": "neve reim synagogue",
+                  "text": "A modern place of worship for the local Jewish community's religious needs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.915242,
+                        32.080633
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "A religious center for prayer and Jewish community cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        34.888345,
+                        32.033592
+                  ]
+            },
+            {
+                  "name": "Zichron Daliya sunagogue",
+                  "text": "A local synagogue serving as a focal point for neighborhood religious activities.",
+                  "category": "landmark",
+                  "coords": [
+                        34.95466,
+                        32.046985
+                  ]
+            },
+            {
+                  "name": "Haichal Haim synagogue",
+                  "text": "A neighborhood synagogue dedicated to daily prayers and Torah study.",
+                  "category": "landmark",
+                  "coords": [
+                        34.874833,
+                        32.028854
+                  ]
+            },
+            {
+                  "name": "Gorodna Yeshiva",
+                  "text": "A center for Torah studies in Airport City dedicated to Jewish education.",
+                  "category": "landmark",
+                  "coords": [
+                        34.839396,
+                        31.935135
+                  ]
+            },
+            {
+                  "name": "Haychal Moshe",
+                  "text": "A modern synagogue serving as a local hub for prayer and community gathering.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913952,
+                        32.068129
+                  ]
+            },
+            {
+                  "name": "Nehalim Synagogue",
+                  "text": "A synagogue of the religious Zionist community in the Airport City economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.913502,
+                        32.058446
+                  ]
+            },
+            {
+                  "name": "Kolel Retzon Yehuda",
+                  "text": "A religious institute for advanced Torah studies for married men.",
+                  "category": "landmark",
+                  "coords": [
+                        34.908229,
+                        32.069696
+                  ]
+            },
+            {
+                  "name": "Wholesale market",
+                  "text": "A large distribution hub for fresh agricultural produce located near the airport.",
+                  "category": "cultural",
+                  "coords": [
+                        34.8501,
+                        31.958088
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "IL-M",
     coords: [34.9122, 32.0000],
@@ -480,7 +6870,1312 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-sorek-desalination-economic-v2",
+    id: "il-sorek-desalination-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Assyrian Fortress",
+                  "text": "Die assyrische Festung ist eine alte archäologische Stätte in der Region Sorek Desalination.",
+                  "category": "historical",
+                  "coords": [
+                        34.7649,
+                        31.975199
+                  ]
+            },
+            {
+                  "name": "Horbat Yavne Yam",
+                  "text": "Horbat Yavne Yam bewahrt bemerkenswerte antike Ruinen im Gebiet der Sorek-Entsalzung.",
+                  "category": "historical",
+                  "coords": [
+                        34.693318,
+                        31.922729
+                  ]
+            },
+            {
+                  "name": "Nabi Rubin",
+                  "text": "Nabi Rubin enthält historische Ruinen und einen Schrein in der Region Sorek Desalination.",
+                  "category": "historical",
+                  "coords": [
+                        34.733638,
+                        31.929132
+                  ]
+            },
+            {
+                  "name": "Yibna Bridge",
+                  "text": "Die Yibna-Brücke ist eine faszinierende archäologische Stätte im Gebiet der Sorek-Entsalzung.",
+                  "category": "historical",
+                  "coords": [
+                        34.752284,
+                        31.86941
+                  ]
+            },
+            {
+                  "name": "Homra Hill",
+                  "text": "Der Homra Hill ist ein malerischer Gipfel in der Region Sorek Desalination.",
+                  "category": "natural",
+                  "coords": [
+                        34.743036,
+                        31.935131
+                  ]
+            },
+            {
+                  "name": "Gvaot Ha'Kurkar",
+                  "text": "Gvaot Ha'Kurkar ist ein Nationalpark mit Naturlandschaften im Gebiet der Sorek-Entsalzung.",
+                  "category": "park",
+                  "coords": [
+                        34.782387,
+                        31.93123
+                  ]
+            },
+            {
+                  "name": "Givat HaIrisim",
+                  "text": "Givat HaIrisim ist ein natürlicher Aussichtspunkt mit schöner Aussicht in der Region Sorek Desalination.",
+                  "category": "natural",
+                  "coords": [
+                        34.752303,
+                        31.933568
+                  ]
+            },
+            {
+                  "name": "Beit Rishonim",
+                  "text": "Beit Rishonim ist ein Museum, das die frühe Siedlungsgeschichte im Gebiet der Sorek-Entsalzung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        34.795706,
+                        31.927119
+                  ]
+            },
+            {
+                  "name": "Machon Ayalon Museum",
+                  "text": "Das Machon Ayalon Museum beleuchtet die Geschichte einer geheimen Munitionsfabrik in der Region Sorek Desalination.",
+                  "category": "museum",
+                  "coords": [
+                        34.809784,
+                        31.916147
+                  ]
+            },
+            {
+                  "name": "Bait Miriam",
+                  "text": "Bait Miriam ist ein faszinierendes Museum im Gebiet der Sorek-Entsalzung.",
+                  "category": "museum",
+                  "coords": [
+                        34.703881,
+                        31.934195
+                  ]
+            },
+            {
+                  "name": "Tel Mahoz",
+                  "text": "Tel Mahoz ist eine alte archäologische Stätte, die in der Region Sorek Desalination entdeckt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        34.743395,
+                        31.919664
+                  ]
+            },
+            {
+                  "name": "Tel Yona",
+                  "text": "Tel Yona ist eine archäologische Stätte an der Küste im Gebiet der Sorek-Entsalzung.",
+                  "category": "historical",
+                  "coords": [
+                        34.732546,
+                        31.996126
+                  ]
+            },
+            {
+                  "name": "Culture Center",
+                  "text": "Das Culture Center ist ein lokales Theater, das der Gemeinde in il-sorek-desalination-economic-v2 dient.",
+                  "category": "cultural",
+                  "coords": [
+                        34.796265,
+                        31.930748
+                  ]
+            },
+            {
+                  "name": "Tel Shalaf",
+                  "text": "Tel Shalaf bietet einen erhöhten Aussichtspunkt für Besucher in il-sorek-desalination-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.768773,
+                        31.892637
+                  ]
+            },
+            {
+                  "name": "Superland",
+                  "text": "Superland ist ein beliebter Freizeitpark mit verschiedenen Fahrgeschäften in il-sorek-desalination-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744318,
+                        31.97879
+                  ]
+            },
+            {
+                  "name": "Palmachim beach",
+                  "text": "Palmachim Beach ist ein küstennahes Naherholungsgebiet in il-sorek-desalination-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        34.696561,
+                        31.925784
+                  ]
+            },
+            {
+                  "name": "Ha'Bait Ha'Meshutaf",
+                  "text": "Ha'Bait Ha'Meshutaf ist ein Ausstellungsraum und Museum in il-sorek-desalination-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        34.795791,
+                        31.924284
+                  ]
+            },
+            {
+                  "name": "Nahalat Reuven",
+                  "text": "Nahalat Reuven ist ein Museum, das die lokale Geschichte in il-sorek-desalination-economic-v2 präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        34.796515,
+                        31.922463
+                  ]
+            },
+            {
+                  "name": "House of Abu Rizeq",
+                  "text": "Das Haus des Abu Rizeq besteht aus historischen Ruinen innerhalb von il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.799871,
+                        31.938733
+                  ]
+            },
+            {
+                  "name": "Gan HaBanim",
+                  "text": "Gan HaBanim ist ein Denkmal, das in il-sorek-desalination-economic-v2 errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        34.801829,
+                        31.901564
+                  ]
+            },
+            {
+                  "name": "Zarnuqa Mosque",
+                  "text": "Die Überreste der Zarnuqa-Moschee sind als historische Ruinen in il-sorek-desalination-economic-v2 erhalten.",
+                  "category": "historical",
+                  "coords": [
+                        34.789605,
+                        31.879363
+                  ]
+            },
+            {
+                  "name": "Mamaluk minaret",
+                  "text": "Das Mamluken-Minarett ist eine alte archäologische Stätte in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.746937,
+                        31.865599
+                  ]
+            },
+            {
+                  "name": "House in Yibna",
+                  "text": "Das House in Yibna zeigt die Überreste eines ehemaligen Gebäudes in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.748501,
+                        31.863526
+                  ]
+            },
+            {
+                  "name": "Abu-Nabut Sabil",
+                  "text": "Abu-Nabut Sabil ist eine anerkannte archäologische Stätte, die für Besucher in il-sorek-desalination-economic-v2 zugänglich ist.",
+                  "category": "historical",
+                  "coords": [
+                        34.77175,
+                        31.916052
+                  ]
+            },
+            {
+                  "name": "Tel Ya`oz",
+                  "text": "Tel Ya`oz markiert den Ort bedeutender archäologischer Funde in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.724722,
+                        31.947222
+                  ]
+            },
+            {
+                  "name": "Old Quarry",
+                  "text": "Der Old Quarry ist als archäologische Zone in il-sorek-desalination-economic-v2 erhalten.",
+                  "category": "historical",
+                  "coords": [
+                        34.712817,
+                        31.915859
+                  ]
+            },
+            {
+                  "name": "Pillbox",
+                  "text": "Die Pillbox zeigt Ruinen einer alten Befestigungsanlage in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.75221,
+                        31.86711
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen in Israel's Wars",
+                  "text": "Das Monument to the Fallen in Israel's Wars ist eine Gedenkstätte in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.740028,
+                        31.877186
+                  ]
+            },
+            {
+                  "name": "Yavne Cultural Hall",
+                  "text": "Die Yavne Cultural Hall ist ein bekannter Veranstaltungsort für Theateraufführungen in il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.734874,
+                        31.874399
+                  ]
+            },
+            {
+                  "name": "Live Park Rishon LeZion",
+                  "text": "Der Live Park Rishon LeZion fungiert als großes Freilufttheater und Veranstaltungsort in il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.741582,
+                        31.976331
+                  ]
+            },
+            {
+                  "name": "Turtles Island",
+                  "text": "Turtles Island ist eine einzigartige, auf die Tierwelt ausgerichtete Touristenattraktion in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.721129,
+                        31.940004
+                  ]
+            },
+            {
+                  "name": "Shaarei Itzhak Synagogue",
+                  "text": "Die Shaarei Itzhak Synagoge ist ein jüdischer Gebets- und Versammlungsort in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786508,
+                        31.912816
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Diese lokale Synagoge dient der jüdischen Gemeinde von il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.776063,
+                        31.892656
+                  ]
+            },
+            {
+                  "name": "Sha'arei Tzedek",
+                  "text": "Sha'arei Tzedek ist eine anerkannte jüdische religiöse Stätte in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.773913,
+                        31.891814
+                  ]
+            },
+            {
+                  "name": "Achduti",
+                  "text": "Achduti ist eine bemerkenswerte jüdische Gemeinde oder Einrichtung, die in il-sorek-desalination-economic-v2 aktiv ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786169,
+                        31.888112
+                  ]
+            },
+            {
+                  "name": "Ohel Yossef",
+                  "text": "Ohel Yossef fungiert als engagierter Ort des jüdischen Erbes und des Gebets in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.792946,
+                        31.888126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Assyrian Fortress",
+                  "text": "Az asszír erőd egy ősi régészeti lelőhely a Sorek-sótalanító régióban.",
+                  "category": "historical",
+                  "coords": [
+                        34.7649,
+                        31.975199
+                  ]
+            },
+            {
+                  "name": "Horbat Yavne Yam",
+                  "text": "Horbat Yavne Yam jelentős ókori romokat őriz a Sorek-sótalanító területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.693318,
+                        31.922729
+                  ]
+            },
+            {
+                  "name": "Nabi Rubin",
+                  "text": "Nabi Rubin történelmi romokat és egy szentélyt tartalmaz a Sorek-sótalanító régióban.",
+                  "category": "historical",
+                  "coords": [
+                        34.733638,
+                        31.929132
+                  ]
+            },
+            {
+                  "name": "Yibna Bridge",
+                  "text": "A Yibna híd egy érdekes régészeti lelőhely a Sorek-sótalanító területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.752284,
+                        31.86941
+                  ]
+            },
+            {
+                  "name": "Homra Hill",
+                  "text": "A Homra-hegy egy festői csúcs a Sorek-sótalanító régióban.",
+                  "category": "natural",
+                  "coords": [
+                        34.743036,
+                        31.935131
+                  ]
+            },
+            {
+                  "name": "Gvaot Ha'Kurkar",
+                  "text": "A Gvaot Ha'Kurkar egy nemzeti park természetes tájakkal a Sorek-sótalanító területén.",
+                  "category": "park",
+                  "coords": [
+                        34.782387,
+                        31.93123
+                  ]
+            },
+            {
+                  "name": "Givat HaIrisim",
+                  "text": "A Givat HaIrisim egy természetes kilátó, amely szép kilátást nyújt a Sorek-sótalanító régióban.",
+                  "category": "natural",
+                  "coords": [
+                        34.752303,
+                        31.933568
+                  ]
+            },
+            {
+                  "name": "Beit Rishonim",
+                  "text": "A Beit Rishonim a korai betelepülés történetét bemutató múzeum a Sorek-sótalanító területén.",
+                  "category": "museum",
+                  "coords": [
+                        34.795706,
+                        31.927119
+                  ]
+            },
+            {
+                  "name": "Machon Ayalon Museum",
+                  "text": "A Machon Ayalon Múzeum egy titkos lőszergyár történetét tárja fel a Sorek-sótalanító régióban.",
+                  "category": "museum",
+                  "coords": [
+                        34.809784,
+                        31.916147
+                  ]
+            },
+            {
+                  "name": "Bait Miriam",
+                  "text": "A Bait Miriam egy érdekes múzeum a Sorek-sótalanító területén.",
+                  "category": "museum",
+                  "coords": [
+                        34.703881,
+                        31.934195
+                  ]
+            },
+            {
+                  "name": "Tel Mahoz",
+                  "text": "Tel Mahoz egy ősi régészeti lelőhely a Sorek-sótalanító régióban.",
+                  "category": "historical",
+                  "coords": [
+                        34.743395,
+                        31.919664
+                  ]
+            },
+            {
+                  "name": "Tel Yona",
+                  "text": "A Tel Yona egy tengerparti régészeti lelőhely a Sorek-sótalanító területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.732546,
+                        31.996126
+                  ]
+            },
+            {
+                  "name": "Culture Center",
+                  "text": "A Culture Center egy helyi színház, amely az il-sorek-desalination-economic-v2 közösségét szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        34.796265,
+                        31.930748
+                  ]
+            },
+            {
+                  "name": "Tel Shalaf",
+                  "text": "A Tel Shalaf egy magaslati kilátópontot kínál az il-sorek-desalination-economic-v2 látogatóinak.",
+                  "category": "natural",
+                  "coords": [
+                        34.768773,
+                        31.892637
+                  ]
+            },
+            {
+                  "name": "Superland",
+                  "text": "A Superland egy népszerű vidámpark, amely különféle szórakoztató attrakciókkal várja látogatóit il-sorek-desalination-economic-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744318,
+                        31.97879
+                  ]
+            },
+            {
+                  "name": "Palmachim beach",
+                  "text": "A Palmachim beach egy tengerparti rekreációs terület il-sorek-desalination-economic-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        34.696561,
+                        31.925784
+                  ]
+            },
+            {
+                  "name": "Ha'Bait Ha'Meshutaf",
+                  "text": "A Ha'Bait Ha'Meshutaf egy kiállítótér és múzeum il-sorek-desalination-economic-v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        34.795791,
+                        31.924284
+                  ]
+            },
+            {
+                  "name": "Nahalat Reuven",
+                  "text": "A Nahalat Reuven a helyi történelmet bemutató múzeumként működik il-sorek-desalination-economic-v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        34.796515,
+                        31.922463
+                  ]
+            },
+            {
+                  "name": "House of Abu Rizeq",
+                  "text": "Az Abu Rizeq háza történelmi romokból áll, amelyek il-sorek-desalination-economic-v2 területén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        34.799871,
+                        31.938733
+                  ]
+            },
+            {
+                  "name": "Gan HaBanim",
+                  "text": "A Gan HaBanim egy emlékmű, amelyet il-sorek-desalination-economic-v2-ben állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        34.801829,
+                        31.901564
+                  ]
+            },
+            {
+                  "name": "Zarnuqa Mosque",
+                  "text": "A Zarnuqa mecset maradványait történelmi romként őrzik il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.789605,
+                        31.879363
+                  ]
+            },
+            {
+                  "name": "Mamaluk minaret",
+                  "text": "A mameluk minaret egy ősi régészeti lelőhely, amely il-sorek-desalination-economic-v2 területén található.",
+                  "category": "historical",
+                  "coords": [
+                        34.746937,
+                        31.865599
+                  ]
+            },
+            {
+                  "name": "House in Yibna",
+                  "text": "A jibnai ház egykori épület maradványait mutatja be il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.748501,
+                        31.863526
+                  ]
+            },
+            {
+                  "name": "Abu-Nabut Sabil",
+                  "text": "Az Abu-Nabut Sabil egy elismert régészeti lelőhely, amely látogatható il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.77175,
+                        31.916052
+                  ]
+            },
+            {
+                  "name": "Tel Ya`oz",
+                  "text": "A Tel Ya`oz jelentős régészeti felfedezések helyszíne il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.724722,
+                        31.947222
+                  ]
+            },
+            {
+                  "name": "Old Quarry",
+                  "text": "Az Öreg Kőbányát régészeti övezetként őrzik il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.712817,
+                        31.915859
+                  ]
+            },
+            {
+                  "name": "Pillbox",
+                  "text": "A Pillbox egy régi erődítmény romjait mutatja be il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.75221,
+                        31.86711
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen in Israel's Wars",
+                  "text": "Az Izrael háborúiban elesettek emlékműve egy megemlékezési hely il-sorek-desalination-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        34.740028,
+                        31.877186
+                  ]
+            },
+            {
+                  "name": "Yavne Cultural Hall",
+                  "text": "A Yavne Cultural Hall egy jelentős helyszín, amely színházi előadásoknak ad otthont il-sorek-desalination-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        34.734874,
+                        31.874399
+                  ]
+            },
+            {
+                  "name": "Live Park Rishon LeZion",
+                  "text": "A Live Park Rishon LeZion jelentős szabadtéri színházként és rendezvényhelyszínként működik il-sorek-desalination-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        34.741582,
+                        31.976331
+                  ]
+            },
+            {
+                  "name": "Turtles Island",
+                  "text": "A Teknősök szigete egy egyedülálló, vadvilágra fókuszáló turisztikai látványosság il-sorek-desalination-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.721129,
+                        31.940004
+                  ]
+            },
+            {
+                  "name": "Shaarei Itzhak Synagogue",
+                  "text": "A Shaarei Itzhak zsinagóga egy zsidó istentiszteleti és közösségi helyszín il-sorek-desalination-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786508,
+                        31.912816
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Ez a helyi zsinagóga az il-sorek-desalination-economic-v2 zsidó közösségét szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        34.776063,
+                        31.892656
+                  ]
+            },
+            {
+                  "name": "Sha'arei Tzedek",
+                  "text": "A Sha'arei Tzedek egy elismert zsidó vallási helyszín il-sorek-desalination-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.773913,
+                        31.891814
+                  ]
+            },
+            {
+                  "name": "Achduti",
+                  "text": "Az Achduti egy jelentős zsidó gyülekezet vagy intézmény, amely il-sorek-desalination-economic-v2 területén működik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786169,
+                        31.888112
+                  ]
+            },
+            {
+                  "name": "Ohel Yossef",
+                  "text": "Az Ohel Yossef a zsidó örökség és imádság dedikált helyszíneként működik il-sorek-desalination-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.792946,
+                        31.888126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Assyrian Fortress",
+                  "text": "Fortăreața asiriană este un sit arheologic antic situat în regiunea de desalinizare Sorek.",
+                  "category": "historical",
+                  "coords": [
+                        34.7649,
+                        31.975199
+                  ]
+            },
+            {
+                  "name": "Horbat Yavne Yam",
+                  "text": "Horbat Yavne Yam păstrează ruine antice notabile în zona de desalinizare Sorek.",
+                  "category": "historical",
+                  "coords": [
+                        34.693318,
+                        31.922729
+                  ]
+            },
+            {
+                  "name": "Nabi Rubin",
+                  "text": "Nabi Rubin conține ruine istorice și un sanctuar situat în regiunea de desalinizare Sorek.",
+                  "category": "historical",
+                  "coords": [
+                        34.733638,
+                        31.929132
+                  ]
+            },
+            {
+                  "name": "Yibna Bridge",
+                  "text": "Podul Yibna este un sit arheologic intrigant situat în zona de desalinizare Sorek.",
+                  "category": "historical",
+                  "coords": [
+                        34.752284,
+                        31.86941
+                  ]
+            },
+            {
+                  "name": "Homra Hill",
+                  "text": "Dealul Homra este un vârf pitoresc situat în regiunea de desalinizare Sorek.",
+                  "category": "natural",
+                  "coords": [
+                        34.743036,
+                        31.935131
+                  ]
+            },
+            {
+                  "name": "Gvaot Ha'Kurkar",
+                  "text": "Gvaot Ha'Kurkar este un parc național cu peisaje naturale în zona de desalinizare Sorek.",
+                  "category": "park",
+                  "coords": [
+                        34.782387,
+                        31.93123
+                  ]
+            },
+            {
+                  "name": "Givat HaIrisim",
+                  "text": "Givat HaIrisim este un punct de belvedere natural care oferă priveliști frumoase în regiunea de desalinizare Sorek.",
+                  "category": "natural",
+                  "coords": [
+                        34.752303,
+                        31.933568
+                  ]
+            },
+            {
+                  "name": "Beit Rishonim",
+                  "text": "Beit Rishonim este un muzeu care documentează istoria așezărilor timpurii din zona de desalinizare Sorek.",
+                  "category": "museum",
+                  "coords": [
+                        34.795706,
+                        31.927119
+                  ]
+            },
+            {
+                  "name": "Machon Ayalon Museum",
+                  "text": "Muzeul Machon Ayalon explorează istoria unei fabrici secrete de muniții din regiunea de desalinizare Sorek.",
+                  "category": "museum",
+                  "coords": [
+                        34.809784,
+                        31.916147
+                  ]
+            },
+            {
+                  "name": "Bait Miriam",
+                  "text": "Bait Miriam este un muzeu intrigant situat în zona de desalinizare Sorek.",
+                  "category": "museum",
+                  "coords": [
+                        34.703881,
+                        31.934195
+                  ]
+            },
+            {
+                  "name": "Tel Mahoz",
+                  "text": "Tel Mahoz este un sit arheologic antic descoperit în regiunea de desalinizare Sorek.",
+                  "category": "historical",
+                  "coords": [
+                        34.743395,
+                        31.919664
+                  ]
+            },
+            {
+                  "name": "Tel Yona",
+                  "text": "Tel Yona este un sit arheologic de coastă situat în zona de desalinizare Sorek.",
+                  "category": "historical",
+                  "coords": [
+                        34.732546,
+                        31.996126
+                  ]
+            },
+            {
+                  "name": "Culture Center",
+                  "text": "Culture Center este un teatru local care deservește comunitatea din il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.796265,
+                        31.930748
+                  ]
+            },
+            {
+                  "name": "Tel Shalaf",
+                  "text": "Tel Shalaf oferă un punct de belvedere la înălțime pentru vizitatorii din il-sorek-desalination-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.768773,
+                        31.892637
+                  ]
+            },
+            {
+                  "name": "Superland",
+                  "text": "Superland este un parc tematic popular care oferă diverse atracții de divertisment în il-sorek-desalination-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744318,
+                        31.97879
+                  ]
+            },
+            {
+                  "name": "Palmachim beach",
+                  "text": "Plaja Palmachim este o zonă de recreere pe coastă situată în il-sorek-desalination-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        34.696561,
+                        31.925784
+                  ]
+            },
+            {
+                  "name": "Ha'Bait Ha'Meshutaf",
+                  "text": "Ha'Bait Ha'Meshutaf este un spațiu expozițional și muzeu în il-sorek-desalination-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        34.795791,
+                        31.924284
+                  ]
+            },
+            {
+                  "name": "Nahalat Reuven",
+                  "text": "Nahalat Reuven funcționează ca un muzeu care prezintă istoria locală în il-sorek-desalination-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        34.796515,
+                        31.922463
+                  ]
+            },
+            {
+                  "name": "House of Abu Rizeq",
+                  "text": "Casa lui Abu Rizeq constă din ruine istorice găsite în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.799871,
+                        31.938733
+                  ]
+            },
+            {
+                  "name": "Gan HaBanim",
+                  "text": "Gan HaBanim este un monument comemorativ construit în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.801829,
+                        31.901564
+                  ]
+            },
+            {
+                  "name": "Zarnuqa Mosque",
+                  "text": "Rămășițele moscheii Zarnuqa sunt păstrate ca ruine istorice în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.789605,
+                        31.879363
+                  ]
+            },
+            {
+                  "name": "Mamaluk minaret",
+                  "text": "Minaretul mamelucilor este un sit arheologic antic situat în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.746937,
+                        31.865599
+                  ]
+            },
+            {
+                  "name": "House in Yibna",
+                  "text": "Casa din Yibna prezintă rămășițele unei foste structuri din il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.748501,
+                        31.863526
+                  ]
+            },
+            {
+                  "name": "Abu-Nabut Sabil",
+                  "text": "Abu-Nabut Sabil este un sit arheologic recunoscut, accesibil vizitatorilor din il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.77175,
+                        31.916052
+                  ]
+            },
+            {
+                  "name": "Tel Ya`oz",
+                  "text": "Tel Ya`oz marchează locația unor importante descoperiri arheologice în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.724722,
+                        31.947222
+                  ]
+            },
+            {
+                  "name": "Old Quarry",
+                  "text": "Vechea Carieră este păstrată ca zonă arheologică în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.712817,
+                        31.915859
+                  ]
+            },
+            {
+                  "name": "Pillbox",
+                  "text": "Cazemata Pillbox prezintă ruinele unei vechi structuri de fortificație în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.75221,
+                        31.86711
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen in Israel's Wars",
+                  "text": "Monumentul dedicat celor căzuți în războaiele Israelului este un loc de reculegere în il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.740028,
+                        31.877186
+                  ]
+            },
+            {
+                  "name": "Yavne Cultural Hall",
+                  "text": "Yavne Cultural Hall este o locație notabilă care găzduiește spectacole de teatru în il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.734874,
+                        31.874399
+                  ]
+            },
+            {
+                  "name": "Live Park Rishon LeZion",
+                  "text": "Live Park Rishon LeZion funcționează ca un teatru în aer liber și spațiu pentru evenimente majore în il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.741582,
+                        31.976331
+                  ]
+            },
+            {
+                  "name": "Turtles Island",
+                  "text": "Turtles Island este o atracție turistică unică, axată pe viața sălbatică, situată în il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.721129,
+                        31.940004
+                  ]
+            },
+            {
+                  "name": "Shaarei Itzhak Synagogue",
+                  "text": "Sinagoga Shaarei Itzhak este un lăcaș de cult evreiesc și un loc de adunare a comunității în il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786508,
+                        31.912816
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Această sinagogă locală deservește comunitatea evreiască din il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.776063,
+                        31.892656
+                  ]
+            },
+            {
+                  "name": "Sha'arei Tzedek",
+                  "text": "Sha'arei Tzedek este un sit religios evreiesc recunoscut, situat în il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.773913,
+                        31.891814
+                  ]
+            },
+            {
+                  "name": "Achduti",
+                  "text": "Achduti este o importantă congregație sau instituție evreiască activă în il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786169,
+                        31.888112
+                  ]
+            },
+            {
+                  "name": "Ohel Yossef",
+                  "text": "Ohel Yossef funcționează ca un loc dedicat patrimoniului și rugăciunii evreiești în il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.792946,
+                        31.888126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Assyrian Fortress",
+                  "text": "The Assyrian Fortress is an ancient archaeological site situated in the Sorek Desalination region.",
+                  "category": "historical",
+                  "coords": [
+                        34.7649,
+                        31.975199
+                  ]
+            },
+            {
+                  "name": "Horbat Yavne Yam",
+                  "text": "Horbat Yavne Yam preserves notable ancient ruins in the Sorek Desalination area.",
+                  "category": "historical",
+                  "coords": [
+                        34.693318,
+                        31.922729
+                  ]
+            },
+            {
+                  "name": "Nabi Rubin",
+                  "text": "Nabi Rubin contains historic ruins and a shrine located in the Sorek Desalination region.",
+                  "category": "historical",
+                  "coords": [
+                        34.733638,
+                        31.929132
+                  ]
+            },
+            {
+                  "name": "Yibna Bridge",
+                  "text": "The Yibna Bridge is an intriguing archaeological site found in the Sorek Desalination area.",
+                  "category": "historical",
+                  "coords": [
+                        34.752284,
+                        31.86941
+                  ]
+            },
+            {
+                  "name": "Homra Hill",
+                  "text": "Homra Hill is a scenic peak located within the Sorek Desalination region.",
+                  "category": "natural",
+                  "coords": [
+                        34.743036,
+                        31.935131
+                  ]
+            },
+            {
+                  "name": "Gvaot Ha'Kurkar",
+                  "text": "Gvaot Ha'Kurkar is a national park featuring natural landscapes in the Sorek Desalination area.",
+                  "category": "park",
+                  "coords": [
+                        34.782387,
+                        31.93123
+                  ]
+            },
+            {
+                  "name": "Givat HaIrisim",
+                  "text": "Givat HaIrisim is a natural viewpoint offering lovely vistas in the Sorek Desalination region.",
+                  "category": "natural",
+                  "coords": [
+                        34.752303,
+                        31.933568
+                  ]
+            },
+            {
+                  "name": "Beit Rishonim",
+                  "text": "Beit Rishonim is a museum documenting early settlement history in the Sorek Desalination area.",
+                  "category": "museum",
+                  "coords": [
+                        34.795706,
+                        31.927119
+                  ]
+            },
+            {
+                  "name": "Machon Ayalon Museum",
+                  "text": "The Machon Ayalon Museum explores the history of a secret ammunition factory in the Sorek Desalination region.",
+                  "category": "museum",
+                  "coords": [
+                        34.809784,
+                        31.916147
+                  ]
+            },
+            {
+                  "name": "Bait Miriam",
+                  "text": "Bait Miriam is an intriguing museum situated in the Sorek Desalination area.",
+                  "category": "museum",
+                  "coords": [
+                        34.703881,
+                        31.934195
+                  ]
+            },
+            {
+                  "name": "Tel Mahoz",
+                  "text": "Tel Mahoz is an ancient archaeological site discovered in the Sorek Desalination region.",
+                  "category": "historical",
+                  "coords": [
+                        34.743395,
+                        31.919664
+                  ]
+            },
+            {
+                  "name": "Tel Yona",
+                  "text": "Tel Yona is a coastal archaeological site located in the Sorek Desalination area.",
+                  "category": "historical",
+                  "coords": [
+                        34.732546,
+                        31.996126
+                  ]
+            },
+            {
+                  "name": "Culture Center",
+                  "text": "The Culture Center is a local theatre serving the community in il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.796265,
+                        31.930748
+                  ]
+            },
+            {
+                  "name": "Tel Shalaf",
+                  "text": "Tel Shalaf offers an elevated viewpoint for visitors in il-sorek-desalination-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        34.768773,
+                        31.892637
+                  ]
+            },
+            {
+                  "name": "Superland",
+                  "text": "Superland is a popular theme park featuring various amusement rides in il-sorek-desalination-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        34.744318,
+                        31.97879
+                  ]
+            },
+            {
+                  "name": "Palmachim beach",
+                  "text": "Palmachim beach is a coastal recreational area located in il-sorek-desalination-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        34.696561,
+                        31.925784
+                  ]
+            },
+            {
+                  "name": "Ha'Bait Ha'Meshutaf",
+                  "text": "Ha'Bait Ha'Meshutaf is an exhibition space and museum in il-sorek-desalination-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        34.795791,
+                        31.924284
+                  ]
+            },
+            {
+                  "name": "Nahalat Reuven",
+                  "text": "Nahalat Reuven operates as a museum presenting local history in il-sorek-desalination-economic-v2.",
+                  "category": "museum",
+                  "coords": [
+                        34.796515,
+                        31.922463
+                  ]
+            },
+            {
+                  "name": "House of Abu Rizeq",
+                  "text": "The House of Abu Rizeq consists of historical ruins found within il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.799871,
+                        31.938733
+                  ]
+            },
+            {
+                  "name": "Gan HaBanim",
+                  "text": "Gan HaBanim is a memorial monument constructed in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.801829,
+                        31.901564
+                  ]
+            },
+            {
+                  "name": "Zarnuqa Mosque",
+                  "text": "The remains of the Zarnuqa Mosque are preserved as historical ruins in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.789605,
+                        31.879363
+                  ]
+            },
+            {
+                  "name": "Mamaluk minaret",
+                  "text": "The Mamaluk minaret is an ancient archaeological site situated in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.746937,
+                        31.865599
+                  ]
+            },
+            {
+                  "name": "House in Yibna",
+                  "text": "The House in Yibna features remnants of a former structure in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.748501,
+                        31.863526
+                  ]
+            },
+            {
+                  "name": "Abu-Nabut Sabil",
+                  "text": "Abu-Nabut Sabil is a recognized archaeological site accessible to visitors in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.77175,
+                        31.916052
+                  ]
+            },
+            {
+                  "name": "Tel Ya`oz",
+                  "text": "Tel Ya`oz marks the location of significant archaeological discoveries in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.724722,
+                        31.947222
+                  ]
+            },
+            {
+                  "name": "Old Quarry",
+                  "text": "The Old Quarry is preserved as an archaeological zone in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.712817,
+                        31.915859
+                  ]
+            },
+            {
+                  "name": "Pillbox",
+                  "text": "The Pillbox features ruins of an old fortification structure in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.75221,
+                        31.86711
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen in Israel's Wars",
+                  "text": "The Monument to the Fallen in Israel's Wars is a site of remembrance in il-sorek-desalination-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        34.740028,
+                        31.877186
+                  ]
+            },
+            {
+                  "name": "Yavne Cultural Hall",
+                  "text": "The Yavne Cultural Hall is a notable venue hosting theatrical performances in il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.734874,
+                        31.874399
+                  ]
+            },
+            {
+                  "name": "Live Park Rishon LeZion",
+                  "text": "Live Park Rishon LeZion functions as a major open-air theatre and events venue in il-sorek-desalination-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        34.741582,
+                        31.976331
+                  ]
+            },
+            {
+                  "name": "Turtles Island",
+                  "text": "Turtles Island is a unique wildlife-focused tourist attraction situated in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.721129,
+                        31.940004
+                  ]
+            },
+            {
+                  "name": "Shaarei Itzhak Synagogue",
+                  "text": "The Shaarei Itzhak Synagogue is a Jewish place of worship and community gathering in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786508,
+                        31.912816
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "This local Synagogue serves the Jewish community of il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.776063,
+                        31.892656
+                  ]
+            },
+            {
+                  "name": "Sha'arei Tzedek",
+                  "text": "Sha'arei Tzedek is a recognized Jewish religious site located in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.773913,
+                        31.891814
+                  ]
+            },
+            {
+                  "name": "Achduti",
+                  "text": "Achduti is a notable Jewish congregation or institution active in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.786169,
+                        31.888112
+                  ]
+            },
+            {
+                  "name": "Ohel Yossef",
+                  "text": "Ohel Yossef functions as a dedicated site of Jewish heritage and prayer in il-sorek-desalination-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        34.792946,
+                        31.888126
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-M",
     coords: [34.7081, 31.9333],
@@ -516,7 +8211,52 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-hadera-desalination-economic-v2",
+    id: "il-hadera-desalination-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Danny High",
+                  "text": "Dieser Freizeitpark an der Küste von Hadera bietet aufregende Fahrgeschäfte mit Blick auf die nahegelegene Meerwasserentsalzungsanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        34.896594,
+                        32.479196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Danny High",
+                  "text": "Ez a Hadera tengerpartján lévő vidámpark izgalmas attrakciókkal várja a látogatókat, ahonnan rálátni a közeli tengervíz-sótalanító üzemre.",
+                  "category": "recreational",
+                  "coords": [
+                        34.896594,
+                        32.479196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Danny High",
+                  "text": "Acest parc tematic de coastă din Hadera oferă atracții captivante cu vedere spre instalația din apropiere de desalinizare a apei de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        34.896594,
+                        32.479196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Danny High",
+                  "text": "This coastal theme park in Hadera features exciting amusement rides overlooking the nearby seawater desalination plant.",
+                  "category": "recreational",
+                  "coords": [
+                        34.896594,
+                        32.479196
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-HA",
     coords: [34.8822, 32.4700],
@@ -552,7 +8292,520 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-zin-mine-economic-v2",
+    id: "il-zin-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ein Akrabim",
+                  "text": "Wüstenquelle, die sich in der Nähe der Spitze des Skorpionspasses befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156122,
+                        30.890384
+                  ]
+            },
+            {
+                  "name": "Rogem Zafir",
+                  "text": "Kleines römisches Fort, das zur Bewachung des antiken Skorpion-Aufstiegs errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.129835,
+                        30.899269
+                  ]
+            },
+            {
+                  "name": "Mt. Golehan",
+                  "text": "Wüstengipfel mit Blick über das Zin-Tal und die Bergbaugebiete.",
+                  "category": "natural",
+                  "coords": [
+                        35.071788,
+                        30.89088
+                  ]
+            },
+            {
+                  "name": "Golchan Fall",
+                  "text": "Saisonaler Wüstenwasserfall, der bei winterlichen Regenfällen fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06358,
+                        30.914432
+                  ]
+            },
+            {
+                  "name": "Rogem Akrabim",
+                  "text": "Aussichtspunkt über den Serpentinen des historischen Passes.",
+                  "category": "natural",
+                  "coords": [
+                        35.113889,
+                        30.961111
+                  ]
+            },
+            {
+                  "name": "Medsad Tsafir",
+                  "text": "Antiker Verteidigungsposten, der die strategische Wüstenstraße bewachte.",
+                  "category": "historical",
+                  "coords": [
+                        35.108917,
+                        30.922169
+                  ]
+            },
+            {
+                  "name": "Maale Akrabim",
+                  "text": "Steiler, kurvenreicher Abschnitt der alten Straße mit 18 scharfen Haarnadelkurven.",
+                  "category": "natural",
+                  "coords": [
+                        35.131626,
+                        30.909054
+                  ]
+            },
+            {
+                  "name": "Mezad `Aqrabbim",
+                  "text": "Römische Ruinen einer kleinen Festung an der Spitze des Passes.",
+                  "category": "historical",
+                  "coords": [
+                        35.15,
+                        30.93
+                  ]
+            },
+            {
+                  "name": "Small Mahtesh Viewpoint",
+                  "text": "Aussichtspunkt in den Makhtesh Katan, einen seltenen geologischen Erosionskrater.",
+                  "category": "natural",
+                  "coords": [
+                        35.163086,
+                        30.939753
+                  ]
+            },
+            {
+                  "name": "Ashmada Gate",
+                  "text": "Natürliche Felsöffnung, die den schmalen Eingang zum Kleinen Krater bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220108,
+                        30.951113
+                  ]
+            },
+            {
+                  "name": "Colored Sand",
+                  "text": "Geologische Stätte im Krater mit Schichten aus natürlichem, buntem Sandstein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209671,
+                        30.956749
+                  ]
+            },
+            {
+                  "name": "Mt. Hazera",
+                  "text": "Gipfel am schroffen nördlichen Rand des Kleinen Kraters.",
+                  "category": "natural",
+                  "coords": [
+                        35.193639,
+                        31.006259
+                  ]
+            },
+            {
+                  "name": "Ma'ale Hatsera",
+                  "text": "Aussichtspunkt mit Blick auf den steilen Abstieg in das Arava-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        35.213933,
+                        30.995206
+                  ]
+            },
+            {
+                  "name": "Horbat Zafir",
+                  "text": "Ruinen einer römischen Station entlang des antiken Skorpionsweges.",
+                  "category": "historical",
+                  "coords": [
+                        35.117149,
+                        30.912162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ein Akrabim",
+                  "text": "Sivatagi forrás a skorpió-hágó felső szakaszának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156122,
+                        30.890384
+                  ]
+            },
+            {
+                  "name": "Rogem Zafir",
+                  "text": "Kis római erőd, amelyet az ókori skorpió-hágó védelmére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        35.129835,
+                        30.899269
+                  ]
+            },
+            {
+                  "name": "Mt. Golehan",
+                  "text": "Sivatagi hegycsúcs kilátással a Zin-völgyre és a bányaterületekre.",
+                  "category": "natural",
+                  "coords": [
+                        35.071788,
+                        30.89088
+                  ]
+            },
+            {
+                  "name": "Golchan Fall",
+                  "text": "Időszakos sivatagi vízesés, amely csak a téli esőzések idején látható.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06358,
+                        30.914432
+                  ]
+            },
+            {
+                  "name": "Rogem Akrabim",
+                  "text": "Magaslati pont, ahonnan rálátni a történelmi hágó hajtűkanyarjaira.",
+                  "category": "natural",
+                  "coords": [
+                        35.113889,
+                        30.961111
+                  ]
+            },
+            {
+                  "name": "Medsad Tsafir",
+                  "text": "Ókori védelmi bástya, amely a stratégiai fontosságú sivatagi utat őrizte.",
+                  "category": "historical",
+                  "coords": [
+                        35.108917,
+                        30.922169
+                  ]
+            },
+            {
+                  "name": "Maale Akrabim",
+                  "text": "A régi út meredek, kanyargós szakasza 18 éles hajtűkanyarral.",
+                  "category": "natural",
+                  "coords": [
+                        35.131626,
+                        30.909054
+                  ]
+            },
+            {
+                  "name": "Mezad `Aqrabbim",
+                  "text": "Egy kis római erőd romjai a hágó tetején.",
+                  "category": "historical",
+                  "coords": [
+                        35.15,
+                        30.93
+                  ]
+            },
+            {
+                  "name": "Small Mahtesh Viewpoint",
+                  "text": "Kilátópont a Makhtesh Katanra, amely egy ritka geológiai eróziós kráter.",
+                  "category": "natural",
+                  "coords": [
+                        35.163086,
+                        30.939753
+                  ]
+            },
+            {
+                  "name": "Ashmada Gate",
+                  "text": "Természetes sziklakapu, amely a Kis-kráter szűk bejáratát alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220108,
+                        30.951113
+                  ]
+            },
+            {
+                  "name": "Colored Sand",
+                  "text": "Geológiai lelőhely a kráterben, természetes színes homokkőrétegekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209671,
+                        30.956749
+                  ]
+            },
+            {
+                  "name": "Mt. Hazera",
+                  "text": "Hegycsúcs a Kis-kráter szaggatott északi peremén.",
+                  "category": "natural",
+                  "coords": [
+                        35.193639,
+                        31.006259
+                  ]
+            },
+            {
+                  "name": "Ma'ale Hatsera",
+                  "text": "Kilátópont, ahonnan panoráma nyílik az Arava-völgybe vezető meredek útra.",
+                  "category": "natural",
+                  "coords": [
+                        35.213933,
+                        30.995206
+                  ]
+            },
+            {
+                  "name": "Horbat Zafir",
+                  "text": "Római állomás romjai az ókori Skorpió-út mentén.",
+                  "category": "historical",
+                  "coords": [
+                        35.117149,
+                        30.912162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ein Akrabim",
+                  "text": "Izvor de deșert situat lângă partea superioară a Pasului Scorpionilor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156122,
+                        30.890384
+                  ]
+            },
+            {
+                  "name": "Rogem Zafir",
+                  "text": "Mic fort roman construit pentru a pazi vechea urcare a Scorpionilor.",
+                  "category": "historical",
+                  "coords": [
+                        35.129835,
+                        30.899269
+                  ]
+            },
+            {
+                  "name": "Mt. Golehan",
+                  "text": "Vârf de deșert ce oferă vedere peste valea Zin și zonele miniere.",
+                  "category": "natural",
+                  "coords": [
+                        35.071788,
+                        30.89088
+                  ]
+            },
+            {
+                  "name": "Golchan Fall",
+                  "text": "Cascadă de deșert sezonieră care curge în timpul ploilor de iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06358,
+                        30.914432
+                  ]
+            },
+            {
+                  "name": "Rogem Akrabim",
+                  "text": "Punct înalt ce domină curbele în zig-zag ale pasului istoric.",
+                  "category": "natural",
+                  "coords": [
+                        35.113889,
+                        30.961111
+                  ]
+            },
+            {
+                  "name": "Medsad Tsafir",
+                  "text": "Avanpost defensiv antic care păzea drumul strategic prin deșert.",
+                  "category": "historical",
+                  "coords": [
+                        35.108917,
+                        30.922169
+                  ]
+            },
+            {
+                  "name": "Maale Akrabim",
+                  "text": "Secțiune abruptă și șerpuitoare a vechiului drum, cu 18 curbe strânse.",
+                  "category": "natural",
+                  "coords": [
+                        35.131626,
+                        30.909054
+                  ]
+            },
+            {
+                  "name": "Mezad `Aqrabbim",
+                  "text": "Ruinele romane ale unei mici cetăți în vârful pasului.",
+                  "category": "historical",
+                  "coords": [
+                        35.15,
+                        30.93
+                  ]
+            },
+            {
+                  "name": "Small Mahtesh Viewpoint",
+                  "text": "Punct de observație în Makhtesh Katan, un crater de eroziune geologică rar.",
+                  "category": "natural",
+                  "coords": [
+                        35.163086,
+                        30.939753
+                  ]
+            },
+            {
+                  "name": "Ashmada Gate",
+                  "text": "Deschidere naturală în stâncă ce formează intrarea îngustă în Micul Crater.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220108,
+                        30.951113
+                  ]
+            },
+            {
+                  "name": "Colored Sand",
+                  "text": "Sit geologic în interiorul craterului, cu straturi de gresie colorată natural.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209671,
+                        30.956749
+                  ]
+            },
+            {
+                  "name": "Mt. Hazera",
+                  "text": "Vârf situat pe marginea nordică accidentată a Micului Crater.",
+                  "category": "natural",
+                  "coords": [
+                        35.193639,
+                        31.006259
+                  ]
+            },
+            {
+                  "name": "Ma'ale Hatsera",
+                  "text": "Punct de observație pitoresc cu vedere spre coborârea abruptă în Valea Arava.",
+                  "category": "natural",
+                  "coords": [
+                        35.213933,
+                        30.995206
+                  ]
+            },
+            {
+                  "name": "Horbat Zafir",
+                  "text": "Ruinele unei stații romane de-a lungul vechiului Drum al Scorpionilor.",
+                  "category": "historical",
+                  "coords": [
+                        35.117149,
+                        30.912162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ein Akrabim",
+                  "text": "Desert spring located near the top of the Scorpions Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156122,
+                        30.890384
+                  ]
+            },
+            {
+                  "name": "Rogem Zafir",
+                  "text": "Small Roman fort built to guard the ancient Scorpion's ascent.",
+                  "category": "historical",
+                  "coords": [
+                        35.129835,
+                        30.899269
+                  ]
+            },
+            {
+                  "name": "Mt. Golehan",
+                  "text": "Desert summit offering views over the Zin valley and mining areas.",
+                  "category": "natural",
+                  "coords": [
+                        35.071788,
+                        30.89088
+                  ]
+            },
+            {
+                  "name": "Golchan Fall",
+                  "text": "Seasonal desert waterfall that flows during winter rain events.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06358,
+                        30.914432
+                  ]
+            },
+            {
+                  "name": "Rogem Akrabim",
+                  "text": "High point overlooking the zig-zagging curves of the historic pass.",
+                  "category": "natural",
+                  "coords": [
+                        35.113889,
+                        30.961111
+                  ]
+            },
+            {
+                  "name": "Medsad Tsafir",
+                  "text": "Ancient defensive outpost guarding the strategic desert road.",
+                  "category": "historical",
+                  "coords": [
+                        35.108917,
+                        30.922169
+                  ]
+            },
+            {
+                  "name": "Maale Akrabim",
+                  "text": "Steep, winding section of the old road with 18 sharp hairpin bends.",
+                  "category": "natural",
+                  "coords": [
+                        35.131626,
+                        30.909054
+                  ]
+            },
+            {
+                  "name": "Mezad `Aqrabbim",
+                  "text": "Roman ruins of a small fortress at the top of the pass.",
+                  "category": "historical",
+                  "coords": [
+                        35.15,
+                        30.93
+                  ]
+            },
+            {
+                  "name": "Small Mahtesh Viewpoint",
+                  "text": "Overlook into the Makhtesh Katan, a rare geological erosion crater.",
+                  "category": "natural",
+                  "coords": [
+                        35.163086,
+                        30.939753
+                  ]
+            },
+            {
+                  "name": "Ashmada Gate",
+                  "text": "Natural rock opening forming the narrow entrance to the Small Crater.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220108,
+                        30.951113
+                  ]
+            },
+            {
+                  "name": "Colored Sand",
+                  "text": "Geological site within the crater featuring layers of natural multi-colored sandstone.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209671,
+                        30.956749
+                  ]
+            },
+            {
+                  "name": "Mt. Hazera",
+                  "text": "Peak situated on the rugged northern rim of the Small Crater.",
+                  "category": "natural",
+                  "coords": [
+                        35.193639,
+                        31.006259
+                  ]
+            },
+            {
+                  "name": "Ma'ale Hatsera",
+                  "text": "Scenic viewpoint overlooking the steep descent into the Arava valley.",
+                  "category": "natural",
+                  "coords": [
+                        35.213933,
+                        30.995206
+                  ]
+            },
+            {
+                  "name": "Horbat Zafir",
+                  "text": "Ruined Roman station along the ancient \"Way of the Scorpions.\"",
+                  "category": "historical",
+                  "coords": [
+                        35.117149,
+                        30.912162
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "IL-D",
     coords: [35.1500, 30.9333],
@@ -588,7 +8841,1024 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-ashkelon-terminal-economic-v2",
+    id: "il-ashkelon-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman Baziliqa",
+                  "text": "Die eindrucksvollen Ruinen einer römischen Gerichtsbasilika mit rekonstruierten Marmorsäulen und Statuen.",
+                  "category": "historical",
+                  "coords": [
+                        34.547943,
+                        31.662411
+                  ]
+            },
+            {
+                  "name": "Tel Ashqelon",
+                  "text": "Ein hoher Aussichtspunkt auf einem antiken Hügel, der einen Panoramablick über das Mittelmeer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.533325,
+                        31.650002
+                  ]
+            },
+            {
+                  "name": "Canaanite city gate",
+                  "text": "Das älteste gewölbte Stadttor der Welt, das fast 4.000 Jahre alt ist und aus Lehmziegeln erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        34.548744,
+                        31.667601
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut",
+                  "text": "Ashkelons wichtigstes Kulturzentrum, in dem regelmäßig Theateraufführungen, Konzerte und Musikabende stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        34.562022,
+                        31.664767
+                  ]
+            },
+            {
+                  "name": "Sarcophagus courtyard, Afridar",
+                  "text": "Ein archäologischer Außenbereich, in dem kunstvoll verzierte römische Steinsarkophage ausgestellt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568613,
+                        31.673433
+                  ]
+            },
+            {
+                  "name": "Tombs from the Roman period",
+                  "text": "Antike unterirdische Grabkammern aus der Römerzeit, die mit Fresken und feinen Steinmetzarbeiten verziert sind.",
+                  "category": "historical",
+                  "coords": [
+                        34.557637,
+                        31.678666
+                  ]
+            },
+            {
+                  "name": "Skate park",
+                  "text": "Eine moderne Freizeitanlage mit verschiedenen Rampen und Betonbahnen für Skater und BMX-Fahrer.",
+                  "category": "landmark",
+                  "coords": [
+                        34.553623,
+                        31.676735
+                  ]
+            },
+            {
+                  "name": "Abandoned Muslim cemetery",
+                  "text": "Ein historischer Friedhof des ehemaligen Dorfes Majdal mit verwitterten Grabsteinen aus vergangener Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        34.583559,
+                        31.670389
+                  ]
+            },
+            {
+                  "name": "Hamama",
+                  "text": "Diese Fundstätte an der Küste zeigt archäologische Überreste und Mauerruinen eines einstigen Dorfes.",
+                  "category": "historical",
+                  "coords": [
+                        34.591601,
+                        31.693313
+                  ]
+            },
+            {
+                  "name": "Santa Maria Viriduse church",
+                  "text": "Überreste einer mittelalterlichen Kreuzfahrerkirche, die sich innerhalb des Ashkelon-Nationalparks befinden.",
+                  "category": "historical",
+                  "coords": [
+                        34.549997,
+                        31.662609
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein großes Freilufttheater im Nationalpark, das als Veranstaltungsort für moderne Konzerte und Shows dient.",
+                  "category": "cultural",
+                  "coords": [
+                        34.54659,
+                        31.659827
+                  ]
+            },
+            {
+                  "name": "Ashkeluna",
+                  "text": "Ein beliebter Familien-Wasserpark direkt an der Küste mit verschiedenen Rutschen und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        34.554189,
+                        31.672629
+                  ]
+            },
+            {
+                  "name": "Ashkelon Marina",
+                  "text": "Ein lebhafter Yachthafen mit Anlegeplätzen, Restaurants am Wasser und einer beliebten Promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.555537,
+                        31.68219
+                  ]
+            },
+            {
+                  "name": "Grave of Sheikh 'Awwad",
+                  "text": "Ein historisches Grabmal aus der Mamluken-Zeit, das auf einer Klippe über dem nördlichen Strand von Ashkelon liegt.",
+                  "category": "historical",
+                  "coords": [
+                        34.563089,
+                        31.687592
+                  ]
+            },
+            {
+                  "name": "Byzantine Church",
+                  "text": "Die ausgegrabenen Fundamente einer frühchristlichen Kirche mit erhaltenen Fragmenten von Bodenmosaiken.",
+                  "category": "historical",
+                  "coords": [
+                        34.567529,
+                        31.686703
+                  ]
+            },
+            {
+                  "name": "Ohel Moshe",
+                  "text": "Eine traditionelle Synagoge, die der örtlichen jüdischen Gemeinde als Ort des Gebets und der Besinnung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560806,
+                        31.658815
+                  ]
+            },
+            {
+                  "name": "Shevut Yisra'el",
+                  "text": "Eine zentrale Synagoge in Afridar, die 1959 mit Unterstützung der südafrikanischen jüdischen Gemeinde erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.577369,
+                        31.662608
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Ein lokales jüdisches Gebetshaus, das den Bewohnern der Küstenstadt Aschkelon dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568826,
+                        31.658307
+                  ]
+            },
+            {
+                  "name": "Maqam al-Nabi Hussein",
+                  "text": "Eine schiitische Gebetsplattform am Standort eines fatimidischen Heiligtums aus dem 11. Jahrhundert im Barzilai Medical Center.",
+                  "category": "landmark",
+                  "coords": [
+                        34.559283,
+                        31.66041
+                  ]
+            },
+            {
+                  "name": "Ramat Kramim Synagogue",
+                  "text": "Ein modernes jüdisches Gotteshaus im wachsenden Viertel Ramat Keramim in Aschkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.580416,
+                        31.694576
+                  ]
+            },
+            {
+                  "name": "Sod HaShabat",
+                  "text": "Eine jüdische Nachbarschaftssynagoge, die religiöse Dienste und Gemeinschaftsunterstützung in Aschkelon anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.557301,
+                        31.669951
+                  ]
+            },
+            {
+                  "name": "Magen Avraham",
+                  "text": "Eine orthodoxe jüdische Synagoge im Stadtteil HaCity von Aschkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.5582,
+                        31.668663
+                  ]
+            },
+            {
+                  "name": "Pe'er Israel",
+                  "text": "Eine Gemeindesynagoge in der HaKikayon-Straße im etablierten Viertel Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567344,
+                        31.667651
+                  ]
+            },
+            {
+                  "name": "Mishkan Paz",
+                  "text": "Eine Nachbarschaftssynagoge in der HaPardes-Straße im grünen Wohnviertel Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560709,
+                        31.669842
+                  ]
+            },
+            {
+                  "name": "Yad Amos - Sinai",
+                  "text": "Ein jüdisches Gebetshaus, das mit der Sinai-Schule im Viertel Afridar in Aschkelon verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567294,
+                        31.67167
+                  ]
+            },
+            {
+                  "name": "Afridar Central Synagogue",
+                  "text": "Ein bedeutendes religiöses Wahrzeichen und zentraler Gemeinschaftsknotenpunkt im historischen Viertel Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.566845,
+                        31.677413
+                  ]
+            },
+            {
+                  "name": "Mishkan Bekhor",
+                  "text": "Ein jüdisches Gotteshaus für die Anwohner des Viertels Afridar in der HaShayetet-Straße.",
+                  "category": "landmark",
+                  "coords": [
+                        34.561945,
+                        31.676555
+                  ]
+            },
+            {
+                  "name": "Ohel Mo'ed",
+                  "text": "Eine historische Synagoge, die der lokalen Gemeinschaft im Viertel Migdal in Aschkelon dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.585411,
+                        31.663711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman Baziliqa",
+                  "text": "Egy római törvényszéki bazilika lenyűgöző romjai rekonstruált márványoszlopokkal és szobrokkal.",
+                  "category": "historical",
+                  "coords": [
+                        34.547943,
+                        31.662411
+                  ]
+            },
+            {
+                  "name": "Tel Ashqelon",
+                  "text": "Egy ókori dombon lévő magaslati kilátópont, amely panorámás kilátást nyújt a Földközi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        34.533325,
+                        31.650002
+                  ]
+            },
+            {
+                  "name": "Canaanite city gate",
+                  "text": "A világ legrégebbi boltíves városkapuja, amely közel 4000 éves és vályogtéglából épült.",
+                  "category": "historical",
+                  "coords": [
+                        34.548744,
+                        31.667601
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut",
+                  "text": "Ashkelon legfontosabb kulturális központja, ahol rendszeresen tartanak színházi előadásokat és koncerteket.",
+                  "category": "cultural",
+                  "coords": [
+                        34.562022,
+                        31.664767
+                  ]
+            },
+            {
+                  "name": "Sarcophagus courtyard, Afridar",
+                  "text": "Egy szabadtéri régészeti bemutatóhely, ahol díszesen faragott római kőszarkofágok láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568613,
+                        31.673433
+                  ]
+            },
+            {
+                  "name": "Tombs from the Roman period",
+                  "text": "Római kori, föld alatti sírkamrák, amelyeket freskók és finom kőfaragások díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        34.557637,
+                        31.678666
+                  ]
+            },
+            {
+                  "name": "Skate park",
+                  "text": "Modern szabadidős létesítmény különféle rámpákkal és betonpályákkal deszkások és BMX-esek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.553623,
+                        31.676735
+                  ]
+            },
+            {
+                  "name": "Abandoned Muslim cemetery",
+                  "text": "Az egykori Majdal falu történelmi temetője, a múltból fennmaradt, megkopott sírkövekkel.",
+                  "category": "historical",
+                  "coords": [
+                        34.583559,
+                        31.670389
+                  ]
+            },
+            {
+                  "name": "Hamama",
+                  "text": "Ez a tengerparti lelőhely egy egykori falu régészeti maradványait és falromjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        34.591601,
+                        31.693313
+                  ]
+            },
+            {
+                  "name": "Santa Maria Viriduse church",
+                  "text": "Egy középkori keresztes templom maradványai, amelyek az Ashkelon Nemzeti Park területén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        34.549997,
+                        31.662609
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "A nemzeti parkban található nagy szabadtéri színház, amely modern koncertek és előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        34.54659,
+                        31.659827
+                  ]
+            },
+            {
+                  "name": "Ashkeluna",
+                  "text": "Népszerű családi vízipark közvetlenül a tengerparton, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        34.554189,
+                        31.672629
+                  ]
+            },
+            {
+                  "name": "Ashkelon Marina",
+                  "text": "Élénk jachtkikötő horgonyzóhelyekkel, vízparti éttermekkel és népszerű sétánnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        34.555537,
+                        31.68219
+                  ]
+            },
+            {
+                  "name": "Grave of Sheikh 'Awwad",
+                  "text": "Egy történelmi mamlúk síremlék, amely Ashkelon északi strandja feletti sziklán található.",
+                  "category": "historical",
+                  "coords": [
+                        34.563089,
+                        31.687592
+                  ]
+            },
+            {
+                  "name": "Byzantine Church",
+                  "text": "Egy kora keresztény templom feltárt alapjai, padlómozaikok fennmaradt töredékeivel.",
+                  "category": "historical",
+                  "coords": [
+                        34.567529,
+                        31.686703
+                  ]
+            },
+            {
+                  "name": "Ohel Moshe",
+                  "text": "Hagyományos zsinagóga, amely a helyi zsidó közösség imádságának és elcsendesedésének helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560806,
+                        31.658815
+                  ]
+            },
+            {
+                  "name": "Shevut Yisra'el",
+                  "text": "Központi zsinagóga Afridarban, amely 1959-ben épült a dél-afrikai zsidó közösség támogatásával.",
+                  "category": "landmark",
+                  "coords": [
+                        34.577369,
+                        31.662608
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Helyi zsidó imaház, amely Askelón tengerparti városának lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568826,
+                        31.658307
+                  ]
+            },
+            {
+                  "name": "Maqam al-Nabi Hussein",
+                  "text": "Síita imaplatform egy 11. századi fátimida szentély helyén, a Barzilai Orvosi Központ területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.559283,
+                        31.66041
+                  ]
+            },
+            {
+                  "name": "Ramat Kramim Synagogue",
+                  "text": "Modern zsidó imaház Askelón növekvő Ramat Keramim negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.580416,
+                        31.694576
+                  ]
+            },
+            {
+                  "name": "Sod HaShabat",
+                  "text": "Környékbeli zsidó zsinagóga, amely vallási szolgáltatásokat és közösségi támogatást nyújt Askelónban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.557301,
+                        31.669951
+                  ]
+            },
+            {
+                  "name": "Magen Avraham",
+                  "text": "Ortodox zsidó zsinagóga Askelón HaCity városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.5582,
+                        31.668663
+                  ]
+            },
+            {
+                  "name": "Pe'er Israel",
+                  "text": "Közösségi zsinagóga a HaKikayon utcában, a nagy múltú Afridar negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567344,
+                        31.667651
+                  ]
+            },
+            {
+                  "name": "Mishkan Paz",
+                  "text": "Környékbeli zsinagóga a HaPardes utcában, Afridar fás szárú lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560709,
+                        31.669842
+                  ]
+            },
+            {
+                  "name": "Yad Amos - Sinai",
+                  "text": "A Sinai iskolához kapcsolódó zsidó imaház Askelón Afridar negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567294,
+                        31.67167
+                  ]
+            },
+            {
+                  "name": "Afridar Central Synagogue",
+                  "text": "Kiemelkedő vallási látnivaló és központi közösségi csomópont a történelmi Afridar negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.566845,
+                        31.677413
+                  ]
+            },
+            {
+                  "name": "Mishkan Bekhor",
+                  "text": "Zsidó imaház az Afridar negyed lakói számára a HaShayetet utcában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.561945,
+                        31.676555
+                  ]
+            },
+            {
+                  "name": "Ohel Mo'ed",
+                  "text": "Történelmi zsinagóga, amely a helyi közösséget szolgálja Askelón Migdal negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.585411,
+                        31.663711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman Baziliqa",
+                  "text": "Ruinele impresionante ale unei basilici judiciare romane, cu coloane de marmură și statui reconstruite.",
+                  "category": "historical",
+                  "coords": [
+                        34.547943,
+                        31.662411
+                  ]
+            },
+            {
+                  "name": "Tel Ashqelon",
+                  "text": "Un punct de observație înalt pe un tumul antic, care oferă o vedere panoramică asupra Marii Mediterane.",
+                  "category": "natural",
+                  "coords": [
+                        34.533325,
+                        31.650002
+                  ]
+            },
+            {
+                  "name": "Canaanite city gate",
+                  "text": "Cea mai veche poartă arcuită din lume, veche de aproape 4.000 de ani și construită din cărămizi de lut.",
+                  "category": "historical",
+                  "coords": [
+                        34.548744,
+                        31.667601
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut",
+                  "text": "Cel mai important centru cultural din Ashkelon, unde au loc regulat spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        34.562022,
+                        31.664767
+                  ]
+            },
+            {
+                  "name": "Sarcophagus courtyard, Afridar",
+                  "text": "O zonă arheologică în aer liber unde sunt expuse sarcofage romane din piatră, sculptate cu măiestrie.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568613,
+                        31.673433
+                  ]
+            },
+            {
+                  "name": "Tombs from the Roman period",
+                  "text": "Camere funerare subterane din perioada romană, decorate cu fresce și sculpturi fine în piatră.",
+                  "category": "historical",
+                  "coords": [
+                        34.557637,
+                        31.678666
+                  ]
+            },
+            {
+                  "name": "Skate park",
+                  "text": "O facilitate modernă de recreere cu diverse rampe și piste de beton pentru skateri și bicicliști BMX.",
+                  "category": "landmark",
+                  "coords": [
+                        34.553623,
+                        31.676735
+                  ]
+            },
+            {
+                  "name": "Abandoned Muslim cemetery",
+                  "text": "Un cimitir istoric al fostului sat Majdal, cu pietre funerare erodate de timp din vremuri trecute.",
+                  "category": "historical",
+                  "coords": [
+                        34.583559,
+                        31.670389
+                  ]
+            },
+            {
+                  "name": "Hamama",
+                  "text": "Acest sit de pe coastă prezintă rămășițe arheologice și ruine de ziduri ale unui fost sat.",
+                  "category": "historical",
+                  "coords": [
+                        34.591601,
+                        31.693313
+                  ]
+            },
+            {
+                  "name": "Santa Maria Viriduse church",
+                  "text": "Rămășițele unei biserici medievale a cruciaților, situate în interiorul Parcului Național Ashkelon.",
+                  "category": "historical",
+                  "coords": [
+                        34.549997,
+                        31.662609
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Un teatru mare în aer liber în parcul național, care servește drept loc de desfășurare pentru concerte și spectacole moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        34.54659,
+                        31.659827
+                  ]
+            },
+            {
+                  "name": "Ashkeluna",
+                  "text": "Un parc acvatic popular pentru familii, chiar pe coastă, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        34.554189,
+                        31.672629
+                  ]
+            },
+            {
+                  "name": "Ashkelon Marina",
+                  "text": "Un port de agrement plin de viață, cu locuri de acostare pentru iahturi, restaurante pe malul apei și o faleză populară.",
+                  "category": "landmark",
+                  "coords": [
+                        34.555537,
+                        31.68219
+                  ]
+            },
+            {
+                  "name": "Grave of Sheikh 'Awwad",
+                  "text": "Un mormânt istoric din perioada mamelucă, situat pe o faleză deasupra plajei de nord a orașului Ashkelon.",
+                  "category": "historical",
+                  "coords": [
+                        34.563089,
+                        31.687592
+                  ]
+            },
+            {
+                  "name": "Byzantine Church",
+                  "text": "Fundațiile excavate ale unei biserici creștine timpurii, cu fragmente păstrate de mozaicuri pavimentare.",
+                  "category": "historical",
+                  "coords": [
+                        34.567529,
+                        31.686703
+                  ]
+            },
+            {
+                  "name": "Ohel Moshe",
+                  "text": "O sinagogă tradițională care servește comunității evreiești locale ca loc de rugăciune și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560806,
+                        31.658815
+                  ]
+            },
+            {
+                  "name": "Shevut Yisra'el",
+                  "text": "O sinagogă centrală din Afridar, construită în 1959 cu sprijinul comunității evreiești din Africa de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        34.577369,
+                        31.662608
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "O casă locală de rugăciune evreiască ce deservește locuitorii orașului de coastă Ascalon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568826,
+                        31.658307
+                  ]
+            },
+            {
+                  "name": "Maqam al-Nabi Hussein",
+                  "text": "O platformă de rugăciune șiită pe locul unui altar fatimid din secolul al XI-lea, situată în cadrul Centrului Medical Barzilai.",
+                  "category": "landmark",
+                  "coords": [
+                        34.559283,
+                        31.66041
+                  ]
+            },
+            {
+                  "name": "Ramat Kramim Synagogue",
+                  "text": "Un lăcaș de cult evreiesc modern situat în cartierul în plină dezvoltare Ramat Keramim din Ascalon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.580416,
+                        31.694576
+                  ]
+            },
+            {
+                  "name": "Sod HaShabat",
+                  "text": "O sinagogă evreiască de cartier care oferă servicii religioase și sprijin comunitar în Ascalon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.557301,
+                        31.669951
+                  ]
+            },
+            {
+                  "name": "Magen Avraham",
+                  "text": "O sinagogă evreiască ortodoxă situată în districtul HaCity din Ascalon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.5582,
+                        31.668663
+                  ]
+            },
+            {
+                  "name": "Pe'er Israel",
+                  "text": "O sinagogă comunitară situată pe strada HaKikayon în cartierul consacrat Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567344,
+                        31.667651
+                  ]
+            },
+            {
+                  "name": "Mishkan Paz",
+                  "text": "O sinagogă de cartier pe strada HaPardes în districtul rezidențial plin de verdeață Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560709,
+                        31.669842
+                  ]
+            },
+            {
+                  "name": "Yad Amos - Sinai",
+                  "text": "O casă de rugăciune evreiască asociată cu școala Sinai din cartierul Afridar din Ascalon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567294,
+                        31.67167
+                  ]
+            },
+            {
+                  "name": "Afridar Central Synagogue",
+                  "text": "Un reper religios proeminent și un centru comunitar central în districtul istoric Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.566845,
+                        31.677413
+                  ]
+            },
+            {
+                  "name": "Mishkan Bekhor",
+                  "text": "Un lăcaș de cult evreiesc care deservește locuitorii din cartierul Afridar, pe strada HaShayetet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.561945,
+                        31.676555
+                  ]
+            },
+            {
+                  "name": "Ohel Mo'ed",
+                  "text": "O sinagogă istorică ce deservește comunitatea locală din cartierul Migdal din Ascalon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.585411,
+                        31.663711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Baziliqa",
+                  "text": "The impressive ruins of a Roman judicial basilica featuring reconstructed marble columns and statues.",
+                  "category": "historical",
+                  "coords": [
+                        34.547943,
+                        31.662411
+                  ]
+            },
+            {
+                  "name": "Tel Ashqelon",
+                  "text": "A high viewpoint atop an ancient mound offering panoramic views over the Mediterranean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        34.533325,
+                        31.650002
+                  ]
+            },
+            {
+                  "name": "Canaanite city gate",
+                  "text": "The oldest mudbrick arched city gate in the world, dating back nearly 4,000 years to the Canaanite period.",
+                  "category": "historical",
+                  "coords": [
+                        34.548744,
+                        31.667601
+                  ]
+            },
+            {
+                  "name": "Heichal HaTarbut",
+                  "text": "Ashkelon's primary cultural center, hosting regular theatrical performances, concerts, and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        34.562022,
+                        31.664767
+                  ]
+            },
+            {
+                  "name": "Sarcophagus courtyard, Afridar",
+                  "text": "An outdoor archaeological display area featuring ornately carved Roman-era stone sarcophagi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568613,
+                        31.673433
+                  ]
+            },
+            {
+                  "name": "Tombs from the Roman period",
+                  "text": "Ancient underground burial chambers from the Roman period decorated with frescoes and fine stonework.",
+                  "category": "historical",
+                  "coords": [
+                        34.557637,
+                        31.678666
+                  ]
+            },
+            {
+                  "name": "Skate park",
+                  "text": "A modern recreational facility featuring various ramps and concrete bowls for skaters and BMX riders.",
+                  "category": "landmark",
+                  "coords": [
+                        34.553623,
+                        31.676735
+                  ]
+            },
+            {
+                  "name": "Abandoned Muslim cemetery",
+                  "text": "A historical cemetery of the former village of Majdal, featuring weathered tombstones from the past.",
+                  "category": "historical",
+                  "coords": [
+                        34.583559,
+                        31.670389
+                  ]
+            },
+            {
+                  "name": "Hamama",
+                  "text": "This coastal site displays archaeological remains and wall ruins of a former seaside village.",
+                  "category": "historical",
+                  "coords": [
+                        34.591601,
+                        31.693313
+                  ]
+            },
+            {
+                  "name": "Santa Maria Viriduse church",
+                  "text": "Remains of a medieval Crusader church located within the grounds of the Ashkelon National Park.",
+                  "category": "historical",
+                  "coords": [
+                        34.549997,
+                        31.662609
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "A large open-air theater in the national park used as a venue for modern concerts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.54659,
+                        31.659827
+                  ]
+            },
+            {
+                  "name": "Ashkeluna",
+                  "text": "A popular family water park right on the coast, featuring various slides and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        34.554189,
+                        31.672629
+                  ]
+            },
+            {
+                  "name": "Ashkelon Marina",
+                  "text": "A lively marina with yacht berths, seaside restaurants, and a popular walking promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.555537,
+                        31.68219
+                  ]
+            },
+            {
+                  "name": "Grave of Sheikh 'Awwad",
+                  "text": "A historic Mamluk-era tomb situated on a cliff overlooking the northern beach of Ashkelon.",
+                  "category": "historical",
+                  "coords": [
+                        34.563089,
+                        31.687592
+                  ]
+            },
+            {
+                  "name": "Byzantine Church",
+                  "text": "The excavated foundations of an early Christian church featuring preserved fragments of floor mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        34.567529,
+                        31.686703
+                  ]
+            },
+            {
+                  "name": "Ohel Moshe",
+                  "text": "A traditional synagogue serving the local Jewish community as a place for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560806,
+                        31.658815
+                  ]
+            },
+            {
+                  "name": "Shevut Yisra'el",
+                  "text": "A central Afridar synagogue built in 1959 with support from the South African Jewish community.",
+                  "category": "landmark",
+                  "coords": [
+                        34.577369,
+                        31.662608
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "A local Jewish house of prayer serving the residents of the coastal city of Ashkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.568826,
+                        31.658307
+                  ]
+            },
+            {
+                  "name": "Maqam al-Nabi Hussein",
+                  "text": "A Shi'ite prayer platform on the site of an 11th-century Fatimid shrine, located within Barzilai Medical Center.",
+                  "category": "landmark",
+                  "coords": [
+                        34.559283,
+                        31.66041
+                  ]
+            },
+            {
+                  "name": "Ramat Kramim Synagogue",
+                  "text": "A modern Jewish house of worship located in the growing Ramat Keramim neighborhood of Ashkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.580416,
+                        31.694576
+                  ]
+            },
+            {
+                  "name": "Sod HaShabat",
+                  "text": "A neighborhood Jewish synagogue offering religious services and community support in Ashkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.557301,
+                        31.669951
+                  ]
+            },
+            {
+                  "name": "Magen Avraham",
+                  "text": "An Orthodox Jewish synagogue located in the Ashkelon City district, known locally as HaCity.",
+                  "category": "landmark",
+                  "coords": [
+                        34.5582,
+                        31.668663
+                  ]
+            },
+            {
+                  "name": "Pe'er Israel",
+                  "text": "A community synagogue situated on HaKikayon Street in the established Afridar neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567344,
+                        31.667651
+                  ]
+            },
+            {
+                  "name": "Mishkan Paz",
+                  "text": "A neighborhood synagogue on HaPardes Street in the leafy residential district of Afridar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.560709,
+                        31.669842
+                  ]
+            },
+            {
+                  "name": "Yad Amos - Sinai",
+                  "text": "A Jewish house of prayer associated with the Sinai school in the Afridar neighborhood of Ashkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.567294,
+                        31.67167
+                  ]
+            },
+            {
+                  "name": "Afridar Central Synagogue",
+                  "text": "A prominent religious landmark and central community hub in the historic Afridar district.",
+                  "category": "landmark",
+                  "coords": [
+                        34.566845,
+                        31.677413
+                  ]
+            },
+            {
+                  "name": "Mishkan Bekhor",
+                  "text": "A Jewish house of worship serving the local residents of the Afridar neighborhood on HaShayetet Street.",
+                  "category": "landmark",
+                  "coords": [
+                        34.561945,
+                        31.676555
+                  ]
+            },
+            {
+                  "name": "Ohel Mo'ed",
+                  "text": "A historic synagogue serving the local community in the Migdal neighborhood of Ashkelon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.585411,
+                        31.663711
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "IL-D",
     coords: [34.5167, 31.6333],
@@ -624,7 +9894,124 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-osem-sderot-economic-v2",
+    id: "il-osem-sderot-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mikveh",
+                  "text": "Ein rituelles Tauchbad (Mikwe) in Sderot, das für die religiösen Reinheitsrituale der jüdischen Gemeinde genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        34.601517,
+                        31.527183
+                  ]
+            },
+            {
+                  "name": "Mishkan Shalom Synagogue",
+                  "text": "Eine moderne Synagoge in Sderot, die als religiöses Zentrum für die örtliche jüdische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.586486,
+                        31.529793
+                  ]
+            },
+            {
+                  "name": "City Market",
+                  "text": "Ein lebhafter lokaler Markt, auf dem frische Produkte und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        34.595043,
+                        31.522549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mikveh",
+                  "text": "Rituális fürdő (Mikve) Szderótban, amelyet a zsidó közösség vallási tisztasági rítusaihoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        34.601517,
+                        31.527183
+                  ]
+            },
+            {
+                  "name": "Mishkan Shalom Synagogue",
+                  "text": "Sderot modern zsinagógája, amely a helyi zsidó közösség vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.586486,
+                        31.529793
+                  ]
+            },
+            {
+                  "name": "City Market",
+                  "text": "Nyüzsgő helyi piac, ahol friss termékeket és mindennapi árucikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        34.595043,
+                        31.522549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mikveh",
+                  "text": "O baie rituală (Mikveh) în Sderot, utilizată pentru ritualurile de purificare religioasă ale comunității evreiești.",
+                  "category": "religious",
+                  "coords": [
+                        34.601517,
+                        31.527183
+                  ]
+            },
+            {
+                  "name": "Mishkan Shalom Synagogue",
+                  "text": "O sinagogă modernă din Sderot, care servește drept centru religios pentru comunitatea evreiască locală.",
+                  "category": "landmark",
+                  "coords": [
+                        34.586486,
+                        31.529793
+                  ]
+            },
+            {
+                  "name": "City Market",
+                  "text": "O piață locală plină de viață, unde se vând produse proaspete și mărfuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        34.595043,
+                        31.522549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mikveh",
+                  "text": "A ritual immersion pool (Mikveh) in Sderot, used for the religious purity rites of the Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        34.601517,
+                        31.527183
+                  ]
+            },
+            {
+                  "name": "Mishkan Shalom Synagogue",
+                  "text": "A modern synagogue in Sderot serving as a religious center for the local Jewish community.",
+                  "category": "landmark",
+                  "coords": [
+                        34.586486,
+                        31.529793
+                  ]
+            },
+            {
+                  "name": "City Market",
+                  "text": "A bustling local market offering fresh produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        34.595043,
+                        31.522549
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-D",
     coords: [34.5833, 31.5167],
@@ -660,7 +10047,448 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     },
   },
   {
-    id: "il-caesarea-park-economic-v2",
+    id: "il-caesarea-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Dudaim",
+                  "text": "Ein archäologischer Siedlungshügel in der Scharon-Ebene mit Funden, die bis in die Bronzezeit zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        34.963237,
+                        32.510664
+                  ]
+            },
+            {
+                  "name": "Tel Esur",
+                  "text": "Ein bedeutender antiker Tell an einem strategischen Pass, der Reste einer befestigten kanaanitischen und israelitischen Stadt birgt.",
+                  "category": "historical",
+                  "coords": [
+                        35.019416,
+                        32.482077
+                  ]
+            },
+            {
+                  "name": "Mishmar HaGvul",
+                  "text": "Ein großes Denkmal am Iron-Knotenpunkt, das den gefallenen Soldaten der israelischen Grenzpolizei gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.025707,
+                        32.48251
+                  ]
+            },
+            {
+                  "name": "Tel Zeror",
+                  "text": "Ruinen auf einem archäologischen Hügel bei Hadera, auf dem massive Stadtmauern aus der mittleren Bronzezeit freigelegt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        34.972562,
+                        32.429121
+                  ]
+            },
+            {
+                  "name": "Rappaport music center",
+                  "text": "Ein modernes Kulturzentrum in Or Akiva, das als Hauptveranstaltungsort für Konzerte und musikalische Darbietungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        34.92066,
+                        32.504548
+                  ]
+            },
+            {
+                  "name": "Moshe Meir Arts Center",
+                  "text": "Ein lokales Kulturhaus, das Kunstausstellungen und Theateraufführungen für die Bewohner der Region Sharon organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        34.969954,
+                        32.472423
+                  ]
+            },
+            {
+                  "name": "Mizoog Galuyot",
+                  "text": "Eine Synagoge in Or Akiva, deren Name die Zusammenführung jüdischer Einwanderer aus verschiedenen Weltregionen symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.922529,
+                        32.506602
+                  ]
+            },
+            {
+                  "name": "Ahavat Eliyahoo synagogue",
+                  "text": "Ein jüdisches Bethaus in Or Akiva, das als wichtiger spiritueller Treffpunkt für die lokale orthodoxe Gemeinde fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921152,
+                        32.506293
+                  ]
+            },
+            {
+                  "name": "Netzah Israel Synagogue",
+                  "text": "Eine Nachbarschaftssynagoge, die für ihre traditionellen Gebetsriten und die enge Einbindung der lokalen Bewohner bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952275,
+                        32.419135
+                  ]
+            },
+            {
+                  "name": "Heichal Na'ami Synagogue",
+                  "text": "Ein modernes jüdisches Heiligtum in Or Akiva, das regelmäßige Gottesdienste und religiösen Unterricht anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.910689,
+                        32.486244
+                  ]
+            },
+            {
+                  "name": "Adat Yeshuroon",
+                  "text": "Eine lokale Synagoge, die den spirituellen Bedürfnissen der jüdischen Gemeinde mit täglichen Gebetszeiten gerecht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921794,
+                        32.509202
+                  ]
+            },
+            {
+                  "name": "Ohel Yitzchak synagogue",
+                  "text": "Eine dem Ohel Yitzchak gewidmete Synagoge in Or Akiva, die als Zentrum für Gebet und Tora-Studium dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.960006,
+                        32.474739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Dudaim",
+                  "text": "Régészeti lakóhalom a Saron-síkságon, a bronzkorig visszanyúló leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        34.963237,
+                        32.510664
+                  ]
+            },
+            {
+                  "name": "Tel Esur",
+                  "text": "Jelentős ókori tell egy stratégiai hágónál, amely egy megerősített kánaáni és izraelita város maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        35.019416,
+                        32.482077
+                  ]
+            },
+            {
+                  "name": "Mishmar HaGvul",
+                  "text": "Nagy emlékhely az Iron-csomópontnál, amelyet az izraeli határrendőrség elesett katonáinak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        35.025707,
+                        32.48251
+                  ]
+            },
+            {
+                  "name": "Tel Zeror",
+                  "text": "Romok egy Hadera melletti régészeti dombon, ahol a középső bronzkorból származó hatalmas városfalakat tártak fel.",
+                  "category": "historical",
+                  "coords": [
+                        34.972562,
+                        32.429121
+                  ]
+            },
+            {
+                  "name": "Rappaport music center",
+                  "text": "Modern kulturális központ Or Akivában, amely koncertek és zenei előadások fő helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        34.92066,
+                        32.504548
+                  ]
+            },
+            {
+                  "name": "Moshe Meir Arts Center",
+                  "text": "Helyi művelődési ház, amely művészeti kiállításokat és színházi előadásokat szervez a Saron-vidék lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        34.969954,
+                        32.472423
+                  ]
+            },
+            {
+                  "name": "Mizoog Galuyot",
+                  "text": "Or Akiva-i zsinagóga, melynek neve a világ különböző tájairól érkező zsidó bevándorlók összefogását jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.922529,
+                        32.506602
+                  ]
+            },
+            {
+                  "name": "Ahavat Eliyahoo synagogue",
+                  "text": "Zsidó imaház Or Akivában, amely a helyi ortodox közösség fontos hitéleti találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921152,
+                        32.506293
+                  ]
+            },
+            {
+                  "name": "Netzah Israel Synagogue",
+                  "text": "Lakótelepi zsinagóga, amely hagyományos imarendjéről és a helyi lakosok szoros közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952275,
+                        32.419135
+                  ]
+            },
+            {
+                  "name": "Heichal Na'ami Synagogue",
+                  "text": "Modern zsidó szentély Or Akivában, amely rendszeres istentiszteleteket és vallási oktatást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.910689,
+                        32.486244
+                  ]
+            },
+            {
+                  "name": "Adat Yeshuroon",
+                  "text": "Helyi zsinagóga, amely napi imaidőkkel szolgálja a zsidó közösség hitéleti igényeit.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921794,
+                        32.509202
+                  ]
+            },
+            {
+                  "name": "Ohel Yitzchak synagogue",
+                  "text": "Ohel Yitzchak tiszteletére szentelt zsinagóga Or Akivában, amely az ima és a Tóra-tanulás központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.960006,
+                        32.474739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Dudaim",
+                  "text": "Un dâmb arheologic de așezare în câmpia Sharon, cu descoperiri care datează din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        34.963237,
+                        32.510664
+                  ]
+            },
+            {
+                  "name": "Tel Esur",
+                  "text": "Un tell antic important situat într-o trecătoare strategică, care adăpostește resturile unui oraș canaanit și israelit fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        35.019416,
+                        32.482077
+                  ]
+            },
+            {
+                  "name": "Mishmar HaGvul",
+                  "text": "Un mare monument memorial la intersecția Iron, dedicat soldaților căzuți ai Poliției de Frontieră din Israel.",
+                  "category": "historical",
+                  "coords": [
+                        35.025707,
+                        32.48251
+                  ]
+            },
+            {
+                  "name": "Tel Zeror",
+                  "text": "Ruine pe un dâmb arheologic lângă Hadera, unde au fost scoase la iveală ziduri masive de incintă din epoca mijlocie a bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        34.972562,
+                        32.429121
+                  ]
+            },
+            {
+                  "name": "Rappaport music center",
+                  "text": "Un centru cultural modern în Or Akiva, care servește ca loc principal pentru concerte și spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        34.92066,
+                        32.504548
+                  ]
+            },
+            {
+                  "name": "Moshe Meir Arts Center",
+                  "text": "O casă de cultură locală care organizează expoziții de artă și spectacole de teatru pentru locuitorii regiunii Sharon.",
+                  "category": "cultural",
+                  "coords": [
+                        34.969954,
+                        32.472423
+                  ]
+            },
+            {
+                  "name": "Mizoog Galuyot",
+                  "text": "O sinagogă din Or Akiva al cărei nume simbolizează reunirea imigranților evrei din diverse regiuni ale lumii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.922529,
+                        32.506602
+                  ]
+            },
+            {
+                  "name": "Ahavat Eliyahoo synagogue",
+                  "text": "O casă de rugăciune evreiască din Or Akiva, care funcționează ca un important punct de întâlnire spirituală pentru comunitatea ortodoxă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921152,
+                        32.506293
+                  ]
+            },
+            {
+                  "name": "Netzah Israel Synagogue",
+                  "text": "O sinagogă de cartier cunoscută pentru riturile sale tradiționale de rugăciune și implicarea strânsă a locuitorilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952275,
+                        32.419135
+                  ]
+            },
+            {
+                  "name": "Heichal Na'ami Synagogue",
+                  "text": "Un sanctuar evreiesc modern în Or Akiva, care oferă servicii religioase regulate și cursuri de religie.",
+                  "category": "landmark",
+                  "coords": [
+                        34.910689,
+                        32.486244
+                  ]
+            },
+            {
+                  "name": "Adat Yeshuroon",
+                  "text": "O sinagogă locală care răspunde nevoilor spirituale ale comunității evreiești prin ore de rugăciune zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921794,
+                        32.509202
+                  ]
+            },
+            {
+                  "name": "Ohel Yitzchak synagogue",
+                  "text": "O sinagogă dedicată lui Ohel Yitzchak în Or Akiva, care servește ca centru pentru rugăciune și studiul Torei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.960006,
+                        32.474739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Dudaim",
+                  "text": "An archaeological settlement mound in the Sharon plain with findings dating back to the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        34.963237,
+                        32.510664
+                  ]
+            },
+            {
+                  "name": "Tel Esur",
+                  "text": "A significant ancient tell at a strategic pass, housing the remains of a fortified Canaanite and Israelite city.",
+                  "category": "historical",
+                  "coords": [
+                        35.019416,
+                        32.482077
+                  ]
+            },
+            {
+                  "name": "Mishmar HaGvul",
+                  "text": "A large memorial monument at the Iron Junction, dedicated to the fallen soldiers of the Israeli Border Police.",
+                  "category": "historical",
+                  "coords": [
+                        35.025707,
+                        32.48251
+                  ]
+            },
+            {
+                  "name": "Tel Zeror",
+                  "text": "Ruins on an archaeological hill near Hadera, where massive city walls from the Middle Bronze Age were uncovered.",
+                  "category": "historical",
+                  "coords": [
+                        34.972562,
+                        32.429121
+                  ]
+            },
+            {
+                  "name": "Rappaport music center",
+                  "text": "A modern cultural center in Or Akiva that serves as a main venue for concerts and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.92066,
+                        32.504548
+                  ]
+            },
+            {
+                  "name": "Moshe Meir Arts Center",
+                  "text": "A local cultural center that organizes art exhibitions and theater performances for the residents of the Sharon region.",
+                  "category": "cultural",
+                  "coords": [
+                        34.969954,
+                        32.472423
+                  ]
+            },
+            {
+                  "name": "Mizoog Galuyot",
+                  "text": "A synagogue in Or Akiva whose name symbolizes the gathering of Jewish immigrants from different regions of the world.",
+                  "category": "landmark",
+                  "coords": [
+                        34.922529,
+                        32.506602
+                  ]
+            },
+            {
+                  "name": "Ahavat Eliyahoo synagogue",
+                  "text": "A Jewish house of prayer in Or Akiva that functions as an important spiritual meeting point for the local Orthodox community.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921152,
+                        32.506293
+                  ]
+            },
+            {
+                  "name": "Netzah Israel Synagogue",
+                  "text": "A neighborhood synagogue known for its traditional prayer rites and close involvement of the local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        34.952275,
+                        32.419135
+                  ]
+            },
+            {
+                  "name": "Heichal Na'ami Synagogue",
+                  "text": "A modern Jewish sanctuary in Or Akiva that offers regular services and religious classes.",
+                  "category": "landmark",
+                  "coords": [
+                        34.910689,
+                        32.486244
+                  ]
+            },
+            {
+                  "name": "Adat Yeshuroon",
+                  "text": "A local synagogue that meets the spiritual needs of the Jewish community with daily prayer times.",
+                  "category": "landmark",
+                  "coords": [
+                        34.921794,
+                        32.509202
+                  ]
+            },
+            {
+                  "name": "Ohel Yitzchak synagogue",
+                  "text": "A synagogue dedicated to Ohel Yitzchak in Or Akiva, serving as a center for prayer and Torah study.",
+                  "category": "landmark",
+                  "coords": [
+                        34.960006,
+                        32.474739
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IL-HA",
     coords: [34.9333, 32.4833],

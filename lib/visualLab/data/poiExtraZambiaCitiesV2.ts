@@ -430,7 +430,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Livingstone Railway Museum",
-                  "text": "Dieses Museum in Livingstone zeigt die Geschichte der Eisenbahn in Sambia.",
+                  "text": "Ein Eisenbahnmuseum in Livingstone, Sambia, das historische Lokomotiven zeigt.",
                   "category": "museum",
                   "coords": [
                         25.847981,
@@ -477,7 +477,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Livingstone Railway Museum",
-                  "text": "Ez a múzeum Livingstone-ban Zambia vasúttörténetét mutatja be.",
+                  "text": "Egy vasúti múzeum Livingstone-ban, Zambiában, történelmi mozdonyokkal.",
                   "category": "museum",
                   "coords": [
                         25.847981,
@@ -524,7 +524,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Livingstone Railway Museum",
-                  "text": "Acest muzeu din Livingstone prezintă istoria căilor ferate din Zambia.",
+                  "text": "Un muzeu feroviar în Livingstone, Zambia, care expune locomotive istorice.",
                   "category": "museum",
                   "coords": [
                         25.847981,
@@ -571,7 +571,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Livingstone Railway Museum",
-                  "text": "This museum in Livingstone showcases the history of railways in Zambia.",
+                  "text": "A railway museum in Livingstone, Zambia, featuring historic locomotives.",
                   "category": "museum",
                   "coords": [
                         25.847981,
@@ -1188,7 +1188,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Moto Moto Museum",
-                  "text": "Das Moto Moto Museum ist ein lokales Museum in Mbala.",
+                  "text": "Das Moto Moto Museum in Mbala zeigt Artefakte des Bemba-Volkes und der Tierwelt.",
                   "category": "museum",
                   "coords": [
                         31.357585,
@@ -1199,7 +1199,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Moto Moto Museum",
-                  "text": "A Moto Moto Museum egy helyi múzeum Mbala városában.",
+                  "text": "A Moto Moto Múzeum Mbalában bemutatja a bemba nép tárgyait és a vadon élő állatvilágot.",
                   "category": "museum",
                   "coords": [
                         31.357585,
@@ -1210,7 +1210,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Moto Moto Museum",
-                  "text": "Moto Moto Museum este un muzeu local situat în Mbala.",
+                  "text": "Muzeul Moto Moto din Mbala expune artefacte ale poporului Bemba și fauna sălbatică.",
                   "category": "museum",
                   "coords": [
                         31.357585,
@@ -1221,7 +1221,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Moto Moto Museum",
-                  "text": "Moto Moto Museum is a local museum located in Mbala.",
+                  "text": "Moto Moto Museum in Mbala, displaying artifacts of the Bemba people and wildlife.",
                   "category": "museum",
                   "coords": [
                         31.357585,
@@ -1449,7 +1449,88 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "siavonga-cities-v2", "sights": {"de": [{"name": "Heliport lake Safari lodge", "text": "Ein Aussichtspunkt in Siavonga mit Blick auf den Kariba-See.", "category": "natural", "coords": [28.706313, -16.542081]}, {"name": "Savee Beach Resort", "text": "Das Savee Beach Resort ist ein einladender Rückzugsort in Sambia, direkt am malerischen Seeufer von Siavonga. Die Umgebung des Resorts fördert eine lebhafte, aber dennoch entspannende Urlaubsatmosphäre, die sich ideal für Familien und Paare eignet. Gäste erwartet eine Mischung aus Schwimmen im See, Sonnenbaden am Wasser und sanften Spaziergängen am Ufer. Ein Besuch in der wärmeren Jahreszeit garantiert das beste Erlebnis am Wasser.", "category": "recreational", "coords": [28.698853, -16.538287]}], "hu": [{"name": "Heliport lake Safari lodge", "text": "Kilátóhely Siavongában, kilátással a Kariba-tóra.", "category": "natural", "coords": [28.706313, -16.542081]}, {"name": "Savee Beach Resort", "text": "A Siavonga festői tópartján elhelyezkedő Savee Beach Resort egy hívogató menedékhely Zambiában. Az üdülőhely környezete élénk, mégis pihentető nyaralási hangulatot teremt, amely családok és párok számára egyaránt ideális. A vendégek számíthatnak tóparti fürdőzésre, napozásra a víz mellett és könnyed sétákra a parton. A melegebb évszakokban tett látogatás biztosítja a legkellemesebb vízparti élményt.", "category": "recreational", "coords": [28.698853, -16.538287]}], "ro": [{"name": "Heliport lake Safari lodge", "text": "Un punct de observare în Siavonga cu vedere spre Lacul Kariba.", "category": "natural", "coords": [28.706313, -16.542081]}, {"name": "Savee Beach Resort", "text": "Situat de-a lungul malurilor pitorești ale lacului din Siavonga, Savee Beach Resort este un refugiu primitor în Zambia. Mediul stațiunii încurajează o atmosferă de vacanță plină de viață, dar relaxantă, ideală atât pentru familiile, cât și pentru cuplurile în căutare de odihnă. Oaspeții se pot aștepta la un amestec de înot în lac, băi de soare lângă apă și plimbări ușoare pe mal. O vizită în timpul sezoanelor mai calde asigură cea mai plăcută experiență pe malul apei.", "category": "recreational", "coords": [28.698853, -16.538287]}], "en": [{"name": "Heliport lake Safari lodge", "text": "A viewpoint in Siavonga overlooking Lake Kariba.", "category": "natural", "coords": [28.706313, -16.542081]}, {"name": "Savee Beach Resort", "text": "Positioned along the scenic lake shores of Siavonga, Savee Beach Resort is a welcoming retreat in Zambia. The resort environment fosters a lively yet relaxing holiday atmosphere, ideal for families and couples alike. Guests can expect a mix of lakeside swimming, sunbathing by the water, and gentle strolls along the shore. Visiting during the warmer seasons ensures the most enjoyable waterside experience.", "category": "recreational", "coords": [28.698853, -16.538287]}]},
+    id: "siavonga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Die Heliport Lake Safari Lodge in Siavonga bietet Ausblicke auf den Kariba-See und Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Das Savee Beach Resort ist ein einladender Rückzugsort in Sambia, direkt am malerischen Seeufer von Siavonga. Die Umgebung des Resorts fördert eine lebhafte, aber dennoch entspannende Urlaubsatmosphäre, die sich ideal für Familien und Paare eignet. Gäste erwartet eine Mischung aus Schwimmen im See, Sonnenbaden am Wasser und sanften Spaziergängen am Ufer. Ein Besuch in der wärmeren Jahreszeit garantiert das beste Erlebnis am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "A Heliport-tavi Szafari Lodge Siavongában a Kariba-tóra és a vadon élő állatokra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "A Siavonga festői tópartján elhelyezkedő Savee Beach Resort egy hívogató menedékhely Zambiában. Az üdülőhely környezete élénk, mégis pihentető nyaralási hangulatot teremt, amely családok és párok számára egyaránt ideális. A vendégek számíthatnak tóparti fürdőzésre, napozásra a víz mellett és könnyed sétákra a parton. A melegebb évszakokban tett látogatás biztosítja a legkellemesebb vízparti élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Heliport Lake Safari Lodge din Siavonga oferă vederi asupra lacului Kariba și a faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Situat de-a lungul malurilor pitorești ale lacului din Siavonga, Savee Beach Resort este un refugiu primitor în Zambia. Mediul stațiunii încurajează o atmosferă de vacanță plină de viață, dar relaxantă, ideală atât pentru familiile, cât și pentru cuplurile în căutare de odihnă. Oaspeții se pot aștepta la un amestec de înot în lac, băi de soare lângă apă și plimbări ușoare pe mal. O vizită în timpul sezoanelor mai calde asigură cea mai plăcută experiență pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Heliport Lake Safari Lodge in Siavonga, offering views of Lake Kariba and wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Positioned along the scenic lake shores of Siavonga, Savee Beach Resort is a welcoming retreat in Zambia. The resort environment fosters a lively yet relaxing holiday atmosphere, ideal for families and couples alike. Guests can expect a mix of lakeside swimming, sunbathing by the water, and gentle strolls along the shore. Visiting during the warmer seasons ensures the most enjoyable waterside experience.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-07",
     coords: [28.7088, -16.5382],
@@ -2193,7 +2274,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kalalushi Coreshed",
-                  "text": "Kalalushi Coreshed ist eine Museumseinrichtung in Kalulushi.",
+                  "text": "Das Kalalushi Coreshed in Kalulushi ist ein Museum mit Bohrkernproben aus dem Copperbelt.",
                   "category": "museum",
                   "coords": [
                         28.086067,
@@ -2204,7 +2285,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kalalushi Coreshed",
-                  "text": "A Kalalushi Coreshed egy múzeumi létesítmény Kalulushi városában.",
+                  "text": "A Kalalushi Coreshed Kalulushiban egy múzeum, amely bányászati magmintákat őriz a Copperbeltből.",
                   "category": "museum",
                   "coords": [
                         28.086067,
@@ -2215,7 +2296,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kalalushi Coreshed",
-                  "text": "Kalalushi Coreshed este o unitate muzeală situată în Kalulushi.",
+                  "text": "Kalalushi Coreshed din Kalulushi este un muzeu care păstrează eșantioane de carotaj din regiunea Copperbelt.",
                   "category": "museum",
                   "coords": [
                         28.086067,
@@ -2226,7 +2307,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kalalushi Coreshed",
-                  "text": "Kalalushi Coreshed is a museum facility situated in Kalulushi.",
+                  "text": "Kalalushi Coreshed in Kalulushi, a museum preserving mining core samples from the Copperbelt.",
                   "category": "museum",
                   "coords": [
                         28.086067,

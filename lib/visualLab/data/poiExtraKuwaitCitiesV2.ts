@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraKuwaitCitiesV2: POI[] = [
   {
-    id: "kw-kuwait-city-cities-v2",
+    id: "kw-kuwait-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Abdulrazaq",
+                  "text": "Ein islamischer Gebetsraum im städtischen Gefüge von Kuwait-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97703,
+                        29.376495
+                  ]
+            },
+            {
+                  "name": "Al Mazidi",
+                  "text": "Ein islamisches Zentrum im Herzen von Kuwait-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976933,
+                        29.377835
+                  ]
+            },
+            {
+                  "name": "Abdullah abdulelah Al Qenaei",
+                  "text": "Ein islamisches Heiligtum für die täglichen Beter in Kuwait-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979217,
+                        29.379381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Abdulrazaq",
+                  "text": "Egy iszlám imatér Kuvaitváros városi szövetében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97703,
+                        29.376495
+                  ]
+            },
+            {
+                  "name": "Al Mazidi",
+                  "text": "Egy kerületi iszlám központ Kuvaitváros szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976933,
+                        29.377835
+                  ]
+            },
+            {
+                  "name": "Abdullah abdulelah Al Qenaei",
+                  "text": "Iszlám szentély, amely a mindennapi imádkozókat szolgálja Kuvaitvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979217,
+                        29.379381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Abdulrazaq",
+                  "text": "Un spațiu de rugăciune islamic situat în țesutul urban al orașului Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97703,
+                        29.376495
+                  ]
+            },
+            {
+                  "name": "Al Mazidi",
+                  "text": "Un centru islamic de cartier situat în inima orașului Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976933,
+                        29.377835
+                  ]
+            },
+            {
+                  "name": "Abdullah abdulelah Al Qenaei",
+                  "text": "Un sanctuar islamic care deservește închinătorii zilnici din orașul Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979217,
+                        29.379381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Abdulrazaq",
+                  "text": "An Islamic prayer space situated in the urban fabric of Kuwait City.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97703,
+                        29.376495
+                  ]
+            },
+            {
+                  "name": "Al Mazidi",
+                  "text": "A neighborhood Islamic center situated in the heart of Kuwait City.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976933,
+                        29.377835
+                  ]
+            },
+            {
+                  "name": "Abdullah abdulelah Al Qenaei",
+                  "text": "An Islamic sanctuary catering to daily worshippers in Kuwait City.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979217,
+                        29.379381
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "KW-KU",
     coords: [47.9774, 29.3759],
@@ -45,7 +162,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kuwait Little Theatre (KLT)",
-                  "text": "Kuwait Little Theatre (KLT) ist ein Theater in Al Ahmadi.",
+                  "text": "Eine Amateurtheatergruppe, die in einem eigenen Veranstaltungsort in Al Ahmadi auftritt.",
                   "category": "cultural",
                   "coords": [
                         48.060345,
@@ -54,7 +171,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "South Subahiya Theme Park",
-                  "text": "South Subahiya Theme Park ist ein Freizeitpark in Al Ahmadi.",
+                  "text": "Ein Familienvergnügungspark mit Fahrgeschäften und Wasserspielen in South Subahiya.",
                   "category": "family",
                   "coords": [
                         48.101613,
@@ -63,7 +180,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadi Zoo",
-                  "text": "Ahmadi Zoo ist ein Zoo in Al Ahmadi.",
+                  "text": "Ein kleiner Zoo in Al Ahmadi mit arabischen Wildtieren wie Oryx und Gazellen.",
                   "category": "family",
                   "coords": [
                         48.069409,
@@ -72,7 +189,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "KOC Tent for Events & Exhibitions",
-                  "text": "KOC Tent for Events & Exhibitions ist ein Kunstzentrum in Al Ahmadi.",
+                  "text": "Ein großes Zelt, das von der Kuwait Oil Company für Ausstellungen und kulturelle Veranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         48.067805,
@@ -81,7 +198,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Arabia Church",
-                  "text": "Our Lady of Arabia Church ist eine Kultstätte in Al Ahmadi.",
+                  "text": "Katholische Kirche in Al Ahmadi mit moderner Architektur, die der Expat-Gemeinde dient.",
                   "category": "religious",
                   "coords": [
                         48.067521,
@@ -92,7 +209,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kuwait Little Theatre (KLT)",
-                  "text": "A Kuwait Little Theatre (KLT) egy színház Al Ahmadi városában.",
+                  "text": "Egy amatőr színházi csoport, amely saját helyszínen lép fel Al Ahmadiban.",
                   "category": "cultural",
                   "coords": [
                         48.060345,
@@ -101,7 +218,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "South Subahiya Theme Park",
-                  "text": "A South Subahiya Theme Park egy vidámpark Al Ahmadi városában.",
+                  "text": "Egy családi szórakoztató park játékokkal és vízi elemekkel Dél-Subahiyában.",
                   "category": "family",
                   "coords": [
                         48.101613,
@@ -110,7 +227,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadi Zoo",
-                  "text": "Az Ahmadi Zoo egy állatkert Al Ahmadi városában.",
+                  "text": "Egy kis állatkert Al Ahmadiban arab vadállatokkal, például oryxokkal és gazellákkal.",
                   "category": "family",
                   "coords": [
                         48.069409,
@@ -119,7 +236,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "KOC Tent for Events & Exhibitions",
-                  "text": "A KOC Tent for Events & Exhibitions egy művészeti központ Al Ahmadi városában.",
+                  "text": "Egy nagy sátor, amelyet a Kuwait Oil Company használ kiállításokra és kulturális eseményekre.",
                   "category": "cultural",
                   "coords": [
                         48.067805,
@@ -128,7 +245,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Arabia Church",
-                  "text": "Az Our Lady of Arabia Church egy istentiszteleti hely Al Ahmadi városában.",
+                  "text": "Katolikus templom Al Ahmadiban, modern építészettel, az expat közösség számára.",
                   "category": "religious",
                   "coords": [
                         48.067521,
@@ -139,7 +256,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kuwait Little Theatre (KLT)",
-                  "text": "Kuwait Little Theatre (KLT) este un teatru în Al Ahmadi.",
+                  "text": "Un grup de teatru amator care evoluează într-un loc dedicat în Al Ahmadi.",
                   "category": "cultural",
                   "coords": [
                         48.060345,
@@ -148,7 +265,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "South Subahiya Theme Park",
-                  "text": "South Subahiya Theme Park este un parc de distracții în Al Ahmadi.",
+                  "text": "Un parc de distracții pentru familie cu curse și elemente de apă în South Subahiya.",
                   "category": "family",
                   "coords": [
                         48.101613,
@@ -157,7 +274,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadi Zoo",
-                  "text": "Ahmadi Zoo este o grădină zoologică în Al Ahmadi.",
+                  "text": "O grădină zoologică mică în Al Ahmadi cu animale sălbatice arabe precum oryx și gazele.",
                   "category": "family",
                   "coords": [
                         48.069409,
@@ -166,7 +283,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "KOC Tent for Events & Exhibitions",
-                  "text": "KOC Tent for Events & Exhibitions este un centru de artă în Al Ahmadi.",
+                  "text": "Un cort mare folosit de Kuwait Oil Company pentru expoziții și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         48.067805,
@@ -175,7 +292,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Arabia Church",
-                  "text": "Our Lady of Arabia Church este un lăcaș de cult în Al Ahmadi.",
+                  "text": "Biserică catolică în Al Ahmadi, cu arhitectură modernă, deservind comunitatea de expatriați.",
                   "category": "religious",
                   "coords": [
                         48.067521,
@@ -186,7 +303,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kuwait Little Theatre (KLT)",
-                  "text": "Kuwait Little Theatre (KLT) is a theatre located in Al Ahmadi.",
+                  "text": "An amateur theatre group performing in a dedicated venue in Al Ahmadi.",
                   "category": "cultural",
                   "coords": [
                         48.060345,
@@ -195,7 +312,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "South Subahiya Theme Park",
-                  "text": "South Subahiya Theme Park is a theme park situated in Al Ahmadi.",
+                  "text": "A family amusement park with rides and water features in South Subahiya.",
                   "category": "family",
                   "coords": [
                         48.101613,
@@ -204,7 +321,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadi Zoo",
-                  "text": "Ahmadi Zoo is a zoo found in Al Ahmadi.",
+                  "text": "A small zoo in Al Ahmadi featuring Arabian wildlife such as oryx and gazelles.",
                   "category": "family",
                   "coords": [
                         48.069409,
@@ -213,7 +330,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "KOC Tent for Events & Exhibitions",
-                  "text": "KOC Tent for Events & Exhibitions is an arts centre located in Al Ahmadi.",
+                  "text": "A large tent venue used by Kuwait Oil Company for exhibitions and cultural events.",
                   "category": "cultural",
                   "coords": [
                         48.067805,
@@ -222,7 +339,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Arabia Church",
-                  "text": "Our Lady of Arabia Church is a place of worship situated in Al Ahmadi.",
+                  "text": "Catholic church in Al Ahmadi with modern architecture, serving the expatriate community.",
                   "category": "religious",
                   "coords": [
                         48.067521,
@@ -278,7 +395,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Red Palace",
-                  "text": "Historisches Fort in Al Jahra.",
+                  "text": "Rote Backsteinfestung in Al Jahra, erbaut im 19. Jahrhundert als Verteidigungsanlage.",
                   "category": "fortress",
                   "coords": [
                         47.679785,
@@ -287,7 +404,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Selayel Jahra Resort",
-                  "text": "Wasserpark in Al Jahra.",
+                  "text": "Ein Wüstenresort nahe Al Jahra mit Chalets und einem Swimmingpool.",
                   "category": "family",
                   "coords": [
                         47.649635,
@@ -296,7 +413,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Messilah Fun Land",
-                  "text": "Freizeitpark in Al Jahra.",
+                  "text": "Ein Vergnügungspark in Al Jahra mit Fahrgeschäften und einem Kinderspielplatz.",
                   "category": "family",
                   "coords": [
                         47.650513,
@@ -307,7 +424,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Red Palace",
-                  "text": "Történelmi erőd Al Jahrában.",
+                  "text": "Vörös téglából épült erőd Al Jahra-ban, a 19. században épült védelmi célokra.",
                   "category": "fortress",
                   "coords": [
                         47.679785,
@@ -316,7 +433,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Selayel Jahra Resort",
-                  "text": "Élményfürdő Al Jahrában.",
+                  "text": "Egy sivatagi üdülőhely Al Jahra közelében, nyaralókkal és úszómedencével.",
                   "category": "family",
                   "coords": [
                         47.649635,
@@ -325,7 +442,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Messilah Fun Land",
-                  "text": "Vidámpark Al Jahrában.",
+                  "text": "Egy vidámpark Al Jahra-ban, játékokkal és gyermekjátszótérrel.",
                   "category": "family",
                   "coords": [
                         47.650513,
@@ -336,7 +453,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Red Palace",
-                  "text": "Fortăreață istorică în Al Jahra.",
+                  "text": "Fortăreață de cărămidă roșie în Al Jahra, construită în secolul al XIX-lea ca apărare.",
                   "category": "fortress",
                   "coords": [
                         47.679785,
@@ -345,7 +462,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Selayel Jahra Resort",
-                  "text": "Parc acvatic în Al Jahra.",
+                  "text": "O stațiune deșertică lângă Al Jahra, cu căsuțe și o piscină.",
                   "category": "family",
                   "coords": [
                         47.649635,
@@ -354,7 +471,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Messilah Fun Land",
-                  "text": "Parc tematic în Al Jahra.",
+                  "text": "Un parc de distracții în Al Jahra, cu curse și un loc de joacă pentru copii.",
                   "category": "family",
                   "coords": [
                         47.650513,
@@ -365,7 +482,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Red Fort",
-                  "text": "Historic fort in Al Jahra.",
+                  "text": "Red brick fortress in Al Jahra, built in the 19th century as a defensive outpost.",
                   "category": "fortress",
                   "coords": [
                         47.679785,
@@ -374,7 +491,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Selayel Jahra Resort",
-                  "text": "Water park in Al Jahra.",
+                  "text": "A desert resort near Al Jahra with chalets and a swimming pool.",
                   "category": "family",
                   "coords": [
                         47.649635,
@@ -383,7 +500,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Marah Land",
-                  "text": "Theme park in Al Jahra.",
+                  "text": "An amusement park in Al Jahra with rides and a playground for children.",
                   "category": "family",
                   "coords": [
                         47.650513,
@@ -708,7 +825,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kuwait Zoo",
-                  "text": "Kuwait Zoo ist ein Zoo in Farwaniya.",
+                  "text": "Zoo in Farwaniya mit heimischen arabischen Tieren wie Oryxantilopen und Gazellen.",
                   "category": "family",
                   "coords": [
                         47.961089,
@@ -719,7 +836,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kuwait Zoo",
-                  "text": "A Kuwait Zoo egy állatkert Farwaniya városában.",
+                  "text": "Állatkert Farwaniyában, arab vadon élő állatokkal, mint oryx és gazella.",
                   "category": "family",
                   "coords": [
                         47.961089,
@@ -730,7 +847,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kuwait Zoo",
-                  "text": "Kuwait Zoo este o grădină zoologică în Farwaniya.",
+                  "text": "Grădină zoologică în Farwaniya, cu animale arabe precum oryx și gazele.",
                   "category": "family",
                   "coords": [
                         47.961089,
@@ -741,7 +858,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kuwait Zoo",
-                  "text": "Kuwait Zoo is a zoo found in Farwaniya.",
+                  "text": "Zoo in Farwaniya, home to Arabian wildlife like oryx and gazelles.",
                   "category": "family",
                   "coords": [
                         47.961089,
@@ -793,7 +910,376 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-mubarak-al-kabeer-cities-v2",
+    id: "kw-mubarak-al-kabeer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ArtStudioKWT",
+                  "text": "Ein dynamisches Kunstzentrum in Mubarak Al-Kabeer, das Ausstellungen und Workshops für lokale Talente veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        48.098272,
+                        29.225191
+                  ]
+            },
+            {
+                  "name": "parents house",
+                  "text": "Ein markantes Wohnhaus in Mubarak Al-Kabeer, das mit seinen Türmen und Zinnen an eine moderne Burg erinnert.",
+                  "category": "castle",
+                  "coords": [
+                        48.086694,
+                        29.209506
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Eine moderne Moschee in Mubarak Al-Kabeer, die durch ihr elegantes Design und ihre funktionale Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09552,
+                        29.192703
+                  ]
+            },
+            {
+                  "name": "Al-Khateeb Al-Baghdadi Mosque",
+                  "text": "Diese Moschee in Mubarak Al-Kabeer ist nach dem berühmten Gelehrten Al-Khateeb Al-Baghdadi benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085268,
+                        29.218385
+                  ]
+            },
+            {
+                  "name": "Abi Faraj Al-Josi Mosque",
+                  "text": "Eine Gemeinschaftsmoschee in Mubarak Al-Kabeer, benannt nach dem vielseitigen Gelehrten Abi Faraj Al-Josi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077846,
+                        29.219936
+                  ]
+            },
+            {
+                  "name": "Al-Baraa Bin Aazib Mosque",
+                  "text": "Diese Moschee in Mubarak Al-Kabeer trägt den Namen von Al-Baraa Bin Aazib, einem treuen Gefährten des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080955,
+                        29.214784
+                  ]
+            },
+            {
+                  "name": "Mojashie Bin Massoud Mosque",
+                  "text": "Eine lokale Moschee in einem modernen Wohnviertel von Mubarak Al-Kabeer, die für tägliche Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086825,
+                        29.212235
+                  ]
+            },
+            {
+                  "name": "Saad Mosque",
+                  "text": "Die Saad-Moschee in Mubarak Al-Kabeer ist ein zentraler Treffpunkt für die gläubige Gemeinschaft des Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089174,
+                        29.20968
+                  ]
+            },
+            {
+                  "name": "Hammad Mosque",
+                  "text": "Diese Moschee in Mubarak Al-Kabeer ist für ihre ruhige Atmosphäre und ihre geometrischen Fassadenmuster bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09093,
+                        29.202876
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "Die Al-Emam-Moschee in Mubarak Al-Kabeer dient als wichtiges religiöses Zentrum für die umliegenden Wohnblöcke.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082381,
+                        29.222328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ArtStudioKWT",
+                  "text": "Dinamikus művészeti központ Mubarak Al-Kabeerben, amely kiállításokat és workshopokat szervez a helyi tehetségeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        48.098272,
+                        29.225191
+                  ]
+            },
+            {
+                  "name": "parents house",
+                  "text": "Jellegzetes lakóház Mubarak Al-Kabeerben, amely tornyaival és bástyáival egy modern várra emlékeztet.",
+                  "category": "castle",
+                  "coords": [
+                        48.086694,
+                        29.209506
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Modern mecset Mubarak Al-Kabeerben, amely elegáns kialakításával és funkcionális építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09552,
+                        29.192703
+                  ]
+            },
+            {
+                  "name": "Al-Khateeb Al-Baghdadi Mosque",
+                  "text": "Ezt a Mubarak Al-Kabeer-i mecsetet a híres tudósról, Al-Khateeb Al-Baghdadiról nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085268,
+                        29.218385
+                  ]
+            },
+            {
+                  "name": "Abi Faraj Al-Josi Mosque",
+                  "text": "Közösségi mecset Mubarak Al-Kabeerben, amelyet a sokoldalú tudósról, Abi Faraj Al-Josiról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077846,
+                        29.219936
+                  ]
+            },
+            {
+                  "name": "Al-Baraa Bin Aazib Mosque",
+                  "text": "Ez a Mubarak Al-Kabeer-i mecset Al-Baraa Bin Aazib, a Próféta hűséges társa nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080955,
+                        29.214784
+                  ]
+            },
+            {
+                  "name": "Mojashie Bin Massoud Mosque",
+                  "text": "Helyi mecset Mubarak Al-Kabeer egyik modern lakónegyedében, amelyet a napi imádságokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086825,
+                        29.212235
+                  ]
+            },
+            {
+                  "name": "Saad Mosque",
+                  "text": "A Mubarak Al-Kabeer-i Saad-mecset a kerület hívő közösségének központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089174,
+                        29.20968
+                  ]
+            },
+            {
+                  "name": "Hammad Mosque",
+                  "text": "Ez a Mubarak Al-Kabeer-i mecset nyugodt légköréről és geometrikus homlokzati mintáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09093,
+                        29.202876
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "Az Al-Emam mecset Mubarak Al-Kabeerben fontos vallási központként szolgál a környező lakótömbök számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082381,
+                        29.222328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ArtStudioKWT",
+                  "text": "Un centru de artă din Mubarak Al-Kabeer care găzduiește expoziții și ateliere pentru talentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        48.098272,
+                        29.225191
+                  ]
+            },
+            {
+                  "name": "parents house",
+                  "text": "O casă rezidențială distinctivă din Mubarak Al-Kabeer, care seamănă cu un castel modern prin turnurile și crenelurile sale.",
+                  "category": "castle",
+                  "coords": [
+                        48.086694,
+                        29.209506
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "O moschee modernă în Mubarak Al-Kabeer, care se remarcă prin designul său elegant și arhitectura funcțională.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09552,
+                        29.192703
+                  ]
+            },
+            {
+                  "name": "Al-Khateeb Al-Baghdadi Mosque",
+                  "text": "Această moschee din Mubarak Al-Kabeer poartă numele celebrului erudit Al-Khateeb Al-Baghdadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085268,
+                        29.218385
+                  ]
+            },
+            {
+                  "name": "Abi Faraj Al-Josi Mosque",
+                  "text": "O moschee comunitară din Mubarak Al-Kabeer, numită după eruditul polimat Abi Faraj Al-Josi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077846,
+                        29.219936
+                  ]
+            },
+            {
+                  "name": "Al-Baraa Bin Aazib Mosque",
+                  "text": "Această moschee din Mubarak Al-Kabeer poartă numele lui Al-Baraa Bin Aazib, un companion loial al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080955,
+                        29.214784
+                  ]
+            },
+            {
+                  "name": "Mojashie Bin Massoud Mosque",
+                  "text": "O moschee locală dintr-un cartier rezidențial modern din Mubarak Al-Kabeer, utilizată pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086825,
+                        29.212235
+                  ]
+            },
+            {
+                  "name": "Saad Mosque",
+                  "text": "Moscheea Saad din Mubarak Al-Kabeer este un loc de întâlnire central pentru comunitatea de credincioși din district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089174,
+                        29.20968
+                  ]
+            },
+            {
+                  "name": "Hammad Mosque",
+                  "text": "Această moschee din Mubarak Al-Kabeer este cunoscută pentru atmosfera sa liniștită și modelele geometrice de pe fațadă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09093,
+                        29.202876
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "Moscheea Al-Emam din Mubarak Al-Kabeer servește drept centru religios important pentru blocurile rezidențiale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082381,
+                        29.222328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ArtStudioKWT",
+                  "text": "A dynamic arts centre in Mubarak Al-Kabeer that hosts exhibitions and workshops for local talents.",
+                  "category": "cultural",
+                  "coords": [
+                        48.098272,
+                        29.225191
+                  ]
+            },
+            {
+                  "name": "parents house",
+                  "text": "A distinctive residential house in Mubarak Al-Kabeer that resembles a modern castle with its towers and battlements.",
+                  "category": "castle",
+                  "coords": [
+                        48.086694,
+                        29.209506
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "A modern mosque in Mubarak Al-Kabeer distinguished by its elegant design and functional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09552,
+                        29.192703
+                  ]
+            },
+            {
+                  "name": "Al-Khateeb Al-Baghdadi Mosque",
+                  "text": "This mosque in Mubarak Al-Kabeer is named after the famous scholar Al-Khateeb Al-Baghdadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085268,
+                        29.218385
+                  ]
+            },
+            {
+                  "name": "Abi Faraj Al-Josi Mosque",
+                  "text": "A community mosque in Mubarak Al-Kabeer named after the polymath scholar Abi Faraj Al-Josi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077846,
+                        29.219936
+                  ]
+            },
+            {
+                  "name": "Al-Baraa Bin Aazib Mosque",
+                  "text": "This mosque in Mubarak Al-Kabeer bears the name of Al-Baraa Bin Aazib, a loyal companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080955,
+                        29.214784
+                  ]
+            },
+            {
+                  "name": "Mojashie Bin Massoud Mosque",
+                  "text": "A local mosque in a modern residential district of Mubarak Al-Kabeer, used for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086825,
+                        29.212235
+                  ]
+            },
+            {
+                  "name": "Saad Mosque",
+                  "text": "The Saad Mosque in Mubarak Al-Kabeer is a central meeting place for the district's religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089174,
+                        29.20968
+                  ]
+            },
+            {
+                  "name": "Hammad Mosque",
+                  "text": "This mosque in Mubarak Al-Kabeer is known for its peaceful atmosphere and geometric facade patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        48.09093,
+                        29.202876
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "The Al-Emam Mosque in Mubarak Al-Kabeer serves as an important religious center for the surrounding residential blocks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082381,
+                        29.222328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-MU",
     coords: [48.0931, 29.2078],
@@ -1070,7 +1556,268 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-fahaheel-cities-v2",
+    id: "kw-fahaheel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajial Theater",
+                  "text": "Ein modernes Kino- und Theaterzentrum im belebten Geschäftsviertel von Fahaheel.",
+                  "category": "cultural",
+                  "coords": [
+                        48.136355,
+                        29.082783
+                  ]
+            },
+            {
+                  "name": "Al.Khazam Mosque",
+                  "text": "Eine markante Moschee in der Küstenstadt Fahaheel, unweit der Einkaufszentren.",
+                  "category": "landmark",
+                  "coords": [
+                        48.134444,
+                        29.082905
+                  ]
+            },
+            {
+                  "name": "Rashed Hamad Al Zuwair",
+                  "text": "Dieses Gebetshaus dient der muslimischen Gemeinde im geschäftigen Zentrum von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.135166,
+                        29.078639
+                  ]
+            },
+            {
+                  "name": "Meziad Halal Al Otebi B 7",
+                  "text": "Eine lokale Moschee im Wohnbezirk Block 7 von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131409,
+                        29.078471
+                  ]
+            },
+            {
+                  "name": "Badriah Ganim Al Dabbus",
+                  "text": "Ein religiöser Rückzugsort in Fahaheel, bekannt für seine Rolle im Gemeindeleben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131291,
+                        29.076565
+                  ]
+            },
+            {
+                  "name": "Ahmad Al Abdullah Al Ajiel",
+                  "text": "Eine Moschee in Fahaheel, die Gläubigen Raum für die täglichen Gebete im Stadtzentrum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129631,
+                        29.080934
+                  ]
+            },
+            {
+                  "name": "Mushari Al Rudan",
+                  "text": "Ein muslimisches Gotteshaus in der Nähe der Märkte von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.132949,
+                        29.088758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajial Theater",
+                  "text": "Modern mozi- és színházközpont Fahaheel forgalmas kereskedelmi negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        48.136355,
+                        29.082783
+                  ]
+            },
+            {
+                  "name": "Al.Khazam Mosque",
+                  "text": "Jellegzetes mecset Fahaheel tengerparti városában, nem messze a bevásárlóközpontoktól.",
+                  "category": "landmark",
+                  "coords": [
+                        48.134444,
+                        29.082905
+                  ]
+            },
+            {
+                  "name": "Rashed Hamad Al Zuwair",
+                  "text": "Ez az imaház a muszlim közösséget szolgálja Fahaheel nyüzsgő központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.135166,
+                        29.078639
+                  ]
+            },
+            {
+                  "name": "Meziad Halal Al Otebi B 7",
+                  "text": "Helyi mecset Fahaheel 7-es blokkjának lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131409,
+                        29.078471
+                  ]
+            },
+            {
+                  "name": "Badriah Ganim Al Dabbus",
+                  "text": "Vallási nyugvópont Fahaheelben, amely a közösségi életben betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131291,
+                        29.076565
+                  ]
+            },
+            {
+                  "name": "Ahmad Al Abdullah Al Ajiel",
+                  "text": "Mecset Fahaheelben, amely helyet biztosít a napi imákhoz a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129631,
+                        29.080934
+                  ]
+            },
+            {
+                  "name": "Mushari Al Rudan",
+                  "text": "Muszlim istentiszteleti hely a fahaheeli piacok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.132949,
+                        29.088758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajial Theater",
+                  "text": "Un centru modern de cinema și teatru situat în zona comercială animată din Fahaheel.",
+                  "category": "cultural",
+                  "coords": [
+                        48.136355,
+                        29.082783
+                  ]
+            },
+            {
+                  "name": "Al.Khazam Mosque",
+                  "text": "O moschee distinctivă în orașul de coastă Fahaheel, nu departe de centrele comerciale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.134444,
+                        29.082905
+                  ]
+            },
+            {
+                  "name": "Rashed Hamad Al Zuwair",
+                  "text": "Acest lăcaș de rugăciune deservește comunitatea musulmană din centrul aglomerat al Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.135166,
+                        29.078639
+                  ]
+            },
+            {
+                  "name": "Meziad Halal Al Otebi B 7",
+                  "text": "O moschee locală situată în zona rezidențială Block 7 din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131409,
+                        29.078471
+                  ]
+            },
+            {
+                  "name": "Badriah Ganim Al Dabbus",
+                  "text": "Un refugiu religios în Fahaheel, cunoscut pentru rolul său în viața comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131291,
+                        29.076565
+                  ]
+            },
+            {
+                  "name": "Ahmad Al Abdullah Al Ajiel",
+                  "text": "O moschee în Fahaheel care oferă spațiu pentru rugăciunile zilnice în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129631,
+                        29.080934
+                  ]
+            },
+            {
+                  "name": "Mushari Al Rudan",
+                  "text": "Un lăcaș de cult musulman situat în apropierea piețelor din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.132949,
+                        29.088758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajial Theater",
+                  "text": "A modern cinema and theater center in the busy commercial district of Fahaheel.",
+                  "category": "cultural",
+                  "coords": [
+                        48.136355,
+                        29.082783
+                  ]
+            },
+            {
+                  "name": "Al.Khazam Mosque",
+                  "text": "A prominent mosque in the coastal city of Fahaheel, not far from the shopping malls.",
+                  "category": "landmark",
+                  "coords": [
+                        48.134444,
+                        29.082905
+                  ]
+            },
+            {
+                  "name": "Rashed Hamad Al Zuwair",
+                  "text": "This prayer house serves the Muslim community in the bustling center of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.135166,
+                        29.078639
+                  ]
+            },
+            {
+                  "name": "Meziad Halal Al Otebi B 7",
+                  "text": "A local mosque located in the Block 7 residential area of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131409,
+                        29.078471
+                  ]
+            },
+            {
+                  "name": "Badriah Ganim Al Dabbus",
+                  "text": "A religious retreat in Fahaheel, known for its role in community life.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131291,
+                        29.076565
+                  ]
+            },
+            {
+                  "name": "Ahmad Al Abdullah Al Ajiel",
+                  "text": "A mosque in Fahaheel providing space for daily prayers in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129631,
+                        29.080934
+                  ]
+            },
+            {
+                  "name": "Mushari Al Rudan",
+                  "text": "A Muslim place of worship located near the markets of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.132949,
+                        29.088758
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-AH",
     coords: [48.1364, 29.0833],
@@ -1118,7 +1865,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al-Hasawi",
-                  "text": "Attraktion in Jleeb Al-Shuyoukh.",
+                  "text": "Ein markanter Turm (Al-Hasawi) in Jleeb Al Shuyoukh, bekannt für seine Architektur.",
                   "category": "landmark",
                   "coords": [
                         47.920339,
@@ -1127,7 +1874,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Shathur Salon",
-                  "text": "Aussichtspunkt in Jleeb Al-Shuyoukh.",
+                  "text": "Ein angelegter Garten (Salon shathar) mit Springbrunnen in Jleeb Al Shuyoukh.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -1138,7 +1885,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al-Hasawi",
-                  "text": "Látnivaló Jleeb Al-Shuyoukhban.",
+                  "text": "Egy jellegzetes torony (Al-Hasawi) Jleeb Al Shuyoukhban, ismert építészetéről.",
                   "category": "landmark",
                   "coords": [
                         47.920339,
@@ -1147,7 +1894,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Shathur Salon",
-                  "text": "Kilátó Jleeb Al-Shuyoukhban.",
+                  "text": "Egy parkosított kert (Salon shathar) szökőkutakkal Jleeb Al Shuyoukhban.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -1158,7 +1905,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al-Hasawi",
-                  "text": "Atracție în Jleeb Al-Shuyoukh.",
+                  "text": "Un turn distinctiv (Al-Hasawi) în Jleeb Al Shuyoukh, cunoscut pentru arhitectura sa.",
                   "category": "landmark",
                   "coords": [
                         47.920339,
@@ -1167,7 +1914,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Shathur Salon",
-                  "text": "Punct de observație în Jleeb Al-Shuyoukh.",
+                  "text": "O grădină amenajată (Salon shathar) cu fântâni în Jleeb Al Shuyoukh.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -1178,7 +1925,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al-Hasawi",
-                  "text": "Attraction in Jleeb Al-Shuyoukh.",
+                  "text": "A distinctive tower (Al-Hasawi) in Jleeb Al Shuyoukh, known for its architecture.",
                   "category": "landmark",
                   "coords": [
                         47.920339,
@@ -1187,7 +1934,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Salon shathar",
-                  "text": "Viewpoint in Jleeb Al-Shuyoukh.",
+                  "text": "A landscaped garden (Salon shathar) with fountains in Jleeb Al Shuyoukh.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -1332,7 +2079,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ajial Theater",
-                  "text": "Ajial Theater ist ein lokales Theater in Mangaf.",
+                  "text": "Ein Theater in Mangaf, das Theaterstücke und Konzerte für die lokale Gemeinschaft veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         48.136356,
@@ -1343,7 +2090,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ajial Theater",
-                  "text": "Az Ajial Theater egy helyi színház Mangaf városában.",
+                  "text": "Egy színház Mangafban, amely színdarabokat és koncerteket rendez a helyi közösség számára.",
                   "category": "cultural",
                   "coords": [
                         48.136356,
@@ -1354,7 +2101,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ajial Theater",
-                  "text": "Ajial Theater este un teatru local situat în Mangaf.",
+                  "text": "Un teatru în Mangaf care găzduiește piese de teatru și concerte pentru comunitatea locală.",
                   "category": "cultural",
                   "coords": [
                         48.136356,
@@ -1365,7 +2112,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ajial Theater",
-                  "text": "Ajial Theater is a local theatre located in Mangaf.",
+                  "text": "A theater in Mangaf hosting plays and concerts for the local community.",
                   "category": "cultural",
                   "coords": [
                         48.136356,
@@ -1421,7 +2168,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Wasserpark in Abu Halifa.",
+                  "text": "Ein Indoor-Surf- und Freizeitzentrum mit einer Wellenmaschine in Abu Halifa.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -1432,7 +2179,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Élményfürdő Abu Halifában.",
+                  "text": "Egy beltéri szörf- és szabadidőközpont hullámgéppel Abu Halifában.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -1443,7 +2190,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Parc acvatic în Abu Halifa.",
+                  "text": "Un centru interior de surf și agrement cu o mașină de valuri în Abu Halifa.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -1454,7 +2201,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Water park in Abu Halifa.",
+                  "text": "An indoor surfing and leisure facility with a wave machine in Abu Halifa.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -1510,7 +2257,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al Hashemi Marine Museum",
-                  "text": "Das Al Hashemi Marine Museum ist ein Museum in der Stadt Rumaithiya.",
+                  "text": "Museum an Bord der Al-Hashemi II, einer großen hölzernen Dau, die in Rumaithiya vor Anker liegt und die maritime Geschichte zeigt.",
                   "category": "museum",
                   "coords": [
                         48.089345,
@@ -1519,7 +2266,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Tariq Rajab Museum",
-                  "text": "Das Tariq Rajab Museum ist ein Museum in Rumaithiya.",
+                  "text": "Ein Museum in Rumaithiya mit einer Sammlung islamischer Kunst, Kalligrafie und Musikinstrumenten.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1528,7 +2275,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Die Imam Zayn Al-Aabideen Mosque ist ein schiitisches Gotteshaus in Rumaithiya.",
+                  "text": "Große Moschee in Rumaithiya mit einer zentralen Kuppel und zwei Minaretten.",
                   "category": "religious",
                   "coords": [
                         48.079834,
@@ -1539,7 +2286,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al Hashemi Marine Museum",
-                  "text": "Az Al Hashemi Marine Museum egy múzeum Rumaithiya városában.",
+                  "text": "Múzeum a Al-Hashemi II fedélzetén, egy nagy fából készült dhow-n, amely Rumaithiyában horgonyoz, bemutatva a tengeri történelmet.",
                   "category": "museum",
                   "coords": [
                         48.089345,
@@ -1548,7 +2295,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Tariq Rajab Museum",
-                  "text": "A Tariq Rajab Museum egy múzeum Rumaithiya városában.",
+                  "text": "Egy múzeum Rumaithiyában, iszlám művészeti, kalligráfiai és hangszergyűjteménnyel.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1557,7 +2304,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Az Imam Zayn Al-Aabideen Mosque egy síita mecset Rumaithiya városában.",
+                  "text": "Nagy mecset Rumaithiyában, központi kupolával és két minarettel.",
                   "category": "religious",
                   "coords": [
                         48.079834,
@@ -1568,7 +2315,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al Hashemi Marine Museum",
-                  "text": "Al Hashemi Marine Museum este un muzeu din orașul Rumaithiya.",
+                  "text": "Muzeu la bordul Al-Hashemi II, un mare dhow de lemn ancorat în Rumaithiya, prezentând istoria maritimă.",
                   "category": "museum",
                   "coords": [
                         48.089345,
@@ -1577,7 +2324,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Tariq Rajab Museum",
-                  "text": "Tariq Rajab Museum este un muzeu în orașul Rumaithiya.",
+                  "text": "Un muzeu în Rumaithiya care adăpostește o colecție de artă islamică, caligrafie și instrumente muzicale.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1586,7 +2333,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Imam Zayn Al-Aabideen Mosque este un lăcaș de cult șiit din orașul Rumaithiya.",
+                  "text": "Moschee mare în Rumaithiya, cu o cupolă centrală și două minarete.",
                   "category": "religious",
                   "coords": [
                         48.079834,
@@ -1597,7 +2344,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al Hashemi Marine Museum",
-                  "text": "The Al Hashemi Marine Museum is a museum in the city of Rumaithiya.",
+                  "text": "Museum aboard the Al-Hashemi II, a large wooden dhow moored in Rumaithiya, showcasing maritime history.",
                   "category": "museum",
                   "coords": [
                         48.089345,
@@ -1606,7 +2353,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Tariq Rajab Museum",
-                  "text": "The Tariq Rajab Museum is a museum located in Rumaithiya.",
+                  "text": "A museum in Rumaithiya housing a collection of Islamic art, calligraphy, and musical instruments.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1615,7 +2362,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "The Imam Zayn Al-Aabideen Mosque is a Shia place of worship located in Rumaithiya.",
+                  "text": "Large mosque in Rumaithiya with a central dome and twin minarets.",
                   "category": "religious",
                   "coords": [
                         48.079834,
@@ -1667,7 +2414,88 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-sabah-al-salem-cities-v2",
+    id: "kw-sabah-al-salem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Iz Ibn Abdulsalam Mosque",
+                  "text": "Die Al-Iz-Ibn-Abdulsalam-Moschee dient den Bewohnern von Sabah Al-Salem als islamisches Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056701,
+                        29.231925
+                  ]
+            },
+            {
+                  "name": "Al Qadhi Abu Yousif Mosque",
+                  "text": "Die Al-Qadhi-Abu-Yousif-Moschee ist eine aktive islamische Stätte, die Gläubigen in Sabah Al-Salem Platz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059378,
+                        29.234592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Iz Ibn Abdulsalam Mosque",
+                  "text": "Az Al Iz Ibn Abdulsalam mecset iszlám istentiszteleti helyként szolgálja Sabah Al-Salem lakóit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056701,
+                        29.231925
+                  ]
+            },
+            {
+                  "name": "Al Qadhi Abu Yousif Mosque",
+                  "text": "Az Al Qadhi Abu Yousif mecset egy aktív iszlám helyszín, amely a hívőket fogadja Sabah Al-Salemben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059378,
+                        29.234592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Iz Ibn Abdulsalam Mosque",
+                  "text": "Moscheea Al Iz Ibn Abdulsalam servește locuitorilor din Sabah Al-Salem ca lăcaș de cult islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056701,
+                        29.231925
+                  ]
+            },
+            {
+                  "name": "Al Qadhi Abu Yousif Mosque",
+                  "text": "Moscheea Al Qadhi Abu Yousif este un sit islamic activ care găzduiește închinători în Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059378,
+                        29.234592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Iz Ibn Abdulsalam Mosque",
+                  "text": "The Al Iz Ibn Abdulsalam Mosque serves the residents of Sabah Al-Salem as an Islamic place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056701,
+                        29.231925
+                  ]
+            },
+            {
+                  "name": "Al Qadhi Abu Yousif Mosque",
+                  "text": "Al Qadhi Abu Yousif Mosque is an active Islamic site accommodating worshippers in Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059378,
+                        29.234592
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-MU",
     coords: [48.0558, 29.2558],
@@ -1715,7 +2543,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tareq Rajab Museum",
-                  "text": "Museum für islamische Kunst in Jabriya.",
+                  "text": "Das Tariq Rajab Museum in Jabriya beherbergt eine renommierte Sammlung islamischer Keramik und Handschriften.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1724,7 +2552,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Abdullah Al Salem Cultural Centre",
-                  "text": "Kulturzentrum in Jabriya.",
+                  "text": "Das Sheikh Abdullah Al-Salem Cultural Centre in Jabriya umfasst sechs Museen, darunter ein Naturkundemuseum und ein Wissenschaftsmuseum.",
                   "category": "museum",
                   "coords": [
                         48.040623,
@@ -1735,7 +2563,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tareq Rajab Museum",
-                  "text": "Iszlám művészeti múzeum Jabriyában.",
+                  "text": "A jabriai Tariq Rajab Múzeum híres az iszlám kerámia és kéziratok gyűjteményéről.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1744,7 +2572,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Abdullah Al Salem Cultural Centre",
-                  "text": "Kulturális központ Jabriyában.",
+                  "text": "A jabriai Sheikh Abdullah Al-Salem Kulturközpont hat hat múzeumot, köztük természetrajzi és tudományos múzeumot.",
                   "category": "museum",
                   "coords": [
                         48.040623,
@@ -1755,7 +2583,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tareq Rajab Museum",
-                  "text": "Muzeu de artă islamică în Jabriya.",
+                  "text": "Muzeul Tariq Rajab din Jabriya deține o colecție renumită de ceramică și manuscrise islamice.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1764,7 +2592,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Abdullah Al Salem Cultural Centre",
-                  "text": "Centru cultural în Jabriya.",
+                  "text": "Centrul Cultural Sheikh Abdullah Al-Salem din Jabriya cuprinde șase muzee, inclusiv un muzeu de istorie naturală și unul științific.",
                   "category": "museum",
                   "coords": [
                         48.040623,
@@ -1775,7 +2603,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tariq Rajab Museum",
-                  "text": "Museum of Islamic art in Jabriya.",
+                  "text": "The Tariq Rajab Museum in Jabriya houses a renowned collection of Islamic ceramics and manuscripts.",
                   "category": "museum",
                   "coords": [
                         48.047192,
@@ -1784,7 +2612,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Abdullah Al-Salem Cultural Centre",
-                  "text": "Cultural centre in Jabriya.",
+                  "text": "The Sheikh Abdullah Al-Salem Cultural Centre in Jabriya features six museums, including a natural history and a science museum.",
                   "category": "museum",
                   "coords": [
                         48.040623,
@@ -1836,7 +2664,88 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-salwa-cities-v2", "sights": {"de": [{"name": "Al Hashemi Marine Museum", "text": "Das Al Hashemi Marine Museum ist ein Museum in der Stadt Salwa.", "category": "museum", "coords": [48.089345, 29.301498]}, {"name": "Messilah Beach", "text": "Der Messilah Beach in der Stadt Salwa vereint großstädtischen Komfort mit erholsamem Strandvergnügen am Arabischen Golf. Hier herrscht meist ein munteres Treiben, das zu erfrischenden Schwimmrunden und sonnigen Stunden im feinen Sand einlädt. Besonders am Wochenende sollte man frühzeitig eintreffen, um einen entspannten Tag am Wasser zu verbringen.", "category": "recreational", "coords": [48.089079, 29.277677]}], "hu": [{"name": "Al Hashemi Marine Museum", "text": "Az Al Hashemi Marine Museum egy múzeum Salwa városában.", "category": "museum", "coords": [48.089345, 29.301498]}, {"name": "Messilah Beach", "text": "A Szalva városában elterülő Messilah Beach a nagyvárosi kényelmet ötvözi a pihentető tengerparti élménnyel az Arab-öböl partján. Az itt uralkodó jókedvű nyüzsgés frissítő úszásra és napfényes tengerparti órákra hívogat. Különösen hétvégén érdemes korán érkezni egy gondtalan vízparti naphoz.", "category": "recreational", "coords": [48.089079, 29.277677]}], "ro": [{"name": "Al Hashemi Marine Museum", "text": "Al Hashemi Marine Museum este un muzeu din orașul Salwa.", "category": "museum", "coords": [48.089345, 29.301498]}, {"name": "Messilah Beach", "text": "Messilah Beach din orașul Salwa îmbină confortul metropolitan cu distracția relaxantă la plajă, pe malul Golfului Arab. O atmosferă veselă domină adesea peisajul, invitând vizitatorii la înot și la ore lungi de plajă. O sosire matinală, mai ales în weekend, este ideală pentru a asigura o zi fără griji la mare.", "category": "recreational", "coords": [48.089079, 29.277677]}], "en": [{"name": "Al Hashemi Marine Museum", "text": "The Al Hashemi Marine Museum is a museum located in the city of Salwa.", "category": "museum", "coords": [48.089345, 29.301498]}, {"name": "Messilah Beach", "text": "Messilah Beach in the city of Salwa pairs metropolitan comfort with relaxing beach fun by the Arabian Gulf. A cheerful buzz usually fills the air, inviting guests for refreshing swims and sunny hours on the fine sand. Arriving early, especially on weekends, is a great strategy for a stress-free day by the water.", "category": "recreational", "coords": [48.089079, 29.277677]}]},
+    id: "kw-salwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Museum auf der Al-Hashemi II, einer Dau, die jetzt in Salwa liegt und an die Perlenfischerei erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "Der Messilah Beach in der Stadt Salwa vereint großstädtischen Komfort mit erholsamem Strandvergnügen am Arabischen Golf. Hier herrscht meist ein munteres Treiben, das zu erfrischenden Schwimmrunden und sonnigen Stunden im feinen Sand einlädt. Besonders am Wochenende sollte man frühzeitig eintreffen, um einen entspannten Tag am Wasser zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Múzeum a Al-Hashemi II nevű dhow-n, amely ma Salwában horgonyoz, a gyöngyhalászat örökségét bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "A Szalva városában elterülő Messilah Beach a nagyvárosi kényelmet ötvözi a pihentető tengerparti élménnyel az Arab-öböl partján. Az itt uralkodó jókedvű nyüzsgés frissítő úszásra és napfényes tengerparti órákra hívogat. Különösen hétvégén érdemes korán érkezni egy gondtalan vízparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Muzeu pe dhow-ul Al-Hashemi II, acum ancorat în Salwa, care amintește de moștenirea pescuitului de perle.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "Messilah Beach din orașul Salwa îmbină confortul metropolitan cu distracția relaxantă la plajă, pe malul Golfului Arab. O atmosferă veselă domină adesea peisajul, invitând vizitatorii la înot și la ore lungi de plajă. O sosire matinală, mai ales în weekend, este ideală pentru a asigura o zi fără griji la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Museum on the Al-Hashemi II dhow, now moored in Salwa, displaying Kuwait's pearl diving heritage.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "Messilah Beach in the city of Salwa pairs metropolitan comfort with relaxing beach fun by the Arabian Gulf. A cheerful buzz usually fills the air, inviting guests for refreshing swims and sunny hours on the fine sand. Arriving early, especially on weekends, is a great strategy for a stress-free day by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-HA",
     coords: [48.0781, 29.2942],
@@ -1973,7 +2882,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Will",
-                  "text": "Attraktion in Ardhiya.",
+                  "text": "Will's Place in Ardhiya ist ein beliebter Treffpunkt für Einheimische und gilt als lokales Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         47.909715,
@@ -1982,7 +2891,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Shathur Salon",
-                  "text": "Aussichtspunkt in Ardhiya.",
+                  "text": "Salon shathar in Ardhiya ist ein Naturgebiet mit einer Mischung aus Wüstenflora und grünen Flächen.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -1993,7 +2902,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Will",
-                  "text": "Látnivaló Ardhiyában.",
+                  "text": "Az ardhiyai Will's Place egy népszerű találkozóhely a helyiek számára, helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         47.909715,
@@ -2002,7 +2911,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Shathur Salon",
-                  "text": "Kilátó Ardhiyában.",
+                  "text": "Az ardhiyai Salon shathar egy természeti terület, ahol sivatagi növényzet és zöldfelületek váltakoznak.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -2013,7 +2922,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Will",
-                  "text": "Atracție în Ardhiya.",
+                  "text": "Will's Place din Ardhiya este un reper local, un loc de întâlnire popular pentru localnici.",
                   "category": "landmark",
                   "coords": [
                         47.909715,
@@ -2022,7 +2931,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Shathur Salon",
-                  "text": "Punct de observație în Ardhiya.",
+                  "text": "Salon shathar din Ardhiya este o zonă naturală cu un amestec de floră deșertică și spații verzi.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -2033,7 +2942,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Will's Place",
-                  "text": "Attraction in Ardhiya.",
+                  "text": "Will's Place in Ardhiya is a popular local landmark and gathering spot for residents.",
                   "category": "landmark",
                   "coords": [
                         47.909715,
@@ -2042,7 +2951,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Salon shathar",
-                  "text": "Viewpoint in Ardhiya.",
+                  "text": "Salon shathar in Ardhiya is a natural area with a mix of desert flora and green spaces.",
                   "category": "natural",
                   "coords": [
                         47.923399,
@@ -2098,7 +3007,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Flow House Kuwait ist ein Wasserpark in der Stadt Mahboula.",
+                  "text": "Flow House Kuwait in Mahboula bietet eine Indoor-Wellenbad-Anlage für Surfbegeisterte.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -2109,7 +3018,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "A Flow House Kuwait egy vízipark Mahboula városában.",
+                  "text": "A mahboulai Flow House Kuwait beltéri hullámmedencével várja a szörfösöket.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -2120,7 +3029,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Flow House Kuwait este un parc acvatic din orașul Mahboula.",
+                  "text": "Flow House Kuwait din Mahboula oferă o piscină interioară cu valuri pentru pasionații de surf.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -2131,7 +3040,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Flow House Kuwait",
-                  "text": "Flow House Kuwait is a water park located in the city of Mahboula.",
+                  "text": "Flow House Kuwait in Mahboula is an indoor wave pool facility for surfing enthusiasts.",
                   "category": "family",
                   "coords": [
                         48.132096,
@@ -2187,7 +3096,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Abu Hasaniya Public Beach",
-                  "text": "Abu Hasaniya Public Beach ist ein Küstenerholungsgebiet in Fintas.",
+                  "text": "Der Abu Hasaniya Public Beach in Fintas ist ein öffentlicher Sandstrand an der Golfküste.",
                   "category": "recreational",
                   "coords": [
                         48.115013,
@@ -2198,7 +3107,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Abu Hasaniya Public Beach",
-                  "text": "Az Abu Hasaniya Public Beach egy tengerparti rekreációs terület Fintasban.",
+                  "text": "A fintasi Abu Hasaniya Public Beach egy nyilvános homokos strand az Öböl partján.",
                   "category": "recreational",
                   "coords": [
                         48.115013,
@@ -2209,7 +3118,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Abu Hasaniya Public Beach",
-                  "text": "Abu Hasaniya Public Beach este o zonă de recreere pe coastă în Fintas.",
+                  "text": "Abu Hasaniya Public Beach din Fintas este o plajă publică nisipoasă pe coasta Golfului.",
                   "category": "recreational",
                   "coords": [
                         48.115013,
@@ -2220,7 +3129,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Abu Hasaniya Public Beach",
-                  "text": "Abu Hasaniya Public Beach is a coastal recreational area in Fintas.",
+                  "text": "Abu Hasaniya Public Beach in Fintas is a public sandy beach along the Gulf coast.",
                   "category": "recreational",
                   "coords": [
                         48.115013,
@@ -2272,7 +3181,556 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-sabahiya-cities-v2",
+    id: "kw-sabahiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "South Subahiya Theme Park",
+                  "text": "Der South Subahiya Theme Park bietet familienfreundliche Unterhaltung mit verschiedenen Fahrgeschäften vor der Kulisse der kuwaitischen Vorstadtlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        48.10156,
+                        29.089033
+                  ]
+            },
+            {
+                  "name": "Ubaid Faleh Al Mai",
+                  "text": "Die Moschee Ubaid Faleh Al Mai ist eine wichtige Gebetsstätte der Gemeinde, eingebettet in die Wohnstraßen von Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113373,
+                        29.105278
+                  ]
+            },
+            {
+                  "name": "Al-baraa Mosque",
+                  "text": "Die Al-baraa-Moschee hat ein robustes Mauerwerk und beherbergt große Freitagsgemeinden für die Anwohner der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113314,
+                        29.109197
+                  ]
+            },
+            {
+                  "name": "Ayda Mosque",
+                  "text": "Die Ayda-Moschee bietet einen kühlen, mit Teppich ausgelegten Gebetssaal, der islamischen Gläubigen aus den umliegenden Vorstadthäusern Trost spendet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112154,
+                        29.11551
+                  ]
+            },
+            {
+                  "name": "Bibi Abdulaziz Al Resheed Al Bader Mosque",
+                  "text": "Diese geräumige Vorstadtmoschee zeichnet sich durch ihr hohes, schlankes Minarett aus, das die örtliche Gemeinde in Subahiya zum Gebet ruft.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107584,
+                        29.116827
+                  ]
+            },
+            {
+                  "name": "Al-Subahiya",
+                  "text": "Eine islamische Kultstätte in Al-Subahiya, die der muslimischen Gemeinde als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10662,
+                        29.107707
+                  ]
+            },
+            {
+                  "name": "Abu Mosque",
+                  "text": "Eine lokale Moschee in Al-Subahiya, die Räumlichkeiten für die täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100652,
+                        29.102249
+                  ]
+            },
+            {
+                  "name": "Habeb Bin Zaid Al-Ansari Mosque",
+                  "text": "Ein islamisches Gotteshaus in Al-Subahiya, das für die religiösen Zusammenkünfte der Gemeinde genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10377,
+                        29.106023
+                  ]
+            },
+            {
+                  "name": "Talq Bin Aqab Mosque",
+                  "text": "Eine aktive Moschee, die als Zentrum für das islamische Gebet innerhalb von Al-Subahiya fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101198,
+                        29.106599
+                  ]
+            },
+            {
+                  "name": "Homoud Mosque",
+                  "text": "Eine lokale Moschee in Al-Subahiya, die der muslimischen Gemeinschaft für ihre täglichen Rituale dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101002,
+                        29.095933
+                  ]
+            },
+            {
+                  "name": "Ali Mosque",
+                  "text": "Ein islamischer Gebetsort in Al-Subahiya, der Gläubigen in der Region für ihre Andachten offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101991,
+                        29.099652
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "Eine Moschee in Al-Subahiya, die der spirituellen Praxis und den Gebeten der Anwohner gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105514,
+                        29.093805
+                  ]
+            },
+            {
+                  "name": "Masaud Al- Ansari",
+                  "text": "Eine lokale islamische Kultstätte in Al-Subahiya, die für gemeinschaftliche Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110744,
+                        29.094121
+                  ]
+            },
+            {
+                  "name": "Hamdan Ibraheem Gazi",
+                  "text": "Ein muslimisches Gotteshaus, das der Gemeinschaft in der Region Al-Subahiya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115564,
+                        29.094873
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Hadeeb Mosque",
+                  "text": "Eine Moschee in Al-Subahiya, die als religiöser Treffpunkt für die täglichen Gebete der Nachbarschaft fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.111826,
+                        29.0989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South Subahiya Theme Park",
+                  "text": "A South Subahiya Vidámpark családbarát szórakozást nyújt különféle vidámparki túrákkal a kuvaiti külvárosi táj hátterében.",
+                  "category": "recreational",
+                  "coords": [
+                        48.10156,
+                        29.089033
+                  ]
+            },
+            {
+                  "name": "Ubaid Faleh Al Mai",
+                  "text": "Az Ubaid Faleh Al Mai mecset a közösség szerves imádkozóhelye, amely Szubahija lakóutcáiban fészkel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113373,
+                        29.105278
+                  ]
+            },
+            {
+                  "name": "Al-baraa Mosque",
+                  "text": "Az Al-baraa mecset masszív téglafalazattal rendelkezik, és nagy pénteki gyülekezeteket fogad a környék helyi lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113314,
+                        29.109197
+                  ]
+            },
+            {
+                  "name": "Ayda Mosque",
+                  "text": "Az Ayda mecset hűvös, szőnyeggel borított imatermet kínál, amely vigaszt nyújt az iszlám hívőknek a környező külvárosi otthonokból.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112154,
+                        29.11551
+                  ]
+            },
+            {
+                  "name": "Bibi Abdulaziz Al Resheed Al Bader Mosque",
+                  "text": "Ez a tágas külvárosi mecset figyelemre méltó magas, karcsú minaretjéről, amely imára hívja a helyi szubahijai közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107584,
+                        29.116827
+                  ]
+            },
+            {
+                  "name": "Al-Subahiya",
+                  "text": "Iszlám vallási hely Al-Subahiyában, amely a muszlim közösség imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10662,
+                        29.107707
+                  ]
+            },
+            {
+                  "name": "Abu Mosque",
+                  "text": "Helyi mecset Al-Subahiyában, amely teret biztosít a mindennapi iszlám imák és gyülekezetek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100652,
+                        29.102249
+                  ]
+            },
+            {
+                  "name": "Habeb Bin Zaid Al-Ansari Mosque",
+                  "text": "Iszlám istentiszteleti hely Al-Subahiyában, amelyet a helyi közösség vallási összejövetelekre használ.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10377,
+                        29.106023
+                  ]
+            },
+            {
+                  "name": "Talq Bin Aqab Mosque",
+                  "text": "Aktív mecset, amely az iszlám ima központjaként működik Al-Subahiya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101198,
+                        29.106599
+                  ]
+            },
+            {
+                  "name": "Homoud Mosque",
+                  "text": "Helyi mecset Al-Subahiyában, amely a muszlim közösség mindennapi vallási rituáléit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101002,
+                        29.095933
+                  ]
+            },
+            {
+                  "name": "Ali Mosque",
+                  "text": "Iszlám imaház Al-Subahiyában, amely a régió hívői számára nyitva áll az áhítat céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101991,
+                        29.099652
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "Mecset Al-Subahiyában, amelyet a környékbeliek spirituális gyakorlatainak és imáinak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105514,
+                        29.093805
+                  ]
+            },
+            {
+                  "name": "Masaud Al- Ansari",
+                  "text": "Helyi iszlám vallási helyszín Al-Subahiyában, amelyet közösségi imádkozásra használnak a lakosok.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110744,
+                        29.094121
+                  ]
+            },
+            {
+                  "name": "Hamdan Ibraheem Gazi",
+                  "text": "Muszlim istentiszteleti hely, amely az Al-Subahiya régió közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115564,
+                        29.094873
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Hadeeb Mosque",
+                  "text": "Mecset Al-Subahiyában, amely vallási találkozóhelyként funkcionál a szomszédság napi imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.111826,
+                        29.0989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South Subahiya Theme Park",
+                  "text": "Parcul tematic South Subahiya oferă divertisment pentru familii, cu diverse atracții de agrement amplasate pe fundalul peisajului suburban din Kuweit.",
+                  "category": "recreational",
+                  "coords": [
+                        48.10156,
+                        29.089033
+                  ]
+            },
+            {
+                  "name": "Ubaid Faleh Al Mai",
+                  "text": "Moscheea Ubaid Faleh Al Mai este un loc de rugăciune integrant al comunității, cuibărit pe străzile rezidențiale din Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113373,
+                        29.105278
+                  ]
+            },
+            {
+                  "name": "Al-baraa Mosque",
+                  "text": "Moscheea Al-baraa prezintă un exterior robust din zidărie și găzduiește congregații mari de vineri pentru rezidenții locali din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113314,
+                        29.109197
+                  ]
+            },
+            {
+                  "name": "Ayda Mosque",
+                  "text": "Moscheea Ayda oferă o sală de rugăciune răcoroasă, cu mochetă, oferind consolare credincioșilor islamici din casele suburbane din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112154,
+                        29.11551
+                  ]
+            },
+            {
+                  "name": "Bibi Abdulaziz Al Resheed Al Bader Mosque",
+                  "text": "Această moschee suburbană spațioasă este remarcabilă prin minaretul său înalt și subțire care cheamă la rugăciune comunitatea locală din Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107584,
+                        29.116827
+                  ]
+            },
+            {
+                  "name": "Al-Subahiya",
+                  "text": "Un lăcaș de cult islamic în Al-Subahiya care servește ca loc de rugăciune pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10662,
+                        29.107707
+                  ]
+            },
+            {
+                  "name": "Abu Mosque",
+                  "text": "O moschee locală în Al-Subahiya care oferă un spațiu dedicat pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100652,
+                        29.102249
+                  ]
+            },
+            {
+                  "name": "Habeb Bin Zaid Al-Ansari Mosque",
+                  "text": "Un lăcaș de cult islamic în Al-Subahiya, folosit pentru întrunirile religioase ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10377,
+                        29.106023
+                  ]
+            },
+            {
+                  "name": "Talq Bin Aqab Mosque",
+                  "text": "O moschee activă care funcționează ca un centru pentru rugăciunea islamică în Al-Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101198,
+                        29.106599
+                  ]
+            },
+            {
+                  "name": "Homoud Mosque",
+                  "text": "O moschee locală în Al-Subahiya care servește ritualurilor religioase zilnice ale comunității musulmane.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101002,
+                        29.095933
+                  ]
+            },
+            {
+                  "name": "Ali Mosque",
+                  "text": "Un loc de rugăciune islamic în Al-Subahiya, deschis credincioșilor din regiune pentru devotamentul lor.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101991,
+                        29.099652
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "O moschee în Al-Subahiya, dedicată practicilor spirituale și rugăciunilor zilnice ale locuitorilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105514,
+                        29.093805
+                  ]
+            },
+            {
+                  "name": "Masaud Al- Ansari",
+                  "text": "Un lăcaș religios islamic local în Al-Subahiya, folosit pentru rugăciuni comunitare de către rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110744,
+                        29.094121
+                  ]
+            },
+            {
+                  "name": "Hamdan Ibraheem Gazi",
+                  "text": "Un lăcaș de cult musulman care deservește nevoile religioase ale comunității din regiunea Al-Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115564,
+                        29.094873
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Hadeeb Mosque",
+                  "text": "O moschee în Al-Subahiya care funcționează ca un punct de întâlnire religios pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.111826,
+                        29.0989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South Subahiya Theme Park",
+                  "text": "South Subahiya Theme Park provides family-friendly entertainment with various amusement rides set against the suburban Kuwaiti landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        48.10156,
+                        29.089033
+                  ]
+            },
+            {
+                  "name": "Ubaid Faleh Al Mai",
+                  "text": "The Ubaid Faleh Al Mai Mosque is an integral community prayer site nestled in the residential streets of Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113373,
+                        29.105278
+                  ]
+            },
+            {
+                  "name": "Al-baraa Mosque",
+                  "text": "Al-baraa Mosque features a sturdy masonry exterior and hosts large Friday congregations for the local residents of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113314,
+                        29.109197
+                  ]
+            },
+            {
+                  "name": "Ayda Mosque",
+                  "text": "The Ayda Mosque offers a cool, carpeted prayer hall providing solace for Islamic worshippers from the surrounding suburban homes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112154,
+                        29.11551
+                  ]
+            },
+            {
+                  "name": "Bibi Abdulaziz Al Resheed Al Bader Mosque",
+                  "text": "This spacious suburban mosque is notable for its tall, slender minaret that calls the local Subahiya community to prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107584,
+                        29.116827
+                  ]
+            },
+            {
+                  "name": "Al-Subahiya",
+                  "text": "An Islamic place of worship situated in Al-Subahiya, providing a space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10662,
+                        29.107707
+                  ]
+            },
+            {
+                  "name": "Abu Mosque",
+                  "text": "A local mosque in Al-Subahiya providing a dedicated space for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100652,
+                        29.102249
+                  ]
+            },
+            {
+                  "name": "Habeb Bin Zaid Al-Ansari Mosque",
+                  "text": "An Islamic religious site in Al-Subahiya utilized for the local community's spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10377,
+                        29.106023
+                  ]
+            },
+            {
+                  "name": "Talq Bin Aqab Mosque",
+                  "text": "An active mosque functioning as a center for Islamic prayer within Al-Subahiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101198,
+                        29.106599
+                  ]
+            },
+            {
+                  "name": "Homoud Mosque",
+                  "text": "A local mosque in Al-Subahiya serving the daily religious rituals of the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101002,
+                        29.095933
+                  ]
+            },
+            {
+                  "name": "Ali Mosque",
+                  "text": "An Islamic prayer space in Al-Subahiya open to believers in the region for their devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101991,
+                        29.099652
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "A mosque in Al-Subahiya dedicated to the spiritual practices and daily prayers of the local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105514,
+                        29.093805
+                  ]
+            },
+            {
+                  "name": "Masaud Al- Ansari",
+                  "text": "A local Islamic religious venue in Al-Subahiya used for communal praying by the inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110744,
+                        29.094121
+                  ]
+            },
+            {
+                  "name": "Hamdan Ibraheem Gazi",
+                  "text": "A Muslim place of worship that serves the religious needs of the Al-Subahiya region's community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115564,
+                        29.094873
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Hadeeb Mosque",
+                  "text": "A mosque in Al-Subahiya functioning as a religious meeting point for the neighborhood's daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.111826,
+                        29.0989
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-AH",
     coords: [48.1114, 29.0917],
@@ -2320,7 +3778,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "parents house",
-                  "text": "Parents house ist ein Schloss in der Stadt Al-Qusour.",
+                  "text": "Das als Elternhaus bekannte Gebäude in Al Qusour ist ein privates Wohnhaus im Burgstil.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2329,7 +3787,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT ist ein Kunstzentrum in der Stadt Al-Qusour.",
+                  "text": "ArtStudioKWT in Al Qusour ist ein Kulturstudio mit Workshops und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2340,7 +3798,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "parents house",
-                  "text": "A parents house egy kastély Al-Qusour városában.",
+                  "text": "Az Al Qusour-i „parents house” egy magánlakás, amelyet kastélyszerűen építettek.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2349,7 +3807,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "ArtStudioKWT",
-                  "text": "Az ArtStudioKWT egy művészeti központ Al-Qusour városában.",
+                  "text": "Az Al Qusour-i ArtStudioKWT egy kulturális stúdió, amely műhelyeket és kiállításokat kínál.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2360,7 +3818,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "parents house",
-                  "text": "Parents house este un castel din orașul Al-Qusour.",
+                  "text": "„Parents house” din Al Qusour este o casă privată construită în stil de castel.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2369,7 +3827,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT este un centru de artă din orașul Al-Qusour.",
+                  "text": "ArtStudioKWT din Al Qusour este un studio cultural ce oferă ateliere și expoziții.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2380,7 +3838,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "parents house",
-                  "text": "Parents house is a castle located in the city of Al-Qusour.",
+                  "text": "The 'parents house' in Al Qusour is a private residence built in a castle-like style.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2389,7 +3847,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT is an arts centre located in the city of Al-Qusour.",
+                  "text": "ArtStudioKWT in Al Qusour is a cultural studio offering workshops and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2445,7 +3903,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "parents house",
-                  "text": "Der als parents house bekannte Ort wird als schlossartiges Bauwerk in Al-Qurain kategorisiert.",
+                  "text": "Das als Elternhaus bekannte Gebäude in Al Qurain ist ein privates Wohnhaus im Burgstil.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2465,7 +3923,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "parents house",
-                  "text": "A parents house néven ismert helyszín egy kastély jellegű építmény Al-Qurain városában.",
+                  "text": "Az Al Qurain-i „parents house” egy magánlakás, kastélyszerű kivitelben.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2485,7 +3943,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "parents house",
-                  "text": "Situl cunoscut sub numele de parents house este categorisit ca un edificiu de tip castel în Al-Qurain.",
+                  "text": "„Parents house” din Al Qurain este o casă privată cu aspect de castel.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2505,7 +3963,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "parents house",
-                  "text": "The site known as parents house is categorized as a castle structure in Al-Qurain.",
+                  "text": "The 'parents house' in Al Qurain is a private home designed like a castle.",
                   "category": "castle",
                   "coords": [
                         48.086694,
@@ -2566,7 +4024,988 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-ali-sabah-al-salem-cities-v2",
+    id: "kw-ali-sabah-al-salem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rashed Muhammad Al Anzi",
+                  "text": "Eine muslimische religiöse Stätte innerhalb der Wohnblöcke des Viertels Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154704,
+                        28.967047
+                  ]
+            },
+            {
+                  "name": "Haritha Bin Saraqa",
+                  "text": "Ein in das städtische Gefüge von Ali Sabah Al-Salem integriertes islamisches Gebetszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152704,
+                        28.946878
+                  ]
+            },
+            {
+                  "name": "Arqam bin Abi Al-Arqam",
+                  "text": "Diese Moschee ist ein lokaler Treffpunkt für die täglichen Gebete im Bezirk Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150271,
+                        28.960834
+                  ]
+            },
+            {
+                  "name": "Nesha Barghash Al-Qahtani",
+                  "text": "Eine Nachbarschaftsmoschee, die den Bewohnern von Ali Sabah Al-Salem einen Ort der Anbetung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.14294,
+                        28.963951
+                  ]
+            },
+            {
+                  "name": "Jalal Al Dein Al Suwati",
+                  "text": "Ein islamisches Religionszentrum inmitten der modernen Bebauung von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146991,
+                        28.964799
+                  ]
+            },
+            {
+                  "name": "Abu Ayoub Al Ansari",
+                  "text": "Ein muslimischer Gebetsort für die Gläubigen im Stadtgebiet von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152947,
+                        28.963672
+                  ]
+            },
+            {
+                  "name": "Ali Sabah Al-Salem",
+                  "text": "Ein zentraler islamischer Gottesdienstraum im Herzen der städtischen Zone Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160758,
+                        28.963891
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Naim Al-Asbhani",
+                  "text": "Eine islamische Gebetsstätte inmitten der Wohnstraßen von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.16189,
+                        28.959719
+                  ]
+            },
+            {
+                  "name": "Al Deiat",
+                  "text": "Diese Moschee dient als spiritueller Anker für die lokale muslimische Gemeinschaft in Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160341,
+                        28.957003
+                  ]
+            },
+            {
+                  "name": "Sufian Bin Aeana",
+                  "text": "Eine muslimische Kultstätte, die den Einwohnern von Ali Sabah Al-Salem tägliche Gebete anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160466,
+                        28.954524
+                  ]
+            },
+            {
+                  "name": "Bader Al Den Al Aeani",
+                  "text": "Ein islamischer Gebetssaal inmitten der Wohnanlagen von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.162163,
+                        28.95208
+                  ]
+            },
+            {
+                  "name": "Hussain Al Mashhor",
+                  "text": "Eine Moschee, die der lokalen Nachbarschaft im Stadtbezirk Ali Sabah Al-Salem dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.161003,
+                        28.948691
+                  ]
+            },
+            {
+                  "name": "Ez Al Den Al Athier",
+                  "text": "Ein muslimisches Religionsgebäude in den Wohnvierteln von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155823,
+                        28.949124
+                  ]
+            },
+            {
+                  "name": "Anas bin Al-Nadr",
+                  "text": "Diese Moschee bietet der lokalen muslimischen Bevölkerung von Ali Sabah Al-Salem einen eigenen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152665,
+                        28.952879
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al Thahabi",
+                  "text": "Ein islamisches Gebetszentrum, das in die Vorstadtlandschaft von Ali Sabah Al-Salem integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.148226,
+                        28.948721
+                  ]
+            },
+            {
+                  "name": "Al Imam Daraqutni",
+                  "text": "Eine lokale Moschee, die als spirituelle Stätte für die Bewohner von Ali Sabah Al-Salem fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146576,
+                        28.952711
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Ubaid al-Qasim bin Salam",
+                  "text": "Eine muslimische Kultstätte in der geplanten Gemeinde Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150222,
+                        28.955161
+                  ]
+            },
+            {
+                  "name": "Mararuh Bin Al Rabie",
+                  "text": "Ein islamisches Heiligtum für die täglichen Gemeindegebete in Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154999,
+                        28.955974
+                  ]
+            },
+            {
+                  "name": "Abu Hudhaifa Bin Ataba",
+                  "text": "Diese Moschee steht inmitten der lokalen Wohnhäuser des Bezirks Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.153779,
+                        28.958632
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al-Monthari",
+                  "text": "Eine muslimische religiöse Einrichtung, die den Familien des Viertels Ali Sabah Al-Salem dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.145923,
+                        28.960301
+                  ]
+            },
+            {
+                  "name": "Al Imam Al SHoukani",
+                  "text": "Eine Nachbarschaftsmoschee, die tägliche Gebete im Herzen von Ali Sabah Al-Salem anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143489,
+                        28.955888
+                  ]
+            },
+            {
+                  "name": "Om Al Momineen, Ayesha, daughter of Abu Bakr",
+                  "text": "Ein islamischer Gebetsraum für lokale Gläubige in der Region Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.141248,
+                        28.959738
+                  ]
+            },
+            {
+                  "name": "Helal Bin Omaia",
+                  "text": "Eine Moschee, die als gemeinschaftlicher Treffpunkt für Gebete in Ali Sabah Al-Salem dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142729,
+                        28.951718
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Tahawi",
+                  "text": "Eine muslimische Kultstätte inmitten der Wohngebäude von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143106,
+                        28.948506
+                  ]
+            },
+            {
+                  "name": "Al Fadel Bin Eyath",
+                  "text": "Ein islamisches Religionszentrum, das in das lokale Gemeinschaftsgefüge von Ali Sabah Al-Salem eingewoben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166407,
+                        28.955093
+                  ]
+            },
+            {
+                  "name": "Munira Mutlaq Al Azmi",
+                  "text": "Diese lokale Moschee bietet tägliche Gebetsdienste für die Bewohner von Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.164833,
+                        28.958083
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Sabah Al Ahmad Al Sabah",
+                  "text": "Eine markante muslimische Kultstätte, die der breiteren Gemeinde in Ali Sabah Al-Salem dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.17247,
+                        28.957325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rashed Muhammad Al Anzi",
+                  "text": "Muszlim vallási helyszín az Ali Sabah Al-Salem környék lakótömbjei között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154704,
+                        28.967047
+                  ]
+            },
+            {
+                  "name": "Haritha Bin Saraqa",
+                  "text": "Az Ali Sabah Al-Salem városi szövetébe integrált iszlám imaközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152704,
+                        28.946878
+                  ]
+            },
+            {
+                  "name": "Arqam bin Abi Al-Arqam",
+                  "text": "Ez a mecset a napi imák helyi gyülekezőhelye az Ali Sabah Al-Salem kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150271,
+                        28.960834
+                  ]
+            },
+            {
+                  "name": "Nesha Barghash Al-Qahtani",
+                  "text": "Szomszédsági mecset, amely istentiszteleti helyet biztosít Ali Sabah Al-Salem lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.14294,
+                        28.963951
+                  ]
+            },
+            {
+                  "name": "Jalal Al Dein Al Suwati",
+                  "text": "Iszlám vallási központ Ali Sabah Al-Salem modern fejlesztései között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146991,
+                        28.964799
+                  ]
+            },
+            {
+                  "name": "Abu Ayoub Al Ansari",
+                  "text": "Muszlim imahely, amely a hívőket szolgálja ki Ali Sabah Al-Salem városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152947,
+                        28.963672
+                  ]
+            },
+            {
+                  "name": "Ali Sabah Al-Salem",
+                  "text": "Központi iszlám istentiszteleti tér az Ali Sabah Al-Salem városi zóna szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160758,
+                        28.963891
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Naim Al-Asbhani",
+                  "text": "Iszlám imalétesítmény az Ali Sabah Al-Salem lakóutcáiban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.16189,
+                        28.959719
+                  ]
+            },
+            {
+                  "name": "Al Deiat",
+                  "text": "Ez a mecset spirituális horgonyként szolgál a helyi muszlim közösség számára Ali Sabah Al-Salemben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160341,
+                        28.957003
+                  ]
+            },
+            {
+                  "name": "Sufian Bin Aeana",
+                  "text": "Muszlim istentiszteleti hely, amely napi imákat kínál Ali Sabah Al-Salem lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160466,
+                        28.954524
+                  ]
+            },
+            {
+                  "name": "Bader Al Den Al Aeani",
+                  "text": "Iszlám imaterem az Ali Sabah Al-Salem lakóparkjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.162163,
+                        28.95208
+                  ]
+            },
+            {
+                  "name": "Hussain Al Mashhor",
+                  "text": "A helyi szomszédságot kiszolgáló mecset az Ali Sabah Al-Salem városi kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.161003,
+                        28.948691
+                  ]
+            },
+            {
+                  "name": "Ez Al Den Al Athier",
+                  "text": "Muszlim vallási épület Ali Sabah Al-Salem lakószektoraiban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155823,
+                        28.949124
+                  ]
+            },
+            {
+                  "name": "Anas bin Al-Nadr",
+                  "text": "Ez a mecset dedikált imateret biztosít a helyi muszlim lakosság számára Ali Sabah Al-Salemben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152665,
+                        28.952879
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al Thahabi",
+                  "text": "Az Ali Sabah Al-Salem külvárosi tájába integrált iszlám imaközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        48.148226,
+                        28.948721
+                  ]
+            },
+            {
+                  "name": "Al Imam Daraqutni",
+                  "text": "Helyi mecset, amely spirituális helyszínként funkcionál Ali Sabah Al-Salem lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146576,
+                        28.952711
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Ubaid al-Qasim bin Salam",
+                  "text": "Muszlim istentiszteleti hely a tervezett Ali Sabah Al-Salem közösségen belül.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150222,
+                        28.955161
+                  ]
+            },
+            {
+                  "name": "Mararuh Bin Al Rabie",
+                  "text": "Iszlám szentély a napi gyülekezeti imákhoz Ali Sabah Al-Salemben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154999,
+                        28.955974
+                  ]
+            },
+            {
+                  "name": "Abu Hudhaifa Bin Ataba",
+                  "text": "Ez a mecset az Ali Sabah Al-Salem kerület helyi lakóházai között áll.",
+                  "category": "landmark",
+                  "coords": [
+                        48.153779,
+                        28.958632
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al-Monthari",
+                  "text": "Muszlim vallási létesítmény, amely az Ali Sabah Al-Salem környékbeli családokat szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.145923,
+                        28.960301
+                  ]
+            },
+            {
+                  "name": "Al Imam Al SHoukani",
+                  "text": "Szomszédsági mecset, amely napi imákat kínál Ali Sabah Al-Salem szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143489,
+                        28.955888
+                  ]
+            },
+            {
+                  "name": "Om Al Momineen, Ayesha, daughter of Abu Bakr",
+                  "text": "A helyi hívőknek szentelt iszlám imatér az Ali Sabah Al-Salem területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.141248,
+                        28.959738
+                  ]
+            },
+            {
+                  "name": "Helal Bin Omaia",
+                  "text": "Mecset, amely közösségi gyülekezőhelyként szolgál az imákhoz Ali Sabah Al-Salemben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142729,
+                        28.951718
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Tahawi",
+                  "text": "Muszlim istentiszteleti hely az Ali Sabah Al-Salem lakóépületei között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143106,
+                        28.948506
+                  ]
+            },
+            {
+                  "name": "Al Fadel Bin Eyath",
+                  "text": "Az Ali Sabah Al-Salem helyi közösségi szövetébe szőtt iszlám vallási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166407,
+                        28.955093
+                  ]
+            },
+            {
+                  "name": "Munira Mutlaq Al Azmi",
+                  "text": "Ez a helyi mecset napi imaszolgáltatásokat kínál Ali Sabah Al-Salem lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.164833,
+                        28.958083
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Sabah Al Ahmad Al Sabah",
+                  "text": "Kiemelkedő muszlim istentiszteleti hely, amely a szélesebb közösséget szolgálja ki Ali Sabah Al-Salemben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.17247,
+                        28.957325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rashed Muhammad Al Anzi",
+                  "text": "Un sit religios musulman situat în blocurile rezidențiale din cartierul Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154704,
+                        28.967047
+                  ]
+            },
+            {
+                  "name": "Haritha Bin Saraqa",
+                  "text": "Un centru de rugăciune islamic integrat în țesutul urban din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152704,
+                        28.946878
+                  ]
+            },
+            {
+                  "name": "Arqam bin Abi Al-Arqam",
+                  "text": "Această moschee este un loc local de adunare pentru rugăciunile zilnice în districtul Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150271,
+                        28.960834
+                  ]
+            },
+            {
+                  "name": "Nesha Barghash Al-Qahtani",
+                  "text": "O moschee de cartier care oferă un lăcaș de cult pentru locuitorii din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.14294,
+                        28.963951
+                  ]
+            },
+            {
+                  "name": "Jalal Al Dein Al Suwati",
+                  "text": "Un centru religios islamic situat în mijlocul dezvoltărilor moderne din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146991,
+                        28.964799
+                  ]
+            },
+            {
+                  "name": "Abu Ayoub Al Ansari",
+                  "text": "Un loc de rugăciune musulman care găzduiește credincioșii din zona urbană Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152947,
+                        28.963672
+                  ]
+            },
+            {
+                  "name": "Ali Sabah Al-Salem",
+                  "text": "Un spațiu central de cult islamic situat în inima zonei urbane Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160758,
+                        28.963891
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Naim Al-Asbhani",
+                  "text": "O facilitate de rugăciune islamică amplasată pe străzile rezidențiale din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.16189,
+                        28.959719
+                  ]
+            },
+            {
+                  "name": "Al Deiat",
+                  "text": "Această moschee servește drept ancoră spirituală pentru comunitatea musulmană locală din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160341,
+                        28.957003
+                  ]
+            },
+            {
+                  "name": "Sufian Bin Aeana",
+                  "text": "Un lăcaș de cult musulman care oferă rugăciuni zilnice pentru locuitorii din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160466,
+                        28.954524
+                  ]
+            },
+            {
+                  "name": "Bader Al Den Al Aeani",
+                  "text": "O sală de rugăciune islamică situată printre complexele de locuințe din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.162163,
+                        28.95208
+                  ]
+            },
+            {
+                  "name": "Hussain Al Mashhor",
+                  "text": "O moschee care deservește cartierul local din districtul urban Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.161003,
+                        28.948691
+                  ]
+            },
+            {
+                  "name": "Ez Al Den Al Athier",
+                  "text": "Un clădire religioasă musulmană situată în sectoarele rezidențiale din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155823,
+                        28.949124
+                  ]
+            },
+            {
+                  "name": "Anas bin Al-Nadr",
+                  "text": "Această moschee oferă un spațiu de rugăciune dedicat populației musulmane locale din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152665,
+                        28.952879
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al Thahabi",
+                  "text": "Un centru de rugăciune islamic integrat în peisajul suburban din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.148226,
+                        28.948721
+                  ]
+            },
+            {
+                  "name": "Al Imam Daraqutni",
+                  "text": "O moschee locală care funcționează ca un sit spiritual pentru locuitorii din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146576,
+                        28.952711
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Ubaid al-Qasim bin Salam",
+                  "text": "Un lăcaș de cult musulman situat în comunitatea planificată Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150222,
+                        28.955161
+                  ]
+            },
+            {
+                  "name": "Mararuh Bin Al Rabie",
+                  "text": "Un sanctuar islamic pentru rugăciunile congregaționale zilnice din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154999,
+                        28.955974
+                  ]
+            },
+            {
+                  "name": "Abu Hudhaifa Bin Ataba",
+                  "text": "Această moschee se află printre reședințele locale din districtul Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.153779,
+                        28.958632
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al-Monthari",
+                  "text": "O facilitate religioasă musulmană care deservește familiile din cartierul Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.145923,
+                        28.960301
+                  ]
+            },
+            {
+                  "name": "Al Imam Al SHoukani",
+                  "text": "O moschee de cartier care oferă rugăciuni zilnice în inima orașului Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143489,
+                        28.955888
+                  ]
+            },
+            {
+                  "name": "Om Al Momineen, Ayesha, daughter of Abu Bakr",
+                  "text": "Un spațiu de rugăciune islamic dedicat credincioșilor locali din zona Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.141248,
+                        28.959738
+                  ]
+            },
+            {
+                  "name": "Helal Bin Omaia",
+                  "text": "O moschee care servește drept loc de adunare comunală pentru rugăciuni în Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142729,
+                        28.951718
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Tahawi",
+                  "text": "Un lăcaș de cult musulman situat în mijlocul clădirilor rezidențiale din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143106,
+                        28.948506
+                  ]
+            },
+            {
+                  "name": "Al Fadel Bin Eyath",
+                  "text": "Un centru religios islamic țesut în structura comunității locale din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166407,
+                        28.955093
+                  ]
+            },
+            {
+                  "name": "Munira Mutlaq Al Azmi",
+                  "text": "Această moschee locală oferă servicii de rugăciune zilnice pentru locuitorii din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.164833,
+                        28.958083
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Sabah Al Ahmad Al Sabah",
+                  "text": "Un proeminent lăcaș de cult musulman care deservește comunitatea mai largă din Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.17247,
+                        28.957325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rashed Muhammad Al Anzi",
+                  "text": "A Muslim religious site situated within the residential blocks of the Ali Sabah Al-Salem neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154704,
+                        28.967047
+                  ]
+            },
+            {
+                  "name": "Haritha Bin Saraqa",
+                  "text": "An Islamic prayer center integrated into the urban fabric of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152704,
+                        28.946878
+                  ]
+            },
+            {
+                  "name": "Arqam bin Abi Al-Arqam",
+                  "text": "This mosque is a local gathering place for daily prayers in the Ali Sabah Al-Salem district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150271,
+                        28.960834
+                  ]
+            },
+            {
+                  "name": "Nesha Barghash Al-Qahtani",
+                  "text": "A neighborhood mosque providing a place of worship for the residents of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.14294,
+                        28.963951
+                  ]
+            },
+            {
+                  "name": "Jalal Al Dein Al Suwati",
+                  "text": "An Islamic religious center standing amidst the modern developments of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146991,
+                        28.964799
+                  ]
+            },
+            {
+                  "name": "Abu Ayoub Al Ansari",
+                  "text": "A Muslim place of prayer accommodating worshippers in the urban area of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152947,
+                        28.963672
+                  ]
+            },
+            {
+                  "name": "Ali Sabah Al-Salem",
+                  "text": "A central Islamic worship space located in the heart of the Ali Sabah Al-Salem urban zone.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160758,
+                        28.963891
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Naim Al-Asbhani",
+                  "text": "An Islamic prayer facility nestled within the residential streets of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.16189,
+                        28.959719
+                  ]
+            },
+            {
+                  "name": "Al Deiat",
+                  "text": "This mosque serves as a spiritual anchor for the local Muslim community in Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160341,
+                        28.957003
+                  ]
+            },
+            {
+                  "name": "Sufian Bin Aeana",
+                  "text": "A Muslim site of worship offering daily prayers for the inhabitants of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.160466,
+                        28.954524
+                  ]
+            },
+            {
+                  "name": "Bader Al Den Al Aeani",
+                  "text": "An Islamic prayer hall situated among the housing complexes of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.162163,
+                        28.95208
+                  ]
+            },
+            {
+                  "name": "Hussain Al Mashhor",
+                  "text": "A mosque serving the local neighborhood within the Ali Sabah Al-Salem urban district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.161003,
+                        28.948691
+                  ]
+            },
+            {
+                  "name": "Ez Al Den Al Athier",
+                  "text": "A Muslim religious building located in the residential sectors of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155823,
+                        28.949124
+                  ]
+            },
+            {
+                  "name": "Anas bin Al-Nadr",
+                  "text": "This mosque provides a dedicated prayer space for the local Muslim population of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.152665,
+                        28.952879
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al Thahabi",
+                  "text": "An Islamic prayer center integrated into the suburban landscape of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.148226,
+                        28.948721
+                  ]
+            },
+            {
+                  "name": "Al Imam Daraqutni",
+                  "text": "A local mosque functioning as a spiritual site for the residents of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.146576,
+                        28.952711
+                  ]
+            },
+            {
+                  "name": "Al Imam Abu Ubaid al-Qasim bin Salam",
+                  "text": "A Muslim place of worship situated within the planned community of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.150222,
+                        28.955161
+                  ]
+            },
+            {
+                  "name": "Mararuh Bin Al Rabie",
+                  "text": "An Islamic sanctuary for daily congregational prayers in Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.154999,
+                        28.955974
+                  ]
+            },
+            {
+                  "name": "Abu Hudhaifa Bin Ataba",
+                  "text": "This mosque stands among the local residences of the Ali Sabah Al-Salem district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.153779,
+                        28.958632
+                  ]
+            },
+            {
+                  "name": "Al Hafiz Al-Monthari",
+                  "text": "A Muslim religious facility serving the families of the Ali Sabah Al-Salem neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.145923,
+                        28.960301
+                  ]
+            },
+            {
+                  "name": "Al Imam Al SHoukani",
+                  "text": "A neighborhood mosque offering daily prayers in the heart of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143489,
+                        28.955888
+                  ]
+            },
+            {
+                  "name": "Om Al Momineen, Ayesha, daughter of Abu Bakr",
+                  "text": "An Islamic prayer space dedicated to local worshippers in the Ali Sabah Al-Salem area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.141248,
+                        28.959738
+                  ]
+            },
+            {
+                  "name": "Helal Bin Omaia",
+                  "text": "A mosque serving as a communal gathering place for prayers in Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142729,
+                        28.951718
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Tahawi",
+                  "text": "A Muslim site of worship situated amidst the residential buildings of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.143106,
+                        28.948506
+                  ]
+            },
+            {
+                  "name": "Al Fadel Bin Eyath",
+                  "text": "An Islamic religious center woven into the local community fabric of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166407,
+                        28.955093
+                  ]
+            },
+            {
+                  "name": "Munira Mutlaq Al Azmi",
+                  "text": "This local mosque offers daily prayer services for the residents of Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.164833,
+                        28.958083
+                  ]
+            },
+            {
+                  "name": "Al Shaikh Sabah Al Ahmad Al Sabah",
+                  "text": "A prominent Muslim place of worship serving the wider community within Ali Sabah Al-Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.17247,
+                        28.957325
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-AH",
     coords: [48.1561, 28.9483],
@@ -2614,7 +5053,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gulf of Sulaibikhat Bird Sanctuary",
-                  "text": "Das Gulf of Sulaibikhat Bird Sanctuary ist ein Naturschutzgebiet in der Stadt Sulaibikhat.",
+                  "text": "Das Gulf of Sulaibikhat Bird Sanctuary in Sulaibikhat ist ein Vogelschutzgebiet an der Golfküste mit Bedeutung für Zugvögel.",
                   "category": "natural",
                   "coords": [
                         47.88194,
@@ -2625,7 +5064,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gulf of Sulaibikhat Bird Sanctuary",
-                  "text": "A Gulf of Sulaibikhat Bird Sanctuary egy természetvédelmi terület Sulaibikhat városában.",
+                  "text": "A sulaibikhati Gulf of Sulaibikhat Bird Sanctuary tengerparti madárrezervátum, fontos vonuló madarak számára.",
                   "category": "natural",
                   "coords": [
                         47.88194,
@@ -2636,7 +5075,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gulf of Sulaibikhat Bird Sanctuary",
-                  "text": "Gulf of Sulaibikhat Bird Sanctuary este o rezervație naturală în orașul Sulaibikhat.",
+                  "text": "Sanctuarul de păsări Gulf of Sulaibikhat din Sulaibikhat este o rezervație de păsări pe coasta Golfului, importantă pentru păsările migratoare.",
                   "category": "natural",
                   "coords": [
                         47.88194,
@@ -2647,7 +5086,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gulf of Sulaibikhat Bird Sanctuary",
-                  "text": "The Gulf of Sulaibikhat Bird Sanctuary is a nature reserve located in the city of Sulaibikhat.",
+                  "text": "The Gulf of Sulaibikhat Bird Sanctuary in Sulaibikhat is a coastal bird reserve vital for migratory birds.",
                   "category": "natural",
                   "coords": [
                         47.88194,
@@ -2703,7 +5142,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kuwait Opera House",
-                  "text": "Das Kuwait Opera House ist ein bedeutender Veranstaltungsort für Theater und Kultur in Shuwaikh.",
+                  "text": "Das Kuwait Opera House in Shuwaikh ist ein modernes Opernhaus mit markanter Architektur.",
                   "category": "cultural",
                   "coords": [
                         47.95479,
@@ -2712,7 +5151,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Akkaz",
-                  "text": "Akkaz ist eine bemerkenswerte archäologische Stätte in Shuwaikh.",
+                  "text": "Akkaz in Shuwaikh ist eine historische Stätte auf der gleichnamigen Insel mit Überresten aus der Bronzezeit.",
                   "category": "historical",
                   "coords": [
                         47.914617,
@@ -2732,7 +5171,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kuwait Opera House",
-                  "text": "A Kuwait Opera House egy jelentős színházi és kulturális helyszín Suvajh városában.",
+                  "text": "A shuwaikhi Kuwait Opera House egy modern operaház, jellegzetes építészeti stílussal.",
                   "category": "cultural",
                   "coords": [
                         47.95479,
@@ -2741,7 +5180,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Akkaz",
-                  "text": "Akkaz egy figyelemre méltó régészeti lelőhely Suvajhban.",
+                  "text": "A shuwaikhi Akkaz egy történelmi lelőhely a névadó szigeten, bronzkori romokkal.",
                   "category": "historical",
                   "coords": [
                         47.914617,
@@ -2761,7 +5200,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kuwait Opera House",
-                  "text": "Kuwait Opera House este o importantă locație teatrală și culturală situată în Shuwaikh.",
+                  "text": "Kuwait Opera House din Shuwaikh este o casă de operă modernă, cu o arhitectură distinctivă.",
                   "category": "cultural",
                   "coords": [
                         47.95479,
@@ -2770,7 +5209,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Akkaz",
-                  "text": "Akkaz este un sit arheologic notabil situat în Shuwaikh.",
+                  "text": "Akkaz din Shuwaikh este un sit istoric pe insula omonimă, cu rămășițe din Epoca Bronzului.",
                   "category": "historical",
                   "coords": [
                         47.914617,
@@ -2790,7 +5229,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kuwait Opera House",
-                  "text": "Kuwait Opera House is a major theatrical and cultural venue located in Shuwaikh.",
+                  "text": "The Kuwait Opera House in Shuwaikh is a modern opera house with distinctive architecture.",
                   "category": "cultural",
                   "coords": [
                         47.95479,
@@ -2799,7 +5238,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Akkaz",
-                  "text": "Akkaz is a notable archaeological site located in Shuwaikh.",
+                  "text": "Akkaz in Shuwaikh is a historical site on the island of Akkaz, featuring Bronze Age remains.",
                   "category": "historical",
                   "coords": [
                         47.914617,
@@ -2864,7 +5303,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ArtStudioKWT",
-                  "text": "Kunstzentrum in Al-Adan.",
+                  "text": "ArtStudioKWT in Al Adan ist ein Kulturstudio, das Kunstkurse und Ausstellungen anbietet.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2875,7 +5314,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ArtStudioKWT",
-                  "text": "Művészeti központ Al-Adanban.",
+                  "text": "Az Al Adan-i ArtStudioKWT egy kulturális stúdió, művészeti órákkal és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2886,7 +5325,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ArtStudioKWT",
-                  "text": "Centru de artă în Al-Adan.",
+                  "text": "ArtStudioKWT din Al Adan este un studio cultural ce oferă cursuri de artă și expoziții.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2897,7 +5336,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ArtStudioKWT",
-                  "text": "Arts centre in Al-Adan.",
+                  "text": "ArtStudioKWT in Al Adan is a cultural art studio providing art classes and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         48.098272,
@@ -2953,7 +5392,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hawally Park",
-                  "text": "Hawally Park ist ein Freizeitpark in der Stadt Surra.",
+                  "text": "Der Hawally Park in Surra ist ein Familienpark mit Spielplätzen und Grünflächen.",
                   "category": "family",
                   "coords": [
                         48.021916,
@@ -2962,7 +5401,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "مسرح مدرسة عبد الله الجابر ist ein Theater in der Stadt Surra.",
+                  "text": "Das Abdullah Al-Jaber School Theater in Surra ist eine Schulbühne für Schüler- und Gemeindeaufführungen.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -2973,7 +5412,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hawally Park",
-                  "text": "A Hawally Park egy vidámpark Surra városában.",
+                  "text": "A surrai Hawally Park egy családi park játszóterekkel és zöldterületekkel.",
                   "category": "family",
                   "coords": [
                         48.021916,
@@ -2982,7 +5421,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "A مسرح مدرسة عبد الله الجابر egy színház Surra városában.",
+                  "text": "A surrai Abdullah Al-Jaber School Theater egy iskolai színház diák- és közösségi előadások számára.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -2993,7 +5432,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hawally Park",
-                  "text": "Hawally Park este un parc de distracții din orașul Surra.",
+                  "text": "Parcul Hawally din Surra este un parc familial cu locuri de joacă și spații verzi.",
                   "category": "family",
                   "coords": [
                         48.021916,
@@ -3002,7 +5441,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "مسرح مدرسة عبد الله الجابر este un teatru din orașul Surra.",
+                  "text": "Teatrul Școlii Abdullah Al-Jaber din Surra este o scenă școlară pentru spectacole ale elevilor și comunității.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -3013,7 +5452,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hawally Park",
-                  "text": "Hawally Park is a theme park located in the city of Surra.",
+                  "text": "Hawally Park in Surra is a family park with playgrounds and green areas.",
                   "category": "family",
                   "coords": [
                         48.021916,
@@ -3022,7 +5461,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "مسرح مدرسة عبد الله الجابر is a theatre located in the city of Surra.",
+                  "text": "The Abdullah Al-Jaber School Theater in Surra is a school venue for student and community performances.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -3078,7 +5517,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "مسرح مدرسة عبد الله الجابر ist ein Theater- und Aufführungsraum in Qurtuba.",
+                  "text": "Das Abdullah Al-Jaber School Theater in Qurtuba ist eine Schulbühne für kulturelle Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -3089,7 +5528,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "A مسرح مدرسة عبد الله الجابر egy színházi és előadótér Qurtubában.",
+                  "text": "A qurtubai Abdullah Al-Jaber School Theater egy iskolai színház kulturális eseményekre.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -3100,7 +5539,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "مسرح مدرسة عبد الله الجابر este un teatru și un spațiu de spectacole situat în Qurtuba.",
+                  "text": "Teatrul Școlii Abdullah Al-Jaber din Qurtuba este un teatru școlar pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -3111,7 +5550,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Abdullah Al-Jaber School Theater",
-                  "text": "مسرح مدرسة عبد الله الجابر is a theatre and performance space situated in Qurtuba.",
+                  "text": "The Abdullah Al-Jaber School Theater in Qurtuba is a school theater for cultural events.",
                   "category": "cultural",
                   "coords": [
                         47.996941,
@@ -3163,7 +5602,520 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     }
   },
   {
-    id: "kw-rawda-cities-v2",
+    id: "kw-rawda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suleiman Saqr Aghnnaman Mosque wife",
+                  "text": "Diese lokale Moschee im Wohnviertel Rawda ist ein wesentlicher Treffpunkt für die Freitagsgebete der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979649,
+                        29.337612
+                  ]
+            },
+            {
+                  "name": "Abdullah Khalaf Al-Dhayyan",
+                  "text": "Dieser islamische Ort dient der spirituellen Gemeinde in Rawda und veranstaltet tägliche Gebete sowie Koranstudien für lokale Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        47.973308,
+                        29.337648
+                  ]
+            },
+            {
+                  "name": "Maryam Al-Ghaith Mosque",
+                  "text": "Diese durch ihr traditionelles islamisches Design gekennzeichnete Moschee in Rawda bietet Gläubigen eine ruhige Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        47.999082,
+                        29.340611
+                  ]
+            },
+            {
+                  "name": "Imam Ahmad ibn Hanbal Mosque",
+                  "text": "Diese bedeutende lokale Moschee ist nach einem prominenten islamischen Gelehrten benannt und gilt als Säule des Glaubens im Viertel Rawda.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982689,
+                        29.339843
+                  ]
+            },
+            {
+                  "name": "Mukhaizim",
+                  "text": "Ein gut erhaltener muslimischer Gebetsraum, der in die Vorstadtlandschaft des Bezirks Rawda integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984127,
+                        29.336905
+                  ]
+            },
+            {
+                  "name": "Yousef bin Saleh Al-Fadhala Mosque",
+                  "text": "Diese verkehrsgünstig in Rawda gelegene Moschee ermöglicht alle fünf täglichen Gebete in ihrem geräumigen und gut beleuchteten Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985375,
+                        29.333679
+                  ]
+            },
+            {
+                  "name": "Mula Marshad Al-Sulaiman Mosque",
+                  "text": "Diese Nachbarschaftsmoschee bietet einen ruhigen spirituellen Rückzugsort und ist tief im täglichen Leben der Einwohner von Rawda verwurzelt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.993878,
+                        29.333236
+                  ]
+            },
+            {
+                  "name": "Taiba Khaled Zaid Al-khaled Mosque",
+                  "text": "Eine markante moderne Moschee in Rawda, die über ein geräumiges Inneres verfügt und während des Ramadan eine große Gemeinde willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992652,
+                        29.339277
+                  ]
+            },
+            {
+                  "name": "Sabika Abdulrahman Mosque",
+                  "text": "Diese Moschee dient der Gemeinde von Rawda und bietet separate, gut ausgestattete Gebetsräume für Männer und Frauen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998625,
+                        29.335097
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ghlum & Muhammad Salih Al-Enaizi Mosque",
+                  "text": "Ein architektonisch ansprechendes islamisches Zentrum in Rawda, das eine wichtige Rolle in der lokalen religiösen Erziehung und Verehrung spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989477,
+                        29.331765
+                  ]
+            },
+            {
+                  "name": "Abdullah Rashed Al Zuber",
+                  "text": "Diese lokale Moschee, eingebettet in die Straßen von Rawda, ist bekannt für ihren ruhigen Innenhof und ihre einladende Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.007796,
+                        29.324646
+                  ]
+            },
+            {
+                  "name": "Al-Sayed Ahmad Al-Sayed Abdallah Al-Rifai Mosque",
+                  "text": "Eine wunderschön detaillierte lokale Moschee in Rawda, die als wichtiger Veranstaltungsort für gemeinschaftliche islamische Zusammenkünfte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.000229,
+                        29.324468
+                  ]
+            },
+            {
+                  "name": "Mohammad Abdulmohsen Al Duaij",
+                  "text": "Diese für die Einwohner von Rawda leicht zugängliche Moschee bietet traditionelle Kalligrafie und ein beruhigendes Ambiente für Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        48.001165,
+                        29.329291
+                  ]
+            },
+            {
+                  "name": "Al Islah Communtity Center mosque",
+                  "text": "Diese Moschee in Rawda fungiert nicht nur als Ort des Gebets, sondern auch als Zentrum für breitere kommunale Unterstützungsinitiativen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.006567,
+                        29.330149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suleiman Saqr Aghnnaman Mosque wife",
+                  "text": "A Rawda lakónegyedben található helyi mecset a közösségi pénteki imák elengedhetetlen gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979649,
+                        29.337612
+                  ]
+            },
+            {
+                  "name": "Abdullah Khalaf Al-Dhayyan",
+                  "text": "A rawdai spirituális közösséget szolgáló iszlám helyszín napi imáknak és Korán-tanulmányozásnak ad otthont a helyi családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.973308,
+                        29.337648
+                  ]
+            },
+            {
+                  "name": "Maryam Al-Ghaith Mosque",
+                  "text": "A hagyományos iszlám dizájnnal jellemezhető rawdai mecset nyugodt környezetet biztosít az imádkozóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.999082,
+                        29.340611
+                  ]
+            },
+            {
+                  "name": "Imam Ahmad ibn Hanbal Mosque",
+                  "text": "Egy kiemelkedő iszlám tudósról elnevezett jelentős helyi mecset, amely a hit oszlopaként áll a rawdai negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982689,
+                        29.339843
+                  ]
+            },
+            {
+                  "name": "Mukhaizim",
+                  "text": "Egy jól karbantartott muszlim imádkozóhely, amely szervesen illeszkedik a rawdai kerület külvárosi tájképébe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984127,
+                        29.336905
+                  ]
+            },
+            {
+                  "name": "Yousef bin Saleh Al-Fadhala Mosque",
+                  "text": "A Rawdán belül kényelmes helyen fekvő mecset tágas és jól megvilágított imatermével mind az öt napi imát lehetővé teszi.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985375,
+                        29.333679
+                  ]
+            },
+            {
+                  "name": "Mula Marshad Al-Sulaiman Mosque",
+                  "text": "Nyugodt spirituális menedéket kínálva ez a környékbeli mecset mélyen beágyazódott a rawdai lakosok mindennapi életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.993878,
+                        29.333236
+                  ]
+            },
+            {
+                  "name": "Taiba Khaled Zaid Al-khaled Mosque",
+                  "text": "Egy jellegzetes modern mecset Rawdában, amely tágas belső térrel rendelkezik, és ramadán idején hatalmas gyülekezetet fogad.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992652,
+                        29.339277
+                  ]
+            },
+            {
+                  "name": "Sabika Abdulrahman Mosque",
+                  "text": "A rawdai közösséget szolgáló mecset különálló, jól felszerelt imádkozóhelyeket biztosít mind a férfiak, mind a nők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998625,
+                        29.335097
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ghlum & Muhammad Salih Al-Enaizi Mosque",
+                  "text": "Egy építészetileg kellemes iszlám központ Rawdában, amely létfontosságú szerepet játszik a helyi vallási oktatásban és istentiszteletben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989477,
+                        29.331765
+                  ]
+            },
+            {
+                  "name": "Abdullah Rashed Al Zuber",
+                  "text": "A Rawda utcáin megbúvó helyi mecset csendes udvaráról és barátságos gyülekezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.007796,
+                        29.324646
+                  ]
+            },
+            {
+                  "name": "Al-Sayed Ahmad Al-Sayed Abdallah Al-Rifai Mosque",
+                  "text": "Egy gyönyörűen részletezett helyi mecset Rawdában, amely a közösségi iszlám összejövetelek fontos helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.000229,
+                        29.324468
+                  ]
+            },
+            {
+                  "name": "Mohammad Abdulmohsen Al Duaij",
+                  "text": "A Rawda lakosai számára könnyen megközelíthető mecset hagyományos kalligráfiával és nyugtató hangulattal várja a híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        48.001165,
+                        29.329291
+                  ]
+            },
+            {
+                  "name": "Al Islah Communtity Center mosque",
+                  "text": "A Rawdában található mecset nemcsak az ima helyszíneként, hanem a szélesebb körű közösségtámogató kezdeményezések központjaként is működik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.006567,
+                        29.330149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suleiman Saqr Aghnnaman Mosque wife",
+                  "text": "Situată în cartierul rezidențial Rawda, această moschee locală este un loc de adunare esențial pentru rugăciunile congregaționale de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979649,
+                        29.337612
+                  ]
+            },
+            {
+                  "name": "Abdullah Khalaf Al-Dhayyan",
+                  "text": "Deservind comunitatea spirituală din Rawda, acest sit islamic găzduiește rugăciuni zilnice și studii coranice pentru familiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.973308,
+                        29.337648
+                  ]
+            },
+            {
+                  "name": "Maryam Al-Ghaith Mosque",
+                  "text": "Caracterizată de designul său islamic tradițional, această moschee din Rawda oferă un mediu liniștit pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        47.999082,
+                        29.340611
+                  ]
+            },
+            {
+                  "name": "Imam Ahmad ibn Hanbal Mosque",
+                  "text": "Numită după un renumit savant islamic, această moschee locală semnificativă se înalță ca un stâlp al credinței în cartierul Rawda.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982689,
+                        29.339843
+                  ]
+            },
+            {
+                  "name": "Mukhaizim",
+                  "text": "Un spațiu de rugăciune musulman bine întreținut, integrat în peisajul suburban al districtului Rawda.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984127,
+                        29.336905
+                  ]
+            },
+            {
+                  "name": "Yousef bin Saleh Al-Fadhala Mosque",
+                  "text": "Poziționată convenabil în Rawda, această moschee facilitează toate cele cinci rugăciuni zilnice prin sala sa de rugăciune spațioasă și bine luminată.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985375,
+                        29.333679
+                  ]
+            },
+            {
+                  "name": "Mula Marshad Al-Sulaiman Mosque",
+                  "text": "Oferind o retragere spirituală senină, această moschee de cartier este profund ancorată în viața de zi cu zi a locuitorilor din Rawda.",
+                  "category": "landmark",
+                  "coords": [
+                        47.993878,
+                        29.333236
+                  ]
+            },
+            {
+                  "name": "Taiba Khaled Zaid Al-khaled Mosque",
+                  "text": "O moschee modernă distinctivă din Rawda, care are un interior spațios ce întâmpină o congregație numeroasă în timpul Ramadanului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992652,
+                        29.339277
+                  ]
+            },
+            {
+                  "name": "Sabika Abdulrahman Mosque",
+                  "text": "Deservind comunitatea din Rawda, această moschee oferă facilități de rugăciune separate și bine dotate, atât pentru bărbați, cât și pentru femei.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998625,
+                        29.335097
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ghlum & Muhammad Salih Al-Enaizi Mosque",
+                  "text": "Un centru islamic cu o arhitectură plăcută în Rawda, care joacă un rol vital în educația și cultul religios local.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989477,
+                        29.331765
+                  ]
+            },
+            {
+                  "name": "Abdullah Rashed Al Zuber",
+                  "text": "Amplasată pe străzile din Rawda, această moschee locală este cunoscută pentru curtea sa liniștită și congregația primitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.007796,
+                        29.324646
+                  ]
+            },
+            {
+                  "name": "Al-Sayed Ahmad Al-Sayed Abdallah Al-Rifai Mosque",
+                  "text": "O moschee locală cu detalii frumoase din Rawda, care servește drept loc important pentru adunările islamice comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.000229,
+                        29.324468
+                  ]
+            },
+            {
+                  "name": "Mohammad Abdulmohsen Al Duaij",
+                  "text": "Foarte accesibilă locuitorilor din Rawda, această moschee prezintă caligrafie tradițională și o ambianță calmă pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        48.001165,
+                        29.329291
+                  ]
+            },
+            {
+                  "name": "Al Islah Communtity Center mosque",
+                  "text": "Situată în Rawda, această moschee funcționează nu doar ca loc de rugăciune, ci și ca un centru pentru inițiative mai ample de sprijin comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.006567,
+                        29.330149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suleiman Saqr Aghnnaman Mosque wife",
+                  "text": "Located in the residential district of Rawda, this local mosque is an essential gathering place for Friday congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979649,
+                        29.337612
+                  ]
+            },
+            {
+                  "name": "Abdullah Khalaf Al-Dhayyan",
+                  "text": "Serving the spiritual community in Rawda, this Islamic site hosts daily prayers and Quranic studies for local families.",
+                  "category": "landmark",
+                  "coords": [
+                        47.973308,
+                        29.337648
+                  ]
+            },
+            {
+                  "name": "Maryam Al-Ghaith Mosque",
+                  "text": "Characterized by its traditional Islamic design, this mosque in Rawda offers a tranquil environment for worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.999082,
+                        29.340611
+                  ]
+            },
+            {
+                  "name": "Imam Ahmad ibn Hanbal Mosque",
+                  "text": "Named after a prominent Islamic scholar, this significant local mosque stands as a pillar of faith in the Rawda neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982689,
+                        29.339843
+                  ]
+            },
+            {
+                  "name": "Mukhaizim",
+                  "text": "A well-maintained Muslim prayer space integrated into the suburban landscape of the Rawda district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984127,
+                        29.336905
+                  ]
+            },
+            {
+                  "name": "Yousef bin Saleh Al-Fadhala Mosque",
+                  "text": "Positioned conveniently within Rawda, this mosque facilitates all five daily prayers with its spacious and well-lit prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985375,
+                        29.333679
+                  ]
+            },
+            {
+                  "name": "Mula Marshad Al-Sulaiman Mosque",
+                  "text": "Offering a serene spiritual retreat, this neighborhood mosque is deeply embedded in the daily life of Rawda residents.",
+                  "category": "landmark",
+                  "coords": [
+                        47.993878,
+                        29.333236
+                  ]
+            },
+            {
+                  "name": "Taiba Khaled Zaid Al-khaled Mosque",
+                  "text": "A distinctive modern mosque in Rawda that features a spacious interior welcoming a large congregation during Ramadan.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992652,
+                        29.339277
+                  ]
+            },
+            {
+                  "name": "Sabika Abdulrahman Mosque",
+                  "text": "Serving the Rawda community, this mosque provides separate, well-appointed prayer facilities for both men and women.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998625,
+                        29.335097
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ghlum & Muhammad Salih Al-Enaizi Mosque",
+                  "text": "An architecturally pleasant Islamic center in Rawda that plays a vital role in local religious education and worship.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989477,
+                        29.331765
+                  ]
+            },
+            {
+                  "name": "Abdullah Rashed Al Zuber",
+                  "text": "Nestled in the streets of Rawda, this local mosque is known for its quiet courtyard and welcoming congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        48.007796,
+                        29.324646
+                  ]
+            },
+            {
+                  "name": "Al-Sayed Ahmad Al-Sayed Abdallah Al-Rifai Mosque",
+                  "text": "A beautifully detailed local mosque in Rawda, acting as an important venue for communal Islamic gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        48.000229,
+                        29.324468
+                  ]
+            },
+            {
+                  "name": "Mohammad Abdulmohsen Al Duaij",
+                  "text": "Highly accessible to Rawda's residents, this mosque features traditional calligraphy and a calming ambiance for worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.001165,
+                        29.329291
+                  ]
+            },
+            {
+                  "name": "Al Islah Communtity Center mosque",
+                  "text": "Located in Rawda, this mosque acts not only as a place of prayer but also as a hub for broader community support initiatives.",
+                  "category": "landmark",
+                  "coords": [
+                        48.006567,
+                        29.330149
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KW-KU",
     coords: [47.9942, 29.3308],

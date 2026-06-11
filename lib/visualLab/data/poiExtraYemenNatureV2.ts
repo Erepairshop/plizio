@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraYemenNatureV2: POI[] = [
   {
-    id: "jabal-an-nabi-shuayb-nature-v2",
+    id: "jabal-an-nabi-shuayb-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal an Nasirah",
+                  "text": "Ein markanter Gipfel im Sarawat-Gebirge, der eine Höhe von über 3000 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        43.91445,
+                        15.297077
+                  ]
+            },
+            {
+                  "name": "Al-shapi",
+                  "text": "Eine landschaftlich reizvolle Berggegend in der Nähe des Jabal an-Nabi Schu'aib, dem höchsten Berg des Landes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.017441,
+                        15.247419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal an Nasirah",
+                  "text": "A Szaravat-hegység egyik meredek csúcsa, amely 3000 méter feletti magasságba emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.91445,
+                        15.297077
+                  ]
+            },
+            {
+                  "name": "Al-shapi",
+                  "text": "Gleccser vájta hegyvidéki terület az Arab-félsziget legmagasabb csúcsa, a Dzsebel an-Nabi Suajb közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.017441,
+                        15.247419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal an Nasirah",
+                  "text": "Un vârf muntos impunător din lanțul Sarawat, situat la o altitudine de peste 3000 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        43.91445,
+                        15.297077
+                  ]
+            },
+            {
+                  "name": "Al-shapi",
+                  "text": "O zonă montană pitorească situată în apropierea vârfului Jabal an-Nabi Shu'ayb, cel mai înalt din peninsulă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.017441,
+                        15.247419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal an Nasirah",
+                  "text": "A rugged peak in the Sarawat range reaching an elevation of over 3,000 meters.",
+                  "category": "natural",
+                  "coords": [
+                        43.91445,
+                        15.297077
+                  ]
+            },
+            {
+                  "name": "Al-shapi",
+                  "text": "A scenic mountain area located near Jabal an-Nabi Shu'ayb, the highest peak in the Arabian Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        44.017441,
+                        15.247419
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "YE-SN",
     coords: [43.9833, 15.2667],
@@ -91,7 +172,304 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
     {
-    id: "haraz-mountains-nature-v2",
+    id: "haraz-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Bani Hajjaj",
+                  "text": "Ein Berg im Haraz-Gebirge, der weite Ausblicke über die nach dem Regen grünen Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.646979,
+                        15.104298
+                  ]
+            },
+            {
+                  "name": "`Ozlat Masar",
+                  "text": "Ein Gipfel in der Haraz-Region, der für seine kühle Bergluft und oft neblige Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.680909,
+                        15.079166
+                  ]
+            },
+            {
+                  "name": "Jibal Haraz",
+                  "text": "Ein Teil des Haraz-Massivs, berühmt für die terrassierte Landwirtschaft an seinen steilen Hängen.",
+                  "category": "natural",
+                  "coords": [
+                        43.680556,
+                        15.080556
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Araf",
+                  "text": "Ein hoher Gipfel im Haraz-Gebirge, der die umliegenden befestigten Bergdörfer überragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.628781,
+                        15.082255
+                  ]
+            },
+            {
+                  "name": "Jabal Aridah",
+                  "text": "Ein felsiger Gipfel im Haraz, der einen Blick auf die dramatischen geologischen Formationen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.616962,
+                        15.096906
+                  ]
+            },
+            {
+                  "name": "Jabal al Magharibah",
+                  "text": "Ein Gipfel in der Haraz-Region, bekannt für seine raue Schönheit und die weiten Hochlandpanoramen.",
+                  "category": "natural",
+                  "coords": [
+                        43.703579,
+                        15.14014
+                  ]
+            },
+            {
+                  "name": "Jabal Bayt al `Akbari",
+                  "text": "Ein hoher Berg im Haraz-Gebirge, der die traditionellen Steinsiedlungen der Region überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        43.708342,
+                        15.13349
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Aythari",
+                  "text": "Ein markanter Gipfel im Haraz, umgeben von den charakteristischen Trockenmauer-Terrassen.",
+                  "category": "natural",
+                  "coords": [
+                        43.724105,
+                        15.134185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Bani Hajjaj",
+                  "text": "Hegy a Haraz-hegységben, amely tágas kilátást nyújt az eső után kizöldült völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        43.646979,
+                        15.104298
+                  ]
+            },
+            {
+                  "name": "`Ozlat Masar",
+                  "text": "A Haraz-régió egyik csúcsa, amely hűvös hegyi levegőjéről és gyakran ködös környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.680909,
+                        15.079166
+                  ]
+            },
+            {
+                  "name": "Jibal Haraz",
+                  "text": "A Haraz-masszívum része, amely a meredek lejtőin folytatott teraszos gazdálkodásról híres.",
+                  "category": "natural",
+                  "coords": [
+                        43.680556,
+                        15.080556
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Araf",
+                  "text": "A Haraz-hegység magas csúcsa, amely a környező erődített hegyi falvak fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.628781,
+                        15.082255
+                  ]
+            },
+            {
+                  "name": "Jabal Aridah",
+                  "text": "Sziklás hegycsúcs a Harazban, kilátással a látványos geológiai képződményekre.",
+                  "category": "natural",
+                  "coords": [
+                        43.616962,
+                        15.096906
+                  ]
+            },
+            {
+                  "name": "Jabal al Magharibah",
+                  "text": "Hegycsúcs a Haraz-régióban, amely nyers szépségéről és tágas fennsíki panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.703579,
+                        15.14014
+                  ]
+            },
+            {
+                  "name": "Jabal Bayt al `Akbari",
+                  "text": "Magas hegy a Haraz-hegységben, amely a régió hagyományos kőtelepüléseire tekint.",
+                  "category": "natural",
+                  "coords": [
+                        43.708342,
+                        15.13349
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Aythari",
+                  "text": "Jellegzetes csúcs a Harazban, amelyet a tájra jellemző szárazon rakott kőfalas teraszok öveznek.",
+                  "category": "natural",
+                  "coords": [
+                        43.724105,
+                        15.134185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Bani Hajjaj",
+                  "text": "Un munte în Munții Haraz care oferă vederi largi spre văile înverzite după ploaie.",
+                  "category": "natural",
+                  "coords": [
+                        43.646979,
+                        15.104298
+                  ]
+            },
+            {
+                  "name": "`Ozlat Masar",
+                  "text": "Un vârf din regiunea Haraz, cunoscut pentru aerul răcoros de munte și împrejurimile adesea cețoase.",
+                  "category": "natural",
+                  "coords": [
+                        43.680909,
+                        15.079166
+                  ]
+            },
+            {
+                  "name": "Jibal Haraz",
+                  "text": "Parte a masivului Haraz, faimos pentru agricultura terasată de pe pantele sale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        43.680556,
+                        15.080556
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Araf",
+                  "text": "Un vârf înalt din Munții Haraz care domină satele montane fortificate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        43.628781,
+                        15.082255
+                  ]
+            },
+            {
+                  "name": "Jabal Aridah",
+                  "text": "Un vârf stâncos în Haraz care oferă o privire spre formațiunile geologice dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        43.616962,
+                        15.096906
+                  ]
+            },
+            {
+                  "name": "Jabal al Magharibah",
+                  "text": "Un vârf din regiunea Haraz, cunoscut pentru frumusețea sa aspră și panoramele vaste de podiș.",
+                  "category": "natural",
+                  "coords": [
+                        43.703579,
+                        15.14014
+                  ]
+            },
+            {
+                  "name": "Jabal Bayt al `Akbari",
+                  "text": "Un munte înalt din Munții Haraz care supraveghează așezările tradiționale de piatră ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        43.708342,
+                        15.13349
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Aythari",
+                  "text": "Un vârf proeminent în Haraz, înconjurat de terasele caracteristice cu ziduri de piatră uscată.",
+                  "category": "natural",
+                  "coords": [
+                        43.724105,
+                        15.134185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Bani Hajjaj",
+                  "text": "A mountain in the Haraz range offering a wide view over the green valleys after the rain.",
+                  "category": "natural",
+                  "coords": [
+                        43.646979,
+                        15.104298
+                  ]
+            },
+            {
+                  "name": "`Ozlat Masar",
+                  "text": "A peak in the Haraz region known for its cool mountain air and often misty surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        43.680909,
+                        15.079166
+                  ]
+            },
+            {
+                  "name": "Jibal Haraz",
+                  "text": "Part of the Haraz massif, famous for the terraced agriculture on its steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        43.680556,
+                        15.080556
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Araf",
+                  "text": "A high peak in the Haraz range overlooking the surrounding fortified mountain villages.",
+                  "category": "natural",
+                  "coords": [
+                        43.628781,
+                        15.082255
+                  ]
+            },
+            {
+                  "name": "Jabal Aridah",
+                  "text": "A rocky mountain peak in Haraz offering a view of the dramatic geological formations.",
+                  "category": "natural",
+                  "coords": [
+                        43.616962,
+                        15.096906
+                  ]
+            },
+            {
+                  "name": "Jabal al Magharibah",
+                  "text": "A peak in the Haraz region known for its rugged beauty and expansive highland panoramas.",
+                  "category": "natural",
+                  "coords": [
+                        43.703579,
+                        15.14014
+                  ]
+            },
+            {
+                  "name": "Jabal Bayt al `Akbari",
+                  "text": "A high mountain in the Haraz range overlooking the traditional stone settlements of the region.",
+                  "category": "natural",
+                  "coords": [
+                        43.708342,
+                        15.13349
+                  ]
+            },
+            {
+                  "name": "Jabal Bani `Aythari",
+                  "text": "A prominent summit in Haraz, surrounded by characteristic dry-stone terraces.",
+                  "category": "natural",
+                  "coords": [
+                        43.724105,
+                        15.134185
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "YE-SN",
     coords: [43.7000, 15.0833],
@@ -135,7 +513,196 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-sabir-nature-v2",
+    id: "jabal-sabir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jomala Vellage",
+                  "text": "Ein malerisches Bergdorf am Hang des Jabal Sabir, das für sein kühles Klima und den Terrassenfeldbau bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.972054,
+                        13.49268
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuwayd",
+                  "text": "Ein markanter Berggipfel im Jabal-Sabir-Massiv, der weite Ausblicke über die zerklüftete Landschaft der Region Taiz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.949561,
+                        13.471966
+                  ]
+            },
+            {
+                  "name": "Jabal Egraut",
+                  "text": "Dieser Gipfel ist Teil des Sabir-Gebirges und bietet Wanderern eine beeindruckende Aussicht auf die umliegenden jemenitischen Hochlanddörfer.",
+                  "category": "natural",
+                  "coords": [
+                        44.0,
+                        13.433333
+                  ]
+            },
+            {
+                  "name": "Jabal al Arus",
+                  "text": "Der höchste Gipfel des Jabal Sabir, auf dem sich oft Wolken verfangen und der einen Panoramablick auf die Stadt Taiz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.051649,
+                        13.51675
+                  ]
+            },
+            {
+                  "name": "jamaluden",
+                  "text": "Eine hochgelegene muslimische Gebetsstätte am Jabal Sabir, die von Pilgern und Anwohnern des Berges besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.035304,
+                        13.499079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jomala Vellage",
+                  "text": "Gleccsermenti hegyi falu a Jabal Sabir lejtőjén, amely hűvös klímájáról és teraszos földműveléséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.972054,
+                        13.49268
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuwayd",
+                  "text": "Jellegzetes hegycsúcs a Jabal Sabir vonulatban, amely tágas kilátást nyújt Taiz régió sziklás tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        43.949561,
+                        13.471966
+                  ]
+            },
+            {
+                  "name": "Jabal Egraut",
+                  "text": "Ez a csúcs a Sabir-hegység része, és lenyűgöző kilátást nyújt a túrázóknak a környező jemeni felföldi falvakra.",
+                  "category": "natural",
+                  "coords": [
+                        44.0,
+                        13.433333
+                  ]
+            },
+            {
+                  "name": "Jabal al Arus",
+                  "text": "A Jabal Sabir legmagasabb csúcsa, amelyen gyakran megülnek a felhők, és panorámás kilátást nyújt Taiz városára.",
+                  "category": "natural",
+                  "coords": [
+                        44.051649,
+                        13.51675
+                  ]
+            },
+            {
+                  "name": "jamaluden",
+                  "text": "Magasan fekvő muszlim imaház a Jabal Sabir-hegyen, amelyet zarándokok és a hegy lakói látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.035304,
+                        13.499079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jomala Vellage",
+                  "text": "Un sat de munte pitoresc pe pantele muntelui Jabal Sabir, cunoscut pentru climatul răcoros și agricultura în terase.",
+                  "category": "landmark",
+                  "coords": [
+                        43.972054,
+                        13.49268
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuwayd",
+                  "text": "Un vârf muntos proeminent din masivul Jabal Sabir, oferind vederi panoramice asupra peisajului accidentat al regiunii Taiz.",
+                  "category": "natural",
+                  "coords": [
+                        43.949561,
+                        13.471966
+                  ]
+            },
+            {
+                  "name": "Jabal Egraut",
+                  "text": "Acest vârf face parte din munții Sabir și oferă drumeților o vedere impresionantă asupra satelor din podișul yemenit.",
+                  "category": "natural",
+                  "coords": [
+                        44.0,
+                        13.433333
+                  ]
+            },
+            {
+                  "name": "Jabal al Arus",
+                  "text": "Cel mai înalt vârf al muntelui Jabal Sabir, unde norii se adună adesea, oferind o vedere panoramică asupra orașului Taiz.",
+                  "category": "natural",
+                  "coords": [
+                        44.051649,
+                        13.51675
+                  ]
+            },
+            {
+                  "name": "jamaluden",
+                  "text": "Un lăcaș de cult musulman situat la mare altitudine pe muntele Jabal Sabir, vizitat de pelerini și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        44.035304,
+                        13.499079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jomala Vellage",
+                  "text": "A picturesque mountain village on the slopes of Jabal Sabir, known for its cool climate and terraced farming.",
+                  "category": "landmark",
+                  "coords": [
+                        43.972054,
+                        13.49268
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuwayd",
+                  "text": "A prominent mountain peak in the Jabal Sabir range, offering wide views over the rugged landscape of the Taiz region.",
+                  "category": "natural",
+                  "coords": [
+                        43.949561,
+                        13.471966
+                  ]
+            },
+            {
+                  "name": "Jabal Egraut",
+                  "text": "Part of the Sabir mountains, this peak provides hikers with impressive views of the surrounding Yemeni highland villages.",
+                  "category": "natural",
+                  "coords": [
+                        44.0,
+                        13.433333
+                  ]
+            },
+            {
+                  "name": "Jabal al Arus",
+                  "text": "The highest peak of Jabal Sabir, often shrouded in clouds, offering panoramic views of the city of Taiz below.",
+                  "category": "natural",
+                  "coords": [
+                        44.051649,
+                        13.51675
+                  ]
+            },
+            {
+                  "name": "jamaluden",
+                  "text": "A high-altitude Muslim prayer site on Jabal Sabir, frequented by pilgrims and local mountain residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.035304,
+                        13.499079
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "YE-TA",
     coords: [44.0200, 13.5167],
@@ -179,7 +746,232 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "bura-protected-area-nature-v2",
+    id: "bura-protected-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal ad Damir",
+                  "text": "Ein Gipfel im Bura-Schutzgebiet, einem UNESCO-Biosphärenreservat, das für seine dichten Bergwälder und Granitfelsen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.407793,
+                        14.966461
+                  ]
+            },
+            {
+                  "name": "Jabal Balah",
+                  "text": "Dieser Berg im Bura-Reservat bietet einen Blick auf die üppige Vegetation und die seltene Tierwelt dieses geschützten Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        43.434588,
+                        14.989272
+                  ]
+            },
+            {
+                  "name": "Jabal al Maqfa`",
+                  "text": "Ein markanter Berggipfel im Bura-Massiv, das für seine steilen Hänge und seine ökologische Vielfalt im Westjemen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.519258,
+                        14.944458
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "Ein hoher Punkt im bergigen Bura-Schutzgebiet, umgeben von einem der letzten unberührten Waldgebiete der arabischen Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        43.505273,
+                        14.917867
+                  ]
+            },
+            {
+                  "name": "Jabal Shibam",
+                  "text": "Ein Granitgipfel im Bura-Gebirge, der die tiefen Schluchten und terrassierten Hänge des UNESCO-geschützten Gebiets überragt.",
+                  "category": "natural",
+                  "coords": [
+                        43.509612,
+                        14.969093
+                  ]
+            },
+            {
+                  "name": "Jabal al Jahili",
+                  "text": "Ein bewaldeter Berggipfel im Bura-Schutzgebiet, das eine wichtige Zuflucht für einheimische Pflanzen- und Vogelarten darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        43.482901,
+                        14.98082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal ad Damir",
+                  "text": "Csúcs a Bura Természetvédelmi Területen, egy UNESCO bioszféra-rezervátumban, amely sűrű hegyi erdőiről és gránitszikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.407793,
+                        14.966461
+                  ]
+            },
+            {
+                  "name": "Jabal Balah",
+                  "text": "Ez a hegy a Bura rezervátumban kilátást nyújt a védett hegység dús növényzetére és ritka vadvilágára.",
+                  "category": "natural",
+                  "coords": [
+                        43.434588,
+                        14.989272
+                  ]
+            },
+            {
+                  "name": "Jabal al Maqfa`",
+                  "text": "Jellegzetes hegycsúcs a Bura-masszívumban, amely meredek lejtőiről és ökológiai sokszínűségéről ismert Nyugat-Jemenben.",
+                  "category": "natural",
+                  "coords": [
+                        43.519258,
+                        14.944458
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "Magaslati pont a Bura hegyvidéki természetvédelmi területén, az Arab-félsziget egyik utolsó érintetlen erdősége által körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        43.505273,
+                        14.917867
+                  ]
+            },
+            {
+                  "name": "Jabal Shibam",
+                  "text": "Gránitcsúcs a Bura-hegységben, amely az UNESCO által védett terület mély szurdokai és teraszos lejtői fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        43.509612,
+                        14.969093
+                  ]
+            },
+            {
+                  "name": "Jabal al Jahili",
+                  "text": "Erdős hegycsúcs a Bura rezervátumban, amely fontos menedéket nyújt az őshonos növény- és madárfajok számára.",
+                  "category": "natural",
+                  "coords": [
+                        43.482901,
+                        14.98082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal ad Damir",
+                  "text": "Un vârf în Aria Protejată Bura, o rezervație de biosferă UNESCO cunoscută pentru pădurile montane dense și stâncile de granit.",
+                  "category": "natural",
+                  "coords": [
+                        43.407793,
+                        14.966461
+                  ]
+            },
+            {
+                  "name": "Jabal Balah",
+                  "text": "Acest munte din rezervația Bura oferă vedere spre vegetația luxuriantă și fauna rară a acestui lanț muntos protejat.",
+                  "category": "natural",
+                  "coords": [
+                        43.434588,
+                        14.989272
+                  ]
+            },
+            {
+                  "name": "Jabal al Maqfa`",
+                  "text": "Un vârf montan distinctiv în masivul Bura, cunoscut pentru pantele sale abrupte și diversitatea ecologică din vestul Yemenului.",
+                  "category": "natural",
+                  "coords": [
+                        43.519258,
+                        14.944458
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "Un punct înalt în zona protejată muntoasă Bura, înconjurat de una dintre ultimele zone forestiere virgine din Peninsula Arabă.",
+                  "category": "natural",
+                  "coords": [
+                        43.505273,
+                        14.917867
+                  ]
+            },
+            {
+                  "name": "Jabal Shibam",
+                  "text": "Un vârf de granit în munții Bura, care domină cheile adânci și pantele terasate ale zonei protejate de UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        43.509612,
+                        14.969093
+                  ]
+            },
+            {
+                  "name": "Jabal al Jahili",
+                  "text": "Un vârf montan împădurit în rezervația Bura, care oferă un refugiu important pentru speciile native de plante și păsări.",
+                  "category": "natural",
+                  "coords": [
+                        43.482901,
+                        14.98082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal ad Damir",
+                  "text": "A peak within the Bura Protected Area, a UNESCO biosphere reserve known for its dense mountain forests and granite cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        43.407793,
+                        14.966461
+                  ]
+            },
+            {
+                  "name": "Jabal Balah",
+                  "text": "This mountain in the Bura reserve overlooks the lush vegetation and rare wildlife of this protected mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        43.434588,
+                        14.989272
+                  ]
+            },
+            {
+                  "name": "Jabal al Maqfa`",
+                  "text": "A distinctive mountain peak in the Bura massif, known for its steep slopes and ecological diversity in western Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        43.519258,
+                        14.944458
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "A high point in the mountainous Bura Protected Area, surrounded by one of the last pristine forest areas in the Arabian Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        43.505273,
+                        14.917867
+                  ]
+            },
+            {
+                  "name": "Jabal Shibam",
+                  "text": "A granite peak in the Bura mountains, overlooking the deep gorges and terraced slopes of the UNESCO-protected area.",
+                  "category": "natural",
+                  "coords": [
+                        43.509612,
+                        14.969093
+                  ]
+            },
+            {
+                  "name": "Jabal al Jahili",
+                  "text": "A forested mountain peak in the Bura reserve, which provides an important refuge for native plant and bird species.",
+                  "category": "natural",
+                  "coords": [
+                        43.482901,
+                        14.98082
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "YE-HU",
     coords: [43.4333, 14.9333],
@@ -223,7 +1015,88 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "detwah-lagoon-nature-v2",
+    id: "detwah-lagoon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Detwah-Lagune",
+                  "text": "Diese geschützte Lagune ist für ihren strahlend weißen Sand, das türkisfarbene Wasser und ihre reiche Population an Stachelrochen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        53.502989,
+                        12.703766
+                  ]
+            },
+            {
+                  "name": "Soviet T-34 Tank",
+                  "text": "Dieser rostige sowjetische T-34-Panzer steht als Relikt des Kalten Krieges direkt am Ufer der Detwah-Lagune.",
+                  "category": "landmark",
+                  "coords": [
+                        53.48598,
+                        12.695153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Detwah Lagoon",
+                  "text": "Ez a védett lagúna vakítóan fehér homokjáról, türkizkék vizéről és gazdag tüskésrája-állományáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        53.502989,
+                        12.703766
+                  ]
+            },
+            {
+                  "name": "Soviet T-34 Tank",
+                  "text": "Ez a rozsdás szovjet T-34-es harckocsi a hidegháború mementójaként áll közvetlenül a Detwah-lagúna partján.",
+                  "category": "landmark",
+                  "coords": [
+                        53.48598,
+                        12.695153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Detwah Lagoon",
+                  "text": "Această lagună protejată este faimoasă pentru nisipul alb orbitor, apele turcoaz și populația bogată de pisici de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        53.502989,
+                        12.703766
+                  ]
+            },
+            {
+                  "name": "Soviet T-34 Tank",
+                  "text": "Acest tanc sovietic T-34 ruginit stă ca o relicvă a Războiului Rece direct pe malul lagunei Detwah.",
+                  "category": "landmark",
+                  "coords": [
+                        53.48598,
+                        12.695153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Detwah Lagoon",
+                  "text": "This protected lagoon is famous for its bright white sand, turquoise waters, and abundant stingray population.",
+                  "category": "landmark",
+                  "coords": [
+                        53.502989,
+                        12.703766
+                  ]
+            },
+            {
+                  "name": "Soviet T-34 Tank",
+                  "text": "This rusting Soviet T-34 tank stands as a Cold War relic directly on the shore of Detwah Lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        53.48598,
+                        12.695153
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "YE-SU",
     coords: [53.5000, 12.6833],
@@ -267,7 +1140,232 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "hajhir-mountains-nature-v2",
+    id: "hajhir-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Di Renih",
+                  "text": "Dieser Gipfel gehört zu den charakteristischen Granitnadeln der Hajhir-Berge, die oft in Wolken gehüllt sind.",
+                  "category": "natural",
+                  "coords": [
+                        54.064066,
+                        12.593579
+                  ]
+            },
+            {
+                  "name": "`Adik",
+                  "text": "Ein zerklüfteter Berggipfel im Zentrum der Insel, der das Herz der dramatischen Hajhir-Granitformationen bildet.",
+                  "category": "natural",
+                  "coords": [
+                        54.016631,
+                        12.600435
+                  ]
+            },
+            {
+                  "name": "Mashanig",
+                  "text": "Dies ist der höchste Punkt von Sokotra und bietet einen atemberaubenden Blick über das gesamte Bergmassiv bis zum Meer.",
+                  "category": "natural",
+                  "coords": [
+                        54.022053,
+                        12.574504
+                  ]
+            },
+            {
+                  "name": "Dagam",
+                  "text": "Ein markanter Granitpfeiler in der Hajhir-Range, der als Wahrzeichen für erfahrene Bergsteiger gilt.",
+                  "category": "natural",
+                  "coords": [
+                        54.01858,
+                        12.571079
+                  ]
+            },
+            {
+                  "name": "Di Namhor",
+                  "text": "Dieser entlegene Berggipfel liegt tief im Inneren des Gebirges und ist von endemischer Hochlandvegetation umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        54.066667,
+                        12.566667
+                  ]
+            },
+            {
+                  "name": "Dohak",
+                  "text": "Ein schroffer Gipfel in der zentralen Bergkette, der durch seine markante Felsstruktur und steile Hänge auffällt.",
+                  "category": "natural",
+                  "coords": [
+                        54.064157,
+                        12.580066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Di Renih",
+                  "text": "Ez a csúcs a Hajhir-hegység jellegzetes gránittűi közé tartozik, amelyeket gyakran felhő borít.",
+                  "category": "natural",
+                  "coords": [
+                        54.064066,
+                        12.593579
+                  ]
+            },
+            {
+                  "name": "`Adik",
+                  "text": "Egy sziklás hegycsúcs a sziget közepén, amely a drámai Hajhir gránitképződmények szívét alkotja.",
+                  "category": "natural",
+                  "coords": [
+                        54.016631,
+                        12.600435
+                  ]
+            },
+            {
+                  "name": "Mashanig",
+                  "text": "Ez Szokotra legmagasabb pontja, ahonnan lélegzetelállító kilátás nyílik az egész hegységre és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        54.022053,
+                        12.574504
+                  ]
+            },
+            {
+                  "name": "Dagam",
+                  "text": "Egy jellegzetes gránitpillér a Hajhir-hegységben, amely a tapasztalt hegymászók egyik mérföldköve.",
+                  "category": "natural",
+                  "coords": [
+                        54.01858,
+                        12.571079
+                  ]
+            },
+            {
+                  "name": "Di Namhor",
+                  "text": "Ez a távoli hegycsúcs a hegység mélyén található, endemikus felföldi vegetációval körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        54.066667,
+                        12.566667
+                  ]
+            },
+            {
+                  "name": "Dohak",
+                  "text": "Egy zord csúcs a központi hegységben, amely jellegzetes sziklaszerkezetével és meredek lejtőivel tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        54.064157,
+                        12.580066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Di Renih",
+                  "text": "Acest vârf aparține crestelor de granit caracteristice munților Hajhir, care sunt adesea învăluiți în nori.",
+                  "category": "natural",
+                  "coords": [
+                        54.064066,
+                        12.593579
+                  ]
+            },
+            {
+                  "name": "`Adik",
+                  "text": "Un vârf muntos accidentat în centrul insulei, care formează inima formațiunilor dramatice de granit din Hajhir.",
+                  "category": "natural",
+                  "coords": [
+                        54.016631,
+                        12.600435
+                  ]
+            },
+            {
+                  "name": "Mashanig",
+                  "text": "Acesta este cel mai înalt punct din Socotra și oferă o vedere spectaculoasă peste întregul masiv muntos până la mare.",
+                  "category": "natural",
+                  "coords": [
+                        54.022053,
+                        12.574504
+                  ]
+            },
+            {
+                  "name": "Dagam",
+                  "text": "Un pilon de granit proeminent în masivul Hajhir, considerat un reper pentru alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        54.01858,
+                        12.571079
+                  ]
+            },
+            {
+                  "name": "Di Namhor",
+                  "text": "Acest vârf muntos izolat este situat adânc în interiorul masivului și este înconjurat de vegetație endemică de munte.",
+                  "category": "natural",
+                  "coords": [
+                        54.066667,
+                        12.566667
+                  ]
+            },
+            {
+                  "name": "Dohak",
+                  "text": "Un vârf colțuros în lanțul muntos central, care se remarcă prin structura sa stâncoasă și pantele abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        54.064157,
+                        12.580066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Di Renih",
+                  "text": "This peak is one of the characteristic granite needles of the Hajhir Mountains, often shrouded in clouds.",
+                  "category": "natural",
+                  "coords": [
+                        54.064066,
+                        12.593579
+                  ]
+            },
+            {
+                  "name": "`Adik",
+                  "text": "A rugged mountain peak in the center of the island, forming part of the heart of the dramatic Hajhir granite formations.",
+                  "category": "natural",
+                  "coords": [
+                        54.016631,
+                        12.600435
+                  ]
+            },
+            {
+                  "name": "Mashanig",
+                  "text": "This is the highest point of Socotra, offering breathtaking views across the entire mountain range to the sea.",
+                  "category": "natural",
+                  "coords": [
+                        54.022053,
+                        12.574504
+                  ]
+            },
+            {
+                  "name": "Dagam",
+                  "text": "A prominent granite pillar in the Hajhir range, serving as a landmark for experienced mountain climbers.",
+                  "category": "natural",
+                  "coords": [
+                        54.01858,
+                        12.571079
+                  ]
+            },
+            {
+                  "name": "Di Namhor",
+                  "text": "This remote mountain peak is located deep within the range and is surrounded by endemic highland vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        54.066667,
+                        12.566667
+                  ]
+            },
+            {
+                  "name": "Dohak",
+                  "text": "A craggy peak in the central mountain range, notable for its distinct rock structure and steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        54.064157,
+                        12.580066
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "YE-SU",
     coords: [54.0000, 12.5667],
@@ -355,7 +1453,124 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "homhil-protected-area-nature-v2",
+    id: "homhil-protected-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoq Cave",
+                  "text": "Diese riesige Kalksteinhöhle beeindruckt mit metertiefen Stalaktiten und antiken Inschriften von Seefahrern.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35448,
+                        12.587697
+                  ]
+            },
+            {
+                  "name": "Homhil Infinity Pool",
+                  "text": "Dieses natürliche Felsbecken auf dem Plateau bietet einen Panoramablick über die Küste und ist von Drachenblutbäumen umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        54.313522,
+                        12.590599
+                  ]
+            },
+            {
+                  "name": "Socotra Folk Museum",
+                  "text": "Das Museum zeigt traditionelles Kunsthandwerk und Gebrauchsgegenstände der indigenen Kultur von Sokotra.",
+                  "category": "museum",
+                  "coords": [
+                        54.312765,
+                        12.607342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoq Cave",
+                  "text": "Ez a hatalmas mészkőbarlang méteres sztalaktitokkal és tengerészektől származó ősi feliratokkal nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35448,
+                        12.587697
+                  ]
+            },
+            {
+                  "name": "Homhil Infinity Pool",
+                  "text": "Ez a fennsíkon található természetes sziklamedence panorámás kilátást nyújt a partra, sárkányvérfák gyűrűjében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.313522,
+                        12.590599
+                  ]
+            },
+            {
+                  "name": "Socotra Folk Museum",
+                  "text": "A múzeum Szokotra őshonos kultúrájának hagyományos kézműves termékeit és mindennapi eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        54.312765,
+                        12.607342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoq Cave",
+                  "text": "Această peșteră masivă de calcar impresionează prin stalactite de mari dimensiuni și inscripții antice lăsate de marinari.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35448,
+                        12.587697
+                  ]
+            },
+            {
+                  "name": "Homhil Infinity Pool",
+                  "text": "Această piscină naturală de pe platou oferă o vedere panoramică asupra coastei, fiind înconjurată de arbori sângele dragonului.",
+                  "category": "landmark",
+                  "coords": [
+                        54.313522,
+                        12.590599
+                  ]
+            },
+            {
+                  "name": "Socotra Folk Museum",
+                  "text": "Muzeul expune obiecte de artizanat tradițional și unelte cotidiene ale culturii indigene din Socotra.",
+                  "category": "museum",
+                  "coords": [
+                        54.312765,
+                        12.607342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoq Cave",
+                  "text": "This massive limestone cave features impressive stalactites and ancient inscriptions left by early seafarers.",
+                  "category": "landmark",
+                  "coords": [
+                        54.35448,
+                        12.587697
+                  ]
+            },
+            {
+                  "name": "Homhil Infinity Pool",
+                  "text": "This natural rock pool on the plateau offers panoramic coastal views and is surrounded by dragon blood trees.",
+                  "category": "landmark",
+                  "coords": [
+                        54.313522,
+                        12.590599
+                  ]
+            },
+            {
+                  "name": "Socotra Folk Museum",
+                  "text": "The museum displays traditional handicrafts and everyday artifacts from the indigenous culture of Socotra.",
+                  "category": "museum",
+                  "coords": [
+                        54.312765,
+                        12.607342
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "YE-SU",
     coords: [54.3000, 12.5667],
@@ -443,7 +1658,52 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "sharma-protected-area-nature-v2",
+    id: "sharma-protected-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hisn al Musayniah",
+                  "text": "Diese Küstenruinen liegen in einem Schutzgebiet und überblicken das blaue Wasser des Arabischen Meeres.",
+                  "category": "historical",
+                  "coords": [
+                        49.966667,
+                        14.85
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hisn al Musayniah",
+                  "text": "Ezek a parti romok egy védett területen találhatók, kilátással az Arab-tenger kék vizére.",
+                  "category": "historical",
+                  "coords": [
+                        49.966667,
+                        14.85
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hisn al Musayniah",
+                  "text": "Aceste ruine de coastă sunt situate într-o zonă protejată, oferind vedere spre apele albastre ale Mării Arabiei.",
+                  "category": "historical",
+                  "coords": [
+                        49.966667,
+                        14.85
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hisn al Musayniah",
+                  "text": "These coastal ruins are situated within a protected area, overlooking the blue waters of the Arabian Sea.",
+                  "category": "historical",
+                  "coords": [
+                        49.966667,
+                        14.85
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "YE-HD",
     coords: [50.0167, 14.8167],
@@ -531,7 +1791,268 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-sumarah-nature-v2",
+    id: "jabal-sumarah-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Ba`ir",
+                  "text": "Ein Berggipfel in der Sumarah-Kette, der eine weite Aussicht über den strategisch wichtigen Sumara-Gebirgspass bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.140733,
+                        14.207128
+                  ]
+            },
+            {
+                  "name": "Jabal al `Aridah",
+                  "text": "Dieser Gipfel im Sumarah-Gebirge überragt die steilen Serpentinenstraßen, die den Norden mit dem Süden des Jemen verbinden.",
+                  "category": "natural",
+                  "coords": [
+                        44.093293,
+                        14.170935
+                  ]
+            },
+            {
+                  "name": "Jabal Hubaysh",
+                  "text": "Ein hoher Berg in der Region Ibb, der für seine nebligen Hänge und die Nähe zum höchsten Punkt des Sumara-Passes bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.100178,
+                        14.116363
+                  ]
+            },
+            {
+                  "name": "Jabal as Sahlah",
+                  "text": "Ein prominenter Gipfel im zerklüfteten Sumarah-Gebirge, das die Wasserscheide zwischen den zentralen Hochebenen bildet.",
+                  "category": "natural",
+                  "coords": [
+                        44.220395,
+                        14.216641
+                  ]
+            },
+            {
+                  "name": "Jabal `Akdan",
+                  "text": "Ein felsiger Aussichtspunkt im Sumarah-Hochland, der die grünen Terrassen der umliegenden Täler von Ibb überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        44.245869,
+                        14.196499
+                  ]
+            },
+            {
+                  "name": "Jabal Haywah",
+                  "text": "Ein Berggipfel in der Nähe des Sumara-Passes, geprägt durch die kühle Höhenluft und die raue Gebirgslandschaft Zentraljemens.",
+                  "category": "natural",
+                  "coords": [
+                        44.2323,
+                        14.168068
+                  ]
+            },
+            {
+                  "name": "Jabal `Uqqud",
+                  "text": "Dieser Gipfel im Sumarah-Massiv ist Teil der Gebirgskette, die historisch eine natürliche Barriere im jemenitischen Hochland darstellte.",
+                  "category": "natural",
+                  "coords": [
+                        44.230472,
+                        14.1313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Ba`ir",
+                  "text": "Hegycsúcs a Sumarah-hegységben, amely széles kilátást nyújt a stratégiailag fontos Sumara-hágóra.",
+                  "category": "natural",
+                  "coords": [
+                        44.140733,
+                        14.207128
+                  ]
+            },
+            {
+                  "name": "Jabal al `Aridah",
+                  "text": "Ez a Sumarah-hegységbeli csúcs a Jemen északi és déli részét összekötő meredek szerpentinutak fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        44.093293,
+                        14.170935
+                  ]
+            },
+            {
+                  "name": "Jabal Hubaysh",
+                  "text": "Magas hegy Ibb régióban, amely ködös lejtőiről és a Sumara-hágó legmagasabb pontjához való közelségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.100178,
+                        14.116363
+                  ]
+            },
+            {
+                  "name": "Jabal as Sahlah",
+                  "text": "Kiemelkedő csúcs a tagolt Sumarah-hegységben, amely vízválasztót alkot a központi fennsíkok között.",
+                  "category": "natural",
+                  "coords": [
+                        44.220395,
+                        14.216641
+                  ]
+            },
+            {
+                  "name": "Jabal `Akdan",
+                  "text": "Sziklás kilátópont a Sumarah-felföldön, amely Ibb környező völgyeinek zöld teraszaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.245869,
+                        14.196499
+                  ]
+            },
+            {
+                  "name": "Jabal Haywah",
+                  "text": "Hegycsúcs a Sumara-hágó közelében, amelyet a hűvös hegyi levegő és Közép-Jemen zord hegyi tája jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        44.2323,
+                        14.168068
+                  ]
+            },
+            {
+                  "name": "Jabal `Uqqud",
+                  "text": "Ez a Sumarah-masszívumbeli csúcs annak a hegyláncnak a része, amely történelmileg természetes gátat jelentett a jemeni felföldön.",
+                  "category": "natural",
+                  "coords": [
+                        44.230472,
+                        14.1313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Ba`ir",
+                  "text": "Un vârf montan în lanțul Sumarah, oferind o panoramă largă asupra pasului montan strategic Sumara.",
+                  "category": "natural",
+                  "coords": [
+                        44.140733,
+                        14.207128
+                  ]
+            },
+            {
+                  "name": "Jabal al `Aridah",
+                  "text": "Acest vârf din munții Sumarah domină drumurile abrupte în serpentină care leagă nordul de sudul Yemenului.",
+                  "category": "natural",
+                  "coords": [
+                        44.093293,
+                        14.170935
+                  ]
+            },
+            {
+                  "name": "Jabal Hubaysh",
+                  "text": "Un munte înalt în regiunea Ibb, cunoscut pentru pantele sale cețoase și proximitatea față de cel mai înalt punct al pasului Sumara.",
+                  "category": "natural",
+                  "coords": [
+                        44.100178,
+                        14.116363
+                  ]
+            },
+            {
+                  "name": "Jabal as Sahlah",
+                  "text": "Un vârf proeminent în munții accidentați Sumarah, care formează cumpăna apelor între platourile centrale.",
+                  "category": "natural",
+                  "coords": [
+                        44.220395,
+                        14.216641
+                  ]
+            },
+            {
+                  "name": "Jabal `Akdan",
+                  "text": "Un punct de observație stâncos în zonele înalte Sumarah, cu vedere la terasele verzi ale văilor înconjurătoare din Ibb.",
+                  "category": "natural",
+                  "coords": [
+                        44.245869,
+                        14.196499
+                  ]
+            },
+            {
+                  "name": "Jabal Haywah",
+                  "text": "Un vârf montan lângă pasul Sumara, caracterizat de aerul răcoros de munte și peisajul montan accidentat al Yemenului central.",
+                  "category": "natural",
+                  "coords": [
+                        44.2323,
+                        14.168068
+                  ]
+            },
+            {
+                  "name": "Jabal `Uqqud",
+                  "text": "Acest vârf din masivul Sumarah face parte din lanțul muntos care, istoric, a reprezentat o barieră naturală în zonele înalte ale Yemenului.",
+                  "category": "natural",
+                  "coords": [
+                        44.230472,
+                        14.1313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Ba`ir",
+                  "text": "A mountain peak in the Sumarah range, offering wide views over the strategically important Sumara mountain pass.",
+                  "category": "natural",
+                  "coords": [
+                        44.140733,
+                        14.207128
+                  ]
+            },
+            {
+                  "name": "Jabal al `Aridah",
+                  "text": "This peak in the Sumarah mountains overlooks the steep serpentine roads connecting north and south Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.093293,
+                        14.170935
+                  ]
+            },
+            {
+                  "name": "Jabal Hubaysh",
+                  "text": "A high mountain in the Ibb region, known for its misty slopes and proximity to the highest point of the Sumara Pass.",
+                  "category": "natural",
+                  "coords": [
+                        44.100178,
+                        14.116363
+                  ]
+            },
+            {
+                  "name": "Jabal as Sahlah",
+                  "text": "A prominent peak in the rugged Sumarah mountains, which forms a watershed between the central highlands.",
+                  "category": "natural",
+                  "coords": [
+                        44.220395,
+                        14.216641
+                  ]
+            },
+            {
+                  "name": "Jabal `Akdan",
+                  "text": "A rocky vantage point in the Sumarah highlands, overlooking the green terraces of Ibb's surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        44.245869,
+                        14.196499
+                  ]
+            },
+            {
+                  "name": "Jabal Haywah",
+                  "text": "A mountain peak near the Sumara Pass, characterized by cool mountain air and the rugged highland landscape of central Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.2323,
+                        14.168068
+                  ]
+            },
+            {
+                  "name": "Jabal `Uqqud",
+                  "text": "This peak in the Sumarah massif is part of the mountain chain that historically served as a natural barrier in the Yemeni highlands.",
+                  "category": "natural",
+                  "coords": [
+                        44.230472,
+                        14.1313
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "YE-IB",
     coords: [44.1833, 14.1500],
@@ -619,7 +2140,268 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-surdud-nature-v2",
+    id: "wadi-surdud-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Qurun",
+                  "text": "Ein Gipfel im Wadi Surdud, der sich über die fruchtbare Tallandschaft der Tihamah-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        43.427283,
+                        15.201081
+                  ]
+            },
+            {
+                  "name": "Jabal al Asus",
+                  "text": "Ein Berg im Wadi Surdud, der für seine exponierte Lage am Rande des jemenitischen Küstengebirges bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.370834,
+                        15.213889
+                  ]
+            },
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "Ein Teil des schroffen Gebirgszuges im Wadi Surdud mit charakteristischen Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        43.417349,
+                        15.175815
+                  ]
+            },
+            {
+                  "name": "Jabal Tahmus",
+                  "text": "Ein isolierter Berggipfel in der Naturlandschaft des Wadi Surdud, umgeben von trockener Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        43.397778,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Kabbat al Mansabah",
+                  "text": "Ein felsiger Gipfel im Wadi Surdud, der weite Ausblicke über die semiaride Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.351695,
+                        15.196578
+                  ]
+            },
+            {
+                  "name": "Jabal al Minjarah",
+                  "text": "Ein Bergrücken im Wadi Surdud, der die typische Geologie des westlichen jemenitischen Hochlands zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        43.335982,
+                        15.205311
+                  ]
+            },
+            {
+                  "name": "Jabal as Suqur",
+                  "text": "Ein Gipfel in der wilden Natur des Wadi Surdud, der oft als Orientierungspunkt für Reisende dient.",
+                  "category": "natural",
+                  "coords": [
+                        43.335127,
+                        15.228886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal al Qurun",
+                  "text": "Hegycsúcs a Vádi Szurdudban, amely a Tihama-régió termékeny völgye fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        43.427283,
+                        15.201081
+                  ]
+            },
+            {
+                  "name": "Jabal al `Asus",
+                  "text": "Hegy a Vádi Szurdudban, amely a jemeni parti hegység szélén lévő fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.370834,
+                        15.213889
+                  ]
+            },
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "A Vádi Szurdud sziklás hegyláncának része, jellegzetes sziklaformációkkal.",
+                  "category": "natural",
+                  "coords": [
+                        43.417349,
+                        15.175815
+                  ]
+            },
+            {
+                  "name": "Jabal Tahmus",
+                  "text": "Elszigetelt hegycsúcs a Vádi Szurdud természeti táján, száraz növényzettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        43.397778,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Kabbat al Mansabah",
+                  "text": "Sziklás csúcs a Vádi Szurdudban, amely tágas kilátást nyújt a félsivatagi régióra.",
+                  "category": "natural",
+                  "coords": [
+                        43.351695,
+                        15.196578
+                  ]
+            },
+            {
+                  "name": "Jabal al Minjarah",
+                  "text": "Hegyhát a Vádi Szurdudban, amely a nyugat-jemeni felföld tipikus geológiáját mutatja.",
+                  "category": "natural",
+                  "coords": [
+                        43.335982,
+                        15.205311
+                  ]
+            },
+            {
+                  "name": "Jabal as Suqur",
+                  "text": "Hegycsúcs a Vádi Szurdud vadregényes táján, amely gyakran tájékozódási pontként szolgál az utazók számára.",
+                  "category": "natural",
+                  "coords": [
+                        43.335127,
+                        15.228886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal al Qurun",
+                  "text": "Un vârf în Wadi Surdud care se înalță deasupra peisajului fertil de vale din regiunea Tihamah.",
+                  "category": "natural",
+                  "coords": [
+                        43.427283,
+                        15.201081
+                  ]
+            },
+            {
+                  "name": "Jabal al `Asus",
+                  "text": "Un munte în Wadi Surdud, cunoscut pentru poziția sa expusă la marginea lanțului muntos de coastă din Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        43.370834,
+                        15.213889
+                  ]
+            },
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "O parte a lanțului muntos accidentat din Wadi Surdud, cu formațiuni stâncoase caracteristice.",
+                  "category": "natural",
+                  "coords": [
+                        43.417349,
+                        15.175815
+                  ]
+            },
+            {
+                  "name": "Jabal Tahmus",
+                  "text": "Un vârf muntos izolat în peisajul natural din Wadi Surdud, înconjurat de vegetație aridă.",
+                  "category": "natural",
+                  "coords": [
+                        43.397778,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Kabbat al Mansabah",
+                  "text": "Un vârf stâncos în Wadi Surdud, care oferă vederi largi asupra regiunii semi-aride.",
+                  "category": "natural",
+                  "coords": [
+                        43.351695,
+                        15.196578
+                  ]
+            },
+            {
+                  "name": "Jabal al Minjarah",
+                  "text": "O creastă montană în Wadi Surdud, prezentând geologia tipică a zonei muntoase din vestul Yemenului.",
+                  "category": "natural",
+                  "coords": [
+                        43.335982,
+                        15.205311
+                  ]
+            },
+            {
+                  "name": "Jabal as Suqur",
+                  "text": "Un vârf în natura sălbatică din Wadi Surdud, servind adesea ca punct de reper pentru călători.",
+                  "category": "natural",
+                  "coords": [
+                        43.335127,
+                        15.228886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Qurun",
+                  "text": "A peak in Wadi Surdud that rises above the fertile valley landscape of the Tihamah region.",
+                  "category": "natural",
+                  "coords": [
+                        43.427283,
+                        15.201081
+                  ]
+            },
+            {
+                  "name": "Jabal al `Asus",
+                  "text": "A mountain in Wadi Surdud known for its exposed position at the edge of the Yemeni coastal mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        43.370834,
+                        15.213889
+                  ]
+            },
+            {
+                  "name": "Jabal Shawkan",
+                  "text": "A part of the rugged mountain range in Wadi Surdud featuring characteristic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        43.417349,
+                        15.175815
+                  ]
+            },
+            {
+                  "name": "Jabal Tahmus",
+                  "text": "An isolated mountain peak in the natural landscape of Wadi Surdud, surrounded by arid vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        43.397778,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Kabbat al Mansabah",
+                  "text": "A rocky peak in Wadi Surdud that offers wide views over the semi-arid region.",
+                  "category": "natural",
+                  "coords": [
+                        43.351695,
+                        15.196578
+                  ]
+            },
+            {
+                  "name": "Jabal al Minjarah",
+                  "text": "A mountain ridge in Wadi Surdud showing the typical geology of the western Yemeni highlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.335982,
+                        15.205311
+                  ]
+            },
+            {
+                  "name": "Jabal as Suqur",
+                  "text": "A peak in the wild nature of Wadi Surdud, often serving as a landmark for travelers.",
+                  "category": "natural",
+                  "coords": [
+                        43.335127,
+                        15.228886
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "YE-MW",
     coords: [43.4167, 15.2333],
@@ -751,7 +2533,124 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-yafaa-nature-v2",
+    id: "jabal-yafaa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Alla",
+                  "text": "Hoher Gipfel im zerklüfteten Yafa-Gebirgszug, der für seine kargen Hänge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        45.183333,
+                        13.816667
+                  ]
+            },
+            {
+                  "name": "Jabal Adaran",
+                  "text": "Markanter Gipfel in der bergigen Yafa-Region im südlichen Hochland des Jemen.",
+                  "category": "natural",
+                  "coords": [
+                        45.131217,
+                        13.765687
+                  ]
+            },
+            {
+                  "name": "Al Qara`i",
+                  "text": "Traditioneller jemenitischer Marktplatz, der die umliegenden Bergdörfer in der Yafa-Region versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        45.159381,
+                        13.793144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal al Alla",
+                  "text": "Magas csúcs a zord Jafa-hegységben, amely kopár lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        45.183333,
+                        13.816667
+                  ]
+            },
+            {
+                  "name": "Jabal Adaran",
+                  "text": "Jellegzetes hegycsúcs a hegyvidéki Jafa-régióban, Jemen déli felföldjén.",
+                  "category": "natural",
+                  "coords": [
+                        45.131217,
+                        13.765687
+                  ]
+            },
+            {
+                  "name": "Al Qara`i",
+                  "text": "Hagyományos jemeni piactér, amely a Jafa-régió környező hegyi falvait szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        45.159381,
+                        13.793144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal al Alla",
+                  "text": "Vârf înalt în lanțul muntos accidentat Yafa, cunoscut pentru pantele sale golașe.",
+                  "category": "natural",
+                  "coords": [
+                        45.183333,
+                        13.816667
+                  ]
+            },
+            {
+                  "name": "Jabal Adaran",
+                  "text": "Vârf proeminent în regiunea muntoasă Yafa din zonele înalte ale Yemenului de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        45.131217,
+                        13.765687
+                  ]
+            },
+            {
+                  "name": "Al Qara`i",
+                  "text": "Piață tradițională yemenită care deservește satele montane din regiunea Yafa.",
+                  "category": "cultural",
+                  "coords": [
+                        45.159381,
+                        13.793144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Alla",
+                  "text": "High peak in the rugged Yafa mountain range, known for its barren slopes.",
+                  "category": "natural",
+                  "coords": [
+                        45.183333,
+                        13.816667
+                  ]
+            },
+            {
+                  "name": "Jabal Adaran",
+                  "text": "Prominent summit in the mountainous Yafa region of the southern Yemeni highlands.",
+                  "category": "natural",
+                  "coords": [
+                        45.131217,
+                        13.765687
+                  ]
+            },
+            {
+                  "name": "Al Qara`i",
+                  "text": "Traditional Yemeni marketplace serving the local mountain villages of the Yafa region.",
+                  "category": "cultural",
+                  "coords": [
+                        45.159381,
+                        13.793144
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "YE-LA",
     coords: [45.1500, 13.8000],
@@ -795,7 +2694,52 @@ export const poiExtraYemenNatureV2: POI[] = [
     },
   },
   {
-    id: "fermhin-forest-nature-v2",
+    id: "fermhin-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tuft",
+                  "text": "Der Gipfel erhebt sich über dem Fermhin-Wald, der weltweit größten Ansammlung von Drachenblutbäumen.",
+                  "category": "natural",
+                  "coords": [
+                        53.965401,
+                        12.448486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tuft",
+                  "text": "A csúcs a Fermhin-erdő fölé magasodik, amely a sárkányvérfák legnagyobb állománya a világon.",
+                  "category": "natural",
+                  "coords": [
+                        53.965401,
+                        12.448486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tuft",
+                  "text": "Vârful se înalță deasupra pădurii Fermhin, cea mai mare concentrare de arbori sângele dragonului din lume.",
+                  "category": "natural",
+                  "coords": [
+                        53.965401,
+                        12.448486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuft",
+                  "text": "The peak rises above the Fermhin forest, which contains the world's largest concentration of dragon blood trees.",
+                  "category": "natural",
+                  "coords": [
+                        53.965401,
+                        12.448486
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "YE-SU",
     coords: [53.9667, 12.4833],

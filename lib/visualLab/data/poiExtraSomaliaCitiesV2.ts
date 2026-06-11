@@ -92,7 +92,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ciise 1",
-                  "text": "ciise 1 ist ein Aussichtspunkt in Burao.",
+                  "text": "Ciise 1 ist ein saisonaler Trockenfluss in der Nähe von Burao, der nur in der Regenzeit Wasser führt.",
                   "category": "natural",
                   "coords": [
                         45.574863,
@@ -101,7 +101,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 8",
-                  "text": "ciise m 8 ist ein Aussichtspunkt in Burao.",
+                  "text": "Ciise m 8 ist ein weiterer Trockenflussabschnitt bei Burao mit steinigen Ufern.",
                   "category": "natural",
                   "coords": [
                         45.575305,
@@ -110,7 +110,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 15",
-                  "text": "ciise m 15 ist ein Aussichtspunkt in Burao.",
+                  "text": "Ciise m 15 ist ein trockenes Flussbett bei Burao, das von Akazienbäumen gesäumt wird.",
                   "category": "natural",
                   "coords": [
                         45.576296,
@@ -119,7 +119,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 24",
-                  "text": "ciise m 24 ist ein Aussichtspunkt in Burao.",
+                  "text": "Ciise m 24 ist ein natürlicher Einschnitt im Gelände bei Burao, der als Weidefläche dient.",
                   "category": "natural",
                   "coords": [
                         45.576935,
@@ -130,7 +130,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ciise 1",
-                  "text": "A ciise 1 egy kilátó Burao városában.",
+                  "text": "A Ciise 1 egy szezonális száraz folyómeder Burao közelében, amely csak az esős évszakban hordoz vizet.",
                   "category": "natural",
                   "coords": [
                         45.574863,
@@ -139,7 +139,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 8",
-                  "text": "A ciise m 8 egy kilátó Burao városában.",
+                  "text": "A Ciise m 8 egy másik száraz folyószakasz Burao mellett, kavicsos partokkal.",
                   "category": "natural",
                   "coords": [
                         45.575305,
@@ -148,7 +148,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 15",
-                  "text": "A ciise m 15 egy kilátó Burao városában.",
+                  "text": "A Ciise m 15 egy száraz folyómeder Burao mellett, akácfákkal szegélyezve.",
                   "category": "natural",
                   "coords": [
                         45.576296,
@@ -157,7 +157,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 24",
-                  "text": "A ciise m 24 egy kilátó Burao városában.",
+                  "text": "A Ciise m 24 egy természetes mélyedés Burao közelében, amely legelőként szolgál.",
                   "category": "natural",
                   "coords": [
                         45.576935,
@@ -168,7 +168,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ciise 1",
-                  "text": "ciise 1 este un punct de belvedere situat în Burao.",
+                  "text": "Ciise 1 este un albie de râu sezonier lângă Burao, care poartă apă doar în sezonul ploios.",
                   "category": "natural",
                   "coords": [
                         45.574863,
@@ -177,7 +177,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 8",
-                  "text": "ciise m 8 este un punct de belvedere situat în Burao.",
+                  "text": "Ciise m 8 este un alt segment de râu uscat lângă Burao, cu maluri pietroase.",
                   "category": "natural",
                   "coords": [
                         45.575305,
@@ -186,7 +186,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 15",
-                  "text": "ciise m 15 este un punct de belvedere situat în Burao.",
+                  "text": "Ciise m 15 este o albie uscată lângă Burao, flancată de salcâmi.",
                   "category": "natural",
                   "coords": [
                         45.576296,
@@ -195,7 +195,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 24",
-                  "text": "ciise m 24 este un punct de belvedere situat în Burao.",
+                  "text": "Ciise m 24 este o adâncitură naturală lângă Burao, folosită ca pășune.",
                   "category": "natural",
                   "coords": [
                         45.576935,
@@ -206,7 +206,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ciise 1",
-                  "text": "ciise 1 is a viewpoint located in Burao.",
+                  "text": "Ciise 1 is a seasonal dry riverbed near Burao, carrying water only in the rainy season.",
                   "category": "natural",
                   "coords": [
                         45.574863,
@@ -215,7 +215,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 8",
-                  "text": "ciise m 8 is a viewpoint located in Burao.",
+                  "text": "Ciise m 8 is another dry river section near Burao with stony banks.",
                   "category": "natural",
                   "coords": [
                         45.575305,
@@ -224,7 +224,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 15",
-                  "text": "ciise m 15 is a viewpoint located in Burao.",
+                  "text": "Ciise m 15 is a dry riverbed near Burao, lined with acacia trees.",
                   "category": "natural",
                   "coords": [
                         45.576296,
@@ -233,7 +233,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "ciise m 24",
-                  "text": "ciise m 24 is a viewpoint located in Burao.",
+                  "text": "Ciise m 24 is a natural depression near Burao, used as grazing land.",
                   "category": "natural",
                   "coords": [
                         45.576935,
@@ -374,7 +374,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Afar Irdoodka",
-                  "text": "Afar Irdoodka ist eine Attraktion in Baidoa.",
+                  "text": "Afar Irdoodka ist ein Wahrzeichen in Baidoa, bestehend aus vier Brücken über einen ausgetrockneten Fluss.",
                   "category": "landmark",
                   "coords": [
                         43.649747,
@@ -383,7 +383,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Buundada",
-                  "text": "Buundada ist eine Attraktion in Baidoa.",
+                  "text": "Buundada ist eine markante Brücke in Baidoa, die den Hauptweg zum Marktviertel überquert.",
                   "category": "landmark",
                   "coords": [
                         43.646985,
@@ -394,7 +394,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Afar Irdoodka",
-                  "text": "Az Afar Irdoodka egy látványosság Baidoa városában.",
+                  "text": "Az Afar Irdoodka egy nevezetesség Baidoában, amely négy hídból áll egy kiszáradt folyó felett.",
                   "category": "landmark",
                   "coords": [
                         43.649747,
@@ -403,7 +403,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Buundada",
-                  "text": "A Buundada egy látványosság Baidoa városában.",
+                  "text": "A Buundada egy jellegzetes híd Baidoában, amely a piaci negyedhez vezető főutat keresztezi.",
                   "category": "landmark",
                   "coords": [
                         43.646985,
@@ -414,7 +414,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Afar Irdoodka",
-                  "text": "Afar Irdoodka este o atracție turistică situată în Baidoa.",
+                  "text": "Afar Irdoodka este un reper în Baidoa, format din patru poduri peste un râu secat.",
                   "category": "landmark",
                   "coords": [
                         43.649747,
@@ -423,7 +423,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Buundada",
-                  "text": "Buundada este o atracție turistică situată în Baidoa.",
+                  "text": "Buundada este un pod proeminent în Baidoa, traversând drumul principal spre zona pieței.",
                   "category": "landmark",
                   "coords": [
                         43.646985,
@@ -434,7 +434,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Afar Irdoodka",
-                  "text": "Afar Irdoodka is an attraction located in Baidoa.",
+                  "text": "Afar Irdoodka is a landmark in Baidoa consisting of four bridges over a dry river.",
                   "category": "landmark",
                   "coords": [
                         43.649747,
@@ -443,7 +443,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Buundada",
-                  "text": "Buundada is an attraction located in Baidoa.",
+                  "text": "Buundada is a prominent bridge in Baidoa, crossing the main road to the market district.",
                   "category": "landmark",
                   "coords": [
                         43.646985,
@@ -537,7 +537,196 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kismayo-cities-v2", "sights": {"de": [{"name": "Kibora Beach", "text": "Entlang der Küstenlinie von Kismayo erstreckt sich der Kibora Beach, der als atemberaubender Aussichtspunkt über dem Ozean dient. Die Atmosphäre ist greifbar dynamisch, geprägt durch die lokale maritime Kultur und die stetige Meeresbrise. Es ist ein fantastischer Ort, um spazieren zu gehen, über das weite Wasser zu blicken und die Wärme der somalischen Küste zu spüren. Der späte Nachmittag ist eine besonders spektakuläre Zeit für einen Besuch.", "category": "natural", "coords": [42.564411, -0.348161]}, {"name": "Olympic", "text": "Olympic ist eine bemerkenswerte Attraktion in Kismayo.", "category": "landmark", "coords": [42.552297, -0.352198]}, {"name": "Al-Th", "text": "الث ist eine Attraktion, die man in Kismayo besuchen kann.", "category": "landmark", "coords": [42.554578, -0.344785]}, {"name": "shibiin", "text": "shibiin ist ein markanter Aussichtspunkt in Kismayo.", "category": "natural", "coords": [42.542835, -0.363536]}, {"name": "BRDM-2 Wreck", "text": "BRDM-2 Wreck ist eine einzigartige Attraktion in Kismayo.", "category": "landmark", "coords": [42.543868, -0.365666]}], "hu": [{"name": "Kibora Beach", "text": "A Kismayo partvidékén végignyúló Kibora Beach lenyűgöző, festői kilátópontként szolgál az óceán felett. Az általános atmoszféra élénk és dinamikus, amelyet nagyrészt a helyi tengeri kultúra és a simogató tengeri szellő formál. Fantasztikus hely ez egy sétára, a végtelen vízben való gyönyörködésre és a szomáliai partok melegének megtapasztalására. A késő délutáni órák rendkívül alkalmasak a látogatásra.", "category": "natural", "coords": [42.564411, -0.348161]}, {"name": "Olympic", "text": "Az Olympic egy figyelemre méltó látványosság Kismayo városában.", "category": "landmark", "coords": [42.552297, -0.352198]}, {"name": "Al-Th", "text": "A الث egy meglátogatásra érdemes látványosság Kismayo területén.", "category": "landmark", "coords": [42.554578, -0.344785]}, {"name": "shibiin", "text": "A shibiin egy kiemelkedő kilátó Kismayo városában.", "category": "natural", "coords": [42.542835, -0.363536]}, {"name": "BRDM-2 Wreck", "text": "A BRDM-2 Wreck egy egyedülálló látványosság Kismayo területén.", "category": "landmark", "coords": [42.543868, -0.365666]}], "ro": [{"name": "Kibora Beach", "text": "Întinzându-se de-a lungul zonei de coastă din Kismayo, Kibora Beach servește drept un punct de observare pitoresc uimitor asupra oceanului. Atmosfera generală este viu dinamică, fiind în mare parte conturată de cultura maritimă locală și de briza mării. Este un loc fantastic pentru a vă plimba, pentru a privi vasta apă și pentru a experimenta cu adevărat căldura coastei somaleze. După-amiaza târziu este un moment spectaculos de bun pentru a fi vizitată.", "category": "natural", "coords": [42.564411, -0.348161]}, {"name": "Olympic", "text": "Olympic este o atracție notabilă situată în Kismayo.", "category": "landmark", "coords": [42.552297, -0.352198]}, {"name": "Al-Th", "text": "الث este o atracție de vizitat în Kismayo.", "category": "landmark", "coords": [42.554578, -0.344785]}, {"name": "shibiin", "text": "shibiin este un punct de belvedere proeminent situat în Kismayo.", "category": "natural", "coords": [42.542835, -0.363536]}, {"name": "BRDM-2 Wreck", "text": "BRDM-2 Wreck este o atracție unică situată în Kismayo.", "category": "landmark", "coords": [42.543868, -0.365666]}], "en": [{"name": "Kibora Beach", "text": "Stretching out along the coastline of Kismayo, Kibora Beach serves as a stunning scenic viewpoint over the ocean. The overall atmosphere is vividly dynamic, largely shaped by the local maritime culture and the sweeping sea breeze. It is a fantastic place to walk, gaze out at the expansive water, and truly experience the warmth of the Somali coast. The late afternoon is a spectacularly good time to plan your visit.", "category": "natural", "coords": [42.564411, -0.348161]}, {"name": "Olympic", "text": "Olympic is a notable attraction situated in Kismayo.", "category": "landmark", "coords": [42.552297, -0.352198]}, {"name": "Al-Th", "text": "الث is an attraction to visit in Kismayo.", "category": "landmark", "coords": [42.554578, -0.344785]}, {"name": "shibiin", "text": "shibiin is a prominent viewpoint located in Kismayo.", "category": "natural", "coords": [42.542835, -0.363536]}, {"name": "BRDM-2 Wreck", "text": "BRDM-2 Wreck is a unique attraction situated in Kismayo.", "category": "landmark", "coords": [42.543868, -0.365666]}]},
+    id: "kismayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Entlang der Küstenlinie von Kismayo erstreckt sich der Kibora Beach, der als atemberaubender Aussichtspunkt über dem Ozean dient. Die Atmosphäre ist greifbar dynamisch, geprägt durch die lokale maritime Kultur und die stetige Meeresbrise. Es ist ein fantastischer Ort, um spazieren zu gehen, über das weite Wasser zu blicken und die Wärme der somalischen Küste zu spüren. Der späte Nachmittag ist eine besonders spektakuläre Zeit für einen Besuch.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Olympic ist ein Sportstadion in Kismayo, das für Leichtathletik und Fußball genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "Al-Th",
+                  "text": "Al-Th ist ein hoher Sendeturm in Kismayo, der die Rundfunkversorgung der Region sicherstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "Shibiin ist eine natürliche Süßwasserquelle in Kismayo, die von der lokalen Bevölkerung genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "BRDM-2 Wreck ist eine einzigartige Attraktion in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "A Kismayo partvidékén végignyúló Kibora Beach lenyűgöző, festői kilátópontként szolgál az óceán felett. Az általános atmoszféra élénk és dinamikus, amelyet nagyrészt a helyi tengeri kultúra és a simogató tengeri szellő formál. Fantasztikus hely ez egy sétára, a végtelen vízben való gyönyörködésre és a szomáliai partok melegének megtapasztalására. A késő délutáni órák rendkívül alkalmasak a látogatásra.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Az Olympic egy sportstadion Kismayóban, atlétikai és futballmérkőzések számára.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "Al-Th",
+                  "text": "Az Al-Th egy magas adótorony Kismayóban, amely a régió rádióellátását biztosítja.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "A Shibiin egy természetes édesvízforrás Kismayóban, amelyet a helyi lakosság használ.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "A BRDM-2 Wreck egy egyedülálló látványosság Kismayo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Întinzându-se de-a lungul zonei de coastă din Kismayo, Kibora Beach servește drept un punct de observare pitoresc uimitor asupra oceanului. Atmosfera generală este viu dinamică, fiind în mare parte conturată de cultura maritimă locală și de briza mării. Este un loc fantastic pentru a vă plimba, pentru a privi vasta apă și pentru a experimenta cu adevărat căldura coastei somaleze. După-amiaza târziu este un moment spectaculos de bun pentru a fi vizitată.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Olympic este un stadion sportiv în Kismayo, folosit pentru atletism și fotbal.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "Al-Th",
+                  "text": "Al-Th este un turn de transmisie înalt în Kismayo, care asigură acoperirea radio a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "Shibiin este un izvor natural de apă dulce în Kismayo, folosit de populația locală.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "BRDM-2 Wreck este o atracție unică situată în Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Stretching out along the coastline of Kismayo, Kibora Beach serves as a stunning scenic viewpoint over the ocean. The overall atmosphere is vividly dynamic, largely shaped by the local maritime culture and the sweeping sea breeze. It is a fantastic place to walk, gaze out at the expansive water, and truly experience the warmth of the Somali coast. The late afternoon is a spectacularly good time to plan your visit.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Olympic is a sports stadium in Kismayo, used for athletics and football.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "Al-Th",
+                  "text": "Al-Th is a tall transmission tower in Kismayo, providing radio coverage to the region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "Shibiin is a natural freshwater spring in Kismayo, used by the local population.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "BRDM-2 Wreck is a unique attraction situated in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-JH",
     coords: [42.5461, -0.3582],
@@ -627,7 +816,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Barxada",
-                  "text": "Barxada ist ein Aussichtspunkt in Garowe.",
+                  "text": "Barxada ist ein flacher See bei Garowe, der in der Trockenzeit oft austrocknet.",
                   "category": "natural",
                   "coords": [
                         48.481954,
@@ -638,7 +827,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Barxada",
-                  "text": "A Barxada egy kilátóhely Garowéban.",
+                  "text": "A Barxada egy sekély tó Garowe mellett, amely a száraz évszakban gyakran kiszárad.",
                   "category": "natural",
                   "coords": [
                         48.481954,
@@ -649,7 +838,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Barxada",
-                  "text": "Barxada este un punct de belvedere situat în Garowe.",
+                  "text": "Barxada este un lac puțin adânc lângă Garowe, adesea secat în sezonul uscat.",
                   "category": "natural",
                   "coords": [
                         48.481954,
@@ -660,7 +849,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Barxada",
-                  "text": "Barxada is a scenic viewpoint located in Garowe.",
+                  "text": "Barxada is a shallow lake near Garowe, often drying up in the dry season.",
                   "category": "natural",
                   "coords": [
                         48.481954,
@@ -1016,7 +1205,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "City Monument",
-                  "text": "City Monument ist ein Denkmal in Garbahaarey.",
+                  "text": "City Monument ist ein zentrales Denkmal in Garbahaarey, das an die Stadtgründung erinnert.",
                   "category": "historical",
                   "coords": [
                         42.21996,
@@ -1025,7 +1214,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Gedo Water Agency",
-                  "text": "Ruins of Gedo Water Agency ist eine Ruinenstätte in Garbahaarey.",
+                  "text": "Die Ruinen der Gedo-Wasserbehörde sind Überreste einer kolonialen Wasseraufbereitungsanlage in Garbahaarey.",
                   "category": "historical",
                   "coords": [
                         42.218922,
@@ -1036,7 +1225,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "City Monument",
-                  "text": "A City Monument egy emlékmű Garbahaarey városában.",
+                  "text": "A City Monument egy központi emlékmű Garbahaareyben, amely a város alapítására emlékeztet.",
                   "category": "historical",
                   "coords": [
                         42.21996,
@@ -1045,7 +1234,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Gedo Water Agency",
-                  "text": "A Ruins of Gedo Water Agency egy rom Garbahaarey városában.",
+                  "text": "A Gedo Vízügyi Hivatal romjai egy gyarmati víztisztító telep maradványai Garbahaareyben.",
                   "category": "historical",
                   "coords": [
                         42.218922,
@@ -1056,7 +1245,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "City Monument",
-                  "text": "City Monument este un monument situat în Garbahaarey.",
+                  "text": "City Monument este un monument central în Garbahaarey, care comemorează fondarea orașului.",
                   "category": "historical",
                   "coords": [
                         42.21996,
@@ -1065,7 +1254,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Gedo Water Agency",
-                  "text": "Ruins of Gedo Water Agency este o ruină situată în Garbahaarey.",
+                  "text": "Ruinele Agenției de Apă Gedo sunt rămășițele unei stații coloniale de tratare a apei în Garbahaarey.",
                   "category": "historical",
                   "coords": [
                         42.218922,
@@ -1076,7 +1265,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "City Monument",
-                  "text": "City Monument is a monument located in Garbahaarey.",
+                  "text": "City Monument is a central memorial in Garbahaarey, commemorating the founding of the town.",
                   "category": "historical",
                   "coords": [
                         42.21996,
@@ -1085,7 +1274,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Gedo Water Agency",
-                  "text": "Ruins of Gedo Water Agency is a ruins site located in Garbahaarey.",
+                  "text": "The Ruins of Gedo Water Agency are remains of a colonial water treatment plant in Garbahaarey.",
                   "category": "historical",
                   "coords": [
                         42.218922,
@@ -1570,7 +1759,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "Fort Dhowre Ali Sheneeleh ist eine historische Burg in Eyl.",
+                  "text": "Festung aus dem Jahr 1917 in Eyl, Somalia.",
                   "category": "castle",
                   "coords": [
                         49.818651,
@@ -1581,7 +1770,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "A Fort Dhowre Ali Sheneeleh egy történelmi kastély Eyl városában.",
+                  "text": "1917-ben épült erőd Eylben, Szomáliában.",
                   "category": "castle",
                   "coords": [
                         49.818651,
@@ -1592,7 +1781,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "Fort Dhowre Ali Sheneeleh este un castel istoric situat în Eyl.",
+                  "text": "Fortăreață construită în 1917 în Eyl, Somalia.",
                   "category": "castle",
                   "coords": [
                         49.818651,
@@ -1603,7 +1792,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "Fort Dhowre Ali Sheneeleh is a historical castle located in Eyl.",
+                  "text": "Fort built in 1917 in Eyl, Somalia.",
                   "category": "castle",
                   "coords": [
                         49.818651,
@@ -1701,7 +1890,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Silsilat",
-                  "text": "Silsilat ist eine Burg in Taleex.",
+                  "text": "Silsilat ist eine Kette von Festungen in Taleh, die Teil der Derwisch-Befestigungsanlagen sind.",
                   "category": "castle",
                   "coords": [
                         48.420347,
@@ -1710,7 +1899,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Ilalo",
-                  "text": "Dar Ilalo ist eine Burg in Taleex.",
+                  "text": "Dar Ilalo ist eine Burg auf einem Hügel in Taleh, die als Aussichtspunkt diente.",
                   "category": "castle",
                   "coords": [
                         48.421048,
@@ -1719,7 +1908,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Falat",
-                  "text": "Falat ist eine Burg in der Stadt Taleex.",
+                  "text": "Falat ist eine Steinburg in Taleh mit dicken Mauern und einem zentralen Turm.",
                   "category": "castle",
                   "coords": [
                         48.41856,
@@ -1730,7 +1919,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Silsilat",
-                  "text": "Silsilat egy vár Taleex városában.",
+                  "text": "A Silsilat erődök lánca Talehben, a dervis erődítményrendszer része.",
                   "category": "castle",
                   "coords": [
                         48.420347,
@@ -1739,7 +1928,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Ilalo",
-                  "text": "Dar Ilalo egy vár Taleex városában.",
+                  "text": "A Dar Ilalo egy dombtetőn álló vár Talehben, amely kilátópontként szolgált.",
                   "category": "castle",
                   "coords": [
                         48.421048,
@@ -1748,7 +1937,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Falat",
-                  "text": "Falat egy vár Taleex városában.",
+                  "text": "A Falat egy kővár Talehben, vastag falakkal és központi toronnyal.",
                   "category": "castle",
                   "coords": [
                         48.41856,
@@ -1759,7 +1948,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Silsilat",
-                  "text": "Silsilat este un castel situat în Taleex.",
+                  "text": "Silsilat este un lanț de fortărețe în Taleh, parte a sistemului de fortificații dervișe.",
                   "category": "castle",
                   "coords": [
                         48.420347,
@@ -1768,7 +1957,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Ilalo",
-                  "text": "Dar Ilalo este un castel situat în Taleex.",
+                  "text": "Dar Ilalo este un castel pe un deal în Taleh, folosit ca punct de observație.",
                   "category": "castle",
                   "coords": [
                         48.421048,
@@ -1777,7 +1966,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Falat",
-                  "text": "Falat este un castel situat în orașul Taleex.",
+                  "text": "Falat este un castel de piatră în Taleh, cu ziduri groase și un turn central.",
                   "category": "castle",
                   "coords": [
                         48.41856,
@@ -1788,7 +1977,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Silsilat",
-                  "text": "Silsilat is a castle structure located in Taleex.",
+                  "text": "Silsilat is a chain of fortresses in Taleh, part of the Dervish fortification network.",
                   "category": "castle",
                   "coords": [
                         48.420347,
@@ -1797,7 +1986,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Ilalo",
-                  "text": "Dar Ilalo is a castle situated in Taleex.",
+                  "text": "Dar Ilalo is a hilltop castle in Taleh, used as a lookout point.",
                   "category": "castle",
                   "coords": [
                         48.421048,
@@ -1806,7 +1995,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
             },
             {
                   "name": "Falat",
-                  "text": "Falat is a castle located in the city of Taleex.",
+                  "text": "Falat is a stone castle in Taleh with thick walls and a central tower.",
                   "category": "castle",
                   "coords": [
                         48.41856,
@@ -2291,7 +2480,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Alula Lighthouse",
-                  "text": "منارة علولة ist ein Leuchtturm in Caluula.",
+                  "text": "Alula Lighthouse ist ein Leuchtturm an der Küste von Alula, der Schiffe am Golf von Aden lotst.",
                   "category": "landmark",
                   "coords": [
                         50.753874,
@@ -2302,7 +2491,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Alula Lighthouse",
-                  "text": "A منارة علولة egy világítótorony Caluula városában.",
+                  "text": "Az Alula világítótorony Alula partján áll, hajókat vezetve az Ádeni-öbölben.",
                   "category": "landmark",
                   "coords": [
                         50.753874,
@@ -2313,7 +2502,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Alula Lighthouse",
-                  "text": "منارة علولة este un far situat în Caluula.",
+                  "text": "Farul Alula este un far pe coasta Alulei, ghidând navele în Golful Aden.",
                   "category": "landmark",
                   "coords": [
                         50.753874,
@@ -2324,7 +2513,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Alula Lighthouse",
-                  "text": "منارة علولة is a lighthouse located in Caluula.",
+                  "text": "Alula Lighthouse is a lighthouse on the coast of Alula, guiding ships in the Gulf of Aden.",
                   "category": "landmark",
                   "coords": [
                         50.753874,

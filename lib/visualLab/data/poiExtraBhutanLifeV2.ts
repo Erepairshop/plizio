@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraBhutanLifeV2: POI[] = [
     {
-    id: "motithang-takin-preserve-life-v2",
+    id: "motithang-takin-preserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Motithang Takin Preserve",
+                  "text": "Dieses einzigartige Wildreservat widmet sich dem Takin, dem Nationaltier Bhutans, und ermöglicht es Besuchern, sie in einem bewaldeten Lebensraum zu sehen.",
+                  "category": "recreational",
+                  "coords": [
+                        89.611899,
+                        27.481731
+                  ]
+            },
+            {
+                  "name": "Chhokhortse Goenpa",
+                  "text": "Eine ruhige buddhistische Goenpa in den bewaldeten Hängen, die einen friedlichen Raum für Meditation oberhalb des Reservats bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.613368,
+                        27.489638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Motithang Takin Preserve",
+                  "text": "Ez az egyedülálló vadvédelmi terület a takinnak, Bhután nemzeti állatának van szentelve, lehetővé téve a látogatók számára, hogy erdős élőhelyükön lássák őket.",
+                  "category": "recreational",
+                  "coords": [
+                        89.611899,
+                        27.481731
+                  ]
+            },
+            {
+                  "name": "Chhokhortse Goenpa",
+                  "text": "Csendes buddhista goenpa az erdős hegyoldalakon, amely békés teret kínál a meditációhoz a rezervátum felett.",
+                  "category": "landmark",
+                  "coords": [
+                        89.613368,
+                        27.489638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Motithang Takin Preserve",
+                  "text": "Această rezervație naturală unică este dedicată takin-ului, animalul național al Bhutanului, permițând vizitatorilor să-i vadă într-un habitat împădurit.",
+                  "category": "recreational",
+                  "coords": [
+                        89.611899,
+                        27.481731
+                  ]
+            },
+            {
+                  "name": "Chhokhortse Goenpa",
+                  "text": "O goenpa budistă liniștită, ascunsă pe dealurile împădurite, oferind un spațiu pașnic pentru meditație deasupra rezervației.",
+                  "category": "landmark",
+                  "coords": [
+                        89.613368,
+                        27.489638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Motithang Takin Preserve",
+                  "text": "This unique wildlife reserve is dedicated to the takin, the national animal of Bhutan, allowing visitors to see them in a forested habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        89.611899,
+                        27.481731
+                  ]
+            },
+            {
+                  "name": "Chhokhortse Goenpa",
+                  "text": "A quiet Buddhist goenpa nestled in the forested hillsides, offering a tranquil space for meditation above the preserve.",
+                  "category": "landmark",
+                  "coords": [
+                        89.613368,
+                        27.489638
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BT-11",
     coords: [89.6158, 27.4811],
@@ -93,7 +174,124 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "torsa-strict-nature-reserve-life-v2",
+    id: "torsa-strict-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ketachen",
+                  "text": "Ketachen ist ein abgelegenes buddhistisches Heiligtum im rauen Gelände des Torsa Strict Nature Reserve, das tiefe Abgeschiedenheit für die Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.101569,
+                        27.171708
+                  ]
+            },
+            {
+                  "name": "Tergigoenpa",
+                  "text": "Tergigoenpa ist ein abgelegenes, hochgelegenes buddhistisches Kloster, das sich nahtlos in die bewaldeten Berghänge des Naturschutzgebietes einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.10923,
+                        27.172079
+                  ]
+            },
+            {
+                  "name": "Ana Goenpa",
+                  "text": "Ana Goenpa ist eine abgelegene bhutanische religiöse Stätte, die von unberührter Wildnis umgeben ist und als friedliche spirituelle Enklave für asketische Rückzüge dient.",
+                  "category": "religious",
+                  "coords": [
+                        89.153023,
+                        27.169326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ketachen",
+                  "text": "A Ketachen egy távoli buddhista szentély a Torsa Szigorú Természetvédelmi Terület zord terepén, amely mély elszigeteltséget kínál a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        89.101569,
+                        27.171708
+                  ]
+            },
+            {
+                  "name": "Tergigoenpa",
+                  "text": "A Tergigoenpa egy elszigetelt, nagy magasságban fekvő buddhista kolostor, amely zökkenőmentesen beleolvad a természetvédelmi terület erdős hegyoldalaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        89.10923,
+                        27.172079
+                  ]
+            },
+            {
+                  "name": "Ana Goenpa",
+                  "text": "Az Ana Goenpa egy félreeső bhutáni vallási hely, amelyet érintetlen vadon vesz körül, és békés spirituális enklávéként szolgál az aszketikus elvonuláshoz.",
+                  "category": "religious",
+                  "coords": [
+                        89.153023,
+                        27.169326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ketachen",
+                  "text": "Ketachen este un sanctuar budist izolat situat pe terenul accidentat al Rezervației Naturale Stricte Torsa, oferind o izolare profundă pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        89.101569,
+                        27.171708
+                  ]
+            },
+            {
+                  "name": "Tergigoenpa",
+                  "text": "Tergigoenpa este o mănăstire budistă izolată la mare altitudine, care se integrează perfect în versanții împădurite ai rezervației naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        89.10923,
+                        27.172079
+                  ]
+            },
+            {
+                  "name": "Ana Goenpa",
+                  "text": "Ana Goenpa este un sit religios izolat din Bhutan, înconjurat de o sălbăticie curată, servind ca o enclavă spirituală pașnică pentru retragere ascetică.",
+                  "category": "religious",
+                  "coords": [
+                        89.153023,
+                        27.169326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ketachen",
+                  "text": "Ketachen is a remote Buddhist sanctuary set within the rugged terrain of the Torsa Strict Nature Reserve, offering profound seclusion for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        89.101569,
+                        27.171708
+                  ]
+            },
+            {
+                  "name": "Tergigoenpa",
+                  "text": "Tergigoenpa is an isolated high-altitude Buddhist monastery that blends seamlessly into the forested mountain slopes of the nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        89.10923,
+                        27.172079
+                  ]
+            },
+            {
+                  "name": "Ana Goenpa",
+                  "text": "Ana Goenpa is a secluded Bhutanese religious site surrounded by pristine wilderness, serving as a peaceful spiritual enclave for ascetic retreat.",
+                  "category": "religious",
+                  "coords": [
+                        89.153023,
+                        27.169326
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BT-13",
     coords: [89.1500, 27.2500],
@@ -183,7 +381,52 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "coronation-park-thimphu-life-v2",
+    id: "coronation-park-thimphu-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tandin Nye",
+                  "text": "Ein traditioneller bhutanischer Schrein in der Nähe des Coronation Parks in Thimphu.",
+                  "category": "religious",
+                  "coords": [
+                        89.654441,
+                        27.465855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tandin Nye",
+                  "text": "Egy hagyományos bhutáni szentély a thimphui Coronation Park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        89.654441,
+                        27.465855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tandin Nye",
+                  "text": "Un altar tradițional bhutanez situat în apropiere de Parcul Coronation din Thimphu.",
+                  "category": "religious",
+                  "coords": [
+                        89.654441,
+                        27.465855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tandin Nye",
+                  "text": "A traditional Bhutanese shrine located near Coronation Park in Thimphu.",
+                  "category": "religious",
+                  "coords": [
+                        89.654441,
+                        27.465855
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BT-11",
     coords: [89.6433, 27.4689],
@@ -228,7 +471,196 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "paro-rice-terraces-life-v2",
+    id: "paro-rice-terraces-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "Ein Kunstzentrum in Paro, das sich auf spirituelle Himalaya-Kunst und feine bhutanische Handwerkskunst spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "Ein weißer Stein-Stupa, der markant inmitten der terrassierten Reisfelder des fruchtbaren Paro-Tals steht.",
+                  "category": "landmark",
+                  "coords": [
+                        89.417099,
+                        27.428073
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "Ein traditioneller bhutanischer Lhakhang, der inmitten der malerischen Reisterrassen des Paro-Tals liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.41786,
+                        27.42708
+                  ]
+            },
+            {
+                  "name": "Sabzi Bazar",
+                  "text": "Ein lebhafter lokaler Markt in Paro, auf dem Bauern frisches Gemüse und regionale Spezialitäten verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415539,
+                        27.428558
+                  ]
+            },
+            {
+                  "name": "GemTshering Hot Stone Bath",
+                  "text": "Ein traditionelles Badehaus, in dem Flusssteine über dem Feuer erhitzt werden, um Heilmineralien in das Wasser abzugeben.",
+                  "category": "recreational",
+                  "coords": [
+                        89.42013,
+                        27.464988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "Parói művészeti központ, amely a spirituális himalájai művészetre és a finom bhutáni kézművességre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "Fehér kősztúpa, amely jellegzetesen emelkedik ki a termékeny Paro-völgy teraszos rizsföldjei közül.",
+                  "category": "landmark",
+                  "coords": [
+                        89.417099,
+                        27.428073
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "Hagyományos bhutáni buddhista templom Paro festői rízsteraszai mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        89.41786,
+                        27.42708
+                  ]
+            },
+            {
+                  "name": "Sabzi Bazar",
+                  "text": "Paro nyüzsgő helyi piaca, ahol a gazdák friss zöldségeket és helyi specialitásokat árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415539,
+                        27.428558
+                  ]
+            },
+            {
+                  "name": "GemTshering Hot Stone Bath",
+                  "text": "Hagyományos fürdőház, ahol tűzön hevített folyami kövekkel gazdagítják a gyógyhatású vizet ásványi anyagokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        89.42013,
+                        27.464988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "Un centru de artă din Paro specializat în artă spirituală din Himalaya și artizanat bhutanez rafinat.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "O stupă din piatră albă care se ridică distinctiv în mijlocul teraselor de orez din valea fertilă Paro.",
+                  "category": "landmark",
+                  "coords": [
+                        89.417099,
+                        27.428073
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "Un templu budist bhutanez tradițional, situat în mijlocul teraselor pitorești de orez din Paro.",
+                  "category": "landmark",
+                  "coords": [
+                        89.41786,
+                        27.42708
+                  ]
+            },
+            {
+                  "name": "Sabzi Bazar",
+                  "text": "O piață locală vibrantă în Paro, unde fermierii vând legume proaspete și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415539,
+                        27.428558
+                  ]
+            },
+            {
+                  "name": "GemTshering Hot Stone Bath",
+                  "text": "O casă de baie tradițională unde pietrele de râu sunt încălzite la foc pentru a elibera minerale în apa terapeutică.",
+                  "category": "recreational",
+                  "coords": [
+                        89.42013,
+                        27.464988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "An arts centre in Paro specializing in spiritual Himalayan art and fine Bhutanese craftsmanship.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "A white stone stupa standing distinctively amidst the terraced rice fields of the fertile Paro valley.",
+                  "category": "landmark",
+                  "coords": [
+                        89.417099,
+                        27.428073
+                  ]
+            },
+            {
+                  "name": "ལྷ་ཁང",
+                  "text": "A traditional Bhutanese Buddhist temple situated amidst the scenic rice terraces of the Paro Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        89.41786,
+                        27.42708
+                  ]
+            },
+            {
+                  "name": "Sabzi Bazar",
+                  "text": "A vibrant local market in Paro where farmers sell fresh vegetables and local Bhutanese specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415539,
+                        27.428558
+                  ]
+            },
+            {
+                  "name": "GemTshering Hot Stone Bath",
+                  "text": "A traditional bathhouse using river stones heated by fire to release minerals into medicinal water.",
+                  "category": "recreational",
+                  "coords": [
+                        89.42013,
+                        27.464988
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-15",
     coords: [89.4147, 27.4294],
@@ -273,7 +705,484 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "samcholing-tea-estate-life-v2",
+    id: "samcholing-tea-estate-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beyling Nagtshang",
+                  "text": "Eine historische Festungsanlage im Trongsa-Distrikt, die ein Beispiel für traditionelle bhutanische Wehrarchitektur ist.",
+                  "category": "fortress",
+                  "coords": [
+                        90.564509,
+                        27.357089
+                  ]
+            },
+            {
+                  "name": "Yuendrocholing Dzong",
+                  "text": "Ein ehemaliger königlicher Wintersitz im Trongsa-Tal, der heute als buddhistisches Kloster dient.",
+                  "category": "religious",
+                  "coords": [
+                        90.561156,
+                        27.365317
+                  ]
+            },
+            {
+                  "name": "Kuenga Rabten Palace",
+                  "text": "Der ehemalige Winterpalast des zweiten Königs von Bhutan, bekannt für seine kunstvollen Holzschnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517858,
+                        27.410807
+                  ]
+            },
+            {
+                  "name": "Tashiling Goenpa",
+                  "text": "Ein ruhig gelegenes buddhistisches Kloster in den Hügeln über dem Samcholing-Teeanwesen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.572826,
+                        27.361635
+                  ]
+            },
+            {
+                  "name": "Namther Lhakhang",
+                  "text": "Ein lokaler buddhistischer Tempel, der das spirituelle Zentrum für die Dorfgemeigung von Namther bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.57513,
+                        27.354893
+                  ]
+            },
+            {
+                  "name": "Beyling Lhakhang",
+                  "text": "Ein traditioneller Lhakhang im Beyling-Viertel, der für lokale religiöse Zeremonien genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        90.569207,
+                        27.360987
+                  ]
+            },
+            {
+                  "name": "Wengkhang Lhakhang",
+                  "text": "Ein kleiner buddhistischer Schrein im ländlichen Trongsa-Distrikt, der typische regionale Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.583812,
+                        27.337741
+                  ]
+            },
+            {
+                  "name": "Dangdung Lhakhang",
+                  "text": "Ein buddhistischer Dorftempel in Dangdung, der für seine spirituelle Bedeutung im Trongsa-Tal bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.592873,
+                        27.341014
+                  ]
+            },
+            {
+                  "name": "Changrey Chorten",
+                  "text": "Ein buddhistisches Reliquienschrein-Denkmal in Stupa-Form in der Nähe der Siedlung Changrey.",
+                  "category": "landmark",
+                  "coords": [
+                        90.589303,
+                        27.341599
+                  ]
+            },
+            {
+                  "name": "Pepchu Goenpa",
+                  "text": "Ein abgeschiedenes buddhistisches Kloster, das sich auf einem bewaldeten Bergrücken im Trongsa-Distrikt befindet.",
+                  "category": "religious",
+                  "coords": [
+                        90.519952,
+                        27.411779
+                  ]
+            },
+            {
+                  "name": "SAmcholing Palace",
+                  "text": "Ein historisches Anwesen in der Nähe der einzigen Teeplantage Bhutans in Samcholing.",
+                  "category": "landmark",
+                  "coords": [
+                        90.534553,
+                        27.395786
+                  ]
+            },
+            {
+                  "name": "Sershong Laptsa Crematorium",
+                  "text": "Eine traditionelle buddhistische Stätte für Bestattungsrituale am Sershong-Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        90.554702,
+                        27.371317
+                  ]
+            },
+            {
+                  "name": "Dechen Zangmo Tshongkhang",
+                  "text": "Ein lokaler Marktplatz im ländlichen Bhutan, der als Handelszentrum für die Bauern der Region dient.",
+                  "category": "cultural",
+                  "coords": [
+                        90.516204,
+                        27.412132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beyling Nagtshang",
+                  "text": "Történelmi erődítmény Trongsa körzetében, amely a hagyományos bhutáni védelmi építészet példája.",
+                  "category": "fortress",
+                  "coords": [
+                        90.564509,
+                        27.357089
+                  ]
+            },
+            {
+                  "name": "Yuendrocholing Dzong",
+                  "text": "Egykori királyi téli rezidencia a Trongsa-völgyben, amely ma buddhista kolostorként működik.",
+                  "category": "religious",
+                  "coords": [
+                        90.561156,
+                        27.365317
+                  ]
+            },
+            {
+                  "name": "Kuenga Rabten Palace",
+                  "text": "Bhután második királyának egykori téli palotája, amely művészi fafaragványairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517858,
+                        27.410807
+                  ]
+            },
+            {
+                  "name": "Tashiling Goenpa",
+                  "text": "Csendes buddhista kolostor a dombok között, a Samcholing teaültetvény felett.",
+                  "category": "landmark",
+                  "coords": [
+                        90.572826,
+                        27.361635
+                  ]
+            },
+            {
+                  "name": "Namther Lhakhang",
+                  "text": "Helyi buddhista templom, amely Namther faluközösségének spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.57513,
+                        27.354893
+                  ]
+            },
+            {
+                  "name": "Beyling Lhakhang",
+                  "text": "Hagyományos lhakhang Beyling negyedében, amelyet helyi vallási szertartásokhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.569207,
+                        27.360987
+                  ]
+            },
+            {
+                  "name": "Wengkhang Lhakhang",
+                  "text": "Kicsi buddhista szentély Trongsa vidéki körzetében, amely a tipikus regionális építészetet mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        90.583812,
+                        27.337741
+                  ]
+            },
+            {
+                  "name": "Dangdung Lhakhang",
+                  "text": "Buddhista falusi templom Dangdungban, amely a Trongsa-völgyben betöltött spirituális jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.592873,
+                        27.341014
+                  ]
+            },
+            {
+                  "name": "Changrey Chorten",
+                  "text": "Buddhista ereklyetartó emlékmű sztúpa formájában Changrey település közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.589303,
+                        27.341599
+                  ]
+            },
+            {
+                  "name": "Pepchu Goenpa",
+                  "text": "Elszigetelt buddhista kolostor egy erdős hegygerincen Trongsa körzetében.",
+                  "category": "religious",
+                  "coords": [
+                        90.519952,
+                        27.411779
+                  ]
+            },
+            {
+                  "name": "SAmcholing Palace",
+                  "text": "Történelmi birtok Bhután egyetlen teaültetvényének közelében, Samcholingban.",
+                  "category": "landmark",
+                  "coords": [
+                        90.534553,
+                        27.395786
+                  ]
+            },
+            {
+                  "name": "Sershong Laptsa Crematorium",
+                  "text": "Hagyományos buddhista helyszín temetési rituálékhoz a Sershong-hágónál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.554702,
+                        27.371317
+                  ]
+            },
+            {
+                  "name": "Dechen Zangmo Tshongkhang",
+                  "text": "Helyi piactér vidéki Bhutánban, amely a régió gazdáinak kereskedelmi központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        90.516204,
+                        27.412132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beyling Nagtshang",
+                  "text": "O fortăreață istorică în districtul Trongsa, reprezentativă pentru arhitectura defensivă tradițională din Bhutan.",
+                  "category": "fortress",
+                  "coords": [
+                        90.564509,
+                        27.357089
+                  ]
+            },
+            {
+                  "name": "Yuendrocholing Dzong",
+                  "text": "O fostă reședință regală de iarnă în valea Trongsa, care astăzi servește drept mănăstire budistă.",
+                  "category": "religious",
+                  "coords": [
+                        90.561156,
+                        27.365317
+                  ]
+            },
+            {
+                  "name": "Kuenga Rabten Palace",
+                  "text": "Fostul palat de iarnă al celui de-al doilea rege al Bhutanului, cunoscut pentru sculpturile sale artistice în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517858,
+                        27.410807
+                  ]
+            },
+            {
+                  "name": "Tashiling Goenpa",
+                  "text": "O mănăstire budistă liniștită situată pe dealurile de deasupra plantației de ceai Samcholing.",
+                  "category": "landmark",
+                  "coords": [
+                        90.572826,
+                        27.361635
+                  ]
+            },
+            {
+                  "name": "Namther Lhakhang",
+                  "text": "Un templu budist local care formează centrul spiritual pentru comunitatea din satul Namther.",
+                  "category": "landmark",
+                  "coords": [
+                        90.57513,
+                        27.354893
+                  ]
+            },
+            {
+                  "name": "Beyling Lhakhang",
+                  "text": "Un Lhakhang tradițional în cartierul Beyling, utilizat pentru ceremonii religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        90.569207,
+                        27.360987
+                  ]
+            },
+            {
+                  "name": "Wengkhang Lhakhang",
+                  "text": "Un mic altar budist în districtul rural Trongsa, care prezintă arhitectura regională tipică.",
+                  "category": "landmark",
+                  "coords": [
+                        90.583812,
+                        27.337741
+                  ]
+            },
+            {
+                  "name": "Dangdung Lhakhang",
+                  "text": "Un templu budist sătesc în Dangdung, cunoscut pentru importanța sa spirituală în valea Trongsa.",
+                  "category": "landmark",
+                  "coords": [
+                        90.592873,
+                        27.341014
+                  ]
+            },
+            {
+                  "name": "Changrey Chorten",
+                  "text": "Un monument budist de tip stupa, adăpostind relicve, situat în apropierea localității Changrey.",
+                  "category": "landmark",
+                  "coords": [
+                        90.589303,
+                        27.341599
+                  ]
+            },
+            {
+                  "name": "Pepchu Goenpa",
+                  "text": "O mănăstire budistă izolată situată pe o creastă muntoasă împădurită din districtul Trongsa.",
+                  "category": "religious",
+                  "coords": [
+                        90.519952,
+                        27.411779
+                  ]
+            },
+            {
+                  "name": "SAmcholing Palace",
+                  "text": "O proprietate istorică situată lângă singura plantație de ceai din Bhutan, la Samcholing.",
+                  "category": "landmark",
+                  "coords": [
+                        90.534553,
+                        27.395786
+                  ]
+            },
+            {
+                  "name": "Sershong Laptsa Crematorium",
+                  "text": "Un sit budist tradițional pentru ritualuri funerare la pasul Sershong.",
+                  "category": "landmark",
+                  "coords": [
+                        90.554702,
+                        27.371317
+                  ]
+            },
+            {
+                  "name": "Dechen Zangmo Tshongkhang",
+                  "text": "O piață locală în zona rurală a Bhutanului, care servește drept centru comercial pentru fermierii din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        90.516204,
+                        27.412132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beyling Nagtshang",
+                  "text": "A historical fort in the Trongsa district, showcasing traditional Bhutanese defensive architecture.",
+                  "category": "fortress",
+                  "coords": [
+                        90.564509,
+                        27.357089
+                  ]
+            },
+            {
+                  "name": "Yuendrocholing Dzong",
+                  "text": "A former royal winter residence in the Trongsa valley, now serving as a Buddhist monastery.",
+                  "category": "religious",
+                  "coords": [
+                        90.561156,
+                        27.365317
+                  ]
+            },
+            {
+                  "name": "Kuenga Rabten Palace",
+                  "text": "The former winter palace of the second King of Bhutan, known for its intricate traditional woodwork.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517858,
+                        27.410807
+                  ]
+            },
+            {
+                  "name": "Tashiling Goenpa",
+                  "text": "A serene Buddhist monastery nestled in the hills above the Samcholing tea estate.",
+                  "category": "landmark",
+                  "coords": [
+                        90.572826,
+                        27.361635
+                  ]
+            },
+            {
+                  "name": "Namther Lhakhang",
+                  "text": "A local Buddhist temple that serves as the spiritual center for the Namther village community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.57513,
+                        27.354893
+                  ]
+            },
+            {
+                  "name": "Beyling Lhakhang",
+                  "text": "A traditional Lhakhang in the Beyling area, used for local religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        90.569207,
+                        27.360987
+                  ]
+            },
+            {
+                  "name": "Wengkhang Lhakhang",
+                  "text": "A small Buddhist shrine in the rural Trongsa district, displaying typical regional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        90.583812,
+                        27.337741
+                  ]
+            },
+            {
+                  "name": "Dangdung Lhakhang",
+                  "text": "A Buddhist village temple in Dangdung, known for its spiritual significance in the Trongsa valley.",
+                  "category": "landmark",
+                  "coords": [
+                        90.592873,
+                        27.341014
+                  ]
+            },
+            {
+                  "name": "Changrey Chorten",
+                  "text": "A Buddhist reliquary monument in the form of a stupa near the Changrey settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        90.589303,
+                        27.341599
+                  ]
+            },
+            {
+                  "name": "Pepchu Goenpa",
+                  "text": "A secluded Buddhist monastery situated on a forested ridge in the Trongsa district.",
+                  "category": "religious",
+                  "coords": [
+                        90.519952,
+                        27.411779
+                  ]
+            },
+            {
+                  "name": "SAmcholing Palace",
+                  "text": "A historical estate located near Bhutan's only tea plantation in Samcholing.",
+                  "category": "landmark",
+                  "coords": [
+                        90.534553,
+                        27.395786
+                  ]
+            },
+            {
+                  "name": "Sershong Laptsa Crematorium",
+                  "text": "A traditional Buddhist site for funeral rituals at the Sershong pass.",
+                  "category": "landmark",
+                  "coords": [
+                        90.554702,
+                        27.371317
+                  ]
+            },
+            {
+                  "name": "Dechen Zangmo Tshongkhang",
+                  "text": "A local marketplace in rural Bhutan, serving as a trade hub for regional farmers.",
+                  "category": "cultural",
+                  "coords": [
+                        90.516204,
+                        27.412132
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-32",
     coords: [90.5106, 27.3917],
@@ -318,7 +1227,196 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "kuensel-phodrang-nature-park-life-v2",
+    id: "kuensel-phodrang-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuenselphodrang Viewpoint",
+                  "text": "Ein Aussichtspunkt in der Nähe der riesigen Buddha-Statue mit weitem Blick über die Hauptstadt.",
+                  "category": "natural",
+                  "coords": [
+                        89.642223,
+                        27.44848
+                  ]
+            },
+            {
+                  "name": "Buddha Dordenma",
+                  "text": "Eine 51 Meter hohe vergoldete Bronzestatue über Thimphu, die 2015 fertiggestellt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645381,
+                        27.443578
+                  ]
+            },
+            {
+                  "name": "Tshew Goenpa",
+                  "text": "Ein kleines buddhistisches Kloster auf einem Hügel im Kuenselphodrang-Naturpark.",
+                  "category": "landmark",
+                  "coords": [
+                        89.611107,
+                        27.408291
+                  ]
+            },
+            {
+                  "name": "Sangay Menlha",
+                  "text": "Diese buddhistische Stätte auf einem bewaldeten Bergrücken ist dem Medizin-Buddha gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.625892,
+                        27.420071
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "Ein farbenfroher Hindu-Tempel, der den spirituellen Bedürfnissen der lokalen Hindu-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645126,
+                        27.453893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuenselphodrang Viewpoint",
+                  "text": "Kilátópont az óriás Buddha-szobor közelében, ahonnan elsöprő kilátás nyílik a fővárosra.",
+                  "category": "natural",
+                  "coords": [
+                        89.642223,
+                        27.44848
+                  ]
+            },
+            {
+                  "name": "Buddha Dordenma",
+                  "text": "Egy 51 méter magas, aranyozott bronzszobor Thimphu felett, amely 2015-ben készült el.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645381,
+                        27.443578
+                  ]
+            },
+            {
+                  "name": "Tshew Goenpa",
+                  "text": "Kis buddhista kolostor egy dombon, a Kuenselphodrang Natúrpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        89.611107,
+                        27.408291
+                  ]
+            },
+            {
+                  "name": "Sangay Menlha",
+                  "text": "Ez az erdős gerincen fekvő buddhista kegyhely a Gyógyító Buddhának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        89.625892,
+                        27.420071
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "Színes hindu templom, amely a helyi hindu közösség spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645126,
+                        27.453893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuenselphodrang Viewpoint",
+                  "text": "Un punct de observație situat lângă statuia uriașă a lui Buddha, care oferă vederi panoramice asupra capitalelor.",
+                  "category": "natural",
+                  "coords": [
+                        89.642223,
+                        27.44848
+                  ]
+            },
+            {
+                  "name": "Buddha Dordenma",
+                  "text": "O statuie din bronz aurit de 51 de metri care domină Thimphu, finalizată în 2015.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645381,
+                        27.443578
+                  ]
+            },
+            {
+                  "name": "Tshew Goenpa",
+                  "text": "O mică mănăstire budistă situată pe un deal în Parcul Natural Kuenselphodrang.",
+                  "category": "landmark",
+                  "coords": [
+                        89.611107,
+                        27.408291
+                  ]
+            },
+            {
+                  "name": "Sangay Menlha",
+                  "text": "Acest sit budist de pe o creastă împădurită este dedicat lui Buddha al Medicinei.",
+                  "category": "landmark",
+                  "coords": [
+                        89.625892,
+                        27.420071
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "Un templu hindu colorat care deservește nevoile spirituale ale comunității hindu locale.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645126,
+                        27.453893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuenselphodrang Viewpoint",
+                  "text": "A vantage point near the giant Buddha statue offering sweeping views of the capital.",
+                  "category": "natural",
+                  "coords": [
+                        89.642223,
+                        27.44848
+                  ]
+            },
+            {
+                  "name": "Buddha Dordenma",
+                  "text": "A 51-meter gilded bronze statue overlooking Thimphu, completed in 2015.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645381,
+                        27.443578
+                  ]
+            },
+            {
+                  "name": "Tshew Goenpa",
+                  "text": "A small Buddhist monastery situated on a hill within the Kuenselphodrang Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        89.611107,
+                        27.408291
+                  ]
+            },
+            {
+                  "name": "Sangay Menlha",
+                  "text": "This Buddhist site on a forested ridge is dedicated to the Medicine Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        89.625892,
+                        27.420071
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "A colorful Hindu temple serving the spiritual needs of the local Hindu community.",
+                  "category": "landmark",
+                  "coords": [
+                        89.645126,
+                        27.453893
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BT-11",
     coords: [89.6444, 27.4428],
@@ -363,7 +1461,52 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "ludrong-memorial-garden-life-v2",
+    id: "ludrong-memorial-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "RAPA",
+                  "text": "Diese Akademie bewahrt bhutanische Traditionen durch die Ausbildung in rituellen Maskentänzen und klassischer Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638009,
+                        27.48078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RAPA",
+                  "text": "Ez az akadémia a rituális maszkos táncok és a klasszikus zene oktatásával őrzi a bhutáni hagyományokat.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638009,
+                        27.48078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RAPA",
+                  "text": "Această academie păstrează tradițiile bhutaneze prin instruire în dansuri rituale cu mască și muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638009,
+                        27.48078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Academy of Performing Arts",
+                  "text": "This academy preserves Bhutanese traditions through training in ritual mask dances and classical music.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638009,
+                        27.48078
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BT-11",
     coords: [89.6389, 27.4850],
@@ -408,7 +1551,124 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "zangtopelri-park-life-v2",
+    id: "zangtopelri-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bhutan Gate",
+                  "text": "Das Bhutan Gate, das als großer Eingang zur Zangtopelri-Gegend fungiert, ist ein prächtiges Monument mit klassischer bhutanischer Holzarbeit und gemalten Drachen.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            },
+            {
+                  "name": "Zangdopelri",
+                  "text": "Zangdopelri ist ein markanter buddhistischer Tempel in der Gegend, der die himmlische Wohnstätte von Guru Rinpoche durch kunstvolle Statuen und Wandmalereien darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.382586,
+                        26.861808
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "Dieser lokale Gurudwara in der Nähe von Zangtopelri bietet einen friedlichen Raum für die Sikh-Gemeinde und verfügt über eine traditionelle Langar-Halle für gemeinsame Mahlzeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        89.376062,
+                        26.861497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bhutan Gate",
+                  "text": "A Zangtopelri terület főbejárataként funkcionáló Bhután-kapu egy csodálatos műemlék, amely klasszikus bhutáni famunkákat és festett sárkányokat vonultat fel.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            },
+            {
+                  "name": "Zangdopelri",
+                  "text": "A Zangdopelri egy feltűnő buddhista templom a környéken, amely bonyolult szobrokkal és falfestményekkel ábrázolja Guru Rinpoche mennyei lakhelyét.",
+                  "category": "landmark",
+                  "coords": [
+                        89.382586,
+                        26.861808
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "Ez a Zangtopelri közelében található helyi gurudwara békés teret kínál a szikh közösség számára, és egy hagyományos Langar teremmel rendelkezik a közös étkezésekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        89.376062,
+                        26.861497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bhutan Gate",
+                  "text": "Acționând ca o intrare măreață în zona Zangtopelri, Poarta Bhutanului este un monument magnific, care prezintă lucrări din lemn clasice din Bhutan și dragoni pictați.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            },
+            {
+                  "name": "Zangdopelri",
+                  "text": "Zangdopelri este un templu budist izbitor din zonă, care descrie lăcașul ceresc al lui Guru Rinpoche prin statui și picturi murale complicate.",
+                  "category": "landmark",
+                  "coords": [
+                        89.382586,
+                        26.861808
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "Această Gurudwara locală de lângă Zangtopelri oferă un spațiu liniștit pentru comunitatea Sikh, având o sală Langar tradițională pentru mese comunale.",
+                  "category": "landmark",
+                  "coords": [
+                        89.376062,
+                        26.861497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bhutan Gate",
+                  "text": "Acting as a grand entrance to the Zangtopelri area, the Bhutan Gate is a magnificent monument featuring classic Bhutanese woodwork and painted dragons.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            },
+            {
+                  "name": "Zangdopelri",
+                  "text": "Zangdopelri is a striking Buddhist temple in the area, depicting the celestial abode of Guru Rinpoche through intricate statues and murals.",
+                  "category": "landmark",
+                  "coords": [
+                        89.382586,
+                        26.861808
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "This local Gurudwara near Zangtopelri offers a peaceful space for the Sikh community, featuring a traditional Langar hall for communal meals.",
+                  "category": "landmark",
+                  "coords": [
+                        89.376062,
+                        26.861497
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BT-12",
     coords: [89.3833, 26.8611],
@@ -543,7 +1803,196 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "national-seed-centre-paro-life-v2",
+    id: "national-seed-centre-paro-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bhutan art gallery",
+                  "text": "Diese Galerie in Paro stellt zeitgenössische bhutanische Gemälde und traditionelle Skulpturen lokaler Künstler aus.",
+                  "category": "museum",
+                  "coords": [
+                        89.421021,
+                        27.405214
+                  ]
+            },
+            {
+                  "name": "Tamchog Lhakang",
+                  "text": "Ein privater Tempel, der für seine historische Eisenkettenbrücke bekannt ist, die über den Pa-Chhu-Fluss führt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.504207,
+                        27.331025
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "Ein bescheidener buddhistischer Tempel, der als religiöses Zentrum für die Bewohner der umliegenden Dörfer dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.48598,
+                        27.328993
+                  ]
+            },
+            {
+                  "name": "Bondey Lhakhang",
+                  "text": "Dieser alte Tempel im Dorf Bondey ist für seine gut erhaltenen, traditionellen Wandgemälde und Statuen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.43024,
+                        27.387997
+                  ]
+            },
+            {
+                  "name": "Canteen",
+                  "text": "Ein einfacher lokaler Speisesaal, in dem traditionelle Gerichte wie Ema Datshi für Arbeiter und Besucher serviert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        89.450154,
+                        27.385189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bhutan art gallery",
+                  "text": "Ez a parói galéria kortárs bhutáni festményeket és helyi művészek hagyományos szobrait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        89.421021,
+                        27.405214
+                  ]
+            },
+            {
+                  "name": "Tamchog Lhakang",
+                  "text": "Magántemplom, amely a Pa Chhu-folyón átívelő, történelmi vashídjáról és láncos szerkezetéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        89.504207,
+                        27.331025
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "Szerény buddhista templom, amely a környező falvak lakóinak vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        89.48598,
+                        27.328993
+                  ]
+            },
+            {
+                  "name": "Bondey Lhakhang",
+                  "text": "Bondey falu ősi temploma, amely jól megőrzött, hagyományos falfestményeiről és szobrairől nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        89.43024,
+                        27.387997
+                  ]
+            },
+            {
+                  "name": "Canteen",
+                  "text": "Egyszerű helyi étkezde, ahol olyan hagyományos ételeket szolgálnak fel, mint az Ema Datshi a dolgozóknak és látogatóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        89.450154,
+                        27.385189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bhutan art gallery",
+                  "text": "Această galerie din Paro expune picturi contemporane bhutaneze și sculpturi tradiționale ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        89.421021,
+                        27.405214
+                  ]
+            },
+            {
+                  "name": "Tamchog Lhakang",
+                  "text": "Un templu privat faimos pentru podul său istoric din lanțuri de fier care traversează râul Pa Chhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.504207,
+                        27.331025
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "Un templu budist modest care servește drept centru religios pentru locuitorii satelor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        89.48598,
+                        27.328993
+                  ]
+            },
+            {
+                  "name": "Bondey Lhakhang",
+                  "text": "Acest templu vechi din satul Bondey este renumit pentru picturile sale murale tradiționale bine conservate și statuile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        89.43024,
+                        27.387997
+                  ]
+            },
+            {
+                  "name": "Canteen",
+                  "text": "O cantină locală simplă unde se servesc mâncăruri tradiționale precum Ema Datshi pentru lucrători și vizitatori.",
+                  "category": "cultural",
+                  "coords": [
+                        89.450154,
+                        27.385189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bhutan art gallery",
+                  "text": "A gallery in Paro showcasing contemporary Bhutanese paintings and traditional sculptures by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        89.421021,
+                        27.405214
+                  ]
+            },
+            {
+                  "name": "Tamchog Lhakang",
+                  "text": "A private temple famous for the historic iron chain bridge spanning the Pa Chhu river, built by a 14th-century saint.",
+                  "category": "landmark",
+                  "coords": [
+                        89.504207,
+                        27.331025
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "A modest Buddhist temple serving as the primary religious center for residents of the surrounding villages.",
+                  "category": "landmark",
+                  "coords": [
+                        89.48598,
+                        27.328993
+                  ]
+            },
+            {
+                  "name": "Bondey Lhakhang",
+                  "text": "An ancient temple in Bondey village, noted for its well-preserved traditional wall paintings and statues.",
+                  "category": "landmark",
+                  "coords": [
+                        89.43024,
+                        27.387997
+                  ]
+            },
+            {
+                  "name": "Canteen",
+                  "text": "A simple local eatery serving traditional dishes like Ema Datshi to workers and visitors at the seed centre.",
+                  "category": "cultural",
+                  "coords": [
+                        89.450154,
+                        27.385189
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-15",
     coords: [89.4281, 27.3889],
@@ -588,7 +2037,88 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "rspn-crane-visitor-centre-life-v2",
+    id: "rspn-crane-visitor-centre-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tongchey Gonpa",
+                  "text": "Ein friedliches buddhistisches Kloster im Tal in der Nähe des RSPN Crane Visitor Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        90.234984,
+                        27.440876
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Ein traditioneller buddhistischer Stupa, der als spirituelles Wahrzeichen in der Nähe des RSPN Crane Visitor Centre dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.184551,
+                        27.463094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tongchey Gonpa",
+                  "text": "Békés buddhista kolostor a völgyben, az RSPN Crane Látogatóközpont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.234984,
+                        27.440876
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Hagyományos buddhista sztúpa, amely spirituális tájékozódási pontként szolgál az RSPN Crane Látogatóközpont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.184551,
+                        27.463094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tongchey Gonpa",
+                  "text": "O mănăstire budistă pașnică amplasată în vale, lângă Centrul de Vizitatori RSPN Crane.",
+                  "category": "landmark",
+                  "coords": [
+                        90.234984,
+                        27.440876
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "O stupă budistă tradițională care servește drept punct de reper spiritual lângă Centrul de Vizitatori RSPN Crane.",
+                  "category": "landmark",
+                  "coords": [
+                        90.184551,
+                        27.463094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tongchey Gonpa",
+                  "text": "A peaceful Buddhist monastery nestled in the valley near the RSPN Crane Visitor Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        90.234984,
+                        27.440876
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "A traditional Buddhist stupa serving as a spiritual landmark near the RSPN Crane Visitor Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        90.184551,
+                        27.463094
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "BT-24",
     coords: [90.1783, 27.4522],
@@ -633,7 +2163,52 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "yusipang-agricultural-center-life-v2",
+    id: "yusipang-agricultural-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thara Goenpa",
+                  "text": "Ein friedliches buddhistisches Kloster inmitten der landwirtschaftlich geprägten Hügel in der Nähe von Yusipang.",
+                  "category": "landmark",
+                  "coords": [
+                        89.674623,
+                        27.472987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thara Goenpa",
+                  "text": "Egy békés buddhista kolostor a mezőgazdasági dombok között, Yusipang közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.674623,
+                        27.472987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thara Goenpa",
+                  "text": "O mănăstire budistă pașnică amplasată pe dealurile agricole din apropiere de Yusipang.",
+                  "category": "landmark",
+                  "coords": [
+                        89.674623,
+                        27.472987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thara Goenpa",
+                  "text": "A peaceful Buddhist monastery nestled in the agricultural hills near Yusipang.",
+                  "category": "landmark",
+                  "coords": [
+                        89.674623,
+                        27.472987
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-11",
     coords: [89.6744, 27.4789],
@@ -678,7 +2253,376 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "haa-valley-yak-pastures-life-v2",
+    id: "haa-valley-yak-pastures-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "Eine historische Festung im Haa-Tal, die ursprünglich zur Verteidigung der Region errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371065
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "Ein Freizeitgelände im Haa-Tal, das Raum für Erholung inmitten der hochgelegenen Yak-Weiden bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280936,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Ein traditioneller bhutanischer Stupa, der als religiöses Wahrzeichen in der alpinen Landschaft von Haa steht.",
+                  "category": "landmark",
+                  "coords": [
+                        89.293152,
+                        27.369847
+                  ]
+            },
+            {
+                  "name": "3 Chukhor Mani",
+                  "text": "Ein Set aus drei Gebetsmühlen, die durch die Strömung des Wassers angetrieben werden.",
+                  "category": "landmark",
+                  "coords": [
+                        89.29499,
+                        27.373029
+                  ]
+            },
+            {
+                  "name": "Shelkar Dra Lhakhang",
+                  "text": "Ein buddhistischer Tempel, der für seine Verbindung zu einer heiligen Felswand in der Haa-Region bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.284754,
+                        27.360871
+                  ]
+            },
+            {
+                  "name": "Kitchen and Toilet of the Lhakhang",
+                  "text": "Ein funktionaler Anbau des örtlichen Tempels, der den gemeinschaftlichen Lebensstil der Mönche in Haa widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        89.276048,
+                        27.360949
+                  ]
+            },
+            {
+                  "name": "Army Chorten",
+                  "text": "Ein buddhistischer Stupa im strategisch wichtigen Haa-Tal, der von der örtlichen Militärgarnison gepflegt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        89.287315,
+                        27.382925
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "Ein Erleuchtungs-Stupa mit traditionellen bhutanischen Architekturelementen in der alpinen Haa-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.291971,
+                        27.382159
+                  ]
+            },
+            {
+                  "name": "Lunso Lhakhang",
+                  "text": "Ein lokaler buddhistischer Tempel, der der bäuerlichen Gemeinschaft in den Hochtälern von Haa dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.280684,
+                        27.359272
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Ein wöchentlicher Markt in Haa, auf dem Einheimische mit Yak-Produkten, Gebirgskräutern und Lebensmitteln handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        89.279458,
+                        27.385637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "A Haa-völgy történelmi erődítménye, amelyet eredetileg a régió védelmére építettek.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371065
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "Szabadidős park a Haa-völgyben, amely pihenési lehetőséget nyújt a magashegyi jaklegelők között.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280936,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Hagyományos bhutáni sztúpa, amely vallási jelképként emelkedik Haa alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        89.293152,
+                        27.369847
+                  ]
+            },
+            {
+                  "name": "3 Chukhor Mani",
+                  "text": "Három imakerékből álló csoport, amelyet a patak sodrása hajt meg folyamatosan.",
+                  "category": "landmark",
+                  "coords": [
+                        89.29499,
+                        27.373029
+                  ]
+            },
+            {
+                  "name": "Shelkar Dra Lhakhang",
+                  "text": "Buddhista templom, amely a Haa-régió egyik szent sziklájához fűződő kapcsolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        89.284754,
+                        27.360871
+                  ]
+            },
+            {
+                  "name": "Kitchen and Toilet of the Lhakhang",
+                  "text": "A helyi templom melléképülete, amely a haai szerzetesközösség mindennapi életét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        89.276048,
+                        27.360949
+                  ]
+            },
+            {
+                  "name": "Army Chorten",
+                  "text": "Buddhista sztúpa a stratégiai fontosságú Haa-völgyben, amelyet a helyi katonai helyőrség gondoz.",
+                  "category": "landmark",
+                  "coords": [
+                        89.287315,
+                        27.382925
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "A megvilágosodás sztúpája hagyományos bhutáni építészeti elemekkel a Haa-vidék alpesi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.291971,
+                        27.382159
+                  ]
+            },
+            {
+                  "name": "Lunso Lhakhang",
+                  "text": "Helyi buddhista templom, amely a Haa magashegyi völgyeiben élő földműves közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.280684,
+                        27.359272
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Heti vásár Haában, ahol a helyiek jaktermékekkel, hegyi gyógynövényekkel és élelmiszerekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        89.279458,
+                        27.385637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "O fortăreață istorică în Valea Haa, construită inițial pentru apărarea regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371065
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "O zonă de agrement în Valea Haa, oferind spațiu pentru relaxare în mijlocul pășunilor de iaci de mare altitudine.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280936,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "O stupă bhutaneză tradițională, servind ca punct de reper religios în peisajul alpin din Haa.",
+                  "category": "landmark",
+                  "coords": [
+                        89.293152,
+                        27.369847
+                  ]
+            },
+            {
+                  "name": "3 Chukhor Mani",
+                  "text": "Un set de trei roți de rugăciune acționate de fluxul apei, o trăsătură spirituală comună în văile bhutaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        89.29499,
+                        27.373029
+                  ]
+            },
+            {
+                  "name": "Shelkar Dra Lhakhang",
+                  "text": "Un templu budist cunoscut pentru asocierea sa cu o stâncă sacră (Dra) din regiunea Haa.",
+                  "category": "landmark",
+                  "coords": [
+                        89.284754,
+                        27.360871
+                  ]
+            },
+            {
+                  "name": "Kitchen and Toilet of the Lhakhang",
+                  "text": "O anexă funcțională a templului local, reflectând stilul de viață comunal al comunității monahale din Haa.",
+                  "category": "religious",
+                  "coords": [
+                        89.276048,
+                        27.360949
+                  ]
+            },
+            {
+                  "name": "Army Chorten",
+                  "text": "O stupă budistă întreținută de garnizoana militară locală în Valea Haa, de importanță strategică.",
+                  "category": "landmark",
+                  "coords": [
+                        89.287315,
+                        27.382925
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "O stupă a iluminării cu elemente arhitecturale tradiționale bhutaneze în regiunea alpină Haa.",
+                  "category": "landmark",
+                  "coords": [
+                        89.291971,
+                        27.382159
+                  ]
+            },
+            {
+                  "name": "Lunso Lhakhang",
+                  "text": "Un templu budist local care deservește comunitatea agricolă din văile înalte din Haa.",
+                  "category": "landmark",
+                  "coords": [
+                        89.280684,
+                        27.359272
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "O piață săptămânală în Haa unde localnicii fac schimb de produse de iac, ierburi montane și produse de strictă necesitate.",
+                  "category": "cultural",
+                  "coords": [
+                        89.279458,
+                        27.385637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "A historic fortress in the Haa Valley, originally built to defend the region.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371065
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "An outdoor leisure area in the Haa Valley offering space for relaxation amidst the high-altitude yak pastures.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280936,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "A traditional Bhutanese xstúpa serving as a religious landmark in the alpine setting of the Haa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        89.293152,
+                        27.369847
+                  ]
+            },
+            {
+                  "name": "3 Chukhor Mani",
+                  "text": "A set of three prayer wheels driven by the flow of water, a common spiritual feature in Bhutanese valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        89.29499,
+                        27.373029
+                  ]
+            },
+            {
+                  "name": "Shelkar Dra Lhakhang",
+                  "text": "A Buddhist temple known for its association with a sacred cliff (Dra) in the Haa region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.284754,
+                        27.360871
+                  ]
+            },
+            {
+                  "name": "Kitchen and Toilet of the Lhakhang",
+                  "text": "A functional annex of the local temple, reflecting the communal lifestyle of the monastic community in Haa.",
+                  "category": "religious",
+                  "coords": [
+                        89.276048,
+                        27.360949
+                  ]
+            },
+            {
+                  "name": "Army Chorten",
+                  "text": "A Buddhist xstúpa maintained by the local military garrison in the strategic Haa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        89.287315,
+                        27.382925
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "An enlightenment xstúpa featuring traditional Bhutanese architectural elements in the alpine Haa region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.291971,
+                        27.382159
+                  ]
+            },
+            {
+                  "name": "Lunso Lhakhang",
+                  "text": "A local Buddhist temple serving the farming community in the high-elevation valleys of Haa.",
+                  "category": "landmark",
+                  "coords": [
+                        89.280684,
+                        27.359272
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "A weekly gathering in Haa where locals trade yak products, mountain herbs, and daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        89.279458,
+                        27.385637
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-13",
     coords: [89.2806, 27.3867],
@@ -723,7 +2667,52 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "chamkhar-dairy-farms-life-v2",
+    id: "chamkhar-dairy-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jakar Dzong",
+                  "text": "Die Verwaltung von Bumthang ist im historischen Jakar Dzong untergebracht, der auch als 'Burg des weißen Vogels' bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        90.743714,
+                        27.549163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jakar Dzong",
+                  "text": "Bumthang közigazgatása a történelmi Jakar Dzongban székel, amelyet a „fehér madár váraként” is ismernek.",
+                  "category": "castle",
+                  "coords": [
+                        90.743714,
+                        27.549163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jakar Dzong",
+                  "text": "Administrația din Bumthang își are sediul în istoricul Jakar Dzong, cunoscut și sub numele de „Castelul Păsării Albe”.",
+                  "category": "castle",
+                  "coords": [
+                        90.743714,
+                        27.549163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jakar Dzongkhag Administration",
+                  "text": "The administration of Bumthang is housed within the historic Jakar Dzong, also known as the 'Castle of the White Bird'.",
+                  "category": "castle",
+                  "coords": [
+                        90.743714,
+                        27.549163
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-33",
     coords: [90.7492, 27.5483],
@@ -768,7 +2757,232 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "simply-bhutan-living-museum-life-v2",
+    id: "simply-bhutan-living-museum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Art Yanttra",
+                  "text": "Eine Galerie für zeitgenössische Kunst mit einzigartigen Gemälden und Kunsthandwerk lokaler Talente.",
+                  "category": "museum",
+                  "coords": [
+                        89.644191,
+                        27.461179
+                  ]
+            },
+            {
+                  "name": "Jigme Dorji Wangchuck Memorial Chorten",
+                  "text": "Diese ikonische Stupa wurde 1974 zum Gedenken an den dritten König von Bhutan erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        89.637899,
+                        27.46656
+                  ]
+            },
+            {
+                  "name": "Lam Drukpa Kinley Tsenden Shing",
+                  "text": "Eine Kultstätte, die mit den Traditionen des legendären Drukpa Kinley verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.646308,
+                        27.458657
+                  ]
+            },
+            {
+                  "name": "Changzamtog Neighborhood Vegtable Market",
+                  "text": "Ein lokaler Nachbarschaftsmarkt, der die Bewohner von Changzamtog mit frischen Produkten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641739,
+                        27.455548
+                  ]
+            },
+            {
+                  "name": "Changzamtog Farmer's Market",
+                  "text": "Ein lebhafter Wochenendmarkt, auf dem Bauern aus den umliegenden Tälern ihre Ernte direkt verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        89.647599,
+                        27.45611
+                  ]
+            },
+            {
+                  "name": "Junction Mart",
+                  "text": "Ein modernes Einkaufszentrum in Thimphu mit verschiedenen Einzelhandelsgeschäften und lokalem Handwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        89.643802,
+                        27.460087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art Yanttra",
+                  "text": "Kortárs művészeti galéria, amely helyi tehetségek egyedi festményeit és művészi alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        89.644191,
+                        27.461179
+                  ]
+            },
+            {
+                  "name": "Jigme Dorji Wangchuck Memorial Chorten",
+                  "text": "Ezt az ikonikus sztúpát 1974-ben emelték Bhután harmadik királyának emlékére.",
+                  "category": "religious",
+                  "coords": [
+                        89.637899,
+                        27.46656
+                  ]
+            },
+            {
+                  "name": "Lam Drukpa Kinley Tsenden Shing",
+                  "text": "A legendás Drukpa Kinley hagyományaihoz kötődő istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        89.646308,
+                        27.458657
+                  ]
+            },
+            {
+                  "name": "Changzamtog Neighborhood Vegtable Market",
+                  "text": "Helyi lakótelepi piac, amely friss áruval látja el Changzamtog lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641739,
+                        27.455548
+                  ]
+            },
+            {
+                  "name": "Changzamtog Farmer's Market",
+                  "text": "Élénk hétvégi piac, ahol a közeli völgyek gazdái közvetlenül árulják terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        89.647599,
+                        27.45611
+                  ]
+            },
+            {
+                  "name": "Junction Mart",
+                  "text": "Modern bevásárlóközpont Thimphuban, különféle üzletekkel és helyi kézműves termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        89.643802,
+                        27.460087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art Yanttra",
+                  "text": "O galerie de artă contemporană care prezintă picturi unice și meșteșuguri artistice ale talentelor locale.",
+                  "category": "museum",
+                  "coords": [
+                        89.644191,
+                        27.461179
+                  ]
+            },
+            {
+                  "name": "Jigme Dorji Wangchuck Memorial Chorten",
+                  "text": "Această stupă iconică a fost construită în 1974 în memoria celui de-al treilea rege al Bhutanului.",
+                  "category": "religious",
+                  "coords": [
+                        89.637899,
+                        27.46656
+                  ]
+            },
+            {
+                  "name": "Lam Drukpa Kinley Tsenden Shing",
+                  "text": "Un lăcaș de cult asociat cu tradițiile legendarului Drukpa Kinley.",
+                  "category": "religious",
+                  "coords": [
+                        89.646308,
+                        27.458657
+                  ]
+            },
+            {
+                  "name": "Changzamtog Neighborhood Vegtable Market",
+                  "text": "O piață locală de cartier care oferă produse proaspete pentru locuitorii din Changzamtog.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641739,
+                        27.455548
+                  ]
+            },
+            {
+                  "name": "Changzamtog Farmer's Market",
+                  "text": "O piață plină de viață de weekend, unde fermierii din văile din apropiere își vând direct recolta.",
+                  "category": "cultural",
+                  "coords": [
+                        89.647599,
+                        27.45611
+                  ]
+            },
+            {
+                  "name": "Junction Mart",
+                  "text": "Un centru comercial modern în Thimphu, care cuprinde diverse magazine de vânzare cu amănuntul și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        89.643802,
+                        27.460087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Yanttra",
+                  "text": "A contemporary art gallery featuring unique paintings and artistic crafts by local talents.",
+                  "category": "museum",
+                  "coords": [
+                        89.644191,
+                        27.461179
+                  ]
+            },
+            {
+                  "name": "National Memorial Chorten",
+                  "text": "This iconic stupa was built in 1974 in memory of Bhutan’s third King.",
+                  "category": "religious",
+                  "coords": [
+                        89.637899,
+                        27.46656
+                  ]
+            },
+            {
+                  "name": "Lam Drukpa Kinley Tsenden Shing",
+                  "text": "A place of worship associated with the traditions of the legendary Drukpa Kinley.",
+                  "category": "religious",
+                  "coords": [
+                        89.646308,
+                        27.458657
+                  ]
+            },
+            {
+                  "name": "Changzamtog Neighborhood Vegtable Market",
+                  "text": "A local neighborhood market providing fresh produce for the residents of Changzamtog.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641739,
+                        27.455548
+                  ]
+            },
+            {
+                  "name": "Changzamtog Farmer's Market",
+                  "text": "A lively weekend market where farmers from nearby valleys sell their harvest directly.",
+                  "category": "cultural",
+                  "coords": [
+                        89.647599,
+                        27.45611
+                  ]
+            },
+            {
+                  "name": "Junction Mart",
+                  "text": "A modern shopping center in Thimphu featuring various retail stores and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        89.643802,
+                        27.460087
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "BT-11",
     coords: [89.6386, 27.4642],
@@ -813,7 +3027,160 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
   },
   {
-    id: "centennial-farmers-market-life-v2",
+    id: "centennial-farmers-market-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zangtogpelri Lhakhang",
+                  "text": "Ein markanter buddhistischer Tempel in Thimphu, der für seine lebendigen Wandmalereien bekannt ist und in der Nähe des Bauernmarktes liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640908,
+                        27.473756
+                  ]
+            },
+            {
+                  "name": "Kaja Throm",
+                  "text": "Ein lebhafter Open-Air-Marktpavillon in Thimphu, der lokales Kunsthandwerk und frische Produkte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641147,
+                        27.476017
+                  ]
+            },
+            {
+                  "name": "Bhutanese Traditional Market",
+                  "text": "Ein lebendiges Marktviertel, das authentische bhutanische Textilien, getrockneten Fisch und lokale Gewürze präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642713,
+                        27.475058
+                  ]
+            },
+            {
+                  "name": "Cereals",
+                  "text": "Eine spezielle Marktzone in Thimphu, die sich auf den Handel mit regionalen Getreidearten wie rotem Reis und Mais konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641785,
+                        27.474858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zangtogpelri Lhakhang",
+                  "text": "Thimphu egy feltűnő buddhista temploma, amely élénk falfestményeiről ismert, és a termelői piac közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640908,
+                        27.473756
+                  ]
+            },
+            {
+                  "name": "Kaja Throm",
+                  "text": "Egy nyüzsgő szabadtéri piacpavilon Thimphuban, ahol helyi kézműves termékeket és friss terményeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641147,
+                        27.476017
+                  ]
+            },
+            {
+                  "name": "Bhutanese Traditional Market",
+                  "text": "Egy nyüzsgő piactér, amely autentikus bhutáni textíliákat, szárított halat és helyi fűszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642713,
+                        27.475058
+                  ]
+            },
+            {
+                  "name": "Cereals",
+                  "text": "Egy speciális piaci zóna Thimphuban, amely a regionális gabonák, például a vörös rizs és a kukorica kereskedelmére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641785,
+                        27.474858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zangtogpelri Lhakhang",
+                  "text": "Un templu budist impresionant din Thimphu, cunoscut pentru picturile sale murale vibrante, situat lângă piața fermierilor.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640908,
+                        27.473756
+                  ]
+            },
+            {
+                  "name": "Kaja Throm",
+                  "text": "Un pavilion de piață în aer liber plin de viață în Thimphu, care oferă meșteșuguri locale și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641147,
+                        27.476017
+                  ]
+            },
+            {
+                  "name": "Bhutanese Traditional Market",
+                  "text": "O zonă de piață vibrantă care prezintă textile bhutaneze autentice, pește uscat și condimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642713,
+                        27.475058
+                  ]
+            },
+            {
+                  "name": "Cereals",
+                  "text": "O zonă de piață specifică din Thimphu, axată pe comerțul cu cereale regionale, cum ar fi orezul roșu și porumbul.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641785,
+                        27.474858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zangtogpelri Lhakhang",
+                  "text": "A striking Buddhist temple in Thimphu known for its vibrant murals, located near the farmers' market.",
+                  "category": "landmark",
+                  "coords": [
+                        89.640908,
+                        27.473756
+                  ]
+            },
+            {
+                  "name": "Kaja Throm",
+                  "text": "A lively open-air market pavilion in Thimphu offering local crafts and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641147,
+                        27.476017
+                  ]
+            },
+            {
+                  "name": "Bhutanese Traditional Market",
+                  "text": "A vibrant market area showcasing authentic Bhutanese textiles, dried fish, and local spices.",
+                  "category": "cultural",
+                  "coords": [
+                        89.642713,
+                        27.475058
+                  ]
+            },
+            {
+                  "name": "Cereals",
+                  "text": "A specific market zone in Thimphu focusing on the trade of regional grains like red rice and maize.",
+                  "category": "cultural",
+                  "coords": [
+                        89.641785,
+                        27.474858
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BT-11",
     coords: [89.6419, 27.4725],

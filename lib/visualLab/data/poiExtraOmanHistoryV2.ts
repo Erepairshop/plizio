@@ -47,7 +47,124 @@ export const poiExtraOmanHistoryV2: POI[] = [
     },
   },
   {
-    id: "nizwa-fort-history-v2",
+    id: "nizwa-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nizwa Livestock Market",
+                  "text": "Der Viehmarkt von Nizwa ist eine traditionelle Freiluftattraktion, auf der Einheimische Ziegen, Schafe und Kühe in der Nähe des Forts handeln.",
+                  "category": "landmark",
+                  "coords": [
+                        57.532612,
+                        22.931343
+                  ]
+            },
+            {
+                  "name": "Al Balad At Teiyib Mosque",
+                  "text": "Die Al Balad At Teiyib Moschee ist eine lokale Kultstätte, die Gläubigen in der Nähe des historischen Forts von Nizwa offensteht.",
+                  "category": "religious",
+                  "coords": [
+                        57.560784,
+                        22.901576
+                  ]
+            },
+            {
+                  "name": "East Souq",
+                  "text": "Der East Souq in Nizwa ist ein lebhafter, traditioneller Marktplatz im östlichen Teil des historischen Basarviertels.",
+                  "category": "cultural",
+                  "coords": [
+                        57.531665,
+                        22.932897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nizwa Livestock Market",
+                  "text": "A Nizwa állatpiac egy hagyományos szabadtéri látványosság az erőd közelében, ahol a helyiek kecskékkel, juhokkal és tehenekkel kereskednek.",
+                  "category": "landmark",
+                  "coords": [
+                        57.532612,
+                        22.931343
+                  ]
+            },
+            {
+                  "name": "Al Balad At Teiyib Mosque",
+                  "text": "Az Al Balad At Teiyib mecset egy helyi imahely, amely nyitva áll a hívők előtt a történelmi nizwai erőd közelében.",
+                  "category": "religious",
+                  "coords": [
+                        57.560784,
+                        22.901576
+                  ]
+            },
+            {
+                  "name": "East Souq",
+                  "text": "A nizwai East Souq egy nyüzsgő, hagyományos piactér a történelmi bazárnegyed keleti részén.",
+                  "category": "cultural",
+                  "coords": [
+                        57.531665,
+                        22.932897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nizwa Livestock Market",
+                  "text": "Piața de animale din Nizwa este o atracție tradițională în aer liber lângă fort, unde localnicii tranzacționează capre, oi și vaci.",
+                  "category": "landmark",
+                  "coords": [
+                        57.532612,
+                        22.931343
+                  ]
+            },
+            {
+                  "name": "Al Balad At Teiyib Mosque",
+                  "text": "Moscheea Al Balad At Teiyib este un lăcaș de cult local deschis credincioșilor în apropierea fortului istoric din Nizwa.",
+                  "category": "religious",
+                  "coords": [
+                        57.560784,
+                        22.901576
+                  ]
+            },
+            {
+                  "name": "East Souq",
+                  "text": "East Souq din Nizwa este o piață tradițională plină de viață în partea de est a cartierului istoric al bazarului.",
+                  "category": "cultural",
+                  "coords": [
+                        57.531665,
+                        22.932897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nizwa Livestock Market",
+                  "text": "The Nizwa Livestock Market is a traditional open-air attraction near the fort where locals trade goats, sheep, and cows.",
+                  "category": "landmark",
+                  "coords": [
+                        57.532612,
+                        22.931343
+                  ]
+            },
+            {
+                  "name": "Al Balad At Teiyib Mosque",
+                  "text": "The Al Balad At Teiyib Mosque is a local place of worship open to believers near the historic Nizwa Fort.",
+                  "category": "religious",
+                  "coords": [
+                        57.560784,
+                        22.901576
+                  ]
+            },
+            {
+                  "name": "East Souq",
+                  "text": "The East Souq in Nizwa is a bustling, traditional marketplace located in the eastern part of the historic bazaar district.",
+                  "category": "cultural",
+                  "coords": [
+                        57.531665,
+                        22.932897
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-DA",
     coords: [57.5328, 22.9333],
@@ -91,7 +208,160 @@ export const poiExtraOmanHistoryV2: POI[] = [
     },
   },
   {
-    id: "bat-al-khutm-al-ayn-history-v2",
+    id: "bat-al-khutm-al-ayn-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bat Archaeological Site",
+                  "text": "Ein UNESCO-Weltkulturerbe mit gut erhaltenen, bienenkorbartigen Grabbauten aus dem 3. Jahrtausend v. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        56.744707,
+                        23.269357
+                  ]
+            },
+            {
+                  "name": "Jabal al Alan",
+                  "text": "Ein markanter Berg, der über das Tal mit der antiken Nekropole von Bat wacht.",
+                  "category": "natural",
+                  "coords": [
+                        56.81,
+                        23.28
+                  ]
+            },
+            {
+                  "name": "Archaeological Tower of Al Khutm",
+                  "text": "Überreste eines massiven Rundturms aus Stein, der zum prähistorischen Komplex von Al Khutm gehört.",
+                  "category": "historical",
+                  "coords": [
+                        56.714527,
+                        23.280034
+                  ]
+            },
+            {
+                  "name": "Bat Necropolis",
+                  "text": "Eine riesige prähistorische Begräbnisstätte, bestehend aus zahlreichen steinernen, bienenkorbförmigen Gräbern.",
+                  "category": "historical",
+                  "coords": [
+                        56.747548,
+                        23.27434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bat Archaeological Site",
+                  "text": "UNESCO világörökségi helyszín jól megőrzött, méhkas alakú sírépítményekkel az i. e. 3. évezredből.",
+                  "category": "historical",
+                  "coords": [
+                        56.744707,
+                        23.269357
+                  ]
+            },
+            {
+                  "name": "Jabal al Alan",
+                  "text": "Jellegzetes hegy, amely a Bat ősi nekropoliszát rejtő völgy felett magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        56.81,
+                        23.28
+                  ]
+            },
+            {
+                  "name": "Archaeological Tower of Al Khutm",
+                  "text": "Egy masszív, kőből épült kerek torony maradványai, amely az Al Khutm-i őskori komplexum része.",
+                  "category": "historical",
+                  "coords": [
+                        56.714527,
+                        23.280034
+                  ]
+            },
+            {
+                  "name": "Bat Necropolis",
+                  "text": "Hatalmas őskori temetkezési hely, amely számos kőből készült, méhkas formájú sírból áll.",
+                  "category": "historical",
+                  "coords": [
+                        56.747548,
+                        23.27434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bat Archaeological Site",
+                  "text": "Un sit din patrimoniul mondial UNESCO cu morminte în formă de stup bine conservate, datând din mileniul al III-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        56.744707,
+                        23.269357
+                  ]
+            },
+            {
+                  "name": "Jabal al Alan",
+                  "text": "Un munte proeminent care veghează asupra văii ce adăpostește necropola antică din Bat.",
+                  "category": "natural",
+                  "coords": [
+                        56.81,
+                        23.28
+                  ]
+            },
+            {
+                  "name": "Archaeological Tower of Al Khutm",
+                  "text": "Rămășițele unui turn circular masiv din piatră, care face parte din complexul preistoric de la Al Khutm.",
+                  "category": "historical",
+                  "coords": [
+                        56.714527,
+                        23.280034
+                  ]
+            },
+            {
+                  "name": "Bat Necropolis",
+                  "text": "Un vast loc de înmormântare preistoric, format din numeroase morminte din piatră în formă de stup.",
+                  "category": "historical",
+                  "coords": [
+                        56.747548,
+                        23.27434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bat Archaeological Site",
+                  "text": "A UNESCO World Heritage site featuring well-preserved beehive-shaped tombs from the 3rd millennium BC.",
+                  "category": "historical",
+                  "coords": [
+                        56.744707,
+                        23.269357
+                  ]
+            },
+            {
+                  "name": "Jabal al Alan",
+                  "text": "A prominent mountain overlooking the valley that houses the ancient necropolis of Bat.",
+                  "category": "natural",
+                  "coords": [
+                        56.81,
+                        23.28
+                  ]
+            },
+            {
+                  "name": "Archaeological Tower of Al Khutm",
+                  "text": "Remains of a massive stone circular tower part of the prehistoric complex at Al Khutm.",
+                  "category": "historical",
+                  "coords": [
+                        56.714527,
+                        23.280034
+                  ]
+            },
+            {
+                  "name": "Bat Necropolis",
+                  "text": "A vast prehistoric burial ground consisting of numerous stone beehive-shaped graves.",
+                  "category": "historical",
+                  "coords": [
+                        56.747548,
+                        23.27434
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "OM-ZA",
     coords: [56.7458, 23.2722],
@@ -135,7 +405,88 @@ export const poiExtraOmanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sumhuram-khor-rori-history-v2",
+    id: "sumhuram-khor-rori-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hisn Minjuwi",
+                  "text": "Die Steinruinen einer antiken Befestigungsanlage, die strategisch günstig über der Lagune von Khor Rori thronen.",
+                  "category": "historical",
+                  "coords": [
+                        54.44,
+                        17.04
+                  ]
+            },
+            {
+                  "name": "Sumhuram",
+                  "text": "Eine bedeutende archäologische Stätte des antiken Weihrauchhafens, die zum UNESCO-Weltkulturerbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        54.43419,
+                        17.038998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hisn Minjuwi",
+                  "text": "Egy ókori erődítmény kőromjai, amelyek stratégiai helyen, a Khor Rori lagúna fölé magasodva állnak.",
+                  "category": "historical",
+                  "coords": [
+                        54.44,
+                        17.04
+                  ]
+            },
+            {
+                  "name": "Sumhuram",
+                  "text": "Az ókori tömjénkikötő jelentős régészeti lelőhelye, amely az UNESCO világörökség részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.43419,
+                        17.038998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hisn Minjuwi",
+                  "text": "Ruinele de piatră ale unei fortificații antice, situate strategic deasupra lagunei Khor Rori.",
+                  "category": "historical",
+                  "coords": [
+                        54.44,
+                        17.04
+                  ]
+            },
+            {
+                  "name": "Sumhuram",
+                  "text": "Un sit arheologic major al anticului port de tămâie, care face parte din Patrimoniul Mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        54.43419,
+                        17.038998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hisn Minjuwi",
+                  "text": "The stone ruins of an ancient fortification perched strategically above the Khor Rori lagoon.",
+                  "category": "historical",
+                  "coords": [
+                        54.44,
+                        17.04
+                  ]
+            },
+            {
+                  "name": "Sumhuram",
+                  "text": "A major archaeological site of the ancient frankincense port, which is part of the UNESCO World Heritage list.",
+                  "category": "landmark",
+                  "coords": [
+                        54.43419,
+                        17.038998
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "OM-DH",
     coords: [54.4344, 17.0388],
@@ -179,7 +530,340 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "al-baleed-archaeological-park-history-v2",
+    id: "al-baleed-archaeological-park-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Baleed",
+                  "text": "Die Ruinen der antiken mittelalterlichen Hafenstadt Zafar, ein historisches Zentrum des Weihrauchhandels.",
+                  "category": "historical",
+                  "coords": [
+                        54.134544,
+                        17.006669
+                  ]
+            },
+            {
+                  "name": "Al Balid",
+                  "text": "Überreste von Mauern und Gebäuden aus Stein und Lehmziegeln einer einst blühenden Seestadt.",
+                  "category": "historical",
+                  "coords": [
+                        54.133308,
+                        17.005516
+                  ]
+            },
+            {
+                  "name": "Al Baleed Mosque",
+                  "text": "Die Ruinen einer monumentalen Moschee mit zahlreichen erhaltenen Steinsäulen.",
+                  "category": "historical",
+                  "coords": [
+                        54.130572,
+                        17.005995
+                  ]
+            },
+            {
+                  "name": "Khawr Al Balid Reserve",
+                  "text": "Eine Brackwasserlagune an den Ruinen, die ein wichtiger Lebensraum für Zugvögel ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.135858,
+                        17.007256
+                  ]
+            },
+            {
+                  "name": "Museum des Weihrauchslandes",
+                  "text": "Dieses Museum dokumentiert die maritime Geschichte Omans und den antiken Handel mit Weihrauchharz.",
+                  "category": "museum",
+                  "coords": [
+                        54.136086,
+                        17.00944
+                  ]
+            },
+            {
+                  "name": "Al Hafah",
+                  "text": "Ein weißer Sandstrand, gesäumt von Kokospalmen und traditionellen Weihrauchverkaufsständen.",
+                  "category": "recreational",
+                  "coords": [
+                        54.150141,
+                        17.006933
+                  ]
+            },
+            {
+                  "name": "Masjid Afif",
+                  "text": "Eine lokale Moschee in der Nähe des Hafengürtels, erbaut im typischen Dhofari-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        54.117913,
+                        17.010822
+                  ]
+            },
+            {
+                  "name": "Mosque Afif",
+                  "text": "Eine historische Moschee innerhalb des UNESCO-geschützten Archäologieparks Al-Baleed, in der Nähe der antiken Weihrauchhafen-Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.123133,
+                        17.004941
+                  ]
+            },
+            {
+                  "name": "Anantara Spa",
+                  "text": "Ein luxuriöses Wellness-Zentrum, das traditionelle Behandlungen in unmittelbarer Nähe zu den archäologischen Ausgrabungen von Salalah anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        54.143767,
+                        17.008228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Baleed",
+                  "text": "Az ősi középkori kikötőváros, Zafar romjai, a tömjénkereskedelem történelmi központja.",
+                  "category": "historical",
+                  "coords": [
+                        54.134544,
+                        17.006669
+                  ]
+            },
+            {
+                  "name": "Al Balid",
+                  "text": "Egy egykor virágzó tengerparti város kőből és vályogtéglából épült falainak és épületeinek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        54.133308,
+                        17.005516
+                  ]
+            },
+            {
+                  "name": "Al Baleed Mosque",
+                  "text": "Egy monumentális mecset romjai számos épségben maradt kőoszloppal.",
+                  "category": "historical",
+                  "coords": [
+                        54.130572,
+                        17.005995
+                  ]
+            },
+            {
+                  "name": "Khawr Al Balid Reserve",
+                  "text": "A romok melletti brakkvizes lagúna, amely a vándormadarak fontos élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        54.135858,
+                        17.007256
+                  ]
+            },
+            {
+                  "name": "Museum of the Frankincence Land",
+                  "text": "Ez a múzeum Omán tengeri történelmét és a tömjéngyanta ősi kereskedelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        54.136086,
+                        17.00944
+                  ]
+            },
+            {
+                  "name": "Al Hafah Beach",
+                  "text": "Fehér homokos tengerpart, amelyet kókuszpálmák és hagyományos tömjénárusító bódék szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        54.150141,
+                        17.006933
+                  ]
+            },
+            {
+                  "name": "Masjid Afif",
+                  "text": "Helyi mecset a kikötői övezet közelében, jellegzetes dofári stílusban építve.",
+                  "category": "landmark",
+                  "coords": [
+                        54.117913,
+                        17.010822
+                  ]
+            },
+            {
+                  "name": "Mosque Afif",
+                  "text": "Egy történelmi mecset az UNESCO világörökségi listáján szereplő Al-Baleed régészeti park területén, az ősi tömjénkikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.123133,
+                        17.004941
+                  ]
+            },
+            {
+                  "name": "Anantara Spa",
+                  "text": "Luxus wellness-központ Salalah régészeti ásatásainak közvetlen szomszédságában, amely hagyományos kezeléseket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        54.143767,
+                        17.008228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Baleed",
+                  "text": "Ruinele vechiului oraș portuar medieval Zafar, un centru istoric al comerțului cu tămâie.",
+                  "category": "historical",
+                  "coords": [
+                        54.134544,
+                        17.006669
+                  ]
+            },
+            {
+                  "name": "Al Balid",
+                  "text": "Rămășițele zidurilor și clădirilor din piatră și cărămizi de lut ale unui oraș maritim odinioară înfloritor.",
+                  "category": "historical",
+                  "coords": [
+                        54.133308,
+                        17.005516
+                  ]
+            },
+            {
+                  "name": "Al Baleed Mosque",
+                  "text": "Ruinele unei moschei monumentale, cu numeroase coloane de piatră conservate.",
+                  "category": "historical",
+                  "coords": [
+                        54.130572,
+                        17.005995
+                  ]
+            },
+            {
+                  "name": "Khawr Al Balid Reserve",
+                  "text": "O lagună cu apă salmastră situată lângă ruine, care este un habitat important pentru păsările migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        54.135858,
+                        17.007256
+                  ]
+            },
+            {
+                  "name": "Museum of the Frankincence Land",
+                  "text": "Acest muzeu documentează istoria maritimă a Omanului și comerțul antic cu rășină de tămâie.",
+                  "category": "museum",
+                  "coords": [
+                        54.136086,
+                        17.00944
+                  ]
+            },
+            {
+                  "name": "Al Hafah Beach",
+                  "text": "O plajă cu nisip alb, mărginită de cocosieri și tarabe tradiționale de tămâie.",
+                  "category": "recreational",
+                  "coords": [
+                        54.150141,
+                        17.006933
+                  ]
+            },
+            {
+                  "name": "Masjid Afif",
+                  "text": "O moschee locală lângă zona portuară, construită în stilul tipic Dhofari.",
+                  "category": "landmark",
+                  "coords": [
+                        54.117913,
+                        17.010822
+                  ]
+            },
+            {
+                  "name": "Mosque Afif",
+                  "text": "O moschee istorică situată în incinta Parcului Arheologic Al-Baleed, protejat de UNESCO, lângă ruinele anticului port de tămâie.",
+                  "category": "landmark",
+                  "coords": [
+                        54.123133,
+                        17.004941
+                  ]
+            },
+            {
+                  "name": "Anantara Spa",
+                  "text": "Un centru de wellness de lux care oferă tratamente tradiționale în imediata apropiere a sitului arheologic din Salalah.",
+                  "category": "recreational",
+                  "coords": [
+                        54.143767,
+                        17.008228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Baleed",
+                  "text": "The ruins of the ancient medieval port city of Zafar, a historic center of the frankincense trade.",
+                  "category": "historical",
+                  "coords": [
+                        54.134544,
+                        17.006669
+                  ]
+            },
+            {
+                  "name": "Al Balid",
+                  "text": "Remains of stone and mud-brick walls and buildings from a once-flourishing maritime city.",
+                  "category": "historical",
+                  "coords": [
+                        54.133308,
+                        17.005516
+                  ]
+            },
+            {
+                  "name": "Al Baleed Mosque",
+                  "text": "The ruins of a monumental mosque featuring numerous preserved stone columns.",
+                  "category": "historical",
+                  "coords": [
+                        54.130572,
+                        17.005995
+                  ]
+            },
+            {
+                  "name": "Khawr Al Balid Reserve",
+                  "text": "A brackish lagoon by the ruins that serves as an important habitat for migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        54.135858,
+                        17.007256
+                  ]
+            },
+            {
+                  "name": "Museum of the Frankincense Land",
+                  "text": "This museum documents Oman's maritime history and the ancient trade of frankincense resin.",
+                  "category": "museum",
+                  "coords": [
+                        54.136086,
+                        17.00944
+                  ]
+            },
+            {
+                  "name": "Al Hafah Beach",
+                  "text": "A white sandy beach lined with coconut palms and traditional frankincense vending stalls.",
+                  "category": "recreational",
+                  "coords": [
+                        54.150141,
+                        17.006933
+                  ]
+            },
+            {
+                  "name": "Masjid Afif",
+                  "text": "A local mosque near the port area, built in the typical Dhofari architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        54.117913,
+                        17.010822
+                  ]
+            },
+            {
+                  "name": "Mosque Afif",
+                  "text": "A historic mosque situated within the UNESCO-listed Al-Baleed Archaeological Park, near the ruins of the ancient incense port.",
+                  "category": "landmark",
+                  "coords": [
+                        54.123133,
+                        17.004941
+                  ]
+            },
+            {
+                  "name": "Anantara Spa",
+                  "text": "A luxury wellness sanctuary offering traditional treatments in close proximity to the archaeological excavations of Salalah.",
+                  "category": "recreational",
+                  "coords": [
+                        54.143767,
+                        17.008228
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-DH",
     coords: [54.1370, 17.0058],
@@ -223,7 +907,124 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "jibreen-castle-history-v2",
+    id: "jibreen-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salut",
+                  "text": "Eine bedeutende archäologische Stätte aus der Eisenzeit mit einem befestigten Plateau im Zentrum.",
+                  "category": "historical",
+                  "coords": [
+                        57.2,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fuhulat al Jizwah",
+                  "text": "Ein felsiger Berggipfel, der weite Ausblicke über die Ebenen der Dakhiliyah-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        57.23,
+                        22.97
+                  ]
+            },
+            {
+                  "name": "Jabrin Castle",
+                  "text": "Ein eleganter Palastbau aus dem 17. Jahrhundert, berühmt für seine prachtvoll bemalten Holzdecken.",
+                  "category": "castle",
+                  "coords": [
+                        57.249148,
+                        22.915216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salut",
+                  "text": "Jelentős vaskori régészeti lelőhely, amelynek központjában egy erődített fennsík található.",
+                  "category": "historical",
+                  "coords": [
+                        57.2,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fuhulat al Jizwah",
+                  "text": "Sziklás hegycsúcs, amely széles kilátást nyújt a Dahilija régió síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        57.23,
+                        22.97
+                  ]
+            },
+            {
+                  "name": "Jabrin Castle",
+                  "text": "Elegáns 17. századi palotaerőd, amely pompásan festett fafödémeiről híres.",
+                  "category": "castle",
+                  "coords": [
+                        57.249148,
+                        22.915216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salut",
+                  "text": "Un sit arheologic important din epoca fierului, cu un platou fortificat în centru.",
+                  "category": "historical",
+                  "coords": [
+                        57.2,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fuhulat al Jizwah",
+                  "text": "Un vârf de munte stâncos care oferă vederi largi asupra câmpiilor din regiunea Dakhiliyah.",
+                  "category": "natural",
+                  "coords": [
+                        57.23,
+                        22.97
+                  ]
+            },
+            {
+                  "name": "Jabrin Castle",
+                  "text": "O fortăreață-palat elegantă din secolul al XVII-lea, celebră pentru tavanele sale din lemn pictate superb.",
+                  "category": "castle",
+                  "coords": [
+                        57.249148,
+                        22.915216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salut",
+                  "text": "A significant Iron Age archaeological site featuring a fortified plateau at its center.",
+                  "category": "historical",
+                  "coords": [
+                        57.2,
+                        22.85
+                  ]
+            },
+            {
+                  "name": "Fuhulat al Jizwah",
+                  "text": "A rocky mountain summit offering wide views over the plains of the Dakhiliyah region.",
+                  "category": "natural",
+                  "coords": [
+                        57.23,
+                        22.97
+                  ]
+            },
+            {
+                  "name": "Jabrin Castle",
+                  "text": "An elegant 17th-century palace-fortress famous for its magnificently painted wooden ceilings.",
+                  "category": "castle",
+                  "coords": [
+                        57.249148,
+                        22.915216
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-DA",
     coords: [57.2483, 22.9150],
@@ -311,7 +1112,268 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "al-rustaq-fort-history-v2",
+    id: "al-rustaq-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khashub Fort",
+                  "text": "Eine beeindruckende Verteidigungsanlage aus Stein, die zum historischen Festungskomplex von Rustaq gehört.",
+                  "category": "castle",
+                  "coords": [
+                        57.430144,
+                        23.417482
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Natürliche Thermalquelle nahe Rustaq, bekannt für ihr warmes, mineralreiches Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        57.411535,
+                        23.393151
+                  ]
+            },
+            {
+                  "name": "Fort Qalat al-Kesra",
+                  "text": "Ein alter Wachturm und Festungsruine, die strategisch günstig über der Altstadt von Rustaq thront.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426258,
+                        23.391779
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Die größte Moschee in Rustaq, ein modernes architektonisches Wahrzeichen mit feinen islamischen Verzierungen.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426224,
+                        23.432869
+                  ]
+            },
+            {
+                  "name": "Nada Al Rustaq sale of food stuff",
+                  "text": "Ein geschäftiger Marktplatz in Rustaq, auf dem frische lokale Lebensmittel und Datteln verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        57.433028,
+                        23.448105
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "Ein traditioneller omanischer Souq, der für seine handgefertigten Silberdolche und Töpferwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        57.423027,
+                        23.394907
+                  ]
+            },
+            {
+                  "name": "Thermal Springs Saighi",
+                  "text": "Thermalquellen bei Saighi, deren heißes Wasser in schattige Kanäle unter Palmen fließt.",
+                  "category": "natural",
+                  "coords": [
+                        57.429594,
+                        23.387728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khashub Fort",
+                  "text": "Rustaq történelmi erődrendszeréhez tartozó, kőből épült lenyűgöző védmű.",
+                  "category": "castle",
+                  "coords": [
+                        57.430144,
+                        23.417482
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Természetes hévízforrás Rustaq közelében, amely meleg, ásványi anyagokban gazdag vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        57.411535,
+                        23.393151
+                  ]
+            },
+            {
+                  "name": "Fort Qalat al-Kesra",
+                  "text": "Ősi őrtorony és erődrom, amely stratégiai ponton, Rustaq óvárosa fölött magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426258,
+                        23.391779
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Rustaq legnagyobb mecsetje, modern építészeti remekmű finom iszlám díszítésekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426224,
+                        23.432869
+                  ]
+            },
+            {
+                  "name": "Nada Al Rustaq sale of food stuff",
+                  "text": "Nyüzsgő piactér Rustaqban, ahol friss helyi élelmiszereket és datolyát árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        57.433028,
+                        23.448105
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "Hagyományos ománi szuk, amely kézzel készített ezüst tőreiről és kerámiáiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        57.423027,
+                        23.394907
+                  ]
+            },
+            {
+                  "name": "Thermal Springs Saighi",
+                  "text": "Saighi hévízforrásai, melyek forró vize pálmák alatti árnyas csatornákba folyik.",
+                  "category": "natural",
+                  "coords": [
+                        57.429594,
+                        23.387728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khashub Fort",
+                  "text": "O structură defensivă impresionantă din piatră, parte a complexului istoric de fortificații din Rustaq.",
+                  "category": "castle",
+                  "coords": [
+                        57.430144,
+                        23.417482
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Izvor termal natural lângă Rustaq, cunoscut pentru apele sale calde și bogate în minerale.",
+                  "category": "landmark",
+                  "coords": [
+                        57.411535,
+                        23.393151
+                  ]
+            },
+            {
+                  "name": "Fort Qalat al-Kesra",
+                  "text": "Un vechi turn de veghe și ruină de fortăreață, cocoțată strategic deasupra orașului vechi Rustaq.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426258,
+                        23.391779
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Cea mai mare moschee din Rustaq, un punct de reper arhitectural modern cu decorațiuni islamice fine.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426224,
+                        23.432869
+                  ]
+            },
+            {
+                  "name": "Nada Al Rustaq sale of food stuff",
+                  "text": "O piață aglomerată din Rustaq, unde se vând alimente locale proaspete și curmale.",
+                  "category": "cultural",
+                  "coords": [
+                        57.433028,
+                        23.448105
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "Un souq tradițional omanez, renumit pentru pumnalele de argint lucrate manual și ceramică.",
+                  "category": "cultural",
+                  "coords": [
+                        57.423027,
+                        23.394907
+                  ]
+            },
+            {
+                  "name": "Thermal Springs Saighi",
+                  "text": "Izvoare termale la Saighi, ale căror ape fierbinți curg în canale umbrite sub palmieri.",
+                  "category": "natural",
+                  "coords": [
+                        57.429594,
+                        23.387728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khashub Fort",
+                  "text": "An impressive stone defensive structure part of Rustaq's historical fortification complex.",
+                  "category": "castle",
+                  "coords": [
+                        57.430144,
+                        23.417482
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Natural thermal spring near Rustaq, known for its warm, mineral-rich waters.",
+                  "category": "landmark",
+                  "coords": [
+                        57.411535,
+                        23.393151
+                  ]
+            },
+            {
+                  "name": "Fort Qalat al-Kesra",
+                  "text": "An ancient watchtower and fort ruin perched strategically above the old town of Rustaq.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426258,
+                        23.391779
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "The largest mosque in Rustaq, a modern architectural landmark with fine Islamic decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        57.426224,
+                        23.432869
+                  ]
+            },
+            {
+                  "name": "Nada Al Rustaq sale of food stuff",
+                  "text": "A bustling marketplace in Rustaq selling fresh local food products and dates.",
+                  "category": "cultural",
+                  "coords": [
+                        57.433028,
+                        23.448105
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "A traditional Omani souq famous for its handcrafted silver daggers and pottery.",
+                  "category": "cultural",
+                  "coords": [
+                        57.423027,
+                        23.394907
+                  ]
+            },
+            {
+                  "name": "Thermal Springs Saighi",
+                  "text": "Thermal springs at Saighi, with hot water flowing into shaded channels under palm trees.",
+                  "category": "natural",
+                  "coords": [
+                        57.429594,
+                        23.387728
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-BJ",
     coords: [57.3986, 23.3911],
@@ -355,7 +1417,52 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "al-jalali-fort-history-v2",
+    id: "al-jalali-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Jalali Fort",
+                  "text": "Diese im 16. Jahrhundert von den Portugiesen errichtete Festung thront auf einem Felsen über dem Hafen von Muscat.",
+                  "category": "fortress",
+                  "coords": [
+                        58.597682,
+                        23.616648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Jalali Fort",
+                  "text": "Ez a 16. században a portugálok által épített erőd egy sziklán trónol a muscati kikötő felett.",
+                  "category": "fortress",
+                  "coords": [
+                        58.597682,
+                        23.616648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Jalali Fort",
+                  "text": "Această fortăreață construită de portughezi în secolul al XVI-lea domină portul Muscat de pe o stâncă.",
+                  "category": "fortress",
+                  "coords": [
+                        58.597682,
+                        23.616648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Jalali Fort",
+                  "text": "Built by the Portuguese in the 16th century, this fort sits on a rocky outcrop overlooking Muscat harbor.",
+                  "category": "fortress",
+                  "coords": [
+                        58.597682,
+                        23.616648
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-MA",
     coords: [58.5986, 23.6169],
@@ -399,7 +1506,52 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "al-mirani-fort-history-v2",
+    id: "al-mirani-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Al-Mirani",
+                  "text": "Ein im 16. Jahrhundert von den Portugiesen erbautes Fort mit Blick auf den Hafen der Altstadt von Maskat.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593416,
+                        23.617267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Al-Mirani",
+                  "text": "Egy 16. századi, portugálok által épített erőd, amely a régi Maszkat kikötőjére néz.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593416,
+                        23.617267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Al-Mirani",
+                  "text": "Un fort din secolul al XVI-lea construit de portughezi, cu vedere la portul orașului vechi Muscat.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593416,
+                        23.617267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Al-Mirani",
+                  "text": "A 16th-century fort built by the Portuguese overlooking the harbor of Old Muscat.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593416,
+                        23.617267
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-MA",
     coords: [58.5936, 23.6175],
@@ -443,7 +1595,124 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "muttrah-fort-history-v2",
+    id: "muttrah-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "Eine Galerie, die traditionelles omanisches Kunsthandwerk und modernes kulturelles Erbe ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "Mutrah Fort",
+                  "text": "Eine portugiesische Festung aus dem 16. Jahrhundert, die den Hafen von Matrah bewacht.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567117,
+                        23.620483
+                  ]
+            },
+            {
+                  "name": "Place & People Museum",
+                  "text": "Ein ethnographisches Museum in einem restaurierten traditionellen Haus nahe der Corniche.",
+                  "category": "museum",
+                  "coords": [
+                        58.568212,
+                        23.620334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "Galéria, amely hagyományos ománi kézműves termékeket és modern kulturális örökséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "Mutrah Fort",
+                  "text": "16. századi portugál erőd, amely a muttrahi kikötőt őrzi.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567117,
+                        23.620483
+                  ]
+            },
+            {
+                  "name": "Place & People Museum",
+                  "text": "Néprajzi múzeum egy felújított hagyományos házban, a Corniche közelében.",
+                  "category": "museum",
+                  "coords": [
+                        58.568212,
+                        23.620334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "O galerie care expune meșteșuguri tradiționale omane și moștenire culturală modernă.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "Mutrah Fort",
+                  "text": "O fortăreață portugheză din secolul al XVI-lea care străjuiește portul Muttrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567117,
+                        23.620483
+                  ]
+            },
+            {
+                  "name": "Place & People Museum",
+                  "text": "Un muzeu etnografic situat într-o casă tradițională restaurată, lângă Corniche.",
+                  "category": "museum",
+                  "coords": [
+                        58.568212,
+                        23.620334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "A gallery exhibiting traditional Omani handicrafts and modern cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "Mutrah Fort",
+                  "text": "A 16th-century Portuguese fortress standing guard over the harbor of Muttrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567117,
+                        23.620483
+                  ]
+            },
+            {
+                  "name": "Place & People Museum",
+                  "text": "An ethnographic museum located in a restored traditional house near the Corniche.",
+                  "category": "museum",
+                  "coords": [
+                        58.568212,
+                        23.620334
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-MA",
     coords: [58.5661, 23.6214],
@@ -487,7 +1756,52 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "ancient-city-of-qalhat-history-v2",
+    id: "ancient-city-of-qalhat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Friday Mosque",
+                  "text": "Die Ruinen der Freitagsmoschee zeugen von der islamischen Geschichte der antiken Stadt Qalhat.",
+                  "category": "historical",
+                  "coords": [
+                        59.378106,
+                        22.695131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Friday Mosque",
+                  "text": "A pénteki mecset romjai Qalhat ősi városának iszlám történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        59.378106,
+                        22.695131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Friday Mosque",
+                  "text": "Ruinele Moscheii de Vineri stau mărturie a istoriei islamice a orașului antic Qalhat.",
+                  "category": "historical",
+                  "coords": [
+                        59.378106,
+                        22.695131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Friday Mosque",
+                  "text": "The ruins of the Friday Mosque bear witness to the Islamic history of the ancient city of Qalhat.",
+                  "category": "historical",
+                  "coords": [
+                        59.378106,
+                        22.695131
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "OM-SJ",
     coords: [59.3736, 22.6975],
@@ -531,7 +1845,124 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "tomb-of-bibi-maryam-history-v2",
+    id: "tomb-of-bibi-maryam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Kibdiyah",
+                  "text": "Ein markanter Berggipfel, der die archäologische Stätte der antiken Stadt Qalhat an der Küste überragt.",
+                  "category": "natural",
+                  "coords": [
+                        59.3,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "Old Qalhat (archeological site)",
+                  "text": "Die Überreste einer einst blühenden mittelalterlichen Hafenstadt, die ein wichtiges Zentrum für den Handel im Indischen Ozean war.",
+                  "category": "landmark",
+                  "coords": [
+                        59.37437,
+                        22.694304
+                  ]
+            },
+            {
+                  "name": "Ancient City of Qalhat",
+                  "text": "Ein UNESCO-Weltkulturerbe mit den Ruinen einer bedeutenden Stadt des 13. Jahrhunderts, die schon Marco Polo erwähnte.",
+                  "category": "historical",
+                  "coords": [
+                        59.376491,
+                        22.694745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Kibdiyah",
+                  "text": "Jellegzetes hegycsúcs, amely az ősi Qalhat városának tengerparti régészeti lelőhelye fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        59.3,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "Old Qalhat (archeological site)",
+                  "text": "Egy egykor virágzó középkori kikötőváros maradványai, amely az Indiai-óceáni kereskedelem fontos központja volt.",
+                  "category": "landmark",
+                  "coords": [
+                        59.37437,
+                        22.694304
+                  ]
+            },
+            {
+                  "name": "Ancient City of Qalhat",
+                  "text": "Az UNESCO Világörökség része, amely egy 13. századi jelentős város romjait őrzi, melyet egykor Marco Polo is megemlített.",
+                  "category": "historical",
+                  "coords": [
+                        59.376491,
+                        22.694745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Kibdiyah",
+                  "text": "Un vârf muntos proeminent care domină situl arheologic al orașului antic Qalhat de pe coastă.",
+                  "category": "natural",
+                  "coords": [
+                        59.3,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "Old Qalhat (archeological site)",
+                  "text": "Rămășițele unui oraș portuar medieval înfloritor odinioară, care a fost un centru important pentru comerțul în Oceanul Indian.",
+                  "category": "landmark",
+                  "coords": [
+                        59.37437,
+                        22.694304
+                  ]
+            },
+            {
+                  "name": "Ancient City of Qalhat",
+                  "text": "Un sit UNESCO care cuprinde ruinele unui oraș important din secolul al XIII-lea, menționat în scrierile lui Marco Polo.",
+                  "category": "historical",
+                  "coords": [
+                        59.376491,
+                        22.694745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Kibdiyah",
+                  "text": "A prominent mountain peak overlooking the archaeological site of the ancient city of Qalhat on the coast.",
+                  "category": "natural",
+                  "coords": [
+                        59.3,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "Old Qalhat (archeological site)",
+                  "text": "The remains of a once-thriving medieval port city that served as a major hub for Indian Ocean trade.",
+                  "category": "landmark",
+                  "coords": [
+                        59.37437,
+                        22.694304
+                  ]
+            },
+            {
+                  "name": "Ancient City of Qalhat",
+                  "text": "A UNESCO World Heritage site featuring the ruins of a significant 13th-century city mentioned by Marco Polo.",
+                  "category": "historical",
+                  "coords": [
+                        59.376491,
+                        22.694745
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "OM-SJ",
     coords: [59.3734, 22.6972],
@@ -575,7 +2006,88 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "ubar-shisr-history-v2",
+    id: "ubar-shisr-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camel farm",
+                  "text": "Ein Bauernhof in der Nähe von Shisr, der die traditionelle Kamelzucht der Region Dhofar präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        53.646648,
+                        18.178109
+                  ]
+            },
+            {
+                  "name": "Ubar",
+                  "text": "Die als „Atlantis der Wüste“ bekannte archäologische Stätte war einst ein Zentrum des Weihrauchhandels.",
+                  "category": "historical",
+                  "coords": [
+                        53.648896,
+                        18.255518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camel farm",
+                  "text": "Egy Shisr közeli gazdaság, amely a dofári régió hagyományos tevetenyésztését mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        53.646648,
+                        18.178109
+                  ]
+            },
+            {
+                  "name": "Ubar",
+                  "text": "A „sivatag Atlantiszaként” ismert régészeti lelőhely egykor a tömjénkereskedelem központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        53.648896,
+                        18.255518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camel farm",
+                  "text": "O fermă lângă Shisr care prezintă creșterea tradițională a cămilelor din regiunea Dhofar.",
+                  "category": "landmark",
+                  "coords": [
+                        53.646648,
+                        18.178109
+                  ]
+            },
+            {
+                  "name": "Ubar",
+                  "text": "Situl arheologic cunoscut sub numele de „Atlantida deșertului” a fost cândva un centru al comerțului cu tămâie.",
+                  "category": "historical",
+                  "coords": [
+                        53.648896,
+                        18.255518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camel farm",
+                  "text": "A farm near Shisr that showcases the traditional camel breeding of the Dhofar region.",
+                  "category": "landmark",
+                  "coords": [
+                        53.646648,
+                        18.178109
+                  ]
+            },
+            {
+                  "name": "Ubar",
+                  "text": "The archaeological site known as the 'Atlantis of the Sands' was once a major center of the frankincense trade.",
+                  "category": "historical",
+                  "coords": [
+                        53.648896,
+                        18.255518
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "OM-DH",
     coords: [53.6492, 18.2558],
@@ -619,7 +2131,88 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "al-hazm-castle-history-v2",
+    id: "al-hazm-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almamora",
+                  "text": "Ein erhöhter Punkt mit Panorama-Aussicht auf die umliegende Oasenlandschaft von Al-Hazm.",
+                  "category": "natural",
+                  "coords": [
+                        57.329334,
+                        23.532601
+                  ]
+            },
+            {
+                  "name": "Jamea’ Alhoqain",
+                  "text": "Die Hauptmoschee von Al-Hawqayn, bekannt für ihr klassisches Minarett und die friedliche Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.329177,
+                        23.530932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almamora",
+                  "text": "Magaslati pont panorámás kilátással Al-Hazm környező oázisvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        57.329334,
+                        23.532601
+                  ]
+            },
+            {
+                  "name": "Jamea’ Alhoqain",
+                  "text": "Al-Haukain főmecsetje, amely klasszikus minaretjéről és békés hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        57.329177,
+                        23.530932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almamora",
+                  "text": "Un punct înalt cu vedere panoramică asupra peisajului oazei înconjurătoare din Al-Hazm.",
+                  "category": "natural",
+                  "coords": [
+                        57.329334,
+                        23.532601
+                  ]
+            },
+            {
+                  "name": "Jamea’ Alhoqain",
+                  "text": "Moscheea principală din Al-Hawqayn, cunoscută pentru minaretul său clasic și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        57.329177,
+                        23.530932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almamora",
+                  "text": "An elevated spot providing panoramic views of the surrounding Al-Hazm oasis landscape.",
+                  "category": "natural",
+                  "coords": [
+                        57.329334,
+                        23.532601
+                  ]
+            },
+            {
+                  "name": "Jamea’ Alhoqain",
+                  "text": "The main mosque of Al-Hawqayn, known for its classic minaret and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.329177,
+                        23.530932
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-BJ",
     coords: [57.3242, 23.5303],
@@ -663,7 +2256,88 @@ export const poiExtraOmanHistoryV2: POI[] = [
     },
   },
   {
-    id: "hasik-archaeological-site-history-v2",
+    id: "hasik-archaeological-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruined houses",
+                  "text": "Die Überreste traditioneller Steinhäuser im Fischerdorf Hasik, die Zeugnis von der historischen Küstenarchitektur ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        55.295461,
+                        17.398618
+                  ]
+            },
+            {
+                  "name": "Old Hasik",
+                  "text": "Diese archäologische Stätte bewahrt die Überreste einer historischen Siedlung an der zerklüfteten Küste von Hasik.",
+                  "category": "historical",
+                  "coords": [
+                        55.270888,
+                        17.447226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruined houses",
+                  "text": "Hagyományos kőházak maradványai Hasik halászfalujában, amelyek a történelmi tengerparti építészetről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        55.295461,
+                        17.398618
+                  ]
+            },
+            {
+                  "name": "Old Hasik",
+                  "text": "Ez a régészeti lelőhely egy történelmi település maradványait őrzi Hasik sziklás partvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        55.270888,
+                        17.447226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruined houses",
+                  "text": "Rămășițele unor case tradiționale din piatră în satul de pescari Hasik, care depun mărturie despre arhitectura istorică de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        55.295461,
+                        17.398618
+                  ]
+            },
+            {
+                  "name": "Old Hasik",
+                  "text": "Acest sit arheologic păstrează vestigiile unei așezări istorice pe coasta stâncoasă a localității Hasik.",
+                  "category": "historical",
+                  "coords": [
+                        55.270888,
+                        17.447226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruined houses",
+                  "text": "The remains of traditional stone houses in the fishing village of Hasik, bearing witness to historical coastal architecture.",
+                  "category": "historical",
+                  "coords": [
+                        55.295461,
+                        17.398618
+                  ]
+            },
+            {
+                  "name": "Old Hasik",
+                  "text": "This archaeological site preserves the remains of a historical settlement on the rugged coast of Hasik.",
+                  "category": "historical",
+                  "coords": [
+                        55.270888,
+                        17.447226
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "OM-DH",
     coords: [55.2750, 17.4472],
@@ -707,7 +2381,232 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "taqah-castle-history-v2",
+    id: "taqah-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taqah Castle",
+                  "text": "Das im 19. Jahrhundert als Residenz eines Stammesführers erbaute Gebäude verfügt über restaurierte Räume, die den traditionellen omanischen Lebensstil darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.394963,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "Taqah Fort",
+                  "text": "Mit dicken Kalksteinmauern erbaut, schützte dieser Verteidigungsposten die Küstenstadt ursprünglich vor Seeinvasionen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.395348,
+                        17.038991
+                  ]
+            },
+            {
+                  "name": "Khawr Taqah Reserve",
+                  "text": "Dieser geschützte Bach grenzt an die historische Stadt und bietet Pelikanen und Reihern einen Futterplatz.",
+                  "category": "natural",
+                  "coords": [
+                        54.370498,
+                        17.036754
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Ein kleiner islamischer Gebetsraum mit weiß getünchten Wänden, der sich in der Nähe des Hauptschlosses befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        54.40405,
+                        17.037317
+                  ]
+            },
+            {
+                  "name": "Al Anwaar Mosque",
+                  "text": "Dieses aktive Gemeindezentrum für Gebete zeichnet sich durch ein kurzes, stabiles Minarett aus, das die Wohnviertel überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.390398,
+                        17.045056
+                  ]
+            },
+            {
+                  "name": "Mosque Sheikha Salma Mashani",
+                  "text": "Dieses religiöse Gebäude, das einer bekannten lokalen Persönlichkeit gewidmet ist, bietet ein ruhiges Heiligtum abseits der Haupttouristenpfade.",
+                  "category": "landmark",
+                  "coords": [
+                        54.388073,
+                        17.040091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taqah Castle",
+                  "text": "A 19. században egy törzsi vezető rezidenciájaként épült épület felújított szobái a hagyományos ománi életmódot mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        54.394963,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "Taqah Fort",
+                  "text": "A vastag mészkőfalakkal épült védelmi előőrs eredetileg a parti várost védte a tengeri támadásoktól.",
+                  "category": "landmark",
+                  "coords": [
+                        54.395348,
+                        17.038991
+                  ]
+            },
+            {
+                  "name": "Khawr Taqah Reserve",
+                  "text": "A történelmi falu szomszédságában található védett patak táplálkozóhelyet biztosít a pelikánok és gémek számára.",
+                  "category": "natural",
+                  "coords": [
+                        54.370498,
+                        17.036754
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Egy kisebb méretű, fehérre meszelt falú iszlám imaház, amely kényelmesen közel van a fő kastély területéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        54.40405,
+                        17.037317
+                  ]
+            },
+            {
+                  "name": "Al Anwaar Mosque",
+                  "text": "Ezt az aktív közösségi imahelyet egy rövid, masszív minaret különbözteti meg, amely a lakóövezeti sikátorokra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        54.390398,
+                        17.045056
+                  ]
+            },
+            {
+                  "name": "Mosque Sheikha Salma Mashani",
+                  "text": "Az egy jelentős helyi személyiségnek szentelt vallási épület csendes menedéket nyújt a főbb turistautaktól távol.",
+                  "category": "landmark",
+                  "coords": [
+                        54.388073,
+                        17.040091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taqah Castle",
+                  "text": "Construită în secolul al XIX-lea ca reședință a unui lider tribal, structura prezintă camere restaurate care ilustrează stilul de viață tradițional din Oman.",
+                  "category": "landmark",
+                  "coords": [
+                        54.394963,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "Taqah Fort",
+                  "text": "Construit cu ziduri groase de calcar, acest avanpost defensiv a apărat inițial orașul de coastă împotriva invaziilor maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        54.395348,
+                        17.038991
+                  ]
+            },
+            {
+                  "name": "Khawr Taqah Reserve",
+                  "text": "Situat adiacent orașului istoric, acest pârâu protejat oferă un loc de hrănire pentru pelicani și stârci.",
+                  "category": "natural",
+                  "coords": [
+                        54.370498,
+                        17.036754
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Un spațiu de rugăciune islamic la scară mică, cu pereți văruiți în alb, situat convenabil în apropierea castelului principal.",
+                  "category": "landmark",
+                  "coords": [
+                        54.40405,
+                        17.037317
+                  ]
+            },
+            {
+                  "name": "Al Anwaar Mosque",
+                  "text": "Acest lăcaș de cult comunitar activ se distinge printr-un minaret scurt și robust cu vedere spre aleile rezidențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        54.390398,
+                        17.045056
+                  ]
+            },
+            {
+                  "name": "Mosque Sheikha Salma Mashani",
+                  "text": "Dedicată unei personalități locale notabile, această clădire religioasă oferă un sanctuar liniștit departe de principalele trasee turistice.",
+                  "category": "landmark",
+                  "coords": [
+                        54.388073,
+                        17.040091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taqah Castle",
+                  "text": "Built in the 19th century as a tribal leader's residence, the structure features restored rooms depicting traditional Omani lifestyle.",
+                  "category": "landmark",
+                  "coords": [
+                        54.394963,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "Taqah Fort",
+                  "text": "Constructed with thick limestone walls, this defensive outpost originally guarded the coastal town against sea invasions.",
+                  "category": "landmark",
+                  "coords": [
+                        54.395348,
+                        17.038991
+                  ]
+            },
+            {
+                  "name": "Khawr Taqah Reserve",
+                  "text": "Located adjacent to the historic town, this protected creek provides a feeding ground for pelicans and herons.",
+                  "category": "natural",
+                  "coords": [
+                        54.370498,
+                        17.036754
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "A small-scale Islamic prayer space with whitewashed walls, situated conveniently close to the main castle grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        54.40405,
+                        17.037317
+                  ]
+            },
+            {
+                  "name": "Al Anwaar Mosque",
+                  "text": "This active community place of worship is distinguished by a short, sturdy minaret overlooking the residential alleys.",
+                  "category": "landmark",
+                  "coords": [
+                        54.390398,
+                        17.045056
+                  ]
+            },
+            {
+                  "name": "Mosque Sheikha Salma Mashani",
+                  "text": "Dedicated to a notable local figure, this religious building provides a quiet sanctuary away from the main tourist paths.",
+                  "category": "landmark",
+                  "coords": [
+                        54.388073,
+                        17.040091
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-DH",
     coords: [54.3989, 17.0381],
@@ -751,7 +2650,340 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "mirbat-fort-history-v2",
+    id: "mirbat-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Historische Artilleriegeschütze, die am Eingang der Festung von Mirbat ausgestellt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            },
+            {
+                  "name": "Mirbat Fort",
+                  "text": "Diese Küstenfestung aus Lehmziegeln ist ein klassisches Beispiel für die traditionelle Architektur der Dhofar-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        54.695658,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Jabal Sirawtam",
+                  "text": "Ein markanter Berggipfel im Dhofar-Gebirge, der die Küstenebene bei Mirbat überragt.",
+                  "category": "natural",
+                  "coords": [
+                        54.67,
+                        17.08
+                  ]
+            },
+            {
+                  "name": "Gravity point Enroute Mirbat",
+                  "text": "Ein natürliches Phänomen auf dem Weg nach Mirbat, bei dem Fahrzeuge scheinbar bergauf rollen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.612976,
+                        17.039147
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Das weiß getünchte Grabmal von Mohamed bin Ali aus dem 11. Jahrhundert ist eine bedeutende Pilgerstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Staffhouse",
+                  "text": "Ein historisches Wohngebäude, das einst für das Personal der britischen Kolonialverwaltung oder des Hafens diente.",
+                  "category": "landmark",
+                  "coords": [
+                        54.715152,
+                        16.996066
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Ein alter Wachturm aus Stein, der früher Teil des Verteidigungssystems von Mirbat war.",
+                  "category": "landmark",
+                  "coords": [
+                        54.692157,
+                        16.975968
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Ein malerischer Küstenabschnitt mit weißem Sand, an dem oft traditionelle Dhaus im Hafen liegen.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689937,
+                        16.995733
+                  ]
+            },
+            {
+                  "name": "Qarat Bin Ali",
+                  "text": "Eine heilige islamische Stätte in der Nähe des markanten weißen Grabmals von Bin Ali in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690703,
+                        17.00426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "A mirbati erőd bejáratánál kiállított történelmi tüzérségi ágyúk.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            },
+            {
+                  "name": "Mirbat Fort",
+                  "text": "Agyagtéglából épült tengerparti erőd, amely a Dhofar-régió hagyományos építészetének klasszikus példája.",
+                  "category": "landmark",
+                  "coords": [
+                        54.695658,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Jabal Sirawtam",
+                  "text": "A Dhofar-hegység kiemelkedő csúcsa, amely a Mirbat melletti parti síkság fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        54.67,
+                        17.08
+                  ]
+            },
+            {
+                  "name": "Gravity point Enroute Mirbat",
+                  "text": "Mirbat felé vezető úton tapasztalható természeti jelenség, ahol a járművek látszólag felfelé gurulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        54.612976,
+                        17.039147
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Mohamed bin Ali 11. századi fehér kupolás síremléke fontos zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Staffhouse",
+                  "text": "Történelmi lakóépület, amely egykor a gyarmati vagy kikötői személyzetnek adott otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        54.715152,
+                        16.996066
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Régi kőből épült őrtorony, amely korábban Mirbat védelmi rendszerének része volt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.692157,
+                        16.975968
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Gleccserfehér homokos tengerpart, ahol gyakran láthatók hagyományos dhow hajók a kikötőben.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689937,
+                        16.995733
+                  ]
+            },
+            {
+                  "name": "Qarat Bin Ali",
+                  "text": "Szent iszlám hely Mirbatban, a jellegzetes fehér kupolás Bin Ali síremlék közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690703,
+                        17.00426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Piese de artilerie istorică expuse la intrarea în fortăreața din Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            },
+            {
+                  "name": "Mirbat Fort",
+                  "text": "Această fortăreață de coastă din cărămizi de lut este un exemplu clasic de arhitectură tradițională din regiunea Dhofar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.695658,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Jabal Sirawtam",
+                  "text": "Un vârf muntos proeminent din lanțul Dhofar, care domină câmpia de coastă de lângă Mirbat.",
+                  "category": "natural",
+                  "coords": [
+                        54.67,
+                        17.08
+                  ]
+            },
+            {
+                  "name": "Gravity point Enroute Mirbat",
+                  "text": "Un fenomen natural pe drumul spre Mirbat, unde vehiculele par să ruleze la deal împotriva gravitației.",
+                  "category": "landmark",
+                  "coords": [
+                        54.612976,
+                        17.039147
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Mormântul cu cupolă albă al lui Mohamed bin Ali, datând din secolul al XI-lea, este un important loc de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Staffhouse",
+                  "text": "O clădire rezidențială istorică ce a servit odinioară personalului colonial sau portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.715152,
+                        16.996066
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Un vechi turn de veghe din piatră, care făcea parte din sistemul defensiv al orașului Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.692157,
+                        16.975968
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "O porțiune pitorească de coastă cu nisip alb, unde pot fi văzute adesea ambarcațiuni tradiționale dhow în port.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689937,
+                        16.995733
+                  ]
+            },
+            {
+                  "name": "Qarat Bin Ali",
+                  "text": "Un sit islamic sacru situat lângă mormântul distinctiv cu cupolă albă al lui Bin Ali din Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690703,
+                        17.00426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Historic artillery pieces displayed at the entrance of the Mirbat fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            },
+            {
+                  "name": "Mirbat Fort",
+                  "text": "A mud-brick coastal fort that is a classic example of traditional Dhofari architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        54.695658,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Jabal Sirawtam",
+                  "text": "A prominent mountain peak in the Dhofar range overlooking the coastal plain near Mirbat.",
+                  "category": "natural",
+                  "coords": [
+                        54.67,
+                        17.08
+                  ]
+            },
+            {
+                  "name": "Gravity point Enroute Mirbat",
+                  "text": "A natural phenomenon on the road to Mirbat where vehicles appear to roll uphill against gravity.",
+                  "category": "landmark",
+                  "coords": [
+                        54.612976,
+                        17.039147
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "The 11th-century white-domed tomb of Mohamed bin Ali is a significant pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Staffhouse",
+                  "text": "A historic residential building that once served colonial or port staff.",
+                  "category": "landmark",
+                  "coords": [
+                        54.715152,
+                        16.996066
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "An old stone watchtower that was formerly part of Mirbat's defensive system.",
+                  "category": "landmark",
+                  "coords": [
+                        54.692157,
+                        16.975968
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "A scenic stretch of coastline with white sands where traditional dhow ships are often seen in the harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689937,
+                        16.995733
+                  ]
+            },
+            {
+                  "name": "Qarat Bin Ali",
+                  "text": "A sacred Islamic site located near the distinctive white-domed Bin Ali tomb in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690703,
+                        17.00426
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "OM-DH",
     coords: [54.6936, 16.9933],
@@ -795,7 +3027,124 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "sunaysilah-fort-history-v2",
+    id: "sunaysilah-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunaysilah Castle",
+                  "text": "Ein quadratisches Fort aus dem 18. Jahrhundert, das die Stadt Sur überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        59.504046,
+                        22.579402
+                  ]
+            },
+            {
+                  "name": "Al hashar Mosque",
+                  "text": "Eine Moschee in Sur, die traditionelle omanische Architektur mit modernen Elementen verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        59.492779,
+                        22.589828
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables",
+                  "text": "Ein lebhafter traditioneller Souq für frisches Obst und Gemüse in der Küstenstadt Sur.",
+                  "category": "cultural",
+                  "coords": [
+                        59.524367,
+                        22.569278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunaysilah Castle",
+                  "text": "18. századi négyszögletes erőd, amely Szúr városa fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        59.504046,
+                        22.579402
+                  ]
+            },
+            {
+                  "name": "Al hashar Mosque",
+                  "text": "Szúri mecset, amely a hagyományos ománi építészetet modern elemekkel ötvözi.",
+                  "category": "religious",
+                  "coords": [
+                        59.492779,
+                        22.589828
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables",
+                  "text": "Nyüzsgő hagyományos piac (szuk) friss gyümölcsökkel és zöldségekkel Szúr városában.",
+                  "category": "cultural",
+                  "coords": [
+                        59.524367,
+                        22.569278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunaysilah Castle",
+                  "text": "Un fort pătrat din secolul al XVIII-lea care domină orașul Sur.",
+                  "category": "castle",
+                  "coords": [
+                        59.504046,
+                        22.579402
+                  ]
+            },
+            {
+                  "name": "Al hashar Mosque",
+                  "text": "O moschee din Sur care îmbină arhitectura tradițională omaneză cu elemente moderne.",
+                  "category": "religious",
+                  "coords": [
+                        59.492779,
+                        22.589828
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables",
+                  "text": "Un souq tradițional plin de viață pentru fructe și legume proaspete în orașul de coastă Sur.",
+                  "category": "cultural",
+                  "coords": [
+                        59.524367,
+                        22.569278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Sunaysilah Castle",
+                  "text": "An 18th-century square fort overlooking the town of Sur.",
+                  "category": "castle",
+                  "coords": [
+                        59.504046,
+                        22.579402
+                  ]
+            },
+            {
+                  "name": "Al hashar Mosque",
+                  "text": "A mosque in Sur combining traditional Omani architecture with modern elements.",
+                  "category": "religious",
+                  "coords": [
+                        59.492779,
+                        22.589828
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables",
+                  "text": "A lively traditional souq for fresh fruits and vegetables in the coastal town of Sur.",
+                  "category": "cultural",
+                  "coords": [
+                        59.524367,
+                        22.569278
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-SJ",
     coords: [59.5244, 22.5694],
@@ -839,7 +3188,88 @@ export const poiExtraOmanHistoryV2: POI[] = [
     }
   },
   {
-    id: "bilad-sur-castle-history-v2",
+    id: "bilad-sur-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sur roundabout",
+                  "text": "Dieser dekorative Kreisverkehr in der Hafenstadt Sur ist oft mit traditionellen Dhau-Booten als Denkmal für das maritime Erbe gestaltet.",
+                  "category": "historical",
+                  "coords": [
+                        59.481611,
+                        22.54768
+                  ]
+            },
+            {
+                  "name": "Fort Bilad Sur",
+                  "text": "Diese historische Festung im Landesinneren von Sur diente einst dem Schutz der Stadt vor Angriffen aus der Wüste.",
+                  "category": "castle",
+                  "coords": [
+                        59.488686,
+                        22.553891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sur roundabout",
+                  "text": "Ez a látványos körforgalom Sur kikötővárosában a tengerészeti múlt előtt tiszteleg, gyakran hagyományos dhow hajókkal díszítve.",
+                  "category": "historical",
+                  "coords": [
+                        59.481611,
+                        22.54768
+                  ]
+            },
+            {
+                  "name": "Bilad Sur Castle",
+                  "text": "Ez a Sur belső részén található történelmi erőd egykor a város sivatag felőli védelmét szolgálta a törzsi támadások ellen.",
+                  "category": "castle",
+                  "coords": [
+                        59.488686,
+                        22.553891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sur roundabout",
+                  "text": "Acest sens giratoriu decorativ din orașul portuar Sur este adesea amenajat cu bărci tradiționale dhow, ca monument al moștenirii maritime.",
+                  "category": "historical",
+                  "coords": [
+                        59.481611,
+                        22.54768
+                  ]
+            },
+            {
+                  "name": "Bilad Sur Castle",
+                  "text": "Această fortăreață istorică din interiorul orașului Sur a servit odinioară la protejarea așezării împotriva atacurilor dinspre deșert.",
+                  "category": "castle",
+                  "coords": [
+                        59.488686,
+                        22.553891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sur roundabout",
+                  "text": "A decorative roundabout in the maritime city of Sur, often featuring traditional dhow boat motifs as a monument to its seafaring history.",
+                  "category": "historical",
+                  "coords": [
+                        59.481611,
+                        22.54768
+                  ]
+            },
+            {
+                  "name": "Bilad Sur Castle",
+                  "text": "A historic inland fortification in Sur built to protect the city and its surrounding plains from desert raids.",
+                  "category": "castle",
+                  "coords": [
+                        59.488686,
+                        22.553891
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "OM-SJ",
     coords: [59.5083, 22.5486],

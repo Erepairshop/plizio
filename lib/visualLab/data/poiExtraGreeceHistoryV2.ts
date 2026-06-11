@@ -397,7 +397,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Museum der Geschichte der olympischen Spiele der Antike",
-                  "text": "Museum über die Geschichte der antiken Olympischen Spiele in Olympia.",
+                  "text": "Museum neben der antiken Stätte von Olympia mit der Geschichte der Olympischen Spiele der Antike.",
                   "category": "museum",
                   "coords": [
                         21.625508,
@@ -424,7 +424,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Splash Water Park",
-                  "text": "Der Splash Water Park ist ein Wasservergnügungspark in der Nähe des antiken Olympia.",
+                  "text": "Splash Wasserpark in Olympia mit Rutschen und Becken.",
                   "category": "recreational",
                   "coords": [
                         21.592611,
@@ -462,7 +462,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Mouseio tes Istorias ton Olumpiakon Agonon tes Arkhaiotetas",
-                  "text": "Az ókori olimpiai játékok történetét bemutató múzeum Olümpiában.",
+                  "text": "Múzeum az ókori Olimpia mellett, az antik olimpiai játékok történetével.",
                   "category": "museum",
                   "coords": [
                         21.625508,
@@ -489,7 +489,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Splash Water Park",
-                  "text": "A Splash Water Park egy vízi vidámpark az ókori Olümpiában.",
+                  "text": "Splash vízipark Olümpiában csúszdákkal és medencékkel.",
                   "category": "recreational",
                   "coords": [
                         21.592611,
@@ -527,7 +527,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Mouseio tes Istorias ton Olumpiakon Agonon tes Arkhaiotetas",
-                  "text": "Muzeu dedicat istoriei Jocurilor Olimpice din antichitate, situat în Olimpia.",
+                  "text": "Muzeu lângă situl antic Olympia, dedicat istoriei Jocurilor Olimpice antice.",
                   "category": "museum",
                   "coords": [
                         21.625508,
@@ -554,7 +554,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Splash Water Park",
-                  "text": "Splash Water Park este un parc de distracții acvatic situat în Vechea Olimpie.",
+                  "text": "Parcul acvatic Splash din Olympia, cu tobogane și piscine.",
                   "category": "recreational",
                   "coords": [
                         21.592611,
@@ -592,7 +592,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Museum of the History of the Olympic Games in Antiquity",
-                  "text": "Museum in Ancient Olympia focusing on the history of the ancient Olympic Games.",
+                  "text": "Museum next to the ancient site of Olympia, covering the history of the ancient Olympic Games.",
                   "category": "museum",
                   "coords": [
                         21.625508,
@@ -619,7 +619,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
             },
             {
                   "name": "Splash Water Park",
-                  "text": "Splash Water Park is a water-based amusement park located in Ancient Olympia.",
+                  "text": "Splash Water Park in Olympia with slides and pools.",
                   "category": "recreational",
                   "coords": [
                         21.592611,
@@ -1749,7 +1749,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Plaka",
-                  "text": "Ein Badestrand an der Küste in der Nähe von Spinalonga.",
+                  "text": "Plaka Strand mit Blick auf die Inselfestung Spinalonga.",
                   "category": "recreational",
                   "coords": [
                         25.726823,
@@ -1758,7 +1758,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Petsofas",
-                  "text": "Ein Berggipfel in der Nähe von Spinalonga mit Blick auf das Meer.",
+                  "text": "Oros Petsofas, ein Gipfel auf der Insel Spinalonga.",
                   "category": "landmark",
                   "coords": [
                         25.725852,
@@ -1814,7 +1814,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Plaka",
-                  "text": "Tengerparti strand Spinalonga közelében.",
+                  "text": "Plaka strand a Spinalonga szigeti erődre néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         25.726823,
@@ -1823,7 +1823,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Oros Petsophas",
-                  "text": "Hegycsúcs Spinalonga közelében, kilátással a tengerre.",
+                  "text": "Oros Petsofas, egy csúcs Spinalonga szigetén.",
                   "category": "landmark",
                   "coords": [
                         25.725852,
@@ -1879,7 +1879,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Plaka",
-                  "text": "O plajă situată pe coastă în apropiere de Spinalonga.",
+                  "text": "Plaja Plaka, cu vedere spre fortăreața insulei Spinalonga.",
                   "category": "recreational",
                   "coords": [
                         25.726823,
@@ -1888,7 +1888,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Oros Petsophas",
-                  "text": "Un vârf montan lângă Spinalonga, cu vedere la mare.",
+                  "text": "Oros Petsofas, un vârf pe insula Spinalonga.",
                   "category": "landmark",
                   "coords": [
                         25.725852,
@@ -1944,7 +1944,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Plaka",
-                  "text": "A coastal beach area located near Spinalonga.",
+                  "text": "Plaka beach facing the historic Spinalonga island fortress.",
                   "category": "recreational",
                   "coords": [
                         25.726823,
@@ -1953,7 +1953,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
             },
             {
                   "name": "Oros Petsofas",
-                  "text": "A mountain peak near Spinalonga offering sea views.",
+                  "text": "Oros Petsofas, a peak on the island of Spinalonga.",
                   "category": "landmark",
                   "coords": [
                         25.725852,
@@ -2862,7 +2862,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Naos tou Erakle",
-                  "text": "Ruinen eines antiken Tempels, der dem Herakles geweiht war.",
+                  "text": "Ruinen des Herakles-Tempels im antiken Heiligtum von Dodona.",
                   "category": "historical",
                   "coords": [
                         20.79027,
@@ -2880,7 +2880,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Bouleuterio",
-                  "text": "Die antiken Ruinen des Versammlungshauses in Dodona.",
+                  "text": "Bouleuterion (Rathaus) der antiken Stätte Dodona.",
                   "category": "historical",
                   "coords": [
                         20.788941,
@@ -2909,7 +2909,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Naos tou Erakle",
-                  "text": "Héraklésznak szentelt ókori templom romjai.",
+                  "text": "Héraklész templomának romjai az ókori dodonai szentélyben.",
                   "category": "historical",
                   "coords": [
                         20.79027,
@@ -2927,7 +2927,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Bouleuterio",
-                  "text": "A dodonai tanácsház ókori romjai.",
+                  "text": "A bouleutérion (tanácsház) Dodona ókori városában.",
                   "category": "historical",
                   "coords": [
                         20.788941,
@@ -2956,7 +2956,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Naos tou Erakle",
-                  "text": "Ruinele unui templu antic dedicat lui Heracles.",
+                  "text": "Ruinele Templului lui Herakles în sanctuarul antic al Dodonei.",
                   "category": "historical",
                   "coords": [
                         20.79027,
@@ -2974,7 +2974,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Bouleuterio",
-                  "text": "Ruinele antice ale casei consiliului din Dodona.",
+                  "text": "Bouleuterionul (casa consiliului) din situl antic Dodona.",
                   "category": "historical",
                   "coords": [
                         20.788941,
@@ -3003,7 +3003,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Temple of Herakles",
-                  "text": "Ruins of an ancient temple dedicated to Herakles.",
+                  "text": "Ruins of the Temple of Herakles within the ancient sanctuary of Dodona.",
                   "category": "historical",
                   "coords": [
                         20.79027,
@@ -3021,7 +3021,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
             },
             {
                   "name": "Bouleuterion",
-                  "text": "The ancient ruins of the council house in Dodona.",
+                  "text": "Council house (Bouleuterion) of the ancient Dodona sanctuary.",
                   "category": "historical",
                   "coords": [
                         20.788941,
@@ -3510,7 +3510,124 @@ imageHint: "The White Tower of Thessaloniki by the sea",
     },
     image: "/poi-images/greece-white-tower-history-v2.webp",
 },  {
-    id: "greece-akrotiri-history-v2", "sights": {"de": [{"name": "Vlychada beach", "text": "Einzigartige Bimssteinklippen säumen den markanten Vlychada Beach in Akrotiri und verleihen ihm eine fast mondähnliche Landschaft. Dieser Küstenabschnitt von Santorin hebt sich deutlich von gewöhnlichen Stränden ab und bietet ein spektakuläres Panorama für Schwimmer und Fotografen. Die Nachmittagsstunden tauchen die Felsen oft in ein faszinierendes Licht.", "category": "recreational", "coords": [25.431551, 36.339313]}, {"name": "Monolithos Beach", "text": "Der dunkle, weiche Sand von Monolithos Beach in Akrotiri bietet eine familienfreundliche Umgebung auf der Vulkaninsel Santorin. Die meist flach abfallende Küstenlinie macht es besonders angenehm, an der Wasserkante zu spielen oder spazieren zu gehen. Wegen des schwarzen Sandes, der sich schnell erhitzt, ist passendes Schuhwerk ratsam.", "category": "recreational", "coords": [25.483065, 36.412275]}, {"name": "Agios Georgios", "text": "Agios Georgios ist ein Strand in Thira.", "category": "recreational", "coords": [25.454171, 36.339177]}], "hu": [{"name": "Vlychada beach", "text": "Egyedülálló habkősziklák szegélyezik az Akrotiriben található lenyűgöző Vlychada strandot, ami szinte holdszerű tájat kölcsönöz neki. Szantorini ezen partszakasza élesen elüt a hagyományos strandoktól, és látványos panorámát kínál az úszóknak és a fotósoknak egyaránt. A délutáni órák gyakran lenyűgöző fényekbe öltöztetik a sziklákat.", "category": "recreational", "coords": [25.431551, 36.339313]}, {"name": "Monolithos Beach", "text": "Az Akrotiriben található Monolithos Beach sötét, puha homokja családbarát környezetet kínál a vulkanikus Szantorini szigetén. A többnyire lassan mélyülő partszakasz különösen kellemessé teszi a vízparti játékot vagy a sétát. A fekete homok miatt, amely gyorsan felmelegszik, megfelelő lábbeli viselete javasolt.", "category": "recreational", "coords": [25.483065, 36.412275]}, {"name": "Agios Georgios", "text": "Az Agios Georgios egy strand Thira területén.", "category": "recreational", "coords": [25.454171, 36.339177]}], "ro": [{"name": "Vlychada beach", "text": "Stânci unice de piatră ponce străjuiesc plaja impresionantă Vlychada din Akrotiri, oferindu-i un peisaj aproape selenar. Această secțiune a coastei din Santorini se distinge clar de plajele obișnuite și oferă o panoramă spectaculoasă pentru înotători și fotografi. Orele după-amiezii scaldă adesea stâncile într-o lumină fascinantă.", "category": "recreational", "coords": [25.431551, 36.339313]}, {"name": "Monolithos Beach", "text": "Nisipul moale și închis la culoare de pe plaja Monolithos din Akrotiri oferă un mediu favorabil familiilor pe insula vulcanică Santorini. Linia de coastă, cu o pantă în mare parte lină, face ca joaca sau plimbarea pe malul apei să fie deosebit de plăcute. Din cauza nisipului negru care se încălzește rapid, se recomandă încălțăminte adecvată.", "category": "recreational", "coords": [25.483065, 36.412275]}, {"name": "Agios Georgios", "text": "Agios Georgios este o plajă situată în Thira.", "category": "recreational", "coords": [25.454171, 36.339177]}], "en": [{"name": "Vlychada beach", "text": "Unique pumice cliffs line the striking Vlychada beach in Akrotiri, giving it an almost moon-like landscape. This stretch of the Santorini coast clearly stands out from ordinary beaches, offering a spectacular panorama for swimmers and photographers. The afternoon hours often bathe the rocks in a fascinating light.", "category": "recreational", "coords": [25.431551, 36.339313]}, {"name": "Monolithos Beach", "text": "The dark, soft sand of Monolithos Beach in Akrotiri provides a family-friendly environment on the volcanic island of Santorini. The mostly gently sloping shoreline makes it particularly enjoyable to play or walk along the water's edge. Because the black sand heats up quickly, appropriate footwear is advisable.", "category": "recreational", "coords": [25.483065, 36.412275]}, {"name": "Agios Georgios", "text": "Agios Georgios is a beach located in Thira.", "category": "recreational", "coords": [25.454171, 36.339177]}]},
+    id: "greece-akrotiri-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Einzigartige Bimssteinklippen säumen den markanten Vlychada Beach in Akrotiri und verleihen ihm eine fast mondähnliche Landschaft. Dieser Küstenabschnitt von Santorin hebt sich deutlich von gewöhnlichen Stränden ab und bietet ein spektakuläres Panorama für Schwimmer und Fotografen. Die Nachmittagsstunden tauchen die Felsen oft in ein faszinierendes Licht.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "Der dunkle, weiche Sand von Monolithos Beach in Akrotiri bietet eine familienfreundliche Umgebung auf der Vulkaninsel Santorin. Die meist flach abfallende Küstenlinie macht es besonders angenehm, an der Wasserkante zu spielen oder spazieren zu gehen. Wegen des schwarzen Sandes, der sich schnell erhitzt, ist passendes Schuhwerk ratsam.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios Strand auf der Halbinsel Akrotiri mit roten Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Egyedülálló habkősziklák szegélyezik az Akrotiriben található lenyűgöző Vlychada strandot, ami szinte holdszerű tájat kölcsönöz neki. Szantorini ezen partszakasza élesen elüt a hagyományos strandoktól, és látványos panorámát kínál az úszóknak és a fotósoknak egyaránt. A délutáni órák gyakran lenyűgöző fényekbe öltöztetik a sziklákat.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "Az Akrotiriben található Monolithos Beach sötét, puha homokja családbarát környezetet kínál a vulkanikus Szantorini szigetén. A többnyire lassan mélyülő partszakasz különösen kellemessé teszi a vízparti játékot vagy a sétát. A fekete homok miatt, amely gyorsan felmelegszik, megfelelő lábbeli viselete javasolt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios strand az Akrotiri-félszigeten vörös sziklákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Stânci unice de piatră ponce străjuiesc plaja impresionantă Vlychada din Akrotiri, oferindu-i un peisaj aproape selenar. Această secțiune a coastei din Santorini se distinge clar de plajele obișnuite și oferă o panoramă spectaculoasă pentru înotători și fotografi. Orele după-amiezii scaldă adesea stâncile într-o lumină fascinantă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "Nisipul moale și închis la culoare de pe plaja Monolithos din Akrotiri oferă un mediu favorabil familiilor pe insula vulcanică Santorini. Linia de coastă, cu o pantă în mare parte lină, face ca joaca sau plimbarea pe malul apei să fie deosebit de plăcute. Din cauza nisipului negru care se încălzește rapid, se recomandă încălțăminte adecvată.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Plaja Agios Georgios pe peninsula Akrotiri, cu stânci roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Unique pumice cliffs line the striking Vlychada beach in Akrotiri, giving it an almost moon-like landscape. This stretch of the Santorini coast clearly stands out from ordinary beaches, offering a spectacular panorama for swimmers and photographers. The afternoon hours often bathe the rocks in a fascinating light.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "The dark, soft sand of Monolithos Beach in Akrotiri provides a family-friendly environment on the volcanic island of Santorini. The mostly gently sloping shoreline makes it particularly enjoyable to play or walk along the water's edge. Because the black sand heats up quickly, appropriate footwear is advisable.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios beach on the Akrotiri peninsula with red cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "ruins",
     name: { de: "Akrotiri (Santorin)", hu: "Akrotíri (Szantorini)", ro: "Akrotiri (Santorini)", en: "Akrotiri (Santorini)"},
@@ -3943,7 +4060,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Περίβολος",
-                  "text": "Ein ruhiger Strand in Ancient Thera, ideal zum Entspannen.",
+                  "text": "Perivolos schwarzer Sandstrand unterhalb des antiken Thira.",
                   "category": "recreational",
                   "coords": [
                         25.462973,
@@ -3972,7 +4089,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Περίβολος",
-                  "text": "Egy nyugodt tengerpart Ancient Thera területén, amely kiváló kikapcsolódást nyújt.",
+                  "text": "Perivolos fekete homokos strand az ókori Thira alatt.",
                   "category": "recreational",
                   "coords": [
                         25.462973,
@@ -4001,7 +4118,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Περίβολος",
-                  "text": "O plajă liniștită în Ancient Thera, ideală pentru relaxare.",
+                  "text": "Plaja Perivolos cu nisip negru, sub anticul Thira.",
                   "category": "recreational",
                   "coords": [
                         25.462973,
@@ -4030,7 +4147,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Perivolos",
-                  "text": "A calm beach in Ancient Thera, ideal for relaxation.",
+                  "text": "Perivolos black sand beach below Ancient Thira.",
                   "category": "recreational",
                   "coords": [
                         25.462973,
@@ -4375,7 +4492,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Überreste einer byzantinischen Festung in der Nähe des antiken Gortyn.",
+                  "text": "Burg aus dem Jahr 1206 in der antiken Stadt Gortys auf Kreta.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -4393,7 +4510,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Roman theater of ancient Gortyna",
-                  "text": "Die gut erhaltenen Ruinen des römischen Theaters von Gortyn.",
+                  "text": "Römisches Theater in der antiken Stadt Gortyna auf Kreta.",
                   "category": "historical",
                   "coords": [
                         24.95309,
@@ -4402,7 +4519,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Praitorio",
-                  "text": "Einstiger Sitz des römischen Statthalters in der antiken Stadt.",
+                  "text": "Überreste des römischen Praetoriums in der antiken Stadt Gortys.",
                   "category": "historical",
                   "coords": [
                         24.951291,
@@ -4440,7 +4557,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Egy bizánci erőd maradványai az ókori Gortün közelében.",
+                  "text": "1206-ban épült vár Gortys ókori városában, Krétán.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -4458,7 +4575,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Roman theater of ancient Gortyna",
-                  "text": "Gortün római színházának jól megőrzött romjai.",
+                  "text": "Római színház az ókori Gortüna városában Krétán.",
                   "category": "historical",
                   "coords": [
                         24.95309,
@@ -4467,7 +4584,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Praitorio",
-                  "text": "A római kormányzó egykori székhelye az ókori városban.",
+                  "text": "A római praetorium (helytartói palota) maradványai Gortysban.",
                   "category": "historical",
                   "coords": [
                         24.951291,
@@ -4505,7 +4622,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Rămășițele unei cetăți bizantine în apropierea anticului Gortyn.",
+                  "text": "Castel construit în 1206 în orașul antic Gortys, Creta.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -4523,7 +4640,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Roman theater of ancient Gortyna",
-                  "text": "Ruinele bine conservate ale teatrului roman din Gortyna.",
+                  "text": "Teatru roman în orașul antic Gortyna din Creta.",
                   "category": "historical",
                   "coords": [
                         24.95309,
@@ -4532,7 +4649,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Praitorio",
-                  "text": "Fosta reședință a guvernatorului roman în orașul antic.",
+                  "text": "Vestigiile Praetoriumului roman din anticul Gortys.",
                   "category": "historical",
                   "coords": [
                         24.951291,
@@ -4570,7 +4687,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Castel Nuovo",
-                  "text": "Remains of a Byzantine fortress near ancient Gortyn.",
+                  "text": "Castle built in 1206 in the ancient city of Gortys on Crete.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -4588,7 +4705,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Roman theater of ancient Gortyna",
-                  "text": "The well-preserved ruins of the Roman theatre of Gortyna.",
+                  "text": "Roman theater in the ancient city of Gortyna on Crete.",
                   "category": "historical",
                   "coords": [
                         24.95309,
@@ -4597,7 +4714,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Roman Praetorium",
-                  "text": "Former seat of the Roman governor in the ancient city.",
+                  "text": "Remains of the Roman Praetorium administrative building in Gortys.",
                   "category": "historical",
                   "coords": [
                         24.951291,
@@ -4753,7 +4870,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Παραλία Χαμολιά",
-                  "text": "Παραλία Χαμολιά ist ein Strand in der Nähe von Brauron.",
+                  "text": "Chamolia Strand nahe dem antiken Artemis-Heiligtum von Brauron.",
                   "category": "recreational",
                   "coords": [
                         24.013878,
@@ -4762,7 +4879,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Μικρή Χαμολιά",
-                  "text": "Μικρή Χαμολιά ist eine kleine Strandbucht in Brauron.",
+                  "text": "Kleine Bucht Mikri Chamolia an der Küste von Brauron.",
                   "category": "recreational",
                   "coords": [
                         24.028471,
@@ -4809,7 +4926,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Παραλία Χαμολιά",
-                  "text": "A Παραλία Χαμολιά egy tengerparti strand Brauron közelében.",
+                  "text": "Chamolia strand a brauroni Artemisz-szentély közelében.",
                   "category": "recreational",
                   "coords": [
                         24.013878,
@@ -4818,7 +4935,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Μικρή Χαμολιά",
-                  "text": "A Μικρή Χαμολιά egy kisebb tengerparti strand Brauron közelében.",
+                  "text": "Mikri Chamolia kis öböl Brauron partján.",
                   "category": "recreational",
                   "coords": [
                         24.028471,
@@ -4865,7 +4982,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Παραλία Χαμολιά",
-                  "text": "Παραλία Χαμολιά este o plajă situată lângă Brauron.",
+                  "text": "Plaja Chamolia lângă sanctuarul antic al Artemisiei din Brauron.",
                   "category": "recreational",
                   "coords": [
                         24.013878,
@@ -4874,7 +4991,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Μικρή Χαμολιά",
-                  "text": "Μικρή Χαμολιά este o plajă situată lângă Brauron.",
+                  "text": "Micul golf Mikri Chamolia pe coasta Brauronului.",
                   "category": "recreational",
                   "coords": [
                         24.028471,
@@ -4921,7 +5038,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Παραλία Χαμολιά",
-                  "text": "Παραλία Χαμολιά is a beach located near Brauron.",
+                  "text": "Chamolia beach near the ancient sanctuary of Artemis at Brauron.",
                   "category": "recreational",
                   "coords": [
                         24.013878,
@@ -4930,7 +5047,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Μικρή Χαμολιά",
-                  "text": "Μικρή Χαμολιά is a beach located near Brauron.",
+                  "text": "Small cove Mikri Chamolia adjacent to Brauron's coastline.",
                   "category": "recreational",
                   "coords": [
                         24.028471,
@@ -5005,7 +5122,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Kastro Palaion",
-                  "text": "Eine historische Befestigungsanlage in der Nähe von Dimini.",
+                  "text": "Burg Palia mit Blick auf die neolithische Siedlung Dimini.",
                   "category": "castle",
                   "coords": [
                         22.933295,
@@ -5014,7 +5131,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mukenaikos Taphos Dimeniou",
-                  "text": "Ein bedeutendes Grabmal aus der mykenischen Zeit in der Nähe von Dimini.",
+                  "text": "Mykenisches Kuppelgrab (Tholos) in Dimini, gut erhalten.",
                   "category": "historical",
                   "coords": [
                         22.890582,
@@ -5023,7 +5140,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mouseio Poles Bolou",
-                  "text": "Ein Museum, das die Geschichte und Entwicklung der Stadt Volos dokumentiert.",
+                  "text": "Stadtmuseum Volos in einem neoklassizistischen Gebäude in Dimini.",
                   "category": "museum",
                   "coords": [
                         22.935723,
@@ -5032,7 +5149,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Arkhaio Theatro Demetriadas",
-                  "text": "Die Überreste eines antiken griechischen Theaters in der Nähe der Stadt Demetrias.",
+                  "text": "Antikes Theater von Demetrias am Hang nahe Dimini.",
                   "category": "historical",
                   "coords": [
                         22.924355,
@@ -5061,7 +5178,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Kastro Palaion",
-                  "text": "Történelmi erődítmény Dimini közelében.",
+                  "text": "Palia vára a dimini neolitikus településre néz.",
                   "category": "castle",
                   "coords": [
                         22.933295,
@@ -5070,7 +5187,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mukenaikos Taphos Dimeniou",
-                  "text": "Jelentős mükénéi kori sír Dimini szomszédságában.",
+                  "text": "Mükénéi tholosz-sír Diminiben, jól megőrzött.",
                   "category": "historical",
                   "coords": [
                         22.890582,
@@ -5079,7 +5196,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mouseio Poles Bolou",
-                  "text": "Volos városának történetét és fejlődését bemutató múzeum.",
+                  "text": "Volos Városi Múzeum egy neoklasszikus épületben Diminiben.",
                   "category": "museum",
                   "coords": [
                         22.935723,
@@ -5088,7 +5205,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Arkhaio Theatro Demetriadas",
-                  "text": "Egy ókori görög színház maradványai a hajdani Demetrias közelében.",
+                  "text": "Demetrias ókori színháza a domboldalon Dimini közelében.",
                   "category": "historical",
                   "coords": [
                         22.924355,
@@ -5117,7 +5234,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Kastro Palaion",
-                  "text": "O fortificație istorică situată în apropiere de Dimini.",
+                  "text": "Castelul Palia cu vedere spre așezarea neolitică Dimini.",
                   "category": "castle",
                   "coords": [
                         22.933295,
@@ -5126,7 +5243,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mukenaikos Taphos Dimeniou",
-                  "text": "Un mormânt micenian important situat în apropiere de Dimini.",
+                  "text": "Mormântul micenian tip tholos din Dimini, bine conservat.",
                   "category": "historical",
                   "coords": [
                         22.890582,
@@ -5135,7 +5252,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mouseio Poles Bolou",
-                  "text": "Un muzeu care documentează istoria și dezvoltarea orașului Volos.",
+                  "text": "Muzeul Orașului Volos într-o clădire neoclasică din Dimini.",
                   "category": "museum",
                   "coords": [
                         22.935723,
@@ -5144,7 +5261,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Arkhaio Theatro Demetriadas",
-                  "text": "Vestigiile unui teatru grecesc antic situat lângă orașul Demetrias.",
+                  "text": "Teatrul antic al Demetriei pe un deal lângă Dimini.",
                   "category": "historical",
                   "coords": [
                         22.924355,
@@ -5173,7 +5290,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Castle of Palia",
-                  "text": "A historical fortification located near Dimini.",
+                  "text": "Castle of Palia overlooking the Neolithic settlement of Dimini.",
                   "category": "castle",
                   "coords": [
                         22.933295,
@@ -5182,7 +5299,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Mycenaean Tomb of Dimini",
-                  "text": "A significant Mycenaean tomb located near Dimini.",
+                  "text": "Mycenaean tholos tomb at Dimini, a well-preserved beehive structure.",
                   "category": "historical",
                   "coords": [
                         22.890582,
@@ -5191,7 +5308,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Volos City Museum",
-                  "text": "A museum documenting the history and development of the city of Volos.",
+                  "text": "Volos City Museum housed in a neoclassical building in Dimini.",
                   "category": "museum",
                   "coords": [
                         22.935723,
@@ -5200,7 +5317,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
             },
             {
                   "name": "Ancient Theater of Demetrias",
-                  "text": "The remains of an ancient Greek theater near the city of Demetrias.",
+                  "text": "Ancient theater of Demetrias on a hillside near Dimini.",
                   "category": "historical",
                   "coords": [
                         22.924355,

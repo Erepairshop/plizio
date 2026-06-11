@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraYemenLifeV2: POI[] = [
   {
-    id: "sanaa-zoo-life-v2",
+    id: "sanaa-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Mathaf al Watani",
+                  "text": "Untergebracht im ehemaligen Palast Dar al-Sa'd, zeigt das Museum bedeutende Artefakte der antiken Königreiche.",
+                  "category": "museum",
+                  "coords": [
+                        44.206068,
+                        15.355884
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Taleb Mosque",
+                  "text": "Diese Moschee im Viertel des Zoos von Sanaa präsentiert die charakteristische jemenitische Steinbauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187609,
+                        15.35414
+                  ]
+            },
+            {
+                  "name": "Handel mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus in der Nähe des Zoos von Sanaa mit schlichten architektonischen Linien.",
+                  "category": "landmark",
+                  "coords": [
+                        44.199354,
+                        15.352838
+                  ]
+            },
+            {
+                  "name": "Adel mosque",
+                  "text": "Diese Moschee in Sanaa dient als geistliches Zentrum für die Gemeinde in der Nähe des Zoos.",
+                  "category": "landmark",
+                  "coords": [
+                        44.197805,
+                        15.350997
+                  ]
+            },
+            {
+                  "name": "Qubbat al Mahdi `Abbas",
+                  "text": "Ein markanter Kuppelbau aus der Zaiditen-Ära, der das Stadtbild von Sanaa mit seinem weißen Äußeren prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.209221,
+                        15.353077
+                  ]
+            },
+            {
+                  "name": "Ahmed Nasser Mosque",
+                  "text": "Eine Moschee in Sanaa, die sich durch die typischen jemenitischen Fensterverzierungen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.1801,
+                        15.35561
+                  ]
+            },
+            {
+                  "name": "Ishaq Mosque",
+                  "text": "Eine Freitagsmoschee in Sanaa, die Gläubige in ihrem weitläufigen Gebetsraum empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.203785,
+                        15.348158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Mathaf al Watani",
+                  "text": "Az egykori Dar al-Szad palotában helyet kapó múzeum az ókori jemeni királyságok emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        44.206068,
+                        15.355884
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Taleb Mosque",
+                  "text": "Ez a szánaai állatkert közelében fekvő mecset a hagyományos jemeni kőépítészet jegyeit viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187609,
+                        15.35414
+                  ]
+            },
+            {
+                  "name": "Handel mosque",
+                  "text": "Egy helyi mecset Szánaa állatkertjének környékén, egyszerű építészeti megoldásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.199354,
+                        15.352838
+                  ]
+            },
+            {
+                  "name": "Adel mosque",
+                  "text": "Ez a szánaai mecset a környékbeli közösség hitéleti központjaként szolgál az állatkert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.197805,
+                        15.350997
+                  ]
+            },
+            {
+                  "name": "Qubbat al Mahdi `Abbas",
+                  "text": "A szánaai városképet meghatározó, jellegzetes fehér kupolával rendelkező mecset a zaidita korszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        44.209221,
+                        15.353077
+                  ]
+            },
+            {
+                  "name": "Ahmed Nasser Mosque",
+                  "text": "Egy szánaai mecset, amely a hagyományos jemeni ablakdíszítéseiről és kőfalairól ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.1801,
+                        15.35561
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "Egy szánaai pénteki mecset, amely tágas imaterével fogadja a hívőket az állatkert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.203785,
+                        15.348158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Mathaf al Watani",
+                  "text": "Găzduit în fostul palat Dar al-Sa'd, muzeul expune artefacte importante ale regatelor antice.",
+                  "category": "museum",
+                  "coords": [
+                        44.206068,
+                        15.355884
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Taleb Mosque",
+                  "text": "Această moschee din zona grădinii zoologice din Sana'a prezintă arhitectura tradițională din piatră a Yemenului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187609,
+                        15.35414
+                  ]
+            },
+            {
+                  "name": "Handel mosque",
+                  "text": "Un lăcaș de cult musulman local în apropierea grădinii zoologice din Sana'a, cu linii arhitecturale simple.",
+                  "category": "landmark",
+                  "coords": [
+                        44.199354,
+                        15.352838
+                  ]
+            },
+            {
+                  "name": "Adel mosque",
+                  "text": "Această moschee din Sana'a servește drept centru spiritual pentru comunitatea locală din zona grădinii zoologice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.197805,
+                        15.350997
+                  ]
+            },
+            {
+                  "name": "Qubbat al Mahdi `Abbas",
+                  "text": "O moschee cu o cupolă albă distinctivă, datând din era Zaydi, care marchează panorama orașului Sana'a.",
+                  "category": "landmark",
+                  "coords": [
+                        44.209221,
+                        15.353077
+                  ]
+            },
+            {
+                  "name": "Ahmed Nasser Mosque",
+                  "text": "O moschee din Sana'a, remarcabilă prin decorațiunile tipice ale ferestrelor și zidăria de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        44.1801,
+                        15.35561
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "O moschee de vineri din Sana'a, care primește credincioșii în sala sa de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.203785,
+                        15.348158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Mathaf al Watani",
+                  "text": "Housed in the former Dar al-Sa'd palace, the museum displays significant artifacts from Yemen's ancient kingdoms.",
+                  "category": "museum",
+                  "coords": [
+                        44.206068,
+                        15.355884
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Taleb Mosque",
+                  "text": "Located near the Sana'a Zoo, this mosque features traditional Yemeni stone masonry and architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187609,
+                        15.35414
+                  ]
+            },
+            {
+                  "name": "Handel mosque",
+                  "text": "A local place of worship near the Sana'a Zoo, serving the surrounding residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.199354,
+                        15.352838
+                  ]
+            },
+            {
+                  "name": "Adel mosque",
+                  "text": "This mosque in Sana'a serves as a spiritual center for the local community near the city's zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        44.197805,
+                        15.350997
+                  ]
+            },
+            {
+                  "name": "Qubbat al Mahdi `Abbas",
+                  "text": "A striking domed mosque from the Zaydi era, known for its white exterior and traditional Sana'ani style.",
+                  "category": "landmark",
+                  "coords": [
+                        44.209221,
+                        15.353077
+                  ]
+            },
+            {
+                  "name": "Ahmed Nasser Mosque",
+                  "text": "A mosque in Sana'a distinguished by its traditional Yemeni window carvings and dark stone masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        44.1801,
+                        15.35561
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "A congregational mosque in Sana'a featuring a spacious prayer hall and traditional decorative motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.203785,
+                        15.348158
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "YE-SA",
     coords: [44.2081, 15.3483],
@@ -67,7 +328,124 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "taiz-zoo-life-v2",
+    id: "taiz-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Zanikh",
+                  "text": "Dieser Berggipfel liegt nahe dem Zoo von Taiz und ist ein Ziel für Naturbeobachtungen am Stadtrand.",
+                  "category": "natural",
+                  "coords": [
+                        43.985645,
+                        13.613373
+                  ]
+            },
+            {
+                  "name": "Jabal al Jarrah",
+                  "text": "Ein Berg am Stadtrand von Taiz, der für seine felsigen Hänge und die Nähe zum Zentrum bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.983436,
+                        13.599968
+                  ]
+            },
+            {
+                  "name": "Jabal Baraq",
+                  "text": "Ein Gipfel der Sarawat-Gebirgskette, der durch seine beeindruckende Höhe und Flora besticht.",
+                  "category": "natural",
+                  "coords": [
+                        43.995658,
+                        13.603484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Zanikh",
+                  "text": "Ez a hegycsúcs a taizi állatkert közelében található, és a város szélén kedvelt célpont a természetjáróknak.",
+                  "category": "natural",
+                  "coords": [
+                        43.985645,
+                        13.613373
+                  ]
+            },
+            {
+                  "name": "Jabal al Jarrah",
+                  "text": "Taiz szélén fekvő hegy, amely sziklás lejtőiről és a központhoz való közelségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.983436,
+                        13.599968
+                  ]
+            },
+            {
+                  "name": "Jabal Baraq",
+                  "text": "A Szaravat-hegység egyik csúcsa, amely lenyűgöző magasságával és flórájával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        43.995658,
+                        13.603484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Zanikh",
+                  "text": "Acest vârf montan este situat lângă grădina zoologică din Taiz și este o destinație pentru observarea naturii la marginea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        43.985645,
+                        13.613373
+                  ]
+            },
+            {
+                  "name": "Jabal al Jarrah",
+                  "text": "Un munte la marginea orașului Taiz, cunoscut pentru pantele sale stâncoase și proximitatea față de centru.",
+                  "category": "natural",
+                  "coords": [
+                        43.983436,
+                        13.599968
+                  ]
+            },
+            {
+                  "name": "Jabal Baraq",
+                  "text": "Un vârf din lanțul muntos Sarawat, care impresionează prin înălțimea și flora sa remarcabilă.",
+                  "category": "natural",
+                  "coords": [
+                        43.995658,
+                        13.603484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Zanikh",
+                  "text": "This mountain peak is located near the Taiz Zoo and is a destination for nature viewing on the city outskirts.",
+                  "category": "natural",
+                  "coords": [
+                        43.985645,
+                        13.613373
+                  ]
+            },
+            {
+                  "name": "Jabal al Jarrah",
+                  "text": "A mountain on the edge of Taiz known for its rocky slopes and proximity to the city center.",
+                  "category": "natural",
+                  "coords": [
+                        43.983436,
+                        13.599968
+                  ]
+            },
+            {
+                  "name": "Jabal Baraq",
+                  "text": "A peak in the Sarawat mountain range, notable for its impressive elevation and flora.",
+                  "category": "natural",
+                  "coords": [
+                        43.995658,
+                        13.603484
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "YE-TA",
     coords: [43.9926, 13.5855],
@@ -131,7 +509,340 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "al-sabeen-park-life-v2",
+    id: "al-sabeen-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hadiqah as Saba`in",
+                  "text": "Ein weitläufiger Vergnügungspark im Zentrum von Sanaa, der als beliebtes Ziel für Familienausflüge gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        44.202536,
+                        15.323696
+                  ]
+            },
+            {
+                  "name": "Rivera Hall",
+                  "text": "Ein markantes Gebäude im Al-Sabeen-Viertel, das für große soziale Veranstaltungen und Hochzeiten genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187805,
+                        15.333146
+                  ]
+            },
+            {
+                  "name": "Al-Saleh Mosque",
+                  "text": "Die größte Moschee des Jemen, beeindruckend durch ihre sechs Minarette mit einer Höhe von 160 Metern.",
+                  "category": "religious",
+                  "coords": [
+                        44.207902,
+                        15.325864
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Eine Moschee im Al-Sabeen-Park-Viertel mit den für Sanaa typischen bunten Qamariya-Glasfenstern.",
+                  "category": "landmark",
+                  "coords": [
+                        44.22667,
+                        15.33
+                  ]
+            },
+            {
+                  "name": "Bader mosque",
+                  "text": "Ein bedeutendes muslimisches Gebetshaus in Sanaa, das durch seine traditionelle jemenitische Steinfassade auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.220981,
+                        15.33377
+                  ]
+            },
+            {
+                  "name": "zahrah mosque",
+                  "text": "Eine Stadtviertel-Moschee in der Hauptstadt mit charakteristischen bogenförmigen Eingangsbereichen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.198996,
+                        15.326409
+                  ]
+            },
+            {
+                  "name": "Alawgaff mosque",
+                  "text": "Eine Moschee im Al-Sabeen-Viertel, die unter der Verwaltung des Ministeriums für religiöse Stiftungen steht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.191862,
+                        15.325457
+                  ]
+            },
+            {
+                  "name": "Alaqil Mosque",
+                  "text": "Eine Gemeindemoschee in Sanaa, die im lokalen Stil aus verschiedenfarbigem Mauerwerk errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.188885,
+                        15.331132
+                  ]
+            },
+            {
+                  "name": "Alanssar mosque",
+                  "text": "Ein Gebetshaus in der Nähe des Al-Sabeen-Parks, das der lokalen Wohnbevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239249,
+                        15.312278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hadiqah as Saba`in",
+                  "text": "Szanaa központi vidámparkja, amely tágas zöldfelületeivel a helyi családok kedvelt pihenőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        44.202536,
+                        15.323696
+                  ]
+            },
+            {
+                  "name": "Rivera Hall",
+                  "text": "Az Al-Szabín negyed egyik neves rendezvényhelyszíne, amely nagyszabású esküvőknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187805,
+                        15.333146
+                  ]
+            },
+            {
+                  "name": "Al-Saleh Mosque",
+                  "text": "Jemen legnagyobb mecsetje, amely hat darab, egyenként 160 méter magas minaretjéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        44.207902,
+                        15.325864
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Mecset az Al-Szabín park közelében, amely a városra jellemző színes qamariya üvegablakokkal díszített.",
+                  "category": "landmark",
+                  "coords": [
+                        44.22667,
+                        15.33
+                  ]
+            },
+            {
+                  "name": "Bader mosque",
+                  "text": "Szanaa egyik jelentős imahelye, amely a hagyományos jemeni kőfaragásos homlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.220981,
+                        15.33377
+                  ]
+            },
+            {
+                  "name": "zahrah mosque",
+                  "text": "Kisebb mecset a fővárosban, amely jellegzetes íves bejáratairól és nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.198996,
+                        15.326409
+                  ]
+            },
+            {
+                  "name": "Alawgaff mosque",
+                  "text": "Az Al-Szabín negyed mecsetje, amely a vallási alapítványok minisztériumának kezelésében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        44.191862,
+                        15.325457
+                  ]
+            },
+            {
+                  "name": "Alaqil Mosque",
+                  "text": "Helyi közösségi mecset Szanaában, amely többszínű kőfalazatával a vidék építészetét idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.188885,
+                        15.331132
+                  ]
+            },
+            {
+                  "name": "Alanssar mosque",
+                  "text": "Az Al-Szabín park melletti imahely, amely a környező lakónegyed hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239249,
+                        15.312278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hadiqah as Saba`in",
+                  "text": "Un parc de distracții vast din centrul capitalei, fiind o destinație populară pentru recreerea familiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        44.202536,
+                        15.323696
+                  ]
+            },
+            {
+                  "name": "Rivera Hall",
+                  "text": "O locație proeminentă din districtul Al-Sabeen, utilizată frecvent pentru evenimente sociale și nunți.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187805,
+                        15.333146
+                  ]
+            },
+            {
+                  "name": "Al-Saleh Mosque",
+                  "text": "Cea mai mare moschee din Yemen, remarcabilă prin cele șase minarete ale sale ce ating 160 de metri înălțime.",
+                  "category": "religious",
+                  "coords": [
+                        44.207902,
+                        15.325864
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "O moschee din zona parcului Al-Sabeen, decorată cu ferestrele tradiționale din sticlă colorată numite qamariya.",
+                  "category": "landmark",
+                  "coords": [
+                        44.22667,
+                        15.33
+                  ]
+            },
+            {
+                  "name": "Bader mosque",
+                  "text": "Un lăcaș de cult musulman important din Sana'a, remarcabil prin fațada sa din piatră tradițională yemenită.",
+                  "category": "landmark",
+                  "coords": [
+                        44.220981,
+                        15.33377
+                  ]
+            },
+            {
+                  "name": "zahrah mosque",
+                  "text": "O moschee de cartier din capitală, caracterizată prin intrările sale boltite și arhitectura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.198996,
+                        15.326409
+                  ]
+            },
+            {
+                  "name": "Alawgaff mosque",
+                  "text": "O moschee din districtul Al-Sabeen, aflată sub administrarea ministerului fundațiilor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        44.191862,
+                        15.325457
+                  ]
+            },
+            {
+                  "name": "Alaqil Mosque",
+                  "text": "O moschee comunitară din Sana'a, construită în stilul local din zidărie de piatră multicoloră.",
+                  "category": "landmark",
+                  "coords": [
+                        44.188885,
+                        15.331132
+                  ]
+            },
+            {
+                  "name": "Alanssar mosque",
+                  "text": "Un lăcaș de cult situat lângă parcul Al-Sabeen, deservind comunitatea rezidențială din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239249,
+                        15.312278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hadiqah as Saba`in",
+                  "text": "A large central theme park in Sana'a that serves as a popular destination for family recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        44.202536,
+                        15.323696
+                  ]
+            },
+            {
+                  "name": "Rivera Hall",
+                  "text": "A prominent venue in the Al-Sabeen district known for hosting large-scale social events and weddings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.187805,
+                        15.333146
+                  ]
+            },
+            {
+                  "name": "Al-Saleh Mosque",
+                  "text": "Yemen's largest mosque, distinguished by its six towering minarets that reach 160 meters in height.",
+                  "category": "religious",
+                  "coords": [
+                        44.207902,
+                        15.325864
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "A mosque in the Al-Sabeen area featuring the iconic semi-circular stained-glass windows known as qamariya.",
+                  "category": "landmark",
+                  "coords": [
+                        44.22667,
+                        15.33
+                  ]
+            },
+            {
+                  "name": "Bader mosque",
+                  "text": "A prominent place of worship in Sana'a known for its traditional Yemeni stone-carved facade.",
+                  "category": "landmark",
+                  "coords": [
+                        44.220981,
+                        15.33377
+                  ]
+            },
+            {
+                  "name": "zahrah mosque",
+                  "text": "A neighborhood mosque in the capital featuring distinctive arched entranceways and local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.198996,
+                        15.326409
+                  ]
+            },
+            {
+                  "name": "Alawgaff mosque",
+                  "text": "A mosque in the Al-Sabeen district managed by the ministry of religious endowments (Awqaf).",
+                  "category": "landmark",
+                  "coords": [
+                        44.191862,
+                        15.325457
+                  ]
+            },
+            {
+                  "name": "Alaqil Mosque",
+                  "text": "A community mosque in Sana'a built in the local style using multi-colored stone masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        44.188885,
+                        15.331132
+                  ]
+            },
+            {
+                  "name": "Alanssar mosque",
+                  "text": "A place of worship located near Al-Sabeen Park serving the surrounding residential community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239249,
+                        15.312278
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "YE-SA",
     coords: [44.2058, 15.3283],
@@ -195,7 +906,340 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "funcity-sanaa-life-v2",
+    id: "funcity-sanaa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al Ansaar",
+                  "text": "Diese moderne Moschee in Sana'a zeichnet sich durch ihre großen Kuppeln und die elegante islamische Kalligraphie im Inneren aus.",
+                  "category": "religious",
+                  "coords": [
+                        44.207861,
+                        15.339449
+                  ]
+            },
+            {
+                  "name": "Alwahda Park",
+                  "text": "Ein weitläufiger Park in Sanaa mit großen Grünflächen und Fahrgeschäften für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        44.17812,
+                        15.334712
+                  ]
+            },
+            {
+                  "name": "Al-Shawkani Mosque",
+                  "text": "Eine bedeutende Moschee in Sanaa, benannt nach dem berühmten jemenitischen Gelehrten Muhammad al-Schaukani.",
+                  "category": "landmark",
+                  "coords": [
+                        44.177332,
+                        15.350511
+                  ]
+            },
+            {
+                  "name": "al-sultan mosque",
+                  "text": "Diese Moschee in der Hauptstadt besticht durch ihre traditionelle jemenitische Architektur mit kunstvollen Steinmetzarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.192965,
+                        15.340263
+                  ]
+            },
+            {
+                  "name": "Azban mosque",
+                  "text": "Eine lokale Gemeindemoschee im Herzen von Sanaa, die als ruhiger Ort für das tägliche Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.172391,
+                        15.338447
+                  ]
+            },
+            {
+                  "name": "al-zubari mosque",
+                  "text": "Eine zentrale Moschee in der Nähe der belebten Zubari-Straße, ein wichtiger Anlaufpunkt für Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        44.195562,
+                        15.342461
+                  ]
+            },
+            {
+                  "name": "Civil Service Fund",
+                  "text": "Ein spezialisierter Marktplatz in Sanaa, der sich in der Nähe wichtiger Verwaltungsgebäude befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.189097,
+                        15.333899
+                  ]
+            },
+            {
+                  "name": "aljazeera grocry",
+                  "text": "Ein lokaler Markt, der für seine Auswahl an traditionellen jemenitischen Gewürzen und frischen Lebensmitteln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.173609,
+                        15.338418
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Ein geschäftiger Markt in Sanaa, auf dem fangfrischer Fisch von der Küste des Roten Meeres verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        44.210325,
+                        15.341561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al Ansaar",
+                  "text": "Ez a modern szanaai mecset nagy kupoláiról és az épület belsejében található elegáns iszlám kalligráfiáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.207861,
+                        15.339449
+                  ]
+            },
+            {
+                  "name": "Alwahda Park",
+                  "text": "Szaná tágas szabadidőparkja nagy zöldfelületekkel és családi szórakoztató játékokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        44.17812,
+                        15.334712
+                  ]
+            },
+            {
+                  "name": "Al-Shawkani Mosque",
+                  "text": "Szaná egyik jelentős mecsetje, amely a híres jemeni tudósról, Muhammad al-Savkaniról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        44.177332,
+                        15.350511
+                  ]
+            },
+            {
+                  "name": "al-sultan mosque",
+                  "text": "A fővárosi mecset a hagyományos jemeni építészet jegyeit és díszes kőfaragásokat hordozza.",
+                  "category": "landmark",
+                  "coords": [
+                        44.192965,
+                        15.340263
+                  ]
+            },
+            {
+                  "name": "Azban mosque",
+                  "text": "Szaná szívében található helyi közösségi mecset, amely a napi imádságok nyugodt színhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.172391,
+                        15.338447
+                  ]
+            },
+            {
+                  "name": "al-zubari mosque",
+                  "text": "Központi mecset a forgalmas Zubari utca közelében, a hívők egyik fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.195562,
+                        15.342461
+                  ]
+            },
+            {
+                  "name": "Civil Service Fund",
+                  "text": "Speciális piactér Szanában, amely a fontos közigazgatási épületek szomszédságában található.",
+                  "category": "cultural",
+                  "coords": [
+                        44.189097,
+                        15.333899
+                  ]
+            },
+            {
+                  "name": "aljazeera grocry",
+                  "text": "Helyi piac, amely a hagyományos jemeni fűszerek és a friss élelmiszerek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.173609,
+                        15.338418
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Szaná forgalmas piaca, ahol a Vörös-tenger partjáról származó frissen fogott halakat árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        44.210325,
+                        15.341561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al Ansaar",
+                  "text": "Această moschee modernă din Sana'a se remarcă prin cupolele sale mari și caligrafia islamică elegantă din interior.",
+                  "category": "religious",
+                  "coords": [
+                        44.207861,
+                        15.339449
+                  ]
+            },
+            {
+                  "name": "Alwahda Park",
+                  "text": "Un parc vast în Sana'a, cu spații verzi largi și atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        44.17812,
+                        15.334712
+                  ]
+            },
+            {
+                  "name": "Al-Shawkani Mosque",
+                  "text": "O moschee importantă din Sana'a, numită după renumitul savant yemenit Muhammad al-Shawkani.",
+                  "category": "landmark",
+                  "coords": [
+                        44.177332,
+                        15.350511
+                  ]
+            },
+            {
+                  "name": "al-sultan mosque",
+                  "text": "Această moschee din capitală impresionează prin arhitectura tradițională yemenită cu sculpturi în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        44.192965,
+                        15.340263
+                  ]
+            },
+            {
+                  "name": "Azban mosque",
+                  "text": "O moschee comunitară locală în inima orașului Sana'a, servind ca loc liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.172391,
+                        15.338447
+                  ]
+            },
+            {
+                  "name": "al-zubari mosque",
+                  "text": "O moschee centrală situată lângă strada animată Zubari, un punct important pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        44.195562,
+                        15.342461
+                  ]
+            },
+            {
+                  "name": "Civil Service Fund",
+                  "text": "O piață specializată din Sana'a, situată în proximitatea clădirilor administrative importante.",
+                  "category": "cultural",
+                  "coords": [
+                        44.189097,
+                        15.333899
+                  ]
+            },
+            {
+                  "name": "aljazeera grocry",
+                  "text": "O piață locală cunoscută pentru selecția de condimente tradiționale yemenite și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        44.173609,
+                        15.338418
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "O piață animată din Sana'a unde se vinde pește proaspăt adus de pe coasta Mării Roșii.",
+                  "category": "cultural",
+                  "coords": [
+                        44.210325,
+                        15.341561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al Ansaar",
+                  "text": "This modern mosque in Sana'a is noted for its large domes and the elegant Islamic calligraphy found inside.",
+                  "category": "religious",
+                  "coords": [
+                        44.207861,
+                        15.339449
+                  ]
+            },
+            {
+                  "name": "Alwahda Park",
+                  "text": "A spacious park in Sana'a featuring large green areas and recreational rides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        44.17812,
+                        15.334712
+                  ]
+            },
+            {
+                  "name": "Al-Shawkani Mosque",
+                  "text": "A significant mosque in Sana'a named after the renowned Yemeni scholar Muhammad al-Shawkani.",
+                  "category": "landmark",
+                  "coords": [
+                        44.177332,
+                        15.350511
+                  ]
+            },
+            {
+                  "name": "al-sultan mosque",
+                  "text": "This capital mosque features traditional Yemeni architecture with intricate decorative stonework.",
+                  "category": "landmark",
+                  "coords": [
+                        44.192965,
+                        15.340263
+                  ]
+            },
+            {
+                  "name": "Azban mosque",
+                  "text": "A local community mosque in the heart of Sana'a, serving as a peaceful site for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.172391,
+                        15.338447
+                  ]
+            },
+            {
+                  "name": "al-zubari mosque",
+                  "text": "A central mosque located near the bustling Zubari Street, serving as a key gathering point for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.195562,
+                        15.342461
+                  ]
+            },
+            {
+                  "name": "Civil Service Fund",
+                  "text": "A specialized marketplace in Sana'a located in the vicinity of important administrative buildings.",
+                  "category": "cultural",
+                  "coords": [
+                        44.189097,
+                        15.333899
+                  ]
+            },
+            {
+                  "name": "aljazeera grocry",
+                  "text": "A local market known for its selection of traditional Yemeni spices and fresh food products.",
+                  "category": "cultural",
+                  "coords": [
+                        44.173609,
+                        15.338418
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "A bustling marketplace in Sana'a where fresh fish caught off the Red Sea coast is sold.",
+                  "category": "cultural",
+                  "coords": [
+                        44.210325,
+                        15.341561
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "YE-SA",
     coords: [44.2052, 15.3400],
@@ -259,7 +1303,736 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "bani-matar-coffee-farms-life-v2",
+    id: "bani-matar-coffee-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Kudafah",
+                  "text": "Ein Berggipfel in der Region Bani Matar, einem Gebiet, das weltweit für seinen hochwertigen Kaffeeanbau bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.881645,
+                        15.285817
+                  ]
+            },
+            {
+                  "name": "Jabal Hirmah",
+                  "text": "Ein felsiger Gipfel im Distrikt Bani Matar mit Blick auf die historischen Kaffeeanbau-Terrassen des Hochlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.896804,
+                        15.289451
+                  ]
+            },
+            {
+                  "name": "Jabal Qayfan",
+                  "text": "Ein markanter Gipfel im zentralen Hochland, umgeben von den grünen Hängen, die typisch für das kaffeereiche Bani Matar sind.",
+                  "category": "natural",
+                  "coords": [
+                        43.99985,
+                        15.19945
+                  ]
+            },
+            {
+                  "name": "bani-mutter waterfall",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen saisonalen Wasserfall, der über die Felsklippen von Bani Matar stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        43.995505,
+                        15.204324
+                  ]
+            },
+            {
+                  "name": "Jabal Raymah",
+                  "text": "Ein Berggipfel im Gebiet Bani Matar, gekennzeichnet durch seine nebelverhangenen Hänge und alten landwirtschaftlichen Terrassen.",
+                  "category": "natural",
+                  "coords": [
+                        43.937111,
+                        15.220865
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "Ein hoher Gipfel im vulkanischen Hochland des Jemens, bekannt für seine raue Schönheit und die Nähe zu Kaffeegütern.",
+                  "category": "natural",
+                  "coords": [
+                        43.914848,
+                        15.264373
+                  ]
+            },
+            {
+                  "name": "Jabal Sawdan",
+                  "text": "Ein felsiger Berggipfel im Kaffee-Zentrum von Bani Matar, in dessen Nähe sich traditionelle Steinarchitektur befindet.",
+                  "category": "natural",
+                  "coords": [
+                        43.894917,
+                        15.248773
+                  ]
+            },
+            {
+                  "name": "Jabal al Mansurah",
+                  "text": "Ein markanter Berg im zentralen Hochland, wo sich alte terrassierte Felder an die steilen, felsigen Hänge klammern.",
+                  "category": "natural",
+                  "coords": [
+                        43.893194,
+                        15.243814
+                  ]
+            },
+            {
+                  "name": "Jabal Yana",
+                  "text": "Ein hochgelegener Gipfel in den westlichen Bergen, bekannt für seine herbe Schönheit und den Anbau von Matari-Kaffee in der Nähe.",
+                  "category": "natural",
+                  "coords": [
+                        43.907253,
+                        15.202653
+                  ]
+            },
+            {
+                  "name": "Jabal Dawqar",
+                  "text": "Ein schroffer Gipfel im Hochland des Gouvernements Sana'a, umgeben von einer Landschaft aus tiefen Tälern und Steindörfern.",
+                  "category": "natural",
+                  "coords": [
+                        43.908611,
+                        15.211111
+                  ]
+            },
+            {
+                  "name": "Jabal Jubah",
+                  "text": "Ein Berggipfel in der Region Bani Matar, wo die kühle Bergluft das Wachstum der geschätzten Kaffeebohnen begünstigt.",
+                  "category": "natural",
+                  "coords": [
+                        43.915709,
+                        15.232396
+                  ]
+            },
+            {
+                  "name": "Jabal al Hajar",
+                  "text": "Ein felsiger Gipfel im jemenitischen Hochland, benannt nach dem steinreichen Gelände, das diese Gebirgslandschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        43.926229,
+                        15.218925
+                  ]
+            },
+            {
+                  "name": "Jabal Warkhan",
+                  "text": "Ein gewaltiger Gipfel im Distrikt Bani Matar, ein erstklassiger Standort für die traditionelle Hochland-Landwirtschaft.",
+                  "category": "natural",
+                  "coords": [
+                        43.91672,
+                        15.166883
+                  ]
+            },
+            {
+                  "name": "Jabal ash Sharqi",
+                  "text": "Ein östlicher Gipfel in der zentralen Gebirgskette, der eine natürliche Barriere und malerische Ausblicke auf die Inlandsplateaus bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.90432,
+                        15.18009
+                  ]
+            },
+            {
+                  "name": "Jabal al Laah",
+                  "text": "Ein Berggipfel im schroffen Gelände des Gouvernements Sana'a, wo antike Steinstrukturen die Landschaft prägen.",
+                  "category": "natural",
+                  "coords": [
+                        43.89568,
+                        15.197015
+                  ]
+            },
+            {
+                  "name": "Jabal Hisn Suwayd",
+                  "text": "Ein nach einer antiken Festung (Hisn) benannter Gipfel, gelegen im Herzen des historischen Kaffeeanbau-Hochlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.872956,
+                        15.186562
+                  ]
+            },
+            {
+                  "name": "Jabal ar Rukhamiyah",
+                  "text": "Ein Berggipfel in der Region Bani Matar, bekannt für seine markanten geologischen Merkmale und seine große Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        43.895337,
+                        15.162153
+                  ]
+            },
+            {
+                  "name": "Jabal Namar",
+                  "text": "Ein markanter felsiger Gipfel im Hochland, wo traditionelle jemenitische Bergdörfer auf steilen Graten thronen.",
+                  "category": "natural",
+                  "coords": [
+                        43.916667,
+                        15.15
+                  ]
+            },
+            {
+                  "name": "Jabal al Manar",
+                  "text": "Ein Gipfel in den Bergen von Bani Matar mit Blick auf die weiten Terrassen, auf denen der berühmte jemenitische Kaffee angebaut wird.",
+                  "category": "natural",
+                  "coords": [
+                        43.956945,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Jabal al `Urr",
+                  "text": "Ein steiler Berggipfel im zentralen Hochland, gekennzeichnet durch seine dramatischen Klippen und die uralte Terrassenlandwirtschaft.",
+                  "category": "natural",
+                  "coords": [
+                        43.984962,
+                        15.183217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Kudafah",
+                  "text": "Hegyi csúcs Bani Matar régiójában, amely terület világszerte híres a kiváló minőségű kávétermesztéséről.",
+                  "category": "natural",
+                  "coords": [
+                        43.881645,
+                        15.285817
+                  ]
+            },
+            {
+                  "name": "Jabal Hirmah",
+                  "text": "Sziklás csúcs Bani Matar körzetében, kilátással a felföld történelmi kávétermesztő teraszaira.",
+                  "category": "natural",
+                  "coords": [
+                        43.896804,
+                        15.289451
+                  ]
+            },
+            {
+                  "name": "Jabal Qayfan",
+                  "text": "Kiemelkedő csúcs a központi felföldön, a kávéban gazdag Bani Matar jellegzetes zöldellő lejtőivel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        43.99985,
+                        15.19945
+                  ]
+            },
+            {
+                  "name": "bani-mutter waterfall",
+                  "text": "Festői kilátópont, amely egy időszakos vízesésre néz, amint az aláomlik Bani Matar sziklás falain.",
+                  "category": "natural",
+                  "coords": [
+                        43.995505,
+                        15.204324
+                  ]
+            },
+            {
+                  "name": "Jabal Raymah",
+                  "text": "Hegyi csúcs Bani Matar területén, amelyet ködbe burkolózó lejtők és ősi mezőgazdasági teraszok jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        43.937111,
+                        15.220865
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "Magas csúcs Jemen vulkanikus felföldjén, amely zord szépségéről és kávéültetvények közelségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.914848,
+                        15.264373
+                  ]
+            },
+            {
+                  "name": "Jabal Sawdan",
+                  "text": "Sziklás hegycsúcs Bani Matar kávétermelő vidékén, amelynek közelében hagyományos kőépítészet található.",
+                  "category": "natural",
+                  "coords": [
+                        43.894917,
+                        15.248773
+                  ]
+            },
+            {
+                  "name": "Jabal al Mansurah",
+                  "text": "Kiemelkedő hegy a központi felföldön, ahol ősi teraszos mezők kapaszkodnak a meredek, sziklás lejtőkbe.",
+                  "category": "natural",
+                  "coords": [
+                        43.893194,
+                        15.243814
+                  ]
+            },
+            {
+                  "name": "Jabal Yana",
+                  "text": "Magaslati csúcs a nyugati hegyekben, amely zord szépségéről és a közeli Matari kávé termesztéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.907253,
+                        15.202653
+                  ]
+            },
+            {
+                  "name": "Jabal Dawqar",
+                  "text": "Sziklás csúcs Szanaa kormányzóság felföldjén, mély völgyek és kőfalvak tájaival körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        43.908611,
+                        15.211111
+                  ]
+            },
+            {
+                  "name": "Jabal Jubah",
+                  "text": "Hegyi csúcs Bani Matar régiójában, ahol a hűvös hegyi levegő elősegíti az értékes kávébabok fejlődését.",
+                  "category": "natural",
+                  "coords": [
+                        43.915709,
+                        15.232396
+                  ]
+            },
+            {
+                  "name": "Jabal al Hajar",
+                  "text": "Sziklás csúcs a jemeni felföldön, amelyet a hegyvidéki tájat meghatározó kőgazdag terepről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        43.926229,
+                        15.218925
+                  ]
+            },
+            {
+                  "name": "Jabal Warkhan",
+                  "text": "Magasló csúcs Bani Matar körzetében, amely a hagyományos magaslati mezőgazdaság egyik fő helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        43.91672,
+                        15.166883
+                  ]
+            },
+            {
+                  "name": "Jabal ash Sharqi",
+                  "text": "A központi hegylánc egyik keleti csúcsa, amely természetes határként és festői kilátóhelyként szolgál a belső fennsíkokra.",
+                  "category": "natural",
+                  "coords": [
+                        43.90432,
+                        15.18009
+                  ]
+            },
+            {
+                  "name": "Jabal al Laah",
+                  "text": "Hegyi csúcs Szanaa kormányzóság zord terepén, ahol ősi kőépítmények tarkítják a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        43.89568,
+                        15.197015
+                  ]
+            },
+            {
+                  "name": "Jabal Hisn Suwayd",
+                  "text": "Egy ősi erődről (Hiszn) elnevezett csúcs a történelmi kávétermesztő felföld szívében.",
+                  "category": "natural",
+                  "coords": [
+                        43.872956,
+                        15.186562
+                  ]
+            },
+            {
+                  "name": "Jabal ar Rukhamiyah",
+                  "text": "Hegyi csúcs Bani Matar régiójában, amely jellegzetes geológiai vonásairól és nagy magasságáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.895337,
+                        15.162153
+                  ]
+            },
+            {
+                  "name": "Jabal Namar",
+                  "text": "Kiemelkedő sziklás csúcs a felföldön, ahol hagyományos jemeni hegyi falvak fészkelnek a meredek gerinceken.",
+                  "category": "natural",
+                  "coords": [
+                        43.916667,
+                        15.15
+                  ]
+            },
+            {
+                  "name": "Jabal al Manar",
+                  "text": "Csúcs Bani Matar hegyeiben, ahonnan kilátás nyílik a híres jemeni kávé termesztésére használt kiterjedt teraszokra.",
+                  "category": "natural",
+                  "coords": [
+                        43.956945,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Jabal al `Urr",
+                  "text": "Meredek hegycsúcs a központi felföldön, amelyet drámai sziklák és ősi teraszos mezőgazdaság jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        43.984962,
+                        15.183217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Kudafah",
+                  "text": "Un vârf muntos în regiunea Bani Matar, o zonă renumită la nivel mondial pentru cultivarea cafelei de înaltă calitate.",
+                  "category": "natural",
+                  "coords": [
+                        43.881645,
+                        15.285817
+                  ]
+            },
+            {
+                  "name": "Jabal Hirmah",
+                  "text": "Un vârf stâncos în districtul Bani Matar, cu vedere la terasele istorice de cultivare a cafelei din podiș.",
+                  "category": "natural",
+                  "coords": [
+                        43.896804,
+                        15.289451
+                  ]
+            },
+            {
+                  "name": "Jabal Qayfan",
+                  "text": "Un vârf proeminent în podișul central, înconjurat de pantele verzi tipice regiunii Bani Matar, bogată în cafea.",
+                  "category": "natural",
+                  "coords": [
+                        43.99985,
+                        15.19945
+                  ]
+            },
+            {
+                  "name": "bani-mutter waterfall",
+                  "text": "Un punct de belvedere pitoresc de unde se poate vedea o cascadă sezonieră care se varsă peste stâncile din Bani Matar.",
+                  "category": "natural",
+                  "coords": [
+                        43.995505,
+                        15.204324
+                  ]
+            },
+            {
+                  "name": "Jabal Raymah",
+                  "text": "Un vârf muntos în zona Bani Matar, caracterizat prin pantele sale învăluite în ceață și terasele agricole antice.",
+                  "category": "natural",
+                  "coords": [
+                        43.937111,
+                        15.220865
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "Un vârf înalt în podișul vulcanic al Yemenului, cunoscut pentru frumusețea sa aspră și proximitatea de plantațiile de cafea.",
+                  "category": "natural",
+                  "coords": [
+                        43.914848,
+                        15.264373
+                  ]
+            },
+            {
+                  "name": "Jabal Sawdan",
+                  "text": "Un vârf muntos stâncos în inima producției de cafea din Bani Matar, prezentând arhitectură tradițională de piatră în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        43.894917,
+                        15.248773
+                  ]
+            },
+            {
+                  "name": "Jabal al Mansurah",
+                  "text": "Un munte proeminent în podișul central, unde câmpurile terasate antice se agață de pantele stâncoase și abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        43.893194,
+                        15.243814
+                  ]
+            },
+            {
+                  "name": "Jabal Yana",
+                  "text": "Un vârf de mare altitudine în munții din vest, cunoscut pentru frumusețea sa austeră și cultivarea cafelei Matari în apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        43.907253,
+                        15.202653
+                  ]
+            },
+            {
+                  "name": "Jabal Dawqar",
+                  "text": "Un vârf accidentat în podișul guvernoratului Sana'a, înconjurat de un peisaj de văi adânci și sate de piatră.",
+                  "category": "natural",
+                  "coords": [
+                        43.908611,
+                        15.211111
+                  ]
+            },
+            {
+                  "name": "Jabal Jubah",
+                  "text": "Un vârf muntos în regiunea Bani Matar, unde aerul rece de munte susține creșterea boabelor de cafea prețioase.",
+                  "category": "natural",
+                  "coords": [
+                        43.915709,
+                        15.232396
+                  ]
+            },
+            {
+                  "name": "Jabal al Hajar",
+                  "text": "Un vârf stâncos din podișul yemenit, numit după terenul bogat în piatră care definește acest peisaj montan.",
+                  "category": "natural",
+                  "coords": [
+                        43.926229,
+                        15.218925
+                  ]
+            },
+            {
+                  "name": "Jabal Warkhan",
+                  "text": "Un vârf impunător în districtul Bani Matar, o locație primordială pentru agricultura tradițională de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        43.91672,
+                        15.166883
+                  ]
+            },
+            {
+                  "name": "Jabal ash Sharqi",
+                  "text": "Un vârf estic din lanțul muntos central, oferind o barieră naturală și priveliști pitorești ale podișurilor interioare.",
+                  "category": "natural",
+                  "coords": [
+                        43.90432,
+                        15.18009
+                  ]
+            },
+            {
+                  "name": "Jabal al Laah",
+                  "text": "Un vârf muntos în terenul accidentat al guvernoratului Sana'a, unde structuri antice de piatră punctează peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        43.89568,
+                        15.197015
+                  ]
+            },
+            {
+                  "name": "Jabal Hisn Suwayd",
+                  "text": "Un vârf numit după o fortăreață antică (Hisn), situat în inima podișului istoric unde se cultivă cafeaua.",
+                  "category": "natural",
+                  "coords": [
+                        43.872956,
+                        15.186562
+                  ]
+            },
+            {
+                  "name": "Jabal ar Rukhamiyah",
+                  "text": "Un vârf muntos în regiunea Bani Matar, cunoscut pentru caracteristicile sale geologice distinctive și altitudinea mare.",
+                  "category": "natural",
+                  "coords": [
+                        43.895337,
+                        15.162153
+                  ]
+            },
+            {
+                  "name": "Jabal Namar",
+                  "text": "Un vârf stâncos proeminent în podiș, unde satele muntoase tradiționale yemenite sunt cocoțate pe creste abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        43.916667,
+                        15.15
+                  ]
+            },
+            {
+                  "name": "Jabal al Manar",
+                  "text": "Un vârf în munții Bani Matar, oferind vederi spre terasele vaste folosite pentru cultivarea faimoasei cafele din Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        43.956945,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Jabal al `Urr",
+                  "text": "Un vârf muntos abrupt din podișul central, caracterizat prin stâncile sale spectaculoase și agricultura terasată antică.",
+                  "category": "natural",
+                  "coords": [
+                        43.984962,
+                        15.183217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Kudafah",
+                  "text": "A mountain peak in the Bani Matar region, an area world-renowned for its high-quality coffee cultivation.",
+                  "category": "natural",
+                  "coords": [
+                        43.881645,
+                        15.285817
+                  ]
+            },
+            {
+                  "name": "Jabal Hirmah",
+                  "text": "A rocky summit in the Bani Matar district, overlooking the historic coffee-growing terraces of the highlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.896804,
+                        15.289451
+                  ]
+            },
+            {
+                  "name": "Jabal Qayfan",
+                  "text": "A prominent peak in the central highlands, surrounded by the verdant slopes typical of the coffee-rich Bani Matar.",
+                  "category": "natural",
+                  "coords": [
+                        43.99985,
+                        15.19945
+                  ]
+            },
+            {
+                  "name": "bani-mutter waterfall",
+                  "text": "A scenic viewpoint overlooking a seasonal waterfall that cascades down the rocky cliffs of Bani Matar.",
+                  "category": "natural",
+                  "coords": [
+                        43.995505,
+                        15.204324
+                  ]
+            },
+            {
+                  "name": "Jabal Raymah",
+                  "text": "A mountain peak in the Bani Matar area, characterized by its mist-shrouded slopes and ancient farming terraces.",
+                  "category": "natural",
+                  "coords": [
+                        43.937111,
+                        15.220865
+                  ]
+            },
+            {
+                  "name": "Jabal Zafar",
+                  "text": "A high peak in the volcanic highlands of Yemen, known for its rugged beauty and proximity to coffee estates.",
+                  "category": "natural",
+                  "coords": [
+                        43.914848,
+                        15.264373
+                  ]
+            },
+            {
+                  "name": "Jabal Sawdan",
+                  "text": "A rocky mountain summit in the coffee-producing heartland of Bani Matar, featuring traditional stone architecture nearby.",
+                  "category": "natural",
+                  "coords": [
+                        43.894917,
+                        15.248773
+                  ]
+            },
+            {
+                  "name": "Jabal al Mansurah",
+                  "text": "A prominent mountain in the central highlands, where ancient terraced fields cling to the steep, rocky slopes.",
+                  "category": "natural",
+                  "coords": [
+                        43.893194,
+                        15.243814
+                  ]
+            },
+            {
+                  "name": "Jabal Yana",
+                  "text": "A high-altitude peak in the western mountains, known for its stark beauty and the cultivation of Matari coffee nearby.",
+                  "category": "natural",
+                  "coords": [
+                        43.907253,
+                        15.202653
+                  ]
+            },
+            {
+                  "name": "Jabal Dawqar",
+                  "text": "A rugged peak in the highlands of Sana'a Governorate, surrounded by a landscape of deep valleys and stone villages.",
+                  "category": "natural",
+                  "coords": [
+                        43.908611,
+                        15.211111
+                  ]
+            },
+            {
+                  "name": "Jabal Jubah",
+                  "text": "A mountain summit in the Bani Matar region, where the cool mountain air supports the growth of prized coffee beans.",
+                  "category": "natural",
+                  "coords": [
+                        43.915709,
+                        15.232396
+                  ]
+            },
+            {
+                  "name": "Jabal al Hajar",
+                  "text": "A rocky peak in the Yemeni highlands, named for the stone-rich terrain that defines this mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.926229,
+                        15.218925
+                  ]
+            },
+            {
+                  "name": "Jabal Warkhan",
+                  "text": "A towering summit in the Bani Matar district, a prime location for traditional high-altitude agriculture.",
+                  "category": "natural",
+                  "coords": [
+                        43.91672,
+                        15.166883
+                  ]
+            },
+            {
+                  "name": "Jabal ash Sharqi",
+                  "text": "An eastern peak in the central mountain range, providing a natural barrier and scenic vistas of the inland plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        43.90432,
+                        15.18009
+                  ]
+            },
+            {
+                  "name": "Jabal al Laah",
+                  "text": "A mountain peak in the rugged terrain of Sana'a Governorate, where ancient stone structures dot the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.89568,
+                        15.197015
+                  ]
+            },
+            {
+                  "name": "Jabal Hisn Suwayd",
+                  "text": "A peak named after an ancient fortress (Hisn), located in the heart of the historic coffee-growing highlands.",
+                  "category": "natural",
+                  "coords": [
+                        43.872956,
+                        15.186562
+                  ]
+            },
+            {
+                  "name": "Jabal ar Rukhamiyah",
+                  "text": "A mountain summit in the Bani Matar region, known for its distinctive geological features and high elevation.",
+                  "category": "natural",
+                  "coords": [
+                        43.895337,
+                        15.162153
+                  ]
+            },
+            {
+                  "name": "Jabal Namar",
+                  "text": "A prominent rocky peak in the highlands, where traditional Yemeni mountain villages are perched on steep ridges.",
+                  "category": "natural",
+                  "coords": [
+                        43.916667,
+                        15.15
+                  ]
+            },
+            {
+                  "name": "Jabal al Manar",
+                  "text": "A peak in the Bani Matar mountains, offering views of the expansive terraces used for cultivating Yemen's famous coffee.",
+                  "category": "natural",
+                  "coords": [
+                        43.956945,
+                        15.155556
+                  ]
+            },
+            {
+                  "name": "Jabal al `Urr",
+                  "text": "A steep mountain summit in the central highlands, characterized by its dramatic cliffs and ancient terraced agriculture.",
+                  "category": "natural",
+                  "coords": [
+                        43.984962,
+                        15.183217
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "YE-SN",
     coords: [43.9525, 15.2287],
@@ -387,7 +2160,376 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "wadi-dhar-orchards-life-v2",
+    id: "wadi-dhar-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Aswad",
+                  "text": "Ein dunkler Gebirgszug, der das Wadi Dahr überragt und weite Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.15,
+                        15.516667
+                  ]
+            },
+            {
+                  "name": "Jabal al Hawiri",
+                  "text": "Ein felsiger Gipfel im Wadi Dahr, bekannt für seine steilen Hänge und die Aussicht auf die Obstgärten.",
+                  "category": "natural",
+                  "coords": [
+                        44.141331,
+                        15.509886
+                  ]
+            },
+            {
+                  "name": "Hammat Madam",
+                  "text": "Ein markanter Berg im Hochland, der das Relief des fruchtbaren Wadi-Dahr-Beckens prägt.",
+                  "category": "natural",
+                  "coords": [
+                        44.1348,
+                        15.498995
+                  ]
+            },
+            {
+                  "name": "Jabal al Qa`",
+                  "text": "Ein hoher Berggipfel, der über die traditionellen Siedlungen im Wadi Dahr wacht.",
+                  "category": "natural",
+                  "coords": [
+                        44.114377,
+                        15.499795
+                  ]
+            },
+            {
+                  "name": "Jabal Mabarah",
+                  "text": "Ein felsiger Gipfel, der eine beeindruckende Kulisse für die lokalen Obst- und Weingärten bildet.",
+                  "category": "natural",
+                  "coords": [
+                        44.110333,
+                        15.495116
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuqs",
+                  "text": "Ein Gipfel im zerklüfteten Gelände, der die typische Geologie des zentralen jemenitischen Hochlands zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        44.088703,
+                        15.49079
+                  ]
+            },
+            {
+                  "name": "Jabal Maris",
+                  "text": "Ein Berggipfel in der Nähe des Wadi Dahr, der weite Ausblicke auf die felsige Hochebene bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.079014,
+                        15.494418
+                  ]
+            },
+            {
+                  "name": "Jabal `Uram",
+                  "text": "Ein schroffer Gipfel im Hochland, der Teil der dramatischen Canyon-Landschaft um das Wadi Dahr ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.102708,
+                        15.479966
+                  ]
+            },
+            {
+                  "name": "Jabal al Hammah",
+                  "text": "Ein Berggipfel im Wadi Dahr, der über die üppige Vegetation im Talgrund ragt.",
+                  "category": "natural",
+                  "coords": [
+                        44.146698,
+                        15.478669
+                  ]
+            },
+            {
+                  "name": "Branch of the village",
+                  "text": "Ein Aussichtspunkt am Dorfrand mit Blick auf die traditionellen Häuser und Terrassenfelder.",
+                  "category": "natural",
+                  "coords": [
+                        44.163851,
+                        15.463134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Aswad",
+                  "text": "A Wadi Dahr fölé magasodó sötét hegyvonulat, ahonnan messzire el lehet látni.",
+                  "category": "natural",
+                  "coords": [
+                        44.15,
+                        15.516667
+                  ]
+            },
+            {
+                  "name": "Jabal al Hawiri",
+                  "text": "Sziklás csúcs a Wadi Dahr területén, meredek lejtőiről és a gyümölcsösökre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.141331,
+                        15.509886
+                  ]
+            },
+            {
+                  "name": "Hammat Madam",
+                  "text": "A felföld egyik jellegzetes hegye, amely a termékeny Wadi Dahr-medence domborzatát határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        44.1348,
+                        15.498995
+                  ]
+            },
+            {
+                  "name": "Jabal al Qa`",
+                  "text": "Magas hegycsúcs, amely a Wadi Dahr hagyományos települései felett őrködik.",
+                  "category": "natural",
+                  "coords": [
+                        44.114377,
+                        15.499795
+                  ]
+            },
+            {
+                  "name": "Jabal Mabarah",
+                  "text": "Sziklás hegycsúcs, amely lenyűgöző hátteret biztosít a helyi gyümölcsösöknek és szőlőültetvényeknek.",
+                  "category": "natural",
+                  "coords": [
+                        44.110333,
+                        15.495116
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuqs",
+                  "text": "Csúcs a sziklás terepen, amely a közép-jemeni felföld tipikus geológiáját mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        44.088703,
+                        15.49079
+                  ]
+            },
+            {
+                  "name": "Jabal Maris",
+                  "text": "A Wadi Dahr közelében található hegycsúcs, ahonnan kilátás nyílik a sziklás fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        44.079014,
+                        15.494418
+                  ]
+            },
+            {
+                  "name": "Jabal `Uram",
+                  "text": "Meredek felföldi csúcs, amely a Wadi Dahr körüli drámai kanyonvidék része.",
+                  "category": "natural",
+                  "coords": [
+                        44.102708,
+                        15.479966
+                  ]
+            },
+            {
+                  "name": "Jabal al Hammah",
+                  "text": "Hegycsúcs a Wadi Dahr területén, amely a völgy alján található dús vegetáció fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        44.146698,
+                        15.478669
+                  ]
+            },
+            {
+                  "name": "Branch of the village",
+                  "text": "Kilátópont a falu szélén, ahonnan a hagyományos házakra és teraszos földekre nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        44.163851,
+                        15.463134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Aswad",
+                  "text": "Un lanț muntos întunecat care domină Wadi Dahr, oferind vederi spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        44.15,
+                        15.516667
+                  ]
+            },
+            {
+                  "name": "Jabal al Hawiri",
+                  "text": "Un vârf stâncos în Wadi Dahr, cunoscut pentru pantele sale abrupte și vederea spre livezi.",
+                  "category": "natural",
+                  "coords": [
+                        44.141331,
+                        15.509886
+                  ]
+            },
+            {
+                  "name": "Hammat Madam",
+                  "text": "Un munte proeminent în zonele înalte care definește relieful bazinului fertil Wadi Dahr.",
+                  "category": "natural",
+                  "coords": [
+                        44.1348,
+                        15.498995
+                  ]
+            },
+            {
+                  "name": "Jabal al Qa`",
+                  "text": "Un vârf de munte înalt care veghează asupra așezărilor tradiționale din Wadi Dahr.",
+                  "category": "natural",
+                  "coords": [
+                        44.114377,
+                        15.499795
+                  ]
+            },
+            {
+                  "name": "Jabal Mabarah",
+                  "text": "Un vârf stâncos care oferă un fundal impresionant pentru livezile și podgoriile locale.",
+                  "category": "natural",
+                  "coords": [
+                        44.110333,
+                        15.495116
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuqs",
+                  "text": "Un vârf în terenul accidentat care prezintă geologia tipică a zonelor înalte din centrul Yemenului.",
+                  "category": "natural",
+                  "coords": [
+                        44.088703,
+                        15.49079
+                  ]
+            },
+            {
+                  "name": "Jabal Maris",
+                  "text": "Un vârf de munte lângă Wadi Dahr, oferind vederi largi asupra platoului stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        44.079014,
+                        15.494418
+                  ]
+            },
+            {
+                  "name": "Jabal `Uram",
+                  "text": "Un vârf abrupt de munte, parte a peisajului dramatic de canion din jurul Wadi Dahr.",
+                  "category": "natural",
+                  "coords": [
+                        44.102708,
+                        15.479966
+                  ]
+            },
+            {
+                  "name": "Jabal al Hammah",
+                  "text": "Un vârf de munte în Wadi Dahr care se înalță deasupra vegetației luxuriante din fundul văii.",
+                  "category": "natural",
+                  "coords": [
+                        44.146698,
+                        15.478669
+                  ]
+            },
+            {
+                  "name": "Branch of the village",
+                  "text": "Punct de observație la marginea satului, cu vedere spre casele tradiționale și câmpurile terasate.",
+                  "category": "natural",
+                  "coords": [
+                        44.163851,
+                        15.463134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Aswad",
+                  "text": "A dark-toned mountain ridge towering over Wadi Dahr with expansive highland views.",
+                  "category": "natural",
+                  "coords": [
+                        44.15,
+                        15.516667
+                  ]
+            },
+            {
+                  "name": "Jabal al Hawiri",
+                  "text": "A rocky peak in Wadi Dahr known for its steep slopes and views of the orchards below.",
+                  "category": "natural",
+                  "coords": [
+                        44.141331,
+                        15.509886
+                  ]
+            },
+            {
+                  "name": "Hammat Madam",
+                  "text": "A prominent highland mountain defining the relief of the fertile Wadi Dahr basin.",
+                  "category": "natural",
+                  "coords": [
+                        44.1348,
+                        15.498995
+                  ]
+            },
+            {
+                  "name": "Jabal al Qa`",
+                  "text": "A high mountain peak watching over the traditional settlements within Wadi Dahr.",
+                  "category": "natural",
+                  "coords": [
+                        44.114377,
+                        15.499795
+                  ]
+            },
+            {
+                  "name": "Jabal Mabarah",
+                  "text": "A rocky summit providing an impressive backdrop to the local orchards and vineyards.",
+                  "category": "natural",
+                  "coords": [
+                        44.110333,
+                        15.495116
+                  ]
+            },
+            {
+                  "name": "Jabal an Nuqs",
+                  "text": "A peak in the rugged terrain showcasing the typical geology of the central Yemeni highlands.",
+                  "category": "natural",
+                  "coords": [
+                        44.088703,
+                        15.49079
+                  ]
+            },
+            {
+                  "name": "Jabal Maris",
+                  "text": "A mountain peak near Wadi Dahr offering wide views over the rocky plateau.",
+                  "category": "natural",
+                  "coords": [
+                        44.079014,
+                        15.494418
+                  ]
+            },
+            {
+                  "name": "Jabal `Uram",
+                  "text": "A craggy highland peak forming part of the dramatic canyon landscape around Wadi Dahr.",
+                  "category": "natural",
+                  "coords": [
+                        44.102708,
+                        15.479966
+                  ]
+            },
+            {
+                  "name": "Jabal al Hammah",
+                  "text": "A mountain peak in Wadi Dahr rising above the lush vegetation of the valley floor.",
+                  "category": "natural",
+                  "coords": [
+                        44.146698,
+                        15.478669
+                  ]
+            },
+            {
+                  "name": "Branch of the village",
+                  "text": "A viewpoint on the village outskirts overlooking traditional houses and terraced fields.",
+                  "category": "natural",
+                  "coords": [
+                        44.163851,
+                        15.463134
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "YE-SA",
     coords: [44.1275, 15.4419],
@@ -451,7 +2593,52 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "socotra-aloe-fields-life-v2",
+    id: "socotra-aloe-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Di Rohan",
+                  "text": "Der Gipfel liegt inmitten von ausgedehnten Aloe-Feldern und bietet einen weiten Blick über das zentrale Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        53.866667,
+                        12.55
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Di Rohan",
+                  "text": "A csúcs kiterjedt aloé-mezők közepén található, és tágas kilátást nyújt a központi fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        53.866667,
+                        12.55
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Di Rohan",
+                  "text": "Vârful este situat în mijlocul unor câmpuri vaste de aloe și oferă o vedere largă asupra platoului central.",
+                  "category": "natural",
+                  "coords": [
+                        53.866667,
+                        12.55
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Di Rohan",
+                  "text": "The peak is situated amidst extensive aloe fields and offers a broad view across the central plateau.",
+                  "category": "natural",
+                  "coords": [
+                        53.866667,
+                        12.55
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "YE-SU",
     coords: [53.9463, 12.5204],
@@ -515,7 +2702,1348 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "hadhramaut-date-groves-life-v2",
+    id: "hadhramaut-date-groves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaser Alkthiri Seiyun",
+                  "text": "Einer der weltweit größten Lehmziegelpaläste, der einst als prunkvoller Sitz der Kathiri-Sultane diente.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "Hisn an Naqib",
+                  "text": "Verfallene Festungsanlage, die über den üppigen Dattelpalmenhainen von Seiyun thront.",
+                  "category": "historical",
+                  "coords": [
+                        48.833333,
+                        15.95
+                  ]
+            },
+            {
+                  "name": "Hisn al Falas",
+                  "text": "Historische Ruinen einer Höhenburg mit weitem Blick über das Hadhramaut-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman",
+                  "text": "Traditionelle Moschee mit der charakteristischen weißen Kalkfassade des Hadhramaut-Stils.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798801,
+                        15.92093
+                  ]
+            },
+            {
+                  "name": "Masjid al Birr",
+                  "text": "Kleine Stadtteilmoschee inmitten der dichten Dattelpalmenplantagen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.809506,
+                        15.941249
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Moschee im Herzen von Seiyun, bekannt für ihr schlankes weißes Minarett aus Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79653,
+                        15.925581
+                  ]
+            },
+            {
+                  "name": "Masjid as Safa",
+                  "text": "Hadhrami-Moschee mit traditionellem Innenhof und weiß verputzten Wänden in der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798286,
+                        15.937309
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rayyan",
+                  "text": "Moderne Gebetsstätte in den Außenbezirken, die das traditionelle architektonische Erbe des Tals bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.795498,
+                        15.935056
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Klassische schafiitische Moschee, die mit kunstvollen Holzschnitzereien und lokalen Materialien erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79497,
+                        15.936803
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahmah",
+                  "text": "Schlichte Moschee in einer ruhigen Gasse, umgeben von den typischen mehrstöckigen Lehmhäusern.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79228,
+                        15.93936
+                  ]
+            },
+            {
+                  "name": "Masjid as Saqaf",
+                  "text": "Berühmte Moschee in Tarim, die für ihr außergewöhnlich hohes Minarett und ihr Sufi-Erbe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.792815,
+                        15.946119
+                  ]
+            },
+            {
+                  "name": "Masjid al Muhajir",
+                  "text": "Historisches Gebetshaus in der Nähe des Marktes, erbaut im vertikalen Baustil des Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.797931,
+                        15.949885
+                  ]
+            },
+            {
+                  "name": "Masjid al Jabiriyah",
+                  "text": "An den Hang gebaute Moschee mit traditionellem Windturm zur natürlichen Kühlung des Gebetsraums.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79416,
+                        15.949899
+                  ]
+            },
+            {
+                  "name": "Masjid al Khayr",
+                  "text": "Ort der Ruhe im dichten Stadtgefüge, ausgezeichnet durch seine handgefertigten geometrischen Stuckverzierungen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.790693,
+                        15.947773
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Bin `Umar",
+                  "text": "Lehmziegelmoschee mit einem eleganten quadratischen Minarett, das über die Dächer von Seiyun ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.804767,
+                        15.948271
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyah",
+                  "text": "Traditionelle Moschee in der Nähe der Oase, die seit Generationen als Zentrum der Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.806979,
+                        15.943946
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Kleiner Sakralbau mit einer markanten weißen Kuppel, der sich von den braunen Lehmhäusern abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810086,
+                        15.944701
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Traditionelle Gebetsstätte inmitten der schattigen Palmenhaine der Seiyun-Oase.",
+                  "category": "landmark",
+                  "coords": [
+                        48.826718,
+                        15.959959
+                  ]
+            },
+            {
+                  "name": "Bhah Seiyun Mosque",
+                  "text": "Stadtteilmoschee in Seiyun, die die jahrhundertealte Tradition der Lehmziegelarchitektur des Tals verkörpert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810239,
+                        15.953093
+                  ]
+            },
+            {
+                  "name": "Masjid al Matar",
+                  "text": "In der Nähe des Flughafens gelegene Moschee, erbaut im typischen vertikalen Stil des Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786371,
+                        15.961199
+                  ]
+            },
+            {
+                  "name": "Jami` ar Riyad",
+                  "text": "Diese Moschee in Tarim ist ein bedeutender Ort für religiöse Studien und Gebete im Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786887,
+                        15.943787
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar ash Sharqi",
+                  "text": "Östliche Moschee der Siedlung, geschmückt mit den klassischen geometrischen Mustern der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786487,
+                        15.947528
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`id",
+                  "text": "Ortsmoschee aus sonnengetrockneten Lehmziegeln, die sich harmonisch in die Umgebung der Dattelhaine einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784908,
+                        15.944323
+                  ]
+            },
+            {
+                  "name": "Masjid Rasasah",
+                  "text": "Historische Moschee in den ältesten Vierteln der Stadt, bekannt für ihr reich verziertes Holzportal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.781993,
+                        15.946796
+                  ]
+            },
+            {
+                  "name": "Masjid Ba `Alawi",
+                  "text": "Eine der ehrwürdigsten Moscheen in Tarim, die als spirituelles Zentrum des Ba-'Alawi-Ordens gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.777432,
+                        15.946804
+                  ]
+            },
+            {
+                  "name": "Masjid Samih",
+                  "text": "Kleine, friedvolle Moschee, die direkt in die dichte Lehmbauweise des Stadtkerns integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.775962,
+                        15.946609
+                  ]
+            },
+            {
+                  "name": "Masjid al Haddad",
+                  "text": "Diese Moschee ist eng mit der Familiengeschichte bedeutender Gelehrter aus dem Hadhramaut verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774987,
+                        15.946659
+                  ]
+            },
+            {
+                  "name": "Masjid as Sayyid Ahmad al Jafari",
+                  "text": "Traditionelle Moschee mit kunstvollen Gipsarbeiten, benannt nach einer lokalen religiösen Persönlichkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.77625,
+                        15.948101
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar al Qibli",
+                  "text": "Nördliche Stadtviertelmoschee, deren Architektur für eine konstante natürliche Belüftung sorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.771567,
+                        15.945451
+                  ]
+            },
+            {
+                  "name": "Masjid Hasan Bin Saqaf",
+                  "text": "Historisches Gebetshaus, das die charakteristischen weißen Zinnen und geometrischen Dekore des Tals zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785514,
+                        15.941608
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Salih Baflah",
+                  "text": "Einfache Moschee inmitten landwirtschaftlicher Flächen, die den Bauern der umliegenden Haine dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.769126,
+                        15.937805
+                  ]
+            },
+            {
+                  "name": "Masjid at Tawbah",
+                  "text": "Ein Ort des Gebets und der Einkehr in den engen, schattigen Gassen der historischen Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.773711,
+                        15.926861
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr",
+                  "text": "Nachbarschaftsmoschee mit einem markanten quadratischen Turm im traditionellen jemenitischen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        48.772192,
+                        15.929435
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "Lokale Moschee in Seiyun, benannt nach dem ersten Muezzin, erbaut aus traditionellen Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774371,
+                        15.942588
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Musa",
+                  "text": "Charakteristische Moschee mit kunstvoll geschnitzten Holztüren und Mustern aus gebranntem Ton.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784403,
+                        15.938594
+                  ]
+            },
+            {
+                  "name": "Masjid az Zawiyah",
+                  "text": "Ein lokales islamisches Gotteshaus im Herzen der jemenitischen Oasenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        48.78444,
+                        15.941259
+                  ]
+            },
+            {
+                  "name": "Masjid al Habib `Ali Bin `Abd Allah as Saqaf",
+                  "text": "Eine bedeutende Moschee im Hadhramaut-Tal, die für ihre traditionelle Lehmziegelarchitektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785764,
+                        15.940194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaser Alkthiri Seiyun",
+                  "text": "A világ egyik legnagyobb vályogtégla palotája, amely egykor a Kathiri szultánok fényűző székhelye volt.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "Hisn an Naqib",
+                  "text": "Egy romos erődítmény, amely Seiyun buja datolyapálma-ligetei fölött magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        48.833333,
+                        15.95
+                  ]
+            },
+            {
+                  "name": "Hisn al Falas",
+                  "text": "Egy dombtetőre épült erőd történelmi romjai, kilátással a Hadhramaut-völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman",
+                  "text": "Hagyományos mecset a Hadhramaut-völgyre jellemző, jellegzetes fehér mészvakolattal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798801,
+                        15.92093
+                  ]
+            },
+            {
+                  "name": "Masjid al Birr",
+                  "text": "Kis környékbeli mecset a régió sűrű datolyapálma-ültetvényei között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.809506,
+                        15.941249
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Seiyun szívében található mecset, amely karcsú, fehér vályogtégla minaretjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79653,
+                        15.925581
+                  ]
+            },
+            {
+                  "name": "Masjid as Safa",
+                  "text": "Hadhrami mecset hagyományos belső udvarral és fehérre meszelt falakkal az óvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798286,
+                        15.937309
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rayyan",
+                  "text": "Modern imaház a külvárosban, amely megőrzi a völgy hagyományos építészeti örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        48.795498,
+                        15.935056
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Klasszikus szafiita mecset, amely díszes fafaragásokkal és helyi alapanyagokból épült.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79497,
+                        15.936803
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahmah",
+                  "text": "Egyszerű mecset egy csendes sikátorban, a jellegzetes többszintes vályogházak gyűrűjében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79228,
+                        15.93936
+                  ]
+            },
+            {
+                  "name": "Masjid as Saqaf",
+                  "text": "Híres mecset Tarimban, amely rendkívül magas minaretjéről és szúfi örökségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.792815,
+                        15.946119
+                  ]
+            },
+            {
+                  "name": "Masjid al Muhajir",
+                  "text": "Történelmi imaház a piac közelében, amely a Hadhramaut-völgy vertikális stílusában épült.",
+                  "category": "landmark",
+                  "coords": [
+                        48.797931,
+                        15.949885
+                  ]
+            },
+            {
+                  "name": "Masjid al Jabiriyah",
+                  "text": "Dombra épült mecset hagyományos széltoronnyal, amely az imaterem természetes hűtését szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79416,
+                        15.949899
+                  ]
+            },
+            {
+                  "name": "Masjid al Khayr",
+                  "text": "A nyugalom szigete a sűrű városi szövetben, kézzel készített geometrikus stukkódíszeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.790693,
+                        15.947773
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Bin `Umar",
+                  "text": "Vályogtégla mecset elegáns négyszögletes minarettel, amely Seiyun háztetői fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.804767,
+                        15.948271
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyah",
+                  "text": "Hagyományos mecset az oázis közelében, amely generációk óta a közösség központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.806979,
+                        15.943946
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Kisméretű szakrális épület jellegzetes fehér kupolával, amely elüt a barna vályogházaktól.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810086,
+                        15.944701
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Hagyományos imaház a Seiyun-oázis árnyas pálmaligetei között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.826718,
+                        15.959959
+                  ]
+            },
+            {
+                  "name": "Bhah Seiyun Mosque",
+                  "text": "Seiyuni mecset, amely a völgy évszázados vályogtégla-építészeti hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810239,
+                        15.953093
+                  ]
+            },
+            {
+                  "name": "Masjid al Matar",
+                  "text": "A repülőtér közelében található mecset, amely Hadhramaut jellegzetes, vertikális stílusában épült.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786371,
+                        15.961199
+                  ]
+            },
+            {
+                  "name": "Jami` ar Riyad",
+                  "text": "Ez a tarimi mecset a vallási tanulmányok és imádságok fontos központja Hadhramautban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786887,
+                        15.943787
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar ash Sharqi",
+                  "text": "A település keleti mecsetje, amelyet a régió klasszikus geometrikus mintái díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786487,
+                        15.947528
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`id",
+                  "text": "Napégette vályogtéglákból épült helyi mecset, amely harmonikusan illeszkedik a datolyaligetek környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784908,
+                        15.944323
+                  ]
+            },
+            {
+                  "name": "Masjid Rasasah",
+                  "text": "Történelmi mecset a város legrégebbi negyedében, amely gazdagon díszített fakapujáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.781993,
+                        15.946796
+                  ]
+            },
+            {
+                  "name": "Masjid Ba `Alawi",
+                  "text": "Tarim egyik legtiszteltebb mecsetje, amely a Ba 'Alawi rend spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.777432,
+                        15.946804
+                  ]
+            },
+            {
+                  "name": "Masjid Samih",
+                  "text": "Kicsi, békés mecset, amely közvetlenül a városközpont sűrű vályogépületei közé épült.",
+                  "category": "landmark",
+                  "coords": [
+                        48.775962,
+                        15.946609
+                  ]
+            },
+            {
+                  "name": "Masjid al Haddad",
+                  "text": "Ez a mecset szorosan kapcsolódik a Hadhramaut-völgy jelentős tudóscsaládjainak történelméhez.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774987,
+                        15.946659
+                  ]
+            },
+            {
+                  "name": "Masjid as Sayyid Ahmad al Jafari",
+                  "text": "Hagyományos mecset művészi gipszmunkákkal, amelyet egy helyi vallási méltóságról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.77625,
+                        15.948101
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar al Qibli",
+                  "text": "Északi városrészi mecset, amelynek építészeti kialakítása állandó természetes szellőzést biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        48.771567,
+                        15.945451
+                  ]
+            },
+            {
+                  "name": "Masjid Hasan Bin Saqaf",
+                  "text": "Történelmi imaház, amely a völgy jellegzetes fehér pártázatait és geometrikus díszítéseit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785514,
+                        15.941608
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Salih Baflah",
+                  "text": "Egyszerű mecset mezőgazdasági területek között, amely a környező ligetek gazdáit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.769126,
+                        15.937805
+                  ]
+            },
+            {
+                  "name": "Masjid at Tawbah",
+                  "text": "Az imádság és az elcsendesedés helye a történelmi óváros szűk, árnyas utcái között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.773711,
+                        15.926861
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr",
+                  "text": "Környékbeli mecset jellegzetes négyszögletes toronnyal, hagyományos jemeni stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.772192,
+                        15.929435
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "Seiyuni mecset, amelyet az első müezzinről neveztek el, hagyományos vályogtéglából építve.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774371,
+                        15.942588
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Musa",
+                  "text": "Jellegzetes mecset művészien faragott faajtókkal és égetett agyagból készült mintázatokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784403,
+                        15.938594
+                  ]
+            },
+            {
+                  "name": "Masjid az Zawiyah",
+                  "text": "Helyi iszlám templom a jemeni oázisvidék szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.78444,
+                        15.941259
+                  ]
+            },
+            {
+                  "name": "Masjid al Habib `Ali Bin `Abd Allah as Saqaf",
+                  "text": "A Hadramaut-völgy egyik jelentős mecsetje, amely hagyományos vályogtégla építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785764,
+                        15.940194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaser Alkthiri Seiyun",
+                  "text": "Unul dintre cele mai mari palate de chirpici din lume, fosta reședință fastuoasă a sultanilor Kathiri.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "Hisn an Naqib",
+                  "text": "Ruinele unei fortificații care domină livezile luxuriante de curmali din Seiyun.",
+                  "category": "historical",
+                  "coords": [
+                        48.833333,
+                        15.95
+                  ]
+            },
+            {
+                  "name": "Hisn al Falas",
+                  "text": "Ruinele istorice ale unei cetăți de deal, cu vedere spre valea Hadhramaut.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman",
+                  "text": "Moschee tradițională cu fațada albă de var caracteristică stilului Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798801,
+                        15.92093
+                  ]
+            },
+            {
+                  "name": "Masjid al Birr",
+                  "text": "Mică moschee de cartier situată printre plantațiile dense de curmali ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        48.809506,
+                        15.941249
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Moschee în inima orașului Seiyun, cunoscută pentru minaretul său zvelt din cărămidă albă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79653,
+                        15.925581
+                  ]
+            },
+            {
+                  "name": "Masjid as Safa",
+                  "text": "Moschee hadhrami cu o curte interioară tradițională și pereți tencuiți în alb în orașul vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798286,
+                        15.937309
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rayyan",
+                  "text": "Lăcaș de cult modern la periferie, care păstrează moștenirea arhitecturală tradițională a văii.",
+                  "category": "landmark",
+                  "coords": [
+                        48.795498,
+                        15.935056
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Moschee șafiită clasică, construită cu sculpturi ornamentate în lemn și materiale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79497,
+                        15.936803
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahmah",
+                  "text": "Moschee simplă într-o alee liniștită, înconjurată de casele tipice de chirpici cu mai multe etaje.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79228,
+                        15.93936
+                  ]
+            },
+            {
+                  "name": "Masjid as Saqaf",
+                  "text": "Moschee celebră în Tarim, cunoscută pentru minaretul său excepțional de înalt și moștenirea sufită.",
+                  "category": "landmark",
+                  "coords": [
+                        48.792815,
+                        15.946119
+                  ]
+            },
+            {
+                  "name": "Masjid al Muhajir",
+                  "text": "Casă de rugăciune istorică lângă piață, construită în stilul arhitectural vertical din Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.797931,
+                        15.949885
+                  ]
+            },
+            {
+                  "name": "Masjid al Jabiriyah",
+                  "text": "Moschee construită pe versant, cu un turn de vânt tradițional pentru răcirea naturală a sălii de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79416,
+                        15.949899
+                  ]
+            },
+            {
+                  "name": "Masjid al Khayr",
+                  "text": "Loc de liniște în țesutul urban dens, remarcat prin decorațiunile sale geometrice din stuc lucrate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        48.790693,
+                        15.947773
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Bin `Umar",
+                  "text": "Moschee din cărămidă de chirpici cu un minaret pătrat elegant care se ridică deasupra acoperișurilor din Seiyun.",
+                  "category": "landmark",
+                  "coords": [
+                        48.804767,
+                        15.948271
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyah",
+                  "text": "Moschee tradițională lângă oază, care servește drept centru al comunității de generații întregi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.806979,
+                        15.943946
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Mic edificiu sacru cu o cupolă albă distinctivă, care contrastează cu casele de chirpici maro.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810086,
+                        15.944701
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Lăcaș de rugăciune tradițional situat printre livezile umbrite de palmieri ale oazei Seiyun.",
+                  "category": "landmark",
+                  "coords": [
+                        48.826718,
+                        15.959959
+                  ]
+            },
+            {
+                  "name": "Bhah Seiyun Mosque",
+                  "text": "Moschee de cartier din Seiyun, care întruchipează tradiția seculară a arhitecturii de chirpici din vale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810239,
+                        15.953093
+                  ]
+            },
+            {
+                  "name": "Masjid al Matar",
+                  "text": "Moschee situată lângă aeroport, construită în stilul vertical tipic din Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786371,
+                        15.961199
+                  ]
+            },
+            {
+                  "name": "Jami` ar Riyad",
+                  "text": "Această moschee din Tarim este un loc important pentru studii religioase și rugăciuni în Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786887,
+                        15.943787
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar ash Sharqi",
+                  "text": "Moscheea estică a așezării, decorată cu modelele geometrice clasice ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786487,
+                        15.947528
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`id",
+                  "text": "Moschee locală construită din cărămizi de chirpici uscate la soare, integrată armonios în peisajul livezilor de curmali.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784908,
+                        15.944323
+                  ]
+            },
+            {
+                  "name": "Masjid Rasasah",
+                  "text": "Moschee istorică în cele mai vechi cartiere ale orașului, cunoscută pentru portalul său din lemn bogat ornamentat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.781993,
+                        15.946796
+                  ]
+            },
+            {
+                  "name": "Masjid Ba `Alawi",
+                  "text": "Una dintre cele mai venerate moschei din Tarim, considerată centrul spiritual al ordinului Ba 'Alawi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.777432,
+                        15.946804
+                  ]
+            },
+            {
+                  "name": "Masjid Samih",
+                  "text": "Moschee mică și liniștită, integrată direct în arhitectura densă de chirpici a centrului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.775962,
+                        15.946609
+                  ]
+            },
+            {
+                  "name": "Masjid al Haddad",
+                  "text": "Această moschee este strâns legată de istoria familiei unor învățați importanți din Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774987,
+                        15.946659
+                  ]
+            },
+            {
+                  "name": "Masjid as Sayyid Ahmad al Jafari",
+                  "text": "Moschee tradițională cu lucrări artistice în ipsos, numită după o personalitate religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.77625,
+                        15.948101
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar al Qibli",
+                  "text": "Moschee din cartierul de nord, a cărei arhitectură asigură o ventilație naturală constantă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.771567,
+                        15.945451
+                  ]
+            },
+            {
+                  "name": "Masjid Hasan Bin Saqaf",
+                  "text": "Casă de rugăciune istorică ce prezintă crenelurile albe și decorurile geometrice caracteristice văii.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785514,
+                        15.941608
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Salih Baflah",
+                  "text": "Moschee simplă situată în mijlocul terenurilor agricole, deservind fermierii din livezile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.769126,
+                        15.937805
+                  ]
+            },
+            {
+                  "name": "Masjid at Tawbah",
+                  "text": "Un loc de rugăciune și reflecție în străzile înguste și umbrite ale centrului istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        48.773711,
+                        15.926861
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr",
+                  "text": "Moschee de cartier cu un turn pătrat distinctiv în stil tradițional yemenit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.772192,
+                        15.929435
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "Moschee locală din Seiyun, numită după primul muezin, construită din cărămizi de chirpici tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774371,
+                        15.942588
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Musa",
+                  "text": "Moschee caracteristică cu uși de lemn sculptate artistic și modele din lut ars.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784403,
+                        15.938594
+                  ]
+            },
+            {
+                  "name": "Masjid az Zawiyah",
+                  "text": "Un lăcaș de cult islamic local situat în inima peisajului de oază din Yemen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.78444,
+                        15.941259
+                  ]
+            },
+            {
+                  "name": "Masjid al Habib `Ali Bin `Abd Allah as Saqaf",
+                  "text": "O moschee importantă din valea Hadhramaut, cunoscută pentru arhitectura sa tradițională din cărămizi de lut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785764,
+                        15.940194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaser Alkthiri Seiyun",
+                  "text": "One of the world's largest mud-brick palaces, formerly the opulent seat of the Kathiri sultans.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "Hisn an Naqib",
+                  "text": "Ruined fortification overlooking the lush date palm groves of Seiyun.",
+                  "category": "historical",
+                  "coords": [
+                        48.833333,
+                        15.95
+                  ]
+            },
+            {
+                  "name": "Hisn al Falas",
+                  "text": "Historical ruins of a hilltop fort with wide views over the Hadhramaut valley.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman",
+                  "text": "Traditional mosque featuring the characteristic white lime-wash facade of the Hadhramaut style.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798801,
+                        15.92093
+                  ]
+            },
+            {
+                  "name": "Masjid al Birr",
+                  "text": "Small neighborhood mosque nestled among the region's dense date palm plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        48.809506,
+                        15.941249
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr as Siddiq",
+                  "text": "Mosque in the heart of Seiyun, known for its slender white mud-brick minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79653,
+                        15.925581
+                  ]
+            },
+            {
+                  "name": "Masjid as Safa",
+                  "text": "Hadhrami mosque with a traditional courtyard and white-plastered walls in the old city.",
+                  "category": "landmark",
+                  "coords": [
+                        48.798286,
+                        15.937309
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rayyan",
+                  "text": "Modern place of worship on the outskirts, preserving the traditional architectural heritage of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        48.795498,
+                        15.935056
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shafi`i",
+                  "text": "Classic Shafi'i mosque built with ornate wood carvings and local materials.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79497,
+                        15.936803
+                  ]
+            },
+            {
+                  "name": "Masjid ar Rahmah",
+                  "text": "Simple mosque in a quiet alley, surrounded by the typical multi-story mud houses.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79228,
+                        15.93936
+                  ]
+            },
+            {
+                  "name": "Masjid as Saqaf",
+                  "text": "Famous mosque in Tarim known for its exceptionally tall minaret and Sufi heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        48.792815,
+                        15.946119
+                  ]
+            },
+            {
+                  "name": "Masjid al Muhajir",
+                  "text": "Historical prayer house near the market, built in the vertical architectural style of the Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.797931,
+                        15.949885
+                  ]
+            },
+            {
+                  "name": "Masjid al Jabiriyah",
+                  "text": "Hillside mosque featuring a traditional wind tower for natural cooling of the prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        48.79416,
+                        15.949899
+                  ]
+            },
+            {
+                  "name": "Masjid al Khayr",
+                  "text": "Place of tranquility in the dense urban fabric, noted for its handcrafted geometric stucco decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        48.790693,
+                        15.947773
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad Bin `Umar",
+                  "text": "Mud-brick mosque with an elegant square minaret rising above the rooftops of Seiyun.",
+                  "category": "landmark",
+                  "coords": [
+                        48.804767,
+                        15.948271
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyah",
+                  "text": "Traditional mosque near the oasis, serving as a community hub for generations.",
+                  "category": "landmark",
+                  "coords": [
+                        48.806979,
+                        15.943946
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Small sacred building with a distinctive white dome that stands out against the brown mud houses.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810086,
+                        15.944701
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Traditional place of prayer nestled within the shaded palm groves of the Seiyun oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        48.826718,
+                        15.959959
+                  ]
+            },
+            {
+                  "name": "Bhah Seiyun Mosque",
+                  "text": "Neighborhood mosque in Seiyun embodying the valley's centuries-old mud-brick architectural tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        48.810239,
+                        15.953093
+                  ]
+            },
+            {
+                  "name": "Masjid al Matar",
+                  "text": "Mosque located near the airport, built in the typical vertical style of the Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786371,
+                        15.961199
+                  ]
+            },
+            {
+                  "name": "Jami` ar Riyad",
+                  "text": "This mosque in Tarim is a significant site for religious studies and prayer in the Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786887,
+                        15.943787
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar ash Sharqi",
+                  "text": "Eastern mosque of the settlement, adorned with the region's classic geometric patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786487,
+                        15.947528
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`id",
+                  "text": "Local mosque built from sun-dried mud bricks, blending harmoniously with the surrounding date groves.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784908,
+                        15.944323
+                  ]
+            },
+            {
+                  "name": "Masjid Rasasah",
+                  "text": "Historical mosque in the oldest quarters of the city, known for its richly decorated wooden portal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.781993,
+                        15.946796
+                  ]
+            },
+            {
+                  "name": "Masjid Ba `Alawi",
+                  "text": "One of the most revered mosques in Tarim, considered the spiritual center of the Ba 'Alawi order.",
+                  "category": "landmark",
+                  "coords": [
+                        48.777432,
+                        15.946804
+                  ]
+            },
+            {
+                  "name": "Masjid Samih",
+                  "text": "Small, peaceful mosque integrated directly into the dense mud-brick architecture of the city core.",
+                  "category": "landmark",
+                  "coords": [
+                        48.775962,
+                        15.946609
+                  ]
+            },
+            {
+                  "name": "Masjid al Haddad",
+                  "text": "This mosque is closely linked to the family history of prominent scholars from the Hadhramaut.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774987,
+                        15.946659
+                  ]
+            },
+            {
+                  "name": "Masjid as Sayyid Ahmad al Jafari",
+                  "text": "Traditional mosque featuring artistic plasterwork, named after a local religious figure.",
+                  "category": "landmark",
+                  "coords": [
+                        48.77625,
+                        15.948101
+                  ]
+            },
+            {
+                  "name": "Masjid Jawhar al Qibli",
+                  "text": "Northern neighborhood mosque whose architectural design ensures constant natural ventilation.",
+                  "category": "landmark",
+                  "coords": [
+                        48.771567,
+                        15.945451
+                  ]
+            },
+            {
+                  "name": "Masjid Hasan Bin Saqaf",
+                  "text": "Historical prayer house showcasing the valley's characteristic white battlements and geometric decors.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785514,
+                        15.941608
+                  ]
+            },
+            {
+                  "name": "Masjid ash Shaykh Salih Baflah",
+                  "text": "Simple mosque set amid agricultural lands, serving the farmers of the surrounding groves.",
+                  "category": "landmark",
+                  "coords": [
+                        48.769126,
+                        15.937805
+                  ]
+            },
+            {
+                  "name": "Masjid at Tawbah",
+                  "text": "A place of prayer and reflection situated in the narrow, shaded alleys of the historical old town.",
+                  "category": "landmark",
+                  "coords": [
+                        48.773711,
+                        15.926861
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr",
+                  "text": "Neighborhood mosque with a distinctive square tower in the traditional Yemeni style.",
+                  "category": "landmark",
+                  "coords": [
+                        48.772192,
+                        15.929435
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "Local mosque in Seiyun named after the first muezzin, built with traditional mud bricks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.774371,
+                        15.942588
+                  ]
+            },
+            {
+                  "name": "Masjid Bin Musa",
+                  "text": "Characteristic mosque featuring artistically carved wooden doors and patterns made of fired clay.",
+                  "category": "landmark",
+                  "coords": [
+                        48.784403,
+                        15.938594
+                  ]
+            },
+            {
+                  "name": "Masjid az Zawiyah",
+                  "text": "A local Islamic place of worship located in the heart of the Yemeni oasis landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        48.78444,
+                        15.941259
+                  ]
+            },
+            {
+                  "name": "Masjid al Habib `Ali Bin `Abd Allah as Saqaf",
+                  "text": "A significant mosque in the Hadhramaut valley, known for its traditional mud-brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.785764,
+                        15.940194
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "YE-HD",
     coords: [48.7492, 15.9328],
@@ -579,7 +4107,88 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "kamaran-mangroves-life-v2",
+    id: "kamaran-mangroves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saylah",
+                  "text": "Überreste historischer Siedlungen auf der Insel Kamaran, die von der einstigen Bedeutung des Rotmeer-Handels zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        42.583333,
+                        15.383333
+                  ]
+            },
+            {
+                  "name": "Al-Iraqi Mosque",
+                  "text": "Eine historische Moschee auf der Insel Kamaran mit traditionellen architektonischen Merkmalen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.609868,
+                        15.351596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saylah",
+                  "text": "Történelmi településmaradványok Kamaran szigetén, amelyek a Vörös-tengeri kereskedelem egykori jelentőségéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        42.583333,
+                        15.383333
+                  ]
+            },
+            {
+                  "name": "Al-Iraqi Mosque",
+                  "text": "Történelmi mecset Kamaran szigetén, a régió hagyományos építészeti stílusjegyeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        42.609868,
+                        15.351596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saylah",
+                  "text": "Rămășițe ale unor așezări istorice pe insula Kamaran, care atestă importanța de odinioară a comerțului de la Marea Roșie.",
+                  "category": "historical",
+                  "coords": [
+                        42.583333,
+                        15.383333
+                  ]
+            },
+            {
+                  "name": "Al-Iraqi Mosque",
+                  "text": "O moschee istorică pe insula Kamaran, cu trăsături arhitecturale tradiționale ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        42.609868,
+                        15.351596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saylah",
+                  "text": "Remains of historical settlements on Kamaran Island, witnessing the former importance of Red Sea trade.",
+                  "category": "historical",
+                  "coords": [
+                        42.583333,
+                        15.383333
+                  ]
+            },
+            {
+                  "name": "Al-Iraqi Mosque",
+                  "text": "A historical mosque on Kamaran Island featuring traditional architectural elements of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.609868,
+                        15.351596
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "YE-HU",
     coords: [42.5855, 15.3524],
@@ -643,7 +4252,160 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "dhamar-qat-farms-life-v2",
+    id: "dhamar-qat-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Hassa",
+                  "text": "Ein zerklüfteter Gipfel in der Region Dhamar, der die umliegenden Hochplateaus überragt.",
+                  "category": "natural",
+                  "coords": [
+                        44.3,
+                        14.566667
+                  ]
+            },
+            {
+                  "name": "Jabal Yafa`",
+                  "text": "Ein markanter Berg mit steilen Felswänden, der ein beliebtes Ziel für Wanderer ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.337573,
+                        14.573874
+                  ]
+            },
+            {
+                  "name": "Jami` ad Durani",
+                  "text": "Eine historische Moschee in Dhamar, die für ihre traditionelle weiße Verputzung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385957,
+                        14.553442
+                  ]
+            },
+            {
+                  "name": "Al-Hamza Mosque",
+                  "text": "Ein bedeutendes religiöses Zentrum mit einem hohen Minarett, das das Stadtbild von Dhamar prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385166,
+                        14.558943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Hassa",
+                  "text": "Zord hegycsúcs Dhamar régiójában, amely a környező fennsíkok fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        44.3,
+                        14.566667
+                  ]
+            },
+            {
+                  "name": "Jabal Yafa`",
+                  "text": "Jellegzetes hegy meredek sziklafalakkal, amely a túrázók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        44.337573,
+                        14.573874
+                  ]
+            },
+            {
+                  "name": "Jami` ad Durani",
+                  "text": "Történelmi mecset Dhamarban, amely hagyományos fehér vakolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385957,
+                        14.553442
+                  ]
+            },
+            {
+                  "name": "Al-Hamza Mosque",
+                  "text": "Jelentős vallási központ magas minarettel, amely meghatározza Dhamar városképét.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385166,
+                        14.558943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Hassa",
+                  "text": "Un vârf accidentat din regiunea Dhamar, care domină platourile înalte din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.3,
+                        14.566667
+                  ]
+            },
+            {
+                  "name": "Jabal Yafa`",
+                  "text": "Un munte proeminent cu pereți stâncoși abrupți, care este o destinație populară pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        44.337573,
+                        14.573874
+                  ]
+            },
+            {
+                  "name": "Jami` ad Durani",
+                  "text": "O moschee istorică din Dhamar, cunoscută pentru tencuiala albă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385957,
+                        14.553442
+                  ]
+            },
+            {
+                  "name": "Al-Hamza Mosque",
+                  "text": "Un important centru religios cu un minaret înalt care domină peisajul urban din Dhamar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385166,
+                        14.558943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Hassa",
+                  "text": "A rugged peak in the Dhamar region that towers over the surrounding high plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        44.3,
+                        14.566667
+                  ]
+            },
+            {
+                  "name": "Jabal Yafa`",
+                  "text": "A prominent mountain with steep rock faces that is a popular destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        44.337573,
+                        14.573874
+                  ]
+            },
+            {
+                  "name": "Jami` ad Durani",
+                  "text": "A historic mosque in Dhamar known for its traditional white plastering.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385957,
+                        14.553442
+                  ]
+            },
+            {
+                  "name": "Al-Hamza Mosque",
+                  "text": "A significant religious center with a tall minaret that shapes the cityscape of Dhamar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.385166,
+                        14.558943
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "YE-DH",
     coords: [44.3831, 14.5427],
@@ -771,7 +4533,196 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "aden-fun-city-life-v2",
+    id: "aden-fun-city-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Enma City",
+                  "text": "Ein modernes Wohn- und Gewerbegebiet in Aden, das für seine zeitgenössische Stadtplanung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.96152,
+                        12.838225
+                  ]
+            },
+            {
+                  "name": "Moaath mosque",
+                  "text": "Eine moderne Moschee mit einem markanten Minarett in einem Wohnviertel von Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.990159,
+                        12.87832
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Ein religiöses Zentrum und Gebetsstätte für die lokale Gemeinschaft in Aden.",
+                  "category": "religious",
+                  "coords": [
+                        45.002415,
+                        12.873072
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine muslimische Gebetsstätte im städtischen Umfeld der Stadt Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.978107,
+                        12.890304
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "Die „Moschee des Lichts“ ist ein zentraler Ort des Gebets in der belebten Stadt Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.993649,
+                        12.870468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enma City",
+                  "text": "Áden modern lakó- és kereskedelmi negyede, amely kortárs várostervezéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.96152,
+                        12.838225
+                  ]
+            },
+            {
+                  "name": "Moaath mosque",
+                  "text": "Modern mecset jellegzetes minarettel Áden egyik lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.990159,
+                        12.87832
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Vallási központ és imaház az ádeni helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        45.002415,
+                        12.873072
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Muszlim imaház Áden városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.978107,
+                        12.890304
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "A „Fény Mecsetje” a központi imahely Áden nyüzsgő városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.993649,
+                        12.870468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enma City",
+                  "text": "O zonă modernă rezidențială și comercială din Aden, cunoscută pentru planificarea urbană contemporană.",
+                  "category": "landmark",
+                  "coords": [
+                        44.96152,
+                        12.838225
+                  ]
+            },
+            {
+                  "name": "Moaath mosque",
+                  "text": "O moschee modernă cu un minaret distinctiv într-un cartier rezidențial din Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.990159,
+                        12.87832
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Un centru religios și lăcaș de cult pentru comunitatea locală din Aden.",
+                  "category": "religious",
+                  "coords": [
+                        45.002415,
+                        12.873072
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult musulman în cadrul peisajului urban al orașului Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.978107,
+                        12.890304
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "„Moscheea Luminii” este un loc central de rugăciune în orașul plin de viață Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.993649,
+                        12.870468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enma City",
+                  "text": "A modern residential and commercial development area in Aden known for its contemporary urban planning.",
+                  "category": "landmark",
+                  "coords": [
+                        44.96152,
+                        12.838225
+                  ]
+            },
+            {
+                  "name": "Moaath mosque",
+                  "text": "A modern mosque with a distinctive minaret located in a residential area of Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.990159,
+                        12.87832
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "A religious center and place of worship for the local community in Aden.",
+                  "category": "religious",
+                  "coords": [
+                        45.002415,
+                        12.873072
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A Muslim place of worship within the urban landscape of Aden city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.978107,
+                        12.890304
+                  ]
+            },
+            {
+                  "name": "Masjid an Nur",
+                  "text": "The 'Mosque of Light' is a central place of prayer in the bustling city of Aden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.993649,
+                        12.870468
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "YE-AD",
     coords: [44.9789, 12.8251],
@@ -835,7 +4786,124 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "ras-shouab-turtle-beach-life-v2",
+    id: "ras-shouab-turtle-beach-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Busayri",
+                  "text": "Dieser Gipfel ragt über der Schildkrötenbucht auf und markiert den westlichen Teil der zerklüfteten Inselfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        53.451387,
+                        12.607809
+                  ]
+            },
+            {
+                  "name": "Qafuz",
+                  "text": "Ein markanter Berg im Westen der Insel, der durch seine karge, felsige Silhouette besticht.",
+                  "category": "natural",
+                  "coords": [
+                        53.44994,
+                        12.516424
+                  ]
+            },
+            {
+                  "name": "Di Rahmum",
+                  "text": "Dieser Felsgipfel bietet Wanderern eine weite Aussicht über die unberührte Küstenlinie von Ras Shouab.",
+                  "category": "natural",
+                  "coords": [
+                        53.45,
+                        12.533333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Busayri",
+                  "text": "Ez a csúcs a teknősök öble fölé magasodik, az adeni szigetvilág sziklás nyugati részét jelölve.",
+                  "category": "natural",
+                  "coords": [
+                        53.451387,
+                        12.607809
+                  ]
+            },
+            {
+                  "name": "Qafuz",
+                  "text": "Egy jellegzetes hegy a sziget nyugati részén, amely kopár, sziklás sziluettjével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        53.44994,
+                        12.516424
+                  ]
+            },
+            {
+                  "name": "Di Rahmum",
+                  "text": "Ez a sziklás hegycsúcs tágas kilátást nyújt a túrázóknak Ras Shouab érintetlen tengerpartjára.",
+                  "category": "natural",
+                  "coords": [
+                        53.45,
+                        12.533333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Busayri",
+                  "text": "Acest vârf se înalță deasupra golfului țestoaselor, marcând partea vestică a stâncilor accidentate ale insulei.",
+                  "category": "natural",
+                  "coords": [
+                        53.451387,
+                        12.607809
+                  ]
+            },
+            {
+                  "name": "Qafuz",
+                  "text": "Un munte distinctiv în vestul insulei, care se remarcă prin silueta sa aridă și stâncoasă.",
+                  "category": "natural",
+                  "coords": [
+                        53.44994,
+                        12.516424
+                  ]
+            },
+            {
+                  "name": "Di Rahmum",
+                  "text": "Acest vârf stâncos oferă drumeților o vedere panoramică asupra liniei de coastă neatinse din Ras Shouab.",
+                  "category": "natural",
+                  "coords": [
+                        53.45,
+                        12.533333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Busayri",
+                  "text": "This peak rises above the turtle bay, marking the western part of the island's rugged cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        53.451387,
+                        12.607809
+                  ]
+            },
+            {
+                  "name": "Qafuz",
+                  "text": "A prominent mountain in the west of the island, characterized by its barren, rocky silhouette.",
+                  "category": "natural",
+                  "coords": [
+                        53.44994,
+                        12.516424
+                  ]
+            },
+            {
+                  "name": "Di Rahmum",
+                  "text": "This rocky summit provides hikers with wide views over the pristine coastline of Ras Shouab.",
+                  "category": "natural",
+                  "coords": [
+                        53.45,
+                        12.533333
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "YE-SU",
     coords: [53.3888, 12.5702],
@@ -899,7 +4967,1384 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "al-baradouni-park-life-v2",
+    id: "al-baradouni-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Rafan",
+                  "text": "Ein Berggipfel in der Nähe von Dhamar, der die trockene, aber beeindruckende Hochebene Zentraljemens überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        44.467554,
+                        14.555175
+                  ]
+            },
+            {
+                  "name": "Jabal al Halaqah",
+                  "text": "Ein markanter Gipfel im Umland von Dhamar, dessen karge Felshänge typisch für die vulkanisch geprägte Landschaft der Region sind.",
+                  "category": "natural",
+                  "coords": [
+                        44.45,
+                        14.533333
+                  ]
+            },
+            {
+                  "name": "Jabal Hirran",
+                  "text": "Ein Hausberg von Dhamar, der weite Ausblicke über die Stadt und die umliegenden landwirtschaftlichen Flächen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.396536,
+                        14.574461
+                  ]
+            },
+            {
+                  "name": "Jabal Haythah",
+                  "text": "Dieser Berg in der Region Dhamar erhebt sich über das weite Plateau und ist ein Orientierungspunkt für Reisende im Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        44.443186,
+                        14.560961
+                  ]
+            },
+            {
+                  "name": "Jabal Bawq",
+                  "text": "Ein kahler Berggipfel nördlich von Dhamar, der den Übergang zwischen den verschiedenen Hochbecken des zentralen Jemen markiert.",
+                  "category": "natural",
+                  "coords": [
+                        44.4489,
+                        14.57699
+                  ]
+            },
+            {
+                  "name": "Hayd Hafr",
+                  "text": "Ein markanter Berggipfel in den zerklüfteten Highlands von Ibb mit weitem Blick über die Felslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        44.471116,
+                        14.572635
+                  ]
+            },
+            {
+                  "name": "Hisn Zayd",
+                  "text": "Eine traditionelle steinerne Bergfestung, die strategisch auf einem hohen Kamm errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        44.463532,
+                        14.608472
+                  ]
+            },
+            {
+                  "name": "Almithali Resort",
+                  "text": "Ein terrassiertes Erholungsgebiet, das für seinen Blick auf die grünen Bergtäler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.394129,
+                        14.579283
+                  ]
+            },
+            {
+                  "name": "Jami` al Hasan Bin `Ali",
+                  "text": "Eine lokale Moschee mit einem schlanken Minarett und einer Fassade aus regionalem Naturstein.",
+                  "category": "landmark",
+                  "coords": [
+                        44.400019,
+                        14.560866
+                  ]
+            },
+            {
+                  "name": "Jami` Bajah",
+                  "text": "Ein friedlicher Gebetsort, der durch seine traditionelle jemenitische Steinarchitektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399189,
+                        14.540188
+                  ]
+            },
+            {
+                  "name": "Masjid as Sabari",
+                  "text": "Eine schlichte Moschee im Stadtviertel, die als wichtiger spiritueller Treffpunkt der Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399687,
+                        14.532162
+                  ]
+            },
+            {
+                  "name": "Masjid Zayd",
+                  "text": "Ein religiöses Gebäude mit handgearbeiteten geometrischen Mustern an den Außenwänden.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399446,
+                        14.549183
+                  ]
+            },
+            {
+                  "name": "Masjid al Mujahid",
+                  "text": "Eine historische Moschee, die für ihre kunstvoll verzierte Gebetshalle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408639,
+                        14.546192
+                  ]
+            },
+            {
+                  "name": "Jami` at Taqwa",
+                  "text": "Ein Gemeindezentrum des Glaubens mit einem markanten quadratischen Minarettsockel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4089,
+                        14.549223
+                  ]
+            },
+            {
+                  "name": "Al Masjid al Kabir",
+                  "text": "Die zentrale Große Moschee des Viertels, erkennbar an ihrer monumentalen Steinfassade.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405406,
+                        14.54939
+                  ]
+            },
+            {
+                  "name": "Masjid al Ways",
+                  "text": "Eine kleine Moschee, die sich harmonisch in die dichte traditionelle Bebauung einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398464,
+                        14.551397
+                  ]
+            },
+            {
+                  "name": "Jami` ar Rahmah",
+                  "text": "Ein Ort der Andacht mit einem schattigen Innenhof für die Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398497,
+                        14.554151
+                  ]
+            },
+            {
+                  "name": "Masjid at Ta`izz",
+                  "text": "Diese Moschee ist nach der Stadt Ta'izz benannt und spiegelt deren Baustil wider.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412597,
+                        14.549961
+                  ]
+            },
+            {
+                  "name": "Masjid Qubbat ar Rahman",
+                  "text": "Ein markantes Bauwerk, das durch seine namensgebende große weiße Kuppel auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.415039,
+                        14.54983
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman Bin `Affan",
+                  "text": "Eine klassische Moschee mit fein gearbeiteten Fensterbögen im regionalen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41669,
+                        14.552199
+                  ]
+            },
+            {
+                  "name": "Jami` Suwal",
+                  "text": "Ein spiritueller Rückzugsort, der für seine ruhige Atmosphäre und klaren Linien geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41635,
+                        14.543758
+                  ]
+            },
+            {
+                  "name": "Jami` al `Arami",
+                  "text": "Eine Moschee mit einem kunstvoll verzierten Eingangsbereich aus dunklem Vulkangestein.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418463,
+                        14.54283
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`idi",
+                  "text": "Ein bescheidener Gebetsraum, der tief im sozialen Gefüge der Nachbarschaft verwurzelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426901,
+                        14.538868
+                  ]
+            },
+            {
+                  "name": "Masjid al Farzah",
+                  "text": "Eine moderne Moschee, die traditionelle Steinmetzkunst mit zeitgenössischen Elementen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.430405,
+                        14.537702
+                  ]
+            },
+            {
+                  "name": "Jami` al `Absi",
+                  "text": "Ein religiöses Zentrum, das für seine weithin sichtbaren, ornamentalen Minarette bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403503,
+                        14.518069
+                  ]
+            },
+            {
+                  "name": "Jami` as Subari",
+                  "text": "Eine Moschee mit einer markanten, hellen Steinfassade und geschnitzten Holztüren.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405428,
+                        14.53641
+                  ]
+            },
+            {
+                  "name": "Masjid al Manzal",
+                  "text": "Ein kleineres Gebetshaus, das durch seine kunstvollen Fenstergitter aus Gips besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408823,
+                        14.536567
+                  ]
+            },
+            {
+                  "name": "Jami` an Nur",
+                  "text": "Diese Moschee des Lichts ist für ihren hellen, lichtdurchfluteten Innenraum bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403001,
+                        14.537199
+                  ]
+            },
+            {
+                  "name": "Jami` at Tawhid",
+                  "text": "Ein schlichtes Bauwerk, das die Einmaligkeit Gottes durch klare, schmucklose Architektur betont.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396351,
+                        14.543743
+                  ]
+            },
+            {
+                  "name": "Jami` Bir Khabut",
+                  "text": "Eine Moschee in der Nähe eines alten Brunnens, die als wichtiger Ruhepunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397411,
+                        14.543494
+                  ]
+            },
+            {
+                  "name": "Jami` Luqman",
+                  "text": "Ein historischer Gebetsort mit massiven Mauern aus behauenem Sandstein.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398677,
+                        14.546784
+                  ]
+            },
+            {
+                  "name": "Jami` `Umar",
+                  "text": "Eine elegante Moschee mit einem hohen, fein verzierten Minarett und breiten Rundbögen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399891,
+                        14.547903
+                  ]
+            },
+            {
+                  "name": "Masjid Farh",
+                  "text": "Eine Moschee mit einer einladenden, offenen Vorhalle und traditionellen Steinmetzarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.401349,
+                        14.545662
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Ein großes islamisches Zentrum mit modernen Gebetsräumen und markanter Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402313,
+                        14.543052
+                  ]
+            },
+            {
+                  "name": "Jami` az Zahra'",
+                  "text": "Eine nach Fatima az-Zahra benannte Moschee mit hellen Kuppeln und weiten Hallen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402219,
+                        14.541406
+                  ]
+            },
+            {
+                  "name": "Masjid as Sulaymani",
+                  "text": "Eine Moschee im osmanischen Stil mit einem spitzen Minarett und mehreren kleinen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406613,
+                        14.54449
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "Ein traditioneller Gebetsraum, der für seine Holzschnitzereien am Minbar bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406668,
+                        14.541771
+                  ]
+            },
+            {
+                  "name": "Masjid Hamzah",
+                  "text": "Eine solide gebaute Moschee aus dunklem Basaltstein mit einem quadratischen Turm.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411504,
+                        14.545004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Rafan",
+                  "text": "Dhamar közeli hegycsúcs, amely Közép-Jemen száraz, de lenyűgöző fennsíkjára néz.",
+                  "category": "natural",
+                  "coords": [
+                        44.467554,
+                        14.555175
+                  ]
+            },
+            {
+                  "name": "Jabal al Halaqah",
+                  "text": "Jellegzetes csúcs Dhamar környékén, amelynek kopár sziklái a régió vulkanikus tájára jellemzőek.",
+                  "category": "natural",
+                  "coords": [
+                        44.45,
+                        14.533333
+                  ]
+            },
+            {
+                  "name": "Jabal Hirran",
+                  "text": "Dhamar egyik házi hegye, amely tágas kilátást nyújt a városra és a környező mezőgazdasági területekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.396536,
+                        14.574461
+                  ]
+            },
+            {
+                  "name": "Jabal Haythah",
+                  "text": "Ez a dhamari régióban található hegy a tágas fennsík fölé emelkedik, és tájékozódási pont a felföldi utazók számára.",
+                  "category": "natural",
+                  "coords": [
+                        44.443186,
+                        14.560961
+                  ]
+            },
+            {
+                  "name": "Jabal Bawq",
+                  "text": "Dhamartól északra fekvő kopár hegycsúcs, amely a közép-jemeni különböző fennsíkok közötti átmenetet jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        44.4489,
+                        14.57699
+                  ]
+            },
+            {
+                  "name": "Hayd Hafr",
+                  "text": "Jellegzetes hegycsúcs az Ibb-felvidék zord tájain, ahonnan messzire ellátni a sziklás vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        44.471116,
+                        14.572635
+                  ]
+            },
+            {
+                  "name": "Hisn Zayd",
+                  "text": "Hagyományos kőből épült hegyi erőd, amely stratégiailag egy magas gerincre épült.",
+                  "category": "castle",
+                  "coords": [
+                        44.463532,
+                        14.608472
+                  ]
+            },
+            {
+                  "name": "Almithali Resort",
+                  "text": "Teraszos pihenőhely, amely a zöld hegyi völgyekre nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.394129,
+                        14.579283
+                  ]
+            },
+            {
+                  "name": "Jami` al Hasan Bin `Ali",
+                  "text": "Helyi mecset karcsú minarettel és helyi terméskőből készült homlokzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.400019,
+                        14.560866
+                  ]
+            },
+            {
+                  "name": "Jami` Bajah",
+                  "text": "Békés imádságos hely, amely hagyományos jemeni kőépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399189,
+                        14.540188
+                  ]
+            },
+            {
+                  "name": "Masjid as Sabari",
+                  "text": "Egyszerű szomszédsági mecset, amely a helyi lakosok fontos spirituális találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399687,
+                        14.532162
+                  ]
+            },
+            {
+                  "name": "Masjid Zayd",
+                  "text": "Vallási épület, amelynek külső falait kézzel készített geometriai minták díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399446,
+                        14.549183
+                  ]
+            },
+            {
+                  "name": "Masjid al Mujahid",
+                  "text": "Történelmi mecset, amely művészien díszített imaterméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408639,
+                        14.546192
+                  ]
+            },
+            {
+                  "name": "Jami` at Taqwa",
+                  "text": "A hit közösségi központja, jellegzetes négyzet alakú minaretalappal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4089,
+                        14.549223
+                  ]
+            },
+            {
+                  "name": "Al Masjid al Kabir",
+                  "text": "A negyed központi Nagymecsetje, amely monumentális kőhomlokzatáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405406,
+                        14.54939
+                  ]
+            },
+            {
+                  "name": "Masjid al Ways",
+                  "text": "Kisméretű mecset, amely harmonikusan illeszkedik a sűrű, hagyományos beépítésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398464,
+                        14.551397
+                  ]
+            },
+            {
+                  "name": "Jami` ar Rahmah",
+                  "text": "Az áhítat helye, árnyas belső udvarral a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398497,
+                        14.554151
+                  ]
+            },
+            {
+                  "name": "Masjid at Ta`izz",
+                  "text": "Ez a mecset Taizz városáról kapta a nevét, és annak építészeti stílusát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412597,
+                        14.549961
+                  ]
+            },
+            {
+                  "name": "Masjid Qubbat ar Rahman",
+                  "text": "Jellegzetes épület, amely névadó nagy fehér kupolájával hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.415039,
+                        14.54983
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman Bin `Affan",
+                  "text": "Klasszikus mecset finoman kidolgozott, regionális stílusú ablakívekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41669,
+                        14.552199
+                  ]
+            },
+            {
+                  "name": "Jami` Suwal",
+                  "text": "Spirituális menedékhely, amelyet nyugodt légköréért és letisztult vonalaiért kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41635,
+                        14.543758
+                  ]
+            },
+            {
+                  "name": "Jami` al `Arami",
+                  "text": "Mecset művészien díszített bejárattal, amely sötét vulkáni kőzetből készült.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418463,
+                        14.54283
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`idi",
+                  "text": "Szerény imaterem, amely mélyen gyökerezik a környék társadalmi életében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426901,
+                        14.538868
+                  ]
+            },
+            {
+                  "name": "Masjid al Farzah",
+                  "text": "Modern mecset, amely a hagyományos kőfaragást kortárs elemekkel ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.430405,
+                        14.537702
+                  ]
+            },
+            {
+                  "name": "Jami` al `Absi",
+                  "text": "Vallási központ, amely messziről látható, díszes minaretjeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403503,
+                        14.518069
+                  ]
+            },
+            {
+                  "name": "Jami` as Subari",
+                  "text": "Mecset jellegzetes, világos kőhomlokzattal és faragott faajtókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405428,
+                        14.53641
+                  ]
+            },
+            {
+                  "name": "Masjid al Manzal",
+                  "text": "Kisebb imaház, amely díszes gipsz ablakrácsaival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408823,
+                        14.536567
+                  ]
+            },
+            {
+                  "name": "Jami` an Nur",
+                  "text": "A fény mecsetje, amely világos, fénnyel teli belső teréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403001,
+                        14.537199
+                  ]
+            },
+            {
+                  "name": "Jami` at Tawhid",
+                  "text": "Egyszerű épület, amely letisztult, dísztelen építészetével hangsúlyozza Isten egyedülállóságát.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396351,
+                        14.543743
+                  ]
+            },
+            {
+                  "name": "Jami` Bir Khabut",
+                  "text": "Egy régi kút közelében található mecset, amely fontos pihenőhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397411,
+                        14.543494
+                  ]
+            },
+            {
+                  "name": "Jami` Luqman",
+                  "text": "Történelmi imádkozóhely masszív, faragott homokkő falaival.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398677,
+                        14.546784
+                  ]
+            },
+            {
+                  "name": "Jami` `Umar",
+                  "text": "Elegáns mecset magas, finoman díszített minarettel és széles körívekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399891,
+                        14.547903
+                  ]
+            },
+            {
+                  "name": "Masjid Farh",
+                  "text": "Mecset hívogató, nyitott előcsarnokkal és hagyományos kőfaragásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.401349,
+                        14.545662
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Nagy iszlám központ modern imatermekkel és jellegzetes építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402313,
+                        14.543052
+                  ]
+            },
+            {
+                  "name": "Jami` az Zahra'",
+                  "text": "Fatima az-Zahra után elnevezett mecset világos kupolákkal és tágas csarnokokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402219,
+                        14.541406
+                  ]
+            },
+            {
+                  "name": "Masjid as Sulaymani",
+                  "text": "Oszmán stílusú mecset hegyes minarettel és több kisebb kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406613,
+                        14.54449
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "Hagyományos imaterem, amely a minbaron található fafaragásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406668,
+                        14.541771
+                  ]
+            },
+            {
+                  "name": "Masjid Hamzah",
+                  "text": "Sötét bazaltkőből épült masszív mecset négyzet alakú toronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411504,
+                        14.545004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Rafan",
+                  "text": "Un vârf montan lângă Dhamar, cu vedere la platoul arid, dar impresionant, al Yemenului central.",
+                  "category": "natural",
+                  "coords": [
+                        44.467554,
+                        14.555175
+                  ]
+            },
+            {
+                  "name": "Jabal al Halaqah",
+                  "text": "Un vârf distinctiv în împrejurimile orașului Dhamar, ale cărui pante stâncoase golașe sunt tipice pentru peisajul vulcanic al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        44.45,
+                        14.533333
+                  ]
+            },
+            {
+                  "name": "Jabal Hirran",
+                  "text": "Un munte local al orașului Dhamar, oferind vederi largi asupra orașului și a terenurilor agricole din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.396536,
+                        14.574461
+                  ]
+            },
+            {
+                  "name": "Jabal Haythah",
+                  "text": "Acest munte din regiunea Dhamar se înalță deasupra platoului vast și este un punct de reper pentru călătorii din zonele înalte.",
+                  "category": "natural",
+                  "coords": [
+                        44.443186,
+                        14.560961
+                  ]
+            },
+            {
+                  "name": "Jabal Bawq",
+                  "text": "Un vârf montan golaș la nord de Dhamar, marcând tranziția între diferitele bazine înalte ale Yemenului central.",
+                  "category": "natural",
+                  "coords": [
+                        44.4489,
+                        14.57699
+                  ]
+            },
+            {
+                  "name": "Hayd Hafr",
+                  "text": "Un vârf montan proeminent în zonele muntoase accidentate din Ibb, cu vederi largi asupra peisajului stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        44.471116,
+                        14.572635
+                  ]
+            },
+            {
+                  "name": "Hisn Zayd",
+                  "text": "O fortăreață montană tradițională din piatră, construită strategic pe o creastă înaltă.",
+                  "category": "castle",
+                  "coords": [
+                        44.463532,
+                        14.608472
+                  ]
+            },
+            {
+                  "name": "Almithali Resort",
+                  "text": "O zonă de recreere terasată, cunoscută pentru vederea sa asupra văilor montane verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.394129,
+                        14.579283
+                  ]
+            },
+            {
+                  "name": "Jami` al Hasan Bin `Ali",
+                  "text": "O moschee locală cu un minaret zvelt și o fațadă din piatră naturală regională.",
+                  "category": "landmark",
+                  "coords": [
+                        44.400019,
+                        14.560866
+                  ]
+            },
+            {
+                  "name": "Jami` Bajah",
+                  "text": "Un loc de rugăciune liniștit, care impresionează prin arhitectura sa tradițională din piatră yemenită.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399189,
+                        14.540188
+                  ]
+            },
+            {
+                  "name": "Masjid as Sabari",
+                  "text": "O moschee simplă de cartier, care servește ca un important punct de întâlnire spirituală pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399687,
+                        14.532162
+                  ]
+            },
+            {
+                  "name": "Masjid Zayd",
+                  "text": "O clădire religioasă cu modele geometrice lucrate manual pe pereții exteriori.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399446,
+                        14.549183
+                  ]
+            },
+            {
+                  "name": "Masjid al Mujahid",
+                  "text": "O moschee istorică cunoscută pentru sala sa de rugăciune decorată artistic.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408639,
+                        14.546192
+                  ]
+            },
+            {
+                  "name": "Jami` at Taqwa",
+                  "text": "Un centru comunitar al credinței, cu o bază de minaret pătrată distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4089,
+                        14.549223
+                  ]
+            },
+            {
+                  "name": "Al Masjid al Kabir",
+                  "text": "Marea Moschee centrală a cartierului, recunoscută după fațada sa monumentală de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405406,
+                        14.54939
+                  ]
+            },
+            {
+                  "name": "Masjid al Ways",
+                  "text": "O moschee mică care se integrează armonios în clădirile tradiționale dense.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398464,
+                        14.551397
+                  ]
+            },
+            {
+                  "name": "Jami` ar Rahmah",
+                  "text": "Un loc de devoțiune cu o curte interioară umbrită pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398497,
+                        14.554151
+                  ]
+            },
+            {
+                  "name": "Masjid at Ta`izz",
+                  "text": "Această moschee poartă numele orașului Ta'izz și reflectă stilul arhitectural al acestuia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412597,
+                        14.549961
+                  ]
+            },
+            {
+                  "name": "Masjid Qubbat ar Rahman",
+                  "text": "O structură izbitoare care atrage atenția prin marea sa cupolă albă, care îi dă și numele.",
+                  "category": "landmark",
+                  "coords": [
+                        44.415039,
+                        14.54983
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman Bin `Affan",
+                  "text": "O moschee clasică cu arcuri de fereastră fin lucrate în stil regional.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41669,
+                        14.552199
+                  ]
+            },
+            {
+                  "name": "Jami` Suwal",
+                  "text": "Un refugiu spiritual apreciat pentru atmosfera sa liniștită și liniile curate.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41635,
+                        14.543758
+                  ]
+            },
+            {
+                  "name": "Jami` al `Arami",
+                  "text": "O moschee cu o intrare decorată artistic din rocă vulcanică întunecată.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418463,
+                        14.54283
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`idi",
+                  "text": "O sală de rugăciune modestă, adânc înrădăcinată în țesutul social al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426901,
+                        14.538868
+                  ]
+            },
+            {
+                  "name": "Masjid al Farzah",
+                  "text": "O moschee modernă care îmbină tăierea tradițională a pietrei cu elemente contemporane.",
+                  "category": "landmark",
+                  "coords": [
+                        44.430405,
+                        14.537702
+                  ]
+            },
+            {
+                  "name": "Jami` al `Absi",
+                  "text": "Un centru religios cunoscut pentru minaretele sale ornamentale vizibile de la distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403503,
+                        14.518069
+                  ]
+            },
+            {
+                  "name": "Jami` as Subari",
+                  "text": "O moschee cu o fațadă de piatră ușoară distinctivă și uși din lemn sculptat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405428,
+                        14.53641
+                  ]
+            },
+            {
+                  "name": "Masjid al Manzal",
+                  "text": "O casă de rugăciune mai mică care impresionează prin grilajele ornamentate de gips de la ferestre.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408823,
+                        14.536567
+                  ]
+            },
+            {
+                  "name": "Jami` an Nur",
+                  "text": "Această moschee a luminii este cunoscută pentru interiorul său luminos, plin de lumină.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403001,
+                        14.537199
+                  ]
+            },
+            {
+                  "name": "Jami` at Tawhid",
+                  "text": "O structură simplă care subliniază unicitatea lui Dumnezeu prin arhitectura clară, fără ornamente.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396351,
+                        14.543743
+                  ]
+            },
+            {
+                  "name": "Jami` Bir Khabut",
+                  "text": "O moschee lângă o fântână veche, care servește ca un important punct de odihnă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397411,
+                        14.543494
+                  ]
+            },
+            {
+                  "name": "Jami` Luqman",
+                  "text": "Un loc istoric de rugăciune cu ziduri masive din gresie cioplită.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398677,
+                        14.546784
+                  ]
+            },
+            {
+                  "name": "Jami` `Umar",
+                  "text": "O moschee elegantă cu un minaret înalt, fin decorat și arcade rotunde largi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399891,
+                        14.547903
+                  ]
+            },
+            {
+                  "name": "Masjid Farh",
+                  "text": "O moschee cu un pridvor deschis primitor și sculpturi tradiționale în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        44.401349,
+                        14.545662
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Un mare centru islamic cu săli de rugăciune moderne și arhitectură distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402313,
+                        14.543052
+                  ]
+            },
+            {
+                  "name": "Jami` az Zahra'",
+                  "text": "O moschee numită după Fatima az-Zahra, cu cupole luminoase și săli largi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402219,
+                        14.541406
+                  ]
+            },
+            {
+                  "name": "Masjid as Sulaymani",
+                  "text": "O moschee în stil otoman cu un minaret ascuțit și mai multe cupole mici.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406613,
+                        14.54449
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "O sală de rugăciune tradițională cunoscută pentru sculpturile în lemn de pe amvon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406668,
+                        14.541771
+                  ]
+            },
+            {
+                  "name": "Masjid Hamzah",
+                  "text": "O moschee solid construită din piatră de bazalt închisă la culoare, cu un turn pătrat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411504,
+                        14.545004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Rafan",
+                  "text": "A mountain peak near Dhamar, overlooking the arid but impressive high plateau of central Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.467554,
+                        14.555175
+                  ]
+            },
+            {
+                  "name": "Jabal al Halaqah",
+                  "text": "A distinctive peak in the surroundings of Dhamar, whose bare rocky slopes are typical of the region's volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.45,
+                        14.533333
+                  ]
+            },
+            {
+                  "name": "Jabal Hirran",
+                  "text": "A local mountain of Dhamar, offering wide views over the city and the surrounding agricultural lands.",
+                  "category": "natural",
+                  "coords": [
+                        44.396536,
+                        14.574461
+                  ]
+            },
+            {
+                  "name": "Jabal Haythah",
+                  "text": "This mountain in the Dhamar region rises above the vast plateau and serves as a landmark for travelers in the highlands.",
+                  "category": "natural",
+                  "coords": [
+                        44.443186,
+                        14.560961
+                  ]
+            },
+            {
+                  "name": "Jabal Bawq",
+                  "text": "A bare mountain peak north of Dhamar, marking the transition between the different high basins of central Yemen.",
+                  "category": "natural",
+                  "coords": [
+                        44.4489,
+                        14.57699
+                  ]
+            },
+            {
+                  "name": "Hayd Hafr",
+                  "text": "A prominent mountain peak in the rugged Ibb highlands with wide views over the rocky landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.471116,
+                        14.572635
+                  ]
+            },
+            {
+                  "name": "Hisn Zayd",
+                  "text": "A traditional stone mountain fortress built strategically on a high ridge.",
+                  "category": "castle",
+                  "coords": [
+                        44.463532,
+                        14.608472
+                  ]
+            },
+            {
+                  "name": "Almithali Resort",
+                  "text": "A terraced recreational area known for its views of the green mountain valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        44.394129,
+                        14.579283
+                  ]
+            },
+            {
+                  "name": "Jami` al Hasan Bin `Ali",
+                  "text": "A local mosque featuring a slender minaret and a facade made of regional natural stone.",
+                  "category": "landmark",
+                  "coords": [
+                        44.400019,
+                        14.560866
+                  ]
+            },
+            {
+                  "name": "Jami` Bajah",
+                  "text": "A peaceful place of prayer that stands out with its traditional Yemeni stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399189,
+                        14.540188
+                  ]
+            },
+            {
+                  "name": "Masjid as Sabari",
+                  "text": "A simple neighborhood mosque that serves as an important spiritual meeting point for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399687,
+                        14.532162
+                  ]
+            },
+            {
+                  "name": "Masjid Zayd",
+                  "text": "A religious building featuring handcrafted geometric patterns on its exterior walls.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399446,
+                        14.549183
+                  ]
+            },
+            {
+                  "name": "Masjid al Mujahid",
+                  "text": "A historic mosque known for its artistically decorated prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408639,
+                        14.546192
+                  ]
+            },
+            {
+                  "name": "Jami` at Taqwa",
+                  "text": "A community center of faith featuring a distinctive square minaret base.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4089,
+                        14.549223
+                  ]
+            },
+            {
+                  "name": "Al Masjid al Kabir",
+                  "text": "The central Great Mosque of the district, recognizable by its monumental stone facade.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405406,
+                        14.54939
+                  ]
+            },
+            {
+                  "name": "Masjid al Ways",
+                  "text": "A small mosque that blends harmoniously into the dense traditional buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398464,
+                        14.551397
+                  ]
+            },
+            {
+                  "name": "Jami` ar Rahmah",
+                  "text": "A place of devotion featuring a shaded courtyard for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398497,
+                        14.554151
+                  ]
+            },
+            {
+                  "name": "Masjid at Ta`izz",
+                  "text": "This mosque is named after the city of Ta'izz and reflects its architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412597,
+                        14.549961
+                  ]
+            },
+            {
+                  "name": "Masjid Qubbat ar Rahman",
+                  "text": "A striking structure that draws attention with its namesake large white dome.",
+                  "category": "landmark",
+                  "coords": [
+                        44.415039,
+                        14.54983
+                  ]
+            },
+            {
+                  "name": "Masjid `Uthman Bin `Affan",
+                  "text": "A classic mosque with finely crafted window arches in the regional style.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41669,
+                        14.552199
+                  ]
+            },
+            {
+                  "name": "Jami` Suwal",
+                  "text": "A spiritual retreat valued for its calm atmosphere and clean architectural lines.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41635,
+                        14.543758
+                  ]
+            },
+            {
+                  "name": "Jami` al `Arami",
+                  "text": "A mosque featuring an artistically decorated entrance made of dark volcanic rock.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418463,
+                        14.54283
+                  ]
+            },
+            {
+                  "name": "Masjid as Sa`idi",
+                  "text": "A modest prayer hall deeply rooted in the social fabric of the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426901,
+                        14.538868
+                  ]
+            },
+            {
+                  "name": "Masjid al Farzah",
+                  "text": "A modern mosque combining traditional stonemasonry with contemporary elements.",
+                  "category": "landmark",
+                  "coords": [
+                        44.430405,
+                        14.537702
+                  ]
+            },
+            {
+                  "name": "Jami` al `Absi",
+                  "text": "A religious center known for its ornamental minarets visible from afar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403503,
+                        14.518069
+                  ]
+            },
+            {
+                  "name": "Jami` as Subari",
+                  "text": "A mosque with a distinctive light stone facade and carved wooden doors.",
+                  "category": "landmark",
+                  "coords": [
+                        44.405428,
+                        14.53641
+                  ]
+            },
+            {
+                  "name": "Masjid al Manzal",
+                  "text": "A smaller prayer house that stands out with its ornate gypsum window lattices.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408823,
+                        14.536567
+                  ]
+            },
+            {
+                  "name": "Jami` an Nur",
+                  "text": "This 'Mosque of Light' is known for its bright, light-filled interior.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403001,
+                        14.537199
+                  ]
+            },
+            {
+                  "name": "Jami` at Tawhid",
+                  "text": "A simple structure emphasizing the oneness of God through clear, unadorned architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396351,
+                        14.543743
+                  ]
+            },
+            {
+                  "name": "Jami` Bir Khabut",
+                  "text": "A mosque located near an old well, serving as an important resting point.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397411,
+                        14.543494
+                  ]
+            },
+            {
+                  "name": "Jami` Luqman",
+                  "text": "A historical place of prayer with massive walls made of hewn sandstone.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398677,
+                        14.546784
+                  ]
+            },
+            {
+                  "name": "Jami` `Umar",
+                  "text": "An elegant mosque with a tall, finely decorated minaret and wide circular arches.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399891,
+                        14.547903
+                  ]
+            },
+            {
+                  "name": "Masjid Farh",
+                  "text": "A mosque with an inviting, open porch and traditional stonework.",
+                  "category": "landmark",
+                  "coords": [
+                        44.401349,
+                        14.545662
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "A large Islamic center with modern prayer halls and striking architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402313,
+                        14.543052
+                  ]
+            },
+            {
+                  "name": "Jami` az Zahra'",
+                  "text": "A mosque named after Fatima az-Zahra with bright domes and wide halls.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402219,
+                        14.541406
+                  ]
+            },
+            {
+                  "name": "Masjid as Sulaymani",
+                  "text": "An Ottoman-style mosque with a pointed minaret and several small domes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406613,
+                        14.54449
+                  ]
+            },
+            {
+                  "name": "Jami` Ishaq",
+                  "text": "A traditional prayer hall known for its wood carvings on the minbar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406668,
+                        14.541771
+                  ]
+            },
+            {
+                  "name": "Masjid Hamzah",
+                  "text": "A solidly built mosque of dark basalt stone with a square tower.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411504,
+                        14.545004
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "YE-DH",
     coords: [44.4023, 14.5458],
@@ -963,7 +6408,196 @@ export const poiExtraYemenLifeV2: POI[] = [
     },
   },
   {
-    id: "ibb-green-terraces-life-v2",
+    id: "ibb-green-terraces-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Barat",
+                  "text": "Ein Berggipfel im fruchtbaren Hochland von Ibb, umgeben von den berühmten grünen Terrassen, die nach Regenfällen intensiv leuchten.",
+                  "category": "natural",
+                  "coords": [
+                        44.153333,
+                        14.0396
+                  ]
+            },
+            {
+                  "name": "Jabal Nu`man",
+                  "text": "Dieser Berg in der Provinz Ibb bietet einen Panoramablick auf die dicht besiedelten und landwirtschaftlich genutzten Hänge der Region.",
+                  "category": "natural",
+                  "coords": [
+                        44.098943,
+                        13.996565
+                  ]
+            },
+            {
+                  "name": "Jabal `Urhan",
+                  "text": "Ein markanter Gipfel in der „grünen Lunge“ des Jemen, der für sein feuchtes Klima und die üppige Vegetation bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.23417,
+                        14.008805
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar bin Abdulaziz",
+                  "text": "Eine historische Moschee im fruchtbaren Ibb-Gebiet, die an die frühe islamische Geschichte der Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.175084,
+                        13.975053
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Ibn Al-Khattab",
+                  "text": "Ein traditionsreiches Gebetshaus in den grünen Bergen von Ibb, das für seine Schlichtheit und religiöse Bedeutung geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.177122,
+                        13.974134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Barat",
+                  "text": "Hegycsúcs Ibb termékeny felföldjén, a híres zöld teraszok által körülvéve, amelyek eső után intenzíven ragyognak.",
+                  "category": "natural",
+                  "coords": [
+                        44.153333,
+                        14.0396
+                  ]
+            },
+            {
+                  "name": "Jabal Nu`man",
+                  "text": "Ez az Ibb tartománybeli hegy panorámás kilátást nyújt a régió sűrűn lakott és mezőgazdaságilag művelt lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        44.098943,
+                        13.996565
+                  ]
+            },
+            {
+                  "name": "Jabal `Urhan",
+                  "text": "Jellegzetes csúcs Jemen „zöld tüdejében”, amely párás éghajlatáról és dús növényzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.23417,
+                        14.008805
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar bin Abdulaziz",
+                  "text": "Történelmi mecset a termékeny Ibb-vidéken, amely a régió korai iszlám történelmére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.175084,
+                        13.975053
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Ibn Al-Khattab",
+                  "text": "Hagyományőrző imaház Ibb zöld hegyei között, amelyet egyszerűségéért és vallási jelentőségéért becsülnek.",
+                  "category": "religious",
+                  "coords": [
+                        44.177122,
+                        13.974134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Barat",
+                  "text": "Un vârf montan în zonele înalte fertile din Ibb, înconjurat de faimoasele terase verzi care strălucesc intens după ploi.",
+                  "category": "natural",
+                  "coords": [
+                        44.153333,
+                        14.0396
+                  ]
+            },
+            {
+                  "name": "Jabal Nu`man",
+                  "text": "Acest munte din provincia Ibb oferă o vedere panoramică asupra pantelor dens populate și cultivate agricol ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        44.098943,
+                        13.996565
+                  ]
+            },
+            {
+                  "name": "Jabal `Urhan",
+                  "text": "Un vârf distinctiv în „plămânul verde” al Yemenului, cunoscut pentru climatul său umed și vegetația luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        44.23417,
+                        14.008805
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar bin Abdulaziz",
+                  "text": "O moschee istorică în zona fertilă Ibb, amintind de istoria islamică timpurie a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.175084,
+                        13.975053
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Ibn Al-Khattab",
+                  "text": "O casă de rugăciune bogată în tradiție în munții verzi din Ibb, prețuită pentru simplitatea și semnificația sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        44.177122,
+                        13.974134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Barat",
+                  "text": "A mountain peak in the fertile highlands of Ibb, surrounded by the famous green terraces that glow intensely after rainfall.",
+                  "category": "natural",
+                  "coords": [
+                        44.153333,
+                        14.0396
+                  ]
+            },
+            {
+                  "name": "Jabal Nu`man",
+                  "text": "This mountain in Ibb province offers panoramic views of the region's densely populated and agriculturally cultivated slopes.",
+                  "category": "natural",
+                  "coords": [
+                        44.098943,
+                        13.996565
+                  ]
+            },
+            {
+                  "name": "Jabal `Urhan",
+                  "text": "A distinctive peak in the 'green lung' of Yemen, known for its humid climate and lush vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        44.23417,
+                        14.008805
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar bin Abdulaziz",
+                  "text": "A historical mosque in the fertile Ibb area, reminding of the region's early Islamic history.",
+                  "category": "landmark",
+                  "coords": [
+                        44.175084,
+                        13.975053
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Ibn Al-Khattab",
+                  "text": "A tradition-rich house of prayer in the green mountains of Ibb, valued for its simplicity and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        44.177122,
+                        13.974134
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "YE-IB",
     coords: [44.1758, 13.9749],

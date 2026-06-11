@@ -3,7 +3,412 @@ import type { POI } from "./poi";
 
 export const poiExtraJordanCitiesV2: POI[] = [
   {
-    id: "amman-cities-v2",
+    id: "amman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Um Suweiwina",
+                  "text": "Verwitterte Steinreste einer historischen Siedlung, die in der zerklüfteten Landschaft bei Amman liegen.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.933333
+                  ]
+            },
+            {
+                  "name": "Palms Plaza",
+                  "text": "Ein belebter öffentlicher Platz, der als Treffpunkt und Handelszentrum in der modernen Stadt Amman dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928344,
+                        31.945335
+                  ]
+            },
+            {
+                  "name": "Watan Studio",
+                  "text": "Diese Galerie präsentiert zeitgenössische Kunstwerke und bietet jordanischen Künstlern eine kreative Plattform.",
+                  "category": "museum",
+                  "coords": [
+                        35.929953,
+                        31.946855
+                  ]
+            },
+            {
+                  "name": "Ras al Ayn",
+                  "text": "Ein Hotel in Amman, das sich durch seine Lage im geschichtsträchtigen Viertel Ras al-Ayn auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916678,
+                        31.949978
+                  ]
+            },
+            {
+                  "name": "Al Hussain Cultural Center",
+                  "text": "Ein bedeutendes Kulturzentrum, das Theateraufführungen und künstlerische Veranstaltungen in der Hauptstadt beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92037,
+                        31.945252
+                  ]
+            },
+            {
+                  "name": "The Jordan Museum",
+                  "text": "Jordaniens größtes Museum beherbergt die berühmten Ain-Ghazal-Statuen und die Schriftrollen vom Toten Meer.",
+                  "category": "museum",
+                  "coords": [
+                        35.927341,
+                        31.94566
+                  ]
+            },
+            {
+                  "name": "Museum of Parliamentary Life",
+                  "text": "In diesem historischen Gebäude tagte das erste Parlament und wurde 1946 die Unabhängigkeit Jordaniens verkündet.",
+                  "category": "museum",
+                  "coords": [
+                        35.921181,
+                        31.951119
+                  ]
+            },
+            {
+                  "name": "Al Basheer ben Saad Masjed",
+                  "text": "Eine lokale Moschee im belebten Ras al-Ayn-Viertel, die einen Ort der Ruhe inmitten des Stadtverkehrs bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913942,
+                        31.939915
+                  ]
+            },
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "Diese christliche Kirche dient der wachsenden evangelischen Gemeinde im Herzen der jordanischen Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927543,
+                        31.948269
+                  ]
+            },
+            {
+                  "name": "The Arab Evangelical Episcopal Church",
+                  "text": "Eine arabische evangelisch-episkopale Kirche, die Gottesdienste in der anglikanischen Tradition in Amman anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926076,
+                        31.948623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Die katholische St.-Josephs-Kirche ist bekannt für ihre soziale Arbeit und ihre Lage im Viertel Jabal Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.923893,
+                        31.948971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Um Suweiwina",
+                  "text": "Egy történelmi település málló kőmaradványai Amman sziklás táján.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.933333
+                  ]
+            },
+            {
+                  "name": "Palms Plaza",
+                  "text": "Nyüzsgő közösségi tér, amely találkozóhelyként és kereskedelmi központként szolgál a modern Ammanban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928344,
+                        31.945335
+                  ]
+            },
+            {
+                  "name": "Watan Studio",
+                  "text": "Ez a galéria kortárs műalkotásokat mutat be, és kreatív platformot kínál jordán művészek számára.",
+                  "category": "museum",
+                  "coords": [
+                        35.929953,
+                        31.946855
+                  ]
+            },
+            {
+                  "name": "Zidian Hotel",
+                  "text": "Egy ammani szálloda, amely a történelmi Ras al-Ayn negyedben elfoglalt elhelyezkedésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916678,
+                        31.949978
+                  ]
+            },
+            {
+                  "name": "Al Hussain Cultural Center",
+                  "text": "Jelentős kulturális központ, amely színházi előadásoknak és művészeti eseményeknek ad otthont a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92037,
+                        31.945252
+                  ]
+            },
+            {
+                  "name": "The Jordan Museum",
+                  "text": "Jordánia legnagyobb múzeuma a híres Ain Ghazal-szobroknak és a Holt-tengeri tekercseknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        35.927341,
+                        31.94566
+                  ]
+            },
+            {
+                  "name": "Museum of Parliamentary Life",
+                  "text": "Ebben a történelmi épületben ülésezett az első parlament, és itt kikiáltották ki Jordánia függetlenségét 1946-ban.",
+                  "category": "museum",
+                  "coords": [
+                        35.921181,
+                        31.951119
+                  ]
+            },
+            {
+                  "name": "Al Basheer ben Saad Masjed",
+                  "text": "Helyi mecset a nyüzsgő Ras al-Ayn negyedben, amely a városi forgalom közepette a nyugalom szigete.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913942,
+                        31.939915
+                  ]
+            },
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "Ez a keresztény templom a jordán főváros szívében élő, növekvő evangélikus közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927543,
+                        31.948269
+                  ]
+            },
+            {
+                  "name": "The Arab Evangelical Episcopal Church",
+                  "text": "Arab evangélikus episzkopális templom, amely anglikán hagyomány szerinti istentiszteleteket tart Ammanban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926076,
+                        31.948623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "A Szent József katolikus templom szociális munkájáról és a Jabal Amman negyedben elfoglalt helyéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.923893,
+                        31.948971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Um Suweiwina",
+                  "text": "Rămășițe de piatră erodate ale unei așezări istorice, situate în peisajul accidentat de lângă Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.933333
+                  ]
+            },
+            {
+                  "name": "Palms Plaza",
+                  "text": "O piață publică plină de viață care servește ca loc de întâlnire și centru comercial în Ammanul modern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928344,
+                        31.945335
+                  ]
+            },
+            {
+                  "name": "Watan Studio",
+                  "text": "Această galerie prezintă opere de artă contemporană și oferă o platformă creativă pentru artiștii iordanieni.",
+                  "category": "museum",
+                  "coords": [
+                        35.929953,
+                        31.946855
+                  ]
+            },
+            {
+                  "name": "Zidian Hotel",
+                  "text": "Un hotel din Amman care se remarcă prin amplasarea sa în cartierul istoric Ras al-Ayn.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916678,
+                        31.949978
+                  ]
+            },
+            {
+                  "name": "Al Hussain Cultural Center",
+                  "text": "Un centru cultural important care găzduiește spectacole de teatru și evenimente artistice în capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92037,
+                        31.945252
+                  ]
+            },
+            {
+                  "name": "The Jordan Museum",
+                  "text": "Cel mai mare muzeu din Iordania adăpostește faimoasele statui Ain Ghazal și Manuscrisele de la Marea Moartă.",
+                  "category": "museum",
+                  "coords": [
+                        35.927341,
+                        31.94566
+                  ]
+            },
+            {
+                  "name": "Museum of Parliamentary Life",
+                  "text": "În această clădire istorică s-a întrunit primul parlament și a fost proclamată independența Iordaniei în 1946.",
+                  "category": "museum",
+                  "coords": [
+                        35.921181,
+                        31.951119
+                  ]
+            },
+            {
+                  "name": "Al Basheer ben Saad Masjed",
+                  "text": "O moschee locală în cartierul aglomerat Ras al-Ayn, oferind un loc de liniște în mijlocul traficului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913942,
+                        31.939915
+                  ]
+            },
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "Această biserică creștină servește comunitatea evanghelică în creștere din inima capitalei iordaniene.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927543,
+                        31.948269
+                  ]
+            },
+            {
+                  "name": "The Arab Evangelical Episcopal Church",
+                  "text": "O biserică evanghelică episcopală arabă care oferă slujbe în tradiția anglicană în Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926076,
+                        31.948623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Biserica catolică Sfântul Iosif este cunoscută pentru activitatea sa socială și amplasarea în cartierul Jabal Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.923893,
+                        31.948971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Um Suweiwina",
+                  "text": "Weathered stone remains of a historical settlement situated in the rugged landscape near Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.933333
+                  ]
+            },
+            {
+                  "name": "Palms Plaza",
+                  "text": "A bustling public plaza serving as a meeting point and commercial hub in modern Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928344,
+                        31.945335
+                  ]
+            },
+            {
+                  "name": "Watan Studio",
+                  "text": "This gallery showcases contemporary artworks and provides a creative platform for Jordanian artists.",
+                  "category": "museum",
+                  "coords": [
+                        35.929953,
+                        31.946855
+                  ]
+            },
+            {
+                  "name": "Ras al Ayn",
+                  "text": "A hotel in Amman distinguished by its location in the historic Ras al-Ayn district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916678,
+                        31.949978
+                  ]
+            },
+            {
+                  "name": "Al Hussain Cultural Center",
+                  "text": "A significant cultural center hosting theater productions and artistic events in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92037,
+                        31.945252
+                  ]
+            },
+            {
+                  "name": "The Jordan Museum",
+                  "text": "Jordan's largest museum is home to the famous Ain Ghazal statues and the Dead Sea Scrolls.",
+                  "category": "museum",
+                  "coords": [
+                        35.927341,
+                        31.94566
+                  ]
+            },
+            {
+                  "name": "Museum of Parliamentary Life",
+                  "text": "This historic building is where the first parliament met and Jordan's independence was declared in 1946.",
+                  "category": "museum",
+                  "coords": [
+                        35.921181,
+                        31.951119
+                  ]
+            },
+            {
+                  "name": "Al Basheer ben Saad Masjed",
+                  "text": "A local mosque in the busy Ras al-Ayn neighborhood, providing a place of peace amidst the city traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.913942,
+                        31.939915
+                  ]
+            },
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "This Christian church serves the growing evangelical community in the heart of the Jordanian capital.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927543,
+                        31.948269
+                  ]
+            },
+            {
+                  "name": "The Arab Evangelical Episcopal Church",
+                  "text": "An Arab Evangelical Episcopal church providing services in the Anglican tradition in Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926076,
+                        31.948623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "The Catholic Saint Joseph Church is known for its social work and its location in the Jabal Amman district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.923893,
+                        31.948971
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "JO-AM",
     coords: [35.9283, 31.9454],
@@ -64,7 +469,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jneneh",
-                  "text": "Jneneh ist eine archäologische Stätte in der Stadt Zarqa.",
+                  "text": "Jneneh in Zarqa – historische Stätte mit Ruinen aus der Römerzeit.",
                   "category": "historical",
                   "coords": [
                         36.067936,
@@ -75,7 +480,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jneneh",
-                  "text": "Jneneh egy régészeti lelőhely Zarqa városában.",
+                  "text": "Jneneh Zarqa-ban – történelmi helyszín római kori romokkal.",
                   "category": "historical",
                   "coords": [
                         36.067936,
@@ -86,7 +491,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jneneh",
-                  "text": "Jneneh este un sit arheologic aflat în orașul Zarqa.",
+                  "text": "Jneneh în Zarqa – sit istoric cu ruine din epoca romană.",
                   "category": "historical",
                   "coords": [
                         36.067936,
@@ -97,7 +502,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jneneh",
-                  "text": "Jneneh is an archaeological site located in the city of Zarqa.",
+                  "text": "Jneneh in Zarqa – historic site with Roman-era ruins.",
                   "category": "historical",
                   "coords": [
                         36.067936,
@@ -172,7 +577,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al-Kindi-Theater",
-                  "text": "Das Al-Kindi-Theater ist eine kulturelle Einrichtung in Irbid.",
+                  "text": "Al-Kindi-Theater in Irbid – modernes Theater benannt nach dem arabischen Philosophen Al-Kindi.",
                   "category": "cultural",
                   "coords": [
                         35.856525,
@@ -181,7 +586,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Irbid Animal Museum",
-                  "text": "Ein Tiermuseum in Irbid.",
+                  "text": "Irbid Tierkundemuseum – zeigt ausgestopfte Tiere, Fossilien und lokale Fauna.",
                   "category": "museum",
                   "coords": [
                         35.857628,
@@ -199,7 +604,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Museum",
-                  "text": "Ein historisches Museum in Irbid.",
+                  "text": "Historisches Museum Irbid – untergebracht in einem osmanischen Gebäude, präsentiert archäologische Funde aus Nordjordanien.",
                   "category": "museum",
                   "coords": [
                         35.853838,
@@ -208,7 +613,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrahim Al-Shaer",
-                  "text": "Ibrahim Al-Shaer ist eine bekannte Attraktion in Irbid.",
+                  "text": "Ibrahim-Al-Shaer-Denkmal in Irbid – Gedenkstätte für den lokalen Dichter Ibrahim Al-Shaer.",
                   "category": "landmark",
                   "coords": [
                         35.868205,
@@ -217,7 +622,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Naseem-Signal",
-                  "text": "Das Al-Naseem-Signal ist ein markanter Ort in Irbid.",
+                  "text": "Al-Naseem-Kreuzung in Irbid – belebter Verkehrsknotenpunkt mit nahegelegenen Geschäften.",
                   "category": "landmark",
                   "coords": [
                         35.85248,
@@ -226,7 +631,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Iskan-Signal",
-                  "text": "Das Al-Iskan-Signal ist eine bekannte Stelle in Irbid.",
+                  "text": "Al-Iskan-Kreuzung in Irbid – wichtiger Verkehrspunkt am Wohnviertel Al-Iskan.",
                   "category": "landmark",
                   "coords": [
                         35.8504,
@@ -235,7 +640,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Universitäts-Kreisverkehr",
-                  "text": "Der Universitäts-Kreisverkehr ist ein markanter Punkt in Irbid.",
+                  "text": "Universitätskreisel in Irbid – Kreisverkehr am Haupteingang der Yarmouk-Universität.",
                   "category": "landmark",
                   "coords": [
                         35.851165,
@@ -246,7 +651,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al-Kindi Színház",
-                  "text": "Az Al-Kindi Színház egy kulturális intézmény Irbidben.",
+                  "text": "Al-Kindi Színház Irbid-ben – modern színház, Al-Kindi arab filozófusról elnevezve.",
                   "category": "cultural",
                   "coords": [
                         35.856525,
@@ -255,7 +660,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Irbid Animal Museum",
-                  "text": "Állatmúzeum Irbidben.",
+                  "text": "Irbid Állatmúzeum – kitömött állatokat, fosszíliákat és helyi faunát mutat be.",
                   "category": "museum",
                   "coords": [
                         35.857628,
@@ -273,7 +678,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Museum",
-                  "text": "Történeti múzeum Irbidben.",
+                  "text": "Irbid Történeti Múzeum – egy oszmán épületben kapott helyet, Észak-Jordánia régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         35.853838,
@@ -282,7 +687,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrahim Al-Shaer",
-                  "text": "Ibrahim Al-Shaer egy ismert látnivaló Irbidben.",
+                  "text": "Ibrahim Al-Shaer emlékmű Irbid-ben – a helyi költő, Ibrahim Al-Shaer emlékhelye.",
                   "category": "landmark",
                   "coords": [
                         35.868205,
@@ -291,7 +696,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Naseem jelzés",
-                  "text": "Az Al-Naseem jelzés egy jellegzetes pont Irbidben.",
+                  "text": "Al-Naseem jelzőlámpa Irbid-ben – forgalmas csomópont közeli üzletekkel.",
                   "category": "landmark",
                   "coords": [
                         35.85248,
@@ -300,7 +705,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Iskan jelzés",
-                  "text": "Az Al-Iskan jelzés egy ismert hely Irbidben.",
+                  "text": "Al-Iskan jelzőlámpa Irbid-ben – fontos közlekedési pont az Al-Iskan lakónegyedben.",
                   "category": "landmark",
                   "coords": [
                         35.8504,
@@ -309,7 +714,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Egyetemi körforgalom",
-                  "text": "Az Egyetemi körforgalom egy jellegzetes pont Irbidben.",
+                  "text": "Egyetemi körforgalom Irbid-ben – körforgalom a Yarmouk Egyetem főbejáratánál.",
                   "category": "landmark",
                   "coords": [
                         35.851165,
@@ -320,7 +725,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatrul Al-Kindi",
-                  "text": "Teatrul Al-Kindi este o instituție culturală din Irbid.",
+                  "text": "Teatrul Al-Kindi din Irbid – teatru modern numit după filozoful arab Al-Kindi.",
                   "category": "cultural",
                   "coords": [
                         35.856525,
@@ -329,7 +734,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Irbid Animal Museum",
-                  "text": "Un muzeu de animale din Irbid.",
+                  "text": "Muzeul de Animale din Irbid – expune animale împăiate, fosile și faună locală.",
                   "category": "museum",
                   "coords": [
                         35.857628,
@@ -347,7 +752,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Museum",
-                  "text": "Un muzeu istoric din Irbid.",
+                  "text": "Muzeul Istoric Irbid – găzduit într-o clădire otomană, prezintă descoperiri arheologice din nordul Iordaniei.",
                   "category": "museum",
                   "coords": [
                         35.853838,
@@ -356,7 +761,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrahim Al-Shaer",
-                  "text": "Ibrahim Al-Shaer este o atracție cunoscută din Irbid.",
+                  "text": "Monumentul Ibrahim Al-Shaer în Irbid – memorial pentru poetul local Ibrahim Al-Shaer.",
                   "category": "landmark",
                   "coords": [
                         35.868205,
@@ -365,7 +770,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Semnalul Al-Naseem",
-                  "text": "Semnalul Al-Naseem este un punct proeminent în Irbid.",
+                  "text": "Semaforul Al-Naseem din Irbid – intersecție aglomerată cu magazine în apropiere.",
                   "category": "landmark",
                   "coords": [
                         35.85248,
@@ -374,7 +779,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Semnalul Al-Iskan",
-                  "text": "Semnalul Al-Iskan este un punct cunoscut în Irbid.",
+                  "text": "Semaforul Al-Iskan din Irbid – punct important de trafic în cartierul rezidențial Al-Iskan.",
                   "category": "landmark",
                   "coords": [
                         35.8504,
@@ -383,7 +788,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sensul giratoriu al Universității",
-                  "text": "Sensul giratoriu al Universității este un punct de reper în Irbid.",
+                  "text": "Sensul giratoriu al Universității din Irbid – sens giratoriu la intrarea principală a Universității Yarmouk.",
                   "category": "landmark",
                   "coords": [
                         35.851165,
@@ -394,7 +799,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al-Kindi Theatre",
-                  "text": "The Al-Kindi Theatre is a cultural institution in Irbid.",
+                  "text": "Al-Kindi Theatre in Irbid – modern theatre named after the Arab philosopher Al-Kindi.",
                   "category": "cultural",
                   "coords": [
                         35.856525,
@@ -403,7 +808,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Irbid Animal Museum",
-                  "text": "An animal museum in Irbid.",
+                  "text": "Irbid Animal Museum – displays stuffed animals, fossils, and local fauna.",
                   "category": "museum",
                   "coords": [
                         35.857628,
@@ -421,7 +826,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Museum",
-                  "text": "A historical museum in Irbid.",
+                  "text": "Irbid Historical Museum – housed in an Ottoman building, showcasing archaeological finds from northern Jordan.",
                   "category": "museum",
                   "coords": [
                         35.853838,
@@ -430,7 +835,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrahim Al-Shaer",
-                  "text": "Ibrahim Al-Shaer is a known attraction in Irbid.",
+                  "text": "Ibrahim Al-Shaer landmark in Irbid – memorial to the local poet Ibrahim Al-Shaer.",
                   "category": "landmark",
                   "coords": [
                         35.868205,
@@ -439,7 +844,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Naseem signal",
-                  "text": "The Al-Naseem signal is a landmark in Irbid.",
+                  "text": "Al-Naseem signal in Irbid – busy traffic intersection with nearby shops.",
                   "category": "landmark",
                   "coords": [
                         35.85248,
@@ -448,7 +853,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Iskan signal",
-                  "text": "The Al-Iskan signal is a known spot in Irbid.",
+                  "text": "Al-Iskan signal in Irbid – key traffic point in the Al-Iskan residential area.",
                   "category": "landmark",
                   "coords": [
                         35.8504,
@@ -457,7 +862,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "University roundabout",
-                  "text": "The University roundabout is a landmark in Irbid.",
+                  "text": "University roundabout in Irbid – roundabout at the main entrance of Yarmouk University.",
                   "category": "landmark",
                   "coords": [
                         35.851165,
@@ -532,7 +937,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Festung Akaba",
-                  "text": "Aqaba Castle ist eine bekannte Burg in Akaba.",
+                  "text": "Mamlukische Festung aus dem 14. Jahrhundert am Roten Meer.",
                   "category": "castle",
                   "coords": [
                         35.00204,
@@ -541,7 +946,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla",
-                  "text": "Ayla ist eine archäologische Stätte in Akaba.",
+                  "text": "Ruinen der frühislamischen Hafenstadt Ayla aus dem 7. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         34.999934,
@@ -550,7 +955,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Frühchristliche Kirchenruinen",
-                  "text": "Die Aqaba Church ist eine historische archäologische Stätte in Akaba.",
+                  "text": "Ruinen der ältesten bekannten christlichen Kirche, erbaut im 3. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         34.999075,
@@ -559,7 +964,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Alghandour",
-                  "text": "Alghandour ist ein Strand in Akaba.",
+                  "text": "Alghandour in Aqaba – Erholungsgebiet mit Swimmingpool und Sonnenliegen am Roten Meer.",
                   "category": "recreational",
                   "coords": [
                         35.000824,
@@ -568,7 +973,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "B12",
-                  "text": "B12 ist ein Strand in Akaba.",
+                  "text": "B12 in Aqaba – Strandclub mit Beachvolleyball und Live-Musik.",
                   "category": "recreational",
                   "coords": [
                         34.983333,
@@ -577,7 +982,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rosary Sister School",
-                  "text": "Rosary Sister School ist ein Theaterraum in Akaba.",
+                  "text": "Rosary Sister School in Aqaba – historische katholische Schule aus der britischen Mandatszeit.",
                   "category": "cultural",
                   "coords": [
                         35.00018,
@@ -586,7 +991,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rose City Saraya Waterpark",
-                  "text": "Rose City Saraya Waterpark ist ein Wasserpark in Akaba.",
+                  "text": "Rose City Saraya Wasserpark in Aqaba – Familienpark mit Rutschen, Wellenbad und Lagune.",
                   "category": "family",
                   "coords": [
                         34.993029,
@@ -595,7 +1000,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Haya Park",
-                  "text": "Prince Haya Park ist ein öffentlicher Park in Akaba.",
+                  "text": "Park an der Küste des Roten Meeres in Aqaba mit Spielplätzen.",
                   "category": "park",
                   "coords": [
                         35.001599,
@@ -604,7 +1009,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Roof viewpoint",
-                  "text": "Der Roof viewpoint bietet einen Panoramablick in Akaba.",
+                  "text": "Dachaussichtsplattform in Aqaba – Panoramablick über den Hafen und das Rote Meer.",
                   "category": "natural",
                   "coords": [
                         35.003267,
@@ -613,7 +1018,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Trail",
-                  "text": "Aqaba Trail ist eine bemerkenswerte Touristenattraktion in Akaba.",
+                  "text": "Aqaba-Wanderweg – Küstenpfad entlang des Roten Meeres mit Aussicht auf Saudiarabien.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
@@ -622,7 +1027,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ahla Tallet Lookout",
-                  "text": "فندق أحلى طلة ist ein Aussichtspunkt in Akaba.",
+                  "text": "Ahla Tallet Aussichtspunkt in Aqaba – beliebter Spot für Sonnenuntergänge über dem Golf von Aqaba.",
                   "category": "natural",
                   "coords": [
                         35.002786,
@@ -631,7 +1036,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Dweik Hotel 3 Lookout",
-                  "text": "فندق دويك 3 dient als Aussichtspunkt in Akaba.",
+                  "text": "Dweik Hotel 3 Aussichtsplattform in Aqaba – kostenloser Panoramablick auf das Rote Meer von der Hotelterrasse.",
                   "category": "natural",
                   "coords": [
                         35.005219,
@@ -640,7 +1045,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla Oasis",
-                  "text": "Ayla Oasis ist eine bekannte Touristenattraktion in Akaba.",
+                  "text": "Ayla Oase in Aqaba – luxuriöse Wohngegend mit künstlichen Kanälen, Golfplatz und Strandclub.",
                   "category": "landmark",
                   "coords": [
                         34.988716,
@@ -651,7 +1056,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Aqaba Castle",
-                  "text": "Az Aqaba Castle egy ismert vár Akaba városában.",
+                  "text": "14. századi mameluk erőd a Vörös-tenger partján.",
                   "category": "castle",
                   "coords": [
                         35.00204,
@@ -660,7 +1065,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla",
-                  "text": "Ayla egy régészeti lelőhely Akaba városában.",
+                  "text": "A 7. századi iszlám kikötőváros, Ayla romjai.",
                   "category": "historical",
                   "coords": [
                         34.999934,
@@ -669,7 +1074,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Church",
-                  "text": "Az Aqaba Church egy történelmi régészeti lelőhely Akaba városában.",
+                  "text": "a 3. századból származó legrégebbi ismert keresztény templom romjai.",
                   "category": "historical",
                   "coords": [
                         34.999075,
@@ -678,7 +1083,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Alghandour",
-                  "text": "Az Alghandour egy strand Akabában.",
+                  "text": "Alghandour Aqaba-ban – pihenőhely medencével és napozóágyakkal a Vörös-tenger partján.",
                   "category": "recreational",
                   "coords": [
                         35.000824,
@@ -687,7 +1092,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "B12",
-                  "text": "A B12 egy strand Akabában.",
+                  "text": "B12 Aqaba-ban – strandklub strandröplabdával és élőzenével.",
                   "category": "recreational",
                   "coords": [
                         34.983333,
@@ -696,7 +1101,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rosary Sister School",
-                  "text": "A Rosary Sister School egy színházi tér Akabában.",
+                  "text": "Rózsafüzér Nővérek Iskolája Aqaba-ban – történelmi katolikus iskola a brit mandátum idejéből.",
                   "category": "cultural",
                   "coords": [
                         35.00018,
@@ -705,7 +1110,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rose City Saraya Waterpark",
-                  "text": "A Rose City Saraya Waterpark egy vízipark Akabában.",
+                  "text": "Rose City Saraya Vízipark Aqaba-ban – családi park csúszdákkal, hullámmedencével és lagúnával.",
                   "category": "family",
                   "coords": [
                         34.993029,
@@ -714,7 +1119,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Haya Park",
-                  "text": "A Prince Haya Park egy nyilvános park Akabában.",
+                  "text": "Park a Vörös-tenger partján Akabában, játszóterekkel.",
                   "category": "park",
                   "coords": [
                         35.001599,
@@ -723,7 +1128,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Roof viewpoint",
-                  "text": "A Roof viewpoint panorámás kilátást nyújt Akabában.",
+                  "text": "Tetős kilátó Aqaba-ban – panorámás kilátás a kikötőre és a Vörös-tengerre.",
                   "category": "natural",
                   "coords": [
                         35.003267,
@@ -732,7 +1137,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Trail",
-                  "text": "Az Aqaba Trail egy figyelemre méltó turisztikai látványosság Akabában.",
+                  "text": "Aqaba túraútvonal – partmenti ösvény a Vörös-tenger mentén, Szaúd-Arábiára nyíló kilátással.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
@@ -741,7 +1146,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ahla Tallet Lookout",
-                  "text": "A فندق أحلى طلة egy festői kilátó Akabában.",
+                  "text": "Ahla Tallet kilátó Aqaba-ban – népszerű hely a naplementék megfigyelésére az Akabai-öböl felett.",
                   "category": "natural",
                   "coords": [
                         35.002786,
@@ -750,7 +1155,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Dweik Hotel 3 Lookout",
-                  "text": "A فندق دويك 3 egy kilátó Akabában.",
+                  "text": "Dweik Hotel 3 kilátó Aqaba-ban – ingyenes panorámás kilátás a Vörös-tengerre a hotel teraszáról.",
                   "category": "natural",
                   "coords": [
                         35.005219,
@@ -759,7 +1164,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla Oasis",
-                  "text": "Az Ayla Oasis egy jól ismert turisztikai látványosság Akabában.",
+                  "text": "Ayla Oázis Aqaba-ban – luxus lakóövezet mesterséges csatornákkal, golfpályával és strandklubbal.",
                   "category": "landmark",
                   "coords": [
                         34.988716,
@@ -770,7 +1175,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Aqaba Castle",
-                  "text": "Aqaba Castle este un castel notabil în Akaba.",
+                  "text": "Fortăreață mamelucă din secolul al XIV-lea pe Marea Roșie.",
                   "category": "castle",
                   "coords": [
                         35.00204,
@@ -779,7 +1184,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla",
-                  "text": "Ayla este un sit arheologic în Akaba.",
+                  "text": "Ruinele orașului portuar islamic timpuriu Ayla, din secolul al VII-lea.",
                   "category": "historical",
                   "coords": [
                         34.999934,
@@ -788,7 +1193,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Church",
-                  "text": "Aqaba Church este un sit arheologic istoric în Akaba.",
+                  "text": "Ruinele celei mai vechi biserici creștine cunoscute, datând din secolul al III-lea.",
                   "category": "historical",
                   "coords": [
                         34.999075,
@@ -797,7 +1202,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Alghandour",
-                  "text": "Alghandour este o plajă situată în Akaba.",
+                  "text": "Alghandour în Aqaba – zonă de agrement cu piscină și șezlonguri la Marea Roșie.",
                   "category": "recreational",
                   "coords": [
                         35.000824,
@@ -806,7 +1211,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "B12",
-                  "text": "B12 este o plajă situată în Akaba.",
+                  "text": "B12 în Aqaba – club de plajă cu volei pe plajă și muzică live.",
                   "category": "recreational",
                   "coords": [
                         34.983333,
@@ -815,7 +1220,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rosary Sister School",
-                  "text": "Rosary Sister School este un teatru din Akaba.",
+                  "text": "Școala Surorilor Rozariului din Aqaba – școală catolică istorică din perioada mandatului britanic.",
                   "category": "cultural",
                   "coords": [
                         35.00018,
@@ -824,7 +1229,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rose City Saraya Waterpark",
-                  "text": "Rose City Saraya Waterpark este un parc acvatic din Akaba.",
+                  "text": "Parcul acvatic Rose City Saraya din Aqaba – parc de familie cu tobogane, piscină cu valuri și lagună.",
                   "category": "family",
                   "coords": [
                         34.993029,
@@ -833,7 +1238,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Haya Park",
-                  "text": "Prince Haya Park este un parc public situat în Akaba.",
+                  "text": "Parc pe coasta Mării Roșii în Aqaba, cu locuri de joacă.",
                   "category": "park",
                   "coords": [
                         35.001599,
@@ -842,7 +1247,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Roof viewpoint",
-                  "text": "Roof viewpoint oferă vedere panoramică în Akaba.",
+                  "text": "Punct de belvedere pe acoperiș în Aqaba – vedere panoramică asupra portului și Mării Roșii.",
                   "category": "natural",
                   "coords": [
                         35.003267,
@@ -851,7 +1256,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Trail",
-                  "text": "Aqaba Trail este o atracție turistică notabilă din Akaba.",
+                  "text": "Traseul Aqaba – potecă de coastă de-a lungul Mării Roșii, cu vedere spre Arabia Saudită.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
@@ -860,7 +1265,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ahla Tallet Lookout",
-                  "text": "فندق أحلى طلة este un punct de belvedere în Akaba.",
+                  "text": "Punctul de belvedere Ahla Tallet din Aqaba – loc popular pentru apusuri deasupra Golfului Aqaba.",
                   "category": "natural",
                   "coords": [
                         35.002786,
@@ -869,7 +1274,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Dweik Hotel 3 Lookout",
-                  "text": "فندق دويك 3 servește drept punct de belvedere în Akaba.",
+                  "text": "Platforma de observație Dweik Hotel 3 din Aqaba – vedere panoramică gratuită asupra Mării Roșii de pe terasa hotelului.",
                   "category": "natural",
                   "coords": [
                         35.005219,
@@ -878,7 +1283,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla Oasis",
-                  "text": "Ayla Oasis este o atracție turistică binecunoscută din Akaba.",
+                  "text": "Ayla Oasis în Aqaba – zonă rezidențială de lux cu canale artificiale, teren de golf și club de plajă.",
                   "category": "landmark",
                   "coords": [
                         34.988716,
@@ -889,7 +1294,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Aqaba Castle",
-                  "text": "Aqaba Castle is a notable castle in Akaba.",
+                  "text": "14th-century Mamluk fortress on the Red Sea.",
                   "category": "castle",
                   "coords": [
                         35.00204,
@@ -898,7 +1303,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla",
-                  "text": "Ayla is an archaeological site in Akaba.",
+                  "text": "Ruins of the 7th-century early Islamic port city of Ayla.",
                   "category": "historical",
                   "coords": [
                         34.999934,
@@ -907,7 +1312,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Church",
-                  "text": "The Aqaba Church is a historic archaeological site in Akaba.",
+                  "text": "Ruins of the world's oldest known purpose-built Christian church, dating to the 3rd century.",
                   "category": "historical",
                   "coords": [
                         34.999075,
@@ -916,7 +1321,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Alghandour",
-                  "text": "Alghandour is a beach located in Akaba.",
+                  "text": "Alghandour in Aqaba – recreational area with a swimming pool and sun loungers by the Red Sea.",
                   "category": "recreational",
                   "coords": [
                         35.000824,
@@ -925,7 +1330,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "B12",
-                  "text": "B12 is a beach located in Akaba.",
+                  "text": "B12 in Aqaba – beach club with beach volleyball and live music.",
                   "category": "recreational",
                   "coords": [
                         34.983333,
@@ -934,7 +1339,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rosary Sister School",
-                  "text": "Rosary Sister School is a theatre space in Akaba.",
+                  "text": "Rosary Sister School in Aqaba – historic Catholic school from the British Mandate period.",
                   "category": "cultural",
                   "coords": [
                         35.00018,
@@ -943,7 +1348,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Rose City Saraya Waterpark",
-                  "text": "Rose City Saraya Waterpark is an aquatic park located in Akaba.",
+                  "text": "Rose City Saraya Waterpark in Aqaba – family park with slides, wave pool, and a lagoon.",
                   "category": "family",
                   "coords": [
                         34.993029,
@@ -952,7 +1357,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Haya Park",
-                  "text": "Prince Haya Park is a public park situated in Akaba.",
+                  "text": "Park on the Red Sea coast in Aqaba with playgrounds.",
                   "category": "park",
                   "coords": [
                         35.001599,
@@ -961,7 +1366,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Roof viewpoint",
-                  "text": "Roof viewpoint offers panoramic views in Akaba.",
+                  "text": "Roof viewpoint in Aqaba – panoramic view over the port and the Red Sea.",
                   "category": "natural",
                   "coords": [
                         35.003267,
@@ -970,7 +1375,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Aqaba Trail",
-                  "text": "Aqaba Trail is a notable tourist attraction in Akaba.",
+                  "text": "Aqaba Trail – coastal path along the Red Sea with views of Saudi Arabia.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
@@ -979,7 +1384,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ahla Tallet Lookout",
-                  "text": "فندق أحلى طلة is a scenic viewpoint in Akaba.",
+                  "text": "Ahla Tallet Lookout in Aqaba – popular spot for sunsets over the Gulf of Aqaba.",
                   "category": "natural",
                   "coords": [
                         35.002786,
@@ -988,7 +1393,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Dweik Hotel 3 Lookout",
-                  "text": "فندق دويك 3 serves as a scenic viewpoint in Akaba.",
+                  "text": "Dweik Hotel 3 Lookout in Aqaba – free panoramic view of the Red Sea from the hotel terrace.",
                   "category": "natural",
                   "coords": [
                         35.005219,
@@ -997,7 +1402,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Ayla Oasis",
-                  "text": "Ayla Oasis is a well-known tourist attraction in Akaba.",
+                  "text": "Ayla Oasis in Aqaba – luxury residential area with artificial canals, a golf course, and a beach club.",
                   "category": "landmark",
                   "coords": [
                         34.988716,
@@ -1072,7 +1477,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Abu Sayyah Museum",
-                  "text": "أبو صياح ist ein lokales Museum in der Stadt Russeifa.",
+                  "text": "Abu-Sayyah-Museum in Russeifa – Privatsammlung mit römischen und byzantinischen Artefakten.",
                   "category": "museum",
                   "coords": [
                         36.052531,
@@ -1083,7 +1488,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Abu Sayyah Museum",
-                  "text": "Az أبو صياح egy helyi múzeum Russeifa városában.",
+                  "text": "Abu Sayyah Múzeum Russeifa-ban – magángyűjtemény római és bizánci műtárgyakkal.",
                   "category": "museum",
                   "coords": [
                         36.052531,
@@ -1094,7 +1499,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Abu Sayyah Museum",
-                  "text": "أبو صياح este un muzeu local situat în orașul Russeifa.",
+                  "text": "Muzeul Abu Sayyah din Russeifa – colecție privată de artefacte romane și bizantine.",
                   "category": "museum",
                   "coords": [
                         36.052531,
@@ -1105,7 +1510,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Abu Sayyah Museum",
-                  "text": "أبو صياح is a local museum exhibiting collections in Russeifa.",
+                  "text": "Abu Sayyah Museum in Russeifa – private collection of Roman and Byzantine artefacts.",
                   "category": "museum",
                   "coords": [
                         36.052531,
@@ -1243,7 +1648,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "Ibrahim Aldiabat Abu Ali ist eine lokale Burg in Ar-Ramtha.",
+                  "text": "Ibrahim Aldiabat Abu Ali in Ramtha – Festungsruine aus der Mamlukenzeit auf einem Hügel.",
                   "category": "castle",
                   "coords": [
                         36.001343,
@@ -1254,7 +1659,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "Az Ibrahim Aldiabat Abu Ali egy vár Ar-Ramtha városában.",
+                  "text": "Ibrahim Aldiabat Abu Ali Ramtha-ban – mamluk kori erődromok egy dombon.",
                   "category": "castle",
                   "coords": [
                         36.001343,
@@ -1265,7 +1670,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "Ibrahim Aldiabat Abu Ali este un castel local din Ar-Ramtha.",
+                  "text": "Ibrahim Aldiabat Abu Ali în Ramtha – ruinele unei fortărețe din perioada mamelucă pe o colină.",
                   "category": "castle",
                   "coords": [
                         36.001343,
@@ -1276,7 +1681,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "Ibrahim Aldiabat Abu Ali is a local castle in Ar-Ramtha.",
+                  "text": "Ibrahim Aldiabat Abu Ali in Ramtha – ruins of a Mamluk-period fortress on a hill.",
                   "category": "castle",
                   "coords": [
                         36.001343,
@@ -1477,7 +1882,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Burg Kerak",
-                  "text": "Karak Castle ist eine große Kreuzritterburg in Karak.",
+                  "text": "Karak-Burg – mächtige Kreuzritterburg auf einem Hügel über der Stadt Karak, mit unterirdischen Gängen.",
                   "category": "castle",
                   "coords": [
                         35.701669,
@@ -1495,7 +1900,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbat al Kinnar",
-                  "text": "Khirbat al Kinnar zeigt antike Ruinen in Karak.",
+                  "text": "Khirbat al Kinnar in Karak – archäologische Stätte mit Resten einer nabatäischen Siedlung.",
                   "category": "historical",
                   "coords": [
                         35.727222,
@@ -1504,7 +1909,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Zahrat al Mataris",
-                  "text": "Zahrat al Mataris besteht aus historischen Ruinen in Karak.",
+                  "text": "Eine historische Ruine auf einem Hügel mit Blick auf die Region Karak.",
                   "category": "historical",
                   "coords": [
                         35.702778,
@@ -1513,7 +1918,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbat al Qurein",
-                  "text": "Khirbat al Qurein umfasst historische Ruinen in Karak.",
+                  "text": "Ruinen einer alten Siedlung in der Landschaft von Karak.",
                   "category": "historical",
                   "coords": [
                         35.710278,
@@ -1522,7 +1927,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Panorama",
-                  "text": "بانوراما قلعة الكرك bietet einen Panoramablick in Karak.",
+                  "text": "Panoramablick auf die Burg Karak.",
                   "category": "natural",
                   "coords": [
                         35.706071,
@@ -1531,7 +1936,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Viewpoint",
-                  "text": "وجهة نظر قلعة كرك ist ein Aussichtspunkt in Karak.",
+                  "text": "Aussichtspunkt auf die Burg Karak.",
                   "category": "natural",
                   "coords": [
                         35.705388,
@@ -1542,7 +1947,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Karak Castle",
-                  "text": "A Karak Castle egy nagy keresztes vár Karakban.",
+                  "text": "Karak vára – hatalmas keresztes vár egy dombon Karak városa felett, földalatti járatokkal.",
                   "category": "castle",
                   "coords": [
                         35.701669,
@@ -1560,7 +1965,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbet al-Kinar",
-                  "text": "A Khirbat al Kinnar ősi romokat foglal magában Karakban.",
+                  "text": "Khirbat al Kinnar Karak-ban – régészeti lelőhely egy nabateus település maradványaival.",
                   "category": "historical",
                   "coords": [
                         35.727222,
@@ -1569,7 +1974,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Zahrat al-Mataris",
-                  "text": "A Zahrat al Mataris történelmi romokból áll Karakban.",
+                  "text": "Történelmi rom egy dombtetőn, innen kilátás a Karak régióra.",
                   "category": "historical",
                   "coords": [
                         35.702778,
@@ -1578,7 +1983,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbat al-Qurein",
-                  "text": "A Khirbat al Qurein történelmi romokat rejt Karakban.",
+                  "text": "Egy ősi település romjai Karak vidékén.",
                   "category": "historical",
                   "coords": [
                         35.710278,
@@ -1587,7 +1992,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Panorama",
-                  "text": "A بانوراما قلعة الكرك panorámás kilátást nyújt Karakban.",
+                  "text": "Panorámakilátás a Karak várára.",
                   "category": "natural",
                   "coords": [
                         35.706071,
@@ -1596,7 +2001,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Viewpoint",
-                  "text": "A وجهة نظر قلعة كرك egy festői kilátó Karakban.",
+                  "text": "Kilátó a Karak várra.",
                   "category": "natural",
                   "coords": [
                         35.705388,
@@ -1607,7 +2012,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castelul Karak",
-                  "text": "Castelul Karak este un mare castel cruciat situat în Karak.",
+                  "text": "Castelul Karak – puternic castel cruciat pe o colină deasupra orașului Karak, cu pasaje subterane.",
                   "category": "castle",
                   "coords": [
                         35.701669,
@@ -1625,7 +2030,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbet al-Kinar",
-                  "text": "Khirbat al Kinnar prezintă ruine antice în Karak.",
+                  "text": "Khirbat al Kinnar în Karak – sit arheologic cu rămășițe ale unei așezări nabateene.",
                   "category": "historical",
                   "coords": [
                         35.727222,
@@ -1634,7 +2039,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Zahrat al-Mataris",
-                  "text": "Zahrat al Mataris constă în ruine istorice situate în Karak.",
+                  "text": "O ruină istorică pe o colină cu vedere spre regiunea Karak.",
                   "category": "historical",
                   "coords": [
                         35.702778,
@@ -1643,7 +2048,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbat al-Qurein",
-                  "text": "Khirbat al Qurein prezintă ruine istorice situate în Karak.",
+                  "text": "Ruinele unei așezări antice în zona rurală Karak.",
                   "category": "historical",
                   "coords": [
                         35.710278,
@@ -1652,7 +2057,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Panorama",
-                  "text": "بانوراما قلعة الكرك oferă o vedere panoramică în Karak.",
+                  "text": "Punct de belvedere panoramic spre Castelul Karak.",
                   "category": "natural",
                   "coords": [
                         35.706071,
@@ -1661,7 +2066,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Viewpoint",
-                  "text": "وجهة نظر قلعة كرك este un punct de belvedere situat în Karak.",
+                  "text": "Punct de observare a Castelului Karak.",
                   "category": "natural",
                   "coords": [
                         35.705388,
@@ -1672,7 +2077,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Karak Castle",
-                  "text": "Karak Castle is a large Crusader castle located in Karak.",
+                  "text": "Karak Castle – mighty Crusader castle on a hill above Karak, with underground passages.",
                   "category": "castle",
                   "coords": [
                         35.701669,
@@ -1690,7 +2095,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbat al Kinnar",
-                  "text": "Khirbat al Kinnar features ancient ruins in Karak.",
+                  "text": "Khirbat al Kinnar in Karak – archaeological site with remains of a Nabataean settlement.",
                   "category": "historical",
                   "coords": [
                         35.727222,
@@ -1699,7 +2104,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Zahrat al Mataris",
-                  "text": "Zahrat al Mataris consists of historical ruins situated in Karak.",
+                  "text": "A historical ruin atop a hill overlooking the Karak region.",
                   "category": "historical",
                   "coords": [
                         35.702778,
@@ -1708,7 +2113,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Khirbat al Qurein",
-                  "text": "Khirbat al Qurein features historical ruins located in Karak.",
+                  "text": "Ruins of an ancient settlement in the Karak countryside.",
                   "category": "historical",
                   "coords": [
                         35.710278,
@@ -1717,7 +2122,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Panorama",
-                  "text": "بانوراما قلعة الكرك offers a panoramic view in Karak.",
+                  "text": "Panoramic viewpoint overlooking Karak Castle.",
                   "category": "natural",
                   "coords": [
                         35.706071,
@@ -1726,7 +2131,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Karak Castle Viewpoint",
-                  "text": "وجهة نظر قلعة كرك is a scenic viewpoint situated in Karak.",
+                  "text": "Lookout point for views of Karak Castle.",
                   "category": "natural",
                   "coords": [
                         35.705388,
@@ -1945,7 +2350,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Old English Hospital Museum",
-                  "text": "Das Old English Hospital Museum ist ein spezialisiertes historisches Museum in As-Salt.",
+                  "text": "Ehemaliges englisches Krankenhaus, heute Museum.",
                   "category": "museum",
                   "coords": [
                         35.725718,
@@ -1963,7 +2368,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Buqat",
-                  "text": "Al Buqat ist eine Stätte mit antiken Ruinen in As-Salt.",
+                  "text": "Historische Stätte in der Altstadt von Salt.",
                   "category": "historical",
                   "coords": [
                         35.731751,
@@ -1972,7 +2377,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Salt Türk Şehitliği",
-                  "text": "Salt Türk Şehitliği ist ein Denkmal für türkische Soldaten in As-Salt.",
+                  "text": "Türkischer Soldatenfriedhof in Salt.",
                   "category": "historical",
                   "coords": [
                         35.7246,
@@ -2001,7 +2406,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Old English Hospital Museum",
-                  "text": "Az Old English Hospital Museum egy speciális történelmi múzeum As-Salt városában.",
+                  "text": "Egykori angol kórház, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         35.725718,
@@ -2019,7 +2424,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Buqat",
-                  "text": "Az Al Buqat egy ókori romterület As-Salt városában.",
+                  "text": "Történelmi helyszín Salt óvárosában.",
                   "category": "historical",
                   "coords": [
                         35.731751,
@@ -2028,7 +2433,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Salt Türk Şehitliği",
-                  "text": "A Salt Türk Şehitliği egy török katonáknak szentelt emlékmű As-Salt városában.",
+                  "text": "Török katonai temető Saltban.",
                   "category": "historical",
                   "coords": [
                         35.7246,
@@ -2057,7 +2462,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Old English Hospital Museum",
-                  "text": "Old English Hospital Museum este un muzeu istoric specializat din As-Salt.",
+                  "text": "Fost spital englezesc, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         35.725718,
@@ -2075,7 +2480,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Buqat",
-                  "text": "Al Buqat este un sit cu ruine antice situat în As-Salt.",
+                  "text": "Sit istoric în centrul vechi al orașului Salt.",
                   "category": "historical",
                   "coords": [
                         35.731751,
@@ -2084,7 +2489,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Salt Türk Şehitliği",
-                  "text": "Salt Türk Şehitliği este un monument dedicat soldaților turci în As-Salt.",
+                  "text": "Cimitirul militar turc din Salt.",
                   "category": "historical",
                   "coords": [
                         35.7246,
@@ -2113,7 +2518,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Old English Hospital Museum",
-                  "text": "Old English Hospital Museum is a specialized historical museum in As-Salt.",
+                  "text": "Former English hospital turned museum.",
                   "category": "museum",
                   "coords": [
                         35.725718,
@@ -2131,7 +2536,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Buqat",
-                  "text": "Al Buqat is a site of ancient ruins situated in As-Salt.",
+                  "text": "Historic site in the old town of Salt.",
                   "category": "historical",
                   "coords": [
                         35.731751,
@@ -2140,7 +2545,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Salt Türk Şehitliği",
-                  "text": "Salt Türk Şehitliği is a monument dedicated to Turkish soldiers in As-Salt.",
+                  "text": "Turkish military cemetery in Salt.",
                   "category": "historical",
                   "coords": [
                         35.7246,
@@ -2224,7 +2629,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Industrial City Mosque Lookout",
-                  "text": "مسجد المدينة الصناعية سحاب bietet einen landschaftlichen Aussichtspunkt in Sahab.",
+                  "text": "Aussichtspunkt an der Moschee der Industriestadt Sahab.",
                   "category": "natural",
                   "coords": [
                         36.005781,
@@ -2233,7 +2638,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Lookout",
-                  "text": "سحاب بالاردن ist ein Aussichtspunkt in der Stadt Sahab.",
+                  "text": "Aussichtspunkt in Sahab.",
                   "category": "natural",
                   "coords": [
                         36.003107,
@@ -2253,7 +2658,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Industrial City Mosque Lookout",
-                  "text": "A مسجد المدينة الصناعية سحاب egy festői kilátóhely Sahab városában.",
+                  "text": "Kilátó Sahab ipari város mecseténél.",
                   "category": "natural",
                   "coords": [
                         36.005781,
@@ -2262,7 +2667,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Lookout",
-                  "text": "A سحاب بالاردن egy kilátópont Sahab városában.",
+                  "text": "Kilátó Sahabban.",
                   "category": "natural",
                   "coords": [
                         36.003107,
@@ -2282,7 +2687,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Industrial City Mosque Lookout",
-                  "text": "مسجد المدينة الصناعية سحاب este un punct de belvedere panoramic în Sahab.",
+                  "text": "Punct de belvedere lângă moscheea orașului industrial Sahab.",
                   "category": "natural",
                   "coords": [
                         36.005781,
@@ -2291,7 +2696,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Lookout",
-                  "text": "سحاب بالاردن este un punct de belvedere situat în orașul Sahab.",
+                  "text": "Punct de belvedere în Sahab.",
                   "category": "natural",
                   "coords": [
                         36.003107,
@@ -2311,7 +2716,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Industrial City Mosque Lookout",
-                  "text": "مسجد المدينة الصناعية سحاب serves as a scenic viewpoint in the city of Sahab.",
+                  "text": "Lookout near the mosque in Sahab's industrial city.",
                   "category": "natural",
                   "coords": [
                         36.005781,
@@ -2320,7 +2725,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Sahab Lookout",
-                  "text": "سحاب بالاردن is a viewpoint offering panoramic perspectives in Sahab.",
+                  "text": "Lookout point in Sahab.",
                   "category": "natural",
                   "coords": [
                         36.003107,
@@ -2391,7 +2796,160 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 170 000 habitants, 12 km au sud-est d'Amman", "Fouilles archéologiques depuis 1972", "Occupation de l'âge du Bronze récent vers 1500 av. J.-C.", "King Abdullah II Industrial City depuis 1984, 250 hectares", "Plus de 400 usines avec environ 16 000 ouvriers", "Mandat britannique de 1921 à 1946", "Plus grand cimetière islamique de Jordanie depuis les années 1980", "Plus grande banlieue industrielle d'Amman"],
     }, image: "/poi-images/sahab-cities-v2.webp"},
   {
-    id: "ain-basha-cities-v2",
+    id: "ain-basha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rujm Shajarat al Huneiti",
+                  "text": "Antike Steinruinen auf einer Anhöhe, die aus den Überresten von Grundmauern und altem Mauerwerk bestehen.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.05
+                  ]
+            },
+            {
+                  "name": "Khirbat Abu Tinah",
+                  "text": "Verwitterte Überreste einer historischen Siedlung, deren Steinmauern sich in die hügelige Landschaft einfügen.",
+                  "category": "historical",
+                  "coords": [
+                        35.799444,
+                        32.048558
+                  ]
+            },
+            {
+                  "name": "Swelih Mosque",
+                  "text": "Eine Moschee nahe einem wichtigen Verkehrsknotenpunkt, erkennbar an ihrer klassischen weißen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.840162,
+                        32.025269
+                  ]
+            },
+            {
+                  "name": "Sabraih Al Khateeb Masjed",
+                  "text": "Eine ruhige Viertelmoschee in Ain Basha, die sich durch ein einzelnes, verziertes Minarett auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        35.829562,
+                        32.028113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rujm Shajarat al Huneiti",
+                  "text": "Antik kőromok egy magaslaton, amelyeket alapfalak és régi falazatok maradványai alkotnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.05
+                  ]
+            },
+            {
+                  "name": "Khirbat Abu Tinah",
+                  "text": "Egy történelmi település kopott maradványai, melynek kőfalai belesimulnak a dombos tájba.",
+                  "category": "historical",
+                  "coords": [
+                        35.799444,
+                        32.048558
+                  ]
+            },
+            {
+                  "name": "Swelih Mosque",
+                  "text": "Egy fontos közlekedési csomópont közelében álló mecset, amely klasszikus fehér kupolájáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.840162,
+                        32.025269
+                  ]
+            },
+            {
+                  "name": "Sabraih Al Khateeb Masjed",
+                  "text": "Csendes környékbeli mecset Ain Bashában, amelyet egyetlen díszített minaret jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        35.829562,
+                        32.028113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rujm Shajarat al Huneiti",
+                  "text": "Ruine antice de piatră pe o colină, constând în resturi de fundații și zidărie veche.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.05
+                  ]
+            },
+            {
+                  "name": "Khirbat Abu Tinah",
+                  "text": "Rămășițe erodate ale unei așezări istorice, ale cărei ziduri de piatră se integrează în peisajul deluros.",
+                  "category": "historical",
+                  "coords": [
+                        35.799444,
+                        32.048558
+                  ]
+            },
+            {
+                  "name": "Swelih Mosque",
+                  "text": "O moschee situată lângă un nod rutier important, recunoscută după cupola sa albă clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        35.840162,
+                        32.025269
+                  ]
+            },
+            {
+                  "name": "Sabraih Al Khateeb Masjed",
+                  "text": "O moschee liniștită de cartier în Ain Basha, caracterizată printr-un singur minaret decorat.",
+                  "category": "religious",
+                  "coords": [
+                        35.829562,
+                        32.028113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rujm Shajarat al Huneiti",
+                  "text": "Ancient stone ruins on a rise consisting of the remnants of foundation walls and old masonry.",
+                  "category": "historical",
+                  "coords": [
+                        35.816667,
+                        32.05
+                  ]
+            },
+            {
+                  "name": "Khirbat Abu Tinah",
+                  "text": "Weathered remains of a historical settlement with stone walls blending into the hilly landscape.",
+                  "category": "historical",
+                  "coords": [
+                        35.799444,
+                        32.048558
+                  ]
+            },
+            {
+                  "name": "Swelih Mosque",
+                  "text": "A mosque located near a major transit junction, recognizable by its classic white dome.",
+                  "category": "landmark",
+                  "coords": [
+                        35.840162,
+                        32.025269
+                  ]
+            },
+            {
+                  "name": "Sabraih Al Khateeb Masjed",
+                  "text": "A quiet neighborhood mosque in Ain Basha featuring a single, ornamented minaret.",
+                  "category": "religious",
+                  "coords": [
+                        35.829562,
+                        32.028113
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-BA",
     coords: [35.8236, 32.0461],
@@ -2584,7 +3142,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Khirbat Rakisa",
-                  "text": "Khirbat Rakisa sind antike Ruinen bei Al-Husn.",
+                  "text": "Ruinenstätte in der Nähe von Husn.",
                   "category": "historical",
                   "coords": [
                         35.866667,
@@ -2595,7 +3153,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Khirbat Rakisa",
-                  "text": "Khirbat Rakisa ősi romok Al-Husn közelében.",
+                  "text": "Romok Husn közelében.",
                   "category": "historical",
                   "coords": [
                         35.866667,
@@ -2606,7 +3164,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Khirbat Rakisa",
-                  "text": "Khirbat Rakisa sunt ruine antice lângă Al-Husn.",
+                  "text": "Ruine lângă Husn.",
                   "category": "historical",
                   "coords": [
                         35.866667,
@@ -2617,7 +3175,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Khirbat Rakisa",
-                  "text": "Khirbat Rakisa are ancient ruins near Al-Husn.",
+                  "text": "Ruins near Husn.",
                   "category": "historical",
                   "coords": [
                         35.866667,
@@ -2688,7 +3246,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants, 8 kilomètres au sud d'Irbid", "Le nom signifie la forteresse en arabe", "Occupation depuis l'âge du bronze ancien vers 3000 av. J.-C.", "Nom antique Capitolias dans la région de la Décapole", "Église byzantine Saint-Georges du Ve au VIe siècle", "Environ un tiers de chrétiens grecs-orthodoxes", "Mandat britannique de 1921 à 1946", "Husn College de l'université Al-Balqaʿ depuis 1981"],
     }, image: "/poi-images/al-husn-cities-v2.webp"},
   {
-    id: "kufranja-cities-v2",
+    id: "kufranja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Mushayrifah",
+                  "text": "Historische Überreste einer antiken Siedlung in der bergigen Region von Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.699165,
+                        32.31652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Mushayrifah",
+                  "text": "Egy ősi település történelmi maradványai Ajloun hegyvidéki régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.699165,
+                        32.31652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Mushayrifah",
+                  "text": "Rămășițe istorice ale unei așezări antice în regiunea muntoasă din Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.699165,
+                        32.31652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Mushayrifah",
+                  "text": "Historical remains of an ancient settlement located in the mountainous region of Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.699165,
+                        32.31652
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AJ",
     coords: [35.7167, 32.3000],
@@ -2756,7 +3359,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Khirbat al Muqbilah",
-                  "text": "Khirbat al Muqbilah ist eine Ruinenstätte in der Stadt Fuheis.",
+                  "text": "Ruinenstätte in Fuheis.",
                   "category": "historical",
                   "coords": [
                         35.8,
@@ -2767,7 +3370,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Khirbat al-Muqbilah",
-                  "text": "Khirbat al Muqbilah egy ősi romterület Fuheis városában.",
+                  "text": "Romok Fuheisben.",
                   "category": "historical",
                   "coords": [
                         35.8,
@@ -2778,7 +3381,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Khirbat al Muqbilah",
-                  "text": "Khirbat al Muqbilah este un sit cu ruine situat în Fuheis.",
+                  "text": "Ruine în Fuheis.",
                   "category": "historical",
                   "coords": [
                         35.8,
@@ -2789,7 +3392,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Khirbat al Muqbilah",
-                  "text": "Khirbat al Muqbilah is a site of ancient ruins located in Fuheis.",
+                  "text": "Ruins in Fuheis.",
                   "category": "historical",
                   "coords": [
                         35.8,
@@ -2860,7 +3463,88 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 22 000 habitants à 800 mètres d'altitude", "18 kilomètres au nord-ouest d'Amman", "Environ 90 % de population chrétienne", "Église Saint-Georges de 1860, rénovée en 1986", "Migration chrétienne depuis Karak au XVIIIe siècle", "Mandat britannique de 1921 à 1946", "Cimenterie Lafarge de 1951 à 2018", "Festival de Fuheis depuis 1992"],
     }, image: "/poi-images/fuheis-cities-v2.webp"},
   {
-    id: "ash-shunah-ash-shamaliyah-cities-v2",
+    id: "ash-shunah-ash-shamaliyah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Sasiyah",
+                  "text": "Ruinen einer antiken Siedlung im Jordantal mit sichtbaren Grundmauern aus Stein.",
+                  "category": "historical",
+                  "coords": [
+                        35.597625,
+                        32.602084
+                  ]
+            },
+            {
+                  "name": "Khirbat al Sasiya",
+                  "text": "Archäologische Fundstätte mit antiken Mauerresten, die Einblicke in die regionale Siedlungsgeschichte bieten.",
+                  "category": "historical",
+                  "coords": [
+                        35.60188,
+                        32.59925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Sasiyah",
+                  "text": "Egy antik település romjai a Jordán-völgyben látható kő alapfalakkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.597625,
+                        32.602084
+                  ]
+            },
+            {
+                  "name": "Khirbat al Sasiya",
+                  "text": "Régészeti lelőhely antik falmaradványokkal, amelyek betekintést nyújtanak a régió településtörténetébe.",
+                  "category": "historical",
+                  "coords": [
+                        35.60188,
+                        32.59925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Sasiyah",
+                  "text": "Ruinele unei așezări antice în Valea Iordanului, cu fundații de piatră vizibile.",
+                  "category": "historical",
+                  "coords": [
+                        35.597625,
+                        32.602084
+                  ]
+            },
+            {
+                  "name": "Khirbat al Sasiya",
+                  "text": "Sit arheologic cu resturi de ziduri antice ce oferă o privire asupra istoriei așezărilor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        35.60188,
+                        32.59925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Sasiyah",
+                  "text": "Ruins of an ancient settlement in the Jordan Valley with visible stone foundations.",
+                  "category": "historical",
+                  "coords": [
+                        35.597625,
+                        32.602084
+                  ]
+            },
+            {
+                  "name": "Khirbat al Sasiya",
+                  "text": "Archaeological site featuring ancient wall remains that offer insight into the region's history.",
+                  "category": "historical",
+                  "coords": [
+                        35.60188,
+                        32.59925
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-IR",
     coords: [35.6094, 32.6106],
@@ -2923,7 +3607,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 30 000 habitants, 250 mètres sous le niveau de la mer", "90 kilomètres au nord-ouest d'Amman", "Proche de la frontière israélienne et de la mer de Galilée", "Lien avec l'antique Pella de la Décapole", "Tombe du compagnon du Prophète Muʿadh ibn Jabal", "Canal King Abdullah depuis 1961", "Principale zone de culture pour les agrumes et les bananes", "Mandat britannique de 1921 à 1946"],
     }, image: "/poi-images/ash-shunah-ash-shamaliyah-cities-v2.webp"},
   {
-    id: "al-mazar-al-janubi-cities-v2",
+    id: "al-mazar-al-janubi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Tur",
+                  "text": "In großer Höhe gelegene Steinruinen nahe den Heiligtümern des südlichen Wüstenhochlands.",
+                  "category": "historical",
+                  "coords": [
+                        35.704444,
+                        31.073611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Tur",
+                  "text": "Nagy magasságban fekvő kőromok a déli sivatagi felföld szentélyeinek közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.704444,
+                        31.073611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Tur",
+                  "text": "Ruine de piatră la mare altitudine, situate lângă sanctuarele din zonele înalte ale deșertului de sud.",
+                  "category": "historical",
+                  "coords": [
+                        35.704444,
+                        31.073611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Tur",
+                  "text": "High-altitude stone ruins situated near the shrines of the southern desert highlands.",
+                  "category": "historical",
+                  "coords": [
+                        35.704444,
+                        31.073611
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-KA",
     coords: [35.6961, 31.0667],
@@ -3053,7 +3782,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Falcon Roundabout",
-                  "text": "Das Falken-Denkmal in Al-Muwaqqar.",
+                  "text": "Kreisverkehr mit einem Falkenstandbild in Muwaqqar.",
                   "category": "historical",
                   "coords": [
                         36.106319,
@@ -3064,7 +3793,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Falcon Roundabout",
-                  "text": "A Sólyom-emlékmű Al-Muwaqqarban.",
+                  "text": "Körforgalom sólyomszoborral Muwaqqarban.",
                   "category": "historical",
                   "coords": [
                         36.106319,
@@ -3075,7 +3804,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Falcon Roundabout",
-                  "text": "Monumentul Șoimului din Al-Muwaqqar.",
+                  "text": "Sens giratoriu cu statuia unui șoim în Muwaqqar.",
                   "category": "historical",
                   "coords": [
                         36.106319,
@@ -3086,7 +3815,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Falcon Roundabout",
-                  "text": "The Falcon Monument in Al-Muwaqqar.",
+                  "text": "Roundabout featuring a falcon statue in Muwaqqar.",
                   "category": "historical",
                   "coords": [
                         36.106319,
@@ -3288,7 +4017,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Busayra Ruins",
-                  "text": "Die Ruinen von Busayra sind eine archäologische Stätte in Busaira.",
+                  "text": "Ruinen der antiken Stadt Busayra.",
                   "category": "historical",
                   "coords": [
                         35.603013,
@@ -3297,7 +4026,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Bozra",
-                  "text": "Bozra umfasst antike Ruinen in Busaira.",
+                  "text": "Historische Stätte in Busaira.",
                   "category": "historical",
                   "coords": [
                         35.604196,
@@ -3308,7 +4037,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Busayra Ruins",
-                  "text": "Busayra romjai egy régészeti lelőhely Busairában.",
+                  "text": "Busayra ősi városának romjai.",
                   "category": "historical",
                   "coords": [
                         35.603013,
@@ -3317,7 +4046,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Bozra",
-                  "text": "Bozra ősi romokat foglal magában Busairában.",
+                  "text": "Történelmi hely Busairában.",
                   "category": "historical",
                   "coords": [
                         35.604196,
@@ -3328,7 +4057,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Busayra Ruins",
-                  "text": "Ruinele de la Busayra sunt un sit arheologic în Busaira.",
+                  "text": "Ruinele orașului antic Busayra.",
                   "category": "historical",
                   "coords": [
                         35.603013,
@@ -3337,7 +4066,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Bozra",
-                  "text": "Bozra cuprinde ruine antice în Busaira.",
+                  "text": "Sit istoric în Busaira.",
                   "category": "historical",
                   "coords": [
                         35.604196,
@@ -3348,7 +4077,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Busayra Ruins",
-                  "text": "The Busayra ruins are an archaeological site in Busaira.",
+                  "text": "Ruins of the ancient town of Busayra.",
                   "category": "historical",
                   "coords": [
                         35.603013,
@@ -3357,7 +4086,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Bozra",
-                  "text": "Bozra comprises ancient ruins in Busaira.",
+                  "text": "Historic site in Busaira.",
                   "category": "historical",
                   "coords": [
                         35.604196,
@@ -3429,7 +4158,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
   },
   {
-    id: "al-mashareq-cities-v2",
+    id: "al-mashareq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tell Abu al-Kharaz",
+                  "text": "Die archäologische Stätte Tell Abu al-Kharaz weist Siedlungsschichten aus der Bronze- und Eisenzeit auf, die mit der biblischen Stadt Jabesch in Gilead in Verbindung gebracht werden.",
+                  "category": "historical",
+                  "coords": [
+                        35.594341,
+                        32.399129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Abu al-Kharaz",
+                  "text": "A Tell Abu al-Kharaz régészeti lelőhely bronz- és vaskori településrétegeket rejt, amelyeket a bibliai Jábes-Gileáddal azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        35.594341,
+                        32.399129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Abu al-Kharaz",
+                  "text": "Situl arheologic Tell Abu al-Kharaz prezintă straturi de așezări din epocile bronzului și fierului, fiind adesea asociat cu orașul biblic Iabes din Galaad.",
+                  "category": "historical",
+                  "coords": [
+                        35.594341,
+                        32.399129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Abu al-Kharaz",
+                  "text": "The archaeological site of Tell Abu al-Kharaz features Bronze and Iron Age settlement layers often associated with the biblical city of Jabesh-Gilead.",
+                  "category": "historical",
+                  "coords": [
+                        35.594341,
+                        32.399129
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-IR",
     coords: [35.6083, 32.3789],
@@ -3515,7 +4289,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Ain-es-Sil",
-                  "text": "Qasr Ain-es-Sil ist eine historische Burganlage in Azraq.",
+                  "text": "Burg Qasr an der Quelle Ain-es-Sil bei Azraq.",
                   "category": "castle",
                   "coords": [
                         36.845886,
@@ -3533,7 +4307,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Azraq oasis",
-                  "text": "Die Azraq-Oase ist eine lokale Touristenattraktion in Azraq.",
+                  "text": "Die Oase Azraq, eine bekannte Wasserstelle in der Wüste.",
                   "category": "landmark",
                   "coords": [
                         36.830016,
@@ -3562,7 +4336,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Ain-es-Sil",
-                  "text": "A Qasr Ain-es-Sil egy történelmi kastélyépület Azraq városában.",
+                  "text": "Qasr vár az Ain-es-Sil forrásnál Azraq közelében.",
                   "category": "castle",
                   "coords": [
                         36.845886,
@@ -3580,7 +4354,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Azraq oasis",
-                  "text": "Az Azraq-oázis egy helyi turisztikai látványosság Azraq városában.",
+                  "text": "Az Azraq-oázis, egy ismert vízforrás a sivatagban.",
                   "category": "landmark",
                   "coords": [
                         36.830016,
@@ -3609,7 +4383,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Ain-es-Sil",
-                  "text": "Qasr Ain-es-Sil este un castel istoric situat în orașul Azraq.",
+                  "text": "Castelul Qasr la izvorul Ain-es-Sil lângă Azraq.",
                   "category": "castle",
                   "coords": [
                         36.845886,
@@ -3627,7 +4401,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Azraq oasis",
-                  "text": "Oaza Azraq este o atracție turistică locală situată în Azraq.",
+                  "text": "Oaza Azraq, un cunoscut punct de apă în deșert.",
                   "category": "landmark",
                   "coords": [
                         36.830016,
@@ -3656,7 +4430,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Ain-es-Sil",
-                  "text": "Qasr Ain-es-Sil is a historic castle structure located in Azraq.",
+                  "text": "Qasr castle at the Ain-es-Sil spring near Azraq.",
                   "category": "castle",
                   "coords": [
                         36.845886,
@@ -3674,7 +4448,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             },
             {
                   "name": "Azraq oasis",
-                  "text": "The Azraq oasis is a local tourist attraction situated in Azraq.",
+                  "text": "The Azraq oasis, a famous water source in the desert.",
                   "category": "landmark",
                   "coords": [
                         36.830016,

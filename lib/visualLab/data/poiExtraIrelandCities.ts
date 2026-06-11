@@ -594,7 +594,844 @@ export const poiExtraIrelandCities: POI[] = [
       fr: ["Drogheda a été officiellement fondée en 1194.", "La St. Laurence's Gate date du XIIIe siècle.", "Oliver Cromwell a assiégé et conquis la ville en 1649.", "La ville fut autrefois le siège du Parlement irlandais.", "L'église St. Peter conserve le chef d'Oliver Plunkett.", "Le champ de bataille de la Boyne se trouve aux portes de la ville."],
     }, image: "/poi-images/city-drogheda-extra.webp"},
   {
-    id: "city-bray-extra", "sights": {"de": [{"name": "Bray Beach", "text": "In der charmanten Küstenstadt Bray gelegen, ist dieser Strandabschnitt ein geschätztes Wahrzeichen der irischen Küste. Der Strand verströmt eine frische, belebende Atmosphäre, die sowohl Einheimische als auch Besucher zu ausgedehnten Spaziergängen an der klaren Meeresluft anzieht. Für die Erkundung der malerischen Promenade in den kühleren Monaten ist warme Kleidung sehr zu empfehlen.", "category": "recreational", "coords": [-6.095857, 53.202301]}, {"name": "Naylor's Cove", "text": "Ein kleiner Küstenabschnitt bei Bray.", "category": "recreational", "coords": [-6.087687, 53.195863]}, {"name": "Ballyman Glen", "text": "Ballyman Glen ist ein Naturschutzgebiet in Bray.", "category": "natural", "coords": [-6.154788, 53.204721]}, {"name": "Mermaid County Wicklow Arts Centre", "text": "Das Mermaid County Wicklow Arts Centre ist ein Theater in Bray.", "category": "cultural", "coords": [-6.109118, 53.201571]}, {"name": "Oldcourt Castle", "text": "Oldcourt Castle ist ein Schloss in Bray.", "category": "castle", "coords": [-6.115112, 53.193371]}, {"name": "Bray Head", "text": "Bray Head ist ein markanter Gipfel und ein bekanntes Wahrzeichen in Bray.", "category": "natural", "coords": [-6.083745, 53.190472]}, {"name": "Kilruddery House and Gardens", "text": "Kilruddery House and Gardens ist eine Attraktion in Bray.", "category": "landmark", "coords": [-6.102299, 53.184657]}, {"name": "Lord Meath's Lodge", "text": "Lord Meath's Lodge besteht aus Ruinen in Bray.", "category": "historical", "coords": [-6.079953, 53.191268]}, {"name": "Proclamation of the Irish Republic", "text": "Die Proclamation of the Irish Republic ist ein Denkmal in Bray.", "category": "historical", "coords": [-6.114686, 53.20499]}, {"name": "Old Connaught Church", "text": "Die Old Connaught Church umfasst Ruinen in Bray.", "category": "historical", "coords": [-6.131187, 53.209048]}, {"name": "Beauchamp", "text": "Beauchamp ist ein Herrenhaus in Bray.", "category": "historical", "coords": [-6.121962, 53.219758]}, {"name": "Christ Church", "text": "Christ Church ist eine lokale Kultstätte in Bray.", "category": "religious", "coords": [-6.112428, 53.197038]}, {"name": "Queen of Peace", "text": "Queen of Peace ist eine Kultstätte in Bray.", "category": "religious", "coords": [-6.10461, 53.193053]}, {"name": "St Fergal's", "text": "St Fergal's ist eine religiöse Kultstätte in Bray.", "category": "religious", "coords": [-6.125608, 53.188844]}, {"name": "Saint Brigid's Church", "text": "Die Saint Brigid's Church ist eine lokale Kultstätte in Bray.", "category": "religious", "coords": [-6.1377, 53.188086]}, {"name": "Most Holy Redeemer", "text": "Most Holy Redeemer ist eine Kultstätte in Bray.", "category": "religious", "coords": [-6.110324, 53.20359]}, {"name": "St Peter's", "text": "St Peter's ist eine lokale religiöse Kultstätte in Bray.", "category": "religious", "coords": [-6.116658, 53.209035]}, {"name": "St Paul's", "text": "St Paul's ist eine Kultstätte in Bray.", "category": "religious", "coords": [-6.110096, 53.204884]}, {"name": "Bray Methodist Church", "text": "Die Bray Methodist Church ist eine Kultstätte in Bray.", "category": "religious", "coords": [-6.106562, 53.203418]}, {"name": "St Andrew's", "text": "St Andrew's ist eine lokale Kultstätte in Bray.", "category": "religious", "coords": [-6.106874, 53.204444]}, {"name": "Raheen-a-Cluig", "text": "Raheen-a-Cluig ist eine bemerkenswerte historische Kirche in Bray.", "category": "religious", "coords": [-6.090531, 53.193797]}, {"name": "Kilcroney Church", "text": "Die Kilcroney Church ist ein bemerkenswertes Kirchengebäude in Bray.", "category": "religious", "coords": [-6.138802, 53.186162]}, {"name": "Martello No 2 Bray Beach", "text": "Stolz an der Küste in Bray thronend, bildet dieser historische Martello-Turm einen markanten Blickfang direkt am Meer. Er verleiht dem Strandgebiet eine besondere, geschichtsträchtige Atmosphäre, die Besucher zu historischen Küstenspaziergängen einlädt. Eine Kombination aus Besichtigung und einem Bummel am Ufer verspricht einen faszinierenden kulturellen Strandausflug.", "category": "landmark", "coords": [-6.1017, 53.206828]}], "hu": [{"name": "Bray Beach", "text": "A bájos part menti városban, Bray-ben található ez a tengerparti szakasz, amely az ír tengerpart egyik kedvelt pontja. A strand friss, élénkítő atmoszférát áraszt, amely a helyieket és a látogatókat egyaránt vonzza a frissítő sétákra és az óceáni levegő élvezetére. A hidegebb hónapokban érdemes melegen felöltözni a festői sétány felfedezéséhez.", "category": "recreational", "coords": [-6.095857, 53.202301]}, {"name": "Naylor's Cove", "text": "Kis partszakasz Bray mellett.", "category": "recreational", "coords": [-6.087687, 53.195863]}, {"name": "Ballyman Glen", "text": "A Ballyman Glen egy természetvédelmi terület Bray közelében.", "category": "natural", "coords": [-6.154788, 53.204721]}, {"name": "Mermaid County Wicklow Arts Centre", "text": "A Mermaid County Wicklow Arts Centre egy színház Bray-ben.", "category": "cultural", "coords": [-6.109118, 53.201571]}, {"name": "Oldcourt Castle", "text": "Az Oldcourt Castle egy kastély Bray városában.", "category": "castle", "coords": [-6.115112, 53.193371]}, {"name": "Bray Head", "text": "A Bray Head egy kiemelkedő hegycsúcs és ismert tájékozódási pont Bray-ben.", "category": "natural", "coords": [-6.083745, 53.190472]}, {"name": "Kilruddery House and Gardens", "text": "A Kilruddery House and Gardens egy látványosság Bray-ben.", "category": "landmark", "coords": [-6.102299, 53.184657]}, {"name": "Lord Meath's Lodge", "text": "A Lord Meath's Lodge romokból áll Bray városában.", "category": "historical", "coords": [-6.079953, 53.191268]}, {"name": "Proclamation of the Irish Republic", "text": "A Proclamation of the Irish Republic egy emlékmű Bray-ben.", "category": "historical", "coords": [-6.114686, 53.20499]}, {"name": "Old Connaught Church", "text": "Az Old Connaught Church történelmi romokat foglal magában Bray-ben.", "category": "historical", "coords": [-6.131187, 53.209048]}, {"name": "Beauchamp", "text": "A Beauchamp egy kúria Bray városában.", "category": "historical", "coords": [-6.121962, 53.219758]}, {"name": "Christ Church", "text": "A Christ Church egy helyi istentiszteleti hely Bray-ben.", "category": "religious", "coords": [-6.112428, 53.197038]}, {"name": "Queen of Peace", "text": "A Queen of Peace egy vallási épület Bray-ben.", "category": "religious", "coords": [-6.10461, 53.193053]}, {"name": "St Fergal's", "text": "A St Fergal's egy vallási istentiszteleti hely Bray városában.", "category": "religious", "coords": [-6.125608, 53.188844]}, {"name": "Saint Brigid's Church", "text": "A Saint Brigid's Church egy helyi vallási épület Bray-ben.", "category": "religious", "coords": [-6.1377, 53.188086]}, {"name": "Most Holy Redeemer", "text": "A Most Holy Redeemer egy istentiszteleti hely Bray-ben.", "category": "religious", "coords": [-6.110324, 53.20359]}, {"name": "St Peter's", "text": "A St Peter's egy helyi istentiszteleti hely Bray-ben.", "category": "religious", "coords": [-6.116658, 53.209035]}, {"name": "St Paul's", "text": "A St Paul's egy vallási épület Bray-ben.", "category": "religious", "coords": [-6.110096, 53.204884]}, {"name": "Bray Methodist Church", "text": "A Bray Methodist Church egy istentiszteleti hely Bray városában.", "category": "religious", "coords": [-6.106562, 53.203418]}, {"name": "St Andrew's", "text": "A St Andrew's egy helyi vallási épület Bray-ben.", "category": "religious", "coords": [-6.106874, 53.204444]}, {"name": "Raheen-a-Cluig", "text": "A Raheen-a-Cluig egy jelentős történelmi templom Bray városában.", "category": "religious", "coords": [-6.090531, 53.193797]}, {"name": "Kilcroney Church", "text": "A Kilcroney Church egy jelentős történelmi templomépület Bray-ben.", "category": "religious", "coords": [-6.138802, 53.186162]}, {"name": "Martello No 2 Bray Beach", "text": "A Bray partvonala mentén büszkén magasodó történelmi Martello-torony lenyűgöző fókuszpontot kínál a tenger mellett. Különleges, történelmi hangulatot kölcsönöz a helyi strand területének, történelmi barangolásokra hívva a látogatókat a tengerparton. A látogatás és a parton tett séta összekapcsolása lenyűgöző kulturális és tengerparti kirándulást ígér.", "category": "landmark", "coords": [-6.1017, 53.206828]}], "ro": [{"name": "Bray Beach", "text": "Situată în fermecătorul oraș de coastă Bray, această porțiune de țărm este un punct iubit al litoralului irlandez. Plaja radiază o atmosferă vioaie, revigorantă, care atrage deopotrivă localnicii și vizitatorii pentru plimbări revigorante și aer proaspăt de ocean. Îmbrăcămintea călduroasă este recomandată pentru explorarea promenadei pitorești în timpul lunilor mai răcoroase.", "category": "recreational", "coords": [-6.095857, 53.202301]}, {"name": "Naylor's Cove", "text": "O mică zonă de coastă lângă Bray.", "category": "recreational", "coords": [-6.087687, 53.195863]}, {"name": "Ballyman Glen", "text": "Ballyman Glen este o rezervație naturală lângă Bray.", "category": "natural", "coords": [-6.154788, 53.204721]}, {"name": "Mermaid County Wicklow Arts Centre", "text": "Mermaid County Wicklow Arts Centre este un teatru în Bray.", "category": "cultural", "coords": [-6.109118, 53.201571]}, {"name": "Oldcourt Castle", "text": "Oldcourt Castle este un castel situat în orașul Bray.", "category": "castle", "coords": [-6.115112, 53.193371]}, {"name": "Bray Head", "text": "Bray Head este un vârf proeminent și un punct de reper bine cunoscut în Bray.", "category": "natural", "coords": [-6.083745, 53.190472]}, {"name": "Kilruddery House and Gardens", "text": "Kilruddery House and Gardens este o atracție în Bray.", "category": "landmark", "coords": [-6.102299, 53.184657]}, {"name": "Lord Meath's Lodge", "text": "Lord Meath's Lodge constă din ruine în Bray.", "category": "historical", "coords": [-6.079953, 53.191268]}, {"name": "Proclamation of the Irish Republic", "text": "Proclamația Republicii Irlandeze este un monument în Bray.", "category": "historical", "coords": [-6.114686, 53.20499]}, {"name": "Old Connaught Church", "text": "Biserica Old Connaught prezintă ruine din Bray.", "category": "historical", "coords": [-6.131187, 53.209048]}, {"name": "Beauchamp", "text": "Beauchamp este un conac situat în Bray.", "category": "historical", "coords": [-6.121962, 53.219758]}, {"name": "Christ Church", "text": "Biserica Christ Church este un lăcaș de cult local în Bray.", "category": "religious", "coords": [-6.112428, 53.197038]}, {"name": "Queen of Peace", "text": "Queen of Peace este un lăcaș de cult în Bray.", "category": "religious", "coords": [-6.10461, 53.193053]}, {"name": "St Fergal's", "text": "St Fergal's este un lăcaș de cult religios în orașul Bray.", "category": "religious", "coords": [-6.125608, 53.188844]}, {"name": "Saint Brigid's Church", "text": "Biserica Sfânta Brigid este un lăcaș de cult local din Bray.", "category": "religious", "coords": [-6.1377, 53.188086]}, {"name": "Most Holy Redeemer", "text": "Most Holy Redeemer este un lăcaș de cult situat în Bray.", "category": "religious", "coords": [-6.110324, 53.20359]}, {"name": "St Peter's", "text": "St Peter's este un lăcaș de cult local din Bray.", "category": "religious", "coords": [-6.116658, 53.209035]}, {"name": "St Paul's", "text": "St Paul's este un lăcaș de cult în Bray.", "category": "religious", "coords": [-6.110096, 53.204884]}, {"name": "Bray Methodist Church", "text": "Biserica Metodistă din Bray este un lăcaș de cult în Bray.", "category": "religious", "coords": [-6.106562, 53.203418]}, {"name": "St Andrew's", "text": "St Andrew's este un lăcaș de cult local situat în Bray.", "category": "religious", "coords": [-6.106874, 53.204444]}, {"name": "Raheen-a-Cluig", "text": "Raheen-a-Cluig este o biserică istorică notabilă situată în Bray.", "category": "religious", "coords": [-6.090531, 53.193797]}, {"name": "Kilcroney Church", "text": "Biserica Kilcroney este o structură de biserică notabilă în Bray.", "category": "religious", "coords": [-6.138802, 53.186162]}, {"name": "Martello No 2 Bray Beach", "text": "Stând mândru de-a lungul coastei din Bray, acest turn istoric Martello oferă un punct focal impresionant la malul mării. Oferă o atmosferă de patrimoniu distinctă zonei plajei locale, invitând vizitatorii să se bucure de plimbări de coastă cufundate în istorie. Combinarea unei vizite cu o plimbare de-a lungul țărmului reprezintă o ieșire culturală și maritimă fascinantă.", "category": "landmark", "coords": [-6.1017, 53.206828]}], "en": [{"name": "Bray Beach", "text": "Located in the charming coastal town of Bray, this stretch of shoreline is a beloved fixture of the Irish seaside. The beach radiates a brisk, refreshing atmosphere that draws locals and visitors alike for bracing walks and fresh ocean air. Wrapping up warmly is advised for exploring the scenic promenade during the cooler months.", "category": "recreational", "coords": [-6.095857, 53.202301]}, {"name": "Naylor's Cove", "text": "A small coastal area near Bray.", "category": "recreational", "coords": [-6.087687, 53.195863]}, {"name": "Ballyman Glen", "text": "Ballyman Glen is a nature reserve located near Bray.", "category": "natural", "coords": [-6.154788, 53.204721]}, {"name": "Mermaid County Wicklow Arts Centre", "text": "Mermaid County Wicklow Arts Centre is a theatre in Bray.", "category": "cultural", "coords": [-6.109118, 53.201571]}, {"name": "Oldcourt Castle", "text": "Oldcourt Castle is a castle structure located in the town of Bray.", "category": "castle", "coords": [-6.115112, 53.193371]}, {"name": "Bray Head", "text": "Bray Head is a prominent peak and well-known landmark in Bray.", "category": "natural", "coords": [-6.083745, 53.190472]}, {"name": "Kilruddery House and Gardens", "text": "Kilruddery House and Gardens is an attraction in Bray.", "category": "landmark", "coords": [-6.102299, 53.184657]}, {"name": "Lord Meath's Lodge", "text": "Lord Meath's Lodge consists of ruins located in Bray.", "category": "historical", "coords": [-6.079953, 53.191268]}, {"name": "Proclamation of the Irish Republic", "text": "Proclamation of the Irish Republic is a monument in Bray.", "category": "historical", "coords": [-6.114686, 53.20499]}, {"name": "Old Connaught Church", "text": "Old Connaught Church features ruins of a religious site in Bray.", "category": "historical", "coords": [-6.131187, 53.209048]}, {"name": "Beauchamp", "text": "Beauchamp is a manor house situated in Bray.", "category": "historical", "coords": [-6.121962, 53.219758]}, {"name": "Christ Church", "text": "Christ Church is a local place of worship located in Bray.", "category": "religious", "coords": [-6.112428, 53.197038]}, {"name": "Queen of Peace", "text": "Queen of Peace is a place of worship in Bray.", "category": "religious", "coords": [-6.10461, 53.193053]}, {"name": "St Fergal's", "text": "St Fergal's is a religious place of worship situated in the town of Bray.", "category": "religious", "coords": [-6.125608, 53.188844]}, {"name": "Saint Brigid's Church", "text": "Saint Brigid's Church is a local place of worship in Bray.", "category": "religious", "coords": [-6.1377, 53.188086]}, {"name": "Most Holy Redeemer", "text": "Most Holy Redeemer is a place of worship located in Bray.", "category": "religious", "coords": [-6.110324, 53.20359]}, {"name": "St Peter's", "text": "St Peter's is a local religious facility and place of worship in Bray.", "category": "religious", "coords": [-6.116658, 53.209035]}, {"name": "St Paul's", "text": "St Paul's is a place of worship serving residents in Bray.", "category": "religious", "coords": [-6.110096, 53.204884]}, {"name": "Bray Methodist Church", "text": "Bray Methodist Church is a place of worship located in Bray.", "category": "religious", "coords": [-6.106562, 53.203418]}, {"name": "St Andrew's", "text": "St Andrew's is a local place of worship situated in Bray.", "category": "religious", "coords": [-6.106874, 53.204444]}, {"name": "Raheen-a-Cluig", "text": "Raheen-a-Cluig is a notable historical church located in Bray.", "category": "religious", "coords": [-6.090531, 53.193797]}, {"name": "Kilcroney Church", "text": "Kilcroney Church is a notable historical church structure situated in Bray.", "category": "religious", "coords": [-6.138802, 53.186162]}, {"name": "Martello No 2 Bray Beach", "text": "Standing proud along the coastline in Bray, this historic Martello tower offers a striking focal point by the sea. It lends a distinct heritage atmosphere to the local beach area, inviting visitors to enjoy coastal walks steeped in history. Combining a visit with a stroll along the shore makes for a fascinating cultural and seaside outing.", "category": "landmark", "coords": [-6.1017, 53.206828]}]},
+    id: "city-bray-extra", "sights": {
+      "de": [
+            {
+                  "name": "Bray Beach",
+                  "text": "In der charmanten Küstenstadt Bray gelegen, ist dieser Strandabschnitt ein geschätztes Wahrzeichen der irischen Küste. Der Strand verströmt eine frische, belebende Atmosphäre, die sowohl Einheimische als auch Besucher zu ausgedehnten Spaziergängen an der klaren Meeresluft anzieht. Für die Erkundung der malerischen Promenade in den kühleren Monaten ist warme Kleidung sehr zu empfehlen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "Kleine felsige Bucht an der Küste von Bray, ideal zum Erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Bewaldetes Tal mit einem Bach und uralten Bäumen.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Kulturzentrum in Bray mit Theater- und Ausstellungsräumen.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Mittelalterliche Burgruine aus dem 13. Jahrhundert in Bray.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Felsvorsprung an der Küste von Bray mit einem Steinkreuz und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "Herrenhaus aus dem 17. Jahrhundert mit formalen Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "Ehemaliges Jagdhaus aus dem 18. Jahrhundert in den Hügeln.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Gedenktafel zur Proklamation der Irischen Republik in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Die Old Connaught Church umfasst Ruinen in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Historisches Gebäude oder Gelände in Bray aus dem 18. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Die Christuskirche in Bray, eine Kirche der Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "Die römisch-katholische Kirche 'Königin des Friedens' in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "Die St.-Fergal-Kirche, eine katholische Kirche im Süden von Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "Die St.-Brigida-Kirche in Bray, eine katholische Kirche an der Hauptstraße.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "Die Kirche des Allerheiligsten Erlösers in Bray, eine römisch-katholische Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "Die St.-Peter-Kirche in Bray, eine Kirche der Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "Die St.-Paul-Kirche in Bray, ebenfalls Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "Die methodistische Kirche in Bray an der Quinsborough Road.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "Die St.-Andrews-Kirche in Bray, eine Kirche der Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "Raheen-a-Cluig ist eine bemerkenswerte historische Kirche in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "Die Kilcroney Church ist ein bemerkenswertes Kirchengebäude in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "Stolz an der Küste in Bray thronend, bildet dieser historische Martello-Turm einen markanten Blickfang direkt am Meer. Er verleiht dem Strandgebiet eine besondere, geschichtsträchtige Atmosphäre, die Besucher zu historischen Küstenspaziergängen einlädt. Eine Kombination aus Besichtigung und einem Bummel am Ufer verspricht einen faszinierenden kulturellen Strandausflug.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bray Beach",
+                  "text": "A bájos part menti városban, Bray-ben található ez a tengerparti szakasz, amely az ír tengerpart egyik kedvelt pontja. A strand friss, élénkítő atmoszférát áraszt, amely a helyieket és a látogatókat egyaránt vonzza a frissítő sétákra és az óceáni levegő élvezetére. A hidegebb hónapokban érdemes melegen felöltözni a festői sétány felfedezéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "Kis sziklás öböl Bray partján, felfedezésre alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Erdős völgy patakkal és ősi fákkal.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Kulturális központ Bray-ben, színházzal és kiállítótermekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "13. századi középkori várrom Bray-ben.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Bray partján lévő sziklafok, kőkereszttel és túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "17. századi kúria formális kertekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "18. századi egykori vadászház a dombok között.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Az Ír Köztársaság kikiáltásának emléktáblája Bray-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Az Old Connaught Church történelmi romokat foglal magában Bray-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Történelmi épület vagy terület Bray-ben a 18. századból.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Krisztus-templom Brayben, az Ír Egyház temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "A 'Béke Királynője' római katolikus templom Brayben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "A Szent Fergal-templom, egy katolikus templom Bray déli részén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "A Szent Brigitta-templom Brayben, egy katolikus templom a főutcán.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "A Legszentebb Megváltó temploma Brayben, római katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "A Szent Péter-templom Brayben, az Ír Egyház temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "A Szent Pál-templom Brayben, szintén az Ír Egyházhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "A metodista templom Brayben a Quinsborough úton.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "A Szent András-templom Brayben, az Ír Egyház temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "A Raheen-a-Cluig egy jelentős történelmi templom Bray városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "A Kilcroney Church egy jelentős történelmi templomépület Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "A Bray partvonala mentén büszkén magasodó történelmi Martello-torony lenyűgöző fókuszpontot kínál a tenger mellett. Különleges, történelmi hangulatot kölcsönöz a helyi strand területének, történelmi barangolásokra hívva a látogatókat a tengerparton. A látogatás és a parton tett séta összekapcsolása lenyűgöző kulturális és tengerparti kirándulást ígér.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bray Beach",
+                  "text": "Situată în fermecătorul oraș de coastă Bray, această porțiune de țărm este un punct iubit al litoralului irlandez. Plaja radiază o atmosferă vioaie, revigorantă, care atrage deopotrivă localnicii și vizitatorii pentru plimbări revigorante și aer proaspăt de ocean. Îmbrăcămintea călduroasă este recomandată pentru explorarea promenadei pitorești în timpul lunilor mai răcoroase.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "Golfuleț stâncos pe coasta Bray-ului, potrivit pentru explorare.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Vale împădurită cu un pârâu și copaci seculari.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Centru cultural în Bray, cu spații pentru teatru și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Ruinele unui castel medieval din secolul al XIII-lea în Bray.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Promontoriu pe coasta Bray, cu o cruce de piatră și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "Conac din secolul al XVII-lea cu grădini formale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "Fostă cabană de vânătoare din secolul al XVIII-lea pe dealuri.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Plașă memorială pentru Proclamația Republicii Irlandeze în Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Biserica Old Connaught prezintă ruine din Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Clădire sau teren istoric din secolul al XVIII-lea în Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church din Bray, o biserică a Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "Biserica romano-catolică 'Regina Păcii' din Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "Biserica Sf. Fergal, o biserică catolică în sudul Bray-ului.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "Biserica Sf. Brigid din Bray, o biserică catolică pe strada principală.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "Biserica Preasfântului Mântuitor din Bray, o biserică romano-catolică.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "Biserica Sf. Petru din Bray, o biserică a Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "Biserica Sf. Paul din Bray, de asemenea a Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "Biserica metodistă din Bray, pe strada Quinsborough.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "Biserica Sf. Andrei din Bray, o biserică a Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "Raheen-a-Cluig este o biserică istorică notabilă situată în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "Biserica Kilcroney este o structură de biserică notabilă în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "Stând mândru de-a lungul coastei din Bray, acest turn istoric Martello oferă un punct focal impresionant la malul mării. Oferă o atmosferă de patrimoniu distinctă zonei plajei locale, invitând vizitatorii să se bucure de plimbări de coastă cufundate în istorie. Combinarea unei vizite cu o plimbare de-a lungul țărmului reprezintă o ieșire culturală și maritimă fascinantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bray Beach",
+                  "text": "Located in the charming coastal town of Bray, this stretch of shoreline is a beloved fixture of the Irish seaside. The beach radiates a brisk, refreshing atmosphere that draws locals and visitors alike for bracing walks and fresh ocean air. Wrapping up warmly is advised for exploring the scenic promenade during the cooler months.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "Small rocky cove on the Bray coast, great for exploring.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Wooded glen with a stream and ancient trees.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Arts centre in Bray with theatre and exhibition spaces.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Medieval castle ruins from the 13th century in Bray.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Rocky headland on the Bray coast with a stone cross and walking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "17th-century mansion with formal gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "Former 18th-century hunting lodge in the hills.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Memorial plaque of the Proclamation of the Irish Republic in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Old Connaught Church features ruins of a religious site in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Historic building or site from the 18th century in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church in Bray, a Church of Ireland church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "The Roman Catholic 'Queen of Peace' church in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "St Fergal's Church, a Catholic church in south Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "Saint Brigid's Church in Bray, a Catholic church on the main street.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "Most Holy Redeemer Church in Bray, a Roman Catholic church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "St Peter's Church in Bray, a Church of Ireland church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's Church in Bray, also Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "Bray Methodist Church on Quinsborough Road.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "St Andrew's Church in Bray, a Church of Ireland church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "Raheen-a-Cluig is a notable historical church located in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "Kilcroney Church is a notable historical church structure situated in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "Standing proud along the coastline in Bray, this historic Martello tower offers a striking focal point by the sea. It lends a distinct heritage atmosphere to the local beach area, inviting visitors to enjoy coastal walks steeped in history. Combining a visit with a stroll along the shore makes for a fascinating cultural and seaside outing.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE-L",
     coords: [-6.1081, 53.2006],
@@ -640,7 +1477,7 @@ export const poiExtraIrelandCities: POI[] = [
       "de": [
             {
                   "name": "Portraine Asylum Reservoir",
-                  "text": "Der Portraine Asylum Reservoir in Swords ist ein ruhiges Gewässer.",
+                  "text": "Stausee umgeben von Wäldern in der Nähe von Swords.",
                   "category": "natural",
                   "coords": [
                         -6.277313,
@@ -649,7 +1486,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Ushers Lake",
-                  "text": "Der Ushers Lake in Swords ist ein natürlicher See.",
+                  "text": "Süßwassersee in Swords, beliebt zum Spazierengehen.",
                   "category": "natural",
                   "coords": [
                         -6.253966,
@@ -658,7 +1495,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Swords Manor Playground",
-                  "text": "Der Swords Manor Playground bietet Spaß für die ganze Familie.",
+                  "text": "Kinderspielplatz mit Schaukeln, Rutschen und Klettergerüst.",
                   "category": "family",
                   "coords": [
                         -6.24303,
@@ -667,7 +1504,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "Der Castle Playground in Swords ist ein toller Spielplatz für Kinder.",
+                  "text": "Spielplatz neben der historischen Burg von Swords.",
                   "category": "family",
                   "coords": [
                         -6.219737,
@@ -696,7 +1533,7 @@ export const poiExtraIrelandCities: POI[] = [
       "hu": [
             {
                   "name": "Portraine Asylum Reservoir",
-                  "text": "A swordsi Portraine Asylum Reservoir egy csendes állóvíz.",
+                  "text": "Víztározó erdőkkel körülvéve Swords közelében.",
                   "category": "natural",
                   "coords": [
                         -6.277313,
@@ -705,7 +1542,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Ushers Lake",
-                  "text": "A swordsi Ushers Lake egy természetes tó.",
+                  "text": "Édesvizű tó Swords-ben, népszerű sétálóhely.",
                   "category": "natural",
                   "coords": [
                         -6.253966,
@@ -714,7 +1551,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Swords Manor Playground",
-                  "text": "A Swords Manor Playground szórakozást kínál az egész családnak.",
+                  "text": "Gyermekjátszótér hintákkal, csúszdákkal és mászókával.",
                   "category": "family",
                   "coords": [
                         -6.24303,
@@ -723,7 +1560,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "A swordsi Castle Playground egy nagyszerű játszótér a gyerekeknek.",
+                  "text": "Játszótér a swords-i vár mellett.",
                   "category": "family",
                   "coords": [
                         -6.219737,
@@ -752,7 +1589,7 @@ export const poiExtraIrelandCities: POI[] = [
       "ro": [
             {
                   "name": "Portraine Asylum Reservoir",
-                  "text": "Portraine Asylum Reservoir din Swords este o apă stătătoare liniștită.",
+                  "text": "Rezervor înconjurat de păduri lângă Swords.",
                   "category": "natural",
                   "coords": [
                         -6.277313,
@@ -761,7 +1598,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Ushers Lake",
-                  "text": "Ushers Lake din Swords este un lac natural.",
+                  "text": "Lac de apă dulce în Swords, popular pentru plimbări.",
                   "category": "natural",
                   "coords": [
                         -6.253966,
@@ -770,7 +1607,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Swords Manor Playground",
-                  "text": "Swords Manor Playground oferă distracție pentru întreaga familie.",
+                  "text": "Loc de joacă pentru copii cu leagăne, tobogane și echipament de cățărare.",
                   "category": "family",
                   "coords": [
                         -6.24303,
@@ -779,7 +1616,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "Castle Playground din Swords este un loc de joacă excelent pentru copii.",
+                  "text": "Loc de joacă lângă castelul istoric din Swords.",
                   "category": "family",
                   "coords": [
                         -6.219737,
@@ -808,7 +1645,7 @@ export const poiExtraIrelandCities: POI[] = [
       "en": [
             {
                   "name": "Portraine Asylum Reservoir",
-                  "text": "Portraine Asylum Reservoir in Swords is a quiet body of water.",
+                  "text": "Reservoir surrounded by woodland near Swords.",
                   "category": "natural",
                   "coords": [
                         -6.277313,
@@ -817,7 +1654,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Ushers Lake",
-                  "text": "Ushers Lake in Swords is a natural lake.",
+                  "text": "Freshwater lake in Swords, popular for walks.",
                   "category": "natural",
                   "coords": [
                         -6.253966,
@@ -826,7 +1663,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Swords Manor Playground",
-                  "text": "Swords Manor Playground offers fun for the whole family.",
+                  "text": "Children’s playground with swings, slides, and climbing frame.",
                   "category": "family",
                   "coords": [
                         -6.24303,
@@ -835,7 +1672,7 @@ export const poiExtraIrelandCities: POI[] = [
             },
             {
                   "name": "Castle Playground",
-                  "text": "Castle Playground in Swords is a great playground for children.",
+                  "text": "Playground next to the historic Swords Castle.",
                   "category": "family",
                   "coords": [
                         -6.219737,

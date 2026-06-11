@@ -39,7 +39,196 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "damrei-mountains-relief-v2",
+    id: "damrei-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "រមណីយដ្ឋានទឹកជ្រោះរំដួល",
+                  "text": "Diese Naturattraktion in den Damrei-Bergen bietet erfrischende Wasserfälle inmitten einer üppig grünen Resort-Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        104.078914,
+                        10.572312
+                  ]
+            },
+            {
+                  "name": "ចំការស្ត្របឺរីបូកគោ",
+                  "text": "Diese landwirtschaftliche Attraktion im kühlen Klima der Damrei-Berge ermöglicht es Besuchern, angebaute Erdbeerreihen zu besichtigen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.061426,
+                        10.654515
+                  ]
+            },
+            {
+                  "name": "ដំណាក់​ស្លា​ខ្មៅ",
+                  "text": "Diese verlassenen Ruinen einer königlichen Residenz in den Damrei-Bergen wurden 1936 aus markantem schwarzem Holz und Stein erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        104.076431,
+                        10.619892
+                  ]
+            },
+            {
+                  "name": "Les 500 dieux",
+                  "text": "Diese felsige Kultstätte in den Damrei-Bergen ist von Hunderten kleinen Statuen und Schreinen geprägt, die in die natürliche Landschaft eingebettet sind.",
+                  "category": "religious",
+                  "coords": [
+                        104.09912,
+                        10.651875
+                  ]
+            },
+            {
+                  "name": "Wat Kamchay Mear",
+                  "text": "Dieser aktive buddhistische Tempelkomplex im Gebiet der Damrei-Berge dient als spiritueller Treffpunkt für die umliegenden Dörfer.",
+                  "category": "landmark",
+                  "coords": [
+                        104.104199,
+                        10.653016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "រមណីយដ្ឋានទឹកជ្រោះរំដួល",
+                  "text": "A Damrei-hegység ezen természetközeli látványossága buja, zöld üdülőkörnyezetben elhelyezkedő frissítő vízesésekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.078914,
+                        10.572312
+                  ]
+            },
+            {
+                  "name": "ចំការស្ត្របឺរីបូកគោ",
+                  "text": "A Damrei-hegység hűvös éghajlatán található mezőgazdasági látványosság lehetővé teszi a látogatók számára a megművelt eperföldek megtekintését.",
+                  "category": "landmark",
+                  "coords": [
+                        104.061426,
+                        10.654515
+                  ]
+            },
+            {
+                  "name": "ដំណាក់​ស្លា​ខ្មៅ",
+                  "text": "Az 1936-ban épült, elhagyatott királyi rezidencia romjai a Damrei-hegységben jellegzetes fekete fából és kőből készültek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.076431,
+                        10.619892
+                  ]
+            },
+            {
+                  "name": "Les 500 dieux",
+                  "text": "Ez a sziklás imahely a Damrei-hegységben több száz apró szobrot és szentélyt rejt, amelyek a természeti tájba ékelődnek.",
+                  "category": "religious",
+                  "coords": [
+                        104.09912,
+                        10.651875
+                  ]
+            },
+            {
+                  "name": "Wat Kamchay Mear",
+                  "text": "Ez a működő buddhista templomkomplexum a Damrei-hegység területén a környező falvak spirituális gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.104199,
+                        10.653016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "រមណីយដ្ឋានទឹកជ្រោះរំដួល",
+                  "text": "Această atracție bazată pe natură din Munții Damrei prezintă cascade răcoroase, amplasate într-un mediu de stațiune verde și luxuriant.",
+                  "category": "landmark",
+                  "coords": [
+                        104.078914,
+                        10.572312
+                  ]
+            },
+            {
+                  "name": "ចំការស្ត្របឺរីបូកគោ",
+                  "text": "Situată în clima răcoroasă a Munților Damrei, această atracție agricolă permite vizitatorilor să vadă rânduri de căpșuni cultivate.",
+                  "category": "landmark",
+                  "coords": [
+                        104.061426,
+                        10.654515
+                  ]
+            },
+            {
+                  "name": "ដំណាក់​ស្លា​ខ្មៅ",
+                  "text": "Construite în 1936, aceste ruine ale unei reședințe regale abandonate din Munții Damrei au fost construite din lemn și piatră neagră, distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        104.076431,
+                        10.619892
+                  ]
+            },
+            {
+                  "name": "Les 500 dieux",
+                  "text": "Acest lăcaș de cult stâncos din Munții Damrei prezintă sute de mici statui și altare ascunse în peisajul natural.",
+                  "category": "religious",
+                  "coords": [
+                        104.09912,
+                        10.651875
+                  ]
+            },
+            {
+                  "name": "Wat Kamchay Mear",
+                  "text": "Acest complex de temple budiste activ din zona Munților Damrei servește drept loc de adunare spirituală pentru satele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        104.104199,
+                        10.653016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Romduol Falls Resort",
+                  "text": "This nature-based attraction in the Damrei Mountains features refreshing waterfalls set within a lush, green resort environment.",
+                  "category": "landmark",
+                  "coords": [
+                        104.078914,
+                        10.572312
+                  ]
+            },
+            {
+                  "name": "Bokor Strawberry Farm",
+                  "text": "Situated in the cool climate of the Damrei Mountains, this agricultural attraction allows visitors to see cultivated strawberry rows.",
+                  "category": "landmark",
+                  "coords": [
+                        104.061426,
+                        10.654515
+                  ]
+            },
+            {
+                  "name": "Black Palace",
+                  "text": "Built in 1936, these abandoned royal residence ruins in the Damrei Mountains were constructed from distinctive black wood and stone.",
+                  "category": "landmark",
+                  "coords": [
+                        104.076431,
+                        10.619892
+                  ]
+            },
+            {
+                  "name": "Les 500 dieux",
+                  "text": "This rocky place of worship in the Damrei Mountains features hundreds of small statues and shrines tucked into the natural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        104.09912,
+                        10.651875
+                  ]
+            },
+            {
+                  "name": "Wat Kamchay Mear",
+                  "text": "This active Buddhist temple complex in the Damrei Mountains area serves as a spiritual gathering place for the surrounding villages.",
+                  "category": "landmark",
+                  "coords": [
+                        104.104199,
+                        10.653016
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-07",
     coords: [104.0500, 10.6333],
@@ -75,7 +264,520 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "dangrek-mountains-relief-v2",
+    id: "dangrek-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pol Pot Secret House",
+                  "text": "Versteckt tief in den Dangrek-Bergen, war dieses rustikale Gelände die letzte Dschungel-Zuflucht des berüchtigten Diktators der Roten Khmer.",
+                  "category": "landmark",
+                  "coords": [
+                        104.065755,
+                        14.272173
+                  ]
+            },
+            {
+                  "name": "Ta Mok Pass 808 Guardhouse",
+                  "text": "Dieser verlassene Betonaußenposten überwachte einst den strategischen Gebirgspass für die flüchtende Führung der Roten Khmer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.973455,
+                        14.350461
+                  ]
+            },
+            {
+                  "name": "Son Sen Crematation Site",
+                  "text": "Eine karge Gedenkstätte markiert den Ort, an dem der brutale Verteidigungsminister der Roten Khmer und seine Familie 1997 kurzerhand hingerichtet und verbrannt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        104.079785,
+                        14.308274
+                  ]
+            },
+            {
+                  "name": "Munitions Factory",
+                  "text": "Die Überreste dieser versteckten Anlage in den Bergen zeigen, wo Guerillas der Roten Khmer Waffen produzierten und lagerten.",
+                  "category": "landmark",
+                  "coords": [
+                        104.056241,
+                        14.331147
+                  ]
+            },
+            {
+                  "name": "Ta Mok Choam Pass Common House",
+                  "text": "Diese verfallene hölzerne Versammlungshalle diente als gemeinschaftlicher Planungsraum für die Kader der Roten Khmer, die den hohen Pass verteidigten.",
+                  "category": "landmark",
+                  "coords": [
+                        104.05802,
+                        14.341655
+                  ]
+            },
+            {
+                  "name": "Pol Pot Sentencing Site",
+                  "text": "1997 inszenierte die oberste Führung der Roten Khmer an diesem abgelegenen Ort in den Bergen einen öffentlichen Schauprozess, um ihren ehemaligen Kommandanten zu Hausarrest zu verurteilen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.060622,
+                        14.343262
+                  ]
+            },
+            {
+                  "name": "Red Khmer Statue",
+                  "text": "Diese Betonskulptur erinnert an Aspekte der lokalen Guerilla-Geschichte während des letzten Widerstands der Roten Khmer in der Dangrek-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        104.069782,
+                        14.337389
+                  ]
+            },
+            {
+                  "name": "Ta Mok Warehouse",
+                  "text": "Dieser Lagerbunker aus Stahlbeton gehörte dem berüchtigten General der Roten Khmer, \"Bruder Nummer Vier\", um militärische Vorräte zu horten.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080132,
+                        14.334508
+                  ]
+            },
+            {
+                  "name": "Son Sen House",
+                  "text": "Ein historischer ehemaliger Wohnsitz der Roten Khmer in den Dangrek-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083469,
+                        14.344493
+                  ]
+            },
+            {
+                  "name": "Ta Mok Middle House",
+                  "text": "Ein historisches Holzhaus, das einst von Ta Mok in den Dangrek-Bergen bewohnt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085898,
+                        14.346291
+                  ]
+            },
+            {
+                  "name": "Ta Mok Day House",
+                  "text": "Eine weitere erhaltene Hausattraktion, die früher von Ta Mok in den Dangrek-Bergen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085928,
+                        14.345139
+                  ]
+            },
+            {
+                  "name": "Nuon Cheas House",
+                  "text": "Der ehemalige Bergwohnsitz von Nuon Chea, heute eine Attraktion in den Dangrek-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083529,
+                        14.345778
+                  ]
+            },
+            {
+                  "name": "Pha Phaya Goopree National Park",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über den bewaldeten Nationalpark Pha Phaya Goopree.",
+                  "category": "natural",
+                  "coords": [
+                        104.05857,
+                        14.391733
+                  ]
+            },
+            {
+                  "name": "Srah Chhouk Pagoda",
+                  "text": "Eine friedliche buddhistische Pagode inmitten der Naturlandschaft der Dangrek-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080638,
+                        14.309657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pol Pot Secret House",
+                  "text": "A Dangrek-hegység mélyén megbúvó rusztikus komplexum volt a hírhedt vörös khmer diktátor utolsó dzsungelbéli menedéke.",
+                  "category": "landmark",
+                  "coords": [
+                        104.065755,
+                        14.272173
+                  ]
+            },
+            {
+                  "name": "Ta Mok Pass 808 Guardhouse",
+                  "text": "Ez az elhagyatott beton előőrs egykor a menekülő vörös khmer vezetés stratégiai hegyi hágóját őrizte.",
+                  "category": "landmark",
+                  "coords": [
+                        103.973455,
+                        14.350461
+                  ]
+            },
+            {
+                  "name": "Son Sen Crematation Site",
+                  "text": "Egy komor emlékhely jelzi azt a helyet, ahol a brutális vörös khmer védelmi minisztert és családját 1997-ben rögtönítélő bíróság kivégezte és elégette.",
+                  "category": "landmark",
+                  "coords": [
+                        104.079785,
+                        14.308274
+                  ]
+            },
+            {
+                  "name": "Munitions Factory",
+                  "text": "A hegyekben elrejtett titkos létesítmény maradványai megmutatják, hol gyártottak és tároltak fegyvereket a vörös khmer gerillák.",
+                  "category": "landmark",
+                  "coords": [
+                        104.056241,
+                        14.331147
+                  ]
+            },
+            {
+                  "name": "Ta Mok Choam Pass Common House",
+                  "text": "Ez a romos fa tárgyalóterem a magas hágót védő vörös khmer káderek közös tervezési tereként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        104.05802,
+                        14.341655
+                  ]
+            },
+            {
+                  "name": "Pol Pot Sentencing Site",
+                  "text": "1997-ben a vörös khmer legfelső vezetése ezen a távoli hegyi helyszínen egy nyilvános kirakatpert rendezett, hogy egykori parancsnokukat házi őrizetre ítéljék.",
+                  "category": "landmark",
+                  "coords": [
+                        104.060622,
+                        14.343262
+                  ]
+            },
+            {
+                  "name": "Red Khmer Statue",
+                  "text": "Ez a betonszobor a helyi gerillatörténelem eseményeinek állít emléket a vörös khmerek utolsó ellenállásának idejéből a Dangrek-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.069782,
+                        14.337389
+                  ]
+            },
+            {
+                  "name": "Ta Mok Warehouse",
+                  "text": "Ez a vasbeton raktárbunker a hírhedt vörös khmer tábornoké, a \"Négyes Számú Testvéré\" volt, aki katonai felszereléseket halmozott fel benne.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080132,
+                        14.334508
+                  ]
+            },
+            {
+                  "name": "Son Sen House",
+                  "text": "A Vörös Khmer vezetéshez köthető történelmi rezidencia a Dangrek-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083469,
+                        14.344493
+                  ]
+            },
+            {
+                  "name": "Ta Mok Middle House",
+                  "text": "Egy történelmi faház, amelyet egykor Ta Mok lakott a Dangrek-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085898,
+                        14.346291
+                  ]
+            },
+            {
+                  "name": "Ta Mok Day House",
+                  "text": "Egy másik fennmaradt ház a Dangrek-hegységben, amelyet korábban Ta Mok használt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085928,
+                        14.345139
+                  ]
+            },
+            {
+                  "name": "Nuon Cheas House",
+                  "text": "Nuon Chea egykori hegyi rezidenciája, amely ma látványosság a Dangrek-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083529,
+                        14.345778
+                  ]
+            },
+            {
+                  "name": "Pha Phaya Goopree National Park",
+                  "text": "Festői kilátópont, amely panorámás kilátást nyújt a fás Pha Phaya Goopree Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        104.05857,
+                        14.391733
+                  ]
+            },
+            {
+                  "name": "Srah Chhouk Pagoda",
+                  "text": "Egy békés buddhista pagoda a Dangrek-hegység természeti tájában.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080638,
+                        14.309657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pol Pot Secret House",
+                  "text": "Ascuns adânc în Munții Dangrek, acest complex rustic a fost ultima redută din junglă a infamului dictator al Khmerilor Roșii.",
+                  "category": "landmark",
+                  "coords": [
+                        104.065755,
+                        14.272173
+                  ]
+            },
+            {
+                  "name": "Ta Mok Pass 808 Guardhouse",
+                  "text": "Acest avanpost de beton abandonat a monitorizat odată trecătoarea montană strategică pentru conducerea fugară a Khmerilor Roșii.",
+                  "category": "landmark",
+                  "coords": [
+                        103.973455,
+                        14.350461
+                  ]
+            },
+            {
+                  "name": "Son Sen Crematation Site",
+                  "text": "O zonă memorială sobră care marchează locul unde brutalul ministru al apărării al Khmerilor Roșii și familia sa au fost executați sumar și arși în 1997.",
+                  "category": "landmark",
+                  "coords": [
+                        104.079785,
+                        14.308274
+                  ]
+            },
+            {
+                  "name": "Munitions Factory",
+                  "text": "Ascunse în munți, rămășițele acestei facilități secrete arată unde gherilele Khmerilor Roșii produceau și depozitau arme.",
+                  "category": "landmark",
+                  "coords": [
+                        104.056241,
+                        14.331147
+                  ]
+            },
+            {
+                  "name": "Ta Mok Choam Pass Common House",
+                  "text": "Această sală de ședințe din lemn dărăpănată a servit ca spațiu comunitar de planificare pentru cadrele Khmerilor Roșii care apărau trecătoarea înaltă.",
+                  "category": "landmark",
+                  "coords": [
+                        104.05802,
+                        14.341655
+                  ]
+            },
+            {
+                  "name": "Pol Pot Sentencing Site",
+                  "text": "În 1997, conducerea supremă a Khmerilor Roșii a organizat un proces public spectacol în această locație montană izolată, pentru a-l condamna pe fostul lor comandant la arest la domiciliu.",
+                  "category": "landmark",
+                  "coords": [
+                        104.060622,
+                        14.343262
+                  ]
+            },
+            {
+                  "name": "Red Khmer Statue",
+                  "text": "Această sculptură din beton comemorează aspecte ale istoriei locale de gherilă în timpul ultimei rezistențe a Khmerilor Roșii în lanțul muntos Dangrek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.069782,
+                        14.337389
+                  ]
+            },
+            {
+                  "name": "Ta Mok Warehouse",
+                  "text": "Acest buncăr de depozitare din beton armat i-a aparținut infamului general al Khmerilor Roșii „Fratele numărul patru” pentru stocarea proviziilor militare.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080132,
+                        14.334508
+                  ]
+            },
+            {
+                  "name": "Son Sen House",
+                  "text": "O fostă reședință istorică legată de conducerea Khmerilor Roșii în Munții Dangrek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083469,
+                        14.344493
+                  ]
+            },
+            {
+                  "name": "Ta Mok Middle House",
+                  "text": "O reședință istorică din lemn, ocupată odată de Ta Mok în Munții Dangrek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085898,
+                        14.346291
+                  ]
+            },
+            {
+                  "name": "Ta Mok Day House",
+                  "text": "O altă casă deținută anterior de Ta Mok, păstrată ca atracție în Munții Dangrek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085928,
+                        14.345139
+                  ]
+            },
+            {
+                  "name": "Nuon Cheas House",
+                  "text": "Fosta reședință montană a lui Nuon Chea, acum o atracție în Munții Dangrek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083529,
+                        14.345778
+                  ]
+            },
+            {
+                  "name": "Pha Phaya Goopree National Park",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame asupra parcului național împădurit Pha Phaya Goopree.",
+                  "category": "natural",
+                  "coords": [
+                        104.05857,
+                        14.391733
+                  ]
+            },
+            {
+                  "name": "Srah Chhouk Pagoda",
+                  "text": "O pagodă budistă liniștită situată în peisajul natural al Munților Dangrek.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080638,
+                        14.309657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pol Pot Secret House",
+                  "text": "Hidden deep in the Dangrek Mountains, this rustic compound was the final jungle redoubt of the infamous Khmer Rouge dictator.",
+                  "category": "landmark",
+                  "coords": [
+                        104.065755,
+                        14.272173
+                  ]
+            },
+            {
+                  "name": "Ta Mok Pass 808 Guardhouse",
+                  "text": "This abandoned concrete outpost once monitored the strategic mountain pass for the fleeing Khmer Rouge leadership.",
+                  "category": "landmark",
+                  "coords": [
+                        103.973455,
+                        14.350461
+                  ]
+            },
+            {
+                  "name": "Son Sen Crematation Site",
+                  "text": "A stark memorial area marking where the brutal Khmer Rouge defense minister and his family were summarily executed and burned in 1997.",
+                  "category": "landmark",
+                  "coords": [
+                        104.079785,
+                        14.308274
+                  ]
+            },
+            {
+                  "name": "Munitions Factory",
+                  "text": "Tucked away in the mountains, the remnants of this covert facility show where Khmer Rouge guerillas produced and stored weapons.",
+                  "category": "landmark",
+                  "coords": [
+                        104.056241,
+                        14.331147
+                  ]
+            },
+            {
+                  "name": "Ta Mok Choam Pass Common House",
+                  "text": "This dilapidated wooden meeting hall served as a communal planning space for Khmer Rouge cadres defending the high pass.",
+                  "category": "landmark",
+                  "coords": [
+                        104.05802,
+                        14.341655
+                  ]
+            },
+            {
+                  "name": "Pol Pot Sentencing Site",
+                  "text": "In 1997, the top Khmer Rouge leadership staged a public show trial at this remote mountain location to sentence their former commander to house arrest.",
+                  "category": "landmark",
+                  "coords": [
+                        104.060622,
+                        14.343262
+                  ]
+            },
+            {
+                  "name": "Red Khmer Statue",
+                  "text": "This concrete sculpture commemorates aspects of the local guerrilla history during the Khmer Rouge's final resistance in the Dangrek range.",
+                  "category": "landmark",
+                  "coords": [
+                        104.069782,
+                        14.337389
+                  ]
+            },
+            {
+                  "name": "Ta Mok Warehouse",
+                  "text": "This reinforced concrete storage bunker belonged to the notorious Khmer Rouge general \"Brother Number Four\" to stockpile military supplies.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080132,
+                        14.334508
+                  ]
+            },
+            {
+                  "name": "Son Sen House",
+                  "text": "A historic former residence linked to the Khmer Rouge leadership in the Dangrek Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083469,
+                        14.344493
+                  ]
+            },
+            {
+                  "name": "Ta Mok Middle House",
+                  "text": "A historic wooden residence once occupied by Ta Mok in the Dangrek Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085898,
+                        14.346291
+                  ]
+            },
+            {
+                  "name": "Ta Mok Day House",
+                  "text": "Another preserved house attraction formerly used by Ta Mok in the Dangrek Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        104.085928,
+                        14.345139
+                  ]
+            },
+            {
+                  "name": "Nuon Cheas House",
+                  "text": "The former mountain residence of Nuon Chea, now an attraction in the Dangrek Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        104.083529,
+                        14.345778
+                  ]
+            },
+            {
+                  "name": "Pha Phaya Goopree National Park",
+                  "text": "A scenic viewpoint offering panoramic vistas over the forested Pha Phaya Goopree National Park.",
+                  "category": "natural",
+                  "coords": [
+                        104.05857,
+                        14.391733
+                  ]
+            },
+            {
+                  "name": "Srah Chhouk Pagoda",
+                  "text": "A serene Buddhist pagoda set amidst the natural landscape of the Dangrek Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        104.080638,
+                        14.309657
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-13",
     coords: [104.0000, 14.3333],
@@ -255,7 +957,232 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "koh-rong-coast-relief-v2",
+    id: "koh-rong-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ឆ្នេរកោះឋានសួគ៌",
+                  "text": "Der scheinbar endlose Sandstrand von Koh Thansuor auf der Insel Koh Rong zeichnet sich durch seinen strahlend weißen Korallensand und das flache, kristallklare Wasser aus.",
+                  "category": "recreational",
+                  "coords": [
+                        103.200781,
+                        10.736072
+                  ]
+            },
+            {
+                  "name": "Ariya Resort Private Beach",
+                  "text": "Dieser private Strandabschnitt des Ariya Resorts auf Koh Rong bietet exklusiven Zugang zu ruhigem Badewasser fernab der belebten Buchten.",
+                  "category": "recreational",
+                  "coords": [
+                        103.306144,
+                        10.706346
+                  ]
+            },
+            {
+                  "name": "Palm Beach Bungalow Resort",
+                  "text": "Das Palm Beach Bungalow Resort auf Koh Rong bietet traditionelle Holzunterkünfte direkt am Rand des sanft abfallenden tropischen Sandstrands.",
+                  "category": "landmark",
+                  "coords": [
+                        103.25588,
+                        10.754009
+                  ]
+            },
+            {
+                  "name": "Coconut Beach",
+                  "text": "Am von Kokospalmen beschatteten Coconut Beach auf Koh Rong können Strandgänger nachts oft fluoreszierendes Plankton im seichten Ozeanwasser beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        103.313335,
+                        10.705006
+                  ]
+            },
+            {
+                  "name": "Lonely Beach",
+                  "text": "Dieser ruhige Strand bietet eine abgelegene Sandbucht am Golf von Thailand.",
+                  "category": "recreational",
+                  "coords": [
+                        103.230033,
+                        10.772478
+                  ]
+            },
+            {
+                  "name": "Kiricholsar Pagoda",
+                  "text": "Diese buddhistische Pagode ist ein spiritueller Rückzugsort mit traditioneller khmerischer Architektur nahe der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.246995,
+                        10.763586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ឆ្នេរកោះឋានសួគ៌",
+                  "text": "A Koh Rong szigeten található Koh Thansuor látszólag végtelen homokos partját vakítóan fehér korallhomok és sekély, kristálytiszta víz jellemzi.",
+                  "category": "recreational",
+                  "coords": [
+                        103.200781,
+                        10.736072
+                  ]
+            },
+            {
+                  "name": "Ariya Resort Private Beach",
+                  "text": "Az Ariya Resort ezen privát strandszakasza Koh Rong szigetén exkluzív hozzáférést biztosít a csendes vizű fürdőhelyhez, távol a nyüzsgő öblöktől.",
+                  "category": "recreational",
+                  "coords": [
+                        103.306144,
+                        10.706346
+                  ]
+            },
+            {
+                  "name": "Palm Beach Bungalow Resort",
+                  "text": "A Palm Beach Bungalow Resort Koh Rong szigetén hagyományos, fából készült szállásokat kínál közvetlenül a lassan mélyülő trópusi homokos tengerpart szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.25588,
+                        10.754009
+                  ]
+            },
+            {
+                  "name": "Coconut Beach",
+                  "text": "A kókuszpálmákkal árnyékolt Coconut strandon Koh Rong szigetén a strandolók éjszaka gyakran figyelhetnek meg világító planktont a sekély óceánvízben.",
+                  "category": "recreational",
+                  "coords": [
+                        103.313335,
+                        10.705006
+                  ]
+            },
+            {
+                  "name": "Lonely Beach",
+                  "text": "Ez a csendes tengerpart eldugott, homokos partszakaszt kínál a Thai-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        103.230033,
+                        10.772478
+                  ]
+            },
+            {
+                  "name": "Kiricholsar Pagoda",
+                  "text": "Ez a buddhista pagoda egy tradicionális khmer építészetű szellemi menedék a part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.246995,
+                        10.763586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ឆ្នេរកោះឋានសួគ៌",
+                  "text": "Plaja aparent nesfârșită cu nisip de la Koh Thansuor de pe insula Koh Rong se distinge prin nisipul său coralier alb strălucitor și apele cristaline, puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        103.200781,
+                        10.736072
+                  ]
+            },
+            {
+                  "name": "Ariya Resort Private Beach",
+                  "text": "Această porțiune de plajă privată a Ariya Resort din Koh Rong oferă acces exclusiv la ape liniștite de înot, departe de golfurile aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        103.306144,
+                        10.706346
+                  ]
+            },
+            {
+                  "name": "Palm Beach Bungalow Resort",
+                  "text": "Palm Beach Bungalow Resort de pe Koh Rong oferă spații de cazare tradiționale din lemn, chiar la marginea plajei tropicale cu pantă lină.",
+                  "category": "landmark",
+                  "coords": [
+                        103.25588,
+                        10.754009
+                  ]
+            },
+            {
+                  "name": "Coconut Beach",
+                  "text": "Pe plaja Coconut Beach umbrită de cocotieri de pe Koh Rong, iubitorii de plajă pot observa adesea, noaptea, plancton fluorescent în apele puțin adânci ale oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        103.313335,
+                        10.705006
+                  ]
+            },
+            {
+                  "name": "Lonely Beach",
+                  "text": "Această plajă liniștită oferă o porțiune de nisip izolată la Golful Thailandei.",
+                  "category": "recreational",
+                  "coords": [
+                        103.230033,
+                        10.772478
+                  ]
+            },
+            {
+                  "name": "Kiricholsar Pagoda",
+                  "text": "Această pagodă budistă este un refugiu spiritual cu arhitectură tradițională khmeră aproape de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.246995,
+                        10.763586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koh Thansuor",
+                  "text": "The seemingly endless sandy beach of Koh Thansuor on Koh Rong island is distinguished by its brilliantly white coral sand and shallow, crystal-clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        103.200781,
+                        10.736072
+                  ]
+            },
+            {
+                  "name": "Ariya Resort Private Beach",
+                  "text": "This private stretch of beach at the Ariya Resort on Koh Rong offers exclusive access to calm swimming waters away from the busy bays.",
+                  "category": "recreational",
+                  "coords": [
+                        103.306144,
+                        10.706346
+                  ]
+            },
+            {
+                  "name": "Palm Beach Bungalow Resort",
+                  "text": "The Palm Beach Bungalow Resort on Koh Rong features traditional wooden accommodations directly on the edge of the gently sloping tropical sandy beach.",
+                  "category": "landmark",
+                  "coords": [
+                        103.25588,
+                        10.754009
+                  ]
+            },
+            {
+                  "name": "Coconut Beach",
+                  "text": "At the coconut-palm shaded Coconut Beach on Koh Rong, beachgoers can often observe fluorescent plankton in the shallow ocean water at night.",
+                  "category": "recreational",
+                  "coords": [
+                        103.313335,
+                        10.705006
+                  ]
+            },
+            {
+                  "name": "Lonely Beach",
+                  "text": "This quiet beach offers a secluded sandy cove on the Gulf of Thailand.",
+                  "category": "recreational",
+                  "coords": [
+                        103.230033,
+                        10.772478
+                  ]
+            },
+            {
+                  "name": "Kiricholsar Pagoda",
+                  "text": "This Buddhist pagoda is a spiritual retreat featuring traditional Khmer architecture near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        103.246995,
+                        10.763586
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KH-18",
     coords: [103.2667, 10.7333],
@@ -291,7 +1218,196 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "ream-coast-relief-v2",
+    id: "ream-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "រង្វង់មូលព្រះថោងនាងនាគ",
+                  "text": "Das Monument Preah Thong und Neang Neak verfügt über eine gigantische Kupferstatue mythischer Gründer, die über den Verkehrsknotenpunkt ragt.",
+                  "category": "historical",
+                  "coords": [
+                        103.585675,
+                        10.565127
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលព្រះសីវ",
+                  "text": "Dieser Kreisverkehr wird von einer imposanten Statue geprägt, die den Hindu-Gott Shiva darstellt und eine zentrale Wegmarke bildet.",
+                  "category": "historical",
+                  "coords": [
+                        103.615286,
+                        10.532686
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលរាម",
+                  "text": "Der Ream-Kreisverkehr ist ein markantes Denkmal an der Hauptverkehrsader, das den Eingang zum gleichnamigen Küstengebiet symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        103.644697,
+                        10.585459
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​អូរត្រេស ៣",
+                  "text": "Otres Beach 3 ist ein ruhiger Sandstrandabschnitt, der abseits des städtischen Trubels entspannte Bademöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.562672,
+                        10.551751
+                  ]
+            },
+            {
+                  "name": "Poy Yeay Mao Beach",
+                  "text": "Der Poy Yeay Mao Beach ist ein breiter, von Palmen gesäumter Sandstrand, der nach einer verehrten lokalen Schutzgottheit benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        103.564799,
+                        10.542855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "រង្វង់មូលព្រះថោងនាងនាគ",
+                  "text": "A Preah Thong és Neang Neak emlékmű egy gigantikus rézszobrot ábrázol a mitikus alapítókról, amely a közlekedési csomópont fölé magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        103.585675,
+                        10.565127
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលព្រះសីវ",
+                  "text": "Ezt a körforgalmat egy impozáns, Siva hindu istent ábrázoló szobor uralja, amely fontos tájékozódási pont.",
+                  "category": "historical",
+                  "coords": [
+                        103.615286,
+                        10.532686
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលរាម",
+                  "text": "A Ream körforgalom egy feltűnő emlékmű a főútvonalon, amely az azonos nevű part menti terület bejáratát jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        103.644697,
+                        10.585459
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​អូរត្រេស ៣",
+                  "text": "Az Otres Beach 3 egy csendes homokos partszakasz, amely a városi nyüzsgéstől távol nyugodt fürdőzési lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        103.562672,
+                        10.551751
+                  ]
+            },
+            {
+                  "name": "Poy Yeay Mao Beach",
+                  "text": "A Poy Yeay Mao Beach egy széles, pálmafákkal szegélyezett homokos strand, amelyet egy tisztelt helyi védőistenségről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        103.564799,
+                        10.542855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "រង្វង់មូលព្រះថោងនាងនាគ",
+                  "text": "Monumentul Preah Thong și Neang Neak prezintă o statuie gigantică de cupru a fondatorilor mitici, care domină sensul giratoriu.",
+                  "category": "historical",
+                  "coords": [
+                        103.585675,
+                        10.565127
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលព្រះសីវ",
+                  "text": "Acest sens giratoriu este marcat de o statuie impunătoare care îl înfățișează pe zeul hindus Shiva, servind ca un punct de reper central.",
+                  "category": "historical",
+                  "coords": [
+                        103.615286,
+                        10.532686
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលរាម",
+                  "text": "Sensul giratoriu Ream este un monument distinctiv pe artera principală, simbolizând intrarea în zona de coastă omonimă.",
+                  "category": "historical",
+                  "coords": [
+                        103.644697,
+                        10.585459
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​អូរត្រេស ៣",
+                  "text": "Otres Beach 3 este o porțiune liniștită de plajă cu nisip, care oferă un loc de relaxare departe de agitația urbană.",
+                  "category": "recreational",
+                  "coords": [
+                        103.562672,
+                        10.551751
+                  ]
+            },
+            {
+                  "name": "Poy Yeay Mao Beach",
+                  "text": "Poy Yeay Mao Beach este o plajă largă cu nisip, străjuită de palmieri, numită după o divinitate protectoare locală venerată.",
+                  "category": "recreational",
+                  "coords": [
+                        103.564799,
+                        10.542855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "រង្វង់មូលព្រះថោងនាងនាគ",
+                  "text": "The Preah Thong and Neang Neak monument features a gigantic copper statue of the mythical founders towering over the roundabout.",
+                  "category": "historical",
+                  "coords": [
+                        103.585675,
+                        10.565127
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលព្រះសីវ",
+                  "text": "This roundabout is marked by an imposing statue depicting the Hindu god Shiva, serving as a central local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        103.615286,
+                        10.532686
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលរាម",
+                  "text": "The Ream Roundabout is a distinctive monument on the main thoroughfare, symbolizing the entrance to the eponymous coastal area.",
+                  "category": "historical",
+                  "coords": [
+                        103.644697,
+                        10.585459
+                  ]
+            },
+            {
+                  "name": "Otres Beach 3",
+                  "text": "Otres Beach 3 is a quiet sandy stretch providing a relaxed bathing spot away from the urban bustle.",
+                  "category": "recreational",
+                  "coords": [
+                        103.562672,
+                        10.551751
+                  ]
+            },
+            {
+                  "name": "Poy Yeay Mao Beach",
+                  "text": "Poy Yeay Mao Beach is a wide, palm-fringed sandy shore named after a revered local protective deity.",
+                  "category": "recreational",
+                  "coords": [
+                        103.564799,
+                        10.542855
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KH-18",
     coords: [103.6500, 10.5333],
@@ -399,7 +1515,232 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "ratanakiri-plateau-relief-v2",
+    id: "ratanakiri-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buddha's place",
+                  "text": "Dieses ruhige Denkmal auf dem malerischen Plateau ist den buddhistischen Lehren gewidmet und dient als friedlicher Ort der Kontemplation.",
+                  "category": "historical",
+                  "coords": [
+                        106.96916,
+                        13.735762
+                  ]
+            },
+            {
+                  "name": "Cha Ong Waterfall",
+                  "text": "Dieser beeindruckende Wasserfall stürzt über eine felsige Dschungelklippe auf dem Ratanakiri-Plateau und bildet ein nebliges, dramatisches Naturbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        106.929909,
+                        13.75909
+                  ]
+            },
+            {
+                  "name": "Kachanh Waterfall",
+                  "text": "Umgeben von dichter tropischer Vegetation bietet diese mächtige Kaskade erfrischende Ausblicke und eine Hängebrücke über die Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        106.989442,
+                        13.692407
+                  ]
+            },
+            {
+                  "name": "Ka Teang (Katieng) Waterfall",
+                  "text": "Dieser malerische Wasserfall im Hochland, der anmutig über einen breiten Felsvorsprung stürzt, ist nach der lokalen indigenen Gruppe der Kreung benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975474,
+                        13.666608
+                  ]
+            },
+            {
+                  "name": "Eisan Ratanaram Pagoda",
+                  "text": "Dieser lebhafte buddhistische Tempelkomplex verfügt über farbenfrohe Wandmalereien und dient als wichtiges spirituelles Zentrum auf dem Ratanakiri-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        106.974611,
+                        13.735968
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "Dieser lebhafte Hochlandmarkt ist ein geschäftiger Knotenpunkt für den regionalen Handel, auf dem verschiedene indigene Gruppen frische Produkte und Kunsthandwerk verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.987535,
+                        13.736331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buddha's place",
+                  "text": "A festői fennsíkon fekvő csendes emlékmű a buddhista tanításoknak állít emléket, és nyugodt elmélkedési helyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        106.96916,
+                        13.735762
+                  ]
+            },
+            {
+                  "name": "Cha Ong Waterfall",
+                  "text": "A Ratanakiri-fennsík egyik sziklás dzsungelperemén átzuhanó lenyűgöző vízesés ködös, drámai természetes medencét hoz létre.",
+                  "category": "landmark",
+                  "coords": [
+                        106.929909,
+                        13.75909
+                  ]
+            },
+            {
+                  "name": "Kachanh Waterfall",
+                  "text": "A sűrű trópusi növényzettel körülvett erőteljes zuhatag frissítő kilátást és a szurdokot átívelő függőhidat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        106.989442,
+                        13.692407
+                  ]
+            },
+            {
+                  "name": "Ka Teang (Katieng) Waterfall",
+                  "text": "A felvidéken található, széles sziklapárkányon kecsesen lezúduló festői vízesést a helyi kreung őslakos csoportról nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975474,
+                        13.666608
+                  ]
+            },
+            {
+                  "name": "Eisan Ratanaram Pagoda",
+                  "text": "Ez a nyüzsgő buddhista templomkomplexum színes falfestményekkel büszkélkedhet, és fontos spirituális központként szolgál a Ratanakiri-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        106.974611,
+                        13.735968
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "Ez az élénk felvidéki piac a regionális kereskedelem nyüzsgő központja, ahol különböző őslakos csoportok gyűlnek össze friss termékeket és kézműves tárgyakat árulni.",
+                  "category": "cultural",
+                  "coords": [
+                        106.987535,
+                        13.736331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buddha's place",
+                  "text": "Odihnindu-se pe platoul pitoresc, acest monument liniștit este dedicat învățăturilor budiste și servește drept un loc liniștit pentru contemplare.",
+                  "category": "historical",
+                  "coords": [
+                        106.96916,
+                        13.735762
+                  ]
+            },
+            {
+                  "name": "Cha Ong Waterfall",
+                  "text": "Căzând peste o stâncă stâncoasă de junglă din platoul Ratanakiri, această cascadă impresionantă creează un bazin natural dramatic și cețos.",
+                  "category": "landmark",
+                  "coords": [
+                        106.929909,
+                        13.75909
+                  ]
+            },
+            {
+                  "name": "Kachanh Waterfall",
+                  "text": "Înconjurată de vegetație tropicală densă, această cascadă puternică oferă priveliști răcoritoare și un pod suspendat care traversează defileul.",
+                  "category": "landmark",
+                  "coords": [
+                        106.989442,
+                        13.692407
+                  ]
+            },
+            {
+                  "name": "Ka Teang (Katieng) Waterfall",
+                  "text": "Căzând grațios peste o cornișă largă de stâncă, această cascadă pitorească din zonele înalte poartă numele grupului indigen local Kreung.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975474,
+                        13.666608
+                  ]
+            },
+            {
+                  "name": "Eisan Ratanaram Pagoda",
+                  "text": "Acest complex de temple budiste vibrante prezintă picturi murale colorate și servește drept centru spiritual important pe platoul Ratanakiri.",
+                  "category": "landmark",
+                  "coords": [
+                        106.974611,
+                        13.735968
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "Această piață animată din zonele înalte este un punct central plin de viață pentru comerțul regional, unde diverse grupuri indigene se adună pentru a vinde produse proaspete și meșteșuguri.",
+                  "category": "cultural",
+                  "coords": [
+                        106.987535,
+                        13.736331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buddha's place",
+                  "text": "Resting on the scenic plateau, this tranquil monument is dedicated to Buddhist teachings and serves as a quiet spot for contemplation.",
+                  "category": "historical",
+                  "coords": [
+                        106.96916,
+                        13.735762
+                  ]
+            },
+            {
+                  "name": "Cha Ong Waterfall",
+                  "text": "Plunging over a rocky jungle cliff in the Ratanakiri plateau, this impressive waterfall creates a misty, dramatic natural pool.",
+                  "category": "landmark",
+                  "coords": [
+                        106.929909,
+                        13.75909
+                  ]
+            },
+            {
+                  "name": "Kachanh Waterfall",
+                  "text": "Surrounded by dense tropical vegetation, this powerful cascade offers refreshing views and a swinging suspension bridge across the gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        106.989442,
+                        13.692407
+                  ]
+            },
+            {
+                  "name": "Ka Teang (Katieng) Waterfall",
+                  "text": "Cascading gracefully over a wide rock ledge, this scenic waterfall in the highlands is named after the local Kreung indigenous group.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975474,
+                        13.666608
+                  ]
+            },
+            {
+                  "name": "Eisan Ratanaram Pagoda",
+                  "text": "This vibrant Buddhist temple complex features colourful murals and serves as an important spiritual centre on the Ratanakiri plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        106.974611,
+                        13.735968
+                  ]
+            },
+            {
+                  "name": "Phsar",
+                  "text": "This lively highland market is a bustling focal point for regional trade, where diverse indigenous groups gather to sell fresh produce and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        106.987535,
+                        13.736331
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "KH-16",
     coords: [106.9833, 13.7333],
@@ -471,7 +1812,160 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "phnom-santuk-relief-v2",
+    id: "phnom-santuk-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Phnum Santuk",
+                  "text": "Diese heilige Stätte auf dem Phnom Santuk ist berühmt für ihre steile Treppe mit Naga-Balustraden und mehrere alte liegende Buddha-Statuen, die direkt in das Grundgestein gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        105.002061,
+                        12.644903
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein lokales Heiligtum, das einen ruhigen Raum für religiöse Gottesdienste in der Gegend von phnom-santuk-relief-v2 bietet.",
+                  "category": "religious",
+                  "coords": [
+                        105.042108,
+                        12.674897
+                  ]
+            },
+            {
+                  "name": "Wat Tal Voan",
+                  "text": "Ein buddhistischer Tempelkomplex, der der lokalen spirituellen Gemeinschaft in der Region phnom-santuk-relief-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.961279,
+                        12.761386
+                  ]
+            },
+            {
+                  "name": "Born Bin Dey Pagoda",
+                  "text": "Eine traditionelle buddhistische Pagode, die einen friedlichen Raum für Meditation und Gebet in phnom-santuk-relief-v2 bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.934092,
+                        12.73059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Phnum Santuk",
+                  "text": "A Phnom Santuk tetején található szent hely híres a nága korlátokkal szegélyezett meredek lépcsőjéről, valamint az alapkőzetbe faragott ősi, fekvő Buddha-szobrokról.",
+                  "category": "landmark",
+                  "coords": [
+                        105.002061,
+                        12.644903
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Egy helyi szentély, amely csendes teret kínál a vallási istentiszteletek számára a phnom-santuk-relief-v2 területen.",
+                  "category": "religious",
+                  "coords": [
+                        105.042108,
+                        12.674897
+                  ]
+            },
+            {
+                  "name": "Wat Tal Voan",
+                  "text": "A helyi spirituális közösséget szolgáló buddhista templomkomplexum a phnom-santuk-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        104.961279,
+                        12.761386
+                  ]
+            },
+            {
+                  "name": "Born Bin Dey Pagoda",
+                  "text": "Hagyományos buddhista pagoda, amely békés teret biztosít a meditációhoz és az imádkozáshoz phnom-santuk-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.934092,
+                        12.73059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Phnum Santuk",
+                  "text": "Cocoțat pe vârful Phnom Santuk, acest loc sacru este renumit pentru scara sa abruptă, căptușită cu balustrade Naga și multiple statui antice de Buddha culcat, sculptate direct în stânca de bază.",
+                  "category": "landmark",
+                  "coords": [
+                        105.002061,
+                        12.644903
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un sanctuar local care oferă un spațiu liniștit pentru cultul religios în zona phnom-santuk-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        105.042108,
+                        12.674897
+                  ]
+            },
+            {
+                  "name": "Wat Tal Voan",
+                  "text": "Un complex de temple budiste care servește comunitatea spirituală locală din regiunea phnom-santuk-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        104.961279,
+                        12.761386
+                  ]
+            },
+            {
+                  "name": "Born Bin Dey Pagoda",
+                  "text": "O pagodă budistă tradițională care oferă un spațiu pașnic pentru meditație și rugăciune în phnom-santuk-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        104.934092,
+                        12.73059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Phnum Santuk",
+                  "text": "Perched atop Phnom Santuk, this sacred site is renowned for its steep stairway lined with Naga balustrades and multiple ancient reclining Buddha statues carved directly into the bedrock.",
+                  "category": "landmark",
+                  "coords": [
+                        105.002061,
+                        12.644903
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A local sanctuary offering a quiet space for religious worship in the phnom-santuk-relief-v2 area.",
+                  "category": "religious",
+                  "coords": [
+                        105.042108,
+                        12.674897
+                  ]
+            },
+            {
+                  "name": "Wat Tal Voan",
+                  "text": "A Buddhist temple complex serving the local spiritual community in the phnom-santuk-relief-v2 region.",
+                  "category": "landmark",
+                  "coords": [
+                        104.961279,
+                        12.761386
+                  ]
+            },
+            {
+                  "name": "Born Bin Dey Pagoda",
+                  "text": "A traditional Buddhist pagoda providing a peaceful space for meditation and prayer in phnom-santuk-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        104.934092,
+                        12.73059
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-06",
     coords: [105.0000, 12.7167],
@@ -507,7 +2001,124 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "bokor-mountain-relief-v2",
+    id: "bokor-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prek Thnout Rapids",
+                  "text": "Diese kaskadenförmigen Stromschnellen in der Bokor-Bergregion fließen durch eine felsige, bewaldete Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.956071,
+                        10.614145
+                  ]
+            },
+            {
+                  "name": "Nataya Beach",
+                  "text": "Dieser ruhige Strand in der Gebirgslandschaft von Bokor bietet Sandstrände und eine entspannende Küstenumgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        104.04625,
+                        10.551103
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងរពៅ",
+                  "text": "Dieser geschäftige kambodschanische Markt versorgt die örtliche Gemeinde mit Ständen, an denen frische Produkte und Alltagsgegenstände verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        103.929489,
+                        10.614007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prek Thnout Rapids",
+                  "text": "Ezek a lépcsőzetes zúgók a Bokor-hegység régiójában egy sziklás, erdős tájon folynak keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        103.956071,
+                        10.614145
+                  ]
+            },
+            {
+                  "name": "Nataya Beach",
+                  "text": "Ez a csendes strand a Bokor-hegység domborzati területén homokos partokkal és pihentető tengerparti környezettel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        104.04625,
+                        10.551103
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងរពៅ",
+                  "text": "Ez a forgalmas kambodzsai piac friss termékeket és mindennapi cikkeket árusító standokkal szolgálja ki a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        103.929489,
+                        10.614007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prek Thnout Rapids",
+                  "text": "Aceste cascade rapide din regiunea Munților Bokor curg printr-un peisaj stâncos și împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.956071,
+                        10.614145
+                  ]
+            },
+            {
+                  "name": "Nataya Beach",
+                  "text": "Această plajă liniștită din zona de relief a Munților Bokor are țărmuri nisipoase și un mediu de coastă relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        104.04625,
+                        10.551103
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងរពៅ",
+                  "text": "Această piață cambodgiană aglomerată deservește comunitatea locală cu tarabe care vând produse proaspete și articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        103.929489,
+                        10.614007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prek Thnout Rapids",
+                  "text": "These cascading rapids in the Bokor Mountain region flow through a rocky, forested landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        103.956071,
+                        10.614145
+                  ]
+            },
+            {
+                  "name": "Nataya Beach",
+                  "text": "This tranquil beach in the Bokor Mountain relief area features sandy shores and a relaxing coastal environment.",
+                  "category": "recreational",
+                  "coords": [
+                        104.04625,
+                        10.551103
+                  ]
+            },
+            {
+                  "name": "ផ្សារត្រពាំងរពៅ",
+                  "text": "This busy Cambodian marketplace serves the local community with stalls selling fresh produce and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        103.929489,
+                        10.614007
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-07",
     coords: [104.0167, 10.6167],
@@ -579,7 +2190,88 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "kampot-coast-relief-v2",
+    id: "kampot-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese Moschee bietet der lokalen muslimischen Gemeinschaft einen eigenen Gebetsraum und liegt an der malerischen Küste von Kampot.",
+                  "category": "landmark",
+                  "coords": [
+                        104.188477,
+                        10.589336
+                  ]
+            },
+            {
+                  "name": "Wat Trauy Koh",
+                  "text": "Diese traditionelle buddhistische Stätte an der Küste von Kampot bietet einen ruhigen Blick auf die umliegende Küstenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        104.175397,
+                        10.598689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "A helyi muszlim közösség számára dedikált imádkozóhelyet biztosító mecset a festői Kampot partvonala mentén található.",
+                  "category": "landmark",
+                  "coords": [
+                        104.188477,
+                        10.589336
+                  ]
+            },
+            {
+                  "name": "Wat Trauy Koh",
+                  "text": "A Kampot partján fekvő hagyományos buddhista szentély nyugodt kilátást nyújt a környező tengerparti tájakra.",
+                  "category": "landmark",
+                  "coords": [
+                        104.175397,
+                        10.598689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Oferind un spațiu de rugăciune dedicat comunității musulmane locale, această moschee este situată de-a lungul coastei pitorești din Kampot.",
+                  "category": "landmark",
+                  "coords": [
+                        104.188477,
+                        10.589336
+                  ]
+            },
+            {
+                  "name": "Wat Trauy Koh",
+                  "text": "Acest sit budist tradițional de pe coasta Kampot oferă vederi liniștite asupra peisajelor de coastă din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        104.175397,
+                        10.598689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "Providing a dedicated prayer space for the local Muslim community, this mosque is situated along the scenic Kampot coast.",
+                  "category": "landmark",
+                  "coords": [
+                        104.188477,
+                        10.589336
+                  ]
+            },
+            {
+                  "name": "Wat Trauy Koh",
+                  "text": "This traditional Buddhist site on the Kampot coast offers tranquil views over the surrounding coastal landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        104.175397,
+                        10.598689
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KH-07",
     coords: [104.1833, 10.5833],
@@ -615,7 +2307,520 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     },
   },
   {
-    id: "phnom-chisor-relief-v2",
+    id: "phnom-chisor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tnaot Te Terrace Bridge",
+                  "text": "Diese alte Lateritterrassenbrücke ist ein Überrest des ausgedehnten Dammnetzwerks des Khmer-Reiches, das zum Tempelkomplex Phnom Chisor führt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.804226,
+                        11.065252
+                  ]
+            },
+            {
+                  "name": "Thmea Village Bridge",
+                  "text": "Die Brücke im Dorf Thmea ist eine antike Struktur aus Lateritstein, die einst königliche Reisen über die Überschwemmungsgebiete nahe Phnom Chisor ermöglichte.",
+                  "category": "landmark",
+                  "coords": [
+                        104.812569,
+                        11.089982
+                  ]
+            },
+            {
+                  "name": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច",
+                  "text": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច ist ein lokaler buddhistischer Tempel, der der Religionsgemeinschaft in der Nähe des historischen Phnom Chisor dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.756599,
+                        11.092115
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គប្រីយ៍",
+                  "text": "វត្តអង្គប្រីយ៍ ist eine kambodschanische buddhistische Stätte, die einen friedlichen Ort zum Gebet in der Umgebung von Phnom Chisor bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.759649,
+                        11.069998
+                  ]
+            },
+            {
+                  "name": "Kbal Samraong Pagoda",
+                  "text": "Wat Kbal Samraong ist eine traditionelle buddhistische Pagode, die sich durch ihre klassische kambodschanische Tempelarchitektur in der Nähe von Phnom Chisor auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.830508,
+                        11.076681
+                  ]
+            },
+            {
+                  "name": "Khsach Sor Pagoda",
+                  "text": "Die Khsach Sor Pagode ist ein aktives buddhistisches Kloster, in dem Mönche in der Nähe der historischen Hügel von Phnom Chisor leben und praktizieren.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814519,
+                        11.064363
+                  ]
+            },
+            {
+                  "name": "Trea Leu Pagoda",
+                  "text": "Wat Trea Leu ist ein ländlicher buddhistischer Tempel, der als spiritueller Treffpunkt für die Gemeinden rund um Phnom Chisor dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.81568,
+                        11.105863
+                  ]
+            },
+            {
+                  "name": "Ang Kdei Pagoda",
+                  "text": "Die Ang Kdei Pagode ist ein ruhiges buddhistisches Heiligtum inmitten der landwirtschaftlichen Landschaft der Region Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.764354,
+                        11.112116
+                  ]
+            },
+            {
+                  "name": "Thamma Nimitt",
+                  "text": "Thamma Nimitt ist eine buddhistische Kultstätte, die einen ruhigen Ort für Meditation in der Nähe der antiken Ruinen von Phnom Chisor bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.753388,
+                        11.070166
+                  ]
+            },
+            {
+                  "name": "Ang Preah Sdech Pagoda",
+                  "text": "Die Ang Preah Sdech Pagode ist ein buddhistischer Tempelkomplex mit kunstvollen kambodschanischen Dächern und religiösen Statuen in der Nähe von Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.715652,
+                        11.112374
+                  ]
+            },
+            {
+                  "name": "វត្តពោធិ៍សួស្តី",
+                  "text": "Die Pou Suesdey Pagode fungiert als spirituelles Zentrum, in dem lokale buddhistische Zeremonien und Feste in der Gegend von Phnom Chisor abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        104.783111,
+                        11.035504
+                  ]
+            },
+            {
+                  "name": "វត្តជ្រោយសំរោង",
+                  "text": "Die Chroy Samraong Pagode ist eine traditionelle buddhistische Stätte, die mit farbenfrohen religiösen Wandmalereien geschmückt ist und sich nahe dem Fuß des Phnom Chisor befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.791029,
+                        11.032894
+                  ]
+            },
+            {
+                  "name": "Kdei Tountoem Pagoda",
+                  "text": "Wat Kdei Tountoem ist ein buddhistischer Gemeindetempel, der an seinen hohen Stupas zu erkennen ist, die sich über die umliegende ländliche Landschaft von Phnom Chisor erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.820681,
+                        11.114081
+                  ]
+            },
+            {
+                  "name": "វត្តក្បាលសំរោង",
+                  "text": "វត្តក្បាលសំរោង ist ein lokales buddhistisches Heiligtum, das den Dorfbewohnern in der Nähe von Phnom Chisor spirituelle Führung und tägliche Rituale bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.808178,
+                        11.12318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tnaot Te Terrace Bridge",
+                  "text": "Ez az ősi laterit teraszos híd a Khmer Birodalom kiterjedt töltésút-hálózatának maradványa, amely a Phnom Chisor templomkomplexum felé vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.804226,
+                        11.065252
+                  ]
+            },
+            {
+                  "name": "Thmea Village Bridge",
+                  "text": "A Thmea falu hídja egy antik laterit kőépítmény, amely egykor a királyi utazásokat segítette a Phnom Chisor közeli árterein.",
+                  "category": "landmark",
+                  "coords": [
+                        104.812569,
+                        11.089982
+                  ]
+            },
+            {
+                  "name": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច",
+                  "text": "A ប្រាង្គអណ្ដែត ហៅវត្តរំលេច egy helyi buddhista templom, amely a történelmi Phnom Chisor környékének vallási közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        104.756599,
+                        11.092115
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គប្រីយ៍",
+                  "text": "A វត្តអង្គប្រីយ៍ egy kambodzsai buddhista imahely, amely békés teret kínál a Phnom Chisor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.759649,
+                        11.069998
+                  ]
+            },
+            {
+                  "name": "Kbal Samraong Pagoda",
+                  "text": "A Wat Kbal Samraong egy hagyományos buddhista pagoda, amelyet klasszikus kambodzsai templomépítészet jellemez a Phnom Chisor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.830508,
+                        11.076681
+                  ]
+            },
+            {
+                  "name": "Khsach Sor Pagoda",
+                  "text": "A Khsach Sor Pagoda egy aktív buddhista kolostor, ahol szerzetesek élnek és gyakorolják hitüket a történelmi Phnom Chisor dombjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814519,
+                        11.064363
+                  ]
+            },
+            {
+                  "name": "Trea Leu Pagoda",
+                  "text": "A Wat Trea Leu egy vidéki buddhista templom, amely spirituális gyülekezőhelyként szolgál a Phnom Chisor körüli közösségek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        104.81568,
+                        11.105863
+                  ]
+            },
+            {
+                  "name": "Ang Kdei Pagoda",
+                  "text": "Az Ang Kdei Pagoda egy békés buddhista szentély, amely a Phnom Chisor régió mezőgazdasági tájában fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        104.764354,
+                        11.112116
+                  ]
+            },
+            {
+                  "name": "Thamma Nimitt",
+                  "text": "A Thamma Nimitt egy buddhista istentiszteleti hely, amely csendes környezetet kínál a meditációhoz a Phnom Chisor ősi romjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.753388,
+                        11.070166
+                  ]
+            },
+            {
+                  "name": "Ang Preah Sdech Pagoda",
+                  "text": "Az Ang Preah Sdech Pagoda egy buddhista templomegyüttes, amely díszes kambodzsai tetőkkel és vallási szobrokkal rendelkezik Phnom Chisor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.715652,
+                        11.112374
+                  ]
+            },
+            {
+                  "name": "វត្តពោធិ៍សួស្តី",
+                  "text": "A Pou Suesdey Pagoda spirituális központként működik, ahol helyi buddhista szertartásokat és fesztiválokat tartanak a Phnom Chisor területén.",
+                  "category": "landmark",
+                  "coords": [
+                        104.783111,
+                        11.035504
+                  ]
+            },
+            {
+                  "name": "វត្តជ្រោយសំរោង",
+                  "text": "A Chroy Samraong Pagoda egy hagyományos buddhista imahely, amelyet színes vallási falfestmények díszítenek a Phnom Chisor lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.791029,
+                        11.032894
+                  ]
+            },
+            {
+                  "name": "Kdei Tountoem Pagoda",
+                  "text": "A Wat Kdei Tountoem egy közösségi buddhista templom, amely felismerhető a környező vidéki táj fölé magasodó sztúpáiról a Phnom Chisor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        104.820681,
+                        11.114081
+                  ]
+            },
+            {
+                  "name": "វត្តក្បាលសំរោង",
+                  "text": "A វត្តក្បាលសំរោង egy helyi buddhista szentély, amely spirituális útmutatást és napi rituálékat kínál a Phnom Chisor melletti falusiaknak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.808178,
+                        11.12318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tnaot Te Terrace Bridge",
+                  "text": "Acest vechi pod-terasă din laterit este o rămășiță a rețelei extinse de drumuri ale Imperiului Khmer care duc spre complexul de temple Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.804226,
+                        11.065252
+                  ]
+            },
+            {
+                  "name": "Thmea Village Bridge",
+                  "text": "Podul din satul Thmea este o structură antică din piatră de laterit care a facilitat odinioară călătoriile regale peste zonele inundabile de lângă Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.812569,
+                        11.089982
+                  ]
+            },
+            {
+                  "name": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច",
+                  "text": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច este un templu budist local care servește comunitatea religioasă din apropierea zonei istorice Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.756599,
+                        11.092115
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គប្រីយ៍",
+                  "text": "វត្តអង្គប្រីយ៍ este un lăcaș budist cambodgian care oferă un spațiu liniștit pentru rugăciune în vecinătatea Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.759649,
+                        11.069998
+                  ]
+            },
+            {
+                  "name": "Kbal Samraong Pagoda",
+                  "text": "Wat Kbal Samraong este o pagodă budistă tradițională caracterizată de arhitectura sa clasică de templu cambodgian în apropiere de Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.830508,
+                        11.076681
+                  ]
+            },
+            {
+                  "name": "Khsach Sor Pagoda",
+                  "text": "Pagoda Khsach Sor este o mănăstire budistă activă, unde călugării trăiesc și profesează lângă dealurile istorice din Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814519,
+                        11.064363
+                  ]
+            },
+            {
+                  "name": "Trea Leu Pagoda",
+                  "text": "Wat Trea Leu este un templu budist rural care servește drept loc de adunare spirituală pentru comunitățile din jurul Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.81568,
+                        11.105863
+                  ]
+            },
+            {
+                  "name": "Ang Kdei Pagoda",
+                  "text": "Pagoda Ang Kdei este un sanctuar budist senin situat în mijlocul peisajului agricol din regiunea Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.764354,
+                        11.112116
+                  ]
+            },
+            {
+                  "name": "Thamma Nimitt",
+                  "text": "Thamma Nimitt este un loc de cult budist care oferă un cadru liniștit pentru meditație aproape de ruinele antice din Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.753388,
+                        11.070166
+                  ]
+            },
+            {
+                  "name": "Ang Preah Sdech Pagoda",
+                  "text": "Pagoda Ang Preah Sdech este un complex de temple budiste cu acoperișuri ornamentate cambodgiene și statui religioase lângă Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.715652,
+                        11.112374
+                  ]
+            },
+            {
+                  "name": "វត្តពោធិ៍សួស្តី",
+                  "text": "Pagoda Pou Suesdey funcționează ca un centru spiritual unde au loc ceremonii și festivaluri budiste locale în zona Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.783111,
+                        11.035504
+                  ]
+            },
+            {
+                  "name": "វត្តជ្រោយសំរោង",
+                  "text": "Pagoda Chroy Samraong este un lăcaș budist tradițional împodobit cu picturi murale religioase colorate, situat aproape de baza Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.791029,
+                        11.032894
+                  ]
+            },
+            {
+                  "name": "Kdei Tountoem Pagoda",
+                  "text": "Wat Kdei Tountoem este un templu budist comunitar recunoscut prin stupele sale înalte care se ridică deasupra peisajului rural înconjurător din Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.820681,
+                        11.114081
+                  ]
+            },
+            {
+                  "name": "វត្តក្បាលសំរោង",
+                  "text": "វត្តក្បាលសំរោង este un sanctuar budist local care oferă îndrumare spirituală și ritualuri zilnice pentru sătenii din apropiere de Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.808178,
+                        11.12318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tnaot Te Terrace Bridge",
+                  "text": "This ancient laterite terrace bridge is a remnant of the expansive Khmer Empire causeway network leading towards the Phnom Chisor temple complex.",
+                  "category": "landmark",
+                  "coords": [
+                        104.804226,
+                        11.065252
+                  ]
+            },
+            {
+                  "name": "Thmea Village Bridge",
+                  "text": "Thmea Village Bridge is an antique laterite stone structure that once facilitated royal travel across the floodplains near Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.812569,
+                        11.089982
+                  ]
+            },
+            {
+                  "name": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច",
+                  "text": "ប្រាង្គអណ្ដែត ហៅវត្តរំលេច is a local Buddhist temple serving the religious community near the historic Phnom Chisor area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.756599,
+                        11.092115
+                  ]
+            },
+            {
+                  "name": "វត្តអង្គប្រីយ៍",
+                  "text": "វត្តអង្គប្រីយ៍ is a Cambodian Buddhist site offering a peaceful space for prayer in the vicinity of Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.759649,
+                        11.069998
+                  ]
+            },
+            {
+                  "name": "Wat Kbal Samraong",
+                  "text": "Wat Kbal Samraong is a traditional Buddhist pagoda characterized by its classic Cambodian temple architecture near Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.830508,
+                        11.076681
+                  ]
+            },
+            {
+                  "name": "Khsach Sor Pagoda",
+                  "text": "Khsach Sor Pagoda is an active Buddhist monastery where monks reside and practice near the historic hills of Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.814519,
+                        11.064363
+                  ]
+            },
+            {
+                  "name": "Wat Trea Leu",
+                  "text": "Wat Trea Leu is a rural Buddhist temple providing a spiritual gathering place for the communities surrounding Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.81568,
+                        11.105863
+                  ]
+            },
+            {
+                  "name": "Ang Kdei Pagoda",
+                  "text": "Ang Kdei Pagoda stands as a serene Buddhist sanctuary set amidst the agricultural landscape of the Phnom Chisor region.",
+                  "category": "landmark",
+                  "coords": [
+                        104.764354,
+                        11.112116
+                  ]
+            },
+            {
+                  "name": "Thamma Nimitt",
+                  "text": "Thamma Nimitt is a Buddhist worship site offering a quiet setting for meditation close to the ancient ruins of Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.753388,
+                        11.070166
+                  ]
+            },
+            {
+                  "name": "Ang Preah Sdech Pagoda",
+                  "text": "Ang Preah Sdech Pagoda is a Buddhist temple complex featuring ornate Cambodian roofs and religious statuary near Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.715652,
+                        11.112374
+                  ]
+            },
+            {
+                  "name": "Pou Suesdey Pagoda",
+                  "text": "Pou Suesdey Pagoda functions as a spiritual center where local Buddhist ceremonies and festivals are held in the Phnom Chisor area.",
+                  "category": "landmark",
+                  "coords": [
+                        104.783111,
+                        11.035504
+                  ]
+            },
+            {
+                  "name": "Chroy Samraong Pagoda",
+                  "text": "Chroy Samraong Pagoda is a traditional Buddhist site adorned with colorful religious murals, situated near the base of Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.791029,
+                        11.032894
+                  ]
+            },
+            {
+                  "name": "Wat Kdei Tountoem",
+                  "text": "Wat Kdei Tountoem is a community Buddhist temple recognizable by its tall stupas rising above the surrounding rural landscape of Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.820681,
+                        11.114081
+                  ]
+            },
+            {
+                  "name": "វត្តក្បាលសំរោង",
+                  "text": "វត្តក្បាលសំរោង is a local Buddhist sanctuary offering spiritual guidance and daily rituals for the villagers near Phnom Chisor.",
+                  "category": "landmark",
+                  "coords": [
+                        104.808178,
+                        11.12318
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KH-21",
     coords: [104.7833, 11.1167],

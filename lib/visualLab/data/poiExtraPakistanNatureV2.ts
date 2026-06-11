@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraPakistanNatureV2: POI[] = [
   {
-    id: "saif-ul-maluk-lake-nature-v2",
+    id: "saif-ul-maluk-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "View on Nanga Parbat",
+                  "text": "Ein Aussichtspunkt mit beeindruckendem Blick auf das Massiv des Nanga Parbat, dem neunthöchsten Berg der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        73.763869,
+                        34.920657
+                  ]
+            },
+            {
+                  "name": "View on Malika Parbat",
+                  "text": "Von hier aus bietet sich ein klarer Blick auf die Malika Parbat, die höchste Erhebung im Kaghan-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        73.633296,
+                        34.882012
+                  ]
+            },
+            {
+                  "name": "Malika Parbat",
+                  "text": "Der „Königin der Berge“ genannte Gipfel ist mit über 5.200 Metern der höchste Berg des Kaghan-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        73.724912,
+                        34.823003
+                  ]
+            },
+            {
+                  "name": "Ansoo Lake",
+                  "text": "Dieser hochgelegene See im Kaghan-Tal ist für seine ungewöhnliche Form bekannt, die einer Träne ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.676376,
+                        34.814096
+                  ]
+            },
+            {
+                  "name": "Saiful Maluk National Park",
+                  "text": "Ein Schutzgebiet rund um den legendären Saiful-Muluk-See, umgeben von schneebedeckten Gipfeln und Gletschern.",
+                  "category": "natural",
+                  "coords": [
+                        73.696528,
+                        34.856734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View on Nanga Parbat",
+                  "text": "Kilátópálya lenyűgöző panorámával a Nanga Parbatra, a világ kilencedik legmagasabb hegyére.",
+                  "category": "natural",
+                  "coords": [
+                        73.763869,
+                        34.920657
+                  ]
+            },
+            {
+                  "name": "View on Malika Parbat",
+                  "text": "Innentől tiszta kilátás nyílik a Malika Parbatra, a Kaghan-völgy legmagasabb csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        73.633296,
+                        34.882012
+                  ]
+            },
+            {
+                  "name": "Malika Parbat",
+                  "text": "A „Hegyek Királynőjének” nevezett csúcs több mint 5200 méterével a Kaghan-völgy legmagasabb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        73.724912,
+                        34.823003
+                  ]
+            },
+            {
+                  "name": "Ansoo Lake",
+                  "text": "Ez a Kaghan-völgyi magashegyi tó szokatlan, könnycsepphez hasonlító alakjáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        73.676376,
+                        34.814096
+                  ]
+            },
+            {
+                  "name": "Saiful Maluk National Park",
+                  "text": "Védett terület a legendás Szaiful Muluk-tó körül, hófödte csúcsokkal és gleccserekkel övezve.",
+                  "category": "natural",
+                  "coords": [
+                        73.696528,
+                        34.856734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View on Nanga Parbat",
+                  "text": "Un punct de observație cu o vedere impresionantă spre masivul Nanga Parbat, al nouălea cel mai înalt munte din lume.",
+                  "category": "natural",
+                  "coords": [
+                        73.763869,
+                        34.920657
+                  ]
+            },
+            {
+                  "name": "View on Malika Parbat",
+                  "text": "De aici se deschide o vedere clară spre Malika Parbat, cel mai înalt vârf din Valea Kaghan.",
+                  "category": "natural",
+                  "coords": [
+                        73.633296,
+                        34.882012
+                  ]
+            },
+            {
+                  "name": "Malika Parbat",
+                  "text": "Vârful supranumit „Regina Munților” este, cu peste 5.200 de metri, cel mai înalt munte din Valea Kaghan.",
+                  "category": "natural",
+                  "coords": [
+                        73.724912,
+                        34.823003
+                  ]
+            },
+            {
+                  "name": "Ansoo Lake",
+                  "text": "Acest lac de mare altitudine din Valea Kaghan este faimos pentru forma sa neobișnuită, asemănătoare unei lacrimi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.676376,
+                        34.814096
+                  ]
+            },
+            {
+                  "name": "Saiful Maluk National Park",
+                  "text": "O arie protejată în jurul legendarului lac Saiful Muluk, înconjurată de vârfuri înzăpezite și ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        73.696528,
+                        34.856734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View on Nanga Parbat",
+                  "text": "A viewpoint offering an impressive vista of the Nanga Parbat massif, the world's ninth-highest mountain.",
+                  "category": "natural",
+                  "coords": [
+                        73.763869,
+                        34.920657
+                  ]
+            },
+            {
+                  "name": "View on Malika Parbat",
+                  "text": "This spot offers a clear view of Malika Parbat, the highest peak in the Kaghan Valley.",
+                  "category": "natural",
+                  "coords": [
+                        73.633296,
+                        34.882012
+                  ]
+            },
+            {
+                  "name": "Malika Parbat",
+                  "text": "Known as the 'Queen of Mountains', this peak is the highest in the Kaghan Valley at over 5,200 meters.",
+                  "category": "natural",
+                  "coords": [
+                        73.724912,
+                        34.823003
+                  ]
+            },
+            {
+                  "name": "Ansoo Lake",
+                  "text": "This high-altitude lake in the Kaghan Valley is famous for its unusual shape resembling a teardrop.",
+                  "category": "landmark",
+                  "coords": [
+                        73.676376,
+                        34.814096
+                  ]
+            },
+            {
+                  "name": "Saiful Maluk National Park",
+                  "text": "A protected area surrounding the legendary Saiful Muluk Lake, enclosed by snow-capped peaks and glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        73.696528,
+                        34.856734
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PK-KP",
     coords: [73.6925, 34.8761],
@@ -85,7 +274,124 @@ export const poiExtraPakistanNatureV2: POI[] = [
       en: ["Also known as the 'Savage Mountain'.", "Summit elevation of 8,611 meters.", "First climbed in 1954."]
     }, image: "/poi-images/k2-mountain-nature-v2.webp"},
   {
-    id: "nanga-parbat-mountain-nature-v2",
+    id: "nanga-parbat-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ganalo Peak",
+                  "text": "Ein schneebedeckter Gipfel im Nanga-Parbat-Massiv, der die wilde Schönheit des Himalayas verkörpert.",
+                  "category": "natural",
+                  "coords": [
+                        74.554072,
+                        35.288451
+                  ]
+            },
+            {
+                  "name": "Nanga Parbat",
+                  "text": "Mit 8.125 Metern der neunthöchste Berg der Erde, berüchtigt als „Schicksalsberg der Deutschen“.",
+                  "category": "natural",
+                  "coords": [
+                        74.589545,
+                        35.238462
+                  ]
+            },
+            {
+                  "name": "Rakhiot",
+                  "text": "Ein vergletscherter Gipfel oberhalb der berühmten Märchenwiese am Fuße des Nanga Parbat.",
+                  "category": "natural",
+                  "coords": [
+                        74.637475,
+                        35.258591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ganalo Peak",
+                  "text": "A Nanga Parbat-masszívum hófedte csúcsa, amely a Himalája vad szépségét hirdeti.",
+                  "category": "natural",
+                  "coords": [
+                        74.554072,
+                        35.288451
+                  ]
+            },
+            {
+                  "name": "Nanga Parbat",
+                  "text": "A Föld kilencedik legmagasabb hegye (8125 m), amelyet a hegymászók „Gyilkos hegyként” is ismernek.",
+                  "category": "natural",
+                  "coords": [
+                        74.589545,
+                        35.238462
+                  ]
+            },
+            {
+                  "name": "Rakhiot",
+                  "text": "Eljegesedett csúcs a híres Tündérrét felett, a Nanga Parbat lábánál.",
+                  "category": "natural",
+                  "coords": [
+                        74.637475,
+                        35.258591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ganalo Peak",
+                  "text": "Un vârf înzăpezit din masivul Nanga Parbat, care întruchipează frumusețea sălbatică a Himalayei.",
+                  "category": "natural",
+                  "coords": [
+                        74.554072,
+                        35.288451
+                  ]
+            },
+            {
+                  "name": "Nanga Parbat",
+                  "text": "Al nouălea cel mai înalt munte din lume (8.125 m), supranumit „Muntele Ucigaș”.",
+                  "category": "natural",
+                  "coords": [
+                        74.589545,
+                        35.238462
+                  ]
+            },
+            {
+                  "name": "Rakhiot",
+                  "text": "Un vârf glaciar situat deasupra faimoasei Poieni a Zânelor, la poalele muntelui Nanga Parbat.",
+                  "category": "natural",
+                  "coords": [
+                        74.637475,
+                        35.258591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ganalo Peak",
+                  "text": "A snow-covered peak in the Nanga Parbat massif, embodying the wild beauty of the Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        74.554072,
+                        35.288451
+                  ]
+            },
+            {
+                  "name": "Nanga Parbat",
+                  "text": "The world's ninth-highest mountain (8,125m), notoriously known as the 'Killer Mountain.'",
+                  "category": "natural",
+                  "coords": [
+                        74.589545,
+                        35.238462
+                  ]
+            },
+            {
+                  "name": "Rakhiot",
+                  "text": "A glaciated peak located above the famous Fairy Meadows at the foot of Nanga Parbat.",
+                  "category": "natural",
+                  "coords": [
+                        74.637475,
+                        35.258591
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-GB",
     coords: [74.5891, 35.2375],
@@ -133,7 +439,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Également surnommée la « Montagne Tueuse ».", "Altitude du sommet : 8 126 mètres.", "Située à l'extrémité ouest de l'Himalaya."],
     }, image: "/poi-images/nanga-parbat-mountain-nature-v2.webp"},
   {
-    id: "hunza-valley-nature-v2",
+    id: "hunza-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ladyfinger Peak",
+                  "text": "Ein markanter Granitpfeiler, der steil über den Ultar-Gletscher in den Himmel ragt.",
+                  "category": "natural",
+                  "coords": [
+                        74.657357,
+                        36.386794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ladyfinger Peak",
+                  "text": "Jellegzetes gránittű, amely meredeken magasodik az Ultar-gleccser fölé.",
+                  "category": "natural",
+                  "coords": [
+                        74.657357,
+                        36.386794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ladyfinger Peak",
+                  "text": "Un stâlp de granit distinctiv care se ridică abrupt deasupra ghețarului Ultar.",
+                  "category": "natural",
+                  "coords": [
+                        74.657357,
+                        36.386794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ladyfinger Peak",
+                  "text": "A distinctive granite spire rising steeply above the Ultar glacier.",
+                  "category": "natural",
+                  "coords": [
+                        74.657357,
+                        36.386794
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PK-GB",
     coords: [74.65, 36.3167],
@@ -182,7 +533,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
     }
   },
   {
-    id: "deosai-national-park-nature-v2",
+    id: "deosai-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deosai National Park",
+                  "text": "Eine berühmte hochgelegene alpine Ebene und ein Naturschutzgebiet in Pakistan, das für den Schutz des bedrohten Himalaya-Braunbären bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        75.446508,
+                        34.992028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deosai National Park",
+                  "text": "Egy híres, magasan fekvő alpesi síkság és természetvédelmi terület Pakisztánban, amely a veszélyeztetett himalájai barnamedve védelméről híres.",
+                  "category": "natural",
+                  "coords": [
+                        75.446508,
+                        34.992028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deosai National Park",
+                  "text": "O faimoasă câmpie alpină de mare altitudine și rezervație naturală din Pakistan, renumită pentru protejarea ursului brun himalayan pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        75.446508,
+                        34.992028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deosai National Park",
+                  "text": "A famous high-altitude alpine plain and nature reserve in Pakistan, renowned for protecting the endangered Himalayan brown bear.",
+                  "category": "natural",
+                  "coords": [
+                        75.446508,
+                        34.992028
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PK-GB",
     coords: [75.4167, 35.0333],
@@ -278,7 +674,160 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Longueur totale d'environ 3 180 kilomètres.", "Soutient l'agriculture grâce à un vaste système d'irrigation.", "Se jette dans la mer d'Arabie."],
     }, image: "/poi-images/indus-river-nature-v2.webp"},
   {
-    id: "satpara-lake-nature-v2",
+    id: "satpara-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Park Sakardu",
+                  "text": "Eine gepflegte Grünanlage in Skardu, die einen ruhigen Rückzugsort mit Blick auf die umliegenden kargen Gipfel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        75.641376,
+                        35.279796
+                  ]
+            },
+            {
+                  "name": "Manthal Buddha-Felsen",
+                  "text": "Ein historischer Granitfelsen mit einem gut erhaltenen Buddha-Relief aus dem 9. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        75.633655,
+                        35.268829
+                  ]
+            },
+            {
+                  "name": "City Viewpoint",
+                  "text": "Ein Aussichtspunkt, der ein weites Panorama über das Skardu-Tal und den nahegelegenen Satpara-See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        75.644061,
+                        35.270413
+                  ]
+            },
+            {
+                  "name": "Manthal Mosque",
+                  "text": "Eine kleine, lokale Moschee im Dorf Manthal, die sich in unmittelbarer Nähe zum historischen Buddha-Felsen befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        75.63408,
+                        35.2636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Park Sakardu",
+                  "text": "Gondozott park Szkarduban, amely nyugodt pihenőhelyet kínál kilátással a környező kopár hegycsúcsokra.",
+                  "category": "landmark",
+                  "coords": [
+                        75.641376,
+                        35.279796
+                  ]
+            },
+            {
+                  "name": "Manthal Buddha Rock",
+                  "text": "Történelmi jelentőségű gránitszikla, amelyen egy jól megőrzött, 9. századi Buddha-dombormű látható.",
+                  "category": "landmark",
+                  "coords": [
+                        75.633655,
+                        35.268829
+                  ]
+            },
+            {
+                  "name": "City Viewpoint",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Szkardu-völgyre és a közeli Satpara-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        75.644061,
+                        35.270413
+                  ]
+            },
+            {
+                  "name": "Manthal Mosque",
+                  "text": "Kisméretű helyi mecset Manthal faluban, amely a történelmi Buddha-szikla közvetlen közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        75.63408,
+                        35.2636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Park Sakardu",
+                  "text": "Un spațiu verde amenajat în Skardu, oferind un refugiu liniștit cu vedere spre vârfurile aride din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        75.641376,
+                        35.279796
+                  ]
+            },
+            {
+                  "name": "Manthal Buddha Rock",
+                  "text": "O stâncă istorică de granit care prezintă un basorelief bine conservat al lui Buddha, datând din secolul al IX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        75.633655,
+                        35.268829
+                  ]
+            },
+            {
+                  "name": "City Viewpoint",
+                  "text": "Un punct de observație ce oferă o panoramă vastă asupra văii Skardu și a lacului Satpara din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        75.644061,
+                        35.270413
+                  ]
+            },
+            {
+                  "name": "Manthal Mosque",
+                  "text": "O mică moschee locală în satul Manthal, situată în imediata apropiere a istoricei stânci a lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        75.63408,
+                        35.2636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Park Sakardu",
+                  "text": "A landscaped green space in Skardu offering a quiet retreat with views of the surrounding arid mountain peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        75.641376,
+                        35.279796
+                  ]
+            },
+            {
+                  "name": "Manthal Buddha Rock",
+                  "text": "A historic granite boulder featuring a well-preserved 9th-century relief carving of a meditating Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        75.633655,
+                        35.268829
+                  ]
+            },
+            {
+                  "name": "City Viewpoint",
+                  "text": "A vantage point offering a wide panorama over the Skardu valley and the nearby Satpara Lake.",
+                  "category": "natural",
+                  "coords": [
+                        75.644061,
+                        35.270413
+                  ]
+            },
+            {
+                  "name": "Manthal Mosque",
+                  "text": "A small local mosque in Manthal village located in close proximity to the historic Buddha Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        75.63408,
+                        35.2636
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PK-GB",
     coords: [75.6333, 35.2333],
@@ -374,7 +923,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Abrite l'Amin Brakk, un sommet rocheux remarquable.", "Surnommée le « Yosemite du Pakistan ».", "Offre des possibilités d'escalade de type « Big Wall » de classe mondiale."],
     }, image: "/poi-images/nangma-valley-nature-v2.webp"},
   {
-    id: "hingol-national-park-nature-v2",
+    id: "hingol-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hinglaj Mata Mandir",
+                  "text": "Ein alter hinduistischer Höhlentempel, der in die zerklüftete Landschaft des Hingol-Nationalparks eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        65.515458,
+                        25.512711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hinglaj Mata Mandir",
+                  "text": "Ősi hindu barlangtemplom a Hingol Nemzeti Park sziklás vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        65.515458,
+                        25.512711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hinglaj Mata Mandir",
+                  "text": "Un vechi templu hindu săpat în peșteră, situat în peisajul accidentat al Parcului Național Hingol.",
+                  "category": "religious",
+                  "coords": [
+                        65.515458,
+                        25.512711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hinglaj Mata Mandir",
+                  "text": "An ancient Hindu cave temple nestled in the rugged landscape of Hingol National Park.",
+                  "category": "religious",
+                  "coords": [
+                        65.515458,
+                        25.512711
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PK-BA",
     coords: [65.5167, 25.5],
@@ -422,7 +1016,196 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Abrite la « Princesse de l'Espoir », une formation rocheuse naturelle.", "Le fleuve Hingol traverse le parc.", "Protège une grande variété d'animaux sauvages."],
     }, image: "/poi-images/hingol-national-park-nature-v2.webp"},
   {
-    id: "attabad-lake-nature-v2",
+    id: "attabad-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rockfalls 2023 - road blocked",
+                  "text": "Dieser Ort zeigt die massiven Felsstürze von 2023, die die Straße blockierten und die Landschaft nahe dem Attabad-See dramatisch veränderten.",
+                  "category": "landmark",
+                  "coords": [
+                        74.80287,
+                        36.306992
+                  ]
+            },
+            {
+                  "name": "Long Live Pak-China Friendship",
+                  "text": "Dieses Denkmal am Karakorum Highway feiert die diplomatischen Beziehungen und die Zusammenarbeit zwischen Pakistan und China.",
+                  "category": "historical",
+                  "coords": [
+                        74.79047,
+                        36.303004
+                  ]
+            },
+            {
+                  "name": "Lake attabad view",
+                  "text": "Dieser Punkt bietet einen direkten Blick auf das intensiv türkisfarbene Wasser des Attabad-Sees, der durch einen Erdrutsch entstand.",
+                  "category": "landmark",
+                  "coords": [
+                        74.876344,
+                        36.326223
+                  ]
+            },
+            {
+                  "name": "Baskochi meadows",
+                  "text": "Diese hochgelegenen Wiesen bieten einen Rückzugsort in der Natur mit weitem Blick über den See und die umliegenden Steilwände.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865366,
+                        36.311194
+                  ]
+            },
+            {
+                  "name": "Attabad lake viewpoint",
+                  "text": "Ein Panoramapunkt oberhalb des Attabad-Sees, der die leuchtende Farbe des Wassers vor der Kulisse der kahlen Berge hervorhebt.",
+                  "category": "natural",
+                  "coords": [
+                        74.865172,
+                        36.312941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rockfalls 2023 - road blocked",
+                  "text": "Ez a helyszín a 2023-as hatalmas sziklaomlásokat mutatja be, amelyek elzárták az utat és drámaian megváltoztatták az Attabad-tó környéki tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        74.80287,
+                        36.306992
+                  ]
+            },
+            {
+                  "name": "Long Live Pak-China Friendship",
+                  "text": "A Karakorum Highway mentén található emlékmű a Pakisztán és Kína közötti diplomáciai kapcsolatokat és együttműködést ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        74.79047,
+                        36.303004
+                  ]
+            },
+            {
+                  "name": "Lake attabad view",
+                  "text": "Ez a pont közvetlen kilátást nyújt az Attabad-tó intenzív türkizkék vizére, amely egy földcsuszamlás következtében jött létre.",
+                  "category": "landmark",
+                  "coords": [
+                        74.876344,
+                        36.326223
+                  ]
+            },
+            {
+                  "name": "Baskochi meadows",
+                  "text": "Ezek a magasan fekvő rétek természeti menedéket nyújtanak, tágas kilátással a tóra és a környező sziklafalakra.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865366,
+                        36.311194
+                  ]
+            },
+            {
+                  "name": "Attabad lake viewpoint",
+                  "text": "Panorámás kilátópont az Attabad-tó felett, amely kiemeli a víz ragyogó színét a kopár hegyek háttere előtt.",
+                  "category": "natural",
+                  "coords": [
+                        74.865172,
+                        36.312941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rockfalls 2023 - road blocked",
+                  "text": "Acest loc prezintă căderile masive de stânci din 2023 care au blocat drumul și au schimbat dramatic peisajul de lângă lacul Attabad.",
+                  "category": "landmark",
+                  "coords": [
+                        74.80287,
+                        36.306992
+                  ]
+            },
+            {
+                  "name": "Long Live Pak-China Friendship",
+                  "text": "Acest monument de pe autostrada Karakorum celebrează relațiile diplomatice și cooperarea dintre Pakistan și China.",
+                  "category": "historical",
+                  "coords": [
+                        74.79047,
+                        36.303004
+                  ]
+            },
+            {
+                  "name": "Lake attabad view",
+                  "text": "Acest punct oferă o vedere directă asupra apelor turcoaz intens ale lacului Attabad, care a fost creat în urma unei alunecări de teren.",
+                  "category": "landmark",
+                  "coords": [
+                        74.876344,
+                        36.326223
+                  ]
+            },
+            {
+                  "name": "Baskochi meadows",
+                  "text": "Aceste pajiști de mare altitudine oferă un refugiu în natură, cu o vedere largă asupra lacului și a pereților stâncoși din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865366,
+                        36.311194
+                  ]
+            },
+            {
+                  "name": "Attabad lake viewpoint",
+                  "text": "Un punct panoramic deasupra lacului Attabad, care evidențiază culoarea vibrantă a apei pe fundalul munților golași.",
+                  "category": "natural",
+                  "coords": [
+                        74.865172,
+                        36.312941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rockfalls 2023 - road blocked",
+                  "text": "This site shows the massive 2023 rockfalls that blocked the road and dramatically changed the landscape near Attabad Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        74.80287,
+                        36.306992
+                  ]
+            },
+            {
+                  "name": "Long Live Pak-China Friendship",
+                  "text": "This monument along the Karakoram Highway celebrates the diplomatic relations and cooperation between Pakistan and China.",
+                  "category": "historical",
+                  "coords": [
+                        74.79047,
+                        36.303004
+                  ]
+            },
+            {
+                  "name": "Lake attabad view",
+                  "text": "This spot offers a direct view of the intense turquoise waters of Attabad Lake, which was created following a landslide.",
+                  "category": "landmark",
+                  "coords": [
+                        74.876344,
+                        36.326223
+                  ]
+            },
+            {
+                  "name": "Baskochi meadows",
+                  "text": "These high-altitude meadows offer a nature retreat with wide views over the lake and the surrounding sheer cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        74.865366,
+                        36.311194
+                  ]
+            },
+            {
+                  "name": "Attabad lake viewpoint",
+                  "text": "A panoramic viewpoint above Attabad Lake that highlights the vibrant color of the water against the backdrop of the barren mountains.",
+                  "category": "natural",
+                  "coords": [
+                        74.865172,
+                        36.312941
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PK-GB",
     coords: [74.8667, 36.3111],
@@ -518,7 +1301,124 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Était autrefois le terrain de chasse privé du Mehtar de Chitral.", "Offre un habitat aux léopards des neiges.", "Comprend trois vallées."],
     }, image: "/poi-images/chitral-gol-national-park-nature-v2.webp"},
   {
-    id: "rakaposhi-mountain-nature-v2",
+    id: "rakaposhi-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rakaposhi",
+                  "text": "Der Rakaposhi ist ein markanter, 7788 Meter hoher Gipfel im Karakorum, der für seinen massiven Höhenunterschied zum Hunza-Tal bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        74.48837,
+                        36.142653
+                  ]
+            },
+            {
+                  "name": "Easy to follow track to 3920 m viewpoint",
+                  "text": "Dieser Wanderweg führt zu einem Aussichtspunkt auf 3920 Metern Höhe mit Blick auf die umliegenden Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        74.547224,
+                        36.184341
+                  ]
+            },
+            {
+                  "name": "360 views of Rakaposhi and Hunza",
+                  "text": "Von diesem Punkt aus genießt man ein 360-Grad-Panorama auf den vergletscherten Rakaposhi und das grüne Hunza-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        74.553791,
+                        36.201394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rakaposhi",
+                  "text": "A Rakaposhi egy 7788 méter magas hegycsúcs a Karakorum-hegységben, amely lenyűgöző látványt nyújt a Hunza-völgy felett.",
+                  "category": "natural",
+                  "coords": [
+                        74.48837,
+                        36.142653
+                  ]
+            },
+            {
+                  "name": "Easy to follow track to 3920 m viewpoint",
+                  "text": "Ez a könnyen követhető ösvény egy 3920 méter magasan fekvő kilátóhoz vezet, ahonnan rálátni a környező gleccserekre.",
+                  "category": "natural",
+                  "coords": [
+                        74.547224,
+                        36.184341
+                  ]
+            },
+            {
+                  "name": "360 views of Rakaposhi and Hunza",
+                  "text": "Erről a pontról 360 fokos panoráma nyílik a hófödte Rakaposhi-csúcsra és a zöldellő Hunza-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        74.553791,
+                        36.201394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rakaposhi",
+                  "text": "Rakaposhi este un vârf de 7788 de metri din munții Karakoram, renumit pentru diferența sa masivă de nivel față de valea Hunza.",
+                  "category": "natural",
+                  "coords": [
+                        74.48837,
+                        36.142653
+                  ]
+            },
+            {
+                  "name": "Easy to follow track to 3920 m viewpoint",
+                  "text": "Această potecă accesibilă duce la un punct de belvedere situat la 3920 de metri altitudine, oferind vederi spre ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        74.547224,
+                        36.184341
+                  ]
+            },
+            {
+                  "name": "360 views of Rakaposhi and Hunza",
+                  "text": "Din acest punct se deschide o panoramă de 360 de grade asupra vârfului Rakaposhi și a văii verzi Hunza.",
+                  "category": "natural",
+                  "coords": [
+                        74.553791,
+                        36.201394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rakaposhi",
+                  "text": "Rakaposhi is a prominent 7788-meter peak in the Karakoram range, known for its massive vertical rise above the Hunza Valley.",
+                  "category": "natural",
+                  "coords": [
+                        74.48837,
+                        36.142653
+                  ]
+            },
+            {
+                  "name": "Easy to follow track to 3920 m viewpoint",
+                  "text": "This accessible trail leads to a viewpoint at 3920 meters elevation, offering clear views of the surrounding glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        74.547224,
+                        36.184341
+                  ]
+            },
+            {
+                  "name": "360 views of Rakaposhi and Hunza",
+                  "text": "This spot provides a 360-degree panoramic view of the snow-capped Rakaposhi peak and the lush Hunza Valley.",
+                  "category": "natural",
+                  "coords": [
+                        74.553791,
+                        36.201394
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-GB",
     coords: [74.4897, 36.1433],
@@ -614,7 +1514,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Le plus grand et le plus à l'ouest des cinq fleuves du Pendjab.", "Les Grecs anciens le connaissaient sous le nom d'Hydaspe.", "Source du barrage de Mangla."],
     }, image: "/poi-images/jhelum-river-nature-v2.webp"},
   {
-    id: "lulusar-lake-nature-v2",
+    id: "lulusar-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lulusar-Dudipatsar National Park",
+                  "text": "Der Lulusar-Dudipatsar-Nationalpark umfasst atemberaubende Alpenseen und bergiges Gelände, das für seine Artenvielfalt im Kaghan-Tal bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        73.986032,
+                        35.079264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lulusar-Dudipatsar National Park",
+                  "text": "A Lulusar-Dudipatsar Nemzeti Park lenyűgöző alpesi tavakat és hegyvidéki terepet foglal magában, amely a Kaghan-völgy biodiverzitásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        73.986032,
+                        35.079264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lulusar-Dudipatsar National Park",
+                  "text": "Parcul Național Lulusar-Dudipatsar cuprinde lacuri alpine uimitoare și un teren muntos recunoscut pentru biodiversitatea sa în Valea Kaghan.",
+                  "category": "natural",
+                  "coords": [
+                        73.986032,
+                        35.079264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lulusar-Dudipatsar National Park",
+                  "text": "Lulusar-Dudipatsar National Park encompasses stunning alpine lakes and mountainous terrain recognized for its biodiversity in the Kaghan Valley.",
+                  "category": "natural",
+                  "coords": [
+                        73.986032,
+                        35.079264
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PK-KP",
     coords: [73.9286, 35.0831],
@@ -662,7 +1607,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Situé à une altitude de 3 410 mètres.", "Lulusar signifie « grande étoile ».", "Une destination touristique populaire."],
     }, image: "/poi-images/lulusar-lake-nature-v2.webp"},
   {
-    id: "khunjerab-national-park-nature-v2",
+    id: "khunjerab-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Highest ATM in the world",
+                  "text": "Diese bekannte Attraktion ist als der höchste Geldautomat der Welt bekannt und liegt an der verschneiten Berggrenze im Khunjerab-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        75.426957,
+                        36.846529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Highest ATM in the world",
+                  "text": "Ez a híres látványosság a világ legmagasabban fekvő bankautomatájaként ismert, amely a Khunjerab Nemzeti Park havas hegyi határánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        75.426957,
+                        36.846529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Highest ATM in the world",
+                  "text": "Această atracție renumită este recunoscută ca fiind cel mai înalt bancomat din lume, situat la granița montană înzăpezită din Parcul Național Khunjerab.",
+                  "category": "landmark",
+                  "coords": [
+                        75.426957,
+                        36.846529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Highest ATM in the world",
+                  "text": "This renowned attraction is famously recognized as the highest ATM globally, situated on the snowy mountain border of Khunjerab National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        75.426957,
+                        36.846529
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PK-GB",
     coords: [75.45, 36.8333],
@@ -708,7 +1698,88 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Comprend le col de Khunjerab, le plus haut passage frontalier international asphalté.", "Protège également les léopards des neiges et les bouquetins de l'Himalaya.", "Fondé en 1975."],
     }, image: "/poi-images/khunjerab-national-park-nature-v2.webp"},
   {
-    id: "sheosar-lake-nature-v2",
+    id: "sheosar-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shausar Lake",
+                  "text": "Ein atemberaubender Hochgebirgssee in den Deosai-Ebenen, der für sein kristallklares blaues Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        75.237455,
+                        34.992119
+                  ]
+            },
+            {
+                  "name": "Deosai Pass 4180 m",
+                  "text": "Ein Hochgebirgspass auf 4180 Metern Höhe, der einen weiten Panoramablick über das Deosai-Plateau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        75.226374,
+                        35.000586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shausar Lake",
+                  "text": "Egy lenyűgöző magashegyi tó a Deosai-fennsíkon, amely kristálytiszta kék vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        75.237455,
+                        34.992119
+                  ]
+            },
+            {
+                  "name": "Deosai Pass 4180 m",
+                  "text": "Egy 4180 méter magasan fekvő hágó, amely panorámás kilátást nyújt a Deosai-fennsíkra.",
+                  "category": "landmark",
+                  "coords": [
+                        75.226374,
+                        35.000586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shausar Lake",
+                  "text": "Un lac montan spectaculos la mare altitudine în Câmpia Deosai, renumit pentru apele sale albastre și limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        75.237455,
+                        34.992119
+                  ]
+            },
+            {
+                  "name": "Deosai Pass 4180 m",
+                  "text": "O trecătoare montană înaltă, situată la 4180 de metri, care oferă vederi panoramice asupra platoului Deosai.",
+                  "category": "landmark",
+                  "coords": [
+                        75.226374,
+                        35.000586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shausar Lake",
+                  "text": "A stunning high-altitude lake in the Deosai Plains, known for its crystal-clear blue waters and surrounding plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        75.237455,
+                        34.992119
+                  ]
+            },
+            {
+                  "name": "Deosai Pass 4180 m",
+                  "text": "A high mountain pass at 4180 metres offering sweeping panoramic views across the Deosai Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        75.226374,
+                        35.000586
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PK-GB",
     coords: [75.2536, 34.9658],
@@ -756,7 +1827,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Signifie « lac aveugle » en langue shina.", "Situé à une altitude de 4 142 mètres.", "Gèle complètement en hiver."],
     }, image: "/poi-images/sheosar-lake-nature-v2.webp"},
   {
-    id: "chenab-river-nature-v2",
+    id: "chenab-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sabir Tanvri (",
+                  "text": "Eine historische Verteidigungsanlage, die strategisch am Ufer des Flusses Chenab gelegen ist.",
+                  "category": "castle",
+                  "coords": [
+                        71.165421,
+                        29.390448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sabir Tanvri (",
+                  "text": "Történelmi védmű, amely stratégiailag a Csenáb-folyó partján helyezkedik el.",
+                  "category": "castle",
+                  "coords": [
+                        71.165421,
+                        29.390448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sabir Tanvri (",
+                  "text": "O structură defensivă istorică, situată strategic pe malul râului Chenab.",
+                  "category": "castle",
+                  "coords": [
+                        71.165421,
+                        29.390448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sabir Tanvri (",
+                  "text": "A historical defensive structure strategically located on the banks of the Chenab River.",
+                  "category": "castle",
+                  "coords": [
+                        71.165421,
+                        29.390448
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PK-PB",
     coords: [71.2167, 29.35],
@@ -852,7 +1968,52 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Est alimenté par de nombreux canaux provenant de l'Indus.", "Fait face à des défis écologiques majeurs.", "Crucial pour l'industrie de la pêche locale."],
     }, image: "/poi-images/manchar-lake-nature-v2.webp"},
   {
-    id: "fairy-meadows-nature-v2",
+    id: "fairy-meadows-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koroy Tatam summit, 4205m high",
+                  "text": "Ein Aussichtspunkt auf 4.205 Metern Höhe mit einem spektakulären Rundblick auf den Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        74.585472,
+                        35.312629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koroy Tatam summit, 4205m high",
+                  "text": "4205 méter magasan fekvő kilátópont spektakuláris körpanorámával a Karakorumra.",
+                  "category": "natural",
+                  "coords": [
+                        74.585472,
+                        35.312629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koroy Tatam summit, 4205m high",
+                  "text": "Un punct de belvedere la 4.205 metri altitudine, cu o vedere panoramică spectaculoasă asupra Karakorumului.",
+                  "category": "natural",
+                  "coords": [
+                        74.585472,
+                        35.312629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koroy Tatam summit, 4205m high",
+                  "text": "A viewpoint at 4,205 meters elevation offering a spectacular panorama of the Karakoram range.",
+                  "category": "natural",
+                  "coords": [
+                        74.585472,
+                        35.312629
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PK-GB",
     coords: [74.595, 35.3583],
@@ -900,7 +2061,124 @@ export const poiExtraPakistanNatureV2: POI[] = [
       fr: ["Déclaré parc national.", "Offre une vue imprenable sur le flanc Rakhiot du Nanga Parbat.", "Accessible par une piste de jeep périlleuse."],
     }, image: "/poi-images/fairy-meadows-nature-v2.webp"},
   {
-    id: "tirich-mir-mountain-nature-v2",
+    id: "tirich-mir-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tirich Mir West IV",
+                  "text": "Ein majestätischer Gipfel im Tirich-Mir-Massiv, der eine Höhe von 7.338 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        71.815004,
+                        36.270316
+                  ]
+            },
+            {
+                  "name": "Tirich Mir",
+                  "text": "Der höchste Berg des Hindukusch-Gebirges mit einer imposanten Höhe von 7.708 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        71.850455,
+                        36.257859
+                  ]
+            },
+            {
+                  "name": "Tirich Mir West III",
+                  "text": "Ein markanter Nebengipfel des Tirich Mir, der Bergsteiger im Hindukusch herausfordert.",
+                  "category": "natural",
+                  "coords": [
+                        71.830281,
+                        36.261522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tirich Mir West IV",
+                  "text": "A Tirics Mir-masszívum fenséges csúcsa, amely 7338 méteres magasságot ér el.",
+                  "category": "natural",
+                  "coords": [
+                        71.815004,
+                        36.270316
+                  ]
+            },
+            {
+                  "name": "Tirich Mir",
+                  "text": "A Hindukus-hegység legmagasabb csúcsa, lenyűgöző 7708 méteres magassággal.",
+                  "category": "natural",
+                  "coords": [
+                        71.850455,
+                        36.257859
+                  ]
+            },
+            {
+                  "name": "Tirich Mir West III",
+                  "text": "A Tirics Mir egyik jellegzetes mellékcsúcsa, amely próbára teszi a Hindukus hegymászóit.",
+                  "category": "natural",
+                  "coords": [
+                        71.830281,
+                        36.261522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tirich Mir West IV",
+                  "text": "Un vârf maiestuos din masivul Tirich Mir, care atinge o înălțime de 7.338 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        71.815004,
+                        36.270316
+                  ]
+            },
+            {
+                  "name": "Tirich Mir",
+                  "text": "Cel mai înalt munte din lanțul Hindu Kush, cu o înălțime impunătoare de 7.708 metri.",
+                  "category": "natural",
+                  "coords": [
+                        71.850455,
+                        36.257859
+                  ]
+            },
+            {
+                  "name": "Tirich Mir West III",
+                  "text": "Un vârf secundar proeminent al Tirich Mir, care provoacă alpiniștii din Hindu Kush.",
+                  "category": "natural",
+                  "coords": [
+                        71.830281,
+                        36.261522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tirich Mir West IV",
+                  "text": "A majestic peak in the Tirich Mir massif, reaching an elevation of 7,338 meters.",
+                  "category": "natural",
+                  "coords": [
+                        71.815004,
+                        36.270316
+                  ]
+            },
+            {
+                  "name": "Tirich Mir",
+                  "text": "The highest mountain in the Hindu Kush range, with an imposing height of 7,708 meters.",
+                  "category": "natural",
+                  "coords": [
+                        71.850455,
+                        36.257859
+                  ]
+            },
+            {
+                  "name": "Tirich Mir West III",
+                  "text": "A prominent secondary peak of Tirich Mir that challenges climbers in the Hindu Kush.",
+                  "category": "natural",
+                  "coords": [
+                        71.830281,
+                        36.261522
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PK-KP",
     coords: [71.8436, 36.2575],

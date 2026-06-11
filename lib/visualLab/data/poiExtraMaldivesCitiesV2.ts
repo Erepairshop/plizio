@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraMaldivesCitiesV2: POI[] = [
   {
-    id: "mv-male-cities-v2",
+    id: "mv-male-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ބިހުރޯޒު ކަމަނާ މިސްކިތް",
+                  "text": "Diese historische religiöse Anlage beherbergt das verehrte Grab von Sultan Muhammad Thakurufaanu, dem Nationalhelden, der die Portugiesen vertrieb.",
+                  "category": "religious",
+                  "coords": [
+                        73.510626,
+                        4.175879
+                  ]
+            },
+            {
+                  "name": "Masjidhul Zikra",
+                  "text": "Eine mehrstöckige islamische Einrichtung mit Bogenfenstern, die viel natürliches Licht in die mit Teppich ausgelegten Gebetsräume lassen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508592,
+                        4.175164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ބިހުރޯޒު ކަމަނާ މިސްކިތް",
+                  "text": "Ez a történelmi vallási komplexum ad otthont Szultán Muhammad Thakurufaanu, a portugálokat kiűző nemzeti hős tisztelt sírjának.",
+                  "category": "religious",
+                  "coords": [
+                        73.510626,
+                        4.175879
+                  ]
+            },
+            {
+                  "name": "Masjidhul Zikra",
+                  "text": "Egy többszintes iszlám létesítmény boltíves ablakokkal, amelyek bőséges természetes fényt engednek a szőnyeggel borított imatermekbe.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508592,
+                        4.175164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ބިހުރޯޒު ކަމަނާ މިސްކިތް",
+                  "text": "Acest complex religios istoric găzduiește mormântul venerat al sultanului Muhammad Thakurufaanu, eroul național care i-a expulzat pe portughezi.",
+                  "category": "religious",
+                  "coords": [
+                        73.510626,
+                        4.175879
+                  ]
+            },
+            {
+                  "name": "Masjidhul Zikra",
+                  "text": "O facilitate islamică cu mai multe etaje, cu ferestre arcuite care oferă o lumină naturală abundentă sălilor de rugăciune mochetate.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508592,
+                        4.175164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bihuroazu Kamanaa Mosque",
+                  "text": "This historic religious compound houses the revered tomb of Sultan Muhammad Thakurufaanu, the national hero who expelled the Portuguese.",
+                  "category": "religious",
+                  "coords": [
+                        73.510626,
+                        4.175879
+                  ]
+            },
+            {
+                  "name": "Masjidhul Zikra",
+                  "text": "A multi-story Islamic facility featuring arched windows that provide ample natural light to the carpeted prayer rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508592,
+                        4.175164
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "MV",
     coords: [73.5093, 4.1755],
@@ -98,7 +179,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Neregando reef",
-                  "text": "Das Neregando-Riff ist eine natürliche Unterwasserattraktion in der Nähe von Fuvahmulah.",
+                  "text": "Neregando reef ist ein Korallenriff vor Fuvahmulah, bekannt für seine reiche Unterwasserwelt.",
                   "category": "landmark",
                   "coords": [
                         73.411257,
@@ -107,7 +188,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Seafan",
-                  "text": "Seafan ist eine Sehenswürdigkeit in Fuvahmulah.",
+                  "text": "Seafan ist ein Unterwasser-Seefächer, der vor Fuvahmulah beobachtet werden kann.",
                   "category": "landmark",
                   "coords": [
                         73.436522,
@@ -116,7 +197,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Thundi",
-                  "text": "Thundi ist eine Attraktion in Fuvahmulah.",
+                  "text": "Thundi ist ein flacher Sandstrand auf Fuvahmulah, ideal zum Schwimmen und Sonnenbaden.",
                   "category": "landmark",
                   "coords": [
                         73.4217,
@@ -125,7 +206,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Maa Neyru",
-                  "text": "Maa Neyru ist eine Sehenswürdigkeit in Fuvahmulah.",
+                  "text": "Maa Neyru ist ein markanter Punkt an der Küste von Fuvahmulah, beliebt zum Angeln.",
                   "category": "landmark",
                   "coords": [
                         73.4205,
@@ -134,7 +215,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Rasgefanno",
-                  "text": "Rasgefanno ist eine Attraktion in Fuvahmulah.",
+                  "text": "Rasgefanno ist ein Tauchplatz vor Fuvahmulah mit beeindruckenden Steilwänden.",
                   "category": "landmark",
                   "coords": [
                         73.428106,
@@ -143,7 +224,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tiger sharks feeding point",
-                  "text": "Der Tiger sharks feeding point ist eine Attraktion in Fuvahmulah.",
+                  "text": "Tiger sharks feeding point ist ein bekannter Tauchplatz vor Fuvahmulah, wo Tigerhaie gefüttert werden.",
                   "category": "landmark",
                   "coords": [
                         73.44126,
@@ -170,7 +251,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "The Spot by Ataraxis",
-                  "text": "The Spot by Ataraxis ist eine lokale Attraktion in Fuvahmulah.",
+                  "text": "The Spot by Ataraxis ist ein entspannter Treffpunkt am Strand von Fuvahmulah mit Café.",
                   "category": "landmark",
                   "coords": [
                         73.414542,
@@ -179,7 +260,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Vasho Veyo",
-                  "text": "Vasho Veyo ist eine Attraktion in Fuvahmulah.",
+                  "text": "Vasho Veyo ist ein schmaler Kanal in Fuvahmulah, der zum Schnorcheln genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         73.432503,
@@ -188,7 +269,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tours Ease Maldives",
-                  "text": "Tours Ease Maldives ist eine Sehenswürdigkeit in Fuvahmulah.",
+                  "text": "Tours Ease Maldives in Fuvahmulah bietet geführte Touren zu den umliegenden Riffen an.",
                   "category": "landmark",
                   "coords": [
                         73.427062,
@@ -208,7 +289,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Neregando reef",
-                  "text": "A Neregando-zátony egy természetes víz alatti látványosság Fuvahmulah közelében.",
+                  "text": "A Neregando reef egy korallzátony Fuvahmulah partjainál, gazdag tengeri élővilággal.",
                   "category": "landmark",
                   "coords": [
                         73.411257,
@@ -217,7 +298,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Seafan",
-                  "text": "A Seafan egy látványosság Fuvahmulah városában.",
+                  "text": "A Seafan egy tengeri legyezőkorall, amely Fuvahmulah partjainál figyelhető meg.",
                   "category": "landmark",
                   "coords": [
                         73.436522,
@@ -226,7 +307,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Thundi",
-                  "text": "A Thundi egy látnivaló Fuvahmulah területén.",
+                  "text": "A Thundi egy sekély homokos strand Fuvahmulah szigetén, kiváló úszáshoz és napozáshoz.",
                   "category": "landmark",
                   "coords": [
                         73.4217,
@@ -235,7 +316,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Maa Neyru",
-                  "text": "A Maa Neyru egy attrakció Fuvahmulahban.",
+                  "text": "A Maa Neyru egy jellegzetes partszakasz Fuvahmulah szigetén, népszerű horgászhely.",
                   "category": "landmark",
                   "coords": [
                         73.4205,
@@ -244,7 +325,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Rasgefanno",
-                  "text": "A Rasgefanno egy látványosság Fuvahmulah városában.",
+                  "text": "A Rasgefanno egy búvárhely Fuvahmulah partjainál, lenyűgöző függőleges sziklafalakkal.",
                   "category": "landmark",
                   "coords": [
                         73.428106,
@@ -253,7 +334,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tiger sharks feeding point",
-                  "text": "A Tiger sharks feeding point egy látnivaló Fuvahmulahban.",
+                  "text": "A Tiger sharks feeding point egy ismert búvárhely Fuvahmulah partjainál, ahol tigriscápákat etetnek.",
                   "category": "landmark",
                   "coords": [
                         73.44126,
@@ -280,7 +361,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "The Spot by Ataraxis",
-                  "text": "A The Spot by Ataraxis egy helyi látványosság Fuvahmulah területén.",
+                  "text": "A The Spot by Ataraxis egy laza találkozóhely Fuvahmulah strandján, kávézóval.",
                   "category": "landmark",
                   "coords": [
                         73.414542,
@@ -289,7 +370,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Vasho Veyo",
-                  "text": "A Vasho Veyo egy attrakció Fuvahmulahban.",
+                  "text": "A Vasho Veyo egy keskeny csatorna Fuvahmulah szigetén, amelyet búvárkodásra használnak.",
                   "category": "landmark",
                   "coords": [
                         73.432503,
@@ -298,7 +379,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tours Ease Maldives",
-                  "text": "A Tours Ease Maldives egy látványosság Fuvahmulah városában.",
+                  "text": "A Tours Ease Maldives Fuvahmulahban vezetett túrákat kínál a környező zátonyokhoz.",
                   "category": "landmark",
                   "coords": [
                         73.427062,
@@ -318,7 +399,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Neregando reef",
-                  "text": "Reciful Neregando este o atracție subacvatică naturală situată în apropiere de Fuvahmulah.",
+                  "text": "Neregando reef este un recif de corali în largul Fuvahmulah, renumit pentru biodiversitatea marină.",
                   "category": "landmark",
                   "coords": [
                         73.411257,
@@ -327,7 +408,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Seafan",
-                  "text": "Seafan este o atracție situată în Fuvahmulah.",
+                  "text": "Seafan este un coral de tip evantai marin care poate fi văzut în largul Fuvahmulah.",
                   "category": "landmark",
                   "coords": [
                         73.436522,
@@ -336,7 +417,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Thundi",
-                  "text": "Thundi este o atracție în Fuvahmulah.",
+                  "text": "Thundi este o plajă nisipoasă cu ape puțin adânci pe Fuvahmulah, ideală pentru înot și bronzat.",
                   "category": "landmark",
                   "coords": [
                         73.4217,
@@ -345,7 +426,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Maa Neyru",
-                  "text": "Maa Neyru este o atracție situată în Fuvahmulah.",
+                  "text": "Maa Neyru este un punct de coastă distinct pe Fuvahmulah, frecventat de pescari.",
                   "category": "landmark",
                   "coords": [
                         73.4205,
@@ -354,7 +435,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Rasgefanno",
-                  "text": "Rasgefanno este o atracție din Fuvahmulah.",
+                  "text": "Rasgefanno este un loc de scufundări în largul Fuvahmulah, cu pereți verticali impresionanți.",
                   "category": "landmark",
                   "coords": [
                         73.428106,
@@ -363,7 +444,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tiger sharks feeding point",
-                  "text": "Punctul de hrănire a rechinilor tigru este o atracție în Fuvahmulah.",
+                  "text": "Tiger sharks feeding point este un loc celebru de scufundări în largul Fuvahmulah, unde sunt hrăniți rechinii tigru.",
                   "category": "landmark",
                   "coords": [
                         73.44126,
@@ -390,7 +471,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "The Spot by Ataraxis",
-                  "text": "The Spot by Ataraxis este o atracție locală în Fuvahmulah.",
+                  "text": "The Spot by Ataraxis este un loc de întâlnire relaxat pe plaja din Fuvahmulah, cu o cafenea.",
                   "category": "landmark",
                   "coords": [
                         73.414542,
@@ -399,7 +480,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Vasho Veyo",
-                  "text": "Vasho Veyo este o atracție în Fuvahmulah.",
+                  "text": "Vasho Veyo este un canal îngust în Fuvahmulah, folosit pentru snorkelling.",
                   "category": "landmark",
                   "coords": [
                         73.432503,
@@ -408,7 +489,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tours Ease Maldives",
-                  "text": "Tours Ease Maldives este o atracție din Fuvahmulah.",
+                  "text": "Tours Ease Maldives din Fuvahmulah organizează excursii ghidate la recifele din apropiere.",
                   "category": "landmark",
                   "coords": [
                         73.427062,
@@ -428,7 +509,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Neregando reef",
-                  "text": "Neregando reef is a natural underwater attraction situated near Fuvahmulah.",
+                  "text": "Neregando reef is a coral reef off Fuvahmulah, known for its rich marine life.",
                   "category": "landmark",
                   "coords": [
                         73.411257,
@@ -437,7 +518,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Seafan",
-                  "text": "Seafan is an attraction located in Fuvahmulah.",
+                  "text": "Seafan is a marine sea fan coral visible off the coast of Fuvahmulah.",
                   "category": "landmark",
                   "coords": [
                         73.436522,
@@ -446,7 +527,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Thundi",
-                  "text": "Thundi is an attraction situated in Fuvahmulah.",
+                  "text": "Thundi is a shallow sandy beach on Fuvahmulah, great for swimming and sunbathing.",
                   "category": "landmark",
                   "coords": [
                         73.4217,
@@ -455,7 +536,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Maa Neyru",
-                  "text": "Maa Neyru is an attraction in Fuvahmulah.",
+                  "text": "Maa Neyru is a distinctive coastal point on Fuvahmulah, popular for fishing.",
                   "category": "landmark",
                   "coords": [
                         73.4205,
@@ -464,7 +545,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Rasgefanno",
-                  "text": "Rasgefanno is an attraction located in Fuvahmulah.",
+                  "text": "Rasgefanno is a dive site off Fuvahmulah featuring impressive vertical drop-offs.",
                   "category": "landmark",
                   "coords": [
                         73.428106,
@@ -473,7 +554,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tiger sharks feeding point",
-                  "text": "The Tiger sharks feeding point is a notable attraction in Fuvahmulah.",
+                  "text": "Tiger sharks feeding point is a famous dive site off Fuvahmulah where tiger sharks are fed.",
                   "category": "landmark",
                   "coords": [
                         73.44126,
@@ -500,7 +581,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "The Spot by Ataraxis",
-                  "text": "The Spot by Ataraxis is a local attraction in Fuvahmulah.",
+                  "text": "The Spot by Ataraxis is a laid-back meeting spot on Fuvahmulah's beach with a café.",
                   "category": "landmark",
                   "coords": [
                         73.414542,
@@ -509,7 +590,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Vasho Veyo",
-                  "text": "Vasho Veyo is an attraction situated in Fuvahmulah.",
+                  "text": "Vasho Veyo is a narrow channel in Fuvahmulah used for snorkelling.",
                   "category": "landmark",
                   "coords": [
                         73.432503,
@@ -518,7 +599,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             },
             {
                   "name": "Tours Ease Maldives",
-                  "text": "Tours Ease Maldives is an attraction located in Fuvahmulah.",
+                  "text": "Tours Ease Maldives in Fuvahmulah offers guided tours to the surrounding reefs.",
                   "category": "landmark",
                   "coords": [
                         73.427062,
@@ -570,7 +651,88 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-kulhudhuffushi-cities-v2", "sights": {"de": [{"name": "Artificial Beach", "text": "Dieser künstlich angelegte Strand in Kulhudhuffushi bietet Einheimischen und Gästen eine idyllische Oase mitten im Inselalltag. Das flache, warme Wasser lädt zum ausgiebigen Baden ein, während die gepflegte Umgebung perfekte Bedingungen für ein Sonnenbad schafft. Für einen entspannten Familientag am blauen Wasser ist dieses künstliche Paradies überaus empfehlenswert.", "category": "recreational", "coords": [73.069223, 6.613305]}, {"name": "Dhekunu kulhi", "text": "Dhekunu kulhi ist ein geschütztes Naturreservat in Kulhudhuffushi.", "category": "natural", "coords": [73.070217, 6.614067]}], "hu": [{"name": "Artificial Beach", "text": "Ez a Kulhudhuffushi-ban mesterségesen kialakított strand idilli oázist kínál a helyieknek és a vendégeknek a szigeti mindennapok sűrűjében. A sekély, meleg víz hosszas fürdőzésre csábít, míg a gondozott környezet tökéletes feltételeket biztosít a napozáshoz. Egy nyugodt családi naphoz a ragyogó kék víz mellett ez a mesterséges paradicsom rendkívül ajánlott.", "category": "recreational", "coords": [73.069223, 6.613305]}, {"name": "Dhekunu kulhi", "text": "A Dhekunu kulhi egy védett természetvédelmi terület Kulhudhuffushi térségében.", "category": "natural", "coords": [73.070217, 6.614067]}], "ro": [{"name": "Artificial Beach", "text": "Această plajă artificială din Kulhudhuffushi oferă localnicilor și oaspeților o oază idilică chiar în mijlocul vieții insulare. Apele puțin adânci și calde sunt perfecte pentru înot, în timp ce împrejurimile bine întreținute creează condiții ideale pentru plajă. Este o recomandare de top pentru o zi relaxantă în familie, la marginea apelor albastre.", "category": "recreational", "coords": [73.069223, 6.613305]}, {"name": "Dhekunu kulhi", "text": "Dhekunu kulhi este o rezervație naturală protejată din Kulhudhuffushi.", "category": "natural", "coords": [73.070217, 6.614067]}], "en": [{"name": "Artificial Beach", "text": "This man-made beach in Kulhudhuffushi offers locals and guests an idyllic oasis right in the middle of island daily life. The shallow, warm waters invite extended swimming sessions, while the well-kept surroundings create perfect conditions for sunbathing. It comes highly recommended for a relaxed family day by the brilliant blue water.", "category": "recreational", "coords": [73.069223, 6.613305]}, {"name": "Dhekunu kulhi", "text": "Dhekunu kulhi is a protected nature reserve located in Kulhudhuffushi.", "category": "natural", "coords": [73.070217, 6.614067]}]},
+    id: "mv-kulhudhuffushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Dieser künstlich angelegte Strand in Kulhudhuffushi bietet Einheimischen und Gästen eine idyllische Oase mitten im Inselalltag. Das flache, warme Wasser lädt zum ausgiebigen Baden ein, während die gepflegte Umgebung perfekte Bedingungen für ein Sonnenbad schafft. Für einen entspannten Familientag am blauen Wasser ist dieses künstliche Paradies überaus empfehlenswert.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi ist ein Süßwassersee auf Kulhudhuffushi, umgeben von dichter Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Ez a Kulhudhuffushi-ban mesterségesen kialakított strand idilli oázist kínál a helyieknek és a vendégeknek a szigeti mindennapok sűrűjében. A sekély, meleg víz hosszas fürdőzésre csábít, míg a gondozott környezet tökéletes feltételeket biztosít a napozáshoz. Egy nyugodt családi naphoz a ragyogó kék víz mellett ez a mesterséges paradicsom rendkívül ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "A Dhekunu kulhi egy édesvizű tó Kulhudhuffushi szigetén, sűrű növényzettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Această plajă artificială din Kulhudhuffushi oferă localnicilor și oaspeților o oază idilică chiar în mijlocul vieții insulare. Apele puțin adânci și calde sunt perfecte pentru înot, în timp ce împrejurimile bine întreținute creează condiții ideale pentru plajă. Este o recomandare de top pentru o zi relaxantă în familie, la marginea apelor albastre.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi este un lac de apă dulce pe Kulhudhuffushi, înconjurat de vegetație densă.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "This man-made beach in Kulhudhuffushi offers locals and guests an idyllic oasis right in the middle of island daily life. The shallow, warm waters invite extended swimming sessions, while the well-kept surroundings create perfect conditions for sunbathing. It comes highly recommended for a relaxed family day by the brilliant blue water.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi is a freshwater lake on Kulhudhuffushi, surrounded by dense vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.0700, 6.6225],
@@ -658,7 +820,88 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-naifaru-cities-v2",
+    id: "mv-naifaru-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjdul Taqwa",
+                  "text": "Ein islamischer Gebetsort in Naifaru, der eng in das tägliche Leben der Bewohner dieses maledivischen Atolls eingebunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.365596,
+                        5.444553
+                  ]
+            },
+            {
+                  "name": "Naifaru Fish Market",
+                  "text": "Auf diesem authentischen Markt in Naifaru wird der frisch gefangene Thunfisch der lokalen Fischerflotte feilgeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        73.368412,
+                        5.442842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjdul Taqwa",
+                  "text": "Egy iszlám imahely Naifaruban, amely szorosan kapcsolódik a maldív atoll lakóinak mindennapi életéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        73.365596,
+                        5.444553
+                  ]
+            },
+            {
+                  "name": "Naifaru Fish Market",
+                  "text": "Ezen az autentikus naifarui piacon a helyi halászflotta által frissen fogott tonhalat kínálják eladásra.",
+                  "category": "cultural",
+                  "coords": [
+                        73.368412,
+                        5.442842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjdul Taqwa",
+                  "text": "Un loc de rugăciune islamic în Naifaru, strâns integrat în viața de zi cu zi a locuitorilor acestui atol maldivian.",
+                  "category": "landmark",
+                  "coords": [
+                        73.365596,
+                        5.444553
+                  ]
+            },
+            {
+                  "name": "Naifaru Fish Market",
+                  "text": "În această piață autentică din Naifaru este vândut tonul proaspăt prins de flota locală de pescuit.",
+                  "category": "cultural",
+                  "coords": [
+                        73.368412,
+                        5.442842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjdul Taqwa",
+                  "text": "An Islamic prayer site in Naifaru, closely integrated into the daily lives of the inhabitants of this Maldivian atoll.",
+                  "category": "landmark",
+                  "coords": [
+                        73.365596,
+                        5.444553
+                  ]
+            },
+            {
+                  "name": "Naifaru Fish Market",
+                  "text": "At this authentic market in Naifaru, freshly caught tuna from the local fishing fleet is offered for sale.",
+                  "category": "cultural",
+                  "coords": [
+                        73.368412,
+                        5.442842
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.3657, 5.4444],
@@ -706,7 +949,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kudadoo Private Island",
-                  "text": "Kudadoo Private Island ist ein exklusives Strandresort nahe Hinnavaru.",
+                  "text": "Kudadoo Private Island ist eine exklusive Resortinsel nahe Hinnavaru mit luxuriösen Villen.",
                   "category": "recreational",
                   "coords": [
                         73.43341,
@@ -717,7 +960,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kudadoo Private Island",
-                  "text": "A Kudadoo Private Island egy exkluzív tengerparti üdülőhely Hinnavaru közelében.",
+                  "text": "A Kudadoo Private Island egy exkluzív üdülősziget Hinnavaru közelében, luxusvillákkal.",
                   "category": "recreational",
                   "coords": [
                         73.43341,
@@ -728,7 +971,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kudadoo Private Island",
-                  "text": "Kudadoo Private Island este o stațiune balneară exclusivistă situată lângă Hinnavaru.",
+                  "text": "Kudadoo Private Island este o insulă resort exclusivistă lângă Hinnavaru, cu vile de lux.",
                   "category": "recreational",
                   "coords": [
                         73.43341,
@@ -739,7 +982,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kudadoo Private Island",
-                  "text": "Kudadoo Private Island is an exclusive beach resort situated near Hinnavaru.",
+                  "text": "Kudadoo Private Island is an exclusive resort island near Hinnavaru with luxury villas.",
                   "category": "recreational",
                   "coords": [
                         73.43341,
@@ -835,7 +1078,124 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-eydhafushi-cities-v2", "sights": {"de": [{"name": "Polla Aquarium", "text": "Polla Aquarium ist ein Aquarium in Eydhafushi.", "category": "family", "coords": [73.071295, 5.101841]}, {"name": "Dolphin Beach", "text": "Dolphin Beach liegt an der malerischen Küste von Eydhafushi auf den Malediven. Die ruhige Atmosphäre lädt Besucher dazu ein, dem Alltag zu entfliehen und die tropische Umgebung zu genießen. Man kann wunderbar im klaren Wasser schwimmen oder einfach entspannte Spaziergänge am Ufer unternehmen. Ein Besuch am frühen Vormittag bietet meist die friedlichste Stimmung.", "category": "recreational", "coords": [73.083317, 5.109316]}, {"name": "Turtle Beach", "text": "An den Ufern von Eydhafushi erstreckt sich der Turtle Beach als typisches Inselparadies der Malediven. Das entspannte Ambiente zieht sowohl Einheimische als auch Reisende an, die die Meeresbrise suchen. Es ist ein hervorragender Ort zum Sonnenbaden und für ruhige Momente am Wasser. Um der großen Mittagshitze auszuweichen, empfiehlt sich ein Aufenthalt am späten Nachmittag.", "category": "recreational", "coords": [73.072545, 5.1161]}], "hu": [{"name": "Polla Aquarium", "text": "A Polla Akvárium egy akvárium Eydhafushi területén.", "category": "family", "coords": [73.071295, 5.101841]}, {"name": "Dolphin Beach", "text": "A Dolphin Beach Eydhafushi festői tengerpartján található a Maldív-szigeteken. A csendes környezet tökéletes lehetőséget nyújt a mindennapokból való kiszakadásra és a trópusi hangulat élvezetére. A látogatók úszhatnak a tiszta vízben, vagy kényelmes sétákat tehetnek a parton. Érdemes a kora délelőtti órákban érkezni a legnyugodtabb élményért.", "category": "recreational", "coords": [73.083317, 5.109316]}, {"name": "Turtle Beach", "text": "Eydhafushi partjainál fekszik a Turtle Beach, amely a Maldív-szigetek tipikus szigeti paradicsoma. A pihentető légkör vonzza a helyieket és az utazókat egyaránt, akik a tengeri szellőre vágynak. Ez egy kiváló hely a napozásra és a vízparti csendes pillanatokra. A nagy déli hőség elkerülése érdekében érdemes a késő délutáni órákat választani.", "category": "recreational", "coords": [73.072545, 5.1161]}], "ro": [{"name": "Polla Aquarium", "text": "Polla Aquarium este un acvariu situat în Eydhafushi.", "category": "family", "coords": [73.071295, 5.101841]}, {"name": "Dolphin Beach", "text": "Dolphin Beach se află pe coasta pitorească din Eydhafushi, în Maldive. Atmosfera liniștită oferă vizitatorilor ocazia de a scăpa de cotidian și de a se bucura de mediul tropical. Vă puteți relaxa înotând în apa limpede sau făcând plimbări reconfortante pe mal. O vizită la primele ore ale dimineții garantează, de obicei, cea mai pașnică stare de spirit.", "category": "recreational", "coords": [73.083317, 5.109316]}, {"name": "Turtle Beach", "text": "Pe țărmurile din Eydhafushi se întinde Turtle Beach, un paradis insular tipic pentru Maldive. Ambianța relaxantă atrage atât localnici, cât și călători care caută briza mării. Este un loc excelent pentru plajă și pentru momente de liniște lângă apă. Pentru a evita căldura intensă a prânzului, o vizită după-amiaza târziu este foarte recomandată.", "category": "recreational", "coords": [73.072545, 5.1161]}], "en": [{"name": "Polla Aquarium", "text": "Polla Aquarium is an aquarium situated in Eydhafushi.", "category": "family", "coords": [73.071295, 5.101841]}, {"name": "Dolphin Beach", "text": "Dolphin Beach is located on the picturesque coast of Eydhafushi in the Maldives. Its quiet atmosphere invites visitors to escape the daily routine and soak in the tropical surroundings. You can enjoy a refreshing swim in the clear water or simply take relaxing walks along the shore. Arriving early in the morning usually provides the most peaceful experience.", "category": "recreational", "coords": [73.083317, 5.109316]}, {"name": "Turtle Beach", "text": "On the shores of Eydhafushi lies Turtle Beach, a typical island paradise in the Maldives. The relaxing ambiance attracts both locals and travelers seeking the ocean breeze. It is an excellent spot for sunbathing and enjoying quiet moments by the water. Visiting in the late afternoon is recommended to avoid the intense midday heat.", "category": "recreational", "coords": [73.072545, 5.1161]}]},
+    id: "mv-eydhafushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium in Eydhafushi ist ein familienfreundliches Aquarium mit einheimischen Meeresbewohnern.",
+                  "category": "family",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach liegt an der malerischen Küste von Eydhafushi auf den Malediven. Die ruhige Atmosphäre lädt Besucher dazu ein, dem Alltag zu entfliehen und die tropische Umgebung zu genießen. Man kann wunderbar im klaren Wasser schwimmen oder einfach entspannte Spaziergänge am Ufer unternehmen. Ein Besuch am frühen Vormittag bietet meist die friedlichste Stimmung.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "An den Ufern von Eydhafushi erstreckt sich der Turtle Beach als typisches Inselparadies der Malediven. Das entspannte Ambiente zieht sowohl Einheimische als auch Reisende an, die die Meeresbrise suchen. Es ist ein hervorragender Ort zum Sonnenbaden und für ruhige Momente am Wasser. Um der großen Mittagshitze auszuweichen, empfiehlt sich ein Aufenthalt am späten Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "A Polla Aquarium Eydhafushiban egy családbarát akvárium helyi tengeri élőlényekkel.",
+                  "category": "family",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "A Dolphin Beach Eydhafushi festői tengerpartján található a Maldív-szigeteken. A csendes környezet tökéletes lehetőséget nyújt a mindennapokból való kiszakadásra és a trópusi hangulat élvezetére. A látogatók úszhatnak a tiszta vízben, vagy kényelmes sétákat tehetnek a parton. Érdemes a kora délelőtti órákban érkezni a legnyugodtabb élményért.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Eydhafushi partjainál fekszik a Turtle Beach, amely a Maldív-szigetek tipikus szigeti paradicsoma. A pihentető légkör vonzza a helyieket és az utazókat egyaránt, akik a tengeri szellőre vágynak. Ez egy kiváló hely a napozásra és a vízparti csendes pillanatokra. A nagy déli hőség elkerülése érdekében érdemes a késő délutáni órákat választani.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium din Eydhafushi este un acvariu prietenos pentru familii, cu viețuitoare marine locale.",
+                  "category": "family",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach se află pe coasta pitorească din Eydhafushi, în Maldive. Atmosfera liniștită oferă vizitatorilor ocazia de a scăpa de cotidian și de a se bucura de mediul tropical. Vă puteți relaxa înotând în apa limpede sau făcând plimbări reconfortante pe mal. O vizită la primele ore ale dimineții garantează, de obicei, cea mai pașnică stare de spirit.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Pe țărmurile din Eydhafushi se întinde Turtle Beach, un paradis insular tipic pentru Maldive. Ambianța relaxantă atrage atât localnici, cât și călători care caută briza mării. Este un loc excelent pentru plajă și pentru momente de liniște lângă apă. Pentru a evita căldura intensă a prânzului, o vizită după-amiaza târziu este foarte recomandată.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium in Eydhafushi is a family-friendly aquarium featuring local marine life.",
+                  "category": "family",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach is located on the picturesque coast of Eydhafushi in the Maldives. Its quiet atmosphere invites visitors to escape the daily routine and soak in the tropical surroundings. You can enjoy a refreshing swim in the clear water or simply take relaxing walks along the shore. Arriving early in the morning usually provides the most peaceful experience.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "On the shores of Eydhafushi lies Turtle Beach, a typical island paradise in the Maldives. The relaxing ambiance attracts both locals and travelers seeking the ocean breeze. It is an excellent spot for sunbathing and enjoying quiet moments by the water. Visiting in the late afternoon is recommended to avoid the intense midday heat.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.0694, 5.1039],
@@ -879,7 +1239,52 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-funadhoo-cities-v2",
+    id: "mv-funadhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid al ghufran",
+                  "text": "Diese Moschee auf Funadhoo ist ein integraler Bestandteil der Inselarchitektur und dient der örtlichen Gemeinschaft als Andachtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        73.289076,
+                        6.15148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid al ghufran",
+                  "text": "Ez a Funadhooban található mecset a szigeti építészet szerves részét képezi, és áhítat helyszíneként szolgál a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.289076,
+                        6.15148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid al ghufran",
+                  "text": "Această moschee de pe Funadhoo este o parte integrantă a arhitecturii insulei și servește drept lăcaș de cult pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.289076,
+                        6.15148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid al ghufran",
+                  "text": "This mosque on Funadhoo is an integral part of the island's architecture and serves as a place of worship for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        73.289076,
+                        6.15148
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.2889, 6.1492],
@@ -1103,7 +1508,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tsunami Binaa",
-                  "text": "Tsunami Binaa ist ein Denkmal in Fonadhoo.",
+                  "text": "Tsunami Binaa in Fonadhoo ist ein Denkmal, das an die Tsunami-Opfer von 2004 erinnert.",
                   "category": "historical",
                   "coords": [
                         73.501408,
@@ -1114,7 +1519,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tsunami Binaa",
-                  "text": "A Tsunami Binaa egy emlékmű Fonadhoo városában.",
+                  "text": "A Tsunami Binaa Fonadhoo-ban egy emlékmű, amely a 2004-es szökőár áldozataira emlékeztet.",
                   "category": "historical",
                   "coords": [
                         73.501408,
@@ -1125,7 +1530,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tsunami Binaa",
-                  "text": "Tsunami Binaa este un monument din Fonadhoo.",
+                  "text": "Tsunami Binaa din Fonadhoo este un monument care comemorează victimele tsunamiului din 2004.",
                   "category": "historical",
                   "coords": [
                         73.501408,
@@ -1136,7 +1541,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tsunami Binaa",
-                  "text": "Tsunami Binaa is a monument located in Fonadhoo.",
+                  "text": "Tsunami Binaa in Fonadhoo is a monument commemorating the victims of the 2004 tsunami.",
                   "category": "historical",
                   "coords": [
                         73.501408,
@@ -1276,7 +1681,88 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-veymandoo-cities-v2",
+    id: "mv-veymandoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Ta'aawun",
+                  "text": "Die Masjid Ta'aawun bietet den Inselbewohnern von Veymandoo einen ruhigen Ort für ihr tägliches muslimisches Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093607,
+                        2.186473
+                  ]
+            },
+            {
+                  "name": "Masjidul-Hidaayah",
+                  "text": "Eine weitere spirituelle Einrichtung auf Veymandoo, deren Architektur sich harmonisch in die maledivische Insellandschaft einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095677,
+                        2.187955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Ta'aawun",
+                  "text": "A Masjid Ta'aawun csendes helyet kínál Veymandoo szigetlakóinak a napi muszlim imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093607,
+                        2.186473
+                  ]
+            },
+            {
+                  "name": "Masjidul-Hidaayah",
+                  "text": "Egy további spirituális intézmény Veymandoo szigetén, melynek építészete harmonikusan illeszkedik a maldív szigetvilágba.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095677,
+                        2.187955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Ta'aawun",
+                  "text": "Masjid Ta'aawun oferă locuitorilor insulei Veymandoo un loc liniștit pentru rugăciunea lor zilnică musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093607,
+                        2.186473
+                  ]
+            },
+            {
+                  "name": "Masjidul-Hidaayah",
+                  "text": "O altă instituție spirituală pe Veymandoo, a cărei arhitectură se integrează armonios în peisajul insular maldivian.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095677,
+                        2.187955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Ta'aawun",
+                  "text": "The Masjid Ta'aawun provides the islanders of Veymandoo with a quiet place for their daily Muslim prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093607,
+                        2.186473
+                  ]
+            },
+            {
+                  "name": "Masjidul-Hidaayah",
+                  "text": "Another spiritual facility on Veymandoo, whose architecture blends harmoniously into the Maldivian island landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095677,
+                        2.187955
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.0950, 2.1878],
@@ -1364,7 +1850,160 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-rasdhoo-cities-v2", "sights": {"de": [{"name": "Banyan Tree Trail", "text": "Der Banyan Tree Trail ist eine Naturattraktion auf Rasdhoo.", "category": "landmark", "coords": [72.983683, 4.259424]}, {"name": "Kuramathi house reef", "text": "Das Kuramathi Hausriff ist eine beliebte Attraktion auf Rasdhoo.", "category": "landmark", "coords": [72.968215, 4.259491]}, {"name": "Rasdhoo Madivaru Corner", "text": "Rasdhoo Madivaru Corner ist eine beliebte Attraktion auf Rasdhoo.", "category": "landmark", "coords": [72.999492, 4.264251]}, {"name": "Bikini Beach", "text": "Auf der Insel Rasdhoo befindet sich der beliebte Bikini Beach, der speziell für internationale Gäste angelegt ist. Hier herrscht oft ein lebendiges Treiben, während Sonnenanbeter die tropische Kulisse der Malediven genießen. Der feine Sand und das warme Wasser machen ihn zum idealen Ort für ausgedehnte Badetage. Sonnenschutz sollte bei einem längeren Aufenthalt am Ufer keinesfalls fehlen.", "category": "landmark", "coords": [72.992116, 4.260936]}], "hu": [{"name": "Banyan Tree Trail", "text": "A Banyan Tree Trail egy természeti látnivaló Rasdhooban.", "category": "landmark", "coords": [72.983683, 4.259424]}, {"name": "Kuramathi house reef", "text": "A Kuramathi házizátony egy népszerű látnivaló Rasdhooban.", "category": "landmark", "coords": [72.968215, 4.259491]}, {"name": "Rasdhoo Madivaru Corner", "text": "A Rasdhoo Madivaru Corner egy népszerű látnivaló Rasdhooban.", "category": "landmark", "coords": [72.999492, 4.264251]}, {"name": "Bikini Beach", "text": "A Rasdhoo szigetén található a népszerű Bikini Beach, amelyet kifejezetten a nemzetközi vendégek számára tartanak fenn. Itt gyakran élénk élet zajlik, miközben a napozók a Maldív-szigetek trópusi kulisszáit élvezik. A finom homok és a meleg víz ideális helyszínné teszi a hosszú fürdőzéshez. A hosszas parti tartózkodás során a megfelelő napvédelemről sosem szabad megfeledkezni.", "category": "landmark", "coords": [72.992116, 4.260936]}], "ro": [{"name": "Banyan Tree Trail", "text": "Banyan Tree Trail este o atracție naturală din Rasdhoo.", "category": "landmark", "coords": [72.983683, 4.259424]}, {"name": "Kuramathi house reef", "text": "Reciful de casă Kuramathi este o atracție populară din Rasdhoo.", "category": "landmark", "coords": [72.968215, 4.259491]}, {"name": "Rasdhoo Madivaru Corner", "text": "Rasdhoo Madivaru Corner este o atracție populară din Rasdhoo.", "category": "landmark", "coords": [72.999492, 4.264251]}, {"name": "Bikini Beach", "text": "Pe insula Rasdhoo se găsește populara Bikini Beach, amenajată special pentru oaspeții internaționali. Aici domnește adesea o forfotă plină de viață, în timp ce iubitorii de soare se bucură de decorul tropical din Maldive. Nisipul fin și apa caldă transformă acest loc într-o destinație ideală pentru zile lungi de înot. Protecția solară este absolut necesară pentru o ședere prelungită pe țărm.", "category": "landmark", "coords": [72.992116, 4.260936]}], "en": [{"name": "Banyan Tree Trail", "text": "The Banyan Tree Trail is a nature attraction in Rasdhoo.", "category": "landmark", "coords": [72.983683, 4.259424]}, {"name": "Kuramathi house reef", "text": "The Kuramathi house reef is a popular attraction in Rasdhoo.", "category": "landmark", "coords": [72.968215, 4.259491]}, {"name": "Rasdhoo Madivaru Corner", "text": "Rasdhoo Madivaru Corner is a popular attraction in Rasdhoo.", "category": "landmark", "coords": [72.999492, 4.264251]}, {"name": "Bikini Beach", "text": "Located on the island of Rasdhoo, the popular Bikini Beach is specially designated for international guests. There is often a lively buzz here as sunbathers enjoy the tropical backdrop of the Maldives. The fine sand and warm water make it an ideal location for long days of swimming. Sun protection is a must for any extended stay on the shore.", "category": "landmark", "coords": [72.992116, 4.260936]}]},
+    id: "mv-rasdhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Banyan Tree Trail in Rasdhoo ist ein Wanderweg durch einen Hain aus Banyanbäumen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Kuramathi house reef ist das hauseigene Riff des Kuramathi Resorts, leicht vom Strand aus zu erreichen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Rasdhoo Madivaru Corner ist ein Tauchplatz an der Südspitze von Madivaru, bekannt für Mantarochen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Auf der Insel Rasdhoo befindet sich der beliebte Bikini Beach, der speziell für internationale Gäste angelegt ist. Hier herrscht oft ein lebendiges Treiben, während Sonnenanbeter die tropische Kulisse der Malediven genießen. Der feine Sand und das warme Wasser machen ihn zum idealen Ort für ausgedehnte Badetage. Sonnenschutz sollte bei einem längeren Aufenthalt am Ufer keinesfalls fehlen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "A Banyan Tree Trail Rasdhoo-ban egy sétaút banyánfák ligetén keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "A Kuramathi house reef a Kuramathi üdülőhely saját zátonya, könnyen elérhető a strandról.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "A Rasdhoo Madivaru Corner egy búvárhely Madivaru déli csücskénél, híres a mantarájairól.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A Rasdhoo szigetén található a népszerű Bikini Beach, amelyet kifejezetten a nemzetközi vendégek számára tartanak fenn. Itt gyakran élénk élet zajlik, miközben a napozók a Maldív-szigetek trópusi kulisszáit élvezik. A finom homok és a meleg víz ideális helyszínné teszi a hosszú fürdőzéshez. A hosszas parti tartózkodás során a megfelelő napvédelemről sosem szabad megfeledkezni.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Banyan Tree Trail din Rasdhoo este un traseu de mers pe jos printr-un crâng de arbori banyan.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Kuramathi house reef este reciful propriu al resortului Kuramathi, ușor accesibil de pe plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Rasdhoo Madivaru Corner este un loc de scufundări la capătul sudic al Madivaru, renumit pentru mante.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Pe insula Rasdhoo se găsește populara Bikini Beach, amenajată special pentru oaspeții internaționali. Aici domnește adesea o forfotă plină de viață, în timp ce iubitorii de soare se bucură de decorul tropical din Maldive. Nisipul fin și apa caldă transformă acest loc într-o destinație ideală pentru zile lungi de înot. Protecția solară este absolut necesară pentru o ședere prelungită pe țărm.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Banyan Tree Trail in Rasdhoo is a walking path through a grove of banyan trees.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Kuramathi house reef is the resort's own reef, easily accessible from the beach.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Rasdhoo Madivaru Corner is a dive site at the southern tip of Madivaru, known for manta rays.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Located on the island of Rasdhoo, the popular Bikini Beach is specially designated for international guests. There is often a lively buzz here as sunbathers enjoy the tropical backdrop of the Maldives. The fine sand and warm water make it an ideal location for long days of swimming. Sun protection is a must for any extended stay on the shore.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [72.9917, 4.2628],
@@ -1540,7 +2179,232 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-maafushi-cities-v2", "sights": {"de": [{"name": "Public beach", "text": "Der öffentliche Strand von Maafushi ist ein zentraler Treffpunkt der Inselgesellschaft auf den Malediven. Hier mischen sich Einheimische und Besucher in einer familiären, authentischen Inselatmosphäre. Das Ufer bietet sich an, um im Meer zu baden oder einfach das bunte Treiben am Wasser zu beobachten. Da es ein öffentlicher Bereich ist, empfiehlt sich ein respektvolles Auftreten hinsichtlich der Kleiderordnung.", "category": "recreational", "coords": [73.493282, 3.94495]}, {"name": "Bikini Beach", "text": "Der bekannte Bikini Beach von Maafushi zählt zu den gefragtesten Stränden für internationale Reisende auf den Malediven. Eine lebhafte und touristisch geprägte Stimmung bestimmt das Bild dieses malerischen Küstenabschnitts. Besucher finden hier perfekte Bedingungen zum Schwimmen, Sonnenbaden und Entspannen unter tropischer Sonne. Wer einen guten Platz nahe am Wasser ergattern möchte, sollte nicht zu spät am Tag eintreffen.", "category": "recreational", "coords": [73.491333, 3.945464]}, {"name": "Water Sports Beach", "text": "Der Water Sports Beach in Maafushi ist der ideale Ausgangspunkt für Aktivitäten auf dem Indischen Ozean. Hier herrscht meist ein dynamisches Ambiente, geprägt von denjenigen, die das Meer aktiv erleben möchten. Der Strandabschnitt lädt dazu ein, sich in die Fluten zu stürzen oder das muntere Geschehen auf dem Wasser vom Sand aus zu verfolgen. Für actionreiche Tage am Meer ist dieser Ort die beste Wahl.", "category": "recreational", "coords": [73.490057, 3.944429]}, {"name": "Maafushi Thila", "text": "Maafushi Thila ist eine Sehenswürdigkeit in Maafushi.", "category": "landmark", "coords": [73.493256, 3.958439]}, {"name": "Coral snorkling", "text": "Coral Snorkling ist eine Wasserattraktion in Maafushi.", "category": "landmark", "coords": [73.472967, 3.933072]}, {"name": "Sandbank lunch", "text": "Sandbank Lunch ist ein Erlebnis und eine Attraktion in Maafushi.", "category": "landmark", "coords": [73.477286, 3.921223]}], "hu": [{"name": "Public beach", "text": "A maafushii nyilvános strand a szigeti közösség központi találkozóhelye a Maldív-szigeteken. Itt a helyiek és a látogatók egy családias, autentikus szigeti hangulatban keverednek. A part nagyszerű lehetőséget kínál a tengeri fürdőzésre vagy egyszerűen csak a vízparti forgatag megfigyelésére. Mivel ez egy nyilvános terület, ajánlott a helyi öltözködési szokásokat tiszteletben tartó megjelenés.", "category": "recreational", "coords": [73.493282, 3.94495]}, {"name": "Bikini Beach", "text": "A híres maafushii Bikini Beach a nemzetközi utazók egyik legkeresettebb strandja a Maldív-szigeteken. Ennek a festői partszakasznak a képét az élénk és turisztikai fókuszú hangulat határozza meg. A látogatók tökéletes feltételeket találnak itt az úszáshoz, a napozáshoz és a trópusi nap alatti pihenéshez. Aki jó helyet szeretne magának a víz közelében, annak nem szabad túl későn érkeznie.", "category": "recreational", "coords": [73.491333, 3.945464]}, {"name": "Water Sports Beach", "text": "A maafushii Water Sports Beach ideális kiindulópont az Indiai-óceánon zajló tevékenységekhez. Itt többnyire dinamikus légkör uralkodik, amelyet azok alakítanak, akik aktívan szeretnék megtapasztalni a tengert. A partszakasz hívogató, hogy a hullámokba vessük magunkat, vagy a homokból figyeljük a vízi eseményeket. Az akciódús tengerparti napokhoz ez a hely a legjobb választás.", "category": "recreational", "coords": [73.490057, 3.944429]}, {"name": "Maafushi Thila", "text": "A Maafushi Thila egy látnivaló Maafushiban.", "category": "landmark", "coords": [73.493256, 3.958439]}, {"name": "Coral snorkling", "text": "A Coral snorkling egy vízi látványosság Maafushi területén.", "category": "landmark", "coords": [73.472967, 3.933072]}, {"name": "Sandbank lunch", "text": "A Sandbank lunch egy turisztikai élmény Maafushiban.", "category": "landmark", "coords": [73.477286, 3.921223]}], "ro": [{"name": "Public beach", "text": "Plaja publică din Maafushi este un punct central de întâlnire al comunității insulare din Maldive. Aici, localnicii și vizitatorii se amestecă într-o atmosferă familială și autentică. Țărmul este ideal pentru a face o baie în mare sau pur și simplu pentru a privi forfota de pe malul apei. Fiind o zonă publică, se recomandă o ținută respectuoasă, adecvată normelor locale.", "category": "recreational", "coords": [73.493282, 3.94495]}, {"name": "Bikini Beach", "text": "Renumita Bikini Beach din Maafushi este una dintre cele mai căutate plaje pentru călătorii internaționali din Maldive. O atmosferă plină de viață și orientată spre turism definește acest segment pitoresc de coastă. Vizitatorii găsesc aici condiții perfecte pentru a înota, a se bronza și a se relaxa sub soarele tropical. Cei care doresc să prindă un loc bun aproape de apă nu ar trebui să ajungă prea târziu în timpul zilei.", "category": "recreational", "coords": [73.491333, 3.945464]}, {"name": "Water Sports Beach", "text": "Water Sports Beach din Maafushi este punctul de plecare ideal pentru activități pe Oceanul Indian. Aici se simte de obicei o ambianță dinamică, dominată de cei care doresc să experimenteze marea în mod activ. Segmentul de plajă invită la sărituri în valuri sau la urmărirea evenimentelor animate de pe apă direct de pe nisip. Pentru zile pline de acțiune la mare, acest loc este cea mai bună alegere.", "category": "recreational", "coords": [73.490057, 3.944429]}, {"name": "Maafushi Thila", "text": "Maafushi Thila este o atracție din Maafushi.", "category": "landmark", "coords": [73.493256, 3.958439]}, {"name": "Coral snorkling", "text": "Snorkeling-ul printre corali este o atracție acvatică în Maafushi.", "category": "landmark", "coords": [73.472967, 3.933072]}, {"name": "Sandbank lunch", "text": "Prânzul pe bancul de nisip este o atracție turistică în Maafushi.", "category": "landmark", "coords": [73.477286, 3.921223]}], "en": [{"name": "Public beach", "text": "The public beach in Maafushi serves as a central gathering point for the island community in the Maldives. Here, locals and visitors mingle in a family-friendly, authentic island atmosphere. The shore is great for taking a dip in the sea or simply watching the colorful activity by the water. Since it is a public area, dressing respectfully according to local norms is highly recommended.", "category": "recreational", "coords": [73.493282, 3.94495]}, {"name": "Bikini Beach", "text": "The well-known Bikini Beach in Maafushi is among the most sought-after beaches for international travelers in the Maldives. A lively and tourist-focused vibe defines this picturesque stretch of coastline. Visitors will find perfect conditions for swimming, sunbathing, and relaxing under the tropical sun. Those wanting to grab a prime spot near the water shouldn't arrive too late in the day.", "category": "recreational", "coords": [73.491333, 3.945464]}, {"name": "Water Sports Beach", "text": "The Water Sports Beach in Maafushi is the ideal starting point for activities on the Indian Ocean. A dynamic ambiance usually prevails here, shaped by those looking to experience the sea actively. The beach area invites you to plunge into the waves or watch the lively events on the water right from the sand. For action-packed days by the sea, this spot is the perfect choice.", "category": "recreational", "coords": [73.490057, 3.944429]}, {"name": "Maafushi Thila", "text": "Maafushi Thila is an attraction located in Maafushi.", "category": "landmark", "coords": [73.493256, 3.958439]}, {"name": "Coral snorkling", "text": "Coral snorkling is a water-based attraction in Maafushi.", "category": "landmark", "coords": [73.472967, 3.933072]}, {"name": "Sandbank lunch", "text": "Sandbank lunch is an experience and attraction in Maafushi.", "category": "landmark", "coords": [73.477286, 3.921223]}]},
+    id: "mv-maafushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Public beach",
+                  "text": "Der öffentliche Strand von Maafushi ist ein zentraler Treffpunkt der Inselgesellschaft auf den Malediven. Hier mischen sich Einheimische und Besucher in einer familiären, authentischen Inselatmosphäre. Das Ufer bietet sich an, um im Meer zu baden oder einfach das bunte Treiben am Wasser zu beobachten. Da es ein öffentlicher Bereich ist, empfiehlt sich ein respektvolles Auftreten hinsichtlich der Kleiderordnung.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Der bekannte Bikini Beach von Maafushi zählt zu den gefragtesten Stränden für internationale Reisende auf den Malediven. Eine lebhafte und touristisch geprägte Stimmung bestimmt das Bild dieses malerischen Küstenabschnitts. Besucher finden hier perfekte Bedingungen zum Schwimmen, Sonnenbaden und Entspannen unter tropischer Sonne. Wer einen guten Platz nahe am Wasser ergattern möchte, sollte nicht zu spät am Tag eintreffen.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Der Water Sports Beach in Maafushi ist der ideale Ausgangspunkt für Aktivitäten auf dem Indischen Ozean. Hier herrscht meist ein dynamisches Ambiente, geprägt von denjenigen, die das Meer aktiv erleben möchten. Der Strandabschnitt lädt dazu ein, sich in die Fluten zu stürzen oder das muntere Geschehen auf dem Wasser vom Sand aus zu verfolgen. Für actionreiche Tage am Meer ist dieser Ort die beste Wahl.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila ist ein unterseeischer Felsvorsprung vor Maafushi, ideal zum Tauchen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling ist ein Schnorchelplatz am Hausriff von Maafushi mit vielen Korallen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch ist eine Sandbank vor Maafushi, die für Picknick-Mittagessen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Public beach",
+                  "text": "A maafushii nyilvános strand a szigeti közösség központi találkozóhelye a Maldív-szigeteken. Itt a helyiek és a látogatók egy családias, autentikus szigeti hangulatban keverednek. A part nagyszerű lehetőséget kínál a tengeri fürdőzésre vagy egyszerűen csak a vízparti forgatag megfigyelésére. Mivel ez egy nyilvános terület, ajánlott a helyi öltözködési szokásokat tiszteletben tartó megjelenés.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A híres maafushii Bikini Beach a nemzetközi utazók egyik legkeresettebb strandja a Maldív-szigeteken. Ennek a festői partszakasznak a képét az élénk és turisztikai fókuszú hangulat határozza meg. A látogatók tökéletes feltételeket találnak itt az úszáshoz, a napozáshoz és a trópusi nap alatti pihenéshez. Aki jó helyet szeretne magának a víz közelében, annak nem szabad túl későn érkeznie.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "A maafushii Water Sports Beach ideális kiindulópont az Indiai-óceánon zajló tevékenységekhez. Itt többnyire dinamikus légkör uralkodik, amelyet azok alakítanak, akik aktívan szeretnék megtapasztalni a tengert. A partszakasz hívogató, hogy a hullámokba vessük magunkat, vagy a homokból figyeljük a vízi eseményeket. Az akciódús tengerparti napokhoz ez a hely a legjobb választás.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "A Maafushi Thila egy víz alatti sziklakiemelkedés Maafushi partjainál, kiváló búvárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "A Coral snorkling egy búvárhely Maafushi házi zátonyánál, sok korallal.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "A Sandbank lunch egy homokpad Maafushi partjainál, amelyet piknik ebédekhez használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Public beach",
+                  "text": "Plaja publică din Maafushi este un punct central de întâlnire al comunității insulare din Maldive. Aici, localnicii și vizitatorii se amestecă într-o atmosferă familială și autentică. Țărmul este ideal pentru a face o baie în mare sau pur și simplu pentru a privi forfota de pe malul apei. Fiind o zonă publică, se recomandă o ținută respectuoasă, adecvată normelor locale.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Renumita Bikini Beach din Maafushi este una dintre cele mai căutate plaje pentru călătorii internaționali din Maldive. O atmosferă plină de viață și orientată spre turism definește acest segment pitoresc de coastă. Vizitatorii găsesc aici condiții perfecte pentru a înota, a se bronza și a se relaxa sub soarele tropical. Cei care doresc să prindă un loc bun aproape de apă nu ar trebui să ajungă prea târziu în timpul zilei.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Water Sports Beach din Maafushi este punctul de plecare ideal pentru activități pe Oceanul Indian. Aici se simte de obicei o ambianță dinamică, dominată de cei care doresc să experimenteze marea în mod activ. Segmentul de plajă invită la sărituri în valuri sau la urmărirea evenimentelor animate de pe apă direct de pe nisip. Pentru zile pline de acțiune la mare, acest loc este cea mai bună alegere.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila este o creastă subacvatică în largul Maafushi, ideală pentru scufundări.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling este un loc de snorkelling la reciful din fața plajei Maafushi, cu mulți corali.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch este un banc de nisip în largul Maafushi, folosit pentru prânzuri picnic.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Public beach",
+                  "text": "The public beach in Maafushi serves as a central gathering point for the island community in the Maldives. Here, locals and visitors mingle in a family-friendly, authentic island atmosphere. The shore is great for taking a dip in the sea or simply watching the colorful activity by the water. Since it is a public area, dressing respectfully according to local norms is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "The well-known Bikini Beach in Maafushi is among the most sought-after beaches for international travelers in the Maldives. A lively and tourist-focused vibe defines this picturesque stretch of coastline. Visitors will find perfect conditions for swimming, sunbathing, and relaxing under the tropical sun. Those wanting to grab a prime spot near the water shouldn't arrive too late in the day.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "The Water Sports Beach in Maafushi is the ideal starting point for activities on the Indian Ocean. A dynamic ambiance usually prevails here, shaped by those looking to experience the sea actively. The beach area invites you to plunge into the waves or watch the lively events on the water right from the sand. For action-packed days by the sea, this spot is the perfect choice.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila is an underwater pinnacle off Maafushi, ideal for diving.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling is a snorkelling spot at Maafushi's house reef with abundant corals.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch is a sandbank off Maafushi used for picnic lunches.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.4897, 3.9397],
@@ -1628,7 +2492,736 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-guraidhoo-cities-v2", "sights": {"de": [{"name": "Sihkko Beach", "text": "Sihkko Beach ist ein wunderschöner Küstenabschnitt auf Guraidhoo, der die tropische Schönheit der Malediven einfängt. Die entspannte Stimmung zieht Strandliebhaber an, die sich nach ein wenig Frieden und Meeresrauschen sehnen. Der weiche Sand und das flache Ufer bieten wunderbare Gelegenheiten für gemütliches Schwimmen und Sonnenbaden. Wer einen Platz im Halbschatten sucht, sollte rechtzeitig am Ufer eintreffen.", "category": "recreational", "coords": [73.469074, 3.900413]}, {"name": "Chow Beach", "text": "Auf Guraidhoo findet sich der unaufgeregte Chow Beach, direkt am türkisfarbenen Wasser gelegen. Diese ruhigere Ecke der Insel verströmt ein charmantes, lokales Flair. Hier kann man dem sanften Wellenschlag lauschen oder das klare Wasser bei einem erfrischenden Bad genießen. Es lohnt sich, etwas Proviant und ausreichend Trinkwasser für den Strandtag mitzubringen.", "category": "recreational", "coords": [73.465893, 3.901139]}, {"name": "K.Guraidhoo beach", "text": "Der K.Guraidhoo Beach bildet einen beliebten Anlaufpunkt an der weiten Küste der Insel. Eine unbeschwerte Atmosphäre macht diesen Strandabschnitt bei verschiedenen Besuchern sehr geschätzt. Die Kulisse ist perfekt für ausgedehnte Badegänge und entspannte Nachmittage im warmen Sand. Wer gerne Muscheln sucht oder am Flutsaum spaziert, wird hier seine Freude haben.", "category": "recreational", "coords": [73.470404, 3.90213]}, {"name": "Bikini Beach", "text": "Bikini Beach auf Guraidhoo ist ein ausgewiesener Bereich, in dem internationale Gäste die Freuden der Malediven unbeschwert auskosten können. Die fröhliche und sonnige Stimmung zieht viele Besucher an das Ufer dieses beliebten Strandes. Das Schwimmen im badewannenwarmen Wasser gehört hier ebenso zum Programm wie ausgiebiges Relaxen. Ein Besuch am Vormittag sichert oft die besten Plätze auf dem hellen Sand.", "category": "recreational", "coords": [73.470118, 3.897307]}, {"name": "Naanu Beach", "text": "Versteckt an der Küste von Guraidhoo liegt der Naanu Beach, ein beschauliches Fleckchen Erde. Der Strand zeichnet sich durch seine friedliche Umgebung aus, ideal für alle, die dem Alltag entfliehen wollen. Er bietet eine wunderbare Möglichkeit, in der Stille zu schwimmen oder einfach die maledivische Natur auf sich wirken zu lassen. In den Abendstunden wird der Strand zu einem perfekten Ort, um den Tag entspannt ausklingen zu lassen.", "category": "recreational", "coords": [73.468763, 3.903558]}, {"name": "South Beach", "text": "Im südlichen Bereich von Guraidhoo erwartet der South Beach seine Besucher mit einer malerischen Meereskulisse. Das sanfte Meeresrauschen sorgt für ein tiefenentspanntes Inselerlebnis der besonderen Art. Neben einem erfrischenden Bad im Ozean lädt der flache Sandstrand zum Ausruhen unter der Sonne ein. Wer sich gerne am Wasser bewegt, findet hier ideale Bedingungen für ausgedehnte Spaziergänge.", "category": "recreational", "coords": [73.473134, 3.901342]}, {"name": "West Beach", "text": "An der westlichen Küstenlinie von Guraidhoo liegt der West Beach, der einen weiten Blick auf den Horizont freigibt. Diese entspannte Seite der Insel wird besonders von jenen geschätzt, die Ruhe und Naturverbundenheit suchen. Das Ufer ist gut geeignet für ein kurzes Schwimmvergnügen und um dem Meereswind zu lauschen. Besonders am späten Nachmittag lassen sich hier wunderschöne Stimmungen einfangen.", "category": "recreational", "coords": [73.472203, 3.90366]}, {"name": "Kandoma Corner", "text": "Kandoma Corner ist eine beliebte Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.476225, 3.904682]}, {"name": "Guradoo Kuda Kandu", "text": "Guradoo Kuda Kandu ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.469403, 3.894661]}, {"name": "Kandoma Beru", "text": "Kandoma Beru ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.473792, 3.899039]}, {"name": "Guradoo South", "text": "Guradoo South ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.467287, 3.889913]}, {"name": "Guradoo North", "text": "Guradoo North ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.468134, 3.891865]}, {"name": "Biyadoo Kuda Giri", "text": "Biyadoo Kuda Giri ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.448786, 3.906479]}, {"name": "Banner Reef", "text": "Banner Reef ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.46935, 3.893078]}, {"name": "Emmadi Giri (Manta Point)", "text": "Emmadi Giri (Manta Point) ist eine bekannte Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.456299, 3.895817]}, {"name": "Guradoo South Outside", "text": "Guradoo South Outside ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.467558, 3.879147]}, {"name": "Cocoa Tila", "text": "Cocoa Tila ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.478393, 3.906159]}, {"name": "Cocoa Corner", "text": "Cocoa Corner ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.481063, 3.909867]}, {"name": "Guraidhoo Channel", "text": "Der Guraidhoo Kanal ist eine Attraktion bei Guraidhoo.", "category": "landmark", "coords": [73.463521, 3.896088]}, {"name": "Sandbank lunch", "text": "Sandbank lunch ist ein beliebtes Erlebnis bei Guraidhoo.", "category": "landmark", "coords": [73.477286, 3.921223]}], "hu": [{"name": "Sihkko Beach", "text": "A Sihkko Beach egy gyönyörű partszakasz Guraidhoon, amely megragadja a Maldív-szigetek trópusi szépségét. A nyugodt hangulat vonzza a part szerelmeseit, akik egy kis békére és a tenger zúgására vágynak. A puha homok és a sekély part csodálatos lehetőséget kínál a kényelmes úszásra és napozásra. Aki félárnyékos helyet keres, annak érdemes időben érkeznie a partra.", "category": "recreational", "coords": [73.469074, 3.900413]}, {"name": "Chow Beach", "text": "Guraidhoo szigetén található a nyugodt Chow Beach, közvetlenül a türkizkék víz partján. A sziget ezen csendesebb sarka bájos, helyi hangulatot áraszt. Itt hallgathatjuk a szelíd hullámverést, vagy élvezhetjük a tiszta vizet egy frissítő fürdőzés során. Érdemes némi elemózsiát és elegendő ivóvizet hozni a tengerparti napra.", "category": "recreational", "coords": [73.465893, 3.901139]}, {"name": "K.Guraidhoo beach", "text": "A K.Guraidhoo Beach népszerű célpont a sziget kiterjedt partvonalán. A gondtalan légkör miatt ez a partszakasz nagyon kedvelt a különféle látogatók körében. A kulissza tökéletes a hosszú fürdőzésekhez és a meleg homokban töltött pihentető délutánokhoz. Aki szeret kagylókat keresni vagy a vízparton sétálni, az itt biztosan örömét leli majd.", "category": "recreational", "coords": [73.470404, 3.90213]}, {"name": "Bikini Beach", "text": "A guraidhooi Bikini Beach egy kijelölt terület, ahol a nemzetközi vendégek felhőtlenül élvezhetik a Maldív-szigetek örömeit. A vidám és napos hangulat sok látogatót vonz ennek a népszerű strandnak a partjára. A fürdőkád melegségű vízben való úszás éppúgy a program része, mint a hosszas pihenés. A délelőtti látogatás gyakran biztosítja a legjobb helyeket a világos homokon.", "category": "recreational", "coords": [73.470118, 3.897307]}, {"name": "Naanu Beach", "text": "Guraidhoo partján bújik meg a Naanu Beach, egy békés kis földi paradicsom. A strandot a békés környezet jellemzi, amely ideális mindazok számára, akik szeretnének elmenekülni a hétköznapokból. Csodálatos lehetőséget kínál arra, hogy a csendben ússzunk, vagy egyszerűen csak hagyjuk, hogy a maldív természet hasson ránk. Az esti órákban a strand tökéletes hellyé válik a nap nyugodt lezárásához.", "category": "recreational", "coords": [73.468763, 3.903558]}, {"name": "South Beach", "text": "Guraidhoo déli részén a South Beach festői tengeri kulisszával várja látogatóit. A tenger lágy zúgása különlegesen mély, pihentető szigeti élményt nyújt. Az óceánban vett frissítő fürdőzés mellett a lapos homokos strand napozásra és pihenésre csábít. Aki szívesen mozog a vízparton, itt ideális feltételeket talál a hosszú sétákhoz.", "category": "recreational", "coords": [73.473134, 3.901342]}, {"name": "West Beach", "text": "Guraidhoo nyugati partvonalán található a West Beach, amely széles kilátást nyújt a horizontra. A szigetnek ezt a nyugodt oldalát különösen azok értékelik, akik csendre és a természet közelségére vágynak. A part kiválóan alkalmas egy rövid úszás nyújtotta örömre és a tengeri szél hallgatására. Különösen a késő délutáni órákban lehet itt gyönyörű hangulatokat megörökíteni.", "category": "recreational", "coords": [73.472203, 3.90366]}, {"name": "Kandoma Corner", "text": "A Kandoma Corner egy népszerű látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.476225, 3.904682]}, {"name": "Guradoo Kuda Kandu", "text": "A Guradoo Kuda Kandu egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.469403, 3.894661]}, {"name": "Kandoma Beru", "text": "A Kandoma Beru egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.473792, 3.899039]}, {"name": "Guradoo South", "text": "A Guradoo South egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.467287, 3.889913]}, {"name": "Guradoo North", "text": "A Guradoo North egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.468134, 3.891865]}, {"name": "Biyadoo Kuda Giri", "text": "A Biyadoo Kuda Giri egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.448786, 3.906479]}, {"name": "Banner Reef", "text": "A Banner Reef egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.46935, 3.893078]}, {"name": "Emmadi Giri (Manta Point)", "text": "Az Emmadi Giri (Manta Point) egy ismert látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.456299, 3.895817]}, {"name": "Guradoo South Outside", "text": "A Guradoo South Outside egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.467558, 3.879147]}, {"name": "Cocoa Tila", "text": "A Cocoa Tila egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.478393, 3.906159]}, {"name": "Cocoa Corner", "text": "A Cocoa Corner egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.481063, 3.909867]}, {"name": "Guraidhoo Channel", "text": "A Guraidhoo-csatorna egy látnivaló Guraidhoo közelében.", "category": "landmark", "coords": [73.463521, 3.896088]}, {"name": "Sandbank lunch", "text": "A Sandbank lunch egy népszerű élmény Guraidhoo közelében.", "category": "landmark", "coords": [73.477286, 3.921223]}], "ro": [{"name": "Sihkko Beach", "text": "Sihkko Beach este o porțiune de coastă superbă de pe Guraidhoo, care surprinde frumusețea tropicală a insulelor Maldive. Atmosfera relaxată atrage iubitorii de plajă care tânjesc după puțină pace și sunetul valurilor. Nisipul moale și țărmul puțin adânc oferă oportunități minunate pentru înotul pe îndelete și pentru plajă. Cei care caută un loc cu penumbră ar trebui să ajungă din timp la mal.", "category": "recreational", "coords": [73.469074, 3.900413]}, {"name": "Chow Beach", "text": "Pe Guraidhoo se află liniștita Chow Beach, situată direct pe malul apelor turcoaz. Acest colț mai tăcut al insulei emană un farmec local aparte. Aici puteți asculta legănatul blând al valurilor sau vă puteți bucura de apa limpede cu o baie răcoritoare. Merită să aduceți câteva gustări și apă potabilă suficientă pentru ziua la plajă.", "category": "recreational", "coords": [73.465893, 3.901139]}, {"name": "K.Guraidhoo beach", "text": "K.Guraidhoo Beach constituie o atracție populară pe coasta largă a insulei. O atmosferă lipsită de griji face ca acest segment de plajă să fie foarte apreciat de o varietate de vizitatori. Decorul este perfect pentru băi lungi și după-amiezi relaxante pe nisipul cald. Cei cărora le place să caute scoici sau să se plimbe la linia apei se vor bucura cu siguranță aici.", "category": "recreational", "coords": [73.470404, 3.90213]}, {"name": "Bikini Beach", "text": "Bikini Beach din Guraidhoo este o zonă desemnată unde oaspeții internaționali pot savura fără griji deliciile din Maldive. Atmosfera veselă și însorită atrage mulți vizitatori pe țărmul acestei plaje populare. Înotul în apa caldă ca de baie face parte din program la fel de mult ca și relaxarea profundă. O vizită dimineața asigură adesea cele mai bune locuri pe nisipul luminos.", "category": "recreational", "coords": [73.470118, 3.897307]}, {"name": "Naanu Beach", "text": "Ascunsă pe coasta din Guraidhoo se află Naanu Beach, un colț de pământ plin de tihnă. Plaja se caracterizează prin mediul său pașnic, ideal pentru oricine dorește să evadeze din rutina zilnică. Oferă o oportunitate minunată de a înota în liniște sau pur și simplu de a absorbi natura maldiviană. În orele serii, plaja devine un loc perfect pentru a încheia ziua într-un mod relaxant.", "category": "recreational", "coords": [73.468763, 3.903558]}, {"name": "South Beach", "text": "În zona sudică din Guraidhoo, South Beach își așteaptă vizitatorii cu un peisaj marin pitoresc. Murmurul blând al mării asigură o experiență insulară profund relaxantă, cu totul specială. Pe lângă o baie răcoritoare în ocean, plaja plată de nisip invită la odihnă sub soare. Cei cărora le place să facă mișcare la marginea apei vor găsi aici condiții ideale pentru plimbări lungi.", "category": "recreational", "coords": [73.473134, 3.901342]}, {"name": "West Beach", "text": "Pe coasta de vest a insulei Guraidhoo se află West Beach, care deschide o vedere largă spre orizont. Această latură relaxată a insulei este apreciată în special de cei care caută liniște și o conexiune cu natura. Țărmul este potrivit pentru o scurtă repriză de înot și pentru a asculta vântul mării. Mai ales după-amiaza târziu se pot surprinde aici atmosfere cu adevărat frumoase.", "category": "recreational", "coords": [73.472203, 3.90366]}, {"name": "Kandoma Corner", "text": "Kandoma Corner este o atracție populară lângă Guraidhoo.", "category": "landmark", "coords": [73.476225, 3.904682]}, {"name": "Guradoo Kuda Kandu", "text": "Guradoo Kuda Kandu este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.469403, 3.894661]}, {"name": "Kandoma Beru", "text": "Kandoma Beru este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.473792, 3.899039]}, {"name": "Guradoo South", "text": "Guradoo South este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.467287, 3.889913]}, {"name": "Guradoo North", "text": "Guradoo North este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.468134, 3.891865]}, {"name": "Biyadoo Kuda Giri", "text": "Biyadoo Kuda Giri este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.448786, 3.906479]}, {"name": "Banner Reef", "text": "Banner Reef este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.46935, 3.893078]}, {"name": "Emmadi Giri (Manta Point)", "text": "Emmadi Giri (Manta Point) este o atracție cunoscută lângă Guraidhoo.", "category": "landmark", "coords": [73.456299, 3.895817]}, {"name": "Guradoo South Outside", "text": "Guradoo South Outside este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.467558, 3.879147]}, {"name": "Cocoa Tila", "text": "Cocoa Tila este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.478393, 3.906159]}, {"name": "Cocoa Corner", "text": "Cocoa Corner este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.481063, 3.909867]}, {"name": "Guraidhoo Channel", "text": "Canalul Guraidhoo este o atracție lângă Guraidhoo.", "category": "landmark", "coords": [73.463521, 3.896088]}, {"name": "Sandbank lunch", "text": "Sandbank lunch este o experiență populară lângă Guraidhoo.", "category": "landmark", "coords": [73.477286, 3.921223]}], "en": [{"name": "Sihkko Beach", "text": "Sihkko Beach is a beautiful stretch of coastline on Guraidhoo that captures the tropical beauty of the Maldives. Its relaxed vibe attracts beach lovers yearning for a bit of peace and the sound of the ocean. The soft sand and shallow shore offer wonderful opportunities for leisurely swimming and sunbathing. Arriving early is recommended if you are looking for a spot in partial shade.", "category": "recreational", "coords": [73.469074, 3.900413]}, {"name": "Chow Beach", "text": "Located on Guraidhoo, the tranquil Chow Beach sits right by the turquoise waters. This quieter corner of the island exudes a charming, local flair. Here you can listen to the gentle lapping of the waves or enjoy the clear water with a refreshing swim. It is well worth bringing some snacks and plenty of drinking water for your day at the beach.", "category": "recreational", "coords": [73.465893, 3.901139]}, {"name": "K.Guraidhoo beach", "text": "K.Guraidhoo Beach is a popular focal point along the island's expansive coastline. A carefree atmosphere makes this stretch of beach highly appreciated by a variety of visitors. The setting is perfect for long swims and relaxing afternoons lounging in the warm sand. Those who enjoy looking for shells or strolling along the tide line will find much joy here.", "category": "recreational", "coords": [73.470404, 3.90213]}, {"name": "Bikini Beach", "text": "Bikini Beach on Guraidhoo is a designated area where international guests can carefree enjoy the delights of the Maldives. The cheerful and sunny mood draws many visitors to the shores of this popular beach. Swimming in the bath-warm water is just as much on the agenda here as extensive relaxing. A visit in the morning often secures the best spots on the bright sand.", "category": "recreational", "coords": [73.470118, 3.897307]}, {"name": "Naanu Beach", "text": "Tucked away on the coast of Guraidhoo is Naanu Beach, a tranquil little spot of earth. The beach is characterized by its peaceful environment, ideal for anyone looking to escape the everyday. It offers a wonderful opportunity to swim in silence or simply let the Maldivian nature wash over you. In the evening hours, the beach becomes a perfect place to wind down the day in a relaxed manner.", "category": "recreational", "coords": [73.468763, 3.903558]}, {"name": "South Beach", "text": "In the southern part of Guraidhoo, South Beach awaits its visitors with a picturesque seascape. The gentle murmur of the sea ensures a deeply relaxing island experience of a special kind. Alongside a refreshing swim in the ocean, the flat sandy beach invites you to rest under the sun. Those who like to be active by the water will find ideal conditions for long walks here.", "category": "recreational", "coords": [73.473134, 3.901342]}, {"name": "West Beach", "text": "Situated on the western coastline of Guraidhoo is West Beach, offering a sweeping view of the horizon. This relaxed side of the island is particularly appreciated by those seeking quiet and a connection with nature. The shore is well-suited for a short swimming session and listening to the ocean breeze. Beautiful atmospheric moments can be captured here, especially in the late afternoon.", "category": "recreational", "coords": [73.472203, 3.90366]}, {"name": "Kandoma Corner", "text": "Kandoma Corner is a popular attraction near Guraidhoo.", "category": "landmark", "coords": [73.476225, 3.904682]}, {"name": "Guradoo Kuda Kandu", "text": "Guradoo Kuda Kandu is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.469403, 3.894661]}, {"name": "Kandoma Beru", "text": "Kandoma Beru is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.473792, 3.899039]}, {"name": "Guradoo South", "text": "Guradoo South is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.467287, 3.889913]}, {"name": "Guradoo North", "text": "Guradoo North is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.468134, 3.891865]}, {"name": "Biyadoo Kuda Giri", "text": "Biyadoo Kuda Giri is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.448786, 3.906479]}, {"name": "Banner Reef", "text": "Banner Reef is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.46935, 3.893078]}, {"name": "Emmadi Giri (Manta Point)", "text": "Emmadi Giri (Manta Point) is a known attraction near Guraidhoo.", "category": "landmark", "coords": [73.456299, 3.895817]}, {"name": "Guradoo South Outside", "text": "Guradoo South Outside is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.467558, 3.879147]}, {"name": "Cocoa Tila", "text": "Cocoa Tila is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.478393, 3.906159]}, {"name": "Cocoa Corner", "text": "Cocoa Corner is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.481063, 3.909867]}, {"name": "Guraidhoo Channel", "text": "The Guraidhoo Channel is an attraction near Guraidhoo.", "category": "landmark", "coords": [73.463521, 3.896088]}, {"name": "Sandbank lunch", "text": "Sandbank lunch is a popular experience near Guraidhoo.", "category": "landmark", "coords": [73.477286, 3.921223]}]},
+    id: "mv-guraidhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach ist ein wunderschöner Küstenabschnitt auf Guraidhoo, der die tropische Schönheit der Malediven einfängt. Die entspannte Stimmung zieht Strandliebhaber an, die sich nach ein wenig Frieden und Meeresrauschen sehnen. Der weiche Sand und das flache Ufer bieten wunderbare Gelegenheiten für gemütliches Schwimmen und Sonnenbaden. Wer einen Platz im Halbschatten sucht, sollte rechtzeitig am Ufer eintreffen.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Auf Guraidhoo findet sich der unaufgeregte Chow Beach, direkt am türkisfarbenen Wasser gelegen. Diese ruhigere Ecke der Insel verströmt ein charmantes, lokales Flair. Hier kann man dem sanften Wellenschlag lauschen oder das klare Wasser bei einem erfrischenden Bad genießen. Es lohnt sich, etwas Proviant und ausreichend Trinkwasser für den Strandtag mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "Der K.Guraidhoo Beach bildet einen beliebten Anlaufpunkt an der weiten Küste der Insel. Eine unbeschwerte Atmosphäre macht diesen Strandabschnitt bei verschiedenen Besuchern sehr geschätzt. Die Kulisse ist perfekt für ausgedehnte Badegänge und entspannte Nachmittage im warmen Sand. Wer gerne Muscheln sucht oder am Flutsaum spaziert, wird hier seine Freude haben.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach auf Guraidhoo ist ein ausgewiesener Bereich, in dem internationale Gäste die Freuden der Malediven unbeschwert auskosten können. Die fröhliche und sonnige Stimmung zieht viele Besucher an das Ufer dieses beliebten Strandes. Das Schwimmen im badewannenwarmen Wasser gehört hier ebenso zum Programm wie ausgiebiges Relaxen. Ein Besuch am Vormittag sichert oft die besten Plätze auf dem hellen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Versteckt an der Küste von Guraidhoo liegt der Naanu Beach, ein beschauliches Fleckchen Erde. Der Strand zeichnet sich durch seine friedliche Umgebung aus, ideal für alle, die dem Alltag entfliehen wollen. Er bietet eine wunderbare Möglichkeit, in der Stille zu schwimmen oder einfach die maledivische Natur auf sich wirken zu lassen. In den Abendstunden wird der Strand zu einem perfekten Ort, um den Tag entspannt ausklingen zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Im südlichen Bereich von Guraidhoo erwartet der South Beach seine Besucher mit einer malerischen Meereskulisse. Das sanfte Meeresrauschen sorgt für ein tiefenentspanntes Inselerlebnis der besonderen Art. Neben einem erfrischenden Bad im Ozean lädt der flache Sandstrand zum Ausruhen unter der Sonne ein. Wer sich gerne am Wasser bewegt, findet hier ideale Bedingungen für ausgedehnte Spaziergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "An der westlichen Küstenlinie von Guraidhoo liegt der West Beach, der einen weiten Blick auf den Horizont freigibt. Diese entspannte Seite der Insel wird besonders von jenen geschätzt, die Ruhe und Naturverbundenheit suchen. Das Ufer ist gut geeignet für ein kurzes Schwimmvergnügen und um dem Meereswind zu lauschen. Besonders am späten Nachmittag lassen sich hier wunderschöne Stimmungen einfangen.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner ist ein Tauchplatz vor Guraidhoo mit starken Strömungen und Haien.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu ist ein schmaler Kanal zwischen Guraidhoo und einem Riff, reich an Fischen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru ist ein Tauchplatz in der Nähe von Kandoma Corner, bekannt für Mantarochen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South ist ein Tauchplatz südlich von Guraidhoo mit farbenfrohen Korallengärten.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North ist ein Tauchplatz nördlich von Guraidhoo, ideal für Anfänger.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri ist ein kleiner Felsvorsprung im Meer, beliebt bei Unterwasserfotografen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef ist ein langes Korallenriff vor Guraidhoo, das sich ideal zum Schnorcheln eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) ist ein Tauchplatz vor Guraidhoo, der für seine Mantarochen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside ist ein Tauchplatz außerhalb des südlichen Riffs von Guraidhoo mit großen Fischen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila ist ein Unterwasserhügel vor Guraidhoo, bedeckt mit Weichkorallen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner ist ein Tauchplatz nahe Cocoa Tila, bekannt für Strömung und Haie.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Guraidhoo Channel ist die Meerenge zwischen Guraidhoo und dem nahen Riff, reich an Fischschwärmen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch in Guraidhoo ist eine Sandbank, die für Mittagspausen bei Bootsausflügen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "A Sihkko Beach egy gyönyörű partszakasz Guraidhoon, amely megragadja a Maldív-szigetek trópusi szépségét. A nyugodt hangulat vonzza a part szerelmeseit, akik egy kis békére és a tenger zúgására vágynak. A puha homok és a sekély part csodálatos lehetőséget kínál a kényelmes úszásra és napozásra. Aki félárnyékos helyet keres, annak érdemes időben érkeznie a partra.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Guraidhoo szigetén található a nyugodt Chow Beach, közvetlenül a türkizkék víz partján. A sziget ezen csendesebb sarka bájos, helyi hangulatot áraszt. Itt hallgathatjuk a szelíd hullámverést, vagy élvezhetjük a tiszta vizet egy frissítő fürdőzés során. Érdemes némi elemózsiát és elegendő ivóvizet hozni a tengerparti napra.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "A K.Guraidhoo Beach népszerű célpont a sziget kiterjedt partvonalán. A gondtalan légkör miatt ez a partszakasz nagyon kedvelt a különféle látogatók körében. A kulissza tökéletes a hosszú fürdőzésekhez és a meleg homokban töltött pihentető délutánokhoz. Aki szeret kagylókat keresni vagy a vízparton sétálni, az itt biztosan örömét leli majd.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A guraidhooi Bikini Beach egy kijelölt terület, ahol a nemzetközi vendégek felhőtlenül élvezhetik a Maldív-szigetek örömeit. A vidám és napos hangulat sok látogatót vonz ennek a népszerű strandnak a partjára. A fürdőkád melegségű vízben való úszás éppúgy a program része, mint a hosszas pihenés. A délelőtti látogatás gyakran biztosítja a legjobb helyeket a világos homokon.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Guraidhoo partján bújik meg a Naanu Beach, egy békés kis földi paradicsom. A strandot a békés környezet jellemzi, amely ideális mindazok számára, akik szeretnének elmenekülni a hétköznapokból. Csodálatos lehetőséget kínál arra, hogy a csendben ússzunk, vagy egyszerűen csak hagyjuk, hogy a maldív természet hasson ránk. Az esti órákban a strand tökéletes hellyé válik a nap nyugodt lezárásához.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Guraidhoo déli részén a South Beach festői tengeri kulisszával várja látogatóit. A tenger lágy zúgása különlegesen mély, pihentető szigeti élményt nyújt. Az óceánban vett frissítő fürdőzés mellett a lapos homokos strand napozásra és pihenésre csábít. Aki szívesen mozog a vízparton, itt ideális feltételeket talál a hosszú sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "Guraidhoo nyugati partvonalán található a West Beach, amely széles kilátást nyújt a horizontra. A szigetnek ezt a nyugodt oldalát különösen azok értékelik, akik csendre és a természet közelségére vágynak. A part kiválóan alkalmas egy rövid úszás nyújtotta örömre és a tengeri szél hallgatására. Különösen a késő délutáni órákban lehet itt gyönyörű hangulatokat megörökíteni.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "A Kandoma Corner egy búvárhely Guraidhoo partjainál, erős áramlatokkal és cápákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "A Guradoo Kuda Kandu egy keskeny csatorna Guraidhoo és egy zátony között, gazdag halfajokban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "A Kandoma Beru egy búvárhely Kandoma Corner közelében, híres a mantarájairól.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "A Guradoo South egy búvárhely Guraidhoo-tól délre, színes korallkertekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "A Guradoo North egy búvárhely Guraidhoo-tól északra, kezdők számára ideális.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "A Biyadoo Kuda Giri egy kis sziklacsúcs a tengerben, népszerű a víz alatti fotósok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "A Banner Reef egy hosszú korallzátony Guraidhoo partjainál, kiválóan alkalmas sznorkelezésre.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Az Emmadi Giri (Manta Point) egy búvárhely Guraidhoo partjainál, híres a mantarájairól.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "A Guradoo South Outside egy búvárhely Guraidhoo déli zátonyán kívül, nagy halakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "A Cocoa Tila egy víz alatti domb Guraidhoo partjainál, puha korallokkal borítva.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "A Cocoa Corner egy búvárhely Cocoa Tila közelében, áramlatokról és cápákról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "A Guraidhoo Channel a tengerszoros Guraidhoo és a közeli zátony között, bővelkedik halrajokban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "A Sandbank lunch Guraidhoo-ban egy homokpad, amelyet hajókirándulások alatti ebédszünetekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach este o porțiune de coastă superbă de pe Guraidhoo, care surprinde frumusețea tropicală a insulelor Maldive. Atmosfera relaxată atrage iubitorii de plajă care tânjesc după puțină pace și sunetul valurilor. Nisipul moale și țărmul puțin adânc oferă oportunități minunate pentru înotul pe îndelete și pentru plajă. Cei care caută un loc cu penumbră ar trebui să ajungă din timp la mal.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Pe Guraidhoo se află liniștita Chow Beach, situată direct pe malul apelor turcoaz. Acest colț mai tăcut al insulei emană un farmec local aparte. Aici puteți asculta legănatul blând al valurilor sau vă puteți bucura de apa limpede cu o baie răcoritoare. Merită să aduceți câteva gustări și apă potabilă suficientă pentru ziua la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "K.Guraidhoo Beach constituie o atracție populară pe coasta largă a insulei. O atmosferă lipsită de griji face ca acest segment de plajă să fie foarte apreciat de o varietate de vizitatori. Decorul este perfect pentru băi lungi și după-amiezi relaxante pe nisipul cald. Cei cărora le place să caute scoici sau să se plimbe la linia apei se vor bucura cu siguranță aici.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach din Guraidhoo este o zonă desemnată unde oaspeții internaționali pot savura fără griji deliciile din Maldive. Atmosfera veselă și însorită atrage mulți vizitatori pe țărmul acestei plaje populare. Înotul în apa caldă ca de baie face parte din program la fel de mult ca și relaxarea profundă. O vizită dimineața asigură adesea cele mai bune locuri pe nisipul luminos.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Ascunsă pe coasta din Guraidhoo se află Naanu Beach, un colț de pământ plin de tihnă. Plaja se caracterizează prin mediul său pașnic, ideal pentru oricine dorește să evadeze din rutina zilnică. Oferă o oportunitate minunată de a înota în liniște sau pur și simplu de a absorbi natura maldiviană. În orele serii, plaja devine un loc perfect pentru a încheia ziua într-un mod relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "În zona sudică din Guraidhoo, South Beach își așteaptă vizitatorii cu un peisaj marin pitoresc. Murmurul blând al mării asigură o experiență insulară profund relaxantă, cu totul specială. Pe lângă o baie răcoritoare în ocean, plaja plată de nisip invită la odihnă sub soare. Cei cărora le place să facă mișcare la marginea apei vor găsi aici condiții ideale pentru plimbări lungi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "Pe coasta de vest a insulei Guraidhoo se află West Beach, care deschide o vedere largă spre orizont. Această latură relaxată a insulei este apreciată în special de cei care caută liniște și o conexiune cu natura. Țărmul este potrivit pentru o scurtă repriză de înot și pentru a asculta vântul mării. Mai ales după-amiaza târziu se pot surprinde aici atmosfere cu adevărat frumoase.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner este un loc de scufundări în largul Guraidhoo, cu curenți puternici și rechini.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu este un canal îngust între Guraidhoo și un recif, bogat în pești.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru este un loc de scufundări lângă Kandoma Corner, renumit pentru mante.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South este un loc de scufundări la sud de Guraidhoo, cu grădini de corali colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North este un loc de scufundări la nord de Guraidhoo, ideal pentru începători.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri este o mică creastă stâncoasă în mare, populară printre fotografi subacvatici.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef este un recif de corali lung în largul Guraidhoo, excelent pentru snorkelling.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) este un loc de scufundări în largul Guraidhoo, renumit pentru mante.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside este un loc de scufundări în afara recifului sudic al Guraidhoo, cu pești mari.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila este o colină subacvatică în largul Guraidhoo, acoperită cu corali moi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner este un loc de scufundări lângă Cocoa Tila, cunoscut pentru curenți și rechini.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Guraidhoo Channel este strâmtoarea dintre Guraidhoo și reciful apropiat, bogată în bancuri de pești.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch din Guraidhoo este un banc de nisip folosit pentru pauzele de prânz în excursiile cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach is a beautiful stretch of coastline on Guraidhoo that captures the tropical beauty of the Maldives. Its relaxed vibe attracts beach lovers yearning for a bit of peace and the sound of the ocean. The soft sand and shallow shore offer wonderful opportunities for leisurely swimming and sunbathing. Arriving early is recommended if you are looking for a spot in partial shade.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Located on Guraidhoo, the tranquil Chow Beach sits right by the turquoise waters. This quieter corner of the island exudes a charming, local flair. Here you can listen to the gentle lapping of the waves or enjoy the clear water with a refreshing swim. It is well worth bringing some snacks and plenty of drinking water for your day at the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "K.Guraidhoo Beach is a popular focal point along the island's expansive coastline. A carefree atmosphere makes this stretch of beach highly appreciated by a variety of visitors. The setting is perfect for long swims and relaxing afternoons lounging in the warm sand. Those who enjoy looking for shells or strolling along the tide line will find much joy here.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach on Guraidhoo is a designated area where international guests can carefree enjoy the delights of the Maldives. The cheerful and sunny mood draws many visitors to the shores of this popular beach. Swimming in the bath-warm water is just as much on the agenda here as extensive relaxing. A visit in the morning often secures the best spots on the bright sand.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Tucked away on the coast of Guraidhoo is Naanu Beach, a tranquil little spot of earth. The beach is characterized by its peaceful environment, ideal for anyone looking to escape the everyday. It offers a wonderful opportunity to swim in silence or simply let the Maldivian nature wash over you. In the evening hours, the beach becomes a perfect place to wind down the day in a relaxed manner.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "In the southern part of Guraidhoo, South Beach awaits its visitors with a picturesque seascape. The gentle murmur of the sea ensures a deeply relaxing island experience of a special kind. Alongside a refreshing swim in the ocean, the flat sandy beach invites you to rest under the sun. Those who like to be active by the water will find ideal conditions for long walks here.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "Situated on the western coastline of Guraidhoo is West Beach, offering a sweeping view of the horizon. This relaxed side of the island is particularly appreciated by those seeking quiet and a connection with nature. The shore is well-suited for a short swimming session and listening to the ocean breeze. Beautiful atmospheric moments can be captured here, especially in the late afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner is a dive site off Guraidhoo with strong currents and sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu is a narrow channel between Guraidhoo and a reef, teeming with fish.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru is a dive site near Kandoma Corner, known for manta rays.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South is a dive site south of Guraidhoo with colourful coral gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North is a dive site north of Guraidhoo, ideal for beginners.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri is a small rocky pinnacle in the sea, popular with underwater photographers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef is a long coral reef off Guraidhoo, excellent for snorkelling.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) is a dive site off Guraidhoo, famous for its manta rays.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside is a dive site outside Guraidhoo's southern reef, with large fish.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila is an underwater hill off Guraidhoo, covered with soft corals.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner is a dive site near Cocoa Tila, known for currents and sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Guraidhoo Channel is the strait between Guraidhoo and the nearby reef, rich in fish schools.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch in Guraidhoo is a sandbank used for lunch breaks during boat trips.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.4678, 3.9003],

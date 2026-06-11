@@ -714,7 +714,268 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
       {
-    id: "ani-history-v2",
+    id: "ani-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jrapi Caravanserair",
+                  "text": "Gut erhaltene Basaltruinen einer Karawanserei aus dem 10. bis 11. Jahrhundert, die einst Karawanen auf dem Weg nach Ani diente.",
+                  "category": "historical",
+                  "coords": [
+                        43.695344,
+                        40.553191
+                  ]
+            },
+            {
+                  "name": "Monastery of Horomos",
+                  "text": "Dieses bedeutende armenische Kloster aus dem 10. Jahrhundert war ein wichtiges religiöses Zentrum nahe der mittelalterlichen Hauptstadt Ani.",
+                  "category": "religious",
+                  "coords": [
+                        43.629131,
+                        40.519879
+                  ]
+            },
+            {
+                  "name": "Aziz Minas Katedrali,",
+                  "text": "Die Steinruinen dieser mittelalterlichen Kirche zeugen von der einstigen architektonischen Pracht der armenischen Hauptstadt Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.62961,
+                        40.523156
+                  ]
+            },
+            {
+                  "name": "Taylar church",
+                  "text": "Diese historische armenische Kirche befindet sich in der einsamen Landschaft nahe der türkisch-armenischen Grenze bei Ani.",
+                  "category": "landmark",
+                  "coords": [
+                        43.637697,
+                        40.537325
+                  ]
+            },
+            {
+                  "name": "Երերույքի տաճար",
+                  "text": "Diese beeindruckende dreischiffige Basilika aus dem 4. bis 5. Jahrhundert gilt als eines der ältesten christlichen Bauwerke Armeniens.",
+                  "category": "landmark",
+                  "coords": [
+                        43.609194,
+                        40.440102
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Die Kirche ist dem Schutzpatron Armeniens gewidmet und weist die charakteristische konische Kuppel der Region auf.",
+                  "category": "religious",
+                  "coords": [
+                        43.652672,
+                        40.531629
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch",
+                  "text": "Dieser zeremonielle Steinbogen bildete einst den prachtvollen Eingang zur befestigten mittelalterlichen Stadt Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.631045,
+                        40.52714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jrapi Caravanserair",
+                  "text": "A Selyemút egykori fogadójának jó állapotú, 10-11. századi bazaltromjai, amely egykor az Ani felé tartó karavánokat szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        43.695344,
+                        40.553191
+                  ]
+            },
+            {
+                  "name": "Monastery of Horomos",
+                  "text": "Ez a jelentős 10. századi örmény kolostor fontos vallási központ volt a középkori főváros, Ani közelében.",
+                  "category": "religious",
+                  "coords": [
+                        43.629131,
+                        40.519879
+                  ]
+            },
+            {
+                  "name": "Aziz Minas Katedrali,",
+                  "text": "Ennek a középkori templomnak a kőromjai az egykori örmény főváros, Ani építészeti pompájáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        43.62961,
+                        40.523156
+                  ]
+            },
+            {
+                  "name": "Taylar church",
+                  "text": "Ez a történelmi örmény templom Ani közelében, a török-örmény határ menti kietlen tájon található.",
+                  "category": "landmark",
+                  "coords": [
+                        43.637697,
+                        40.537325
+                  ]
+            },
+            {
+                  "name": "Երերույքի տաճար",
+                  "text": "Ez a lenyűgöző, 4-5. századi háromhajós bazilika Örményország egyik legrégebbi keresztény építményének számít.",
+                  "category": "landmark",
+                  "coords": [
+                        43.609194,
+                        40.440102
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "A templomot Örményország védőszentjének szentelték, és a régióra jellemző kúpos kupolával rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        43.652672,
+                        40.531629
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch",
+                  "text": "Ez a ceremoniális kőív egykor a megerősített középkori város, Ani pompás bejáratát alkotta.",
+                  "category": "historical",
+                  "coords": [
+                        43.631045,
+                        40.52714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jrapi Caravanserair",
+                  "text": "Ruine de bazalt bine conservate ale unui han de pe Drumul Mătăsii din secolele X-XI, care deservea odinioară caravanele ce călătoreau spre Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.695344,
+                        40.553191
+                  ]
+            },
+            {
+                  "name": "Monastery of Horomos",
+                  "text": "Această importantă mănăstire armeană din secolul al X-lea a fost un centru religios major situat lângă capitala medievală Ani.",
+                  "category": "religious",
+                  "coords": [
+                        43.629131,
+                        40.519879
+                  ]
+            },
+            {
+                  "name": "Aziz Minas Katedrali,",
+                  "text": "Ruinele de piatră ale acestei biserici medievale stau mărturie pentru splendoarea arhitecturală de odinioară a capitalei armene Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.62961,
+                        40.523156
+                  ]
+            },
+            {
+                  "name": "Taylar church",
+                  "text": "Această biserică istorică armeană se află în peisajul solitar de lângă granița turco-armeană de la Ani.",
+                  "category": "landmark",
+                  "coords": [
+                        43.637697,
+                        40.537325
+                  ]
+            },
+            {
+                  "name": "Երերույքի տաճար",
+                  "text": "Această bazilică impresionantă cu trei nave, din secolele IV-V, este considerată una dintre cele mai vechi structuri creștine din Armenia.",
+                  "category": "landmark",
+                  "coords": [
+                        43.609194,
+                        40.440102
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Biserica este dedicată sfântului patron al Armeniei și prezintă cupola conică caracteristică regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        43.652672,
+                        40.531629
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch",
+                  "text": "Acest arc de piatră ceremonial a format odinioară intrarea magnifică în orașul medieval fortificat Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.631045,
+                        40.52714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jrapi Caravanserair",
+                  "text": "Well-preserved 10th-11th century basalt ruins of a Silk Road inn, once serving caravans traveling toward Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.695344,
+                        40.553191
+                  ]
+            },
+            {
+                  "name": "Monastery of Horomos",
+                  "text": "This significant 10th-century Armenian monastery was a major religious center located near the medieval capital of Ani.",
+                  "category": "religious",
+                  "coords": [
+                        43.629131,
+                        40.519879
+                  ]
+            },
+            {
+                  "name": "Saint Minas church",
+                  "text": "The stone ruins of this medieval church bear witness to the former architectural splendor of the Armenian capital, Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.62961,
+                        40.523156
+                  ]
+            },
+            {
+                  "name": "Taylar church",
+                  "text": "This historic Armenian church is located in the solitary landscape near the Turkish-Armenian border at Ani.",
+                  "category": "landmark",
+                  "coords": [
+                        43.637697,
+                        40.537325
+                  ]
+            },
+            {
+                  "name": "Yereruyk Basilica",
+                  "text": "This impressive 4th to 5th-century three-aisled basilica is considered one of the oldest Christian structures in Armenia.",
+                  "category": "landmark",
+                  "coords": [
+                        43.609194,
+                        40.440102
+                  ]
+            },
+            {
+                  "name": "St. Gregory the Illuminator",
+                  "text": "The church is dedicated to the patron saint of Armenia and features the characteristic conical dome of the region.",
+                  "category": "religious",
+                  "coords": [
+                        43.652672,
+                        40.531629
+                  ]
+            },
+            {
+                  "name": "Triumphal Arch",
+                  "text": "This ceremonial stone arch once formed the magnificent entrance to the fortified medieval city of Ani.",
+                  "category": "historical",
+                  "coords": [
+                        43.631045,
+                        40.52714
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TR-36",
     coords: [43.640, 40.507],
@@ -1060,7 +1321,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Derinkuyu Cumhuriyet Camii",
-                  "text": "Ein markanter Leuchtturm an der Küste des Cabo de Gata in Spanien.",
+                  "text": "Die Derinkuyu-Cumhuriyet-Moschee liegt in der Stadt, die für ihre unterirdische Stadt aus byzantinischer Zeit berühmt ist.",
                   "category": "religious",
                   "coords": [
                         34.734634,
@@ -1080,7 +1341,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Derinkuyu Cumhuriyet Camii",
-                  "text": "Jellegzetes mecset Derinkuyu városának központjában.",
+                  "text": "A Derinkuyu Cumhuriyet dzsámi abban a városban található, amely híres bizánci kori föld alatti városáról.",
                   "category": "religious",
                   "coords": [
                         34.734634,
@@ -1100,7 +1361,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Derinkuyu Cumhuriyet Camii",
-                  "text": "O moschee proeminentă situată în centrul orașului Derinkuyu.",
+                  "text": "Moscheea Derinkuyu Cumhuriyet se află în orașul renumit pentru orașul său subteran din perioada bizantină.",
                   "category": "religious",
                   "coords": [
                         34.734634,
@@ -1120,7 +1381,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Derinkuyu Cumhuriyet Camii",
-                  "text": "A prominent mosque located in the center of Derinkuyu.",
+                  "text": "The Derinkuyu Cumhuriyet Mosque is in the town famous for its Byzantine-era underground city.",
                   "category": "religious",
                   "coords": [
                         34.734634,
@@ -1168,7 +1429,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Çayağzı Plajı",
-                  "text": "Çayağzı Plajı ist ein Küstenstrand in Myra.",
+                  "text": "Strand an der Bachmündung (Çayağzı) nahe der antiken Stadt Myra.",
                   "category": "recreational",
                   "coords": [
                         29.943466,
@@ -1177,7 +1438,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Sülüklü Plaji",
-                  "text": "Sülüklü Plaji ist ein lokaler Strand in Myra.",
+                  "text": "Sülüklü Strand, ein Kiesstrand nahe den Myra-Ruinen.",
                   "category": "recreational",
                   "coords": [
                         29.977582,
@@ -1186,7 +1447,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Çakıl Plajı",
-                  "text": "Ein Kiesstrand an der lykischen Küste in der Nähe von Myra.",
+                  "text": "Çakıl Strand, ein Kiesstrand an der Küste von Myra.",
                   "category": "recreational",
                   "coords": [
                         29.921888,
@@ -1197,7 +1458,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Çayağzı Plajı",
-                  "text": "A Çayağzı Plajı egy tengerparti strand Myra városában.",
+                  "text": "Çayağzı Plajı, strand a patak torkolatánál Myra ókori városa közelében.",
                   "category": "recreational",
                   "coords": [
                         29.943466,
@@ -1206,7 +1467,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Sülüklü Plaji",
-                  "text": "A Sülüklü Plaji egy helyi strand Myra városában.",
+                  "text": "Sülüklü Plaji, kavicsos strand Myra romjai közelében.",
                   "category": "recreational",
                   "coords": [
                         29.977582,
@@ -1215,7 +1476,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Çakıl Plajı",
-                  "text": "Kavicsos strand a lükiai parton, Myra közelében.",
+                  "text": "Çakıl Plajı, kavicsos strand Myra partján.",
                   "category": "recreational",
                   "coords": [
                         29.921888,
@@ -1226,7 +1487,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Çayağzı Plajı",
-                  "text": "Çayağzı Plajı este o plajă de coastă situată în Myra.",
+                  "text": "Plaja de la gura pârâului (Çayağzı) lângă orașul antic Myra.",
                   "category": "recreational",
                   "coords": [
                         29.943466,
@@ -1235,7 +1496,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Sülüklü Plaji",
-                  "text": "Sülüklü Plaji este o plajă locală situată în Myra.",
+                  "text": "Plaja Sülüklü, o plajă de pietriș lângă ruinele Myrei.",
                   "category": "recreational",
                   "coords": [
                         29.977582,
@@ -1244,7 +1505,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Çakıl Plajı",
-                  "text": "O plajă cu pietriș pe coasta liciană, în apropiere de Myra.",
+                  "text": "Plaja Çakıl, o plajă de pietriș pe coasta Myrei.",
                   "category": "recreational",
                   "coords": [
                         29.921888,
@@ -1255,7 +1516,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Çayağzı Plajı",
-                  "text": "Çayağzı Plajı is a coastal beach located in Myra.",
+                  "text": "Beach at the stream mouth (Çayağzı) near the ancient city of Myra.",
                   "category": "recreational",
                   "coords": [
                         29.943466,
@@ -1264,7 +1525,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Sülüklü Plaji",
-                  "text": "Sülüklü Plaji is a local beach situated in Myra.",
+                  "text": "Sülüklü Beach, a pebble beach near Myra ruins.",
                   "category": "recreational",
                   "coords": [
                         29.977582,
@@ -1273,7 +1534,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             },
             {
                   "name": "Çakıl Plajı",
-                  "text": "A pebble beach on the Lycian coast near Myra.",
+                  "text": "Çakıl Beach, a pebble beach along the Myra coast.",
                   "category": "recreational",
                   "coords": [
                         29.921888,
@@ -1353,7 +1614,376 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "zeugma-history-v2",
+    id: "zeugma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haci Mehmet Hoyuk",
+                  "text": "Ein antiker Siedlungshügel in der fruchtbaren Ebene unweit des Euphrat-Ufers.",
+                  "category": "historical",
+                  "coords": [
+                        37.917808,
+                        37.08263
+                  ]
+            },
+            {
+                  "name": "Dionysus Villa",
+                  "text": "Fundort prachtvoller römischer Bodenmosaike in der antiken Grenzstadt Zeugma.",
+                  "category": "historical",
+                  "coords": [
+                        37.870523,
+                        37.057425
+                  ]
+            },
+            {
+                  "name": "rock graves",
+                  "text": "Antike Grabkammern, die direkt in die Kalksteinfelsen über dem Fluss gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        37.868593,
+                        37.051226
+                  ]
+            },
+            {
+                  "name": "Şeyhbekir Tepesi",
+                  "text": "Ein markanter Hügel mit Panoramablick auf das Euphrattal und die Stadt Birecik.",
+                  "category": "natural",
+                  "coords": [
+                        37.913175,
+                        37.126381
+                  ]
+            },
+            {
+                  "name": "Hacınebi Höyüğü",
+                  "text": "Ein bedeutender archäologischer Hügel, der frühe Handelskontakte zwischen Mesopotamien und Anatolien belegt.",
+                  "category": "historical",
+                  "coords": [
+                        37.974857,
+                        37.059557
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Bozkırları Yaban Hayatı Geliştirme Sahası",
+                  "text": "Dieses Steppenschutzgebiet ist die Heimat des vom Aussterben bedrohten Waldrapps.",
+                  "category": "natural",
+                  "coords": [
+                        37.896933,
+                        37.123306
+                  ]
+            },
+            {
+                  "name": "Günaltı Höyüğü",
+                  "text": "Ein prähistorischer Siedlungshügel direkt am Ufer des Euphrat.",
+                  "category": "historical",
+                  "coords": [
+                        37.916327,
+                        37.009391
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Fırat Yaban Hayatı Geliştirme Sahası",
+                  "text": "Ein Naturschutzgebiet am Flussufer zum Schutz des Ökosystems am Euphrat.",
+                  "category": "natural",
+                  "coords": [
+                        37.974998,
+                        37.031363
+                  ]
+            },
+            {
+                  "name": "tiyatro",
+                  "text": "Ein antikes römisches Theater, das in einen Hang oberhalb des Euphrat-Ufers gegraben wurde.",
+                  "category": "historical",
+                  "coords": [
+                        37.877118,
+                        37.048485
+                  ]
+            },
+            {
+                  "name": "Zeugma Akropolis",
+                  "text": "Die hochgelegenen Überreste der antiken Zitadelle von Zeugma mit strategischem Blick auf das Flusstal.",
+                  "category": "historical",
+                  "coords": [
+                        37.866067,
+                        37.052715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haci Mehmet Hoyuk",
+                  "text": "Ősi településhalom a termékeny síkságon, nem messze az Eufrátesz partjától.",
+                  "category": "historical",
+                  "coords": [
+                        37.917808,
+                        37.08263
+                  ]
+            },
+            {
+                  "name": "Dionysus Villa",
+                  "text": "Pompás római padlómozaikok lelőhelye Zeugma ókori határvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        37.870523,
+                        37.057425
+                  ]
+            },
+            {
+                  "name": "rock graves",
+                  "text": "Ősi sírkamrák, amelyeket közvetlenül a folyó feletti mészkősziklákba vájtak.",
+                  "category": "historical",
+                  "coords": [
+                        37.868593,
+                        37.051226
+                  ]
+            },
+            {
+                  "name": "Şeyhbekir Tepesi",
+                  "text": "Jellegzetes domb, ahonnan panorámás kilátás nyílik az Eufrátesz völgyére és Birecik városára.",
+                  "category": "natural",
+                  "coords": [
+                        37.913175,
+                        37.126381
+                  ]
+            },
+            {
+                  "name": "Hacınebi Höyüğü",
+                  "text": "Jelentős régészeti halom, amely a Mezopotámia és Anatólia közötti korai kereskedelmi kapcsolatokat bizonyítja.",
+                  "category": "historical",
+                  "coords": [
+                        37.974857,
+                        37.059557
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Bozkırları Yaban Hayatı Geliştirme Sahası",
+                  "text": "Ez a sztyeppei védett terület a kihalástól veszélyeztetett tarvarjú otthona.",
+                  "category": "natural",
+                  "coords": [
+                        37.896933,
+                        37.123306
+                  ]
+            },
+            {
+                  "name": "Günaltı Höyüğü",
+                  "text": "Prehisztorikus településhalom közvetlenül az Eufrátesz partján.",
+                  "category": "historical",
+                  "coords": [
+                        37.916327,
+                        37.009391
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Fırat Yaban Hayatı Geliştirme Sahası",
+                  "text": "Folyóparti természetvédelmi terület az Eufrátesz ökoszisztémájának megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        37.974998,
+                        37.031363
+                  ]
+            },
+            {
+                  "name": "tiyatro",
+                  "text": "Egy ókori római színház az Eufrátesz partja feletti domboldalban.",
+                  "category": "historical",
+                  "coords": [
+                        37.877118,
+                        37.048485
+                  ]
+            },
+            {
+                  "name": "Zeugma Akropolis",
+                  "text": "Zeugma ókori fellegvárának magaslati maradványai, stratégiai kilátással a folyóvölgyre.",
+                  "category": "historical",
+                  "coords": [
+                        37.866067,
+                        37.052715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haci Mehmet Hoyuk",
+                  "text": "O movilă arheologică antică situată în câmpia fertilă, nu departe de malul Eufratului.",
+                  "category": "historical",
+                  "coords": [
+                        37.917808,
+                        37.08263
+                  ]
+            },
+            {
+                  "name": "Dionysus Villa",
+                  "text": "Locul unde au fost descoperite superbe mozaicuri romane în vechiul oraș de frontieră Zeugma.",
+                  "category": "historical",
+                  "coords": [
+                        37.870523,
+                        37.057425
+                  ]
+            },
+            {
+                  "name": "rock graves",
+                  "text": "Camere funerare antice săpate direct în stâncile de calcar de deasupra fluviului.",
+                  "category": "historical",
+                  "coords": [
+                        37.868593,
+                        37.051226
+                  ]
+            },
+            {
+                  "name": "Şeyhbekir Tepesi",
+                  "text": "Un deal proeminent care oferă o vedere panoramică asupra văii Eufratului și a orașului Birecik.",
+                  "category": "natural",
+                  "coords": [
+                        37.913175,
+                        37.126381
+                  ]
+            },
+            {
+                  "name": "Hacınebi Höyüğü",
+                  "text": "O movilă arheologică importantă care atestă legăturile comerciale timpurii dintre Mesopotamia și Anatolia.",
+                  "category": "historical",
+                  "coords": [
+                        37.974857,
+                        37.059557
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Bozkırları Yaban Hayatı Geliştirme Sahası",
+                  "text": "Această rezervație de stepă este habitatul ibisului pleșuv nordic, o specie pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        37.896933,
+                        37.123306
+                  ]
+            },
+            {
+                  "name": "Günaltı Höyüğü",
+                  "text": "O movilă de așezare preistorică situată chiar pe malul fluviului Eufrat.",
+                  "category": "historical",
+                  "coords": [
+                        37.916327,
+                        37.009391
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Fırat Yaban Hayatı Geliştirme Sahası",
+                  "text": "O rezervație naturală pe malul râului pentru protejarea ecosistemului fluviului Eufrat.",
+                  "category": "natural",
+                  "coords": [
+                        37.974998,
+                        37.031363
+                  ]
+            },
+            {
+                  "name": "tiyatro",
+                  "text": "Un teatru roman antic săpat într-un versant deasupra malurilor Eufratului.",
+                  "category": "historical",
+                  "coords": [
+                        37.877118,
+                        37.048485
+                  ]
+            },
+            {
+                  "name": "Zeugma Akropolis",
+                  "text": "Rămășițele de pe înălțime ale cetății antice Zeugma, cu o vedere strategică asupra văii râului.",
+                  "category": "historical",
+                  "coords": [
+                        37.866067,
+                        37.052715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haci Mehmet Hoyuk",
+                  "text": "An ancient settlement mound located in the fertile plain not far from the Euphrates banks.",
+                  "category": "historical",
+                  "coords": [
+                        37.917808,
+                        37.08263
+                  ]
+            },
+            {
+                  "name": "Dionysus Villa",
+                  "text": "Site of magnificent Roman floor mosaics uncovered in the ancient border city of Zeugma.",
+                  "category": "historical",
+                  "coords": [
+                        37.870523,
+                        37.057425
+                  ]
+            },
+            {
+                  "name": "rock graves",
+                  "text": "Ancient burial chambers carved directly into the limestone cliffs overlooking the river.",
+                  "category": "historical",
+                  "coords": [
+                        37.868593,
+                        37.051226
+                  ]
+            },
+            {
+                  "name": "Şeyhbekir Tepesi",
+                  "text": "A prominent hill offering panoramic views of the Euphrates valley and the city of Birecik.",
+                  "category": "natural",
+                  "coords": [
+                        37.913175,
+                        37.126381
+                  ]
+            },
+            {
+                  "name": "Hacınebi Höyüğü",
+                  "text": "An important archaeological mound revealing early trade links between Mesopotamia and Anatolia.",
+                  "category": "historical",
+                  "coords": [
+                        37.974857,
+                        37.059557
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Bozkırları Yaban Hayatı Geliştirme Sahası",
+                  "text": "This steppe reserve is home to the endangered Northern Bald Ibis.",
+                  "category": "natural",
+                  "coords": [
+                        37.896933,
+                        37.123306
+                  ]
+            },
+            {
+                  "name": "Günaltı Höyüğü",
+                  "text": "A prehistoric settlement mound located directly on the banks of the Euphrates river.",
+                  "category": "historical",
+                  "coords": [
+                        37.916327,
+                        37.009391
+                  ]
+            },
+            {
+                  "name": "Şanlıurfa Birecik Fırat Yaban Hayatı Geliştirme Sahası",
+                  "text": "A riverbank nature reserve dedicated to protecting the ecosystem of the Euphrates river.",
+                  "category": "natural",
+                  "coords": [
+                        37.974998,
+                        37.031363
+                  ]
+            },
+            {
+                  "name": "theatre of Zeugma",
+                  "text": "An ancient Roman theatre carved into a hillside overlooking the banks of the Euphrates.",
+                  "category": "historical",
+                  "coords": [
+                        37.877118,
+                        37.048485
+                  ]
+            },
+            {
+                  "name": "Zeugma Akropolis",
+                  "text": "The elevated remains of the ancient citadel of Zeugma, offering a strategic view over the river valley.",
+                  "category": "historical",
+                  "coords": [
+                        37.866067,
+                        37.052715
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TR-27",
     coords: [37.868, 37.058],

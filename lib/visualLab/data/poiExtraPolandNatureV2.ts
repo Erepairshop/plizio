@@ -385,7 +385,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Samuel-Roth-Turm",
-                  "text": "Ein Gipfel in der Hohen Tatra in der Nähe des Rysy.",
+                  "text": "Der Zadný Gerlach ist ein Gipfel in der Hohen Tatra, nahe der Gerlachspitze.",
                   "category": "landmark",
                   "coords": [
                         20.131479,
@@ -394,7 +394,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Mengusovský Volovec",
-                  "text": "Ein Berggipfel in der slowakischen Hohen Tatra.",
+                  "text": "Der Mengusovský Volovec ist ein Berg in der Hohen Tatra.",
                   "category": "landmark",
                   "coords": [
                         20.067536,
@@ -403,7 +403,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kopki",
-                  "text": "Ein markanter Berggipfel im Massiv der Hohen Tatra.",
+                  "text": "Die Kôpky sind ein Gipfel im Tatra-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         20.083889,
@@ -459,7 +459,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Hátsó-Gerlachfalvi-csúcs",
-                  "text": "A Magas-Tátra egyik csúcsa a Tengerszem-csúcs közelében.",
+                  "text": "A Zadný Gerlach egy csúcs a Magas-Tátrában, a Gerlach közelében.",
                   "category": "landmark",
                   "coords": [
                         20.131479,
@@ -468,7 +468,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Olga-csúcs",
-                  "text": "Egy hegycsúcs a szlovákiai Magas-Tátrában.",
+                  "text": "A Mengusovský Volovec egy hegy a Magas-Tátrában.",
                   "category": "landmark",
                   "coords": [
                         20.067536,
@@ -477,7 +477,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kopki",
-                  "text": "Egy látványos hegycsúcs a Magas-Tátra vonulatában.",
+                  "text": "A Kôpky egy csúcs a Tátra-hegységben.",
                   "category": "landmark",
                   "coords": [
                         20.083889,
@@ -533,7 +533,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Zadný Gerlach",
-                  "text": "Un vârf în Munții Tatra Mare, situat în apropierea vârfului Rysy.",
+                  "text": "Zadný Gerlach este un vârf în Tatra Mare, lângă Vârful Gerlach.",
                   "category": "landmark",
                   "coords": [
                         20.131479,
@@ -542,7 +542,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Mengusovský Volovec",
-                  "text": "Un vârf montan în Tatra Mare din Slovacia.",
+                  "text": "Mengusovský Volovec este un munte în Tatra Mare.",
                   "category": "landmark",
                   "coords": [
                         20.067536,
@@ -551,7 +551,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kôpky",
-                  "text": "Un vârf montan pitoresc în masivul Tatra Mare.",
+                  "text": "Kôpky este un vârf în Munții Tatra.",
                   "category": "landmark",
                   "coords": [
                         20.083889,
@@ -607,7 +607,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Zadný Gerlach",
-                  "text": "A peak in the High Tatras located near the Rysy peak.",
+                  "text": "Zadný Gerlach is a peak in the High Tatras, adjacent to Gerlachovský štít.",
                   "category": "landmark",
                   "coords": [
                         20.131479,
@@ -616,7 +616,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Mengusovský Volovec",
-                  "text": "A mountain peak in the Slovakian High Tatras.",
+                  "text": "Mengusovský Volovec is a mountain in the High Tatras.",
                   "category": "landmark",
                   "coords": [
                         20.067536,
@@ -625,7 +625,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kôpky",
-                  "text": "A scenic mountain peak in the High Tatras range.",
+                  "text": "Kôpky is a peak in the Tatra Mountains.",
                   "category": "landmark",
                   "coords": [
                         20.083889,
@@ -2149,7 +2149,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kępa",
-                  "text": "Ein bewaldeter Gipfel im Gebirgszug der Babia Góra.",
+                  "text": "Die Kępa ist ein Berggipfel in den Żywiecer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.556816,
@@ -2158,7 +2158,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "Ein Aussichtsgipfel im Grenzgebiet der Babia Góra.",
+                  "text": "Der Bukovský grúň ist ein Berggipfel auf der Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2167,7 +2167,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Złota Studnia",
-                  "text": "Ein natürlicher Höhleneingang in der Region Babia Góra.",
+                  "text": "Die Złota Studnia ist eine natürliche Quelle am Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.492854,
@@ -2176,7 +2176,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Vonžovec",
-                  "text": "Ein Berggipfel im Gebiet der Babia Góra.",
+                  "text": "Der Vonžovec im Babia-Góra-Massiv ist ein felsiger Gipfel mit alpiner Flora.",
                   "category": "landmark",
                   "coords": [
                         19.499105,
@@ -2223,7 +2223,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kępa",
-                  "text": "Erdős csúcs a Babia Góra hegyláncában.",
+                  "text": "A Kępa egy hegycsúcs a Żywieci-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.556816,
@@ -2232,7 +2232,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "Kilátócsúcs a Babia Góra határvidékén.",
+                  "text": "A Bukovský grúň egy hegycsúcs a Babia Góra-hegyen.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2241,7 +2241,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Złota Studnia",
-                  "text": "Természetes barlangbejárat a Babia Góra régióban.",
+                  "text": "A Złota Studnia egy természetes forrás a Babia Góra-hegyen.",
                   "category": "landmark",
                   "coords": [
                         19.492854,
@@ -2250,7 +2250,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Vonžovec",
-                  "text": "Hegyi csúcs a Babia Góra területén.",
+                  "text": "A Vonžovec a Babia Góra hegységben egy sziklás csúcs alpesi növényzettel.",
                   "category": "landmark",
                   "coords": [
                         19.499105,
@@ -2297,7 +2297,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kępa",
-                  "text": "Un vârf împădurit din lanțul muntos Babia Góra.",
+                  "text": "Kępa este un vârf montan în Beskizii Żywiecki.",
                   "category": "landmark",
                   "coords": [
                         19.556816,
@@ -2306,7 +2306,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "Un vârf cu vedere panoramică în zona de frontieră a masivului Babia Góra.",
+                  "text": "Bukovský grúň este un vârf montan pe muntele Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2315,7 +2315,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Złota Studnia",
-                  "text": "O intrare naturală în peșteră din regiunea Babia Góra.",
+                  "text": "Złota Studnia este un izvor natural pe muntele Babia Góra.",
                   "category": "landmark",
                   "coords": [
                         19.492854,
@@ -2324,7 +2324,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Vonžovec",
-                  "text": "Un vârf montan în zona Babia Góra.",
+                  "text": "Vonžovec din masivul Babia Góra, un vârf stâncos cu floră alpină.",
                   "category": "landmark",
                   "coords": [
                         19.499105,
@@ -2371,7 +2371,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Kępa",
-                  "text": "A forested peak in the Babia Góra mountain range.",
+                  "text": "Kępa is a mountain peak in the Żywiec Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.556816,
@@ -2380,7 +2380,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Bukovský grúň",
-                  "text": "A viewpoint peak in the border area of Babia Góra.",
+                  "text": "Bukovský grúň is a mountain peak on Babia Gora.",
                   "category": "landmark",
                   "coords": [
                         19.494364,
@@ -2389,7 +2389,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Złota Studnia",
-                  "text": "A natural cave entrance in the Babia Góra region.",
+                  "text": "Złota Studnia is a natural spring on Babia Gora.",
                   "category": "landmark",
                   "coords": [
                         19.492854,
@@ -2398,7 +2398,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Vonžovec",
-                  "text": "A mountain peak in the Babia Góra area.",
+                  "text": "Vonžovec peak in the Babia Góra massif, a rocky summit with alpine flora.",
                   "category": "landmark",
                   "coords": [
                         19.499105,
@@ -2464,7 +2464,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Botanica - Ninja Water Park",
-                  "text": "Ein moderner Wasserpark und Freizeitzentrum.",
+                  "text": "Botanica Ninja Wasserspielplatz, ein aufblasbarer Hindernisparcours auf dem See am Fuße des Szczeliniec Wielki.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
@@ -2509,7 +2509,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Eckstein",
-                  "text": "Ein beliebter Aussichtspunkt und Gipfel im Heuscheuergebirge.",
+                  "text": "Der Narożnik ist ein Felsgipfel im Heuscheuergebirge (Góry Stołowe).",
                   "category": "landmark",
                   "coords": [
                         16.347238,
@@ -2538,7 +2538,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Botanica - Ninja Water Park",
-                  "text": "Modern vízi park és szabadidőközpont.",
+                  "text": "Botanica Ninja Vízi Park, egy felfújható akadálypálya a Szczeliniec Wielki lábánál lévő tavon.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
@@ -2583,7 +2583,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Narożnik",
-                  "text": "Népszerű kilátópont és hegycsúcs a Tábla-hegységben.",
+                  "text": "A Narożnik egy sziklás csúcs a Góry Stołowe-hegységben.",
                   "category": "landmark",
                   "coords": [
                         16.347238,
@@ -2612,7 +2612,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Botanica - Ninja Water Park",
-                  "text": "Un parc acvatic modern și centru de recreere.",
+                  "text": "Botanica Ninja Water Park, un parc acvatic gonflabil cu obstacole pe lacul de la poalele vârfului Szczeliniec Wielki.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
@@ -2657,7 +2657,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Narożnik",
-                  "text": "Un punct de belvedere popular și un vârf în Munții Stolowe.",
+                  "text": "Narożnik este un vârf stâncos în Munții Stołowe.",
                   "category": "landmark",
                   "coords": [
                         16.347238,
@@ -2686,7 +2686,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Botanica - Ninja Water Park",
-                  "text": "A modern water park and recreational facility.",
+                  "text": "Botanica Ninja Water Park, an inflatable obstacle course on the lake at the foot of Szczeliniec Wielki.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
@@ -2731,7 +2731,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Narożnik",
-                  "text": "A popular viewpoint and peak in the Table Mountains.",
+                  "text": "Narożnik is a rocky peak in the Table Mountains (Góry Stołowe).",
                   "category": "landmark",
                   "coords": [
                         16.347238,
@@ -3184,7 +3184,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ruiny bunkra",
-                  "text": "Überreste eines historischen Bunkers in der Biebrza-Sumpflandschaft.",
+                  "text": "Ruinen eines Bunkers aus dem Zweiten Weltkrieg in den Biebrza-Sümpfen.",
                   "category": "historical",
                   "coords": [
                         22.643092,
@@ -3249,7 +3249,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ruiny bunkra",
-                  "text": "Egy történelmi bunker maradványai a Biebrza-mocsarak területén.",
+                  "text": "Második világháborús bunker romjai a Biebrza-mocsarakban.",
                   "category": "historical",
                   "coords": [
                         22.643092,
@@ -3314,7 +3314,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ruiny bunkra",
-                  "text": "Rămășițele unui buncăr istoric în zona mlaștinilor Biebrza.",
+                  "text": "Ruinele unui buncăr din Al Doilea Război Mondial în Mlaștinile Biebrza.",
                   "category": "historical",
                   "coords": [
                         22.643092,
@@ -3379,7 +3379,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ruiny bunkra",
-                  "text": "The remains of a historical bunker located in the Biebrza Marshes.",
+                  "text": "Ruins of a World War II bunker in the Biebrza Marshes.",
                   "category": "historical",
                   "coords": [
                         22.643092,
@@ -3679,7 +3679,7 @@ export const polandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Plaża U Jawora",
-                  "text": "Strand U Jawora am Wigry-See.",
+                  "text": "U Jawora Strand am Wigry-See mit einem hölzernen Steg.",
                   "category": "recreational",
                   "coords": [
                         23.018908,
@@ -3717,7 +3717,7 @@ export const polandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża U Jawora",
-                  "text": "U Jawora strand a Wigry-tónál.",
+                  "text": "U Jawora strand a Wigry-tó partján, fa stéggel.",
                   "category": "recreational",
                   "coords": [
                         23.018908,
@@ -3755,7 +3755,7 @@ export const polandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża U Jawora",
-                  "text": "Plaja U Jawora la lacul Wigry.",
+                  "text": "Plaja U Jawora pe lacul Wigry, cu un debarcader din lemn.",
                   "category": "recreational",
                   "coords": [
                         23.018908,
@@ -3793,7 +3793,7 @@ export const polandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Plaża U Jawora",
-                  "text": "U Jawora beach at Wigry Lake.",
+                  "text": "U Jawora beach on Lake Wigry, featuring a wooden pier.",
                   "category": "recreational",
                   "coords": [
                         23.018908,
@@ -4219,7 +4219,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ninja Park",
-                  "text": "Ein Freizeitpark mit verschiedenen Outdoor-Aktivitäten.",
+                  "text": "Ninja-Hindernisparcours am Fuße des Gipfels Trzy Korony (Drei Kronen) in den Pieninen.",
                   "category": "recreational",
                   "coords": [
                         20.415994,
@@ -4237,7 +4237,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "ABlandia",
-                  "text": "Ein Seilpark und Abenteuerzentrum für Familien.",
+                  "text": "ABlandia Familienvergnügungspark mit Hüpfburgen nahe dem Trzy-Korony-Gipfel.",
                   "category": "recreational",
                   "coords": [
                         20.414995,
@@ -4246,7 +4246,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Teatr letni",
-                  "text": "Eine Freilichtbühne für sommerliche Theateraufführungen.",
+                  "text": "Freilichtbühne (Sommer Theater) mit Bühne und Blick auf das Pieninen-Gebirge nahe Trzy Korony.",
                   "category": "cultural",
                   "coords": [
                         20.430045,
@@ -4293,7 +4293,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ninja Park",
-                  "text": "Szabadtéri tevékenységeket kínáló szabadidőpark.",
+                  "text": "Ninja-akadálypálya a Trzy Korony (Három Korona) csúcs lábánál a Pieninekben.",
                   "category": "recreational",
                   "coords": [
                         20.415994,
@@ -4311,7 +4311,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "ABlandia",
-                  "text": "Kötélpark és kalandközpont családok számára.",
+                  "text": "ABlandia családi szórakoztatópark ugrálóvárakkal a Trzy Korony csúcs közelében.",
                   "category": "recreational",
                   "coords": [
                         20.414995,
@@ -4320,7 +4320,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Teatr letni",
-                  "text": "Szabadtéri színpad nyári színházi előadások számára.",
+                  "text": "Szabadtéri nyári színház színpaddal és kilátással a Pieninek-hegységre a Trzy Korony közelében.",
                   "category": "cultural",
                   "coords": [
                         20.430045,
@@ -4367,7 +4367,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ninja Park",
-                  "text": "Un parc de distracții ce oferă diverse activități în aer liber.",
+                  "text": "Parcurs de obstacole Ninja la baza vârfului Trzy Korony (Trei Coroane) în Munții Pieniny.",
                   "category": "recreational",
                   "coords": [
                         20.415994,
@@ -4385,7 +4385,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "ABlandia",
-                  "text": "Un parc de aventură și trasee de frânghii pentru familii.",
+                  "text": "Parcul de distracții ABlandia cu atracții gonflabile lângă vârful Trzy Korony.",
                   "category": "recreational",
                   "coords": [
                         20.414995,
@@ -4394,7 +4394,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Teatr letni",
-                  "text": "O scenă în aer liber pentru spectacole de teatru pe timp de vară.",
+                  "text": "Teatru de vară în aer liber cu o scenă și vedere spre munții Pieniny, lângă Trzy Korony.",
                   "category": "cultural",
                   "coords": [
                         20.430045,
@@ -4441,7 +4441,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Ninja Park",
-                  "text": "A theme park offering various outdoor activities.",
+                  "text": "Ninja Park obstacle course at the base of the Trzy Korony (Three Crowns) peak in the Pieniny Mountains.",
                   "category": "recreational",
                   "coords": [
                         20.415994,
@@ -4459,7 +4459,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "ABlandia",
-                  "text": "A rope park and adventure center for families.",
+                  "text": "ABlandia amusement park with inflatable attractions near the Trzy Korony peak.",
                   "category": "recreational",
                   "coords": [
                         20.414995,
@@ -4468,7 +4468,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Teatr letni",
-                  "text": "An open-air stage for summer theatre performances.",
+                  "text": "Open-air summer theatre with a stage overlooking the Pieniny mountain range near Trzy Korony.",
                   "category": "cultural",
                   "coords": [
                         20.430045,
@@ -5398,7 +5398,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Most Południowy im. Jerzego Wilka",
-                  "text": "Eine moderne Brücke über den Kanal der Frischen Nehrung.",
+                  "text": "Die Südbrücke (Most Południowy) im. Jerzego Wilka wurde 2021 eröffnet und überquert den Schifffahrtskanal auf der Frischen Nehrung.",
                   "category": "landmark",
                   "coords": [
                         19.311747,
@@ -5445,7 +5445,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Most Południowy im. Jerzego Wilka",
-                  "text": "Modern híd a Visztula-turzás csatornája felett.",
+                  "text": "A Jerzy Wilkről elnevezett Déli híd 2021-ben nyílt meg, és a hajózási csatorna felett ível át a Visztula-nyelven.",
                   "category": "landmark",
                   "coords": [
                         19.311747,
@@ -5492,7 +5492,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Most Południowy im. Jerzego Wilka",
-                  "text": "Un pod modern peste canalul de pe Grindul Vistulei.",
+                  "text": "Podul Sudic „Jerzy Wilk” a fost deschis în 2021 și traversează canalul navigabil pe Grindul Vistulei.",
                   "category": "landmark",
                   "coords": [
                         19.311747,
@@ -5539,7 +5539,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Most Południowy im. Jerzego Wilka",
-                  "text": "A modern bridge crossing the Vistula Spit canal.",
+                  "text": "The Southern Bridge named after Jerzy Wilk, opened in 2021, spans the shipping canal on the Vistula Spit.",
                   "category": "landmark",
                   "coords": [
                         19.311747,
@@ -5623,7 +5623,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimontek",
-                  "text": "Ein Naturschutzgebiet in der Region des Flusses Krutynia.",
+                  "text": "Klimontek ist eine Stromschnelle am Krutynia-Fluss.",
                   "category": "natural",
                   "coords": [
                         21.454697,
@@ -5632,7 +5632,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimont",
-                  "text": "Ein geschütztes Naturareal am Fluss Krutynia.",
+                  "text": "Klimont ist eine Stromschnelle am Krutynia-Fluss.",
                   "category": "natural",
                   "coords": [
                         21.448505,
@@ -5670,7 +5670,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimontek",
-                  "text": "Természetvédelmi terület a Krutynia-folyó vidékén.",
+                  "text": "Klimontek egy zuhogó a Krutynia folyón.",
                   "category": "natural",
                   "coords": [
                         21.454697,
@@ -5679,7 +5679,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimont",
-                  "text": "Védett természeti terület a Krutynia-folyónál.",
+                  "text": "Klimont egy zuhogó a Krutynia folyón.",
                   "category": "natural",
                   "coords": [
                         21.448505,
@@ -5717,7 +5717,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimontek",
-                  "text": "O rezervație naturală în regiunea râului Krutynia.",
+                  "text": "Klimontek este un rapid pe râul Krutynia.",
                   "category": "natural",
                   "coords": [
                         21.454697,
@@ -5726,7 +5726,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimont",
-                  "text": "O zonă naturală protejată lângă râul Krutynia.",
+                  "text": "Klimont este un rapid pe râul Krutynia.",
                   "category": "natural",
                   "coords": [
                         21.448505,
@@ -5764,7 +5764,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimontek",
-                  "text": "A nature reserve in the Krutynia River region.",
+                  "text": "Klimontek is a rapid on the Krutynia River.",
                   "category": "natural",
                   "coords": [
                         21.454697,
@@ -5773,7 +5773,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Klimont",
-                  "text": "A protected natural area by the Krutynia River.",
+                  "text": "Klimont is a rapid on the Krutynia River.",
                   "category": "natural",
                   "coords": [
                         21.448505,
@@ -5884,7 +5884,7 @@ export const polandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Kąpielisko Sulistrowiczki",
-                  "text": "Strand bei Mount Sleza.",
+                  "text": "Kąpielisko Sulistrowiczki ist ein natürliches Freibad am Berg Ślęża.",
                   "category": "recreational",
                   "coords": [
                         16.74417,
@@ -5967,7 +5967,7 @@ export const polandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Kąpielisko Sulistrowiczki",
-                  "text": "Strand a Mount Sleza közelében.",
+                  "text": "A Sulistrowiczki fürdő természetes úszóhely a Ślęża hegyen.",
                   "category": "recreational",
                   "coords": [
                         16.74417,
@@ -6050,7 +6050,7 @@ export const polandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Kąpielisko Sulistrowiczki",
-                  "text": "Plajă lângă Mount Sleza.",
+                  "text": "Kąpielisko Sulistrowiczki este o înotătoare naturală pe muntele Ślęża.",
                   "category": "recreational",
                   "coords": [
                         16.74417,
@@ -6133,7 +6133,7 @@ export const polandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Kąpielisko Sulistrowiczki",
-                  "text": "Beach near Mount Sleza.",
+                  "text": "Sulistrowiczki Bathing Area is a natural swimming pond on Mount Ślęża.",
                   "category": "recreational",
                   "coords": [
                         16.74417,
@@ -6262,7 +6262,7 @@ export const polandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Zielona plaża",
-                  "text": "Grüner Strand am Solina-Stausee.",
+                  "text": "Zielona plaża ist ein grasbewachsener Strand am Solina-See.",
                   "category": "recreational",
                   "coords": [
                         22.44926,
@@ -6271,7 +6271,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Wyspa Mała",
-                  "text": "Strand auf der Insel Wyspa Mała am Solina-Stausee.",
+                  "text": "Wyspa Mała ist eine bewaldete Insel im Solina-See.",
                   "category": "recreational",
                   "coords": [
                         22.454734,
@@ -6354,7 +6354,7 @@ export const polandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Zielona plaża",
-                  "text": "Zöld strand a Solina-tónál.",
+                  "text": "A Zielona plaża füves strand a Solina-tónál.",
                   "category": "recreational",
                   "coords": [
                         22.44926,
@@ -6363,7 +6363,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Wyspa Mała",
-                  "text": "Strand a Wyspa Mała szigeten, a Solina-tónál.",
+                  "text": "A Wyspa Mała egy erdős sziget a Solina-tóban.",
                   "category": "recreational",
                   "coords": [
                         22.454734,
@@ -6446,7 +6446,7 @@ export const polandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Zielona plaża",
-                  "text": "Plajă verde la Lacul Solina.",
+                  "text": "Zielona plaża este o plajă ierboasă pe lacul Solina.",
                   "category": "recreational",
                   "coords": [
                         22.44926,
@@ -6455,7 +6455,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Wyspa Mała",
-                  "text": "Plajă pe insula Wyspa Mała de pe lacul Solina.",
+                  "text": "Wyspa Mała este o insulă împădurită pe lacul Solina.",
                   "category": "recreational",
                   "coords": [
                         22.454734,
@@ -6538,7 +6538,7 @@ export const polandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Zielona plaża",
-                  "text": "Green beach at Solina Lake.",
+                  "text": "Zielona plaża is a grassy beach on Lake Solina.",
                   "category": "recreational",
                   "coords": [
                         22.44926,
@@ -6547,7 +6547,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Wyspa Mała",
-                  "text": "Beach on Wyspa Mała island at Solina Lake.",
+                  "text": "Wyspa Mała is a wooded island on Lake Solina.",
                   "category": "recreational",
                   "coords": [
                         22.454734,
@@ -6712,7 +6712,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Sobel Tylmanowski",
-                  "text": "Ein bewaldeter Gipfel im Gorce-Gebirge in der Nähe von Tylmanowa.",
+                  "text": "Der Sobel Tylmanowski ist ein Berggipfel mit Blick auf den Dunajec.",
                   "category": "landmark",
                   "coords": [
                         20.429738,
@@ -6786,7 +6786,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Sobel Tylmanowski",
-                  "text": "Erdős csúcs a Gorce-hegységben, Tylmanowa közelében.",
+                  "text": "A Sobel Tylmanowski egy hegycsúcs, amely a Dunajec folyóra néz.",
                   "category": "landmark",
                   "coords": [
                         20.429738,
@@ -6860,7 +6860,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Sobel Tylmanowski",
-                  "text": "Un vârf împădurit în Munții Gorce, lângă Tylmanowa.",
+                  "text": "Sobel Tylmanowski este un vârf montan care domină râul Dunajec.",
                   "category": "landmark",
                   "coords": [
                         20.429738,
@@ -6934,7 +6934,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Sobel Tylmanowski",
-                  "text": "A forested peak in the Gorce Mountains near Tylmanowa.",
+                  "text": "Sobel Tylmanowski is a mountain peak overlooking the Dunajec River.",
                   "category": "landmark",
                   "coords": [
                         20.429738,
@@ -7873,7 +7873,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Izba Leśna",
-                  "text": "Ein kleines Waldmuseum in der Roztocze-Region.",
+                  "text": "Izba Leśna ist ein Naturkundemuseum im Roztocze-Urwald.",
                   "category": "museum",
                   "coords": [
                         22.987959,
@@ -7938,7 +7938,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Izba Leśna",
-                  "text": "Kisméretű erdészeti múzeum a Roztocze-régióban.",
+                  "text": "Az Izba Leśna természetrajzi múzeum a Roztocze-erdőségben.",
                   "category": "museum",
                   "coords": [
                         22.987959,
@@ -8003,7 +8003,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Izba Leśna",
-                  "text": "Un mic muzeu forestier în regiunea Roztocze.",
+                  "text": "Izba Leśna este un muzeu de științe naturale în pădurea Roztocze.",
                   "category": "museum",
                   "coords": [
                         22.987959,
@@ -8068,7 +8068,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Izba Leśna",
-                  "text": "A small forest museum in the Roztocze region.",
+                  "text": "Izba Leśna is a nature museum in the Roztocze Forest.",
                   "category": "museum",
                   "coords": [
                         22.987959,
@@ -8152,7 +8152,7 @@ export const polandNatureV2: POI[] = [
       "de": [
             {
                   "name": "nieznana",
-                  "text": "Strand am Fluss Czarna Hańcza.",
+                  "text": "Nieznana ist ein wildes Badestelle am Fluss Czarna Hańcza.",
                   "category": "recreational",
                   "coords": [
                         23.205714,
@@ -8172,7 +8172,7 @@ export const polandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "nieznana",
-                  "text": "Strand a Czarna Hańcza folyónál.",
+                  "text": "A Nieznana egy vad fürdőhely a Czarna Hańcza folyón.",
                   "category": "recreational",
                   "coords": [
                         23.205714,
@@ -8192,7 +8192,7 @@ export const polandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "nieznana",
-                  "text": "Plajă la râul Czarna Hańcza.",
+                  "text": "Nieznana este o înotătoare sălbatică pe râul Czarna Hańcza.",
                   "category": "recreational",
                   "coords": [
                         23.205714,
@@ -8212,7 +8212,7 @@ export const polandNatureV2: POI[] = [
       "en": [
             {
                   "name": "nieznana",
-                  "text": "Beach at the Czarna Hańcza river.",
+                  "text": "Nieznana is a wild swimming spot on the Czarna Hańcza River.",
                   "category": "recreational",
                   "coords": [
                         23.205714,
@@ -8296,7 +8296,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Muzeum zegara",
-                  "text": "Ein Uhrenmuseum in der Nähe des Dratzigsees.",
+                  "text": "Das Uhrenmuseum am Drawsko-See zeigt historische Uhren und Zeitmesser.",
                   "category": "museum",
                   "coords": [
                         16.232413,
@@ -8305,7 +8305,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Plaża Miejska",
-                  "text": "Der städtische Strand am Ufer des Dratzigsees.",
+                  "text": "Der Stadtstrand am Drawsko-See ist ein Sandstrand mit Steg und Wassersportverleih.",
                   "category": "recreational",
                   "coords": [
                         16.229645,
@@ -8352,7 +8352,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Muzeum zegara",
-                  "text": "Óramúzeum a Drawsko-tó közelében.",
+                  "text": "A Drawsko-tó melletti Óramúzeum történelmi órákat és időmérőket mutat be.",
                   "category": "museum",
                   "coords": [
                         16.232413,
@@ -8361,7 +8361,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Plaża Miejska",
-                  "text": "Városi strand a Drawsko-tó partján.",
+                  "text": "A Drawsko-tó városi strandja homokos strand stéggel és vízieszköz-bérléssel.",
                   "category": "recreational",
                   "coords": [
                         16.229645,
@@ -8408,7 +8408,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Muzeum zegara",
-                  "text": "Un muzeu al ceasurilor situat în apropierea lacului Drawsko.",
+                  "text": "Muzeul Ceasului de la lacul Drawsko expune ceasuri istorice și cronometre.",
                   "category": "museum",
                   "coords": [
                         16.232413,
@@ -8417,7 +8417,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Plaża Miejska",
-                  "text": "Plaja municipală de pe malul lacului Drawsko.",
+                  "text": "Plaja Municipală de pe lacul Drawsko este o plajă nisipoasă cu debarcader și închiriere de echipament acvatic.",
                   "category": "recreational",
                   "coords": [
                         16.229645,
@@ -8464,7 +8464,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Muzeum zegara",
-                  "text": "A clock museum located near Drawsko Lake.",
+                  "text": "The Clock Museum on Lake Drawsko displays historic clocks and watches.",
                   "category": "museum",
                   "coords": [
                         16.232413,
@@ -8473,7 +8473,7 @@ export const polandNatureV2: POI[] = [
             },
             {
                   "name": "Plaża Miejska",
-                  "text": "The municipal beach on the shores of Drawsko Lake.",
+                  "text": "The Municipal Beach on Lake Drawsko is a sandy beach with a pier and water equipment rental.",
                   "category": "recreational",
                   "coords": [
                         16.229645,

@@ -43,7 +43,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Stanglahnerkopf",
-                  "text": "Ein Gipfel in den Berchtesgadener Alpen in Bayern.",
+                  "text": "Gipfel im Wimbachgries der Berchtesgadener Alpen.",
                   "category": "landmark",
                   "coords": [
                         12.890662,
@@ -70,7 +70,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Zirbeneck",
-                  "text": "Ein kleinerer Gipfel oder Aussichtspunkt in den Berchtesgadener Alpen.",
+                  "text": "Zirbeneck, ein Felsgipfel im Wimbachgries.",
                   "category": "landmark",
                   "coords": [
                         12.895081,
@@ -117,7 +117,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Stanglahnerkopf",
-                  "text": "Hegycsúcs a bajorországi Berchtesgadeni-Alpokban.",
+                  "text": "Csúcs a Wimbachgriesben, a Berchtesgadeni-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         12.890662,
@@ -144,7 +144,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Zirbeneck",
-                  "text": "Kisebb hegycsúcs vagy kilátópont a Berchtesgadeni-Alpokban.",
+                  "text": "Zirbeneck, egy sziklás csúcs a Wimbachgriesben.",
                   "category": "landmark",
                   "coords": [
                         12.895081,
@@ -191,7 +191,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Stanglahnerkopf",
-                  "text": "Un vârf muntos din Alpii Berchtesgaden, în Bavaria.",
+                  "text": "Vârf în Wimbachgries, Alpii Berchtesgaden.",
                   "category": "landmark",
                   "coords": [
                         12.890662,
@@ -218,7 +218,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Zirbeneck",
-                  "text": "Un vârf secundar sau punct de belvedere din Alpii Berchtesgaden.",
+                  "text": "Zirbeneck, un vârf stâncos în Wimbachgries.",
                   "category": "landmark",
                   "coords": [
                         12.895081,
@@ -265,7 +265,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Stanglahnerkopf",
-                  "text": "A mountain peak in the Berchtesgaden Alps in Bavaria.",
+                  "text": "Peak in the Wimbachgries of the Berchtesgaden Alps.",
                   "category": "landmark",
                   "coords": [
                         12.890662,
@@ -292,7 +292,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Zirbeneck",
-                  "text": "A smaller peak or viewpoint in the Berchtesgaden Alps.",
+                  "text": "Zirbeneck, a rocky peak in Wimbachgries.",
                   "category": "landmark",
                   "coords": [
                         12.895081,
@@ -1415,7 +1415,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzkopf",
-                  "text": "Einer der Gipfel im Schwarzwaldgebirge.",
+                  "text": "Berggipfel an der Schwarzwaldhochstraße im Schwarzwald.",
                   "category": "landmark",
                   "coords": [
                         8.2203,
@@ -1489,7 +1489,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzkopf",
-                  "text": "A Fekete-erdő hegység egyik csúcsa.",
+                  "text": "Csúcs a Fekete-erdő-felvidéki úton a Fekete-erdőben.",
                   "category": "landmark",
                   "coords": [
                         8.2203,
@@ -1563,7 +1563,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzkopf",
-                  "text": "Unul dintre vârfurile din lanțul muntos Pădurea Neagră.",
+                  "text": "Vârf pe Drumul Înalt al Pădurii Negre în Pădurea Neagră.",
                   "category": "landmark",
                   "coords": [
                         8.2203,
@@ -1637,7 +1637,7 @@ export const germanyReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzkopf",
-                  "text": "One of the peaks in the Black Forest mountain range.",
+                  "text": "Peak along the Schwarzwaldhochstrasse in the Black Forest.",
                   "category": "landmark",
                   "coords": [
                         8.2203,

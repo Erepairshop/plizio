@@ -25,7 +25,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schneekuppe",
-                  "text": "Ein vergletscherter Gipfel im Bernina-Massiv in der Schweiz.",
+                  "text": "Schneekuppe ist ein schneebedeckter Gipfel in der Nähe des Piz Bernina.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -99,7 +99,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schneekuppe",
-                  "text": "Jegesedett hegycsúcs a svájci Bernina-masszívumban.",
+                  "text": "A Schneekuppe egy hósapkás csúcs a Piz Bernina közelében.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -173,7 +173,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schneekuppe",
-                  "text": "Un vârf acoperit de ghețari în masivul Bernina din Elveția.",
+                  "text": "Schneekuppe este un vârf acoperit de zăpadă lângă Piz Bernina.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -247,7 +247,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schneekuppe",
-                  "text": "A glaciated peak in the Bernina Massif in Switzerland.",
+                  "text": "Schneekuppe is a snow-covered peak near Piz Bernina.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -1492,7 +1492,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wildhauser Schafberg",
-                  "text": "Ein markanter Berggipfel in den Appenzeller Alpen.",
+                  "text": "Wildhauser Schafberg ist ein Berg in der Nähe des Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.352097,
@@ -1501,7 +1501,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Altmann",
-                  "text": "Ein schroffer Alpengipfel, der bei Bergsteigern beliebt ist.",
+                  "text": "Altmann ist ein Gipfel im Säntismassiv.",
                   "category": "landmark",
                   "coords": [
                         9.371574,
@@ -1510,7 +1510,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Nädliger",
-                  "text": "Der Nädliger ist ein Berggipfel im Säntis-Massiv in der Schweiz.",
+                  "text": "Nädliger ist ein Gipfel im Gebiet des Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.36356,
@@ -1528,7 +1528,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Höch Nideri",
-                  "text": "Die Höch Nideri ist ein Berggipfel im Säntis-Massiv.",
+                  "text": "Höch Nideri ist ein Gipfel in der Region des Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.353551,
@@ -1575,7 +1575,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wildhauser Schafberg",
-                  "text": "Jellegzetes hegycsúcs az Appenzelli-Alpokban.",
+                  "text": "A Wildhauser Schafberg egy hegy a Säntis közelében.",
                   "category": "landmark",
                   "coords": [
                         9.352097,
@@ -1584,7 +1584,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Altmann",
-                  "text": "A hegymászók körében népszerű sziklás alpesi csúcs.",
+                  "text": "Az Altmann egy csúcs a Säntis-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         9.371574,
@@ -1593,7 +1593,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Nädliger",
-                  "text": "A Nädliger egy hegycsúcs a svájci Säntis-hegységben.",
+                  "text": "A Nädliger egy csúcs a Säntis környékén.",
                   "category": "landmark",
                   "coords": [
                         9.36356,
@@ -1611,7 +1611,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Höch Nideri",
-                  "text": "A Höch Nideri egy hegycsúcs a Säntis-hegységben.",
+                  "text": "A Höch Nideri egy csúcs a Säntis régiójában.",
                   "category": "landmark",
                   "coords": [
                         9.353551,
@@ -1658,7 +1658,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wildhauser Schafberg",
-                  "text": "Un vârf montan proeminent în Alpii Appenzell.",
+                  "text": "Wildhauser Schafberg este un munte lângă Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.352097,
@@ -1667,7 +1667,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Altmann",
-                  "text": "Un vârf alpin stâncos, popular printre alpiniști.",
+                  "text": "Altmann este un vârf în masivul Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.371574,
@@ -1676,7 +1676,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Nädliger",
-                  "text": "Nädliger este un vârf muntos din masivul Säntis, Elveția.",
+                  "text": "Nädliger este un vârf în zona Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.36356,
@@ -1694,7 +1694,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Höch Nideri",
-                  "text": "Höch Nideri este un vârf muntos din masivul Säntis.",
+                  "text": "Höch Nideri este un vârf în regiunea Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.353551,
@@ -1741,7 +1741,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wildhauser Schafberg",
-                  "text": "A prominent mountain peak in the Appenzell Alps.",
+                  "text": "Wildhauser Schafberg is a mountain near Säntis.",
                   "category": "landmark",
                   "coords": [
                         9.352097,
@@ -1750,7 +1750,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Altmann",
-                  "text": "A rugged Alpine peak popular among mountaineers.",
+                  "text": "Altmann is a peak in the Säntis massif.",
                   "category": "landmark",
                   "coords": [
                         9.371574,
@@ -1759,7 +1759,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Nädliger",
-                  "text": "Nädliger is a mountain peak in the Säntis massif in Switzerland.",
+                  "text": "Nädliger is a peak in the Säntis area.",
                   "category": "landmark",
                   "coords": [
                         9.36356,
@@ -1777,7 +1777,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Höch Nideri",
-                  "text": "Höch Nideri is a mountain peak in the Säntis massif.",
+                  "text": "Höch Nideri is a peak in the Säntis region.",
                   "category": "landmark",
                   "coords": [
                         9.353551,
@@ -1969,7 +1969,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Grand Cornier",
-                  "text": "Ein markanter pyramidenförmiger Gipfel in den Walliser Alpen.",
+                  "text": "Grand Cornier ist ein Gipfel in der Nähe der Dent Blanche.",
                   "category": "landmark",
                   "coords": [
                         7.611567,
@@ -2043,7 +2043,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Grand Cornier",
-                  "text": "Jellegzetes piramis alakú csúcs a Wallisi-Alpokban.",
+                  "text": "A Grand Cornier egy csúcs a Dent Blanche közelében.",
                   "category": "landmark",
                   "coords": [
                         7.611567,
@@ -2117,7 +2117,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Grand Cornier",
-                  "text": "Un vârf proeminent în formă de piramidă în Alpii Pennini.",
+                  "text": "Grand Cornier este un vârf lângă Dent Blanche.",
                   "category": "landmark",
                   "coords": [
                         7.611567,
@@ -2191,7 +2191,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Grand Cornier",
-                  "text": "A prominent pyramid-shaped peak in the Pennine Alps.",
+                  "text": "Grand Cornier is a peak near Dent Blanche.",
                   "category": "landmark",
                   "coords": [
                         7.611567,
@@ -2275,7 +2275,7 @@ export const switzerlandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Piz Blaisun",
-                  "text": "Ein Gipfel in den Albula-Alpen in der Schweiz.",
+                  "text": "Piz Blaisun ist ein Gipfel im Gebiet des Piz Kesch.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -2284,7 +2284,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Forun",
-                  "text": "Ein markanter Berggipfel in den Schweizer Alpen.",
+                  "text": "Der Piz Forun ist ein pyramidenförmiger Gipfel in der Albula-Gruppe der Schweizer Alpen.",
                   "category": "landmark",
                   "coords": [
                         9.864944,
@@ -2320,7 +2320,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "Ein steiler Berggipfel in den Albula-Alpen.",
+                  "text": "Aguoglia d'Es-cha ist eine Felsspitze im Gebiet des Piz Kesch.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -2338,7 +2338,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "Ein Alpengipfel in der Nähe von Zuoz in der Schweiz.",
+                  "text": "Piz Viroula ist ein Gipfel im Gebiet des Piz Kesch.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -2349,7 +2349,7 @@ export const switzerlandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Piz Blaisun",
-                  "text": "Egy hegycsúcs a svájci Albula-Alpokban.",
+                  "text": "A Piz Blaisun egy csúcs a Piz Kesch környékén.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -2358,7 +2358,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Forun",
-                  "text": "Egy jellegzetes hegycsúcs a Svájci Alpokban.",
+                  "text": "A Piz Forun egy piramis alakú csúcs az Albula-csoportban, a svájci Alpokban.",
                   "category": "landmark",
                   "coords": [
                         9.864944,
@@ -2394,7 +2394,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "Egy meredek hegycsúcs az Albula-Alpokban.",
+                  "text": "Az Aguoglia d’Es-cha egy sziklatű a Piz Kesch környékén.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -2412,7 +2412,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "Egy alpesi csúcs a svájci Zuoz közelében.",
+                  "text": "A Piz Viroula egy csúcs a Piz Kesch környékén.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -2423,7 +2423,7 @@ export const switzerlandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Piz Blaisun",
-                  "text": "Un vârf muntos din Alpii Albula, în Elveția.",
+                  "text": "Piz Blaisun este un vârf în zona Piz Kesch.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -2432,7 +2432,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Forun",
-                  "text": "Un vârf muntos distinctiv din Alpii Elvețieni.",
+                  "text": "Piz Forun este un vârf piramidal în grupul Albula din Alpii Elvețieni.",
                   "category": "landmark",
                   "coords": [
                         9.864944,
@@ -2468,7 +2468,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "Un vârf muntos abrupt din Alpii Albula.",
+                  "text": "Aguoglia d'Es-cha este un ac de stâncă în zona Piz Kesch.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -2486,7 +2486,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "Un vârf alpin situat în apropierea localității Zuoz din Elveția.",
+                  "text": "Piz Viroula este un vârf în zona Piz Kesch.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -2497,7 +2497,7 @@ export const switzerlandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Piz Blaisun",
-                  "text": "A mountain peak in the Albula Alps of Switzerland.",
+                  "text": "Piz Blaisun is a peak in the Piz Kesch area.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -2506,7 +2506,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Forun",
-                  "text": "A prominent mountain peak in the Swiss Alps.",
+                  "text": "Piz Forun is a pyramidal peak in the Albula group of the Swiss Alps.",
                   "category": "landmark",
                   "coords": [
                         9.864944,
@@ -2542,7 +2542,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "A steep mountain peak in the Albula Alps.",
+                  "text": "Aguoglia d'Es-cha is a rock spire in the Piz Kesch area.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -2560,7 +2560,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "An Alpine peak located near Zuoz in Switzerland.",
+                  "text": "Piz Viroula is a peak in the Piz Kesch area.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -3409,7 +3409,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Picuogl",
-                  "text": "Ein markanter Berggipfel in den Albula-Alpen.",
+                  "text": "Der Piz Picuogl ist ein felsiger Gipfel in der Albula-Gruppe der Schweizer Alpen.",
                   "category": "landmark",
                   "coords": [
                         9.707981,
@@ -3483,7 +3483,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Picuogl",
-                  "text": "Jellegzetes hegycsúcs az Albula-Alpokban.",
+                  "text": "A Piz Picuogl egy sziklás csúcs az Albula-csoportban, a svájci Alpokban.",
                   "category": "landmark",
                   "coords": [
                         9.707981,
@@ -3557,7 +3557,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Picuogl",
-                  "text": "Un vârf muntos proeminent în Alpii Albula.",
+                  "text": "Piz Picuogl este un vârf stâncos în grupul Albula din Alpii Elvețieni.",
                   "category": "landmark",
                   "coords": [
                         9.707981,
@@ -3631,7 +3631,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Picuogl",
-                  "text": "A prominent mountain peak in the Albula Alps.",
+                  "text": "Piz Picuogl is a rocky summit in the Albula group of the Swiss Alps.",
                   "category": "landmark",
                   "coords": [
                         9.707981,
@@ -4039,7 +4039,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Museo Cà da Rivöi",
-                  "text": "Das Museo Cà da Rivöi ist ein ethnografisches Museum in der Region Olivone.",
+                  "text": "Museo Cà da Rivöi ist ein Museum im Gebiet des Piz Oliva.",
                   "category": "museum",
                   "coords": [
                         8.940925,
@@ -4075,7 +4075,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima Sgiu",
-                  "text": "Die Cima Sgiu ist ein Berggipfel in den Adula-Alpen.",
+                  "text": "Cima Sgiu ist ein Gipfel im Gebiet des Piz Oliva.",
                   "category": "landmark",
                   "coords": [
                         8.970616,
@@ -4084,7 +4084,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Pinadee",
-                  "text": "Die Cima di Pinadee ist ein Gipfel in der Lepontinischen Alpenregion.",
+                  "text": "Die Cima di Pinadee ist ein Berggipfel im Bernina-Massiv oberhalb des Piz Oliva.",
                   "category": "landmark",
                   "coords": [
                         8.976869,
@@ -4113,7 +4113,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Museo Cà da Rivöi",
-                  "text": "A Museo Cà da Rivöi egy néprajzi múzeum Olivone régiójában.",
+                  "text": "A Museo Cà da Rivöi egy múzeum a Piz Oliva környékén.",
                   "category": "museum",
                   "coords": [
                         8.940925,
@@ -4149,7 +4149,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima Sgiu",
-                  "text": "A Cima Sgiu egy hegycsúcs az Adula-Alpokban.",
+                  "text": "A Cima Sgiu egy csúcs a Piz Oliva környékén.",
                   "category": "landmark",
                   "coords": [
                         8.970616,
@@ -4158,7 +4158,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Pinadee",
-                  "text": "A Cima di Pinadee egy hegycsúcs a Lepontini-Alpok régiójában.",
+                  "text": "A Cima di Pinadee egy hegycsúcs a Bernina-masszívumban, a Piz Oliva fölött.",
                   "category": "landmark",
                   "coords": [
                         8.976869,
@@ -4187,7 +4187,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Museo Cà da Rivöi",
-                  "text": "Museo Cà da Rivöi este un muzeu etnografic în regiunea Olivone.",
+                  "text": "Museo Cà da Rivöi este un muzeu în zona Piz Oliva.",
                   "category": "museum",
                   "coords": [
                         8.940925,
@@ -4223,7 +4223,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima Sgiu",
-                  "text": "Cima Sgiu este un vârf montan în Alpii Adula.",
+                  "text": "Cima Sgiu este un vârf în zona Piz Oliva.",
                   "category": "landmark",
                   "coords": [
                         8.970616,
@@ -4232,7 +4232,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Pinadee",
-                  "text": "Cima di Pinadee este un vârf în regiunea Alpilor Lepontini.",
+                  "text": "Cima di Pinadee este un vârf montan în masivul Bernina, deasupra Piz Oliva.",
                   "category": "landmark",
                   "coords": [
                         8.976869,
@@ -4261,7 +4261,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Museo Cà da Rivöi",
-                  "text": "Museo Cà da Rivöi is an ethnographic museum in the Olivone region.",
+                  "text": "Museo Cà da Rivöi is a museum in the Piz Oliva area.",
                   "category": "museum",
                   "coords": [
                         8.940925,
@@ -4297,7 +4297,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima Sgiu",
-                  "text": "Cima Sgiu is a mountain peak in the Adula Alps.",
+                  "text": "Cima Sgiu is a peak in the Piz Oliva area.",
                   "category": "landmark",
                   "coords": [
                         8.970616,
@@ -4306,7 +4306,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Pinadee",
-                  "text": "Cima di Pinadee is a peak in the Lepontine Alps region.",
+                  "text": "Cima di Pinadee is a mountain peak in the Bernina massif above Piz Oliva.",
                   "category": "landmark",
                   "coords": [
                         8.976869,
@@ -4381,7 +4381,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Bundstock",
-                  "text": "Ein Berggipfel im Blüemlisalp-Massiv.",
+                  "text": "Bundstock ist ein Gipfel im Gebiet der Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.749337,
@@ -4390,7 +4390,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Morgenhorn",
-                  "text": "Ein markanter Berggipfel in der Blüemlisalp-Gruppe.",
+                  "text": "Morgenhorn ist ein Gipfel im Gebiet der Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.792174,
@@ -4399,7 +4399,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzhorn",
-                  "text": "Ein alpiner Gipfel in der Region Blüemlisalp.",
+                  "text": "Schwarzhorn ist ein Gipfel im Gebiet der Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.762495,
@@ -4426,7 +4426,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wyssi Frau",
-                  "text": "Einer der Hauptgipfel des Blüemlisalp-Massivs.",
+                  "text": "Wyssi Frau ist ein Gipfel im Gebiet der Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.783168,
@@ -4455,7 +4455,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Bundstock",
-                  "text": "Hegyi csúcs a Blüemlisalp-hegységben.",
+                  "text": "A Bundstock egy csúcs a Blüemlisalp környékén.",
                   "category": "landmark",
                   "coords": [
                         7.749337,
@@ -4464,7 +4464,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Morgenhorn",
-                  "text": "Kiemelkedő hegycsúcs a Blüemlisalp-hegységben.",
+                  "text": "A Morgenhorn egy csúcs a Blüemlisalp környékén.",
                   "category": "landmark",
                   "coords": [
                         7.792174,
@@ -4473,7 +4473,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzhorn",
-                  "text": "Alpesi csúcs a Blüemlisalp régióban.",
+                  "text": "A Schwarzhorn egy csúcs a Blüemlisalp környékén.",
                   "category": "landmark",
                   "coords": [
                         7.762495,
@@ -4500,7 +4500,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wyssi Frau",
-                  "text": "A Blüemlisalp-masszívum egyik fő csúcsa.",
+                  "text": "A Wyssi Frau egy csúcs a Blüemlisalp környékén.",
                   "category": "landmark",
                   "coords": [
                         7.783168,
@@ -4529,7 +4529,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Bundstock",
-                  "text": "Un vârf muntos situat în masivul Blüemlisalp.",
+                  "text": "Bundstock este un vârf în zona Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.749337,
@@ -4538,7 +4538,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Morgenhorn",
-                  "text": "Un vârf muntos proeminent din masivul Blüemlisalp.",
+                  "text": "Morgenhorn este un vârf în zona Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.792174,
@@ -4547,7 +4547,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzhorn",
-                  "text": "Un vârf alpin situat în regiunea Blüemlisalp.",
+                  "text": "Schwarzhorn este un vârf în zona Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.762495,
@@ -4574,7 +4574,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wyssi Frau",
-                  "text": "Unul dintre vârfurile principale ale masivului Blüemlisalp.",
+                  "text": "Wyssi Frau este un vârf în zona Blüemlisalp.",
                   "category": "landmark",
                   "coords": [
                         7.783168,
@@ -4603,7 +4603,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Bundstock",
-                  "text": "A mountain peak located in the Blüemlisalp massif.",
+                  "text": "Bundstock is a peak in the Bluemlisalp area.",
                   "category": "landmark",
                   "coords": [
                         7.749337,
@@ -4612,7 +4612,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Morgenhorn",
-                  "text": "A prominent mountain peak in the Blüemlisalp range.",
+                  "text": "Morgenhorn is a peak in the Bluemlisalp area.",
                   "category": "landmark",
                   "coords": [
                         7.792174,
@@ -4621,7 +4621,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schwarzhorn",
-                  "text": "An alpine peak situated within the Blüemlisalp region.",
+                  "text": "Schwarzhorn is a peak in the Bluemlisalp area.",
                   "category": "landmark",
                   "coords": [
                         7.762495,
@@ -4648,7 +4648,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Wyssi Frau",
-                  "text": "One of the main peaks of the Blüemlisalp massif.",
+                  "text": "Wyssi Frau is a peak in the Bluemlisalp area.",
                   "category": "landmark",
                   "coords": [
                         7.783168,
@@ -4732,7 +4732,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schloss Untertagstein",
-                  "text": "Ein historisches Schloss in der Region am Piz d'Artgas.",
+                  "text": "Eine mittelalterliche Burg auf einem felsigen Hügel bei Piz D Artgas.",
                   "category": "castle",
                   "coords": [
                         9.432322,
@@ -4806,7 +4806,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schloss Untertagstein",
-                  "text": "Történelmi kastély a Piz d'Artgas környéki régióban.",
+                  "text": "Egy középkori vár egy sziklás dombon, Piz D Artgas közelében.",
                   "category": "castle",
                   "coords": [
                         9.432322,
@@ -4880,7 +4880,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schloss Untertagstein",
-                  "text": "Un castel istoric situat în regiunea de la poalele vârfului Piz d'Artgas.",
+                  "text": "Un castel medieval pe o colină stâncoasă lângă Piz D Artgas.",
                   "category": "castle",
                   "coords": [
                         9.432322,
@@ -4954,7 +4954,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Schloss Untertagstein",
-                  "text": "A historic castle located in the region of Piz d'Artgas.",
+                  "text": "A medieval castle on a rocky hill near Piz D Artgas.",
                   "category": "castle",
                   "coords": [
                         9.432322,
@@ -5443,7 +5443,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Lai",
-                  "text": "Ein Berggipfel in der Region Piz Val Gronda.",
+                  "text": "Ein Berggipfel mit einem See am Fuß im Val Gronda-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.385104,
@@ -5461,7 +5461,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chazforà",
-                  "text": "Ein Gipfel in den Alpen im Bereich von Piz Val Gronda.",
+                  "text": "Ein markanter Felsgipfel im Val Gronda-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.411327,
@@ -5517,7 +5517,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Lai",
-                  "text": "Hegycsúcs a Piz Val Gronda régióban.",
+                  "text": "Egy hegycsúcs tóval a lábánál a Val Gronda területén.",
                   "category": "landmark",
                   "coords": [
                         10.385104,
@@ -5535,7 +5535,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chazforà",
-                  "text": "Hegycsúcs az Alpokban, a Piz Val Gronda területén.",
+                  "text": "Egy feltűnő sziklacsúcs a Val Gronda területén.",
                   "category": "landmark",
                   "coords": [
                         10.411327,
@@ -5591,7 +5591,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Lai",
-                  "text": "Un vârf montan în regiunea Piz Val Gronda.",
+                  "text": "Un vârf de munte cu un lac la poale în zona Val Gronda.",
                   "category": "landmark",
                   "coords": [
                         10.385104,
@@ -5609,7 +5609,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chazforà",
-                  "text": "Un vârf în Alpi, în zona Piz Val Gronda.",
+                  "text": "Un vârf stâncos proeminent în zona Val Gronda.",
                   "category": "landmark",
                   "coords": [
                         10.411327,
@@ -5665,7 +5665,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Lai",
-                  "text": "A mountain peak in the Piz Val Gronda region.",
+                  "text": "A mountain peak with a lake at its foot in the Val Gronda area.",
                   "category": "landmark",
                   "coords": [
                         10.385104,
@@ -5683,7 +5683,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chazforà",
-                  "text": "A peak in the Alps within the Piz Val Gronda area.",
+                  "text": "A prominent rocky summit in the Val Gronda area.",
                   "category": "landmark",
                   "coords": [
                         10.411327,
@@ -7153,7 +7153,7 @@ export const switzerlandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Schneekuppe",
-                  "text": "Ein Berggipfel im Bernina-Massiv in den Alpen.",
+                  "text": "Ein schneebedeckter, kuppelförmiger Gipfel bei Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -7180,7 +7180,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Bianco",
-                  "text": "Ein markanter Gipfel in der Bernina-Gruppe der Alpen.",
+                  "text": "Ein weißer (Schnee-/Fels-) Gipfel auf dem Kamm von Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.907222,
@@ -7189,7 +7189,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Palù Occidentale/ Piz Spinas",
-                  "text": "Ein Gipfel des Piz Palü-Massivs in den Bernina-Alpen.",
+                  "text": "Ein westlicher Gipfel des Piz Spinas-Massivs nahe Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.952759,
@@ -7207,7 +7207,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Crast' Agüzza",
-                  "text": "Ein scharfkantiger Felsgipfel in den Bernina-Alpen.",
+                  "text": "Der Crast' Agüzza ist ein gletscherbedeckter Gipfel im Bernina-Massiv der Schweiz.",
                   "category": "landmark",
                   "coords": [
                         9.917006,
@@ -7216,7 +7216,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Roseg",
-                  "text": "Ein imposanter vergletscherter Gipfel in den Bernina-Alpen.",
+                  "text": "Der Pizzo Roseg ist ein markanter Berg mit pyramidenförmiger Spitze oberhalb des Roseg-Gletschers.",
                   "category": "landmark",
                   "coords": [
                         9.883275,
@@ -7227,7 +7227,7 @@ export const switzerlandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Schneekuppe",
-                  "text": "Hegycsúcs az Alpokban, a Bernina-masszívumban.",
+                  "text": "Egy hóval borított, kupola alakú csúcs Piz D Argient közelében.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -7254,7 +7254,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Bianco",
-                  "text": "Jellegzetes csúcs az Alpok Bernina-csoportjában.",
+                  "text": "Egy fehér (hó- vagy szikla-) csúcs a Piz D Argient gerincén.",
                   "category": "landmark",
                   "coords": [
                         9.907222,
@@ -7263,7 +7263,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Palù Occidentale/ Piz Spinas",
-                  "text": "A Piz Palü-masszívum egyik csúcsa a Bernina-Alpokban.",
+                  "text": "A Piz Spinas masszívum nyugati csúcsa Piz D Argient közelében.",
                   "category": "landmark",
                   "coords": [
                         9.952759,
@@ -7281,7 +7281,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Crast' Agüzza",
-                  "text": "Éles sziklás hegycsúcs a Bernina-Alpokban.",
+                  "text": "A Crast' Agüzza egy gleccserrel borított csúcs a svájci Bernina-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         9.917006,
@@ -7290,7 +7290,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Roseg",
-                  "text": "Impozáns gleccserrel borított csúcs a Bernina-Alpokban.",
+                  "text": "A Pizzo Roseg egy jellegzetes hegy piramisszerű csúccsal a Roseg-gleccser fölött.",
                   "category": "landmark",
                   "coords": [
                         9.883275,
@@ -7301,7 +7301,7 @@ export const switzerlandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Schneekuppe",
-                  "text": "Un vârf muntos în masivul Bernina din Alpi.",
+                  "text": "Un vârf în formă de dom acoperit de zăpadă lângă Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -7328,7 +7328,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Bianco",
-                  "text": "Un vârf proeminent în grupul Bernina din Alpi.",
+                  "text": "Un vârf alb (de zăpadă sau stâncă) pe creasta Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.907222,
@@ -7337,7 +7337,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Palù Occidentale/ Piz Spinas",
-                  "text": "Un vârf al masivului Piz Palü din Alpii Bernina.",
+                  "text": "Un vârf vestic al masivului Piz Spinas lângă Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.952759,
@@ -7355,7 +7355,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Crast' Agüzza",
-                  "text": "Un vârf stâncos ascuțit în Alpii Bernina.",
+                  "text": "Crast' Agüzza este un vârf acoperit de ghețar în masivul Bernina din Elveția.",
                   "category": "landmark",
                   "coords": [
                         9.917006,
@@ -7364,7 +7364,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Roseg",
-                  "text": "Un vârf impunător acoperit de ghețari în Alpii Bernina.",
+                  "text": "Pizzo Roseg este un munte proeminent cu un vârf piramidal deasupra ghețarului Roseg.",
                   "category": "landmark",
                   "coords": [
                         9.883275,
@@ -7375,7 +7375,7 @@ export const switzerlandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Schneekuppe",
-                  "text": "A mountain peak in the Bernina massif of the Alps.",
+                  "text": "A snow-capped dome-shaped peak near Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.879842,
@@ -7402,7 +7402,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Bianco",
-                  "text": "A prominent peak in the Bernina group of the Alps.",
+                  "text": "A white (snow/rock) peak on the ridge of Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.907222,
@@ -7411,7 +7411,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Palù Occidentale/ Piz Spinas",
-                  "text": "A peak of the Piz Palü massif in the Bernina Alps.",
+                  "text": "A western peak of the Piz Spinas massif near Piz D Argient.",
                   "category": "landmark",
                   "coords": [
                         9.952759,
@@ -7429,7 +7429,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Crast' Agüzza",
-                  "text": "A sharp rocky peak in the Bernina Alps.",
+                  "text": "Crast' Agüzza is a glacier-covered peak in the Bernina massif of Switzerland.",
                   "category": "landmark",
                   "coords": [
                         9.917006,
@@ -7438,7 +7438,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Roseg",
-                  "text": "An impressive glaciated peak in the Bernina Alps.",
+                  "text": "Pizzo Roseg is a prominent mountain with a pyramidal summit above the Roseg Glacier.",
                   "category": "landmark",
                   "coords": [
                         9.883275,
@@ -7504,7 +7504,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Colombe",
-                  "text": "Ein markanter Alpengipfel in der Region des Gotthardmassivs.",
+                  "text": "Ein nach Tauben benannter Gipfel im Piz D La Drosa-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         8.772598,
@@ -7540,7 +7540,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "Ein Gipfel in den Tessiner Alpen, der für Wanderungen bekannt ist.",
+                  "text": "Ein felsiger Gipfel nahe Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -7578,7 +7578,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Colombe",
-                  "text": "Jelentős alpesi csúcs a Gotthard-masszívum régiójában.",
+                  "text": "Egy galambokról elnevezett csúcs a Piz D La Drosa területén.",
                   "category": "landmark",
                   "coords": [
                         8.772598,
@@ -7614,7 +7614,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "Túrázásról ismert hegycsúcs a Tessini-Alpokban.",
+                  "text": "Egy sziklás csúcs Piz D La Drosa közelében.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -7652,7 +7652,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Colombe",
-                  "text": "Un vârf alpin proeminent în regiunea masivului Gotthard.",
+                  "text": "Un vârf numit după porumbei în zona Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.772598,
@@ -7688,7 +7688,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "Un vârf în Alpii Ticinesi, cunoscut pentru drumeții.",
+                  "text": "Un vârf stâncos lângă Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -7726,7 +7726,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pizzo Colombe",
-                  "text": "A prominent Alpine peak in the Gotthard massif region.",
+                  "text": "A peak named after doves in the Piz D La Drosa area.",
                   "category": "landmark",
                   "coords": [
                         8.772598,
@@ -7762,7 +7762,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "A peak in the Ticino Alps known for hiking.",
+                  "text": "A rocky summit near Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -7864,7 +7864,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Poncione di Vespero",
-                  "text": "Eine markante Erhebung in den Tessiner Alpen.",
+                  "text": "Ein kleiner Gipfel (Poncione) im Piz D La Furca-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         8.581161,
@@ -7882,7 +7882,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto di Pian Pizzo",
-                  "text": "Ein Berggipfel in der Gotthard-Region in der Schweiz.",
+                  "text": "Ein grasbewachsener Hügel nahe Pian Pizzo im Piz D La Furca-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         8.57815,
@@ -7938,7 +7938,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Poncione di Vespero",
-                  "text": "Jellegzetes hegycsúcs a Ticinoi-Alpokban.",
+                  "text": "Egy kis csúcs (Poncione) a Piz D La Furca területén.",
                   "category": "landmark",
                   "coords": [
                         8.581161,
@@ -7956,7 +7956,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto di Pian Pizzo",
-                  "text": "Hegycsúcs a svájci Gotthárd-régióban.",
+                  "text": "Egy füves domb Pian Pizzo közelében a Piz D La Furca területén.",
                   "category": "landmark",
                   "coords": [
                         8.57815,
@@ -8012,7 +8012,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Poncione di Vespero",
-                  "text": "O culme proeminentă în Alpii Ticino.",
+                  "text": "Un vârf mic (Poncione) în zona Piz D La Furca.",
                   "category": "landmark",
                   "coords": [
                         8.581161,
@@ -8030,7 +8030,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto di Pian Pizzo",
-                  "text": "Un vârf muntos în regiunea Gotthard din Elveția.",
+                  "text": "O colină ierboasă lângă Pian Pizzo în zona Piz D La Furca.",
                   "category": "landmark",
                   "coords": [
                         8.57815,
@@ -8086,7 +8086,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Poncione di Vespero",
-                  "text": "A prominent elevation in the Ticino Alps.",
+                  "text": "A small peak (Poncione) in the Piz D La Furca area.",
                   "category": "landmark",
                   "coords": [
                         8.581161,
@@ -8104,7 +8104,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto di Pian Pizzo",
-                  "text": "A mountain peak in the Gotthard region of Switzerland.",
+                  "text": "A grassy hill near Pian Pizzo in the Piz D La Furca area.",
                   "category": "landmark",
                   "coords": [
                         8.57815,
@@ -8224,7 +8224,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto della Croce",
-                  "text": "Der Motto della Croce ist ein Berggipfel in der Region Piz della Tavola.",
+                  "text": "Ein Hügel mit einem Kreuz auf dem Gipfel nahe Piz D La Tavola.",
                   "category": "landmark",
                   "coords": [
                         8.6691,
@@ -8298,7 +8298,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto della Croce",
-                  "text": "A Motto della Croce egy hegycsúcs a Piz della Tavola régióban.",
+                  "text": "Egy domb kereszttel a tetején, Piz D La Tavola közelében.",
                   "category": "landmark",
                   "coords": [
                         8.6691,
@@ -8372,7 +8372,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto della Croce",
-                  "text": "Motto della Croce este un vârf muntos în regiunea Piz della Tavola.",
+                  "text": "O colină cu o cruce pe vârf lângă Piz D La Tavola.",
                   "category": "landmark",
                   "coords": [
                         8.6691,
@@ -8446,7 +8446,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Motto della Croce",
-                  "text": "Motto della Croce is a mountain peak in the Piz della Tavola region.",
+                  "text": "A hill with a cross on its summit near Piz D La Tavola.",
                   "category": "landmark",
                   "coords": [
                         8.6691,
@@ -9160,7 +9160,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "Ein alpiner Gipfel innerhalb der Piz Medel Gebirgsgruppe.",
+                  "text": "Ein weißer Felsgipfel im Piz Medel-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -9234,7 +9234,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "Alpesi csúcs a Piz Medel hegységcsoporton belül.",
+                  "text": "Egy fehér sziklacsúcs a Piz Medel területén.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -9308,7 +9308,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "Un vârf alpin din cadrul grupului montan Piz Medel.",
+                  "text": "Un vârf stâncos alb în zona Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -9382,7 +9382,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "An alpine peak within the Piz Medel mountain group.",
+                  "text": "A white rocky peak in the Piz Medel area.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -9853,7 +9853,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "Ein alpiner Gipfel in der Nähe von Pontresina in den Bündner Alpen.",
+                  "text": "Ein Gipfel im Piz Da Stretta-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -9871,7 +9871,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Chantun",
-                  "text": "Ein Gipfel in der Schweizer Bergwelt, der Ziel für Bergsteiger ist.",
+                  "text": "Eine eckige Felsformation (Chantun) nahe Piz Da Stretta.",
                   "category": "landmark",
                   "coords": [
                         10.009832,
@@ -9927,7 +9927,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "Alpesi csúcs Pontresina közelében, a Graubündeni-Alpokban.",
+                  "text": "Egy csúcs a Piz Da Stretta területén.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -9945,7 +9945,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Chantun",
-                  "text": "Csúcs a svájci hegyekben, amely a hegymászók kedvelt célpontja.",
+                  "text": "Egy szögletes sziklaformáció (Chantun) Piz Da Stretta közelében.",
                   "category": "landmark",
                   "coords": [
                         10.009832,
@@ -10001,7 +10001,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "Un vârf alpin lângă Pontresina, în Alpii din cantonul Grisons.",
+                  "text": "Un vârf în zona Piz Da Stretta.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -10019,7 +10019,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Chantun",
-                  "text": "Un vârf în munții elvețieni, care este o destinație pentru alpiniști.",
+                  "text": "O formațiune stâncoasă colțuroasă (Chantun) lângă Piz Da Stretta.",
                   "category": "landmark",
                   "coords": [
                         10.009832,
@@ -10075,7 +10075,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "An alpine peak near Pontresina in the Grisons Alps.",
+                  "text": "A peak in the Piz Da Stretta area.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -10093,7 +10093,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Chantun",
-                  "text": "A peak in the Swiss mountains that is a destination for mountaineers.",
+                  "text": "A corner-shaped rock formation (Chantun) near Piz Da Stretta.",
                   "category": "landmark",
                   "coords": [
                         10.009832,
@@ -10195,7 +10195,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Sagliaint",
-                  "text": "Ein alpiner Berggipfel in der Region Piz dal Luch.",
+                  "text": "Ein steiler Felsgipfel im Piz D La Luch-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.000219,
@@ -10204,7 +10204,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chatscheders",
-                  "text": "Ein Berggipfel in der Schweizer Gebirgslandschaft.",
+                  "text": "Ein zackiger Gipfel nahe Piz D La Luch.",
                   "category": "landmark",
                   "coords": [
                         10.016451,
@@ -10213,7 +10213,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Fain",
-                  "text": "Ein Berggipfel in den Alpen bei Piz dal Luch.",
+                  "text": "Ein Gipfel mit Heuwiesen am Fuß im Piz D La Luch-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         9.989227,
@@ -10222,7 +10222,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "Ein Berggipfel in der Umgebung von Piz dal Luch.",
+                  "text": "Ein weiterer Gipfel namens Piz Tschüffer im Piz D La Luch-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -10269,7 +10269,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Sagliaint",
-                  "text": "Alpesi hegycsúcs Piz dal Luch régiójában.",
+                  "text": "Egy meredek sziklacsúcs a Piz D La Luch területén.",
                   "category": "landmark",
                   "coords": [
                         10.000219,
@@ -10278,7 +10278,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chatscheders",
-                  "text": "Hegycsúcs a svájci hegyvidéken.",
+                  "text": "Egy szaggatott csúcs Piz D La Luch közelében.",
                   "category": "landmark",
                   "coords": [
                         10.016451,
@@ -10287,7 +10287,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Fain",
-                  "text": "Hegycsúcs az Alpokban, Piz dal Luch közelében.",
+                  "text": "Egy csúcs szénarétekkel a lábánál a Piz D La Luch területén.",
                   "category": "landmark",
                   "coords": [
                         9.989227,
@@ -10296,7 +10296,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "Hegycsúcs Piz dal Luch környékén.",
+                  "text": "Egy másik Piz Tschüffer nevű csúcs a Piz D La Luch területén.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -10343,7 +10343,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Sagliaint",
-                  "text": "Un vârf muntos alpin din regiunea Piz dal Luch.",
+                  "text": "Un vârf stâncos abrupt în zona Piz D La Luch.",
                   "category": "landmark",
                   "coords": [
                         10.000219,
@@ -10352,7 +10352,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chatscheders",
-                  "text": "Un vârf muntos din peisajul montan elvețian.",
+                  "text": "Un vârf zimțat lângă Piz D La Luch.",
                   "category": "landmark",
                   "coords": [
                         10.016451,
@@ -10361,7 +10361,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Fain",
-                  "text": "Un vârf muntos din Alpii de lângă Piz dal Luch.",
+                  "text": "Un vârf cu pajiști de fân la poale în zona Piz D La Luch.",
                   "category": "landmark",
                   "coords": [
                         9.989227,
@@ -10370,7 +10370,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "Un vârf muntos din vecinătatea Piz dal Luch.",
+                  "text": "Un alt vârf numit Piz Tschüffer în zona Piz D La Luch.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -10417,7 +10417,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Sagliaint",
-                  "text": "An alpine mountain peak in the Piz dal Luch region.",
+                  "text": "A steep rocky peak in the Piz D La Luch area.",
                   "category": "landmark",
                   "coords": [
                         10.000219,
@@ -10426,7 +10426,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Chatscheders",
-                  "text": "A mountain peak in the Swiss mountain landscape.",
+                  "text": "A jagged peak near Piz D La Luch.",
                   "category": "landmark",
                   "coords": [
                         10.016451,
@@ -10435,7 +10435,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz dal Fain",
-                  "text": "A mountain peak in the Alps near Piz dal Luch.",
+                  "text": "A peak with hay meadows at its base in the Piz D La Luch area.",
                   "category": "landmark",
                   "coords": [
                         9.989227,
@@ -10444,7 +10444,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Tschüffer",
-                  "text": "A mountain peak in the vicinity of Piz dal Luch.",
+                  "text": "Another peak named Piz Tschüffer in the Piz D La Luch area.",
                   "category": "landmark",
                   "coords": [
                         10.001425,
@@ -11230,7 +11230,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "Ein hoher Berggipfel in der Tessiner Alpenwelt.",
+                  "text": "Ein turmförmiger Felspfeiler nahe Piz D La Drosa N.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -11304,7 +11304,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "Magas hegycsúcs a Ticinoi-Alpok világában.",
+                  "text": "Egy torony alakú sziklatű Piz D La Drosa N közelében.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -11378,7 +11378,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "Un vârf montan înalt în peisajul alpin din Ticino.",
+                  "text": "Un pilier stâncos în formă de turn lângă Piz D La Drosa N.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -11452,7 +11452,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "A high mountain peak in the Ticino alpine landscape.",
+                  "text": "A tower-shaped rock pinnacle near Piz D La Drosa N.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -11527,7 +11527,7 @@ export const switzerlandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Piz Cugn",
-                  "text": "Ein Berggipfel in den Schweizer Alpen südlich des Piz Terri.",
+                  "text": "Ein keilförmiger Gipfel nahe Piz Terri S.",
                   "category": "landmark",
                   "coords": [
                         9.015345,
@@ -11554,7 +11554,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz las Palas",
-                  "text": "Ein Gipfel in der alpinen Landschaft südlich des Piz Terri.",
+                  "text": "Ein flacher Gipfel, der an einen Palast erinnert, im Piz Terri S-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         9.015052,
@@ -11572,7 +11572,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Stiarls",
-                  "text": "Ein Gipfel in den Adula-Alpen in der Nähe des Piz Terri.",
+                  "text": "Ein felsiger Gipfel im Piz Terri S-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         8.981677,
@@ -11581,7 +11581,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Vrin",
-                  "text": "Ein Berg in der Nähe von Vrin in der Greina-Region.",
+                  "text": "Ein Gipfel nahe dem Dorf Vrin im Piz Terri S-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         9.060033,
@@ -11601,7 +11601,7 @@ export const switzerlandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Piz Cugn",
-                  "text": "Hegycsúcs a Svájci-Alpokban, a Piz Territől délre.",
+                  "text": "Egy ék alakú csúcs Piz Terri S közelében.",
                   "category": "landmark",
                   "coords": [
                         9.015345,
@@ -11628,7 +11628,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz las Palas",
-                  "text": "Hegycsúcs az alpini tájon, a Piz Territől délre.",
+                  "text": "Egy lapos tetejű csúcs, amely egy palotára emlékeztet, a Piz Terri S területén.",
                   "category": "landmark",
                   "coords": [
                         9.015052,
@@ -11646,7 +11646,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Stiarls",
-                  "text": "Hegycsúcs az Adula-Alpokban, a Piz Terri közelében.",
+                  "text": "Egy sziklás csúcs a Piz Terri S területén.",
                   "category": "landmark",
                   "coords": [
                         8.981677,
@@ -11655,7 +11655,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Vrin",
-                  "text": "Hegy Vrin közelében, a Greina-régióban.",
+                  "text": "Egy csúcs Vrin falu közelében a Piz Terri S területén.",
                   "category": "landmark",
                   "coords": [
                         9.060033,
@@ -11675,7 +11675,7 @@ export const switzerlandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Piz Cugn",
-                  "text": "Un vârf montan în Alpii Elvețieni, la sud de Piz Terri.",
+                  "text": "Un vârf în formă de pană lângă Piz Terri S.",
                   "category": "landmark",
                   "coords": [
                         9.015345,
@@ -11702,7 +11702,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz las Palas",
-                  "text": "Un vârf în peisajul alpin la sud de Piz Terri.",
+                  "text": "Un vârf cu platou, care amintește de un palat, în zona Piz Terri S.",
                   "category": "landmark",
                   "coords": [
                         9.015052,
@@ -11720,7 +11720,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Stiarls",
-                  "text": "Un vârf în Alpii Adula, situat lângă Piz Terri.",
+                  "text": "Un vârf stâncos în zona Piz Terri S.",
                   "category": "landmark",
                   "coords": [
                         8.981677,
@@ -11729,7 +11729,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Vrin",
-                  "text": "Un munte situat lângă Vrin, în regiunea Greina.",
+                  "text": "Un vârf lângă satul Vrin în zona Piz Terri S.",
                   "category": "landmark",
                   "coords": [
                         9.060033,
@@ -11749,7 +11749,7 @@ export const switzerlandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Piz Cugn",
-                  "text": "A mountain peak in the Swiss Alps, south of Piz Terri.",
+                  "text": "A wedge-shaped peak near Piz Terri S.",
                   "category": "landmark",
                   "coords": [
                         9.015345,
@@ -11776,7 +11776,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz las Palas",
-                  "text": "A peak in the alpine landscape south of Piz Terri.",
+                  "text": "A flat-topped peak resembling a palace in the Piz Terri S area.",
                   "category": "landmark",
                   "coords": [
                         9.015052,
@@ -11794,7 +11794,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Stiarls",
-                  "text": "A peak in the Adula Alps, located near Piz Terri.",
+                  "text": "A rocky summit in the Piz Terri S area.",
                   "category": "landmark",
                   "coords": [
                         8.981677,
@@ -11803,7 +11803,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz da Vrin",
-                  "text": "A mountain near Vrin in the Greina region.",
+                  "text": "A peak near the village of Vrin in the Piz Terri S area.",
                   "category": "landmark",
                   "coords": [
                         9.060033,
@@ -11878,7 +11878,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Garina",
-                  "text": "Die Cima di Garina ist ein Berggipfel in den Schweizer Alpen.",
+                  "text": "Ein Gipfel auf der Westseite von Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.903693,
@@ -11887,7 +11887,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "Die Cima della Bianca ist ein Gipfel in der Region Piz Medel.",
+                  "text": "Ein weißer Gipfel auf dem Westgrat von Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -11896,7 +11896,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Camadra",
-                  "text": "Die Cima di Camadra ist ein Berggipfel in den Adula-Alpen in der Schweiz.",
+                  "text": "Die Cima di Camadra ist ein Berggipfel in der Medel-Gruppe der Schweizer Alpen.",
                   "category": "landmark",
                   "coords": [
                         8.906092,
@@ -11905,7 +11905,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cristallina",
-                  "text": "Der Piz Cristallina ist ein Gipfel in den Lepontinischen Alpen in der Schweiz.",
+                  "text": "Ein kristallartiger Felsgipfel nahe Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.882113,
@@ -11914,7 +11914,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Miez",
-                  "text": "Der Piz Miez ist ein Berggipfel in den Schweizer Alpen.",
+                  "text": "Ein zentraler Gipfel in der Piz Medel-Gruppe.",
                   "category": "landmark",
                   "coords": [
                         8.831951,
@@ -11923,7 +11923,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Uffiern",
-                  "text": "Der Piz Uffiern ist ein Berggipfel in der Region Piz Medel.",
+                  "text": "Ein abgelegener Gipfel im Piz Medel W-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         8.893561,
@@ -11932,7 +11932,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pian",
-                  "text": "Der Piz Pian ist ein Berggipfel in der Nähe des Piz Medel.",
+                  "text": "Ein flacher Gipfel nahe Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.876524,
@@ -11952,7 +11952,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Garina",
-                  "text": "A Cima di Garina egy hegycsúcs a Svájci-Alpokban.",
+                  "text": "Egy csúcs Piz Medel nyugati oldalán.",
                   "category": "landmark",
                   "coords": [
                         8.903693,
@@ -11961,7 +11961,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "A Cima della Bianca egy hegycsúcs a Piz Medel régióban.",
+                  "text": "Egy fehér csúcs Piz Medel nyugati gerincén.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -11970,7 +11970,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Camadra",
-                  "text": "A Cima di Camadra egy hegycsúcs a svájci Adula-Alpokban.",
+                  "text": "A Cima di Camadra egy hegycsúcs a Medel-csoportban, a svájci Alpokban.",
                   "category": "landmark",
                   "coords": [
                         8.906092,
@@ -11979,7 +11979,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cristallina",
-                  "text": "A Piz Cristallina egy hegycsúcs a svájci Lepontini-Alpokban.",
+                  "text": "Egy kristály alakú sziklacsúcs Piz Medel W közelében.",
                   "category": "landmark",
                   "coords": [
                         8.882113,
@@ -11988,7 +11988,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Miez",
-                  "text": "A Piz Miez egy hegycsúcs a Svájci-Alpokban.",
+                  "text": "Egy központi csúcs a Piz Medel csoportban.",
                   "category": "landmark",
                   "coords": [
                         8.831951,
@@ -11997,7 +11997,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Uffiern",
-                  "text": "A Piz Uffiern egy hegycsúcs a Piz Medel régióban.",
+                  "text": "Egy távoli csúcs a Piz Medel W területén.",
                   "category": "landmark",
                   "coords": [
                         8.893561,
@@ -12006,7 +12006,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pian",
-                  "text": "A Piz Pian egy hegycsúcs a Piz Medel közelében.",
+                  "text": "Egy lapos tetejű csúcs Piz Medel W közelében.",
                   "category": "landmark",
                   "coords": [
                         8.876524,
@@ -12026,7 +12026,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Garina",
-                  "text": "Cima di Garina este un vârf muntos din Alpii Elvețieni.",
+                  "text": "Un vârf pe partea vestică a Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.903693,
@@ -12035,7 +12035,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "Cima della Bianca este un vârf din regiunea Piz Medel.",
+                  "text": "Un vârf alb pe creasta vestică a Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -12044,7 +12044,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Camadra",
-                  "text": "Cima di Camadra este un vârf muntos din Alpii Adula, Elveția.",
+                  "text": "Cima di Camadra este un vârf montan în grupul Medel din Alpii Elvețieni.",
                   "category": "landmark",
                   "coords": [
                         8.906092,
@@ -12053,7 +12053,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cristallina",
-                  "text": "Piz Cristallina este un vârf din Alpii Lepontini, Elveția.",
+                  "text": "Un vârf stâncos în formă de cristal lângă Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.882113,
@@ -12062,7 +12062,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Miez",
-                  "text": "Piz Miez este un vârf muntos din Alpii Elvețieni.",
+                  "text": "Un vârf central în grupul Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.831951,
@@ -12071,7 +12071,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Uffiern",
-                  "text": "Piz Uffiern este un vârf muntos din regiunea Piz Medel.",
+                  "text": "Un vârf îndepărtat în zona Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.893561,
@@ -12080,7 +12080,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pian",
-                  "text": "Piz Pian este un vârf muntos din apropiere de Piz Medel.",
+                  "text": "Un vârf cu platou lângă Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.876524,
@@ -12100,7 +12100,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Garina",
-                  "text": "Cima di Garina is a mountain peak in the Swiss Alps.",
+                  "text": "A summit on the western side of Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.903693,
@@ -12109,7 +12109,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima della Bianca",
-                  "text": "Cima della Bianca is a peak in the Piz Medel region.",
+                  "text": "A white peak on the western ridge of Piz Medel.",
                   "category": "landmark",
                   "coords": [
                         8.862948,
@@ -12118,7 +12118,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Cima di Camadra",
-                  "text": "Cima di Camadra is a mountain peak in the Adula Alps in Switzerland.",
+                  "text": "Cima di Camadra is a mountain peak in the Medel group of the Swiss Alps.",
                   "category": "landmark",
                   "coords": [
                         8.906092,
@@ -12127,7 +12127,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cristallina",
-                  "text": "Piz Cristallina is a peak in the Lepontine Alps in Switzerland.",
+                  "text": "A crystal-shaped rocky peak near Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.882113,
@@ -12136,7 +12136,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Miez",
-                  "text": "Piz Miez is a mountain peak in the Swiss Alps.",
+                  "text": "A central peak among the Piz Medel group.",
                   "category": "landmark",
                   "coords": [
                         8.831951,
@@ -12145,7 +12145,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Uffiern",
-                  "text": "Piz Uffiern is a mountain peak located in the Piz Medel region.",
+                  "text": "A remote peak in the Piz Medel W area.",
                   "category": "landmark",
                   "coords": [
                         8.893561,
@@ -12154,7 +12154,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pian",
-                  "text": "Piz Pian is a mountain peak situated near Piz Medel.",
+                  "text": "A flat-topped peak near Piz Medel W.",
                   "category": "landmark",
                   "coords": [
                         8.876524,
@@ -12985,7 +12985,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "Der Pécianett ist ein Alpengipfel im Schweizer Kanton Tessin.",
+                  "text": "Ein felsiger Gipfel südlich von Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -13059,7 +13059,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "A Pécianett egy alpesi hegycsúcs a svájci Ticino kantonban.",
+                  "text": "Egy sziklás csúcs Piz D La Drosától délre.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -13133,7 +13133,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "Pécianett este un vârf alpin din cantonul elvețian Ticino.",
+                  "text": "Un vârf stâncos la sud de Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -13207,7 +13207,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Pécianett",
-                  "text": "Pécianett is an alpine peak in the Swiss canton of Ticino.",
+                  "text": "A rocky summit south of Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.753934,
@@ -13273,7 +13273,7 @@ export const switzerlandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Piz Blaisun",
-                  "text": "Ein markanter Berggipfel in den Albula-Alpen.",
+                  "text": "Ein bläulicher Felsgipfel nahe Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -13291,7 +13291,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Belvair",
-                  "text": "Ein Berggipfel in der Region Graubünden.",
+                  "text": "Ein Gipfel mit Panoramablick im Piz D Es N-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         9.919446,
@@ -13300,7 +13300,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pischa",
-                  "text": "Ein hoher Berggipfel in den Engadiner Alpen.",
+                  "text": "Ein Gipfel nahe einem kleinen See (Angelsee) im Piz D Es N-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         9.865498,
@@ -13309,7 +13309,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "Eine markante Felsformation in den Schweizer Alpen.",
+                  "text": "Eine nadelförmige Felsspitze nahe Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -13318,7 +13318,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Kesch",
-                  "text": "Der höchste Gipfel der Albula-Alpen in der Schweiz.",
+                  "text": "Der Piz Kesch ist mit 3418 m der höchste Berg der Albula-Alpen und hat eine markante Pyramidenform.",
                   "category": "landmark",
                   "coords": [
                         9.872788,
@@ -13327,7 +13327,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "Ein Gipfel in der Umgebung des Piz d'Es-cha.",
+                  "text": "Ein runder Gipfel im Piz D Es N-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -13336,7 +13336,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Val Müra",
-                  "text": "Ein Gebirgsgipfel in den Schweizer Alpen.",
+                  "text": "Ein Gipfel mit Blick auf das Val Müra nahe Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.900929,
@@ -13347,7 +13347,7 @@ export const switzerlandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Piz Blaisun",
-                  "text": "Az Albula-Alpok egyik markáns hegycsúcsa.",
+                  "text": "Egy kékes sziklacsúcs Piz D Es N közelében.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -13365,7 +13365,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Belvair",
-                  "text": "Hegycsúcs Graubünden kantonban.",
+                  "text": "Egy csúcs panorámakilátással a Piz D Es N területén.",
                   "category": "landmark",
                   "coords": [
                         9.919446,
@@ -13374,7 +13374,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pischa",
-                  "text": "Magas hegycsúcs az Engadin-Alpokban.",
+                  "text": "Egy csúcs egy kis tó (horgásztó) közelében a Piz D Es N területén.",
                   "category": "landmark",
                   "coords": [
                         9.865498,
@@ -13383,7 +13383,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "Jellegzetes sziklaképződmény a svájci Alpokban.",
+                  "text": "Egy tű alakú sziklatorony Piz D Es N közelében.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -13392,7 +13392,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Kesch",
-                  "text": "A svájci Albula-Alpok legmagasabb hegycsúcsa.",
+                  "text": "A Piz Kesch 3418 m-rel a legmagasabb csúcs az Albula-Alpokban, jellegzetes piramis alakkal.",
                   "category": "landmark",
                   "coords": [
                         9.872788,
@@ -13401,7 +13401,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "Hegycsúcs a Piz d'Es-cha környékén.",
+                  "text": "Egy lekerekített csúcs a Piz D Es N területén.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -13410,7 +13410,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Val Müra",
-                  "text": "Hegycsúcs a svájci Alpokban.",
+                  "text": "Egy csúcs a Val Müra völgyre néző kilátással, Piz D Es N közelében.",
                   "category": "landmark",
                   "coords": [
                         9.900929,
@@ -13421,7 +13421,7 @@ export const switzerlandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Piz Blaisun",
-                  "text": "Un vârf montan proeminent din Alpii Albula.",
+                  "text": "Un vârf stâncos albăstrui lângă Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -13439,7 +13439,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Belvair",
-                  "text": "Un vârf montan din regiunea Graubünden.",
+                  "text": "Un vârf cu vedere panoramică în zona Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.919446,
@@ -13448,7 +13448,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pischa",
-                  "text": "Un vârf montan înalt din Alpii Engadini.",
+                  "text": "Un vârf lângă un lac mic (de pescuit) în zona Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.865498,
@@ -13457,7 +13457,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "O formațiune stâncoasă distinctivă din Alpii Elvețieni.",
+                  "text": "Un vârf stâncos în formă de ac lângă Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -13466,7 +13466,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Kesch",
-                  "text": "Cel mai înalt vârf din Alpii Albula, în Elveția.",
+                  "text": "Piz Kesch, cu 3418 m, este cel mai înalt vârf din Alpii Albula, având o formă piramidală distinctă.",
                   "category": "landmark",
                   "coords": [
                         9.872788,
@@ -13475,7 +13475,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "Un vârf montan în apropiere de Piz d'Es-cha.",
+                  "text": "Un vârf rotunjit în zona Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -13484,7 +13484,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Val Müra",
-                  "text": "Un vârf montan în Alpii Elvețieni.",
+                  "text": "Un vârf cu vedere spre valea Val Müra lângă Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.900929,
@@ -13495,7 +13495,7 @@ export const switzerlandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Piz Blaisun",
-                  "text": "A prominent mountain peak in the Albula Alps.",
+                  "text": "A bluish rock peak near Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.862883,
@@ -13513,7 +13513,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Belvair",
-                  "text": "A mountain peak in the Graubünden region.",
+                  "text": "A peak with panoramic views in the Piz D Es N area.",
                   "category": "landmark",
                   "coords": [
                         9.919446,
@@ -13522,7 +13522,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Pischa",
-                  "text": "A high mountain peak in the Engadine Alps.",
+                  "text": "A peak near a small lake (fishing) in the Piz D Es N area.",
                   "category": "landmark",
                   "coords": [
                         9.865498,
@@ -13531,7 +13531,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Aguoglia d'Es-cha",
-                  "text": "A distinctive rock formation in the Swiss Alps.",
+                  "text": "A needle-like rock spire near Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.879939,
@@ -13540,7 +13540,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Kesch",
-                  "text": "The highest peak of the Albula Alps in Switzerland.",
+                  "text": "Piz Kesch, at 3418 m, is the highest peak in the Albula Alps with a distinctive pyramidal shape.",
                   "category": "landmark",
                   "coords": [
                         9.872788,
@@ -13549,7 +13549,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Viroula",
-                  "text": "A mountain peak in the vicinity of Piz d'Es-cha.",
+                  "text": "A rounded peak in the Piz D Es N area.",
                   "category": "landmark",
                   "coords": [
                         9.909241,
@@ -13558,7 +13558,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Val Müra",
-                  "text": "A mountain peak in the Swiss Alps.",
+                  "text": "A peak overlooking the Val Müra near Piz D Es N.",
                   "category": "landmark",
                   "coords": [
                         9.900929,
@@ -13669,7 +13669,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Paré di Scut",
-                  "text": "Ein alpiner Gipfel in der Nähe des Piz della Drausa West.",
+                  "text": "Eine senkrechte Felswand (Paré) westlich von Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.789882,
@@ -13678,7 +13678,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "Ein Bergvorsprung im Gebiet des Piz della Drausa West.",
+                  "text": "Ein turmförmiger Felspfeiler westlich von Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -13743,7 +13743,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Paré di Scut",
-                  "text": "Egy alpesi hegycsúcs a Piz della Drausa West közelében.",
+                  "text": "Egy meredek sziklafal (Paré) Piz D La Drosától nyugatra.",
                   "category": "landmark",
                   "coords": [
                         8.789882,
@@ -13752,7 +13752,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "Egy hegycsúcs a Piz della Drausa West területén.",
+                  "text": "Egy torony alakú sziklatű Piz D La Drosától nyugatra.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -13817,7 +13817,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Paré di Scut",
-                  "text": "Un vârf alpin situat în apropiere de Piz della Drausa West.",
+                  "text": "Un perete stâncos vertical (Paré) la vest de Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.789882,
@@ -13826,7 +13826,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "Un vârf muntos în zona Piz della Drausa West.",
+                  "text": "Un pilier stâncos în formă de turn la vest de Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -13891,7 +13891,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Paré di Scut",
-                  "text": "An alpine peak situated near Piz della Drausa West.",
+                  "text": "A sheer rock face (wall) west of Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.789882,
@@ -13900,7 +13900,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Toròi",
-                  "text": "A mountain peak in the Piz della Drausa West area.",
+                  "text": "A tower-shaped rock pinnacle west of Piz D La Drosa.",
                   "category": "landmark",
                   "coords": [
                         8.803434,
@@ -13984,7 +13984,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cavel",
-                  "text": "Ein Alpengipfel in der Nähe von Piz Terri Nord.",
+                  "text": "Ein Gipfel mit einer Höhle nahe Piz Terri N.",
                   "category": "landmark",
                   "coords": [
                         9.020058,
@@ -13993,7 +13993,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Muot la Greina",
-                  "text": "Ein Gipfel in der Greina-Hochebene in den Schweizer Alpen.",
+                  "text": "Ein grasbewachsener Gipfel auf der Greina-Hochebene nahe Piz Terri N.",
                   "category": "landmark",
                   "coords": [
                         9.006572,
@@ -14002,7 +14002,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Ner",
-                  "text": "Ein Berg im Gebiet des Piz Terri Nord in Graubünden.",
+                  "text": "Ein Gipfel nördlich des Piz Terri in den Schweizer Alpen.",
                   "category": "landmark",
                   "coords": [
                         9.025581,
@@ -14058,7 +14058,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cavel",
-                  "text": "Alpesi hegycsúcs a Piz Terri Nord közelében.",
+                  "text": "Egy csúcs barlanggal Piz Terri N közelében.",
                   "category": "landmark",
                   "coords": [
                         9.020058,
@@ -14067,7 +14067,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Muot la Greina",
-                  "text": "Egy csúcs a Greina-fennsíkon, a svájci Alpokban.",
+                  "text": "Egy füves csúcs a Greina-fennsíkon, Piz Terri N közelében.",
                   "category": "landmark",
                   "coords": [
                         9.006572,
@@ -14076,7 +14076,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Ner",
-                  "text": "Egy hegy a Piz Terri Nord területén, Graubünden kantonban.",
+                  "text": "Egy csúcs a Piz Territől északra, a svájci Alpokban.",
                   "category": "landmark",
                   "coords": [
                         9.025581,
@@ -14132,7 +14132,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cavel",
-                  "text": "Un vârf alpin situat în apropiere de Piz Terri Nord.",
+                  "text": "Un vârf cu o peșteră lângă Piz Terri N.",
                   "category": "landmark",
                   "coords": [
                         9.020058,
@@ -14141,7 +14141,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Muot la Greina",
-                  "text": "Un vârf din platoul Greina, în Alpii Elvețieni.",
+                  "text": "Un vârf ierbos pe platoul Greina lângă Piz Terri N.",
                   "category": "landmark",
                   "coords": [
                         9.006572,
@@ -14150,7 +14150,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Ner",
-                  "text": "Un munte în zona Piz Terri Nord din Graubünden.",
+                  "text": "Un vârf la nord de Piz Terri, în Alpii Elvețieni.",
                   "category": "landmark",
                   "coords": [
                         9.025581,
@@ -14206,7 +14206,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cavel",
-                  "text": "An alpine peak located near Piz Terri North.",
+                  "text": "A peak with a cave near Piz Terri N.",
                   "category": "landmark",
                   "coords": [
                         9.020058,
@@ -14215,7 +14215,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Muot la Greina",
-                  "text": "A peak in the Greina plateau region of the Swiss Alps.",
+                  "text": "A grassy meadow summit on the Greina Plateau near Piz Terri N.",
                   "category": "landmark",
                   "coords": [
                         9.006572,
@@ -14224,7 +14224,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Ner",
-                  "text": "A mountain in the Piz Terri North area of Graubünden.",
+                  "text": "A peak north of Piz Terri in the Swiss Alps.",
                   "category": "landmark",
                   "coords": [
                         9.025581,
@@ -14326,7 +14326,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Mot Mezdi",
-                  "text": "Ein Berggipfel in den Alpen bei Piz S-charl West.",
+                  "text": "Ein Gipfel westlich des Piz S Charl im Schweizer Kanton Graubünden.",
                   "category": "landmark",
                   "coords": [
                         10.334817,
@@ -14344,7 +14344,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cotschen",
-                  "text": "Ein Berg in der Region Piz S-charl West.",
+                  "text": "Der rötliche Gipfel Piz Cotschen im Piz-S-Charl-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.353935,
@@ -14353,7 +14353,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz d'Immez",
-                  "text": "Ein Alpengipfel in der Nähe von Piz S-charl West.",
+                  "text": "Der mittlere Gipfel Piz d’Immez auf dem Grat bei Piz S Charl.",
                   "category": "landmark",
                   "coords": [
                         10.378706,
@@ -14362,7 +14362,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz San Jon Dadora",
-                  "text": "Ein Gipfel in den Schweizer Alpen bei Piz S-charl West.",
+                  "text": "Der nach dem heiligen Johannes benannte Berg Piz San Jon Dadora.",
                   "category": "landmark",
                   "coords": [
                         10.328354,
@@ -14400,7 +14400,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Mot Mezdi",
-                  "text": "Hegycsúcs az Alpokban, Piz S-charl West közelében.",
+                  "text": "Egy csúcs a Piz S Charltól nyugatra, Graubünden kantonban.",
                   "category": "landmark",
                   "coords": [
                         10.334817,
@@ -14418,7 +14418,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cotschen",
-                  "text": "Hegycsúcs a Piz S-charl West régióban.",
+                  "text": "A vöröses színű Piz Cotschen-csúcs a Piz S Charl körzetében.",
                   "category": "landmark",
                   "coords": [
                         10.353935,
@@ -14427,7 +14427,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz d'Immez",
-                  "text": "Alpesi hegycsúcs Piz S-charl West közelében.",
+                  "text": "A Piz d’Immez, a középső csúcs a Piz S Charl melletti gerincen.",
                   "category": "landmark",
                   "coords": [
                         10.378706,
@@ -14436,7 +14436,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz San Jon Dadora",
-                  "text": "Hegycsúcs a Svájci-Alpokban, Piz S-charl Westnél.",
+                  "text": "A Piz San Jon Dadora hegy, amely Szent Jánosról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         10.328354,
@@ -14474,7 +14474,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Mot Mezdi",
-                  "text": "Un vârf montan în Alpi, lângă Piz S-charl West.",
+                  "text": "Un vârf la vest de Piz S Charl, în cantonul Graubünden.",
                   "category": "landmark",
                   "coords": [
                         10.334817,
@@ -14492,7 +14492,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cotschen",
-                  "text": "Un munte în regiunea Piz S-charl West.",
+                  "text": "Vârful roșiatic Piz Cotschen în zona Piz S Charl.",
                   "category": "landmark",
                   "coords": [
                         10.353935,
@@ -14501,7 +14501,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz d'Immez",
-                  "text": "Un vârf alpin în apropiere de Piz S-charl West.",
+                  "text": "Piz d’Immez, vârful central de pe creasta de lângă Piz S Charl.",
                   "category": "landmark",
                   "coords": [
                         10.378706,
@@ -14510,7 +14510,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz San Jon Dadora",
-                  "text": "Un vârf în Alpii Elvețieni, lângă Piz S-charl West.",
+                  "text": "Muntele Piz San Jon Dadora, numit după Sfântul Ioan.",
                   "category": "landmark",
                   "coords": [
                         10.328354,
@@ -14548,7 +14548,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Mot Mezdi",
-                  "text": "A mountain peak in the Alps near Piz S-charl West.",
+                  "text": "A peak west of Piz S Charl in the Swiss canton of Graubünden.",
                   "category": "landmark",
                   "coords": [
                         10.334817,
@@ -14566,7 +14566,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz Cotschen",
-                  "text": "A mountain peak in the Piz S-charl West region.",
+                  "text": "The reddish peak Piz Cotschen in the Piz S Charl area.",
                   "category": "landmark",
                   "coords": [
                         10.353935,
@@ -14575,7 +14575,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz d'Immez",
-                  "text": "An Alpine peak situated near Piz S-charl West.",
+                  "text": "Piz d’Immez, the central peak on the ridge near Piz S Charl.",
                   "category": "landmark",
                   "coords": [
                         10.378706,
@@ -14584,7 +14584,7 @@ export const switzerlandReliefV2: POI[] = [
             },
             {
                   "name": "Piz San Jon Dadora",
-                  "text": "A peak in the Swiss Alps near Piz S-charl West.",
+                  "text": "Mount Piz San Jon Dadora, named after Saint John.",
                   "category": "landmark",
                   "coords": [
                         10.328354,

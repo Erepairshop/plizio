@@ -169,7 +169,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Tuorinniemen uimaranta",
-                  "text": "Der Tuorinniemen uimaranta befindet sich beim Zoo Helsinki.",
+                  "text": "Badestrand in Tuorinniemi nahe dem Helsinki-Zoo auf Korkeasaari.",
                   "category": "recreational",
                   "coords": [
                         25.03823,
@@ -178,7 +178,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajasalon uimaranta",
-                  "text": "Strand in der Nähe des Helsinkier Zoos.",
+                  "text": "Badestrand in Laajasalo nahe dem Helsinki-Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.063592,
@@ -187,7 +187,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Torsniemen koirapuisto",
-                  "text": "Strand bei der Hundepark-Anlage.",
+                  "text": "Hundeauslaufgebiet in Torsniemi nahe dem Helsinki-Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.042587,
@@ -205,7 +205,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mustikkamaan uimaranta",
-                  "text": "Mustikkamaan Strand befindet sich in der Nähe des Helsinki Zoos.",
+                  "text": "Badestrand am Mustikkamaa nahe dem Helsinki-Zoo.",
                   "category": "recreational",
                   "coords": [
                         24.993184,
@@ -214,7 +214,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Jollaksen uimaranta",
-                  "text": "Jollaksen uimaranta ist ein Strand in der Nähe von Helsinki.",
+                  "text": "Badestrand in Jollas nahe dem Helsinki-Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.065113,
@@ -223,7 +223,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Kivinokan uimaranta",
-                  "text": "Strand in der Nähe des Helsinkier Zoos.",
+                  "text": "Badestrand in Kivinokka nahe dem Helsinki-Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.005806,
@@ -234,7 +234,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Tuorinniemen uimaranta",
-                  "text": "Tuorinniemen uimaranta a Helsinki Állatkertnél található.",
+                  "text": "Strand Tuorinniemiben, a Helsinki Állatkert (Korkeasaari) közelében.",
                   "category": "recreational",
                   "coords": [
                         25.03823,
@@ -243,7 +243,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajasalon uimaranta",
-                  "text": "Strand a Helsinki Állatkert közelében.",
+                  "text": "Strand Laajasalo szigeten, a Helsinki Állatkert közelében.",
                   "category": "recreational",
                   "coords": [
                         25.063592,
@@ -252,7 +252,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Torsniemen koirapuisto",
-                  "text": "Strand a kutyaparknál.",
+                  "text": "Kutyafuttató Torsniemiben, a Helsinki Állatkert közelében.",
                   "category": "recreational",
                   "coords": [
                         25.042587,
@@ -270,7 +270,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mustikkamaan uimaranta",
-                  "text": "Mustikkamaan strandja a Helsinki Állatkert közelében található.",
+                  "text": "Strand Mustikkamaa szigeten, a Helsinki Állatkert közelében.",
                   "category": "recreational",
                   "coords": [
                         24.993184,
@@ -279,7 +279,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Jollaksen uimaranta",
-                  "text": "A Jollaksen uimaranta egy strand Helsinki közelében.",
+                  "text": "Strand Jollasban, a Helsinki Állatkert közelében.",
                   "category": "recreational",
                   "coords": [
                         25.065113,
@@ -288,7 +288,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Kivinokan uimaranta",
-                  "text": "Strand a Helsinki Állatkert közelében.",
+                  "text": "Strand Kivinokkában, a Helsinki Állatkert közelében.",
                   "category": "recreational",
                   "coords": [
                         25.005806,
@@ -299,7 +299,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Tuorinniemen uimaranta",
-                  "text": "Tuorinniemen uimaranta se află lângă Grădina Zoologică din Helsinki.",
+                  "text": "Plajă în Tuorinniemi, lângă Grădina Zoologică Helsinki pe insula Korkeasaari.",
                   "category": "recreational",
                   "coords": [
                         25.03823,
@@ -308,7 +308,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajasalon uimaranta",
-                  "text": "Plajă în apropierea Grădinii Zoologice din Helsinki.",
+                  "text": "Plajă în Laajasalo, lângă Grădina Zoologică Helsinki.",
                   "category": "recreational",
                   "coords": [
                         25.063592,
@@ -317,7 +317,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Torsniemen koirapuisto",
-                  "text": "Plajă lângă parcul pentru câini.",
+                  "text": "Paradă pentru câini în Torsniemi, lângă Grădina Zoologică Helsinki.",
                   "category": "recreational",
                   "coords": [
                         25.042587,
@@ -335,7 +335,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mustikkamaan uimaranta",
-                  "text": "Plaja Mustikkamaan este situată lângă Grădina Zoologică din Helsinki.",
+                  "text": "Plajă pe insula Mustikkamaa, lângă Grădina Zoologică Helsinki.",
                   "category": "recreational",
                   "coords": [
                         24.993184,
@@ -344,7 +344,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Jollaksen uimaranta",
-                  "text": "Jollaksen uimaranta este o plajă lângă Helsinki.",
+                  "text": "Plajă în Jollas, lângă Grădina Zoologică Helsinki.",
                   "category": "recreational",
                   "coords": [
                         25.065113,
@@ -353,7 +353,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Kivinokan uimaranta",
-                  "text": "Plajă lângă grădina zoologică din Helsinki.",
+                  "text": "Plajă în Kivinokka, lângă Grădina Zoologică Helsinki.",
                   "category": "recreational",
                   "coords": [
                         25.005806,
@@ -364,7 +364,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Tuorinniemen uimaranta",
-                  "text": "Tuorinniemen uimaranta is located near the Helsinki Zoo.",
+                  "text": "Beach at Tuorinniemi near Helsinki Zoo on Korkeasaari island.",
                   "category": "recreational",
                   "coords": [
                         25.03823,
@@ -373,7 +373,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajasalon uimaranta",
-                  "text": "Beach near the Helsinki Zoo.",
+                  "text": "Beach on Laajasalo island near Helsinki Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.063592,
@@ -382,7 +382,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Torsniemen koirapuisto",
-                  "text": "Beach near the dog park area.",
+                  "text": "Dog park at Torsniemi near Helsinki Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.042587,
@@ -400,7 +400,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mustikkamaan uimaranta",
-                  "text": "Mustikkamaan beach is located near the Helsinki Zoo.",
+                  "text": "Beach on Mustikkamaa island near Helsinki Zoo.",
                   "category": "recreational",
                   "coords": [
                         24.993184,
@@ -409,7 +409,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Jollaksen uimaranta",
-                  "text": "Jollaksen uimaranta is a beach near Helsinki.",
+                  "text": "Beach at Jollas near Helsinki Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.065113,
@@ -418,7 +418,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Kivinokan uimaranta",
-                  "text": "Beach near the Helsinki Zoo.",
+                  "text": "Beach at Kivinokka near Helsinki Zoo.",
                   "category": "recreational",
                   "coords": [
                         25.005806,
@@ -1114,7 +1114,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Venäjänhiekka",
-                  "text": "Badestrand Venäjänhiekka im Tiilikkajärvi-Nationalpark.",
+                  "text": "Sandstrand ‚Venäjänhiekka‘ am Tiilikkajärvi-See.",
                   "category": "recreational",
                   "coords": [
                         28.301693,
@@ -1134,7 +1134,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Venäjänhiekka",
-                  "text": "Venäjänhiekka strand a Tiilikkajärvi Nemzeti Parkban.",
+                  "text": "Venäjänhiekka homokos strand a Tiilikkajärvi-tónál.",
                   "category": "recreational",
                   "coords": [
                         28.301693,
@@ -1154,7 +1154,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Venäjänhiekka",
-                  "text": "Plaja Venäjänhiekka din Parcul Național Tiilikkajärvi.",
+                  "text": "Plaja nisipoasă Venäjänhiekka pe lacul Tiilikkajärvi.",
                   "category": "recreational",
                   "coords": [
                         28.301693,
@@ -1174,7 +1174,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Venäjänhiekka",
-                  "text": "Venäjänhiekka beach in Tiilikkajärvi National Park.",
+                  "text": "Russian Sand beach on Lake Tiilikkajärvi.",
                   "category": "recreational",
                   "coords": [
                         28.301693,
@@ -1375,7 +1375,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Lapinhiekka",
-                  "text": "Strand Lapinhiekka im Hiidenportti-Nationalpark.",
+                  "text": "Sandstrand ‚Lapinhiekka‘ im Nationalpark Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.028182,
@@ -1384,7 +1384,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uittohiekka",
-                  "text": "Strand Uittohiekka im Hiidenportti-Nationalpark.",
+                  "text": "Sandstrand ‚Uittohiekka‘ im Nationalpark Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.026133,
@@ -1393,7 +1393,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Miekkahiekka",
-                  "text": "Strand Miekkahiekka im Hiidenportti-Nationalpark.",
+                  "text": "Sandstrand ‚Miekkahiekka‘ im Nationalpark Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.026964,
@@ -1422,7 +1422,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Lapinhiekka",
-                  "text": "Lapinhiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "text": "Lapinhiekka homokos strand a Hiidenportti Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         29.028182,
@@ -1431,7 +1431,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uittohiekka",
-                  "text": "Uittohiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "text": "Uittohiekka homokos strand a Hiidenportti Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         29.026133,
@@ -1440,7 +1440,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Miekkahiekka",
-                  "text": "Miekkahiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "text": "Miekkahiekka homokos strand a Hiidenportti Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         29.026964,
@@ -1469,7 +1469,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Lapinhiekka",
-                  "text": "Plaja Lapinhiekka din Parcul Național Hiidenportti.",
+                  "text": "Plaja nisipoasă Lapinhiekka în Parcul Național Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.028182,
@@ -1478,7 +1478,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uittohiekka",
-                  "text": "Plaja Uittohiekka din Parcul Național Hiidenportti.",
+                  "text": "Plaja nisipoasă Uittohiekka în Parcul Național Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.026133,
@@ -1487,7 +1487,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Miekkahiekka",
-                  "text": "Plaja Miekkahiekka din Parcul Național Hiidenportti.",
+                  "text": "Plaja nisipoasă Miekkahiekka în Parcul Național Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.026964,
@@ -1516,7 +1516,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Lapinhiekka",
-                  "text": "Lapinhiekka beach in Hiidenportti National Park.",
+                  "text": "Lapinhiekka sand beach in Hiidenportti National Park.",
                   "category": "recreational",
                   "coords": [
                         29.028182,
@@ -1525,7 +1525,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uittohiekka",
-                  "text": "Uittohiekka beach in Hiidenportti National Park.",
+                  "text": "Uittohiekka sand beach in Hiidenportti National Park.",
                   "category": "recreational",
                   "coords": [
                         29.026133,
@@ -1534,7 +1534,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Miekkahiekka",
-                  "text": "Miekkahiekka beach in Hiidenportti National Park.",
+                  "text": "Miekkahiekka sand beach in Hiidenportti National Park.",
                   "category": "recreational",
                   "coords": [
                         29.026964,
@@ -1861,7 +1861,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Siikanevan luonnonsuojelualue",
-                  "text": "Naturschutzgebiet zum Schutz ausgedehnter finnischer Moore.",
+                  "text": "Naturschutzgebiet Siikaneva im Siikaneva-Moor.",
                   "category": "natural",
                   "coords": [
                         24.123405,
@@ -1870,7 +1870,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Siikanevan soidensuojelualue",
-                  "text": "Schutzgebiet für Moor- und Feuchtgebiete.",
+                  "text": "Moorschutzgebiet Siikaneva im Siikaneva-Moor.",
                   "category": "natural",
                   "coords": [
                         24.164744,
@@ -1881,7 +1881,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Siikanevan luonnonsuojelualue",
-                  "text": "Kiterjedt finn lápokat védő természetvédelmi terület.",
+                  "text": "Siikaneva természetvédelmi terület a Siikaneva-lápon.",
                   "category": "natural",
                   "coords": [
                         24.123405,
@@ -1890,7 +1890,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Siikanevan soidensuojelualue",
-                  "text": "Láp- és mocsári ökoszisztémák védett területe.",
+                  "text": "Siikaneva lápvédelmi terület a Siikaneva-lápon.",
                   "category": "natural",
                   "coords": [
                         24.164744,
@@ -1901,7 +1901,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Siikanevan luonnonsuojelualue",
-                  "text": "Rezervație naturală care protejează mlaștini finlandeze extinse.",
+                  "text": "Rezervația naturală Siikaneva în mlaștina Siikaneva.",
                   "category": "natural",
                   "coords": [
                         24.123405,
@@ -1910,7 +1910,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Siikanevan soidensuojelualue",
-                  "text": "Zonă de conservare pentru ecosistemele de mlaștină.",
+                  "text": "Zona protejată de mlaștină Siikaneva în Siikaneva Mire.",
                   "category": "natural",
                   "coords": [
                         24.164744,
@@ -1921,7 +1921,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Siikanevan luonnonsuojelualue",
-                  "text": "Nature reserve protecting extensive Finnish mires.",
+                  "text": "Siikaneva nature reserve in Siikaneva Mire.",
                   "category": "natural",
                   "coords": [
                         24.123405,
@@ -1930,7 +1930,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Siikanevan soidensuojelualue",
-                  "text": "Conservation area for bog and wetland ecosystems.",
+                  "text": "Siikaneva mire protection area in Siikaneva Mire.",
                   "category": "natural",
                   "coords": [
                         24.164744,
@@ -1987,7 +1987,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Munkkiniemen uimaranta",
-                  "text": "Der Munkkiniemen uimaranta liegt im Naturschutzgebiet Laajalahti.",
+                  "text": "Badestrand in Munkkiniemi nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.856597,
@@ -1996,7 +1996,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Westendin uimaranta",
-                  "text": "Der Westendin uimaranta liegt im Naturschutzgebiet Laajalahti.",
+                  "text": "Badestrand in Westend nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.809951,
@@ -2005,7 +2005,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin uimaranta",
-                  "text": "Strand im Naturgebiet Laajalahti in der Nähe von Espoo.",
+                  "text": "Badestrand in Toppelund nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.787495,
@@ -2014,7 +2014,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta",
-                  "text": "Ein Strand an der Bucht Haukilahti in Espoo.",
+                  "text": "Badestrand in Haukilahden nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.781539,
@@ -2023,7 +2023,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Karhusaaren uimaranta",
-                  "text": "Strand im Naturschutzgebiet Laajalahti.",
+                  "text": "Badestrand auf der Insel Karhusaari nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.829752,
@@ -2032,7 +2032,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta (Mellsten)",
-                  "text": "Haukilahden uimaranta ist ein Strand im Laajalahti-Reservat.",
+                  "text": "Badestrand Haukilahden (Mellsten) nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.773175,
@@ -2041,7 +2041,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin koirauimaranta",
-                  "text": "Hundestrand im Schutzgebiet Laajalahti.",
+                  "text": "Hundestrand in Toppelund nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.783949,
@@ -2050,7 +2050,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtisaaren uimaranta",
-                  "text": "Lehtisaaren uimaranta liegt im Laajalahti-Reservat.",
+                  "text": "Badestrand auf der Insel Lehtisaari nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.850503,
@@ -2059,7 +2059,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajalahden uimaranta",
-                  "text": "Ein Strand am Naturschutzgebiet Laajalahti.",
+                  "text": "Badestrand an der Laajalahti-Bucht nahe dem Laajalahti-Naturschutzgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.829382,
@@ -2070,7 +2070,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Munkkiniemen uimaranta",
-                  "text": "Munkkiniemen uimaranta a Laajalahti természetvédelmi területen található.",
+                  "text": "Strand Munkkiniemiben, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.856597,
@@ -2079,7 +2079,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Westendin uimaranta",
-                  "text": "Westendin uimaranta a Laajalahti természetvédelmi területen található.",
+                  "text": "Strand Westendben, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.809951,
@@ -2088,7 +2088,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin uimaranta",
-                  "text": "Strand a Laajalahti természetvédelmi területen, Espoo közelében.",
+                  "text": "Strand Toppelundban, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.787495,
@@ -2097,7 +2097,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta",
-                  "text": "Strand a Haukilahti-öbölben, Espoo városában.",
+                  "text": "Strand Haukilahdenben, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.781539,
@@ -2106,7 +2106,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Karhusaaren uimaranta",
-                  "text": "Strand a Laajalahti természetvédelmi területen.",
+                  "text": "Strand a Karhusaari szigeten, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.829752,
@@ -2115,7 +2115,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta (Mellsten)",
-                  "text": "Haukilahden uimaranta egy strand a Laajalahti Rezervátumban.",
+                  "text": "Haukilahden strand (Mellsten) a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.773175,
@@ -2124,7 +2124,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin koirauimaranta",
-                  "text": "Kutyás strand a Laajalahti természetvédelmi területen.",
+                  "text": "Kutyás strand Toppelundban, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.783949,
@@ -2133,7 +2133,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtisaaren uimaranta",
-                  "text": "A Lehtisaaren uimaranta a Laajalahti rezervátumban található.",
+                  "text": "Strand a Lehtisaari szigeten, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.850503,
@@ -2142,7 +2142,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajalahden uimaranta",
-                  "text": "Strand a Laajalahti természetvédelmi terület mellett.",
+                  "text": "Strand a Laajalahti-öbölben, a Laajalahti Természetvédelmi Terület közelében.",
                   "category": "recreational",
                   "coords": [
                         24.829382,
@@ -2153,7 +2153,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Munkkiniemen uimaranta",
-                  "text": "Munkkiniemen uimaranta se află în rezervația Laajalahti.",
+                  "text": "Plajă în Munkkiniemi, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.856597,
@@ -2162,7 +2162,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Westendin uimaranta",
-                  "text": "Westendin uimaranta se află în rezervația Laajalahti.",
+                  "text": "Plajă în Westend, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.809951,
@@ -2171,7 +2171,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin uimaranta",
-                  "text": "Plajă în rezervația naturală Laajalahti, lângă Espoo.",
+                  "text": "Plajă în Toppelund, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.787495,
@@ -2180,7 +2180,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta",
-                  "text": "O plajă în golful Haukilahti din Espoo.",
+                  "text": "Plajă în Haukilahden, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.781539,
@@ -2189,7 +2189,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Karhusaaren uimaranta",
-                  "text": "Plajă în Rezervația Naturală Laajalahti.",
+                  "text": "Plajă pe insula Karhusaari, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.829752,
@@ -2198,7 +2198,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta (Mellsten)",
-                  "text": "Haukilahden uimaranta este o plajă situată în Rezervația Laajalahti.",
+                  "text": "Plaja Haukilahden (Mellsten) lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.773175,
@@ -2207,7 +2207,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin koirauimaranta",
-                  "text": "Plajă pentru câini în rezervația Laajalahti.",
+                  "text": "Plajă pentru câini în Toppelund, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.783949,
@@ -2216,7 +2216,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtisaaren uimaranta",
-                  "text": "Lehtisaaren uimaranta este situată în rezervația Laajalahti.",
+                  "text": "Plajă pe insula Lehtisaari, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.850503,
@@ -2225,7 +2225,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajalahden uimaranta",
-                  "text": "O plajă lângă rezervația naturală Laajalahti.",
+                  "text": "Plajă în golful Laajalahti, lângă Rezervația Laajalahti.",
                   "category": "recreational",
                   "coords": [
                         24.829382,
@@ -2236,7 +2236,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Munkkiniemen uimaranta",
-                  "text": "Munkkiniemen uimaranta is located in the Laajalahti Reserve.",
+                  "text": "Beach in Munkkiniemi near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.856597,
@@ -2245,7 +2245,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Westendin uimaranta",
-                  "text": "Westendin uimaranta is located in the Laajalahti Reserve.",
+                  "text": "Beach in Westend near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.809951,
@@ -2254,7 +2254,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin uimaranta",
-                  "text": "Beach in the Laajalahti Nature Reserve near Espoo.",
+                  "text": "Beach at Toppelund near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.787495,
@@ -2263,7 +2263,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta",
-                  "text": "A beach in the Haukilahti bay in Espoo.",
+                  "text": "Beach at Haukilahden near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.781539,
@@ -2272,7 +2272,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Karhusaaren uimaranta",
-                  "text": "Beach in Laajalahti Reserve.",
+                  "text": "Beach on Karhusaari island near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.829752,
@@ -2281,7 +2281,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Haukilahden uimaranta (Mellsten)",
-                  "text": "Haukilahden uimaranta is a beach in the Laajalahti Reserve.",
+                  "text": "Haukilahden beach (Mellsten) near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.773175,
@@ -2290,7 +2290,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Toppelundin koirauimaranta",
-                  "text": "Dog beach in the Laajalahti reserve.",
+                  "text": "Dog beach at Toppelund near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.783949,
@@ -2299,7 +2299,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtisaaren uimaranta",
-                  "text": "Lehtisaaren uimaranta is located in the Laajalahti Reserve.",
+                  "text": "Beach on Lehtisaari island near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.850503,
@@ -2308,7 +2308,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Laajalahden uimaranta",
-                  "text": "A beach by the Laajalahti nature reserve.",
+                  "text": "Beach on Laajalahti bay near Laajalahti Reserve.",
                   "category": "recreational",
                   "coords": [
                         24.829382,
@@ -2590,7 +2590,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Santalahden ranta",
-                  "text": "Strand beim Sapokka-Park in Kotka.",
+                  "text": "Badestrand an der Santalahti-Bucht im Sapokka-Park in Kotka.",
                   "category": "recreational",
                   "coords": [
                         26.864405,
@@ -2601,7 +2601,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Santalahden ranta",
-                  "text": "Strand a kotkai Sapokka parknál.",
+                  "text": "Strand a Santalahti-öbölben, a Kotkai Sapokka Parkban.",
                   "category": "recreational",
                   "coords": [
                         26.864405,
@@ -2612,7 +2612,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Santalahden ranta",
-                  "text": "Plajă lângă parcul Sapokka din Kotka.",
+                  "text": "Plajă în golful Santalahti, în Parcul Sapokka din Kotka.",
                   "category": "recreational",
                   "coords": [
                         26.864405,
@@ -2623,7 +2623,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Santalahden ranta",
-                  "text": "Beach by the Sapokka park in Kotka.",
+                  "text": "Beach on Santalahti bay in Sapokka Park, Kotka.",
                   "category": "recreational",
                   "coords": [
                         26.864405,
@@ -2680,7 +2680,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Siikajärven uimapaikka",
-                  "text": "Siikajärven uimapaikka liegt im Nuuksio-Nationalpark.",
+                  "text": "Badeplatz am Siikajärvi-See im Nuuksio-Nationalpark.",
                   "category": "recreational",
                   "coords": [
                         24.516598,
@@ -2689,7 +2689,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lammaskallion uimaranta",
-                  "text": "Badestrand Lammaskallio im Nationalpark Nuuksio.",
+                  "text": "Badestrand am Lammaskallio-Felsen im Nuuksio-Nationalpark.",
                   "category": "recreational",
                   "coords": [
                         24.425796,
@@ -2734,7 +2734,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtimäen taikametsä",
-                  "text": "Ein idyllisches Waldstück, das für seine natürliche Schönheit bekannt ist.",
+                  "text": "Zauberwald von Lehtimäki im Nuuksio-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         24.507156,
@@ -2743,7 +2743,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mäkelän luonnonsuojelualue",
-                  "text": "Ein lokales Naturschutzgebiet mit vielfältiger Flora und Fauna.",
+                  "text": "Naturschutzgebiet Mäkelä im Nuuksio-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         24.526553,
@@ -2752,7 +2752,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "Ein geschütztes Bachtal mit einer reichen Artenvielfalt.",
+                  "text": "Bachtal-Naturschutzgebiet Saukonnoro im Nuuksio-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         24.535215,
@@ -2781,7 +2781,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Siikajärven uimapaikka",
-                  "text": "Siikajärven uimapaikka a Nuuksio Nemzeti Parkban található.",
+                  "text": "Strand a Siikajärvi-tónál a Nuuksio Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         24.516598,
@@ -2790,7 +2790,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lammaskallion uimaranta",
-                  "text": "Lammaskallio strand a Nuuksio Nemzeti Parkban.",
+                  "text": "Strand a Lammaskallio-sziklánál a Nuuksio Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         24.425796,
@@ -2835,7 +2835,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtimäen taikametsä",
-                  "text": "Egy idilli erdőrész, amely természeti szépségéről ismert.",
+                  "text": "Lehtimäki varázserdő a Nuuksio Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         24.507156,
@@ -2844,7 +2844,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mäkelän luonnonsuojelualue",
-                  "text": "Egy helyi természetvédelmi terület változatos növény- és állatvilággal.",
+                  "text": "Mäkelä természetvédelmi terület a Nuuksio Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         24.526553,
@@ -2853,7 +2853,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "Egy védett patakvölgy gazdag biológiai sokféleséggel.",
+                  "text": "Saukonnoro-patakvölgy természetvédelmi terület a Nuuksio Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         24.535215,
@@ -2882,7 +2882,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Siikajärven uimapaikka",
-                  "text": "Siikajärven uimapaikka se află în Parcul Național Nuuksio.",
+                  "text": "Loc de înot pe lacul Siikajärvi în Parcul Național Nuuksio.",
                   "category": "recreational",
                   "coords": [
                         24.516598,
@@ -2891,7 +2891,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lammaskallion uimaranta",
-                  "text": "Plaja Lammaskallio din Parcul Național Nuuksio.",
+                  "text": "Plajă la stânca Lammaskallio în Parcul Național Nuuksio.",
                   "category": "recreational",
                   "coords": [
                         24.425796,
@@ -2936,7 +2936,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtimäen taikametsä",
-                  "text": "O porțiune de pădure idilică, cunoscută pentru frumusețea sa naturală.",
+                  "text": "Pădurea fermecată Lehtimäki în Parcul Național Nuuksio.",
                   "category": "natural",
                   "coords": [
                         24.507156,
@@ -2945,7 +2945,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mäkelän luonnonsuojelualue",
-                  "text": "O rezervație naturală locală cu o floră și faună diversă.",
+                  "text": "Rezervația naturală Mäkelä în Parcul Național Nuuksio.",
                   "category": "natural",
                   "coords": [
                         24.526553,
@@ -2954,7 +2954,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "O vale de pârâu protejată, cu o biodiversitate bogată.",
+                  "text": "Rezervația naturală a văii pârâului Saukonnoro în Parcul Național Nuuksio.",
                   "category": "natural",
                   "coords": [
                         24.535215,
@@ -2983,7 +2983,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Siikajärven uimapaikka",
-                  "text": "Siikajärven uimapaikka is in Nuuksio National Park.",
+                  "text": "Swimming spot on Lake Siikajärvi in Nuuksio National Park.",
                   "category": "recreational",
                   "coords": [
                         24.516598,
@@ -2992,7 +2992,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lammaskallion uimaranta",
-                  "text": "Lammaskallio beach in Nuuksio National Park.",
+                  "text": "Beach at Lammaskallio cliff in Nuuksio National Park.",
                   "category": "recreational",
                   "coords": [
                         24.425796,
@@ -3037,7 +3037,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Lehtimäen taikametsä",
-                  "text": "An idyllic forest area known for its natural beauty.",
+                  "text": "Lehtimäki magic forest in Nuuksio National Park.",
                   "category": "natural",
                   "coords": [
                         24.507156,
@@ -3046,7 +3046,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Mäkelän luonnonsuojelualue",
-                  "text": "A local nature reserve with diverse flora and fauna.",
+                  "text": "Mäkelä nature reserve in Nuuksio National Park.",
                   "category": "natural",
                   "coords": [
                         24.526553,
@@ -3055,7 +3055,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "A protected stream valley with rich biodiversity.",
+                  "text": "Saukonnoro brook valley nature reserve in Nuuksio National Park.",
                   "category": "natural",
                   "coords": [
                         24.535215,
@@ -3130,7 +3130,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Matarinpuiston uimaranta",
-                  "text": "Der Matarinpuiston uimaranta liegt bei Sipoonkorpi.",
+                  "text": "Badestrand im Matarinpuisto-Park in Sipoonkorpi.",
                   "category": "recreational",
                   "coords": [
                         25.091659,
@@ -3141,7 +3141,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Matarinpuiston uimaranta",
-                  "text": "Matarinpuiston uimaranta Sipoonkorpi közelében található.",
+                  "text": "Strand a Matarinpuisto parkban, Sipoonkorpi területén.",
                   "category": "recreational",
                   "coords": [
                         25.091659,
@@ -3152,7 +3152,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Matarinpuiston uimaranta",
-                  "text": "Matarinpuiston uimaranta se află lângă Sipoonkorpi.",
+                  "text": "Plajă în parcul Matarinpuisto din Sipoonkorpi.",
                   "category": "recreational",
                   "coords": [
                         25.091659,
@@ -3163,7 +3163,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Matarinpuiston uimaranta",
-                  "text": "Matarinpuiston uimaranta is near Sipoonkorpi.",
+                  "text": "Beach in Matarinpuisto park in Sipoonkorpi.",
                   "category": "recreational",
                   "coords": [
                         25.091659,
@@ -3382,7 +3382,7 @@ export const finlandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Ruoveden kotiseutumuseo",
-                  "text": "Ein Heimatmuseum, das das Leben und die Geschichte der Region Ruovesi dokumentiert.",
+                  "text": "Heimatmuseum von Ruovesi nahe dem Reovesi-Wildtiergebiet.",
                   "category": "museum",
                   "coords": [
                         24.065896,
@@ -3391,7 +3391,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uimaranta",
-                  "text": "Ein öffentlicher Badestrand am See in der Gegend von Ruovesi.",
+                  "text": "Badestrand nahe dem Reovesi-Wildtiergebiet.",
                   "category": "recreational",
                   "coords": [
                         24.08197,
@@ -3400,7 +3400,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Seurantalo Sointula",
-                  "text": "Ein historisches Versammlungshaus und lokales Kulturmuseum.",
+                  "text": "Gemeinschaftshaus Sointula im Reovesi-Wildtiergebiet.",
                   "category": "museum",
                   "coords": [
                         24.064372,
@@ -3447,7 +3447,7 @@ export const finlandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Ruoveden kotiseutumuseo",
-                  "text": "Ruovesi régió életét és történelmét dokumentáló helytörténeti múzeum.",
+                  "text": "Ruovesi helytörténeti múzeum a Reovesi Vadon közelében.",
                   "category": "museum",
                   "coords": [
                         24.065896,
@@ -3456,7 +3456,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uimaranta",
-                  "text": "Nyilvános tóparti strand Ruovesi környékén.",
+                  "text": "Strand a Reovesi Vadon közelében.",
                   "category": "recreational",
                   "coords": [
                         24.08197,
@@ -3465,7 +3465,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Seurantalo Sointula",
-                  "text": "Történelmi gyülekezeti ház és helyi kulturális múzeum.",
+                  "text": "Sointula közösségi ház a Reovesi Vadonban.",
                   "category": "museum",
                   "coords": [
                         24.064372,
@@ -3512,7 +3512,7 @@ export const finlandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Ruoveden kotiseutumuseo",
-                  "text": "Un muzeu de istorie locală care documentează viața și istoria regiunii Ruovesi.",
+                  "text": "Muzeul de istorie locală Ruovesi lângă zona sălbatică Reovesi.",
                   "category": "museum",
                   "coords": [
                         24.065896,
@@ -3521,7 +3521,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uimaranta",
-                  "text": "O plajă publică la lac în zona Ruovesi.",
+                  "text": "Plajă lângă zona sălbatică Reovesi.",
                   "category": "recreational",
                   "coords": [
                         24.08197,
@@ -3530,7 +3530,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Seurantalo Sointula",
-                  "text": "O casă istorică de adunări și muzeu cultural local.",
+                  "text": "Casa comunitară Sointula în zona sălbatică Reovesi.",
                   "category": "museum",
                   "coords": [
                         24.064372,
@@ -3577,7 +3577,7 @@ export const finlandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Ruovesi local history museum",
-                  "text": "A local history museum documenting the life and history of the Ruovesi region.",
+                  "text": "Ruovesi local history museum near Reovesi Wildlife area.",
                   "category": "museum",
                   "coords": [
                         24.065896,
@@ -3586,7 +3586,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Uimaranta",
-                  "text": "A public lakeside beach in the Ruovesi area.",
+                  "text": "Beach near Reovesi Wildlife area.",
                   "category": "recreational",
                   "coords": [
                         24.08197,
@@ -3595,7 +3595,7 @@ export const finlandLifeV2: POI[] = [
             },
             {
                   "name": "Seurantalo Sointula",
-                  "text": "A historic assembly house and local cultural museum.",
+                  "text": "Community hall Sointula in Reovesi Wildlife area.",
                   "category": "museum",
                   "coords": [
                         24.064372,

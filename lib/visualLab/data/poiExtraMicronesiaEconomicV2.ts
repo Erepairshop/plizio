@@ -232,7 +232,7 @@ export const micronesiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka ist ein Strand in Kolonia.",
+                  "text": "Ein Erholungsgebiet namens Nipik En Lidakihka in Kolonia Commerce.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -250,7 +250,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Der Eel Pool ist eine Attraktion mit Aalen in Kolonia.",
+                  "text": "Ein familienfreundliches natürliches Becken mit Aalen in Kolonia Commerce.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -259,7 +259,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Der Pohnpei Swimming Pool ist ein Wasserpark in Kolonia.",
+                  "text": "Ein öffentliches Schwimmbad in Kolonia Commerce.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -268,7 +268,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw ist ein Gipfel in Kolonia.",
+                  "text": "Ein Berg auf Pohnpei in der Nähe von Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -277,7 +277,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "Pohn Dollen Net ist ein Berg bei Kolonia.",
+                  "text": "Ein Berg auf Pohnpei in der Nähe von Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -286,7 +286,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "Der Sokehs Mountain bietet einen Ausblick über Kolonia.",
+                  "text": "Sokehs Mountain, ein markanter Gipfel auf Pohnpei in der Nähe von Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -295,7 +295,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier ist ein Gipfel in Kolonia.",
+                  "text": "Ein Berg auf Pohnpei in der Nähe von Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -331,7 +331,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kepindau Waterfall",
-                  "text": "Die Kepindau Wasserfälle sind eine beliebte Attraktion in Kolonia.",
+                  "text": "Die Kepindau-Wasserfälle in Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -340,7 +340,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Die Klippe ist eine natürliche Attraktion in Kolonia.",
+                  "text": "Eine markante Klippenwand in Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -349,7 +349,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WW2 Tank Graveyard",
-                  "text": "Der japanische Panzersfriedhof ist ein historischer Ort in Kolonia.",
+                  "text": "Ein japanischer Panzerfriedhof aus dem Zweiten Weltkrieg in Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.216998,
@@ -360,7 +360,7 @@ export const micronesiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "A Nipik En Lidakihka egy tengerpart Koloniában.",
+                  "text": "Nipik En Lidakihka nevű rekreációs terület Kolonia Commerce-ban.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -378,7 +378,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Az Eel Pool egy angolnás látnivaló Koloniában.",
+                  "text": "Családbarát természetes medence angolnákkal Kolonia Commerce-ban.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -387,7 +387,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "A Pohnpei Swimming Pool egy vízi park Koloniában.",
+                  "text": "Nyilvános uszoda Kolonia Commerce-ban.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -396,7 +396,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "A Dolen Metipw egy hegycsúcs Koloniában.",
+                  "text": "Egy hegy Pohnpein, Kolonia Commerce közelében.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -405,7 +405,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "A Pohn Dollen Net egy hegy Kolonia mellett.",
+                  "text": "Egy hegy Pohnpein, Kolonia Commerce közelében.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -414,7 +414,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "A Sokehs hegy kilátást nyújt Kolonia városára.",
+                  "text": "Sokehs Mountain, egy kiemelkedő csúcs Pohnpein, Kolonia Commerce közelében.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -423,7 +423,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "A Dolen Nier egy hegycsúcs Koloniában.",
+                  "text": "Egy hegy Pohnpein, Kolonia Commerce közelében.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -459,7 +459,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kepindau Waterfall",
-                  "text": "A Kepindau vízesések egy népszerű látnivaló Koloniában.",
+                  "text": "Kepindau-vízesés Kolonia Commerce-ban.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -468,7 +468,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "A sziklafal egy természeti látnivaló Koloniában.",
+                  "text": "Egy feltűnő sziklafal Kolonia Commerce-ban.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -477,7 +477,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WW2 Tank Graveyard",
-                  "text": "A japán tanktemető egy történelmi hely Koloniában.",
+                  "text": "Második világháborús japán tanktemető Kolonia Commerce-ban.",
                   "category": "landmark",
                   "coords": [
                         158.216998,
@@ -488,7 +488,7 @@ export const micronesiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka este o plajă în Kolonia.",
+                  "text": "O zonă de agrement numită Nipik En Lidakihka în Kolonia Commerce.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -506,7 +506,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool este o atracție cu anghile în Kolonia.",
+                  "text": "Un bazin natural prietenos cu familiile, populat de anghile în Kolonia Commerce.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -515,7 +515,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool este un parc acvatic în Kolonia.",
+                  "text": "O piscină publică în Kolonia Commerce.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -524,7 +524,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw este un vârf muntos în Kolonia.",
+                  "text": "Un munte pe Pohnpei, lângă Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -533,7 +533,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "Pohn Dollen Net este un munte lângă Kolonia.",
+                  "text": "Un munte pe Pohnpei, lângă Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -542,7 +542,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "Muntele Sokehs oferă o vedere asupra orașului Kolonia.",
+                  "text": "Sokehs Mountain, un vârf proeminent pe Pohnpei, lângă Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -551,7 +551,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier este un vârf muntos în Kolonia.",
+                  "text": "Un munte pe Pohnpei, lângă Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -587,7 +587,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kepindau Waterfall",
-                  "text": "Cascadele Kepindau sunt o atracție populară în Kolonia.",
+                  "text": "Cascada Kepindau în Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -596,7 +596,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Stânca este o atracție naturală în Kolonia.",
+                  "text": "O față de stâncă proeminentă în Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -605,7 +605,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WW2 Tank Graveyard",
-                  "text": "Cimitirul de tancuri japonez este un loc istoric în Kolonia.",
+                  "text": "Un cimitir de tancuri japoneze din al Doilea Război Mondial în Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.216998,
@@ -616,7 +616,7 @@ export const micronesiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka is a beach in Kolonia.",
+                  "text": "A recreational area named Nipik En Lidakihka in Kolonia Commerce.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -634,7 +634,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "The Eel Pool is an attraction featuring eels in Kolonia.",
+                  "text": "A family-friendly natural pool inhabited by eels in Kolonia Commerce.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -643,7 +643,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "The Pohnpei Swimming Pool is a water park in Kolonia.",
+                  "text": "A public swimming pool in Kolonia Commerce.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -652,7 +652,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw is a mountain peak in Kolonia.",
+                  "text": "A mountain on Pohnpei near Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -661,7 +661,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "Pohn Dollen Net is a mountain near Kolonia.",
+                  "text": "A mountain on Pohnpei near Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -670,7 +670,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Sokehs Mountain",
-                  "text": "Sokehs Mountain offers a view over Kolonia.",
+                  "text": "Sokehs Mountain, a prominent peak on Pohnpei near Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -679,7 +679,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier is a mountain peak in Kolonia.",
+                  "text": "A mountain on Pohnpei near Kolonia Commerce.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -715,7 +715,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kepindau Falls",
-                  "text": "The Kepindau Falls are a popular attraction in Kolonia.",
+                  "text": "Kepindau Falls in Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -724,7 +724,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "The cliff face is a natural attraction in Kolonia.",
+                  "text": "A prominent cliff face in Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -733,7 +733,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WW2 Tank Graveyard",
-                  "text": "The Japanese tank graveyard is a historical site in Kolonia.",
+                  "text": "A World War II Japanese tank graveyard in Kolonia Commerce.",
                   "category": "landmark",
                   "coords": [
                         158.216998,
@@ -880,7 +880,7 @@ export const micronesiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Afarafar",
-                  "text": "Afarafar ist ein Berggipfel in Weno Geschäftszentrum.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -889,7 +889,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "Nauno ist ein Gipfel in der Gegend von Weno Geschäftszentrum.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -898,7 +898,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "Nenino ist ein Berggipfel in Weno Geschäftszentrum.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -907,7 +907,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "Teroken ist ein Gipfel in Weno Geschäftszentrum.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -916,7 +916,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "Tonnachau ist ein markanter Gipfel in Weno Geschäftszentrum.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -925,7 +925,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "Das Japanese War Memorial ist eine Sehenswürdigkeit in Weno Geschäftszentrum.",
+                  "text": "Japanisches Kriegerdenkmal in Weno Commerce, errichtet im Februar 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -934,7 +934,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "Wichen Falls ist eine Naturattraktion in Weno Geschäftszentrum.",
+                  "text": "Wichen Falls in Weno Commerce.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -954,7 +954,7 @@ export const micronesiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Afarafar",
-                  "text": "Az Afarafar egy hegycsúcs Weno Geschäftszentrum területén.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -963,7 +963,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "A Nauno egy hegycsúcs Weno Geschäftszentrum térségében.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -972,7 +972,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "A Nenino egy hegycsúcs Weno Geschäftszentrum területén.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -981,7 +981,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "A Teroken egy hegycsúcs Weno Geschäftszentrum térségében.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -990,7 +990,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "A Tonnachau egy kiemelkedő hegycsúcs Weno Geschäftszentrum területén.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -999,7 +999,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "A Japanese War Memorial egy látványosság Weno Geschäftszentrum területén.",
+                  "text": "Japán háborús emlékmű Weno Commerce-ben, 1980 februárjában állították.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -1008,7 +1008,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "A Wichen Falls egy természeti látványosság Weno Geschäftszentrum városában.",
+                  "text": "Wichen-vízesés Weno Commerce-ban.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -1028,7 +1028,7 @@ export const micronesiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Afarafar",
-                  "text": "Afarafar este un vârf de munte situat în Weno Geschäftszentrum.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -1037,7 +1037,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "Nauno este un vârf montan situat în zona Weno Geschäftszentrum.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -1046,7 +1046,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "Nenino este un vârf de munte aflat în Weno Geschäftszentrum.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -1055,7 +1055,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "Teroken este un vârf de munte din Weno Geschäftszentrum.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -1064,7 +1064,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "Tonnachau este un vârf de munte proeminent din Weno Geschäftszentrum.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -1073,7 +1073,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "Japanese War Memorial este o atracție situată în Weno Geschäftszentrum.",
+                  "text": "Monumentul japonez de război din Weno Commerce, ridicat în februarie 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -1082,7 +1082,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "Wichen Falls este o atracție naturală în Weno Geschäftszentrum.",
+                  "text": "Cascada Wichen în Weno Commerce.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -1102,7 +1102,7 @@ export const micronesiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Afarafar",
-                  "text": "Afarafar is a mountain peak located in Weno Geschäftszentrum.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -1111,7 +1111,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "Nauno is a peak situated in the area of Weno Geschäftszentrum.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -1120,7 +1120,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "Nenino is a mountain peak located in Weno Geschäftszentrum.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -1129,7 +1129,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "Teroken is a peak to be found in Weno Geschäftszentrum.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -1138,7 +1138,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "Tonnachau is a prominent peak situated in Weno Geschäftszentrum.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -1147,7 +1147,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "The Japanese War Memorial is an attraction located in Weno Geschäftszentrum.",
+                  "text": "Japanese war memorial in Weno Commerce, erected in February 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -1156,7 +1156,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "Wichen Falls is a natural attraction in Weno Geschäftszentrum.",
+                  "text": "Wichen Falls in Weno Commerce.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -1231,7 +1231,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "Das Kosrae Museum bewahrt die Kultur der Insel.",
+                  "text": "Das Kosrae-Museum in Tofol Center.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1240,7 +1240,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "Finol Finkol ist ein Berg auf Kosrae.",
+                  "text": "Finol Finkol, ein Gipfel auf der Insel Kosrae, in der Nähe von Tofol Center.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1260,7 +1260,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "A Kosrae Múzeum a sziget kultúráját őrzi.",
+                  "text": "A Kosrae Múzeum Tofol Centerben.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1269,7 +1269,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "A Finol Finkol egy hegy Kosrae szigetén.",
+                  "text": "Finol Finkol, egy csúcs Kosrae szigetén, Tofol Center közelében.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1289,7 +1289,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "Muzeul Kosrae conservă cultura insulei.",
+                  "text": "Muzeul Kosrae din Tofol Center.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1298,7 +1298,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "Finol Finkol este un munte pe Kosrae.",
+                  "text": "Finol Finkol, un vârf pe insula Kosrae, lângă Tofol Center.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1318,7 +1318,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "The Kosrae Museum preserves the culture of the island.",
+                  "text": "The Kosrae Museum in Tofol Center.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1327,7 +1327,7 @@ export const micronesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "Finol Finkol is a mountain on Kosrae.",
+                  "text": "Finol Finkol, a peak on Kosrae Island, near Tofol Center.",
                   "category": "natural",
                   "coords": [
                         162.991557,

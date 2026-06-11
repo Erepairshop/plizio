@@ -193,7 +193,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Radnóti Miklós Művelődési Központ",
-                  "text": "Ein Galerie- und Kulturzentrum in Óbuda.",
+                  "text": "Kulturzentrum in Újlipótváros, Óbuda.",
                   "category": "museum",
                   "coords": [
                         19.056545,
@@ -247,7 +247,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Dominikanerkloster",
-                  "text": "Die Ruinen eines historischen Dominikanerklosters in Óbuda.",
+                  "text": "Dominikanerkloster gegründet 1252 in Óbuda.",
                   "category": "historical",
                   "coords": [
                         19.051292,
@@ -274,7 +274,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Ágoston-kápolna",
-                  "text": "Eine religiöse Kapelle in Óbuda.",
+                  "text": "Augustinuskapelle in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.049262,
@@ -346,7 +346,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Lagerberg-Höhle",
-                  "text": "Eine natürliche Höhlenattraktion in Óbuda.",
+                  "text": "Höhle auf dem Tábor-Hügel in Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.011914,
@@ -355,7 +355,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "FOKA-öböl",
-                  "text": "Eine Bucht und ein Erholungsgebiet in Óbuda.",
+                  "text": "Bucht FOKA-öböl an der Donau in Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.06467,
@@ -364,7 +364,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Musikbrunnen",
-                  "text": "Ein musikalischer Springbrunnen und Attraktion in Óbuda.",
+                  "text": "Musikbrunnen auf der Margareteninsel, Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.044815,
@@ -373,7 +373,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Musikbrunnen",
-                  "text": "Eine musikalische Wasserattraktion in Óbuda.",
+                  "text": "Weiterer Musikbrunnen auf der Margareteninsel, Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.052119,
@@ -499,7 +499,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Flórián tér",
-                  "text": "Flórián tér ist ein bekannter Park und öffentlicher Platz in Óbuda.",
+                  "text": "Flórián tér Park im historischen Bezirk Óbuda.",
                   "category": "park",
                   "coords": [
                         19.039096,
@@ -508,7 +508,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kolosy tér",
-                  "text": "Kolosy tér ist ein bekannter Park und zentraler Platz in der Stadt Óbuda.",
+                  "text": "Öffentlicher Platz und Park in Óbuda.",
                   "category": "park",
                   "coords": [
                         19.038361,
@@ -526,7 +526,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Budapest Galéria",
-                  "text": "Die Budapest Galéria ist eine Kunstgalerie in Óbuda.",
+                  "text": "Kunstmuseum im barocken Zichy-Palast in Óbuda.",
                   "category": "museum",
                   "coords": [
                         19.044793,
@@ -535,7 +535,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "Szent Mihály-templom ist eine lokale Kultstätte in Óbuda.",
+                  "text": "Barocke römisch-katholische Kirche in der Altstadt von Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -553,7 +553,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai Evangélikus Egyházközség",
-                  "text": "Óbudai Evangélikus Egyházközség ist eine Kultstätte in Óbuda.",
+                  "text": "Evangelische Kirche an den Ufern der Donau in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.039391,
@@ -562,7 +562,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szentháromság-templom",
-                  "text": "Szentháromság-templom ist eine Kultstätte in Óbuda.",
+                  "text": "Kirche, entworfen von Dénes Perczel, in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.032416,
@@ -571,7 +571,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sziget Fesztivál",
-                  "text": "Das Sziget Festival ist eine Touristenattraktion in Óbuda.",
+                  "text": "Großes Musikfestival, das jährlich auf der Óbuda-Insel an der Donau stattfindet.",
                   "category": "landmark",
                   "coords": [
                         19.054324,
@@ -589,7 +589,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "tanmedence",
-                  "text": "Ein Schwimmbecken in Óbuda für Kinder und Anfänger.",
+                  "text": "Bräunungsbecken (tanmedence) im Familienbad Óbuda.",
                   "category": "family",
                   "coords": [
                         19.062414,
@@ -598,7 +598,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Irgalmasok Veli bej fürdője",
-                  "text": "Ein öffentliches Bad in Óbuda mit einer entspannten Atmosphäre.",
+                  "text": "Veli bej Spa, ein türkisches Bad in Óbuda.",
                   "category": "family",
                   "coords": [
                         19.036984,
@@ -616,7 +616,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "Ein Schwimmbecken in Óbuda für das tägliche Bahnenziehen.",
+                  "text": "Schwimmbecken im Familienbad Óbuda.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -625,7 +625,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "33-as medence",
-                  "text": "Ein Schwimmbecken in Óbuda mit einer Länge von 33 Metern.",
+                  "text": "Becken Nr. 33 im Familienbad Óbuda.",
                   "category": "family",
                   "coords": [
                         19.043183,
@@ -634,7 +634,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Műugró medence",
-                  "text": "Ein spezielles Becken in Óbuda für das Wasserspringen.",
+                  "text": "Sprungbecken im Familienbad Óbuda.",
                   "category": "family",
                   "coords": [
                         19.042652,
@@ -661,7 +661,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Hullámmedence",
-                  "text": "Ein Wellenbad in Óbuda für Action und Spaß im Wasser.",
+                  "text": "Wellenbad im Palatinus Strandbad in Óbuda.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -670,7 +670,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Termál",
-                  "text": "Ein Thermalbecken in Óbuda für ein entspannendes Badevergnügen.",
+                  "text": "Thermalbecken im Familienbad Óbuda.",
                   "category": "family",
                   "coords": [
                         19.05749,
@@ -852,7 +852,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Radnóti Miklós Művelődési Központ",
-                  "text": "Egy galéria és kulturális központ Óbudán.",
+                  "text": "Művelődési központ Újlipótvárosban, Óbudán.",
                   "category": "museum",
                   "coords": [
                         19.056545,
@@ -906,7 +906,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Domonkos kolostor",
-                  "text": "Egy történelmi domonkos kolostor romjai Óbudán.",
+                  "text": "1252-ben alapított domonkos kolostor Óbudán.",
                   "category": "historical",
                   "coords": [
                         19.051292,
@@ -933,7 +933,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Ágoston-kápolna",
-                  "text": "Egy vallási kápolna Óbudán.",
+                  "text": "Szent Ágoston-kápolna Óbudán.",
                   "category": "religious",
                   "coords": [
                         19.049262,
@@ -1005,7 +1005,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Táborhegyi-barlang",
-                  "text": "Egy természetes barlangi látványosság Óbudán.",
+                  "text": "Barlang a Tábor-hegyen Óbudán.",
                   "category": "landmark",
                   "coords": [
                         19.011914,
@@ -1014,7 +1014,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "FOKA-öböl",
-                  "text": "Egy öböl és pihenőövezet Óbudán.",
+                  "text": "FOKA-öböl, Duna-parti öböl Óbudán.",
                   "category": "landmark",
                   "coords": [
                         19.06467,
@@ -1023,7 +1023,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zenélő szökőkút",
-                  "text": "Egy zenélő szökőkút és látványosság Óbudán.",
+                  "text": "Zenélő szökőkút a Margit-szigeten, Óbudán.",
                   "category": "landmark",
                   "coords": [
                         19.044815,
@@ -1032,7 +1032,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zenélő kút",
-                  "text": "Egy zenélő vízi látványosság Óbudán.",
+                  "text": "Másik zenélő kút a Margit-szigeten, Óbudán.",
                   "category": "landmark",
                   "coords": [
                         19.052119,
@@ -1158,7 +1158,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Flórián tér",
-                  "text": "A Flórián tér egy jelentős park és közterület Óbudán.",
+                  "text": "Flórián tér park az óbudai történelmi negyedben.",
                   "category": "park",
                   "coords": [
                         19.039096,
@@ -1167,7 +1167,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kolosy tér",
-                  "text": "A Kolosy tér egy jelentős park és központi tér Óbudán.",
+                  "text": "Köztér és park Óbudán.",
                   "category": "park",
                   "coords": [
                         19.038361,
@@ -1185,7 +1185,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Budapest Galéria",
-                  "text": "A Budapest Galéria egy művészeti galéria Óbudán.",
+                  "text": "Művészeti múzeum az óbudai Zichy-kastélyban.",
                   "category": "museum",
                   "coords": [
                         19.044793,
@@ -1194,7 +1194,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "A Szent Mihály-templom egy helyi istentiszteleti hely Óbudán.",
+                  "text": "Barokk római katolikus templom Óbuda óvárosában.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -1212,7 +1212,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai Evangélikus Egyházközség",
-                  "text": "Az Óbudai Evangélikus Egyházközség egy istentiszteleti hely Óbudán.",
+                  "text": "Evangélikus templom a Duna partján Óbudán.",
                   "category": "religious",
                   "coords": [
                         19.039391,
@@ -1221,7 +1221,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szentháromság-templom",
-                  "text": "A Szentháromság-templom egy vallási épület Óbudán.",
+                  "text": "Perczel Dénes által tervezett templom Óbudán.",
                   "category": "religious",
                   "coords": [
                         19.032416,
@@ -1230,7 +1230,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sziget Fesztivál",
-                  "text": "A Sziget Fesztivál egy turisztikai látványosság Óbudán.",
+                  "text": "Nagy zenei fesztivál, amelyet évente rendeznek meg az Óbudai-szigeten a Dunán.",
                   "category": "landmark",
                   "coords": [
                         19.054324,
@@ -1248,7 +1248,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "tanmedence",
-                  "text": "Óbudai úszómedence gyermekek és kezdők számára.",
+                  "text": "Tanmedence (barnító medence) az óbudai családi fürdőben.",
                   "category": "family",
                   "coords": [
                         19.062414,
@@ -1257,7 +1257,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Irgalmasok Veli bej fürdője",
-                  "text": "Közfürdő Óbudán nyugodt légkörrel a látogatóknak.",
+                  "text": "Veli bej Spa, török fürdő Óbudán.",
                   "category": "family",
                   "coords": [
                         19.036984,
@@ -1275,7 +1275,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "Óbudai úszómedence a napi úszáshoz.",
+                  "text": "Úszómedence az óbudai családi fürdőben.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -1284,7 +1284,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "33-as medence",
-                  "text": "33 méter hosszú úszómedence Óbudán.",
+                  "text": "33-as medence az óbudai családi fürdőben.",
                   "category": "family",
                   "coords": [
                         19.043183,
@@ -1293,7 +1293,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Műugró medence",
-                  "text": "Speciális műugró medence Óbudán a sportág kedvelőinek.",
+                  "text": "Műugró medence az óbudai családi fürdőben.",
                   "category": "family",
                   "coords": [
                         19.042652,
@@ -1320,7 +1320,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Hullámmedence",
-                  "text": "Hullámmedence Óbudán a vízi szórakozásért és kalandokért.",
+                  "text": "Hullámmedence a Palatinus Strandfürdőben, Óbudán.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -1329,7 +1329,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Termál",
-                  "text": "Termálmedence Óbudán a pihentető fürdőzésért.",
+                  "text": "Termálmedence az óbudai családi fürdőben.",
                   "category": "family",
                   "coords": [
                         19.05749,
@@ -1511,7 +1511,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Radnóti Miklós Művelődési Központ",
-                  "text": "O galerie și centru cultural în Óbuda.",
+                  "text": "Centru cultural în Újlipótváros, Óbuda.",
                   "category": "museum",
                   "coords": [
                         19.056545,
@@ -1565,7 +1565,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Domonkos kolostor",
-                  "text": "Ruinele unei mănăstiri dominicane istorice din Óbuda.",
+                  "text": "Mănăstire dominicană fondată în 1252 în Óbuda.",
                   "category": "historical",
                   "coords": [
                         19.051292,
@@ -1592,7 +1592,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Ágoston-kápolna",
-                  "text": "O capelă religioasă în Óbuda.",
+                  "text": "Capela Sfântul Augustin în Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.049262,
@@ -1664,7 +1664,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Táborhegyi-barlang",
-                  "text": "O atracție de peșteră naturală în Óbuda.",
+                  "text": "Peștera de pe dealul Tábor în Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.011914,
@@ -1673,7 +1673,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "FOKA-öböl",
-                  "text": "Un golf și o zonă de recreere în Óbuda.",
+                  "text": "Golful FOKA-öböl pe Dunăre în Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.06467,
@@ -1682,7 +1682,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zenélő szökőkút",
-                  "text": "O fântână muzicală și atracție în Óbuda.",
+                  "text": "Fântână muzicală pe Insula Margareta, Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.044815,
@@ -1691,7 +1691,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zenélő kút",
-                  "text": "O atracție de apă muzicală în Óbuda.",
+                  "text": "Altă fântână muzicală pe Insula Margareta, Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.052119,
@@ -1817,7 +1817,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Flórián tér",
-                  "text": "Flórián tér este un parc și o piață publică notabilă din Óbuda.",
+                  "text": "Parcul Flórián tér în cartierul istoric Óbuda.",
                   "category": "park",
                   "coords": [
                         19.039096,
@@ -1826,7 +1826,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kolosy tér",
-                  "text": "Kolosy tér este un parc notabil și o piață centrală în orașul Óbuda.",
+                  "text": "Piață publică și parc în Óbuda.",
                   "category": "park",
                   "coords": [
                         19.038361,
@@ -1844,7 +1844,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Budapest Galéria",
-                  "text": "Budapest Galéria este o galerie de artă situată în Óbuda.",
+                  "text": "Muzeu de artă găzduit în Palatul Zichy baroc din Óbuda.",
                   "category": "museum",
                   "coords": [
                         19.044793,
@@ -1853,7 +1853,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "Szent Mihály-templom este un lăcaș de cult local din Óbuda.",
+                  "text": "Biserică romano-catolică barocă în centrul istoric al Óbudei.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -1871,7 +1871,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai Evangélikus Egyházközség",
-                  "text": "Óbudai Evangélikus Egyházközség este un lăcaș de cult situat în Óbuda.",
+                  "text": "Biserică luterană pe malul Dunării în Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.039391,
@@ -1880,7 +1880,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szentháromság-templom",
-                  "text": "Szentháromság-templom este un lăcaș de cult situat în Óbuda.",
+                  "text": "Biserică proiectată de Dénes Perczel în Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.032416,
@@ -1889,7 +1889,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sziget Fesztivál",
-                  "text": "Festivalul Sziget este o atracție turistică din Óbuda.",
+                  "text": "Festival major de muzică organizat anual pe Insula Óbuda de pe Dunăre.",
                   "category": "landmark",
                   "coords": [
                         19.054324,
@@ -1907,7 +1907,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "tanmedence",
-                  "text": "O piscină în Óbuda pentru copii și începători.",
+                  "text": "Bazin de bronzare (tanmedence) în complexul familial de băi din Óbuda.",
                   "category": "family",
                   "coords": [
                         19.062414,
@@ -1916,7 +1916,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Irgalmasok Veli bej fürdője",
-                  "text": "O baie publică în Óbuda cu o atmosferă relaxată.",
+                  "text": "Veli bej Spa, o baie turcească în Óbuda.",
                   "category": "family",
                   "coords": [
                         19.036984,
@@ -1934,7 +1934,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "O piscină în Óbuda pentru înotul zilnic.",
+                  "text": "Bazin de înot în baia familială din Óbuda.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -1943,7 +1943,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "33-as medence",
-                  "text": "O piscină cu lungimea de 33 de metri în Óbuda.",
+                  "text": "Bazinul numărul 33 în baia familială din Óbuda.",
                   "category": "family",
                   "coords": [
                         19.043183,
@@ -1952,7 +1952,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Műugró medence",
-                  "text": "O piscină specială pentru sărituri în apă în Óbuda.",
+                  "text": "Bazin de sărituri în baia familială din Óbuda.",
                   "category": "family",
                   "coords": [
                         19.042652,
@@ -1979,7 +1979,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Hullámmedence",
-                  "text": "O piscină cu valuri în Óbuda pentru distracție și acțiune în apă.",
+                  "text": "Bazin cu valuri la Palatinus Strandfürdő în Óbuda.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -1988,7 +1988,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Termál",
-                  "text": "O piscină termală în Óbuda pentru o baie relaxantă.",
+                  "text": "Bazin termal în baia familială din Óbuda.",
                   "category": "family",
                   "coords": [
                         19.05749,
@@ -2170,7 +2170,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Radnóti Miklós Művelődési Központ",
-                  "text": "A gallery and cultural center in Óbuda.",
+                  "text": "Cultural centre in Újlipótváros, Óbuda.",
                   "category": "museum",
                   "coords": [
                         19.056545,
@@ -2224,7 +2224,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Dominican convent",
-                  "text": "The ruins of a historic Dominican convent in Óbuda.",
+                  "text": "Dominican convent founded in 1252 in Óbuda.",
                   "category": "historical",
                   "coords": [
                         19.051292,
@@ -2251,7 +2251,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Ágoston-kápolna",
-                  "text": "A religious chapel in Óbuda.",
+                  "text": "St. Augustine Chapel in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.049262,
@@ -2323,7 +2323,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tábor-hegy Cave",
-                  "text": "A natural cave attraction in Óbuda.",
+                  "text": "Cave on Tábor Hill in Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.011914,
@@ -2332,7 +2332,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "FOKA-öböl",
-                  "text": "A bay and recreation area in Óbuda.",
+                  "text": "FOKA-öböl bay on the Danube in Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.06467,
@@ -2341,7 +2341,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Music fountain",
-                  "text": "A musical fountain and attraction in Óbuda.",
+                  "text": "Musical fountain on Margaret Island, Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.044815,
@@ -2350,7 +2350,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Musical Fountain",
-                  "text": "A musical water attraction in Óbuda.",
+                  "text": "Another musical fountain on Margaret Island, Óbuda.",
                   "category": "landmark",
                   "coords": [
                         19.052119,
@@ -2476,7 +2476,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Flórián tér",
-                  "text": "Flórián tér is a notable park and public square located in Óbuda.",
+                  "text": "Flórián tér park in the historic Óbuda district.",
                   "category": "park",
                   "coords": [
                         19.039096,
@@ -2485,7 +2485,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kolosy tér",
-                  "text": "Kolosy tér is a notable park and central square in the city of Óbuda.",
+                  "text": "Public square and park in Óbuda.",
                   "category": "park",
                   "coords": [
                         19.038361,
@@ -2503,7 +2503,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Budapest Galéria",
-                  "text": "Budapest Galéria is an art gallery situated in Óbuda.",
+                  "text": "Art museum housed in the Baroque Zichy Palace in Óbuda.",
                   "category": "museum",
                   "coords": [
                         19.044793,
@@ -2512,7 +2512,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "Szent Mihály-templom is a local place of worship located in Óbuda.",
+                  "text": "Baroque Roman Catholic church in Óbuda's old town.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -2530,7 +2530,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai Evangélikus Egyházközség",
-                  "text": "Óbudai Evangélikus Egyházközség is a place of worship located in Óbuda.",
+                  "text": "Lutheran church on the banks of the Danube in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.039391,
@@ -2539,7 +2539,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szentháromság-templom",
-                  "text": "Szentháromság-templom is a place of worship situated in Óbuda.",
+                  "text": "Church designed by Dénes Perczel in Óbuda.",
                   "category": "religious",
                   "coords": [
                         19.032416,
@@ -2548,7 +2548,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sziget Festival",
-                  "text": "Sziget Festival is a tourist attraction located in Óbuda.",
+                  "text": "Major music festival held annually on Óbuda Island on the Danube.",
                   "category": "landmark",
                   "coords": [
                         19.054324,
@@ -2566,7 +2566,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "tanmedence",
-                  "text": "A swimming pool in Óbuda for children and beginners.",
+                  "text": "Tanning pool (tanmedence) in the Óbuda family bath complex.",
                   "category": "family",
                   "coords": [
                         19.062414,
@@ -2575,7 +2575,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Veli bej Spa",
-                  "text": "A public bath in Óbuda with a relaxed atmosphere.",
+                  "text": "Veli bej Spa, a Turkish bath in Óbuda.",
                   "category": "family",
                   "coords": [
                         19.036984,
@@ -2593,7 +2593,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "A swimming pool in Óbuda for daily swimming.",
+                  "text": "Swimming pool in the Óbuda family bath.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -2602,7 +2602,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "33-as medence",
-                  "text": "A 33-meter long swimming pool in Óbuda.",
+                  "text": "Pool number 33 in the Óbuda family bath.",
                   "category": "family",
                   "coords": [
                         19.043183,
@@ -2611,7 +2611,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Műugró medence",
-                  "text": "A special pool for diving in Óbuda.",
+                  "text": "Diving pool in the Óbuda family bath.",
                   "category": "family",
                   "coords": [
                         19.042652,
@@ -2638,7 +2638,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Wave pool",
-                  "text": "A wave pool in Óbuda for action and fun in the water.",
+                  "text": "Wave pool at Palatinus Baths in Óbuda.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -2647,7 +2647,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Termál",
-                  "text": "A thermal pool in Óbuda for a relaxing bath.",
+                  "text": "Thermal pool in the Óbuda family bath.",
                   "category": "family",
                   "coords": [
                         19.05749,
@@ -2913,7 +2913,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai szigetcsúcs zátony",
-                  "text": "Ein naturbelassener Bereich an der Spitze der Obuda-Insel.",
+                  "text": "Sandbank an der Spitze der Óbuda-Insel in Újpest.",
                   "category": "recreational",
                   "coords": [
                         19.060346,
@@ -2967,7 +2967,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újpesti Polgár Centrum",
-                  "text": "Ein kommunales Kulturzentrum im Stadtteil Újpest.",
+                  "text": "Polgár Centrum Heimatmuseum in Újpest.",
                   "category": "museum",
                   "coords": [
                         19.088092,
@@ -3021,7 +3021,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Népszigeti Állatpark",
-                  "text": "Ein kleiner Tierpark auf der Insel Népsziget in Budapest.",
+                  "text": "Tierpark auf der Népsziget (Volksinsel) in Újpest.",
                   "category": "landmark",
                   "coords": [
                         19.071574,
@@ -3075,7 +3075,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "Eine katholische Kirche, die dem heiligen Michael gewidmet ist.",
+                  "text": "Katholische Kirche auf dem zentralen Platz von Újpest.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -3093,7 +3093,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent István-templom",
-                  "text": "Eine religiöse Stätte im Stadtteil Újpest von Budapest.",
+                  "text": "Katholische Pfarrkirche, dem heiligen Stephan geweiht, in Újpest.",
                   "category": "religious",
                   "coords": [
                         19.098192,
@@ -3147,7 +3147,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "Ein klassisches Schwimmbecken in Újpest für sportliches Training.",
+                  "text": "Schwimmbecken in Újpest.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -3183,7 +3183,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Hullámmedence",
-                  "text": "Ein Wellenbecken in Újpest für abwechslungsreichen Badespaß.",
+                  "text": "Wellenbad in Újpest.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -3201,7 +3201,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Theme Pool",
-                  "text": "Ein Erlebnisbecken in Újpest zur Unterhaltung der Badegäste.",
+                  "text": "Themenbecken in Újpest.",
                   "category": "family",
                   "coords": [
                         19.112004,
@@ -3449,7 +3449,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai szigetcsúcs zátony",
-                  "text": "Természetközeli terület az Óbudai-sziget csúcsánál.",
+                  "text": "Óbudai szigetcsúcs zátony Újpesten.",
                   "category": "recreational",
                   "coords": [
                         19.060346,
@@ -3503,7 +3503,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újpesti Polgár Centrum",
-                  "text": "Közösségi kulturális központ Újpest városrészben.",
+                  "text": "Újpesti Polgár Centrum helytörténeti múzeum.",
                   "category": "museum",
                   "coords": [
                         19.088092,
@@ -3557,7 +3557,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Népszigeti Állatpark",
-                  "text": "Kisméretű állatpark a budapesti Népszigeten.",
+                  "text": "Népszigeti Állatpark Újpesten.",
                   "category": "landmark",
                   "coords": [
                         19.071574,
@@ -3611,7 +3611,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "Szent Mihály tiszteletére szentelt katolikus templom.",
+                  "text": "Katolikus templom Újpest főterén.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -3629,7 +3629,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent István-templom",
-                  "text": "Újpesti vallási helyszín és közösségi épület.",
+                  "text": "Szent Istvánnak szentelt katolikus plébániatemplom Újpesten.",
                   "category": "religious",
                   "coords": [
                         19.098192,
@@ -3683,7 +3683,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "Úszómedence Újpesten sportoláshoz és mindennapi edzéshez.",
+                  "text": "Úszómedence Újpesten.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -3719,7 +3719,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Hullámmedence",
-                  "text": "Hullámmedence Újpesten a változatos fürdőzési élményért.",
+                  "text": "Hullámmedence Újpesten.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -3737,7 +3737,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Theme Pool",
-                  "text": "Élménymedence Újpesten a látogatók szórakoztatására.",
+                  "text": "Témamedence Újpesten.",
                   "category": "family",
                   "coords": [
                         19.112004,
@@ -3985,7 +3985,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai szigetcsúcs zátony",
-                  "text": "O zonă naturală situată în vârful insulei Obuda.",
+                  "text": "Banc de nisip la vârful insulei Óbuda în Újpest.",
                   "category": "recreational",
                   "coords": [
                         19.060346,
@@ -4039,7 +4039,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újpesti Polgár Centrum",
-                  "text": "Un centru cultural comunitar în districtul Újpest.",
+                  "text": "Muzeul de istorie locală Polgár Centrum din Újpest.",
                   "category": "museum",
                   "coords": [
                         19.088092,
@@ -4093,7 +4093,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Népszigeti Állatpark",
-                  "text": "Un mic parc cu animale situat pe insula Népsziget din Budapesta.",
+                  "text": "Parcul animalelor de pe Népsziget (Insula Poporului) în Újpest.",
                   "category": "landmark",
                   "coords": [
                         19.071574,
@@ -4147,7 +4147,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "O biserică catolică dedicată Sfântului Mihail.",
+                  "text": "Biserică catolică în piața centrală din Újpest.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -4165,7 +4165,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent István-templom",
-                  "text": "Un lăcaș de cult situat în districtul Újpest din Budapesta.",
+                  "text": "Biserică parohială catolică dedicată Sfântului Ștefan în Újpest.",
                   "category": "religious",
                   "coords": [
                         19.098192,
@@ -4219,7 +4219,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "O piscină clasică în Újpest pentru antrenament sportiv.",
+                  "text": "Bazin de înot în Újpest.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -4255,7 +4255,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Hullámmedence",
-                  "text": "O piscină cu valuri în Újpest pentru distracție variată în apă.",
+                  "text": "Bazin cu valuri în Újpest.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -4273,7 +4273,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Theme Pool",
-                  "text": "O piscină tematică în Újpest pentru divertismentul oaspeților.",
+                  "text": "Bazin tematic în Újpest.",
                   "category": "family",
                   "coords": [
                         19.112004,
@@ -4521,7 +4521,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Óbudai szigetcsúcs zátony",
-                  "text": "A natural area located at the tip of Obuda Island.",
+                  "text": "Shoal at the tip of Óbuda Island in Újpest.",
                   "category": "recreational",
                   "coords": [
                         19.060346,
@@ -4575,7 +4575,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újpesti Polgár Centrum",
-                  "text": "A community cultural center in the Újpest district.",
+                  "text": "Polgár Centrum local history museum in Újpest.",
                   "category": "museum",
                   "coords": [
                         19.088092,
@@ -4629,7 +4629,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Népszigeti Állatpark",
-                  "text": "A small animal park located on Népsziget in Budapest.",
+                  "text": "Animal park on Népsziget (People's Island) in Újpest.",
                   "category": "landmark",
                   "coords": [
                         19.071574,
@@ -4683,7 +4683,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Mihály-templom",
-                  "text": "A Catholic church dedicated to Saint Michael.",
+                  "text": "Catholic church in Újpest's central square.",
                   "category": "religious",
                   "coords": [
                         19.077039,
@@ -4701,7 +4701,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent István-templom",
-                  "text": "A religious site located in the Újpest district of Budapest.",
+                  "text": "Catholic parish church dedicated to St. Stephen in Újpest.",
                   "category": "religious",
                   "coords": [
                         19.098192,
@@ -4755,7 +4755,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Úszómedence",
-                  "text": "A classic swimming pool in Újpest for sports training.",
+                  "text": "Swimming pool in Újpest.",
                   "category": "family",
                   "coords": [
                         19.046689,
@@ -4791,7 +4791,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Wave pool",
-                  "text": "A wave pool in Újpest for diverse bathing fun.",
+                  "text": "Wave pool in Újpest.",
                   "category": "family",
                   "coords": [
                         19.046017,
@@ -4809,7 +4809,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Theme Pool",
-                  "text": "A theme pool in Újpest for the entertainment of bathers.",
+                  "text": "Theme pool in Újpest.",
                   "category": "family",
                   "coords": [
                         19.112004,
@@ -5417,7 +5417,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Helytörténeti gyűjtemény",
-                  "text": "Helytörténeti gyűjtemény ist ein Museum in Lajosmizse.",
+                  "text": "Heimatgeschichtliche Sammlung in Lajosmizse.",
                   "category": "museum",
                   "coords": [
                         19.562775,
@@ -5426,7 +5426,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kláber Mór-kúria",
-                  "text": "Kláber Mór-kúria ist ein Schloss in der Stadt Lajosmizse.",
+                  "text": "Herrenhaus Kláber Mór in Lajosmizse.",
                   "category": "castle",
                   "coords": [
                         19.550109,
@@ -5435,7 +5435,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Lajos-templom",
-                  "text": "Szent Lajos-templom ist eine lokale Kultstätte in Lajosmizse.",
+                  "text": "Katholische Kirche im Zentrum von Lajosmizse.",
                   "category": "religious",
                   "coords": [
                         19.557819,
@@ -5489,7 +5489,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Helytörténeti gyűjtemény",
-                  "text": "A Helytörténeti gyűjtemény egy múzeum Lajosmizsén.",
+                  "text": "Helytörténeti gyűjtemény Lajosmizsén.",
                   "category": "museum",
                   "coords": [
                         19.562775,
@@ -5498,7 +5498,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kláber Mór-kúria",
-                  "text": "A Kláber Mór-kúria egy kastély Lajosmizsén.",
+                  "text": "Kláber Mór-kúria Lajosmizsén.",
                   "category": "castle",
                   "coords": [
                         19.550109,
@@ -5507,7 +5507,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Lajos-templom",
-                  "text": "A Szent Lajos-templom egy istentiszteleti hely Lajosmizsén.",
+                  "text": "Katolikus templom Lajosmizse központjában.",
                   "category": "religious",
                   "coords": [
                         19.557819,
@@ -5561,7 +5561,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Helytörténeti gyűjtemény",
-                  "text": "Helytörténeti gyűjtemény este un muzeu situat în Lajosmizse.",
+                  "text": "Colecție de istorie locală în Lajosmizse.",
                   "category": "museum",
                   "coords": [
                         19.562775,
@@ -5570,7 +5570,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kláber Mór-kúria",
-                  "text": "Kláber Mór-kúria este un castel din orașul Lajosmizse.",
+                  "text": "Conacul Kláber Mór din Lajosmizse.",
                   "category": "castle",
                   "coords": [
                         19.550109,
@@ -5579,7 +5579,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Lajos-templom",
-                  "text": "Szent Lajos-templom este un lăcaș de cult local din Lajosmizse.",
+                  "text": "Biserică catolică în centrul orașului Lajosmizse.",
                   "category": "religious",
                   "coords": [
                         19.557819,
@@ -5633,7 +5633,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Helytörténeti gyűjtemény",
-                  "text": "Helytörténeti gyűjtemény is a museum situated in Lajosmizse.",
+                  "text": "Local history collection in Lajosmizse.",
                   "category": "museum",
                   "coords": [
                         19.562775,
@@ -5642,7 +5642,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kláber Mór-kúria",
-                  "text": "Kláber Mór-kúria is a castle located in the city of Lajosmizse.",
+                  "text": "Kláber Mór manor house in Lajosmizse.",
                   "category": "castle",
                   "coords": [
                         19.550109,
@@ -5651,7 +5651,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Lajos-templom",
-                  "text": "Szent Lajos-templom is a local place of worship in Lajosmizse.",
+                  "text": "Catholic church in Lajosmizse's town center.",
                   "category": "religious",
                   "coords": [
                         19.557819,
@@ -6368,7 +6368,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabics Ferenc Emlékmúzeum",
-                  "text": "Ein lokales Gedenkmuseum in der Stadt Szentes.",
+                  "text": "Ferenc Szabics Gedenkmuseum in Szentes.",
                   "category": "museum",
                   "coords": [
                         20.267559,
@@ -6535,7 +6535,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabics Ferenc Emlékmúzeum",
-                  "text": "Szentesi emlékmúzeum, amely helyi értékeket mutat be.",
+                  "text": "Szabics Ferenc Emlékmúzeum Szentesen.",
                   "category": "museum",
                   "coords": [
                         20.267559,
@@ -6702,7 +6702,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabics Ferenc Emlékmúzeum",
-                  "text": "Un muzeu memorial local situat în orașul Szentes.",
+                  "text": "Muzeul memorial Ferenc Szabics din Szentes.",
                   "category": "museum",
                   "coords": [
                         20.267559,
@@ -6869,7 +6869,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabics Ferenc Emlékmúzeum",
-                  "text": "A local memorial museum located in the city of Szentes.",
+                  "text": "Ferenc Szabics Memorial Museum in Szentes.",
                   "category": "museum",
                   "coords": [
                         20.267559,
@@ -7900,7 +7900,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Csornai Fürdő",
-                  "text": "Csornai Fürdő ist ein Wasserpark in Csorna.",
+                  "text": "Csorna Bad Familienbecken.",
                   "category": "family",
                   "coords": [
                         17.249035,
@@ -7909,7 +7909,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabadtéri színpad",
-                  "text": "Szabadtéri színpad ist ein Theater in Csorna.",
+                  "text": "Freilichtbühne in Csorna.",
                   "category": "cultural",
                   "coords": [
                         17.251465,
@@ -7918,7 +7918,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Jézus Szíve templom",
-                  "text": "Jézus Szíve templom ist eine Kultstätte in Csorna.",
+                  "text": "Herz-Jesu-Kirche in Csorna.",
                   "category": "religious",
                   "coords": [
                         17.246589,
@@ -7927,7 +7927,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halastó",
-                  "text": "Der Halastó in Csorna ist ein friedlicher See.",
+                  "text": "Fischteich in Csorna.",
                   "category": "natural",
                   "coords": [
                         17.354784,
@@ -8012,7 +8012,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Csornai Fürdő",
-                  "text": "A Csornai Fürdő egy vízipark Csornán.",
+                  "text": "Csornai Fürdő családi medence.",
                   "category": "family",
                   "coords": [
                         17.249035,
@@ -8021,7 +8021,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabadtéri színpad",
-                  "text": "A Szabadtéri színpad egy színházi helyszín Csornán.",
+                  "text": "Szabadtéri színpad Csornán.",
                   "category": "cultural",
                   "coords": [
                         17.251465,
@@ -8030,7 +8030,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Jézus Szíve templom",
-                  "text": "A Jézus Szíve templom egy vallási épület Csornán.",
+                  "text": "Jézus Szíve templom Csornán.",
                   "category": "religious",
                   "coords": [
                         17.246589,
@@ -8039,7 +8039,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halastó",
-                  "text": "A csornai Halastó egy békés állóvíz.",
+                  "text": "Halastó Csornán.",
                   "category": "natural",
                   "coords": [
                         17.354784,
@@ -8124,7 +8124,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Csornai Fürdő",
-                  "text": "Csornai Fürdő este un parc acvatic din Csorna.",
+                  "text": "Băile Csorna bazin familial.",
                   "category": "family",
                   "coords": [
                         17.249035,
@@ -8133,7 +8133,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabadtéri színpad",
-                  "text": "Szabadtéri színpad este un teatru situat în Csorna.",
+                  "text": "Scenă în aer liber în Csorna.",
                   "category": "cultural",
                   "coords": [
                         17.251465,
@@ -8142,7 +8142,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Jézus Szíve templom",
-                  "text": "Jézus Szíve templom este un lăcaș de cult situat în Csorna.",
+                  "text": "Biserică catolică a Inimii Sacre în Csorna.",
                   "category": "religious",
                   "coords": [
                         17.246589,
@@ -8151,7 +8151,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halastó",
-                  "text": "Halastó din Csorna este un lac liniștit.",
+                  "text": "Iaz de pești în Csorna.",
                   "category": "natural",
                   "coords": [
                         17.354784,
@@ -8236,7 +8236,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Csornai Fürdő",
-                  "text": "Csornai Fürdő is a water park located in Csorna.",
+                  "text": "Csorna Baths family pool.",
                   "category": "family",
                   "coords": [
                         17.249035,
@@ -8245,7 +8245,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szabadtéri színpad",
-                  "text": "Szabadtéri színpad is a theatre venue located in Csorna.",
+                  "text": "Open-air stage in Csorna.",
                   "category": "cultural",
                   "coords": [
                         17.251465,
@@ -8254,7 +8254,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Jézus Szíve templom",
-                  "text": "Jézus Szíve templom is a place of worship situated in the city of Csorna.",
+                  "text": "Sacred Heart Catholic church in Csorna.",
                   "category": "religious",
                   "coords": [
                         17.246589,
@@ -8263,7 +8263,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halastó",
-                  "text": "Halastó in Csorna is a peaceful lake.",
+                  "text": "Fish pond in Csorna.",
                   "category": "natural",
                   "coords": [
                         17.354784,
@@ -9206,7 +9206,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halnövesz-tó",
-                  "text": "Halnövesz-tó ist ein See in Dorog, der zu besinnlichen Spaziergängen einlädt.",
+                  "text": "Fischzuchtteich in Dorog.",
                   "category": "natural",
                   "coords": [
                         18.809932,
@@ -9233,7 +9233,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "KalanDorka játszótér",
-                  "text": "KalanDorka játszótér ist ein abwechslungsreicher Spielplatz für Familien in Dorog.",
+                  "text": "KalanDorka Spielplatz in Dorog.",
                   "category": "family",
                   "coords": [
                         18.740185,
@@ -9461,7 +9461,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halnövesz-tó",
-                  "text": "A Halnövesz-tó egy tó Dorog területén, amely meghitt sétákra csábít.",
+                  "text": "Halnövesz-tó Dorogon.",
                   "category": "natural",
                   "coords": [
                         18.809932,
@@ -9488,7 +9488,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "KalanDorka játszótér",
-                  "text": "A KalanDorka játszótér egy változatos játszótér családok számára Dorog városában.",
+                  "text": "KalanDorka játszótér Dorogon.",
                   "category": "family",
                   "coords": [
                         18.740185,
@@ -9716,7 +9716,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halnövesz-tó",
-                  "text": "Halnövesz-tó este un lac în Dorog, care invită la plimbări contemplative.",
+                  "text": "Iaz de creștere a peștilor în Dorog.",
                   "category": "natural",
                   "coords": [
                         18.809932,
@@ -9743,7 +9743,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "KalanDorka játszótér",
-                  "text": "KalanDorka játszótér este un loc de joacă variat pentru familii în Dorog.",
+                  "text": "Loc de joacă KalanDorka în Dorog.",
                   "category": "family",
                   "coords": [
                         18.740185,
@@ -9971,7 +9971,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halnövesz-tó",
-                  "text": "Halnövesz-tó is a lake in Dorog, inviting for contemplative walks.",
+                  "text": "Fish breeding pond in Dorog.",
                   "category": "natural",
                   "coords": [
                         18.809932,
@@ -9998,7 +9998,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "KalanDorka játszótér",
-                  "text": "KalanDorka játszótér is a varied playground for families in Dorog.",
+                  "text": "KalanDorka playground in Dorog.",
                   "category": "family",
                   "coords": [
                         18.740185,
@@ -10507,7 +10507,455 @@ export const poiExtraHu1: POI[] = [
       fr: ["Fondation de l'abbaye cistercienne en 1190", "La maison du maître d'école date du XVe siècle", "Pásztó a reçu le droit de marché en 1298", "La ville était un centre de fabrication de verre au XVe siècle", "Abrite le musée de Pásztó dans l'ancien monastère", "Située au confluent du ruisseau Kövics et de la Zagyva"],
     },
     image: "/poi-images/city-paszto-extra.webp",
-    "sights": {"de": [{"name": "Csohány Kálmán Galerie", "text": "In einem historischen Gebäude untergebracht, zeigt die Galerie die Werke des namhaften ungarischen Grafikers Kálmán Csohány. Die Sammlung ist ein bedeutender Teil des kulturellen Erbes der Region Nógrád.", "category": "historical", "confidence": "high", "source_hint": "wiki", "image": "/poi-images/sights/city-paszto-extra-csohany-kalman-galerie.webp", "image_attribution": {"author": "<a href=\"https://maps.google.com/maps/contrib/108734939396464137305\">Bodnár Emil</a>", "source": "https://www.google.com/maps/place/?q=place_id:ChIJCaebYb1AQEcRsJi46pBpsxY", "license": "Google Places API", "platform": "google-places"}, "coords": [19.694754, 47.918118]}, {"name": "Schloss Teleki-Wattaay", "text": "Ein Barockschloss aus dem 18. Jahrhundert, das heute als Kulturzentrum und Bibliothek dient. Das Gebäude und sein gepflegter Garten sind wichtige Bestandteile des Stadtbildes.", "category": "historical", "coords": [19.6896, 47.9221], "confidence": "high", "source_hint": "known"}, {"name": "Strandbad Pásztó", "text": "Ein beliebtes Freizeitziel mit mehreren Becken und Grünanlagen, das besonders in den Sommermonaten Entspannung bietet. Es ist ein idealer Ort für Familien und Erholungssuchende.", "category": "recreational", "coords": [19.6952, 47.9158], "confidence": "high", "source_hint": "known"}, {"name": "Heilige-Elisabeth-Kapelle", "text": "Eine kleine historische Kapelle im südlichen Teil der Stadt, die der Heiligen Elisabeth von Ungarn gewidmet ist. Sie ist ein ruhiger Ort der Besinnung und ein Denkmal lokaler Frömmigkeit.", "category": "historical", "coords": [19.6872, 47.9185], "confidence": "high", "source_hint": "known"}, {"name": "Rajeczky-Benjámin-Gedenkhaus", "text": "Das ehemalige Wohnhaus des bedeutenden Musikhistorikers und Zisterziensermönchs, das heute Dokumente und Gegenstände aus seinem Leben präsentiert.", "category": "cultural", "confidence": "high", "coords": [19.69544, 47.918516]}, {"name": "Pásztói strand", "text": "Dieses lokale Freibad in Pásztó bietet eine klassische Umgebung für Erholung und unbeschwerten Badespaß. Die Atmosphäre ist durchweg lebhaft und einladend, was besonders Einheimische anzieht, die eine erfrischende Abkühlung suchen. Es ist der ideale Ort, um an heißen Sonnentagen neue Energie zu tanken.", "category": "family", "coords": [19.698146, 47.929678]}, {"name": "Varázsvölgy - Színpad", "text": "Eine Freilichtbühne in Pásztó für kulturelle Veranstaltungen.", "category": "cultural", "coords": [19.695137, 47.917152]}, {"name": "Százoroszlános ház", "text": "Ein markantes historisches Gebäude und eine lokale Sehenswürdigkeit in Pásztó.", "category": "landmark", "coords": [19.694076, 47.911912]}, {"name": "Hasznosi víztározó", "text": "Hasznosi víztározó ist ein Stausee in Paszto, ideal für einen malerischen Spaziergang am Wasser.", "category": "natural", "coords": [19.766848, 47.926038]}, {"name": "Strand játszótér", "text": "Dieser familienfreundliche Spielplatz am Strand von Pásztó ist ein wunderbarer Ort, an dem Kinder nach Herzenslust spielen und sich austoben können. Umgeben von der fröhlichen Atmosphäre des Badebereichs, bietet er einen sicheren und spannenden Raum für die jüngsten Besucher. Die Kombination aus Schwimmen und Spielen sorgt für einen perfekten Familienausflug.", "category": "family", "coords": [19.700771, 47.9295]}, {"name": "Régi vásártér utcai játszótér", "text": "Régi vásártér utcai játszótér ist ein Spielplatz in Paszto, der einen wunderbaren Spielbereich im Freien für Kinder schafft.", "category": "family", "coords": [19.708194, 47.926405]}], "hu": [{"name": "Csohány Kálmán Galéria", "text": "A város neves szülöttének, a grafikusművész Csohány Kálmánnak az életművét bemutató kiállítóhely. A galéria a művész hagyatékát és a kortárs magyar grafika kiemelkedő alkotásait tárja a látogatók elé.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [19.694754, 47.918118]}, {"name": "Teleki-Wattaay-kastély", "text": "18. századi barokk stílusú nemesi kúria, amely ma kulturális központként és könyvtárként működik. Az épület és gondozott kertje a városi séták kedvelt állomása.", "category": "historical", "coords": [19.6896, 47.9221], "confidence": "high", "source_hint": "known"}, {"name": "Pásztói Strandfürdő", "text": "Népszerű szabadidős központ több medencével és zöldfelülettel, amely a nyári hónapokban kínál kikapcsolódást. Ideális helyszín családok és pihenni vágyók számára.", "category": "recreational", "coords": [19.6952, 47.9158], "confidence": "high", "source_hint": "known"}, {"name": "Szent Erzsébet-kápolna", "text": "A város déli részén található kisméretű történelmi kápolna, amelyet Árpád-házi Szent Erzsébet tiszteletére szenteltek. A helyi vallásos élet egyik csendes emlékhelye.", "category": "historical", "coords": [19.6872, 47.9185], "confidence": "high", "source_hint": "known"}, {"name": "Rajeczky Benjámin Emlékház", "text": "A híres zenetörténész és utolsó pászto-i ciszterci szerzetes egykori lakóháza, amely ma az életművét bemutató kiállításnak ad otthont a városközpontban.", "category": "cultural", "confidence": "high", "coords": [19.69544, 47.918516]}, {"name": "Pásztói strand", "text": "A Pásztón található helyi szabadtéri strandfürdő klasszikus környezetet biztosít a kikapcsolódáshoz és a vízi szórakozáshoz. A légkör általában élénk és barátságos, tökéletesen kiszolgálva a frissítő csobbanásra vágyó helyieket. Ez egy ideális hely a lehűlésre a forró, napsütéses napokon.", "category": "family", "coords": [19.698146, 47.929678]}, {"name": "Varázsvölgy - Színpad", "text": "Szabadtéri színpad Pásztón kulturális rendezvények számára.", "category": "cultural", "coords": [19.695137, 47.917152]}, {"name": "Százoroszlános ház", "text": "Jellegzetes történelmi épület és helyi látnivaló Pásztón.", "category": "landmark", "coords": [19.694076, 47.911912]}, {"name": "Hasznosi víztározó", "text": "A Hasznosi víztározó egy pásztói víztározó, amely ideális egy festői sétára a víz mentén.", "category": "natural", "coords": [19.766848, 47.926038]}, {"name": "Strand játszótér", "text": "Ez a pásztói strandon található családbarát játszótér kiváló helyszín, ahol a gyerekek játszhatnak és levezethetik az energiájukat. A fürdőzőhely nyüzsgő légkörével körülvéve biztonságos és vonzó teret kínál a fiatalabb látogatók számára. Az úszás és a játékidő összekapcsolása tökéletes családi kirándulást eredményez.", "category": "family", "coords": [19.700771, 47.9295]}, {"name": "Régi vásártér utcai játszótér", "text": "A Régi vásártér utcai játszótér egy pásztói játszótér, amely nagyszerű szabadtéri játékteret biztosít a gyerekeknek.", "category": "family", "coords": [19.708194, 47.926405]}], "ro": [{"name": "Galeria Csohány Kálmán", "text": "Găzduită într-o clădire istorică, galeria prezintă opera graficianului maghiar Kálmán Csohány, originar din Pásztó. Colecția este o componentă esențială a vieții culturale și artistice a județului Nógrád.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [19.694754, 47.918118]}, {"name": "Castelul Teleki-Wattaay", "text": "Un conac în stil baroc din secolul al XVIII-lea, care servește astăzi drept centru cultural și bibliotecă. Clădirea și grădina sa îngrijită sunt repere importante ale orașului.", "category": "historical", "coords": [19.6896, 47.9221], "confidence": "high", "source_hint": "known"}, {"name": "Ștrandul Pásztó", "text": "O destinație populară de agrement cu mai multe bazine și spații verzi, care oferă relaxare în special în lunile de vară. Este un loc ideal pentru familii.", "category": "recreational", "coords": [19.6952, 47.9158], "confidence": "high", "source_hint": "known"}, {"name": "Capela Sfânta Elisabeta", "text": "O mică chapelă istorică situată în partea de sud a orașului, dedicată Sfintei Elisabeta a Ungariei. Este un loc liniștit de reculegere și un monument al pioșeniei locale.", "category": "historical", "coords": [19.6872, 47.9185], "confidence": "high", "source_hint": "known"}, {"name": "Casa Memorială Rajeczky Benjámin", "text": "Fosta locuință a celebrului istoric muzical și călugăr cistercian, care găzduiește astăzi o colecție de documente și obiecte personale în centrul istoric.", "category": "cultural", "confidence": "high", "coords": [19.69544, 47.918516]}, {"name": "Pásztói strand", "text": "Funcționând ca un ștrand local în aer liber în Pásztó, această destinație oferă un cadru clasic pentru recreere și distracție acvatică. Atmosfera este în general plină de viață și primitoare, perfectă pentru localnicii care caută o baie răcoritoare. Este un loc ideal pentru a vă răcori în zilele fierbinți și însorite.", "category": "family", "coords": [19.698146, 47.929678]}, {"name": "Varázsvölgy - Színpad", "text": "O scenă în aer liber din Pásztó pentru evenimente culturale.", "category": "cultural", "coords": [19.695137, 47.917152]}, {"name": "Százoroszlános ház", "text": "O clădire istorică distinctivă și o atracție locală în Pásztó.", "category": "landmark", "coords": [19.694076, 47.911912]}, {"name": "Hasznosi víztározó", "text": "Hasznosi víztározó este un lac de acumulare în Paszto, ideal pentru o plimbare pitorească de-a lungul apei.", "category": "natural", "coords": [19.766848, 47.926038]}, {"name": "Strand játszótér", "text": "Acest loc de joacă potrivit pentru familii situat la plaja din Pásztó este un loc excelent unde copiii se pot juca și își pot consuma energia. Înconjurat de atmosfera vibrantă a zonei de înot, oferă un spațiu sigur și atractiv pentru cei mai tineri vizitatori. Combinarea înotului cu joaca face ca ieșirea în familie să fie perfectă.", "category": "family", "coords": [19.700771, 47.9295]}, {"name": "Régi vásártér utcai játszótér", "text": "Régi vásártér utcai játszótér este un loc de joacă în Paszto, creând o zonă minunată de joacă în aer liber pentru copii.", "category": "family", "coords": [19.708194, 47.926405]}], "en": [{"name": "Kálmán Csohány Gallery", "text": "Dedicated to the life and work of the renowned Hungarian graphic artist Kálmán Csohány, who was born in the town. The gallery houses a significant collection of his prints and illustrations.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [19.694754, 47.918118]}, {"name": "Teleki-Wattaay Mansion", "text": "An 18th-century Baroque-style noble mansion that today serves as a cultural center and library. The building and its well-kept garden are important parts of the cityscape.", "category": "historical", "coords": [19.6896, 47.9221], "confidence": "high", "source_hint": "known"}, {"name": "Pásztó Thermal Bath", "text": "A popular leisure destination with several pools and green areas, offering relaxation especially during the summer months. It is an ideal place for families and those seeking rest.", "category": "recreational", "coords": [19.6952, 47.9158], "confidence": "high", "source_hint": "known"}, {"name": "St. Elizabeth Chapel", "text": "A small historical chapel in the southern part of the city, dedicated to St. Elizabeth of Hungary. It is a quiet place of reflection and a monument of local piety.", "category": "historical", "coords": [19.6872, 47.9185], "confidence": "high", "source_hint": "known"}, {"name": "Rajeczky Benjámin Memorial House", "text": "The former home of the renowned music historian and Cistercian monk, now serving as a museum showcasing his life work in the heart of the town.", "category": "cultural", "confidence": "high", "coords": [19.69544, 47.918516]}, {"name": "Pásztói strand", "text": "Operating as a local open-air swimming pool in Pásztó, this destination provides a classic setting for recreation and aquatic fun. The atmosphere is generally lively and welcoming, catering perfectly to locals looking for a refreshing dip. It is an ideal spot to cool down on hot sunny days.", "category": "family", "coords": [19.698146, 47.929678]}, {"name": "Varázsvölgy - Színpad", "text": "An open-air stage in Pásztó for cultural events.", "category": "cultural", "coords": [19.695137, 47.917152]}, {"name": "Százoroszlános ház", "text": "A distinctive historical building and local attraction in Pásztó.", "category": "landmark", "coords": [19.694076, 47.911912]}, {"name": "Hasznosi víztározó", "text": "Hasznosi víztározó is a reservoir in Paszto, ideal for a scenic stroll along the water.", "category": "natural", "coords": [19.766848, 47.926038]}, {"name": "Strand játszótér", "text": "This family-friendly playground at the beach in Pásztó is an excellent spot where children can play and release their energy. Surrounded by the vibrant atmosphere of the swimming area, it offers a safe and engaging space for younger visitors. Combining a swim with playtime makes for a perfect family outing.", "category": "family", "coords": [19.700771, 47.9295]}, {"name": "Régi vásártér utcai játszótér", "text": "Régi vásártér utcai játszótér is a playground in Paszto, creating a wonderful outdoor play area for kids.", "category": "family", "coords": [19.708194, 47.926405]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Csohány Kálmán Galerie",
+                  "text": "In einem historischen Gebäude untergebracht, zeigt die Galerie die Werke des namhaften ungarischen Grafikers Kálmán Csohány. Die Sammlung ist ein bedeutender Teil des kulturellen Erbes der Region Nógrád.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "image": "/poi-images/sights/city-paszto-extra-csohany-kalman-galerie.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/108734939396464137305\">Bodnár Emil</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJCaebYb1AQEcRsJi46pBpsxY",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  },
+                  "coords": [
+                        19.694754,
+                        47.918118
+                  ]
+            },
+            {
+                  "name": "Schloss Teleki-Wattaay",
+                  "text": "Ein Barockschloss aus dem 18. Jahrhundert, das heute als Kulturzentrum und Bibliothek dient. Das Gebäude und sein gepflegter Garten sind wichtige Bestandteile des Stadtbildes.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Strandbad Pásztó",
+                  "text": "Ein beliebtes Freizeitziel mit mehreren Becken und Grünanlagen, das besonders in den Sommermonaten Entspannung bietet. Es ist ein idealer Ort für Familien und Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Heilige-Elisabeth-Kapelle",
+                  "text": "Eine kleine historische Kapelle im südlichen Teil der Stadt, die der Heiligen Elisabeth von Ungarn gewidmet ist. Sie ist ein ruhiger Ort der Besinnung und ein Denkmal lokaler Frömmigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rajeczky-Benjámin-Gedenkhaus",
+                  "text": "Das ehemalige Wohnhaus des bedeutenden Musikhistorikers und Zisterziensermönchs, das heute Dokumente und Gegenstände aus seinem Leben präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        19.69544,
+                        47.918516
+                  ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "Dieses lokale Freibad in Pásztó bietet eine klassische Umgebung für Erholung und unbeschwerten Badespaß. Die Atmosphäre ist durchweg lebhaft und einladend, was besonders Einheimische anzieht, die eine erfrischende Abkühlung suchen. Es ist der ideale Ort, um an heißen Sonnentagen neue Energie zu tanken.",
+                  "category": "family",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "Zaubertal-Bühne in Pásztó.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "Ein markantes historisches Gebäude und eine lokale Sehenswürdigkeit in Pásztó.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
+                  ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "Hasznosi víztározó ist ein Stausee in Paszto, ideal für einen malerischen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "Dieser familienfreundliche Spielplatz am Strand von Pásztó ist ein wunderbarer Ort, an dem Kinder nach Herzenslust spielen und sich austoben können. Umgeben von der fröhlichen Atmosphäre des Badebereichs, bietet er einen sicheren und spannenden Raum für die jüngsten Besucher. Die Kombination aus Schwimmen und Spielen sorgt für einen perfekten Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "Régi vásártér utcai játszótér ist ein Spielplatz in Paszto, der einen wunderbaren Spielbereich im Freien für Kinder schafft.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Csohány Kálmán Galéria",
+                  "text": "A város neves szülöttének, a grafikusművész Csohány Kálmánnak az életművét bemutató kiállítóhely. A galéria a művész hagyatékát és a kortárs magyar grafika kiemelkedő alkotásait tárja a látogatók elé.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        19.694754,
+                        47.918118
+                  ]
+            },
+            {
+                  "name": "Teleki-Wattaay-kastély",
+                  "text": "18. századi barokk stílusú nemesi kúria, amely ma kulturális központként és könyvtárként működik. Az épület és gondozott kertje a városi séták kedvelt állomása.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Pásztói Strandfürdő",
+                  "text": "Népszerű szabadidős központ több medencével és zöldfelülettel, amely a nyári hónapokban kínál kikapcsolódást. Ideális helyszín családok és pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szent Erzsébet-kápolna",
+                  "text": "A város déli részén található kisméretű történelmi kápolna, amelyet Árpád-házi Szent Erzsébet tiszteletére szenteltek. A helyi vallásos élet egyik csendes emlékhelye.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rajeczky Benjámin Emlékház",
+                  "text": "A híres zenetörténész és utolsó pászto-i ciszterci szerzetes egykori lakóháza, amely ma az életművét bemutató kiállításnak ad otthont a városközpontban.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        19.69544,
+                        47.918516
+                  ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "A Pásztón található helyi szabadtéri strandfürdő klasszikus környezetet biztosít a kikapcsolódáshoz és a vízi szórakozáshoz. A légkör általában élénk és barátságos, tökéletesen kiszolgálva a frissítő csobbanásra vágyó helyieket. Ez egy ideális hely a lehűlésre a forró, napsütéses napokon.",
+                  "category": "family",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "Varázsvölgy - Színpad Pásztón.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "Jellegzetes történelmi épület és helyi látnivaló Pásztón.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
+                  ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "A Hasznosi víztározó egy pásztói víztározó, amely ideális egy festői sétára a víz mentén.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "Ez a pásztói strandon található családbarát játszótér kiváló helyszín, ahol a gyerekek játszhatnak és levezethetik az energiájukat. A fürdőzőhely nyüzsgő légkörével körülvéve biztonságos és vonzó teret kínál a fiatalabb látogatók számára. Az úszás és a játékidő összekapcsolása tökéletes családi kirándulást eredményez.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "A Régi vásártér utcai játszótér egy pásztói játszótér, amely nagyszerű szabadtéri játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galeria Csohány Kálmán",
+                  "text": "Găzduită într-o clădire istorică, galeria prezintă opera graficianului maghiar Kálmán Csohány, originar din Pásztó. Colecția este o componentă esențială a vieții culturale și artistice a județului Nógrád.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        19.694754,
+                        47.918118
+                  ]
+            },
+            {
+                  "name": "Castelul Teleki-Wattaay",
+                  "text": "Un conac în stil baroc din secolul al XVIII-lea, care servește astăzi drept centru cultural și bibliotecă. Clădirea și grădina sa îngrijită sunt repere importante ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Ștrandul Pásztó",
+                  "text": "O destinație populară de agrement cu mai multe bazine și spații verzi, care oferă relaxare în special în lunile de vară. Este un loc ideal pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Capela Sfânta Elisabeta",
+                  "text": "O mică chapelă istorică situată în partea de sud a orașului, dedicată Sfintei Elisabeta a Ungariei. Este un loc liniștit de reculegere și un monument al pioșeniei locale.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Casa Memorială Rajeczky Benjámin",
+                  "text": "Fosta locuință a celebrului istoric muzical și călugăr cistercian, care găzduiește astăzi o colecție de documente și obiecte personale în centrul istoric.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        19.69544,
+                        47.918516
+                  ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "Funcționând ca un ștrand local în aer liber în Pásztó, această destinație oferă un cadru clasic pentru recreere și distracție acvatică. Atmosfera este în general plină de viață și primitoare, perfectă pentru localnicii care caută o baie răcoritoare. Este un loc ideal pentru a vă răcori în zilele fierbinți și însorite.",
+                  "category": "family",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "Scena Văii Magice din Pásztó.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "O clădire istorică distinctivă și o atracție locală în Pásztó.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
+                  ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "Hasznosi víztározó este un lac de acumulare în Paszto, ideal pentru o plimbare pitorească de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "Acest loc de joacă potrivit pentru familii situat la plaja din Pásztó este un loc excelent unde copiii se pot juca și își pot consuma energia. Înconjurat de atmosfera vibrantă a zonei de înot, oferă un spațiu sigur și atractiv pentru cei mai tineri vizitatori. Combinarea înotului cu joaca face ca ieșirea în familie să fie perfectă.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "Régi vásártér utcai játszótér este un loc de joacă în Paszto, creând o zonă minunată de joacă în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kálmán Csohány Gallery",
+                  "text": "Dedicated to the life and work of the renowned Hungarian graphic artist Kálmán Csohány, who was born in the town. The gallery houses a significant collection of his prints and illustrations.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        19.694754,
+                        47.918118
+                  ]
+            },
+            {
+                  "name": "Teleki-Wattaay Mansion",
+                  "text": "An 18th-century Baroque-style noble mansion that today serves as a cultural center and library. The building and its well-kept garden are important parts of the cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        19.6896,
+                        47.9221
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Pásztó Thermal Bath",
+                  "text": "A popular leisure destination with several pools and green areas, offering relaxation especially during the summer months. It is an ideal place for families and those seeking rest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.6952,
+                        47.9158
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "St. Elizabeth Chapel",
+                  "text": "A small historical chapel in the southern part of the city, dedicated to St. Elizabeth of Hungary. It is a quiet place of reflection and a monument of local piety.",
+                  "category": "historical",
+                  "coords": [
+                        19.6872,
+                        47.9185
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Rajeczky Benjámin Memorial House",
+                  "text": "The former home of the renowned music historian and Cistercian monk, now serving as a museum showcasing his life work in the heart of the town.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        19.69544,
+                        47.918516
+                  ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "Operating as a local open-air swimming pool in Pásztó, this destination provides a classic setting for recreation and aquatic fun. The atmosphere is generally lively and welcoming, catering perfectly to locals looking for a refreshing dip. It is an ideal spot to cool down on hot sunny days.",
+                  "category": "family",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "Magic Valley stage in Pásztó.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "A distinctive historical building and local attraction in Pásztó.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
+                  ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "Hasznosi víztározó is a reservoir in Paszto, ideal for a scenic stroll along the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "This family-friendly playground at the beach in Pásztó is an excellent spot where children can play and release their energy. Surrounded by the vibrant atmosphere of the swimming area, it offers a safe and engaging space for younger visitors. Combining a swim with playtime makes for a perfect family outing.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "Régi vásártér utcai játszótér is a playground in Paszto, creating a wonderful outdoor play area for kids.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
+                  ]
+            }
+      ]
+}
   },
     {
     id: "geo-karanc-extra",
@@ -10752,7 +11200,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
-                  "text": "Ráckevei Hajómalom Ipartörténeti Emlékhely ist ein bemerkenswertes Museum in Ráckeve, das als historische Wassermühle bekannt ist.",
+                  "text": "Historische Wassermühle, heute Museum, in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.94677,
@@ -10761,7 +11209,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Árpád Múzeum",
-                  "text": "Árpád Múzeum ist ein Museum in Ráckeve.",
+                  "text": "Árpád Museum in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.945845,
@@ -10770,7 +11218,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halmúzeum",
-                  "text": "Halmúzeum ist ein Museum in Ráckeve.",
+                  "text": "Fischmuseum in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.945255,
@@ -10779,7 +11227,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Senki szigete",
-                  "text": "Senki szigete ist ein Naturschutzgebiet in Ráckeve.",
+                  "text": "Niemandsinsel in Ráckeve.",
                   "category": "natural",
                   "coords": [
                         18.951027,
@@ -10788,7 +11236,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Patay László képtár",
-                  "text": "Patay László képtár ist ein Museum in Ráckeve.",
+                  "text": "Patay László Galerie in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.94605,
@@ -10797,7 +11245,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "André Kertész Fotómúzeum és Emlékház",
-                  "text": "André Kertész Fotómúzeum és Emlékház ist ein Museum in Ráckeve.",
+                  "text": "André Kertész Fotomuseum und Gedenkhaus in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.947214,
@@ -10806,7 +11254,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tűztorony-kilátó",
-                  "text": "Tűztorony-kilátó ist ein Aussichtspunkt in Ráckeve.",
+                  "text": "Feuerturm-Aussichtspunkt in Ráckeve.",
                   "category": "natural",
                   "coords": [
                         18.94533,
@@ -10815,7 +11263,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Imre kilátó",
-                  "text": "Szent Imre kilátó ist eine Attraktion in Ráckeve.",
+                  "text": "Szent-Imre-Aussichtspunkt in Ráckeve.",
                   "category": "landmark",
                   "coords": [
                         18.955534,
@@ -10824,7 +11272,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tulipán játszótér",
-                  "text": "Der Tulipán Spielplatz in Rackeve ist ein schöner Ort für Kinder.",
+                  "text": "Tulpen-Spielplatz in Ráckeve.",
                   "category": "family",
                   "coords": [
                         18.942665,
@@ -10928,7 +11376,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
-                  "text": "A Ráckevei Hajómalom Ipartörténeti Emlékhely egy jelentős múzeum és történelmi vízimalom Ráckevén.",
+                  "text": "Történelmi vízimalom, ma múzeum, Ráckevén.",
                   "category": "museum",
                   "coords": [
                         18.94677,
@@ -10937,7 +11385,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Árpád Múzeum",
-                  "text": "Az Árpád Múzeum egy múzeum Ráckevén.",
+                  "text": "Árpád Múzeum Ráckevén.",
                   "category": "museum",
                   "coords": [
                         18.945845,
@@ -10946,7 +11394,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halmúzeum",
-                  "text": "A Halmúzeum egy múzeum Ráckevén.",
+                  "text": "Halmúzeum Ráckevén.",
                   "category": "museum",
                   "coords": [
                         18.945255,
@@ -10955,7 +11403,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Senki szigete",
-                  "text": "A Senki szigete egy természetvédelmi terület Ráckevén.",
+                  "text": "Senki szigete Ráckevén.",
                   "category": "natural",
                   "coords": [
                         18.951027,
@@ -10964,7 +11412,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Patay László képtár",
-                  "text": "A Patay László képtár egy múzeum Ráckevén.",
+                  "text": "Patay László képtár Ráckevén.",
                   "category": "museum",
                   "coords": [
                         18.94605,
@@ -10973,7 +11421,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "André Kertész Fotómúzeum és Emlékház",
-                  "text": "Az André Kertész Fotómúzeum és Emlékház egy múzeum Ráckevén.",
+                  "text": "André Kertész Fotómúzeum és Emlékház Ráckevén.",
                   "category": "museum",
                   "coords": [
                         18.947214,
@@ -10982,7 +11430,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tűztorony-kilátó",
-                  "text": "A Tűztorony-kilátó egy kilátó Ráckevén.",
+                  "text": "Tűztorny-kilátó Ráckevén.",
                   "category": "natural",
                   "coords": [
                         18.94533,
@@ -10991,7 +11439,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Imre kilátó",
-                  "text": "A Szent Imre kilátó egy látványosság Ráckevén.",
+                  "text": "Szent Imre kilátó Ráckevén.",
                   "category": "landmark",
                   "coords": [
                         18.955534,
@@ -11000,7 +11448,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tulipán játszótér",
-                  "text": "A ráckevei Tulipán játszótér egy kellemes hely a gyermekeknek.",
+                  "text": "Tulipán játszótér Ráckevén.",
                   "category": "family",
                   "coords": [
                         18.942665,
@@ -11104,7 +11552,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
-                  "text": "Ráckevei Hajómalom Ipartörténeti Emlékhely este un muzeu notabil din Ráckeve, cunoscut ca o moară de apă istorică.",
+                  "text": "Moară de apă istorică, acum muzeu, în Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.94677,
@@ -11113,7 +11561,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Árpád Múzeum",
-                  "text": "Árpád Múzeum este un muzeu situat în Ráckeve.",
+                  "text": "Muzeul Árpád din Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.945845,
@@ -11122,7 +11570,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halmúzeum",
-                  "text": "Halmúzeum este un muzeu din Ráckeve.",
+                  "text": "Muzeul Peștelui din Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.945255,
@@ -11131,7 +11579,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Senki szigete",
-                  "text": "Senki szigete este o rezervație naturală din Ráckeve.",
+                  "text": "Insula Nimănui din Ráckeve.",
                   "category": "natural",
                   "coords": [
                         18.951027,
@@ -11140,7 +11588,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Patay László képtár",
-                  "text": "Patay László képtár este un muzeu situat în Ráckeve.",
+                  "text": "Galeria Patay László din Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.94605,
@@ -11149,7 +11597,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "André Kertész Fotómúzeum és Emlékház",
-                  "text": "André Kertész Fotómúzeum és Emlékház este un muzeu în Ráckeve.",
+                  "text": "Muzeul Foto și Casa Memorială André Kertész din Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.947214,
@@ -11158,7 +11606,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tűztorony-kilátó",
-                  "text": "Tűztorony-kilátó este un punct de belvedere în Ráckeve.",
+                  "text": "Turn de foc punct de belvedere în Ráckeve.",
                   "category": "natural",
                   "coords": [
                         18.94533,
@@ -11167,7 +11615,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Imre kilátó",
-                  "text": "Szent Imre kilátó este o atracție în Ráckeve.",
+                  "text": "Punct de belvedere Sfântul Imre din Ráckeve.",
                   "category": "landmark",
                   "coords": [
                         18.955534,
@@ -11176,7 +11624,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tulipán játszótér",
-                  "text": "Locul de joacă Tulipán din Rackeve este un loc plăcut pentru copii.",
+                  "text": "Loc de joacă Lalea în Ráckeve.",
                   "category": "family",
                   "coords": [
                         18.942665,
@@ -11280,7 +11728,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
-                  "text": "Ráckevei Hajómalom Ipartörténeti Emlékhely is a notable museum in Ráckeve, recognized as a historic watermill.",
+                  "text": "Historic watermill, now a museum, in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.94677,
@@ -11289,7 +11737,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Árpád Múzeum",
-                  "text": "Árpád Múzeum is a museum located in Ráckeve.",
+                  "text": "Árpád Museum in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.945845,
@@ -11298,7 +11746,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Halmúzeum",
-                  "text": "Halmúzeum is a museum located in Ráckeve.",
+                  "text": "Fish Museum in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.945255,
@@ -11307,7 +11755,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Senki szigete",
-                  "text": "Senki szigete is a nature reserve situated in Ráckeve.",
+                  "text": "Nobody's Island in Ráckeve.",
                   "category": "natural",
                   "coords": [
                         18.951027,
@@ -11316,7 +11764,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Patay László képtár",
-                  "text": "Patay László képtár is a museum located in Ráckeve.",
+                  "text": "Patay László Gallery in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.94605,
@@ -11325,7 +11773,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "André Kertész Fotómúzeum és Emlékház",
-                  "text": "André Kertész Fotómúzeum és Emlékház is a museum in Ráckeve.",
+                  "text": "André Kertész Photo Museum and Memorial House in Ráckeve.",
                   "category": "museum",
                   "coords": [
                         18.947214,
@@ -11334,7 +11782,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tűztorony-kilátó",
-                  "text": "Tűztorony-kilátó is a viewpoint located in Ráckeve.",
+                  "text": "Fire tower lookout in Ráckeve.",
                   "category": "natural",
                   "coords": [
                         18.94533,
@@ -11343,7 +11791,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szent Imre kilátó",
-                  "text": "Szent Imre kilátó is an attraction in Ráckeve.",
+                  "text": "St. Imre lookout in Ráckeve.",
                   "category": "landmark",
                   "coords": [
                         18.955534,
@@ -11352,7 +11800,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Tulipán játszótér",
-                  "text": "Tulipán playground in Rackeve is a nice place for children.",
+                  "text": "Tulip playground in Ráckeve.",
                   "category": "family",
                   "coords": [
                         18.942665,
@@ -11688,7 +12136,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ördög-hegyi kilátás",
-                  "text": "Ein Platz mit schöner Aussicht auf dem Ördög-Berg.",
+                  "text": "Teufelsberg-Aussicht in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.931007,
@@ -11742,7 +12190,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "korall kilátóhely",
-                  "text": "Ein kleiner Aussichtspunkt inmitten der Natur.",
+                  "text": "Korallen-Aussichtspunkt in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.983211,
@@ -11778,7 +12226,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szikla",
-                  "text": "Eine lokale Sehenswürdigkeit in Nagymaros.",
+                  "text": "Felsformation in Nagymaros.",
                   "category": "landmark",
                   "coords": [
                         18.973799,
@@ -11823,7 +12271,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kleine Fitze",
-                  "text": "Büdös-tó ist ein See in Nagymaros, der eine interessante Naturkulisse bietet.",
+                  "text": "Stinkender See in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.938553,
@@ -11832,7 +12280,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pisztrángos horgásztó",
-                  "text": "Pisztrángos horgásztó ist ein idyllischer See in Nagymaros für Spaziergänge am Wasser.",
+                  "text": "Forellen-Angelseen in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.981066,
@@ -11841,7 +12289,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kacsaliget Játszótér",
-                  "text": "Kacsaliget Játszótér ist ein schöner Spielplatz in Nagymaros, ideal für Familienausflüge.",
+                  "text": "Entenhain-Spielplatz in Nagymaros.",
                   "category": "family",
                   "coords": [
                         18.959918,
@@ -12134,7 +12582,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ördög-hegyi kilátás",
-                  "text": "Panorámás kilátópont az Ördög-hegyen.",
+                  "text": "Ördög-hegyi kilátás Nagymaroson.",
                   "category": "natural",
                   "coords": [
                         18.931007,
@@ -12188,7 +12636,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "korall kilátóhely",
-                  "text": "Kisebb kilátóhely a hegyvidéki túraútvonalak mentén.",
+                  "text": "Korall kilátóhely Nagymaroson.",
                   "category": "natural",
                   "coords": [
                         18.983211,
@@ -12224,7 +12672,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szikla",
-                  "text": "Helyi látnivaló Nagymaroson.",
+                  "text": "Szikla Nagymaroson.",
                   "category": "landmark",
                   "coords": [
                         18.973799,
@@ -12269,7 +12717,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Büdös-tó",
-                  "text": "A Büdös-tó egy tó Nagymaros területén, amely érdekes természeti kulisszát nyújt.",
+                  "text": "Büdös-tó Nagymaroson.",
                   "category": "natural",
                   "coords": [
                         18.938553,
@@ -12278,7 +12726,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pisztrángos horgásztó",
-                  "text": "A Pisztrángos horgásztó egy idilli tó Nagymaros városában, vízparti sétákhoz.",
+                  "text": "Pisztrángos horgásztó Nagymaroson.",
                   "category": "natural",
                   "coords": [
                         18.981066,
@@ -12287,7 +12735,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kacsaliget Játszótér",
-                  "text": "A Kacsaliget Játszótér egy szép játszótér Nagymaros területén, ideális családi kirándulásokhoz.",
+                  "text": "Kacsaliget Játszótér Nagymaroson.",
                   "category": "family",
                   "coords": [
                         18.959918,
@@ -12580,7 +13028,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ördög-hegyi kilátás",
-                  "text": "Un loc cu o vedere frumoasă situat pe muntele Ördög.",
+                  "text": "Punct de vedere pe Muntele Diavolului în Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.931007,
@@ -12634,7 +13082,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "korall kilátóhely",
-                  "text": "Un mic punct de belvedere situat în mijlocul naturii.",
+                  "text": "Punct de belvedere Coral în Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.983211,
@@ -12670,7 +13118,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szikla",
-                  "text": "O atracție locală în Nagymaros.",
+                  "text": "Formațiune stâncoasă în Nagymaros.",
                   "category": "landmark",
                   "coords": [
                         18.973799,
@@ -12715,7 +13163,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Büdös-tó",
-                  "text": "Büdös-tó este un lac în Nagymaros, oferind un decor natural interesant.",
+                  "text": "Lacul puturos din Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.938553,
@@ -12724,7 +13172,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pisztrángos horgásztó",
-                  "text": "Pisztrángos horgásztó este un lac idilic în Nagymaros pentru plimbări pe malul apei.",
+                  "text": "Lac de pescuit păstrăv în Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.981066,
@@ -12733,7 +13181,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kacsaliget Játszótér",
-                  "text": "Kacsaliget Játszótér este un loc de joacă frumos în Nagymaros, ideal pentru ieșiri în familie.",
+                  "text": "Loc de joacă Crângul Rațelor în Nagymaros.",
                   "category": "family",
                   "coords": [
                         18.959918,
@@ -13026,7 +13474,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Ördög-hegyi kilátás",
-                  "text": "A scenic spot offering views from the Ördög Hill area.",
+                  "text": "Devil's Mountain viewpoint in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.931007,
@@ -13080,7 +13528,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "korall kilátóhely",
-                  "text": "A small scenic viewpoint located along nature trails.",
+                  "text": "Coral viewpoint in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.983211,
@@ -13116,7 +13564,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Szikla",
-                  "text": "A local attraction in Nagymaros.",
+                  "text": "Rock formation in Nagymaros.",
                   "category": "landmark",
                   "coords": [
                         18.973799,
@@ -13161,7 +13609,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Büdös-tó",
-                  "text": "Büdös-tó is a lake in Nagymaros, offering an interesting natural backdrop.",
+                  "text": "Stinking lake in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.938553,
@@ -13170,7 +13618,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Pisztrángos horgásztó",
-                  "text": "Pisztrángos horgásztó is an idyllic lake in Nagymaros for walks by the water.",
+                  "text": "Trout fishing lake in Nagymaros.",
                   "category": "natural",
                   "coords": [
                         18.981066,
@@ -13179,7 +13627,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kacsaliget Játszótér",
-                  "text": "Kacsaliget Játszótér is a beautiful playground in Nagymaros, ideal for family outings.",
+                  "text": "Duck grove playground in Nagymaros.",
                   "category": "family",
                   "coords": [
                         18.959918,
@@ -13486,7 +13934,304 @@ export const poiExtraHu1: POI[] = [
       fr: ["Première mention documentaire en 1327", "Population d'environ 8 000 personnes en 2024", "Site d'une église réformée du XVe siècle", "Possède d'importants thermes avec une eau à 38 degrés", "Fait partie de la réserve naturelle de Szatmár-Bereg", "Réobtention du statut de ville en 1978"],
     },
     image: "/poi-images/city-fehergyarmat-extra.webp",
-    "sights": {"de": [{"name": "Katholische Kirche Szent Péter és Pál", "text": "Diese spätbarocke Kirche wurde 1816 erbaut und prägt das Stadtzentrum. Nach mehreren Bränden wurde sie Anfang des 20. Jahrhunderts sorgfältig restauriert.", "category": "historical", "coords": [22.5159, 47.9846], "confidence": "high", "source_hint": "wiki"}, {"name": "Hochwasser-Denkmal", "text": "Das Denkmal von László Szomor erinnert an die verheerende Überschwemmung des Theiß-Gebiets im Jahr 1970. Es steht als Symbol für den Wiederaufbau und den Zusammenhalt der Region.", "category": "civic", "coords": [22.5185, 47.9855], "confidence": "high", "source_hint": "wiki"}, {"name": "Griechisch-katholische Kirche Szentháromság", "text": "Ein modernes sakrales Gebäude, das nach den Plänen des Architekten Mihály Balázs errichtet wurde. Die Kirche ist ein bedeutendes Beispiel zeitgenössischer ungarischer Architektur.", "category": "civic", "coords": [22.5134, 47.9882], "confidence": "high", "source_hint": "wiki"}, {"name": "Kossuth-Park", "text": "Die zentrale Grünanlage der Stadt bietet Platz für Erholung und Spaziergänge. Im Park befinden sich mehrere Denkmäler bedeutender Persönlichkeiten der ungarischen Geschichte.", "category": "recreational", "coords": [22.517, 47.985], "confidence": "high", "source_hint": "wiki"}, {"name": "Deák Ferenc Platz", "text": "Im Herzen von Fehérgyarmat lädt der Deák Ferenc Platz zum Verweilen ein. Dieser zentrale Platz ist von historischen Gebäuden sowie gepflegten Grünanlagen gesäumt und eignet sich hervorragend für einen entspannten Spaziergang.", "category": "civic", "confidence": "high", "coords": [22.518284, 47.980325]}, {"name": "Tájház", "text": "Ein lokales Museum in Fehérgyarmat, das die regionale Kultur präsentiert.", "category": "museum", "coords": [22.510383, 47.995367]}, {"name": "Városi Strandfürdő", "text": "Ein beliebtes öffentliches Freibad und Wasserpark in Fehérgyarmat.", "category": "family", "coords": [22.517562, 47.994447]}], "hu": [{"name": "Szent Péter és Pál apostolok templom", "text": "A város központjában álló római katolikus templom 1816-ban épült késő barokk stílusban. A 20. század elején, több tűzvész után nyerte el mai formáját.", "category": "historical", "coords": [22.5159, 47.9846], "confidence": "high", "source_hint": "wiki"}, {"name": "Árvízi emlékmű", "text": "Szomor László alkotása az 1970-es nagy tiszai árvíznek állít emléket. A szobor a pusztítás utáni újjáépítés és összefogás jelképe a városban.", "category": "civic", "coords": [22.5185, 47.9855], "confidence": "high", "source_hint": "wiki"}, {"name": "Szentháromság görögkatolikus templom", "text": "Balázs Mihály tervei alapján épült modern egyházi épület, amely a kortárs magyar építészet egyik kiemelkedő példája. Letisztult formavilága különleges látványt nyújt.", "category": "civic", "coords": [22.5134, 47.9882], "confidence": "high", "source_hint": "wiki"}, {"name": "Kossuth park", "text": "A város legnagyobb központi parkja, amely pihenőhelyként és rendezvényhelyszínként is szolgál. Területén több köztéri szobor és emlékhely található.", "category": "recreational", "coords": [22.517, 47.985], "confidence": "high", "source_hint": "wiki"}, {"name": "Deák Ferenc tér", "text": "Fehérgyarmat szívében a Deák Ferenc tér pihenésre csábít. Ezt a központi teret történelmi épületek és gondozott zöldterületek szegélyezik, és kiválóan alkalmas egy pihentető sétára.", "category": "civic", "confidence": "high", "coords": [22.518284, 47.980325]}, {"name": "Tájház", "text": "Helytörténeti múzeum Fehérgyarmaton, amely a régió kultúráját mutatja be.", "category": "museum", "coords": [22.510383, 47.995367]}, {"name": "Városi Strandfürdő", "text": "Népszerű városi strandfürdő és csúszdapark Fehérgyarmaton.", "category": "family", "coords": [22.517562, 47.994447]}], "ro": [{"name": "Biserica Catolică Sfinții Petru și Pavel", "text": "Această biserică în stil baroc târziu a fost construită în 1816 și domină centrul orașului. A fost restaurată la începutul secolului al XX-lea după mai multe incendii.", "category": "historical", "coords": [22.5159, 47.9846], "confidence": "high", "source_hint": "wiki"}, {"name": "Monumentul Inundațiilor", "text": "Opera lui László Szomor comemorează marea inundație a regiunii Tisei din anul 1970. Este un monument local important care simbolizează reconstrucția.", "category": "civic", "coords": [22.5185, 47.9855], "confidence": "high", "source_hint": "wiki"}, {"name": "Biserica Greco-Catolică Sfânta Treime", "text": "O clădire sacră modernă, construită după planurile arhitectului Mihály Balázs. Biserica reprezintă un exemplu remarcabil al arhitecturii ecleziastice contemporane maghiare.", "category": "civic", "coords": [22.5134, 47.9882], "confidence": "high", "source_hint": "wiki"}, {"name": "Parcul Kossuth", "text": "Principalul spațiu verde central al orașului, oferind un mediu plăcut pentru plimbări. Parcul găzduiește mai multe statui ale unor personalități istorice.", "category": "recreational", "coords": [22.517, 47.985], "confidence": "high", "source_hint": "wiki"}, {"name": "Piața Deák Ferenc", "text": "În inima orașului Fehérgyarmat, Piața Deák Ferenc te invită să te relaxezi. Această piață centrală civică este mărginită de clădiri istorice, precum și de spații verzi îngrijite și este ideală pentru o plimbare.", "category": "civic", "confidence": "high", "coords": [22.518284, 47.980325]}, {"name": "Tájház", "text": "Un muzeu local din Fehérgyarmat care prezintă cultura regională.", "category": "museum", "coords": [22.510383, 47.995367]}, {"name": "Városi Strandfürdő", "text": "Un ștrand public și parc acvatic popular în Fehérgyarmat.", "category": "family", "coords": [22.517562, 47.994447]}], "en": [{"name": "Saints Peter and Paul Catholic Church", "text": "This late Baroque church was built in 1816 and stands in the town center. It was carefully restored in the early 20th century after several fires.", "category": "historical", "coords": [22.5159, 47.9846], "confidence": "high", "source_hint": "wiki"}, {"name": "Flood Monument", "text": "Created by László Szomor, this monument commemorates the devastating 1970 flood of the Tisza region. It serves as a symbol of resilience and local unity.", "category": "civic", "coords": [22.5185, 47.9855], "confidence": "high", "source_hint": "wiki"}, {"name": "Holy Trinity Greek Catholic Church", "text": "A modern ecclesiastical building designed by architect Mihály Balázs. It is a significant example of contemporary Hungarian church architecture.", "category": "civic", "coords": [22.5134, 47.9882], "confidence": "high", "source_hint": "wiki"}, {"name": "Kossuth Park", "text": "The main central park of the town, providing a pleasant green space for recreation. The park features various statues of important historical figures.", "category": "recreational", "coords": [22.517, 47.985], "confidence": "high", "source_hint": "wiki"}, {"name": "Deák Ferenc Square", "text": "In the heart of Fehérgyarmat, Deák Ferenc Platz invites visitors to linger. This central civic square is lined with historic buildings as well as well-kept green spaces, making it ideal for a relaxing stroll.", "category": "civic", "confidence": "high", "coords": [22.518284, 47.980325]}, {"name": "Tájház", "text": "A local museum in Fehérgyarmat showcasing regional culture.", "category": "museum", "coords": [22.510383, 47.995367]}, {"name": "Városi Strandfürdő", "text": "A popular public lido and water park in Fehérgyarmat.", "category": "family", "coords": [22.517562, 47.994447]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Katholische Kirche Szent Péter és Pál",
+                  "text": "Diese spätbarocke Kirche wurde 1816 erbaut und prägt das Stadtzentrum. Nach mehreren Bränden wurde sie Anfang des 20. Jahrhunderts sorgfältig restauriert.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hochwasser-Denkmal",
+                  "text": "Das Denkmal von László Szomor erinnert an die verheerende Überschwemmung des Theiß-Gebiets im Jahr 1970. Es steht als Symbol für den Wiederaufbau und den Zusammenhalt der Region.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Griechisch-katholische Kirche Szentháromság",
+                  "text": "Ein modernes sakrales Gebäude, das nach den Plänen des Architekten Mihály Balázs errichtet wurde. Die Kirche ist ein bedeutendes Beispiel zeitgenössischer ungarischer Architektur.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kossuth-Park",
+                  "text": "Die zentrale Grünanlage der Stadt bietet Platz für Erholung und Spaziergänge. Im Park befinden sich mehrere Denkmäler bedeutender Persönlichkeiten der ungarischen Geschichte.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Deák Ferenc Platz",
+                  "text": "Im Herzen von Fehérgyarmat lädt der Deák Ferenc Platz zum Verweilen ein. Dieser zentrale Platz ist von historischen Gebäuden sowie gepflegten Grünanlagen gesäumt und eignet sich hervorragend für einen entspannten Spaziergang.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        22.518284,
+                        47.980325
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Ein lokales Museum in Fehérgyarmat, das die regionale Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Städtisches Strandbad in Fehérgyarmat.",
+                  "category": "family",
+                  "coords": [
+                        22.517562,
+                        47.994447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Péter és Pál apostolok templom",
+                  "text": "A város központjában álló római katolikus templom 1816-ban épült késő barokk stílusban. A 20. század elején, több tűzvész után nyerte el mai formáját.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Árvízi emlékmű",
+                  "text": "Szomor László alkotása az 1970-es nagy tiszai árvíznek állít emléket. A szobor a pusztítás utáni újjáépítés és összefogás jelképe a városban.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság görögkatolikus templom",
+                  "text": "Balázs Mihály tervei alapján épült modern egyházi épület, amely a kortárs magyar építészet egyik kiemelkedő példája. Letisztult formavilága különleges látványt nyújt.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kossuth park",
+                  "text": "A város legnagyobb központi parkja, amely pihenőhelyként és rendezvényhelyszínként is szolgál. Területén több köztéri szobor és emlékhely található.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Deák Ferenc tér",
+                  "text": "Fehérgyarmat szívében a Deák Ferenc tér pihenésre csábít. Ezt a központi teret történelmi épületek és gondozott zöldterületek szegélyezik, és kiválóan alkalmas egy pihentető sétára.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        22.518284,
+                        47.980325
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Helytörténeti múzeum Fehérgyarmaton, amely a régió kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Városi Strandfürdő Fehérgyarmaton.",
+                  "category": "family",
+                  "coords": [
+                        22.517562,
+                        47.994447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Catolică Sfinții Petru și Pavel",
+                  "text": "Această biserică în stil baroc târziu a fost construită în 1816 și domină centrul orașului. A fost restaurată la începutul secolului al XX-lea după mai multe incendii.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Monumentul Inundațiilor",
+                  "text": "Opera lui László Szomor comemorează marea inundație a regiunii Tisei din anul 1970. Este un monument local important care simbolizează reconstrucția.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Greco-Catolică Sfânta Treime",
+                  "text": "O clădire sacră modernă, construită după planurile arhitectului Mihály Balázs. Biserica reprezintă un exemplu remarcabil al arhitecturii ecleziastice contemporane maghiare.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Parcul Kossuth",
+                  "text": "Principalul spațiu verde central al orașului, oferind un mediu plăcut pentru plimbări. Parcul găzduiește mai multe statui ale unor personalități istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Piața Deák Ferenc",
+                  "text": "În inima orașului Fehérgyarmat, Piața Deák Ferenc te invită să te relaxezi. Această piață centrală civică este mărginită de clădiri istorice, precum și de spații verzi îngrijite și este ideală pentru o plimbare.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        22.518284,
+                        47.980325
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Un muzeu local din Fehérgyarmat care prezintă cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Baie de plajă municipală în Fehérgyarmat.",
+                  "category": "family",
+                  "coords": [
+                        22.517562,
+                        47.994447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saints Peter and Paul Catholic Church",
+                  "text": "This late Baroque church was built in 1816 and stands in the town center. It was carefully restored in the early 20th century after several fires.",
+                  "category": "historical",
+                  "coords": [
+                        22.5159,
+                        47.9846
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Flood Monument",
+                  "text": "Created by László Szomor, this monument commemorates the devastating 1970 flood of the Tisza region. It serves as a symbol of resilience and local unity.",
+                  "category": "civic",
+                  "coords": [
+                        22.5185,
+                        47.9855
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Holy Trinity Greek Catholic Church",
+                  "text": "A modern ecclesiastical building designed by architect Mihály Balázs. It is a significant example of contemporary Hungarian church architecture.",
+                  "category": "civic",
+                  "coords": [
+                        22.5134,
+                        47.9882
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kossuth Park",
+                  "text": "The main central park of the town, providing a pleasant green space for recreation. The park features various statues of important historical figures.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517,
+                        47.985
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Deák Ferenc Square",
+                  "text": "In the heart of Fehérgyarmat, Deák Ferenc Platz invites visitors to linger. This central civic square is lined with historic buildings as well as well-kept green spaces, making it ideal for a relaxing stroll.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        22.518284,
+                        47.980325
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A local museum in Fehérgyarmat showcasing regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Municipal beach bath in Fehérgyarmat.",
+                  "category": "family",
+                  "coords": [
+                        22.517562,
+                        47.994447
+                  ]
+            }
+      ]
+}
   },
   {
     id: "city-ujfeherto-extra",
@@ -13585,7 +14330,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újfehértói Múzeum",
-                  "text": "Újfehértói Múzeum ist ein Museum in Újfehértó.",
+                  "text": "Heimatmuseum in Újfehértó mit Ausstellungen zur Stadtgeschichte.",
                   "category": "museum",
                   "coords": [
                         21.681393,
@@ -13594,7 +14339,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zajti Ferenc Kulturális Központ",
-                  "text": "Zajti Ferenc Kulturális Központ ist ein Kunstzentrum in Újfehértó.",
+                  "text": "Kulturzentrum benannt nach dem Maler Ferenc Zajti mit Ausstellungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         21.682455,
@@ -13603,7 +14348,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Örömhírvétel-templom",
-                  "text": "Örömhírvétel-templom ist eine lokale Kultstätte in Újfehértó.",
+                  "text": "Kirche Mariä Verkündigung in Újfehértó.",
                   "category": "religious",
                   "coords": [
                         21.68497,
@@ -13658,7 +14403,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újfehértói Múzeum",
-                  "text": "Az Újfehértói Múzeum egy múzeum Újfehértón.",
+                  "text": "Újfehértó helytörténeti múzeuma a város múltját bemutató kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         21.681393,
@@ -13667,7 +14412,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zajti Ferenc Kulturális Központ",
-                  "text": "A Zajti Ferenc Kulturális Központ egy művészeti központ Újfehértón.",
+                  "text": "A festő Zajti Ferencről elnevezett kulturális központ kiállításokkal és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         21.682455,
@@ -13676,7 +14421,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Örömhírvétel-templom",
-                  "text": "Az Örömhírvétel-templom egy vallási épület Újfehértón.",
+                  "text": "Örömhírvétel-templom Újfehértón.",
                   "category": "religious",
                   "coords": [
                         21.68497,
@@ -13731,7 +14476,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újfehértói Múzeum",
-                  "text": "Újfehértói Múzeum este un muzeu din Újfehértó.",
+                  "text": "Muzeul de istorie locală din Újfehértó, cu exponate despre trecutul orașului.",
                   "category": "museum",
                   "coords": [
                         21.681393,
@@ -13740,7 +14485,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zajti Ferenc Kulturális Központ",
-                  "text": "Zajti Ferenc Kulturális Központ este un centru de artă din Újfehértó.",
+                  "text": "Centru cultural numit după pictorul Ferenc Zajti, cu expoziții și evenimente.",
                   "category": "cultural",
                   "coords": [
                         21.682455,
@@ -13749,7 +14494,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Örömhírvétel-templom",
-                  "text": "Örömhírvétel-templom este un lăcaș de cult local din Újfehértó.",
+                  "text": "Biserică catolică a Bunei Vestiri în Újfehértó.",
                   "category": "religious",
                   "coords": [
                         21.68497,
@@ -13804,7 +14549,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Újfehértói Múzeum",
-                  "text": "Újfehértói Múzeum is a museum showcasing local history in Újfehértó.",
+                  "text": "Local history museum in Újfehértó with exhibits on the town's past.",
                   "category": "museum",
                   "coords": [
                         21.681393,
@@ -13813,7 +14558,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Zajti Ferenc Kulturális Központ",
-                  "text": "Zajti Ferenc Kulturális Központ is an arts centre serving the community in Újfehértó.",
+                  "text": "Cultural center named after painter Ferenc Zajti, hosting exhibitions and events.",
                   "category": "cultural",
                   "coords": [
                         21.682455,
@@ -13822,7 +14567,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Örömhírvétel-templom",
-                  "text": "Örömhírvétel-templom is a local place of worship situated in Újfehértó.",
+                  "text": "Annunciation Catholic church in Újfehértó.",
                   "category": "religious",
                   "coords": [
                         21.68497,
@@ -14118,7 +14863,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kilátó-GSM-torony",
-                  "text": "Ein Aussichtspunkt auf einem GSM-Turm in Tamási.",
+                  "text": "Aussichts- und GSM-Turm auf einem Hügel bei Tamási mit Rundumblick.",
                   "category": "natural",
                   "coords": [
                         18.300093,
@@ -14211,7 +14956,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kilátó-GSM-torony",
-                  "text": "Kilátópont egy GSM-toronyon Tamásiban.",
+                  "text": "Kilátó- és GSM-torony Tamási határában, körpanorámával.",
                   "category": "natural",
                   "coords": [
                         18.300093,
@@ -14304,7 +15049,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kilátó-GSM-torony",
-                  "text": "Un punct de belvedere situat pe un turn GSM în Tamási.",
+                  "text": "Turn de observație și GSM pe un deal lângă Tamási, cu panoramă circulară.",
                   "category": "natural",
                   "coords": [
                         18.300093,
@@ -14397,7 +15142,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kilátó-GSM-torony",
-                  "text": "A viewpoint located on a GSM tower in Tamási.",
+                  "text": "Lookout and GSM tower on a hill near Tamási offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         18.300093,
@@ -14905,7 +15650,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Góczán-kert",
-                  "text": "Historische Überreste und Ruinen in der Stadt Vasvár.",
+                  "text": "Historischer Garten mit altem Baumbestand in Vasvár.",
                   "category": "historical",
                   "coords": [
                         16.788894,
@@ -15012,7 +15757,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Góczán-kert",
-                  "text": "Történelmi romok és maradványok Vasvár városában.",
+                  "text": "Történelmi kert Vasváron, régi faállománnyal.",
                   "category": "historical",
                   "coords": [
                         16.788894,
@@ -15119,7 +15864,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Góczán-kert",
-                  "text": "Rămășițe istorice și ruine în orașul Vasvár.",
+                  "text": "Grădină istorică în Vasvár, cu arbori bătrâni.",
                   "category": "historical",
                   "coords": [
                         16.788894,
@@ -15226,7 +15971,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Góczán-kert",
-                  "text": "Historical ruins and remnants in the town of Vasvár.",
+                  "text": "Historic garden in Vasvár featuring old trees.",
                   "category": "historical",
                   "coords": [
                         16.788894,
@@ -15786,7 +16531,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kristályfürdő",
-                  "text": "Ein Thermal- und Erlebnisbad in Ajka.",
+                  "text": "Familienfreundliches Thermalbad mit klarem, kristallähnlichem Wasser.",
                   "category": "family",
                   "coords": [
                         17.557942,
@@ -15795,7 +16540,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "MÁV 376.631",
-                  "text": "Eine ausgestellte historische Dampflokomotive in Ajka.",
+                  "text": "Historische Dampflokomotive MÁV 376.631 abgestellt am Bahnhof Ajka.",
                   "category": "landmark",
                   "coords": [
                         17.571749,
@@ -15804,7 +16549,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sobri-tó",
-                  "text": "Sobri-tó ist ein See in Ajka, der sich hervorragend für Spaziergänge in der Natur anbietet.",
+                  "text": "Kleiner See mit Naturlehrpfad in der Nähe von Ajka.",
                   "category": "natural",
                   "coords": [
                         17.626234,
@@ -15897,7 +16642,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kristályfürdő",
-                  "text": "Termál- és élményfürdő Ajkán.",
+                  "text": "Családbarát termálfürdő kristálytiszta vízzel.",
                   "category": "family",
                   "coords": [
                         17.557942,
@@ -15906,7 +16651,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "MÁV 376.631",
-                  "text": "Kiállított történelmi gőzmozdony Ajkán.",
+                  "text": "MÁV 376.631-es történelmi gőzmozdony az ajkai állomáson.",
                   "category": "landmark",
                   "coords": [
                         17.571749,
@@ -15915,7 +16660,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sobri-tó",
-                  "text": "A Sobri-tó egy tó Ajka területén, amely kiválóan alkalmas természetjárásra és sétákra.",
+                  "text": "Sobri-tó, egy kisebb tó tanösvénnyel Ajka közelében.",
                   "category": "natural",
                   "coords": [
                         17.626234,
@@ -16008,7 +16753,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kristályfürdő",
-                  "text": "Un parc acvatic și băi termale în Ajka.",
+                  "text": "Baie termală prietenoasă cu familiile, cu apă cristalină.",
                   "category": "family",
                   "coords": [
                         17.557942,
@@ -16017,7 +16762,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "MÁV 376.631",
-                  "text": "O locomotivă cu abur istorică expusă în Ajka.",
+                  "text": "Locomotivă cu abur istorică MÁV 376.631, parcată la gara Ajka.",
                   "category": "landmark",
                   "coords": [
                         17.571749,
@@ -16026,7 +16771,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sobri-tó",
-                  "text": "Sobri-tó este un lac în Ajka, excelent pentru plimbări în natură.",
+                  "text": "Lacul Sobri, un lac mic cu traseu didactic lângă Ajka.",
                   "category": "natural",
                   "coords": [
                         17.626234,
@@ -16119,7 +16864,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Kristályfürdő",
-                  "text": "A thermal and adventure water park in Ajka.",
+                  "text": "Family-friendly thermal bath with crystal-clear water.",
                   "category": "family",
                   "coords": [
                         17.557942,
@@ -16128,7 +16873,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "MÁV 376.631",
-                  "text": "A historical steam locomotive on display in Ajka.",
+                  "text": "Historic steam locomotive MÁV 376.631 parked at Ajka station.",
                   "category": "landmark",
                   "coords": [
                         17.571749,
@@ -16137,7 +16882,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Sobri-tó",
-                  "text": "Sobri-tó is a lake in Ajka, excellent for walks in nature.",
+                  "text": "Lake Sobri, a small lake with a nature trail near Ajka.",
                   "category": "natural",
                   "coords": [
                         17.626234,
@@ -16670,7 +17415,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Fáma Háza",
-                  "text": "Fáma Háza ist ein lokales Museum in Letenye.",
+                  "text": "Museum in Letenye, das lokale Geschichte und berühmte Persönlichkeiten zeigt.",
                   "category": "museum",
                   "coords": [
                         16.734574,
@@ -16679,7 +17424,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Utcakép",
-                  "text": "Utcakép ist eine Attraktion in Letenye.",
+                  "text": "Malerische Straße mit historischen Häusern in Letenye.",
                   "category": "landmark",
                   "coords": [
                         16.744353,
@@ -16734,7 +17479,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Fáma Háza",
-                  "text": "A Fáma Háza egy múzeum Letenyén.",
+                  "text": "Letenyei múzeum, amely a város történetét és híres személyiségeit mutatja be.",
                   "category": "museum",
                   "coords": [
                         16.734574,
@@ -16743,7 +17488,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Utcakép",
-                  "text": "Az Utcakép egy látványosság Letenyén.",
+                  "text": "Festői utca Letenyén, történelmi házakkal.",
                   "category": "landmark",
                   "coords": [
                         16.744353,
@@ -16798,7 +17543,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Fáma Háza",
-                  "text": "Fáma Háza este un muzeu local din Letenye.",
+                  "text": "Muzeu în Letenye care prezintă istoria locală și personalități celebre.",
                   "category": "museum",
                   "coords": [
                         16.734574,
@@ -16807,7 +17552,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Utcakép",
-                  "text": "Utcakép este o atracție în Letenye.",
+                  "text": "Stradă pitorească în Letenye, cu case istorice.",
                   "category": "landmark",
                   "coords": [
                         16.744353,
@@ -16862,7 +17607,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Fáma Háza",
-                  "text": "Fáma Háza is a local museum providing cultural exhibits in Letenye.",
+                  "text": "Museum in Letenye showcasing local history and famous residents.",
                   "category": "museum",
                   "coords": [
                         16.734574,
@@ -16871,7 +17616,7 @@ export const poiExtraHu1: POI[] = [
             },
             {
                   "name": "Utcakép",
-                  "text": "Utcakép is an urban attraction in Letenye.",
+                  "text": "Picturesque street in Letenye with historic houses.",
                   "category": "landmark",
                   "coords": [
                         16.744353,

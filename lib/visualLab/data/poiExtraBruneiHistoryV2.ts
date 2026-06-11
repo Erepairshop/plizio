@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraBruneiHistoryV2: POI[] = [
   {
-    id: "kampong-ayer-history-v2",
+    id: "kampong-ayer-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pottery House",
+                  "text": "Diese Attraktion liegt im historischen Wasserdorf und präsentiert traditionelle Töpferhandwerkskunst in einem klassischen Holzpfahlbau.",
+                  "category": "landmark",
+                  "coords": [
+                        114.94433,
+                        4.881995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pottery House",
+                  "text": "A történelmi vízifalu területén található látványosság egy klasszikus, cölöpökre épült faházban mutatja be a hagyományos fazekasmesterséget.",
+                  "category": "landmark",
+                  "coords": [
+                        114.94433,
+                        4.881995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pottery House",
+                  "text": "Situată în satul istoric pe apă, această atracție prezintă meșteșugul tradițional al olăritului într-o casă clasică din lemn pe piloni.",
+                  "category": "landmark",
+                  "coords": [
+                        114.94433,
+                        4.881995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pottery House",
+                  "text": "Situated within the historic water village, this attraction showcases traditional pottery craftsmanship in a classic wooden stilt house.",
+                  "category": "landmark",
+                  "coords": [
+                        114.94433,
+                        4.881995
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9431, 4.8833],
@@ -47,7 +92,88 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "omar-ali-saifuddien-mosque-history-v2",
+    id: "omar-ali-saifuddien-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mahligai",
+                  "text": "Dieses anerkannte Denkmal ist die Nachbildung einer zeremoniellen Barke in der künstlichen Lagune.",
+                  "category": "historical",
+                  "coords": [
+                        114.938929,
+                        4.888621
+                  ]
+            },
+            {
+                  "name": "Istana Darussalam",
+                  "text": "Diese historische Burg diente als ehemalige königliche Residenz und zeigt klassische architektonische Merkmale der Epoche.",
+                  "category": "castle",
+                  "coords": [
+                        114.937187,
+                        4.892117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mahligai",
+                  "text": "Ez az elismert emlékmű egy mesterséges lagúnában található ceremoniális bárka másolata.",
+                  "category": "historical",
+                  "coords": [
+                        114.938929,
+                        4.888621
+                  ]
+            },
+            {
+                  "name": "Istana Darussalam",
+                  "text": "Ez a történelmi kastély egykori királyi rezidenciaként szolgált, bemutatva a korszak klasszikus építészeti jegyeit.",
+                  "category": "castle",
+                  "coords": [
+                        114.937187,
+                        4.892117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mahligai",
+                  "text": "Acest monument recunoscut este o replică a unei barje ceremoniale situate în laguna artificială.",
+                  "category": "historical",
+                  "coords": [
+                        114.938929,
+                        4.888621
+                  ]
+            },
+            {
+                  "name": "Istana Darussalam",
+                  "text": "Acest castel istoric a servit ca fostă reședință regală, prezentând caracteristici arhitecturale clasice ale epocii.",
+                  "category": "castle",
+                  "coords": [
+                        114.937187,
+                        4.892117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahligai",
+                  "text": "This recognized monument stands as a ceremonial barge replica located in the artificial lagoon.",
+                  "category": "historical",
+                  "coords": [
+                        114.938929,
+                        4.888621
+                  ]
+            },
+            {
+                  "name": "Darussalam Palace",
+                  "text": "This historic castle served as a former royal residence, showcasing classic architectural features of the era.",
+                  "category": "castle",
+                  "coords": [
+                        114.937187,
+                        4.892117
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BN-BM",
     coords: [114.9394, 4.8895],
@@ -91,7 +217,304 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "jame-asr-hassanil-bolkiah-history-v2",
+    id: "jame-asr-hassanil-bolkiah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Footbridge Across Canal",
+                  "text": "Diese Fußgängerbrücke überspannt den Kanal und bietet Fußgängern einen sicheren Übergang und Blick auf das fließende Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        114.927937,
+                        4.905119
+                  ]
+            },
+            {
+                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
+                  "text": "Die Jame'Asr Hassanil Bolkiah Moschee ist ein massives islamisches Gotteshaus, das für seine markanten goldenen Hauptkuppeln berühmt ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.921875,
+                        4.897926
+                  ]
+            },
+            {
+                  "name": "Sumbangsih Mulia",
+                  "text": "Sumbangsih Mulia ist ein überdachter Komplex, der zahlreiche lokale Garküchen und kleine Einzelhandelsgeschäfte beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909083,
+                        4.895197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser lokale Surau dient als ausgewiesener islamischer Gebetsraum mit Einrichtungen für die rituelle Waschung.",
+                  "category": "landmark",
+                  "coords": [
+                        114.928837,
+                        4.902144
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Putera",
+                  "text": "Surau Asrama Putera ist ein muslimischer Gebetsraum, der sich innerhalb des männlichen Studentenwohnheims befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91343,
+                        4.901309
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Puteri",
+                  "text": "Surau Asrama Puteri bietet den Bewohnerinnen des Frauenwohnheims einen ruhigen islamischen Andachtsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        114.914368,
+                        4.901277
+                  ]
+            },
+            {
+                  "name": "Surau Pasar Pelbagai Barangan Gadong",
+                  "text": "Dieser Surau bietet den Käufern und Verkäufern im belebten Marktkomplex von Gadong einen bequemen Gebetsbereich.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91874,
+                        4.904689
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Persekutuan Pengakap",
+                  "text": "Balai Ibadat Persekutuan Pengakap ist ein Gebetsraum für muslimische Pfadfinder am Sitz des Pfadfinderverbandes.",
+                  "category": "landmark",
+                  "coords": [
+                        114.90136,
+                        4.901162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Footbridge Across Canal",
+                  "text": "Ez a gyalogoshíd a csatornán ível át, biztonságos átkelést és kilátást nyújtva a gyalogosoknak a folyó vízre.",
+                  "category": "natural",
+                  "coords": [
+                        114.927937,
+                        4.905119
+                  ]
+            },
+            {
+                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
+                  "text": "A Jame'Asr Hassanil Bolkiah mecset egy hatalmas iszlám istentiszteleti hely, amely híres jellegzetes arany főgyöngyeiről.",
+                  "category": "religious",
+                  "coords": [
+                        114.921875,
+                        4.897926
+                  ]
+            },
+            {
+                  "name": "Sumbangsih Mulia",
+                  "text": "A Sumbangsih Mulia egy fedett komplexum, amely számos helyi élelmiszerstandnak és kiskereskedelmi üzletnek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909083,
+                        4.895197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a helyi Surau kijelölt iszlám imateremként szolgál, amely rituális mosdási lehetőségekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        114.928837,
+                        4.902144
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Putera",
+                  "text": "A Surau Asrama Putera egy muszlim imaterem, amely a fiúkollégium épületében található.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91343,
+                        4.901309
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Puteri",
+                  "text": "A Surau Asrama Puteri békés iszlám imateret kínál a női kollégium lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.914368,
+                        4.901277
+                  ]
+            },
+            {
+                  "name": "Surau Pasar Pelbagai Barangan Gadong",
+                  "text": "Ez a Surau kényelmes imaterületet biztosít a nyüzsgő Gadong piac komplexumának vásárlói és eladói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91874,
+                        4.904689
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Persekutuan Pengakap",
+                  "text": "A Balai Ibadat Persekutuan Pengakap egy imaterem a muszlim cserkészek számára a Cserkészszövetség központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.90136,
+                        4.901162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Footbridge Across Canal",
+                  "text": "Această pasarelă pietonală se întinde peste canal, oferind pietonilor o trecere sigură și vederi asupra apei curgătoare.",
+                  "category": "natural",
+                  "coords": [
+                        114.927937,
+                        4.905119
+                  ]
+            },
+            {
+                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
+                  "text": "Moscheea Jame'Asr Hassanil Bolkiah este un lăcaș de cult islamic masiv, renumit pentru cupolele sale principale aurii distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        114.921875,
+                        4.897926
+                  ]
+            },
+            {
+                  "name": "Sumbangsih Mulia",
+                  "text": "Sumbangsih Mulia este un complex acoperit care găzduiește numeroase tarabe locale de mâncare și mici magazine de vânzare cu amănuntul.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909083,
+                        4.895197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Acest Surau local servește ca spațiu de rugăciune islamic desemnat, dotat cu facilități pentru abluțiune rituală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.928837,
+                        4.902144
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Putera",
+                  "text": "Surau Asrama Putera este o sală de rugăciune musulmană situată în incinta căminului pentru băieți.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91343,
+                        4.901309
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Puteri",
+                  "text": "Surau Asrama Puteri oferă un spațiu pașnic de rugăciune islamică pentru rezidentele căminului de fete.",
+                  "category": "landmark",
+                  "coords": [
+                        114.914368,
+                        4.901277
+                  ]
+            },
+            {
+                  "name": "Surau Pasar Pelbagai Barangan Gadong",
+                  "text": "Acest Surau oferă o zonă convenabilă de rugăciune pentru cumpărătorii și vânzătorii din complexul aglomerat al pieței Gadong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91874,
+                        4.904689
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Persekutuan Pengakap",
+                  "text": "Balai Ibadat Persekutuan Pengakap este o sală de rugăciune pentru cercetașii musulmani la sediul asociației de cercetași.",
+                  "category": "landmark",
+                  "coords": [
+                        114.90136,
+                        4.901162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Footbridge Across Canal",
+                  "text": "This pedestrian footbridge spans the canal, providing a safe crossing and views of the flowing water below.",
+                  "category": "natural",
+                  "coords": [
+                        114.927937,
+                        4.905119
+                  ]
+            },
+            {
+                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
+                  "text": "The Jame'Asr Hassanil Bolkiah Mosque is a massive Islamic place of worship famous for its striking golden main domes.",
+                  "category": "religious",
+                  "coords": [
+                        114.921875,
+                        4.897926
+                  ]
+            },
+            {
+                  "name": "Sumbangsih Mulia",
+                  "text": "Sumbangsih Mulia is an indoor complex housing numerous local food stalls and small retail businesses.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909083,
+                        4.895197
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This local Surau serves as a designated Islamic prayer space equipped with facilities for ritual ablution.",
+                  "category": "landmark",
+                  "coords": [
+                        114.928837,
+                        4.902144
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Putera",
+                  "text": "Surau Asrama Putera is a Muslim prayer room located within the premises of the male student hostel.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91343,
+                        4.901309
+                  ]
+            },
+            {
+                  "name": "Surau Asrama Puteri",
+                  "text": "Surau Asrama Puteri provides a peaceful Islamic worship space for the residents of the female dormitory.",
+                  "category": "landmark",
+                  "coords": [
+                        114.914368,
+                        4.901277
+                  ]
+            },
+            {
+                  "name": "Surau Pasar Pelbagai Barangan Gadong",
+                  "text": "This Surau provides a convenient prayer area for shoppers and vendors inside the busy Gadong market complex.",
+                  "category": "landmark",
+                  "coords": [
+                        114.91874,
+                        4.904689
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Persekutuan Pengakap",
+                  "text": "Balai Ibadat Persekutuan Pengakap is a prayer room for Muslim scouts located at the scout association headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        114.90136,
+                        4.901162
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BN-BM",
     coords: [114.9208, 4.8986],
@@ -135,7 +558,52 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "istana-nurul-iman-history-v2",
+    id: "istana-nurul-iman-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istana Nurul Iman",
+                  "text": "Die als größter Wohnpalast der Welt anerkannte offizielle Residenz des Sultans ist berühmt für ihre weitreichenden goldenen Kuppeln und gewölbten Dächer.",
+                  "category": "castle",
+                  "coords": [
+                        114.920749,
+                        4.871553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istana Nurul Iman",
+                  "text": "A világ legnagyobb lakópalotájaként számon tartott épület, a szultán hivatalos rezidenciája hatalmas aranykupoláiról és boltíves tetőiről híres.",
+                  "category": "castle",
+                  "coords": [
+                        114.920749,
+                        4.871553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istana Nurul Iman",
+                  "text": "Recunoscut drept cel mai mare palat rezidențial din lume, casa oficială a Sultanului este renumită pentru cupolele sale de aur și acoperișurile boltite.",
+                  "category": "castle",
+                  "coords": [
+                        114.920749,
+                        4.871553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nurul Iman Palace",
+                  "text": "Recognised as the world's largest residential palace, the official home of the Sultan is renowned for its sweeping golden domes and vaulted roofs.",
+                  "category": "castle",
+                  "coords": [
+                        114.920749,
+                        4.871553
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BN-BM",
     coords: [114.9125, 4.8722],
@@ -179,7 +647,88 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "billionth-barrel-monument-history-v2",
+    id: "billionth-barrel-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Billionth Barrel Monument",
+                  "text": "Diese 1991 errichtete, bogenförmige Attraktion an der Küste erinnert an die Förderung des milliardsten Fasses Rohöl im Seria-Ölfeld.",
+                  "category": "landmark",
+                  "coords": [
+                        114.317161,
+                        4.616748
+                  ]
+            },
+            {
+                  "name": "OGDC",
+                  "text": "Diese Bildungsattraktion in Seria bietet interaktive Ausstellungen, die die Wissenschaft und Geschichte der lokalen Erdölindustrie detailliert beschreiben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327164,
+                        4.61719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Billionth Barrel Monument",
+                  "text": "Az 1991-ben épült, tengerparti íves látványosság a Seria olajmezőn kitermelt egymilliárdodik hordó kőolajnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        114.317161,
+                        4.616748
+                  ]
+            },
+            {
+                  "name": "OGDC",
+                  "text": "Ez a seriai oktatási látványosság interaktív kiállításokon keresztül mutatja be a helyi kőolajipar tudományát és történetét.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327164,
+                        4.61719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Billionth Barrel Monument",
+                  "text": "Construită în 1991, această atracție boltită de pe litoral comemorează producția celui de-al miliardulea baril de țiței din câmpul petrolier Seria.",
+                  "category": "landmark",
+                  "coords": [
+                        114.317161,
+                        4.616748
+                  ]
+            },
+            {
+                  "name": "OGDC",
+                  "text": "Această atracție educațională din Seria prezintă exponate interactive care detaliază știința și istoria industriei petroliere locale.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327164,
+                        4.61719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Billionth Barrel Monument",
+                  "text": "Constructed in 1991, this arched seaside attraction commemorates the production of the billionth barrel of crude oil in the Seria oil field.",
+                  "category": "landmark",
+                  "coords": [
+                        114.317161,
+                        4.616748
+                  ]
+            },
+            {
+                  "name": "Oil and Gas Discovery Centre",
+                  "text": "This educational attraction in Seria features interactive exhibits detailing the science and history of the local petroleum industry.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327164,
+                        4.61719
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BN-BE",
     coords: [114.3164, 4.6133],
@@ -223,7 +772,124 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "royal-regalia-museum-history-v2",
+    id: "royal-regalia-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzium Alat Kebesaran Diraja",
+                  "text": "Dieses markante Museum beherbergt die opulenten Insignien des Sultans, darunter seinen prächtigen königlichen Streitwagen und goldene Zeremonialwaffen.",
+                  "category": "museum",
+                  "coords": [
+                        114.94123,
+                        4.892736
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Assumption",
+                  "text": "Diese Pfarrkirche, die der lokalen katholischen Gemeinde dient, zeichnet sich durch eine elegante weiße Fassade und ein markantes Kreuz im Stadtzentrum aus.",
+                  "category": "religious",
+                  "coords": [
+                        114.938643,
+                        4.895075
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Diese anglikanische Kirche bietet mit ihren traditionellen architektonischen Elementen einen ruhigen spirituellen Rückzugsort inmitten der Stadtlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        114.939859,
+                        4.895474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzium Alat Kebesaran Diraja",
+                  "text": "Ez a kiemelkedő múzeum ad otthont a szultán fényűző jelvényeinek, köztük a csodálatos királyi hintónak és az aranyozott ceremoniális fegyvereknek.",
+                  "category": "museum",
+                  "coords": [
+                        114.94123,
+                        4.892736
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Assumption",
+                  "text": "A helyi katolikus közösséget szolgáló plébániatemplom elegáns fehér homlokzattal és egy kiemelkedő kereszttel büszkélkedhet a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        114.938643,
+                        4.895075
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Ez az anglikán templom hagyományos építészeti elemeivel csendes spirituális menedéket nyújt a városi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.939859,
+                        4.895474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzium Alat Kebesaran Diraja",
+                  "text": "Acest muzeu proeminent găzduiește opulentele însemne ale Sultanului, inclusiv trăsura sa regală magnifică și armurile de aur ceremoniale.",
+                  "category": "museum",
+                  "coords": [
+                        114.94123,
+                        4.892736
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Assumption",
+                  "text": "Deservind comunitatea catolică locală, această biserică parohială se remarcă prin fațada sa albă elegantă și o cruce vizibilă în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        114.938643,
+                        4.895075
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Această biserică anglicană oferă un refugiu spiritual liniștit, cu elementele sale arhitecturale tradiționale cuibărite în peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.939859,
+                        4.895474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Regalia Museum",
+                  "text": "This prominent museum houses the opulent regalia of the Sultan, including his magnificent royal chariot and ceremonial golden armory.",
+                  "category": "museum",
+                  "coords": [
+                        114.94123,
+                        4.892736
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Assumption",
+                  "text": "Serving the local Catholic community, this parish church features an elegant white facade and a prominent cross in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        114.938643,
+                        4.895075
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "This Anglican church provides a quiet spiritual retreat with its traditional architectural elements nestled amid the urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        114.939859,
+                        4.895474
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9406, 4.8942],
@@ -267,7 +933,88 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "bubungan-duabelas-history-v2",
+    id: "bubungan-duabelas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bumbungan Dua Belas",
+                  "text": "Das Haus mit den zwölf Dächern (Bubungan Duabelas) besticht durch seine britische Kolonialarchitektur aus Holz.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951637,
+                        4.877452
+                  ]
+            },
+            {
+                  "name": "Masjid Perdana Wangsa Haji Mohammad",
+                  "text": "Die islamische Perdana Wangsa Haji Mohammad Moschee prägt mit ihrer Architektur das Viertel um Bubungan Duabelas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.945029,
+                        4.873095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bumbungan Dua Belas",
+                  "text": "A tizenkét tetős ház (Bubungan Duabelas) jellegzetes, brit gyarmati faépítészetével vonzza a tekintetet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951637,
+                        4.877452
+                  ]
+            },
+            {
+                  "name": "Masjid Perdana Wangsa Haji Mohammad",
+                  "text": "A muszlim Perdana Wangsa Haji Mohammad mecset építészetével meghatározza a Bubungan Duabelas környékét.",
+                  "category": "landmark",
+                  "coords": [
+                        114.945029,
+                        4.873095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bumbungan Dua Belas",
+                  "text": "Casa cu douăsprezece acoperișuri (Bubungan Duabelas) se remarcă prin arhitectura sa colonială britanică din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951637,
+                        4.877452
+                  ]
+            },
+            {
+                  "name": "Masjid Perdana Wangsa Haji Mohammad",
+                  "text": "Moscheea islamică Perdana Wangsa Haji Mohammad își pune amprenta arhitecturală asupra zonei Bubungan Duabelas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.945029,
+                        4.873095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Twelve roof house",
+                  "text": "The Twelve Roof House (Bubungan Duabelas) features distinctive British colonial wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951637,
+                        4.877452
+                  ]
+            },
+            {
+                  "name": "Perdana Wangsa Haji Mohammad Mosque",
+                  "text": "The Islamic Perdana Wangsa Haji Mohammad Mosque architecturally shapes the neighborhood around Bubungan Duabelas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.945029,
+                        4.873095
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9467, 4.8764],
@@ -399,7 +1146,52 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "tomb-of-sultan-bolkiah-history-v2",
+    id: "tomb-of-sultan-bolkiah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Pelambayan",
+                  "text": "Die Kampong Pelambayan Moschee befindet sich in einem historisch bedeutsamen Gebiet nahe dem Grab von Sultan Bolkiah.",
+                  "category": "landmark",
+                  "coords": [
+                        114.973128,
+                        4.886055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Pelambayan",
+                  "text": "A Kampong Pelambayan mecset egy történelmileg jelentős területen, Bolkiah szultán sírja közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        114.973128,
+                        4.886055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Pelambayan",
+                  "text": "Moscheea Kampong Pelambayan este situată într-o zonă de importanță istorică, în apropierea mormântului sultanului Bolkiah.",
+                  "category": "landmark",
+                  "coords": [
+                        114.973128,
+                        4.886055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampong Pelambayan Mosque",
+                  "text": "Kampong Pelambayan Mosque is situated in a historically significant area near the Tomb of Sultan Bolkiah.",
+                  "category": "landmark",
+                  "coords": [
+                        114.973128,
+                        4.886055
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9722, 4.8853],
@@ -443,7 +1235,52 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "tomb-of-sharif-ali-history-v2",
+    id: "tomb-of-sharif-ali-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzium Teknologi Melayu",
+                  "text": "Das Malaiische Technologie-Museum dokumentiert detailliert die traditionellen Handwerkstechniken der Wasserdörfer Bruneis.",
+                  "category": "museum",
+                  "coords": [
+                        114.969801,
+                        4.88325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzium Teknologi Melayu",
+                  "text": "A Maláj Műszaki Múzeum részletesen dokumentálja Brunei vízi falvainak hagyományos kézműves technikáit.",
+                  "category": "museum",
+                  "coords": [
+                        114.969801,
+                        4.88325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzium Teknologi Melayu",
+                  "text": "Muzeul Tehnologiei Malaieze documentează în detaliu tehnicile tradiționale de artizanat ale satelor pe apă din Brunei.",
+                  "category": "museum",
+                  "coords": [
+                        114.969801,
+                        4.88325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malay Technology Museum",
+                  "text": "The Malay Technology Museum details the traditional handicraft techniques of Brunei's water villages.",
+                  "category": "museum",
+                  "coords": [
+                        114.969801,
+                        4.88325
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9719, 4.8847],
@@ -531,7 +1368,124 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "tengyun-temple-history-v2",
+    id: "tengyun-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brunei Clock Tower",
+                  "text": "Der markante Brunei Clock Tower steht als freistehendes historisches Uhrenmonument im Zentrum der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.942457,
+                        4.890334
+                  ]
+            },
+            {
+                  "name": "Teng Yun Temple",
+                  "text": "Der 1918 gegründete Teng-Yun-Tempel ist ein buddhistisches Heiligtum mit traditionell verzierten Säulen und geschwungenem Dach.",
+                  "category": "landmark",
+                  "coords": [
+                        114.943735,
+                        4.890052
+                  ]
+            },
+            {
+                  "name": "Tamu Kianggeh",
+                  "text": "Der Kianggeh-Markt ist ein Freiluftmarkt am Ufer, dessen Stände von traditionellem Handwerk bis hin zu lokalen Lebensmitteln reichen.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944938,
+                        4.890404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brunei Clock Tower",
+                  "text": "A feltűnő Brunei óratorony egy szabadon álló történelmi óraműemlékként áll a város központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.942457,
+                        4.890334
+                  ]
+            },
+            {
+                  "name": "Teng Yun Temple",
+                  "text": "Az 1918-ban alapított Teng Yun templom egy buddhista szentély, hagyományosan díszített oszlopokkal és ívelt tetővel.",
+                  "category": "landmark",
+                  "coords": [
+                        114.943735,
+                        4.890052
+                  ]
+            },
+            {
+                  "name": "Tamu Kianggeh",
+                  "text": "A Kianggeh piac egy folyóparti szabadtéri piac, amelynek standjai a hagyományos kézműves termékektől a helyi élelmiszerekig terjednek.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944938,
+                        4.890404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brunei Clock Tower",
+                  "text": "Distinctul turn cu ceas din Brunei stă ca un monument istoric de sine stătător în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.942457,
+                        4.890334
+                  ]
+            },
+            {
+                  "name": "Teng Yun Temple",
+                  "text": "Fondat în 1918, Templul Teng Yun este un sanctuar budist cu stâlpi ornați tradițional și un acoperiș curbat.",
+                  "category": "landmark",
+                  "coords": [
+                        114.943735,
+                        4.890052
+                  ]
+            },
+            {
+                  "name": "Tamu Kianggeh",
+                  "text": "Piața Kianggeh este o piață în aer liber pe malul apei, ale cărei tarabe variază de la meșteșuguri tradiționale la produse alimentare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944938,
+                        4.890404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brunei Clock Tower",
+                  "text": "The prominent Brunei Clock Tower stands as a freestanding historical timekeeping monument in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        114.942457,
+                        4.890334
+                  ]
+            },
+            {
+                  "name": "Teng Yun Temple",
+                  "text": "Founded in 1918, the Teng Yun Temple is a Buddhist sanctuary featuring traditionally ornate pillars and a sweeping roof.",
+                  "category": "landmark",
+                  "coords": [
+                        114.943735,
+                        4.890052
+                  ]
+            },
+            {
+                  "name": "Kianggeh Market",
+                  "text": "Kianggeh Market is a riverside open-air marketplace whose stalls range from traditional crafts to local food items.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944938,
+                        4.890404
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9425, 4.8906],
@@ -563,7 +1517,52 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "malay-technology-museum-history-v2",
+    id: "malay-technology-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Belimbing",
+                  "text": "Die Masjid Kampong Belimbing ist ein islamisches Heiligtum in der Nachbarschaft des Malay Technology Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        114.979608,
+                        4.905334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Belimbing",
+                  "text": "A Masjid Kampong Belimbing egy iszlám szentély a Maláj Technológiai Múzeum szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.979608,
+                        4.905334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Belimbing",
+                  "text": "Masjid Kampong Belimbing este un sanctuar islamic situat în vecinătatea Muzeului Tehnologiei Malay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.979608,
+                        4.905334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Belimbing",
+                  "text": "Masjid Kampong Belimbing is an Islamic sanctuary located in the neighborhood of the Malay Technology Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        114.979608,
+                        4.905334
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BN-BM",
     coords: [114.9753, 4.8858],
@@ -695,7 +1694,88 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "clock-tower-bsb-history-v2",
+    id: "clock-tower-bsb-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galeri Seni",
+                  "text": "Die Kunstgalerie unweit des Uhrturms von Bandar Seri Begawan stellt regionale und zeitgenössische Werke aus.",
+                  "category": "museum",
+                  "coords": [
+                        114.942974,
+                        4.886865
+                  ]
+            },
+            {
+                  "name": "Panggung Hassanal Bolkiah",
+                  "text": "Das Hassanal Bolkiah Theater in Bandar Seri Begawan dient als zentrale Bühne für kulturelle Aufführungen in der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944214,
+                        4.887752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galeri Seni",
+                  "text": "A Bandar Seri Begawan óratornya közelében található művészeti galéria regionális és kortárs alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        114.942974,
+                        4.886865
+                  ]
+            },
+            {
+                  "name": "Panggung Hassanal Bolkiah",
+                  "text": "A Bandar Seri Begawan-i Hassanal Bolkiah Színház a főváros kulturális előadásainak központi színpadaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944214,
+                        4.887752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galeri Seni",
+                  "text": "Galeria de artă aflată nu departe de Turnul cu Ceas din Bandar Seri Begawan expune lucrări regionale și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        114.942974,
+                        4.886865
+                  ]
+            },
+            {
+                  "name": "Panggung Hassanal Bolkiah",
+                  "text": "Teatrul Hassanal Bolkiah din Bandar Seri Begawan servește ca scenă centrală pentru spectacole culturale în capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944214,
+                        4.887752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Gallery",
+                  "text": "The art gallery not far from the Clock Tower in Bandar Seri Begawan exhibits regional and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        114.942974,
+                        4.886865
+                  ]
+            },
+            {
+                  "name": "Hassanal Bolkiah Theatre",
+                  "text": "The Hassanal Bolkiah Theatre in Bandar Seri Begawan serves as a central stage for cultural performances in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        114.944214,
+                        4.887752
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BN-BM",
     coords: [114.9431, 4.8872],
@@ -783,7 +1863,124 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "muara-beach-landing-site-history-v2",
+    id: "muara-beach-landing-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pantai Muara",
+                  "text": "Der Muara Beach bietet einen weiten Sandstrand, der sich perfekt für einen entspannten Spaziergang entlang des Südchinesischen Meeres eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        115.079555,
+                        5.037942
+                  ]
+            },
+            {
+                  "name": "Tanjung Batu Beach",
+                  "text": "Der Strand Tanjung Batu zeichnet sich durch eine malerische Küstenlinie aus, an der die sandigen Uferabschnitte auf markante felsige Küstenschutzanlagen treffen.",
+                  "category": "recreational",
+                  "coords": [
+                        115.061834,
+                        5.038881
+                  ]
+            },
+            {
+                  "name": "Muara Lighthouse",
+                  "text": "Der Leuchtturm von Muara dient als hohes maritimes Navigationszeichen, das den Schiffsverkehr sicher in den nahegelegenen Hafen leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.091957,
+                        5.038097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantai Muara",
+                  "text": "A Muara strand széles, parti homoksávja kiválóan alkalmas egy pihentető sétára a Dél-kínai-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        115.079555,
+                        5.037942
+                  ]
+            },
+            {
+                  "name": "Tanjung Batu Beach",
+                  "text": "A Tanjung Batu strand festői tengerparttal rendelkezik, ahol a homokos partszakaszok a sziklás hullámtörőkkel találkoznak.",
+                  "category": "recreational",
+                  "coords": [
+                        115.061834,
+                        5.038881
+                  ]
+            },
+            {
+                  "name": "Muara Lighthouse",
+                  "text": "A muarai világítótorony magas tengeri navigációs támpontként biztonságosan vezeti a hajóforgalmat a közeli kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        115.091957,
+                        5.038097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pantai Muara",
+                  "text": "Plaja Muara oferă o fâșie întinsă de nisip, perfectă pentru o plimbare relaxantă de-a lungul Mării Chinei de Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        115.079555,
+                        5.037942
+                  ]
+            },
+            {
+                  "name": "Tanjung Batu Beach",
+                  "text": "Plaja Tanjung Batu prezintă o coastă pitorească, unde țărmurile nisipoase întâlnesc apărări stâncoase proeminente ale mării.",
+                  "category": "recreational",
+                  "coords": [
+                        115.061834,
+                        5.038881
+                  ]
+            },
+            {
+                  "name": "Muara Lighthouse",
+                  "text": "Farul Muara servește drept un reper de navigație maritimă înalt, ghidând traficul naval în siguranță către portul din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        115.091957,
+                        5.038097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muara Beach",
+                  "text": "Muara Beach offers a broad stretch of coastal sand perfect for a relaxing stroll along the South China Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        115.079555,
+                        5.037942
+                  ]
+            },
+            {
+                  "name": "Tanjung Batu Beach",
+                  "text": "Tanjung Batu Beach features a scenic coastline where sandy shores meet prominent rocky sea defenses.",
+                  "category": "recreational",
+                  "coords": [
+                        115.061834,
+                        5.038881
+                  ]
+            },
+            {
+                  "name": "Muara Lighthouse",
+                  "text": "The Muara Lighthouse serves as a tall maritime navigational beacon guiding ship traffic safely into the nearby harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        115.091957,
+                        5.038097
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "BN-BM",
     coords: [115.0667, 5.0333],
@@ -827,7 +2024,52 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     },
   },
   {
-    id: "australian-veterans-monument-history-v2",
+    id: "australian-veterans-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Setia Ali",
+                  "text": "Die Setia Ali Moschee ist ein zentrales muslimisches Gotteshaus in der Nähe des historischen australischen Veteranendenkmals.",
+                  "category": "landmark",
+                  "coords": [
+                        115.061299,
+                        5.0291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Setia Ali",
+                  "text": "A Setia Ali mecset egy központi muszlim imaház az ausztrál veteránok történelmi emlékművének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.061299,
+                        5.0291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Setia Ali",
+                  "text": "Moscheea Setia Ali este un lăcaș de cult musulman central, situat în apropierea monumentului istoric al veteranilor australieni.",
+                  "category": "landmark",
+                  "coords": [
+                        115.061299,
+                        5.0291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Setia Ali Mosque",
+                  "text": "Setia Ali Mosque is a central Muslim place of worship situated near the historic Australian Veterans Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        115.061299,
+                        5.0291
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BN-BM",
     coords: [115.0639, 5.0250],

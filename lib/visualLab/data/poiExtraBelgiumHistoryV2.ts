@@ -145,7 +145,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
       "de": [
             {
                   "name": "Château des Sources",
-                  "text": "Ein Schloss in der Nähe der Abtei Villers.",
+                  "text": "Schloss aus dem 18. Jahrhundert auf einer Quelle erbaut, heute Hotel nahe der Abtei Villers.",
                   "category": "castle",
                   "coords": [
                         4.502676,
@@ -154,7 +154,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Thy",
-                  "text": "Ein historisches Schloss bei der Abtei Villers.",
+                  "text": "Ein 1769 erbautes Schloss in Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.484364,
@@ -163,7 +163,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Cocriamont",
-                  "text": "Ein Schlossgebäude im Gebiet der Abtei Villers.",
+                  "text": "Ein um 1830 erbautes Schloss in Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.504304,
@@ -172,7 +172,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Le Nouveau Châtelet",
-                  "text": "Eine Schlossanlage in der Nähe der Abtei Villers.",
+                  "text": "Ein 1884 erbautes Schloss in Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.513436,
@@ -190,7 +190,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château Pinchart",
-                  "text": "Ein lokales Schloss in der Nähe der Abtei Villers.",
+                  "text": "Ein 1848 erbautes Schloss in Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.564737,
@@ -219,7 +219,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
       "hu": [
             {
                   "name": "Château des Sources",
-                  "text": "Kastély a Villers-apátság környékén.",
+                  "text": "18. századi kastély egy forrásra építve, ma szálloda a Villers-i apátság mellett.",
                   "category": "castle",
                   "coords": [
                         4.502676,
@@ -228,7 +228,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Thy",
-                  "text": "Történelmi kastély a Villers-apátság közelében.",
+                  "text": "1769-ben épült kastély a Villers-apátságnál.",
                   "category": "castle",
                   "coords": [
                         4.484364,
@@ -237,7 +237,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Cocriamont",
-                  "text": "Kastélyépület a Villers-apátság területén.",
+                  "text": "1830 körül épült kastély a Villers-apátságnál.",
                   "category": "castle",
                   "coords": [
                         4.504304,
@@ -246,7 +246,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Le Nouveau Châtelet",
-                  "text": "Kastélyépítmény a Villers-apátság közelében.",
+                  "text": "1884-ben épült kastély a Villers-apátságnál.",
                   "category": "castle",
                   "coords": [
                         4.513436,
@@ -264,7 +264,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château Pinchart",
-                  "text": "Helyi kastély a Villers-apátság közelében.",
+                  "text": "1848-ban épült kastély a Villers-apátságnál.",
                   "category": "castle",
                   "coords": [
                         4.564737,
@@ -293,7 +293,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
       "ro": [
             {
                   "name": "Château des Sources",
-                  "text": "Un castel situat în vecinătatea abației Villers.",
+                  "text": "Un castel din secolul al XVIII-lea construit pe un izvor, acum hotel lângă abația Villers.",
                   "category": "castle",
                   "coords": [
                         4.502676,
@@ -302,7 +302,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Thy",
-                  "text": "Un castel istoric situat lângă abația Villers.",
+                  "text": "Un castel construit în 1769 la abația Villers.",
                   "category": "castle",
                   "coords": [
                         4.484364,
@@ -311,7 +311,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Cocriamont",
-                  "text": "O clădire de castel situată în zona abației Villers.",
+                  "text": "Un castel construit în jurul anului 1830 la abația Villers.",
                   "category": "castle",
                   "coords": [
                         4.504304,
@@ -320,7 +320,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Le Nouveau Châtelet",
-                  "text": "O structură de castel lângă abația Villers.",
+                  "text": "Un castel construit în 1884 la abația Villers.",
                   "category": "castle",
                   "coords": [
                         4.513436,
@@ -338,7 +338,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château Pinchart",
-                  "text": "Un castel local situat lângă abația Villers.",
+                  "text": "Un castel construit în 1848 la abația Villers.",
                   "category": "castle",
                   "coords": [
                         4.564737,
@@ -367,7 +367,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
       "en": [
             {
                   "name": "Château des Sources",
-                  "text": "A castle located in the vicinity of Villers Abbey.",
+                  "text": "An 18th-century castle built on a spring, now a hotel near Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.502676,
@@ -376,7 +376,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Thy",
-                  "text": "A historic castle situated near Villers Abbey.",
+                  "text": "A 1769-built castle at Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.484364,
@@ -385,7 +385,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château de Cocriamont",
-                  "text": "A castle building located in the Villers Abbey area.",
+                  "text": "An 1830s castle at Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.504304,
@@ -394,7 +394,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Le Nouveau Châtelet",
-                  "text": "A castle structure near Villers Abbey.",
+                  "text": "A 1884-built castle at Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.513436,
@@ -412,7 +412,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
             },
             {
                   "name": "Château Pinchart",
-                  "text": "A local castle located near Villers Abbey.",
+                  "text": "A 1848-built castle at Villers Abbey.",
                   "category": "castle",
                   "coords": [
                         4.564737,
@@ -2329,7 +2329,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Villa gallo-romaine de Malagne",
-                  "text": "Überreste einer römischen Landvilla in der Nähe von Jemelle.",
+                  "text": "Römische Villa Rustica – Überreste eines Gutshofs aus dem 2. Jahrhundert in Jemelle bei Lavaux-Sainte-Anne.",
                   "category": "historical",
                   "coords": [
                         5.240512,
@@ -2347,7 +2347,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
-                  "text": "Ein geschütztes Naturgebiet entlang des Flusses Lesse.",
+                  "text": "Natura-2000-Schutzgebiet des Lesse-Beckens zwischen Villers-sur-Lesse und Chanly mit reicher Wasserflora und -fauna.",
                   "category": "natural",
                   "coords": [
                         5.258545,
@@ -2356,7 +2356,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Beauregard",
-                  "text": "Ein herrschaftliches Schloss in der Nähe von Rochefort.",
+                  "text": "Wehrburg mit Rundturm und Wassergraben, die die bewaldeten Hügel der Ardennen überblickt.",
                   "category": "castle",
                   "coords": [
                         5.232894,
@@ -2365,7 +2365,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Cigognes",
-                  "text": "Eine Sehenswürdigkeit, die für die Beobachtung von Störchen bekannt ist.",
+                  "text": "Weißstorch-Nistplatz auf einem Schornstein in der Nähe des Schlosses von Lavaux.",
                   "category": "landmark",
                   "coords": [
                         5.209167,
@@ -2403,7 +2403,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Villa gallo-romaine de Malagne",
-                  "text": "Egy római vidéki villa maradványai Jemelle közelében.",
+                  "text": "Római villa rustica – egy 2. századi gazdaság maradványai Jemelle-ben, Lavaux-Sainte-Anne mellett.",
                   "category": "historical",
                   "coords": [
                         5.240512,
@@ -2421,7 +2421,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
-                  "text": "Védett természeti terület a Lesse-folyó mentén.",
+                  "text": "A Lesse-medence Natura 2000 védett területe Villers-sur-Lesse és Chanly között, gazdag vízinövény- és állatvilággal.",
                   "category": "natural",
                   "coords": [
                         5.258545,
@@ -2430,7 +2430,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Beauregard",
-                  "text": "Elegáns kastély Rochefort közelében.",
+                  "text": "Erődített kastély kerek toronnyal és várárokkal, az Ardennek erdős dombjaira tekintve.",
                   "category": "castle",
                   "coords": [
                         5.232894,
@@ -2439,7 +2439,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Cigognes",
-                  "text": "Gólyák megfigyeléséről ismert látnivaló.",
+                  "text": "Fehér gólya fészkelőhely egy kéményen, a Lavaux-i kastély közelében.",
                   "category": "landmark",
                   "coords": [
                         5.209167,
@@ -2477,7 +2477,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Villa gallo-romaine de Malagne",
-                  "text": "Vestigiile unei vile rustice romane în apropiere de Jemelle.",
+                  "text": "O vilă rustică romană – rămășițele unei ferme din secolul al II-lea în Jemelle, lângă castelul Lavaux-Sainte-Anne.",
                   "category": "historical",
                   "coords": [
                         5.240512,
@@ -2495,7 +2495,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
-                  "text": "O zonă naturală protejată de-a lungul râului Lesse.",
+                  "text": "Situl Natura 2000 al bazinului Lesse între Villers-sur-Lesse și Chanly, cu floră și faună acvatică diversă.",
                   "category": "natural",
                   "coords": [
                         5.258545,
@@ -2504,7 +2504,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Beauregard",
-                  "text": "Un castel impunător situat în apropiere de Rochefort.",
+                  "text": "Un castel fortificat cu turn rotund și șanț de apărare, cu vedere spre dealurile împădurite ale Ardenilor.",
                   "category": "castle",
                   "coords": [
                         5.232894,
@@ -2513,7 +2513,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Cigognes",
-                  "text": "O atracție cunoscută pentru observarea berzelor.",
+                  "text": "Un loc de cuibărit pentru berze albe pe un coș de fum lângă castelul Lavaux-Sainte-Anne.",
                   "category": "landmark",
                   "coords": [
                         5.209167,
@@ -2551,7 +2551,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Jemelle villa rustica",
-                  "text": "Remains of a Roman rural villa located near Jemelle.",
+                  "text": "Roman villa rustica ruins from the 2nd century in Jemelle, near the castle of Lavaux-Sainte-Anne.",
                   "category": "historical",
                   "coords": [
                         5.240512,
@@ -2569,7 +2569,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
-                  "text": "A protected natural area along the Lesse River.",
+                  "text": "The Natura 2000 site of the Lesse basin between Villers-sur-Lesse and Chanly, with diverse aquatic flora and fauna.",
                   "category": "natural",
                   "coords": [
                         5.258545,
@@ -2578,7 +2578,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Beauregard",
-                  "text": "A stately castle located in the vicinity of Rochefort.",
+                  "text": "A fortified castle with a round tower and moat, overlooking the wooded hills of the Ardennes.",
                   "category": "castle",
                   "coords": [
                         5.232894,
@@ -2587,7 +2587,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Cigognes",
-                  "text": "An attraction known for the observation of storks.",
+                  "text": "A white stork nesting site on a chimney near the castle of Lavaux-Sainte-Anne.",
                   "category": "landmark",
                   "coords": [
                         5.209167,
@@ -2995,7 +2995,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Kasteel Magis",
-                  "text": "Ein historisches Schloss in der Gemeinde Aubel in Belgien.",
+                  "text": "Erbaut im 19. Jahrhundert in der Abtei von Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.841762,
@@ -3004,7 +3004,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Blanc",
-                  "text": "Ein Schloss in Blegny, bekannt für seine helle Fassade.",
+                  "text": "Erbaut 1764 in der Abtei von Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.768814,
@@ -3013,7 +3013,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Wodémont",
-                  "text": "Eine Schlossanlage in Dalhem mit historischem Charakter.",
+                  "text": "Erbaut 1063 in der Abtei von Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.768042,
@@ -3022,7 +3022,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Fort Aubin Neufchâteau",
-                  "text": "Ein ehemaliges Verteidigungsfort der Festung Lüttich.",
+                  "text": "Fort Aubin-Neufchâteau, eine Festung des 19. Jahrhunderts im Festungsgürtel von Lüttich, heute Museum.",
                   "category": "fortress",
                   "coords": [
                         5.788825,
@@ -3049,7 +3049,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Haméval",
-                  "text": "Ein befestigter historischer Schlosshof in der Region.",
+                  "text": "Ein Schlossgut aus dem 17. Jahrhundert an der Abtei Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.809517,
@@ -3069,7 +3069,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Kasteel Magis",
-                  "text": "Történelmi kastély a belgiumi Aubel községben.",
+                  "text": "A 19. században épült a Val Dieu apátságban.",
                   "category": "castle",
                   "coords": [
                         5.841762,
@@ -3078,7 +3078,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Blanc",
-                  "text": "Kastély Blegny-ben, amely világos homlokzatáról ismert.",
+                  "text": "1764-ben épült a Val Dieu apátságban.",
                   "category": "castle",
                   "coords": [
                         5.768814,
@@ -3087,7 +3087,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Wodémont",
-                  "text": "Történelmi jellegű kastélyegyüttes Dalhemben.",
+                  "text": "1063-ban épült a Val Dieu apátságban.",
                   "category": "castle",
                   "coords": [
                         5.768042,
@@ -3096,7 +3096,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Fort Aubin Neufchâteau",
-                  "text": "A liège-i erődrendszer egykori védelmi erődje.",
+                  "text": "Aubin-Neufchâteau erőd, egy 19. századi erődítmény a liège-i erődövben, ma múzeum.",
                   "category": "fortress",
                   "coords": [
                         5.788825,
@@ -3123,7 +3123,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Haméval",
-                  "text": "Erődített történelmi kastély-tanya a régióban.",
+                  "text": "17. századi várgazdaság a Val Dieu-apátságnál.",
                   "category": "castle",
                   "coords": [
                         5.809517,
@@ -3143,7 +3143,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Kasteel Magis",
-                  "text": "Un castel istoric situat în comuna Aubel din Belgia.",
+                  "text": "Construit în secolul al XIX-lea la Abația Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.841762,
@@ -3152,7 +3152,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Blanc",
-                  "text": "Un castel în Blegny, cunoscut pentru fațada sa luminoasă.",
+                  "text": "Construit în 1764 la Abația Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.768814,
@@ -3161,7 +3161,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Wodémont",
-                  "text": "Un complex de castel în Dalhem cu caracter istoric.",
+                  "text": "Construit în 1063 la Abația Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.768042,
@@ -3170,7 +3170,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Fort Aubin Neufchâteau",
-                  "text": "O fostă fortificație de apărare din cadrul complexului fortificat Liège.",
+                  "text": "Fortul Aubin-Neufchâteau, o fortăreață din secolul al XIX-lea din centura de fortificații a Liège-ului, acum muzeu.",
                   "category": "fortress",
                   "coords": [
                         5.788825,
@@ -3197,7 +3197,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Haméval",
-                  "text": "O fermă-castel istorică fortificată din regiune.",
+                  "text": "Un conac-castel din secolul al XVII-lea la abația Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.809517,
@@ -3217,7 +3217,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Kasteel Magis",
-                  "text": "A historic castle located in the municipality of Aubel in Belgium.",
+                  "text": "Built in the 19th century at the Abbey of Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.841762,
@@ -3226,7 +3226,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Blanc",
-                  "text": "A castle in Blegny, known for its bright facade.",
+                  "text": "Built in 1764 at the Abbey of Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.768814,
@@ -3235,7 +3235,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Wodémont",
-                  "text": "A castle complex in Dalhem with historical character.",
+                  "text": "Built in 1063 at the Abbey of Val Dieu.",
                   "category": "castle",
                   "coords": [
                         5.768042,
@@ -3244,7 +3244,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Fort Aubin Neufchâteau",
-                  "text": "A former defense fort of the Liège fortified position.",
+                  "text": "Fort Aubin-Neufchâteau, a 19th-century fortress in the Liège fortification belt, now a museum.",
                   "category": "fortress",
                   "coords": [
                         5.788825,
@@ -3271,7 +3271,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Haméval",
-                  "text": "A fortified historic castle-farm located in the region.",
+                  "text": "A 17th-century castle-farm at Val Dieu Abbey.",
                   "category": "castle",
                   "coords": [
                         5.809517,
@@ -4174,7 +4174,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Fumal",
-                  "text": "Ein Schloss in der Gemeinde Braives, gelegen im Tal der Mehaigne.",
+                  "text": "Erbaut 1622 in der Abtei von Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.185388,
@@ -4192,7 +4192,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Heptia",
-                  "text": "Ein herrschaftliches Schlossbauwerk in der Provinz Lüttich.",
+                  "text": "Schloss Heptia aus dem 17. Jahrhundert mit französischem Garten neben der Abtei Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.113621,
@@ -4228,7 +4228,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Pitet",
-                  "text": "Ein befestigter Gutshof mit Schlosscharakter in Pitet.",
+                  "text": "Ein Schlossgut aus dem 17. Jahrhundert an der Abtei Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.183311,
@@ -4248,7 +4248,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Fumal",
-                  "text": "Kastély Braives községben, a Mehaigne völgyében.",
+                  "text": "1622-ben épült a Grandpré apátságban.",
                   "category": "castle",
                   "coords": [
                         5.185388,
@@ -4266,7 +4266,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Heptia",
-                  "text": "Uradalmi kastélyépület Liège tartományban.",
+                  "text": "A 17. századi Heptia kastély francia kerttel, a Grandpré-i apátság mellett.",
                   "category": "castle",
                   "coords": [
                         5.113621,
@@ -4302,7 +4302,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Pitet",
-                  "text": "Erődített udvarház kastély jelleggel Pitetben.",
+                  "text": "17. századi várgazdaság a Grandpré-apátságnál.",
                   "category": "castle",
                   "coords": [
                         5.183311,
@@ -4322,7 +4322,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Fumal",
-                  "text": "Un castel în comuna Braives, situat în valea Mehaigne.",
+                  "text": "Construit în 1622 la Abația Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.185388,
@@ -4340,7 +4340,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Heptia",
-                  "text": "O clădire de castel nobiliară în provincia Liège.",
+                  "text": "Castelul Heptia din secolul al XVII-lea, cu grădină în stil francez, lângă abația Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.113621,
@@ -4376,7 +4376,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Pitet",
-                  "text": "O fermă fortificată cu caracter de castel în Pitet.",
+                  "text": "Un conac-castel din secolul al XVII-lea la abația Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.183311,
@@ -4396,7 +4396,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de Fumal",
-                  "text": "A castle in the commune of Braives, situated in the Mehaigne valley.",
+                  "text": "Built in 1622 at the Abbey of Grandpré.",
                   "category": "castle",
                   "coords": [
                         5.185388,
@@ -4414,7 +4414,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château Heptia",
-                  "text": "A stately castle building in the province of Liège.",
+                  "text": "Château Heptia, a 17th-century castle with a French-style garden, adjacent to Grandpré Abbey.",
                   "category": "castle",
                   "coords": [
                         5.113621,
@@ -4450,7 +4450,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château-Ferme de Pitet",
-                  "text": "A fortified farmhouse with castle characteristics in Pitet.",
+                  "text": "A 17th-century castle-farm at Grandpré Abbey.",
                   "category": "castle",
                   "coords": [
                         5.183311,
@@ -4741,7 +4741,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de l'Abbaye",
-                  "text": "Das Château de l'Abbaye ist ein repräsentatives Gebäude in der Nähe der Abtei Orval.",
+                  "text": "Schloss der Abtei Florenville – ehemaliger Klosterbau mit Turm und Innenhof.",
                   "category": "castle",
                   "coords": [
                         5.34765,
@@ -4750,7 +4750,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Die Église Saint-Martin ist eine historische Kirche in der Umgebung der Abtei Orval.",
+                  "text": "Église Saint-Martin ist eine römisch-katholische Kirche in Florenville, nahe der Abtei Florenville.",
                   "category": "religious",
                   "coords": [
                         5.350624,
@@ -4770,7 +4770,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de l'Abbaye",
-                  "text": "A Château de l'Abbaye egy reprezentatív épület az Orval apátság közelében.",
+                  "text": "A florenville-i apátság kastélya – egykori kolostorépület toronnyal és udvarral.",
                   "category": "castle",
                   "coords": [
                         5.34765,
@@ -4779,7 +4779,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Az Église Saint-Martin egy történelmi templom az Orval apátság környékén.",
+                  "text": "Az Église Saint-Martin egy római katolikus templom Florenville-ben, a Florenville-i Apátság közelében található.",
                   "category": "religious",
                   "coords": [
                         5.350624,
@@ -4799,7 +4799,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de l'Abbaye",
-                  "text": "Château de l'Abbaye este o clădire reprezentativă situată în apropierea abației Orval.",
+                  "text": "Castelul abației din Florenville – o fostă clădire monastică, cu turn și curte interioară.",
                   "category": "castle",
                   "coords": [
                         5.34765,
@@ -4808,7 +4808,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Biserica Saint-Martin este un lăcaș de cult istoric situat în vecinătatea abației Orval.",
+                  "text": "Église Saint-Martin este o biserică romano-catolică din Florenville, lângă Abația Florenville.",
                   "category": "religious",
                   "coords": [
                         5.350624,
@@ -4828,7 +4828,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Château de l'Abbaye",
-                  "text": "Château de l'Abbaye is a stately building located near the Orval Abbey.",
+                  "text": "Château de l'Abbaye in Florenville, a former monastic building with a tower and courtyard.",
                   "category": "castle",
                   "coords": [
                         5.34765,
@@ -4837,7 +4837,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Église Saint-Martin is a historical church in the vicinity of the Orval Abbey.",
+                  "text": "Église Saint-Martin is a Roman Catholic church in Florenville, near the Abbey of Florenville.",
                   "category": "religious",
                   "coords": [
                         5.350624,
@@ -5605,7 +5605,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Spotters 26R",
-                  "text": "Beliebter Aussichtspunkt für Flugzeugbeobachtungen in Florennes.",
+                  "text": "Beobachtungsplatz für Flugzeuge, die von der Startbahn 26R des Fliegerhorsts Florennes starten.",
                   "category": "natural",
                   "coords": [
                         4.666918,
@@ -5652,7 +5652,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Spotters 26R",
-                  "text": "Népszerű kilátóhely repülőgép-megfigyeléshez Florennesben.",
+                  "text": "Repülőgép-megfigyelő hely a florennes-i légibázis 26R kifutópályájáról felszálló gépek számára.",
                   "category": "natural",
                   "coords": [
                         4.666918,
@@ -5699,7 +5699,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Spotters 26R",
-                  "text": "Punct de observație popular pentru pasionații de aviație în Florennes.",
+                  "text": "Un loc de observare a avioanelor care decolează de pe pista 26R a bazei aeriene Florennes.",
                   "category": "natural",
                   "coords": [
                         4.666918,
@@ -5746,7 +5746,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Spotters 26R",
-                  "text": "Popular aircraft spotting location in Florennes.",
+                  "text": "A spotter's location for aircraft taking off from runway 26R at Florennes airbase.",
                   "category": "natural",
                   "coords": [
                         4.666918,
@@ -5965,7 +5965,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "Ein Museum, das der Geschichte des Forts von Aubin-Neufchâteau gewidmet ist.",
+                  "text": "Museum im Fort Aubin-Neufchâteau mit militärischen Exponaten und Bunkergeschichte.",
                   "category": "museum",
                   "coords": [
                         5.783582,
@@ -6039,7 +6039,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "Az Aubin-Neufchâteau erőd történetét bemutató múzeum.",
+                  "text": "Múzeum az Aubin-Neufchâteau erődben, katonai tárgyakkal és bunkertörténettel.",
                   "category": "museum",
                   "coords": [
                         5.783582,
@@ -6113,7 +6113,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "Un muzeu dedicat istoriei Fortului Aubin-Neufchâteau.",
+                  "text": "Muzeul din fortul Aubin-Neufchâteau, cu exponate militare și istoria buncărelor.",
                   "category": "museum",
                   "coords": [
                         5.783582,
@@ -6187,7 +6187,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             },
             {
                   "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "A museum dedicated to the history of the Fort of Aubin-Neufchâteau.",
+                  "text": "Museum inside Fort Aubin-Neufchâteau, displaying military artifacts and bunker history.",
                   "category": "museum",
                   "coords": [
                         5.783582,

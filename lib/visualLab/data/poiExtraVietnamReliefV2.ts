@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraVietnamReliefV2: POI[] = [
   {
-    id: "langbiang-mountain-relief-v2",
+    id: "langbiang-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "cây thông Cô Đơn",
+                  "text": "Dieser bekannte Aussichtspunkt bietet von einer einsamen Kiefer aus einen freien Blick über den weiten Hochlandsee.",
+                  "category": "natural",
+                  "coords": [
+                        108.38412,
+                        12.020285
+                  ]
+            },
+            {
+                  "name": "cay thong co don",
+                  "text": "Die einsame Kiefer ist eine malerische Attraktion in der Nähe des Stausees und bietet eine ikonische Kulisse für Naturfotografie.",
+                  "category": "landmark",
+                  "coords": [
+                        108.383072,
+                        12.021416
+                  ]
+            },
+            {
+                  "name": "Làng Đồng trụ LangBiang",
+                  "text": "Ein kulturelles Dorf in den sanften Ausläufern, das die traditionelle Lebensweise der lokalen ethnischen Minderheiten zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434708,
+                        12.01955
+                  ]
+            },
+            {
+                  "name": "Núi Lang Biang",
+                  "text": "Dieser markante Berggipfel erhebt sich über 2.100 Meter und ist berühmt für seinen Panoramablick auf die Da Lat-Hochebene.",
+                  "category": "natural",
+                  "coords": [
+                        108.440583,
+                        12.047257
+                  ]
+            },
+            {
+                  "name": "Làng Cu Lần",
+                  "text": "Eingebettet in einen üppigen Kiefernwald bietet dieses Ökotourismus-Dorf Pfahlbauten aus Holz und kleine Seen.",
+                  "category": "landmark",
+                  "coords": [
+                        108.362247,
+                        12.026418
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tin Lành B’Nơr C",
+                  "text": "Diese christlich-protestantische Kirche weist deutliche Einflüsse der Hochlandarchitektur auf und dient der lokalen Minderheitengemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412818,
+                        12.009315
+                  ]
+            },
+            {
+                  "name": "Chợ Lạc Dương",
+                  "text": "Ein lebhafter Bezirksmarkt, auf dem Hochlandbauern frisches Gemüse und regionale Produkte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        108.421558,
+                        12.009338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cây thông Cô Đơn",
+                  "text": "Ez a híres kilátó egy magányos fenyőfától tiszta rálátást nyújt a kiterjedt hegyvidéki tóra.",
+                  "category": "natural",
+                  "coords": [
+                        108.38412,
+                        12.020285
+                  ]
+            },
+            {
+                  "name": "cay thong co don",
+                  "text": "A magányos fenyő festői látványosság a víztározó közelében, amely ikonikus hátteret biztosít a természetfotózáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        108.383072,
+                        12.021416
+                  ]
+            },
+            {
+                  "name": "Làng Đồng trụ LangBiang",
+                  "text": "A lankás hegyalján fekvő kulturális falusi látványosság, amely a helyi etnikai kisebbségek hagyományos életmódját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434708,
+                        12.01955
+                  ]
+            },
+            {
+                  "name": "Núi Lang Biang",
+                  "text": "Ez a kiemelkedő, több mint 2100 méter magas hegycsúcs a Da Lat-fennsíkra nyíló panorámás kilátásról híres.",
+                  "category": "natural",
+                  "coords": [
+                        108.440583,
+                        12.047257
+                  ]
+            },
+            {
+                  "name": "Làng Cu Lần",
+                  "text": "Egy buja fenyőerdőben megbúvó ökoturisztikai falu fatörzseken álló házakkal és apró tavakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        108.362247,
+                        12.026418
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tin Lành B’Nơr C",
+                  "text": "Ez a keresztény protestáns templom különleges hegyvidéki építészeti hatásokat hordoz, és a helyi kisebbségi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412818,
+                        12.009315
+                  ]
+            },
+            {
+                  "name": "Chợ Lạc Dương",
+                  "text": "Nyüzsgő kerületi piac, ahol a hegyvidéki gazdák friss hegyvidéki zöldségeket és regionális termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        108.421558,
+                        12.009338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cây thông Cô Đơn",
+                  "text": "Acest renumit punct de belvedere oferă o vedere clară de la un pin solitar care privește peste vastul lac montan.",
+                  "category": "natural",
+                  "coords": [
+                        108.38412,
+                        12.020285
+                  ]
+            },
+            {
+                  "name": "cay thong co don",
+                  "text": "Pinul solitar servește ca o atracție pitorească lângă rezervor, oferind un fundal iconic pentru fotografia de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        108.383072,
+                        12.021416
+                  ]
+            },
+            {
+                  "name": "Làng Đồng trụ LangBiang",
+                  "text": "O atracție sub forma unui sat cultural situat la poalele dealurilor, prezentând stilul de viață tradițional al minorităților etnice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434708,
+                        12.01955
+                  ]
+            },
+            {
+                  "name": "Núi Lang Biang",
+                  "text": "Acest vârf montan proeminent se ridică la peste 2.100 de metri și este faimos pentru vederile sale panoramice asupra platoului Da Lat.",
+                  "category": "natural",
+                  "coords": [
+                        108.440583,
+                        12.047257
+                  ]
+            },
+            {
+                  "name": "Làng Cu Lần",
+                  "text": "Ascuns într-o pădure luxuriantă de pini, acest sat de ecoturism dispune de case pe piloni din lemn și mici lacuri.",
+                  "category": "landmark",
+                  "coords": [
+                        108.362247,
+                        12.026418
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tin Lành B’Nơr C",
+                  "text": "Această biserică creștină protestantă prezintă influențe arhitecturale montane distincte și servește comunității locale minoritare.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412818,
+                        12.009315
+                  ]
+            },
+            {
+                  "name": "Chợ Lạc Dương",
+                  "text": "O piață de cartier plină de viață, unde fermierii din munți se adună pentru a vinde legume proaspete și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        108.421558,
+                        12.009338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cây thông Cô Đơn",
+                  "text": "This renowned viewpoint offers a clear line of sight from a solitary pine tree overlooking the expansive highland lake.",
+                  "category": "natural",
+                  "coords": [
+                        108.38412,
+                        12.020285
+                  ]
+            },
+            {
+                  "name": "cay thong co don",
+                  "text": "The solitary pine tree serves as a picturesque attraction near the reservoir, providing an iconic backdrop for nature photography.",
+                  "category": "landmark",
+                  "coords": [
+                        108.383072,
+                        12.021416
+                  ]
+            },
+            {
+                  "name": "Làng Đồng trụ LangBiang",
+                  "text": "A cultural village attraction set in the rolling foothills, showcasing the traditional lifestyle of the local ethnic minorities.",
+                  "category": "landmark",
+                  "coords": [
+                        108.434708,
+                        12.01955
+                  ]
+            },
+            {
+                  "name": "Lang Biang Mountain",
+                  "text": "This prominent mountain peak rises over 2,100 metres and is famous for its panoramic views over the Da Lat plateau.",
+                  "category": "natural",
+                  "coords": [
+                        108.440583,
+                        12.047257
+                  ]
+            },
+            {
+                  "name": "Làng Cu Lần",
+                  "text": "Nestled in a lush pine forest, this eco-tourism village features timber stilt houses and small lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        108.362247,
+                        12.026418
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Tin Lành B’Nơr C",
+                  "text": "This Christian Protestant church features distinct highland architectural influences and serves the local minority community.",
+                  "category": "landmark",
+                  "coords": [
+                        108.412818,
+                        12.009315
+                  ]
+            },
+            {
+                  "name": "Chợ Lạc Dương",
+                  "text": "A lively district market where highland farmers gather to sell fresh upland vegetables and regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        108.421558,
+                        12.009338
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "VN-35",
     coords: [108.435, 12.052],
@@ -51,7 +312,88 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "moc-chau-plateau-relief-v2",
+    id: "moc-chau-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trái tim của núi trà",
+                  "text": "Ein ikonisches, herzförmiges Arrangement von Teesträuchern auf den sanften grünen Hügeln von Moc Chau.",
+                  "category": "natural",
+                  "coords": [
+                        104.683398,
+                        20.887207
+                  ]
+            },
+            {
+                  "name": "Xem đẹp trên trồng chè",
+                  "text": "Ein erhöhter Punkt mit Blick auf die weiten, akkurat gepflegten Reihen der Teeplantagen des Plateaus.",
+                  "category": "natural",
+                  "coords": [
+                        104.688639,
+                        20.892683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trái tim của núi trà",
+                  "text": "Ikonikus, szív alakú teacserje-elrendezés a Moc Chau lankás, zöld dombjain.",
+                  "category": "natural",
+                  "coords": [
+                        104.683398,
+                        20.887207
+                  ]
+            },
+            {
+                  "name": "Xem đẹp trên trồng chè",
+                  "text": "Magaslati pont, ahonnan rálátni a fennsík teaültetvényeinek végtelen, gondosan ápolt soraira.",
+                  "category": "natural",
+                  "coords": [
+                        104.688639,
+                        20.892683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trái tim của núi trà",
+                  "text": "Un aranjament iconic în formă de inimă al tufelor de ceai pe dealurile verzi și domoale din Moc Chau.",
+                  "category": "natural",
+                  "coords": [
+                        104.683398,
+                        20.887207
+                  ]
+            },
+            {
+                  "name": "Xem đẹp trên trồng chè",
+                  "text": "Un punct înalt cu vedere la rândurile vaste și îngrijite ale plantațiilor de ceai de pe platou.",
+                  "category": "natural",
+                  "coords": [
+                        104.688639,
+                        20.892683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heart of the tea mountain",
+                  "text": "An iconic heart-shaped arrangement of tea bushes on the rolling green hills of Moc Chau.",
+                  "category": "natural",
+                  "coords": [
+                        104.683398,
+                        20.887207
+                  ]
+            },
+            {
+                  "name": "Nice view on tea plantations",
+                  "text": "An elevated point overlooking the vast, neatly manicured rows of the plateau's tea estates.",
+                  "category": "natural",
+                  "coords": [
+                        104.688639,
+                        20.892683
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "VN-05",
     coords: [104.695, 20.844],
@@ -99,7 +441,124 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "mu-cang-chai-terraces-valley-v2",
+    id: "mu-cang-chai-terraces-valley-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mam xoi",
+                  "text": "Ein berühmter Aussichtspunkt auf die markanten, himbeerenförmigen Reisterrassen in den Bergen von Mu Cang Chai.",
+                  "category": "natural",
+                  "coords": [
+                        104.151912,
+                        21.794082
+                  ]
+            },
+            {
+                  "name": "Móng ngựa Lao Chải",
+                  "text": "Dieser Ort bietet eine Sicht auf die hufeisenförmig angelegten Reisterrassen, die sich kurvig an die Berghänge schmiegen.",
+                  "category": "natural",
+                  "coords": [
+                        104.029673,
+                        21.85335
+                  ]
+            },
+            {
+                  "name": "Ruộng bậc thang Nấm Linh Chi",
+                  "text": "Ein Aussichtspunkt auf die terrassierten Reisfelder, deren Form an die traditionellen Linh-Chi-Pilze erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        104.02579,
+                        21.856567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mam xoi",
+                  "text": "Híres kilátópont, ahonnan a Mu Cang Chai hegyei lévő, jellegzetes málna alakú rizsteraszokra látni.",
+                  "category": "natural",
+                  "coords": [
+                        104.151912,
+                        21.794082
+                  ]
+            },
+            {
+                  "name": "Móng ngựa Lao Chải",
+                  "text": "Ez a hely kilátást nyújt a patkó alakú rizsteraszokra, amelyek kanyarogva simulnak a hegyoldalakhoz.",
+                  "category": "natural",
+                  "coords": [
+                        104.029673,
+                        21.85335
+                  ]
+            },
+            {
+                  "name": "Ruộng bậc thang Nấm Linh Chi",
+                  "text": "Kilátópont a teraszos rizsföldekre, amelyek formája a hagyományos Linh-Chi gombákra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        104.02579,
+                        21.856567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mam xoi",
+                  "text": "Un punct de observație celebru asupra teraselor de orez în formă de zmeură, situate în munții din Mu Cang Chai.",
+                  "category": "natural",
+                  "coords": [
+                        104.151912,
+                        21.794082
+                  ]
+            },
+            {
+                  "name": "Móng ngựa Lao Chải",
+                  "text": "Acest loc oferă o vedere spre terasele de orez în formă de potcoavă, care se curbează de-a lungul versanților montani.",
+                  "category": "natural",
+                  "coords": [
+                        104.029673,
+                        21.85335
+                  ]
+            },
+            {
+                  "name": "Ruộng bậc thang Nấm Linh Chi",
+                  "text": "Un punct de belvedere asupra câmpurilor de orez terasate, a căror formă amintește de ciupercile tradiționale Linh Chi.",
+                  "category": "natural",
+                  "coords": [
+                        104.02579,
+                        21.856567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mam xoi",
+                  "text": "A famous viewpoint overlooking the distinctive raspberry-shaped rice terraces in the mountains of Mu Cang Chai.",
+                  "category": "natural",
+                  "coords": [
+                        104.151912,
+                        21.794082
+                  ]
+            },
+            {
+                  "name": "Móng ngựa Lao Chải",
+                  "text": "This spot offers a view of the horseshoe-shaped rice terraces curving along the mountain slopes.",
+                  "category": "natural",
+                  "coords": [
+                        104.029673,
+                        21.85335
+                  ]
+            },
+            {
+                  "name": "Ruộng bậc thang Nấm Linh Chi",
+                  "text": "A viewpoint overlooking the terraced rice fields whose shape resembles traditional Linh Chi mushrooms.",
+                  "category": "natural",
+                  "coords": [
+                        104.02579,
+                        21.856567
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "VN-06",
     coords: [104.120, 21.845],
@@ -195,7 +654,556 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "da-lat-plateau-relief-v2",
+    id: "da-lat-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ga Đà Lạt",
+                  "text": "Eine Sammlung historischer Eisenbahnwaggons, die die Erinnerung an die historische Zahnradbahn auf dem Plateau bewahren.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Thiên Vương Cổ Sát (Chùa Tàu)",
+                  "text": "Ein buddhistischer Tempel im chinesischen Stil, berühmt für seine drei massiven, aus Hongkong importierten Sandelholzstatuen buddhistischer Figuren.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Thác Datanla",
+                  "text": "Ein malerischer Wasserfall in einem Kiefernwald, der über eine aufregende Sommerrodelbahn erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.448976,
+                        11.901237
+                  ]
+            },
+            {
+                  "name": "Thác Prenn",
+                  "text": "Ein malerischer 10 Meter hoher Wasserfall, bei dem Besucher auf einem Weg direkt hinter dem herabstürzenden Wasservorhang gehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        108.470104,
+                        11.876519
+                  ]
+            },
+            {
+                  "name": "Prenn",
+                  "text": "Ein Erholungsnaturpark rund um einen berühmten Wasserfall, der Seilbahnfahrten, Tierausstellungen und botanische Gärten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.472084,
+                        11.874388
+                  ]
+            },
+            {
+                  "name": "Dinh Toàn Quyền",
+                  "text": "Ein prachtvolles Verwaltungsgebäude aus der Kolonialzeit inmitten weitläufiger gepflegter Gärten auf einem malerischen Plateau.",
+                  "category": "castle",
+                  "coords": [
+                        108.447957,
+                        11.935622
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "Ein historisches Viertel, gesäumt von elegant erhaltenen französischen Kolonialvillen, die sich zwischen den Kiefern verstecken.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449343,
+                        11.936433
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "Eine ruhige buddhistische Pagode, die der Göttin der Barmherzigkeit gewidmet ist und über einen wunderschön angelegten Garten zur Kontemplation verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.461602,
+                        11.931926
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Đức",
+                  "text": "Ein ruhiges buddhistisches Heiligtum, das entlang seiner geschwungenen Dachlinien mit traditionellen Drachenmotiven verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.45955,
+                        11.931299
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt Cư Sĩ Lâm",
+                  "text": "Ein friedliches buddhistisches Meditationszentrum, das sich an Laienpraktizierende inmitten der kühlen Hochlandbrise richtet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.459894,
+                        11.930118
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt",
+                  "text": "Eine einladende buddhistische Stätte, die einen spirituellen Zufluchtsort und traditionellen architektonischen Charme auf dem Plateau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460299,
+                        11.928804
+                  ]
+            },
+            {
+                  "name": "Linh Phong",
+                  "text": "Eine ruhige buddhistische Pagode auf einem windigen Hügel, die einen Panoramablick auf das umliegende Plateau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.465166,
+                        11.927821
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Phong",
+                  "text": "Ein klassischer buddhistischer Tempel, der für sein reich verziertes Eingangstor und seine friedliche Atmosphäre mit Blick auf die Täler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.464944,
+                        11.929583
+                  ]
+            },
+            {
+                  "name": "Giác Hoa",
+                  "text": "Eine bescheidene buddhistische Kultstätte mit farbenfrohen Wandmalereien und einem ruhigen Innenhof zur Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        108.451632,
+                        11.938982
+                  ]
+            },
+            {
+                  "name": "Chùa Tàu (Thiên Vương Cổ Sát)",
+                  "text": "Ein markant chinesisch geprägter buddhistischer Tempelkomplex, der von der örtlichen chinesischen Gemeinde an einem mit Kiefern bewachsenen Hügel erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460255,
+                        11.927698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ga Đà Lạt",
+                  "text": "Régi vasúti kocsik gyűjteménye, amelyek a fennsíkon egykor működő történelmi fogaskerekű vasút emlékét őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Thiên Vương Cổ Sát (Chùa Tàu)",
+                  "text": "Egy kínai stílusú buddhista templom, amely a Hongkongból származó három hatalmas szantálfa Buddha-szobráról híres.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Thác Datanla",
+                  "text": "Festői vízesés egy fenyőerdőben, amely egy izgalmas alpesi hullámvasúton is megközelíthető.",
+                  "category": "landmark",
+                  "coords": [
+                        108.448976,
+                        11.901237
+                  ]
+            },
+            {
+                  "name": "Thác Prenn",
+                  "text": "Egy festői, 10 méter magas vízesés, ahol a látogatók egy ösvényen sétálhatnak közvetlenül a lezúduló vízfüggöny mögött.",
+                  "category": "landmark",
+                  "coords": [
+                        108.470104,
+                        11.876519
+                  ]
+            },
+            {
+                  "name": "Prenn",
+                  "text": "Egy híres vízesést körülvevő szabadidős natúrpark, amely felvonózást, állatbemutatókat és botanikus kerteket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        108.472084,
+                        11.874388
+                  ]
+            },
+            {
+                  "name": "Dinh Toàn Quyền",
+                  "text": "Hatalmas gyarmati kori közigazgatási kúria, amely a festői fennsík kiterjedt, gondozott kertjei között fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        108.447957,
+                        11.935622
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "Történelmi negyed, amelyet elegánsan megőrzött francia gyarmati villák szegélyeznek a fenyőfák között.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449343,
+                        11.936433
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "Az Irgalom Istennőjének szentelt békés buddhista pagoda, amelynek gyönyörűen parkosított kertje elmélkedésre csábít.",
+                  "category": "landmark",
+                  "coords": [
+                        108.461602,
+                        11.931926
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Đức",
+                  "text": "Csendes buddhista szentély, amelynek ívelt tetővonalait hagyományos sárkánymotívumok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        108.45955,
+                        11.931299
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt Cư Sĩ Lâm",
+                  "text": "Békés buddhista meditációs központ a világi gyakorlók számára a hűvös felvidéki szellőben.",
+                  "category": "landmark",
+                  "coords": [
+                        108.459894,
+                        11.930118
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt",
+                  "text": "Barátságos buddhista emlékhely, amely spirituális menedéket és hagyományos építészeti bájjal várja a látogatókat a fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460299,
+                        11.928804
+                  ]
+            },
+            {
+                  "name": "Linh Phong",
+                  "text": "Egy szeles dombon található csendes buddhista pagoda, amely panorámás kilátást nyújt a környező fennsíkra.",
+                  "category": "landmark",
+                  "coords": [
+                        108.465166,
+                        11.927821
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Phong",
+                  "text": "Egy klasszikus buddhista templom, amely díszes bejárati kapujáról és a völgyekre néző békés hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.464944,
+                        11.929583
+                  ]
+            },
+            {
+                  "name": "Giác Hoa",
+                  "text": "Szerény buddhista istentiszteleti hely, színes falfestményekkel és egy csendes udvarral az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        108.451632,
+                        11.938982
+                  ]
+            },
+            {
+                  "name": "Chùa Tàu (Thiên Vương Cổ Sát)",
+                  "text": "Egy kifejezetten kínai hatású buddhista templomkomplexum, amelyet a helyi kínai közösség épített egy fenyővel borított domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460255,
+                        11.927698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ga Đà Lạt",
+                  "text": "O colecție de vagoane de tren de epocă ce păstrează amintirea căii ferate istorice cu cremalieră de pe platou.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Thiên Vương Cổ Sát (Chùa Tàu)",
+                  "text": "Un templu budist în stil chinezesc, faimos pentru cele trei statui masive din lemn de santal reprezentând figuri budiste, importate din Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Thác Datanla",
+                  "text": "O cascadă pitorească ascunsă într-o pădure de pini, accesibilă printr-o plimbare palpitantă cu un roller coaster alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        108.448976,
+                        11.901237
+                  ]
+            },
+            {
+                  "name": "Thác Prenn",
+                  "text": "O cascadă pitorească înaltă de 10 metri, unde vizitatorii pot merge pe o potecă direct în spatele perdelei de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.470104,
+                        11.876519
+                  ]
+            },
+            {
+                  "name": "Prenn",
+                  "text": "Un parc natural de agrement în jurul unei cascade celebre, oferind plimbări cu telecabina, expoziții de animale și grădini botanice.",
+                  "category": "landmark",
+                  "coords": [
+                        108.472084,
+                        11.874388
+                  ]
+            },
+            {
+                  "name": "Dinh Toàn Quyền",
+                  "text": "Un conac administrativ grandios din perioada colonială, așezat în mijlocul unor grădini extinse și îngrijite pe un platou pitoresc.",
+                  "category": "castle",
+                  "coords": [
+                        108.447957,
+                        11.935622
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "Un cartier istoric mărginit de vile coloniale franceze conservate elegant, ascunse printre pinii bătrâni.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449343,
+                        11.936433
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "O pagodă budistă senină dedicată Zeiței Milei, cu o grădină frumos amenajată pentru contemplare.",
+                  "category": "landmark",
+                  "coords": [
+                        108.461602,
+                        11.931926
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Đức",
+                  "text": "Un sanctuar budist liniștit, împodobit cu motive tradiționale cu dragoni de-a lungul liniilor acoperișului său curbat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.45955,
+                        11.931299
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt Cư Sĩ Lâm",
+                  "text": "Un centru pașnic de meditație budistă care se adresează practicanților laici, în mijlocul brizei răcoroase de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        108.459894,
+                        11.930118
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt",
+                  "text": "Un loc budist primitor care oferă un refugiu spiritual și un farmec arhitectural tradițional pe platou.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460299,
+                        11.928804
+                  ]
+            },
+            {
+                  "name": "Linh Phong",
+                  "text": "O pagodă budistă liniștită situată pe un deal bătut de vânt, oferind vederi panoramice ale platoului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        108.465166,
+                        11.927821
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Phong",
+                  "text": "Un templu budist clasic, cunoscut pentru poarta sa de intrare ornamentată și atmosfera pașnică cu vedere la văi.",
+                  "category": "landmark",
+                  "coords": [
+                        108.464944,
+                        11.929583
+                  ]
+            },
+            {
+                  "name": "Giác Hoa",
+                  "text": "Un lăcaș de cult budist modest, cu picturi murale colorate și o curte liniștită pentru reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        108.451632,
+                        11.938982
+                  ]
+            },
+            {
+                  "name": "Chùa Tàu (Thiên Vương Cổ Sát)",
+                  "text": "Un complex de temple budiste cu influențe distincte chinezești, construit de comunitatea locală chineză la poalele unui deal acoperit de pini.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460255,
+                        11.927698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Train & Carriages",
+                  "text": "A collection of vintage rail carriages preserving the memory of the historic cog railway on the plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Thien Vuong Co Sat",
+                  "text": "A Chinese-style Buddhist temple famous for its three massive sandalwood statues of Buddhist figures imported from Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Datanla Fall",
+                  "text": "A picturesque cascading waterfall tucked in a pine forest, accessible via a thrilling alpine coaster ride.",
+                  "category": "landmark",
+                  "coords": [
+                        108.448976,
+                        11.901237
+                  ]
+            },
+            {
+                  "name": "Prenn Falls",
+                  "text": "A scenic 10-metre high waterfall where visitors can walk on a path directly behind the cascading curtain of water.",
+                  "category": "landmark",
+                  "coords": [
+                        108.470104,
+                        11.876519
+                  ]
+            },
+            {
+                  "name": "Prenn Tourist Attraction",
+                  "text": "A recreational nature park surrounding a famous waterfall, offering cable car rides, animal exhibits, and botanical gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        108.472084,
+                        11.874388
+                  ]
+            },
+            {
+                  "name": "Governor Palace",
+                  "text": "A grand colonial-era administrative mansion set amid expansive manicured gardens on a scenic plateau.",
+                  "category": "castle",
+                  "coords": [
+                        108.447957,
+                        11.935622
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "A historic neighbourhood lined with elegantly preserved French colonial villas nestled among the pine trees.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449343,
+                        11.936433
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "A serene Buddhist pagoda dedicated to the Goddess of Mercy, featuring a beautifully landscaped garden for contemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        108.461602,
+                        11.931926
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Đức",
+                  "text": "A quiet Buddhist sanctuary adorned with traditional dragon motifs along its sweeping rooflines.",
+                  "category": "landmark",
+                  "coords": [
+                        108.45955,
+                        11.931299
+                  ]
+            },
+            {
+                  "name": "Minh Nguyệt Cư Sĩ Lâm",
+                  "text": "A peaceful Buddhist meditation centre catering to lay practitioners amidst the cool highland breeze.",
+                  "category": "landmark",
+                  "coords": [
+                        108.459894,
+                        11.930118
+                  ]
+            },
+            {
+                  "name": "Minh Nguyet",
+                  "text": "A welcoming Buddhist site offering a spiritual haven and traditional architectural charm on the plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460299,
+                        11.928804
+                  ]
+            },
+            {
+                  "name": "Linh Phong",
+                  "text": "A tranquil Buddhist pagoda situated on a breezy hill, offering panoramic views of the surrounding plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        108.465166,
+                        11.927821
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Phong",
+                  "text": "A classic Buddhist temple known for its ornate entrance gate and peaceful atmosphere overlooking the valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        108.464944,
+                        11.929583
+                  ]
+            },
+            {
+                  "name": "Gia Hoa",
+                  "text": "A modest Buddhist place of worship featuring colorful murals and a quiet courtyard for reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        108.451632,
+                        11.938982
+                  ]
+            },
+            {
+                  "name": "Chùa Tàu (Thiên Vương Cổ Sát)",
+                  "text": "A distinctively Chinese-influenced Buddhist temple complex built by the local Chinese community against a pine-clad hill.",
+                  "category": "landmark",
+                  "coords": [
+                        108.460255,
+                        11.927698
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "VN-35",
     coords: [108.458, 11.940],
@@ -243,7 +1251,916 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "my-khe-beach-coast-v2",
+    id: "my-khe-beach-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cầu Tiên Sơn",
+                  "text": "Eine moderne Straßenbrücke, die den Han-Fluss nahe der Küste von My Khe überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235272,
+                        16.035269
+                  ]
+            },
+            {
+                  "name": "Dragon's Head (Fire Show)",
+                  "text": "Der östliche Kopf der berühmten Drachenbrücke, an dem an Wochenenden eine spektakuläre Feuer- und wasserspeiende Show stattfindet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229655,
+                        16.061248
+                  ]
+            },
+            {
+                  "name": "Cầu Trần Thị Lý",
+                  "text": "Eine markante Schrägseilbrücke mit einem einzigartigen schiefen Turm, die den Han-Fluss nahe der Küste überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Cau Nguyen Van Troi Bridge",
+                  "text": "Ein historisches Brückenbauwerk, das als alter Übergang über den Fluss nahe My Khe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Cầu Sông Hàn",
+                  "text": "Eine Schrägseil-Drehbrücke über den Han-Fluss, die als erste ihrer Art in Vietnam gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        108.226811,
+                        16.07214
+                  ]
+            },
+            {
+                  "name": "Bãi biển Mỹ Khê",
+                  "text": "Eine weite, sandige Küste, die berühmt für ihren feinen weißen Sand, die sanften Wellen und die palmengesäumte Uferlinie ist.",
+                  "category": "recreational",
+                  "coords": [
+                        108.249504,
+                        16.075965
+                  ]
+            },
+            {
+                  "name": "Cầu Rồng",
+                  "text": "Eine ikonische, 666 Meter lange Brücke über den Han-Fluss, die in Form eines goldenen Drachen gestaltet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227916,
+                        16.061167
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Đà Nẵng",
+                  "text": "Ein regionales Museum nahe der Küste, das die Geschichte und das kulturelle Erbe von Da Nang präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        108.223971,
+                        16.074835
+                  ]
+            },
+            {
+                  "name": "nhà thờ An Thượng",
+                  "text": "Eine lokale Kirche, die einen spirituellen Versammlungsort im Viertel An Thượng nahe dem Strand bietet.",
+                  "category": "religious",
+                  "coords": [
+                        108.240888,
+                        16.048073
+                  ]
+            },
+            {
+                  "name": "Miếu Xóm An Mỹ",
+                  "text": "Ein traditioneller Tempel, der den religiösen Bedürfnissen der Gemeinde An Mỹ an der Küste dient.",
+                  "category": "religious",
+                  "coords": [
+                        108.230619,
+                        16.066273
+                  ]
+            },
+            {
+                  "name": "Chùa An Phước",
+                  "text": "Eine ruhige buddhistische Pagode im Küstenbezirk, die einen friedlichen Rückzugsort bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.2316,
+                        16.063448
+                  ]
+            },
+            {
+                  "name": "Miếu xóm",
+                  "text": "Ein kleiner Schrein für lokale Gottheiten, der das traditionelle spirituelle Leben in Strandnähe widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        108.242047,
+                        16.076434
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành",
+                  "text": "Ein christlich-protestantisches Gotteshaus, das der lokalen Gemeinde an der Küste von My Khe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235068,
+                        16.051979
+                  ]
+            },
+            {
+                  "name": "Tượng Phật Quan Âm - Chùa Mỹ Khê",
+                  "text": "Eine markante buddhistische Statue der Bodhisattva Guanyin, die sich am küstennahen My-Khe-Tempel befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.242965,
+                        16.064345
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành An Hải",
+                  "text": "Eine evangelisch-christliche Kirche, die der Gemeinde An Hải nahe dem Küstengebiet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235767,
+                        16.063092
+                  ]
+            },
+            {
+                  "name": "Chùa An Hải",
+                  "text": "Eine friedliche buddhistische Pagode im Viertel An Hải, nahe dem Han-Fluss und dem Strand gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        108.23295,
+                        16.068014
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ An Hải",
+                  "text": "Eine katholische Pfarrkirche, die der christlichen Gemeinde in An Hải als Gotteshaus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229808,
+                        16.069217
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lê Tộc - Tân Thái",
+                  "text": "Eine traditionelle buddhistische Ahnenhalle, die dem Lê-Clan im Küstendorf Tan Thai gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.247323,
+                        16.089485
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Đức Mẹ Sao Biển",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau Meeresstern gewidmet und eng mit der lokalen Fischergemeinde verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.248288,
+                        16.047846
+                  ]
+            },
+            {
+                  "name": "Cho Ha Than",
+                  "text": "Ein belebter Tagesmarkt, der frische Meeresfrüchte, Gemüse und alltägliche Waren in Strandnähe anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231371,
+                        16.064696
+                  ]
+            },
+            {
+                  "name": "Chợ Đêm Sơn Trà",
+                  "text": "Ein pulsierender Nachtmarkt nahe der Drachenbrücke, berühmt für seine Streetfood-Stände, frischen Meeresfrüchte und lokalen Souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231444,
+                        16.060731
+                  ]
+            },
+            {
+                  "name": "Cong Hua Xa",
+                  "text": "Ein lebhaftes lokales Marktzentrum, das Dinge des täglichen Bedarfs und frische regionale Waren in Küstennähe anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        108.239389,
+                        16.055859
+                  ]
+            },
+            {
+                  "name": "Chợ Phước Mỹ",
+                  "text": "Ein pulsierender lokaler Markt im Viertel Phước Mỹ, bekannt für sein tägliches Angebot an frischen Meeresfrüchten und Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242268,
+                        16.066547
+                  ]
+            },
+            {
+                  "name": "Chợ Mân Thái",
+                  "text": "Ein geschäftiger, traditioneller Fischmarkt im Gebiet des Fischerdorfes Mân Thái entlang der Küste.",
+                  "category": "cultural",
+                  "coords": [
+                        108.243379,
+                        16.085608
+                  ]
+            },
+            {
+                  "name": "Chợ Bắc Mỹ An",
+                  "text": "Ein beliebter lokaler Markt in Strandnähe, der für sein erschwingliches und vielfältiges Streetfood bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242477,
+                        16.041679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cầu Tiên Sơn",
+                  "text": "Egy modern közúti híd, amely a Han folyót íveli át a My Khe tengerpart közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235272,
+                        16.035269
+                  ]
+            },
+            {
+                  "name": "Dragon's Head (Fire Show)",
+                  "text": "A híres Sárkány híd keleti feje, ahol hétvégente látványos tűz- és vízköpő show várja az érdeklődőket.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229655,
+                        16.061248
+                  ]
+            },
+            {
+                  "name": "Cầu Trần Thị Lý",
+                  "text": "Egy lenyűgöző ferdekábeles híd, amelynek egyedi dőlt tornya van, és a Han folyót íveli át a part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Cau Nguyen Van Troi Bridge",
+                  "text": "Egy történelmi hídszerkezet, amely régi átkelőhelyként szolgált a folyón My Khe közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Cầu Sông Hàn",
+                  "text": "Egy ferdekábeles forgóhíd a Han folyón, amely az első ilyen típusú építmény volt Vietnámban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.226811,
+                        16.07214
+                  ]
+            },
+            {
+                  "name": "Bãi biển Mỹ Khê",
+                  "text": "Egy széles, homokos partszakasz, amely finom fehér homokjáról, szelíd hullámairól és pálmafákkal szegélyezett partvonaláról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        108.249504,
+                        16.075965
+                  ]
+            },
+            {
+                  "name": "Cầu Rồng",
+                  "text": "Egy ikonikus, 666 méter hosszú híd a Han folyón, amelyet egy arany sárkány formájára terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227916,
+                        16.061167
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Đà Nẵng",
+                  "text": "Egy partközeli regionális múzeum, amely Da Nang történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        108.223971,
+                        16.074835
+                  ]
+            },
+            {
+                  "name": "nhà thờ An Thượng",
+                  "text": "Egy helyi templom, amely spirituális gyülekezési helyet biztosít az An Thượng negyedben, a strand közelében.",
+                  "category": "religious",
+                  "coords": [
+                        108.240888,
+                        16.048073
+                  ]
+            },
+            {
+                  "name": "Miếu Xóm An Mỹ",
+                  "text": "Egy hagyományos helyi templom, amely az An Mỹ közösség vallási igényeit szolgálja a part közelében.",
+                  "category": "religious",
+                  "coords": [
+                        108.230619,
+                        16.066273
+                  ]
+            },
+            {
+                  "name": "Chùa An Phước",
+                  "text": "Egy békés buddhista pagoda a tengerparti kerületben, amely nyugodt elvonulást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        108.2316,
+                        16.063448
+                  ]
+            },
+            {
+                  "name": "Miếu xóm",
+                  "text": "Egy helyi istenségeknek szentelt kis szentély, amely a strandhoz közeli hagyományos spirituális életet tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        108.242047,
+                        16.076434
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành",
+                  "text": "Egy keresztény protestáns istentiszteleti hely, amely a My Khe part menti helyi gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235068,
+                        16.051979
+                  ]
+            },
+            {
+                  "name": "Tượng Phật Quan Âm - Chùa Mỹ Khê",
+                  "text": "Guanyin bódhiszattva kiemelkedő buddhista szobra, amely a part menti My Khe templomnál található.",
+                  "category": "landmark",
+                  "coords": [
+                        108.242965,
+                        16.064345
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành An Hải",
+                  "text": "Egy evangéliumi keresztény templom, amely az An Hải plébániát szolgálja a tengerparti övezet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235767,
+                        16.063092
+                  ]
+            },
+            {
+                  "name": "Chùa An Hải",
+                  "text": "Egy békés buddhista pagoda An Hải negyedében, közel a Han folyóhoz és a tengerparthoz.",
+                  "category": "landmark",
+                  "coords": [
+                        108.23295,
+                        16.068014
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ An Hải",
+                  "text": "Egy helyi katolikus plébániatemplom, amely az An Hải-i keresztény közösség istentiszteleti helyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229808,
+                        16.069217
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lê Tộc - Tân Thái",
+                  "text": "A Lê klánnak szentelt hagyományos buddhista ősi csarnok a tengerparti Tan Thai faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.247323,
+                        16.089485
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Đức Mẹ Sao Biển",
+                  "text": "A Tenger Csillaga (Stella Maris) Miasszonyunknak szentelt katolikus templom, amely mélyen kötődik a helyi halászközösséghez.",
+                  "category": "landmark",
+                  "coords": [
+                        108.248288,
+                        16.047846
+                  ]
+            },
+            {
+                  "name": "Cho Ha Than",
+                  "text": "Egy nyüzsgő nappali piac, amely friss tenger gyümölcseit, zöldségeket és mindennapi cikkeket kínál a strand közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231371,
+                        16.064696
+                  ]
+            },
+            {
+                  "name": "Chợ Đêm Sơn Trà",
+                  "text": "Egy élettel teli éjszakai piac a Sárkány híd közelében, amely híres utcai ételstandjairól, friss tenger gyümölcseiről és helyi ajándéktárgyairól.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231444,
+                        16.060731
+                  ]
+            },
+            {
+                  "name": "Cong Hua Xa",
+                  "text": "Egy élénk helyi piacközpont, amely mindennapi szükségleteket és friss regionális árukat biztosít a part közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        108.239389,
+                        16.055859
+                  ]
+            },
+            {
+                  "name": "Chợ Phước Mỹ",
+                  "text": "Egy élettel teli helyi piac Phước Mỹ negyedben, amely a friss tenger gyümölcseinek és élelmiszereinek napi kínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242268,
+                        16.066547
+                  ]
+            },
+            {
+                  "name": "Chợ Mân Thái",
+                  "text": "Egy forgalmas, hagyományos tenger gyümölcsei piac Mân Thái halászfalu területén, a tengerpart mentén.",
+                  "category": "cultural",
+                  "coords": [
+                        108.243379,
+                        16.085608
+                  ]
+            },
+            {
+                  "name": "Chợ Bắc Mỹ An",
+                  "text": "Egy népszerű helyi piac a tengerpart közelében, amely megfizethető és változatos utcai ételeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242477,
+                        16.041679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cầu Tiên Sơn",
+                  "text": "Un pod rutier modern care traversează râul Han, aproape de coasta My Khe.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235272,
+                        16.035269
+                  ]
+            },
+            {
+                  "name": "Dragon's Head (Fire Show)",
+                  "text": "Capătul estic al celebrului Pod al Dragonului, unde în weekenduri are loc un spectacol uimitor cu foc și apă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229655,
+                        16.061248
+                  ]
+            },
+            {
+                  "name": "Cầu Trần Thị Lý",
+                  "text": "Un pod suspendat impresionant, cu un turn înclinat unic, care traversează râul Han în apropierea coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Cau Nguyen Van Troi Bridge",
+                  "text": "O structură istorică de pod ce a servit drept un vechi punct de trecere peste râu în apropiere de My Khe.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Cầu Sông Hàn",
+                  "text": "Un pod rotativ susținut de cabluri peste râul Han, primul de acest fel construit în Vietnam.",
+                  "category": "landmark",
+                  "coords": [
+                        108.226811,
+                        16.07214
+                  ]
+            },
+            {
+                  "name": "Bãi biển Mỹ Khê",
+                  "text": "O coastă lată, nisipoasă, faimoasă pentru nisipul său alb și fin, valurile blânde și țărmul mărginit de palmieri.",
+                  "category": "recreational",
+                  "coords": [
+                        108.249504,
+                        16.075965
+                  ]
+            },
+            {
+                  "name": "Cầu Rồng",
+                  "text": "Un pod emblematic, lung de 666 de metri, peste râul Han, proiectat sub forma unui dragon auriu.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227916,
+                        16.061167
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Đà Nẵng",
+                  "text": "Un muzeu regional situat aproape de coastă, care prezintă istoria și patrimoniul cultural din Da Nang.",
+                  "category": "museum",
+                  "coords": [
+                        108.223971,
+                        16.074835
+                  ]
+            },
+            {
+                  "name": "nhà thờ An Thượng",
+                  "text": "O biserică locală ce oferă un loc de adunare spirituală în cartierul An Thượng, aproape de plajă.",
+                  "category": "religious",
+                  "coords": [
+                        108.240888,
+                        16.048073
+                  ]
+            },
+            {
+                  "name": "Miếu Xóm An Mỹ",
+                  "text": "Un templu tradițional de cartier care deservește nevoile religioase ale comunității An Mỹ de lângă coastă.",
+                  "category": "religious",
+                  "coords": [
+                        108.230619,
+                        16.066273
+                  ]
+            },
+            {
+                  "name": "Chùa An Phước",
+                  "text": "O pagodă budistă liniștită situată în districtul de coastă, oferind un refugiu pașnic.",
+                  "category": "landmark",
+                  "coords": [
+                        108.2316,
+                        16.063448
+                  ]
+            },
+            {
+                  "name": "Miếu xóm",
+                  "text": "Un mic altar de cartier dedicat zeităților locale, reflectând viața spirituală tradițională din apropierea plajei.",
+                  "category": "religious",
+                  "coords": [
+                        108.242047,
+                        16.076434
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành",
+                  "text": "Un lăcaș de cult creștin protestant care deservește congregația locală de pe coasta My Khe.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235068,
+                        16.051979
+                  ]
+            },
+            {
+                  "name": "Tượng Phật Quan Âm - Chùa Mỹ Khê",
+                  "text": "O statuie budistă proeminentă a lui Bodhisattva Guanyin, situată la templul de coastă My Khe.",
+                  "category": "landmark",
+                  "coords": [
+                        108.242965,
+                        16.064345
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành An Hải",
+                  "text": "O biserică creștină evanghelică ce deservește parohia An Hải în apropierea zonei de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235767,
+                        16.063092
+                  ]
+            },
+            {
+                  "name": "Chùa An Hải",
+                  "text": "O pagodă budistă senină situată în cartierul An Hải, aproape de râul Han și de plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.23295,
+                        16.068014
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ An Hải",
+                  "text": "O biserică parohială catolică locală care oferă un loc de cult pentru comunitatea creștină din An Hải.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229808,
+                        16.069217
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lê Tộc - Tân Thái",
+                  "text": "O sală ancestrală budistă tradițională dedicată clanului Lê din satul de coastă Tan Thai.",
+                  "category": "landmark",
+                  "coords": [
+                        108.247323,
+                        16.089485
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Đức Mẹ Sao Biển",
+                  "text": "O biserică catolică dedicată Maicii Domnului Steaua Mării (Stella Maris), profund legată de comunitatea locală de pescari.",
+                  "category": "landmark",
+                  "coords": [
+                        108.248288,
+                        16.047846
+                  ]
+            },
+            {
+                  "name": "Cho Ha Than",
+                  "text": "O piață de zi plină de viață care oferă fructe de mare proaspete, legume și bunuri de uz zilnic în apropierea plajei.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231371,
+                        16.064696
+                  ]
+            },
+            {
+                  "name": "Chợ Đêm Sơn Trà",
+                  "text": "O piață de noapte vibrantă lângă Podul Dragonului, renumită pentru standurile sale cu mâncare stradală, fructe de mare proaspete și suveniruri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231444,
+                        16.060731
+                  ]
+            },
+            {
+                  "name": "Cong Hua Xa",
+                  "text": "Un centru comercial local plin de viață care oferă produse de bază și mărfuri regionale proaspete în apropierea coastei.",
+                  "category": "cultural",
+                  "coords": [
+                        108.239389,
+                        16.055859
+                  ]
+            },
+            {
+                  "name": "Chợ Phước Mỹ",
+                  "text": "O piață locală vibrantă din cartierul Phước Mỹ, cunoscută pentru oferta zilnică de fructe de mare proaspete și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242268,
+                        16.066547
+                  ]
+            },
+            {
+                  "name": "Chợ Mân Thái",
+                  "text": "O piață tradițională aglomerată cu fructe de mare, situată în zona satului de pescari Mân Thái, de-a lungul coastei.",
+                  "category": "cultural",
+                  "coords": [
+                        108.243379,
+                        16.085608
+                  ]
+            },
+            {
+                  "name": "Chợ Bắc Mỹ An",
+                  "text": "O piață locală populară lângă plajă, faimoasă pentru mâncarea sa stradală diversă și accesibilă.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242477,
+                        16.041679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tien Son Bridge",
+                  "text": "A modern road bridge crossing the Han River near the My Khe beach coast.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235272,
+                        16.035269
+                  ]
+            },
+            {
+                  "name": "Dragon's Head (Fire Show)",
+                  "text": "The eastern head of the famous Dragon Bridge, where a spectacular fire and water breathing show takes place on weekends.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229655,
+                        16.061248
+                  ]
+            },
+            {
+                  "name": "Tran Thi Ly Bridge",
+                  "text": "A striking cable-stayed bridge with a unique leaning tower design, spanning the Han River near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Old River Crossing Bridge",
+                  "text": "A historic bridge structure serving as an old crossing point over the river near My Khe.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Han River Bridge",
+                  "text": "A cable-stayed swing bridge across the Han River, the first of its kind built in Vietnam.",
+                  "category": "landmark",
+                  "coords": [
+                        108.226811,
+                        16.07214
+                  ]
+            },
+            {
+                  "name": "My Khe Beach",
+                  "text": "A wide, sandy coastline famously known for its smooth white sand, gentle waves, and palm-fringed shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        108.249504,
+                        16.075965
+                  ]
+            },
+            {
+                  "name": "Dragon Bridge",
+                  "text": "An iconic 666-meter-long bridge over the Han River designed in the shape of a golden dragon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227916,
+                        16.061167
+                  ]
+            },
+            {
+                  "name": "Đà Nẵng Museum",
+                  "text": "A regional museum showcasing the history and cultural heritage of Da Nang, located near the coast.",
+                  "category": "museum",
+                  "coords": [
+                        108.223971,
+                        16.074835
+                  ]
+            },
+            {
+                  "name": "nhà thờ An Thượng",
+                  "text": "A local church providing a spiritual gathering place in the An Thượng area near the beach.",
+                  "category": "religious",
+                  "coords": [
+                        108.240888,
+                        16.048073
+                  ]
+            },
+            {
+                  "name": "Xóm An Mỹ Temple",
+                  "text": "A traditional neighborhood temple serving the religious needs of the An Mỹ community near the coast.",
+                  "category": "religious",
+                  "coords": [
+                        108.230619,
+                        16.066273
+                  ]
+            },
+            {
+                  "name": "Chùa An Phước",
+                  "text": "A tranquil Buddhist pagoda situated in the coastal district, offering a peaceful retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.2316,
+                        16.063448
+                  ]
+            },
+            {
+                  "name": "Miếu xóm",
+                  "text": "A small neighborhood shrine dedicated to local deities, reflecting the traditional spiritual life near the beach.",
+                  "category": "religious",
+                  "coords": [
+                        108.242047,
+                        16.076434
+                  ]
+            },
+            {
+                  "name": "Protestantic Church",
+                  "text": "A Christian Protestant place of worship serving the local congregation near the My Khe coast.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235068,
+                        16.051979
+                  ]
+            },
+            {
+                  "name": "Guanyin Statue - My Khe Temple",
+                  "text": "A prominent Buddhist statue of the Bodhisattva Guanyin, located at the coastal My Khe Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        108.242965,
+                        16.064345
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tin Lành An Hải",
+                  "text": "An evangelical Christian church serving the An Hải parish near the coastal area.",
+                  "category": "landmark",
+                  "coords": [
+                        108.235767,
+                        16.063092
+                  ]
+            },
+            {
+                  "name": "Chùa An Hải",
+                  "text": "A serene Buddhist pagoda located in the An Hải neighborhood, close to the Han River and the beach.",
+                  "category": "landmark",
+                  "coords": [
+                        108.23295,
+                        16.068014
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo xứ An Hải",
+                  "text": "A local Catholic parish church providing a place of worship for the Christian community in An Hải.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229808,
+                        16.069217
+                  ]
+            },
+            {
+                  "name": "Clan Ancestral House of Lê - Tan Thai Village",
+                  "text": "A traditional Buddhist ancestral hall dedicated to the Lê clan in the coastal Tan Thai Village.",
+                  "category": "landmark",
+                  "coords": [
+                        108.247323,
+                        16.089485
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Đức Mẹ Sao Biển",
+                  "text": "A Catholic church dedicated to Our Lady Star of the Sea (Stella Maris), deeply connected to the local fishing community.",
+                  "category": "landmark",
+                  "coords": [
+                        108.248288,
+                        16.047846
+                  ]
+            },
+            {
+                  "name": "Day market",
+                  "text": "A bustling daytime marketplace offering fresh seafood, vegetables, and everyday goods near the beach.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231371,
+                        16.064696
+                  ]
+            },
+            {
+                  "name": "Son Tra Night Market",
+                  "text": "A vibrant evening market famous for its street food stalls, fresh seafood, and local souvenirs near the Dragon Bridge.",
+                  "category": "cultural",
+                  "coords": [
+                        108.231444,
+                        16.060731
+                  ]
+            },
+            {
+                  "name": "Cong Hua Xa",
+                  "text": "A lively local market center providing everyday essentials and fresh regional goods near the coast.",
+                  "category": "cultural",
+                  "coords": [
+                        108.239389,
+                        16.055859
+                  ]
+            },
+            {
+                  "name": "Phước Mỹ market",
+                  "text": "A vibrant local market in the Phước Mỹ ward, known for its daily supply of fresh seafood and groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242268,
+                        16.066547
+                  ]
+            },
+            {
+                  "name": "Chợ Mân Thái",
+                  "text": "A bustling traditional seafood market in the Mân Thái fishing village area along the coast.",
+                  "category": "cultural",
+                  "coords": [
+                        108.243379,
+                        16.085608
+                  ]
+            },
+            {
+                  "name": "Chợ Bắc Mỹ An",
+                  "text": "A popular local market near the beach, famous for its affordable and diverse street food.",
+                  "category": "cultural",
+                  "coords": [
+                        108.242477,
+                        16.041679
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-DN",
     coords: [108.250, 16.061],
@@ -339,7 +2256,124 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "mai-chau-valley-relief-v2",
+    id: "mai-chau-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thung Khe Pass Flagpole",
+                  "text": "Ein Panoramapunkt mit weitem Blick über das grüne Tal von Mai Chau und seine Reisfelder.",
+                  "category": "natural",
+                  "coords": [
+                        105.085279,
+                        20.676867
+                  ]
+            },
+            {
+                  "name": "Thai Museum",
+                  "text": "Ein privates Museum in einem Pfahlhaus, das die reiche Kultur und das Erbe der Weißen Thai präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        105.076791,
+                        20.649003
+                  ]
+            },
+            {
+                  "name": "Pom pha khoac",
+                  "text": "Ein Aussichtspunkt, der ein weites Panorama über das grüne Tal von Mai Chau mit seinen Reisfeldern und traditionellen Pfahlbauten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        105.004022,
+                        20.61374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thung Khe Pass Flagpole",
+                  "text": "Egy panorámás pont, ahonnan széles kilátás nyílik Mai Chau zöld völgyére és rizsföldjeire.",
+                  "category": "natural",
+                  "coords": [
+                        105.085279,
+                        20.676867
+                  ]
+            },
+            {
+                  "name": "Thai Museum",
+                  "text": "Egy cölöpházban berendezett magánmúzeum, amely a fehér thai nép gazdag kultúráját és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        105.076791,
+                        20.649003
+                  ]
+            },
+            {
+                  "name": "Pom pha khoac",
+                  "text": "Kilátópont, ahonnan pazar panoráma nyílik a zöldellő Mai Chau-völgy rizsföldjeire és hagyományos cölöpházaira.",
+                  "category": "natural",
+                  "coords": [
+                        105.004022,
+                        20.61374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thung Khe Pass Flagpole",
+                  "text": "Un punct panoramic cu o vedere largă asupra văii verzi Mai Chau și a câmpurilor sale de orez.",
+                  "category": "natural",
+                  "coords": [
+                        105.085279,
+                        20.676867
+                  ]
+            },
+            {
+                  "name": "Thai Museum",
+                  "text": "Un muzeu privat într-o casă pe piloni, care prezintă cultura bogată și moștenirea poporului Thai Alb.",
+                  "category": "museum",
+                  "coords": [
+                        105.076791,
+                        20.649003
+                  ]
+            },
+            {
+                  "name": "Pom pha khoac",
+                  "text": "Un punct de observație care oferă o panoramă vastă asupra văii verzi Mai Chau, cu orezăriile sale și casele tradiționale pe piloni.",
+                  "category": "natural",
+                  "coords": [
+                        105.004022,
+                        20.61374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint over Mai Chau Valley",
+                  "text": "A panoramic point with a wide view over the green Mai Chau valley and its rice fields.",
+                  "category": "natural",
+                  "coords": [
+                        105.085279,
+                        20.676867
+                  ]
+            },
+            {
+                  "name": "Thai Museum",
+                  "text": "A private museum in a stilt house presenting the rich culture and heritage of the White Thai people.",
+                  "category": "museum",
+                  "coords": [
+                        105.076791,
+                        20.649003
+                  ]
+            },
+            {
+                  "name": "View over mai chau valley (ask for a guide)",
+                  "text": "A viewpoint offering a wide panorama over the lush Mai Chau valley with its rice paddies and traditional stilt houses.",
+                  "category": "natural",
+                  "coords": [
+                        105.004022,
+                        20.61374
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "VN-08",
     coords: [105.083, 20.650],
@@ -387,7 +2421,160 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "bach-dang-river-mouth-coast-v2",
+    id: "bach-dang-river-mouth-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cau Dinh Vu - Cat Hai",
+                  "text": "Große Brücke über die Nam-Trieu-Mündung, die das Industriezentrum anbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.828305,
+                        20.806673
+                  ]
+            },
+            {
+                  "name": "Cầu Bạch Đằng",
+                  "text": "Markante Schrägseilbrücke über den Bach-Dang-Fluss mit drei H-förmigen Türmen.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765363,
+                        20.847803
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lương Khê",
+                  "text": "Christliche Kirche mit einem hohen Glockenturm und traditionellem Kirchhof.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740515,
+                        20.817515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Bi Khê",
+                  "text": "Kleine katholische Kapelle in ruhiger, ländlicher Lage an der Flussmündung.",
+                  "category": "religious",
+                  "coords": [
+                        106.740033,
+                        20.806474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cau Dinh Vu - Cat Hai",
+                  "text": "Nagy híd a Nam Trieu torkolatánál, amely az ipari központot köti össze a várossal.",
+                  "category": "landmark",
+                  "coords": [
+                        106.828305,
+                        20.806673
+                  ]
+            },
+            {
+                  "name": "Cầu Bạch Đằng",
+                  "text": "Jellegzetes ferdekábeles híd a Bach Dang folyón, három H alakú toronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765363,
+                        20.847803
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lương Khê",
+                  "text": "Keresztény templom magas harangtoronnyal és hagyományos templomkerttel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740515,
+                        20.817515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Bi Khê",
+                  "text": "Kis katolikus kápolna csendes, vidéki környezetben a folyótorkolatnál.",
+                  "category": "religious",
+                  "coords": [
+                        106.740033,
+                        20.806474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cau Dinh Vu - Cat Hai",
+                  "text": "Pod mare peste gura de vărsare a râului Nam Trieu, care conectează centrul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        106.828305,
+                        20.806673
+                  ]
+            },
+            {
+                  "name": "Cầu Bạch Đằng",
+                  "text": "Pod hobanat distinctiv peste râul Bach Dang, cu trei turnuri în formă de H.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765363,
+                        20.847803
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lương Khê",
+                  "text": "Biserică creștină cu o clopotniță înaltă și o curte tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740515,
+                        20.817515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Bi Khê",
+                  "text": "Mică capelă catolică într-un cadru rural liniștit, la gura de vărsare a râului.",
+                  "category": "religious",
+                  "coords": [
+                        106.740033,
+                        20.806474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinh Vu Bridge",
+                  "text": "Large bridge over the Nam Trieu estuary connecting the industrial center.",
+                  "category": "landmark",
+                  "coords": [
+                        106.828305,
+                        20.806673
+                  ]
+            },
+            {
+                  "name": "Bach Dang Bridge",
+                  "text": "Striking cable-stayed bridge over the Bach Dang River with three H-shaped towers.",
+                  "category": "landmark",
+                  "coords": [
+                        106.765363,
+                        20.847803
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Lương Khê",
+                  "text": "Christian church featuring a tall bell tower and a traditional courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        106.740515,
+                        20.817515
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Bi Khê",
+                  "text": "Small Catholic chapel in a quiet, rural setting by the river mouth.",
+                  "category": "religious",
+                  "coords": [
+                        106.740033,
+                        20.806474
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-HP",
     coords: [106.800, 20.816],
@@ -483,7 +2670,736 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "mu-ne-dunes-coast-v2",
+    id: "mu-ne-dunes-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fisherman's harbor",
+                  "text": "Eine malerische Küstenbucht in Mui Ne, in der sich Hunderte von traditionellen, bunt bemalten runden Korbbooten drängen.",
+                  "category": "landmark",
+                  "coords": [
+                        108.282518,
+                        10.934463
+                  ]
+            },
+            {
+                  "name": "mui ne cape",
+                  "text": "Eine dramatische felsige Landzunge, die ins Meer ragt und einen weiten Blick auf die Küste von Mui Ne bietet.",
+                  "category": "natural",
+                  "coords": [
+                        108.284442,
+                        10.916421
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Dieser erhöhte Küstenpunkt in der Nähe der Dünen von Mui Ne ist perfekt positioniert, um den Sonnenaufgang über dem Südchinesischen Meer zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        108.295446,
+                        10.927709
+                  ]
+            },
+            {
+                  "name": "Bang Lai Ten Canh",
+                  "text": "Eine markante Naturattraktion in der Nähe von Mui Ne mit tiefen Schluchten, die in die leuchtend roten Sanddünen gegraben wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        108.306903,
+                        10.955356
+                  ]
+            },
+            {
+                  "name": "I Love Mui Ne",
+                  "text": "Ein farbenfrohes, großes Schild vor der Kulisse der Küste, das Touristen als beliebter Fotostopp dient.",
+                  "category": "landmark",
+                  "coords": [
+                        108.268426,
+                        10.945936
+                  ]
+            },
+            {
+                  "name": "Fairy Stream",
+                  "text": "Ein flacher, knöcheltiefer Wasserweg in der Nähe von Mui Ne, der sich durch dramatische rote und weiße Kalksteinformationen schlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        108.256701,
+                        10.952008
+                  ]
+            },
+            {
+                  "name": "Vita Garden Mini-Zoo",
+                  "text": "Ein kleiner Tierpark in der Nähe der Dünen von Mui Ne, der regionale Fauna in üppigen, gartenähnlichen Gehegen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        108.258783,
+                        10.954332
+                  ]
+            },
+            {
+                  "name": "Fairy Stream Waterfall",
+                  "text": "Eine bescheidene, aber malerische Kaskade am Ende des berühmten, sandigen Fairy Stream von Mui Ne.",
+                  "category": "landmark",
+                  "coords": [
+                        108.262472,
+                        10.958268
+                  ]
+            },
+            {
+                  "name": "Sunrise view",
+                  "text": "Ein beliebter Sandkamm in Mui Ne, der am Morgen einen ungetrübten Blick auf den glitzernden Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        108.349525,
+                        11.00404
+                  ]
+            },
+            {
+                  "name": "Resort Mũi Né 1",
+                  "text": "Dieses Strandresort in Mui Ne bietet direkten Zugang zur sandigen Küste und zu tropischen Gärten.",
+                  "category": "recreational",
+                  "coords": [
+                        108.338522,
+                        10.963752
+                  ]
+            },
+            {
+                  "name": "Rote Düne",
+                  "text": "Weite wellenförmige Hügel aus rotbraunem Sand, berühmt als Ziel für den Sonnenuntergang und zum Sandboarding auf Plastikschlitten.",
+                  "category": "landmark",
+                  "coords": [
+                        108.295693,
+                        10.949658
+                  ]
+            },
+            {
+                  "name": "Bãi tắm Hàm Tiến",
+                  "text": "Ein langer, sandiger Küstenabschnitt in Mui Ne, der für seine starke Meeresbrise und sein erstklassiges Kitesurfen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        108.222197,
+                        10.945777
+                  ]
+            },
+            {
+                  "name": "linh long",
+                  "text": "Ein traditioneller Kultort hoch über der Küste von Mui Ne, der der örtlichen Fischergemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        108.285785,
+                        10.927678
+                  ]
+            },
+            {
+                  "name": "Chùa Thiện Quang",
+                  "text": "Ein friedlicher buddhistischer Tempel in der Nähe der Dünen von Mui Ne, der einen ruhigen Rückzugsort vom geschäftigen Küstenstreifen bietet.",
+                  "category": "religious",
+                  "coords": [
+                        108.261586,
+                        10.97099
+                  ]
+            },
+            {
+                  "name": "Langông Longsón",
+                  "text": "Dieses lokale Heiligtum dient als spiritueller Treffpunkt nahe den Wanderdünen von Mui Ne.",
+                  "category": "religious",
+                  "coords": [
+                        108.328406,
+                        10.955997
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Mui Ne",
+                  "text": "Diese christliche Küstengemeinde bietet der lokalen katholischen Fischergemeinde von Mui Ne einen Ort der Anbetung.",
+                  "category": "landmark",
+                  "coords": [
+                        108.283758,
+                        10.927687
+                  ]
+            },
+            {
+                  "name": "Chợ Hàm Tiến(market)",
+                  "text": "Ein lebhafter Küstenmarkt in Ham Tien, auf dem frische lokale Meeresfrüchte und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        108.24514,
+                        10.954117
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "Dieser kompakte Nachbarschaftsmarkt versorgt die Bewohner an der Küste von Mui Ne mit täglichen Lebensmitteln und frischen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        108.200097,
+                        10.947351
+                  ]
+            },
+            {
+                  "name": "Chợ Mũi Né",
+                  "text": "Als kommerzielles Zentrum des Fischerdorfes quillt dieser traditionelle Markt morgens vor frischem Meeresfrüchtefang über.",
+                  "category": "cultural",
+                  "coords": [
+                        108.286809,
+                        10.93577
+                  ]
+            },
+            {
+                  "name": "Dong Vui Square",
+                  "text": "Ein belebter Open-Air-Food-Court in Mui Ne, der eine vielfältige Auswahl an lokalem Streetfood und Craft-Bieren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        108.247156,
+                        10.953798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fisherman's harbor",
+                  "text": "Egy festői tengerparti öböl Mui Né-ben, amely tele van több száz hagyományos, élénkre festett kerek kosárcsónakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        108.282518,
+                        10.934463
+                  ]
+            },
+            {
+                  "name": "mui ne cape",
+                  "text": "Egy drámai sziklás hegyfok, amely a tengerbe nyúlik, és lenyűgöző kilátást nyújt a Mui Ne partszakaszra.",
+                  "category": "natural",
+                  "coords": [
+                        108.284442,
+                        10.916421
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Ez a Mui Ne dűnék közelében lévő megemelt parti pont tökéletes helyszín a Dél-kínai-tenger felett felkelő nap megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        108.295446,
+                        10.927709
+                  ]
+            },
+            {
+                  "name": "Bang Lai Ten Canh",
+                  "text": "Egy lenyűgöző természeti látványosság Mui Ne közelében, amelynek mély vízmosásait az élénk vöröses homokdűnékbe vájták.",
+                  "category": "landmark",
+                  "coords": [
+                        108.306903,
+                        10.955356
+                  ]
+            },
+            {
+                  "name": "I Love Mui Ne",
+                  "text": "Egy élénk, nagyméretű felirat a tengerparti háttér előtt, amely népszerű fotómegálló a turisták számára.",
+                  "category": "landmark",
+                  "coords": [
+                        108.268426,
+                        10.945936
+                  ]
+            },
+            {
+                  "name": "Fairy Stream",
+                  "text": "Egy sekély, bokáig érő vízfolyás Mui Ne közelében, amely drámai vörös és fehér mészkőképződmények között kanyarog.",
+                  "category": "landmark",
+                  "coords": [
+                        108.256701,
+                        10.952008
+                  ]
+            },
+            {
+                  "name": "Vita Garden Mini-Zoo",
+                  "text": "Egy kis állatpark a Mui Ne dűnék közelében, amely buja, kertszerű kifutókban mutatja be a regionális faunát.",
+                  "category": "recreational",
+                  "coords": [
+                        108.258783,
+                        10.954332
+                  ]
+            },
+            {
+                  "name": "Fairy Stream Waterfall",
+                  "text": "Egy szerény, de festői vízesés Mui Ne híres homokos medrű Tündér-patakjának végén.",
+                  "category": "landmark",
+                  "coords": [
+                        108.262472,
+                        10.958268
+                  ]
+            },
+            {
+                  "name": "Sunrise view",
+                  "text": "Egy népszerű homokos gerinc Mui Né-ben, amely akadálytalan reggeli kilátást nyújt a csillogó óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        108.349525,
+                        11.00404
+                  ]
+            },
+            {
+                  "name": "Resort Mũi Né 1",
+                  "text": "Ez a tengerparti üdülőhely Mui Né-ben közvetlen hozzáférést biztosít a homokos parthoz és a trópusi kertekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        108.338522,
+                        10.963752
+                  ]
+            },
+            {
+                  "name": "Đồi cát bay Mũi Né",
+                  "text": "Hatalmas, hullámzó vörösesbarna homokdombok, amelyek népszerű célpontok naplementekor és műanyag szánkós homokdeszkázáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        108.295693,
+                        10.949658
+                  ]
+            },
+            {
+                  "name": "Bãi tắm Hàm Tiến",
+                  "text": "Egy hosszú, homokos partszakasz Mui Né-ben, amely erős tengeri szellőiről és világszínvonalú kiteszörfözéséről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        108.222197,
+                        10.945777
+                  ]
+            },
+            {
+                  "name": "linh long",
+                  "text": "A Mui Ne-i part felett magasodó hagyományos istentiszteleti hely, amely a helyi halászközösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        108.285785,
+                        10.927678
+                  ]
+            },
+            {
+                  "name": "Chùa Thiện Quang",
+                  "text": "Egy békés buddhista templom a Mui Ne dűnék közelében, amely csendes menedéket kínál a forgalmas tengerparti sávtól.",
+                  "category": "religious",
+                  "coords": [
+                        108.261586,
+                        10.97099
+                  ]
+            },
+            {
+                  "name": "Langông Longsón",
+                  "text": "Ez a helyi szentély a Mũi Né-i mozgó dűnék közelében található spirituális gyülekezési hely.",
+                  "category": "religious",
+                  "coords": [
+                        108.328406,
+                        10.955997
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Mũi Né",
+                  "text": "Ez a part menti keresztény plébánia istentiszteleti helyet kínál Mũi Né helyi katolikus halászközösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        108.283758,
+                        10.927687
+                  ]
+            },
+            {
+                  "name": "Chợ Hàm Tiến(market)",
+                  "text": "Egy nyüzsgő part menti piac Hàm Tiếnben, ahol a helyi árusok friss tenger gyümölcseit és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        108.24514,
+                        10.954117
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "Ez a kompakt környékbeli piac napi élelmiszerekkel és friss termékekkel látja el a Mũi Né partja közelében élőket.",
+                  "category": "cultural",
+                  "coords": [
+                        108.200097,
+                        10.947351
+                  ]
+            },
+            {
+                  "name": "Chợ Mũi Né",
+                  "text": "A halászfalu fő kereskedelmi központja ez a hagyományos piac, amely reggelente tele van friss tengeri fogásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        108.286809,
+                        10.93577
+                  ]
+            },
+            {
+                  "name": "Dong Vui Square",
+                  "text": "Egy nyüzsgő szabadtéri ételudvar Mũi Né-ben, amely a helyi street food és a kézműves sörök változatos választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        108.247156,
+                        10.953798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fisherman's harbor",
+                  "text": "Un golf de coastă pitoresc în Mui Ne plin cu sute de bărci rotunde tradiționale, pictate în culori vii.",
+                  "category": "landmark",
+                  "coords": [
+                        108.282518,
+                        10.934463
+                  ]
+            },
+            {
+                  "name": "mui ne cape",
+                  "text": "Un promontoriu stâncos dramatic care iese în mare, oferind vederi panoramice ale coastei Mui Ne.",
+                  "category": "natural",
+                  "coords": [
+                        108.284442,
+                        10.916421
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Acest punct de coastă ridicat lângă dunele Mui Ne este perfect poziționat pentru a privi răsăritul soarelui peste Marea Chinei de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        108.295446,
+                        10.927709
+                  ]
+            },
+            {
+                  "name": "Bang Lai Ten Canh",
+                  "text": "O atracție naturală uimitoare lângă Mui Ne, cu râpe adânci sculptate în dunele de nisip roșiatic viu.",
+                  "category": "landmark",
+                  "coords": [
+                        108.306903,
+                        10.955356
+                  ]
+            },
+            {
+                  "name": "I Love Mui Ne",
+                  "text": "Un semn mare și vibrant, cu fundalul coastei, care servește drept oprire populară pentru fotografii pentru turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        108.268426,
+                        10.945936
+                  ]
+            },
+            {
+                  "name": "Fairy Stream",
+                  "text": "O cale navigabilă superficială, până la glezne, lângă Mui Ne, care șerpuiește prin formațiuni dramatice de calcar roșu și alb.",
+                  "category": "landmark",
+                  "coords": [
+                        108.256701,
+                        10.952008
+                  ]
+            },
+            {
+                  "name": "Vita Garden Mini-Zoo",
+                  "text": "Un mic parc de animale lângă dunele Mui Ne care expune faună regională în incinte luxuriante, asemănătoare unor grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        108.258783,
+                        10.954332
+                  ]
+            },
+            {
+                  "name": "Fairy Stream Waterfall",
+                  "text": "O cascadă modestă, dar pitorească la capătul celebrului pârâu Fairy Stream cu fundul de nisip din Mui Ne.",
+                  "category": "landmark",
+                  "coords": [
+                        108.262472,
+                        10.958268
+                  ]
+            },
+            {
+                  "name": "Sunrise view",
+                  "text": "O creastă de nisip populară în Mui Ne, care oferă vederi neobstrucționate de dimineață asupra oceanului strălucitor.",
+                  "category": "natural",
+                  "coords": [
+                        108.349525,
+                        11.00404
+                  ]
+            },
+            {
+                  "name": "Resort Mũi Né 1",
+                  "text": "Această stațiune pe plajă din Mui Ne oferă acces direct la țărmul nisipos și la grădinile tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        108.338522,
+                        10.963752
+                  ]
+            },
+            {
+                  "name": "Đồi cát bay Mũi Né",
+                  "text": "Movile vaste ondulate de nisip maro-roșiatic, faimoase ca destinație la apus și pentru sandboarding pe sănii de plastic.",
+                  "category": "landmark",
+                  "coords": [
+                        108.295693,
+                        10.949658
+                  ]
+            },
+            {
+                  "name": "Bãi tắm Hàm Tiến",
+                  "text": "O întindere lungă și nisipoasă de coastă din Mui Ne, renumită pentru briza puternică a mării și pentru kitesurfing de clasă mondială.",
+                  "category": "recreational",
+                  "coords": [
+                        108.222197,
+                        10.945777
+                  ]
+            },
+            {
+                  "name": "linh long",
+                  "text": "Un lăcaș de cult tradițional cocoțat deasupra coastei Mui Ne, care deservește comunitatea locală de pescuit.",
+                  "category": "religious",
+                  "coords": [
+                        108.285785,
+                        10.927678
+                  ]
+            },
+            {
+                  "name": "Chùa Thiện Quang",
+                  "text": "Un templu budist liniștit amplasat lângă dunele Mui Ne, oferind un refugiu liniștit departe de fâșia de coastă aglomerată.",
+                  "category": "religious",
+                  "coords": [
+                        108.261586,
+                        10.97099
+                  ]
+            },
+            {
+                  "name": "Langông Longsón",
+                  "text": "Acest sanctuar local servește drept punct de adunare spirituală în apropierea dunelor mișcătoare din Mui Ne.",
+                  "category": "religious",
+                  "coords": [
+                        108.328406,
+                        10.955997
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Mũi Né",
+                  "text": "Această parohie creștină de coastă oferă un loc de cult pentru comunitatea locală de pescari catolici din Mui Ne.",
+                  "category": "landmark",
+                  "coords": [
+                        108.283758,
+                        10.927687
+                  ]
+            },
+            {
+                  "name": "Chợ Hàm Tiến(market)",
+                  "text": "O piață de coastă plină de viață în Ham Tien, unde vânzătorii comercializează fructe de mare proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        108.24514,
+                        10.954117
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "Această piață compactă de cartier furnizează alimente zilnice și produse proaspete locuitorilor de lângă coasta Mui Ne.",
+                  "category": "cultural",
+                  "coords": [
+                        108.200097,
+                        10.947351
+                  ]
+            },
+            {
+                  "name": "Chợ Mũi Né",
+                  "text": "Principalul centru comercial al satului de pescari, această piață tradițională este plină dimineața cu captura proaspătă de fructe de mare.",
+                  "category": "cultural",
+                  "coords": [
+                        108.286809,
+                        10.93577
+                  ]
+            },
+            {
+                  "name": "Dong Vui Square",
+                  "text": "O zonă animată cu terase în aer liber în Mui Ne, oferind o selecție diversă de mâncare stradală locală și beri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        108.247156,
+                        10.953798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fisherman's harbor",
+                  "text": "A picturesque coastal bay in Mui Ne crowded with hundreds of traditional, brightly painted round coracle boats.",
+                  "category": "landmark",
+                  "coords": [
+                        108.282518,
+                        10.934463
+                  ]
+            },
+            {
+                  "name": "mui ne cape",
+                  "text": "A dramatic rocky promontory jutting into the sea, offering sweeping views of the Mui Ne coastline.",
+                  "category": "natural",
+                  "coords": [
+                        108.284442,
+                        10.916421
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "This elevated coastal spot near the Mui Ne dunes is perfectly positioned to watch the sun rise over the South China Sea.",
+                  "category": "natural",
+                  "coords": [
+                        108.295446,
+                        10.927709
+                  ]
+            },
+            {
+                  "name": "Red canyon",
+                  "text": "A striking natural attraction near Mui Ne featuring deep ravines carved into vivid reddish sand dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        108.306903,
+                        10.955356
+                  ]
+            },
+            {
+                  "name": "I Love Mui Ne",
+                  "text": "A vibrant, large-scale sign set against the coastal backdrop, serving as a popular photo stop for tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        108.268426,
+                        10.945936
+                  ]
+            },
+            {
+                  "name": "Fairy Stream",
+                  "text": "A shallow, ankle-deep waterway near Mui Ne that meanders through dramatic red and white limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        108.256701,
+                        10.952008
+                  ]
+            },
+            {
+                  "name": "Vita Garden Mini-Zoo",
+                  "text": "A small animal park near the Mui Ne dunes exhibiting regional fauna in lush, garden-like enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        108.258783,
+                        10.954332
+                  ]
+            },
+            {
+                  "name": "Fairy Stream Waterfall",
+                  "text": "A modest but picturesque cascade at the end of Mui Ne's famous sandy-bottomed Fairy Stream.",
+                  "category": "landmark",
+                  "coords": [
+                        108.262472,
+                        10.958268
+                  ]
+            },
+            {
+                  "name": "Sunrise view",
+                  "text": "A popular sandy ridge in Mui Ne offering unobstructed morning views of the glittering ocean.",
+                  "category": "natural",
+                  "coords": [
+                        108.349525,
+                        11.00404
+                  ]
+            },
+            {
+                  "name": "Resort Mũi Né 1",
+                  "text": "This beachfront resort in Mui Ne offers direct access to the sandy shoreline and tropical gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        108.338522,
+                        10.963752
+                  ]
+            },
+            {
+                  "name": "Mui Ne Red Sand Dunes",
+                  "text": "Vast undulating mounds of reddish-brown sand, famous as a sunset destination and for plastic-sled sandboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        108.295693,
+                        10.949658
+                  ]
+            },
+            {
+                  "name": "Ham Tien Beach",
+                  "text": "A long, sandy stretch of coast in Mui Ne renowned for its strong sea breezes and world-class kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        108.222197,
+                        10.945777
+                  ]
+            },
+            {
+                  "name": "linh long",
+                  "text": "A traditional place of worship perched above the Mui Ne coast, serving the local fishing community.",
+                  "category": "religious",
+                  "coords": [
+                        108.285785,
+                        10.927678
+                  ]
+            },
+            {
+                  "name": "Chùa Thiện Quang",
+                  "text": "A peaceful Buddhist temple nestled near the Mui Ne dunes, offering a quiet retreat from the busy coastal strip.",
+                  "category": "religious",
+                  "coords": [
+                        108.261586,
+                        10.97099
+                  ]
+            },
+            {
+                  "name": "Langông Longsón",
+                  "text": "This local sanctuary serves as a spiritual gathering point near the shifting sands of the Mui Ne dunes.",
+                  "category": "religious",
+                  "coords": [
+                        108.328406,
+                        10.955997
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Mui Ne",
+                  "text": "This coastal Christian parish offers a place of worship for the local Catholic fishing community of Mui Ne.",
+                  "category": "landmark",
+                  "coords": [
+                        108.283758,
+                        10.927687
+                  ]
+            },
+            {
+                  "name": "Chợ Hàm Tiến(market)",
+                  "text": "A lively coastal market in Ham Tien where vendors trade fresh local seafood and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        108.24514,
+                        10.954117
+                  ]
+            },
+            {
+                  "name": "Small market",
+                  "text": "This compact neighborhood market supplies daily groceries and fresh produce to the residents near the Mui Ne coast.",
+                  "category": "cultural",
+                  "coords": [
+                        108.200097,
+                        10.947351
+                  ]
+            },
+            {
+                  "name": "Chợ Mũi Né",
+                  "text": "The main commercial hub of the fishing village, this traditional market brims with the morning's fresh seafood catch.",
+                  "category": "cultural",
+                  "coords": [
+                        108.286809,
+                        10.93577
+                  ]
+            },
+            {
+                  "name": "Dong Vui Square",
+                  "text": "A bustling open-air food court area in Mui Ne offering a diverse selection of local street food and craft beers.",
+                  "category": "cultural",
+                  "coords": [
+                        108.247156,
+                        10.953798
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-31",
     coords: [108.283, 10.950],
@@ -531,7 +3447,52 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "van-phong-bay-coast-v2",
+    id: "van-phong-bay-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bến Gôi",
+                  "text": "Eine malerische Bucht entlang der Küste von Van Phong, bekannt für ihre ruhigen Gewässer und landschaftlich reizvollen Ufer.",
+                  "category": "landmark",
+                  "coords": [
+                        109.299616,
+                        12.683347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bến Gôi",
+                  "text": "Festői öböl a Van Phong partvonal mentén, amely nyugodt vizéről és festői partjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.299616,
+                        12.683347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bến Gôi",
+                  "text": "Un golf pitoresc de-a lungul coastei Van Phong, cunoscut pentru apele sale liniștite și țărmurile pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        109.299616,
+                        12.683347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bến Gôi",
+                  "text": "A picturesque bay along the Van Phong coastline known for its tranquil waters and scenic shores.",
+                  "category": "landmark",
+                  "coords": [
+                        109.299616,
+                        12.683347
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-34",
     coords: [109.333, 12.600],
@@ -579,7 +3540,772 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "hon-kho-island-coast-v2",
+    id: "hon-kho-island-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Buddha on the mountain entrance",
+                  "text": "Dieser beeindruckende Eingangsbereich markiert den Beginn des steilen Aufstiegs zu einer prominenten Buddha-Statue auf dem Hügel, die über die Küstenbucht blickt.",
+                  "category": "landmark",
+                  "coords": [
+                        109.237489,
+                        13.950706
+                  ]
+            },
+            {
+                  "name": "Vinaliving Lifestyle Clubs",
+                  "text": "Dieser moderne Küstenresort-Club bietet luxuriöse Annehmlichkeiten, Infinity-Pools und exklusiven Zugang zu den Sandstränden der Halbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        109.242828,
+                        13.931175
+                  ]
+            },
+            {
+                  "name": "Beache's Four",
+                  "text": "Von diesem erhöhten Felsvorsprung aus können Besucher einen spektakulären Blick auf vier miteinander verbundene Sandbuchten genießen, die von Meeresströmungen geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        109.24865,
+                        13.929426
+                  ]
+            },
+            {
+                  "name": "Khu chứng tích Tân Giản",
+                  "text": "Diese feierliche Kriegsgedenkstätte bewahrt die Geschichte der Region Tan Gian mit erhaltenen Artefakten und Gedenktafeln.",
+                  "category": "historical",
+                  "coords": [
+                        109.209092,
+                        13.898898
+                  ]
+            },
+            {
+                  "name": "Kỳ Co",
+                  "text": "Eingebettet unter dramatischen, zerklüfteten Klippen, wird dieser halbmondförmige Strand für sein erstaunlich klares, türkisfarbenes Wasser und den weichen weißen Sand gefeiert.",
+                  "category": "recreational",
+                  "coords": [
+                        109.292335,
+                        13.850121
+                  ]
+            },
+            {
+                  "name": "Làng bích họa Nhơn Lý 02",
+                  "text": "Die schmalen Küstengassen hier wurden in eine lebendige Open-Air-Galerie verwandelt, die farbenfrohe Wandgemälde des lokalen Fischerlebens zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        109.289552,
+                        13.885414
+                  ]
+            },
+            {
+                  "name": "Làng Bích Hoạ 01",
+                  "text": "Dieser Teil des Wandmalereidorfes Nhon Ly bietet wunderschön bemalte Häuser, die Meereswellen und traditionelle Korbboote darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        109.287754,
+                        13.885381
+                  ]
+            },
+            {
+                  "name": "Eo Gio",
+                  "text": "Dieser dramatische Küstenpass, bekannt als die Windige Meerenge, verfügt über einen atemberaubenden gepflasterten Gehweg, der sich an die steilen, felsigen Klippen über dem schäumenden Ozean schmiegt.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291412,
+                        13.89088
+                  ]
+            },
+            {
+                  "name": "BenOnTrack Viewpoint",
+                  "text": "Dieser Küstenaussichtspunkt mit Blick auf die zerklüftete Küste ist ein idealer Ort für Wanderbegeisterte, um sich auszuruhen und den endlosen blauen Horizont zu fotografieren.",
+                  "category": "natural",
+                  "coords": [
+                        109.29324,
+                        13.89402
+                  ]
+            },
+            {
+                  "name": "Núi Kỳ Sơn",
+                  "text": "Eine Wanderung zum Gipfel dieses schroffen Küstengebirges belohnt Besucher mit weiten Panoramablicken auf die umliegenden Buchten und Fischerdörfer.",
+                  "category": "natural",
+                  "coords": [
+                        109.187388,
+                        13.840858
+                  ]
+            },
+            {
+                  "name": "Tháp Bình Lâm",
+                  "text": "Dieser alte rote Hindu-Turm aus Backstein ist ein architektonisches Überbleibsel des Champa-Königreichs und zeichnet sich durch seine kunstvollen dekorativen Pilaster und Torbögen aus.",
+                  "category": "historical",
+                  "coords": [
+                        109.185485,
+                        13.890304
+                  ]
+            },
+            {
+                  "name": "Nhà lưu niệm nhà thơ Xuân Diệu",
+                  "text": "Dieses traditionelle Gedenkanwesen ehrt den berühmten vietnamesischen Dichter Xuan Dieu und zeigt seine persönlichen Manuskripte und Lebensgeschichte in einem ruhigen Garten.",
+                  "category": "historical",
+                  "coords": [
+                        109.205937,
+                        13.901938
+                  ]
+            },
+            {
+                  "name": "Cat Chanh beach",
+                  "text": "Dieser ruhige Sandstrand bietet sanfte Wellen und einen friedlichen Rückzugsort abseits der überfüllten Touristenbuchten.",
+                  "category": "recreational",
+                  "coords": [
+                        109.254986,
+                        13.920705
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Xa",
+                  "text": "Diese lokale buddhistische Pagode wird von alten Bodhi-Bäumen beschattet und verfügt über elegant geschwungene Dachvorsprünge sowie einen ruhigen Innenhof, der dem täglichen Gebet gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        109.295377,
+                        13.878226
+                  ]
+            },
+            {
+                  "name": "Chùa Giác Hải (Nhơn Lý)",
+                  "text": "Eingebettet im Küstendorf Nhon Ly, dient diese lebendige Pagode als spirituelles Zentrum der lokalen Fischergemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        109.291018,
+                        13.875061
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Hòa",
+                  "text": "Dieses markante buddhistische Heiligtum mit Blick auf den weiten Ozean ist berühmt für seine gewaltige doppelseitige Statue der Göttin der Barmherzigkeit, die über das Meer wacht.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291295,
+                        13.885792
+                  ]
+            },
+            {
+                  "name": "Ngọc Sơn",
+                  "text": "Dieser am Hang gelegene Kultort zeichnet sich durch sein klassisches rotes Ziegeldach und einen ruhigen Meditationsgarten aus, der von üppigem tropischem Laub beschattet wird.",
+                  "category": "religious",
+                  "coords": [
+                        109.189853,
+                        13.851558
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Mỹ Cang",
+                  "text": "Dieses lokale religiöse Gebäude verfügt über einen markanten Gebetsraum, der einen zentralen Punkt für die spirituelle Gemeinschaft im Gebiet My Cang bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        109.183309,
+                        13.873571
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "Gekennzeichnet durch ein hoch aufragendes zentrales Kreuz und eine weiß getünchte Fassade, versammelt diese Küstenkirche die lokalen christlichen Gläubigen zur Sonntagsmesse.",
+                  "category": "religious",
+                  "coords": [
+                        109.206256,
+                        13.883749
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vĩnh Thạnh",
+                  "text": "Diese regionale christliche Pfarrkirche verfügt über ein wunderschönes Kirchenschiff mit Buntglasfenstern und bietet eine ruhige Umgebung für den Gemeindegottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        109.201419,
+                        13.902018
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Bồi (mới)",
+                  "text": "Dieser neue, belebte Markt nahe der Küste bietet eine reiche Auswahl an regionalen Produkten und frischem Meeresfang.",
+                  "category": "cultural",
+                  "coords": [
+                        109.206674,
+                        13.904742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Buddha on the mountain entrance",
+                  "text": "Ez a grandiózus bejárat jelzi a meredek emelkedő kezdetét, amely egy kiemelkedő, dombtetőn álló Buddha-szoborhoz vezet, ahonnan kilátás nyílik a tengerparti öbölre.",
+                  "category": "landmark",
+                  "coords": [
+                        109.237489,
+                        13.950706
+                  ]
+            },
+            {
+                  "name": "Vinaliving Lifestyle Clubs",
+                  "text": "Ez a modern tengerparti üdülőklub luxus szolgáltatásokat, feszített víztükrű medencéket és exkluzív hozzáférést biztosít a félsziget homokos partjaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        109.242828,
+                        13.931175
+                  ]
+            },
+            {
+                  "name": "Beache's Four",
+                  "text": "Erről a megemelt sziklás hegyfokról a látogatók látványos képet kaphatnak négy egymáshoz kapcsolódó, az óceáni áramlatok által formált homokos öbölről.",
+                  "category": "natural",
+                  "coords": [
+                        109.24865,
+                        13.929426
+                  ]
+            },
+            {
+                  "name": "Khu chứng tích Tân Giản",
+                  "text": "Ez az ünnepélyes háborús emlékhely a Tan Gian régió történelmét őrzi a fennmaradt műtárgyakkal és emléktáblákkal.",
+                  "category": "historical",
+                  "coords": [
+                        109.209092,
+                        13.898898
+                  ]
+            },
+            {
+                  "name": "Kỳ Co",
+                  "text": "A drámai, zord sziklák alatt megbúvó félhold alakú strandot meglepően tiszta, türkizkék vize és puha fehér homokja miatt ünneplik.",
+                  "category": "recreational",
+                  "coords": [
+                        109.292335,
+                        13.850121
+                  ]
+            },
+            {
+                  "name": "Làng bích họa Nhơn Lý 02",
+                  "text": "A szűk tengerparti sikátorokat egy nyüzsgő szabadtéri galériává alakították át, amely a helyi halászéletet ábrázoló színes falfestményeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        109.289552,
+                        13.885414
+                  ]
+            },
+            {
+                  "name": "Làng Bích Hoạ 01",
+                  "text": "A Nhon Ly freskófalu ezen szakaszán gyönyörűen festett házak láthatók, amelyek óceáni hullámokat és hagyományos kosárcsónakokat ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        109.287754,
+                        13.885381
+                  ]
+            },
+            {
+                  "name": "Eo Gio",
+                  "text": "Ez a drámai tengerparti hágó, amelyet Szeles-szorosnak is neveznek, egy lenyűgöző kikövezett sétánnyal rendelkezik, amely a habzó óceán feletti meredek, sziklás szirtekhez simul.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291412,
+                        13.89088
+                  ]
+            },
+            {
+                  "name": "BenOnTrack Viewpoint",
+                  "text": "A csipkézett tengerpartra néző parti kilátó ideális hely a túrázás szerelmeseinek, hogy megpihenjenek és lefotózzák a végtelen kék horizontot.",
+                  "category": "natural",
+                  "coords": [
+                        109.29324,
+                        13.89402
+                  ]
+            },
+            {
+                  "name": "Núi Kỳ Sơn",
+                  "text": "A zord part menti hegy csúcsára vezető túra a környező öblök és halászfalvak lenyűgöző panorámájával jutalmazza a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        109.187388,
+                        13.840858
+                  ]
+            },
+            {
+                  "name": "Tháp Bình Lâm",
+                  "text": "Ez az ősi, vörös téglából épült hindu torony a Champa Királyság építészeti maradványa, amelyet bonyolult, díszített pilaszterei és boltívei tesznek különlegessé.",
+                  "category": "historical",
+                  "coords": [
+                        109.185485,
+                        13.890304
+                  ]
+            },
+            {
+                  "name": "Nhà lưu niệm nhà thơ Xuân Diệu",
+                  "text": "Ez a hagyományos emlékház a híres vietnami költő, Xuan Dieu előtt tiszteleg, és egy nyugodt kertben mutatja be személyes kéziratait és élettörténetét.",
+                  "category": "historical",
+                  "coords": [
+                        109.205937,
+                        13.901938
+                  ]
+            },
+            {
+                  "name": "Cat Chanh beach",
+                  "text": "Ez a csendes homokos partszakasz szelíd hullámokat és békés menedéket kínál távol a zsúfoltabb turistás öblöktől.",
+                  "category": "recreational",
+                  "coords": [
+                        109.254986,
+                        13.920705
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Xa",
+                  "text": "Az ősi Bódhifák árnyékában fekvő helyi buddhista pagoda elegánsan ívelt ereszével és a napi imáknak szentelt csendes udvarával várja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        109.295377,
+                        13.878226
+                  ]
+            },
+            {
+                  "name": "Chùa Giác Hải (Nhơn Lý)",
+                  "text": "A Nhon Ly tengerparti falujában megbúvó élénk pagoda a helyi halászközösség szellemi központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        109.291018,
+                        13.875061
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Hòa",
+                  "text": "A hatalmas óceánra néző kiemelkedő buddhista szentély a kegyelem istennőjének hatalmas, kétoldalas szobráról híres, amely a tenger felett őrködik.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291295,
+                        13.885792
+                  ]
+            },
+            {
+                  "name": "Ngọc Sơn",
+                  "text": "Ezt a domboldali istentiszteleti helyet a klasszikus piros cseréptető és a buja trópusi növényzet által beárnyékolt csendes meditációs kert teszi különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        109.189853,
+                        13.851558
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Mỹ Cang",
+                  "text": "Ez a helyi vallási épület egy jellegzetes imateremmel rendelkezik, amely a My Cang környéki spirituális közösség központja.",
+                  "category": "landmark",
+                  "coords": [
+                        109.183309,
+                        13.873571
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "A magasba tornyosuló központi keresztjével és meszelt homlokzatával ez a tengerparti templom vasárnapi misére gyűjti a helyi keresztény híveket.",
+                  "category": "religious",
+                  "coords": [
+                        109.206256,
+                        13.883749
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vĩnh Thạnh",
+                  "text": "Ez a regionális keresztény plébániatemplom egy gyönyörű ólomüveg főhajóval rendelkezik, és nyugodt környezetet biztosít a közösségi istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        109.201419,
+                        13.902018
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Bồi (mới)",
+                  "text": "Ez az új, forgalmas piac a part közelében a helyi termékek és a friss tengeri fogások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        109.206674,
+                        13.904742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Buddha on the mountain entrance",
+                  "text": "Această intrare grandioasă marchează începutul ascensiunii abrupte care duce către o statuie proeminentă a lui Buddha aflată pe vârful dealului, cu vedere la golful de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        109.237489,
+                        13.950706
+                  ]
+            },
+            {
+                  "name": "Vinaliving Lifestyle Clubs",
+                  "text": "Acest club modern de stațiune de coastă oferă facilități de lux, piscine infinite și acces exclusiv la țărmurile nisipoase de-a lungul peninsulei.",
+                  "category": "landmark",
+                  "coords": [
+                        109.242828,
+                        13.931175
+                  ]
+            },
+            {
+                  "name": "Beache's Four",
+                  "text": "De pe acest promontoriu stâncos înalt, vizitatorii pot admira o panoramă spectaculoasă a patru golfuri nisipoase interconectate, modelate de curenții oceanici.",
+                  "category": "natural",
+                  "coords": [
+                        109.24865,
+                        13.929426
+                  ]
+            },
+            {
+                  "name": "Khu chứng tích Tân Giản",
+                  "text": "Acest sit solemn memorial de război păstrează istoria zonei Tan Gian prin artefacte rămase și plăci comemorative.",
+                  "category": "historical",
+                  "coords": [
+                        109.209092,
+                        13.898898
+                  ]
+            },
+            {
+                  "name": "Kỳ Co",
+                  "text": "Ascunsă sub stânci accidentate dramatice, această plajă în formă de semilună este celebrată pentru apele sale turcoaz uimitor de limpezi și nisipul alb și fin.",
+                  "category": "recreational",
+                  "coords": [
+                        109.292335,
+                        13.850121
+                  ]
+            },
+            {
+                  "name": "Làng bích họa Nhơn Lý 02",
+                  "text": "Aleile înguste de coastă de aici au fost transformate într-o galerie vibrantă în aer liber, prezentând picturi murale colorate despre viața pescarilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        109.289552,
+                        13.885414
+                  ]
+            },
+            {
+                  "name": "Làng Bích Hoạ 01",
+                  "text": "Această secțiune a satului cu picturi murale Nhon Ly prezintă case frumos pictate care înfățișează valurile oceanului și bărcile tradiționale coș.",
+                  "category": "landmark",
+                  "coords": [
+                        109.287754,
+                        13.885381
+                  ]
+            },
+            {
+                  "name": "Eo Gio",
+                  "text": "Această trecătoare montană dramatică de coastă, cunoscută sub numele de Strâmtoarea Vântului, prezintă o alee pietruită uimitoare care îmbrățișează stâncile abrupte de deasupra oceanului înspumat.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291412,
+                        13.89088
+                  ]
+            },
+            {
+                  "name": "BenOnTrack Viewpoint",
+                  "text": "Având vedere la coasta crestată, acest punct de belvedere pe coastă este un loc ideal pentru pasionații de drumeții pentru a se odihni și a fotografia orizontul albastru nesfârșit.",
+                  "category": "natural",
+                  "coords": [
+                        109.29324,
+                        13.89402
+                  ]
+            },
+            {
+                  "name": "Núi Kỳ Sơn",
+                  "text": "Drumeția către vârful acestui munte de coastă accidentat răsplătește vizitatorii cu priveliști panoramice ample asupra golfurilor din jur și a satelor de pescari.",
+                  "category": "natural",
+                  "coords": [
+                        109.187388,
+                        13.840858
+                  ]
+            },
+            {
+                  "name": "Tháp Bình Lâm",
+                  "text": "Acest turn hindus antic din cărămidă roșie este o rămășiță arhitecturală a Regatului Champa, remarcându-se prin pilaștrii și arcadele sale decorative complicate.",
+                  "category": "historical",
+                  "coords": [
+                        109.185485,
+                        13.890304
+                  ]
+            },
+            {
+                  "name": "Nhà lưu niệm nhà thơ Xuân Diệu",
+                  "text": "Acest conac memorial tradițional îl onorează pe renumitul poet vietnamez Xuan Dieu, prezentând manuscrisele sale personale și istoria vieții într-un decor de grădină liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        109.205937,
+                        13.901938
+                  ]
+            },
+            {
+                  "name": "Cat Chanh beach",
+                  "text": "Această întindere liniștită de coastă nisipoasă oferă valuri blânde și un refugiu pașnic, departe de golfurile turistice mai aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        109.254986,
+                        13.920705
+                  ]
+            },
+            {
+                  "name": "Chùa Phước Xa",
+                  "text": "Umbrită de copaci antici Bodhi, această pagodă budistă locală prezintă streșini curbate elegant și o curte senină dedicată rugăciunii zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        109.295377,
+                        13.878226
+                  ]
+            },
+            {
+                  "name": "Chùa Giác Hải (Nhơn Lý)",
+                  "text": "Ascunsă în satul de coastă Nhon Ly, această pagodă vibrantă servește drept inimă spirituală a comunității locale de pescari.",
+                  "category": "religious",
+                  "coords": [
+                        109.291018,
+                        13.875061
+                  ]
+            },
+            {
+                  "name": "Tịnh xá Ngọc Hòa",
+                  "text": "Cu fața spre oceanul vast, acest sanctuar budist proeminent este faimos pentru statuia sa masivă cu două fețe a Zeiței Milei, care veghează asupra mării.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291295,
+                        13.885792
+                  ]
+            },
+            {
+                  "name": "Ngọc Sơn",
+                  "text": "Acest lăcaș de cult de pe versantul dealului se distinge prin acoperișul clasic din țiglă roșie și grădina liniștită de meditație, umbrită de frunzișul tropical luxuriant.",
+                  "category": "religious",
+                  "coords": [
+                        109.189853,
+                        13.851558
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Mỹ Cang",
+                  "text": "Acest edificiu religios local prezintă o sală de rugăciune distinctivă care oferă un punct central pentru comunitatea spirituală din zona My Cang.",
+                  "category": "landmark",
+                  "coords": [
+                        109.183309,
+                        13.873571
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "Caracterizată prin crucea sa centrală impunătoare și fațada văruită în alb, această biserică de coastă adună credincioșii creștini locali pentru liturghia de duminică.",
+                  "category": "religious",
+                  "coords": [
+                        109.206256,
+                        13.883749
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vĩnh Thạnh",
+                  "text": "Această parohie creștină regională prezintă o navă frumoasă cu vitralii și oferă un mediu senin pentru închinarea comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        109.201419,
+                        13.902018
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Bồi (mới)",
+                  "text": "Această nouă piață aglomerată din apropierea coastei oferă o selecție bogată de produse locale și fructe de mare proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        109.206674,
+                        13.904742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Buda on the mountain entrance",
+                  "text": "This grand entryway marks the start of the steep ascent leading to a prominent hilltop Buddha statue overlooking the coastal bay.",
+                  "category": "landmark",
+                  "coords": [
+                        109.237489,
+                        13.950706
+                  ]
+            },
+            {
+                  "name": "Vinaliving Lifestyle Clubs",
+                  "text": "This modern coastal resort club provides luxury amenities, infinity pools, and exclusive access to the sandy shores along the peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        109.242828,
+                        13.931175
+                  ]
+            },
+            {
+                  "name": "Beache's Four",
+                  "text": "From this elevated rocky promontory, visitors can take in a spectacular sweep of four interconnected sandy coves shaped by the ocean currents.",
+                  "category": "natural",
+                  "coords": [
+                        109.24865,
+                        13.929426
+                  ]
+            },
+            {
+                  "name": "Khu chứng tích Tân Giản",
+                  "text": "This solemn war memorial site preserves the history of the Tan Gian area with remaining artifacts and commemorative plaques.",
+                  "category": "historical",
+                  "coords": [
+                        109.209092,
+                        13.898898
+                  ]
+            },
+            {
+                  "name": "Ky Co Beach",
+                  "text": "Nestled beneath dramatic rugged cliffs, this crescent-shaped beach is celebrated for its startlingly clear turquoise waters and soft white sand.",
+                  "category": "recreational",
+                  "coords": [
+                        109.292335,
+                        13.850121
+                  ]
+            },
+            {
+                  "name": "Làng bích họa Nhơn Lý 02",
+                  "text": "The narrow coastal alleys here have been transformed into a vibrant open-air gallery featuring colorful murals of local fishing life.",
+                  "category": "landmark",
+                  "coords": [
+                        109.289552,
+                        13.885414
+                  ]
+            },
+            {
+                  "name": "Làng Bích Hoạ 01",
+                  "text": "This section of the Nhon Ly mural village features beautifully painted houses depicting ocean waves and traditional basket boats.",
+                  "category": "landmark",
+                  "coords": [
+                        109.287754,
+                        13.885381
+                  ]
+            },
+            {
+                  "name": "Eo Gio",
+                  "text": "This dramatic coastal mountain pass, known as the Windy Strait, features a stunning paved walkway hugging the steep, rocky cliffs above the foaming ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291412,
+                        13.89088
+                  ]
+            },
+            {
+                  "name": "BenOnTrack Viewpoint",
+                  "text": "Overlooking the jagged coastline, this coastal lookout is an ideal spot for hiking enthusiasts to rest and photograph the endless blue horizon.",
+                  "category": "natural",
+                  "coords": [
+                        109.29324,
+                        13.89402
+                  ]
+            },
+            {
+                  "name": "Ky Son Moutain",
+                  "text": "Hiking to the summit of this rugged coastal mountain rewards visitors with sweeping panoramic vistas of the surrounding bays and fishing villages.",
+                  "category": "natural",
+                  "coords": [
+                        109.187388,
+                        13.840858
+                  ]
+            },
+            {
+                  "name": "Binh Lam Cham Tower",
+                  "text": "This ancient red-brick Hindu tower is an architectural remnant of the Champa Kingdom, distinguished by its intricate decorative pilasters and archways.",
+                  "category": "historical",
+                  "coords": [
+                        109.185485,
+                        13.890304
+                  ]
+            },
+            {
+                  "name": "Nhà lưu niệm nhà thơ Xuân Diệu",
+                  "text": "This traditional memorial manor honors the renowned Vietnamese poet Xuan Dieu, showcasing his personal manuscripts and life history in a tranquil garden setting.",
+                  "category": "historical",
+                  "coords": [
+                        109.205937,
+                        13.901938
+                  ]
+            },
+            {
+                  "name": "Cat Chanh beach",
+                  "text": "This quiet stretch of sandy coastline offers gentle waves and a peaceful retreat away from the more crowded tourist bays.",
+                  "category": "recreational",
+                  "coords": [
+                        109.254986,
+                        13.920705
+                  ]
+            },
+            {
+                  "name": "Phuoc Xa Pagoda",
+                  "text": "Shaded by ancient Bodhi trees, this local Buddhist pagoda features elegantly curved eaves and a serene courtyard dedicated to daily prayer.",
+                  "category": "religious",
+                  "coords": [
+                        109.295377,
+                        13.878226
+                  ]
+            },
+            {
+                  "name": "Chùa Giác Hải (Nhơn Lý)",
+                  "text": "Nestled in the coastal village of Nhon Ly, this vibrant pagoda serves as the spiritual heart of the local fishing community.",
+                  "category": "religious",
+                  "coords": [
+                        109.291018,
+                        13.875061
+                  ]
+            },
+            {
+                  "name": "Ngoc Hoa Buddhist Temple",
+                  "text": "Facing the vast ocean, this prominent Buddhist sanctuary is famous for its massive double-sided statue of the Goddess of Mercy watching over the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        109.291295,
+                        13.885792
+                  ]
+            },
+            {
+                  "name": "Ngọc Sơn",
+                  "text": "This hillside place of worship is distinguished by its classic red tile roof and quiet meditation garden shaded by lush tropical foliage.",
+                  "category": "religious",
+                  "coords": [
+                        109.189853,
+                        13.851558
+                  ]
+            },
+            {
+                  "name": "Nhà thờ giáo xứ Mỹ Cang",
+                  "text": "This local religious building features a distinctive prayer hall providing a focal point for the spiritual community in the My Cang area.",
+                  "category": "landmark",
+                  "coords": [
+                        109.183309,
+                        13.873571
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Characterized by its towering central cross and whitewashed facade, this coastal church gathers the local Christian faithful for Sunday mass.",
+                  "category": "religious",
+                  "coords": [
+                        109.206256,
+                        13.883749
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vĩnh Thạnh",
+                  "text": "This regional Christian parish features a beautiful stained-glass nave and provides a serene environment for community worship.",
+                  "category": "landmark",
+                  "coords": [
+                        109.201419,
+                        13.902018
+                  ]
+            },
+            {
+                  "name": "Chợ Gò Bồi (mới)",
+                  "text": "This bustling new marketplace near the coast offers a rich selection of regional produce and fresh daily catches.",
+                  "category": "cultural",
+                  "coords": [
+                        109.206674,
+                        13.904742
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-31",
     coords: [109.259, 13.864],
@@ -627,7 +4353,160 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "co-to-island-coast-v2",
+    id: "co-to-island-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bãi lửa trại",
+                  "text": "Ein malerischer Küstenabschnitt auf der Insel Co To, bekannt für seine unberührte Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        107.763239,
+                        20.970618
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cô Tô",
+                  "text": "Dieser Leuchtturm auf einem Hügel bietet einen Panoramablick über das Co-To-Archipel.",
+                  "category": "landmark",
+                  "coords": [
+                        107.757401,
+                        20.999349
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thanh Lân",
+                  "text": "Eine katholische Kirche auf der kleineren Insel Thanh Lan, die die dortige Fischergemeinde bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.810948,
+                        20.997556
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Cô Tô",
+                  "text": "Das religiöse Zentrum der katholischen Gemeinde auf der Hauptinsel des Co-To-Archipels.",
+                  "category": "landmark",
+                  "coords": [
+                        107.767438,
+                        20.968006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bãi lửa trại",
+                  "text": "Gleccsercsiszolt tengerparti szakasz Co To szigetén, amely érintetlen természetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        107.763239,
+                        20.970618
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cô Tô",
+                  "text": "Ez a dombtetőn lévő világítótorony panorámás kilátást nyújt a Co To-szigetcsoportra.",
+                  "category": "landmark",
+                  "coords": [
+                        107.757401,
+                        20.999349
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thanh Lân",
+                  "text": "Katolikus templom a kisebb Thanh Lan-szigeten, amely a helyi halászközösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        107.810948,
+                        20.997556
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Cô Tô",
+                  "text": "A katolikus közösség vallási központja a Co To-szigetcsoport fő szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        107.767438,
+                        20.968006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bãi lửa trại",
+                  "text": "O porțiune pitorească de coastă de pe insula Co To, cunoscută pentru natura sa curată.",
+                  "category": "landmark",
+                  "coords": [
+                        107.763239,
+                        20.970618
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cô Tô",
+                  "text": "Acest far situat pe un deal oferă vedere panoramică asupra arhipelagului Co To.",
+                  "category": "landmark",
+                  "coords": [
+                        107.757401,
+                        20.999349
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thanh Lân",
+                  "text": "O biserică catolică de pe insula mai mică Thanh Lan, care deservește comunitatea locală de pescari.",
+                  "category": "landmark",
+                  "coords": [
+                        107.810948,
+                        20.997556
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Cô Tô",
+                  "text": "Centrul religios al comunității catolice de pe insula principală a arhipelagului Co To.",
+                  "category": "landmark",
+                  "coords": [
+                        107.767438,
+                        20.968006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bai lua trai",
+                  "text": "A scenic coastal stretch on Co To Island known for its pristine natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        107.763239,
+                        20.970618
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cô Tô",
+                  "text": "This hilltop lighthouse offers panoramic views over the Co To archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        107.757401,
+                        20.999349
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thanh Lân",
+                  "text": "A Catholic church on the smaller Thanh Lan Island serving the local fishing community.",
+                  "category": "landmark",
+                  "coords": [
+                        107.810948,
+                        20.997556
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Giáo họ Cô Tô",
+                  "text": "The religious center for the Catholic community on the main island of the Co To archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        107.767438,
+                        20.968006
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-14",
     coords: [107.766, 20.983],
@@ -675,7 +4554,88 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "phu-yen-coastline-relief-v2",
+    id: "phu-yen-coastline-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mỹ A",
+                  "text": "Ein Aussichtspunkt an der Küste von Phu Yen, der weite Ausblicke über die zerklüftete Uferlinie bietet.",
+                  "category": "natural",
+                  "coords": [
+                        109.292198,
+                        13.157987
+                  ]
+            },
+            {
+                  "name": "Bờ kè Xóm Rớ",
+                  "text": "Eine markante Küstenattraktion in Phu Yen, die für ihre leuchtend grün moosbedeckten Felsen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        109.337924,
+                        13.071712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mỹ A",
+                  "text": "Tengerparti kilátóhely Phu Yenben, ahonnan lenyűgöző panoráma nyílik a sziklás partvonalra.",
+                  "category": "natural",
+                  "coords": [
+                        109.292198,
+                        13.157987
+                  ]
+            },
+            {
+                  "name": "Bờ kè Xóm Rớ",
+                  "text": "Különleges tengerparti látványosság Phu Yenben, amely élénkzöld mohával borított szikláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.337924,
+                        13.071712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mỹ A",
+                  "text": "Un punct de belvedere pe coasta Phu Yen, care oferă o panoramă vastă asupra țărmului stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        109.292198,
+                        13.157987
+                  ]
+            },
+            {
+                  "name": "Bờ kè Xóm Rớ",
+                  "text": "O atracție de coastă uimitoare în Phu Yen, cunoscută pentru stâncile sale acoperite cu mușchi verde vibrant.",
+                  "category": "landmark",
+                  "coords": [
+                        109.337924,
+                        13.071712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mỹ A",
+                  "text": "A coastal viewpoint in Phu Yen offering sweeping vistas over the rugged shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        109.292198,
+                        13.157987
+                  ]
+            },
+            {
+                  "name": "Bãi rêu xanh Xóm Rớ",
+                  "text": "A striking coastal attraction in Phu Yen known for its vibrant green moss-covered rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        109.337924,
+                        13.071712
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-32",
     coords: [109.350, 13.100],
@@ -723,7 +4683,700 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "ninh-thuan-coastline-desert-v2",
+    id: "ninh-thuan-coastline-desert-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoàn Cầu Resort",
+                  "text": "Dieser Aussichtspunkt an der Küste blickt über das weitläufige Resortgelände und die trockene Sandküste von Ninh Thuan.",
+                  "category": "natural",
+                  "coords": [
+                        109.02483,
+                        11.573487
+                  ]
+            },
+            {
+                  "name": "Tượng đài chiến thắng tỉnh Ninh Thuận",
+                  "text": "Diese monumentale Siegessäule im Stadtzentrum erinnert an die historischen Befreiungskämpfe der Region.",
+                  "category": "historical",
+                  "coords": [
+                        108.999698,
+                        11.566196
+                  ]
+            },
+            {
+                  "name": "Trung Tâm Nghiên Cứu Văn Hóa Chăm",
+                  "text": "Dieses Forschungszentrum und Museum zeigt Artefakte, traditionelle Textilien und Töpferwaren des indigenen Cham-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        108.993859,
+                        11.563667
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Ninh Thuận",
+                  "text": "Das Provinzmuseum beherbergt Sammlungen, die das einzigartige wüstenartige Ökosystem und die regionale Geschichte von Ninh Thuan detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        108.999434,
+                        11.563952
+                  ]
+            },
+            {
+                  "name": "Tháp Po Klong Garai",
+                  "text": "Dieser aus Ziegeln erbaute hinduistische Turmkomplex auf dem Trau-Hügel wurde im 13. Jahrhundert vom Volk der Cham errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        108.946421,
+                        11.60183
+                  ]
+            },
+            {
+                  "name": "Đình Tân Xuân",
+                  "text": "Dieses traditionelle Gemeindehaus zeichnet sich durch geschnitzte Holzsäulen aus und dient als spirituelles Zentrum für das örtliche Dorf.",
+                  "category": "religious",
+                  "coords": [
+                        109.026707,
+                        11.548061
+                  ]
+            },
+            {
+                  "name": "Chùa Hải Long",
+                  "text": "Dieser buddhistische Tempelkomplex in Küstennähe ist mit lebhaften Drachenmotiven auf dem Dach seines Hauptheiligtums verziert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.029032,
+                        11.547272
+                  ]
+            },
+            {
+                  "name": "Lăng Ông Hải Chữ",
+                  "text": "Dieser Küstenschrein ist dem Walgott gewidmet, einer zentralen Figur im traditionellen Glauben der einheimischen Fischer.",
+                  "category": "religious",
+                  "coords": [
+                        109.031753,
+                        11.547417
+                  ]
+            },
+            {
+                  "name": "Rock temple",
+                  "text": "Die Altäre dieses Tempels, der direkt in einen schroffen Granithang integriert ist, sind in natürliche Steinnischen gehauen.",
+                  "category": "religious",
+                  "coords": [
+                        109.037758,
+                        11.597584
+                  ]
+            },
+            {
+                  "name": "Trùng Sơn Cổ Tự",
+                  "text": "Hoch oben auf dem Berg Da Chong gelegen, bietet dieser mehrstöckige buddhistische Tempel einen Panoramablick auf die Küstenebenen.",
+                  "category": "religious",
+                  "coords": [
+                        109.030796,
+                        11.593358
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Nhạc",
+                  "text": "Diese lokale buddhistische Pagode zeichnet sich durch ihren ruhigen Innenhof aus, der von alten Bodhi-Bäumen beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        109.027378,
+                        11.55102
+                  ]
+            },
+            {
+                  "name": "Chùa Liên Hoa",
+                  "text": "Dieses buddhistische Heiligtum ist mit aufwendigen Lotusblütenschnitzereien geschmückt, die Reinheit und Erleuchtung symbolisieren.",
+                  "category": "landmark",
+                  "coords": [
+                        109.024451,
+                        11.552594
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "Eine hohe, weiße Statue der Göttin der Barmherzigkeit steht prominent am Eingang dieses ruhigen buddhistischen Tempels.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020057,
+                        11.55714
+                  ]
+            },
+            {
+                  "name": "Chùa Mỹ Thiện",
+                  "text": "Dieses aktive buddhistische Kloster dient der örtlichen Gemeinde mit seiner großen Dharma-Halle für die täglichen Gesänge.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020968,
+                        11.555617
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tấn Tài",
+                  "text": "Mit einem markanten Glockenturm versammelt diese christliche Kirche die lokale katholische Gemeinde zur Sonntagsmesse.",
+                  "category": "landmark",
+                  "coords": [
+                        108.995782,
+                        11.555556
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tin Lành Phan Rang",
+                  "text": "Diese evangelische Kirche zeichnet sich durch ihre schlichte, moderne Architektur und ein großes Kreuz an der Fassade aus.",
+                  "category": "religious",
+                  "coords": [
+                        108.984932,
+                        11.573667
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Giang",
+                  "text": "Dieser belebte lokale Markt bietet Freiluftstände, an denen frisch gefangene Meeresfrüchte und regionales Gemüse verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        109.029459,
+                        11.551292
+                  ]
+            },
+            {
+                  "name": "Chợ Phan Rang",
+                  "text": "Als zentraler Handelsknotenpunkt der Stadt bietet dieser weitläufige überdachte Markt eine große Auswahl an Textilien und landwirtschaftlichen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        108.990298,
+                        11.560954
+                  ]
+            },
+            {
+                  "name": "Chợ Thanh Sơn",
+                  "text": "Dieser Viertelmarkt ist bekannt für seine Verkäufer, die sich auf duftende Gewürze und tropische Früchte spezialisiert haben.",
+                  "category": "cultural",
+                  "coords": [
+                        108.992448,
+                        11.570416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoàn Cầu Resort",
+                  "text": "Ez a parti kilátó a hatalmas üdülőhely területére és Ninh Thuan száraz, homokos partvidékére tekint.",
+                  "category": "natural",
+                  "coords": [
+                        109.02483,
+                        11.573487
+                  ]
+            },
+            {
+                  "name": "Tượng đài chiến thắng tỉnh Ninh Thuận",
+                  "text": "A városközpontban álló monumentális győzelmi oszlop a régió történelmi felszabadító küzdelmeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        108.999698,
+                        11.566196
+                  ]
+            },
+            {
+                  "name": "Trung Tâm Nghiên Cứu Văn Hóa Chăm",
+                  "text": "Ez a kutatóközpont és múzeum a bennszülött cham nép műkincseit, hagyományos textíliáit és kerámiáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        108.993859,
+                        11.563667
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Ninh Thuận",
+                  "text": "A tartományi múzeum gyűjteményei Ninh Thuan egyedülálló, sivatagszerű ökoszisztémáját és regionális történelmét mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        108.999434,
+                        11.563952
+                  ]
+            },
+            {
+                  "name": "Tháp Po Klong Garai",
+                  "text": "A Trau-dombon található, téglából épült hindu toronyegyüttest a chamok építették a 13. században.",
+                  "category": "historical",
+                  "coords": [
+                        108.946421,
+                        11.60183
+                  ]
+            },
+            {
+                  "name": "Đình Tân Xuân",
+                  "text": "A faragott faoszlopokkal díszített hagyományos közösségi ház a helyi falu spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        109.026707,
+                        11.548061
+                  ]
+            },
+            {
+                  "name": "Chùa Hải Long",
+                  "text": "A part közelében fekvő buddhista templomkomplexum fő szentélyének tetejét élénk sárkánymotívumok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        109.029032,
+                        11.547272
+                  ]
+            },
+            {
+                  "name": "Lăng Ông Hải Chữ",
+                  "text": "Ezt a part menti szentélyt a Bálnaistennek szentelték, aki a helyi halászok hagyományos hiedelmeinek központi alakja.",
+                  "category": "religious",
+                  "coords": [
+                        109.031753,
+                        11.547417
+                  ]
+            },
+            {
+                  "name": "Rock temple",
+                  "text": "A közvetlenül egy zord gránitoldalba épült templom oltárait természetes kőfülkékbe faragták.",
+                  "category": "religious",
+                  "coords": [
+                        109.037758,
+                        11.597584
+                  ]
+            },
+            {
+                  "name": "Trùng Sơn Cổ Tự",
+                  "text": "A Da Chong hegy magasan fekvő, többszintes buddhista templomából panorámás kilátás nyílik a part menti síkságra.",
+                  "category": "religious",
+                  "coords": [
+                        109.030796,
+                        11.593358
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Nhạc",
+                  "text": "Ezt a helyi buddhista pagodát ősi bódhifák árnyékolta békés udvara teszi különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        109.027378,
+                        11.55102
+                  ]
+            },
+            {
+                  "name": "Chùa Liên Hoa",
+                  "text": "A lótuszvirágok bonyolult faragványaival díszített buddhista szentély a tisztaságot és a megvilágosodást szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        109.024451,
+                        11.552594
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "Az irgalmasság istennőjének magas, fehér szobra áll büszkén e békés buddhista templom bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020057,
+                        11.55714
+                  ]
+            },
+            {
+                  "name": "Chùa Mỹ Thiện",
+                  "text": "Ez az aktív buddhista kolostor hatalmas Dharma-csarnokával szolgálja a helyi közösség napi kántálásait.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020968,
+                        11.555617
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tấn Tài",
+                  "text": "A jellegzetes harangtoronnyal rendelkező keresztény templom a helyi katolikus közösség vasárnapi miséinek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        108.995782,
+                        11.555556
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tin Lành Phan Rang",
+                  "text": "Ezt a protestáns templomot egyszerű, modern építészete és a homlokzatán lévő nagy kereszt jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        108.984932,
+                        11.573667
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Giang",
+                  "text": "Ez a nyüzsgő helyi piac szabadtéri standokkal várja a vásárlókat, ahol frissen fogott tenger gyümölcseit és regionális zöldségeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        109.029459,
+                        11.551292
+                  ]
+            },
+            {
+                  "name": "Chợ Phan Rang",
+                  "text": "A város központi kereskedelmi központjaként ez a hatalmas fedett piac textíliák és mezőgazdasági termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        108.990298,
+                        11.560954
+                  ]
+            },
+            {
+                  "name": "Chợ Thanh Sơn",
+                  "text": "Ez a környékbeli piac az illatos fűszerekre és trópusi gyümölcsökre szakosodott árusairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        108.992448,
+                        11.570416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoàn Cầu Resort",
+                  "text": "Acest punct de belvedere de coastă are vedere la domeniul extins al stațiunii și la țărmul nisipos și arid din Ninh Thuan.",
+                  "category": "natural",
+                  "coords": [
+                        109.02483,
+                        11.573487
+                  ]
+            },
+            {
+                  "name": "Tượng đài chiến thắng tỉnh Ninh Thuận",
+                  "text": "Această coloană monumentală a victoriei din centrul orașului comemorează luptele istorice de eliberare ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        108.999698,
+                        11.566196
+                  ]
+            },
+            {
+                  "name": "Trung Tâm Nghiên Cứu Văn Hóa Chăm",
+                  "text": "Acest centru de cercetare și muzeu expune artefacte, textile tradiționale și ceramică ale poporului indigen Cham.",
+                  "category": "museum",
+                  "coords": [
+                        108.993859,
+                        11.563667
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Ninh Thuận",
+                  "text": "Muzeul provincial găzduiește colecții care detaliază ecosistemul unic asemănător deșertului și istoria regională a provinciei Ninh Thuan.",
+                  "category": "museum",
+                  "coords": [
+                        108.999434,
+                        11.563952
+                  ]
+            },
+            {
+                  "name": "Tháp Po Klong Garai",
+                  "text": "Situat pe dealul Trau, acest complex de turnuri hinduse din cărămidă a fost construit de poporul Cham în secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        108.946421,
+                        11.60183
+                  ]
+            },
+            {
+                  "name": "Đình Tân Xuân",
+                  "text": "Această casă comunală tradițională are stâlpi de lemn sculptați și servește drept centru spiritual pentru satul local.",
+                  "category": "religious",
+                  "coords": [
+                        109.026707,
+                        11.548061
+                  ]
+            },
+            {
+                  "name": "Chùa Hải Long",
+                  "text": "Situat în apropierea coastei, acest complex de temple budiste prezintă motive vibrante cu dragoni pe acoperișul sanctuarului principal.",
+                  "category": "landmark",
+                  "coords": [
+                        109.029032,
+                        11.547272
+                  ]
+            },
+            {
+                  "name": "Lăng Ông Hải Chữ",
+                  "text": "Acest altar de coastă este dedicat Zeului Balenă, o figură centrală în credințele tradiționale ale pescarilor locali.",
+                  "category": "religious",
+                  "coords": [
+                        109.031753,
+                        11.547417
+                  ]
+            },
+            {
+                  "name": "Rock temple",
+                  "text": "Integrat direct într-un deal de granit accidentat, altarele acestui templu sunt sculptate în firide naturale de piatră.",
+                  "category": "religious",
+                  "coords": [
+                        109.037758,
+                        11.597584
+                  ]
+            },
+            {
+                  "name": "Trùng Sơn Cổ Tự",
+                  "text": "Cocoțat sus pe muntele Da Chong, acest templu budist pe mai multe niveluri oferă vederi panoramice ale câmpiilor de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        109.030796,
+                        11.593358
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Nhạc",
+                  "text": "Această pagodă budistă locală se distinge prin curtea sa liniștită, umbrită de copaci Bodhi antici.",
+                  "category": "landmark",
+                  "coords": [
+                        109.027378,
+                        11.55102
+                  ]
+            },
+            {
+                  "name": "Chùa Liên Hoa",
+                  "text": "Acest sanctuar budist este împodobit cu sculpturi complicate ale florilor de lotus, simbolizând puritatea și iluminarea.",
+                  "category": "landmark",
+                  "coords": [
+                        109.024451,
+                        11.552594
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "O statuie înaltă și albă a Zeiței Milei se află proeminent la intrarea în acest templu budist senin.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020057,
+                        11.55714
+                  ]
+            },
+            {
+                  "name": "Chùa Mỹ Thiện",
+                  "text": "Acest mănăstire budistă activă servește comunitatea locală cu sala sa mare de Dharma pentru incantațiile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020968,
+                        11.555617
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tấn Tài",
+                  "text": "Având un turn de clopotniță distinctiv, această biserică creștină adună comunitatea catolică locală pentru slujba de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        108.995782,
+                        11.555556
+                  ]
+            },
+            {
+                  "name": "Hội Thánh Tin Lành Phan Rang",
+                  "text": "Această biserică protestantă se caracterizează prin arhitectura sa simplă, modernă și crucea mare de pe fațadă.",
+                  "category": "religious",
+                  "coords": [
+                        108.984932,
+                        11.573667
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Giang",
+                  "text": "Acestă piață locală plină de viață are tarabe în aer liber unde se vând fructe de mare proaspăt prinse și legume regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        109.029459,
+                        11.551292
+                  ]
+            },
+            {
+                  "name": "Chợ Phan Rang",
+                  "text": "Ca centru comercial central al orașului, această piață acoperită extinsă oferă o gamă largă de textile și produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        108.990298,
+                        11.560954
+                  ]
+            },
+            {
+                  "name": "Chợ Thanh Sơn",
+                  "text": "Această piață de cartier este cunoscută pentru vânzătorii săi specializați în condimente parfumate și fructe tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        108.992448,
+                        11.570416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoàn Cầu Resort",
+                  "text": "This coastal viewpoint overlooks the sprawling resort grounds and the arid sandy shoreline of Ninh Thuan.",
+                  "category": "natural",
+                  "coords": [
+                        109.02483,
+                        11.573487
+                  ]
+            },
+            {
+                  "name": "Tượng đài chiến thắng tỉnh Ninh Thuận",
+                  "text": "This monumental victory column in the city center commemorates the region's historic liberation struggles.",
+                  "category": "historical",
+                  "coords": [
+                        108.999698,
+                        11.566196
+                  ]
+            },
+            {
+                  "name": "Trung Tâm Nghiên Cứu Văn Hóa Chăm",
+                  "text": "This research center and museum displays artifacts, traditional textiles, and pottery of the indigenous Cham people.",
+                  "category": "museum",
+                  "coords": [
+                        108.993859,
+                        11.563667
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Ninh Thuận",
+                  "text": "The provincial museum houses collections detailing the unique desert-like ecosystem and regional history of Ninh Thuan.",
+                  "category": "museum",
+                  "coords": [
+                        108.999434,
+                        11.563952
+                  ]
+            },
+            {
+                  "name": "Po Klong Garai Temple",
+                  "text": "Located on Trau Hill, this brick Hindu tower complex was built by the Cham people in the 13th century.",
+                  "category": "historical",
+                  "coords": [
+                        108.946421,
+                        11.60183
+                  ]
+            },
+            {
+                  "name": "Đình Tân Xuân",
+                  "text": "This traditional communal house features carved wooden pillars and serves as the spiritual center for the local village.",
+                  "category": "religious",
+                  "coords": [
+                        109.026707,
+                        11.548061
+                  ]
+            },
+            {
+                  "name": "Chùa Hải Long",
+                  "text": "Situated near the coast, this Buddhist temple complex features vibrant dragon motifs on its main sanctuary roof.",
+                  "category": "landmark",
+                  "coords": [
+                        109.029032,
+                        11.547272
+                  ]
+            },
+            {
+                  "name": "Lăng Ông Hải Chữ",
+                  "text": "This coastal shrine is dedicated to the Whale God, a central figure in the traditional beliefs of local fishermen.",
+                  "category": "religious",
+                  "coords": [
+                        109.031753,
+                        11.547417
+                  ]
+            },
+            {
+                  "name": "Rock temple",
+                  "text": "Integrated directly into a rugged granite hillside, this temple's altars are carved into natural stone alcoves.",
+                  "category": "religious",
+                  "coords": [
+                        109.037758,
+                        11.597584
+                  ]
+            },
+            {
+                  "name": "Trùng Sơn Cổ Tự",
+                  "text": "Perched high on Da Chong mountain, this multi-tiered Buddhist temple offers panoramic views of the coastal plains.",
+                  "category": "religious",
+                  "coords": [
+                        109.030796,
+                        11.593358
+                  ]
+            },
+            {
+                  "name": "Chùa Đông Nhạc",
+                  "text": "This local Buddhist pagoda is distinguished by its tranquil courtyard shaded by ancient Bodhi trees.",
+                  "category": "landmark",
+                  "coords": [
+                        109.027378,
+                        11.55102
+                  ]
+            },
+            {
+                  "name": "Chùa Liên Hoa",
+                  "text": "This Buddhist sanctuary is adorned with intricate lotus flower carvings, symbolizing purity and enlightenment.",
+                  "category": "landmark",
+                  "coords": [
+                        109.024451,
+                        11.552594
+                  ]
+            },
+            {
+                  "name": "Chùa Quan Âm",
+                  "text": "A tall, white statue of the Goddess of Mercy stands prominently at the entrance of this serene Buddhist temple.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020057,
+                        11.55714
+                  ]
+            },
+            {
+                  "name": "Chùa Mỹ Thiện",
+                  "text": "This active Buddhist monastery serves the local community with its large Dharma hall for daily chanting.",
+                  "category": "landmark",
+                  "coords": [
+                        109.020968,
+                        11.555617
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Tấn Tài",
+                  "text": "Featuring a distinctive bell tower, this Christian church gathers the local Catholic community for Sunday mass.",
+                  "category": "landmark",
+                  "coords": [
+                        108.995782,
+                        11.555556
+                  ]
+            },
+            {
+                  "name": "The Phan Rang Evangelical Church",
+                  "text": "This Protestant church is characterized by its simple, modern architecture and large cross on the facade.",
+                  "category": "religious",
+                  "coords": [
+                        108.984932,
+                        11.573667
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Giang",
+                  "text": "This bustling local market features open-air stalls selling freshly caught seafood and regional vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        109.029459,
+                        11.551292
+                  ]
+            },
+            {
+                  "name": "Chợ Phan Rang",
+                  "text": "As the city's central trading hub, this expansive indoor market offers a wide array of textiles and agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        108.990298,
+                        11.560954
+                  ]
+            },
+            {
+                  "name": "Chợ Thanh Sơn",
+                  "text": "This neighborhood market is known for its vendors specialized in fragrant spices and tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        108.992448,
+                        11.570416
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-36",
     coords: [109.016, 11.583],
@@ -771,7 +5424,736 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "quang-binh-coast-v2",
+    id: "quang-binh-coast-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xã Bảo Ninh - nghề làm nước mắm",
+                  "text": "Ein traditionelles Küstendorf, das für sein authentisches Handwerk der Fermentierung und Herstellung von Fischsoße bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.634757,
+                        17.468591
+                  ]
+            },
+            {
+                  "name": "Bãi biển Nhật Lệ",
+                  "text": "Ein beliebter Küstenabschnitt mit weißen Sandstränden und klarem Wasser entlang der Küste von Quang Binh.",
+                  "category": "recreational",
+                  "coords": [
+                        106.627149,
+                        17.491054
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tổng hợp tỉnh Quảng Trị",
+                  "text": "Ein umfassendes Provinzmuseum, das historische Artefakte und das kulturelle Erbe der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        106.623629,
+                        17.468221
+                  ]
+            },
+            {
+                  "name": "Cau Nhat Le",
+                  "text": "Eine markante Brücke über den Fluss Nhat Le, die die Stadt Dong Hoi mit der Halbinsel Bao Ninh verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.626994,
+                        17.472365
+                  ]
+            },
+            {
+                  "name": "Nhà ông bà ngoại Subell",
+                  "text": "Ein lokaler Veranstaltungsort für kulturelle Ereignisse und Gemeindetreffen an der Küste von Quang Binh.",
+                  "category": "cultural",
+                  "coords": [
+                        106.612209,
+                        17.457466
+                  ]
+            },
+            {
+                  "name": "Nút giao Ngã 5 Quán Hàu",
+                  "text": "Eine belebte Fünf-Wege-Kreuzung, die als wichtiger Verkehrsknotenpunkt in der Nähe der Küste von Quang Binh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.638024,
+                        17.401429
+                  ]
+            },
+            {
+                  "name": "Bao Ninh Beach",
+                  "text": "Ein ruhiger und weniger überlaufener Sandstrand auf der Halbinsel Bao Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.644321,
+                        17.465662
+                  ]
+            },
+            {
+                  "name": "Hải đăng Nhật Lệ",
+                  "text": "Ein Navigationsleuchtturm, der den Seeverkehr sicher an der Mündung des Nhat Le leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62597,
+                        17.483348
+                  ]
+            },
+            {
+                  "name": "Chứng tích nhà thờ Tam tòa",
+                  "text": "Die Ruinen einer katholischen Kirche aus dem späten 19. Jahrhundert, die während des Vietnamkriegs schwer bombardiert wurde und als Kulturerbe erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62335,
+                        17.474978
+                  ]
+            },
+            {
+                  "name": "Tượng đài Bác Hồ",
+                  "text": "Ein Ho Chi Minh gewidmetes Denkmal, das oft als Mittelpunkt für öffentliche Versammlungen dient.",
+                  "category": "historical",
+                  "coords": [
+                        106.62148,
+                        17.467885
+                  ]
+            },
+            {
+                  "name": "Quảng Bình Quan",
+                  "text": "Die verbliebenen historischen Eingangstore der alten Zitadelle von Dong Hoi spiegeln die traditionelle vietnamesische Militärarchitektur wider.",
+                  "category": "landmark",
+                  "coords": [
+                        106.624053,
+                        17.463337
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "Ein lokales Gotteshaus, das den spirituellen Bedürfnissen der Küstengemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.62475,
+                        17.479596
+                  ]
+            },
+            {
+                  "name": "Dong Phu ward's place of worship",
+                  "text": "Eine religiöse Stätte, die spirituellen Zusammenkünften der Bewohner des Bezirks Dong Phu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.619059,
+                        17.467729
+                  ]
+            },
+            {
+                  "name": "Giáo hội Phật giáo VN tỉnh Quảng Trị",
+                  "text": "Das Provinzhauptquartier der vietnamesischen buddhistischen Sangha, das die religiösen Aktivitäten in der Region koordiniert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.620066,
+                        17.457533
+                  ]
+            },
+            {
+                  "name": "Chợ Võ Xá",
+                  "text": "Ein lebhafter lokaler Markt, auf dem die Bewohner frische Produkte, regionale Delikatessen und Dinge des täglichen Bedarfs handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        106.653408,
+                        17.384569
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Hới",
+                  "text": "Ein geschäftiger Frühmorgenmarkt, auf dem lokale Fischer ihre frisch gefangenen Meeresfrüchte von der nahegelegenen Küste verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.627558,
+                        17.46458
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Mỹ",
+                  "text": "Ein geschäftiger Nachbarschaftsmarkt, der die Bewohner von Dong My mit frischen Produkten und Artikeln des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.623949,
+                        17.478259
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Phú",
+                  "text": "Ein täglicher lokaler Markt im Bezirk Dong Phu, auf dem Verkäufer frisches Gemüse, Fleisch und Alltagswaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.616994,
+                        17.469619
+                  ]
+            },
+            {
+                  "name": "Chợ Đức Ninh",
+                  "text": "Ein traditioneller Marktplatz im Gebiet Duc Ninh, auf dem es von lokalen Händlern und frischen Waren für den täglichen Bedarf wimmelt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615475,
+                        17.445647
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Sơn",
+                  "text": "Ein lokaler Nachbarschaftsmarkt, der die Gemeinde Dong Son mit einer Vielzahl von frischen Lebensmitteln und Haushaltswaren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.578048,
+                        17.449404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xã Bảo Ninh - nghề làm nước mắm",
+                  "text": "Hagyományos tengerparti falu, amely a halszósz erjesztésének és előállításának autentikus mesterségéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        106.634757,
+                        17.468591
+                  ]
+            },
+            {
+                  "name": "Bãi biển Nhật Lệ",
+                  "text": "Egy népszerű, fehér homokkal és tiszta vízzel büszkélkedő partszakasz a Quang Binh-i tengerpart mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        106.627149,
+                        17.491054
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tổng hợp tỉnh Quảng Trị",
+                  "text": "Átfogó tartományi múzeum, amely a régió történelmi tárgyait és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.623629,
+                        17.468221
+                  ]
+            },
+            {
+                  "name": "Cau Nhat Le",
+                  "text": "A Nhat Le folyón átívelő jelentős híd, amely Dong Hoi városát köti össze a Bao Ninh-félszigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        106.626994,
+                        17.472365
+                  ]
+            },
+            {
+                  "name": "Nhà ông bà ngoại Subell",
+                  "text": "Helyi előadóterem, amely kulturális eseményeknek és közösségi összejöveteleknek ad otthont a Quang Binh-i tengerparton.",
+                  "category": "cultural",
+                  "coords": [
+                        106.612209,
+                        17.457466
+                  ]
+            },
+            {
+                  "name": "Nút giao Ngã 5 Quán Hàu",
+                  "text": "Egy nyüzsgő, ötágú útkereszteződés, amely fő közlekedési csomópontként szolgál a Quang Binh-i part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.638024,
+                        17.401429
+                  ]
+            },
+            {
+                  "name": "Bao Ninh Beach",
+                  "text": "A Bao Ninh-félszigeten található nyugodt és kevésbé zsúfolt homokos strand.",
+                  "category": "landmark",
+                  "coords": [
+                        106.644321,
+                        17.465662
+                  ]
+            },
+            {
+                  "name": "Hải đăng Nhật Lệ",
+                  "text": "A Nhat Le folyó torkolatánál a tengeri forgalmat biztonságosan irányító navigációs világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62597,
+                        17.483348
+                  ]
+            },
+            {
+                  "name": "Chứng tích nhà thờ Tam tòa",
+                  "text": "Egy késő 19. századi katolikus templom romjai, amelyet a vietnámi háború alatt súlyosan lebombáztak, és örökségi helyszínként őriztek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62335,
+                        17.474978
+                  ]
+            },
+            {
+                  "name": "Tượng đài Bác Hồ",
+                  "text": "A Ho Si Minhnek szentelt emlékmű, amely gyakran szolgál nyilvános összejövetelek központjaként.",
+                  "category": "historical",
+                  "coords": [
+                        106.62148,
+                        17.467885
+                  ]
+            },
+            {
+                  "name": "Quảng Bình Quan",
+                  "text": "A régi Dong Hoi-i Citadella megmaradt történelmi bejárati kapui, amelyek a hagyományos vietnámi katonai építészetet tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        106.624053,
+                        17.463337
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "A tengerparti közösség lelki szükségleteit szolgáló helyi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        106.62475,
+                        17.479596
+                  ]
+            },
+            {
+                  "name": "Dong Phu ward's place of worship",
+                  "text": "A Dong Phu negyed lakosainak spirituális összejövetelei számára fenntartott vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        106.619059,
+                        17.467729
+                  ]
+            },
+            {
+                  "name": "Giáo hội Phật giáo VN tỉnh Quảng Trị",
+                  "text": "A vietnámi buddhista Szangha tartományi központja, amely a környék vallási tevékenységeit koordinálja.",
+                  "category": "landmark",
+                  "coords": [
+                        106.620066,
+                        17.457533
+                  ]
+            },
+            {
+                  "name": "Chợ Võ Xá",
+                  "text": "Nyüzsgő helyi piac, ahol a lakosok friss termékeket, regionális finomságokat és mindennapi szükségleti cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.653408,
+                        17.384569
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Hới",
+                  "text": "Nyüzsgő kora reggeli piac, ahol a helyi halászok a közeli partról származó frissen fogott tenger gyümölcseit árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        106.627558,
+                        17.46458
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Mỹ",
+                  "text": "Nyüzsgő környékbeli piac, amely friss termékekkel és napi cikkekkel látja el Dong My lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        106.623949,
+                        17.478259
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Phú",
+                  "text": "Napi helyi piac a Dong Phu negyedben, ahol az árusok friss zöldségeket, húsokat és mindennapi árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.616994,
+                        17.469619
+                  ]
+            },
+            {
+                  "name": "Chợ Đức Ninh",
+                  "text": "Hagyományos piac a Duc Ninh területen, amely tele van helyi kereskedőkkel és friss napi árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615475,
+                        17.445647
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Sơn",
+                  "text": "A Dong Son közösséget kiszolgáló helyi környékbeli piac, ahol különféle friss élelmiszereket és háztartási cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.578048,
+                        17.449404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xã Bảo Ninh - nghề làm nước mắm",
+                  "text": "Un sat tradițional de coastă renumit pentru meșteșugul său autentic de fermentare și producere a sosului de pește.",
+                  "category": "landmark",
+                  "coords": [
+                        106.634757,
+                        17.468591
+                  ]
+            },
+            {
+                  "name": "Bãi biển Nhật Lệ",
+                  "text": "O porțiune de coastă populară care se mândrește cu nisipuri albe și ape limpezi de-a lungul litoralului Quang Binh.",
+                  "category": "recreational",
+                  "coords": [
+                        106.627149,
+                        17.491054
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tổng hợp tỉnh Quảng Trị",
+                  "text": "Un muzeu provincial cuprinzător care expune artefacte istorice și patrimoniul cultural din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        106.623629,
+                        17.468221
+                  ]
+            },
+            {
+                  "name": "Cau Nhat Le",
+                  "text": "Un pod proeminent care traversează râul Nhat Le, conectând orașul Dong Hoi cu peninsula Bao Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.626994,
+                        17.472365
+                  ]
+            },
+            {
+                  "name": "Nhà ông bà ngoại Subell",
+                  "text": "Un spațiu local de spectacole care găzduiește evenimente culturale și adunări comunitare pe coasta Quang Binh.",
+                  "category": "cultural",
+                  "coords": [
+                        106.612209,
+                        17.457466
+                  ]
+            },
+            {
+                  "name": "Nút giao Ngã 5 Quán Hàu",
+                  "text": "O intersecție aglomerată cu cinci direcții, care servește drept un important nod de transport în apropierea coastei Quang Binh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.638024,
+                        17.401429
+                  ]
+            },
+            {
+                  "name": "Bao Ninh Beach",
+                  "text": "O plajă cu nisip senină și mai puțin aglomerată situată pe peninsula Bao Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.644321,
+                        17.465662
+                  ]
+            },
+            {
+                  "name": "Hải đăng Nhật Lệ",
+                  "text": "Un far de navigație care ghidează în siguranță traficul maritim de-a lungul gurii râului Nhat Le.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62597,
+                        17.483348
+                  ]
+            },
+            {
+                  "name": "Chứng tích nhà thờ Tam tòa",
+                  "text": "Ruinele unei biserici catolice de la sfârșitul secolului al XIX-lea, puternic bombardată în timpul Războiului din Vietnam și păstrată ca sit de patrimoniu.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62335,
+                        17.474978
+                  ]
+            },
+            {
+                  "name": "Tượng đài Bác Hồ",
+                  "text": "Un monument memorial dedicat lui Ho Chi Minh, care servește adesea drept punct central pentru adunările publice.",
+                  "category": "historical",
+                  "coords": [
+                        106.62148,
+                        17.467885
+                  ]
+            },
+            {
+                  "name": "Quảng Bình Quan",
+                  "text": "Porțile de intrare istorice rămase ale vechii cetăți Dong Hoi, reflectând arhitectura militară tradițională vietnameză.",
+                  "category": "landmark",
+                  "coords": [
+                        106.624053,
+                        17.463337
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "Un loc de cult local care deservește nevoile spirituale ale comunității de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        106.62475,
+                        17.479596
+                  ]
+            },
+            {
+                  "name": "Dong Phu ward's place of worship",
+                  "text": "Un sit religios dedicat adunărilor spirituale pentru locuitorii din cartierul Dong Phu.",
+                  "category": "religious",
+                  "coords": [
+                        106.619059,
+                        17.467729
+                  ]
+            },
+            {
+                  "name": "Giáo hội Phật giáo VN tỉnh Quảng Trị",
+                  "text": "Sediul provincial al Sanghei budiste vietnameze, coordonând activitățile religioase din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        106.620066,
+                        17.457533
+                  ]
+            },
+            {
+                  "name": "Chợ Võ Xá",
+                  "text": "O piață locală vibrantă unde rezidenții comercializează produse proaspete, delicatese regionale și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.653408,
+                        17.384569
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Hới",
+                  "text": "O piață animată de dimineață devreme, unde pescarii locali își vând fructele de mare proaspăt prinse de pe coasta din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        106.627558,
+                        17.46458
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Mỹ",
+                  "text": "O piață de cartier plină de viață care oferă produse proaspete și articole zilnice pentru locuitorii din Dong My.",
+                  "category": "cultural",
+                  "coords": [
+                        106.623949,
+                        17.478259
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Phú",
+                  "text": "O piață locală zilnică din cartierul Dong Phu, unde vânzătorii oferă legume proaspete, carne și mărfuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        106.616994,
+                        17.469619
+                  ]
+            },
+            {
+                  "name": "Chợ Đức Ninh",
+                  "text": "O piață tradițională în zona Duc Ninh, animată de comercianți locali și produse proaspete zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615475,
+                        17.445647
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Sơn",
+                  "text": "O piață locală de cartier care deservește comunitatea Dong Son cu o varietate de alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.578048,
+                        17.449404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bao Ninh Commune - Fish sauce making profession",
+                  "text": "A traditional coastal village renowned for its authentic craft of fermenting and producing fish sauce.",
+                  "category": "landmark",
+                  "coords": [
+                        106.634757,
+                        17.468591
+                  ]
+            },
+            {
+                  "name": "Nhat Le Beach",
+                  "text": "A popular coastal stretch boasting white sands and clear waters along the Quang Binh coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        106.627149,
+                        17.491054
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tổng hợp tỉnh Quảng Trị",
+                  "text": "A comprehensive provincial museum exhibiting historical artifacts and cultural heritage from the region.",
+                  "category": "museum",
+                  "coords": [
+                        106.623629,
+                        17.468221
+                  ]
+            },
+            {
+                  "name": "Nhat Le Bridge",
+                  "text": "A prominent bridge spanning the Nhat Le River, connecting Dong Hoi city with the Bao Ninh peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        106.626994,
+                        17.472365
+                  ]
+            },
+            {
+                  "name": "Nhà ông bà ngoại Subell",
+                  "text": "A local performance venue hosting cultural events and community gatherings on the Quang Binh coast.",
+                  "category": "cultural",
+                  "coords": [
+                        106.612209,
+                        17.457466
+                  ]
+            },
+            {
+                  "name": "Nút giao Ngã 5 Quán Hàu",
+                  "text": "A bustling five-way intersection serving as a major transport hub near the Quang Binh coast.",
+                  "category": "landmark",
+                  "coords": [
+                        106.638024,
+                        17.401429
+                  ]
+            },
+            {
+                  "name": "Bao Ninh Beach",
+                  "text": "A serene and less-crowded sandy beach situated on the Bao Ninh peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        106.644321,
+                        17.465662
+                  ]
+            },
+            {
+                  "name": "Hải đăng Nhật Lệ",
+                  "text": "A navigational lighthouse guiding maritime traffic safely along the Nhat Le river mouth.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62597,
+                        17.483348
+                  ]
+            },
+            {
+                  "name": "Tam Toa Church",
+                  "text": "The ruins of a late 19th-century Catholic church, heavily bombed during the Vietnam War and preserved as a heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        106.62335,
+                        17.474978
+                  ]
+            },
+            {
+                  "name": "Tượng đài Bác Hồ",
+                  "text": "A memorial monument dedicated to Ho Chi Minh, often serving as a focal point for public gatherings.",
+                  "category": "historical",
+                  "coords": [
+                        106.62148,
+                        17.467885
+                  ]
+            },
+            {
+                  "name": "Citadel Gates",
+                  "text": "The remaining historic entrance gates of the old Dong Hoi Citadel, reflecting traditional Vietnamese military architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        106.624053,
+                        17.463337
+                  ]
+            },
+            {
+                  "name": "Nhà thờ",
+                  "text": "A local place of worship serving the spiritual needs of the coastal community.",
+                  "category": "religious",
+                  "coords": [
+                        106.62475,
+                        17.479596
+                  ]
+            },
+            {
+                  "name": "Dong Phu ward's place of worship",
+                  "text": "A religious site dedicated to spiritual gatherings for residents in the Dong Phu ward.",
+                  "category": "religious",
+                  "coords": [
+                        106.619059,
+                        17.467729
+                  ]
+            },
+            {
+                  "name": "Giáo hội Phật giáo VN tỉnh Quảng Trị",
+                  "text": "The provincial headquarters of the Vietnamese Buddhist Sangha, coordinating religious activities in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        106.620066,
+                        17.457533
+                  ]
+            },
+            {
+                  "name": "Chợ Võ Xá",
+                  "text": "A vibrant local marketplace where residents trade fresh produce, regional delicacies, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        106.653408,
+                        17.384569
+                  ]
+            },
+            {
+                  "name": "Morning Fish Market",
+                  "text": "A bustling early-morning market where local fishermen sell their freshly caught seafood from the nearby coast.",
+                  "category": "cultural",
+                  "coords": [
+                        106.627558,
+                        17.46458
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Mỹ",
+                  "text": "A bustling neighborhood market providing fresh produce and daily items for the residents of Dong My.",
+                  "category": "cultural",
+                  "coords": [
+                        106.623949,
+                        17.478259
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Phú",
+                  "text": "A daily local market in Dong Phu ward where vendors sell fresh vegetables, meats, and everyday wares.",
+                  "category": "cultural",
+                  "coords": [
+                        106.616994,
+                        17.469619
+                  ]
+            },
+            {
+                  "name": "Chợ Đức Ninh",
+                  "text": "A traditional marketplace in the Duc Ninh area, bustling with local traders and fresh daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.615475,
+                        17.445647
+                  ]
+            },
+            {
+                  "name": "Chợ Đồng Sơn",
+                  "text": "A local neighborhood market serving the Dong Son community with a variety of fresh foods and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        106.578048,
+                        17.449404
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "VN-24",
     coords: [106.633, 17.466],
@@ -867,7 +6249,124 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "ba-na-hills-mountain-v2",
+    id: "ba-na-hills-mountain-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thác Tóc Tiên",
+                  "text": "Ein Aussichtspunkt mit Blick auf den kaskadierenden Tóc Tiên Wasserfall an den üppigen Hängen der Ba Na Berge.",
+                  "category": "natural",
+                  "coords": [
+                        108.02623,
+                        16.024466
+                  ]
+            },
+            {
+                  "name": "Gần núi thần tài",
+                  "text": "Eine ruhige Kultstätte in der bergigen Landschaft nahe den heißen Quellen.",
+                  "category": "religious",
+                  "coords": [
+                        108.0721,
+                        15.991648
+                  ]
+            },
+            {
+                  "name": "Ngũ Nhạc Linh Từ",
+                  "text": "Ein buddhistischer Tempel, der von den hohen Lagen der Ba Na Hills einen weiten Panoramablick bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        108.031407,
+                        16.026509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thác Tóc Tiên",
+                  "text": "Kilátó, amely a Ba Na-hegység buja lejtőin lezúduló Tóc Tiên-vízesésre nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        108.02623,
+                        16.024466
+                  ]
+            },
+            {
+                  "name": "Gần núi thần tài",
+                  "text": "Egy csendes istentiszteleti hely, amely a forróvizes források közelében, hegyvidéki terepen található.",
+                  "category": "religious",
+                  "coords": [
+                        108.0721,
+                        15.991648
+                  ]
+            },
+            {
+                  "name": "Ngũ Nhạc Linh Từ",
+                  "text": "Buddhista templom, amely panorámás kilátást nyújt a Ba Na Hills magaslatairól.",
+                  "category": "landmark",
+                  "coords": [
+                        108.031407,
+                        16.026509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thác Tóc Tiên",
+                  "text": "Un punct de belvedere cu vedere la cascada Tóc Tiên de pe pantele luxuriante ale munților Ba Na.",
+                  "category": "natural",
+                  "coords": [
+                        108.02623,
+                        16.024466
+                  ]
+            },
+            {
+                  "name": "Gần núi thần tài",
+                  "text": "Un loc de cult liniștit, amplasat în terenul muntos de lângă izvoarele termale.",
+                  "category": "religious",
+                  "coords": [
+                        108.0721,
+                        15.991648
+                  ]
+            },
+            {
+                  "name": "Ngũ Nhạc Linh Từ",
+                  "text": "Un templu budist care oferă vederi panoramice de la altitudinile înalte ale Ba Na Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        108.031407,
+                        16.026509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thác Tóc Tiên",
+                  "text": "A viewpoint overlooking the cascading Tóc Tiên waterfall on the lush slopes of the Ba Na Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        108.02623,
+                        16.024466
+                  ]
+            },
+            {
+                  "name": "Gần núi thần tài",
+                  "text": "A quiet place of worship nestled in the mountainous terrain near the hot springs.",
+                  "category": "religious",
+                  "coords": [
+                        108.0721,
+                        15.991648
+                  ]
+            },
+            {
+                  "name": "Ngu Nhac Linh Tu Temple",
+                  "text": "A Buddhist temple offering panoramic views from the high elevations of Ba Na Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        108.031407,
+                        16.026509
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "VN-DN",
     coords: [107.996, 16.002],
@@ -915,7 +6414,376 @@ export const poiExtraVietnamReliefV2: POI[] = [
     },
   },
   {
-    id: "muong-hoa-valley-relief-v2",
+    id: "muong-hoa-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Su Pan",
+                  "text": "Ein ruhiges Dorf ethnischer Minderheiten mit traditionellen Holzhäusern und Terrassenfeldern.",
+                  "category": "landmark",
+                  "coords": [
+                        103.922844,
+                        22.293657
+                  ]
+            },
+            {
+                  "name": "Waterfall Quy Khach",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen herabstürzenden Gebirgsbach.",
+                  "category": "natural",
+                  "coords": [
+                        103.905377,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Muong Hoa Valley",
+                  "text": "Ein spektakulärer Aussichtspunkt über das größte Gebiet mit terrassierten Reisfelder in Sapa.",
+                  "category": "natural",
+                  "coords": [
+                        103.87737,
+                        22.314493
+                  ]
+            },
+            {
+                  "name": "Ta Van",
+                  "text": "Ein Aussichtspunkt mit Blick auf das traditionelle Dorf der Giay am Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        103.890217,
+                        22.303859
+                  ]
+            },
+            {
+                  "name": "Carved Boulder Museum",
+                  "text": "Ein Freilichtmuseum mit alten Felsen und geheimnisvollen prähistorischen Petroglyphen.",
+                  "category": "museum",
+                  "coords": [
+                        103.898556,
+                        22.304065
+                  ]
+            },
+            {
+                  "name": "Hau Thao",
+                  "text": "Ein friedliches Hmong-Dorf, das hoch oben an den Hängen des Muong-Hoa-Tals liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.907826,
+                        22.304145
+                  ]
+            },
+            {
+                  "name": "Hâu Thào village",
+                  "text": "Ein Panoramapunkt mit Blick auf die Nebelschwaden im Muong-Hoa-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        103.896191,
+                        22.317926
+                  ]
+            },
+            {
+                  "name": "Nationalpark Hoàng Liên",
+                  "text": "Ein Hotspot der Artenvielfalt und Heimat des Fansipan, des höchsten Gipfels Indochinas.",
+                  "category": "natural",
+                  "coords": [
+                        103.874215,
+                        22.239263
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Lao Chải",
+                  "text": "Eine kleine katholische Pfarrkirche, die der lokalen ethnischen Gemeinschaft im Tal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873578,
+                        22.307196
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Mường Hoa",
+                  "text": "Eine schlichte Kapelle am Flussufer, eingebettet in die terrassierten Felder.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873495,
+                        22.313955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Su Pan",
+                  "text": "Egy csendes etnikai kisebbségi falu hagyományos faházakkal és teraszos földekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.922844,
+                        22.293657
+                  ]
+            },
+            {
+                  "name": "Waterfall Quy Khach",
+                  "text": "Egy festői kilátóhely, amely egy lezúduló hegyi patakra néz.",
+                  "category": "natural",
+                  "coords": [
+                        103.905377,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Muong Hoa Valley",
+                  "text": "Egy látványos kilátó Sapa legnagyobb teraszos rizsföldjeire.",
+                  "category": "natural",
+                  "coords": [
+                        103.87737,
+                        22.314493
+                  ]
+            },
+            {
+                  "name": "Ta Van",
+                  "text": "Egy kilátópont, ahonnan rálátni a folyóparti hagyományos Giay falura.",
+                  "category": "natural",
+                  "coords": [
+                        103.890217,
+                        22.303859
+                  ]
+            },
+            {
+                  "name": "Carved Boulder Museum",
+                  "text": "Egy szabadtéri múzeum ősi sziklákkal és titokzatos őskori sziklarajzokkal.",
+                  "category": "museum",
+                  "coords": [
+                        103.898556,
+                        22.304065
+                  ]
+            },
+            {
+                  "name": "Hau Thao",
+                  "text": "Egy békés hmong falu, amely magasan a Muong Hoa-völgy lejtőin fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.907826,
+                        22.304145
+                  ]
+            },
+            {
+                  "name": "Hâu Thào village",
+                  "text": "Egy panorámás kilátópont, ahonnan látni a Muong Hoa-völgyben hömpölygő felhőket.",
+                  "category": "natural",
+                  "coords": [
+                        103.896191,
+                        22.317926
+                  ]
+            },
+            {
+                  "name": "Vườn quốc gia Hoàng Liên",
+                  "text": "A biodiverzitás egyik központja, ahol Indokína legmagasabb csúcsa, a Fansipan található.",
+                  "category": "natural",
+                  "coords": [
+                        103.874215,
+                        22.239263
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Lao Chải",
+                  "text": "Egy kis katolikus plébániatemplom, amely a völgy helyi etnikai közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873578,
+                        22.307196
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Mường Hoa",
+                  "text": "Egy egyszerű folyóparti kápolna a teraszos földek között.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873495,
+                        22.313955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Su Pan",
+                  "text": "Un sat liniștit al minorităților etnice, cunoscut pentru casele tradiționale din lemn și câmpurile terasate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.922844,
+                        22.293657
+                  ]
+            },
+            {
+                  "name": "Waterfall Quy Khach",
+                  "text": "Un punct de observație pitoresc cu vedere la un pârâu montan în cascadă.",
+                  "category": "natural",
+                  "coords": [
+                        103.905377,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Muong Hoa Valley",
+                  "text": "Un punct de observație spectaculos asupra celei mai mari zone cu terase de orez din Sapa.",
+                  "category": "natural",
+                  "coords": [
+                        103.87737,
+                        22.314493
+                  ]
+            },
+            {
+                  "name": "Ta Van",
+                  "text": "Un punct de observație cu vedere la satul tradițional Giay de lângă râu.",
+                  "category": "natural",
+                  "coords": [
+                        103.890217,
+                        22.303859
+                  ]
+            },
+            {
+                  "name": "Carved Boulder Museum",
+                  "text": "Un muzeu în aer liber cu stânci vechi și petroglife preistorice misterioase.",
+                  "category": "museum",
+                  "coords": [
+                        103.898556,
+                        22.304065
+                  ]
+            },
+            {
+                  "name": "Hau Thao",
+                  "text": "Un sat liniștit Hmong, cocoțat sus pe pantele văii Muong Hoa.",
+                  "category": "landmark",
+                  "coords": [
+                        103.907826,
+                        22.304145
+                  ]
+            },
+            {
+                  "name": "Hâu Thào village",
+                  "text": "Un punct de vedere panoramic care oferă priveliști ale norilor care se rostogolesc prin Valea Muong Hoa.",
+                  "category": "natural",
+                  "coords": [
+                        103.896191,
+                        22.317926
+                  ]
+            },
+            {
+                  "name": "Vườn quốc gia Hoàng Liên",
+                  "text": "Un punct fierbinte al biodiversității, unde se află Fansipan, cel mai înalt vârf din Indochina.",
+                  "category": "natural",
+                  "coords": [
+                        103.874215,
+                        22.239263
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Lao Chải",
+                  "text": "O mică biserică parohială catolică ce deservește comunitatea etnică locală din vale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873578,
+                        22.307196
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Mường Hoa",
+                  "text": "O capelă simplă pe malul râului, cuibărită printre câmpurile terasate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873495,
+                        22.313955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Su Pan",
+                  "text": "A quiet ethnic minority village known for its traditional wooden houses and terraced fields.",
+                  "category": "landmark",
+                  "coords": [
+                        103.922844,
+                        22.293657
+                  ]
+            },
+            {
+                  "name": "Waterfall Quy Khach",
+                  "text": "A scenic vantage point overlooking a cascading mountain stream.",
+                  "category": "natural",
+                  "coords": [
+                        103.905377,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Muong Hoa Valley",
+                  "text": "A spectacular lookout over the largest terraced rice field area in Sapa.",
+                  "category": "natural",
+                  "coords": [
+                        103.87737,
+                        22.314493
+                  ]
+            },
+            {
+                  "name": "Ta Van",
+                  "text": "A viewpoint overlooking the traditional Giay village by the river.",
+                  "category": "natural",
+                  "coords": [
+                        103.890217,
+                        22.303859
+                  ]
+            },
+            {
+                  "name": "Carved Boulder Museum",
+                  "text": "An outdoor museum displaying ancient rocks with mysterious prehistoric petroglyphs.",
+                  "category": "museum",
+                  "coords": [
+                        103.898556,
+                        22.304065
+                  ]
+            },
+            {
+                  "name": "Hau Thao",
+                  "text": "A peaceful Hmong village perched high on the slopes of the Muong Hoa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        103.907826,
+                        22.304145
+                  ]
+            },
+            {
+                  "name": "Hâu Thào village",
+                  "text": "A panoramic viewpoint offering views of the clouds rolling through the Muong Hoa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        103.896191,
+                        22.317926
+                  ]
+            },
+            {
+                  "name": "Hoang Lien National Park",
+                  "text": "A biodiversity hotspot home to Fansipan, Indochina's highest peak.",
+                  "category": "natural",
+                  "coords": [
+                        103.874215,
+                        22.239263
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Xứ Lao Chải",
+                  "text": "A small Catholic parish church serving the local ethnic community in the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873578,
+                        22.307196
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Giáo Họ Mường Hoa",
+                  "text": "A simple riverside chapel nestled among the terraced fields.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873495,
+                        22.313955
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "VN-02",
     coords: [103.850, 22.250],

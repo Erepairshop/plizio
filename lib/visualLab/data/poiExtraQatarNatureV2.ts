@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraQatarNatureV2: POI[] = [
   {
-    id: "qa-al-thakhira-mangroves-nature-v2",
+    id: "qa-al-thakhira-mangroves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Dakira Beach Historical Mosque",
+                  "text": "Die historische Moschee am Strand von Al Dakira ist eine alte religiöse Stätte, die ihren historischen Charme direkt neben den Küstenmangroven bewahrt hat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.546528,
+                        25.738196
+                  ]
+            },
+            {
+                  "name": "Al Khor Farmer's Market",
+                  "text": "Der Al Khor Farmer's Market herrscht geschäftiges Treiben in der Nähe der Mangroven und bietet frisch geerntete landwirtschaftliche Produkte von lokalen katarischen Farmen.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507554,
+                        25.715963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Dakira Beach Historical Mosque",
+                  "text": "Az Al Dakira Beach Történelmi Mecset egy régi vallási helyszín, amely megőrizte örökségi varázsát közvetlenül a parti mangroveerdők mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        51.546528,
+                        25.738196
+                  ]
+            },
+            {
+                  "name": "Al Khor Farmer's Market",
+                  "text": "Az Al Khor Termelői Piac a mangroveerdők közelében nyüzsög, frissen betakarított mezőgazdasági termékeket kínálva a helyi katari gazdaságokból.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507554,
+                        25.715963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Dakira Beach Historical Mosque",
+                  "text": "Moscheea Istorică de pe Plaja Al Dakira este un vechi sit religios care își păstrează farmecul de patrimoniu chiar lângă mangrovele de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.546528,
+                        25.738196
+                  ]
+            },
+            {
+                  "name": "Al Khor Farmer's Market",
+                  "text": "Piața fermierilor din Al Khor este plină de viață în apropierea mangrovelor, oferind produse agricole proaspăt recoltate de la fermele locale din Qatar.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507554,
+                        25.715963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Dakira Beach Historical Mosque",
+                  "text": "Al Dakira Beach Historical Mosque is an old religious site retaining its heritage charm right beside the coastal mangroves.",
+                  "category": "landmark",
+                  "coords": [
+                        51.546528,
+                        25.738196
+                  ]
+            },
+            {
+                  "name": "Al Khor Farmer's Market",
+                  "text": "The Al Khor Farmer's Market bustles near the mangroves, offering freshly harvested agricultural produce from local Qatari farms.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507554,
+                        25.715963
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "QA-KH",
     coords: [51.5475, 25.7266],
@@ -39,7 +120,52 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-khor-al-adaid-nature-v2",
+    id: "qa-khor-al-adaid-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al `Udayd",
+                  "text": "Historische Ruinen einer alten Siedlung nahe der Lagune Khor al-Adaid an der Grenze zu Saudi-Arabien.",
+                  "category": "historical",
+                  "coords": [
+                        51.410968,
+                        24.613221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al `Udayd",
+                  "text": "Egy ősi település történelmi romjai a Khor al-Adaid lagúna közelében, a szaúdi határ mentén.",
+                  "category": "historical",
+                  "coords": [
+                        51.410968,
+                        24.613221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al `Udayd",
+                  "text": "Ruinele istorice ale unei vechi așezări situate lângă laguna Khor al-Adaid, la granița cu Arabia Saudită.",
+                  "category": "historical",
+                  "coords": [
+                        51.410968,
+                        24.613221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al `Udayd",
+                  "text": "Historic ruins of an ancient settlement located near the Khor al-Adaid lagoon by the Saudi border.",
+                  "category": "historical",
+                  "coords": [
+                        51.410968,
+                        24.613221
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "QA-WA",
     coords: [51.4116, 24.6291],
@@ -75,7 +201,52 @@ export const poiExtraQatarNatureV2: POI[] = [
     },
   },
   {
-    id: "qa-al-reem-biosphere-nature-v2",
+    id: "qa-al-reem-biosphere-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Site No (m 47) - Kalet Alhsen",
+                  "text": "Diese archäologische Ausgrabungsstätte in einem geschützten Biosphärenreservat offenbart frühe Siedlungsmuster in der trockenen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        50.938027,
+                        25.542324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site No (m 47) - Kalet Alhsen",
+                  "text": "A védett bioszféra-rezervátumban található régészeti ásatási terület a száraz táj korai betelepülési mintáit tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        50.938027,
+                        25.542324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site No (m 47) - Kalet Alhsen",
+                  "text": "Situat într-o rezervație a biosferei protejată, acest sit de excavare arheologică dezvăluie modele timpurii de locuire în peisajul arid.",
+                  "category": "historical",
+                  "coords": [
+                        50.938027,
+                        25.542324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site No (m 47) - Kalet Alhsen",
+                  "text": "Located within a protected biosphere reserve, this archaeological excavation site reveals early habitation patterns in the arid landscape.",
+                  "category": "historical",
+                  "coords": [
+                        50.938027,
+                        25.542324
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "QA-SH",
     coords: [50.9333, 25.4667],
@@ -147,7 +318,88 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-ras-abrouq-formations-nature-v2",
+    id: "qa-ras-abrouq-formations-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Our Habitas Ras Abrouq",
+                  "text": "Dieses luxuriöse Strandresort liegt einzigartig inmitten der dramatischen, mondähnlichen Kalksteinfelsformationen der Halbinsel Ras Abrouq.",
+                  "category": "recreational",
+                  "coords": [
+                        50.831036,
+                        25.586108
+                  ]
+            },
+            {
+                  "name": "Film City",
+                  "text": "Dieses traditionelle arabische Scheindorf, das sich aus der einsamen Wüstenlandschaft erhebt, wurde rein als Kulisse für eine Filmproduktion errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.846299,
+                        25.578281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Our Habitas Ras Abrouq",
+                  "text": "Ez a luxus tengerparti üdülőhely egyedülálló módon a Ras Abrouq-félsziget drámai, holdszerű mészkőszikla-képződményei között helyezkedik el.",
+                  "category": "recreational",
+                  "coords": [
+                        50.831036,
+                        25.586108
+                  ]
+            },
+            {
+                  "name": "Film City",
+                  "text": "A kietlen sivatagi tájból kiemelkedő, hagyományos arab falut utánzó díszletet egy filmforgatáshoz építették.",
+                  "category": "landmark",
+                  "coords": [
+                        50.846299,
+                        25.578281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Our Habitas Ras Abrouq",
+                  "text": "Această stațiune de lux pe plajă este amplasată în mod unic printre formațiunile stâncoase de calcar dramatice, asemănătoare lunii, ale peninsulei Ras Abrouq.",
+                  "category": "recreational",
+                  "coords": [
+                        50.831036,
+                        25.586108
+                  ]
+            },
+            {
+                  "name": "Film City",
+                  "text": "Ridicându-se din peisajul deșertic pustiu, acest fals sat tradițional arab a fost construit pur și simplu ca un decor pentru o producție de film.",
+                  "category": "landmark",
+                  "coords": [
+                        50.846299,
+                        25.578281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Habitas Ras Abrouq",
+                  "text": "This luxury beach resort is uniquely set amidst the dramatic lunar-like limestone rock formations of the Ras Abrouq peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        50.831036,
+                        25.586108
+                  ]
+            },
+            {
+                  "name": "Film City",
+                  "text": "Rising from the desolate desert landscape, this mock traditional Arabic village was constructed purely as a set for a film production.",
+                  "category": "landmark",
+                  "coords": [
+                        50.846299,
+                        25.578281
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "QA-SH",
     coords: [50.8413, 25.5902],
@@ -291,7 +543,52 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-wadi-hubara-nature-v2",
+    id: "qa-wadi-hubara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "umm eledham old masjed",
+                  "text": "Eine alte muslimische Stätte in der Nähe des Naturschutzgebiets Wadi Hubara, die die traditionelle religiöse Wüstenarchitektur widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.150864,
+                        25.823197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "umm eledham old masjed",
+                  "text": "Egy régi muszlim imahely a Wadi Hubara természetvédelmi terület közelében, amely a hagyományos sivatagi vallási építészetet tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.150864,
+                        25.823197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "umm eledham old masjed",
+                  "text": "Un vechi lăcaș de cult musulman lângă rezervația naturală Wadi Hubara, reflectând arhitectura religioasă tradițională a deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.150864,
+                        25.823197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "umm eledham old masjed",
+                  "text": "An old Muslim site near the Wadi Hubara nature area, reflecting traditional desert religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.150864,
+                        25.823197
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "QA-MS",
     coords: [51.2155, 25.8643],
@@ -327,7 +624,160 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-wadi-al-banat-nature-v2",
+    id: "qa-wadi-al-banat-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Circusland",
+                  "text": "Ein farbenfroher Indoor-Freizeitpark für Familien im Einkaufszentrum Landmark Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        51.465923,
+                        25.334706
+                  ]
+            },
+            {
+                  "name": "Al Firdous Compound",
+                  "text": "Eine markante Wohnanlage in Wadi Al Banat, bekannt für ihre traditionelle katarische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454626,
+                        25.340426
+                  ]
+            },
+            {
+                  "name": "Saleh Ibrahim Bughdir Al-Mannai",
+                  "text": "Eine lokale Moschee in Wadi Al Banat, die als religiöser Mittelpunkt der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.477115,
+                        25.366778
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 13",
+                  "text": "Teil einer Reihe lokaler Märkte, die die tägliche Versorgung des Viertels Wadi Al Banat sichern.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477302,
+                        25.363042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Circusland",
+                  "text": "Színes fedett vidámpark családok számára a Landmark Mall bevásárlóközpontban.",
+                  "category": "recreational",
+                  "coords": [
+                        51.465923,
+                        25.334706
+                  ]
+            },
+            {
+                  "name": "Al Firdous Compound",
+                  "text": "Jellegzetes lakópark Wadi Al Banatban, amely a hagyományos katari építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454626,
+                        25.340426
+                  ]
+            },
+            {
+                  "name": "Saleh Ibrahim Bughdir Al-Mannai",
+                  "text": "Helyi mecset Wadi Al Banatban, amely a közösség vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        51.477115,
+                        25.366778
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 13",
+                  "text": "Helyi piacok egyike, amelyek Wadi Al Banat negyed napi ellátását biztosítják.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477302,
+                        25.363042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Circusland",
+                  "text": "Un parc de distracții interior colorat pentru familii, situat în Landmark Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        51.465923,
+                        25.334706
+                  ]
+            },
+            {
+                  "name": "Al Firdous Compound",
+                  "text": "Un complex rezidențial distinctiv în Wadi Al Banat, cunoscut pentru arhitectura sa tradițională qatariană.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454626,
+                        25.340426
+                  ]
+            },
+            {
+                  "name": "Saleh Ibrahim Bughdir Al-Mannai",
+                  "text": "O moschee locală în Wadi Al Banat, care servește drept centru religios al comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        51.477115,
+                        25.366778
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 13",
+                  "text": "Parte a unei serii de piețe locale care asigură aprovizionarea zilnică a cartierului Wadi Al Banat.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477302,
+                        25.363042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Circusland",
+                  "text": "A colorful indoor amusement park for families located within the Landmark Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        51.465923,
+                        25.334706
+                  ]
+            },
+            {
+                  "name": "Al Firdous Compound",
+                  "text": "A distinctive residential complex in Wadi Al Banat known for its traditional Qatari architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454626,
+                        25.340426
+                  ]
+            },
+            {
+                  "name": "Saleh Ibrahim Bughdir Al-Mannai",
+                  "text": "A local mosque in Wadi Al Banat serving as a religious hub for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        51.477115,
+                        25.366778
+                  ]
+            },
+            {
+                  "name": "Al Furjan Markets 13",
+                  "text": "Part of a series of local markets providing daily essentials to the Wadi Al Banat neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        51.477302,
+                        25.363042
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "QA-DA",
     coords: [51.4682, 25.3524],
@@ -435,7 +885,124 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-jebel-fuwairit-nature-v2",
+    id: "qa-jebel-fuwairit-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al ghariya exit",
+                  "text": "Der Zugangspunkt zu den malerischen Sandstränden und Küstenlandschaften von Al Ghariya.",
+                  "category": "landmark",
+                  "coords": [
+                        51.332973,
+                        26.040776
+                  ]
+            },
+            {
+                  "name": "Fuwairit Archeological Site",
+                  "text": "Eine Ausgrabungsstätte an der Nordküste, die Zeugnisse früherer Wüstensiedlungen bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        51.369337,
+                        26.031494
+                  ]
+            },
+            {
+                  "name": "Zarqa Archaeological Site",
+                  "text": "Historische Stätte mit archäologischen Funden aus der Zeit der Perlenfischerei.",
+                  "category": "historical",
+                  "coords": [
+                        51.355158,
+                        26.02525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al ghariya exit",
+                  "text": "Bejárat Al Ghariya festői homokos strandjaihoz és tengerparti tájaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        51.332973,
+                        26.040776
+                  ]
+            },
+            {
+                  "name": "Fuwairit Archeological Site",
+                  "text": "Északi parti ásatási terület, amely korai sivatagi települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        51.369337,
+                        26.031494
+                  ]
+            },
+            {
+                  "name": "Zarqa Archaeological Site",
+                  "text": "Történelmi helyszín a gyöngyhalászat korából származó régészeti leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        51.355158,
+                        26.02525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al ghariya exit",
+                  "text": "Punctul de acces către plajele de nisip pitorești și peisajele de coastă din Al Ghariya.",
+                  "category": "landmark",
+                  "coords": [
+                        51.332973,
+                        26.040776
+                  ]
+            },
+            {
+                  "name": "Fuwairit Archeological Site",
+                  "text": "Un sit arheologic pe coasta de nord care păstrează dovezi ale vechilor așezări din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        51.369337,
+                        26.031494
+                  ]
+            },
+            {
+                  "name": "Zarqa Archaeological Site",
+                  "text": "Sit istoric cu descoperiri arheologice ce datează din epoca pescuitului de perle.",
+                  "category": "historical",
+                  "coords": [
+                        51.355158,
+                        26.02525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al ghariya exit",
+                  "text": "The access point to the scenic sandy beaches and coastal landscapes of Al Ghariya.",
+                  "category": "landmark",
+                  "coords": [
+                        51.332973,
+                        26.040776
+                  ]
+            },
+            {
+                  "name": "Fuwairit Archeological Site",
+                  "text": "An archaeological site on the north coast preserving evidence of early desert settlements.",
+                  "category": "historical",
+                  "coords": [
+                        51.369337,
+                        26.031494
+                  ]
+            },
+            {
+                  "name": "Zarqa Archaeological Site",
+                  "text": "Historical site featuring archaeological finds dating back to the era of pearl diving.",
+                  "category": "historical",
+                  "coords": [
+                        51.355158,
+                        26.02525
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "QA-MS",
     coords: [51.3664, 26.0275],
@@ -579,7 +1146,52 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-al-wabra-preservation-nature-v2",
+    id: "qa-al-wabra-preservation-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Wabra Wildlife Sanctury",
+                  "text": "Dieses spezialisierte Wildtierzuchtzentrum ist international bekannt für seine erfolgreichen Bemühungen, den stark gefährdeten Spix-Ara vor dem Aussterben zu bewahren.",
+                  "category": "recreational",
+                  "coords": [
+                        51.174304,
+                        25.341043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Wabra Wildlife Sanctury",
+                  "text": "Ez a specializált vadon élő állatokat tenyésztő központ nemzetközileg ismert a súlyosan veszélyeztetett Spix-ara megmentésére irányuló sikeres erőfeszítéseiről.",
+                  "category": "recreational",
+                  "coords": [
+                        51.174304,
+                        25.341043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Wabra Wildlife Sanctury",
+                  "text": "Acest centru specializat în creșterea animalelor sălbatice este renumit la nivel internațional pentru eforturile sale de succes în salvarea de la dispariție a papagalului Ara al lui Spix, extrem de periclitat.",
+                  "category": "recreational",
+                  "coords": [
+                        51.174304,
+                        25.341043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Wabra Wildlife Sanctury",
+                  "text": "This specialized wildlife breeding center is internationally renowned for its successful efforts in saving the highly endangered Spix's Macaw from extinction.",
+                  "category": "recreational",
+                  "coords": [
+                        51.174304,
+                        25.341043
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "QA-SH",
     coords: [51.1963, 25.3218],
@@ -651,7 +1263,160 @@ export const poiExtraQatarNatureV2: POI[] = [
     }
   },
   {
-    id: "qa-qatof-forest-nature-v2",
+    id: "qa-qatof-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Maha Island",
+                  "text": "Ein Unterhaltungszentrum in Lusail, auf dem sich der Themenpark Winter Wonderland befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52762,
+                        25.399972
+                  ]
+            },
+            {
+                  "name": "Azure Beach Doha",
+                  "text": "Ein luxuriöser Beachclub mit einem Infinity-Pool und Blick auf den Persischen Golf.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527538,
+                        25.43483
+                  ]
+            },
+            {
+                  "name": "Meryal Waterpark",
+                  "text": "Ein riesiger Wasserpark mit dem weltweit höchsten Rutschenturm auf der Insel Qetaifan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.531985,
+                        25.431929
+                  ]
+            },
+            {
+                  "name": "Mosque Twenty Seven",
+                  "text": "Ein modernes islamisches Bethaus im neu entwickelten Stadtteil Lusail.",
+                  "category": "landmark",
+                  "coords": [
+                        51.525676,
+                        25.43038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Maha Island",
+                  "text": "Szórakoztató központ Lusailban, amely a Winter Wonderland vidámparknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52762,
+                        25.399972
+                  ]
+            },
+            {
+                  "name": "Azure Beach Doha",
+                  "text": "Luxus strandklub végtelenített medencével és kilátással a Perzsa-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527538,
+                        25.43483
+                  ]
+            },
+            {
+                  "name": "Meryal Waterpark",
+                  "text": "Hatalmas vízipark a világ legmagasabb csúszdatornyával a Qetaifan-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        51.531985,
+                        25.431929
+                  ]
+            },
+            {
+                  "name": "Mosque Twenty Seven",
+                  "text": "Egy modern iszlám imaház Lusail újonnan kiépült városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.525676,
+                        25.43038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Maha Island",
+                  "text": "Un centru de divertisment în Lusail, care găzduiește parcul tematic Winter Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52762,
+                        25.399972
+                  ]
+            },
+            {
+                  "name": "Azure Beach Doha",
+                  "text": "Un club de plajă de lux cu o piscină infinită și vedere spre Golful Persic.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527538,
+                        25.43483
+                  ]
+            },
+            {
+                  "name": "Meryal Waterpark",
+                  "text": "Un parc acvatic masiv care deține cel mai înalt turn de tobogane din lume, pe insula Qetaifan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.531985,
+                        25.431929
+                  ]
+            },
+            {
+                  "name": "Mosque Twenty Seven",
+                  "text": "O casă de rugăciune islamică modernă în cartierul Lusail, recent dezvoltat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.525676,
+                        25.43038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Maha Island",
+                  "text": "An entertainment hub in Lusail that hosts the Winter Wonderland theme park.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52762,
+                        25.399972
+                  ]
+            },
+            {
+                  "name": "Azure Beach Doha",
+                  "text": "A luxury beach club featuring an infinity pool and views over the Arabian Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527538,
+                        25.43483
+                  ]
+            },
+            {
+                  "name": "Meryal Waterpark",
+                  "text": "A massive water park featuring the world's tallest slide tower on Qetaifan Island.",
+                  "category": "recreational",
+                  "coords": [
+                        51.531985,
+                        25.431929
+                  ]
+            },
+            {
+                  "name": "Mosque Twenty Seven",
+                  "text": "A modern Islamic prayer house in the newly developed Lusail district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.525676,
+                        25.43038
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "QA-DA",
     coords: [51.5234, 25.4056],

@@ -16,7 +16,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe der Zipser Burg.",
+                  "text": "Eine mittelalterliche Siedlungsgrabung am Fuße der Zipser Burg.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -34,7 +34,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "Der Berg, auf dem die Zipser Burg thront.",
+                  "text": "Der Spišský hradný vrch ist der Travertinhügel, auf dem das UNESCO-geschützte Zipser Schloss thront.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -43,7 +43,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľ Hodkovce",
-                  "text": "Ein historisches Herrenhaus in Hodkovce bei der Zipser Burg.",
+                  "text": "Das Kaštieľ Hodkovce ist ein Renaissance-Herrenhaus mit befestigtem Turm am Fuß des Spiš-Burgbergs.",
                   "category": "historical",
                   "coords": [
                         20.783137,
@@ -52,7 +52,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "Eine Parkanlage, die zu einem lokalen Herrenhaus gehört.",
+                  "text": "Der Kaštieľsky park ist ein historischer Park um das Herrenhaus am Fuß der Spiš-Burg.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -90,7 +90,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "Régészeti lelőhely a Szepesi vár közelében.",
+                  "text": "Középkori településásatás a Szepesi vár lábánál.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -108,7 +108,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "A domb, amelyen a Szepesi vár áll.",
+                  "text": "A Spišský hradný vrch az a travertínódomb, amelyen az UNESCO világörökség részét képező Szepesi vár áll.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -117,7 +117,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľ Hodkovce",
-                  "text": "Történelmi kastély Hodkovce faluban, a Szepesi vár közelében.",
+                  "text": "A Kaštieľ Hodkovce egy reneszánsz kastély erődített toronnyal a Szepesi várdomb lábánál.",
                   "category": "historical",
                   "coords": [
                         20.783137,
@@ -126,7 +126,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "Egy helyi kastélyhoz tartozó park.",
+                  "text": "A Kaštieľsky park egy történelmi park a Szepesi vár lábánál lévő kastély körül.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -164,7 +164,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "Un sit arheologic situat în apropierea Castelului Spiš.",
+                  "text": "O săpătură arheologică medievală la poalele Castelului Spiš.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -182,7 +182,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "Dealul pe care este situat Castelul Spiš.",
+                  "text": "Spišský hradný vrch este dealul de travertin pe care se înalță Castelul Spiš, inclus în patrimoniul UNESCO.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -191,7 +191,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľ Hodkovce",
-                  "text": "Un conac istoric în Hodkovce, lângă Castelul Spiš.",
+                  "text": "Kaštieľ Hodkovce este un conac renascentist cu un turn fortificat la poalele dealului Castelului Spis.",
                   "category": "historical",
                   "coords": [
                         20.783137,
@@ -200,7 +200,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "Un parc situat în incinta unui conac local.",
+                  "text": "Parcul Kaštieľsky este un parc istoric care înconjoară conacul de la baza Castelului Spis.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -238,7 +238,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "An archaeological site located near Spiš Castle.",
+                  "text": "A medieval settlement excavation at the foot of Spiš Castle.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -256,7 +256,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "The hill upon which Spiš Castle is situated.",
+                  "text": "Spišský hradný vrch is the travertine hill crowned by the UNESCO-listed Spiš Castle.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -265,7 +265,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľ Hodkovce",
-                  "text": "A historic manor house in Hodkovce, near Spiš Castle.",
+                  "text": "Kaštieľ Hodkovce is a Renaissance manor house with a fortified tower at the foot of Spiš Castle hill.",
                   "category": "historical",
                   "coords": [
                         20.783137,
@@ -274,7 +274,7 @@ export const slovakiaHistory: POI[] = [
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "A park area belonging to a local manor house.",
+                  "text": "Kaštieľsky park is a historic park surrounding the manor at the base of Spiš Castle.",
                   "category": "park",
                   "coords": [
                         20.781605,

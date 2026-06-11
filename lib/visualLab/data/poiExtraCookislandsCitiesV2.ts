@@ -453,7 +453,520 @@ export const cookislandsCitiesV2: POI[] = [
     image: "/poi-images/cookislands-arorangi-cities-v2.webp",
   },
   {
-    id: "cookislands-ngatangiia-cities-v2", "sights": {"de": [{"name": "Te Ara Museum", "text": "Te Ara Museum ist ein Museum in Ngatangiia.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Matavera Beach", "text": "In der beschaulichen Gegend von Ngatangiia eröffnet sich mit dem Matavera Beach ein naturbelassenes Küstenparadies. Das Rauschen des Meeres und die tropische Vegetation schaffen eine harmonische Atmosphäre, die zum Träumen einlädt. Dieser Strandabschnitt ist perfekt für Reisende, die abseits großer Menschenmengen entspannte Inselstunden verbringen möchten.", "category": "recreational", "coords": [-159.73434, -21.21825]}, {"name": "Takitumu Conservation Area", "text": "Takitumu Conservation Area ist ein Naturschutzgebiet in Ngatangiia.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Oroenga", "text": "Oroenga ist ein Berggipfel in Ngatangiia.", "category": "natural", "coords": [-159.748928, -21.223773]}, {"name": "Te Vaakauta", "text": "Te Vaakauta ist ein Berggipfel in Ngatangiia.", "category": "natural", "coords": [-159.750472, -21.235471]}, {"name": "Te Tanga", "text": "Te Tanga ist ein Berggipfel in Ngatangiia.", "category": "natural", "coords": [-159.740695, -21.2352]}, {"name": "Arore", "text": "Arore ist ein Berggipfel in Ngatangiia.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "Toroume ist ein Berggipfel in Ngatangiia.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "Muri Lagoon ist eine beliebte Lagunenattraktion in Ngatangiia, die für ihr klares Wasser bekannt ist.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Marae No Pa Ariki", "text": "Marae No Pa Ariki bezeichnet Ruinen in Ngatangiia.", "category": "historical", "coords": [-159.732573, -21.236329]}, {"name": "Muri Beach", "text": "Muri Beach zählt zu den absoluten landschaftlichen Höhepunkten in Ngatangiia und fasziniert mit seinem feinen Sand. Die malerische Lagune bietet eine atemberaubende Kulisse für ausgiebige Schwimmzüge und unvergessliche Spaziergänge. Da dieser Ort sehr beliebt ist, lohnt es sich, früh am Tag einzutreffen, um den besten Platz an der Sonne zu ergattern.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "7 Canoes", "text": "7 Canoes ist ein Denkmal in Ngatangiia.", "category": "historical", "coords": [-159.728082, -21.244599]}, {"name": "Te Vara Nui Village", "text": "Te Vara Nui Village ist eine Sehenswürdigkeit in Ngatangiia.", "category": "landmark", "coords": [-159.730978, -21.254636]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "Captain Tamas Lagoon Cruizes ist eine Sehenswürdigkeit in Ngatangiia.", "category": "landmark", "coords": [-159.731153, -21.257141]}], "hu": [{"name": "Te Ara Museum", "text": "A(z) Te Ara Museum egy múzeum Ngatangiia városában.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Matavera Beach", "text": "Ngatangiia békés vidékén a Matavera Beach egy érintetlen tengerparti paradicsomot tár elénk. A tenger zúgása és a trópusi növényzet harmonikus légkört teremt, amely álmodozásra hív. Ez a partszakasz tökéletes azoknak az utazóknak, akik a nagy tömegektől távol szeretnének eltölteni néhány pihentető szigeti órát.", "category": "recreational", "coords": [-159.73434, -21.21825]}, {"name": "Takitumu Conservation Area", "text": "A(z) Takitumu Conservation Area egy természetvédelmi terület Ngatangiia városában.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Oroenga", "text": "A(z) Oroenga egy hegycsúcs Ngatangiia városában.", "category": "natural", "coords": [-159.748928, -21.223773]}, {"name": "Te Vaakauta", "text": "A(z) Te Vaakauta egy hegycsúcs Ngatangiia városában.", "category": "natural", "coords": [-159.750472, -21.235471]}, {"name": "Te Tanga", "text": "A(z) Te Tanga egy hegycsúcs Ngatangiia városában.", "category": "natural", "coords": [-159.740695, -21.2352]}, {"name": "Arore", "text": "A(z) Arore egy hegycsúcs Ngatangiia városában.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "A(z) Toroume egy hegycsúcs Ngatangiia városában.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "A Muri Lagoon egy népszerű lagúna Ngatangiia területén, amely kristálytiszta vizéről ismert.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Marae No Pa Ariki", "text": "A Marae No Pa Ariki romokat jelöl Ngatangiia városában.", "category": "historical", "coords": [-159.732573, -21.236329]}, {"name": "Muri Beach", "text": "Muri Beach Ngatangiia egyik abszolút táji fénypontja, amely finom homokjával nyűgöz le. A festői lagúna lélegzetelállító hátteret biztosít a kimerítő úszásokhoz és a felejthetetlen sétákhoz. Mivel ez a hely igen népszerű, érdemes korán érkezni a nap folyamán, hogy a legjobb napos helyet csíphessük el.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "7 Canoes", "text": "A(z) 7 Canoes egy emlékmű Ngatangiia városában.", "category": "historical", "coords": [-159.728082, -21.244599]}, {"name": "Te Vara Nui Village", "text": "A(z) Te Vara Nui Village egy látványosság Ngatangiia városában.", "category": "landmark", "coords": [-159.730978, -21.254636]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "A(z) Captain Tamas Lagoon Cruizes egy látványosság Ngatangiia városában.", "category": "landmark", "coords": [-159.731153, -21.257141]}], "ro": [{"name": "Te Ara Museum", "text": "Te Ara Museum este un muzeu situat în Ngatangiia.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Matavera Beach", "text": "În zona liniștită din Ngatangiia, Matavera Beach dezvăluie un paradis de coastă nealterat. Sunetul mării și vegetația tropicală creează o atmosferă armonioasă, perfectă pentru visare. Această porțiune de plajă este perfectă pentru călătorii care doresc să petreacă ore relaxante pe insulă, departe de mulțimile mari.", "category": "recreational", "coords": [-159.73434, -21.21825]}, {"name": "Takitumu Conservation Area", "text": "Takitumu Conservation Area este o rezervație naturală situată în Ngatangiia.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Oroenga", "text": "Oroenga este un vârf situat în Ngatangiia.", "category": "natural", "coords": [-159.748928, -21.223773]}, {"name": "Te Vaakauta", "text": "Te Vaakauta este un vârf situat în Ngatangiia.", "category": "natural", "coords": [-159.750472, -21.235471]}, {"name": "Te Tanga", "text": "Te Tanga este un vârf situat în Ngatangiia.", "category": "natural", "coords": [-159.740695, -21.2352]}, {"name": "Arore", "text": "Arore este un vârf situat în Ngatangiia.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "Toroume este un vârf situat în Ngatangiia.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "Muri Lagoon este o atracție populară din Ngatangiia, cunoscută pentru apele sale limpezi și frumoase.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Marae No Pa Ariki", "text": "Marae No Pa Ariki se referă la ruine situate în Ngatangiia.", "category": "historical", "coords": [-159.732573, -21.236329]}, {"name": "Muri Beach", "text": "Muri Beach este cu siguranță unul dintre punctele de atracție peisagistice din Ngatangiia, fascinând prin nisipul său fin. Laguna pitorească oferă un decor uluitor pentru sesiuni prelungite de înot și plimbări de neuitat. Deoarece acest loc este foarte popular, merită să ajungeți devreme în timpul zilei pentru a obține cel mai bun loc la soare.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "7 Canoes", "text": "7 Canoes este un monument situat în Ngatangiia.", "category": "historical", "coords": [-159.728082, -21.244599]}, {"name": "Te Vara Nui Village", "text": "Te Vara Nui Village este o atracție situată în Ngatangiia.", "category": "landmark", "coords": [-159.730978, -21.254636]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "Captain Tamas Lagoon Cruizes este o atracție situată în Ngatangiia.", "category": "landmark", "coords": [-159.731153, -21.257141]}], "en": [{"name": "Te Ara Museum", "text": "Te Ara Museum is a museum located in Ngatangiia.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Matavera Beach", "text": "In the peaceful area of Ngatangiia, Matavera Beach unfolds as an untouched coastal paradise. The sound of the sea and the tropical vegetation create a harmonious atmosphere that invites you to dream. This stretch of beach is perfect for travelers looking to spend relaxing island hours away from large crowds.", "category": "recreational", "coords": [-159.73434, -21.21825]}, {"name": "Takitumu Conservation Area", "text": "Takitumu Conservation Area is a nature reserve located in Ngatangiia.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Oroenga", "text": "Oroenga is a peak located in Ngatangiia.", "category": "natural", "coords": [-159.748928, -21.223773]}, {"name": "Te Vaakauta", "text": "Te Vaakauta is a peak located in Ngatangiia.", "category": "natural", "coords": [-159.750472, -21.235471]}, {"name": "Te Tanga", "text": "Te Tanga is a peak located in Ngatangiia.", "category": "natural", "coords": [-159.740695, -21.2352]}, {"name": "Arore", "text": "Arore is a peak located in Ngatangiia.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "Toroume is a peak located in Ngatangiia.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "Muri Lagoon is a popular lagoon attraction in Ngatangiia known for its beautiful clear waters.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Marae No Pa Ariki", "text": "Marae No Pa Ariki refers to ruins located in Ngatangiia.", "category": "historical", "coords": [-159.732573, -21.236329]}, {"name": "Muri Beach", "text": "Muri Beach is undoubtedly one of the scenic highlights of Ngatangiia, captivating visitors with its fine sand. The picturesque lagoon provides a breathtaking backdrop for extensive swims and unforgettable walks. As this spot is quite popular, it pays to arrive early in the day to secure the best place in the sun.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "7 Canoes", "text": "7 Canoes is a monument located in Ngatangiia.", "category": "historical", "coords": [-159.728082, -21.244599]}, {"name": "Te Vara Nui Village", "text": "Te Vara Nui Village is an attraction located in Ngatangiia.", "category": "landmark", "coords": [-159.730978, -21.254636]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "Captain Tamas Lagoon Cruizes is an attraction located in Ngatangiia.", "category": "landmark", "coords": [-159.731153, -21.257141]}]},
+    id: "cookislands-ngatangiia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "Das Te Ara Museum zeigt eine Ausstellung über die Ankunft der sieben Kanus auf Rarotonga.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Matavera Beach",
+                  "text": "In der beschaulichen Gegend von Ngatangiia eröffnet sich mit dem Matavera Beach ein naturbelassenes Küstenparadies. Das Rauschen des Meeres und die tropische Vegetation schaffen eine harmonische Atmosphäre, die zum Träumen einlädt. Dieser Strandabschnitt ist perfekt für Reisende, die abseits großer Menschenmengen entspannte Inselstunden verbringen möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        -159.73434,
+                        -21.21825
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "Ein Schutzgebiet, das die seltene Rarotonga-Dickkopfvogelart beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Oroenga",
+                  "text": "Korallenriff-Durchfahrt in der Lagune von Rarotonga, nahe Ngatangiia, beliebt zum Schnorcheln.",
+                  "category": "natural",
+                  "coords": [
+                        -159.748928,
+                        -21.223773
+                  ]
+            },
+            {
+                  "name": "Te Vaakauta",
+                  "text": "Ein natürlicher Aussichtspunkt über der Muri-Lagune im Bezirk Ngatangiia auf Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.750472,
+                        -21.235471
+                  ]
+            },
+            {
+                  "name": "Te Tanga",
+                  "text": "Ein natürlicher Aussichtspunkt über der Muri-Lagune im Bezirk Ngatangiia auf Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.740695,
+                        -21.2352
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "Ein natürlicher Aussichtspunkt über der Muri-Lagune im Bezirk Ngatangiia auf Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "Ein natürlicher Aussichtspunkt über der Muri-Lagune im Bezirk Ngatangiia auf Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "Muri Lagoon ist eine beliebte Lagunenattraktion in Ngatangiia, die für ihr klares Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Marae No Pa Ariki",
+                  "text": "Eine zeremonielle Stätte der Pa-Ariki-Häuptlinge mit steinernen Plattformen.",
+                  "category": "historical",
+                  "coords": [
+                        -159.732573,
+                        -21.236329
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Muri Beach zählt zu den absoluten landschaftlichen Höhepunkten in Ngatangiia und fasziniert mit seinem feinen Sand. Die malerische Lagune bietet eine atemberaubende Kulisse für ausgiebige Schwimmzüge und unvergessliche Spaziergänge. Da dieser Ort sehr beliebt ist, lohnt es sich, früh am Tag einzutreffen, um den besten Platz an der Sonne zu ergattern.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "7 Canoes",
+                  "text": "Ein historischer Ort, der an die sieben Kanus erinnert, die die Insel besiedelten.",
+                  "category": "historical",
+                  "coords": [
+                        -159.728082,
+                        -21.244599
+                  ]
+            },
+            {
+                  "name": "Te Vara Nui Village",
+                  "text": "Ein kulturelles Dorf mit abendlichen Tanz- und Feuershows.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.730978,
+                        -21.254636
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Ein Anbieter von Glasbodenboot-Touren über die Muri-Lagune.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "A Te Ara Múzeum kiállítása a hét kenu Rarotongára érkezését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Matavera Beach",
+                  "text": "Ngatangiia békés vidékén a Matavera Beach egy érintetlen tengerparti paradicsomot tár elénk. A tenger zúgása és a trópusi növényzet harmonikus légkört teremt, amely álmodozásra hív. Ez a partszakasz tökéletes azoknak az utazóknak, akik a nagy tömegektől távol szeretnének eltölteni néhány pihentető szigeti órát.",
+                  "category": "recreational",
+                  "coords": [
+                        -159.73434,
+                        -21.21825
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "Egy védett terület, amely otthont ad a ritka rarotongai légykapóféléknek.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Oroenga",
+                  "text": "Korallzátony-átjáró a Rarotonga lagúnában, Ngatangiia közelében, népszerű búvárhely.",
+                  "category": "natural",
+                  "coords": [
+                        -159.748928,
+                        -21.223773
+                  ]
+            },
+            {
+                  "name": "Te Vaakauta",
+                  "text": "Egy természeti látványosság, amely a Muri-lagúnára nyújt kilátást Ngatangiia körzetében, Rarotongán.",
+                  "category": "natural",
+                  "coords": [
+                        -159.750472,
+                        -21.235471
+                  ]
+            },
+            {
+                  "name": "Te Tanga",
+                  "text": "Egy természeti látványosság, amely a Muri-lagúnára nyújt kilátást Ngatangiia körzetében, Rarotongán.",
+                  "category": "natural",
+                  "coords": [
+                        -159.740695,
+                        -21.2352
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "Egy természeti látványosság, amely a Muri-lagúnára nyújt kilátást Ngatangiia körzetében, Rarotongán.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "Egy természeti látványosság, amely a Muri-lagúnára nyújt kilátást Ngatangiia körzetében, Rarotongán.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "A Muri Lagoon egy népszerű lagúna Ngatangiia területén, amely kristálytiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Marae No Pa Ariki",
+                  "text": "A Pa-Ariki törzsfőnökök szertartási helye kőplatformokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -159.732573,
+                        -21.236329
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Muri Beach Ngatangiia egyik abszolút táji fénypontja, amely finom homokjával nyűgöz le. A festői lagúna lélegzetelállító hátteret biztosít a kimerítő úszásokhoz és a felejthetetlen sétákhoz. Mivel ez a hely igen népszerű, érdemes korán érkezni a nap folyamán, hogy a legjobb napos helyet csíphessük el.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "7 Canoes",
+                  "text": "Egy történelmi hely, amely a szigetet benépesítő hét kenura emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -159.728082,
+                        -21.244599
+                  ]
+            },
+            {
+                  "name": "Te Vara Nui Village",
+                  "text": "Egy kulturális falu esti tánc- és tűzshow-kkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.730978,
+                        -21.254636
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Üvegfenekű csónaktúrákat kínál a Muri-lagúnán.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "Muzeul Te Ara prezintă o expoziție despre sosirea celor șapte canoe pe Rarotonga.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Matavera Beach",
+                  "text": "În zona liniștită din Ngatangiia, Matavera Beach dezvăluie un paradis de coastă nealterat. Sunetul mării și vegetația tropicală creează o atmosferă armonioasă, perfectă pentru visare. Această porțiune de plajă este perfectă pentru călătorii care doresc să petreacă ore relaxante pe insulă, departe de mulțimile mari.",
+                  "category": "recreational",
+                  "coords": [
+                        -159.73434,
+                        -21.21825
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "O arie protejată care adăpostește specia rară de pasăre Rarotonga flycatcher.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Oroenga",
+                  "text": "Pasaj de recif de corali în laguna din Rarotonga, lângă Ngatangiia, popular pentru snorkeling.",
+                  "category": "natural",
+                  "coords": [
+                        -159.748928,
+                        -21.223773
+                  ]
+            },
+            {
+                  "name": "Te Vaakauta",
+                  "text": "Un punct natural cu vedere asupra lagunei Muri în districtul Ngatangiia din Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.750472,
+                        -21.235471
+                  ]
+            },
+            {
+                  "name": "Te Tanga",
+                  "text": "Un punct natural cu vedere asupra lagunei Muri în districtul Ngatangiia din Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.740695,
+                        -21.2352
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "Un punct natural cu vedere asupra lagunei Muri în districtul Ngatangiia din Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "Un punct natural cu vedere asupra lagunei Muri în districtul Ngatangiia din Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "Muri Lagoon este o atracție populară din Ngatangiia, cunoscută pentru apele sale limpezi și frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Marae No Pa Ariki",
+                  "text": "Un sit ceremonial al căpeteniilor Pa-Ariki, cu platforme de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -159.732573,
+                        -21.236329
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Muri Beach este cu siguranță unul dintre punctele de atracție peisagistice din Ngatangiia, fascinând prin nisipul său fin. Laguna pitorească oferă un decor uluitor pentru sesiuni prelungite de înot și plimbări de neuitat. Deoarece acest loc este foarte popular, merită să ajungeți devreme în timpul zilei pentru a obține cel mai bun loc la soare.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "7 Canoes",
+                  "text": "Un loc istoric care comemorează cele șapte canoe care au colonizat insula.",
+                  "category": "historical",
+                  "coords": [
+                        -159.728082,
+                        -21.244599
+                  ]
+            },
+            {
+                  "name": "Te Vara Nui Village",
+                  "text": "Un sat cultural cu spectacole de dans și foc seara.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.730978,
+                        -21.254636
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Un operator de tururi cu bărci cu fund de sticlă pe laguna Muri.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "The Te Ara Museum features an exhibition on the arrival of the seven canoes to Rarotonga.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Matavera Beach",
+                  "text": "In the peaceful area of Ngatangiia, Matavera Beach unfolds as an untouched coastal paradise. The sound of the sea and the tropical vegetation create a harmonious atmosphere that invites you to dream. This stretch of beach is perfect for travelers looking to spend relaxing island hours away from large crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        -159.73434,
+                        -21.21825
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "A protected area that is home to the rare Rarotonga flycatcher.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Oroenga",
+                  "text": "Oroenga: a coral reef passage in Rarotonga's lagoon, near Ngatangiia, popular for snorkeling.",
+                  "category": "natural",
+                  "coords": [
+                        -159.748928,
+                        -21.223773
+                  ]
+            },
+            {
+                  "name": "Te Vaakauta",
+                  "text": "A natural spot overlooking Muri Lagoon in the Ngatangiia district of Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.750472,
+                        -21.235471
+                  ]
+            },
+            {
+                  "name": "Te Tanga",
+                  "text": "A natural spot overlooking Muri Lagoon in the Ngatangiia district of Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.740695,
+                        -21.2352
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "A natural spot overlooking Muri Lagoon in the Ngatangiia district of Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "A natural spot overlooking Muri Lagoon in the Ngatangiia district of Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "Muri Lagoon is a popular lagoon attraction in Ngatangiia known for its beautiful clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Marae No Pa Ariki",
+                  "text": "A ceremonial site of the Pa Ariki chiefs, with stone platforms.",
+                  "category": "historical",
+                  "coords": [
+                        -159.732573,
+                        -21.236329
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Muri Beach is undoubtedly one of the scenic highlights of Ngatangiia, captivating visitors with its fine sand. The picturesque lagoon provides a breathtaking backdrop for extensive swims and unforgettable walks. As this spot is quite popular, it pays to arrive early in the day to secure the best place in the sun.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "7 Canoes",
+                  "text": "A historical site commemorating the seven canoes that settled the island.",
+                  "category": "historical",
+                  "coords": [
+                        -159.728082,
+                        -21.244599
+                  ]
+            },
+            {
+                  "name": "Te Vara Nui Village",
+                  "text": "A cultural village with evening dance and fire shows.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.730978,
+                        -21.254636
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "A provider of glass-bottom boat tours across Muri Lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            }
+      ]
+},
     parent: "CK",
     type: "town",
     name: { de: "Ngatangiia", hu: "Ngatangiia", ro: "Ngatangiia", en: "Ngatangiia" },
@@ -498,7 +1011,376 @@ export const cookislandsCitiesV2: POI[] = [
     image: "/poi-images/cookislands-ngatangiia-cities-v2.webp",
   },
   {
-    id: "cookislands-titikaveka-cities-v2", "sights": {"de": [{"name": "Te Ara Museum", "text": "Ein Museum in Titikaveka.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Takitumu Conservation Area", "text": "Ein Naturschutzgebiet in Titikaveka.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Arore", "text": "Ein Gipfel in Titikaveka.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "Ein Gipfel in Titikaveka.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "Die Muri-Lagune ist ein bekanntes Naturjuwel.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Muri Beach", "text": "Auch von der Seite Titikavekas aus zeigt sich Muri Beach von seiner schönsten Seite und zieht viele Küstenliebhaber an. Besucher erfreuen sich an dem kristallklaren Wasser und der tropischen Stimmung, die hier herrscht. Um die magische Atmosphäre ungestört zu erleben, bietet sich ein ruhiger Spaziergang in den Abendstunden an.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "Snorkelling", "text": "Ein Ort zum Schnorcheln in Titikaveka.", "category": "landmark", "coords": [-159.741768, -21.274157]}, {"name": "Fruits of Rarotonga Snorkelling", "text": "Ein beliebter Schnorchelspot in Titikaveka.", "category": "landmark", "coords": [-159.743576, -21.270719]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "Ein Anbieter für Lagunentouren in Titikaveka.", "category": "landmark", "coords": [-159.731153, -21.257141]}, {"name": "Maire Nui Gardens", "text": "Ein schöner Garten in Titikaveka.", "category": "landmark", "coords": [-159.750347, -21.270387]}], "hu": [{"name": "Te Ara Museum", "text": "Múzeum Titikavekában.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Takitumu Conservation Area", "text": "Természetvédelmi terület Titikavekában.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Arore", "text": "Hegycsúcs Titikavekában.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "Hegycsúcs Titikavekában.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "A Muri-lagúna egy híres természeti gyöngyszem.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Muri Beach", "text": "A Muri Beach Titikaveka felől is a legszebb arcát mutatja, és számos partkedvelőt vonz magához. A látogatók örömüket lelik a kristálytiszta vízben és az itt uralkodó trópusi hangulatban. Ahhoz, hogy zavartalanul átéljük a varázslatos légkört, ideális egy csendes séta az esti órákban.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "Snorkelling", "text": "Sznorkelezési hely Titikavekában.", "category": "landmark", "coords": [-159.741768, -21.274157]}, {"name": "Fruits of Rarotonga Snorkelling", "text": "Népszerű sznorkelezési pont Titikavekában.", "category": "landmark", "coords": [-159.743576, -21.270719]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "Lagúnatúrákat kínáló cég Titikavekában.", "category": "landmark", "coords": [-159.731153, -21.257141]}, {"name": "Maire Nui Gardens", "text": "Gyönyörű kert Titikavekában.", "category": "landmark", "coords": [-159.750347, -21.270387]}], "ro": [{"name": "Te Ara Museum", "text": "Un muzeu în Titikaveka.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Takitumu Conservation Area", "text": "O rezervație naturală în Titikaveka.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Arore", "text": "Un vârf muntos în Titikaveka.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "Un vârf muntos în Titikaveka.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "Laguna Muri este o bijuterie naturală faimoasă.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Muri Beach", "text": "Chiar și de pe partea Titikaveka, Muri Beach se arată în cea mai frumoasă lumină, atrăgând mulți iubitori ai coastei. Vizitatorii se bucură de apa cristalină și de atmosfera tropicală care domnește aici. Pentru a experimenta atmosfera magică netulburat, o plimbare liniștită în orele serii este ideală.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "Snorkelling", "text": "Un loc pentru snorkeling în Titikaveka.", "category": "landmark", "coords": [-159.741768, -21.274157]}, {"name": "Fruits of Rarotonga Snorkelling", "text": "Un loc popular de snorkeling în Titikaveka.", "category": "landmark", "coords": [-159.743576, -21.270719]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "Un operator de tururi în lagună în Titikaveka.", "category": "landmark", "coords": [-159.731153, -21.257141]}, {"name": "Maire Nui Gardens", "text": "O grădină frumoasă în Titikaveka.", "category": "landmark", "coords": [-159.750347, -21.270387]}], "en": [{"name": "Te Ara Museum", "text": "A museum in Titikaveka.", "category": "museum", "coords": [-159.733925, -21.259218]}, {"name": "Takitumu Conservation Area", "text": "A nature reserve in Titikaveka.", "category": "natural", "coords": [-159.766725, -21.252312]}, {"name": "Arore", "text": "A mountain peak in Titikaveka.", "category": "natural", "coords": [-159.737452, -21.250602]}, {"name": "Toroume", "text": "A mountain peak in Titikaveka.", "category": "natural", "coords": [-159.751592, -21.25955]}, {"name": "Muri Lagoon", "text": "Muri Lagoon is a famous natural gem.", "category": "landmark", "coords": [-159.727368, -21.256001]}, {"name": "Muri Beach", "text": "Seen from the Titikaveka side, Muri Beach also reveals its most beautiful aspect, drawing many coastal lovers. Visitors delight in the crystal-clear water and the tropical mood that prevails here. To experience the magical atmosphere undisturbed, a quiet walk during the evening hours is highly recommended.", "category": "landmark", "coords": [-159.732518, -21.260913]}, {"name": "Snorkelling", "text": "A place for snorkelling in Titikaveka.", "category": "landmark", "coords": [-159.741768, -21.274157]}, {"name": "Fruits of Rarotonga Snorkelling", "text": "A popular snorkelling spot in Titikaveka.", "category": "landmark", "coords": [-159.743576, -21.270719]}, {"name": "Captain Tamas Lagoon Cruizes", "text": "A lagoon tour operator in Titikaveka.", "category": "landmark", "coords": [-159.731153, -21.257141]}, {"name": "Maire Nui Gardens", "text": "A beautiful garden in Titikaveka.", "category": "landmark", "coords": [-159.750347, -21.270387]}]},
+    id: "cookislands-titikaveka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "Ein Museum in Titikaveka, das sich auf die maritime Geschichte der Cookinseln konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "Ein Küstenabschnitt des Takitumu-Schutzgebiets mit Blick auf die Lagune.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "Ein natürlicher Punkt in der Nähe des Titikaveka-Strandes auf Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "Ein natürlicher Punkt in der Nähe des Titikaveka-Strandes auf Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "Eine türkisfarbene Lagune mit Sandbänken und Korallenriffen vor Titikaveka.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Auch von der Seite Titikavekas aus zeigt sich Muri Beach von seiner schönsten Seite und zieht viele Küstenliebhaber an. Besucher erfreuen sich an dem kristallklaren Wasser und der tropischen Stimmung, die hier herrscht. Um die magische Atmosphäre ungestört zu erleben, bietet sich ein ruhiger Spaziergang in den Abendstunden an.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Ein beliebter Schnorchelplatz am Riff von Titikaveka.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.741768,
+                        -21.274157
+                  ]
+            },
+            {
+                  "name": "Fruits of Rarotonga Snorkelling",
+                  "text": "Ein geführter Schnorchelausflug zu den Korallengärten der Lagune.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.743576,
+                        -21.270719
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Kreuzfahrten auf der Muri-Lagune mit dem Glasbodenboot.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            },
+            {
+                  "name": "Maire Nui Gardens",
+                  "text": "Ein botanischer Garten mit tropischen Blumen und einem traditionellen Versammlungshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.750347,
+                        -21.270387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "Egy múzeum Titikavekában, amely a Cook-szigetek tengerészeti történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "A Takitumu Védett Terület tengerparti szakasza, ahonnan kilátás nyílik a lagúnára.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "Egy természeti helyszín a Titikaveka strand közelében Rarotongán.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "Egy természeti helyszín a Titikaveka strand közelében Rarotongán.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "Türkizkék lagúna homokzátonyokkal és korallzátonyokkal Titikaveka partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "A Muri Beach Titikaveka felől is a legszebb arcát mutatja, és számos partkedvelőt vonz magához. A látogatók örömüket lelik a kristálytiszta vízben és az itt uralkodó trópusi hangulatban. Ahhoz, hogy zavartalanul átéljük a varázslatos légkört, ideális egy csendes séta az esti órákban.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Népszerű snorkelezőhely a Titikaveka-i zátonynál.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.741768,
+                        -21.274157
+                  ]
+            },
+            {
+                  "name": "Fruits of Rarotonga Snorkelling",
+                  "text": "Vezetett snorkelezőkirándulás a lagúna korallkertjeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.743576,
+                        -21.270719
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Üvegfenekű hajóval tett körutazások a Muri-lagúnán.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            },
+            {
+                  "name": "Maire Nui Gardens",
+                  "text": "Egy botanikus kert trópusi virágokkal és egy hagyományos gyülekezőházzal.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.750347,
+                        -21.270387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "Un muzeu în Titikaveka, concentrat pe istoria maritimă a Insulelor Cook.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "Un sector de coastă al Ariei Protejate Takitumu, cu vedere spre lagună.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "Un punct natural lângă plaja Titikaveka din Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "Un punct natural lângă plaja Titikaveka din Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "O lagună turcoaz cu bancuri de nisip și recife de corali în largul Titikaveka.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Chiar și de pe partea Titikaveka, Muri Beach se arată în cea mai frumoasă lumină, atrăgând mulți iubitori ai coastei. Vizitatorii se bucură de apa cristalină și de atmosfera tropicală care domnește aici. Pentru a experimenta atmosfera magică netulburat, o plimbare liniștită în orele serii este ideală.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Un loc popular de snorkeling la reciful din Titikaveka.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.741768,
+                        -21.274157
+                  ]
+            },
+            {
+                  "name": "Fruits of Rarotonga Snorkelling",
+                  "text": "O excursie ghidată de snorkeling către grădinile de corali ale lagunei.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.743576,
+                        -21.270719
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Croaziere pe laguna Muri cu barca cu fund de sticlă.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            },
+            {
+                  "name": "Maire Nui Gardens",
+                  "text": "O grădină botanică cu flori tropicale și o casă tradițională de adunare.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.750347,
+                        -21.270387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Te Ara Museum",
+                  "text": "A museum in Titikaveka focusing on the maritime history of the Cook Islands.",
+                  "category": "museum",
+                  "coords": [
+                        -159.733925,
+                        -21.259218
+                  ]
+            },
+            {
+                  "name": "Takitumu Conservation Area",
+                  "text": "A coastal section of the Takitumu Conservation Area overlooking the lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        -159.766725,
+                        -21.252312
+                  ]
+            },
+            {
+                  "name": "Arore",
+                  "text": "A natural spot near Titikaveka Beach on Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.737452,
+                        -21.250602
+                  ]
+            },
+            {
+                  "name": "Toroume",
+                  "text": "A natural spot near Titikaveka Beach on Rarotonga.",
+                  "category": "natural",
+                  "coords": [
+                        -159.751592,
+                        -21.25955
+                  ]
+            },
+            {
+                  "name": "Muri Lagoon",
+                  "text": "A turquoise lagoon with sandbars and coral reefs off Titikaveka.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.727368,
+                        -21.256001
+                  ]
+            },
+            {
+                  "name": "Muri Beach",
+                  "text": "Seen from the Titikaveka side, Muri Beach also reveals its most beautiful aspect, drawing many coastal lovers. Visitors delight in the crystal-clear water and the tropical mood that prevails here. To experience the magical atmosphere undisturbed, a quiet walk during the evening hours is highly recommended.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.732518,
+                        -21.260913
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "A popular snorkelling spot at the Titikaveka reef.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.741768,
+                        -21.274157
+                  ]
+            },
+            {
+                  "name": "Fruits of Rarotonga Snorkelling",
+                  "text": "A guided snorkelling trip to the coral gardens of the lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.743576,
+                        -21.270719
+                  ]
+            },
+            {
+                  "name": "Captain Tamas Lagoon Cruizes",
+                  "text": "Cruises on Muri Lagoon with a glass-bottom boat.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.731153,
+                        -21.257141
+                  ]
+            },
+            {
+                  "name": "Maire Nui Gardens",
+                  "text": "A botanical garden with tropical flowers and a traditional meeting house.",
+                  "category": "landmark",
+                  "coords": [
+                        -159.750347,
+                        -21.270387
+                  ]
+            }
+      ]
+},
     parent: "CK",
     type: "town",
     name: { de: "Titikaveka", hu: "Titikaveka", ro: "Titikaveka", en: "Titikaveka" },

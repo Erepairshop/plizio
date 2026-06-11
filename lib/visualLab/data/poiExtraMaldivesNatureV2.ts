@@ -39,7 +39,412 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-bandaara-kilhi-nature-v2",
+    id: "mv-bandaara-kilhi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farikede Faru",
+                  "text": "Ein malerisches Riffgebiet in der Nähe des einzigartigen Süßwassersee-Ökosystems von Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.449141,
+                        -0.325971
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "Eine Meeresattraktion, die für ihre lebhaften Fächerkorallen in den Gewässern um Fuvahmulah bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "Ein weltberühmter Ort zur Beobachtung von Tigerhaien in ihrem natürlichen Lebensraum vor der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306572
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "Ein traditioneller, in das Riff gehauener Bootskanal, der historisch von den Inselbewohnern genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die üppige Vegetation und die Küstenlinie der Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "Ein malerischer Ort an der Küste, ideal um den Sonnenuntergang über dem Indischen Ozean zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "Ein lebendiges Korallenriff, das hervorragende Möglichkeiten zur Schnorcheln und Meeresbeobachtung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "Ein alter, aus Korallenstein errichteter Stufenbrunnen, der traditionelle maledivische Handwerkskunst zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "Ein lokaler Ausgangspunkt zur Erkundung der einzigartigen ökologischen Wunder der Insel Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            },
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "Eine lokale Moschee mit traditioneller Architektur, die den Bewohnern von Fuvahmulah dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.426656,
+                        -0.2991
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Inara",
+                  "text": "Ein Ort des islamischen Gottesdienstes für die lokale Gemeinschaft auf der isolierten Insel Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.424011,
+                        -0.293949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farikede Faru",
+                  "text": "Gidres-bodros korallzátony Fuvahmulah egyedülálló édesvízi tavi ökoszisztémájának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.449141,
+                        -0.325971
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "Tengeri látványosság, amely a Fuvahmulah körüli vizekben található élénk legyezőkoralljairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "Világhírű hely a tigriscápák természetes élőhelyükön való megfigyelésére a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306572
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "Hagyományos, a zátonyba vájt csatorna, amelyet történelmileg a szigetlakók használtak a hajózáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "Kilátópont, ahonnan remek kilátás nyílik a sziget dús növényzetére és partvonalára.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "Gidres-bodros tengerparti helyszín, amely tökéletes a naplemente megtekintéséhez az Indiai-óceán felett.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "Élénk korallzátony, amely kiváló lehetőségeket kínál a búvárkodáshoz és a tengeri élővilág megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "Ősi, korallkőből épült lépcsős kút, amely a hagyományos maldív kézművességet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "Helyi kapu Fuvahmulah-sziget egyedülálló ökológiai csodáinak felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            },
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "Helyi mecset hagyományos építészettel, amely Fuvahmulah lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.426656,
+                        -0.2991
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Inara",
+                  "text": "Iszlám istentiszteleti hely a helyi közösség számára Fuvahmulah elszigetelt szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.424011,
+                        -0.293949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farikede Faru",
+                  "text": "O zonă de recif pitorească situată lângă ecosistemul unic de lac cu apă dulce din Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.449141,
+                        -0.325971
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "O atracție marină cunoscută pentru corali de tip evantai din apele care înconjoară Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "Un sit renumit la nivel mondial pentru observarea rechinilor tigru în habitatul lor natural de lângă coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306572
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "Un canal tradițional pentru bărci săpat în recif, folosit istoric de localnicii de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra vegetației luxuriante și a liniei de coastă a insulei.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "O locație pitorească pe coastă, perfectă pentru a urmări apusul de soare peste Oceanul Indian.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "Un recif de corali vibrant care oferă oportunități excelente pentru snorkeling și observarea vieții marine.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "O fântână antică cu trepte, construită din piatră de corali, care prezintă măiestria tradițională maldiviană.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "O poartă locală pentru explorarea minunilor ecologice unice ale insulei Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            },
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "O moschee locală cu arhitectură tradițională, care deservește locuitorii din Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.426656,
+                        -0.2991
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Inara",
+                  "text": "Un lăcaș de cult islamic pentru comunitatea locală de pe insula izolată Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.424011,
+                        -0.293949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farikede Faru",
+                  "text": "A scenic reef area located near the unique freshwater lake ecosystem of Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.449141,
+                        -0.325971
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "A marine attraction known for its vibrant seafan corals in the waters surrounding Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "A world-renowned site for observing tiger sharks in their natural habitat off the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306572
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "A traditional boat channel carved into the reef, used historically by local islanders.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "A viewpoint offering elevated views of the island's lush vegetation and coastline.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "A picturesque coastal location perfect for watching the sun set over the Indian Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "A vibrant coral reef offering excellent opportunities for snorkeling and marine life observation.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "An ancient communal step-well built from coral stone, showcasing traditional Maldivian craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "A local gateway for exploring the unique ecological wonders of Fuvahmulah island.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            },
+            {
+                  "name": "Masjidhul Furugaan",
+                  "text": "A local mosque serving the islanders of Fuvahmulah with traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        73.426656,
+                        -0.2991
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Inara",
+                  "text": "A place of Islamic worship for the local community on the isolated island of Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.424011,
+                        -0.293949
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MV-29",
     coords: [73.426, -0.295],
@@ -75,7 +480,160 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-dhadimagi-kilhi-nature-v2",
+    id: "mv-dhadimagi-kilhi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thundi",
+                  "text": "Ein herrlicher weißer Kieselstrand an der Nordspitze der Insel, berühmt für seinen wandernden Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "Ein moderner Freizeitort an der Küste mit Blick auf die einzigartigen Korallenformationen der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "Die Ruinen eines alten buddhistischen Stupas, die das vorislamische Erbe der Insel repräsentieren.",
+                  "category": "landmark",
+                  "coords": [
+                        73.419023,
+                        -0.281027
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Aaisha",
+                  "text": "Eine lokale Moschee in der Nähe des Süßwasser-Feuchtgebiets Dhadimagi Kilhi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.412023,
+                        -0.283839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thundi",
+                  "text": "Lenyűgöző fehér kavicsos strand a sziget északi csücskén, amely híres vándorló homokjáról.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "Modern tengerparti szabadidős helyszín, ahonnan kilátás nyílik a sziget egyedülálló korallformációira.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "Egy ősi buddhista sztúpa romjai, amelyek a sziget iszlám előtti örökségét képviselik.",
+                  "category": "landmark",
+                  "coords": [
+                        73.419023,
+                        -0.281027
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Aaisha",
+                  "text": "Helyi mecset a Dhadimagi Kilhi édesvízi mocsaras területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.412023,
+                        -0.283839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thundi",
+                  "text": "O plajă superbă cu pietriș alb în vârful nordic al insulei, faimoasă pentru nisipurile sale mișcătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "Un loc de agrement modern pe coastă, oferind vederi asupra formațiunilor unice de corali ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "Ruinele unei vechi stupe budiste, reprezentând moștenirea pre-islamică a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.419023,
+                        -0.281027
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Aaisha",
+                  "text": "O moschee locală situată lângă zona umedă cu apă dulce Dhadimagi Kilhi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.412023,
+                        -0.283839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thundi",
+                  "text": "A stunning white pebble beach on the northern tip of the island, famous for its unique shifting sands.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "A contemporary coastal leisure spot offering views of the island's unique coral formations.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "The ruins of an ancient Buddhist stupa, representing the island's pre-Islamic heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        73.419023,
+                        -0.281027
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Aaisha",
+                  "text": "A local mosque located near the Dhadimagi Kilhi freshwater wetland area.",
+                  "category": "landmark",
+                  "coords": [
+                        73.412023,
+                        -0.283839
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MV-29",
     coords: [73.425, -0.285],
@@ -111,7 +669,160 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-huraa-mangrove-nature-v2",
+    id: "mv-huraa-mangrove-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Giant Tree with a bench",
+                  "text": "Dieser gewaltige Mangrovenbaum am Rande des Sumpfes bietet Wanderern einen schattigen Rastplatz auf einer Bank.",
+                  "category": "landmark",
+                  "coords": [
+                        73.617033,
+                        4.349143
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "Ein ruhiger Sandstrand mit flachem Wasser, der ideal zum Schnorcheln in der Nähe der Mangrovenwälder geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Die Dorfmoschee von Huraa zeichnet sich durch ihre schlichte Architektur und ihre Bedeutung für die lokale Gemeinschaft aus.",
+                  "category": "landmark",
+                  "coords": [
+                        73.618791,
+                        4.349768
+                  ]
+            },
+            {
+                  "name": "Dhonbandaraa Misky",
+                  "text": "Dieses historische muslimische Bethaus dient den Bewohnern der Insel Huraa als spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        73.600366,
+                        4.331858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Giant Tree with a bench",
+                  "text": "Ez a hatalmas mangrovefa a mocsár szélén egy paddal kínál árnyékos pihenőhelyet a kirándulóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.617033,
+                        4.349143
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "Csendes, homokos strand sekély vízzel, amely ideális a mangroveerdők közeli búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Huraa falusi mecsetét egyszerű építészet és a helyi közösség számára betöltött fontos szerep jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.618791,
+                        4.349768
+                  ]
+            },
+            {
+                  "name": "Dhonbandaraa Misky",
+                  "text": "Ez a történelmi muszlim imaház lelki központként szolgál Huraa szigetének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.600366,
+                        4.331858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Giant Tree with a bench",
+                  "text": "Acest arbore de mangrove uriaș de la marginea mlaștinii oferă drumeților un loc de odihnă umbros pe o bancă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.617033,
+                        4.349143
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "O plajă de nisip liniștită cu apă puțin adâncă, ideală pentru snorkeling în apropierea pădurilor de mangrove.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Moscheea din satul Huraa se remarcă prin arhitectura sa simplă și importanța sa pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.618791,
+                        4.349768
+                  ]
+            },
+            {
+                  "name": "Dhonbandaraa Misky",
+                  "text": "Această casă de rugăciune musulmană istorică servește ca centru spiritual pentru locuitorii insulei Huraa.",
+                  "category": "landmark",
+                  "coords": [
+                        73.600366,
+                        4.331858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Giant Tree with a bench",
+                  "text": "This massive mangrove tree at the edge of the swamp offers hikers a shaded resting spot with a bench.",
+                  "category": "landmark",
+                  "coords": [
+                        73.617033,
+                        4.349143
+                  ]
+            },
+            {
+                  "name": "Dream beach",
+                  "text": "A quiet sandy beach with shallow water, ideal for snorkeling near the mangrove forests.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "The village mosque of Huraa is characterized by its simple architecture and its importance to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        73.618791,
+                        4.349768
+                  ]
+            },
+            {
+                  "name": "Dhonbandaraa Misky",
+                  "text": "This historical Muslim prayer house serves as a spiritual center for the residents of Huraa island.",
+                  "category": "landmark",
+                  "coords": [
+                        73.600366,
+                        4.331858
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MV-26",
     coords: [73.598, 4.331],
@@ -147,7 +858,52 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-south-ari-atoll-mpa-nature-v2",
+    id: "mv-south-ari-atoll-mpa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhidhoo corner (out reef)",
+                  "text": "Eine Riffkante im Süd-Ari-Atoll, die häufig von Walhaien auf der Suche nach Plankton besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        72.876898,
+                        3.479069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhidhoo corner (out reef)",
+                  "text": "Zátonyperem a Dél-Ari-atollon, amelyet gyakran látogatnak planktonra vadászó cetcápák.",
+                  "category": "landmark",
+                  "coords": [
+                        72.876898,
+                        3.479069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhidhoo corner (out reef)",
+                  "text": "O margine de recif în atolul Ari de Sud, vizitată frecvent de rechini-balenă în căutare de plancton.",
+                  "category": "landmark",
+                  "coords": [
+                        72.876898,
+                        3.479069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhidhoo corner (out reef)",
+                  "text": "A reef edge in South Ari Atoll frequently visited by whale sharks searching for plankton.",
+                  "category": "landmark",
+                  "coords": [
+                        72.876898,
+                        3.479069
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MV-02",
     coords: [72.85, 3.5],
@@ -183,7 +939,52 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-kuda-haa-nature-v2",
+    id: "mv-kuda-haa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spa and Yoga Pavillion",
+                  "text": "Dieser tropische Spa- und Yoga-Pavillon bietet Wellnessanwendungen inmitten der Inselnatur von Kuda Haa.",
+                  "category": "recreational",
+                  "coords": [
+                        73.426958,
+                        4.284397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spa and Yoga Pavillion",
+                  "text": "Ez a trópusi fürdő- és jógapavilon wellnesskezeléseket kínál Kuda Haa szigeti természetével körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        73.426958,
+                        4.284397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spa and Yoga Pavillion",
+                  "text": "Acest pavilion tropical de spa și yoga oferă tratamente de wellness înconjurat de natura insulei Kuda Haa.",
+                  "category": "recreational",
+                  "coords": [
+                        73.426958,
+                        4.284397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spa and Yoga Pavillion",
+                  "text": "This tropical spa and yoga pavilion offers wellness treatments surrounded by the island nature of Kuda Haa.",
+                  "category": "recreational",
+                  "coords": [
+                        73.426958,
+                        4.284397
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MV-26",
     coords: [73.423, 4.298],
@@ -255,7 +1056,160 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-kandooma-thila-nature-v2",
+    id: "mv-kandooma-thila-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner ist eine bekannte Tauchattraktion im Gebiet von mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila ist eine natürliche Unterwasserattraktion innerhalb von mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner ist eine Attraktion und ein markanter Tauchplatz in mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "West Beach ist ein Küstenort zur Entspannung in mv-kandooma-thila-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472239,
+                        3.903674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cocoa Corner",
+                  "text": "A Cocoa Corner egy jól ismert búvár attrakció mv-kandooma-thila-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "A Cocoa Tila egy víz alatti természeti látványosság mv-kandooma-thila-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "A Kandoma Corner egy attrakció és kiemelkedő merülőhely mv-kandooma-thila-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "A West Beach egy tengerparti pihenőhely mv-kandooma-thila-nature-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472239,
+                        3.903674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner este o atracție de scufundări binecunoscută situată în zona mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila este o atracție naturală subacvatică situată în mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner este o atracție și un loc de scufundare proeminent aflat în mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "West Beach este un loc de coastă pentru relaxare situat în mv-kandooma-thila-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472239,
+                        3.903674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner is a well-known diving attraction located in the mv-kandooma-thila-nature-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila is an underwater natural attraction situated within mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner is an attraction and prominent dive site found in mv-kandooma-thila-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "West Beach is a coastal spot for relaxation located in mv-kandooma-thila-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472239,
+                        3.903674
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MV-26",
     coords: [73.473, 3.905],
@@ -363,7 +1317,88 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-vashafaru-mangroves-nature-v2",
+    id: "mv-vashafaru-mangroves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hukuru Miskiy",
+                  "text": "Die Freitagsmoschee auf Vashafaru befindet sich in der Nähe des einzigartigen Mangroven-Ökosystems der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        73.229325,
+                        6.879711
+                  ]
+            },
+            {
+                  "name": "Kuda Miskiyy",
+                  "text": "Diese kleine, traditionelle Moschee auf Vashafaru ist von der tropischen Vegetation des Atolls umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        73.228212,
+                        6.877668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hukuru Miskiy",
+                  "text": "A vashafarui Péntek Mecset a sziget egyedülálló mangrove ökoszisztémájának közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.229325,
+                        6.879711
+                  ]
+            },
+            {
+                  "name": "Kuda Miskiyy",
+                  "text": "Ezt a kis, hagyományos mecsetet Vashafaru szigetén az atoll trópusi növényzete öleli körül.",
+                  "category": "landmark",
+                  "coords": [
+                        73.228212,
+                        6.877668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hukuru Miskiy",
+                  "text": "Moscheea de Vineri de pe Vashafaru este situată în apropierea ecosistemului unic de mangrove al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.229325,
+                        6.879711
+                  ]
+            },
+            {
+                  "name": "Kuda Miskiyy",
+                  "text": "Această mică moschee tradițională de pe Vashafaru este înconjurată de vegetația tropicală a atolului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.228212,
+                        6.877668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hukuru Miskiy",
+                  "text": "The Friday Mosque on Vashafaru is located near the island's unique mangrove ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        73.229325,
+                        6.879711
+                  ]
+            },
+            {
+                  "name": "Kuda Miskiyy",
+                  "text": "This small, traditional mosque on Vashafaru is surrounded by the tropical vegetation of the atoll.",
+                  "category": "landmark",
+                  "coords": [
+                        73.228212,
+                        6.877668
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MV-01",
     coords: [73.195, 6.941],
@@ -399,7 +1434,196 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-embudhoo-express-nature-v2",
+    id: "mv-embudhoo-express-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Embudu Kandu",
+                  "text": "Embudu Kandu ist eine natürliche Sehenswürdigkeit im Gebiet mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.529577,
+                        4.085491
+                  ]
+            },
+            {
+                  "name": "Embudu Channel / Embudu Express",
+                  "text": "Embudu Channel / Embudu Express ist eine beliebte Wasserattraktion in mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.533887,
+                        4.0874
+                  ]
+            },
+            {
+                  "name": "Embudu Finolhu Outside",
+                  "text": "Embudu Finolhu Outside ist eine malerische Attraktion in mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.532507,
+                        4.1086
+                  ]
+            },
+            {
+                  "name": "Coral garden",
+                  "text": "Coral garden ist eine Meeresattraktion in mv-embudhoo-express-nature-v2, die für ihre Unterwasserschönheit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.510494,
+                        4.083075
+                  ]
+            },
+            {
+                  "name": "Serena Spa",
+                  "text": "Serena Spa ist eine Wellness-Einrichtung, die Entspannungsdienste in mv-embudhoo-express-nature-v2 anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        73.512182,
+                        4.083281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Embudu Kandu",
+                  "text": "Az Embudu Kandu egy természeti látványosság a mv-embudhoo-express-nature-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.529577,
+                        4.085491
+                  ]
+            },
+            {
+                  "name": "Embudu Channel / Embudu Express",
+                  "text": "Az Embudu Channel / Embudu Express egy népszerű vízi látványosság mv-embudhoo-express-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.533887,
+                        4.0874
+                  ]
+            },
+            {
+                  "name": "Embudu Finolhu Outside",
+                  "text": "Az Embudu Finolhu Outside egy festői látványosság mv-embudhoo-express-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.532507,
+                        4.1086
+                  ]
+            },
+            {
+                  "name": "Coral garden",
+                  "text": "A Coral garden egy víz alatti szépségéről ismert tengeri látványosság mv-embudhoo-express-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.510494,
+                        4.083075
+                  ]
+            },
+            {
+                  "name": "Serena Spa",
+                  "text": "A Serena Spa egy relaxációs szolgáltatásokat kínáló wellness létesítmény mv-embudhoo-express-nature-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.512182,
+                        4.083281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Embudu Kandu",
+                  "text": "Embudu Kandu este o atracție naturală situată în zona mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.529577,
+                        4.085491
+                  ]
+            },
+            {
+                  "name": "Embudu Channel / Embudu Express",
+                  "text": "Embudu Channel / Embudu Express este o atracție acvatică populară din mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.533887,
+                        4.0874
+                  ]
+            },
+            {
+                  "name": "Embudu Finolhu Outside",
+                  "text": "Embudu Finolhu Outside este o atracție pitorească situată în mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.532507,
+                        4.1086
+                  ]
+            },
+            {
+                  "name": "Coral garden",
+                  "text": "Coral garden este o atracție marină cunoscută pentru frumusețea sa subacvatică din mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.510494,
+                        4.083075
+                  ]
+            },
+            {
+                  "name": "Serena Spa",
+                  "text": "Serena Spa este un centru de wellness care oferă servicii de relaxare în mv-embudhoo-express-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.512182,
+                        4.083281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embudu Kandu",
+                  "text": "Embudu Kandu is a natural attraction located in the mv-embudhoo-express-nature-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        73.529577,
+                        4.085491
+                  ]
+            },
+            {
+                  "name": "Embudu Channel / Embudu Express",
+                  "text": "Embudu Channel / Embudu Express is a popular water-based attraction in mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.533887,
+                        4.0874
+                  ]
+            },
+            {
+                  "name": "Embudu Finolhu Outside",
+                  "text": "Embudu Finolhu Outside is a scenic attraction located in mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.532507,
+                        4.1086
+                  ]
+            },
+            {
+                  "name": "Coral garden",
+                  "text": "Coral garden is a marine attraction known for its underwater beauty in mv-embudhoo-express-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.510494,
+                        4.083075
+                  ]
+            },
+            {
+                  "name": "Serena Spa",
+                  "text": "Serena Spa is a wellness facility offering relaxation services in mv-embudhoo-express-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.512182,
+                        4.083281
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MV-26",
     coords: [73.518, 4.085],
@@ -435,7 +1659,160 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-kelaa-mangrove-nature-v2",
+    id: "mv-kelaa-mangrove-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ha.Kelaa Thudi",
+                  "text": "Ein Sandstrand auf der Insel Kelaa, bekannt für seine malerische Aussicht auf die Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        73.212714,
+                        6.939155
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "Die Hauptfreitagsmoschee in Kelaa, in der sich die örtliche Gemeinde zu den Jumu'ah-Gebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.212757,
+                        6.95939
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zahra",
+                  "text": "Eine Gemeindemoschee in Kelaa, die für die täglichen islamischen Gebete eingerichtet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.214063,
+                        6.957733
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansari",
+                  "text": "Eine lokale Kultstätte in Kelaa, die den muslimischen Gläubigen der Insel Platz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.215119,
+                        6.956029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ha.Kelaa Thudi",
+                  "text": "Egy homokos strand Kelaa szigetén, amely festői tengerparti kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        73.212714,
+                        6.939155
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "A kelaai pénteki főmecset, ahol a helyi közösség összegyűlik a Jumu'ah imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        73.212757,
+                        6.95939
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zahra",
+                  "text": "Egy közösségi mecset Kelaa-n, amelyet a napi iszlám imákra alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        73.214063,
+                        6.957733
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansari",
+                  "text": "Egy helyi istentiszteleti hely Kelaa-n, amely a sziget muszlim hívőit fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.215119,
+                        6.956029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ha.Kelaa Thudi",
+                  "text": "O plajă cu nisip pe insula Kelaa, recunoscută pentru vederile sale pitorești de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        73.212714,
+                        6.939155
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "Principala moschee de vineri din Kelaa, unde congregația locală se adună pentru rugăciunile Jumu'ah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.212757,
+                        6.95939
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zahra",
+                  "text": "O moschee comunitară din Kelaa, concepută pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        73.214063,
+                        6.957733
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansari",
+                  "text": "Un lăcaș de cult local în Kelaa, care găzduiește credincioșii musulmani ai insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.215119,
+                        6.956029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ha.Kelaa Thudi",
+                  "text": "A sandy beach area on the island of Kelaa, known for its scenic coastal views.",
+                  "category": "recreational",
+                  "coords": [
+                        73.212714,
+                        6.939155
+                  ]
+            },
+            {
+                  "name": "Hukuru Miskiyy",
+                  "text": "The main Friday mosque in Kelaa where the local congregation gathers for Jumu'ah prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.212757,
+                        6.95939
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zahra",
+                  "text": "A community mosque in Kelaa designed for the daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.214063,
+                        6.957733
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansari",
+                  "text": "A local place of worship in Kelaa accommodating the island's Muslim worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.215119,
+                        6.956029
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MV-01",
     coords: [73.216, 6.953],
@@ -471,7 +1848,88 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-miyaru-kandu-nature-v2",
+    id: "mv-miyaru-kandu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oshi Beach",
+                  "text": "Oshi Beach ist eine natürliche Küstenattraktion im Gebiet von mv-miyaru-kandu-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            },
+            {
+                  "name": "Bikini beach",
+                  "text": "Bikini beach ist ein Sandstrand in mv-miyaru-kandu-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oshi Beach",
+                  "text": "Az Oshi Beach egy természetes tengerparti látványosság mv-miyaru-kandu-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            },
+            {
+                  "name": "Bikini beach",
+                  "text": "A Bikini beach egy homokos strand mv-miyaru-kandu-nature-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oshi Beach",
+                  "text": "Oshi Beach este o atracție de coastă naturală situată în zona mv-miyaru-kandu-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            },
+            {
+                  "name": "Bikini beach",
+                  "text": "Bikini beach este o plajă cu nisip în mv-miyaru-kandu-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oshi Beach",
+                  "text": "Oshi Beach is a natural coastal attraction located in the area of mv-miyaru-kandu-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            },
+            {
+                  "name": "Bikini beach",
+                  "text": "Bikini beach is a sandy beach destination in mv-miyaru-kandu-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MV-04",
     coords: [73.478, 3.483],
@@ -507,7 +1965,1060 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     },
   },
   {
-    id: "mv-eidhigali-kilhi-nature-v2",
+    id: "mv-eidhigali-kilhi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Swimming track",
+                  "text": "Der Swimming Track ist ein aquatisches Erholungsgebiet im Naturschutzgebiet Eidhigali Kilhi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.095475,
+                        -0.606713
+                  ]
+            },
+            {
+                  "name": "Vehere fannu",
+                  "text": "Vehere fannu ist ein natürlicher Strand, der malerische Küstenausblicke in Eidhigali Kilhi bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        73.081568,
+                        -0.581477
+                  ]
+            },
+            {
+                  "name": "Eydhigali Kilhi and Koattey Natural Protected Area",
+                  "text": "Das Eydhigali Kilhi und Koattey Naturschutzgebiet ist ein bedeutendes Feuchtgebiet in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        73.08121,
+                        -0.584721
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Vaalidhain",
+                  "text": "Masjid-Al-Vaalidhain ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093319,
+                        -0.604742
+                  ]
+            },
+            {
+                  "name": "Vaidhashi miskiy",
+                  "text": "Vaidhashi miskiy ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083245,
+                        -0.59315
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shura",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Masjid Al-Shura ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078724,
+                        -0.589092
+                  ]
+            },
+            {
+                  "name": "Masjidhul Rahman",
+                  "text": "Masjidhul Rahman ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081227,
+                        -0.597229
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Aziz Ibrahim Didi",
+                  "text": "Masjid Abdul Aziz Ibrahim Didi ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083126,
+                        -0.59422
+                  ]
+            },
+            {
+                  "name": "Thakurufaanu miskiy",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Thakurufaanu miskiy ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083005,
+                        -0.596223
+                  ]
+            },
+            {
+                  "name": "Medhe miskiy",
+                  "text": "Medhe miskiy ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083024,
+                        -0.599353
+                  ]
+            },
+            {
+                  "name": "Au miskiy",
+                  "text": "Au miskiy ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081415,
+                        -0.599604
+                  ]
+            },
+            {
+                  "name": "Masjid Baaburrahman",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Masjid Baaburrahman ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083838,
+                        -0.602951
+                  ]
+            },
+            {
+                  "name": "Masjidul'salaam",
+                  "text": "Masjidul'salaam ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.084205,
+                        -0.605229
+                  ]
+            },
+            {
+                  "name": "Masjid zinnoorain",
+                  "text": "Masjid zinnoorain ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.088137,
+                        -0.605008
+                  ]
+            },
+            {
+                  "name": "Hukuru miskiy",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Hukuru miskiy ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08617,
+                        -0.603097
+                  ]
+            },
+            {
+                  "name": "Masjidhul zikra",
+                  "text": "Masjidhul zikra ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086113,
+                        -0.600478
+                  ]
+            },
+            {
+                  "name": "Masjid Umarul'farooq",
+                  "text": "Masjid Umarul'farooq ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090474,
+                        -0.606383
+                  ]
+            },
+            {
+                  "name": "Masjidhu Shurutha",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Masjidhu Shurutha ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.091866,
+                        -0.605071
+                  ]
+            },
+            {
+                  "name": "Masjidul'siddheeq",
+                  "text": "Masjidul'siddheeq ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089109,
+                        -0.607397
+                  ]
+            },
+            {
+                  "name": "Aimali miskiy",
+                  "text": "Aimali miskiy ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08972,
+                        -0.609101
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqwa",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Masjid Al-Taqwa ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089711,
+                        -0.612567
+                  ]
+            },
+            {
+                  "name": "Masjidul abraar",
+                  "text": "Masjidul abraar ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086651,
+                        -0.610325
+                  ]
+            },
+            {
+                  "name": "Maniku miskiy",
+                  "text": "Maniku miskiy ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.087139,
+                        -0.607958
+                  ]
+            },
+            {
+                  "name": "Majidul Baagiyyath",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Majidul Baagiyyath ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.085367,
+                        -0.607671
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Manaan",
+                  "text": "Masjid Al-Manaan ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089423,
+                        -0.616933
+                  ]
+            },
+            {
+                  "name": "Masjidul Hidhaaya",
+                  "text": "Masjidul Hidhaaya ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.094894,
+                        -0.611338
+                  ]
+            },
+            {
+                  "name": "Masjidhul Ikram",
+                  "text": "Die in mv-eidhigali-kilhi-nature-v2 gelegene Masjidhul Ikram ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08032,
+                        -0.593189
+                  ]
+            },
+            {
+                  "name": "Elhedidi mosque",
+                  "text": "Die Elhedidi mosque ist eine lokale Moschee für die islamische Gemeinde in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.079706,
+                        -0.595025
+                  ]
+            },
+            {
+                  "name": "Masjidh Moosa",
+                  "text": "Masjidh Moosa ist ein islamisches Gotteshaus in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081363,
+                        -0.593843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swimming track",
+                  "text": "A Swimming track egy vízi rekreációs terület az Eidhigali Kilhi természetvédelmi területen belül.",
+                  "category": "recreational",
+                  "coords": [
+                        73.095475,
+                        -0.606713
+                  ]
+            },
+            {
+                  "name": "Vehere fannu",
+                  "text": "A Vehere fannu egy természetes strand, amely festői tengerparti kilátást nyújt Eidhigali Kilhi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.081568,
+                        -0.581477
+                  ]
+            },
+            {
+                  "name": "Eydhigali Kilhi and Koattey Natural Protected Area",
+                  "text": "Az Eydhigali Kilhi és Koattey egy jelentős vizes élőhelyeket védő természeti rezervátum mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        73.08121,
+                        -0.584721
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Vaalidhain",
+                  "text": "A Masjid-Al-Vaalidhain egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093319,
+                        -0.604742
+                  ]
+            },
+            {
+                  "name": "Vaidhashi miskiy",
+                  "text": "A Vaidhashi miskiy egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083245,
+                        -0.59315
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shura",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Masjid Al-Shura egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078724,
+                        -0.589092
+                  ]
+            },
+            {
+                  "name": "Masjidhul Rahman",
+                  "text": "A Masjidhul Rahman egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081227,
+                        -0.597229
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Aziz Ibrahim Didi",
+                  "text": "A Masjid Abdul Aziz Ibrahim Didi egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083126,
+                        -0.59422
+                  ]
+            },
+            {
+                  "name": "Thakurufaanu miskiy",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Thakurufaanu miskiy egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083005,
+                        -0.596223
+                  ]
+            },
+            {
+                  "name": "Medhe miskiy",
+                  "text": "A Medhe miskiy egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083024,
+                        -0.599353
+                  ]
+            },
+            {
+                  "name": "Au miskiy",
+                  "text": "Az Au miskiy egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081415,
+                        -0.599604
+                  ]
+            },
+            {
+                  "name": "Masjid Baaburrahman",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Masjid Baaburrahman egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083838,
+                        -0.602951
+                  ]
+            },
+            {
+                  "name": "Masjidul'salaam",
+                  "text": "A Masjidul'salaam egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.084205,
+                        -0.605229
+                  ]
+            },
+            {
+                  "name": "Masjid zinnoorain",
+                  "text": "A Masjid zinnoorain egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.088137,
+                        -0.605008
+                  ]
+            },
+            {
+                  "name": "Hukuru miskiy",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Hukuru miskiy egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08617,
+                        -0.603097
+                  ]
+            },
+            {
+                  "name": "Masjidhul zikra",
+                  "text": "A Masjidhul zikra egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086113,
+                        -0.600478
+                  ]
+            },
+            {
+                  "name": "Masjid Umarul'farooq",
+                  "text": "A Masjid Umarul'farooq egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090474,
+                        -0.606383
+                  ]
+            },
+            {
+                  "name": "Masjidhu Shurutha",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Masjidhu Shurutha egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.091866,
+                        -0.605071
+                  ]
+            },
+            {
+                  "name": "Masjidul'siddheeq",
+                  "text": "A Masjidul'siddheeq egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089109,
+                        -0.607397
+                  ]
+            },
+            {
+                  "name": "Aimali miskiy",
+                  "text": "Az Aimali miskiy egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08972,
+                        -0.609101
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqwa",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Masjid Al-Taqwa egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089711,
+                        -0.612567
+                  ]
+            },
+            {
+                  "name": "Masjidul abraar",
+                  "text": "A Masjidul abraar egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086651,
+                        -0.610325
+                  ]
+            },
+            {
+                  "name": "Maniku miskiy",
+                  "text": "A Maniku miskiy egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.087139,
+                        -0.607958
+                  ]
+            },
+            {
+                  "name": "Majidul Baagiyyath",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Majidul Baagiyyath egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.085367,
+                        -0.607671
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Manaan",
+                  "text": "A Masjid Al-Manaan egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089423,
+                        -0.616933
+                  ]
+            },
+            {
+                  "name": "Masjidul Hidhaaya",
+                  "text": "A Masjidul Hidhaaya egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.094894,
+                        -0.611338
+                  ]
+            },
+            {
+                  "name": "Masjidhul Ikram",
+                  "text": "A mv-eidhigali-kilhi-nature-v2 területén található Masjidhul Ikram egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08032,
+                        -0.593189
+                  ]
+            },
+            {
+                  "name": "Elhedidi mosque",
+                  "text": "Az Elhedidi mosque egy helyi mecset, amely az iszlám közösséget szolgálja mv-eidhigali-kilhi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.079706,
+                        -0.595025
+                  ]
+            },
+            {
+                  "name": "Masjidh Moosa",
+                  "text": "A Masjidh Moosa egy iszlám imaház mv-eidhigali-kilhi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081363,
+                        -0.593843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Swimming track",
+                  "text": "Pista de înot este o zonă de recreere acvatică în rezervația naturală Eidhigali Kilhi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.095475,
+                        -0.606713
+                  ]
+            },
+            {
+                  "name": "Vehere fannu",
+                  "text": "Vehere fannu este o plajă naturală care oferă vederi panoramice ale coastei în Eidhigali Kilhi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.081568,
+                        -0.581477
+                  ]
+            },
+            {
+                  "name": "Eydhigali Kilhi and Koattey Natural Protected Area",
+                  "text": "Aria protejată naturală Eydhigali Kilhi și Koattey este o rezervație importantă de zone umede situată în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        73.08121,
+                        -0.584721
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Vaalidhain",
+                  "text": "Masjid-Al-Vaalidhain este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093319,
+                        -0.604742
+                  ]
+            },
+            {
+                  "name": "Vaidhashi miskiy",
+                  "text": "Vaidhashi miskiy este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083245,
+                        -0.59315
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shura",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Masjid Al-Shura este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078724,
+                        -0.589092
+                  ]
+            },
+            {
+                  "name": "Masjidhul Rahman",
+                  "text": "Masjidhul Rahman este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081227,
+                        -0.597229
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Aziz Ibrahim Didi",
+                  "text": "Masjid Abdul Aziz Ibrahim Didi este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083126,
+                        -0.59422
+                  ]
+            },
+            {
+                  "name": "Thakurufaanu miskiy",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Thakurufaanu miskiy este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083005,
+                        -0.596223
+                  ]
+            },
+            {
+                  "name": "Medhe miskiy",
+                  "text": "Medhe miskiy este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083024,
+                        -0.599353
+                  ]
+            },
+            {
+                  "name": "Au miskiy",
+                  "text": "Au miskiy este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081415,
+                        -0.599604
+                  ]
+            },
+            {
+                  "name": "Masjid Baaburrahman",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Masjid Baaburrahman este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083838,
+                        -0.602951
+                  ]
+            },
+            {
+                  "name": "Masjidul'salaam",
+                  "text": "Masjidul'salaam este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.084205,
+                        -0.605229
+                  ]
+            },
+            {
+                  "name": "Masjid zinnoorain",
+                  "text": "Masjid zinnoorain este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.088137,
+                        -0.605008
+                  ]
+            },
+            {
+                  "name": "Hukuru miskiy",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Hukuru miskiy este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08617,
+                        -0.603097
+                  ]
+            },
+            {
+                  "name": "Masjidhul zikra",
+                  "text": "Masjidhul zikra este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086113,
+                        -0.600478
+                  ]
+            },
+            {
+                  "name": "Masjid Umarul'farooq",
+                  "text": "Masjid Umarul'farooq este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090474,
+                        -0.606383
+                  ]
+            },
+            {
+                  "name": "Masjidhu Shurutha",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Masjidhu Shurutha este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.091866,
+                        -0.605071
+                  ]
+            },
+            {
+                  "name": "Masjidul'siddheeq",
+                  "text": "Masjidul'siddheeq este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089109,
+                        -0.607397
+                  ]
+            },
+            {
+                  "name": "Aimali miskiy",
+                  "text": "Aimali miskiy este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08972,
+                        -0.609101
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqwa",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Masjid Al-Taqwa este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089711,
+                        -0.612567
+                  ]
+            },
+            {
+                  "name": "Masjidul abraar",
+                  "text": "Masjidul abraar este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086651,
+                        -0.610325
+                  ]
+            },
+            {
+                  "name": "Maniku miskiy",
+                  "text": "Maniku miskiy este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.087139,
+                        -0.607958
+                  ]
+            },
+            {
+                  "name": "Majidul Baagiyyath",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Majidul Baagiyyath este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.085367,
+                        -0.607671
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Manaan",
+                  "text": "Masjid Al-Manaan este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089423,
+                        -0.616933
+                  ]
+            },
+            {
+                  "name": "Masjidul Hidhaaya",
+                  "text": "Masjidul Hidhaaya este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.094894,
+                        -0.611338
+                  ]
+            },
+            {
+                  "name": "Masjidhul Ikram",
+                  "text": "Situată în mv-eidhigali-kilhi-nature-v2, Masjidhul Ikram este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08032,
+                        -0.593189
+                  ]
+            },
+            {
+                  "name": "Elhedidi mosque",
+                  "text": "Elhedidi mosque este o moschee locală care deservește comunitatea islamică din mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.079706,
+                        -0.595025
+                  ]
+            },
+            {
+                  "name": "Masjidh Moosa",
+                  "text": "Masjidh Moosa este un lăcaș de cult islamic situat în mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081363,
+                        -0.593843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swimming track",
+                  "text": "The Swimming track is an aquatic recreation area within the Eidhigali Kilhi nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        73.095475,
+                        -0.606713
+                  ]
+            },
+            {
+                  "name": "Vehere fannu",
+                  "text": "Vehere fannu is a natural beach offering scenic coastal views in Eidhigali Kilhi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.081568,
+                        -0.581477
+                  ]
+            },
+            {
+                  "name": "Eydhigali Kilhi and Koattey Natural Protected Area",
+                  "text": "The Eydhigali Kilhi and Koattey Natural Protected Area is a prominent wetland nature reserve located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        73.08121,
+                        -0.584721
+                  ]
+            },
+            {
+                  "name": "Masjid-Al-Vaalidhain",
+                  "text": "Masjid-Al-Vaalidhain is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.093319,
+                        -0.604742
+                  ]
+            },
+            {
+                  "name": "Vaidhashi miskiy",
+                  "text": "Vaidhashi miskiy is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083245,
+                        -0.59315
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shura",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Masjid Al-Shura is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078724,
+                        -0.589092
+                  ]
+            },
+            {
+                  "name": "Masjidhul Rahman",
+                  "text": "Masjidhul Rahman is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081227,
+                        -0.597229
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Aziz Ibrahim Didi",
+                  "text": "Masjid Abdul Aziz Ibrahim Didi is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083126,
+                        -0.59422
+                  ]
+            },
+            {
+                  "name": "Thakurufaanu miskiy",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Thakurufaanu miskiy is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083005,
+                        -0.596223
+                  ]
+            },
+            {
+                  "name": "Medhe miskiy",
+                  "text": "Medhe miskiy is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083024,
+                        -0.599353
+                  ]
+            },
+            {
+                  "name": "Au miskiy",
+                  "text": "Au miskiy is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081415,
+                        -0.599604
+                  ]
+            },
+            {
+                  "name": "Masjid Baaburrahman",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Masjid Baaburrahman is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.083838,
+                        -0.602951
+                  ]
+            },
+            {
+                  "name": "Masjidul'salaam",
+                  "text": "Masjidul'salaam is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.084205,
+                        -0.605229
+                  ]
+            },
+            {
+                  "name": "Masjid zinnoorain",
+                  "text": "Masjid zinnoorain is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.088137,
+                        -0.605008
+                  ]
+            },
+            {
+                  "name": "Hukuru miskiy",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Hukuru miskiy is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08617,
+                        -0.603097
+                  ]
+            },
+            {
+                  "name": "Masjidhul zikra",
+                  "text": "Masjidhul zikra is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086113,
+                        -0.600478
+                  ]
+            },
+            {
+                  "name": "Masjid Umarul'farooq",
+                  "text": "Masjid Umarul'farooq is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090474,
+                        -0.606383
+                  ]
+            },
+            {
+                  "name": "Masjidhu Shurutha",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Masjidhu Shurutha is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.091866,
+                        -0.605071
+                  ]
+            },
+            {
+                  "name": "Masjidul'siddheeq",
+                  "text": "Masjidul'siddheeq is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089109,
+                        -0.607397
+                  ]
+            },
+            {
+                  "name": "Aimali miskiy",
+                  "text": "Aimali miskiy is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08972,
+                        -0.609101
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqwa",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Masjid Al-Taqwa is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089711,
+                        -0.612567
+                  ]
+            },
+            {
+                  "name": "Masjidul abraar",
+                  "text": "Masjidul abraar is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.086651,
+                        -0.610325
+                  ]
+            },
+            {
+                  "name": "Maniku miskiy",
+                  "text": "Maniku miskiy is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.087139,
+                        -0.607958
+                  ]
+            },
+            {
+                  "name": "Majidul Baagiyyath",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Majidul Baagiyyath is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.085367,
+                        -0.607671
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Manaan",
+                  "text": "Masjid Al-Manaan is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089423,
+                        -0.616933
+                  ]
+            },
+            {
+                  "name": "Masjidul Hidhaaya",
+                  "text": "Masjidul Hidhaaya is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.094894,
+                        -0.611338
+                  ]
+            },
+            {
+                  "name": "Masjidhul Ikram",
+                  "text": "Located in mv-eidhigali-kilhi-nature-v2, Masjidhul Ikram is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08032,
+                        -0.593189
+                  ]
+            },
+            {
+                  "name": "Elhedidi mosque",
+                  "text": "Elhedidi mosque is a local mosque serving the Islamic community in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.079706,
+                        -0.595025
+                  ]
+            },
+            {
+                  "name": "Masjidh Moosa",
+                  "text": "Masjidh Moosa is a place of Islamic worship located in mv-eidhigali-kilhi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.081363,
+                        -0.593843
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MV-01",
     coords: [73.085, -0.601],

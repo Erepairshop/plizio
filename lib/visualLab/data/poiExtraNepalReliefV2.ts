@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraNepalReliefV2: POI[] = [
   {
-    id: "nepal-lhotse-relief-v2",
+    id: "nepal-lhotse-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lhotse",
+                  "text": "Der mit 8.516 Metern vierthöchste Berg der Welt, der seinen Nordgrat mit dem Mount Everest teilt.",
+                  "category": "natural",
+                  "coords": [
+                        86.932504,
+                        27.961985
+                  ]
+            },
+            {
+                  "name": "Imja Tse",
+                  "text": "Ein beliebter, 6.189 Meter hoher Trekkinggipfel, der von Dingboche aus wie eine Insel im Eismeer erscheint.",
+                  "category": "natural",
+                  "coords": [
+                        86.934646,
+                        27.920014
+                  ]
+            },
+            {
+                  "name": "Lhotse Middle I",
+                  "text": "Dieser 8.410 Meter hohe Gipfel galt bis zu seiner Erstbesteigung im Jahr 2001 lange als einer der höchsten unbestiegenen Punkte der Erde.",
+                  "category": "natural",
+                  "coords": [
+                        86.937589,
+                        27.960682
+                  ]
+            },
+            {
+                  "name": "Lhotse Shar",
+                  "text": "Ein markanter, 8.383 Meter hoher Nebengipfel des Lhotse, bekannt für seine steile und technisch anspruchsvolle Südwand.",
+                  "category": "natural",
+                  "coords": [
+                        86.943763,
+                        27.958753
+                  ]
+            },
+            {
+                  "name": "Shartse I",
+                  "text": "Ein 7.591 Meter hoher Gipfel auf dem Grat, der sich vom Lhotse nach Osten in Richtung des Baruntse-Massivs erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        86.965142,
+                        27.955629
+                  ]
+            },
+            {
+                  "name": "Cho Polu",
+                  "text": "Dieser 6.735 Meter hohe Gipfel in der Khumbu-Region ragt markant am oberen Ende des Imja-Gletschers empor.",
+                  "category": "natural",
+                  "coords": [
+                        86.981987,
+                        27.919454
+                  ]
+            },
+            {
+                  "name": "Num Ri",
+                  "text": "Ein 6.677 Meter hoher Gipfel in der Khumbu-Region, der sich durch seine scharfe, pyramidenartige Silhouette auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        86.973354,
+                        27.895829
+                  ]
+            },
+            {
+                  "name": "Shartse II",
+                  "text": "Ein 7.457 Meter hoher Nebengipfel auf dem zerklüfteten Hochgrat zwischen dem Lhotse und der Makalu-Region.",
+                  "category": "natural",
+                  "coords": [
+                        86.983381,
+                        27.949674
+                  ]
+            },
+            {
+                  "name": "Pethangtse",
+                  "text": "Ein 6.738 Meter hoher Gipfel an der Grenze zwischen Nepal und Tibet, der weite Ausblicke auf die Kangshung-Wand des Everest bietet.",
+                  "category": "natural",
+                  "coords": [
+                        87.015204,
+                        27.957236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lhotse",
+                  "text": "A világ negyedik legmagasabb hegye 8516 méterrel, amely északi gerincét a Mount Everesttel osztja meg.",
+                  "category": "natural",
+                  "coords": [
+                        86.932504,
+                        27.961985
+                  ]
+            },
+            {
+                  "name": "Imja Tse",
+                  "text": "Egy népszerű, 6189 méteres túracsúcs, amely Dingboche felől nézve szigetként emelkedik ki a jégtengerből.",
+                  "category": "natural",
+                  "coords": [
+                        86.934646,
+                        27.920014
+                  ]
+            },
+            {
+                  "name": "Lhotse Middle I",
+                  "text": "Ez a 8410 méteres csúcs 2001-es első megmászásáig sokáig a Föld egyik legmagasabb megmászatlan pontja volt.",
+                  "category": "natural",
+                  "coords": [
+                        86.937589,
+                        27.960682
+                  ]
+            },
+            {
+                  "name": "Lhotse Shar",
+                  "text": "A Lhotse egyik kiemelkedő, 8383 méteres mellékcsúcsa, amely meredek és technikailag nehéz déli faláról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        86.943763,
+                        27.958753
+                  ]
+            },
+            {
+                  "name": "Shartse I",
+                  "text": "Egy 7591 méteres csúcs azon a gerincen, amely a Lhotsétól keletre, a Baruntse-masszívum felé húzódik.",
+                  "category": "natural",
+                  "coords": [
+                        86.965142,
+                        27.955629
+                  ]
+            },
+            {
+                  "name": "Cho Polu",
+                  "text": "Ez a 6735 méteres csúcs a Khumbu-régióban, az Imja-gleccser felső szakaszának közelében emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        86.981987,
+                        27.919454
+                  ]
+            },
+            {
+                  "name": "Num Ri",
+                  "text": "Egy 6677 méteres csúcs a Khumbu-régióban, amelyet éles, piramis alakú sziluettje tesz különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        86.973354,
+                        27.895829
+                  ]
+            },
+            {
+                  "name": "Shartse II",
+                  "text": "Egy 7457 méteres másodlagos csúcs a Lhotse és a Makalu-régió közötti zord, magas gerincen.",
+                  "category": "natural",
+                  "coords": [
+                        86.983381,
+                        27.949674
+                  ]
+            },
+            {
+                  "name": "Pethangtse",
+                  "text": "Egy 6738 méteres csúcs a nepáli-tibeti határon, amely kilátást nyújt az Everest Kangshung-falára.",
+                  "category": "natural",
+                  "coords": [
+                        87.015204,
+                        27.957236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lhotse",
+                  "text": "Al patrulea cel mai înalt munte din lume, având 8.516 metri și împărțind creasta sa nordică cu Muntele Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.932504,
+                        27.961985
+                  ]
+            },
+            {
+                  "name": "Imja Tse",
+                  "text": "Un vârf de trekking popular de 6.189 de metri care, văzut din Dingboche, apare ca o insulă într-o mare de gheață.",
+                  "category": "natural",
+                  "coords": [
+                        86.934646,
+                        27.920014
+                  ]
+            },
+            {
+                  "name": "Lhotse Middle I",
+                  "text": "Acest vârf de 8.410 metri a fost mult timp unul dintre cele mai înalte puncte necucerite de pe Pământ, până la prima ascensiune în 2001.",
+                  "category": "natural",
+                  "coords": [
+                        86.937589,
+                        27.960682
+                  ]
+            },
+            {
+                  "name": "Lhotse Shar",
+                  "text": "Un vârf secundar proeminent de 8.383 de metri al muntelui Lhotse, cunoscut pentru versantul său sudic abrupt și dificil tehnic.",
+                  "category": "natural",
+                  "coords": [
+                        86.943763,
+                        27.958753
+                  ]
+            },
+            {
+                  "name": "Shartse I",
+                  "text": "Un vârf de 7.591 de metri situat pe creasta care se întinde spre est de la Lhotse către masivul Baruntse.",
+                  "category": "natural",
+                  "coords": [
+                        86.965142,
+                        27.955629
+                  ]
+            },
+            {
+                  "name": "Cho Polu",
+                  "text": "Acest vârf de 6.735 de metri din regiunea Khumbu se înalță proeminent lângă capătul superior al ghețarului Imja.",
+                  "category": "natural",
+                  "coords": [
+                        86.981987,
+                        27.919454
+                  ]
+            },
+            {
+                  "name": "Num Ri",
+                  "text": "Un vârf de 6.677 de metri din regiunea Khumbu, remarcat prin silueta sa ascuțită, asemănătoare unei piramide.",
+                  "category": "natural",
+                  "coords": [
+                        86.973354,
+                        27.895829
+                  ]
+            },
+            {
+                  "name": "Shartse II",
+                  "text": "Un vârf secundar de 7.457 de metri situat pe creasta înaltă dintre Lhotse și regiunea Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        86.983381,
+                        27.949674
+                  ]
+            },
+            {
+                  "name": "Pethangtse",
+                  "text": "Un vârf de 6.738 de metri de la granița Nepal-Tibet, care oferă vederi spre fața Kangshung a Everestului.",
+                  "category": "natural",
+                  "coords": [
+                        87.015204,
+                        27.957236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lhotse",
+                  "text": "The world's fourth-highest mountain at 8,516 meters, sharing its north ridge with Mount Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.932504,
+                        27.961985
+                  ]
+            },
+            {
+                  "name": "Imja Tse",
+                  "text": "A popular 6,189-meter trekking peak that appears as an island in a sea of ice when viewed from Dingboche.",
+                  "category": "natural",
+                  "coords": [
+                        86.934646,
+                        27.920014
+                  ]
+            },
+            {
+                  "name": "Lhotse Middle I",
+                  "text": "This 8,410-meter summit was long one of the highest unclimbed points on Earth until its first ascent in 2001.",
+                  "category": "natural",
+                  "coords": [
+                        86.937589,
+                        27.960682
+                  ]
+            },
+            {
+                  "name": "Lhotse Shar",
+                  "text": "A prominent 8,383-meter sub-peak of Lhotse, known for its steep and technically challenging south face.",
+                  "category": "natural",
+                  "coords": [
+                        86.943763,
+                        27.958753
+                  ]
+            },
+            {
+                  "name": "Shartse I",
+                  "text": "A 7,591-meter peak on the high ridge extending east from Lhotse toward the Baruntse massif.",
+                  "category": "natural",
+                  "coords": [
+                        86.965142,
+                        27.955629
+                  ]
+            },
+            {
+                  "name": "Cho Polu",
+                  "text": "This 6,735-meter peak in the Khumbu region stands prominently near the head of the Imja Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        86.981987,
+                        27.919454
+                  ]
+            },
+            {
+                  "name": "Num Ri",
+                  "text": "A 6,677-meter peak in the Khumbu region, distinguished by its exceptionally sharp, pyramid-like silhouette.",
+                  "category": "natural",
+                  "coords": [
+                        86.973354,
+                        27.895829
+                  ]
+            },
+            {
+                  "name": "Shartse II",
+                  "text": "A secondary 7,457-meter summit located on the rugged high ridge between Lhotse and the Makalu region.",
+                  "category": "natural",
+                  "coords": [
+                        86.983381,
+                        27.949674
+                  ]
+            },
+            {
+                  "name": "Pethangtse",
+                  "text": "A 6,738-meter peak on the Nepal-Tibet border, offering striking views of the Kangshung Face of Everest.",
+                  "category": "natural",
+                  "coords": [
+                        87.015204,
+                        27.957236
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [86.9333, 27.9616],
@@ -39,7 +372,232 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-cho-oyu-relief-v2",
+    id: "nepal-cho-oyu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nangpa La",
+                  "text": "Ein vergletscherter, 5.806 Meter hoher Pass, der historisch als wichtige Handelsroute zwischen Sherpas und Tibetern diente.",
+                  "category": "natural",
+                  "coords": [
+                        86.587778,
+                        28.107222
+                  ]
+            },
+            {
+                  "name": "Palung Ri / Chowosha Bei Feng",
+                  "text": "Dieser 7.012 Meter hohe Gipfel befindet sich im Mahalangur Himal, direkt nordwestlich des Cho-Oyu-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        86.644655,
+                        28.129318
+                  ]
+            },
+            {
+                  "name": "Siguang",
+                  "text": "Ein 7.308 Meter hoher Gipfel in Tibet, Teil des Cho-Oyu-Massivs und nördlich des Nangpa-La-Passes gelegen.",
+                  "category": "natural",
+                  "coords": [
+                        86.684561,
+                        28.147887
+                  ]
+            },
+            {
+                  "name": "Cho Oyu",
+                  "text": "Der mit 8.188 Metern sechshöchste Berg der Welt, berühmt für das türkisfarbene Eis an seinen Hängen.",
+                  "category": "natural",
+                  "coords": [
+                        86.659634,
+                        28.096746
+                  ]
+            },
+            {
+                  "name": "Ngozumpa Kang I",
+                  "text": "Ein 7.916 Meter hoher Gipfel auf dem Grat zwischen dem Cho Oyu und dem Gyachung Kang mit Blick auf den Ngozumpa-Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        86.684876,
+                        28.106652
+                  ]
+            },
+            {
+                  "name": "Jasemba",
+                  "text": "Auch bekannt als Nangpai Gosum, liegt dieser 7.351 Meter hohe Gipfel an der Grenze zwischen Nepal und Tibet westlich des Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.61266,
+                        28.073097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nangpa La",
+                  "text": "Egy gleccserrel borított, 5806 méter magas hágó, amely történelmileg fontos kereskedelmi útvonal volt a serpák és a tibetiek között.",
+                  "category": "natural",
+                  "coords": [
+                        86.587778,
+                        28.107222
+                  ]
+            },
+            {
+                  "name": "Palung Ri / Chowosha Bei Feng",
+                  "text": "Ez a 7012 méteres csúcs a Mahalangur Himal hegységben található, közvetlenül a Cho Oyu-masszívumtól északnyugatra.",
+                  "category": "natural",
+                  "coords": [
+                        86.644655,
+                        28.129318
+                  ]
+            },
+            {
+                  "name": "Siguang",
+                  "text": "Egy 7308 méteres csúcs Tibetben, a Cho Oyu-masszívum része, a Nangpa La-hágótól északra.",
+                  "category": "natural",
+                  "coords": [
+                        86.684561,
+                        28.147887
+                  ]
+            },
+            {
+                  "name": "Cho Oyu",
+                  "text": "A világ hatodik legmagasabb hegye 8188 méterrel, amely a lejtőin található türkizkék jégről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        86.659634,
+                        28.096746
+                  ]
+            },
+            {
+                  "name": "Ngozumpa Kang I",
+                  "text": "Egy 7916 méteres csúcs a Cho Oyu és a Gyachung Kang közötti gerincen, rálátással a hatalmas Ngozumpa-gleccserre.",
+                  "category": "natural",
+                  "coords": [
+                        86.684876,
+                        28.106652
+                  ]
+            },
+            {
+                  "name": "Cho Aui I",
+                  "text": "A Nangpai Gosum néven is ismert 7351 méteres csúcs a nepáli-tibeti határon fekszik, a Cho Oyu-tól nyugatra.",
+                  "category": "natural",
+                  "coords": [
+                        86.61266,
+                        28.073097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nangpa La",
+                  "text": "O trecătoare glaciare de 5.806 metri care a servit istoric ca o rută comercială vitală între șerpași și tibetani.",
+                  "category": "natural",
+                  "coords": [
+                        86.587778,
+                        28.107222
+                  ]
+            },
+            {
+                  "name": "Palung Ri / Chowosha Bei Feng",
+                  "text": "Acest vârf de 7.012 metri este situat în Mahalangur Himal, direct la nord-vest de masivul Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.644655,
+                        28.129318
+                  ]
+            },
+            {
+                  "name": "Siguang",
+                  "text": "Un vârf de 7.308 metri din Tibet, parte a masivului Cho Oyu și situat la nord de pasul Nangpa La.",
+                  "category": "natural",
+                  "coords": [
+                        86.684561,
+                        28.147887
+                  ]
+            },
+            {
+                  "name": "Cho Oyu",
+                  "text": "Al șaselea cel mai înalt munte din lume, având 8.188 de metri, faimos pentru gheața în nuanțe turcoaz de pe versanții săi.",
+                  "category": "natural",
+                  "coords": [
+                        86.659634,
+                        28.096746
+                  ]
+            },
+            {
+                  "name": "Ngozumpa Kang I",
+                  "text": "Un vârf de 7.916 metri situat pe creasta dintre Cho Oyu și Gyachung Kang, cu vedere spre masivul ghețar Ngozumpa.",
+                  "category": "natural",
+                  "coords": [
+                        86.684876,
+                        28.106652
+                  ]
+            },
+            {
+                  "name": "Cho Aui I",
+                  "text": "Cunoscut și sub numele de Nangpai Gosum, acest vârf de 7.351 de metri se află la granița Nepal-Tibet, la vest de Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.61266,
+                        28.073097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nangpa La",
+                  "text": "A glaciated 5,806-meter pass that has historically served as a vital trade route between Sherpas and Tibetans.",
+                  "category": "natural",
+                  "coords": [
+                        86.587778,
+                        28.107222
+                  ]
+            },
+            {
+                  "name": "Palung Ri / Chowosha Bei Feng",
+                  "text": "This 7,012-meter peak is situated in the Mahalangur Himal, directly northwest of the Cho Oyu massif.",
+                  "category": "natural",
+                  "coords": [
+                        86.644655,
+                        28.129318
+                  ]
+            },
+            {
+                  "name": "Siguang",
+                  "text": "A 7,308-meter peak in Tibet, part of the Cho Oyu massif and located north of the Nangpa La pass.",
+                  "category": "natural",
+                  "coords": [
+                        86.684561,
+                        28.147887
+                  ]
+            },
+            {
+                  "name": "Cho Oyu",
+                  "text": "The world's sixth-highest mountain at 8,188 meters, famous for the turquoise-hued ice on its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        86.659634,
+                        28.096746
+                  ]
+            },
+            {
+                  "name": "Ngozumpa Kang I",
+                  "text": "A 7,916-meter peak on the ridge between Cho Oyu and Gyachung Kang, overlooking the massive Ngozumpa Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        86.684876,
+                        28.106652
+                  ]
+            },
+            {
+                  "name": "Cho Aui I",
+                  "text": "Also known as Nangpai Gosum, this 7,351-meter peak stands on the Nepal-Tibet border west of Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.61266,
+                        28.073097
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [86.6608, 28.0941],
@@ -75,7 +633,448 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-manaslu-relief-v2",
+    id: "nepal-manaslu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pungen Gumba 4040 m",
+                  "text": "Ein buddhistisches Kloster auf 4040 Metern Höhe mit Panoramablick auf den Manaslu.",
+                  "category": "landmark",
+                  "coords": [
+                        84.627858,
+                        28.551515
+                  ]
+            },
+            {
+                  "name": "मनास्लु",
+                  "text": "Der achthöchste Berg der Erde mit einer beeindruckenden Höhe von 8.163 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        84.559728,
+                        28.549983
+                  ]
+            },
+            {
+                  "name": "Thulagi Chuli",
+                  "text": "Ein markanter Gipfel im Mansiri Himal in der Nähe des Thulagi-Gletschers.",
+                  "category": "natural",
+                  "coords": [
+                        84.523315,
+                        28.528885
+                  ]
+            },
+            {
+                  "name": "Ngadi Chuli",
+                  "text": "Dieser hohe Berg im Manaslu-Massiv ist auch als Peak 29 bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        84.567249,
+                        28.503927
+                  ]
+            },
+            {
+                  "name": "Panneau Shyala - Pungen Gumba",
+                  "text": "Ein Wegweiser, der Wanderer zum hochgelegenen Pungen-Kloster führt.",
+                  "category": "landmark",
+                  "coords": [
+                        84.655872,
+                        28.565887
+                  ]
+            },
+            {
+                  "name": "Bergeries",
+                  "text": "Steinruinen traditioneller Almhütten der Hirten in der Manaslu-Region.",
+                  "category": "historical",
+                  "coords": [
+                        84.629907,
+                        28.602125
+                  ]
+            },
+            {
+                  "name": "Mani Wall",
+                  "text": "Eine mit buddhistischen Gebeten verzierte Steinmauer entlang der Himalaya-Pfade.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639103,
+                        28.606493
+                  ]
+            },
+            {
+                  "name": "Chorten Gate",
+                  "text": "Ein traditionelles zeremonielles Eingangstor, das mit buddhistischen Motiven verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.648701,
+                        28.581793
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "Ein traditionelles buddhistisches Denkmal, das aus lokalen Bergsteinen errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        84.640698,
+                        28.557326
+                  ]
+            },
+            {
+                  "name": "Short Mani wall",
+                  "text": "Eine kurze Mauer aus gemeißelten Gebetssteinen am Rand des Bergpfades.",
+                  "category": "landmark",
+                  "coords": [
+                        84.657254,
+                        28.567537
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche Statue",
+                  "text": "Eine Statue von Guru Rinpoche, die über das zerklüftete Bergtal wacht.",
+                  "category": "landmark",
+                  "coords": [
+                        84.637494,
+                        28.589529
+                  ]
+            },
+            {
+                  "name": "Samagaon Gompa",
+                  "text": "Ein wichtiges buddhistisches Kloster im tibetisch geprägten Dorf Samagaon.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639307,
+                        28.589347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pungen Gumba 4040 m",
+                  "text": "Buddhista kolostor 4040 méteres magasságban, panorámás kilátással a Manaslu-ra.",
+                  "category": "landmark",
+                  "coords": [
+                        84.627858,
+                        28.551515
+                  ]
+            },
+            {
+                  "name": "मनास्लु",
+                  "text": "A világ nyolcadik legmagasabb hegycsúcsa, amely 8163 méter magas.",
+                  "category": "natural",
+                  "coords": [
+                        84.559728,
+                        28.549983
+                  ]
+            },
+            {
+                  "name": "Thulagi Chuli",
+                  "text": "A Mansiri Himal egyik kiemelkedő csúcsa a Thulagi-gleccser közelében.",
+                  "category": "natural",
+                  "coords": [
+                        84.523315,
+                        28.528885
+                  ]
+            },
+            {
+                  "name": "Ngadi Chuli",
+                  "text": "A Manaslu-masszívum egyik magas hegye, amely Peak 29 néven is ismert.",
+                  "category": "natural",
+                  "coords": [
+                        84.567249,
+                        28.503927
+                  ]
+            },
+            {
+                  "name": "Panneau Shyala - Pungen Gumba",
+                  "text": "Jelzőtábla, amely a túrázókat a magasan fekvő Pungen-kolostor felé irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        84.655872,
+                        28.565887
+                  ]
+            },
+            {
+                  "name": "Bergeries",
+                  "text": "Hagyományos magashegyi pásztorkunyhók kőromjai a Manaslu-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        84.629907,
+                        28.602125
+                  ]
+            },
+            {
+                  "name": "Mani Wall",
+                  "text": "Buddhista imákkal díszített kőfal a himalájai túraútvonalak mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639103,
+                        28.606493
+                  ]
+            },
+            {
+                  "name": "Chorten Gate",
+                  "text": "Hagyományos szertartási kapu, amelyet buddhista motívumok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        84.648701,
+                        28.581793
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "Helyi hegyi kövekből épült hagyományos buddhista emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        84.640698,
+                        28.557326
+                  ]
+            },
+            {
+                  "name": "Short Mani wall",
+                  "text": "Faragott imakövekből álló alacsony fal a hegyi ösvény szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        84.657254,
+                        28.567537
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche Statue",
+                  "text": "Padmaszambhava guru szobra, amely a zord hegyi völgy fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        84.637494,
+                        28.589529
+                  ]
+            },
+            {
+                  "name": "Samagaon Gompa",
+                  "text": "Fontos buddhista kolostor Samagaon tibeti kultúrájú falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639307,
+                        28.589347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pungen Gumba 4040 m",
+                  "text": "O mănăstire budistă la 4040 de metri altitudine, cu vedere panoramică spre Manaslu.",
+                  "category": "landmark",
+                  "coords": [
+                        84.627858,
+                        28.551515
+                  ]
+            },
+            {
+                  "name": "मनास्लु",
+                  "text": "Al optulea cel mai înalt munte din lume, având o altitudine de 8.163 metri.",
+                  "category": "natural",
+                  "coords": [
+                        84.559728,
+                        28.549983
+                  ]
+            },
+            {
+                  "name": "Thulagi Chuli",
+                  "text": "Un vârf proeminent în Mansiri Himal, situat lângă ghețarul Thulagi.",
+                  "category": "natural",
+                  "coords": [
+                        84.523315,
+                        28.528885
+                  ]
+            },
+            {
+                  "name": "Ngadi Chuli",
+                  "text": "Cunoscut și sub numele de Vârful 29, este un munte înalt din masivul Manaslu.",
+                  "category": "natural",
+                  "coords": [
+                        84.567249,
+                        28.503927
+                  ]
+            },
+            {
+                  "name": "Panneau Shyala - Pungen Gumba",
+                  "text": "Un indicator de traseu care îndrumă drumeții spre mănăstirea Pungen.",
+                  "category": "landmark",
+                  "coords": [
+                        84.655872,
+                        28.565887
+                  ]
+            },
+            {
+                  "name": "Bergeries",
+                  "text": "Ruine din piatră ale unor colibe tradiționale de păstori din regiunea Manaslu.",
+                  "category": "historical",
+                  "coords": [
+                        84.629907,
+                        28.602125
+                  ]
+            },
+            {
+                  "name": "Mani Wall",
+                  "text": "Un zid din piatră inscripționat cu rugăciuni budiste de-a lungul potecilor din Himalaya.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639103,
+                        28.606493
+                  ]
+            },
+            {
+                  "name": "Chorten Gate",
+                  "text": "O poartă ceremonială tradițională decorată cu motive budiste.",
+                  "category": "landmark",
+                  "coords": [
+                        84.648701,
+                        28.581793
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "Un monument budist tradițional construit din pietre locale de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        84.640698,
+                        28.557326
+                  ]
+            },
+            {
+                  "name": "Short Mani wall",
+                  "text": "Un zid scund din pietre de rugăciune sculptate pe marginea drumului montan.",
+                  "category": "landmark",
+                  "coords": [
+                        84.657254,
+                        28.567537
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche Statue",
+                  "text": "O statuie a lui Guru Rinpoche care veghează asupra văii montane abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        84.637494,
+                        28.589529
+                  ]
+            },
+            {
+                  "name": "Samagaon Gompa",
+                  "text": "O mănăstire budistă importantă în satul de influență tibetană Samagaon.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639307,
+                        28.589347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pungen Gumba 4040 m",
+                  "text": "A Buddhist monastery at 4040 meters with panoramic views of Manaslu.",
+                  "category": "landmark",
+                  "coords": [
+                        84.627858,
+                        28.551515
+                  ]
+            },
+            {
+                  "name": "Manaslu",
+                  "text": "The world's eighth-highest mountain, standing at 8,163 meters.",
+                  "category": "natural",
+                  "coords": [
+                        84.559728,
+                        28.549983
+                  ]
+            },
+            {
+                  "name": "Thulagi Chuli",
+                  "text": "A prominent peak in the Mansiri Himal range near the Thulagi glacier.",
+                  "category": "natural",
+                  "coords": [
+                        84.523315,
+                        28.528885
+                  ]
+            },
+            {
+                  "name": "Ngadi Chuli",
+                  "text": "Also known as Peak 29, it is a high mountain in the Manaslu massif.",
+                  "category": "natural",
+                  "coords": [
+                        84.567249,
+                        28.503927
+                  ]
+            },
+            {
+                  "name": "Panneau Shyala - Pungen Gumba",
+                  "text": "A trail sign directing hikers towards the high-altitude Pungen monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        84.655872,
+                        28.565887
+                  ]
+            },
+            {
+                  "name": "Bergeries",
+                  "text": "Stone ruins of traditional high-altitude shepherd huts in the Manaslu region.",
+                  "category": "historical",
+                  "coords": [
+                        84.629907,
+                        28.602125
+                  ]
+            },
+            {
+                  "name": "Mani Wall",
+                  "text": "A stone wall inscribed with Buddhist prayers along the Himalayan paths.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639103,
+                        28.606493
+                  ]
+            },
+            {
+                  "name": "Chorten Gate",
+                  "text": "A traditional ceremonial entrance gate decorated with Buddhist motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        84.648701,
+                        28.581793
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "A traditional Buddhist monument built from local mountain stones.",
+                  "category": "landmark",
+                  "coords": [
+                        84.640698,
+                        28.557326
+                  ]
+            },
+            {
+                  "name": "Short Mani wall",
+                  "text": "A low wall of carved prayer stones lining the mountain trail.",
+                  "category": "landmark",
+                  "coords": [
+                        84.657254,
+                        28.567537
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche Statue",
+                  "text": "A statue of Guru Rinpoche overlooking the rugged mountain valley.",
+                  "category": "landmark",
+                  "coords": [
+                        84.637494,
+                        28.589529
+                  ]
+            },
+            {
+                  "name": "Samagaon Gompa",
+                  "text": "A key Buddhist monastery in the Tibetan-influenced village of Samagaon.",
+                  "category": "landmark",
+                  "coords": [
+                        84.639307,
+                        28.589347
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-GA",
     coords: [84.5597, 28.5497],
@@ -111,7 +1110,160 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-annapurna-i-relief-v2",
+    id: "nepal-annapurna-i-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Annapurna South",
+                  "text": "Ein majestätischer Himalaya-Gipfel mit einer Höhe von 7.219 Metern, der Teil des berühmten Annapurna-Massivs ist.",
+                  "category": "natural",
+                  "coords": [
+                        83.806343,
+                        28.518396
+                  ]
+            },
+            {
+                  "name": "Tharpu Chull",
+                  "text": "Dieser auch als Tent Peak bekannte Gipfel bietet atemberaubende Ausblicke aus dem Zentrum des Annapurna-Heiligtums.",
+                  "category": "natural",
+                  "coords": [
+                        83.88942,
+                        28.561994
+                  ]
+            },
+            {
+                  "name": "Tarke Kang",
+                  "text": "Ein hochragender Himalaya-Gipfel, auch bekannt als Glacier Dome, der sich in der schroffen Annapurna-Kette befindet.",
+                  "category": "natural",
+                  "coords": [
+                        83.886437,
+                        28.607355
+                  ]
+            },
+            {
+                  "name": "Annapurna I",
+                  "text": "Der zehnthöchste Berg der Welt mit 8.091 Metern, berühmt für seine herausfordernde Nordwand.",
+                  "category": "natural",
+                  "coords": [
+                        83.81992,
+                        28.595806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Annapurna South",
+                  "text": "Fenséges, 7219 méter magas himalájai csúcs, amely a híres Annapurna-masszívum része.",
+                  "category": "natural",
+                  "coords": [
+                        83.806343,
+                        28.518396
+                  ]
+            },
+            {
+                  "name": "Tharpu Chull",
+                  "text": "A Tent Peak néven is ismert túracsúcs lenyűgöző kilátást nyújt az Annapurna-szentély közepéről.",
+                  "category": "natural",
+                  "coords": [
+                        83.88942,
+                        28.561994
+                  ]
+            },
+            {
+                  "name": "Tarke Kang",
+                  "text": "Magasodó himalájai csúcs, más néven Glacier Dome, a vadregényes Annapurna-vonulatban.",
+                  "category": "natural",
+                  "coords": [
+                        83.886437,
+                        28.607355
+                  ]
+            },
+            {
+                  "name": "अन्नपूर्ण",
+                  "text": "A világ tizedik legmagasabb hegye (8091 m), amely kihívást jelentő északi faláról híres.",
+                  "category": "natural",
+                  "coords": [
+                        83.81992,
+                        28.595806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Annapurna South",
+                  "text": "Un vârf himalayan maiestuos de 7.219 metri, făcând parte din celebrul masiv Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        83.806343,
+                        28.518396
+                  ]
+            },
+            {
+                  "name": "Tharpu Chull",
+                  "text": "Cunoscut și sub numele de Tent Peak, acest vârf de trekking oferă priveliști uluitoare din centrul Sanctuarului Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        83.88942,
+                        28.561994
+                  ]
+            },
+            {
+                  "name": "Tarke Kang",
+                  "text": "Un vârf himalayan impunător, cunoscut și sub numele de Glacier Dome, situat în lanțul muntos Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        83.886437,
+                        28.607355
+                  ]
+            },
+            {
+                  "name": "अन्नपूर्ण",
+                  "text": "Al zecelea cel mai înalt munte din lume, cu o înălțime de 8.091 metri, renumit pentru peretele său nordic dificil.",
+                  "category": "natural",
+                  "coords": [
+                        83.81992,
+                        28.595806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Annapurna South",
+                  "text": "A majestic Himalayan peak reaching 7,219 meters, forming part of the famous Annapurna massif.",
+                  "category": "natural",
+                  "coords": [
+                        83.806343,
+                        28.518396
+                  ]
+            },
+            {
+                  "name": "Tharpu Chull",
+                  "text": "Also known as Tent Peak, this trekking summit offers stunning views from the center of the Annapurna Sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        83.88942,
+                        28.561994
+                  ]
+            },
+            {
+                  "name": "Tarke Kang",
+                  "text": "A towering Himalayan summit also known as Glacier Dome, situated within the rugged Annapurna range.",
+                  "category": "natural",
+                  "coords": [
+                        83.886437,
+                        28.607355
+                  ]
+            },
+            {
+                  "name": "Annapurna I",
+                  "text": "The world's tenth highest mountain, standing at 8,091 meters and famous for its challenging North Face.",
+                  "category": "natural",
+                  "coords": [
+                        83.81992,
+                        28.595806
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-GA",
     coords: [83.8202, 28.5961],
@@ -147,7 +1299,268 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-machapuchare-relief-v2",
+    id: "nepal-machapuchare-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Rodolfo Viewpoint",
+                  "text": "Ein malerischer Aussichtspunkt mit einem klaren, dramatischen Blick auf den ikonischen Gipfel des Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.904818,
+                        28.508602
+                  ]
+            },
+            {
+                  "name": "Machapuchare",
+                  "text": "Der heilige „Fischschwanz“-Berg, bekannt für seinen Doppelgipfel und die Tatsache, dass das Besteigen streng verboten ist.",
+                  "category": "natural",
+                  "coords": [
+                        83.945876,
+                        28.49798
+                  ]
+            },
+            {
+                  "name": "Mardi Himal Base Camp (lower)",
+                  "text": "Ein hochgelegener Lagerplatz auf einem Bergrücken, der einen direkten Blick auf das Annapurna-Massiv bietet.",
+                  "category": "natural",
+                  "coords": [
+                        83.895027,
+                        28.459991
+                  ]
+            },
+            {
+                  "name": "Mardi Himal",
+                  "text": "Ein markanter Trekkinggipfel direkt unter der Südwand des heiligen Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.927535,
+                        28.473769
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "Ein Aussichtspunkt am Mardi Himal Trek mit Blick auf die üppigen Täler und den schneebedeckten Himalaya.",
+                  "category": "natural",
+                  "coords": [
+                        83.877093,
+                        28.448592
+                  ]
+            },
+            {
+                  "name": "Upper Viewpoint",
+                  "text": "Ein hochgelegener Aussichtspunkt mit einem ungehinderten 360-Grad-Blick auf Annapurna South und Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.885784,
+                        28.457161
+                  ]
+            },
+            {
+                  "name": "Dmitry Sobolev / Anatoli Boukreev Chorten",
+                  "text": "Ein Gedenk-Chorten, gewidmet den legendären Bergsteigern, die an den benachbarten Gipfeln verunglückten.",
+                  "category": "historical",
+                  "coords": [
+                        83.877358,
+                        28.531154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Rodolfo Viewpoint",
+                  "text": "Látványos kilátópont, ahonnan tiszta és drámai kilátás nyílik az ikonikus Machapuchare csúcsra.",
+                  "category": "natural",
+                  "coords": [
+                        83.904818,
+                        28.508602
+                  ]
+            },
+            {
+                  "name": "Machapuchare",
+                  "text": "A szent „Halfarok”-hegy, amely kettős csúcsáról és arról ismert, hogy megmászása szigorúan tilos.",
+                  "category": "natural",
+                  "coords": [
+                        83.945876,
+                        28.49798
+                  ]
+            },
+            {
+                  "name": "Mardi Himal Base Camp (lower)",
+                  "text": "Magashegyi táborhely egy hegygerincen, ahonnan közvetlen kilátás nyílik az Annapurna-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        83.895027,
+                        28.459991
+                  ]
+            },
+            {
+                  "name": "Mardi Himal",
+                  "text": "Jelentős túracsúcs közvetlenül a szent Machapuchare déli fala alatt.",
+                  "category": "natural",
+                  "coords": [
+                        83.927535,
+                        28.473769
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "Panorámás pihenőhely a Mardi Himal túrán, kilátással a buja völgyekre és a hófödte Himalájára.",
+                  "category": "natural",
+                  "coords": [
+                        83.877093,
+                        28.448592
+                  ]
+            },
+            {
+                  "name": "Upper Viewpoint",
+                  "text": "Magashegyi kilátó, ahonnan akadálytalan, 360 fokos panoráma nyílik az Annapurna Délre és a Machapucharéra.",
+                  "category": "natural",
+                  "coords": [
+                        83.885784,
+                        28.457161
+                  ]
+            },
+            {
+                  "name": "Dmitry Sobolev / Anatoli Boukreev Chorten",
+                  "text": "Emlék-csorten a legendás hegymászók tiszteletére, akik a szomszédos csúcsokon vesztették életüket.",
+                  "category": "historical",
+                  "coords": [
+                        83.877358,
+                        28.531154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Rodolfo Viewpoint",
+                  "text": "Un punct de belvedere pitoresc care oferă o vedere clară și dramatică asupra vârfului iconic Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.904818,
+                        28.508602
+                  ]
+            },
+            {
+                  "name": "Machapuchare",
+                  "text": "Muntele sacru „Coada de Pește”, cunoscut pentru vârful său dublu și pentru faptul că alpinismul este strict interzis.",
+                  "category": "natural",
+                  "coords": [
+                        83.945876,
+                        28.49798
+                  ]
+            },
+            {
+                  "name": "Mardi Himal Base Camp (lower)",
+                  "text": "Un loc de campare la mare altitudine pe o creastă montană, oferind vederi de aproape ale masivului Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        83.895027,
+                        28.459991
+                  ]
+            },
+            {
+                  "name": "Mardi Himal",
+                  "text": "Un vârf de trekking proeminent situat direct sub fața sudică a muntelui sacru Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.927535,
+                        28.473769
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "Un popas panoramic pe traseul Mardi Himal, cu vedere la văile verzi și la munții Himalaya înzăpeziți.",
+                  "category": "natural",
+                  "coords": [
+                        83.877093,
+                        28.448592
+                  ]
+            },
+            {
+                  "name": "Upper Viewpoint",
+                  "text": "Un punct de observație la mare altitudine, care oferă o vedere de 360 de grade asupra Annapurna South și Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.885784,
+                        28.457161
+                  ]
+            },
+            {
+                  "name": "Dmitry Sobolev / Anatoli Boukreev Chorten",
+                  "text": "Un chorten memorial dedicat legendarilor alpiniști care au pierit pe vârfurile învecinate.",
+                  "category": "historical",
+                  "coords": [
+                        83.877358,
+                        28.531154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Rodolfo Viewpoint",
+                  "text": "A scenic vantage point offering a clear, dramatic view of the iconic Machapuchare peak.",
+                  "category": "natural",
+                  "coords": [
+                        83.904818,
+                        28.508602
+                  ]
+            },
+            {
+                  "name": "Machapuchare",
+                  "text": "The sacred \"Fishtail\" mountain, known for its double peak and the fact that climbing is strictly forbidden.",
+                  "category": "natural",
+                  "coords": [
+                        83.945876,
+                        28.49798
+                  ]
+            },
+            {
+                  "name": "Mardi Himal Base Camp (lower)",
+                  "text": "A high-altitude camping site on a mountain ridge, providing close-up views of the Annapurna massif.",
+                  "category": "natural",
+                  "coords": [
+                        83.895027,
+                        28.459991
+                  ]
+            },
+            {
+                  "name": "Mardi Himal",
+                  "text": "A prominent trekking peak situated directly beneath the south face of the sacred Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.927535,
+                        28.473769
+                  ]
+            },
+            {
+                  "name": "Lower Viewpoint",
+                  "text": "A panoramic rest stop on the Mardi Himal trek, overlooking the lush valleys and snow-capped Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        83.877093,
+                        28.448592
+                  ]
+            },
+            {
+                  "name": "Upper Viewpoint",
+                  "text": "A high-altitude lookout offering an unobstructed 360-degree view of Annapurna South and Machapuchare.",
+                  "category": "natural",
+                  "coords": [
+                        83.885784,
+                        28.457161
+                  ]
+            },
+            {
+                  "name": "Dmitry Sobolev / Anatoli Boukreev Chorten",
+                  "text": "A memorial chorten dedicated to legendary mountaineers who perished on the neighboring peaks.",
+                  "category": "historical",
+                  "coords": [
+                        83.877358,
+                        28.531154
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-GA",
     coords: [83.9486, 28.4950],
@@ -183,7 +1596,196 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-ama-dablam-relief-v2",
+    id: "nepal-ama-dablam-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malāṅphulāṅ",
+                  "text": "Ein schroffer Himalaya-Gipfel mit 6.573 Metern Höhe in der Khumbu-Region nahe dem Ama Dablam.",
+                  "category": "natural",
+                  "coords": [
+                        86.865847,
+                        27.808159
+                  ]
+            },
+            {
+                  "name": "Ama Dablam",
+                  "text": "Ein ikonischer Himalaya-Gipfel, bekannt für seine steilen Grate und die Form einer „Halskette der Mutter“, 6.812 Meter hoch.",
+                  "category": "natural",
+                  "coords": [
+                        86.860429,
+                        27.8621
+                  ]
+            },
+            {
+                  "name": "Ombigaichen",
+                  "text": "Ein 6.340 Meter hoher Trekking-Gipfel mit spektakulärem Blick auf den Ama Dablam in der Khumbu-Region.",
+                  "category": "natural",
+                  "coords": [
+                        86.882962,
+                        27.853078
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Eine buddhistische Stupa vor der Kulisse des markanten Ama Dablam-Gipfels.",
+                  "category": "religious",
+                  "coords": [
+                        86.825742,
+                        27.890498
+                  ]
+            },
+            {
+                  "name": "memorial",
+                  "text": "Eine buddhistische Gedenkstätte für Bergsteiger inmitten der hohen Gipfel nahe dem Ama Dablam.",
+                  "category": "landmark",
+                  "coords": [
+                        86.816914,
+                        27.883142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malāṅphulāṅ",
+                  "text": "Egy 6573 méter magas, zord himalájai csúcs a Khumbu-régióban, az Ama Dablam közelében.",
+                  "category": "natural",
+                  "coords": [
+                        86.865847,
+                        27.808159
+                  ]
+            },
+            {
+                  "name": "Ama Dablam",
+                  "text": "Egy ikonikus himalájai csúcs, amely meredek gerinceiről és 6812 méteres magasságáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        86.860429,
+                        27.8621
+                  ]
+            },
+            {
+                  "name": "Ombigaichen",
+                  "text": "Egy 6340 méteres túracsúcs a Khumbu-régióban, amely látványos kilátást nyújt az Ama Dablamra.",
+                  "category": "natural",
+                  "coords": [
+                        86.882962,
+                        27.853078
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Buddhista sztúpa az Ama Dablam csúcsának lenyűgöző hátterével.",
+                  "category": "religious",
+                  "coords": [
+                        86.825742,
+                        27.890498
+                  ]
+            },
+            {
+                  "name": "memorial",
+                  "text": "Hegymászóknak szentelt buddhista emlékhely az Ama Dablam közelében fekvő magas csúcsok között.",
+                  "category": "landmark",
+                  "coords": [
+                        86.816914,
+                        27.883142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malāṅphulāṅ",
+                  "text": "Un vârf himalayan accidentat care atinge 6.573 de metri, situat în regiunea Khumbu, lângă Ama Dablam.",
+                  "category": "natural",
+                  "coords": [
+                        86.865847,
+                        27.808159
+                  ]
+            },
+            {
+                  "name": "Ama Dablam",
+                  "text": "Un vârf emblematic din Himalaya, faimos pentru crestele sale abrupte, care se înalță la 6.812 metri.",
+                  "category": "natural",
+                  "coords": [
+                        86.860429,
+                        27.8621
+                  ]
+            },
+            {
+                  "name": "Ombigaichen",
+                  "text": "Un vârf de trekking de 6.340 de metri care oferă vederi spectaculoase spre Ama Dablam în regiunea Khumbu.",
+                  "category": "natural",
+                  "coords": [
+                        86.882962,
+                        27.853078
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "O stupă budistă care se profilează pe fundalul vârfului Ama Dablam.",
+                  "category": "religious",
+                  "coords": [
+                        86.825742,
+                        27.890498
+                  ]
+            },
+            {
+                  "name": "memorial",
+                  "text": "Un monument memorial budist dedicat alpiniștilor, situat printre vârfurile înalte de lângă Ama Dablam.",
+                  "category": "landmark",
+                  "coords": [
+                        86.816914,
+                        27.883142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malāṅphulāṅ",
+                  "text": "A rugged Himalayan peak reaching 6,573 meters, situated in the Khumbu region near Ama Dablam.",
+                  "category": "natural",
+                  "coords": [
+                        86.865847,
+                        27.808159
+                  ]
+            },
+            {
+                  "name": "Ama Dablam",
+                  "text": "An iconic Himalayan peak famous for its steep ridges and \"mother's necklace\" shape, rising to 6,812 meters.",
+                  "category": "natural",
+                  "coords": [
+                        86.860429,
+                        27.8621
+                  ]
+            },
+            {
+                  "name": "Ombigaichen",
+                  "text": "A 6,340-meter trekking peak offering spectacular views of Ama Dablam in the Khumbu region.",
+                  "category": "natural",
+                  "coords": [
+                        86.882962,
+                        27.853078
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "A Buddhist stupa standing against the backdrop of the Ama Dablam peak.",
+                  "category": "religious",
+                  "coords": [
+                        86.825742,
+                        27.890498
+                  ]
+            },
+            {
+                  "name": "memorial",
+                  "text": "A Buddhist memorial site dedicated to climbers, situated amidst the high peaks near Ama Dablam.",
+                  "category": "landmark",
+                  "coords": [
+                        86.816914,
+                        27.883142
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [86.8611, 27.8611],
@@ -219,7 +1821,196 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-pumori-relief-v2",
+    id: "nepal-pumori-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hungchi",
+                  "text": "Ein markanter 7.029 Meter hoher Gipfel, der direkt an der Grenze zwischen Nepal und Tibet liegt.",
+                  "category": "natural",
+                  "coords": [
+                        86.759571,
+                        28.034623
+                  ]
+            },
+            {
+                  "name": "Pumori",
+                  "text": "Dieser oft „Everest-Tochter“ genannte 7.161 Meter hohe Gipfel bietet spektakuläre Ausblicke auf den Khumbu-Eisfall.",
+                  "category": "natural",
+                  "coords": [
+                        86.82735,
+                        28.015852
+                  ]
+            },
+            {
+                  "name": "Kala Patthar",
+                  "text": "Ein berühmter 5.644 Meter hoher Aussichtspunkt, der das ikonischste Bodenpanorama des Mount Everest bietet.",
+                  "category": "natural",
+                  "coords": [
+                        86.828441,
+                        27.9958
+                  ]
+            },
+            {
+                  "name": "Khangri East",
+                  "text": "Ein schroffer Himalaya-Gipfel, der Teil des beeindruckenden Pumori-Bergmassivs ist.",
+                  "category": "natural",
+                  "coords": [
+                        86.81467,
+                        28.019386
+                  ]
+            },
+            {
+                  "name": "Chumbu",
+                  "text": "Ein hoher Himalaya-Gipfel (6.859 m) an der internationalen Grenze zwischen Nepal und China.",
+                  "category": "natural",
+                  "coords": [
+                        86.787829,
+                        28.013639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hungchi",
+                  "text": "Egy kiemelkedő, 7029 méteres csúcs közvetlenül Nepál és Tibet határán.",
+                  "category": "natural",
+                  "coords": [
+                        86.759571,
+                        28.034623
+                  ]
+            },
+            {
+                  "name": "Pumori",
+                  "text": "Az gyakran „Everest lányának” nevezett 7161 méteres csúcsról látványos kilátás nyílik a Khumbu-jégesésre.",
+                  "category": "natural",
+                  "coords": [
+                        86.82735,
+                        28.015852
+                  ]
+            },
+            {
+                  "name": "Kala Patthar",
+                  "text": "Egy híres, 5644 méter magas kilátópont, ahonnan a Mount Everestre nyíló legikonikusabb panoráma tárul elénk.",
+                  "category": "natural",
+                  "coords": [
+                        86.828441,
+                        27.9958
+                  ]
+            },
+            {
+                  "name": "Khangri East",
+                  "text": "Egy sziklás himalájai csúcs, amely a lenyűgöző Pumori-hegymasszívum részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        86.81467,
+                        28.019386
+                  ]
+            },
+            {
+                  "name": "Chumbu",
+                  "text": "Egy magas himalájai csúcs (6859 m) Nepál és Kína nemzetközi határán.",
+                  "category": "natural",
+                  "coords": [
+                        86.787829,
+                        28.013639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hungchi",
+                  "text": "Un vârf proeminent de 7.029 de metri situat direct la granița dintre Nepal și Tibet.",
+                  "category": "natural",
+                  "coords": [
+                        86.759571,
+                        28.034623
+                  ]
+            },
+            {
+                  "name": "Pumori",
+                  "text": "Supranumit adesea „Fiica Everestului”, acest vârf de 7.161 de metri oferă vederi spectaculoase asupra cascadei de gheață Khumbu.",
+                  "category": "natural",
+                  "coords": [
+                        86.82735,
+                        28.015852
+                  ]
+            },
+            {
+                  "name": "Kala Patthar",
+                  "text": "Un punct de belvedere celebru de 5.644 de metri, care oferă cea mai iconică panoramă terestră a Muntelui Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.828441,
+                        27.9958
+                  ]
+            },
+            {
+                  "name": "Khangri East",
+                  "text": "Un vârf muntos accidentat din Himalaya, care face parte din impresionantul masiv Pumori.",
+                  "category": "natural",
+                  "coords": [
+                        86.81467,
+                        28.019386
+                  ]
+            },
+            {
+                  "name": "Chumbu",
+                  "text": "Un vârf înalt din Himalaya (6.859 m) situat la granița internațională dintre Nepal și China.",
+                  "category": "natural",
+                  "coords": [
+                        86.787829,
+                        28.013639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hungchi",
+                  "text": "A prominent 7,029-meter peak situated directly on the border between Nepal and Tibet.",
+                  "category": "natural",
+                  "coords": [
+                        86.759571,
+                        28.034623
+                  ]
+            },
+            {
+                  "name": "Pumori",
+                  "text": "Often called \"Everest's Daughter,\" this 7,161-meter peak offers spectacular views of the Khumbu icefall.",
+                  "category": "natural",
+                  "coords": [
+                        86.82735,
+                        28.015852
+                  ]
+            },
+            {
+                  "name": "Kala Patthar",
+                  "text": "A famous 5,644-meter viewpoint offering the most iconic terrestrial panorama of Mount Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.828441,
+                        27.9958
+                  ]
+            },
+            {
+                  "name": "Khangri East",
+                  "text": "A rugged Himalayan summit forming part of the impressive Pumori mountain massif.",
+                  "category": "natural",
+                  "coords": [
+                        86.81467,
+                        28.019386
+                  ]
+            },
+            {
+                  "name": "Chumbu",
+                  "text": "A high Himalayan peak (6,859m) located on the international border between Nepal and China.",
+                  "category": "natural",
+                  "coords": [
+                        86.787829,
+                        28.013639
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [86.8283, 28.0147],
@@ -255,7 +2046,196 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-nuptse-relief-v2",
+    id: "nepal-nuptse-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "नुप्त्से १",
+                  "text": "Der 7.861 Meter hohe Hauptgipfel des Nuptse-Grats, der die südliche Begrenzung des Westlichen Cwm bildet.",
+                  "category": "natural",
+                  "coords": [
+                        86.886963,
+                        27.967371
+                  ]
+            },
+            {
+                  "name": "Pokalde",
+                  "text": "Ein 5.806 Meter hoher Trekkinggipfel südlich des Kongma-La-Passes, bekannt für seinen gut zugänglichen felsigen Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        86.83319,
+                        27.924768
+                  ]
+            },
+            {
+                  "name": "Kongma La Pass",
+                  "text": "Der mit 5.535 Metern höchste der „Drei Pässe“ in der Khumbu-Region, mit weitem Blick auf den Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        86.836219,
+                        27.929705
+                  ]
+            },
+            {
+                  "name": "Kongma Tse",
+                  "text": "Ein 5.849 Meter hoher Gipfel direkt über dem Kongma-La-Pass mit einem kleinen Gletscher an seinem Nordhang.",
+                  "category": "natural",
+                  "coords": [
+                        86.838309,
+                        27.943934
+                  ]
+            },
+            {
+                  "name": "Chukhung Ri",
+                  "text": "Ein 5.550 Meter hoher Felshügel über dem Dorf Chukhung, der ein Panorama der Ama Dablam und der Lhotse-Wand bietet.",
+                  "category": "natural",
+                  "coords": [
+                        86.879202,
+                        27.925334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "नुप्त्से १",
+                  "text": "A Nuptse-gerinc 7861 méteres főcsúcsa, amely a Nyugati-völgy (Western Cwm) déli falát alkotja.",
+                  "category": "natural",
+                  "coords": [
+                        86.886963,
+                        27.967371
+                  ]
+            },
+            {
+                  "name": "Pokalde",
+                  "text": "Egy 5806 méteres túracsúcs a Kongma La-hágótól délre, amely jól megközelíthető sziklás csúcsáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        86.83319,
+                        27.924768
+                  ]
+            },
+            {
+                  "name": "Kongma La Pass",
+                  "text": "A Khumbu-régió „Három hágója” közül a legmagasabb, 5535 méteren fekszik, rálátással a Makalura.",
+                  "category": "natural",
+                  "coords": [
+                        86.836219,
+                        27.929705
+                  ]
+            },
+            {
+                  "name": "Kongma Tse",
+                  "text": "Egy 5849 méteres csúcs közvetlenül a Kongma La-hágó felett, északi lejtőjén egy kis gleccserrel.",
+                  "category": "natural",
+                  "coords": [
+                        86.838309,
+                        27.943934
+                  ]
+            },
+            {
+                  "name": "Chukhung Ri",
+                  "text": "Egy 5550 méteres sziklás domb Chukhung falu felett, amely panorámás kilátást nyújt az Ama Dablamra és a Lhotse-falra.",
+                  "category": "natural",
+                  "coords": [
+                        86.879202,
+                        27.925334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "नुप्त्से १",
+                  "text": "Vârful principal al crestei Nuptse, care atinge 7.861 de metri și formează peretele sudic al văii Western Cwm.",
+                  "category": "natural",
+                  "coords": [
+                        86.886963,
+                        27.967371
+                  ]
+            },
+            {
+                  "name": "Pokalde",
+                  "text": "Un vârf de trekking de 5.806 metri situat la sud de pasul Kongma La, cunoscut pentru vârful său stâncos accesibil.",
+                  "category": "natural",
+                  "coords": [
+                        86.83319,
+                        27.924768
+                  ]
+            },
+            {
+                  "name": "Kongma La Pass",
+                  "text": "Cel mai înalt dintre cele „Trei Pasuri” din regiunea Khumbu, situat la 5.535 de metri, cu vedere spre Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        86.836219,
+                        27.929705
+                  ]
+            },
+            {
+                  "name": "Kongma Tse",
+                  "text": "Un vârf de 5.849 de metri situat direct deasupra pasului Kongma La, având un mic ghețar pe versantul nordic.",
+                  "category": "natural",
+                  "coords": [
+                        86.838309,
+                        27.943934
+                  ]
+            },
+            {
+                  "name": "Chukhung Ri",
+                  "text": "Un deal stâncos de 5.550 de metri deasupra satului Chukhung, oferind vederi panoramice ale muntelui Ama Dablam și ale peretelui Lhotse.",
+                  "category": "natural",
+                  "coords": [
+                        86.879202,
+                        27.925334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuptse I",
+                  "text": "The main summit of the Nuptse ridge, reaching 7,861 meters and forming the southern wall of the Western Cwm.",
+                  "category": "natural",
+                  "coords": [
+                        86.886963,
+                        27.967371
+                  ]
+            },
+            {
+                  "name": "Pokalde",
+                  "text": "A 5,806-meter trekking peak south of the Kongma La pass, known for its accessible rocky summit.",
+                  "category": "natural",
+                  "coords": [
+                        86.83319,
+                        27.924768
+                  ]
+            },
+            {
+                  "name": "Kongma La Pass",
+                  "text": "The highest of the \"Three Passes\" in the Khumbu region, sitting at 5,535 meters with views of Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        86.836219,
+                        27.929705
+                  ]
+            },
+            {
+                  "name": "Kongma Tse",
+                  "text": "A 5,849-meter peak rising directly above the Kongma La pass, featuring a small glacier on its northern slope.",
+                  "category": "natural",
+                  "coords": [
+                        86.838309,
+                        27.943934
+                  ]
+            },
+            {
+                  "name": "Chukhung Ri",
+                  "text": "A 5,550-meter rocky hill above Chukhung village, providing panoramic views of Ama Dablam and the Lhotse wall.",
+                  "category": "natural",
+                  "coords": [
+                        86.879202,
+                        27.925334
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [86.8900, 27.9650],
@@ -291,7 +2271,88 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-gyachung-kang-relief-v2",
+    id: "nepal-gyachung-kang-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gyachung Kang",
+                  "text": "Mit 7.952 Metern ist dies der höchste Gipfel der Welt unter achttausend Metern, gelegen zwischen dem Cho Oyu und dem Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.744843,
+                        28.098031
+                  ]
+            },
+            {
+                  "name": "Ngojumba Kang II",
+                  "text": "Ein 7.743 Meter hoher Gipfel auf dem Hochgrat zwischen dem Gyachung Kang und dem Cho Oyu im Mahalangur Himal.",
+                  "category": "natural",
+                  "coords": [
+                        86.705496,
+                        28.105601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gyachung Kang",
+                  "text": "7952 méterével ez a világ legmagasabb nyolcezer méter alatti csúcsa, a Cho Oyu és az Everest között.",
+                  "category": "natural",
+                  "coords": [
+                        86.744843,
+                        28.098031
+                  ]
+            },
+            {
+                  "name": "Ngojumba Kang II",
+                  "text": "Egy 7743 méteres csúcs a Gyachung Kang és a Cho Oyu közötti magas gerincen, a Mahalangur Himal hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        86.705496,
+                        28.105601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gyachung Kang",
+                  "text": "Cu o înălțime de 7.952 de metri, acesta este cel mai înalt vârf din lume sub opt mii de metri, situat între Cho Oyu și Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.744843,
+                        28.098031
+                  ]
+            },
+            {
+                  "name": "Ngojumba Kang II",
+                  "text": "Un vârf de 7.743 de metri situat pe creasta înaltă dintre Gyachung Kang și Cho Oyu, în Mahalangur Himal.",
+                  "category": "natural",
+                  "coords": [
+                        86.705496,
+                        28.105601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gyachung Kang",
+                  "text": "Standing at 7,952 meters, this is the world's highest peak under eight thousand meters, located between Cho Oyu and Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.744843,
+                        28.098031
+                  ]
+            },
+            {
+                  "name": "Ngojumba Kang II",
+                  "text": "A 7,743-meter summit on the high ridge between Gyachung Kang and Cho Oyu in the Mahalangur Himal.",
+                  "category": "natural",
+                  "coords": [
+                        86.705496,
+                        28.105601
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [86.7422, 28.0980],
@@ -327,7 +2388,88 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-langtang-lirung-relief-v2",
+    id: "nepal-langtang-lirung-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kimshung",
+                  "text": "Ein markanter 6781 m hoher Gipfel im Langtang-Himal-Gebirge Nepals.",
+                  "category": "natural",
+                  "coords": [
+                        85.552625,
+                        28.272257
+                  ]
+            },
+            {
+                  "name": "लाङटाङ लिरुङ",
+                  "text": "Der höchste Gipfel des Langtang-Himal-Massivs mit einer imposanten Höhe von 7227 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        85.516803,
+                        28.256616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kimshung",
+                  "text": "Jellegzetes, 6781 méter magas hegycsúcs a nepáli Langtang Himal hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        85.552625,
+                        28.272257
+                  ]
+            },
+            {
+                  "name": "लाङटाङ लिरुङ",
+                  "text": "A Langtang Himal masszívum legmagasabb csúcsa, lenyűgöző 7227 méteres magassággal.",
+                  "category": "natural",
+                  "coords": [
+                        85.516803,
+                        28.256616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kimshung",
+                  "text": "Un vârf proeminent de 6781 m înălțime din munții Langtang Himal din Nepal.",
+                  "category": "natural",
+                  "coords": [
+                        85.552625,
+                        28.272257
+                  ]
+            },
+            {
+                  "name": "लाङटाङ लिरुङ",
+                  "text": "Cel mai înalt vârf din masivul Langtang Himal, cu o înălțime impunătoare de 7227 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        85.516803,
+                        28.256616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kimshung",
+                  "text": "A prominent 6,781-metre high peak in the Langtang Himal mountains of Nepal.",
+                  "category": "natural",
+                  "coords": [
+                        85.552625,
+                        28.272257
+                  ]
+            },
+            {
+                  "name": "Langtang Lirung",
+                  "text": "The highest peak of the Langtang Himal massif, with an imposing height of 7,227 metres.",
+                  "category": "natural",
+                  "coords": [
+                        85.516803,
+                        28.256616
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-BA",
     coords: [85.5152, 28.2575],
@@ -363,7 +2505,52 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-himalchuli-relief-v2",
+    id: "nepal-himalchuli-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Himachuli",
+                  "text": "Ein massiver Gipfel im Mansiri Himal, der eine Höhe von 7.893 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        84.636696,
+                        28.437727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Himachuli",
+                  "text": "A Mansiri Himal hatalmas csúcsa, amely 7893 méteres magasságba nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        84.636696,
+                        28.437727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Himachuli",
+                  "text": "Un vârf masiv în Mansiri Himal, atingând o înălțime de 7.893 metri.",
+                  "category": "natural",
+                  "coords": [
+                        84.636696,
+                        28.437727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Himachuli",
+                  "text": "A massive peak in the Mansiri Himal reaching 7,893 meters.",
+                  "category": "natural",
+                  "coords": [
+                        84.636696,
+                        28.437727
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-GA",
     coords: [84.6341, 28.4341],
@@ -399,7 +2586,916 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-kathmandu-valley-relief-v2",
+    id: "nepal-kathmandu-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kanti Rajya Laxmi Devi Shah",
+                  "text": "Ein Denkmal zu Ehren der Königin Kanti, das an die königliche Geschichte Nepals erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        85.328416,
+                        27.73253
+                  ]
+            },
+            {
+                  "name": "Naxal Dhungedhara",
+                  "text": "Diese archäologische Stätte in Naxal bewahrt einen antiken Steinbrunnen mit kunstvollen Schnitzereien.",
+                  "category": "historical",
+                  "coords": [
+                        85.325795,
+                        27.713588
+                  ]
+            },
+            {
+                  "name": "Bhav Art Gallery",
+                  "text": "Eine Galerie für moderne Kunst, die sich auf minimalistisches nepalesisches Design und Illustrationen spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        85.324748,
+                        27.716126
+                  ]
+            },
+            {
+                  "name": "रुसी हाउस काठमाडौं (कमलपोखरी)",
+                  "text": "Ein Kulturzentrum in Kamalpokhari, das russische Filme zeigt und Theateraufführungen sowie Ausstellungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        85.325823,
+                        27.709496
+                  ]
+            },
+            {
+                  "name": "Stone inscription",
+                  "text": "Eine historische Steininschrift, die als geschütztes Erbe religiöse Schenkungen aus vergangenen Jahrhunderten dokumentiert.",
+                  "category": "religious",
+                  "coords": [
+                        85.334126,
+                        27.715871
+                  ]
+            },
+            {
+                  "name": "Santu Art Gallery",
+                  "text": "Ein lokales Kunstzentrum, das traditionelle nepalesische Handwerkstechniken und Gemälde präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        85.332725,
+                        27.723601
+                  ]
+            },
+            {
+                  "name": "Chaitya",
+                  "text": "Ein kleiner buddhistischer Schrein, der oft in Innenhöfen steht und die Erleuchtung des Buddha symbolisiert.",
+                  "category": "religious",
+                  "coords": [
+                        85.335083,
+                        27.715598
+                  ]
+            },
+            {
+                  "name": "Nagpokhari",
+                  "text": "Ein historischer Teich, in dessen Mitte eine goldene Schlangensäule steht, die dem Schlangengott Nag gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.324369,
+                        27.713488
+                  ]
+            },
+            {
+                  "name": "Siwangi Pradhan",
+                  "text": "Ein markanter lokaler Orientierungspunkt im Viertel Naxal, der für seine architektonische Gestaltung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331411,
+                        27.716903
+                  ]
+            },
+            {
+                  "name": "श्री कुमारी मन्दिर",
+                  "text": "Ein heiliger hinduistischer Tempel, der der lebenden Göttin Kumari gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317474,
+                        27.725922
+                  ]
+            },
+            {
+                  "name": "गणेश स्थान",
+                  "text": "Ein einfacher hinduistischer Gebetsplatz unter freiem Himmel, der Lord Ganesh gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.319422,
+                        27.723148
+                  ]
+            },
+            {
+                  "name": "नील सरसवती",
+                  "text": "Dieser hinduistische Tempel ist der blauen Form der Göttin Saraswati gewidmet und ein wichtiges spirituelles Zentrum in Lazimpat.",
+                  "category": "landmark",
+                  "coords": [
+                        85.325928,
+                        27.7201
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Ein kleiner hinduistischer Schrein für den elefantenköpfigen Gott Ganesh, der oft mit Blumenopfern geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.326826,
+                        27.713714
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Ein hinduistischer Ganesh-Schrein, der als Ort für tägliche Gebete und Rituale im Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331486,
+                        27.708152
+                  ]
+            },
+            {
+                  "name": "सिद्धि विनायक मन्दिर",
+                  "text": "Ein hinduistischer Tempel, der Siddhi Binayak, einer glückverheißenden Form von Ganesh, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.327662,
+                        27.709086
+                  ]
+            },
+            {
+                  "name": "भगवती बहाल मन्दिर",
+                  "text": "Ein hinduistischer Tempel in einem traditionellen Hof (Bahal), der der Göttin Bhagwati gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.32884,
+                        27.712582
+                  ]
+            },
+            {
+                  "name": "अष्टसिद्धि गणेश मन्दिर",
+                  "text": "Ein hinduistischer Tempel, der die acht Siddhis (spirituelle Kräfte) von Ganesh ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.332724,
+                        27.713883
+                  ]
+            },
+            {
+                  "name": "सत्य नारायण मन्दिर",
+                  "text": "Ein hinduistischer Tempel, der Satya Narayan gewidmet ist, einer friedlichen Form des Gottes Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33658,
+                        27.715861
+                  ]
+            },
+            {
+                  "name": "नेपाली इसाई मण्डली",
+                  "text": "Ein Ort der christlichen Gemeinschaft in Kathmandu, der moderne Gottesdienste in nepalesischer Sprache abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        85.335565,
+                        27.712442
+                  ]
+            },
+            {
+                  "name": "आनन्द भैरव",
+                  "text": "Ein hinduistischer Schrein für Aanand Bhairav, eine furchteinflößende, aber glückselige Manifestation Shivas.",
+                  "category": "landmark",
+                  "coords": [
+                        85.333346,
+                        27.710027
+                  ]
+            },
+            {
+                  "name": "धन गणेश मन्दिर",
+                  "text": "Dieser hinduistische Tempel ist Dhan Ganesh gewidmet, der Gottheit, die Wohlstand und Reichtum bringt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.337071,
+                        27.719972
+                  ]
+            },
+            {
+                  "name": "हाडिगाउँ भुटेश्वर मन्दिर",
+                  "text": "Ein historischer hinduistischer Schrein im alten Viertel Hadigaun, der Lord Bhuteshwor gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.336313,
+                        27.717848
+                  ]
+            },
+            {
+                  "name": "भीमसेन मन्दिर",
+                  "text": "Ein hinduistischer Tempel für Bhimsen, den Gott des Handels, der besonders bei lokalen Geschäftsleuten beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.334774,
+                        27.718243
+                  ]
+            },
+            {
+                  "name": "श्री राधा कृष्ण देवस्थान",
+                  "text": "Ein hinduistischer Tempelkomplex, der der göttlichen Liebe von Radha und Krishna gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33296,
+                        27.717326
+                  ]
+            },
+            {
+                  "name": "Bhatbhateni Temple",
+                  "text": "Ein berühmter hinduistischer Tempel in Naxal, der für seine Verbindung zur lokalen Mythologie und alten Legenden bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331071,
+                        27.71959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kanti Rajya Laxmi Devi Shah",
+                  "text": "Kanti királyné tiszteletére emelt emlékmű, amely Nepál királyi történelmére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        85.328416,
+                        27.73253
+                  ]
+            },
+            {
+                  "name": "Naxal Dhungedhara",
+                  "text": "Ez a naxali régészeti lelőhely egy ősi, díszes faragványokkal díszített kőkutat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        85.325795,
+                        27.713588
+                  ]
+            },
+            {
+                  "name": "Bhav Art Gallery",
+                  "text": "Modern művészeti galéria, amely a minimalista nepáli dizájnra és illusztrációkra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        85.324748,
+                        27.716126
+                  ]
+            },
+            {
+                  "name": "रुसी हाउस काठमाडौं (कमलपोखरी)",
+                  "text": "Kamalpokhari-i kulturális központ, amely orosz filmeket vetít, színházi előadásokat és kiállításokat szervez.",
+                  "category": "cultural",
+                  "coords": [
+                        85.325823,
+                        27.709496
+                  ]
+            },
+            {
+                  "name": "Stone inscription",
+                  "text": "Történelmi kőfelirat, amely védett örökségként örökíti meg az elmúlt évszázadok vallási felajánlásait.",
+                  "category": "religious",
+                  "coords": [
+                        85.334126,
+                        27.715871
+                  ]
+            },
+            {
+                  "name": "Santu Art Gallery",
+                  "text": "Helyi művészeti központ, amely hagyományos nepáli kézműves technikákat és festményeket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        85.332725,
+                        27.723601
+                  ]
+            },
+            {
+                  "name": "Chaitya",
+                  "text": "Kisméretű buddhista szentély, amely gyakran belső udvarokon áll, és Buddha megvilágosodását jelképezi.",
+                  "category": "religious",
+                  "coords": [
+                        85.335083,
+                        27.715598
+                  ]
+            },
+            {
+                  "name": "Nagpokhari",
+                  "text": "Történelmi tó, amelynek közepén egy arany kígyóoszlop áll, a Nag kígyóistennek szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        85.324369,
+                        27.713488
+                  ]
+            },
+            {
+                  "name": "Siwangi Pradhan",
+                  "text": "Jellegzetes helyi tájékozódási pont Naxal negyedben, amely építészeti kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331411,
+                        27.716903
+                  ]
+            },
+            {
+                  "name": "श्री कुमारी मन्दिर",
+                  "text": "Szent hindu templom, amelyet Kumari élő istennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317474,
+                        27.725922
+                  ]
+            },
+            {
+                  "name": "गणेश स्थान",
+                  "text": "Egyszerű, szabadtéri hindu imádkozóhely, amelyet Ganésa úrnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.319422,
+                        27.723148
+                  ]
+            },
+            {
+                  "name": "नील सरसवती",
+                  "text": "Ez a hindu templom a kék istennőnek, Szaraszvatínak szentelt fontos spirituális központ Lazimpat negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        85.325928,
+                        27.7201
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Kicsi hindu szentély az elefántfejű Ganésa istennek, amelyet gyakran virágáldozatok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.326826,
+                        27.713714
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Hindu Ganésa-szentély, amely a környékbeli napi imák és rituálék helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331486,
+                        27.708152
+                  ]
+            },
+            {
+                  "name": "सिद्धि विनायक मन्दिर",
+                  "text": "Szigdi Binajaknak, Ganésa szerencsehozó alakjának szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.327662,
+                        27.709086
+                  ]
+            },
+            {
+                  "name": "भगवती बहाल मन्दिर",
+                  "text": "Hagyományos udvarban (bahal) található, Bhagwati istennőnek szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.32884,
+                        27.712582
+                  ]
+            },
+            {
+                  "name": "अष्टसिद्धि गणेश मन्दिर",
+                  "text": "Hindu templom, amely Ganésa nyolc sziddhijét (spirituális erejét) tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        85.332724,
+                        27.713883
+                  ]
+            },
+            {
+                  "name": "सत्य नारायण मन्दिर",
+                  "text": "Szatja Narajannak, Visnu isten békés alakjának szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33658,
+                        27.715861
+                  ]
+            },
+            {
+                  "name": "नेपाली इसाई मण्डली",
+                  "text": "Keresztény közösségi hely Katmanduban, ahol modern, nepáli nyelvű istentiszteleteket tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.335565,
+                        27.712442
+                  ]
+            },
+            {
+                  "name": "आनन्द भैरव",
+                  "text": "Hindu szentély Ánand Bhairavnak, Siva egy félelmetes, mégis üdvözítő megjelenésének.",
+                  "category": "landmark",
+                  "coords": [
+                        85.333346,
+                        27.710027
+                  ]
+            },
+            {
+                  "name": "धन गणेश मन्दिर",
+                  "text": "Ez a hindu templom Dhan Ganésának, a jólétet és gazdagságot hozó istenségnek szentelt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.337071,
+                        27.719972
+                  ]
+            },
+            {
+                  "name": "हाडिगाउँ भुटेश्वर मन्दिर",
+                  "text": "Történelmi hindu szentély Hadigaun régi negyedében, Bhuteshwor istennek szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        85.336313,
+                        27.717848
+                  ]
+            },
+            {
+                  "name": "भीमसेन मन्दिर",
+                  "text": "Bhimsennek, a kereskedelem istenének szentelt hindu templom, amely különösen a helyi üzletemberek körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        85.334774,
+                        27.718243
+                  ]
+            },
+            {
+                  "name": "श्री राधा कृष्ण देवस्थान",
+                  "text": "Hindu templomkomplexum, amelyet Radha és Krisna isteni szerelmének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33296,
+                        27.717326
+                  ]
+            },
+            {
+                  "name": "Bhatbhateni Temple",
+                  "text": "Híres hindu templom Naksalban, amely a helyi mitológiával és ősi legendákkal való kapcsolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331071,
+                        27.71959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kanti Rajya Laxmi Devi Shah",
+                  "text": "Un monument ridicat în cinstea reginei Kanti, amintind de istoria regală a Nepalului.",
+                  "category": "historical",
+                  "coords": [
+                        85.328416,
+                        27.73253
+                  ]
+            },
+            {
+                  "name": "Naxal Dhungedhara",
+                  "text": "Acest sit arheologic din Naxal păstrează o fântână de piatră antică, cu sculpturi elaborate.",
+                  "category": "historical",
+                  "coords": [
+                        85.325795,
+                        27.713588
+                  ]
+            },
+            {
+                  "name": "Bhav Art Gallery",
+                  "text": "O galerie de artă modernă specializată în design nepalez minimalist și ilustrații.",
+                  "category": "cultural",
+                  "coords": [
+                        85.324748,
+                        27.716126
+                  ]
+            },
+            {
+                  "name": "रुसी हाउस काठमाडौं (कमलपोखरी)",
+                  "text": "Un centru cultural în Kamalpokhari care prezintă filme rusești și găzduiește spectacole de teatru și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        85.325823,
+                        27.709496
+                  ]
+            },
+            {
+                  "name": "Stone inscription",
+                  "text": "O inscripție istorică în piatră care documentează donațiile religioase din secolele trecute ca patrimoniu protejat.",
+                  "category": "religious",
+                  "coords": [
+                        85.334126,
+                        27.715871
+                  ]
+            },
+            {
+                  "name": "Santu Art Gallery",
+                  "text": "Un centru de artă local care prezintă tehnici tradiționale nepaleze de artizanat și picturi.",
+                  "category": "cultural",
+                  "coords": [
+                        85.332725,
+                        27.723601
+                  ]
+            },
+            {
+                  "name": "Chaitya",
+                  "text": "Un mic altar budist, situat adesea în curți interioare, simbolizând iluminarea lui Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        85.335083,
+                        27.715598
+                  ]
+            },
+            {
+                  "name": "Nagpokhari",
+                  "text": "Un iaz istoric în centrul căruia se află o coloană cu un șarpe de aur, dedicată zeului șarpe Nag.",
+                  "category": "landmark",
+                  "coords": [
+                        85.324369,
+                        27.713488
+                  ]
+            },
+            {
+                  "name": "Siwangi Pradhan",
+                  "text": "Un reper local distinctiv în cartierul Naxal, cunoscut pentru designul său arhitectural.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331411,
+                        27.716903
+                  ]
+            },
+            {
+                  "name": "श्री कुमारी मन्दिर",
+                  "text": "Un templu hindus sfânt dedicat zeiței vii Kumari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317474,
+                        27.725922
+                  ]
+            },
+            {
+                  "name": "गणेश स्थान",
+                  "text": "Un loc de rugăciune hindus simplu, în aer liber, dedicat lordului Ganesha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.319422,
+                        27.723148
+                  ]
+            },
+            {
+                  "name": "नील सरसवती",
+                  "text": "Acest templu hindu este dedicat formei albastre a zeiței Saraswati, fiind un centru spiritual important în Lazimpat.",
+                  "category": "landmark",
+                  "coords": [
+                        85.325928,
+                        27.7201
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Un mic altar hindu dedicat zeului cu cap de elefant, Ganesh, adesea împodobit cu ofrande florale.",
+                  "category": "landmark",
+                  "coords": [
+                        85.326826,
+                        27.713714
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Un altar hindu dedicat lui Ganesh, servind ca loc pentru rugăciunile și ritualurile zilnice din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331486,
+                        27.708152
+                  ]
+            },
+            {
+                  "name": "सिद्धि विनायक मन्दिर",
+                  "text": "Un templu hindu dedicat lui Siddhi Binayak, o formă de bun augur a lui Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.327662,
+                        27.709086
+                  ]
+            },
+            {
+                  "name": "भगवती बहाल मन्दिर",
+                  "text": "Un templu hindu situat într-o curte tradițională (bahal), dedicat zeiței Bhagwati.",
+                  "category": "landmark",
+                  "coords": [
+                        85.32884,
+                        27.712582
+                  ]
+            },
+            {
+                  "name": "अष्टसिद्धि गणेश मन्दिर",
+                  "text": "Un templu hindu care onorează cele opt siddhi (puteri spirituale) ale lui Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.332724,
+                        27.713883
+                  ]
+            },
+            {
+                  "name": "सत्य नारायण मन्दिर",
+                  "text": "Un templu hindu dedicat lui Satya Narayan, o formă pașnică a zeului Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33658,
+                        27.715861
+                  ]
+            },
+            {
+                  "name": "नेपाली इसाई मण्डली",
+                  "text": "Un loc al comunității creștine din Kathmandu, care găzduiește slujbe moderne în limba nepaleză.",
+                  "category": "landmark",
+                  "coords": [
+                        85.335565,
+                        27.712442
+                  ]
+            },
+            {
+                  "name": "आनन्द भैरव",
+                  "text": "Un altar hindu pentru Aanand Bhairav, o manifestare fioroasă, dar fericită a lui Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        85.333346,
+                        27.710027
+                  ]
+            },
+            {
+                  "name": "धन गणेश मन्दिर",
+                  "text": "Acest templu hindu este dedicat lui Dhan Ganesh, divinitatea care aduce prosperitate și bogăție.",
+                  "category": "landmark",
+                  "coords": [
+                        85.337071,
+                        27.719972
+                  ]
+            },
+            {
+                  "name": "हाडिगाउँ भुटेश्वर मन्दिर",
+                  "text": "Un altar hindu istoric în cartierul vechi Hadigaun, dedicat zeului Bhuteshwor.",
+                  "category": "landmark",
+                  "coords": [
+                        85.336313,
+                        27.717848
+                  ]
+            },
+            {
+                  "name": "भीमसेन मन्दिर",
+                  "text": "Un templu hindu pentru Bhimsen, zeul comerțului, deosebit de popular printre oamenii de afaceri locali.",
+                  "category": "landmark",
+                  "coords": [
+                        85.334774,
+                        27.718243
+                  ]
+            },
+            {
+                  "name": "श्री राधा कृष्ण देवस्थान",
+                  "text": "Un complex de temple hindu dedicat iubirii divine dintre Radha și Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33296,
+                        27.717326
+                  ]
+            },
+            {
+                  "name": "Bhatbhateni Temple",
+                  "text": "Un faimos templu hindu din Naxal, cunoscut pentru legătura sa cu mitologia locală și legendele vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331071,
+                        27.71959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanti Rajya Laxmi Devi Shah",
+                  "text": "A monument honoring Queen Kanti, commemorating Nepal's royal history.",
+                  "category": "historical",
+                  "coords": [
+                        85.328416,
+                        27.73253
+                  ]
+            },
+            {
+                  "name": "Naxal Dhungedhara",
+                  "text": "This archaeological site in Naxal preserves an ancient stone water spout with intricate carvings.",
+                  "category": "historical",
+                  "coords": [
+                        85.325795,
+                        27.713588
+                  ]
+            },
+            {
+                  "name": "Bhav Art Gallery",
+                  "text": "A modern art gallery specializing in minimalist Nepali design and illustrations.",
+                  "category": "cultural",
+                  "coords": [
+                        85.324748,
+                        27.716126
+                  ]
+            },
+            {
+                  "name": "Russian House in Kathmandu (Kamalpokhari)",
+                  "text": "A cultural center in Kamalpokhari screening Russian films and hosting theater performances and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        85.325823,
+                        27.709496
+                  ]
+            },
+            {
+                  "name": "Stone inscription",
+                  "text": "A historical stone inscription documenting religious endowments from past centuries as protected heritage.",
+                  "category": "religious",
+                  "coords": [
+                        85.334126,
+                        27.715871
+                  ]
+            },
+            {
+                  "name": "Santu Art Gallery",
+                  "text": "A local arts centre showcasing traditional Nepali craft techniques and paintings.",
+                  "category": "cultural",
+                  "coords": [
+                        85.332725,
+                        27.723601
+                  ]
+            },
+            {
+                  "name": "Chaitya",
+                  "text": "A small Buddhist shrine, typically found in courtyards, symbolizing the enlightenment of the Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        85.335083,
+                        27.715598
+                  ]
+            },
+            {
+                  "name": "Nag Pokhari",
+                  "text": "A historic pond featuring a central golden snake statue dedicated to the serpent deity Nag.",
+                  "category": "landmark",
+                  "coords": [
+                        85.324369,
+                        27.713488
+                  ]
+            },
+            {
+                  "name": "Siwangi Pradhan",
+                  "text": "A distinct local landmark in the Naxal neighborhood known for its architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331411,
+                        27.716903
+                  ]
+            },
+            {
+                  "name": "Shree Kumari Temple",
+                  "text": "A sacred Hindu temple dedicated to the living goddess Kumari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317474,
+                        27.725922
+                  ]
+            },
+            {
+                  "name": "Ganesh sthan",
+                  "text": "A simple open-air Hindu place of worship dedicated to Lord Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.319422,
+                        27.723148
+                  ]
+            },
+            {
+                  "name": "Nil Sarsaswati",
+                  "text": "This Hindu temple is dedicated to the blue form of the goddess Saraswati and serves as a key spiritual center in Lazimpat.",
+                  "category": "landmark",
+                  "coords": [
+                        85.325928,
+                        27.7201
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "A small Hindu shrine to the elephant-headed god Ganesh, often adorned with floral offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        85.326826,
+                        27.713714
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "A Hindu Ganesh shrine serving as a site for daily prayers and rituals in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331486,
+                        27.708152
+                  ]
+            },
+            {
+                  "name": "Siddhi Binayak Mandir",
+                  "text": "A Hindu temple dedicated to Siddhi Binayak, an auspicious form of Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.327662,
+                        27.709086
+                  ]
+            },
+            {
+                  "name": "Bhagwati Bahal Temple",
+                  "text": "A Hindu temple located within a traditional courtyard (bahal), dedicated to the goddess Bhagwati.",
+                  "category": "landmark",
+                  "coords": [
+                        85.32884,
+                        27.712582
+                  ]
+            },
+            {
+                  "name": "Asta Siddhi Ganesh Mandir",
+                  "text": "A Hindu temple honoring the eight siddhis (spiritual powers) of Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.332724,
+                        27.713883
+                  ]
+            },
+            {
+                  "name": "Satya Narayan Mandir",
+                  "text": "A Hindu temple dedicated to Satya Narayan, a peaceful form of the god Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33658,
+                        27.715861
+                  ]
+            },
+            {
+                  "name": "Nepali Isai Mandali",
+                  "text": "A Christian community site in Kathmandu hosting modern services in the Nepali language.",
+                  "category": "landmark",
+                  "coords": [
+                        85.335565,
+                        27.712442
+                  ]
+            },
+            {
+                  "name": "Aanand Bhairav",
+                  "text": "A Hindu shrine to Aanand Bhairav, a fierce yet blissful manifestation of Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        85.333346,
+                        27.710027
+                  ]
+            },
+            {
+                  "name": "Dhan Ganesh Mandir",
+                  "text": "This Hindu temple is dedicated to Dhan Ganesh, the deity who brings prosperity and wealth.",
+                  "category": "landmark",
+                  "coords": [
+                        85.337071,
+                        27.719972
+                  ]
+            },
+            {
+                  "name": "Hadigaun Bhuteshwor Mandir",
+                  "text": "A historic Hindu shrine in the ancient Hadigaun neighborhood, dedicated to Lord Bhuteshwor.",
+                  "category": "landmark",
+                  "coords": [
+                        85.336313,
+                        27.717848
+                  ]
+            },
+            {
+                  "name": "Bhimsen Mandir ",
+                  "text": "A Hindu temple to Bhimsen, the god of trade, particularly popular among local business people.",
+                  "category": "landmark",
+                  "coords": [
+                        85.334774,
+                        27.718243
+                  ]
+            },
+            {
+                  "name": "Shree Radha Krishna Devsthan",
+                  "text": "A Hindu temple complex dedicated to the divine love of Radha and Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.33296,
+                        27.717326
+                  ]
+            },
+            {
+                  "name": "Bhatbhateni Temple",
+                  "text": "A famous Hindu temple in Naxal, known for its connection to local mythology and ancient legends.",
+                  "category": "landmark",
+                  "coords": [
+                        85.331071,
+                        27.71959
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-BA",
     coords: [85.3240, 27.7172],
@@ -435,7 +3531,1096 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-pokhara-valley-relief-v2",
+    id: "nepal-pokhara-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chyatriya Sangralaya",
+                  "text": "Ein Regionalmuseum, das sich der Geschichte und dem kulturellen Erbe der Chhetri-Gemeinschaft widmet.",
+                  "category": "museum",
+                  "coords": [
+                        83.991002,
+                        28.217274
+                  ]
+            },
+            {
+                  "name": "Prince Dance Paradise",
+                  "text": "Ein lokaler Veranstaltungsort für traditionelle nepalesische Volkstänze und Musikdarbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        83.98708,
+                        28.21975
+                  ]
+            },
+            {
+                  "name": "Pokhara Mini Market",
+                  "text": "Ein lebhafter lokaler Markt, der frische Lebensmittel und Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        83.981195,
+                        28.212178
+                  ]
+            },
+            {
+                  "name": "Agricultural Produce Market Center",
+                  "text": "Ein zentraler Großmarkt für landwirtschaftliche Erzeugnisse aus dem fruchtbaren Pokhara-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        83.990866,
+                        28.211126
+                  ]
+            },
+            {
+                  "name": "Hongkong Bazar",
+                  "text": "Ein beliebter Basar, der für eine große Auswahl an Kleidung, Elektronik und Importwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        83.987349,
+                        28.210148
+                  ]
+            },
+            {
+                  "name": "Pokhara Mall",
+                  "text": "Ein modernes mehrstöckiges Einkaufszentrum mit zahlreichen Geschäften und gastronomischen Angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        83.986052,
+                        28.209707
+                  ]
+            },
+            {
+                  "name": "Gandaki Mini Market",
+                  "text": "Ein kleiner Marktplatz, der eine Vielzahl an lokal hergestellten Waren und Souvenirs führt.",
+                  "category": "cultural",
+                  "coords": [
+                        83.991194,
+                        28.219092
+                  ]
+            },
+            {
+                  "name": "Chandi Mai Mandir",
+                  "text": "Ein heiliger Schrein der Göttin Chandi, der malerisch am Ufer eines lokalen Gewässers liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988717,
+                        28.218252
+                  ]
+            },
+            {
+                  "name": "Shanti Maidan Tourist Area",
+                  "text": "Ein weitläufiges Erholungsgebiet, das Touristen einen Panoramablick auf die umliegende Bergwelt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        84.080782,
+                        28.209778
+                  ]
+            },
+            {
+                  "name": "New Testament Church",
+                  "text": "Eine christliche Kirche in Pokhara, die Gottesdienste für die lokale Gemeinschaft abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000253,
+                        28.220646
+                  ]
+            },
+            {
+                  "name": "laxmi Narayan Temple",
+                  "text": "Ein hinduistischer Tempel, der Lakshmi und Narayan gewidmet ist und Ruhe für Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        83.973017,
+                        28.210321
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Ein weiterer Shiva-Tempel im Pokhara-Tal, erkennbar an seinen traditionellen Pagodendach.",
+                  "category": "landmark",
+                  "coords": [
+                        83.969137,
+                        28.220073
+                  ]
+            },
+            {
+                  "name": "Bishowkarma Temple",
+                  "text": "Ein Hindutempel für Vishwakarma, der besonders von Handwerkern der Region aufgesucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977573,
+                        28.212478
+                  ]
+            },
+            {
+                  "name": "Bharab Mandir",
+                  "text": "Dieser Schrein ist Bhairab gewidmet, einer furchteinflößenden Manifestation von Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        83.98316,
+                        28.21731
+                  ]
+            },
+            {
+                  "name": "Giri Kul Mandir",
+                  "text": "Ein kleiner Hindutempel, der inmitten des geschäftigen Stadtlebens von Pokhara einen Ort der Einkehr bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979709,
+                        28.214758
+                  ]
+            },
+            {
+                  "name": "Heraune Thau",
+                  "text": "Ein Aussichtspunkt mit einem Hinduschrein, der einen weiten Blick über das Tal ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977424,
+                        28.220168
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Ein Schrein für Ganesh, den Überwinder von Hindernissen, im Herzen der Siedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        83.980918,
+                        28.217577
+                  ]
+            },
+            {
+                  "name": "Immanul Light Church",
+                  "text": "Eine lokale christliche Kirche, die durch ihre schlichte Architektur und lebendige Gemeinde besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979936,
+                        28.207032
+                  ]
+            },
+            {
+                  "name": "Saraswati Temple",
+                  "text": "Ein Tempel für Saraswati, die Göttin des Wissens und der Künste, der oft von Schülern besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988889,
+                        28.214985
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Ein klassischer nepalesischer Shiva-Tempel mit kunstvoll verzierten Türen.",
+                  "category": "landmark",
+                  "coords": [
+                        83.989848,
+                        28.21713
+                  ]
+            },
+            {
+                  "name": "Satya Sai Kendra",
+                  "text": "Ein spirituelles Zentrum für Yoga und Meditation, das hinduistische Praktiken in der ruhigen Umgebung von Pokhara fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        83.993678,
+                        28.218361
+                  ]
+            },
+            {
+                  "name": "Rani Puwa Church",
+                  "text": "Eine christliche Kirche im Viertel Rani Puwa, die als Versammlungsort für die lokale Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        83.998241,
+                        28.21746
+                  ]
+            },
+            {
+                  "name": "Ramghat Church",
+                  "text": "Diese im Ramghat-Distrikt gelegene Kirche ist ein wichtiger Anlaufpunkt für die christliche Glaubensgemeinschaft in Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000498,
+                        28.213569
+                  ]
+            },
+            {
+                  "name": "Upakareshwar Shivalaya",
+                  "text": "Ein traditioneller Shiva-Tempel, der für seine religiöse Bedeutung und die typische Bergland-Kulisse bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.002226,
+                        28.207854
+                  ]
+            },
+            {
+                  "name": "Utsaha Church",
+                  "text": "Eine lokale christliche Kirche, die regelmäßig Gottesdienste für die Bewohner des Pokhara-Tals abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        84.004307,
+                        28.210283
+                  ]
+            },
+            {
+                  "name": "Nawadurga Bhagwati Mandir",
+                  "text": "Dieser Hindu-Tempel ist der Göttin Bhagwati gewidmet und ein bedeutender Ort für religiöse Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        84.009511,
+                        28.213987
+                  ]
+            },
+            {
+                  "name": "All Nepal Prayer Fellowship Church",
+                  "text": "Ein Gebetshaus der christlichen Gemeinschaft, das sich auf gemeinschaftliches Gebet und Fellowship konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        84.016892,
+                        28.215442
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein schlichter Hindu-Schrein im Pokhara-Tal, der als Ort der persönlichen Andacht für Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        84.055514,
+                        28.211626
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "Ein der Göttin Kali gewidmeter Tempel, der für seine kraftvolle religiöse Atmosphäre in Pokhara bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.074099,
+                        28.21385
+                  ]
+            },
+            {
+                  "name": "Shivalaya Mandir",
+                  "text": "Dieser Shivalaya-Tempel ist ein Ort der Ruhe, der speziell der Verehrung von Lord Shiva gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.075112,
+                        28.214177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chyatriya Sangralaya",
+                  "text": "Regionális múzeum, amely a cshatriják (harcos kaszt) történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        83.991002,
+                        28.217274
+                  ]
+            },
+            {
+                  "name": "Prince Dance Paradise",
+                  "text": "Helyi kulturális központ hagyományos nepáli néptáncok és zenei előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        83.98708,
+                        28.21975
+                  ]
+            },
+            {
+                  "name": "Pokhara Mini Market",
+                  "text": "Élénk helyi piac, ahol friss élelmiszereket és mindennapi használati cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        83.981195,
+                        28.212178
+                  ]
+            },
+            {
+                  "name": "Agricultural Produce Market Center",
+                  "text": "Központi nagybani piac a termékeny Pokhara-völgyből származó mezőgazdasági termékek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        83.990866,
+                        28.211126
+                  ]
+            },
+            {
+                  "name": "Hongkong Bazar",
+                  "text": "Népszerű bazár, amely ruházati cikkek, elektronikai eszközök és importtermékek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        83.987349,
+                        28.210148
+                  ]
+            },
+            {
+                  "name": "Pokhara Mall",
+                  "text": "Modern, többszintes bevásárlóközpont számos üzlettel és vendéglátóhellyel.",
+                  "category": "cultural",
+                  "coords": [
+                        83.986052,
+                        28.209707
+                  ]
+            },
+            {
+                  "name": "Gandaki Mini Market",
+                  "text": "Kisebb piactér, ahol különféle helyi készítésű árukat és szuveníreket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        83.991194,
+                        28.219092
+                  ]
+            },
+            {
+                  "name": "Chandi Mai Mandir",
+                  "text": "Csandi istennő szentélye, amely festői környezetben, egy helyi vízparton fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988717,
+                        28.218252
+                  ]
+            },
+            {
+                  "name": "Shanti Maidan Tourist Area",
+                  "text": "Tágas pihenőövezet, amely panorámás kilátást nyújt a turistáknak a környező hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        84.080782,
+                        28.209778
+                  ]
+            },
+            {
+                  "name": "New Testament Church",
+                  "text": "Keresztény templom Pokharában, amely istentiszteleteket tart a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000253,
+                        28.220646
+                  ]
+            },
+            {
+                  "name": "laxmi Narayan Temple",
+                  "text": "Laksmi és Nárájana tiszteletére emelt hindu templom, amely nyugalmat kínál a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        83.973017,
+                        28.210321
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Egy újabb Siva-templom a Pokhara-völgyben, amely hagyományos pagoda-stílusú tetőzetéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        83.969137,
+                        28.220073
+                  ]
+            },
+            {
+                  "name": "Bishowkarma Temple",
+                  "text": "Visvakarma hindu temploma, amelyet különösen a környékbeli kézművesek látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977573,
+                        28.212478
+                  ]
+            },
+            {
+                  "name": "Bharab Mandir",
+                  "text": "Ez a szentély Bhairavnak, Siva isten félelmetes megnyilvánulásának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        83.98316,
+                        28.21731
+                  ]
+            },
+            {
+                  "name": "Giri Kul Mandir",
+                  "text": "Kisméretű hindu templom, amely a nyüzsgő városi élet közepette nyújt elcsendesedést Pokharában.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979709,
+                        28.214758
+                  ]
+            },
+            {
+                  "name": "Heraune Thau",
+                  "text": "Kilátópont egy hindu szentéllyel, ahonnan messzire el lehet látni a völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977424,
+                        28.220168
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Ganésa, az akadályok elhárítójának szentélye a település szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        83.980918,
+                        28.217577
+                  ]
+            },
+            {
+                  "name": "Immanul Light Church",
+                  "text": "Helyi keresztény templom, amely egyszerű építészetével és élénk közösségével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979936,
+                        28.207032
+                  ]
+            },
+            {
+                  "name": "Saraswati Temple",
+                  "text": "Szaraszvati, a tudás és a művészetek istennőjének temploma, amelyet gyakran látogatnak diákok.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988889,
+                        28.214985
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Klasszikus nepáli Siva-templom, művészien díszített ajtókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        83.989848,
+                        28.21713
+                  ]
+            },
+            {
+                  "name": "Satya Sai Kendra",
+                  "text": "Jóga- és meditációs központ, amely a hindu gyakorlatokat népszerűsíti Pokhara nyugodt környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        83.993678,
+                        28.218361
+                  ]
+            },
+            {
+                  "name": "Rani Puwa Church",
+                  "text": "Keresztény templom Rani Puwa negyedében, amely a helyi közösség gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        83.998241,
+                        28.21746
+                  ]
+            },
+            {
+                  "name": "Ramghat Church",
+                  "text": "Ez a Ramghat negyedben található templom a pokharai keresztény hívők fontos központja.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000498,
+                        28.213569
+                  ]
+            },
+            {
+                  "name": "Upakareshwar Shivalaya",
+                  "text": "Hagyományos Siva-templom, amely vallási jelentőségéről és a völgyre nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        84.002226,
+                        28.207854
+                  ]
+            },
+            {
+                  "name": "Utsaha Church",
+                  "text": "Helyi keresztény templom, amely rendszeres istentiszteleteket tart a Pokhara-völgy lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        84.004307,
+                        28.210283
+                  ]
+            },
+            {
+                  "name": "Nawadurga Bhagwati Mandir",
+                  "text": "Ez a Bhagwati istennőnek szentelt hindu templom a vallási ünnepek egyik fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        84.009511,
+                        28.213987
+                  ]
+            },
+            {
+                  "name": "All Nepal Prayer Fellowship Church",
+                  "text": "A keresztény közösség imaháza, amely a közös imádságra és a hitéletre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        84.016892,
+                        28.215442
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Egyszerű hindu szentély a Pokhara-völgyben, amely a helyiek személyes áhítatának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        84.055514,
+                        28.211626
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "Káli istennőnek szentelt templom, amely erőteljes vallási atmoszférájáról ismert Pokharában.",
+                  "category": "landmark",
+                  "coords": [
+                        84.074099,
+                        28.21385
+                  ]
+            },
+            {
+                  "name": "Shivalaya Mandir",
+                  "text": "Ez a Sivalaja-templom a nyugalom helye, amelyet kifejezetten Siva isten imádatának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        84.075112,
+                        28.214177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chyatriya Sangralaya",
+                  "text": "Un muzeu regional dedicat istoriei și moștenirii culturale a comunității Chhetri.",
+                  "category": "museum",
+                  "coords": [
+                        83.991002,
+                        28.217274
+                  ]
+            },
+            {
+                  "name": "Prince Dance Paradise",
+                  "text": "Un loc de desfășurare local pentru dansuri populare tradiționale nepaleze și spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        83.98708,
+                        28.21975
+                  ]
+            },
+            {
+                  "name": "Pokhara Mini Market",
+                  "text": "O piață locală plină de viață care oferă alimente proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        83.981195,
+                        28.212178
+                  ]
+            },
+            {
+                  "name": "Agricultural Produce Market Center",
+                  "text": "O piață centrală angro pentru produsele agricole din valea fertilă Pokhara.",
+                  "category": "cultural",
+                  "coords": [
+                        83.990866,
+                        28.211126
+                  ]
+            },
+            {
+                  "name": "Hongkong Bazar",
+                  "text": "Un bazar popular cunoscut pentru gama largă de îmbrăcăminte, electronice și bunuri de import.",
+                  "category": "cultural",
+                  "coords": [
+                        83.987349,
+                        28.210148
+                  ]
+            },
+            {
+                  "name": "Pokhara Mall",
+                  "text": "Un centru comercial modern, cu mai multe etaje, care găzduiește numeroase magazine și restaurante.",
+                  "category": "cultural",
+                  "coords": [
+                        83.986052,
+                        28.209707
+                  ]
+            },
+            {
+                  "name": "Gandaki Mini Market",
+                  "text": "O mică piață care oferă o varietate de bunuri produse local și suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        83.991194,
+                        28.219092
+                  ]
+            },
+            {
+                  "name": "Chandi Mai Mandir",
+                  "text": "Un altar sacru al zeiței Chandi, situat pitoresc pe malul unei ape locale.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988717,
+                        28.218252
+                  ]
+            },
+            {
+                  "name": "Shanti Maidan Tourist Area",
+                  "text": "O zonă de recreere vastă care oferă turiștilor o vedere panoramică asupra munților din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        84.080782,
+                        28.209778
+                  ]
+            },
+            {
+                  "name": "New Testament Church",
+                  "text": "O biserică creștină din Pokhara care oferă servicii religioase pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000253,
+                        28.220646
+                  ]
+            },
+            {
+                  "name": "laxmi Narayan Temple",
+                  "text": "Un templu hindu dedicat lui Lakshmi și Narayan, oferind un loc liniștit pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        83.973017,
+                        28.210321
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Un alt templu dedicat lui Shiva în valea Pokhara, recunoscut după acoperișul său tradițional în stil pagodă.",
+                  "category": "landmark",
+                  "coords": [
+                        83.969137,
+                        28.220073
+                  ]
+            },
+            {
+                  "name": "Bishowkarma Temple",
+                  "text": "Un templu hindu pentru Vishwakarma, frecventat în special de meșteșugarii din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977573,
+                        28.212478
+                  ]
+            },
+            {
+                  "name": "Bharab Mandir",
+                  "text": "Acest altar este dedicat lui Bhairab, o manifestare înfricoșătoare a zeului Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        83.98316,
+                        28.21731
+                  ]
+            },
+            {
+                  "name": "Giri Kul Mandir",
+                  "text": "Un mic templu hindu care oferă un loc de liniște în mijlocul vieții urbane agitate din Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979709,
+                        28.214758
+                  ]
+            },
+            {
+                  "name": "Heraune Thau",
+                  "text": "Un punct de observație cu un altar hindu, care oferă o vedere largă asupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977424,
+                        28.220168
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Un altar pentru Ganesh, cel care înlătură obstacolele, situat în inima așezării.",
+                  "category": "landmark",
+                  "coords": [
+                        83.980918,
+                        28.217577
+                  ]
+            },
+            {
+                  "name": "Immanul Light Church",
+                  "text": "O biserică creștină locală, remarcabilă prin arhitectura sa simplă și comunitatea vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979936,
+                        28.207032
+                  ]
+            },
+            {
+                  "name": "Saraswati Temple",
+                  "text": "Un templu pentru Saraswati, zeița cunoașterii și a artelor, vizitat adesea de studenți.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988889,
+                        28.214985
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Un templu nepalez clasic dedicat lui Shiva, cu uși decorate artistic.",
+                  "category": "landmark",
+                  "coords": [
+                        83.989848,
+                        28.21713
+                  ]
+            },
+            {
+                  "name": "Satya Sai Kendra",
+                  "text": "Un centru spiritual pentru yoga și meditație, care promovează practicile hinduse în cadrul natural liniștit din Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.993678,
+                        28.218361
+                  ]
+            },
+            {
+                  "name": "Rani Puwa Church",
+                  "text": "O biserică creștină din cartierul Rani Puwa, servind ca loc de adunare pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        83.998241,
+                        28.21746
+                  ]
+            },
+            {
+                  "name": "Ramghat Church",
+                  "text": "Situată în districtul Ramghat, această biserică este un punct de reper important pentru comunitatea creștină din Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000498,
+                        28.213569
+                  ]
+            },
+            {
+                  "name": "Upakareshwar Shivalaya",
+                  "text": "Un templu tradițional dedicat lui Shiva, cunoscut pentru semnificația sa religioasă și cadrul montan tipic.",
+                  "category": "landmark",
+                  "coords": [
+                        84.002226,
+                        28.207854
+                  ]
+            },
+            {
+                  "name": "Utsaha Church",
+                  "text": "O biserică creștină locală care găzduiește servicii religioase regulate pentru locuitorii din Valea Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.004307,
+                        28.210283
+                  ]
+            },
+            {
+                  "name": "Nawadurga Bhagwati Mandir",
+                  "text": "Acest templu hindu este dedicat zeiței Bhagwati și reprezintă un loc important pentru festivalurile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        84.009511,
+                        28.213987
+                  ]
+            },
+            {
+                  "name": "All Nepal Prayer Fellowship Church",
+                  "text": "O casă de rugăciune a comunității creștine, axată pe rugăciunea colectivă și părtășie.",
+                  "category": "landmark",
+                  "coords": [
+                        84.016892,
+                        28.215442
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un altar hindu simplu din Valea Pokhara, care servește ca loc de devoțiune personală pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        84.055514,
+                        28.211626
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "Un templu dedicat zeiței Kali, cunoscut pentru atmosfera sa religioasă puternică din Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.074099,
+                        28.21385
+                  ]
+            },
+            {
+                  "name": "Shivalaya Mandir",
+                  "text": "Acest templu Shivalaya este un loc de liniște, dedicat în special venerării zeului Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        84.075112,
+                        28.214177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chyatriya Sangralaya",
+                  "text": "A regional museum dedicated to the history and cultural heritage of the Chhetri community.",
+                  "category": "museum",
+                  "coords": [
+                        83.991002,
+                        28.217274
+                  ]
+            },
+            {
+                  "name": "Prince Dance Paradise",
+                  "text": "A local venue for traditional Nepalese folk dances and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        83.98708,
+                        28.21975
+                  ]
+            },
+            {
+                  "name": "Pokhara Mini Market",
+                  "text": "A lively local market offering fresh food and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        83.981195,
+                        28.212178
+                  ]
+            },
+            {
+                  "name": "Agricultural Produce Market Center",
+                  "text": "A central wholesale market for agricultural produce from the fertile Pokhara valley.",
+                  "category": "cultural",
+                  "coords": [
+                        83.990866,
+                        28.211126
+                  ]
+            },
+            {
+                  "name": "Hongkong Bazar",
+                  "text": "A popular bazaar known for its wide variety of clothing, electronics, and imported goods.",
+                  "category": "cultural",
+                  "coords": [
+                        83.987349,
+                        28.210148
+                  ]
+            },
+            {
+                  "name": "Pokhara Mall",
+                  "text": "A modern multi-story shopping mall featuring numerous retail stores and dining options.",
+                  "category": "cultural",
+                  "coords": [
+                        83.986052,
+                        28.209707
+                  ]
+            },
+            {
+                  "name": "Gandaki Mini Market",
+                  "text": "A small marketplace carrying a variety of locally made goods and souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        83.991194,
+                        28.219092
+                  ]
+            },
+            {
+                  "name": "Chandi Mai Mandir",
+                  "text": "A sacred shrine of the goddess Chandi, picturesquely situated by the water's edge.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988717,
+                        28.218252
+                  ]
+            },
+            {
+                  "name": "Shanti Maidan Tourist Area",
+                  "text": "A spacious recreational area offering tourists panoramic views of the surrounding mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        84.080782,
+                        28.209778
+                  ]
+            },
+            {
+                  "name": "New Testament Church",
+                  "text": "A Christian church in Pokhara providing worship services for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000253,
+                        28.220646
+                  ]
+            },
+            {
+                  "name": "laxmi Narayan Temple",
+                  "text": "A Hindu temple dedicated to Lakshmi and Narayan, offering a peaceful spot for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        83.973017,
+                        28.210321
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Another Shiva temple in the Pokhara valley, recognizable by its traditional pagoda-style roof.",
+                  "category": "landmark",
+                  "coords": [
+                        83.969137,
+                        28.220073
+                  ]
+            },
+            {
+                  "name": "Bishowkarma Temple",
+                  "text": "A Hindu temple for Vishwakarma, frequented especially by craftsmen of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977573,
+                        28.212478
+                  ]
+            },
+            {
+                  "name": "Bharab Mandir",
+                  "text": "This shrine is dedicated to Bhairab, a fierce manifestation of Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        83.98316,
+                        28.21731
+                  ]
+            },
+            {
+                  "name": "Giri Kul Mandir",
+                  "text": "A small Hindu temple providing a place of retreat amidst the busy urban life of Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979709,
+                        28.214758
+                  ]
+            },
+            {
+                  "name": "Heraune Thau",
+                  "text": "A viewpoint featuring a Hindu shrine that offers broad views over the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        83.977424,
+                        28.220168
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "A shrine for Ganesh, the remover of obstacles, located in the heart of the settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        83.980918,
+                        28.217577
+                  ]
+            },
+            {
+                  "name": "Immanul Light Church",
+                  "text": "A local Christian church notable for its simple architecture and vibrant community.",
+                  "category": "landmark",
+                  "coords": [
+                        83.979936,
+                        28.207032
+                  ]
+            },
+            {
+                  "name": "Saraswati Temple",
+                  "text": "A temple for Saraswati, the goddess of knowledge and arts, often visited by students.",
+                  "category": "landmark",
+                  "coords": [
+                        83.988889,
+                        28.214985
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "A classic Nepalese Shiva temple featuring ornately decorated doors.",
+                  "category": "landmark",
+                  "coords": [
+                        83.989848,
+                        28.21713
+                  ]
+            },
+            {
+                  "name": "Yoga Bhawan",
+                  "text": "A spiritual center for yoga and meditation, promoting Hindu practices in the serene setting of Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.993678,
+                        28.218361
+                  ]
+            },
+            {
+                  "name": "Rani Puwa Church",
+                  "text": "A Christian church in the Rani Puwa neighborhood, serving as a gathering place for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        83.998241,
+                        28.21746
+                  ]
+            },
+            {
+                  "name": "Ramghat Church",
+                  "text": "Located in the Ramghat district, this church is a significant landmark for the Christian community in Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.000498,
+                        28.213569
+                  ]
+            },
+            {
+                  "name": "Upakareshwar Shivalaya",
+                  "text": "A traditional Shiva temple known for its religious importance and typical mountain valley setting.",
+                  "category": "landmark",
+                  "coords": [
+                        84.002226,
+                        28.207854
+                  ]
+            },
+            {
+                  "name": "Utsaha Church",
+                  "text": "A local Christian church that holds regular worship services for the residents of the Pokhara Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        84.004307,
+                        28.210283
+                  ]
+            },
+            {
+                  "name": "Nawadurga Bhagwati Mandir",
+                  "text": "Dedicated to Goddess Bhagwati, this Hindu temple is a prominent site for religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        84.009511,
+                        28.213987
+                  ]
+            },
+            {
+                  "name": "All Nepal Prayer Fellowship Church",
+                  "text": "A prayer house for the Christian community, focusing on collective prayer and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        84.016892,
+                        28.215442
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A simple Hindu shrine in the Pokhara Valley, serving as a place for personal devotion by locals.",
+                  "category": "landmark",
+                  "coords": [
+                        84.055514,
+                        28.211626
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "A temple dedicated to Goddess Kali, known for its powerful religious atmosphere in Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.074099,
+                        28.21385
+                  ]
+            },
+            {
+                  "name": "Shivalaya Mandir",
+                  "text": "This Shivalaya temple is a place of peace, specifically dedicated to the worship of Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        84.075112,
+                        28.214177
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-GA",
     coords: [83.9855, 28.2096],
@@ -471,7 +4656,232 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-khumbu-valley-relief-v2",
+    id: "nepal-khumbu-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khumbila",
+                  "text": "Ein heiliger Berg für das Volk der Sherpa, der aus religiösen Gründen nicht bestiegen wird.",
+                  "category": "natural",
+                  "coords": [
+                        86.706709,
+                        27.84879
+                  ]
+            },
+            {
+                  "name": "White Stupa",
+                  "text": "Ein traditionelles, weiß getünchtes buddhistisches Monument, das mit den farbenfrohen Gebetsaugen Buddhas verziert ist.",
+                  "category": "religious",
+                  "coords": [
+                        86.645141,
+                        27.839572
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "Ein rustikaler religiöser Schrein, der sorgfältig aus lokalen Himalaya-Steinplatten errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        86.644345,
+                        27.840634
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche images (3 paintings)",
+                  "text": "Heilige Wandgemälde, die Padmasambhava darstellen, den Meister aus dem 8. Jahrhundert, der den Buddhismus nach Tibet brachte.",
+                  "category": "landmark",
+                  "coords": [
+                        86.658585,
+                        27.832164
+                  ]
+            },
+            {
+                  "name": "stupa, chorten",
+                  "text": "Eine spirituelle buddhistische Struktur, die heilige Reliquien beherbergt und als Fokus für Gebet und Meditation dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.666569,
+                        27.828056
+                  ]
+            },
+            {
+                  "name": "Thame Monastery",
+                  "text": "Eines der ältesten Klöster in der Khumbu-Region, das auf einem dramatischen Grat oberhalb von Thame thront.",
+                  "category": "landmark",
+                  "coords": [
+                        86.643653,
+                        27.830299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khumbila",
+                  "text": "A serpák szent hegye, amelyet vallási okokból tilos megmászni.",
+                  "category": "natural",
+                  "coords": [
+                        86.706709,
+                        27.84879
+                  ]
+            },
+            {
+                  "name": "White Stupa",
+                  "text": "Hagyományos, fehérre meszelt buddhista emlékmű, amelyet Buddha színes szemei díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        86.645141,
+                        27.839572
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "Rusztikus vallási kegyhely, amelyet aprólékosan, helyi himalájai kőlapokból építettek.",
+                  "category": "religious",
+                  "coords": [
+                        86.644345,
+                        27.840634
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche images (3 paintings)",
+                  "text": "Padmaszambhava, a 8. századi mester szent falfestményei, aki elvitte a buddhizmust Tibetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        86.658585,
+                        27.832164
+                  ]
+            },
+            {
+                  "name": "stupa, chorten",
+                  "text": "Spirituális buddhista építmény, amely szent ereklyéket őriz, és az ima, valamint a meditáció központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        86.666569,
+                        27.828056
+                  ]
+            },
+            {
+                  "name": "Thame Monastery",
+                  "text": "A Khumbu-régió egyik legrégebbi kolostora, amely egy drámai gerincen fekszik Thame felett.",
+                  "category": "landmark",
+                  "coords": [
+                        86.643653,
+                        27.830299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khumbila",
+                  "text": "Un munte sacru pentru poporul Sherpa, care rămâne neurcat din motive religioase.",
+                  "category": "natural",
+                  "coords": [
+                        86.706709,
+                        27.84879
+                  ]
+            },
+            {
+                  "name": "White Stupa",
+                  "text": "Un monument budist tradițional văruit în alb, decorat cu ochii pictați ai lui Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        86.645141,
+                        27.839572
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "Un altar religios rustic construit cu meticulozitate din plăci de piatră locale din Himalaya.",
+                  "category": "religious",
+                  "coords": [
+                        86.644345,
+                        27.840634
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche images (3 paintings)",
+                  "text": "Picturi murale sacre care îl înfățișează pe Padmasambhava, maestrul din secolul al VIII-lea care a adus budismul în Tibet.",
+                  "category": "landmark",
+                  "coords": [
+                        86.658585,
+                        27.832164
+                  ]
+            },
+            {
+                  "name": "stupa, chorten",
+                  "text": "O structură budistă spirituală care adăpostește relicve sacre și servește ca centru pentru rugăciune și meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        86.666569,
+                        27.828056
+                  ]
+            },
+            {
+                  "name": "Thame Monastery",
+                  "text": "Una dintre cele mai vechi mănăstiri din regiunea Khumbu, cocoțată pe o creastă spectaculoasă deasupra satului Thame.",
+                  "category": "landmark",
+                  "coords": [
+                        86.643653,
+                        27.830299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khumbila",
+                  "text": "A sacred mountain for the Sherpa people that remains unclimbed due to religious beliefs.",
+                  "category": "natural",
+                  "coords": [
+                        86.706709,
+                        27.84879
+                  ]
+            },
+            {
+                  "name": "White Stupa",
+                  "text": "A traditional white-washed Buddhist monument decorated with the colorful prayer eyes of Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        86.645141,
+                        27.839572
+                  ]
+            },
+            {
+                  "name": "Stone Stupa",
+                  "text": "A rustic religious shrine meticulously constructed from local Himalayan stone slabs.",
+                  "category": "religious",
+                  "coords": [
+                        86.644345,
+                        27.840634
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche images (3 paintings)",
+                  "text": "Sacred wall paintings depicting Padmasambhava, the 8th-century master who brought Buddhism to Tibet.",
+                  "category": "landmark",
+                  "coords": [
+                        86.658585,
+                        27.832164
+                  ]
+            },
+            {
+                  "name": "stupa, chorten",
+                  "text": "A spiritual Buddhist structure housing sacred relics and used as a focus for prayer and meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        86.666569,
+                        27.828056
+                  ]
+            },
+            {
+                  "name": "Thame Monastery",
+                  "text": "One of the oldest monasteries in the Khumbu region, perched on a dramatic ridge above Thame.",
+                  "category": "landmark",
+                  "coords": [
+                        86.643653,
+                        27.830299
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-P1",
     coords: [86.7266, 27.8666],
@@ -507,7 +4917,304 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-langtang-valley-relief-v2",
+    id: "nepal-langtang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tserko Ri",
+                  "text": "Ein beliebter Trekking-Gipfel im Langtang-Tal, der einen Panoramablick auf die umliegenden Himalaya-Riesen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        85.600452,
+                        28.213241
+                  ]
+            },
+            {
+                  "name": "Cattle Shed Ruins",
+                  "text": "Historische Überreste traditioneller Steinunterkünfte, die von Hirten im Himalaya-Langtang-Tal genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        85.592098,
+                        28.216079
+                  ]
+            },
+            {
+                  "name": "Pongen Dopku",
+                  "text": "Ein markanter Berggipfel, der sich über dem Langtang-Tal im nepalesischen Himalaya erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        85.612964,
+                        28.16268
+                  ]
+            },
+            {
+                  "name": "Baden-Powell Scout Peak",
+                  "text": "Ein Trekking-Gipfel in der Langtang-Region, der 2007 zu Ehren des Gründers der Pfadfinderbewegung umbenannt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        85.533383,
+                        28.167586
+                  ]
+            },
+            {
+                  "name": "Naya Kanga",
+                  "text": "Ein anspruchsvoller Trekking-Gipfel südlich des Langtang-Tals, der für seine steilen Schneehänge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        85.548391,
+                        28.168624
+                  ]
+            },
+            {
+                  "name": "Lower Kyāṅjiṅ Ri",
+                  "text": "Ein malerischer Aussichtspunkt oberhalb von Kyanjin Gumba mit spektakulärem Blick auf den Langtang-Lirung-Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        85.570687,
+                        28.21767
+                  ]
+            },
+            {
+                  "name": "Yala Peak",
+                  "text": "Ein relativ zugänglicher Himalaya-Gipfel in der Langtang-Region, der bei Bergsteigern wegen seiner atemberaubenden Aussicht beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        85.62289,
+                        28.240965
+                  ]
+            },
+            {
+                  "name": "Nimakpa Monastery",
+                  "text": "Ein buddhistisches Kloster im hohen Langtang-Tal, das als Zentrum für spirituelle Einkehr dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.565377,
+                        28.213972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tserko Ri",
+                  "text": "Népszerű trekkingcsúcs a Langtang-völgyben, ahonnan panorámás kilátás nyílik a környező Himalája-óriásokra.",
+                  "category": "natural",
+                  "coords": [
+                        85.600452,
+                        28.213241
+                  ]
+            },
+            {
+                  "name": "Cattle Shed Ruins",
+                  "text": "Himalájai pásztorok által használt hagyományos kőszállások történelmi maradványai a Langtang-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        85.592098,
+                        28.216079
+                  ]
+            },
+            {
+                  "name": "Pongen Dopku",
+                  "text": "Kiemelkedő hegycsúcs a nepáli Himalájában, a Langtang-völgy felett.",
+                  "category": "natural",
+                  "coords": [
+                        85.612964,
+                        28.16268
+                  ]
+            },
+            {
+                  "name": "Baden-Powell Scout Peak",
+                  "text": "Egy 2007-ben a cserkészmozgalom alapítójának tiszteletére átnevezett trekkingcsúcs a Langtang régióban.",
+                  "category": "natural",
+                  "coords": [
+                        85.533383,
+                        28.167586
+                  ]
+            },
+            {
+                  "name": "Naya Kanga",
+                  "text": "Kihívást jelentő trekkingcsúcs a Langtang-völgytől délre, amely meredek hófödte lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        85.548391,
+                        28.168624
+                  ]
+            },
+            {
+                  "name": "Lower Kyāṅjiṅ Ri",
+                  "text": "Festői kilátópont Kyanjin Gumba felett, ahonnan látványos kilátás nyílik a Langtang Lirung-gleccserre.",
+                  "category": "natural",
+                  "coords": [
+                        85.570687,
+                        28.21767
+                  ]
+            },
+            {
+                  "name": "Yala Peak",
+                  "text": "Viszonylag könnyen megközelíthető himalájai csúcs a Langtang régióban, amelyet a hegymászók a lenyűgöző kilátás miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        85.62289,
+                        28.240965
+                  ]
+            },
+            {
+                  "name": "Nimakpa Monastery",
+                  "text": "Buddhista kolostor a magashegyi Langtang-völgyben, amely spirituális elvonulási helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        85.565377,
+                        28.213972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tserko Ri",
+                  "text": "Un vârf de trekking popular în Valea Langtang, care oferă vederi panoramice ale giganților Himalaya din jur.",
+                  "category": "natural",
+                  "coords": [
+                        85.600452,
+                        28.213241
+                  ]
+            },
+            {
+                  "name": "Cattle Shed Ruins",
+                  "text": "Rămășițe istorice ale adăposturilor tradiționale de piatră folosite de păstorii din Himalaya în Valea Langtang.",
+                  "category": "historical",
+                  "coords": [
+                        85.592098,
+                        28.216079
+                  ]
+            },
+            {
+                  "name": "Pongen Dopku",
+                  "text": "Un vârf de munte proeminent care se înalță deasupra văii Langtang din Himalaya nepaleză.",
+                  "category": "natural",
+                  "coords": [
+                        85.612964,
+                        28.16268
+                  ]
+            },
+            {
+                  "name": "Baden-Powell Scout Peak",
+                  "text": "Un vârf de trekking redenumit în 2007 pentru a onora fondatorul Mișcării Scout, situat în regiunea Langtang.",
+                  "category": "natural",
+                  "coords": [
+                        85.533383,
+                        28.167586
+                  ]
+            },
+            {
+                  "name": "Naya Kanga",
+                  "text": "Un vârf de trekking provocator situat la sud de Valea Langtang, cunoscut pentru pantele sale abrupte de zăpadă.",
+                  "category": "natural",
+                  "coords": [
+                        85.548391,
+                        28.168624
+                  ]
+            },
+            {
+                  "name": "Lower Kyāṅjiṅ Ri",
+                  "text": "Un punct de belvedere pitoresc deasupra Kyanjin Gumba, care oferă vederi spectaculoase ale ghețarului Langtang Lirung.",
+                  "category": "natural",
+                  "coords": [
+                        85.570687,
+                        28.21767
+                  ]
+            },
+            {
+                  "name": "Yala Peak",
+                  "text": "Un vârf din Himalaya relativ accesibil în regiunea Langtang, preferat de alpiniști pentru vederile sale uluitoare asupra munților.",
+                  "category": "natural",
+                  "coords": [
+                        85.62289,
+                        28.240965
+                  ]
+            },
+            {
+                  "name": "Nimakpa Monastery",
+                  "text": "O mănăstire budistă în valea înaltă Langtang, servind ca centru de retragere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        85.565377,
+                        28.213972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tserko Ri",
+                  "text": "A popular trekking peak in the Langtang Valley offering panoramic views of the surrounding Himalayan giants.",
+                  "category": "natural",
+                  "coords": [
+                        85.600452,
+                        28.213241
+                  ]
+            },
+            {
+                  "name": "Cattle Shed Ruins",
+                  "text": "Historic remnants of traditional stone shelters used by Himalayan herders in the Langtang Valley.",
+                  "category": "historical",
+                  "coords": [
+                        85.592098,
+                        28.216079
+                  ]
+            },
+            {
+                  "name": "Pongen Dopku",
+                  "text": "A prominent mountain peak rising above the Langtang Valley in the Nepalese Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        85.612964,
+                        28.16268
+                  ]
+            },
+            {
+                  "name": "Baden-Powell Scout Peak",
+                  "text": "A trekking peak renamed in 2007 to honour the founder of the Scout Movement, located in the Langtang region.",
+                  "category": "natural",
+                  "coords": [
+                        85.533383,
+                        28.167586
+                  ]
+            },
+            {
+                  "name": "Naya Kanga",
+                  "text": "A challenging trekking peak situated south of the Langtang Valley, known for its steep snow slopes.",
+                  "category": "natural",
+                  "coords": [
+                        85.548391,
+                        28.168624
+                  ]
+            },
+            {
+                  "name": "Lower Kyāṅjiṅ Ri",
+                  "text": "A scenic viewpoint above Kyanjin Gumba providing spectacular vistas of the Langtang Lirung glacier.",
+                  "category": "natural",
+                  "coords": [
+                        85.570687,
+                        28.21767
+                  ]
+            },
+            {
+                  "name": "Yala Peak",
+                  "text": "A relatively accessible Himalayan peak in the Langtang region, favored by climbers for its stunning mountain views.",
+                  "category": "natural",
+                  "coords": [
+                        85.62289,
+                        28.240965
+                  ]
+            },
+            {
+                  "name": "Nimakpa Monastery",
+                  "text": "A Buddhist monastery in the high Langtang Valley, serving as a center for spiritual retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        85.565377,
+                        28.213972
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-BA",
     coords: [85.5566, 28.2166],
@@ -543,7 +5250,304 @@ export const poiExtraNepalReliefV2: POI[] = [
     }
   },
   {
-    id: "nepal-tsum-valley-relief-v2",
+    id: "nepal-tsum-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chorten, Stupa",
+                  "text": "Ein buddhistisches Monument im Tsum-Tal, das als religiöser Wegweiser entlang der Trekkingpfade dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.008593,
+                        28.474595
+                  ]
+            },
+            {
+                  "name": "Gho village",
+                  "text": "Ein traditionelles Dorf im Tsum-Tal, das für seine tibetisch geprägte Kultur und Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.01258,
+                        28.478
+                  ]
+            },
+            {
+                  "name": "Gampul 1550 m",
+                  "text": "Eine Bergsiedlung auf 1550 Metern Höhe, die einen Zwischenstopp auf den Pfaden des Tsum-Tals bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        84.900474,
+                        28.436817
+                  ]
+            },
+            {
+                  "name": "Chamar",
+                  "text": "Der höchste Gipfel des Shringi Himal im Himalaya, der eine beeindruckende Höhe von 7187 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        84.943723,
+                        28.555085
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Eine buddhistische Stupa im Tsum-Tal, die oft mit bunten Gebetsfahnen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.994254,
+                        28.476201
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Ein klassischer Chorten am Wegesrand im Tsum-Tal, der die Erleuchtung des Buddha symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.027402,
+                        28.484527
+                  ]
+            },
+            {
+                  "name": "big prayer mill",
+                  "text": "Eine große buddhistische Gebetsmühle, die von Pilgern im Tsum-Tal für spirituelle Verdienste gedreht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        84.987727,
+                        28.472507
+                  ]
+            },
+            {
+                  "name": "kani gate",
+                  "text": "Ein Kani-Tor, ein zeremonieller Eingangsbereich mit oft kunstvoll bemaltem Deckengewölbe im Tsum-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        84.962409,
+                        28.474028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chorten, Stupa",
+                  "text": "Buddhista vallási emlékmű a Tsum-völgyben, amely spirituális jelzőként áll a túraösvények mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        85.008593,
+                        28.474595
+                  ]
+            },
+            {
+                  "name": "Gho village",
+                  "text": "Hagyományos falu a Tsum-völgyben, amely tibeti hatású kultúrájáról és építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.01258,
+                        28.478
+                  ]
+            },
+            {
+                  "name": "Gampul 1550 m",
+                  "text": "Hegyi település 1550 méteres magasságban, amely pihenőhely a Tsum-völgyi ösvényeken.",
+                  "category": "landmark",
+                  "coords": [
+                        84.900474,
+                        28.436817
+                  ]
+            },
+            {
+                  "name": "Chamar",
+                  "text": "A Himalájában található Shringi Himal legmagasabb csúcsa, amely 7187 méteres magasságba nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        84.943723,
+                        28.555085
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Buddhista sztúpa a Tsum-völgyben, amelyet gyakran színes imazászlókkal díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        84.994254,
+                        28.476201
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Klasszikus útmenti csorten a Tsum-völgyben, amely Buddha megvilágosodását jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.027402,
+                        28.484527
+                  ]
+            },
+            {
+                  "name": "big prayer mill",
+                  "text": "Hatalmas buddhista imamalom a Tsum-völgyben, amelyet a zarándokok hajtanak körbe.",
+                  "category": "landmark",
+                  "coords": [
+                        84.987727,
+                        28.472507
+                  ]
+            },
+            {
+                  "name": "kani gate",
+                  "text": "Kani kapu, egy rituális bejárati építmény, gyakran díszesen festett mennyezettel a Tsum-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        84.962409,
+                        28.474028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chorten, Stupa",
+                  "text": "Un monument budist din Valea Tsum, servind ca reper religios de-a lungul potecilor de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        85.008593,
+                        28.474595
+                  ]
+            },
+            {
+                  "name": "Gho village",
+                  "text": "Un sat tradițional din Valea Tsum, cunoscut pentru cultura și arhitectura sa cu influențe tibetane.",
+                  "category": "landmark",
+                  "coords": [
+                        85.01258,
+                        28.478
+                  ]
+            },
+            {
+                  "name": "Gampul 1550 m",
+                  "text": "O așezare montană situată la 1550 de metri altitudine, oferind un popas pe traseele Văii Tsum.",
+                  "category": "landmark",
+                  "coords": [
+                        84.900474,
+                        28.436817
+                  ]
+            },
+            {
+                  "name": "Chamar",
+                  "text": "Cel mai înalt vârf din Shringi Himal, atingând o altitudine de 7187 de metri în Himalaya.",
+                  "category": "natural",
+                  "coords": [
+                        84.943723,
+                        28.555085
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "O stupă budistă în Valea Tsum, împodobită adesea cu steaguri de rugăciune colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        84.994254,
+                        28.476201
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Un chorten clasic de pe marginea drumului în Valea Tsum, simbolizând iluminarea lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.027402,
+                        28.484527
+                  ]
+            },
+            {
+                  "name": "big prayer mill",
+                  "text": "O moară mare de rugăciune budistă din Valea Tsum, învârtită de pelerini pentru merit spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        84.987727,
+                        28.472507
+                  ]
+            },
+            {
+                  "name": "kani gate",
+                  "text": "O poartă Kani, un portal ceremonial cu tavan pictat, marcând intrarea într-un sat din Valea Tsum.",
+                  "category": "landmark",
+                  "coords": [
+                        84.962409,
+                        28.474028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chorten, Stupa",
+                  "text": "A Buddhist religious monument in the Tsum Valley, serving as a spiritual marker along the trekking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        85.008593,
+                        28.474595
+                  ]
+            },
+            {
+                  "name": "Gho village",
+                  "text": "A traditional village in the Tsum Valley, known for its Tibetan-influenced culture and stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        85.01258,
+                        28.478
+                  ]
+            },
+            {
+                  "name": "Gampul 1550 m",
+                  "text": "A mountain settlement at 1550 metres elevation, offering a resting point along the Tsum Valley trails.",
+                  "category": "landmark",
+                  "coords": [
+                        84.900474,
+                        28.436817
+                  ]
+            },
+            {
+                  "name": "Chamar",
+                  "text": "The highest peak of the Shringi Himal range, reaching an elevation of 7,187 metres in the Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        84.943723,
+                        28.555085
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "A Buddhist stupa in the Tsum Valley, often adorned with colorful prayer flags in the mountain breeze.",
+                  "category": "landmark",
+                  "coords": [
+                        84.994254,
+                        28.476201
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "A classic roadside chorten in the Tsum Valley, symbolizing the enlightenment of Buddha for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        85.027402,
+                        28.484527
+                  ]
+            },
+            {
+                  "name": "big prayer mill",
+                  "text": "A large, traditional Buddhist prayer wheel turned by pilgrims for spiritual merit in the Tsum Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        84.987727,
+                        28.472507
+                  ]
+            },
+            {
+                  "name": "kani gate",
+                  "text": "A Kani gate, a ceremonial entrance archway with painted ceilings common in the Tsum Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        84.962409,
+                        28.474028
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-GA",
     coords: [84.9333, 28.4833],
@@ -579,7 +5583,628 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-manang-valley-relief-v2",
+    id: "nepal-manang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Best valley view",
+                  "text": "Ein Aussichtspunkt mit weitem Panorama über das Tal des Marsyangdi-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        83.988771,
+                        28.678648
+                  ]
+            },
+            {
+                  "name": "Manang Culture Museum",
+                  "text": "Ein lokales Museum, das den traditionellen Lebensstil der Manangi-Bevölkerung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        84.024246,
+                        28.665375
+                  ]
+            },
+            {
+                  "name": "अन्नपूर्णा III",
+                  "text": "Ein 7.555 Meter hoher Gipfel der nördlichen Annapurna-Massiv-Wand.",
+                  "category": "natural",
+                  "coords": [
+                        83.989109,
+                        28.585351
+                  ]
+            },
+            {
+                  "name": "Gangapurna",
+                  "text": "Ein imposanter Berg, bekannt für seinen eindrucksvollen Gletscher und den Bergsee.",
+                  "category": "natural",
+                  "coords": [
+                        83.963514,
+                        28.605655
+                  ]
+            },
+            {
+                  "name": "Chorten de Braga",
+                  "text": "Ein buddhistisches Denkmal im alten, am Hang gelegenen Dorf Braga.",
+                  "category": "landmark",
+                  "coords": [
+                        84.040782,
+                        28.657074
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Ein weißer buddhistischer Reliquienschrein vor der Kulisse der Himalaya-Gipfel.",
+                  "category": "religious",
+                  "coords": [
+                        84.115985,
+                        28.64141
+                  ]
+            },
+            {
+                  "name": "Karma Samten Ling Monastery",
+                  "text": "Ein ruhiges buddhistisches Refugium an den Hängen hoch über dem Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        84.092994,
+                        28.656082
+                  ]
+            },
+            {
+                  "name": "prayer wheel",
+                  "text": "Ein mit Mantras gravierter Metallzylinder, der von Pilgern für Verdienste gedreht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        84.101158,
+                        28.648946
+                  ]
+            },
+            {
+                  "name": "Buddhist wheels",
+                  "text": "Eine Reihe von Gebetsmühlen am Eingang eines typischen Bergdorfes.",
+                  "category": "religious",
+                  "coords": [
+                        84.104272,
+                        28.648326
+                  ]
+            },
+            {
+                  "name": "Stone Stupa (3600m)",
+                  "text": "Ein steinerner Schrein auf 3.600 Metern Höhe direkt am Wanderweg.",
+                  "category": "landmark",
+                  "coords": [
+                        84.051481,
+                        28.653785
+                  ]
+            },
+            {
+                  "name": "Sher Gompa",
+                  "text": "Ein friedlicher buddhistischer Tempel inmitten der schroffen Gebirgslandschaft des Himalaya.",
+                  "category": "landmark",
+                  "coords": [
+                        84.052531,
+                        28.654072
+                  ]
+            },
+            {
+                  "name": "chorten",
+                  "text": "Ein buddhistisches Denkmal im tibetischen Stil zur spirituellen Markierung des Pfades.",
+                  "category": "landmark",
+                  "coords": [
+                        84.041743,
+                        28.659329
+                  ]
+            },
+            {
+                  "name": "Icelake-Stupa",
+                  "text": "Ein buddhistischer Schrein am Pfad zum hochgelegenen Ice Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        84.059563,
+                        28.678569
+                  ]
+            },
+            {
+                  "name": "Shree Kharka Gompa",
+                  "text": "Ein friedliches buddhistisches Kloster am Annapurna Circuit auf dem Weg zum Tilicho-See.",
+                  "category": "landmark",
+                  "coords": [
+                        83.956285,
+                        28.677678
+                  ]
+            },
+            {
+                  "name": "Flags",
+                  "text": "Farbenfrohe buddhistische Gebetsfahnen, die im Wind entlang der hochalpinen Bergpfade wehen.",
+                  "category": "landmark",
+                  "coords": [
+                        83.958231,
+                        28.676638
+                  ]
+            },
+            {
+                  "name": "Khangsar Stupa",
+                  "text": "Ein traditioneller buddhistischer Schrein im Steindorf Khangsar auf dem Weg zum Tilicho-See.",
+                  "category": "landmark",
+                  "coords": [
+                        83.974069,
+                        28.670334
+                  ]
+            },
+            {
+                  "name": "Milarepas Cave",
+                  "text": "Eine heilige Meditationsstätte, in der der berühmte tibetische Yogi und Dichter Milarepa verweilt haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        84.039147,
+                        28.637158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Best valley view",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a Marsyangdi-folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        83.988771,
+                        28.678648
+                  ]
+            },
+            {
+                  "name": "Manang Culture Museum",
+                  "text": "A manangi nép hagyományos életmódját bemutató helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        84.024246,
+                        28.665375
+                  ]
+            },
+            {
+                  "name": "अन्नपूर्णा III",
+                  "text": "Az Annapurna-masszívum északi falát alkotó 7555 méteres hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        83.989109,
+                        28.585351
+                  ]
+            },
+            {
+                  "name": "Gangapurna",
+                  "text": "Lenyűgöző hegycsúcs, amely látványos gleccseréről és taváról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        83.963514,
+                        28.605655
+                  ]
+            },
+            {
+                  "name": "Chorten de Braga",
+                  "text": "Buddhista emlékmű Braga ősi, domboldalra épült falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        84.040782,
+                        28.657074
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Fehér buddhista ereklyetartó a Himalája hegyláncaival a háttérben.",
+                  "category": "religious",
+                  "coords": [
+                        84.115985,
+                        28.64141
+                  ]
+            },
+            {
+                  "name": "Karma Samten Ling Monastery",
+                  "text": "Nyugodt buddhista elvonulási hely a völgy feletti hegyoldalban.",
+                  "category": "landmark",
+                  "coords": [
+                        84.092994,
+                        28.656082
+                  ]
+            },
+            {
+                  "name": "prayer wheel",
+                  "text": "Mantrákkal vésett fémhenger, amelyet a zarándokok megforgatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        84.101158,
+                        28.648946
+                  ]
+            },
+            {
+                  "name": "Buddhist wheels",
+                  "text": "Forgatható imakerekek sora egy hegyi falu bejáratánál.",
+                  "category": "religious",
+                  "coords": [
+                        84.104272,
+                        28.648326
+                  ]
+            },
+            {
+                  "name": "Stone Stupa (3600m)",
+                  "text": "Kőből épült szentély 3600 méteres magasságban a túraútvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        84.051481,
+                        28.653785
+                  ]
+            },
+            {
+                  "name": "Sher Gompa",
+                  "text": "Békés buddhista templom a Himalája zord hegyi tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        84.052531,
+                        28.654072
+                  ]
+            },
+            {
+                  "name": "chorten",
+                  "text": "Tibeti stílusú buddhista emlékmű, amely szellemi pontot jelöl az úton.",
+                  "category": "landmark",
+                  "coords": [
+                        84.041743,
+                        28.659329
+                  ]
+            },
+            {
+                  "name": "Icelake-Stupa",
+                  "text": "Buddhista szentély a magashegyi Ice Lake-hez vezető ösvény közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        84.059563,
+                        28.678569
+                  ]
+            },
+            {
+                  "name": "Shree Kharka Gompa",
+                  "text": "Békés buddhista kolostor az Annapurna Circuit túraútvonalán, a Tilicho-tó felé vezető úton.",
+                  "category": "landmark",
+                  "coords": [
+                        83.956285,
+                        28.677678
+                  ]
+            },
+            {
+                  "name": "Flags",
+                  "text": "Színes buddhista imazászlók lobognak a szélben a magashegyi ösvények mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        83.958231,
+                        28.676638
+                  ]
+            },
+            {
+                  "name": "Khangsar Stupa",
+                  "text": "Hagyományos buddhista szentély Khangsar kőfaluból, a Tilicho-tó felé vezető úton.",
+                  "category": "landmark",
+                  "coords": [
+                        83.974069,
+                        28.670334
+                  ]
+            },
+            {
+                  "name": "Milarepas Cave",
+                  "text": "Szent meditációs hely, ahol a híres tibeti jógi és költő, Milarepa állítólag megszállt.",
+                  "category": "landmark",
+                  "coords": [
+                        84.039147,
+                        28.637158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Best valley view",
+                  "text": "Un punct de observație cu vederi panoramice asupra văii râului Marsyangdi.",
+                  "category": "natural",
+                  "coords": [
+                        83.988771,
+                        28.678648
+                  ]
+            },
+            {
+                  "name": "Manang Culture Museum",
+                  "text": "Un muzeu local care prezintă stilul de viață tradițional al poporului Manangi.",
+                  "category": "museum",
+                  "coords": [
+                        84.024246,
+                        28.665375
+                  ]
+            },
+            {
+                  "name": "अन्नपूर्णा III",
+                  "text": "Un vârf de 7.555 metri care face parte din peretele nordic al masivului Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        83.989109,
+                        28.585351
+                  ]
+            },
+            {
+                  "name": "Gangapurna",
+                  "text": "Un munte impunător, cunoscut pentru ghețarul său impresionant și lac.",
+                  "category": "natural",
+                  "coords": [
+                        83.963514,
+                        28.605655
+                  ]
+            },
+            {
+                  "name": "Chorten de Braga",
+                  "text": "Un monument budist situat în vechiul sat de munte Braga.",
+                  "category": "landmark",
+                  "coords": [
+                        84.040782,
+                        28.657074
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Un relicvar budist văruit în alb, pe fundalul munților Himalaya.",
+                  "category": "religious",
+                  "coords": [
+                        84.115985,
+                        28.64141
+                  ]
+            },
+            {
+                  "name": "Karma Samten Ling Monastery",
+                  "text": "Un refugiu budist liniștit situat pe versanții de deasupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        84.092994,
+                        28.656082
+                  ]
+            },
+            {
+                  "name": "prayer wheel",
+                  "text": "Un cilindru metalic inscripționat cu mantre, rotit de pelerini pentru merit spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        84.101158,
+                        28.648946
+                  ]
+            },
+            {
+                  "name": "Buddhist wheels",
+                  "text": "Un rând de mori de rugăciune rotative la intrarea într-un sat de munte.",
+                  "category": "religious",
+                  "coords": [
+                        84.104272,
+                        28.648326
+                  ]
+            },
+            {
+                  "name": "Stone Stupa (3600m)",
+                  "text": "Un altar din piatră situat la 3.600 de metri altitudine pe traseul de trekking.",
+                  "category": "landmark",
+                  "coords": [
+                        84.051481,
+                        28.653785
+                  ]
+            },
+            {
+                  "name": "Sher Gompa",
+                  "text": "Un templu budist liniștit în mijlocul peisajului montan accidentat al Himalayei.",
+                  "category": "landmark",
+                  "coords": [
+                        84.052531,
+                        28.654072
+                  ]
+            },
+            {
+                  "name": "chorten",
+                  "text": "Un monument budist în stil tibetan care marchează un punct spiritual pe traseu.",
+                  "category": "landmark",
+                  "coords": [
+                        84.041743,
+                        28.659329
+                  ]
+            },
+            {
+                  "name": "Icelake-Stupa",
+                  "text": "Un altar budist situat lângă poteca spre lacul glaciar Ice Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        84.059563,
+                        28.678569
+                  ]
+            },
+            {
+                  "name": "Shree Kharka Gompa",
+                  "text": "O mănăstire budistă liniștită pe traseul de trekking Annapurna Circuit, spre lacul Tilicho.",
+                  "category": "landmark",
+                  "coords": [
+                        83.956285,
+                        28.677678
+                  ]
+            },
+            {
+                  "name": "Flags",
+                  "text": "Steaguri de rugăciune budiste colorate care flutură în vânt de-a lungul potecilor montane de mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        83.958231,
+                        28.676638
+                  ]
+            },
+            {
+                  "name": "Khangsar Stupa",
+                  "text": "Un altar budist tradițional situat în satul de piatră Khangsar, în drum spre lacul Tilicho.",
+                  "category": "landmark",
+                  "coords": [
+                        83.974069,
+                        28.670334
+                  ]
+            },
+            {
+                  "name": "Milarepas Cave",
+                  "text": "Un loc sacru de meditație unde se spune că ar fi stat faimosul yoghin și poet tibetan Milarepa.",
+                  "category": "landmark",
+                  "coords": [
+                        84.039147,
+                        28.637158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Best valley view",
+                  "text": "A vantage point offering panoramic views of the Marsyangdi River valley.",
+                  "category": "natural",
+                  "coords": [
+                        83.988771,
+                        28.678648
+                  ]
+            },
+            {
+                  "name": "Manang Culture Museum",
+                  "text": "A local museum showcasing the traditional lifestyle of the Manangi people.",
+                  "category": "museum",
+                  "coords": [
+                        84.024246,
+                        28.665375
+                  ]
+            },
+            {
+                  "name": "Annapurna III",
+                  "text": "A 7,555-meter peak forming part of the Annapurna massif's northern wall.",
+                  "category": "natural",
+                  "coords": [
+                        83.989109,
+                        28.585351
+                  ]
+            },
+            {
+                  "name": "Gangapurna",
+                  "text": "A prominent mountain known for its impressive glacier and lake.",
+                  "category": "natural",
+                  "coords": [
+                        83.963514,
+                        28.605655
+                  ]
+            },
+            {
+                  "name": "Chorten de Braga",
+                  "text": "A Buddhist monument in the ancient hillside village of Braga.",
+                  "category": "landmark",
+                  "coords": [
+                        84.040782,
+                        28.657074
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "A white-washed Buddhist reliquary standing against the Himalayan backdrop.",
+                  "category": "religious",
+                  "coords": [
+                        84.115985,
+                        28.64141
+                  ]
+            },
+            {
+                  "name": "Karma Samten Ling Monastery",
+                  "text": "A tranquil Buddhist retreat located on the slopes above the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        84.092994,
+                        28.656082
+                  ]
+            },
+            {
+                  "name": "prayer wheel",
+                  "text": "A metal cylinder inscribed with mantras, spun by pilgrims for spiritual merit.",
+                  "category": "landmark",
+                  "coords": [
+                        84.101158,
+                        28.648946
+                  ]
+            },
+            {
+                  "name": "Buddhist wheels",
+                  "text": "A row of spinning prayer wheels at the entrance of a mountain village.",
+                  "category": "religious",
+                  "coords": [
+                        84.104272,
+                        28.648326
+                  ]
+            },
+            {
+                  "name": "Stone Stupa (3600m)",
+                  "text": "A high-altitude stone shrine located at 3,600 meters on the trail.",
+                  "category": "landmark",
+                  "coords": [
+                        84.051481,
+                        28.653785
+                  ]
+            },
+            {
+                  "name": "Sher Gompa",
+                  "text": "A peaceful Buddhist temple overlooking the rugged mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        84.052531,
+                        28.654072
+                  ]
+            },
+            {
+                  "name": "chorten",
+                  "text": "A Tibetan-style Buddhist monument marking a spiritual point on the trail.",
+                  "category": "landmark",
+                  "coords": [
+                        84.041743,
+                        28.659329
+                  ]
+            },
+            {
+                  "name": "Icelake-Stupa",
+                  "text": "A Buddhist shrine located near the trail to the high-altitude Ice Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        84.059563,
+                        28.678569
+                  ]
+            },
+            {
+                  "name": "Shree Kharka Gompa",
+                  "text": "A serene Buddhist monastery on the Annapurna Circuit trekking route to Tilicho Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        83.956285,
+                        28.677678
+                  ]
+            },
+            {
+                  "name": "Flags",
+                  "text": "Colorful Buddhist prayer flags fluttering in the wind along the high-altitude mountain trails.",
+                  "category": "landmark",
+                  "coords": [
+                        83.958231,
+                        28.676638
+                  ]
+            },
+            {
+                  "name": "Khangsar Stupa",
+                  "text": "A traditional Buddhist shrine located in the stone-built village of Khangsar on the way to Tilicho Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        83.974069,
+                        28.670334
+                  ]
+            },
+            {
+                  "name": "Milarepas Cave",
+                  "text": "A sacred meditation site where the famous Tibetan yogi and poet Milarepa is said to have stayed.",
+                  "category": "landmark",
+                  "coords": [
+                        84.039147,
+                        28.637158
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-GA",
     coords: [84.0200, 28.6600],
@@ -615,7 +6240,160 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-kali-gandaki-valley-relief-v2",
+    id: "nepal-kali-gandaki-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Destroyed hotel",
+                  "text": "Die unheimlichen Ruinen einer ehemaligen Lodge, die an die raue Bergumgebung im Kali-Gandaki-Tal erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        83.712558,
+                        28.469875
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "Ein traditioneller Hindu-Tempel, der Lord Ram gewidmet ist und am Ufer des Kali Gandaki Flusses liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        83.647081,
+                        28.48367
+                  ]
+            },
+            {
+                  "name": "Ratopani hotspring",
+                  "text": "Natürliche Thermalquellen, die für ihre heilenden Eigenschaften bekannt sind und in der tiefen Schlucht des Kali Gandaki liegen.",
+                  "category": "natural",
+                  "coords": [
+                        83.641215,
+                        28.47807
+                  ]
+            },
+            {
+                  "name": "Tatopani Hot Springs II",
+                  "text": "Wohltuende Thermalbecken am Flussufer, die Wanderern eine warme Erholung im Herzen des Himalaya bieten.",
+                  "category": "natural",
+                  "coords": [
+                        83.655503,
+                        28.500167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Destroyed hotel",
+                  "text": "Egy egykori hegyi szálló kísérteties romjai, amelyek a Kali Gandaki-völgy zord környezetére emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        83.712558,
+                        28.469875
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "Rám Úrnak szentelt hagyományos hindu templom a Kali Gandaki-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        83.647081,
+                        28.48367
+                  ]
+            },
+            {
+                  "name": "Ratopani hotspring",
+                  "text": "Gyógyító erejükről ismert természetes termálforrások a Kali Gandaki mély szurdokában.",
+                  "category": "natural",
+                  "coords": [
+                        83.641215,
+                        28.47807
+                  ]
+            },
+            {
+                  "name": "Tatopani Hot Springs II",
+                  "text": "Nyugtató folyóparti termálmedencék, amelyek meleg felüdülést nyújtanak a túrázóknak a Himalája szívében.",
+                  "category": "natural",
+                  "coords": [
+                        83.655503,
+                        28.500167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Destroyed hotel",
+                  "text": "Ruinele stranii ale unei foste cabane, care amintesc de mediul montan dur din Valea Kali Gandaki.",
+                  "category": "historical",
+                  "coords": [
+                        83.712558,
+                        28.469875
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "Un templu hindu tradițional dedicat Domnului Ram, situat pe malurile râului Kali Gandaki.",
+                  "category": "landmark",
+                  "coords": [
+                        83.647081,
+                        28.48367
+                  ]
+            },
+            {
+                  "name": "Ratopani hotspring",
+                  "text": "Izvoare geotermale naturale cunoscute pentru proprietățile lor curative, situate în defileul adânc al râului Kali Gandaki.",
+                  "category": "natural",
+                  "coords": [
+                        83.641215,
+                        28.47807
+                  ]
+            },
+            {
+                  "name": "Tatopani Hot Springs II",
+                  "text": "Bazine termale relaxante pe malul râului, care oferă excursioniștilor un răgaz cald în inima Himalayei.",
+                  "category": "natural",
+                  "coords": [
+                        83.655503,
+                        28.500167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Destroyed hotel",
+                  "text": "The eerie ruins of a former lodge standing as a reminder of the harsh mountain environment in the Kali Gandaki Valley.",
+                  "category": "historical",
+                  "coords": [
+                        83.712558,
+                        28.469875
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "A traditional Hindu temple dedicated to Lord Ram, situated along the banks of the Kali Gandaki River.",
+                  "category": "landmark",
+                  "coords": [
+                        83.647081,
+                        28.48367
+                  ]
+            },
+            {
+                  "name": "Ratopani hotspring",
+                  "text": "Natural geothermal springs known for their healing properties, located in the deep gorge of the Kali Gandaki.",
+                  "category": "natural",
+                  "coords": [
+                        83.641215,
+                        28.47807
+                  ]
+            },
+            {
+                  "name": "Tatopani Hot Springs II",
+                  "text": "Soothing riverside thermal pools offering trekkers a warm respite in the heart of the Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        83.655503,
+                        28.500167
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-GA",
     coords: [83.6500, 28.5333],
@@ -651,7 +6429,160 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-gokyo-valley-relief-v2",
+    id: "nepal-gokyo-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gokyo Ri",
+                  "text": "Ein Aussichtspunkt auf 5.357 Metern, der ein legendäres Panorama des Everest und der türkisfarbenen Gokyo-Seen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        86.682976,
+                        27.961118
+                  ]
+            },
+            {
+                  "name": "Cholo",
+                  "text": "Ein 6.097 Meter hoher Gipfel in der Khumbu-Region, gelegen nahe dem anspruchsvollen Cho-La-Pass zwischen zwei Tälern.",
+                  "category": "natural",
+                  "coords": [
+                        86.719535,
+                        27.984324
+                  ]
+            },
+            {
+                  "name": "Renjo La",
+                  "text": "Ein 5.360 Meter hoher Pass, der einen spektakulären Blick auf die Gokyo-Seen mit dem Mount Everest im Hintergrund bietet.",
+                  "category": "natural",
+                  "coords": [
+                        86.658497,
+                        27.94737
+                  ]
+            },
+            {
+                  "name": "View to Cho Oyu",
+                  "text": "Ein hochgelegener Aussichtspunkt im oberen Gokyo-Tal mit direktem Blick auf die gewaltigen Hänge des Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.615139,
+                        27.94847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gokyo Ri",
+                  "text": "Egy 5357 méter magas kilátópont, ahonnan legendás panoráma nyílik az Everestre és a türkizkék Gokyo-tavakra.",
+                  "category": "natural",
+                  "coords": [
+                        86.682976,
+                        27.961118
+                  ]
+            },
+            {
+                  "name": "Cholo",
+                  "text": "Egy 6097 méteres csúcs a Khumbu-régióban, a két völgy közötti nehéz Cho La-hágó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        86.719535,
+                        27.984324
+                  ]
+            },
+            {
+                  "name": "Renjo La",
+                  "text": "Egy 5360 méter magas hágó, ahonnan látványos kilátás nyílik a Gokyo-tavakra, a háttérben a Mount Everesttel.",
+                  "category": "natural",
+                  "coords": [
+                        86.658497,
+                        27.94737
+                  ]
+            },
+            {
+                  "name": "View to Cho Oyu",
+                  "text": "Egy magasan fekvő kilátópont a felső Gokyo-völgyben, ahonnan közvetlen rálátás nyílik a Cho Oyu hatalmas lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        86.615139,
+                        27.94847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gokyo Ri",
+                  "text": "Un punct de observație la 5.357 de metri, care oferă o panoramă legendară a Everestului și a lacurilor turcoaz Gokyo.",
+                  "category": "natural",
+                  "coords": [
+                        86.682976,
+                        27.961118
+                  ]
+            },
+            {
+                  "name": "Cholo",
+                  "text": "Un vârf de 6.097 de metri din regiunea Khumbu, situat lângă pasul dificil Cho La, aflat între două văi.",
+                  "category": "natural",
+                  "coords": [
+                        86.719535,
+                        27.984324
+                  ]
+            },
+            {
+                  "name": "Renjo La",
+                  "text": "O trecătoare de 5.360 de metri care oferă o vedere spectaculoasă a lacurilor Gokyo, cu muntele Everest în fundal.",
+                  "category": "natural",
+                  "coords": [
+                        86.658497,
+                        27.94737
+                  ]
+            },
+            {
+                  "name": "View to Cho Oyu",
+                  "text": "Un punct de observație la mare altitudine în partea superioară a Văii Gokyo, orientat direct către versanții masivi ai muntelui Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.615139,
+                        27.94847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gokyo Ri",
+                  "text": "A 5,357-meter vantage point offering a legendary panorama of Everest and the turquoise Gokyo Lakes.",
+                  "category": "natural",
+                  "coords": [
+                        86.682976,
+                        27.961118
+                  ]
+            },
+            {
+                  "name": "Cholo",
+                  "text": "A 6,097-meter peak in the Khumbu region, located near the challenging Cho La pass between two valleys.",
+                  "category": "natural",
+                  "coords": [
+                        86.719535,
+                        27.984324
+                  ]
+            },
+            {
+                  "name": "Renjo La",
+                  "text": "A 5,360-meter high pass providing a spectacular view of the Gokyo Lakes with Mount Everest in the background.",
+                  "category": "natural",
+                  "coords": [
+                        86.658497,
+                        27.94737
+                  ]
+            },
+            {
+                  "name": "View to Cho Oyu",
+                  "text": "A high-altitude vantage point in the upper Gokyo Valley looking directly toward the massive slopes of Cho Oyu.",
+                  "category": "natural",
+                  "coords": [
+                        86.615139,
+                        27.94847
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NP-P1",
     coords: [86.6963, 27.9547],
@@ -687,7 +6618,52 @@ export const poiExtraNepalReliefV2: POI[] = [
     },
   },
   {
-    id: "nepal-mustang-plateau-relief-v2",
+    id: "nepal-mustang-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ghar Gompa",
+                  "text": "Ein traditionelles buddhistisches Kloster, das auf dem trockenen, hochgelegenen Mustang-Plateau thront.",
+                  "category": "landmark",
+                  "coords": [
+                        83.888535,
+                        29.124368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghar Gompa",
+                  "text": "Hagyományos buddhista kolostor a száraz, magasan fekvő Mustang-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        83.888535,
+                        29.124368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghar Gompa",
+                  "text": "O mănăstire budistă tradițională situată pe platoul arid și înalt din Mustang.",
+                  "category": "landmark",
+                  "coords": [
+                        83.888535,
+                        29.124368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghar Gompa",
+                  "text": "A traditional Buddhist monastery perched on the arid, high-altitude Mustang plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        83.888535,
+                        29.124368
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "NP-GA",
     coords: [83.9166, 29.1833],

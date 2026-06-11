@@ -636,7 +636,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Nazaro",
-                  "text": "San Nazaro ist ein Strand in Genua, der sich zum Entspannen und Schwimmen eignet.",
+                  "text": "Erholungsgebiet mit Sportplätzen, Grillplätzen und einem kleinen See in Genua.",
                   "category": "recreational",
                   "coords": [
                         8.954204,
@@ -790,7 +790,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Nazaro",
-                  "text": "A(z) San Nazaro egy strand Genovában, amely pihenésre és úszásra alkalmas.",
+                  "text": "Szabadidős terület sportpályákkal, grillezőhelyekkel és egy kis tóval Genovában.",
                   "category": "recreational",
                   "coords": [
                         8.954204,
@@ -944,7 +944,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Nazaro",
-                  "text": "San Nazaro este o plajă în Genova, potrivită pentru relaxare și înot.",
+                  "text": "Zonă de agrement cu terenuri de sport, locuri de grătar și un mic lac în Genova.",
                   "category": "recreational",
                   "coords": [
                         8.954204,
@@ -1098,7 +1098,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Nazaro",
-                  "text": "San Nazaro is a beach in Genoa suitable for relaxation and swimming.",
+                  "text": "Recreational area with sports fields, barbecue spots, and a small lake in Genoa.",
                   "category": "recreational",
                   "coords": [
                         8.954204,
@@ -2306,7 +2306,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lua Beach",
-                  "text": "Lua Beach ist ein Strandbad in Catania.",
+                  "text": "Sandstrand mit Sonnenliegen und einem Strandrestaurant an der Küste von Catania.",
                   "category": "family",
                   "coords": [
                         15.086111,
@@ -2315,7 +2315,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Francesco Scuderi",
-                  "text": "Piscina Francesco Scuderi ist ein Schwimmbad in Catania.",
+                  "text": "Freibad mit zwei Becken, Rutschen und einem Kinderbereich in Catania.",
                   "category": "family",
                   "coords": [
                         15.088405,
@@ -2324,7 +2324,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Nettuno",
-                  "text": "Lido Nettuno ist ein Strandbad in Catania.",
+                  "text": "Strandclub mit neptunischem Dekor, Liegestühlen und einer Bar im Lido Nettuno.",
                   "category": "family",
                   "coords": [
                         15.084019,
@@ -2333,7 +2333,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Colonia Don Bosco",
-                  "text": "Lido Colonia Don Bosco ist ein Strandbad in Catania.",
+                  "text": "Strandanlage mit Volleyballplätzen, einem Kinderspielplatz und einer Cafeteria in Catania.",
                   "category": "family",
                   "coords": [
                         15.084446,
@@ -2342,7 +2342,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Vilaggio La Cucaracha",
-                  "text": "Vilaggio La Cucaracha ist ein Strandbad in Catania.",
+                  "text": "Stranddorf mit Strohdächern, einer Bar und Live-Musik am Wochenende in Catania.",
                   "category": "family",
                   "coords": [
                         15.084544,
@@ -2351,7 +2351,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Santa Maria del Lume",
-                  "text": "Lido Santa Maria del Lume ist ein Strandbad in Catania.",
+                  "text": "Sandstrand benannt nach der nahen Kirche Santa Maria del Lume, mit Rettungsschwimmern.",
                   "category": "family",
                   "coords": [
                         15.084583,
@@ -2360,7 +2360,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido le Piramidi",
-                  "text": "Lido le Piramidi ist ein Strandbad in Catania.",
+                  "text": "Strandclub mit pyramidenförmigen Sonnenschirmen und einem Pool in Catania.",
                   "category": "family",
                   "coords": [
                         15.084406,
@@ -2369,7 +2369,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Azzurro",
-                  "text": "Lido Azzurro ist ein Strandbad in Catania.",
+                  "text": "Das blaue Lido Azzurro am Strand von Catania bietet Sonnenliegen und Kinderspielbereich.",
                   "category": "family",
                   "coords": [
                         15.084266,
@@ -2378,7 +2378,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Arcobaleno",
-                  "text": "Lido Arcobaleno ist ein Strandbad in Catania.",
+                  "text": "Regenbogenfarbene Sonnenschirme und ein Planschbecken für Kinder am Lido Arcobaleno in Catania.",
                   "category": "family",
                   "coords": [
                         15.083895,
@@ -2387,7 +2387,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Verde",
-                  "text": "Lido Verde ist ein Strandbad in Catania.",
+                  "text": "Grün gestrichenes Lido Verde mit Rasenfläche und Spielplatz auf Cataniae Plaia.",
                   "category": "family",
                   "coords": [
                         15.084166,
@@ -2396,7 +2396,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Aereonautica Militare",
-                  "text": "Lido Aereonautica Militare ist ein Strandbad in Catania.",
+                  "text": "Ehemaliger Militärstrand der italienischen Luftwaffe, jetzt familienfreundlich mit Spielplatz in Catania.",
                   "category": "family",
                   "coords": [
                         15.084339,
@@ -2405,7 +2405,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Comunale Plaia",
-                  "text": "Piscina Comunale Plaia ist ein Schwimmbad in Catania.",
+                  "text": "Städtisches Schwimmbad Plaia neben dem Strand mit Rutschen und Kinderbecken.",
                   "category": "family",
                   "coords": [
                         15.082871,
@@ -2414,7 +2414,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club ist ein Strandbad in Catania.",
+                  "text": "Sole Mare Beach Club bietet Liegen, ein Restaurant und eine Hüpfburg für Kinder in Catania.",
                   "category": "family",
                   "coords": [
                         15.108002,
@@ -2875,7 +2875,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lua Beach",
-                  "text": "A Lua Beach egy strand Catania városában.",
+                  "text": "Homokos strand napozóágyakkal és strandétteremmel Catania partján.",
                   "category": "family",
                   "coords": [
                         15.086111,
@@ -2884,7 +2884,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Francesco Scuderi",
-                  "text": "A Piscina Francesco Scuderi egy úszómedence Catania városában.",
+                  "text": "Szabadtéri medence két medencével, csúszdákkal és gyermekrésszel Cataniában.",
                   "category": "family",
                   "coords": [
                         15.088405,
@@ -2893,7 +2893,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Nettuno",
-                  "text": "A Lido Nettuno egy strand Catania városában.",
+                  "text": "Strandklub Neptun- témájú dekorációval, napozóágyakkal és bárral a Lido Nettunóban.",
                   "category": "family",
                   "coords": [
                         15.084019,
@@ -2902,7 +2902,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Colonia Don Bosco",
-                  "text": "A Lido Colonia Don Bosco egy strand Catania városában.",
+                  "text": "Strandlétesítmény röplabdapályákkal, gyermek játszótérrel és büfével Cataniában.",
                   "category": "family",
                   "coords": [
                         15.084446,
@@ -2911,7 +2911,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Vilaggio La Cucaracha",
-                  "text": "A Vilaggio La Cucaracha egy strand Catania városában.",
+                  "text": "Strandfalu nádtetőkkel, bárral és hétvégi élőzenével Cataniában.",
                   "category": "family",
                   "coords": [
                         15.084544,
@@ -2920,7 +2920,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Santa Maria del Lume",
-                  "text": "A Lido Santa Maria del Lume egy strand Catania városában.",
+                  "text": "Homokos strand a közeli Santa Maria del Lume templomról elnevezve, mentőőrök szolgálatával.",
                   "category": "family",
                   "coords": [
                         15.084583,
@@ -2929,7 +2929,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido le Piramidi",
-                  "text": "A Lido le Piramidi egy strand Catania városában.",
+                  "text": "Strandklub piramis alakú napernyőkkel és medencével Cataniában.",
                   "category": "family",
                   "coords": [
                         15.084406,
@@ -2938,7 +2938,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Azzurro",
-                  "text": "A Lido Azzurro egy strand Catania városában.",
+                  "text": "A kék Lido Azzurro Catania Plaia strandján napernyőkkel és gyerekjátszótérrel várja a családokat.",
                   "category": "family",
                   "coords": [
                         15.084266,
@@ -2947,7 +2947,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Arcobaleno",
-                  "text": "A Lido Arcobaleno egy strand Catania városában.",
+                  "text": "Szivárványos napernyők és gyerekmedence a cataniai Lido Arcobalenón.",
                   "category": "family",
                   "coords": [
                         15.083895,
@@ -2956,7 +2956,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Verde",
-                  "text": "A Lido Verde egy strand Catania városában.",
+                  "text": "Zöldre festett Lido Verde füves játszótérrel Catania Plaia strandján.",
                   "category": "family",
                   "coords": [
                         15.084166,
@@ -2965,7 +2965,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Aereonautica Militare",
-                  "text": "A Lido Aereonautica Militare egy strand Catania városában.",
+                  "text": "Az olasz légierő egykori strandja, ma családi játszótérrel Cataniában.",
                   "category": "family",
                   "coords": [
                         15.084339,
@@ -2974,7 +2974,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Comunale Plaia",
-                  "text": "A Piscina Comunale Plaia egy úszómedence Catania városában.",
+                  "text": "Plaia városi uszoda a strand mellett csúszdákkal és gyerekmedencével.",
                   "category": "family",
                   "coords": [
                         15.082871,
@@ -2983,7 +2983,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Sole Mare Beach Club",
-                  "text": "A Sole Mare Beach Club egy strand Catania városában.",
+                  "text": "Sole Mare Beach Club napernyőkkel, étteremmel és ugrálóvárral Cataniában.",
                   "category": "family",
                   "coords": [
                         15.108002,
@@ -3444,7 +3444,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lua Beach",
-                  "text": "Lua Beach este o stațiune la plajă în Catania.",
+                  "text": "Plajă cu nisip cu șezlonguri și un restaurant de plajă pe coasta Cataniei.",
                   "category": "family",
                   "coords": [
                         15.086111,
@@ -3453,7 +3453,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Francesco Scuderi",
-                  "text": "Piscina Francesco Scuderi este o piscină în Catania.",
+                  "text": "Piscină în aer liber cu două bazine, tobogane și o zonă pentru copii în Catania.",
                   "category": "family",
                   "coords": [
                         15.088405,
@@ -3462,7 +3462,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Nettuno",
-                  "text": "Lido Nettuno este o stațiune la plajă în Catania.",
+                  "text": "Club de plajă cu decor neptunian, șezlonguri și un bar la Lido Nettuno.",
                   "category": "family",
                   "coords": [
                         15.084019,
@@ -3471,7 +3471,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Colonia Don Bosco",
-                  "text": "Lido Colonia Don Bosco este o stațiune la plajă în Catania.",
+                  "text": "Stațiune de plajă cu terenuri de volei, un loc de joacă pentru copii și o cafenea în Catania.",
                   "category": "family",
                   "coords": [
                         15.084446,
@@ -3480,7 +3480,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Vilaggio La Cucaracha",
-                  "text": "Vilaggio La Cucaracha este o stațiune la plajă în Catania.",
+                  "text": "Sat de plajă cu acoperișuri de paie, bar și muzică live în weekend în Catania.",
                   "category": "family",
                   "coords": [
                         15.084544,
@@ -3489,7 +3489,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Santa Maria del Lume",
-                  "text": "Lido Santa Maria del Lume este o stațiune la plajă în Catania.",
+                  "text": "Plajă de nisip numită după biserica din apropiere Santa Maria del Lume, cu salvamari.",
                   "category": "family",
                   "coords": [
                         15.084583,
@@ -3498,7 +3498,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido le Piramidi",
-                  "text": "Lido le Piramidi este o stațiune la plajă în Catania.",
+                  "text": "Club de plajă cu umbrele de soare în formă de piramidă și o piscină în Catania.",
                   "category": "family",
                   "coords": [
                         15.084406,
@@ -3507,7 +3507,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Azzurro",
-                  "text": "Lido Azzurro este o stațiune la plajă în Catania.",
+                  "text": "Lido Azzurro, cu șezlonguri și zonă de joacă pe plaja Plaia din Catania.",
                   "category": "family",
                   "coords": [
                         15.084266,
@@ -3516,7 +3516,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Arcobaleno",
-                  "text": "Lido Arcobaleno este o stațiune la plajă în Catania.",
+                  "text": "Umbrele curcubeu și o piscină pentru copii la Lido Arcobaleno din Catania.",
                   "category": "family",
                   "coords": [
                         15.083895,
@@ -3525,7 +3525,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Verde",
-                  "text": "Lido Verde este o stațiune la plajă în Catania.",
+                  "text": "Lido Verde, vopsit în verde, cu iarbă și loc de joacă pe plaja Plaia din Catania.",
                   "category": "family",
                   "coords": [
                         15.084166,
@@ -3534,7 +3534,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Aereonautica Militare",
-                  "text": "Lido Aereonautica Militare este o stațiune la plajă în Catania.",
+                  "text": "Fostă plajă militară a Forțelor Aeriene, acum zonă familială cu loc de joacă în Catania.",
                   "category": "family",
                   "coords": [
                         15.084339,
@@ -3543,7 +3543,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Comunale Plaia",
-                  "text": "Piscina Comunale Plaia este o piscină în Catania.",
+                  "text": "Piscina municipală Plaia lângă plajă, cu tobogane și bazin pentru copii.",
                   "category": "family",
                   "coords": [
                         15.082871,
@@ -3552,7 +3552,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club este o stațiune la plajă în Catania.",
+                  "text": "Sole Mare Beach Club oferă șezlonguri, restaurant și un castel gonflabil pentru copii în Catania.",
                   "category": "family",
                   "coords": [
                         15.108002,
@@ -4013,7 +4013,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lua Beach",
-                  "text": "Lua Beach is a beach resort in Catania.",
+                  "text": "Sandy beach with sun loungers and a beach restaurant on the Catania coast.",
                   "category": "family",
                   "coords": [
                         15.086111,
@@ -4022,7 +4022,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Francesco Scuderi",
-                  "text": "Piscina Francesco Scuderi is a swimming pool in Catania.",
+                  "text": "Outdoor swimming pool with two pools, slides, and a children's area in Catania.",
                   "category": "family",
                   "coords": [
                         15.088405,
@@ -4031,7 +4031,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Nettuno",
-                  "text": "Lido Nettuno is a beach resort in Catania.",
+                  "text": "Beach club with Neptune-themed decor, sunbeds, and a bar at Lido Nettuno.",
                   "category": "family",
                   "coords": [
                         15.084019,
@@ -4040,7 +4040,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Colonia Don Bosco",
-                  "text": "Lido Colonia Don Bosco is a beach resort in Catania.",
+                  "text": "Beach resort with volleyball courts, a children's playground, and a cafeteria in Catania.",
                   "category": "family",
                   "coords": [
                         15.084446,
@@ -4049,7 +4049,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Vilaggio La Cucaracha",
-                  "text": "Vilaggio La Cucaracha is a beach resort in Catania.",
+                  "text": "Beach village with thatched roofs, a bar, and live music on weekends in Catania.",
                   "category": "family",
                   "coords": [
                         15.084544,
@@ -4058,7 +4058,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Santa Maria del Lume",
-                  "text": "Lido Santa Maria del Lume is a beach resort in Catania.",
+                  "text": "Sandy beach named after the nearby Santa Maria del Lume church, with lifeguards.",
                   "category": "family",
                   "coords": [
                         15.084583,
@@ -4067,7 +4067,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido le Piramidi",
-                  "text": "Lido le Piramidi is a beach resort in Catania.",
+                  "text": "Beach club with pyramid-shaped sun umbrellas and a swimming pool in Catania.",
                   "category": "family",
                   "coords": [
                         15.084406,
@@ -4076,7 +4076,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Azzurro",
-                  "text": "Lido Azzurro is a beach resort in Catania.",
+                  "text": "Blue-themed Lido Azzurro on Catania's Plaia beach with sunbeds and a children's area.",
                   "category": "family",
                   "coords": [
                         15.084266,
@@ -4085,7 +4085,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Arcobaleno",
-                  "text": "Lido Arcobaleno is a beach resort in Catania.",
+                  "text": "Rainbow-colored umbrellas and a paddling pool for kids at Lido Arcobaleno in Catania.",
                   "category": "family",
                   "coords": [
                         15.083895,
@@ -4094,7 +4094,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Verde",
-                  "text": "Lido Verde is a beach resort in Catania.",
+                  "text": "Green-painted Lido Verde with a grassy play area on Catania's Plaia beach.",
                   "category": "family",
                   "coords": [
                         15.084166,
@@ -4103,7 +4103,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Lido Aereonautica Militare",
-                  "text": "Lido Aereonautica Militare is a beach resort in Catania.",
+                  "text": "Former Italian Air Force beach now a family lido with a playground in Catania.",
                   "category": "family",
                   "coords": [
                         15.084339,
@@ -4112,7 +4112,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Piscina Comunale Plaia",
-                  "text": "Piscina Comunale Plaia is a swimming pool in Catania.",
+                  "text": "Municipal Plaia swimming pool next to the beach with slides and a children's pool.",
                   "category": "family",
                   "coords": [
                         15.082871,
@@ -4121,7 +4121,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club is a beach resort in Catania.",
+                  "text": "Sole Mare Beach Club with sunbeds, a restaurant, and a bouncy castle in Catania.",
                   "category": "family",
                   "coords": [
                         15.108002,
@@ -4499,7 +4499,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Domenico al Corso",
-                  "text": "Ein religiöses Bauwerk im Stadtteil San Domenico in Verona.",
+                  "text": "Barockkirche San Domenico an der Hauptstraße Corso Porta Nuova in Verona.",
                   "category": "religious",
                   "coords": [
                         10.996159,
@@ -4843,7 +4843,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Domenico al Corso",
-                  "text": "Vallási épület Verona San Domenico negyedében.",
+                  "text": "San Domenico barokk templom a Corso Porta Nuova főutcán Veronában.",
                   "category": "religious",
                   "coords": [
                         10.996159,
@@ -5187,7 +5187,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Domenico al Corso",
-                  "text": "Un lăcaș de cult situat în cartierul San Domenico din Verona.",
+                  "text": "Biserica barocă San Domenico pe strada principală Corso Porta Nuova din Verona.",
                   "category": "religious",
                   "coords": [
                         10.996159,
@@ -5531,7 +5531,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             },
             {
                   "name": "San Domenico al Corso",
-                  "text": "A religious building located in the San Domenico district of Verona.",
+                  "text": "Baroque church of San Domenico on the main street Corso Porta Nuova in Verona.",
                   "category": "religious",
                   "coords": [
                         10.996159,

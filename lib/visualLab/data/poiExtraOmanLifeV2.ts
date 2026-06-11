@@ -51,7 +51,52 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "ras-al-jinz-turtle-reserve-life-v2",
+    id: "ras-al-jinz-turtle-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "turtle watching beach",
+                  "text": "Dieser Sandstrand im Schutzgebiet Ras al Jinz ist berühmt als Nistplatz für Meeresschildkröten, die nachts an Land kommen.",
+                  "category": "recreational",
+                  "coords": [
+                        59.805126,
+                        22.501052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "turtle watching beach",
+                  "text": "Ez a homokos part a Ras al Jinz rezervátumban arról híres, hogy a tengeri teknősök éjszaka ide jönnek fészket rakni.",
+                  "category": "recreational",
+                  "coords": [
+                        59.805126,
+                        22.501052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "turtle watching beach",
+                  "text": "Această plajă cu nisip din rezervația Ras al Jinz este renumită ca loc de cuibărit pentru țestoasele marine care vin la mal noaptea.",
+                  "category": "recreational",
+                  "coords": [
+                        59.805126,
+                        22.501052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "turtle watching beach",
+                  "text": "This sandy beach in the Ras al Jinz reserve is famous as a nesting ground for sea turtles that come ashore at night.",
+                  "category": "recreational",
+                  "coords": [
+                        59.805126,
+                        22.501052
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "OM-SJ",
     coords: [59.8322, 22.4230],
@@ -99,7 +144,88 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-wusta-wildlife-reserve-life-v2",
+    id: "al-wusta-wildlife-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajmanat",
+                  "text": "Ein Gipfel im Al-Wusta-Wildschutzgebiet, umgeben von trockener Wüstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        57.38,
+                        19.78
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx Sanctuary",
+                  "text": "Ein Schutzgebiet für die seltene Arabische Oryx-Antilope in der omanischen Wüste.",
+                  "category": "natural",
+                  "coords": [
+                        57.307133,
+                        19.854734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajmanat",
+                  "text": "Az Al-Wusta vadrezervátum egyik csúcsa, száraz sivatagi tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        57.38,
+                        19.78
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx Sanctuary",
+                  "text": "A ritka arab antilopok (orixok) védelmére létrehozott rezervátum az ománi sivatagban.",
+                  "category": "natural",
+                  "coords": [
+                        57.307133,
+                        19.854734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajmanat",
+                  "text": "Un vârf în rezervația Al-Wusta, înconjurat de un peisaj deșertic arid.",
+                  "category": "natural",
+                  "coords": [
+                        57.38,
+                        19.78
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx Sanctuary",
+                  "text": "O rezervație pentru rara antilopă Oryx arabă, situată în deșertul omanez.",
+                  "category": "natural",
+                  "coords": [
+                        57.307133,
+                        19.854734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajmanat",
+                  "text": "A peak within the Al-Wusta Wildlife Reserve, surrounded by arid desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        57.38,
+                        19.78
+                  ]
+            },
+            {
+                  "name": "Arabian Oryx Sanctuary",
+                  "text": "A sanctuary for the rare Arabian Oryx antelope, located in the Omani desert.",
+                  "category": "natural",
+                  "coords": [
+                        57.307133,
+                        19.854734
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "OM-WU",
     coords: [57.3000, 19.8000],
@@ -147,7 +273,412 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-ansab-wetlands-life-v2",
+    id: "al-ansab-wetlands-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carnival City",
+                  "text": "Carnival City ist ein beliebter Freizeitpark in al-ansab-wetlands-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.318061,
+                        23.583103
+                  ]
+            },
+            {
+                  "name": "Big hall neuroradio",
+                  "text": "Die Big Hall Neuroradio ist eine Attraktion in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.32772,
+                        23.567606
+                  ]
+            },
+            {
+                  "name": "Muscat Hills Golf Club House",
+                  "text": "Das Clubhaus des Muscat Hills Golf Club ist eine markante Attraktion in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30714,
+                        23.567176
+                  ]
+            },
+            {
+                  "name": "Burj al Sahwa",
+                  "text": "Burj al Sahwa ist ein markanter Uhrenturm und ein bedeutendes Denkmal in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.251794,
+                        23.587085
+                  ]
+            },
+            {
+                  "name": "Al Mouj Beach",
+                  "text": "Der Al Mouj Strand ist ein erholsamer Küstenabschnitt in al-ansab-wetlands-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.286306,
+                        23.619834
+                  ]
+            },
+            {
+                  "name": "Al Estiqama Mosque",
+                  "text": "Die Al Estiqama Moschee ist eine bedeutende islamische Stätte in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.353838,
+                        23.599241
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sikh Temple",
+                  "text": "Der Gurudwara Sikh-Tempel ist ein wichtiges spirituelles Zentrum in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.347906,
+                        23.572205
+                  ]
+            },
+            {
+                  "name": "Al Irfan Mosque",
+                  "text": "Die Al Irfan Moschee dient als ruhiger Ort der Anbetung in al-ansab-wetlands-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.308359,
+                        23.577526
+                  ]
+            },
+            {
+                  "name": "Prayer room",
+                  "text": "Der Prayer room ist eine kleine Andachtsstätte in al-ansab-wetlands-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.286631,
+                        23.602691
+                  ]
+            },
+            {
+                  "name": "al Matar al Qadim Mosque",
+                  "text": "Die al Matar al Qadim Mosque ist ein muslimisches Gebetshaus in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.289538,
+                        23.587732
+                  ]
+            },
+            {
+                  "name": "Grocery Shop",
+                  "text": "Der Grocery Shop ist ein lokaler Marktplatz in al-ansab-wetlands-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.248894,
+                        23.596955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carnival City",
+                  "text": "A Carnival City egy népszerű vidámpark al-ansab-wetlands-life-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        58.318061,
+                        23.583103
+                  ]
+            },
+            {
+                  "name": "Big hall neuroradio",
+                  "text": "A Big hall neuroradio egy turisztikai látványosság al-ansab-wetlands-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.32772,
+                        23.567606
+                  ]
+            },
+            {
+                  "name": "Muscat Hills Golf Club House",
+                  "text": "A Muscat Hills Golf Club háza egy kiemelkedő látványosság al-ansab-wetlands-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30714,
+                        23.567176
+                  ]
+            },
+            {
+                  "name": "Burj al Sahwa",
+                  "text": "A Burj al Sahwa egy jól ismert óratorony és emlékmű al-ansab-wetlands-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.251794,
+                        23.587085
+                  ]
+            },
+            {
+                  "name": "Al Mouj Beach",
+                  "text": "Az Al Mouj Beach egy pihentető tengerpart al-ansab-wetlands-life-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        58.286306,
+                        23.619834
+                  ]
+            },
+            {
+                  "name": "Al Estiqama Mosque",
+                  "text": "Az Al Estiqama mecset egy jelentős iszlám imahely al-ansab-wetlands-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.353838,
+                        23.599241
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sikh Temple",
+                  "text": "A Gurudwara szikh templom egy fontos spirituális központ al-ansab-wetlands-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.347906,
+                        23.572205
+                  ]
+            },
+            {
+                  "name": "Al Irfan Mosque",
+                  "text": "Az Al Irfan mecset békés istentiszteleti helyként szolgál al-ansab-wetlands-life-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        58.308359,
+                        23.577526
+                  ]
+            },
+            {
+                  "name": "Prayer room",
+                  "text": "A Prayer room egy csendes imahely al-ansab-wetlands-life-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        58.286631,
+                        23.602691
+                  ]
+            },
+            {
+                  "name": "al Matar al Qadim Mosque",
+                  "text": "Az al Matar al Qadim Mosque egy muszlim mecset al-ansab-wetlands-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.289538,
+                        23.587732
+                  ]
+            },
+            {
+                  "name": "Grocery Shop",
+                  "text": "A Grocery Shop egy helyi piac al-ansab-wetlands-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        58.248894,
+                        23.596955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carnival City",
+                  "text": "Carnival City este un parc tematic popular în al-ansab-wetlands-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.318061,
+                        23.583103
+                  ]
+            },
+            {
+                  "name": "Big hall neuroradio",
+                  "text": "Big hall neuroradio este o atracție situată în al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.32772,
+                        23.567606
+                  ]
+            },
+            {
+                  "name": "Muscat Hills Golf Club House",
+                  "text": "Club House-ul Muscat Hills Golf Club este o atracție proeminentă din al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30714,
+                        23.567176
+                  ]
+            },
+            {
+                  "name": "Burj al Sahwa",
+                  "text": "Burj al Sahwa este un turn cu ceas remarcabil și un monument important din al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.251794,
+                        23.587085
+                  ]
+            },
+            {
+                  "name": "Al Mouj Beach",
+                  "text": "Plaja Al Mouj este o secțiune de coastă relaxantă din al-ansab-wetlands-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.286306,
+                        23.619834
+                  ]
+            },
+            {
+                  "name": "Al Estiqama Mosque",
+                  "text": "Moscheea Al Estiqama este un loc islamic de rugăciune în al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.353838,
+                        23.599241
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sikh Temple",
+                  "text": "Templul Sikh Gurudwara este un centru spiritual important din al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.347906,
+                        23.572205
+                  ]
+            },
+            {
+                  "name": "Al Irfan Mosque",
+                  "text": "Moscheea Al Irfan servește drept un loc pașnic de cult în al-ansab-wetlands-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.308359,
+                        23.577526
+                  ]
+            },
+            {
+                  "name": "Prayer room",
+                  "text": "Prayer room este un mic lăcaș de cult în al-ansab-wetlands-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.286631,
+                        23.602691
+                  ]
+            },
+            {
+                  "name": "al Matar al Qadim Mosque",
+                  "text": "Moscheea al Matar al Qadim este un lăcaș de cult musulman din al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.289538,
+                        23.587732
+                  ]
+            },
+            {
+                  "name": "Grocery Shop",
+                  "text": "Grocery Shop este o piață locală situată în al-ansab-wetlands-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.248894,
+                        23.596955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carnival City",
+                  "text": "Carnival City is a popular theme park located in al-ansab-wetlands-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.318061,
+                        23.583103
+                  ]
+            },
+            {
+                  "name": "Big hall neuroradio",
+                  "text": "Big hall neuroradio is an attraction situated in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.32772,
+                        23.567606
+                  ]
+            },
+            {
+                  "name": "Muscat Hills Golf Club House",
+                  "text": "The Muscat Hills Golf Club House is a notable attraction in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30714,
+                        23.567176
+                  ]
+            },
+            {
+                  "name": "Burj al Sahwa",
+                  "text": "Burj al Sahwa is a prominent clock tower monument located in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.251794,
+                        23.587085
+                  ]
+            },
+            {
+                  "name": "Al Mouj Beach",
+                  "text": "Al Mouj Beach is a relaxing coastal destination in al-ansab-wetlands-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.286306,
+                        23.619834
+                  ]
+            },
+            {
+                  "name": "Al Estiqama Mosque",
+                  "text": "The Al Estiqama Mosque is a significant Islamic place of worship in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.353838,
+                        23.599241
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sikh Temple",
+                  "text": "The Gurudwara Sikh Temple is a major spiritual center located in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.347906,
+                        23.572205
+                  ]
+            },
+            {
+                  "name": "Al Irfan Mosque",
+                  "text": "The Al Irfan Mosque serves as a peaceful place of worship in al-ansab-wetlands-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.308359,
+                        23.577526
+                  ]
+            },
+            {
+                  "name": "Prayer room",
+                  "text": "The Prayer room is a place of worship situated in al-ansab-wetlands-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.286631,
+                        23.602691
+                  ]
+            },
+            {
+                  "name": "al Matar al Qadim Mosque",
+                  "text": "The al Matar al Qadim Mosque is a Muslim place of worship in al-ansab-wetlands-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.289538,
+                        23.587732
+                  ]
+            },
+            {
+                  "name": "Grocery Shop",
+                  "text": "The Grocery Shop is a local marketplace located in al-ansab-wetlands-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.248894,
+                        23.596955
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "OM-MA",
     coords: [58.3361, 23.5683],
@@ -195,7 +726,124 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "qurum-natural-park-life-v2",
+    id: "qurum-natural-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Qirmadhil",
+                  "text": "Ein Küstenhügel, der einen weiten Panoramablick über den Golf von Oman und die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        58.51,
+                        23.56
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "Ein interaktives Wissenschaftsmuseum in Qurum, bekannt für seine zwei markanten weißen Kuppelgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        58.480964,
+                        23.61561
+                  ]
+            },
+            {
+                  "name": "City Amphitheater",
+                  "text": "Ein großes Freilufttheater im Qurum Natural Park, das für kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        58.483424,
+                        23.615997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Qirmadhil",
+                  "text": "Tengerparti domb, amely széles panorámát nyújt az Ománi-öbölre és a városra.",
+                  "category": "natural",
+                  "coords": [
+                        58.51,
+                        23.56
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "Interaktív tudományos múzeum Kurumban, amely két jellegzetes fehér kupolás épületéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        58.480964,
+                        23.61561
+                  ]
+            },
+            {
+                  "name": "City Amphitheater",
+                  "text": "Nagy szabadtéri színház a Kurum Natúrparkban, amelyet kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.483424,
+                        23.615997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Qirmadhil",
+                  "text": "Un deal de coastă care oferă o panoramă largă asupra Golfului Oman și a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        58.51,
+                        23.56
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "Un muzeu de știință interactiv din Qurum, cunoscut pentru cele două clădiri distinctive cu dom alb.",
+                  "category": "museum",
+                  "coords": [
+                        58.480964,
+                        23.61561
+                  ]
+            },
+            {
+                  "name": "City Amphitheater",
+                  "text": "Un amfiteatru mare în aer liber în Parcul Natural Qurum, folosit pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.483424,
+                        23.615997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Qirmadhil",
+                  "text": "A coastal hill offering a wide panoramic view over the Gulf of Oman and the city.",
+                  "category": "natural",
+                  "coords": [
+                        58.51,
+                        23.56
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "An interactive science museum in Qurum, known for its two distinctive white dome buildings.",
+                  "category": "museum",
+                  "coords": [
+                        58.480964,
+                        23.61561
+                  ]
+            },
+            {
+                  "name": "City Amphitheater",
+                  "text": "A large open-air theater in Qurum Natural Park, used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        58.483424,
+                        23.615997
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "OM-MA",
     coords: [58.4835, 23.6169],
@@ -243,7 +891,484 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-naseem-park-life-v2",
+    id: "al-naseem-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ar Rumays Fort",
+                  "text": "Ein traditionelles omanisches Lehmfort, das einst zur Verteidigung der Küstenebene in der Region Barka diente.",
+                  "category": "castle",
+                  "coords": [
+                        57.990095,
+                        23.689659
+                  ]
+            },
+            {
+                  "name": "Hayy Asim",
+                  "text": "Diese historische Befestigungsanlage aus Stein bewacht den Küstenbereich von Hayy Asim.",
+                  "category": "castle",
+                  "coords": [
+                        57.959392,
+                        23.690629
+                  ]
+            },
+            {
+                  "name": "History of Science Centre",
+                  "text": "Das Museum widmet sich der Geschichte der arabischen und islamischen Wissenschaft und zeigt astronomische Instrumente.",
+                  "category": "museum",
+                  "coords": [
+                        58.045143,
+                        23.635509
+                  ]
+            },
+            {
+                  "name": "Al Manumah Beach",
+                  "text": "Ein weiter Sandstrand am Golf von Oman, der besonders bei Einheimischen für Wochenendausflüge beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        58.072095,
+                        23.712869
+                  ]
+            },
+            {
+                  "name": "Abdu Rahman ibn Awf Mosque",
+                  "text": "Eine moderne Moschee mit einem markanten Minarett und einer großen Kuppel, die als lokales Gemeindezentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        57.973608,
+                        23.671312
+                  ]
+            },
+            {
+                  "name": "Zahraa' bint Rasul Mosque - Halban",
+                  "text": "Diese Moschee in Halban zeichnet sich durch ihre elegante, zeitgenössische Architektur und die ruhige Lage aus.",
+                  "category": "religious",
+                  "coords": [
+                        57.990638,
+                        23.650224
+                  ]
+            },
+            {
+                  "name": "al Ridha Mosque",
+                  "text": "Ein schlichtes islamisches Gebetshaus, das mit traditionellen Ornamenten an der Fassade verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.061534,
+                        23.636668
+                  ]
+            },
+            {
+                  "name": "al Mustafa Mosque",
+                  "text": "Diese Moschee dient als zentraler Ort des Gebets für die Bewohner des umliegenden Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        58.073802,
+                        23.692956
+                  ]
+            },
+            {
+                  "name": "Al Wadood Mosque",
+                  "text": "Ein modernes religiöses Gebäude mit klaren Linien und einem fein gearbeiteten Portal.",
+                  "category": "landmark",
+                  "coords": [
+                        58.050419,
+                        23.643129
+                  ]
+            },
+            {
+                  "name": "al Ameen Mosque",
+                  "text": "Diese prachtvolle Moschee thront auf einem Hügel und ist für ihre strahlend weiße Marmorfassade bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.062433,
+                        23.648874
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Masoud Mosque",
+                  "text": "Ein lokales islamisches Gebetshaus, das den Gläubigen der Gemeinde als Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.069972,
+                        23.699292
+                  ]
+            },
+            {
+                  "name": "al Noor Mosque",
+                  "text": "Diese Moschee besticht durch ihre eleganten Kuppeln und die moderne Interpretation islamischer Baukunst.",
+                  "category": "landmark",
+                  "coords": [
+                        58.068735,
+                        23.71049
+                  ]
+            },
+            {
+                  "name": "Khalid bin Alwleed Masjed",
+                  "text": "Ein funktionales Gebetshaus mit einem schlanken Minarett, das das Stadtbild des Viertels prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.045351,
+                        23.665826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ar Rumays Fort",
+                  "text": "Hagyományos ománi vályogerőd, amely egykor a tengerparti síkság védelmét szolgálta Barka régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        57.990095,
+                        23.689659
+                  ]
+            },
+            {
+                  "name": "Hayy Asim",
+                  "text": "Ez a történelmi kőerődítmény Hayy Asim part menti területét őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        57.959392,
+                        23.690629
+                  ]
+            },
+            {
+                  "name": "History of Science Centre",
+                  "text": "A múzeum az arab és iszlám tudomány történetének szentelt, és csillagászati eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        58.045143,
+                        23.635509
+                  ]
+            },
+            {
+                  "name": "Al Manumah Beach",
+                  "text": "Az Ománi-öböl széles homokos strandja, amely különösen a helyiek körében népszerű a hétvégi kirándulásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        58.072095,
+                        23.712869
+                  ]
+            },
+            {
+                  "name": "Abdu Rahman ibn Awf Mosque",
+                  "text": "Modern mecset jellegzetes minarettel és nagy kupolával, amely helyi közösségi központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        57.973608,
+                        23.671312
+                  ]
+            },
+            {
+                  "name": "Zahraa' bint Rasul Mosque - Halban",
+                  "text": "Ez a halbani mecset elegáns, kortárs építészetével és nyugodt környezetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        57.990638,
+                        23.650224
+                  ]
+            },
+            {
+                  "name": "al Ridha Mosque",
+                  "text": "Egyszerű iszlám imaház, amelynek homlokzatát hagyományos díszítőelemek ékesítik.",
+                  "category": "landmark",
+                  "coords": [
+                        58.061534,
+                        23.636668
+                  ]
+            },
+            {
+                  "name": "al Mustafa Mosque",
+                  "text": "Ez a mecset a környező negyed lakói számára a közös ima központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        58.073802,
+                        23.692956
+                  ]
+            },
+            {
+                  "name": "Al Wadood Mosque",
+                  "text": "Modern vallási épület letisztult vonalakkal és finoman megmunkált bejárattal.",
+                  "category": "landmark",
+                  "coords": [
+                        58.050419,
+                        23.643129
+                  ]
+            },
+            {
+                  "name": "al Ameen Mosque",
+                  "text": "Ez a pompás mecset egy dombon trónol, és ragyogó fehér márványhomlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.062433,
+                        23.648874
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Masoud Mosque",
+                  "text": "Helyi iszlám imaház, amely a közösség hívőinek találkozóhelyéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        58.069972,
+                        23.699292
+                  ]
+            },
+            {
+                  "name": "al Noor Mosque",
+                  "text": "Ez a mecset elegáns kupoláival és az iszlám építőművészet modern értelmezésével hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.068735,
+                        23.71049
+                  ]
+            },
+            {
+                  "name": "Khalid bin Alwleed Masjed",
+                  "text": "Funkcionális imaház karcsú minarettel, amely meghatározza a negyed városképét.",
+                  "category": "landmark",
+                  "coords": [
+                        58.045351,
+                        23.665826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ar Rumays Fort",
+                  "text": "O fortăreață tradițională omaneză din chirpici, care servea odinioară la apărarea câmpiei de coastă în regiunea Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.990095,
+                        23.689659
+                  ]
+            },
+            {
+                  "name": "Hayy Asim",
+                  "text": "Această fortificație istorică din piatră păzește zona de coastă din Hayy Asim.",
+                  "category": "castle",
+                  "coords": [
+                        57.959392,
+                        23.690629
+                  ]
+            },
+            {
+                  "name": "History of Science Centre",
+                  "text": "Muzeul este dedicat istoriei științei arabe și islamice, expunând instrumente astronomice.",
+                  "category": "museum",
+                  "coords": [
+                        58.045143,
+                        23.635509
+                  ]
+            },
+            {
+                  "name": "Al Manumah Beach",
+                  "text": "O plajă largă de nisip la Golful Oman, populară în special printre localnici pentru excursiile de weekend.",
+                  "category": "recreational",
+                  "coords": [
+                        58.072095,
+                        23.712869
+                  ]
+            },
+            {
+                  "name": "Abdu Rahman ibn Awf Mosque",
+                  "text": "O moschee modernă cu un minaret distinctiv și o cupolă mare, servind drept centru comunitar local.",
+                  "category": "landmark",
+                  "coords": [
+                        57.973608,
+                        23.671312
+                  ]
+            },
+            {
+                  "name": "Zahraa' bint Rasul Mosque - Halban",
+                  "text": "Această moschee din Halban se remarcă prin arhitectura sa contemporană elegantă și cadrul liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        57.990638,
+                        23.650224
+                  ]
+            },
+            {
+                  "name": "al Ridha Mosque",
+                  "text": "O casă de rugăciune islamică simplă, decorată cu ornamente tradiționale pe fațadă.",
+                  "category": "landmark",
+                  "coords": [
+                        58.061534,
+                        23.636668
+                  ]
+            },
+            {
+                  "name": "al Mustafa Mosque",
+                  "text": "Această moschee servește ca loc central de rugăciune pentru locuitorii cartierului din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        58.073802,
+                        23.692956
+                  ]
+            },
+            {
+                  "name": "Al Wadood Mosque",
+                  "text": "O clădire religioasă modernă, cu linii curate și un portal lucrat cu finețe.",
+                  "category": "landmark",
+                  "coords": [
+                        58.050419,
+                        23.643129
+                  ]
+            },
+            {
+                  "name": "al Ameen Mosque",
+                  "text": "Această moschee splendidă domină de pe un deal și este cunoscută pentru fațada sa din marmură albă strălucitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        58.062433,
+                        23.648874
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Masoud Mosque",
+                  "text": "O casă de rugăciune islamică locală, care servește drept loc de adunare pentru credincioșii din comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        58.069972,
+                        23.699292
+                  ]
+            },
+            {
+                  "name": "al Noor Mosque",
+                  "text": "Această moschee impresionează prin cupolele sale elegante și interpretarea modernă a arhitecturii islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        58.068735,
+                        23.71049
+                  ]
+            },
+            {
+                  "name": "Khalid bin Alwleed Masjed",
+                  "text": "O casă de rugăciune funcțională, cu un minaret zvelt care marchează peisajul urban al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        58.045351,
+                        23.665826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ar Rumays Fort",
+                  "text": "A traditional Omani mud-brick fort that once served to defend the coastal plain in the Barka region.",
+                  "category": "castle",
+                  "coords": [
+                        57.990095,
+                        23.689659
+                  ]
+            },
+            {
+                  "name": "Hayy Asim",
+                  "text": "This historic stone fortification guards the coastal area of Hayy Asim.",
+                  "category": "castle",
+                  "coords": [
+                        57.959392,
+                        23.690629
+                  ]
+            },
+            {
+                  "name": "History of Science Centre",
+                  "text": "This museum is dedicated to the history of Arabic and Islamic science, showcasing astronomical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        58.045143,
+                        23.635509
+                  ]
+            },
+            {
+                  "name": "Al Manumah Beach",
+                  "text": "A wide sandy beach on the Gulf of Oman, popular with locals for weekend outings and picnics.",
+                  "category": "recreational",
+                  "coords": [
+                        58.072095,
+                        23.712869
+                  ]
+            },
+            {
+                  "name": "Abdu Rahman ibn Auf Mosque",
+                  "text": "A modern mosque with a prominent minaret and large dome, serving as a local community center.",
+                  "category": "landmark",
+                  "coords": [
+                        57.973608,
+                        23.671312
+                  ]
+            },
+            {
+                  "name": "Zahraa' bint Rasul Mosque - Halban",
+                  "text": "This mosque in Halban stands out for its elegant contemporary architecture and peaceful setting.",
+                  "category": "religious",
+                  "coords": [
+                        57.990638,
+                        23.650224
+                  ]
+            },
+            {
+                  "name": "al Ridha Mosque",
+                  "text": "A simple Islamic house of worship decorated with traditional motifs on its facade.",
+                  "category": "landmark",
+                  "coords": [
+                        58.061534,
+                        23.636668
+                  ]
+            },
+            {
+                  "name": "al Mustafa Mosque",
+                  "text": "This mosque serves as a central place of prayer for the residents of the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        58.073802,
+                        23.692956
+                  ]
+            },
+            {
+                  "name": "Al Wadood Mosque",
+                  "text": "A modern religious building characterized by clean lines and a finely crafted entrance portal.",
+                  "category": "landmark",
+                  "coords": [
+                        58.050419,
+                        23.643129
+                  ]
+            },
+            {
+                  "name": "al Ameen Mosque",
+                  "text": "This magnificent mosque sits atop a hill and is known for its gleaming white marble facade.",
+                  "category": "landmark",
+                  "coords": [
+                        58.062433,
+                        23.648874
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Masoud Mosque",
+                  "text": "A local Islamic house of worship serving as a gathering place for the community's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        58.069972,
+                        23.699292
+                  ]
+            },
+            {
+                  "name": "al Noor Mosque",
+                  "text": "This mosque impresses with its elegant domes and modern interpretation of Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        58.068735,
+                        23.71049
+                  ]
+            },
+            {
+                  "name": "Khalid bin Alwleed Masjed",
+                  "text": "A functional house of prayer with a slender minaret that marks the neighborhood's skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        58.045351,
+                        23.665826
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "OM-MA",
     coords: [57.9942, 23.6706],
@@ -339,7 +1464,52 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "kalbuh-park-life-v2",
+    id: "kalbuh-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Dieses Museum überspannt die Straße in die Altstadt von Maskat und bietet neben historischen Exponaten einen Panoramablick.",
+                  "category": "museum",
+                  "coords": [
+                        58.585835,
+                        23.618627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Ez a múzeum átível a Maszkat óvárosába vezető úton, és a történelmi kiállítások mellett panorámás kilátást is nyújt.",
+                  "category": "museum",
+                  "coords": [
+                        58.585835,
+                        23.618627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Acest muzeu traversează drumul spre orașul vechi din Muscat și oferă vederi panoramice alături de exponate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        58.585835,
+                        23.618627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Straddling the road into the old city of Muscat, this museum offers panoramic views alongside its historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        58.585835,
+                        23.618627
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "OM-MA",
     coords: [58.5833, 23.6231],
@@ -387,7 +1557,376 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-amerat-park-life-v2",
+    id: "al-amerat-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Amerat Public Park",
+                  "text": "Der Al Amerat Public Park ist eine große öffentliche Grünanlage, die mit Gehwegen und Erholungsflächen ausgestattet ist.",
+                  "category": "park",
+                  "coords": [
+                        58.503374,
+                        23.510311
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese Moschee am Al Amerat Park ist ein islamisches Gebäude, das Besuchern und Anwohnern als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.510483,
+                        23.535054
+                  ]
+            },
+            {
+                  "name": "Al Amerat General Cemetery - Graveyard",
+                  "text": "Dieser weitläufige Friedhof in Al Amerat bietet der örtlichen Gemeinde eine letzte Ruhestätte mit zahlreichen Gräberreihen.",
+                  "category": "religious",
+                  "coords": [
+                        58.496259,
+                        23.54104
+                  ]
+            },
+            {
+                  "name": "Uthman bin Affan Mosque",
+                  "text": "Dieses islamische Gotteshaus in Al Amerat bietet einen traditionellen Gebetssaal für die tägliche spirituelle Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        58.492113,
+                        23.478665
+                  ]
+            },
+            {
+                  "name": "Ali Bin Talib Mosque",
+                  "text": "Eine muslimische Kultstätte in Al Amerat, die als ruhiger Rückzugsort für das tägliche rituelle Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.498431,
+                        23.521423
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salah",
+                  "text": "Diese lokale Moschee in Al Amerat zeichnet sich durch traditionelle islamische Architektur und einen ruhigen Gebetsraum aus.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501103,
+                        23.524617
+                  ]
+            },
+            {
+                  "name": "Al Mojeeb Mosque",
+                  "text": "Ein zentraler Treffpunkt für Muslime in Al Amerat, der einen großen Saal für die gemeinschaftlichen Freitagsgebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.503429,
+                        23.497412
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Talib",
+                  "text": "Eine spirituelle Stätte in Al Amerat, die der muslimischen Gemeinde als Ort für koranische Lehren und Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.482181,
+                        23.469781
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mukhtar",
+                  "text": "Dieses Gebetshaus in Al Amerat ist mit seinem klassischen Minarett ein wichtiger spiritueller Anker für das umliegende Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        58.468226,
+                        23.481543
+                  ]
+            },
+            {
+                  "name": "Jamea Al-Baseer",
+                  "text": "Eine große muslimische Einrichtung in Al Amerat, deren weitläufiger Innenhof Platz für zahlreiche Gläubige bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.511565,
+                        23.518642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Amerat Public Park",
+                  "text": "Az Al Amerat Public Park egy nagy nyilvános zöldterület, amely sétányokkal és pihenőövezetekkel van felszerelve.",
+                  "category": "park",
+                  "coords": [
+                        58.503374,
+                        23.510311
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez az Al Amerat Park melletti mecset egy iszlám épület, amely a látogatók és a helyi lakosok számára imahelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        58.510483,
+                        23.535054
+                  ]
+            },
+            {
+                  "name": "Al Amerat General Cemetery - Graveyard",
+                  "text": "Ez a kiterjedt Al Amerat-i temető utolsó nyughelyet kínál a helyi közösség számára számos sírhellyel.",
+                  "category": "religious",
+                  "coords": [
+                        58.496259,
+                        23.54104
+                  ]
+            },
+            {
+                  "name": "Uthman bin Affan Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely Al Ameratban hagyományos imatermet kínál a mindennapi spirituális elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        58.492113,
+                        23.478665
+                  ]
+            },
+            {
+                  "name": "Ali Bin Talib Mosque",
+                  "text": "Egy muszlim kultuszhely Al Ameratban, amely csendes menedékként szolgál a mindennapi rituális imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        58.498431,
+                        23.521423
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salah",
+                  "text": "Ez a helyi mecset Al Ameratban hagyományos iszlám építészettel és csendes imateremmel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501103,
+                        23.524617
+                  ]
+            },
+            {
+                  "name": "Al Mojeeb Mosque",
+                  "text": "Központi találkozóhely a muszlimok számára Al Ameratban, amely nagy termet biztosít a közös pénteki imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        58.503429,
+                        23.497412
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Talib",
+                  "text": "Egy spirituális hely Al Ameratban, amely a muszlim közösség számára a koráni tanítások és az áhítat helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        58.482181,
+                        23.469781
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mukhtar",
+                  "text": "Ez az Al Amerat-i imaház klasszikus minaretjével fontos spirituális horgony a környező negyed számára.",
+                  "category": "landmark",
+                  "coords": [
+                        58.468226,
+                        23.481543
+                  ]
+            },
+            {
+                  "name": "Jamea Al-Baseer",
+                  "text": "Egy nagy muszlim intézmény Al Ameratban, amelynek tágas udvara számos hívő befogadására alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        58.511565,
+                        23.518642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Amerat Public Park",
+                  "text": "Al Amerat Public Park este un parc public mare, amenajat cu alei și spații de recreere verzi.",
+                  "category": "park",
+                  "coords": [
+                        58.503374,
+                        23.510311
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee de lângă parcul Al Amerat este o clădire islamică care servește ca loc de rugăciune pentru vizitatori și rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        58.510483,
+                        23.535054
+                  ]
+            },
+            {
+                  "name": "Al Amerat General Cemetery - Graveyard",
+                  "text": "Acest cimitir întins din Al Amerat oferă un loc de veci pentru comunitatea locală, cu numeroase rânduri de morminte.",
+                  "category": "religious",
+                  "coords": [
+                        58.496259,
+                        23.54104
+                  ]
+            },
+            {
+                  "name": "Uthman bin Affan Mosque",
+                  "text": "Acest lăcaș de cult islamic din Al Amerat oferă o sală de rugăciune tradițională pentru reflecția spirituală zilnică.",
+                  "category": "religious",
+                  "coords": [
+                        58.492113,
+                        23.478665
+                  ]
+            },
+            {
+                  "name": "Ali Bin Talib Mosque",
+                  "text": "Un loc de cult musulman din Al Amerat care servește drept refugiu liniștit pentru rugăciunea rituală zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        58.498431,
+                        23.521423
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salah",
+                  "text": "Această moschee locală din Al Amerat se distinge prin arhitectura islamică tradițională și o zonă liniștită de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501103,
+                        23.524617
+                  ]
+            },
+            {
+                  "name": "Al Mojeeb Mosque",
+                  "text": "Un punct central de adunare pentru musulmanii din Al Amerat, oferind o sală spațioasă pentru rugăciunile congregaționale de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        58.503429,
+                        23.497412
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Talib",
+                  "text": "Un loc spiritual în Al Amerat, care servește comunitatea musulmană ca centru pentru învățături coranice și devotament.",
+                  "category": "landmark",
+                  "coords": [
+                        58.482181,
+                        23.469781
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mukhtar",
+                  "text": "Această casă de rugăciune din Al Amerat, cu minaretul său clasic, este o ancoră spirituală importantă pentru cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        58.468226,
+                        23.481543
+                  ]
+            },
+            {
+                  "name": "Jamea Al-Baseer",
+                  "text": "O mare instituție musulmană din Al Amerat, a cărei curte spațioasă poate găzdui numeroși credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        58.511565,
+                        23.518642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Amerat Public Park",
+                  "text": "The Al Amerat Public Park is a large public green space equipped with walking paths and recreational areas.",
+                  "category": "park",
+                  "coords": [
+                        58.503374,
+                        23.510311
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This Mosque by Al Amerat Park is an Islamic building providing a prayer location for visitors and local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        58.510483,
+                        23.535054
+                  ]
+            },
+            {
+                  "name": "Al Amerat General Cemetery - Graveyard",
+                  "text": "This sprawling graveyard in Al Amerat provides a final resting place for the local community with its many rows of graves.",
+                  "category": "religious",
+                  "coords": [
+                        58.496259,
+                        23.54104
+                  ]
+            },
+            {
+                  "name": "Uthman bin Affan Mosque",
+                  "text": "This Islamic place of worship in Al Amerat offers a traditional prayer hall for daily spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        58.492113,
+                        23.478665
+                  ]
+            },
+            {
+                  "name": "Ali Bin Talib Mosque",
+                  "text": "A Muslim site of worship in Al Amerat that serves as a quiet retreat for daily ritual prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        58.498431,
+                        23.521423
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salah",
+                  "text": "This local mosque in Al Amerat features traditional Islamic architecture and a quiet prayer space.",
+                  "category": "landmark",
+                  "coords": [
+                        58.501103,
+                        23.524617
+                  ]
+            },
+            {
+                  "name": "Al Mojeeb Mosque",
+                  "text": "A central gathering point for Muslims in Al Amerat, offering a spacious hall for communal Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        58.503429,
+                        23.497412
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Talib",
+                  "text": "A spiritual site in Al Amerat serving the Muslim community as a place for Quranic teachings and devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        58.482181,
+                        23.469781
+                  ]
+            },
+            {
+                  "name": "Masjid Al Mukhtar",
+                  "text": "This house of prayer in Al Amerat, complete with a classic minaret, is an important spiritual anchor for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        58.468226,
+                        23.481543
+                  ]
+            },
+            {
+                  "name": "Jamea Al-Baseer",
+                  "text": "A large Muslim establishment in Al Amerat whose expansive courtyard accommodates numerous worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        58.511565,
+                        23.518642
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "OM-MA",
     coords: [58.4862, 23.4938],
@@ -435,7 +1974,160 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "ayn-sahalnawt-life-v2",
+    id: "ayn-sahalnawt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal at Tut",
+                  "text": "Ein markanter Berggipfel im Qara-Gebirge, der während der Khareef-Saison oft in dichten Nebel gehüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.179916,
+                        17.140085
+                  ]
+            },
+            {
+                  "name": "Wadi Sheikh",
+                  "text": "Ein malerisches Tal mit charakteristischen Felsformationen und saisonalen Wasserläufen in der Nähe von Ayn Sahalnoot.",
+                  "category": "landmark",
+                  "coords": [
+                        54.204702,
+                        17.150324
+                  ]
+            },
+            {
+                  "name": "Jabal Milah",
+                  "text": "Ein Kalksteingipfel in Dhofar, der einen Panoramablick auf die zerklüfteten Wadis und die Küstenebene bietet.",
+                  "category": "natural",
+                  "coords": [
+                        54.199794,
+                        17.150251
+                  ]
+            },
+            {
+                  "name": "Ayn Sahalnoot",
+                  "text": "Eine beliebte natürliche Quelle mit türkisfarbenem Wasser und mehreren kleinen Höhlen in den umliegenden Kalksteinfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        54.178542,
+                        17.148331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal at Tut",
+                  "text": "A Qara-hegység egyik jellegzetes csúcsa, amelyet a Khareef-szezon idején gyakran sűrű köd borít.",
+                  "category": "natural",
+                  "coords": [
+                        54.179916,
+                        17.140085
+                  ]
+            },
+            {
+                  "name": "Wadi Sheikh",
+                  "text": "Festői völgy jellegzetes sziklaalakzatokkal és időszakos vízfolyásokkal Ayn Sahalnoot közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.204702,
+                        17.150324
+                  ]
+            },
+            {
+                  "name": "Jabal Milah",
+                  "text": "Egy mészkőcsúcs Dhofarban, ahonnan panorámás kilátás nyílik a zord völgyekre és a tengerparti síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        54.199794,
+                        17.150251
+                  ]
+            },
+            {
+                  "name": "Ayn Sahalnoot",
+                  "text": "Népszerű természetes forrás türkizkék vízzel és több kisebb barlanggal a környező mészkősziklákban.",
+                  "category": "landmark",
+                  "coords": [
+                        54.178542,
+                        17.148331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal at Tut",
+                  "text": "Un vârf muntos proeminent din munții Qara, adesea învăluit în ceață densă în timpul sezonului Khareef.",
+                  "category": "natural",
+                  "coords": [
+                        54.179916,
+                        17.140085
+                  ]
+            },
+            {
+                  "name": "Wadi Sheikh",
+                  "text": "O vale pitorească cu formațiuni stâncoase caracteristice și cursuri de apă sezoniere lângă Ayn Sahalnoot.",
+                  "category": "landmark",
+                  "coords": [
+                        54.204702,
+                        17.150324
+                  ]
+            },
+            {
+                  "name": "Jabal Milah",
+                  "text": "Un vârf calcaros din Dhofar, care oferă o vedere panoramică asupra uadiurilor accidentate și a câmpiei de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        54.199794,
+                        17.150251
+                  ]
+            },
+            {
+                  "name": "Ayn Sahalnoot",
+                  "text": "Un izvor natural popular cu ape turcoaz și câteva peșteri mici în stâncile calcaroase din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        54.178542,
+                        17.148331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal at Tut",
+                  "text": "A prominent mountain peak in the Qara range, often shrouded in dense mist during the Khareef season.",
+                  "category": "natural",
+                  "coords": [
+                        54.179916,
+                        17.140085
+                  ]
+            },
+            {
+                  "name": "Wadi Sheikh",
+                  "text": "A scenic valley with characteristic rock formations and seasonal watercourses near Ayn Sahalnoot.",
+                  "category": "landmark",
+                  "coords": [
+                        54.204702,
+                        17.150324
+                  ]
+            },
+            {
+                  "name": "Jabal Milah",
+                  "text": "A limestone peak in Dhofar, offering a panoramic view of the rugged wadis and the coastal plain.",
+                  "category": "natural",
+                  "coords": [
+                        54.199794,
+                        17.150251
+                  ]
+            },
+            {
+                  "name": "Ayn Sahalnoot",
+                  "text": "A popular natural spring with turquoise waters and several small caves in the surrounding limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        54.178542,
+                        17.148331
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "OM-ZU",
     coords: [54.1802, 17.1472],
@@ -483,7 +2175,268 @@ export const poiExtraOmanLifeV2: POI[] = [
     },
   },
   {
-    id: "salalah-banana-plantations-life-v2",
+    id: "salalah-banana-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ad Dahariz Park",
+                  "text": "Dieser öffentliche Park bietet eine landschaftlich gestaltete Grünfläche mit schattigen Bereichen zur Entspannung im Freien.",
+                  "category": "park",
+                  "coords": [
+                        54.171721,
+                        17.012785
+                  ]
+            },
+            {
+                  "name": "As Saadah Park",
+                  "text": "Mit seinen Freizeiteinrichtungen dient dieser Park als beliebtes Grünareal für Familien und Spaziergänge in der Gemeinde.",
+                  "category": "park",
+                  "coords": [
+                        54.15328,
+                        17.075837
+                  ]
+            },
+            {
+                  "name": "Khawr Ad Dahariz Reserve",
+                  "text": "Dieses ökologische Naturschutzgebiet schützt eine malerische Bachumgebung, die für die lokalen Vogelarten von entscheidender Bedeutung ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.177209,
+                        17.018524
+                  ]
+            },
+            {
+                  "name": "Osama bin Zaid",
+                  "text": "Diese nach einer historischen islamischen Persönlichkeit benannte Moschee dient den täglichen spirituellen Bedürfnissen des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159027,
+                        17.077429
+                  ]
+            },
+            {
+                  "name": "St Stephens Orthodox Church, Salalah",
+                  "text": "Diese orthodoxe Kultstätte bietet den einheimischen Gläubigen traditionelle christliche Liturgien.",
+                  "category": "religious",
+                  "coords": [
+                        54.157049,
+                        17.031232
+                  ]
+            },
+            {
+                  "name": "The Christian Centre Church",
+                  "text": "Als zentraler Treffpunkt veranstaltet diese christliche Kirche regelmäßige Gottesdienste und Gemeinde-Events.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159879,
+                        17.030154
+                  ]
+            },
+            {
+                  "name": "Masjed al Hadad",
+                  "text": "Diese muslimische Nachbarschaftsmoschee empfängt die Gemeindemitglieder zu den fünf täglichen Gebeten.",
+                  "category": "landmark",
+                  "coords": [
+                        54.160266,
+                        17.020033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ad Dahariz Park",
+                  "text": "Ez a nyilvános park parkosított zöldterületet biztosít árnyékos részekkel a szabadtéri pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        54.171721,
+                        17.012785
+                  ]
+            },
+            {
+                  "name": "As Saadah Park",
+                  "text": "A szabadidős létesítményekkel rendelkező park népszerű zöldterület a családok és a közösségi séták számára.",
+                  "category": "park",
+                  "coords": [
+                        54.15328,
+                        17.075837
+                  ]
+            },
+            {
+                  "name": "Khawr Ad Dahariz Reserve",
+                  "text": "Ez az ökológiai természetvédelmi terület egy festői patakkörnyezetet véd, amely kulcsfontosságú a helyi madárfajok számára.",
+                  "category": "natural",
+                  "coords": [
+                        54.177209,
+                        17.018524
+                  ]
+            },
+            {
+                  "name": "Osama bin Zaid",
+                  "text": "Ez a történelmi iszlám alakról elnevezett muszlim mecset a környék mindennapi spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159027,
+                        17.077429
+                  ]
+            },
+            {
+                  "name": "St Stephens Orthodox Church, Salalah",
+                  "text": "Ez az ortodox istentiszteleti hely hagyományos keresztény liturgiákat biztosít a helyi hívek számára.",
+                  "category": "religious",
+                  "coords": [
+                        54.157049,
+                        17.031232
+                  ]
+            },
+            {
+                  "name": "The Christian Centre Church",
+                  "text": "Központi találkozóhelyként ez a keresztény templom rendszeres istentiszteleteknek és közösségi eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159879,
+                        17.030154
+                  ]
+            },
+            {
+                  "name": "Masjed al Hadad",
+                  "text": "Ez a környékbeli muszlim mecset a napi ötszöri imára várja a gyülekezet tagjait.",
+                  "category": "landmark",
+                  "coords": [
+                        54.160266,
+                        17.020033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ad Dahariz Park",
+                  "text": "Acest parc public oferă un spațiu verde amenajat, cu zone umbrite pentru relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        54.171721,
+                        17.012785
+                  ]
+            },
+            {
+                  "name": "As Saadah Park",
+                  "text": "Dotat cu facilități de recreere, acest parc servește ca o zonă verde populară pentru familii și plimbări comunitare.",
+                  "category": "park",
+                  "coords": [
+                        54.15328,
+                        17.075837
+                  ]
+            },
+            {
+                  "name": "Khawr Ad Dahariz Reserve",
+                  "text": "Această rezervație ecologică naturală protejează mediul pitoresc al unui pârâu, esențial pentru speciile locale de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        54.177209,
+                        17.018524
+                  ]
+            },
+            {
+                  "name": "Osama bin Zaid",
+                  "text": "Numită după o figură istorică islamică, această moschee musulmană deservește nevoile spirituale zilnice ale cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159027,
+                        17.077429
+                  ]
+            },
+            {
+                  "name": "St Stephens Orthodox Church, Salalah",
+                  "text": "Acest lăcaș de cult ortodox oferă liturghii creștine tradiționale pentru credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        54.157049,
+                        17.031232
+                  ]
+            },
+            {
+                  "name": "The Christian Centre Church",
+                  "text": "Funcționând ca un punct central de adunare, această biserică creștină găzduiește slujbe regulate și evenimente comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159879,
+                        17.030154
+                  ]
+            },
+            {
+                  "name": "Masjed al Hadad",
+                  "text": "Această moschee musulmană de cartier întâmpină enoriașii pentru cele cinci rugăciuni zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        54.160266,
+                        17.020033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ad Dahariz Park",
+                  "text": "This public park provides a landscaped green space with shaded areas for outdoor relaxation.",
+                  "category": "park",
+                  "coords": [
+                        54.171721,
+                        17.012785
+                  ]
+            },
+            {
+                  "name": "As Saadah Park",
+                  "text": "Featuring recreational facilities, this park serves as a popular green area for families and community strolls.",
+                  "category": "park",
+                  "coords": [
+                        54.15328,
+                        17.075837
+                  ]
+            },
+            {
+                  "name": "Khawr Ad Dahariz Reserve",
+                  "text": "This ecological nature reserve protects a scenic creek environment critical for local bird species.",
+                  "category": "natural",
+                  "coords": [
+                        54.177209,
+                        17.018524
+                  ]
+            },
+            {
+                  "name": "Osama bin Zaid",
+                  "text": "Named after a historical Islamic figure, this Muslim mosque serves the daily spiritual needs of the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159027,
+                        17.077429
+                  ]
+            },
+            {
+                  "name": "St Stephens Orthodox Church, Salalah",
+                  "text": "This Orthodox place of worship provides traditional Christian liturgies for the local faithful.",
+                  "category": "religious",
+                  "coords": [
+                        54.157049,
+                        17.031232
+                  ]
+            },
+            {
+                  "name": "The Christian Centre Church",
+                  "text": "Functioning as a central gathering point, this Christian church hosts regular worship services and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        54.159879,
+                        17.030154
+                  ]
+            },
+            {
+                  "name": "Masjed al Hadad",
+                  "text": "This neighborhood Muslim mosque welcomes congregants for the five daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        54.160266,
+                        17.020033
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "OM-ZU",
     coords: [54.1450, 17.0211],
@@ -531,7 +2484,88 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "wadi-dawkah-frankincense-reserve-life-v2",
+    id: "wadi-dawkah-frankincense-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadis",
+                  "text": "Die Wadis bieten malerische Aussichtspunkte in wadi-dawkah-frankincense-reserve-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        53.984229,
+                        17.299039
+                  ]
+            },
+            {
+                  "name": "Wadi Dawkah Frankincense Trees",
+                  "text": "Die Weihrauchbäume im Wadi Dawkah sind eine Hauptattraktion in wadi-dawkah-frankincense-reserve-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.076385,
+                        17.338461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadis",
+                  "text": "A vádik festői kilátópontokat kínálnak wadi-dawkah-frankincense-reserve-life-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        53.984229,
+                        17.299039
+                  ]
+            },
+            {
+                  "name": "Wadi Dawkah Frankincense Trees",
+                  "text": "A Wadi Dawkah tömjénfái a wadi-dawkah-frankincense-reserve-life-v2 egyik fő látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        54.076385,
+                        17.338461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadis",
+                  "text": "Uedurile oferă puncte de belvedere pitorești în wadi-dawkah-frankincense-reserve-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        53.984229,
+                        17.299039
+                  ]
+            },
+            {
+                  "name": "Wadi Dawkah Frankincense Trees",
+                  "text": "Arborii de tămâie din Wadi Dawkah sunt o atracție principală în wadi-dawkah-frankincense-reserve-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.076385,
+                        17.338461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadis",
+                  "text": "The Wadis provide scenic viewpoints in wadi-dawkah-frankincense-reserve-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        53.984229,
+                        17.299039
+                  ]
+            },
+            {
+                  "name": "Wadi Dawkah Frankincense Trees",
+                  "text": "The Wadi Dawkah Frankincense Trees are a major attraction in wadi-dawkah-frankincense-reserve-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.076385,
+                        17.338461
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "OM-ZU",
     coords: [54.0531, 17.3364],
@@ -579,7 +2613,376 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "saiq-rose-terraces-life-v2",
+    id: "saiq-rose-terraces-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Village walk view point",
+                  "text": "Dieser Aussichtspunkt beim Dorfspaziergang bietet herrliche Panoramen in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.662749,
+                        23.071981
+                  ]
+            },
+            {
+                  "name": "Diana's Point",
+                  "text": "Diana's Point ist ein berühmter Aussichtspunkt in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.668497,
+                        23.06697
+                  ]
+            },
+            {
+                  "name": "Jabal Al Akhdar Viewpoint",
+                  "text": "Der Aussichtspunkt Jabal Al Akhdar zeigt die landschaftliche Schönheit von saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.700895,
+                        23.028175
+                  ]
+            },
+            {
+                  "name": "Qarn al Khuzar",
+                  "text": "Qarn al Khuzar ist ein beeindruckender Gipfel in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.718687,
+                        23.031405
+                  ]
+            },
+            {
+                  "name": "Al Jabal Al Akhtar Highest Peak 2090m",
+                  "text": "Der höchste Gipfel des Al Jabal Al Akhtar auf 2090 Metern ist eine Top-Attraktion in saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.727955,
+                        23.052826
+                  ]
+            },
+            {
+                  "name": "uitzicht hoogste piek Jebel Al Akdar",
+                  "text": "Dieser Aussichtspunkt blickt auf den höchsten Gipfel des Jebel Al Akdar in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.729476,
+                        23.052462
+                  ]
+            },
+            {
+                  "name": "Qarn Wukan",
+                  "text": "Qarn Wukan ist ein bemerkenswerter Berggipfel in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.720406,
+                        23.132549
+                  ]
+            },
+            {
+                  "name": "Al Aqar",
+                  "text": "Al Aqar ist ein historisches Ruinenfeld in saiq-rose-terraces-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        57.737899,
+                        23.120996
+                  ]
+            },
+            {
+                  "name": "Ibadu Rahman Mosque",
+                  "text": "Die Ibadu Rahman Moschee ist ein islamisches Zentrum in saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.688402,
+                        23.074178
+                  ]
+            },
+            {
+                  "name": "Jebel Akhdar Mosque",
+                  "text": "Die Jebel Akhdar Moschee ist eine lokale muslimische Gebetsstätte in saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671835,
+                        23.076732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Village walk view point",
+                  "text": "Ez a falusétányi kilátó nagyszerű panorámát kínál saiq-rose-terraces-life-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        57.662749,
+                        23.071981
+                  ]
+            },
+            {
+                  "name": "Diana's Point",
+                  "text": "A Diana's Point egy híres kilátó saiq-rose-terraces-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.668497,
+                        23.06697
+                  ]
+            },
+            {
+                  "name": "Jabal Al Akhdar Viewpoint",
+                  "text": "A Jabal Al Akhdar kilátó bemutatja saiq-rose-terraces-life-v2 természeti szépségét.",
+                  "category": "natural",
+                  "coords": [
+                        57.700895,
+                        23.028175
+                  ]
+            },
+            {
+                  "name": "Qarn al Khuzar",
+                  "text": "A Qarn al Khuzar egy lenyűgöző hegycsúcs saiq-rose-terraces-life-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        57.718687,
+                        23.031405
+                  ]
+            },
+            {
+                  "name": "Al Jabal Al Akhtar Highest Peak 2090m",
+                  "text": "Az Al Jabal Al Akhtar 2090 méter magas csúcsa egy csúcslátványosság saiq-rose-terraces-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.727955,
+                        23.052826
+                  ]
+            },
+            {
+                  "name": "uitzicht hoogste piek Jebel Al Akdar",
+                  "text": "Ez a kilátó a Jebel Al Akdar legmagasabb csúcsára néz saiq-rose-terraces-life-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        57.729476,
+                        23.052462
+                  ]
+            },
+            {
+                  "name": "Qarn Wukan",
+                  "text": "Qarn Wukan egy figyelemre méltó hegycsúcs saiq-rose-terraces-life-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        57.720406,
+                        23.132549
+                  ]
+            },
+            {
+                  "name": "Al Aqar",
+                  "text": "Al Aqar történelmi romjai saiq-rose-terraces-life-v2 területén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        57.737899,
+                        23.120996
+                  ]
+            },
+            {
+                  "name": "Ibadu Rahman Mosque",
+                  "text": "Az Ibadu Rahman mecset egy iszlám központ saiq-rose-terraces-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.688402,
+                        23.074178
+                  ]
+            },
+            {
+                  "name": "Jebel Akhdar Mosque",
+                  "text": "A Jebel Akhdar mecset egy helyi muszlim imahely saiq-rose-terraces-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671835,
+                        23.076732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Village walk view point",
+                  "text": "Acest punct de belvedere de pe traseul satului oferă panorame splendide în saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.662749,
+                        23.071981
+                  ]
+            },
+            {
+                  "name": "Diana's Point",
+                  "text": "Diana's Point este un faimos punct de belvedere din saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.668497,
+                        23.06697
+                  ]
+            },
+            {
+                  "name": "Jabal Al Akhdar Viewpoint",
+                  "text": "Punctul de belvedere Jabal Al Akhdar dezvăluie frumusețea peisajului din saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.700895,
+                        23.028175
+                  ]
+            },
+            {
+                  "name": "Qarn al Khuzar",
+                  "text": "Qarn al Khuzar este un vârf impresionant din saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.718687,
+                        23.031405
+                  ]
+            },
+            {
+                  "name": "Al Jabal Al Akhtar Highest Peak 2090m",
+                  "text": "Cel mai înalt vârf al Al Jabal Al Akhtar de la 2090m este o atracție principală în saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.727955,
+                        23.052826
+                  ]
+            },
+            {
+                  "name": "uitzicht hoogste piek Jebel Al Akdar",
+                  "text": "Acest punct de belvedere privește spre cel mai înalt vârf al Jebel Al Akdar în saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.729476,
+                        23.052462
+                  ]
+            },
+            {
+                  "name": "Qarn Wukan",
+                  "text": "Qarn Wukan este un vârf montan notabil din saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.720406,
+                        23.132549
+                  ]
+            },
+            {
+                  "name": "Al Aqar",
+                  "text": "Al Aqar reprezintă un câmp istoric de ruine din saiq-rose-terraces-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        57.737899,
+                        23.120996
+                  ]
+            },
+            {
+                  "name": "Ibadu Rahman Mosque",
+                  "text": "Moscheea Ibadu Rahman este un centru islamic în saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.688402,
+                        23.074178
+                  ]
+            },
+            {
+                  "name": "Jebel Akhdar Mosque",
+                  "text": "Moscheea Jebel Akhdar este un lăcaș de rugăciune musulman local în saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671835,
+                        23.076732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Village walk view point",
+                  "text": "The Village walk view point offers wonderful panoramas in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.662749,
+                        23.071981
+                  ]
+            },
+            {
+                  "name": "Diana's Point",
+                  "text": "Diana's Point is a famous viewing spot located in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.668497,
+                        23.06697
+                  ]
+            },
+            {
+                  "name": "Jabal Al Akhdar Viewpoint",
+                  "text": "The Jabal Al Akhdar Viewpoint showcases the scenic beauty of saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.700895,
+                        23.028175
+                  ]
+            },
+            {
+                  "name": "Qarn al Khuzar",
+                  "text": "Qarn al Khuzar is an impressive peak located in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.718687,
+                        23.031405
+                  ]
+            },
+            {
+                  "name": "Al Jabal Al Akhtar Highest Peak 2090m",
+                  "text": "Al Jabal Al Akhtar Highest Peak 2090m is a top attraction in saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.727955,
+                        23.052826
+                  ]
+            },
+            {
+                  "name": "uitzicht hoogste piek Jebel Al Akdar",
+                  "text": "This viewpoint overlooks the highest peak of Jebel Al Akdar in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.729476,
+                        23.052462
+                  ]
+            },
+            {
+                  "name": "Qarn Wukan",
+                  "text": "Qarn Wukan is a notable mountain peak located in saiq-rose-terraces-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.720406,
+                        23.132549
+                  ]
+            },
+            {
+                  "name": "Al Aqar",
+                  "text": "Al Aqar is a site of historic ruins located in saiq-rose-terraces-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        57.737899,
+                        23.120996
+                  ]
+            },
+            {
+                  "name": "Ibadu Rahman Mosque",
+                  "text": "The Ibadu Rahman Mosque is an Islamic center of worship in saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.688402,
+                        23.074178
+                  ]
+            },
+            {
+                  "name": "Jebel Akhdar Mosque",
+                  "text": "The Jebel Akhdar Mosque is a local Muslim place of worship in saiq-rose-terraces-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671835,
+                        23.076732
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "OM-DA",
     coords: [57.6622, 23.0722],
@@ -675,7 +3078,268 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "birkat-al-mouz-plantations-life-v2",
+    id: "birkat-al-mouz-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zukayt Tombs",
+                  "text": "Eine Reihe antiker Steinturmgräber aus dem 3. Jahrtausend v. Chr., die prominent auf einem felsigen Kamm bei Zukayt liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        57.743679,
+                        22.88031
+                  ]
+            },
+            {
+                  "name": "Jabal Safra",
+                  "text": "Dieser felsige Gipfel bietet einen weiten Blick über die Dattelpalmenhaine und das traditionelle Aflaj-Bewässerungssystem von Birkat Al Mouz.",
+                  "category": "natural",
+                  "coords": [
+                        57.71,
+                        22.9
+                  ]
+            },
+            {
+                  "name": "Spring to refresh",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf das traditionelle Falaj-Bewässerungssystem und die grünen Plantagen von Birkat Al Mouz.",
+                  "category": "natural",
+                  "coords": [
+                        57.666677,
+                        22.92558
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Diese verlassenen Lehmziegelhäuser liegen am Fuße des Jebel Akhdar-Gebirges und zeugen von alter omanischer Baukunst.",
+                  "category": "historical",
+                  "coords": [
+                        57.763133,
+                        22.924608
+                  ]
+            },
+            {
+                  "name": "Mud Village",
+                  "text": "Ein verlassenes Viertel aus Lehmhäusern, das sich malerisch an den Berghang der Oase schmiegt.",
+                  "category": "historical",
+                  "coords": [
+                        57.67343,
+                        22.925164
+                  ]
+            },
+            {
+                  "name": "Little Mudstone Village",
+                  "text": "Kleine Ansammlung verwitterter Steinhäuser am Rande der Dattelpalmenhaine von Birkat Al Mouz.",
+                  "category": "historical",
+                  "coords": [
+                        57.676274,
+                        22.92563
+                  ]
+            },
+            {
+                  "name": "Msjed murtfat Izki",
+                  "text": "Eine lokale Moschee nahe der historischen Kreuzung von Izki, die der örtlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        57.750761,
+                        22.92154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zukayt Tombs",
+                  "text": "I. e. 3. évezredből származó ősi kőtorony-sírok sora, amelyek jellegzetesen egy sziklás gerincen állnak Zukayt közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        57.743679,
+                        22.88031
+                  ]
+            },
+            {
+                  "name": "Jabal Safra",
+                  "text": "Erről a sziklás csúcsról kilátás nyílik Birkat Al Mouz datolyapálma-ligeteire és a hagyományos afladzs öntözőrendszerre.",
+                  "category": "natural",
+                  "coords": [
+                        57.71,
+                        22.9
+                  ]
+            },
+            {
+                  "name": "Spring to refresh",
+                  "text": "Erről a kilátópontról rálátás nyílik Birkat Al Mouz hagyományos falaj öntözőrendszerére és zöldellő ültetvényeire.",
+                  "category": "natural",
+                  "coords": [
+                        57.666677,
+                        22.92558
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Ezek az elhagyatott vályogtégla házak a Dzsebel Ahdar lábánál fekszenek, tanúskodva a régi ománi építészetről.",
+                  "category": "historical",
+                  "coords": [
+                        57.763133,
+                        22.924608
+                  ]
+            },
+            {
+                  "name": "Mud Village",
+                  "text": "Vályogházakból álló elhagyatott negyed, amely festőien simul az oázis hegyoldalához.",
+                  "category": "historical",
+                  "coords": [
+                        57.67343,
+                        22.925164
+                  ]
+            },
+            {
+                  "name": "Little Mudstone Village",
+                  "text": "Kisebb, kőből épült romos házak csoportja Birkat Al Mouz datolyapálma-ligeteinek szélén.",
+                  "category": "historical",
+                  "coords": [
+                        57.676274,
+                        22.92563
+                  ]
+            },
+            {
+                  "name": "Msjed murtfat Izki",
+                  "text": "Helyi mecset Izki történelmi útkereszteződésének közelében, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        57.750761,
+                        22.92154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zukayt Tombs",
+                  "text": "O serie de morminte antice sub formă de turn din piatră, din mileniul III î.Hr., situate proeminent pe o creastă stâncoasă lângă Zukayt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.743679,
+                        22.88031
+                  ]
+            },
+            {
+                  "name": "Jabal Safra",
+                  "text": "Acest vârf stâncos oferă o vedere panoramică asupra curmaliștilor și a sistemului tradițional de irigații aflaj din Birkat Al Mouz.",
+                  "category": "natural",
+                  "coords": [
+                        57.71,
+                        22.9
+                  ]
+            },
+            {
+                  "name": "Spring to refresh",
+                  "text": "Acest punct de observare oferă o priveliște asupra sistemului tradițional de irigații falaj și a plantațiilor verzi din Birkat Al Mouz.",
+                  "category": "natural",
+                  "coords": [
+                        57.666677,
+                        22.92558
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Aceste case părăsite din cărămidă de lut se află la poalele munților Jebel Akhdar, fiind o dovadă a vechii arhitecturi omanezi.",
+                  "category": "historical",
+                  "coords": [
+                        57.763133,
+                        22.924608
+                  ]
+            },
+            {
+                  "name": "Mud Village",
+                  "text": "Un cartier părăsit format din case de lut, care se sprijină pitoresc pe versantul muntelui de lângă oază.",
+                  "category": "historical",
+                  "coords": [
+                        57.67343,
+                        22.925164
+                  ]
+            },
+            {
+                  "name": "Little Mudstone Village",
+                  "text": "O mică grupare de case din piatră măcinate de timp la marginea livezilor de curmali din Birkat Al Mouz.",
+                  "category": "historical",
+                  "coords": [
+                        57.676274,
+                        22.92563
+                  ]
+            },
+            {
+                  "name": "Msjed murtfat Izki",
+                  "text": "O moschee locală lângă intersecția istorică din Izki, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        57.750761,
+                        22.92154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zukayt Tombs",
+                  "text": "A series of ancient stone tower graves from the 3rd millennium BC, perched prominently on a rocky ridge near Zukayt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.743679,
+                        22.88031
+                  ]
+            },
+            {
+                  "name": "Jabal Safra",
+                  "text": "A rocky limestone peak offering views of the date palm plantations and the traditional Aflaj irrigation system of Birkat Al Mouz.",
+                  "category": "natural",
+                  "coords": [
+                        57.71,
+                        22.9
+                  ]
+            },
+            {
+                  "name": "Spring to refresh",
+                  "text": "This viewpoint offers a look over the traditional falaj irrigation system and the lush plantations of Birkat Al Mouz.",
+                  "category": "natural",
+                  "coords": [
+                        57.666677,
+                        22.92558
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "These abandoned mud-brick houses sit at the foot of the Jebel Akhdar mountains, showcasing ancient Omani architecture.",
+                  "category": "historical",
+                  "coords": [
+                        57.763133,
+                        22.924608
+                  ]
+            },
+            {
+                  "name": "Mud Village",
+                  "text": "An abandoned quarter of mud houses nestled picturesquely against the mountain slope of the oasis.",
+                  "category": "historical",
+                  "coords": [
+                        57.67343,
+                        22.925164
+                  ]
+            },
+            {
+                  "name": "Little Mudstone Village",
+                  "text": "A small cluster of weathered stone dwellings on the edge of the Birkat Al Mouz date palm groves.",
+                  "category": "historical",
+                  "coords": [
+                        57.676274,
+                        22.92563
+                  ]
+            },
+            {
+                  "name": "Msjed murtfat Izki",
+                  "text": "A local mosque near the historic Izki crossroads serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        57.750761,
+                        22.92154
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "OM-DA",
     coords: [57.6669, 22.9150],
@@ -723,7 +3387,268 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "al-numan-zoo-life-v2",
+    id: "al-numan-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bullfighting Arena",
+                  "text": "In dieser Arena findet das traditionelle omanische Stier-Butten statt, bei dem die Kraft der Tiere ohne Blutvergießen gemessen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        57.857664,
+                        23.713355
+                  ]
+            },
+            {
+                  "name": "Bait Na'aman",
+                  "text": "Dieses restaurierte befestigte Haus aus dem 17. Jahrhundert zeigt omanische Wohnkultur und Verteidigungsarchitektur.",
+                  "category": "museum",
+                  "coords": [
+                        57.847932,
+                        23.696974
+                  ]
+            },
+            {
+                  "name": "Jariwala Farmhouse",
+                  "text": "Ein befestigtes Anwesen im Landesinneren, das Merkmale der traditionellen ländlichen Architektur der Region Barka aufweist.",
+                  "category": "castle",
+                  "coords": [
+                        57.840758,
+                        23.672776
+                  ]
+            },
+            {
+                  "name": "Barka Fort",
+                  "text": "Diese Küstenfestung ist für ihre markanten Rundtürme bekannt, die einst zur Überwachung der Seewege genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        57.895131,
+                        23.708614
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid Sumhan South",
+                  "text": "Ein ruhiger Ort der Andacht mit schlichtem Design im südlichen Teil von Sumhan.",
+                  "category": "religious",
+                  "coords": [
+                        57.886645,
+                        23.660023
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese Nachbarschaftsmoschee zeichnet sich durch ihre traditionelle Architektur und ihre Rolle als lokaler Treffpunkt aus.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804061,
+                        23.688883
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Eine moderne Moschee mit einem hellen Innenraum, die einen zentralen Punkt für das religiöse Leben im Viertel bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.886495,
+                        23.674591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bullfighting Arena",
+                  "text": "Ebben az arénában tartják a hagyományos ománi bika-összecsapásokat, ahol vérontás nélkül mérik össze az állatok erejét.",
+                  "category": "landmark",
+                  "coords": [
+                        57.857664,
+                        23.713355
+                  ]
+            },
+            {
+                  "name": "Bait Na'aman",
+                  "text": "Ez a 17. századi restaurált erődített ház az ománi lakáskultúrát és védelmi építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        57.847932,
+                        23.696974
+                  ]
+            },
+            {
+                  "name": "Jariwala Farmhouse",
+                  "text": "Megerősített birtok a szárazföld belsejében, amely Barka régió hagyományos vidéki építészetének jegyeit viseli.",
+                  "category": "castle",
+                  "coords": [
+                        57.840758,
+                        23.672776
+                  ]
+            },
+            {
+                  "name": "Barka Fort",
+                  "text": "Ez a tengerparti erőd jellegzetes kerek tornyairól ismert, amelyeket egykor a tengeri útvonalak ellenőrzésére használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        57.895131,
+                        23.708614
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid Sumhan South",
+                  "text": "Egyszerű kialakítású, csendes istentiszteleti hely Sumhan déli részén.",
+                  "category": "religious",
+                  "coords": [
+                        57.886645,
+                        23.660023
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a szomszédsági mecset hagyományos építészetével és helyi találkozóhelyként betöltött szerepével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804061,
+                        23.688883
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Modern mecset világos belső térrel, amely a negyed vallási életének központi pontját alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        57.886495,
+                        23.674591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bullfighting Arena",
+                  "text": "În această arenă are loc tradiționala luptă omaneză cu tauri, unde forța animalelor este măsurată fără vărsare de sânge.",
+                  "category": "landmark",
+                  "coords": [
+                        57.857664,
+                        23.713355
+                  ]
+            },
+            {
+                  "name": "Bait Na'aman",
+                  "text": "Această casă fortificată restaurată din secolul al XVII-lea prezintă cultura locuirii și arhitectura defensivă omaneză.",
+                  "category": "museum",
+                  "coords": [
+                        57.847932,
+                        23.696974
+                  ]
+            },
+            {
+                  "name": "Jariwala Farmhouse",
+                  "text": "O proprietate fortificată în interiorul țării, care prezintă caracteristici ale arhitecturii rurale tradiționale din regiunea Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.840758,
+                        23.672776
+                  ]
+            },
+            {
+                  "name": "Barka Fort",
+                  "text": "Această fortăreață de coastă este cunoscută pentru turnurile sale rotunde distinctive, folosite odinioară pentru monitorizarea rutelor maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        57.895131,
+                        23.708614
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid Sumhan South",
+                  "text": "Un loc liniștit de rugăciune, cu un design simplu, situat în partea de sud a localității Sumhan.",
+                  "category": "religious",
+                  "coords": [
+                        57.886645,
+                        23.660023
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee de cartier se remarcă prin arhitectura sa tradițională și rolul de punct de întâlnire local.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804061,
+                        23.688883
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "O moschee modernă cu un interior luminos, formând un punct central pentru viața religioasă din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.886495,
+                        23.674591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bullfighting Arena",
+                  "text": "This arena hosts traditional Omani bull-butting, where the strength of the animals is tested without bloodshed.",
+                  "category": "landmark",
+                  "coords": [
+                        57.857664,
+                        23.713355
+                  ]
+            },
+            {
+                  "name": "Bait Na'aman",
+                  "text": "This restored 17th-century fortified house showcases Omani domestic life and defensive architecture.",
+                  "category": "museum",
+                  "coords": [
+                        57.847932,
+                        23.696974
+                  ]
+            },
+            {
+                  "name": "Jariwala Farmhouse",
+                  "text": "A fortified inland estate displaying features of the traditional rural architecture of the Barka region.",
+                  "category": "castle",
+                  "coords": [
+                        57.840758,
+                        23.672776
+                  ]
+            },
+            {
+                  "name": "Barka Fort",
+                  "text": "This coastal fort is known for its prominent round towers once used to monitor maritime traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        57.895131,
+                        23.708614
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid Sumhan South",
+                  "text": "A quiet place of worship with a simple design located in the southern part of Sumhan South.",
+                  "category": "religious",
+                  "coords": [
+                        57.886645,
+                        23.660023
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This neighborhood mosque is characterized by its traditional architecture and its role as a local gathering point.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804061,
+                        23.688883
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "A modern mosque with a bright interior, forming a focal point for religious life in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        57.886495,
+                        23.674591
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "OM-BJ",
     coords: [57.8683, 23.6828],
@@ -771,7 +3696,1420 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "oman-aquarium-life-v2",
+    id: "oman-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Barakah Palace",
+                  "text": "Der Al Barakah-Palast ist ein prächtiges Schloss in oman-aquarium-life-v2.",
+                  "category": "castle",
+                  "coords": [
+                        58.093284,
+                        23.708808
+                  ]
+            },
+            {
+                  "name": "Royal Cars Museum",
+                  "text": "Das Royal Cars Museum ist ein Museum für königliche Fahrzeuge in oman-aquarium-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        58.101987,
+                        23.706601
+                  ]
+            },
+            {
+                  "name": "Theater hall",
+                  "text": "Der Theatersaal ist ein Aufführungsort in oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.167149,
+                        23.5912
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Die Al-Rahma-Moschee ist ein Ort der Anbetung in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.225477,
+                        23.641671
+                  ]
+            },
+            {
+                  "name": "Al Zulfa Mosque - Female Prayer Building",
+                  "text": "Das Gebetsgebäude für Frauen der Al-Zulfa-Moschee befindet sich in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.173329,
+                        23.659857
+                  ]
+            },
+            {
+                  "name": "Abi Muather Mosque",
+                  "text": "Die Abi-Muather-Moschee ist ein lokales Gebetshaus in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.202026,
+                        23.626033
+                  ]
+            },
+            {
+                  "name": "Imam Abu Hanifa Mosque",
+                  "text": "Die Imam-Abu-Hanifa-Moschee ist ein religiöses Zentrum in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.192703,
+                        23.6182
+                  ]
+            },
+            {
+                  "name": "Female Prayer Hall in Uthman bin Affan Mosque",
+                  "text": "Der Frauengebetsraum in der Uthman-bin-Affan-Moschee liegt in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.237867,
+                        23.622865
+                  ]
+            },
+            {
+                  "name": "Al Wanasa Shopping",
+                  "text": "Das Einkaufszentrum Al Wanasa Shopping bietet Einkaufsmöglichkeiten in oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.206711,
+                        23.629179
+                  ]
+            },
+            {
+                  "name": "Muscat Shopping",
+                  "text": "Muscat Shopping ist ein bekannter Marktplatz in der Region oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.227159,
+                        23.620841
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "Sale of Food Stuff ist ein Marktplatz für Lebensmittel in oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.198416,
+                        23.624022
+                  ]
+            },
+            {
+                  "name": "studio",
+                  "text": "Das Studio ist eine moderne Attraktion in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.228332,
+                        23.632281
+                  ]
+            },
+            {
+                  "name": "Al Hail Beach",
+                  "text": "Der Al Hail Beach ist eine beliebte Strandattraktion in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.236414,
+                        23.648195
+                  ]
+            },
+            {
+                  "name": "Al Muhaimen Mosque",
+                  "text": "Die Al-Muhaimen-Moschee ist eine islamische Stätte in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193829,
+                        23.679777
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Ibn Aouwf Mosque",
+                  "text": "Die Abdulrahman-Ibn-Aouwf-Moschee dient der muslimischen Gemeinde in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202353,
+                        23.629333
+                  ]
+            },
+            {
+                  "name": "AlGulanda bin Masoud mosque",
+                  "text": "Die AlGulanda-bin-Masoud-Moschee befindet sich in der Stadt oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.111351,
+                        23.650578
+                  ]
+            },
+            {
+                  "name": "Halim Mosque",
+                  "text": "Die Halim-Moschee ist ein Ort des Gebets in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.15351,
+                        23.694302
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Omar Mosque",
+                  "text": "Die Abdullah-bin-Omar-Moschee liegt in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.208383,
+                        23.625178
+                  ]
+            },
+            {
+                  "name": "Abi Darda Mosque",
+                  "text": "Die Abi-Darda-Moschee ist eine muslimische Einrichtung in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.196025,
+                        23.631345
+                  ]
+            },
+            {
+                  "name": "Az Zulfa Mosque",
+                  "text": "Die Az-Zulfa-Moschee ist eine bedeutende Moschee in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172125,
+                        23.660688
+                  ]
+            },
+            {
+                  "name": "Al Majid Mosque",
+                  "text": "Die Al-Majid-Moschee ist ein Ort der Einkehr in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.188857,
+                        23.639385
+                  ]
+            },
+            {
+                  "name": "Moosa bin Abdulrahman bin Hassan Mosque",
+                  "text": "Die Moosa bin Abdulrahman bin Hassan Moschee ist ein islamisches Gotteshaus in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18549,
+                        23.683492
+                  ]
+            },
+            {
+                  "name": "Ladies mosque",
+                  "text": "Die Ladies Mosque ist ein islamisches Gotteshaus in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202271,
+                        23.651071
+                  ]
+            },
+            {
+                  "name": "AlKawthar Mosque",
+                  "text": "Die AlKawthar Moschee ist eine islamische religiöse Stätte in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195715,
+                        23.648203
+                  ]
+            },
+            {
+                  "name": "al Istiqamah Mosque",
+                  "text": "Die al Istiqamah Moschee dient als muslimisches Gotteshaus in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202377,
+                        23.635859
+                  ]
+            },
+            {
+                  "name": "Hamza Ibn Abd Al-Mutaleb Mosque",
+                  "text": "Die Hamza Ibn Abd Al-Mutaleb Moschee ist ein islamischer Gebetsort in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204572,
+                        23.633841
+                  ]
+            },
+            {
+                  "name": "Mazen Bin Ghadouba Mosque",
+                  "text": "Die Mazen Bin Ghadouba Moschee ist ein lokales islamisches Gotteshaus in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204495,
+                        23.62257
+                  ]
+            },
+            {
+                  "name": "Al Khoudh Mosque",
+                  "text": "Die Al Khoudh Moschee ist ein islamisches religiöses Gebäude in der Stadt oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194565,
+                        23.624912
+                  ]
+            },
+            {
+                  "name": "Anas bin Malik Mosque",
+                  "text": "Die Anas bin Malik Moschee bietet Muslimen in oman-aquarium-life-v2 einen Ort der Anbetung.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194679,
+                        23.629604
+                  ]
+            },
+            {
+                  "name": "Abu Bakr al Siddiq Mosque",
+                  "text": "Die Abu Bakr al Siddiq Moschee ist ein islamisches Religionszentrum in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195314,
+                        23.634602
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "Die Al Tawheed Moschee ist ein bemerkenswertes muslimisches Gotteshaus in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.199035,
+                        23.636988
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "Die Quba Moschee dient der islamischen Gemeinde von oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.197408,
+                        23.638759
+                  ]
+            },
+            {
+                  "name": "al Ihsan Mosque",
+                  "text": "Die in oman-aquarium-life-v2 gelegene al Ihsan Moschee ist eine religiöse Stätte für Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        58.187271,
+                        23.633369
+                  ]
+            },
+            {
+                  "name": "Al Julanda bin Majid Mosque",
+                  "text": "Die Al Julanda bin Majid Moschee ist ein islamisches Gotteshaus in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157151,
+                        23.600266
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Omair Al Hinai Mosque",
+                  "text": "Die Mohammed Bin Omair Al Hinai Moschee ist eine muslimische Gebetsstätte in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.189431,
+                        23.630262
+                  ]
+            },
+            {
+                  "name": "Hayy al Marafa Mosque",
+                  "text": "Die Hayy al Marafa Moschee ist ein lokales islamisches Religionsgebäude in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.142513,
+                        23.596093
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos University Mosque",
+                  "text": "Die Sultan Qaboos University Mosque ist eine bedeutende islamische Kultstätte in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.164805,
+                        23.590895
+                  ]
+            },
+            {
+                  "name": "Sa'd ibn Abi Waqqas Mosque",
+                  "text": "Die Sa'd ibn Abi Waqqas Moschee ist ein muslimischer Gebetsort in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.184914,
+                        23.620397
+                  ]
+            },
+            {
+                  "name": "Al Hakim Mosque",
+                  "text": "Die Al Hakim Moschee ist eine islamische religiöse Einrichtung in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18271,
+                        23.609469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Barakah Palace",
+                  "text": "Az Al Barakah-palota egy pompás kastély az oman-aquarium-life-v2 területén.",
+                  "category": "castle",
+                  "coords": [
+                        58.093284,
+                        23.708808
+                  ]
+            },
+            {
+                  "name": "Royal Cars Museum",
+                  "text": "A Royal Cars Museum egy királyi járműveket bemutató múzeum az oman-aquarium-life-v2 régióban.",
+                  "category": "museum",
+                  "coords": [
+                        58.101987,
+                        23.706601
+                  ]
+            },
+            {
+                  "name": "Theater hall",
+                  "text": "A színházterem egy előadóhely az oman-aquarium-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        58.167149,
+                        23.5912
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Az Al Rahma mecset egy istentiszteleti hely az oman-aquarium-life-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        58.225477,
+                        23.641671
+                  ]
+            },
+            {
+                  "name": "Al Zulfa Mosque - Female Prayer Building",
+                  "text": "Az Al Zulfa mecset női imaterme az oman-aquarium-life-v2 területén található.",
+                  "category": "religious",
+                  "coords": [
+                        58.173329,
+                        23.659857
+                  ]
+            },
+            {
+                  "name": "Abi Muather Mosque",
+                  "text": "Az Abi Muather mecset egy helyi imaház az oman-aquarium-life-v2 térségében.",
+                  "category": "religious",
+                  "coords": [
+                        58.202026,
+                        23.626033
+                  ]
+            },
+            {
+                  "name": "Imam Abu Hanifa Mosque",
+                  "text": "Az Imam Abu Hanifa mecset egy vallási központ az oman-aquarium-life-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        58.192703,
+                        23.6182
+                  ]
+            },
+            {
+                  "name": "Female Prayer Hall in Uthman bin Affan Mosque",
+                  "text": "Az Uthman bin Affan mecset női imaterme az oman-aquarium-life-v2 régióban helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        58.237867,
+                        23.622865
+                  ]
+            },
+            {
+                  "name": "Al Wanasa Shopping",
+                  "text": "Az Al Wanasa Shopping bevásárlóközpont vásárlási lehetőségeket kínál az oman-aquarium-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        58.206711,
+                        23.629179
+                  ]
+            },
+            {
+                  "name": "Muscat Shopping",
+                  "text": "A Muscat Shopping egy ismert piac az oman-aquarium-life-v2 térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        58.227159,
+                        23.620841
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "A Sale of Food Stuff élelmiszerpiac az oman-aquarium-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        58.198416,
+                        23.624022
+                  ]
+            },
+            {
+                  "name": "studio",
+                  "text": "A stúdió egy modern látványosság az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.228332,
+                        23.632281
+                  ]
+            },
+            {
+                  "name": "Al Hail Beach",
+                  "text": "Az Al Hail Beach egy népszerű tengerparti látványosság az oman-aquarium-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.236414,
+                        23.648195
+                  ]
+            },
+            {
+                  "name": "Al Muhaimen Mosque",
+                  "text": "Az Al Muhaimen mecset egy iszlám vallási helyszín az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193829,
+                        23.679777
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Ibn Aouwf Mosque",
+                  "text": "Az Abdulrahman Ibn Aouwf mecset a muszlim közösséget szolgálja az oman-aquarium-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202353,
+                        23.629333
+                  ]
+            },
+            {
+                  "name": "AlGulanda bin Masoud mosque",
+                  "text": "Az AlGulanda bin Masoud mecset az oman-aquarium-life-v2 térségben található.",
+                  "category": "landmark",
+                  "coords": [
+                        58.111351,
+                        23.650578
+                  ]
+            },
+            {
+                  "name": "Halim Mosque",
+                  "text": "A Halim mecset egy imádkozóhely az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.15351,
+                        23.694302
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Omar Mosque",
+                  "text": "Az Abdullah bin Omar mecset az oman-aquarium-life-v2 régióban helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        58.208383,
+                        23.625178
+                  ]
+            },
+            {
+                  "name": "Abi Darda Mosque",
+                  "text": "Az Abi Darda mecset egy muszlim létesítmény az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.196025,
+                        23.631345
+                  ]
+            },
+            {
+                  "name": "Az Zulfa Mosque",
+                  "text": "Az Az Zulfa mecset egy jelentős muszlim helyszín az oman-aquarium-life-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172125,
+                        23.660688
+                  ]
+            },
+            {
+                  "name": "Al Majid Mosque",
+                  "text": "Az Al Majid mecset az elmélyülés helyszíne az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.188857,
+                        23.639385
+                  ]
+            },
+            {
+                  "name": "Moosa bin Abdulrahman bin Hassan Mosque",
+                  "text": "A Moosa bin Abdulrahman bin Hassan mecset egy iszlám imahely, amely az oman-aquarium-life-v2 területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18549,
+                        23.683492
+                  ]
+            },
+            {
+                  "name": "Ladies mosque",
+                  "text": "A Ladies mecset egy iszlám imahely az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202271,
+                        23.651071
+                  ]
+            },
+            {
+                  "name": "AlKawthar Mosque",
+                  "text": "Az AlKawthar mecset egy iszlám vallási helyszín, amely az oman-aquarium-life-v2-ben található.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195715,
+                        23.648203
+                  ]
+            },
+            {
+                  "name": "al Istiqamah Mosque",
+                  "text": "Az al Istiqamah mecset muszlim imahelyként szolgál az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202377,
+                        23.635859
+                  ]
+            },
+            {
+                  "name": "Hamza Ibn Abd Al-Mutaleb Mosque",
+                  "text": "A Hamza Ibn Abd Al-Mutaleb mecset egy iszlám imaház az oman-aquarium-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204572,
+                        23.633841
+                  ]
+            },
+            {
+                  "name": "Mazen Bin Ghadouba Mosque",
+                  "text": "A Mazen Bin Ghadouba mecset egy helyi iszlám imahely, amely az oman-aquarium-life-v2-ben található.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204495,
+                        23.62257
+                  ]
+            },
+            {
+                  "name": "Al Khoudh Mosque",
+                  "text": "Az Al Khoudh mecset egy iszlám vallási épület oman-aquarium-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194565,
+                        23.624912
+                  ]
+            },
+            {
+                  "name": "Anas bin Malik Mosque",
+                  "text": "Az Anas bin Malik mecset istentiszteleti helyet biztosít a muszlimok számára az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194679,
+                        23.629604
+                  ]
+            },
+            {
+                  "name": "Abu Bakr al Siddiq Mosque",
+                  "text": "Az Abu Bakr al Siddiq mecset egy iszlám vallási központ, amely az oman-aquarium-life-v2-ben található.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195314,
+                        23.634602
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "Az Al Tawheed mecset egy figyelemre méltó muszlim imahely az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.199035,
+                        23.636988
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "A Quba mecset az oman-aquarium-life-v2 iszlám közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        58.197408,
+                        23.638759
+                  ]
+            },
+            {
+                  "name": "al Ihsan Mosque",
+                  "text": "Az oman-aquarium-life-v2 területén található al Ihsan mecset a muszlimok vallási helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        58.187271,
+                        23.633369
+                  ]
+            },
+            {
+                  "name": "Al Julanda bin Majid Mosque",
+                  "text": "Az Al Julanda bin Majid mecset egy iszlám imahely oman-aquarium-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157151,
+                        23.600266
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Omair Al Hinai Mosque",
+                  "text": "A Mohammed Bin Omair Al Hinai mecset egy muszlim imaház az oman-aquarium-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.189431,
+                        23.630262
+                  ]
+            },
+            {
+                  "name": "Hayy al Marafa Mosque",
+                  "text": "A Hayy al Marafa mecset egy helyi iszlám vallási épület az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.142513,
+                        23.596093
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos University Mosque",
+                  "text": "A Sultan Qaboos Egyetemi Mecset jelentős iszlám istentiszteleti helyként szolgál az oman-aquarium-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.164805,
+                        23.590895
+                  ]
+            },
+            {
+                  "name": "Sa'd ibn Abi Waqqas Mosque",
+                  "text": "A Sa'd ibn Abi Waqqas mecset egy muszlim imaház az oman-aquarium-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.184914,
+                        23.620397
+                  ]
+            },
+            {
+                  "name": "Al Hakim Mosque",
+                  "text": "Az Al Hakim mecset egy iszlám vallási intézmény az oman-aquarium-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18271,
+                        23.609469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Barakah Palace",
+                  "text": "Palatul Al Barakah este un castel magnific din oman-aquarium-life-v2.",
+                  "category": "castle",
+                  "coords": [
+                        58.093284,
+                        23.708808
+                  ]
+            },
+            {
+                  "name": "Royal Cars Museum",
+                  "text": "Muzeul Royal Cars este un muzeu dedicat vehiculelor regale din oman-aquarium-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        58.101987,
+                        23.706601
+                  ]
+            },
+            {
+                  "name": "Theater hall",
+                  "text": "Sala de teatru este un loc pentru spectacole în oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.167149,
+                        23.5912
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Moscheea Al Rahma este un lăcaș de cult situat în oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.225477,
+                        23.641671
+                  ]
+            },
+            {
+                  "name": "Al Zulfa Mosque - Female Prayer Building",
+                  "text": "Clădirea de rugăciune pentru femei a Moscheii Al Zulfa se află în oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.173329,
+                        23.659857
+                  ]
+            },
+            {
+                  "name": "Abi Muather Mosque",
+                  "text": "Moscheea Abi Muather este o casă de rugăciune locală din oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.202026,
+                        23.626033
+                  ]
+            },
+            {
+                  "name": "Imam Abu Hanifa Mosque",
+                  "text": "Moscheea Imam Abu Hanifa este un centru religios din oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.192703,
+                        23.6182
+                  ]
+            },
+            {
+                  "name": "Female Prayer Hall in Uthman bin Affan Mosque",
+                  "text": "Sala de rugăciune pentru femei din Moscheea Uthman bin Affan este situată în oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.237867,
+                        23.622865
+                  ]
+            },
+            {
+                  "name": "Al Wanasa Shopping",
+                  "text": "Centrul comercial Al Wanasa Shopping oferă opțiuni de cumpărături în oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.206711,
+                        23.629179
+                  ]
+            },
+            {
+                  "name": "Muscat Shopping",
+                  "text": "Muscat Shopping este o piață cunoscută din regiunea oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.227159,
+                        23.620841
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "Sale of Food Stuff este o piață de produse alimentare din oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.198416,
+                        23.624022
+                  ]
+            },
+            {
+                  "name": "studio",
+                  "text": "Studioul este o atracție modernă în regiunea oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.228332,
+                        23.632281
+                  ]
+            },
+            {
+                  "name": "Al Hail Beach",
+                  "text": "Plaja Al Hail este o atracție populară pe litoral în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.236414,
+                        23.648195
+                  ]
+            },
+            {
+                  "name": "Al Muhaimen Mosque",
+                  "text": "Moscheea Al Muhaimen este un sit islamic din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193829,
+                        23.679777
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Ibn Aouwf Mosque",
+                  "text": "Moscheea Abdulrahman Ibn Aouwf deservește comunitatea musulmană din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202353,
+                        23.629333
+                  ]
+            },
+            {
+                  "name": "AlGulanda bin Masoud mosque",
+                  "text": "Moscheea AlGulanda bin Masoud se află în orașul oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.111351,
+                        23.650578
+                  ]
+            },
+            {
+                  "name": "Halim Mosque",
+                  "text": "Moscheea Halim este un loc de rugăciune în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.15351,
+                        23.694302
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Omar Mosque",
+                  "text": "Moscheea Abdullah bin Omar se găsește în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.208383,
+                        23.625178
+                  ]
+            },
+            {
+                  "name": "Abi Darda Mosque",
+                  "text": "Moscheea Abi Darda este un lăcaș musulman din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.196025,
+                        23.631345
+                  ]
+            },
+            {
+                  "name": "Az Zulfa Mosque",
+                  "text": "Moscheea Az Zulfa este o moschee importantă din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172125,
+                        23.660688
+                  ]
+            },
+            {
+                  "name": "Al Majid Mosque",
+                  "text": "Moscheea Al Majid este un loc de reculegere în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.188857,
+                        23.639385
+                  ]
+            },
+            {
+                  "name": "Moosa bin Abdulrahman bin Hassan Mosque",
+                  "text": "Moscheea Moosa bin Abdulrahman bin Hassan este un lăcaș de cult islamic situat în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18549,
+                        23.683492
+                  ]
+            },
+            {
+                  "name": "Ladies mosque",
+                  "text": "Moscheea Ladies este un lăcaș de cult islamic din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202271,
+                        23.651071
+                  ]
+            },
+            {
+                  "name": "AlKawthar Mosque",
+                  "text": "Moscheea AlKawthar este un sit religios islamic din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195715,
+                        23.648203
+                  ]
+            },
+            {
+                  "name": "al Istiqamah Mosque",
+                  "text": "Moscheea al Istiqamah servește ca lăcaș de cult musulman în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202377,
+                        23.635859
+                  ]
+            },
+            {
+                  "name": "Hamza Ibn Abd Al-Mutaleb Mosque",
+                  "text": "Moscheea Hamza Ibn Abd Al-Mutaleb este un loc de rugăciune islamic situat în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204572,
+                        23.633841
+                  ]
+            },
+            {
+                  "name": "Mazen Bin Ghadouba Mosque",
+                  "text": "Moscheea Mazen Bin Ghadouba este un lăcaș de cult islamic local situat în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204495,
+                        23.62257
+                  ]
+            },
+            {
+                  "name": "Al Khoudh Mosque",
+                  "text": "Moscheea Al Khoudh este o clădire religioasă islamică situată în orașul oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194565,
+                        23.624912
+                  ]
+            },
+            {
+                  "name": "Anas bin Malik Mosque",
+                  "text": "Moscheea Anas bin Malik oferă un loc de cult pentru musulmanii din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194679,
+                        23.629604
+                  ]
+            },
+            {
+                  "name": "Abu Bakr al Siddiq Mosque",
+                  "text": "Moscheea Abu Bakr al Siddiq este un centru religios islamic situat în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195314,
+                        23.634602
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "Moscheea Al Tawheed este un lăcaș de cult musulman notabil din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.199035,
+                        23.636988
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "Moscheea Quba deservește comunitatea islamică din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.197408,
+                        23.638759
+                  ]
+            },
+            {
+                  "name": "al Ihsan Mosque",
+                  "text": "Situată în oman-aquarium-life-v2, Moscheea al Ihsan este un sit religios pentru musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        58.187271,
+                        23.633369
+                  ]
+            },
+            {
+                  "name": "Al Julanda bin Majid Mosque",
+                  "text": "Moscheea Al Julanda bin Majid este un lăcaș de cult islamic situat în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157151,
+                        23.600266
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Omair Al Hinai Mosque",
+                  "text": "Moscheea Mohammed Bin Omair Al Hinai este o facilitate de rugăciune musulmană din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.189431,
+                        23.630262
+                  ]
+            },
+            {
+                  "name": "Hayy al Marafa Mosque",
+                  "text": "Moscheea Hayy al Marafa este o clădire religioasă islamică locală în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.142513,
+                        23.596093
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos University Mosque",
+                  "text": "Moscheea Universității Sultan Qaboos servește ca un proeminent loc de cult islamic în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.164805,
+                        23.590895
+                  ]
+            },
+            {
+                  "name": "Sa'd ibn Abi Waqqas Mosque",
+                  "text": "Moscheea Sa'd ibn Abi Waqqas este un loc de rugăciune musulman situat în oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.184914,
+                        23.620397
+                  ]
+            },
+            {
+                  "name": "Al Hakim Mosque",
+                  "text": "Moscheea Al Hakim este o instituție religioasă islamică din oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18271,
+                        23.609469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Barakah Palace",
+                  "text": "Al Barakah Palace is a magnificent castle located in oman-aquarium-life-v2.",
+                  "category": "castle",
+                  "coords": [
+                        58.093284,
+                        23.708808
+                  ]
+            },
+            {
+                  "name": "Royal Cars Museum",
+                  "text": "The Royal Cars Museum is a museum displaying royal vehicles in oman-aquarium-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        58.101987,
+                        23.706601
+                  ]
+            },
+            {
+                  "name": "Theater hall",
+                  "text": "The Theater hall is a performance venue located in oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.167149,
+                        23.5912
+                  ]
+            },
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Al Rahma Mosque is a place of worship situated in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.225477,
+                        23.641671
+                  ]
+            },
+            {
+                  "name": "Al Zulfa Mosque - Female Prayer Building",
+                  "text": "The Female Prayer Building of the Al Zulfa Mosque is located in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.173329,
+                        23.659857
+                  ]
+            },
+            {
+                  "name": "Abi Muather Mosque",
+                  "text": "Abi Muather Mosque is a local house of prayer in the oman-aquarium-life-v2 area.",
+                  "category": "religious",
+                  "coords": [
+                        58.202026,
+                        23.626033
+                  ]
+            },
+            {
+                  "name": "Imam Abu Hanifa Mosque",
+                  "text": "Imam Abu Hanifa Mosque is a religious center located in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.192703,
+                        23.6182
+                  ]
+            },
+            {
+                  "name": "Female Prayer Hall in Uthman bin Affan Mosque",
+                  "text": "The Female Prayer Hall in Uthman bin Affan Mosque is located in oman-aquarium-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        58.237867,
+                        23.622865
+                  ]
+            },
+            {
+                  "name": "Al Wanasa Shopping",
+                  "text": "Al Wanasa Shopping is a marketplace providing shopping opportunities in oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.206711,
+                        23.629179
+                  ]
+            },
+            {
+                  "name": "Muscat Shopping",
+                  "text": "Muscat Shopping is a prominent marketplace in the oman-aquarium-life-v2 region.",
+                  "category": "cultural",
+                  "coords": [
+                        58.227159,
+                        23.620841
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "Sale of Food Stuff is a food marketplace located in oman-aquarium-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        58.198416,
+                        23.624022
+                  ]
+            },
+            {
+                  "name": "studio",
+                  "text": "The studio is a modern attraction located within oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.228332,
+                        23.632281
+                  ]
+            },
+            {
+                  "name": "Al Hail Beach",
+                  "text": "Al Hail Beach is a popular coastal attraction in the oman-aquarium-life-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        58.236414,
+                        23.648195
+                  ]
+            },
+            {
+                  "name": "Al Muhaimen Mosque",
+                  "text": "Al Muhaimen Mosque is an Islamic site located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.193829,
+                        23.679777
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Ibn Aouwf Mosque",
+                  "text": "Abdulrahman Ibn Aouwf Mosque serves the Muslim community in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202353,
+                        23.629333
+                  ]
+            },
+            {
+                  "name": "AlGulanda bin Masoud mosque",
+                  "text": "AlGulanda bin Masoud mosque is situated in the city of oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.111351,
+                        23.650578
+                  ]
+            },
+            {
+                  "name": "Halim Mosque",
+                  "text": "Halim Mosque is a place of prayer located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.15351,
+                        23.694302
+                  ]
+            },
+            {
+                  "name": "Abdullah bin Omar Mosque",
+                  "text": "Abdullah bin Omar Mosque is located in the oman-aquarium-life-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        58.208383,
+                        23.625178
+                  ]
+            },
+            {
+                  "name": "Abi Darda Mosque",
+                  "text": "Abi Darda Mosque is a Muslim facility located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.196025,
+                        23.631345
+                  ]
+            },
+            {
+                  "name": "Az Zulfa Mosque",
+                  "text": "Az Zulfa Mosque is a prominent Muslim site in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172125,
+                        23.660688
+                  ]
+            },
+            {
+                  "name": "Al Majid Mosque",
+                  "text": "Al Majid Mosque is a place of reflection located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.188857,
+                        23.639385
+                  ]
+            },
+            {
+                  "name": "Moosa bin Abdulrahman bin Hassan Mosque",
+                  "text": "Moosa bin Abdulrahman bin Hassan Mosque is an Islamic place of worship located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18549,
+                        23.683492
+                  ]
+            },
+            {
+                  "name": "Ladies mosque",
+                  "text": "The Ladies mosque is a dedicated Islamic place of worship located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202271,
+                        23.651071
+                  ]
+            },
+            {
+                  "name": "AlKawthar Mosque",
+                  "text": "AlKawthar Mosque is an Islamic religious site located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195715,
+                        23.648203
+                  ]
+            },
+            {
+                  "name": "al Istiqamah Mosque",
+                  "text": "The al Istiqamah Mosque serves as a Muslim place of worship in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.202377,
+                        23.635859
+                  ]
+            },
+            {
+                  "name": "Hamza Ibn Abd Al-Mutaleb Mosque",
+                  "text": "Hamza Ibn Abd Al-Mutaleb Mosque is an Islamic place of prayer located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204572,
+                        23.633841
+                  ]
+            },
+            {
+                  "name": "Mazen Bin Ghadouba Mosque",
+                  "text": "The Mazen Bin Ghadouba Mosque is a local Islamic place of worship situated in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.204495,
+                        23.62257
+                  ]
+            },
+            {
+                  "name": "Al Khoudh Mosque",
+                  "text": "Al Khoudh Mosque is an Islamic religious building located in the city of oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194565,
+                        23.624912
+                  ]
+            },
+            {
+                  "name": "Anas bin Malik Mosque",
+                  "text": "Anas bin Malik Mosque provides a place of worship for Muslims in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.194679,
+                        23.629604
+                  ]
+            },
+            {
+                  "name": "Abu Bakr al Siddiq Mosque",
+                  "text": "The Abu Bakr al Siddiq Mosque is an Islamic religious center situated in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.195314,
+                        23.634602
+                  ]
+            },
+            {
+                  "name": "Al Tawheed Mosque",
+                  "text": "Al Tawheed Mosque is a notable Muslim place of worship in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.199035,
+                        23.636988
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "The Quba Mosque serves the Islamic community of oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.197408,
+                        23.638759
+                  ]
+            },
+            {
+                  "name": "al Ihsan Mosque",
+                  "text": "Situated in oman-aquarium-life-v2, al Ihsan Mosque is a religious site for Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        58.187271,
+                        23.633369
+                  ]
+            },
+            {
+                  "name": "Al Julanda bin Majid Mosque",
+                  "text": "Al Julanda bin Majid Mosque is an Islamic place of worship located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157151,
+                        23.600266
+                  ]
+            },
+            {
+                  "name": "Mohammed Bin Omair Al Hinai Mosque",
+                  "text": "The Mohammed Bin Omair Al Hinai Mosque is a Muslim prayer facility in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.189431,
+                        23.630262
+                  ]
+            },
+            {
+                  "name": "Hayy al Marafa Mosque",
+                  "text": "Hayy al Marafa Mosque is a local Islamic religious building in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.142513,
+                        23.596093
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos University Mosque",
+                  "text": "The Sultan Qaboos University Mosque serves as a prominent Islamic worship site within oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.164805,
+                        23.590895
+                  ]
+            },
+            {
+                  "name": "Sa'd ibn Abi Waqqas Mosque",
+                  "text": "Sa'd ibn Abi Waqqas Mosque is a Muslim place of prayer located in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.184914,
+                        23.620397
+                  ]
+            },
+            {
+                  "name": "Al Hakim Mosque",
+                  "text": "Al Hakim Mosque is an Islamic religious institution in oman-aquarium-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.18271,
+                        23.609469
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "OM-MA",
     coords: [58.1408, 23.6339],
@@ -819,7 +5157,160 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "marah-land-life-v2",
+    id: "marah-land-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Qurm natural Park",
+                  "text": "Der Al Qurm natural Park ist eine Attraktion in marah-land-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.492265,
+                        23.621748
+                  ]
+            },
+            {
+                  "name": "marah land",
+                  "text": "Marah Land ist ein Freizeitpark in marah-land-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.493346,
+                        23.619432
+                  ]
+            },
+            {
+                  "name": "Fun zone",
+                  "text": "Die Fun Zone ist eine Attraktion in marah-land-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.489481,
+                        23.622631
+                  ]
+            },
+            {
+                  "name": "Al Qurm Nature Reserve",
+                  "text": "Das Al Qurm Nature Reserve ist ein Naturschutzgebiet in marah-land-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        58.478147,
+                        23.620051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Qurm natural Park",
+                  "text": "Az Al Qurm natural Park egy látványosság marah-land-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.492265,
+                        23.621748
+                  ]
+            },
+            {
+                  "name": "marah land",
+                  "text": "A Marah Land egy vidámpark marah-land-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        58.493346,
+                        23.619432
+                  ]
+            },
+            {
+                  "name": "Fun zone",
+                  "text": "A Fun Zone egy látványosság marah-land-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        58.489481,
+                        23.622631
+                  ]
+            },
+            {
+                  "name": "Al Qurm Nature Reserve",
+                  "text": "Az Al Qurm Nature Reserve egy természetvédelmi terület marah-land-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        58.478147,
+                        23.620051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Qurm natural Park",
+                  "text": "Parcul natural Al Qurm este o atracție în marah-land-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.492265,
+                        23.621748
+                  ]
+            },
+            {
+                  "name": "marah land",
+                  "text": "Marah Land este un parc de distracții în marah-land-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.493346,
+                        23.619432
+                  ]
+            },
+            {
+                  "name": "Fun zone",
+                  "text": "Fun Zone este o atracție în marah-land-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.489481,
+                        23.622631
+                  ]
+            },
+            {
+                  "name": "Al Qurm Nature Reserve",
+                  "text": "Al Qurm Nature Reserve este o rezervație naturală din marah-land-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        58.478147,
+                        23.620051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Qurm natural Park",
+                  "text": "The Al Qurm natural Park is an attraction in marah-land-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.492265,
+                        23.621748
+                  ]
+            },
+            {
+                  "name": "marah land",
+                  "text": "Marah Land is a theme park in marah-land-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        58.493346,
+                        23.619432
+                  ]
+            },
+            {
+                  "name": "Fun zone",
+                  "text": "The Fun zone is an attraction in marah-land-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        58.489481,
+                        23.622631
+                  ]
+            },
+            {
+                  "name": "Al Qurm Nature Reserve",
+                  "text": "The Al Qurm Nature Reserve is a nature reserve in marah-land-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        58.478147,
+                        23.620051
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "OM-MA",
     coords: [58.4842, 23.6186],
@@ -867,7 +5358,268 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "snow-oman-life-v2",
+    id: "snow-oman-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gurudwara Sikh temple",
+                  "text": "Ein spirituelles Zentrum der Sikh-Gemeinschaft in Muscat mit einer markanten weißen Fassade und Gebetshallen.",
+                  "category": "landmark",
+                  "coords": [
+                        58.375839,
+                        23.570847
+                  ]
+            },
+            {
+                  "name": "Jal Mosque",
+                  "text": "Eine lokale Gemeindemoschee im modernen Viertel von Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.403005,
+                        23.550816
+                  ]
+            },
+            {
+                  "name": "Sheikh Hilal bin Ali Mosque",
+                  "text": "Diese Moschee ist ein zentraler Gebetsort für die Anwohner im Stadtteil Ghala.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398344,
+                        23.543237
+                  ]
+            },
+            {
+                  "name": "St. Mary's Orthodox Church, Ghala",
+                  "text": "Eine indisch-orthodoxe Kirche im Industriegebiet Ghala, die der expatriierten Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.384496,
+                        23.571108
+                  ]
+            },
+            {
+                  "name": "PCO",
+                  "text": "Ein Versammlungsort für verschiedene protestantische Gemeinden in der Region Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.383166,
+                        23.570763
+                  ]
+            },
+            {
+                  "name": "Eat Smart",
+                  "text": "Ein auf gesunde Lebensmittel spezialisierter Markt und Speiseort in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        58.402292,
+                        23.558506
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "Ein traditioneller lokaler Markt, der frische Lebensmittel und Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383911,
+                        23.534278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gurudwara Sikh temple",
+                  "text": "A maszkat szikh közösség spirituális központja jellegzetes fehér homlokzattal és imatermekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        58.375839,
+                        23.570847
+                  ]
+            },
+            {
+                  "name": "Jal Mosque",
+                  "text": "Egy helyi közösségi mecset Maszkat modern városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.403005,
+                        23.550816
+                  ]
+            },
+            {
+                  "name": "Sheikh Hilal bin Ali Mosque",
+                  "text": "Ez a mecset Ghala negyed lakóinak központi imádkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398344,
+                        23.543237
+                  ]
+            },
+            {
+                  "name": "St. Mary's Orthodox Church, Ghala",
+                  "text": "Egy indiai ortodox templom a Ghala ipari negyedben, amely a külföldi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        58.384496,
+                        23.571108
+                  ]
+            },
+            {
+                  "name": "PCO",
+                  "text": "Gyülekezőhely Maszkat különböző protestáns közösségei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        58.383166,
+                        23.570763
+                  ]
+            },
+            {
+                  "name": "Eat Smart",
+                  "text": "Egészséges élelmiszerekre szakosodott piac és étkezőhely a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.402292,
+                        23.558506
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "Hagyományos helyi piac, ahol friss élelmiszereket és napi cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383911,
+                        23.534278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gurudwara Sikh temple",
+                  "text": "Un centru spiritual al comunității sikh din Muscat, cu o fațadă albă proeminentă și săli de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        58.375839,
+                        23.570847
+                  ]
+            },
+            {
+                  "name": "Jal Mosque",
+                  "text": "O moschee comunitară locală situată în cartierul modern din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.403005,
+                        23.550816
+                  ]
+            },
+            {
+                  "name": "Sheikh Hilal bin Ali Mosque",
+                  "text": "Această moschee este un loc central de rugăciune pentru locuitorii din districtul Ghala.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398344,
+                        23.543237
+                  ]
+            },
+            {
+                  "name": "St. Mary's Orthodox Church, Ghala",
+                  "text": "O biserică ortodoxă indiană aflată în zona industrială Ghala, care deservește comunitatea de expatriați.",
+                  "category": "landmark",
+                  "coords": [
+                        58.384496,
+                        23.571108
+                  ]
+            },
+            {
+                  "name": "PCO",
+                  "text": "Un loc de adunare pentru diversele comunități protestante din regiunea Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.383166,
+                        23.570763
+                  ]
+            },
+            {
+                  "name": "Eat Smart",
+                  "text": "O piață și un loc de luat masa specializat în alimente sănătoase în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        58.402292,
+                        23.558506
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "O piață locală tradițională care oferă alimente proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383911,
+                        23.534278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gurudwara Sikh temple",
+                  "text": "A spiritual center for the Sikh community in Muscat featuring a prominent white facade and prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        58.375839,
+                        23.570847
+                  ]
+            },
+            {
+                  "name": "Jal Mosque",
+                  "text": "A local community mosque serving the residents in the modern district of Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.403005,
+                        23.550816
+                  ]
+            },
+            {
+                  "name": "Sheikh Hilal bin Ali Mosque",
+                  "text": "This mosque serves as a central place of worship for residents in the Ghala district.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398344,
+                        23.543237
+                  ]
+            },
+            {
+                  "name": "St. Mary's Orthodox Church, Ghala",
+                  "text": "An Indian Orthodox church located in the Ghala industrial area, serving the expatriate community.",
+                  "category": "landmark",
+                  "coords": [
+                        58.384496,
+                        23.571108
+                  ]
+            },
+            {
+                  "name": "PCO",
+                  "text": "A gathering place for various Protestant congregations in the Muscat region.",
+                  "category": "landmark",
+                  "coords": [
+                        58.383166,
+                        23.570763
+                  ]
+            },
+            {
+                  "name": "Eat Smart",
+                  "text": "A market and dining spot in the city specializing in healthy food options.",
+                  "category": "cultural",
+                  "coords": [
+                        58.402292,
+                        23.558506
+                  ]
+            },
+            {
+                  "name": "Sale of Food Stuff",
+                  "text": "A traditional local market offering fresh food supplies and daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383911,
+                        23.534278
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "OM-MA",
     coords: [58.3847, 23.5683],
@@ -915,7 +5667,232 @@ export const poiExtraOmanLifeV2: POI[] = [
     }
   },
   {
-    id: "hawana-aqua-park-life-v2",
+    id: "hawana-aqua-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dolphin Cruise Dhow",
+                  "text": "Ausflüge mit traditionellen Dhow-Booten ab der Marina, um wilde Delfine in den Gewässern des Arabischen Meeres zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        54.301695,
+                        17.025483
+                  ]
+            },
+            {
+                  "name": "Ar Rizat",
+                  "text": "Antike Steinreste in der Nähe der ergiebigen Quellen von Rizat, die einst Teil einer historischen Bewässerungsanlage waren.",
+                  "category": "historical",
+                  "coords": [
+                        54.277661,
+                        17.026681
+                  ]
+            },
+            {
+                  "name": "Hawana Aquapark",
+                  "text": "Ein moderner Wasserpark mit zahlreichen Rutschen und einem großen Wellenbecken für Familienunterhaltung an der Küste von Dhofar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29427,
+                        17.038279
+                  ]
+            },
+            {
+                  "name": "Ayn Umran",
+                  "text": "Eine natürliche Thermalquelle am Fuße der Berge, die von üppigen Obstplantagen und Kokospalmen umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Khawr Sawli Reserve",
+                  "text": "Ein Brackwasser-Lagunenschutzgebiet, das einen wichtigen Lebensraum für zahlreiche Zugvogelarten und Kleinsäuger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        54.330284,
+                        17.039601
+                  ]
+            },
+            {
+                  "name": "Mamura Palace",
+                  "text": "Ein königlicher Palast aus dem Jahr 1929, der für seine elegante arabische Architektur und seine gepflegten Gärten bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        54.230583,
+                        17.06045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolphin Cruise Dhow",
+                  "text": "Hagyományos dhow hajókkal induló kirándulások a kikötőből, az Arab-tengerben élő vadon élő delfinek megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        54.301695,
+                        17.025483
+                  ]
+            },
+            {
+                  "name": "Ar Rizat",
+                  "text": "Ókori kőmaradványok Rizat bőséges forrásainak közelében, amelyek egykor egy történelmi öntözőrendszer részei voltak.",
+                  "category": "historical",
+                  "coords": [
+                        54.277661,
+                        17.026681
+                  ]
+            },
+            {
+                  "name": "Hawana Aquapark",
+                  "text": "Modern vízipark számos csúszdával és egy hatalmas hullámmedencével a családi szórakozásért Dhofar partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29427,
+                        17.038279
+                  ]
+            },
+            {
+                  "name": "Ayn Umran",
+                  "text": "Természetes hévízforrás a hegyek lábánál, amelyet buja gyümölcsöskertek és kókuszpálmák vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Khawr Sawli Reserve",
+                  "text": "Brakkvizes lagúna-rezervátum, amely fontos élőhelyet biztosít számos vándormadárfaj és kisemlős számára.",
+                  "category": "natural",
+                  "coords": [
+                        54.330284,
+                        17.039601
+                  ]
+            },
+            {
+                  "name": "Mamura Palace",
+                  "text": "Egy 1929-ben épült királyi palota, amely elegáns arab építészetéről és gondozott kertjeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        54.230583,
+                        17.06045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolphin Cruise Dhow",
+                  "text": "Excursii cu bărci tradiționale dhow din marină pentru a observa delfinii sălbatici în apele Mării Arabiei.",
+                  "category": "landmark",
+                  "coords": [
+                        54.301695,
+                        17.025483
+                  ]
+            },
+            {
+                  "name": "Ar Rizat",
+                  "text": "Rămășițe antice de piatră lângă izvoarele bogate din Rizat, care au făcut parte odinioară dintr-un sistem istoric de irigații.",
+                  "category": "historical",
+                  "coords": [
+                        54.277661,
+                        17.026681
+                  ]
+            },
+            {
+                  "name": "Hawana Aquapark",
+                  "text": "Un parc acvatic modern cu numeroase tobogane și o piscină mare cu valuri pentru divertismentul familiilor pe coasta Dhofar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29427,
+                        17.038279
+                  ]
+            },
+            {
+                  "name": "Ayn Umran",
+                  "text": "Un izvor termal natural la poalele munților, înconjurat de livezi luxuriante și palmieri de cocos.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Khawr Sawli Reserve",
+                  "text": "O rezervație într-o lagună cu apă salmastră, care oferă un habitat important pentru numeroase specii de păsări migratoare și mamifere mici.",
+                  "category": "natural",
+                  "coords": [
+                        54.330284,
+                        17.039601
+                  ]
+            },
+            {
+                  "name": "Mamura Palace",
+                  "text": "Un palat regal construit în 1929, renumit pentru arhitectura sa arabă elegantă și grădinile sale bine întreținute.",
+                  "category": "castle",
+                  "coords": [
+                        54.230583,
+                        17.06045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dolphin Cruise Dhow",
+                  "text": "Excursions with traditional dhow boats from the marina to observe wild dolphins in the waters of the Arabian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        54.301695,
+                        17.025483
+                  ]
+            },
+            {
+                  "name": "Ar Rizat",
+                  "text": "Ancient stone remains near the abundant springs of Rizat, which were once part of a historical irrigation system.",
+                  "category": "historical",
+                  "coords": [
+                        54.277661,
+                        17.026681
+                  ]
+            },
+            {
+                  "name": "Hawana Aquapark",
+                  "text": "A modern water park with numerous slides and a large wave pool for family entertainment on the Dhofar coast.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29427,
+                        17.038279
+                  ]
+            },
+            {
+                  "name": "Ayn Umran",
+                  "text": "A natural thermal spring at the foot of the mountains, surrounded by lush fruit orchards and coconut palms.",
+                  "category": "landmark",
+                  "coords": [
+                        54.29,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Khawr Sawli Reserve",
+                  "text": "A brackish water lagoon reserve that provides an important habitat for numerous migratory bird species and small mammals.",
+                  "category": "natural",
+                  "coords": [
+                        54.330284,
+                        17.039601
+                  ]
+            },
+            {
+                  "name": "Mamura Palace",
+                  "text": "A royal palace built in 1929, known for its elegant Arabic architecture and well-manicured gardens.",
+                  "category": "castle",
+                  "coords": [
+                        54.230583,
+                        17.06045
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "OM-ZU",
     coords: [54.2647, 17.0319],

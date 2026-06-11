@@ -16,7 +16,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Cove",
-                  "text": "The Cove ist ein Strand bei Arklow.",
+                  "text": "Sandige Bucht an der Küste von Arklow, ideal zum Baden.",
                   "category": "recreational",
                   "coords": [
                         -6.145167,
@@ -135,7 +135,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Cove",
-                  "text": "A The Cove egy strand Arklow közelében.",
+                  "text": "Homokos öböl Arklow partján, fürdőzésre alkalmas.",
                   "category": "recreational",
                   "coords": [
                         -6.145167,
@@ -254,7 +254,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Cove",
-                  "text": "The Cove este o plajă lângă Arklow.",
+                  "text": "Golfuleț nisipos pe coasta Arklow-ului, potrivit pentru scăldat.",
                   "category": "recreational",
                   "coords": [
                         -6.145167,
@@ -373,7 +373,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Cove",
-                  "text": "The Cove is a beach near Arklow.",
+                  "text": "Sandy cove on the Arklow coast, suitable for swimming.",
                   "category": "recreational",
                   "coords": [
                         -6.145167,
@@ -570,7 +570,268 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-ashbourne-cities-v2.webp",
   },
   {
-    id: "ireland-ballincollig-cities-v2", "sights": {"de": [{"name": "Stone Beach", "text": "In der Nähe der Stadt Ballincollig gelegen, bietet Stone Beach einen texturreichen und stimmungsvollen Rückzugsort an einem Flussufer. Die Umgebung versprüht einen ruhigen, beinahe rustikalen Charme, wo man stundenlang Steine flippen lassen oder nah an der Natur spazieren kann. Er gilt als fantastischer Geheimtipp für alle, die eine friedliche Auszeit fernab der städtischen Hektik suchen.", "category": "recreational", "coords": [-8.575212, 51.897112]}, {"name": "Carrigrohane Castle", "text": "Eine historische Burg in Ballincollig.", "category": "castle", "coords": [-8.559893, 51.896444]}, {"name": "Ballincollig Castle", "text": "Eine Burgruine aus dem 14. Jahrhundert in Ballincollig.", "category": "castle", "coords": [-8.599873, 51.8793]}, {"name": "Gunpowder Mills", "text": "Ruinen einer historischen Schießpulverfabrik in Ballincollig.", "category": "historical", "coords": [-8.592219, 51.89403]}, {"name": "Old Mill Race Tunnel", "text": "Ruinen eines alten Mühlentunnels in Ballincollig.", "category": "historical", "coords": [-8.561996, 51.89616]}, {"name": "St. Marys and St. Johns Church", "text": "Eine Kirche in Ballincollig.", "category": "religious", "coords": [-8.590433, 51.885899]}, {"name": "Saint Peter's", "text": "Eine Kirche in Ballincollig.", "category": "religious", "coords": [-8.558566, 51.894902]}], "hu": [{"name": "Stone Beach", "text": "A Ballincollig városa közelében található Stone Beach egy kavicsos, hangulatos folyóparti menedéket kínál. A környezet nyugodt, szinte rusztikus bájjal rendelkezik, ahol órákat tölthetünk kacsázással vagy a természet közeli sétákkal. Fantasztikus rejtett gyöngyszem mindazok számára, akik a városi rohanásból egy békés helyre vágynak.", "category": "recreational", "coords": [-8.575212, 51.897112]}, {"name": "Carrigrohane Castle", "text": "Történelmi vár Ballincolligban.", "category": "castle", "coords": [-8.559893, 51.896444]}, {"name": "Ballincollig Castle", "text": "14. századi várrom Ballincolligban.", "category": "castle", "coords": [-8.599873, 51.8793]}, {"name": "Gunpowder Mills", "text": "Egy történelmi lőporgyár romjai Ballincolligban.", "category": "historical", "coords": [-8.592219, 51.89403]}, {"name": "Old Mill Race Tunnel", "text": "Egy régi malomcsatorna-alagút romjai Ballincolligban.", "category": "historical", "coords": [-8.561996, 51.89616]}, {"name": "St. Marys and St. Johns Church", "text": "Templom Ballincolligban.", "category": "religious", "coords": [-8.590433, 51.885899]}, {"name": "Saint Peter's", "text": "Templom Ballincolligban.", "category": "religious", "coords": [-8.558566, 51.894902]}], "ro": [{"name": "Stone Beach", "text": "Poziționată în apropierea orașului Ballincollig, Stone Beach oferă o retragere pe malul râului cu textură și atmosferă deosebită. Mediul are un farmec liniștit, aproape rustic, unde puteți petrece ore întregi aruncând pietre pe apă sau mergând aproape de natură. Este o bijuterie ascunsă fantastică pentru oricine caută o evadare liniștită din agitația urbană.", "category": "recreational", "coords": [-8.575212, 51.897112]}, {"name": "Carrigrohane Castle", "text": "Un castel istoric în Ballincollig.", "category": "castle", "coords": [-8.559893, 51.896444]}, {"name": "Ballincollig Castle", "text": "O ruină de castel din secolul al XIV-lea în Ballincollig.", "category": "castle", "coords": [-8.599873, 51.8793]}, {"name": "Gunpowder Mills", "text": "Ruinele unei fabrici istorice de praf de pușcă în Ballincollig.", "category": "historical", "coords": [-8.592219, 51.89403]}, {"name": "Old Mill Race Tunnel", "text": "Ruinele unui vechi tunel de moară în Ballincollig.", "category": "historical", "coords": [-8.561996, 51.89616]}, {"name": "St. Marys and St. Johns Church", "text": "O biserică în Ballincollig.", "category": "religious", "coords": [-8.590433, 51.885899]}, {"name": "Saint Peter's", "text": "O biserică în Ballincollig.", "category": "religious", "coords": [-8.558566, 51.894902]}], "en": [{"name": "Stone Beach", "text": "Positioned near the town of Ballincollig, Stone Beach provides a textured and atmospheric riverside retreat. The environment carries a tranquil, almost rustic charm, where one can spend hours skimming stones or walking close to nature. It is a fantastic hidden gem for anyone seeking a peaceful escape from the urban rush.", "category": "recreational", "coords": [-8.575212, 51.897112]}, {"name": "Carrigrohane Castle", "text": "A historic castle in Ballincollig.", "category": "castle", "coords": [-8.559893, 51.896444]}, {"name": "Ballincollig Castle", "text": "A 14th-century castle ruin in Ballincollig.", "category": "castle", "coords": [-8.599873, 51.8793]}, {"name": "Gunpowder Mills", "text": "Ruins of a historic gunpowder factory in Ballincollig.", "category": "historical", "coords": [-8.592219, 51.89403]}, {"name": "Old Mill Race Tunnel", "text": "Ruins of an old mill race tunnel in Ballincollig.", "category": "historical", "coords": [-8.561996, 51.89616]}, {"name": "St. Marys and St. Johns Church", "text": "A church in Ballincollig.", "category": "religious", "coords": [-8.590433, 51.885899]}, {"name": "Saint Peter's", "text": "A church in Ballincollig.", "category": "religious", "coords": [-8.558566, 51.894902]}]},
+    id: "ireland-ballincollig-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Beach",
+                  "text": "In der Nähe der Stadt Ballincollig gelegen, bietet Stone Beach einen texturreichen und stimmungsvollen Rückzugsort an einem Flussufer. Die Umgebung versprüht einen ruhigen, beinahe rustikalen Charme, wo man stundenlang Steine flippen lassen oder nah an der Natur spazieren kann. Er gilt als fantastischer Geheimtipp für alle, die eine friedliche Auszeit fernab der städtischen Hektik suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "Carrigrohane Castle, ein mittelalterliches Tower House in Ballincollig am River Lee.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "Mittelalterlicher Turmhausburg aus dem 15. Jahrhundert am Fluss Lee in Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Ruinen einer historischen Schießpulverfabrik in Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "Steinerner Mühlkanal-Tunnel aus dem 19. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "Die Kirche St. Maria und St. Johannes in Ballincollig, eine Kirche der Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Die St.-Peter-Kirche in Ballincollig, eine römisch-katholische Kirche mit einem spitzen Turm.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Beach",
+                  "text": "A Ballincollig városa közelében található Stone Beach egy kavicsos, hangulatos folyóparti menedéket kínál. A környezet nyugodt, szinte rusztikus bájjal rendelkezik, ahol órákat tölthetünk kacsázással vagy a természet közeli sétákkal. Fantasztikus rejtett gyöngyszem mindazok számára, akik a városi rohanásból egy békés helyre vágynak.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "A Carrigrohane-kastély, egy középkori toronyház Ballincolligban a Lee folyó mellett.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "15. századi középkori toronyházvár Ballincolligban a Lee folyó mellett.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Egy történelmi lőporgyár romjai Ballincolligban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "19. századi kő malomcsatorna-alagút.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "A Szent Mária és Szent János templom Ballincolligban, az Ír Egyház temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "A Szent Péter-templom Ballincolligban, egy római katolikus templom hegyes toronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Beach",
+                  "text": "Poziționată în apropierea orașului Ballincollig, Stone Beach oferă o retragere pe malul râului cu textură și atmosferă deosebită. Mediul are un farmec liniștit, aproape rustic, unde puteți petrece ore întregi aruncând pietre pe apă sau mergând aproape de natură. Este o bijuterie ascunsă fantastică pentru oricine caută o evadare liniștită din agitația urbană.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "Castelul Carrigrohane, un turn medieval în Ballincollig, pe malul râului Lee.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "Castel-casă-turn medieval din secolul al XV-lea în Ballincollig, lângă râul Lee.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Ruinele unei fabrici istorice de praf de pușcă în Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "Tunel de piatră al unui canal de moară din secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "Biserica Sf. Maria și Sf. Ioan din Ballincollig, o biserică a Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Biserica Sf. Petru din Ballincollig, o biserică romano-catolică cu un turn ascuțit.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Beach",
+                  "text": "Positioned near the town of Ballincollig, Stone Beach provides a textured and atmospheric riverside retreat. The environment carries a tranquil, almost rustic charm, where one can spend hours skimming stones or walking close to nature. It is a fantastic hidden gem for anyone seeking a peaceful escape from the urban rush.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "Carrigrohane Castle, a medieval tower house in Ballincollig on the River Lee.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "15th-century medieval tower house castle in Ballincollig, beside the River Lee.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Ruins of a historic gunpowder factory in Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "19th-century stone mill race tunnel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "St. Mary's and St. John's Church in Ballincollig, a Church of Ireland church.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Saint Peter's Church in Ballincollig, a Roman Catholic church with a pointed spire.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Ballincollig", hu: "Ballincollig", ro: "Ballincollig", en: "Ballincollig" },
@@ -619,7 +880,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mid-Antrim Museum",
-                  "text": "Ein Museum in Ballymena, das die Geschichte von Mid-Antrim präsentiert.",
+                  "text": "Das Mid-Antrim Museum in Ballymena, das die lokale Geschichte der Region zeigt.",
                   "category": "museum",
                   "coords": [
                         -6.27671,
@@ -673,7 +934,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "County Hall",
-                  "text": "Das Verwaltungszentrum des County Antrim in Ballymena.",
+                  "text": "Historisches Verwaltungsgebäude in Ballymena, ehemals Sitz des County Council.",
                   "category": "historical",
                   "coords": [
                         -6.309585,
@@ -682,7 +943,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Patrick's Parish Church",
-                  "text": "Eine bedeutende anglikanische Kirche im Zentrum von Ballymena.",
+                  "text": "Anglikanische Kirche im neugotischen Stil aus den 1850er Jahren in Ballymena.",
                   "category": "religious",
                   "coords": [
                         -6.273281,
@@ -700,7 +961,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Peoples Park Lake",
-                  "text": "Der Peoples Park See in Ballymena ist ein idyllisches Ziel für Spaziergänge.",
+                  "text": "See im öffentlichen Park von Ballymena mit Spazierwegen.",
                   "category": "natural",
                   "coords": [
                         -6.27994,
@@ -711,7 +972,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mid-Antrim Museum",
-                  "text": "Ballymena múzeuma, amely Mid-Antrim történelmét mutatja be.",
+                  "text": "A Mid-Antrim Múzeum Ballymenában, amely a helyi történelmet mutatja be.",
                   "category": "museum",
                   "coords": [
                         -6.27671,
@@ -765,7 +1026,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "County Hall",
-                  "text": "Antrim megye adminisztratív központja Ballymenában.",
+                  "text": "Történelmi közigazgatási épület Ballymenában, egykori megyei tanács székhelye.",
                   "category": "historical",
                   "coords": [
                         -6.309585,
@@ -774,7 +1035,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Patrick's Parish Church",
-                  "text": "Jelentős anglikán templom Ballymena központjában.",
+                  "text": "Neogótikus stílusú anglikán templom az 1850-es évekből Ballymenában.",
                   "category": "religious",
                   "coords": [
                         -6.273281,
@@ -792,7 +1053,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Peoples Park Lake",
-                  "text": "A ballymenai Peoples Park tó egy idilli célpont sétákhoz.",
+                  "text": "Tó a ballymenai közparkban, sétányokkal.",
                   "category": "natural",
                   "coords": [
                         -6.27994,
@@ -803,7 +1064,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mid-Antrim Museum",
-                  "text": "Un muzeu în Ballymena care prezintă istoria regiunii Mid-Antrim.",
+                  "text": "Muzeul Mid-Antrim din Ballymena, care prezintă istoria locală a regiunii.",
                   "category": "museum",
                   "coords": [
                         -6.27671,
@@ -857,7 +1118,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "County Hall",
-                  "text": "Centrul administrativ al comitatului Antrim în Ballymena.",
+                  "text": "Clădire administrativă istorică în Ballymena, fost sediu al consiliului județean.",
                   "category": "historical",
                   "coords": [
                         -6.309585,
@@ -866,7 +1127,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Patrick's Parish Church",
-                  "text": "O biserică anglicană importantă situată în centrul orașului Ballymena.",
+                  "text": "Biserică anglicană în stil neogotic din anii 1850 în Ballymena.",
                   "category": "religious",
                   "coords": [
                         -6.273281,
@@ -884,7 +1145,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Peoples Park Lake",
-                  "text": "Lacul din Peoples Park, Ballymena, este o destinație idilică pentru plimbări.",
+                  "text": "Lac în parcul public din Ballymena, cu alei de plimbare.",
                   "category": "natural",
                   "coords": [
                         -6.27994,
@@ -895,7 +1156,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mid-Antrim Museum",
-                  "text": "A museum in Ballymena showcasing the history of Mid-Antrim.",
+                  "text": "Mid-Antrim Museum in Ballymena, showcasing local history of the area.",
                   "category": "museum",
                   "coords": [
                         -6.27671,
@@ -949,7 +1210,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "County Hall",
-                  "text": "The administrative center for County Antrim located in Ballymena.",
+                  "text": "Historic administrative building in Ballymena, formerly the county council seat.",
                   "category": "historical",
                   "coords": [
                         -6.309585,
@@ -958,7 +1219,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Patrick's Parish Church",
-                  "text": "A significant Anglican church located in the center of Ballymena.",
+                  "text": "Gothic Revival Anglican church from the 1850s in Ballymena.",
                   "category": "religious",
                   "coords": [
                         -6.273281,
@@ -976,7 +1237,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Peoples Park Lake",
-                  "text": "The Peoples Park lake in Ballymena is an idyllic destination for walks.",
+                  "text": "Lake in the public park of Ballymena with walking paths.",
                   "category": "natural",
                   "coords": [
                         -6.27994,
@@ -1078,7 +1339,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Newtown Fort",
-                  "text": "Newtown Fort ist eine archäologische Stätte bei Bantry.",
+                  "text": "Befestigungsanlage aus dem 18. Jahrhundert in Bantry.",
                   "category": "historical",
                   "coords": [
                         -9.451474,
@@ -1087,7 +1348,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Bantry House",
-                  "text": "Bantry House ist ein prächtiges historisches Herrenhaus in Bantry.",
+                  "text": "Herrenhaus in Bantry mit berühmten Gärten und Blick auf die Bantry Bay.",
                   "category": "historical",
                   "coords": [
                         -9.465337,
@@ -1096,7 +1357,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "WW1 US naval airbase",
-                  "text": "Die Ruinen der US-Marinebasis aus dem Ersten Weltkrieg befinden sich in Bantry.",
+                  "text": "Ehemaliger US-Marineflugstützpunkt aus dem Ersten Weltkrieg.",
                   "category": "historical",
                   "coords": [
                         -9.481033,
@@ -1105,7 +1366,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Maggie Murphys",
-                  "text": "Maggie Murphys ist eine Ruinenstätte in Bantry.",
+                  "text": "Historischer Pub in Bantry mit traditionellem Ambiente.",
                   "category": "historical",
                   "coords": [
                         -9.452028,
@@ -1114,7 +1375,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Seskin View",
-                  "text": "Seskin View bietet einen schönen Aussichtspunkt bei Bantry.",
+                  "text": "Aussichtspunkt mit Blick auf die grünen Hügel von Bantry.",
                   "category": "natural",
                   "coords": [
                         -9.444179,
@@ -1123,7 +1384,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gun Battery",
-                  "text": "Die Gun Battery in Bantry ist eine historische Ruinenstätte.",
+                  "text": "Küstenartilleriebatterie aus der Zeit der Napoleonischen Kriege.",
                   "category": "historical",
                   "coords": [
                         -9.481096,
@@ -1132,7 +1393,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "Lady's Well ist eine Quelle in der Stadt Bantry.",
+                  "text": "Heiliger Brunnen in Bantry, geschützt als Nationaldenkmal, mit steinernem Altar.",
                   "category": "landmark",
                   "coords": [
                         -9.490082,
@@ -1141,7 +1402,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Finbarrs",
-                  "text": "St. Finbarrs ist ein Gotteshaus in Bantry.",
+                  "text": "Die St.-Finbarr-Kirche in Bantry, eine katholische Kirche am Hafen.",
                   "category": "religious",
                   "coords": [
                         -9.448198,
@@ -1150,7 +1411,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Brendan The Navigator",
-                  "text": "St Brendan The Navigator ist ein Gotteshaus in Bantry.",
+                  "text": "Die St.-Brendan-der-Navigator-Kirche in Bantry, eine moderne katholische Kirche.",
                   "category": "religious",
                   "coords": [
                         -9.453086,
@@ -1161,7 +1422,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Newtown Fort",
-                  "text": "A Newtown Fort egy régészeti lelőhely Bantry közelében.",
+                  "text": "18. századi erődítmény Bantry-ben.",
                   "category": "historical",
                   "coords": [
                         -9.451474,
@@ -1170,7 +1431,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Bantry House",
-                  "text": "A Bantry House egy impozáns történelmi kúria Bantry városában.",
+                  "text": "Kúria Bantryban, híres kertekkel és kilátással a Bantry-öbölre.",
                   "category": "historical",
                   "coords": [
                         -9.465337,
@@ -1179,7 +1440,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "WW1 US naval airbase",
-                  "text": "Az első világháborús amerikai haditengerészeti légibázis romjai Bantryban találhatók.",
+                  "text": "Egykori amerikai haditengerészeti repülőbázis az első világháborúból.",
                   "category": "historical",
                   "coords": [
                         -9.481033,
@@ -1188,7 +1449,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Maggie Murphys",
-                  "text": "Maggie Murphys egy romos építmény Bantryban.",
+                  "text": "Történelmi kocsma Bantry-ben, hagyományos hangulattal.",
                   "category": "historical",
                   "coords": [
                         -9.452028,
@@ -1197,7 +1458,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Seskin View",
-                  "text": "A Seskin View egy kiváló kilátópont Bantry közelében.",
+                  "text": "Kilátó a bantry-i zöld dombokra.",
                   "category": "natural",
                   "coords": [
                         -9.444179,
@@ -1206,7 +1467,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gun Battery",
-                  "text": "A Gun Battery egy történelmi romos terület Bantryban.",
+                  "text": "Tengerparti tüzérségi üteg a napóleoni háborúk idejéből.",
                   "category": "historical",
                   "coords": [
                         -9.481096,
@@ -1215,7 +1476,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "A Lady's Well egy forrás Bantry városában.",
+                  "text": "Szent kút Bantryban, nemzeti emlékmű, kőoltárral.",
                   "category": "landmark",
                   "coords": [
                         -9.490082,
@@ -1224,7 +1485,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Finbarrs",
-                  "text": "A St. Finbarrs egy istentiszteleti hely Bantry-ben.",
+                  "text": "A Szent Finbarr-templom Bantryban, egy katolikus templom a kikötőnél.",
                   "category": "religious",
                   "coords": [
                         -9.448198,
@@ -1233,7 +1494,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Brendan The Navigator",
-                  "text": "A St Brendan The Navigator egy istentiszteleti hely Bantry-ben.",
+                  "text": "A Szent Brendan, a Hajós templom Bantryban, egy modern katolikus templom.",
                   "category": "religious",
                   "coords": [
                         -9.453086,
@@ -1244,7 +1505,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Newtown Fort",
-                  "text": "Newtown Fort este un sit arheologic situat în apropiere de Bantry.",
+                  "text": "Fortificație din secolul al XVIII-lea în Bantry.",
                   "category": "historical",
                   "coords": [
                         -9.451474,
@@ -1253,7 +1514,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Bantry House",
-                  "text": "Bantry House este un conac istoric impresionant situat în Bantry.",
+                  "text": "Conac în Bantry cu grădini celebre și vedere spre golful Bantry.",
                   "category": "historical",
                   "coords": [
                         -9.465337,
@@ -1262,7 +1523,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "WW1 US naval airbase",
-                  "text": "Ruinele bazei navale aeriene americane din Primul Război Mondial se află în Bantry.",
+                  "text": "Fostă bază aeriană navală americană din Primul Război Mondial.",
                   "category": "historical",
                   "coords": [
                         -9.481033,
@@ -1271,7 +1532,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Maggie Murphys",
-                  "text": "Maggie Murphys este un sit cu ruine situat în Bantry.",
+                  "text": "Pub istoric în Bantry, cu atmosferă tradițională.",
                   "category": "historical",
                   "coords": [
                         -9.452028,
@@ -1280,7 +1541,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Seskin View",
-                  "text": "Seskin View oferă un punct de observație panoramică lângă Bantry.",
+                  "text": "Punct de belvedere asupra dealurilor verzi din Bantry.",
                   "category": "natural",
                   "coords": [
                         -9.444179,
@@ -1289,7 +1550,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gun Battery",
-                  "text": "Gun Battery este un sit cu ruine istorice situat în Bantry.",
+                  "text": "Baterie de artilerie de coastă din perioada războaielor napoleoniene.",
                   "category": "historical",
                   "coords": [
                         -9.481096,
@@ -1298,7 +1559,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "Lady's Well este un izvor în orașul Bantry.",
+                  "text": "Fântână sfântă în Bantry, protejată ca monument național, cu un altar de piatră.",
                   "category": "landmark",
                   "coords": [
                         -9.490082,
@@ -1307,7 +1568,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Finbarrs",
-                  "text": "St. Finbarrs este un lăcaș de cult în Bantry.",
+                  "text": "Biserica Sf. Finbarr din Bantry, o biserică catolică lângă port.",
                   "category": "religious",
                   "coords": [
                         -9.448198,
@@ -1316,7 +1577,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Brendan The Navigator",
-                  "text": "St Brendan The Navigator este un lăcaș de cult în Bantry.",
+                  "text": "Biserica Sf. Brendan Navigatorul din Bantry, o biserică catolică modernă.",
                   "category": "religious",
                   "coords": [
                         -9.453086,
@@ -1327,7 +1588,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Newtown Fort",
-                  "text": "Newtown Fort is an archaeological site near Bantry.",
+                  "text": "18th-century fortification in Bantry.",
                   "category": "historical",
                   "coords": [
                         -9.451474,
@@ -1336,7 +1597,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Bantry House",
-                  "text": "Bantry House is an impressive historic manor in Bantry.",
+                  "text": "Mansion in Bantry with famous gardens and a view over Bantry Bay.",
                   "category": "historical",
                   "coords": [
                         -9.465337,
@@ -1345,7 +1606,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "WW1 US naval airbase",
-                  "text": "The ruins of the WW1 US naval airbase are located in Bantry.",
+                  "text": "Former US Naval airbase from World War I.",
                   "category": "historical",
                   "coords": [
                         -9.481033,
@@ -1354,7 +1615,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Maggie Murphys",
-                  "text": "Maggie Murphys is a ruin site in Bantry.",
+                  "text": "Historic pub in Bantry with traditional atmosphere.",
                   "category": "historical",
                   "coords": [
                         -9.452028,
@@ -1363,7 +1624,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Seskin View",
-                  "text": "Seskin View provides a scenic viewpoint near Bantry.",
+                  "text": "Viewpoint overlooking the green hills of Bantry.",
                   "category": "natural",
                   "coords": [
                         -9.444179,
@@ -1372,7 +1633,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gun Battery",
-                  "text": "The Gun Battery in Bantry is a historic ruin site.",
+                  "text": "Coastal artillery battery from the Napoleonic Wars.",
                   "category": "historical",
                   "coords": [
                         -9.481096,
@@ -1381,7 +1642,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "Lady's Well is a spring located in the town of Bantry.",
+                  "text": "Holy well in Bantry, protected as a national monument, featuring a stone altar.",
                   "category": "landmark",
                   "coords": [
                         -9.490082,
@@ -1390,7 +1651,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Finbarrs",
-                  "text": "St. Finbarrs is a place of worship in Bantry.",
+                  "text": "St. Finbarr's Church in Bantry, a Catholic church near the harbour.",
                   "category": "religious",
                   "coords": [
                         -9.448198,
@@ -1399,7 +1660,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St Brendan The Navigator",
-                  "text": "St Brendan The Navigator is a place of worship in Bantry.",
+                  "text": "St Brendan The Navigator Church in Bantry, a modern Catholic church.",
                   "category": "religious",
                   "coords": [
                         -9.453086,
@@ -1456,7 +1717,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Birr Heritage Centre",
-                  "text": "Das Birr Heritage Centre ist ein lokales Museum in der Stadt Birr.",
+                  "text": "Das Birr Heritage Centre, ein Museum zur Stadtgeschichte im ehemaligen Markthaus.",
                   "category": "museum",
                   "coords": [
                         -7.908152,
@@ -1465,7 +1726,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Birr Castle",
-                  "text": "Birr Castle ist eine historische Burg in Birr, bekannt für ihre Gärten und ihr Wissenschaftszentrum.",
+                  "text": "Schloss in Birr, bekannt für das Große Teleskop (Leviathan von Birr).",
                   "category": "castle",
                   "coords": [
                         -7.914758,
@@ -1474,7 +1735,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Historic Science Centre",
-                  "text": "Das Historic Science Centre ist ein Museum in Birr.",
+                  "text": "Wissenschaftsmuseum im Gelände von Birr Castle mit historischen Instrumenten.",
                   "category": "museum",
                   "coords": [
                         -7.914296,
@@ -1483,7 +1744,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Great Telescope 'Leviathan'",
-                  "text": "The Great Telescope 'Leviathan' ist eine Sehenswürdigkeit in Birr.",
+                  "text": "Das Riesenteleskop 'Leviathan' von 1845 im Schlosspark von Birr, einst das größte der Welt.",
                   "category": "landmark",
                   "coords": [
                         -7.917393,
@@ -1492,7 +1753,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Crinkill Barracks (disused)",
-                  "text": "Die Crinkill Barracks (disused) sind eine Ruine in Birr.",
+                  "text": "Verlassene Kaserne aus dem 19. Jahrhundert in Birr.",
                   "category": "historical",
                   "coords": [
                         -7.893966,
@@ -1501,7 +1762,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Emmet Square",
-                  "text": "Emmet Square ist ein Denkmal in der Stadt Birr.",
+                  "text": "Georgianischer Platz in Birr mit einheitlicher Architektur.",
                   "category": "historical",
                   "coords": [
                         -7.910874,
@@ -1510,7 +1771,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Brendans Church",
-                  "text": "Die Saint Brendans Church ist ein Gotteshaus in Birr.",
+                  "text": "Die St.-Brendan-Kirche in Birr, eine katholische Kirche mit einem Glockenturm.",
                   "category": "religious",
                   "coords": [
                         -7.910125,
@@ -1521,7 +1782,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Birr Heritage Centre",
-                  "text": "A Birr Heritage Centre egy helyi múzeum Birr városában.",
+                  "text": "A Birr Örökség Központ, egy várostörténeti múzeum az egykori piactéren.",
                   "category": "museum",
                   "coords": [
                         -7.908152,
@@ -1530,7 +1791,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Birr Castle",
-                  "text": "A Birr Castle egy történelmi kastély Birr városában, amely kertjeiről és tudományos központjáról ismert.",
+                  "text": "Kastély Birrben, híres a Nagy Távcsőről (Leviathan of Birr).",
                   "category": "castle",
                   "coords": [
                         -7.914758,
@@ -1539,7 +1800,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Historic Science Centre",
-                  "text": "A Historic Science Centre egy múzeum Birr városában.",
+                  "text": "Tudományos múzeum a birri kastély területén, történelmi műszerekkel.",
                   "category": "museum",
                   "coords": [
                         -7.914296,
@@ -1548,7 +1809,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Great Telescope 'Leviathan'",
-                  "text": "A The Great Telescope 'Leviathan' egy turisztikai látványosság Birr városában.",
+                  "text": "Az 1845-ös 'Leviatán' óriásteleszkóp a birri kastélyparkban, egykor a világ legnagyobbja.",
                   "category": "landmark",
                   "coords": [
                         -7.917393,
@@ -1557,7 +1818,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Crinkill Barracks (disused)",
-                  "text": "A Crinkill Barracks (disused) egy rom Birr városában.",
+                  "text": "Elhagyatott 19. századi laktanya Birr-ben.",
                   "category": "historical",
                   "coords": [
                         -7.893966,
@@ -1566,7 +1827,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Emmet Square",
-                  "text": "Az Emmet Square egy emlékmű Birr városában.",
+                  "text": "Grúz stílusú tér Birr-ben, egységes építészettel.",
                   "category": "historical",
                   "coords": [
                         -7.910874,
@@ -1575,7 +1836,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Brendans Church",
-                  "text": "A Saint Brendans Church egy istentiszteleti hely Birr városában.",
+                  "text": "A Szent Brendan-templom Birrben, egy katolikus templom harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         -7.910125,
@@ -1586,7 +1847,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Birr Heritage Centre",
-                  "text": "Birr Heritage Centre este un muzeu local situat în orașul Birr.",
+                  "text": "Centrul de Patrimoniu Birr, un muzeu de istorie locală în fosta piață.",
                   "category": "museum",
                   "coords": [
                         -7.908152,
@@ -1595,7 +1856,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Birr Castle",
-                  "text": "Birr Castle este un castel istoric din Birr, recunoscut pentru grădinile sale și centrul științific.",
+                  "text": "Castel în Birr, renumit pentru Marele Telescop (Leviathanul din Birr).",
                   "category": "castle",
                   "coords": [
                         -7.914758,
@@ -1604,7 +1865,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Historic Science Centre",
-                  "text": "Historic Science Centre este un muzeu situat în Birr.",
+                  "text": "Muzeu de știință în incinta Castelului Birr, cu instrumente istorice.",
                   "category": "museum",
                   "coords": [
                         -7.914296,
@@ -1613,7 +1874,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Great Telescope 'Leviathan'",
-                  "text": "The Great Telescope 'Leviathan' este o atracție turistică situată în Birr.",
+                  "text": "Telescopul uriaș 'Leviathan' din 1845 în parcul castelului Birr, odată cel mai mare din lume.",
                   "category": "landmark",
                   "coords": [
                         -7.917393,
@@ -1622,7 +1883,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Crinkill Barracks (disused)",
-                  "text": "Crinkill Barracks (disused) este o ruină situată în Birr.",
+                  "text": "Cazarmă părăsită din secolul al XIX-lea în Birr.",
                   "category": "historical",
                   "coords": [
                         -7.893966,
@@ -1631,7 +1892,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Emmet Square",
-                  "text": "Emmet Square este un monument din orașul Birr.",
+                  "text": "Piață georgiană în Birr, cu arhitectură unitară.",
                   "category": "historical",
                   "coords": [
                         -7.910874,
@@ -1640,7 +1901,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Brendans Church",
-                  "text": "Saint Brendans Church este un lăcaș de cult situat în Birr.",
+                  "text": "Biserica Sf. Brendan din Birr, o biserică catolică cu un turn clopotniță.",
                   "category": "religious",
                   "coords": [
                         -7.910125,
@@ -1651,7 +1912,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Birr Heritage Centre",
-                  "text": "Birr Heritage Centre is a local museum located in the town of Birr.",
+                  "text": "Birr Heritage Centre, a local history museum in the former market house.",
                   "category": "museum",
                   "coords": [
                         -7.908152,
@@ -1660,7 +1921,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Birr Castle",
-                  "text": "Birr Castle is a historic castle in Birr, well-known for its gardens and science centre.",
+                  "text": "Castle in Birr, famous for the Great Telescope (Leviathan of Birr).",
                   "category": "castle",
                   "coords": [
                         -7.914758,
@@ -1669,7 +1930,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Historic Science Centre",
-                  "text": "The Historic Science Centre is a museum located in Birr.",
+                  "text": "Science museum on the grounds of Birr Castle, featuring historic instruments.",
                   "category": "museum",
                   "coords": [
                         -7.914296,
@@ -1678,7 +1939,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Great Telescope 'Leviathan'",
-                  "text": "The Great Telescope 'Leviathan' is a tourist attraction located in Birr.",
+                  "text": "The 'Leviathan' giant telescope from 1845 in Birr Castle grounds, once the world's largest.",
                   "category": "landmark",
                   "coords": [
                         -7.917393,
@@ -1687,7 +1948,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Crinkill Barracks (disused)",
-                  "text": "The Crinkill Barracks (disused) is a ruined site located in Birr.",
+                  "text": "Disused 19th-century barracks in Birr.",
                   "category": "historical",
                   "coords": [
                         -7.893966,
@@ -1696,7 +1957,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Emmet Square",
-                  "text": "Emmet Square is a monument located in the city of Birr.",
+                  "text": "Georgian square in Birr with uniform architecture.",
                   "category": "historical",
                   "coords": [
                         -7.910874,
@@ -1705,7 +1966,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Brendans Church",
-                  "text": "Saint Brendans Church is a place of worship located in Birr.",
+                  "text": "Saint Brendan's Church in Birr, a Catholic church with a bell tower.",
                   "category": "religious",
                   "coords": [
                         -7.910125,
@@ -1789,7 +2050,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "King William III Monument",
-                  "text": "Ein Denkmal in Carrickfergus, das an die Landung von König Wilhelm III. im Jahr 1690 erinnert.",
+                  "text": "Reiterstandbild von König Wilhelm III. in Carrickfergus.",
                   "category": "historical",
                   "coords": [
                         -5.807289,
@@ -1825,7 +2086,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower South Woodburn Reservoir",
-                  "text": "Lower South Woodburn Reservoir ist ein Stausee in Carrickfergus, der zu schönen Spaziergängen einlädt.",
+                  "text": "Stausee im Woodburn-Gebiet in Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.864401,
@@ -1834,7 +2095,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Middle South Woodburn Reservoir",
-                  "text": "Middle South Woodburn Reservoir ist ein Gewässer in Carrickfergus mit malerischer Naturkulisse.",
+                  "text": "Weiterer Stausee im Woodburn-Gebiet, etwas flussaufwärts.",
                   "category": "natural",
                   "coords": [
                         -5.873549,
@@ -1843,7 +2104,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Upper South Woodburn Reservoir",
-                  "text": "Upper South Woodburn Reservoir ist ein See in Carrickfergus, ideal für Naturbeobachtungen.",
+                  "text": "Ein Trinkwasserreservoir in den Hügeln oberhalb von Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.884924,
@@ -1879,7 +2140,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Mourne Reservoir",
-                  "text": "Lough Mourne Reservoir ist ein See in Carrickfergus, perfekt für Wanderungen in der Natur.",
+                  "text": "Ein Stausee, der von Moorlandschaft umgeben ist, nahe Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.805963,
@@ -1888,7 +2149,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Jollytots",
-                  "text": "Jollytots ist ein Spielplatz für Kinder in Carrickfergus, perfekt für Familien.",
+                  "text": "Ein Indoor-Spielplatz für Kleinkinder in Carrickfergus.",
                   "category": "family",
                   "coords": [
                         -5.792559,
@@ -1926,7 +2187,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "King William III Monument",
-                  "text": "Carrickfergus emlékműve, amely III. Vilmos király 1690-es partraszállásának állít emléket.",
+                  "text": "III. Vilmos király lovas szobra Carrickfergusban.",
                   "category": "historical",
                   "coords": [
                         -5.807289,
@@ -1962,7 +2223,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower South Woodburn Reservoir",
-                  "text": "A Lower South Woodburn Reservoir egy víztározó Carrickfergus területén, amely szép sétákra csábít.",
+                  "text": "Víztározó a Woodburn területen, Carrickfergusban.",
                   "category": "natural",
                   "coords": [
                         -5.864401,
@@ -1971,7 +2232,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Middle South Woodburn Reservoir",
-                  "text": "A Middle South Woodburn Reservoir egy tó Carrickfergus területén festői természeti kulisszával.",
+                  "text": "Másik víztározó a Woodburn területen, kissé feljebb a patakon.",
                   "category": "natural",
                   "coords": [
                         -5.873549,
@@ -1980,7 +2241,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Upper South Woodburn Reservoir",
-                  "text": "Az Upper South Woodburn Reservoir egy tó Carrickfergus területén, ideális a természet megfigyelésére.",
+                  "text": "Ivóvíztározó a Carrickfergus feletti dombokon.",
                   "category": "natural",
                   "coords": [
                         -5.884924,
@@ -2016,7 +2277,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Mourne Reservoir",
-                  "text": "A Lough Mourne Reservoir egy tó Carrickfergus közelében, tökéletes természetjáráshoz és túrázáshoz.",
+                  "text": "Mocsaras vidékkel körülvett tározó Carrickfergus közelében.",
                   "category": "natural",
                   "coords": [
                         -5.805963,
@@ -2025,7 +2286,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Jollytots",
-                  "text": "A Jollytots egy gyerekjátszótér Carrickfergus városában, tökéletes a családok számára.",
+                  "text": "Beltéri játszóház kisgyermekek számára Carrickfergusban.",
                   "category": "family",
                   "coords": [
                         -5.792559,
@@ -2063,7 +2324,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "King William III Monument",
-                  "text": "Un monument în Carrickfergus care comemorează debarcarea regelui William al III-lea în 1690.",
+                  "text": "Statuie ecvestră a regelui William al III-lea în Carrickfergus.",
                   "category": "historical",
                   "coords": [
                         -5.807289,
@@ -2099,7 +2360,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower South Woodburn Reservoir",
-                  "text": "Lower South Woodburn Reservoir este un lac de acumulare în Carrickfergus, care invită la plimbări frumoase.",
+                  "text": "Rezervor în zona Woodburn din Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.864401,
@@ -2108,7 +2369,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Middle South Woodburn Reservoir",
-                  "text": "Middle South Woodburn Reservoir este un lac în Carrickfergus cu o scenografie naturală pitorească.",
+                  "text": "Un alt rezervor în zona Woodburn, mai sus pe pârâu.",
                   "category": "natural",
                   "coords": [
                         -5.873549,
@@ -2117,7 +2378,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Upper South Woodburn Reservoir",
-                  "text": "Upper South Woodburn Reservoir este un lac în Carrickfergus, ideal pentru observarea naturii.",
+                  "text": "Un rezervor de apă potabilă în dealurile de deasupra Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.884924,
@@ -2153,7 +2414,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Mourne Reservoir",
-                  "text": "Lough Mourne Reservoir este un lac în Carrickfergus, perfect pentru drumeții în natură.",
+                  "text": "Un lac de acumulare înconjurat de turbării, lângă Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.805963,
@@ -2162,7 +2423,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Jollytots",
-                  "text": "Jollytots este un loc de joacă pentru copii în Carrickfergus, perfect pentru familii.",
+                  "text": "Un loc de joacă interior pentru copii mici în Carrickfergus.",
                   "category": "family",
                   "coords": [
                         -5.792559,
@@ -2200,7 +2461,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "King William III Monument",
-                  "text": "A monument in Carrickfergus commemorating the landing of King William III in 1690.",
+                  "text": "Equestrian statue of King William III in Carrickfergus.",
                   "category": "historical",
                   "coords": [
                         -5.807289,
@@ -2236,7 +2497,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower South Woodburn Reservoir",
-                  "text": "Lower South Woodburn Reservoir is a reservoir in Carrickfergus, inviting for beautiful walks.",
+                  "text": "Reservoir in the Woodburn area of Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.864401,
@@ -2245,7 +2506,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Middle South Woodburn Reservoir",
-                  "text": "Middle South Woodburn Reservoir is a lake in Carrickfergus with a scenic natural backdrop.",
+                  "text": "Another reservoir in the Woodburn area, further upstream.",
                   "category": "natural",
                   "coords": [
                         -5.873549,
@@ -2254,7 +2515,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Upper South Woodburn Reservoir",
-                  "text": "Upper South Woodburn Reservoir is a lake in Carrickfergus, ideal for nature observation.",
+                  "text": "A drinking water reservoir in the hills above Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.884924,
@@ -2290,7 +2551,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Mourne Reservoir",
-                  "text": "Lough Mourne Reservoir is a lake in Carrickfergus, perfect for hiking in nature.",
+                  "text": "A reservoir surrounded by moorland near Carrickfergus.",
                   "category": "natural",
                   "coords": [
                         -5.805963,
@@ -2299,7 +2560,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Jollytots",
-                  "text": "Jollytots is a children's playground in Carrickfergus, perfect for families.",
+                  "text": "An indoor play centre for toddlers in Carrickfergus.",
                   "category": "family",
                   "coords": [
                         -5.792559,
@@ -2365,7 +2626,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hore Abbey",
-                  "text": "Hore Abbey ist ein ehemaliges Zisterzienserkloster in der Nähe des Rock of Cashel.",
+                  "text": "Ruinen einer Zisterzienserabtei in Cashel, nahe dem Rock of Cashel.",
                   "category": "religious",
                   "coords": [
                         -7.898049,
@@ -2374,7 +2635,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killeen Grave Yard",
-                  "text": "Der Killeen Grave Yard ist eine archäologische Stätte in Cashel.",
+                  "text": "Killeen Graveyard, historischer Friedhof in Cashel, geschütztes Kulturerbe (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -7.936259,
@@ -2383,7 +2644,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Doon Fort",
-                  "text": "Doon Fort ist eine befestigte archäologische Stätte in der Nähe von Cashel.",
+                  "text": "Ein runder Steinfort auf einem Hügel mit Blick auf die Umgebung von Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.920113,
@@ -2392,7 +2653,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shanballyduff Castle",
-                  "text": "Shanballyduff Castle ist eine historische Burgruine in der Region Cashel.",
+                  "text": "Eine Burgruine mit Turmhaus im Schatten des Rock of Cashel.",
                   "category": "castle",
                   "coords": [
                         -7.919858,
@@ -2401,7 +2662,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gortmakellis Castle",
-                  "text": "Gortmakellis Castle ist eine ehemalige Befestigungsanlage bei Cashel.",
+                  "text": "Eine verfallene Burg nahe dem Rock of Cashel, umgeben von Weideland.",
                   "category": "castle",
                   "coords": [
                         -7.862855,
@@ -2410,7 +2671,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnadrinna",
-                  "text": "Rathnadrinna ist ein bedeutender archäologischer Fundort bei Cashel.",
+                  "text": "Ein eisenzeitlicher Ringwall mit Blick auf die Ebene und den Rock of Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.875062,
@@ -2419,7 +2680,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballyknock Hill",
-                  "text": "Ballyknock Hill ist ein markanter Berg in der Nähe von Cashel.",
+                  "text": "Der Ballyknock Hill bei Cashel, ein Aussichtspunkt mit Blick auf das Tipperary-Tiefland.",
                   "category": "natural",
                   "coords": [
                         -7.869161,
@@ -2437,7 +2698,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Brú Ború",
-                  "text": "Das Brú Ború in Cashel ist ein Zentrum für traditionelle Künste.",
+                  "text": "Ein Kulturzentrum und Theater am Fuß des Rock of Cashel, Brian Boru gewidmet.",
                   "category": "cultural",
                   "coords": [
                         -7.888405,
@@ -2446,7 +2707,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballynahinh Castle",
-                  "text": "Ballynahinh Castle in Cashel ist eine sehenswerte Ruinenstätte.",
+                  "text": "Eine Burgruine mit Wehrturm und Hof nahe Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.948128,
@@ -2455,7 +2716,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John's Cathedral",
-                  "text": "Die Saint John's Cathedral ist ein historisches Gotteshaus in Cashel.",
+                  "text": "Anglikanische Kathedrale in Cashel, erbaut im 18. Jahrhundert auf dem Grund einer älteren Kirche.",
                   "category": "religious",
                   "coords": [
                         -7.885532,
@@ -2475,7 +2736,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hore Abbey",
-                  "text": "A Hore Abbey egykori ciszterci kolostor a Rock of Cashel közelében.",
+                  "text": "Ciszterci apátság romjai Cashelben, a Cashel-szikla közelében.",
                   "category": "religious",
                   "coords": [
                         -7.898049,
@@ -2484,7 +2745,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killeen Grave Yard",
-                  "text": "A Killeen Grave Yard egy régészeti lelőhely Cashelben.",
+                  "text": "Killeen temető Cashelben, védett örökségi helyszín (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -7.936259,
@@ -2493,7 +2754,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Doon Fort",
-                  "text": "A Doon Fort egy erődített régészeti lelőhely Cashel közelében.",
+                  "text": "Kerek kőerődítmény egy dombon, Cashel környékére néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -7.920113,
@@ -2502,7 +2763,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shanballyduff Castle",
-                  "text": "A Shanballyduff Castle egy történelmi várrom a Cashel régióban.",
+                  "text": "Toronyházzal rendelkező várrom a Cashel-szikla árnyékában.",
                   "category": "castle",
                   "coords": [
                         -7.919858,
@@ -2511,7 +2772,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gortmakellis Castle",
-                  "text": "A Gortmakellis Castle egykori erődítmény Cashel közelében.",
+                  "text": "Romos vár a Cashel-szikla közelében, legelőkkel körülvéve.",
                   "category": "castle",
                   "coords": [
                         -7.862855,
@@ -2520,7 +2781,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnadrinna",
-                  "text": "A Rathnadrinna egy jelentős régészeti lelőhely Cashel mellett.",
+                  "text": "Vaskori földvár, ahonnan rálátni a síkságra és a Cashel-sziklára.",
                   "category": "historical",
                   "coords": [
                         -7.875062,
@@ -2529,7 +2790,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballyknock Hill",
-                  "text": "A Ballyknock Hill egy jellegzetes hegy Cashel közelében.",
+                  "text": "A Ballyknock-hegy Cashel közelében, egy kilátópont a Tipperary-síkságra.",
                   "category": "natural",
                   "coords": [
                         -7.869161,
@@ -2547,7 +2808,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Brú Ború",
-                  "text": "A casheli Brú Ború a hagyományos művészetek központja.",
+                  "text": "Kulturális központ és színház a Cashel-szikla lábánál, Brian Borunak szentelve.",
                   "category": "cultural",
                   "coords": [
                         -7.888405,
@@ -2556,7 +2817,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballynahinh Castle",
-                  "text": "Ballynahinh Castle romjai látogathatók Cashelben.",
+                  "text": "Várrom erődített toronnyal és udvarral Cashel közelében.",
                   "category": "historical",
                   "coords": [
                         -7.948128,
@@ -2565,7 +2826,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John's Cathedral",
-                  "text": "A Saint John's Cathedral egy történelmi templom Cashelben.",
+                  "text": "Anglikán székesegyház Cashelben, a 18. században épült egy korábbi templom helyén.",
                   "category": "religious",
                   "coords": [
                         -7.885532,
@@ -2585,7 +2846,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hore Abbey",
-                  "text": "Hore Abbey este o fostă mănăstire cisterciană în apropierea Rock of Cashel.",
+                  "text": "Ruinele unei abații cisterciene în Cashel, lângă Stânca Cashel.",
                   "category": "religious",
                   "coords": [
                         -7.898049,
@@ -2594,7 +2855,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killeen Grave Yard",
-                  "text": "Killeen Grave Yard este un sit arheologic din Cashel.",
+                  "text": "Cimitirul Killeen din Cashel, sit protejat de patrimoniu (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -7.936259,
@@ -2603,7 +2864,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Doon Fort",
-                  "text": "Doon Fort este un sit arheologic fortificat în apropiere de Cashel.",
+                  "text": "Un fort circular de piatră pe un deal, cu vedere spre zona Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.920113,
@@ -2612,7 +2873,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shanballyduff Castle",
-                  "text": "Shanballyduff Castle este o ruină de castel istorică în regiunea Cashel.",
+                  "text": "O ruină de castel cu turn locuință, la umbra Stâncii Cashel.",
                   "category": "castle",
                   "coords": [
                         -7.919858,
@@ -2621,7 +2882,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gortmakellis Castle",
-                  "text": "Gortmakellis Castle este o fostă fortificație lângă Cashel.",
+                  "text": "Un castel în ruină lângă Stânca Cashel, înconjurat de pășuni.",
                   "category": "castle",
                   "coords": [
                         -7.862855,
@@ -2630,7 +2891,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnadrinna",
-                  "text": "Rathnadrinna este un sit arheologic semnificativ lângă Cashel.",
+                  "text": "Un val circular din epoca fierului, cu vedere spre câmpie și Stânca Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.875062,
@@ -2639,7 +2900,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballyknock Hill",
-                  "text": "Ballyknock Hill este un munte distinctiv în apropiere de Cashel.",
+                  "text": "Dealul Ballyknock lângă Cashel, un punct de belvedere cu vedere spre câmpia Tipperary.",
                   "category": "natural",
                   "coords": [
                         -7.869161,
@@ -2657,7 +2918,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Brú Ború",
-                  "text": "Brú Ború din Cashel este un centru dedicat artelor tradiționale.",
+                  "text": "Un centru cultural și teatru la baza Stâncii Cashel, dedicat lui Brian Boru.",
                   "category": "cultural",
                   "coords": [
                         -7.888405,
@@ -2666,7 +2927,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballynahinh Castle",
-                  "text": "Ruinele Castelului Ballynahinh din Cashel sunt un obiectiv turistic.",
+                  "text": "O ruină de castel cu turn de apărare și curte lângă Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.948128,
@@ -2675,7 +2936,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John's Cathedral",
-                  "text": "Catedrala Saint John este un lăcaș de cult istoric în Cashel.",
+                  "text": "Catedrală anglicană în Cashel, construită în secolul al XVIII-lea pe locul unei biserici mai vechi.",
                   "category": "religious",
                   "coords": [
                         -7.885532,
@@ -2695,7 +2956,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hore Abbey",
-                  "text": "Hore Abbey is a former Cistercian monastery near the Rock of Cashel.",
+                  "text": "Ruins of a Cistercian abbey in Cashel, near the Rock of Cashel.",
                   "category": "religious",
                   "coords": [
                         -7.898049,
@@ -2704,7 +2965,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killeen Grave Yard",
-                  "text": "Killeen Grave Yard is an archaeological site in Cashel.",
+                  "text": "Killeen Graveyard, historic cemetery in Cashel, a protected heritage site (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -7.936259,
@@ -2713,7 +2974,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Doon Fort",
-                  "text": "Doon Fort is a fortified archaeological site near Cashel.",
+                  "text": "A circular stone fort on a hill overlooking the Cashel countryside.",
                   "category": "historical",
                   "coords": [
                         -7.920113,
@@ -2722,7 +2983,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shanballyduff Castle",
-                  "text": "Shanballyduff Castle is a historic castle ruin in the Cashel region.",
+                  "text": "A castle ruin with a tower house in the shadow of the Rock of Cashel.",
                   "category": "castle",
                   "coords": [
                         -7.919858,
@@ -2731,7 +2992,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Gortmakellis Castle",
-                  "text": "Gortmakellis Castle is a former fortification near Cashel.",
+                  "text": "A ruined castle near the Rock of Cashel, surrounded by pastureland.",
                   "category": "castle",
                   "coords": [
                         -7.862855,
@@ -2740,7 +3001,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnadrinna",
-                  "text": "Rathnadrinna is a significant archaeological site near Cashel.",
+                  "text": "An Iron Age ringfort overlooking the plain and the Rock of Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.875062,
@@ -2749,7 +3010,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballyknock Hill",
-                  "text": "Ballyknock Hill is a prominent peak near Cashel.",
+                  "text": "Ballyknock Hill near Cashel, a viewpoint overlooking the Tipperary plain.",
                   "category": "natural",
                   "coords": [
                         -7.869161,
@@ -2767,7 +3028,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Brú Ború",
-                  "text": "Brú Ború in Cashel is a centre for traditional arts.",
+                  "text": "A cultural centre and theatre at the base of the Rock of Cashel, dedicated to Brian Boru.",
                   "category": "cultural",
                   "coords": [
                         -7.888405,
@@ -2776,7 +3037,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballynahinh Castle",
-                  "text": "Ballynahinh Castle in Cashel is a noteworthy ruin.",
+                  "text": "A castle ruin with a fortified tower and courtyard near Cashel.",
                   "category": "historical",
                   "coords": [
                         -7.948128,
@@ -2785,7 +3046,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint John's Cathedral",
-                  "text": "Saint John's Cathedral is a historic place of worship in Cashel.",
+                  "text": "Anglican cathedral in Cashel built in the 18th century on the site of an earlier church.",
                   "category": "religious",
                   "coords": [
                         -7.885532,
@@ -2842,7 +3103,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Royal Theatre",
-                  "text": "Ein großes Theater- und Veranstaltungszentrum in Castlebar.",
+                  "text": "Ein viktorianisches Theater in der Hauptstraße von Castlebar, das noch bespielt wird.",
                   "category": "cultural",
                   "coords": [
                         -9.30441,
@@ -2869,7 +3130,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Barry Castle",
-                  "text": "Ruinen einer alten Burg in Castlebar.",
+                  "text": "Eine Burgruine aus dem Mittelalter am Rand von Castlebar.",
                   "category": "historical",
                   "coords": [
                         -9.31493,
@@ -2887,7 +3148,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Ein lokales christliches Gotteshaus in Castlebar.",
+                  "text": "Die Christuskirche in Castlebar, eine Kirche der Church of Ireland am Marktplatz.",
                   "category": "religious",
                   "coords": [
                         -9.300031,
@@ -3132,7 +3393,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Royal Theatre",
-                  "text": "Nagy színház és rendezvényközpont Castlebarban.",
+                  "text": "Viktoriánus színház Castlebar főutcájában, még mindig működő előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -9.30441,
@@ -3159,7 +3420,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Barry Castle",
-                  "text": "Egy régi vár romjai Castlebarban.",
+                  "text": "Középkori várrom Castlebar szélén.",
                   "category": "historical",
                   "coords": [
                         -9.31493,
@@ -3177,7 +3438,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Helyi keresztény templom Castlebarban.",
+                  "text": "A Krisztus-templom Castlebarban, az Ír Egyház temploma a piactéren.",
                   "category": "religious",
                   "coords": [
                         -9.300031,
@@ -3422,7 +3683,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Royal Theatre",
-                  "text": "Un teatru mare și centru de evenimente în Castlebar.",
+                  "text": "Un teatru victorian pe strada principală din Castlebar, încă folosit pentru spectacole.",
                   "category": "cultural",
                   "coords": [
                         -9.30441,
@@ -3449,7 +3710,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Barry Castle",
-                  "text": "Ruinele unui vechi castel situat în Castlebar.",
+                  "text": "O ruină medievală de castel la marginea orașului Castlebar.",
                   "category": "historical",
                   "coords": [
                         -9.31493,
@@ -3467,7 +3728,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Un lăcaș de cult creștin local în Castlebar.",
+                  "text": "Christ Church din Castlebar, o biserică a Bisericii Irlandei în piața centrală.",
                   "category": "religious",
                   "coords": [
                         -9.300031,
@@ -3712,7 +3973,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Theatre",
-                  "text": "A large theatre and events venue in Castlebar.",
+                  "text": "A Victorian theatre on Castlebar's main street, still hosting performances.",
                   "category": "cultural",
                   "coords": [
                         -9.30441,
@@ -3739,7 +4000,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Barry Castle",
-                  "text": "Ruins of an old castle located in Castlebar.",
+                  "text": "A medieval castle ruin on the outskirts of Castlebar.",
                   "category": "historical",
                   "coords": [
                         -9.31493,
@@ -3757,7 +4018,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "A local Christian place of worship in Castlebar.",
+                  "text": "Christ Church in Castlebar, a Church of Ireland church on the market square.",
                   "category": "religious",
                   "coords": [
                         -9.300031,
@@ -4066,7 +4327,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cuskinny",
-                  "text": "Ein Küstenabschnitt bei Cobh.",
+                  "text": "Ein Naturschutzgebiet mit See und Wanderwegen bei Cobh.",
                   "category": "recreational",
                   "coords": [
                         -8.264234,
@@ -4075,7 +4336,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Castlelake Lake",
-                  "text": "Der Castlelake See in Cobh ist ein malerisches Gewässer.",
+                  "text": "Ein See auf Great Island, benannt nach der nahegelegenen Burgruine.",
                   "category": "natural",
                   "coords": [
                         -8.26904,
@@ -4113,7 +4374,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cuskinny",
-                  "text": "Partszakasz Cobh mellett.",
+                  "text": "Természetvédelmi terület tóval és sétányokkal Cobh közelében.",
                   "category": "recreational",
                   "coords": [
                         -8.264234,
@@ -4122,7 +4383,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Castlelake Lake",
-                  "text": "A cobhi Castlelake tó egy festői állóvíz.",
+                  "text": "Tó Great Islandon, a közeli várromról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -8.26904,
@@ -4160,7 +4421,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cuskinny",
-                  "text": "O zonă de coastă lângă Cobh.",
+                  "text": "O rezervație naturală cu lac și trasee de plimbare lângă Cobh.",
                   "category": "recreational",
                   "coords": [
                         -8.264234,
@@ -4169,7 +4430,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Castlelake Lake",
-                  "text": "Lacul Castlelake din Cobh este o apă pitorească.",
+                  "text": "Un lac pe Great Island, numit după ruina de castel din apropiere.",
                   "category": "natural",
                   "coords": [
                         -8.26904,
@@ -4207,7 +4468,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cuskinny",
-                  "text": "A coastal area near Cobh.",
+                  "text": "A nature reserve with a lake and walking trails near Cobh.",
                   "category": "recreational",
                   "coords": [
                         -8.264234,
@@ -4216,7 +4477,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Castlelake Lake",
-                  "text": "Castlelake lake in Cobh is a picturesque body of water.",
+                  "text": "A lake on Great Island, named after the nearby castle ruins.",
                   "category": "natural",
                   "coords": [
                         -8.26904,
@@ -4552,7 +4813,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Shooting Range",
-                  "text": "Ein Themenpark und eine Freizeiteinrichtung in Cratloe.",
+                  "text": "Ein familienfreundlicher Schießstand mit Tontaubenschießen in Cratloe.",
                   "category": "family",
                   "coords": [
                         -8.724239,
@@ -4581,7 +4842,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Shooting Range",
-                  "text": "Vidámpark és szabadidős létesítmény Cratloe-ban.",
+                  "text": "Családbarát lőtér agyaggalamb-lövészettel Cratloe-ban.",
                   "category": "family",
                   "coords": [
                         -8.724239,
@@ -4610,7 +4871,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Shooting Range",
-                  "text": "Un parc tematic și o facilitate de recreere în Cratloe.",
+                  "text": "Un poligon de tir pentru familii, cu tir cu talere în Cratloe.",
                   "category": "family",
                   "coords": [
                         -8.724239,
@@ -4639,7 +4900,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Shooting Range",
-                  "text": "A theme park and recreational facility in Cratloe.",
+                  "text": "A family-friendly shooting range with clay pigeon shooting in Cratloe.",
                   "category": "family",
                   "coords": [
                         -8.724239,
@@ -4804,7 +5065,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Down County Museum",
-                  "text": "Ein Museum in Downpatrick, das die Geschichte der Grafschaft Down dokumentiert.",
+                  "text": "Das Down County Museum in Downpatrick, untergebracht im ehemaligen Gefängnis der Grafschaft.",
                   "category": "museum",
                   "coords": [
                         -5.720256,
@@ -4831,7 +5092,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Ship",
-                  "text": "Eine archäologische Fundstätte in Downpatrick.",
+                  "text": "Ein historisches Pub mit Reetdach im Zentrum von Downpatrick.",
                   "category": "historical",
                   "coords": [
                         -5.700071,
@@ -4858,7 +5119,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hollymount Forest nature reserve",
-                  "text": "Ein malerisches Naturschutzgebiet in der Nähe von Downpatrick.",
+                  "text": "Ein Mischwald-Naturschutzgebiet mit Wanderwegen bei Downpatrick.",
                   "category": "natural",
                   "coords": [
                         -5.7516,
@@ -4876,7 +5137,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Downpatrick ASAI",
-                  "text": "Eine archäologische Ausgrabungsstätte in Downpatrick.",
+                  "text": "Eine prähistorische Erdwerksanlage in Downpatrick, vermutlich ein Ringfort.",
                   "category": "historical",
                   "coords": [
                         -5.735345,
@@ -4885,7 +5146,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Struell Wells",
-                  "text": "Alte heilige Quellen und Ruinen in der Nähe von Downpatrick.",
+                  "text": "Vier antike heilige Brunnen in Downpatrick mit Badehäusern, die zur Heilung genutzt wurden.",
                   "category": "historical",
                   "coords": [
                         -5.677293,
@@ -4894,7 +5155,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Finnebrogue House",
-                  "text": "Ein historisches Herrenhaus in der Gegend von Downpatrick.",
+                  "text": "Finnebrogue House, ein Herrenhaus aus dem 17. Jahrhundert in Downpatrick.",
                   "category": "historical",
                   "coords": [
                         -5.722719,
@@ -4923,7 +5184,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Down County Museum",
-                  "text": "Múzeum Downpatrickben, amely Down megye történelmét mutatja be.",
+                  "text": "A Down Megyei Múzeum Downpatrickban, a megye egykori börtönében.",
                   "category": "museum",
                   "coords": [
                         -5.720256,
@@ -4950,7 +5211,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Ship",
-                  "text": "Régészeti lelőhely Downpatrickben.",
+                  "text": "Történelmi, nádtetős kocsma Downpatrick központjában.",
                   "category": "historical",
                   "coords": [
                         -5.700071,
@@ -4977,7 +5238,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hollymount Forest nature reserve",
-                  "text": "Festői természetvédelmi terület Downpatrick közelében.",
+                  "text": "Vegyes erdős természetvédelmi terület sétányokkal Downpatrick közelében.",
                   "category": "natural",
                   "coords": [
                         -5.7516,
@@ -4995,7 +5256,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Downpatrick ASAI",
-                  "text": "Régészeti lelőhely Downpatrickben.",
+                  "text": "Őskori földmű Downpatrickban, valószínűleg egy körsánc.",
                   "category": "historical",
                   "coords": [
                         -5.735345,
@@ -5004,7 +5265,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Struell Wells",
-                  "text": "Ősi szent kutak és romok Downpatrick közelében.",
+                  "text": "Négy ősi szent kút Downpatrickban fürdőházakkal, amelyeket gyógyításra használtak.",
                   "category": "historical",
                   "coords": [
                         -5.677293,
@@ -5013,7 +5274,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Finnebrogue House",
-                  "text": "Történelmi kúria Downpatrick környékén.",
+                  "text": "A Finnebrogue-kúria, egy 17. századi kastély Downpatrickban.",
                   "category": "historical",
                   "coords": [
                         -5.722719,
@@ -5042,7 +5303,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Down County Museum",
-                  "text": "Un muzeu din Downpatrick care prezintă istoria comitatului Down.",
+                  "text": "Muzeul Județului Down din Downpatrick, găzduit în fosta închisoare a comitatului.",
                   "category": "museum",
                   "coords": [
                         -5.720256,
@@ -5069,7 +5330,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Ship",
-                  "text": "Un sit arheologic în Downpatrick.",
+                  "text": "Un pub istoric cu acoperiș de stuf în centrul orașului Downpatrick.",
                   "category": "historical",
                   "coords": [
                         -5.700071,
@@ -5096,7 +5357,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hollymount Forest nature reserve",
-                  "text": "O rezervație naturală pitorească situată lângă Downpatrick.",
+                  "text": "O rezervație naturală de pădure mixtă cu trasee de drumeție lângă Downpatrick.",
                   "category": "natural",
                   "coords": [
                         -5.7516,
@@ -5114,7 +5375,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Downpatrick ASAI",
-                  "text": "Un sit arheologic în Downpatrick.",
+                  "text": "Un sit preistoric de pământ din Downpatrick, probabil un fort circular.",
                   "category": "historical",
                   "coords": [
                         -5.735345,
@@ -5123,7 +5384,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Struell Wells",
-                  "text": "Vechi izvoare sfinte și ruine lângă Downpatrick.",
+                  "text": "Patru fântâni sfinte antice în Downpatrick, cu case de baie, folosite pentru vindecare.",
                   "category": "historical",
                   "coords": [
                         -5.677293,
@@ -5132,7 +5393,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Finnebrogue House",
-                  "text": "Un conac istoric în zona Downpatrick.",
+                  "text": "Finnebrogue House, un conac din secolul al XVII-lea în Downpatrick.",
                   "category": "historical",
                   "coords": [
                         -5.722719,
@@ -5161,7 +5422,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Down County Museum",
-                  "text": "A museum in Downpatrick showcasing the history of County Down.",
+                  "text": "Down County Museum in Downpatrick, housed in the former county gaol.",
                   "category": "museum",
                   "coords": [
                         -5.720256,
@@ -5188,7 +5449,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Ship",
-                  "text": "An archaeological site in Downpatrick.",
+                  "text": "A historic thatched pub in Downpatrick town centre.",
                   "category": "historical",
                   "coords": [
                         -5.700071,
@@ -5215,7 +5476,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Hollymount Forest nature reserve",
-                  "text": "A scenic nature reserve located near Downpatrick.",
+                  "text": "A mixed woodland nature reserve with walking trails near Downpatrick.",
                   "category": "natural",
                   "coords": [
                         -5.7516,
@@ -5233,7 +5494,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Downpatrick ASAI",
-                  "text": "An archaeological site in Downpatrick.",
+                  "text": "A prehistoric earthwork in Downpatrick, likely a ringfort.",
                   "category": "historical",
                   "coords": [
                         -5.735345,
@@ -5242,7 +5503,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Struell Wells",
-                  "text": "Ancient holy wells and ruins near Downpatrick.",
+                  "text": "Four ancient holy wells in Downpatrick with bath houses used for healing.",
                   "category": "historical",
                   "coords": [
                         -5.677293,
@@ -5251,7 +5512,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Finnebrogue House",
-                  "text": "A historic manor house in the Downpatrick area.",
+                  "text": "Finnebrogue House, a 17th-century mansion in Downpatrick.",
                   "category": "historical",
                   "coords": [
                         -5.722719,
@@ -5344,7 +5605,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Edenderry Town Hall",
-                  "text": "Das Verwaltungsgebäude und historische Rathaus von Edenderry.",
+                  "text": "Das Rathaus von Edenderry, ein viktorianisches Gebäude am Marktplatz.",
                   "category": "historical",
                   "coords": [
                         -7.049037,
@@ -5382,7 +5643,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Edenderry Town Hall",
-                  "text": "Edenderry közigazgatási épülete és történelmi városházája.",
+                  "text": "Az edenderry-i városháza, egy viktoriánus épület a piactéren.",
                   "category": "historical",
                   "coords": [
                         -7.049037,
@@ -5420,7 +5681,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Edenderry Town Hall",
-                  "text": "Clădirea administrativă și primăria istorică din Edenderry.",
+                  "text": "Primăria din Edenderry, o clădire victoriană în piața centrală.",
                   "category": "historical",
                   "coords": [
                         -7.049037,
@@ -5458,7 +5719,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Edenderry Town Hall",
-                  "text": "The administrative building and historic town hall of Edenderry.",
+                  "text": "Edenderry Town Hall, a Victorian building on the market square.",
                   "category": "historical",
                   "coords": [
                         -7.049037,
@@ -5524,7 +5785,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lough Coole",
-                  "text": "Lough Coole bei Enniskillen ist ein schöner, naturbelassener See.",
+                  "text": "Ein kleiner See in einer Senke in der Drumlin-Landschaft bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.608945,
@@ -5542,7 +5803,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolyermer Lough",
-                  "text": "Coolyermer Lough bei Enniskillen ist ein ruhiger See für Naturfreunde.",
+                  "text": "Ein See mit schlammigem Grund und Schilfgürtel bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.723194,
@@ -5551,7 +5812,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rossole Lough",
-                  "text": "Rossole Lough bei Enniskillen ist ein idyllischer See.",
+                  "text": "Ein See, der von Schilf umgeben ist und Vögeln als Lebensraum dient, bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.653153,
@@ -5560,7 +5821,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Toppedmountain Lough",
-                  "text": "Toppedmountain Lough bei Enniskillen ist ein malerischer See.",
+                  "text": "Ein See am Fuße eines Berges in der Nähe von Enos.",
                   "category": "natural",
                   "coords": [
                         -7.525997,
@@ -5569,7 +5830,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumkirk Lough",
-                  "text": "Drumkirk Lough bei Enniskillen ist ein schöner See in der Region.",
+                  "text": "Ein See nahe einer Kirchenruine auf einem Hügelrücken bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.574394,
@@ -5587,7 +5848,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Raymond",
-                  "text": "Lough Raymond bei Enniskillen ist ein ruhiges Gewässer.",
+                  "text": "Ein See, der nach einem normannischen Ritter benannt sein könnte, bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.560226,
@@ -5596,7 +5857,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Black Lough",
-                  "text": "Black Lough bei Enniskillen ist ein schöner, ruhiger See.",
+                  "text": "Ein dunkler Moorsee mit huminsäurereichem Wasser bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.577096,
@@ -5605,7 +5866,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Wolf Lough",
-                  "text": "Wolf Lough bei Enniskillen ist ein naturnaher See.",
+                  "text": "Ein abgelegener See in einer historisch wolfsreichen Gegend bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
@@ -5614,7 +5875,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballaghmore Lough",
-                  "text": "Ballaghmore Lough bei Enniskillen ist ein idyllischer See.",
+                  "text": "Ein See auf dem Townland Ballaghmore, nahe Enos.",
                   "category": "natural",
                   "coords": [
                         -7.668605,
@@ -5623,7 +5884,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Race Course Lough",
-                  "text": "Race Course Lough bei Enniskillen ist ein schöner See.",
+                  "text": "Ein See neben der ehemaligen Pferderennbahn bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.628721,
@@ -5632,7 +5893,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumcose Lough",
-                  "text": "Drumcose Lough bei Enniskillen ist ein ruhiger See.",
+                  "text": "Ein See in einem bewaldeten Drumlin bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.715036,
@@ -5650,7 +5911,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Galliagh",
-                  "text": "Lough Galliagh bei Enniskillen ist ein malerischer See.",
+                  "text": "Ein See, der für sein Forellenangeln bekannt ist, bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.656679,
@@ -5659,7 +5920,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lenaghan Lough",
-                  "text": "Lenaghan Lough bei Enniskillen ist ein friedlicher See.",
+                  "text": "Ein See mit einem Crannog (künstliche Insel) im sumpfigen Gelände bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.696068,
@@ -5668,7 +5929,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballydoolagh Lough",
-                  "text": "Ballydoolagh Lough bei Enniskillen ist ein schönes Gewässer.",
+                  "text": "Ein See nahe der Siedlung Ballydoolagh bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.563187,
@@ -5677,7 +5938,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kinarla Lough",
-                  "text": "Kinarla Lough bei Enniskillen ist ein ruhiger See.",
+                  "text": "Ein See in einem felsigen Becken nahe Enos.",
                   "category": "natural",
                   "coords": [
                         -7.669386,
@@ -5695,7 +5956,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Avilly",
-                  "text": "Lough Avilly bei Enniskillen ist ein idyllischer See.",
+                  "text": "Ein See in der Nähe eines Wasserfalls bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.557458,
@@ -5704,7 +5965,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fardrum Lough",
-                  "text": "Fardrum Lough bei Enniskillen ist ein malerischer See.",
+                  "text": "Ein See mit einem schwimmenden Torfmoor (Schwingrasen) bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.722487,
@@ -5713,7 +5974,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower Lough Erne",
-                  "text": "Der Lower Lough Erne bei Enniskillen ist ein großer, wunderschöner See.",
+                  "text": "Der untere Teil des Lough Erne, ein großer See mit vielen Inseln nahe Enos.",
                   "category": "natural",
                   "coords": [
                         -7.829821,
@@ -5722,7 +5983,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Yoan",
-                  "text": "Lough Yoan bei Enniskillen ist ein ruhiger See.",
+                  "text": "Ein kleiner See mit einer Bootsanlegestelle bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.611295,
@@ -5731,7 +5992,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mill Lough",
-                  "text": "Mill Lough bei Enniskillen ist ein schönes Gewässer.",
+                  "text": "Ein See neben den Ruinen einer alten Mühle bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.621776,
@@ -5740,7 +6001,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Back Lough",
-                  "text": "Back Lough bei Enniskillen ist ein friedlicher See.",
+                  "text": "Ein kleiner See hinter einem Gehöft bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.645754,
@@ -5760,7 +6021,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lough Coole",
-                  "text": "Az enniskilleni Lough Coole egy szép, természetes tó.",
+                  "text": "Kis tó egy mélyedésben, Enos melletti drumlin tájon.",
                   "category": "natural",
                   "coords": [
                         -7.608945,
@@ -5778,7 +6039,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolyermer Lough",
-                  "text": "Az enniskilleni Coolyermer Lough egy csendes tó a természetbarátoknak.",
+                  "text": "Iszapos fenekű, nádas szegélyű tó Enos közelében.",
                   "category": "natural",
                   "coords": [
                         -7.723194,
@@ -5787,7 +6048,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rossole Lough",
-                  "text": "Az enniskilleni Rossole Lough egy idilli tó.",
+                  "text": "Nádas tó, madarak élőhelye, Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.653153,
@@ -5796,7 +6057,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Toppedmountain Lough",
-                  "text": "Az enniskilleni Toppedmountain Lough egy festői tó.",
+                  "text": "Tó egy hegy lábánál Enos közelében.",
                   "category": "natural",
                   "coords": [
                         -7.525997,
@@ -5805,7 +6066,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumkirk Lough",
-                  "text": "Az enniskilleni Drumkirk Lough egy szép tó a régióban.",
+                  "text": "Tó egy dombháton álló templomrom közelében Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.574394,
@@ -5823,7 +6084,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Raymond",
-                  "text": "Az enniskilleni Lough Raymond egy nyugodt állóvíz.",
+                  "text": "Tó, amelyet talán egy normann lovagról neveztek el, Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.560226,
@@ -5832,7 +6093,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Black Lough",
-                  "text": "Az enniskilleni Black Lough egy szép, csendes tó.",
+                  "text": "Sötét, humuszsavban gazdag vízű láp tó Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.577096,
@@ -5841,7 +6102,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Wolf Lough",
-                  "text": "Az enniskilleni Wolf Lough egy természeti tó.",
+                  "text": "Elszigetelt tó egy történelmileg farkasok által lakott vidéken Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
@@ -5850,7 +6111,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballaghmore Lough",
-                  "text": "Az enniskilleni Ballaghmore Lough egy idilli tó.",
+                  "text": "Tó a Ballaghmore településrészen, Enos közelében.",
                   "category": "natural",
                   "coords": [
                         -7.668605,
@@ -5859,7 +6120,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Race Course Lough",
-                  "text": "Az enniskilleni Race Course Lough egy szép tó.",
+                  "text": "Tó a régi lóversenypálya mellett Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.628721,
@@ -5868,7 +6129,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumcose Lough",
-                  "text": "Az enniskilleni Drumcose Lough egy csendes tó.",
+                  "text": "Tó egy erdős drumlinban Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.715036,
@@ -5886,7 +6147,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Galliagh",
-                  "text": "Az enniskilleni Lough Galliagh egy festői tó.",
+                  "text": "Tó, amely híres a pisztránghorgászatáról, Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.656679,
@@ -5895,7 +6156,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lenaghan Lough",
-                  "text": "Az enniskilleni Lenaghan Lough egy békés tó.",
+                  "text": "Tó crannoggal (mesterséges szigettel) a mocsaras területen Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.696068,
@@ -5904,7 +6165,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballydoolagh Lough",
-                  "text": "Az enniskilleni Ballydoolagh Lough egy szép állóvíz.",
+                  "text": "Tó Ballydoolagh település közelében Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.563187,
@@ -5913,7 +6174,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kinarla Lough",
-                  "text": "Az enniskilleni Kinarla Lough egy csendes tó.",
+                  "text": "Tó egy sziklás medencében Enos közelében.",
                   "category": "natural",
                   "coords": [
                         -7.669386,
@@ -5931,7 +6192,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Avilly",
-                  "text": "Az enniskilleni Lough Avilly egy idilli tó.",
+                  "text": "Tó egy vízesés közelében Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.557458,
@@ -5940,7 +6201,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fardrum Lough",
-                  "text": "Az enniskilleni Fardrum Lough egy festői tó.",
+                  "text": "Úszó tőzegláp (Schwingrasen) borította tó Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.722487,
@@ -5949,7 +6210,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower Lough Erne",
-                  "text": "Az enniskilleni Lower Lough Erne egy nagy, gyönyörű tó.",
+                  "text": "Az Erne-tó alsó része, egy nagy tó számos szigettel, Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.829821,
@@ -5958,7 +6219,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Yoan",
-                  "text": "Az enniskilleni Lough Yoan egy csendes tó.",
+                  "text": "Kis tó csónakkikötővel Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.611295,
@@ -5967,7 +6228,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mill Lough",
-                  "text": "Az enniskilleni Mill Lough egy szép állóvíz.",
+                  "text": "Tó egy régi malom romjai mellett Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.621776,
@@ -5976,7 +6237,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Back Lough",
-                  "text": "Az enniskilleni Back Lough egy békés tó.",
+                  "text": "Kis tó egy tanya mögött Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.645754,
@@ -5996,7 +6257,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lough Coole",
-                  "text": "Lough Coole de lângă Enniskillen este un lac natural frumos.",
+                  "text": "Un lac mic într-o depresiune, în peisajul de drumlin lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.608945,
@@ -6014,7 +6275,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolyermer Lough",
-                  "text": "Coolyermer Lough de lângă Enniskillen este un lac liniștit pentru iubitorii de natură.",
+                  "text": "Un lac cu fund noroios și stufăriș la margine, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.723194,
@@ -6023,7 +6284,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rossole Lough",
-                  "text": "Rossole Lough de lângă Enniskillen este un lac idilic.",
+                  "text": "Un lac înconjurat de stuf, habitat pentru păsări, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.653153,
@@ -6032,7 +6293,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Toppedmountain Lough",
-                  "text": "Toppedmountain Lough de lângă Enniskillen este un lac pitoresc.",
+                  "text": "Un lac la poalele unui munte lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.525997,
@@ -6041,7 +6302,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumkirk Lough",
-                  "text": "Drumkirk Lough de lângă Enniskillen este un lac frumos în regiune.",
+                  "text": "Un lac lângă o ruină de biserică pe un deal, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.574394,
@@ -6059,7 +6320,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Raymond",
-                  "text": "Lough Raymond de lângă Enniskillen este o apă liniștită.",
+                  "text": "Un lac posibil numit după un cavaler normand, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.560226,
@@ -6068,7 +6329,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Black Lough",
-                  "text": "Black Lough de lângă Enniskillen este un lac frumos și liniștit.",
+                  "text": "Un lac întunecat de turbărie cu apă bogată în acizi humici, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.577096,
@@ -6077,7 +6338,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Wolf Lough",
-                  "text": "Wolf Lough de lângă Enniskillen este un lac natural.",
+                  "text": "Un lac izolat într-o zonă istoric populată de lupi, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
@@ -6086,7 +6347,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballaghmore Lough",
-                  "text": "Ballaghmore Lough de lângă Enniskillen este un lac idilic.",
+                  "text": "Un lac pe teritoriul Ballaghmore, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.668605,
@@ -6095,7 +6356,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Race Course Lough",
-                  "text": "Race Course Lough de lângă Enniskillen este un lac frumos.",
+                  "text": "Un lac lângă vechiul hipodrom de cai de lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.628721,
@@ -6104,7 +6365,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumcose Lough",
-                  "text": "Drumcose Lough de lângă Enniskillen este un lac liniștit.",
+                  "text": "Un lac într-un drumlin împădurit lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.715036,
@@ -6122,7 +6383,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Galliagh",
-                  "text": "Lough Galliagh de lângă Enniskillen este un lac pitoresc.",
+                  "text": "Un lac cunoscut pentru pescuitul la păstrăv, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.656679,
@@ -6131,7 +6392,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lenaghan Lough",
-                  "text": "Lenaghan Lough de lângă Enniskillen este un lac liniștit.",
+                  "text": "Un lac cu un crannog (insulă artificială) în teren mlăștinos lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.696068,
@@ -6140,7 +6401,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballydoolagh Lough",
-                  "text": "Ballydoolagh Lough de lângă Enniskillen este o apă frumoasă.",
+                  "text": "Un lac lângă așezarea Ballydoolagh, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.563187,
@@ -6149,7 +6410,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kinarla Lough",
-                  "text": "Kinarla Lough de lângă Enniskillen este un lac liniștit.",
+                  "text": "Un lac într-un bazin stâncos lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.669386,
@@ -6167,7 +6428,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Avilly",
-                  "text": "Lough Avilly de lângă Enniskillen este un lac idilic.",
+                  "text": "Un lac lângă o cascadă în apropiere de Enos.",
                   "category": "natural",
                   "coords": [
                         -7.557458,
@@ -6176,7 +6437,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fardrum Lough",
-                  "text": "Fardrum Lough de lângă Enniskillen este un lac pitoresc.",
+                  "text": "Un lac cu o mlaștină flotantă de turbă (Schwingrasen) lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.722487,
@@ -6185,7 +6446,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower Lough Erne",
-                  "text": "Lower Lough Erne de lângă Enniskillen este un lac mare și minunat.",
+                  "text": "Partea inferioară a Lough Erne, un lac mare cu multe insule lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.829821,
@@ -6194,7 +6455,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Yoan",
-                  "text": "Lough Yoan de lângă Enniskillen este un lac liniștit.",
+                  "text": "Un lac mic cu un debarcader pentru bărci lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.611295,
@@ -6203,7 +6464,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mill Lough",
-                  "text": "Mill Lough de lângă Enniskillen este o apă frumoasă.",
+                  "text": "Un lac lângă ruinele unei vechi mori lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.621776,
@@ -6212,7 +6473,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Back Lough",
-                  "text": "Back Lough de lângă Enniskillen este un lac liniștit.",
+                  "text": "Un lac mic în spatele unei ferme lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.645754,
@@ -6232,7 +6493,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lough Coole",
-                  "text": "Lough Coole near Enniskillen is a beautiful, natural lake.",
+                  "text": "A small lake in a hollow in the drumlin landscape near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.608945,
@@ -6250,7 +6511,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolyermer Lough",
-                  "text": "Coolyermer Lough near Enniskillen is a quiet lake for nature lovers.",
+                  "text": "A lake with a muddy bottom and reed fringe near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.723194,
@@ -6259,7 +6520,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rossole Lough",
-                  "text": "Rossole Lough near Enniskillen is an idyllic lake.",
+                  "text": "A lake surrounded by reeds, providing bird habitat near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.653153,
@@ -6268,7 +6529,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Toppedmountain Lough",
-                  "text": "Toppedmountain Lough near Enniskillen is a picturesque lake.",
+                  "text": "A lake at the foot of a mountain near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.525997,
@@ -6277,7 +6538,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumkirk Lough",
-                  "text": "Drumkirk Lough near Enniskillen is a beautiful lake in the region.",
+                  "text": "A lake near a church ruin on a ridge near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.574394,
@@ -6295,7 +6556,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Raymond",
-                  "text": "Lough Raymond near Enniskillen is a quiet body of water.",
+                  "text": "A lake possibly named after a Norman knight near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.560226,
@@ -6304,7 +6565,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Black Lough",
-                  "text": "Black Lough near Enniskillen is a beautiful, quiet lake.",
+                  "text": "A dark peat lake with humic-rich water near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.577096,
@@ -6313,7 +6574,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Wolf Lough",
-                  "text": "Wolf Lough near Enniskillen is a natural lake.",
+                  "text": "A remote lake in a historically wolf-inhabited area near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
@@ -6322,7 +6583,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballaghmore Lough",
-                  "text": "Ballaghmore Lough near Enniskillen is an idyllic lake.",
+                  "text": "A lake on the townland of Ballaghmore near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.668605,
@@ -6331,7 +6592,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Race Course Lough",
-                  "text": "Race Course Lough near Enniskillen is a beautiful lake.",
+                  "text": "A lake beside the former horse racecourse near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.628721,
@@ -6340,7 +6601,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Drumcose Lough",
-                  "text": "Drumcose Lough near Enniskillen is a quiet lake.",
+                  "text": "A lake in a wooded drumlin near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.715036,
@@ -6358,7 +6619,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Galliagh",
-                  "text": "Lough Galliagh near Enniskillen is a picturesque lake.",
+                  "text": "A lake known for its trout fishing near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.656679,
@@ -6367,7 +6628,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lenaghan Lough",
-                  "text": "Lenaghan Lough near Enniskillen is a peaceful lake.",
+                  "text": "A lake with a crannog (artificial island) in the marshy area near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.696068,
@@ -6376,7 +6637,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballydoolagh Lough",
-                  "text": "Ballydoolagh Lough near Enniskillen is a beautiful body of water.",
+                  "text": "A lake near the settlement of Ballydoolagh near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.563187,
@@ -6385,7 +6646,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kinarla Lough",
-                  "text": "Kinarla Lough near Enniskillen is a quiet lake.",
+                  "text": "A lake in a rocky basin near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.669386,
@@ -6403,7 +6664,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Avilly",
-                  "text": "Lough Avilly near Enniskillen is an idyllic lake.",
+                  "text": "A lake near a waterfall close to Enos.",
                   "category": "natural",
                   "coords": [
                         -7.557458,
@@ -6412,7 +6673,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fardrum Lough",
-                  "text": "Fardrum Lough near Enniskillen is a picturesque lake.",
+                  "text": "A lake with a floating peat bog (quaking bog) near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.722487,
@@ -6421,7 +6682,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lower Lough Erne",
-                  "text": "Lower Lough Erne near Enniskillen is a large, beautiful lake.",
+                  "text": "The lower part of Lough Erne, a large lake with many islands near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.829821,
@@ -6430,7 +6691,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Yoan",
-                  "text": "Lough Yoan near Enniskillen is a quiet lake.",
+                  "text": "A small lake with a boat launch near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.611295,
@@ -6439,7 +6700,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mill Lough",
-                  "text": "Mill Lough near Enniskillen is a beautiful body of water.",
+                  "text": "A lake beside the ruins of an old mill near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.621776,
@@ -6448,7 +6709,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Back Lough",
-                  "text": "Back Lough near Enniskillen is a peaceful lake.",
+                  "text": "A small lake behind a farmstead near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.645754,
@@ -6514,7 +6775,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fermoy Leasure Center",
-                  "text": "Ein Wasserpark und eine Freizeiteinrichtung in Fermoy.",
+                  "text": "Ein Freizeitzentrum mit Schwimmbad und Sportanlagen in Fermoy.",
                   "category": "family",
                   "coords": [
                         -8.277824,
@@ -6523,7 +6784,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carntierna",
-                  "text": "Eine archäologische Stätte und ein Ringfort in der Nähe von Fermoy.",
+                  "text": "Carntierna, archäologische Stätte in Fermoy, geschütztes Kulturerbe (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -8.282938,
@@ -6541,7 +6802,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolmuckee Woods",
-                  "text": "Ein Aussichtspunkt mit malerischem Blick in der Nähe von Fermoy.",
+                  "text": "Ein naturnahes Gebiet mit Bachlauf und Waldstück nahe Fermoy.",
                   "category": "natural",
                   "coords": [
                         -8.319017,
@@ -6559,7 +6820,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fermoy House",
-                  "text": "Die Ruinen eines alten Hauses in Fermoy.",
+                  "text": "Historisches Haus am River Blackwater in Fermoy.",
                   "category": "historical",
                   "coords": [
                         -8.279485,
@@ -6568,7 +6829,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ruined Tower House",
-                  "text": "Die Ruinen eines historischen Turmhauses in Fermoy.",
+                  "text": "Verfallener Turmhausruine in der Nähe von Fermoy.",
                   "category": "historical",
                   "coords": [
                         -8.25511,
@@ -6577,7 +6838,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christchurch Church of Ireland",
-                  "text": "Ein lokales Gotteshaus der Church of Ireland in Fermoy.",
+                  "text": "Die Christuskirche in Fermoy, eine Kirche der Church of Ireland an der Brücke.",
                   "category": "religious",
                   "coords": [
                         -8.276408,
@@ -6595,7 +6856,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "Eine dem Heiligen Patrick gewidmete Kirche in Fermoy.",
+                  "text": "Die St.-Patrick-Kirche in Fermoy, eine katholische Kirche mit einem hohen Turm.",
                   "category": "religious",
                   "coords": [
                         -8.279815,
@@ -6604,7 +6865,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kent Bridge",
-                  "text": "Eine Brücke über den Fluss Blackwater in Fermoy.",
+                  "text": "Die Kent Bridge in Fermoy, eine Steinbogenbrücke über den Blackwater.",
                   "category": "landmark",
                   "coords": [
                         -8.275465,
@@ -6615,7 +6876,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fermoy Leasure Center",
-                  "text": "Vízipark és szabadidős létesítmény Fermoyban.",
+                  "text": "Szabadidőközpont uszodával és sportlétesítményekkel Fermoyban.",
                   "category": "family",
                   "coords": [
                         -8.277824,
@@ -6624,7 +6885,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carntierna",
-                  "text": "Régészeti lelőhely és dombvár Fermoy közelében.",
+                  "text": "Carntierna régészeti lelőhely Fermoyban, védett örökségi helyszín (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -8.282938,
@@ -6642,7 +6903,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolmuckee Woods",
-                  "text": "Kilátóhely festői panorámával Fermoy közelében.",
+                  "text": "Természetközeli terület patakkal és erdőfolttal Fermoy közelében.",
                   "category": "natural",
                   "coords": [
                         -8.319017,
@@ -6660,7 +6921,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fermoy House",
-                  "text": "Egy régi ház romjai Fermoyban.",
+                  "text": "Történelmi ház a Fermoy-i River Blackwater partján.",
                   "category": "historical",
                   "coords": [
                         -8.279485,
@@ -6669,7 +6930,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ruined Tower House",
-                  "text": "Egy történelmi toronyház romjai Fermoyban.",
+                  "text": "Romos toronyház Fermoy közelében.",
                   "category": "historical",
                   "coords": [
                         -8.25511,
@@ -6678,7 +6939,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christchurch Church of Ireland",
-                  "text": "Az ír egyház helyi temploma Fermoyban.",
+                  "text": "A Krisztus-templom Fermoyban, az Ír Egyház temploma a hídnál.",
                   "category": "religious",
                   "coords": [
                         -8.276408,
@@ -6696,7 +6957,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "Szent Patrik tiszteletére szentelt templom Fermoyban.",
+                  "text": "A Szent Patrick-templom Fermoyban, egy katolikus templom magas toronnyal.",
                   "category": "religious",
                   "coords": [
                         -8.279815,
@@ -6705,7 +6966,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kent Bridge",
-                  "text": "Híd a Blackwater-folyón Fermoyban.",
+                  "text": "A Kent-híd Fermoyban, egy kőíves híd a Blackwater folyón.",
                   "category": "landmark",
                   "coords": [
                         -8.275465,
@@ -6716,7 +6977,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fermoy Leasure Center",
-                  "text": "Un parc acvatic și o facilitate de recreere în Fermoy.",
+                  "text": "Un centru de agrement cu piscină și facilități sportive în Fermoy.",
                   "category": "family",
                   "coords": [
                         -8.277824,
@@ -6725,7 +6986,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carntierna",
-                  "text": "Un sit arheologic și o fortificație de deal lângă Fermoy.",
+                  "text": "Carntierna, sit arheologic în Fermoy, sit protejat de patrimoniu (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -8.282938,
@@ -6743,7 +7004,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolmuckee Woods",
-                  "text": "Un punct de belvedere care oferă vederi pitorești lângă Fermoy.",
+                  "text": "O zonă naturală cu pârâu și pădure lângă Fermoy.",
                   "category": "natural",
                   "coords": [
                         -8.319017,
@@ -6761,7 +7022,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fermoy House",
-                  "text": "Ruinele unei vechi case în Fermoy.",
+                  "text": "Casă istorică pe malul râului Blackwater în Fermoy.",
                   "category": "historical",
                   "coords": [
                         -8.279485,
@@ -6770,7 +7031,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ruined Tower House",
-                  "text": "Ruinele unei case turn istorice în Fermoy.",
+                  "text": "Ruină de turn fortificat lângă Fermoy.",
                   "category": "historical",
                   "coords": [
                         -8.25511,
@@ -6779,7 +7040,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christchurch Church of Ireland",
-                  "text": "Un lăcaș de cult local al Bisericii Irlandei în Fermoy.",
+                  "text": "Christ Church din Fermoy, o biserică a Bisericii Irlandei lângă pod.",
                   "category": "religious",
                   "coords": [
                         -8.276408,
@@ -6797,7 +7058,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "O biserică dedicată Sfântului Patrick în Fermoy.",
+                  "text": "Biserica Sf. Patrick din Fermoy, o biserică catolică cu un turn înalt.",
                   "category": "religious",
                   "coords": [
                         -8.279815,
@@ -6806,7 +7067,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kent Bridge",
-                  "text": "Un pod peste râul Blackwater în Fermoy.",
+                  "text": "Podul Kent din Fermoy, un pod de piatră cu arcade peste râul Blackwater.",
                   "category": "landmark",
                   "coords": [
                         -8.275465,
@@ -6817,7 +7078,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fermoy Leisure Centre",
-                  "text": "A water park and recreational facility in Fermoy.",
+                  "text": "A leisure centre with a swimming pool and sports facilities in Fermoy.",
                   "category": "family",
                   "coords": [
                         -8.277824,
@@ -6826,7 +7087,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carntierna",
-                  "text": "An archaeological site and hillfort near Fermoy.",
+                  "text": "Carntierna, archaeological site in Fermoy, a protected heritage site (RPS 2).",
                   "category": "historical",
                   "coords": [
                         -8.282938,
@@ -6844,7 +7105,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolmuckee",
-                  "text": "A viewpoint offering scenic vistas near Fermoy.",
+                  "text": "A natural area with a stream and woodland patch near Fermoy.",
                   "category": "natural",
                   "coords": [
                         -8.319017,
@@ -6862,7 +7123,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fermoy House",
-                  "text": "The ruins of an old house in Fermoy.",
+                  "text": "Historic house on the River Blackwater in Fermoy.",
                   "category": "historical",
                   "coords": [
                         -8.279485,
@@ -6871,7 +7132,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ruined Tower House",
-                  "text": "The ruins of a historical tower house in Fermoy.",
+                  "text": "Ruined tower house near Fermoy.",
                   "category": "historical",
                   "coords": [
                         -8.25511,
@@ -6880,7 +7141,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christchurch Church of Ireland",
-                  "text": "A local Church of Ireland place of worship in Fermoy.",
+                  "text": "Christchurch Church of Ireland in Fermoy, located near the bridge.",
                   "category": "religious",
                   "coords": [
                         -8.276408,
@@ -6898,7 +7159,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "A local church dedicated to Saint Patrick in Fermoy.",
+                  "text": "St. Patrick's Church in Fermoy, a Catholic church with a tall spire.",
                   "category": "religious",
                   "coords": [
                         -8.279815,
@@ -6907,7 +7168,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kent Bridge",
-                  "text": "A bridge crossing the River Blackwater in Fermoy.",
+                  "text": "Kent Bridge in Fermoy, a stone arch bridge over the River Blackwater.",
                   "category": "landmark",
                   "coords": [
                         -8.275465,
@@ -6964,7 +7225,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gort Castle",
-                  "text": "Der Standort einer ehemaligen Befestigungsanlage in der Stadt Gort.",
+                  "text": "Ruinenburg im Zentrum von Gort.",
                   "category": "historical",
                   "coords": [
                         -8.817103,
@@ -6973,7 +7234,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Beagh Church",
-                  "text": "Die Ruinen einer alten Kirche in der Umgebung von Gort.",
+                  "text": "Ruinen einer mittelalterlichen Kirche auf dem Land bei Gort.",
                   "category": "historical",
                   "coords": [
                         -8.795014,
@@ -6984,7 +7245,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gort Castle",
-                  "text": "Egy egykori erődítmény helyszíne Gort városában.",
+                  "text": "Romos vár Gort központjában.",
                   "category": "historical",
                   "coords": [
                         -8.817103,
@@ -6993,7 +7254,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Beagh Church",
-                  "text": "Egy régi templom romjai Gort környékén.",
+                  "text": "Középkori templomrom Gort közelében.",
                   "category": "historical",
                   "coords": [
                         -8.795014,
@@ -7004,7 +7265,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gort Castle",
-                  "text": "Situl unei foste fortificații situate în orașul Gort.",
+                  "text": "Castel în ruine în centrul orașului Gort.",
                   "category": "historical",
                   "coords": [
                         -8.817103,
@@ -7013,7 +7274,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Beagh Church",
-                  "text": "Ruinele unei vechi biserici situate în vecinătatea orașului Gort.",
+                  "text": "Ruină de biserică medievală lângă Gort.",
                   "category": "historical",
                   "coords": [
                         -8.795014,
@@ -7024,7 +7285,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gort Castle",
-                  "text": "The site of a former fortification located in the town of Gort.",
+                  "text": "Ruined castle in the centre of Gort.",
                   "category": "historical",
                   "coords": [
                         -8.817103,
@@ -7033,7 +7294,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Beagh Church",
-                  "text": "The ruins of an old church situated in the vicinity of Gort.",
+                  "text": "Ruined medieval church in the countryside near Gort.",
                   "category": "historical",
                   "coords": [
                         -8.795014,
@@ -7086,7 +7347,664 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-gort-cities-v2.webp",
   },
   {
-    id: "ireland-greystones-cities-v2", "sights": {"de": [{"name": "Kindlestown Castle", "text": "Ruinen von Kindlestown Castle in Greystones.", "category": "castle", "coords": [-6.089034, 53.141192]}, {"name": "Whale Theatre", "text": "Whale Theatre in Greystones.", "category": "cultural", "coords": [-6.064373, 53.144391]}, {"name": "The Cove", "text": "Strand The Cove in Greystones.", "category": "recreational", "coords": [-6.062628, 53.14879]}, {"name": "North Beach", "text": "Geprägt von seinem kieseligen Ufer und weiten Blicken aufs Meer, ist der Nordstrand in Greystones ein frisches und wunderschönes Ausflugsziel. Er strahlt eine friedliche, etwas rauere Atmosphäre aus, die ihn zu einem wunderbaren Ort für nachdenkliche Spaziergänge und das Beobachten der brechenden Wellen macht. Das kühle Ozeanwasser lädt mutige Schwimmer zu einem erfrischenden Bad ein. Ein robustes Paar Wanderschuhe ist ideal, um das steinige Gelände bequem zu überqueren.", "category": "recreational", "coords": [-6.074435, 53.163788]}, {"name": "Greystones South Beach", "text": "Eine lebhafte Mischung aus Sand und Kies macht den Südstrand von Greystones zu einem beliebten Treffpunkt für Einheimische und Tagesausflügler. Die Stimmung hier ist herrlich familienfreundlich und bietet viel Platz zum Sandburgenbauen, für entspanntes Schwimmen und für Picknicks am Meer. Gemütliche Spaziergänge am Wasser eröffnen atemberaubende Ausblicke auf die umliegende Küstenlandschaft. An Sommerwochenenden kann es recht geschäftig werden, daher sichert eine frühe Ankunft einen erstklassigen Platz nahe der Wasserkante.", "category": "recreational", "coords": [-6.058617, 53.142878]}, {"name": "Rock of Kilcoole", "text": "Aussichtspunkt Rock of Kilcoole bei Greystones.", "category": "natural", "coords": [-6.063114, 53.108826]}, {"name": "Glenroe Farm", "text": "Besucherattraktion Glenroe Farm in Greystones.", "category": "landmark", "coords": [-6.054352, 53.114153]}, {"name": "The Octagon", "text": "Ruinen des Octagon in Greystones.", "category": "historical", "coords": [-6.115292, 53.138955]}, {"name": "JP Donleavy cottage ruins", "text": "Ruinen des JP Donleavy-Ferienhauses in Greystones.", "category": "historical", "coords": [-6.05191, 53.109195]}, {"name": "Ballygannon Demesne", "text": "Ruinen des Ballygannon-Herrenhauses in Greystones.", "category": "historical", "coords": [-6.046857, 53.118398]}, {"name": "Bray Greystones View", "text": "Aussichtspunkt mit Blick auf Bray und Greystones.", "category": "natural", "coords": [-6.074433, 53.176152]}, {"name": "Killincarrig Castle", "text": "Herrenhaus Killincarrig Castle in Greystones.", "category": "historical", "coords": [-6.07759, 53.136154]}, {"name": "Saint Patrick's Church", "text": "Diese Kirche ist ein Gotteshaus in Greystones.", "category": "religious", "coords": [-6.070496, 53.147807]}, {"name": "Church of the Holy Rosary", "text": "Ein Gotteshaus in der Stadt Greystones.", "category": "religious", "coords": [-6.062742, 53.146575]}, {"name": "Christ Church", "text": "Christ Church ist ein Gotteshaus in Greystones.", "category": "religious", "coords": [-6.088651, 53.132781]}, {"name": "Saint Patrick's", "text": "Saint Patrick's ist ein Gotteshaus in Greystones.", "category": "religious", "coords": [-6.087107, 53.112341]}, {"name": "Greystones Presbyterian Church", "text": "Diese presbyterianische Kirche befindet sich in Greystones.", "category": "religious", "coords": [-6.064126, 53.147192]}, {"name": "St. Mary's Church", "text": "St. Mary's Church ist ein historisches Kirchengebäude in Greystones.", "category": "religious", "coords": [-6.110643, 53.129714]}], "hu": [{"name": "Kindlestown Castle", "text": "A Kindlestown kastély romjai Greystonesban.", "category": "castle", "coords": [-6.089034, 53.141192]}, {"name": "Whale Theatre", "text": "A Whale Színház Greystonesban.", "category": "cultural", "coords": [-6.064373, 53.144391]}, {"name": "The Cove", "text": "A The Cove strand Greystonesban.", "category": "recreational", "coords": [-6.062628, 53.14879]}, {"name": "North Beach", "text": "A kavicsos partvonaláról és tágas tengeri kilátásáról ismert greystonesi Északi-part egy friss és gyönyörű úti cél. Békés, némileg vadregényesebb légkört áraszt, így csodálatos helyszín az elmélyült sétákhoz és a partnak csapódó hullámok megfigyeléséhez. A hűvös óceán vize pezsdítő mártózást kínál a elég bátor úszóknak. Egy masszív sétacipő ideális a kavicsos terepen való kényelmes áthaladáshoz.", "category": "recreational", "coords": [-6.074435, 53.163788]}, {"name": "Greystones South Beach", "text": "A homok és kavics élénk keveréke teszi a greystonesi Déli-partot a helyiek és az egynapos kirándulók népszerű központjává. A hangulat itt csodálatosan családbarát, bőséges helyet kínálva a homokvár építéshez, a nyugodt úszáshoz és a tengerparti piknikekhez. A víz menti könnyed séták lenyűgöző kilátást nyújtanak a környező tengerparti tájra. A nyári hétvégék meglehetősen forgalmasak lehetnek, így az időközben történő érkezés biztosítja a legjobb helyet a víz szélén.", "category": "recreational", "coords": [-6.058617, 53.142878]}, {"name": "Rock of Kilcoole", "text": "A Rock of Kilcoole kilátópont Greystones közelében.", "category": "natural", "coords": [-6.063114, 53.108826]}, {"name": "Glenroe Farm", "text": "A Glenroe Farm látogatói központ Greystonesban.", "category": "landmark", "coords": [-6.054352, 53.114153]}, {"name": "The Octagon", "text": "Az Octagon romjai Greystonesban.", "category": "historical", "coords": [-6.115292, 53.138955]}, {"name": "JP Donleavy cottage ruins", "text": "JP Donleavy egykori nyaralójának romjai Greystonesban.", "category": "historical", "coords": [-6.05191, 53.109195]}, {"name": "Ballygannon Demesne", "text": "A Ballygannon birtok romjai Greystonesban.", "category": "historical", "coords": [-6.046857, 53.118398]}, {"name": "Bray Greystones View", "text": "Kilátópont Bray és Greystones látképével.", "category": "natural", "coords": [-6.074433, 53.176152]}, {"name": "Killincarrig Castle", "text": "Killincarrig kastélyépület Greystonesban.", "category": "historical", "coords": [-6.07759, 53.136154]}, {"name": "Saint Patrick's Church", "text": "Ez a templom egy istentiszteleti hely Greystonesban.", "category": "religious", "coords": [-6.070496, 53.147807]}, {"name": "Church of the Holy Rosary", "text": "Istentiszteleti hely Greystones városában.", "category": "religious", "coords": [-6.062742, 53.146575]}, {"name": "Christ Church", "text": "A Christ Church egy istentiszteleti hely Greystonesban.", "category": "religious", "coords": [-6.088651, 53.132781]}, {"name": "Saint Patrick's", "text": "A Saint Patrick's egy istentiszteleti hely Greystonesban.", "category": "religious", "coords": [-6.087107, 53.112341]}, {"name": "Greystones Presbyterian Church", "text": "Ez a presbiteriánus templom Greystonesban található.", "category": "religious", "coords": [-6.064126, 53.147192]}, {"name": "St. Mary's Church", "text": "A St. Mary's Church egy történelmi templomépület Greystonesban.", "category": "religious", "coords": [-6.110643, 53.129714]}], "ro": [{"name": "Kindlestown Castle", "text": "Ruinele castelului Kindlestown din Greystones.", "category": "castle", "coords": [-6.089034, 53.141192]}, {"name": "Whale Theatre", "text": "Teatrul Whale din Greystones.", "category": "cultural", "coords": [-6.064373, 53.144391]}, {"name": "The Cove", "text": "Plaja The Cove din Greystones.", "category": "recreational", "coords": [-6.062628, 53.14879]}, {"name": "North Beach", "text": "Caracterizată de țărmul său cu pietriș și vederile vaste spre mare, Plaja de Nord din Greystones este o destinație vioaie și frumoasă. Emană o atmosferă pașnică, mai accidentată, făcând-o o locație minunată pentru plimbări introspective și pentru a privi valurile spărgându-se de țărm. Apele reci ale oceanului oferă o baie reconfortantă pentru cei suficient de curajoși să înoate. O pereche robustă de pantofi de mers este ideală pentru a traversa confortabil terenul cu șindrilă.", "category": "recreational", "coords": [-6.074435, 53.163788]}, {"name": "Greystones South Beach", "text": "Un amestec plin de viață de nisip și pietriș face din Plaja de Sud din Greystones un centru popular atât pentru localnici, cât și pentru turiștii de o zi. Atmosfera de aici este minunat de potrivită pentru familii, oferind mult spațiu pentru construirea castelelor de nisip, înot relaxat și picnicuri pe litoral. Plimbările blânde de-a lungul apei oferă priveliști uluitoare ale peisajului de coastă înconjurător. Weekend-urile de vară pot fi destul de aglomerate, așa că ajungând devreme vă asigurați un loc de primă clasă lângă marginea apei.", "category": "recreational", "coords": [-6.058617, 53.142878]}, {"name": "Rock of Kilcoole", "text": "Punct de observație Rock of Kilcoole lângă Greystones.", "category": "natural", "coords": [-6.063114, 53.108826]}, {"name": "Glenroe Farm", "text": "Atracție turistică Glenroe Farm din Greystones.", "category": "landmark", "coords": [-6.054352, 53.114153]}, {"name": "The Octagon", "text": "Ruinele Octagon din Greystones.", "category": "historical", "coords": [-6.115292, 53.138955]}, {"name": "JP Donleavy cottage ruins", "text": "Ruinele casei de vacanță JP Donleavy din Greystones.", "category": "historical", "coords": [-6.05191, 53.109195]}, {"name": "Ballygannon Demesne", "text": "Ruinele conacului Ballygannon din Greystones.", "category": "historical", "coords": [-6.046857, 53.118398]}, {"name": "Bray Greystones View", "text": "Punct de observație cu vedere spre Bray și Greystones.", "category": "natural", "coords": [-6.074433, 53.176152]}, {"name": "Killincarrig Castle", "text": "Conacul Killincarrig din Greystones.", "category": "historical", "coords": [-6.07759, 53.136154]}, {"name": "Saint Patrick's Church", "text": "Această biserică este un lăcaș de cult în Greystones.", "category": "religious", "coords": [-6.070496, 53.147807]}, {"name": "Church of the Holy Rosary", "text": "Un lăcaș de cult în orașul Greystones.", "category": "religious", "coords": [-6.062742, 53.146575]}, {"name": "Christ Church", "text": "Christ Church este un lăcaș de cult în Greystones.", "category": "religious", "coords": [-6.088651, 53.132781]}, {"name": "Saint Patrick's", "text": "Saint Patrick's este un lăcaș de cult în Greystones.", "category": "religious", "coords": [-6.087107, 53.112341]}, {"name": "Greystones Presbyterian Church", "text": "Această biserică presbiteriană se află în Greystones.", "category": "religious", "coords": [-6.064126, 53.147192]}, {"name": "St. Mary's Church", "text": "St. Mary's Church este o clădire istorică a bisericii în Greystones.", "category": "religious", "coords": [-6.110643, 53.129714]}], "en": [{"name": "Kindlestown Castle", "text": "Ruins of Kindlestown Castle in Greystones.", "category": "castle", "coords": [-6.089034, 53.141192]}, {"name": "Whale Theatre", "text": "Whale Theatre in Greystones.", "category": "cultural", "coords": [-6.064373, 53.144391]}, {"name": "The Cove", "text": "The Cove beach in Greystones.", "category": "recreational", "coords": [-6.062628, 53.14879]}, {"name": "North Beach", "text": "Characterized by its pebbly shoreline and expansive sea views, North Beach in Greystones is a brisk and beautiful destination. It exudes a peaceful, more rugged atmosphere, making it a wonderful location for introspective walks and watching the waves crash against the shore. The cool ocean waters provide a bracing dip for those brave enough to swim. A sturdy pair of walking shoes is ideal to comfortably traverse the shingle terrain.", "category": "recreational", "coords": [-6.074435, 53.163788]}, {"name": "Greystones South Beach", "text": "A lively mix of sand and shingle makes Greystones South Beach a popular hub for both locals and day-trippers. The vibe here is wonderfully family-friendly, offering plenty of space for sandcastle building, relaxed swimming, and seaside picnics. Gentle strolls along the water provide stunning views of the surrounding coastal scenery. Summer weekends can be quite busy, so arriving early ensures a prime spot near the water's edge.", "category": "recreational", "coords": [-6.058617, 53.142878]}, {"name": "Rock of Kilcoole", "text": "Rock of Kilcoole viewpoint near Greystones.", "category": "natural", "coords": [-6.063114, 53.108826]}, {"name": "Glenroe Farm", "text": "Visitor attraction Glenroe Farm in Greystones.", "category": "landmark", "coords": [-6.054352, 53.114153]}, {"name": "The Octagon", "text": "Ruins of the Octagon in Greystones.", "category": "historical", "coords": [-6.115292, 53.138955]}, {"name": "JP Donleavy cottage ruins", "text": "Ruins of the JP Donleavy cottage in Greystones.", "category": "historical", "coords": [-6.05191, 53.109195]}, {"name": "Ballygannon Demesne", "text": "Ruins of the Ballygannon estate in Greystones.", "category": "historical", "coords": [-6.046857, 53.118398]}, {"name": "Bray Greystones View", "text": "Viewpoint overlooking Bray and Greystones.", "category": "natural", "coords": [-6.074433, 53.176152]}, {"name": "Killincarrig Castle", "text": "Killincarrig manor house in Greystones.", "category": "historical", "coords": [-6.07759, 53.136154]}, {"name": "Saint Patrick's Church", "text": "This church is a place of worship in Greystones.", "category": "religious", "coords": [-6.070496, 53.147807]}, {"name": "Church of the Holy Rosary", "text": "A place of worship in the town of Greystones.", "category": "religious", "coords": [-6.062742, 53.146575]}, {"name": "Christ Church", "text": "Christ Church is a place of worship in Greystones.", "category": "religious", "coords": [-6.088651, 53.132781]}, {"name": "Saint Patrick's", "text": "Saint Patrick's is a place of worship in Greystones.", "category": "religious", "coords": [-6.087107, 53.112341]}, {"name": "Greystones Presbyterian Church", "text": "This Presbyterian church is located in Greystones.", "category": "religious", "coords": [-6.064126, 53.147192]}, {"name": "St. Mary's Church", "text": "St. Mary's Church is a historic church building in Greystones.", "category": "religious", "coords": [-6.110643, 53.129714]}]},
+    id: "ireland-greystones-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "Ruine einer Burg aus dem 13. Jahrhundert auf einem Hügel mit Blick auf die Irische See, geschütztes Denkmal.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Seaside-Theater mit Live-Aufführungen in Greystones.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "Sandige Bucht mit Gezeitentümpeln in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Der Nordstrand in Greystones ist ein Sandstrand mit Aussicht auf die Wicklow Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Greystones South Beach ist ein blauer Flaggen-Sandstrand mit einer Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Granitfelsformation an der Küste bei Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Bauernhof mit Streichelzoo und Wanderwegen in Greystones.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Viktorianischer achteckiger Musikpavillon am Greystones Seepromenade.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "Ruinen des Cottage des Schriftstellers JP Donleavy in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Historisches Anwesen mit ummauerten Gärten und Wald bei Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Aussichtspunkt auf dem Küstenklippenpfad zwischen Bray und Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Killincarrig Castle, Burgruine in Greystones, geschütztes Kulturerbe (RPS 2).",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Die St.-Patrick-Kirche in Greystones, eine katholische Kirche nahe der Küste.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "Die Kirche des Heiligen Rosenkranzes in Greystones, eine moderne katholische Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Die Christuskirche in Greystones, eine Kirche der Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Die St.-Patrick-Kirche (römisch-katholisch) am Church Hill in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "Die presbyterianische Kirche in Greystones an der Trafalgar Road.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "St. Mary's Church ist ein historisches Kirchengebäude in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "13. századi várrom egy dombon, az Ír-tengerre néző, védett műemlék.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Tengerparti színház élő előadásokkal Greystones-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "Homokos öböl apálymedencékkel Greystones-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "A greystones-i északi strand egy homokos tengerpart, ahonnan a Wicklow-hegység látható.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "A greystones-i déli strand egy kék zászlós homokos tengerpart sétánnyal.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Gránit sziklaformáció a parton Greystones közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Farm állatsimogatóval és ösvényekkel Greystones-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Viktoriánus nyolcszögletű zenepavilon a greystones-i tengerparton.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "JP Donleavy regényíró házának romjai Greystones-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Történelmi birtok fallal körülvett kertekkel és erdővel Greystones közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Kilátó a Bray és Greystones közötti parti sziklás úton.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Killincarrig-vár romjai Greystonesban, védett örökségi helyszín (RPS 2).",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "A Szent Patrick-templom Greystonesban, egy katolikus templom a part közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "A Szent Rózsafüzér temploma Greystonesban, egy modern katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Krisztus-templom Greystonesban, az Ír Egyház temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "A Szent Patrick-templom (római katolikus) a Church Hillen Greystonesban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "A presbiteriánus templom Greystonesban a Trafalgar úton.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A St. Mary's Church egy történelmi templomépület Greystonesban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "Ruinele unui castel din secolul al XIII-lea pe un deal cu vedere la Marea Irlandeză, monument protejat.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Teatru pe malul mării cu spectacole live în Greystones.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "Golf nisipos cu bălți de maree în Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Plaja de Nord din Greystones este o plajă nisipoasă cu vedere spre Munții Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Plaja de Sud Greystones este o plajă nisipoasă cu steag albastru și o promenadă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Formațiune de granit pe coasta lângă Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Fermă cu grădină zoologică și trasee în Greystones.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Chioșc victorian octogonal pe faleza din Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "Ruinele cabanei scriitorului JP Donleavy în Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Domeniu istoric cu grădini zidite și pădure lângă Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Punct de belvedere pe poteca de pe faleză dintre Bray și Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Castelul Killincarrig, ruine în Greystones, sit protejat de patrimoniu (RPS 2).",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Biserica Sf. Patrick din Greystones, o biserică catolică aproape de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "Biserica Sfântului Rozariu din Greystones, o biserică catolică modernă.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church din Greystones, o biserică a Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Biserica Sf. Patrick (romano-catolică) pe Church Hill în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "Biserica prezbiteriană din Greystones, pe strada Trafalgar.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "St. Mary's Church este o clădire istorică a bisericii în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "Ruined 13th-century castle on a hill overlooking the Irish Sea, a protected monument.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Seaside theatre hosting live performances in Greystones.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "Sandy cove beach with tidal pools in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "North Beach in Greystones is a sandy beach with views of the Wicklow Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Greystones South Beach is a blue-flag sandy beach with a promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Granite rock formation on the coast near Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Working farm with petting zoo and trails in Greystones.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Octagonal Victorian bandstand on Greystones seafront.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "Ruins of the cottage of novelist JP Donleavy in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Historic estate with walled gardens and woodland near Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Scenic viewpoint on the coastal cliff path between Bray and Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Killincarrig Castle, castle ruins in Greystones, a protected heritage site (RPS 2).",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Saint Patrick's Church in Greystones, a Catholic church near the coast.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "Church of the Holy Rosary in Greystones, a modern Catholic church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church in Greystones, a Church of Ireland church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Saint Patrick's (Roman Catholic) on Church Hill in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "Greystones Presbyterian Church on Trafalgar Road.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "St. Mary's Church is a historic church building in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Greystones", hu: "Greystones", ro: "Greystones", en: "Greystones" },
@@ -7131,7 +8049,1060 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-greystones-cities-v2.webp",
   },
   {
-    id: "ireland-howth-cities-v2", "sights": {"de": [{"name": "Howth Lighthouse", "text": "Das Howth Lighthouse ist ein Leuchtturm in der Stadt Howth.", "category": "landmark", "coords": [-6.066842, 53.394091]}, {"name": "Burrow Beach", "text": "Von Einheimischen auch liebevoll 'Hole in the Wall' genannt, besticht der Burrow Beach mit einem spektakulären Sandstreifen auf der Halbinsel Howth. Er verströmt ein ruhiges und einladendes Ambiente, das Spaziergänger, begeisterte Schwimmer und Sonnenanbeter anzieht, sobald die irische Sonne hervorkommt. Die weichen Dünen bilden eine wunderschöne natürliche Grenze, die den ruhigen Strand vom städtischen Umland trennt. Wer einen Windschutz und ein paar Snacks mitbringt, ist bestens für einen gemütlichen Nachmittag am Meer gerüstet.", "category": "recreational", "coords": [-6.101831, 53.394347]}, {"name": "National Transport Museum", "text": "Das National Transport Museum of Ireland ist ein Verkehrsmuseum in Howth.", "category": "museum", "coords": [-6.081142, 53.386815]}, {"name": "Howth Castle", "text": "Das Howth Castle ist ein historisches Schloss in der Stadt Howth.", "category": "castle", "coords": [-6.079282, 53.386254]}, {"name": "Baily Lighthouse", "text": "Das Baily Lighthouse ist ein Leuchtturm an der Küste von Howth.", "category": "landmark", "coords": [-6.052483, 53.361626]}, {"name": "Aideen's Dolmen", "text": "Aideen's Dolmen ist eine archäologische Stätte in Howth.", "category": "historical", "coords": [-6.082231, 53.379554]}, {"name": "Shielmartin Hill Cairn", "text": "Shielmartin Hill Cairn ist eine archäologische Stätte in Howth.", "category": "historical", "coords": [-6.08341, 53.373207]}, {"name": "Picnic Rock", "text": "Picnic Rock ist eine archäologische Stätte in der Stadt Howth.", "category": "historical", "coords": [-6.049354, 53.378667]}, {"name": "Dollymount Strand", "text": "Der Dollymount Strand erstreckt sich weitläufig entlang von Bull Island und bietet eine gewaltige Sandfläche, die von der Gegend um Howth aus leicht erreichbar ist. Der Strand versprüht eine lebhafte Energie und wird von Kitesurfern, Hundebesitzern und Familien, die einen großzügigen Spielplatz am Meer suchen, sehr geschätzt. Die lange, ununterbrochene Küstenlinie macht den Ort zu einem absoluten Paradies für alle, die gerne im Takt der Gezeiten spazieren gehen. Den Windbericht zu prüfen kann den Besuch erheblich aufwerten, da windige Tage perfekt für Wassersport, aber kühl zum Sonnenbaden sind.", "category": "recreational", "coords": [-6.139379, 53.366999]}, {"name": "Claremont Beach", "text": "Ruhig auf der Howth-Halbinsel eingebettet, bietet der Claremont Beach ein kleines, behagliches Stückchen Sandstrand. Dieser Ort bewahrt sich ein entspanntes und gemütliches Ambiente und wird häufig von Einheimischen besucht, die hier einen friedlichen Spaziergang am Tag oder ein ruhiges Planschen im flachen Wasser genießen. Der weite Blick hinaus auf die Insel Ireland’s Eye macht es zu einer malerischen Kulisse für Erholung im Freien. Der Zugang ist stark von den Gezeiten abhängig, weshalb eine Ankunft bei Niedrigwasser sehr zu empfehlen ist, um den breiten Sand zu nutzen.", "category": "recreational", "coords": [-6.074974, 53.389938]}, {"name": "Broad Strand", "text": "Getreu seinem Namen offenbart der Broad Strand eine weite und einladende Küstenfläche in der malerischen Stadt Howth. Die Umgebung ist herrlich ruhig und zieht vor allem diejenigen an, die abseits des geschäftigen Stadtzentrums sanfte Strandspaziergänge machen und Sandburgen bauen möchten. Die frische Küstenluft und die rhythmischen Wellen sorgen für ein zutiefst erholsames Erlebnis in der Natur. Es ist ein fantastischer Ort, um einfach eine Decke auszubreiten und die vorbeiziehenden Boote am Horizont zu beobachten.", "category": "recreational", "coords": [-6.069547, 53.364008]}, {"name": "Portmarnock Beach", "text": "Oft als \"Velvet Strand\" (Samtstrand) gefeiert, besticht der Portmarnock Beach durch einen unglaublichen Streifen feinen Sandes, nur einen Steinwurf von Howth entfernt. Diese herrliche Küste pulsiert mit einer lebhaften, aber dennoch entspannten Atmosphäre, was sie zu einem erstklassigen Ziel für Familienausflüge und lange, ungestörte Läufe am Wasser macht. Die sanfte Neigung des Strandes schafft hervorragende Bedingungen zum Planschen und Schwimmen bei ruhiger See. Ein gemütlicher Spaziergang in Richtung der Dünen bei Sonnenuntergang bietet ein unvergessliches visuelles Erlebnis.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Red Rock Beach", "text": "Deutlich umrahmt von seinen namensgebenden feuerfarbenen Steinen, ist der Red Rock Beach eine faszinierende lokale Enklave an der Küste von Howth. Der Strand bewahrt sich ein ruhiges, fast geheimes Ambiente, das Spaziergänger, Erforscher von Gezeitentümpeln und jene, die sich nach ein wenig maritimer Einsamkeit sehnen, stark anzieht. Dem Wasser dabei zuzusehen, wie es an die leuchtende Geologie schwappt, ist eine zutiefst friedliche Nachmittagsbeschäftigung. Festes Schuhwerk ist sehr ratsam, um die faszinierenden felsigen Abschnitte des Ufers sicher zu erkunden.", "category": "recreational", "coords": [-6.088252, 53.365393]}, {"name": "Bull Island Wildlife Only Area", "text": "Bull Island Wildlife Only Area ist ein Naturschutzgebiet in Howth.", "category": "natural", "coords": [-6.132637, 53.377512]}, {"name": "Hidden Beach", "text": "Weit abseits der typischen Touristenpfade gelegen, ist der Hidden Beach in Howth ein wundervolles Küstengeheimnis, das darauf wartet, entdeckt zu werden. Diese abgeschiedene Bucht strahlt eine zutiefst friedliche Aura aus, ideal für alle, die einen ungestörten Nachmittag mit Lesen, Sonnenbaden oder dem ruhigen Beobachten der Wellen verbringen möchten. Besucher können in dieser herrlich rauen Umgebung eine intime Verbindung zur irischen See genießen. Eigenes Wasser und Proviant mitzubringen ist unerlässlich, da der Charme dieses Ortes gerade in seiner völlig natürlichen und unberührten Art liegt.", "category": "recreational", "coords": [-6.065807, 53.364496]}, {"name": "Ben of Howth", "text": "Ben of Howth ist ein bekannter Gipfel in Howth, der für seine weite Aussicht über die Bucht von Dublin bekannt ist.", "category": "natural", "coords": [-6.0694, 53.373389]}, {"name": "Cliffs of Howth", "text": "Die Klippen von Howth bieten malerische Küstenblicke über das Meer.", "category": "natural", "coords": [-6.05138, 53.385688]}, {"name": "Therese-Emile Yuon", "text": "Die Therese-Emile Yuon sind historische Ruinen in Howth.", "category": "historical", "coords": [-6.079154, 53.394129]}, {"name": "Fisher's Cross", "text": "Fisher's Cross ist ein lokales Denkmal in Howth.", "category": "historical", "coords": [-6.069087, 53.388549]}, {"name": "The Ready Boat Pillar", "text": "The Ready Boat Pillar ist ein Denkmal in Howth.", "category": "historical", "coords": [-6.072902, 53.388882]}, {"name": "Red Rock", "text": "Red Rock ist ein beliebter Aussichtspunkt mit Blick auf die Landschaft in Howth.", "category": "natural", "coords": [-6.087708, 53.367017]}, {"name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)", "text": "Ye Olde Hurdy-Gurdy ist ein Museum für historische Radiogeräte in Howth.", "category": "landmark", "coords": [-6.06376, 53.387607]}, {"name": "Star of the Sea", "text": "Star of the Sea ist ein Denkmal in der Stadt Howth.", "category": "historical", "coords": [-6.064456, 53.391081]}, {"name": "Dolphins", "text": "Dolphins ist ein Aussichtspunkt in Howth.", "category": "natural", "coords": [-6.047579, 53.374583]}, {"name": "Church of the Three Sons of Nessan (Ruins)", "text": "Die verfallene Church of the Three Sons of Nessan ist eine historische Stätte in Howth.", "category": "historical", "coords": [-6.064438, 53.405151]}, {"name": "The Old Courthouse", "text": "Das Old Courthouse ist eine lokale Sehenswürdigkeit in Howth.", "category": "landmark", "coords": [-6.070533, 53.388261]}, {"name": "St Mary's Abbey", "text": "St Mary's Abbey ist eine historische Kirchenruine in Howth.", "category": "religious", "coords": [-6.065997, 53.387513]}, {"name": "Sutton South Martello Tower", "text": "Der Sutton South Martello Tower ist eine Küstenbefestigung aus dem 19. Jahrhundert in Howth.", "category": "landmark", "coords": [-6.09605, 53.369321]}, {"name": "Sutton Methodist Church", "text": "Die Sutton Methodist Church ist eine lokale Kultstätte in der Stadt Howth.", "category": "religious", "coords": [-6.104692, 53.389771]}], "hu": [{"name": "Howth Lighthouse", "text": "A Howth Lighthouse egy világítótorony Howth városában.", "category": "landmark", "coords": [-6.066842, 53.394091]}, {"name": "Burrow Beach", "text": "A helyiek által szeretettel „Hole in the Wall” néven is ismert Burrow Beach egy látványos homokos partszakasszal büszkélkedhet a Howth-félszigeten. Békés és hívogató légkört áraszt, amely könnyedén vonzza a sétálókat, a lelkes úszókat és a napozókat, amint az ír nap előbújik. A puha dűnék gyönyörű természetes határt vonnak a csendes strand és a környező városi élet közé. Szélfogó és némi rágcsálnivaló magunkkal vitele garantálja a tökéletesen kényelmes délutánt a tengerparton.", "category": "recreational", "coords": [-6.101831, 53.394347]}, {"name": "National Transport Museum", "text": "Az Ír Nemzeti Közlekedési Múzeum egy közlekedési múzeum Howth városában.", "category": "museum", "coords": [-6.081142, 53.386815]}, {"name": "Howth Castle", "text": "A Howth Castle egy történelmi kastély Howth városában.", "category": "castle", "coords": [-6.079282, 53.386254]}, {"name": "Baily Lighthouse", "text": "A Baily Lighthouse egy világítótorony Howth partjainál.", "category": "landmark", "coords": [-6.052483, 53.361626]}, {"name": "Aideen's Dolmen", "text": "Az Aideen's Dolmen egy régészeti lelőhely Howthban.", "category": "historical", "coords": [-6.082231, 53.379554]}, {"name": "Shielmartin Hill Cairn", "text": "A Shielmartin Hill Cairn egy régészeti lelőhely Howthban.", "category": "historical", "coords": [-6.08341, 53.373207]}, {"name": "Picnic Rock", "text": "A Picnic Rock egy régészeti lelőhely Howth városában.", "category": "historical", "coords": [-6.049354, 53.378667]}, {"name": "Dollymount Strand", "text": "A Bull-sziget mentén hosszan elnyúló Dollymount Strand egy hatalmas homokos kiterjedés, amely a Howth területről könnyen megközelíthető. A part vibráló energiával rendelkezik, a kiteszörfösök, a kutyasétáltatók és a tágas tengerparti játszóteret kereső családok nagy kedvence. A hosszú, töretlen partvonal abszolút paradicsom azok számára, akik szeretnek a visszahúzódó dagály mentén vándorolni. A szélelőrejelzés ellenőrzése nagyban javíthatja a látogatást, mivel a szeles napok tökéletesek a vízi sportokhoz, de hűvösek a napozáshoz.", "category": "recreational", "coords": [-6.139379, 53.366999]}, {"name": "Claremont Beach", "text": "A Howth-félszigeten csendesen meghúzódó Claremont Beach egy kis, megnyugtató homokos partszakaszt kínál. Ez a hely laza és hangulatos atmoszférát őriz, gyakran látogatják a helyiek békés nappali sétákra vagy egy csendes evezésre a sekély vízben. Az Ireland's Eye-ra nyíló pazar kilátás gyönyörű, festői környezetet biztosít a szabadtéri kikapcsolódáshoz. A megközelíthetőség szorosan összefügg az árapállyal, így az apály idején történő érkezés erősen ajánlott a kiterjedt homokmező élvezetéhez.", "category": "recreational", "coords": [-6.074974, 53.389938]}, {"name": "Broad Strand", "text": "Nevéhez hűen a Broad Strand széles és hívogató tengerparti szakaszt tár elénk Howth festői városában. A környezet csodálatosan nyugodt, és közvetlenül vonzza azokat, akik a nyüzsgő városközponttól távol élvezik a szelíd parti sétákat és a homokvár építést. A ropogós parti levegő és a ritmikus hullámok mélyen helyreállító szabadtéri élményt nyújtanak. Fantasztikus hely, ahol egyszerűen kiteríthetünk egy takarót, és nézhetjük a horizonton elhaladó hajókat.", "category": "recreational", "coords": [-6.069547, 53.364008]}, {"name": "Portmarnock Beach", "text": "A gyakran „Bársonypartként” ünnepelt Portmarnock Beach lenyűgöző sima homoksávval büszkélkedhet, mindössze egy kőhajításnyira Howth-tól. Ez a csodálatos partvonal élénk, mégis nyugodt hangulattal bír, így kiváló úti cél a családi kirándulásokhoz és a hosszú, zavartalan futásokhoz a víz mellett. A strand enyhe lejtése kiváló feltételeket teremt az evezéshez és az úszáshoz, amikor a tenger nyugodt. Egy kényelmes séta a dűnék felé naplementekor felejthetetlen vizuális élményt nyújt.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Red Rock Beach", "text": "A nevét adó tűzszínű kövek által markánsan keretezett Red Rock Beach egy lenyűgöző helyi enklávé Howth partvonalán. A strand csendes, szinte titkos atmoszférát áraszt, amely erősen vonzza a sétálókat, a sziklamedencék felfedezőit és a tengerparti magányra vágyókat. A vibráló geológiának csapódó víz megfigyelése mélyen békés délutáni elfoglaltságot kínál. Stabil lábbeli viselése kifejezetten ajánlott a part érdekes sziklás szakaszainak biztonságos felfedezéséhez.", "category": "recreational", "coords": [-6.088252, 53.365393]}, {"name": "Bull Island Wildlife Only Area", "text": "A Bull Island Wildlife Only Area egy természetvédelmi terület Howthban.", "category": "natural", "coords": [-6.132637, 53.377512]}, {"name": "Hidden Beach", "text": "A tipikus turistautaktól elrejtve, a howthi Hidden Beach egy csodálatos tengerparti titok, amely felfedezésre vár. Ez az eldugott öböl mélyen békés aurát sugároz, ideális azok számára, akik zavartalan délutánt keresnek olvasással, napozással vagy a hullámok csendes figyelésével. A látogatók bensőséges kapcsolatot élvezhetnek az Ír-tengerrel ebben az elragadóan vadregényes környezetben. A saját víz és készletek behozatala elengedhetetlen, mivel e hely varázsa a teljesen természetes és kiépítetlen állapotában rejlik.", "category": "recreational", "coords": [-6.065807, 53.364496]}, {"name": "Ben of Howth", "text": "A Ben of Howth egy jelentős csúcs Howthban, amely a Dublin-öbölre nyíló kiterjedt kilátásáról ismert.", "category": "natural", "coords": [-6.0694, 53.373389]}, {"name": "Cliffs of Howth", "text": "A howthi sziklák festői kilátást nyújtanak a tengerpartra.", "category": "natural", "coords": [-6.05138, 53.385688]}, {"name": "Therese-Emile Yuon", "text": "A Therese-Emile Yuon történelmi romok Howth városában.", "category": "historical", "coords": [-6.079154, 53.394129]}, {"name": "Fisher's Cross", "text": "A Fisher's Cross egy helyi emlékmű Howthban.", "category": "historical", "coords": [-6.069087, 53.388549]}, {"name": "The Ready Boat Pillar", "text": "A The Ready Boat Pillar egy emlékmű Howthban.", "category": "historical", "coords": [-6.072902, 53.388882]}, {"name": "Red Rock", "text": "A Red Rock egy kilátó Howth tájaira.", "category": "natural", "coords": [-6.087708, 53.367017]}, {"name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)", "text": "A Ye Olde Hurdy-Gurdy egy régi rádióberendezéseket bemutató múzeum Howthban.", "category": "landmark", "coords": [-6.06376, 53.387607]}, {"name": "Star of the Sea", "text": "A Star of the Sea egy emlékmű Howth városában.", "category": "historical", "coords": [-6.064456, 53.391081]}, {"name": "Dolphins", "text": "A Dolphins egy kilátó Howthban.", "category": "natural", "coords": [-6.047579, 53.374583]}, {"name": "Church of the Three Sons of Nessan (Ruins)", "text": "A Church of the Three Sons of Nessan romjai történelmi jelentőségűek Howthban.", "category": "historical", "coords": [-6.064438, 53.405151]}, {"name": "The Old Courthouse", "text": "A The Old Courthouse egy helyi látványosság Howthban.", "category": "landmark", "coords": [-6.070533, 53.388261]}, {"name": "St Mary's Abbey", "text": "A St Mary's Abbey egy történelmi romtemplom Howth városában.", "category": "religious", "coords": [-6.065997, 53.387513]}, {"name": "Sutton South Martello Tower", "text": "A Sutton South Martello Tower egy 19. századi partvédelmi erődítmény Howthban.", "category": "landmark", "coords": [-6.09605, 53.369321]}, {"name": "Sutton Methodist Church", "text": "A Sutton Methodist Church egy helyi istentiszteleti hely Howth városában.", "category": "religious", "coords": [-6.104692, 53.389771]}], "ro": [{"name": "Howth Lighthouse", "text": "Howth Lighthouse este un far situat în orașul Howth.", "category": "landmark", "coords": [-6.066842, 53.394091]}, {"name": "Burrow Beach", "text": "Cunoscută cu afecțiune de localnici și sub numele de „Hole in the Wall”, Burrow Beach prezintă o întindere spectaculoasă de nisip pe peninsula Howth. Ea radiază o ambianță senină și primitoare care atrage cu ușurință plimbăreții, înotătorii dornici și iubitorii de soare atunci când soarele irlandez își face apariția. Dunele moi creează o graniță naturală frumoasă care separă plaja liniștită de viața urbană înconjurătoare. Aducerea unui paravânt și a câtorva gustări vă asigură o după-amiază perfect confortabilă la malul mării.", "category": "recreational", "coords": [-6.101831, 53.394347]}, {"name": "National Transport Museum", "text": "Muzeul Național de Transport al Irlandei este un muzeu de transport situat în Howth.", "category": "museum", "coords": [-6.081142, 53.386815]}, {"name": "Howth Castle", "text": "Castelul Howth este un castel istoric situat în orașul Howth.", "category": "castle", "coords": [-6.079282, 53.386254]}, {"name": "Baily Lighthouse", "text": "Baily Lighthouse este un far situat pe coasta din Howth.", "category": "landmark", "coords": [-6.052483, 53.361626]}, {"name": "Aideen's Dolmen", "text": "Aideen's Dolmen este un sit arheologic situat în Howth.", "category": "historical", "coords": [-6.082231, 53.379554]}, {"name": "Shielmartin Hill Cairn", "text": "Shielmartin Hill Cairn este un sit arheologic din Howth.", "category": "historical", "coords": [-6.08341, 53.373207]}, {"name": "Picnic Rock", "text": "Picnic Rock este un sit arheologic situat în orașul Howth.", "category": "historical", "coords": [-6.049354, 53.378667]}, {"name": "Dollymount Strand", "text": "Întinzându-se extensiv de-a lungul Bull Island, Dollymount Strand este o întindere masivă de nisip ușor accesibilă din zona Howth. Plaja deține o energie vibrantă, fiind extrem de favorizată de surferii cu zmeul, de cei care își plimbă câinii și de familiile care caută un loc de joacă spațios pe litoral. Țărmurile lungi și neîntrerupte o fac un paradis absolut pentru cei cărora le place să rătăcească de-a lungul fluxului care se retrage. Verificarea prognozei vântului vă poate îmbunătăți mult vizita, deoarece zilele cu briză sunt perfecte pentru sporturi nautice, dar răcoroase pentru plajă.", "category": "recreational", "coords": [-6.139379, 53.366999]}, {"name": "Claremont Beach", "text": "Cuibărită în liniște în peninsula Howth, Claremont Beach oferă o mică porțiune reconfortantă de țărm nisipos. Acest loc menține o ambianță relaxată și confortabilă, fiind adesea frecventat de localnicii ieșiți pentru o plimbare pașnică în timpul zilei sau o bălăceală liniștită în apele puțin adânci. Vederile panoramice către Ireland’s Eye îl fac un cadru frumos și pitoresc pentru relaxare în aer liber. Accesul este strâns legat de maree, astfel încât sosirea în timpul apelor scăzute este foarte recomandată pentru a vă bucura de nisipul expansiv.", "category": "recreational", "coords": [-6.074974, 53.389938]}, {"name": "Broad Strand", "text": "Fidel numelui său, Broad Strand dezvăluie o întindere largă și primitoare de coastă în orașul pitoresc Howth. Mediul este minunat de calm, atrăgându-i direct pe cei care se bucură de plimbări blânde pe țărm și de construirea castelelor de nisip departe de centrul plin de viață al orașului. Aerul proaspăt de coastă și valurile ritmice oferă o experiență în aer liber profund revigorantă. Este un loc fantastic pentru a întinde pur și simplu o pătură și a privi bărcile trecând la orizont.", "category": "recreational", "coords": [-6.069547, 53.364008]}, {"name": "Portmarnock Beach", "text": "Adesea sărbătorită ca „Plaja de catifea”, Portmarnock Beach se mândrește cu o întindere incredibilă de nisip fin, la doar o aruncătură de băț de Howth. Această coastă magnifică vibrează de o atmosferă plină de viață, dar relaxată, transformând-o într-o destinație stelară pentru excursii de familie și alergări lungi și neîntrerupte pe malul apei. Panta blândă a plajei creează condiții excelente pentru bălăceală și înot atunci când marea este calmă. O plimbare relaxantă spre dune la apusul soarelui oferă o bucurie vizuală de neuitat.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Red Rock Beach", "text": "Încadrată distinct de pietrele sale de culoarea focului care îi dau numele, Red Rock Beach este o enclavă locală fascinantă pe coasta Howth. Plaja menține o ambianță liniștită, aproape secretă, care îi atrage puternic pe cei care se plimbă, pe exploratorii de bălți de stâncă și pe cei care poftesc o notă de singurătate pe coastă. Privitul apei cum se lovește de geologia vibrantă oferă o ocupație profund pașnică pentru după-amiază. Încălțămintea solidă este foarte recomandată pentru explorarea în siguranță a porțiunilor stâncoase intrigante ale țărmului.", "category": "recreational", "coords": [-6.088252, 53.365393]}, {"name": "Bull Island Wildlife Only Area", "text": "Bull Island Wildlife Only Area este o rezervație naturală din Howth.", "category": "natural", "coords": [-6.132637, 53.377512]}, {"name": "Hidden Beach", "text": "Ascunsă de traseele turistice tipice, Hidden Beach din Howth este un minunat secret de coastă care așteaptă să fie descoperit. Acest golf izolat radiază o aură profund pașnică, ideală pentru cei care caută o după-amiază netulburată de lectură, de plajă sau de privit liniștit valurile. Vizitatorii se pot bucura de o conexiune intimă cu Marea Irlandeză în acest cadru încântător de accidentat. Aducerea propriei ape și a proviziilor este esențială, deoarece farmecul acestui loc constă în starea sa complet naturală și nedezvoltată.", "category": "recreational", "coords": [-6.065807, 53.364496]}, {"name": "Ben of Howth", "text": "Ben of Howth este un vârf notabil din Howth, recunoscut pentru priveliștile sale ample asupra golfului Dublin.", "category": "natural", "coords": [-6.0694, 53.373389]}, {"name": "Cliffs of Howth", "text": "Stâncile din Howth oferă priveliști pitorești asupra coastei.", "category": "natural", "coords": [-6.05138, 53.385688]}, {"name": "Therese-Emile Yuon", "text": "Therese-Emile Yuon sunt ruine istorice situate în Howth.", "category": "historical", "coords": [-6.079154, 53.394129]}, {"name": "Fisher's Cross", "text": "Fisher's Cross este un monument local situat în Howth.", "category": "historical", "coords": [-6.069087, 53.388549]}, {"name": "The Ready Boat Pillar", "text": "The Ready Boat Pillar este un monument din Howth.", "category": "historical", "coords": [-6.072902, 53.388882]}, {"name": "Red Rock", "text": "Red Rock este un punct de belvedere care oferă vedere spre peisajul din Howth.", "category": "natural", "coords": [-6.087708, 53.367017]}, {"name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)", "text": "Ye Olde Hurdy-Gurdy este un muzeu dedicat echipamentelor radio de epocă din Howth.", "category": "landmark", "coords": [-6.06376, 53.387607]}, {"name": "Star of the Sea", "text": "Star of the Sea este un monument situat în orașul Howth.", "category": "historical", "coords": [-6.064456, 53.391081]}, {"name": "Dolphins", "text": "Dolphins este un punct de belvedere din Howth.", "category": "natural", "coords": [-6.047579, 53.374583]}, {"name": "Church of the Three Sons of Nessan (Ruins)", "text": "Ruinele bisericii Church of the Three Sons of Nessan reprezintă un sit istoric din Howth.", "category": "historical", "coords": [-6.064438, 53.405151]}, {"name": "The Old Courthouse", "text": "The Old Courthouse este o atracție locală situată în Howth.", "category": "landmark", "coords": [-6.070533, 53.388261]}, {"name": "St Mary's Abbey", "text": "St Mary's Abbey este o biserică ruinată istorică situată în Howth.", "category": "religious", "coords": [-6.065997, 53.387513]}, {"name": "Sutton South Martello Tower", "text": "Sutton South Martello Tower este o fortificație de apărare a coastei din secolul al XIX-lea, situată în Howth.", "category": "landmark", "coords": [-6.09605, 53.369321]}, {"name": "Sutton Methodist Church", "text": "Sutton Methodist Church este un lăcaș de cult local situat în orașul Howth.", "category": "religious", "coords": [-6.104692, 53.389771]}], "en": [{"name": "Howth Lighthouse", "text": "Howth Lighthouse is a lighthouse located in the city of Howth.", "category": "landmark", "coords": [-6.066842, 53.394091]}, {"name": "Burrow Beach", "text": "Also known fondly by locals as the 'Hole in the Wall', Burrow Beach features a spectacular sweep of sand on the Howth peninsula. It radiates a serene and inviting ambiance that easily draws walkers, eager swimmers, and sunbathers when the Irish sun emerges. The soft dunes create a beautiful natural border that separates the tranquil beach from the surrounding urban life. Bringing a windbreak and some snacks ensures a perfectly comfortable afternoon by the sea.", "category": "recreational", "coords": [-6.101831, 53.394347]}, {"name": "National Transport Museum", "text": "The National Transport Museum of Ireland is a transport museum situated in Howth.", "category": "museum", "coords": [-6.081142, 53.386815]}, {"name": "Howth Castle", "text": "Howth Castle is a historic castle located in the city of Howth.", "category": "castle", "coords": [-6.079282, 53.386254]}, {"name": "Baily Lighthouse", "text": "Baily Lighthouse is a lighthouse structure situated on the coast of Howth.", "category": "landmark", "coords": [-6.052483, 53.361626]}, {"name": "Aideen's Dolmen", "text": "Aideen's Dolmen is an archaeological site located in Howth.", "category": "historical", "coords": [-6.082231, 53.379554]}, {"name": "Shielmartin Hill Cairn", "text": "Shielmartin Hill Cairn is an archaeological site found in Howth.", "category": "historical", "coords": [-6.08341, 53.373207]}, {"name": "Picnic Rock", "text": "Picnic Rock is an archaeological site situated in the city of Howth.", "category": "historical", "coords": [-6.049354, 53.378667]}, {"name": "Dollymount Strand", "text": "Stretching extensively along Bull Island, Dollymount Strand is a massive sandy expanse easily accessible from the Howth area. The beach holds a vibrant energy, highly favored by kite surfers, dog walkers, and families seeking a spacious seaside playground. Long, unbroken shorelines make it an absolute paradise for those who love to wander along the receding tide. Checking the wind forecast can greatly enhance your visit, as breezy days are perfect for watersports but chilly for sunbathing.", "category": "recreational", "coords": [-6.139379, 53.366999]}, {"name": "Claremont Beach", "text": "Nestled quietly within the Howth peninsula, Claremont Beach offers a small, comforting slice of sandy shore. This spot maintains a relaxed and cozy ambiance, often frequented by locals out for a peaceful daytime stroll or a quiet paddle in the shallows. The sweeping views out towards Ireland’s Eye make it a beautifully picturesque setting for outdoor relaxation. Access is closely tied to the tides, so arriving during low water is highly recommended to enjoy the expansive sand.", "category": "recreational", "coords": [-6.074974, 53.389938]}, {"name": "Broad Strand", "text": "True to its name, Broad Strand reveals a wide and welcoming expanse of coastline in the scenic town of Howth. The environment is wonderfully calm, appealing directly to those who enjoy gentle shore walks and building sandcastles away from the bustling town center. The crisp coastal air and rhythmic waves provide a deeply restorative outdoor experience. It is a fantastic spot to simply spread out a blanket and watch the passing boats on the horizon.", "category": "recreational", "coords": [-6.069547, 53.364008]}, {"name": "Portmarnock Beach", "text": "Often celebrated as the \"Velvet Strand,\" Portmarnock Beach boasts an incredible stretch of smooth sand just a stone's throw from Howth. This magnificent coastline hums with a lively yet relaxed vibe, making it a stellar destination for family day trips and long, uninterrupted runs by the water. The gentle gradient of the beach creates excellent conditions for paddling and swimming when the sea is calm. Taking a leisurely walk towards the dunes at sunset offers an unforgettable visual treat.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Red Rock Beach", "text": "Distinctly framed by its namesake fiery-colored stones, Red Rock Beach is a fascinating local enclave on the Howth coastline. The beach maintains a quiet, almost secret ambiance that heavily appeals to walkers, rock pool explorers, and those craving a touch of coastal solitude. Watching the water lap against the vibrant geology provides a profoundly peaceful afternoon pursuit. Solid footwear is highly advised for safely exploring the intriguing rocky sections of the shore.", "category": "recreational", "coords": [-6.088252, 53.365393]}, {"name": "Bull Island Wildlife Only Area", "text": "Bull Island Wildlife Only Area is a nature reserve in Howth.", "category": "natural", "coords": [-6.132637, 53.377512]}, {"name": "Hidden Beach", "text": "Tucked away from the typical tourist trails, Hidden Beach in Howth is a wonderful coastal secret waiting to be discovered. This secluded cove radiates a profoundly peaceful aura, ideal for those seeking an undisturbed afternoon of reading, sunbathing, or quietly watching the waves. Visitors can enjoy an intimate connection with the Irish sea in this delightfully rugged setting. Bringing your own water and supplies is essential, as the charm of this spot lies in its completely natural and undeveloped state.", "category": "recreational", "coords": [-6.065807, 53.364496]}, {"name": "Ben of Howth", "text": "Ben of Howth is a notable peak in Howth known for its extensive views over Dublin Bay.", "category": "natural", "coords": [-6.0694, 53.373389]}, {"name": "Cliffs of Howth", "text": "The Cliffs of Howth offer scenic coastal views over the sea.", "category": "natural", "coords": [-6.05138, 53.385688]}, {"name": "Therese-Emile Yuon", "text": "The Therese-Emile Yuon are historic ruins located in Howth.", "category": "historical", "coords": [-6.079154, 53.394129]}, {"name": "Fisher's Cross", "text": "Fisher's Cross is a local monument situated in Howth.", "category": "historical", "coords": [-6.069087, 53.388549]}, {"name": "The Ready Boat Pillar", "text": "The Ready Boat Pillar is a monument located in Howth.", "category": "historical", "coords": [-6.072902, 53.388882]}, {"name": "Red Rock", "text": "Red Rock is a viewpoint overlooking the landscape in Howth.", "category": "natural", "coords": [-6.087708, 53.367017]}, {"name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)", "text": "Ye Olde Hurdy-Gurdy is a museum dedicated to vintage radio equipment in Howth.", "category": "landmark", "coords": [-6.06376, 53.387607]}, {"name": "Star of the Sea", "text": "Star of the Sea is a monument situated in the town of Howth.", "category": "historical", "coords": [-6.064456, 53.391081]}, {"name": "Dolphins", "text": "Dolphins is a viewpoint in Howth.", "category": "natural", "coords": [-6.047579, 53.374583]}, {"name": "Church of the Three Sons of Nessan (Ruins)", "text": "The ruined Church of the Three Sons of Nessan stands as a historical site in Howth.", "category": "historical", "coords": [-6.064438, 53.405151]}, {"name": "The Old Courthouse", "text": "The Old Courthouse is a local attraction located in Howth.", "category": "landmark", "coords": [-6.070533, 53.388261]}, {"name": "St Mary's Abbey", "text": "St Mary's Abbey is a historic ruined church situated in Howth.", "category": "religious", "coords": [-6.065997, 53.387513]}, {"name": "Sutton South Martello Tower", "text": "The Sutton South Martello Tower is a 19th-century coastal defense fortification in Howth.", "category": "landmark", "coords": [-6.09605, 53.369321]}, {"name": "Sutton Methodist Church", "text": "Sutton Methodist Church is a local place of worship located in the city of Howth.", "category": "religious", "coords": [-6.104692, 53.389771]}]},
+    id: "ireland-howth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "Der Howth-Leuchtturm auf der Halbinsel Howth Head mit rot-weißem Anstrich.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "Von Einheimischen auch liebevoll 'Hole in the Wall' genannt, besticht der Burrow Beach mit einem spektakulären Sandstreifen auf der Halbinsel Howth. Er verströmt ein ruhiges und einladendes Ambiente, das Spaziergänger, begeisterte Schwimmer und Sonnenanbeter anzieht, sobald die irische Sonne hervorkommt. Die weichen Dünen bilden eine wunderschöne natürliche Grenze, die den ruhigen Strand vom städtischen Umland trennt. Wer einen Windschutz und ein paar Snacks mitbringt, ist bestens für einen gemütlichen Nachmittag am Meer gerüstet.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Verkehrsmuseum in Howth, untergebracht im Howth Depot, mit einer Sammlung historischer Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Historisches Schloss in Howth aus dem 15. Jahrhundert mit weitläufigen Gärten.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Aktiver Leuchtturm auf der Howth-Halbinsel, erbaut 1814.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "5000 Jahre alter Portal-Dolmen auf Howth Head mit Blick auf die Dublin Bay.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Bronzezeitlicher Grabhügel auf dem Shielmartin Hill in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Großer Granitfelsen auf Howth Head, beliebter Picknickplatz mit Meerblick.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Der Dollymount Strand erstreckt sich weitläufig entlang von Bull Island und bietet eine gewaltige Sandfläche, die von der Gegend um Howth aus leicht erreichbar ist. Der Strand versprüht eine lebhafte Energie und wird von Kitesurfern, Hundebesitzern und Familien, die einen großzügigen Spielplatz am Meer suchen, sehr geschätzt. Die lange, ununterbrochene Küstenlinie macht den Ort zu einem absoluten Paradies für alle, die gerne im Takt der Gezeiten spazieren gehen. Den Windbericht zu prüfen kann den Besuch erheblich aufwerten, da windige Tage perfekt für Wassersport, aber kühl zum Sonnenbaden sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "Ruhig auf der Howth-Halbinsel eingebettet, bietet der Claremont Beach ein kleines, behagliches Stückchen Sandstrand. Dieser Ort bewahrt sich ein entspanntes und gemütliches Ambiente und wird häufig von Einheimischen besucht, die hier einen friedlichen Spaziergang am Tag oder ein ruhiges Planschen im flachen Wasser genießen. Der weite Blick hinaus auf die Insel Ireland’s Eye macht es zu einer malerischen Kulisse für Erholung im Freien. Der Zugang ist stark von den Gezeiten abhängig, weshalb eine Ankunft bei Niedrigwasser sehr zu empfehlen ist, um den breiten Sand zu nutzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "Getreu seinem Namen offenbart der Broad Strand eine weite und einladende Küstenfläche in der malerischen Stadt Howth. Die Umgebung ist herrlich ruhig und zieht vor allem diejenigen an, die abseits des geschäftigen Stadtzentrums sanfte Strandspaziergänge machen und Sandburgen bauen möchten. Die frische Küstenluft und die rhythmischen Wellen sorgen für ein zutiefst erholsames Erlebnis in der Natur. Es ist ein fantastischer Ort, um einfach eine Decke auszubreiten und die vorbeiziehenden Boote am Horizont zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Oft als \"Velvet Strand\" (Samtstrand) gefeiert, besticht der Portmarnock Beach durch einen unglaublichen Streifen feinen Sandes, nur einen Steinwurf von Howth entfernt. Diese herrliche Küste pulsiert mit einer lebhaften, aber dennoch entspannten Atmosphäre, was sie zu einem erstklassigen Ziel für Familienausflüge und lange, ungestörte Läufe am Wasser macht. Die sanfte Neigung des Strandes schafft hervorragende Bedingungen zum Planschen und Schwimmen bei ruhiger See. Ein gemütlicher Spaziergang in Richtung der Dünen bei Sonnenuntergang bietet ein unvergessliches visuelles Erlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "Deutlich umrahmt von seinen namensgebenden feuerfarbenen Steinen, ist der Red Rock Beach eine faszinierende lokale Enklave an der Küste von Howth. Der Strand bewahrt sich ein ruhiges, fast geheimes Ambiente, das Spaziergänger, Erforscher von Gezeitentümpeln und jene, die sich nach ein wenig maritimer Einsamkeit sehnen, stark anzieht. Dem Wasser dabei zuzusehen, wie es an die leuchtende Geologie schwappt, ist eine zutiefst friedliche Nachmittagsbeschäftigung. Festes Schuhwerk ist sehr ratsam, um die faszinierenden felsigen Abschnitte des Ufers sicher zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Eingeschränktes Wildtierreservat für Seevögel auf der North Bull Island.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Weit abseits der typischen Touristenpfade gelegen, ist der Hidden Beach in Howth ein wundervolles Küstengeheimnis, das darauf wartet, entdeckt zu werden. Diese abgeschiedene Bucht strahlt eine zutiefst friedliche Aura aus, ideal für alle, die einen ungestörten Nachmittag mit Lesen, Sonnenbaden oder dem ruhigen Beobachten der Wellen verbringen möchten. Besucher können in dieser herrlich rauen Umgebung eine intime Verbindung zur irischen See genießen. Eigenes Wasser und Proviant mitzubringen ist unerlässlich, da der Charme dieses Ortes gerade in seiner völlig natürlichen und unberührten Art liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "Ben of Howth ist ein bekannter Gipfel in Howth, der für seine weite Aussicht über die Bucht von Dublin bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "Die Klippen von Howth bieten malerische Küstenblicke über das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "Bronzestatue der französischen Nonne Therese-Emile Yuon mit Blick auf den Howth Harbour.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Steinkreuz auf Howth Head, das einen historischen Fischereiort markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "Steinpfeiler am Howth Harbour zum Festmachen von Fischerbooten.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Rote Sandsteinklippen auf dem Küstenwanderweg von Howth Head.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Museum mit einer Sammlung von Vintage-Radios und Grammophonen in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea, historisches Gebäude in Howth, erbaut 2013.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Ständige Gruppe von Großen Tümmlern, oft im Howth Harbour gesichtet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "Die Church of the Three Sons of Nessan ist eine Kirchenruine aus dem 7. Jahrhundert mit Blick auf den Hafen von Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "Gerichtsgebäude aus dem 18. Jahrhundert am Hafenplatz von Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "Ruinen einer mittelalterlichen Abtei in Howth, geschützt als Nationaldenkmal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "Der Sutton South Martello Tower ist eine Küstenbefestigung aus dem 19. Jahrhundert in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "Die Sutton Methodist Church ist eine lokale Kultstätte in der Stadt Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "A Howth-i világítótorony a Howth Head-félszigeten, piros-fehér festéssel.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "A helyiek által szeretettel „Hole in the Wall” néven is ismert Burrow Beach egy látványos homokos partszakasszal büszkélkedhet a Howth-félszigeten. Békés és hívogató légkört áraszt, amely könnyedén vonzza a sétálókat, a lelkes úszókat és a napozókat, amint az ír nap előbújik. A puha dűnék gyönyörű természetes határt vonnak a csendes strand és a környező városi élet közé. Szélfogó és némi rágcsálnivaló magunkkal vitele garantálja a tökéletesen kényelmes délutánt a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Közlekedési múzeum Howthban, a Howth Depotban, történelmi járművek gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Történelmi kastély Howthban, a 15. századból, kiterjedt kertekkel.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Működő világítótorony a Howth-félszigeten, 1814-ben épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "5000 éves portál-dolmen a Howth-fokon, a Dublin-öbölre néző kilátással.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Bronzkori sírhalom a Shielmartin-dombon Howthban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Nagy gránitszikla a Howth-fokon, népszerű piknikhely tengeri kilátással.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "A Bull-sziget mentén hosszan elnyúló Dollymount Strand egy hatalmas homokos kiterjedés, amely a Howth területről könnyen megközelíthető. A part vibráló energiával rendelkezik, a kiteszörfösök, a kutyasétáltatók és a tágas tengerparti játszóteret kereső családok nagy kedvence. A hosszú, töretlen partvonal abszolút paradicsom azok számára, akik szeretnek a visszahúzódó dagály mentén vándorolni. A szélelőrejelzés ellenőrzése nagyban javíthatja a látogatást, mivel a szeles napok tökéletesek a vízi sportokhoz, de hűvösek a napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "A Howth-félszigeten csendesen meghúzódó Claremont Beach egy kis, megnyugtató homokos partszakaszt kínál. Ez a hely laza és hangulatos atmoszférát őriz, gyakran látogatják a helyiek békés nappali sétákra vagy egy csendes evezésre a sekély vízben. Az Ireland's Eye-ra nyíló pazar kilátás gyönyörű, festői környezetet biztosít a szabadtéri kikapcsolódáshoz. A megközelíthetőség szorosan összefügg az árapállyal, így az apály idején történő érkezés erősen ajánlott a kiterjedt homokmező élvezetéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "Nevéhez hűen a Broad Strand széles és hívogató tengerparti szakaszt tár elénk Howth festői városában. A környezet csodálatosan nyugodt, és közvetlenül vonzza azokat, akik a nyüzsgő városközponttól távol élvezik a szelíd parti sétákat és a homokvár építést. A ropogós parti levegő és a ritmikus hullámok mélyen helyreállító szabadtéri élményt nyújtanak. Fantasztikus hely, ahol egyszerűen kiteríthetünk egy takarót, és nézhetjük a horizonton elhaladó hajókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "A gyakran „Bársonypartként” ünnepelt Portmarnock Beach lenyűgöző sima homoksávval büszkélkedhet, mindössze egy kőhajításnyira Howth-tól. Ez a csodálatos partvonal élénk, mégis nyugodt hangulattal bír, így kiváló úti cél a családi kirándulásokhoz és a hosszú, zavartalan futásokhoz a víz mellett. A strand enyhe lejtése kiváló feltételeket teremt az evezéshez és az úszáshoz, amikor a tenger nyugodt. Egy kényelmes séta a dűnék felé naplementekor felejthetetlen vizuális élményt nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "A nevét adó tűzszínű kövek által markánsan keretezett Red Rock Beach egy lenyűgöző helyi enklávé Howth partvonalán. A strand csendes, szinte titkos atmoszférát áraszt, amely erősen vonzza a sétálókat, a sziklamedencék felfedezőit és a tengerparti magányra vágyókat. A vibráló geológiának csapódó víz megfigyelése mélyen békés délutáni elfoglaltságot kínál. Stabil lábbeli viselése kifejezetten ajánlott a part érdekes sziklás szakaszainak biztonságos felfedezéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Korlátozott vadvédelmi terület tengeri madarak számára a North Bull Island-en.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "A tipikus turistautaktól elrejtve, a howthi Hidden Beach egy csodálatos tengerparti titok, amely felfedezésre vár. Ez az eldugott öböl mélyen békés aurát sugároz, ideális azok számára, akik zavartalan délutánt keresnek olvasással, napozással vagy a hullámok csendes figyelésével. A látogatók bensőséges kapcsolatot élvezhetnek az Ír-tengerrel ebben az elragadóan vadregényes környezetben. A saját víz és készletek behozatala elengedhetetlen, mivel e hely varázsa a teljesen természetes és kiépítetlen állapotában rejlik.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "A Ben of Howth egy jelentős csúcs Howthban, amely a Dublin-öbölre nyíló kiterjedt kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "A howthi sziklák festői kilátást nyújtanak a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "Therese-Emile Yuon francia apáca bronzszobra a Howth Harbourre nézve.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Kőkereszt a Howth-fokon, egy történelmi halászati helyet jelölve.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "Kőoszlop a Howth Harbournél halászhajók kikötésére.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Vörös homokkő sziklák a Howth-foki parti sétányon.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Múzeum vintage rádiók és gramofonok gyűjteményével Howth-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea történelmi épület Howthban, épült 2013-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Állandó palackorrú delfinek csoportja, gyakran látható a Howth Harbourban.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "A Nessan három fiának temploma egy 7. századi templomrom, amely Howth kikötőjére néz.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "18. századi bírósági épület a howth-i kikötő téren.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "Középkori apátság romjai Howthban, nemzeti emlékmű.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "A Sutton South Martello Tower egy 19. századi partvédelmi erődítmény Howthban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "A Sutton Methodist Church egy helyi istentiszteleti hely Howth városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "Farul Howth de pe peninsula Howth Head, vopsit în roșu și alb.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "Cunoscută cu afecțiune de localnici și sub numele de „Hole in the Wall”, Burrow Beach prezintă o întindere spectaculoasă de nisip pe peninsula Howth. Ea radiază o ambianță senină și primitoare care atrage cu ușurință plimbăreții, înotătorii dornici și iubitorii de soare atunci când soarele irlandez își face apariția. Dunele moi creează o graniță naturală frumoasă care separă plaja liniștită de viața urbană înconjurătoare. Aducerea unui paravânt și a câtorva gustări vă asigură o după-amiază perfect confortabilă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Muzeu al transporturilor în Howth, găzduit în Depoul Howth, cu o colecție de vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Castel istoric în Howth din secolul al XV-lea, cu grădini întinse.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Far activ pe peninsula Howth, construit în 1814.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "Dolmen portal vechi de 5000 de ani pe Howth Head, cu vedere la Dublin Bay.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Movilă funerară din epoca bronzului pe dealul Shielmartin din Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Stâncă mare de granit pe Howth Head, loc popular de picnic cu vedere la mare.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Întinzându-se extensiv de-a lungul Bull Island, Dollymount Strand este o întindere masivă de nisip ușor accesibilă din zona Howth. Plaja deține o energie vibrantă, fiind extrem de favorizată de surferii cu zmeul, de cei care își plimbă câinii și de familiile care caută un loc de joacă spațios pe litoral. Țărmurile lungi și neîntrerupte o fac un paradis absolut pentru cei cărora le place să rătăcească de-a lungul fluxului care se retrage. Verificarea prognozei vântului vă poate îmbunătăți mult vizita, deoarece zilele cu briză sunt perfecte pentru sporturi nautice, dar răcoroase pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "Cuibărită în liniște în peninsula Howth, Claremont Beach oferă o mică porțiune reconfortantă de țărm nisipos. Acest loc menține o ambianță relaxată și confortabilă, fiind adesea frecventat de localnicii ieșiți pentru o plimbare pașnică în timpul zilei sau o bălăceală liniștită în apele puțin adânci. Vederile panoramice către Ireland’s Eye îl fac un cadru frumos și pitoresc pentru relaxare în aer liber. Accesul este strâns legat de maree, astfel încât sosirea în timpul apelor scăzute este foarte recomandată pentru a vă bucura de nisipul expansiv.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "Fidel numelui său, Broad Strand dezvăluie o întindere largă și primitoare de coastă în orașul pitoresc Howth. Mediul este minunat de calm, atrăgându-i direct pe cei care se bucură de plimbări blânde pe țărm și de construirea castelelor de nisip departe de centrul plin de viață al orașului. Aerul proaspăt de coastă și valurile ritmice oferă o experiență în aer liber profund revigorantă. Este un loc fantastic pentru a întinde pur și simplu o pătură și a privi bărcile trecând la orizont.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Adesea sărbătorită ca „Plaja de catifea”, Portmarnock Beach se mândrește cu o întindere incredibilă de nisip fin, la doar o aruncătură de băț de Howth. Această coastă magnifică vibrează de o atmosferă plină de viață, dar relaxată, transformând-o într-o destinație stelară pentru excursii de familie și alergări lungi și neîntrerupte pe malul apei. Panta blândă a plajei creează condiții excelente pentru bălăceală și înot atunci când marea este calmă. O plimbare relaxantă spre dune la apusul soarelui oferă o bucurie vizuală de neuitat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "Încadrată distinct de pietrele sale de culoarea focului care îi dau numele, Red Rock Beach este o enclavă locală fascinantă pe coasta Howth. Plaja menține o ambianță liniștită, aproape secretă, care îi atrage puternic pe cei care se plimbă, pe exploratorii de bălți de stâncă și pe cei care poftesc o notă de singurătate pe coastă. Privitul apei cum se lovește de geologia vibrantă oferă o ocupație profund pașnică pentru după-amiază. Încălțămintea solidă este foarte recomandată pentru explorarea în siguranță a porțiunilor stâncoase intrigante ale țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Sanctuar de faună sălbatică restricționat pentru păsări marine pe North Bull Island.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Ascunsă de traseele turistice tipice, Hidden Beach din Howth este un minunat secret de coastă care așteaptă să fie descoperit. Acest golf izolat radiază o aură profund pașnică, ideală pentru cei care caută o după-amiază netulburată de lectură, de plajă sau de privit liniștit valurile. Vizitatorii se pot bucura de o conexiune intimă cu Marea Irlandeză în acest cadru încântător de accidentat. Aducerea propriei ape și a proviziilor este esențială, deoarece farmecul acestui loc constă în starea sa complet naturală și nedezvoltată.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "Ben of Howth este un vârf notabil din Howth, recunoscut pentru priveliștile sale ample asupra golfului Dublin.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "Stâncile din Howth oferă priveliști pitorești asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "Statuie de bronz a călugăriței franceze Therese-Emile Yuon cu vedere la Howth Harbour.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Cruce de piatră pe Howth Head, marcând un loc istoric de pescuit.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "Stâlp de piatră la Howth Harbour pentru amarajul bărcilor de pescuit.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Stânci de gresie roșie pe poteca de coastă a Howth Head.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Muzeu cu o colecție de radiouri și gramofoane vintage în Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea, clădire istorică în Howth, construită în 2013.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Grup rezident de delfini cu botul de sticlă, adesea văzuți în Howth Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "Biserica celor trei fii ai lui Nessan este o ruină de biserică din secolul al VII-lea cu vedere spre portul Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "Clădire de tribunal din secolul al XVIII-lea pe piața portului din Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "Ruinele unei abații medievale în Howth, protejată ca monument național.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "Sutton South Martello Tower este o fortificație de apărare a coastei din secolul al XIX-lea, situată în Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "Sutton Methodist Church este un lăcaș de cult local situat în orașul Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "Howth Lighthouse on Howth Head peninsula, painted red and white.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "Also known fondly by locals as the 'Hole in the Wall', Burrow Beach features a spectacular sweep of sand on the Howth peninsula. It radiates a serene and inviting ambiance that easily draws walkers, eager swimmers, and sunbathers when the Irish sun emerges. The soft dunes create a beautiful natural border that separates the tranquil beach from the surrounding urban life. Bringing a windbreak and some snacks ensures a perfectly comfortable afternoon by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Transport museum in Howth housed in the Howth Depot, featuring a collection of vintage vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Historic castle in Howth dating from the 15th century with extensive gardens.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Active lighthouse on the Howth peninsula, built in 1814.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "5000-year-old portal dolmen on Howth Head with views of Dublin Bay.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Bronze Age burial cairn on Shielmartin Hill in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Large granite rock on Howth Head, popular picnic spot with sea views.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Stretching extensively along Bull Island, Dollymount Strand is a massive sandy expanse easily accessible from the Howth area. The beach holds a vibrant energy, highly favored by kite surfers, dog walkers, and families seeking a spacious seaside playground. Long, unbroken shorelines make it an absolute paradise for those who love to wander along the receding tide. Checking the wind forecast can greatly enhance your visit, as breezy days are perfect for watersports but chilly for sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "Nestled quietly within the Howth peninsula, Claremont Beach offers a small, comforting slice of sandy shore. This spot maintains a relaxed and cozy ambiance, often frequented by locals out for a peaceful daytime stroll or a quiet paddle in the shallows. The sweeping views out towards Ireland’s Eye make it a beautifully picturesque setting for outdoor relaxation. Access is closely tied to the tides, so arriving during low water is highly recommended to enjoy the expansive sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "True to its name, Broad Strand reveals a wide and welcoming expanse of coastline in the scenic town of Howth. The environment is wonderfully calm, appealing directly to those who enjoy gentle shore walks and building sandcastles away from the bustling town center. The crisp coastal air and rhythmic waves provide a deeply restorative outdoor experience. It is a fantastic spot to simply spread out a blanket and watch the passing boats on the horizon.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Often celebrated as the \"Velvet Strand,\" Portmarnock Beach boasts an incredible stretch of smooth sand just a stone's throw from Howth. This magnificent coastline hums with a lively yet relaxed vibe, making it a stellar destination for family day trips and long, uninterrupted runs by the water. The gentle gradient of the beach creates excellent conditions for paddling and swimming when the sea is calm. Taking a leisurely walk towards the dunes at sunset offers an unforgettable visual treat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "Distinctly framed by its namesake fiery-colored stones, Red Rock Beach is a fascinating local enclave on the Howth coastline. The beach maintains a quiet, almost secret ambiance that heavily appeals to walkers, rock pool explorers, and those craving a touch of coastal solitude. Watching the water lap against the vibrant geology provides a profoundly peaceful afternoon pursuit. Solid footwear is highly advised for safely exploring the intriguing rocky sections of the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Restricted wildlife sanctuary for seabirds on North Bull Island.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Tucked away from the typical tourist trails, Hidden Beach in Howth is a wonderful coastal secret waiting to be discovered. This secluded cove radiates a profoundly peaceful aura, ideal for those seeking an undisturbed afternoon of reading, sunbathing, or quietly watching the waves. Visitors can enjoy an intimate connection with the Irish sea in this delightfully rugged setting. Bringing your own water and supplies is essential, as the charm of this spot lies in its completely natural and undeveloped state.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "Ben of Howth is a notable peak in Howth known for its extensive views over Dublin Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "The Cliffs of Howth offer scenic coastal views over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "Bronze statue of French nun Therese-Emile Yuon overlooking Howth Harbour.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Stone cross on Howth Head marking a historic fishing landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "Stone pillar at Howth Harbour used for mooring fishing boats.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Red sandstone cliffs on the Howth Head coastal path.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Museum housing a collection of vintage radios and gramophones in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea, historical building in Howth, built in 2013.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Resident pod of bottlenose dolphins often seen in Howth Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "The Church of the Three Sons of Nessan is a 7th-century church ruin overlooking Howth Harbour.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "18th-century courthouse building on Howth's harbour square.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "Ruins of a medieval abbey in Howth, protected as a national monument.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "The Sutton South Martello Tower is a 19th-century coastal defense fortification in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "Sutton Methodist Church is a local place of worship located in the city of Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Howth", hu: "Howth", ro: "Howth", en: "Howth" },
@@ -7189,7 +9160,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kenmare Stone Circle",
-                  "text": "Einer der größten Steinkreise im Südwesten Irlands, in der Nähe von Kenmare gelegen.",
+                  "text": "Ein bronzezeitlicher Steinkreis mit 15 Steinen in Kenmare.",
                   "category": "historical",
                   "coords": [
                         -9.588207,
@@ -7198,7 +9169,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mucksna Nature Reserve",
-                  "text": "Ein Naturschutzgebiet bei Kenmare, bekannt für seine Wälder und Artenvielfalt.",
+                  "text": "Ein Feuchtgebiet-Naturschutzgebiet mit Holzstegen in Kenmare.",
                   "category": "natural",
                   "coords": [
                         -9.589883,
@@ -7207,7 +9178,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Strickeen",
-                  "text": "Ein Berggipfel mit herrlichem Blick auf den Gap of Dunloe und die Gegend um Kenmare.",
+                  "text": "Berggipfel in den Caha-Bergen nahe Kenmare.",
                   "category": "natural",
                   "coords": [
                         -9.585443,
@@ -7216,7 +9187,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Three Musicians",
-                  "text": "Eine Skulptur in Kenmare, die traditionelle irische Musiker darstellt.",
+                  "text": "Drei aufgestellte Steinblöcke, die wie Musiker angeordnet sind, nahe Kenmare.",
                   "category": "historical",
                   "coords": [
                         -9.582845,
@@ -7243,7 +9214,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killowen Church",
-                  "text": "Die Überreste einer historischen Kirche im Viertel Killowen in Kenmare.",
+                  "text": "Ruinen einer mittelalterlichen Kirche nahe Kenmare am Ring of Kerry.",
                   "category": "historical",
                   "coords": [
                         -9.568508,
@@ -7252,7 +9223,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Cross Church",
-                  "text": "Eine bedeutende katholische Kirche in Kenmare, bekannt für ihre Innenausstattung.",
+                  "text": "Katholische Kirche aus dem 19. Jahrhundert in Kenmare.",
                   "category": "religious",
                   "coords": [
                         -9.583308,
@@ -7261,7 +9232,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "Eine christliche Kultstätte, die der Gemeinde in Kenmare dient.",
+                  "text": "Church-of-Ireland-Kirche in Kenmare, erbaut 1856.",
                   "category": "religious",
                   "coords": [
                         -9.582981,
@@ -7281,7 +9252,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kenmare Stone Circle",
-                  "text": "Délnyugat-Írország egyik legnagyobb kőköre, amely Kenmare közelében található.",
+                  "text": "Egy bronzkori kőkör 15 kővel Kenmare-ben.",
                   "category": "historical",
                   "coords": [
                         -9.588207,
@@ -7290,7 +9261,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mucksna Nature Reserve",
-                  "text": "Kenmare közeli természetvédelmi terület, amely erdőiről és élővilágáról ismert.",
+                  "text": "Egy vizes élőhely-természetvédelmi terület fasétányokkal Kenmare-ben.",
                   "category": "natural",
                   "coords": [
                         -9.589883,
@@ -7299,7 +9270,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Strickeen",
-                  "text": "Hegycsúcs, ahonnan festői kilátás nyílik a Gap of Dunloe-ra és Kenmare környékére.",
+                  "text": "Hegycsúcs a Caha-hegységben, Kenmare közelében.",
                   "category": "natural",
                   "coords": [
                         -9.585443,
@@ -7308,7 +9279,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Three Musicians",
-                  "text": "Tradicionális ír zenészeket ábrázoló szobor Kenmare-ben.",
+                  "text": "Három felállított kőtömb, zenészekhez hasonló elrendezésben, Kenmare közelében.",
                   "category": "historical",
                   "coords": [
                         -9.582845,
@@ -7335,7 +9306,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killowen Church",
-                  "text": "Egy történelmi templom maradványai Kenmare Killowen negyedében.",
+                  "text": "Középkori templomrom Kenmare közelében a Kerry gyűrűn.",
                   "category": "historical",
                   "coords": [
                         -9.568508,
@@ -7344,7 +9315,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Cross Church",
-                  "text": "Kenmare jelentős katolikus temploma, amely belső díszítéséről ismert.",
+                  "text": "19. századi katolikus templom Kenmare-ben.",
                   "category": "religious",
                   "coords": [
                         -9.583308,
@@ -7353,7 +9324,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "Kenmare közösségét kiszolgáló keresztény templom.",
+                  "text": "Church of Ireland templom Kenmare-ben, 1856-ban épült.",
                   "category": "religious",
                   "coords": [
                         -9.582981,
@@ -7373,7 +9344,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kenmare Stone Circle",
-                  "text": "Unul dintre cele mai mari cercuri de piatră din sud-vestul Irlandei, situat lângă Kenmare.",
+                  "text": "Un cerc de piatră din epoca bronzului cu 15 pietre în Kenmare.",
                   "category": "historical",
                   "coords": [
                         -9.588207,
@@ -7382,7 +9353,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mucksna Nature Reserve",
-                  "text": "O arie naturală protejată lângă Kenmare, cunoscută pentru pădurile și biodiversitatea sa.",
+                  "text": "O rezervație naturală de zone umede cu promenade de lemn în Kenmare.",
                   "category": "natural",
                   "coords": [
                         -9.589883,
@@ -7391,7 +9362,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Strickeen",
-                  "text": "Un vârf montan care oferă vederi pitorești asupra Gap of Dunloe și zonei Kenmare.",
+                  "text": "Vârf muntos în Munții Caha, lângă Kenmare.",
                   "category": "natural",
                   "coords": [
                         -9.585443,
@@ -7400,7 +9371,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Three Musicians",
-                  "text": "O sculptură în Kenmare care înfățișează muzicieni tradiționali irlandezi.",
+                  "text": "Trei blocuri de piatră așezate ca muzicienii, lângă Kenmare.",
                   "category": "historical",
                   "coords": [
                         -9.582845,
@@ -7427,7 +9398,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killowen Church",
-                  "text": "Rămășițele unei biserici istorice situate în zona Killowen din Kenmare.",
+                  "text": "Ruină de biserică medievală lângă Kenmare pe Ring of Kerry.",
                   "category": "historical",
                   "coords": [
                         -9.568508,
@@ -7436,7 +9407,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Cross Church",
-                  "text": "O biserică catolică importantă din Kenmare, cunoscută pentru decorațiunile sale interioare.",
+                  "text": "Biserică catolică din secolul al XIX-lea în Kenmare.",
                   "category": "religious",
                   "coords": [
                         -9.583308,
@@ -7445,7 +9416,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "Un lăcaș de cult creștin care deservește comunitatea din Kenmare.",
+                  "text": "Biserică a Bisericii Irlandei în Kenmare, construită în 1856.",
                   "category": "religious",
                   "coords": [
                         -9.582981,
@@ -7465,7 +9436,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Kenmare Stone Circle",
-                  "text": "One of the largest stone circles in southwest Ireland, located near Kenmare.",
+                  "text": "A Bronze Age stone circle with 15 stones in Kenmare.",
                   "category": "historical",
                   "coords": [
                         -9.588207,
@@ -7474,7 +9445,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mucksna Nature Reserve",
-                  "text": "A protected natural area near Kenmare known for its woods and biodiversity.",
+                  "text": "A wetland nature reserve with boardwalks in Kenmare.",
                   "category": "natural",
                   "coords": [
                         -9.589883,
@@ -7483,7 +9454,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Strickeen",
-                  "text": "A mountain peak offering scenic views of the Gap of Dunloe and the Kenmare area.",
+                  "text": "Mountain peak in the Caha Mountains near Kenmare.",
                   "category": "natural",
                   "coords": [
                         -9.585443,
@@ -7492,7 +9463,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Three Musicians",
-                  "text": "A sculpture in Kenmare depicting traditional Irish musicians.",
+                  "text": "Three standing stones arranged like musicians near Kenmare.",
                   "category": "historical",
                   "coords": [
                         -9.582845,
@@ -7519,7 +9490,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Killowen Church",
-                  "text": "The remains of a historic church located in the Killowen area of Kenmare.",
+                  "text": "Ruined medieval church near Kenmare on the Ring of Kerry.",
                   "category": "historical",
                   "coords": [
                         -9.568508,
@@ -7528,7 +9499,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Cross Church",
-                  "text": "A significant Catholic church in Kenmare known for its internal decoration.",
+                  "text": "19th-century Catholic church in Kenmare.",
                   "category": "religious",
                   "coords": [
                         -9.583308,
@@ -7537,7 +9508,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "A place of Christian worship serving the community in Kenmare.",
+                  "text": "Church of Ireland church in Kenmare, built 1856.",
                   "category": "religious",
                   "coords": [
                         -9.582981,
@@ -7693,7 +9664,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Glynn Old Church",
-                  "text": "Überreste einer historischen Kirche in der Nähe von Larne.",
+                  "text": "Ruinen einer Kirche aus dem 17. Jahrhundert mit Blick auf den Larne Lough.",
                   "category": "historical",
                   "coords": [
                         -5.810857,
@@ -7758,7 +9729,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Glynn Old Church",
-                  "text": "Egy történelmi templom romjai Larne közelében.",
+                  "text": "17. századi templomrom a Larne Loughra néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -5.810857,
@@ -7823,7 +9794,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Glynn Old Church",
-                  "text": "Ruinele unei biserici istorice situate în apropiere de Larne.",
+                  "text": "Ruină de biserică din secolul al XVII-lea cu vedere la Larne Lough.",
                   "category": "historical",
                   "coords": [
                         -5.810857,
@@ -7888,7 +9859,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Glynn Old Church",
-                  "text": "Remains of a historical church located near Larne.",
+                  "text": "Ruined 17th-century church overlooking Larne Lough.",
                   "category": "historical",
                   "coords": [
                         -5.810857,
@@ -9156,7 +11127,664 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-macroom-cities-v2.webp",
   },
   {
-    id: "ireland-malahide-cities-v2", "sights": {"de": [{"name": "Casino Model Railway Museum", "text": "Das Casino Model Railway Museum in Malahide befindet sich in einem restaurierten historischen Gebäude und zeigt detaillierte Modelleisenbahnen.", "category": "museum", "coords": [-6.158326, 53.450634]}, {"name": "Blast Windsurfing and Windfoiling", "text": "Blast Windsurfing and Windfoiling ist eine Wassersportanlage in Malahide.", "category": "family", "coords": [-6.175549, 53.469082]}, {"name": "Donabate Beach", "text": "Donabate Beach bietet einen herrlichen, goldenen Sandstreifen, der wunderschön in der Nähe von Malahide gelegen ist. Er sprüht vor freudiger, familienfreundlicher Energie, wo Kinder kunstvolle Sandburgen bauen und Erwachsene belebende Spaziergänge an der Flutlinie genießen. Der klare Blick bis zum Horizont macht jeden Ausflug ans Meer zu einem unvergesslichen optischen Vergnügen. Da sich die Parkplätze an strahlend sonnigen Wochenenden schnell füllen können, wird dringend zu einer frühen Anreise geraten.", "category": "recreational", "coords": [-6.128484, 53.465298]}, {"name": "Portmarnock Beach", "text": "Der Portmarnock Beach fügt sich nahtlos in die Landschaft von Malahide ein und wird für sein malerisches und schier endloses Sandufer bewundert. Die weite Küste bietet herrlichen Raum für lebhafte Familienausflüge, enthusiastische Jogger und all jene, die einfach an den sanft plätschernden Wellen entspannen möchten. Die weite Himmelssicht und der weiche Sand bilden die perfekte Leinwand für eine erholsame Auszeit in der Natur. Ein gemütlicher Spaziergang hier, während die Sonne tiefer sinkt, offenbart wahrhaft spektakuläre maritime Farben.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Corballis Nudist Beach", "text": "Gemütlich in den Dünen bei Malahide verborgen, dient Corballis als ausgewiesener FKK-Rückzugsort an der Küste. Die Umgebung hier ist zutiefst ruhig und respektvoll, was perfekt für jene ist, die das Meer und die Sonne auf eine befreite, natürliche Weise erleben möchten. Sanfte Wellen und weicher Sand bieten einen einladenden Rahmen für ungestörte Entspannung fernab der großen Menschenmengen. Da es sich um ein naturbelassenes Ufer handelt, macht das Mitbringen von bequemen Sandalen für den Weg über die Dünen die Ankunft deutlich angenehmer.", "category": "recreational", "coords": [-6.128338, 53.460255]}, {"name": "Lanestown Castle", "text": "Lanestown Castle ist eine historische Burg in Malahide.", "category": "castle", "coords": [-6.178117, 53.483066]}, {"name": "The Butterfly House", "text": "The Butterfly House ist eine zoologische Attraktion in Malahide.", "category": "family", "coords": [-6.161823, 53.444977]}, {"name": "Malahide Historical Society Museum", "text": "Das Malahide Historical Society Museum ist ein lokales Museum zur Geschichte von Malahide.", "category": "museum", "coords": [-6.162851, 53.444716]}, {"name": "Newbridge House and Demesne", "text": "Newbridge House and Demesne ist eine Attraktion in Malahide, die ein historisches georgianisches Herrenhaus und ein Anwesen umfasst.", "category": "landmark", "coords": [-6.167485, 53.485652]}, {"name": "The Southern Cross Monument", "text": "Das Southern Cross Monument ist ein Denkmal in Malahide.", "category": "historical", "coords": [-6.124518, 53.432156]}, {"name": "High Rock", "text": "High Rock ist ein malerischer Aussichtspunkt in Malahide.", "category": "natural", "coords": [-6.122128, 53.441468]}, {"name": "Strand Mill Ruins", "text": "Stolz vor der malerischen Küstenkulisse von Malahide stehend, bieten die Strand Mill Ruins einen faszinierenden Einblick in die lokale Geschichte. Obwohl es kein traditioneller Badestrand ist, bietet dieser Ort am Wasser eine ruhige, nachdenkliche Atmosphäre, die sich perfekt für gemütliche Spaziergänge und Fotografie eignet. Das Zusammenspiel von altem Gestein und den rhythmischen Gezeiten schafft eine unbestreitbar romantische Umgebung. Einen Besuch hier mit einem längeren Spaziergang an den angrenzenden Ufern zu verbinden, sorgt für einen wunderbar abwechslungsreichen Nachmittag.", "category": "historical", "coords": [-6.141286, 53.417976]}, {"name": "Anchor", "text": "Anchor ist ein lokales Denkmal in Malahide.", "category": "historical", "coords": [-6.154229, 53.455682]}, {"name": "Church (in ruins)", "text": "Church (in ruins) stellt die baulichen Überreste einer Kirche in Malahide dar.", "category": "historical", "coords": [-6.168584, 53.424558]}, {"name": "Saint Sylvester's Well", "text": "Ein historischer Brunnen und eine lokale Sehenswürdigkeit in Malahide.", "category": "landmark", "coords": [-6.155119, 53.451147]}, {"name": "Church", "text": "Überreste einer historischen Kirche in Malahide.", "category": "historical", "coords": [-6.129177, 53.439846]}, {"name": "Balcarrick Martello Tower", "text": "Ein historischer Martello-Turm an der Küste von Malahide.", "category": "landmark", "coords": [-6.115377, 53.478324]}, {"name": "Portmarnock Martello Tower", "text": "Ein historischer Martello-Turm nahe Malahide.", "category": "landmark", "coords": [-6.122332, 53.435944]}], "hu": [{"name": "Casino Model Railway Museum", "text": "A malahide-i Casino Model Railway Museum egy felújított történelmi épületben található, és részletes modellvasút-kiállításokat mutat be.", "category": "museum", "coords": [-6.158326, 53.450634]}, {"name": "Blast Windsurfing and Windfoiling", "text": "A Blast Windsurfing and Windfoiling egy vízisport-létesítmény Malahide-ban.", "category": "family", "coords": [-6.175549, 53.469082]}, {"name": "Donabate Beach", "text": "A Donabate Beach egy csodálatos aranyhomokos partszakaszt kínál, amely gyönyörű környezetben, Malahide közelében található. Vidám, családbarát energia pezseg itt, ahol a gyerekek bonyolult homokvárakat építenek, a felnőttek pedig élénkítő sétákat tesznek a vízszint mentén. A horizonton túlnyúló tiszta kilátás minden tengerparti sétát emlékezetes vizuális élménnyé tesz. Mivel a parkolók a ragyogó napsütéses hétvégéken gyorsan megtelhetnek, erősen ajánlott a korai érkezés megtervezése.", "category": "recreational", "coords": [-6.128484, 53.465298]}, {"name": "Portmarnock Beach", "text": "A Malahide tájába zökkenőmentesen belesimuló Portmarnock Beach festői és látszólag végtelen homokos partjairól híres. A kiterjedt tengerpart csodálatosan alkalmas élénk családi kirándulásokra, lelkes kocogóknak és azoknak, akik egyszerűen csak pihenni szeretnének a lágyan nyaldosó hullámok mellett. A tágas, nyílt égbolt és a puha homok a tökéletes vásznat nyújtja egy helyreállító szabadtéri meneküléshez. Egy kényelmes séta ezen a helyen, ahogy a nap egyre lejjebb süllyed az égen, igazán látványos tengeri színeket tár elénk.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Corballis Nudist Beach", "text": "A Malahide melletti dűnék között kényelmesen megbúvó Corballis kijelölt naturista menedékként szolgál a tengerpart mentén. A környezet itt mélyen csendes és tiszteletteljes, tökéletesen kiszolgálva azokat, akik szabad és természetes módon szeretnék megtapasztalni a tengert és a napsütést. A szelíd hullámok és a puha homok hívogató környezetet biztosítanak a nyüzsgő tömegtől távoli, fesztelen pihenéshez. Mivel egy természetes úton kialakult partvonalról van szó, a dűnéken átvezető sétához kényelmes szandál hozatala sokkal gördülékenyebbé teszi az érkezést.", "category": "recreational", "coords": [-6.128338, 53.460255]}, {"name": "Lanestown Castle", "text": "A Lanestown Castle egy történelmi kastélyépület Malahide-ban.", "category": "castle", "coords": [-6.178117, 53.483066]}, {"name": "The Butterfly House", "text": "A The Butterfly House egy állattani látványosság Malahide-ban.", "category": "family", "coords": [-6.161823, 53.444977]}, {"name": "Malahide Historical Society Museum", "text": "A Malahide Historical Society Museum egy helytörténeti múzeum Malahide-ban.", "category": "museum", "coords": [-6.162851, 53.444716]}, {"name": "Newbridge House and Demesne", "text": "A Newbridge House and Demesne egy látványosság Malahide-ban, amely egy történelmi György-korabeli kúriát és birtokot foglal magában.", "category": "landmark", "coords": [-6.167485, 53.485652]}, {"name": "The Southern Cross Monument", "text": "A Southern Cross Monument egy emlékmű Malahide-ban.", "category": "historical", "coords": [-6.124518, 53.432156]}, {"name": "High Rock", "text": "A High Rock egy festői kilátó Malahide-ban.", "category": "natural", "coords": [-6.122128, 53.441468]}, {"name": "Strand Mill Ruins", "text": "A Malahide festői tengerparti háttere előtt büszkén álló Strand Mill romjai lenyűgöző bepillantást engednek a helyi történelembe. Bár nem hagyományos fürdőhely, ez a vízparti pont csendes, elmélkedő légkört kínál, amely tökéletes a kényelmes sétákhoz és a fotózáshoz. Az ősi kövek és a ritmikus árapály játéka tagadhatatlanul romantikus környezetet teremt. Ha az itteni látogatást összekötjük egy hosszabb sétával a szomszédos partok mentén, egy csodálatosan tartalmas délutánban lehet részünk.", "category": "historical", "coords": [-6.141286, 53.417976]}, {"name": "Anchor", "text": "Az Anchor egy helyi emlékmű Malahide-ban.", "category": "historical", "coords": [-6.154229, 53.455682]}, {"name": "Church (in ruins)", "text": "A Church (in ruins) egy templom szerkezeti maradványait jelképezi Malahide-ban.", "category": "historical", "coords": [-6.168584, 53.424558]}, {"name": "Saint Sylvester's Well", "text": "Egy történelmi kút és helyi látványosság Malahide-ban.", "category": "landmark", "coords": [-6.155119, 53.451147]}, {"name": "Church", "text": "Egy történelmi templom romjai Malahide-ban.", "category": "historical", "coords": [-6.129177, 53.439846]}, {"name": "Balcarrick Martello Tower", "text": "Egy történelmi Martello-torony Malahide partvidékén.", "category": "landmark", "coords": [-6.115377, 53.478324]}, {"name": "Portmarnock Martello Tower", "text": "Egy történelmi Martello-torony Malahide közelében.", "category": "landmark", "coords": [-6.122332, 53.435944]}], "ro": [{"name": "Casino Model Railway Museum", "text": "Casino Model Railway Museum din Malahide se află într-o clădire istorică restaurată și prezintă expoziții detaliate de trenulețe în miniatură.", "category": "museum", "coords": [-6.158326, 53.450634]}, {"name": "Blast Windsurfing and Windfoiling", "text": "Blast Windsurfing and Windfoiling este o bază de sporturi nautice situată în Malahide.", "category": "family", "coords": [-6.175549, 53.469082]}, {"name": "Donabate Beach", "text": "Donabate Beach oferă o întindere magnifică de nisip auriu situată frumos în apropiere de Malahide. Vibrează cu o energie plină de bucurie, ideală pentru familii, unde copiii construiesc castele elaborate de nisip și adulții se bucură de plimbări revigorante de-a lungul liniei de maree. Vederile clare care se întind peste orizont fac din fiecare plimbare pe litoral un răsfăț vizual memorabil. Deoarece parcarea se poate umple rapid în weekendurile însorite și luminoase, planificarea unei sosiri timpurii este puternic recomandată.", "category": "recreational", "coords": [-6.128484, 53.465298]}, {"name": "Portmarnock Beach", "text": "Integrându-se perfect în peisajul din Malahide, Portmarnock Beach este venerată pentru țărmurile sale nisipoase pitorești și aparent nesfârșite. Coasta expansivă este minunat de primitoare pentru ieșirile pline de viață în familie, pentru iubitorii de jogging entuziaști și pentru cei care doresc pur și simplu să se relaxeze lângă valurile care se lovesc ușor. Cerul său larg deschis și nisipurile moi oferă pânza supremă pentru o evadare restaurativă în aer liber. Făcând o plimbare relaxantă aici, pe măsură ce soarele coboară pe cer, dezvăluie culori maritime cu adevărat spectaculoase.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Corballis Nudist Beach", "text": "Ascunsă confortabil printre dunele de lângă Malahide, Corballis servește drept refugiu desemnat, cu îmbrăcăminte opțională de-a lungul coastei. Mediul aici este profund liniștit și respectuos, adresându-se perfect celor care doresc să experimenteze marea și soarele într-un mod eliberat și natural. Valurile blânde și nisipul moale oferă un cadru primitor pentru relaxare lipsită de inhibiții, departe de mulțimile pline de viață. Deoarece este un țărm format natural, aducerea unor sandale confortabile pentru plimbarea peste dune vă va face sosirea mult mai ușoară.", "category": "recreational", "coords": [-6.128338, 53.460255]}, {"name": "Lanestown Castle", "text": "Lanestown Castle este un castel istoric situat în Malahide.", "category": "castle", "coords": [-6.178117, 53.483066]}, {"name": "The Butterfly House", "text": "The Butterfly House este o atracție zoologică în Malahide.", "category": "family", "coords": [-6.161823, 53.444977]}, {"name": "Malahide Historical Society Museum", "text": "Malahide Historical Society Museum este un muzeu local care expune istoria orașului Malahide.", "category": "museum", "coords": [-6.162851, 53.444716]}, {"name": "Newbridge House and Demesne", "text": "Newbridge House and Demesne este o atracție din Malahide, cu un conac georgian istoric și un domeniu.", "category": "landmark", "coords": [-6.167485, 53.485652]}, {"name": "The Southern Cross Monument", "text": "The Southern Cross Monument este un monument situat în Malahide.", "category": "historical", "coords": [-6.124518, 53.432156]}, {"name": "High Rock", "text": "High Rock este un punct de belvedere pitoresc în Malahide.", "category": "natural", "coords": [-6.122128, 53.441468]}, {"name": "Strand Mill Ruins", "text": "Stând cu mândrie pe fundalul pitoresc de coastă din Malahide, ruinele Strand Mill oferă o privire fascinantă asupra istoriei locale. Deși nu este o plajă tradițională de scăldat, acest loc pe malul apei prezintă o atmosferă liniștită, contemplativă, perfectă pentru plimbări relaxante și fotografie. Interacțiunea dintre piatra antică și mareea ritmică creează un cadru incontestabil de romantic. Combinarea unei vizite aici cu o plimbare mai lungă de-a lungul țărmurilor adiacente asigură o după-amiază minunat de bogată.", "category": "historical", "coords": [-6.141286, 53.417976]}, {"name": "Anchor", "text": "Anchor este un monument local situat în Malahide.", "category": "historical", "coords": [-6.154229, 53.455682]}, {"name": "Church (in ruins)", "text": "Church (in ruins) reprezintă rămășițele structurale ale unei biserici din Malahide.", "category": "historical", "coords": [-6.168584, 53.424558]}, {"name": "Saint Sylvester's Well", "text": "O fântână istorică și o atracție locală în Malahide.", "category": "landmark", "coords": [-6.155119, 53.451147]}, {"name": "Church", "text": "Ruinele unei biserici istorice din Malahide.", "category": "historical", "coords": [-6.129177, 53.439846]}, {"name": "Balcarrick Martello Tower", "text": "Un turn Martello istoric situat pe coasta din Malahide.", "category": "landmark", "coords": [-6.115377, 53.478324]}, {"name": "Portmarnock Martello Tower", "text": "Un turn Martello istoric situat în apropiere de Malahide.", "category": "landmark", "coords": [-6.122332, 53.435944]}], "en": [{"name": "Casino Model Railway Museum", "text": "The Casino Model Railway Museum in Malahide is housed in a restored historic building and features intricate model train displays.", "category": "museum", "coords": [-6.158326, 53.450634]}, {"name": "Blast Windsurfing and Windfoiling", "text": "Blast Windsurfing and Windfoiling is a water sports facility located in Malahide.", "category": "family", "coords": [-6.175549, 53.469082]}, {"name": "Donabate Beach", "text": "Donabate Beach offers a magnificent stretch of golden sand beautifully situated close to Malahide. It buzzes with a joyful, family-friendly energy where children build elaborate sandcastles and adults enjoy invigorating walks along the tideline. The clear views stretching over the horizon make every seaside stroll a memorable visual treat. Since parking can fill up rapidly on bright sunny weekends, planning an early arrival is strongly advised.", "category": "recreational", "coords": [-6.128484, 53.465298]}, {"name": "Portmarnock Beach", "text": "Seamlessly blending into the Malahide landscape, Portmarnock Beach is revered for its picturesque and seemingly endless sandy shores. The expansive coast is wonderfully accommodating to lively family outings, eager joggers, and those who simply wish to relax by the gently lapping waves. Its wide-open skies and soft sands provide the ultimate canvas for a restorative outdoor escape. Taking a leisurely stroll here as the sun dips lower in the sky reveals truly spectacular maritime colors.", "category": "recreational", "coords": [-6.117569, 53.415877]}, {"name": "Corballis Nudist Beach", "text": "Tucked comfortably among the dunes near Malahide, Corballis serves as a designated, clothing-optional retreat along the coast. The environment here is profoundly quiet and respectful, catering perfectly to those who wish to experience the sea and sun in a liberated, natural way. Gentle waves and soft sand provide an inviting setting for unapologetic relaxation away from the bustling crowds. As it is a naturally formed shoreline, bringing comfortable sandals for the walk over the dunes will make your arrival much smoother.", "category": "recreational", "coords": [-6.128338, 53.460255]}, {"name": "Lanestown Castle", "text": "Lanestown Castle is a historic castle structure located in Malahide.", "category": "castle", "coords": [-6.178117, 53.483066]}, {"name": "The Butterfly House", "text": "The Butterfly House is a zoological attraction in Malahide.", "category": "family", "coords": [-6.161823, 53.444977]}, {"name": "Malahide Historical Society Museum", "text": "Malahide Historical Society Museum is a local museum exhibiting the history of Malahide.", "category": "museum", "coords": [-6.162851, 53.444716]}, {"name": "Newbridge House and Demesne", "text": "Newbridge House and Demesne is an attraction in Malahide featuring a historic Georgian mansion and estate.", "category": "landmark", "coords": [-6.167485, 53.485652]}, {"name": "The Southern Cross Monument", "text": "The Southern Cross Monument is a notable monument situated in Malahide.", "category": "historical", "coords": [-6.124518, 53.432156]}, {"name": "High Rock", "text": "High Rock is a scenic viewpoint offering coastal views in Malahide.", "category": "natural", "coords": [-6.122128, 53.441468]}, {"name": "Strand Mill Ruins", "text": "Standing proudly against the scenic coastal backdrop of Malahide, the Strand Mill Ruins offer a fascinating glimpse into local history. While not a traditional bathing beach, this waterfront spot presents a quiet, contemplative atmosphere perfect for leisurely walks and photography. The interplay of ancient stone against the rhythmic tide creates an undeniably romantic setting. Combining a visit here with a longer stroll along the adjacent shores makes for a wonderfully rich afternoon.", "category": "historical", "coords": [-6.141286, 53.417976]}, {"name": "Anchor", "text": "Anchor is a local monument situated in Malahide.", "category": "historical", "coords": [-6.154229, 53.455682]}, {"name": "Church (in ruins)", "text": "Church (in ruins) represents the structural remains of a church in Malahide.", "category": "historical", "coords": [-6.168584, 53.424558]}, {"name": "Saint Sylvester's Well", "text": "A historic well and local attraction located in Malahide.", "category": "landmark", "coords": [-6.155119, 53.451147]}, {"name": "Church", "text": "The ruins of a historic church located in Malahide.", "category": "historical", "coords": [-6.129177, 53.439846]}, {"name": "Balcarrick Martello Tower", "text": "A historic Martello tower located on the coast of Malahide.", "category": "landmark", "coords": [-6.115377, 53.478324]}, {"name": "Portmarnock Martello Tower", "text": "A historic Martello tower located near Malahide.", "category": "landmark", "coords": [-6.122332, 53.435944]}]},
+    id: "ireland-malahide-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "Ein Modellbahnmuseum in einer historischen Villa am Meer in Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Windsurfing- und Foiling-Schule am Malahide Beach.",
+                  "category": "family",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "Donabate Beach ist ein langer Sandstrand mit Dünen und Blick auf Lambay Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Der Portmarnock Beach fügt sich nahtlos in die Landschaft von Malahide ein und wird für sein malerisches und schier endloses Sandufer bewundert. Die weite Küste bietet herrlichen Raum für lebhafte Familienausflüge, enthusiastische Jogger und all jene, die einfach an den sanft plätschernden Wellen entspannen möchten. Die weite Himmelssicht und der weiche Sand bilden die perfekte Leinwand für eine erholsame Auszeit in der Natur. Ein gemütlicher Spaziergang hier, während die Sonne tiefer sinkt, offenbart wahrhaft spektakuläre maritime Farben.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "Corballis Nudist Beach ist ein ausgewiesener FKK-Strand auf der Donabate-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "Eine mittelalterliche Burg mit 260 Hektar Parkland in Malahide.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "Tropisches Schmetterlingshaus in den Gärten von Malahide Castle.",
+                  "category": "family",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Heimatmuseum im alten Malahide Dispensary-Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "Newbridge House and Demesne ist eine Attraktion in Malahide, die ein historisches georgianisches Herrenhaus und ein Anwesen umfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "Steindenkmal zur Erinnerung an den Southern Cross Flug in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "High Rock ist eine markante Kalksteinfelsformation über dem Malahide Estuary.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "Stolz vor der malerischen Küstenkulisse von Malahide stehend, bieten die Strand Mill Ruins einen faszinierenden Einblick in die lokale Geschichte. Obwohl es kein traditioneller Badestrand ist, bietet dieser Ort am Wasser eine ruhige, nachdenkliche Atmosphäre, die sich perfekt für gemütliche Spaziergänge und Fotografie eignet. Das Zusammenspiel von altem Gestein und den rhythmischen Gezeiten schafft eine unbestreitbar romantische Umgebung. Einen Besuch hier mit einem längeren Spaziergang an den angrenzenden Ufern zu verbinden, sorgt für einen wunderbar abwechslungsreichen Nachmittag.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Großer Schiffsankermonument an der Malahide Seepromenade.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "Church (in ruins) stellt die baulichen Überreste einer Kirche in Malahide dar.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "Mittelalterlicher heiliger Brunnen, dem Heiligen Sylvester gewidmet, in Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Kirche der Church of Ireland aus dem 19. Jahrhundert an der Hauptstraße von Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "Ein historischer Martello-Turm an der Küste von Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "Martello-Turm aus dem frühen 19. Jahrhundert am Portmarnock Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "Modellvasút-múzeum egy történelmi tengerparti villában Malahide-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Szörf- és foiliskola a Malahide-i strandon.",
+                  "category": "family",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "A Donabate Beach egy hosszú homokos tengerpart homokdűnékkel és a Lambay-szigetre nyíló kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "A Malahide tájába zökkenőmentesen belesimuló Portmarnock Beach festői és látszólag végtelen homokos partjairól híres. A kiterjedt tengerpart csodálatosan alkalmas élénk családi kirándulásokra, lelkes kocogóknak és azoknak, akik egyszerűen csak pihenni szeretnének a lágyan nyaldosó hullámok mellett. A tágas, nyílt égbolt és a puha homok a tökéletes vásznat nyújtja egy helyreállító szabadtéri meneküléshez. Egy kényelmes séta ezen a helyen, ahogy a nap egyre lejjebb süllyed az égen, igazán látványos tengeri színeket tár elénk.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "A Corballis Nudist Beach egy kijelölt nudista strand a Donabate-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "Középkori vár 260 hektáros parkkal Malahide-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "Trópusi lepkeház a Malahide Castle kertjeiben.",
+                  "category": "family",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Helytörténeti múzeum a régi malahide-i rendelő épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "A Newbridge House and Demesne egy látványosság Malahide-ban, amely egy történelmi György-korabeli kúriát és birtokot foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "Kőemlékmű a Southern Cross járat emlékére Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "A High Rock egy feltűnő mészkő sziklaformáció a Malahide torkolat fölött.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "A Malahide festői tengerparti háttere előtt büszkén álló Strand Mill romjai lenyűgöző bepillantást engednek a helyi történelembe. Bár nem hagyományos fürdőhely, ez a vízparti pont csendes, elmélkedő légkört kínál, amely tökéletes a kényelmes sétákhoz és a fotózáshoz. Az ősi kövek és a ritmikus árapály játéka tagadhatatlanul romantikus környezetet teremt. Ha az itteni látogatást összekötjük egy hosszabb sétával a szomszédos partok mentén, egy csodálatosan tartalmas délutánban lehet részünk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Nagy hajóhorgony emlékmű a malahide-i tengerparton.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "A Church (in ruins) egy templom szerkezeti maradványait jelképezi Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "Középkori szent kút Szent Szilveszter tiszteletére Malahide-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "19. századi Ír Egyház temploma Malahide főutcáján.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "Egy történelmi Martello-torony Malahide partvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "19. század eleji Martello-torony a portmarnock-i strandon.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "Un muzeu de trenuri model într-o vilă istorică de pe litoral în Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Școală de windsurfing și foil pe plaja Malahide.",
+                  "category": "family",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "Plaja Donabate este o plajă lungă nisipoasă cu dune și vedere spre Insula Lambay.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Integrându-se perfect în peisajul din Malahide, Portmarnock Beach este venerată pentru țărmurile sale nisipoase pitorești și aparent nesfârșite. Coasta expansivă este minunat de primitoare pentru ieșirile pline de viață în familie, pentru iubitorii de jogging entuziaști și pentru cei care doresc pur și simplu să se relaxeze lângă valurile care se lovesc ușor. Cerul său larg deschis și nisipurile moi oferă pânza supremă pentru o evadare restaurativă în aer liber. Făcând o plimbare relaxantă aici, pe măsură ce soarele coboară pe cer, dezvăluie culori maritime cu adevărat spectaculoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "Plaja Nudistă Corballis este o plajă desemnată pentru nudism pe peninsula Donabate.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "Un castel medieval cu 260 de acri de parc în Malahide.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "Casă tropicală cu fluturi în grădinile castelului Malahide.",
+                  "category": "family",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Muzeu de istorie locală în vechea clădire a dispensarului din Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "Newbridge House and Demesne este o atracție din Malahide, cu un conac georgian istoric și un domeniu.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "Monument de piatră care comemorează zborul Southern Cross în Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "High Rock este o formațiune proeminentă de calcar deasupra estuarului Malahide.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "Stând cu mândrie pe fundalul pitoresc de coastă din Malahide, ruinele Strand Mill oferă o privire fascinantă asupra istoriei locale. Deși nu este o plajă tradițională de scăldat, acest loc pe malul apei prezintă o atmosferă liniștită, contemplativă, perfectă pentru plimbări relaxante și fotografie. Interacțiunea dintre piatra antică și mareea ritmică creează un cadru incontestabil de romantic. Combinarea unei vizite aici cu o plimbare mai lungă de-a lungul țărmurilor adiacente asigură o după-amiază minunat de bogată.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Monument de ancoră mare de navă pe faleza din Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "Church (in ruins) reprezintă rămășițele structurale ale unei biserici din Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "Fântână sfântă medievală dedicată Sfântului Sylvester în Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Biserică a Bisericii Irlandei din secolul al XIX-lea pe strada principală din Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "Un turn Martello istoric situat pe coasta din Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "Turn Martello de la începutul secolului al XIX-lea pe plaja Portmarnock.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "A model railway museum set in a historic seaside villa in Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Windsurfing and foiling school on Malahide Beach.",
+                  "category": "family",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "Donabate Beach is a long sandy beach with dunes and views of Lambay Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Seamlessly blending into the Malahide landscape, Portmarnock Beach is revered for its picturesque and seemingly endless sandy shores. The expansive coast is wonderfully accommodating to lively family outings, eager joggers, and those who simply wish to relax by the gently lapping waves. Its wide-open skies and soft sands provide the ultimate canvas for a restorative outdoor escape. Taking a leisurely stroll here as the sun dips lower in the sky reveals truly spectacular maritime colors.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "Corballis Nudist Beach is a designated clothing-optional beach on the Donabate peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "A medieval castle surrounded by 260 acres of parkland in Malahide.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "Tropical butterfly house in Malahide Castle gardens.",
+                  "category": "family",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Local history museum in the old Malahide dispensary building.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "Newbridge House and Demesne is an attraction in Malahide featuring a historic Georgian mansion and estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "Stone monument commemorating the Southern Cross flight in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "High Rock is a prominent limestone rock formation above Malahide Estuary.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "Standing proudly against the scenic coastal backdrop of Malahide, the Strand Mill Ruins offer a fascinating glimpse into local history. While not a traditional bathing beach, this waterfront spot presents a quiet, contemplative atmosphere perfect for leisurely walks and photography. The interplay of ancient stone against the rhythmic tide creates an undeniably romantic setting. Combining a visit here with a longer stroll along the adjacent shores makes for a wonderfully rich afternoon.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Large ship's anchor monument on Malahide seafront.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "Church (in ruins) represents the structural remains of a church in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "Medieval holy well dedicated to St. Sylvester in Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "19th-century Church of Ireland church on Malahide's main street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "A historic Martello tower located on the coast of Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "Early 19th-century Martello tower on Portmarnock beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Malahide", hu: "Malahide", ro: "Malahide", en: "Malahide" },
@@ -9246,7 +11874,1132 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-maynooth-cities-v2.webp",
   },
   {
-    id: "ireland-monkstown-cities-v2", "sights": {"de": [{"name": "Dun Laoghaire East Lighthouse", "text": "Ein Leuchtturm an der Ostmole von Dun Laoghaire.", "category": "landmark", "coords": [-6.127055, 53.302425]}, {"name": "Dun Laoghaire West Lighthouse", "text": "Ein Leuchtturm an der Westmole von Dun Laoghaire.", "category": "landmark", "coords": [-6.130866, 53.303248]}, {"name": "National Maritime Museum of Ireland", "text": "Das Museum präsentiert die Seefahrtsgeschichte Irlands in einer ehemaligen Kirche.", "category": "museum", "coords": [-6.131741, 53.292145]}, {"name": "Lambert Puppet Theatre", "text": "Ein bekanntes Puppentheater in Monkstown.", "category": "cultural", "coords": [-6.154733, 53.294562]}, {"name": "Archbold's Castle", "text": "Eine mittelalterliche Turmburg in Monkstown.", "category": "castle", "coords": [-6.106433, 53.277912]}, {"name": "Monkstown Castle", "text": "Eine historische Burgruine in Monkstown.", "category": "castle", "coords": [-6.150511, 53.288995]}, {"name": "Pavilion Theatre", "text": "Ein lokales Theater für kulturelle Veranstaltungen in Monkstown.", "category": "cultural", "coords": [-6.133892, 53.29392]}, {"name": "Harbour Splash", "text": "Ein aufblasbarer Wasserpark im Hafen von Dun Laoghaire.", "category": "family", "coords": [-6.14342, 53.296982]}, {"name": "Sandycove Beach", "text": "Als entzückendes Sandfleckchen nahe Dun Laoghaire dient der Sandycove Beach in Monkstown als charmanter maritimer Zufluchtsort. Die Atmosphäre ist hier meist geschäftig und fröhlich, was besonders mutige lokale Schwimmer und sonnenhungrige Familien anzieht, die einen warmen Tag optimal nutzen möchten. Die geschützte Lage der Bucht macht sie für ein erfrischendes Bad in den kühlen irischen Gewässern ungemein attraktiv. Die Suche nach Straßenparkplätzen kann zu Stoßzeiten knifflig sein, weshalb es eine gute Strategie ist, auf öffentliche Verkehrsmittel auszuweichen oder frühzeitig anzukommen.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "Roche's Hill", "text": "Ein Naturschutzgebiet mit Wanderwegen und Aussichtspunkten.", "category": "natural", "coords": [-6.121487, 53.264937]}, {"name": "Seapoint", "text": "Ein bekannter Badeort mit Strand und Martello-Turm.", "category": "recreational", "coords": [-6.158681, 53.297211]}, {"name": "People's Park", "text": "Ein viktorianischer Park mit Gärten und einem wöchentlichen Markt.", "category": "park", "coords": [-6.128397, 53.290032]}, {"name": "Blackrock Baths (closed)", "text": "Die Überreste einer einst beliebten öffentlichen Badeanstalt.", "category": "historical", "coords": [-6.178559, 53.303166]}, {"name": "Forty Foot", "text": "Ein berühmter historischer Badeplatz im Meer bei Sandycove.", "category": "landmark", "coords": [-6.113699, 53.289486]}, {"name": "Geographic Pointer", "text": "Ein Aussichtspunkt, der Richtungen zu geografischen Merkmalen anzeigt.", "category": "natural", "coords": [-6.12847, 53.293855]}, {"name": "King George IV Monument", "text": "Ein Denkmal zur Erinnerung an den Besuch von König Georg IV.", "category": "historical", "coords": [-6.1318, 53.293815]}, {"name": "Crimean War cannon", "text": "Eine historische Kanone aus dem Krimkrieg.", "category": "historical", "coords": [-6.129449, 53.292933]}, {"name": "1916 Monument", "text": "Ein Denkmal zum Gedenken an den Osteraufstand von 1916.", "category": "historical", "coords": [-6.165958, 53.281784]}, {"name": "Blackrock Fine Art", "text": "Eine Kunstgalerie in Blackrock, die zeitgenössische Werke zeigt.", "category": "museum", "coords": [-6.178332, 53.300541]}, {"name": "IADT Sign", "text": "Ein markantes Schild des Institute of Art, Design and Technology.", "category": "historical", "coords": [-6.15382, 53.281357]}, {"name": "Republican Plot", "text": "Ein Denkmal auf einem Friedhof zur Erinnerung an irische Republikaner.", "category": "historical", "coords": [-6.16783, 53.280319]}, {"name": "Thomas Joseph Smith (Sudocrem)", "text": "Gedenktafel oder Stätte zu Ehren des Erfinders von Sudocrem.", "category": "landmark", "coords": [-6.170054, 53.281343]}, {"name": "Sean Lemass", "text": "Ein Gedenkort für den ehemaligen irischen Premierminister Sean Lemass.", "category": "landmark", "coords": [-6.16923, 53.282305]}, {"name": "John A. Costelloe", "text": "Ein Gedenkort für den ehemaligen irischen Premierminister John A. Costello.", "category": "landmark", "coords": [-6.167962, 53.282762]}, {"name": "Cultúrlann na hÉireann", "text": "Ein Zentrum für traditionelle irische Musik und Kultur.", "category": "cultural", "coords": [-6.162232, 53.295372]}, {"name": "Stillorgan Obelisk", "text": "Ein markanter Obelisk in Stillorgan, der als Denkmal dient.", "category": "historical", "coords": [-6.181309, 53.286624]}, {"name": "The Oratory", "text": "Eine kleine Kapelle mit kunstvollen keltischen Verzierungen.", "category": "landmark", "coords": [-6.139952, 53.292526]}, {"name": "Kill o' the Grange", "text": "Eine historische religiöse Stätte und ehemalige Pfarrei.", "category": "religious", "coords": [-6.162455, 53.27865]}, {"name": "St John the Baptist Church", "text": "Eine markante katholische Kirche im Viertel Blackrock.", "category": "religious", "coords": [-6.175005, 53.300137]}, {"name": "Grange Church (ruins)", "text": "Die Überreste einer alten mittelalterlichen Kirche.", "category": "religious", "coords": [-6.16099, 53.281368]}, {"name": "Martello Tower No.14 - Seapoint", "text": "Ein gut erhaltener Martello-Turm an der Küste von Seapoint.", "category": "landmark", "coords": [-6.159849, 53.297855]}], "hu": [{"name": "Dun Laoghaire East Lighthouse", "text": "Világítótorony Dun Laoghaire keleti mólójánál.", "category": "landmark", "coords": [-6.127055, 53.302425]}, {"name": "Dun Laoghaire West Lighthouse", "text": "Világítótorony Dun Laoghaire nyugati mólójánál.", "category": "landmark", "coords": [-6.130866, 53.303248]}, {"name": "National Maritime Museum of Ireland", "text": "Írország tengerészeti történelmét bemutató múzeum egy egykori templomban.", "category": "museum", "coords": [-6.131741, 53.292145]}, {"name": "Lambert Puppet Theatre", "text": "Ismert bábszínház Monkstownban.", "category": "cultural", "coords": [-6.154733, 53.294562]}, {"name": "Archbold's Castle", "text": "Középkori toronyvár Monkstownban.", "category": "castle", "coords": [-6.106433, 53.277912]}, {"name": "Monkstown Castle", "text": "Történelmi várrom Monkstownban.", "category": "castle", "coords": [-6.150511, 53.288995]}, {"name": "Pavilion Theatre", "text": "Helyi színház kulturális események számára Monkstownban.", "category": "cultural", "coords": [-6.133892, 53.29392]}, {"name": "Harbour Splash", "text": "Felfújható vízipark Dun Laoghaire kikötőjében.", "category": "family", "coords": [-6.14342, 53.296982]}, {"name": "Sandycove Beach", "text": "A Dun Laoghaire közelében található elbűvölő homokos kis Sandycove Beach varázslatos tengeri menedékként szolgál Monkstownban. A légkör általában nyüzsgő és vidám, erősen vonzza a bátor helyi úszókat és a napozni vágyó családokat, akik szeretnének maximálisan kihasználni egy meleg napot. Az öböl védett jellege rendkívül vonzóvá teszi egy frissítő mártózáshoz a hűvös ír vizekben. Csúcsidőben nehéz lehet az utcán parkolóhelyet találni, ezért a helyi közlekedésre támaszkodni, vagy korán érkezni mindig jó stratégia.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "Roche's Hill", "text": "Természetvédelmi terület sétautakkal és kilátópontokkal.", "category": "natural", "coords": [-6.121487, 53.264937]}, {"name": "Seapoint", "text": "Ismert fürdőhely stranddal és Martello-toronnyal.", "category": "recreational", "coords": [-6.158681, 53.297211]}, {"name": "People's Park", "text": "Viktoriánus park kertekkel és heti piaccal.", "category": "park", "coords": [-6.128397, 53.290032]}, {"name": "Blackrock Baths (closed)", "text": "Egy egykor népszerű nyilvános fürdő maradványai.", "category": "historical", "coords": [-6.178559, 53.303166]}, {"name": "Forty Foot", "text": "Híres történelmi tengeri fürdőhely Sandycove-nál.", "category": "landmark", "coords": [-6.113699, 53.289486]}, {"name": "Geographic Pointer", "text": "Kilátópont, amely földrajzi nevezetességek irányát mutatja.", "category": "natural", "coords": [-6.12847, 53.293855]}, {"name": "King George IV Monument", "text": "IV. György király látogatásának emlékére állított emlékmű.", "category": "historical", "coords": [-6.1318, 53.293815]}, {"name": "Crimean War cannon", "text": "Történelmi ágyú a krími háborúból.", "category": "historical", "coords": [-6.129449, 53.292933]}, {"name": "1916 Monument", "text": "Az 1916-os húsvéti felkelés emlékére állított emlékmű.", "category": "historical", "coords": [-6.165958, 53.281784]}, {"name": "Blackrock Fine Art", "text": "Kortárs műveket bemutató művészeti galéria Blackrockban.", "category": "museum", "coords": [-6.178332, 53.300541]}, {"name": "IADT Sign", "text": "Az IADT (művészeti és technológiai intézet) jellegzetes felirata.", "category": "historical", "coords": [-6.15382, 53.281357]}, {"name": "Republican Plot", "text": "Ír republikánusok emlékére állított emlékmű egy temetőben.", "category": "historical", "coords": [-6.16783, 53.280319]}, {"name": "Thomas Joseph Smith (Sudocrem)", "text": "A Sudocrem feltalálójának tiszteletére állított emlékhely.", "category": "landmark", "coords": [-6.170054, 53.281343]}, {"name": "Sean Lemass", "text": "Sean Lemass egykori ír miniszterelnök emlékhelye.", "category": "landmark", "coords": [-6.16923, 53.282305]}, {"name": "John A. Costelloe", "text": "John A. Costello egykori ír miniszterelnök emlékhelye.", "category": "landmark", "coords": [-6.167962, 53.282762]}, {"name": "Cultúrlann na hÉireann", "text": "Hagyományos ír zenei és kulturális központ.", "category": "cultural", "coords": [-6.162232, 53.295372]}, {"name": "Stillorgan Obelisk", "text": "Jellegzetes obeliszk Stillorganban, amely emlékműként szolgál.", "category": "historical", "coords": [-6.181309, 53.286624]}, {"name": "The Oratory", "text": "Apró kápolna bonyolult kelta díszítésekkel.", "category": "landmark", "coords": [-6.139952, 53.292526]}, {"name": "Kill o' the Grange", "text": "Történelmi vallási helyszín és egykori egyházközség.", "category": "religious", "coords": [-6.162455, 53.27865]}, {"name": "St John the Baptist Church", "text": "Jellegzetes katolikus templom Blackrock negyedben.", "category": "religious", "coords": [-6.175005, 53.300137]}, {"name": "Grange Church (ruins)", "text": "Egy régi középkori templom maradványai.", "category": "religious", "coords": [-6.16099, 53.281368]}, {"name": "Martello Tower No.14 - Seapoint", "text": "Jó állapotban lévő Martello-torony Seapoint partjánál.", "category": "landmark", "coords": [-6.159849, 53.297855]}], "ro": [{"name": "Dun Laoghaire East Lighthouse", "text": "Un far situat pe digul de est din Dun Laoghaire.", "category": "landmark", "coords": [-6.127055, 53.302425]}, {"name": "Dun Laoghaire West Lighthouse", "text": "Un far situat pe digul de vest din Dun Laoghaire.", "category": "landmark", "coords": [-6.130866, 53.303248]}, {"name": "National Maritime Museum of Ireland", "text": "Muzeul prezintă istoria maritimă a Irlandei într-o fostă biserică.", "category": "museum", "coords": [-6.131741, 53.292145]}, {"name": "Lambert Puppet Theatre", "text": "Un teatru de păpuși cunoscut în Monkstown.", "category": "cultural", "coords": [-6.154733, 53.294562]}, {"name": "Archbold's Castle", "text": "Un castel medieval tip turn în Monkstown.", "category": "castle", "coords": [-6.106433, 53.277912]}, {"name": "Monkstown Castle", "text": "O ruină istorică de castel în Monkstown.", "category": "castle", "coords": [-6.150511, 53.288995]}, {"name": "Pavilion Theatre", "text": "Un teatru local pentru evenimente culturale în Monkstown.", "category": "cultural", "coords": [-6.133892, 53.29392]}, {"name": "Harbour Splash", "text": "Un parc acvatic gonflabil în portul Dun Laoghaire.", "category": "family", "coords": [-6.14342, 53.296982]}, {"name": "Sandycove Beach", "text": "Un petic încântător de nisip lângă Dun Laoghaire, Sandycove Beach servește ca o evadare maritimă fermecătoare în Monkstown. Atmosfera este în general plină de viață și veselă, atrăgând puternic înotătorii locali curajoși și familiile dornice de soare, care caută să maximizeze o zi caldă. Natura adăpostită a golfului îl face remarcabil de atrăgător pentru o baie revigorantă în apele vioaie irlandeze. Găsirea unei parcări pe stradă poate fi dificilă în perioadele de vârf, așadar bazarea pe transportul local sau sosirea devreme este întotdeauna o strategie bună.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "Roche's Hill", "text": "O rezervație naturală cu poteci și puncte de belvedere.", "category": "natural", "coords": [-6.121487, 53.264937]}, {"name": "Seapoint", "text": "O zonă de scăldat cunoscută, cu plajă și un turn Martello.", "category": "recreational", "coords": [-6.158681, 53.297211]}, {"name": "People's Park", "text": "Un parc victorian cu grădini și o piață săptămânală.", "category": "park", "coords": [-6.128397, 53.290032]}, {"name": "Blackrock Baths (closed)", "text": "Rămășițele unei foste băi publice populare.", "category": "historical", "coords": [-6.178559, 53.303166]}, {"name": "Forty Foot", "text": "Un loc istoric celebru pentru scăldat în mare la Sandycove.", "category": "landmark", "coords": [-6.113699, 53.289486]}, {"name": "Geographic Pointer", "text": "Un punct de belvedere care indică direcțiile către diverse repere geografice.", "category": "natural", "coords": [-6.12847, 53.293855]}, {"name": "King George IV Monument", "text": "Un monument ridicat în memoria vizitei regelui George al IV-lea.", "category": "historical", "coords": [-6.1318, 53.293815]}, {"name": "Crimean War cannon", "text": "Un tun istoric din timpul Războiului Crimeii.", "category": "historical", "coords": [-6.129449, 53.292933]}, {"name": "1916 Monument", "text": "Un monument comemorativ pentru Revolta de Paște din 1916.", "category": "historical", "coords": [-6.165958, 53.281784]}, {"name": "Blackrock Fine Art", "text": "O galerie de artă din Blackrock care expune lucrări contemporane.", "category": "museum", "coords": [-6.178332, 53.300541]}, {"name": "IADT Sign", "text": "O firmă proeminentă a Institutului de Artă, Design și Tehnologie.", "category": "historical", "coords": [-6.15382, 53.281357]}, {"name": "Republican Plot", "text": "Un monument situat într-un cimitir în memoria republicanilor irlandezi.", "category": "historical", "coords": [-6.16783, 53.280319]}, {"name": "Thomas Joseph Smith (Sudocrem)", "text": "Un loc memorial în onoarea inventatorului cremei Sudocrem.", "category": "landmark", "coords": [-6.170054, 53.281343]}, {"name": "Sean Lemass", "text": "Un loc memorial dedicat fostului premier irlandez Sean Lemass.", "category": "landmark", "coords": [-6.16923, 53.282305]}, {"name": "John A. Costelloe", "text": "Un loc memorial dedicat fostului premier irlandez John A. Costello.", "category": "landmark", "coords": [-6.167962, 53.282762]}, {"name": "Cultúrlann na hÉireann", "text": "Un centru pentru muzică și cultură tradițională irlandeză.", "category": "cultural", "coords": [-6.162232, 53.295372]}, {"name": "Stillorgan Obelisk", "text": "Un obelisc proeminent în Stillorgan care servește drept monument.", "category": "historical", "coords": [-6.181309, 53.286624]}, {"name": "The Oratory", "text": "O capelă mică cu decorațiuni celtice elaborate.", "category": "landmark", "coords": [-6.139952, 53.292526]}, {"name": "Kill o' the Grange", "text": "Un sit religios istoric și fostă parohie.", "category": "religious", "coords": [-6.162455, 53.27865]}, {"name": "St John the Baptist Church", "text": "O biserică catolică proeminentă în zona Blackrock.", "category": "religious", "coords": [-6.175005, 53.300137]}, {"name": "Grange Church (ruins)", "text": "Rămășițele unei vechi biserici medievale.", "category": "religious", "coords": [-6.16099, 53.281368]}, {"name": "Martello Tower No.14 - Seapoint", "text": "Un turn Martello bine conservat pe coasta din Seapoint.", "category": "landmark", "coords": [-6.159849, 53.297855]}], "en": [{"name": "Dun Laoghaire East Lighthouse", "text": "A lighthouse located on the east pier of Dun Laoghaire.", "category": "landmark", "coords": [-6.127055, 53.302425]}, {"name": "Dun Laoghaire West Lighthouse", "text": "A lighthouse located on the west pier of Dun Laoghaire.", "category": "landmark", "coords": [-6.130866, 53.303248]}, {"name": "National Maritime Museum of Ireland", "text": "This museum showcases Ireland's maritime history within a former church building.", "category": "museum", "coords": [-6.131741, 53.292145]}, {"name": "Lambert Puppet Theatre", "text": "A well-known puppet theatre located in Monkstown.", "category": "cultural", "coords": [-6.154733, 53.294562]}, {"name": "Archbold's Castle", "text": "A medieval tower house located in Monkstown.", "category": "castle", "coords": [-6.106433, 53.277912]}, {"name": "Monkstown Castle", "text": "A historic castle ruin located in Monkstown.", "category": "castle", "coords": [-6.150511, 53.288995]}, {"name": "Pavilion Theatre", "text": "A local theatre for cultural events in Monkstown.", "category": "cultural", "coords": [-6.133892, 53.29392]}, {"name": "Harbour Splash", "text": "An inflatable water park located in Dun Laoghaire Harbour.", "category": "family", "coords": [-6.14342, 53.296982]}, {"name": "Sandycove Beach", "text": "A delightful pocket of sand near Dun Laoghaire, Sandycove Beach serves as a charming maritime escape in Monkstown. The atmosphere is generally bustling and joyful, heavily drawing brave local swimmers and sun-seeking families looking to maximize a warm day. The sheltered nature of the cove makes it remarkably appealing for a refreshing dip in the brisk Irish waters. Finding street parking can be tricky during peak times, so relying on local transit or arriving early is always a good strategy.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "Roche's Hill", "text": "A nature reserve featuring walking paths and viewpoints.", "category": "natural", "coords": [-6.121487, 53.264937]}, {"name": "Seapoint", "text": "A well-known bathing area featuring a beach and a Martello tower.", "category": "recreational", "coords": [-6.158681, 53.297211]}, {"name": "People's Park", "text": "A Victorian park featuring landscaped gardens and a weekly market.", "category": "park", "coords": [-6.128397, 53.290032]}, {"name": "Blackrock Baths (closed)", "text": "The remains of a once-popular public sea swimming facility.", "category": "historical", "coords": [-6.178559, 53.303166]}, {"name": "Forty Foot", "text": "A famous historic deep-sea swimming spot at Sandycove.", "category": "landmark", "coords": [-6.113699, 53.289486]}, {"name": "Geographic Pointer", "text": "A viewpoint indicating directions to various geographical features.", "category": "natural", "coords": [-6.12847, 53.293855]}, {"name": "King George IV Monument", "text": "A monument commemorating the visit of King George IV.", "category": "historical", "coords": [-6.1318, 53.293815]}, {"name": "Crimean War cannon", "text": "A historic cannon from the Crimean War period.", "category": "historical", "coords": [-6.129449, 53.292933]}, {"name": "1916 Monument", "text": "A monument commemorating the Easter Rising of 1916.", "category": "historical", "coords": [-6.165958, 53.281784]}, {"name": "Blackrock Fine Art", "text": "An art gallery in Blackrock showcasing contemporary works.", "category": "museum", "coords": [-6.178332, 53.300541]}, {"name": "IADT Sign", "text": "A prominent sign for the Institute of Art, Design and Technology.", "category": "historical", "coords": [-6.15382, 53.281357]}, {"name": "Republican Plot", "text": "A memorial plot in a cemetery commemorating Irish Republicans.", "category": "historical", "coords": [-6.16783, 53.280319]}, {"name": "Thomas Joseph Smith (Sudocrem)", "text": "A memorial or site honoring the inventor of Sudocrem.", "category": "landmark", "coords": [-6.170054, 53.281343]}, {"name": "Sean Lemass", "text": "A memorial site for the former Irish Taoiseach Sean Lemass.", "category": "landmark", "coords": [-6.16923, 53.282305]}, {"name": "John A. Costelloe", "text": "A memorial site for the former Irish Taoiseach John A. Costello.", "category": "landmark", "coords": [-6.167962, 53.282762]}, {"name": "Cultúrlann na hÉireann", "text": "A centre for traditional Irish music and culture.", "category": "cultural", "coords": [-6.162232, 53.295372]}, {"name": "Stillorgan Obelisk", "text": "A prominent obelisk in Stillorgan serving as a monument.", "category": "historical", "coords": [-6.181309, 53.286624]}, {"name": "The Oratory", "text": "A small chapel featuring intricate Celtic-style decorations.", "category": "landmark", "coords": [-6.139952, 53.292526]}, {"name": "Kill o' the Grange", "text": "A historic religious site and former parish location.", "category": "religious", "coords": [-6.162455, 53.27865]}, {"name": "St John the Baptist Church", "text": "A prominent Catholic church located in the Blackrock area.", "category": "religious", "coords": [-6.175005, 53.300137]}, {"name": "Grange Church (ruins)", "text": "The remains of an ancient medieval church.", "category": "religious", "coords": [-6.16099, 53.281368]}, {"name": "Martello Tower No.14 - Seapoint", "text": "A well-preserved Martello tower on the Seapoint coast.", "category": "landmark", "coords": [-6.159849, 53.297855]}]},
+    id: "ireland-monkstown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "Einer der beiden Leuchttürme am Eingang zum Hafen von Dún Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "Das westliche Gegenstück des Leuchtturmpaares am Hafen von Dún Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "Das Museum präsentiert die Seefahrtsgeschichte Irlands in einer ehemaligen Kirche.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Das einzige Puppentheater Irlands in Monkstown, gegründet 1972.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "Eine mittelalterliche Turmburg in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "Eine historische Burgruine in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Viktorianisches Theater mit Theaterstücken und Konzerten in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "Ein aufblasbarer Wasserpark im Hafen von Dun Laoghaire.",
+                  "category": "family",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Als entzückendes Sandfleckchen nahe Dun Laoghaire dient der Sandycove Beach in Monkstown als charmanter maritimer Zufluchtsort. Die Atmosphäre ist hier meist geschäftig und fröhlich, was besonders mutige lokale Schwimmer und sonnenhungrige Familien anzieht, die einen warmen Tag optimal nutzen möchten. Die geschützte Lage der Bucht macht sie für ein erfrischendes Bad in den kühlen irischen Gewässern ungemein attraktiv. Die Suche nach Straßenparkplätzen kann zu Stoßzeiten knifflig sein, weshalb es eine gute Strategie ist, auf öffentliche Verkehrsmittel auszuweichen oder frühzeitig anzukommen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "Ein Naturschutzgebiet mit Wanderwegen und Aussichtspunkten.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "Ein bekannter Badeort mit Strand und Martello-Turm.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Ein viktorianischer Park mit Gärten und einem wöchentlichen Markt.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "Die Überreste einer einst beliebten öffentlichen Badeanstalt.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Historisches Badeplatz mit Sprungplattform am Forty Foot in Monkstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "Ein Aussichtspunkt, der Richtungen zu geografischen Merkmalen anzeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "Steinobelisk zur Erinnerung an den Besuch von König Georg IV. in Irland 1821, in Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "Krimkriegskanone von 1856 an der Monkstown Seepromenade.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Denkmal zum Gedenken an den Osteraufstand von 1916 in Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "Eine Kunstgalerie in Blackrock, die zeitgenössische Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "Ein markantes Schild des Institute of Art, Design and Technology.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "Ein Denkmal auf einem Friedhof zur Erinnerung an irische Republikaner.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "Gedenktafel für Thomas Smith, den Erfinder von Sudocrem, an seinem ehemaligen Wohnhaus in Monkstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "Ein Gedenkort für den ehemaligen irischen Premierminister Sean Lemass.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "Ein Gedenkort für den ehemaligen irischen Premierminister John A. Costello.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Irisches Sprach- und Kulturzentrum mit Kursen und Veranstaltungen in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Stillorgan Obelisk, Obelisk in Monkstown, entworfen von Sir Edward Lovett Pearce.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "Eine kleine Kapelle mit kunstvollen keltischen Verzierungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "Ruinen einer mittelalterlichen Kirche aus dem 13. Jahrhundert in Monkstown mit Friedhof.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "Die Pfarrkirche der Church of Ireland in Monkstown.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "Die Überreste einer alten mittelalterlichen Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "Der Martello-Turm Nr. 14 am Seapoint in Monkstown steht direkt an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "Az egyike a Dún Laoghaire kikötő bejáratánál álló két világítótoronynak.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "A Dún Laoghaire kikötőjénél lévő világítótoronypár nyugati tagja.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "Írország tengerészeti történelmét bemutató múzeum egy egykori templomban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Írország egyetlen bábszínháza Monkstownban, 1972-ben alapították.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "Középkori toronyvár Monkstownban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "Történelmi várrom Monkstownban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Viktoriánus színház színdarabokkal és koncertekkel Monkstownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "Felfújható vízipark Dun Laoghaire kikötőjében.",
+                  "category": "family",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "A Dun Laoghaire közelében található elbűvölő homokos kis Sandycove Beach varázslatos tengeri menedékként szolgál Monkstownban. A légkör általában nyüzsgő és vidám, erősen vonzza a bátor helyi úszókat és a napozni vágyó családokat, akik szeretnének maximálisan kihasználni egy meleg napot. Az öböl védett jellege rendkívül vonzóvá teszi egy frissítő mártózáshoz a hűvös ír vizekben. Csúcsidőben nehéz lehet az utcán parkolóhelyet találni, ezért a helyi közlekedésre támaszkodni, vagy korán érkezni mindig jó stratégia.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "Természetvédelmi terület sétautakkal és kilátópontokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "Ismert fürdőhely stranddal és Martello-toronnyal.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Viktoriánus park kertekkel és heti piaccal.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "Egy egykor népszerű nyilvános fürdő maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Történelmi fürdőhely ugródeszkával a Forty Footnál Monkstownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "Kilátópont, amely földrajzi nevezetességek irányát mutatja.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "Kőobeliszk, amely IV. György király 1821-es írországi látogatását idézi Monkstownban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "1856-os krími háborús ágyú a monkstown-i tengerparton.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Az 1916-os húsvéti felkelés emlékműve Monkstownban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "Kortárs műveket bemutató művészeti galéria Blackrockban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "Az IADT (művészeti és technológiai intézet) jellegzetes felirata.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "Ír republikánusok emlékére állított emlékmű egy temetőben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "Emléktábla Thomas Smithnek, a Sudocrem feltalálójának egykori monkstowni otthonánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "Sean Lemass egykori ír miniszterelnök emlékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "John A. Costello egykori ír miniszterelnök emlékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Ír nyelvi és kulturális központ tanfolyamokkal és eseményekkel Monkstownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Stillorgan obeliszk Monkstownban, Sir Edward Lovett Pearce tervezte.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "Apró kápolna bonyolult kelta díszítésekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "13. századi középkori templomrom Monkstownban temetővel.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "A Monkstown-i Church of Ireland plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "Egy régi középkori templom maradványai.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "A monkstowni Seapointban található 14-es Martello-torony közvetlenül a tengerparton áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "Unul dintre cele două faruri de la intrarea în portul Dún Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "Omologul vestic al perechii de faruri de la portul Dún Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "Muzeul prezintă istoria maritimă a Irlandei într-o fostă biserică.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Singurul teatru de păpuși din Irlanda, în Monkstown, fondat în 1972.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "Un castel medieval tip turn în Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "O ruină istorică de castel în Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Teatru victorian cu piese de teatru și concerte în Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "Un parc acvatic gonflabil în portul Dun Laoghaire.",
+                  "category": "family",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Un petic încântător de nisip lângă Dun Laoghaire, Sandycove Beach servește ca o evadare maritimă fermecătoare în Monkstown. Atmosfera este în general plină de viață și veselă, atrăgând puternic înotătorii locali curajoși și familiile dornice de soare, care caută să maximizeze o zi caldă. Natura adăpostită a golfului îl face remarcabil de atrăgător pentru o baie revigorantă în apele vioaie irlandeze. Găsirea unei parcări pe stradă poate fi dificilă în perioadele de vârf, așadar bazarea pe transportul local sau sosirea devreme este întotdeauna o strategie bună.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "O rezervație naturală cu poteci și puncte de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "O zonă de scăldat cunoscută, cu plajă și un turn Martello.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Un parc victorian cu grădini și o piață săptămânală.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "Rămășițele unei foste băi publice populare.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Loc istoric de scăldat cu platformă de sărituri la Forty Foot în Monkstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "Un punct de belvedere care indică direcțiile către diverse repere geografice.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "Obelisc de piatră care comemorează vizita regelui George al IV-lea în Irlanda în 1821, în Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "Tun din Războiul Crimeii din 1856 pe faleza din Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Monument care comemorează Răscoala de Paște din 1916 în Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "O galerie de artă din Blackrock care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "O firmă proeminentă a Institutului de Artă, Design și Tehnologie.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "Un monument situat într-un cimitir în memoria republicanilor irlandezi.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "Plașă comemorativă pentru Thomas Smith, inventatorul Sudocrem, la fosta sa casă din Monkstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "Un loc memorial dedicat fostului premier irlandez Sean Lemass.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "Un loc memorial dedicat fostului premier irlandez John A. Costello.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Centru de limbă și cultură irlandeză cu cursuri și evenimente în Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Obeliscul Stillorgan din Monkstown, proiectat de Sir Edward Lovett Pearce.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "O capelă mică cu decorațiuni celtice elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "Ruinele unei biserici medievale din secolul al XIII-lea în Monkstown, cu cimitir.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "Biserica parohială a Bisericii Irlandei din Monkstown.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "Rămășițele unei vechi biserici medievale.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "Turnul Martello nr. 14 de la Seapoint din Monkstown se află direct pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "One of the pair of lighthouses at the entrance to Dun Laoghaire harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "The western counterpart of the lighthouse pair at Dun Laoghaire harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "This museum showcases Ireland's maritime history within a former church building.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Ireland's only dedicated puppet theatre in Monkstown, founded in 1972.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "A medieval tower house located in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "A historic castle ruin located in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Victorian theatre hosting plays and concerts in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "An inflatable water park located in Dun Laoghaire Harbour.",
+                  "category": "family",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "A delightful pocket of sand near Dun Laoghaire, Sandycove Beach serves as a charming maritime escape in Monkstown. The atmosphere is generally bustling and joyful, heavily drawing brave local swimmers and sun-seeking families looking to maximize a warm day. The sheltered nature of the cove makes it remarkably appealing for a refreshing dip in the brisk Irish waters. Finding street parking can be tricky during peak times, so relying on local transit or arriving early is always a good strategy.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "A nature reserve featuring walking paths and viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "A well-known bathing area featuring a beach and a Martello tower.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "A Victorian park featuring landscaped gardens and a weekly market.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "The remains of a once-popular public sea swimming facility.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Historic bathing spot with diving platform at the Forty Foot in Monkstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "A viewpoint indicating directions to various geographical features.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "Stone obelisk commemorating King George IV's visit to Ireland in 1821, in Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "Crimean War cannon from 1856 on Monkstown seafront.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Monument commemorating the 1916 Easter Rising in Monkstown.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "An art gallery in Blackrock showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "A prominent sign for the Institute of Art, Design and Technology.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "A memorial plot in a cemetery commemorating Irish Republicans.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "Plaque to Thomas Smith, inventor of Sudocrem, at his former home in Monkstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "A memorial site for the former Irish Taoiseach Sean Lemass.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "A memorial site for the former Irish Taoiseach John A. Costello.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Irish language and cultural centre with classes and events in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Stillorgan Obelisk, obelisk in Monkstown, designed by Sir Edward Lovett Pearce.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "A small chapel featuring intricate Celtic-style decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "13th-century medieval church ruins in Monkstown with a graveyard.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "The Church of Ireland parish church in Monkstown.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "The remains of an ancient medieval church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "Martello Tower No.14 at Seapoint in Monkstown stands right on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Monkstown", hu: "Monkstown", ro: "Monkstown", en: "Monkstown" },
@@ -9592,7 +13345,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Tullahedy Castle",
-                  "text": "Eine historische Burgruine in der Nähe von Nenagh.",
+                  "text": "Tullahedy Castle ist eine verfallene Burg südöstlich von Nenagh.",
                   "category": "castle",
                   "coords": [
                         -8.230771,
@@ -9610,7 +13363,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathmartin",
-                  "text": "Eine archäologische Ausgrabungsstätte in Nenagh.",
+                  "text": "Rathmartin ist ein altes Ringfort (Rath) bei Nenagh mit sichtbaren Erdwällen.",
                   "category": "historical",
                   "coords": [
                         -8.177542,
@@ -9619,7 +13372,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lissatunny",
-                  "text": "Eine archäologische Stätte in der Umgebung von Nenagh.",
+                  "text": "Lissatunny ist ein gut erhaltenes Ringfort (Liss) in der Nähe von Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.173175,
@@ -9628,7 +13381,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnaleen Castle",
-                  "text": "Die Überreste einer historischen Turmburg.",
+                  "text": "Rathnaleen Castle bei Nenagh ist ein Tower House aus dem 15. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         -8.171988,
@@ -9637,7 +13390,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Barracks",
-                  "text": "Die Ruinen einer ehemaligen Militärkaserne in Nenagh.",
+                  "text": "Die Old Barracks in Nenagh waren einst das Militärquartier der Stadt.",
                   "category": "historical",
                   "coords": [
                         -8.194767,
@@ -9646,7 +13399,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Andersons Well",
-                  "text": "Historische Überreste eines alten Brunnens.",
+                  "text": "Andersons Well ist eine historische Quelle im Osten von Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.195275,
@@ -9655,7 +13408,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Franciscan Friary",
-                  "text": "Die Überreste eines mittelalterlichen Franziskanerklosters.",
+                  "text": "Das Franziskanerkloster in Nenagh stammt aus dem 13. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -8.196699,
@@ -9664,7 +13417,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Arts Centre",
-                  "text": "Ein lokaler Veranstaltungsort für Kunst und Theater in Nenagh.",
+                  "text": "Das Nenagh Arts Centre ist ein Kulturzentrum mit Galerie und Aufführungsräumen im Stadtzentrum.",
                   "category": "cultural",
                   "coords": [
                         -8.199433,
@@ -9673,7 +13426,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shannaclogh",
-                  "text": "Historische Ruinen in der Nähe von Nenagh.",
+                  "text": "Shannaclogh ist ein historisches Gelände mit möglichen Siedlungsresten nördlich von Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.234699,
@@ -9682,7 +13435,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Solsborough House",
-                  "text": "Die Ruinen einer ehemaligen Herrenhauses.",
+                  "text": "Solsborough House ist ein Herrenhaus aus dem 18. Jahrhundert in der Nähe von Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.230531,
@@ -9691,7 +13444,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Church",
-                  "text": "Die Ruinen einer alten Kirche in Nenagh.",
+                  "text": "Nenagh Church ist eine Kirche mit einem markanten Turm aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -8.196964,
@@ -9700,7 +13453,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisbunny Castle",
-                  "text": "Eine historische Burgruine in Lisbunny.",
+                  "text": "Lisbunny Castle ist ein Tower House in der Nähe von Nenagh, aus dem 15. oder 16. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -8.161844,
@@ -9709,7 +13462,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's of the Rosary",
-                  "text": "Ein bedeutendes religiöses Gebäude in Nenagh.",
+                  "text": "Eine römisch-katholische Kirche, die Unserer Lieben Frau vom Rosenkranz in Nena geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -8.198758,
@@ -9729,7 +13482,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Tullahedy Castle",
-                  "text": "Történelmi várrom Nenagh közelében.",
+                  "text": "A Tullahedy-kastély egy romos vár Nenaghtól délkeletre.",
                   "category": "castle",
                   "coords": [
                         -8.230771,
@@ -9747,7 +13500,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathmartin",
-                  "text": "Régészeti lelőhely Nenagh-ban.",
+                  "text": "Rathmartin egy ősi földvár (rath) Nenagh közelében, látható sáncokkal.",
                   "category": "historical",
                   "coords": [
                         -8.177542,
@@ -9756,7 +13509,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lissatunny",
-                  "text": "Régészeti lelőhely Nenagh környékén.",
+                  "text": "Lissatunny egy jól megőrzött földvár (liss) Nenagh közelében.",
                   "category": "historical",
                   "coords": [
                         -8.173175,
@@ -9765,7 +13518,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnaleen Castle",
-                  "text": "Egy történelmi toronyvár maradványai.",
+                  "text": "A Nenagh melletti Rathnaleen-kastély egy 15. századi toronyház.",
                   "category": "castle",
                   "coords": [
                         -8.171988,
@@ -9774,7 +13527,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Barracks",
-                  "text": "Egy egykori katonai laktanya romjai Nenagh-ban.",
+                  "text": "A Nenaghi régi laktanya egykor a város katonai szálláshelye volt.",
                   "category": "historical",
                   "coords": [
                         -8.194767,
@@ -9783,7 +13536,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Andersons Well",
-                  "text": "Egy régi kút történelmi maradványai.",
+                  "text": "Andersons Well egy történelmi forrás Nenagh keleti részén.",
                   "category": "historical",
                   "coords": [
                         -8.195275,
@@ -9792,7 +13545,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Franciscan Friary",
-                  "text": "Egy középkori ferences kolostor maradványai.",
+                  "text": "A Nenaghi ferences rendház a 13. századból származik.",
                   "category": "historical",
                   "coords": [
                         -8.196699,
@@ -9801,7 +13554,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Arts Centre",
-                  "text": "Helyi művészeti és színházi központ Nenagh-ban.",
+                  "text": "A Nenagh Arts Centre egy kulturális központ galériával és előadóterekkel a városközpontban.",
                   "category": "cultural",
                   "coords": [
                         -8.199433,
@@ -9810,7 +13563,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shannaclogh",
-                  "text": "Történelmi romok Nenagh közelében.",
+                  "text": "Shannaclogh egy történelmi terület lehetséges településmaradványokkal Nenaghtól északra.",
                   "category": "historical",
                   "coords": [
                         -8.234699,
@@ -9819,7 +13572,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Solsborough House",
-                  "text": "Egy egykori udvarház romjai.",
+                  "text": "A Solsborough House egy 18. századi kúria Nenagh közelében.",
                   "category": "historical",
                   "coords": [
                         -8.230531,
@@ -9828,7 +13581,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Church",
-                  "text": "Egy régi templom romjai Nenagh-ban.",
+                  "text": "A Nenagh Church egy 19. századi templom, jellegzetes toronnyal.",
                   "category": "historical",
                   "coords": [
                         -8.196964,
@@ -9837,7 +13590,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisbunny Castle",
-                  "text": "Történelmi várrom Lisbunnyban.",
+                  "text": "A Lisbunny-kastély egy 15–16. századi toronyház Nenagh közelében.",
                   "category": "historical",
                   "coords": [
                         -8.161844,
@@ -9846,7 +13599,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's of the Rosary",
-                  "text": "Jelentős vallási helyszín Nenagh városában.",
+                  "text": "Római katolikus templom Nenában, a Rózsafüzér Királynőjének szentelve.",
                   "category": "religious",
                   "coords": [
                         -8.198758,
@@ -9866,7 +13619,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Tullahedy Castle",
-                  "text": "O ruină istorică de castel lângă Nenagh.",
+                  "text": "Castelul Tullahedy este o ruină de castel la sud-est de Nenagh.",
                   "category": "castle",
                   "coords": [
                         -8.230771,
@@ -9884,7 +13637,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathmartin",
-                  "text": "Un sit arheologic în Nenagh.",
+                  "text": "Rathmartin este un fort circular antic (rath) lângă Nenagh, cu valuri de pământ vizibile.",
                   "category": "historical",
                   "coords": [
                         -8.177542,
@@ -9893,7 +13646,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lissatunny",
-                  "text": "Un sit arheologic în zona Nenagh.",
+                  "text": "Lissatunny este un fort circular bine păstrat (liss) lângă Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.173175,
@@ -9902,7 +13655,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnaleen Castle",
-                  "text": "Rămășițele unui castel istoric tip turn.",
+                  "text": "Castelul Rathnaleen de lângă Nenagh este un turn de locuit din secolul al XV-lea.",
                   "category": "castle",
                   "coords": [
                         -8.171988,
@@ -9911,7 +13664,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Barracks",
-                  "text": "Ruinele unei foste cazărmi militare în Nenagh.",
+                  "text": "Vechile Cazărmi din Nenagh au fost cândva cartierul militar al orașului.",
                   "category": "historical",
                   "coords": [
                         -8.194767,
@@ -9920,7 +13673,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Andersons Well",
-                  "text": "Rămășițele istorice ale unei fântâni vechi.",
+                  "text": "Andersons Well este un izvor istoric în estul orașului Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.195275,
@@ -9929,7 +13682,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Franciscan Friary",
-                  "text": "Rămășițele unei mănăstiri franciscane medievale.",
+                  "text": "Mănăstirea franciscană din Nenagh datează din secolul al XIII-lea.",
                   "category": "historical",
                   "coords": [
                         -8.196699,
@@ -9938,7 +13691,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Arts Centre",
-                  "text": "Un centru local pentru artă și teatru în Nenagh.",
+                  "text": "Centrul de Arte Nenagh este un centru cultural cu galerie și săli de spectacol în centrul orașului.",
                   "category": "cultural",
                   "coords": [
                         -8.199433,
@@ -9947,7 +13700,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shannaclogh",
-                  "text": "Ruine istorice în apropiere de Nenagh.",
+                  "text": "Shannaclogh este un sit istoric cu posibile vestigii de așezare la nord de Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.234699,
@@ -9956,7 +13709,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Solsborough House",
-                  "text": "Ruinele unui fost conac.",
+                  "text": "Solsborough House este un conac din secolul al XVIII-lea lângă Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.230531,
@@ -9965,7 +13718,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Church",
-                  "text": "Ruinele unei vechi biserici în Nenagh.",
+                  "text": "Biserica Nenagh este o biserică cu un turn distinctiv din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         -8.196964,
@@ -9974,7 +13727,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisbunny Castle",
-                  "text": "O ruină istorică de castel în Lisbunny.",
+                  "text": "Castelul Lisbunny este un turn de locuit din secolul al XV–XVI-lea lângă Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.161844,
@@ -9983,7 +13736,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's of the Rosary",
-                  "text": "Un important lăcaș de cult situat în Nenagh.",
+                  "text": "O biserică romano-catolică dedicată Maicii Domnului a Rozariului în Nena.",
                   "category": "religious",
                   "coords": [
                         -8.198758,
@@ -10003,7 +13756,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Tullahedy Castle",
-                  "text": "A historic castle ruin located near Nenagh.",
+                  "text": "Tullahedy Castle is a ruined castle southeast of Nenagh.",
                   "category": "castle",
                   "coords": [
                         -8.230771,
@@ -10021,7 +13774,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathmartin",
-                  "text": "An archaeological site located in Nenagh.",
+                  "text": "Rathmartin is an ancient ringfort (rath) near Nenagh with visible earthen banks.",
                   "category": "historical",
                   "coords": [
                         -8.177542,
@@ -10030,7 +13783,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lissatunny",
-                  "text": "An archaeological site located in the Nenagh area.",
+                  "text": "Lissatunny is a well-preserved ringfort (liss) near Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.173175,
@@ -10039,7 +13792,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathnaleen Castle",
-                  "text": "The remains of a historic tower house castle.",
+                  "text": "Rathnaleen Castle near Nenagh is a 15th-century tower house.",
                   "category": "castle",
                   "coords": [
                         -8.171988,
@@ -10048,7 +13801,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Old Barracks",
-                  "text": "The ruins of a former military barracks in Nenagh.",
+                  "text": "The Old Barracks in Nenagh once served as the town's military quarters.",
                   "category": "historical",
                   "coords": [
                         -8.194767,
@@ -10057,7 +13810,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Andersons Well",
-                  "text": "Historic remains of an old well.",
+                  "text": "Andersons Well is a historic spring in eastern Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.195275,
@@ -10066,7 +13819,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Franciscan Friary",
-                  "text": "The remains of a medieval Franciscan friary.",
+                  "text": "The Franciscan Friary in Nenagh dates from the 13th century.",
                   "category": "historical",
                   "coords": [
                         -8.196699,
@@ -10075,7 +13828,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Arts Centre",
-                  "text": "A local venue for arts and theatre in Nenagh.",
+                  "text": "Nenagh Arts Centre is a cultural hub with a gallery and performance spaces in the town centre.",
                   "category": "cultural",
                   "coords": [
                         -8.199433,
@@ -10084,7 +13837,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Shannaclogh",
-                  "text": "Historic ruins located near Nenagh.",
+                  "text": "Shannaclogh is a historic site with possible settlement remains north of Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.234699,
@@ -10093,7 +13846,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Solsborough House",
-                  "text": "The ruins of a former country house.",
+                  "text": "Solsborough House is an 18th-century manor house near Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.230531,
@@ -10102,7 +13855,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Nenagh Church",
-                  "text": "The ruins of an old church in Nenagh.",
+                  "text": "Nenagh Church is a 19th-century church with a prominent tower.",
                   "category": "historical",
                   "coords": [
                         -8.196964,
@@ -10111,7 +13864,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisbunny Castle",
-                  "text": "A historic castle ruin located in Lisbunny.",
+                  "text": "Lisbunny Castle is a 15th- or 16th-century tower house near Nenagh.",
                   "category": "historical",
                   "coords": [
                         -8.161844,
@@ -10120,7 +13873,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's of the Rosary",
-                  "text": "A prominent religious building located in Nenagh.",
+                  "text": "A Roman Catholic church dedicated to Our Lady of the Rosary in Nena.",
                   "category": "religious",
                   "coords": [
                         -8.198758,
@@ -10258,7 +14011,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill Stump",
-                  "text": "Die Überreste einer historischen Windmühle in Newtownards.",
+                  "text": "Der Windmill Stump in Newtownards ist der Überrest einer historischen Windmühle.",
                   "category": "historical",
                   "coords": [
                         -5.688735,
@@ -10312,7 +14065,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Column of BCDR Railway Bridge",
-                  "text": "Die baulichen Überreste einer Säule einer historischen Eisenbahnbrücke.",
+                  "text": "Die Säule der BCDR-Eisenbahnbrücke in Newtownards ist ein Relikt der ehemaligen Bahnlinie.",
                   "category": "historical",
                   "coords": [
                         -5.709433,
@@ -10458,7 +14211,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill Stump",
-                  "text": "Egy történelmi szélmalom maradványai Newtownards-ban.",
+                  "text": "A newtownards-i Windmill Stump egy történelmi szélmalom maradványa.",
                   "category": "historical",
                   "coords": [
                         -5.688735,
@@ -10512,7 +14265,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Column of BCDR Railway Bridge",
-                  "text": "Egy történelmi vasúti híd oszlopának maradványai.",
+                  "text": "A BCDR vasúti híd oszlopa Newtownardsban egykori vasútvonal maradványa.",
                   "category": "historical",
                   "coords": [
                         -5.709433,
@@ -10658,7 +14411,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill Stump",
-                  "text": "Rămășițele unei mori de vânt istorice situate în Newtownards.",
+                  "text": "Windmill Stump din Newtownards este rămășița unei mori de vânt istorice.",
                   "category": "historical",
                   "coords": [
                         -5.688735,
@@ -10712,7 +14465,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Column of BCDR Railway Bridge",
-                  "text": "Rămășițele structurale ale unei coloane de la un pod de cale ferată istoric.",
+                  "text": "Coloana podului feroviar BCDR din Newtownards este o relicvă a fostei linii de cale ferată.",
                   "category": "historical",
                   "coords": [
                         -5.709433,
@@ -10858,7 +14611,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill Stump",
-                  "text": "The remains of a historic windmill located in Newtownards.",
+                  "text": "Windmill Stump in Newtownards is the remnant of a historic windmill.",
                   "category": "historical",
                   "coords": [
                         -5.688735,
@@ -10912,7 +14665,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Column of BCDR Railway Bridge",
-                  "text": "The structural remains of a column from a historic railway bridge.",
+                  "text": "The column of the BCDR railway bridge in Newtownards is a relic of the former railway line.",
                   "category": "historical",
                   "coords": [
                         -5.709433,
@@ -11041,7 +14794,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Omagh Gaol",
-                  "text": "Die Ruinen des historischen Gefängnisses von Omagh.",
+                  "text": "Omagh Gaol ist ein ehemaliges Gefängnis aus dem 19. Jahrhundert in der Stadtmitte.",
                   "category": "historical",
                   "coords": [
                         -7.307227,
@@ -11070,7 +14823,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Omagh Gaol",
-                  "text": "Az egykori történelmi börtön romjai Omagh-ban.",
+                  "text": "Az Omagh-i börtön egy 19. századi egykori fegyház a városközpontban.",
                   "category": "historical",
                   "coords": [
                         -7.307227,
@@ -11099,7 +14852,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Omagh Gaol",
-                  "text": "Ruinele închisorii istorice din Omagh.",
+                  "text": "Omagh Gaol este o fostă închisoare din secolul al XIX-lea în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -7.307227,
@@ -11128,7 +14881,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Omagh Gaol",
-                  "text": "The ruins of the historic Omagh gaol.",
+                  "text": "Omagh Gaol is a former 19th-century prison in the town centre.",
                   "category": "historical",
                   "coords": [
                         -7.307227,
@@ -11316,7 +15069,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-rathkeale-cities-v2.webp",
   },
   {
-    id: "ireland-rosslare-cities-v2", "sights": {"de": [{"name": "Rosslare Strand Beach", "text": "Elegant am südöstlichen Rand Irlands geschwungen, ist der Rosslare Strand Beach ein bekannter und viel geliebter Küstenabschnitt. Er balanciert eine lebhafte, einladende Energie mit reichlich Platz und ist damit ein erstklassiger Ort für aktive Familienurlaube sowie lange, ungestörte Küstenwanderungen. Das makellose Sandufer lädt zu stundenlangem entspannten Sonnenbaden und Stand-Up-Paddling in den sanften Gezeiten ein. Ein herzhaftes Picknick am Meer einzupacken, rundet einen langen Tag voller Outdoor-Spaß perfekt ab.", "category": "recreational", "coords": [-6.3862, 52.288215]}], "hu": [{"name": "Rosslare Strand Beach", "text": "Az Írország délkeleti pereme mentén elegánsan elnyúló Rosslare Strand Beach egy híres és nagyon kedvelt partvidék. Az élénk, hívogató energiát bőséges térrel egyensúlyozza ki, így kiváló helyszín az aktív családi nyaralásokhoz és a hosszú, zavartalan tengerparti túrákhoz. Az érintetlen homokos part több órányi nyugodt napozásra és evezős deszkázásra csábít a szelíd árapályban. Egy kiadós tengerparti piknik csomagolása hibátlanul megkoronáz egy hosszú, szabadtéri szórakozással töltött napot.", "category": "recreational", "coords": [-6.3862, 52.288215]}], "ro": [{"name": "Rosslare Strand Beach", "text": "Întinzându-se elegant de-a lungul marginii de sud-est a Irlandei, Rosslare Strand Beach este o întindere de coastă renumită și mult iubită. Ea echilibrează o energie plină de viață și primitoare cu spațiu amplu, transformând-o într-o locație stelară pentru vacanțe active în familie și drumeții de coastă lungi, neîntrerupte. Țărmul cu nisip imaculat invită la ore întregi de plajă relaxată și paddleboarding în mareele blânde. Aducerea unui picnic maritim consistent va completa perfect o zi lungă de distracție în aer liber.", "category": "recreational", "coords": [-6.3862, 52.288215]}], "en": [{"name": "Rosslare Strand Beach", "text": "Sweeping elegantly along the southeastern edge of Ireland, Rosslare Strand Beach is a renowned and much-loved coastal stretch. It balances a lively, welcoming energy with ample space, making it a stellar location for active family holidays and long, uninterrupted coastal treks. The pristine sandy shore invites hours of relaxed sunbathing and paddle-boarding in the gentle tides. Packing a hearty seaside picnic will flawlessly round out a long day of outdoor fun.", "category": "recreational", "coords": [-6.3862, 52.288215]}]},
+    id: "ireland-rosslare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Heiliger Brunnen in Rosslare, dem Heiligen Braagh geweiht.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Szent kút Rosslare-ban, Szent Braaghnak szentelve.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Fântână sfântă în Rosslare, dedicată Sfântului Braagh.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Holy well in Rosslare, dedicated to Saint Braagh.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Rosslare", hu: "Rosslare", ro: "Rosslare", en: "Rosslare" },
@@ -11365,7 +15163,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Heritage Centre",
-                  "text": "Ein Museum in Skibbereen, das das Erbe und die lokale Geschichte der Stadt erkundet.",
+                  "text": "Das Skibbereen Heritage Centre erzählt die Geschichte der Großen Hungersnot und der Vergangenheit der Stadt.",
                   "category": "museum",
                   "coords": [
                         -9.272135,
@@ -11374,7 +15172,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolngrane Fairy Fort",
-                  "text": "Eine alte Erdfestung in der Gegend von Skibbereen, die mit der lokalen Folklore verbunden ist.",
+                  "text": "Coolngrane Fairy Fort ist ein eisenzeitlicher Ringwall nahe Skibbereen mit sichtbarem Wall und Graben.",
                   "category": "fortress",
                   "coords": [
                         -9.251565,
@@ -11383,7 +15181,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fairy Fort",
-                  "text": "Eine archäologische Stätte in Skibbereen, bestehend aus einem alten Ringfort.",
+                  "text": "Fairy Fort ist ein kreisförmiger Erdwall nahe Skibbereen, der als Feenwohnung gilt.",
                   "category": "historical",
                   "coords": [
                         -9.253518,
@@ -11410,7 +15208,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill",
-                  "text": "Die Ruinen einer traditionellen Windmühle in der Region Skibbereen.",
+                  "text": "Die Windmühle in Skibbereen ist ein steinerner Turm aus dem 19. Jahrhundert, der einst zum Mahlen von Getreide diente.",
                   "category": "historical",
                   "coords": [
                         -9.263035,
@@ -11419,7 +15217,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "West Cork Arts Centre",
-                  "text": "Ein Zentrum für zeitgenössische Kunst in Skibbereen mit Ausstellungen und Workshops.",
+                  "text": "Das West Cork Arts Centre in Skibbereen veranstaltet zeitgenössische Kunstausstellungen und Künstlerworkshops.",
                   "category": "cultural",
                   "coords": [
                         -9.267582,
@@ -11428,7 +15226,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Irish Sky Garden",
-                  "text": "Eine großformatige Landschaftskunstinstallation in der Nähe von Skibbereen.",
+                  "text": "Der Irish Sky Garden ist ein Landschaftsgarten im Liss Ard Estate mit einem Spiegelteich und Seeblick.",
                   "category": "landmark",
                   "coords": [
                         -9.254733,
@@ -11437,7 +15235,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Skibbereen Town Hall",
-                  "text": "Das historische Verwaltungsgebäude und Gemeinschaftszentrum von Skibbereen.",
+                  "text": "Steinernes Rathaus aus dem 19. Jahrhundert mit Uhrturm im Zentrum von Skibbereen.",
                   "category": "historical",
                   "coords": [
                         -9.265804,
@@ -11446,7 +15244,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Abbeystrewry Church of Ireland",
-                  "text": "Eine Gebetsstätte der Church of Ireland in Skibbereen.",
+                  "text": "Eine Kirche der Church of Ireland in der Townland Abbeystrewry bei Skibbereen.",
                   "category": "religious",
                   "coords": [
                         -9.270435,
@@ -11455,7 +15253,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Cathedral",
-                  "text": "Eine markante Kathedrale, die als Gebetsstätte in Skibbereen dient.",
+                  "text": "Römisch-katholische Kathedrale mit hohem Turmhelm aus dem 19. Jahrhundert, Sitz des Bistums Ross.",
                   "category": "religious",
                   "coords": [
                         -9.26373,
@@ -11466,7 +15264,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Heritage Centre",
-                  "text": "Skibbereen-i múzeum, amely a város örökségét és helytörténetét mutatja be.",
+                  "text": "A Skibbereen-i Örökségközpont a Nagy Éhínség és a város múltjának történetét meséli el.",
                   "category": "museum",
                   "coords": [
                         -9.272135,
@@ -11475,7 +15273,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolngrane Fairy Fort",
-                  "text": "Ősi földvár Skibbereen környékén, amely a helyi folklórhoz kapcsolódik.",
+                  "text": "A Coolngrane Fairy Fort egy vaskori földvár Skibbereen közelében, látható sánccal és árokkal.",
                   "category": "fortress",
                   "coords": [
                         -9.251565,
@@ -11484,7 +15282,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fairy Fort",
-                  "text": "Skibbereen-i régészeti lelőhely, amely egy ősi körsáncból áll.",
+                  "text": "A Fairy Fort egy kör alakú földvár Skibbereen közelében, amelyet tündérlakhelynek hisznek.",
                   "category": "historical",
                   "coords": [
                         -9.253518,
@@ -11511,7 +15309,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill",
-                  "text": "Egy hagyományos szélmalom romjai Skibbereen régiójában.",
+                  "text": "A Skibbereen-i szélmalom egy 19. századi kőtorony, amelyet egykor gabona őrlésére használtak.",
                   "category": "historical",
                   "coords": [
                         -9.263035,
@@ -11520,7 +15318,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "West Cork Arts Centre",
-                  "text": "Kortárs művészeti központ Skibbereenben, kiállításokkal és műhelyfoglalkozásokkal.",
+                  "text": "A Skibbereen-i West Cork Művészeti Központ kortárs művészeti kiállításoknak és művészworkshopoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -9.267582,
@@ -11529,7 +15327,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Irish Sky Garden",
-                  "text": "Nagyszabású tájművészeti alkotás Skibbereen közelében.",
+                  "text": "Az Irish Sky Garden egy tájépítészeti kert a Liss Ard birtokon, tükörtóval és tókilátással.",
                   "category": "landmark",
                   "coords": [
                         -9.254733,
@@ -11538,7 +15336,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Skibbereen Town Hall",
-                  "text": "Skibbereen történelmi közigazgatási épülete és közösségi központja.",
+                  "text": "19. századi kőből épült városháza óratoronnyal Skibbereen központjában.",
                   "category": "historical",
                   "coords": [
                         -9.265804,
@@ -11547,7 +15345,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Abbeystrewry Church of Ireland",
-                  "text": "Az ír egyház (Church of Ireland) temploma Skibbereenben.",
+                  "text": "A Church of Ireland temploma Abbeystrewry településrészen, Skibbereen közelében.",
                   "category": "religious",
                   "coords": [
                         -9.270435,
@@ -11556,7 +15354,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Cathedral",
-                  "text": "Jelentős katedrális és vallási helyszín Skibbereenben.",
+                  "text": "19. századi római katolikus székesegyház magas toronysisakkal, a Ross-i egyházmegye székhelye.",
                   "category": "religious",
                   "coords": [
                         -9.26373,
@@ -11567,7 +15365,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Heritage Centre",
-                  "text": "Un muzeu în Skibbereen care explorează moștenirea și istoria locală a orașului.",
+                  "text": "Centrul de patrimoniu Skibbereen relatează istoria Marii Foamete și a trecutului orașului.",
                   "category": "museum",
                   "coords": [
                         -9.272135,
@@ -11576,7 +15374,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolngrane Fairy Fort",
-                  "text": "Un vechi fort de pământ în zona Skibbereen, asociat cu folclorul local.",
+                  "text": "Coolngrane Fairy Fort este o fortăreață circulară din epoca fierului lângă Skibbereen, cu un val și șanț vizibile.",
                   "category": "fortress",
                   "coords": [
                         -9.251565,
@@ -11585,7 +15383,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fairy Fort",
-                  "text": "Un sit arheologic în Skibbereen, constând dintr-un vechi fort circular.",
+                  "text": "Fairy Fort este o fortăreață circulară de pământ lângă Skibbereen, considerată o locuință a zânelor.",
                   "category": "historical",
                   "coords": [
                         -9.253518,
@@ -11612,7 +15410,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill",
-                  "text": "Ruinele unei mori de vânt tradiționale în regiunea Skibbereen.",
+                  "text": "Moara de vânt din Skibbereen este un turn de piatră din secolul al XIX-lea, folosită odată pentru măcinarea cerealelor.",
                   "category": "historical",
                   "coords": [
                         -9.263035,
@@ -11621,7 +15419,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "West Cork Arts Centre",
-                  "text": "Un centru de artă contemporană în Skibbereen care oferă expoziții și workshop-uri.",
+                  "text": "Centrul de artă West Cork din Skibbereen găzduiește expoziții de artă contemporană și ateliere ale artiștilor.",
                   "category": "cultural",
                   "coords": [
                         -9.267582,
@@ -11630,7 +15428,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Irish Sky Garden",
-                  "text": "O instalație artistică peisagistică la scară largă situată lângă Skibbereen.",
+                  "text": "Grădina Cerului Irlandez este o grădină peisagistică la conacul Liss Ard, cu un iaz oglindă și vedere spre lac.",
                   "category": "landmark",
                   "coords": [
                         -9.254733,
@@ -11639,7 +15437,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Skibbereen Town Hall",
-                  "text": "Clădirea administrativă istorică și centrul comunitar din Skibbereen.",
+                  "text": "Primărie de piatră din secolul al XIX-lea cu turn cu ceas în centrul orașului Skibbereen.",
                   "category": "historical",
                   "coords": [
                         -9.265804,
@@ -11648,7 +15446,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Abbeystrewry Church of Ireland",
-                  "text": "Un lăcaș de cult al Bisericii Irlandei situat în Skibbereen.",
+                  "text": "O biserică a Bisericii Irlandei situată în townlandul Abbeystrewry, lângă Skibbereen.",
                   "category": "religious",
                   "coords": [
                         -9.270435,
@@ -11657,7 +15455,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Cathedral",
-                  "text": "O catedrală proeminentă care servește ca loc de cult în Skibbereen.",
+                  "text": "Catedrală romano-catolică din secolul al XIX-lea cu un turn înalt cu fleșă, sediul diecezei de Ross.",
                   "category": "religious",
                   "coords": [
                         -9.26373,
@@ -11668,7 +15466,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Heritage Centre",
-                  "text": "A museum in Skibbereen exploring the heritage and local history of the town.",
+                  "text": "Skibbereen Heritage Centre recounts the history of the Great Famine and the town's past.",
                   "category": "museum",
                   "coords": [
                         -9.272135,
@@ -11677,7 +15475,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Coolngrane Fairy Fort",
-                  "text": "An ancient earthen fort in the Skibbereen area associated with local folklore.",
+                  "text": "Coolngrane Fairy Fort is an Iron Age ringfort near Skibbereen with a visible bank and ditch.",
                   "category": "fortress",
                   "coords": [
                         -9.251565,
@@ -11686,7 +15484,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fairy Fort",
-                  "text": "An archaeological site in Skibbereen consisting of an ancient ringfort.",
+                  "text": "Fairy Fort is a circular earthen ringfort near Skibbereen, believed to be a fairy dwelling.",
                   "category": "historical",
                   "coords": [
                         -9.253518,
@@ -11713,7 +15511,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Windmill",
-                  "text": "The ruins of a traditional windmill in the Skibbereen region.",
+                  "text": "The Windmill in Skibbereen is a 19th-century stone tower mill, once used for grinding grain.",
                   "category": "historical",
                   "coords": [
                         -9.263035,
@@ -11722,7 +15520,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "West Cork Arts Centre",
-                  "text": "A contemporary arts centre in Skibbereen featuring exhibitions and workshops.",
+                  "text": "West Cork Arts Centre in Skibbereen hosts contemporary art exhibitions and artist workshops.",
                   "category": "cultural",
                   "coords": [
                         -9.267582,
@@ -11731,7 +15529,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Irish Sky Garden",
-                  "text": "A large-scale landscape art installation located near Skibbereen.",
+                  "text": "Irish Sky Garden is a landscaped garden at Liss Ard Estate featuring a mirror pond and lake view.",
                   "category": "landmark",
                   "coords": [
                         -9.254733,
@@ -11740,7 +15538,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Skibbereen Town Hall",
-                  "text": "The historic administrative building and community hub of Skibbereen.",
+                  "text": "A 19th-century stone town hall with a clock tower in the centre of Skibbereen.",
                   "category": "historical",
                   "coords": [
                         -9.265804,
@@ -11749,7 +15547,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Abbeystrewry Church of Ireland",
-                  "text": "A Church of Ireland place of worship located in Skibbereen.",
+                  "text": "A Church of Ireland church located in the Abbeystrewry townland near Skibbereen.",
                   "category": "religious",
                   "coords": [
                         -9.270435,
@@ -11758,7 +15556,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Cathedral",
-                  "text": "A prominent cathedral serving as a place of worship in Skibbereen.",
+                  "text": "A Roman Catholic cathedral with a tall spire, built in the 19th century, seat of the Diocese of Ross.",
                   "category": "religious",
                   "coords": [
                         -9.26373,
@@ -11869,7 +15667,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carranarah",
-                  "text": "Ein Berggipfel in der Region Swinford.",
+                  "text": "Ein felsiger Hügel in der Landschaft nahe Swinford.",
                   "category": "natural",
                   "coords": [
                         -9.08879,
@@ -11878,7 +15676,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Burren Hill",
-                  "text": "Eine Anhöhe in der Nähe von Swinford.",
+                  "text": "Ein Kalksteinhügel, bekannt für seine Flora, nahe Swinford.",
                   "category": "natural",
                   "coords": [
                         -9.116702,
@@ -11898,7 +15696,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carranarah",
-                  "text": "Egy hegycsúcs Swinford környékén.",
+                  "text": "Sziklás domb a Swinford környéki vidéken.",
                   "category": "natural",
                   "coords": [
                         -9.08879,
@@ -11907,7 +15705,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Burren Hill",
-                  "text": "Egy domb Swinford közelében.",
+                  "text": "Mészkődomb, melyet növényvilágáról ismernek, Swinford közelében.",
                   "category": "natural",
                   "coords": [
                         -9.116702,
@@ -11927,7 +15725,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carranarah",
-                  "text": "Un vârf montan situat în regiunea Swinford.",
+                  "text": "Un deal stâncos în zona rurală lângă Swinford.",
                   "category": "natural",
                   "coords": [
                         -9.08879,
@@ -11936,7 +15734,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Burren Hill",
-                  "text": "O colină situată lângă Swinford.",
+                  "text": "Un deal de calcar cunoscut pentru flora sa, situat lângă Swinford.",
                   "category": "natural",
                   "coords": [
                         -9.116702,
@@ -11956,7 +15754,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Carranarah",
-                  "text": "A mountain peak located in the Swinford area.",
+                  "text": "A rocky hill rising in the countryside near Swinford.",
                   "category": "natural",
                   "coords": [
                         -9.08879,
@@ -11965,7 +15763,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Burren Hill",
-                  "text": "A hill located near Swinford.",
+                  "text": "A limestone hill known for its flora, located near Swinford.",
                   "category": "natural",
                   "coords": [
                         -9.116702,
@@ -12058,7 +15856,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. John The Baptist Church",
-                  "text": "Eine dem heiligen Johannes dem Täufer gewidmete Kirche in Templemore.",
+                  "text": "Eine katholische Kirche, die Johannes dem Täufer in der Stadt Templemore geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -7.790686,
@@ -12105,7 +15903,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. John The Baptist Church",
-                  "text": "Keresztelő Szent Jánosnak szentelt templom Templemore-ban.",
+                  "text": "Szent Keresztelő Jánosnak szentelt katolikus templom Templemore városában.",
                   "category": "religious",
                   "coords": [
                         -7.790686,
@@ -12152,7 +15950,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. John The Baptist Church",
-                  "text": "O biserică dedicată Sfântului Ioan Botezătorul în Templemore.",
+                  "text": "O biserică catolică dedicată Sfântului Ioan Botezătorul în orașul Templemore.",
                   "category": "religious",
                   "coords": [
                         -7.790686,
@@ -12199,7 +15997,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. John The Baptist Church",
-                  "text": "A church dedicated to Saint John the Baptist in Templemore.",
+                  "text": "A Catholic church dedicated to St. John the Baptist in Templemore town.",
                   "category": "religious",
                   "coords": [
                         -7.790686,
@@ -12265,7 +16063,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Source",
-                  "text": "Ein zeitgenössisches Theater und Kulturzentrum in Thurles.",
+                  "text": "The Source in Thurles ist ein modernes Kulturzentrum mit Bibliothek und Theater.",
                   "category": "cultural",
                   "coords": [
                         -7.809562,
@@ -12328,7 +16126,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Manor Mills",
-                  "text": "Die Überreste historischer Mühlen in der Umgebung von Thurles.",
+                  "text": "Manor Mills ist eine ehemalige Mühle am Fluss Suir in Thurles.",
                   "category": "historical",
                   "coords": [
                         -7.797107,
@@ -12357,7 +16155,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Source",
-                  "text": "Kortárs színház és kulturális központ Thurles-ben.",
+                  "text": "A The Source Thurlesben egy modern kulturális központ könyvtárral és színházzal.",
                   "category": "cultural",
                   "coords": [
                         -7.809562,
@@ -12420,7 +16218,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Manor Mills",
-                  "text": "Történelmi malmok maradványai Thurles környékén.",
+                  "text": "A Manor Mills egykori malom a Suir folyón Thurlesben.",
                   "category": "historical",
                   "coords": [
                         -7.797107,
@@ -12449,7 +16247,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Source",
-                  "text": "Un teatru contemporan și centru cultural în Thurles.",
+                  "text": "The Source din Thurles este un centru cultural modern cu bibliotecă și teatru.",
                   "category": "cultural",
                   "coords": [
                         -7.809562,
@@ -12512,7 +16310,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Manor Mills",
-                  "text": "Rămășițele unor mori istorice în zona Thurles.",
+                  "text": "Manor Mills este o fostă moară pe râul Suir în Thurles.",
                   "category": "historical",
                   "coords": [
                         -7.797107,
@@ -12541,7 +16339,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Source",
-                  "text": "A contemporary theatre and cultural hub in Thurles.",
+                  "text": "The Source in Thurles is a modern cultural centre with a library and theatre.",
                   "category": "cultural",
                   "coords": [
                         -7.809562,
@@ -12604,7 +16402,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Manor Mills",
-                  "text": "The remains of historic mills in the Thurles area.",
+                  "text": "Manor Mills is a former mill on the River Suir in Thurles.",
                   "category": "historical",
                   "coords": [
                         -7.797107,
@@ -12760,7 +16558,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mall Theatre",
-                  "text": "Ein lokales Theater in Tuam, das kulturelle Aufführungen bietet.",
+                  "text": "Das Mall Theatre in Tuam ist ein viktorianisches Theater mit originaler Inneneinrichtung.",
                   "category": "cultural",
                   "coords": [
                         -8.853262,
@@ -12769,7 +16567,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisseevy",
-                  "text": "Eine historische archäologische Stätte in der Nähe von Tuam.",
+                  "text": "Lisseevy ist ein Ringfort (Liss) in der Nähe von Tuam mit doppelten Erdwällen.",
                   "category": "historical",
                   "coords": [
                         -8.810772,
@@ -12778,7 +16576,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lismacormick",
-                  "text": "Überreste einer archäologischen Stätte in der Region Tuam.",
+                  "text": "Lismacormick ist ein erhaltenes Ringfort im Stadtgebiet von Tuam.",
                   "category": "historical",
                   "coords": [
                         -8.819569,
@@ -12787,7 +16585,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cloonascragh Fort",
-                  "text": "Eine antike archäologische Stätte in Tuam.",
+                  "text": "Cloonascragh Fort bei Tuam ist ein eisenzeitliches Ringfort mit Graben und Wall.",
                   "category": "historical",
                   "coords": [
                         -8.854519,
@@ -12825,7 +16623,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mall Theatre",
-                  "text": "Helyi színház Tuam városában, amely kulturális előadásoknak ad otthont.",
+                  "text": "A tuami Mall Theatre egy viktoriánus színház eredeti belső berendezéssel.",
                   "category": "cultural",
                   "coords": [
                         -8.853262,
@@ -12834,7 +16632,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisseevy",
-                  "text": "Történelmi régészeti lelőhely Tuam közelében.",
+                  "text": "Lisseevy egy földvár (liss) Tuam közelében, kettős sáncokkal.",
                   "category": "historical",
                   "coords": [
                         -8.810772,
@@ -12843,7 +16641,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lismacormick",
-                  "text": "Régészeti lelőhely maradványai Tuam régiójában.",
+                  "text": "Lismacormick egy megőrzött földvár Tuam város területén.",
                   "category": "historical",
                   "coords": [
                         -8.819569,
@@ -12852,7 +16650,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cloonascragh Fort",
-                  "text": "Ősi régészeti lelőhely Tuamban.",
+                  "text": "A Tuam melletti Cloonascragh Fort egy vaskori földvár árokkal és sánccal.",
                   "category": "historical",
                   "coords": [
                         -8.854519,
@@ -12890,7 +16688,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mall Theatre",
-                  "text": "Un teatru local din Tuam, care găzduiește spectacole culturale.",
+                  "text": "Teatrul Mall din Tuam este un teatru victorian cu decor interior original.",
                   "category": "cultural",
                   "coords": [
                         -8.853262,
@@ -12899,7 +16697,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisseevy",
-                  "text": "Un sit arheologic istoric situat lângă Tuam.",
+                  "text": "Lisseevy este un fort circular (liss) lângă Tuam, cu valuri duble de pământ.",
                   "category": "historical",
                   "coords": [
                         -8.810772,
@@ -12908,7 +16706,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lismacormick",
-                  "text": "Rămășițele unui sit arheologic din regiunea Tuam.",
+                  "text": "Lismacormick este un fort circular bine păstrat în perimetrul orașului Tuam.",
                   "category": "historical",
                   "coords": [
                         -8.819569,
@@ -12917,7 +16715,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cloonascragh Fort",
-                  "text": "Un sit arheologic antic în Tuam.",
+                  "text": "Fortul Cloonascragh de lângă Tuam este un fort circular din epoca fierului cu șanț și val.",
                   "category": "historical",
                   "coords": [
                         -8.854519,
@@ -12955,7 +16753,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mall Theatre",
-                  "text": "A local theatre in Tuam hosting cultural performances.",
+                  "text": "Mall Theatre in Tuam is a Victorian theatre with original interior fittings.",
                   "category": "cultural",
                   "coords": [
                         -8.853262,
@@ -12964,7 +16762,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lisseevy",
-                  "text": "A historical archaeological site located near Tuam.",
+                  "text": "Lisseevy is a ringfort (liss) near Tuam with double earthen banks.",
                   "category": "historical",
                   "coords": [
                         -8.810772,
@@ -12973,7 +16771,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lismacormick",
-                  "text": "Remains of an archaeological site in the Tuam region.",
+                  "text": "Lismacormick is a preserved ringfort within the town of Tuam.",
                   "category": "historical",
                   "coords": [
                         -8.819569,
@@ -12982,7 +16780,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Cloonascragh Fort",
-                  "text": "An ancient archaeological site in Tuam.",
+                  "text": "Cloonascragh Fort near Tuam is an Iron Age ringfort with a ditch and rampart.",
                   "category": "historical",
                   "coords": [
                         -8.854519,
@@ -13147,7 +16945,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathturret",
-                  "text": "Eine historische archäologische Stätte in Warrenpoint.",
+                  "text": "Rathturret ist ein prähistorisches Ringfort oberhalb von Warrenpoint mit Blick auf Carlingford Lough.",
                   "category": "historical",
                   "coords": [
                         -6.235322,
@@ -13194,7 +16992,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathturret",
-                  "text": "Történelmi régészeti lelőhely Warrenpoint településén.",
+                  "text": "Rathturret egy őskori földvár Warrenpoint felett, Carlingford Loughra néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -6.235322,
@@ -13241,7 +17039,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathturret",
-                  "text": "Un sit arheologic istoric situat în Warrenpoint.",
+                  "text": "Rathturret este un fort circular preistoric deasupra Warrenpoint, cu vedere spre Carlingford Lough.",
                   "category": "historical",
                   "coords": [
                         -6.235322,
@@ -13288,7 +17086,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rathturret",
-                  "text": "A historic archaeological site located in Warrenpoint.",
+                  "text": "Rathturret is a prehistoric ringfort above Warrenpoint overlooking Carlingford Lough.",
                   "category": "historical",
                   "coords": [
                         -6.235322,
@@ -13341,7 +17139,484 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-warrenpoint-cities-v2.webp",
   },
   {
-    id: "ireland-youghal-cities-v2", "sights": {"de": [{"name": "Youghal Lighthouse", "text": "Der Youghal Lighthouse ist ein lokales maritimes Wahrzeichen an der Küste von Youghal.", "category": "landmark", "coords": [-7.842113, 51.942797]}, {"name": "Tynte's Castle", "text": "Tynte's Castle ist ein befestigtes Gebäude und ein historisches Wahrzeichen in Youghal.", "category": "castle", "coords": [-7.850209, 51.955907]}, {"name": "Freemasons' Hall Museum", "text": "Das Freemasons' Hall Museum ist eine Einrichtung zur Bewahrung der lokalen Geschichte in Youghal.", "category": "museum", "coords": [-7.844274, 51.951074]}, {"name": "Caliso Bay", "text": "Caliso Bay ist ein natürlicher Küstenstrand in der Stadt Youghal.", "category": "recreational", "coords": [-7.806248, 51.941132]}, {"name": "Whiting Bay", "text": "Whiting Bay bietet Besuchern eine malerische Strandumgebung in Youghal.", "category": "recreational", "coords": [-7.779073, 51.9505]}, {"name": "Collegiate Church of Saint Mary", "text": "Die Collegiate Church of Saint Mary ist eine markante mittelalterliche Kirche in Youghal.", "category": "landmark", "coords": [-7.853544, 51.955078]}, {"name": "Youghal Clock Tower", "text": "Der Youghal Clock Tower ist eine bekannte historische Attraktion im Zentrum von Youghal.", "category": "landmark", "coords": [-7.846785, 51.952726]}, {"name": "Ferry Point", "text": "Ferry Point ist ein Aussichtspunkt, der einen Blick auf die Wasserwege von Youghal bietet.", "category": "natural", "coords": [-7.839538, 51.954546]}, {"name": "Site of the Exchange", "text": "Die Site of the Exchange ist eine lokale Sehenswürdigkeit in Youghal.", "category": "landmark", "coords": [-7.845794, 51.953134]}, {"name": "Brú na Sí", "text": "Brú na Sí ist ein lokales Kunstzentrum in Youghal.", "category": "cultural", "coords": [-7.860708, 51.953936]}, {"name": "Strand Church", "text": "Anmutig in der historischen Küstenstadt Youghal gelegen, bietet die Strand Church eine einzigartig friedliche Präsenz am Meer. Ihre Nähe zum Wasser schafft eine ruhige, zutiefst besinnliche Atmosphäre, die einen stillen Spaziergang entlang des nahen Strandes wunderbar ergänzt. Besucher finden oft Trost in dem sanften Rauschen des Ozeans, das mit der ruhigen spirituellen Stimmung der Umgebung harmoniert. Ein Moment der Rast auf einer nahegelegenen Bank ermöglicht es, die ruhigen maritimen Ausblicke voll und ganz auf sich wirken zu lassen.", "category": "religious", "coords": [-7.851621, 51.940987]}, {"name": "Saint Mary's Church", "text": "Die Saint Mary's Church ist eine Kultstätte in Youghal.", "category": "religious", "coords": [-7.849634, 51.953209]}, {"name": "Priory Ruin", "text": "Die Priory Ruin, historisch mit der North Abbey verbunden, ist eine Kirchenruine in Youghal.", "category": "religious", "coords": [-7.854546, 51.957341]}], "hu": [{"name": "Youghal Lighthouse", "text": "A Youghal világítótorony egy helyi parti navigációs tájékozódási pont Youghalban.", "category": "landmark", "coords": [-7.842113, 51.942797]}, {"name": "Tynte's Castle", "text": "A Tynte's Castle egy erődített épület és történelmi látványosság Youghalban.", "category": "castle", "coords": [-7.850209, 51.955907]}, {"name": "Freemasons' Hall Museum", "text": "A Freemasons' Hall Múzeum a helyi történelem megőrzésének szentelt intézmény Youghalban.", "category": "museum", "coords": [-7.844274, 51.951074]}, {"name": "Caliso Bay", "text": "A Caliso Bay egy természetes tengerparti strand Youghal városában.", "category": "recreational", "coords": [-7.806248, 51.941132]}, {"name": "Whiting Bay", "text": "A Whiting Bay festői tengerparti környezetet kínál a Youghalba látogatóknak.", "category": "recreational", "coords": [-7.779073, 51.9505]}, {"name": "Collegiate Church of Saint Mary", "text": "A Collegiate Church of Saint Mary egy kiemelkedő középkori templom Youghalban.", "category": "landmark", "coords": [-7.853544, 51.955078]}, {"name": "Youghal Clock Tower", "text": "A Youghal óratorony egy ismert történelmi látványosság Youghal központjában.", "category": "landmark", "coords": [-7.846785, 51.952726]}, {"name": "Ferry Point", "text": "A Ferry Point egy kilátópont, amely rálátást nyújt Youghal vízi útjaira.", "category": "natural", "coords": [-7.839538, 51.954546]}, {"name": "Site of the Exchange", "text": "A Site of the Exchange egy helyi látványosság Youghal városában.", "category": "landmark", "coords": [-7.845794, 51.953134]}, {"name": "Brú na Sí", "text": "A Brú na Sí egy helyi művészeti központ Youghal területén.", "category": "cultural", "coords": [-7.860708, 51.953936]}, {"name": "Strand Church", "text": "A történelmi tengerparti város, Youghal varázsát elegánsan emelő Strand Church egyedülállóan békés tengerparti jelenlétet kínál. A víz közelsége derűs, mélyen elgondolkodtató légkört teremt, amely kiegészíti a közeli partvonal menti csendes sétát. A látogatók gyakran megnyugvást találnak abban, ahogy az óceán lágy hangja harmonizál a terület nyugodt spirituális hangulatával. Ha szakítunk egy pillanatot a pihenésre egy közeli padon, az lehetővé teszi, hogy teljesen befogadjuk a békés tengeri kilátást.", "category": "religious", "coords": [-7.851621, 51.940987]}, {"name": "Saint Mary's Church", "text": "A Saint Mary's Church egy istentiszteleti hely Youghal területén.", "category": "religious", "coords": [-7.849634, 51.953209]}, {"name": "Priory Ruin", "text": "A történelmi North Abbey-hez kapcsolódó Priory Ruin egy templomrom Youghal városában.", "category": "religious", "coords": [-7.854546, 51.957341]}], "ro": [{"name": "Youghal Lighthouse", "text": "Farul Youghal este un punct de reper maritim local pe coasta din Youghal.", "category": "landmark", "coords": [-7.842113, 51.942797]}, {"name": "Tynte's Castle", "text": "Tynte's Castle este o clădire fortificată și un punct de reper istoric în Youghal.", "category": "castle", "coords": [-7.850209, 51.955907]}, {"name": "Freemasons' Hall Museum", "text": "Muzeul Freemasons' Hall este o instituție dedicată păstrării istoriei locale din Youghal.", "category": "museum", "coords": [-7.844274, 51.951074]}, {"name": "Caliso Bay", "text": "Caliso Bay este o plajă naturală de coastă din orașul Youghal.", "category": "recreational", "coords": [-7.806248, 51.941132]}, {"name": "Whiting Bay", "text": "Whiting Bay oferă un mediu pitoresc de plajă pentru vizitatorii din Youghal.", "category": "recreational", "coords": [-7.779073, 51.9505]}, {"name": "Collegiate Church of Saint Mary", "text": "Biserica Colegiată Sfânta Maria este o biserică medievală istorică proeminentă din Youghal.", "category": "landmark", "coords": [-7.853544, 51.955078]}, {"name": "Youghal Clock Tower", "text": "Turnul cu ceas din Youghal este o atracție istorică bine-cunoscută în centrul orașului Youghal.", "category": "landmark", "coords": [-7.846785, 51.952726]}, {"name": "Ferry Point", "text": "Ferry Point este un punct de belvedere care oferă o perspectivă asupra căilor navigabile din Youghal.", "category": "natural", "coords": [-7.839538, 51.954546]}, {"name": "Site of the Exchange", "text": "Site of the Exchange este o atracție locală situată în Youghal.", "category": "landmark", "coords": [-7.845794, 51.953134]}, {"name": "Brú na Sí", "text": "Brú na Sí este un centru de arte local situat în Youghal.", "category": "cultural", "coords": [-7.860708, 51.953936]}, {"name": "Strand Church", "text": "Așezată grațios în orașul istoric de coastă Youghal, Strand Church oferă o prezență pe litoral unic de pașnică. Apropierea sa de apă creează o atmosferă senină, profund reflexivă, care completează o plimbare liniștită de-a lungul malului mării din apropiere. Vizitatorii găsesc adesea alinare în sunetul blând al oceanului armonizându-se cu vibrația spirituală liniștită a zonei. Luându-vă un moment pentru a vă odihni pe o bancă din apropiere vă permite să absorbiți pe deplin priveliștile maritime calme.", "category": "religious", "coords": [-7.851621, 51.940987]}, {"name": "Saint Mary's Church", "text": "Saint Mary's Church este un lăcaș de cult situat în Youghal.", "category": "religious", "coords": [-7.849634, 51.953209]}, {"name": "Priory Ruin", "text": "Priory Ruin, asociată istoric cu North Abbey, este o biserică în ruină din Youghal.", "category": "religious", "coords": [-7.854546, 51.957341]}], "en": [{"name": "Youghal Lighthouse", "text": "Youghal Lighthouse is a local coastal navigation landmark situated in Youghal.", "category": "landmark", "coords": [-7.842113, 51.942797]}, {"name": "Tynte's Castle", "text": "Tynte's Castle is a fortified building and a historic landmark located in Youghal.", "category": "castle", "coords": [-7.850209, 51.955907]}, {"name": "Freemasons' Hall Museum", "text": "The Freemasons' Hall Museum is an institution dedicated to preserving local history in Youghal.", "category": "museum", "coords": [-7.844274, 51.951074]}, {"name": "Caliso Bay", "text": "Caliso Bay is a natural coastal beach destination in the town of Youghal.", "category": "recreational", "coords": [-7.806248, 51.941132]}, {"name": "Whiting Bay", "text": "Whiting Bay offers a scenic beach environment for visitors in Youghal.", "category": "recreational", "coords": [-7.779073, 51.9505]}, {"name": "Collegiate Church of Saint Mary", "text": "The Collegiate Church of Saint Mary is a prominent historic medieval church located in Youghal.", "category": "landmark", "coords": [-7.853544, 51.955078]}, {"name": "Youghal Clock Tower", "text": "The Youghal Clock Tower is a well-known historic attraction in the center of Youghal.", "category": "landmark", "coords": [-7.846785, 51.952726]}, {"name": "Ferry Point", "text": "Ferry Point is a scenic viewpoint offering a look over the waterways of Youghal.", "category": "natural", "coords": [-7.839538, 51.954546]}, {"name": "Site of the Exchange", "text": "The Site of the Exchange is a local attraction situated in Youghal.", "category": "landmark", "coords": [-7.845794, 51.953134]}, {"name": "Brú na Sí", "text": "Brú na Sí is a local arts centre situated in Youghal.", "category": "cultural", "coords": [-7.860708, 51.953936]}, {"name": "Strand Church", "text": "Set gracefully against the historical coastal town of Youghal, the Strand Church offers a uniquely peaceful seaside presence. Its proximity to the water creates a serene, deeply reflective atmosphere that complements a quiet walk along the nearby beachfront. Visitors often find comfort in the gentle sound of the ocean harmonizing with the area's tranquil spiritual vibe. Taking a moment to rest on a nearby bench allows you to fully absorb the calm maritime views.", "category": "religious", "coords": [-7.851621, 51.940987]}, {"name": "Saint Mary's Church", "text": "Saint Mary's Church is a place of worship situated in Youghal.", "category": "religious", "coords": [-7.849634, 51.953209]}, {"name": "Priory Ruin", "text": "The Priory Ruin, historically associated with North Abbey, is a ruined church in Youghal.", "category": "religious", "coords": [-7.854546, 51.957341]}]},
+    id: "ireland-youghal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "Ein Leuchtturm, der die Einfahrt zum Hafen von Youghal an der Küste von Cork markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "Mittelalterliches Tower House der Familie Tynte an der Hauptstraße von Youghal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "Das Freemasons' Hall Museum ist eine Einrichtung zur Bewahrung der lokalen Geschichte in Youghal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "Caliso Bay ist ein natürlicher Küstenstrand in der Stadt Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Die Youghal Town Wall ist eine mittelalterliche Befestigung, mit erhaltenen Abschnitten entlang der Uferpromenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "Mittelalterliche Kollegiatkirche in Youghal, eine der längsten Irlands, von Sir Walter Raleigh genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "Uhrturm aus dem 18. Jahrhundert (1777) an der Hauptstraße von Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "Ferry Point ist eine Landspitze an der Mündung des River Blackwater bei Youghal mit Blick auf die Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "Der Standort der Börse (Exchange) in Youghal markiert den historischen Handelsplatz der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "Brú na Sí in Youghal ist ein modernes Kulturzentrum mit Veranstaltungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Neugotische Kirche von Irland, erbaut nahe dem Hauptstrand von Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Eine historische Kirche im Zentrum von Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "Das White Gables Art Studio in Youghal zeigt Gemälde und Keramiken lokaler Künstler.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "Világítótorony, amely a Youghal-i kikötő bejáratát jelzi Cork partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "Középkori toronyház a Tynte családtól Youghal főutcáján.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "A Freemasons' Hall Múzeum a helyi történelem megőrzésének szentelt intézmény Youghalban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "A Caliso Bay egy természetes tengerparti strand Youghal városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Youghal városfala egy középkori erődítmény, melynek szakaszai a vízpart mentén ma is állnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "Középkori társaskáptalani templom Youghalban, Írország egyik leghosszabb temploma, használta Sir Walter Raleigh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "18. századi (1777) óratorony Youghal főutcáján.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "A Ferry Point egy földnyelv a Blackwater folyó torkolatánál Youghal közelében, kilátással az öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "A youghali tőzsde helye (Site of the Exchange) a város történelmi kereskedelmi központját jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "A youghali Brú na Sí egy modern kulturális központ rendezvényekkel és kiállításokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Neogótikus Ír Egyház templom Youghal fő strandja közelében épült.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Történelmi templom Youghal központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "A White Gables Art Studio Youghalban helyi művészek festményeit és kerámiáit mutatja be.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "Un far care marchează intrarea în portul Youghal, pe coasta Cork.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "Casă-turn medievală a familiei Tynte pe strada principală din Youghal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "Muzeul Freemasons' Hall este o instituție dedicată păstrării istoriei locale din Youghal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "Caliso Bay este o plajă naturală de coastă din orașul Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Zidul orașului Youghal este o fortificație medievală, cu secțiuni încă în picioare de-a lungul frontului de apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "Biserică colegială medievală în Youghal, una dintre cele mai lungi din Irlanda, folosită de Sir Walter Raleigh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "Turn cu ceas din secolul al XVIII-lea (1777) pe strada principală din Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "Ferry Point este un promontoriu pe estuarul râului Blackwater lângă Youghal, oferind vederi ale golfului.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "Locul Burselor (Site of the Exchange) din Youghal marchează centrul comercial istoric al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "Brú na Sí din Youghal este un centru cultural modern cu evenimente și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Biserică neogotică a Bisericii Irlandei construită lângă plaja principală din Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "O biserică istorică în centrul orașului Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "White Gables Art Studio din Youghal expune picturi și ceramică create de artiști locali.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "A lighthouse marking the entrance to Youghal Harbour on the Cork coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "A medieval tower house built by the Tynte family on the main street of Youghal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "The Freemasons' Hall Museum is an institution dedicated to preserving local history in Youghal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "Caliso Bay is a natural coastal beach destination in the town of Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Youghal's Town Wall is a medieval fortification, with sections still standing along the waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "Medieval collegiate church in Youghal, one of the longest in Ireland, used by Sir Walter Raleigh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "18th-century clock tower (1777) on the main street of Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "Ferry Point is a headland on the River Blackwater estuary near Youghal, offering views of the bay.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "The Site of the Exchange in Youghal marks the historic trading centre of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "Brú na Sí in Youghal is a modern cultural centre with events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Gothic-revival Church of Ireland church built near Youghal's main beach.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A historic church in the centre of Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "White Gables Art Studio in Youghal exhibits paintings and ceramics created by local artists.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Youghal", hu: "Youghal", ro: "Youghal", en: "Youghal" },
@@ -13386,7 +17661,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-youghal-cities-v2.webp",
   },
   {
-    id: "ireland-abbeyleix-cities-v2", "sights": {"de": [{"name": "Abbeyleix Heritage Centre", "text": "Das Abbeyleix Heritage Centre widmet sich ganz der lokalen Geschichte und dem reichen Erbe von Abbeyleix. In diesem irischen Museum können Touristen tief in die Vergangenheit der Stadt eintauchen und vielfältige Ausstellungsstücke erkunden.", "category": "museum", "coords": [-7.34618, 52.917478]}, {"name": "Mount Thomas", "text": "Eine archäologische Ausgrabungsstätte in Abbeyleix.", "category": "historical", "coords": [-7.387678, 52.916113]}, {"name": "Bramley", "text": "Eine Kunstgalerie in Abbeyleix.", "category": "museum", "coords": [-7.349137, 52.912987]}, {"name": "Saint Michael and All Angels' Church", "text": "Eine christliche Kirche in Abbeyleix.", "category": "religious", "coords": [-7.354695, 52.910456]}, {"name": "Church of the Most Holy Rosary", "text": "Ein Ort der Anbetung in Abbeyleix.", "category": "religious", "coords": [-7.345847, 52.914668]}], "hu": [{"name": "Abbeyleix Heritage Centre", "text": "Az Abbeyleix Heritage Centre teljes egészében Abbeyleix helyi történetének és gazdag örökségének szenteli magát. Ebben az ír múzeumban a turisták elmerülhetnek a város múltjában, és változatos kiállítási tárgyakat fedezhetnek fel.", "category": "museum", "coords": [-7.34618, 52.917478]}, {"name": "Mount Thomas", "text": "Régészeti lelőhely Abbeyleix területén.", "category": "historical", "coords": [-7.387678, 52.916113]}, {"name": "Bramley", "text": "Egy művészeti galéria Abbeyleixben.", "category": "museum", "coords": [-7.349137, 52.912987]}, {"name": "Saint Michael and All Angels' Church", "text": "Keresztény templom Abbeyleixben.", "category": "religious", "coords": [-7.354695, 52.910456]}, {"name": "Church of the Most Holy Rosary", "text": "Vallási helyszín Abbeyleix városában.", "category": "religious", "coords": [-7.345847, 52.914668]}], "ro": [{"name": "Abbeyleix Heritage Centre", "text": "Abbeyleix Heritage Centre este dedicat în întregime istoriei locale și bogatei moșteniri a orașului Abbeyleix. În acest muzeu irlandez, turiștii se pot scufunda adânc în trecutul orașului și pot explora exponate diverse.", "category": "museum", "coords": [-7.34618, 52.917478]}, {"name": "Mount Thomas", "text": "Un sit arheologic situat în Abbeyleix.", "category": "historical", "coords": [-7.387678, 52.916113]}, {"name": "Bramley", "text": "O galerie de artă situată în Abbeyleix.", "category": "museum", "coords": [-7.349137, 52.912987]}, {"name": "Saint Michael and All Angels' Church", "text": "O biserică creștină situată în Abbeyleix.", "category": "religious", "coords": [-7.354695, 52.910456]}, {"name": "Church of the Most Holy Rosary", "text": "Un lăcaș de cult situat în Abbeyleix.", "category": "religious", "coords": [-7.345847, 52.914668]}], "en": [{"name": "Abbeyleix Heritage Centre", "text": "The Abbeyleix Heritage Centre is fully dedicated to the local history and rich heritage of Abbeyleix. In this Irish museum, tourists can delve deep into the town's past and explore a variety of exhibits.", "category": "museum", "coords": [-7.34618, 52.917478]}, {"name": "Mount Thomas", "text": "An archaeological site located in Abbeyleix.", "category": "historical", "coords": [-7.387678, 52.916113]}, {"name": "Bramley", "text": "An art gallery located in Abbeyleix.", "category": "museum", "coords": [-7.349137, 52.912987]}, {"name": "Saint Michael and All Angels' Church", "text": "A Christian church located in Abbeyleix.", "category": "religious", "coords": [-7.354695, 52.910456]}, {"name": "Church of the Most Holy Rosary", "text": "A place of worship located in Abbeyleix.", "category": "religious", "coords": [-7.345847, 52.914668]}]},
+    id: "ireland-abbeyleix-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "Das Abbeyleix Heritage Centre widmet sich ganz der lokalen Geschichte und dem reichen Erbe von Abbeyleix. In diesem irischen Museum können Touristen tief in die Vergangenheit der Stadt eintauchen und vielfältige Ausstellungsstücke erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Mount Thomas bei Abbeyleix ist eine historische Stätte mit den Überresten eines Herrenhauses.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "Bramley in Abbeyleix ist ein Museum, das die Geschichte der Stadt und der Umgebung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "Eine christliche Kirche in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Eine römisch-katholische Kirche, die dem Allerheiligsten Rosenkranz in Abbeyleix geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "Az Abbeyleix Heritage Centre teljes egészében Abbeyleix helyi történetének és gazdag örökségének szenteli magát. Ebben az ír múzeumban a turisták elmerülhetnek a város múltjában, és változatos kiállítási tárgyakat fedezhetnek fel.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Az Abbeyleix melletti Mount Thomas egy történelmi helyszín egy kúria maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "Az abbeyleixi Bramley múzeum a város és környéke történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "Keresztény templom Abbeyleixben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Római katolikus templom Abbeyleixben, a Legszentebb Rózsafüzérnek szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "Abbeyleix Heritage Centre este dedicat în întregime istoriei locale și bogatei moșteniri a orașului Abbeyleix. În acest muzeu irlandez, turiștii se pot scufunda adânc în trecutul orașului și pot explora exponate diverse.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Mount Thomas de lângă Abbeyleix este un sit istoric cu rămășițele unui conac.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "Bramley din Abbeyleix este un muzeu care prezintă istoria orașului și a împrejurimilor.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "O biserică creștină situată în Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "O biserică romano-catolică dedicată Preasfântului Rozariu în Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "The Abbeyleix Heritage Centre is fully dedicated to the local history and rich heritage of Abbeyleix. In this Irish museum, tourists can delve deep into the town's past and explore a variety of exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Mount Thomas near Abbeyleix is a historic site with remains of a manor house.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "Bramley in Abbeyleix is a museum showcasing the history of the town and its surroundings.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "A Christian church located in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "A Roman Catholic church dedicated to the Most Holy Rosary in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Abbeyleix", hu: "Abbeyleix", ro: "Abbeyleix", en: "Abbeyleix" },
@@ -13566,7 +18030,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-arklow-low-cities-v2.webp",
   },
   {
-    id: "ireland-ballybunion-cities-v2", "sights": {"de": [{"name": "Nuns' Beach", "text": "Von imposanten Küstenklippen umschlossen, präsentiert sich der Nuns' Beach als eine spektakulär dramatische und abgeschiedene Bucht bei Ballybunion. Dieser verborgene Schatz strahlt eine zutiefst ruhige und mystische Atmosphäre aus, die unerschrockene Naturliebhaber und Suchende nach purer maritimer Einsamkeit stark anzieht. Obwohl der steile Zugangsweg etwas Mühe erfordert, ist die Belohnung ein makelloser Raum für ungestörte Strandspaziergänge. Besucher müssen beim Abstieg vorsichtig sein und stets die einsetzende Flut im Auge behalten.", "category": "recreational", "coords": [-9.676919, 52.518818]}, {"name": "Ladies' Beach", "text": "Flankiert von wunderschönen Felsformationen, ist der Ladies' Beach in Ballybunion eine atemberaubende Kombination aus natürlicher Schönheit und einladendem Charme. Die Atmosphäre knistert vor lebendiger lokaler Energie und zieht sowohl aktive Familien als auch begeisterte Ozeanschwimmer an, die sich den Atlantikwellen stellen wollen. Weicher Sand und faszinierende Meereshöhlen machen ihn zu einem aufregenden Ort für einen ausgedehnten Tag voller Küstenerkundungen. An einem sonnigen Tag einen Platz zu ergattern kann wettbewerbsintensiv sein, daher ist ein früher Start sehr zu empfehlen.", "category": "recreational", "coords": [-9.677297, 52.513393]}], "hu": [{"name": "Nuns' Beach", "text": "A lenyűgöző parti sziklák által körülzárt Nuns' Beach egy látványosan drámai és eldugott öblöt mutat be Ballybunion közelében. Ez a rejtett kincs mélyen csendes és misztikus atmoszférát sugároz, nagyban vonzva a rettenthetetlen természetbarátokat és a tiszta tengerparti magányra vágyókat. Bár a meredek megközelítési útvonal némi erőfeszítést igényel, a jutalom egy érintetlen tér a zavartalan parti sétákhoz. A látogatóknak óvatosnak kell lenniük a leereszkedésnél, és mindig szemmel kell tartaniuk a bejövő dagályt.", "category": "recreational", "coords": [-9.676919, 52.518818]}, {"name": "Ladies' Beach", "text": "A gyönyörű sziklaképződmények által szegélyezett ballybunioni Ladies' Beach a természeti szépség és a hívogató varázs lenyűgöző kombinációja. A légkör vibráló helyi energiával pezseg, vonzza mind az energikus családokat, mind a lelkes óceáni úszókat, akik alig várják, hogy szembenézzenek az atlanti hullámokkal. A puha homok és az izgalmas tengerparti barlangok izgalmas helyszínné teszik egy hosszabb tengerparti felfedezőnaphoz. Napsütéses napokon nagy lehet a küzdelem a helyekért, így a korai indulás kifejezetten ajánlott.", "category": "recreational", "coords": [-9.677297, 52.513393]}], "ro": [{"name": "Nuns' Beach", "text": "Închisă de stânci de coastă impunătoare, Nuns' Beach prezintă un golf spectaculos de dramatic și izolat lângă Ballybunion. Această comoară ascunsă emană o atmosferă profund liniștită și mistică, atrăgând extrem de mult iubitorii curajoși de natură și pe cei care caută solitudinea pură la malul mării. În timp ce calea abruptă de acces necesită un pic de efort, recompensa este un spațiu curat pentru plimbări netulburate pe țărm. Vizitatorii trebuie să manifeste prudență la coborâre și să fie mereu atenți la valul care vine.", "category": "recreational", "coords": [-9.676919, 52.518818]}, {"name": "Ladies' Beach", "text": "Flancată de formațiuni stâncoase frumoase, Ladies' Beach din Ballybunion este o combinație uimitoare de frumusețe naturală și farmec primitor. Atmosfera trosnește de o energie locală vibrantă, atrăgând atât familiile energice, cât și înotătorii pasionați de ocean, dornici să înfrunte valurile atlantice. Nisipul moale și peșterile marine intrigante o fac un loc captivant pentru o zi prelungită de explorare a coastei. Asigurarea unui loc într-o zi însorită poate fi competitivă, deci un start matinal este foarte recomandat.", "category": "recreational", "coords": [-9.677297, 52.513393]}], "en": [{"name": "Nuns' Beach", "text": "Enclosed by imposing coastal cliffs, Nuns' Beach presents a spectacularly dramatic and secluded cove near Ballybunion. This hidden treasure emits a profoundly quiet and mystical atmosphere, greatly appealing to intrepid nature lovers and those seeking pure seaside solitude. While the steep access path requires a bit of effort, the reward is a pristine space for undisturbed shoreline walks. Visitors must exercise care on the descent and always keep an eye on the incoming tide.", "category": "recreational", "coords": [-9.676919, 52.518818]}, {"name": "Ladies' Beach", "text": "Flanked by beautiful rock formations, Ladies' Beach in Ballybunion is a stunning combination of natural beauty and welcoming charm. The atmosphere crackles with a vibrant local energy, drawing both energetic families and avid ocean swimmers eager to face the Atlantic rollers. Soft sand and intriguing seaside caves make it an exciting spot for an extended day of coastal exploration. Securing a spot on a sunny day can be competitive, so an early start is highly recommended.", "category": "recreational", "coords": [-9.677297, 52.513393]}]},
+    id: "ireland-ballybunion-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "Ruhigerer Sandstrand neben dem Ladies' Beach, einst von Nonnen genutzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "Sandstrand in Ballybunion, der traditionell Frauen vorbehalten war.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "Csendesebb homokos strand a Ladies' Beach mellett, egykor apácák használták.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "Homokos strand Ballybunionban, hagyományosan nők számára fenntartva.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "Plajă nisipoasă mai liniștită lângă Ladies' Beach, odată folosită de maici.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "Plajă nisipoasă în Ballybunion, rezervată tradițional femeilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "A quieter sandy beach next to Ladies' Beach, used by nuns in the past.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "A sandy beach in Ballybunion, traditionally separated for women.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Ballybunion", hu: "Ballybunion", ro: "Ballybunion", en: "Ballybunion" },
@@ -13777,7 +18322,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cromwell's Castle",
-                  "text": "Eine historische Festung in Banagher.",
+                  "text": "Cromwell's Castle in Banagher ist eine Festung aus dem 17. Jahrhundert am Shannon.",
                   "category": "fortress",
                   "coords": [
                         -7.993992,
@@ -13786,7 +18331,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Eliza",
-                  "text": "Die Überreste einer Verteidigungsanlage in Banagher.",
+                  "text": "Ein sternförmiges Fort am Shannon in Banagher.",
                   "category": "historical",
                   "coords": [
                         -7.996135,
@@ -13795,7 +18340,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Banagher Marina",
-                  "text": "Ein Jachthafen am Fluss Shannon in Banagher.",
+                  "text": "Banagher Marina liegt am Shannon und bietet Anlegestellen sowie Freizeiteinrichtungen.",
                   "category": "landmark",
                   "coords": [
                         -7.989488,
@@ -13804,7 +18349,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Falkland",
-                  "text": "Historische Ruinen einer Befestigung in Banagher.",
+                  "text": "Fort Falkland, Fort in Banagher, erbaut 1624.",
                   "category": "historical",
                   "coords": [
                         -7.991719,
@@ -13813,7 +18358,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lusmagh Church",
-                  "text": "Eine Kirche im ländlichen Gebiet von Lusmagh bei Banagher.",
+                  "text": "Eine Kirche in der Townland Lusmagh, Teil der ländlichen Pfarrei bei Banagher.",
                   "category": "religious",
                   "coords": [
                         -8.020451,
@@ -13822,7 +18367,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Rynagh’s Church",
-                  "text": "Ein religiöses Bauwerk in Banagher.",
+                  "text": "Eine Kirche, die der heiligen Rynagh, der Schutzpatronin von Banagher, geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -7.981269,
@@ -13833,7 +18378,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cromwell's Castle",
-                  "text": "Történelmi erődítmény Banagherben.",
+                  "text": "A banagheri Cromwell-kastély egy 17. századi erődítmény a Shannon folyónál.",
                   "category": "fortress",
                   "coords": [
                         -7.993992,
@@ -13842,7 +18387,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Eliza",
-                  "text": "Egy egykori védelmi építmény romjai Banagherben.",
+                  "text": "Csillag alakú erőd a Shannon folyónál Banagherben.",
                   "category": "historical",
                   "coords": [
                         -7.996135,
@@ -13851,7 +18396,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Banagher Marina",
-                  "text": "Kikötő a Shannon folyón Banagherben.",
+                  "text": "A banagheri marina a Shannon partján található, kikötőhelyekkel és szabadidős létesítményekkel.",
                   "category": "landmark",
                   "coords": [
                         -7.989488,
@@ -13860,7 +18405,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Falkland",
-                  "text": "Egy erődítmény történelmi romjai Banagherben.",
+                  "text": "Fort Falkland erőd Banagherben, épült 1624-ben.",
                   "category": "historical",
                   "coords": [
                         -7.991719,
@@ -13869,7 +18414,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lusmagh Church",
-                  "text": "Templom a Banagher melletti Lusmagh vidéki területén.",
+                  "text": "Templom Lusmagh településrészen, a Banagher melletti vidéki plébánia része.",
                   "category": "religious",
                   "coords": [
                         -8.020451,
@@ -13878,7 +18423,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Rynagh’s Church",
-                  "text": "Vallási épület Banagherben.",
+                  "text": "Szent Rynagh-nak, Banagher védőszentjének szentelt templom.",
                   "category": "religious",
                   "coords": [
                         -7.981269,
@@ -13889,7 +18434,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cromwell's Castle",
-                  "text": "O fortăreață istorică situată în Banagher.",
+                  "text": "Castelul Cromwell din Banagher este o fortăreață din secolul al XVII-lea pe malul Shannonului.",
                   "category": "fortress",
                   "coords": [
                         -7.993992,
@@ -13898,7 +18443,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Eliza",
-                  "text": "Ruinele unei vechi fortificații în Banagher.",
+                  "text": "Un fort în formă de stea pe râul Shannon la Banagher.",
                   "category": "historical",
                   "coords": [
                         -7.996135,
@@ -13907,7 +18452,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Banagher Marina",
-                  "text": "Un port de agrement pe râul Shannon în Banagher.",
+                  "text": "Marina Banagher este situată pe Shannon, oferind pontoane și facilități de agrement.",
                   "category": "landmark",
                   "coords": [
                         -7.989488,
@@ -13916,7 +18461,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Falkland",
-                  "text": "Ruinele istorice ale unei fortificații din Banagher.",
+                  "text": "Fort Falkland, fortăreață în Banagher, construită în 1624.",
                   "category": "historical",
                   "coords": [
                         -7.991719,
@@ -13925,7 +18470,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lusmagh Church",
-                  "text": "O biserică situată în zona rurală Lusmagh de lângă Banagher.",
+                  "text": "O biserică situată în townlandul Lusmagh, parte a parohiei rurale lângă Banagher.",
                   "category": "religious",
                   "coords": [
                         -8.020451,
@@ -13934,7 +18479,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Rynagh’s Church",
-                  "text": "Un lăcaș de cult situat în Banagher.",
+                  "text": "O biserică dedicată Sfintei Rynagh, patronul orașului Banagher.",
                   "category": "religious",
                   "coords": [
                         -7.981269,
@@ -13945,7 +18490,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cromwell's Castle",
-                  "text": "A historic fortification located in Banagher.",
+                  "text": "Cromwell's Castle in Banagher is a 17th-century fortress on the River Shannon.",
                   "category": "fortress",
                   "coords": [
                         -7.993992,
@@ -13954,7 +18499,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Eliza",
-                  "text": "The ruins of a defensive fortification in Banagher.",
+                  "text": "A star-shaped fort on the River Shannon at Banagher.",
                   "category": "historical",
                   "coords": [
                         -7.996135,
@@ -13963,7 +18508,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Banagher Marina",
-                  "text": "A marina located on the River Shannon in Banagher.",
+                  "text": "Banagher Marina is on the River Shannon, offering moorings and leisure facilities.",
                   "category": "landmark",
                   "coords": [
                         -7.989488,
@@ -13972,7 +18517,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Falkland",
-                  "text": "Historic ruins of a fortification in Banagher.",
+                  "text": "Fort Falkland, fort in Banagher, built in 1624.",
                   "category": "historical",
                   "coords": [
                         -7.991719,
@@ -13981,7 +18526,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lusmagh Church",
-                  "text": "A church located in the rural Lusmagh area near Banagher.",
+                  "text": "A church located in the Lusmagh townland, part of the rural parish near Banagher.",
                   "category": "religious",
                   "coords": [
                         -8.020451,
@@ -13990,7 +18535,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Rynagh’s Church",
-                  "text": "A religious building located in Banagher.",
+                  "text": "A church dedicated to Saint Rynagh, the patron saint of Banagher.",
                   "category": "religious",
                   "coords": [
                         -7.981269,
@@ -14043,7 +18588,412 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-banagher-cities-v2.webp",
   },
   {
-    id: "ireland-buncrana-cities-v2", "sights": {"de": [{"name": "Stragill Beach", "text": "Der Stragill Beach bietet einen ruhigen Zufluchtsort an der Küste bei Buncrana und besticht durch einen herrlich weiten Sandstrand. Dieses Ausflugsziel bewahrt sich ein stilles, unberührtes Flair und belohnt alle, die sich hierher wagen, mit einer friedlichen Umgebung für einsame Spaziergänge oder entspannte Familienausflüge. Die sanfte Neigung ins Wasser macht es zu einem einladenden Ort, um sich die Füße abzukühlen, während man den weiten Horizont bewundert. Wer die örtlichen Gezeitenzeiten prüft, sichert sich den maximalen Strandplatz für ein nachmittägliches Picknick.", "category": "recreational", "coords": [-7.489008, 55.156439]}, {"name": "Buncrana Beach", "text": "Dieser charmante Küstenabschnitt befindet sich direkt bei der irischen Stadt Buncrana. Besucher erwartet eine entspannte Atmosphäre, die zu gemütlichen Spaziergängen und ruhigen Momenten am Wasser einlädt. Buncrana Beach ist ein wunderbarer Ort, um die frische Meeresluft der Region zu genießen. Am besten lässt sich die raue Schönheit an einem klaren Nachmittag erleben.", "category": "recreational", "coords": [-7.466207, 55.116528]}, {"name": "Lisfannon Beach", "text": "In der Nähe von Buncrana gelegen, präsentiert sich Lisfannon Beach als ein malerisches Ziel an der irischen Küste. Die natürliche Umgebung lädt Gäste dazu ein, am Ufer entlangzuwandern und die sanfte Meeresbrise zu spüren. Es ist der ideale Ort für alle, die abseits der Stadt etwas Ruhe suchen. Warme Kleidung ist empfehlenswert, um die Küstenblicke das ganze Jahr über zu genießen.", "category": "recreational", "coords": [-7.481447, 55.095116]}, {"name": "Porthaw Beach", "text": "Porthaw Beach ergänzt das Küstenangebot rund um das irische Buncrana auf wunderbare Weise. Der ruhige Strandabschnitt bietet eine einladende Kulisse für Erkundungen am Wasser und friedliche Momente am Meer. Naturfreunde werden den beruhigenden Rhythmus der Wellen hier besonders schätzen. Wer früh am Tag anreist, kann die ungestörte Stille dieses friedlichen Ortes bestens auskosten.", "category": "recreational", "coords": [-7.477271, 55.144559]}, {"name": "Neds Point Fort", "text": "Eine napoleonische Festung aus dem 19. Jahrhundert in Buncrana.", "category": "fortress", "coords": [-7.474693, 55.141126]}, {"name": "Buncrana Castle", "text": "Ein historisches Schloss aus dem Jahr 1718 in Buncrana.", "category": "castle", "coords": [-7.464125, 55.139637]}, {"name": "O'Doherty's Keep", "text": "Ein befestigter Wohnturm aus dem 14. Jahrhundert in Buncrana.", "category": "castle", "coords": [-7.462777, 55.139804]}, {"name": "Dermot & Grania's Bed", "text": "Eine antike Grabstätte oder archäologische Stätte in Buncrana.", "category": "historical", "coords": [-7.439063, 55.114054]}, {"name": "Mouldy Hill", "text": "Ein lokaler Berggipfel mit Aussicht in Buncrana.", "category": "natural", "coords": [-7.446171, 55.106088]}, {"name": "Christ Church", "text": "Eine christliche Kirche und Gebetsstätte in Buncrana.", "category": "religious", "coords": [-7.453916, 55.134732]}, {"name": "St Mary's Oratory", "text": "Ein katholisches Oratorium und Gebetsstätte in Buncrana.", "category": "religious", "coords": [-7.455958, 55.133374]}], "hu": [{"name": "Stragill Beach", "text": "A Buncrana közelében fekvő, békés menedéket nyújtó Stragill Beach egy kedves, tágas homokos partszakaszt kínál. Ez az úti cél megőrizte csendes, érintetlen hangulatát, gyakran megjutalmazva az ide merészkedőket egy békés környezettel a magányos sétákhoz vagy a nyugodt családi kirándulásokhoz. A vízbe vezető enyhe lejtő hívogató területté teszi a lábak lehűtéséhez, miközben a hatalmas horizontot csodáljuk. A helyi árapály időpontok ellenőrzése biztosítja, hogy maximális tengerparti tér álljon rendelkezésre egy délutáni piknikhez.", "category": "recreational", "coords": [-7.489008, 55.156439]}, {"name": "Buncrana Beach", "text": "Buncrana városa mellett található ez a bájos ír tengerparti szakasz. A látogatók békés sétákat tehetnek a parton, és élvezhetik a nyugodt, tengeri atmoszférát. Kiváló helyszín a csendes kikapcsolódásra és a friss levegő belélegzésére. Érdemes egy tiszta napon érkezni, hogy teljes mértékben átéljük a hely varázsát.", "category": "recreational", "coords": [-7.466207, 55.116528]}, {"name": "Lisfannon Beach", "text": "A Buncrana közelében fekvő Lisfannon Beach egy gyönyörű ír parti úti cél. A természetes környezet arra csábítja a vendégeket, hogy sétáljanak a vízparton, és élvezzék a hűs óceáni szellőt. Tökéletes választás azoknak, akik a város zajától távol szeretnének pihenni. Érdemes melegebb ruhával készülni, hogy bármely évszakban kényelmesen gyönyörködhessünk a kilátásban.", "category": "recreational", "coords": [-7.481447, 55.095116]}, {"name": "Porthaw Beach", "text": "A Porthaw Beach nagyszerűen kiegészíti a Buncrana környéki ír tengerparti kínálatot. A nyugodt partszakasz hívogató környezetet teremt a vízparti felfedezésekhez és a békés pillanatokhoz. A természet kedvelői különösen értékelni fogják a helyi vizek megnyugtató ritmusát. A korai érkezés lehetőséget ad arra, hogy zavartalanul élvezze ennek a csendes helynek a nyugalmát.", "category": "recreational", "coords": [-7.477271, 55.144559]}, {"name": "Neds Point Fort", "text": "19. századi napóleoni erőd Buncrana városában.", "category": "fortress", "coords": [-7.474693, 55.141126]}, {"name": "Buncrana Castle", "text": "1718-ban épült történelmi kastély Buncrana városában.", "category": "castle", "coords": [-7.464125, 55.139637]}, {"name": "O'Doherty's Keep", "text": "14. századi lakótorony Buncrana területén.", "category": "castle", "coords": [-7.462777, 55.139804]}, {"name": "Dermot & Grania's Bed", "text": "Ősi temetkezési hely vagy régészeti lelőhely Buncrana területén.", "category": "historical", "coords": [-7.439063, 55.114054]}, {"name": "Mouldy Hill", "text": "Helyi hegycsúcs kilátással Buncrana környékén.", "category": "natural", "coords": [-7.446171, 55.106088]}, {"name": "Christ Church", "text": "Keresztény templom és istentiszteleti hely Buncrana városában.", "category": "religious", "coords": [-7.453916, 55.134732]}, {"name": "St Mary's Oratory", "text": "Katolikus oratórium és istentiszteleti hely Buncrana városában.", "category": "religious", "coords": [-7.455958, 55.133374]}], "ro": [{"name": "Stragill Beach", "text": "Oferind o evadare senină de-a lungul coastei din apropiere de Buncrana, Stragill Beach dispune de o întindere minunată și expansivă de țărm nisipos. Această destinație își păstrează o senzație liniștită, neatinsă, recompensându-i frecvent pe cei care se aventurează aici cu un mediu pașnic pentru plimbări solitare sau ieșiri relaxate în familie. Înclinația ușoară spre apă o face o zonă primitoare pentru a vă răcori picioarele în timp ce admirați orizontul vast. Verificarea orelor locale ale mareelor vă asigură că aveți spațiu maxim pe plajă pentru un picnic de după-amiază.", "category": "recreational", "coords": [-7.489008, 55.156439]}, {"name": "Buncrana Beach", "text": "Situată de-a lungul coastei irlandeze, plaja Buncrana oferă o evadare revigorantă chiar lângă oraș. Vizitatorii se pot bucura de plimbări liniștite pe nisip sau pot admira atmosfera maritimă relaxantă. Acest loc asigură un cadru minunat pentru momente de liniște la malul apei. O vizită într-o zi senină dezvăluie adevăratul farmec al acestui țărm local.", "category": "recreational", "coords": [-7.466207, 55.116528]}, {"name": "Lisfannon Beach", "text": "Aflată în apropiere de Buncrana, Lisfannon Beach este o destinație de coastă irlandeză frumoasă. Cadrul natural îi invită pe oaspeți să se plimbe de-a lungul țărmului și să simtă briza oceanului. Este un loc ideal pentru cei care caută să se relaxeze departe de oraș. O haină mai groasă este recomandată pentru a admira peisajele de coastă indiferent de sezon.", "category": "recreational", "coords": [-7.481447, 55.095116]}, {"name": "Porthaw Beach", "text": "Plaja Porthaw completează frumos opțiunile de coastă din apropiere de Buncrana, Irlanda. Întinderea senină a țărmului oferă un mediu primitor pentru explorări și momente de pace la malul mării. Iubitorii de natură vor aprecia ritmul liniștitor al apelor locale. Sosind devreme, veți avea ocazia să experimentați liniștea netulburată a acestui loc retras.", "category": "recreational", "coords": [-7.477271, 55.144559]}, {"name": "Neds Point Fort", "text": "O fortăreață napoleoniană din secolul al XIX-lea în Buncrana.", "category": "fortress", "coords": [-7.474693, 55.141126]}, {"name": "Buncrana Castle", "text": "Un castel istoric construit în 1718 în Buncrana.", "category": "castle", "coords": [-7.464125, 55.139637]}, {"name": "O'Doherty's Keep", "text": "Un turn fortificat din secolul al XIV-lea în Buncrana.", "category": "castle", "coords": [-7.462777, 55.139804]}, {"name": "Dermot & Grania's Bed", "text": "Un sit arheologic sau mormânt antic în Buncrana.", "category": "historical", "coords": [-7.439063, 55.114054]}, {"name": "Mouldy Hill", "text": "Un vârf montan local cu vedere în Buncrana.", "category": "natural", "coords": [-7.446171, 55.106088]}, {"name": "Christ Church", "text": "O biserică creștină și loc de cult în Buncrana.", "category": "religious", "coords": [-7.453916, 55.134732]}, {"name": "St Mary's Oratory", "text": "Un oratoriu catolic și loc de cult în Buncrana.", "category": "religious", "coords": [-7.455958, 55.133374]}], "en": [{"name": "Stragill Beach", "text": "Offering a serene escape along the coastline near Buncrana, Stragill Beach features a lovely, expansive stretch of sandy shore. This destination retains a quiet, untouched feel, frequently rewarding those who venture here with a peaceful environment for solitary walks or relaxed family outings. The gentle incline into the water makes it an inviting area to cool off your feet while admiring the vast horizon. Checking local tide times ensures you have maximum beach space for an afternoon picnic.", "category": "recreational", "coords": [-7.489008, 55.156439]}, {"name": "Buncrana Beach", "text": "Situated along the scenic Irish coastline, Buncrana Beach offers a refreshing coastal escape right by the town of Buncrana. Visitors can enjoy peaceful strolls on the sand or simply take in the relaxing maritime atmosphere. It provides a wonderful setting for quiet reflection by the water. A visit during a clear day reveals the true charm of this local strand.", "category": "recreational", "coords": [-7.466207, 55.116528]}, {"name": "Lisfannon Beach", "text": "Located in the vicinity of Buncrana, Lisfannon Beach is a beautiful Irish coastal destination. The natural surroundings invite guests to wander along the shoreline and embrace the tranquil ocean breeze. It is an ideal spot for those looking to unwind away from the bustling town. Pack a warm layer to comfortably enjoy the coastal views year-round.", "category": "recreational", "coords": [-7.481447, 55.095116]}, {"name": "Porthaw Beach", "text": "Porthaw Beach gracefully complements the coastal offerings near Buncrana in Ireland. The serene stretch of shore provides a welcoming environment for shoreline exploration and peaceful seaside moments. Nature enthusiasts will appreciate the calming rhythm of the local waters. Arriving early allows you to experience the undisturbed tranquility of this quiet spot.", "category": "recreational", "coords": [-7.477271, 55.144559]}, {"name": "Neds Point Fort", "text": "A 19th-century Napoleonic fort located in Buncrana.", "category": "fortress", "coords": [-7.474693, 55.141126]}, {"name": "Buncrana Castle", "text": "A historic castle built in 1718 in Buncrana.", "category": "castle", "coords": [-7.464125, 55.139637]}, {"name": "O'Doherty's Keep", "text": "A 14th-century keep located in Buncrana.", "category": "castle", "coords": [-7.462777, 55.139804]}, {"name": "Dermot & Grania's Bed", "text": "An ancient burial site or archaeological site in Buncrana.", "category": "historical", "coords": [-7.439063, 55.114054]}, {"name": "Mouldy Hill", "text": "A local mountain peak with views in Buncrana.", "category": "natural", "coords": [-7.446171, 55.106088]}, {"name": "Christ Church", "text": "A Christian church and place of worship in Buncrana.", "category": "religious", "coords": [-7.453916, 55.134732]}, {"name": "St Mary's Oratory", "text": "A Catholic oratory and place of worship in Buncrana.", "category": "religious", "coords": [-7.455958, 55.133374]}]},
+    id: "ireland-buncrana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Der Stragill Beach bietet einen ruhigen Zufluchtsort an der Küste bei Buncrana und besticht durch einen herrlich weiten Sandstrand. Dieses Ausflugsziel bewahrt sich ein stilles, unberührtes Flair und belohnt alle, die sich hierher wagen, mit einer friedlichen Umgebung für einsame Spaziergänge oder entspannte Familienausflüge. Die sanfte Neigung ins Wasser macht es zu einem einladenden Ort, um sich die Füße abzukühlen, während man den weiten Horizont bewundert. Wer die örtlichen Gezeitenzeiten prüft, sichert sich den maximalen Strandplatz für ein nachmittägliches Picknick.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Dieser charmante Küstenabschnitt befindet sich direkt bei der irischen Stadt Buncrana. Besucher erwartet eine entspannte Atmosphäre, die zu gemütlichen Spaziergängen und ruhigen Momenten am Wasser einlädt. Buncrana Beach ist ein wunderbarer Ort, um die frische Meeresluft der Region zu genießen. Am besten lässt sich die raue Schönheit an einem klaren Nachmittag erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "In der Nähe von Buncrana gelegen, präsentiert sich Lisfannon Beach als ein malerisches Ziel an der irischen Küste. Die natürliche Umgebung lädt Gäste dazu ein, am Ufer entlangzuwandern und die sanfte Meeresbrise zu spüren. Es ist der ideale Ort für alle, die abseits der Stadt etwas Ruhe suchen. Warme Kleidung ist empfehlenswert, um die Küstenblicke das ganze Jahr über zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Porthaw Beach ergänzt das Küstenangebot rund um das irische Buncrana auf wunderbare Weise. Der ruhige Strandabschnitt bietet eine einladende Kulisse für Erkundungen am Wasser und friedliche Momente am Meer. Naturfreunde werden den beruhigenden Rhythmus der Wellen hier besonders schätzen. Wer früh am Tag anreist, kann die ungestörte Stille dieses friedlichen Ortes bestens auskosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "Festung aus dem 19. Jahrhundert am Lough Swilly in Buncrana, erbaut zur Abwehr französischer Invasionen.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "Ein Schloss mit Blick auf den Lough Swilly in Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "Bergfried der O'Doherty-Burgruine in Buncrana, Nationaldenkmal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Eine antike Grabstätte oder archäologische Stätte in Buncrana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "Ein runder Hügel nordwestlich des Dorfes Buncrana, landwirtschaftlich genutzt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Eine Kirche der Church of Ireland im Zentrum von Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "Ein kleines katholisches Oratorium, der Jungfrau Maria in Buncrana geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "A Buncrana közelében fekvő, békés menedéket nyújtó Stragill Beach egy kedves, tágas homokos partszakaszt kínál. Ez az úti cél megőrizte csendes, érintetlen hangulatát, gyakran megjutalmazva az ide merészkedőket egy békés környezettel a magányos sétákhoz vagy a nyugodt családi kirándulásokhoz. A vízbe vezető enyhe lejtő hívogató területté teszi a lábak lehűtéséhez, miközben a hatalmas horizontot csodáljuk. A helyi árapály időpontok ellenőrzése biztosítja, hogy maximális tengerparti tér álljon rendelkezésre egy délutáni piknikhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Buncrana városa mellett található ez a bájos ír tengerparti szakasz. A látogatók békés sétákat tehetnek a parton, és élvezhetik a nyugodt, tengeri atmoszférát. Kiváló helyszín a csendes kikapcsolódásra és a friss levegő belélegzésére. Érdemes egy tiszta napon érkezni, hogy teljes mértékben átéljük a hely varázsát.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "A Buncrana közelében fekvő Lisfannon Beach egy gyönyörű ír parti úti cél. A természetes környezet arra csábítja a vendégeket, hogy sétáljanak a vízparton, és élvezzék a hűs óceáni szellőt. Tökéletes választás azoknak, akik a város zajától távol szeretnének pihenni. Érdemes melegebb ruhával készülni, hogy bármely évszakban kényelmesen gyönyörködhessünk a kilátásban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "A Porthaw Beach nagyszerűen kiegészíti a Buncrana környéki ír tengerparti kínálatot. A nyugodt partszakasz hívogató környezetet teremt a vízparti felfedezésekhez és a békés pillanatokhoz. A természet kedvelői különösen értékelni fogják a helyi vizek megnyugtató ritmusát. A korai érkezés lehetőséget ad arra, hogy zavartalanul élvezze ennek a csendes helynek a nyugalmát.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "19. századi erőd a Lough Swilly-nél Buncranában, a francia inváziók elleni védekezésre épült.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "Kastély a Lough Swilly-re néző dombon Buncranában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "O'Doherty-várrom toronyépülete Buncranában, nemzeti emlékmű.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ősi temetkezési hely vagy régészeti lelőhely Buncrana területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "Kerek domb Buncrana falutól északnyugatra, mezőgazdasági hasznosítású.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Church of Ireland temploma Buncrana központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "Kis katolikus oratórium a Szűz Máriának szentelve Buncranában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Oferind o evadare senină de-a lungul coastei din apropiere de Buncrana, Stragill Beach dispune de o întindere minunată și expansivă de țărm nisipos. Această destinație își păstrează o senzație liniștită, neatinsă, recompensându-i frecvent pe cei care se aventurează aici cu un mediu pașnic pentru plimbări solitare sau ieșiri relaxate în familie. Înclinația ușoară spre apă o face o zonă primitoare pentru a vă răcori picioarele în timp ce admirați orizontul vast. Verificarea orelor locale ale mareelor vă asigură că aveți spațiu maxim pe plajă pentru un picnic de după-amiază.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Situată de-a lungul coastei irlandeze, plaja Buncrana oferă o evadare revigorantă chiar lângă oraș. Vizitatorii se pot bucura de plimbări liniștite pe nisip sau pot admira atmosfera maritimă relaxantă. Acest loc asigură un cadru minunat pentru momente de liniște la malul apei. O vizită într-o zi senină dezvăluie adevăratul farmec al acestui țărm local.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "Aflată în apropiere de Buncrana, Lisfannon Beach este o destinație de coastă irlandeză frumoasă. Cadrul natural îi invită pe oaspeți să se plimbe de-a lungul țărmului și să simtă briza oceanului. Este un loc ideal pentru cei care caută să se relaxeze departe de oraș. O haină mai groasă este recomandată pentru a admira peisajele de coastă indiferent de sezon.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Plaja Porthaw completează frumos opțiunile de coastă din apropiere de Buncrana, Irlanda. Întinderea senină a țărmului oferă un mediu primitor pentru explorări și momente de pace la malul mării. Iubitorii de natură vor aprecia ritmul liniștitor al apelor locale. Sosind devreme, veți avea ocazia să experimentați liniștea netulburată a acestui loc retras.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "Fortăreață din secolul al XIX-lea pe Lough Swilly în Buncrana, construită pentru apărarea împotriva invaziilor franceze.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "Un castel cu vedere spre Lough Swilly în Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "Donjon al ruinelor castelului O'Doherty în Buncrana, monument național.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un sit arheologic sau mormânt antic în Buncrana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "Un deal rotund la nord-vest de satul Buncrana, utilizat pentru agricultură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "O biserică a Bisericii Irlandei situată în centrul orașului Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "Un oratoriu catolic mic dedicat Fecioarei Maria în Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Offering a serene escape along the coastline near Buncrana, Stragill Beach features a lovely, expansive stretch of sandy shore. This destination retains a quiet, untouched feel, frequently rewarding those who venture here with a peaceful environment for solitary walks or relaxed family outings. The gentle incline into the water makes it an inviting area to cool off your feet while admiring the vast horizon. Checking local tide times ensures you have maximum beach space for an afternoon picnic.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Situated along the scenic Irish coastline, Buncrana Beach offers a refreshing coastal escape right by the town of Buncrana. Visitors can enjoy peaceful strolls on the sand or simply take in the relaxing maritime atmosphere. It provides a wonderful setting for quiet reflection by the water. A visit during a clear day reveals the true charm of this local strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "Located in the vicinity of Buncrana, Lisfannon Beach is a beautiful Irish coastal destination. The natural surroundings invite guests to wander along the shoreline and embrace the tranquil ocean breeze. It is an ideal spot for those looking to unwind away from the bustling town. Pack a warm layer to comfortably enjoy the coastal views year-round.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Porthaw Beach gracefully complements the coastal offerings near Buncrana in Ireland. The serene stretch of shore provides a welcoming environment for shoreline exploration and peaceful seaside moments. Nature enthusiasts will appreciate the calming rhythm of the local waters. Arriving early allows you to experience the undisturbed tranquility of this quiet spot.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "19th-century fort on Lough Swilly in Buncrana, built to defend against French invasions.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "A castle overlooking Lough Swilly in Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "Keep of O'Doherty castle ruins in Buncrana, a national monument.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "An ancient burial site or archaeological site in Buncrana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "A rounded hill northwest of Buncrana village, used for agriculture.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Church of Ireland church located in the centre of Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "A small Catholic oratory dedicated to the Virgin Mary in Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Buncrana", hu: "Buncrana", ro: "Buncrana", en: "Buncrana" },
@@ -14398,7 +19348,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Abbeyglen Castle Hotel",
-                  "text": "Ein luxuriöses Schlosshotel in Clifden.",
+                  "text": "Ein burgähnliches Hotel mit Blick auf die Clifden Bay.",
                   "category": "castle",
                   "coords": [
                         -10.031671,
@@ -14407,7 +19357,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Museum",
-                  "text": "Ein Museum im ehemaligen Bahnhofsgebäude von Clifden.",
+                  "text": "Ehemaliger Bahnhof von Clifden, heute Museum mit Exponaten zur Lokalgeschichte und Eisenbahn.",
                   "category": "museum",
                   "coords": [
                         -10.018149,
@@ -14416,7 +19366,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Letterdeen Standing Stone",
-                  "text": "Ein prähistorischer Menhir in der Nähe von Clifden.",
+                  "text": "Ein prähistorischer Menhir in der Townland Letterdeen bei Clifden.",
                   "category": "historical",
                   "coords": [
                         -10.040639,
@@ -14434,7 +19384,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Theatre",
-                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Clifden.",
+                  "text": "Das Station House Theatre in Clifden ist in einem ehemaligen Bahnhof untergebracht.",
                   "category": "cultural",
                   "coords": [
                         -10.017055,
@@ -14443,7 +19393,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Whitehorn Gallery",
-                  "text": "Eine Kunstgalerie, die lokale Werke in Clifden ausstellt.",
+                  "text": "The Whitehorn Gallery in Clifden zeigt zeitgenössische Kunst und Kunsthandwerk.",
                   "category": "museum",
                   "coords": [
                         -10.021029,
@@ -14452,7 +19402,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Hill",
-                  "text": "Ein Denkmal auf einem Hügel mit Blick auf Clifden.",
+                  "text": "Monument Hill in Clifden bietet einen Panoramablick über die Stadt und die Bucht.",
                   "category": "historical",
                   "coords": [
                         -10.032849,
@@ -14461,7 +19411,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Eine historische anglikanische Kirche in Clifden.",
+                  "text": "Eine Kirche der Church of Ireland in Clifden.",
                   "category": "religious",
                   "coords": [
                         -10.024449,
@@ -14470,7 +19420,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Joseph's",
-                  "text": "Eine katholische Kirche und Gebetsstätte in Clifden.",
+                  "text": "Eine römisch-katholische Kirche, die dem heiligen Josef in Clifden geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -10.019377,
@@ -14481,7 +19431,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Abbeyglen Castle Hotel",
-                  "text": "Luxus kastélyszálló Clifden városában.",
+                  "text": "Vár stílusú szálloda, amely a Clifden-öbölre néz.",
                   "category": "castle",
                   "coords": [
                         -10.031671,
@@ -14490,7 +19440,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Museum",
-                  "text": "Clifden egykori vasútállomásának épületében berendezett múzeum.",
+                  "text": "A clifdeni vasútállomás egykori épülete, ma múzeum helytörténeti és vasúti emlékekkel.",
                   "category": "museum",
                   "coords": [
                         -10.018149,
@@ -14499,7 +19449,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Letterdeen Standing Stone",
-                  "text": "Prehisztorikus állókő Clifden közelében.",
+                  "text": "Őskori álló kő Letterdeen településrészen, Clifden közelében.",
                   "category": "historical",
                   "coords": [
                         -10.040639,
@@ -14517,7 +19467,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Theatre",
-                  "text": "Helyi színházi előadások helyszíne Clifden városában.",
+                  "text": "A clifdeni Station House Theatre egykori vasútállomás épületében működik.",
                   "category": "cultural",
                   "coords": [
                         -10.017055,
@@ -14526,7 +19476,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Whitehorn Gallery",
-                  "text": "Helyi alkotásokat bemutató művészeti galéria Clifdenben.",
+                  "text": "A clifdeni Whitehorn Galéria kortárs művészetet és kézműves termékeket mutat be.",
                   "category": "museum",
                   "coords": [
                         -10.021029,
@@ -14535,7 +19485,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Hill",
-                  "text": "Emlékmű egy dombtetőn, kilátással Clifden városára.",
+                  "text": "A clifdeni Monument Hill panorámakilátást nyújt a városra és az öbölre.",
                   "category": "historical",
                   "coords": [
                         -10.032849,
@@ -14544,7 +19494,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Történelmi anglikán templom Clifden városában.",
+                  "text": "A Church of Ireland temploma Clifdenben.",
                   "category": "religious",
                   "coords": [
                         -10.024449,
@@ -14553,7 +19503,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Joseph's",
-                  "text": "Katolikus templom és istentiszteleti hely Clifden városában.",
+                  "text": "Szent Józsefnek szentelt római katolikus templom Clifdenben.",
                   "category": "religious",
                   "coords": [
                         -10.019377,
@@ -14564,7 +19514,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Abbeyglen Castle Hotel",
-                  "text": "Un hotel de lux într-un castel din Clifden.",
+                  "text": "Un hotel în formă de castel cu vedere spre Golful Clifden.",
                   "category": "castle",
                   "coords": [
                         -10.031671,
@@ -14573,7 +19523,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Museum",
-                  "text": "Un muzeu situat în fosta clădire a gării din Clifden.",
+                  "text": "Fosta gară din Clifden, transformată în muzeu cu exponate de istorie locală și feroviară.",
                   "category": "museum",
                   "coords": [
                         -10.018149,
@@ -14582,7 +19532,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Letterdeen Standing Stone",
-                  "text": "O piatră preistorică ridicată lângă Clifden.",
+                  "text": "Un menhir preistoric în townlandul Letterdeen lângă Clifden.",
                   "category": "historical",
                   "coords": [
                         -10.040639,
@@ -14600,7 +19550,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Theatre",
-                  "text": "Un loc local pentru spectacole de teatru în Clifden.",
+                  "text": "Teatrul Station House din Clifden este găzduit într-o fostă gară.",
                   "category": "cultural",
                   "coords": [
                         -10.017055,
@@ -14609,7 +19559,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Whitehorn Gallery",
-                  "text": "O galerie de artă care expune lucrări locale în Clifden.",
+                  "text": "Galeria Whitehorn din Clifden expune artă contemporană și meșteșuguri.",
                   "category": "museum",
                   "coords": [
                         -10.021029,
@@ -14618,7 +19568,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Hill",
-                  "text": "Un monument pe un deal cu vedere spre Clifden.",
+                  "text": "Monument Hill din Clifden oferă o panoramă asupra orașului și a golfului.",
                   "category": "historical",
                   "coords": [
                         -10.032849,
@@ -14627,7 +19577,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "O biserică anglicană istorică în Clifden.",
+                  "text": "O biserică a Bisericii Irlandei în Clifden.",
                   "category": "religious",
                   "coords": [
                         -10.024449,
@@ -14636,7 +19586,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Joseph's",
-                  "text": "O biserică catolică și loc de cult în Clifden.",
+                  "text": "O biserică romano-catolică dedicată Sfântului Iosif în Clifden.",
                   "category": "religious",
                   "coords": [
                         -10.019377,
@@ -14647,7 +19597,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Abbeyglen Castle Hotel",
-                  "text": "A luxury castle hotel located in Clifden.",
+                  "text": "A castellated hotel overlooking Clifden Bay.",
                   "category": "castle",
                   "coords": [
                         -10.031671,
@@ -14656,7 +19606,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Museum",
-                  "text": "A museum housed in the old railway station building of Clifden.",
+                  "text": "Former railway station turned museum displaying local history and railway memorabilia.",
                   "category": "museum",
                   "coords": [
                         -10.018149,
@@ -14665,7 +19615,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Letterdeen Standing Stone",
-                  "text": "A prehistoric standing stone located near Clifden.",
+                  "text": "A prehistoric standing stone in the townland of Letterdeen near Clifden.",
                   "category": "historical",
                   "coords": [
                         -10.040639,
@@ -14683,7 +19633,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Station House Theatre",
-                  "text": "A local venue for theatrical performances in Clifden.",
+                  "text": "Station House Theatre in Clifden is housed in a former railway station.",
                   "category": "cultural",
                   "coords": [
                         -10.017055,
@@ -14692,7 +19642,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "The Whitehorn Gallery",
-                  "text": "An art gallery exhibiting local works in Clifden.",
+                  "text": "The Whitehorn Gallery in Clifden exhibits contemporary art and crafts.",
                   "category": "museum",
                   "coords": [
                         -10.021029,
@@ -14701,7 +19651,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Hill",
-                  "text": "A monument on a hill overlooking Clifden.",
+                  "text": "Monument Hill in Clifden offers panoramic views over the town and the bay.",
                   "category": "historical",
                   "coords": [
                         -10.032849,
@@ -14710,7 +19660,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "A historic Anglican church in Clifden.",
+                  "text": "A Church of Ireland church in Clifden.",
                   "category": "religious",
                   "coords": [
                         -10.024449,
@@ -14719,7 +19669,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Joseph's",
-                  "text": "A Catholic church and place of worship in Clifden.",
+                  "text": "A Roman Catholic church dedicated to St. Joseph in Clifden.",
                   "category": "religious",
                   "coords": [
                         -10.019377,
@@ -15091,7 +20041,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mohona Enclosure",
-                  "text": "Eine antike archäologische Einfriedung in Dunmanway.",
+                  "text": "Mohona Enclosure bei Dunmanway ist eine eisenzeitliche Befestigung mit Graben.",
                   "category": "historical",
                   "coords": [
                         -9.10154,
@@ -15100,7 +20050,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Gunnery",
-                  "text": "Ein lokaler Berggipfel in der Gegend von Dunmanway.",
+                  "text": "Ein Hügel nahe Dunmanway, Teil der Shehy Mountains.",
                   "category": "natural",
                   "coords": [
                         -9.115385,
@@ -15109,7 +20059,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "Eine christliche Kirche in Dunmanway.",
+                  "text": "Eine Kirche der Church of Ireland in Dunmanway.",
                   "category": "religious",
                   "coords": [
                         -9.110371,
@@ -15118,7 +20068,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "Eine dem heiligen Patrick geweihte Kirche in Dunmanway.",
+                  "text": "Eine römisch-katholische Kirche, die dem heiligen Patrick in Dunmanway geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -9.105062,
@@ -15129,7 +20079,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mohona Enclosure",
-                  "text": "Ősi régészeti bekerített terület Dunmanway településén.",
+                  "text": "A Dunmanway melletti Mohona Enclosure egy vaskori erődítmény árokkal.",
                   "category": "historical",
                   "coords": [
                         -9.10154,
@@ -15138,7 +20088,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Gunnery",
-                  "text": "Helyi hegycsúcs Dunmanway környékén.",
+                  "text": "Domb Dunmanway közelében, a Shehy-hegység része.",
                   "category": "natural",
                   "coords": [
                         -9.115385,
@@ -15147,7 +20097,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "Keresztény templom Dunmanway településén.",
+                  "text": "A Church of Ireland temploma Dunmanwayben.",
                   "category": "religious",
                   "coords": [
                         -9.110371,
@@ -15156,7 +20106,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "Szent Patrik tiszteletére szentelt templom Dunmanway-ben.",
+                  "text": "Szent Patricknak szentelt római katolikus templom Dunmanwayben.",
                   "category": "religious",
                   "coords": [
                         -9.105062,
@@ -15167,7 +20117,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mohona Enclosure",
-                  "text": "O incintă arheologică antică în Dunmanway.",
+                  "text": "Închiderea Mohona de lângă Dunmanway este o fortificație din epoca fierului cu șanț.",
                   "category": "historical",
                   "coords": [
                         -9.10154,
@@ -15176,7 +20126,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Gunnery",
-                  "text": "Un vârf montan local în zona Dunmanway.",
+                  "text": "Un deal lângă Dunmanway, parte a Munților Shehy.",
                   "category": "natural",
                   "coords": [
                         -9.115385,
@@ -15185,7 +20135,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "O biserică creștină în Dunmanway.",
+                  "text": "O biserică a Bisericii Irlandei în Dunmanway.",
                   "category": "religious",
                   "coords": [
                         -9.110371,
@@ -15194,7 +20144,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "O biserică dedicată Sfântului Patrick în Dunmanway.",
+                  "text": "O biserică romano-catolică dedicată Sfântului Patrick în Dunmanway.",
                   "category": "religious",
                   "coords": [
                         -9.105062,
@@ -15205,7 +20155,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mohona Enclosure",
-                  "text": "An ancient archaeological enclosure in Dunmanway.",
+                  "text": "Mohona Enclosure near Dunmanway is an Iron Age fortification with a ditch.",
                   "category": "historical",
                   "coords": [
                         -9.10154,
@@ -15214,7 +20164,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Gunnery",
-                  "text": "A local mountain peak in the Dunmanway area.",
+                  "text": "A hill near Dunmanway, part of the Shehy Mountains range.",
                   "category": "natural",
                   "coords": [
                         -9.115385,
@@ -15223,7 +20173,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church",
-                  "text": "A Christian church in Dunmanway.",
+                  "text": "A Church of Ireland church in Dunmanway.",
                   "category": "religious",
                   "coords": [
                         -9.110371,
@@ -15232,7 +20182,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "St. Patrick's Church",
-                  "text": "A church dedicated to St. Patrick in Dunmanway.",
+                  "text": "A Roman Catholic church dedicated to St. Patrick in Dunmanway.",
                   "category": "religious",
                   "coords": [
                         -9.105062,
@@ -15775,7 +20725,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "St. Michael's Theatre",
-                  "text": "Ein Zentrum für darstellende Künste in New Ross.",
+                  "text": "St. Michael's Theatre in New Ross ist ein modernes Theater mit 500 Plätzen.",
                   "category": "cultural",
                   "coords": [
                         -6.945319,
@@ -15784,7 +20734,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Friary",
-                  "text": "Überreste einer historischen Klosteranlage in New Ross.",
+                  "text": "Friary, Kloster in New Ross, gegründet 1210.",
                   "category": "religious",
                   "coords": [
                         -6.947265,
@@ -15793,7 +20743,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Annaghs Castle",
-                  "text": "Eine historische Burgruine in der Nähe von New Ross.",
+                  "text": "Heritage-geschütztes Schloss aus dem 13. Jahrhundert bei New Ross.",
                   "category": "castle",
                   "coords": [
                         -6.967245,
@@ -15802,7 +20752,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Camlin Hill",
-                  "text": "Ein lokaler Hügel oder Gipfel bei New Ross.",
+                  "text": "Ein markanter Hügel nordöstlich von New Ross mit Blick auf das Barrow-Tal.",
                   "category": "natural",
                   "coords": [
                         -6.955127,
@@ -15811,7 +20761,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Daubney Fountain",
-                  "text": "Ein dekorativer Brunnen und Denkmal in New Ross.",
+                  "text": "Der Daubney-Brunnen in New Ross ist ein viktorianischer gusseiserner Brunnen aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -6.949625,
@@ -15829,7 +20779,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mountgarrett Castle",
-                  "text": "Die Ruinen einer mittelalterlichen Burg in New Ross.",
+                  "text": "Mountgarrett Castle bei New Ross ist eine normannische Burgruine auf einem Hügel.",
                   "category": "historical",
                   "coords": [
                         -6.935068,
@@ -15838,7 +20788,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Church",
-                  "text": "Eine historische Kirche, die der Heiligen Maria gewidmet ist.",
+                  "text": "Eine römisch-katholische Kirche in New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.940867,
@@ -15847,7 +20797,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St. Mary and St. Michael",
-                  "text": "Ein religiöses Gebäude und Gebetsstätte in New Ross.",
+                  "text": "Eine katholische Kirche, die sowohl der heiligen Maria als auch dem heiligen Michael in New Ross geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -6.943629,
@@ -15856,7 +20806,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Augustinian Church",
-                  "text": "Eine Kirche der Augustiner in New Ross.",
+                  "text": "Eine Augustinerkirche in New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.942544,
@@ -15865,7 +20815,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Assumption",
-                  "text": "Eine katholische Marienkirche in New Ross.",
+                  "text": "Eine römisch-katholische Kirche, die der Aufnahme Mariens in den Himmel in New Ross geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -6.953958,
@@ -15876,7 +20826,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "St. Michael's Theatre",
-                  "text": "Előadóművészeti központ New Ross városában.",
+                  "text": "A new ross-i St. Michael's Theatre egy modern színház 500 férőhellyel.",
                   "category": "cultural",
                   "coords": [
                         -6.945319,
@@ -15885,7 +20835,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Friary",
-                  "text": "Történelmi kolostoregyüttes maradványai New Rossban.",
+                  "text": "Friary kolostor New Rossban, alapítva 1210-ben.",
                   "category": "religious",
                   "coords": [
                         -6.947265,
@@ -15894,7 +20844,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Annaghs Castle",
-                  "text": "Történelmi várkastély romja New Ross közelében.",
+                  "text": "Örökségvédelmi kastély a 13. századból New Ross közelében.",
                   "category": "castle",
                   "coords": [
                         -6.967245,
@@ -15903,7 +20853,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Camlin Hill",
-                  "text": "Helyi domb vagy csúcs New Ross mellett.",
+                  "text": "Jellegzetes domb New Rosstól északkeletre, a Barrow-völgyre nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         -6.955127,
@@ -15912,7 +20862,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Daubney Fountain",
-                  "text": "Díszes szökőkút és emlékmű New Ross városában.",
+                  "text": "A New Ross-i Daubney-kút egy 19. századi viktoriánus, öntöttvasból készült kút.",
                   "category": "historical",
                   "coords": [
                         -6.949625,
@@ -15930,7 +20880,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mountgarrett Castle",
-                  "text": "Középkori várrom New Ross városában.",
+                  "text": "A New Ross melletti Mountgarrett-kastély egy normann várrom egy dombon.",
                   "category": "historical",
                   "coords": [
                         -6.935068,
@@ -15939,7 +20889,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Church",
-                  "text": "Szűz Máriának szentelt történelmi templom.",
+                  "text": "Római katolikus templom New Rossban.",
                   "category": "religious",
                   "coords": [
                         -6.940867,
@@ -15948,7 +20898,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St. Mary and St. Michael",
-                  "text": "Vallási épület és istentiszteleti hely New Rossban.",
+                  "text": "Katolikus templom New Rossban, mind Szűz Máriának, mind Szent Mihálynak szentelve.",
                   "category": "religious",
                   "coords": [
                         -6.943629,
@@ -15957,7 +20907,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Augustinian Church",
-                  "text": "Ágoston-rendi templom New Ross városában.",
+                  "text": "Ágoston-rendi templom New Rossban.",
                   "category": "religious",
                   "coords": [
                         -6.942544,
@@ -15966,7 +20916,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Assumption",
-                  "text": "Mária mennybevétele katolikus templom New Rossban.",
+                  "text": "Szűz Mária mennybevételének szentelt római katolikus templom New Rossban.",
                   "category": "religious",
                   "coords": [
                         -6.953958,
@@ -15977,7 +20927,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "St. Michael's Theatre",
-                  "text": "Un centru pentru artele spectacolului în New Ross.",
+                  "text": "Teatrul Sf. Mihail din New Ross este un teatru modern cu 500 de locuri.",
                   "category": "cultural",
                   "coords": [
                         -6.945319,
@@ -15986,7 +20936,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Friary",
-                  "text": "Rămășițele unei mănăstiri istorice în New Ross.",
+                  "text": "Mănăstirea Friary din New Ross, fondată în 1210.",
                   "category": "religious",
                   "coords": [
                         -6.947265,
@@ -15995,7 +20945,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Annaghs Castle",
-                  "text": "O ruină de castel istoric lângă New Ross.",
+                  "text": "Castel protejat de patrimoniu din secolul al XIII-lea lângă New Ross.",
                   "category": "castle",
                   "coords": [
                         -6.967245,
@@ -16004,7 +20954,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Camlin Hill",
-                  "text": "Un deal sau vârf local lângă New Ross.",
+                  "text": "Un deal proeminent la nord-est de New Ross, cu vedere spre Valea Barrow.",
                   "category": "natural",
                   "coords": [
                         -6.955127,
@@ -16013,7 +20963,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Daubney Fountain",
-                  "text": "O fântână decorativă și monument în New Ross.",
+                  "text": "Fântâna Daubney din New Ross este o fântână victoriană din fontă din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         -6.949625,
@@ -16031,7 +20981,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mountgarrett Castle",
-                  "text": "Ruinele unui castel medieval în New Ross.",
+                  "text": "Castelul Mountgarrett de lângă New Ross este o ruină normandă pe un deal.",
                   "category": "historical",
                   "coords": [
                         -6.935068,
@@ -16040,7 +20990,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Church",
-                  "text": "O biserică istorică dedicată Sfintei Maria.",
+                  "text": "O biserică romano-catolică în New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.940867,
@@ -16049,7 +20999,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St. Mary and St. Michael",
-                  "text": "O clădire religioasă și loc de cult în New Ross.",
+                  "text": "O biserică catolică dedicată atât Sfintei Maria cât și Sfântului Mihail în New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.943629,
@@ -16067,7 +21017,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Assumption",
-                  "text": "O biserică catolică dedicată Adormirii Maicii Domnului în New Ross.",
+                  "text": "O biserică romano-catolică dedicată Adormirii Maicii Domnului în New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.953958,
@@ -16078,7 +21028,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "St. Michael's Theatre",
-                  "text": "A performing arts center in New Ross.",
+                  "text": "St. Michael's Theatre in New Ross is a modern theatre seating 500.",
                   "category": "cultural",
                   "coords": [
                         -6.945319,
@@ -16087,7 +21037,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Friary",
-                  "text": "Remains of a historic monastery complex in New Ross.",
+                  "text": "Friary, monastery in New Ross, founded in 1210.",
                   "category": "religious",
                   "coords": [
                         -6.947265,
@@ -16096,7 +21046,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Annaghs Castle",
-                  "text": "A historic castle ruin near New Ross.",
+                  "text": "Heritage-listed 13th-century castle near New Ross.",
                   "category": "castle",
                   "coords": [
                         -6.967245,
@@ -16105,7 +21055,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Camlin Hill",
-                  "text": "A local hill or peak near New Ross.",
+                  "text": "A prominent hill northeast of New Ross, offering views of the Barrow Valley.",
                   "category": "natural",
                   "coords": [
                         -6.955127,
@@ -16114,7 +21064,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Daubney Fountain",
-                  "text": "A decorative fountain and monument in New Ross.",
+                  "text": "Daubney Fountain in New Ross is a 19th-century Victorian cast-iron fountain.",
                   "category": "historical",
                   "coords": [
                         -6.949625,
@@ -16132,7 +21082,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Mountgarrett Castle",
-                  "text": "The ruins of a medieval castle in New Ross.",
+                  "text": "Mountgarrett Castle near New Ross is a Norman castle ruin on a hill.",
                   "category": "historical",
                   "coords": [
                         -6.935068,
@@ -16141,7 +21091,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Mary's Church",
-                  "text": "A historic church dedicated to Saint Mary.",
+                  "text": "A Roman Catholic church in New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.940867,
@@ -16150,7 +21100,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of St. Mary and St. Michael",
-                  "text": "A religious building and place of worship in New Ross.",
+                  "text": "A Catholic church dedicated to both St. Mary and St. Michael in New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.943629,
@@ -16159,7 +21109,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Augustinian Church",
-                  "text": "An Augustinian church located in New Ross.",
+                  "text": "An Augustinian church in New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.942544,
@@ -16168,7 +21118,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Assumption",
-                  "text": "A Catholic church of the Assumption in New Ross.",
+                  "text": "A Roman Catholic church dedicated to the Assumption of the Virgin Mary in New Ross.",
                   "category": "religious",
                   "coords": [
                         -6.953958,
@@ -16333,7 +21283,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Church",
-                  "text": "Historische Kirchenruinen in der Stadt Roscrea.",
+                  "text": "Ruinen einer mittelalterlichen Kirche in Roscrea, geschützt als Nationaldenkmal.",
                   "category": "historical",
                   "coords": [
                         -7.79566,
@@ -16360,7 +21310,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ashbury Sign",
-                  "text": "Ein lokales Denkmal oder Wegweiser in Roscrea.",
+                  "text": "Das Ashbury-Schild in Roscrea ist ein historisches Werbeschild für Ashbury's Limonade.",
                   "category": "historical",
                   "coords": [
                         -7.787742,
@@ -16369,7 +21319,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Methodist Church",
-                  "text": "Ein methodistisches Kirchengebäude in Roscrea.",
+                  "text": "Eine methodistische Kirche in der Hauptstraße von Roscrea.",
                   "category": "religious",
                   "coords": [
                         -7.797815,
@@ -16378,7 +21328,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "Eine traditionelle heilige Quelle in Roscrea.",
+                  "text": "Heiliger Brunnen in Roscrea mit Steinbau, geschützt als Nationaldenkmal.",
                   "category": "landmark",
                   "coords": [
                         -7.829148,
@@ -16416,7 +21366,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Church",
-                  "text": "Történelmi templomromok Roscrea városában.",
+                  "text": "Középkori templomrom Roscreában, nemzeti emlékmű.",
                   "category": "historical",
                   "coords": [
                         -7.79566,
@@ -16443,7 +21393,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ashbury Sign",
-                  "text": "Helyi emlékmű vagy jelzőtábla Roscrea területén.",
+                  "text": "A roscreai Ashbury-tábla egy történelmi reklámtábla az Ashbury limonádéhoz.",
                   "category": "historical",
                   "coords": [
                         -7.787742,
@@ -16452,7 +21402,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Methodist Church",
-                  "text": "Metodista templomépület Roscrea városában.",
+                  "text": "Metodista templom Roscrea főutcáján.",
                   "category": "religious",
                   "coords": [
                         -7.797815,
@@ -16461,7 +21411,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "Hagyományos szent kút Roscrea területén.",
+                  "text": "Szent kút Roscreában kőszerkezettel, nemzeti emlékmű.",
                   "category": "landmark",
                   "coords": [
                         -7.829148,
@@ -16499,7 +21449,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Church",
-                  "text": "Ruine istorice de biserică în orașul Roscrea.",
+                  "text": "Ruinele unei biserici medievale în Roscrea, monument național.",
                   "category": "historical",
                   "coords": [
                         -7.79566,
@@ -16526,7 +21476,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ashbury Sign",
-                  "text": "Un monument sau semn local în Roscrea.",
+                  "text": "Indicatorul Ashbury din Roscrea este un panou publicitar istoric pentru limonada Ashbury.",
                   "category": "historical",
                   "coords": [
                         -7.787742,
@@ -16535,7 +21485,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Methodist Church",
-                  "text": "O clădire a bisericii metodiste în Roscrea.",
+                  "text": "O biserică metodistă situată pe strada principală din Roscrea.",
                   "category": "religious",
                   "coords": [
                         -7.797815,
@@ -16544,7 +21494,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "Un izvor sfânt tradițional în Roscrea.",
+                  "text": "Fântână sfântă în Roscrea, cu o structură de piatră, monument național.",
                   "category": "landmark",
                   "coords": [
                         -7.829148,
@@ -16582,7 +21532,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscrea Church",
-                  "text": "Historic church ruins in the town of Roscrea.",
+                  "text": "Ruins of a medieval church in Roscrea, a national monument.",
                   "category": "historical",
                   "coords": [
                         -7.79566,
@@ -16609,7 +21559,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ashbury Sign",
-                  "text": "A local monument or sign in Roscrea.",
+                  "text": "The Ashbury Sign in Roscrea is a historic advertising sign for Ashbury's lemonade.",
                   "category": "historical",
                   "coords": [
                         -7.787742,
@@ -16618,7 +21568,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Methodist Church",
-                  "text": "A Methodist church building in Roscrea.",
+                  "text": "A Methodist church located on the main street of Roscrea.",
                   "category": "religious",
                   "coords": [
                         -7.797815,
@@ -16627,7 +21577,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lady's Well",
-                  "text": "A traditional holy well or spring in Roscrea.",
+                  "text": "Holy well in Roscrea with a stone structure, a national monument.",
                   "category": "landmark",
                   "coords": [
                         -7.829148,
@@ -16693,7 +21643,7 @@ export const irelandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Knocknalappa Lough",
-                  "text": "Knocknalappa Lough bei Shannon ist ein ruhiger See.",
+                  "text": "Knocknalappa Lough ist ein flacher See bei Shannon, bekannt für seine Vogelwelt.",
                   "category": "natural",
                   "coords": [
                         -8.818909,
@@ -16702,7 +21652,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscoe Lough",
-                  "text": "Roscoe Lough bei Shannon ist ein schönes Gewässer.",
+                  "text": "Roscoe Lough ist ein kleiner See in der Nähe von Shannon im Burren-Gebiet.",
                   "category": "natural",
                   "coords": [
                         -8.836546,
@@ -16711,7 +21661,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Gash",
-                  "text": "Lough Gash bei Shannon ist ein malerischer See.",
+                  "text": "Lough Gash ist ein flacher Karstsee bei Shannon mit sumpfigen Ufern.",
                   "category": "natural",
                   "coords": [
                         -8.901174,
@@ -16720,7 +21670,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballygunneen Lough",
-                  "text": "Ballygunneen Lough bei Shannon ist ein idyllischer See.",
+                  "text": "Ballygunneen Lough, ein natürlicher See nahe Shannon, von Feldern umgeben.",
                   "category": "natural",
                   "coords": [
                         -8.840405,
@@ -16729,7 +21679,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Granaghanbeg Lough",
-                  "text": "Granaghanbeg Lough bei Shannon ist ein friedlicher See.",
+                  "text": "Granaghanbeg Lough, ein ruhiger natürlicher See in der Nähe von Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.86796,
@@ -16738,7 +21688,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballycar Lough",
-                  "text": "Ballycar Lough bei Shannon ist ein schöner See.",
+                  "text": "Ballycar Lough, ein natürlicher See mit Schilfbeständen nahe Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.870005,
@@ -16747,7 +21697,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rosroe Lough",
-                  "text": "Rosroe Lough bei Shannon ist ein ruhiger See.",
+                  "text": "Rosroe Lough, ein kleiner natürlicher See in der Shannon-Region.",
                   "category": "natural",
                   "coords": [
                         -8.8241,
@@ -16767,7 +21717,7 @@ export const irelandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Knocknalappa Lough",
-                  "text": "A shannoni Knocknalappa Lough egy nyugodt tó.",
+                  "text": "A Knocknalappa-tó egy sekély tó Shannon közelében, madárvilágáról ismert.",
                   "category": "natural",
                   "coords": [
                         -8.818909,
@@ -16776,7 +21726,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscoe Lough",
-                  "text": "A shannoni Roscoe Lough egy szép állóvíz.",
+                  "text": "A Roscoe-tó egy kicsi tó Shannon közelében, a Burren vidékén.",
                   "category": "natural",
                   "coords": [
                         -8.836546,
@@ -16785,7 +21735,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Gash",
-                  "text": "A shannoni Lough Gash egy festői tó.",
+                  "text": "Lough Gash egy sekély karszt-tó Shannon közelében, mocsaras partokkal.",
                   "category": "natural",
                   "coords": [
                         -8.901174,
@@ -16794,7 +21744,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballygunneen Lough",
-                  "text": "A shannoni Ballygunneen Lough egy idilli tó.",
+                  "text": "Ballygunneen Lough egy természetes tó Shannon közelében, mezőkkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -8.840405,
@@ -16803,7 +21753,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Granaghanbeg Lough",
-                  "text": "A shannoni Granaghanbeg Lough egy békés tó.",
+                  "text": "Granaghanbeg Lough egy csendes természetes tó Shannon közelében.",
                   "category": "natural",
                   "coords": [
                         -8.86796,
@@ -16812,7 +21762,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballycar Lough",
-                  "text": "A shannoni Ballycar Lough egy szép tó.",
+                  "text": "Ballycar Lough egy természetes tó Shannon közelében, nádasokkal.",
                   "category": "natural",
                   "coords": [
                         -8.870005,
@@ -16821,7 +21771,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rosroe Lough",
-                  "text": "A shannoni Rosroe Lough egy csendes tó.",
+                  "text": "Rosroe Lough egy kicsi természetes tó a Shannon régióban.",
                   "category": "natural",
                   "coords": [
                         -8.8241,
@@ -16841,7 +21791,7 @@ export const irelandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Knocknalappa Lough",
-                  "text": "Knocknalappa Lough de lângă Shannon este un lac liniștit.",
+                  "text": "Lacul Knocknalappa este un lac puțin adânc lângă Shannon, cunoscut pentru păsări.",
                   "category": "natural",
                   "coords": [
                         -8.818909,
@@ -16850,7 +21800,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscoe Lough",
-                  "text": "Roscoe Lough de lângă Shannon este o apă frumoasă.",
+                  "text": "Lacul Roscoe este un lac mic lângă Shannon, în zona Burren.",
                   "category": "natural",
                   "coords": [
                         -8.836546,
@@ -16859,7 +21809,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Gash",
-                  "text": "Lough Gash de lângă Shannon este un lac pitoresc.",
+                  "text": "Lough Gash este un lac carstic puțin adânc lângă Shannon, cu maluri mlăștinoase.",
                   "category": "natural",
                   "coords": [
                         -8.901174,
@@ -16868,7 +21818,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballygunneen Lough",
-                  "text": "Ballygunneen Lough de lângă Shannon este un lac idilic.",
+                  "text": "Ballygunneen Lough, un lac natural lângă Shannon, înconjurat de câmpuri.",
                   "category": "natural",
                   "coords": [
                         -8.840405,
@@ -16877,7 +21827,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Granaghanbeg Lough",
-                  "text": "Granaghanbeg Lough de lângă Shannon este un lac liniștit.",
+                  "text": "Granaghanbeg Lough, un lac natural liniștit lângă Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.86796,
@@ -16886,7 +21836,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballycar Lough",
-                  "text": "Ballycar Lough de lângă Shannon este un lac frumos.",
+                  "text": "Ballycar Lough, un lac natural cu stuf lângă Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.870005,
@@ -16895,7 +21845,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rosroe Lough",
-                  "text": "Rosroe Lough de lângă Shannon este un lac liniștit.",
+                  "text": "Rosroe Lough, un mic lac natural în regiunea Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.8241,
@@ -16915,7 +21865,7 @@ export const irelandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Knocknalappa Lough",
-                  "text": "Knocknalappa Lough near Shannon is a quiet lake.",
+                  "text": "Knocknalappa Lough is a shallow lake near Shannon, known for birdlife.",
                   "category": "natural",
                   "coords": [
                         -8.818909,
@@ -16924,7 +21874,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Roscoe Lough",
-                  "text": "Roscoe Lough near Shannon is a beautiful body of water.",
+                  "text": "Roscoe Lough is a small lake near Shannon in the Burren region.",
                   "category": "natural",
                   "coords": [
                         -8.836546,
@@ -16933,7 +21883,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Lough Gash",
-                  "text": "Lough Gash near Shannon is a picturesque lake.",
+                  "text": "Lough Gash is a shallow karst lake near Shannon with marshy shores.",
                   "category": "natural",
                   "coords": [
                         -8.901174,
@@ -16942,7 +21892,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballygunneen Lough",
-                  "text": "Ballygunneen Lough near Shannon is an idyllic lake.",
+                  "text": "Ballygunneen Lough, a natural lake near Shannon, surrounded by farmland.",
                   "category": "natural",
                   "coords": [
                         -8.840405,
@@ -16951,7 +21901,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Granaghanbeg Lough",
-                  "text": "Granaghanbeg Lough near Shannon is a peaceful lake.",
+                  "text": "Granaghanbeg Lough, a tranquil natural lake near Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.86796,
@@ -16960,7 +21910,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Ballycar Lough",
-                  "text": "Ballycar Lough near Shannon is a beautiful lake.",
+                  "text": "Ballycar Lough, a natural lake with reedbeds near Shannon.",
                   "category": "natural",
                   "coords": [
                         -8.870005,
@@ -16969,7 +21919,7 @@ export const irelandCitiesV2: POI[] = [
             },
             {
                   "name": "Rosroe Lough",
-                  "text": "Rosroe Lough near Shannon is a quiet lake.",
+                  "text": "Rosroe Lough, a small natural lake in the Shannon region.",
                   "category": "natural",
                   "coords": [
                         -8.8241,

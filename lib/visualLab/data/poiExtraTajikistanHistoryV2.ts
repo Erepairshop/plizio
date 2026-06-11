@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTajikistanHistoryV2: POI[] = [
   {
-    id: "tj-hissar-fortress-history-v2",
+    id: "tj-hissar-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zabroshennaia Mechet'",
+                  "text": "Die Zabroshennaia Mechet' ist eine verlassene Moschee, die als historische Ruine in der Nähe der Festung Hissar dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.601006,
+                        38.482691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zabroshennaia Mechet'",
+                  "text": "A Zabroshennaia Mechet' egy elhagyatott mecset, amely történelmi romként szolgál Hiszor erődítményének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        68.601006,
+                        38.482691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zabroshennaia Mechet'",
+                  "text": "Zabroshennaia Mechet' este o moschee abandonată, ce servește drept ruină istorică lângă fortăreața Hissar.",
+                  "category": "landmark",
+                  "coords": [
+                        68.601006,
+                        38.482691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zabroshennaia Mechet'",
+                  "text": "The Zabroshennaia Mechet' is an abandoned mosque that remains as a historic ruin near the Hissar fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        68.601006,
+                        38.482691
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TJ-RR",
     coords: [68.5992, 38.5361],
@@ -51,7 +96,124 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-sarazm-history-v2",
+    id: "tj-sarazm-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sarazm",
+                  "text": "Diese archäologische UNESCO-Welterbestätte bewahrt die Ruinen einer antiken protourbanen Siedlung, die bis ins 4. Jahrtausend v. Chr. zurückreicht.",
+                  "category": "historical",
+                  "coords": [
+                        67.460027,
+                        39.50787
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine lokale islamische Freitagsmoschee, die sich in der Nähe der antiken archäologischen Zonen von Sarazm befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.418572,
+                        39.428639
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Diese bescheidene Nachbarschaftsmoschee dient als ruhiger islamischer Gebetsraum für die lokale Bevölkerung von Sarazm.",
+                  "category": "landmark",
+                  "coords": [
+                        67.404141,
+                        39.538002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarazm",
+                  "text": "Ez az UNESCO Világörökség részét képező régészeti lelőhely egy ősi, a Kr. e. 4. évezredből származó proto-urbánus település romjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        67.460027,
+                        39.50787
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Egy helyi iszlám gyülekezeti mecset, amely a sarazmi ősi régészeti zónák közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        67.418572,
+                        39.428639
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ez a szerény környékbeli mecset csendes iszlám imateremként szolgál a helyi sarazmi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        67.404141,
+                        39.538002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarazm",
+                  "text": "Acest sit arheologic din Patrimoniul Mondial UNESCO păstrează ruinele unei așezări proto-urbane antice care datează din mileniul al IV-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        67.460027,
+                        39.50787
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee islamică congregațională locală situată în apropierea zonelor arheologice antice din Sarazm.",
+                  "category": "landmark",
+                  "coords": [
+                        67.418572,
+                        39.428639
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Această moschee modestă de cartier servește ca un spațiu liniștit de rugăciune islamică pentru populația locală din Sarazm.",
+                  "category": "landmark",
+                  "coords": [
+                        67.404141,
+                        39.538002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarazm",
+                  "text": "This UNESCO World Heritage archaeological site preserves the ruins of an ancient proto-urban settlement dating back to the 4th millennium BC.",
+                  "category": "historical",
+                  "coords": [
+                        67.460027,
+                        39.50787
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A local congregational Islamic mosque situated near the ancient archaeological zones of Sarazm.",
+                  "category": "landmark",
+                  "coords": [
+                        67.418572,
+                        39.428639
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This modest neighbourhood mosque serves as a quiet Islamic prayer space for the local Sarazm populace.",
+                  "category": "landmark",
+                  "coords": [
+                        67.404141,
+                        39.538002
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TJ-SU",
     coords: [67.4583, 39.5056],
@@ -99,7 +261,520 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-ancient-penjikent-history-v2",
+    id: "tj-ancient-penjikent-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "Der Pfad zur archäologischen Stätte bietet einen Aussichtspunkt auf das historische Pandschakent.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "monument <<Firdausi>>",
+                  "text": "Das Denkmal von „Firdavsi“ ehrt eine historische Figur in Pandschakent.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Oigul Mukhammadchonova",
+                  "text": "Oigul Muhammadjonova ist eine lokale Sehenswürdigkeit im antiken Pandschakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Tsitadel'",
+                  "text": "Die Zitadelle ist eine befestigte historische Attraktion im antiken Pandschakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "Ancient Panjakent Main Entry Point",
+                  "text": "Der Haupteingang zum antiken Pandschakent markiert den Beginn der archäologischen Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        67.621901,
+                        39.48525
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "Der sogdische Felsen ist ein bekannter Aussichtspunkt im historischen Pandschakent.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "Die Attraktion Loik Sherali ist dem Gedenken im antiken Pandschakent gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "Das Devastich-Denkmal ist eine markante Sehenswürdigkeit im antiken Pandschakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Drevnik Pendzhikent",
+                  "text": "Das antike Pandschakent ist eine faszinierende archäologische und historische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        67.617969,
+                        39.485766
+                  ]
+            },
+            {
+                  "name": "Abu-Abdullah-Rudaki-Museum",
+                  "text": "Das Rudaki History Museum stellt Exponate zur Geschichte des antiken Pandschakent aus.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "Parki Rudaki ist ein Themenpark zur Erholung im antiken Pandschakent.",
+                  "category": "recreational",
+                  "coords": [
+                        67.61089,
+                        39.496269
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet' im. \"Olimi Dodkho\"",
+                  "text": "Die zentrale Moschee \"Olimi Dodkho\" ist eine wichtige muslimische Stätte in Pandschakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616023,
+                        39.498284
+                  ]
+            },
+            {
+                  "name": "Vegetable and fruit market",
+                  "text": "Der Gemüse- und Obstmarkt bietet frische lokale Produkte im antiken Pandschakent.",
+                  "category": "cultural",
+                  "coords": [
+                        67.609777,
+                        39.496401
+                  ]
+            },
+            {
+                  "name": "khamam Kavola",
+                  "text": "Das Khamam Kavola ist ein traditionelles öffentliches Bad im antiken Pandschakent.",
+                  "category": "recreational",
+                  "coords": [
+                        67.643106,
+                        39.49694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "A régészeti lelőhelyhez vezető ösvény kilátópontot kínál a történelmi Pandzsakentre.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "monument <<Firdausi>>",
+                  "text": "A „Firdavsi” emlékmű egy történelmi alakot tisztel meg Pandzsakentben.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Oigul Mukhammadchonova",
+                  "text": "Oigul Muhammadjonova egy helyi látványosság az ősi Pandzsakentben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Tsitadel'",
+                  "text": "A Fellegvár egy megerősített történelmi látványosság az ősi Pandzsakentben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "Ancient Panjakent Main Entry Point",
+                  "text": "Az ősi Pandzsakent főbejárata jelzi a régészeti lelőhely kezdetét.",
+                  "category": "historical",
+                  "coords": [
+                        67.621901,
+                        39.48525
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "A szogd szikla egy ismert kilátópont a történelmi Pandzsakentben.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "A Loik Sherali látványosság a megemlékezésnek van szentelve az ősi Pandzsakentben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "A Devasztics-emlékmű egy feltűnő látványosság az ősi Pandzsakentben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Drevnik Pendzhikent",
+                  "text": "Az ősi Pandzsakent egy lenyűgöző régészeti és történelmi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        67.617969,
+                        39.485766
+                  ]
+            },
+            {
+                  "name": "Muzei im. A. Rudaki",
+                  "text": "A Rudaki Történelmi Múzeum kiállításokat mutat be az ősi Pandzsakent történelméről.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "A Parki Rudaki egy tematikus park a pihenésre az ősi Pandzsakentben.",
+                  "category": "recreational",
+                  "coords": [
+                        67.61089,
+                        39.496269
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet' im. \"Olimi Dodkho\"",
+                  "text": "Az \"Olimi Dodkho\" központi mecset egy fontos muszlim helyszín Pandzsakentben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616023,
+                        39.498284
+                  ]
+            },
+            {
+                  "name": "Vegetable and fruit market",
+                  "text": "A zöldség- és gyümölcspiac friss helyi termékeket kínál az ősi Pandzsakentben.",
+                  "category": "cultural",
+                  "coords": [
+                        67.609777,
+                        39.496401
+                  ]
+            },
+            {
+                  "name": "khamam Kavola",
+                  "text": "A Khamam Kavola egy hagyományos nyilvános fürdő az ősi Pandzsakentben.",
+                  "category": "recreational",
+                  "coords": [
+                        67.643106,
+                        39.49694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "Calea către situl arheologic oferă un punct de belvedere asupra anticului Panjakent.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "monument <<Firdausi>>",
+                  "text": "Monumentul lui „Firdavsi” onorează o figură istorică în Panjakent.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Oigul Mukhammadchonova",
+                  "text": "Oigul Muhammadjonova este o atracție locală în anticul Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Tsitadel'",
+                  "text": "Cetatea este o atracție istorică fortificată în anticul Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "Ancient Panjakent Main Entry Point",
+                  "text": "Punctul principal de intrare în anticul Panjakent marchează începutul sitului arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        67.621901,
+                        39.48525
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "Stânca sogdiană este un punct de belvedere cunoscut în anticul Panjakent.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "Atracția Loik Sherali este dedicată memoriei în anticul Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "Monumentul Devastich este o atracție proeminentă în anticul Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Drevnik Pendzhikent",
+                  "text": "Anticul Panjakent este o atracție arheologică și istorică fascinantă.",
+                  "category": "landmark",
+                  "coords": [
+                        67.617969,
+                        39.485766
+                  ]
+            },
+            {
+                  "name": "Muzei im. A. Rudaki",
+                  "text": "Muzeul de Istorie Rudaki prezintă exponate despre istoria anticului Panjakent.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "Parki Rudaki este un parc tematic pentru recreere în anticul Panjakent.",
+                  "category": "recreational",
+                  "coords": [
+                        67.61089,
+                        39.496269
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet' im. \"Olimi Dodkho\"",
+                  "text": "Moscheea centrală \"Olimi Dodkho\" este un important loc musulman în Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616023,
+                        39.498284
+                  ]
+            },
+            {
+                  "name": "Vegetable and fruit market",
+                  "text": "Piața de legume și fructe oferă produse locale proaspete în anticul Panjakent.",
+                  "category": "cultural",
+                  "coords": [
+                        67.609777,
+                        39.496401
+                  ]
+            },
+            {
+                  "name": "khamam Kavola",
+                  "text": "Khamam Kavola este o baie publică tradițională în anticul Panjakent.",
+                  "category": "recreational",
+                  "coords": [
+                        67.643106,
+                        39.49694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "The Path to Archeological Site offers a viewpoint over the historical Ancient Panjakent.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "monument of “Firdavsi”",
+                  "text": "The monument of “Firdavsi” honors a historical figure in Ancient Panjakent.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Oigul Muhammadjonova",
+                  "text": "Oigul Muhammadjonova is a local attraction within Ancient Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "The Citadel is a fortified historical attraction in Ancient Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "Ancient Panjakent Main Entry Point",
+                  "text": "The Ancient Panjakent Main Entry Point marks the beginning of the archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        67.621901,
+                        39.48525
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "Sogdian Rock is a well-known viewpoint in Ancient Panjakent.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "The Loik Sherali attraction is dedicated to memory within Ancient Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "The Devastich monument is a prominent attraction in Ancient Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Ancient Panjakent",
+                  "text": "Ancient Panjakent is a fascinating archaeological and historical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        67.617969,
+                        39.485766
+                  ]
+            },
+            {
+                  "name": "Rudaki History Museum",
+                  "text": "The Rudaki History Museum features exhibits on the history of Ancient Panjakent.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "Parki Rudaki is a theme park for recreation in Ancient Panjakent.",
+                  "category": "recreational",
+                  "coords": [
+                        67.61089,
+                        39.496269
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet' im. \"Olimi Dodkho\"",
+                  "text": "The Central Mosque \"Olimi Dodkho\" is a major Muslim site in Ancient Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616023,
+                        39.498284
+                  ]
+            },
+            {
+                  "name": "Vegetable and fruit market",
+                  "text": "The Vegetable and fruit market offers fresh local produce in Ancient Panjakent.",
+                  "category": "cultural",
+                  "coords": [
+                        67.609777,
+                        39.496401
+                  ]
+            },
+            {
+                  "name": "khamam Kavola",
+                  "text": "The khamam Kavola is a traditional public bath in Ancient Panjakent.",
+                  "category": "recreational",
+                  "coords": [
+                        67.643106,
+                        39.49694
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TJ-SU",
     coords: [67.6258, 39.4897],
@@ -147,7 +822,52 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-hulbuk-palace-history-v2",
+    id: "tj-hulbuk-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Graveyard memorial",
+                  "text": "Eine traditionelle islamische Gedenkstätte in der Nähe der historischen Ruinen des Hulbuk-Palastes in Tadschikistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.738033,
+                        37.845142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Graveyard memorial",
+                  "text": "Hagyományos iszlám emlékhely a tádzsikisztáni Hulbuk palota történelmi romjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.738033,
+                        37.845142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Graveyard memorial",
+                  "text": "Un site memorial islamic tradițional situat lângă ruinele istorice ale Palatului Hulbuk din Tadjikistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.738033,
+                        37.845142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Graveyard memorial",
+                  "text": "A traditional Islamic memorial site situated near the historic ruins of Hulbuk Palace in Tajikistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.738033,
+                        37.845142
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TJ-KT",
     coords: [69.7547, 37.7781],
@@ -195,7 +915,124 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-ajina-tepa-history-v2",
+    id: "tj-ajina-tepa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ach'inateppa",
+                  "text": "Die Ausgrabungsstätte Ajina-Teppa ist eine bekannte archäologische Stätte, die die Grundmauern eines antiken buddhistischen Klosters freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        68.854476,
+                        37.797972
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Diese lokale Masjid bietet einen eigens dafür vorgesehenen Gottesdienstort nahe den historischen Stätten von Ajina-Tepa.",
+                  "category": "religious",
+                  "coords": [
+                        68.796564,
+                        37.767591
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Diese Gemeinde-Maschid fungiert als aktiver Gottesdienstort in der Umgebung von Ajina-Tepa.",
+                  "category": "religious",
+                  "coords": [
+                        68.802258,
+                        37.76419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ach'inateppa",
+                  "text": "Az Ajina-Teppa ásatás egy híres régészeti lelőhely, amely egy ősi buddhista kolostor alapjait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        68.854476,
+                        37.797972
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Ez a helyi Masjid külön istentiszteleti helyet kínál Ajina-Tepa történelmi területei közelében.",
+                  "category": "religious",
+                  "coords": [
+                        68.796564,
+                        37.767591
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Ez a közösségi Maschid aktív istentiszteleti helyként működik Ajina-Tepa környékén.",
+                  "category": "religious",
+                  "coords": [
+                        68.802258,
+                        37.76419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ach'inateppa",
+                  "text": "Săpăturile Ajina-Teppa reprezintă un renumit sit arheologic care dezvăluie fundațiile unei mănăstiri budiste antice.",
+                  "category": "historical",
+                  "coords": [
+                        68.854476,
+                        37.797972
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Acest Masjid local oferă un lăcaș de cult dedicat în apropierea terenurilor istorice din Ajina-Tepa.",
+                  "category": "religious",
+                  "coords": [
+                        68.796564,
+                        37.767591
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Acest Maschid comunitar funcționează ca un lăcaș de cult activ în vecinătatea orașului Ajina-Tepa.",
+                  "category": "religious",
+                  "coords": [
+                        68.802258,
+                        37.76419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajina-Teppa Buddhist Monastery Excavation",
+                  "text": "The Ajina-Teppa Excavation is a renowned archaeological site revealing the foundations of an ancient Buddhist monastery.",
+                  "category": "historical",
+                  "coords": [
+                        68.854476,
+                        37.797972
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This local Masjid offers a dedicated place of worship near the historical grounds of Ajina-Tepa.",
+                  "category": "religious",
+                  "coords": [
+                        68.796564,
+                        37.767591
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "This community Maschid operates as an active place of worship in the vicinity of Ajina-Tepa.",
+                  "category": "religious",
+                  "coords": [
+                        68.802258,
+                        37.76419
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TJ-KT",
     coords: [68.8550, 37.7942],
@@ -339,7 +1176,700 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-khujand-fortress-history-v2",
+    id: "tj-khujand-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoricheskii muzei Sogdiiskoi oblasti",
+                  "text": "Ein umfassendes Geschichtsmuseum, das sich in den rekonstruierten Mauern der Festung Chudschand befindet.",
+                  "category": "museum",
+                  "coords": [
+                        69.618547,
+                        40.28503
+                  ]
+            },
+            {
+                  "name": "Arkheologicheskii muzei",
+                  "text": "Dieses Museum zeigt antike Artefakte und architektonische Funde, die bei Ausgrabungen in der Zitadelle von Chudschand entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        69.617782,
+                        40.286066
+                  ]
+            },
+            {
+                  "name": "Biusty izvestnym khudzhantsam",
+                  "text": "Eine Reihe von Gedenkbüsten entlang des Festungsweges, die berühmte Bürger von Chudschand ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        69.617958,
+                        40.288496
+                  ]
+            },
+            {
+                  "name": "Kasri chavonon im. L.Sherali",
+                  "text": "Ein modernes Kulturzentrum und Theater in Chudschand, benannt nach dem tadschikischen Dichter Loik Sherali.",
+                  "category": "cultural",
+                  "coords": [
+                        69.620844,
+                        40.285719
+                  ]
+            },
+            {
+                  "name": "Abu Abdallah al-Rudaki",
+                  "text": "Eine Statue des Dichters Rudaki, des Vaters der persischen Literatur, die 2008 in Chudschand enthüllt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        69.625033,
+                        40.290272
+                  ]
+            },
+            {
+                  "name": "Manorai Istik'lol",
+                  "text": "Ein markantes Denkmal im Festungskomplex, das einen Panoramablick über die Stadt Chudschand bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61404,
+                        40.302012
+                  ]
+            },
+            {
+                  "name": "Mach'maai iodgorii ba nomi Kamol Khuch'andi",
+                  "text": "Eine große Gedenkstätte in Chudschand, die dem Leben und Vermächtnis des Dichters Kamoli Khujandi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613715,
+                        40.287619
+                  ]
+            },
+            {
+                  "name": "Makh'allai shakh'ri bostonii Khuch'and",
+                  "text": "Das historische Viertel in der Altstadt von Chudschand, das die traditionelle tadschikische Stadtstruktur und Atmosphäre bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.615938,
+                        40.286606
+                  ]
+            },
+            {
+                  "name": "K'al'ai kukh'na",
+                  "text": "Die atmosphärischen Ruinen der alten Befestigungsanlagen von Chudschand, die die Schichten der langen Stadtgeschichte zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        69.616859,
+                        40.287082
+                  ]
+            },
+            {
+                  "name": "Khuchand Atlas",
+                  "text": "Ein Kunstzentrum in Chudschand, das dem traditionellen tadschikischen Handwerk des Seidenwebens und der Atlas-Stoffe gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.602732,
+                        40.302095
+                  ]
+            },
+            {
+                  "name": "House museum Kamoli Khujandi",
+                  "text": "Ein traditionelles tadschikisches Wohnhaus, das rekonstruiert wurde, um das Privatleben und die Artefakte des Dichters Kamoli Khujandi zu zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        69.613206,
+                        40.286503
+                  ]
+            },
+            {
+                  "name": "Stela voinam internatsionalistam",
+                  "text": "Ein Denkmal in Chudschand, das den Soldaten gewidmet ist, die in internationalen Konflikten, insbesondere im Afghanistankrieg, dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        69.604087,
+                        40.293939
+                  ]
+            },
+            {
+                  "name": "Maschidi Chashma",
+                  "text": "Eine lokale Moschee in Chudschand, die sich in der Nähe einer natürlichen Quelle befindet, die der Gemeinde als heilig gilt.",
+                  "category": "religious",
+                  "coords": [
+                        69.650995,
+                        40.326421
+                  ]
+            },
+            {
+                  "name": "Mirkemolboi",
+                  "text": "Eine traditionelle Viertelmoschee in Chudschand, die der örtlichen muslimischen Gemeinde für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.610677,
+                        40.28553
+                  ]
+            },
+            {
+                  "name": "Nuri Islom",
+                  "text": "Eine markante Moschee in Chudschand mit moderner islamischer Architektur, die als spirituelles Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.627058,
+                        40.303405
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi ravnoapostol'noi Marii Magdaliny",
+                  "text": "Eine russisch-orthodoxe Kirche in Chudschand, die der Heiligen Maria Magdalena gewidmet ist und über klassische goldene Kuppeln verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613896,
+                        40.284994
+                  ]
+            },
+            {
+                  "name": "Takvo",
+                  "text": "Eine bescheidene und einladende Viertelmoschee in Chudschand, die für Gottesdienste der örtlichen Gemeinde genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        69.589529,
+                        40.291215
+                  ]
+            },
+            {
+                  "name": "Bozori 32",
+                  "text": "Ein lokaler Marktplatz im 32. Bezirk von Chudschand, der für seine Auswahl an frischem Obst und Gemüse bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.640771,
+                        40.303573
+                  ]
+            },
+            {
+                  "name": "Bozori Navruz",
+                  "text": "Ein belebter Viertelbasar in Chudschand, benannt nach dem traditionellen persischen Neujahrsfest.",
+                  "category": "cultural",
+                  "coords": [
+                        69.586472,
+                        40.292662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoricheskii muzei Sogdiiskoi oblasti",
+                  "text": "Átfogó történelmi múzeum a hudzsandi erőd újjáépített falai között.",
+                  "category": "museum",
+                  "coords": [
+                        69.618547,
+                        40.28503
+                  ]
+            },
+            {
+                  "name": "Arkheologicheskii muzei",
+                  "text": "Ez a múzeum a hudzsandi citadella ásatásai során feltárt ókori leleteket és építészeti maradványokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.617782,
+                        40.286066
+                  ]
+            },
+            {
+                  "name": "Biusty izvestnym khudzhantsam",
+                  "text": "Az erőd sétánya mentén elhelyezett emlékszobrok sora, amelyek Hudzsand híres polgárai előtt tisztelegnek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.617958,
+                        40.288496
+                  ]
+            },
+            {
+                  "name": "Kasri chavonon im. L.Sherali",
+                  "text": "Hudzsand modern kulturális központja és színháza, amely Loik Sherali tadzsik költő nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        69.620844,
+                        40.285719
+                  ]
+            },
+            {
+                  "name": "Abuabdullokh'i Rudaki",
+                  "text": "Rudaki költőnek, a perzsa irodalom atyjának szobra, amelyet 2008-ban avattak fel Hudzsandban.",
+                  "category": "historical",
+                  "coords": [
+                        69.625033,
+                        40.290272
+                  ]
+            },
+            {
+                  "name": "Manorai Istik'lol",
+                  "text": "Az erődkomplexum kiemelkedő műemléke, amely panorámás kilátást nyújt Hudzsand városára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61404,
+                        40.302012
+                  ]
+            },
+            {
+                  "name": "Mach'maai iodgorii ba nomi Kamol Khuch'andi",
+                  "text": "Nagyszabású emlékhely Hudzsandban, amelyet Kamoli Hudzsandi költő életének és örökségének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613715,
+                        40.287619
+                  ]
+            },
+            {
+                  "name": "Makh'allai shakh'ri bostonii Khuch'and",
+                  "text": "Hudzsand óvárosának történelmi negyede, amely megőrzi a hagyományos tadzsik városszerkezetet és hangulatot.",
+                  "category": "landmark",
+                  "coords": [
+                        69.615938,
+                        40.286606
+                  ]
+            },
+            {
+                  "name": "K'al'ai kukh'na",
+                  "text": "Hudzsand ősi erődítményeinek hangulatos romjai, amelyek a város hosszú történelmének rétegeit mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        69.616859,
+                        40.287082
+                  ]
+            },
+            {
+                  "name": "Khuchand Atlas",
+                  "text": "Hudzsandi művészeti központ, amely a selyemszövés és az atlaszszövet hagyományos tadzsik mesterségének szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.602732,
+                        40.302095
+                  ]
+            },
+            {
+                  "name": "House museum Kamoli Khujandi",
+                  "text": "Hagyományos tadzsik lakóház, amelyet Kamoli Hudzsandi költő otthoni életének és tárgyainak bemutatására építettek újjá.",
+                  "category": "museum",
+                  "coords": [
+                        69.613206,
+                        40.286503
+                  ]
+            },
+            {
+                  "name": "Stela voinam internatsionalistam",
+                  "text": "Emlékmű Hudzsandban a nemzetközi konfliktusokban, különösen az afganisztáni háborúban szolgált katonák tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        69.604087,
+                        40.293939
+                  ]
+            },
+            {
+                  "name": "Maschidi Chashma",
+                  "text": "Helyi mecset Hudzsandban egy természetes forrás közelében, amelyet a közösség szentnek tart.",
+                  "category": "religious",
+                  "coords": [
+                        69.650995,
+                        40.326421
+                  ]
+            },
+            {
+                  "name": "Mirkemolboi",
+                  "text": "Hagyományos negyedi mecset Hudzsandban, amely a helyi muszlim közösséget szolgálja a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        69.610677,
+                        40.28553
+                  ]
+            },
+            {
+                  "name": "Nuri Islom",
+                  "text": "Hudzsand egyik kiemelkedő mecsete, amely modern iszlám építészetével a város szellemi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.627058,
+                        40.303405
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi ravnoapostol'noi Marii Magdaliny",
+                  "text": "Szent Mária Magdolnának szentelt orosz ortodox templom Hudzsandban, klasszikus aranykupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613896,
+                        40.284994
+                  ]
+            },
+            {
+                  "name": "Takvo",
+                  "text": "Szerény és barátságos negyedi mecset Hudzsandban, amelyet a helyi közösség istentiszteleteire használnak.",
+                  "category": "religious",
+                  "coords": [
+                        69.589529,
+                        40.291215
+                  ]
+            },
+            {
+                  "name": "Bozori 32",
+                  "text": "Helyi piac Hudzsand 32. kerületében, amely a friss gyümölcs- és zöldségválasztékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.640771,
+                        40.303573
+                  ]
+            },
+            {
+                  "name": "Bozori Navruz",
+                  "text": "Hudzsand forgalmas környéki bazárja, amelyet a hagyományos perzsa újévi ünnepről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        69.586472,
+                        40.292662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoricheskii muzei Sogdiiskoi oblasti",
+                  "text": "Un muzeu de istorie cuprinzător situat între zidurile reconstruite ale Cetății Hudjand.",
+                  "category": "museum",
+                  "coords": [
+                        69.618547,
+                        40.28503
+                  ]
+            },
+            {
+                  "name": "Arkheologicheskii muzei",
+                  "text": "Acest muzeu expune artefacte antice și descoperiri arhitecturale scoase la iveală în timpul săpăturilor de la citadela Hudjand.",
+                  "category": "museum",
+                  "coords": [
+                        69.617782,
+                        40.286066
+                  ]
+            },
+            {
+                  "name": "Biusty izvestnym khudzhantsam",
+                  "text": "O serie de busturi comemorative de-a lungul aleii cetății, onorând cetățenii celebri ai Hudjandului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.617958,
+                        40.288496
+                  ]
+            },
+            {
+                  "name": "Kasri chavonon im. L.Sherali",
+                  "text": "Un centru cultural și teatru modern în Hudjand, numit după poetul tadjic Loik Sherali.",
+                  "category": "cultural",
+                  "coords": [
+                        69.620844,
+                        40.285719
+                  ]
+            },
+            {
+                  "name": "Abuabdullokh'i Rudaki",
+                  "text": "O statuie a poetului Rudaki, tatăl literaturii persane, dezvelită în Hudjand în anul 2008.",
+                  "category": "historical",
+                  "coords": [
+                        69.625033,
+                        40.290272
+                  ]
+            },
+            {
+                  "name": "Manorai Istik'lol",
+                  "text": "Un monument proeminent în complexul cetății, oferind vedere panoramică asupra orașului Hudjand.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61404,
+                        40.302012
+                  ]
+            },
+            {
+                  "name": "Mach'maai iodgorii ba nomi Kamol Khuch'andi",
+                  "text": "Un sit memorial mare în Hudjand dedicat vieții și moștenirii poetului Kamoli Khujandi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613715,
+                        40.287619
+                  ]
+            },
+            {
+                  "name": "Makh'allai shakh'ri bostonii Khuch'and",
+                  "text": "Cartierul istoric din orașul vechi al Hudjandului, care păstrează structura urbană și atmosfera tradițională tadjică.",
+                  "category": "landmark",
+                  "coords": [
+                        69.615938,
+                        40.286606
+                  ]
+            },
+            {
+                  "name": "K'al'ai kukh'na",
+                  "text": "Ruinele atmosferice ale vechilor fortificații din Hudjand, care dezvăluie straturile istoriei lungi a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        69.616859,
+                        40.287082
+                  ]
+            },
+            {
+                  "name": "Khuchand Atlas",
+                  "text": "Un centru de artă în Hudjand dedicat meșteșugului tradițional tadjic al țesutului mătăsii și țesăturii atlas.",
+                  "category": "cultural",
+                  "coords": [
+                        69.602732,
+                        40.302095
+                  ]
+            },
+            {
+                  "name": "House museum Kamoli Khujandi",
+                  "text": "O reședință tradițională tadjică reconstruită pentru a prezenta viața domestică și obiectele poetului Kamoli Khujandi.",
+                  "category": "museum",
+                  "coords": [
+                        69.613206,
+                        40.286503
+                  ]
+            },
+            {
+                  "name": "Stela voinam internatsionalistam",
+                  "text": "Un monument în Hudjand dedicat soldaților care au servit în conflicte internaționale, în special în războiul din Afganistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.604087,
+                        40.293939
+                  ]
+            },
+            {
+                  "name": "Maschidi Chashma",
+                  "text": "O moschee locală în Hudjand situată lângă un izvor natural considerat sfânt de către comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        69.650995,
+                        40.326421
+                  ]
+            },
+            {
+                  "name": "Mirkemolboi",
+                  "text": "O moschee tradițională de cartier din Hudjand care deservește comunitatea musulmană locală pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.610677,
+                        40.28553
+                  ]
+            },
+            {
+                  "name": "Nuri Islom",
+                  "text": "O moschee proeminentă din Hudjand, cu o arhitectură islamică modernă, servind ca centru spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        69.627058,
+                        40.303405
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi ravnoapostol'noi Marii Magdaliny",
+                  "text": "O biserică ortodoxă rusă din Hudjand dedicată Sfintei Maria Magdalena, cu domuri aurii clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613896,
+                        40.284994
+                  ]
+            },
+            {
+                  "name": "Takvo",
+                  "text": "O moschee de cartier modestă și primitoare din Hudjand, folosită pentru cultul comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        69.589529,
+                        40.291215
+                  ]
+            },
+            {
+                  "name": "Bozori 32",
+                  "text": "O piață locală din districtul 32 al Hudjandului, cunoscută pentru selecția sa de fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        69.640771,
+                        40.303573
+                  ]
+            },
+            {
+                  "name": "Bozori Navruz",
+                  "text": "Un bazar de cartier aglomerat din Hudjand, numit după festivalul tradițional al Anului Nou persan.",
+                  "category": "cultural",
+                  "coords": [
+                        69.586472,
+                        40.292662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Istoricheskii muzei Sogdiiskoi oblasti",
+                  "text": "A comprehensive history museum located within the reconstructed walls of the Khujand Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        69.618547,
+                        40.28503
+                  ]
+            },
+            {
+                  "name": "Archeological museum",
+                  "text": "This museum exhibits ancient artifacts and architectural finds discovered during excavations of the Khujand citadel.",
+                  "category": "museum",
+                  "coords": [
+                        69.617782,
+                        40.286066
+                  ]
+            },
+            {
+                  "name": "Biusty izvestnym khudzhantsam",
+                  "text": "A series of commemorative busts along the fortress walkway honoring famous citizens of Khujand.",
+                  "category": "landmark",
+                  "coords": [
+                        69.617958,
+                        40.288496
+                  ]
+            },
+            {
+                  "name": "Kasri chavonon im. L.Sherali",
+                  "text": "A modern cultural center and theatre in Khujand named after the Tajik poet Loik Sherali.",
+                  "category": "cultural",
+                  "coords": [
+                        69.620844,
+                        40.285719
+                  ]
+            },
+            {
+                  "name": "Abu Abdallah al-Rudaki",
+                  "text": "A statue of the poet Rudaki, the father of Persian literature, unveiled in Khujand in 2008.",
+                  "category": "historical",
+                  "coords": [
+                        69.625033,
+                        40.290272
+                  ]
+            },
+            {
+                  "name": "Independence Tower",
+                  "text": "A prominent monument in the fortress complex offering panoramic views over the city of Khujand.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61404,
+                        40.302012
+                  ]
+            },
+            {
+                  "name": "Mach'maai iodgorii ba nomi Kamol Khuch'andi",
+                  "text": "A large memorial site in Khujand dedicated to the life and legacy of the poet Kamoli Khujandi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613715,
+                        40.287619
+                  ]
+            },
+            {
+                  "name": "Makh'allai shakh'ri bostonii Khuch'and",
+                  "text": "The historic neighborhood within Khujand's old city, preserving traditional Tajik urban layout and atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        69.615938,
+                        40.286606
+                  ]
+            },
+            {
+                  "name": "K'al'ai kukh'na",
+                  "text": "The atmospheric ruins of the ancient Khujand fortifications, showing the layers of the city's long history.",
+                  "category": "historical",
+                  "coords": [
+                        69.616859,
+                        40.287082
+                  ]
+            },
+            {
+                  "name": "Khuchand Atlas",
+                  "text": "An arts center in Khujand dedicated to the traditional Tajik craft of silk weaving and atlas fabric.",
+                  "category": "cultural",
+                  "coords": [
+                        69.602732,
+                        40.302095
+                  ]
+            },
+            {
+                  "name": "House museum Kamoli Khujandi",
+                  "text": "A traditional Tajik residence reconstructed to show the home life and artifacts of the poet Kamoli Khujandi.",
+                  "category": "museum",
+                  "coords": [
+                        69.613206,
+                        40.286503
+                  ]
+            },
+            {
+                  "name": "Stela voinam internatsionalistam",
+                  "text": "A monument in Khujand dedicated to the soldiers who served in international conflicts, particularly the Afghan war.",
+                  "category": "landmark",
+                  "coords": [
+                        69.604087,
+                        40.293939
+                  ]
+            },
+            {
+                  "name": "Maschidi Chashma",
+                  "text": "A local mosque in Khujand situated near a natural spring considered holy by the community.",
+                  "category": "religious",
+                  "coords": [
+                        69.650995,
+                        40.326421
+                  ]
+            },
+            {
+                  "name": "Mirkemolboi",
+                  "text": "A traditional neighborhood mosque in Khujand serving the local Muslim community for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.610677,
+                        40.28553
+                  ]
+            },
+            {
+                  "name": "Nuri Islom",
+                  "text": "A prominent mosque in Khujand featuring modern Islamic architecture and serving as a spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        69.627058,
+                        40.303405
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi ravnoapostol'noi Marii Magdaliny",
+                  "text": "A Russian Orthodox church in Khujand dedicated to Saint Mary Magdalene, featuring classic golden domes.",
+                  "category": "landmark",
+                  "coords": [
+                        69.613896,
+                        40.284994
+                  ]
+            },
+            {
+                  "name": "Takvo",
+                  "text": "A modest and welcoming neighborhood mosque in Khujand used for local community worship.",
+                  "category": "religious",
+                  "coords": [
+                        69.589529,
+                        40.291215
+                  ]
+            },
+            {
+                  "name": "Bozori 32",
+                  "text": "A local marketplace in Khujand's 32nd district known for its selection of fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        69.640771,
+                        40.303573
+                  ]
+            },
+            {
+                  "name": "Bozori Navruz",
+                  "text": "A busy neighborhood bazaar in Khujand named after the traditional Persian New Year festival.",
+                  "category": "cultural",
+                  "coords": [
+                        69.586472,
+                        40.292662
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TJ-SU",
     coords: [69.6214, 40.2864],
@@ -387,7 +1917,160 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
     {
-    id: "tj-khoja-mashkhad-history-v2",
+    id: "tj-khoja-mashkhad-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khoja Sarboz",
+                  "text": "Eine archäologische Fundstätte mit Siedlungsresten aus verschiedenen historischen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        68.136481,
+                        37.230916
+                  ]
+            },
+            {
+                  "name": "Khoja Mashad Museum",
+                  "text": "Ein Museum, das der Geschichte und den architektonischen Details des Khoja-Mashad-Komplexes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        68.14848,
+                        37.219487
+                  ]
+            },
+            {
+                  "name": "Beshkent Qala (Utapur Fort)",
+                  "text": "Die Ruinen einer antiken Lehmziegelfestung, die zur Verteidigung der Oase errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        68.038663,
+                        37.218696
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "Eine lokale Moschee, die als religiöses und soziales Zentrum für die Bewohner dient.",
+                  "category": "religious",
+                  "coords": [
+                        68.204611,
+                        37.227917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khoja Sarboz",
+                  "text": "Különböző történelmi korszakokból származó településmaradványokat őrző régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        68.136481,
+                        37.230916
+                  ]
+            },
+            {
+                  "name": "Khoja Mashad Museum",
+                  "text": "A Khoja Mashad-komplexum történetének és építészeti részleteinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        68.14848,
+                        37.219487
+                  ]
+            },
+            {
+                  "name": "Beshkent Qala (Utapur Fort)",
+                  "text": "Egy ősi vályogtégla erődítmény romjai, amely az oázis védelmére épült.",
+                  "category": "historical",
+                  "coords": [
+                        68.038663,
+                        37.218696
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "Helyi mecset, amely vallási és közösségi központként szolgál a lakók számára.",
+                  "category": "religious",
+                  "coords": [
+                        68.204611,
+                        37.227917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khoja Sarboz",
+                  "text": "Un sit arheologic ce conține vestigii ale unor așezări din diverse epoci istorice.",
+                  "category": "historical",
+                  "coords": [
+                        68.136481,
+                        37.230916
+                  ]
+            },
+            {
+                  "name": "Khoja Mashad Museum",
+                  "text": "Un muzeu dedicat istoriei și detaliilor arhitecturale ale complexului Khoja Mashad.",
+                  "category": "museum",
+                  "coords": [
+                        68.14848,
+                        37.219487
+                  ]
+            },
+            {
+                  "name": "Beshkent Qala (Utapur Fort)",
+                  "text": "Ruinele unei vechi cetăți din cărămidă nearsă, construită pentru apărarea oazei.",
+                  "category": "historical",
+                  "coords": [
+                        68.038663,
+                        37.218696
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "O moschee locală care servește drept centru religios și social pentru locuitori.",
+                  "category": "religious",
+                  "coords": [
+                        68.204611,
+                        37.227917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khoja Sarboz",
+                  "text": "An archaeological site containing settlement remains from various historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        68.136481,
+                        37.230916
+                  ]
+            },
+            {
+                  "name": "Khoja Mashad Museum",
+                  "text": "A museum dedicated to the history and architectural details of the Khoja Mashad complex.",
+                  "category": "museum",
+                  "coords": [
+                        68.14848,
+                        37.219487
+                  ]
+            },
+            {
+                  "name": "Beshkent Qala (Utapur Fort)",
+                  "text": "The ruins of an ancient mud-brick fortress built to defend the oasis.",
+                  "category": "historical",
+                  "coords": [
+                        68.038663,
+                        37.218696
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "A local mosque serving as a religious and social hub for the residents.",
+                  "category": "religious",
+                  "coords": [
+                        68.204611,
+                        37.227917
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TJ-KT",
     coords: [68.1367, 37.1856],
@@ -435,7 +2118,124 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-kah-kaha-fortress-history-v2",
+    id: "tj-kah-kaha-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khona-osorkhonai Shokh'i Mardon",
+                  "text": "Dieses Museum widmet sich der Geschichte der Region und der antiken Festung von Ischkaschim.",
+                  "category": "museum",
+                  "coords": [
+                        71.757548,
+                        36.681504
+                  ]
+            },
+            {
+                  "name": "K'al'ai K'akh'k'akh'a",
+                  "text": "Eine beeindruckende Festung aus der Kuschan-Ära, die hoch über dem Pandsch-Tal thront.",
+                  "category": "landmark",
+                  "coords": [
+                        71.754567,
+                        36.680252
+                  ]
+            },
+            {
+                  "name": "Mizildigar",
+                  "text": "Eine antike archäologische Stätte mit Überresten früher Siedlungen im Wakhan-Korridor.",
+                  "category": "historical",
+                  "coords": [
+                        71.834382,
+                        36.698694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khona-osorkhonai Shokh'i Mardon",
+                  "text": "A múzeum a régió és Iskasim ősi erődjének történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        71.757548,
+                        36.681504
+                  ]
+            },
+            {
+                  "name": "K'al'ai K'akh'k'akh'a",
+                  "text": "Lenyűgöző Kusán-kori erődítmény, amely magasan a Pandzs-völgy felett trónol.",
+                  "category": "landmark",
+                  "coords": [
+                        71.754567,
+                        36.680252
+                  ]
+            },
+            {
+                  "name": "Mizildigar",
+                  "text": "Ősi régészeti lelőhely korai települések maradványaival a Vahán-folyosóban.",
+                  "category": "historical",
+                  "coords": [
+                        71.834382,
+                        36.698694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khona-osorkhonai Shokh'i Mardon",
+                  "text": "Acest muzeu este dedicat istoriei regiunii și vechii cetăți din Ishkashim.",
+                  "category": "museum",
+                  "coords": [
+                        71.757548,
+                        36.681504
+                  ]
+            },
+            {
+                  "name": "K'al'ai K'akh'k'akh'a",
+                  "text": "O cetate impresionantă din epoca Kushan, situată la înălțime deasupra văii Panj.",
+                  "category": "landmark",
+                  "coords": [
+                        71.754567,
+                        36.680252
+                  ]
+            },
+            {
+                  "name": "Mizildigar",
+                  "text": "Un sit arheologic antic cu vestigii ale așezărilor timpurii din coridorul Wakhan.",
+                  "category": "historical",
+                  "coords": [
+                        71.834382,
+                        36.698694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shohi Mardon Museum",
+                  "text": "This museum is dedicated to the history of the region and the ancient fortress of Ishkashim.",
+                  "category": "museum",
+                  "coords": [
+                        71.757548,
+                        36.681504
+                  ]
+            },
+            {
+                  "name": "Qahqaha Fortress",
+                  "text": "An impressive Kushan-era fortress perched high above the Panj Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        71.754567,
+                        36.680252
+                  ]
+            },
+            {
+                  "name": "Mizildigar",
+                  "text": "An ancient archaeological site with remains of early settlements in the Wakhan Corridor.",
+                  "category": "historical",
+                  "coords": [
+                        71.834382,
+                        36.698694
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TJ-GB",
     coords: [71.7456, 36.7114],
@@ -483,7 +2283,124 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
     {
-    id: "tj-rudaki-monument-history-v2",
+    id: "tj-rudaki-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bog'i parchami Toch'ikiston",
+                  "text": "Einer der höchsten Flaggenmasten der Welt, der 165 Meter hoch über Duschanbe ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780107,
+                        38.579003
+                  ]
+            },
+            {
+                  "name": "Rudaki-Park",
+                  "text": "Ein zentraler Stadtpark mit einer Statue des Dichters Rudaki und prächtigen Springbrunnen.",
+                  "category": "park",
+                  "coords": [
+                        68.781412,
+                        38.575986
+                  ]
+            },
+            {
+                  "name": "Palast der Nation",
+                  "text": "Die offizielle Residenz des Präsidenten, erkennbar an ihrer markanten goldenen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        68.778733,
+                        38.576314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bog'i parchami Toch'ikiston",
+                  "text": "A világ egyik legmagasabb zászlórúdja, amely 165 méter magasan magasodik Dusanbe fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780107,
+                        38.579003
+                  ]
+            },
+            {
+                  "name": "Bog'i ustod Rudaki",
+                  "text": "Központi városi park Rudaki költő szobrával és pompás szökőkutakkal.",
+                  "category": "park",
+                  "coords": [
+                        68.781412,
+                        38.575986
+                  ]
+            },
+            {
+                  "name": "K'asri Millat",
+                  "text": "Az elnök hivatalos rezidenciája, amely jellegzetes aranykupolájáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        68.778733,
+                        38.576314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bog'i parchami Toch'ikiston",
+                  "text": "Unul dintre cele mai înalte catarge de steag din lume, ridicându-se la 165 de metri deasupra orașului Dușanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780107,
+                        38.579003
+                  ]
+            },
+            {
+                  "name": "Bog'i ustod Rudaki",
+                  "text": "Un parc central al orașului cu o statuie a poetului Rudaki și fântâni arteziene magnifice.",
+                  "category": "park",
+                  "coords": [
+                        68.781412,
+                        38.575986
+                  ]
+            },
+            {
+                  "name": "K'asri Millat",
+                  "text": "Reședința oficială a președintelui, recunoscută după cupola sa aurie distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        68.778733,
+                        38.576314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dushanbe Flagpole",
+                  "text": "One of the world's tallest flagpoles, standing 165 metres high near the Palace of Nations.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780107,
+                        38.579003
+                  ]
+            },
+            {
+                  "name": "Rudaki Park",
+                  "text": "A central city park featuring a statue of the poet Rudaki and grand fountains.",
+                  "category": "park",
+                  "coords": [
+                        68.781412,
+                        38.575986
+                  ]
+            },
+            {
+                  "name": "Palace of Nations",
+                  "text": "The official residence of the president, notable for its prominent golden dome.",
+                  "category": "landmark",
+                  "coords": [
+                        68.778733,
+                        38.576314
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TJ-DU",
     coords: [68.7822, 38.5772],
@@ -531,7 +2448,196 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-mug-teppe-history-v2",
+    id: "tj-mug-teppe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamosho",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf die Festung Mug Teppa und das Stadtbild von Istaravshan.",
+                  "category": "natural",
+                  "coords": [
+                        69.007011,
+                        39.915961
+                  ]
+            },
+            {
+                  "name": "Bahoriston Street",
+                  "text": "Ein Aussichtspunkt in der Bahoriston-Straße, der einen weiten Blick über das tiefer liegende Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        69.011926,
+                        39.931444
+                  ]
+            },
+            {
+                  "name": "Bemorkhonai Rugund",
+                  "text": "Ein Hügel in der Nähe des Krankenhauses von Rugund, der einen Blick auf die umliegende Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        68.970871,
+                        39.978334
+                  ]
+            },
+            {
+                  "name": "History museum",
+                  "text": "Dieses Museum stellt archäologische Funde und historische Artefakte aus der antiken Siedlung Mug Teppa aus.",
+                  "category": "museum",
+                  "coords": [
+                        69.006539,
+                        39.913854
+                  ]
+            },
+            {
+                  "name": "K'al'ai Mug'",
+                  "text": "Eine bedeutende archäologische Stätte auf einem Hügel, die Überreste einer alten sogdischen Festung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        69.007049,
+                        39.916894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamosho",
+                  "text": "Magaslati kilátópont, ahonnan rálátni a Mug Teppa erődre és Isztaravsan városképére.",
+                  "category": "natural",
+                  "coords": [
+                        69.007011,
+                        39.915961
+                  ]
+            },
+            {
+                  "name": "Bahoriston Street",
+                  "text": "A Bahoriszton utcai kilátópont, ahonnan széles kilátás nyílik az alatta fekvő völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        69.011926,
+                        39.931444
+                  ]
+            },
+            {
+                  "name": "Bemorkhonai Rugund",
+                  "text": "Domb a rugundi kórház közelében, amely kilátást nyújt a környező hegyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        68.970871,
+                        39.978334
+                  ]
+            },
+            {
+                  "name": "History museum",
+                  "text": "Ez a múzeum a Mug Teppa ősi településéről származó régészeti leleteket és történelmi tárgyakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.006539,
+                        39.913854
+                  ]
+            },
+            {
+                  "name": "K'al'ai Mug'",
+                  "text": "Jelentős dombtetői régészeti lelőhely, amely egy ősi szogd erőd maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        69.007049,
+                        39.916894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamosho",
+                  "text": "Un punct de observație la înălțime, cu vedere spre fortăreața Mug Teppa și panorama orașului Istaravshan.",
+                  "category": "natural",
+                  "coords": [
+                        69.007011,
+                        39.915961
+                  ]
+            },
+            {
+                  "name": "Bahoriston Street",
+                  "text": "Un punct de observație de pe strada Bahoriston, care oferă o vedere largă asupra văii de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        69.011926,
+                        39.931444
+                  ]
+            },
+            {
+                  "name": "Bemorkhonai Rugund",
+                  "text": "Un deal lângă spitalul Rugund, care oferă o vedere asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        68.970871,
+                        39.978334
+                  ]
+            },
+            {
+                  "name": "History museum",
+                  "text": "Acest muzeu expune descoperiri arheologice și artefacte istorice din vechea așezare Mug Teppa.",
+                  "category": "museum",
+                  "coords": [
+                        69.006539,
+                        39.913854
+                  ]
+            },
+            {
+                  "name": "K'al'ai Mug'",
+                  "text": "Un sit arheologic important pe vârful unui deal, prezentând vestigiile unei vechi cetăți sogdiene.",
+                  "category": "historical",
+                  "coords": [
+                        69.007049,
+                        39.916894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamosho",
+                  "text": "An elevated viewpoint overlooking the Mug Teppa fortress and the Istaravshan cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        69.007011,
+                        39.915961
+                  ]
+            },
+            {
+                  "name": "Bahoriston Street",
+                  "text": "A viewpoint on Bahoriston Street offering a wide view over the valley below.",
+                  "category": "natural",
+                  "coords": [
+                        69.011926,
+                        39.931444
+                  ]
+            },
+            {
+                  "name": "Rugund Hospital",
+                  "text": "A hill near the Rugund hospital offering a view of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        68.970871,
+                        39.978334
+                  ]
+            },
+            {
+                  "name": "History museum",
+                  "text": "This museum displays archaeological finds and historical artifacts from the ancient Mug Teppa settlement.",
+                  "category": "museum",
+                  "coords": [
+                        69.006539,
+                        39.913854
+                  ]
+            },
+            {
+                  "name": "Kal'ai Mug",
+                  "text": "A major hilltop archaeological site featuring the remains of an ancient Sogdian fortress.",
+                  "category": "historical",
+                  "coords": [
+                        69.007049,
+                        39.916894
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TJ-SU",
     coords: [69.0069, 39.9142],
@@ -579,7 +2685,52 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-vrang-stupa-history-v2",
+    id: "tj-vrang-stupa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "barkhany",
+                  "text": "Ein Aussichtspunkt, der weite Blicke über die trockene Hochgebirgslandschaft und den Fluss bietet.",
+                  "category": "natural",
+                  "coords": [
+                        72.467351,
+                        37.003762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "barkhany",
+                  "text": "Kilátópont, ahonnan pazar látvány nyílik a száraz magashegyi tájra és a folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        72.467351,
+                        37.003762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "barkhany",
+                  "text": "Un punct de belvedere ce oferă vederi largi asupra peisajului arid montan și a râului.",
+                  "category": "natural",
+                  "coords": [
+                        72.467351,
+                        37.003762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "sand",
+                  "text": "A viewpoint offering expansive views over the arid high-mountain landscape and the river.",
+                  "category": "natural",
+                  "coords": [
+                        72.467351,
+                        37.003762
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TJ-GB",
     coords: [72.4331, 36.9939],
@@ -627,7 +2778,124 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-sheikh-muslihiddin-mausoleum-history-v2",
+    id: "tj-sheikh-muslihiddin-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mavzolei Maslikhiddina",
+                  "text": "Das Mausoleum von Scheich Muslihiddin verfügt über aufwendig geschnitzte Holzsäulen und eine historische Backsteinfassade zu Ehren des berühmten Dichters und Herrschers aus dem 12. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.630769,
+                        40.279404
+                  ]
+            },
+            {
+                  "name": "Mechet' Sari balandi",
+                  "text": "Die Mechet' Sari balandi ist eine lokale islamische Moschee, die sich durch ihre traditionelle zentralasiatische Kuppel und ihren einladenden Gebetsraum auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.634615,
+                        40.288602
+                  ]
+            },
+            {
+                  "name": "Bozori Panch'shanbe",
+                  "text": "Der Panjshanbe-Basar ist ein belebter überdachter Marktplatz, der für seinen monumentalen Pavillon aus der Sowjetzeit, farbenfrohe Gewürze und frische regionale Produkte berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.633209,
+                        40.279388
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mavzolei Maslikhiddina",
+                  "text": "Muszlihiddin sejk mauzóleuma bonyolultan faragott faoszlopokkal és egy történelmi tégla homlokzattal tiszteleg a híres 12. századi költő és uralkodó előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.630769,
+                        40.279404
+                  ]
+            },
+            {
+                  "name": "Mechet' Sari balandi",
+                  "text": "A Mechet' Sari balandi egy helyi iszlám mecset, amelyet hagyományos közép-ázsiai kupolája és hívogató imaterme jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        69.634615,
+                        40.288602
+                  ]
+            },
+            {
+                  "name": "Bozori Panch'shanbe",
+                  "text": "A Panjshanbe bazár egy nyüzsgő fedett piac, amely monumentális szovjet kori pavilonjáról, színes fűszereiről és friss regionális termékeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        69.633209,
+                        40.279388
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mavzolei Maslikhiddina",
+                  "text": "Mausoleul Șeicului Muslihiddin prezintă coloane din lemn sculptate complex și o fațadă istorică din cărămidă în onoarea renumitului poet și conducător din secolul al XII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        69.630769,
+                        40.279404
+                  ]
+            },
+            {
+                  "name": "Mechet' Sari balandi",
+                  "text": "Mechet' Sari balandi este o moschee islamică locală caracterizată de cupola sa tradițională din Asia Centrală și de sala de rugăciune primitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        69.634615,
+                        40.288602
+                  ]
+            },
+            {
+                  "name": "Bozori Panch'shanbe",
+                  "text": "Bazarul Panjshanbe este o piață acoperită plină de viață, faimoasă pentru pavilionul său monumental din epoca sovietică, condimentele colorate și produsele regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        69.633209,
+                        40.279388
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mavzolei Maslikhiddina",
+                  "text": "The Mausoleum of Sheikh Muslihiddin features intricately carved wooden columns and a historic brick facade honoring the renowned 12th-century poet and ruler.",
+                  "category": "landmark",
+                  "coords": [
+                        69.630769,
+                        40.279404
+                  ]
+            },
+            {
+                  "name": "Mechet' Sari balandi",
+                  "text": "The Mechet' Sari balandi is a local Islamic mosque characterized by its traditional Central Asian dome and welcoming prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        69.634615,
+                        40.288602
+                  ]
+            },
+            {
+                  "name": "Panjshanbe bazaar",
+                  "text": "Panjshanbe bazaar is a bustling indoor marketplace famous for its monumental Soviet-era pavilion, colorful spices, and fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        69.633209,
+                        40.279388
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TJ-SU",
     coords: [69.6278, 40.2817],
@@ -675,7 +2943,304 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-hazrati-shoh-mausoleum-history-v2",
+    id: "tj-hazrati-shoh-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kord furushi",
+                  "text": "Traditionelle Werkstätten, in denen Handwerker handgeschmiedete tadschikische Messer herstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        69.00141,
+                        39.900867
+                  ]
+            },
+            {
+                  "name": "Shestoi",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen Panoramablick über das Isfara-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        68.993796,
+                        39.845213
+                  ]
+            },
+            {
+                  "name": "Pogibshim na Chernobyl'skoi AES",
+                  "text": "Ein Denkmal für die mutigen Liquidatoren der Nuklearkatastrophe von Tschernobyl.",
+                  "category": "historical",
+                  "coords": [
+                        69.009735,
+                        39.911749
+                  ]
+            },
+            {
+                  "name": "Minarai Baland",
+                  "text": "Ein markantes hohes Minarett, das die lokale Architektur der Region prägt.",
+                  "category": "historical",
+                  "coords": [
+                        69.003893,
+                        39.909736
+                  ]
+            },
+            {
+                  "name": "PTU",
+                  "text": "Ein Standort einer Berufsschule, der für die Bildungsgeschichte der Stadt von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.001554,
+                        39.90625
+                  ]
+            },
+            {
+                  "name": "Flag",
+                  "text": "Ein monumentaler Fahnenmast im Stadtzentrum, der die Nationalfarben trägt.",
+                  "category": "historical",
+                  "coords": [
+                        68.996916,
+                        39.903575
+                  ]
+            },
+            {
+                  "name": "Obodi",
+                  "text": "Eine traditionelle muslimische Gebetsstätte im Obodi-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        68.994445,
+                        39.89533
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Ein lebhafter Markt im Stadtzentrum, der auf Kleidung und Textilien spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        68.987156,
+                        39.895254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kord furushi",
+                  "text": "Hagyományos műhelyek, ahol a kézművesek kézzel kovácsolt tádzsik késeket készítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.00141,
+                        39.900867
+                  ]
+            },
+            {
+                  "name": "Shestoi",
+                  "text": "Magaslati kilátópont, amely panorámás kilátást nyújt az Iszfara-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        68.993796,
+                        39.845213
+                  ]
+            },
+            {
+                  "name": "Pogibshim na Chernobyl'skoi AES",
+                  "text": "Emlékmű a csernobili atomkatasztrófa bátor likvidátorainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        69.009735,
+                        39.911749
+                  ]
+            },
+            {
+                  "name": "Minarai Baland",
+                  "text": "Jellegzetes magas minaret, amely meghatározza a régió helyi építészetét.",
+                  "category": "historical",
+                  "coords": [
+                        69.003893,
+                        39.909736
+                  ]
+            },
+            {
+                  "name": "PTU",
+                  "text": "Egy szakközépiskola helyszíne, amely jelentős a város oktatástörténetében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.001554,
+                        39.90625
+                  ]
+            },
+            {
+                  "name": "Flag",
+                  "text": "Monumentális zászlórúd a városközpontban, amely a nemzeti színeket hordozza.",
+                  "category": "historical",
+                  "coords": [
+                        68.996916,
+                        39.903575
+                  ]
+            },
+            {
+                  "name": "Obodi",
+                  "text": "Hagyományos muszlim imaház az Obodi negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        68.994445,
+                        39.89533
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Nyüzsgő piac a városközpontban, amely ruházatra és textilekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        68.987156,
+                        39.895254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kord furushi",
+                  "text": "Ateliere tradiționale unde meșteșugarii confecționează cuțite tadjice forjate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        69.00141,
+                        39.900867
+                  ]
+            },
+            {
+                  "name": "Shestoi",
+                  "text": "Un punct de observare ridicat care oferă o vedere panoramică asupra văii Isfara.",
+                  "category": "natural",
+                  "coords": [
+                        68.993796,
+                        39.845213
+                  ]
+            },
+            {
+                  "name": "Pogibshim na Chernobyl'skoi AES",
+                  "text": "Un monument dedicat curajoșilor lichidatori ai dezastrului nuclear de la Cernobîl.",
+                  "category": "historical",
+                  "coords": [
+                        69.009735,
+                        39.911749
+                  ]
+            },
+            {
+                  "name": "Minarai Baland",
+                  "text": "Un minaret înalt și distinctiv care definește arhitectura locală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        69.003893,
+                        39.909736
+                  ]
+            },
+            {
+                  "name": "PTU",
+                  "text": "Sediul unei școli profesionale, semnificativ pentru istoria educației din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        69.001554,
+                        39.90625
+                  ]
+            },
+            {
+                  "name": "Flag",
+                  "text": "Un catarg monumental în centrul orașului, care poartă culorile naționale.",
+                  "category": "historical",
+                  "coords": [
+                        68.996916,
+                        39.903575
+                  ]
+            },
+            {
+                  "name": "Obodi",
+                  "text": "Un lăcaș de cult musulman tradițional în cartierul Obodi.",
+                  "category": "religious",
+                  "coords": [
+                        68.994445,
+                        39.89533
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "O piață plină de viață în centrul orașului, specializată în îmbrăcăminte și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        68.987156,
+                        39.895254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knife blacksmiths",
+                  "text": "Traditional workshops where craftsmen produce hand-forged Tajik knives.",
+                  "category": "landmark",
+                  "coords": [
+                        69.00141,
+                        39.900867
+                  ]
+            },
+            {
+                  "name": "Shestoi",
+                  "text": "An elevated viewpoint offering a panoramic vista over the Isfara valley.",
+                  "category": "natural",
+                  "coords": [
+                        68.993796,
+                        39.845213
+                  ]
+            },
+            {
+                  "name": "Pogibshim na Chernobyl'skoi AES",
+                  "text": "A monument dedicated to the brave liquidators of the Chernobyl nuclear disaster.",
+                  "category": "historical",
+                  "coords": [
+                        69.009735,
+                        39.911749
+                  ]
+            },
+            {
+                  "name": "Minarai Baland",
+                  "text": "A distinctive tall minaret that defines the local architecture of the region.",
+                  "category": "historical",
+                  "coords": [
+                        69.003893,
+                        39.909736
+                  ]
+            },
+            {
+                  "name": "PTU",
+                  "text": "A vocational school site significant to the town's educational history.",
+                  "category": "landmark",
+                  "coords": [
+                        69.001554,
+                        39.90625
+                  ]
+            },
+            {
+                  "name": "Flag",
+                  "text": "A monumental flagpole in the town center flying the national colors.",
+                  "category": "historical",
+                  "coords": [
+                        68.996916,
+                        39.903575
+                  ]
+            },
+            {
+                  "name": "Obodi",
+                  "text": "A traditional Muslim place of worship in the Obodi neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        68.994445,
+                        39.89533
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "A bustling market in the city center specializing in clothing and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        68.987156,
+                        39.895254
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TJ-SU",
     coords: [69.0089, 39.9094],
@@ -723,7 +3288,304 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-victory-park-monument-history-v2",
+    id: "tj-victory-park-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cable Car Top Station",
+                  "text": "Die Bergstation der Seilbahn bietet einen weiten Blick über den Victory Park und die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.81053,
+                        38.579001
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "Eine Gedenkstätte auf einem Hügel, die an den Sieg im Zweiten Weltkrieg erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        68.813954,
+                        38.581508
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine lokale Moschee, die den Bewohnern der Gegend um den Victory Park als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.799536,
+                        38.580476
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Reka Zhizni>>",
+                  "text": "Eine christliche Kirche in Duschanbe, die Gottesdienste für die lokale Gemeinde abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        68.830722,
+                        38.562316
+                  ]
+            },
+            {
+                  "name": "Masch'id bo nomi Mavlono Iok'ubi Charkhi",
+                  "text": "Eine historische Moschee und Schrein-Anlage, die nach dem Sufi-Meister Mavlono Yaqubi Charkhi benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        68.866621,
+                        38.542849
+                  ]
+            },
+            {
+                  "name": "Mekhrgon",
+                  "text": "Ein prächtiger Basar in einem palastartigen Gebäude, bekannt für seine kunstvolle Innenarchitektur.",
+                  "category": "cultural",
+                  "coords": [
+                        68.800196,
+                        38.58643
+                  ]
+            },
+            {
+                  "name": "TTs Mekhrgon",
+                  "text": "Der moderne Mehrgon-Markt bietet frische Lebensmittel in einer beeindruckenden, säulengesäumten Halle.",
+                  "category": "cultural",
+                  "coords": [
+                        68.799271,
+                        38.585973
+                  ]
+            },
+            {
+                  "name": "Produktovyi bazar",
+                  "text": "Ein lokaler Lebensmittelmarkt, auf dem frisches Obst, Gemüse und tadschikisches Fladenbrot verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        68.86602,
+                        38.551826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cable Car Top Station",
+                  "text": "A felvonó felső állomása széles kilátást nyújt a Győzelem parkra és a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        68.81053,
+                        38.579001
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "Egy dombtetőn lévő emlékhely, amely a második világháborús győzelemnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        68.813954,
+                        38.581508
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Helyi mecset, amely a Győzelem park környékén élők imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        68.799536,
+                        38.580476
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Reka Zhizni>>",
+                  "text": "Keresztény templom Dusanbében, amely istentiszteleteket tart a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.830722,
+                        38.562316
+                  ]
+            },
+            {
+                  "name": "Masch'id bo nomi Mavlono Iok'ubi Charkhi",
+                  "text": "Történelmi mecset és kegyhely, amelyet Mavlono Yaqubi Charkhi szúfi mesterről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        68.866621,
+                        38.542849
+                  ]
+            },
+            {
+                  "name": "Mekhrgon",
+                  "text": "Pompás bazár egy palotaszerű épületben, amely díszes belső építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        68.800196,
+                        38.58643
+                  ]
+            },
+            {
+                  "name": "TTs Mekhrgon",
+                  "text": "A modern Mehrgon piac friss élelmiszereket kínál egy lenyűgöző, oszlopcsarnokos épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        68.799271,
+                        38.585973
+                  ]
+            },
+            {
+                  "name": "Produktovyi bazar",
+                  "text": "Helyi élelmiszerpiac, ahol friss gyümölcsöt, zöldséget és tádzsik lepénykenyeret árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        68.86602,
+                        38.551826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cable Car Top Station",
+                  "text": "Stația superioară a telecabinei oferă o vedere panoramică asupra Parcului Victoriei și a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.81053,
+                        38.579001
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "Un complex memorial situat pe un deal, care comemorează victoria în cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        68.813954,
+                        38.581508
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee locală care servește ca lăcaș de rugăciune pentru locuitorii din zona Parcului Victoriei.",
+                  "category": "landmark",
+                  "coords": [
+                        68.799536,
+                        38.580476
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Reka Zhizni>>",
+                  "text": "O biserică creștină din Dușanbe, care desfășoară servicii religioase pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        68.830722,
+                        38.562316
+                  ]
+            },
+            {
+                  "name": "Masch'id bo nomi Mavlono Iok'ubi Charkhi",
+                  "text": "O moschee istorică și un complex de sanctuare numit după maestrul sufit Mavlono Yaqubi Charkhi.",
+                  "category": "landmark",
+                  "coords": [
+                        68.866621,
+                        38.542849
+                  ]
+            },
+            {
+                  "name": "Mekhrgon",
+                  "text": "Un bazar magnific într-o clădire palatială, cunoscut pentru arhitectura sa interioară elaborată.",
+                  "category": "cultural",
+                  "coords": [
+                        68.800196,
+                        38.58643
+                  ]
+            },
+            {
+                  "name": "TTs Mekhrgon",
+                  "text": "Piața modernă Mehrgon oferă alimente proaspete într-o hală impresionantă, flancată de coloane.",
+                  "category": "cultural",
+                  "coords": [
+                        68.799271,
+                        38.585973
+                  ]
+            },
+            {
+                  "name": "Produktovyi bazar",
+                  "text": "O piață alimentară locală unde se vând fructe proaspete, legume și pâine plată tadjică.",
+                  "category": "cultural",
+                  "coords": [
+                        68.86602,
+                        38.551826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cable Car Top Station",
+                  "text": "The cable car's top station offers an elevated view over Victory Park and the city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        68.81053,
+                        38.579001
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "A memorial complex situated on a hill, commemorating the victory in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        68.813954,
+                        38.581508
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A local mosque serving as a place of prayer for residents in the Victory Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        68.799536,
+                        38.580476
+                  ]
+            },
+            {
+                  "name": "River of Life Church",
+                  "text": "A Christian church in Dushanbe conducting services for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        68.830722,
+                        38.562316
+                  ]
+            },
+            {
+                  "name": "Masch'id bo nomi Mavlono Iok'ubi Charkhi",
+                  "text": "A historic mosque and shrine complex named after the Sufi master Mavlono Yaqubi Charkhi.",
+                  "category": "landmark",
+                  "coords": [
+                        68.866621,
+                        38.542849
+                  ]
+            },
+            {
+                  "name": "Mekhrgon",
+                  "text": "A magnificent bazaar housed in a palatial building, known for its ornate interior architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        68.800196,
+                        38.58643
+                  ]
+            },
+            {
+                  "name": "Mehrgon market (bazar)",
+                  "text": "The modern Mehrgon market offers fresh food inside an impressive, pillared hall.",
+                  "category": "cultural",
+                  "coords": [
+                        68.799271,
+                        38.585973
+                  ]
+            },
+            {
+                  "name": "Produktovyi bazar",
+                  "text": "A local food market where fresh fruit, vegetables, and Tajik flatbread are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        68.86602,
+                        38.551826
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TJ-DU",
     coords: [68.8058, 38.5836],
@@ -819,7 +3681,88 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "tj-bunjikat-history-v2",
+    id: "tj-bunjikat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bunjikat",
+                  "text": "Die Ruinen der antiken Hauptstadt von Ustrushana mit Überresten von Palästen und Festungsmauern.",
+                  "category": "historical",
+                  "coords": [
+                        68.798883,
+                        39.770136
+                  ]
+            },
+            {
+                  "name": "Pamiatnik kapitoliiskoi volchitse",
+                  "text": "Eine Nachbildung der römischen Kapitolinischen Wölfin, die an die historische Seidenstraßen-Verbindung erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        68.76842,
+                        39.729882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunjikat",
+                  "text": "Usztrusana ősi fővárosának romjai, paloták és erődfalak maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        68.798883,
+                        39.770136
+                  ]
+            },
+            {
+                  "name": "Pamiatnik kapitoliiskoi volchitse",
+                  "text": "A római capitoliumi farkas másolata, amely a történelmi Selyemút-kapcsolatokra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        68.76842,
+                        39.729882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunjikat",
+                  "text": "Ruinele vechii capitale a Ustrushanei, cu vestigii de palate și ziduri de fortificație.",
+                  "category": "historical",
+                  "coords": [
+                        68.798883,
+                        39.770136
+                  ]
+            },
+            {
+                  "name": "Pamiatnik kapitoliiskoi volchitse",
+                  "text": "O replică a lupoaicei capitoline din Roma, care amintește de conexiunile istorice de pe Drumul Mătăsii.",
+                  "category": "historical",
+                  "coords": [
+                        68.76842,
+                        39.729882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunjikat",
+                  "text": "The ruins of the ancient capital of Ustrushana, featuring remains of palaces and fortification walls.",
+                  "category": "historical",
+                  "coords": [
+                        68.798883,
+                        39.770136
+                  ]
+            },
+            {
+                  "name": "Capitoline Wolf Monument",
+                  "text": "A replica of the Roman Capitoline Wolf, commemorating historical Silk Road connections.",
+                  "category": "historical",
+                  "coords": [
+                        68.76842,
+                        39.729882
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TJ-SU",
     coords: [68.8167, 39.7667],

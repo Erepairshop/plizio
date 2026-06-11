@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraIranHistoryV2: POI[] = [
   {
-    id: "iran-persepolis-history-v2",
+    id: "iran-persepolis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum von Persepolis",
+                  "text": "Ein Museum in den antiken Ruinen von Persepolis, das historische Fundstücke der achämenidischen Epoche ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        52.891207,
+                        29.934024
+                  ]
+            },
+            {
+                  "name": "Grab von Artaxerxes III.",
+                  "text": "Ein antikes, in den Fels gehauenes Grabmal, das die monumentalen Ruinen von Persepolis überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        52.892461,
+                        29.935869
+                  ]
+            },
+            {
+                  "name": "Persepolis",
+                  "text": "Eine zum UNESCO-Weltkulturerbe zählende Ruinenstätte, die einst die zeremonielle Hauptstadt des Achämenidenreichs war.",
+                  "category": "landmark",
+                  "coords": [
+                        52.890407,
+                        29.935239
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun A",
+                  "text": "Eine prähistorische archäologische Ausgrabungsstätte nahe Persepolis, die für ihre bemalte Keramik bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        52.885634,
+                        29.913773
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun B",
+                  "text": "Eine antike Ausgrabungsstätte, die sich in unmittelbarer Nähe des historischen Komplexes von Persepolis befindet.",
+                  "category": "historical",
+                  "coords": [
+                        52.888376,
+                        29.913022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Persepolis",
+                  "text": "Múzeum Perszepolisz ősi romjai között, amely az Akhaimenida korszak történelmi leleteit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        52.891207,
+                        29.934024
+                  ]
+            },
+            {
+                  "name": "Tomb of Artaxerxes III.",
+                  "text": "Ősi, sziklába vájt síremlék, amely Perszepolisz monumentális romjaira néz.",
+                  "category": "landmark",
+                  "coords": [
+                        52.892461,
+                        29.935869
+                  ]
+            },
+            {
+                  "name": "Perszepolisz",
+                  "text": "UNESCO világörökségi romterület, amely egykor az Akhaimenida Birodalom ceremoniális fővárosa volt.",
+                  "category": "landmark",
+                  "coords": [
+                        52.890407,
+                        29.935239
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun A",
+                  "text": "Történelem előtti régészeti ásatási helyszín Perszepolisz közelében, amely festett kerámiáiról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        52.885634,
+                        29.913773
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun B",
+                  "text": "Ősi feltárási terület, amely Perszepolisz történelmi komplexumának közvetlen közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        52.888376,
+                        29.913022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Persepolis",
+                  "text": "Un muzeu situat printre ruinele antice din Persepolis, care expune artefacte istorice din epoca ahemenidă.",
+                  "category": "museum",
+                  "coords": [
+                        52.891207,
+                        29.934024
+                  ]
+            },
+            {
+                  "name": "Tomb of Artaxerxes III.",
+                  "text": "Un mormânt antic săpat în stâncă, care oferă o priveliște asupra ruinelor monumentale din Persepolis.",
+                  "category": "landmark",
+                  "coords": [
+                        52.892461,
+                        29.935869
+                  ]
+            },
+            {
+                  "name": "Persepolis",
+                  "text": "Un sit arheologic din patrimoniul mondial UNESCO, care a fost odată capitala ceremonială a Imperiului Ahemenid.",
+                  "category": "landmark",
+                  "coords": [
+                        52.890407,
+                        29.935239
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun A",
+                  "text": "Un sit de excavații arheologice preistorice lângă Persepolis, renumit pentru ceramica sa pictată.",
+                  "category": "historical",
+                  "coords": [
+                        52.885634,
+                        29.913773
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun B",
+                  "text": "O zonă antică de excavații situată în imediata apropiere a complexului istoric Persepolis.",
+                  "category": "historical",
+                  "coords": [
+                        52.888376,
+                        29.913022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Persepolis",
+                  "text": "A museum located among the ancient ruins of Persepolis that exhibits historical artifacts from the Achaemenid era.",
+                  "category": "museum",
+                  "coords": [
+                        52.891207,
+                        29.934024
+                  ]
+            },
+            {
+                  "name": "Tomb of Artaxerxes III.",
+                  "text": "An ancient rock-cut tomb that overlooks the monumental ruins of Persepolis.",
+                  "category": "landmark",
+                  "coords": [
+                        52.892461,
+                        29.935869
+                  ]
+            },
+            {
+                  "name": "Persepolis",
+                  "text": "A UNESCO World Heritage ruin site that once served as the ceremonial capital of the Achaemenid Empire.",
+                  "category": "landmark",
+                  "coords": [
+                        52.890407,
+                        29.935239
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun A",
+                  "text": "A prehistoric archaeological excavation site near Persepolis renowned for its painted pottery.",
+                  "category": "historical",
+                  "coords": [
+                        52.885634,
+                        29.913773
+                  ]
+            },
+            {
+                  "name": "Tall-e Bakun B",
+                  "text": "An ancient excavation area located in the immediate vicinity of the historical Persepolis complex.",
+                  "category": "historical",
+                  "coords": [
+                        52.888376,
+                        29.913022
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [52.8906, 29.9360],
@@ -70,7 +259,340 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Fondation par Darius Ier en l'an 518 av. J.-C.", "La terrasse couvre une superficie d'environ 125 000 mètres carrés", "Le palais de l'Apadana pouvait accueillir jusqu'à 10 000 invités", "Destruction par Alexandre le Grand en 330 av. J.-C.", "Les colonnes de l'Apadana mesuraient à l'origine jusqu'à 20 mètres de haut", "Désignation au patrimoine mondial de l'UNESCO en 1979"],
     }, image: "/poi-images/iran-persepolis-history-v2.webp"},
   {
-    id: "iran-pasargadae-history-v2",
+    id: "iran-pasargadae-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall-i Takht (Throne Hill)",
+                  "text": "Eine unvollendete steinerne Zitadellenplattform, die während der Herrschaft von Kyros dem Großen in Pasargadae erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        53.185989,
+                        30.207572
+                  ]
+            },
+            {
+                  "name": "Pavillon B",
+                  "text": "Die steinernen Überreste eines antiken Gartenpavillons im königlichen Komplex von Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.178204,
+                        30.200741
+                  ]
+            },
+            {
+                  "name": "Privatpalast",
+                  "text": "Die zerstörten Säulen und Fundamente der privaten Wohnräume von Kyros dem Großen im antiken Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.177943,
+                        30.202713
+                  ]
+            },
+            {
+                  "name": "Taḵt-e mādar-e Soleymān",
+                  "text": "Ein befestigtes massives Steinbauwerk in Pasargadae, das traditionell als der Thron der Mutter Salomos bezeichnet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        53.184983,
+                        30.208011
+                  ]
+            },
+            {
+                  "name": "Torhaus",
+                  "text": "Die baulichen Überreste des monumentalen Eingangspavillons, der in den königlichen Palastbezirk von Pasargadae führte.",
+                  "category": "historical",
+                  "coords": [
+                        53.179944,
+                        30.198527
+                  ]
+            },
+            {
+                  "name": "Audienzpalast",
+                  "text": "Ein frühachämenidischer Säulensaal in Pasargadae, in dem der König historisch Gäste und Würdenträger empfing.",
+                  "category": "historical",
+                  "coords": [
+                        53.178035,
+                        30.199597
+                  ]
+            },
+            {
+                  "name": "Pavillon A",
+                  "text": "Ein ausgegrabener antiker Pavillon nahe den Wasserkanälen des königlichen Gartens im Pasargadae-Komplex.",
+                  "category": "historical",
+                  "coords": [
+                        53.180116,
+                        30.201423
+                  ]
+            },
+            {
+                  "name": "Grabmal Kyros II",
+                  "text": "Ein stufenförmiges megalithisches Kalksteinmonument in Pasargadae, das als Ruhestätte von Kyros dem Großen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167188,
+                        30.193953
+                  ]
+            },
+            {
+                  "name": "Muzaffarid Caravanserai",
+                  "text": "Eine Karawanserei aus dem 14. Jahrhundert, die aus Steinen der Paläste von Pasargadae erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        53.168212,
+                        30.195136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tall-i Takht (Throne Hill)",
+                  "text": "Egy befejezetlen kő citadella platform, amelyet Nagy Kürosz uralkodása alatt építettek Paszargadaiban.",
+                  "category": "historical",
+                  "coords": [
+                        53.185989,
+                        30.207572
+                  ]
+            },
+            {
+                  "name": "Pavilion B",
+                  "text": "Egy ókori kerti pavilon kőszerkezetének maradványai Paszargadai királyi komplexumában.",
+                  "category": "historical",
+                  "coords": [
+                        53.178204,
+                        30.200741
+                  ]
+            },
+            {
+                  "name": "Residential Palace",
+                  "text": "Nagy Kürosz egykori magánlakosztályainak oszlop- és alapzatromjai az ókori Paszargadaiban.",
+                  "category": "historical",
+                  "coords": [
+                        53.177943,
+                        30.202713
+                  ]
+            },
+            {
+                  "name": "Taḵt-e mādar-e Soleymān",
+                  "text": "Egy megerősített hatalmas kőépítmény Paszargadaiban, amelyet hagyományosan Salamon anyjának trónjaként emlegetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        53.184983,
+                        30.208011
+                  ]
+            },
+            {
+                  "name": "Gatehouse",
+                  "text": "A monumentális bejárati pavilon szerkezeti maradványai, amely Paszargadai királyi palotanegyedébe vezetett.",
+                  "category": "historical",
+                  "coords": [
+                        53.179944,
+                        30.198527
+                  ]
+            },
+            {
+                  "name": "Audience Palace",
+                  "text": "Egy kora akhaimenida oszlopcsarnok Paszargadaiban, ahol a király a vendégeket és a méltóságokat fogadta.",
+                  "category": "historical",
+                  "coords": [
+                        53.178035,
+                        30.199597
+                  ]
+            },
+            {
+                  "name": "Pavilion A",
+                  "text": "Egy feltárt ókori pavilon a királyi kert vízcsatornái közelében, a paszargadai komplexumban.",
+                  "category": "historical",
+                  "coords": [
+                        53.180116,
+                        30.201423
+                  ]
+            },
+            {
+                  "name": "Tomb of Cyrus II",
+                  "text": "Egy lépcsőzetes, megalitikus mészkő emlékmű Paszargadaiban, amely Nagy Kürosz nyughelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167188,
+                        30.193953
+                  ]
+            },
+            {
+                  "name": "Muzaffarid Caravanserai",
+                  "text": "Egy 14. századi karavánszeráj, amelyet a paszargadai palotákból szállított kövekből építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        53.168212,
+                        30.195136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tall-i Takht (Throne Hill)",
+                  "text": "O platformă de piatră a unei cetăți neterminate, construită în timpul domniei lui Cirus cel Mare la Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.185989,
+                        30.207572
+                  ]
+            },
+            {
+                  "name": "Pavilion B",
+                  "text": "Rămășițele structurale din piatră ale unui vechi pavilion de grădină din complexul regal de la Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.178204,
+                        30.200741
+                  ]
+            },
+            {
+                  "name": "Residential Palace",
+                  "text": "Coloanele și fundațiile ruinate ale locuinței private a lui Cirus cel Mare din anticul Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.177943,
+                        30.202713
+                  ]
+            },
+            {
+                  "name": "Taḵt-e mādar-e Soleymān",
+                  "text": "O structură masivă din piatră fortificată în Pasargadae, numită tradițional Tronul Mamei lui Solomon.",
+                  "category": "landmark",
+                  "coords": [
+                        53.184983,
+                        30.208011
+                  ]
+            },
+            {
+                  "name": "Gatehouse",
+                  "text": "Rămășițele structurale ale pavilionului de la intrarea monumentală care ducea spre zona palatului regal din Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.179944,
+                        30.198527
+                  ]
+            },
+            {
+                  "name": "Audience Palace",
+                  "text": "O sală cu coloane ahemenidă timpurie din Pasargadae, unde regele primea istoric oaspeții și demnitarii.",
+                  "category": "historical",
+                  "coords": [
+                        53.178035,
+                        30.199597
+                  ]
+            },
+            {
+                  "name": "Pavilion A",
+                  "text": "Un pavilion antic excavat situat lângă canalele de apă ale grădinii regale din complexul Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.180116,
+                        30.201423
+                  ]
+            },
+            {
+                  "name": "Tomb of Cyrus II",
+                  "text": "Un monument megalitic în trepte din calcar situat în Pasargadae, servind drept loc de odihnă al lui Cirus cel Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167188,
+                        30.193953
+                  ]
+            },
+            {
+                  "name": "Muzaffarid Caravanserai",
+                  "text": "Un caravanserai din secolul al XIV-lea, construit din pietre transportate de la palatele din Pasargadae.",
+                  "category": "landmark",
+                  "coords": [
+                        53.168212,
+                        30.195136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall-i Takht (Throne Hill)",
+                  "text": "An unfinished stone citadel platform built during the reign of Cyrus the Great in Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.185989,
+                        30.207572
+                  ]
+            },
+            {
+                  "name": "Pavilion B",
+                  "text": "The stone structural remains of an ancient garden pavilion in the royal complex of Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.178204,
+                        30.200741
+                  ]
+            },
+            {
+                  "name": "Residential Palace",
+                  "text": "The ruined columns and foundations of Cyrus the Great's private living quarters in ancient Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.177943,
+                        30.202713
+                  ]
+            },
+            {
+                  "name": "Taḵt-e mādar-e Soleymān",
+                  "text": "A fortified massive stone structure in Pasargadae traditionally referred to as the Throne of the Mother of Solomon.",
+                  "category": "landmark",
+                  "coords": [
+                        53.184983,
+                        30.208011
+                  ]
+            },
+            {
+                  "name": "Gatehouse",
+                  "text": "The structural remnants of the monumental entrance pavilion leading into the royal palace precinct of Pasargadae.",
+                  "category": "historical",
+                  "coords": [
+                        53.179944,
+                        30.198527
+                  ]
+            },
+            {
+                  "name": "Audience Palace",
+                  "text": "An early Achaemenid columned hall in Pasargadae where the king historically received guests and dignitaries.",
+                  "category": "historical",
+                  "coords": [
+                        53.178035,
+                        30.199597
+                  ]
+            },
+            {
+                  "name": "Pavilion A",
+                  "text": "An excavated ancient pavilion situated near the royal garden's water channels in the Pasargadae complex.",
+                  "category": "historical",
+                  "coords": [
+                        53.180116,
+                        30.201423
+                  ]
+            },
+            {
+                  "name": "Tomb of Cyrus II",
+                  "text": "A stepped, megalithic limestone monument in Pasargadae serving as the resting place of Cyrus the Great.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167188,
+                        30.193953
+                  ]
+            },
+            {
+                  "name": "Muzaffarid Caravanserai",
+                  "text": "A 14th-century caravanserai constructed from stones transported from the palaces of Pasargadae.",
+                  "category": "landmark",
+                  "coords": [
+                        53.168212,
+                        30.195136
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [53.1783, 30.1983],
@@ -137,7 +659,1312 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Fondation par Cyrus le Grand vers l'an 550 av. J.-C.", "Le tombeau de Cyrus est composé de blocs de calcaire massifs", "L'ensemble du site de Pasargades s'étend sur 1,6 kilomètre carré", "Les premières fouilles systématiques ont commencé en 1928 par Ernst Herzfeld", "Officiellement classé au patrimoine mondial de l'UNESCO depuis 2004", "Cyrus est tombé au combat en 530 av. J.-C., après quoi son tombeau fut achevé ici"],
     }, image: "/poi-images/iran-pasargadae-history-v2.webp"},
   {
-    id: "iran-golestan-palace-history-v2",
+    id: "iran-golestan-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eshrat Abad Kolah Farangi Museum",
+                  "text": "Ein oktogonaler Qadscharen-Palast mit charakteristischem Pavillon (Kolah Farangi), der heute als Teil eines historischen Museumskomplexes erhalten ist.",
+                  "category": "museum",
+                  "coords": [
+                        51.441659,
+                        35.709447
+                  ]
+            },
+            {
+                  "name": "Farahabad Palace",
+                  "text": "Dieses Jagdschloss aus der Qadscharen-Zeit liegt im Osten Teherans und beeindruckt durch seine historische Architektur inmitten ehemaliger königlicher Gärten.",
+                  "category": "museum",
+                  "coords": [
+                        51.508781,
+                        35.701302
+                  ]
+            },
+            {
+                  "name": "Abyaz Palace",
+                  "text": "Dieser Flügel des Golestan-Palastes beherbergt heute das Anthropologische Museum und besticht durch seine schneeweiße Fassade und europäisch inspirierten Details.",
+                  "category": "museum",
+                  "coords": [
+                        51.420065,
+                        35.679386
+                  ]
+            },
+            {
+                  "name": "Golestanpalast",
+                  "text": "Ein UNESCO-Weltkulturerbe und ehemaliger königlicher Komplex, der für seine prunkvollen Spiegelsäle und die kunstvollen Kachelarbeiten der Qadscharen-Dynastie berühmt ist.",
+                  "category": "museum",
+                  "coords": [
+                        51.420613,
+                        35.680451
+                  ]
+            },
+            {
+                  "name": "Friedensmuseum Teheran",
+                  "text": "Ein Museum im Stadtpark von Teheran, das sich der Förderung des Friedens widmet und die Auswirkungen chemischer Waffen während des Iran-Irak-Krieges dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        51.41459,
+                        35.68435
+                  ]
+            },
+            {
+                  "name": "National jewellery museum",
+                  "text": "Diese in einem Tresor der Zentralbank untergebrachte Schatzkammer zeigt eine weltberühmte Sammlung, darunter den Pfauenthron und den Darya-ye Noor-Diamanten.",
+                  "category": "museum",
+                  "coords": [
+                        51.419309,
+                        35.693168
+                  ]
+            },
+            {
+                  "name": "Masoudieh Palace",
+                  "text": "Ein prächtiger Qadscharen-Palast mit wunderschönen Buntglasfenstern und kunstvollen Stuckarbeiten, der heute als kulturelles Denkmal besichtigt werden kann.",
+                  "category": "museum",
+                  "coords": [
+                        51.428194,
+                        35.689346
+                  ]
+            },
+            {
+                  "name": "Shamsol Emare",
+                  "text": "Das im Golestan-Palast gelegene „Gebäude der Sonne“ war Teherans erster Wolkenkratzer und kombiniert persische Tradition mit europäischer Turmarchitektur.",
+                  "category": "museum",
+                  "coords": [
+                        51.42211,
+                        35.679469
+                  ]
+            },
+            {
+                  "name": "Daniel Synagogue (Polish)",
+                  "text": "Eine historische Synagoge in Teheran, die während des Zweiten Weltkriegs eine wichtige Zufluchtsstätte für die polnisch-jüdische Gemeinde war.",
+                  "category": "religious",
+                  "coords": [
+                        51.413134,
+                        35.692881
+                  ]
+            },
+            {
+                  "name": "Sardar é Bagh Melli",
+                  "text": "Dieses prächtige Zeremonialtor aus der Qadscharen-Zeit diente einst als Haupteingang zu einem militärischen Paradeplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416899,
+                        35.686065
+                  ]
+            },
+            {
+                  "name": "Park-e Shahr",
+                  "text": "Teherans ältester öffentlicher Park bietet einen Vogelgarten und einen friedlichen See im Herzen des Stadtzentrums.",
+                  "category": "park",
+                  "coords": [
+                        51.413747,
+                        35.683048
+                  ]
+            },
+            {
+                  "name": "Negarestan Museum Garden",
+                  "text": "Dieser historische Garten beherbergt traditionelle Qadscharen-Pavillons und eine Galerie mit königlichen Porträts aus dem 19. Jahrhundert.",
+                  "category": "park",
+                  "coords": [
+                        51.432784,
+                        35.694619
+                  ]
+            },
+            {
+                  "name": "Azadegan Water Park",
+                  "text": "Dieser weitläufige Freiluftkomplex ist einer der größten Wasserparks der Stadt und bietet zahlreiche Rutschen und Außenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        51.47308,
+                        35.631873
+                  ]
+            },
+            {
+                  "name": "The Marble Throne",
+                  "text": "Dieser prunkvolle königliche Thron im Golestan-Palast wurde kunstvoll aus 65 Stücken gelbem Yazd-Marmor gefertigt.",
+                  "category": "museum",
+                  "coords": [
+                        51.419377,
+                        35.680308
+                  ]
+            },
+            {
+                  "name": "Rashkan Castle",
+                  "text": "Diese antiken Ruinen auf einem felsigen Hügel waren einst Teil der Befestigungsanlagen von Rey aus der Partherzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451645,
+                        35.605266
+                  ]
+            },
+            {
+                  "name": "Post Museum",
+                  "text": "In einem prächtigen Qadscharen-Bau untergebracht, zeigt dieses Museum historische Briefmarken und antike Telegrafengeräte.",
+                  "category": "museum",
+                  "coords": [
+                        51.417903,
+                        35.686232
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum",
+                  "text": "Dieses führende Institut beherbergt archäologische Schätze, darunter Töpferwaren und Funde aus der Altsteinzeit.",
+                  "category": "museum",
+                  "coords": [
+                        51.414611,
+                        35.687077
+                  ]
+            },
+            {
+                  "name": "Malek-Nationalbibliothek und -museum",
+                  "text": "Dieses Kulturzentrum beherbergt eine riesige Sammlung seltener Manuskripte und Tausende von wertvollen historischen Münzen.",
+                  "category": "museum",
+                  "coords": [
+                        51.416303,
+                        35.686999
+                  ]
+            },
+            {
+                  "name": "Iranisches Museum für Glas und Keramik",
+                  "text": "In einem eleganten Qadscharen-Palais untergebracht, zeigt dieses Museum exquisite antike Töpferwaren und kunstvolle Glasgefäße.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.693407
+                  ]
+            },
+            {
+                  "name": "Dar ul-Funun",
+                  "text": "Dieses 1851 gegründete Gebäude beherbergte die erste moderne Hochschule des Iran mit einem markanten quadratischen Innenhof.",
+                  "category": "museum",
+                  "coords": [
+                        51.421933,
+                        35.683745
+                  ]
+            },
+            {
+                  "name": "Catholic Armenian Church",
+                  "text": "Diese armenisch-katholische Gebetsstätte dient der lokalen christlichen Gemeinde mit ihrer traditionellen religiösen Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        51.414032,
+                        35.699901
+                  ]
+            },
+            {
+                  "name": "Saint Thaddeus Church",
+                  "text": "Diese historische armenische Kirche aus dem 18. Jahrhundert liegt am Rande des Basars und ist eine der ältesten der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        51.427557,
+                        35.670534
+                  ]
+            },
+            {
+                  "name": "Majdoldolah Mosque",
+                  "text": "Diese traditionelle Moschee aus der Qadscharen-Zeit ist für ihren klassischen Innenhof und die farbenfroh geflieste Gebetshalle bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        51.412673,
+                        35.686313
+                  ]
+            },
+            {
+                  "name": "Sankt Peter",
+                  "text": "Diese 1891 erbaute presbyterianische Kirche verfügt über einen schlichten Saal und dient der lokalen protestantischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        51.414953,
+                        35.691672
+                  ]
+            },
+            {
+                  "name": "Fakhr al-Dawla Mosque",
+                  "text": "Diese Moschee aus der Qadscharen-Ära besticht durch ihr einzigartiges Kuppeldesign und die feinen Ziegelverzierungen.",
+                  "category": "religious",
+                  "coords": [
+                        51.437099,
+                        35.698071
+                  ]
+            },
+            {
+                  "name": "Imam Khomeini Mosque",
+                  "text": "Diese im Großen Basar gelegene Vier-Iwan-Moschee ist ein bedeutendes Meisterwerk der sakralen Architektur der Qadscharen.",
+                  "category": "religious",
+                  "coords": [
+                        51.422029,
+                        35.676132
+                  ]
+            },
+            {
+                  "name": "Shrine of Seyed Naserodin",
+                  "text": "Dieser historische Schrein nahe dem Basar verfügt über eine prachtvoll verspiegelte Kuppel und einen alten Innenhof.",
+                  "category": "religious",
+                  "coords": [
+                        51.416058,
+                        35.67219
+                  ]
+            },
+            {
+                  "name": "Simorgh park",
+                  "text": "Diese lokale Grünanlage im Viertel bietet einen modernen Spielplatz und befestigte Wanderwege für Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        51.486308,
+                        35.707477
+                  ]
+            },
+            {
+                  "name": "Mostafa Khomeyni Park",
+                  "text": "Dieser Stadtteilpark bietet einen grünen Rückzugsort mit dichtem Baumbestand und Bänken im urbanen Umfeld.",
+                  "category": "park",
+                  "coords": [
+                        51.43325,
+                        35.69301
+                  ]
+            },
+            {
+                  "name": "Besat Park",
+                  "text": "Dieser große Park im Süden der Stadt verfügt über einen See, Sportanlagen und weite Rasenflächen für Picknicks.",
+                  "category": "park",
+                  "coords": [
+                        51.426098,
+                        35.648926
+                  ]
+            },
+            {
+                  "name": "Valiasr Park",
+                  "text": "Ein gepflegter Stadtpark an der berühmten Valiasr-Allee, der sich ideal für eine kurze Rast im Schatten eignet.",
+                  "category": "park",
+                  "coords": [
+                        51.452395,
+                        35.653974
+                  ]
+            },
+            {
+                  "name": "Vafa Park",
+                  "text": "Dieser kleine lokale Park bietet eine ruhige, grüne Oase inmitten der dichten Wohnbebauung der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        51.448829,
+                        35.646338
+                  ]
+            },
+            {
+                  "name": "Famouri's House",
+                  "text": "Diese restaurierte Qadscharen-Residenz verfügt über einen traditionellen Innenhof mit Wasserbecken und dient als Kulturcafé.",
+                  "category": "museum",
+                  "coords": [
+                        51.41011,
+                        35.695456
+                  ]
+            },
+            {
+                  "name": "Aaran Projects",
+                  "text": "Diese Galerie für zeitgenössische Kunst zeigt in ihren minimalistischen Räumen wechselnde Werke moderner iranischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        51.411357,
+                        35.69702
+                  ]
+            },
+            {
+                  "name": "Iranian National Science and Technology Museum",
+                  "text": "Dieses interaktive Museum zeigt Exponate zu historischen persischen Erfindungen sowie moderne wissenschaftliche Experimente.",
+                  "category": "museum",
+                  "coords": [
+                        51.414716,
+                        35.688197
+                  ]
+            },
+            {
+                  "name": "Argo Factory",
+                  "text": "Diese ehemalige Brauerei wurde in ein preisgekröntes Museum für zeitgenössische Kunst mit markantem Industriedesign verwandelt.",
+                  "category": "museum",
+                  "coords": [
+                        51.421587,
+                        35.699335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eshrat Abad Kolah Farangi Museum",
+                  "text": "Kádzsár-kori nyolcszögletű palota jellegzetes pavilonnal (Kolah Farangi), amely ma egy történelmi múzeumkomplexum részeként maradt fenn.",
+                  "category": "museum",
+                  "coords": [
+                        51.441659,
+                        35.709447
+                  ]
+            },
+            {
+                  "name": "Farahabad Palace",
+                  "text": "Ez a Kádzsár-kori vadászkastély Teherán keleti részén található, és történelmi építészetével nyűgöz le az egykori királyi kertek közepén.",
+                  "category": "museum",
+                  "coords": [
+                        51.508781,
+                        35.701302
+                  ]
+            },
+            {
+                  "name": "Abyaz Palace",
+                  "text": "A Golesztán-palota ezen szárnya ma az Antropológiai Múzeumnak ad otthont, és hófehér homlokzatával, valamint európai ihletésű részleteivel tűnik ki.",
+                  "category": "museum",
+                  "coords": [
+                        51.420065,
+                        35.679386
+                  ]
+            },
+            {
+                  "name": "Golestan Palace",
+                  "text": "Az UNESCO Világörökség része, egykori királyi komplexum, amely pazar tükörtermeiről és a Kádzsár-dinasztia díszes csempemunkáiról híres.",
+                  "category": "museum",
+                  "coords": [
+                        51.420613,
+                        35.680451
+                  ]
+            },
+            {
+                  "name": "Peace museum Tehran",
+                  "text": "A teheráni városi parkban található múzeum, amely a béke népszerűsítésének szenteli magát, és az iráni–iraki háború alatt használt vegyi fegyverek hatásait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        51.41459,
+                        35.68435
+                  ]
+            },
+            {
+                  "name": "National jewellery museum",
+                  "text": "A Központi Bank széfjében elhelyezett kincstár világhírű gyűjteményt mutat be, beleértve a Pávatrónt és a Darya-ye Noor gyémántot.",
+                  "category": "museum",
+                  "coords": [
+                        51.419309,
+                        35.693168
+                  ]
+            },
+            {
+                  "name": "Masoudieh Palace",
+                  "text": "Pompás Kádzsár-kori palota gyönyörű ólomüveg ablakokkal és díszes stukkókkal, amely ma kulturális emlékműként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        51.428194,
+                        35.689346
+                  ]
+            },
+            {
+                  "name": "Shamsol Emare",
+                  "text": "A Golesztán-palotában található „Nap épülete” volt Teherán első felhőkarcolója, amely a perzsa hagyományokat ötvözi az európai toronyépítészettel.",
+                  "category": "museum",
+                  "coords": [
+                        51.42211,
+                        35.679469
+                  ]
+            },
+            {
+                  "name": "Daniel Synagogue (Polish)",
+                  "text": "Történelmi zsinagóga Teheránban, amely a második világháború alatt a lengyel-zsidó közösség fontos menedékhelye volt.",
+                  "category": "religious",
+                  "coords": [
+                        51.413134,
+                        35.692881
+                  ]
+            },
+            {
+                  "name": "Sardar é Bagh Melli",
+                  "text": "Ez a díszes, Kádzsár-kori ünnepi kapu egykor egy katonai díszszemletér főbejárataként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416899,
+                        35.686065
+                  ]
+            },
+            {
+                  "name": "Park-e Shahr",
+                  "text": "Teherán legrégebbi nyilvános parkja madárkerttel és egy nyugodt tóval várja a látogatókat a városközpont szívében.",
+                  "category": "park",
+                  "coords": [
+                        51.413747,
+                        35.683048
+                  ]
+            },
+            {
+                  "name": "Negarestan Museum Garden",
+                  "text": "Ez a történelmi kert hagyományos Kádzsár-pavilonoknak és egy 19. századi királyi portrékat bemutató galériának ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        51.432784,
+                        35.694619
+                  ]
+            },
+            {
+                  "name": "Azadegan Water Park",
+                  "text": "Ez a kiterjedt szabadtéri komplexum a város egyik legnagyobb víziparkja, számos csúszdával és kinti medencével.",
+                  "category": "recreational",
+                  "coords": [
+                        51.47308,
+                        35.631873
+                  ]
+            },
+            {
+                  "name": "The Marble Throne",
+                  "text": "A Golesztán-palotában található pompás királyi trón 65 darab sárga jazdi márványból készült.",
+                  "category": "museum",
+                  "coords": [
+                        51.419377,
+                        35.680308
+                  ]
+            },
+            {
+                  "name": "Rashkan Castle",
+                  "text": "Ezek a sziklás dombtetőn lévő ősi romok egykor az ókori Rey pártus kori erődítményeinek részét képezték.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451645,
+                        35.605266
+                  ]
+            },
+            {
+                  "name": "Post Museum",
+                  "text": "Egy pompás Kádzsár-kori épületben elhelyezett múzeum történelmi bélyegeket és antik távírókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        51.417903,
+                        35.686232
+                  ]
+            },
+            {
+                  "name": "Iran National Museum",
+                  "text": "Ez a vezető intézmény régészeti kincseket, többek között kerámiákat és az őskőkorból származó leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        51.414611,
+                        35.687077
+                  ]
+            },
+            {
+                  "name": "Malek National Museum and Library",
+                  "text": "Ez a kulturális központ ritka kéziratok hatalmas gyűjteményének és több ezer értékes történelmi érmének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        51.416303,
+                        35.686999
+                  ]
+            },
+            {
+                  "name": "Glassware and Ceramic Museum of Iran",
+                  "text": "Egy elegáns Kádzsár-palotában berendezett múzeum különleges ősi kerámiákat és művészi üvegedényeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.693407
+                  ]
+            },
+            {
+                  "name": "Dar ul-Funun",
+                  "text": "Az 1851-ben alapított épület Irán első modern felsőoktatási intézményének adott otthont, jellegzetes négyszögletes udvarral.",
+                  "category": "museum",
+                  "coords": [
+                        51.421933,
+                        35.683745
+                  ]
+            },
+            {
+                  "name": "Catholic Armenian Church",
+                  "text": "Ez az örmény katolikus templom hagyományos vallási építészetével szolgálja a helyi keresztény közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        51.414032,
+                        35.699901
+                  ]
+            },
+            {
+                  "name": "Saint Thaddeus Church",
+                  "text": "Ez a 18. századi történelmi örmény templom a bazár szélén található, és a város egyik legrégebbi keresztény szentélye.",
+                  "category": "religious",
+                  "coords": [
+                        51.427557,
+                        35.670534
+                  ]
+            },
+            {
+                  "name": "Majdoldolah Mosque",
+                  "text": "Ez a hagyományos Kádzsár-kori mecset klasszikus udvaráról és színes csempékkel díszített imacsarnokáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        51.412673,
+                        35.686313
+                  ]
+            },
+            {
+                  "name": "Saint Peters",
+                  "text": "Ez az 1891-ben épült presbiteriánus templom egyszerű csarnokkal rendelkezik, és a helyi protestáns közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        51.414953,
+                        35.691672
+                  ]
+            },
+            {
+                  "name": "Fakhr al-Dawla Mosque",
+                  "text": "Ez a Kádzsár-kori mecset egyedi kupolájával és finom tégla díszítéseivel tűnik ki a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        51.437099,
+                        35.698071
+                  ]
+            },
+            {
+                  "name": "Imam Khomeini Mosque",
+                  "text": "A Nagy Bazárban található négyivános mecset a Kádzsár-kori szakrális építészet egyik jelentős remekműve.",
+                  "category": "religious",
+                  "coords": [
+                        51.422029,
+                        35.676132
+                  ]
+            },
+            {
+                  "name": "Shrine of Seyed Naserodin",
+                  "text": "A bazár közeli történelmi kegyhely pompás tükrös kupolával és egy patinás udvarral rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        51.416058,
+                        35.67219
+                  ]
+            },
+            {
+                  "name": "Simorgh park",
+                  "text": "Ez a környékbeli zöldterület modern játszóteret és sétányokat kínál a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        51.486308,
+                        35.707477
+                  ]
+            },
+            {
+                  "name": "Mostafa Khomeyni Park",
+                  "text": "Ez a városrészi park zöld menedéket nyújt sűrű lombozatú fákkal és padokkal városi környezetben.",
+                  "category": "park",
+                  "coords": [
+                        51.43325,
+                        35.69301
+                  ]
+            },
+            {
+                  "name": "Besat Park",
+                  "text": "Ez a nagy déli park tóval, sportpályákkal és tágas gyepes területekkel várja a piknikezőket.",
+                  "category": "park",
+                  "coords": [
+                        51.426098,
+                        35.648926
+                  ]
+            },
+            {
+                  "name": "Valiasr Park",
+                  "text": "Gondozott városi park a híres Valiasr sugárúton, amely ideális egy rövid árnyékos pihenőre.",
+                  "category": "park",
+                  "coords": [
+                        51.452395,
+                        35.653974
+                  ]
+            },
+            {
+                  "name": "Vafa Park",
+                  "text": "Ez a kis helyi park csendes, zöld oázist kínál a város sűrű lakóépületei között.",
+                  "category": "park",
+                  "coords": [
+                        51.448829,
+                        35.646338
+                  ]
+            },
+            {
+                  "name": "Famouri's House",
+                  "text": "Ez a felújított Kádzsár-rezidencia hagyományos udvarral és medencével rendelkezik, jelenleg kulturális kávézóként működik.",
+                  "category": "museum",
+                  "coords": [
+                        51.41011,
+                        35.695456
+                  ]
+            },
+            {
+                  "name": "Aaran Projects",
+                  "text": "Ez a kortárs művészeti galéria modern iráni művészek időszaki alkotásait mutatja be minimalista termeiben.",
+                  "category": "museum",
+                  "coords": [
+                        51.411357,
+                        35.69702
+                  ]
+            },
+            {
+                  "name": "Iranian National Science and Technology Museum",
+                  "text": "Ez az interaktív múzeum történelmi perzsa találmányokat és modern tudományos kísérleteket bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        51.414716,
+                        35.688197
+                  ]
+            },
+            {
+                  "name": "Argo Factory",
+                  "text": "Ezt az egykori sörfőzdét díjnyertes kortárs művészeti múzeummá alakították, jellegzetes ipari dizájnnal.",
+                  "category": "museum",
+                  "coords": [
+                        51.421587,
+                        35.699335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eshrat Abad Kolah Farangi Museum",
+                  "text": "Un palat octogonal din epoca Qajar cu un pavilion caracteristic (Kolah Farangi), păstrat astăzi ca parte a unui complex muzeal istoric.",
+                  "category": "museum",
+                  "coords": [
+                        51.441659,
+                        35.709447
+                  ]
+            },
+            {
+                  "name": "Farahabad Palace",
+                  "text": "Acest conac de vânătoare din epoca Qajar este situat în estul Teheranului și impresionează prin arhitectura sa istorică în mijlocul fostelor grădini regale.",
+                  "category": "museum",
+                  "coords": [
+                        51.508781,
+                        35.701302
+                  ]
+            },
+            {
+                  "name": "Abyaz Palace",
+                  "text": "Această aripă a Palatului Golestan găzduiește astăzi Muzeul de Antropologie și impresionează prin fațada sa albă ca zăpada și detaliile de inspirație europeană.",
+                  "category": "museum",
+                  "coords": [
+                        51.420065,
+                        35.679386
+                  ]
+            },
+            {
+                  "name": "Golestan Palace",
+                  "text": "Un sit din patrimoniul mondial UNESCO și fost complex regal, faimos pentru sălile sale fastuoase de oglinzi și mozaicurile ornamentate ale dinastiei Qajar.",
+                  "category": "museum",
+                  "coords": [
+                        51.420613,
+                        35.680451
+                  ]
+            },
+            {
+                  "name": "Peace museum Tehran",
+                  "text": "Un muzeu din parcul central al Teheranului, dedicat promovării păcii și documentării impactului armelor chimice în timpul războiului Iran-Irak.",
+                  "category": "museum",
+                  "coords": [
+                        51.41459,
+                        35.68435
+                  ]
+            },
+            {
+                  "name": "National jewellery museum",
+                  "text": "Găzduită într-un seif al Băncii Centrale, această trezorerie expune o colecție de renume mondial, inclusiv Tronul Păunului și diamantul Darya-ye Noor.",
+                  "category": "museum",
+                  "coords": [
+                        51.419309,
+                        35.693168
+                  ]
+            },
+            {
+                  "name": "Masoudieh Palace",
+                  "text": "Un palat splendid din epoca Qajar, cu ferestre frumoase din vitralii și stucaturi ornamentate, care poate fi vizitat astăzi ca monument cultural.",
+                  "category": "museum",
+                  "coords": [
+                        51.428194,
+                        35.689346
+                  ]
+            },
+            {
+                  "name": "Shamsol Emare",
+                  "text": "Situată în Palatul Golestan, „Clădirea Soarelui” a fost primul zgârie-nori al Teheranului, combinând tradiția persană cu arhitectura europeană a turnurilor.",
+                  "category": "museum",
+                  "coords": [
+                        51.42211,
+                        35.679469
+                  ]
+            },
+            {
+                  "name": "Daniel Synagogue (Polish)",
+                  "text": "O sinagogă istorică din Teheran, care a fost un refugiu important pentru comunitatea poloneză-evreiască în timpul celui de-al Doilea Război Mondial.",
+                  "category": "religious",
+                  "coords": [
+                        51.413134,
+                        35.692881
+                  ]
+            },
+            {
+                  "name": "Sardar é Bagh Melli",
+                  "text": "Această poartă ceremonială grandioasă din epoca Qajar a servit odinioară ca intrare principală într-un teren de paradă militară.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416899,
+                        35.686065
+                  ]
+            },
+            {
+                  "name": "Park-e Shahr",
+                  "text": "Cel mai vechi parc public din Teheran oferă o grădină de păsări și un lac liniștit în inima centrului orașului.",
+                  "category": "park",
+                  "coords": [
+                        51.413747,
+                        35.683048
+                  ]
+            },
+            {
+                  "name": "Negarestan Museum Garden",
+                  "text": "Această grădină istorică adăpostește pavilioane tradiționale din epoca Qajar și o galerie de portrete regale din secolul al XIX-lea.",
+                  "category": "park",
+                  "coords": [
+                        51.432784,
+                        35.694619
+                  ]
+            },
+            {
+                  "name": "Azadegan Water Park",
+                  "text": "Acest complex extins în aer liber este unul dintre cele mai mari parcuri acvatice din oraș, având numeroase tobogane și piscine exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        51.47308,
+                        35.631873
+                  ]
+            },
+            {
+                  "name": "The Marble Throne",
+                  "text": "Acest tron regal fastuos din Palatul Golestan este sculptat cu măiestrie din 65 de piese de marmură galbenă de Yazd.",
+                  "category": "museum",
+                  "coords": [
+                        51.419377,
+                        35.680308
+                  ]
+            },
+            {
+                  "name": "Rashkan Castle",
+                  "text": "Aceste ruine antice de pe un deal stâncos au făcut parte odinioară din fortificațiile din epoca parților ale orașului Rey.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451645,
+                        35.605266
+                  ]
+            },
+            {
+                  "name": "Post Museum",
+                  "text": "Găzduit într-o clădire somptuoasă din epoca Qajar, acest muzeu expune timbre istorice și telegrafe antice.",
+                  "category": "museum",
+                  "coords": [
+                        51.417903,
+                        35.686232
+                  ]
+            },
+            {
+                  "name": "Iran National Museum",
+                  "text": "Această instituție de prestigiu adăpostește comori arheologice, inclusiv ceramică și vestigii din epoca paleolitică.",
+                  "category": "museum",
+                  "coords": [
+                        51.414611,
+                        35.687077
+                  ]
+            },
+            {
+                  "name": "Malek National Museum and Library",
+                  "text": "Acest centru cultural găzduiește o colecție imensă de manuscrise rare și mii de monede istorice valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        51.416303,
+                        35.686999
+                  ]
+            },
+            {
+                  "name": "Glassware and Ceramic Museum of Iran",
+                  "text": "Situat într-un palat elegant din epoca Qajar, acest muzeu expune ceramică antică rafinată și vase de sticlă artistice.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.693407
+                  ]
+            },
+            {
+                  "name": "Dar ul-Funun",
+                  "text": "Fondată în 1851, această clădire a găzduit prima instituție modernă de învățământ superior din Iran, având o curte pătrată distinctivă.",
+                  "category": "museum",
+                  "coords": [
+                        51.421933,
+                        35.683745
+                  ]
+            },
+            {
+                  "name": "Catholic Armenian Church",
+                  "text": "Acest lăcaș de cult catolic armean deservește comunitatea creștină locală prin arhitectura sa religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        51.414032,
+                        35.699901
+                  ]
+            },
+            {
+                  "name": "Saint Thaddeus Church",
+                  "text": "Această biserică armeană istorică din secolul al XVIII-lea este situată la marginea bazarului și este una dintre cele mai vechi din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        51.427557,
+                        35.670534
+                  ]
+            },
+            {
+                  "name": "Majdoldolah Mosque",
+                  "text": "Această moschee tradițională din epoca Qajar este cunoscută pentru curtea sa clasică și sala de rugăciune decorată cu mozaicuri colorate.",
+                  "category": "religious",
+                  "coords": [
+                        51.412673,
+                        35.686313
+                  ]
+            },
+            {
+                  "name": "Saint Peters",
+                  "text": "Această biserică prezbiteriană construită în 1891 are o sală simplă și deservește comunitatea protestantă locală.",
+                  "category": "religious",
+                  "coords": [
+                        51.414953,
+                        35.691672
+                  ]
+            },
+            {
+                  "name": "Fakhr al-Dawla Mosque",
+                  "text": "Această moschee din epoca Qajar se remarcă prin designul unic al cupolei și decorațiunile fine din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        51.437099,
+                        35.698071
+                  ]
+            },
+            {
+                  "name": "Imam Khomeini Mosque",
+                  "text": "Situată în Marele Bazar, această moschee cu patru iwan-uri este o capodoperă importantă a arhitecturii sacre din epoca Qajar.",
+                  "category": "religious",
+                  "coords": [
+                        51.422029,
+                        35.676132
+                  ]
+            },
+            {
+                  "name": "Shrine of Seyed Naserodin",
+                  "text": "Acest altar istoric de lângă bazar are o cupolă cu oglinzi spectaculoasă și o curte veche plină de patină.",
+                  "category": "religious",
+                  "coords": [
+                        51.416058,
+                        35.67219
+                  ]
+            },
+            {
+                  "name": "Simorgh park",
+                  "text": "Acest spațiu verde de cartier oferă un loc de joacă modern și alei de plimbare pentru rezidenții locali.",
+                  "category": "park",
+                  "coords": [
+                        51.486308,
+                        35.707477
+                  ]
+            },
+            {
+                  "name": "Mostafa Khomeyni Park",
+                  "text": "Acest parc de cartier oferă un refugiu verde cu arbori deasă și bănci într-un cadru urban.",
+                  "category": "park",
+                  "coords": [
+                        51.43325,
+                        35.69301
+                  ]
+            },
+            {
+                  "name": "Besat Park",
+                  "text": "Acest parc mare din sudul orașului are un lac, terenuri de sport și peluze vaste pentru picnicuri.",
+                  "category": "park",
+                  "coords": [
+                        51.426098,
+                        35.648926
+                  ]
+            },
+            {
+                  "name": "Valiasr Park",
+                  "text": "Un parc orășenesc bine întreținut pe faimosul bulevard Valiasr, ideal pentru un scurt popas la umbră.",
+                  "category": "park",
+                  "coords": [
+                        51.452395,
+                        35.653974
+                  ]
+            },
+            {
+                  "name": "Vafa Park",
+                  "text": "Acest mic parc local oferă o oază verde și liniștită printre clădirile rezidențiale dense ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        51.448829,
+                        35.646338
+                  ]
+            },
+            {
+                  "name": "Famouri's House",
+                  "text": "Această reședință restaurată din epoca Qajar are o curte tradițională cu bazin și funcționează ca o cafenea culturală.",
+                  "category": "museum",
+                  "coords": [
+                        51.41011,
+                        35.695456
+                  ]
+            },
+            {
+                  "name": "Aaran Projects",
+                  "text": "Această galerie de artă contemporană prezintă lucrări temporare ale artiștilor iranieni moderni în spațiile sale minimaliste.",
+                  "category": "museum",
+                  "coords": [
+                        51.411357,
+                        35.69702
+                  ]
+            },
+            {
+                  "name": "Iranian National Science and Technology Museum",
+                  "text": "Acest muzeu interactiv oferă exponate despre invențiile persane istorice și experimente științifice moderne.",
+                  "category": "museum",
+                  "coords": [
+                        51.414716,
+                        35.688197
+                  ]
+            },
+            {
+                  "name": "Argo Factory",
+                  "text": "Această fostă fabrică de bere a fost transformată într-un muzeu de artă contemporană premiat, cu un design industrial distinctiv.",
+                  "category": "museum",
+                  "coords": [
+                        51.421587,
+                        35.699335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eshrat Abad Kolah Farangi Museum",
+                  "text": "An octagonal Qajar-era palace with a characteristic pavilion (Kolah Farangi), preserved today as part of a historic museum complex.",
+                  "category": "museum",
+                  "coords": [
+                        51.441659,
+                        35.709447
+                  ]
+            },
+            {
+                  "name": "Farahabad Palace",
+                  "text": "This Qajar-era hunting lodge is located in eastern Tehran and impresses with its historic architecture amidst former royal gardens.",
+                  "category": "museum",
+                  "coords": [
+                        51.508781,
+                        35.701302
+                  ]
+            },
+            {
+                  "name": "Abyaz Palace",
+                  "text": "This wing of the Golestan Palace now houses the Anthropological Museum and stands out for its snow-white facade and European-inspired details.",
+                  "category": "museum",
+                  "coords": [
+                        51.420065,
+                        35.679386
+                  ]
+            },
+            {
+                  "name": "Golestan Palace",
+                  "text": "A UNESCO World Heritage site and former royal complex famous for its lavish mirror halls and the ornate tilework of the Qajar dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        51.420613,
+                        35.680451
+                  ]
+            },
+            {
+                  "name": "Peace museum Tehran",
+                  "text": "A museum in Tehran's city park dedicated to promoting peace and documenting the impact of chemical weapons during the Iran-Iraq War.",
+                  "category": "museum",
+                  "coords": [
+                        51.41459,
+                        35.68435
+                  ]
+            },
+            {
+                  "name": "National jewellery museum",
+                  "text": "Housed in a Central Bank vault, this treasury displays a world-famous collection including the Peacock Throne and the Darya-ye Noor diamond.",
+                  "category": "museum",
+                  "coords": [
+                        51.419309,
+                        35.693168
+                  ]
+            },
+            {
+                  "name": "Masoudieh Palace",
+                  "text": "A splendid Qajar-era palace with beautiful stained glass windows and ornate stucco work, now open to the public as a cultural monument.",
+                  "category": "museum",
+                  "coords": [
+                        51.428194,
+                        35.689346
+                  ]
+            },
+            {
+                  "name": "Shamsol Emare",
+                  "text": "Located within the Golestan Palace, the 'Edifice of the Sun' was Tehran's first skyscraper, combining Persian tradition with European tower architecture.",
+                  "category": "museum",
+                  "coords": [
+                        51.42211,
+                        35.679469
+                  ]
+            },
+            {
+                  "name": "Daniel Synagogue (Polish)",
+                  "text": "A historic synagogue in Tehran that served as an important sanctuary for the Polish-Jewish community during World War II.",
+                  "category": "religious",
+                  "coords": [
+                        51.413134,
+                        35.692881
+                  ]
+            },
+            {
+                  "name": "Sardar é Bagh Melli",
+                  "text": "This grand Qajar-era ceremonial gateway once served as the main entrance to a former military parade ground.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416899,
+                        35.686065
+                  ]
+            },
+            {
+                  "name": "Park-e Shahr",
+                  "text": "Tehran's oldest public park features a bird garden and a peaceful lake in the heart of the city center.",
+                  "category": "park",
+                  "coords": [
+                        51.413747,
+                        35.683048
+                  ]
+            },
+            {
+                  "name": "Negarestan Museum Garden",
+                  "text": "This historic garden houses traditional Qajar-era pavilions and a gallery of 19th-century royal portraits.",
+                  "category": "park",
+                  "coords": [
+                        51.432784,
+                        35.694619
+                  ]
+            },
+            {
+                  "name": "Azadegan Water Park",
+                  "text": "This expansive open-air complex is one of the city's largest water parks, featuring numerous slides and outdoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        51.47308,
+                        35.631873
+                  ]
+            },
+            {
+                  "name": "The Marble Throne",
+                  "text": "This ornate royal throne in Golestan Palace is elaborately crafted from 65 pieces of yellow Yazd marble.",
+                  "category": "museum",
+                  "coords": [
+                        51.419377,
+                        35.680308
+                  ]
+            },
+            {
+                  "name": "Rashkan Castle",
+                  "text": "These ancient ruins on a rocky hilltop were once part of the Parthian-era fortifications of ancient Rey.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451645,
+                        35.605266
+                  ]
+            },
+            {
+                  "name": "Post Museum",
+                  "text": "Housed in a grand Qajar-era building, this museum displays historic stamps and antique telegraph equipment.",
+                  "category": "museum",
+                  "coords": [
+                        51.417903,
+                        35.686232
+                  ]
+            },
+            {
+                  "name": "Iran National Museum",
+                  "text": "This premier institution houses archaeological treasures, including pottery and artifacts from the Paleolithic era.",
+                  "category": "museum",
+                  "coords": [
+                        51.414611,
+                        35.687077
+                  ]
+            },
+            {
+                  "name": "Malek National Museum and Library",
+                  "text": "This cultural center houses a vast collection of rare manuscripts and thousands of valuable historic coins.",
+                  "category": "museum",
+                  "coords": [
+                        51.416303,
+                        35.686999
+                  ]
+            },
+            {
+                  "name": "Glassware and Ceramic Museum of Iran",
+                  "text": "Set in an elegant Qajar mansion, this museum displays exquisite ancient pottery and artistic glass vessels.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.693407
+                  ]
+            },
+            {
+                  "name": "Dar ul-Funun",
+                  "text": "Founded in 1851, this building housed Iran's first modern institution of higher learning, featuring a distinct square courtyard.",
+                  "category": "museum",
+                  "coords": [
+                        51.421933,
+                        35.683745
+                  ]
+            },
+            {
+                  "name": "Catholic Armenian Church",
+                  "text": "This Armenian Catholic place of worship serves the local Christian community with its traditional religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        51.414032,
+                        35.699901
+                  ]
+            },
+            {
+                  "name": "Saint Thaddeus Church",
+                  "text": "Located on the edge of the bazaar, this 18th-century historic Armenian church is one of the oldest in the city.",
+                  "category": "religious",
+                  "coords": [
+                        51.427557,
+                        35.670534
+                  ]
+            },
+            {
+                  "name": "Majdoldolah Mosque",
+                  "text": "This traditional Qajar-era mosque is known for its classic courtyard and colorful tiled prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        51.412673,
+                        35.686313
+                  ]
+            },
+            {
+                  "name": "Saint Peters",
+                  "text": "Built in 1891, this Presbyterian church features a simple hall and serves the local Protestant community.",
+                  "category": "religious",
+                  "coords": [
+                        51.414953,
+                        35.691672
+                  ]
+            },
+            {
+                  "name": "Fakhr al-Dawla Mosque",
+                  "text": "This Qajar-era mosque stands out with its unique dome design and fine brickwork decorations.",
+                  "category": "religious",
+                  "coords": [
+                        51.437099,
+                        35.698071
+                  ]
+            },
+            {
+                  "name": "Imam Khomeini Mosque",
+                  "text": "Situated in the Grand Bazaar, this four-iwan mosque is a significant masterpiece of Qajar-era sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        51.422029,
+                        35.676132
+                  ]
+            },
+            {
+                  "name": "Shrine of Seyed Naserodin",
+                  "text": "This historic shrine near the bazaar features a spectacular mirrored dome and an atmospheric old courtyard.",
+                  "category": "religious",
+                  "coords": [
+                        51.416058,
+                        35.67219
+                  ]
+            },
+            {
+                  "name": "Simorgh park",
+                  "text": "This neighborhood green space provides a modern playground and walking paths for local residents.",
+                  "category": "park",
+                  "coords": [
+                        51.486308,
+                        35.707477
+                  ]
+            },
+            {
+                  "name": "Mostafa Khomeyni Park",
+                  "text": "This neighborhood park provides a green retreat with leafy trees and benches in an urban setting.",
+                  "category": "park",
+                  "coords": [
+                        51.43325,
+                        35.69301
+                  ]
+            },
+            {
+                  "name": "Besat Park",
+                  "text": "This large southern park features a lake, sports facilities, and vast lawns for family picnics.",
+                  "category": "park",
+                  "coords": [
+                        51.426098,
+                        35.648926
+                  ]
+            },
+            {
+                  "name": "Valiasr Park",
+                  "text": "A well-kept urban park along the famous Valiasr Avenue, ideal for a short shaded break.",
+                  "category": "park",
+                  "coords": [
+                        51.452395,
+                        35.653974
+                  ]
+            },
+            {
+                  "name": "Vafa Park",
+                  "text": "This small local park offers a quiet green oasis amidst the city's dense residential buildings.",
+                  "category": "park",
+                  "coords": [
+                        51.448829,
+                        35.646338
+                  ]
+            },
+            {
+                  "name": "Famouri's House",
+                  "text": "This restored Qajar-period residence features a traditional courtyard with a pool and serves as a cultural cafe.",
+                  "category": "museum",
+                  "coords": [
+                        51.41011,
+                        35.695456
+                  ]
+            },
+            {
+                  "name": "Aaran Projects",
+                  "text": "This contemporary art gallery showcases rotating works by modern Iranian artists in its minimalist spaces.",
+                  "category": "museum",
+                  "coords": [
+                        51.411357,
+                        35.69702
+                  ]
+            },
+            {
+                  "name": "Iranian National Science and Technology Museum",
+                  "text": "This interactive museum features exhibits on historic Persian inventions and modern scientific experiments.",
+                  "category": "museum",
+                  "coords": [
+                        51.414716,
+                        35.688197
+                  ]
+            },
+            {
+                  "name": "Argo Factory",
+                  "text": "This former brewery has been transformed into an award-winning contemporary art museum with striking industrial design.",
+                  "category": "museum",
+                  "coords": [
+                        51.421587,
+                        35.699335
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IR-XX",
     coords: [51.4208, 35.6797],
@@ -204,7 +2031,232 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Les parties les plus anciennes de l'ensemble datent du XVIe siècle", "Agha Mohammad Khan choisit Téhéran comme capitale en 1789", "Le complexe couvrait à l'origine une superficie de 4,5 hectares", "Le célèbre trône du Paon fut fabriqué en 1798 pour Fath Ali Shah", "Le palais a été inscrit au patrimoine mondial de l'UNESCO en 2013", "La plupart des bâtiments actuels furent construits sous le règne de Nassereddin Shah (1797–1834)"],
     }, image: "/poi-images/iran-golestan-palace-history-v2.webp"},
   {
-    id: "iran-arg-e-bam-history-v2",
+    id: "iran-arg-e-bam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "A bird's eye view of Bam",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über die massive Lehmziegel-Zitadelle von Bam.",
+                  "category": "natural",
+                  "coords": [
+                        58.364891,
+                        29.149908
+                  ]
+            },
+            {
+                  "name": "Ghasem Abad Qanat",
+                  "text": "Dieses antike Qanat-System nutzt unterirdische Kanäle, um Wasser aus den Bergen in die Wüstensiedlung zu leiten.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419469,
+                        29.083503
+                  ]
+            },
+            {
+                  "name": "Yakhdane Arg",
+                  "text": "Dieses traditionelle kegelförmige Bauwerk diente in der Wüstenfestung als Eishaus zur Kühlung von Vorräten.",
+                  "category": "landmark",
+                  "coords": [
+                        58.372181,
+                        29.116769
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "In der historischen Festung Bam befinden sich die Überreste einer alten Gemeinschaftsbäckerei aus Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        58.369062,
+                        29.111226
+                  ]
+            },
+            {
+                  "name": "Arg-e Bam",
+                  "text": "Die zum UNESCO-Welterbe gehörende Festung ist das weltweit größte Bauwerk aus luftgetrockneten Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        58.368666,
+                        29.115545
+                  ]
+            },
+            {
+                  "name": "Al-Reza Mosque",
+                  "text": "Die Moschee in Bam zeigt die für die Region typischen Ziegelverzierungen und einen traditionellen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        58.373856,
+                        29.113029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A bird's eye view of Bam",
+                  "text": "Erről a kilátópontról széles panoráma nyílik Bam hatalmas, vályogtéglából épült citadellájára.",
+                  "category": "natural",
+                  "coords": [
+                        58.364891,
+                        29.149908
+                  ]
+            },
+            {
+                  "name": "Ghasem Abad Qanat",
+                  "text": "Ez az ősi kanátrendszer földalatti csatornákat használ, hogy a hegyekből vizet szállítson a sivatagi településre.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419469,
+                        29.083503
+                  ]
+            },
+            {
+                  "name": "Yakhdane Arg",
+                  "text": "Ez a hagyományos, kúp alakú építmény jégveremként szolgált az élelmiszerek hűtésére a sivatagi erődben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.372181,
+                        29.116769
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "Bam történelmi erődjében találhatók egy régi, vályogtéglából épült közösségi pékség maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        58.369062,
+                        29.111226
+                  ]
+            },
+            {
+                  "name": "Arg-e Bam",
+                  "text": "Az UNESCO világörökség részét képező erőd a világ legnagyobb, napon szárított vályogtéglából emelt építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        58.368666,
+                        29.115545
+                  ]
+            },
+            {
+                  "name": "Al-Reza Mosque",
+                  "text": "A bami mecset a régióra jellemző tégladíszítéseket és egy hagyományos imatermet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        58.373856,
+                        29.113029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "A bird's eye view of Bam",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra masivei citadele din cărămidă de lut din Bam.",
+                  "category": "natural",
+                  "coords": [
+                        58.364891,
+                        29.149908
+                  ]
+            },
+            {
+                  "name": "Ghasem Abad Qanat",
+                  "text": "Acest sistem antic de qanat utilizează canale subterane pentru a transporta apa din munți către așezarea din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419469,
+                        29.083503
+                  ]
+            },
+            {
+                  "name": "Yakhdane Arg",
+                  "text": "Această structură tradițională în formă de con servea drept ghețărie pentru conservarea alimentelor în fortăreața din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.372181,
+                        29.116769
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "În interiorul fortăreței istorice Bam se află resturile unei vechi brutării comunitare construite din cărămizi de lut.",
+                  "category": "landmark",
+                  "coords": [
+                        58.369062,
+                        29.111226
+                  ]
+            },
+            {
+                  "name": "Arg-e Bam",
+                  "text": "Această cetate inclusă în patrimoniul UNESCO este cea mai mare structură din cărămizi de lut uscate la soare din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        58.368666,
+                        29.115545
+                  ]
+            },
+            {
+                  "name": "Al-Reza Mosque",
+                  "text": "Moscheea din Bam prezintă decorațiuni din cărămidă tipice regiunii și o sală de rugăciune tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        58.373856,
+                        29.113029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A bird's eye view of Bam",
+                  "text": "This vantage point offers a wide panoramic view over the massive mud-brick citadel of Bam.",
+                  "category": "natural",
+                  "coords": [
+                        58.364891,
+                        29.149908
+                  ]
+            },
+            {
+                  "name": "Ghasem Abad Qanat",
+                  "text": "This ancient qanat system uses underground channels to transport water from the mountains to the desert settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419469,
+                        29.083503
+                  ]
+            },
+            {
+                  "name": "Yakhdane Arg",
+                  "text": "This traditional conical structure served as an ice house for cooling supplies within the desert fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        58.372181,
+                        29.116769
+                  ]
+            },
+            {
+                  "name": "Bakery",
+                  "text": "Located within the historic Bam citadel are the remains of an ancient communal bakery built of mud bricks.",
+                  "category": "landmark",
+                  "coords": [
+                        58.369062,
+                        29.111226
+                  ]
+            },
+            {
+                  "name": "Arg-e Bam",
+                  "text": "This UNESCO World Heritage fortress is the world's largest structure built of sun-dried mud bricks.",
+                  "category": "landmark",
+                  "coords": [
+                        58.368666,
+                        29.115545
+                  ]
+            },
+            {
+                  "name": "Al-Reza Mosque",
+                  "text": "The mosque in Bam features brickwork decorations typical of the region and a traditional prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        58.373856,
+                        29.113029
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [58.3686, 29.1169],
@@ -271,7 +2323,232 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Le complexe total couvrait une superficie d'environ 180 000 mètres carrés", "Les murs extérieurs de la forteresse mesuraient jusqu'à 7 mètres de haut", "Jusqu'à 12 000 personnes vivaient autrefois dans l'enceinte de la ville", "Le séisme tragique a eu lieu le 26 décembre 2003", "Le site date dans ses grandes lignes de la période comprise entre 579 et 323 av. J.-C.", "Inscrit sur la liste du patrimoine mondial en péril en 2004, retiré en 2013"],
     }, image: "/poi-images/iran-arg-e-bam-history-v2.webp"},
   {
-    id: "iran-bisotun-history-v2",
+    id: "iran-bisotun-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hercules statue",
+                  "text": "Die Herkulesstatue ist eine berühmte, aus Stein gehauene Attraktion in Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.436616,
+                        34.390255
+                  ]
+            },
+            {
+                  "name": "Farhad Tarash",
+                  "text": "Farhad Tarash ist eine große historische Felswandattraktion in der Region Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.431901,
+                        34.388371
+                  ]
+            },
+            {
+                  "name": "Bisotun Caravanserai",
+                  "text": "Die Bisotun-Karawanserei ist eine antike Attraktion, die einen Einblick in historische Handelsrouten in Bisotun bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.434951,
+                        34.384427
+                  ]
+            },
+            {
+                  "name": "Bisotun UNESCO World Heritage Site",
+                  "text": "Die Bisotun-Welterbestätte ist ein archäologisches Gebiet im Iran, das für seine antiken Felsreliefs bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        47.430326,
+                        34.39031
+                  ]
+            },
+            {
+                  "name": "Illkhanid Karawanserei",
+                  "text": "Die illchanidische Karawanserei ist eine alte historische Attraktion, die einen Blick in die Vergangenheit von Bisotun bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.435012,
+                        34.386667
+                  ]
+            },
+            {
+                  "name": "Emamzadeh Baqer",
+                  "text": "Emamzadeh Baqer ist ein muslimischer Schrein und Ort der Anbetung in Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441566,
+                        34.392066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hercules statue",
+                  "text": "A Herkules-szobor egy híres, kőből faragott látványosság Bisotunban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.436616,
+                        34.390255
+                  ]
+            },
+            {
+                  "name": "Farhad Tarash",
+                  "text": "A Farhad Tarash egy nagy történelmi sziklafal-látványosság a Bisotun régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.431901,
+                        34.388371
+                  ]
+            },
+            {
+                  "name": "Bisotun Caravanserai",
+                  "text": "A Bisotun Karavánszeráj egy ősi látványosság, amely betekintést nyújt Bisotun történelmi kereskedelmi útvonalaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        47.434951,
+                        34.384427
+                  ]
+            },
+            {
+                  "name": "Bisotun UNESCO World Heritage Site",
+                  "text": "A Bisotun Világörökségi Helyszín egy iráni régészeti terület, amely az ókori szikladomborműveiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        47.430326,
+                        34.39031
+                  ]
+            },
+            {
+                  "name": "Illkhanid caravanserai",
+                  "text": "Az ilhanida karavánszeráj egy régi történelmi látványosság, amely bepillantást enged Bisotun múltjába.",
+                  "category": "landmark",
+                  "coords": [
+                        47.435012,
+                        34.386667
+                  ]
+            },
+            {
+                  "name": "Emamzadeh Baqer",
+                  "text": "Az Emamzadeh Baqer egy muszlim szentély és istentiszteleti hely Bisotunban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441566,
+                        34.392066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hercules statue",
+                  "text": "Statuia lui Hercule este o faimoasă atracție sculptată în piatră în Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.436616,
+                        34.390255
+                  ]
+            },
+            {
+                  "name": "Farhad Tarash",
+                  "text": "Farhad Tarash este o atracție uriașă cu perete de stâncă istorică în regiunea Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.431901,
+                        34.388371
+                  ]
+            },
+            {
+                  "name": "Bisotun Caravanserai",
+                  "text": "Caravanseraiul Bisotun este o atracție antică ce oferă o perspectivă asupra rutelor comerciale istorice din Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.434951,
+                        34.384427
+                  ]
+            },
+            {
+                  "name": "Bisotun UNESCO World Heritage Site",
+                  "text": "Situl Patrimoniului Mondial Bisotun este o zonă arheologică renumită pentru vechile sale reliefuri rupestre din Iran.",
+                  "category": "historical",
+                  "coords": [
+                        47.430326,
+                        34.39031
+                  ]
+            },
+            {
+                  "name": "Illkhanid caravanserai",
+                  "text": "Caravanseraiul Ilkhanid este o veche atracție istorică ce oferă o privire în trecutul orașului Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.435012,
+                        34.386667
+                  ]
+            },
+            {
+                  "name": "Emamzadeh Baqer",
+                  "text": "Emamzadeh Baqer este un altar musulman și loc de cult situat în Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441566,
+                        34.392066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hercules statue",
+                  "text": "The Hercules statue is a famous attraction carved out of stone in Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.436616,
+                        34.390255
+                  ]
+            },
+            {
+                  "name": "Farhad Tarash",
+                  "text": "Farhad Tarash is a large historical rock face attraction in the Bisotun region.",
+                  "category": "landmark",
+                  "coords": [
+                        47.431901,
+                        34.388371
+                  ]
+            },
+            {
+                  "name": "Bisotun Caravanserai",
+                  "text": "Bisotun Caravanserai is an ancient attraction providing insight into historical trade routes in Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.434951,
+                        34.384427
+                  ]
+            },
+            {
+                  "name": "Bisotun UNESCO World Heritage Site",
+                  "text": "The Bisotun World Heritage Site is an archaeological area renowned for its ancient rock reliefs in Iran.",
+                  "category": "historical",
+                  "coords": [
+                        47.430326,
+                        34.39031
+                  ]
+            },
+            {
+                  "name": "Illkhanid caravanserai",
+                  "text": "The Illkhanid caravanserai is an old historical attraction offering a glimpse into the past of Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.435012,
+                        34.386667
+                  ]
+            },
+            {
+                  "name": "Emamzadeh Baqer",
+                  "text": "Emamzadeh Baqer is a Muslim shrine and place of worship located in Bisotun.",
+                  "category": "landmark",
+                  "coords": [
+                        47.441566,
+                        34.392066
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [47.4364, 34.3886],
@@ -338,7 +2615,268 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["L'inscription a été achevée vers 520 av. J.-C.", "Le relief mesure 15 mètres de large et 25 mètres de haut", "Il se situe à environ 100 mètres au-dessus du sol sur une falaise", "L'officier britannique Henry Rawlinson commença le déchiffrement en 1835", "Le texte en vieux-perse se compose au total de 414 lignes réparties sur cinq colonnes", "Le site est inscrit au patrimoine mondial de l'UNESCO depuis 2006"],
     }, image: "/poi-images/iran-bisotun-history-v2.webp"},
   {
-    id: "iran-tchogha-zanbil-history-v2",
+    id: "iran-tchogha-zanbil-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Temple of Nusku",
+                  "text": "Die Überreste dieses elamischen Tempels in Tschogha Zanbil waren dem mesopotamischen Lichtgott Nusku geweiht.",
+                  "category": "historical",
+                  "coords": [
+                        48.526826,
+                        32.005466
+                  ]
+            },
+            {
+                  "name": "Royal Gateway",
+                  "text": "Dieses monumentale antike Tor diente als zeremonieller Haupteingang zum heiligen Bezirk von Tschogha Zanbil.",
+                  "category": "historical",
+                  "coords": [
+                        48.529382,
+                        32.006579
+                  ]
+            },
+            {
+                  "name": "Palace III",
+                  "text": "Die Ruinen dieses elamischen Palastes aus dem 13. Jahrhundert v. Chr. befinden sich nahe der großen Ziggurat.",
+                  "category": "historical",
+                  "coords": [
+                        48.529704,
+                        32.007741
+                  ]
+            },
+            {
+                  "name": "Palace II",
+                  "text": "Ein weiterer königlicher Bau in Tschogha Zanbil, der die fortschrittliche elamische Architektur mit verzierten Ziegeln zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        48.527796,
+                        32.008724
+                  ]
+            },
+            {
+                  "name": "Palace I",
+                  "text": "Dieser weitläufige elamische Wohnkomplex beherbergte einst die königliche Familie während ihrer Besuche am Heiligtum.",
+                  "category": "historical",
+                  "coords": [
+                        48.527127,
+                        32.007481
+                  ]
+            },
+            {
+                  "name": "Tschoga Sambil",
+                  "text": "Diese UNESCO-Welterbestätte umfasst eine massive, fünfstufige Ziggurat aus dem 13. Jahrhundert v. Chr.",
+                  "category": "landmark",
+                  "coords": [
+                        48.521609,
+                        32.009023
+                  ]
+            },
+            {
+                  "name": "Dez National Park",
+                  "text": "Dieses Naturschutzgebiet am Fluss Dez schützt die letzten verbliebenen subtropischen Wälder der Region Khuzestan.",
+                  "category": "natural",
+                  "coords": [
+                        48.523356,
+                        32.047145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temple of Nusku",
+                  "text": "Ennek a Csoga Zanbil-i elámi templomnak a maradványait Nusku mezopotámiai fényistennek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        48.526826,
+                        32.005466
+                  ]
+            },
+            {
+                  "name": "Royal Gateway",
+                  "text": "Ez a monumentális ókori kapu a Csoga Zanbil-i szent kerület ünnepi főbejárataként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        48.529382,
+                        32.006579
+                  ]
+            },
+            {
+                  "name": "Palace III",
+                  "text": "Ennek az i. e. 13. századi elámi palotának a romjai a nagy ziggurat közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        48.529704,
+                        32.007741
+                  ]
+            },
+            {
+                  "name": "Palace II",
+                  "text": "Egy másik királyi épület Csoga Zanbilban, amely díszített tégláival mutatja be a fejlett elámi építészetet.",
+                  "category": "historical",
+                  "coords": [
+                        48.527796,
+                        32.008724
+                  ]
+            },
+            {
+                  "name": "Palace I",
+                  "text": "Ez a kiterjedt elámi lakókomplexum egykor a királyi családnak adott otthont a szentélynél tett látogatásaik során.",
+                  "category": "historical",
+                  "coords": [
+                        48.527127,
+                        32.007481
+                  ]
+            },
+            {
+                  "name": "Chogha Zanbil",
+                  "text": "Ez az UNESCO világörökségi helyszín egy hatalmas, ötszintes, i. e. 13. századi zigguratot foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.521609,
+                        32.009023
+                  ]
+            },
+            {
+                  "name": "Dez National Park",
+                  "text": "Ez a Dez-folyó menti természetvédelmi terület Huzesztán tartomány utolsó megmaradt szubtrópusi erdőit óvja.",
+                  "category": "natural",
+                  "coords": [
+                        48.523356,
+                        32.047145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temple of Nusku",
+                  "text": "Rămășițele acestui templu elamit din Chogha Zanbil au fost dedicate zeului mesopotamian al luminii, Nusku.",
+                  "category": "historical",
+                  "coords": [
+                        48.526826,
+                        32.005466
+                  ]
+            },
+            {
+                  "name": "Royal Gateway",
+                  "text": "Această poartă antică monumentală servea drept intrare ceremonială principală în incinta sacră din Chogha Zanbil.",
+                  "category": "historical",
+                  "coords": [
+                        48.529382,
+                        32.006579
+                  ]
+            },
+            {
+                  "name": "Palace III",
+                  "text": "Ruinele acestui palat elamit din secolul al XIII-lea î.Hr. se află în apropierea marelui zigurat.",
+                  "category": "historical",
+                  "coords": [
+                        48.529704,
+                        32.007741
+                  ]
+            },
+            {
+                  "name": "Palace II",
+                  "text": "O altă structură regală din Chogha Zanbil, care prezintă arhitectura elamită avansată cu cărămizi decorate.",
+                  "category": "historical",
+                  "coords": [
+                        48.527796,
+                        32.008724
+                  ]
+            },
+            {
+                  "name": "Palace I",
+                  "text": "Acest vast complex rezidențial elamit a găzduit odinioară familia regală în timpul vizitelor lor la sanctuar.",
+                  "category": "historical",
+                  "coords": [
+                        48.527127,
+                        32.007481
+                  ]
+            },
+            {
+                  "name": "Chogha Zanbil",
+                  "text": "Acest sit din patrimoniul mondial UNESCO cuprinde un zigurat masiv cu cinci niveluri din secolul al XIII-lea î.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        48.521609,
+                        32.009023
+                  ]
+            },
+            {
+                  "name": "Dez National Park",
+                  "text": "Această rezervație naturală de-a lungul râului Dez protejează ultimele păduri subtropicale rămase în regiunea Khuzestan.",
+                  "category": "natural",
+                  "coords": [
+                        48.523356,
+                        32.047145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Nusku",
+                  "text": "The remains of this Elamite temple in Chogha Zanbil were dedicated to the Mesopotamian god of light, Nusku.",
+                  "category": "historical",
+                  "coords": [
+                        48.526826,
+                        32.005466
+                  ]
+            },
+            {
+                  "name": "Royal Gateway",
+                  "text": "This monumental ancient gate served as the main ceremonial entrance to the sacred precinct of Chogha Zanbil.",
+                  "category": "historical",
+                  "coords": [
+                        48.529382,
+                        32.006579
+                  ]
+            },
+            {
+                  "name": "Palace III",
+                  "text": "The ruins of this 13th-century BC Elamite palace are located near the great ziggurat.",
+                  "category": "historical",
+                  "coords": [
+                        48.529704,
+                        32.007741
+                  ]
+            },
+            {
+                  "name": "Palace II",
+                  "text": "Another royal structure in Chogha Zanbil, showcasing advanced Elamite architecture with decorated bricks.",
+                  "category": "historical",
+                  "coords": [
+                        48.527796,
+                        32.008724
+                  ]
+            },
+            {
+                  "name": "Palace I",
+                  "text": "This sprawling Elamite residential complex once housed the royal family during their visits to the sanctuary.",
+                  "category": "historical",
+                  "coords": [
+                        48.527127,
+                        32.007481
+                  ]
+            },
+            {
+                  "name": "Chogha Zanbil",
+                  "text": "This UNESCO World Heritage site features a massive five-tiered ziggurat dating from the 13th century BC.",
+                  "category": "landmark",
+                  "coords": [
+                        48.521609,
+                        32.009023
+                  ]
+            },
+            {
+                  "name": "Dez National Park",
+                  "text": "This nature reserve along the Dez River protects the last remaining subtropical forests in the Khuzestan region.",
+                  "category": "natural",
+                  "coords": [
+                        48.523356,
+                        32.047145
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [48.5217, 32.0108],
@@ -405,7 +2943,376 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["La construction a débuté vers l'an 1250 av. J.-C.", "La hauteur originelle de la ziggourat était d'environ 53 mètres", "Aujourd'hui, il ne reste que près de 25 mètres de la structure", "Le site a été redécouvert en 1935 lors de vols de prospection pétrolière", "Les fouilles ont eu lieu entre 1951 et 1962 par Roman Ghirshman", "En 1979, il est devenu le premier site d'Iran inscrit au patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/iran-tchogha-zanbil-history-v2.webp"},
   {
-    id: "iran-shushtar-hydraulic-history-v2",
+    id: "iran-shushtar-hydraulic-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saraye Afzal",
+                  "text": "Diese restaurierte Karawanserei aus der Qadscharen-Zeit dient heute als Zentrum für lokales Kunsthandwerk in Schuschtar.",
+                  "category": "museum",
+                  "coords": [
+                        48.852112,
+                        32.043999
+                  ]
+            },
+            {
+                  "name": "Salasel Castle",
+                  "text": "Diese historische Festung war ein strategischer Teil des hydraulischen Systems von Schuschtar zur Kontrolle des Wasserflusses.",
+                  "category": "historical",
+                  "coords": [
+                        48.853025,
+                        32.050872
+                  ]
+            },
+            {
+                  "name": "Kola Ferangi tower",
+                  "text": "Dieser achteckige Turm aus der Qadscharen-Zeit diente zur Überwachung des Wasserstands im antiken Bewässerungssystem.",
+                  "category": "landmark",
+                  "coords": [
+                        48.858241,
+                        32.050397
+                  ]
+            },
+            {
+                  "name": "Band-e-Mizaan",
+                  "text": "Ein antikes sassanidisches Wehr, das den Wasserfluss in den Gargar-Fluss innerhalb des hydraulischen Systems von Schuschtar reguliert.",
+                  "category": "historical",
+                  "coords": [
+                        48.860537,
+                        32.051924
+                  ]
+            },
+            {
+                  "name": "Mar'ashi House",
+                  "text": "Ein historisches Wohnhaus aus der Qadscharen-Zeit mit Panoramablick auf die Wasserfälle des hydraulischen Komplexes von Schuschtar.",
+                  "category": "natural",
+                  "coords": [
+                        48.858132,
+                        32.043154
+                  ]
+            },
+            {
+                  "name": "Lashkar bridge",
+                  "text": "Eine bedeutende Brücke und ein Damm aus der Sassanidenzeit, die als eines der Haupttore zur antiken Stadt Schuschtar dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.841185,
+                        32.032503
+                  ]
+            },
+            {
+                  "name": "Azadegan Bridge",
+                  "text": "Eine funktionale Brücke über den Gargar-Fluss, die den historischen Teil mit dem modernen Schuschtar verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.847072,
+                        32.053739
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Eine der ältesten Moscheen Irans, die abbasidische und safawidische Architekturstile mit einer einzigartigen geschnitzten Holzkanzel verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        48.847291,
+                        32.04159
+                  ]
+            },
+            {
+                  "name": "Mostoufi House Restaurant",
+                  "text": "Ein traditionelles Herrenhaus aus der Qadscharen-Zeit, das heute als Museum und Restaurant dient und für seine Ziegelkunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        48.849886,
+                        32.05138
+                  ]
+            },
+            {
+                  "name": "Emaamzaadeh Abdollaah",
+                  "text": "Ein heiliger Schrein, der an seiner markanten, mehrstufigen Kegelkuppel erkennbar ist, ein klassisches Beispiel religiöser Architektur Süd-Irans.",
+                  "category": "religious",
+                  "coords": [
+                        48.843171,
+                        32.032658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saraye Afzal",
+                  "text": "Ez a restaurált kádzsár-kori karavánszeráj ma a helyi kézművesség központjaként szolgál Sustarban.",
+                  "category": "museum",
+                  "coords": [
+                        48.852112,
+                        32.043999
+                  ]
+            },
+            {
+                  "name": "Salasel Castle",
+                  "text": "Ez a történelmi erődítmény a sustari hidraulikus rendszer stratégiai része volt a vízáramlás szabályozására.",
+                  "category": "historical",
+                  "coords": [
+                        48.853025,
+                        32.050872
+                  ]
+            },
+            {
+                  "name": "Kola Ferangi tower",
+                  "text": "Ez a nyolcszögletű kádzsár-kori torony az ősi öntözőrendszer vízszintjének ellenőrzésére szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        48.858241,
+                        32.050397
+                  ]
+            },
+            {
+                  "name": "Band-e-Mizaan",
+                  "text": "Egy ókori szászánida gát, amely a Gargar-folyó vízáramlását szabályozza a sustari hidraulikus rendszerben.",
+                  "category": "historical",
+                  "coords": [
+                        48.860537,
+                        32.051924
+                  ]
+            },
+            {
+                  "name": "Mar'ashi House",
+                  "text": "Egy történelmi kádzsár-kori lakóház, amely panorámás kilátást nyújt a sustari hidraulikus komplexum vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        48.858132,
+                        32.043154
+                  ]
+            },
+            {
+                  "name": "Lashkar bridge",
+                  "text": "Egy jelentős szászánida kori híd és gát, amely az ősi Sustar város egyik fő kapujaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        48.841185,
+                        32.032503
+                  ]
+            },
+            {
+                  "name": "Azadegan Bridge",
+                  "text": "A Gargar-folyón átívelő funkcionális híd, amely Sustar történelmi és modern negyedeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        48.847072,
+                        32.053739
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Irán egyik legrégebbi mecsetje, amely az abbászida és a szafavida építészeti stílusokat ötvözi egy egyedi faragott szószékkel.",
+                  "category": "religious",
+                  "coords": [
+                        48.847291,
+                        32.04159
+                  ]
+            },
+            {
+                  "name": "Mostoufi House Restaurant",
+                  "text": "Egy hagyományos kádzsár-kori kúria, amely múzeummá és étteremmé alakult, elegáns téglaépítéséről és folyóra néző kilátásáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        48.849886,
+                        32.05138
+                  ]
+            },
+            {
+                  "name": "Emaamzaadeh Abdollaah",
+                  "text": "Egy szentély, amely feltűnő, többlépcsős kúpos kupolájáról ismerhető fel, amely a dél-iráni vallási építészet klasszikus példája.",
+                  "category": "religious",
+                  "coords": [
+                        48.843171,
+                        32.032658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saraye Afzal",
+                  "text": "Acest caravanserai restaurat din epoca Qajar servește astăzi drept centru pentru artizanatul local din Shushtar.",
+                  "category": "museum",
+                  "coords": [
+                        48.852112,
+                        32.043999
+                  ]
+            },
+            {
+                  "name": "Salasel Castle",
+                  "text": "Această fortăreață istorică a fost o parte strategică a sistemului hidraulic din Shushtar pentru controlul fluxului de apă.",
+                  "category": "historical",
+                  "coords": [
+                        48.853025,
+                        32.050872
+                  ]
+            },
+            {
+                  "name": "Kola Ferangi tower",
+                  "text": "Acest turn octogonal din epoca Qajar a fost folosit pentru monitorizarea nivelului apei în sistemul antic de irigații.",
+                  "category": "landmark",
+                  "coords": [
+                        48.858241,
+                        32.050397
+                  ]
+            },
+            {
+                  "name": "Band-e-Mizaan",
+                  "text": "Un baraj antic sasanid care reglează fluxul de apă în râul Gargar în cadrul sistemului hidraulic din Shushtar.",
+                  "category": "historical",
+                  "coords": [
+                        48.860537,
+                        32.051924
+                  ]
+            },
+            {
+                  "name": "Mar'ashi House",
+                  "text": "O reședință istorică din epoca Qajar care oferă vederi panoramice asupra cascadelor complexului hidraulic din Shushtar.",
+                  "category": "natural",
+                  "coords": [
+                        48.858132,
+                        32.043154
+                  ]
+            },
+            {
+                  "name": "Lashkar bridge",
+                  "text": "Un pod și baraj semnificativ din epoca sasanidă care a servit drept una dintre porțile principale ale orașului antic Shushtar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.841185,
+                        32.032503
+                  ]
+            },
+            {
+                  "name": "Azadegan Bridge",
+                  "text": "Un pod funcțional peste râul Gargar, care leagă secțiunile istorice și moderne ale orașului Shushtar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.847072,
+                        32.053739
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Una dintre cele mai vechi moschei din Iran, prezentând un amestec de stiluri arhitecturale abbaside și safavide, cu un amvon de lemn sculptat unic.",
+                  "category": "religious",
+                  "coords": [
+                        48.847291,
+                        32.04159
+                  ]
+            },
+            {
+                  "name": "Mostoufi House Restaurant",
+                  "text": "Un conac tradițional din epoca Qajar transformat în muzeu și restaurant, cunoscut pentru zidăria sa elegantă și vederea spre râu.",
+                  "category": "museum",
+                  "coords": [
+                        48.849886,
+                        32.05138
+                  ]
+            },
+            {
+                  "name": "Emaamzaadeh Abdollaah",
+                  "text": "Un sanctuar recunoscut după cupola sa conică în mai multe trepte, un exemplu clasic de arhitectură religioasă din sudul Iranului.",
+                  "category": "religious",
+                  "coords": [
+                        48.843171,
+                        32.032658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saraye Afzal",
+                  "text": "This restored Qajar-era caravanserai now serves as a center for local handicrafts in Shushtar.",
+                  "category": "museum",
+                  "coords": [
+                        48.852112,
+                        32.043999
+                  ]
+            },
+            {
+                  "name": "Salasel Castle",
+                  "text": "This historical fortress was a strategic part of the Shushtar hydraulic system for controlling water flow.",
+                  "category": "historical",
+                  "coords": [
+                        48.853025,
+                        32.050872
+                  ]
+            },
+            {
+                  "name": "Kola Ferangi tower",
+                  "text": "This octagonal Qajar-era tower was used for monitoring water levels in the ancient irrigation system.",
+                  "category": "landmark",
+                  "coords": [
+                        48.858241,
+                        32.050397
+                  ]
+            },
+            {
+                  "name": "Band-e-Mizaan",
+                  "text": "An ancient Sassanid weir and dam that regulates the water flow into the Gargar river within the Shushtar hydraulic system.",
+                  "category": "historical",
+                  "coords": [
+                        48.860537,
+                        32.051924
+                  ]
+            },
+            {
+                  "name": "Mar'ashi House",
+                  "text": "A historic Qajar-era residence offering panoramic views over the cascading waterfalls of the Shushtar hydraulic complex.",
+                  "category": "natural",
+                  "coords": [
+                        48.858132,
+                        32.043154
+                  ]
+            },
+            {
+                  "name": "Lashkar bridge",
+                  "text": "A significant Sassanid-era bridge and dam that served as one of the main gates to the ancient city of Shushtar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.841185,
+                        32.032503
+                  ]
+            },
+            {
+                  "name": "Azadegan Bridge",
+                  "text": "A functional bridge spanning the Gargar River, connecting the historical and modern sections of Shushtar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.847072,
+                        32.053739
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "One of Iran's oldest mosques, featuring a blend of Abbasid and Safavid architectural styles with a unique carved wooden pulpit.",
+                  "category": "religious",
+                  "coords": [
+                        48.847291,
+                        32.04159
+                  ]
+            },
+            {
+                  "name": "Mostoufi House Restaurant",
+                  "text": "A traditional Qajar-era mansion converted into a museum and restaurant, known for its elegant brickwork and view of the river.",
+                  "category": "museum",
+                  "coords": [
+                        48.849886,
+                        32.05138
+                  ]
+            },
+            {
+                  "name": "Emaamzaadeh Abdollaah",
+                  "text": "A holy shrine recognized by its striking multi-stepped conical dome, a classic example of southern Iranian religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        48.843171,
+                        32.032658
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IR-XX",
     coords: [48.8522, 32.0433],
@@ -472,7 +3379,124 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Le système remonte au Ve siècle av. J.-C.", "Des extensions majeures ont été réalisées sous Shapur Ier (241-272 apr. J.-C.)", "Des prisonniers de guerre romains ont aidé à la construction du barrage de Valérien (Band-e Kaisar)", "Le réseau d'eau irriguait une surface de près de 40 000 hectares", "Les canaux principaux Gargar et Shatit détournent l'eau du fleuve Karoun", "Depuis 2009, le système hydraulique figure sur la liste du patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/iran-shushtar-hydraulic-history-v2.webp"},
   {
-    id: "iran-soltaniyeh-dome-history-v2",
+    id: "iran-soltaniyeh-dome-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chalapi Oghli Mausoleum",
+                  "text": "Ein Grab- und Klosterkomplex aus dem 14. Jahrhundert in der Nähe des berühmten Doms.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786342,
+                        36.430714
+                  ]
+            },
+            {
+                  "name": "Soltaniyeh Dom",
+                  "text": "Dieses UNESCO-Welterbe besitzt eine der weltweit größten Ziegelkuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        48.796073,
+                        36.434046
+                  ]
+            },
+            {
+                  "name": "Mulla Hasan Kashi Tomb",
+                  "text": "Ein Mausoleum aus der Safawiden-Ära mit einer markanten türkisfarbenen Kachelkuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.794831,
+                        36.4178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chalapi Oghli Mausoleum",
+                  "text": "Egy 14. századi sír- és kolostoregyüttes a híres dóm közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786342,
+                        36.430714
+                  ]
+            },
+            {
+                  "name": "Soltaniyeh Dome",
+                  "text": "Az UNESCO Világörökség része, amely a világ egyik legnagyobb téglaépítésű kupolájával rendelkezkt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.796073,
+                        36.434046
+                  ]
+            },
+            {
+                  "name": "Mulla Hasan Kashi Tomb",
+                  "text": "Szafavida-kori mauzóleum jellegzetes türkizkék csempézett kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        48.794831,
+                        36.4178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chalapi Oghli Mausoleum",
+                  "text": "Un complex de morminte și mănăstire din secolul al XIV-lea, situat lângă celebra cupolă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786342,
+                        36.430714
+                  ]
+            },
+            {
+                  "name": "Soltaniyeh Dome",
+                  "text": "Acest sit UNESCO are una dintre cele mai mari cupole de cărămidă din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        48.796073,
+                        36.434046
+                  ]
+            },
+            {
+                  "name": "Mulla Hasan Kashi Tomb",
+                  "text": "Un mausoleu din era Safevidă cu o cupolă distinctivă din plăci de faianță turcoaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.794831,
+                        36.4178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chalapi Oghli Mausoleum",
+                  "text": "A 14th-century tomb and monastery complex located near the famous dome.",
+                  "category": "landmark",
+                  "coords": [
+                        48.786342,
+                        36.430714
+                  ]
+            },
+            {
+                  "name": "Soltaniyeh Dome",
+                  "text": "This UNESCO World Heritage site features one of the world's largest brick domes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.796073,
+                        36.434046
+                  ]
+            },
+            {
+                  "name": "Mulla Hasan Kashi Tomb",
+                  "text": "A Safavid-era mausoleum with a distinctive turquoise-tiled dome.",
+                  "category": "landmark",
+                  "coords": [
+                        48.794831,
+                        36.4178
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [48.7967, 36.4333],
@@ -539,7 +3563,52 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Le mausolée a été érigé entre les années 1302 et 1312", "La puissante coupole atteint une hauteur de près de 50 mètres", "Le diamètre de la coupole est d'environ 25 mètres", "Il s'agit de la plus ancienne coupole à double paroi conservée en Iran", "Le souverain Oljaytu est décédé en 1316 et a été enterré ici", "Le site a été classé au patrimoine mondial de l'UNESCO en 2005"],
     }, image: "/poi-images/iran-soltaniyeh-dome-history-v2.webp"},
   {
-    id: "iran-takht-e-soleyman-history-v2",
+    id: "iran-takht-e-soleyman-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tacht-i Suleiman",
+                  "text": "Die UNESCO-Welterbestätte Tacht-e Suleiman beherbergt die Ruinen eines sassanidischen zoroastrischen Feuertempels an einem vulkanischen Kratersee.",
+                  "category": "landmark",
+                  "coords": [
+                        47.234781,
+                        36.604552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Takht-e Soleyman",
+                  "text": "A világörökség részét képező Takht-e Soleyman egy vulkáni krátertó körül elterülő szászánida kori zoroasztriánus tűztemplom romjait foglalja magában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.234781,
+                        36.604552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Takht-e Soleyman",
+                  "text": "Situl de patrimoniu mondial Takht-e Soleyman cuprinde ruinele unui templu zoroastrian sasanid, amplasat în jurul unui lac de crater vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        47.234781,
+                        36.604552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Takht-e Soleyman",
+                  "text": "The World Heritage site of Takht-e Soleyman features the ruins of a Sassanid Zoroastrian fire temple surrounding a volcanic crater lake.",
+                  "category": "landmark",
+                  "coords": [
+                        47.234781,
+                        36.604552
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [47.2353, 36.6047],
@@ -606,7 +3675,196 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["L'apogée du site se situe entre le IIIe et le VIIe siècle apr. J.-C.", "Le lac sacré du cratère présente une profondeur remarquable allant jusqu'à 112 mètres", "Le mur d'enceinte protecteur du complexe mesurait 13 mètres de haut", "Au total, 38 tours de défense renforçaient le mur d'enceinte en pierre", "L'empereur byzantin Héraclius a détruit le temple du feu en 624", "En 2003, le site a été inscrit sur la liste du patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/iran-takht-e-soleyman-history-v2.webp"},
   {
-    id: "iran-sheikh-safi-shrine-history-v2",
+    id: "iran-sheikh-safi-shrine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazaar",
+                  "text": "Der historische Basar von Ardabil besticht durch seine alten Ziegelgewölbe und die traditionelle Handelsatmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        48.297422,
+                        38.250228
+                  ]
+            },
+            {
+                  "name": "Rasool Allah (S) mosque",
+                  "text": "Eine Moschee im Herzen von Ardabil, die durch ihre kunstvollen Kalligrafien an den Wänden auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.296702,
+                        38.228672
+                  ]
+            },
+            {
+                  "name": "Mosque of Seyyed Al Shohada",
+                  "text": "Dieses religiöse Bauwerk in Ardabil ist mit traditionellen persischen Mustern und Kuppelbögen gestaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.31761,
+                        38.24154
+                  ]
+            },
+            {
+                  "name": "Imam Ali (peace be upon him) Mosque",
+                  "text": "Eine muslimische Gebetsstätte im historischen Viertel von Ardabil, bekannt für ihr ruhiges Gebetsareal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303376,
+                        38.253012
+                  ]
+            },
+            {
+                  "name": "Bathroom",
+                  "text": "Ein historisches öffentliches Bad in Ardabil mit traditionellen Steingewölben und alten Waschbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        48.303507,
+                        38.236917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazaar",
+                  "text": "Ardabil történelmi bazárja régi tégla boltíveivel és hagyományos kereskedelmi hangulatával nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.297422,
+                        38.250228
+                  ]
+            },
+            {
+                  "name": "Rasool Allah (S) mosque",
+                  "text": "Mecset Ardabil szívében, amely falaian látható művészi kalligráfiáival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.296702,
+                        38.228672
+                  ]
+            },
+            {
+                  "name": "Mosque of Seyyed Al Shohada",
+                  "text": "Ez a vallási épület Ardabilban hagyományos perzsa mintákkal és kupolás ívekkel készült.",
+                  "category": "landmark",
+                  "coords": [
+                        48.31761,
+                        38.24154
+                  ]
+            },
+            {
+                  "name": "Imam Ali (peace be upon him) Mosque",
+                  "text": "Muszlim imaház Ardabil történelmi negyedében, amely csendes imaterületéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303376,
+                        38.253012
+                  ]
+            },
+            {
+                  "name": "Bathroom",
+                  "text": "Történelmi közfürdő Ardabilban, hagyományos kőboltozatokkal és régi mosdókagylókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        48.303507,
+                        38.236917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazaar",
+                  "text": "Bazarul istoric din Ardabil impresionează prin vechile sale bolți din cărămidă și atmosfera tradițională de comerț.",
+                  "category": "landmark",
+                  "coords": [
+                        48.297422,
+                        38.250228
+                  ]
+            },
+            {
+                  "name": "Rasool Allah (S) mosque",
+                  "text": "O moschee în inima orașului Ardabil, care se remarcă prin caligrafiile sale artistice de pe pereți.",
+                  "category": "landmark",
+                  "coords": [
+                        48.296702,
+                        38.228672
+                  ]
+            },
+            {
+                  "name": "Mosque of Seyyed Al Shohada",
+                  "text": "Această structură religioasă din Ardabil este proiectată cu modele persane tradiționale și arcuri cupolate.",
+                  "category": "landmark",
+                  "coords": [
+                        48.31761,
+                        38.24154
+                  ]
+            },
+            {
+                  "name": "Imam Ali (peace be upon him) Mosque",
+                  "text": "Un lăcaș de rugăciune musulman în cartierul istoric din Ardabil, cunoscut pentru zona sa liniștită de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303376,
+                        38.253012
+                  ]
+            },
+            {
+                  "name": "Bathroom",
+                  "text": "O baie publică istorică din Ardabil, cu bolți tradiționale din piatră și chiuvete vechi.",
+                  "category": "recreational",
+                  "coords": [
+                        48.303507,
+                        38.236917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazaar",
+                  "text": "The historic bazaar of Ardabil impresses with its old brick vaults and traditional trading atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        48.297422,
+                        38.250228
+                  ]
+            },
+            {
+                  "name": "Rasool Allah (S) mosque",
+                  "text": "A mosque in the heart of Ardabil that stands out for its artistic calligraphy on the walls.",
+                  "category": "landmark",
+                  "coords": [
+                        48.296702,
+                        38.228672
+                  ]
+            },
+            {
+                  "name": "Mosque of Seyyed Al Shohada",
+                  "text": "This religious structure in Ardabil is designed with traditional Persian patterns and domed arches.",
+                  "category": "landmark",
+                  "coords": [
+                        48.31761,
+                        38.24154
+                  ]
+            },
+            {
+                  "name": "Imam Ali (peace be upon him) Mosque",
+                  "text": "A Muslim prayer site in the historic district of Ardabil known for its quiet prayer area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303376,
+                        38.253012
+                  ]
+            },
+            {
+                  "name": "Bathroom",
+                  "text": "A historic public bath in Ardabil featuring traditional stone vaults and old basins.",
+                  "category": "recreational",
+                  "coords": [
+                        48.303507,
+                        38.236917
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IR-XX",
     coords: [48.2994, 38.2492],
@@ -673,7 +3931,196 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Le cheikh Safi al-Din a vécu de 1252 à l'an 1334", "Le cœur du complexe de bâtiments a été érigé entre 1524 et 1576", "Chah Abbas Ier a ajouté la célèbre Tchini-Khaneh (maison de porcelaine)", "En 1828, les troupes russes ont pillé une grande partie des fonds de la bibliothèque", "La coupole funéraire centrale porte le nom de coupole Allah-Allah", "L'ensemble du complexe est classé au patrimoine mondial de l'UNESCO depuis 2010"],
     }, image: "/poi-images/iran-sheikh-safi-shrine-history-v2.webp"},
   {
-    id: "iran-susa-history-v2",
+    id: "iran-susa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fathol Mobin Area",
+                  "text": "Dieser Museumsbereich erinnert an die Fathol-Mobin-Operation während des Iran-Irak-Krieges.",
+                  "category": "museum",
+                  "coords": [
+                        48.19049,
+                        32.216364
+                  ]
+            },
+            {
+                  "name": "Königsstadt",
+                  "text": "Dieses UNESCO-geschützte Areal umfasst die antiken Wohnviertel der elamischen und achämenidischen Könige.",
+                  "category": "historical",
+                  "coords": [
+                        48.249603,
+                        32.191597
+                  ]
+            },
+            {
+                  "name": "Shavar Palace (Ardashir II)",
+                  "text": "Die Ruinen dieses Palastes wurden vom achämenidischen König Artaxerxes II. am Ufer des Shavar-Flusses errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.243287,
+                        32.19346
+                  ]
+            },
+            {
+                  "name": "Susa Museum",
+                  "text": "Dieses Museum zeigt bedeutende archäologische Funde aus der jahrtausendealten Geschichte der Stadt Susa.",
+                  "category": "museum",
+                  "coords": [
+                        48.246603,
+                        32.191127
+                  ]
+            },
+            {
+                  "name": "Emam Hassan Mosque",
+                  "text": "Eine Moschee in Susa, die nach Imam Hassan benannt ist und als wichtiges religiöses Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.24686,
+                        32.220563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fathol Mobin Area",
+                  "text": "Ez a múzeumi terület az iráni-iraki háború Fathol Mobin hadműveletének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        48.19049,
+                        32.216364
+                  ]
+            },
+            {
+                  "name": "Royal City",
+                  "text": "Ez az UNESCO által védett terület az elámi és achaemenida királyok ősi lakónegyedeit foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        48.249603,
+                        32.191597
+                  ]
+            },
+            {
+                  "name": "Shavar Palace (Ardashir II)",
+                  "text": "Ennek a palotának a romjait II. Artaxerxész achaemenida király építtette a Savar-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        48.243287,
+                        32.19346
+                  ]
+            },
+            {
+                  "name": "Susa Museum",
+                  "text": "Ez a múzeum Szúza városának évezredes történelméből származó jelentős régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        48.246603,
+                        32.191127
+                  ]
+            },
+            {
+                  "name": "Emam Hassan Mosque",
+                  "text": "Imám Hasszánról elnevezett mecset Szúzában, amely fontos vallási központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.24686,
+                        32.220563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fathol Mobin Area",
+                  "text": "Această zonă muzeală comemorează operațiunea Fathol Mobin din timpul războiului dintre Iran și Irak.",
+                  "category": "museum",
+                  "coords": [
+                        48.19049,
+                        32.216364
+                  ]
+            },
+            {
+                  "name": "Royal City",
+                  "text": "Această zonă protejată de UNESCO cuprinde vechile cartiere rezidențiale ale regilor elamiți și achemenizi.",
+                  "category": "historical",
+                  "coords": [
+                        48.249603,
+                        32.191597
+                  ]
+            },
+            {
+                  "name": "Shavar Palace (Ardashir II)",
+                  "text": "Ruinele acestui palat au fost construite de regele achemenid Artaxerxes al II-lea pe malul râului Shavar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.243287,
+                        32.19346
+                  ]
+            },
+            {
+                  "name": "Susa Museum",
+                  "text": "Acest muzeu expune descoperiri arheologice semnificative din istoria de mii de ani a orașului Susa.",
+                  "category": "museum",
+                  "coords": [
+                        48.246603,
+                        32.191127
+                  ]
+            },
+            {
+                  "name": "Emam Hassan Mosque",
+                  "text": "O moschee din Susa, numită după Imamul Hassan, care servește ca un important centru religios.",
+                  "category": "landmark",
+                  "coords": [
+                        48.24686,
+                        32.220563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fathol Mobin Area",
+                  "text": "This museum area commemorates the Fathol Mobin operation during the Iran-Iraq war.",
+                  "category": "museum",
+                  "coords": [
+                        48.19049,
+                        32.216364
+                  ]
+            },
+            {
+                  "name": "Royal City",
+                  "text": "This UNESCO-protected area encompasses the ancient residential quarters of Elamite and Achaemenid royalty.",
+                  "category": "historical",
+                  "coords": [
+                        48.249603,
+                        32.191597
+                  ]
+            },
+            {
+                  "name": "Shavar Palace (Ardashir II)",
+                  "text": "The ruins of this palace were built by the Achaemenid king Artaxerxes II on the banks of the Shavar River.",
+                  "category": "landmark",
+                  "coords": [
+                        48.243287,
+                        32.19346
+                  ]
+            },
+            {
+                  "name": "Susa Museum",
+                  "text": "This museum displays significant archaeological finds from the millennia-old history of the city of Susa.",
+                  "category": "museum",
+                  "coords": [
+                        48.246603,
+                        32.191127
+                  ]
+            },
+            {
+                  "name": "Emam Hassan Mosque",
+                  "text": "A mosque in Susa named after Imam Hassan, serving as an important religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        48.24686,
+                        32.220563
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [48.2567, 32.1897],
@@ -740,7 +4187,196 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Les premières traces d'occupation remontent à environ 4395 av. J.-C.", "Darius Ier a fait de Suse une résidence royale vers l'an 521 av. J.-C.", "L'archéologue français Jacques de Morgan a mené d'importantes fouilles en 1897", "Suse a été détruite en 647 av. J.-C. par le roi assyrien Assurbanipal", "La célèbre salle de l'Apadana de Suse couvrait autrefois une surface de plus de 10 000 mètres carrés", "En 2015, Suse a été inscrite sur la liste du patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/iran-susa-history-v2.webp"},
   {
-    id: "iran-naqsh-e-rustam-history-v2",
+    id: "iran-naqsh-e-rustam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haji Abad Climbing Crag",
+                  "text": "Ein beliebter Ort zum Klettern in der Nähe der historischen Stätte Naqsh-e Rustam.",
+                  "category": "landmark",
+                  "coords": [
+                        52.91603,
+                        30.004655
+                  ]
+            },
+            {
+                  "name": "Triumph von Shapur I.",
+                  "text": "Dieses sasanidische Felsrelief in Naqsh-e Rustam zeigt den Sieg von Schapur I. über römische Kaiser.",
+                  "category": "historical",
+                  "coords": [
+                        52.874587,
+                        29.989058
+                  ]
+            },
+            {
+                  "name": "Istachr",
+                  "text": "Die Ruinen von Estakhr, einst eine bedeutende Stadt im antiken Persien und die Wiege des Sasanidenreiches.",
+                  "category": "historical",
+                  "coords": [
+                        52.907805,
+                        29.981189
+                  ]
+            },
+            {
+                  "name": "Naqsh-e Rajab",
+                  "text": "Eine archäologische Stätte, die für ihre gut erhaltenen Felsreliefs aus der Sassanidenzeit bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        52.886951,
+                        29.966459
+                  ]
+            },
+            {
+                  "name": "Tol-e Kamin",
+                  "text": "Eine archäologische Stätte in der historischen Region Naqsh-e Rostam.",
+                  "category": "historical",
+                  "coords": [
+                        52.816081,
+                        30.017385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haji Abad Climbing Crag",
+                  "text": "Népszerű sziklamászó hely a történelmi Naqsh-e Rustam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        52.91603,
+                        30.004655
+                  ]
+            },
+            {
+                  "name": "Triumph of Shapur I.",
+                  "text": "Ez a Naqsh-e Rustamban található szászánida szikladombormű I. Sápúr római császárok felett aratott győzelmét ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        52.874587,
+                        29.989058
+                  ]
+            },
+            {
+                  "name": "Estakhr",
+                  "text": "Isztakhr romjai, amely egykor az ókori Perzsia jelentős városa és a Szászánida Birodalom bölcsője volt.",
+                  "category": "historical",
+                  "coords": [
+                        52.907805,
+                        29.981189
+                  ]
+            },
+            {
+                  "name": "Naqsh-e Rajab",
+                  "text": "Szászánida kori szikladomborműveiről ismert régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        52.886951,
+                        29.966459
+                  ]
+            },
+            {
+                  "name": "Tol-e Kamin",
+                  "text": "Régészeti lelőhely a történelmi Naqsh-e Rostam régióban.",
+                  "category": "historical",
+                  "coords": [
+                        52.816081,
+                        30.017385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haji Abad Climbing Crag",
+                  "text": "O locație populară pentru alpinism lângă situl istoric Naqsh-e Rustam.",
+                  "category": "landmark",
+                  "coords": [
+                        52.91603,
+                        30.004655
+                  ]
+            },
+            {
+                  "name": "Triumph of Shapur I.",
+                  "text": "Acest basorelief sasanid de la Naqsh-e Rustam înfățișează victoria lui Shapur I asupra împăraților romani.",
+                  "category": "historical",
+                  "coords": [
+                        52.874587,
+                        29.989058
+                  ]
+            },
+            {
+                  "name": "Estakhr",
+                  "text": "Ruinele Estakhr, odinioară un oraș important din Persia antică și leagănul Imperiului Sasanid.",
+                  "category": "historical",
+                  "coords": [
+                        52.907805,
+                        29.981189
+                  ]
+            },
+            {
+                  "name": "Naqsh-e Rajab",
+                  "text": "Un sit arheologic cunoscut pentru sculpturile sale în stâncă din epoca sasanidă bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        52.886951,
+                        29.966459
+                  ]
+            },
+            {
+                  "name": "Tol-e Kamin",
+                  "text": "Un sit arheologic situat în regiunea istorică Naqsh-e Rostam.",
+                  "category": "historical",
+                  "coords": [
+                        52.816081,
+                        30.017385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haji Abad Climbing Crag",
+                  "text": "A popular rock climbing location near the historic site of Naqsh-e Rustam.",
+                  "category": "landmark",
+                  "coords": [
+                        52.91603,
+                        30.004655
+                  ]
+            },
+            {
+                  "name": "Triumph of Shapur I.",
+                  "text": "This Sasanian rock relief at Naqsh-e Rustam depicts the victory of Shapur I over Roman emperors.",
+                  "category": "historical",
+                  "coords": [
+                        52.874587,
+                        29.989058
+                  ]
+            },
+            {
+                  "name": "Estakhr",
+                  "text": "The ruins of Estakhr, once a major city in ancient Persia and the cradle of the Sasanian Empire.",
+                  "category": "historical",
+                  "coords": [
+                        52.907805,
+                        29.981189
+                  ]
+            },
+            {
+                  "name": "Naqsh-e Rajab",
+                  "text": "An archaeological site known for its well-preserved Sassanid-era rock carvings.",
+                  "category": "historical",
+                  "coords": [
+                        52.886951,
+                        29.966459
+                  ]
+            },
+            {
+                  "name": "Tol-e Kamin",
+                  "text": "An archaeological site located in the historic Naqsh-e Rostam region.",
+                  "category": "historical",
+                  "coords": [
+                        52.816081,
+                        30.017385
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [52.8744, 29.9886],
@@ -807,7 +4443,52 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Les plus anciens tombeaux rupestres ont été créés vers 500 av. J.-C.", "Les quatre tombes royales appartiennent à Darius Ier, Xerxès Ier, Artaxerxès Ier et Darius II", "Les reliefs rupestres sassanides ont été ajoutés entre 225 et 325 apr. J.-C.", "Le célèbre relief de Shapur Ier célèbre la victoire à la bataille d'Édesse (260 apr. J.-C.)", "Devant les tombes se dresse la Ka'ba-ye Zartosht, une tour carrée du Ve siècle av. J.-C.", "Le site revêt une grande importance religieuse et nationale depuis l'époque achéménide"],
     }, image: "/poi-images/iran-naqsh-e-rustam-history-v2.webp"},
   {
-    id: "iran-alamut-castle-history-v2",
+    id: "iran-alamut-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Alamut",
+                  "text": "Die Festung Alamut thront hoch oben auf einem schroffen Felsengrat im Elburs-Gebirge und war einst die legendäre Hauptburg der Assassinen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586193,
+                        36.444688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alamut Castle",
+                  "text": "Az Alamut vár magasan, az Elburz-hegység egy zord sziklaszirten magasodik, s egykor az asszaszinok legendás főerődítménye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586193,
+                        36.444688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alamut Castle",
+                  "text": "Castelul Alamut se înalță pe o creastă stâncoasă abruptă din munții Alborz, fiind fosta fortăreață principală a ordinului asasinilor.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586193,
+                        36.444688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alamut Castle",
+                  "text": "Alamut Castle is perched high on a rugged rock ridge in the Alborz Mountains, famous as the former stronghold of the Hashashin order.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586193,
+                        36.444688
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IR-XX",
     coords: [50.5847, 36.3953],
@@ -874,7 +4555,556 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Le château d'origine a probablement été construit en 865 apr. J.-C.", "Hassan-i Sabbah a pris le contrôle de la forteresse en 1090 apr. J.-C.", "Elle est située à une altitude extrêmement escarpée de plus de 2100 mètres", "Le réseau ismaélien a conservé la forteresse pendant près de 166 ans", "En décembre 1256, la garnison capitula devant les Mongols", "Les ruines s'étendent sur une longueur de près de 120 mètres sur la crête rocheuse"],
     }, image: "/poi-images/iran-alamut-castle-history-v2.webp"},
   {
-    id: "iran-qabus-tower-history-v2",
+    id: "iran-qabus-tower-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "historic city of Gurgan",
+                  "text": "Ruinen einer antiken Stadt an der Seidenstraße, die einst ein wichtiges Handelszentrum war.",
+                  "category": "historical",
+                  "coords": [
+                        55.132346,
+                        37.233987
+                  ]
+            },
+            {
+                  "name": "Fort 10, Great Wall of Gorgan",
+                  "text": "Überreste einer antiken Verteidigungsanlage, die Teil der massiven Großen Mauer von Gorgan ist.",
+                  "category": "historical",
+                  "coords": [
+                        55.175082,
+                        37.280797
+                  ]
+            },
+            {
+                  "name": "Carpet Museum",
+                  "text": "Ein Museum, das die feine Knüpfkunst traditioneller turkmenischer Teppiche zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.168069,
+                        37.258047
+                  ]
+            },
+            {
+                  "name": "Fort 12, Great Wall of Gorgan",
+                  "text": "Eine archäologische Stätte an der antiken Ziegelmauer, die zum Schutz gegen Invasoren errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        55.110501,
+                        37.266949
+                  ]
+            },
+            {
+                  "name": "Fort 9, Great Wall of Gorgan",
+                  "text": "Ein strategischer Festungsabschnitt der „Roten Schlange“, einer der längsten Mauern der Antike.",
+                  "category": "historical",
+                  "coords": [
+                        55.229101,
+                        37.307201
+                  ]
+            },
+            {
+                  "name": "Qabus Tower",
+                  "text": "Dieser monumentale Ziegelturm aus dem 11. Jahrhundert ist ein UNESCO-Welterbe.",
+                  "category": "historical",
+                  "coords": [
+                        55.169013,
+                        37.258093
+                  ]
+            },
+            {
+                  "name": "Safa Mosque",
+                  "text": "Eine lokale Moschee in Gorgan, die der muslimischen Gemeinde als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168896,
+                        37.271276
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Mosque",
+                  "text": "Eine schlichte muslimische Gebetsstätte im Stadtteil Yusef Abad von Gorgan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.171796,
+                        37.272884
+                  ]
+            },
+            {
+                  "name": "Yusef Abad #2 Mosque",
+                  "text": "Ein zweites Gemeindezentrum für das tägliche Gebet im Viertel Yusef Abad.",
+                  "category": "landmark",
+                  "coords": [
+                        55.169744,
+                        37.27364
+                  ]
+            },
+            {
+                  "name": "mosque seyedy",
+                  "text": "Eine nachbarschaftliche Moschee in Gorgan für die täglichen religiösen Pflichten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168749,
+                        37.252566
+                  ]
+            },
+            {
+                  "name": "mosque daryaye noor",
+                  "text": "Eine lokale Moschee, die als spiritueller Mittelpunkt für die Bewohner von Gorgan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.162482,
+                        37.247615
+                  ]
+            },
+            {
+                  "name": "mosque naghshbandi",
+                  "text": "Ein sunnitisches Gebetshaus in Gorgan, das nach der Naqschbandīya-Tradition benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        55.160573,
+                        37.254444
+                  ]
+            },
+            {
+                  "name": "mosque keramat",
+                  "text": "Ein Ort der Andacht in Gorgan, der für religiöse Feierlichkeiten genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        55.15712,
+                        37.257675
+                  ]
+            },
+            {
+                  "name": "mosque abuhanife",
+                  "text": "Eine sunnitische Moschee in Gorgan, benannt nach dem Rechtsgelehrten Abu Hanifa.",
+                  "category": "landmark",
+                  "coords": [
+                        55.167158,
+                        37.260228
+                  ]
+            },
+            {
+                  "name": "The Sunni Eid Mosque of Gonbad-e Qabus",
+                  "text": "Ein weitläufiger Gebetsplatz im Freien für die großen Versammlungen zum Eid-Fest.",
+                  "category": "landmark",
+                  "coords": [
+                        55.164834,
+                        37.276117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "historic city of Gurgan",
+                  "text": "Egy ősi selyemúti város romjai, amely egykor fontos kereskedelmi központ volt.",
+                  "category": "historical",
+                  "coords": [
+                        55.132346,
+                        37.233987
+                  ]
+            },
+            {
+                  "name": "Fort 10, Great Wall of Gorgan",
+                  "text": "Egy ősi védmű maradványai, amely a hatalmas Gorgáni Nagy Fal része.",
+                  "category": "historical",
+                  "coords": [
+                        55.175082,
+                        37.280797
+                  ]
+            },
+            {
+                  "name": "Carpet Museum",
+                  "text": "Múzeum, amely a hagyományos türkmén szőnyegek finom csomózási művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.168069,
+                        37.258047
+                  ]
+            },
+            {
+                  "name": "Fort 12, Great Wall of Gorgan",
+                  "text": "Régészeti lelőhely az ősi téglafal mentén, amely a betörők elleni védelemre épült.",
+                  "category": "historical",
+                  "coords": [
+                        55.110501,
+                        37.266949
+                  ]
+            },
+            {
+                  "name": "Fort 9, Great Wall of Gorgan",
+                  "text": "A „Vörös Kígyó” egyik stratégiai erődítménye, amely az ókor egyik leghosszabb fala.",
+                  "category": "historical",
+                  "coords": [
+                        55.229101,
+                        37.307201
+                  ]
+            },
+            {
+                  "name": "Qabus Tower",
+                  "text": "Ez a 11. századi monumentális tégla-torony az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        55.169013,
+                        37.258093
+                  ]
+            },
+            {
+                  "name": "Safa Mosque",
+                  "text": "Helyi mecset Gorgánban, amely a muszlim közösség imádságos helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168896,
+                        37.271276
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Mosque",
+                  "text": "Egyszerű muszlim imaház Gorgán Yusef Abad negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.171796,
+                        37.272884
+                  ]
+            },
+            {
+                  "name": "Yusef Abad #2 Mosque",
+                  "text": "Egy második közösségi központ a napi imádkozáshoz a Yusef Abad negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        55.169744,
+                        37.27364
+                  ]
+            },
+            {
+                  "name": "mosque seyedy",
+                  "text": "Környékbeli mecset Gorgánban a napi vallási kötelezettségek gyakorlásához.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168749,
+                        37.252566
+                  ]
+            },
+            {
+                  "name": "mosque daryaye noor",
+                  "text": "Helyi mecset, amely szellemi központként szolgál Gorgán lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        55.162482,
+                        37.247615
+                  ]
+            },
+            {
+                  "name": "mosque naghshbandi",
+                  "text": "Szunnita imaház Gorgánban, amelyet a naksbandi hagyományról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        55.160573,
+                        37.254444
+                  ]
+            },
+            {
+                  "name": "mosque keramat",
+                  "text": "Áhítat helyszíne Gorgánban, amelyet vallási ünnepségekhez használnak.",
+                  "category": "religious",
+                  "coords": [
+                        55.15712,
+                        37.257675
+                  ]
+            },
+            {
+                  "name": "mosque abuhanife",
+                  "text": "Szunnita mecset Gorgánban, amelyet Abu Hanifa jogtudósról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        55.167158,
+                        37.260228
+                  ]
+            },
+            {
+                  "name": "The Sunni Eid Mosque of Gonbad-e Qabus",
+                  "text": "Tágas, szabadtéri imádkozóhely a nagy Eid-ünnepi gyülekezésekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        55.164834,
+                        37.276117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "historic city of Gurgan",
+                  "text": "Ruinele unui oraș antic de pe Drumul Mătăsii, care a fost cândva un important centru comercial.",
+                  "category": "historical",
+                  "coords": [
+                        55.132346,
+                        37.233987
+                  ]
+            },
+            {
+                  "name": "Fort 10, Great Wall of Gorgan",
+                  "text": "Rămășițele unei fortificații antice, parte din masivul Mare Zid din Gorgan.",
+                  "category": "historical",
+                  "coords": [
+                        55.175082,
+                        37.280797
+                  ]
+            },
+            {
+                  "name": "Carpet Museum",
+                  "text": "Un muzeu care expune arta fină a țeserii covoarelor tradiționale turkmene.",
+                  "category": "museum",
+                  "coords": [
+                        55.168069,
+                        37.258047
+                  ]
+            },
+            {
+                  "name": "Fort 12, Great Wall of Gorgan",
+                  "text": "Un sit arheologic de-a lungul zidului antic de cărămidă, construit pentru protecție împotriva invadatorilor.",
+                  "category": "historical",
+                  "coords": [
+                        55.110501,
+                        37.266949
+                  ]
+            },
+            {
+                  "name": "Fort 9, Great Wall of Gorgan",
+                  "text": "O secțiune strategică de fort din „Șarpele Roșu”, unul dintre cele mai lungi ziduri ale antichității.",
+                  "category": "historical",
+                  "coords": [
+                        55.229101,
+                        37.307201
+                  ]
+            },
+            {
+                  "name": "Qabus Tower",
+                  "text": "Acest turn monumental din cărămidă din secolul al XI-lea este inclus în patrimoniul UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        55.169013,
+                        37.258093
+                  ]
+            },
+            {
+                  "name": "Safa Mosque",
+                  "text": "O moschee locală din Gorgan, care servește comunității musulmane ca loc de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168896,
+                        37.271276
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Mosque",
+                  "text": "Un lăcaș de cult musulman simplu în cartierul Yusef Abad din Gorgan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.171796,
+                        37.272884
+                  ]
+            },
+            {
+                  "name": "Yusef Abad #2 Mosque",
+                  "text": "Un al doilea centru comunitar pentru rugăciunea zilnică în zona Yusef Abad.",
+                  "category": "landmark",
+                  "coords": [
+                        55.169744,
+                        37.27364
+                  ]
+            },
+            {
+                  "name": "mosque seyedy",
+                  "text": "O moschee de cartier din Gorgan pentru îndeplinirea obligațiilor religioase zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168749,
+                        37.252566
+                  ]
+            },
+            {
+                  "name": "mosque daryaye noor",
+                  "text": "O moschee locală care servește ca centru spiritual pentru locuitorii din Gorgan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.162482,
+                        37.247615
+                  ]
+            },
+            {
+                  "name": "mosque naghshbandi",
+                  "text": "O casă de rugăciune sunnită din Gorgan, numită după tradiția Naqshbandi.",
+                  "category": "religious",
+                  "coords": [
+                        55.160573,
+                        37.254444
+                  ]
+            },
+            {
+                  "name": "mosque keramat",
+                  "text": "Un loc de devoțiune din Gorgan, utilizat pentru celebrări religioase.",
+                  "category": "religious",
+                  "coords": [
+                        55.15712,
+                        37.257675
+                  ]
+            },
+            {
+                  "name": "mosque abuhanife",
+                  "text": "O moschee sunnită din Gorgan, numită după învățatul Abu Hanifa.",
+                  "category": "landmark",
+                  "coords": [
+                        55.167158,
+                        37.260228
+                  ]
+            },
+            {
+                  "name": "The Sunni Eid Mosque of Gonbad-e Qabus",
+                  "text": "Un spațiu larg de rugăciune în aer liber pentru marile adunări de sărbătoarea Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        55.164834,
+                        37.276117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "historic city of Gurgan",
+                  "text": "Ruins of an ancient Silk Road city that was once a major regional trading hub.",
+                  "category": "historical",
+                  "coords": [
+                        55.132346,
+                        37.233987
+                  ]
+            },
+            {
+                  "name": "Fort 10, Great Wall of Gorgan",
+                  "text": "Remains of an ancient fortification, part of the massive Great Wall of Gorgan defensive system.",
+                  "category": "historical",
+                  "coords": [
+                        55.175082,
+                        37.280797
+                  ]
+            },
+            {
+                  "name": "Carpet Museum",
+                  "text": "A museum showcasing the fine craftsmanship of traditional Turkmen carpet weaving.",
+                  "category": "museum",
+                  "coords": [
+                        55.168069,
+                        37.258047
+                  ]
+            },
+            {
+                  "name": "Fort 12, Great Wall of Gorgan",
+                  "text": "An archaeological site along the ancient brick wall built for protection against invaders.",
+                  "category": "historical",
+                  "coords": [
+                        55.110501,
+                        37.266949
+                  ]
+            },
+            {
+                  "name": "Fort 9, Great Wall of Gorgan",
+                  "text": "A strategic fort section of the 'Red Snake', one of the longest walls of antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        55.229101,
+                        37.307201
+                  ]
+            },
+            {
+                  "name": "Qabus Tower",
+                  "text": "This monumental 11th-century brick tower is a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        55.169013,
+                        37.258093
+                  ]
+            },
+            {
+                  "name": "Safa Mosque",
+                  "text": "A local mosque in Gorgan serving the Muslim community as a place for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168896,
+                        37.271276
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Mosque",
+                  "text": "A simple Muslim place of worship in the Yusef Abad district of Gorgan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.171796,
+                        37.272884
+                  ]
+            },
+            {
+                  "name": "Yusef Abad #2 Mosque",
+                  "text": "A second community center for daily prayer located in the Yusef Abad area.",
+                  "category": "landmark",
+                  "coords": [
+                        55.169744,
+                        37.27364
+                  ]
+            },
+            {
+                  "name": "mosque seyedy",
+                  "text": "A neighborhood mosque in Gorgan for performing daily religious duties.",
+                  "category": "landmark",
+                  "coords": [
+                        55.168749,
+                        37.252566
+                  ]
+            },
+            {
+                  "name": "mosque daryaye noor",
+                  "text": "A local mosque serving as a spiritual focal point for the residents of Gorgan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.162482,
+                        37.247615
+                  ]
+            },
+            {
+                  "name": "mosque naghshbandi",
+                  "text": "A Sunni house of prayer in Gorgan named after the Naqshbandi tradition.",
+                  "category": "religious",
+                  "coords": [
+                        55.160573,
+                        37.254444
+                  ]
+            },
+            {
+                  "name": "mosque keramat",
+                  "text": "A place of devotion in Gorgan used for religious celebrations.",
+                  "category": "religious",
+                  "coords": [
+                        55.15712,
+                        37.257675
+                  ]
+            },
+            {
+                  "name": "mosque abuhanife",
+                  "text": "A Sunni mosque in Gorgan named after the Islamic scholar Abu Hanifa.",
+                  "category": "landmark",
+                  "coords": [
+                        55.167158,
+                        37.260228
+                  ]
+            },
+            {
+                  "name": "The Sunni Eid Mosque of Gonbad-e Qabus",
+                  "text": "A spacious open-air prayer ground used for large Eid festival gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        55.164834,
+                        37.276117
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [55.1706, 37.2567],
@@ -941,7 +5171,304 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["La tour a été achevée en 1006 (ou 397 selon le calendrier islamique)", "La hauteur totale est d'exactement 53 mètres sans le socle manquant aujourd'hui", "Les murs ont une épaisseur énorme de 3 mètres à la base de la tour", "Deux bandes d'inscriptions coufiques entourent l'édifice en briques", "Le toit conique mesure à lui seul l'impressionnante hauteur de 18 mètres", "En 2012, le monument a été classé au patrimoine mondial de l'UNESCO"],
     }, image: "/poi-images/iran-qabus-tower-history-v2.webp"},
   {
-    id: "iran-falak-ol-aflak-history-v2",
+    id: "iran-falak-ol-aflak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shapouri Artificial lake",
+                  "text": "Der künstliche See Shapouri ist ein malerisches Gewässer, das zur Aufwertung der Parkanlage rund um die antike Brückenruine von Chorramabad angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33773,
+                        33.466347
+                  ]
+            },
+            {
+                  "name": "Shapuri Bridge",
+                  "text": "Die Shapuri-Brücke, auch als Zerbrochene Brücke bekannt, ist ein imposantes steinernes Bauwerk aus der Sassanidenzeit, das den Fluss in Chorramabad überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33857,
+                        33.467864
+                  ]
+            },
+            {
+                  "name": "Brick minaret",
+                  "text": "Dieses alte, zylindrische Minarett aus Backstein ist ein isolierter historischer Turm, der einst Karawanen auf ihrem Weg nahe der Stadt den Weg wies.",
+                  "category": "landmark",
+                  "coords": [
+                        48.352825,
+                        33.467977
+                  ]
+            },
+            {
+                  "name": "Falak-ol-Aflak Castle",
+                  "text": "Das Stadtbild dominierend, ist Falak-ol-Aflak eine massive Burg aus der Sassanidenzeit, die auf einem markanten Hügel in Chorramabad errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        48.353272,
+                        33.4837
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Abdullah",
+                  "text": "Imamzadeh Abdullah ist ein verehrter islamischer Schrein mit traditionellen Fliesenarbeiten, der einem Nachkommen eines schiitischen Imams gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299292,
+                        33.461915
+                  ]
+            },
+            {
+                  "name": "Mosque along the way",
+                  "text": "Diese bescheidene islamische Moschee am Straßenrand bietet Reisenden und Einheimischen einen bequemen, friedlichen Raum für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        48.259907,
+                        33.440115
+                  ]
+            },
+            {
+                  "name": "Imam Hassan Askari Mosque",
+                  "text": "Die Imam-Hassan-Askari-Moschee ist ein dezidiertes islamisches Gotteshaus, das mit seiner klassischen Backsteinarchitektur den elften schiitischen Imam ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.339892,
+                        33.447331
+                  ]
+            },
+            {
+                  "name": "Imam Hussein Mosque (AS)",
+                  "text": "Diese große islamische Moschee hat für die schiitische Gemeinde eine tiefe religiöse Bedeutung und trägt den Namen des verehrten Imam Hussein.",
+                  "category": "landmark",
+                  "coords": [
+                        48.320959,
+                        33.440446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shapouri Artificial lake",
+                  "text": "A künstliche Shapouri-tó egy festői mesterséges vízfelület, amelyet a horramábádi ősi hídközpontot körülvevő parkosított terület szebbé tételére hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33773,
+                        33.466347
+                  ]
+            },
+            {
+                  "name": "Shapuri Bridge",
+                  "text": "A Törött hídként is ismert Shapuri-híd egy impozáns, Szászánida-kori kőépítmény, amely Horramábád folyóján ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33857,
+                        33.467864
+                  ]
+            },
+            {
+                  "name": "Brick minaret",
+                  "text": "Ez az ősi, hengeres tégla minaret egy elszigetelten álló történelmi torony, amely egykor a város közelében elhaladó karavánokat irányította.",
+                  "category": "landmark",
+                  "coords": [
+                        48.352825,
+                        33.467977
+                  ]
+            },
+            {
+                  "name": "Falak-ol-Aflak Castle",
+                  "text": "A város látképét uraló Falak-ol-Aflak egy masszív Szászánida-kori vár, amely Horramábád egyik kiemelkedő dombjának tetejére épült.",
+                  "category": "castle",
+                  "coords": [
+                        48.353272,
+                        33.4837
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Abdullah",
+                  "text": "Az Imamzadeh Abdullah egy tiszteletreméltó, hagyományos csempézéssel díszített iszlám szentély, amelyet egy síita imám leszármazottjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299292,
+                        33.461915
+                  ]
+            },
+            {
+                  "name": "Mosque along the way",
+                  "text": "Ez a szerény útszéli iszlám mecset kényelmes, békés helyet biztosít az utazóknak és a helyieknek a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.259907,
+                        33.440115
+                  ]
+            },
+            {
+                  "name": "Imam Hassan Askari Mosque",
+                  "text": "Az Imám Hasszán Aszkari-mecset egy elhivatott iszlám istentiszteleti hely, amely klasszikus téglaépítészetével a tizenegyedik síita imám előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        48.339892,
+                        33.447331
+                  ]
+            },
+            {
+                  "name": "Imam Hussein Mosque (AS)",
+                  "text": "Ez a nagyméretű iszlám mecset mély vallási jelentőséggel bír a síita közösség számára, és a nagy tiszteletnek örvendő Husszein imám nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        48.320959,
+                        33.440446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shapouri Artificial lake",
+                  "text": "Lacul artificial Shapouri este o întindere de apă pitorească amenajată de om, creată pentru a înfrumuseța parcul care înconjoară podul antic ruinat din Khorramabad.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33773,
+                        33.466347
+                  ]
+            },
+            {
+                  "name": "Shapuri Bridge",
+                  "text": "Cunoscut și sub numele de Podul Rupt, Podul Shapuri este o structură impunătoare din piatră datând din epoca sassanidă, care traversează râul din Khorramabad.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33857,
+                        33.467864
+                  ]
+            },
+            {
+                  "name": "Brick minaret",
+                  "text": "Acest vechi minaret cilindric din cărămidă se înalță ca un turn istoric izolat, care odinioară ghida caravanele ce treceau prin apropierea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.352825,
+                        33.467977
+                  ]
+            },
+            {
+                  "name": "Falak-ol-Aflak Castle",
+                  "text": "Dominând orizontul orașului, Falak-ol-Aflak este un castel masiv din epoca sassanidă, construit pe vârful unui deal proeminent din Khorramabad.",
+                  "category": "castle",
+                  "coords": [
+                        48.353272,
+                        33.4837
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Abdullah",
+                  "text": "Imamzadeh Abdullah este un altar islamic venerat, decorat cu mozaicuri tradiționale, dedicat unui descendent al unui imam șiit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299292,
+                        33.461915
+                  ]
+            },
+            {
+                  "name": "Mosque along the way",
+                  "text": "Această modestă moschee islamică de pe marginea drumului oferă călătorilor și localnicilor un spațiu convenabil și liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.259907,
+                        33.440115
+                  ]
+            },
+            {
+                  "name": "Imam Hassan Askari Mosque",
+                  "text": "Moscheea Imam Hassan Askari este un lăcaș de cult islamic dedicat onorării celui de-al unsprezecelea imam șiit, remarcându-se prin arhitectura sa clasică din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.339892,
+                        33.447331
+                  ]
+            },
+            {
+                  "name": "Imam Hussein Mosque (AS)",
+                  "text": "Această mare moschee islamică are o profundă semnificație religioasă pentru comunitatea șiită, purtând numele veneratului Imam Hussein.",
+                  "category": "landmark",
+                  "coords": [
+                        48.320959,
+                        33.440446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shapouri Artificial lake",
+                  "text": "Shapouri Artificial Lake is a scenic, man-made body of water built to enhance the parkland surrounding Khorramabad's ancient ruined bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33773,
+                        33.466347
+                  ]
+            },
+            {
+                  "name": "Shapuri Bridge",
+                  "text": "Also known as the Broken Bridge, the Shapuri Bridge is an imposing Sassanid-era stone structure crossing the river in Khorramabad.",
+                  "category": "landmark",
+                  "coords": [
+                        48.33857,
+                        33.467864
+                  ]
+            },
+            {
+                  "name": "Brick minaret",
+                  "text": "This ancient cylindrical brick minaret stands as an isolated historical tower that once guided caravans passing near the city.",
+                  "category": "landmark",
+                  "coords": [
+                        48.352825,
+                        33.467977
+                  ]
+            },
+            {
+                  "name": "Falak-ol-Aflak Castle",
+                  "text": "Dominating the city skyline, Falak-ol-Aflak is a massive Sassanid-era castle constructed atop a prominent hill in Khorramabad.",
+                  "category": "castle",
+                  "coords": [
+                        48.353272,
+                        33.4837
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Abdullah",
+                  "text": "Imamzadeh Abdullah is a revered Islamic shrine featuring traditional tile-work, dedicated to the descendant of a Shia Imam.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299292,
+                        33.461915
+                  ]
+            },
+            {
+                  "name": "Mosque along the way",
+                  "text": "This modest roadside Islamic mosque provides travelers and locals with a convenient, peaceful space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.259907,
+                        33.440115
+                  ]
+            },
+            {
+                  "name": "Imam Hassan Askari Mosque",
+                  "text": "The Imam Hassan Askari Mosque is a dedicated Islamic place of worship honoring the eleventh Shia Imam with its classic brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.339892,
+                        33.447331
+                  ]
+            },
+            {
+                  "name": "Imam Hussein Mosque (AS)",
+                  "text": "This large Islamic mosque holds deep religious significance for the Shia community, bearing the name of the revered Imam Hussein.",
+                  "category": "landmark",
+                  "coords": [
+                        48.320959,
+                        33.440446
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [48.3533, 33.4831],
@@ -1008,7 +5535,412 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["La structure d'origine date de l'époque de l'empire sassanide (IIIe-VIIe siècles)", "La forteresse couvre une superficie de près de 5 300 mètres carrés", "Sur les 12 tours d'origine, 8 sont encore bien conservées aujourd'hui", "Les murs du château atteignent une hauteur imposante de 22 mètres", "À l'intérieur se trouve un puits profond d'environ 40 mètres de profondeur", "Dans les années 1950, le château a été utilisé comme prison par la dynastie Pahlavi"],
     }, image: "/poi-images/iran-falak-ol-aflak-history-v2.webp"},
   {
-    id: "iran-taq-e-bostan-history-v2",
+    id: "iran-taq-e-bostan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tir Andazeh",
+                  "text": "Diese alten Steinruinen befinden sich im historischen Gebiet Taq-e Bostan in der Nähe von Kermanschar.",
+                  "category": "historical",
+                  "coords": [
+                        47.1904,
+                        34.4494
+                  ]
+            },
+            {
+                  "name": "Qiyah",
+                  "text": "Archäologische Überreste in der Gebirgslandschaft rund um die Ausgrabungsstätte Taq-e Bostan.",
+                  "category": "historical",
+                  "coords": [
+                        47.1697,
+                        34.4302
+                  ]
+            },
+            {
+                  "name": "Farrokhshad",
+                  "text": "Ein markanter Gipfel im Paraw-Gebirge, der eine großartige Kulisse für die Stadt Kermanschar bildet.",
+                  "category": "natural",
+                  "coords": [
+                        47.110581,
+                        34.414864
+                  ]
+            },
+            {
+                  "name": "Balin",
+                  "text": "Verwitterte Steinstrukturen, die das historische architektonische Erbe der Region Kermanschar repräsentieren.",
+                  "category": "historical",
+                  "coords": [
+                        47.1852,
+                        34.4347
+                  ]
+            },
+            {
+                  "name": "Taq-e Bostan",
+                  "text": "Eine Reihe prächtiger sassanidischer Felsreliefs, die in die Klippen gehauen wurden und aus dem 4. Jahrhundert n. Chr. stammen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.132059,
+                        34.387042
+                  ]
+            },
+            {
+                  "name": "Khosrow Parviz Hunting Ground Historical Site",
+                  "text": "Eine weitläufige archäologische Stätte mit einer sassanidischen Einfriedung, die einst für königliche Jagdexpeditionen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        47.129026,
+                        34.373265
+                  ]
+            },
+            {
+                  "name": "Karmandan Park",
+                  "text": "Eine grüne städtische Anlage in Kermanschar mit Spazierwegen und schattigen Bereichen für die Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        47.124678,
+                        34.369125
+                  ]
+            },
+            {
+                  "name": "Rezvan Park",
+                  "text": "Ein angelegter öffentlicher Park in Kermanschar, ideal für einen ruhigen Nachmittag zwischen Bäumen und Blumenbeeten.",
+                  "category": "park",
+                  "coords": [
+                        47.120802,
+                        34.366108
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "Ein beliebtes Erholungsgebiet in Kermanschar mit Spielplätzen und Rasenflächen für Familienausflüge.",
+                  "category": "park",
+                  "coords": [
+                        47.115792,
+                        34.361942
+                  ]
+            },
+            {
+                  "name": "Aghayani Mosque",
+                  "text": "Eine lokale Moschee für die Gemeinde in Kermanschar mit traditionellen persischen religiösen Gestaltungselementen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120245,
+                        34.371717
+                  ]
+            },
+            {
+                  "name": "Tuesday Market",
+                  "text": "Ein lebhafter wöchentlicher Marktplatz in Kermanschar, auf dem Einheimische frische Produkte und traditionelle Waren kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        47.141541,
+                        34.365899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tir Andazeh",
+                  "text": "Ezek az ősi kőromok a Kermansah melletti történelmi Tak-e Bosztán területén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        47.1904,
+                        34.4494
+                  ]
+            },
+            {
+                  "name": "Qiyah",
+                  "text": "Régészeti maradványok a Tak-e Bosztán lelőhelyet körülvevő hegyvidéki tájon.",
+                  "category": "historical",
+                  "coords": [
+                        47.1697,
+                        34.4302
+                  ]
+            },
+            {
+                  "name": "Farrokhshad",
+                  "text": "A Paraw-hegység kiemelkedő csúcsa, amely nagyszerű hátteret biztosít Kermansah városának.",
+                  "category": "natural",
+                  "coords": [
+                        47.110581,
+                        34.414864
+                  ]
+            },
+            {
+                  "name": "Balin",
+                  "text": "Megkopott kőszerkezetek, amelyek a Kermansah régió történelmi építészeti örökségét képviselik.",
+                  "category": "historical",
+                  "coords": [
+                        47.1852,
+                        34.4347
+                  ]
+            },
+            {
+                  "name": "Taq-e Bostan",
+                  "text": "Csodálatos szászánida szikladomborművek sorozata a sziklaoldalba vésve, amelyek a Krisztus utáni 4. századból származnak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.132059,
+                        34.387042
+                  ]
+            },
+            {
+                  "name": "Khosrow Parviz Hunting Ground Historical Site",
+                  "text": "Egy kiterjedt régészeti lelőhely, amely egy szászánida kori elkerített területet tartalmaz, amelyet egykor királyi vadászatokra használtak.",
+                  "category": "historical",
+                  "coords": [
+                        47.129026,
+                        34.373265
+                  ]
+            },
+            {
+                  "name": "Karmandan Park",
+                  "text": "Egy zöld városi terület Kermansahban, amely sétányokat és árnyékos helyeket kínál a helyi lakosoknak.",
+                  "category": "park",
+                  "coords": [
+                        47.124678,
+                        34.369125
+                  ]
+            },
+            {
+                  "name": "Rezvan Park",
+                  "text": "Egy parkosított közpark Kermansahban, amely ideális egy békés délutánhoz a fák és virágágyások között.",
+                  "category": "park",
+                  "coords": [
+                        47.120802,
+                        34.366108
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "Népszerű szabadidős terület Kermansahban, játszóterekkel és füves pázsittal a családi kirándulásokhoz.",
+                  "category": "park",
+                  "coords": [
+                        47.115792,
+                        34.361942
+                  ]
+            },
+            {
+                  "name": "Aghayani Mosque",
+                  "text": "Egy helyi mecset Kermansahban, amely hagyományos perzsa vallási díszítőelemeket vonultat fel.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120245,
+                        34.371717
+                  ]
+            },
+            {
+                  "name": "Tuesday Market",
+                  "text": "Élénk heti piactér Kermansahban, ahol a helyiek friss árukat és hagyományos termékeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        47.141541,
+                        34.365899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tir Andazeh",
+                  "text": "Aceste ruine antice de piatră sunt situate în zona istorică Taq-e Bostan, lângă Kermanshah.",
+                  "category": "historical",
+                  "coords": [
+                        47.1904,
+                        34.4494
+                  ]
+            },
+            {
+                  "name": "Qiyah",
+                  "text": "Rămășițe arheologice situate în peisajul montan care înconjoară situl Taq-e Bostan.",
+                  "category": "historical",
+                  "coords": [
+                        47.1697,
+                        34.4302
+                  ]
+            },
+            {
+                  "name": "Farrokhshad",
+                  "text": "Un vârf proeminent din munții Paraw, care oferă un decor grandios orașului Kermanshah.",
+                  "category": "natural",
+                  "coords": [
+                        47.110581,
+                        34.414864
+                  ]
+            },
+            {
+                  "name": "Balin",
+                  "text": "Structuri de piatră degradate de vreme, care reprezintă moștenirea arhitecturală istorică a regiunii Kermanshah.",
+                  "category": "historical",
+                  "coords": [
+                        47.1852,
+                        34.4347
+                  ]
+            },
+            {
+                  "name": "Taq-e Bostan",
+                  "text": "O serie de reliefuri magnifice în stâncă din perioada sasanidă, sculptate în peretele muntelui și datând din secolul al IV-lea d.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        47.132059,
+                        34.387042
+                  ]
+            },
+            {
+                  "name": "Khosrow Parviz Hunting Ground Historical Site",
+                  "text": "Un sit arheologic vast, cu o incintă din epoca sasanidă, folosită cândva pentru expediții regale de vânătoare.",
+                  "category": "historical",
+                  "coords": [
+                        47.129026,
+                        34.373265
+                  ]
+            },
+            {
+                  "name": "Karmandan Park",
+                  "text": "Un spațiu urban verde în Kermanshah, care oferă alei pentru plimbare și zone umbrite pentru rezidenții locali.",
+                  "category": "park",
+                  "coords": [
+                        47.124678,
+                        34.369125
+                  ]
+            },
+            {
+                  "name": "Rezvan Park",
+                  "text": "Un parc public amenajat în Kermanshah, ideal pentru o după-amiază liniștită printre copaci și straturi de flori.",
+                  "category": "park",
+                  "coords": [
+                        47.120802,
+                        34.366108
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "O zonă recreativă populară în Kermanshah, cu terenuri de joacă și peluze cu iarbă pentru ieșiri în familie.",
+                  "category": "park",
+                  "coords": [
+                        47.115792,
+                        34.361942
+                  ]
+            },
+            {
+                  "name": "Aghayani Mosque",
+                  "text": "O moschee locală care servește comunitatea din Kermanshah, având elemente de design religios persan tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120245,
+                        34.371717
+                  ]
+            },
+            {
+                  "name": "Tuesday Market",
+                  "text": "O piață săptămânală vibrantă în Kermanshah, unde localnicii se adună pentru a cumpăra produse proaspete și bunuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        47.141541,
+                        34.365899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tir Andazeh",
+                  "text": "These ancient stone ruins are located in the historic Taq-e Bostan area near Kermanshah.",
+                  "category": "historical",
+                  "coords": [
+                        47.1904,
+                        34.4494
+                  ]
+            },
+            {
+                  "name": "Qiyah",
+                  "text": "Archaeological remains situated in the mountainous landscape surrounding the Taq-e Bostan site.",
+                  "category": "historical",
+                  "coords": [
+                        47.1697,
+                        34.4302
+                  ]
+            },
+            {
+                  "name": "Farrokhshad",
+                  "text": "A prominent peak in the Paraw Mountains, offering a grand backdrop to the city of Kermanshah.",
+                  "category": "natural",
+                  "coords": [
+                        47.110581,
+                        34.414864
+                  ]
+            },
+            {
+                  "name": "Balin",
+                  "text": "Weathered stone structures representing the historical architectural heritage of the Kermanshah region.",
+                  "category": "historical",
+                  "coords": [
+                        47.1852,
+                        34.4347
+                  ]
+            },
+            {
+                  "name": "Taq-e Bostan",
+                  "text": "A series of magnificent Sassanid rock reliefs carved into the cliffside, dating back to the 4th century CE.",
+                  "category": "landmark",
+                  "coords": [
+                        47.132059,
+                        34.387042
+                  ]
+            },
+            {
+                  "name": "Khosrow Parviz Hunting Ground Historical Site",
+                  "text": "A vast archaeological site featuring a Sassanid-era enclosure once used for royal hunting expeditions.",
+                  "category": "historical",
+                  "coords": [
+                        47.129026,
+                        34.373265
+                  ]
+            },
+            {
+                  "name": "Karmandan Park",
+                  "text": "A green urban space in Kermanshah providing walking paths and shaded areas for local residents.",
+                  "category": "park",
+                  "coords": [
+                        47.124678,
+                        34.369125
+                  ]
+            },
+            {
+                  "name": "Rezvan Park",
+                  "text": "A landscaped public park in Kermanshah, ideal for a peaceful afternoon among trees and flowerbeds.",
+                  "category": "park",
+                  "coords": [
+                        47.120802,
+                        34.366108
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "A popular recreational area in Kermanshah featuring playgrounds and grassy lawns for family outings.",
+                  "category": "park",
+                  "coords": [
+                        47.115792,
+                        34.361942
+                  ]
+            },
+            {
+                  "name": "Aghayani Mosque",
+                  "text": "A local mosque serving the community in Kermanshah, featuring traditional Persian religious design elements.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120245,
+                        34.371717
+                  ]
+            },
+            {
+                  "name": "Tuesday Market",
+                  "text": "A vibrant weekly marketplace in Kermanshah where locals gather to buy fresh produce and traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        47.141541,
+                        34.365899
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [47.1306, 34.3875],
@@ -1075,7 +6007,1348 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Les reliefs ont été réalisés entre les années 383 et 628 apr. J.-C.", "Ils montrent notamment le couronnement des rois Ardashir II et Shapur III", "La grande grotte présente une hauteur impressionnante d'environ 9 mètres", "Les scènes de chasse sophistiquées sont gravées avec précision sur les deux côtés de la grande grotte", "Au XIXe siècle, le site a malheureusement été légèrement endommagé par des reliefs ultérieurs des Qadjars", "La source sacrée à la base était utilisée par les caravanes sur la Route de la Soie"],
     }, image: "/poi-images/iran-taq-e-bostan-history-v2.webp"},
   {
-    id: "iran-jameh-mosque-isfahan-history-v2",
+    id: "iran-jameh-mosque-isfahan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jame-Moschee",
+                  "text": "Ein UNESCO-Weltkulturerbe, das über zwölf Jahrhunderte islamischer Architekturentwicklung von der Seldschuken- bis zur Safawidenzeit zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.685184,
+                        32.66971
+                  ]
+            },
+            {
+                  "name": "Isiah Mosque & Imamzadeh Ismail",
+                  "text": "Ein religiöser Komplex, der ein Minarett aus der Seldschukenzeit mit einem wunderschön gefliesten Schrein und einer Moschee aus der Safawidenzeit verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        51.685671,
+                        32.663413
+                  ]
+            },
+            {
+                  "name": "masjed motahari",
+                  "text": "Ein als Kulturraum genutztes Moscheegebäude, in dem lokale religiöse Artefakte und historische islamische Kalligrafie ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        51.72012,
+                        32.707762
+                  ]
+            },
+            {
+                  "name": "Rojan Silver Gallery",
+                  "text": "Eine Kunstgalerie, die auf filigrane isfahanische Silberarbeiten und traditionelle persische Metallgravurtechniken spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        51.67263,
+                        32.685744
+                  ]
+            },
+            {
+                  "name": "Javaheri Historical House",
+                  "text": "Ein restauriertes Haus aus der Qadscharen-Zeit mit einem zentralen Innenhof, das heute als Werkstatt und Galerie für lokale Kunsthandwerker dient.",
+                  "category": "historical",
+                  "coords": [
+                        51.682224,
+                        32.669583
+                  ]
+            },
+            {
+                  "name": "Dardasht Bathhouse",
+                  "text": "Ein historisches öffentliches Badehaus aus der Safawidenzeit, bekannt für seine traditionellen Gewölbedecken und das türkis geflieste Interieur.",
+                  "category": "historical",
+                  "coords": [
+                        51.680283,
+                        32.671654
+                  ]
+            },
+            {
+                  "name": "Kamal monument",
+                  "text": "Ein Denkmal für den Dichter Kamal ud-Din Isfahani aus dem 13. Jahrhundert, das sich im historischen Viertel Jubareh befindet.",
+                  "category": "historical",
+                  "coords": [
+                        51.690898,
+                        32.670387
+                  ]
+            },
+            {
+                  "name": "Chehel Dokhtaran Minaret",
+                  "text": "Ein freistehendes Backsteinminarett aus der Seldschukenzeit von 1107, verziert mit komplexen geometrischen Mustern und kufischen Inschriften.",
+                  "category": "historical",
+                  "coords": [
+                        51.694441,
+                        32.673439
+                  ]
+            },
+            {
+                  "name": "Sarban Minaret",
+                  "text": "Eines der höchsten Minarette Isfahans aus der Seldschukenzeit mit aufwendiger Ziegelkunst und zwei mit blauen Fliesen verzierten Balkonen.",
+                  "category": "historical",
+                  "coords": [
+                        51.69344,
+                        32.671115
+                  ]
+            },
+            {
+                  "name": "Darozziafeh Minarets",
+                  "text": "Zwei erhaltene Minarette aus der Ilchaniden-Zeit, die einst den Eingang zu einer prachtvollen Karawanserei oder einem Palast markierten.",
+                  "category": "historical",
+                  "coords": [
+                        51.693167,
+                        32.668928
+                  ]
+            },
+            {
+                  "name": "Safa Bazaar",
+                  "text": "Ein traditioneller gewölbter Marktplatz, auf dem Einheimische Gewürze, Textilien und Haushaltswaren in historischer Atmosphäre handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675664,
+                        32.70163
+                  ]
+            },
+            {
+                  "name": "Haj Solyman marketplace",
+                  "text": "Ein Teil des historischen Basarkomplexes, bekannt für seine traditionelle Backsteinarchitektur und spezialisierte Kunsthandwerkstätten.",
+                  "category": "cultural",
+                  "coords": [
+                        51.689902,
+                        32.669079
+                  ]
+            },
+            {
+                  "name": "Atiq Square (Imam Ali Square)",
+                  "text": "Isfahans ursprünglicher zentraler Platz vor der Safawiden-Ära, umgeben von historischen Moscheen und verbunden mit dem Großen Basar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684,
+                        32.666944
+                  ]
+            },
+            {
+                  "name": "Avicena school",
+                  "text": "Ein mittelalterliches Schulgebäude, in dem der legendäre Arzt und Philosoph Avicenna seine Schüler unterrichtet haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679133,
+                        32.674174
+                  ]
+            },
+            {
+                  "name": "Mola Ali Zourkhaneh",
+                  "text": "Ein traditionelles persisches Fitnessstudio, in dem Praktizierende „Varzesh-e Pahlavani“, ein antikes Ritual aus Kraft und Rhythmus, ausüben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689733,
+                        32.669988
+                  ]
+            },
+            {
+                  "name": "Tomb of Khajeh Nazam-ol-Mulk",
+                  "text": "Das bescheidene Backstein-Mausoleum des berühmten seldschukischen Großwesirs und Gelehrten Nizam al-Mulk in einem ruhigen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691306,
+                        32.665093
+                  ]
+            },
+            {
+                  "name": "Alzahera",
+                  "text": "Eine lokale Nachbarschaftsmoschee und ein Gemeindezentrum, das für tägliche Gebete und religiöse Zusammenkünfte genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        51.69231,
+                        32.661333
+                  ]
+            },
+            {
+                  "name": "Ayatollah Mohaqeq",
+                  "text": "Eine nach einem prominenten Gelehrten benannte Religionsschule und Gebetshalle, die der örtlichen spirituellen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674207,
+                        32.673103
+                  ]
+            },
+            {
+                  "name": "Sahebazaman",
+                  "text": "Eine dem zwölften Imam gewidmete Moschee mit bescheidener Fassade und einem ruhigen Raum für Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        51.73241,
+                        32.681944
+                  ]
+            },
+            {
+                  "name": "Sayed Mosque Alshhda",
+                  "text": "Eine moderne Moschee, die für ihre Gemeindearbeit und die Grünanlagen für die örtlichen Gläubigen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.72639,
+                        32.667541
+                  ]
+            },
+            {
+                  "name": "Abolfazl Mosque",
+                  "text": "Ein lokales Gotteshaus, das Hazrat Abbas gewidmet ist und oft während religiöser Trauerzeremonien besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        51.710089,
+                        32.681917
+                  ]
+            },
+            {
+                  "name": "Ali ibn Abi Talib Mosque",
+                  "text": "Eine nach dem ersten Imam benannte Nachbarschaftsmoschee, die als Zentrum für Abendgebet und soziale Unterstützung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.706446,
+                        32.681716
+                  ]
+            },
+            {
+                  "name": "Zeinabie Holy Shrine",
+                  "text": "Eine bedeutende Pilgerstätte im Norden Isfahans mit einem großen Innenhof und einer wunderschön verzierten goldenen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.727262,
+                        32.710736
+                  ]
+            },
+            {
+                  "name": "masjed ghaem",
+                  "text": "Eine Moschee für das örtliche Wohnviertel mit traditionellem Mauerwerk und einem einzelnen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        51.714803,
+                        32.704168
+                  ]
+            },
+            {
+                  "name": "Martyr Motahhari Mosque",
+                  "text": "Eine zeitgenössische Moschee, die für religiöse Bildung und Gemeindetreffen im historischen Herzen von Isfahan genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708207,
+                        32.692177
+                  ]
+            },
+            {
+                  "name": "Ali ibn Sahl monastery",
+                  "text": "Ein Sufi-Kloster und Grabmal des Mystikers Ali ibn Sahl aus dem 9. Jahrhundert, bekannt für seinen ruhigen Garten.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692652,
+                        32.680218
+                  ]
+            },
+            {
+                  "name": "Bagh-e Ghoushkhaneh Minaret",
+                  "text": "Ein einsames Minarett aus dem 14. Jahrhundert in einem Park, das einst Teil einer Moschee für die Ilchaniden-Herrscher war.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691899,
+                        32.681463
+                  ]
+            },
+            {
+                  "name": "Feyze",
+                  "text": "Ein traditioneller theologischer Schul- und Moscheekomplex, in dem Studenten islamische Rechtswissenschaft und Philosophie studieren.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687302,
+                        32.67847
+                  ]
+            },
+            {
+                  "name": "Chahardeh Masoum",
+                  "text": "Ein religiöses Zentrum, das den Vierzehn Unfehlbaren gewidmet ist und als Ort für gemeinschaftliches Gebet und Wohltätigkeit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684352,
+                        32.676953
+                  ]
+            },
+            {
+                  "name": "Mirza Ali Aqa Shirazi",
+                  "text": "Grabstätte eines Gelehrten nahe der Jameh-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682453,
+                        32.67681
+                  ]
+            },
+            {
+                  "name": "Masjedolmahdi",
+                  "text": "Moschee mit traditionellem Ziegelwerk im historischen Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682482,
+                        32.684133
+                  ]
+            },
+            {
+                  "name": "Ali Mosque and Minaret",
+                  "text": "Bekannt für sein 48 Meter hohes Backsteinminarett aus der Seldschukenzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68296,
+                        32.665314
+                  ]
+            },
+            {
+                  "name": "Golbahar Synagogue",
+                  "text": "Jüdisches Gebetshaus im historischen Jouybareh-Viertel von Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.681555,
+                        32.665465
+                  ]
+            },
+            {
+                  "name": "Sartaveh",
+                  "text": "Eine kleine Stadtviertelmoschee im Herzen der historischen Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691194,
+                        32.671873
+                  ]
+            },
+            {
+                  "name": "Amu Sha'iya Synagogue",
+                  "text": "Gilt als die älteste Synagoge Isfahans und liegt im traditionellen jüdischen Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688202,
+                        32.668012
+                  ]
+            },
+            {
+                  "name": "Haji Eliyahu Synagogue",
+                  "text": "Traditionelle Synagoge mit klassischer Architektur im Jouybareh-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688677,
+                        32.669389
+                  ]
+            },
+            {
+                  "name": "Qader",
+                  "text": "Kleine Gemeindemoschee mit einem schlichten Innenhof in der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691101,
+                        32.669107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Az UNESCO világörökség része, amely az iszlám építészet több mint tizenkét évszázados fejlődését mutatja be a szeldzsuk kortól a szafavida korszakig.",
+                  "category": "landmark",
+                  "coords": [
+                        51.685184,
+                        32.66971
+                  ]
+            },
+            {
+                  "name": "Isiah Mosque & Imamzadeh Ismail",
+                  "text": "Egy vallási komplexum, amely egy szeldzsuk kori minaretet ötvöz egy gyönyörűen csempézett szafavida szentéllyel és mecsettel.",
+                  "category": "religious",
+                  "coords": [
+                        51.685671,
+                        32.663413
+                  ]
+            },
+            {
+                  "name": "masjed motahari",
+                  "text": "Kulturális térré alakított mecsetépület, ahol helyi vallási tárgyakat és történelmi iszlám kalligráfiát mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        51.72012,
+                        32.707762
+                  ]
+            },
+            {
+                  "name": "Rojan Silver Gallery",
+                  "text": "Egy művészeti galéria, amely bonyolult iszfaháni ezüstmunkákra és hagyományos perzsa fémvésési technikákra specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        51.67263,
+                        32.685744
+                  ]
+            },
+            {
+                  "name": "Javaheri Historical House",
+                  "text": "Egy felújított kádzsár-kori ház központi udvarral, amely ma a helyi kézművesek műhelyeként és galériájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        51.682224,
+                        32.669583
+                  ]
+            },
+            {
+                  "name": "Dardasht Bathhouse",
+                  "text": "Egy történelmi szafavida kori közfürdő, amely hagyományos boltozatos mennyezetéről és türkizkék csempézett belsejéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        51.680283,
+                        32.671654
+                  ]
+            },
+            {
+                  "name": "Kamal monument",
+                  "text": "A 13. századi költőnek, Kamal ud-Din Isfahaninak szentelt emlékmű a történelmi Jubareh negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        51.690898,
+                        32.670387
+                  ]
+            },
+            {
+                  "name": "Chehel Dokhtaran Minaret",
+                  "text": "Egy 1107-ben épült, különálló szeldzsuk kori tégla minaret, amelyet bonyolult geometrikus minták és kúfi feliratok díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        51.694441,
+                        32.673439
+                  ]
+            },
+            {
+                  "name": "Sarban Minaret",
+                  "text": "Iszfahán egyik legmagasabb szeldzsuk kori minaretje, amely kidolgozott téglaépítéssel és két kék csempével díszített erkéllyel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        51.69344,
+                        32.671115
+                  ]
+            },
+            {
+                  "name": "Darozziafeh Minarets",
+                  "text": "Két megmaradt ilhanida-kori minaret, amelyek egykor egy nagyszabású karavánszeráj vagy palota bejáratát jelezték.",
+                  "category": "historical",
+                  "coords": [
+                        51.693167,
+                        32.668928
+                  ]
+            },
+            {
+                  "name": "Safa Bazaar",
+                  "text": "Hagyományos boltozatos piactér, ahol a helyiek fűszerekkel, textilekkel és háztartási cikkekkel kereskednek történelmi környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675664,
+                        32.70163
+                  ]
+            },
+            {
+                  "name": "Haj Solyman marketplace",
+                  "text": "A történelmi bazárkomplexum egy része, amely hagyományos téglaépítészetéről és speciális kézműves műhelyeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.689902,
+                        32.669079
+                  ]
+            },
+            {
+                  "name": "Atiq Square (Imam Ali Square)",
+                  "text": "Iszfahán eredeti központi tere a szafavida korszak előtt, amelyet történelmi mecsetek vesznek körül, és a Nagy Bazárhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684,
+                        32.666944
+                  ]
+            },
+            {
+                  "name": "Avicena school",
+                  "text": "Egy középkori iskolaépület, ahol a legenda szerint a legendás orvos és filozófus, Avicenna tanította tanítványait.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679133,
+                        32.674174
+                  ]
+            },
+            {
+                  "name": "Mola Ali Zourkhaneh",
+                  "text": "Egy hagyományos perzsa edzőterem, ahol a „Varzesh-e Pahlavani”-t, az erő és a ritmus ősi rituáléját gyakorolják.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689733,
+                        32.669988
+                  ]
+            },
+            {
+                  "name": "Tomb of Khajeh Nazam-ol-Mulk",
+                  "text": "A híres szeldzsuk nagyvezír és tudós, Nizam al-Mulk szerény tégla mauzóleuma egy csendes udvarban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691306,
+                        32.665093
+                  ]
+            },
+            {
+                  "name": "Alzahera",
+                  "text": "Egy helyi szomszédsági mecset és közösségi központ, amelyet napi imákra és vallási összejövetelekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.69231,
+                        32.661333
+                  ]
+            },
+            {
+                  "name": "Ayatollah Mohaqeq",
+                  "text": "Egy neves tudósról elnevezett vallási iskola és imaterem, amely a helyi hitéletet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674207,
+                        32.673103
+                  ]
+            },
+            {
+                  "name": "Sahebazaman",
+                  "text": "A tizenkettedik imámnak szentelt mecset, szerény homlokzattal és nyugodt térrel az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        51.73241,
+                        32.681944
+                  ]
+            },
+            {
+                  "name": "Sayed Mosque Alshhda",
+                  "text": "Modern mecset, amely közösségi tevékenységéről és a helyi hívők számára biztosított zöldterületéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.72639,
+                        32.667541
+                  ]
+            },
+            {
+                  "name": "Abolfazl Mosque",
+                  "text": "Hazrat Abbas-nak szentelt helyi istentiszteleti hely, amelyet gyakran látogatnak a vallási gyászszertartások idején.",
+                  "category": "landmark",
+                  "coords": [
+                        51.710089,
+                        32.681917
+                  ]
+            },
+            {
+                  "name": "Ali ibn Abi Talib Mosque",
+                  "text": "Az első imámról elnevezett szomszédsági mecset, amely az esti imák és a szociális támogatás központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        51.706446,
+                        32.681716
+                  ]
+            },
+            {
+                  "name": "Zeinabie Holy Shrine",
+                  "text": "Jelentős zarándokhely Iszfahán északi részén, nagy udvarral és gyönyörűen díszített aranykupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        51.727262,
+                        32.710736
+                  ]
+            },
+            {
+                  "name": "masjed ghaem",
+                  "text": "A helyi lakónegyedet kiszolgáló mecset hagyományos téglafalazattal és egyetlen minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.714803,
+                        32.704168
+                  ]
+            },
+            {
+                  "name": "Martyr Motahhari Mosque",
+                  "text": "Kortárs mecset, amelyet vallási oktatásra és közösségi összejövetelekre használnak Iszfahán történelmi szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708207,
+                        32.692177
+                  ]
+            },
+            {
+                  "name": "Ali ibn Sahl monastery",
+                  "text": "A 9. századi misztikusnak, Ali ibn Szahl-nak szentelt szúfi kolostor és sírhely, amely nyugodt kertjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692652,
+                        32.680218
+                  ]
+            },
+            {
+                  "name": "Bagh-e Ghoushkhaneh Minaret",
+                  "text": "Egy parkban álló magányos, 14. századi minaret, amely egykor az ilhanida uralkodók számára épült mecset része volt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691899,
+                        32.681463
+                  ]
+            },
+            {
+                  "name": "Feyze",
+                  "text": "Hagyományos teológiai iskola és mecsetkomplexum, ahol a hallgatók iszlám jogtudományt és filozófiát tanulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687302,
+                        32.67847
+                  ]
+            },
+            {
+                  "name": "Chahardeh Masoum",
+                  "text": "A Tizennégy Tévedhetetlennek szentelt vallási központ, amely a közös imádság és a jótékonykodás helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684352,
+                        32.676953
+                  ]
+            },
+            {
+                  "name": "Mirza Ali Aqa Shirazi",
+                  "text": "Egy neves tudós síremléke a történelmi Péntek-mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682453,
+                        32.67681
+                  ]
+            },
+            {
+                  "name": "Masjedolmahdi",
+                  "text": "Helyi mecset hagyományos iráni téglafallal a történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682482,
+                        32.684133
+                  ]
+            },
+            {
+                  "name": "Ali Mosque and Minaret",
+                  "text": "Ez a mecset a 48 méter magas, szeldzsuk kori tégla minaretjéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68296,
+                        32.665314
+                  ]
+            },
+            {
+                  "name": "Golbahar Synagogue",
+                  "text": "Zsidó imaház Iszfahán történelmi Jouybareh negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.681555,
+                        32.665465
+                  ]
+            },
+            {
+                  "name": "Sartaveh",
+                  "text": "Helyi környékbeli mecset a történelmi városközpont szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691194,
+                        32.671873
+                  ]
+            },
+            {
+                  "name": "Amu Sha'iya Synagogue",
+                  "text": "Iszfahán legrégebbi zsinagógájaként tartják számon a hagyományos zsidó negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688202,
+                        32.668012
+                  ]
+            },
+            {
+                  "name": "Hadzsi Elijahu zsinagóga",
+                  "text": "Klasszikus építészetű, hagyományos zsinagóga a Jouybareh negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688677,
+                        32.669389
+                  ]
+            },
+            {
+                  "name": "Qader",
+                  "text": "Kis közösségi mecset egyszerű udvarral az óvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691101,
+                        32.669107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Un sit al patrimoniului mondial UNESCO care prezintă peste douăsprezece secole de evoluție arhitecturală islamică, din epoca selgiucidă până în cea safavidă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.685184,
+                        32.66971
+                  ]
+            },
+            {
+                  "name": "Isiah Mosque & Imamzadeh Ismail",
+                  "text": "Un complex religios care combină un minaret din epoca selgiucidă cu un sanctuar și o moșchee safavidă frumos decorate cu plăci ceramice.",
+                  "category": "religious",
+                  "coords": [
+                        51.685671,
+                        32.663413
+                  ]
+            },
+            {
+                  "name": "masjed motahari",
+                  "text": "O clădire de moșchee transformată în spațiu cultural, care expune artefacte religioase locale și caligrafie islamică istorică.",
+                  "category": "museum",
+                  "coords": [
+                        51.72012,
+                        32.707762
+                  ]
+            },
+            {
+                  "name": "Rojan Silver Gallery",
+                  "text": "O galerie de artă specializată în lucrări complicate din argint din Isfahan și tehnici tradiționale persane de gravură în metal.",
+                  "category": "museum",
+                  "coords": [
+                        51.67263,
+                        32.685744
+                  ]
+            },
+            {
+                  "name": "Javaheri Historical House",
+                  "text": "O casă restaurată din perioada Qajar, cu o curte centrală care servește acum ca atelier și galerie pentru artizanii locali.",
+                  "category": "historical",
+                  "coords": [
+                        51.682224,
+                        32.669583
+                  ]
+            },
+            {
+                  "name": "Dardasht Bathhouse",
+                  "text": "O baie publică istorică din epoca safavidă, cunoscută pentru tavanele sale boltite tradiționale și interiorul decorat cu plăci turcoaz.",
+                  "category": "historical",
+                  "coords": [
+                        51.680283,
+                        32.671654
+                  ]
+            },
+            {
+                  "name": "Kamal monument",
+                  "text": "Un monument dedicat poetului din secolul al XIII-lea Kamal ud-Din Isfahani, situat în cartierul istoric Jubareh.",
+                  "category": "historical",
+                  "coords": [
+                        51.690898,
+                        32.670387
+                  ]
+            },
+            {
+                  "name": "Chehel Dokhtaran Minaret",
+                  "text": "Un minaret de cărămidă de sine stătător din epoca selgiucidă construit în 1107, decorat cu modele geometrice complexe și inscripții kufice.",
+                  "category": "historical",
+                  "coords": [
+                        51.694441,
+                        32.673439
+                  ]
+            },
+            {
+                  "name": "Sarban Minaret",
+                  "text": "Unul dintre cele mai înalte minarete din epoca selgiucidă din Isfahan, cu o zidărie elaborată și două balcoane decorate cu plăci albastre.",
+                  "category": "historical",
+                  "coords": [
+                        51.69344,
+                        32.671115
+                  ]
+            },
+            {
+                  "name": "Darozziafeh Minarets",
+                  "text": "Două minarete rămase din perioada Ilhanidă care marcau odată intrarea într-un mare caravanserai sau palat.",
+                  "category": "historical",
+                  "coords": [
+                        51.693167,
+                        32.668928
+                  ]
+            },
+            {
+                  "name": "Safa Bazaar",
+                  "text": "O piață tradițională boltita unde localnicii comercializează condimente, textile și articole de uz casnic într-o atmosferă istorică.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675664,
+                        32.70163
+                  ]
+            },
+            {
+                  "name": "Haj Solyman marketplace",
+                  "text": "O secțiune a complexului istoric de bazar cunoscută pentru arhitectura sa tradițională din cărămidă și atelierele de artizanat specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        51.689902,
+                        32.669079
+                  ]
+            },
+            {
+                  "name": "Atiq Square (Imam Ali Square)",
+                  "text": "Piața centrală originală a Isfahanului înainte de epoca safavidă, înconjurată de moșchei istorice și conectată la Marele Bazar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684,
+                        32.666944
+                  ]
+            },
+            {
+                  "name": "Avicena school",
+                  "text": "O clădire de școală medievală unde se spune că legendarul medic și filozof Avicenna și-a predat studenții.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679133,
+                        32.674174
+                  ]
+            },
+            {
+                  "name": "Mola Ali Zourkhaneh",
+                  "text": "O sală de sport tradițională persană unde practicanții performează „Varzesh-e Pahlavani”, un ritual antic de forță și ritm.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689733,
+                        32.669988
+                  ]
+            },
+            {
+                  "name": "Tomb of Khajeh Nazam-ol-Mulk",
+                  "text": "Mausoleul modest din cărămidă al celebrului mare vizir și învățat selgiucid Nizam al-Mulk, situat într-o curte liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691306,
+                        32.665093
+                  ]
+            },
+            {
+                  "name": "Alzahera",
+                  "text": "O moșchee locală de cartier și un centru comunitar utilizat pentru rugăciunile zilnice și adunările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        51.69231,
+                        32.661333
+                  ]
+            },
+            {
+                  "name": "Ayatollah Mohaqeq",
+                  "text": "O școală religioasă și o sală de rugăciune numită după un savant proeminent, care deservește comunitatea spirituală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674207,
+                        32.673103
+                  ]
+            },
+            {
+                  "name": "Sahebazaman",
+                  "text": "O moșchee dedicată celui de-al doisprezecelea imam, cu o fațadă modestă și un spațiu liniștit pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        51.73241,
+                        32.681944
+                  ]
+            },
+            {
+                  "name": "Sayed Mosque Alshhda",
+                  "text": "O moșchee modernă cunoscută pentru activitățile sale comunitare și spațiul verde oferit credincioșilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        51.72639,
+                        32.667541
+                  ]
+            },
+            {
+                  "name": "Abolfazl Mosque",
+                  "text": "Un lăcaș de cult local dedicat lui Hazrat Abbas, frecventat adesea în timpul ceremoniilor religioase de doliu.",
+                  "category": "landmark",
+                  "coords": [
+                        51.710089,
+                        32.681917
+                  ]
+            },
+            {
+                  "name": "Ali ibn Abi Talib Mosque",
+                  "text": "O moșchee de cartier numită după primul imam, servind ca centru pentru rugăciunile de seară și sprijin social.",
+                  "category": "landmark",
+                  "coords": [
+                        51.706446,
+                        32.681716
+                  ]
+            },
+            {
+                  "name": "Zeinabie Holy Shrine",
+                  "text": "Un loc de pelerinaj semnificativ în nordul Isfahanului, cu o curte mare și o cupolă aurie frumos decorată.",
+                  "category": "landmark",
+                  "coords": [
+                        51.727262,
+                        32.710736
+                  ]
+            },
+            {
+                  "name": "masjed ghaem",
+                  "text": "O moșchee care deservește cartierul rezidențial local, cu zidărie tradițională și un singur minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        51.714803,
+                        32.704168
+                  ]
+            },
+            {
+                  "name": "Martyr Motahhari Mosque",
+                  "text": "O moșchee contemporană utilizată pentru educație religioasă și adunări comunitare în inima istorică a Isfahanului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708207,
+                        32.692177
+                  ]
+            },
+            {
+                  "name": "Ali ibn Sahl monastery",
+                  "text": "O mănăstire sufită și un mormânt dedicat misticului din secolul al IX-lea Ali ibn Sahl, cunoscută pentru grădina sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692652,
+                        32.680218
+                  ]
+            },
+            {
+                  "name": "Bagh-e Ghoushkhaneh Minaret",
+                  "text": "Un minaret solitar din secolul al XIV-lea situat într-un parc, care a făcut parte odată dintr-o moșchee construită pentru conducătorii ilhanizi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691899,
+                        32.681463
+                  ]
+            },
+            {
+                  "name": "Feyze",
+                  "text": "Un complex tradițional de școală teologică și moșchee unde studenții studiază jurisprudența și filozofia islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687302,
+                        32.67847
+                  ]
+            },
+            {
+                  "name": "Chahardeh Masoum",
+                  "text": "Un centru religios dedicat celor Paisprezece Infaibili, servind ca loc pentru rugăciune comună și caritate.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684352,
+                        32.676953
+                  ]
+            },
+            {
+                  "name": "Mirza Ali Aqa Shirazi",
+                  "text": "Mormântul unui învățat proeminent situat lângă istorica Moschee Jameh.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682453,
+                        32.67681
+                  ]
+            },
+            {
+                  "name": "Masjedolmahdi",
+                  "text": "Moschee locală cu zidărie tradițională iraniană în cartierul istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682482,
+                        32.684133
+                  ]
+            },
+            {
+                  "name": "Ali Mosque and Minaret",
+                  "text": "Această moschee este celebră pentru minaretul său din cărămidă selgiucidă de 48 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68296,
+                        32.665314
+                  ]
+            },
+            {
+                  "name": "Golbahar Synagogue",
+                  "text": "Lăcaș de cult evreiesc situat în cartierul istoric Jouybareh din Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.681555,
+                        32.665465
+                  ]
+            },
+            {
+                  "name": "Sartaveh",
+                  "text": "O mică moschee de cartier situată în inima centrului istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691194,
+                        32.671873
+                  ]
+            },
+            {
+                  "name": "Amu Sha'iya Synagogue",
+                  "text": "Considerată cea mai veche sinagogă din Isfahan, aflată în cartierul evreiesc.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688202,
+                        32.668012
+                  ]
+            },
+            {
+                  "name": "Haji Eliyahu Synagogue",
+                  "text": "Sinagogă tradițională cu arhitectură clasică în cartierul Jouybareh.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688677,
+                        32.669389
+                  ]
+            },
+            {
+                  "name": "Qader",
+                  "text": "Mică moschee comunitară cu o curte simplă în centrul vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691101,
+                        32.669107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jameh Mosque",
+                  "text": "A UNESCO World Heritage site showcasing over twelve centuries of Islamic architectural evolution, from the Seljuk to the Safavid eras.",
+                  "category": "landmark",
+                  "coords": [
+                        51.685184,
+                        32.66971
+                  ]
+            },
+            {
+                  "name": "Isiah Mosque & Imamzadeh Ismail",
+                  "text": "A religious complex combining a Seljuk-era minaret with a beautifully tiled Safavid shrine and mosque.",
+                  "category": "religious",
+                  "coords": [
+                        51.685671,
+                        32.663413
+                  ]
+            },
+            {
+                  "name": "masjed motahari",
+                  "text": "A mosque building repurposed as a cultural space, showcasing local religious artifacts and historical Islamic calligraphy.",
+                  "category": "museum",
+                  "coords": [
+                        51.72012,
+                        32.707762
+                  ]
+            },
+            {
+                  "name": "Rojan Silver Gallery",
+                  "text": "An art gallery specializing in intricate Isfahani silverwork and traditional Persian metal engraving techniques.",
+                  "category": "museum",
+                  "coords": [
+                        51.67263,
+                        32.685744
+                  ]
+            },
+            {
+                  "name": "Javaheri Historical House",
+                  "text": "A restored Qajar-period house featuring a central courtyard that now serves as a workshop and gallery for local artisans.",
+                  "category": "historical",
+                  "coords": [
+                        51.682224,
+                        32.669583
+                  ]
+            },
+            {
+                  "name": "Dardasht Bathhouse",
+                  "text": "A historic Safavid-era public bathhouse known for its traditional vaulted ceilings and turquoise-tiled interior.",
+                  "category": "historical",
+                  "coords": [
+                        51.680283,
+                        32.671654
+                  ]
+            },
+            {
+                  "name": "Kamal monument",
+                  "text": "A memorial dedicated to the 13th-century poet Kamal ud-Din Isfahani, situated in the historic Jubareh district.",
+                  "category": "historical",
+                  "coords": [
+                        51.690898,
+                        32.670387
+                  ]
+            },
+            {
+                  "name": "Chehel Dokhtaran Minaret",
+                  "text": "A freestanding Seljuk-era brick minaret built in 1107, decorated with intricate geometric patterns and Kufic inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        51.694441,
+                        32.673439
+                  ]
+            },
+            {
+                  "name": "Sarban Minaret",
+                  "text": "One of Isfahan's tallest Seljuk-era minarets, featuring elaborate brickwork and two balconies decorated with blue tiles.",
+                  "category": "historical",
+                  "coords": [
+                        51.69344,
+                        32.671115
+                  ]
+            },
+            {
+                  "name": "Darozziafeh Minarets",
+                  "text": "Two remaining Ilkhanid-period minarets that once marked the entrance to a grand caravansary or palace.",
+                  "category": "historical",
+                  "coords": [
+                        51.693167,
+                        32.668928
+                  ]
+            },
+            {
+                  "name": "Safa Bazaar",
+                  "text": "A traditional vaulted marketplace where locals trade spices, textiles, and household goods in a historic atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675664,
+                        32.70163
+                  ]
+            },
+            {
+                  "name": "Haj Solyman marketplace",
+                  "text": "A section of the historic bazaar complex known for its traditional brick architecture and specialized handicraft workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        51.689902,
+                        32.669079
+                  ]
+            },
+            {
+                  "name": "Atiq Square (Imam Ali Square)",
+                  "text": "Isfahan's original central square before the Safavid era, surrounded by historic mosques and connected to the Grand Bazaar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684,
+                        32.666944
+                  ]
+            },
+            {
+                  "name": "Avicena school",
+                  "text": "A medieval school building where the legendary physician and philosopher Avicenna is said to have taught his students.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679133,
+                        32.674174
+                  ]
+            },
+            {
+                  "name": "Mola Ali Zourkhaneh",
+                  "text": "A traditional Persian gymnasium where practitioners perform \"Varzesh-e Pahlavani,\" an ancient ritual of strength and rhythm.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689733,
+                        32.669988
+                  ]
+            },
+            {
+                  "name": "Tomb of Khajeh Nazam-ol-Mulk",
+                  "text": "The modest brick mausoleum of the famous Seljuk grand vizier and scholar Nizam al-Mulk, located in a quiet courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691306,
+                        32.665093
+                  ]
+            },
+            {
+                  "name": "Alzahera",
+                  "text": "A local neighborhood mosque and community center used for daily prayers and religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        51.69231,
+                        32.661333
+                  ]
+            },
+            {
+                  "name": "Ayatollah Mohaqeq",
+                  "text": "A religious school and prayer hall named after a prominent scholar, serving the local spiritual community.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674207,
+                        32.673103
+                  ]
+            },
+            {
+                  "name": "Sahebazaman",
+                  "text": "A mosque dedicated to the Twelfth Imam, featuring a modest facade and a tranquil space for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        51.73241,
+                        32.681944
+                  ]
+            },
+            {
+                  "name": "Sayed Mosque Alshhda",
+                  "text": "A modern mosque known for its community outreach and the green space provided for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.72639,
+                        32.667541
+                  ]
+            },
+            {
+                  "name": "Abolfazl Mosque",
+                  "text": "A local place of worship dedicated to Hazrat Abbas, often frequented during religious mourning ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        51.710089,
+                        32.681917
+                  ]
+            },
+            {
+                  "name": "Ali ibn Abi Talib Mosque",
+                  "text": "A neighborhood mosque named after the first Imam, serving as a hub for evening prayers and social support.",
+                  "category": "landmark",
+                  "coords": [
+                        51.706446,
+                        32.681716
+                  ]
+            },
+            {
+                  "name": "Zeinabie Holy Shrine",
+                  "text": "A significant pilgrimage site in northern Isfahan featuring a large courtyard and a beautifully decorated golden dome.",
+                  "category": "landmark",
+                  "coords": [
+                        51.727262,
+                        32.710736
+                  ]
+            },
+            {
+                  "name": "masjed ghaem",
+                  "text": "A mosque serving the local residential district, featuring traditional brickwork and a single minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        51.714803,
+                        32.704168
+                  ]
+            },
+            {
+                  "name": "Martyr Motahhari Mosque",
+                  "text": "A contemporary mosque used for religious education and community gatherings in the historic heart of Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708207,
+                        32.692177
+                  ]
+            },
+            {
+                  "name": "Ali ibn Sahl monastery",
+                  "text": "A Sufi monastery and tomb dedicated to the 9th-century mystic Ali ibn Sahl, known for its tranquil garden.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692652,
+                        32.680218
+                  ]
+            },
+            {
+                  "name": "Bagh-e Ghoushkhaneh Minaret",
+                  "text": "A solitary 14th-century minaret standing in a park, once part of a mosque built for the Ilkhanid rulers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691899,
+                        32.681463
+                  ]
+            },
+            {
+                  "name": "Feyze",
+                  "text": "A traditional theological school and mosque complex where students study Islamic jurisprudence and philosophy.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687302,
+                        32.67847
+                  ]
+            },
+            {
+                  "name": "Chahardeh Masoum",
+                  "text": "A religious center dedicated to the Fourteen Infallibles, serving as a site for communal prayer and charity.",
+                  "category": "landmark",
+                  "coords": [
+                        51.684352,
+                        32.676953
+                  ]
+            },
+            {
+                  "name": "Mirza Ali Aqa Shirazi",
+                  "text": "Tomb of a prominent scholar located near the historic Jameh Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682453,
+                        32.67681
+                  ]
+            },
+            {
+                  "name": "Masjedolmahdi",
+                  "text": "Local mosque with traditional Iranian brickwork in the Jameh Mosque district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.682482,
+                        32.684133
+                  ]
+            },
+            {
+                  "name": "Ali Mosque and Minaret",
+                  "text": "Famous for its 48-meter tall Seljuk-era brick minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68296,
+                        32.665314
+                  ]
+            },
+            {
+                  "name": "Golbahar Synagogue",
+                  "text": "Jewish place of worship located in the historic Jouybareh quarter of Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.681555,
+                        32.665465
+                  ]
+            },
+            {
+                  "name": "Sartaveh",
+                  "text": "Local neighborhood mosque serving the community in the heart of the historic center.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691194,
+                        32.671873
+                  ]
+            },
+            {
+                  "name": "Amu Sha'iya Synagogue",
+                  "text": "Regarded as the oldest synagogue in Isfahan, located in the traditional Jewish district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688202,
+                        32.668012
+                  ]
+            },
+            {
+                  "name": "Haji Eliyahu Synagogue",
+                  "text": "Traditional synagogue featuring classic architecture in the historic Jouybareh quarter.",
+                  "category": "landmark",
+                  "coords": [
+                        51.688677,
+                        32.669389
+                  ]
+            },
+            {
+                  "name": "Qader",
+                  "text": "Small community mosque with a simple courtyard in the historic city center.",
+                  "category": "landmark",
+                  "coords": [
+                        51.691101,
+                        32.669107
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IR-XX",
     coords: [51.6842, 32.6697],
@@ -1142,7 +7415,772 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Les travaux ont débuté initialement vers l'an 771", "L'immense complexe s'étend aujourd'hui sur plus de 20 000 mètres carrés", "Les coupoles nord et sud ont été construites entre 1086 et 1088 sous les Seldjoukides", "Le mihrab en stuc ouvragé du souverain Oldjaïtou date de 1310", "L'édifice fut l'un des premiers à adopter le modèle classique à quatre iwans", "La mosquée a été inscrite sur la liste du patrimoine mondial de l'UNESCO en 2012"],
     }, image: "/poi-images/iran-jameh-mosque-isfahan-history-v2.webp"},
   {
-    id: "iran-fin-garden-history-v2",
+    id: "iran-fin-garden-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Mondolo",
+                  "text": "Ein Aussichtspunkt auf einem Hügel, der einen weiten Panoramablick über die Wüstenstadt Kaschan und ihre Gärten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.333238,
+                        33.86342
+                  ]
+            },
+            {
+                  "name": "Kashan Central Mosque",
+                  "text": "Diese historische Moschee besticht durch ihre massive Ziegelkuppel und zwei hoch aufragende Minarette aus der Seldschuken-Ära.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "Khan Hamam",
+                  "text": "Ein wunderschön restauriertes traditionelles Badehaus im Herzen des Basars von Kaschan mit kunstvollen Kachelmosaiken.",
+                  "category": "landmark",
+                  "coords": [
+                        51.449509,
+                        33.98513
+                  ]
+            },
+            {
+                  "name": "Traditional iranian sport",
+                  "text": "In diesem „Haus der Kraft“ (Zurkhaneh) führen Athleten rituelle Übungen zu den rhythmischen Schlägen einer Trommel aus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "Al_e yasin historical house",
+                  "text": "Ein traditionelles Wohnhaus aus dem 19. Jahrhundert mit eleganten Stuckarbeiten und einem symmetrischen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "Museum of fine arts",
+                  "text": "Dieses im Fin-Garten gelegene Museum zeigt zeitgenössische iranische Gemälde und Kunsthandwerk.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "Mahinestane Raheb's House",
+                  "text": "Ein restauriertes Kaufmannshaus aus der Kadscharenzeit, das heute als Boutique-Hotel mit traditionellen Windtürmen dient.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "Soleymanieh Spring",
+                  "text": "Eine antike natürliche Quelle, die den Fin-Garten seit Jahrhunderten kontinuierlich mit Wasser versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371529,
+                        33.94554
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Dieses in einem historischen Gebäude untergebrachte Museum zeigt traditionelle iranische Puppen und Marionetten.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "Vayu Art and Mind Residency",
+                  "text": "Ein Kulturraum in einem restaurierten historischen Haus, der zeitgenössischer Kunst und Workshops gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "Ein traditionelles Wohnhaus, das für seine detailreichen Gipsschnitzereien und den klassischen persischen Innenhof bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447203,
+                        33.973427
+                  ]
+            },
+            {
+                  "name": "Soltani Mosque",
+                  "text": "Eine Moschee aus der Kadscharenzeit mit einem großen Innenhof, der von Backsteinbögen und blauen Kacheln umgeben ist.",
+                  "category": "religious",
+                  "coords": [
+                        51.447879,
+                        33.982869
+                  ]
+            },
+            {
+                  "name": "Hashemian Haus",
+                  "text": "Ein Kaufmannshaus, das die typische Architektur von Kaschan mit getrennten Sommer- und Winterwohnbereichen zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441581,
+                        33.977669
+                  ]
+            },
+            {
+                  "name": "Abbasid Haus",
+                  "text": "Ein riesiger Komplex aus dem 18. Jahrhundert mit sechs Ebenen von Innenhöfen und komplizierten Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44046,
+                        33.976259
+                  ]
+            },
+            {
+                  "name": "Sultan Amir Ahmad Badehaus",
+                  "text": "Ein Badehaus aus dem 16. Jahrhundert, das für seine türkisfarbenen Kacheln und den Panoramablick vom Kuppeldach bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        51.441065,
+                        33.975203
+                  ]
+            },
+            {
+                  "name": "Ameriha Haus",
+                  "text": "Das größte historische Haus der Stadt, das aus sieben Innenhöfen und über achtzig Zimmern besteht.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441965,
+                        33.975167
+                  ]
+            },
+            {
+                  "name": "Amir Kabir Museum",
+                  "text": "Dieses dem Kadscharen-Wesir gewidmete Museum befindet sich am Ort seiner historischen Ermordung im Badehaus.",
+                  "category": "museum",
+                  "coords": [
+                        51.371906,
+                        33.946665
+                  ]
+            },
+            {
+                  "name": "Tepe Sialk",
+                  "text": "Eine antike archäologische Stätte mit den Überresten einer der weltweit ältesten Zikkurats aus Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404296,
+                        33.968747
+                  ]
+            },
+            {
+                  "name": "Kushk-e Safi Mosque",
+                  "text": "Eine Stadtviertelmoschee, die mit traditionellem Mauerwerk und einem bescheidenen blau gekachelten Eingang erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.443427,
+                        33.975904
+                  ]
+            },
+            {
+                  "name": "Agha Bozorg",
+                  "text": "Eine Moschee und Madrasa aus dem 18. Jahrhundert, bekannt für ihr symmetrisches Design und den versunkenen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445219,
+                        33.97836
+                  ]
+            },
+            {
+                  "name": "Saheb Zaman Mosque",
+                  "text": "Ein zeitgenössisches Gotteshaus, bekannt für seine beleuchteten Minarette und die aktive religiöse Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.415839,
+                        34.005113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Mondolo",
+                  "text": "Dombokon lévő kilátópont, amely széles panorámát nyújt Kásán sivatagi városára és kertjeire.",
+                  "category": "natural",
+                  "coords": [
+                        51.333238,
+                        33.86342
+                  ]
+            },
+            {
+                  "name": "Kashan Central Mosque",
+                  "text": "Ez a történelmi mecset masszív tégla kupolájával és két magasodó, szeldzsuk kori minaretjével nyűgöz le.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "Khan Hamam",
+                  "text": "Gyönyörűen felújított hagyományos fürdőház Kásán bazárjának szívében, díszes csempemozaikokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.449509,
+                        33.98513
+                  ]
+            },
+            {
+                  "name": "Traditional iranian sport",
+                  "text": "Ebben az „erő házában” (Zurkhaneh) a sportolók rituális gyakorlatokat végeznek egy dob ritmikus ütemére.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "Al_e yasin historical house",
+                  "text": "Elegáns stukkókkal és szimmetrikus udvarral rendelkező hagyományos 19. századi lakóház.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "Museum of fine arts",
+                  "text": "A Fin-kertben található múzeum kortárs iráni festményeket és kézműves tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "Mahinestane Raheb's House",
+                  "text": "Egy felújított kádzsár-kori kereskedőház, amely ma hagyományos széltornyokkal rendelkező butikhotelként működik.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "Soleymanieh Spring",
+                  "text": "Egy ősi természetes forrás, amely évszázadok óta folyamatosan vízzel látja el a Fin-kertet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371529,
+                        33.94554
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Egy történelmi épületben helyet kapott múzeum, amely hagyományos iráni babákat és bábokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "Vayu Art and Mind Residency",
+                  "text": "Kortárs művészetnek és workshopoknak szentelt kulturális tér egy felújított történelmi házban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "Részletgazdag gipszfaragványairól és klasszikus perzsa udvari elrendezéséről ismert hagyományos lakóház.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447203,
+                        33.973427
+                  ]
+            },
+            {
+                  "name": "Soltani Mosque",
+                  "text": "Kádzsár-kori mecset nagyméretű udvarral, amelyet téglaívek és kék csempézés vesz körül.",
+                  "category": "religious",
+                  "coords": [
+                        51.447879,
+                        33.982869
+                  ]
+            },
+            {
+                  "name": "Hashemian House",
+                  "text": "Kereskedőház, amely Kasán jellegzetes építészetét mutatja be külön nyári és téli lakrészekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441581,
+                        33.977669
+                  ]
+            },
+            {
+                  "name": "Historic Home of Abbasid",
+                  "text": "Hatalmas, 18. századi komplexum hat szintnyi udvarral és bonyolult falfaragványokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44046,
+                        33.976259
+                  ]
+            },
+            {
+                  "name": "Sultan Amir Ahmad Bathhouse",
+                  "text": "16. századi fürdőház, amely türkizkék csempézéséről és a kupolás tetőről nyíló panorámájáról híres.",
+                  "category": "museum",
+                  "coords": [
+                        51.441065,
+                        33.975203
+                  ]
+            },
+            {
+                  "name": "Āmeri House",
+                  "text": "A város legnagyobb történelmi háza, amely hét udvarból és több mint nyolcvan szobából áll.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441965,
+                        33.975167
+                  ]
+            },
+            {
+                  "name": "Amir Kabir Museum",
+                  "text": "A kádzsár vezírnek szentelt múzeum a történelmi fürdőházi meggyilkolásának helyszínén található.",
+                  "category": "museum",
+                  "coords": [
+                        51.371906,
+                        33.946665
+                  ]
+            },
+            {
+                  "name": "Tepe Sialk",
+                  "text": "Ősi régészeti lelőhely, amely a világ egyik legrégebbi vályogtégla zikkurátjának maradványait rejti.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404296,
+                        33.968747
+                  ]
+            },
+            {
+                  "name": "Kushk-e Safi Mosque",
+                  "text": "Hagyományos téglafalazattal és szerény, kék csempézett bejárattal épült szomszédsági mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        51.443427,
+                        33.975904
+                  ]
+            },
+            {
+                  "name": "Agha Bozorg",
+                  "text": "18. századi mecset és medresze, amely szimmetrikus kialakításáról és süllyesztett központi udvaráról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445219,
+                        33.97836
+                  ]
+            },
+            {
+                  "name": "Saheb Zaman Mosque",
+                  "text": "Világító minaretjeiről és aktív vallási közösségéről ismert kortárs istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        51.415839,
+                        34.005113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Mondolo",
+                  "text": "Un punct de observație pe deal care oferă o panoramă largă asupra orașului de deșert Kashan și a grădinilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        51.333238,
+                        33.86342
+                  ]
+            },
+            {
+                  "name": "Kashan Central Mosque",
+                  "text": "Această moschee istorică impresionează prin cupola sa masivă de cărămidă și cele două minarete înalte din era Selgiuc.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "Khan Hamam",
+                  "text": "O baie tradițională restaurată superb în inima bazarului din Kashan, cu mozaicuri ornamentate din faianță.",
+                  "category": "landmark",
+                  "coords": [
+                        51.449509,
+                        33.98513
+                  ]
+            },
+            {
+                  "name": "Traditional iranian sport",
+                  "text": "În această „casă a forței” (Zurkhaneh), sportivii execută exerciții ritualice pe ritmul unei tobe.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "Al_e yasin historical house",
+                  "text": "O reședință tradițională din secolul al XIX-lea, cu lucrări elegante în stuc și o curte simetrică.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "Museum of fine arts",
+                  "text": "Situat în Grădina Fin, acest muzeu expune picturi și obiecte de meșteșugărit iraniene contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "Mahinestane Raheb's House",
+                  "text": "O casă de negustor restaurată din epoca Qajar, care servește acum ca hotel boutique cu turnuri de vânt tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "Soleymanieh Spring",
+                  "text": "Un izvor natural antic care alimentează continuu cu apă Grădina Fin de secole.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371529,
+                        33.94554
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Găzduit într-o clădire istorică, acest muzeu prezintă păpuși și marionete tradiționale iraniene.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "Vayu Art and Mind Residency",
+                  "text": "Un spațiu cultural într-o casă istorică restaurată, dedicat artei contemporane și atelierelor.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "O reședință tradițională cunoscută pentru sculpturile detaliate în ipsos și aspectul clasic de curte persană.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447203,
+                        33.973427
+                  ]
+            },
+            {
+                  "name": "Soltani Mosque",
+                  "text": "O moschee din epoca Qajar, cu o curte mare înconjurată de arcade de cărămidă și plăci ceramice albastre.",
+                  "category": "religious",
+                  "coords": [
+                        51.447879,
+                        33.982869
+                  ]
+            },
+            {
+                  "name": "Hashemian House",
+                  "text": "O casă de negustor care prezintă arhitectura tipică din Kashan, cu zone de locuit separate pentru vară și iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441581,
+                        33.977669
+                  ]
+            },
+            {
+                  "name": "Historic Home of Abbasid",
+                  "text": "Un complex masiv din secolul al XVIII-lea, cu șase niveluri de curți și sculpturi murale complicate.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44046,
+                        33.976259
+                  ]
+            },
+            {
+                  "name": "Sultan Amir Ahmad Bathhouse",
+                  "text": "O baie publică din secolul al XVI-lea, faimoasă pentru placarea cu faianță turcoaz și vederea panoramică de pe acoperișul bombat.",
+                  "category": "museum",
+                  "coords": [
+                        51.441065,
+                        33.975203
+                  ]
+            },
+            {
+                  "name": "Āmeri House",
+                  "text": "Cea mai mare casă istorică din oraș, formată din șapte curți și peste optzeci de camere.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441965,
+                        33.975167
+                  ]
+            },
+            {
+                  "name": "Amir Kabir Museum",
+                  "text": "Dedicat vizirului Qajar, acest muzeu este situat pe locul asasinatului său istoric din baia publică.",
+                  "category": "museum",
+                  "coords": [
+                        51.371906,
+                        33.946665
+                  ]
+            },
+            {
+                  "name": "Tepe Sialk",
+                  "text": "Un sit arheologic antic care conține rămășițele uneia dintre cele mai vechi ziggurate din cărămidă nearsă din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404296,
+                        33.968747
+                  ]
+            },
+            {
+                  "name": "Kushk-e Safi Mosque",
+                  "text": "O moschee de cartier construită cu zidărie tradițională și o intrare modestă cu plăci albastre.",
+                  "category": "landmark",
+                  "coords": [
+                        51.443427,
+                        33.975904
+                  ]
+            },
+            {
+                  "name": "Agha Bozorg",
+                  "text": "O moschee și madrasă din secolul al XVIII-lea, faimoasă pentru designul simetric și curtea centrală adâncită.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445219,
+                        33.97836
+                  ]
+            },
+            {
+                  "name": "Saheb Zaman Mosque",
+                  "text": "Un lăcaș de cult contemporan, cunoscut pentru minaretele sale iluminate și comunitatea religioasă activă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.415839,
+                        34.005113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Mondolo",
+                  "text": "A hilltop viewpoint offering panoramic vistas over the desert city of Kashan and its surrounding landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        51.333238,
+                        33.86342
+                  ]
+            },
+            {
+                  "name": "Kashan Central Mosque",
+                  "text": "This historic mosque features a massive brick dome and two towering minarets dating back to the Seljuk era.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "Khan Hamam",
+                  "text": "A beautifully restored traditional bathhouse located in the heart of Kashan's bazaar, featuring ornate tile mosaics.",
+                  "category": "landmark",
+                  "coords": [
+                        51.449509,
+                        33.98513
+                  ]
+            },
+            {
+                  "name": "Traditional iranian sport",
+                  "text": "In this 'House of Strength' (Zurkhaneh), athletes perform ritualized physical exercises to the rhythmic beat of a drum.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "Al_e yasin historical house",
+                  "text": "A traditional 19th-century residence featuring elegant stucco work and a symmetrical courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "Museum of fine arts",
+                  "text": "Located within the Fin Garden, this museum displays contemporary Iranian paintings and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "Mahinestane Raheb's House",
+                  "text": "A restored Qajar-era merchant house now serving as a boutique hotel with traditional wind towers.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "Soleymanieh Spring",
+                  "text": "An ancient natural spring that has continuously supplied water to the Fin Garden for centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        51.371529,
+                        33.94554
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "Housed in a historic building, this museum showcases traditional Iranian dolls and puppets.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "Vayu Art and Mind Residency",
+                  "text": "A cultural space in a restored historical house dedicated to contemporary art and workshops.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "A traditional residence known for its detailed plaster carvings and classic Persian courtyard layout.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447203,
+                        33.973427
+                  ]
+            },
+            {
+                  "name": "Soltani Mosque",
+                  "text": "A Qajar-era mosque featuring a large courtyard surrounded by brick arches and blue tiling.",
+                  "category": "religious",
+                  "coords": [
+                        51.447879,
+                        33.982869
+                  ]
+            },
+            {
+                  "name": "Hashemian House",
+                  "text": "A merchant's home showcasing typical Kashan architecture with separate summer and winter living areas.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441581,
+                        33.977669
+                  ]
+            },
+            {
+                  "name": "Historic Home of Abbasid",
+                  "text": "A massive 18th-century complex with six levels of courtyards and intricate wall carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44046,
+                        33.976259
+                  ]
+            },
+            {
+                  "name": "Sultan Amir Ahmad Bathhouse",
+                  "text": "A 16th-century bathhouse famous for its turquoise tilework and panoramic views from the domed roof.",
+                  "category": "museum",
+                  "coords": [
+                        51.441065,
+                        33.975203
+                  ]
+            },
+            {
+                  "name": "Āmeri House",
+                  "text": "The largest historical house in the city, consisting of seven courtyards and over eighty rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441965,
+                        33.975167
+                  ]
+            },
+            {
+                  "name": "Amir Kabir Museum",
+                  "text": "Dedicated to the Qajar vizier, this museum is located at the site of his historic bathhouse assassination.",
+                  "category": "museum",
+                  "coords": [
+                        51.371906,
+                        33.946665
+                  ]
+            },
+            {
+                  "name": "Tepe Sialk",
+                  "text": "An ancient archaeological site featuring the remains of one of the world's oldest mud-brick ziggurats.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404296,
+                        33.968747
+                  ]
+            },
+            {
+                  "name": "Kushk-e Safi Mosque",
+                  "text": "A neighborhood mosque built with traditional brickwork and a modest blue-tiled entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        51.443427,
+                        33.975904
+                  ]
+            },
+            {
+                  "name": "Agha Bozorg",
+                  "text": "An 18th-century mosque and madrasah famous for its symmetrical design and sunken central courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445219,
+                        33.97836
+                  ]
+            },
+            {
+                  "name": "Saheb Zaman Mosque",
+                  "text": "A contemporary place of worship known for its illuminated minarets and active religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        51.415839,
+                        34.005113
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IR-XX",
     coords: [51.3736, 33.9453],
@@ -1209,7 +8247,52 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["La structure de base actuelle du jardin a été achevée vers 1590 sous Shah Abbas Ier.", "Le site clos couvre une superficie totale de près de 2,3 hectares", "De nombreux cyprès centenaires du jardin ont entre 100 et 400 ans", "Le hammam fut le théâtre de l'assassinat politique d'Amir Kabir en 1852", "De nombreux pavillons ont été restaurés et agrandis pendant la période kadjare (XIXe siècle)", "En 2011, le jardin de Fin a été inscrit au patrimoine mondial de l'UNESCO avec 8 autres jardins"],
     }, image: "/poi-images/iran-fin-garden-history-v2.webp"},
   {
-    id: "iran-cyrus-tomb-history-v2",
+    id: "iran-cyrus-tomb-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomb of Cyrus the Great",
+                  "text": "Ein monumentales Steingrab auf einer sechsstufigen Plattform, das dem Gründer des Achämenidenreichs gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167315,
+                        30.193926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomb of Cyrus the Great",
+                  "text": "Hatszintes emelvényen álló monumentális kősír, amelyet az Akhaimenida Birodalom alapítójának emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167315,
+                        30.193926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomb of Cyrus the Great",
+                  "text": "Un mormânt monumental de piatră pe o platformă cu șase trepte, dedicat fondatorului Imperiului Ahemenid.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167315,
+                        30.193926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomb of Cyrus the Great",
+                  "text": "A monumental stone tomb on a six-tiered platform dedicated to the founder of the Achaemenid Empire.",
+                  "category": "landmark",
+                  "coords": [
+                        53.167315,
+                        30.193926
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IR-XX",
     coords: [53.1794, 30.1936],
@@ -1276,7 +8359,448 @@ export const poiExtraIranHistoryV2: POI[] = [
       fr: ["Le tombeau a été érigé au VIe siècle av. J.-C. pour Cyrus le Grand", "La hauteur totale de l'édifice en calcaire est d'environ 11 mètres", "Le socle pyramidal se compose de précisément six marches de pierre", "Alexandre le Grand a visité et épargné le tombeau en 330 av. J.-C.", "La marche la plus basse du socle massif mesure environ 13 mètres sur 12", "Il existait autrefois une inscription en vieux-perse sur le tombeau, qui n'existe plus aujourd'hui"],
     }, image: "/poi-images/iran-cyrus-tomb-history-v2.webp"},
   {
-    id: "iran-naqsh-e-jahan-history-v2",
+    id: "iran-naqsh-e-jahan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qeysarie Market",
+                  "text": "Der Qeysarie-Markt ist eine herausragende historische Attraktion in der Stadt iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.676791,
+                        32.661466
+                  ]
+            },
+            {
+                  "name": "Portal",
+                  "text": "Dieses große Portal dient als architektonische Attraktion in iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674559,
+                        32.663767
+                  ]
+            },
+            {
+                  "name": "Bazar-e Bozorg (The Grand Bazaar)",
+                  "text": "Bazar-e Bozorg, auch bekannt als Großer Basar, ist eine wichtige Touristenattraktion in iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674451,
+                        32.665798
+                  ]
+            },
+            {
+                  "name": "Shahi AssarKhaneh Museum",
+                  "text": "Das Shahi AssarKhaneh Museum stellt lokale historische Artefakte in iran-naqsh-e-jahan-history-v2 aus.",
+                  "category": "museum",
+                  "coords": [
+                        51.677956,
+                        32.662181
+                  ]
+            },
+            {
+                  "name": "Qeysarieh cafè",
+                  "text": "Das Qeysarieh Cafè bietet einen entspannenden Aussichtspunkt in iran-naqsh-e-jahan-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        51.676716,
+                        32.660081
+                  ]
+            },
+            {
+                  "name": "Timcheh Malek",
+                  "text": "Timcheh Malek ist ein reich verziertes historisches Denkmal, das in iran-naqsh-e-jahan-history-v2 erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        51.677933,
+                        32.661247
+                  ]
+            },
+            {
+                  "name": "Moshir-almolk House (museum of Islamic heritage)",
+                  "text": "Das Moshir-almolk-Haus ist ein Museum für islamisches Erbe in iran-naqsh-e-jahan-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.681727,
+                        32.663261
+                  ]
+            },
+            {
+                  "name": "Kutschenfahrten",
+                  "text": "Kutschfahrten sind eine traditionelle Transportattraktion in iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.677367,
+                        32.658273
+                  ]
+            },
+            {
+                  "name": "Mehdi Moud",
+                  "text": "Mehdi Moud ist eine muslimische religiöse Stätte im historischen Gebiet von Naqsch-e Dschahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68854,
+                        32.659677
+                  ]
+            },
+            {
+                  "name": "Qaravolkhaneh",
+                  "text": "Qaravolkhaneh ist eine islamische Stätte im historischen Gebiet von Naqsch-e Dschahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687458,
+                        32.659067
+                  ]
+            },
+            {
+                  "name": "Hafez Mosque",
+                  "text": "Die Hafez-Moschee ist ein islamisches Gotteshaus in der Nähe von Naqsch-e Dschahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679487,
+                        32.659274
+                  ]
+            },
+            {
+                  "name": "Kupferbasar",
+                  "text": "Der Kupferschmied-Basar ist ein traditioneller Markt in Naqsch-e Dschahan.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675744,
+                        32.658872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qeysarie Market",
+                  "text": "A Qeysarie piac egy kiemelkedő történelmi látványosság iran-naqsh-e-jahan-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.676791,
+                        32.661466
+                  ]
+            },
+            {
+                  "name": "Portal",
+                  "text": "Ez a nagyszerű portál építészeti látványosságként szolgál iran-naqsh-e-jahan-history-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674559,
+                        32.663767
+                  ]
+            },
+            {
+                  "name": "Bazar-e Bozorg (The Grand Bazaar)",
+                  "text": "A Bazar-e Bozorg, más néven a Nagy Bazár, jelentős turisztikai látványosság iran-naqsh-e-jahan-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674451,
+                        32.665798
+                  ]
+            },
+            {
+                  "name": "Shahi AssarKhaneh Museum",
+                  "text": "A Shahi AssarKhaneh Múzeum helyi történelmi leleteket állít ki iran-naqsh-e-jahan-history-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        51.677956,
+                        32.662181
+                  ]
+            },
+            {
+                  "name": "Qeysarieh cafè",
+                  "text": "A Qeysarieh kávézó pihentető kilátópontot kínál iran-naqsh-e-jahan-history-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        51.676716,
+                        32.660081
+                  ]
+            },
+            {
+                  "name": "Timcheh Malek",
+                  "text": "A Timcheh Malek egy díszes történelmi emlékmű, amelyet iran-naqsh-e-jahan-history-v2 területén őriztek meg.",
+                  "category": "historical",
+                  "coords": [
+                        51.677933,
+                        32.661247
+                  ]
+            },
+            {
+                  "name": "Moshir-almolk House (museum of Islamic heritage)",
+                  "text": "A Moshir-almolk Ház egy iszlám örökséget bemutató múzeum iran-naqsh-e-jahan-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        51.681727,
+                        32.663261
+                  ]
+            },
+            {
+                  "name": "Carriage riding",
+                  "text": "A lovaskocsikázás hagyományos közlekedési látványosságot nyújt iran-naqsh-e-jahan-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.677367,
+                        32.658273
+                  ]
+            },
+            {
+                  "name": "Mehdi Moud",
+                  "text": "A Mehdi Moud egy muszlim vallási helyszín Naqsh-e Jahan történelmi térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68854,
+                        32.659677
+                  ]
+            },
+            {
+                  "name": "Qaravolkhaneh",
+                  "text": "A Qaravolkhaneh egy iszlám helyszín a történelmi Naqsh-e Jahan területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687458,
+                        32.659067
+                  ]
+            },
+            {
+                  "name": "Hafez Mosque",
+                  "text": "A Hafez-mecset egy iszlám istentiszteleti hely Naqsh-e Jahan közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679487,
+                        32.659274
+                  ]
+            },
+            {
+                  "name": "Coppersmiths Bazar",
+                  "text": "A rézművesek bazárja egy hagyományos piac Naqsh-e Jahan területén.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675744,
+                        32.658872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qeysarie Market",
+                  "text": "Piața Qeysarie este o atracție istorică proeminentă situată în orașul iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.676791,
+                        32.661466
+                  ]
+            },
+            {
+                  "name": "Portal",
+                  "text": "Acest grandios Portal servește drept atracție arhitecturală în iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674559,
+                        32.663767
+                  ]
+            },
+            {
+                  "name": "Bazar-e Bozorg (The Grand Bazaar)",
+                  "text": "Bazar-e Bozorg, cunoscut și sub numele de Marele Bazar, este o atracție turistică majoră din iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674451,
+                        32.665798
+                  ]
+            },
+            {
+                  "name": "Shahi AssarKhaneh Museum",
+                  "text": "Muzeul Shahi AssarKhaneh expune artefacte istorice locale în orașul iran-naqsh-e-jahan-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.677956,
+                        32.662181
+                  ]
+            },
+            {
+                  "name": "Qeysarieh cafè",
+                  "text": "Cafeneaua Qeysarieh oferă un punct de belvedere relaxant în iran-naqsh-e-jahan-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        51.676716,
+                        32.660081
+                  ]
+            },
+            {
+                  "name": "Timcheh Malek",
+                  "text": "Timcheh Malek este un monument istoric ornamentat păstrat în iran-naqsh-e-jahan-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.677933,
+                        32.661247
+                  ]
+            },
+            {
+                  "name": "Moshir-almolk House (museum of Islamic heritage)",
+                  "text": "Casa Moshir-almolk este un muzeu al patrimoniului islamic situat în iran-naqsh-e-jahan-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.681727,
+                        32.663261
+                  ]
+            },
+            {
+                  "name": "Carriage riding",
+                  "text": "Plimbarea cu trăsura oferă o atracție tradițională de transport prin orașul iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.677367,
+                        32.658273
+                  ]
+            },
+            {
+                  "name": "Mehdi Moud",
+                  "text": "Mehdi Moud este un lăcaș de cult musulman din zona istorică Naqsh-e Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68854,
+                        32.659677
+                  ]
+            },
+            {
+                  "name": "Qaravolkhaneh",
+                  "text": "Qaravolkhaneh este un sit islamic situat în zona istorică Naqsh-e Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687458,
+                        32.659067
+                  ]
+            },
+            {
+                  "name": "Hafez Mosque",
+                  "text": "Moscheea Hafez este un lăcaș de cult islamic situat lângă Naqsh-e Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679487,
+                        32.659274
+                  ]
+            },
+            {
+                  "name": "Coppersmiths Bazar",
+                  "text": "Bazarul arămarilor este o piață tradițională situată în Naqsh-e Jahan.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675744,
+                        32.658872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qeysarie Market",
+                  "text": "Qeysarie Market is a prominent historical attraction located in the city of iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.676791,
+                        32.661466
+                  ]
+            },
+            {
+                  "name": "Portal",
+                  "text": "This grand Portal serves as an architectural attraction in iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674559,
+                        32.663767
+                  ]
+            },
+            {
+                  "name": "Bazar-e Bozorg (The Grand Bazaar)",
+                  "text": "Bazar-e Bozorg, also known as The Grand Bazaar, is a major tourist attraction in iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.674451,
+                        32.665798
+                  ]
+            },
+            {
+                  "name": "Shahi AssarKhaneh Museum",
+                  "text": "The Shahi AssarKhaneh Museum exhibits local historical artifacts in the city of iran-naqsh-e-jahan-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.677956,
+                        32.662181
+                  ]
+            },
+            {
+                  "name": "Qeysarieh cafè",
+                  "text": "The Qeysarieh cafè offers a relaxing viewpoint experience in iran-naqsh-e-jahan-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        51.676716,
+                        32.660081
+                  ]
+            },
+            {
+                  "name": "Timcheh Malek",
+                  "text": "Timcheh Malek is an ornate historical monument preserved in iran-naqsh-e-jahan-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.677933,
+                        32.661247
+                  ]
+            },
+            {
+                  "name": "Moshir-almolk House (museum of Islamic heritage)",
+                  "text": "The Moshir-almolk House is a museum of Islamic heritage situated in iran-naqsh-e-jahan-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.681727,
+                        32.663261
+                  ]
+            },
+            {
+                  "name": "Carriage riding",
+                  "text": "Carriage riding provides a traditional transport attraction through the city of iran-naqsh-e-jahan-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.677367,
+                        32.658273
+                  ]
+            },
+            {
+                  "name": "Mehdi Moud",
+                  "text": "Mehdi Moud is a Muslim religious site located in the historical area of Naqsh-e Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68854,
+                        32.659677
+                  ]
+            },
+            {
+                  "name": "Qaravolkhaneh",
+                  "text": "Qaravolkhaneh is an Islamic site located in the historical Naqsh-e Jahan area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.687458,
+                        32.659067
+                  ]
+            },
+            {
+                  "name": "Hafez Mosque",
+                  "text": "Hafez Mosque is a place of Islamic worship situated near Naqsh-e Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679487,
+                        32.659274
+                  ]
+            },
+            {
+                  "name": "Coppersmiths Bazar",
+                  "text": "The Coppersmiths Bazar is a traditional marketplace located in Naqsh-e Jahan.",
+                  "category": "cultural",
+                  "coords": [
+                        51.675744,
+                        32.658872
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IR-XX",
     coords: [51.6775, 32.6581],

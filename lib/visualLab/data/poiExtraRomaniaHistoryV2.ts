@@ -1105,7 +1105,7 @@ export const romaniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Colecția Muzeală a Mănăstirii Nucet",
-                  "text": "Eine Sammlung religiöser Artefakte im Kloster Nucet.",
+                  "text": "2004 gegründete Museumssammlung des Nucet-Klosters in Conacul Logofat.",
                   "category": "museum",
                   "coords": [
                         25.540904,
@@ -1116,7 +1116,7 @@ export const romaniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Colecția Muzeală a Mănăstirii Nucet",
-                  "text": "Vallási artefaktumok gyűjteménye a Nucet kolostorban.",
+                  "text": "2004-ben alapított Nucet-kolostor múzeumi gyűjteménye Conacul Logofaton.",
                   "category": "museum",
                   "coords": [
                         25.540904,
@@ -1127,7 +1127,7 @@ export const romaniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Colecția Muzeală a Mănăstirii Nucet",
-                  "text": "O colecție de artefacte religioase de la Mănăstirea Nucet.",
+                  "text": "Colecția Muzeală a Mănăstirii Nucet din Conacul Logofăt, fondată în 2004.",
                   "category": "museum",
                   "coords": [
                         25.540904,
@@ -1138,7 +1138,7 @@ export const romaniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Museum Collection of Nucet Monastery",
-                  "text": "A collection of religious artifacts at the Nucet Monastery.",
+                  "text": "Museum Collection of Nucet Monastery in Conacul Logofat, established in 2004.",
                   "category": "museum",
                   "coords": [
                         25.540904,

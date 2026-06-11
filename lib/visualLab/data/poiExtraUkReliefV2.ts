@@ -53,7 +53,7 @@ imageHint: "Slieve Donard peak overlooking the Irish Sea",
       "de": [
             {
                   "name": "Rey Cross Roman Camp",
-                  "text": "Die Überreste eines antiken römischen Militärlagers in den Pennines.",
+                  "text": "Ein gut erhaltener römisches temporäres Lager mit sichtbaren Erdwällen auf den Mooren der Pennines.",
                   "category": "historical",
                   "coords": [
                         -2.155194,
@@ -91,7 +91,7 @@ imageHint: "Slieve Donard peak overlooking the Irish Sea",
       "hu": [
             {
                   "name": "Rey Cross Roman Camp",
-                  "text": "Egy ókori római katonai tábor maradványai a Pennine-hegységben.",
+                  "text": "Egy jól megőrzött római ideiglenes tábor látható földsáncokkal a Pennines‑i lápvidéken.",
                   "category": "historical",
                   "coords": [
                         -2.155194,
@@ -129,7 +129,7 @@ imageHint: "Slieve Donard peak overlooking the Irish Sea",
       "ro": [
             {
                   "name": "Rey Cross Roman Camp",
-                  "text": "Rămășițele unei foste tabere militare romane din Munții Pennini.",
+                  "text": "O tabără romană temporară bine conservată cu valuri de pământ vizibile pe mlaștinile din Pennines.",
                   "category": "historical",
                   "coords": [
                         -2.155194,
@@ -167,7 +167,7 @@ imageHint: "Slieve Donard peak overlooking the Irish Sea",
       "en": [
             {
                   "name": "Rey Cross Roman Camp",
-                  "text": "The remains of an ancient Roman military camp located in the Pennines.",
+                  "text": "A well‑preserved Roman temporary camp with visible earthworks on the moors of the Pennines.",
                   "category": "historical",
                   "coords": [
                         -2.155194,
@@ -561,7 +561,7 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             },
             {
                   "name": "Down Ridge stone circle",
-                  "text": "Ein prähistorischer Steinkreis auf dem Down Ridge im Dartmoor.",
+                  "text": "Bronzezeitlicher Steinkreis auf dem Down Ridge mit Blick über Dartmoor.",
                   "category": "historical",
                   "coords": [
                         -3.899168,
@@ -626,7 +626,7 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             },
             {
                   "name": "Down Ridge stone circle",
-                  "text": "Prehisztorikus kőkör a Dartmoor területén található Down Ridge-en.",
+                  "text": "Bronzkori kőkör a Down Ridge-en, kilátással a Dartmoorra.",
                   "category": "historical",
                   "coords": [
                         -3.899168,
@@ -691,7 +691,7 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             },
             {
                   "name": "Down Ridge stone circle",
-                  "text": "Un cerc de piatră preistoric situat pe Down Ridge în Dartmoor.",
+                  "text": "Cerc de piatră din epoca bronzului pe Down Ridge, cu vedere spre Dartmoor.",
                   "category": "historical",
                   "coords": [
                         -3.899168,
@@ -756,7 +756,7 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             },
             {
                   "name": "Down Ridge stone circle",
-                  "text": "A prehistoric stone circle situated on Down Ridge in Dartmoor.",
+                  "text": "Bronze Age stone circle on Down Ridge overlooking Dartmoor.",
                   "category": "historical",
                   "coords": [
                         -3.899168,
@@ -989,7 +989,7 @@ imageHint: "Rolling green hills of the Cotswolds",
             },
             {
                   "name": "Martcrag Moor Axe Factory",
-                  "text": "Eine antike neolithische Axtfabrik im Lake District.",
+                  "text": "Prähistorische Steinbeil-Fabrik auf dem Martcrag Moor am Langdale Pike.",
                   "category": "historical",
                   "coords": [
                         -3.131904,
@@ -1063,7 +1063,7 @@ imageHint: "Rolling green hills of the Cotswolds",
             },
             {
                   "name": "Martcrag Moor Axe Factory",
-                  "text": "Egy őskori neolitikus baltaüzem a Lake District területén.",
+                  "text": "Őskori kőbalta-gyár a Martcrag Moor-on, a Langdale Pike közelében.",
                   "category": "historical",
                   "coords": [
                         -3.131904,
@@ -1137,7 +1137,7 @@ imageHint: "Rolling green hills of the Cotswolds",
             },
             {
                   "name": "Martcrag Moor Axe Factory",
-                  "text": "O fabrică de topoare neolitică situată în Lake District.",
+                  "text": "Fabrică preistorică de topoare de piatră pe Martcrag Moor, lângă Langdale Pike.",
                   "category": "historical",
                   "coords": [
                         -3.131904,
@@ -1211,7 +1211,7 @@ imageHint: "Rolling green hills of the Cotswolds",
             },
             {
                   "name": "Martcrag Moor Axe Factory",
-                  "text": "An ancient Neolithic axe factory located in the Lake District.",
+                  "text": "Prehistoric stone axe factory on Martcrag Moor near Langdale Pike.",
                   "category": "historical",
                   "coords": [
                         -3.131904,
@@ -2257,7 +2257,7 @@ imageHint: "Cheddar Gorge in the Mendip Hills",
       "de": [
             {
                   "name": "Goles Stone Row",
-                  "text": "Eine prähistorische Steinreihe in den Sperrin Mountains.",
+                  "text": "Die Goles Stone Row in den Sperrin Mountains ist eine prähistorische Steinreihe in Nordirland.",
                   "category": "historical",
                   "coords": [
                         -6.959429,
@@ -2277,7 +2277,7 @@ imageHint: "Cheddar Gorge in the Mendip Hills",
       "hu": [
             {
                   "name": "Goles Stone Row",
-                  "text": "Egy őskori kősor a Sperrin-hegység területén.",
+                  "text": "A Goles Stone Row a Sperrin-hegységben egy őskori kősor Észak-Írországban.",
                   "category": "historical",
                   "coords": [
                         -6.959429,
@@ -2297,7 +2297,7 @@ imageHint: "Cheddar Gorge in the Mendip Hills",
       "ro": [
             {
                   "name": "Goles Stone Row",
-                  "text": "Un aliniament de piatră preistoric situat în Munții Sperrin.",
+                  "text": "Goles Stone Row din Munții Sperrin este un rând de pietre preistoric în Irlanda de Nord.",
                   "category": "historical",
                   "coords": [
                         -6.959429,
@@ -2317,7 +2317,7 @@ imageHint: "Cheddar Gorge in the Mendip Hills",
       "en": [
             {
                   "name": "Goles Stone Row",
-                  "text": "A prehistoric stone row located in the Sperrin Mountains.",
+                  "text": "Goles Stone Row in the Sperrin Mountains is a prehistoric stone row in Northern Ireland.",
                   "category": "historical",
                   "coords": [
                         -6.959429,

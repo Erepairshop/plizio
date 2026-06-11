@@ -2853,7 +2853,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Schloss Roth",
-                  "text": "Ein historisches Schloss in der Gemeinde Roth an der Our.",
+                  "text": "Schloss Roth ist ein Renaissanceschloss mit einem runden Turm im Moseltal bei Mont St Nicolas.",
                   "category": "castle",
                   "coords": [
                         6.221687,
@@ -2880,7 +2880,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Museum of Caricature et Cartoon",
-                  "text": "Ein Museum in Vianden, das der Kunst der Karikatur und des Cartoons gewidmet ist.",
+                  "text": "Ein Museum für Karikatur und Cartoon in Mont-Saint-Nicolas.",
                   "category": "museum",
                   "coords": [
                         6.204982,
@@ -2936,7 +2936,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Schloss Roth",
-                  "text": "Történelmi kastély Roth an der Our községben.",
+                  "text": "A Roth-kastély egy reneszánsz kastély kerek toronnyal a Mosel völgyében, Mont St Nicolas közelében.",
                   "category": "castle",
                   "coords": [
                         6.221687,
@@ -2963,7 +2963,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Museum of Caricature et Cartoon",
-                  "text": "Viandeni múzeum, amelyet a karikatúra és a rajzfilm művészetének szenteltek.",
+                  "text": "Karikatúra- és rajzfilm-múzeum Mont-Saint-Nicolas-ban.",
                   "category": "museum",
                   "coords": [
                         6.204982,
@@ -3019,7 +3019,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Schloss Roth",
-                  "text": "Un castel istoric în comuna Roth an der Our.",
+                  "text": "Castelul Roth este un castel renascentist cu un turn rotund în valea Mosellei lângă Mont St Nicolas.",
                   "category": "castle",
                   "coords": [
                         6.221687,
@@ -3046,7 +3046,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Museum of Caricature et Cartoon",
-                  "text": "Un muzeu în Vianden dedicat artei caricaturii și desenului animat.",
+                  "text": "Un muzeu de caricatură și desene animate în Mont-Saint-Nicolas.",
                   "category": "museum",
                   "coords": [
                         6.204982,
@@ -3102,7 +3102,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Schloss Roth",
-                  "text": "A historical castle in the municipality of Roth an der Our.",
+                  "text": "Schloss Roth is a Renaissance castle with a round tower in the Moselle valley near Mont St Nicolas.",
                   "category": "castle",
                   "coords": [
                         6.221687,
@@ -3129,7 +3129,7 @@ imageHint: "Panoramic view of the Eisch valley",
             },
             {
                   "name": "Museum of Caricature et Cartoon",
-                  "text": "A museum in Vianden dedicated to the art of caricature and cartoon.",
+                  "text": "A museum of caricature and cartoon art in Mont-Saint-Nicolas.",
                   "category": "museum",
                   "coords": [
                         6.204982,

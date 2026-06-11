@@ -808,7 +808,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Eines der ältesten historischen Museen Bulgariens in Kasanlak.",
+                  "text": "Historisches Museum Iskra im Rosenpark.",
                   "category": "museum",
                   "coords": [
                         25.39503,
@@ -873,7 +873,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Bulgária egyik legrégebbi történelmi múzeuma Kazanlakban.",
+                  "text": "Iskra Történeti Múzeum a Rózsaparkban.",
                   "category": "museum",
                   "coords": [
                         25.39503,
@@ -938,7 +938,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Unul dintre cele mai vechi muzee de istorie din Bulgaria, situat în Kazanlak.",
+                  "text": "Muzeul Istoric Iskra din Parcul Rozelor.",
                   "category": "museum",
                   "coords": [
                         25.39503,
@@ -1003,7 +1003,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Iskra Historical Museum",
-                  "text": "One of Bulgaria's oldest historical museums, located in Kazanlak.",
+                  "text": "Iskra Historical Museum in Rosen Park.",
                   "category": "museum",
                   "coords": [
                         25.39503,
@@ -1096,7 +1096,7 @@ export const bulgariaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Anhialo",
-                  "text": "Ein Strand nahe dem Pomorie-See am Schwarzen Meer.",
+                  "text": "Erholungsgebiet am Ufer des Pomorie-Sees (alter Name Anhialo).",
                   "category": "recreational",
                   "coords": [
                         27.590953,
@@ -1105,7 +1105,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Diyana",
-                  "text": "Ein Strand nahe dem Pomorie-See am Schwarzen Meer.",
+                  "text": "Strand am Pomorie-See namens Diana.",
                   "category": "recreational",
                   "coords": [
                         27.595813,
@@ -1114,7 +1114,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Severen plazh Pomorie",
-                  "text": "Ein Strandabschnitt am Pomorie-See am Schwarzen Meer.",
+                  "text": "Nördlicher Strand von Pomorie am gleichnamigen See.",
                   "category": "recreational",
                   "coords": [
                         27.640121,
@@ -1123,7 +1123,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Galera",
-                  "text": "Ein Strand am Pomorie-See am Schwarzen Meer.",
+                  "text": "Strand Galera am Pomorie-See.",
                   "category": "recreational",
                   "coords": [
                         27.596539,
@@ -1132,7 +1132,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Plazh \"Cheren pyasak\"",
-                  "text": "Ein Strand am Pomorie-See am Schwarzen Meer.",
+                  "text": "Schwarzer-Sand-Strand am Pomorie-See.",
                   "category": "recreational",
                   "coords": [
                         27.63312,
@@ -1152,7 +1152,7 @@ export const bulgariaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Anhialo",
-                  "text": "Egy strand a Pomorie-tó közelében, a Fekete-tengeren.",
+                  "text": "Pihenőövezet a Pomorie-tó partján (ókori név Anhialo).",
                   "category": "recreational",
                   "coords": [
                         27.590953,
@@ -1161,7 +1161,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Diyana",
-                  "text": "Egy strand a Pomorie-tó közelében, a Fekete-tengeren.",
+                  "text": "Diana nevű strand a Pomorie-tónál.",
                   "category": "recreational",
                   "coords": [
                         27.595813,
@@ -1170,7 +1170,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Severen plazh Pomorie",
-                  "text": "Strand a Pomorie-tónál, a Fekete-tenger mentén.",
+                  "text": "Pomorie északi strandja a tó partján.",
                   "category": "recreational",
                   "coords": [
                         27.640121,
@@ -1179,7 +1179,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Galera",
-                  "text": "Strand a Pomorie-tónál, a Fekete-tenger mentén.",
+                  "text": "Galera strand a Pomorie-tónál.",
                   "category": "recreational",
                   "coords": [
                         27.596539,
@@ -1188,7 +1188,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Plazh \"Cheren pyasak\"",
-                  "text": "Strand a Pomorie-tónál, a Fekete-tenger mentén.",
+                  "text": "Fekete homokos strand a Pomorie-tónál.",
                   "category": "recreational",
                   "coords": [
                         27.63312,
@@ -1208,7 +1208,7 @@ export const bulgariaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Anhialo",
-                  "text": "O plajă lângă Lacul Pomorie la Marea Neagră.",
+                  "text": "Zonă de agrement pe malul lacului Pomorie (nume antic Anhialo).",
                   "category": "recreational",
                   "coords": [
                         27.590953,
@@ -1217,7 +1217,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Diyana",
-                  "text": "O plajă lângă Lacul Pomorie la Marea Neagră.",
+                  "text": "Plaja Diana pe lacul Pomorie.",
                   "category": "recreational",
                   "coords": [
                         27.595813,
@@ -1226,7 +1226,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Severen plazh Pomorie",
-                  "text": "O plajă lângă lacul Pomorie, la Marea Neagră.",
+                  "text": "Plaja de Nord a orașului Pomorie pe lac.",
                   "category": "recreational",
                   "coords": [
                         27.640121,
@@ -1235,7 +1235,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Galera",
-                  "text": "O plajă lângă lacul Pomorie, la Marea Neagră.",
+                  "text": "Plaja Galera pe lacul Pomorie.",
                   "category": "recreational",
                   "coords": [
                         27.596539,
@@ -1244,7 +1244,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Plazh \"Cheren pyasak\"",
-                  "text": "O plajă lângă lacul Pomorie, la Marea Neagră.",
+                  "text": "Plaja cu nisip negru pe lacul Pomorie.",
                   "category": "recreational",
                   "coords": [
                         27.63312,
@@ -1264,7 +1264,7 @@ export const bulgariaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Anhialo",
-                  "text": "A beach near Pomorie Lake on the Black Sea.",
+                  "text": "Recreational area on the shores of Pomorie Lake (ancient Anhialo).",
                   "category": "recreational",
                   "coords": [
                         27.590953,
@@ -1273,7 +1273,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Diyana",
-                  "text": "A beach near Pomorie Lake on the Black Sea.",
+                  "text": "Diana beach on Pomorie Lake.",
                   "category": "recreational",
                   "coords": [
                         27.595813,
@@ -1282,7 +1282,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Severen plazh Pomorie",
-                  "text": "A beach section at Pomorie Lake on the Black Sea.",
+                  "text": "Northern beach of Pomorie on the lake.",
                   "category": "recreational",
                   "coords": [
                         27.640121,
@@ -1291,7 +1291,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Galera",
-                  "text": "A beach at Pomorie Lake on the Black Sea.",
+                  "text": "Galera beach on Pomorie Lake.",
                   "category": "recreational",
                   "coords": [
                         27.596539,
@@ -1300,7 +1300,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Plazh \"Cheren pyasak\"",
-                  "text": "A beach at Pomorie Lake on the Black Sea.",
+                  "text": "Black sand beach on Pomorie Lake.",
                   "category": "recreational",
                   "coords": [
                         27.63312,
@@ -1366,7 +1366,7 @@ export const bulgariaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Kamchiya",
-                  "text": "Ein Strand im Naturschutzgebiet Kamchia am Schwarzen Meer.",
+                  "text": "Erholungsgebiet am Fluss Kamtschija im Naturschutzgebiet Kamtschija.",
                   "category": "recreational",
                   "coords": [
                         27.889367,
@@ -1375,7 +1375,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "amphitheater Kamchia",
-                  "text": "Ein Amphitheater im Kamchia-Reservat, das für kulturelle Veranstaltungen genutzt wird.",
+                  "text": "Freilicht-Amphitheater im Naturschutzgebiet Kamtschija.",
                   "category": "cultural",
                   "coords": [
                         27.886918,
@@ -1420,7 +1420,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "Ein Freizeitpark im Naturschutzgebiet Kamtschia.",
+                  "text": "Erholungskomplex Khepilend im Naturschutzgebiet Kamtschija.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -1431,7 +1431,7 @@ export const bulgariaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Kamchiya",
-                  "text": "Strand a Kamchia Természetvédelmi Területen a Fekete-tengeren.",
+                  "text": "Pihenőövezet a Kamchiya folyó mentén a Kamchiya-rezervátumban.",
                   "category": "recreational",
                   "coords": [
                         27.889367,
@@ -1440,7 +1440,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "amphitheater Kamchia",
-                  "text": "Kulturális eseményeknek otthont adó amfiteátrum a Kamcsija-rezervátumban.",
+                  "text": "Szabadtéri amfiteátrum a Kamchiya-rezervátumban.",
                   "category": "cultural",
                   "coords": [
                         27.886918,
@@ -1485,7 +1485,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "Szórakoztató park a Kamcsija-rezervátum területén.",
+                  "text": "Khepilend pihenőkomplexum a Kamchiya-rezervátumban.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -1496,7 +1496,7 @@ export const bulgariaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Kamchiya",
-                  "text": "O plajă în Rezervația Kamchia la Marea Neagră.",
+                  "text": "Zonă de agrement pe râul Kamchia în Rezervația Kamchia.",
                   "category": "recreational",
                   "coords": [
                         27.889367,
@@ -1505,7 +1505,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "amphitheater Kamchia",
-                  "text": "Un amfiteatru situat în rezervația Kamchia, utilizat pentru evenimente culturale.",
+                  "text": "Amfiteatru în aer liber în Rezervația Kamchia.",
                   "category": "cultural",
                   "coords": [
                         27.886918,
@@ -1550,7 +1550,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "Un parc tematic în Rezervația Kamchia.",
+                  "text": "Complex de agrement Khepilend în Rezervația Kamchia.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -1561,7 +1561,7 @@ export const bulgariaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Kamchiya",
-                  "text": "A beach in the Kamchia Reserve on the Black Sea.",
+                  "text": "Recreational area along the Kamchia River in Kamchia Reserve.",
                   "category": "recreational",
                   "coords": [
                         27.889367,
@@ -1570,7 +1570,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "amphitheater Kamchia",
-                  "text": "An amphitheater in the Kamchia Reserve used for cultural events.",
+                  "text": "Open-air amphitheatre in Kamchia Reserve.",
                   "category": "cultural",
                   "coords": [
                         27.886918,
@@ -1615,7 +1615,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "A theme park located within the Kamchia Reserve.",
+                  "text": "Khepilend recreational complex in Kamchia Reserve.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -1672,7 +1672,7 @@ export const bulgariaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Krepost Urvich",
-                  "text": "Die Ruinen einer mittelalterlichen Festung im Bistritsa-Wald.",
+                  "text": "Ruinen der mittelalterlichen Burg Urvich im Bistritza-Wald.",
                   "category": "castle",
                   "coords": [
                         23.424311,
@@ -1710,7 +1710,7 @@ export const bulgariaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Krepost Urvich",
-                  "text": "Egy középkori erőd romjai a Bisztrica-erdőben.",
+                  "text": "Az Urvich középkori vár romjai a Bistrica-erdőben.",
                   "category": "castle",
                   "coords": [
                         23.424311,
@@ -1748,7 +1748,7 @@ export const bulgariaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Krepost Urvich",
-                  "text": "Ruinele unei cetăți medievale situate în pădurea Bistrița.",
+                  "text": "Ruinele castelului medieval Urvich în Pădurea Bistrița.",
                   "category": "castle",
                   "coords": [
                         23.424311,
@@ -1786,7 +1786,7 @@ export const bulgariaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Urvich fortress",
-                  "text": "The ruins of a medieval fortress located in the Bistritsa Forest.",
+                  "text": "Ruins of Urvich medieval fortress in Bistritsa Forest.",
                   "category": "castle",
                   "coords": [
                         23.424311,
@@ -2005,7 +2005,7 @@ export const bulgariaLifeV2: POI[] = [
       "de": [
             {
                   "name": "plazh Kabakum Sever",
-                  "text": "Ein Strand nahe dem Goldstrand am Schwarzen Meer.",
+                  "text": "Nördlicher Kabakum-Strand im Naturpark Goldstrand.",
                   "category": "recreational",
                   "coords": [
                         28.032213,
@@ -2014,7 +2014,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Riviera",
-                  "text": "Ein Strand im Park Slatni Pjasazi am Schwarzen Meer.",
+                  "text": "Riviera-Strandresort im Naturpark Goldstrand.",
                   "category": "recreational",
                   "coords": [
                         28.041081,
@@ -2023,7 +2023,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Chayka Sever",
-                  "text": "Ein Strand im Park Slatni Pjasazi am Schwarzen Meer.",
+                  "text": "Nördlicher Tschajka-Strand (Möwe) im Naturpark Goldstrand.",
                   "category": "recreational",
                   "coords": [
                         28.038794,
@@ -2050,7 +2050,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Aladzha Monastery catacombs",
-                  "text": "Antike Katakomben in der Nähe des Höhlenklosters Aladscha.",
+                  "text": "Felsengänge des Aladscha-Klosters im Naturpark Goldstrand.",
                   "category": "historical",
                   "coords": [
                         28.011334,
@@ -2077,7 +2077,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "plazh Lotos",
-                  "text": "Ein ruhiger Strandabschnitt im Naturpark Goldstrand.",
+                  "text": "Lotosstrand im Naturpark Goldstrand.",
                   "category": "recreational",
                   "coords": [
                         28.042788,
@@ -2122,7 +2122,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Vodna p'rzalka",
-                  "text": "Eine Wasserrutsche im Naturpark Goldstrand.",
+                  "text": "Wasserrutsche (Wasserpark) im Naturpark Goldstrand.",
                   "category": "recreational",
                   "coords": [
                         28.047118,
@@ -2142,7 +2142,7 @@ export const bulgariaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "plazh Kabakum Sever",
-                  "text": "Egy strand az Aranyhomok közelében, a Fekete-tengeren.",
+                  "text": "Kabakum északi strandja az Aranyhomok Természeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         28.032213,
@@ -2151,7 +2151,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Riviera",
-                  "text": "Strand a Zlatni Pyasatsi Parkban, a Fekete-tengeren.",
+                  "text": "Riviera strandüdülő az Aranyhomok Természeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         28.041081,
@@ -2160,7 +2160,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Chayka Sever",
-                  "text": "Strand a Zlatni Pyasatsi Parkban, a Fekete-tengeren.",
+                  "text": "Csajka (Sirály) északi strand az Aranyhomok Természeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         28.038794,
@@ -2187,7 +2187,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Aladzha Monastery catacombs",
-                  "text": "Antik katakombák az Aladzha sziklakolostor közelében.",
+                  "text": "Az Aladzha-kolostor sziklába vájt katakombái az Aranyhomok Parkban.",
                   "category": "historical",
                   "coords": [
                         28.011334,
@@ -2214,7 +2214,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "plazh Lotos",
-                  "text": "Nyugodt tengerparti szakasz az Aranyhomok Natúrparkban.",
+                  "text": "Lótusz strand az Aranyhomok Természeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         28.042788,
@@ -2259,7 +2259,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Vodna p'rzalka",
-                  "text": "Vízicsúszda az Aranyhomok Natúrparkban.",
+                  "text": "Vízi csúszda (vízipark) az Aranyhomok Természeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         28.047118,
@@ -2279,7 +2279,7 @@ export const bulgariaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "plazh Kabakum Sever",
-                  "text": "O plajă lângă Nisipurile de Aur la Marea Neagră.",
+                  "text": "Plaja de Nord Kabakum în Parcul Natural Zlatni Pyasatsi.",
                   "category": "recreational",
                   "coords": [
                         28.032213,
@@ -2288,7 +2288,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Riviera",
-                  "text": "O plajă în parcul Zlatni Pyasatsi, la Marea Neagră.",
+                  "text": "Stațiunea de plajă Riviera în Parcul Natural Zlatni Pyasatsi.",
                   "category": "recreational",
                   "coords": [
                         28.041081,
@@ -2297,7 +2297,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Chayka Sever",
-                  "text": "O plajă în parcul Zlatni Pyasatsi, la Marea Neagră.",
+                  "text": "Plaja de Nord Chayka (Pescăruș) în Parcul Natural Zlatni Pyasatsi.",
                   "category": "recreational",
                   "coords": [
                         28.038794,
@@ -2324,7 +2324,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Aladzha Monastery catacombs",
-                  "text": "Catacombe antice situate în apropierea mănăstirii rupestre Aladzha.",
+                  "text": "Catacombele săpate în stâncă ale Mănăstirii Aladzha în Parcul Zlatni Pyasatsi.",
                   "category": "historical",
                   "coords": [
                         28.011334,
@@ -2351,7 +2351,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "plazh Lotos",
-                  "text": "O secțiune liniștită de plajă în Parcul Natural Nisipurile de Aur.",
+                  "text": "Plaja Lotos în Parcul Natural Zlatni Pyasatsi.",
                   "category": "recreational",
                   "coords": [
                         28.042788,
@@ -2396,7 +2396,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Vodna p'rzalka",
-                  "text": "Un tobogan acvatic situat în Parcul Natural Nisipurile de Aur.",
+                  "text": "Parcul acvatic (tobogan de apă) în Parcul Natural Zlatni Pyasatsi.",
                   "category": "recreational",
                   "coords": [
                         28.047118,
@@ -2416,7 +2416,7 @@ export const bulgariaLifeV2: POI[] = [
       "en": [
             {
                   "name": "plazh Kabakum Sever",
-                  "text": "A beach near Golden Sands on the Black Sea.",
+                  "text": "Northern Kabakum beach in Golden Sands Nature Park.",
                   "category": "recreational",
                   "coords": [
                         28.032213,
@@ -2425,7 +2425,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Riviera",
-                  "text": "A beach in Zlatni Pyasatsi Park on the Black Sea.",
+                  "text": "Riviera beach resort in Golden Sands Nature Park.",
                   "category": "recreational",
                   "coords": [
                         28.041081,
@@ -2434,7 +2434,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Chayka Sever",
-                  "text": "A beach in Zlatni Pyasatsi Park on the Black Sea.",
+                  "text": "Northern Chayka (Seagull) beach in Golden Sands Nature Park.",
                   "category": "recreational",
                   "coords": [
                         28.038794,
@@ -2461,7 +2461,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Aladzha Monastery catacombs",
-                  "text": "Ancient catacombs located near the Aladzha cave monastery.",
+                  "text": "Rock-hewn catacombs of Aladzha Monastery in Golden Sands Park.",
                   "category": "historical",
                   "coords": [
                         28.011334,
@@ -2488,7 +2488,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Lotos Beach",
-                  "text": "A quiet beach section in the Golden Sands Nature Park.",
+                  "text": "Lotos Beach in Golden Sands Nature Park.",
                   "category": "recreational",
                   "coords": [
                         28.042788,
@@ -2533,7 +2533,7 @@ export const bulgariaLifeV2: POI[] = [
             },
             {
                   "name": "Vodna p'rzalka",
-                  "text": "A water slide located in the Golden Sands Nature Park.",
+                  "text": "Water slide park in Golden Sands Nature Park.",
                   "category": "recreational",
                   "coords": [
                         28.047118,

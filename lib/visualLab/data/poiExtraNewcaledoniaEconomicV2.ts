@@ -682,7 +682,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Centre culturel Pomémie",
-                  "text": "Das Centre culturel Pomémie ist ein Kunstzentrum in Wirtschaftszentrum Koné.",
+                  "text": "Kulturzentrum mit Ausstellungen traditioneller Kanak-Kunst in Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.885275,
@@ -691,7 +691,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tu Koohnê Plongée",
-                  "text": "Tu Koohnê Plongée ist eine Attraktion in Wirtschaftszentrum Koné.",
+                  "text": "Tauchbasis mit Ausflügen zum Korallenriff des Ozeans in Kone Economic Pole.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
@@ -700,7 +700,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Complexe culturel",
-                  "text": "Der Complexe culturel ist ein Kunstzentrum in Wirtschaftszentrum Koné.",
+                  "text": "Moderner Kulturkomplex mit Theater, Bibliothek und Veranstaltungssälen in Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
@@ -709,7 +709,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de Koné",
-                  "text": "Die Église de Koné ist eine Kultstätte in Wirtschaftszentrum Koné.",
+                  "text": "Hauptkirche von Koné im Wirtschaftszentrum Kone Economic Pole.",
                   "category": "religious",
                   "coords": [
                         164.861331,
@@ -720,7 +720,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Centre culturel Pomémie",
-                  "text": "A Centre culturel Pomémie egy művészeti központ Wirtschaftszentrum Koné városában.",
+                  "text": "Kulturális központ hagyományos kanak művészeti kiállításokkal a Kone Economic Pole-ban.",
                   "category": "cultural",
                   "coords": [
                         164.885275,
@@ -729,7 +729,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tu Koohnê Plongée",
-                  "text": "A Tu Koohnê Plongée egy látványosság Wirtschaftszentrum Koné városában.",
+                  "text": "Búvárközpont kirándulásokkal az óceáni korallzátonyhoz a Kone Economic Pole-ban.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
@@ -738,7 +738,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Complexe culturel",
-                  "text": "A Complexe culturel egy művészeti központ Wirtschaftszentrum Koné városában.",
+                  "text": "Modern kulturális komplexum színházzal, könyvtárral és rendezvénytermekkel a Kone Economic Pole-ban.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
@@ -747,7 +747,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de Koné",
-                  "text": "Az Église de Koné egy vallási épület Wirtschaftszentrum Koné városában.",
+                  "text": "Koné főtemploma a Kone Economic Pole gazdasági központban.",
                   "category": "religious",
                   "coords": [
                         164.861331,
@@ -758,7 +758,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Centre culturel Pomémie",
-                  "text": "Centre culturel Pomémie este un centru de artă în Wirtschaftszentrum Koné.",
+                  "text": "Centru cultural cu expoziții de artă tradițională kanak în Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.885275,
@@ -767,7 +767,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tu Koohnê Plongée",
-                  "text": "Tu Koohnê Plongée este o atracție turistică în Wirtschaftszentrum Koné.",
+                  "text": "Bază de scufundări cu excursii la reciful de corali al oceanului în Kone Economic Pole.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
@@ -776,7 +776,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Complexe culturel",
-                  "text": "Complexe culturel este un centru de artă în Wirtschaftszentrum Koné.",
+                  "text": "Complex cultural modern cu teatru, bibliotecă și săli de evenimente în Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
@@ -785,7 +785,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de Koné",
-                  "text": "Église de Koné este un lăcaș de cult în Wirtschaftszentrum Koné.",
+                  "text": "Biserica principală din Koné în centrul economic Kone Economic Pole.",
                   "category": "religious",
                   "coords": [
                         164.861331,
@@ -796,7 +796,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Centre culturel Pomémie",
-                  "text": "Centre culturel Pomémie is an arts centre located in Wirtschaftszentrum Koné.",
+                  "text": "Cultural centre with traditional Kanak art exhibitions in Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.885275,
@@ -805,7 +805,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Tu Koohnê Plongée",
-                  "text": "Tu Koohnê Plongée is an attraction located in Wirtschaftszentrum Koné.",
+                  "text": "Diving centre with trips to the ocean coral reef in Kone Economic Pole.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
@@ -814,7 +814,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Complexe culturel",
-                  "text": "Complexe culturel is an arts centre in Wirtschaftszentrum Koné.",
+                  "text": "Modern cultural complex with theatre, library and event halls in Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
@@ -823,7 +823,7 @@ export const newcaledoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de Koné",
-                  "text": "Église de Koné is a place of worship located in Wirtschaftszentrum Koné.",
+                  "text": "Main church of Koné in the Kone Economic Pole centre.",
                   "category": "religious",
                   "coords": [
                         164.861331,

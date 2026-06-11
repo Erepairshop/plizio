@@ -266,7 +266,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Mirador",
-                  "text": "Dieser Mirador ist ein Aussichtspunkt am Vulkan Tacaná.",
+                  "text": "Aussichtspunkt an den Hängen des Tacaná-Vulkans.",
                   "category": "natural",
                   "coords": [
                         -92.105535,
@@ -275,7 +275,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biosfera Volcán Tacaná",
-                  "text": "Die Reserva de la Biosfera Volcán Tacaná schützt die Natur rund um den Vulkan.",
+                  "text": "Geschütztes Biosphärenreservat um den Tacaná-Vulkan, bekannt für seinen Nebelwald.",
                   "category": "natural",
                   "coords": [
                         -92.133649,
@@ -284,7 +284,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Parque Regional Municipal Sibinal",
-                  "text": "Der Parque Regional Municipal Sibinal ist ein Naturreservat in der Region Tacaná.",
+                  "text": "Städtischer Regionalpark mit Wanderwegen durch Nebelwald nahe Sibinal.",
                   "category": "natural",
                   "coords": [
                         -92.103765,
@@ -295,7 +295,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Mirador",
-                  "text": "Ez a Mirador egy kilátópont a Tacaná vulkánon.",
+                  "text": "Kilátó a Tacaná vulkán lejtőin.",
                   "category": "natural",
                   "coords": [
                         -92.105535,
@@ -304,7 +304,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biosfera Volcán Tacaná",
-                  "text": "A Reserva de la Biosfera Volcán Tacaná védi a természetet a vulkán körül.",
+                  "text": "Védett bioszféra-rezervátum a Tacaná vulkán körül, köderdőiről ismert.",
                   "category": "natural",
                   "coords": [
                         -92.133649,
@@ -313,7 +313,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Parque Regional Municipal Sibinal",
-                  "text": "A Parque Regional Municipal Sibinal egy természetvédelmi terület a Tacaná régióban.",
+                  "text": "Városi regionális park túraútvonalakkal a köderdőben Sibinal közelében.",
                   "category": "natural",
                   "coords": [
                         -92.103765,
@@ -324,7 +324,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Mirador",
-                  "text": "Acest mirador este un punct de belvedere pe vulcanul Tacaná.",
+                  "text": "Belvedere pe versanții vulcanului Tacaná.",
                   "category": "natural",
                   "coords": [
                         -92.105535,
@@ -333,7 +333,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biosfera Volcán Tacaná",
-                  "text": "Rezervația Biosferei Volcán Tacaná protejează natura din jurul vulcanului.",
+                  "text": "Rezervație a biosferei protejată în jurul vulcanului Tacaná, cunoscută pentru pădurea de ceață.",
                   "category": "natural",
                   "coords": [
                         -92.133649,
@@ -342,7 +342,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Parque Regional Municipal Sibinal",
-                  "text": "Parcul Regional Municipal Sibinal este o rezervație naturală în regiunea Tacaná.",
+                  "text": "Parc regional municipal cu trasee prin pădurea de ceață lângă Sibinal.",
                   "category": "natural",
                   "coords": [
                         -92.103765,
@@ -353,7 +353,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mirador",
-                  "text": "This mirador is a viewpoint on the Tacaná volcano.",
+                  "text": "Viewpoint on the slopes of Tacaná volcano.",
                   "category": "natural",
                   "coords": [
                         -92.105535,
@@ -362,7 +362,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biosfera Volcán Tacaná",
-                  "text": "The Reserva de la Biosfera Volcán Tacaná protects the nature around the volcano.",
+                  "text": "Protected biosphere reserve around Tacaná volcano, known for its cloud forest.",
                   "category": "natural",
                   "coords": [
                         -92.133649,
@@ -371,7 +371,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
             },
             {
                   "name": "Parque Regional Municipal Sibinal",
-                  "text": "Parque Regional Municipal Sibinal is a nature reserve in the Tacaná region.",
+                  "text": "Municipal regional park with trails through cloud forest near Sibinal.",
                   "category": "natural",
                   "coords": [
                         -92.103765,

@@ -232,7 +232,7 @@ export const nauruHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Naoero Museum",
-                  "text": "Das Naoero Museum ist ein Museum in Historische Siedlung Buada.",
+                  "text": "Eine Zweigstelle des Nationalmuseums von Nauru an der Fundstätte Buada.",
                   "category": "museum",
                   "coords": [
                         166.914786,
@@ -250,7 +250,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Das Monument to the Nauruans Exiled in WWII ist ein historisches Denkmal in Historische Siedlung Buada.",
+                  "text": "Denkmal für die im Zweiten Weltkrieg deportierten Nauruer in Buada.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -268,7 +268,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "Broken Down Cantilever Cranes ist eine Attraktion in Historische Siedlung Buada.",
+                  "text": "Verfallene Auslegerkräne auf dem Gelände von Buada.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -286,7 +286,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Japanese WWII Prison ist eine Attraktion in Historische Siedlung Buada.",
+                  "text": "Japanisches Gefängnis aus dem Zweiten Weltkrieg in Buada.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -304,7 +304,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Gun ist ein Aussichtspunkt in Historische Siedlung Buada.",
+                  "text": "Natürliche Felsformation in Form einer Kanone in Buada.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -322,7 +322,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Japanese WWII guns and bunker ist eine historische Attraktion in Historische Siedlung Buada.",
+                  "text": "Japanische Geschütze und Bunker aus dem Zweiten Weltkrieg in Buada.",
                   "category": "landmark",
                   "coords": [
                         166.92438,
@@ -333,7 +333,7 @@ export const nauruHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Naoero Museum",
-                  "text": "A Naoero Museum egy múzeum Historische Siedlung Buada területén.",
+                  "text": "A Naurui Nemzeti Múzeum egy fióktelepe a Buada lelőhelyen.",
                   "category": "museum",
                   "coords": [
                         166.914786,
@@ -351,7 +351,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "A Monument to the Nauruans Exiled in WWII egy történelmi emlékmű Historische Siedlung Buada területén.",
+                  "text": "A második világháborúban száműzött nauruiak emlékműve Buadában.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -369,7 +369,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "A Broken Down Cantilever Cranes egy látványosság Historische Siedlung Buada területén.",
+                  "text": "Leromlott konzolos daruk Buada Settlement Site területén.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -387,7 +387,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "A Japanese WWII Prison egy látványosság Historische Siedlung Buada területén.",
+                  "text": "Japán második világháborús börtön Buadában.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -405,7 +405,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "A Gun egy kilátó Historische Siedlung Buada területén.",
+                  "text": "Természetes, ágyú alakú sziklaformáció Buadában.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -423,7 +423,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "A Japanese WWII guns and bunker egy történelmi látványosság Historische Siedlung Buada területén.",
+                  "text": "Japán második világháborús ágyúk és bunker Buadában.",
                   "category": "landmark",
                   "coords": [
                         166.92438,
@@ -434,7 +434,7 @@ export const nauruHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Naoero Museum",
-                  "text": "Naoero Museum este un muzeu situat în Historische Siedlung Buada.",
+                  "text": "O sucursală a muzeului național din Nauru la situl Buada Settlement.",
                   "category": "museum",
                   "coords": [
                         166.914786,
@@ -452,7 +452,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument to the Nauruans Exiled in WWII este un monument istoric situat în Historische Siedlung Buada.",
+                  "text": "Monument pentru nauruanii exilați în al Doilea Război Mondial, în Buada.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -470,7 +470,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "Broken Down Cantilever Cranes este o atracție situată în Historische Siedlung Buada.",
+                  "text": "Macarale cantilever dărăpănate în Buada Settlement Site.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -488,7 +488,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Japanese WWII Prison este o atracție situată în Historische Siedlung Buada.",
+                  "text": "Închisoare japoneză din al Doilea Război Mondial în Buada.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -506,7 +506,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Gun este un punct de belvedere situat în Historische Siedlung Buada.",
+                  "text": "Formațiune naturală de stâncă în formă de tun în Buada.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -524,7 +524,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Japanese WWII guns and bunker este o atracție istorică în Historische Siedlung Buada.",
+                  "text": "Tunuri și buncăr japoneze din al Doilea Război Mondial în Buada.",
                   "category": "landmark",
                   "coords": [
                         166.92438,
@@ -535,7 +535,7 @@ export const nauruHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Naoero Museum",
-                  "text": "Naoero Museum is a museum situated in Historische Siedlung Buada.",
+                  "text": "A branch of the national museum of Nauru at Buada Settlement site.",
                   "category": "museum",
                   "coords": [
                         166.914786,
@@ -553,7 +553,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument to the Nauruans Exiled in WWII is a historical monument located in Historische Siedlung Buada.",
+                  "text": "Monument to the Nauruans exiled in WWII in Buada.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -571,7 +571,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "Broken Down Cantilever Cranes is an attraction located in Historische Siedlung Buada.",
+                  "text": "Broken down cantilever cranes at Buada Settlement Site.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -589,7 +589,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Japanese WWII Prison is an attraction located in Historische Siedlung Buada.",
+                  "text": "Japanese WWII prison in Buada.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -607,7 +607,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Gun is a viewpoint situated in Historische Siedlung Buada.",
+                  "text": "Natural rock formation resembling a gun in Buada.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -625,7 +625,7 @@ export const nauruHistoryV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Japanese WWII guns and bunker is a historical attraction in Historische Siedlung Buada.",
+                  "text": "Japanese WWII guns and bunker in Buada.",
                   "category": "landmark",
                   "coords": [
                         166.92438,

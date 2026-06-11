@@ -1441,7 +1441,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       "de": [
             {
                   "name": "Landschaftsreservat \"Sorotschanski-Seen\"",
-                  "text": "Ein Landschaftsschutzgebiet, das die Sorotschanski-Seen umfasst.",
+                  "text": "Das Landschaftsschutzgebiet Sorotschanski-Seen wurde am 25. Mai 1998 ausgewiesen.",
                   "category": "natural",
                   "coords": [
                         26.188363,
@@ -1452,7 +1452,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       "hu": [
             {
                   "name": "Landshaftny zakaznik <<Sarachanskiia aziory>>",
-                  "text": "Tájvédelmi körzet, amely a Szorocsanszkij-tavakat foglalja magában.",
+                  "text": "A Sorocsanszki-tavak Tájvédelmi Körzetet 1998. május 25-én hozták létre.",
                   "category": "natural",
                   "coords": [
                         26.188363,
@@ -1463,7 +1463,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       "ro": [
             {
                   "name": "Landshaftny zakaznik <<Sarachanskiia aziory>>",
-                  "text": "O rezervație peisagistică ce cuprinde lacurile Sorochanskiye.",
+                  "text": "Rezervația Peisagistică a Lacurilor Sorochansky a fost înființată pe 25 mai 1998.",
                   "category": "natural",
                   "coords": [
                         26.188363,
@@ -1474,7 +1474,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       "en": [
             {
                   "name": "Sorochansky Lakes Landscape Reserve",
-                  "text": "A landscape reserve encompassing the Sorochanskiye Lakes.",
+                  "text": "The Sorochansky Lakes Landscape Reserve was established on 25 May 1998.",
                   "category": "natural",
                   "coords": [
                         26.188363,

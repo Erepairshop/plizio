@@ -29,7 +29,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Northern Red Sea Region Museum",
-                  "text": "Das Northern Red Sea Region Museum ist eine Museumseinrichtung in Massaua.",
+                  "text": "Ein Museum in Massawa, das Artefakte von der eritreischen Küste des Roten Meeres ausstellt.",
                   "category": "museum",
                   "coords": [
                         39.451783,
@@ -38,7 +38,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Stätte der Villa Melotti",
-                  "text": "Die Stätte der Villa Melotti ist eine lokale Touristenattraktion in Massaua.",
+                  "text": "Die Überreste einer historischen italienischen Villa in Massawa aus der Kolonialzeit.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
@@ -56,7 +56,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bootsfahrt nach Green Island",
-                  "text": "Die Bootsfahrt nach Green Island ist eine Touristenattraktion in Massaua.",
+                  "text": "Ein Boot, das Besucher zur korallenreichen Grünen Insel vor Massawa bringt.",
                   "category": "landmark",
                   "coords": [
                         39.471448,
@@ -65,7 +65,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "ehemalige Kaiserpalast",
-                  "text": "Der ehemalige Kaiserpalast ist eine historische Sehenswürdigkeit in Massaua.",
+                  "text": "Der ehemalige Palast von Kaiser Haile Selassie in Massawa, heute ein Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         39.468756,
@@ -85,7 +85,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Northern Red Sea Region Museum",
-                  "text": "A Northern Red Sea Region Museum egy múzeumi intézmény Massaua városában.",
+                  "text": "Múzeum Masszavában, az eritreai Vörös-tenger partvidékének tárgyaival.",
                   "category": "museum",
                   "coords": [
                         39.451783,
@@ -94,7 +94,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Melotti helyszíne",
-                  "text": "A Villa Melotti helyszíne egy helyi turisztikai látványosság Massaua városában.",
+                  "text": "Egy történelmi olasz villa maradványai Masszavában a gyarmati időkből.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
@@ -112,7 +112,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Green Islandre tartó hajó",
-                  "text": "A Green Islandre tartó hajó egy turisztikai attrakció Massaua városában.",
+                  "text": "Hajó, amely látogatókat visz a korallokban gazdag Zöld-szigetre Masszava közelében.",
                   "category": "landmark",
                   "coords": [
                         39.471448,
@@ -121,7 +121,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "egykori császári palota",
-                  "text": "Az egykori császári palota egy történelmi látványosság Massaua városában.",
+                  "text": "Haile Selassie császár egykori palotája Masszavában, ma nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         39.468756,
@@ -141,7 +141,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Northern Red Sea Region Museum",
-                  "text": "Northern Red Sea Region Museum este un muzeu situat în Massaua.",
+                  "text": "Un muzeu în Massawa, care expune artefacte de pe coasta eritreeană a Mării Roșii.",
                   "category": "museum",
                   "coords": [
                         39.451783,
@@ -150,7 +150,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Situl Villa Melotti",
-                  "text": "Situl Villa Melotti este o atracție turistică locală situată în Massaua.",
+                  "text": "Rămășițele unei vile istorice italiene în Massawa din perioada colonială.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
@@ -168,7 +168,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Barca spre Green Island",
-                  "text": "Barca spre Green Island este o atracție turistică din Massaua.",
+                  "text": "O barcă care duce vizitatorii pe Insula Verde, bogată în corali, în largul Massawei.",
                   "category": "landmark",
                   "coords": [
                         39.471448,
@@ -177,7 +177,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Fostul Palat Imperial",
-                  "text": "Fostul Palat Imperial este o atracție istorică situată în Massaua.",
+                  "text": "Fostul palat al împăratului Haile Selassie în Massawa, acum un reper.",
                   "category": "landmark",
                   "coords": [
                         39.468756,
@@ -197,7 +197,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Northern Red Sea Region Museum",
-                  "text": "The Northern Red Sea Region Museum is a museum institution located in Massaua.",
+                  "text": "A museum in Massawa displaying artifacts from the Eritrean Red Sea coast.",
                   "category": "museum",
                   "coords": [
                         39.451783,
@@ -206,7 +206,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Site of Villa Melotti",
-                  "text": "The Site of Villa Melotti is a local tourist attraction situated in Massaua.",
+                  "text": "The remains of a historic Italian villa in Massawa from the colonial period.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
@@ -224,7 +224,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Boat to Green Island",
-                  "text": "The Boat to Green Island is a tourist attraction offering services in Massaua.",
+                  "text": "A boat that takes visitors to Green Island, a coral-rich island off Massawa.",
                   "category": "landmark",
                   "coords": [
                         39.471448,
@@ -233,7 +233,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             },
             {
                   "name": "Former Imperial Palace",
-                  "text": "The Former Imperial Palace is a historical attraction found in Massaua.",
+                  "text": "The former palace of Emperor Haile Selassie in Massawa, now a landmark.",
                   "category": "landmark",
                   "coords": [
                         39.468756,
@@ -276,7 +276,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Tigu",
-                  "text": "Fort Tigu ist eine historische Festungsanlage in der Stadt Keren.",
+                  "text": "Eine historische Festung in Keren, bekannt für ihre Rolle in der Schlacht von Keren.",
                   "category": "castle",
                   "coords": [
                         38.452188,
@@ -287,7 +287,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Tigu",
-                  "text": "A Tigu erőd egy történelmi vár Keren városában.",
+                  "text": "Történelmi erőd Kerenchen, amely a Kereni csatában játszott szerepéről ismert.",
                   "category": "castle",
                   "coords": [
                         38.452188,
@@ -298,7 +298,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Tigu",
-                  "text": "Fortul Tigu este un castel istoric situat în orașul Keren.",
+                  "text": "O fortăreață istorică în Keren, cunoscută pentru rolul său în Bătălia de la Keren.",
                   "category": "castle",
                   "coords": [
                         38.452188,
@@ -309,7 +309,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Tigu",
-                  "text": "Fort Tigu is a historic castle located in the city of Keren.",
+                  "text": "A historic fort in Keren, known for its role in the Battle of Keren.",
                   "category": "castle",
                   "coords": [
                         38.452188,
@@ -343,7 +343,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Arsinoé",
-                  "text": "Arsinoé ist eine archäologische Stätte in der Stadt Assab.",
+                  "text": "Die Ruinen einer ptolemäischen Hafenstadt an der Küste des Roten Meeres.",
                   "category": "historical",
                   "coords": [
                         42.736553,
@@ -354,7 +354,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Arsinoé",
-                  "text": "Arsinoé egy régészeti lelőhely Assab városában.",
+                  "text": "Egy ptolemaioszi kikötőváros romjai a Vörös-tenger partján.",
                   "category": "historical",
                   "coords": [
                         42.736553,
@@ -365,7 +365,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Arsinoé",
-                  "text": "Arsinoé este un sit arheologic situat în orașul Assab.",
+                  "text": "Ruinele unui oraș-port ptolemaic pe coasta Mării Roșii.",
                   "category": "historical",
                   "coords": [
                         42.736553,
@@ -376,7 +376,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Arsinoé",
-                  "text": "Arsinoé is an archaeological site located in the city of Assab.",
+                  "text": "The ruins of a Ptolemaic port city on the Red Sea coast.",
                   "category": "historical",
                   "coords": [
                         42.736553,

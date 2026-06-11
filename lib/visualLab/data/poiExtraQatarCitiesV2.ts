@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraQatarCitiesV2: POI[] = [
   {
-    id: "qa-doha-cities-v2",
+    id: "qa-doha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Souq Waqif",
+                  "text": "Ein ikonischer Basar mit lehmverputzten Gebäuden, bekannt für seine Gewürze, Kunsthandwerk und traditionellen Cafés.",
+                  "category": "landmark",
+                  "coords": [
+                        51.532945,
+                        25.286973
+                  ]
+            },
+            {
+                  "name": "Masjid An Najada",
+                  "text": "Diese traditionelle Moschee in der Nähe des Souq Waqif besticht durch ihre klassische katarische Bauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533315,
+                        25.285511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souq Waqif",
+                  "text": "Ikonikus bazár vályogépületekkel, amely fűszereiről, kézműves termékeiről és hagyományos kávézóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.532945,
+                        25.286973
+                  ]
+            },
+            {
+                  "name": "Masjid An Najada",
+                  "text": "Ez a Souq Waqif közelében található hagyományos mecset klasszikus katari építészeti stílusával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533315,
+                        25.285511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souq Waqif",
+                  "text": "Un bazar iconic cu clădiri tencuite cu lut, cunoscut pentru mirodenii, artizanat și cafenele tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.532945,
+                        25.286973
+                  ]
+            },
+            {
+                  "name": "Masjid An Najada",
+                  "text": "Această moschee tradițională de lângă Souq Waqif se remarcă prin stilul său arhitectural clasic qatarian.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533315,
+                        25.285511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souq Waqif",
+                  "text": "An iconic bazaar with mud-rendered buildings, famous for its spices, handicrafts, and traditional cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        51.532945,
+                        25.286973
+                  ]
+            },
+            {
+                  "name": "Masjid An Najada",
+                  "text": "This traditional mosque near Souq Waqif stands out with its classic Qatari architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533315,
+                        25.285511
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "QA-DA",
     coords: [51.5333, 25.2867],
@@ -69,7 +150,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Arabisches Museum für moderne Kunst",
-                  "text": "Ein Museum für moderne arabische Kunst in Al Rayyan.",
+                  "text": "Mathaf: Arab Museum of Modern Art zeigt moderne arabische Kunst in einem ehemaligen Schulgebäude in Al Rayyan.",
                   "category": "museum",
                   "coords": [
                         51.419884,
@@ -78,7 +159,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Ein großer Sport- und Erholungspark in Al Rayyan.",
+                  "text": "Großer Park mit der Aspire Dome-Sportanlage.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -87,7 +168,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "Eine Sehenswürdigkeit in Al Rayyan.",
+                  "text": "Wahrzeichenhügel in der Wüstenlandschaft von Al Rayyan.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -98,7 +179,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mathaf: Arab Museum of Modern Art",
-                  "text": "Modern arab művészeti múzeum Al Rayyanban.",
+                  "text": "A Mathaf: Arab Modern Művészeti Múzeum modern arab művészetet mutat be egy egykori iskolaépületben Al Rayyanban.",
                   "category": "museum",
                   "coords": [
                         51.419884,
@@ -107,7 +188,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Nagy sport- és szabadidőpark Al Rayyanban.",
+                  "text": "Nagy park az Aspire Dome sportkomplexummal.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -116,7 +197,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "Látnivaló Al Rayyanban.",
+                  "text": "Tájékozódási pont domb Al Rayyan sivatagi táján.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -127,7 +208,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mathaf: Arab Museum of Modern Art",
-                  "text": "Un muzeu de artă arabă modernă în Al Rayyan.",
+                  "text": "Mathaf: Muzeul Arab de Artă Modernă expune artă arabă modernă într-o fostă clădire de școală în Al Rayyan.",
                   "category": "museum",
                   "coords": [
                         51.419884,
@@ -136,7 +217,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Un parc mare pentru sport și recreere în Al Rayyan.",
+                  "text": "Parcul mare cu complexul sportiv Aspire Dome.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -145,7 +226,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "Un obiectiv turistic în Al Rayyan.",
+                  "text": "Deal emblematic în peisajul deșertic al Al Rayyan.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -156,7 +237,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mathaf: Arab Museum of Modern Art",
-                  "text": "A museum of modern Arab art in Al Rayyan.",
+                  "text": "Mathaf: Arab Museum of Modern Art displays modern Arab art in a former school building in Al Rayyan.",
                   "category": "museum",
                   "coords": [
                         51.419884,
@@ -165,7 +246,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "A large sports and recreation park in Al Rayyan.",
+                  "text": "Large park home to the Aspire Dome sports complex.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -174,7 +255,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "An attraction in Al Rayyan.",
+                  "text": "Landmark hill in the desert landscape of Al Rayyan.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -250,7 +331,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-al-wakrah-cities-v2",
+    id: "qa-al-wakrah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour wakra mall",
+                  "text": "Ein großes Einkaufszentrum in Al Wakrah, das internationale Marken und moderne Freizeiteinrichtungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.588528,
+                        25.170005
+                  ]
+            },
+            {
+                  "name": "Infotech Staff Room",
+                  "text": "Ein Orientierungspunkt innerhalb eines Geschäftskomplexes in Al Wakrah, der lokale Firmen und Büros beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.597013,
+                        25.170157
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Sameer",
+                  "text": "Eine elegante Moschee in Al Wakrah, die für ihre ruhige Atmosphäre und feine Kalligraphie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596418,
+                        25.164633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour wakra mall",
+                  "text": "Nagy bevásárlóközpont Al Wakrah-ban, amely nemzetközi márkákat és modern szabadidős létesítményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        51.588528,
+                        25.170005
+                  ]
+            },
+            {
+                  "name": "Infotech Staff Room",
+                  "text": "Tájékozódási pont egy al-wakrah-i üzleti komplexumon belül, amely helyi cégeknek és irodáknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        51.597013,
+                        25.170157
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Sameer",
+                  "text": "Elegáns mecset Al Wakrah-ban, amely nyugodt légköréről és finom kalligráfiájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596418,
+                        25.164633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour wakra mall",
+                  "text": "Un centru comercial mare în Al Wakrah, care oferă branduri internaționale și facilități moderne de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        51.588528,
+                        25.170005
+                  ]
+            },
+            {
+                  "name": "Infotech Staff Room",
+                  "text": "Un punct de reper într-un complex de afaceri din Al Wakrah, care găzduiește companii și birouri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.597013,
+                        25.170157
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Sameer",
+                  "text": "O moschee elegantă în Al Wakrah, cunoscută pentru atmosfera sa liniștită și caligrafia fină.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596418,
+                        25.164633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour wakra mall",
+                  "text": "A large shopping mall in Al Wakrah offering international brands and modern leisure facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        51.588528,
+                        25.170005
+                  ]
+            },
+            {
+                  "name": "Infotech Staff Room",
+                  "text": "A landmark within a business complex in Al Wakrah, housing local companies and offices.",
+                  "category": "landmark",
+                  "coords": [
+                        51.597013,
+                        25.170157
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Sameer",
+                  "text": "An elegant mosque in Al Wakrah known for its tranquil atmosphere and fine calligraphy.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596418,
+                        25.164633
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-WA",
     coords: [51.5975, 25.1768],
@@ -318,7 +516,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-al-khor-cities-v2", "sights": {"de": [{"name": "Al Khor Mseum", "text": "Das Al Khor Museum ist ein Museum in Al Khor.", "category": "museum", "coords": [51.512945, 25.686758]}, {"name": "Al Khor Archeological Ruins", "text": "Die Al Khor Archeological Ruins sind eine archäologische Stätte in Al Khor.", "category": "historical", "coords": [51.500363, 25.689595]}, {"name": "Al Sultan Beach", "text": "Unter der warmen Sonne Katars lädt der Al Sultan Beach in Al Khor zu entspannten Stunden am Persischen Golf ein. Die sandige Küstenlinie ist ideal für gemütliche Strandspaziergänge oder erholsame Momente am Meer. Für angenehmere Temperaturen empfiehlt sich ein Besuch am späten Nachmittag oder Abend.", "category": "recreational", "coords": [51.519866, 25.685075]}], "hu": [{"name": "Al Khor museum", "text": "Az Al Khor múzeum egy múzeum Al Khor városában.", "category": "museum", "coords": [51.512945, 25.686758]}, {"name": "Al Khor Archeological Ruins", "text": "Az Al Khor Archeological Ruins egy régészeti lelőhely Al Khor városában.", "category": "historical", "coords": [51.500363, 25.689595]}, {"name": "Al Sultan Beach", "text": "Katar meleg napja alatt az Al Khor-i Al Sultan Beach pihentető órákra csábít a Perzsa-öböl partján. A homokos partvonal ideális egy kellemes sétához vagy a tengerparti lazításhoz. A kellemesebb hőmérséklet érdekében érdemes késő délután vagy kora este kilátogatni.", "category": "recreational", "coords": [51.519866, 25.685075]}], "ro": [{"name": "Al Khor museum", "text": "Muzeul Al Khor este un muzeu din Al Khor.", "category": "museum", "coords": [51.512945, 25.686758]}, {"name": "Al Khor Archeological Ruins", "text": "Al Khor Archeological Ruins este un sit arheologic situat în Al Khor.", "category": "historical", "coords": [51.500363, 25.689595]}, {"name": "Al Sultan Beach", "text": "Sub soarele cald al Qatarului, plaja Al Sultan din Al Khor invită oaspeții să petreacă ore relaxante la Golful Persic. Litoralul nisipos este ideal pentru plimbări pe îndelete sau momente odihnitoare la mare. Pentru temperaturi mai confortabile, se recomandă o vizită la sfârșitul după-amiezii sau seara.", "category": "recreational", "coords": [51.519866, 25.685075]}], "en": [{"name": "Al Khor museum", "text": "Al Khor museum is a museum located in Al Khor.", "category": "museum", "coords": [51.512945, 25.686758]}, {"name": "Al Khor Archeological Ruins", "text": "Al Khor Archeological Ruins is an archaeological site located in Al Khor.", "category": "historical", "coords": [51.500363, 25.689595]}, {"name": "Al Sultan Beach", "text": "Under the warm sun of Qatar, Al Sultan Beach in Al Khor invites guests to spend relaxing hours by the Persian Gulf. The sandy coastline is ideal for leisurely strolls or restful moments by the sea. For more comfortable temperatures, a visit in the late afternoon or evening is highly recommended.", "category": "recreational", "coords": [51.519866, 25.685075]}]},
+    id: "qa-al-khor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khor Mseum",
+                  "text": "Museum zur Geschichte und Kultur von Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Archäologische Ruinen aus der islamischen Zeit in Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Unter der warmen Sonne Katars lädt der Al Sultan Beach in Al Khor zu entspannten Stunden am Persischen Golf ein. Die sandige Küstenlinie ist ideal für gemütliche Strandspaziergänge oder erholsame Momente am Meer. Für angenehmere Temperaturen empfiehlt sich ein Besuch am späten Nachmittag oder Abend.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Múzeum Al Khor történelméről és kultúrájáról.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Iszlám kori régészeti romok Al Khorban.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Katar meleg napja alatt az Al Khor-i Al Sultan Beach pihentető órákra csábít a Perzsa-öböl partján. A homokos partvonal ideális egy kellemes sétához vagy a tengerparti lazításhoz. A kellemesebb hőmérséklet érdekében érdemes késő délután vagy kora este kilátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Muzeu despre istoria și cultura orașului Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Ruine arheologice din perioada islamică în Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Sub soarele cald al Qatarului, plaja Al Sultan din Al Khor invită oaspeții să petreacă ore relaxante la Golful Persic. Litoralul nisipos este ideal pentru plimbări pe îndelete sau momente odihnitoare la mare. Pentru temperaturi mai confortabile, se recomandă o vizită la sfârșitul după-amiezii sau seara.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Museum showcasing the history and culture of Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Archaeological ruins from the Islamic period in Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Under the warm sun of Qatar, Al Sultan Beach in Al Khor invites guests to spend relaxing hours by the Persian Gulf. The sandy coastline is ideal for leisurely strolls or restful moments by the sea. For more comfortable temperatures, a visit in the late afternoon or evening is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-KH",
     coords: [51.4969, 25.6839],
@@ -386,7 +701,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-lusail-cities-v2",
+    id: "qa-lusail-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Section 1 fideepiller 6",
+                  "text": "Eine moderne Skulptur, die den architektonischen Fortschritt der neuen Stadt Lusail markiert.",
+                  "category": "historical",
+                  "coords": [
+                        51.495604,
+                        25.394931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Section 1 fideepiller 6",
+                  "text": "Modern szobor, amely Lusail új városának építészeti fejlődését jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        51.495604,
+                        25.394931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Section 1 fideepiller 6",
+                  "text": "O sculptură modernă care marchează progresul arhitectural al noului oraș Lusail.",
+                  "category": "historical",
+                  "coords": [
+                        51.495604,
+                        25.394931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Section 1 fideepiller 6",
+                  "text": "A modern sculpture marking the architectural progress of the new city of Lusail.",
+                  "category": "historical",
+                  "coords": [
+                        51.495604,
+                        25.394931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-ZA",
     coords: [51.4983, 25.4106],
@@ -454,7 +814,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-mesaieed-cities-v2",
+    id: "qa-mesaieed-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salah Al Deen Al Ayobi Mosque",
+                  "text": "Die Moschee Salah Al Deen Al Ayobi ist ein markantes Gotteshaus in der Industriestadt Mesaieed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.548252,
+                        24.993505
+                  ]
+            },
+            {
+                  "name": "Indonesian Mosque",
+                  "text": "Die indonesische Moschee in Mesaieed ist speziell auf die religiösen und kulturellen Bedürfnisse der lokalen indonesischen Expat-Gemeinde ausgerichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.538683,
+                        25.003212
+                  ]
+            },
+            {
+                  "name": "Al Hidaya Mosque",
+                  "text": "Die Al Hidaya Moschee ist eine Gemeinde-Gebetshalle, die den muslimischen Bewohnern des Stadtgebiets von Mesaieed dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.540638,
+                        24.999648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salah Al Deen Al Ayobi Mosque",
+                  "text": "A Salah Al Deen Al Ayobi mecset kiemelkedő istentiszteleti hely Mesaieed ipari városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.548252,
+                        24.993505
+                  ]
+            },
+            {
+                  "name": "Indonesian Mosque",
+                  "text": "A mesaieedi Indonéz mecset kifejezetten a helyi indonéz expat közösség vallási és kulturális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.538683,
+                        25.003212
+                  ]
+            },
+            {
+                  "name": "Al Hidaya Mosque",
+                  "text": "Az Al Hidaya mecset egy közösségi imaterem, amely a mesaieedi városi terület muszlim lakóit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.540638,
+                        24.999648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salah Al Deen Al Ayobi Mosque",
+                  "text": "Moscheea Salah Al Deen Al Ayobi este un loc de cult proeminent în orașul industrial Mesaieed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.548252,
+                        24.993505
+                  ]
+            },
+            {
+                  "name": "Indonesian Mosque",
+                  "text": "Moscheea Indoneziană din Mesaieed răspunde în mod specific nevoilor religioase și culturale ale comunității locale de expatriați indonezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        51.538683,
+                        25.003212
+                  ]
+            },
+            {
+                  "name": "Al Hidaya Mosque",
+                  "text": "Moscheea Al Hidaya este o sală de rugăciune comunitară care deservește rezidenții musulmani din zona urbană Mesaieed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.540638,
+                        24.999648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salah Al Deen Al Ayobi Mosque",
+                  "text": "The Salah Al Deen Al Ayobi Mosque stands as a prominent place of worship in the industrial city of Mesaieed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.548252,
+                        24.993505
+                  ]
+            },
+            {
+                  "name": "Indonesian Mosque",
+                  "text": "The Indonesian Mosque in Mesaieed specifically caters to the religious and cultural needs of the local Indonesian expatriate community.",
+                  "category": "landmark",
+                  "coords": [
+                        51.538683,
+                        25.003212
+                  ]
+            },
+            {
+                  "name": "Al Hidaya Mosque",
+                  "text": "Al Hidaya Mosque is a community prayer hall serving the Muslim residents of the Mesaieed urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.540638,
+                        24.999648
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-WA",
     coords: [51.5542, 24.9922],
@@ -526,7 +1003,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fountain with seating place",
-                  "text": "Fountain with seating place ist eine lokale Sehenswürdigkeit in Dukhan.",
+                  "text": "Öffentlicher Brunnen mit Sitzgelegenheiten in Dukhan.",
                   "category": "landmark",
                   "coords": [
                         50.786004,
@@ -535,7 +1012,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "First production well",
-                  "text": "First production well ist eine Sehenswürdigkeit in Dukhan.",
+                  "text": "Erste Ölförderbohrung Katars im Dukhan-Ölfeld.",
                   "category": "landmark",
                   "coords": [
                         50.784343,
@@ -544,7 +1021,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Viewing platform",
-                  "text": "Viewing platform ist eine Sehenswürdigkeit in Dukhan.",
+                  "text": "Aussichtsplattform mit Panoramablick über Dukhan.",
                   "category": "landmark",
                   "coords": [
                         50.785029,
@@ -553,7 +1030,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Dukhan View Point",
-                  "text": "Dukhan View Point ist ein Aussichtspunkt in Dukhan.",
+                  "text": "Natürlicher Aussichtspunkt mit weiter Sicht über die Dukhan-Landschaft.",
                   "category": "natural",
                   "coords": [
                         50.787291,
@@ -564,7 +1041,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fountain with seating place",
-                  "text": "A Fountain with seating place egy helyi látványosság Dukhan városában.",
+                  "text": "Nyilvános szökőkút ülőhelyekkel Dukhanban.",
                   "category": "landmark",
                   "coords": [
                         50.786004,
@@ -573,7 +1050,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "First production well",
-                  "text": "A First production well egy látványosság Dukhan városában.",
+                  "text": "Katar első olajkitermelő kútja a Dukhan-mezőn.",
                   "category": "landmark",
                   "coords": [
                         50.784343,
@@ -582,7 +1059,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Viewing platform",
-                  "text": "A Viewing platform egy látványosság Dukhan városában.",
+                  "text": "Kilátóplatform panorámás kilátással Dukhanra.",
                   "category": "landmark",
                   "coords": [
                         50.785029,
@@ -591,7 +1068,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Dukhan View Point",
-                  "text": "A Dukhan View Point egy kilátópont Dukhan városában.",
+                  "text": "Természetes kilátóhely messzire tekintő látvánnyal a Dukhan tájra.",
                   "category": "natural",
                   "coords": [
                         50.787291,
@@ -602,7 +1079,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fountain with seating place",
-                  "text": "Fountain with seating place este o atracție locală în Dukhan.",
+                  "text": "Fântână publică cu locuri de ședere în Dukhan.",
                   "category": "landmark",
                   "coords": [
                         50.786004,
@@ -611,7 +1088,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "First production well",
-                  "text": "First production well este o atracție situată în Dukhan.",
+                  "text": "Primul puț de petrol din Qatar în câmpul Dukhan.",
                   "category": "landmark",
                   "coords": [
                         50.784343,
@@ -620,7 +1097,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Viewing platform",
-                  "text": "Viewing platform este o atracție situată în Dukhan.",
+                  "text": "Platformă de observație cu vedere panoramică asupra Dukhanului.",
                   "category": "landmark",
                   "coords": [
                         50.785029,
@@ -629,7 +1106,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Dukhan View Point",
-                  "text": "Dukhan View Point este un punct de belvedere situat în Dukhan.",
+                  "text": "Punct natural de belvedere cu vedere largă asupra peisajului Dukhan.",
                   "category": "natural",
                   "coords": [
                         50.787291,
@@ -640,7 +1117,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fountain with seating place",
-                  "text": "Fountain with seating place is a local attraction in Dukhan.",
+                  "text": "Public fountain with seating in Dukhan.",
                   "category": "landmark",
                   "coords": [
                         50.786004,
@@ -649,7 +1126,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "First production well",
-                  "text": "First production well is an attraction located in Dukhan.",
+                  "text": "Qatar's first oil production well in the Dukhan field.",
                   "category": "landmark",
                   "coords": [
                         50.784343,
@@ -658,7 +1135,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Viewing platform",
-                  "text": "Viewing platform is an attraction located in Dukhan.",
+                  "text": "Viewing platform with panoramic views over Dukhan.",
                   "category": "landmark",
                   "coords": [
                         50.785029,
@@ -667,7 +1144,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Dukhan View Point",
-                  "text": "Dukhan View Point is a viewpoint located in Dukhan.",
+                  "text": "Natural viewpoint with expansive views of the Dukhan landscape.",
                   "category": "natural",
                   "coords": [
                         50.787291,
@@ -928,7 +1405,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Umm Al-Amad Apartment",
-                  "text": "شقة أم العمد ist ein Aussichtspunkt in der Stadt Umm Salal Ali.",
+                  "text": "Natürliches Gebiet mit einheimischer Vegetation in Umm Salal Ali.",
                   "category": "natural",
                   "coords": [
                         51.403674,
@@ -939,7 +1416,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Umm Al-Amad Apartment",
-                  "text": "A شقة أم العمد egy kilátópont Umm Salal Ali városában.",
+                  "text": "Természetes terület őshonos növényzettel Umm Salal Ali közelében.",
                   "category": "natural",
                   "coords": [
                         51.403674,
@@ -950,7 +1427,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Umm Al-Amad Apartment",
-                  "text": "شقة أم العمد este un punct de belvedere situat în orașul Umm Salal Ali.",
+                  "text": "Zonă naturală cu vegetație autohtonă în Umm Salal Ali.",
                   "category": "natural",
                   "coords": [
                         51.403674,
@@ -961,7 +1438,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Umm Al-Amad Apartment",
-                  "text": "شقة أم العمد is a viewpoint located in the city of Umm Salal Ali.",
+                  "text": "Natural area with indigenous vegetation in Umm Salal Ali.",
                   "category": "natural",
                   "coords": [
                         51.403674,
@@ -1037,7 +1514,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-al-shahaniya-cities-v2",
+    id: "qa-al-shahaniya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "UCC Mosque",
+                  "text": "Die UCC-Moschee bietet der örtlichen Gemeinde in Al-Schahaniyya eine islamische Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.253559,
+                        25.357381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "UCC Mosque",
+                  "text": "Az UCC mecset helyi iszlám istentiszteleti helyként szolgálja Al-Shahaniya közösségét.",
+                  "category": "landmark",
+                  "coords": [
+                        51.253559,
+                        25.357381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "UCC Mosque",
+                  "text": "Moscheea UCC oferă un lăcaș de cult islamic local care deservește comunitatea din Al-Shahaniya.",
+                  "category": "landmark",
+                  "coords": [
+                        51.253559,
+                        25.357381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "UCC Mosque",
+                  "text": "The UCC Mosque provides a local Islamic place of worship serving the community in Al-Shahaniya.",
+                  "category": "landmark",
+                  "coords": [
+                        51.253559,
+                        25.357381
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-SH",
     coords: [51.2269, 25.3686],
@@ -1241,7 +1763,88 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-al-thakhira-cities-v2",
+    id: "qa-al-thakhira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Die Al Hoda Moschee ist ein lokales Heiligtum, das die Gläubigen mit täglichen Gebetsdiensten in der Küstenstadt Al Thakhira leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522578,
+                        25.715063
+                  ]
+            },
+            {
+                  "name": "Al Dakira Big Mosque",
+                  "text": "Die Al Dakira Big Mosque bietet eine weitläufige Hauptgebetshalle, um große Gemeinden in Al Thakhira unterzubringen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.544014,
+                        25.736525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Az Al Hoda mecset egy helyi szentély, amely napi istentisztelettel irányítja a hívőket Al Thakhira tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522578,
+                        25.715063
+                  ]
+            },
+            {
+                  "name": "Al Dakira Big Mosque",
+                  "text": "Az Al Dakira Nagymecset egy tágas fő imateremmel rendelkezik, amely alkalmas nagy gyülekezetek befogadására Al Thakhirában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.544014,
+                        25.736525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Moscheea Al Hoda este un sanctuar local care îndrumă credincioșii prin slujbe zilnice de rugăciune în orașul de coastă Al Thakhira.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522578,
+                        25.715063
+                  ]
+            },
+            {
+                  "name": "Al Dakira Big Mosque",
+                  "text": "Marea Moschee Al Dakira oferă o sală de rugăciune principală spațioasă pentru a găzdui congregații mari în Al Thakhira.",
+                  "category": "landmark",
+                  "coords": [
+                        51.544014,
+                        25.736525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Al Hoda Mosque is a local sanctuary guiding the faithful with daily prayer services in the coastal town of Al Thakhira.",
+                  "category": "landmark",
+                  "coords": [
+                        51.522578,
+                        25.715063
+                  ]
+            },
+            {
+                  "name": "Al Dakira Big Mosque",
+                  "text": "The Al Dakira Big Mosque offers an expansive main prayer hall to accommodate large congregations in Al Thakhira.",
+                  "category": "landmark",
+                  "coords": [
+                        51.544014,
+                        25.736525
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-KH",
     coords: [51.5333, 25.7333],
@@ -1313,7 +1916,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ajub wakhair",
-                  "text": "Ajub wakhair ist eine Attraktion in Al Wukair.",
+                  "text": "Wahrzeichen in Al Wukair, möglicherweise ein altes Gebäude.",
                   "category": "landmark",
                   "coords": [
                         51.541778,
@@ -1324,7 +1927,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ajub wakhair",
-                  "text": "A(z) Ajub wakhair egy látványosság Al Wukair területén.",
+                  "text": "Tájékozódási pont Al Wukairban, valószínűleg egy régi épület.",
                   "category": "landmark",
                   "coords": [
                         51.541778,
@@ -1335,7 +1938,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ajub wakhair",
-                  "text": "Ajub wakhair este o atracție situată în Al Wukair.",
+                  "text": "Reper în Al Wukair, posibil o clădire veche.",
                   "category": "landmark",
                   "coords": [
                         51.541778,
@@ -1346,7 +1949,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ajub wakhair",
-                  "text": "Ajub wakhair is an attraction located in Al Wukair.",
+                  "text": "Landmark in Al Wukair, possibly an old building.",
                   "category": "landmark",
                   "coords": [
                         51.541778,
@@ -1422,7 +2025,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-simaisma-cities-v2",
+    id: "qa-simaisma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sec4 fid 5",
+                  "text": "Ein markantes Monument an der Küste von Simaisma, das als Orientierungspunkt dient.",
+                  "category": "historical",
+                  "coords": [
+                        51.46485,
+                        25.569487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sec4 fid 5",
+                  "text": "Jellegzetes emlékmű Simaisma partján, amely tájékozódási pontként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        51.46485,
+                        25.569487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sec4 fid 5",
+                  "text": "Un monument distinctiv pe coasta Simaisma, care servește drept punct de reper.",
+                  "category": "historical",
+                  "coords": [
+                        51.46485,
+                        25.569487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sec4 fid 5",
+                  "text": "A distinctive monument on the Simaisma coast serving as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        51.46485,
+                        25.569487
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-ZA",
     coords: [51.4864, 25.5750],
@@ -1898,7 +2546,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-rawdat-rashed-cities-v2",
+    id: "qa-rawdat-rashed-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rawdat Rashed Old Masjed",
+                  "text": "Das Rawdat Rashed Old Masjed ist eine beständige, traditionelle Moscheenstruktur, die das religiöse Erbe von Rawdat Rashed widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.197395,
+                        25.22342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rawdat Rashed Old Masjed",
+                  "text": "A Rawdat Rashed Old Masjed egy tartós, hagyományos mecsetépület, amely a Rawdat Rashed vallási örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.197395,
+                        25.22342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rawdat Rashed Old Masjed",
+                  "text": "Rawdat Rashed Old Masjed este o structură tradițională, de durată, a unei moschei, reflectând moștenirea religioasă a zonei Rawdat Rashed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.197395,
+                        25.22342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rawdat Rashed Old Masjed",
+                  "text": "The Rawdat Rashed Old Masjed is an enduring, traditional mosque structure reflecting the religious heritage of Rawdat Rashed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.197395,
+                        25.22342
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-SH",
     coords: [51.1883, 25.2347],
@@ -1970,7 +2663,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al Zubarah Archaeological Site",
-                  "text": "Al Zubarah Archaeological Site ist eine bekannte Attraktion in Al Zubarah.",
+                  "text": "UNESCO-Weltkulturerbe mit gut erhaltenen Ruinen aus dem 18.–19. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         51.025193,
@@ -1981,7 +2674,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al Zubarah",
-                  "text": "A(z) Al Zubarah Archaeological Site egy nevezetes látványosság Al Zubarah területén.",
+                  "text": "UNESCO Világörökség, jól megőrzött 18–19. századi romokkal.",
                   "category": "landmark",
                   "coords": [
                         51.025193,
@@ -1992,7 +2685,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al Zubarah Archaeological Site",
-                  "text": "Al Zubarah Archaeological Site este o atracție notabilă situată în Al Zubarah.",
+                  "text": "Sit UNESCO cu ruine bine conservate din secolele XVIII–XIX.",
                   "category": "landmark",
                   "coords": [
                         51.025193,
@@ -2003,7 +2696,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al Zubarah Archaeological Site",
-                  "text": "Al Zubarah Archaeological Site is a notable attraction located in Al Zubarah.",
+                  "text": "UNESCO World Heritage site with well-preserved 18th–19th century ruins.",
                   "category": "landmark",
                   "coords": [
                         51.025193,
@@ -2083,7 +2776,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Doha Zoo",
-                  "text": "Der Doha Zoo ist ein zoologischer Garten in Muaither.",
+                  "text": "Tierpark in Muaither mit verschiedenen Tierarten.",
                   "category": "family",
                   "coords": [
                         51.435045,
@@ -2092,7 +2785,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Der Aspire Park ist ein bekannter Park in Muaither.",
+                  "text": "Park in Muaither mit Grünflächen und Freizeitmöglichkeiten.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -2101,7 +2794,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "هين ist eine lokale Sehenswürdigkeit in der Stadt Muaither.",
+                  "text": "Wahrzeichenhügel in der Umgebung von Muaither.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -2112,7 +2805,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Doha Zoo",
-                  "text": "A Doha Zoo egy állatkert Muaither városában.",
+                  "text": "Állatkert Muaitherben, sokféle állattal.",
                   "category": "family",
                   "coords": [
                         51.435045,
@@ -2121,7 +2814,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Az Aspire Park egy jól ismert park Muaither városában.",
+                  "text": "Park Muaitherben zöld területekkel és szabadidős lehetőségekkel.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -2130,7 +2823,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "A هين egy helyi látványosság Muaither városában.",
+                  "text": "Tájékozódási pont domb Muaither környékén.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -2141,7 +2834,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Doha Zoo",
-                  "text": "Doha Zoo este un parc zoologic situat în Muaither.",
+                  "text": "Grădină zoologică în Muaither cu diverse specii de animale.",
                   "category": "family",
                   "coords": [
                         51.435045,
@@ -2150,7 +2843,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Aspire Park este un parc binecunoscut situat în Muaither.",
+                  "text": "Parcul din Muaither cu spații verzi și facilități de recreere.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -2159,7 +2852,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "هين este o atracție locală aflată în orașul Muaither.",
+                  "text": "Deal emblematic în zona Muaither.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -2170,7 +2863,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Doha Zoo",
-                  "text": "Doha Zoo is a zoological park situated in Muaither.",
+                  "text": "Zoo in Muaither featuring a variety of animal species.",
                   "category": "family",
                   "coords": [
                         51.435045,
@@ -2179,7 +2872,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Aspire Park",
-                  "text": "Aspire Park is a well-known park located in Muaither.",
+                  "text": "Park in Muaither with green spaces and recreational facilities.",
                   "category": "park",
                   "coords": [
                         51.435989,
@@ -2188,7 +2881,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             },
             {
                   "name": "Hin",
-                  "text": "هين is a local attraction found in the city of Muaither.",
+                  "text": "Landmark hill in the Muaither area.",
                   "category": "landmark",
                   "coords": [
                         51.419778,
@@ -2264,7 +2957,88 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-al-sailiya-cities-v2",
+    id: "qa-al-sailiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "aboualhamed",
+                  "text": "Ein Aussichtspunkt in Al Sailiya, der weite Blicke über die Wüstenlandschaft und die moderne Stadtentwicklung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.384256,
+                        25.225589
+                  ]
+            },
+            {
+                  "name": "Taher Doha home",
+                  "text": "Ein bemerkenswertes Privathaus in Al Sailiya, das die moderne Wohnarchitektur der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.397252,
+                        25.237061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "aboualhamed",
+                  "text": "Al Sailiya-i kilátópont, amely tágas kilátást nyújt a sivatagi tájra és a modern városfejlesztésre.",
+                  "category": "natural",
+                  "coords": [
+                        51.384256,
+                        25.225589
+                  ]
+            },
+            {
+                  "name": "Taher Doha home",
+                  "text": "Figyelemre méltó magánrezidencia Al Sailiyában, amely a régió modern lakóépítészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.397252,
+                        25.237061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "aboualhamed",
+                  "text": "Un punct de observație în Al Sailiya, oferind vederi largi asupra peisajului deșertic și a dezvoltării urbane moderne.",
+                  "category": "natural",
+                  "coords": [
+                        51.384256,
+                        25.225589
+                  ]
+            },
+            {
+                  "name": "Taher Doha home",
+                  "text": "O reședință privată notabilă din Al Sailiya, care reflectă arhitectura rezidențială modernă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        51.397252,
+                        25.237061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "aboualhamed",
+                  "text": "A viewpoint in Al Sailiya offering expansive vistas of the desert landscape and modern urban development.",
+                  "category": "natural",
+                  "coords": [
+                        51.384256,
+                        25.225589
+                  ]
+            },
+            {
+                  "name": "Taher Doha home",
+                  "text": "A notable private residence in Al Sailiya, reflecting the modern residential architecture of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        51.397252,
+                        25.237061
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-RA",
     coords: [51.3819, 25.2264],
@@ -2332,7 +3106,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-al-kheesa-cities-v2",
+    id: "qa-al-kheesa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Radi Ajlan Anzi Mosque",
+                  "text": "Die Radi Ajlan Anzi Moschee ist ein dediziertes islamisches Heiligtum, das den Gläubigen im wachsenden Stadtteil Al Kheesa Platz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.456221,
+                        25.410982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Radi Ajlan Anzi Mosque",
+                  "text": "A Radi Ajlan Anzi mecset egy dedikált iszlám szentély, amely a hívőket fogadja a növekvő Al Kheesa városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.456221,
+                        25.410982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Radi Ajlan Anzi Mosque",
+                  "text": "Moscheea Radi Ajlan Anzi este un sanctuar islamic dedicat, care găzduiește credincioșii din districtul urban în creștere Al Kheesa.",
+                  "category": "landmark",
+                  "coords": [
+                        51.456221,
+                        25.410982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Radi Ajlan Anzi Mosque",
+                  "text": "Radi Ajlan Anzi Mosque is a dedicated Islamic sanctuary accommodating the faithful in the growing urban district of Al Kheesa.",
+                  "category": "landmark",
+                  "coords": [
+                        51.456221,
+                        25.410982
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-ZA",
     coords: [51.4428, 25.3886],
@@ -2400,7 +3219,88 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-leabaib-cities-v2",
+    id: "qa-leabaib-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque 897",
+                  "text": "Die Moschee 897 fungiert als vorgesehener Ort für die fünf täglichen Gebete innerhalb der organisierten Vorstadtstruktur von Leabaib.",
+                  "category": "landmark",
+                  "coords": [
+                        51.460557,
+                        25.384658
+                  ]
+            },
+            {
+                  "name": "Mohammad & Sultan Al-Obaidan Mosque",
+                  "text": "Die Moschee Mohammad & Sultan Al-Obaidan ist ein herausragendes spirituelles Wahrzeichen für die muslimische Gemeinschaft in Leabaib.",
+                  "category": "landmark",
+                  "coords": [
+                        51.471676,
+                        25.389911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque 897",
+                  "text": "A 897-es mecset a napi ötszöri imádság kijelölt helyszíneként működik Leabaib rendezett külvárosi elrendezésében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.460557,
+                        25.384658
+                  ]
+            },
+            {
+                  "name": "Mohammad & Sultan Al-Obaidan Mosque",
+                  "text": "A Mohammad & Sultan Al-Obaidan mecset kiemelkedő spirituális nevezetesség a leabaibi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.471676,
+                        25.389911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque 897",
+                  "text": "Moscheea 897 funcționează ca un loc desemnat pentru cele cinci rugăciuni zilnice în structura suburbană organizată din Leabaib.",
+                  "category": "landmark",
+                  "coords": [
+                        51.460557,
+                        25.384658
+                  ]
+            },
+            {
+                  "name": "Mohammad & Sultan Al-Obaidan Mosque",
+                  "text": "Moscheea Mohammad & Sultan Al-Obaidan este un punct de reper spiritual proeminent pentru comunitatea musulmană din Leabaib.",
+                  "category": "landmark",
+                  "coords": [
+                        51.471676,
+                        25.389911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque 897",
+                  "text": "Mosque 897 functions as a designated place for the five daily prayers within the organized suburban layout of Leabaib.",
+                  "category": "landmark",
+                  "coords": [
+                        51.460557,
+                        25.384658
+                  ]
+            },
+            {
+                  "name": "Mohammad & Sultan Al-Obaidan Mosque",
+                  "text": "Mohammad & Sultan Al-Obaidan Mosque stands as a prominent spiritual landmark for the Muslim community in Leabaib.",
+                  "category": "landmark",
+                  "coords": [
+                        51.471676,
+                        25.389911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-ZA",
     coords: [51.4600, 25.3850],
@@ -2468,7 +3368,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-al-mashaf-cities-v2",
+    id: "qa-al-mashaf-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "Ein lokaler Treffpunkt in Al Mashaf, der als Orientierungspunkt für die Bewohner der Siedlung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            },
+            {
+                  "name": "Meshaf Masjid",
+                  "text": "Die zentrale Moschee von Al Mashaf bietet Platz für die wachsende lokale muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550759,
+                        25.167096
+                  ]
+            },
+            {
+                  "name": "Temporary Masjid",
+                  "text": "Eine einfache Gebetsstätte, die eingerichtet wurde, um den Gläubigen während der Bauphase des Viertels zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550514,
+                        25.171309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "Helyi találkozóhely Al Mashafban, amely tájékozódási pontként szolgál a lakótelep lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            },
+            {
+                  "name": "Meshaf Masjid",
+                  "text": "Al Mashaf központi mecsetje, amely befogadja a növekvő helyi muszlim közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550759,
+                        25.167096
+                  ]
+            },
+            {
+                  "name": "Temporary Masjid",
+                  "text": "Egyszerű imádkozóhely, amelyet azért hoztak létre, hogy a hívőket szolgálja a negyed építési fázisában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550514,
+                        25.171309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "Un punct local de întâlnire în Al Mashaf, care servește ca reper pentru locuitorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            },
+            {
+                  "name": "Meshaf Masjid",
+                  "text": "Moscheea centrală din Al Mashaf, care deservește comunitatea musulmană locală în creștere.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550759,
+                        25.167096
+                  ]
+            },
+            {
+                  "name": "Temporary Masjid",
+                  "text": "Un loc de rugăciune simplu, stabilit pentru a servi credincioșii în timpul fazei de construcție a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550514,
+                        25.171309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "A local community spot in Al Mashaf that serves as a landmark for the residents.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            },
+            {
+                  "name": "Meshaf Masjid",
+                  "text": "The central mosque of Al Mashaf, accommodating the growing local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550759,
+                        25.167096
+                  ]
+            },
+            {
+                  "name": "Temporary Masjid",
+                  "text": "A simple prayer facility established to serve worshippers during the district's construction phase.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550514,
+                        25.171309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-WA",
     coords: [51.5539, 25.1611],

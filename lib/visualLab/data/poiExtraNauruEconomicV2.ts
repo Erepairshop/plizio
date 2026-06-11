@@ -430,7 +430,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Church of Christ the King",
-                  "text": "Kirche in Denigomodu.",
+                  "text": "Die römisch-katholische Pfarrkirche für die Siedlung Denig auf Nauru.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
@@ -439,7 +439,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Denkmal für die während des Zweiten Weltkriegs vertriebenen Nauruer in Denigomodu.",
+                  "text": "Denkmal für die im Zweiten Weltkrieg vertriebenen Nauruer in Denig Settlement.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -448,7 +448,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Cantilever Cranes",
-                  "text": "Historische Verladekräne in Denigomodu.",
+                  "text": "Stehender Kantelkran, der für das Verladen von Phosphat in Denig Settlement genutzt wurde.",
                   "category": "landmark",
                   "coords": [
                         166.909334,
@@ -457,7 +457,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "Überreste der alten Verladekräne in Denigomodu.",
+                  "text": "Rostende Überreste eines zerbrochenen Kantelkrans in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -466,7 +466,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Gun",
-                  "text": "Historisches japanisches Geschütz aus dem Zweiten Weltkrieg in Denigomodu.",
+                  "text": "Japanisches Artilleriegeschütz aus dem Zweiten Weltkrieg in Denig Settlement nahe der Küste.",
                   "category": "landmark",
                   "coords": [
                         166.916396,
@@ -475,7 +475,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Standort eines ehemaligen japanischen Gefängnisses aus dem Zweiten Weltkrieg in Denigomodu.",
+                  "text": "Überreste eines japanischen Gefangenenlagers in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -484,7 +484,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Lagoon viewpoint",
-                  "text": "Aussichtspunkt mit Blick auf die Lagune in Denigomodu.",
+                  "text": "Aussichtspunkt mit Blick auf die Lagune von Denig Settlement aus.",
                   "category": "natural",
                   "coords": [
                         166.923022,
@@ -493,7 +493,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Ehemalige Geschützstellung in Denigomodu, die als Aussichtspunkt dient.",
+                  "text": "Natürliche Felsformation namens 'Gun' in Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -502,7 +502,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Bunker in Denigomodu, heute ein Aussichtspunkt.",
+                  "text": "Natürliche Bunkerformation nahe der Siedlung Denig.",
                   "category": "natural",
                   "coords": [
                         166.925349,
@@ -511,7 +511,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Überreste japanischer Befestigungen aus dem Zweiten Weltkrieg in Denigomodu.",
+                  "text": "Japanische Geschütze und Bunker aus dem Zweiten Weltkrieg in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.92438,
@@ -540,7 +540,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Church of Christ the King",
-                  "text": "Templom Denigomoduban.",
+                  "text": "A Denig település római katolikus plébániatemploma Naurun.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
@@ -549,7 +549,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "A második világháborúban deportált nauruiak emlékműve Denigomoduban.",
+                  "text": "Emlékmű a második világháború alatt száműzött nauruiaknak Denig Settlementben.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -558,7 +558,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Cantilever Cranes",
-                  "text": "Történelmi rakodódaruk Denigomoduban.",
+                  "text": "Álló konzolos daru, amelyet foszfát rakodására használtak Denig Settlementben.",
                   "category": "landmark",
                   "coords": [
                         166.909334,
@@ -567,7 +567,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "A régi rakodódaruk maradványai Denigomoduban.",
+                  "text": "Egy eltört konzolos daru rozsdás maradványai Denig Settlementben.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -576,7 +576,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Gun",
-                  "text": "Történelmi japán ágyú a második világháborúból Denigomoduban.",
+                  "text": "Japán második világháborús tüzérségi löveg Denig Settlementben, a part közelében.",
                   "category": "landmark",
                   "coords": [
                         166.916396,
@@ -585,7 +585,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Egy második világháborús japán börtön helyszíne Denigomoduban.",
+                  "text": "Egy japán fogolytábor maradványai Denig Settlementben.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -594,7 +594,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Lagoon viewpoint",
-                  "text": "Kilátópont a lagúnára Denigomoduban.",
+                  "text": "Kilátóhely a lagúnára Denig Settlementből.",
                   "category": "natural",
                   "coords": [
                         166.923022,
@@ -603,7 +603,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Egykori ágyúállás Denigomoduban, amely kilátópontként szolgál.",
+                  "text": "Természetes sziklaalakzat 'Gun' néven Denig Settlementben.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -612,7 +612,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Bunker Denigomoduban, ma kilátópont.",
+                  "text": "Természetes bunkerformáció Denig Settlement közelében.",
                   "category": "natural",
                   "coords": [
                         166.925349,
@@ -621,7 +621,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Második világháborús japán erődítmények maradványai Denigomoduban.",
+                  "text": "Japán második világháborús ágyúk és bunker Denig Settlementben.",
                   "category": "landmark",
                   "coords": [
                         166.92438,
@@ -650,7 +650,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Church of Christ the King",
-                  "text": "Biserică în Denigomodu.",
+                  "text": "Biserica parohială romano-catolică pentru așezarea Denig din Nauru.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
@@ -659,7 +659,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument în memoria nauruanilor exilați în timpul celui de-Al Doilea Război Mondial, în Denigomodu.",
+                  "text": "Monument pentru nauruanii exilați în timpul celui de-al Doilea Război Mondial în Denig Settlement.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -668,7 +668,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Cantilever Cranes",
-                  "text": "Macarale istorice de încărcare în Denigomodu.",
+                  "text": "Macara cantilever în picioare folosită pentru încărcarea fosfatului în Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.909334,
@@ -677,7 +677,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "Rămășițele vechilor macarale în Denigomodu.",
+                  "text": "Vestigii ruginite ale unei macarale cantilever stricate în Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -686,7 +686,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Gun",
-                  "text": "Tun japonez istoric din Al Doilea Război Mondial în Denigomodu.",
+                  "text": "Tun de artilerie japonez din al Doilea Război Mondial poziționat în Denig Settlement, lângă coastă.",
                   "category": "landmark",
                   "coords": [
                         166.916396,
@@ -695,7 +695,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Locația unei foste închisori japoneze din Al Doilea Război Mondial în Denigomodu.",
+                  "text": "Vestigii ale unei închisori japoneze în Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -704,7 +704,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Lagoon viewpoint",
-                  "text": "Punct de belvedere cu vedere la lagună în Denigomodu.",
+                  "text": "Punct de belvedere cu vedere asupra lagunei din Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.923022,
@@ -713,7 +713,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Fostă poziție de tun în Denigomodu, folosită ca punct de belvedere.",
+                  "text": "Formațiune naturală de stâncă numită 'Gun' în Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -722,7 +722,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Buncăr în Denigomodu, astăzi un punct de belvedere.",
+                  "text": "Formațiune naturală de buncăr lângă Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.925349,
@@ -731,7 +731,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Rămășițele fortificațiilor japoneze din Al Doilea Război Mondial în Denigomodu.",
+                  "text": "Tunuri și buncăr japoneze din al Doilea Război Mondial în Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.92438,
@@ -760,7 +760,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Church of Christ the King",
-                  "text": "Church in Denigomodu.",
+                  "text": "The Roman Catholic parish church for Denig Settlement community in Nauru.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
@@ -769,7 +769,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument to the Nauruans exiled during WWII, located in Denigomodu.",
+                  "text": "Monument to Nauruans exiled during WWII in Denig Settlement.",
                   "category": "historical",
                   "coords": [
                         166.911072,
@@ -778,7 +778,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Cantilever Cranes",
-                  "text": "Historic cantilever cranes in Denigomodu.",
+                  "text": "Standing cantilever crane used for phosphate loading in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.909334,
@@ -787,7 +787,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Broken Down Cantilever Cranes",
-                  "text": "Ruins of the old cantilever cranes in Denigomodu.",
+                  "text": "Rusting remains of a broken cantilever crane in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
@@ -796,7 +796,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Gun",
-                  "text": "Historic Japanese WWII gun in Denigomodu.",
+                  "text": "Japanese WWII artillery gun positioned in Denig Settlement near the coast.",
                   "category": "landmark",
                   "coords": [
                         166.916396,
@@ -805,7 +805,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII Prison",
-                  "text": "Site of a former Japanese WWII prison in Denigomodu.",
+                  "text": "Remains of a Japanese prison camp in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.918033,
@@ -814,7 +814,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Lagoon viewpoint",
-                  "text": "Viewpoint overlooking the lagoon in Denigomodu.",
+                  "text": "Viewpoint overlooking the lagoon from Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.923022,
@@ -823,7 +823,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Gun",
-                  "text": "Former gun site in Denigomodu, used as a viewpoint.",
+                  "text": "Natural rock formation named 'Gun' in Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.921971,
@@ -832,7 +832,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Bunker in Denigomodu, now a viewpoint.",
+                  "text": "Natural bunker formation near Denig Settlement.",
                   "category": "natural",
                   "coords": [
                         166.925349,
@@ -841,7 +841,7 @@ export const nauruEconomicV2: POI[] = [
             },
             {
                   "name": "Japanese WWII guns and bunker",
-                  "text": "Remains of Japanese WWII fortifications in Denigomodu.",
+                  "text": "Japanese WWII guns and bunker in Denig Settlement.",
                   "category": "landmark",
                   "coords": [
                         166.92438,

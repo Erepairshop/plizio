@@ -52,7 +52,7 @@ export const estoniaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Vasalemma Tibula supelrand",
-                  "text": "Badestrand am Tibula bei Keila-Joa.",
+                  "text": "Tibula Strand an der Vasalemma nahe dem Keila Wasserfall.",
                   "category": "recreational",
                   "coords": [
                         24.284471,
@@ -63,7 +63,7 @@ export const estoniaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Vasalemma Tibula supelrand",
-                  "text": "Strand a Tibulánál, Keila-Joa közelében.",
+                  "text": "Tibula strand a Vasalemma folyón, a Keila-vízesés közelében.",
                   "category": "recreational",
                   "coords": [
                         24.284471,
@@ -74,7 +74,7 @@ export const estoniaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Vasalemma Tibula supelrand",
-                  "text": "Plajă la Tibula, lângă cascada Keila.",
+                  "text": "Plaja Tibula pe râul Vasalemma lângă Cascada Keila.",
                   "category": "recreational",
                   "coords": [
                         24.284471,
@@ -85,7 +85,7 @@ export const estoniaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Vasalemma Tibula supelrand",
-                  "text": "Beach at Tibula near Keila Waterfall.",
+                  "text": "Tibula beach on the Vasalemma River near Keila Waterfall.",
                   "category": "recreational",
                   "coords": [
                         24.284471,
@@ -313,7 +313,7 @@ export const estoniaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Aidu supelrand",
-                  "text": "Strand in Aidu.",
+                  "text": "Aidu Strand an den Ufern des Nava-Flusses.",
                   "category": "recreational",
                   "coords": [
                         26.246668,
@@ -324,7 +324,7 @@ export const estoniaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Aidu supelrand",
-                  "text": "Strand Aiduban.",
+                  "text": "Aidu strand a Nava folyó partján.",
                   "category": "recreational",
                   "coords": [
                         26.246668,
@@ -335,7 +335,7 @@ export const estoniaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Aidu supelrand",
-                  "text": "Plajă în Aidu.",
+                  "text": "Plaja Aidu pe malurile râului Nava.",
                   "category": "recreational",
                   "coords": [
                         26.246668,
@@ -346,7 +346,7 @@ export const estoniaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Aidu supelrand",
-                  "text": "Beach in Aidu.",
+                  "text": "Aidu beach on the banks of the Nava River.",
                   "category": "recreational",
                   "coords": [
                         26.246668,
@@ -619,7 +619,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Vihtla järve ujumiskoht",
-                  "text": "Eine Badestelle am Vihtla-See im Haanja-Hochland.",
+                  "text": "Badeplatz am Vihtla-See im Haanja-Hochland.",
                   "category": "recreational",
                   "coords": [
                         27.010501,
@@ -675,7 +675,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Vihtla järve ujumiskoht",
-                  "text": "Fürdőhely a Vihtla-tónál, a Haanja-hátság területén.",
+                  "text": "Vihtla-tavi fürdőhely a Haanja-felföldön.",
                   "category": "recreational",
                   "coords": [
                         27.010501,
@@ -731,7 +731,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Vihtla järve ujumiskoht",
-                  "text": "Un loc de scăldat la lacul Vihtla, în podișul Haanja.",
+                  "text": "Loc de înot în Lacul Vihtla din Podișul Haanja.",
                   "category": "recreational",
                   "coords": [
                         27.010501,
@@ -787,7 +787,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Vihtla järve ujumiskoht",
-                  "text": "A swimming area at Lake Vihtla in the Haanja Upland.",
+                  "text": "Vihtla Lake swimming spot in the Haanja Upland.",
                   "category": "recreational",
                   "coords": [
                         27.010501,
@@ -889,7 +889,7 @@ export const estoniaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Strand bei Räpina.",
+                  "text": "Räpina Strand entlang des Vohandu-Flusses.",
                   "category": "recreational",
                   "coords": [
                         27.456297,
@@ -898,7 +898,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Meelva supelrand",
-                  "text": "Meelva-Badestrand am Fluss Võhandu.",
+                  "text": "Meelva Strand am unteren Vohandu-Fluss.",
                   "category": "recreational",
                   "coords": [
                         27.382638,
@@ -907,7 +907,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Räpina Koduloo- ja Aiandusmuuseum",
-                  "text": "Ein Museum in Räpina, das Lokalgeschichte und die Tradition des Gartenbaus zeigt.",
+                  "text": "Heimat- und Gartenbaumuseum in einem Herrenhaus am Võhandu-Fluss.",
                   "category": "museum",
                   "coords": [
                         27.450709,
@@ -945,7 +945,7 @@ export const estoniaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Strand Räpinánál.",
+                  "text": "Räpina strand a Vohandu folyó mentén.",
                   "category": "recreational",
                   "coords": [
                         27.456297,
@@ -954,7 +954,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Meelva supelrand",
-                  "text": "Meelva strand a Võhandu folyónál.",
+                  "text": "Meelva strand az alsó Vohandu folyónál.",
                   "category": "recreational",
                   "coords": [
                         27.382638,
@@ -963,7 +963,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Räpina Koduloo- ja Aiandusmuuseum",
-                  "text": "Räpinai múzeum, amely a helytörténetet és a kertészeti hagyományokat mutatja be.",
+                  "text": "Helytörténeti és kertészeti múzeum egy kastélyban a Võhandu folyónál.",
                   "category": "museum",
                   "coords": [
                         27.450709,
@@ -1001,7 +1001,7 @@ export const estoniaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Plajă lângă Räpina.",
+                  "text": "Plaja Räpina de-a lungul râului Vohandu.",
                   "category": "recreational",
                   "coords": [
                         27.456297,
@@ -1010,7 +1010,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Meelva supelrand",
-                  "text": "Plaja Meelva pe râul Võhandu.",
+                  "text": "Plaja Meelva pe cursul inferior al râului Vohandu.",
                   "category": "recreational",
                   "coords": [
                         27.382638,
@@ -1019,7 +1019,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Räpina Koduloo- ja Aiandusmuuseum",
-                  "text": "Muzeu în Räpina care prezintă istoria locală și tradiția grădinăritului.",
+                  "text": "Muzeul de istorie locală și grădinărit într-un conac pe râul Võhandu.",
                   "category": "museum",
                   "coords": [
                         27.450709,
@@ -1057,7 +1057,7 @@ export const estoniaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Beach near Räpina.",
+                  "text": "Räpina beach along the Vohandu River.",
                   "category": "recreational",
                   "coords": [
                         27.456297,
@@ -1066,7 +1066,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Meelva supelrand",
-                  "text": "Meelva beach on Võhandu river.",
+                  "text": "Meelva beach on the lower Vohandu River.",
                   "category": "recreational",
                   "coords": [
                         27.382638,
@@ -1075,7 +1075,7 @@ export const estoniaNatureV2: POI[] = [
             },
             {
                   "name": "Räpina Local Lore And Gardening Museum",
-                  "text": "A museum in Räpina showcasing local history and gardening traditions.",
+                  "text": "Local lore and gardening museum in a manor house on the Võhandu River.",
                   "category": "museum",
                   "coords": [
                         27.450709,

@@ -131,7 +131,484 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "ile-alatau-national-park-nature-v2",
+    id: "ile-alatau-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sovetterdin'",
+                  "text": "Ein massiver, 4317 Meter hoher Berggipfel im Transili-Alatau, der über dem Großen Almati-See thront.",
+                  "category": "natural",
+                  "coords": [
+                        77.036446,
+                        43.02453
+                  ]
+            },
+            {
+                  "name": "Shukyr",
+                  "text": "Ein ruhiges Naturgebiet im Ile-Alatau mit einem kleinen Gebirgssee und Wasserfällen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.009712,
+                        43.060463
+                  ]
+            },
+            {
+                  "name": "Lokomotiv",
+                  "text": "Ein 4182 Meter hoher Gipfel im Transili-Alatau, dessen Form an eine alte Dampflokomotive erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        77.064082,
+                        43.039435
+                  ]
+            },
+            {
+                  "name": "Pogrebetskii",
+                  "text": "Ein markanter, 4231 Meter hoher Gipfel, benannt nach einem berühmten sowjetischen Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        77.071608,
+                        43.034167
+                  ]
+            },
+            {
+                  "name": "Slomannyi traktor",
+                  "text": "Ein kurioses Wahrzeichen in den Bergen, bestehend aus den rostigen Überresten eines alten Traktors.",
+                  "category": "landmark",
+                  "coords": [
+                        77.078456,
+                        43.043234
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi",
+                  "text": "Ein vergletscherter, 4147 Meter hoher Gipfel, der bei Bergsteigern und Skitourengehern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        77.059232,
+                        43.054254
+                  ]
+            },
+            {
+                  "name": "Tu'iyk'su",
+                  "text": "Ein 4.211 Meter hoher, von einem massiven Gletscher gekrönter Gipfel, der als Zentrum für Gebirgsforschung und Bergsteigen dient.",
+                  "category": "natural",
+                  "coords": [
+                        77.09511,
+                        43.043596
+                  ]
+            },
+            {
+                  "name": "Turister",
+                  "text": "Ein 3.954 Meter hoher Gipfel im Transili-Alatau, der eine beliebte Wanderroute vom Skigebiet Schimbulak aus bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        77.084659,
+                        43.026557
+                  ]
+            },
+            {
+                  "name": "Oleg Koshevoi",
+                  "text": "Ein hoher Gipfel im Transili-Alatau, benannt nach einem sowjetischen Widerstandshelden.",
+                  "category": "natural",
+                  "coords": [
+                        77.085679,
+                        42.988308
+                  ]
+            },
+            {
+                  "name": "13-bis",
+                  "text": "Eine steile Felsbastion im Tuyuksu-Gletschergebiet, die häufig als Trainingsgelände für Alpinisten genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        77.043925,
+                        43.039097
+                  ]
+            },
+            {
+                  "name": "Ozera Titova",
+                  "text": "Eine Gruppe hochgelegener Alpenseen, die in einem Gletscherkar in den Alatau-Bergen liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.050168,
+                        43.086749
+                  ]
+            },
+            {
+                  "name": "Ulken Almaty koli",
+                  "text": "Ein türkisfarbener Alpensee auf 2.511 Metern Höhe, der als Trinkwasserspeicher für Almaty dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.985309,
+                        43.050871
+                  ]
+            },
+            {
+                  "name": "Ozero Manshuk Mametovoi",
+                  "text": "Ein Gletschersee, benannt nach der ersten sowjetisch-asiatischen Frau, die als Held der Sowjetunion geehrt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100413,
+                        43.078852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sovetterdin'",
+                  "text": "A Transz-Ili Alatau hatalmas, 4317 méter magas hegycsúcsa, amely a Nagy-Almati-tó fölé tornyosul.",
+                  "category": "natural",
+                  "coords": [
+                        77.036446,
+                        43.02453
+                  ]
+            },
+            {
+                  "name": "Shukyr",
+                  "text": "Nyugodt természeti terület az Ile-Alatau-ban, kis hegyi tóval és vízesésekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        77.009712,
+                        43.060463
+                  ]
+            },
+            {
+                  "name": "Lokomotiv",
+                  "text": "A Transz-Ili Alatau 4182 méteres csúcsa, amelynek alakja egy régi gőzmozdonyra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        77.064082,
+                        43.039435
+                  ]
+            },
+            {
+                  "name": "Pogrebetskii",
+                  "text": "Jellegzetes, 4231 méter magas csúcs, amelyet egy neves szovjet hegymászóról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        77.071608,
+                        43.034167
+                  ]
+            },
+            {
+                  "name": "Slomannyi traktor",
+                  "text": "Különleges hegyi látnivaló, amely egy régi traktor rozsdás maradványaiból áll.",
+                  "category": "landmark",
+                  "coords": [
+                        77.078456,
+                        43.043234
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi",
+                  "text": "Eljegesedett, 4147 méter magas csúcs, amely népszerű a hegymászók és sítúrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        77.059232,
+                        43.054254
+                  ]
+            },
+            {
+                  "name": "Tu'iyk'su",
+                  "text": "4211 méter magas, hatalmas gleccserrel koronázott csúcs, amely a hegyi kutatások és a hegymászás központja.",
+                  "category": "natural",
+                  "coords": [
+                        77.09511,
+                        43.043596
+                  ]
+            },
+            {
+                  "name": "Turister",
+                  "text": "3954 méter magas csúcs az Ili-alatau-hegységben, amely kedvelt túraútvonal a Simbulak síközpont felől.",
+                  "category": "landmark",
+                  "coords": [
+                        77.084659,
+                        43.026557
+                  ]
+            },
+            {
+                  "name": "Oleg Koshevoi",
+                  "text": "Az Ili-alatau egyik magas csúcsa, amelyet egy szovjet ellenállási hősről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        77.085679,
+                        42.988308
+                  ]
+            },
+            {
+                  "name": "13-bis",
+                  "text": "Meredek sziklabástya a Tujukszu-gleccser területén, amelyet gyakran használnak alpinisták gyakorlótereként.",
+                  "category": "landmark",
+                  "coords": [
+                        77.043925,
+                        43.039097
+                  ]
+            },
+            {
+                  "name": "Ozera Titova",
+                  "text": "Az Alatau-hegység gleccsereinek völgyében fekvő, magashegyi tengerszemek csoportja.",
+                  "category": "landmark",
+                  "coords": [
+                        77.050168,
+                        43.086749
+                  ]
+            },
+            {
+                  "name": "Ulken Almaty koli",
+                  "text": "Egy 2511 méter magasan fekvő, türkizkék tengerszem, amely Almati ivóvízellátását biztosítja.",
+                  "category": "landmark",
+                  "coords": [
+                        76.985309,
+                        43.050871
+                  ]
+            },
+            {
+                  "name": "Ozero Manshuk Mametovoi",
+                  "text": "Egy gleccsertó, amelyet az első Szovjetunió Hőse címet kapott szovjet-ázsiai nőről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100413,
+                        43.078852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sovetterdin'",
+                  "text": "Un vârf montan masiv de 4317 de metri din Trans-Ili Alatau care domină Lacul Mare Almaty.",
+                  "category": "natural",
+                  "coords": [
+                        77.036446,
+                        43.02453
+                  ]
+            },
+            {
+                  "name": "Shukyr",
+                  "text": "O zonă naturală liniștită din Ile-Alatau, cu un mic lac montan și cascade.",
+                  "category": "landmark",
+                  "coords": [
+                        77.009712,
+                        43.060463
+                  ]
+            },
+            {
+                  "name": "Lokomotiv",
+                  "text": "Un vârf de 4182 de metri din Trans-Ili Alatau, cu o formă ce amintește de o veche locomotivă cu abur.",
+                  "category": "natural",
+                  "coords": [
+                        77.064082,
+                        43.039435
+                  ]
+            },
+            {
+                  "name": "Pogrebetskii",
+                  "text": "Un vârf proeminent de 4231 de metri, numit după un renumit alpinist sovietic.",
+                  "category": "natural",
+                  "coords": [
+                        77.071608,
+                        43.034167
+                  ]
+            },
+            {
+                  "name": "Slomannyi traktor",
+                  "text": "Un reper montan inedit ce constă în resturile ruginite ale unui tractor vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        77.078456,
+                        43.043234
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi",
+                  "text": "Un vârf acoperit de ghețari de 4147 de metri, popular printre alpiniști și schiori de tură.",
+                  "category": "natural",
+                  "coords": [
+                        77.059232,
+                        43.054254
+                  ]
+            },
+            {
+                  "name": "Tu'iyk'su",
+                  "text": "Un vârf de 4.211 metri încununat de un ghețar masiv, servind drept centru pentru cercetări montane și alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        77.09511,
+                        43.043596
+                  ]
+            },
+            {
+                  "name": "Turister",
+                  "text": "Un vârf de 3.954 de metri în Trans-Ili Alatau, care oferă un traseu de drumeție popular din stațiunea de schi Șimbulak.",
+                  "category": "landmark",
+                  "coords": [
+                        77.084659,
+                        43.026557
+                  ]
+            },
+            {
+                  "name": "Oleg Koshevoi",
+                  "text": "Un vârf înalt din Trans-Ili Alatau, numit după un erou al rezistenței sovietice.",
+                  "category": "natural",
+                  "coords": [
+                        77.085679,
+                        42.988308
+                  ]
+            },
+            {
+                  "name": "13-bis",
+                  "text": "Un bastion de stâncă abrupt în zona ghețarului Tuyuksu, folosit frecvent ca teren de antrenament pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        77.043925,
+                        43.039097
+                  ]
+            },
+            {
+                  "name": "Ozera Titova",
+                  "text": "Un grup de lacuri alpine de mare altitudine, cuibărite într-un circ glaciar din munții Alatau.",
+                  "category": "landmark",
+                  "coords": [
+                        77.050168,
+                        43.086749
+                  ]
+            },
+            {
+                  "name": "Ulken Almaty koli",
+                  "text": "Un rezervuar alpin turcoaz situat la 2.511 metri, care furnizează apă potabilă pentru Almaty.",
+                  "category": "landmark",
+                  "coords": [
+                        76.985309,
+                        43.050871
+                  ]
+            },
+            {
+                  "name": "Ozero Manshuk Mametovoi",
+                  "text": "Un lac glaciar numit după prima femeie sovietică din Asia care a primit titlul de Erou al Uniunii Sovietice.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100413,
+                        43.078852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sovetov",
+                  "text": "A massive 4317-meter mountain peak in the Trans-Ili Alatau towering above the Big Almaty Lake.",
+                  "category": "natural",
+                  "coords": [
+                        77.036446,
+                        43.02453
+                  ]
+            },
+            {
+                  "name": "Shukyr",
+                  "text": "A serene natural area in the Ile-Alatau featuring a small mountain lake and waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        77.009712,
+                        43.060463
+                  ]
+            },
+            {
+                  "name": "Lokomotiv",
+                  "text": "A 4182-meter peak in the Trans-Ili Alatau with a shape resembling an old steam locomotive.",
+                  "category": "natural",
+                  "coords": [
+                        77.064082,
+                        43.039435
+                  ]
+            },
+            {
+                  "name": "Pogrebetsky",
+                  "text": "A prominent peak standing at 4231 meters, named after a renowned Soviet climber.",
+                  "category": "natural",
+                  "coords": [
+                        77.071608,
+                        43.034167
+                  ]
+            },
+            {
+                  "name": "Slomannyi traktor",
+                  "text": "A curious mountain landmark featuring the rusty remains of an old, abandoned tractor.",
+                  "category": "landmark",
+                  "coords": [
+                        77.078456,
+                        43.043234
+                  ]
+            },
+            {
+                  "name": "Molodyozhnyj",
+                  "text": "A glaciated peak at 4147 meters, popular among mountaineers and ski tourers.",
+                  "category": "natural",
+                  "coords": [
+                        77.059232,
+                        43.054254
+                  ]
+            },
+            {
+                  "name": "Tuyuksu",
+                  "text": "A 4,211-meter peak crowned by a massive glacier, serving as a hub for mountain research and climbing.",
+                  "category": "natural",
+                  "coords": [
+                        77.09511,
+                        43.043596
+                  ]
+            },
+            {
+                  "name": "Turistov",
+                  "text": "A 3,954-meter peak in the Trans-Ili Alatau offering a popular hiking route from the Chimbulak ski resort.",
+                  "category": "landmark",
+                  "coords": [
+                        77.084659,
+                        43.026557
+                  ]
+            },
+            {
+                  "name": "Oleg Koshevoy",
+                  "text": "A high peak in the Trans-Ili Alatau, named after a Soviet resistance hero.",
+                  "category": "natural",
+                  "coords": [
+                        77.085679,
+                        42.988308
+                  ]
+            },
+            {
+                  "name": "13-bis",
+                  "text": "A sheer rock bastion in the Tuyuksu glacier area, frequently used as a training ground for alpinists.",
+                  "category": "landmark",
+                  "coords": [
+                        77.043925,
+                        43.039097
+                  ]
+            },
+            {
+                  "name": "Titov Lakes",
+                  "text": "A group of high-altitude alpine lakes nestled in a glacial cirque in the Alatau mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        77.050168,
+                        43.086749
+                  ]
+            },
+            {
+                  "name": "Big Almaty Lake",
+                  "text": "A turquoise alpine reservoir at 2,511 meters that provides drinking water for Almaty.",
+                  "category": "landmark",
+                  "coords": [
+                        76.985309,
+                        43.050871
+                  ]
+            },
+            {
+                  "name": "Manshuk Mametova Lake",
+                  "text": "A glacial lake named after the first Soviet Asian woman to receive the Hero of the Soviet Union title.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100413,
+                        43.078852
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KZ-ALM",
     coords: [77.0333, 43.0667],
@@ -195,7 +672,52 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "altyn-emel-national-park-nature-v2",
+    id: "altyn-emel-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valikhanov",
+                  "text": "Das Valikhanov-Museum widmet sich dem Leben und den wissenschaftlichen Expeditionen des berühmten kasachischen Gelehrten.",
+                  "category": "museum",
+                  "coords": [
+                        78.446902,
+                        44.332903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valikhanov",
+                  "text": "A Valihanov múzeum a híres kazah tudós életét és tudományos expedícióit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        78.446902,
+                        44.332903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valikhanov",
+                  "text": "Muzeul Valikhanov este dedicat vieții și expedițiilor științifice ale renumitului savant kazah.",
+                  "category": "museum",
+                  "coords": [
+                        78.446902,
+                        44.332903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valikhanov",
+                  "text": "The Valikhanov museum is dedicated to the life and scientific expeditions of the renowned Kazakh scholar.",
+                  "category": "museum",
+                  "coords": [
+                        78.446902,
+                        44.332903
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KZ-JET",
     coords: [78.5000, 44.3333],
@@ -387,7 +909,340 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "burabay-national-park-nature-v2",
+    id: "burabay-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kokshetau",
+                  "text": "Dieser markante Gipfel ist der höchste Punkt des Kokshetau-Hochlandes und bietet einen weiten Blick über den Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        70.188795,
+                        53.080137
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Ein malerischer Wasserfall, der inmitten des dichten Kiefernwaldes über Granitfelsen in die Tiefe stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        70.216331,
+                        53.076518
+                  ]
+            },
+            {
+                  "name": "Chiortova katushka",
+                  "text": "Diese Felsformation ist als 'Teufelsspule' bekannt und bietet einen ungewöhnlichen Anblick in der bergigen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        70.227913,
+                        53.090065
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "Von dieser Aussichtsplattform überblickt man die blauen Seen und die markanten Granitgipfel des Burabay-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        70.233999,
+                        53.091461
+                  ]
+            },
+            {
+                  "name": "Kaskad",
+                  "text": "Ein kleiner Kaskaden-Wasserfall, der sanft über die Steinstufen in der Nähe des Seeufers hinabfließt.",
+                  "category": "natural",
+                  "coords": [
+                        70.234706,
+                        53.076204
+                  ]
+            },
+            {
+                  "name": "Zhu'mbak'tas (Kamen'-zagadka)",
+                  "text": "Dieser sagenumwobene Inselfelsen im Burabay-See erinnert je nach Blickwinkel an eine Sphinx oder eine junge Frau.",
+                  "category": "landmark",
+                  "coords": [
+                        70.251941,
+                        53.087425
+                  ]
+            },
+            {
+                  "name": "Tioshchin iazyk",
+                  "text": "Dieser schmale Sandstrand am Seeufer ist ein beliebter Ort zum Entspannen inmitten der waldreichen Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        70.253324,
+                        53.098329
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoriko-kul'turnyi muzei-zapovednik Botai",
+                  "text": "Dieses archäologische Freilichtmuseum zeigt Rekonstruktionen steinzeitlicher Behausungen und dokumentiert die frühe Pferdedomestizierung.",
+                  "category": "museum",
+                  "coords": [
+                        70.11446,
+                        53.022647
+                  ]
+            },
+            {
+                  "name": "Mul'timediinyi interaktivnyi kompleks",
+                  "text": "Dieser moderne Themenpark nutzt Multimedia-Technik, um die Naturwunder und Mythen Kasachstans interaktiv zu präsentieren.",
+                  "category": "recreational",
+                  "coords": [
+                        70.236025,
+                        53.082422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kokshetau",
+                  "text": "Ez a jellegzetes csúcs a Koksetau-hátság legmagasabb pontja, ahonnan pazar kilátás nyílik a nemzeti parkra.",
+                  "category": "natural",
+                  "coords": [
+                        70.188795,
+                        53.080137
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Festői vízesés, amely a sűrű fenyőerdő közepén zúdul le a gránitsziklákon.",
+                  "category": "natural",
+                  "coords": [
+                        70.216331,
+                        53.076518
+                  ]
+            },
+            {
+                  "name": "Chiortova katushka",
+                  "text": "Ez a sziklaformáció „Ördög-tekercs” néven ismert, és különleges látványt nyújt a hegyvidéki tájban.",
+                  "category": "natural",
+                  "coords": [
+                        70.227913,
+                        53.090065
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "Erről a kilátóról rálátni a kék tavakra és a Burabaj-vidék jellegzetes gránitcsúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        70.233999,
+                        53.091461
+                  ]
+            },
+            {
+                  "name": "Kaskad",
+                  "text": "Kicsi lépcsőzetes vízesés, amely szelíden folyik le a tópart közeli kőlépcsőkön.",
+                  "category": "natural",
+                  "coords": [
+                        70.234706,
+                        53.076204
+                  ]
+            },
+            {
+                  "name": "Zhu'mbak'tas (Kamen'-zagadka)",
+                  "text": "Ez a legendás sziklasziget a Burabaj-tóban nézőponttól függően egy szfinxre vagy egy fiatal nőre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        70.251941,
+                        53.087425
+                  ]
+            },
+            {
+                  "name": "Tioshchin iazyk",
+                  "text": "Ez a tóparti keskeny homokos strand népszerű pihenőhely az erdős természet lágy ölén.",
+                  "category": "recreational",
+                  "coords": [
+                        70.253324,
+                        53.098329
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoriko-kul'turnyi muzei-zapovednik Botai",
+                  "text": "Ez a szabadtéri régészeti múzeum kőkorszaki lakóhelyek rekonstrukcióit mutatja be, és dokumentálja a korai lószelídítést.",
+                  "category": "museum",
+                  "coords": [
+                        70.11446,
+                        53.022647
+                  ]
+            },
+            {
+                  "name": "Mul'timediinyi interaktivnyi kompleks",
+                  "text": "Ez a modern élménypark multimédiás technológiával, interaktív módon mutatja be Kazahsztán természeti csodáit és mítoszait.",
+                  "category": "recreational",
+                  "coords": [
+                        70.236025,
+                        53.082422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kokshetau",
+                  "text": "Acest vârf proeminent este cel mai înalt punct din podișul Kokșetau și oferă o priveliște vastă asupra parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        70.188795,
+                        53.080137
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "O cascadă pitorească ce se prăbușește peste stâncile de granit în mijlocul pădurii dese de pini.",
+                  "category": "natural",
+                  "coords": [
+                        70.216331,
+                        53.076518
+                  ]
+            },
+            {
+                  "name": "Chiortova katushka",
+                  "text": "Această formațiune stâncoasă este cunoscută sub numele de „Mosoia Dracului” și oferă o vedere neobișnuită în peisajul montan.",
+                  "category": "natural",
+                  "coords": [
+                        70.227913,
+                        53.090065
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "De pe această platformă de observație se pot vedea lacurile albastre și vârfurile de granit distinctive ale regiunii Burabai.",
+                  "category": "natural",
+                  "coords": [
+                        70.233999,
+                        53.091461
+                  ]
+            },
+            {
+                  "name": "Kaskad",
+                  "text": "O mică cascadă ce curge ușor peste treptele de piatră din apropierea malului lacului.",
+                  "category": "natural",
+                  "coords": [
+                        70.234706,
+                        53.076204
+                  ]
+            },
+            {
+                  "name": "Zhu'mbak'tas (Kamen'-zagadka)",
+                  "text": "Această stâncă legendară din lacul Burabai amintește de un sfinx sau de o tânără femeie, în funcție de unghiul de vizualizare.",
+                  "category": "landmark",
+                  "coords": [
+                        70.251941,
+                        53.087425
+                  ]
+            },
+            {
+                  "name": "Tioshchin iazyk",
+                  "text": "Această plajă îngustă cu nisip de pe malul lacului este un loc popular de relaxare în mijlocul naturii împădurite.",
+                  "category": "recreational",
+                  "coords": [
+                        70.253324,
+                        53.098329
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoriko-kul'turnyi muzei-zapovednik Botai",
+                  "text": "Acest muzeu arheologic în aer liber prezintă reconstrucții ale locuințelor din epoca pietrei și documentează domesticirea timpurie a cailor.",
+                  "category": "museum",
+                  "coords": [
+                        70.11446,
+                        53.022647
+                  ]
+            },
+            {
+                  "name": "Mul'timediinyi interaktivnyi kompleks",
+                  "text": "Acest parc tematic modern utilizează tehnologia multimedia pentru a prezenta interactiv minunile naturale și miturile Kazahstanului.",
+                  "category": "recreational",
+                  "coords": [
+                        70.236025,
+                        53.082422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kokshetau",
+                  "text": "This prominent peak is the highest point of the Kokshetau Uplands, offering sweeping views over the national park.",
+                  "category": "natural",
+                  "coords": [
+                        70.188795,
+                        53.080137
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "A picturesque waterfall cascading over granite rocks in the middle of a dense pine forest.",
+                  "category": "natural",
+                  "coords": [
+                        70.216331,
+                        53.076518
+                  ]
+            },
+            {
+                  "name": "Chiortova katushka",
+                  "text": "This rock formation is known as the 'Devil's Reel' and offers a unique visual curiosity in the mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        70.227913,
+                        53.090065
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "This observation deck overlooks the blue lakes and distinctive granite peaks of the Burabay area.",
+                  "category": "natural",
+                  "coords": [
+                        70.233999,
+                        53.091461
+                  ]
+            },
+            {
+                  "name": "Kaskad",
+                  "text": "A small cascading waterfall flowing gently over stone steps near the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        70.234706,
+                        53.076204
+                  ]
+            },
+            {
+                  "name": "Zhu'mbak'tas (Kamen'-zagadka)",
+                  "text": "This legendary island rock in Lake Burabay resembles a sphinx or a young woman depending on the viewing angle.",
+                  "category": "landmark",
+                  "coords": [
+                        70.251941,
+                        53.087425
+                  ]
+            },
+            {
+                  "name": "Tioshchin iazyk",
+                  "text": "This narrow sandy beach on the lakeshore is a popular spot for relaxation amidst the forested nature.",
+                  "category": "recreational",
+                  "coords": [
+                        70.253324,
+                        53.098329
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoriko-kul'turnyi muzei-zapovednik Botai",
+                  "text": "This open-air archaeological museum features reconstructions of Stone Age dwellings and documents early horse domestication.",
+                  "category": "museum",
+                  "coords": [
+                        70.11446,
+                        53.022647
+                  ]
+            },
+            {
+                  "name": "Mul'timediinyi interaktivnyi kompleks",
+                  "text": "This modern theme park uses multimedia technology to interactively present the natural wonders and myths of Kazakhstan.",
+                  "category": "recreational",
+                  "coords": [
+                        70.236025,
+                        53.082422
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KZ-AKM",
     coords: [70.2177, 53.0783],
@@ -580,7 +1435,52 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "syr-darya-nature-v2",
+    id: "syr-darya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tazhimbet ishan",
+                  "text": "Eine verehrte muslimische religiöse Stätte entlang der ausgedehnten natürlichen Auen des Flusses Syrdarja.",
+                  "category": "landmark",
+                  "coords": [
+                        61.225957,
+                        46.142051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tazhimbet ishan",
+                  "text": "Egy tisztelt muszlim vallási helyszín, amely a Szir-darja folyó kiterjedt természetes árterei mentén található.",
+                  "category": "landmark",
+                  "coords": [
+                        61.225957,
+                        46.142051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tazhimbet ishan",
+                  "text": "Un loc religios musulman venerat, situat de-a lungul întinselor lunci naturale ale râului Sîrdaria.",
+                  "category": "landmark",
+                  "coords": [
+                        61.225957,
+                        46.142051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tazhimbet ishan",
+                  "text": "A venerated Muslim religious site located along the expansive natural floodplains of the Syr Darya river.",
+                  "category": "landmark",
+                  "coords": [
+                        61.225957,
+                        46.142051
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KZ-KZY",
     coords: [61.1666, 46.1500],
@@ -644,7 +1544,160 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "mount-belukha-nature-v2",
+    id: "mount-belukha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kindyk tas",
+                  "text": "Ein heiliger Stein am Fuße des Belucha, der in der lokalen Tradition als „Nabel der Erde“ gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.679126,
+                        49.74838
+                  ]
+            },
+            {
+                  "name": "Belucha",
+                  "text": "Mit 4506 Metern der höchste Gipfel des Altai-Gebirges und ein UNESCO-Welterbe.",
+                  "category": "natural",
+                  "coords": [
+                        86.589907,
+                        49.807068
+                  ]
+            },
+            {
+                  "name": "Delone",
+                  "text": "Ein markanter, pyramidenförmiger Gipfel im Katun-Kamm des Belucha-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        86.600482,
+                        49.81787
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Arkhangela Mikhaila",
+                  "text": "Eine hölzerne orthodoxe Kapelle, die in großer Höhe für Bergsteiger und Retter errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        86.551417,
+                        49.883452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kindyk tas",
+                  "text": "Szent kő a Beluha lábánál, amelyet a helyi hagyomány a „Föld köldökeként” tisztel.",
+                  "category": "landmark",
+                  "coords": [
+                        86.679126,
+                        49.74838
+                  ]
+            },
+            {
+                  "name": "Belukha",
+                  "text": "4506 méterével az Altaj-hegység legmagasabb csúcsa és UNESCO világörökségi helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        86.589907,
+                        49.807068
+                  ]
+            },
+            {
+                  "name": "Delone",
+                  "text": "Jellegzetes, piramis alakú csúcs a Beluha-masszívum Katun-gerincén.",
+                  "category": "natural",
+                  "coords": [
+                        86.600482,
+                        49.81787
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Arkhangela Mikhaila",
+                  "text": "Magaslati fa ortodox kápolna, amelyet hegymászók és mentők számára építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.551417,
+                        49.883452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kindyk tas",
+                  "text": "O piatră sacră la poalele muntelui Beluha, considerată „ombilicul pământului” în tradiția locală.",
+                  "category": "landmark",
+                  "coords": [
+                        86.679126,
+                        49.74838
+                  ]
+            },
+            {
+                  "name": "Belukha",
+                  "text": "Cel mai înalt vârf din Munții Altai, având 4506 metri și fiind inclus în patrimoniul UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        86.589907,
+                        49.807068
+                  ]
+            },
+            {
+                  "name": "Delone",
+                  "text": "Un vârf piramidal distinctiv în creasta Katun a masivului Beluha.",
+                  "category": "natural",
+                  "coords": [
+                        86.600482,
+                        49.81787
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Arkhangela Mikhaila",
+                  "text": "O capelă ortodoxă din lemn construită la mare altitudine pentru alpiniști și salvatori.",
+                  "category": "landmark",
+                  "coords": [
+                        86.551417,
+                        49.883452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kindyk tas",
+                  "text": "A sacred stone at the foot of Mount Belukha, revered as the \"navel of the earth\" in local tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        86.679126,
+                        49.74838
+                  ]
+            },
+            {
+                  "name": "Belukha",
+                  "text": "The highest peak of the Altai Mountains at 4,506 meters and a UNESCO World Heritage site.",
+                  "category": "natural",
+                  "coords": [
+                        86.589907,
+                        49.807068
+                  ]
+            },
+            {
+                  "name": "Delone",
+                  "text": "A distinctive pyramid-shaped peak in the Katun ridge of the Belukha massif.",
+                  "category": "natural",
+                  "coords": [
+                        86.600482,
+                        49.81787
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Arkhangela Mikhaila",
+                  "text": "A high-altitude wooden Orthodox chapel built for mountaineers and rescuers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.551417,
+                        49.883452
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KZ-VOS",
     coords: [86.5913, 49.8077],
@@ -708,7 +1761,268 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "khan-tengri-nature-v2",
+    id: "khan-tengri-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chapaev chokusu",
+                  "text": "Ein majestätischer Gipfel in der Nähe des berühmten Khan Tengri.",
+                  "category": "natural",
+                  "coords": [
+                        80.138317,
+                        42.19918
+                  ]
+            },
+            {
+                  "name": "Semjonow",
+                  "text": "Ein nach dem Entdecker Semjonow-Tjan-Schanski benannter Hochgebirgsgipfel.",
+                  "category": "natural",
+                  "coords": [
+                        80.118209,
+                        42.27637
+                  ]
+            },
+            {
+                  "name": "Odinnadtsati",
+                  "text": "Ein abgelegener, vergletscherter Berggipfel im hohen Saryjas-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        80.142468,
+                        42.285837
+                  ]
+            },
+            {
+                  "name": "Baiynk'ol",
+                  "text": "Ein bedeutender Grenzberg zwischen Kasachstan und China.",
+                  "category": "natural",
+                  "coords": [
+                        80.175387,
+                        42.284308
+                  ]
+            },
+            {
+                  "name": "K'azak'stan",
+                  "text": "Ein gewaltiger vergletscherter Gipfel im Herzen des Tienschan.",
+                  "category": "natural",
+                  "coords": [
+                        80.208173,
+                        42.2824
+                  ]
+            },
+            {
+                  "name": "Saladin",
+                  "text": "Ein vergletscherter Berggipfel in der Nähe des gewaltigen Inyltschek-Gletschers.",
+                  "category": "natural",
+                  "coords": [
+                        80.203457,
+                        42.228827
+                  ]
+            },
+            {
+                  "name": "K'arlytau",
+                  "text": "Ein schneebedeckter Gipfel in der zerklüfteten zentralen Tienschan-Region.",
+                  "category": "natural",
+                  "coords": [
+                        80.230775,
+                        42.278309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapaev chokusu",
+                  "text": "Fenséges hegycsúcs a híres Han-Tengri közelében.",
+                  "category": "natural",
+                  "coords": [
+                        80.138317,
+                        42.19918
+                  ]
+            },
+            {
+                  "name": "Semionov",
+                  "text": "Szemjonov-Tjan-Sanszkij felfedezőről elnevezett magashegyi csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        80.118209,
+                        42.27637
+                  ]
+            },
+            {
+                  "name": "Odinnadtsati",
+                  "text": "Távoli, eljegesedett hegycsúcs a magas Szarijaz-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        80.142468,
+                        42.285837
+                  ]
+            },
+            {
+                  "name": "Baiynk'ol",
+                  "text": "Jelentős határhegy Kazahsztán és Kína határán.",
+                  "category": "natural",
+                  "coords": [
+                        80.175387,
+                        42.284308
+                  ]
+            },
+            {
+                  "name": "K'azak'stan",
+                  "text": "Hatalmas, gleccserekkel borított hegycsúcs a Tien-san szívében.",
+                  "category": "natural",
+                  "coords": [
+                        80.208173,
+                        42.2824
+                  ]
+            },
+            {
+                  "name": "Saladin",
+                  "text": "Eljegesedett hegycsúcs a hatalmas Inilcsek-gleccser közelében.",
+                  "category": "natural",
+                  "coords": [
+                        80.203457,
+                        42.228827
+                  ]
+            },
+            {
+                  "name": "K'arlytau",
+                  "text": "Havas hegycsúcs a vadregényes Középső-Tien-san régióban.",
+                  "category": "natural",
+                  "coords": [
+                        80.230775,
+                        42.278309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapaev chokusu",
+                  "text": "Un vârf maiestuos situat în apropierea celebrului Khan Tengri.",
+                  "category": "natural",
+                  "coords": [
+                        80.138317,
+                        42.19918
+                  ]
+            },
+            {
+                  "name": "Semionov",
+                  "text": "Un vârf de mare altitudine numit după exploratorul Semionov-Tian-Șanski.",
+                  "category": "natural",
+                  "coords": [
+                        80.118209,
+                        42.27637
+                  ]
+            },
+            {
+                  "name": "Odinnadtsati",
+                  "text": "Un vârf muntos înghețat și izolat din munții înalți Saryjaz.",
+                  "category": "natural",
+                  "coords": [
+                        80.142468,
+                        42.285837
+                  ]
+            },
+            {
+                  "name": "Baiynk'ol",
+                  "text": "Un vârf de frontieră important între Kazahstan și China.",
+                  "category": "natural",
+                  "coords": [
+                        80.175387,
+                        42.284308
+                  ]
+            },
+            {
+                  "name": "K'azak'stan",
+                  "text": "Un vârf înghețat masiv situat în inima munților Tian-Șan.",
+                  "category": "natural",
+                  "coords": [
+                        80.208173,
+                        42.2824
+                  ]
+            },
+            {
+                  "name": "Saladin",
+                  "text": "Un vârf muntos înghețat situat lângă vastul ghețar Inylchek.",
+                  "category": "natural",
+                  "coords": [
+                        80.203457,
+                        42.228827
+                  ]
+            },
+            {
+                  "name": "K'arlytau",
+                  "text": "Un vârf acoperit de zăpadă în regiunea accidentată a Tian-Șanului Central.",
+                  "category": "natural",
+                  "coords": [
+                        80.230775,
+                        42.278309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapaev chokusu",
+                  "text": "A majestic peak located in the vicinity of the famous Khan Tengri.",
+                  "category": "natural",
+                  "coords": [
+                        80.138317,
+                        42.19918
+                  ]
+            },
+            {
+                  "name": "Semyonov",
+                  "text": "A high-altitude peak named after the explorer Semyonov-Tyan-Shansky.",
+                  "category": "natural",
+                  "coords": [
+                        80.118209,
+                        42.27637
+                  ]
+            },
+            {
+                  "name": "Odinnadtsati",
+                  "text": "A remote, glaciated mountain peak in the high Saryjaz range.",
+                  "category": "natural",
+                  "coords": [
+                        80.142468,
+                        42.285837
+                  ]
+            },
+            {
+                  "name": "Bayynqol",
+                  "text": "A significant border peak situated between Kazakhstan and China.",
+                  "category": "natural",
+                  "coords": [
+                        80.175387,
+                        42.284308
+                  ]
+            },
+            {
+                  "name": "Qazaqstan",
+                  "text": "A massive glaciated summit located in the heart of the Tien Shan.",
+                  "category": "natural",
+                  "coords": [
+                        80.208173,
+                        42.2824
+                  ]
+            },
+            {
+                  "name": "Saladin",
+                  "text": "A glaciated mountain peak near the massive Inylchek Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        80.203457,
+                        42.228827
+                  ]
+            },
+            {
+                  "name": "Qarlytau",
+                  "text": "A snow-covered peak in the rugged Central Tien Shan region.",
+                  "category": "natural",
+                  "coords": [
+                        80.230775,
+                        42.278309
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KZ-ALM",
     coords: [80.1744, 42.2108],
@@ -964,7 +2278,88 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     }
   },
   {
-    id: "bayanaul-national-park-nature-v2",
+    id: "bayanaul-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "K'on'yr @ulie",
+                  "text": "Eine heilige Kalksteinhöhle, die ein wichtiges Ziel für Pilger im Nationalpark ist.",
+                  "category": "natural",
+                  "coords": [
+                        75.509957,
+                        50.808613
+                  ]
+            },
+            {
+                  "name": "Nationalpark Bajanaul",
+                  "text": "Kasachstans erster Nationalpark, bekannt für seine bizarren Granitfelsen und klaren Bergseen.",
+                  "category": "natural",
+                  "coords": [
+                        75.56015,
+                        50.794031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'on'yr @ulie",
+                  "text": "Szent mészkőbarlang, amely a nemzeti park fontos zarándokhelye.",
+                  "category": "natural",
+                  "coords": [
+                        75.509957,
+                        50.808613
+                  ]
+            },
+            {
+                  "name": "Baianauyl u'lttyk' saiabag'y",
+                  "text": "Kazahsztán első nemzeti parkja, amely bizarr gránitszikláiról és tiszta hegyi tavairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        75.56015,
+                        50.794031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'on'yr @ulie",
+                  "text": "O peșteră de calcar sacră, care este o destinație importantă pentru pelerini în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        75.509957,
+                        50.808613
+                  ]
+            },
+            {
+                  "name": "Baianauyl u'lttyk' saiabag'y",
+                  "text": "Primul parc național din Kazahstan, renumit pentru stâncile sale de granit bizare și lacurile montane limpezi.",
+                  "category": "natural",
+                  "coords": [
+                        75.56015,
+                        50.794031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "K'on'yr @ulie",
+                  "text": "A sacred limestone cave that serves as a major pilgrimage site within the national park.",
+                  "category": "natural",
+                  "coords": [
+                        75.509957,
+                        50.808613
+                  ]
+            },
+            {
+                  "name": "Bayanaul National Park",
+                  "text": "Kazakhstan's first national park, renowned for its bizarre granite rock formations and clear mountain lakes.",
+                  "category": "natural",
+                  "coords": [
+                        75.56015,
+                        50.794031
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "KZ-PAV",
     coords: [75.6500, 50.8000],

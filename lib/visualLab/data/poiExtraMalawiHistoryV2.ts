@@ -142,7 +142,7 @@ export const malawiHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Stonehouse Museum",
-                  "text": "Das Stonehouse Museum ist ein lokales Geschichtsmuseum in Livingstonia-Mission.",
+                  "text": "Das Stonehouse Museum in Livingstonia Mission.",
                   "category": "museum",
                   "coords": [
                         34.113019,
@@ -151,7 +151,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Chombe Proposed Forest Reserve",
-                  "text": "Das Chombe Proposed Forest Reserve ist ein ausgewiesenes Naturgebiet nahe Livingstonia-Mission.",
+                  "text": "Das vorgeschlagene Waldreservat Chombe bei Livingstonia Mission.",
                   "category": "natural",
                   "coords": [
                         34.157197,
@@ -160,7 +160,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Cave behind the Kazichi water fall",
-                  "text": "Die Cave behind the Kazichi water fall ist ein einzigartiger Aussichtspunkt in Livingstonia-Mission.",
+                  "text": "Eine Höhle hinter dem Kazichi-Wasserfall in Livingstonia Mission.",
                   "category": "natural",
                   "coords": [
                         34.119845,
@@ -171,7 +171,7 @@ export const malawiHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Stonehouse Museum",
-                  "text": "A Stonehouse Museum egy helytörténeti múzeum Livingstonia-Mission településen.",
+                  "text": "A Stonehouse Múzeum Livingstonia Missionban.",
                   "category": "museum",
                   "coords": [
                         34.113019,
@@ -180,7 +180,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Chombe Proposed Forest Reserve",
-                  "text": "A Chombe Proposed Forest Reserve egy kijelölt természetvédelmi terület Livingstonia-Mission közelében.",
+                  "text": "A Chombe tervezett erdőrezervátum Livingstonia Mission mellett.",
                   "category": "natural",
                   "coords": [
                         34.157197,
@@ -189,7 +189,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Cave behind the Kazichi water fall",
-                  "text": "A Cave behind the Kazichi water fall egy egyedülálló kilátópont Livingstonia-Mission településen.",
+                  "text": "Egy barlang a Kazichi-vízesés mögött Livingstonia Missionban.",
                   "category": "natural",
                   "coords": [
                         34.119845,
@@ -200,7 +200,7 @@ export const malawiHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Stonehouse Museum",
-                  "text": "Stonehouse Museum este un muzeu de istorie locală din Livingstonia-Mission.",
+                  "text": "Muzeul Stonehouse din Livingstonia Mission.",
                   "category": "museum",
                   "coords": [
                         34.113019,
@@ -209,7 +209,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Chombe Proposed Forest Reserve",
-                  "text": "Chombe Proposed Forest Reserve este o arie naturală protejată lângă Livingstonia-Mission.",
+                  "text": "Rezervația forestieră propusă Chombe lângă Livingstonia Mission.",
                   "category": "natural",
                   "coords": [
                         34.157197,
@@ -218,7 +218,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Cave behind the Kazichi water fall",
-                  "text": "Cave behind the Kazichi water fall este un punct de belvedere pitoresc din Livingstonia-Mission.",
+                  "text": "O peșteră în spatele cascadei Kazichi din Livingstonia Mission.",
                   "category": "natural",
                   "coords": [
                         34.119845,
@@ -229,7 +229,7 @@ export const malawiHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Stonehouse Museum",
-                  "text": "Stonehouse Museum is a local history museum in Livingstonia-Mission.",
+                  "text": "The Stonehouse Museum in Livingstonia Mission.",
                   "category": "museum",
                   "coords": [
                         34.113019,
@@ -238,7 +238,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Chombe Proposed Forest Reserve",
-                  "text": "Chombe Proposed Forest Reserve is a designated natural area near Livingstonia-Mission.",
+                  "text": "The proposed Chombe Forest Reserve near Livingstonia Mission.",
                   "category": "natural",
                   "coords": [
                         34.157197,
@@ -247,7 +247,7 @@ export const malawiHistoryV2: POI[] = [
             },
             {
                   "name": "Cave behind the Kazichi water fall",
-                  "text": "The Cave behind the Kazichi water fall is a unique scenic viewpoint in Livingstonia-Mission.",
+                  "text": "A cave behind the Kazichi waterfall in Livingstonia Mission.",
                   "category": "natural",
                   "coords": [
                         34.119845,
@@ -2239,7 +2239,7 @@ export const malawiHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Kongwe Forest Reserve",
-                  "text": "Das Kongwe Forest Reserve ist ein Naturschutzgebiet in Kongwe-Mission.",
+                  "text": "Das Kongwe-Waldreservat in Kongwe Mission.",
                   "category": "natural",
                   "coords": [
                         33.927667,
@@ -2250,7 +2250,7 @@ export const malawiHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Kongwe Forest Reserve",
-                  "text": "A Kongwe Forest Reserve egy természetvédelmi terület Kongwe-Mission területén.",
+                  "text": "A Kongwe erdőrezervátum Kongwe Missionban.",
                   "category": "natural",
                   "coords": [
                         33.927667,
@@ -2261,7 +2261,7 @@ export const malawiHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Kongwe Forest Reserve",
-                  "text": "Kongwe Forest Reserve este o rezervație naturală situată în Kongwe-Mission.",
+                  "text": "Rezervația forestieră Kongwe din Kongwe Mission.",
                   "category": "natural",
                   "coords": [
                         33.927667,
@@ -2272,7 +2272,7 @@ export const malawiHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Kongwe Forest Reserve",
-                  "text": "Kongwe Forest Reserve is a nature reserve located in Kongwe-Mission.",
+                  "text": "The Kongwe Forest Reserve in Kongwe Mission.",
                   "category": "natural",
                   "coords": [
                         33.927667,

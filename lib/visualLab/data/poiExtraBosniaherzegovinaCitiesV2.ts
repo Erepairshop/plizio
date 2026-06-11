@@ -43,7 +43,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazeni Olimpija",
-                  "text": "Die Bazeni Olimpija in Sanski Most sind ein Wasserpark für den Familienurlaub.",
+                  "text": "Olympia-Schwimmbecken und Wasserrutschen, ein beliebtes Familienziel in Sanskimost.",
                   "category": "family",
                   "coords": [
                         16.627025,
@@ -90,7 +90,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazeni Olimpija",
-                  "text": "A sanski mosti Bazeni Olimpija egy vízipark a családi pihenéshez.",
+                  "text": "Olimpiai méretű medencék és csúszdák, népszerű családi látványosság Sanskimostban.",
                   "category": "family",
                   "coords": [
                         16.627025,
@@ -137,7 +137,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazeni Olimpija",
-                  "text": "Bazeni Olimpija din Sanski Most este un parc acvatic pentru vacanțele în familie.",
+                  "text": "Piscine olimpice și tobogane, o atracție populară pentru familii în Sanskimost.",
                   "category": "family",
                   "coords": [
                         16.627025,
@@ -184,7 +184,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazeni Olimpija",
-                  "text": "Bazeni Olimpija in Sanski Most is a water park for family holidays.",
+                  "text": "Olympic-sized swimming pools and water slides, a popular family attraction in Sanskimost.",
                   "category": "family",
                   "coords": [
                         16.627025,
@@ -335,7 +335,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zanesko jezero",
-                  "text": "Zanesko jezero ist ein See in Bugojno, der sich gut für Spaziergänge eignet.",
+                  "text": "Zanesko-See in Bugojno, ein ruhiges Gewässer, umgeben von Hügeln, ideal zum Angeln.",
                   "category": "natural",
                   "coords": [
                         17.506793,
@@ -355,7 +355,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zanesko jezero",
-                  "text": "Zanesko jezero egy tó Bugojno területén, amely alkalmas sétákra.",
+                  "text": "Zanesko-tó Bugojnoban, nyugodt víz, dombokkal körülvéve, horgászathoz ideális.",
                   "category": "natural",
                   "coords": [
                         17.506793,
@@ -375,7 +375,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zanesko jezero",
-                  "text": "Zanesko jezero este un lac din Bugojno, potrivit pentru plimbări.",
+                  "text": "Lacul Zanesko din Bugojno, o apă calmă înconjurată de dealuri, ideală pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         17.506793,
@@ -395,7 +395,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zanesko jezero",
-                  "text": "Zanesko jezero is a lake in Bugojno suitable for walks.",
+                  "text": "Lake Zanesko in Bugojno, a calm water body surrounded by hills, ideal for fishing.",
                   "category": "natural",
                   "coords": [
                         17.506793,
@@ -1027,7 +1027,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Terme Ozren",
-                  "text": "Terme Ozren in Gracanica ist ein Wasserpark mit Schwimmbecken für Familien.",
+                  "text": "Thermalbad-Komplex in Gracanica mit Innen- und Außenbecken, gespeist von heißen Quellen.",
                   "category": "family",
                   "coords": [
                         18.318953,
@@ -1038,7 +1038,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Terme Ozren",
-                  "text": "A gracanicai Terme Ozren egy vízipark úszómedencékkel a családok számára.",
+                  "text": "Termálfürdő-komplexum Gracanicában, fedett és szabadtéri medencékkel, forró forrásokból táplálva.",
                   "category": "family",
                   "coords": [
                         18.318953,
@@ -1049,7 +1049,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Terme Ozren",
-                  "text": "Terme Ozren din Gracanica este un parc acvatic cu bazine pentru familii.",
+                  "text": "Complex termal în Gracanica, cu bazine interioare și exterioare alimentate de izvoare termale.",
                   "category": "family",
                   "coords": [
                         18.318953,
@@ -1060,7 +1060,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Terme Ozren",
-                  "text": "Terme Ozren in Gracanica is a water park with pools for families.",
+                  "text": "Thermal spa complex in Gracanica with indoor and outdoor pools fed by hot springs.",
                   "category": "family",
                   "coords": [
                         18.318953,
@@ -1115,7 +1115,556 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-lukavac-cities-v2", "sights": {"de": [{"name": "Modračko jezero", "text": "Der Modrac-See bei Lukavac ist ein bekanntes Ziel für Freizeitaktivitäten und Naturerlebnisse.", "category": "natural", "coords": [18.516527, 44.494132]}, {"name": "Bistaračko jezero", "text": "Der Bistaračko See in Lukavac bietet eine ruhige Atmosphäre für einen Tag am See.", "category": "natural", "coords": [18.553545, 44.534743]}, {"name": "Pumpna stanica Cerik", "text": "Das Gewässer bei der Pumpstation Cerik in Lukavac bietet eine ruhige natürliche Umgebung.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "PS Milešići", "text": "Dieser kleine See bei Milešići ist ein friedlicher Ort für lokale Spaziergänge.", "category": "natural", "coords": [18.567309, 44.561601]}, {"name": "Rezervoar Milešići", "text": "Der Stausee Milešići bei Lukavac dient als ruhiger Rückzugsort im Grünen.", "category": "natural", "coords": [18.571727, 44.56769]}, {"name": "ŠIBER", "text": "ŠIBER in Lukavac ist ein ruhiges lokales Gewässer, ideal für eine kurze Pause.", "category": "natural", "coords": [18.61284, 44.510777]}, {"name": "Kraj cjevi F75", "text": "Diese Wasserstelle in Lukavac bietet eine schlichte und ruhige Umgebung.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER in Lukavac ist ein stilles Gewässer inmitten der Natur.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Hidrant i šiber", "text": "Dieser Bereich in Lukavac bietet einen ruhigen Blick auf das lokale Gewässer.", "category": "natural", "coords": [18.596009, 44.552908]}, {"name": "Rezervoar Šikara", "text": "Der Stausee Šikara bei Lukavac ist ein friedliches Ziel für Wanderer.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "Die Wasseranlage Šikara bietet eine ruhige Umgebung für einen Aufenthalt im Freien.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "Der Stausee Husino bei Lukavac bietet eine entspannte Atmosphäre am Wasser.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Rezervoar Kiseljak", "text": "Der Kiseljak-Stausee in Lukavac ist ein ruhiger Ort für Naturfreunde.", "category": "natural", "coords": [18.557978, 44.495089]}, {"name": "Šiber za Demiroviće", "text": "Dieses Gewässer bei Demiroviće bietet eine friedliche Kulisse für Spaziergänge.", "category": "natural", "coords": [18.613223, 44.490232]}, {"name": "Jezero Smoluća", "text": "Der Smoluća See bei Lukavac ist ein idealer Ort für Ruhe und Entspannung.", "category": "natural", "coords": [18.528873, 44.589556]}], "hu": [{"name": "Modračko jezero", "text": "A Lukavac közelében fekvő Modrac-tó kedvelt célpont szabadidős tevékenységekhez és természetjáráshoz.", "category": "natural", "coords": [18.516527, 44.494132]}, {"name": "Bistaračko jezero", "text": "A Lukavac városában található Bistaračko-tó nyugodt légkört biztosít egy tóparti naphoz.", "category": "natural", "coords": [18.553545, 44.534743]}, {"name": "Pumpna stanica Cerik", "text": "A lukavaci Cerik szivattyúállomásnál található vízfelület nyugodt természeti környezetet kínál.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "PS Milešići", "text": "Ez a Milešići közelében található kis tó békés hely a környékbeli sétákhoz.", "category": "natural", "coords": [18.567309, 44.561601]}, {"name": "Rezervoar Milešići", "text": "A Lukavac közelében fekvő Milešići-víztározó nyugodt erdei menedékként szolgál.", "category": "natural", "coords": [18.571727, 44.56769]}, {"name": "ŠIBER", "text": "A lukavaci ŠIBER egy nyugodt helyi vízfelület, amely ideális egy rövid szünetre.", "category": "natural", "coords": [18.61284, 44.510777]}, {"name": "Kraj cjevi F75", "text": "Ez a lukavaci vízlelőhely egyszerű és nyugodt környezetet biztosít.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "A lukavaci MULJNI ŠIBER egy csendes vízfelület a természet lágy ölén.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Hidrant i šiber", "text": "Ez a lukavaci terület nyugodt kilátást nyújt a helyi vízfelületre.", "category": "natural", "coords": [18.596009, 44.552908]}, {"name": "Rezervoar Šikara", "text": "A Lukavac közelében található Šikara-víztározó békés célpont a túrázók számára.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "A Šikara vízi létesítmény nyugodt környezetet biztosít a szabadban való időtöltéshez.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "A Lukavac közelében fekvő Husino-víztározó pihentető légkört kínál a vízparton.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Rezervoar Kiseljak", "text": "A lukavaci Kiseljak-víztározó nyugodt hely a természetbarátok számára.", "category": "natural", "coords": [18.557978, 44.495089]}, {"name": "Šiber za Demiroviće", "text": "Ez a Demiroviće közelében található vízfelület békés hátteret biztosít a sétákhoz.", "category": "natural", "coords": [18.613223, 44.490232]}, {"name": "Jezero Smoluća", "text": "A Lukavac közelében fekvő Smoluća-tó ideális hely a csendre és a kikapcsolódásra.", "category": "natural", "coords": [18.528873, 44.589556]}], "ro": [{"name": "Modračko jezero", "text": "Lacul Modrac de lângă Lukavac este o destinație cunoscută pentru activități recreative și natură.", "category": "natural", "coords": [18.516527, 44.494132]}, {"name": "Bistaračko jezero", "text": "Lacul Bistaračko din Lukavac oferă o atmosferă liniștită pentru o zi la lac.", "category": "natural", "coords": [18.553545, 44.534743]}, {"name": "Pumpna stanica Cerik", "text": "Zona de apă de la stația de pompare Cerik din Lukavac oferă un cadru natural liniștit.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "PS Milešići", "text": "Acest mic lac de lângă Milešići este un loc liniștit pentru plimbări locale.", "category": "natural", "coords": [18.567309, 44.561601]}, {"name": "Rezervoar Milešići", "text": "Rezervuarul Milešići de lângă Lukavac servește ca un refugiu liniștit în natură.", "category": "natural", "coords": [18.571727, 44.56769]}, {"name": "ŠIBER", "text": "ŠIBER din Lukavac este o apă locală liniștită, ideală pentru o scurtă pauză.", "category": "natural", "coords": [18.61284, 44.510777]}, {"name": "Kraj cjevi F75", "text": "Acest punct de apă din Lukavac oferă un cadru simplu și liniștit.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER din Lukavac este o apă liniștită în mijlocul naturii.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Hidrant i šiber", "text": "Această zonă din Lukavac oferă o vedere liniștită asupra apei locale.", "category": "natural", "coords": [18.596009, 44.552908]}, {"name": "Rezervoar Šikara", "text": "Rezervuarul Šikara de lângă Lukavac este o destinație liniștită pentru drumeți.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "Instalația de apă Šikara oferă un cadru liniștit pentru petrecerea timpului în aer liber.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "Rezervuarul Husino de lângă Lukavac oferă o atmosferă relaxantă la malul apei.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Rezervoar Kiseljak", "text": "Rezervuarul Kiseljak din Lukavac este un loc liniștit pentru iubitorii de natură.", "category": "natural", "coords": [18.557978, 44.495089]}, {"name": "Šiber za Demiroviće", "text": "Această apă de lângă Demiroviće oferă un cadru liniștit pentru plimbări.", "category": "natural", "coords": [18.613223, 44.490232]}, {"name": "Jezero Smoluća", "text": "Lacul Smoluća de lângă Lukavac este un loc ideal pentru liniște și relaxare.", "category": "natural", "coords": [18.528873, 44.589556]}], "en": [{"name": "Modračko jezero", "text": "Modrac Lake near Lukavac is a well-known destination for leisure activities and nature.", "category": "natural", "coords": [18.516527, 44.494132]}, {"name": "Bistaračko jezero", "text": "Bistaračko Lake in Lukavac offers a peaceful atmosphere for a day by the lake.", "category": "natural", "coords": [18.553545, 44.534743]}, {"name": "Pumpna stanica Cerik", "text": "The water area at the Cerik pumping station in Lukavac offers a quiet natural setting.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "PS Milešići", "text": "This small lake near Milešići is a peaceful spot for local walks.", "category": "natural", "coords": [18.567309, 44.561601]}, {"name": "Rezervoar Milešići", "text": "The Milešići reservoir near Lukavac serves as a quiet retreat in nature.", "category": "natural", "coords": [18.571727, 44.56769]}, {"name": "ŠIBER", "text": "ŠIBER in Lukavac is a quiet local body of water, ideal for a short break.", "category": "natural", "coords": [18.61284, 44.510777]}, {"name": "Kraj cjevi F75", "text": "This water spot in Lukavac offers a simple and calm setting.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER in Lukavac is a quiet body of water in the middle of nature.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Hidrant i šiber", "text": "This area in Lukavac offers a peaceful view of the local water.", "category": "natural", "coords": [18.596009, 44.552908]}, {"name": "Rezervoar Šikara", "text": "The Šikara reservoir near Lukavac is a peaceful destination for hikers.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "The Šikara water facility provides a calm setting for spending time outdoors.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "The Husino reservoir near Lukavac offers a relaxing atmosphere by the water.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Rezervoar Kiseljak", "text": "The Kiseljak reservoir in Lukavac is a quiet spot for nature lovers.", "category": "natural", "coords": [18.557978, 44.495089]}, {"name": "Šiber za Demiroviće", "text": "This water area near Demiroviće provides a peaceful backdrop for walks.", "category": "natural", "coords": [18.613223, 44.490232]}, {"name": "Jezero Smoluća", "text": "Smoluća Lake near Lukavac is an ideal place for peace and relaxation.", "category": "natural", "coords": [18.528873, 44.589556]}]},
+    id: "bosniaherzegovina-lukavac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Modračko jezero",
+                  "text": "Der Modrac-See bei Lukavac ist ein bekanntes Ziel für Freizeitaktivitäten und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        18.516527,
+                        44.494132
+                  ]
+            },
+            {
+                  "name": "Bistaračko jezero",
+                  "text": "Der Bistaračko See in Lukavac bietet eine ruhige Atmosphäre für einen Tag am See.",
+                  "category": "natural",
+                  "coords": [
+                        18.553545,
+                        44.534743
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Das Gewässer bei der Pumpstation Cerik in Lukavac bietet eine ruhige natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "PS Milešići",
+                  "text": "Dieser kleine See bei Milešići ist ein friedlicher Ort für lokale Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.567309,
+                        44.561601
+                  ]
+            },
+            {
+                  "name": "Rezervoar Milešići",
+                  "text": "Der Stausee Milešići bei Lukavac dient als ruhiger Rückzugsort im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.571727,
+                        44.56769
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER in Lukavac ist ein ruhiges lokales Gewässer, ideal für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        18.61284,
+                        44.510777
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Diese Wasserstelle in Lukavac bietet eine schlichte und ruhige Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER in Lukavac ist ein stilles Gewässer inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Hidrant i šiber",
+                  "text": "Dieser Bereich in Lukavac bietet einen ruhigen Blick auf das lokale Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        18.596009,
+                        44.552908
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Šikara-Stausee in Lukavac, ein künstlicher See zur Wasserversorgung und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Die Wasseranlage Šikara bietet eine ruhige Umgebung für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Der Stausee Husino bei Lukavac bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Rezervoar Kiseljak",
+                  "text": "Der Kiseljak-Stausee in Lukavac ist ein ruhiger Ort für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        18.557978,
+                        44.495089
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Dieses Gewässer bei Demiroviće bietet eine friedliche Kulisse für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            },
+            {
+                  "name": "Jezero Smoluća",
+                  "text": "Der Smoluća See bei Lukavac ist ein idealer Ort für Ruhe und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        18.528873,
+                        44.589556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Modračko jezero",
+                  "text": "A Lukavac közelében fekvő Modrac-tó kedvelt célpont szabadidős tevékenységekhez és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.516527,
+                        44.494132
+                  ]
+            },
+            {
+                  "name": "Bistaračko jezero",
+                  "text": "A Lukavac városában található Bistaračko-tó nyugodt légkört biztosít egy tóparti naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.553545,
+                        44.534743
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "A lukavaci Cerik szivattyúállomásnál található vízfelület nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "PS Milešići",
+                  "text": "Ez a Milešići közelében található kis tó békés hely a környékbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.567309,
+                        44.561601
+                  ]
+            },
+            {
+                  "name": "Rezervoar Milešići",
+                  "text": "A Lukavac közelében fekvő Milešići-víztározó nyugodt erdei menedékként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        18.571727,
+                        44.56769
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "A lukavaci ŠIBER egy nyugodt helyi vízfelület, amely ideális egy rövid szünetre.",
+                  "category": "natural",
+                  "coords": [
+                        18.61284,
+                        44.510777
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Ez a lukavaci vízlelőhely egyszerű és nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "A lukavaci MULJNI ŠIBER egy csendes vízfelület a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Hidrant i šiber",
+                  "text": "Ez a lukavaci terület nyugodt kilátást nyújt a helyi vízfelületre.",
+                  "category": "natural",
+                  "coords": [
+                        18.596009,
+                        44.552908
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Šikara-víztározó Lukavacban, egy mesterséges tó vízellátásra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "A Šikara vízi létesítmény nyugodt környezetet biztosít a szabadban való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "A Lukavac közelében fekvő Husino-víztározó pihentető légkört kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Rezervoar Kiseljak",
+                  "text": "A lukavaci Kiseljak-víztározó nyugodt hely a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.557978,
+                        44.495089
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Ez a Demiroviće közelében található vízfelület békés hátteret biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            },
+            {
+                  "name": "Jezero Smoluća",
+                  "text": "A Lukavac közelében fekvő Smoluća-tó ideális hely a csendre és a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.528873,
+                        44.589556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Modračko jezero",
+                  "text": "Lacul Modrac de lângă Lukavac este o destinație cunoscută pentru activități recreative și natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.516527,
+                        44.494132
+                  ]
+            },
+            {
+                  "name": "Bistaračko jezero",
+                  "text": "Lacul Bistaračko din Lukavac oferă o atmosferă liniștită pentru o zi la lac.",
+                  "category": "natural",
+                  "coords": [
+                        18.553545,
+                        44.534743
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Zona de apă de la stația de pompare Cerik din Lukavac oferă un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "PS Milešići",
+                  "text": "Acest mic lac de lângă Milešići este un loc liniștit pentru plimbări locale.",
+                  "category": "natural",
+                  "coords": [
+                        18.567309,
+                        44.561601
+                  ]
+            },
+            {
+                  "name": "Rezervoar Milešići",
+                  "text": "Rezervuarul Milešići de lângă Lukavac servește ca un refugiu liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.571727,
+                        44.56769
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER din Lukavac este o apă locală liniștită, ideală pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        18.61284,
+                        44.510777
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Acest punct de apă din Lukavac oferă un cadru simplu și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER din Lukavac este o apă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Hidrant i šiber",
+                  "text": "Această zonă din Lukavac oferă o vedere liniștită asupra apei locale.",
+                  "category": "natural",
+                  "coords": [
+                        18.596009,
+                        44.552908
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Rezervorul Šikara din Lukavac, un lac artificial pentru alimentarea cu apă și agrement.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Instalația de apă Šikara oferă un cadru liniștit pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Rezervuarul Husino de lângă Lukavac oferă o atmosferă relaxantă la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Rezervoar Kiseljak",
+                  "text": "Rezervuarul Kiseljak din Lukavac este un loc liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.557978,
+                        44.495089
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Această apă de lângă Demiroviće oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            },
+            {
+                  "name": "Jezero Smoluća",
+                  "text": "Lacul Smoluća de lângă Lukavac este un loc ideal pentru liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.528873,
+                        44.589556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Modračko jezero",
+                  "text": "Modrac Lake near Lukavac is a well-known destination for leisure activities and nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.516527,
+                        44.494132
+                  ]
+            },
+            {
+                  "name": "Bistaračko jezero",
+                  "text": "Bistaračko Lake in Lukavac offers a peaceful atmosphere for a day by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        18.553545,
+                        44.534743
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "The water area at the Cerik pumping station in Lukavac offers a quiet natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "PS Milešići",
+                  "text": "This small lake near Milešići is a peaceful spot for local walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.567309,
+                        44.561601
+                  ]
+            },
+            {
+                  "name": "Rezervoar Milešići",
+                  "text": "The Milešići reservoir near Lukavac serves as a quiet retreat in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.571727,
+                        44.56769
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER in Lukavac is a quiet local body of water, ideal for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        18.61284,
+                        44.510777
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "This water spot in Lukavac offers a simple and calm setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER in Lukavac is a quiet body of water in the middle of nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Hidrant i šiber",
+                  "text": "This area in Lukavac offers a peaceful view of the local water.",
+                  "category": "natural",
+                  "coords": [
+                        18.596009,
+                        44.552908
+                  ]
+            },
+            {
+                  "name": "Rezervoar Šikara",
+                  "text": "Šikara reservoir in Lukavac, a man-made lake used for water supply and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.590364,
+                        44.551702
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "The Šikara water facility provides a calm setting for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "The Husino reservoir near Lukavac offers a relaxing atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Rezervoar Kiseljak",
+                  "text": "The Kiseljak reservoir in Lukavac is a quiet spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.557978,
+                        44.495089
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "This water area near Demiroviće provides a peaceful backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            },
+            {
+                  "name": "Jezero Smoluća",
+                  "text": "Smoluća Lake near Lukavac is an ideal place for peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.528873,
+                        44.589556
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Lukavac", hu: "Lukavac", ro: "Lukavac", en: "Lukavac"},
@@ -1175,7 +1724,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Sahat-kula",
-                  "text": "Ein historischer Uhrturm aus dem 19. Jahrhundert in Gradačac.",
+                  "text": "Der Sahat-kula ist ein historischer Uhrenturm im Zentrum von Gradačac.",
                   "category": "tower",
                   "coords": [
                         18.426198,
@@ -1184,7 +1733,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Vidara",
-                  "text": "Jezero Vidara ist ein See in Gradacac, der eine entspannte Umgebung bietet.",
+                  "text": "Vidara-See nahe Gradacac, ein ruhiger See mit Wanderwegen und Vogelbeobachtung.",
                   "category": "natural",
                   "coords": [
                         18.402224,
@@ -1222,7 +1771,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Sahat-kula",
-                  "text": "Egy 19. századi történelmi óratorony Gradačacban.",
+                  "text": "A Sahat-kula egy történelmi óratorony Gradačac központjában.",
                   "category": "tower",
                   "coords": [
                         18.426198,
@@ -1231,7 +1780,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Vidara",
-                  "text": "Jezero Vidara egy tó Gradacac területén, amely pihentető környezetet kínál.",
+                  "text": "Vidara-tó Gradacac közelében, nyugodt tó sétányokkal és madármegfigyeléssel.",
                   "category": "natural",
                   "coords": [
                         18.402224,
@@ -1269,7 +1818,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Sahat-kula",
-                  "text": "Un turn cu ceas istoric din secolul al XIX-lea în Gradačac.",
+                  "text": "Turnul Sahat-kula este un turn de ceas istoric în centrul orașului Gradačac.",
                   "category": "tower",
                   "coords": [
                         18.426198,
@@ -1278,7 +1827,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Vidara",
-                  "text": "Jezero Vidara este un lac din Gradacac care oferă un mediu relaxant.",
+                  "text": "Lacul Vidara lângă Gradacac, un lac liniștit cu poteci de plimbare și observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         18.402224,
@@ -1316,7 +1865,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Sahat-kula",
-                  "text": "A historic 19th-century clock tower in Gradačac.",
+                  "text": "The Sahat-kula is a historic clock tower in the center of Gradačac.",
                   "category": "tower",
                   "coords": [
                         18.426198,
@@ -1325,7 +1874,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Vidara",
-                  "text": "Jezero Vidara is a lake in Gradacac offering a relaxing environment.",
+                  "text": "Lake Vidara near Gradacac, a serene lake with walking paths and birdwatching opportunities.",
                   "category": "natural",
                   "coords": [
                         18.402224,
@@ -2342,7 +2891,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Derventski vašar",
-                  "text": "Die traditionsreiche Messe von Derventa, eine lokale Attraktion.",
+                  "text": "Traditioneller Jahrmarkt und Marktplatz in Derventa mit regionalem Handwerk und Speisen.",
                   "category": "landmark",
                   "coords": [
                         17.906453,
@@ -2362,7 +2911,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Derventski vašar",
-                  "text": "A derventai vásár, egy nagy hagyományú helyi látványosság.",
+                  "text": "Hagyományos vásár és piactér Derventában, helyi kézműves termékekkel és ételekkel.",
                   "category": "landmark",
                   "coords": [
                         17.906453,
@@ -2382,7 +2931,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Derventski vašar",
-                  "text": "Târgul din Derventa, o atracție locală cu tradiție.",
+                  "text": "Târg și piață tradițională în Derventa, cu meșteșuguri și mâncăruri locale.",
                   "category": "landmark",
                   "coords": [
                         17.906453,
@@ -2402,7 +2951,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Derventski vašar",
-                  "text": "The Derventa fair, a traditional local attraction.",
+                  "text": "Traditional fair and marketplace in Derventa with local crafts and food.",
                   "category": "landmark",
                   "coords": [
                         17.906453,
@@ -3178,7 +3727,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Brana",
-                  "text": "Ein lokaler Badebereich am Fluss in der Stadt Jajce.",
+                  "text": "Staudamm und Wasserkraftwerk am Fluss Pliva in Jajce, mit einem Erholungssee zum Bootfahren.",
                   "category": "recreational",
                   "coords": [
                         17.241378,
@@ -3295,7 +3844,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Das Okruglo Jezero ist ein naturbelassener See in der Nähe von Jajce.",
+                  "text": "Okruglo Jezero (Runder See) bei Jajce, ein kleiner Karstsee mit smaragdgrünem Wasser.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -3351,7 +3900,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Brana",
-                  "text": "Helyi fürdőhely a folyó partján Jajce városában.",
+                  "text": "Gát és vízerőmű a Pliva folyón Jajcében, csónakázásra alkalmas rekreációs tóval.",
                   "category": "recreational",
                   "coords": [
                         17.241378,
@@ -3468,7 +4017,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Az Okruglo Jezero egy természetes tó Jajce városának közelében.",
+                  "text": "Okruglo Jezero (Kerek-tó) Jajce közelében, egy kis karszttó smaragdzöld vizével.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -3524,7 +4073,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Brana",
-                  "text": "O zonă locală de plajă pe malul râului în orașul Jajce.",
+                  "text": "Baraj și centrală hidroelectrică pe râul Pliva în Jajce, cu un lac de agrement pentru bărci.",
                   "category": "recreational",
                   "coords": [
                         17.241378,
@@ -3641,7 +4190,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Lacul Okruglo este un lac natural situat în apropierea orașului Jajce.",
+                  "text": "Okruglo Jezero (Lacul Rotund) lângă Jajce, un mic lac carstic cu ape de culoare smarald.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -3697,7 +4246,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Brana",
-                  "text": "A local riverside bathing area in the city of Jajce.",
+                  "text": "Dam and hydroelectric plant on the Pliva River in Jajce, with a recreational lake for boating.",
                   "category": "recreational",
                   "coords": [
                         17.241378,
@@ -3814,7 +4363,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Okruglo Lake is a natural lake located near the city of Jajce.",
+                  "text": "Okruglo Jezero (Round Lake) near Jajce, a small karst lake with emerald waters.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -4037,7 +4586,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jezero",
-                  "text": "Jezero ist ein See in Modrica, der eine friedliche Naturkulisse bietet.",
+                  "text": "See in Modrica, ein beliebter Ort zum Schwimmen und Picknicken am Ufer.",
                   "category": "natural",
                   "coords": [
                         18.308739,
@@ -4057,7 +4606,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jezero",
-                  "text": "Jezero egy tó Modrica területén, amely békés természeti környezetet kínál.",
+                  "text": "Tó Modricában, népszerű fürdőzési és piknikezési hely a partok mentén.",
                   "category": "natural",
                   "coords": [
                         18.308739,
@@ -4077,7 +4626,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jezero",
-                  "text": "Jezero este un lac din Modrica care oferă un cadru natural liniștit.",
+                  "text": "Lac în Modrica, un loc popular pentru înot și picnic pe maluri.",
                   "category": "natural",
                   "coords": [
                         18.308739,
@@ -4097,7 +4646,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jezero",
-                  "text": "Jezero is a lake in Modrica offering a peaceful natural setting.",
+                  "text": "Lake in Modrica, a popular spot for swimming and picnics along the shores.",
                   "category": "natural",
                   "coords": [
                         18.308739,
@@ -4529,7 +5078,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Amfiteatar",
-                  "text": "Ein Amphitheater für kulturelle Veranstaltungen in Foča.",
+                  "text": "Ruinen eines antiken römischen Amphitheaters in Foca, einst Austragungsort von Gladiatorenkämpfen.",
                   "category": "cultural",
                   "coords": [
                         18.799834,
@@ -4547,7 +5096,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Hram Svetog Save",
-                  "text": "Die dem Heiligen Sawa gewidmete orthodoxe Kirche in Foča.",
+                  "text": "Der Hram Svetog Save ist eine serbisch-orthodoxe Kirche in Foča, dem Heiligen Sava geweiht.",
                   "category": "religious",
                   "coords": [
                         18.778912,
@@ -4567,7 +5116,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Amfiteatar",
-                  "text": "Kulturális eseményeknek otthont adó amfiteátrum Fočában.",
+                  "text": "Egy ókori római amfiteátrum romjai Focában, ahol egykor gladiátorjátékok voltak.",
                   "category": "cultural",
                   "coords": [
                         18.799834,
@@ -4585,7 +5134,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Hram Svetog Save",
-                  "text": "Szent Száva tiszteletére szentelt ortodox templom Fočában.",
+                  "text": "A Hram Svetog Save egy szerb ortodox templom Fočában, Szent Szávának szentelve.",
                   "category": "religious",
                   "coords": [
                         18.778912,
@@ -4605,7 +5154,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Amfiteatar",
-                  "text": "Un amfiteatru pentru evenimente culturale în Foča.",
+                  "text": "Ruinele unui amfiteatru roman antic din Foca, unde odinioară aveau loc lupte de gladiatori.",
                   "category": "cultural",
                   "coords": [
                         18.799834,
@@ -4623,7 +5172,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Hram Svetog Save",
-                  "text": "Biserica ortodoxă dedicată Sfântului Sava în Foča.",
+                  "text": "Hram Svetog Save este o biserică ortodoxă sârbă din Foča, dedicată Sfântului Sava.",
                   "category": "religious",
                   "coords": [
                         18.778912,
@@ -4643,7 +5192,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Amfiteatar",
-                  "text": "An amphitheater for cultural events in Foča.",
+                  "text": "Ancient Roman amphitheater ruins in Foca, once hosting gladiatorial games.",
                   "category": "cultural",
                   "coords": [
                         18.799834,
@@ -4661,7 +5210,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Hram Svetog Save",
-                  "text": "The Orthodox church dedicated to Saint Sava in Foča.",
+                  "text": "Hram Svetog Save is a Serbian Orthodox church in Foča dedicated to Saint Sava.",
                   "category": "religious",
                   "coords": [
                         18.778912,
@@ -5093,7 +5642,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gomjeničko jezero",
-                  "text": "Гомјеничко језеро ist ein See in Teslic, der zur Entspannung im Freien einlädt.",
+                  "text": "Gomjeničko-See in Teslic, ein Stausee umgeben von Wald, beliebt zum Kajakfahren.",
                   "category": "natural",
                   "coords": [
                         17.862041,
@@ -5122,7 +5671,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gomjeničko jezero",
-                  "text": "Гомјеничко језеро egy tó Teslic területén, amely szabadtéri kikapcsolódásra hív.",
+                  "text": "Gomjeničko-tó Teslicben, erdővel körülvett víztározó, kajakozásra alkalmas.",
                   "category": "natural",
                   "coords": [
                         17.862041,
@@ -5151,7 +5700,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gomjeničko jezero",
-                  "text": "Гомјеничко језеро este un lac din Teslic care invită la relaxare în aer liber.",
+                  "text": "Lacul Gomjeničko din Teslic, un lac de acumulare înconjurat de pădure, popular pentru caiac.",
                   "category": "natural",
                   "coords": [
                         17.862041,
@@ -5180,7 +5729,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gomjeničko jezero",
-                  "text": "Гомјеничко језеро is a lake in Teslic inviting outdoor relaxation.",
+                  "text": "Gomjeničko lake in Teslic, a reservoir surrounded by forest, popular for kayaking.",
                   "category": "natural",
                   "coords": [
                         17.862041,
@@ -5257,7 +5806,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "Der Vodeni park \"Ribica\" in Vitez ist ein Ziel für den Wasserspaß von Familien.",
+                  "text": "Wasserpark Ribica in Vitez mit Becken, Rutschen und einem Planschbereich für Kinder.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -5277,7 +5826,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "A vitézi Vodeni park \"Ribica\" a családok vízi szórakozásának helyszíne.",
+                  "text": "Ribica vízipark Vitezben, medencékkel, csúszdákkal és gyermek pancsolóval.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -5297,7 +5846,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "Vodeni park \"Ribica\" din Vitez este o destinație pentru distracția acvatică a familiilor.",
+                  "text": "Parcul acvatic Ribica din Vitez, cu bazine, tobogane și o zonă de joacă pentru copii.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -5317,7 +5866,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "Vodeni park \"Ribica\" in Vitez is a destination for family water fun.",
+                  "text": "Water park Ribica in Vitez with pools, slides, and a children's splash area.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -5617,7 +6166,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-vlasenica-cities-v2", "sights": {"de": [{"name": "Jezero", "text": "Језеро ist ein See in Vlasenica, der für seine ruhige Lage bekannt ist.", "category": "natural", "coords": [18.927202, 44.19199]}], "hu": [{"name": "Jezero", "text": "Језеро egy tó Vlasenica területén, amely nyugodt elhelyezkedéséről ismert.", "category": "natural", "coords": [18.927202, 44.19199]}], "ro": [{"name": "Jezero", "text": "Језеро este un lac din Vlasenica cunoscut pentru locația sa liniștită.", "category": "natural", "coords": [18.927202, 44.19199]}], "en": [{"name": "Jezero", "text": "Језеро is a lake in Vlasenica known for its quiet location.", "category": "natural", "coords": [18.927202, 44.19199]}]},
+    id: "bosniaherzegovina-vlasenica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jezero",
+                  "text": "See in Vlasenica, ein ruhiger Ort zum Entspannen und Angeln.",
+                  "category": "natural",
+                  "coords": [
+                        18.927202,
+                        44.19199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezero",
+                  "text": "Tó Vlasenicában, nyugodt hely pihenésre és horgászatra.",
+                  "category": "natural",
+                  "coords": [
+                        18.927202,
+                        44.19199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezero",
+                  "text": "Lac în Vlasenica, un loc liniștit pentru relaxare și pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        18.927202,
+                        44.19199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezero",
+                  "text": "Lake in Vlasenica, a tranquil spot for relaxation and fishing.",
+                  "category": "natural",
+                  "coords": [
+                        18.927202,
+                        44.19199
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Vlasenica", hu: "Vlasenica", ro: "Vlasenica", en: "Vlasenica"},
@@ -5852,7 +6446,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Pozorište",
-                  "text": "Ein Theater für Aufführungen in der Stadt Višegrad.",
+                  "text": "Theater in Visegrad, das Theaterstücke und kulturelle Veranstaltungen in einem historischen Gebäude zeigt.",
                   "category": "cultural",
                   "coords": [
                         19.293416,
@@ -5888,7 +6482,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Višegrad",
-                  "text": "Eine lokale Sehenswürdigkeit in Višegrad.",
+                  "text": "Die historische Stadt Visegrad, berühmt für ihre osmanische Brücke über die Drina.",
                   "category": "landmark",
                   "coords": [
                         19.296262,
@@ -5897,7 +6491,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruševine hotela Bikavac",
-                  "text": "Die Überreste des ehemaligen Hotels Bikavac in Višegrad.",
+                  "text": "Ruinen des Hotels Bikavac in Visegrad, eine Erinnerung an den Tourismus vor dem Krieg.",
                   "category": "historical",
                   "coords": [
                         19.292732,
@@ -5906,7 +6500,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Drina",
-                  "text": "Drina ist ein See in Visegrad, der eine beeindruckende Landschaft bietet.",
+                  "text": "Die Drina, die durch Visegrad fließt, bekannt für ihr smaragdgrünes Wasser und Rafting.",
                   "category": "natural",
                   "coords": [
                         19.228815,
@@ -5926,7 +6520,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Pozorište",
-                  "text": "Színház Višegrad városában.",
+                  "text": "Színház Visegrádon, színdarabokkal és kulturális eseményekkel egy történelmi épületben.",
                   "category": "cultural",
                   "coords": [
                         19.293416,
@@ -5962,7 +6556,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Višegrad",
-                  "text": "Helyi látnivaló Višegradban.",
+                  "text": "Visegrád történelmi városa, híres a Drina folyón átívelő oszmán hídjáról.",
                   "category": "landmark",
                   "coords": [
                         19.296262,
@@ -5971,7 +6565,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruševine hotela Bikavac",
-                  "text": "Az egykori Hotel Bikavac romjai Višegradban.",
+                  "text": "A Bikavac szálloda romjai Visegrádon, emlékeztető a háború előtti turizmusra.",
                   "category": "historical",
                   "coords": [
                         19.292732,
@@ -5980,7 +6574,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Drina",
-                  "text": "Drina egy tó Visegrad területén, amely lenyűgöző tájat kínál.",
+                  "text": "A Drina, amely átfolyik Visegrádon, smaragdzöld vizéről és raftingjáról ismert.",
                   "category": "natural",
                   "coords": [
                         19.228815,
@@ -6000,7 +6594,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Pozorište",
-                  "text": "Un teatru pentru spectacole în orașul Višegrad.",
+                  "text": "Teatru în Vișegrad, care găzduiește piese de teatru și evenimente culturale într-o clădire istorică.",
                   "category": "cultural",
                   "coords": [
                         19.293416,
@@ -6036,7 +6630,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Višegrad",
-                  "text": "O atracție locală în Višegrad.",
+                  "text": "Orașul istoric Vișegrad, celebru pentru podul său otoman peste râul Drina.",
                   "category": "landmark",
                   "coords": [
                         19.296262,
@@ -6045,7 +6639,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruševine hotela Bikavac",
-                  "text": "Ruinele fostului hotel Bikavac din Višegrad.",
+                  "text": "Ruinele hotelului Bikavac din Vișegrad, o amintire a turismului antebelic din regiune.",
                   "category": "historical",
                   "coords": [
                         19.292732,
@@ -6054,7 +6648,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Drina",
-                  "text": "Drina este un lac din Visegrad care oferă un peisaj impresionant.",
+                  "text": "Râul Drina care traversează Vișegradul, cunoscut pentru apele sale smaraldii și rafting.",
                   "category": "natural",
                   "coords": [
                         19.228815,
@@ -6074,7 +6668,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Pozorište",
-                  "text": "A theatre for performances in the city of Višegrad.",
+                  "text": "Theater in Visegrad hosting plays and cultural events in a historic building.",
                   "category": "cultural",
                   "coords": [
                         19.293416,
@@ -6110,7 +6704,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Visegrad",
-                  "text": "A local attraction in Višegrad.",
+                  "text": "The historic town of Visegrad, famous for its Ottoman-era bridge on the Drina River.",
                   "category": "landmark",
                   "coords": [
                         19.296262,
@@ -6119,7 +6713,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruševine hotela Bikavac",
-                  "text": "The ruins of the former Hotel Bikavac in Višegrad.",
+                  "text": "Ruins of the Bikavac hotel in Visegrad, a reminder of the region's pre-war tourism.",
                   "category": "historical",
                   "coords": [
                         19.292732,
@@ -6128,7 +6722,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Drina",
-                  "text": "Drina is a lake in Visegrad offering impressive scenery.",
+                  "text": "The Drina River flowing through Visegrad, known for its emerald waters and rafting.",
                   "category": "natural",
                   "coords": [
                         19.228815,
@@ -6407,7 +7001,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tvrđava Maglaj",
-                  "text": "Eine mittelalterliche Festung, die markant über der Stadt Maglaj liegt.",
+                  "text": "Geschütztes Kulturerbe (Klasse 2) in Maglaj.",
                   "category": "castle",
                   "coords": [
                         18.102296,
@@ -6418,7 +7012,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tvrđava Maglaj",
-                  "text": "Középkori erődítmény, amely Maglaj városa felett magasodik.",
+                  "text": "Védett örökségi helyszín (2. osztály) Maglajban.",
                   "category": "castle",
                   "coords": [
                         18.102296,
@@ -6429,7 +7023,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tvrđava Maglaj",
-                  "text": "O cetate medievală situată strategic deasupra orașului Maglaj.",
+                  "text": "Monument istoric clasă 2 în Maglaj.",
                   "category": "castle",
                   "coords": [
                         18.102296,
@@ -6440,7 +7034,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maglaj Fortress",
-                  "text": "A medieval fortress overlooking the town of Maglaj.",
+                  "text": "Protected heritage site (class 2) in Maglaj.",
                   "category": "castle",
                   "coords": [
                         18.102296,
@@ -6836,7 +7430,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Ein als Museum genutzter Bunker in Jablanica.",
+                  "text": "Bunker-Museum in Jablanica, ein unterirdischer Schutzbunker aus dem Zweiten Weltkrieg, heute Ausstellungsraum.",
                   "category": "museum",
                   "coords": [
                         17.762954,
@@ -6845,7 +7439,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Spomenik civilnim zrtvama rata",
-                  "text": "Ein Denkmal für die zivilen Opfer des Krieges in Jablanica.",
+                  "text": "Denkmal in Jablanica zu Ehren der zivilen Kriegsopfer mit eingravierten Namen und einer Skulptur.",
                   "category": "historical",
                   "coords": [
                         17.761524,
@@ -6854,7 +7448,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Kriz",
-                  "text": "Ein Aussichtspunkt mit weitem Blick in Jablanica.",
+                  "text": "Kriz-Hügel in Jablanica mit Panoramablick und einem großen Kreuzmonument.",
                   "category": "natural",
                   "coords": [
                         17.746858,
@@ -6863,7 +7457,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Grabovica",
-                  "text": "Grabovica ist ein See in Jablanica, der ideal für Naturbeobachtungen ist.",
+                  "text": "Grabovica ist ein Naturgebiet nahe Jablanica mit einer tiefen Flussschlucht.",
                   "category": "natural",
                   "coords": [
                         17.738689,
@@ -6892,7 +7486,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Múzeumként működő bunker Jablanicában.",
+                  "text": "Bunker múzeum Jablanicában, egy második világháborús földalatti óvóhely kiállítóteremmé alakítva.",
                   "category": "museum",
                   "coords": [
                         17.762954,
@@ -6901,7 +7495,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Spomenik civilnim zrtvama rata",
-                  "text": "A háború polgári áldozatainak emlékműve Jablanicában.",
+                  "text": "Emlékmű Jablanicában a háború civil áldozatainak tiszteletére, nevekkel és szoborral.",
                   "category": "historical",
                   "coords": [
                         17.761524,
@@ -6910,7 +7504,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Kriz",
-                  "text": "Kilátóhely szép panorámával Jablanicában.",
+                  "text": "Kriz-domb Jablanicában, panorámás kilátással és nagy kereszt emlékművel.",
                   "category": "natural",
                   "coords": [
                         17.746858,
@@ -6919,7 +7513,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Grabovica",
-                  "text": "Grabovica egy tó Jablanica területén, amely ideális a természet megfigyelésére.",
+                  "text": "A Grabovica egy természeti terület Jablanica közelében, mély folyami szurdokkal.",
                   "category": "natural",
                   "coords": [
                         17.738689,
@@ -6948,7 +7542,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "Un buncăr utilizat ca muzeu în Jablanica.",
+                  "text": "Muzeu-bunker în Jablanica, un adăpost subteran din Al Doilea Război Mondial transformat în spațiu expozițional.",
                   "category": "museum",
                   "coords": [
                         17.762954,
@@ -6957,7 +7551,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Spomenik civilnim zrtvama rata",
-                  "text": "Un monument dedicat victimelor civile ale războiului în Jablanica.",
+                  "text": "Monument în Jablanica în onoarea victimelor civile ale războiului, cu nume inscripționate și o sculptură.",
                   "category": "historical",
                   "coords": [
                         17.761524,
@@ -6966,7 +7560,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Kriz",
-                  "text": "Un punct de observație cu vedere panoramică în Jablanica.",
+                  "text": "Dealul Kriz din Jablanica, cu vedere panoramică și un monument mare sub formă de cruce.",
                   "category": "natural",
                   "coords": [
                         17.746858,
@@ -6975,7 +7569,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Grabovica",
-                  "text": "Grabovica este un lac din Jablanica, ideal pentru observarea naturii.",
+                  "text": "Grabovica este o zonă naturală lângă Jablanica, cu o cheie adâncă de râu.",
                   "category": "natural",
                   "coords": [
                         17.738689,
@@ -7004,7 +7598,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bunker",
-                  "text": "A bunker utilized as a museum in Jablanica.",
+                  "text": "Bunker museum in Jablanica, a World War II underground shelter turned exhibition space.",
                   "category": "museum",
                   "coords": [
                         17.762954,
@@ -7013,7 +7607,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument for the civil victims of the war",
-                  "text": "A monument for the civil victims of the war in Jablanica.",
+                  "text": "Monument in Jablanica honoring civilian victims of the war, with inscribed names and a sculpture.",
                   "category": "historical",
                   "coords": [
                         17.761524,
@@ -7022,7 +7616,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Kriz",
-                  "text": "A viewpoint offering scenic views in Jablanica.",
+                  "text": "Kriz hill in Jablanica offering panoramic views and a large cross monument.",
                   "category": "natural",
                   "coords": [
                         17.746858,
@@ -7031,7 +7625,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Grabovica",
-                  "text": "Grabovica is a lake in Jablanica ideal for nature observation.",
+                  "text": "Grabovica is a natural area near Jablanica featuring a deep river canyon.",
                   "category": "natural",
                   "coords": [
                         17.738689,
@@ -7391,7 +7985,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake ist ein See in Hadzici, der eine angenehme Umgebung für Besucher bietet.",
+                  "text": "Der Srojčevac-See ist ein kleiner Bergsee in den Hügeln nahe Hadžići.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -7400,7 +7994,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne ist ein See in Hadzici, der für seine natürliche Schönheit bekannt ist.",
+                  "text": "Vrelo Bosne ist die Quelle der Bosna, ein Park nahe Hadžići.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -7411,7 +8005,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake egy tó Hadzici területén, amely kellemes környezetet kínál a látogatóknak.",
+                  "text": "A Srojčevac-tó egy kis hegyi tó Hadžići közelében, erdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -7420,7 +8014,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne egy tó Hadzici területén, amely természeti szépségéről ismert.",
+                  "text": "A Vrelo Bosne a Boszna folyó forrása, egy park Hadžići közelében.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -7431,7 +8025,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake este un lac din Hadzici care oferă un mediu plăcut vizitatorilor.",
+                  "text": "Lacul Srojčevac este un mic lac de munte lângă Hadžići, înconjurat de pădure.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -7440,7 +8034,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne este un lac din Hadzici cunoscut pentru frumusețea sa naturală.",
+                  "text": "Vrelo Bosne este izvorul râului Bosna, un parc lângă Hadžići.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -7451,7 +8045,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake is a lake in Hadzici providing a pleasant environment for visitors.",
+                  "text": "Srojčevac lake is a small mountain lake near Hadžići, surrounded by forest.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -7460,7 +8054,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne is a lake in Hadzici known for its natural beauty.",
+                  "text": "Vrelo Bosne is the source of the Bosna River, a park near Hadžići.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -7536,7 +8130,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva",
-                  "text": "Die Überreste einer alten Kirche in der Region Čapljina.",
+                  "text": "Crkva ist eine historische Kirche im alten Zentrum von Čapljina.",
                   "category": "historical",
                   "coords": [
                         17.718359,
@@ -7590,7 +8184,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Šišman Ibrahim-pašin Hamam",
-                  "text": "Das Sisman Ibrahim Pasha Hammam in Capljina ist ein historisches öffentliches Bad.",
+                  "text": "Das Sisman Ibrahim Pasha Hammam ist ein osmanisches Bad in Čapljina, heute familienfreundlich.",
                   "category": "family",
                   "coords": [
                         17.730781,
@@ -7619,7 +8213,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva",
-                  "text": "Egy régi templom maradványai Čapljina környékén.",
+                  "text": "A Crkva egy történelmi templom Čapljina óvárosában.",
                   "category": "historical",
                   "coords": [
                         17.718359,
@@ -7673,7 +8267,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Šišman Ibrahim-pašin Hamam",
-                  "text": "A capljinai Sisman Ibrahim Pasha Hammam egy történelmi nyilvános fürdő.",
+                  "text": "A Sisman Ibrahim Pasha Hammam egy oszmán kori fürdő Čapljinában, ma családbarát.",
                   "category": "family",
                   "coords": [
                         17.730781,
@@ -7702,7 +8296,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva",
-                  "text": "Ruinele unei vechi biserici în regiunea Čapljina.",
+                  "text": "Crkva este o biserică istorică în centrul vechi al orașului Čapljina.",
                   "category": "historical",
                   "coords": [
                         17.718359,
@@ -7756,7 +8350,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Šišman Ibrahim-pašin Hamam",
-                  "text": "Sisman Ibrahim Pasha Hammam din Capljina este o baie publică istorică.",
+                  "text": "Sisman Ibrahim Pasha Hammam este o baie otomană în Čapljina, acum prietenoasă cu familia.",
                   "category": "family",
                   "coords": [
                         17.730781,
@@ -7785,7 +8379,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva",
-                  "text": "The remains of an old church in the Čapljina area.",
+                  "text": "Crkva is a historical church in the old center of Čapljina.",
                   "category": "historical",
                   "coords": [
                         17.718359,
@@ -7839,7 +8433,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Sisman Ibrahim Pasha Hammam",
-                  "text": "Sisman Ibrahim Pasha Hammam in Capljina is a historic public bath.",
+                  "text": "Sisman Ibrahim Pasha Hammam is an Ottoman-era bathhouse in Čapljina, now family-friendly.",
                   "category": "family",
                   "coords": [
                         17.730781,
@@ -8166,7 +8760,124 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-kladanj-cities-v2", "sights": {"de": [{"name": "Zaštićeni pejzaž „Konjuh“", "text": "Die geschützte Landschaft Konjuh bei Kladanj.", "category": "natural", "coords": [18.578968, 44.275703]}, {"name": "Vidikovac", "text": "Der Aussichtspunkt Vidikovac bietet atemberaubende Blicke über die Landschaft rund um Kladanj in Bosnien. Naturbegeisterte finden hier einen perfekten Ort, um die Weite der Umgebung auf sich wirken zu lassen. Ein Besuch lohnt sich besonders, um unvergessliche landschaftliche Eindrücke zu sammeln.", "category": "natural", "coords": [18.668515, 44.224761]}, {"name": "Paučko jezero", "text": "Paučko jezero ist ein See in Kladanj, der von bewaldeten Gebieten umgeben ist.", "category": "natural", "coords": [18.601551, 44.233658]}], "hu": [{"name": "Zaštićeni pejzaž „Konjuh“", "text": "A Konjuh védett tájterület Kladanj közelében.", "category": "natural", "coords": [18.578968, 44.275703]}, {"name": "Vidikovac", "text": "A Vidikovac kilátó lélegzetelállító panorámát nyújt a boszniai Kladanj körüli tájra. A természetrajongók itt tökéletes helyszínt találnak arra, hogy átadják magukat a vidék tágasságának. Különösen érdemes felkeresni a felejthetetlen tájképi élményekért.", "category": "natural", "coords": [18.668515, 44.224761]}, {"name": "Paučko jezero", "text": "Paučko jezero egy tó Kladanj területén, amelyet erdős területek vesznek körül.", "category": "natural", "coords": [18.601551, 44.233658]}], "ro": [{"name": "Zaštićeni pejzaž „Konjuh“", "text": "Peisajul protejat Konjuh din apropiere de Kladanj.", "category": "natural", "coords": [18.578968, 44.275703]}, {"name": "Vidikovac", "text": "Punctul de belvedere Vidikovac oferă priveliști uluitoare asupra peisajului din jurul orașului Kladanj din Bosnia. Pasionații de natură vor găsi aici locul perfect pentru a admira întinderea regiunii. O vizită este deosebit de recomandată pentru a culege impresii peisagistice de neuitat.", "category": "natural", "coords": [18.668515, 44.224761]}, {"name": "Paučko jezero", "text": "Paučko jezero este un lac din Kladanj înconjurat de zone împădurite.", "category": "natural", "coords": [18.601551, 44.233658]}], "en": [{"name": "Protected Landscape Konjuh", "text": "The protected landscape of Konjuh near Kladanj.", "category": "natural", "coords": [18.578968, 44.275703]}, {"name": "Vidikovac", "text": "The Vidikovac viewpoint offers breathtaking vistas over the landscape surrounding Kladanj in Bosnia. Nature enthusiasts will find this the perfect spot to take in the vastness of the region. A visit is especially worthwhile for gathering unforgettable scenic impressions.", "category": "natural", "coords": [18.668515, 44.224761]}, {"name": "Paučko jezero", "text": "Paučko jezero is a lake in Kladanj surrounded by forested areas.", "category": "natural", "coords": [18.601551, 44.233658]}]},
+    id: "bosniaherzegovina-kladanj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zaštićeni pejzaž „Konjuh“",
+                  "text": "Die geschützte Landschaft Konjuh ist ein Berggebiet nahe Kladanj mit artenreicher Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.578968,
+                        44.275703
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Der Aussichtspunkt Vidikovac bietet atemberaubende Blicke über die Landschaft rund um Kladanj in Bosnien. Naturbegeisterte finden hier einen perfekten Ort, um die Weite der Umgebung auf sich wirken zu lassen. Ein Besuch lohnt sich besonders, um unvergessliche landschaftliche Eindrücke zu sammeln.",
+                  "category": "natural",
+                  "coords": [
+                        18.668515,
+                        44.224761
+                  ]
+            },
+            {
+                  "name": "Paučko jezero",
+                  "text": "Der Paučko-See ist ein Gletschersee im Konjuh-Gebirge nahe Kladanj.",
+                  "category": "natural",
+                  "coords": [
+                        18.601551,
+                        44.233658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zaštićeni pejzaž „Konjuh“",
+                  "text": "A Konjuh védett táj egy hegyvidéki terület Kladanj közelében, gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        18.578968,
+                        44.275703
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "A Vidikovac kilátó lélegzetelállító panorámát nyújt a boszniai Kladanj körüli tájra. A természetrajongók itt tökéletes helyszínt találnak arra, hogy átadják magukat a vidék tágasságának. Különösen érdemes felkeresni a felejthetetlen tájképi élményekért.",
+                  "category": "natural",
+                  "coords": [
+                        18.668515,
+                        44.224761
+                  ]
+            },
+            {
+                  "name": "Paučko jezero",
+                  "text": "A Paučko-tó egy gleccser-tó a Konjuh-hegységben, Kladanj közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.601551,
+                        44.233658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zaštićeni pejzaž „Konjuh“",
+                  "text": "Peisajul protejat Konjuh este o zonă montană lângă Kladanj, cu floră și faună diverse.",
+                  "category": "natural",
+                  "coords": [
+                        18.578968,
+                        44.275703
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Punctul de belvedere Vidikovac oferă priveliști uluitoare asupra peisajului din jurul orașului Kladanj din Bosnia. Pasionații de natură vor găsi aici locul perfect pentru a admira întinderea regiunii. O vizită este deosebit de recomandată pentru a culege impresii peisagistice de neuitat.",
+                  "category": "natural",
+                  "coords": [
+                        18.668515,
+                        44.224761
+                  ]
+            },
+            {
+                  "name": "Paučko jezero",
+                  "text": "Lacul Paučko este un lac glaciar în munții Konjuh lângă Kladanj.",
+                  "category": "natural",
+                  "coords": [
+                        18.601551,
+                        44.233658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Protected Landscape Konjuh",
+                  "text": "Protected Landscape Konjuh is a mountainous area near Kladanj, home to diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.578968,
+                        44.275703
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "The Vidikovac viewpoint offers breathtaking vistas over the landscape surrounding Kladanj in Bosnia. Nature enthusiasts will find this the perfect spot to take in the vastness of the region. A visit is especially worthwhile for gathering unforgettable scenic impressions.",
+                  "category": "natural",
+                  "coords": [
+                        18.668515,
+                        44.224761
+                  ]
+            },
+            {
+                  "name": "Paučko jezero",
+                  "text": "Paučko jezero is a glacial lake in the Konjuh mountain range near Kladanj.",
+                  "category": "natural",
+                  "coords": [
+                        18.601551,
+                        44.233658
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Kladanj", hu: "Kladanj", ro: "Kladanj", en: "Kladanj"},
@@ -8226,7 +8937,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "sujsn",
-                  "text": "Eine lokale Sehenswürdigkeit in Velika Kladuša.",
+                  "text": "sujsn ist ein Wahrzeichen in Velika Kladuša, möglicherweise ein Denkmal auf dem Hauptplatz.",
                   "category": "landmark",
                   "coords": [
                         15.817795,
@@ -8273,7 +8984,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "sujsn",
-                  "text": "Helyi látnivaló Velika Kladuša területén.",
+                  "text": "A sujsn egy nevezetesség Velika Kladušában, valószínűleg egy emlékmű a főtéren.",
                   "category": "landmark",
                   "coords": [
                         15.817795,
@@ -8320,7 +9031,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "sujsn",
-                  "text": "O atracție locală în Velika Kladuša.",
+                  "text": "sujsn este un reper în Velika Kladuša, probabil un monument în piața principală.",
                   "category": "landmark",
                   "coords": [
                         15.817795,
@@ -8367,7 +9078,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "sujsn",
-                  "text": "A local attraction in Velika Kladuša.",
+                  "text": "sujsn is a landmark in Velika Kladuša, possibly a monument on the main square.",
                   "category": "landmark",
                   "coords": [
                         15.817795,
@@ -8498,7 +9209,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bilećasee",
-                  "text": "Der Bileća See bei Bileca ist ein großer Stausee mit beeindruckenden Ausblicken.",
+                  "text": "Der Bileća-See ist ein großer Stausee an der Trebišnjica nahe Bileća.",
                   "category": "natural",
                   "coords": [
                         18.444964,
@@ -8554,7 +9265,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bilećko jezero",
-                  "text": "A Bileca közelében fekvő Bilećai-tó egy nagy víztározó, lenyűgöző kilátással.",
+                  "text": "A Bileća-tó egy nagy víztározó a Trebišnjica folyón Bileća közelében.",
                   "category": "natural",
                   "coords": [
                         18.444964,
@@ -8610,7 +9321,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bilećko jezero",
-                  "text": "Lacul Bileća de lângă Bileca este un rezervuar mare, cu vederi impresionante.",
+                  "text": "Lacul Bileća este un mare rezervor pe râul Trebišnjica lângă Bileća.",
                   "category": "natural",
                   "coords": [
                         18.444964,
@@ -8666,7 +9377,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Bileća Lake",
-                  "text": "Bileća Lake near Bileca is a large reservoir with impressive views.",
+                  "text": "Bileća Lake is a large reservoir on the Trebišnjica River near Bileća.",
                   "category": "natural",
                   "coords": [
                         18.444964,
@@ -8721,7 +9432,268 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-zvornik-cities-v2", "sights": {"de": [{"name": "Đurđev grad", "text": "Die mittelalterliche Festung Đurđev grad oberhalb von Zvornik.", "category": "castle", "coords": [19.096857, 44.375519]}, {"name": "Orlovine", "text": "Die archäologische Fundstätte Orlovine in Zvornik.", "category": "historical", "coords": [19.113637, 44.371865]}, {"name": "Centralno spomen obeležje", "text": "Ein zentrales Denkmal in Zvornik, das dem Gedenken gewidmet ist.", "category": "historical", "coords": [19.102831, 44.384618]}, {"name": "Vidikovac Orlovine", "text": "Ein malerischer Aussichtspunkt mit Panoramablick auf die Gegend von Zvornik.", "category": "natural", "coords": [19.115152, 44.371415]}, {"name": "Velika kula", "text": "Ruinen eines bedeutenden Turms innerhalb des Festungskomplexes von Zvornik.", "category": "historical", "coords": [19.09878, 44.374415]}, {"name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja", "text": "Eine orthodoxe Kirche in Zvornik, die dem heiligen Johannes dem Täufer gewidmet ist.", "category": "religious", "coords": [19.100387, 44.386099]}, {"name": "Zvorničko jezero / Zvorničko jezero", "text": "Zvornik Lake ist ein See in Zvornik, der vielfältige Möglichkeiten zur Erholung bietet.", "category": "natural", "coords": [19.147816, 44.324543]}], "hu": [{"name": "Đurđev grad", "text": "Đurđev grad középkori vára Zvornik felett.", "category": "castle", "coords": [19.096857, 44.375519]}, {"name": "Orlovine", "text": "Orlovine régészeti lelőhely Zvornikban.", "category": "historical", "coords": [19.113637, 44.371865]}, {"name": "Centralno spomen obeležje", "text": "Központi emlékmű Zvornikban az emlékezésnek szentelve.", "category": "historical", "coords": [19.102831, 44.384618]}, {"name": "Vidikovac Orlovine", "text": "Szép kilátóhely, ahonnan panorámás kilátás nyílik Zvornik környékére.", "category": "natural", "coords": [19.115152, 44.371415]}, {"name": "Velika kula", "text": "Egy jelentős torony romjai a zvorniki erődrendszeren belül.", "category": "historical", "coords": [19.09878, 44.374415]}, {"name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja", "text": "Keresztelő Szent Jánosnak szentelt ortodox templom Zvornikban.", "category": "religious", "coords": [19.100387, 44.386099]}, {"name": "Zvorničko jezero / Zvorničko jezero", "text": "Zvornik Lake egy tó Zvornik területén, amely változatos kikapcsolódási lehetőségeket kínál.", "category": "natural", "coords": [19.147816, 44.324543]}], "ro": [{"name": "Đurđev grad", "text": "Cetatea medievală Đurđev grad situată deasupra orașului Zvornik.", "category": "castle", "coords": [19.096857, 44.375519]}, {"name": "Orlovine", "text": "Situl arheologic Orlovine din Zvornik.", "category": "historical", "coords": [19.113637, 44.371865]}, {"name": "Centralno spomen obeležje", "text": "Un monument central în Zvornik dedicat amintirii.", "category": "historical", "coords": [19.102831, 44.384618]}, {"name": "Vidikovac Orlovine", "text": "Un punct de observație pitoresc care oferă vederi panoramice asupra zonei Zvornik.", "category": "natural", "coords": [19.115152, 44.371415]}, {"name": "Velika kula", "text": "Ruinele unui turn important din cadrul complexului cetății Zvornik.", "category": "historical", "coords": [19.09878, 44.374415]}, {"name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja", "text": "O biserică ortodoxă din Zvornik dedicată Sfântului Ioan Botezătorul.", "category": "religious", "coords": [19.100387, 44.386099]}, {"name": "Zvorničko jezero / Zvorničko jezero", "text": "Zvornik Lake este un lac din Zvornik care oferă diverse oportunități de recreere.", "category": "natural", "coords": [19.147816, 44.324543]}], "en": [{"name": "Đurđev grad", "text": "The medieval fortress of Đurđev grad above Zvornik.", "category": "castle", "coords": [19.096857, 44.375519]}, {"name": "Orlovine", "text": "The archaeological site of Orlovine in Zvornik.", "category": "historical", "coords": [19.113637, 44.371865]}, {"name": "Centralno spomen obeležje", "text": "A central monument in Zvornik dedicated to remembrance.", "category": "historical", "coords": [19.102831, 44.384618]}, {"name": "Vidikovac Orlovine", "text": "A scenic viewpoint offering panoramic views of the Zvornik area.", "category": "natural", "coords": [19.115152, 44.371415]}, {"name": "Velika kula", "text": "Ruins of a significant tower within the Zvornik fortress complex.", "category": "historical", "coords": [19.09878, 44.374415]}, {"name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja", "text": "An Orthodox church in Zvornik dedicated to Saint John the Baptist.", "category": "religious", "coords": [19.100387, 44.386099]}, {"name": "Zvornik Lake", "text": "Zvornik Lake is a lake in Zvornik offering various recreational opportunities.", "category": "natural", "coords": [19.147816, 44.324543]}]},
+    id: "bosniaherzegovina-zvornik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Đurđev grad",
+                  "text": "Đurđev grad ist eine mittelalterliche Hügelfestung nahe Zvornik mit Blick auf die Drina.",
+                  "category": "castle",
+                  "coords": [
+                        19.096857,
+                        44.375519
+                  ]
+            },
+            {
+                  "name": "Orlovine",
+                  "text": "Orlovine ist eine historische Stätte auf einem Hügel nahe Zvornik mit Überresten alter Befestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        19.113637,
+                        44.371865
+                  ]
+            },
+            {
+                  "name": "Centralno spomen obeležje",
+                  "text": "Ein zentrales Denkmal in Zvornik, das dem Gedenken gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.102831,
+                        44.384618
+                  ]
+            },
+            {
+                  "name": "Vidikovac Orlovine",
+                  "text": "Ein malerischer Aussichtspunkt mit Panoramablick auf die Gegend von Zvornik.",
+                  "category": "natural",
+                  "coords": [
+                        19.115152,
+                        44.371415
+                  ]
+            },
+            {
+                  "name": "Velika kula",
+                  "text": "Ruinen eines bedeutenden Turms innerhalb des Festungskomplexes von Zvornik.",
+                  "category": "historical",
+                  "coords": [
+                        19.09878,
+                        44.374415
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja",
+                  "text": "Eine orthodoxe Kirche in Zvornik, die dem heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.100387,
+                        44.386099
+                  ]
+            },
+            {
+                  "name": "Zvorničko jezero / Zvorničko jezero",
+                  "text": "Der Zvornik-See ist ein Stausee an der Drina, beliebt für Erholung nahe Zvornik.",
+                  "category": "natural",
+                  "coords": [
+                        19.147816,
+                        44.324543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Đurđev grad",
+                  "text": "Đurđev grad egy középkori dombtetőn álló erőd Zvornik közelében, a Drinára néz.",
+                  "category": "castle",
+                  "coords": [
+                        19.096857,
+                        44.375519
+                  ]
+            },
+            {
+                  "name": "Orlovine",
+                  "text": "Az Orlovine egy dombon lévő történelmi hely Zvornik közelében, régi erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        19.113637,
+                        44.371865
+                  ]
+            },
+            {
+                  "name": "Centralno spomen obeležje",
+                  "text": "Központi emlékmű Zvornikban az emlékezésnek szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        19.102831,
+                        44.384618
+                  ]
+            },
+            {
+                  "name": "Vidikovac Orlovine",
+                  "text": "Szép kilátóhely, ahonnan panorámás kilátás nyílik Zvornik környékére.",
+                  "category": "natural",
+                  "coords": [
+                        19.115152,
+                        44.371415
+                  ]
+            },
+            {
+                  "name": "Velika kula",
+                  "text": "Egy jelentős torony romjai a zvorniki erődrendszeren belül.",
+                  "category": "historical",
+                  "coords": [
+                        19.09878,
+                        44.374415
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja",
+                  "text": "Keresztelő Szent Jánosnak szentelt ortodox templom Zvornikban.",
+                  "category": "religious",
+                  "coords": [
+                        19.100387,
+                        44.386099
+                  ]
+            },
+            {
+                  "name": "Zvorničko jezero / Zvorničko jezero",
+                  "text": "A Zvornik-tó egy víztározó a Drinán, népszerű rekreációs terület Zvornik közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.147816,
+                        44.324543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Đurđev grad",
+                  "text": "Đurđev grad este o cetate medievală pe un deal lângă Zvornik, cu vedere la râul Drina.",
+                  "category": "castle",
+                  "coords": [
+                        19.096857,
+                        44.375519
+                  ]
+            },
+            {
+                  "name": "Orlovine",
+                  "text": "Orlovine este un sit istoric pe un deal lângă Zvornik, cu rămășițe de fortificații antice.",
+                  "category": "historical",
+                  "coords": [
+                        19.113637,
+                        44.371865
+                  ]
+            },
+            {
+                  "name": "Centralno spomen obeležje",
+                  "text": "Un monument central în Zvornik dedicat amintirii.",
+                  "category": "historical",
+                  "coords": [
+                        19.102831,
+                        44.384618
+                  ]
+            },
+            {
+                  "name": "Vidikovac Orlovine",
+                  "text": "Un punct de observație pitoresc care oferă vederi panoramice asupra zonei Zvornik.",
+                  "category": "natural",
+                  "coords": [
+                        19.115152,
+                        44.371415
+                  ]
+            },
+            {
+                  "name": "Velika kula",
+                  "text": "Ruinele unui turn important din cadrul complexului cetății Zvornik.",
+                  "category": "historical",
+                  "coords": [
+                        19.09878,
+                        44.374415
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja",
+                  "text": "O biserică ortodoxă din Zvornik dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        19.100387,
+                        44.386099
+                  ]
+            },
+            {
+                  "name": "Zvorničko jezero / Zvorničko jezero",
+                  "text": "Lacul Zvornik este un rezervor pe râul Drina, popular pentru recreere lângă Zvornik.",
+                  "category": "natural",
+                  "coords": [
+                        19.147816,
+                        44.324543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Đurđev grad",
+                  "text": "Đurđev grad is a medieval hilltop fortress near Zvornik overlooking the Drina River.",
+                  "category": "castle",
+                  "coords": [
+                        19.096857,
+                        44.375519
+                  ]
+            },
+            {
+                  "name": "Orlovine",
+                  "text": "Orlovine is a historical site on a hill near Zvornik with remnants of ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        19.113637,
+                        44.371865
+                  ]
+            },
+            {
+                  "name": "Centralno spomen obeležje",
+                  "text": "A central monument in Zvornik dedicated to remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        19.102831,
+                        44.384618
+                  ]
+            },
+            {
+                  "name": "Vidikovac Orlovine",
+                  "text": "A scenic viewpoint offering panoramic views of the Zvornik area.",
+                  "category": "natural",
+                  "coords": [
+                        19.115152,
+                        44.371415
+                  ]
+            },
+            {
+                  "name": "Velika kula",
+                  "text": "Ruins of a significant tower within the Zvornik fortress complex.",
+                  "category": "historical",
+                  "coords": [
+                        19.09878,
+                        44.374415
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Svetog Jovana Preteče i Krstitelja",
+                  "text": "An Orthodox church in Zvornik dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        19.100387,
+                        44.386099
+                  ]
+            },
+            {
+                  "name": "Zvornik Lake",
+                  "text": "Zvornik Lake is a reservoir on the Drina River, popular for recreation near Zvornik.",
+                  "category": "natural",
+                  "coords": [
+                        19.147816,
+                        44.324543
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Zvornik", hu: "Zvornik", ro: "Zvornik", en: "Zvornik"},
@@ -9156,7 +10128,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kirche des Heiligen Antonius von Padua",
-                  "text": "Die katholische Pfarrkirche des Heiligen Antonius von Padua in Busovača.",
+                  "text": "Die Kirche des Heiligen Antonius von Padua ist eine römisch-katholische Kirche in Busovača.",
                   "category": "religious",
                   "coords": [
                         17.88003,
@@ -9167,7 +10139,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Crkva svetog Ante Padovanskog",
-                  "text": "Páduai Szent Antal katolikus plébániatemplom Busovačában.",
+                  "text": "A Szent Antal-templom egy római katolikus templom Busovačában.",
                   "category": "religious",
                   "coords": [
                         17.88003,
@@ -9178,7 +10150,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Crkva svetog Ante Padovanskog",
-                  "text": "Biserica parohială catolică Sfântul Anton de Padova din Busovača.",
+                  "text": "Biserica Sfântul Anton de Padova este o biserică romano-catolică din Busovača.",
                   "category": "religious",
                   "coords": [
                         17.88003,
@@ -9189,7 +10161,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Church of Saint Anthony of Padua",
-                  "text": "The Catholic parish church of Saint Anthony of Padua in Busovača.",
+                  "text": "The Church of Saint Anthony of Padua is a Roman Catholic church in Busovača.",
                   "category": "religious",
                   "coords": [
                         17.88003,
@@ -9661,7 +10633,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Balkana",
-                  "text": "Balkana Lake ist ein See in Mrkonjic Grad, der ein beliebter Ort für Ausflüge ist.",
+                  "text": "Der Balkana-See ist ein kleiner See nahe Mrkonjić Grad, umgeben von bewaldeten Hügeln.",
                   "category": "natural",
                   "coords": [
                         17.049215,
@@ -9708,7 +10680,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Balkana",
-                  "text": "Balkana Lake egy tó Mrkonjic Grad területén, amely kedvelt kirándulóhely.",
+                  "text": "A Balkana-tó egy kis tó Mrkonjić Grad közelében, erdős dombokkal körülvéve.",
                   "category": "natural",
                   "coords": [
                         17.049215,
@@ -9755,7 +10727,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Balkana",
-                  "text": "Balkana Lake este un lac din Mrkonjic Grad, fiind un loc popular pentru excursii.",
+                  "text": "Lacul Balkana este un mic lac lângă Mrkonjić Grad, înconjurat de dealuri împădurite.",
                   "category": "natural",
                   "coords": [
                         17.049215,
@@ -9802,7 +10774,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Balkana Lake",
-                  "text": "Balkana Lake is a lake in Mrkonjic Grad and a popular spot for excursions.",
+                  "text": "Balkana Lake is a small lake near Mrkonjić Grad, surrounded by wooded hills.",
                   "category": "natural",
                   "coords": [
                         17.049215,
@@ -10054,7 +11026,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Medvedgrad",
-                  "text": "Historische Burgruinen in der Region Glamoč.",
+                  "text": "Medvedgrad ist eine mittelalterliche Burgruine auf einem Hügel nahe Glamoč.",
                   "category": "castle",
                   "coords": [
                         16.824324,
@@ -10099,7 +11071,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Opačićko jezero",
-                  "text": "Opačićko jezero ist ein See in Glamoc, der für seine idyllische Lage bekannt ist.",
+                  "text": "Der Opačićko-See ist ein Bergsee in den Dinarischen Alpen nahe Glamoč.",
                   "category": "natural",
                   "coords": [
                         16.858492,
@@ -10117,7 +11089,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Busija",
-                  "text": "Jezero Busija ist ein See in Glamoc, der sich gut für ruhige Spaziergänge eignet.",
+                  "text": "Der Jezero Busija ist ein kleiner See nahe Glamoč, bekannt für sein klares Wasser.",
                   "category": "natural",
                   "coords": [
                         16.849243,
@@ -10155,7 +11127,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Medvedgrad",
-                  "text": "Történelmi várromok Glamoč régiójában.",
+                  "text": "Medvedgrad egy középkori várrom egy dombon Glamoč közelében.",
                   "category": "castle",
                   "coords": [
                         16.824324,
@@ -10200,7 +11172,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Opačićko jezero",
-                  "text": "Opačićko jezero egy tó Glamoc területén, amely idilli elhelyezkedéséről ismert.",
+                  "text": "Az Opačićko-tó egy hegyi tó a Dinári-hegységben, Glamoč közelében.",
                   "category": "natural",
                   "coords": [
                         16.858492,
@@ -10218,7 +11190,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Busija",
-                  "text": "Jezero Busija egy tó Glamoc területén, amely alkalmas csendes sétákra.",
+                  "text": "A Jezero Busija egy kis tó Glamoč közelében, tiszta vizéről ismert.",
                   "category": "natural",
                   "coords": [
                         16.849243,
@@ -10256,7 +11228,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Medvedgrad",
-                  "text": "Ruine istorice de castel situate în regiunea Glamoč.",
+                  "text": "Medvedgrad este o ruină de castel medieval pe un deal lângă Glamoč.",
                   "category": "castle",
                   "coords": [
                         16.824324,
@@ -10301,7 +11273,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Opačićko jezero",
-                  "text": "Opačićko jezero este un lac din Glamoc cunoscut pentru locația sa idilică.",
+                  "text": "Lacul Opačićko este un lac de munte în Alpii Dinarici lângă Glamoč.",
                   "category": "natural",
                   "coords": [
                         16.858492,
@@ -10319,7 +11291,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Busija",
-                  "text": "Jezero Busija este un lac din Glamoc, potrivit pentru plimbări liniștite.",
+                  "text": "Lacul Busija este un mic lac lângă Glamoč, cunoscut pentru apele sale limpezi.",
                   "category": "natural",
                   "coords": [
                         16.849243,
@@ -10357,7 +11329,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Medvedgrad",
-                  "text": "Historical castle ruins located in the Glamoč region.",
+                  "text": "Medvedgrad is a medieval castle ruin on a hill near Glamoč.",
                   "category": "castle",
                   "coords": [
                         16.824324,
@@ -10402,7 +11374,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Opačićko jezero",
-                  "text": "Opačićko jezero is a lake in Glamoc known for its idyllic location.",
+                  "text": "Opačićko jezero is a mountain lake in the Dinaric Alps near Glamoč.",
                   "category": "natural",
                   "coords": [
                         16.858492,
@@ -10420,7 +11392,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Busija",
-                  "text": "Jezero Busija is a lake in Glamoc suitable for quiet walks.",
+                  "text": "Jezero Busija is a small lake near Glamoč, known for its clear waters.",
                   "category": "natural",
                   "coords": [
                         16.849243,
@@ -10497,7 +11469,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rodna kuća Gavrila Principa",
-                  "text": "Das rekonstruierte Geburtshaus von Gavrilo Princip in der Nähe von Bosansko Grahovo.",
+                  "text": "Das Geburtshaus von Gavrilo Princip ist eine historische Stätte in Bosansko Grahovo, wo der Attentäter geboren wurde.",
                   "category": "historical",
                   "coords": [
                         16.387215,
@@ -10517,7 +11489,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rodna kuća Gavrila Principa",
-                  "text": "Gavrilo Princip rekonstruált szülőháza Bosansko Grahovo közelében.",
+                  "text": "Gavrilo Princip szülőháza történelmi hely Bosansko Grahovóban, ahol a merénylő született.",
                   "category": "historical",
                   "coords": [
                         16.387215,
@@ -10537,7 +11509,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rodna kuća Gavrila Principa",
-                  "text": "Casa natală reconstruită a lui Gavrilo Princip, lângă Bosansko Grahovo.",
+                  "text": "Casa natală a lui Gavrilo Princip este un sit istoric în Bosansko Grahovo, unde s-a născut asasinul.",
                   "category": "historical",
                   "coords": [
                         16.387215,
@@ -10557,7 +11529,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Birth house of Gavrilo Princip",
-                  "text": "The reconstructed birth house of Gavrilo Princip near Bosansko Grahovo.",
+                  "text": "The birth house of Gavrilo Princip is a historical site in Bosansko Grahovo, where the assassin was born.",
                   "category": "historical",
                   "coords": [
                         16.387215,
@@ -10764,7 +11736,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Spomen kosturnica",
-                  "text": "Ein Gedenkdenkmal mit Beinhaus in Han Pijesak.",
+                  "text": "Spomen kosturnica ist ein Ossuarium aus dem Zweiten Weltkrieg in Han Pijesak.",
                   "category": "historical",
                   "coords": [
                         18.953545,
@@ -10775,7 +11747,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Spomen kosturnica",
-                  "text": "Emlékmű és csontház Han Pijesak településen.",
+                  "text": "A Spomen kosturnica egy második világháborús osszárium Han Pijesakban.",
                   "category": "historical",
                   "coords": [
                         18.953545,
@@ -10786,7 +11758,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Spomen kosturnica",
-                  "text": "Un monument comemorativ cu osuar în Han Pijesak.",
+                  "text": "Spomen kosturnica este un osuar din al Doilea Război Mondial în Han Pijesak.",
                   "category": "historical",
                   "coords": [
                         18.953545,
@@ -10797,7 +11769,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Spomen kosturnica",
-                  "text": "A memorial monument and ossuary in Han Pijesak.",
+                  "text": "Spomen kosturnica is a WWII ossuary memorial in Han Pijesak.",
                   "category": "historical",
                   "coords": [
                         18.953545,
@@ -11058,7 +12030,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Općina Novi Grad Sarajevo",
-                  "text": "Das Verwaltungsgebäude der Gemeinde Novi Grad Sarajevo in Ost-Sarajevo.",
+                  "text": "Das Gemeindeamt von Novi Grad Sarajevo ist der Sitz der Gemeindeverwaltung in Ost-Sarajevo.",
                   "category": "historical",
                   "coords": [
                         18.354814,
@@ -11267,7 +12239,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Općina Novi Grad Sarajevo",
-                  "text": "Novi Grad Sarajevo község közigazgatási épülete Kelet-Szarajevóban.",
+                  "text": "A Novi Grad Sarajevo önkormányzati épülete a közigazgatás székhelye Kelet-Szarajevóban.",
                   "category": "historical",
                   "coords": [
                         18.354814,
@@ -11476,7 +12448,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Općina Novi Grad Sarajevo",
-                  "text": "Clădirea administrativă a municipalității Novi Grad Sarajevo din Sarajevo de Est.",
+                  "text": "Clădirea Primăriei Novi Grad Sarajevo este sediul administrației locale în Istočno Sarajevo.",
                   "category": "historical",
                   "coords": [
                         18.354814,
@@ -11685,7 +12657,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Municipality of Novi Grad Sarajevo",
-                  "text": "The administrative building of the Novi Grad Sarajevo municipality in East Sarajevo.",
+                  "text": "The Municipality of Novi Grad Sarajevo serves as the municipal seat in East Sarajevo.",
                   "category": "historical",
                   "coords": [
                         18.354814,
@@ -13110,7 +14082,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Buffer zone - Vrelo Bosne Nature Monument",
-                  "text": "Geschützte Pufferzone des Naturparks Vrelo Bosne zur Erhaltung des Ökosystems.",
+                  "text": "Die Pufferzone des Naturdenkmals Vrelo Bosne ist ein geschütztes Gebiet nahe Ilidža um die Bosna-Quelle.",
                   "category": "natural",
                   "coords": [
                         18.286074,
@@ -13155,7 +14127,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik ist ein See in Ilidza, der eine angenehme Naturkulisse bietet.",
+                  "text": "Der Jezero Toplik ist ein kleiner See im Ilidža-Gebiet, Teil des Vrelo-Bosne-Parks.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -13164,7 +14136,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne ist ein See in Ilidza, der für seine malerischen Wasserläufe bekannt ist.",
+                  "text": "Vrelo Bosne ist die Quelle der Bosna, ein Park und Naturschutzgebiet in Ilidža.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -13238,7 +14210,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Buffer zone - Vrelo Bosne Nature Monument",
-                  "text": "A Vrelo Bosne natúrpark védett környező területe az ökológiai megőrzés érdekében.",
+                  "text": "A Vrelo Bosne természeti emlék pufferzónája egy védett terület Ilidža közelében, a Boszna forrása körül.",
                   "category": "natural",
                   "coords": [
                         18.286074,
@@ -13283,7 +14255,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik egy tó Ilidza területén, amely kellemes természeti környezetet kínál.",
+                  "text": "A Jezero Toplik egy kis tó Ilidža területén, a Vrelo Bosne park része.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -13292,7 +14264,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne egy tó Ilidza területén, amely festői vízfolyásairól ismert.",
+                  "text": "A Vrelo Bosne a Boszna folyó forrása, egy park és természetvédelmi terület Ilidžában.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -13366,7 +14338,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Buffer zone - Vrelo Bosne Nature Monument",
-                  "text": "Zona de protecție a monumentului naturii Vrelo Bosne, asigurând conservarea ecologică.",
+                  "text": "Zona tampon a Monumentului Natural Vrelo Bosne este o arie protejată lângă Ilidža, în jurul izvorului râului Bosna.",
                   "category": "natural",
                   "coords": [
                         18.286074,
@@ -13411,7 +14383,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik este un lac din Ilidza care oferă un cadru natural plăcut.",
+                  "text": "Lacul Toplik este un mic lac în zona Ilidža, parte a parcului Vrelo Bosne.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -13420,7 +14392,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne este un lac din Ilidza cunoscut pentru cursurile sale de apă pitorești.",
+                  "text": "Vrelo Bosne este izvorul râului Bosna, un parc și rezervație naturală în Ilidža.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -13494,7 +14466,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Buffer zone - Vrelo Bosne Nature Monument",
-                  "text": "The protected surrounding buffer zone of the Vrelo Bosne nature park.",
+                  "text": "Buffer zone of Vrelo Bosne Nature Monument is a protected area near Ilidža surrounding the Bosna River spring.",
                   "category": "natural",
                   "coords": [
                         18.286074,
@@ -13539,7 +14511,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik is a lake in Ilidza offering a pleasant natural setting.",
+                  "text": "Jezero Toplik is a small lake in the Ilidža area, part of the Vrelo Bosne park.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -13548,7 +14520,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne is a lake in Ilidza known for its scenic watercourses.",
+                  "text": "Vrelo Bosne is the source of the Bosna River, a park and nature reserve in Ilidža.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -13632,7 +14604,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Der Zoološki vrt Pionirska dolina in Istocni Stari Grad ist ein beliebtes Ziel für Familien.",
+                  "text": "Der Zoo Pionirska dolina in Istočni Stari bietet familienfreundliche Tierausstellungen.",
                   "category": "family",
                   "coords": [
                         18.412204,
@@ -13688,7 +14660,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Az Istocni Stari Grad-i Zoološki vrt Pionirska dolina a családok kedvelt úti célja.",
+                  "text": "A Pionirska dolina Állatkert Istočni Stariban családbarát állatbemutatókat kínál.",
                   "category": "family",
                   "coords": [
                         18.412204,
@@ -13744,7 +14716,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Zoološki vrt Pionirska dolina din Istocni Stari Grad este o destinație populară pentru familii.",
+                  "text": "Grădina zoologică Pionirska dolina din Istočni Stari oferă exponate animaliere prietenoase cu familia.",
                   "category": "family",
                   "coords": [
                         18.412204,
@@ -13800,7 +14772,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Zoološki vrt Pionirska dolina in Istocni Stari Grad is a popular family destination.",
+                  "text": "Zoološki vrt Pionirska dolina is a zoo in Istočni Stari, offering family-friendly animal exhibits.",
                   "category": "family",
                   "coords": [
                         18.412204,
@@ -14127,7 +15099,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Malo Plivsko jezero",
-                  "text": "Malo Plivsko jezero ist ein See in Jezero, der für seine ruhige Schönheit geschätzt wird.",
+                  "text": "Der Malo Plivsko jezero ist ein kleiner See im Jezero-Gebiet, Teil des Pliva-Seensystems.",
                   "category": "natural",
                   "coords": [
                         17.23293,
@@ -14145,7 +15117,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Okruglo Jezero ist ein See in Jezero, der für seine charakteristische Form bekannt ist.",
+                  "text": "Der Okruglo Jezero ist ein runder See nahe Jezero, bekannt für seine Form.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -14165,7 +15137,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Malo Plivsko jezero",
-                  "text": "Malo Plivsko jezero egy tó Jezero területén, amelyet nyugodt szépségéért kedvelnek.",
+                  "text": "A Malo Plivsko-tó egy kis tó Jezero területén, a Pliva-tórendszer része.",
                   "category": "natural",
                   "coords": [
                         17.23293,
@@ -14183,7 +15155,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Okruglo Jezero egy tó Jezero területén, amely jellegzetes formájáról ismert.",
+                  "text": "Az Okruglo-tó egy kerek tó Jezero közelében, alakjáról ismert.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -14203,7 +15175,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Malo Plivsko jezero",
-                  "text": "Malo Plivsko jezero este un lac din Jezero apreciat pentru frumusețea sa liniștită.",
+                  "text": "Lacul Mic Plivsko este un mic lac în zona Jezero, parte a sistemului de lacuri Pliva.",
                   "category": "natural",
                   "coords": [
                         17.23293,
@@ -14221,7 +15193,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Okruglo Jezero este un lac din Jezero cunoscut pentru forma sa caracteristică.",
+                  "text": "Lacul Rotund este un lac circular lângă Jezero, cunoscut pentru forma sa.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -14241,7 +15213,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Malo Plivsko jezero",
-                  "text": "Malo Plivsko jezero is a lake in Jezero valued for its quiet beauty.",
+                  "text": "Malo Plivsko jezero is a small lake in the Jezero area, part of the Pliva Lakes system.",
                   "category": "natural",
                   "coords": [
                         17.23293,
@@ -14259,7 +15231,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Okruglo Jezero",
-                  "text": "Okruglo Jezero is a lake in Jezero known for its characteristic shape.",
+                  "text": "Okruglo Jezero is a circular lake near Jezero, known for its shape.",
                   "category": "natural",
                   "coords": [
                         17.240167,
@@ -14739,7 +15711,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva Svetog Varnave Hvostanskog",
-                  "text": "Eine orthodoxe Kirche in Lukavica.",
+                  "text": "Die Crkva Svetog Varnave Hvostanskog ist eine serbisch-orthodoxe Kirche in Lukavica, dem Heiligen Barnabas geweiht.",
                   "category": "religious",
                   "coords": [
                         18.370729,
@@ -14757,7 +15729,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake ist ein See in Lukavica, der ideal für Naturspaziergänge ist.",
+                  "text": "Der Srojčevac-See ist ein kleiner See nahe Lukavica, umgeben von Wald.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -14766,7 +15738,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik ist ein See in Lukavica, der eine friedliche Atmosphäre ausstrahlt.",
+                  "text": "Der Jezero Toplik ist ein kleiner See nahe Lukavica.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -14775,7 +15747,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne ist ein See in Lukavica, der für seine natürliche Quelllage bekannt ist.",
+                  "text": "Vrelo Bosne ist die Quelle der Bosna, nahe Lukavica.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -14930,7 +15902,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva Svetog Varnave Hvostanskog",
-                  "text": "Ortodox templom Lukavica településen.",
+                  "text": "A Crkva Svetog Varnave Hvostanskog egy szerb ortodox templom Lukavicában, Szent Barnabásnak szentelve.",
                   "category": "religious",
                   "coords": [
                         18.370729,
@@ -14948,7 +15920,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake egy tó Lukavica területén, amely ideális természeti sétákhoz.",
+                  "text": "A Srojčevac-tó egy kis tó Lukavica közelében, erdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -14957,7 +15929,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik egy tó Lukavica területén, amely békés légkört áraszt.",
+                  "text": "A Jezero Toplik egy kis tó Lukavica közelében.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -14966,7 +15938,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne egy tó Lukavica területén, amely természetes forrásvidékéről ismert.",
+                  "text": "A Vrelo Bosne a Boszna folyó forrása, Lukavica közelében.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -15121,7 +16093,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva Svetog Varnave Hvostanskog",
-                  "text": "O biserică ortodoxă în Lukavica.",
+                  "text": "Crkva Svetog Varnave Hvostanskog este o biserică ortodoxă sârbă din Lukavica, dedicată Sfântului Barnaba.",
                   "category": "religious",
                   "coords": [
                         18.370729,
@@ -15139,7 +16111,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake este un lac din Lukavica, ideal pentru plimbări în natură.",
+                  "text": "Lacul Srojčevac este un mic lac lângă Lukavica, înconjurat de pădure.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -15148,7 +16120,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik este un lac din Lukavica care emană o atmosferă liniștită.",
+                  "text": "Lacul Toplik este un mic lac lângă Lukavica.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -15157,7 +16129,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne este un lac din Lukavica cunoscut pentru zona sa naturală de izvoare.",
+                  "text": "Vrelo Bosne este izvorul râului Bosna, lângă Lukavica.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -15312,7 +16284,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Crkva Svetog Varnave Hvostanskog",
-                  "text": "An Orthodox church in Lukavica.",
+                  "text": "Crkva Svetog Varnave Hvostanskog is a Serbian Orthodox church in Lukavica dedicated to Saint Barnabas.",
                   "category": "religious",
                   "coords": [
                         18.370729,
@@ -15330,7 +16302,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Srojčevac lake",
-                  "text": "Srojčevac lake is a lake in Lukavica ideal for nature walks.",
+                  "text": "Srojčevac lake is a small lake near Lukavica, surrounded by forest.",
                   "category": "natural",
                   "coords": [
                         18.287829,
@@ -15339,7 +16311,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Jezero Toplik",
-                  "text": "Jezero Toplik is a lake in Lukavica radiating a peaceful atmosphere.",
+                  "text": "Jezero Toplik is a small lake near Lukavica.",
                   "category": "natural",
                   "coords": [
                         18.379302,
@@ -15348,7 +16320,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Vrelo Bosne",
-                  "text": "Vrelo Bosne is a lake in Lukavica known for its natural spring area.",
+                  "text": "Vrelo Bosne is the source of the Bosna River, near Lukavica.",
                   "category": "natural",
                   "coords": [
                         18.268262,
@@ -15765,7 +16737,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Potkošnica",
-                  "text": "Potkošnica bei Petrovici ist ein stiller See in einer naturbelassenen Umgebung.",
+                  "text": "Potkošnica ist ein Naturgebiet nahe Petrović, möglicherweise ein Bach oder Tal.",
                   "category": "natural",
                   "coords": [
                         18.628601,
@@ -15774,7 +16746,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Toplice",
-                  "text": "Ein Schwimmbad in Petrovići für Erholung im Wasser.",
+                  "text": "Toplice ist ein familienfreundliches Thermalbad nahe Petrović.",
                   "category": "family",
                   "coords": [
                         18.729859,
@@ -15821,7 +16793,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Potkošnica",
-                  "text": "A Petrovici közelében található Potkošnica egy csendes tó érintetlen környezetben.",
+                  "text": "A Potkošnica egy természeti terület Petrović közelében, valószínűleg egy patak vagy völgy.",
                   "category": "natural",
                   "coords": [
                         18.628601,
@@ -15830,7 +16802,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Toplice",
-                  "text": "Úszómedence Petrovići településen vízi kikapcsolódáshoz.",
+                  "text": "A Toplice egy családbarát termálfürdő Petrović közelében.",
                   "category": "family",
                   "coords": [
                         18.729859,
@@ -15877,7 +16849,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Potkošnica",
-                  "text": "Potkošnica de lângă Petrovici este un lac liniștit într-un cadru natural.",
+                  "text": "Potkošnica este o zonă naturală lângă Petrović, posibil un pârâu sau o vale.",
                   "category": "natural",
                   "coords": [
                         18.628601,
@@ -15886,7 +16858,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Toplice",
-                  "text": "O piscină în Petrovići pentru relaxare în apă.",
+                  "text": "Toplice este o baie termală prietenoasă cu familia lângă Petrović.",
                   "category": "family",
                   "coords": [
                         18.729859,
@@ -15933,7 +16905,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Potkošnica",
-                  "text": "Potkošnica near Petrovici is a quiet lake in a natural setting.",
+                  "text": "Potkošnica is a natural site near Petrović, possibly a stream or valley.",
                   "category": "natural",
                   "coords": [
                         18.628601,
@@ -15942,7 +16914,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             },
             {
                   "name": "Toplice",
-                  "text": "A swimming pool in Petrovići for water recreation.",
+                  "text": "Toplice is a family-friendly thermal spa near Petrović.",
                   "category": "family",
                   "coords": [
                         18.729859,
@@ -16305,7 +17277,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Izvor pitke vode",
-                  "text": "Izvor pitke vode ist ein See in Tihovici, der als natürliche Wasserquelle dient.",
+                  "text": "Izvor pitke vode ist eine natürliche Trinkwasserquelle nahe Tihovići.",
                   "category": "natural",
                   "coords": [
                         18.351098,
@@ -16316,7 +17288,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Izvor pitke vode",
-                  "text": "Izvor pitke vode egy tó Tihovici területén, amely természetes vízforrásként szolgál.",
+                  "text": "Az Izvor pitke vode egy természetes ivóvízforrás Tihovići közelében.",
                   "category": "natural",
                   "coords": [
                         18.351098,
@@ -16327,7 +17299,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Izvor pitke vode",
-                  "text": "Izvor pitke vode este un lac din Tihovici care servește ca sursă naturală de apă.",
+                  "text": "Izvor pitke vode este un izvor natural de apă potabilă lângă Tihovići.",
                   "category": "natural",
                   "coords": [
                         18.351098,
@@ -16338,7 +17310,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Izvor pitke vode",
-                  "text": "Izvor pitke vode is a lake in Tihovici serving as a natural water source.",
+                  "text": "Izvor pitke vode is a natural drinking water spring near Tihovići.",
                   "category": "natural",
                   "coords": [
                         18.351098,

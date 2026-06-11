@@ -863,7 +863,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Wadh Nyachar/Wadh Wäär Joguol",
-                  "text": "Dieser Ort ist ein öffentlicher Strand in Nasir.",
+                  "text": "Ein Erholungsgebiet entlang des Flusses mit natürlichen Pools und Wanderwegen.",
                   "category": "recreational",
                   "coords": [
                         33.075328,
@@ -874,7 +874,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Wadh Nyachar/Wadh Wäär Joguol",
-                  "text": "Ez a hely egy nyilvános strand Nasir városában.",
+                  "text": "Pihenőhely a folyó mentén természetes medencékkel és sétányokkal.",
                   "category": "recreational",
                   "coords": [
                         33.075328,
@@ -885,7 +885,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Wadh Nyachar/Wadh Wäär Joguol",
-                  "text": "Acest loc este o plajă publică situată în Nasir.",
+                  "text": "O zonă de agrement de-a lungul râului, cu piscine naturale și trasee de plimbare.",
                   "category": "recreational",
                   "coords": [
                         33.075328,
@@ -896,7 +896,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Wadh Nyachar/Wadh Wäär Joguol",
-                  "text": "This site is a public beach located in Nasir.",
+                  "text": "A recreational area along the river with natural pools and walking paths.",
                   "category": "recreational",
                   "coords": [
                         33.075328,
@@ -1004,7 +1004,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fr. Leopoldo Anywar Museum",
-                  "text": "Das Fr. Leopoldo Anywar Museum ist ein Museum in der Stadt Magwi.",
+                  "text": "Ein Museum zu Ehren von Fr. Leopoldo Anywar mit lokalen Geschichtsausstellungen.",
                   "category": "museum",
                   "coords": [
                         32.300487,
@@ -1015,7 +1015,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fr. Leopoldo Anywar Museum",
-                  "text": "A Fr. Leopoldo Anywar Museum egy múzeum Magwi városában.",
+                  "text": "Múzeum Fr. Leopoldo Anywar tiszteletére, helytörténeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         32.300487,
@@ -1026,7 +1026,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fr. Leopoldo Anywar Museum",
-                  "text": "Fr. Leopoldo Anywar Museum este un muzeu în orașul Magwi.",
+                  "text": "Un muzeu dedicat pr. Leopoldo Anywar, cu expoziții de istorie locală.",
                   "category": "museum",
                   "coords": [
                         32.300487,
@@ -1037,7 +1037,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fr. Leopoldo Anywar Museum",
-                  "text": "The Fr. Leopoldo Anywar Museum is a museum located in the city of Magwi.",
+                  "text": "A museum dedicated to Fr. Leopoldo Anywar, showcasing local history and artifacts.",
                   "category": "museum",
                   "coords": [
                         32.300487,
@@ -2237,7 +2237,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "plane",
-                  "text": "Überreste eines historischen Flugzeugs in der Gegend von Fangak.",
+                  "text": "Eine historische Flugzeugwrackstätte, die an vergangene Konflikte erinnert.",
                   "category": "historical",
                   "coords": [
                         30.879859,
@@ -2248,7 +2248,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "plane",
-                  "text": "Egy történelmi repülőgép maradványai Fangak környékén.",
+                  "text": "Történelmi repülőgép roncshelyszín, amely a múlt konfliktusaira emlékeztet.",
                   "category": "historical",
                   "coords": [
                         30.879859,
@@ -2259,7 +2259,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "plane",
-                  "text": "Rămășițele unui avion istoric situate în zona Fangak.",
+                  "text": "Un sit istoric cu un avion prăbușit, care amintește de conflictele trecute.",
                   "category": "historical",
                   "coords": [
                         30.879859,
@@ -2270,7 +2270,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "plane",
-                  "text": "Historical plane remains located in the Fangak area.",
+                  "text": "A historical airplane wreck site, a reminder of past conflicts.",
                   "category": "historical",
                   "coords": [
                         30.879859,

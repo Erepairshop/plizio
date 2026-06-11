@@ -51,7 +51,88 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Construits au VIe siècle après J.-C.", "La plus petite statue (Shamama) mesurait 38 mètres de haut.", "Inscrits au patrimoine mondial de l'UNESCO depuis 2003.", "Détruits par les talibans en mars 2001.", "Situés dans la vallée de Bamiyan, centre de l'Afghanistan.", "Représentent le style artistique du Gandhara.", "Niches entourées de centaines de grottes peintes."],
     }, image: "/poi-images/buddhas-bamiyan-history-v2.webp"},
   {
-    id: "minaret-of-jam-history-v2",
+    id: "minaret-of-jam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Firozkoh",
+                  "text": "Die archäologischen Überreste der Sommerhauptstadt der mittelalterlichen Ghoriden-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        64.516775,
+                        34.396484
+                  ]
+            },
+            {
+                  "name": "Minaret and Archaeological Remains of Jam",
+                  "text": "Ein 65 Meter hohes Backsteinminarett aus dem 12. Jahrhundert, verziert mit aufwendigen türkisfarbenen Fliesen und Kalligrafie.",
+                  "category": "historical",
+                  "coords": [
+                        64.515725,
+                        34.396479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Firozkoh",
+                  "text": "A középkori Ghorid-dinasztia nyári fővárosának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        64.516775,
+                        34.396484
+                  ]
+            },
+            {
+                  "name": "Minaret and Archaeological Remains of Jam",
+                  "text": "Egy 65 méter magas, 12. századi tégla minaret, amelyet bonyolult türkiz csempézés és kalligráfia díszít.",
+                  "category": "historical",
+                  "coords": [
+                        64.515725,
+                        34.396479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Firozkoh",
+                  "text": "Rămășițele arheologice ale capitalei de vară a dinastiei medievale Ghorid.",
+                  "category": "historical",
+                  "coords": [
+                        64.516775,
+                        34.396484
+                  ]
+            },
+            {
+                  "name": "Minaret and Archaeological Remains of Jam",
+                  "text": "Un minaret din cărămidă din secolul al XII-lea, înalt de 65 de metri, decorat cu plăci de turcoaz și caligrafie complicate.",
+                  "category": "historical",
+                  "coords": [
+                        64.515725,
+                        34.396479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Firozkoh",
+                  "text": "The archaeological remains of the summer capital of the medieval Ghorid dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        64.516775,
+                        34.396484
+                  ]
+            },
+            {
+                  "name": "Minaret and Archaeological Remains of Jam",
+                  "text": "A 65-metre-tall 12th-century brick minaret decorated with intricate turquoise tiling and calligraphy.",
+                  "category": "historical",
+                  "coords": [
+                        64.515725,
+                        34.396479
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AF-GHO",
     coords: [64.5161, 34.3965],
@@ -98,7 +179,160 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Construit vers 1190 par la dynastie ghoride.", "Hauteur de 65 mètres.", "Entièrement construit en briques cuites.", "Patrimoine mondial de l'UNESCO depuis 2002.", "Situé dans la province de Ghor.", "Orné de calligraphies coufiques et naskhi.", "Fonction possible de tour de victoire.", "Menacé par la rivière Hari Rud et l'érosion."],
     }, image: "/poi-images/minaret-of-jam-history-v2.webp"},
   {
-    id: "citadel-herat-history-v2",
+    id: "citadel-herat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yu Aw Synagogue",
+                  "text": "Ein seltener jüdischer Gebetsort aus dem 14. Jahrhundert in Herat mit einer wunderschön verzierten Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        62.186631,
+                        34.339123
+                  ]
+            },
+            {
+                  "name": "Herat National Museum",
+                  "text": "Ein Museum innerhalb der Zitadelle, das Artefakte aus Afghanistans reicher Timuriden-Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        62.187706,
+                        34.345813
+                  ]
+            },
+            {
+                  "name": "Paye Hissar Mosque",
+                  "text": "Eine historische Moschee am Fuße der gewaltigen Mauern der Zitadelle von Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190666,
+                        34.34529
+                  ]
+            },
+            {
+                  "name": "Sultan Agha Mausoleum",
+                  "text": "Ein islamisches Heiligtum in Herat mit traditionellen architektonischen Details im Timuriden-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184813,
+                        34.332941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yu Aw Synagogue",
+                  "text": "Ritka 14. századi zsidó istentiszteleti hely Herátban, gyönyörűen díszített kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        62.186631,
+                        34.339123
+                  ]
+            },
+            {
+                  "name": "Herat National Museum",
+                  "text": "A citadellán belül található múzeum, amely Afganisztán gazdag timurida történelmének emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        62.187706,
+                        34.345813
+                  ]
+            },
+            {
+                  "name": "Paye Hissar Mosque",
+                  "text": "Történelmi mecset Herát citadellájának tornyosuló falai tövében.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190666,
+                        34.34529
+                  ]
+            },
+            {
+                  "name": "Sultan Agha Mausoleum",
+                  "text": "Iszlám szentély Herátban, hagyományos timurida stílusú építészeti részletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184813,
+                        34.332941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yu Aw Synagogue",
+                  "text": "Un rar lăcaș de cult evreiesc din secolul al XIV-lea în Herat, cu o cupolă frumos decorată.",
+                  "category": "landmark",
+                  "coords": [
+                        62.186631,
+                        34.339123
+                  ]
+            },
+            {
+                  "name": "Herat National Museum",
+                  "text": "Un muzeu situat în interiorul cetății, care expune artefacte din bogata istorie timuridă a Afganistanului.",
+                  "category": "museum",
+                  "coords": [
+                        62.187706,
+                        34.345813
+                  ]
+            },
+            {
+                  "name": "Paye Hissar Mosque",
+                  "text": "O moschee istorică situată la baza zidurilor impunătoare ale cetății din Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190666,
+                        34.34529
+                  ]
+            },
+            {
+                  "name": "Sultan Agha Mausoleum",
+                  "text": "Un altar islamic din Herat, cu detalii arhitecturale tradiționale în stil timurid.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184813,
+                        34.332941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yu Aw Synagogue",
+                  "text": "A rare 14th-century Jewish place of worship in Herat, featuring a beautifully decorated dome.",
+                  "category": "landmark",
+                  "coords": [
+                        62.186631,
+                        34.339123
+                  ]
+            },
+            {
+                  "name": "Herat National Museum",
+                  "text": "A museum located inside the citadel, showcasing artifacts from Afghanistan's rich Timurid history.",
+                  "category": "museum",
+                  "coords": [
+                        62.187706,
+                        34.345813
+                  ]
+            },
+            {
+                  "name": "Paye Hissar Mosque",
+                  "text": "A historical mosque situated at the base of the towering Herat Citadel walls.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190666,
+                        34.34529
+                  ]
+            },
+            {
+                  "name": "Sultan Agha Mausoleum",
+                  "text": "An Islamic shrine in Herat featuring traditional Timurid-style architectural details.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184813,
+                        34.332941
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AF-HER",
     coords: [62.1872, 34.3468],
@@ -145,7 +379,124 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Origines vers 330 avant J.-C. (Alexandre le Grand).", "Se compose de 18 tours et de plusieurs remparts.", "A servi de forteresse militaire et de résidence royale.", "Considérablement agrandie par les Timourides au XVe siècle.", "Restaurée entre 2006 et 2011.", "Abrite aujourd'hui le Musée national de Hérat.", "Située au centre de la vieille ville de Hérat.", "L'une des citadelles les mieux conservées d'Afghanistan."],
     }, image: "/poi-images/citadel-herat-history-v2.webp"},
   {
-    id: "bala-hissar-kabul-history-v2",
+    id: "bala-hissar-kabul-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bala Hissar",
+                  "text": "Diese gewaltige historische Festungsanlage südlich des modernen Stadtzentrums war jahrhundertelang der stark befestigte Sitz der afghanischen Herrscher.",
+                  "category": "landmark",
+                  "coords": [
+                        69.191466,
+                        34.505425
+                  ]
+            },
+            {
+                  "name": "Mohammad Nadir Shah Tomb",
+                  "text": "Dieses monumentale Mausoleum, das prominent auf dem Hügel Tepe Maranjan thront, ehrt das Andenken an den afghanischen König Mohammed Nadir Schah.",
+                  "category": "landmark",
+                  "coords": [
+                        69.205554,
+                        34.514453
+                  ]
+            },
+            {
+                  "name": "Aashuqan Aaerfan",
+                  "text": "Dieser historische islamische Schrein in der Altstadt ist den verehrten spirituellen Mystikern Ashuqan und Arefan gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.199349,
+                        34.507832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bala Hissar",
+                  "text": "Ez a modern városközponttól délre fekvő hatalmas történelmi erődítmény évszázadokon át az afgán uralkodók megerősített székhelye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.191466,
+                        34.505425
+                  ]
+            },
+            {
+                  "name": "Mohammad Nadir Shah Tomb",
+                  "text": "Ez a Tepe Maranjan dombján kiemelkedő monumentális mauzóleum Mohammed Nadir Shah afgán királynak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        69.205554,
+                        34.514453
+                  ]
+            },
+            {
+                  "name": "Aashuqan Aaerfan",
+                  "text": "Ez az óvárosban található történelmi iszlám szentély a tisztelt spirituális misztikusok, Ashuqan és Arefan emlékét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.199349,
+                        34.507832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bala Hissar",
+                  "text": "Această fortăreață antică masivă, situată la sud de centrul modern, a fost reședința puternic fortificată a conducătorilor afgani timp de secole.",
+                  "category": "landmark",
+                  "coords": [
+                        69.191466,
+                        34.505425
+                  ]
+            },
+            {
+                  "name": "Mohammad Nadir Shah Tomb",
+                  "text": "Acest mausoleu monumental, așezat proeminent pe dealul Tepe Maranjan, onorează memoria regelui afgan Mohammed Nadir Shah.",
+                  "category": "landmark",
+                  "coords": [
+                        69.205554,
+                        34.514453
+                  ]
+            },
+            {
+                  "name": "Aashuqan Aaerfan",
+                  "text": "Acest altar islamic istoric din orașul vechi este dedicat veneraților mistici spirituali cunoscuți sub numele de Ashuqan și Arefan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.199349,
+                        34.507832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bala Hissar",
+                  "text": "This massive ancient fortress located south of the modern city center served as the heavily fortified seat of Afghan rulers for centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        69.191466,
+                        34.505425
+                  ]
+            },
+            {
+                  "name": "Mohammad Nadir Shah Tomb",
+                  "text": "Prominently located on Tepe Maranjan hill, this monumental mausoleum is dedicated to the memory of the Afghan King Mohammed Nadir Shah.",
+                  "category": "landmark",
+                  "coords": [
+                        69.205554,
+                        34.514453
+                  ]
+            },
+            {
+                  "name": "Aashuqan Aaerfan",
+                  "text": "This historic Islamic shrine in the old city is dedicated to the revered spiritual mystics known as Ashuqan and Arefan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.199349,
+                        34.507832
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AF-KAB",
     coords: [69.1914, 34.5057],
@@ -192,7 +543,124 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Origines au Ve siècle après J.-C.", "Signifie « Haute Forteresse » en persan.", "Résidence royale historique à Kaboul.", "Point stratégique pour le contrôle de la ville.", "Théâtre de batailles importantes lors des guerres anglo-afghanes.", "Partiellement détruite par les troupes britanniques en 1879.", "Se compose d'une forteresse inférieure et supérieure.", "Projets actuels de transformation en parc archéologique."],
     }, image: "/poi-images/bala-hissar-kabul-history-v2.webp"},
   {
-    id: "shrine-of-hazrat-ali-history-v2",
+    id: "shrine-of-hazrat-ali-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guzar Qurghan Mosque",
+                  "text": "Eine traditionelle muslimische Kultstätte in der historischen Umgebung des Schreins von Hazrat Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.101738,
+                        36.712954
+                  ]
+            },
+            {
+                  "name": "Shahid Mazari Tomb",
+                  "text": "Das muslimische Grabmal des Märtyrers Mazari ist ein Ort der spirituellen Einkehr nahe dem historischen Schrein.",
+                  "category": "landmark",
+                  "coords": [
+                        67.082332,
+                        36.722176
+                  ]
+            },
+            {
+                  "name": "Masjid of Rawza e Sharif",
+                  "text": "Diese Moschee ist architektonisch und spirituell eng mit dem Komplex des berühmten Schreins von Hazrat Ali verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        67.109791,
+                        36.708821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guzar Qurghan Mosque",
+                  "text": "Egy hagyományos muszlim istentiszteleti hely Hazrat Ali szentélyének történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        67.101738,
+                        36.712954
+                  ]
+            },
+            {
+                  "name": "Shahid Mazari Tomb",
+                  "text": "Mazari mártír muszlim sírja a spirituális elmélyülés helyszíne a történelmi szentély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        67.082332,
+                        36.722176
+                  ]
+            },
+            {
+                  "name": "Masjid of Rawza e Sharif",
+                  "text": "Ez a mecset építészetileg és spirituálisan szorosan kapcsolódik Hazrat Ali híres szentélyének komplexumához.",
+                  "category": "religious",
+                  "coords": [
+                        67.109791,
+                        36.708821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guzar Qurghan Mosque",
+                  "text": "Un lăcaș de cult musulman tradițional din împrejurimile istorice ale altarului lui Hazrat Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.101738,
+                        36.712954
+                  ]
+            },
+            {
+                  "name": "Shahid Mazari Tomb",
+                  "text": "Mormântul musulman al martirului Mazari este un loc de reculegere spirituală lângă altarul istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        67.082332,
+                        36.722176
+                  ]
+            },
+            {
+                  "name": "Masjid of Rawza e Sharif",
+                  "text": "Această moschee este strâns legată arhitectural și spiritual de complexul celebrului altar al lui Hazrat Ali.",
+                  "category": "religious",
+                  "coords": [
+                        67.109791,
+                        36.708821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guzar Qurghan Mosque",
+                  "text": "A traditional Muslim place of worship in the historical surroundings of the shrine of Hazrat Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.101738,
+                        36.712954
+                  ]
+            },
+            {
+                  "name": "Shahid Mazari Tomb",
+                  "text": "The Muslim tomb of the martyr Mazari is a place of spiritual reflection near the historical shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        67.082332,
+                        36.722176
+                  ]
+            },
+            {
+                  "name": "Masjid of Rawza e Sharif",
+                  "text": "This mosque is closely connected architecturally and spiritually with the complex of the famous shrine of Hazrat Ali.",
+                  "category": "religious",
+                  "coords": [
+                        67.109791,
+                        36.708821
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AF-BAL",
     coords: [67.1107, 36.7088],
@@ -286,7 +754,160 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Construit à la fin des années 1920.", "Commandité par le roi Amanullah Khan.", "Le nom signifie « demeure de la paix ».", "Architecture de style néoclassique européen.", "Devait devenir le nouveau siège du Parlement.", "Gravement endommagé lors de la guerre civile des années 1990.", "Entièrement restauré entre 2016 et 2019.", "Symbole de la reconstruction nationale en Afghanistan."],
     }, image: "/poi-images/darul-aman-palace-history-v2.webp"},
   {
-    id: "mausoleum-mirwais-hotak-history-v2",
+    id: "mausoleum-mirwais-hotak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chilzina and the Forty Steps of Kandahar",
+                  "text": "Eine von Kaiser Babur in Auftrag gegebene Felsenkammer, die über vierzig Steinstufen erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        65.663637,
+                        31.615402
+                  ]
+            },
+            {
+                  "name": "Old Kandahar",
+                  "text": "Die Ruinen der antiken Zitadelle von Altkandahar zeigen massive Lehmziegelmauern, die im 18. Jahrhundert zerstört wurden.",
+                  "category": "historical",
+                  "coords": [
+                        65.658812,
+                        31.602598
+                  ]
+            },
+            {
+                  "name": "Zōṟ S̲h̲ār",
+                  "text": "Dieses muslimische Heiligtum liegt inmitten der historischen Ausgrabungsstätte der alten Stadt Kandahar.",
+                  "category": "landmark",
+                  "coords": [
+                        65.657803,
+                        31.60026
+                  ]
+            },
+            {
+                  "name": "Jama",
+                  "text": "Eine traditionelle Freitagsmoschee, die als spirituelles Zentrum im historischen Bezirk nahe des Mausoleums dient.",
+                  "category": "landmark",
+                  "coords": [
+                        65.665363,
+                        31.617356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chilzina and the Forty Steps of Kandahar",
+                  "text": "Babur császár által megrendelt sziklába vájt kamra, amely negyven kőlépcsőn érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        65.663637,
+                        31.615402
+                  ]
+            },
+            {
+                  "name": "Old Kandahar",
+                  "text": "Ó-Kandahár romos citadellája a 18. században lerombolt hatalmas vályogfalairól és bástyáiról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        65.658812,
+                        31.602598
+                  ]
+            },
+            {
+                  "name": "Zōṟ S̲h̲ār",
+                  "text": "Ez a muszlim szentély Kandahár óvárosának történelmi régészeti lelőhelyén található.",
+                  "category": "landmark",
+                  "coords": [
+                        65.657803,
+                        31.60026
+                  ]
+            },
+            {
+                  "name": "Jama",
+                  "text": "Hagyományos pénteki mecset, amely szellemi központként szolgál a mauzóleum közeli történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        65.665363,
+                        31.617356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chilzina and the Forty Steps of Kandahar",
+                  "text": "O cameră săpată în stâncă comandată de împăratul Babur, la care se ajunge urcând patruzeci de trepte de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        65.663637,
+                        31.615402
+                  ]
+            },
+            {
+                  "name": "Old Kandahar",
+                  "text": "Ruinele vechii citadele din Kandahar păstrează ziduri masive de chirpici distruse în secolul al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        65.658812,
+                        31.602598
+                  ]
+            },
+            {
+                  "name": "Zōṟ S̲h̲ār",
+                  "text": "Acest sanctuar musulman este situat în mijlocul sitului arheologic istoric al vechiului oraș Kandahar.",
+                  "category": "landmark",
+                  "coords": [
+                        65.657803,
+                        31.60026
+                  ]
+            },
+            {
+                  "name": "Jama",
+                  "text": "O moschee tradițională de vineri care servește drept centru spiritual în districtul istoric de lângă mausoleu.",
+                  "category": "landmark",
+                  "coords": [
+                        65.665363,
+                        31.617356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chilzina and the Forty Steps of Kandahar",
+                  "text": "A rock-cut chamber commissioned by Emperor Babur, reached by climbing forty stone steps.",
+                  "category": "landmark",
+                  "coords": [
+                        65.663637,
+                        31.615402
+                  ]
+            },
+            {
+                  "name": "Old Kandahar",
+                  "text": "The ruins of the ancient citadel in Old Kandahar feature massive mud-brick walls destroyed in the 18th century.",
+                  "category": "historical",
+                  "coords": [
+                        65.658812,
+                        31.602598
+                  ]
+            },
+            {
+                  "name": "Zōṟ S̲h̲ār",
+                  "text": "This Muslim sanctuary is situated within the historic archaeological site of the old city of Kandahar.",
+                  "category": "landmark",
+                  "coords": [
+                        65.657803,
+                        31.60026
+                  ]
+            },
+            {
+                  "name": "Jama",
+                  "text": "A traditional Friday mosque serving as a spiritual center in the historic district near the mausoleum.",
+                  "category": "landmark",
+                  "coords": [
+                        65.665363,
+                        31.617356
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AF-KAN",
     coords: [65.6560, 31.6025],
@@ -380,7 +1001,52 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Aménagé vers 1528 par l'empereur Babur.", "Dernière demeure de Babur.", "Tracé classique de jardin moghol (Chāhār Bāgh).", "Contient une petite mosquée construite par Shah Jahan.", "Situé sur le versant du Kuh-e Sher Darwaza.", "Restauré par l'Aga Khan Trust for Culture à partir de 2002.", "Espace public important et site historique à Kaboul.", "Le seul jardin moghol subsistant en Afghanistan."],
     }, image: "/poi-images/bagh-e-babur-history-v2.webp"},
   {
-    id: "qala-i-jangi-history-v2",
+    id: "qala-i-jangi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qala-i-Jangi",
+                  "text": "Qala-i-Jangi ist eine historische Festung aus dem 19. Jahrhundert in der Nähe von Mazar-i-Sharif.",
+                  "category": "landmark",
+                  "coords": [
+                        66.98422,
+                        36.666866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qala-i-Jangi",
+                  "text": "A Qala-i-Jangi egy 19. századi történelmi erődítmény Mazar-i-Sharif közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        66.98422,
+                        36.666866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qala-i-Jangi",
+                  "text": "Qala-i-Jangi este o fortăreață istorică din secolul al XIX-lea, situată în apropiere de Mazar-i-Sharif.",
+                  "category": "landmark",
+                  "coords": [
+                        66.98422,
+                        36.666866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qala-i-Jangi",
+                  "text": "Qala-i-Jangi is a historic 19th-century fortress situated near Mazar-i-Sharif.",
+                  "category": "landmark",
+                  "coords": [
+                        66.98422,
+                        36.666866
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "AF-BAL",
     coords: [66.9839, 36.6664],
@@ -474,7 +1140,52 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Construits au début du XIIe siècle.", "Derniers vestiges de l'Empire ghaznévide à Ghazni.", "Avaient à l'origine une hauteur de plus de 40 mètres.", "Construits par le sultan Mas'ud III et Bahram Shah.", "Base unique en forme d'étoile.", "Richement décorés de carreaux de terre cuite.", "Les parties supérieures ont été détruites par des tremblements de terre.", "Exemples majeurs de l'architecture ghouride et ghaznévide."],
     }, image: "/poi-images/minarets-of-ghazni-history-v2.webp"},
   {
-    id: "bost-fort-history-v2",
+    id: "bost-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bost Castle",
+                  "text": "Die archäologische Stätte der Burg Bost weist alte Lehmziegelbefestigungen auf und ist berühmt für ihren bemerkenswert gut erhaltenen dekorativen Bogen aus dem 11. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        64.356718,
+                        31.502593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bost Castle",
+                  "text": "A bost-i vár régészeti lelőhelye ősi vályogtégla erődítményekből áll, és különösen híres a figyelemre méltó épségben megmaradt 11. századi díszes boltívéről.",
+                  "category": "historical",
+                  "coords": [
+                        64.356718,
+                        31.502593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bost Castle",
+                  "text": "Situl arheologic al Castelului Bost prezintă fortificații antice din cărămidă de lut și este renumit pentru arcul său decorativ din secolul al XI-lea, remarcabil de bine conservat.",
+                  "category": "historical",
+                  "coords": [
+                        64.356718,
+                        31.502593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bost Castle",
+                  "text": "The archaeological site of Bost Castle features ancient mud-brick fortifications and is famous for its remarkably preserved 11th-century decorative arch.",
+                  "category": "historical",
+                  "coords": [
+                        64.356718,
+                        31.502593
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AF-HEL",
     coords: [64.3561, 31.5794],
@@ -568,7 +1279,52 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Érigé en 1919.", "Célèbre l'indépendance après la troisième guerre anglo-afghane.", "Commandé par le roi Amanullah Khan.", "Situé dans les jardins de Paghman.", "Style architectural européen.", "Gravement endommagé pendant les guerres puis restauré.", "Un symbole de la fierté nationale afghane."],
     }, image: "/poi-images/taq-e-zafar-history-v2.webp"},
   {
-    id: "shahr-e-gholghola-history-v2",
+    id: "shahr-e-gholghola-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shahr-i Ghulghula",
+                  "text": "Shahr-i Ghulghula, bekannt als die „Stadt der Schreie“, ist eine antike Festungsruine in Bamyan, die von Dschingis Khans Truppen zerstört wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        67.83893,
+                        34.818194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shahr-i Ghulghula",
+                  "text": "A „Sikolyok városa” néven is ismert Shahr-i Ghulghula egy ősi erődrom Bamijanban, amelyet Dzsingisz kán seregei pusztítottak el.",
+                  "category": "landmark",
+                  "coords": [
+                        67.83893,
+                        34.818194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shahr-i Ghulghula",
+                  "text": "Shahr-i Ghulghula, cunoscută sub numele de „Orașul Țipetelor”, este o fortăreață antică ruinată din Bamian, distrusă de trupele lui Ginghis Han.",
+                  "category": "landmark",
+                  "coords": [
+                        67.83893,
+                        34.818194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahr-i Ghulghula",
+                  "text": "Shahr-i Ghulghula, known as the \"City of Screams\", is an ancient ruined fortress in Bamyan that was decimated by Genghis Khan's forces.",
+                  "category": "landmark",
+                  "coords": [
+                        67.83893,
+                        34.818194
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AF-BAM",
     coords: [67.8386, 34.8156],
@@ -615,7 +1371,160 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Le nom signifie \"Ville des cris\".", "Détruite en 1221 par l'armée de Gengis Khan.", "Était le centre de l'Empire khwarezmien à Bamiyan.", "La destruction était une vengeance pour la mort d'un petit-fils de Gengis Khan.", "Située sur une colline face aux niches de Bouddha.", "Les ruines sont constituées de murs en briques de terre.", "Un témoignage des conquêtes mongoles.", "Selon la légende, elle tomba suite à la trahison d'une princesse."],
     }, image: "/poi-images/shahr-e-gholghola-history-v2.webp"},
   {
-    id: "musalla-complex-history-v2",
+    id: "musalla-complex-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gawharshad Musalla Complex",
+                  "text": "Der 1417 begonnene Gawharshad-Musalla-Komplex ist eine weitläufige islamische Stätte der Timuriden, die für ihre hoch aufragenden, mit aufwendigen Fliesen verzierten Minarette bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        62.18566,
+                        34.357733
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Vaeez Kashefi",
+                  "text": "Dieses islamische Mausoleum ehrt Molana Vaeez Kashefi und weist traditionelle architektonische Elemente auf, die charakteristisch für den umgebenden Timuriden-Komplex sind.",
+                  "category": "landmark",
+                  "coords": [
+                        62.185897,
+                        34.371026
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Abdul Rahman Jami",
+                  "text": "Das Grab von Molana Abdul Rahman Jami dient als islamische Pilgerstätte, die dem verehrten persischen Dichter aus dem 15. Jahrhundert gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        62.180524,
+                        34.372991
+                  ]
+            },
+            {
+                  "name": "Fakhrul Madarisi Sharif",
+                  "text": "Fakhrul Madarisi Sharif fungiert als traditionelle islamische theologische Schule, die sich durch ihre gemauerten Innenhöfe auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184693,
+                        34.355804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gawharshad Musalla Complex",
+                  "text": "Az 1417-ben alapított Gawharshad Musalla-komplexum egy kiterjedt timurida iszlám vallási központ, amely bonyolult csempézésű, magasba nyúló minaretjeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        62.18566,
+                        34.357733
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Vaeez Kashefi",
+                  "text": "Ez az iszlám mauzóleum Molana Vaeez Kashefi emlékét őrzi, és a környező timurida komplexumra jellemző hagyományos építészeti elemeket vonultat fel.",
+                  "category": "landmark",
+                  "coords": [
+                        62.185897,
+                        34.371026
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Abdul Rahman Jami",
+                  "text": "Molana Abdul Rahman Jami sírja a 15. századi tiszteletreméltó perzsa költőnek szentelt iszlám zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        62.180524,
+                        34.372991
+                  ]
+            },
+            {
+                  "name": "Fakhrul Madarisi Sharif",
+                  "text": "A Fakhrul Madarisi Sharif egy hagyományos iszlám teológiai iskola, amelynek jellegzetességei a téglából épült belső udvarok.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184693,
+                        34.355804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gawharshad Musalla Complex",
+                  "text": "Început în 1417, Complexul Gawharshad Musalla este un vast sit islamic timurid, renumit pentru minaretele sale înalte decorate cu plăci ceramice complexe.",
+                  "category": "landmark",
+                  "coords": [
+                        62.18566,
+                        34.357733
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Vaeez Kashefi",
+                  "text": "Acest mausoleu islamic onorează memoria lui Molana Vaeez Kashefi, prezentând elemente arhitecturale tradiționale caracteristice complexului timurid înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        62.185897,
+                        34.371026
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Abdul Rahman Jami",
+                  "text": "Mormântul lui Molana Abdul Rahman Jami servește drept loc de pelerinaj islamic dedicat veneratului poet persan din secolul al XV-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        62.180524,
+                        34.372991
+                  ]
+            },
+            {
+                  "name": "Fakhrul Madarisi Sharif",
+                  "text": "Fakhrul Madarisi Sharif funcționează ca o școală teologică islamică tradițională, remarcându-se prin curțile sale interioare din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184693,
+                        34.355804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gawharshad Musalla Complex",
+                  "text": "Initiated in 1417, the Gawharshad Musalla Complex is a sprawling Timurid Islamic site renowned for its intricately tiled, towering minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        62.18566,
+                        34.357733
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Vaeez Kashefi",
+                  "text": "This Islamic mausoleum honors Molana Vaeez Kashefi, featuring traditional architectural elements characteristic of the surrounding Timurid complex.",
+                  "category": "landmark",
+                  "coords": [
+                        62.185897,
+                        34.371026
+                  ]
+            },
+            {
+                  "name": "Tomb of Molana Abdul Rahman Jami",
+                  "text": "The Tomb of Molana Abdul Rahman Jami serves as an Islamic pilgrimage site dedicated to the revered 15th-century Persian poet.",
+                  "category": "landmark",
+                  "coords": [
+                        62.180524,
+                        34.372991
+                  ]
+            },
+            {
+                  "name": "Fakhrul Madarisi Sharif",
+                  "text": "Fakhrul Madarisi Sharif functions as a traditional Islamic theological school, distinguished by its brickwork courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        62.184693,
+                        34.355804
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AF-HER",
     coords: [62.1851, 34.3551],
@@ -662,7 +1571,52 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Construit au début du XVe siècle.", "Commandé par la reine Gauhar Shad.", "Comprenait une mosquée, une madrasa et un mausolée.", "Célèbre pour ses mosaïques de carreaux élaborées.", "Détruit en grande partie en 1885 par les troupes britanniques et afghanes.", "La destruction visait à créer un champ de tir dégagé contre la Russie.", "Aujourd'hui, seuls 5 minarets et le mausolée sont conservés.", "Un sommet de l'architecture timouride."],
     }, image: "/poi-images/musalla-complex-history-v2.webp"},
   {
-    id: "khwaja-abu-nasr-parsa-history-v2",
+    id: "khwaja-abu-nasr-parsa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Green Mosque",
+                  "text": "Die Grüne Moschee in Balch ist eine prominente Attraktion, die für ihre auffällig gefärbte, geflieste Kuppel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.896876,
+                        36.757818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Green Mosque",
+                  "text": "A balhi Zöld Mecset egy kiemelkedő látványosság, amely jellegzetes színű, csempézett kupolájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        66.896876,
+                        36.757818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Green Mosque",
+                  "text": "Moscheea Verde din Balkh este o atracție proeminentă, cunoscută pentru cupola sa cu plăci ceramice de culoare distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        66.896876,
+                        36.757818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Green Mosque",
+                  "text": "The Green Mosque in Balkh is a prominent attraction known for its distinctively colored tiled dome.",
+                  "category": "landmark",
+                  "coords": [
+                        66.896876,
+                        36.757818
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AF-BAL",
     coords: [66.8967, 36.7583],
@@ -709,7 +1663,196 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Dédié à l'érudit soufi Khwaja Abu Nasr Parsa.", "Un chef-d'œuvre de l'architecture timouride.", "Situé au centre de la ville antique de Balkh.", "Dôme nervuré turquoise caractéristique.", "Façade ornée de mosaïques de carreaux complexes.", "Colonnes en spirale sur la porte d'entrée.", "Lieu de pèlerinage important dans le nord de l'Afghanistan."],
     }, image: "/poi-images/khwaja-abu-nasr-parsa-history-v2.webp"},
   {
-    id: "mausoleum-ahmad-shah-durrani-history-v2",
+    id: "mausoleum-ahmad-shah-durrani-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ahmad Shah Baba Shrine",
+                  "text": "Der Schrein von Ahmad Shah Baba ist ein elegantes, achteckiges Mausoleum mit einer markanten blauen Kuppel, in dem die sterblichen Überreste des Gründers des Durrani-Reiches ruhen.",
+                  "category": "landmark",
+                  "coords": [
+                        65.707234,
+                        31.619653
+                  ]
+            },
+            {
+                  "name": "Kandahar Provincial Museum",
+                  "text": "Das Provinzmuseum von Kandahar stellt regionale Artefakte, antike Münzen und historische Relikte aus dem Süden Afghanistans aus.",
+                  "category": "museum",
+                  "coords": [
+                        65.711897,
+                        31.620372
+                  ]
+            },
+            {
+                  "name": "Mosque of the Hair of the Prophet",
+                  "text": "Diese historische islamische Kultstätte wird verehrt, weil sie eine heilige Reliquie beherbergt, die vermutlich ein Haar des Propheten Mohammed ist.",
+                  "category": "religious",
+                  "coords": [
+                        65.71027,
+                        31.613634
+                  ]
+            },
+            {
+                  "name": "Omar Al-Farooq Mosque",
+                  "text": "Die Omar-Al-Farooq-Moschee ist eine bedeutende islamische Kultstätte mit geräumigen Gebetssälen, die für große lokale Gemeinden ausgelegt sind.",
+                  "category": "religious",
+                  "coords": [
+                        65.701636,
+                        31.610447
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Diese islamische Nachbarschaftsmoschee dient der örtlichen Gemeinde in der Nähe des historischen Mausoleums für die regelmäßigen täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        65.713844,
+                        31.611142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ahmad Shah Baba Shrine",
+                  "text": "Az Ahmad Shah Baba szentély egy elegáns, nyolcszögletű mauzóleum, amelyet feltűnő kék kupola koronáz, és a Durráni Birodalom alapítójának földi maradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.707234,
+                        31.619653
+                  ]
+            },
+            {
+                  "name": "Kandahar Provincial Museum",
+                  "text": "A Kandahári Tartományi Múzeum dél-afgán regionális leleteket, ősi érméket és történelmi ereklyéket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        65.711897,
+                        31.620372
+                  ]
+            },
+            {
+                  "name": "Mosque of the Hair of the Prophet",
+                  "text": "Ezt a történelmi iszlám istentiszteleti helyet azért tisztelik, mert egy szent ereklyét, Mohamed próféta egy hajszálát őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        65.71027,
+                        31.613634
+                  ]
+            },
+            {
+                  "name": "Omar Al-Farooq Mosque",
+                  "text": "Az Omar Al-Farooq egy jelentős iszlám istentiszteleti hely, amely tágas imatermeivel a nagy létszámú helyi gyülekezetek befogadására szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        65.701636,
+                        31.610447
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Ez a szomszédsági iszlám mecset a történelmi mauzóleum közelében élő helyi közösséget szolgálja a rendszeres napi imák megtartásával.",
+                  "category": "landmark",
+                  "coords": [
+                        65.713844,
+                        31.611142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ahmad Shah Baba Shrine",
+                  "text": "Altarul Ahmad Shah Baba este un mausoleu octogonal elegant, acoperit de o cupolă albastră izbitoare, care adăpostește rămășițele fondatorului Imperiului Durrani.",
+                  "category": "landmark",
+                  "coords": [
+                        65.707234,
+                        31.619653
+                  ]
+            },
+            {
+                  "name": "Kandahar Provincial Museum",
+                  "text": "Muzeul Provincial Kandahar expune artefacte regionale, monede antice și relicve istorice din sudul Afganistanului.",
+                  "category": "museum",
+                  "coords": [
+                        65.711897,
+                        31.620372
+                  ]
+            },
+            {
+                  "name": "Mosque of the Hair of the Prophet",
+                  "text": "Acest lăcaș de cult islamic istoric este venerat pentru că adăpostește o relicvă sacră, despre care se crede că este un fir de păr al profetului Mahomed.",
+                  "category": "religious",
+                  "coords": [
+                        65.71027,
+                        31.613634
+                  ]
+            },
+            {
+                  "name": "Omar Al-Farooq Mosque",
+                  "text": "Moscheea Omar Al-Farooq este un important lăcaș de cult islamic, dotat cu săli de rugăciune spațioase, concepute pentru a găzdui congregații locale numeroase.",
+                  "category": "religious",
+                  "coords": [
+                        65.701636,
+                        31.610447
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Această moschee islamică de cartier deservește comunitatea locală din apropierea mausoleului istoric prin rugăciunile zilnice obișnuite.",
+                  "category": "landmark",
+                  "coords": [
+                        65.713844,
+                        31.611142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahmad Shah Baba Shrine",
+                  "text": "The Ahmad Shah Baba Shrine is an elegant, octagonal mausoleum topped with a striking blue dome that houses the remains of the Durrani Empire's founder.",
+                  "category": "landmark",
+                  "coords": [
+                        65.707234,
+                        31.619653
+                  ]
+            },
+            {
+                  "name": "Kandahar Provincial Museum",
+                  "text": "The Kandahar Provincial Museum exhibits regional artifacts, ancient coins, and historical relics from southern Afghanistan.",
+                  "category": "museum",
+                  "coords": [
+                        65.711897,
+                        31.620372
+                  ]
+            },
+            {
+                  "name": "Mosque of the Hair of the Prophet",
+                  "text": "This historic Islamic place of worship is revered for housing a sacred relic believed to be a strand of the Prophet Muhammad's hair.",
+                  "category": "religious",
+                  "coords": [
+                        65.71027,
+                        31.613634
+                  ]
+            },
+            {
+                  "name": "Omar Al-Farooq Mosque",
+                  "text": "The Omar Al-Farooq Mosque is a significant Islamic place of worship featuring spacious prayer halls designed to accommodate large local congregations.",
+                  "category": "religious",
+                  "coords": [
+                        65.701636,
+                        31.610447
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "This neighborhood Islamic mosque serves the local community near the historic mausoleum with regular daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        65.713844,
+                        31.611142
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AF-KAN",
     coords: [65.7073, 31.6190],
@@ -756,7 +1899,88 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Sépulture d'Ahmad Shah Durrani, fondateur de l'Afghanistan.", "Ahmad Shah Durrani a régné de 1747 à 1772.", "Situé au centre de Kandahar.", "Construit à la fin du XVIIIe siècle.", "Structure octogonale avec un grand dôme bleu.", "Situé à côté du sanctuaire de la Khirqa Sharif (Manteau du Prophète).", "Sanctuaire national et lieu de pèlerinage important.", "Symbole de l'identité nationale afghane."],
     }, image: "/poi-images/mausoleum-ahmad-shah-durrani-history-v2.webp"},
   {
-    id: "shahr-e-zuhak-history-v2",
+    id: "shahr-e-zuhak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Butah Zarin",
+                  "text": "Ein markanter Berggipfel mit Blick auf die dramatischen roten Befestigungsanlagen von Schahr-e Sohak.",
+                  "category": "natural",
+                  "coords": [
+                        68.040625,
+                        34.876584
+                  ]
+            },
+            {
+                  "name": "Shahr-e Zuhak",
+                  "text": "Bekannt als die „Rote Stadt“, thronen diese spektakulären Festungsruinen auf Klippen an einem Flusszusammenfluss.",
+                  "category": "landmark",
+                  "coords": [
+                        67.982336,
+                        34.826223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Butah Zarin",
+                  "text": "Jellegzetes hegycsúcs, amely Sahr-e Zuhak drámai vörös erődítményeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        68.040625,
+                        34.876584
+                  ]
+            },
+            {
+                  "name": "Shahr-e Zuhak",
+                  "text": "A „Vörös Városként” ismert látványos erődrómok folyók találkozásánál lévő sziklákon állnak.",
+                  "category": "landmark",
+                  "coords": [
+                        67.982336,
+                        34.826223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Butah Zarin",
+                  "text": "Un vârf muntos distinctiv care domină fortificațiile roșii dramatice din Shahr-e Zuhak.",
+                  "category": "natural",
+                  "coords": [
+                        68.040625,
+                        34.876584
+                  ]
+            },
+            {
+                  "name": "Shahr-e Zuhak",
+                  "text": "Cunoscut sub numele de „Orașul Roșu”, aceste ruine spectaculoase de cetate se află pe stânci la o confluență de râuri.",
+                  "category": "landmark",
+                  "coords": [
+                        67.982336,
+                        34.826223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Butah Zarin",
+                  "text": "A distinctive mountain peak that overlooks the dramatic red fortifications of Shahr-e Zuhak.",
+                  "category": "natural",
+                  "coords": [
+                        68.040625,
+                        34.876584
+                  ]
+            },
+            {
+                  "name": "Shahr-e Zuhak",
+                  "text": "Known as the \"Red City,\" these spectacular fortress ruins sit atop cliffs where rivers meet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.982336,
+                        34.826223
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AF-BAM",
     coords: [67.9748, 34.8291],
@@ -803,7 +2027,52 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Également connue sous le nom de \"Ville rouge\".", "Contrôlait l'entrée de la vallée de Bamiyan.", "Composée de tours et de murs sur des falaises rouges.", "Agrandie par la dynastie Shansabani (XIIe-XIIIe s.).", "Détruite en 1221 par l'armée de Gengis Khan.", "Située au confluent de deux rivières.", "Les ruines sont aujourd'hui fortement érodées.", "Offre des vues spectaculaires sur les environs."],
     }, image: "/poi-images/shahr-e-zuhak-history-v2.webp"},
   {
-    id: "takht-e-rustam-history-v2",
+    id: "takht-e-rustam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shahr-e Qadim mosque",
+                  "text": "In der Nähe der historischen Stätte Takht-e-Rustam gelegen, dient diese Moschee den Bewohnern der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.04044,
+                        36.240116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shahr-e Qadim mosque",
+                  "text": "A történelmi Taht-i-Rusztam közelében található ez a mecset, amely az óváros lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        68.04044,
+                        36.240116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shahr-e Qadim mosque",
+                  "text": "Situată lângă situl istoric Takht-e-Rustam, această moschee deservește locuitorii orașului vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        68.04044,
+                        36.240116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahr-e Qadim mosque",
+                  "text": "Situated near the historic site of Takht-e-Rustam, this mosque serves the old city's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        68.04044,
+                        36.240116
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AF-SAM",
     coords: [68.0264, 36.2163],
@@ -850,7 +2119,52 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       fr: ["Complexe monastique bouddhiste du IVe-Ve s.", "Entièrement taillé dans la roche (monolithique).", "Nom signifiant \"Trône de Rustam\" issu de la mythologie persane.", "Composé d'un stupa et d'un monastère troglodyte.", "Le stupa est situé dans un fossé circulaire profond.", "Le monastère possède plusieurs chambres ornées de feuilles de lotus.", "Exemple unique d'architecture rupestre en Afghanistan.", "Témoigne de l'histoire bouddhiste de la région."],
     }, image: "/poi-images/takht-e-rustam-history-v2.webp"},
   {
-    id: "shrine-khwaja-abd-allah-history-v2",
+    id: "shrine-khwaja-abd-allah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namakdan Pavilion",
+                  "text": "Der Namakdan-Pavillon ist ein markant geformtes, mehrseitiges historisches Bauwerk innerhalb des größeren Schrein-Komplexes von Khwaja Abd Allah.",
+                  "category": "landmark",
+                  "coords": [
+                        62.239293,
+                        34.374805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namakdan Pavilion",
+                  "text": "A Namakdan-pavilon egy jellegzetes formájú, sokszögletű történelmi építmény a Khwaja Abd Allah szentélykomplexum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        62.239293,
+                        34.374805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namakdan Pavilion",
+                  "text": "Pavilionul Namakdan este o structură istorică poligonală cu o formă distinctivă, situată în cadrul vastului complex al altarului Khwaja Abd Allah.",
+                  "category": "landmark",
+                  "coords": [
+                        62.239293,
+                        34.374805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namakdan Pavilion",
+                  "text": "The Namakdan Pavilion is a distinctively shaped, multi-sided historic structure located within the broader Khwaja Abd Allah shrine complex.",
+                  "category": "landmark",
+                  "coords": [
+                        62.239293,
+                        34.374805
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AF-HER",
     coords: [62.2460, 34.3644],

@@ -907,7 +907,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Villa musée de Païta",
-                  "text": "Museum in Païta.",
+                  "text": "Kolonialvilla, heute Museum mit Gegenständen der lokalen Geschichte in Païta Pioneers.",
                   "category": "museum",
                   "coords": [
                         166.378156,
@@ -916,7 +916,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre culturel de Paita",
-                  "text": "Kunstzentrum in Païta.",
+                  "text": "Ein Kulturzentrum in der Siedlung Paita Pioneers, das lokale Veranstaltungen und Ausstellungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         166.366333,
@@ -925,7 +925,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Ruinen in Païta.",
+                  "text": "Die Überreste des linken Widerlagers der Karikouié-Eisenbahnbrücke.",
                   "category": "historical",
                   "coords": [
                         166.378037,
@@ -934,7 +934,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Locomotive du Chemin de Fer",
-                  "text": "Attraktion in Païta.",
+                  "text": "Eine erhaltene Dampflokomotive der historischen Eisenbahnlinie in Paita Pioneers.",
                   "category": "landmark",
                   "coords": [
                         166.37601,
@@ -943,7 +943,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Paita",
-                  "text": "Gotteshaus in Païta.",
+                  "text": "Kirche von Paita im Pionierviertel Paita Pioneers.",
                   "category": "religious",
                   "coords": [
                         166.370867,
@@ -954,7 +954,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Villa musée de Païta",
-                  "text": "Múzeum Païta-ban.",
+                  "text": "Gyarmati villa, ma múzeum a helyi történelem tárgyaival Païta Pioneers-ben.",
                   "category": "museum",
                   "coords": [
                         166.378156,
@@ -963,7 +963,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre culturel de Paita",
-                  "text": "Művészeti központ Païta-ban.",
+                  "text": "Kulturális központ a Paita Pioneers településen, helyi rendezvényeknek és kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         166.366333,
@@ -972,7 +972,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Romok Païta-ban.",
+                  "text": "A Karikouié vasúti híd bal oldali hídfőjének maradványai.",
                   "category": "historical",
                   "coords": [
                         166.378037,
@@ -981,7 +981,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Locomotive du Chemin de Fer",
-                  "text": "Látnivaló Païta-ban.",
+                  "text": "Egy megőrzött gőzmozdony a Paita Pioneers történelmi vasútvonaláról.",
                   "category": "landmark",
                   "coords": [
                         166.37601,
@@ -990,7 +990,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Paita",
-                  "text": "Templom Païta-ban.",
+                  "text": "Paita temploma a Paita Pioneers negyedben.",
                   "category": "religious",
                   "coords": [
                         166.370867,
@@ -1001,7 +1001,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Villa musée de Païta",
-                  "text": "Muzeu în Païta.",
+                  "text": "Vilă colonială, acum muzeu cu obiecte de istorie locală în Païta Pioneers.",
                   "category": "museum",
                   "coords": [
                         166.378156,
@@ -1010,7 +1010,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre culturel de Paita",
-                  "text": "Centru de artă în Païta.",
+                  "text": "Un centru cultural în așezarea Paita Pioneers, care găzduiește evenimente și expoziții locale.",
                   "category": "cultural",
                   "coords": [
                         166.366333,
@@ -1019,7 +1019,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Ruine în Païta.",
+                  "text": "Vestigiile părții stângi a podului feroviar Karikouié.",
                   "category": "historical",
                   "coords": [
                         166.378037,
@@ -1028,7 +1028,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Locomotive du Chemin de Fer",
-                  "text": "Atracție în Païta.",
+                  "text": "O locomotivă cu abur conservată de pe linia feroviară istorică din Paita Pioneers.",
                   "category": "landmark",
                   "coords": [
                         166.37601,
@@ -1037,7 +1037,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Paita",
-                  "text": "Lăcaș de cult în Païta.",
+                  "text": "Biserica din Paita în cartierul Paita Pioneers.",
                   "category": "religious",
                   "coords": [
                         166.370867,
@@ -1048,7 +1048,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Villa musée de Païta",
-                  "text": "Museum in Païta.",
+                  "text": "Colonial villa, now a museum with local history artifacts in Païta Pioneers.",
                   "category": "museum",
                   "coords": [
                         166.378156,
@@ -1057,7 +1057,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre culturel de Paita",
-                  "text": "Arts centre in Païta.",
+                  "text": "A cultural centre in the Paita Pioneers settlement, hosting local events and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         166.366333,
@@ -1066,7 +1066,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Ruins in Païta.",
+                  "text": "Remnants of the left abutment of the Karikouié railway bridge.",
                   "category": "historical",
                   "coords": [
                         166.378037,
@@ -1075,7 +1075,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Locomotive du Chemin de Fer",
-                  "text": "Attraction in Païta.",
+                  "text": "A preserved steam locomotive from the historic railway line in Paita Pioneers.",
                   "category": "landmark",
                   "coords": [
                         166.37601,
@@ -1084,7 +1084,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Paita",
-                  "text": "Place of worship in Païta.",
+                  "text": "Church of Paita in the Paita Pioneers district.",
                   "category": "religious",
                   "coords": [
                         166.370867,
@@ -1186,7 +1186,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "Die Réserve Spéciale Botanique du Barrage de Yaté ist ein Naturschutzgebiet in Altes Dorf von Yaté.",
+                  "text": "Ein botanisches Schutzgebiet rund um den Stausee des Yaté-Damms.",
                   "category": "natural",
                   "coords": [
                         166.895365,
@@ -1206,7 +1206,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "A Réserve Spéciale Botanique du Barrage de Yaté egy természetvédelmi terület Altes Dorf von Yaté városában.",
+                  "text": "Botanikai rezervátum a Yaté-gát tározója körül.",
                   "category": "natural",
                   "coords": [
                         166.895365,
@@ -1226,7 +1226,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "Réserve Spéciale Botanique du Barrage de Yaté este o rezervație naturală în Altes Dorf von Yaté.",
+                  "text": "O rezervație botanică specială în jurul lacului de acumulare al barajului Yaté.",
                   "category": "natural",
                   "coords": [
                         166.895365,
@@ -1246,7 +1246,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "Réserve Spéciale Botanique du Barrage de Yaté is a nature reserve in Altes Dorf von Yaté.",
+                  "text": "A special botanical reserve surrounding the Yaté Dam reservoir.",
                   "category": "natural",
                   "coords": [
                         166.895365,
@@ -1758,7 +1758,268 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-route-territoriale-1-history-v2.webp",
   },
   {
-    id: "newcaledonia-koumac-old-village-history-v2", "sights": {"de": [{"name": "Plage de Pandop", "text": "Im Altes Dorf Koumac gelegen, vermittelt diese Küste einen authentischen Eindruck vom lokalen Leben in Neukaledonien. Eine ruhige, bodenständige Stimmung prägt den Strand, fernab großer Touristenmassen. Strandgänger können in der Sonne entspannen und das sanfte Meeresrauschen bei einem gemütlichen Aufenthalt auf sich wirken lassen. Für einen schattigen Platz lohnt es sich, frühzeitig vor Ort zu sein.", "category": "recreational", "coords": [164.284636, -20.574158]}, {"name": "Plage de Kûdo", "text": "Dieser lokale Strand liegt ebenfalls im Altes Dorf Koumac und bietet ein naturnahes Küstenerlebnis. Die Atmosphäre ist unaufdringlich und ruhig, was den Ort ideal für eine kurze Auszeit macht. Besucher können bei einem Strandspaziergang die Beine vertreten oder sich im Sand eine erholsame Pause gönnen. Bei einem Besuch am Morgen lässt sich die absolute Stille besonders gut genießen.", "category": "recreational", "coords": [164.272314, -20.56646]}, {"name": "Piscine naturelle", "text": "Die Piscine naturelle ist ein Wasserpark in Altes Dorf Koumac.", "category": "family", "coords": [164.275747, -20.573754]}, {"name": "Plage de la Marina de Pandop", "text": "Direkt bei der Marina in Koumac verbindet dieser Ort maritimes Flair mit einem Zugang zum Wasser. Es erwartet die Besucher eine etwas geschäftigere, aber dennoch reizvolle Stimmung durch die nahegelegenen Boote. Man kann das Treiben an der Küste beobachten, spazieren gehen oder einfach die salzige Luft einatmen. Ein Besuch lohnt sich besonders an sonnigen Nachmittagen, um das Hafenleben zu betrachten.", "category": "landmark", "coords": [164.275508, -20.577796]}, {"name": "Point de Vue", "text": "Point de Vue ist ein Aussichtspunkt in Altes Dorf Koumac.", "category": "natural", "coords": [164.286087, -20.550155]}, {"name": "Eden Blue Caledonia", "text": "Eden Blue Caledonia ist eine Sehenswürdigkeit in Altes Dorf Koumac.", "category": "landmark", "coords": [164.273745, -20.579193]}, {"name": "Église Sainte Jeanne d'Arc", "text": "Die Église Sainte Jeanne d'Arc ist eine Kultstätte in Altes Dorf Koumac.", "category": "religious", "coords": [164.281772, -20.561131]}], "hu": [{"name": "Plage de Pandop", "text": "Az Altes Dorf Koumac területén fekvő partvidék autentikus bepillantást enged Új-Kaledónia helyi életébe. A strandot csendes, hétköznapi hangulat jellemzi, távol a nagy turistatömegektől. A strandolók pihenhetnek a napon, és élvezhetik a tenger lágy zúgását egy kényelmes időtöltés során. Árnyékos hely biztosításához érdemes korán a helyszínre érkezni.", "category": "recreational", "coords": [164.284636, -20.574158]}, {"name": "Plage de Kûdo", "text": "Ez a helyi strand szintén az Altes Dorf Koumac régióban található, és természetközeli tengerparti élményt nyújt. A légkör visszafogott és csendes, ami ideálissá teszi a helyszínt egy rövid kikapcsolódáshoz. A látogatók kinyújtóztathatják a lábukat egy tengerparti séta során, vagy tarthatnak egy pihentető szünetet a homokban. Egy reggeli látogatás során különösen jól élvezhető az abszolút csend.", "category": "recreational", "coords": [164.272314, -20.56646]}, {"name": "Piscine naturelle", "text": "A Piscine naturelle egy vízi park Altes Dorf Koumac városában.", "category": "family", "coords": [164.275747, -20.573754]}, {"name": "Plage de la Marina de Pandop", "text": "Közvetlenül a Koumac-i kikötőnél fekvő helyszín a tengeri hangulatot ötvözi a vízparti hozzáféréssel. A látogatókat a közeli hajók miatt kissé nyüzsgőbb, ám mégis bájos atmoszféra várja. Megfigyelhetjük a part menti sürgés-forgást, sétálhatunk, vagy egyszerűen csak belélegezhetjük a sós levegőt. Különösen napos délutánokon érdemes idelátogatni, hogy megfigyeljük a kikötő életét.", "category": "landmark", "coords": [164.275508, -20.577796]}, {"name": "Point de Vue", "text": "A Point de Vue egy kilátó Altes Dorf Koumac városában.", "category": "natural", "coords": [164.286087, -20.550155]}, {"name": "Eden Blue Caledonia", "text": "Az Eden Blue Caledonia egy látványosság Altes Dorf Koumac városában.", "category": "landmark", "coords": [164.273745, -20.579193]}, {"name": "Église Sainte Jeanne d'Arc", "text": "Az Église Sainte Jeanne d'Arc egy istentiszteleti hely Altes Dorf Koumac városában.", "category": "religious", "coords": [164.281772, -20.561131]}], "ro": [{"name": "Plage de Pandop", "text": "Situată în Altes Dorf Koumac, această zonă de coastă oferă o impresie autentică a vieții locale din Noua Caledonie. O atmosferă liniștită și cu picioarele pe pământ caracterizează plaja, departe de marile aglomerații turistice. Cei care merg la plajă se pot relaxa la soare și pot lăsa sunetul blând al mării să îi învăluie în timpul unei șederi confortabile. Pentru a prinde un loc la umbră, merită să ajungeți devreme.", "category": "recreational", "coords": [164.284636, -20.574158]}, {"name": "Plage de Kûdo", "text": "Această plajă locală se află, de asemenea, în Altes Dorf Koumac, oferind o experiență de coastă aproape de natură. Atmosfera este discretă și liniștită, făcând din acest loc unul ideal pentru o scurtă pauză. Vizitatorii își pot întinde picioarele în timpul unei plimbări pe plajă sau se pot bucura de o pauză relaxantă pe nisip. În timpul unei vizite matinale, vă puteți bucura cu adevărat de liniștea absolută.", "category": "recreational", "coords": [164.272314, -20.56646]}, {"name": "Piscine naturelle", "text": "Piscine naturelle este un parc acvatic în Altes Dorf Koumac.", "category": "family", "coords": [164.275747, -20.573754]}, {"name": "Plage de la Marina de Pandop", "text": "Chiar lângă portul din Koumac, această destinație combină un aer maritim cu accesul la apă. Vizitatorii se pot aștepta la o atmosferă ceva mai aglomerată, dar totuși fermecătoare datorită bărcilor din apropiere. Oaspeții pot urmări forfota de pe coastă, se pot plimba sau pur și simplu pot respira aerul sărat. O vizită este deosebit de utilă în după-amiezile însorite pentru a observa viața din port.", "category": "landmark", "coords": [164.275508, -20.577796]}, {"name": "Point de Vue", "text": "Point de Vue este un punct de belvedere în Altes Dorf Koumac.", "category": "natural", "coords": [164.286087, -20.550155]}, {"name": "Eden Blue Caledonia", "text": "Eden Blue Caledonia este o atracție în Altes Dorf Koumac.", "category": "landmark", "coords": [164.273745, -20.579193]}, {"name": "Église Sainte Jeanne d'Arc", "text": "Église Sainte Jeanne d'Arc este un lăcaș de cult în Altes Dorf Koumac.", "category": "religious", "coords": [164.281772, -20.561131]}], "en": [{"name": "Plage de Pandop", "text": "Situated in Altes Dorf Koumac, this coastline provides an authentic impression of local life in New Caledonia. A quiet, down-to-earth atmosphere characterizes the beach, far away from large tourist crowds. Beachgoers can relax in the sun and let the gentle sound of the sea wash over them during a leisurely stay. To secure a shady spot, it is well worth arriving early.", "category": "recreational", "coords": [164.284636, -20.574158]}, {"name": "Plage de Kûdo", "text": "This local beach is also found in Altes Dorf Koumac and offers a nature-oriented coastal experience. The atmosphere is unobtrusive and quiet, making the location ideal for a short getaway. Visitors can stretch their legs during a walk along the beach or treat themselves to a relaxing break on the sand. Stopping by in the morning allows you to truly enjoy the absolute silence.", "category": "recreational", "coords": [164.272314, -20.56646]}, {"name": "Piscine naturelle", "text": "Piscine naturelle is a water park located in Altes Dorf Koumac.", "category": "family", "coords": [164.275747, -20.573754]}, {"name": "Plage de la Marina de Pandop", "text": "Right by the marina in Koumac, this destination combines maritime flair with direct water access. Visitors can expect a slightly busier yet charming atmosphere brought on by the nearby boats. Guests can watch the coastal bustle, go for a walk, or simply breathe in the salty air. A visit is especially worthwhile on sunny afternoons to observe the harbor life.", "category": "landmark", "coords": [164.275508, -20.577796]}, {"name": "Point de Vue", "text": "Point de Vue is a viewpoint in Altes Dorf Koumac.", "category": "natural", "coords": [164.286087, -20.550155]}, {"name": "Eden Blue Caledonia", "text": "Eden Blue Caledonia is an attraction in Altes Dorf Koumac.", "category": "landmark", "coords": [164.273745, -20.579193]}, {"name": "Église Sainte Jeanne d'Arc", "text": "Église Sainte Jeanne d'Arc is a place of worship in Altes Dorf Koumac.", "category": "religious", "coords": [164.281772, -20.561131]}]},
+    id: "newcaledonia-koumac-old-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Im Altes Dorf Koumac gelegen, vermittelt diese Küste einen authentischen Eindruck vom lokalen Leben in Neukaledonien. Eine ruhige, bodenständige Stimmung prägt den Strand, fernab großer Touristenmassen. Strandgänger können in der Sonne entspannen und das sanfte Meeresrauschen bei einem gemütlichen Aufenthalt auf sich wirken lassen. Für einen schattigen Platz lohnt es sich, frühzeitig vor Ort zu sein.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Dieser lokale Strand liegt ebenfalls im Altes Dorf Koumac und bietet ein naturnahes Küstenerlebnis. Die Atmosphäre ist unaufdringlich und ruhig, was den Ort ideal für eine kurze Auszeit macht. Besucher können bei einem Strandspaziergang die Beine vertreten oder sich im Sand eine erholsame Pause gönnen. Bei einem Besuch am Morgen lässt sich die absolute Stille besonders gut genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Die Piscine naturelle ist ein Wasserpark in Altes Dorf Koumac.",
+                  "category": "family",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Direkt bei der Marina in Koumac verbindet dieser Ort maritimes Flair mit einem Zugang zum Wasser. Es erwartet die Besucher eine etwas geschäftigere, aber dennoch reizvolle Stimmung durch die nahegelegenen Boote. Man kann das Treiben an der Küste beobachten, spazieren gehen oder einfach die salzige Luft einatmen. Ein Besuch lohnt sich besonders an sonnigen Nachmittagen, um das Hafenleben zu betrachten.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Region Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Eine Sehenswürdigkeit in Koumac mit blauen Wasserelementen und Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Kirche der Heiligen Johanna von Orléans im alten Dorf Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Az Altes Dorf Koumac területén fekvő partvidék autentikus bepillantást enged Új-Kaledónia helyi életébe. A strandot csendes, hétköznapi hangulat jellemzi, távol a nagy turistatömegektől. A strandolók pihenhetnek a napon, és élvezhetik a tenger lágy zúgását egy kényelmes időtöltés során. Árnyékos hely biztosításához érdemes korán a helyszínre érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Ez a helyi strand szintén az Altes Dorf Koumac régióban található, és természetközeli tengerparti élményt nyújt. A légkör visszafogott és csendes, ami ideálissá teszi a helyszínt egy rövid kikapcsolódáshoz. A látogatók kinyújtóztathatják a lábukat egy tengerparti séta során, vagy tarthatnak egy pihentető szünetet a homokban. Egy reggeli látogatás során különösen jól élvezhető az abszolút csend.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "A Piscine naturelle egy vízi park Altes Dorf Koumac városában.",
+                  "category": "family",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Közvetlenül a Koumac-i kikötőnél fekvő helyszín a tengeri hangulatot ötvözi a vízparti hozzáféréssel. A látogatókat a közeli hajók miatt kissé nyüzsgőbb, ám mégis bájos atmoszféra várja. Megfigyelhetjük a part menti sürgés-forgást, sétálhatunk, vagy egyszerűen csak belélegezhetjük a sós levegőt. Különösen napos délutánokon érdemes idelátogatni, hogy megfigyeljük a kikötő életét.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Egy kilátópont, panorámás kilátással Koumac vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Egy nevezetesség Koumacban, kék vízi elemekkel és kertekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Szent Johanna templom Koumac ófaluban.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Situată în Altes Dorf Koumac, această zonă de coastă oferă o impresie autentică a vieții locale din Noua Caledonie. O atmosferă liniștită și cu picioarele pe pământ caracterizează plaja, departe de marile aglomerații turistice. Cei care merg la plajă se pot relaxa la soare și pot lăsa sunetul blând al mării să îi învăluie în timpul unei șederi confortabile. Pentru a prinde un loc la umbră, merită să ajungeți devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Această plajă locală se află, de asemenea, în Altes Dorf Koumac, oferind o experiență de coastă aproape de natură. Atmosfera este discretă și liniștită, făcând din acest loc unul ideal pentru o scurtă pauză. Vizitatorii își pot întinde picioarele în timpul unei plimbări pe plajă sau se pot bucura de o pauză relaxantă pe nisip. În timpul unei vizite matinale, vă puteți bucura cu adevărat de liniștea absolută.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Piscine naturelle este un parc acvatic în Altes Dorf Koumac.",
+                  "category": "family",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Chiar lângă portul din Koumac, această destinație combină un aer maritim cu accesul la apă. Vizitatorii se pot aștepta la o atmosferă ceva mai aglomerată, dar totuși fermecătoare datorită bărcilor din apropiere. Oaspeții pot urmări forfota de pe coastă, se pot plimba sau pur și simplu pot respira aerul sărat. O vizită este deosebit de utilă în după-amiezile însorite pentru a observa viața din port.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Un punct de vedere cu panoramă asupra regiunii Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Un reper în Koumac, cu elemente albastre de apă și grădini.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Biserica Sfânta Ioana d'Arc în satul vechi Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Situated in Altes Dorf Koumac, this coastline provides an authentic impression of local life in New Caledonia. A quiet, down-to-earth atmosphere characterizes the beach, far away from large tourist crowds. Beachgoers can relax in the sun and let the gentle sound of the sea wash over them during a leisurely stay. To secure a shady spot, it is well worth arriving early.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "This local beach is also found in Altes Dorf Koumac and offers a nature-oriented coastal experience. The atmosphere is unobtrusive and quiet, making the location ideal for a short getaway. Visitors can stretch their legs during a walk along the beach or treat themselves to a relaxing break on the sand. Stopping by in the morning allows you to truly enjoy the absolute silence.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Piscine naturelle is a water park located in Altes Dorf Koumac.",
+                  "category": "family",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Right by the marina in Koumac, this destination combines maritime flair with direct water access. Visitors can expect a slightly busier yet charming atmosphere brought on by the nearby boats. Guests can watch the coastal bustle, go for a walk, or simply breathe in the salty air. A visit is especially worthwhile on sunny afternoons to observe the harbor life.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "A lookout point offering panoramic views of the Koumac region.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "A landmark in Koumac with blue water features and gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Saint Joan of Arc Church in the old village of Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Altes Dorf Koumac", hu: "Koumac régi faluja", ro: "Satul vechi Koumac", en: "Koumac Old Village" },
@@ -1897,7 +2158,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel de Hienghène",
-                  "text": "Museum in Hienghène.",
+                  "text": "Ein Museum und Kulturzentrum, das die Kanak-Kultur und -Geschichte präsentiert.",
                   "category": "museum",
                   "coords": [
                         164.945409,
@@ -1906,7 +2167,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Belvédère de la Poule",
-                  "text": "Aussichtspunkt in Hienghène.",
+                  "text": "Ein Aussichtspunkt über die berühmte 'Henne'-Felsformation.",
                   "category": "natural",
                   "coords": [
                         164.954901,
@@ -1915,7 +2176,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Sphinx",
-                  "text": "Attraktion in Hienghène.",
+                  "text": "Eine natürliche Felsformation, die an eine Sphinx erinnert.",
                   "category": "landmark",
                   "coords": [
                         164.946344,
@@ -1924,7 +2185,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Point de vue baie de Hienghène",
-                  "text": "Aussichtspunkt in Hienghène.",
+                  "text": "Ein Aussichtspunkt mit atemberaubendem Blick auf die Hienghène-Bucht und ihre Kalksteininseln.",
                   "category": "natural",
                   "coords": [
                         164.939104,
@@ -1933,7 +2194,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pibit ( Billet de 500)",
-                  "text": "Attraktion in Hienghène.",
+                  "text": "Eine Felsformation, die an die 500-Franc-Banknote erinnert.",
                   "category": "landmark",
                   "coords": [
                         164.966782,
@@ -1944,7 +2205,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel de Hienghène",
-                  "text": "Múzeum Hienghène-ben.",
+                  "text": "Múzeum és kulturális központ, amely a kanak kultúrát és történelmet mutatja be.",
                   "category": "museum",
                   "coords": [
                         164.945409,
@@ -1953,7 +2214,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Belvédère de la Poule",
-                  "text": "Kilátóhely Hienghène-ben.",
+                  "text": "Kilátó a híres 'Tyúk' sziklaformáció fölé.",
                   "category": "natural",
                   "coords": [
                         164.954901,
@@ -1962,7 +2223,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Sphinx",
-                  "text": "Látnivaló Hienghène-ben.",
+                  "text": "Egy természetes sziklaformáció, amely egy szfinxre emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         164.946344,
@@ -1971,7 +2232,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Point de vue baie de Hienghène",
-                  "text": "Kilátóhely Hienghène-ben.",
+                  "text": "Kilátó, lenyűgöző kilátással a Hienghène-öbölre és mészkőszigeteire.",
                   "category": "natural",
                   "coords": [
                         164.939104,
@@ -1980,7 +2241,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pibit ( Billet de 500)",
-                  "text": "Látnivaló Hienghène-ben.",
+                  "text": "Egy sziklaformáció, amely az 500 frankos bankjegyre hasonlít.",
                   "category": "landmark",
                   "coords": [
                         164.966782,
@@ -1991,7 +2252,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel de Hienghène",
-                  "text": "Muzeu în Hienghène.",
+                  "text": "Un muzeu și centru cultural care prezintă cultura și istoria kanak.",
                   "category": "museum",
                   "coords": [
                         164.945409,
@@ -2000,7 +2261,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Belvédère de la Poule",
-                  "text": "Punct de observație în Hienghène.",
+                  "text": "Un punct de vedere deasupra celebrei formațiuni stâncoase 'Găina'.",
                   "category": "natural",
                   "coords": [
                         164.954901,
@@ -2009,7 +2270,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Sphinx",
-                  "text": "Atracție în Hienghène.",
+                  "text": "O formațiune stâncoasă naturală care seamănă cu un sfinx.",
                   "category": "landmark",
                   "coords": [
                         164.946344,
@@ -2018,7 +2279,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Point de vue baie de Hienghène",
-                  "text": "Punct de observație în Hienghène.",
+                  "text": "Un punct de vedere cu o priveliște uimitoare asupra golfului Hienghène și a insulelor sale calcaroase.",
                   "category": "natural",
                   "coords": [
                         164.939104,
@@ -2027,7 +2288,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pibit ( Billet de 500)",
-                  "text": "Atracție în Hienghène.",
+                  "text": "O formațiune stâncoasă care seamănă cu bancnota de 500 de franci.",
                   "category": "landmark",
                   "coords": [
                         164.966782,
@@ -2038,7 +2299,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel de Hienghène",
-                  "text": "Museum in Hienghène.",
+                  "text": "A museum and cultural centre showcasing Kanak culture and history.",
                   "category": "museum",
                   "coords": [
                         164.945409,
@@ -2047,7 +2308,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Belvédère de la Poule",
-                  "text": "Viewpoint in Hienghène.",
+                  "text": "A viewpoint overlooking the famous 'Hen' rock formation.",
                   "category": "natural",
                   "coords": [
                         164.954901,
@@ -2056,7 +2317,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Sphinx",
-                  "text": "Attraction in Hienghène.",
+                  "text": "A natural rock formation resembling a sphinx.",
                   "category": "landmark",
                   "coords": [
                         164.946344,
@@ -2065,7 +2326,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Point de vue baie de Hienghène",
-                  "text": "Viewpoint in Hienghène.",
+                  "text": "A lookout with stunning views of Hienghène Bay and its limestone islets.",
                   "category": "natural",
                   "coords": [
                         164.939104,
@@ -2074,7 +2335,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pibit ( Billet de 500)",
-                  "text": "Attraction in Hienghène.",
+                  "text": "A rock formation resembling the 500 Franc banknote.",
                   "category": "landmark",
                   "coords": [
                         164.966782,
@@ -2806,7 +3067,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Parc des Grandes Fougères",
-                  "text": "Attraktion in Farino.",
+                  "text": "Ein Park mit riesigen Baumfarnen, typisch für die Flora Neukaledoniens.",
                   "category": "landmark",
                   "coords": [
                         165.762269,
@@ -2815,7 +3076,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Petite cascade de Farino",
-                  "text": "Aussichtspunkt in Farino.",
+                  "text": "Ein kleiner Wasserfall im üppigen Wald nahe Farino.",
                   "category": "natural",
                   "coords": [
                         165.776517,
@@ -2826,7 +3087,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Parc des Grandes Fougères",
-                  "text": "Látnivaló Farino-ban.",
+                  "text": "Egy park hatalmas páfrányfákkal, amely Új-Kaledónia növényvilágára jellemző.",
                   "category": "landmark",
                   "coords": [
                         165.762269,
@@ -2835,7 +3096,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Petite cascade de Farino",
-                  "text": "Kilátóhely Farino-ban.",
+                  "text": "Egy kis vízesés a buja erdőben Farino közelében.",
                   "category": "natural",
                   "coords": [
                         165.776517,
@@ -2846,7 +3107,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Parc des Grandes Fougères",
-                  "text": "Atracție în Farino.",
+                  "text": "Un parc cu ferigi arborescente uriașe, tipice florei Noii Caledonii.",
                   "category": "landmark",
                   "coords": [
                         165.762269,
@@ -2855,7 +3116,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Petite cascade de Farino",
-                  "text": "Punct de observație în Farino.",
+                  "text": "O cascadă mică în pădurea luxuriantă de lângă Farino.",
                   "category": "natural",
                   "coords": [
                         165.776517,
@@ -2866,7 +3127,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Parc des Grandes Fougères",
-                  "text": "Attraction in Farino.",
+                  "text": "A park with giant tree ferns, typical of New Caledonia's flora.",
                   "category": "landmark",
                   "coords": [
                         165.762269,
@@ -2875,7 +3136,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Petite cascade de Farino",
-                  "text": "Viewpoint in Farino.",
+                  "text": "A small waterfall in the lush forest near Farino.",
                   "category": "natural",
                   "coords": [
                         165.776517,
@@ -3202,7 +3463,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Ecomusee du cafe de Voh",
-                  "text": "Das Ecomusee du cafe de Voh ist ein Museum in Pioniergeschichte von Voh.",
+                  "text": "Ein Ökomuseum, das der Geschichte des Kaffeeanbaus in der Region Voh gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         164.684296,
@@ -3211,7 +3472,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Marguerite-Marie",
-                  "text": "Die Église Sainte-Marguerite-Marie ist eine Kultstätte in Pioniergeschichte von Voh.",
+                  "text": "Kirche der Heiligen Margareta Maria in Voh Pioneers.",
                   "category": "religious",
                   "coords": [
                         164.688065,
@@ -3222,7 +3483,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Ecomusee du cafe de Voh",
-                  "text": "Az Ecomusee du cafe de Voh egy múzeum Pioniergeschichte von Voh városában.",
+                  "text": "Ökomúzeum, amely a Voh régió kávétermesztésének történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         164.684296,
@@ -3231,7 +3492,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Marguerite-Marie",
-                  "text": "Az Église Sainte-Marguerite-Marie egy vallási épület Pioniergeschichte von Voh városában.",
+                  "text": "Szent Margit Mária templom a Voh Pioneers negyedben.",
                   "category": "religious",
                   "coords": [
                         164.688065,
@@ -3242,7 +3503,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Ecomusee du cafe de Voh",
-                  "text": "Ecomusee du cafe de Voh este un muzeu în Pioniergeschichte von Voh.",
+                  "text": "Un ecomuzeu dedicat istoriei cultivării cafelei în regiunea Voh.",
                   "category": "museum",
                   "coords": [
                         164.684296,
@@ -3251,7 +3512,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Marguerite-Marie",
-                  "text": "Église Sainte-Marguerite-Marie este un lăcaș de cult în Pioniergeschichte von Voh.",
+                  "text": "Biserica Sfânta Margareta Maria în cartierul Voh Pioneers.",
                   "category": "religious",
                   "coords": [
                         164.688065,
@@ -3262,7 +3523,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Ecomusee du cafe de Voh",
-                  "text": "Ecomusee du cafe de Voh is a museum located in Pioniergeschichte von Voh.",
+                  "text": "An ecomuseum dedicated to the history of coffee cultivation in the Voh region.",
                   "category": "museum",
                   "coords": [
                         164.684296,
@@ -3271,7 +3532,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Marguerite-Marie",
-                  "text": "Église Sainte-Marguerite-Marie is a place of worship in Pioniergeschichte von Voh.",
+                  "text": "Saint Margaret Mary Church in the Voh Pioneers district.",
                   "category": "religious",
                   "coords": [
                         164.688065,

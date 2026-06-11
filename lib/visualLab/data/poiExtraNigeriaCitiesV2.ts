@@ -195,7 +195,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "de": [
             {
                   "name": "Christ the King Cathedral",
-                  "text": "Die Christ-König-Kathedrale ist eine bedeutende Kirche in Aba.",
+                  "text": "Christ the King Cathedral ist die römisch-katholische Kathedrale von Aba.",
                   "category": "religious",
                   "coords": [
                         7.365641,
@@ -206,7 +206,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "hu": [
             {
                   "name": "Christ the King Cathedral",
-                  "text": "A Krisztus Király-székesegyház egy jelentős templom Aba városában.",
+                  "text": "A Christ the King Cathedral Aba római katolikus székesegyháza.",
                   "category": "religious",
                   "coords": [
                         7.365641,
@@ -217,7 +217,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "ro": [
             {
                   "name": "Christ the King Cathedral",
-                  "text": "Catedrala Hristos Regele este o biserică importantă din Aba.",
+                  "text": "Christ the King Cathedral este catedrala romano-catolică din Aba.",
                   "category": "religious",
                   "coords": [
                         7.365641,
@@ -228,7 +228,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "en": [
             {
                   "name": "Christ the King Cathedral",
-                  "text": "Christ the King Cathedral is a significant church in Aba.",
+                  "text": "Christ the King Cathedral is the Roman Catholic cathedral of Aba.",
                   "category": "religious",
                   "coords": [
                         7.365641,
@@ -280,7 +280,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "de": [
             {
                   "name": "Olu Of Warri Palace",
-                  "text": "Der Olu Of Warri Kingdom Palace ist ein Schloss, das als traditioneller Sitz im Königreich von Warri dient.",
+                  "text": "Der Olu of Warri Kingdom Palace ist die traditionelle königliche Residenz in Warri.",
                   "category": "castle",
                   "coords": [
                         5.735951,
@@ -289,7 +289,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Event Center",
-                  "text": "Das Event Center ist eine Sehenswürdigkeit in Warri.",
+                  "text": "Ein Veranstaltungszentrum in Warri, ein Ort für gesellschaftliche Zusammenkünfte und Feierlichkeiten.",
                   "category": "landmark",
                   "coords": [
                         5.750525,
@@ -298,7 +298,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Janet Social Club for Gentleman",
-                  "text": "Janet Social Club for Gentleman ist eine Sehenswürdigkeit in Warri.",
+                  "text": "Janet Social Club for Gentlemen in Warri, ein privater Club für geselliges Beisammensein.",
                   "category": "landmark",
                   "coords": [
                         5.747961,
@@ -307,7 +307,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Royal Event Center",
-                  "text": "Das Royal Event Center ist eine Sehenswürdigkeit in Warri.",
+                  "text": "Ein königlich thematisiertes Veranstaltungszentrum in Warri, das Bankette und Zeremonien beherbergt.",
                   "category": "landmark",
                   "coords": [
                         5.752219,
@@ -325,7 +325,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Word of Life Bible Church",
-                  "text": "Die Word of Life Bible Church ist eine Kultstätte in Warri.",
+                  "text": "Bibeltreue Gemeinde in Warri mit Schwerpunkt auf Evangelisation.",
                   "category": "religious",
                   "coords": [
                         5.734567,
@@ -334,7 +334,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "Die First Baptist Church Mission Road Branch Warri ist eine Kultstätte, die zu einer bekannten baptistischen Konfession gehört.",
+                  "text": "First Baptist Church Mission Road Branch Warri ist eine Baptistenkirche an der Mission Road in Warri.",
                   "category": "religious",
                   "coords": [
                         5.746159,
@@ -345,7 +345,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "hu": [
             {
                   "name": "Olu Of Warri Palace",
-                  "text": "Az Olu Of Warri Kingdom Palace a Warri Királyság uralkodójának hagyományos kastélya.",
+                  "text": "Az Olu of Warri Kingdom Palace a warri törzsfőnök hagyományos lakóhelye.",
                   "category": "castle",
                   "coords": [
                         5.735951,
@@ -354,7 +354,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Event Center",
-                  "text": "Az Event Center egy látványosság Warri városában.",
+                  "text": "Rendezvényközpont Warriban, társasági összejövetelek és ünnepségek helyszíne.",
                   "category": "landmark",
                   "coords": [
                         5.750525,
@@ -363,7 +363,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Janet Social Club for Gentleman",
-                  "text": "A Janet Social Club for Gentleman egy látványosság Warri városában.",
+                  "text": "Janet Social Club for Gentlemen Warriban, egy privát klub a társasági élethez.",
                   "category": "landmark",
                   "coords": [
                         5.747961,
@@ -372,7 +372,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Royal Event Center",
-                  "text": "A Royal Event Center egy látványosság Warri városában.",
+                  "text": "Királyi témájú rendezvényközpont Warriban, bankettek és ceremóniák helyszíne.",
                   "category": "landmark",
                   "coords": [
                         5.752219,
@@ -390,7 +390,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Word of Life Bible Church",
-                  "text": "A Word of Life Bible Church egy istentiszteleti hely Warri városában.",
+                  "text": "Ige Élete Biblia Gyülekezet Warriban, evangélizációs fókusszal.",
                   "category": "religious",
                   "coords": [
                         5.734567,
@@ -399,7 +399,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "A First Baptist Church Mission Road Branch Warri egy istentiszteleti hely, amely egy jól ismert baptista felekezethez tartozik Warri városában.",
+                  "text": "A First Baptist Church Mission Road Branch Warri egy baptista templom a Mission Roadon, Warriban.",
                   "category": "religious",
                   "coords": [
                         5.746159,
@@ -410,7 +410,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "ro": [
             {
                   "name": "Olu Of Warri Palace",
-                  "text": "Olu Of Warri Kingdom Palace este palatul tradițional al conducătorului Regatului Warri.",
+                  "text": "Palatul Olu of Warri este reședința regală tradițională din Warri.",
                   "category": "castle",
                   "coords": [
                         5.735951,
@@ -419,7 +419,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Event Center",
-                  "text": "Event Center este o atracție în Warri.",
+                  "text": "Un centru de evenimente în Warri, o locație pentru întruniri sociale și sărbători.",
                   "category": "landmark",
                   "coords": [
                         5.750525,
@@ -428,7 +428,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Janet Social Club for Gentleman",
-                  "text": "Janet Social Club for Gentleman este o atracție în Warri.",
+                  "text": "Janet Social Club for Gentlemen din Warri, un club privat pentru socializare.",
                   "category": "landmark",
                   "coords": [
                         5.747961,
@@ -437,7 +437,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Royal Event Center",
-                  "text": "Royal Event Center este o atracție în Warri.",
+                  "text": "Un centru de evenimente cu tematică regală în Warri, care găzduiește banchete și ceremonii.",
                   "category": "landmark",
                   "coords": [
                         5.752219,
@@ -455,7 +455,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Word of Life Bible Church",
-                  "text": "Word of Life Bible Church este un lăcaș de cult în Warri.",
+                  "text": "Biserica Biblică Cuvântul Vieții din Warri, axată pe evanghelizare.",
                   "category": "religious",
                   "coords": [
                         5.734567,
@@ -464,7 +464,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "First Baptist Church Mission Road Branch Warri este un lăcaș de cult aparținând cunoscutei confesiuni baptiste din Warri.",
+                  "text": "First Baptist Church Mission Road Branch Warri este o biserică baptistă pe strada Mission din Warri.",
                   "category": "religious",
                   "coords": [
                         5.746159,
@@ -475,7 +475,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "en": [
             {
                   "name": "Olu Of Warri Kingdom Palace",
-                  "text": "The Olu Of Warri Kingdom Palace is a castle that serves as the traditional seat for the ruler of the Kingdom of Warri.",
+                  "text": "Olu of Warri Palace is the traditional royal residence in Warri.",
                   "category": "castle",
                   "coords": [
                         5.735951,
@@ -484,7 +484,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Event Center",
-                  "text": "Event Center is an attraction in Warri.",
+                  "text": "An event center in Warri, a venue for social gatherings and celebrations.",
                   "category": "landmark",
                   "coords": [
                         5.750525,
@@ -493,7 +493,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Janet Social Club for Gentleman",
-                  "text": "Janet Social Club for Gentleman is an attraction in Warri.",
+                  "text": "Janet Social Club for Gentlemen in Warri, a private club for socializing.",
                   "category": "landmark",
                   "coords": [
                         5.747961,
@@ -502,7 +502,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Royal Event Center",
-                  "text": "Royal Event Center is an attraction in Warri.",
+                  "text": "A royal-themed event center in Warri, hosting banquets and ceremonies.",
                   "category": "landmark",
                   "coords": [
                         5.752219,
@@ -520,7 +520,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Word of Life Bible Church",
-                  "text": "Word of Life Bible Church is a place of worship in Warri.",
+                  "text": "Word of Life Bible Church in Warri, focused on evangelism.",
                   "category": "religious",
                   "coords": [
                         5.734567,
@@ -529,7 +529,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "First Baptist Church Mission Road Branch Warri is a place of worship belonging to the well-known Baptist denomination.",
+                  "text": "First Baptist Church Mission Road Branch Warri is a Baptist church on Mission Road in Warri.",
                   "category": "religious",
                   "coords": [
                         5.746159,
@@ -925,7 +925,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "de": [
             {
                   "name": "WATER SIDE SAPELE",
-                  "text": "Attraktion in Sapele.",
+                  "text": "Das Water Side Gebiet in Sapele, ein Wahrzeichen entlang der Uferpromenade.",
                   "category": "landmark",
                   "coords": [
                         5.67114,
@@ -936,7 +936,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "hu": [
             {
                   "name": "WATER SIDE SAPELE",
-                  "text": "Látnivaló Sapele-ben.",
+                  "text": "A Water Side terület Sapeleban, egy nevezetesség a folyóparton.",
                   "category": "landmark",
                   "coords": [
                         5.67114,
@@ -947,7 +947,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "ro": [
             {
                   "name": "WATER SIDE SAPELE",
-                  "text": "Atracție în Sapele.",
+                  "text": "Zona Water Side din Sapele, un reper de-a lungul malului apei.",
                   "category": "landmark",
                   "coords": [
                         5.67114,
@@ -958,7 +958,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "en": [
             {
                   "name": "WATER SIDE SAPELE",
-                  "text": "Attraction in Sapele.",
+                  "text": "The Water Side area in Sapele, a landmark along the riverfront.",
                   "category": "landmark",
                   "coords": [
                         5.67114,
@@ -1072,7 +1072,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "de": [
             {
                   "name": "Soun of Ogbomosoland",
-                  "text": "Schloss in Ogbomosho.",
+                  "text": "Palast des Soun (traditioneller Herrscher) von Ogbomosoland in Ogbomosho.",
                   "category": "castle",
                   "coords": [
                         4.247355,
@@ -1081,7 +1081,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Ogbomoso Recreation Club",
-                  "text": "Attraktion in Ogbomosho.",
+                  "text": "Ein Erholungsclub in Ogbomosho, der Freizeiteinrichtungen bietet.",
                   "category": "landmark",
                   "coords": [
                         4.255589,
@@ -1092,7 +1092,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "hu": [
             {
                   "name": "Soun of Ogbomosoland",
-                  "text": "Kastély Ogbomosho-ban.",
+                  "text": "Az ogbomosói Soun (hagyományos uralkodó) palotája Ogbomosolandban.",
                   "category": "castle",
                   "coords": [
                         4.247355,
@@ -1101,7 +1101,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Ogbomoso Recreation Club",
-                  "text": "Látnivaló Ogbomosho-ban.",
+                  "text": "Szabadidőklub Ogbomosóban, szabadidős létesítményekkel.",
                   "category": "landmark",
                   "coords": [
                         4.255589,
@@ -1112,7 +1112,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "ro": [
             {
                   "name": "Soun of Ogbomosoland",
-                  "text": "Castel în Ogbomosho.",
+                  "text": "Palatul Sounului (conducătorul tradițional) din Ogbomosoland în Ogbomosho.",
                   "category": "castle",
                   "coords": [
                         4.247355,
@@ -1121,7 +1121,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Ogbomoso Recreation Club",
-                  "text": "Atracție în Ogbomosho.",
+                  "text": "Un club de recreere în Ogbomosho, care oferă facilități de petrecere a timpului liber.",
                   "category": "landmark",
                   "coords": [
                         4.255589,
@@ -1132,7 +1132,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       "en": [
             {
                   "name": "Soun of Ogbomosoland",
-                  "text": "Castle in Ogbomosho.",
+                  "text": "The palace of the Soun (traditional ruler) of Ogbomosoland in Ogbomosho.",
                   "category": "castle",
                   "coords": [
                         4.247355,
@@ -1141,7 +1141,7 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             },
             {
                   "name": "Ogbomoso Recreation Club",
-                  "text": "Attraction in Ogbomosho.",
+                  "text": "A recreation club in Ogbomosho, offering leisure facilities.",
                   "category": "landmark",
                   "coords": [
                         4.255589,

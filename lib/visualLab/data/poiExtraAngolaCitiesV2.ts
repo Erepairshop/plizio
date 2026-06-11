@@ -640,7 +640,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cine-Teatro Empérium",
-                  "text": "Das Cine-Teatro Empérium ist ein lokales Theater und ein kultureller Veranstaltungsort in Lobito.",
+                  "text": "Historisches Kino-Theater aus den 1930er Jahren im Zentrum von Lobito.",
                   "category": "cultural",
                   "coords": [
                         13.551282,
@@ -658,7 +658,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal",
-                  "text": "Der Mercado Municipal ist ein lokaler Marktplatz in der Stadt Lobito.",
+                  "text": "Ein städtischer Marktbau in Lobito, Angola.",
                   "category": "landmark",
                   "coords": [
                         13.546176,
@@ -669,7 +669,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cine-Teatro Empérium",
-                  "text": "A Cine-Teatro Empérium egy helyi színház és kulturális helyszín Lobitóban.",
+                  "text": "Történelmi mozi-színház az 1930-as évekből Lobito központjában.",
                   "category": "cultural",
                   "coords": [
                         13.551282,
@@ -687,7 +687,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal",
-                  "text": "A Mercado Municipal egy helyi piac Lobito városában.",
+                  "text": "Egy városi piacépület Lobitóban, Angolában.",
                   "category": "landmark",
                   "coords": [
                         13.546176,
@@ -698,7 +698,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cine-Teatro Empérium",
-                  "text": "Cine-Teatro Empérium este un teatru local și un centru cultural în Lobito.",
+                  "text": "Cinema-teatru istoric din anii 1930, în centrul orașului Lobito.",
                   "category": "cultural",
                   "coords": [
                         13.551282,
@@ -716,7 +716,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal",
-                  "text": "Mercado Municipal este o piață locală situată în orașul Lobito.",
+                  "text": "O clădire de piață municipală în Lobito, Angola.",
                   "category": "landmark",
                   "coords": [
                         13.546176,
@@ -727,7 +727,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cine-Teatro Empérium",
-                  "text": "Cine-Teatro Empérium is a local theatre and cultural venue in Lobito.",
+                  "text": "Historic cinema-theatre from the 1930s in central Lobito.",
                   "category": "cultural",
                   "coords": [
                         13.551282,
@@ -745,7 +745,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado Municipal",
-                  "text": "The Mercado Municipal is a local marketplace located in the city of Lobito.",
+                  "text": "A municipal market building in Lobito, Angola.",
                   "category": "landmark",
                   "coords": [
                         13.546176,
@@ -1229,7 +1229,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Quibala Fort",
-                  "text": "Das Fort Quibala besteht aus historischen Festungsruinen in der Stadt Quibala.",
+                  "text": "Ein Kolonialfort in Quibala, Angola.",
                   "category": "historical",
                   "coords": [
                         14.981373,
@@ -1240,7 +1240,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Forte da Quibala",
-                  "text": "A Quibala erőd történelmi erődítményromokból áll Quibala városában.",
+                  "text": "Egy gyarmati erőd Quibalában, Angolában.",
                   "category": "historical",
                   "coords": [
                         14.981373,
@@ -1251,7 +1251,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Forte da Quibala",
-                  "text": "Fortul Quibala este format din ruine ale unei fortificații istorice situate în orașul Quibala.",
+                  "text": "Un fort colonial în Quibala, Angola.",
                   "category": "historical",
                   "coords": [
                         14.981373,
@@ -1262,7 +1262,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Quibala Fort",
-                  "text": "Quibala Fort consists of historical fortification ruins located in the town of Quibala.",
+                  "text": "A colonial fort in Quibala, Angola.",
                   "category": "historical",
                   "coords": [
                         14.981373,
@@ -1317,7 +1317,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Destroço de avião",
-                  "text": "Plane wreck ist eine Sehenswürdigkeit in Lucapa.",
+                  "text": "Wrack eines abgestürzten Flugzeugs in der Nähe von Lucapa.",
                   "category": "landmark",
                   "coords": [
                         20.730227,
@@ -1328,7 +1328,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Destroço de avião",
-                  "text": "A Plane wreck egy látványosság Lucapa városában.",
+                  "text": "Lezuhant repülőgép roncsa Lucapa közelében.",
                   "category": "landmark",
                   "coords": [
                         20.730227,
@@ -1339,7 +1339,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Destroço de avião",
-                  "text": "Plane wreck este o atracție situată în Lucapa.",
+                  "text": "Epavă a unui avion prăbușit lângă Lucapa.",
                   "category": "landmark",
                   "coords": [
                         20.730227,
@@ -1350,7 +1350,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Plane wreck",
-                  "text": "Plane wreck is an attraction located in Lucapa.",
+                  "text": "Wreckage of a crashed aircraft near Lucapa.",
                   "category": "landmark",
                   "coords": [
                         20.730227,
@@ -1669,7 +1669,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ilha",
-                  "text": "Eine touristische Sehenswürdigkeit in der Umgebung von Matala.",
+                  "text": "Insel im Fluss Matala, beliebt für Picknicks und Vogelbeobachtung.",
                   "category": "landmark",
                   "coords": [
                         15.047319,
@@ -1680,7 +1680,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ilha",
-                  "text": "Turisztikai látnivaló Matala környékén.",
+                  "text": "Sziget a Matala folyóban, népszerű piknikezésre és madárlesre.",
                   "category": "landmark",
                   "coords": [
                         15.047319,
@@ -1691,7 +1691,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ilha",
-                  "text": "O atracție turistică în împrejurimile orașului Matala.",
+                  "text": "Insulă în râul Matala, populară pentru picnicuri și observarea păsărilor.",
                   "category": "landmark",
                   "coords": [
                         15.047319,
@@ -1702,7 +1702,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ilha",
-                  "text": "A tourist attraction in the surroundings of Matala.",
+                  "text": "Island in the Matala River, popular for picnics and birdwatching.",
                   "category": "landmark",
                   "coords": [
                         15.047319,
@@ -2150,7 +2150,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Antigo Cinema/Teatro",
-                  "text": "Das Antigo Cinema/Teatro in Cubal ist ein Ort für kulturelle Veranstaltungen.",
+                  "text": "Ehemaliges Kino und Theater aus der Kolonialzeit in Cubal.",
                   "category": "cultural",
                   "coords": [
                         14.243054,
@@ -2161,7 +2161,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Antigo Cinema/Teatro",
-                  "text": "Az Antigo Cinema/Teatro Cubalban a kulturális események helyszíne.",
+                  "text": "Egykori mozi és színház a gyarmati korból Cubalban.",
                   "category": "cultural",
                   "coords": [
                         14.243054,
@@ -2172,7 +2172,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Antigo Cinema/Teatro",
-                  "text": "Antigo Cinema/Teatro din Cubal este un loc pentru evenimente culturale.",
+                  "text": "Fost cinematograf și teatru din perioada colonială în Cubal.",
                   "category": "cultural",
                   "coords": [
                         14.243054,
@@ -2183,7 +2183,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Antigo Cinema/Teatro",
-                  "text": "The Antigo Cinema/Teatro in Cubal is a place for cultural events.",
+                  "text": "Former cinema and theatre from the colonial era in Cubal.",
                   "category": "cultural",
                   "coords": [
                         14.243054,
@@ -2453,7 +2453,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Igreja Matriz de Camabatela",
-                  "text": "Eine bedeutende Sehenswürdigkeit in der Stadt Camabatela.",
+                  "text": "Die katholische Hauptkirche von Camabatela mit zwei Glockentürmen.",
                   "category": "landmark",
                   "coords": [
                         15.370497,
@@ -2464,7 +2464,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Igreja Matriz de Camabatela",
-                  "text": "Jelentős látnivaló Camabatela városában.",
+                  "text": "Camabatela fő katolikus temploma, két harangtoronnyal.",
                   "category": "landmark",
                   "coords": [
                         15.370497,
@@ -2475,7 +2475,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Igreja Matriz de Camabatela",
-                  "text": "O atracție importantă în orașul Camabatela.",
+                  "text": "Biserica principală catolică din Camabatela, cu două turnuri clopotniță.",
                   "category": "landmark",
                   "coords": [
                         15.370497,
@@ -2486,7 +2486,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Igreja Matriz de Camabatela",
-                  "text": "A significant attraction in the city of Camabatela.",
+                  "text": "The main Catholic church of Camabatela, with twin bell towers.",
                   "category": "landmark",
                   "coords": [
                         15.370497,
@@ -2588,7 +2588,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque das Quedas",
-                  "text": "Parque das Quedas ist ein Picknickplatz in Calandula.",
+                  "text": "Park mit mehreren Wasserfällen, umgeben von tropischer Vegetation.",
                   "category": "landmark",
                   "coords": [
                         15.999299,
@@ -2599,7 +2599,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque das Quedas",
-                  "text": "A Parque das Quedas egy piknikezőhely Calandula városában.",
+                  "text": "Több vízeséssel rendelkező park, trópusi növényzettel körülvéve.",
                   "category": "landmark",
                   "coords": [
                         15.999299,
@@ -2610,7 +2610,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque das Quedas",
-                  "text": "Parque das Quedas este un loc de picnic situat în Calandula.",
+                  "text": "Parcul cu mai multe cascade, înconjurat de vegetație tropicală.",
                   "category": "landmark",
                   "coords": [
                         15.999299,
@@ -2621,7 +2621,7 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque das Quedas",
-                  "text": "Parque das Quedas is a picnic site located in Calandula.",
+                  "text": "Park featuring several waterfalls surrounded by tropical vegetation.",
                   "category": "landmark",
                   "coords": [
                         15.999299,

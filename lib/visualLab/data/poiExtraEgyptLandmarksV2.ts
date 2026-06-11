@@ -770,7 +770,88 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["Le plus grand stade d'Égypte et l'un des plus grands d'Afrique, près d'Alexandrie.", "Situé sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marqué par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-borg-el-arab-stadium.webp"},
   {
-    id: "eg-suez-canal-bridge",
+    id: "eg-suez-canal-bridge", "sights": {
+      "de": [
+            {
+                  "name": "Tell Abu-Seifa",
+                  "text": "Diese archäologische Stätte beherbergt die Überreste der antiken Grenzfestung Sile am historischen Horusweg.",
+                  "category": "historical",
+                  "coords": [
+                        32.352251,
+                        30.861009
+                  ]
+            },
+            {
+                  "name": "Tjaru",
+                  "text": "Die Ruinen einer bedeutenden Militärfestung aus dem Neuen Reich, die einst Ägyptens Ostgrenze schützte.",
+                  "category": "historical",
+                  "coords": [
+                        32.348365,
+                        30.861675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Abu-Seifa",
+                  "text": "Ez a régészeti lelőhely a történelmi Hórusz-úton fekvő Sile ókori határmenti erődjének maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        32.352251,
+                        30.861009
+                  ]
+            },
+            {
+                  "name": "Tjaru",
+                  "text": "Egy jelentős Újbirodalom-kori katonai erőd romjai, amely egykor Egyiptom keleti határát védte.",
+                  "category": "historical",
+                  "coords": [
+                        32.348365,
+                        30.861675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Abu-Seifa",
+                  "text": "Acest sit arheologic găzduiește vestigiile fostei cetăți de frontieră Sile, situată pe drumul istoric al lui Horus.",
+                  "category": "historical",
+                  "coords": [
+                        32.352251,
+                        30.861009
+                  ]
+            },
+            {
+                  "name": "Tjaru",
+                  "text": "Ruinele unei importante cetăți militare din Regatul Nou, care păzea odinioară granița de est a Egiptului.",
+                  "category": "historical",
+                  "coords": [
+                        32.348365,
+                        30.861675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Abu-Seifa",
+                  "text": "This archaeological site contains the remains of the ancient frontier fortress of Sile on the historic Way of Horus.",
+                  "category": "historical",
+                  "coords": [
+                        32.352251,
+                        30.861009
+                  ]
+            },
+            {
+                  "name": "Tjaru",
+                  "text": "The ruins of an important military fortress from the New Kingdom that once protected Egypt's eastern border.",
+                  "category": "historical",
+                  "coords": [
+                        32.348365,
+                        30.861675
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-IS",
     coords: [32.3167, 30.8283],
@@ -1052,7 +1133,412 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       fr: ["La plus ancienne mosquée du Caire conservée dans sa forme originale, célèbre pour sa taille immense et son minaret en spirale unique.", "Située sur le territoire de la République arabe d'Égypte.", "En lien avec le Nil ou la zone désertique voisine.", "Marquée par le climat désertique chaud du nord-est de l'Afrique."],
     }, image: "/poi-images/eg-ibn-tulun-mosque.webp"},
   {
-    id: "eg-saint-catherine-monastery",
+    id: "eg-saint-catherine-monastery", "sights": {
+      "de": [
+            {
+                  "name": "Deir Al Arbain",
+                  "text": "Die Ruinen einer alten Klosteranlage, die in einem zerklüfteten Wüstental in der Nähe von St. Katharina liegen.",
+                  "category": "historical",
+                  "coords": [
+                        33.965085,
+                        28.536143
+                  ]
+            },
+            {
+                  "name": "Abo Jeefa Viewpoint",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die schroffen Gipfel des Sinai und das Tal von St. Katharina.",
+                  "category": "natural",
+                  "coords": [
+                        33.936046,
+                        28.547019
+                  ]
+            },
+            {
+                  "name": "St Catherine Protectorate Visitor Center",
+                  "text": "Ein Museum, das Informationen über das UNESCO-Biosphärenreservat und die einzigartige Wüstenflora und -fauna bietet.",
+                  "category": "museum",
+                  "coords": [
+                        33.966779,
+                        28.567151
+                  ]
+            },
+            {
+                  "name": "Berg Sinai",
+                  "text": "Der biblische Gipfel, auch als Dschebel Musa bekannt, auf dem Mose die Zehn Gebote erhalten haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        33.975184,
+                        28.538809
+                  ]
+            },
+            {
+                  "name": "Pegasus Organic Farm",
+                  "text": "Eine üppige Wüstenoase, in der inmitten der kargen Berge des Sinai ökologische Produkte angebaut werden.",
+                  "category": "landmark",
+                  "coords": [
+                        33.957532,
+                        28.561471
+                  ]
+            },
+            {
+                  "name": "Katharinenkloster",
+                  "text": "Eines der ältesten durchgehend bewohnten christlichen Klöster der Welt, am Fuße des Berges Sinai gelegen.",
+                  "category": "religious",
+                  "coords": [
+                        33.976568,
+                        28.555687
+                  ]
+            },
+            {
+                  "name": "Jabal Umm ‘Alawī",
+                  "text": "Ein hoher Granitgipfel in den Bergen des Süd-Sinai mit weitem Blick über die Wüstenwildnis.",
+                  "category": "natural",
+                  "coords": [
+                        34.037658,
+                        28.567039
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Pantalaimon",
+                  "text": "Eine abgelegene griechisch-orthodoxe Kapelle, die dem Märtyrer und Heiler gewidmet ist und in einem Bergtal liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.967514,
+                        28.547631
+                  ]
+            },
+            {
+                  "name": "Chilia Sf Paisie Aghioritul",
+                  "text": "Eine kleine Zelle oder Kapelle, die dem verehrten Heiligen Paisios vom Berg Athos in der Sinai-Wüste gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        33.980626,
+                        28.555712
+                  ]
+            },
+            {
+                  "name": "El Nabi Haroun Mausoleum",
+                  "text": "Ein markantes Heiligtum mit weißer Kuppel auf einem Hügel, das traditionell als Grabstätte des Propheten Aaron gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.965305,
+                        28.565731
+                  ]
+            },
+            {
+                  "name": "Stadtmoschee",
+                  "text": "Das zentrale Gebetshaus der lokalen Gemeinde im Herzen der Siedlung von St. Katharina.",
+                  "category": "landmark",
+                  "coords": [
+                        33.946867,
+                        28.560597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deir Al Arbain",
+                  "text": "Egy ősi kolostoregyüttes romjai a Szent Katalin-kolostor közelében, egy kopár sivatagi völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        33.965085,
+                        28.536143
+                  ]
+            },
+            {
+                  "name": "Abo Jeefa Viewpoint",
+                  "text": "Kilátópont, ahonnan lenyűgöző panoráma nyílik a Sínai-félsziget csúcsaira és a Szent Katalin-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        33.936046,
+                        28.547019
+                  ]
+            },
+            {
+                  "name": "St Catherine Protectorate Visitor Center",
+                  "text": "A UNESCO bioszféra-rezervátum és az egyedülálló sivatagi élővilág bemutatására szolgáló látogatóközpont.",
+                  "category": "museum",
+                  "coords": [
+                        33.966779,
+                        28.567151
+                  ]
+            },
+            {
+                  "name": "Mount Sinai",
+                  "text": "A bibliai hegycsúcs, más néven Mózes-hegy, ahol a hagyomány szerint Mózes átvette a Tízparancsolatot.",
+                  "category": "landmark",
+                  "coords": [
+                        33.975184,
+                        28.538809
+                  ]
+            },
+            {
+                  "name": "Pegasus Organic Farm",
+                  "text": "Lush sivatagi oázis farm, ahol bio terményeket termesztenek a Sínai-félsziget száraz hegyei között.",
+                  "category": "landmark",
+                  "coords": [
+                        33.957532,
+                        28.561471
+                  ]
+            },
+            {
+                  "name": "St Catherine's Monastery",
+                  "text": "A világ egyik legrégebbi, ma is működő keresztény kolostora a Mózes-hegy lábánál.",
+                  "category": "religious",
+                  "coords": [
+                        33.976568,
+                        28.555687
+                  ]
+            },
+            {
+                  "name": "Jabal Umm ‘Alawī",
+                  "text": "A Dél-Sínai-hegység egyik magas gránitcsúcsa, amely széles kilátást nyújt a sivatagi vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        34.037658,
+                        28.567039
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Pantalaimon",
+                  "text": "Egy eldugott görög ortodox kápolna a vértanú és gyógyító tiszteletére, egy hegyi völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        33.967514,
+                        28.547631
+                  ]
+            },
+            {
+                  "name": "Chilia Sf Paisie Aghioritul",
+                  "text": "Az Athosz-hegyi Szent Paisziosz tiszteletére szentelt kis cella vagy kápolna a Sínai-sivatagban.",
+                  "category": "landmark",
+                  "coords": [
+                        33.980626,
+                        28.555712
+                  ]
+            },
+            {
+                  "name": "El Nabi Haroun Mausoleum",
+                  "text": "Jellegzetes fehér kupolás szentély egy dombtetőn, amelyet a hagyomány Áron próféta temetkezési helyeként tart számon.",
+                  "category": "landmark",
+                  "coords": [
+                        33.965305,
+                        28.565731
+                  ]
+            },
+            {
+                  "name": "Town's Mosque",
+                  "text": "A helyi közösség központi imaháza Szent Katalin településének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.946867,
+                        28.560597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deir Al Arbain",
+                  "text": "Ruinele unui vechi complex monastic situat într-o vale deșertică accidentată lângă Sfânta Ecaterina.",
+                  "category": "historical",
+                  "coords": [
+                        33.965085,
+                        28.536143
+                  ]
+            },
+            {
+                  "name": "Abo Jeefa Viewpoint",
+                  "text": "Un punct de observație panoramic ce oferă vederi spectaculoase asupra vârfurilor muntoase din Sinai și a văii Sfânta Ecaterina.",
+                  "category": "natural",
+                  "coords": [
+                        33.936046,
+                        28.547019
+                  ]
+            },
+            {
+                  "name": "St Catherine Protectorate Visitor Center",
+                  "text": "Un centru pentru vizitatori ce oferă informații despre biosfera inclusă în patrimoniul UNESCO și despre flora și fauna deșertului.",
+                  "category": "museum",
+                  "coords": [
+                        33.966779,
+                        28.567151
+                  ]
+            },
+            {
+                  "name": "Muntele Sinai",
+                  "text": "Vârful biblic, cunoscut și sub numele de Jabal Musa, unde se spune că Moise a primit Cele Zece Porunci.",
+                  "category": "landmark",
+                  "coords": [
+                        33.975184,
+                        28.538809
+                  ]
+            },
+            {
+                  "name": "Pegasus Organic Farm",
+                  "text": "O fermă de tip oază în deșert care cultivă produse organice în mijlocul munților arizi din Sinai.",
+                  "category": "landmark",
+                  "coords": [
+                        33.957532,
+                        28.561471
+                  ]
+            },
+            {
+                  "name": "St Catherine's Monastery",
+                  "text": "Una dintre cele mai vechi mănăstiri creștine din lume care funcționează neîntrerupt, situată la poalele Muntelui Sinai.",
+                  "category": "religious",
+                  "coords": [
+                        33.976568,
+                        28.555687
+                  ]
+            },
+            {
+                  "name": "Jabal Umm ‘Alawī",
+                  "text": "Un vârf înalt de granit din munții Sinaiului de Sud, oferind vederi panoramice asupra pustiului deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        34.037658,
+                        28.567039
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Pantalaimon",
+                  "text": "O capelă ortodoxă greacă retrasă, dedicată martirului și tămăduitorului, situată într-o vale muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        33.967514,
+                        28.547631
+                  ]
+            },
+            {
+                  "name": "Chilia Sf Paisie Aghioritul",
+                  "text": "O chilie sau capelă mică dedicată Sfântului Paisie Aghioritul, situată în deșertul Sinai.",
+                  "category": "landmark",
+                  "coords": [
+                        33.980626,
+                        28.555712
+                  ]
+            },
+            {
+                  "name": "El Nabi Haroun Mausoleum",
+                  "text": "Un altar proeminent cu cupolă albă pe vârful unui deal, identificat tradițional ca fiind locul de înmormântare al profetului Aaron.",
+                  "category": "landmark",
+                  "coords": [
+                        33.965305,
+                        28.565731
+                  ]
+            },
+            {
+                  "name": "Town's Mosque",
+                  "text": "Locul central de cult pentru comunitatea locală, situat în inima așezării Sfânta Ecaterina.",
+                  "category": "landmark",
+                  "coords": [
+                        33.946867,
+                        28.560597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deir Al Arbain",
+                  "text": "The ruins of an ancient monastic complex nestled in a rugged desert valley near Saint Catherine.",
+                  "category": "historical",
+                  "coords": [
+                        33.965085,
+                        28.536143
+                  ]
+            },
+            {
+                  "name": "Abo Jeefa Viewpoint",
+                  "text": "A scenic lookout point offering panoramic views over the jagged Sinai peaks and the Saint Catherine valley.",
+                  "category": "natural",
+                  "coords": [
+                        33.936046,
+                        28.547019
+                  ]
+            },
+            {
+                  "name": "St Catherine Protectorate Visitor Center",
+                  "text": "A museum providing information on the UNESCO-listed biosphere and the unique desert flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        33.966779,
+                        28.567151
+                  ]
+            },
+            {
+                  "name": "Mount Sinai",
+                  "text": "The biblical peak, also known as Jebel Musa, where Moses is said to have received the Ten Commandments.",
+                  "category": "landmark",
+                  "coords": [
+                        33.975184,
+                        28.538809
+                  ]
+            },
+            {
+                  "name": "Pegasus Organic Farm",
+                  "text": "A lush desert oasis farm cultivating organic produce amidst the arid mountains of the Sinai.",
+                  "category": "landmark",
+                  "coords": [
+                        33.957532,
+                        28.561471
+                  ]
+            },
+            {
+                  "name": "St Catherine's Monastery",
+                  "text": "One of the world's oldest continuously functioning Christian monasteries, built at the foot of Mount Sinai.",
+                  "category": "religious",
+                  "coords": [
+                        33.976568,
+                        28.555687
+                  ]
+            },
+            {
+                  "name": "Jabal Umm ‘Alawī",
+                  "text": "A high granite peak in the South Sinai mountains providing sweeping views of the desert wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        34.037658,
+                        28.567039
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Pantalaimon",
+                  "text": "A secluded Greek Orthodox chapel dedicated to the martyr and healer, situated in a mountain valley.",
+                  "category": "landmark",
+                  "coords": [
+                        33.967514,
+                        28.547631
+                  ]
+            },
+            {
+                  "name": "Chilia Sf Paisie Aghioritul",
+                  "text": "A small cell or chapel dedicated to the venerated Saint Paisios the Athonite in the Sinai desert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.980626,
+                        28.555712
+                  ]
+            },
+            {
+                  "name": "El Nabi Haroun Mausoleum",
+                  "text": "A prominent hilltop shrine with a white dome, traditionally identified as the burial place of the Prophet Aaron.",
+                  "category": "landmark",
+                  "coords": [
+                        33.965305,
+                        28.565731
+                  ]
+            },
+            {
+                  "name": "Town's Mosque",
+                  "text": "The central place of worship for the local community, located in the heart of the Saint Catherine settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        33.946867,
+                        28.560597
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EG-JS",
     coords: [33.9767, 28.5558],

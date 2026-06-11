@@ -39,7 +39,52 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "arab-potash-company-economic-v2",
+    id: "arab-potash-company-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Madinat al Ras",
+                  "text": "Ruinen einer antiken Höhensiedlung mit Blick auf das südufer des Toten Meeres.",
+                  "category": "historical",
+                  "coords": [
+                        35.586237,
+                        31.051887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Madinat al Ras",
+                  "text": "Egy ősi dombtetői település romjai, amelyek a Holt-tenger déli partjaira néznek.",
+                  "category": "historical",
+                  "coords": [
+                        35.586237,
+                        31.051887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Madinat al Ras",
+                  "text": "Ruinele unei vechi așezări de pe deal, cu vedere spre malul sudic al Mării Moarte.",
+                  "category": "historical",
+                  "coords": [
+                        35.586237,
+                        31.051887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Madinat al Ras",
+                  "text": "Ruins of an ancient hilltop settlement overlooking the southern shores of the Dead Sea.",
+                  "category": "historical",
+                  "coords": [
+                        35.586237,
+                        31.051887
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "JO-KA",
     coords: [35.5342, 31.0366],
@@ -75,7 +120,412 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "zarqa-petroleum-refinery-economic-v2",
+    id: "zarqa-petroleum-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Wadaah",
+                  "text": "Diese antiken Ruinen in der Nähe von Zarqa weisen Überreste alter Befestigungen und Wohnbauten auf.",
+                  "category": "historical",
+                  "coords": [
+                        36.051088,
+                        32.148995
+                  ]
+            },
+            {
+                  "name": "Al Ruhayl",
+                  "text": "Überreste einer historischen Siedlung, die sich in der trockenen und industriell geprägten Landschaft von Zarqa befinden.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Batrawy",
+                  "text": "Eine bedeutende befestigte Stadt aus der Frühen Bronzezeit, die auf einem strategischen Hügel über der Region thront.",
+                  "category": "historical",
+                  "coords": [
+                        36.070792,
+                        32.087224
+                  ]
+            },
+            {
+                  "name": "Jneneh",
+                  "text": "Eine archäologische Stätte im Zarqa-Tal, die Überreste antiker Siedlungsstrukturen und Mauern bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        36.067939,
+                        32.076518
+                  ]
+            },
+            {
+                  "name": "Dhul-Nurayn Mosque",
+                  "text": "Eine moderne Moschee in Zarqa, die durch ihr schlankes Minarett und die geometrische Gestaltung der Gebetshalle auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        36.096241,
+                        32.095929
+                  ]
+            },
+            {
+                  "name": "Zayn al-Abidin Mosque",
+                  "text": "Ein muslimisches Gebetshaus mit traditionellen Bogenfenstern, das der örtlichen Gemeinde als spiritueller Mittelpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077705,
+                        32.080945
+                  ]
+            },
+            {
+                  "name": "Hamza bin Abdul Muttalib Mosque",
+                  "text": "Diese Gemeindemoschee ist für ihre zentrale Kuppel und ihr hohes Minarett bekannt, das die umliegenden Straßen überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.099839,
+                        32.075632
+                  ]
+            },
+            {
+                  "name": "Hasan Al Ghuwari Mosque",
+                  "text": "Eine schlichte Stadtmoschee, die einen ruhigen Rückzugsort für das tägliche Gebet im geschäftigen Viertel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.102246,
+                        32.101198
+                  ]
+            },
+            {
+                  "name": "Noor Al Huda Mosque",
+                  "text": "Eine zeitgenössische Moschee mit hellen Fassaden, die moderne islamische Architekturmotive in Zarqa präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.095741,
+                        32.104264
+                  ]
+            },
+            {
+                  "name": "Al Maktoum",
+                  "text": "Diese Moschee bietet einen großzügigen Innenraum und dient als wichtiger Versammlungsort für die Gläubigen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080258,
+                        32.08205
+                  ]
+            },
+            {
+                  "name": "Baab Al Madinah Sooq",
+                  "text": "Ein lebhafter traditioneller Markt, auf dem Händler lokale Textilien, Gewürze und handwerkliche Produkte anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        36.100277,
+                        32.071503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Wadaah",
+                  "text": "Ezek a Zarqa közeli ókori romok régi erődítmények és lakóépületek maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        36.051088,
+                        32.148995
+                  ]
+            },
+            {
+                  "name": "Al Ruhayl",
+                  "text": "Egy történelmi település maradványai Zarqa száraz, ipari jellegű táján.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Batrawy",
+                  "text": "Egy kora bronzkori erődített város romjai, amely egy stratégiai fontosságú dombtetőn fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        36.070792,
+                        32.087224
+                  ]
+            },
+            {
+                  "name": "Jneneh",
+                  "text": "Régészeti lelőhely a Zarqa-völgyben, amely antik településnyomokat és falmaradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        36.067939,
+                        32.076518
+                  ]
+            },
+            {
+                  "name": "Dhul-Nurayn Mosque",
+                  "text": "Modern mecset Zarqában, amely karcsú minaretjével és geometrikus imatermével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        36.096241,
+                        32.095929
+                  ]
+            },
+            {
+                  "name": "Zayn al-Abidin Mosque",
+                  "text": "Hagyományos íves ablakokkal díszített muszlim imaház, amely a helyi közösség hitéleti központja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077705,
+                        32.080945
+                  ]
+            },
+            {
+                  "name": "Hamza bin Abdul Muttalib Mosque",
+                  "text": "Ez a közösségi mecset központi kupolájáról és magas minaretjéről ismert, amely a környező utcák fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.099839,
+                        32.075632
+                  ]
+            },
+            {
+                  "name": "Hasan Al Ghuwari Mosque",
+                  "text": "Egyszerű városi mecset, amely nyugodt helyszínt biztosít a napi imákhoz a nyüzsgő negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.102246,
+                        32.101198
+                  ]
+            },
+            {
+                  "name": "Noor Al Huda Mosque",
+                  "text": "Világos homlokzatú, kortárs mecset, amely modern iszlám építészeti motívumokat vonultat fel Zarqában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.095741,
+                        32.104264
+                  ]
+            },
+            {
+                  "name": "Al Maktoum",
+                  "text": "Ez a mecset tágas belső térrel rendelkezik, és a régió hívőinek fontos gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080258,
+                        32.08205
+                  ]
+            },
+            {
+                  "name": "Baab Al Madinah Sooq",
+                  "text": "Nyüzsgő hagyományos piac, ahol a kereskedők helyi textileket, fűszereket és kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        36.100277,
+                        32.071503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Wadaah",
+                  "text": "Aceste ruine antice de lângă Zarqa prezintă rămășițe ale unor vechi fortificații și locuințe.",
+                  "category": "historical",
+                  "coords": [
+                        36.051088,
+                        32.148995
+                  ]
+            },
+            {
+                  "name": "Al Ruhayl",
+                  "text": "Rămășițele unei așezări istorice situate în peisajul arid și industrializat din Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Batrawy",
+                  "text": "O așezare fortificată din Epoca Timpurie a Bronzului, situată pe un deal strategic care domină regiunea.",
+                  "category": "historical",
+                  "coords": [
+                        36.070792,
+                        32.087224
+                  ]
+            },
+            {
+                  "name": "Jneneh",
+                  "text": "Un sit arheologic în valea Zarqa, care păstrează vestigii ale unor structuri de locuire și ziduri antice.",
+                  "category": "historical",
+                  "coords": [
+                        36.067939,
+                        32.076518
+                  ]
+            },
+            {
+                  "name": "Dhul-Nurayn Mosque",
+                  "text": "O moschee modernă în Zarqa, remarcabilă prin minaretul său zvelt și designul geometric al sălii de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        36.096241,
+                        32.095929
+                  ]
+            },
+            {
+                  "name": "Zayn al-Abidin Mosque",
+                  "text": "O casă de rugăciune musulmană cu ferestre în arcadă tradiționale, servind drept centru spiritual pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077705,
+                        32.080945
+                  ]
+            },
+            {
+                  "name": "Hamza bin Abdul Muttalib Mosque",
+                  "text": "Această moschee comunitară este cunoscută pentru cupola sa centrală și minaretul înalt care domină străzile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        36.099839,
+                        32.075632
+                  ]
+            },
+            {
+                  "name": "Hasan Al Ghuwari Mosque",
+                  "text": "O moschee urbană simplă, care oferă un refugiu liniștit pentru rugăciunile zilnice în cartierul aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.102246,
+                        32.101198
+                  ]
+            },
+            {
+                  "name": "Noor Al Huda Mosque",
+                  "text": "O moschee contemporană cu fațade luminoase, prezentând motive arhitecturale islamice moderne în Zarqa.",
+                  "category": "landmark",
+                  "coords": [
+                        36.095741,
+                        32.104264
+                  ]
+            },
+            {
+                  "name": "Al Maktoum",
+                  "text": "Această moschee oferă un interior spațios și servește ca un important loc de adunare pentru credincioșii din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080258,
+                        32.08205
+                  ]
+            },
+            {
+                  "name": "Baab Al Madinah Sooq",
+                  "text": "O piață tradițională plină de viață, unde negustorii oferă textile locale, condimente și produse artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        36.100277,
+                        32.071503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Wadaah",
+                  "text": "These ancient ruins near Zarqa feature remnants of old fortifications and residential structures.",
+                  "category": "historical",
+                  "coords": [
+                        36.051088,
+                        32.148995
+                  ]
+            },
+            {
+                  "name": "Al Ruhayl",
+                  "text": "Remnants of a historical settlement located in the arid and industrial landscape of Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.133333
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Batrawy",
+                  "text": "An Early Bronze Age fortified city featuring ruins of a massive defensive wall on a strategic hilltop.",
+                  "category": "historical",
+                  "coords": [
+                        36.070792,
+                        32.087224
+                  ]
+            },
+            {
+                  "name": "Jneneh",
+                  "text": "An archaeological site in the Zarqa valley featuring structural remains of ancient dwellings and stone walls.",
+                  "category": "historical",
+                  "coords": [
+                        36.067939,
+                        32.076518
+                  ]
+            },
+            {
+                  "name": "Dhul-Nurayn Mosque",
+                  "text": "A modern mosque in Zarqa characterized by its slender minaret and geometric prayer hall design.",
+                  "category": "religious",
+                  "coords": [
+                        36.096241,
+                        32.095929
+                  ]
+            },
+            {
+                  "name": "Zayn al-Abidin Mosque",
+                  "text": "A Muslim prayer house with traditional arched windows, serving as a spiritual hub for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077705,
+                        32.080945
+                  ]
+            },
+            {
+                  "name": "Hamza bin Abdul Muttalib Mosque",
+                  "text": "A community mosque known for its central dome and tall minaret that towers over the surrounding streets.",
+                  "category": "landmark",
+                  "coords": [
+                        36.099839,
+                        32.075632
+                  ]
+            },
+            {
+                  "name": "Hasan Al Ghuwari Mosque",
+                  "text": "A simple urban mosque providing a peaceful retreat for daily prayers in the busy neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        36.102246,
+                        32.101198
+                  ]
+            },
+            {
+                  "name": "Noor Al Huda Mosque",
+                  "text": "A contemporary mosque with light-colored facades, showcasing modern Islamic architectural motifs in Zarqa.",
+                  "category": "landmark",
+                  "coords": [
+                        36.095741,
+                        32.104264
+                  ]
+            },
+            {
+                  "name": "Al Maktoum",
+                  "text": "This mosque features a spacious interior and serves as an important gathering place for the region's worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        36.080258,
+                        32.08205
+                  ]
+            },
+            {
+                  "name": "Baab Al Madinah Sooq",
+                  "text": "A bustling traditional market where vendors offer local textiles, spices, and artisanal products.",
+                  "category": "cultural",
+                  "coords": [
+                        36.100277,
+                        32.071503
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JO-AZ",
     coords: [36.1245, 32.1158],
@@ -147,7 +597,304 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "al-hassan-industrial-estate-economic-v2",
+    id: "al-hassan-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Zabda",
+                  "text": "Ruinen einer alten Siedlung im Norden Jordaniens, die von der historischen landwirtschaftlichen Nutzung zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Tumayrah",
+                  "text": "Überreste antiker Strukturen in der Nähe der Stadt Ar-Ramtha an der syrischen Grenze.",
+                  "category": "historical",
+                  "coords": [
+                        36.0,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Ibrahim Aldiabat Abu Ali",
+                  "text": "Eine lokale befestigte Residenz oder historische Stätte in der Nähe des Industriegebiets Al-Hassan.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rumaythah",
+                  "text": "Bedeutende Eisenzeit-Ruinen in Nordjordanien, die wichtige Erkenntnisse über antike Handelswege liefern.",
+                  "category": "historical",
+                  "coords": [
+                        36.016667,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Um al Azam",
+                  "text": "Ruinen einer historischen Siedlung im Norden Jordaniens, umgeben von Olivenhainen.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Jami al Nuwayhir",
+                  "text": "Überreste einer historischen Moschee und Siedlung in der ländlichen Gegend nördlich von Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kufeirat",
+                  "text": "Ein antiker Siedlungsplatz im Norden Jordaniens mit Überresten steinerner Strukturen.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Awash",
+                  "text": "Verstreute Ruinen einer alten ländlichen Ansiedlung in der Nähe von Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        32.483333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Zabda",
+                  "text": "Egy régi település romjai Észak-Jordániában, amelyek a történelmi mezőgazdasági művelésről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Tumayrah",
+                  "text": "Ősi építmények maradványai Ar-Ramtha városa közelében, a szíriai határnál.",
+                  "category": "historical",
+                  "coords": [
+                        36.0,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Ibrahim Aldiabat Abu Ali",
+                  "text": "Helyi erődített rezidencia vagy történelmi helyszín az Al-Hassan ipari negyed közelében.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rumaythah",
+                  "text": "Jelentős vaskori romok Észak-Jordániában, amelyek fontos ismereteket nyújtanak az ősi kereskedelmi utakról.",
+                  "category": "historical",
+                  "coords": [
+                        36.016667,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Um al Azam",
+                  "text": "Egy történelmi település romjai Észak-Jordániában, olajfaligetekkel körülvéve.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Jami al Nuwayhir",
+                  "text": "Egy történelmi mecset és település maradványai Irbidtől északra, vidéki környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kufeirat",
+                  "text": "Ősi településhely Észak-Jordániában kőépítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Awash",
+                  "text": "Egy régi vidéki település szétszórt romjai Irbid közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        32.483333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Zabda",
+                  "text": "Ruinele unei vechi așezări în nordul Iordaniei, care atestă utilizarea agricolă istorică.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Tumayrah",
+                  "text": "Resturile unor structuri antice lângă orașul Ar-Ramtha, la granița cu Siria.",
+                  "category": "historical",
+                  "coords": [
+                        36.0,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Ibrahim Aldiabat Abu Ali",
+                  "text": "O reședință fortificată locală sau sit istoric situat lângă zona industrială Al-Hassan.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rumaythah",
+                  "text": "Importante ruine din epoca fierului în nordul Iordaniei, oferind perspective asupra rutelor comerciale antice.",
+                  "category": "historical",
+                  "coords": [
+                        36.016667,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Um al Azam",
+                  "text": "Ruinele unei așezări istorice din nordul Iordaniei, înconjurate de livezi de măslini.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Jami al Nuwayhir",
+                  "text": "Rămășițele unei moschei și așezări istorice în zona rurală de la nord de Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kufeirat",
+                  "text": "Un sit antic de așezare în nordul Iordaniei, cu resturi de structuri din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Awash",
+                  "text": "Ruinele dispersate ale unei vechi așezări rurale lângă Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        32.483333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Zabda",
+                  "text": "Ruins of an old settlement in northern Jordan testifying to historical agricultural usage.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Tumayrah",
+                  "text": "Remains of ancient structures located near the city of Ar-Ramtha at the Syrian border.",
+                  "category": "historical",
+                  "coords": [
+                        36.0,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Ibrahim Aldiabat Abu Ali",
+                  "text": "A local fortified residence or historical site situated near the Al-Hassan industrial estate.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            },
+            {
+                  "name": "Khirbat al Rumaythah",
+                  "text": "Significant Iron Age ruins in northern Jordan providing insights into ancient trade routes.",
+                  "category": "historical",
+                  "coords": [
+                        36.016667,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "Um al Azam",
+                  "text": "Ruins of a historical settlement in northern Jordan, surrounded by olive groves.",
+                  "category": "historical",
+                  "coords": [
+                        36.05,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Jami al Nuwayhir",
+                  "text": "Remains of a historical mosque and settlement in the rural area north of Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.433333
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kufeirat",
+                  "text": "An ancient settlement site in northern Jordan featuring remnants of stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        35.933333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Awash",
+                  "text": "Scattered ruins of an old rural settlement located near Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.983333,
+                        32.483333
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JO-IR",
     coords: [35.9628, 32.4839],
@@ -183,7 +930,1348 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mafraq-development-area-economic-v2",
+    id: "mafraq-development-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Rufayfah",
+                  "text": "Steinruinen einer antiken Siedlung im trockenen Wüstengrenzland in der Nähe von Mafraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.333333,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Zwajeer mosque",
+                  "text": "Eine lokale Moschee in Mafraq mit einem traditionellen Minarett, erbaut aus dem typischen hellen Kalkstein der Region.",
+                  "category": "religious",
+                  "coords": [
+                        36.232723,
+                        32.266844
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Naser",
+                  "text": "Eine Nachbarschaftsmoschee in der Wüstenstadt Mafraq, die der Gemeinde in diesem wichtigen nordjordanischen Verkehrsknotenpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321315,
+                        32.295879
+                  ]
+            },
+            {
+                  "name": "Masjid Jafer Bin Abi Taleb",
+                  "text": "Diese Moschee liegt auf dem kargen Wüstenplateau von Mafraq und dient als spirituelles Zentrum für die Bewohner nahe der syrischen Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        36.320057,
+                        32.292217
+                  ]
+            },
+            {
+                  "name": "Masjid Makieon 1",
+                  "text": "Eine moderne Moschee in Mafraq, die sich durch ihre helle Steinfassade in der staubigen Landschaft Nordjordaniens abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31215,
+                        32.295228
+                  ]
+            },
+            {
+                  "name": "Masjid Albirr",
+                  "text": "Ein muslimisches Gotteshaus in Mafraq, gelegen an den wichtigen Handelswegen, die Jordanien mit seinen Nachbarländern verbinden.",
+                  "category": "landmark",
+                  "coords": [
+                        36.313285,
+                        32.296095
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Houda",
+                  "text": "Diese Moschee in Mafraq ist im regionalen Stil aus hellem Mauerwerk erbaut und bietet Gläubigen auf dem Hochplateau Zuflucht.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323878,
+                        32.292796
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Ben Abi Taleb",
+                  "text": "Eine lokale Moschee im Herzen von Mafraq, einer Stadt, die für ihre Lage am Rande der syrischen Wüste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317678,
+                        32.292922
+                  ]
+            },
+            {
+                  "name": "Masjid Yousouf Al-Sadeek",
+                  "text": "Ein zeitgenössisches Gotteshaus in Mafraq, das aus lokalem Kalkstein errichtet wurde und die moderne Architektur der Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319441,
+                        32.291012
+                  ]
+            },
+            {
+                  "name": "Masjid Khadeja Bent Khuailed",
+                  "text": "Diese Moschee bedient die Gemeinde von Mafraq, einem bedeutenden Verkehrsknotenpunkt in der trockenen Steppe Nordjordaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317723,
+                        32.289521
+                  ]
+            },
+            {
+                  "name": "Masjid Uthman Bin Affan",
+                  "text": "Eine Moschee in Mafraq mit einem schlanken Minarett, das die flache Silhouette dieser Wüstenstadt überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329833,
+                        32.290921
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Al-Mokhtar",
+                  "text": "Dieses Gotteshaus in Mafraq liegt auf dem windgepeitschten Wüstenplateau und ist aus dem regionalen hellen Stein erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326453,
+                        32.290232
+                  ]
+            },
+            {
+                  "name": "Masjid Road Sabekat Alzain",
+                  "text": "Eine Moschee in Mafraq, die strategisch nahe den Transitrouten liegt, welche Jordanien mit Syrien und dem Irak verbinden.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327825,
+                        32.292045
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sahaba",
+                  "text": "Eine lokale Moschee in Mafraq, die den Gläubigen in der kargen, flachen Landschaft Nordjordaniens als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335196,
+                        32.291666
+                  ]
+            },
+            {
+                  "name": "Masjid Auais Al-Karni",
+                  "text": "Ein muslimisches Gotteshaus in Mafraq, erbaut aus dem hellen Kalkstein, der für die Wüstenarchitektur Jordaniens typisch ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.336346,
+                        32.293142
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr",
+                  "text": "Eine Moschee im Stadtzentrum von Mafraq, die den traditionellen Baustil der Region mit weißen Steinen und einem hohen Minarett zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315568,
+                        32.291007
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mostafa",
+                  "text": "Ein lokales Gotteshaus in Mafraq, gelegen auf dem trockenen Hochplateau, das den Norden Jordaniens prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316329,
+                        32.294836
+                  ]
+            },
+            {
+                  "name": "Masjid Saeed Ibn Al-Musayib",
+                  "text": "Diese Moschee in Mafraq bietet der Gemeinde in der kargen Steppenlandschaft nahe der syrischen Grenze einen Ort der Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31344,
+                        32.29322
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Takoa",
+                  "text": "Eine moderne Moschee in der Wüstenstadt Mafraq, erbaut im funktionalen Stil aus lokalem Kalkstein.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314645,
+                        32.296904
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Omery",
+                  "text": "Eine zentrale Moschee in Mafraq, die durch ihre Lage an den Kreuzungswegen der Wüste ein wichtiger Orientierungspunkt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314566,
+                        32.299336
+                  ]
+            },
+            {
+                  "name": "Masjid Ruhama Beinahum",
+                  "text": "Ein muslimisches Gotteshaus in Mafraq, dessen Architektur die traditionelle Bauweise der nordjordanischen Wüstenregion widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315943,
+                        32.301043
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyyah",
+                  "text": "Eine Moschee in Mafraq, die aus den charakteristischen hellen Steinblöcken der Region erbaut wurde und die Stadt überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335011,
+                        32.295705
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mohamdi",
+                  "text": "Diese Moschee in Mafraq fügt sich mit ihrem hellen Mauerwerk in die trockene, sandige Umgebung des Hochplateaus ein.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329717,
+                        32.297613
+                  ]
+            },
+            {
+                  "name": "Masjid Salah Al-Dain",
+                  "text": "Eine Moschee in Mafraq, benannt nach einer historischen Persönlichkeit, die der Gemeinschaft in der Wüstenregion als Orientierung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326001,
+                        32.30051
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "Ein lokales Gotteshaus in Mafraq, das in der schlichten, aber würdevollen Architektur der nordjordanischen Grenzregion erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329702,
+                        32.300038
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajiren wa Al-Ansar",
+                  "text": "Diese Gemeinschaftsmoschee dient als religiöses Zentrum für die Bewohner des Wirtschaftsgebiets von Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32271,
+                        32.300511
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Karafana",
+                  "text": "Eine lokale muslimische Gebetsstätte, die die Gläubigen in der Entwicklungszone von Mafraq empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32061,
+                        32.300127
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zaatari",
+                  "text": "Diese Moschee ist ein spiritueller Anlaufpunkt inmitten der kargen Hochebene von Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319414,
+                        32.301701
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al-Koubra",
+                  "text": "Eine nach der Frau des Propheten benannte Moschee, die im nördlichen Mafraq als Nachbarschaftszentrum fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316962,
+                        32.299426
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Tawheed",
+                  "text": "Ein Zentrum für islamische Gebete, das den Industriesektor von Mafraq mit spirituellem Leben füllt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319015,
+                        32.295824
+                  ]
+            },
+            {
+                  "name": "Masjid Mua'ath Ben Jabal",
+                  "text": "Diese lokale Moschee in Mafraq ist Mua'ath Ben Jabal, einem Gefährten des Propheten, gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.322462,
+                        32.296667
+                  ]
+            },
+            {
+                  "name": "Masjid Anas Bin Malek",
+                  "text": "Eine schlichte Moschee für das tägliche Gebet in den Wohnvierteln der Entwicklungsregion Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323772,
+                        32.297705
+                  ]
+            },
+            {
+                  "name": "Masjid Khaled Ben Al-Waleed",
+                  "text": "Diese Gebetsstätte in Mafraq trägt den Namen des berühmten Feldherrn Khaled Ben Al-Waleed.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325152,
+                        32.298824
+                  ]
+            },
+            {
+                  "name": "Masjid Mosab Ben Umaer",
+                  "text": "Eine Moschee für die lokale Gemeinschaft, gelegen auf der weiten, trockenen Ebene im Norden Jordaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321674,
+                        32.29041
+                  ]
+            },
+            {
+                  "name": "Masjid Harmalah Ben Al-Waleed",
+                  "text": "Ein Ort der Andacht und des Gebets für die Arbeiter und Bewohner in der Industriezone von Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324255,
+                        32.290566
+                  ]
+            },
+            {
+                  "name": "Masjid Abn Algaeem",
+                  "text": "Diese Moschee dient als spiritueller Mittelpunkt für die wachsende Stadtbevölkerung in Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325741,
+                        32.287311
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr Alsedeq",
+                  "text": "Eine lokale Freitagsmoschee, die nach dem ersten Kalifen Abu Bakr benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327702,
+                        32.288497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Rufayfah",
+                  "text": "Egy antik település kőromjai a Mafraq közeli száraz sivatagi határvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        36.333333,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Zwajeer mosque",
+                  "text": "Helyi mecset Mafraqban hagyományos minarettel, a régióra jellemző világos mészkőből építve.",
+                  "category": "religious",
+                  "coords": [
+                        36.232723,
+                        32.266844
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Naser",
+                  "text": "Egy környékbeli mecset Mafraq sivatagi városában, amely az észak-jordániai közlekedési csomópont közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321315,
+                        32.295879
+                  ]
+            },
+            {
+                  "name": "Masjid Jafer Bin Abi Taleb",
+                  "text": "Ez a mecset Mafraq kietlen sivatagi fennsíkján található, lelki központként szolgálva a szír határ közeli lakosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.320057,
+                        32.292217
+                  ]
+            },
+            {
+                  "name": "Masjid Makieon 1",
+                  "text": "Egy modern mecset Mafraqban, amely világos kőhomlokzatával tűnik ki Észak-Jordánia poros táján.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31215,
+                        32.295228
+                  ]
+            },
+            {
+                  "name": "Masjid Albirr",
+                  "text": "Egy mecset Mafraqban, a Jordániát a szomszédos országokkal összekötő fontos kereskedelmi útvonalak mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        36.313285,
+                        32.296095
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Houda",
+                  "text": "Ez a mecset Mafraqban a regionális stílusnak megfelelően világos falazatból épült, menedéket nyújtva a hívőknek a fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323878,
+                        32.292796
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Ben Abi Taleb",
+                  "text": "Helyi mecset Mafraq szívében, abban a városban, amely a Szír-sivatag szélén elfoglalt helyzetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317678,
+                        32.292922
+                  ]
+            },
+            {
+                  "name": "Masjid Yousouf Al-Sadeek",
+                  "text": "Kortárs mecset Mafraqban, amely helyi mészkőből épült, tükrözve a város modern építészetét.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319441,
+                        32.291012
+                  ]
+            },
+            {
+                  "name": "Masjid Khadeja Bent Khuailed",
+                  "text": "Ez a mecset Mafraq közösségét szolgálja, amely Észak-Jordánia száraz sztyeppéjének jelentős közlekedési csomópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317723,
+                        32.289521
+                  ]
+            },
+            {
+                  "name": "Masjid Uthman Bin Affan",
+                  "text": "Egy mecset Mafraqban karcsú minarettel, amely e sivatagi város lapos sziluettje fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329833,
+                        32.290921
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Al-Mokhtar",
+                  "text": "Ez a mecset Mafraqban a szeles sivatagi fennsíkon található, és a régióra jellemző világos kőből épült.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326453,
+                        32.290232
+                  ]
+            },
+            {
+                  "name": "Masjid Road Sabekat Alzain",
+                  "text": "Egy mecset Mafraqban, amely stratégiailag a Jordániát Szíriával és Irakkal összekötő tranzitútvonalak közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327825,
+                        32.292045
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sahaba",
+                  "text": "Helyi mecset Mafraqban, amely imahelyként szolgál a hívőknek Észak-Jordánia kietlen, lapos táján.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335196,
+                        32.291666
+                  ]
+            },
+            {
+                  "name": "Masjid Auais Al-Karni",
+                  "text": "Egy mecset Mafraqban, a Jordánia sivatagi építészetére jellemző világos mészkőből építve.",
+                  "category": "landmark",
+                  "coords": [
+                        36.336346,
+                        32.293142
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr",
+                  "text": "Egy mecset Mafraq városközpontjában, amely a régió hagyományos építési stílusát mutatja fehér köveivel és magas minaretjével.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315568,
+                        32.291007
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mostafa",
+                  "text": "Helyi mecset Mafraqban, az Észak-Jordániát jellemző száraz fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316329,
+                        32.294836
+                  ]
+            },
+            {
+                  "name": "Masjid Saeed Ibn Al-Musayib",
+                  "text": "Ez a mecset Mafraqban az áhítat helyét nyújtja a közösségnek a szír határ közeli kietlen sztyeppei tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31344,
+                        32.29322
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Takoa",
+                  "text": "Egy modern mecset Mafraq sivatagi városában, funkcionális stílusban, helyi mészkőből építve.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314645,
+                        32.296904
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Omery",
+                  "text": "Központi mecset Mafraqban, amely a sivatagi utak kereszteződésében elfoglalt helye révén fontos tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314566,
+                        32.299336
+                  ]
+            },
+            {
+                  "name": "Masjid Ruhama Beinahum",
+                  "text": "Egy mecset Mafraqban, amelynek építészete az észak-jordániai sivatagi régió hagyományos építésmódját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315943,
+                        32.301043
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyyah",
+                  "text": "Egy mecset Mafraqban, amely a régióra jellemző világos kőtömbökből épült, és a város fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335011,
+                        32.295705
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mohamdi",
+                  "text": "Ez a mecset Mafraqban világos falaival beleolvad a fennsík száraz, homokos környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329717,
+                        32.297613
+                  ]
+            },
+            {
+                  "name": "Masjid Salah Al-Dain",
+                  "text": "Egy mecset Mafraqban, amely egy történelmi személyiségről kapta a nevét, és tájékozódási pontként szolgál a sivatagi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326001,
+                        32.30051
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "Helyi mecset Mafraqban, amely az észak-jordániai határvidék egyszerű, de méltóságteljes építészetével készült.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329702,
+                        32.300038
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajiren wa Al-Ansar",
+                  "text": "Ez a közösségi mecset vallási központként szolgál Mafraq gazdasági övezetének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32271,
+                        32.300511
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Karafana",
+                  "text": "Helyi muszlim imahely, amely Mafraq fejlesztési övezetének hívőit fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32061,
+                        32.300127
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zaatari",
+                  "text": "Ez a mecset szellemi találkozóhely Mafraq kopár fennsíkjának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319414,
+                        32.301701
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al-Koubra",
+                  "text": "A próféta feleségéről elnevezett mecset, amely szomszédsági központként működik Észak-Mafraqban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316962,
+                        32.299426
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Tawheed",
+                  "text": "Az iszlám imádság központja, amely Mafraq ipari szektorát tölti meg hitélettel.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319015,
+                        32.295824
+                  ]
+            },
+            {
+                  "name": "Masjid Mua'ath Ben Jabal",
+                  "text": "Ez a helyi mecset Mafraqban Mua'ath Ben Jabalnak, a próféta egyik társának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        36.322462,
+                        32.296667
+                  ]
+            },
+            {
+                  "name": "Masjid Anas Bin Malek",
+                  "text": "Egyszerű mecset a napi imádsághoz Mafraq fejlesztési régiójának lakónegyedeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323772,
+                        32.297705
+                  ]
+            },
+            {
+                  "name": "Masjid Khaled Ben Al-Waleed",
+                  "text": "Ez a Mafraq-i imahely a híres hadvezér, Khaled Ben Al-Waleed nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325152,
+                        32.298824
+                  ]
+            },
+            {
+                  "name": "Masjid Mosab Ben Umaer",
+                  "text": "Helyi közösségi mecset, amely Jordánia északi részének tágas, száraz síkságán található.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321674,
+                        32.29041
+                  ]
+            },
+            {
+                  "name": "Masjid Harmalah Ben Al-Waleed",
+                  "text": "Az áhítat és az imádság helye a munkások és lakók számára Mafraq ipari övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324255,
+                        32.290566
+                  ]
+            },
+            {
+                  "name": "Masjid Abn Algaeem",
+                  "text": "Ez a mecset szellemi központként szolgál Mafraq növekvő városi lakossága számára.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325741,
+                        32.287311
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr Alsedeq",
+                  "text": "Helyi pénteki mecset, amelyet az első kalifáról, Abu Bakrról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327702,
+                        32.288497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Rufayfah",
+                  "text": "Ruine de piatră ale unei așezări antice în zona de frontieră deșertică aridă de lângă Mafraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.333333,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Zwajeer mosque",
+                  "text": "O moschee locală din Mafraq cu un minaret tradițional, construită din calcarul deschis la culoare tipic regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        36.232723,
+                        32.266844
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Naser",
+                  "text": "O moschee de cartier în orașul deșertic Mafraq, care deservește comunitatea din acest nod de tranzit important din nordul Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321315,
+                        32.295879
+                  ]
+            },
+            {
+                  "name": "Masjid Jafer Bin Abi Taleb",
+                  "text": "Această moschee este situată pe platoul deșertic arid din Mafraq, servind ca centru spiritual pentru locuitorii de lângă granița cu Siria.",
+                  "category": "landmark",
+                  "coords": [
+                        36.320057,
+                        32.292217
+                  ]
+            },
+            {
+                  "name": "Masjid Makieon 1",
+                  "text": "O moschee modernă din Mafraq, care se remarcă prin fațada sa din piatră deschisă în peisajul prăfuit al Iordaniei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31215,
+                        32.295228
+                  ]
+            },
+            {
+                  "name": "Masjid Albirr",
+                  "text": "Un lăcaș de cult musulman în Mafraq, situat de-a lungul rutelor comerciale importante care leagă Iordania de țările vecine.",
+                  "category": "landmark",
+                  "coords": [
+                        36.313285,
+                        32.296095
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Houda",
+                  "text": "Această moschee din Mafraq este construită în stil regional din zidărie deschisă la culoare, oferind refugiu credincioșilor de pe platou.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323878,
+                        32.292796
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Ben Abi Taleb",
+                  "text": "O moschee locală în inima orașului Mafraq, localitate cunoscută pentru poziția sa la marginea deșertului sirian.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317678,
+                        32.292922
+                  ]
+            },
+            {
+                  "name": "Masjid Yousouf Al-Sadeek",
+                  "text": "Un lăcaș de cult contemporan în Mafraq, ridicat din calcar local, reflectând arhitectura modernă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319441,
+                        32.291012
+                  ]
+            },
+            {
+                  "name": "Masjid Khadeja Bent Khuailed",
+                  "text": "Această moschee deservește comunitatea din Mafraq, un nod de tranzit major în stepa aridă din nordul Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317723,
+                        32.289521
+                  ]
+            },
+            {
+                  "name": "Masjid Uthman Bin Affan",
+                  "text": "O moschee în Mafraq cu un minaret zvelt care se ridică deasupra siluetei plate a acestui oraș deșertic.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329833,
+                        32.290921
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Al-Mokhtar",
+                  "text": "Acest lăcaș de cult din Mafraq este situat pe platoul deșertic bătut de vânt și este construit din piatra deschisă la culoare a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326453,
+                        32.290232
+                  ]
+            },
+            {
+                  "name": "Masjid Road Sabekat Alzain",
+                  "text": "O moschee în Mafraq situată strategic lângă rutele de tranzit care leagă Iordania de Siria și Irak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327825,
+                        32.292045
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sahaba",
+                  "text": "O moschee locală în Mafraq, servind ca loc de rugăciune pentru credincioși în peisajul arid și plat al Iordaniei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335196,
+                        32.291666
+                  ]
+            },
+            {
+                  "name": "Masjid Auais Al-Karni",
+                  "text": "Un lăcaș de cult musulman în Mafraq, construit din calcarul deschis la culoare tipic arhitecturii deșertice a Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.336346,
+                        32.293142
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr",
+                  "text": "O moschee în centrul orașului Mafraq, care prezintă stilul tradițional de construcție al regiunii cu pietre albe și un minaret înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315568,
+                        32.291007
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mostafa",
+                  "text": "Un lăcaș de cult local în Mafraq, situat pe platoul arid care caracterizează nordul Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316329,
+                        32.294836
+                  ]
+            },
+            {
+                  "name": "Masjid Saeed Ibn Al-Musayib",
+                  "text": "Această moschee din Mafraq oferă un loc de reculegere comunității din peisajul arid de stepă de lângă granița siriană.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31344,
+                        32.29322
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Takoa",
+                  "text": "O moschee modernă în orașul deșertic Mafraq, construită într-un stil funcțional din calcar local.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314645,
+                        32.296904
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Omery",
+                  "text": "O moschee centrală în Mafraq, care este un punct de reper important prin poziția sa la intersecția drumurilor din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314566,
+                        32.299336
+                  ]
+            },
+            {
+                  "name": "Masjid Ruhama Beinahum",
+                  "text": "Un lăcaș de cult musulman în Mafraq, a cărui arhitectură reflectă modul tradițional de construcție din regiunea deșertică a Iordaniei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315943,
+                        32.301043
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyyah",
+                  "text": "O moschee în Mafraq, construită din blocurile de piatră deschisă la culoare caracteristice regiunii, dominând orașul.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335011,
+                        32.295705
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mohamdi",
+                  "text": "Această moschee din Mafraq se integrează cu zidăria sa deschisă la culoare în mediul arid și nisipos al platoului înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329717,
+                        32.297613
+                  ]
+            },
+            {
+                  "name": "Masjid Salah Al-Dain",
+                  "text": "O moschee în Mafraq, numită după o personalitate istorică, servind drept punct de orientare pentru comunitatea din regiunea deșertică.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326001,
+                        32.30051
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "Un lăcaș de cult local în Mafraq, construit în arhitectura simplă, dar demnă, a regiunii de frontieră din nordul Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329702,
+                        32.300038
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajiren wa Al-Ansar",
+                  "text": "Această moschee comunitară servește ca centru religios pentru locuitorii zonei economice din Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32271,
+                        32.300511
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Karafana",
+                  "text": "Un lăcaș de cult musulman local care primește credincioșii din zona de dezvoltare Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32061,
+                        32.300127
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zaatari",
+                  "text": "Această moschee este un punct de reper spiritual în mijlocul platoului arid din Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319414,
+                        32.301701
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al-Koubra",
+                  "text": "O moschee numită după soția profetului, care funcționează ca centru de cartier în nordul Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316962,
+                        32.299426
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Tawheed",
+                  "text": "Un centru pentru rugăciune islamică ce animă sectorul industrial din Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319015,
+                        32.295824
+                  ]
+            },
+            {
+                  "name": "Masjid Mua'ath Ben Jabal",
+                  "text": "Această moschee locală din Mafraq este dedicată lui Mua'ath Ben Jabal, un însoțitor al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        36.322462,
+                        32.296667
+                  ]
+            },
+            {
+                  "name": "Masjid Anas Bin Malek",
+                  "text": "O moschee simplă pentru rugăciunea zilnică în cartierele rezidențiale din regiunea de dezvoltare Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323772,
+                        32.297705
+                  ]
+            },
+            {
+                  "name": "Masjid Khaled Ben Al-Waleed",
+                  "text": "Acest lăcaș de cult din Mafraq poartă numele celebrului general Khaled Ben Al-Waleed.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325152,
+                        32.298824
+                  ]
+            },
+            {
+                  "name": "Masjid Mosab Ben Umaer",
+                  "text": "O moschee pentru comunitatea locală, situată pe câmpia vastă și aridă din nordul Iordaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321674,
+                        32.29041
+                  ]
+            },
+            {
+                  "name": "Masjid Harmalah Ben Al-Waleed",
+                  "text": "Un loc de evlavie și rugăciune pentru muncitorii și locuitorii din zona industrială Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324255,
+                        32.290566
+                  ]
+            },
+            {
+                  "name": "Masjid Abn Algaeem",
+                  "text": "Această moschee servește drept centru spiritual pentru populația urbană în creștere din Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325741,
+                        32.287311
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr Alsedeq",
+                  "text": "O moschee locală de vineri, numită după primul calif, Abu Bakr.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327702,
+                        32.288497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Rufayfah",
+                  "text": "Stone ruins of an ancient settlement in the arid desert borderlands near Mafraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.333333,
+                        32.266667
+                  ]
+            },
+            {
+                  "name": "Zwajeer mosque",
+                  "text": "A local mosque in Mafraq featuring a traditional minaret and built from the region's typical light limestone.",
+                  "category": "religious",
+                  "coords": [
+                        36.232723,
+                        32.266844
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Naser",
+                  "text": "A neighborhood mosque in the desert city of Mafraq, serving the community in this key northern Jordanian transit hub.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321315,
+                        32.295879
+                  ]
+            },
+            {
+                  "name": "Masjid Jafer Bin Abi Taleb",
+                  "text": "This mosque is situated on the arid desert plateau of Mafraq, serving as a spiritual center for residents near the Syrian border.",
+                  "category": "landmark",
+                  "coords": [
+                        36.320057,
+                        32.292217
+                  ]
+            },
+            {
+                  "name": "Masjid Makieon 1",
+                  "text": "A modern mosque in Mafraq that stands out with its light stone facade in the dusty landscape of northern Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31215,
+                        32.295228
+                  ]
+            },
+            {
+                  "name": "Masjid Albirr",
+                  "text": "A Muslim place of worship in Mafraq, located along the important trade routes connecting Jordan with neighbor countries.",
+                  "category": "landmark",
+                  "coords": [
+                        36.313285,
+                        32.296095
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Houda",
+                  "text": "This mosque in Mafraq is built in the regional style with light masonry, providing a sanctuary for worshippers on the high plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323878,
+                        32.292796
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Ben Abi Taleb",
+                  "text": "A local mosque in the heart of Mafraq, a city known for its position at the edge of the Syrian Desert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317678,
+                        32.292922
+                  ]
+            },
+            {
+                  "name": "Masjid Yousouf Al-Sadeek",
+                  "text": "A contemporary place of worship in Mafraq, erected from local limestone and reflecting the city's modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319441,
+                        32.291012
+                  ]
+            },
+            {
+                  "name": "Masjid Khadeja Bent Khuailed",
+                  "text": "This mosque serves the community of Mafraq, a major transit hub in the arid steppe of northern Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        36.317723,
+                        32.289521
+                  ]
+            },
+            {
+                  "name": "Masjid Uthman Bin Affan",
+                  "text": "A mosque in Mafraq featuring a slender minaret that rises above the flat silhouette of this desert city.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329833,
+                        32.290921
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Al-Mokhtar",
+                  "text": "This place of worship in Mafraq sits on the windswept desert plateau and is built from the regional light-colored stone.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326453,
+                        32.290232
+                  ]
+            },
+            {
+                  "name": "Masjid Road Sabekat Alzain",
+                  "text": "A mosque in Mafraq strategically located near the transit routes connecting Jordan with Syria and Iraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327825,
+                        32.292045
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sahaba",
+                  "text": "A local mosque in Mafraq serving as a place of prayer for worshippers in the barren, flat landscape of northern Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335196,
+                        32.291666
+                  ]
+            },
+            {
+                  "name": "Masjid Auais Al-Karni",
+                  "text": "A Muslim place of worship in Mafraq, built from the light limestone typical of Jordan's desert architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        36.336346,
+                        32.293142
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr",
+                  "text": "A mosque in Mafraq's city center, showcasing the region's traditional building style with white stones and a tall minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315568,
+                        32.291007
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mostafa",
+                  "text": "A local place of worship in Mafraq, situated on the arid high plateau that characterizes northern Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316329,
+                        32.294836
+                  ]
+            },
+            {
+                  "name": "Masjid Saeed Ibn Al-Musayib",
+                  "text": "This mosque in Mafraq provides a place of devotion for the community in the barren steppe landscape near the Syrian border.",
+                  "category": "landmark",
+                  "coords": [
+                        36.31344,
+                        32.29322
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Takoa",
+                  "text": "A modern mosque in the desert city of Mafraq, built in a functional style from local limestone.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314645,
+                        32.296904
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Omery",
+                  "text": "A central mosque in Mafraq, which is an important landmark due to its location at the crossroads of the desert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.314566,
+                        32.299336
+                  ]
+            },
+            {
+                  "name": "Masjid Ruhama Beinahum",
+                  "text": "A Muslim place of worship in Mafraq, whose architecture reflects the traditional building style of the northern Jordanian desert region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.315943,
+                        32.301043
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Taymiyyah",
+                  "text": "A mosque in Mafraq built from the characteristic light-colored stone blocks of the region, overlooking the city.",
+                  "category": "landmark",
+                  "coords": [
+                        36.335011,
+                        32.295705
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mohamdi",
+                  "text": "This mosque in Mafraq blends into the arid, sandy environment of the high plateau with its light-colored masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329717,
+                        32.297613
+                  ]
+            },
+            {
+                  "name": "Masjid Salah Al-Dain",
+                  "text": "A mosque in Mafraq, named after a historical figure, serving as a landmark for the community in the desert region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.326001,
+                        32.30051
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Islah",
+                  "text": "A local place of worship in Mafraq, built in the simple but dignified architecture of the northern Jordanian border region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.329702,
+                        32.300038
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muhajiren wa Al-Ansar",
+                  "text": "This community mosque serves as a religious center for the residents of the Mafraq economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32271,
+                        32.300511
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Karafana",
+                  "text": "A local Muslim place of worship welcoming the faithful in the Mafraq development zone.",
+                  "category": "landmark",
+                  "coords": [
+                        36.32061,
+                        32.300127
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zaatari",
+                  "text": "This mosque is a spiritual hub situated amidst the arid Mafraq plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319414,
+                        32.301701
+                  ]
+            },
+            {
+                  "name": "Masjid Khadija Al-Koubra",
+                  "text": "A mosque named after the Prophet's wife, acting as a neighborhood center in northern Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.316962,
+                        32.299426
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Tawheed",
+                  "text": "A center for Islamic prayer that fills the industrial sector of Mafraq with spiritual life.",
+                  "category": "landmark",
+                  "coords": [
+                        36.319015,
+                        32.295824
+                  ]
+            },
+            {
+                  "name": "Masjid Mua'ath Ben Jabal",
+                  "text": "This local mosque in Mafraq is dedicated to Mua'ath Ben Jabal, a companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.322462,
+                        32.296667
+                  ]
+            },
+            {
+                  "name": "Masjid Anas Bin Malek",
+                  "text": "A simple mosque for daily prayer within the residential areas of the Mafraq development region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.323772,
+                        32.297705
+                  ]
+            },
+            {
+                  "name": "Masjid Khaled Ben Al-Waleed",
+                  "text": "This place of worship in Mafraq bears the name of the famous general Khaled Ben Al-Waleed.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325152,
+                        32.298824
+                  ]
+            },
+            {
+                  "name": "Masjid Mosab Ben Umaer",
+                  "text": "A mosque for the local community, situated on the vast, dry plateau of northern Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        36.321674,
+                        32.29041
+                  ]
+            },
+            {
+                  "name": "Masjid Harmalah Ben Al-Waleed",
+                  "text": "A place of devotion and prayer for workers and residents in the Mafraq industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        36.324255,
+                        32.290566
+                  ]
+            },
+            {
+                  "name": "Masjid Abn Algaeem",
+                  "text": "This mosque serves as a spiritual center for the growing urban population in Mafraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.325741,
+                        32.287311
+                  ]
+            },
+            {
+                  "name": "Masjid Abo Bakr Alsedeq",
+                  "text": "A local Friday mosque named after the first caliph, Abu Bakr.",
+                  "category": "landmark",
+                  "coords": [
+                        36.327702,
+                        32.288497
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JO-MA",
     coords: [36.2705, 32.2798],
@@ -219,7 +2307,52 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "tafilah-wind-farm-economic-v2",
+    id: "tafilah-wind-farm-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sela",
+                  "text": "Eine edomitische Festung auf einem Bergplateau, die für ihr in den Fels gehauenes königliches Relief bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.5754,
+                        30.781895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Sil",
+                  "text": "Egy edomita erőd egy hegyi fennsíkon, amely a sziklába vésett királyi domborművéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.5754,
+                        30.781895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Sil",
+                  "text": "O fortăreață edomită pe un platou montan, cunoscută pentru relieful său regal sculptat în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        35.5754,
+                        30.781895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Sil",
+                  "text": "An Edomite mountaintop fortress known for its royal relief carved directly into the rock face.",
+                  "category": "historical",
+                  "coords": [
+                        35.5754,
+                        30.781895
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "JO-TA",
     coords: [35.6322, 30.7303],
@@ -255,7 +2388,196 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "shams-maan-solar-plant-economic-v2",
+    id: "shams-maan-solar-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asma’ Allah Circle",
+                  "text": "Ein modernes Monument auf einem Kreisverkehr in Ma'an, das die Namen Gottes in arabischer Kalligraphie zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        35.735881,
+                        30.191991
+                  ]
+            },
+            {
+                  "name": "Aqaba Circle",
+                  "text": "Ein markantes Wahrzeichen an einem Verkehrsknotenpunkt in Ma'an, das den Weg in die Hafenstadt Aqaba weist.",
+                  "category": "historical",
+                  "coords": [
+                        35.724914,
+                        30.19274
+                  ]
+            },
+            {
+                  "name": "Ma'an Khirbet es-Samra",
+                  "text": "Diese archäologische Stätte bei Ma'an bewahrt Überreste einer byzantinischen Kirche mit gut erhaltenen Mosaikböden.",
+                  "category": "historical",
+                  "coords": [
+                        35.780011,
+                        30.196632
+                  ]
+            },
+            {
+                  "name": "Birket Alhammam",
+                  "text": "Ein antikes Wasserreservoir, das einst die Region Ma'an mit Wasser versorgte und Zeugnis früher Ingenieurskunst ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.753244,
+                        30.205425
+                  ]
+            },
+            {
+                  "name": "Maan Ottoman Castle",
+                  "text": "Diese im 16. Jahrhundert erbaute osmanische Festung diente als Schutz für Hajj-Pilgerkarawanen nach Mekka.",
+                  "category": "castle",
+                  "coords": [
+                        35.739158,
+                        30.192382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asma’ Allah Circle",
+                  "text": "Modern emlékmű egy ma'ani körforgalomban, amely Isten neveit ábrázolja arab kalligráfiával.",
+                  "category": "historical",
+                  "coords": [
+                        35.735881,
+                        30.191991
+                  ]
+            },
+            {
+                  "name": "Aqaba Circle",
+                  "text": "Jellegzetes tájékozódási pont egy ma'ani forgalmi csomópontban, amely az Akaba kikötőváros felé vezető utat jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        35.724914,
+                        30.19274
+                  ]
+            },
+            {
+                  "name": "Ma'an Khirbet es-Samra",
+                  "text": "Ez a Ma'an közeli régészeti lelőhely egy bizánci templom maradványait őrzi, jól megmaradt mozaikpadlókkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.780011,
+                        30.196632
+                  ]
+            },
+            {
+                  "name": "Birket Alhammam",
+                  "text": "Egy ősi víztározó, amely egykor Ma'an régióját látta el vízzel, és a korai mérnöki tudás bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        35.753244,
+                        30.205425
+                  ]
+            },
+            {
+                  "name": "Maan Ottoman Castle",
+                  "text": "Ez a 16. században épült oszmán erőd a Mekkába tartó haddzs-zarándokkaravánok védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        35.739158,
+                        30.192382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asma’ Allah Circle",
+                  "text": "Un monument modern situat într-un sens giratoriu din Ma'an, care prezintă numele lui Dumnezeu în caligrafie arabă.",
+                  "category": "historical",
+                  "coords": [
+                        35.735881,
+                        30.191991
+                  ]
+            },
+            {
+                  "name": "Aqaba Circle",
+                  "text": "Un punct de reper distinctiv într-un nod rutier din Ma'an, care indică drumul către orașul-port Aqaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.724914,
+                        30.19274
+                  ]
+            },
+            {
+                  "name": "Ma'an Khirbet es-Samra",
+                  "text": "Acest sit arheologic de lângă Ma'an păstrează rămășițele unei biserici bizantine cu podele de mozaic bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        35.780011,
+                        30.196632
+                  ]
+            },
+            {
+                  "name": "Birket Alhammam",
+                  "text": "Un rezervor de apă antic care deservea cândva regiunea Ma'an, fiind o dovadă a ingineriei timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        35.753244,
+                        30.205425
+                  ]
+            },
+            {
+                  "name": "Maan Ottoman Castle",
+                  "text": "Această fortăreață otomană construită în secolul al XVI-al a servit drept protecție pentru caravanele de pelerini Hajj spre Mecca.",
+                  "category": "castle",
+                  "coords": [
+                        35.739158,
+                        30.192382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asma’ Allah Circle",
+                  "text": "A modern monument in a Ma'an roundabout featuring the names of God in Arabic calligraphy.",
+                  "category": "historical",
+                  "coords": [
+                        35.735881,
+                        30.191991
+                  ]
+            },
+            {
+                  "name": "Aqaba Circle",
+                  "text": "A prominent landmark in a Ma'an traffic junction that marks the way toward the port city of Aqaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.724914,
+                        30.19274
+                  ]
+            },
+            {
+                  "name": "Ma'an Khirbet es-Samra",
+                  "text": "This archaeological site near Ma'an preserves remains of a Byzantine church with well-preserved mosaic floors.",
+                  "category": "historical",
+                  "coords": [
+                        35.780011,
+                        30.196632
+                  ]
+            },
+            {
+                  "name": "Birket Alhammam",
+                  "text": "An ancient water reservoir that once served the Ma'an region, standing as a testament to early engineering.",
+                  "category": "historical",
+                  "coords": [
+                        35.753244,
+                        30.205425
+                  ]
+            },
+            {
+                  "name": "Maan Ottoman Castle",
+                  "text": "This 16th-century Ottoman fort served as protection for Hajj pilgrim caravans traveling to Mecca.",
+                  "category": "castle",
+                  "coords": [
+                        35.739158,
+                        30.192382
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "JO-MN",
     coords: [35.7925, 30.1261],
@@ -291,7 +2613,304 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "king-hussein-airport-economic-v2",
+    id: "king-hussein-airport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horbat Dafit",
+                  "text": "Die Ruinen einer antiken nabatäischen und römischen Straßenstation in der Wüste nahe dem Flughafen.",
+                  "category": "historical",
+                  "coords": [
+                        35.008333,
+                        29.693333
+                  ]
+            },
+            {
+                  "name": "Ein Avrona",
+                  "text": "Eine Wüstenoase mit Palmen und antiken unterirdischen Wasserkanälen, bekannt als Qanate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013917,
+                        29.672913
+                  ]
+            },
+            {
+                  "name": "Givat Bahat",
+                  "text": "Ein Hügel aus dunklem Vulkangestein, der einen weiten Blick über das Arava-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.956608,
+                        29.646251
+                  ]
+            },
+            {
+                  "name": "Evrona Observation Point",
+                  "text": "Ein Aussichtspunkt über die Salzpfannen und Palmenhaine des Evrona-Naturschutzgebietes.",
+                  "category": "natural",
+                  "coords": [
+                        34.989605,
+                        29.694097
+                  ]
+            },
+            {
+                  "name": "Har Amir",
+                  "text": "Ein markanter Sandsteingipfel in den Eilat-Bergen, der für seine zerklüfteten Wanderpfade bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        34.940129,
+                        29.640824
+                  ]
+            },
+            {
+                  "name": "Yocheved Hill",
+                  "text": "Ein Gipfel im südlichen Negev, der durch seine farbenfrohen geologischen Gesteinsschichten besticht.",
+                  "category": "natural",
+                  "coords": [
+                        34.941813,
+                        29.647167
+                  ]
+            },
+            {
+                  "name": "Amram Pillars",
+                  "text": "Natürliche rote Sandsteinsäulen, die durch Erosion in einem Wüstencanyon geformt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        34.932201,
+                        29.652674
+                  ]
+            },
+            {
+                  "name": "Flamingo lookout",
+                  "text": "Ein Beobachtungspunkt an den Salzbecken, an denen oft Flamingos während ihres Zuges rasten.",
+                  "category": "natural",
+                  "coords": [
+                        34.997461,
+                        29.628685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horbat Dafit",
+                  "text": "Egy ősi nabateus és római útállomás romjai a sivatagban, a repülőtér közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.008333,
+                        29.693333
+                  ]
+            },
+            {
+                  "name": "Ein Avrona",
+                  "text": "Sivatagi oázis pálmafákkal és ősi, föld alatti csatornákkal, úgynevezett kanátokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013917,
+                        29.672913
+                  ]
+            },
+            {
+                  "name": "Givat Bahat",
+                  "text": "Sötét vulkáni kőzetből álló domb, amely tágas kilátást nyújt az Arava-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        34.956608,
+                        29.646251
+                  ]
+            },
+            {
+                  "name": "Evrona Observation Point",
+                  "text": "Kilátópont az Evrona Természetvédelmi Terület sós síkságaira és pálmaligeteire.",
+                  "category": "natural",
+                  "coords": [
+                        34.989605,
+                        29.694097
+                  ]
+            },
+            {
+                  "name": "Har Amir",
+                  "text": "Az Eilati-hegység egyik jellegzetes homokkőcsúcsa, amely vadregényes túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        34.940129,
+                        29.640824
+                  ]
+            },
+            {
+                  "name": "Yocheved Hill",
+                  "text": "A déli Negev-sivatag egyik csúcsa, amely színes geológiai kőzetrétegeivel nyűgözi le a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        34.941813,
+                        29.647167
+                  ]
+            },
+            {
+                  "name": "Amram Pillars",
+                  "text": "Természetes vörös homokkő oszlopok, amelyeket az erózió formált egy sivatagi kanyonban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.932201,
+                        29.652674
+                  ]
+            },
+            {
+                  "name": "Flamingo lookout",
+                  "text": "Megfigyelőpont a sós tavaknál, ahol gyakran láthatók flamingók a vonulásuk során.",
+                  "category": "natural",
+                  "coords": [
+                        34.997461,
+                        29.628685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horbat Dafit",
+                  "text": "Ruinele unei vechi stații de drum nabateene și romane din deșert, situată lângă aeroport.",
+                  "category": "historical",
+                  "coords": [
+                        35.008333,
+                        29.693333
+                  ]
+            },
+            {
+                  "name": "Ein Avrona",
+                  "text": "O oază în deșert cu palmieri și canale antice de apă subterane, cunoscute sub numele de qanats.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013917,
+                        29.672913
+                  ]
+            },
+            {
+                  "name": "Givat Bahat",
+                  "text": "Un deal format din rocă magmatică închisă la culoare, care oferă o vedere amplă asupra văii Arava.",
+                  "category": "natural",
+                  "coords": [
+                        34.956608,
+                        29.646251
+                  ]
+            },
+            {
+                  "name": "Evrona Observation Point",
+                  "text": "Un punct de observație deasupra salinelor și livezilor de palmieri din rezervația naturală Evrona.",
+                  "category": "natural",
+                  "coords": [
+                        34.989605,
+                        29.694097
+                  ]
+            },
+            {
+                  "name": "Har Amir",
+                  "text": "Un vârf de gresie proeminent din Munții Eilat, cunoscut pentru potecile sale de drumeție accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        34.940129,
+                        29.640824
+                  ]
+            },
+            {
+                  "name": "Yocheved Hill",
+                  "text": "Un vârf din sudul Negevului, care impresionează prin straturile sale geologice colorate.",
+                  "category": "natural",
+                  "coords": [
+                        34.941813,
+                        29.647167
+                  ]
+            },
+            {
+                  "name": "Amram Pillars",
+                  "text": "Coloane naturale din gresie roșie, modelate de eroziune într-un canion din deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.932201,
+                        29.652674
+                  ]
+            },
+            {
+                  "name": "Flamingo lookout",
+                  "text": "Un punct de observație la bazinele de sare unde flamingo se opresc adesea în timpul migrației.",
+                  "category": "natural",
+                  "coords": [
+                        34.997461,
+                        29.628685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horbat Dafit",
+                  "text": "The ruins of an ancient Nabataean and Roman road station in the desert near the airport.",
+                  "category": "historical",
+                  "coords": [
+                        35.008333,
+                        29.693333
+                  ]
+            },
+            {
+                  "name": "Ein Avrona",
+                  "text": "A desert oasis with palm trees and ancient underground water channels known as qanats.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013917,
+                        29.672913
+                  ]
+            },
+            {
+                  "name": "Givat Bahat",
+                  "text": "A hill of dark igneous rock offering expansive views over the Arava Valley.",
+                  "category": "natural",
+                  "coords": [
+                        34.956608,
+                        29.646251
+                  ]
+            },
+            {
+                  "name": "Evrona Observation Point",
+                  "text": "An observation point overlooking the salt flats and palm groves of the Evrona Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        34.989605,
+                        29.694097
+                  ]
+            },
+            {
+                  "name": "Har Amir",
+                  "text": "A prominent sandstone peak in the Eilat Mountains known for its rugged hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        34.940129,
+                        29.640824
+                  ]
+            },
+            {
+                  "name": "Yocheved Hill",
+                  "text": "A peak in the Southern Negev notable for its colorful geological rock layers.",
+                  "category": "natural",
+                  "coords": [
+                        34.941813,
+                        29.647167
+                  ]
+            },
+            {
+                  "name": "Amram Pillars",
+                  "text": "Natural red sandstone columns carved by erosion in a desert canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.932201,
+                        29.652674
+                  ]
+            },
+            {
+                  "name": "Flamingo lookout",
+                  "text": "An observation point by the salt ponds where flamingos often rest during their migration.",
+                  "category": "natural",
+                  "coords": [
+                        34.997461,
+                        29.628685
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "JO-AQ",
     coords: [35.0181, 29.6116],
@@ -327,7 +2946,160 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "queen-alia-airport-economic-v2",
+    id: "queen-alia-airport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zebayer al Twal",
+                  "text": "Historische Ruinen in der kargen Wüstenlandschaft nahe dem internationalen Flughafen von Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.716667
+                  ]
+            },
+            {
+                  "name": "Al Zabayir",
+                  "text": "Überreste antiker Siedlungen in der halbtrockenen Ebene südlich der jordanischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.900149,
+                        31.684279
+                  ]
+            },
+            {
+                  "name": "Mahaif al Zabair",
+                  "text": "Archäologische Überreste einer historischen Stätte inmitten der weiten Wüstenebene.",
+                  "category": "historical",
+                  "coords": [
+                        35.899673,
+                        31.682612
+                  ]
+            },
+            {
+                  "name": "Qasr al-Qastal",
+                  "text": "Eines der ältesten Wüstenschlösser der Umayyaden, bekannt für die Überreste eines Palastes und eines frühen Minaretts.",
+                  "category": "historical",
+                  "coords": [
+                        35.939913,
+                        31.74658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zebayer al Twal",
+                  "text": "Történelmi romok az ammani nemzetközi repülőtér közelében található kopár sivatagi tájon.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.716667
+                  ]
+            },
+            {
+                  "name": "Al Zabayir",
+                  "text": "Ősi települések maradványai a jordán fővárostól délre fekvő félsivatagos síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        35.900149,
+                        31.684279
+                  ]
+            },
+            {
+                  "name": "Mahaif al Zabair",
+                  "text": "Egy történelmi helyszín régészeti maradványai a széles sivatagi síkság közepén.",
+                  "category": "historical",
+                  "coords": [
+                        35.899673,
+                        31.682612
+                  ]
+            },
+            {
+                  "name": "Qasr al-Qastal",
+                  "text": "Az egyik legrégebbi omajjád sivatagi kastély, amely egy palota és egy korai minaret maradványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.939913,
+                        31.74658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zebayer al Twal",
+                  "text": "Ruine istorice în peisajul deșertic arid din apropierea aeroportului internațional din Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.716667
+                  ]
+            },
+            {
+                  "name": "Al Zabayir",
+                  "text": "Rămășițele unor așezări antice în câmpia semiaridă de la sud de capitala Iordaniei.",
+                  "category": "historical",
+                  "coords": [
+                        35.900149,
+                        31.684279
+                  ]
+            },
+            {
+                  "name": "Mahaif al Zabair",
+                  "text": "Rămășițe arheologice ale unui sit istoric în mijlocul vastei câmpii deșertice.",
+                  "category": "historical",
+                  "coords": [
+                        35.899673,
+                        31.682612
+                  ]
+            },
+            {
+                  "name": "Qasr al-Qastal",
+                  "text": "Unul dintre cele mai vechi castele de deșert omayyade, cunoscut pentru rămășițele unui palat și ale unui minaret timpuriu.",
+                  "category": "historical",
+                  "coords": [
+                        35.939913,
+                        31.74658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zebayer al Twal",
+                  "text": "Historical ruins located in the arid desert landscape near Amman's international airport.",
+                  "category": "historical",
+                  "coords": [
+                        35.916667,
+                        31.716667
+                  ]
+            },
+            {
+                  "name": "Al Zabayir",
+                  "text": "Remains of ancient settlements in the semi-arid plains south of the Jordanian capital.",
+                  "category": "historical",
+                  "coords": [
+                        35.900149,
+                        31.684279
+                  ]
+            },
+            {
+                  "name": "Mahaif al Zabair",
+                  "text": "Archaeological remains of a historical site amidst the vast desert plains.",
+                  "category": "historical",
+                  "coords": [
+                        35.899673,
+                        31.682612
+                  ]
+            },
+            {
+                  "name": "Qasr al-Qastal",
+                  "text": "One of the oldest Umayyad desert castles, known for the remains of a palace and an early minaret.",
+                  "category": "historical",
+                  "coords": [
+                        35.939913,
+                        31.74658
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "JO-AM",
     coords: [35.9868, 31.7226],
@@ -363,7 +3135,196 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "sahab-industrial-estate-economic-v2",
+    id: "sahab-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Alandah",
+                  "text": "Diese archäologische Stätte zeigt die Ruinen einer antiken Siedlung auf einem Hügel mit Blick auf die Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        36.059167,
+                        31.931111
+                  ]
+            },
+            {
+                  "name": "Qasr al Madune",
+                  "text": "Die Überreste einer Steinfestung, die als Verteidigungsaußenposten in der östlichen Wüste diente.",
+                  "category": "historical",
+                  "coords": [
+                        36.095356,
+                        31.913638
+                  ]
+            },
+            {
+                  "name": "Iskander",
+                  "text": "Eine wichtige Siedlungsstätte aus der frühen Bronzezeit, bekannt für ihre alten Befestigungen und Steinstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        31.883333
+                  ]
+            },
+            {
+                  "name": "Ahl Al Kahf",
+                  "text": "Ein verehrter Höhlen- und Moscheekomplex, der als Ruhestätte der legendären Sieben Schläfer gilt.",
+                  "category": "historical",
+                  "coords": [
+                        35.973258,
+                        31.899898
+                  ]
+            },
+            {
+                  "name": "Al Khushshafiyah",
+                  "text": "Diese verwitterten Steinruinen markieren die Stelle einer alten ländlichen Siedlung auf dem jordanischen Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Alandah",
+                  "text": "Ez a régészeti lelőhely egy ősi település romjait mutatja be egy sivatagra néző dombon.",
+                  "category": "historical",
+                  "coords": [
+                        36.059167,
+                        31.931111
+                  ]
+            },
+            {
+                  "name": "Qasr al Madune",
+                  "text": "Egy kőerődítmény maradványai, amely védelmi őrhelyként szolgált a keleti sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        36.095356,
+                        31.913638
+                  ]
+            },
+            {
+                  "name": "Iskander",
+                  "text": "Fontos kora bronzkori település, amely ősi erődítményeiről és kőszerkezeteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        31.883333
+                  ]
+            },
+            {
+                  "name": "Ahl Al Kahf",
+                  "text": "Tisztelt barlang- és mecsetkomplexum, amely a legenda szerint a hét alvó nyughelye.",
+                  "category": "historical",
+                  "coords": [
+                        35.973258,
+                        31.899898
+                  ]
+            },
+            {
+                  "name": "Al Khushshafiyah",
+                  "text": "Ezek az időjárás viszontagságaitól megkopott kőromok egy ősi vidéki település helyét jelzik a jordániai fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Alandah",
+                  "text": "Acest sit arheologic prezintă ruinele unei așezări antice pe un deal cu vedere la deșert.",
+                  "category": "historical",
+                  "coords": [
+                        36.059167,
+                        31.931111
+                  ]
+            },
+            {
+                  "name": "Qasr al Madune",
+                  "text": "Rămășițele unei fortificații de piatră care a servit drept post de apărare în deșertul de est.",
+                  "category": "historical",
+                  "coords": [
+                        36.095356,
+                        31.913638
+                  ]
+            },
+            {
+                  "name": "Iskander",
+                  "text": "Un sit important de așezare din Epoca Timpurie a Bronzului, cunoscut pentru fortificațiile sale vechi și structurile de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        31.883333
+                  ]
+            },
+            {
+                  "name": "Ahl Al Kahf",
+                  "text": "Un complex venerat de peșteră și moschee, considerat a fi locul de odihnă al legendarilor Șapte Tineri din Efes.",
+                  "category": "historical",
+                  "coords": [
+                        35.973258,
+                        31.899898
+                  ]
+            },
+            {
+                  "name": "Al Khushshafiyah",
+                  "text": "Aceste ruine de piatră erodate marchează locul unei vechi așezări rurale pe platoul iordanian.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Alandah",
+                  "text": "This archaeological site features the ruins of an ancient settlement on a hill overlooking the desert.",
+                  "category": "historical",
+                  "coords": [
+                        36.059167,
+                        31.931111
+                  ]
+            },
+            {
+                  "name": "Qasr al Madune",
+                  "text": "The remnants of a stone fortification that served as a defensive outpost in the eastern desert.",
+                  "category": "historical",
+                  "coords": [
+                        36.095356,
+                        31.913638
+                  ]
+            },
+            {
+                  "name": "Iskander",
+                  "text": "An important Early Bronze Age settlement site known for its ancient fortifications and stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        35.966667,
+                        31.883333
+                  ]
+            },
+            {
+                  "name": "Ahl Al Kahf",
+                  "text": "A revered cave and mosque complex believed to be the resting place of the legendary Seven Sleepers.",
+                  "category": "historical",
+                  "coords": [
+                        35.973258,
+                        31.899898
+                  ]
+            },
+            {
+                  "name": "Al Khushshafiyah",
+                  "text": "These weathered stone ruins mark the site of an ancient rural settlement on the Jordanian plateau.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JO-AM",
     coords: [36.0094, 31.8681],
@@ -399,7 +3360,448 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "aqaba-special-economic-zone-economic-v2",
+    id: "aqaba-special-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Akhdar",
+                  "text": "Ein Granitgipfel bei Akaba, der einen weiten Blick über den Hafen und die umliegende Gebirgslandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.051111,
+                        29.546667
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "Diese zentrale Grünanlage in Akaba bietet einen schattigen Rückzugsort inmitten des geschäftigen Stadtzentrums.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Ein Wanderweg, der durch die Landschaften von Akaba führt und Einblicke in das lokale Erbe bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "Ein erhöhter Aussichtspunkt, der ein Panorama über den Golf von Akaba und die umliegenden Wüstenberge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "Ein lokales Theater, das als Veranstaltungsort für kulturelle Aufführungen und Gemeinschaftsevents dient.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "Ein moderner Wasserpark an der Küste des Roten Meeres mit zahlreichen Rutschen und Erlebnisbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        34.99297,
+                        29.541568
+                  ]
+            },
+            {
+                  "name": "Umayyad Gate",
+                  "text": "Die Überreste eines Tores der antiken islamischen Stadt Ayla, das auf das 7. Jahrhundert zurückgeht.",
+                  "category": "historical",
+                  "coords": [
+                        34.998612,
+                        29.533577
+                  ]
+            },
+            {
+                  "name": "Amer Abo Obeida",
+                  "text": "Eine lokale Moschee mit traditionellem Minarett, die der muslimischen Gemeinde als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.0104,
+                        29.542963
+                  ]
+            },
+            {
+                  "name": "Al-Ehsan Mosque",
+                  "text": "Diese Stadtviertel-Moschee in Akaba ist ein wichtiger Ort für die täglichen Gebete der Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036598,
+                        29.548603
+                  ]
+            },
+            {
+                  "name": "Sa'ad Ben Mouath Mousq",
+                  "text": "Eine muslimische Gebetsstätte in einem Wohngebiet von Akaba, die der örtlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.014607,
+                        29.545641
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche",
+                  "text": "Eine moderne christliche Kirche, die die katholische Gemeinde in der Küstenstadt betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007057,
+                        29.526242
+                  ]
+            },
+            {
+                  "name": "Big Label 3",
+                  "text": "Ein lokaler Marktstand oder Laden inmitten des lebhaften Handelsviertels von Akaba.",
+                  "category": "cultural",
+                  "coords": [
+                        35.006861,
+                        29.53914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal al Akhdar",
+                  "text": "Egy Akaba melletti gránitcsúcs, amely széles kilátást nyújt a kikötőre és a környező hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        35.051111,
+                        29.546667
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "Ez a központi zöldterület Ákabában árnyas pihenőhelyet kínál a nyüzsgő városközpont közepén.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Egy túraútvonal, amely Ákaba tájain vezet keresztül, betekintést nyújtva a helyi örökségbe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "Egy magaslati kilátópont, amely panorámát nyújt az Ákabai-öbölre és a környező sivatagi hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "Egy helyi színház, amely kulturális előadások és közösségi események helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "Egy modern vízi park a Vörös-tenger partján, számos csúszdával és élménymedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        34.99297,
+                        29.541568
+                  ]
+            },
+            {
+                  "name": "Umayyad Gate",
+                  "text": "Ayla ősi iszlám városának kapumaradványai, amelyek a 7. századból származnak.",
+                  "category": "historical",
+                  "coords": [
+                        34.998612,
+                        29.533577
+                  ]
+            },
+            {
+                  "name": "Amer Abo Obeida",
+                  "text": "Egy hagyományos minarettel rendelkező helyi mecset, amely az iszlám közösség imádsági helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.0104,
+                        29.542963
+                  ]
+            },
+            {
+                  "name": "Al-Ehsan Mosque",
+                  "text": "Ez az ákabai lakónegyedben található mecset a helyi lakosok napi imádságainak fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036598,
+                        29.548603
+                  ]
+            },
+            {
+                  "name": "Sa'ad Ben Mouath Mousq",
+                  "text": "Egy muszlim imaház Ákaba egyik lakóövezetében, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.014607,
+                        29.545641
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Egy modern keresztény templom, amely a tengerparti város katolikus közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007057,
+                        29.526242
+                  ]
+            },
+            {
+                  "name": "Big Label 3",
+                  "text": "Egy helyi piaci árusítóhely vagy üzlet Ákaba élénk kereskedelmi negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        35.006861,
+                        29.53914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal al Akhdar",
+                  "text": "Un vârf de granit de lângă Aqaba, oferind o vedere panoramică asupra portului și a peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        35.051111,
+                        29.546667
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "Această zonă verde centrală din Aqaba oferă un refugiu umbrit în mijlocul centrului aglomerat al orașului.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Un traseu de drumeție care traversează peisajele din Aqaba, oferind perspective asupra moștenirii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "Un punct de observare ridicat care oferă o panoramă asupra Golfului Aqaba și a munților deșertici din jur.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "Un teatru local care servește drept loc de desfășurare pentru spectacole culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "Un parc acvatic modern pe coasta Mării Roșii, dotat cu numeroase tobogane și bazine cu valuri.",
+                  "category": "recreational",
+                  "coords": [
+                        34.99297,
+                        29.541568
+                  ]
+            },
+            {
+                  "name": "Umayyad Gate",
+                  "text": "Rămășițele unei porți din vechiul oraș islamic Ayla, care datează din secolul al VII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        34.998612,
+                        29.533577
+                  ]
+            },
+            {
+                  "name": "Amer Abo Obeida",
+                  "text": "O moschee locală cu un minaret tradițional, servind drept loc de rugăciune pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.0104,
+                        29.542963
+                  ]
+            },
+            {
+                  "name": "Al-Ehsan Mosque",
+                  "text": "Această moschee de cartier din Aqaba este un loc important pentru rugăciunile zilnice ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036598,
+                        29.548603
+                  ]
+            },
+            {
+                  "name": "Sa'ad Ben Mouath Mousq",
+                  "text": "Un lăcaș de rugăciune musulman situat într-o zonă rezidențială din Aqaba, deservind comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.014607,
+                        29.545641
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "O biserică creștină modernă care deservește comunitatea catolică din orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007057,
+                        29.526242
+                  ]
+            },
+            {
+                  "name": "Big Label 3",
+                  "text": "Un stand de piață local sau un magazin în mijlocul cartierului comercial plin de viață din Aqaba.",
+                  "category": "cultural",
+                  "coords": [
+                        35.006861,
+                        29.53914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Akhdar",
+                  "text": "A granite peak near Aqaba providing sweeping views overlooking the port and the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        35.051111,
+                        29.546667
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "This central green space in Aqaba offers a shaded retreat amidst the bustling city center.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "A hiking trail that traverses the landscapes of Aqaba, offering insights into the local heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "An elevated vantage point providing a panorama over the Gulf of Aqaba and the surrounding desert mountains.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "A local theatre that serves as a venue for cultural performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "A modern water park on the Red Sea coast featuring numerous slides and adventure pools.",
+                  "category": "recreational",
+                  "coords": [
+                        34.99297,
+                        29.541568
+                  ]
+            },
+            {
+                  "name": "Umayyad Gate",
+                  "text": "The remains of a gate from the ancient Islamic city of Ayla, dating back to the 7th century.",
+                  "category": "historical",
+                  "coords": [
+                        34.998612,
+                        29.533577
+                  ]
+            },
+            {
+                  "name": "Amer Abo Obeida",
+                  "text": "A local mosque with a traditional minaret, serving as a place of prayer for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.0104,
+                        29.542963
+                  ]
+            },
+            {
+                  "name": "Al-Ehsan Mosque",
+                  "text": "This neighborhood mosque in Aqaba is an important site for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036598,
+                        29.548603
+                  ]
+            },
+            {
+                  "name": "Sa'ad Ben Mouath Mousq",
+                  "text": "A Muslim place of worship located in a residential area of Aqaba, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.014607,
+                        29.545641
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "A modern Christian church serving the Catholic community in the coastal city.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007057,
+                        29.526242
+                  ]
+            },
+            {
+                  "name": "Big Label 3",
+                  "text": "A local market stall or shop in the midst of Aqaba's lively commercial district.",
+                  "category": "cultural",
+                  "coords": [
+                        35.006861,
+                        29.53914
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "JO-AQ",
     coords: [35.0116, 29.5319],
@@ -471,7 +3873,52 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "samra-electric-power-plant-economic-v2",
+    id: "samra-electric-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbet as-Samra",
+                  "text": "Die archäologische Stätte Khirbet as-Samra birgt Reste frühchristlicher Kirchen und antiker Friedhöfe aus der byzantinischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        36.162239,
+                        32.180414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbet as-Samra",
+                  "text": "A Khirbet as-Samra régészeti lelőhely ókeresztény templomok és ősi temetők maradványait őrzi a bizánci korból.",
+                  "category": "historical",
+                  "coords": [
+                        36.162239,
+                        32.180414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbet as-Samra",
+                  "text": "Situl arheologic Khirbet as-Samra adăpostește rămășițele unor biserici creștine timpurii și cimitire antice din perioada bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        36.162239,
+                        32.180414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbet as-Samra",
+                  "text": "The archaeological site of Khirbet as-Samra contains the remains of early Christian churches and ancient cemeteries from the Byzantine period.",
+                  "category": "historical",
+                  "coords": [
+                        36.162239,
+                        32.180414
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "JO-AZ",
     coords: [36.1517, 32.1481],
@@ -543,7 +3990,88 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "al-hasa-phosphate-mine-economic-v2",
+    id: "al-hasa-phosphate-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Hasa Castle",
+                  "text": "Diese Wüstenburg aus der osmanischen Ära wurde erbaut, um die Pilgerroute durch die Region Südjordanien zu schützen.",
+                  "category": "castle",
+                  "coords": [
+                        35.934017,
+                        30.839048
+                  ]
+            },
+            {
+                  "name": "Er-Ruweihi",
+                  "text": "Auf einem Hügel thronend, bietet diese archäologische Stätte Überreste aus nabatäischer und römischer Zeit mit Blick auf das Wadi al-Hasa.",
+                  "category": "historical",
+                  "coords": [
+                        35.919469,
+                        30.85155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Hasa Castle",
+                  "text": "Ezt az oszmán-kori sivatagi várat a dél-jordániai régión áthaladó zarándokút védelmére építették.",
+                  "category": "castle",
+                  "coords": [
+                        35.934017,
+                        30.839048
+                  ]
+            },
+            {
+                  "name": "Er-Ruweihi",
+                  "text": "Egy dombtetőn elhelyezkedő régészeti lelőhely, amely nabateus és római kori maradványokat őriz a Wadi al-Hasa felett.",
+                  "category": "historical",
+                  "coords": [
+                        35.919469,
+                        30.85155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Hasa Castle",
+                  "text": "Acest castel de deșert din epoca otomană a fost construit pentru a proteja ruta de pelerinaj prin regiunea de sud a Iordaniei.",
+                  "category": "castle",
+                  "coords": [
+                        35.934017,
+                        30.839048
+                  ]
+            },
+            {
+                  "name": "Er-Ruweihi",
+                  "text": "Cocoțat pe un deal, acest sit arheologic prezintă vestigii din perioadele nabateeană și romană, cu vedere la Wadi al-Hasa.",
+                  "category": "historical",
+                  "coords": [
+                        35.919469,
+                        30.85155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Hasa Castle",
+                  "text": "This Ottoman-era desert castle was built to protect the pilgrimage route through the southern Jordan region.",
+                  "category": "castle",
+                  "coords": [
+                        35.934017,
+                        30.839048
+                  ]
+            },
+            {
+                  "name": "Er-Ruweihi",
+                  "text": "Perched on a hill, this archaeological site features remains from the Nabataean and Roman periods overlooking the Wadi al-Hasa.",
+                  "category": "historical",
+                  "coords": [
+                        35.919469,
+                        30.85155
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "JO-TA",
     coords: [35.9725, 30.8258],
@@ -615,7 +4143,52 @@ export const poiExtraJordanEconomicV2: POI[] = [
     },
   },
   {
-    id: "aqaba-new-port-economic-v2",
+    id: "aqaba-new-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Lujain Desert Bikes (Quad tours)",
+                  "text": "Abenteurer können hier Geländefahrzeuge mieten, um die zerklüfteten Wüstendünen zu erkunden, die sich von der Küste ins Landesinnere erstrecken.",
+                  "category": "landmark",
+                  "coords": [
+                        34.981351,
+                        29.427167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Lujain Desert Bikes (Quad tours)",
+                  "text": "A kalandvágyók terepjárókat bérelhetnek itt, hogy felfedezzék a parttól a szárazföld belseje felé nyúló zord sivatagi dűnéket.",
+                  "category": "landmark",
+                  "coords": [
+                        34.981351,
+                        29.427167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Lujain Desert Bikes (Quad tours)",
+                  "text": "Aventurierii pot închiria aici vehicule de teren pentru a explora dunele accidentate de deșert care se întind de la coastă spre interior.",
+                  "category": "landmark",
+                  "coords": [
+                        34.981351,
+                        29.427167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Lujain Desert Bikes (Quad tours)",
+                  "text": "Adventurers can rent all-terrain vehicles here to explore the rugged desert dunes stretching inland from the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        34.981351,
+                        29.427167
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "JO-AQ",
     coords: [34.9786, 29.4311],

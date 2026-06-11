@@ -7,7 +7,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "San Jacinto State Park",
-                  "text": "San Jacinto State Park ist ein State Park entlang des Houston Ship Channel.",
+                  "text": "Ein State Park am Ort der Schlacht von San Jacinto am Houston Ship Channel.",
                   "category": "park",
                   "coords": [
                         -95.079188,
@@ -16,7 +16,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tracey's Theatre",
-                  "text": "Tracey's Theatre ist ein Theater im Gebiet des Houston Ship Channel.",
+                  "text": "Historisches Theater am Houston Ship Channel in Ship Channel.",
                   "category": "cultural",
                   "coords": [
                         -95.055272,
@@ -25,7 +25,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "N C Foote Park",
-                  "text": "N C Foote Park ist ein Park im Gebiet des Houston Ship Channel.",
+                  "text": "Ein nach N.C. Foote benannter Park im Ship Channel.",
                   "category": "park",
                   "coords": [
                         -94.993817,
@@ -34,7 +34,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Historical Museum",
-                  "text": "Baytown Historical Museum ist ein Museum in Baytown im Gebiet des Houston Ship Channel.",
+                  "text": "Museum zur Geschichte von Baytown am Houston Ship Channel in Ship Channel.",
                   "category": "museum",
                   "coords": [
                         -94.969937,
@@ -79,7 +79,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Fairmont Park",
-                  "text": "Fairmont Park ist ein Park im Gebiet des Houston Ship Channel.",
+                  "text": "Ein Park im Fairmont-Gebiet des Ship Channel.",
                   "category": "park",
                   "coords": [
                         -95.074302,
@@ -97,7 +97,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Nature Center",
-                  "text": "Baytown Nature Center ist ein Naturschutzgebiet in Baytown im Gebiet des Houston Ship Channel.",
+                  "text": "Ein Naturschutzgebiet am Ufer der Galveston Bay im Ship Channel.",
                   "category": "natural",
                   "coords": [
                         -95.045429,
@@ -171,7 +171,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "San Jacinto State Park",
-                  "text": "A San Jacinto State Park egy állami park a Houston Ship Channel mentén.",
+                  "text": "Állami park a San Jacinto-i csata helyszínén, a Houston Ship Channel mellett.",
                   "category": "park",
                   "coords": [
                         -95.079188,
@@ -180,7 +180,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tracey's Theatre",
-                  "text": "A Tracey's Theatre egy színház a Houston Ship Channel térségében.",
+                  "text": "Történelmi színház a Houston hajócsatornánál, Ship Channelben.",
                   "category": "cultural",
                   "coords": [
                         -95.055272,
@@ -189,7 +189,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "N C Foote Park",
-                  "text": "Az N C Foote Park egy park a Houston Ship Channel térségében.",
+                  "text": "Egy N.C. Foote-ról elnevezett park a Ship Channelben.",
                   "category": "park",
                   "coords": [
                         -94.993817,
@@ -198,7 +198,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Historical Museum",
-                  "text": "A Baytown Historical Museum egy múzeum Baytownban, a Houston Ship Channel térségében.",
+                  "text": "Baytown történetét bemutató múzeum a Houston hajócsatornánál, Ship Channelben.",
                   "category": "museum",
                   "coords": [
                         -94.969937,
@@ -243,7 +243,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Fairmont Park",
-                  "text": "A Fairmont Park egy park a Houston Ship Channel térségében.",
+                  "text": "Egy park a Fairmont területen a Ship Channelben.",
                   "category": "park",
                   "coords": [
                         -95.074302,
@@ -261,7 +261,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Nature Center",
-                  "text": "A Baytown Nature Center egy természetvédelmi terület Baytownban, a Houston Ship Channel térségében.",
+                  "text": "Egy természetvédelmi terület a Galveston-öböl partján a Ship Channelben.",
                   "category": "natural",
                   "coords": [
                         -95.045429,
@@ -335,7 +335,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "San Jacinto State Park",
-                  "text": "San Jacinto State Park este un parc de stat de-a lungul Canalului de Navigație Houston.",
+                  "text": "Un parc de stat pe locul Bătăliei de la San Jacinto, pe Canalul Houston Ship.",
                   "category": "park",
                   "coords": [
                         -95.079188,
@@ -344,7 +344,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tracey's Theatre",
-                  "text": "Tracey's Theatre este un teatru în zona Canalului de Navigație Houston.",
+                  "text": "Teatru istoric pe Canalul Maritim Houston în Ship Channel.",
                   "category": "cultural",
                   "coords": [
                         -95.055272,
@@ -353,7 +353,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "N C Foote Park",
-                  "text": "N C Foote Park este un parc în zona Canalului de Navigație Houston.",
+                  "text": "Un parc numit după N.C. Foote în Ship Channel.",
                   "category": "park",
                   "coords": [
                         -94.993817,
@@ -362,7 +362,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Historical Museum",
-                  "text": "Baytown Historical Museum este un muzeu în Baytown, în zona Canalului de Navigație Houston.",
+                  "text": "Muzeu dedicat istoriei Baytown pe Canalul Maritim Houston în Ship Channel.",
                   "category": "museum",
                   "coords": [
                         -94.969937,
@@ -407,7 +407,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Fairmont Park",
-                  "text": "Fairmont Park este un parc în zona Canalului de Navigație Houston.",
+                  "text": "Un parc în zona Fairmont din Ship Channel.",
                   "category": "park",
                   "coords": [
                         -95.074302,
@@ -425,7 +425,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Nature Center",
-                  "text": "Baytown Nature Center este o rezervație naturală în Baytown, în zona Canalului de Navigație Houston.",
+                  "text": "O rezervație naturală pe malul Golfului Galveston în Ship Channel.",
                   "category": "natural",
                   "coords": [
                         -95.045429,
@@ -499,7 +499,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "San Jacinto State Park",
-                  "text": "San Jacinto State Park is a state park along the Houston Ship Channel.",
+                  "text": "A state park on the site of the Battle of San Jacinto, on the Houston Ship Channel.",
                   "category": "park",
                   "coords": [
                         -95.079188,
@@ -508,7 +508,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tracey's Theatre",
-                  "text": "Tracey's Theatre is a theatre in the Houston Ship Channel area.",
+                  "text": "Historic theatre on the Houston Ship Channel in Ship Channel.",
                   "category": "cultural",
                   "coords": [
                         -95.055272,
@@ -517,7 +517,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "N C Foote Park",
-                  "text": "N C Foote Park is a park in the Houston Ship Channel area.",
+                  "text": "A park named after N.C. Foote in Ship Channel.",
                   "category": "park",
                   "coords": [
                         -94.993817,
@@ -526,7 +526,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Historical Museum",
-                  "text": "Baytown Historical Museum is a museum in Baytown in the Houston Ship Channel area.",
+                  "text": "Museum documenting Baytown's history on the Houston Ship Channel in Ship Channel.",
                   "category": "museum",
                   "coords": [
                         -94.969937,
@@ -571,7 +571,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Fairmont Park",
-                  "text": "Fairmont Park is a park in the Houston Ship Channel area.",
+                  "text": "A park in the Fairmont area of Ship Channel.",
                   "category": "park",
                   "coords": [
                         -95.074302,
@@ -589,7 +589,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baytown Nature Center",
-                  "text": "Baytown Nature Center is a nature reserve in Baytown in the Houston Ship Channel area.",
+                  "text": "A nature preserve on the shore of Galveston Bay in Ship Channel.",
                   "category": "natural",
                   "coords": [
                         -95.045429,
@@ -699,7 +699,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "1811 Kid Ory Historic House",
-                  "text": "1811 Kid Ory Historic House ist ein historisches Wohnhausmuseum in port-of-south-louisiana-economic-v2.",
+                  "text": "Historisches Wohnhaus des Jazzmusikers Kid Ory in Of South Louisiana.",
                   "category": "museum",
                   "coords": [
                         -90.48279,
@@ -710,7 +710,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "1811 Kid Ory Historic House",
-                  "text": "1811 Kid Ory Historic House egy történelmi házmúzeum port-of-south-louisiana-economic-v2-ben.",
+                  "text": "Kid Ory jazzzenész történelmi háza Of South Louisianában.",
                   "category": "museum",
                   "coords": [
                         -90.48279,
@@ -721,7 +721,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "1811 Kid Ory Historic House",
-                  "text": "1811 Kid Ory Historic House este un muzeu al casei istorice în port-of-south-louisiana-economic-v2.",
+                  "text": "Casă istorică a muzicianului de jazz Kid Ory în Of South Louisiana.",
                   "category": "museum",
                   "coords": [
                         -90.48279,
@@ -732,7 +732,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "1811 Kid Ory Historic House",
-                  "text": "1811 Kid Ory Historic House is a historic house museum in port-of-south-louisiana-economic-v2.",
+                  "text": "Historic house museum of jazz musician Kid Ory in Of South Louisiana.",
                   "category": "museum",
                   "coords": [
                         -90.48279,
@@ -789,7 +789,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Second Samoan Church, (historic)",
-                  "text": "Second Samoan Church (historisch) ist ein historisches Kirchengebäude in Long Beach, Kalifornien.",
+                  "text": "Historische Kirche der Christlichen Wissenschaft in Long Beach, Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -118.195452,
@@ -798,7 +798,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Light",
-                  "text": "Long Beach Light ist ein Leuchtturm in Long Beach, Kalifornien.",
+                  "text": "Leuchtturm an der Hafeneinfahrt von Long Beach, führt Schiffe.",
                   "category": "landmark",
                   "coords": [
                         -118.186879,
@@ -807,7 +807,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lions Lighthouse",
-                  "text": "Lions Lighthouse ist ein Leuchtturm in Long Beach, Kalifornien.",
+                  "text": "Replika-Leuchtturm, erbaut von den Lions Clubs, in Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.194107,
@@ -897,7 +897,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Museum of Art",
-                  "text": "Das Long Beach Museum of Art ist ein Kunstmuseum in Long Beach.",
+                  "text": "Ein Kunstmuseum mit Blick auf den Pazifischen Ozean in Long Beach.",
                   "category": "museum",
                   "coords": [
                         -118.16478,
@@ -906,7 +906,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warner Grand Theater",
-                  "text": "Das Warner Grand Theater ist ein historisches Theater in Long Beach.",
+                  "text": "Ein historischer Art-Deco-Filmpalast im Stadtzentrum von Long Beach.",
                   "category": "cultural",
                   "coords": [
                         -118.287392,
@@ -915,7 +915,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Saint Peters Episcopal Church",
-                  "text": "Die Old Saint Peters Episcopal Church ist ein historisches Kirchengebäude in Long Beach.",
+                  "text": "Eine historische episkopale Kirche nahe dem Meer in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.289509,
@@ -924,7 +924,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Star of the Sea Catholic Church",
-                  "text": "Die Mary Star of the Sea Catholic Church ist eine katholische Kirche in Long Beach.",
+                  "text": "Eine historische katholische Kirche in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.296473,
@@ -933,7 +933,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "Die First Church of Christ Scientist ist eine Kirche der Christlichen Wissenschaft in Long Beach.",
+                  "text": "1913 erbautes Kirchengebäude der Christlichen Wissenschaft in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.187296,
@@ -942,7 +942,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "St Lukes Episcopal Church",
-                  "text": "Die St Lukes Episcopal Church ist eine episkopale Kirche in Long Beach.",
+                  "text": "Eine historische episkopale Kirche in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.185468,
@@ -951,7 +951,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alamitos Bay",
-                  "text": "Alamitos Bay ist eine Bucht in Long Beach.",
+                  "text": "Eine natürliche Bucht in Long Beach mit Stränden und einem Yachthafen.",
                   "category": "landmark",
                   "coords": [
                         -118.11812,
@@ -960,7 +960,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Outer Harbor",
-                  "text": "Der Outer Harbor ist ein Hafenbereich in Long Beach.",
+                  "text": "Teil des Hafens von Long Beach, einem der verkehrsreichsten Containerhäfen der Welt.",
                   "category": "landmark",
                   "coords": [
                         -118.193679,
@@ -969,7 +969,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Pedro Bay",
-                  "text": "Die San Pedro Bay ist eine Bucht nahe Long Beach.",
+                  "text": "Eine große Bucht, die den Hafen von Los Angeles und Long Beach bildet.",
                   "category": "landmark",
                   "coords": [
                         -118.200902,
@@ -978,7 +978,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Bay",
-                  "text": "Queensway Bay ist eine Bucht in Long Beach.",
+                  "text": "Eine kleine Bucht nahe dem Long Beach Convention Center.",
                   "category": "landmark",
                   "coords": [
                         -118.196735,
@@ -987,7 +987,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Middle Harbor",
-                  "text": "Der Long Beach Middle Harbor ist ein Hafenbereich in Long Beach.",
+                  "text": "Ein Abschnitt des Hafens von Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.222847,
@@ -996,7 +996,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Los Angeles Harbor",
-                  "text": "Der Los Angeles Harbor ist ein großer Hafen in Long Beach.",
+                  "text": "Der kombinierte Hafen von Los Angeles und Long Beach, ein bedeutender Containerhafen.",
                   "category": "landmark",
                   "coords": [
                         -118.267571,
@@ -1005,7 +1005,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Inner Harbor",
-                  "text": "Der Inner Harbor ist ein Hafenbereich in Long Beach.",
+                  "text": "Ein geschützter Hafenbereich innerhalb des Hafens von Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.223403,
@@ -1014,7 +1014,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Twin Bridges",
-                  "text": "Die Queensway Twin Bridges sind Zwillingsbrücken in Long Beach.",
+                  "text": "Zwillingsbrücken der Queensway über einen Kanal in Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.199384,
@@ -1023,7 +1023,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Battleship USS Iowa",
-                  "text": "Das Schlachtschiff USS Iowa ist ein Museumsschiff im Hafen von Long Beach.",
+                  "text": "Das historische Schlachtschiff USS Iowa der Iowa-Klasse, das im Zweiten Weltkrieg und in Korea diente, ist heute ein Museum in Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.277275,
@@ -1032,7 +1032,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Santa Cruz Park",
-                  "text": "Der Santa Cruz Park ist ein Park in Long Beach.",
+                  "text": "Ein Gemeinschaftspark in Long Beach mit Spielplätzen, Sportplätzen und Picknickbereichen.",
                   "category": "park",
                   "coords": [
                         -118.202291,
@@ -1041,7 +1041,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cabrillo Beach Park",
-                  "text": "Der Cabrillo Beach Park ist ein Park am Cabrillo Beach in Long Beach.",
+                  "text": "Ein Küstenpark in Long Beach, benannt nach dem Entdecker Juan Rodríguez Cabrillo, mit Meerblick und Strandzugang.",
                   "category": "park",
                   "coords": [
                         -118.283494,
@@ -1050,7 +1050,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "California Recreation Center",
-                  "text": "Das California Recreation Center ist ein Erholungszentrum und Park in Long Beach.",
+                  "text": "Ein öffentlicher Park in Long Beach mit einem Freizeitzentrum, das Basketballplätze und ein Fitnessstudio bietet.",
                   "category": "park",
                   "coords": [
                         -118.180624,
@@ -1059,7 +1059,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bayshore Park",
-                  "text": "Der Bayshore Park ist ein Park in Long Beach.",
+                  "text": "Ein Uferpark an der Alamitos Bay in Long Beach mit Spielplatz, Bootsrampe und Picknicktischen.",
                   "category": "park",
                   "coords": [
                         -118.131595,
@@ -1068,7 +1068,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alma Park",
-                  "text": "Der Alma Park ist ein Park in Long Beach.",
+                  "text": "Ein kleiner Nachbarschaftspark in Long Beach mit Spielplatz und schattigen Bänken.",
                   "category": "park",
                   "coords": [
                         -118.297556,
@@ -1077,7 +1077,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Douglas MacArthur Park",
-                  "text": "Der Douglas MacArthur Park ist ein Park in Long Beach.",
+                  "text": "Ein Park in Long Beach, der General Douglas MacArthur gewidmet ist, mit einem Gedenkplatz und weitläufigen Rasenflächen.",
                   "category": "park",
                   "coords": [
                         -118.174726,
@@ -1086,7 +1086,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Marina Community Park",
-                  "text": "Der Marina Community Park ist ein Park in Long Beach.",
+                  "text": "Ein Park im Marina-Viertel von Long Beach mit einem Gemeindezentrum, Tennisplätzen und einem See.",
                   "category": "park",
                   "coords": [
                         -118.110055,
@@ -1095,7 +1095,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Naples Plaza",
-                  "text": "Die Naples Plaza ist ein Park in Long Beach.",
+                  "text": "Ein kleiner Park auf Naples Island in Long Beach mit einem Pavillon und Blick auf die Kanäle.",
                   "category": "park",
                   "coords": [
                         -118.123659,
@@ -1104,7 +1104,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bluff Park",
-                  "text": "Der Bluff Park ist ein Park entlang einer Klippe in Long Beach.",
+                  "text": "Ein Küstenpark auf einer Klippe mit Blick auf den Pazifischen Ozean in Long Beach, mit Spazierwegen und Aussichtspunkten.",
                   "category": "park",
                   "coords": [
                         -118.161347,
@@ -1113,7 +1113,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bixby Park",
-                  "text": "Der Bixby Park ist ein Park in Long Beach.",
+                  "text": "Ein historischer Park in Long Beach mit einem Musikpavillon, Tennisplätzen und einem wöchentlichen Bauernmarkt.",
                   "category": "park",
                   "coords": [
                         -118.167186,
@@ -1122,7 +1122,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoreline Aquatic Park",
-                  "text": "Der Shoreline Aquatic Park ist ein Wasserpark in Long Beach.",
+                  "text": "Ein Uferpark entlang der Küste von Long Beach mit einem Yachthafen, Grünflächen und einem Angelsteg.",
                   "category": "park",
                   "coords": [
                         -118.195504,
@@ -1131,7 +1131,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Victory Park",
-                  "text": "Der Victory Park ist ein Park in Long Beach.",
+                  "text": "Ein großer Park in Long Beach mit einem 18-Loch-Golfplatz, Tennisplätzen und einem See.",
                   "category": "park",
                   "coords": [
                         -118.186266,
@@ -1151,7 +1151,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Second Samoan Church, (historic)",
-                  "text": "A Second Samoan Church (történelmi) egy történelmi templomépület Long Beachben, Kaliforniában.",
+                  "text": "Történelmi Keresztény Tudomány templom Long Beachben, Kaliforniában.",
                   "category": "religious",
                   "coords": [
                         -118.195452,
@@ -1160,7 +1160,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Light",
-                  "text": "A Long Beach Light egy világítótorony Long Beachben, Kaliforniában.",
+                  "text": "Világítótorony a Long Beach-i kikötő bejáratánál, hajókat vezet.",
                   "category": "landmark",
                   "coords": [
                         -118.186879,
@@ -1169,7 +1169,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lions Lighthouse",
-                  "text": "A Lions Lighthouse egy világítótorony Long Beachben, Kaliforniában.",
+                  "text": "Lions Clubok által épített replika világítótorony Long Beachben.",
                   "category": "landmark",
                   "coords": [
                         -118.194107,
@@ -1259,7 +1259,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Museum of Art",
-                  "text": "A Long Beach Museum of Art egy művészeti múzeum Long Beachben.",
+                  "text": "Művészeti múzeum a Csendes-óceánra néző kilátással Long Beachben.",
                   "category": "museum",
                   "coords": [
                         -118.16478,
@@ -1268,7 +1268,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warner Grand Theater",
-                  "text": "A Warner Grand Theater egy történelmi színház Long Beachben.",
+                  "text": "Történelmi art deco mozipalota Long Beach belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -118.287392,
@@ -1277,7 +1277,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Saint Peters Episcopal Church",
-                  "text": "Az Old Saint Peters Episcopal Church egy történelmi templomépület Long Beachben.",
+                  "text": "Történelmi episzkopális templom az óceán közelében Long Beachben.",
                   "category": "religious",
                   "coords": [
                         -118.289509,
@@ -1286,7 +1286,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Star of the Sea Catholic Church",
-                  "text": "A Mary Star of the Sea Catholic Church egy katolikus templom Long Beachben.",
+                  "text": "Történelmi katolikus templom Long Beachben.",
                   "category": "religious",
                   "coords": [
                         -118.296473,
@@ -1295,7 +1295,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "A First Church of Christ Scientist egy Keresztény Tudomány templom Long Beachben.",
+                  "text": "1913-ban épült Keresztény Tudomány templom Long Beachben.",
                   "category": "religious",
                   "coords": [
                         -118.187296,
@@ -1304,7 +1304,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "St Lukes Episcopal Church",
-                  "text": "A St Lukes Episcopal Church egy episzkopális templom Long Beachben.",
+                  "text": "Történelmi episzkopális templom Long Beachben.",
                   "category": "religious",
                   "coords": [
                         -118.185468,
@@ -1313,7 +1313,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alamitos Bay",
-                  "text": "Az Alamitos Bay egy öböl Long Beachben.",
+                  "text": "Természetes öböl Long Beachben, strandokkal és kikötővel.",
                   "category": "landmark",
                   "coords": [
                         -118.11812,
@@ -1322,7 +1322,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Outer Harbor",
-                  "text": "Az Outer Harbor egy kikötői terület Long Beachben.",
+                  "text": "A Long Beach-i kikötő része, a világ egyik legforgalmasabb konténerkikötője.",
                   "category": "landmark",
                   "coords": [
                         -118.193679,
@@ -1331,7 +1331,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Pedro Bay",
-                  "text": "A San Pedro Bay egy öböl Long Beach közelében.",
+                  "text": "Nagy öböl, amely Los Angeles és Long Beach kikötőjét alkotja.",
                   "category": "landmark",
                   "coords": [
                         -118.200902,
@@ -1340,7 +1340,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Bay",
-                  "text": "A Queensway Bay egy öböl Long Beachben.",
+                  "text": "Kis öböl a Long Beach-i Kongresszusi Központ közelében.",
                   "category": "landmark",
                   "coords": [
                         -118.196735,
@@ -1349,7 +1349,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Middle Harbor",
-                  "text": "A Long Beach Middle Harbor egy kikötői terület Long Beachben.",
+                  "text": "A Long Beach-i kikötő egy része.",
                   "category": "landmark",
                   "coords": [
                         -118.222847,
@@ -1358,7 +1358,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Los Angeles Harbor",
-                  "text": "A Los Angeles Harbor egy nagy kikötő Long Beachben.",
+                  "text": "Los Angeles és Long Beach egyesített kikötője, egy jelentős konténerkikötő.",
                   "category": "landmark",
                   "coords": [
                         -118.267571,
@@ -1367,7 +1367,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Inner Harbor",
-                  "text": "Az Inner Harbor egy kikötői terület Long Beachben.",
+                  "text": "Védett kikötői terület a Long Beach-i kikötőn belül.",
                   "category": "landmark",
                   "coords": [
                         -118.223403,
@@ -1376,7 +1376,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Twin Bridges",
-                  "text": "A Queensway Twin Bridges ikerhidak Long Beachben.",
+                  "text": "Ikerhidak a Queensway-n, amelyek egy csatornán ívelnek át Long Beach-ben.",
                   "category": "landmark",
                   "coords": [
                         -118.199384,
@@ -1385,7 +1385,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Battleship USS Iowa",
-                  "text": "Az USS Iowa csatahajó egy múzeumhajó Long Beach kikötőjében.",
+                  "text": "Az Iowa osztályú USS Iowa történelmi csatahajó, amely a II. világháborúban és Koreában szolgált, ma múzeum Long Beach-ben.",
                   "category": "landmark",
                   "coords": [
                         -118.277275,
@@ -1394,7 +1394,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Santa Cruz Park",
-                  "text": "A Santa Cruz Park egy park Long Beachben.",
+                  "text": "Egy közösségi park Long Beach-ben, játszóterekkel, sportpályákkal és piknikhelyekkel.",
                   "category": "park",
                   "coords": [
                         -118.202291,
@@ -1403,7 +1403,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cabrillo Beach Park",
-                  "text": "A Cabrillo Beach Park egy park a Cabrillo Beach mellett Long Beachben.",
+                  "text": "Egy tengerparti park Long Beach-ben, amely Juan Rodríguez Cabrillo felfedezőről kapta a nevét, óceáni kilátással és strandhozzáféréssel.",
                   "category": "park",
                   "coords": [
                         -118.283494,
@@ -1412,7 +1412,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "California Recreation Center",
-                  "text": "A California Recreation Center egy rekreációs központ és park Long Beachben.",
+                  "text": "Egy nyilvános park Long Beach-ben, egy rekreációs központtal, amely kosárlabdapályákat és edzőtermet kínál.",
                   "category": "park",
                   "coords": [
                         -118.180624,
@@ -1421,7 +1421,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bayshore Park",
-                  "text": "A Bayshore Park egy park Long Beachben.",
+                  "text": "Egy vízparti park az Alamitos-öbölben, Long Beach-ben, játszótérrel, hajórámpával és piknikasztalokkal.",
                   "category": "park",
                   "coords": [
                         -118.131595,
@@ -1430,7 +1430,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alma Park",
-                  "text": "Az Alma Park egy park Long Beachben.",
+                  "text": "Egy kis környéki park Long Beach-ben, játszótérrel és árnyékos padokkal.",
                   "category": "park",
                   "coords": [
                         -118.297556,
@@ -1439,7 +1439,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Douglas MacArthur Park",
-                  "text": "A Douglas MacArthur Park egy park Long Beachben.",
+                  "text": "Egy park Long Beach-ben, amely Douglas MacArthur tábornok tiszteletére készült, emlékművel és tágas füves területekkel.",
                   "category": "park",
                   "coords": [
                         -118.174726,
@@ -1448,7 +1448,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Marina Community Park",
-                  "text": "A Marina Community Park egy park Long Beachben.",
+                  "text": "Egy park Long Beach marina negyedében, közösségi központtal, teniszpályákkal és egy tóval.",
                   "category": "park",
                   "coords": [
                         -118.110055,
@@ -1457,7 +1457,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Naples Plaza",
-                  "text": "A Naples Plaza egy park Long Beachben.",
+                  "text": "Egy kis park a Naples-szigeten, Long Beach-ben, pavilonnal és csatornákra nyíló kilátással.",
                   "category": "park",
                   "coords": [
                         -118.123659,
@@ -1466,7 +1466,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bluff Park",
-                  "text": "A Bluff Park egy park egy sziklafal mentén Long Beachben.",
+                  "text": "Egy tengerparti park egy sziklán, amely a Csendes-óceánra néz Long Beach-ben, sétányokkal és kilátókkal.",
                   "category": "park",
                   "coords": [
                         -118.161347,
@@ -1475,7 +1475,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bixby Park",
-                  "text": "A Bixby Park egy park Long Beachben.",
+                  "text": "Egy történelmi park Long Beach-ben, zenepavilonnal, teniszpályákkal és heti termelői piaccal.",
                   "category": "park",
                   "coords": [
                         -118.167186,
@@ -1484,7 +1484,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoreline Aquatic Park",
-                  "text": "A Shoreline Aquatic Park egy vízi park Long Beachben.",
+                  "text": "Egy vízparti park Long Beach partvonala mentén, kikötővel, füves területekkel és horgászmólóval.",
                   "category": "park",
                   "coords": [
                         -118.195504,
@@ -1493,7 +1493,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Victory Park",
-                  "text": "A Victory Park egy park Long Beachben.",
+                  "text": "Egy nagy park Long Beach-ben, 18 lyukú golfpályával, teniszpályákkal és egy tóval.",
                   "category": "park",
                   "coords": [
                         -118.186266,
@@ -1513,7 +1513,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Second Samoan Church, (historic)",
-                  "text": "Second Samoan Church (istoric) este o clădire istorică de biserică în Long Beach, California.",
+                  "text": "Biserică istorică a Științei Creștine în Long Beach, California.",
                   "category": "religious",
                   "coords": [
                         -118.195452,
@@ -1522,7 +1522,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Light",
-                  "text": "Long Beach Light este un far în Long Beach, California.",
+                  "text": "Far la intrarea în portul Long Beach, ghidează navele.",
                   "category": "landmark",
                   "coords": [
                         -118.186879,
@@ -1531,7 +1531,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lions Lighthouse",
-                  "text": "Lions Lighthouse este un far în Long Beach, California.",
+                  "text": "Far replică construit de cluburile Lions în Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.194107,
@@ -1621,7 +1621,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Museum of Art",
-                  "text": "Long Beach Museum of Art este un muzeu de artă din Long Beach.",
+                  "text": "Un muzeu de artă cu vedere la Oceanul Pacific în Long Beach.",
                   "category": "museum",
                   "coords": [
                         -118.16478,
@@ -1630,7 +1630,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warner Grand Theater",
-                  "text": "Warner Grand Theater este un teatru istoric din Long Beach.",
+                  "text": "Un palat cinematografic istoric Art Deco în centrul Long Beach.",
                   "category": "cultural",
                   "coords": [
                         -118.287392,
@@ -1639,7 +1639,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Saint Peters Episcopal Church",
-                  "text": "Old Saint Peters Episcopal Church este o clădire istorică de biserică în Long Beach.",
+                  "text": "O biserică episcopală istorică lângă ocean în Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.289509,
@@ -1648,7 +1648,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Star of the Sea Catholic Church",
-                  "text": "Mary Star of the Sea Catholic Church este o biserică catolică din Long Beach.",
+                  "text": "O biserică catolică istorică în Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.296473,
@@ -1657,7 +1657,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "First Church of Christ Scientist este o biserică a Științei Creștine în Long Beach.",
+                  "text": "Clădire bisericească a Științei Creștine construită în 1913 în Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.187296,
@@ -1666,7 +1666,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "St Lukes Episcopal Church",
-                  "text": "St Lukes Episcopal Church este o biserică episcopală în Long Beach.",
+                  "text": "O biserică episcopală istorică în Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.185468,
@@ -1675,7 +1675,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alamitos Bay",
-                  "text": "Alamitos Bay este un golf în Long Beach.",
+                  "text": "Un golf natural în Long Beach, cu plaje și o marină.",
                   "category": "landmark",
                   "coords": [
                         -118.11812,
@@ -1684,7 +1684,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Outer Harbor",
-                  "text": "Outer Harbor este o zonă portuară din Long Beach.",
+                  "text": "Parte a Portului Long Beach, unul dintre cele mai aglomerate porturi de containere din lume.",
                   "category": "landmark",
                   "coords": [
                         -118.193679,
@@ -1693,7 +1693,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Pedro Bay",
-                  "text": "San Pedro Bay este un golf în apropiere de Long Beach.",
+                  "text": "Un golf mare care formează portul Los Angeles și Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.200902,
@@ -1702,7 +1702,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Bay",
-                  "text": "Queensway Bay este un golf în Long Beach.",
+                  "text": "Un golf mic lângă Centrul de Convenții din Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.196735,
@@ -1711,7 +1711,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Middle Harbor",
-                  "text": "Long Beach Middle Harbor este o zonă portuară din Long Beach.",
+                  "text": "O secțiune a Portului Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.222847,
@@ -1720,7 +1720,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Los Angeles Harbor",
-                  "text": "Los Angeles Harbor este un port mare în Long Beach.",
+                  "text": "Portul combinat din Los Angeles și Long Beach, un port major de containere.",
                   "category": "landmark",
                   "coords": [
                         -118.267571,
@@ -1729,7 +1729,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Inner Harbor",
-                  "text": "Inner Harbor este o zonă portuară din Long Beach.",
+                  "text": "O zonă portuară protejată în Portul Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.223403,
@@ -1738,7 +1738,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Twin Bridges",
-                  "text": "Queensway Twin Bridges sunt poduri gemene în Long Beach.",
+                  "text": "Poduri gemene care duc Queensway-ul peste un canal în Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.199384,
@@ -1747,7 +1747,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Battleship USS Iowa",
-                  "text": "Cuirasatul USS Iowa este un vapor muzeu în portul Long Beach.",
+                  "text": "Cuirasatul istoric USS Iowa din clasa Iowa, care a servit în Al Doilea Război Mondial și în Coreea, este acum un muzeu în Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.277275,
@@ -1756,7 +1756,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Santa Cruz Park",
-                  "text": "Santa Cruz Park este un parc în Long Beach.",
+                  "text": "Un parc comunitar în Long Beach, cu locuri de joacă, terenuri sportive și zone de picnic.",
                   "category": "park",
                   "coords": [
                         -118.202291,
@@ -1765,7 +1765,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cabrillo Beach Park",
-                  "text": "Cabrillo Beach Park este un parc lângă plaja Cabrillo din Long Beach.",
+                  "text": "Un parc de coastă în Long Beach, numit după exploratorul Juan Rodríguez Cabrillo, cu vedere la ocean și acces la plajă.",
                   "category": "park",
                   "coords": [
                         -118.283494,
@@ -1774,7 +1774,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "California Recreation Center",
-                  "text": "California Recreation Center este un centru de recreere și parc în Long Beach.",
+                  "text": "Un parc public în Long Beach, cu un centru de recreere care oferă terenuri de baschet și o sală de sport.",
                   "category": "park",
                   "coords": [
                         -118.180624,
@@ -1783,7 +1783,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bayshore Park",
-                  "text": "Bayshore Park este un parc în Long Beach.",
+                  "text": "Un parc pe malul apei în golful Alamitos din Long Beach, cu loc de joacă, rampă pentru bărci și mese de picnic.",
                   "category": "park",
                   "coords": [
                         -118.131595,
@@ -1792,7 +1792,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alma Park",
-                  "text": "Alma Park este un parc în Long Beach.",
+                  "text": "Un mic parc de cartier în Long Beach, cu loc de joacă și bănci umbrite.",
                   "category": "park",
                   "coords": [
                         -118.297556,
@@ -1801,7 +1801,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Douglas MacArthur Park",
-                  "text": "Douglas MacArthur Park este un parc în Long Beach.",
+                  "text": "Un parc în Long Beach dedicat generalului Douglas MacArthur, cu o piață memorială și peluze întinse.",
                   "category": "park",
                   "coords": [
                         -118.174726,
@@ -1810,7 +1810,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Marina Community Park",
-                  "text": "Marina Community Park este un parc în Long Beach.",
+                  "text": "Un parc în cartierul marina din Long Beach, cu un centru comunitar, terenuri de tenis și un lac.",
                   "category": "park",
                   "coords": [
                         -118.110055,
@@ -1819,7 +1819,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Naples Plaza",
-                  "text": "Naples Plaza este un parc în Long Beach.",
+                  "text": "Un mic parc pe insula Naples din Long Beach, cu un foișor și vedere la canale.",
                   "category": "park",
                   "coords": [
                         -118.123659,
@@ -1828,7 +1828,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bluff Park",
-                  "text": "Bluff Park este un parc de-a lungul unui promontoriu în Long Beach.",
+                  "text": "Un parc de coastă pe o stâncă cu vedere la Oceanul Pacific în Long Beach, cu poteci de plimbare și puncte de belvedere.",
                   "category": "park",
                   "coords": [
                         -118.161347,
@@ -1837,7 +1837,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bixby Park",
-                  "text": "Bixby Park este un parc în Long Beach.",
+                  "text": "Un parc istoric în Long Beach, cu un chioșc de muzică, terenuri de tenis și o piață săptămânală a fermierilor.",
                   "category": "park",
                   "coords": [
                         -118.167186,
@@ -1846,7 +1846,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoreline Aquatic Park",
-                  "text": "Shoreline Aquatic Park este un parc acvatic în Long Beach.",
+                  "text": "Un parc pe malul apei de-a lungul coastei Long Beach, cu o marina, zone verzi și un debarcader de pescuit.",
                   "category": "park",
                   "coords": [
                         -118.195504,
@@ -1855,7 +1855,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Victory Park",
-                  "text": "Victory Park este un parc în Long Beach.",
+                  "text": "Un parc mare în Long Beach, cu un teren de golf de 18 găuri, terenuri de tenis și un lac.",
                   "category": "park",
                   "coords": [
                         -118.186266,
@@ -1875,7 +1875,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Second Samoan Church, (historic)",
-                  "text": "Second Samoan Church (historic) is a historic church building in Long Beach, California.",
+                  "text": "Historic Christian Science church in Long Beach, California.",
                   "category": "religious",
                   "coords": [
                         -118.195452,
@@ -1884,7 +1884,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Light",
-                  "text": "Long Beach Light is a lighthouse in Long Beach, California.",
+                  "text": "Lighthouse at the entrance to Long Beach Harbor, guiding ships.",
                   "category": "landmark",
                   "coords": [
                         -118.186879,
@@ -1893,7 +1893,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lions Lighthouse",
-                  "text": "Lions Lighthouse is a lighthouse in Long Beach, California.",
+                  "text": "Replica lighthouse built by Lions Clubs in Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.194107,
@@ -1983,7 +1983,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Museum of Art",
-                  "text": "Long Beach Museum of Art is an art museum in Long Beach.",
+                  "text": "An art museum overlooking the Pacific Ocean in Long Beach.",
                   "category": "museum",
                   "coords": [
                         -118.16478,
@@ -1992,7 +1992,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warner Grand Theater",
-                  "text": "Warner Grand Theater is a historic theater in Long Beach.",
+                  "text": "A historic Art Deco movie palace in downtown Long Beach.",
                   "category": "cultural",
                   "coords": [
                         -118.287392,
@@ -2001,7 +2001,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Saint Peters Episcopal Church",
-                  "text": "Old Saint Peters Episcopal Church is a historic church building in Long Beach.",
+                  "text": "An historic Episcopal church near the ocean in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.289509,
@@ -2010,7 +2010,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Star of the Sea Catholic Church",
-                  "text": "Mary Star of the Sea Catholic Church is a Catholic church in Long Beach.",
+                  "text": "A historic Catholic church in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.296473,
@@ -2019,7 +2019,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "First Church of Christ Scientist is a Christian Science church in Long Beach.",
+                  "text": "1913-built Christian Science church building in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.187296,
@@ -2028,7 +2028,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "St Lukes Episcopal Church",
-                  "text": "St Lukes Episcopal Church is an Episcopal church in Long Beach.",
+                  "text": "An historic Episcopal church in Long Beach.",
                   "category": "religious",
                   "coords": [
                         -118.185468,
@@ -2037,7 +2037,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alamitos Bay",
-                  "text": "Alamitos Bay is a bay in Long Beach.",
+                  "text": "A natural bay in Long Beach, with beaches and a marina.",
                   "category": "landmark",
                   "coords": [
                         -118.11812,
@@ -2046,7 +2046,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Outer Harbor",
-                  "text": "Outer Harbor is a harbor area in Long Beach.",
+                  "text": "Part of the Port of Long Beach, one of the busiest container ports worldwide.",
                   "category": "landmark",
                   "coords": [
                         -118.193679,
@@ -2055,7 +2055,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Pedro Bay",
-                  "text": "San Pedro Bay is a bay near Long Beach.",
+                  "text": "A large bay forming the harbor of Los Angeles and Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.200902,
@@ -2064,7 +2064,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Bay",
-                  "text": "Queensway Bay is a bay in Long Beach.",
+                  "text": "A small bay near the Long Beach Convention Center.",
                   "category": "landmark",
                   "coords": [
                         -118.196735,
@@ -2073,7 +2073,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Long Beach Middle Harbor",
-                  "text": "Long Beach Middle Harbor is a harbor area in Long Beach.",
+                  "text": "A section of the Port of Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.222847,
@@ -2082,7 +2082,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Los Angeles Harbor",
-                  "text": "Los Angeles Harbor is a major harbor in Long Beach.",
+                  "text": "The combined port of Los Angeles and Long Beach, a major container port.",
                   "category": "landmark",
                   "coords": [
                         -118.267571,
@@ -2091,7 +2091,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Inner Harbor",
-                  "text": "Inner Harbor is a harbor area in Long Beach.",
+                  "text": "A protected harbor area within the Port of Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.223403,
@@ -2100,7 +2100,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Queensway Twin Bridges",
-                  "text": "Queensway Twin Bridges are twin bridges in Long Beach.",
+                  "text": "Twin bridges carrying Queensway over a channel in Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.199384,
@@ -2109,7 +2109,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Battleship USS Iowa",
-                  "text": "Battleship USS Iowa is a museum ship in the Port of Long Beach.",
+                  "text": "The historic Iowa-class battleship USS Iowa, which served in WWII and Korea, is now a museum in Long Beach.",
                   "category": "landmark",
                   "coords": [
                         -118.277275,
@@ -2118,7 +2118,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Santa Cruz Park",
-                  "text": "Santa Cruz Park is a park in Long Beach.",
+                  "text": "A community park in Long Beach with playgrounds, sports fields, and picnic areas.",
                   "category": "park",
                   "coords": [
                         -118.202291,
@@ -2127,7 +2127,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cabrillo Beach Park",
-                  "text": "Cabrillo Beach Park is a park adjacent to Cabrillo Beach in Long Beach.",
+                  "text": "A coastal park in Long Beach named after explorer Juan Rodríguez Cabrillo, offering ocean views and beach access.",
                   "category": "park",
                   "coords": [
                         -118.283494,
@@ -2136,7 +2136,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "California Recreation Center",
-                  "text": "California Recreation Center is a recreation center and park in Long Beach.",
+                  "text": "A public park in Long Beach with a recreation center offering basketball courts and a gym.",
                   "category": "park",
                   "coords": [
                         -118.180624,
@@ -2145,7 +2145,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bayshore Park",
-                  "text": "Bayshore Park is a park in Long Beach.",
+                  "text": "A waterfront park on Alamitos Bay in Long Beach, with a playground, boat launch, and picnic tables.",
                   "category": "park",
                   "coords": [
                         -118.131595,
@@ -2154,7 +2154,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alma Park",
-                  "text": "Alma Park is a park in Long Beach.",
+                  "text": "A small neighborhood park in Long Beach with a playground and shaded benches.",
                   "category": "park",
                   "coords": [
                         -118.297556,
@@ -2163,7 +2163,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Douglas MacArthur Park",
-                  "text": "Douglas MacArthur Park is a park in Long Beach.",
+                  "text": "A park in Long Beach dedicated to General Douglas MacArthur, featuring a memorial plaza and expansive lawns.",
                   "category": "park",
                   "coords": [
                         -118.174726,
@@ -2172,7 +2172,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Marina Community Park",
-                  "text": "Marina Community Park is a park in Long Beach.",
+                  "text": "A park in Long Beach's marina district with a community center, tennis courts, and a lake.",
                   "category": "park",
                   "coords": [
                         -118.110055,
@@ -2181,7 +2181,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Naples Plaza",
-                  "text": "Naples Plaza is a park in Long Beach.",
+                  "text": "A small park on Naples Island in Long Beach, with a gazebo and views of the canals.",
                   "category": "park",
                   "coords": [
                         -118.123659,
@@ -2190,7 +2190,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bluff Park",
-                  "text": "Bluff Park is a park along a bluff in Long Beach.",
+                  "text": "A coastal park on a bluff overlooking the Pacific Ocean in Long Beach, with walking paths and scenic overlooks.",
                   "category": "park",
                   "coords": [
                         -118.161347,
@@ -2199,7 +2199,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bixby Park",
-                  "text": "Bixby Park is a park in Long Beach.",
+                  "text": "A historic park in Long Beach with a bandstand, tennis courts, and a weekly farmers market.",
                   "category": "park",
                   "coords": [
                         -118.167186,
@@ -2208,7 +2208,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoreline Aquatic Park",
-                  "text": "Shoreline Aquatic Park is an aquatic park in Long Beach.",
+                  "text": "A waterfront park along the Long Beach shoreline, with a marina, grassy areas, and a fishing pier.",
                   "category": "park",
                   "coords": [
                         -118.195504,
@@ -2217,7 +2217,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Victory Park",
-                  "text": "Victory Park is a park in Long Beach.",
+                  "text": "A large park in Long Beach with an 18-hole golf course, tennis courts, and a lake.",
                   "category": "park",
                   "coords": [
                         -118.186266,
@@ -2498,7 +2498,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bocchino-Dente Memorial Plaza",
-                  "text": "Die Bocchino-Dente Memorial Plaza, ein Park im Hafen von New York und New Jersey, ist ein Gedenkplatz.",
+                  "text": "Gedenkplatz benannt nach zwei lokalen Politikern in der Region New York/New Jersey.",
                   "category": "park",
                   "coords": [
                         -74.004266,
@@ -2833,7 +2833,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bocchino-Dente Memorial Plaza",
-                  "text": "A Bocchino-Dente Memorial Plaza, egy park a New York-i és New Jersey-i kikötő területén, egy emlékpláza.",
+                  "text": "Két helyi politikusról elnevezett emlékhely a New York/New Jersey régióban.",
                   "category": "park",
                   "coords": [
                         -74.004266,
@@ -3168,7 +3168,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bocchino-Dente Memorial Plaza",
-                  "text": "Piața Memorială Bocchino-Dente, un parc în zona Portului New York și New Jersey, este o piață memorială.",
+                  "text": "Piață memorială numită după doi politicieni locali în regiunea New York/New Jersey.",
                   "category": "park",
                   "coords": [
                         -74.004266,
@@ -3503,7 +3503,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bocchino-Dente Memorial Plaza",
-                  "text": "Bocchino-Dente Memorial Plaza, a park in the Port of New York and New Jersey area, is a memorial plaza.",
+                  "text": "Memorial plaza named after two local politicians in the New York/New Jersey area.",
                   "category": "park",
                   "coords": [
                         -74.004266,
@@ -3775,7 +3775,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah History Museum",
-                  "text": "Ein Museum in Savannah, das die Geschichte der Stadt zeigt.",
+                  "text": "Ein Museum im historischen Central of Georgia Railway Station in Savannah, das die Geschichte der Stadt zeigt.",
                   "category": "museum",
                   "coords": [
                         -81.099819,
@@ -3793,7 +3793,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Harbor Light",
-                  "text": "Ein historisches Leuchtturmdenkmal in Savannah.",
+                  "text": "Ein historischer Leuchtturm, der die Einfahrt zum Savannah River markiert, aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -81.084262,
@@ -3802,7 +3802,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Trustees Theatre",
-                  "text": "Ein historisches Theater in Savannah mit Aufführungen.",
+                  "text": "Ein historisches Theater auf dem Campus des Savannah College of Art and Design, das Theaterstücke und Filmvorführungen veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -81.089053,
@@ -3820,7 +3820,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bartow Park",
-                  "text": "Ein Stadtteilpark in Savannah.",
+                  "text": "Ein Nachbarschaftspark in Savannah mit Spielplatz, Basketballplätzen und offener Grünfläche.",
                   "category": "park",
                   "coords": [
                         -81.124556,
@@ -3829,7 +3829,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ardsley Park",
-                  "text": "Ein Wohnpark in Savannah.",
+                  "text": "Ein Park im Stadtteil Ardsley Park in Savannah mit Spazierwegen und Blumengärten.",
                   "category": "park",
                   "coords": [
                         -81.102057,
@@ -3838,7 +3838,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Avondale Park",
-                  "text": "Ein Park in Savannah.",
+                  "text": "Ein Gemeinschaftspark in Savannah mit Sportplätzen, einem Spielplatz und überdachten Picknickbereichen.",
                   "category": "park",
                   "coords": [
                         -81.061501,
@@ -3847,7 +3847,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Chatham Square",
-                  "text": "Ein Platz im historischen Viertel von Savannah.",
+                  "text": "Einer der historischen Plätze von Savannah mit einem zentralen Brunnen und schattigen Parkbänken.",
                   "category": "park",
                   "coords": [
                         -81.097038,
@@ -3856,7 +3856,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cann Park",
-                  "text": "Ein Park in Savannah.",
+                  "text": "Ein kleiner Park in Savannah mit Spielplatz, Basketballplatz und offener Rasenfläche.",
                   "category": "park",
                   "coords": [
                         -81.113216,
@@ -3865,7 +3865,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baldwin Park",
-                  "text": "Ein Park in Savannah.",
+                  "text": "Ein Nachbarschaftspark in Savannah mit einem Baseballfeld, einem Pavillon und einem Spazierweg.",
                   "category": "park",
                   "coords": [
                         -81.091097,
@@ -3883,7 +3883,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Nonfiction Gallery",
-                  "text": "Eine Galerie in Savannah, die zeitgenössische Kunst zeigt.",
+                  "text": "Galerie für zeitgenössische Kunst im historischen Viertel von Savannah in Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.098612,
@@ -3892,7 +3892,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Stephen Kasun Fine Art Gallery",
-                  "text": "Eine Galerie in Savannah, die bildende Kunst präsentiert.",
+                  "text": "Galerie für bildende Kunst in Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.095259,
@@ -3919,7 +3919,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah Children's Museum",
-                  "text": "Ein interaktives Museum für Kinder in Savannah.",
+                  "text": "Interaktives Kindermuseum in den historischen Eisenbahnwerkstätten von Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.102547,
@@ -3928,7 +3928,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Roundhouse Railroad Museum",
-                  "text": "Ein Museum in Savannah, das in einem historischen Ringlokschuppen untergebracht ist.",
+                  "text": "Museum in einem historischen Ringlokschuppen mit Eisenbahnausstellung in Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.101132,
@@ -4083,7 +4083,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah History Museum",
-                  "text": "Múzeum Savannah-ban, amely a város történetét mutatja be.",
+                  "text": "Egy múzeum Savannah történelmi Central of Georgia vasútállomásában, amely a város történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -81.099819,
@@ -4101,7 +4101,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Harbor Light",
-                  "text": "Történelmi világítótorony-emlékmű Savannah-ban.",
+                  "text": "Egy történelmi világítótorony, amely a Savannah folyó bejáratát jelzi, a 19. századból.",
                   "category": "historical",
                   "coords": [
                         -81.084262,
@@ -4110,7 +4110,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Trustees Theatre",
-                  "text": "Történelmi színház Savannah-ban, előadások helyszíne.",
+                  "text": "Egy történelmi színház a Savannah College of Art and Design campusán, színházi előadásokkal és filmvetítésekkel.",
                   "category": "cultural",
                   "coords": [
                         -81.089053,
@@ -4128,7 +4128,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bartow Park",
-                  "text": "Városrészi park Savannah-ban.",
+                  "text": "Egy környéki park Savannah-ban, játszótérrel, kosárlabdapályákkal és nyílt zöldterülettel.",
                   "category": "park",
                   "coords": [
                         -81.124556,
@@ -4137,7 +4137,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ardsley Park",
-                  "text": "Lakóövezeti park Savannah-ban.",
+                  "text": "Egy park Savannah Ardsley Park negyedében, sétányokkal és virágoskertekkel.",
                   "category": "park",
                   "coords": [
                         -81.102057,
@@ -4146,7 +4146,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Avondale Park",
-                  "text": "Park Savannah-ban.",
+                  "text": "Egy közösségi park Savannah-ban, sportpályákkal, játszótérrel és piknikfülkékkel.",
                   "category": "park",
                   "coords": [
                         -81.061501,
@@ -4155,7 +4155,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Chatham Square",
-                  "text": "Tér Savannah történelmi negyedében.",
+                  "text": "Savannah egyik történelmi tere, központi szökőkúttal és árnyékos parkpadokkal.",
                   "category": "park",
                   "coords": [
                         -81.097038,
@@ -4164,7 +4164,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cann Park",
-                  "text": "Park Savannah-ban.",
+                  "text": "Egy kis park Savannah-ban, játszótérrel, kosárlabdapályával és nyílt gyepfelülettel.",
                   "category": "park",
                   "coords": [
                         -81.113216,
@@ -4173,7 +4173,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baldwin Park",
-                  "text": "Park Savannah-ban.",
+                  "text": "Egy környéki park Savannah-ban, baseballpályával, pavilonnal és sétányúttal.",
                   "category": "park",
                   "coords": [
                         -81.091097,
@@ -4191,7 +4191,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Nonfiction Gallery",
-                  "text": "Egy galéria Savannah-ban, amely kortárs művészetet mutat be.",
+                  "text": "Kortárs művészeti galéria Savannah történelmi negyedében, Of Savannahban.",
                   "category": "museum",
                   "coords": [
                         -81.098612,
@@ -4200,7 +4200,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Stephen Kasun Fine Art Gallery",
-                  "text": "Egy galéria Savannah-ban, amely képzőművészetet mutat be.",
+                  "text": "Képzőművészeti galéria Savannahban, Of Savannahban.",
                   "category": "museum",
                   "coords": [
                         -81.095259,
@@ -4227,7 +4227,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah Children's Museum",
-                  "text": "Egy interaktív múzeum gyermekek számára Savannah-ban.",
+                  "text": "Interaktív gyermekmúzeum Savannah történelmi vasúti műhelyeiben, Of Savannahban.",
                   "category": "museum",
                   "coords": [
                         -81.102547,
@@ -4236,7 +4236,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Roundhouse Railroad Museum",
-                  "text": "Egy múzeum Savannah-ban, amely egy történelmi körfűtőházban található.",
+                  "text": "Múzeum egy történelmi körfűtőházban, vasúti kiállítással Savannahban, Of Savannahban.",
                   "category": "museum",
                   "coords": [
                         -81.101132,
@@ -4391,7 +4391,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah History Museum",
-                  "text": "Un muzeu în Savannah care detaliază istoria orașului.",
+                  "text": "Un muzeu găzduit în istorica gară Central of Georgia Railway din Savannah, care prezintă istoria orașului.",
                   "category": "museum",
                   "coords": [
                         -81.099819,
@@ -4409,7 +4409,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Harbor Light",
-                  "text": "Un monument de far istoric în Savannah.",
+                  "text": "Un far istoric care marchează intrarea în râul Savannah, datând din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         -81.084262,
@@ -4418,7 +4418,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Trustees Theatre",
-                  "text": "Un teatru istoric în Savannah care găzduiește spectacole.",
+                  "text": "Un teatru istoric în campusul Savannah College of Art and Design, care găzduiește piese de teatru și proiecții de filme.",
                   "category": "cultural",
                   "coords": [
                         -81.089053,
@@ -4436,7 +4436,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bartow Park",
-                  "text": "Un parc de cartier în Savannah.",
+                  "text": "Un parc de cartier în Savannah, cu loc de joacă, terenuri de baschet și spațiu verde deschis.",
                   "category": "park",
                   "coords": [
                         -81.124556,
@@ -4445,7 +4445,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ardsley Park",
-                  "text": "Un parc rezidențial în Savannah.",
+                  "text": "Un parc în cartierul Ardsley Park din Savannah, cu poteci de plimbare și grădini de flori.",
                   "category": "park",
                   "coords": [
                         -81.102057,
@@ -4454,7 +4454,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Avondale Park",
-                  "text": "Un parc în Savannah.",
+                  "text": "Un parc comunitar în Savannah, cu terenuri sportive, loc de joacă și adăposturi pentru picnic.",
                   "category": "park",
                   "coords": [
                         -81.061501,
@@ -4463,7 +4463,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Chatham Square",
-                  "text": "O piață în districtul istoric al Savannah.",
+                  "text": "Una dintre piețele istorice din Savannah, cu o fântână centrală și bănci umbrite.",
                   "category": "park",
                   "coords": [
                         -81.097038,
@@ -4472,7 +4472,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cann Park",
-                  "text": "Un parc în Savannah.",
+                  "text": "Un mic parc în Savannah, cu loc de joacă, teren de baschet și gazon deschis.",
                   "category": "park",
                   "coords": [
                         -81.113216,
@@ -4481,7 +4481,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baldwin Park",
-                  "text": "Un parc în Savannah.",
+                  "text": "Un parc de cartier în Savannah, cu un diamant de baseball, un foișor și o potecă de plimbare.",
                   "category": "park",
                   "coords": [
                         -81.091097,
@@ -4499,7 +4499,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Nonfiction Gallery",
-                  "text": "O galerie din Savannah care expune artă contemporană.",
+                  "text": "Galerie de artă contemporană în cartierul istoric al Savannahului în Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.098612,
@@ -4508,7 +4508,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Stephen Kasun Fine Art Gallery",
-                  "text": "O galerie din Savannah care prezintă artă plastică.",
+                  "text": "Galerie de artă plastică în Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.095259,
@@ -4535,7 +4535,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah Children's Museum",
-                  "text": "Un muzeu interactiv pentru copii în Savannah.",
+                  "text": "Muzeu interactiv pentru copii în atelierele feroviare istorice din Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.102547,
@@ -4544,7 +4544,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Roundhouse Railroad Museum",
-                  "text": "Un muzeu în Savannah găzduit într-un depou feroviar istoric rotund.",
+                  "text": "Muzeu într-o rotondă istorică, cu expoziție de locomotive în Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.101132,
@@ -4699,7 +4699,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah History Museum",
-                  "text": "A museum in Savannah detailing the city's history.",
+                  "text": "A museum housed in the historic Central of Georgia Railway station in Savannah, showcasing the city's history.",
                   "category": "museum",
                   "coords": [
                         -81.099819,
@@ -4717,7 +4717,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Old Harbor Light",
-                  "text": "A historic lighthouse monument in Savannah.",
+                  "text": "A historic lighthouse marking the entrance to the Savannah River, dating from the 19th century.",
                   "category": "historical",
                   "coords": [
                         -81.084262,
@@ -4726,7 +4726,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Trustees Theatre",
-                  "text": "A historic theatre in Savannah hosting performances.",
+                  "text": "A historic theater on the Savannah College of Art and Design campus, hosting plays and film screenings.",
                   "category": "cultural",
                   "coords": [
                         -81.089053,
@@ -4744,7 +4744,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bartow Park",
-                  "text": "A neighborhood park in Savannah.",
+                  "text": "A neighborhood park in Savannah with a playground, basketball courts, and open green space.",
                   "category": "park",
                   "coords": [
                         -81.124556,
@@ -4753,7 +4753,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ardsley Park",
-                  "text": "A residential park in Savannah.",
+                  "text": "A park in the Ardsley Park neighborhood of Savannah, featuring walking paths and flower gardens.",
                   "category": "park",
                   "coords": [
                         -81.102057,
@@ -4762,7 +4762,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Avondale Park",
-                  "text": "A park in Savannah.",
+                  "text": "A community park in Savannah with sports fields, a playground, and picnic shelters.",
                   "category": "park",
                   "coords": [
                         -81.061501,
@@ -4771,7 +4771,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Chatham Square",
-                  "text": "A square in Savannah's historic district.",
+                  "text": "One of Savannah's historic squares, featuring a central fountain and shaded park benches.",
                   "category": "park",
                   "coords": [
                         -81.097038,
@@ -4780,7 +4780,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Cann Park",
-                  "text": "A park in Savannah.",
+                  "text": "A small park in Savannah with a playground, basketball court, and open lawn.",
                   "category": "park",
                   "coords": [
                         -81.113216,
@@ -4789,7 +4789,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Baldwin Park",
-                  "text": "A park in Savannah.",
+                  "text": "A neighborhood park in Savannah with a baseball diamond, pavilion, and walking trail.",
                   "category": "park",
                   "coords": [
                         -81.091097,
@@ -4807,7 +4807,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Nonfiction Gallery",
-                  "text": "A gallery in Savannah showcasing contemporary art.",
+                  "text": "Contemporary art gallery in Savannah's historic district in Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.098612,
@@ -4816,7 +4816,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Stephen Kasun Fine Art Gallery",
-                  "text": "A gallery in Savannah featuring fine art.",
+                  "text": "Fine art gallery in Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.095259,
@@ -4843,7 +4843,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Savannah Children's Museum",
-                  "text": "An interactive museum for children in Savannah.",
+                  "text": "Interactive children's museum in Savannah's Historic Railroad Shops, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.102547,
@@ -4852,7 +4852,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Roundhouse Railroad Museum",
-                  "text": "A museum in Savannah located in a historic roundhouse complex.",
+                  "text": "Museum in a historic roundhouse with locomotive exhibits in Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.101132,
@@ -5088,7 +5088,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Downtown Park",
-                  "text": "Der Bellevue Downtown Park in Bellevue ist eine zentrale Grünfläche mit einem reflektierenden Teich.",
+                  "text": "Zentraler Stadtpark mit großem kreisförmigen Teich in Bellevue, nahe Seattle.",
                   "category": "park",
                   "coords": [
                         -122.204582,
@@ -5097,7 +5097,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Denny Blaine Park",
-                  "text": "Der Denny Blaine Park in Seattle ist ein kleiner Park am Lake Washington mit einem Strandbereich.",
+                  "text": "Seeuferpark am Lake Washington mit Bootsanleger in Seattle.",
                   "category": "park",
                   "coords": [
                         -122.280556,
@@ -5124,7 +5124,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Frink Park",
-                  "text": "Der Frink Park in Seattle ist ein bewaldeter Park mit Wanderwegen.",
+                  "text": "Hügelpark mit Waldwegen und Blick auf den Puget Sound in Seattle.",
                   "category": "park",
                   "coords": [
                         -122.290518,
@@ -5142,7 +5142,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Yao Garden",
-                  "text": "Der Yao Garden ist ein chinesischer Garten im Bellevue Botanical Garden.",
+                  "text": "Ein chinesischer Garten in Seattle mit einem Pavillon, Wasserfall und Koi-Teich.",
                   "category": "park",
                   "coords": [
                         -122.177877,
@@ -5423,7 +5423,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Downtown Park",
-                  "text": "A bellevue-i Bellevue Downtown Park egy központi zöldterület tükröződő tóval.",
+                  "text": "Központi városi park nagy kör alakú tóval Bellevue-ban, Seattle közelében.",
                   "category": "park",
                   "coords": [
                         -122.204582,
@@ -5432,7 +5432,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Denny Blaine Park",
-                  "text": "A seattle-i Denny Blaine Park egy kis park a Lake Washington partján, stranddal.",
+                  "text": "Tóparti park a Lake Washingtonnál csónakkikötővel Seattle-ben.",
                   "category": "park",
                   "coords": [
                         -122.280556,
@@ -5459,7 +5459,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Frink Park",
-                  "text": "A seattle-i Frink Park egy erdős park túraútvonalakkal.",
+                  "text": "Dombi park erdei ösvényekkel és kilátással a Puget Soundra Seattle-ben.",
                   "category": "park",
                   "coords": [
                         -122.290518,
@@ -5477,7 +5477,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Yao Garden",
-                  "text": "A Yao Garden egy kínai kert a Bellevue Botanikus Kertben.",
+                  "text": "Egy kínai stílusú kert Seattle-ben, pavilonnal, vízeséssel és koi-tóval.",
                   "category": "park",
                   "coords": [
                         -122.177877,
@@ -5758,7 +5758,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Downtown Park",
-                  "text": "Parcul Central Bellevue din Bellevue este un spațiu verde central cu un iaz reflectorizant.",
+                  "text": "Parc central urban cu un iaz circular mare în Bellevue, lângă Seattle.",
                   "category": "park",
                   "coords": [
                         -122.204582,
@@ -5767,7 +5767,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Denny Blaine Park",
-                  "text": "Parcul Denny Blaine din Seattle este un mic parc pe malul lacului Washington, cu o plajă.",
+                  "text": "Parc pe malul lacului Washington cu debarcader pentru bărci în Seattle.",
                   "category": "park",
                   "coords": [
                         -122.280556,
@@ -5794,7 +5794,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Frink Park",
-                  "text": "Parcul Frink din Seattle este un parc împădurit cu trasee de drumeție.",
+                  "text": "Parc pe deal cu poteci forestiere și vedere spre Puget Sound în Seattle.",
                   "category": "park",
                   "coords": [
                         -122.290518,
@@ -5812,7 +5812,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Yao Garden",
-                  "text": "Grădina Yao este o grădină chinezească în Grădina Botanică Bellevue.",
+                  "text": "O grădină în stil chinezesc în Seattle, cu un foișor, o cascadă și un iaz cu pești koi.",
                   "category": "park",
                   "coords": [
                         -122.177877,
@@ -6093,7 +6093,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Downtown Park",
-                  "text": "Bellevue Downtown Park in Bellevue is a central green space with a reflecting pond.",
+                  "text": "Central city park with a large circular pond in Bellevue, near Seattle.",
                   "category": "park",
                   "coords": [
                         -122.204582,
@@ -6102,7 +6102,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Denny Blaine Park",
-                  "text": "Denny Blaine Park in Seattle is a small park on Lake Washington with a beach.",
+                  "text": "Lakeside park on Lake Washington with boat dock in Seattle.",
                   "category": "park",
                   "coords": [
                         -122.280556,
@@ -6129,7 +6129,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Frink Park",
-                  "text": "Frink Park in Seattle is a wooded park with trails.",
+                  "text": "Hillside park with forest trails and view of Puget Sound in Seattle.",
                   "category": "park",
                   "coords": [
                         -122.290518,
@@ -6147,7 +6147,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Yao Garden",
-                  "text": "Yao Garden is a Chinese-style garden within Bellevue Botanical Garden.",
+                  "text": "A Chinese-style garden in Seattle featuring a pavilion, waterfall, and koi pond.",
                   "category": "park",
                   "coords": [
                         -122.177877,
@@ -6293,7 +6293,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Museum of Art and Digital Entertainment",
-                  "text": "Ein Museum für Kunst und digitale Unterhaltung in port-of-oakland-economic-v2.",
+                  "text": "Museum für Videospiele und digitale Kunst in Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.274411,
@@ -6302,7 +6302,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alameda Museum",
-                  "text": "Ein Museum zur Lokalgeschichte von Alameda in port-of-oakland-economic-v2.",
+                  "text": "Heimatmuseum der Stadt Alameda in einem historischen Gebäude.",
                   "category": "museum",
                   "coords": [
                         -122.244089,
@@ -6311,7 +6311,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Letterform Archive",
-                  "text": "Ein Museum, das sich der Schrift und Typografie widmet, in port-of-oakland-economic-v2.",
+                  "text": "Museum für Typografie und Schriftdesign in Oakland, Kalifornien.",
                   "category": "museum",
                   "coords": [
                         -122.388244,
@@ -6347,7 +6347,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnes Collection of Jewish Art and Life",
-                  "text": "Ein Museum für jüdische Kunst und Leben in port-of-oakland-economic-v2.",
+                  "text": "Sammlung jüdischer Kunst und Artefakte an der University of California, Berkeley, nahe Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.266877,
@@ -6356,7 +6356,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lawrence Hall of Science",
-                  "text": "Ein Wissenschaftsmuseum in port-of-oakland-economic-v2.",
+                  "text": "Wissenschaftsmuseum mit Planetarium und interaktiven Ausstellungen in Berkeley.",
                   "category": "museum",
                   "coords": [
                         -122.246689,
@@ -6365,7 +6365,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Crucible",
-                  "text": "Ein Kunstbildungszentrum in port-of-oakland-economic-v2.",
+                  "text": "Kunstzentrum für Feuer- und Metallkunst in Oakland.",
                   "category": "cultural",
                   "coords": [
                         -122.290753,
@@ -6383,7 +6383,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Temple Sinai",
-                  "text": "Eine reformierte jüdische Synagoge in port-of-oakland-economic-v2.",
+                  "text": "Synagoge der Reformgemeinde in Oakland, Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -122.26439,
@@ -6392,7 +6392,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Basilica",
-                  "text": "Eine kleine Basilika in port-of-oakland-economic-v2.",
+                  "text": "Basilika im neoklassischen Stil in Alameda, nahe Oakland.",
                   "category": "religious",
                   "coords": [
                         -122.254885,
@@ -6401,7 +6401,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Community Theater",
-                  "text": "Ein historisches Theater in port-of-oakland-economic-v2.",
+                  "text": "Theater mit 3.500 Sitzplätzen auf dem Campus der UC Berkeley.",
                   "category": "cultural",
                   "coords": [
                         -122.271513,
@@ -6410,7 +6410,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Zen Center",
-                  "text": "Ein Zen-buddhistisches Zentrum in port-of-oakland-economic-v2.",
+                  "text": "Zen-buddhistisches Meditationszentrum in Berkeley.",
                   "category": "religious",
                   "coords": [
                         -122.269919,
@@ -6491,7 +6491,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Morcom Rose Garden",
-                  "text": "Der Morcom Rose Garden ist ein öffentlicher Rosengarten im Hafengebiet von Oakland.",
+                  "text": "Rosengarten mit über 1.000 Rosenstöcken und einem Pavillon in Oakland.",
                   "category": "park",
                   "coords": [
                         -122.246981,
@@ -6500,7 +6500,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Robert W. Crown Memorial State Beach",
-                  "text": "Der Robert W. Crown Memorial State Beach ist ein State Beach in Alameda im Hafengebiet von Oakland.",
+                  "text": "Strandpark an der San Francisco Bay mit Picknickplätzen und Blick auf die Skyline von San Francisco.",
                   "category": "park",
                   "coords": [
                         -122.267157,
@@ -6509,7 +6509,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warm Water Cove Park",
-                  "text": "Der Warm Water Cove Park ist ein Uferpark im Hafengebiet von Oakland.",
+                  "text": "Kleiner Park am Oakland Estuary mit Gehwegen und Sicht auf das Kraftwerk.",
                   "category": "park",
                   "coords": [
                         -122.383359,
@@ -6554,7 +6554,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "South Berkeley Community Congregational Church",
-                  "text": "Die South Berkeley Community Congregational Church ist ein historisches Kirchengebäude in Berkeley im Hafengebiet von Oakland.",
+                  "text": "Eine historische Gemeindekirche in Oakland, bekannt für ihre neugotische Architektur und soziale Arbeit.",
                   "category": "religious",
                   "coords": [
                         -122.272553,
@@ -6563,7 +6563,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco–Oakland Bay Bridge West Span",
-                  "text": "Die San Francisco–Oakland Bay Bridge West Span ist der westliche Abschnitt der San Francisco–Oakland Bay Bridge.",
+                  "text": "Der Hängebrückenabschnitt, der Yerba Buena Island mit San Francisco verbindet, Teil der San Francisco–Oakland Bay Bridge.",
                   "category": "landmark",
                   "coords": [
                         -122.378681,
@@ -6572,7 +6572,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Leimert Bridge",
-                  "text": "Die Leimert Bridge ist eine Brücke in Oakland im Hafengebiet von Oakland.",
+                  "text": "Eine historische Fachwerkbrücke (Pony Truss) über den Lake Merritt-Kanal in Oakland.",
                   "category": "landmark",
                   "coords": [
                         -122.213471,
@@ -6581,7 +6581,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Peralta Hacienda Historical",
-                  "text": "Die Peralta Hacienda Historical ist ein historisches Museumsgelände in Oakland im Hafengebiet von Oakland.",
+                  "text": "Eine historische Stätte in Oakland, einst Heimat der Familie Peralta, heute ein Museum über das frühe kalifornische Ranchleben.",
                   "category": "museum",
                   "coords": [
                         -122.217453,
@@ -6590,7 +6590,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Pacific Pinball Museum",
-                  "text": "Das Pacific Pinball Museum ist ein Museum, das Flipperautomaten gewidmet ist, im Hafengebiet von Oakland.",
+                  "text": "Ein Museum in Oakland mit über 80 Vintage-Flipperautomaten aus den 1930er Jahren bis heute.",
                   "category": "museum",
                   "coords": [
                         -122.276585,
@@ -6599,7 +6599,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Craft and Design",
-                  "text": "Das Museum of Craft and Design ist ein Museum für Kunsthandwerk und Design im Hafengebiet von Oakland.",
+                  "text": "Ein Museum in Oakland, das zeitgenössisches Kunsthandwerk, Design und angewandte Kunst zeigt.",
                   "category": "museum",
                   "coords": [
                         -122.387959,
@@ -6608,7 +6608,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco Railway Museum",
-                  "text": "Das San Francisco Railway Museum ist ein Museum über die Eisenbahngeschichte von San Francisco im Hafengebiet von Oakland.",
+                  "text": "Ein Museum in Oakland, das der Geschichte der elektrischen Straßenbahnen und Seilbahnen in der San Francisco Bay Area gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -122.393674,
@@ -6617,7 +6617,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Camron-Stanford House",
-                  "text": "Das Camron-Stanford House ist ein historisches Hausmuseum in Oakland im Hafengebiet von Oakland.",
+                  "text": "Historisches viktorianisches Haus von 1876, heute Museum in Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.262198,
@@ -6637,7 +6637,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Museum of Art and Digital Entertainment",
-                  "text": "Művészeti és digitális szórakoztatási múzeum a port-of-oakland-economic-v2 területén.",
+                  "text": "Videójáték- és digitális művészeti múzeum Oaklandben.",
                   "category": "museum",
                   "coords": [
                         -122.274411,
@@ -6646,7 +6646,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alameda Museum",
-                  "text": "Alameda helytörténeti múzeuma a port-of-oakland-economic-v2 területén.",
+                  "text": "Alameda város helytörténeti múzeuma egy történelmi épületben.",
                   "category": "museum",
                   "coords": [
                         -122.244089,
@@ -6655,7 +6655,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Letterform Archive",
-                  "text": "Betűírásnak és tipográfiának szentelt múzeum a port-of-oakland-economic-v2 területén.",
+                  "text": "Tipográfiai és betűtervezési múzeum Oaklandben, Kaliforniában.",
                   "category": "museum",
                   "coords": [
                         -122.388244,
@@ -6691,7 +6691,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnes Collection of Jewish Art and Life",
-                  "text": "Zsidó művészeti és életmúzeum a port-of-oakland-economic-v2 területén.",
+                  "text": "Zsidó művészeti és tárgyi gyűjtemény a Kaliforniai Egyetemen, Berkeley-ben, Oakland közelében.",
                   "category": "museum",
                   "coords": [
                         -122.266877,
@@ -6700,7 +6700,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lawrence Hall of Science",
-                  "text": "Tudományos múzeum a port-of-oakland-economic-v2 területén.",
+                  "text": "Tudományos múzeum planetáriummal és interaktív kiállításokkal Berkeley-ben.",
                   "category": "museum",
                   "coords": [
                         -122.246689,
@@ -6709,7 +6709,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Crucible",
-                  "text": "Művészeti oktatási központ a port-of-oakland-economic-v2 területén.",
+                  "text": "Tűz- és fém művészeti központ Oaklandben.",
                   "category": "cultural",
                   "coords": [
                         -122.290753,
@@ -6727,7 +6727,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Temple Sinai",
-                  "text": "Reform zsidó zsinagóga a port-of-oakland-economic-v2 területén.",
+                  "text": "Reform zsidó közösség zsinagógája Oaklandben, Kaliforniában.",
                   "category": "religious",
                   "coords": [
                         -122.26439,
@@ -6736,7 +6736,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Basilica",
-                  "text": "Kisebb bazilika a port-of-oakland-economic-v2 területén.",
+                  "text": "Neoklasszikus stílusú bazilika Alamedában, Oakland közelében.",
                   "category": "religious",
                   "coords": [
                         -122.254885,
@@ -6745,7 +6745,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Community Theater",
-                  "text": "Történelmi színház a port-of-oakland-economic-v2 területén.",
+                  "text": "3500 férőhelyes színház a UC Berkeley campusán.",
                   "category": "cultural",
                   "coords": [
                         -122.271513,
@@ -6754,7 +6754,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Zen Center",
-                  "text": "Zen buddhista központ a port-of-oakland-economic-v2 területén.",
+                  "text": "Zen buddhista meditációs központ Berkeley-ben.",
                   "category": "religious",
                   "coords": [
                         -122.269919,
@@ -6835,7 +6835,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Morcom Rose Garden",
-                  "text": "A Morcom Rose Garden egy nyilvános rózsakert az Oakland kikötői övezetben.",
+                  "text": "Rózsakert több mint 1000 rózsatővel és egy pavilonnal Oaklandben.",
                   "category": "park",
                   "coords": [
                         -122.246981,
@@ -6844,7 +6844,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Robert W. Crown Memorial State Beach",
-                  "text": "A Robert W. Crown Memorial State Beach egy állami strand Alamedában az Oakland kikötői övezetben.",
+                  "text": "Strandpark a San Francisco-öbölben piknikhelyekkel és kilátással San Francisco látképére.",
                   "category": "park",
                   "coords": [
                         -122.267157,
@@ -6853,7 +6853,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warm Water Cove Park",
-                  "text": "A Warm Water Cove Park egy vízparti park az Oakland kikötői övezetben.",
+                  "text": "Kis park az Oakland torkolatnál sétányokkal és kilátással az erőműre.",
                   "category": "park",
                   "coords": [
                         -122.383359,
@@ -6898,7 +6898,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "South Berkeley Community Congregational Church",
-                  "text": "A South Berkeley Community Congregational Church egy történelmi templomépület Berkeleyben az Oakland kikötői övezetben.",
+                  "text": "Egy történelmi közösségi templom Oaklandben, gótikus újjászületési építészetéről és szociális munkájáról ismert.",
                   "category": "religious",
                   "coords": [
                         -122.272553,
@@ -6907,7 +6907,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco–Oakland Bay Bridge West Span",
-                  "text": "A San Francisco–Oakland Bay Bridge West Span a San Francisco–Oakland Bay Bridge nyugati szakasza.",
+                  "text": "Az a függőhíd szakasz, amely összeköti Yerba Buena szigetét San Franciscóval, a San Francisco–Oakland Bay Bridge része.",
                   "category": "landmark",
                   "coords": [
                         -122.378681,
@@ -6916,7 +6916,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Leimert Bridge",
-                  "text": "A Leimert Bridge egy híd Oaklandben az Oakland kikötői övezetben.",
+                  "text": "Egy történelmi ponyva-tartós híd a Lake Merritt-csatorna felett Oaklandben.",
                   "category": "landmark",
                   "coords": [
                         -122.213471,
@@ -6925,7 +6925,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Peralta Hacienda Historical",
-                  "text": "A Peralta Hacienda Historical egy történelmi múzeumhelyszín Oaklandben az Oakland kikötői övezetben.",
+                  "text": "Egy történelmi helyszín Oaklandben, egykor a Peralta család otthona, ma múzeum a korai kaliforniai ranch-életről.",
                   "category": "museum",
                   "coords": [
                         -122.217453,
@@ -6934,7 +6934,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Pacific Pinball Museum",
-                  "text": "A Pacific Pinball Museum egy flippergépeknek szentelt múzeum az Oakland kikötői övezetben.",
+                  "text": "Egy múzeum Oaklandben, több mint 80 vintage flipperrel az 1930-as évektől napjainkig.",
                   "category": "museum",
                   "coords": [
                         -122.276585,
@@ -6943,7 +6943,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Craft and Design",
-                  "text": "A Museum of Craft and Design egy kézművességi és design múzeum az Oakland kikötői övezetben.",
+                  "text": "Egy múzeum Oaklandben, amely kortárs kézművességet, dizájnt és iparművészetet mutat be.",
                   "category": "museum",
                   "coords": [
                         -122.387959,
@@ -6952,7 +6952,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco Railway Museum",
-                  "text": "A San Francisco Railway Museum egy múzeum San Francisco vasúttörténetéről az Oakland kikötői övezetben.",
+                  "text": "Egy múzeum Oaklandben, amely a San Francisco-öböl térségének villamos- és siklóvasút történetének szentelt.",
                   "category": "museum",
                   "coords": [
                         -122.393674,
@@ -6961,7 +6961,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Camron-Stanford House",
-                  "text": "A Camron-Stanford House egy történelmi házmúzeum Oaklandben az Oakland kikötői övezetben.",
+                  "text": "Történelmi viktoriánus ház 1876-ból, ma múzeum Oaklandben.",
                   "category": "museum",
                   "coords": [
                         -122.262198,
@@ -6981,7 +6981,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Museum of Art and Digital Entertainment",
-                  "text": "Un muzeu de artă și divertisment digital în port-of-oakland-economic-v2.",
+                  "text": "Muzeu de jocuri video și artă digitală în Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.274411,
@@ -6990,7 +6990,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alameda Museum",
-                  "text": "Un muzeu al istoriei locale din Alameda în port-of-oakland-economic-v2.",
+                  "text": "Muzeu de istorie locală a orașului Alameda într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         -122.244089,
@@ -6999,7 +6999,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Letterform Archive",
-                  "text": "Un muzeu dedicat scrisului și tipografiei în port-of-oakland-economic-v2.",
+                  "text": "Muzeu de tipografie și design de caractere în Oakland, California.",
                   "category": "museum",
                   "coords": [
                         -122.388244,
@@ -7035,7 +7035,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnes Collection of Jewish Art and Life",
-                  "text": "Un muzeu al artei și vieții evreiești în port-of-oakland-economic-v2.",
+                  "text": "Colecție de artă și artefacte evreiești la Universitatea California, Berkeley, lângă Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.266877,
@@ -7044,7 +7044,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lawrence Hall of Science",
-                  "text": "Un muzeu științific în port-of-oakland-economic-v2.",
+                  "text": "Muzeu de știință cu planetariu și expoziții interactive în Berkeley.",
                   "category": "museum",
                   "coords": [
                         -122.246689,
@@ -7053,7 +7053,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Crucible",
-                  "text": "Un centru de educație artistică în port-of-oakland-economic-v2.",
+                  "text": "Centru de artă pentru foc și metal în Oakland.",
                   "category": "cultural",
                   "coords": [
                         -122.290753,
@@ -7071,7 +7071,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Temple Sinai",
-                  "text": "O sinagogă evreiască reformată în port-of-oakland-economic-v2.",
+                  "text": "Sinagogă a comunității reformate în Oakland, California.",
                   "category": "religious",
                   "coords": [
                         -122.26439,
@@ -7080,7 +7080,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Basilica",
-                  "text": "O bazilică minoră în port-of-oakland-economic-v2.",
+                  "text": "Basilică în stil neoclasic în Alameda, lângă Oakland.",
                   "category": "religious",
                   "coords": [
                         -122.254885,
@@ -7089,7 +7089,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Community Theater",
-                  "text": "Un teatru istoric în port-of-oakland-economic-v2.",
+                  "text": "Teatru cu 3.500 de locuri pe campusul UC Berkeley.",
                   "category": "cultural",
                   "coords": [
                         -122.271513,
@@ -7098,7 +7098,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Zen Center",
-                  "text": "Un centru zen budist în port-of-oakland-economic-v2.",
+                  "text": "Centru de meditație Zen budist în Berkeley.",
                   "category": "religious",
                   "coords": [
                         -122.269919,
@@ -7179,7 +7179,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Morcom Rose Garden",
-                  "text": "Morcom Rose Garden este o grădină publică de trandafiri în zona portuară Oakland.",
+                  "text": "Grădină de trandafiri cu peste 1000 de tufe și un foișor în Oakland.",
                   "category": "park",
                   "coords": [
                         -122.246981,
@@ -7188,7 +7188,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Robert W. Crown Memorial State Beach",
-                  "text": "Robert W. Crown Memorial State Beach este o plajă de stat în Alameda, în zona portuară Oakland.",
+                  "text": "Parc de plajă pe golful San Francisco, cu zone de picnic și vedere spre orizontul San Francisco.",
                   "category": "park",
                   "coords": [
                         -122.267157,
@@ -7197,7 +7197,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warm Water Cove Park",
-                  "text": "Warm Water Cove Park este un parc de pe malul apei în zona portuară Oakland.",
+                  "text": "Parc mic pe estuarul Oakland cu alei și vedere spre centrala electrică.",
                   "category": "park",
                   "coords": [
                         -122.383359,
@@ -7242,7 +7242,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "South Berkeley Community Congregational Church",
-                  "text": "South Berkeley Community Congregational Church este o clădire istorică de biserică în Berkeley, în zona portuară Oakland.",
+                  "text": "O biserică comunitară istorică din Oakland, cunoscută pentru arhitectura sa neogotică și activitățile sociale.",
                   "category": "religious",
                   "coords": [
                         -122.272553,
@@ -7251,7 +7251,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco–Oakland Bay Bridge West Span",
-                  "text": "San Francisco–Oakland Bay Bridge West Span este secțiunea vestică a podului San Francisco–Oakland Bay Bridge.",
+                  "text": "Secțiunea de pod suspendat care leagă Insula Yerba Buena de San Francisco, parte a podului San Francisco–Oakland Bay Bridge.",
                   "category": "landmark",
                   "coords": [
                         -122.378681,
@@ -7260,7 +7260,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Leimert Bridge",
-                  "text": "Leimert Bridge este un pod în Oakland în zona portuară Oakland.",
+                  "text": "Un pod istoric cu șei (pony truss) peste canalul Lake Merritt din Oakland.",
                   "category": "landmark",
                   "coords": [
                         -122.213471,
@@ -7269,7 +7269,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Peralta Hacienda Historical",
-                  "text": "Peralta Hacienda Historical este un sit muzeal istoric în Oakland în zona portuară Oakland.",
+                  "text": "Un sit istoric în Oakland, odinioară casa familiei Peralta, acum un muzeu despre viața de fermă din California timpurie.",
                   "category": "museum",
                   "coords": [
                         -122.217453,
@@ -7278,7 +7278,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Pacific Pinball Museum",
-                  "text": "Pacific Pinball Museum este un muzeu dedicat mașinilor de pinball în zona portuară Oakland.",
+                  "text": "Un muzeu în Oakland cu peste 80 de mașini de pinball vintage din anii 1930 până în prezent.",
                   "category": "museum",
                   "coords": [
                         -122.276585,
@@ -7287,7 +7287,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Craft and Design",
-                  "text": "Museum of Craft and Design este un muzeu de meșteșuguri și design în zona portuară Oakland.",
+                  "text": "Un muzeu în Oakland care prezintă meșteșugurile contemporane, designul și artele decorative.",
                   "category": "museum",
                   "coords": [
                         -122.387959,
@@ -7296,7 +7296,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco Railway Museum",
-                  "text": "San Francisco Railway Museum este un muzeu despre istoria căilor ferate din San Francisco în zona portuară Oakland.",
+                  "text": "Un muzeu în Oakland dedicat istoriei tramvaielor electrice și telefericelor din zona golfului San Francisco.",
                   "category": "museum",
                   "coords": [
                         -122.393674,
@@ -7305,7 +7305,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Camron-Stanford House",
-                  "text": "Camron-Stanford House este un muzeu-casă istorică în Oakland în zona portuară Oakland.",
+                  "text": "Casă istorică victoriană din 1876, acum muzeu în Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.262198,
@@ -7325,7 +7325,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The MADE",
-                  "text": "A museum of art and digital entertainment in port-of-oakland-economic-v2.",
+                  "text": "Museum of video games and digital art in Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.274411,
@@ -7334,7 +7334,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Alameda Museum",
-                  "text": "A museum of Alameda's local history in port-of-oakland-economic-v2.",
+                  "text": "Local history museum of Alameda in a historic building.",
                   "category": "museum",
                   "coords": [
                         -122.244089,
@@ -7343,7 +7343,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Letterform Archive",
-                  "text": "A museum dedicated to lettering and typography in port-of-oakland-economic-v2.",
+                  "text": "Museum of typography and letterform design in Oakland, California.",
                   "category": "museum",
                   "coords": [
                         -122.388244,
@@ -7379,7 +7379,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnes Collection of Jewish Art and Life",
-                  "text": "A museum of Jewish art and life in port-of-oakland-economic-v2.",
+                  "text": "Collection of Jewish art and artifacts at UC Berkeley, near Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.266877,
@@ -7388,7 +7388,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lawrence Hall of Science",
-                  "text": "A science museum in port-of-oakland-economic-v2.",
+                  "text": "Science museum with planetarium and interactive exhibits in Berkeley.",
                   "category": "museum",
                   "coords": [
                         -122.246689,
@@ -7397,7 +7397,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Crucible",
-                  "text": "An arts education center in port-of-oakland-economic-v2.",
+                  "text": "Arts center for fire and metal art in Oakland.",
                   "category": "cultural",
                   "coords": [
                         -122.290753,
@@ -7415,7 +7415,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Temple Sinai",
-                  "text": "A Reform Jewish synagogue in port-of-oakland-economic-v2.",
+                  "text": "Reform Jewish synagogue in Oakland, California.",
                   "category": "religious",
                   "coords": [
                         -122.26439,
@@ -7424,7 +7424,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Basilica",
-                  "text": "A minor basilica in port-of-oakland-economic-v2.",
+                  "text": "Neoclassical-style basilica in Alameda, near Oakland.",
                   "category": "religious",
                   "coords": [
                         -122.254885,
@@ -7433,7 +7433,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Community Theater",
-                  "text": "A historic theater in port-of-oakland-economic-v2.",
+                  "text": "Theater with 3,500 seats on the UC Berkeley campus.",
                   "category": "cultural",
                   "coords": [
                         -122.271513,
@@ -7442,7 +7442,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Berkeley Zen Center",
-                  "text": "A Zen Buddhist center in port-of-oakland-economic-v2.",
+                  "text": "Zen Buddhist meditation center in Berkeley.",
                   "category": "religious",
                   "coords": [
                         -122.269919,
@@ -7523,7 +7523,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Morcom Rose Garden",
-                  "text": "Morcom Rose Garden is a public rose garden in the Port of Oakland area.",
+                  "text": "Rose garden with over 1,000 rose bushes and a pavilion in Oakland.",
                   "category": "park",
                   "coords": [
                         -122.246981,
@@ -7532,7 +7532,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Robert W. Crown Memorial State Beach",
-                  "text": "Robert W. Crown Memorial State Beach is a state beach in Alameda in the Port of Oakland area.",
+                  "text": "Beach park on San Francisco Bay with picnic areas and view of the San Francisco skyline.",
                   "category": "park",
                   "coords": [
                         -122.267157,
@@ -7541,7 +7541,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Warm Water Cove Park",
-                  "text": "Warm Water Cove Park is a waterfront park in the Port of Oakland area.",
+                  "text": "Small park on Oakland Estuary with paths and view of the power plant.",
                   "category": "park",
                   "coords": [
                         -122.383359,
@@ -7586,7 +7586,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "South Berkeley Community Congregational Church",
-                  "text": "South Berkeley Community Congregational Church is a historic church building in Berkeley in the Port of Oakland area.",
+                  "text": "A historic community church in Oakland known for its Gothic Revival architecture and social outreach.",
                   "category": "religious",
                   "coords": [
                         -122.272553,
@@ -7595,7 +7595,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco–Oakland Bay Bridge West Span",
-                  "text": "San Francisco–Oakland Bay Bridge West Span is the western section of the San Francisco–Oakland Bay Bridge.",
+                  "text": "The suspension bridge section connecting Yerba Buena Island to San Francisco, part of the San Francisco–Oakland Bay Bridge.",
                   "category": "landmark",
                   "coords": [
                         -122.378681,
@@ -7604,7 +7604,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Leimert Bridge",
-                  "text": "Leimert Bridge is a bridge in Oakland in the Port of Oakland area.",
+                  "text": "A historic pony truss bridge over the Lake Merritt channel in Oakland.",
                   "category": "landmark",
                   "coords": [
                         -122.213471,
@@ -7613,7 +7613,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Peralta Hacienda Historical",
-                  "text": "Peralta Hacienda Historical is a historical museum site in Oakland in the Port of Oakland area.",
+                  "text": "A historic site in Oakland once home to the Peralta family, now a museum on early California ranch life.",
                   "category": "museum",
                   "coords": [
                         -122.217453,
@@ -7622,7 +7622,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Pacific Pinball Museum",
-                  "text": "Pacific Pinball Museum is a museum dedicated to pinball machines in the Port of Oakland area.",
+                  "text": "A museum in Oakland with over 80 vintage pinball machines from the 1930s to the present.",
                   "category": "museum",
                   "coords": [
                         -122.276585,
@@ -7631,7 +7631,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Craft and Design",
-                  "text": "Museum of Craft and Design is a museum focused on craft and design in the Port of Oakland area.",
+                  "text": "A museum in Oakland showcasing contemporary craft, design, and decorative arts.",
                   "category": "museum",
                   "coords": [
                         -122.387959,
@@ -7640,7 +7640,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "San Francisco Railway Museum",
-                  "text": "San Francisco Railway Museum is a museum about San Francisco's railway history in the Port of Oakland area.",
+                  "text": "A museum in Oakland dedicated to the history of electric streetcars and cable cars in the San Francisco Bay Area.",
                   "category": "museum",
                   "coords": [
                         -122.393674,
@@ -7649,7 +7649,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Camron-Stanford House",
-                  "text": "Camron-Stanford House is a historic house museum in Oakland in the Port of Oakland area.",
+                  "text": "Historic Victorian house from 1876, now a museum in Oakland.",
                   "category": "museum",
                   "coords": [
                         -122.262198,
@@ -7732,7 +7732,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "USS Norfolk Bell",
-                  "text": "Die USS Norfolk Bell ist eine Sehenswürdigkeit im Port-of-Virginia-Wirtschaftsgebiet, eine Glocke der USS Norfolk.",
+                  "text": "Schiffsglocke des Zerstörers USS Norfolk, ausgestellt in Virginia.",
                   "category": "landmark",
                   "coords": [
                         -76.294439,
@@ -7777,7 +7777,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Campostella Bridge",
-                  "text": "Die Campostella Bridge ist eine Brücke im Port-of-Virginia-Wirtschaftsgebiet.",
+                  "text": "Eine Zugbrücke über den Elizabeth River in Norfolk, die das Campostella-Viertel verbindet.",
                   "category": "landmark",
                   "coords": [
                         -76.265026,
@@ -7804,7 +7804,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barry Art Museum",
-                  "text": "Das Barry Art Museum ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet, das Kunst ausstellt.",
+                  "text": "Ein Museum an der Old Dominion University in Norfolk, das moderne und zeitgenössische Kunst zeigt.",
                   "category": "museum",
                   "coords": [
                         -76.301856,
@@ -7822,7 +7822,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Granby Theater",
-                  "text": "Das Granby Theater ist ein Theater im Port-of-Virginia-Wirtschaftsgebiet.",
+                  "text": "Ein historisches Theater an der Granby Street in Norfolk, das Live-Musik, Comedy und Events veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -76.28988,
@@ -7831,7 +7831,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Theater",
-                  "text": "Das Wells Theater ist ein Theater im Port-of-Virginia-Wirtschaftsgebiet.",
+                  "text": "Ein historisches Theater in der Innenstadt von Norfolk, bekannt für seine Beaux-Arts-Architektur und darstellende Künste.",
                   "category": "cultural",
                   "coords": [
                         -76.290211,
@@ -7885,7 +7885,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Harrison Opera House",
-                  "text": "Das Harrison Opera House ist ein Theater im Port-of-Virginia-Wirtschaftsgebiet.",
+                  "text": "Das Haus der Virginia Opera in Norfolk, ein historisches Opernhaus mit prunkvollen Innenräumen.",
                   "category": "cultural",
                   "coords": [
                         -76.289942,
@@ -7894,7 +7894,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Boushs Bluff",
-                  "text": "Eine Klippe in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Eine malerische Klippe mit Blick auf die Chesapeake Bay in Virginia, bekannt für ihre Panoramaaussichten.",
                   "category": "landmark",
                   "coords": [
                         -76.310497,
@@ -7903,7 +7903,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Edgewater Haven",
-                  "text": "Eine Bucht in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Ein Wahrzeichen am Wasser in Virginia mit malerischem Blick auf den Fluss und die umliegenden Sumpfgebiete.",
                   "category": "landmark",
                   "coords": [
                         -76.308831,
@@ -7912,7 +7912,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "West Norfolk Bridge",
-                  "text": "Eine Brücke in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Eine Brücke, die West Norfolk mit Portsmouth über den Elizabeth River verbindet.",
                   "category": "landmark",
                   "coords": [
                         -76.339968,
@@ -7921,7 +7921,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Westhaven Recreation Center",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Ein Gemeinschaftsfreizeitzentrum in Virginia mit Sportplätzen, einem Spielplatz und einer Turnhalle.",
                   "category": "park",
                   "coords": [
                         -76.356887,
@@ -7930,7 +7930,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Captains Quarters Nature Center And Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park mit einem Naturzentrum am Elizabeth River in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.274167,
@@ -7939,7 +7939,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoop Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Wohngebiets-Park im Fairmount-Viertel von Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.261323,
@@ -7948,7 +7948,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Churchland Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park in der Nähe einer Kirche im Churchland-Viertel von Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.377673,
@@ -7957,7 +7957,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Franklin Circle Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park an einem Kreisverkehr in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.339281,
@@ -7966,7 +7966,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Town Point Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Uferpark im Stadtzentrum von Norfolk am Elizabeth River mit Piers und Veranstaltungen.",
                   "category": "park",
                   "coords": [
                         -76.294457,
@@ -7975,7 +7975,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lafayette Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park benannt nach Marquis de Lafayette, entlang des Lafayette River in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.280251,
@@ -7984,7 +7984,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barraud Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park mit einem Gemeinschaftszentrum im Barraud-Park-Viertel von Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.265395,
@@ -7993,7 +7993,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Johnson Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park mit Spielplatz in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.276812,
@@ -8002,7 +8002,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "East Ocean View Community Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Gemeinschaftspark im Ocean-View-Viertel von Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.194964,
@@ -8011,7 +8011,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Norfolk Botanical Garden",
-                  "text": "Ein Garten in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "155 Hektar großer botanischer Garten nahe dem Norfolk International Airport.",
                   "category": "park",
                   "coords": [
                         -76.201148,
@@ -8020,7 +8020,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tarrallton Park",
-                  "text": "Ein Park in der Stadt Port-of-Virginia-Economic-V2.",
+                  "text": "Park im Tarrallton-Viertel von Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.21947,
@@ -8067,7 +8067,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "USS Norfolk Bell",
-                  "text": "Az USS Norfolk Bell egy látványosság a Port of Virginia gazdasági övezetben, az USS Norfolk harangja.",
+                  "text": "Az USS Norfolk romboló hajóharangja, kiállítva Virginiában.",
                   "category": "landmark",
                   "coords": [
                         -76.294439,
@@ -8112,7 +8112,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Campostella Bridge",
-                  "text": "A Campostella Bridge egy híd a Port of Virginia gazdasági övezetben.",
+                  "text": "Egy felvonóhíd az Elizabeth folyón Norfolkban, összekötve a Campostella negyedet.",
                   "category": "landmark",
                   "coords": [
                         -76.265026,
@@ -8139,7 +8139,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barry Art Museum",
-                  "text": "A Barry Art Museum egy múzeum a Port of Virginia gazdasági övezetben, amely művészeti alkotásokat mutat be.",
+                  "text": "Egy múzeum a norfolki Old Dominion Egyetemen, modern és kortárs művészetet bemutatva.",
                   "category": "museum",
                   "coords": [
                         -76.301856,
@@ -8157,7 +8157,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Granby Theater",
-                  "text": "A Granby Theater egy színház a Port of Virginia gazdasági övezetben.",
+                  "text": "Egy történelmi színház a norfolki Granby Streeten, élő zenével, komédiával és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         -76.28988,
@@ -8166,7 +8166,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Theater",
-                  "text": "A Wells Theater egy színház a Port of Virginia gazdasági övezetben.",
+                  "text": "Egy történelmi színház Norfolk belvárosában, ismert Beaux-Arts építészetéről és előadóművészetéről.",
                   "category": "cultural",
                   "coords": [
                         -76.290211,
@@ -8220,7 +8220,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Harrison Opera House",
-                  "text": "A Harrison Opera House egy színház a Port of Virginia gazdasági övezetben.",
+                  "text": "A Virginia Opera otthona Norfolkban, egy történelmi operaház díszes belső terekkel.",
                   "category": "cultural",
                   "coords": [
                         -76.289942,
@@ -8229,7 +8229,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Boushs Bluff",
-                  "text": "Egy szikla Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Egy festői szikla, amely a Chesapeake-öbölre néz Virginia államban, panorámás kilátásairól ismert.",
                   "category": "landmark",
                   "coords": [
                         -76.310497,
@@ -8238,7 +8238,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Edgewater Haven",
-                  "text": "Egy öböl Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Egy vízparti nevezetesség Virginiában, festői kilátással a folyóra és a környező mocsarakra.",
                   "category": "landmark",
                   "coords": [
                         -76.308831,
@@ -8247,7 +8247,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "West Norfolk Bridge",
-                  "text": "Egy híd Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Egy híd, amely összeköti West Norfolkot Portsmouth-val az Elizabeth folyón át.",
                   "category": "landmark",
                   "coords": [
                         -76.339968,
@@ -8256,7 +8256,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Westhaven Recreation Center",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Egy közösségi rekreációs központ Virginiában, sportpályákkal, játszótérrel és tornateremmel.",
                   "category": "park",
                   "coords": [
                         -76.356887,
@@ -8265,7 +8265,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Captains Quarters Nature Center And Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park természetvédelmi központtal az Elizabeth River partján Norfolkban.",
                   "category": "park",
                   "coords": [
                         -76.274167,
@@ -8274,7 +8274,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoop Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Lakónegyedi park Norfolk Fairmount negyedében.",
                   "category": "park",
                   "coords": [
                         -76.261323,
@@ -8283,7 +8283,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Churchland Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park egy templom közelében Norfolk Churchland negyedében.",
                   "category": "park",
                   "coords": [
                         -76.377673,
@@ -8292,7 +8292,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Franklin Circle Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park egy körforgalomnál Norfolkban.",
                   "category": "park",
                   "coords": [
                         -76.339281,
@@ -8301,7 +8301,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Town Point Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Vízi park Norfolk belvárosában az Elizabeth River partján, stégekkel és rendezvényekkel.",
                   "category": "park",
                   "coords": [
                         -76.294457,
@@ -8310,7 +8310,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lafayette Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park, amely Marquis de Lafayette-ről kapta a nevét, a Lafayette River mentén Norfolkban.",
                   "category": "park",
                   "coords": [
                         -76.280251,
@@ -8319,7 +8319,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barraud Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park közösségi központtal Norfolk Barraud Park negyedében.",
                   "category": "park",
                   "coords": [
                         -76.265395,
@@ -8328,7 +8328,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Johnson Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park játszótérrel Norfolkban.",
                   "category": "park",
                   "coords": [
                         -76.276812,
@@ -8337,7 +8337,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "East Ocean View Community Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Központi park az Ocean View negyedben Norfolkban.",
                   "category": "park",
                   "coords": [
                         -76.194964,
@@ -8346,7 +8346,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Norfolk Botanical Garden",
-                  "text": "Egy kert Port-of-Virginia-Economic-V2 városában.",
+                  "text": "155 hektáros botanikus kert a Norfolk International Airport közelében.",
                   "category": "park",
                   "coords": [
                         -76.201148,
@@ -8355,7 +8355,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tarrallton Park",
-                  "text": "Egy park Port-of-Virginia-Economic-V2 városában.",
+                  "text": "Park Norfolk Tarrallton negyedében.",
                   "category": "park",
                   "coords": [
                         -76.21947,
@@ -8402,7 +8402,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "USS Norfolk Bell",
-                  "text": "USS Norfolk Bell este o atracție în zona economică Port of Virginia, un clopot de la USS Norfolk.",
+                  "text": "Clopotul navei distrugător USS Norfolk, expus în Virginia.",
                   "category": "landmark",
                   "coords": [
                         -76.294439,
@@ -8447,7 +8447,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Campostella Bridge",
-                  "text": "Campostella Bridge este un pod în zona economică Port of Virginia.",
+                  "text": "Un pod basculant peste râul Elizabeth din Norfolk, care leagă cartierul Campostella.",
                   "category": "landmark",
                   "coords": [
                         -76.265026,
@@ -8474,7 +8474,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barry Art Museum",
-                  "text": "Barry Art Museum este un muzeu în zona economică Port of Virginia, care expune artă.",
+                  "text": "Un muzeu la Universitatea Old Dominion din Norfolk, care prezintă artă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
                         -76.301856,
@@ -8492,7 +8492,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Granby Theater",
-                  "text": "Granby Theater este un teatru în zona economică Port of Virginia.",
+                  "text": "Un teatru istoric pe strada Granby din Norfolk, care găzduiește muzică live, comedie și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -76.28988,
@@ -8501,7 +8501,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Theater",
-                  "text": "Wells Theater este un teatru în zona economică Port of Virginia.",
+                  "text": "Un teatru istoric în centrul orașului Norfolk, cunoscut pentru arhitectura sa Beaux-Arts și artele spectacolului.",
                   "category": "cultural",
                   "coords": [
                         -76.290211,
@@ -8555,7 +8555,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Harrison Opera House",
-                  "text": "Harrison Opera House este un teatru în zona economică Port of Virginia.",
+                  "text": "Casa Operei Virginia din Norfolk, o casă de operă istorică cu interioare ornamentate.",
                   "category": "cultural",
                   "coords": [
                         -76.289942,
@@ -8564,7 +8564,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Boushs Bluff",
-                  "text": "O stâncă în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "O stâncă pitorească cu vedere spre golful Chesapeake din Virginia, cunoscută pentru priveliștile sale panoramice.",
                   "category": "landmark",
                   "coords": [
                         -76.310497,
@@ -8573,7 +8573,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Edgewater Haven",
-                  "text": "Un golf în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Un reper pe malul apei în Virginia, oferind vederi pitorești ale râului și mlaștinilor din jur.",
                   "category": "landmark",
                   "coords": [
                         -76.308831,
@@ -8582,7 +8582,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "West Norfolk Bridge",
-                  "text": "Un pod în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Un pod care leagă West Norfolk de Portsmouth peste râul Elizabeth.",
                   "category": "landmark",
                   "coords": [
                         -76.339968,
@@ -8591,7 +8591,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Westhaven Recreation Center",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Un centru de recreere comunitar în Virginia, cu terenuri sportive, loc de joacă și sală de sport.",
                   "category": "park",
                   "coords": [
                         -76.356887,
@@ -8600,7 +8600,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Captains Quarters Nature Center And Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul cu un centru natural pe malul râului Elizabeth din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.274167,
@@ -8609,7 +8609,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoop Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul de cartier în zona Fairmount din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.261323,
@@ -8618,7 +8618,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Churchland Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul lângă o biserică în cartierul Churchland din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.377673,
@@ -8627,7 +8627,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Franklin Circle Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul la un sens giratoriu în Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.339281,
@@ -8636,7 +8636,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Town Point Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul de pe mal în centrul orașului Norfolk pe râul Elizabeth, cu pontoane și evenimente.",
                   "category": "park",
                   "coords": [
                         -76.294457,
@@ -8645,7 +8645,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lafayette Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul numit după marchizul de Lafayette, de-a lungul râului Lafayette din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.280251,
@@ -8654,7 +8654,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barraud Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul cu un centru comunitar în cartierul Barraud Park din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.265395,
@@ -8663,7 +8663,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Johnson Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul cu un loc de joacă în Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.276812,
@@ -8672,7 +8672,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "East Ocean View Community Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul comunitar în cartierul Ocean View din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.194964,
@@ -8681,7 +8681,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Norfolk Botanical Garden",
-                  "text": "O grădină în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Grădină botanică de 155 de hectare lângă Aeroportul Internațional Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.201148,
@@ -8690,7 +8690,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tarrallton Park",
-                  "text": "Un parc în orașul Port-of-Virginia-Economic-V2.",
+                  "text": "Parcul în cartierul Tarrallton din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.21947,
@@ -8737,7 +8737,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "USS Norfolk Bell",
-                  "text": "USS Norfolk Bell is an attraction in the Port of Virginia economic area, a bell from the USS Norfolk.",
+                  "text": "Ship's bell of the destroyer USS Norfolk, displayed in Virginia.",
                   "category": "landmark",
                   "coords": [
                         -76.294439,
@@ -8782,7 +8782,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Campostella Bridge",
-                  "text": "Campostella Bridge is a bridge in the Port of Virginia economic area.",
+                  "text": "A drawbridge crossing the Elizabeth River in Norfolk, connecting the Campostella neighborhood.",
                   "category": "landmark",
                   "coords": [
                         -76.265026,
@@ -8809,7 +8809,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barry Art Museum",
-                  "text": "Barry Art Museum is a museum in the Port of Virginia economic area showcasing art.",
+                  "text": "A museum at Old Dominion University in Norfolk, featuring modern and contemporary art.",
                   "category": "museum",
                   "coords": [
                         -76.301856,
@@ -8827,7 +8827,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Granby Theater",
-                  "text": "Granby Theater is a theatre in the Port of Virginia economic area.",
+                  "text": "A historic theater on Granby Street in Norfolk, hosting live music, comedy, and events.",
                   "category": "cultural",
                   "coords": [
                         -76.28988,
@@ -8836,7 +8836,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Theater",
-                  "text": "Wells Theater is a theatre in the Port of Virginia economic area.",
+                  "text": "A historic theater in downtown Norfolk, known for its Beaux-Arts architecture and performing arts.",
                   "category": "cultural",
                   "coords": [
                         -76.290211,
@@ -8890,7 +8890,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Harrison Opera House",
-                  "text": "Harrison Opera House is a theatre in the Port of Virginia economic area.",
+                  "text": "The home of Virginia Opera in Norfolk, a historic opera house with ornate interiors.",
                   "category": "cultural",
                   "coords": [
                         -76.289942,
@@ -8899,7 +8899,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Boushs Bluff",
-                  "text": "A cliff in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "A scenic bluff overlooking the Chesapeake Bay in Virginia, known for its panoramic views.",
                   "category": "landmark",
                   "coords": [
                         -76.310497,
@@ -8908,7 +8908,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Edgewater Haven",
-                  "text": "A bay in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "A waterfront landmark in Virginia offering scenic views of the river and surrounding marshlands.",
                   "category": "landmark",
                   "coords": [
                         -76.308831,
@@ -8917,7 +8917,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "West Norfolk Bridge",
-                  "text": "A bridge in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "A bridge connecting West Norfolk to Portsmouth across the Elizabeth River.",
                   "category": "landmark",
                   "coords": [
                         -76.339968,
@@ -8926,7 +8926,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Westhaven Recreation Center",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "A community recreation center in Virginia with sports fields, a playground, and a gymnasium.",
                   "category": "park",
                   "coords": [
                         -76.356887,
@@ -8935,7 +8935,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Captains Quarters Nature Center And Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park with a nature center along the Elizabeth River in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.274167,
@@ -8944,7 +8944,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Shoop Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Neighborhood park in the Fairmount area of Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.261323,
@@ -8953,7 +8953,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Churchland Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park near a church in the Churchland neighborhood of Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.377673,
@@ -8962,7 +8962,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Franklin Circle Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park at a traffic circle in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.339281,
@@ -8971,7 +8971,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Town Point Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Waterfront park in downtown Norfolk on the Elizabeth River with piers and events.",
                   "category": "park",
                   "coords": [
                         -76.294457,
@@ -8980,7 +8980,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Lafayette Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park named after the Marquis de Lafayette along the Lafayette River in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.280251,
@@ -8989,7 +8989,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Barraud Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park with a community center in the Barraud Park neighborhood of Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.265395,
@@ -8998,7 +8998,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Johnson Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park with a playground in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.276812,
@@ -9007,7 +9007,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "East Ocean View Community Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Community park in the Ocean View neighborhood of Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.194964,
@@ -9016,7 +9016,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Norfolk Botanical Garden",
-                  "text": "A garden in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "155-acre botanical garden near Norfolk International Airport.",
                   "category": "park",
                   "coords": [
                         -76.201148,
@@ -9025,7 +9025,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tarrallton Park",
-                  "text": "A park in the city of Port-of-Virginia-Economic-V2.",
+                  "text": "Park in the Tarrallton neighborhood of Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.21947,
@@ -9108,7 +9108,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Bay History Center",
-                  "text": "Das Tampa Bay History Center in Tampa erzählt die Geschichte der Region Tampa Bay.",
+                  "text": "Museum am Tampa Riverwalk, das die Geschichte der Tampa Bay darstellt.",
                   "category": "museum",
                   "coords": [
                         -82.449885,
@@ -9117,7 +9117,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa City Hall",
-                  "text": "Das Tampa City Hall ist der Sitz der Stadtregierung von Tampa.",
+                  "text": "Historisches Beaux-Arts-Rathaus von 1915 in der Innenstadt von Tampa.",
                   "category": "historical",
                   "coords": [
                         -82.457237,
@@ -9135,7 +9135,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Catholic Church",
-                  "text": "Die Sacred Heart Catholic Church in Tampa ist eine historische Kirche im Stadtteil Ybor City.",
+                  "text": "Römisch-katholische Kirche mit markanter Kuppel in der Innenstadt von Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.457235,
@@ -9153,7 +9153,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Palma Ceia Spring",
-                  "text": "Die Palma Ceia Spring in Tampa ist eine natürliche Quelle im Stadtteil Palma Ceia.",
+                  "text": "Natürliche Quelle im Palma-Ceia-Viertel von Tampa.",
                   "category": "landmark",
                   "coords": [
                         -82.488286,
@@ -9162,7 +9162,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "Die Hillsborough Bay ist eine große Bucht neben Tampa, Teil der Tampa Bay.",
+                  "text": "Bucht, die das östliche Ufer des Tampa-Bay-Ästuars bildet.",
                   "category": "landmark",
                   "coords": [
                         -82.425971,
@@ -9171,7 +9171,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Winthrop Common",
-                  "text": "Der Winthrop Common in Tampa ist ein Wohngebietspark im Stadtteil Winthrop.",
+                  "text": "Kleiner Stadtpark in Tampa.",
                   "category": "park",
                   "coords": [
                         -82.314778,
@@ -9180,7 +9180,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Park",
-                  "text": "Der Centennial Park in Tampa ist ein kleiner Park im Stadtzentrum.",
+                  "text": "Park in der Innenstadt von Tampa in der Nähe des Flusses.",
                   "category": "park",
                   "coords": [
                         -82.4386,
@@ -9189,7 +9189,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Anderson Park",
-                  "text": "Der Anderson Park in Tampa ist ein Nachbarschaftspark.",
+                  "text": "Park im Anderson-Viertel von Tampa.",
                   "category": "park",
                   "coords": [
                         -82.477388,
@@ -9198,7 +9198,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "AIDS Memorial Park",
-                  "text": "Der AIDS Memorial Park in Tampa ist ein Park, der den von HIV/AIDS Betroffenen gewidmet ist.",
+                  "text": "Gedenkpark in Tampa zu Ehren der von AIDS Betroffenen.",
                   "category": "park",
                   "coords": [
                         -82.46014,
@@ -9207,7 +9207,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "McKay Bay Nature Park",
-                  "text": "Der McKay Bay Nature Park in Tampa ist ein Naturschutzgebiet mit Wanderwegen und Tierbeobachtungsmöglichkeiten.",
+                  "text": "Naturschutzgebiet entlang der McKay Bay in Tampa.",
                   "category": "natural",
                   "coords": [
                         -82.421441,
@@ -9216,7 +9216,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ballast Point Park",
-                  "text": "Der Ballast Point Park in Tampa ist ein Uferpark an der Hillsborough Bay.",
+                  "text": "Uferpark an der Tampa Bay mit Pier und Spielplatz.",
                   "category": "park",
                   "coords": [
                         -82.481292,
@@ -9225,7 +9225,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Scarfone/Hartley Gallery",
-                  "text": "Die Scarfone/Hartley Gallery in Tampa ist eine zeitgenössische Kunstgalerie an der University of Tampa.",
+                  "text": "Universitätskunstgalerie auf dem Campus der University of Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.468692,
@@ -9234,7 +9234,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida Museum of Photographic Arts",
-                  "text": "Das Florida Museum of Photographic Arts in Tampa zeigt fotografische Werke.",
+                  "text": "Museum für fotografische Kunst in der Innenstadt von Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.440725,
@@ -9243,7 +9243,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Fire Fighters Museum",
-                  "text": "Ein Museum zur Feuerwehrgeschichte in Tampa.",
+                  "text": "Feuerwehrmuseum in einer ehemaligen Feuerwache in Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.455061,
@@ -9252,7 +9252,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Columbia Centennial Museum",
-                  "text": "Ein Museum in Tampa, das sich auf das hundertjährige Bestehen Kolumbiens konzentriert.",
+                  "text": "Museum zum 100-jährigen Jubiläum des Columbia Restaurants in Ybor City, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.435707,
@@ -9261,7 +9261,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "David Falk Theater",
-                  "text": "Ein Theater in Tampa, benannt nach David Falk.",
+                  "text": "Aufführungsort der University of South Florida in Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.464856,
@@ -9279,7 +9279,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Improv",
-                  "text": "Ein Comedy-Theater in Tampa.",
+                  "text": "Comedy-Club im Channelside-Viertel von Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.441858,
@@ -9288,7 +9288,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Commodore",
-                  "text": "Ein Theater namens The Commodore in Tampa.",
+                  "text": "Live-Musik-Lokal im Seminole Heights-Viertel von Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.451582,
@@ -9297,7 +9297,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Downtown Rotary Pavillion",
-                  "text": "Ein Pavillon für Aufführungen in der Innenstadt von Tampa.",
+                  "text": "Pavillon für Gemeinschaftsveranstaltungen in der Innenstadt von Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.463153,
@@ -9306,7 +9306,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Rialto Theater",
-                  "text": "Ein historisches Theater in Tampa.",
+                  "text": "Historisches Kino aus der Stummfilmzeit im Tampa Heights-Viertel, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.459956,
@@ -9315,7 +9315,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Straz Center for The Performing Arts",
-                  "text": "Ein Zentrum für darstellende Künste in Tampa.",
+                  "text": "Großes Kulturzentrum am Hillsborough River in der Innenstadt von Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.463933,
@@ -9324,7 +9324,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiley Gardens Amphitheatre",
-                  "text": "Ein Amphitheater in den Kiley Gardens in Tampa.",
+                  "text": "Freiluft-Amphitheater in den Kiley Gardens am Straz Center, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.461487,
@@ -9333,7 +9333,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Orpheum",
-                  "text": "Ein Theater namens The Orpheum in Tampa.",
+                  "text": "Historischer Musikclub in Ybor City, ursprünglich ein Theater, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.437391,
@@ -9342,7 +9342,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida State Fairgrounds",
-                  "text": "Das Messegelände der Florida State Fair in Tampa.",
+                  "text": "Ausstellungsgelände der jährlichen Florida State Fair in Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
@@ -9351,7 +9351,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Royal Caribbean cruise port",
-                  "text": "Ein Kreuzfahrthafen für Royal Caribbean in Tampa.",
+                  "text": "Kreuzfahrtterminal für Royal Caribbean im Hafen von Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.445895,
@@ -9398,7 +9398,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Bay History Center",
-                  "text": "A tampa-i Tampa Bay History Center a Tampa Bay régió történetét meséli el.",
+                  "text": "Múzeum a Tampa Riverwalkon, amely a Tampa Bay történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -82.449885,
@@ -9407,7 +9407,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa City Hall",
-                  "text": "A Tampa City Hall Tampa város önkormányzatának székhelye.",
+                  "text": "Történelmi Beaux-Arts városháza 1915-ből Tampa belvárosában.",
                   "category": "historical",
                   "coords": [
                         -82.457237,
@@ -9425,7 +9425,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Catholic Church",
-                  "text": "A tampa-i Sacred Heart Catholic Church egy történelmi templom a Ybor City negyedben.",
+                  "text": "Római katolikus templom jellegzetes kupolával Tampa belvárosában.",
                   "category": "religious",
                   "coords": [
                         -82.457235,
@@ -9443,7 +9443,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Palma Ceia Spring",
-                  "text": "A tampa-i Palma Ceia Spring egy természetes forrás a Palma Ceia negyedben.",
+                  "text": "Természetes forrás Tampa Palma Ceia negyedében.",
                   "category": "landmark",
                   "coords": [
                         -82.488286,
@@ -9452,7 +9452,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "A Hillsborough Bay egy nagy öböl Tampa mellett, a Tampa Bay része.",
+                  "text": "Öböl, amely a Tampa Bay torkolatának keleti partját alkotja.",
                   "category": "landmark",
                   "coords": [
                         -82.425971,
@@ -9461,7 +9461,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Winthrop Common",
-                  "text": "A tampa-i Winthrop Common egy lakóövezeti park a Winthrop negyedben.",
+                  "text": "Kis városi park Tampában.",
                   "category": "park",
                   "coords": [
                         -82.314778,
@@ -9470,7 +9470,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Park",
-                  "text": "A tampa-i Centennial Park egy kis park a belvárosban.",
+                  "text": "Park Tampa belvárosában a folyó közelében.",
                   "category": "park",
                   "coords": [
                         -82.4386,
@@ -9479,7 +9479,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Anderson Park",
-                  "text": "A tampa-i Anderson Park egy szomszédsági park.",
+                  "text": "Park Tampa Anderson negyedében.",
                   "category": "park",
                   "coords": [
                         -82.477388,
@@ -9488,7 +9488,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "AIDS Memorial Park",
-                  "text": "A tampa-i AIDS Memorial Park egy park, amelyet a HIV/AIDS által érintettek emlékének szenteltek.",
+                  "text": "Emlékpark Tampában az AIDS által érintettek tiszteletére.",
                   "category": "park",
                   "coords": [
                         -82.46014,
@@ -9497,7 +9497,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "McKay Bay Nature Park",
-                  "text": "A tampa-i McKay Bay Nature Park egy természetvédelmi terület túraútvonalakkal és vadmegfigyelési lehetőségekkel.",
+                  "text": "Természetvédelmi terület a McKay Bay mentén Tampában.",
                   "category": "natural",
                   "coords": [
                         -82.421441,
@@ -9506,7 +9506,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ballast Point Park",
-                  "text": "A tampa-i Ballast Point Park egy vízparti park a Hillsborough Bay-nél.",
+                  "text": "Vízi park a Tampa Bay partján mólóval és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -82.481292,
@@ -9515,7 +9515,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Scarfone/Hartley Gallery",
-                  "text": "A tampa-i Scarfone/Hartley Gallery egy kortárs művészeti galéria a Tampa Egyetemen.",
+                  "text": "Egyetemi művészeti galéria a Tampa Egyetem campusán, Of Tampa Bayben.",
                   "category": "museum",
                   "coords": [
                         -82.468692,
@@ -9524,7 +9524,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida Museum of Photographic Arts",
-                  "text": "A tampa-i Florida Museum of Photographic Arts fényképészeti alkotásokat állít ki.",
+                  "text": "Fotóművészeti múzeum Tampa belvárosában, Of Tampa Bayben.",
                   "category": "museum",
                   "coords": [
                         -82.440725,
@@ -9533,7 +9533,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Fire Fighters Museum",
-                  "text": "Múzeum a tűzoltóság történetéről Tampában.",
+                  "text": "Tűzoltómúzeum egykori tűzoltóállomáson Tampában, Of Tampa Bayben.",
                   "category": "museum",
                   "coords": [
                         -82.455061,
@@ -9542,7 +9542,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Columbia Centennial Museum",
-                  "text": "Egy múzeum Tampában, amely Kolumbia centenáriumára összpontosít.",
+                  "text": "Múzeum a Columbia Étterem századik évfordulójára Ybor Cityben, Of Tampa Bayben.",
                   "category": "museum",
                   "coords": [
                         -82.435707,
@@ -9551,7 +9551,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "David Falk Theater",
-                  "text": "Egy színház Tampában, David Falkról elnevezve.",
+                  "text": "Előadóhely a Dél-Floridai Egyetemen Tampában, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.464856,
@@ -9569,7 +9569,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Improv",
-                  "text": "Egy komédia színház Tampában.",
+                  "text": "Komédia klub Tampa Channelside negyedében, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.441858,
@@ -9578,7 +9578,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Commodore",
-                  "text": "The Commodore nevű színház Tampában.",
+                  "text": "Élőzenei helyszín Tampa Seminole Heights negyedében, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.451582,
@@ -9587,7 +9587,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Downtown Rotary Pavillion",
-                  "text": "Előadások számára kialakított pavilon Tampa belvárosában.",
+                  "text": "Közösségi események pavilonja Tampa belvárosában, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.463153,
@@ -9596,7 +9596,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Rialto Theater",
-                  "text": "Egy történelmi színház Tampában.",
+                  "text": "Történelmozi a némafilmes korszakból Tampa Heights negyedében, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.459956,
@@ -9605,7 +9605,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Straz Center for The Performing Arts",
-                  "text": "Előadóművészeti központ Tampában.",
+                  "text": "Nagy kulturális központ a Hillsborough-folyó partján Tampa belvárosában, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.463933,
@@ -9614,7 +9614,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiley Gardens Amphitheatre",
-                  "text": "Amfiteátrum a Kiley Gardensben, Tampában.",
+                  "text": "Szabadtéri amfiteátrum a Kiley kertekben a Straz Center mellett, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.461487,
@@ -9623,7 +9623,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Orpheum",
-                  "text": "The Orpheum nevű színház Tampában.",
+                  "text": "Történelmi zenei klub Ybor Cityben, eredetileg színház, Of Tampa Bayben.",
                   "category": "cultural",
                   "coords": [
                         -82.437391,
@@ -9632,7 +9632,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida State Fairgrounds",
-                  "text": "A Florida State Fair vásárterület Tampában.",
+                  "text": "Kiállítási terület az éves floridai állami vásárhoz Tampában, Of Tampa Bayben.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
@@ -9641,7 +9641,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Royal Caribbean cruise port",
-                  "text": "Royal Caribbean hajókikötő Tampában.",
+                  "text": "Royal Caribbean körutazási terminál Tampa kikötőjében, Of Tampa Bayben.",
                   "category": "landmark",
                   "coords": [
                         -82.445895,
@@ -9688,7 +9688,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Bay History Center",
-                  "text": "Centrul de Istorie Tampa Bay din Tampa povestește istoria regiunii golfului Tampa.",
+                  "text": "Muzeul pe Tampa Riverwalk care prezintă istoria golfului Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.449885,
@@ -9697,7 +9697,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa City Hall",
-                  "text": "Primăria din Tampa este sediul guvernului orașului Tampa.",
+                  "text": "Primăria istorică Beaux-Arts din 1915 din centrul orașului Tampa.",
                   "category": "historical",
                   "coords": [
                         -82.457237,
@@ -9715,7 +9715,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Catholic Church",
-                  "text": "Biserica Catolică Sacred Heart din Tampa este o biserică istorică în cartierul Ybor City.",
+                  "text": "Biserică romano-catolică cu o cupolă proeminentă în centrul orașului Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.457235,
@@ -9733,7 +9733,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Palma Ceia Spring",
-                  "text": "Izvorul Palma Ceia din Tampa este un izvor natural situat în cartierul Palma Ceia.",
+                  "text": "Izvor natural în cartierul Palma Ceia din Tampa.",
                   "category": "landmark",
                   "coords": [
                         -82.488286,
@@ -9742,7 +9742,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "Golful Hillsborough este un golf mare adiacent orașului Tampa, parte a golfului Tampa Bay.",
+                  "text": "Golful care formează țărmul estic al estuarului Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.425971,
@@ -9751,7 +9751,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Winthrop Common",
-                  "text": "Parcul Winthrop Common din Tampa este un parc rezidențial în cartierul Winthrop.",
+                  "text": "Parcul urban mic în Tampa.",
                   "category": "park",
                   "coords": [
                         -82.314778,
@@ -9760,7 +9760,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Park",
-                  "text": "Parcul Centennial din Tampa este un parc mic în centrul orașului.",
+                  "text": "Parcul în centrul orașului Tampa lângă râu.",
                   "category": "park",
                   "coords": [
                         -82.4386,
@@ -9769,7 +9769,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Anderson Park",
-                  "text": "Parcul Anderson din Tampa este un parc de cartier.",
+                  "text": "Parcul în cartierul Anderson din Tampa.",
                   "category": "park",
                   "coords": [
                         -82.477388,
@@ -9778,7 +9778,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "AIDS Memorial Park",
-                  "text": "Parcul Memorial SIDA din Tampa este un parc dedicat celor afectați de HIV/SIDA.",
+                  "text": "Parcul memorial din Tampa în onoarea celor afectați de SIDA.",
                   "category": "park",
                   "coords": [
                         -82.46014,
@@ -9787,7 +9787,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "McKay Bay Nature Park",
-                  "text": "Parcul Natural McKay Bay din Tampa este o rezervație naturală cu trasee și observarea faunei sălbatice.",
+                  "text": "Rezervația naturală de-a lungul golfului McKay Bay din Tampa.",
                   "category": "natural",
                   "coords": [
                         -82.421441,
@@ -9796,7 +9796,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ballast Point Park",
-                  "text": "Parcul Ballast Point din Tampa este un parc pe malul golfului Hillsborough.",
+                  "text": "Parcul de pe malul golfului Tampa Bay cu chei și loc de joacă.",
                   "category": "park",
                   "coords": [
                         -82.481292,
@@ -9805,7 +9805,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Scarfone/Hartley Gallery",
-                  "text": "Galeria Scarfone/Hartley din Tampa este o galerie de artă contemporană la Universitatea din Tampa.",
+                  "text": "Galerie de artă universitară pe campusul Universității din Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.468692,
@@ -9814,7 +9814,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida Museum of Photographic Arts",
-                  "text": "Muzeul Florida de Artă Fotografică din Tampa expune lucrări fotografice.",
+                  "text": "Muzeu de artă fotografică în centrul orașului Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.440725,
@@ -9823,7 +9823,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Fire Fighters Museum",
-                  "text": "Un muzeu despre istoria pompierilor din Tampa.",
+                  "text": "Muzeu al pompierilor într-o fostă stație de pompieri în Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.455061,
@@ -9832,7 +9832,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Columbia Centennial Museum",
-                  "text": "Un muzeu în Tampa care se concentrează pe centenarul Columbiei.",
+                  "text": "Muzeu dedicat centenarului Restaurantului Columbia din Ybor City, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.435707,
@@ -9841,7 +9841,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "David Falk Theater",
-                  "text": "Un teatru în Tampa numit după David Falk.",
+                  "text": "Loc de spectacole la Universitatea din Florida de Sud în Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.464856,
@@ -9859,7 +9859,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Improv",
-                  "text": "Un teatru de comedie în Tampa.",
+                  "text": "Club de comedie în cartierul Channelside din Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.441858,
@@ -9868,7 +9868,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Commodore",
-                  "text": "Un teatru numit The Commodore în Tampa.",
+                  "text": "Locație de muzică live în cartierul Seminole Heights din Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.451582,
@@ -9877,7 +9877,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Downtown Rotary Pavillion",
-                  "text": "Un pavilion pentru spectacole în centrul orașului Tampa.",
+                  "text": "Pavilion pentru evenimente comunitare în centrul orașului Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.463153,
@@ -9886,7 +9886,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Rialto Theater",
-                  "text": "Un teatru istoric în Tampa.",
+                  "text": "Cinema istoric din epoca filmelor mute în cartierul Tampa Heights, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.459956,
@@ -9895,7 +9895,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Straz Center for The Performing Arts",
-                  "text": "Un centru de arte spectacolului în Tampa.",
+                  "text": "Centru cultural major pe malul râului Hillsborough în centrul orașului Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.463933,
@@ -9904,7 +9904,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiley Gardens Amphitheatre",
-                  "text": "Un amfiteatru în Kiley Gardens, Tampa.",
+                  "text": "Amfiteatru în aer liber în Grădinile Kiley de la Straz Center, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.461487,
@@ -9913,7 +9913,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Orpheum",
-                  "text": "Un teatru numit The Orpheum în Tampa.",
+                  "text": "Club muzical istoric în Ybor City, inițial un teatru, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.437391,
@@ -9922,7 +9922,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida State Fairgrounds",
-                  "text": "Terenul de târg al Florida State Fair din Tampa.",
+                  "text": "Teren de expoziție pentru Târgul anual al statului Florida în Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
@@ -9931,7 +9931,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Royal Caribbean cruise port",
-                  "text": "Un port de croazieră pentru Royal Caribbean în Tampa.",
+                  "text": "Terminal de croazieră Royal Caribbean în portul Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.445895,
@@ -9978,7 +9978,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Bay History Center",
-                  "text": "Tampa Bay History Center in Tampa tells the story of the Tampa Bay region.",
+                  "text": "Museum on the Tampa Riverwalk charting the history of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.449885,
@@ -9987,7 +9987,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa City Hall",
-                  "text": "Tampa City Hall is the seat of government for the city of Tampa.",
+                  "text": "Historic 1915 Beaux-Arts city hall in downtown Tampa.",
                   "category": "historical",
                   "coords": [
                         -82.457237,
@@ -10005,7 +10005,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Catholic Church",
-                  "text": "Sacred Heart Catholic Church in Tampa is a historic church in the Ybor City neighborhood.",
+                  "text": "Roman Catholic church with a prominent dome in downtown Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.457235,
@@ -10023,7 +10023,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Palma Ceia Spring",
-                  "text": "Palma Ceia Spring in Tampa is a natural spring located in the Palma Ceia neighborhood.",
+                  "text": "Natural spring in the Palma Ceia neighborhood of Tampa.",
                   "category": "landmark",
                   "coords": [
                         -82.488286,
@@ -10032,7 +10032,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "Hillsborough Bay is a large bay adjacent to Tampa, part of Tampa Bay.",
+                  "text": "Bay forming the eastern shore of the Tampa Bay estuary.",
                   "category": "landmark",
                   "coords": [
                         -82.425971,
@@ -10041,7 +10041,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Winthrop Common",
-                  "text": "Winthrop Common in Tampa is a residential park in the Winthrop neighborhood.",
+                  "text": "Small urban park in Tampa.",
                   "category": "park",
                   "coords": [
                         -82.314778,
@@ -10050,7 +10050,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Park",
-                  "text": "Centennial Park in Tampa is a small park in the downtown area.",
+                  "text": "Park in downtown Tampa near the river.",
                   "category": "park",
                   "coords": [
                         -82.4386,
@@ -10059,7 +10059,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Anderson Park",
-                  "text": "Anderson Park in Tampa is a neighborhood park.",
+                  "text": "Park in the Anderson neighborhood of Tampa.",
                   "category": "park",
                   "coords": [
                         -82.477388,
@@ -10068,7 +10068,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "AIDS Memorial Park",
-                  "text": "AIDS Memorial Park in Tampa is a park dedicated to those affected by HIV/AIDS.",
+                  "text": "Memorial park in Tampa honoring those affected by AIDS.",
                   "category": "park",
                   "coords": [
                         -82.46014,
@@ -10077,7 +10077,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "McKay Bay Nature Park",
-                  "text": "McKay Bay Nature Park in Tampa is a nature reserve with trails and wildlife viewing.",
+                  "text": "Nature preserve along McKay Bay in Tampa.",
                   "category": "natural",
                   "coords": [
                         -82.421441,
@@ -10086,7 +10086,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Ballast Point Park",
-                  "text": "Ballast Point Park in Tampa is a waterfront park on Hillsborough Bay.",
+                  "text": "Waterfront park on Tampa Bay with a pier and playground.",
                   "category": "park",
                   "coords": [
                         -82.481292,
@@ -10095,7 +10095,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Scarfone/Hartley Gallery",
-                  "text": "Scarfone/Hartley Gallery in Tampa is a contemporary art gallery at the University of Tampa.",
+                  "text": "University art gallery on the campus of the University of Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.468692,
@@ -10104,7 +10104,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida Museum of Photographic Arts",
-                  "text": "Florida Museum of Photographic Arts in Tampa exhibits photographic works.",
+                  "text": "Museum of photographic arts in downtown Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.440725,
@@ -10113,7 +10113,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Tampa Fire Fighters Museum",
-                  "text": "A museum about firefighting history in Tampa.",
+                  "text": "Firefighters museum housed in a former fire station in Tampa, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.455061,
@@ -10122,7 +10122,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Columbia Centennial Museum",
-                  "text": "A museum in Tampa focusing on the centennial of Columbia.",
+                  "text": "Museum celebrating the centennial of the Columbia Restaurant in Ybor City, Of Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.435707,
@@ -10131,7 +10131,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "David Falk Theater",
-                  "text": "A theater in Tampa named after David Falk.",
+                  "text": "Performance venue at the University of South Florida in Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.464856,
@@ -10149,7 +10149,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Improv",
-                  "text": "A comedy theater in Tampa.",
+                  "text": "Comedy club in the Channelside district of Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.441858,
@@ -10158,7 +10158,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Commodore",
-                  "text": "A theater called The Commodore in Tampa.",
+                  "text": "Live music venue in the Seminole Heights neighborhood of Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.451582,
@@ -10167,7 +10167,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Downtown Rotary Pavillion",
-                  "text": "A performance pavilion in downtown Tampa.",
+                  "text": "Outdoor pavilion for community events in downtown Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.463153,
@@ -10176,7 +10176,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Rialto Theater",
-                  "text": "A historic theater in Tampa.",
+                  "text": "Historic movie palace from the silent film era in Tampa Heights, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.459956,
@@ -10185,7 +10185,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Straz Center for The Performing Arts",
-                  "text": "A performing arts center in Tampa.",
+                  "text": "Major performing arts center on the Hillsborough River in downtown Tampa, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.463933,
@@ -10194,7 +10194,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiley Gardens Amphitheatre",
-                  "text": "An amphitheatre in Kiley Gardens, Tampa.",
+                  "text": "Outdoor amphitheatre within the Kiley Gardens at the Straz Center, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.461487,
@@ -10203,7 +10203,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "The Orpheum",
-                  "text": "A theater called The Orpheum in Tampa.",
+                  "text": "Historic music venue in Ybor City, originally a theatre, Of Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.437391,
@@ -10212,7 +10212,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Florida State Fairgrounds",
-                  "text": "The fairgrounds for the Florida State Fair in Tampa.",
+                  "text": "Exhibition grounds for the annual Florida State Fair in Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
@@ -10221,7 +10221,7 @@ export const poiExtraUsaEconomicV2: POI[] = [
             },
             {
                   "name": "Royal Caribbean cruise port",
-                  "text": "A cruise port for Royal Caribbean in Tampa.",
+                  "text": "Cruise ship terminal for Royal Caribbean at the Port of Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.445895,
@@ -10310,7 +10310,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Sunnyvale Heritage Park Museum",
-                  "text": "Sunnyvale Heritage Park Museum ist ein lokales Geschichtsmuseum in Sunnyvale, Kalifornien.",
+                  "text": "Museum zur Geschichte Sunnyvales in einem historischen Schulgebäude.",
                   "category": "museum",
                   "coords": [
                         -122.025481,
@@ -10346,7 +10346,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Martin of Tours Church",
-                  "text": "Saint Martin of Tours Church ist eine katholische Kirche in San Jose, Kalifornien.",
+                  "text": "Katholische Kirche im spanischen Kolonialstil in San Jose, Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -121.939166,
@@ -10355,7 +10355,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Clare Catholic Parish",
-                  "text": "Saint Clare Catholic Parish ist eine katholische Kirche in Santa Clara, Kalifornien.",
+                  "text": "Katholische Gemeinde in Santa Clara mit einer Kirche aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -121.943168,
@@ -10364,7 +10364,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mission Santa Clara de Asís",
-                  "text": "Historic Mission Santa Clara ist eine historische spanische Mission auf dem Campus der Santa Clara University.",
+                  "text": "Historische spanische Mission aus dem 18. Jahrhundert auf dem Campus der Santa Clara University.",
                   "category": "religious",
                   "coords": [
                         -121.94158,
@@ -10373,7 +10373,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Joseph of Cupertino Catholic Church",
-                  "text": "Saint Joseph of Cupertino Catholic Church ist eine katholische Kirche in Cupertino, Kalifornien.",
+                  "text": "Katholische Kirche in Cupertino, benannt nach dem Patron der Flieger.",
                   "category": "religious",
                   "coords": [
                         -122.031501,
@@ -10454,7 +10454,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Memorial Cross Park",
-                  "text": "Ein Park mit einem Gedenkkreuz in silicon-valley-tech-economic-v2.",
+                  "text": "Park mit einem großen Gedenkkreuz in Sunnyvale, Kalifornien.",
                   "category": "park",
                   "coords": [
                         -121.941089,
@@ -10463,7 +10463,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "California's Great America",
-                  "text": "Ein Themenpark in silicon-valley-tech-economic-v2.",
+                  "text": "Vergnügungspark mit Achterbahnen und Wasserpark in Santa Clara.",
                   "category": "recreational",
                   "coords": [
                         -121.972021,
@@ -10472,7 +10472,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Kannon Do Zen Meditation Center",
-                  "text": "Ein Zen-buddhistisches Meditationszentrum in silicon-valley-tech-economic-v2.",
+                  "text": "Zen-Meditationszentrum in Mountain View.",
                   "category": "religious",
                   "coords": [
                         -122.090439,
@@ -10481,7 +10481,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Intel Museum",
-                  "text": "Ein Museum über Intels Geschichte in silicon-valley-tech-economic-v2.",
+                  "text": "Firmenmuseum von Intel in Santa Clara mit Ausstellungen zur Chip-Herstellung.",
                   "category": "museum",
                   "coords": [
                         -121.963367,
@@ -10490,7 +10490,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Joshua Hendy Iron Works Museum",
-                  "text": "Ein Museum über Eisenwerke in silicon-valley-tech-economic-v2.",
+                  "text": "Museum für Industriemaschinen in Sunnyvale.",
                   "category": "museum",
                   "coords": [
                         -122.024093,
@@ -10499,7 +10499,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Computer History Museum",
-                  "text": "Ein Museum, das die Geschichte der Computernutzung dokumentiert, in silicon-valley-tech-economic-v2.",
+                  "text": "Museum in Mountain View, das die Geschichte der Computer bewahrt.",
                   "category": "museum",
                   "coords": [
                         -122.077291,
@@ -10508,7 +10508,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "South Bay Historical Railroad Society",
-                  "text": "Ein Eisenbahnhistorisches Museum in silicon-valley-tech-economic-v2.",
+                  "text": "Eisenbahnmuseum in Santa Clara.",
                   "category": "museum",
                   "coords": [
                         -121.936231,
@@ -10517,7 +10517,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "de Saisset Museum",
-                  "text": "Ein Museum an der Santa Clara Universität in silicon-valley-tech-economic-v2.",
+                  "text": "Kunst- und Geschichtsmuseum an der Santa Clara University.",
                   "category": "museum",
                   "coords": [
                         -121.940622,
@@ -10526,7 +10526,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Triton Museum of Art",
-                  "text": "Ein Kunstmuseum in silicon-valley-tech-economic-v2.",
+                  "text": "Kunstmuseum in Santa Clara mit einem Skulpturengarten.",
                   "category": "museum",
                   "coords": [
                         -121.955041,
@@ -10535,7 +10535,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Statue of Saint Clare",
-                  "text": "Eine Statue der Heiligen Klara in silicon-valley-tech-economic-v2.",
+                  "text": "Statue der Stadtpatronin Klara von Assisi in Santa Clara.",
                   "category": "historical",
                   "coords": [
                         -121.954274,
@@ -10544,7 +10544,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Santa Clara City Hall",
-                  "text": "Das Rathaus von Santa Clara in silicon-valley-tech-economic-v2.",
+                  "text": "Modernes Rathausgebäude in Santa Clara.",
                   "category": "historical",
                   "coords": [
                         -121.954802,
@@ -10553,7 +10553,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Athanasius Catholic Church",
-                  "text": "Eine katholische Kirche in silicon-valley-tech-economic-v2.",
+                  "text": "Römisch-katholische Kirche in Mountain View.",
                   "category": "religious",
                   "coords": [
                         -122.096412,
@@ -10562,7 +10562,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Center For the Performing Arts",
-                  "text": "Ein Zentrum für darstellende Künste in silicon-valley-tech-economic-v2.",
+                  "text": "Veranstaltungsort für darstellende Künste in Mountain View.",
                   "category": "cultural",
                   "coords": [
                         -122.082303,
@@ -10571,7 +10571,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Our Lady of Peace Catholic Church",
-                  "text": "Eine katholische Kirche in silicon-valley-tech-economic-v2.",
+                  "text": "Römisch-katholische Kirche in Santa Clara.",
                   "category": "religious",
                   "coords": [
                         -121.977186,
@@ -10580,7 +10580,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Coachella Valley Church",
-                  "text": "Eine Kirche in silicon-valley-tech-economic-v2.",
+                  "text": "Kirche in der Coachella Valley in Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -121.929717,
@@ -10589,7 +10589,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Rex-Manor Park",
-                  "text": "Ein Picknickplatz in silicon-valley-tech-economic-v2.",
+                  "text": "Park im Rex Manor-Viertel von Santa Clara.",
                   "category": "landmark",
                   "coords": [
                         -122.089881,
@@ -10598,7 +10598,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Monta Loma School Park",
-                  "text": "Ein Park neben der Monta Loma Schule in silicon-valley-tech-economic-v2.",
+                  "text": "Schulpark im Monta Loma-Viertel von Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.099407,
@@ -10607,7 +10607,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mountain View Sports Pavillion",
-                  "text": "Ein Sportpavillon in silicon-valley-tech-economic-v2.",
+                  "text": "Sportanlage in Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.086156,
@@ -10616,7 +10616,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Crittenden School Park",
-                  "text": "Ein Park an der Crittenden Schule in silicon-valley-tech-economic-v2.",
+                  "text": "Schulpark in Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.08524,
@@ -10625,7 +10625,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Moitozo Park",
-                  "text": "Ein Park in silicon-valley-tech-economic-v2.",
+                  "text": "Park im Moitozo-Viertel von Mountain View.",
                   "category": "park",
                   "coords": [
                         -121.940354,
@@ -10634,7 +10634,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Varian Park",
-                  "text": "Ein Park in silicon-valley-tech-economic-v2.",
+                  "text": "Ein Gemeindepark mit Spielplatz und Gehwegen in Valley Tech.",
                   "category": "park",
                   "coords": [
                         -122.062724,
@@ -10654,7 +10654,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Sunnyvale Heritage Park Museum",
-                  "text": "A Sunnyvale Heritage Park Museum egy helytörténeti múzeum Sunnyvale-ben, Kaliforniában.",
+                  "text": "Sunnyvale történetét bemutató múzeum egy történelmi iskolaépületben.",
                   "category": "museum",
                   "coords": [
                         -122.025481,
@@ -10690,7 +10690,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Martin of Tours Church",
-                  "text": "A Saint Martin of Tours Church egy katolikus templom San Joséban, Kaliforniában.",
+                  "text": "Spanyol gyarmati stílusú katolikus templom San Jose-ban, Kaliforniában.",
                   "category": "religious",
                   "coords": [
                         -121.939166,
@@ -10699,7 +10699,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Clare Catholic Parish",
-                  "text": "A Saint Clare Catholic Parish egy katolikus templom Santa Clarában, Kaliforniában.",
+                  "text": "Katolikus közösség Santa Clarában egy 19. századi templommal.",
                   "category": "religious",
                   "coords": [
                         -121.943168,
@@ -10708,7 +10708,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mission Santa Clara de Asís",
-                  "text": "A Historic Mission Santa Clara egy történelmi spanyol misszió a Santa Clara Egyetem campusán.",
+                  "text": "Történelmi 18. századi spanyol misszió a Santa Clara Egyetem campusán.",
                   "category": "religious",
                   "coords": [
                         -121.94158,
@@ -10717,7 +10717,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Joseph of Cupertino Catholic Church",
-                  "text": "A Saint Joseph of Cupertino Catholic Church egy katolikus templom Cupertinóban, Kaliforniában.",
+                  "text": "Katolikus templom Cupertinóban, a repülők védőszentjéről elnevezve.",
                   "category": "religious",
                   "coords": [
                         -122.031501,
@@ -10798,7 +10798,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Memorial Cross Park",
-                  "text": "Emlékkereszttel rendelkező park a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Park egy nagy emlékkereszttel Sunnyvale-ben, Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -121.941089,
@@ -10807,7 +10807,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "California's Great America",
-                  "text": "Témapark a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Vidámpark hullámvasutakkal és víziparkkal Santa Claraban.",
                   "category": "recreational",
                   "coords": [
                         -121.972021,
@@ -10816,7 +10816,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Kannon Do Zen Meditation Center",
-                  "text": "Zen buddhista meditációs központ a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Zen meditációs központ Mountain View-ban.",
                   "category": "religious",
                   "coords": [
                         -122.090439,
@@ -10825,7 +10825,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Intel Museum",
-                  "text": "Az Intel történetét bemutató múzeum a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Az Intel cégmúzeuma Santa Clarában a chipgyártás kiállításaival.",
                   "category": "museum",
                   "coords": [
                         -121.963367,
@@ -10834,7 +10834,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Joshua Hendy Iron Works Museum",
-                  "text": "Vasmunkákról szóló múzeum a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Ipari gépek múzeuma Sunnyvale-ben.",
                   "category": "museum",
                   "coords": [
                         -122.024093,
@@ -10843,7 +10843,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Computer History Museum",
-                  "text": "A számítástechnika történetét bemutató múzeum a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Múzeum Mountain View-ban, amely a számítástechnika történetét őrzi.",
                   "category": "museum",
                   "coords": [
                         -122.077291,
@@ -10852,7 +10852,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "South Bay Historical Railroad Society",
-                  "text": "Vasúttörténeti múzeum a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Vasúttörténeti múzeum Santa Clarában.",
                   "category": "museum",
                   "coords": [
                         -121.936231,
@@ -10861,7 +10861,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "de Saisset Museum",
-                  "text": "Múzeum a Santa Clara Egyetemen a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Művészeti és történeti múzeum a Santa Clara Egyetemen.",
                   "category": "museum",
                   "coords": [
                         -121.940622,
@@ -10870,7 +10870,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Triton Museum of Art",
-                  "text": "Művészeti múzeum a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Művészeti múzeum Santa Clarában szoborkerttel.",
                   "category": "museum",
                   "coords": [
                         -121.955041,
@@ -10879,7 +10879,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Statue of Saint Clare",
-                  "text": "Szent Klára szobor a silicon-valley-tech-economic-v2 területén.",
+                  "text": "A város védőszentjének, Assisi Szent Klárának szobra Santa Clarában.",
                   "category": "historical",
                   "coords": [
                         -121.954274,
@@ -10888,7 +10888,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Santa Clara City Hall",
-                  "text": "Santa Clara városháza a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Modern városháza épület Santa Clarában.",
                   "category": "historical",
                   "coords": [
                         -121.954802,
@@ -10897,7 +10897,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Athanasius Catholic Church",
-                  "text": "Katolikus templom a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Római katolikus templom Mountain View-ban.",
                   "category": "religious",
                   "coords": [
                         -122.096412,
@@ -10906,7 +10906,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Center For the Performing Arts",
-                  "text": "Előadóművészeti központ a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Előadóművészeti központ Mountain View-ban.",
                   "category": "cultural",
                   "coords": [
                         -122.082303,
@@ -10915,7 +10915,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Our Lady of Peace Catholic Church",
-                  "text": "Katolikus templom a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Római katolikus templom Santa Clarában.",
                   "category": "religious",
                   "coords": [
                         -121.977186,
@@ -10924,7 +10924,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Coachella Valley Church",
-                  "text": "Templom a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Templom a Coachella Valley-ben, Kaliforniában.",
                   "category": "religious",
                   "coords": [
                         -121.929717,
@@ -10933,7 +10933,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Rex-Manor Park",
-                  "text": "Piknikhely a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Park Santa Clara Rex Manor negyedében.",
                   "category": "landmark",
                   "coords": [
                         -122.089881,
@@ -10942,7 +10942,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Monta Loma School Park",
-                  "text": "Park a Monta Loma Iskola mellett a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Iskolapark a Mountain View-i Monta Loma negyedben.",
                   "category": "park",
                   "coords": [
                         -122.099407,
@@ -10951,7 +10951,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mountain View Sports Pavillion",
-                  "text": "Sportpavilon a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Sportlétesítmény Mountain View-ban.",
                   "category": "park",
                   "coords": [
                         -122.086156,
@@ -10960,7 +10960,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Crittenden School Park",
-                  "text": "Park a Crittenden Iskolánál a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Iskolapark Mountain View-ban.",
                   "category": "park",
                   "coords": [
                         -122.08524,
@@ -10969,7 +10969,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Moitozo Park",
-                  "text": "Park a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Park a Mountain View-i Moitozo negyedben.",
                   "category": "park",
                   "coords": [
                         -121.940354,
@@ -10978,7 +10978,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Varian Park",
-                  "text": "Park a silicon-valley-tech-economic-v2 területén.",
+                  "text": "Egy közösségi park játszótérrel és sétányokkal Valley Techben.",
                   "category": "park",
                   "coords": [
                         -122.062724,
@@ -10998,7 +10998,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Sunnyvale Heritage Park Museum",
-                  "text": "Sunnyvale Heritage Park Museum este un muzeu de istorie locală în Sunnyvale, California.",
+                  "text": "Muzeu al istoriei Sunnyvale într-o clădire școlară istorică.",
                   "category": "museum",
                   "coords": [
                         -122.025481,
@@ -11034,7 +11034,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Martin of Tours Church",
-                  "text": "Saint Martin of Tours Church este o biserică catolică în San Jose, California.",
+                  "text": "Biserică catolică în stil colonial spaniol în San Jose, California.",
                   "category": "religious",
                   "coords": [
                         -121.939166,
@@ -11043,7 +11043,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Clare Catholic Parish",
-                  "text": "Saint Clare Catholic Parish este o biserică catolică în Santa Clara, California.",
+                  "text": "Comunitate catolică în Santa Clara cu o biserică din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -121.943168,
@@ -11052,7 +11052,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mission Santa Clara de Asís",
-                  "text": "Historic Mission Santa Clara este o misiune istorică spaniolă pe campusul Universității Santa Clara.",
+                  "text": "Misiune spaniolă istorică din secolul al XVIII-lea pe campusul Universității Santa Clara.",
                   "category": "religious",
                   "coords": [
                         -121.94158,
@@ -11061,7 +11061,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Joseph of Cupertino Catholic Church",
-                  "text": "Saint Joseph of Cupertino Catholic Church este o biserică catolică în Cupertino, California.",
+                  "text": "Biserică catolică în Cupertino, numită după patronul aviatorilor.",
                   "category": "religious",
                   "coords": [
                         -122.031501,
@@ -11142,7 +11142,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Memorial Cross Park",
-                  "text": "Un parc cu o cruce memorială în silicon-valley-tech-economic-v2.",
+                  "text": "Parc cu o cruce mare memorială în Sunnyvale, California.",
                   "category": "park",
                   "coords": [
                         -121.941089,
@@ -11151,7 +11151,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "California's Great America",
-                  "text": "Un parc tematic în silicon-valley-tech-economic-v2.",
+                  "text": "Parc de distracții cu montagne russe și parc acvatic în Santa Clara.",
                   "category": "recreational",
                   "coords": [
                         -121.972021,
@@ -11160,7 +11160,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Kannon Do Zen Meditation Center",
-                  "text": "Un centru de meditație zen budist în silicon-valley-tech-economic-v2.",
+                  "text": "Centrul de meditație Zen din Mountain View.",
                   "category": "religious",
                   "coords": [
                         -122.090439,
@@ -11169,7 +11169,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Intel Museum",
-                  "text": "Un muzeu despre istoria Intel în silicon-valley-tech-economic-v2.",
+                  "text": "Muzeul corporativ Intel din Santa Clara cu expoziții despre fabricarea cipurilor.",
                   "category": "museum",
                   "coords": [
                         -121.963367,
@@ -11178,7 +11178,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Joshua Hendy Iron Works Museum",
-                  "text": "Un muzeu despre lucrările de fier în silicon-valley-tech-economic-v2.",
+                  "text": "Muzeul mașinilor industriale din Sunnyvale.",
                   "category": "museum",
                   "coords": [
                         -122.024093,
@@ -11187,7 +11187,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Computer History Museum",
-                  "text": "Un muzeu care documentează istoria calculatoarelor în silicon-valley-tech-economic-v2.",
+                  "text": "Muzeul din Mountain View care păstrează istoria calculatoarelor.",
                   "category": "museum",
                   "coords": [
                         -122.077291,
@@ -11196,7 +11196,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "South Bay Historical Railroad Society",
-                  "text": "Un muzeu de istorie feroviară în silicon-valley-tech-economic-v2.",
+                  "text": "Muzeul feroviar din Santa Clara.",
                   "category": "museum",
                   "coords": [
                         -121.936231,
@@ -11205,7 +11205,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "de Saisset Museum",
-                  "text": "Un muzeu la Universitatea Santa Clara în silicon-valley-tech-economic-v2.",
+                  "text": "Muzeul de artă și istorie de la Universitatea Santa Clara.",
                   "category": "museum",
                   "coords": [
                         -121.940622,
@@ -11214,7 +11214,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Triton Museum of Art",
-                  "text": "Un muzeu de artă în silicon-valley-tech-economic-v2.",
+                  "text": "Muzeul de artă din Santa Clara cu o grădină de sculpturi.",
                   "category": "museum",
                   "coords": [
                         -121.955041,
@@ -11223,7 +11223,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Statue of Saint Clare",
-                  "text": "O statuie a Sfintei Clara în silicon-valley-tech-economic-v2.",
+                  "text": "Statuia sfintei patronare Clarei de Assisi din Santa Clara.",
                   "category": "historical",
                   "coords": [
                         -121.954274,
@@ -11232,7 +11232,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Santa Clara City Hall",
-                  "text": "Primăria din Santa Clara în silicon-valley-tech-economic-v2.",
+                  "text": "Clădirea modernă a primăriei din Santa Clara.",
                   "category": "historical",
                   "coords": [
                         -121.954802,
@@ -11241,7 +11241,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Athanasius Catholic Church",
-                  "text": "O biserică catolică în silicon-valley-tech-economic-v2.",
+                  "text": "Biserică romano-catolică în Mountain View.",
                   "category": "religious",
                   "coords": [
                         -122.096412,
@@ -11250,7 +11250,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Center For the Performing Arts",
-                  "text": "Un centru de artele spectacolului în silicon-valley-tech-economic-v2.",
+                  "text": "Locație pentru artele spectacolului în Mountain View.",
                   "category": "cultural",
                   "coords": [
                         -122.082303,
@@ -11259,7 +11259,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Our Lady of Peace Catholic Church",
-                  "text": "O biserică catolică în silicon-valley-tech-economic-v2.",
+                  "text": "Biserică romano-catolică în Santa Clara.",
                   "category": "religious",
                   "coords": [
                         -121.977186,
@@ -11268,7 +11268,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Coachella Valley Church",
-                  "text": "O biserică în silicon-valley-tech-economic-v2.",
+                  "text": "Biserică în Coachella Valley, California.",
                   "category": "religious",
                   "coords": [
                         -121.929717,
@@ -11277,7 +11277,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Rex-Manor Park",
-                  "text": "Un loc de picnic în silicon-valley-tech-economic-v2.",
+                  "text": "Parcul în cartierul Rex Manor din Santa Clara.",
                   "category": "landmark",
                   "coords": [
                         -122.089881,
@@ -11286,7 +11286,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Monta Loma School Park",
-                  "text": "Un parc lângă Școala Monta Loma în silicon-valley-tech-economic-v2.",
+                  "text": "Parcul școlii în cartierul Monta Loma din Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.099407,
@@ -11295,7 +11295,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mountain View Sports Pavillion",
-                  "text": "Un pavilion sportiv în silicon-valley-tech-economic-v2.",
+                  "text": "Instalație sportivă în Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.086156,
@@ -11304,7 +11304,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Crittenden School Park",
-                  "text": "Un parc la Școala Crittenden în silicon-valley-tech-economic-v2.",
+                  "text": "Parcul școlii în Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.08524,
@@ -11313,7 +11313,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Moitozo Park",
-                  "text": "Un parc în silicon-valley-tech-economic-v2.",
+                  "text": "Parcul în cartierul Moitozo din Mountain View.",
                   "category": "park",
                   "coords": [
                         -121.940354,
@@ -11322,7 +11322,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Varian Park",
-                  "text": "Un parc în silicon-valley-tech-economic-v2.",
+                  "text": "Un parc comunitar cu loc de joacă și alei pietonale în Valley Tech.",
                   "category": "park",
                   "coords": [
                         -122.062724,
@@ -11342,7 +11342,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Sunnyvale Heritage Park Museum",
-                  "text": "Sunnyvale Heritage Park Museum is a local history museum in Sunnyvale, California.",
+                  "text": "Museum of Sunnyvale's history in a historic school building.",
                   "category": "museum",
                   "coords": [
                         -122.025481,
@@ -11378,7 +11378,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Martin of Tours Church",
-                  "text": "Saint Martin of Tours Church is a Catholic church in San Jose, California.",
+                  "text": "Spanish Colonial-style Catholic church in San Jose, California.",
                   "category": "religious",
                   "coords": [
                         -121.939166,
@@ -11387,7 +11387,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Clare Catholic Parish",
-                  "text": "Saint Clare Catholic Parish is a Catholic church in Santa Clara, California.",
+                  "text": "Catholic parish in Santa Clara with a 19th-century church.",
                   "category": "religious",
                   "coords": [
                         -121.943168,
@@ -11396,7 +11396,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Historic Mission Santa Clara",
-                  "text": "Historic Mission Santa Clara is a historic Spanish mission on the campus of Santa Clara University.",
+                  "text": "Historic 18th-century Spanish mission on the Santa Clara University campus.",
                   "category": "religious",
                   "coords": [
                         -121.94158,
@@ -11405,7 +11405,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Joseph of Cupertino Catholic Church",
-                  "text": "Saint Joseph of Cupertino Catholic Church is a Catholic church in Cupertino, California.",
+                  "text": "Catholic church in Cupertino, named after the patron saint of aviators.",
                   "category": "religious",
                   "coords": [
                         -122.031501,
@@ -11486,7 +11486,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Memorial Cross Park",
-                  "text": "A park with a memorial cross in silicon-valley-tech-economic-v2.",
+                  "text": "Park with a large memorial cross in Sunnyvale, California.",
                   "category": "park",
                   "coords": [
                         -121.941089,
@@ -11495,7 +11495,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "California's Great America",
-                  "text": "A theme park in silicon-valley-tech-economic-v2.",
+                  "text": "Amusement park with roller coasters and water park in Santa Clara.",
                   "category": "recreational",
                   "coords": [
                         -121.972021,
@@ -11504,7 +11504,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Kannon Do Zen Meditation Center",
-                  "text": "A Zen Buddhist meditation center in silicon-valley-tech-economic-v2.",
+                  "text": "Zen meditation center in Mountain View.",
                   "category": "religious",
                   "coords": [
                         -122.090439,
@@ -11513,7 +11513,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Intel Museum",
-                  "text": "A museum about Intel's history in silicon-valley-tech-economic-v2.",
+                  "text": "Corporate museum of Intel in Santa Clara with chip-manufacturing exhibits.",
                   "category": "museum",
                   "coords": [
                         -121.963367,
@@ -11522,7 +11522,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Joshua Hendy Iron Works Museum",
-                  "text": "A museum about iron works in silicon-valley-tech-economic-v2.",
+                  "text": "Museum of industrial machinery in Sunnyvale.",
                   "category": "museum",
                   "coords": [
                         -122.024093,
@@ -11531,7 +11531,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Computer History Museum",
-                  "text": "A museum documenting the history of computing in silicon-valley-tech-economic-v2.",
+                  "text": "Museum in Mountain View preserving computing history.",
                   "category": "museum",
                   "coords": [
                         -122.077291,
@@ -11540,7 +11540,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "South Bay Historical Railroad Society",
-                  "text": "A railroad history museum in silicon-valley-tech-economic-v2.",
+                  "text": "Railroad museum in Santa Clara.",
                   "category": "museum",
                   "coords": [
                         -121.936231,
@@ -11549,7 +11549,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "de Saisset Museum",
-                  "text": "A museum at Santa Clara University in silicon-valley-tech-economic-v2.",
+                  "text": "Art and history museum at Santa Clara University.",
                   "category": "museum",
                   "coords": [
                         -121.940622,
@@ -11558,7 +11558,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Triton Museum of Art",
-                  "text": "An art museum in silicon-valley-tech-economic-v2.",
+                  "text": "Art museum in Santa Clara with a sculpture garden.",
                   "category": "museum",
                   "coords": [
                         -121.955041,
@@ -11567,7 +11567,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Statue of Saint Clare",
-                  "text": "A statue of Saint Clare in silicon-valley-tech-economic-v2.",
+                  "text": "Statue of the city's patron saint Clare of Assisi in Santa Clara.",
                   "category": "historical",
                   "coords": [
                         -121.954274,
@@ -11576,7 +11576,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Santa Clara City Hall",
-                  "text": "The city hall of Santa Clara in silicon-valley-tech-economic-v2.",
+                  "text": "Modern city hall building in Santa Clara.",
                   "category": "historical",
                   "coords": [
                         -121.954802,
@@ -11585,7 +11585,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Saint Athanasius Catholic Church",
-                  "text": "A Catholic church in silicon-valley-tech-economic-v2.",
+                  "text": "Roman Catholic church in Mountain View.",
                   "category": "religious",
                   "coords": [
                         -122.096412,
@@ -11594,7 +11594,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Center For the Performing Arts",
-                  "text": "A performing arts center in silicon-valley-tech-economic-v2.",
+                  "text": "Performing arts venue in Mountain View.",
                   "category": "cultural",
                   "coords": [
                         -122.082303,
@@ -11603,7 +11603,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Our Lady of Peace Catholic Church",
-                  "text": "A Catholic church in silicon-valley-tech-economic-v2.",
+                  "text": "Roman Catholic church in Santa Clara.",
                   "category": "religious",
                   "coords": [
                         -121.977186,
@@ -11612,7 +11612,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Coachella Valley Church",
-                  "text": "A church in silicon-valley-tech-economic-v2.",
+                  "text": "Church in the Coachella Valley, California.",
                   "category": "religious",
                   "coords": [
                         -121.929717,
@@ -11621,7 +11621,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Rex-Manor Park",
-                  "text": "A picnic site in silicon-valley-tech-economic-v2.",
+                  "text": "Park in the Rex Manor neighborhood of Santa Clara.",
                   "category": "landmark",
                   "coords": [
                         -122.089881,
@@ -11630,7 +11630,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Monta Loma School Park",
-                  "text": "A park adjacent to Monta Loma School in silicon-valley-tech-economic-v2.",
+                  "text": "School park in the Monta Loma neighborhood of Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.099407,
@@ -11639,7 +11639,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Mountain View Sports Pavillion",
-                  "text": "A sports pavilion in silicon-valley-tech-economic-v2.",
+                  "text": "Sports facility in Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.086156,
@@ -11648,7 +11648,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Crittenden School Park",
-                  "text": "A park at Crittenden School in silicon-valley-tech-economic-v2.",
+                  "text": "School park in Mountain View.",
                   "category": "park",
                   "coords": [
                         -122.08524,
@@ -11657,7 +11657,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Moitozo Park",
-                  "text": "A park in silicon-valley-tech-economic-v2.",
+                  "text": "Park in the Moitozo neighborhood of Mountain View.",
                   "category": "park",
                   "coords": [
                         -121.940354,
@@ -11666,7 +11666,7 @@ factsAdvanced: { de: ["Historische Heimat der 'Big Three' Autohersteller: Ford, 
             },
             {
                   "name": "Varian Park",
-                  "text": "A park in silicon-valley-tech-economic-v2.",
+                  "text": "A community park with a playground and walking paths in Valley Tech.",
                   "category": "park",
                   "coords": [
                         -122.062724,
@@ -11744,7 +11744,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "de": [
             {
                   "name": "Museum of Contemporary African Diasporan Arts",
-                  "text": "Das Museum of Contemporary African Diasporan Arts ist ein Museum in Brooklyn, das sich der Kunst der afrikanischen Diaspora widmet.",
+                  "text": "Museum für zeitgenössische Kunst der afrikanischen Diaspora in Brooklyn, New York.",
                   "category": "museum",
                   "coords": [
                         -73.974428,
@@ -11771,7 +11771,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Museum",
-                  "text": "Das Brooklyn Museum ist ein Kunstmuseum in Brooklyn, eines der größten in den USA.",
+                  "text": "Großes Kunstmuseum mit über 500.000 Werken in Brooklyn.",
                   "category": "museum",
                   "coords": [
                         -73.963545,
@@ -11780,7 +11780,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lefferts Historic House",
-                  "text": "Lefferts Historic House ist ein historisches Hausmuseum in Brooklyn im Prospect Park.",
+                  "text": "Historisches Bauernhaus aus dem 18. Jahrhundert in Brooklyn, umgeben vom Prospect Park.",
                   "category": "museum",
                   "coords": [
                         -73.963802,
@@ -11807,7 +11807,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Borough Hall",
-                  "text": "Brooklyn Borough Hall ist das Rathaus des Bezirks Brooklyn.",
+                  "text": "Historisches Regierungsgebäude im Greek-Revival-Stil in Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.990305,
@@ -11834,7 +11834,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Bartholomew's Episcopal Church",
-                  "text": "Saint Bartholomew's Episcopal Church ist eine Kirche in Brooklyn im neobyzantinischen Stil.",
+                  "text": "Episkopalkirche im neugotischen Stil in Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.952222,
@@ -11843,7 +11843,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Brooklyn Friends Meetinghouse ist ein historisches Quäkerversammlungshaus in Brooklyn.",
+                  "text": "Quäker-Versammlungshaus aus dem 19. Jahrhundert in Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.989489,
@@ -11852,7 +11852,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Paramount",
-                  "text": "Das Brooklyn Paramount ist ein Theater in Brooklyn, das früher ein Filmpalast war.",
+                  "text": "Historisches Kino- und Veranstaltungshaus im Art-déco-Stil in Brooklyn.",
                   "category": "cultural",
                   "coords": [
                         -73.98116,
@@ -11861,7 +11861,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Francis of Assisi Church",
-                  "text": "Saint Francis of Assisi Church ist eine römisch-katholische Kirche in Brooklyn.",
+                  "text": "Katholische Kirche mit zwei Schutzpatronen in Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.950448,
@@ -11870,7 +11870,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Queen of All Saints Church",
-                  "text": "Queen of All Saints Church ist eine römisch-katholische Basilika in Brooklyn.",
+                  "text": "Römisch-katholische Pfarrkirche im Viertel Fort Greene in Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.969175,
@@ -11879,7 +11879,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Sts. Constantine and Helen Greek Orthodox Cathedral",
-                  "text": "Sts. Constantine and Helen Greek Orthodox Cathedral ist eine griechisch-orthodoxe Kathedrale in Brooklyn.",
+                  "text": "Griechisch-orthodoxe Kathedrale, die der griechischen Gemeinde in Street Financial Industry dient.",
                   "category": "religious",
                   "coords": [
                         -73.99121,
@@ -11897,7 +11897,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Plymouth Church",
-                  "text": "Plymouth Church ist eine historische Kirche in Brooklyn, bekannt für die Abolitionismus-Bewegung.",
+                  "text": "Historische Plymouth Church, eine ehemalige Station der Underground Railroad in Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.993082,
@@ -11906,7 +11906,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Park Slope Jewish Center",
-                  "text": "Park Slope Jewish Center ist eine Synagoge in Brooklyn im Stadtteil Park Slope.",
+                  "text": "Synagoge, die die jüdische Gemeinschaft im Viertel Park Slope in Street Financial Industry bedient.",
                   "category": "religious",
                   "coords": [
                         -73.981902,
@@ -11915,7 +11915,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Elohim",
-                  "text": "Congregation Beth Elohim ist eine Reform-Synagoge in Brooklyn mit historischem Gebäude.",
+                  "text": "Reformjüdische Gemeinde im Park Slope-Viertel von Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.974415,
@@ -11924,7 +11924,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Congregation Beth Israel ist eine orthodoxe Synagoge in Brooklyn.",
+                  "text": "Orthodoxe jüdische Synagoge in Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.942663,
@@ -11942,7 +11942,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Squibb Park Bridge",
-                  "text": "Squibb Park Bridge ist eine Fußgängerbrücke in Brooklyn, die Brooklyn Heights mit dem Brooklyn Bridge Park verbindet.",
+                  "text": "Fußgängerbrücke, die den Brooklyn Bridge Park mit Cobble Hill in Street Financial Industry verbindet.",
                   "category": "landmark",
                   "coords": [
                         -73.9961,
@@ -11951,7 +11951,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Union Street Bridge",
-                  "text": "Union Street Bridge ist eine Hubbrücke in Brooklyn über den Gowanus-Kanal.",
+                  "text": "Klappbrücke über den Gowanus-Kanal in Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.98836,
@@ -11960,7 +11960,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Carroll Street Bridge",
-                  "text": "Carroll Street Bridge ist eine Zugbrücke in Brooklyn über den Gowanus-Kanal.",
+                  "text": "Historische Klappbrücke über den Gowanus-Kanal in Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.989414,
@@ -11987,7 +11987,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brower Park",
-                  "text": "Brower Park ist ein öffentlicher Park in Brooklyn im Stadtteil Crown Heights.",
+                  "text": "Park in Crown Heights, neben dem Brooklyn Children’s Museum, in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.943252,
@@ -11996,7 +11996,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Cadman Plaza Park",
-                  "text": "Cadman Plaza Park ist ein Park in Brooklyn im Stadtteil Brooklyn Heights.",
+                  "text": "Park am Fuße der Brooklyn Bridge in der Innenstadt von Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.990554,
@@ -12005,7 +12005,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Bridge Park",
-                  "text": "Brooklyn Bridge Park ist ein Uferpark in Brooklyn entlang des East River.",
+                  "text": "Uferpark unter der Brooklyn Bridge in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.997512,
@@ -12014,7 +12014,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Vietnam Veterans Plaza",
-                  "text": "Vietnam Veterans Plaza ist ein Gedenkpark in Brooklyn im Brooklyn Bridge Park.",
+                  "text": "Gedenkpark zu Ehren der Vietnamkriegsveteranen im Finanzviertel von Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -74.009855,
@@ -12041,7 +12041,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Botanic Garden",
-                  "text": "Der Brooklyn Botanic Garden beherbergt einen japanischen Garten und ist ein botanischer Garten in Brooklyn.",
+                  "text": "Botanischer Garten mit dem japanischen Hügel-und-Teich-Garten und dem Cranford Rosengarten in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.963966,
@@ -12050,7 +12050,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Mount Prospect Park",
-                  "text": "Mount Prospect Park ist ein Park in Brooklyn auf dem Gipfel des Mount Prospect.",
+                  "text": "Park auf einem Hügel mit Blick auf das Brooklyn Museum und die Skyline von Manhattan in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.966625,
@@ -12088,7 +12088,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "hu": [
             {
                   "name": "Museum of Contemporary African Diasporan Arts",
-                  "text": "A Museum of Contemporary African Diasporan Arts egy múzeum Brooklynban, amely az afrikai diaszpóra művészetére összpontosít.",
+                  "text": "Kortárs afrikai diaszpóra művészeti múzeum Brooklynban, New Yorkban.",
                   "category": "museum",
                   "coords": [
                         -73.974428,
@@ -12115,7 +12115,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Museum",
-                  "text": "A Brooklyn Múzeum egy művészeti múzeum Brooklynban, az egyik legnagyobb az Egyesült Államokban.",
+                  "text": "Nagy művészeti múzeum több mint 500 000 műalkotással Brooklynban.",
                   "category": "museum",
                   "coords": [
                         -73.963545,
@@ -12124,7 +12124,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lefferts Historic House",
-                  "text": "Lefferts Historic House egy történelmi házmúzeum Brooklynban, a Prospect Parkban.",
+                  "text": "Történelmi 18. századi parasztház Brooklynban, a Prospect Park által körülvéve.",
                   "category": "museum",
                   "coords": [
                         -73.963802,
@@ -12151,7 +12151,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Borough Hall",
-                  "text": "Brooklyn Borough Hall Brooklyn kerület városháza.",
+                  "text": "Történelmi kormányzati épület görög újjászületés stílusban Brooklynban.",
                   "category": "historical",
                   "coords": [
                         -73.990305,
@@ -12178,7 +12178,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Bartholomew's Episcopal Church",
-                  "text": "Saint Bartholomew's Episcopal Church egy templom Brooklynban, neobizánci stílusban.",
+                  "text": "Neogótikus stílusú episzkopális templom Brooklynban.",
                   "category": "religious",
                   "coords": [
                         -73.952222,
@@ -12187,7 +12187,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Brooklyn Friends Meetinghouse egy történelmi kvéker gyülekezeti ház Brooklynban.",
+                  "text": "19. századi kvéker gyülekezőház Brooklynban.",
                   "category": "religious",
                   "coords": [
                         -73.989489,
@@ -12196,7 +12196,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Paramount",
-                  "text": "A Brooklyn Paramount egy színház Brooklynban, korábban filmszínház volt.",
+                  "text": "Történelmi mozi- és rendezvényház Art Deco stílusban Brooklynban.",
                   "category": "cultural",
                   "coords": [
                         -73.98116,
@@ -12205,7 +12205,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Francis of Assisi Church",
-                  "text": "Saint Francis of Assisi Church egy római katolikus templom Brooklynban.",
+                  "text": "Katolikus templom két védőszenttel Brooklynban.",
                   "category": "religious",
                   "coords": [
                         -73.950448,
@@ -12214,7 +12214,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Queen of All Saints Church",
-                  "text": "Queen of All Saints Church egy római katolikus bazilika Brooklynban.",
+                  "text": "Római katolikus plébániatemplom a brooklyni Fort Greene negyedben, Street Financial Industryben.",
                   "category": "religious",
                   "coords": [
                         -73.969175,
@@ -12223,7 +12223,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Sts. Constantine and Helen Greek Orthodox Cathedral",
-                  "text": "Sts. Constantine and Helen Greek Orthodox Cathedral egy görög ortodox katedrális Brooklynban.",
+                  "text": "Görög ortodox székesegyház, amely a Street Financial Industry-i görög közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -73.99121,
@@ -12241,7 +12241,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Plymouth Church",
-                  "text": "Plymouth Church egy történelmi templom Brooklynban, ismert az abolicionista mozgalomról.",
+                  "text": "Történelmi Plymouth Church, egykori megállóhely a underground railroadon a Street Financial Industryben.",
                   "category": "religious",
                   "coords": [
                         -73.993082,
@@ -12250,7 +12250,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Park Slope Jewish Center",
-                  "text": "Park Slope Jewish Center egy zsinagóga Brooklynban, a Park Slope negyedben.",
+                  "text": "Zsinagóga, amely a Street Financial Industry-i Park Slope negyed zsidó közösségét szolgálja.",
                   "category": "religious",
                   "coords": [
                         -73.981902,
@@ -12259,7 +12259,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Elohim",
-                  "text": "Congregation Beth Elohim egy reform zsinagóga Brooklynban, történelmi épülettel.",
+                  "text": "Reform zsidó gyülekezet a Street Financial Industry-i Park Slope-ban.",
                   "category": "religious",
                   "coords": [
                         -73.974415,
@@ -12268,7 +12268,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Congregation Beth Israel egy ortodox zsinagóga Brooklynban.",
+                  "text": "Ortodox zsidó zsinagóga a Street Financial Industryben.",
                   "category": "religious",
                   "coords": [
                         -73.942663,
@@ -12286,7 +12286,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Squibb Park Bridge",
-                  "text": "Squibb Park Bridge egy gyalogoshíd Brooklynban, amely Brooklyn Heightsot köti össze a Brooklyn Bridge Parkkal.",
+                  "text": "Gyalogos híd, amely összeköti a Brooklyn Bridge Parkot a Cobble Hill-lel a Street Financial Industryben.",
                   "category": "landmark",
                   "coords": [
                         -73.9961,
@@ -12295,7 +12295,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Union Street Bridge",
-                  "text": "Union Street Bridge egy felvonóhíd Brooklynban, a Gowanus-csatorna felett.",
+                  "text": "Felvonóhíd a Gowanus-csatorna felett a Street Financial Industryben.",
                   "category": "landmark",
                   "coords": [
                         -73.98836,
@@ -12304,7 +12304,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Carroll Street Bridge",
-                  "text": "Carroll Street Bridge egy felvonóhíd Brooklynban, a Gowanus-csatorna felett.",
+                  "text": "Történelmi felvonóhíd a Gowanus-csatorna felett a Street Financial Industryben.",
                   "category": "landmark",
                   "coords": [
                         -73.989414,
@@ -12331,7 +12331,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brower Park",
-                  "text": "Brower Park egy nyilvános park Brooklynban, a Crown Heights negyedben.",
+                  "text": "Park a Crown Heights negyedben, a Brooklyn Gyermekmúzeum mellett, a Street Financial Industryben.",
                   "category": "park",
                   "coords": [
                         -73.943252,
@@ -12340,7 +12340,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Cadman Plaza Park",
-                  "text": "Cadman Plaza Park egy park Brooklynban, a Brooklyn Heights negyedben.",
+                  "text": "Park a Brooklyn Bridge lábánál, a Street Financial Industry belvárosában.",
                   "category": "park",
                   "coords": [
                         -73.990554,
@@ -12349,7 +12349,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Bridge Park",
-                  "text": "Brooklyn Bridge Park egy vízparti park Brooklynban, az East River mentén.",
+                  "text": "Vízparti park a Brooklyn Bridge alatt a Street Financial Industryben.",
                   "category": "park",
                   "coords": [
                         -73.997512,
@@ -12358,7 +12358,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Vietnam Veterans Plaza",
-                  "text": "Vietnam Veterans Plaza egy emlékpark Brooklynban, a Brooklyn Bridge Parkban.",
+                  "text": "Emlékpark a vietnami háború veteránjainak tiszteletére a Street Financial Industry pénzügyi negyedében.",
                   "category": "park",
                   "coords": [
                         -74.009855,
@@ -12385,7 +12385,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Botanic Garden",
-                  "text": "A Brooklyn Botanic Garden egy japán kertet foglal magában, és egy botanikus kert Brooklynban.",
+                  "text": "Botanikus kert a japán domb-és-tó kerttel és a Cranford Rózsakerttel a Street Financial Industryben.",
                   "category": "park",
                   "coords": [
                         -73.963966,
@@ -12394,7 +12394,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Mount Prospect Park",
-                  "text": "A Mount Prospect Park egy park Brooklynban, a Mount Prospect csúcsán.",
+                  "text": "Park egy dombon, kilátással a Brooklyn Múzeumra és Manhattan látképére a Street Financial Industryben.",
                   "category": "park",
                   "coords": [
                         -73.966625,
@@ -12432,7 +12432,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "ro": [
             {
                   "name": "Museum of Contemporary African Diasporan Arts",
-                  "text": "Muzeul de Artă Contemporană a Diasporei Africane este un muzeu din Brooklyn, dedicat artei diasporei africane.",
+                  "text": "Muzeu de artă contemporană a diasporei africane în Brooklyn, New York.",
                   "category": "museum",
                   "coords": [
                         -73.974428,
@@ -12459,7 +12459,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Museum",
-                  "text": "Muzeul Brooklyn este un muzeu de artă din Brooklyn, unul dintre cele mai mari din SUA.",
+                  "text": "Muzeu mare de artă cu peste 500.000 de opere în Brooklyn.",
                   "category": "museum",
                   "coords": [
                         -73.963545,
@@ -12468,7 +12468,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lefferts Historic House",
-                  "text": "Lefferts Historic House este un muzeu-casă istorică din Brooklyn, situat în Parcul Prospect.",
+                  "text": "Casă de fermă istorică din secolul al XVIII-lea în Brooklyn, înconjurată de Prospect Park.",
                   "category": "museum",
                   "coords": [
                         -73.963802,
@@ -12495,7 +12495,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Borough Hall",
-                  "text": "Brooklyn Borough Hall este primăria districtului Brooklyn.",
+                  "text": "Clădire guvernamentală istorică în stil Greek Revival în Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.990305,
@@ -12522,7 +12522,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Bartholomew's Episcopal Church",
-                  "text": "Biserica Episcopală Sfântul Bartolomeu este o biserică din Brooklyn, în stil neobizantin.",
+                  "text": "Biserică episcopală în stil neogotic în Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.952222,
@@ -12531,7 +12531,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Brooklyn Friends Meetinghouse este o casă de întâlnire quakeră istorică din Brooklyn.",
+                  "text": "Casă de adunări quakeră din secolul al XIX-lea în Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.989489,
@@ -12540,7 +12540,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Paramount",
-                  "text": "Brooklyn Paramount este un teatru din Brooklyn, fost palat cinematografic.",
+                  "text": "Cinema și sală de evenimente istorică în stil Art Deco în Brooklyn.",
                   "category": "cultural",
                   "coords": [
                         -73.98116,
@@ -12549,7 +12549,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Francis of Assisi Church",
-                  "text": "Biserica Sfântul Francisc de Assisi este o biserică romano-catolică din Brooklyn.",
+                  "text": "Biserică catolică cu doi patroni în Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.950448,
@@ -12558,7 +12558,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Queen of All Saints Church",
-                  "text": "Biserica Regina Tuturor Sfinților este o basilică romano-catolică din Brooklyn.",
+                  "text": "Biserică romano-catolică parohială în cartierul Fort Greene din Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.969175,
@@ -12567,7 +12567,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Sts. Constantine and Helen Greek Orthodox Cathedral",
-                  "text": "Catedrala Greacă Ortodoxă Sfinții Constantin și Elena este o catedrală greco-ortodoxă din Brooklyn.",
+                  "text": "Catedrală greco-ortodoxă care deservește comunitatea greacă din Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.99121,
@@ -12585,7 +12585,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Plymouth Church",
-                  "text": "Biserica Plymouth este o biserică istorică din Brooklyn, cunoscută pentru activismul aboliționist.",
+                  "text": "Biserica istorică Plymouth, o fostă stație a căii ferate subterane în Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.993082,
@@ -12594,7 +12594,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Park Slope Jewish Center",
-                  "text": "Park Slope Jewish Center este o sinagogă din Brooklyn, în cartierul Park Slope.",
+                  "text": "Sinagogă care deservește comunitatea evreiască din cartierul Park Slope din Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.981902,
@@ -12603,7 +12603,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Elohim",
-                  "text": "Congregația Beth Elohim este o sinagogă reformată din Brooklyn, cu o clădire istorică.",
+                  "text": "Congregație evreiască reformată în Park Slope, Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.974415,
@@ -12612,7 +12612,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Congregația Beth Israel este o sinagogă ortodoxă din Brooklyn.",
+                  "text": "Sinagogă evreiască ortodoxă în Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.942663,
@@ -12630,7 +12630,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Squibb Park Bridge",
-                  "text": "Podul Squibb Park este un pod pietonal din Brooklyn, care leagă Brooklyn Heights de Brooklyn Bridge Park.",
+                  "text": "Pod pietonal care leagă Brooklyn Bridge Park de Cobble Hill în Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.9961,
@@ -12639,7 +12639,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Union Street Bridge",
-                  "text": "Podul Union Street este un pod lift din Brooklyn peste Canalul Gowanus.",
+                  "text": "Pod retractabil peste Canalul Gowanus în Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.98836,
@@ -12648,7 +12648,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Carroll Street Bridge",
-                  "text": "Podul Carroll Street este un pod basculant din Brooklyn peste Canalul Gowanus.",
+                  "text": "Pod retractabil istoric peste Canalul Gowanus în Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.989414,
@@ -12675,7 +12675,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brower Park",
-                  "text": "Parcul Brower este un parc public din Brooklyn, în cartierul Crown Heights.",
+                  "text": "Parcul din Crown Heights, lângă Muzeul Copiilor din Brooklyn, în Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.943252,
@@ -12684,7 +12684,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Cadman Plaza Park",
-                  "text": "Parcul Cadman Plaza este un parc din Brooklyn, în cartierul Brooklyn Heights.",
+                  "text": "Parcul de la baza podului Brooklyn în centrul orașului Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.990554,
@@ -12693,7 +12693,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Bridge Park",
-                  "text": "Brooklyn Bridge Park este un parc de pe malul apei din Brooklyn, de-a lungul East River.",
+                  "text": "Parcul de pe malul apei sub podul Brooklyn în Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.997512,
@@ -12702,7 +12702,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Vietnam Veterans Plaza",
-                  "text": "Vietnam Veterans Plaza este un parc memorial din Brooklyn, în Brooklyn Bridge Park.",
+                  "text": "Parcul memorial în onoarea veteranilor din Vietnam în districtul financiar al Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -74.009855,
@@ -12729,7 +12729,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Botanic Garden",
-                  "text": "Grădina Botanică Brooklyn include o grădină japoneză și este o grădină botanică în Brooklyn.",
+                  "text": "Grădină botanică cu grădina japoneză de deal și iaz și grădina de trandafiri Cranford în Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.963966,
@@ -12738,7 +12738,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Mount Prospect Park",
-                  "text": "Mount Prospect Park este un parc în Brooklyn, situat pe vârful Mount Prospect.",
+                  "text": "Parcul pe un deal cu vedere spre Muzeul Brooklyn și peisajul urban al Manhattanului în Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.966625,
@@ -12776,7 +12776,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "en": [
             {
                   "name": "Museum of Contemporary African Diasporan Arts",
-                  "text": "The Museum of Contemporary African Diasporan Arts is a museum in Brooklyn, focusing on art of the African diaspora.",
+                  "text": "Museum of contemporary African diasporan art in Brooklyn, New York.",
                   "category": "museum",
                   "coords": [
                         -73.974428,
@@ -12803,7 +12803,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Museum",
-                  "text": "The Brooklyn Museum is an art museum in Brooklyn, one of the largest in the United States.",
+                  "text": "Large art museum with over 500,000 works in Brooklyn.",
                   "category": "museum",
                   "coords": [
                         -73.963545,
@@ -12812,7 +12812,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lefferts Historic House",
-                  "text": "Lefferts Historic House is a historic house museum in Brooklyn, located in Prospect Park.",
+                  "text": "Historic 18th-century farmhouse in Brooklyn, surrounded by Prospect Park.",
                   "category": "museum",
                   "coords": [
                         -73.963802,
@@ -12839,7 +12839,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Borough Hall",
-                  "text": "Brooklyn Borough Hall is the town hall of the borough of Brooklyn.",
+                  "text": "Historic government building in Greek Revival style in Brooklyn.",
                   "category": "historical",
                   "coords": [
                         -73.990305,
@@ -12866,7 +12866,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Bartholomew's Episcopal Church",
-                  "text": "Saint Bartholomew's Episcopal Church is a church in Brooklyn in Neo-Byzantine style.",
+                  "text": "Episcopal church in Gothic Revival style in Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.952222,
@@ -12875,7 +12875,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Brooklyn Friends Meetinghouse is a historic Quaker meeting house in Brooklyn.",
+                  "text": "19th-century Quaker meeting house in Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.989489,
@@ -12884,7 +12884,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Paramount",
-                  "text": "The Brooklyn Paramount is a theatre in Brooklyn, formerly a movie palace.",
+                  "text": "Historic movie and event house in Art Deco style in Brooklyn.",
                   "category": "cultural",
                   "coords": [
                         -73.98116,
@@ -12893,7 +12893,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Saint Francis of Assisi Church",
-                  "text": "Saint Francis of Assisi Church is a Roman Catholic church in Brooklyn.",
+                  "text": "Catholic church with two patron saints in Brooklyn.",
                   "category": "religious",
                   "coords": [
                         -73.950448,
@@ -12902,7 +12902,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Queen of All Saints Church",
-                  "text": "Queen of All Saints Church is a Roman Catholic basilica in Brooklyn.",
+                  "text": "Roman Catholic parish church in the Fort Greene neighborhood of Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.969175,
@@ -12911,7 +12911,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Sts. Constantine and Helen Greek Orthodox Cathedral",
-                  "text": "Sts. Constantine and Helen Greek Orthodox Cathedral is a Greek Orthodox cathedral in Brooklyn.",
+                  "text": "Greek Orthodox cathedral serving the Greek community in Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.99121,
@@ -12929,7 +12929,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Plymouth Church",
-                  "text": "Plymouth Church is a historic church in Brooklyn, known for abolitionist activism.",
+                  "text": "Historic Plymouth Church, a former stop on the Underground Railroad in Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.993082,
@@ -12938,7 +12938,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Park Slope Jewish Center",
-                  "text": "Park Slope Jewish Center is a synagogue in Brooklyn in the Park Slope neighborhood.",
+                  "text": "Synagogue serving the Jewish community in the Park Slope area of Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.981902,
@@ -12947,7 +12947,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Elohim",
-                  "text": "Congregation Beth Elohim is a Reform synagogue in Brooklyn with a historic building.",
+                  "text": "Reform Jewish congregation in Park Slope, Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.974415,
@@ -12956,7 +12956,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Congregation Beth Israel",
-                  "text": "Congregation Beth Israel is an Orthodox synagogue in Brooklyn.",
+                  "text": "Orthodox Jewish synagogue in Street Financial Industry.",
                   "category": "religious",
                   "coords": [
                         -73.942663,
@@ -12974,7 +12974,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Squibb Park Bridge",
-                  "text": "Squibb Park Bridge is a pedestrian bridge in Brooklyn, connecting Brooklyn Heights to Brooklyn Bridge Park.",
+                  "text": "Pedestrian bridge connecting Brooklyn Bridge Park to Cobble Hill in Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.9961,
@@ -12983,7 +12983,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Union Street Bridge",
-                  "text": "Union Street Bridge is a lift bridge in Brooklyn over the Gowanus Canal.",
+                  "text": "Retractable bridge over the Gowanus Canal in Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.98836,
@@ -12992,7 +12992,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Carroll Street Bridge",
-                  "text": "Carroll Street Bridge is a retractable bridge in Brooklyn over the Gowanus Canal.",
+                  "text": "Historic retractable bridge over the Gowanus Canal in Street Financial Industry.",
                   "category": "landmark",
                   "coords": [
                         -73.989414,
@@ -13019,7 +13019,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brower Park",
-                  "text": "Brower Park is a public park in Brooklyn in the Crown Heights neighborhood.",
+                  "text": "Park in Crown Heights, adjacent to the Brooklyn Children's Museum, in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.943252,
@@ -13028,7 +13028,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Cadman Plaza Park",
-                  "text": "Cadman Plaza Park is a park in Brooklyn in the Brooklyn Heights neighborhood.",
+                  "text": "Park at the foot of the Brooklyn Bridge in downtown Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.990554,
@@ -13037,7 +13037,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Bridge Park",
-                  "text": "Brooklyn Bridge Park is a waterfront park in Brooklyn along the East River.",
+                  "text": "Waterfront park beneath the Brooklyn Bridge in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.997512,
@@ -13046,7 +13046,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Vietnam Veterans Plaza",
-                  "text": "Vietnam Veterans Plaza is a memorial park in Brooklyn within Brooklyn Bridge Park.",
+                  "text": "Memorial park honoring Vietnam veterans in the Financial District of Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -74.009855,
@@ -13073,7 +13073,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Brooklyn Botanic Garden",
-                  "text": "Brooklyn Botanic Garden features a Japanese garden and is a botanical garden in Brooklyn.",
+                  "text": "Botanical garden featuring the Japanese Hill-and-Pond Garden and the Cranford Rose Garden in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.963966,
@@ -13082,7 +13082,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Mount Prospect Park",
-                  "text": "Mount Prospect Park is a park in Brooklyn located at the summit of Mount Prospect.",
+                  "text": "Park atop a hill offering views of the Brooklyn Museum and the Manhattan skyline in Street Financial Industry.",
                   "category": "park",
                   "coords": [
                         -73.966625,
@@ -13156,7 +13156,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "de": [
             {
                   "name": "Iron Mountain",
-                  "text": "Ein Berggipfel in der Napa Valley Region.",
+                  "text": "Ein eisenreicher Berg mit Blick auf die Weinberge im Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.268309,
@@ -13165,7 +13165,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lake Berryessa Viewpoint",
-                  "text": "Ein Aussichtspunkt mit Blick auf den Lake Berryessa im Napa Valley.",
+                  "text": "Aussichtspunkt mit Blick auf den Lake Berryessa im Napa Valley Weinland, Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.213455,
@@ -13174,7 +13174,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Atlas Peak",
-                  "text": "Ein Gipfel in den Vaca Mountains im Napa Valley.",
+                  "text": "Ein Gipfel mit Panoramablick über das Weintal im Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.262753,
@@ -13183,7 +13183,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Baldy Mountain",
-                  "text": "Ein Berggipfel namens Baldy im Napa Valley.",
+                  "text": "Ein kahler Gipfel mit Rundumblick über die Weinregion Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.326088,
@@ -13203,7 +13203,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "hu": [
             {
                   "name": "Iron Mountain",
-                  "text": "Egy hegycsúcs a Napa-völgy régióban.",
+                  "text": "Egy vasban gazdag hegy, amely a borvidék szőlőültetvényeire nyújt kilátást Valley Wine Industryban.",
                   "category": "natural",
                   "coords": [
                         -122.268309,
@@ -13212,7 +13212,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lake Berryessa Viewpoint",
-                  "text": "Egy kilátópont a Lake Berryessa-re a Napa-völgyben.",
+                  "text": "Kilátó a Berryessa-tóra a Napa-völgy borvidékén, Valley Wine Industryban.",
                   "category": "natural",
                   "coords": [
                         -122.213455,
@@ -13221,7 +13221,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Atlas Peak",
-                  "text": "Egy csúcs a Vaca-hegységben a Napa-völgyben.",
+                  "text": "Egy csúcs, amely panorámás kilátást nyújt a borvidékre Valley Wine Industryban.",
                   "category": "natural",
                   "coords": [
                         -122.262753,
@@ -13230,7 +13230,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Baldy Mountain",
-                  "text": "Egy Baldy nevű hegycsúcs a Napa-völgyben.",
+                  "text": "Egy kopár csúcs, amely körpanorámát nyújt a borvidékre Valley Wine Industryban.",
                   "category": "natural",
                   "coords": [
                         -122.326088,
@@ -13250,7 +13250,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "ro": [
             {
                   "name": "Iron Mountain",
-                  "text": "Un vârf de munte în regiunea Napa Valley.",
+                  "text": "Un munte bogat în fier, cu vedere spre podgoriile din Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.268309,
@@ -13259,7 +13259,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lake Berryessa Viewpoint",
-                  "text": "Un punct de belvedere spre Lacul Berryessa în Napa Valley.",
+                  "text": "Punct de belvedere cu vedere spre Lacul Berryessa în regiunea viticolă Napa Valley, Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.213455,
@@ -13268,7 +13268,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Atlas Peak",
-                  "text": "Un vârf în Munții Vaca din Napa Valley.",
+                  "text": "Un vârf cu vedere panoramică asupra văii vinicole din Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.262753,
@@ -13277,7 +13277,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Baldy Mountain",
-                  "text": "Un vârf de munte numit Baldy în Napa Valley.",
+                  "text": "Un vârf pleșuv cu vedere circulară asupra regiunii vinicole din Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.326088,
@@ -13297,7 +13297,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
       "en": [
             {
                   "name": "Iron Mountain",
-                  "text": "A mountain peak in the Napa Valley region.",
+                  "text": "An iron-rich mountain overlooking vineyards in the Valley Wine Industry area.",
                   "category": "natural",
                   "coords": [
                         -122.268309,
@@ -13306,7 +13306,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Lake Berryessa Viewpoint",
-                  "text": "A viewpoint overlooking Lake Berryessa in Napa Valley.",
+                  "text": "Scenic viewpoint overlooking Lake Berryessa in Napa Valley wine country, Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.213455,
@@ -13315,7 +13315,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Atlas Peak",
-                  "text": "A peak in the Vaca Mountains of Napa Valley.",
+                  "text": "A peak offering panoramic views of the wine valley in Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.262753,
@@ -13324,7 +13324,7 @@ factsAdvanced: { de: ["Der Spindletop-Ölfund 1901 löste das texanische Ölzeit
             },
             {
                   "name": "Baldy Mountain",
-                  "text": "A mountain peak called Baldy in Napa Valley.",
+                  "text": "A bare summit with 360-degree views of the wine country in Valley Wine Industry.",
                   "category": "natural",
                   "coords": [
                         -122.326088,
@@ -13379,7 +13379,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
       "de": [
             {
                   "name": "Southwest Museum of the American Indian",
-                  "text": "In hollywood-entertainment-industry-economic-v2 ist das Southwest Museum of the American Indian ein Museum, das sich auf indigene Kulturen konzentriert.",
+                  "text": "Museum in einem historischen spanischen Kolonialstil-Gebäude im Mt. Washington-Viertel von Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.205806,
@@ -13388,7 +13388,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "LA Plaza De Culturas Y Artes",
-                  "text": "In hollywood-entertainment-industry-economic-v2 feiert LA Plaza De Culturas Y Artes die mexikanisch-amerikanische Kultur.",
+                  "text": "Museum und Kulturzentrum an der historischen Olvera Street in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.239796,
@@ -13406,7 +13406,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Heritage Square",
-                  "text": "In hollywood-entertainment-industry-economic-v2 ist Heritage Square ein Museum historischer viktorianischer Häuser.",
+                  "text": "Freilichtmuseum mit restaurierten viktorianischen Häusern im Highland Park-Viertel von Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.208541,
@@ -13415,7 +13415,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Lummis Home",
-                  "text": "In hollywood-entertainment-industry-economic-v2 ist Lummis Home das historische Haus von Charles Lummis.",
+                  "text": "Historisches Steinhaus von Charles Lummis im Arroyo Seco von Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.206922,
@@ -13424,7 +13424,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "In hollywood-entertainment-industry-economic-v2 ist das Institute of Contemporary Art, Los Angeles ein Museum für zeitgenössische Kunst.",
+                  "text": "Museum für zeitgenössische Kunst im Kunstviertel von Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.235646,
@@ -13433,7 +13433,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "African American Firefighter Museum",
-                  "text": "In hollywood-entertainment-industry-economic-v2 ehrt das African American Firefighter Museum afroamerikanische Feuerwehrleute.",
+                  "text": "Museum in der ehemaligen Feuerwache 30, das afroamerikanischen Feuerwehrleuten gewidmet ist, in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.247264,
@@ -13451,7 +13451,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "Das Museum of Contemporary Art ist ein Museum für zeitgenössische Kunst in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Museum für zeitgenössische Kunst an der Grand Avenue in der Innenstadt von Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.250539,
@@ -13469,7 +13469,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Avila Adobe",
-                  "text": "Die Avila Adobe ist ein historisches Adobe-Haus in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Adobe-Haus von 1818, das älteste noch stehende Wohnhaus von Los Angeles, an der Olvera Street in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.237823,
@@ -13487,7 +13487,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Natural History Museum of Los Angeles County",
-                  "text": "Das Natural History Museum of Los Angeles County ist ein Naturkundemuseum in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Großes naturhistorisches Museum mit Dinosaurierfossilien im Exposition Park von Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.288767,
@@ -13505,7 +13505,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Municipal Art Gallery",
-                  "text": "Die Los Angeles Municipal Art Gallery ist eine städtische Kunstgalerie in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Kunstgalerie im Barnsdall Park auf dem Gelände des Hollyhock House in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.293582,
@@ -13514,7 +13514,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Sister Cities Monument",
-                  "text": "Das Los Angeles Sister Cities Monument ist ein Denkmal, das die Partnerstädte von Los Angeles repräsentiert, in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Denkmal zu Ehren der Partnerstädte von Los Angeles im Civic Center von Entertainment Industry.",
                   "category": "historical",
                   "coords": [
                         -118.243128,
@@ -13541,7 +13541,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Das Orpheum Theatre ist ein historisches Theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Historischer Filmpalast am Broadway, eröffnet 1926, in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.255389,
@@ -13550,7 +13550,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Globe Theatre",
-                  "text": "Das Globe Theatre ist ein Theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Theater am Broadway im historischen Theaterbezirk von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.254133,
@@ -13559,7 +13559,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Grauman's Million Dollar Theatre",
-                  "text": "Das Grauman's Million Dollar Theatre ist ein historisches Theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Historischer Filmpalast am Broadway, eröffnet 1918, in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.248673,
@@ -13568,7 +13568,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "East West Players",
-                  "text": "East West Players ist eine Theatergruppe in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Theaterkompanie mit Fokus auf asiatisch-amerikanische Geschichten im Little Tokyo-Viertel von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.240152,
@@ -13577,7 +13577,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Novo",
-                  "text": "The Novo ist ein Veranstaltungsort für Live-Musik in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Livemusik-Veranstaltungsort am LA Live in der Innenstadt von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.265472,
@@ -13586,7 +13586,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Brendan Roman Catholic Church",
-                  "text": "Die Saint Brendan Roman Catholic Church ist eine katholische Kirche in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Römisch-katholische Kirche im Highland Park-Viertel von Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.314798,
@@ -13595,7 +13595,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Upright Citizens Brigade",
-                  "text": "Das Upright Citizens Brigade Theatre ist ein Improvisationstheater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Comedy-Improvisationstheater im Hollywood-Viertel von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.31878,
@@ -13613,7 +13613,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Dorothy Chandler Pavilion",
-                  "text": "Der Dorothy Chandler Pavilion ist ein Konzertsaal in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Konzertsaal im Music Center, Heimat der Los Angeles Opera, in der Innenstadt von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.248927,
@@ -13649,7 +13649,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Peacock Theater",
-                  "text": "Das Peacock Theater ist ein Theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Veranstaltungsort für darstellende Künste am LA Live in der Innenstadt von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.267052,
@@ -13667,7 +13667,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Thomas the Apostle Roman Catholic Church",
-                  "text": "Die Saint Thomas the Apostle Roman Catholic Church ist eine katholische Kirche in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Römisch-katholische Kirche im Hollywood-Viertel von Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.298955,
@@ -13694,7 +13694,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Greek Theatre",
-                  "text": "Das Greek Theatre ist ein Freilufttheater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Freiluft-Amphitheater im Griffith Park von Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.296387,
@@ -13703,7 +13703,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Thien Hau Temple",
-                  "text": "Der Thien Hau Tempel ist ein chinesischer Tempel in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Chinesischer Volkstempel, der Mazu gewidmet ist, in Chinatown von Entertainment Industry.",
                   "category": "landmark",
                   "coords": [
                         -118.240768,
@@ -13712,7 +13712,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koreatown",
-                  "text": "Koreatown ist ein Stadtteil mit koreanischer Kultur in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Lebendiges Viertel mit koreanischen Restaurants, Geschäften und Nachtleben in Entertainment Industry.",
                   "category": "landmark",
                   "coords": [
                         -118.305447,
@@ -13723,7 +13723,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
       "hu": [
             {
                   "name": "Southwest Museum of the American Indian",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén a Southwest Museum of the American Indian egy múzeum, amely az őslakos kultúrákra összpontosít.",
+                  "text": "Múzeum egy történelmi spanyol gyarmati stílusú épületben az Entertainment Industry-i Mt. Washington negyedben.",
                   "category": "museum",
                   "coords": [
                         -118.205806,
@@ -13732,7 +13732,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "LA Plaza De Culturas Y Artes",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén a LA Plaza De Culturas Y Artes a mexikói-amerikai kultúrát ünnepli.",
+                  "text": "Múzeum és kulturális központ a történelmi Olvera Streeten az Entertainment Industryben.",
                   "category": "museum",
                   "coords": [
                         -118.239796,
@@ -13750,7 +13750,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Heritage Square",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén a Heritage Square egy múzeum történelmi viktoriánus házakkal.",
+                  "text": "Szabadtéri múzeum felújított viktoriánus házakkal az Entertainment Industry-i Highland Park negyedben.",
                   "category": "museum",
                   "coords": [
                         -118.208541,
@@ -13759,7 +13759,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Lummis Home",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén a Lummis Home Charles Lummis történelmi háza.",
+                  "text": "Charles Lummis történelmi kőháza az Entertainment Industry-i Arroyo Seco-ban.",
                   "category": "museum",
                   "coords": [
                         -118.206922,
@@ -13768,7 +13768,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén az Institute of Contemporary Art, Los Angeles egy kortárs művészeti múzeum.",
+                  "text": "Kortárs művészeti múzeum az Entertainment Industry-i Művészeti Negyedben.",
                   "category": "museum",
                   "coords": [
                         -118.235646,
@@ -13777,7 +13777,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "African American Firefighter Museum",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén az African American Firefighter Museum az afroamerikai tűzoltók előtt tiszteleg.",
+                  "text": "Múzeum az egykori 30-as tűzoltóállomásban, amely az afroamerikai tűzoltók előtt tiszteleg az Entertainment Industryben.",
                   "category": "museum",
                   "coords": [
                         -118.247264,
@@ -13795,7 +13795,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "A Museum of Contemporary Art egy kortárs művészeti múzeum hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Kortárs művészeti múzeum a Grand Avenue-n az Entertainment Industry belvárosában.",
                   "category": "museum",
                   "coords": [
                         -118.250539,
@@ -13813,7 +13813,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Avila Adobe",
-                  "text": "Az Avila Adobe egy történelmi vályogház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "1818-ból származó vályogház, Los Angeles legrégebbi fennmaradt lakóháza az Olvera Streeten az Entertainment Industryben.",
                   "category": "museum",
                   "coords": [
                         -118.237823,
@@ -13831,7 +13831,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Natural History Museum of Los Angeles County",
-                  "text": "A Natural History Museum of Los Angeles County egy természetrajzi múzeum hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Nagy természettudományi múzeum dinoszaurusz-fosszíliákkal az Entertainment Industry-i Exposition Parkban.",
                   "category": "museum",
                   "coords": [
                         -118.288767,
@@ -13849,7 +13849,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Municipal Art Gallery",
-                  "text": "A Los Angeles Municipal Art Gallery egy városi művészeti galéria hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Művészeti galéria a Barnsdall Parkban, a Hollyhock House területén az Entertainment Industryben.",
                   "category": "museum",
                   "coords": [
                         -118.293582,
@@ -13858,7 +13858,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Sister Cities Monument",
-                  "text": "A Los Angeles Sister Cities Monument egy emlékmű, amely Los Angeles testvérvárosait jelképezi, hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Emlékmű Los Angeles testvérvárosainak tiszteletére az Entertainment Industry-i Civic Centerben.",
                   "category": "historical",
                   "coords": [
                         -118.243128,
@@ -13885,7 +13885,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Az Orpheum Theatre egy történelmi színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Történelmi filmszínház a Broadway-n, 1926-ban nyílt meg, az Entertainment Industryben.",
                   "category": "cultural",
                   "coords": [
                         -118.255389,
@@ -13894,7 +13894,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Globe Theatre",
-                  "text": "A Globe Theatre egy színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Színház a Broadway-n az Entertainment Industry-i történelmi színháznegyedben.",
                   "category": "cultural",
                   "coords": [
                         -118.254133,
@@ -13903,7 +13903,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Grauman's Million Dollar Theatre",
-                  "text": "A Grauman's Million Dollar Theatre egy történelmi színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Történelmi filmszínház a Broadway-n, 1918-ban nyílt meg, az Entertainment Industryben.",
                   "category": "cultural",
                   "coords": [
                         -118.248673,
@@ -13912,7 +13912,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "East West Players",
-                  "text": "Az East West Players egy színházi társulat hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Színházi társaság, amely az ázsiai-amerikai történetekre összpontosít az Entertainment Industry-i Little Tokyóban.",
                   "category": "cultural",
                   "coords": [
                         -118.240152,
@@ -13921,7 +13921,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Novo",
-                  "text": "A The Novo egy élőzenei helyszín hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Élőzenei helyszín a LA Live-nál az Entertainment Industry belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -118.265472,
@@ -13930,7 +13930,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Brendan Roman Catholic Church",
-                  "text": "A Saint Brendan Roman Catholic Church egy katolikus templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Római katolikus templom az Entertainment Industry-i Highland Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -118.314798,
@@ -13939,7 +13939,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Upright Citizens Brigade",
-                  "text": "Az Upright Citizens Brigade Theatre egy improvizációs színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Komédia rögtönzési színház az Entertainment Industry-i Hollywood negyedben.",
                   "category": "cultural",
                   "coords": [
                         -118.31878,
@@ -13957,7 +13957,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Dorothy Chandler Pavilion",
-                  "text": "A Dorothy Chandler Pavilion egy koncertterem hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Koncertterem a Music Centerben, a Los Angeles-i Opera otthona, az Entertainment Industry belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -118.248927,
@@ -13993,7 +13993,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Peacock Theater",
-                  "text": "A Peacock Theater egy színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Előadóművészeti helyszín a LA Live-nál az Entertainment Industry belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -118.267052,
@@ -14011,7 +14011,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Thomas the Apostle Roman Catholic Church",
-                  "text": "A Saint Thomas the Apostle Roman Catholic Church egy katolikus templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Római katolikus templom az Entertainment Industry-i Hollywood negyedben.",
                   "category": "religious",
                   "coords": [
                         -118.298955,
@@ -14038,7 +14038,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Greek Theatre",
-                  "text": "A Greek Theatre egy szabadtéri színház hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Szabadtéri amfiteátrum a Griffith Parkban, az Entertainment Industryben.",
                   "category": "cultural",
                   "coords": [
                         -118.296387,
@@ -14047,7 +14047,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Thien Hau Temple",
-                  "text": "A Thien Hau Templom egy kínai templom hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Kínai népi templom Mazu tiszteletére az Entertainment Industry-i Chinatownban.",
                   "category": "landmark",
                   "coords": [
                         -118.240768,
@@ -14056,7 +14056,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koreatown",
-                  "text": "A Koreatown egy koreai kultúrájú városrész hollywood-entertainment-industry-economic-v2-ben.",
+                  "text": "Élénk negyed koreai éttermekkel, üzletekkel és éjszakai élettel az Entertainment Industryben.",
                   "category": "landmark",
                   "coords": [
                         -118.305447,
@@ -14067,7 +14067,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
       "ro": [
             {
                   "name": "Southwest Museum of the American Indian",
-                  "text": "În hollywood-entertainment-industry-economic-v2, Southwest Museum of the American Indian este un muzeu dedicat culturilor native americane.",
+                  "text": "Muzeu într-o clădire istorică în stil colonial spaniol în cartierul Mt. Washington din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.205806,
@@ -14076,7 +14076,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "LA Plaza De Culturas Y Artes",
-                  "text": "În hollywood-entertainment-industry-economic-v2, LA Plaza De Culturas Y Artes celebrează cultura mexicano-americană.",
+                  "text": "Muzeu și centru cultural pe istorica Olvera Street din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.239796,
@@ -14094,7 +14094,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Heritage Square",
-                  "text": "În hollywood-entertainment-industry-economic-v2, Heritage Square este un muzeu de case victoriene istorice.",
+                  "text": "Muzeu în aer liber cu case victoriene restaurate în cartierul Highland Park din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.208541,
@@ -14103,7 +14103,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Lummis Home",
-                  "text": "În hollywood-entertainment-industry-economic-v2, Lummis Home este casa istorică a lui Charles Lummis.",
+                  "text": "Casă istorică de piatră construită de Charles Lummis în Arroyo Seco din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.206922,
@@ -14112,7 +14112,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "În hollywood-entertainment-industry-economic-v2, Institute of Contemporary Art, Los Angeles este un muzeu de artă contemporană.",
+                  "text": "Muzeu de artă contemporană în Cartierul Artelor din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.235646,
@@ -14121,7 +14121,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "African American Firefighter Museum",
-                  "text": "În hollywood-entertainment-industry-economic-v2, African American Firefighter Museum este un muzeu care onorează pompierii afro-americani.",
+                  "text": "Muzeu în fosta stație de pompieri nr. 30, dedicat pompierilor afro-americani în Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.247264,
@@ -14139,7 +14139,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "Muzeul de Artă Contemporană este un muzeu de artă contemporană din hollywood-entertainment-industry-economic-v2.",
+                  "text": "Muzeu de artă contemporană pe Grand Avenue în centrul orașului Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.250539,
@@ -14157,7 +14157,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Avila Adobe",
-                  "text": "Avila Adobe este o casă istorică de chirpici în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Casă din chirpici din 1818, cea mai veche locuință în picioare din Los Angeles, pe Olvera Street în Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.237823,
@@ -14175,7 +14175,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Natural History Museum of Los Angeles County",
-                  "text": "Muzeul de Istorie Naturală din comitatul Los Angeles este un muzeu de istorie naturală în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Muzeu mare de istorie naturală cu fosile de dinozauri în Exposition Park din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.288767,
@@ -14193,7 +14193,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Municipal Art Gallery",
-                  "text": "Galerii Municipale de Artă din Los Angeles este o galerie de artă municipală în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Galerie de artă în Barnsdall Park, pe proprietatea casei Hollyhock din Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.293582,
@@ -14202,7 +14202,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Sister Cities Monument",
-                  "text": "Monumentul Orașelor Surori din Los Angeles este un monument care reprezintă orașele înfrățite cu Los Angeles, în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Monument care comemorează orașele înfrățite ale Los Angeles-ului în Civic Center din Entertainment Industry.",
                   "category": "historical",
                   "coords": [
                         -118.243128,
@@ -14229,7 +14229,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "Teatrul Orpheum este un teatru istoric în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Palat de film istoric pe Broadway, deschis în 1926, în Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.255389,
@@ -14238,7 +14238,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Globe Theatre",
-                  "text": "Teatrul Globe este un teatru în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Teatru pe Broadway în districtul istoric al teatrelor din Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.254133,
@@ -14247,7 +14247,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Grauman's Million Dollar Theatre",
-                  "text": "Teatrul Million Dollar al lui Grauman este un teatru istoric în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Palat de film istoric pe Broadway, deschis în 1918, în Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.248673,
@@ -14256,7 +14256,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "East West Players",
-                  "text": "East West Players este o companie de teatru în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Companie de teatru axată pe poveștile asiatice-americane în cartierul Little Tokyo din Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.240152,
@@ -14265,7 +14265,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Novo",
-                  "text": "The Novo este un loc de concerte în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Locație de muzică live la LA Live în centrul orașului Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.265472,
@@ -14274,7 +14274,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Brendan Roman Catholic Church",
-                  "text": "Biserica Catolică Sfântul Brendan este o biserică catolică în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Biserică romano-catolică în cartierul Highland Park din Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.314798,
@@ -14283,7 +14283,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Upright Citizens Brigade",
-                  "text": "Teatrul Upright Citizens Brigade este un teatru de improvizație în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Teatru de improvizație comică în cartierul Hollywood din Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.31878,
@@ -14301,7 +14301,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Dorothy Chandler Pavilion",
-                  "text": "Pavilionul Dorothy Chandler este o sală de concerte în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Sala de concerte la Music Center, casa Operei din Los Angeles, în centrul orașului Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.248927,
@@ -14337,7 +14337,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Peacock Theater",
-                  "text": "Teatrul Peacock este un teatru în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Locație de arte spectacolului la LA Live în centrul orașului Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.267052,
@@ -14355,7 +14355,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Thomas the Apostle Roman Catholic Church",
-                  "text": "Biserica Catolică Sfântul Toma Apostolul este o biserică catolică în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Biserică romano-catolică în cartierul Hollywood din Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.298955,
@@ -14382,7 +14382,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Greek Theatre",
-                  "text": "Teatrul Grec este un teatru în aer liber în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Amfiteatru în aer liber în Griffith Park, Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.296387,
@@ -14391,7 +14391,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Thien Hau Temple",
-                  "text": "Templul Thien Hau este un templu chinezesc în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Templu popular chinezesc dedicat lui Mazu în Chinatown, Entertainment Industry.",
                   "category": "landmark",
                   "coords": [
                         -118.240768,
@@ -14400,7 +14400,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koreatown",
-                  "text": "Koreatown este un cartier cu cultură coreeană în hollywood-entertainment-industry-economic-v2.",
+                  "text": "Cartier vibrant cu restaurante coreene, magazine și viață de noapte în Entertainment Industry.",
                   "category": "landmark",
                   "coords": [
                         -118.305447,
@@ -14411,7 +14411,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
       "en": [
             {
                   "name": "Southwest Museum of the American Indian",
-                  "text": "In hollywood-entertainment-industry-economic-v2, Southwest Museum of the American Indian is a museum focusing on Native American cultures.",
+                  "text": "Museum housed in a historic Spanish Colonial Revival building in the Mt. Washington neighborhood of Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.205806,
@@ -14420,7 +14420,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "LA Plaza De Culturas Y Artes",
-                  "text": "In hollywood-entertainment-industry-economic-v2, LA Plaza De Culturas Y Artes is a museum celebrating Mexican-American culture.",
+                  "text": "Museum and cultural center on the historic Olvera Street in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.239796,
@@ -14438,7 +14438,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Heritage Square",
-                  "text": "In hollywood-entertainment-industry-economic-v2, Heritage Square is a museum of historic Victorian houses.",
+                  "text": "Open-air museum with restored Victorian houses in the Highland Park area of Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.208541,
@@ -14447,7 +14447,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Lummis Home",
-                  "text": "In hollywood-entertainment-industry-economic-v2, Lummis Home is the historic house of Charles Lummis.",
+                  "text": "Historic stone house built by Charles Lummis in the Arroyo Seco of Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.206922,
@@ -14456,7 +14456,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "In hollywood-entertainment-industry-economic-v2, Institute of Contemporary Art, Los Angeles is a contemporary art museum.",
+                  "text": "Contemporary art museum in the Arts District of Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.235646,
@@ -14465,7 +14465,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "African American Firefighter Museum",
-                  "text": "In hollywood-entertainment-industry-economic-v2, African American Firefighter Museum is a museum honoring African American firefighters.",
+                  "text": "Museum in the former Fire Station 30, dedicated to African American firefighters in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.247264,
@@ -14483,7 +14483,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Museum of Contemporary Art",
-                  "text": "The Museum of Contemporary Art is a museum of contemporary art in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Museum of contemporary art on Grand Avenue in downtown Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.250539,
@@ -14501,7 +14501,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Avila Adobe",
-                  "text": "Avila Adobe is a historic adobe house in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Adobe house from 1818, the oldest standing residence in Los Angeles, on Olvera Street in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.237823,
@@ -14519,7 +14519,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Natural History Museum of Los Angeles County",
-                  "text": "The Natural History Museum of Los Angeles County is a natural history museum in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Large natural history museum with dinosaur fossils in Exposition Park of Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.288767,
@@ -14537,7 +14537,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Municipal Art Gallery",
-                  "text": "The Los Angeles Municipal Art Gallery is a municipal art gallery in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Art gallery in Barnsdall Park, on the property of the Hollyhock House in Entertainment Industry.",
                   "category": "museum",
                   "coords": [
                         -118.293582,
@@ -14546,7 +14546,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Los Angeles Sister Cities Monument",
-                  "text": "The Los Angeles Sister Cities Monument is a monument representing Los Angeles' sister cities in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Monument commemorating Los Angeles' sister cities in the Civic Center of Entertainment Industry.",
                   "category": "historical",
                   "coords": [
                         -118.243128,
@@ -14573,7 +14573,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Orpheum Theatre",
-                  "text": "The Orpheum Theatre is a historic theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Historic movie palace on Broadway, opened in 1926, in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.255389,
@@ -14582,7 +14582,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Globe Theatre",
-                  "text": "The Globe Theatre is a theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Theatre on Broadway in the historic theatre district of Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.254133,
@@ -14591,7 +14591,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Grauman's Million Dollar Theatre",
-                  "text": "Grauman's Million Dollar Theatre is a historic theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Historic movie palace on Broadway, opened in 1918, in Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.248673,
@@ -14600,7 +14600,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "East West Players",
-                  "text": "East West Players is a theater company in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Theatre company focused on Asian American stories in the Little Tokyo area of Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.240152,
@@ -14609,7 +14609,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "The Novo",
-                  "text": "The Novo is a live music venue in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Live music venue at LA Live in downtown Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.265472,
@@ -14618,7 +14618,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Brendan Roman Catholic Church",
-                  "text": "Saint Brendan Roman Catholic Church is a Catholic church in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Roman Catholic church in the Highland Park area of Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.314798,
@@ -14627,7 +14627,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Upright Citizens Brigade",
-                  "text": "The Upright Citizens Brigade Theatre is an improvisational theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Comedy improvisation theatre in the Hollywood neighborhood of Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.31878,
@@ -14645,7 +14645,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Dorothy Chandler Pavilion",
-                  "text": "The Dorothy Chandler Pavilion is a concert hall in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Concert hall at the Music Center, home of the Los Angeles Opera, in downtown Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.248927,
@@ -14681,7 +14681,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Peacock Theater",
-                  "text": "Peacock Theater is a theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Performing arts venue at LA Live in downtown Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.267052,
@@ -14699,7 +14699,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Saint Thomas the Apostle Roman Catholic Church",
-                  "text": "Saint Thomas the Apostle Roman Catholic Church is a Catholic church in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Roman Catholic church in the Hollywood area of Entertainment Industry.",
                   "category": "religious",
                   "coords": [
                         -118.298955,
@@ -14726,7 +14726,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Greek Theatre",
-                  "text": "The Greek Theatre is an open-air theater in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Open-air amphitheatre in Griffith Park, Entertainment Industry.",
                   "category": "cultural",
                   "coords": [
                         -118.296387,
@@ -14735,7 +14735,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Thien Hau Temple",
-                  "text": "Thien Hau Temple is a Chinese temple in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Chinese folk temple dedicated to Mazu in Chinatown, Entertainment Industry.",
                   "category": "landmark",
                   "coords": [
                         -118.240768,
@@ -14744,7 +14744,7 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
             },
             {
                   "name": "Koreatown",
-                  "text": "Koreatown is a neighborhood with Korean culture in hollywood-entertainment-industry-economic-v2.",
+                  "text": "Vibrant neighborhood with Korean restaurants, shops, and nightlife in Entertainment Industry.",
                   "category": "landmark",
                   "coords": [
                         -118.305447,
@@ -14825,7 +14825,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Institute for the Study of Ancient Cultures Museum",
-                  "text": "Das Institute for the Study of Ancient Cultures Museum ist ein Museum an der University of Chicago, das sich auf den Alten Orient konzentriert.",
+                  "text": "Museum für antike nahöstliche Artefakte an der University of Chicago in Hyde Park, Logistics Industry.",
                   "category": "museum",
                   "coords": [
                         -87.597519,
@@ -14834,7 +14834,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "David and Alfred Smart Museum of Art",
-                  "text": "Das David and Alfred Smart Museum of Art ist ein Kunstmuseum an der University of Chicago mit einer vielfältigen Sammlung.",
+                  "text": "David-und-Alfred-Smart-Kunstmuseum auf dem Campus der University of Chicago in Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.600186,
@@ -14861,7 +14861,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Drake Fountain",
-                  "text": "Der Drake Fountain ist ein monumentaler Brunnen in Chicago.",
+                  "text": "Historischer Bronze-Brunnen an der Washington Street in der Chicagoer Innenstadt.",
                   "category": "historical",
                   "coords": [
                         -87.552749,
@@ -14888,7 +14888,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation",
-                  "text": "Die Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation ist eine Synagoge der afrikanischen Hebräer.",
+                  "text": "Synagoge der äthiopisch-hebräischen Gemeinde in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.70262,
@@ -14906,7 +14906,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "St. Gelasius Church",
-                  "text": "Die St. Gelasius Church ist heute als Shrine of Christ the King bekannt.",
+                  "text": "Römisch-katholischer Schrein im Woodlawn-Viertel von Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.595684,
@@ -14915,7 +14915,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Mosque Maryam",
-                  "text": "Die Mosque Maryam ist das nationale Zentrum der Nation of Islam.",
+                  "text": "Hauptsitz der Nation of Islam in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.585008,
@@ -14924,7 +14924,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Avalon Regal Theater",
-                  "text": "Das Avalon Regal Theater ist ein historisches Kino und Theater in Chicago.",
+                  "text": "Restauriertes Art-Déco-Kino an der South Side Chicagos.",
                   "category": "cultural",
                   "coords": [
                         -87.583516,
@@ -14933,7 +14933,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Trinity United Church of Christ",
-                  "text": "Die Trinity United Church of Christ war die Kirche von Präsident Barack Obama.",
+                  "text": "Progressive Megakirche an der South Side Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.634266,
@@ -14942,7 +14942,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Michael the Archangel Catholic Church",
-                  "text": "Die Saint Michael the Archangel Catholic Church ist eine katholische Kirche im Old Town Viertel.",
+                  "text": "Polnische Kathedralkirche an der South Side Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.547541,
@@ -14951,7 +14951,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Our Lady of Guadalupe Roman Catholic Church",
-                  "text": "Die Our Lady of Guadalupe Roman Catholic Church dient der mexikanisch-amerikanischen Gemeinschaft.",
+                  "text": "Römisch-katholischer Schrein der Jungfrau von Guadalupe in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.546678,
@@ -14960,7 +14960,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Immaculate Conception Roman Catholic Church",
-                  "text": "Die Immaculate Conception Roman Catholic Church befindet sich im Bridgeport Viertel.",
+                  "text": "Historische römisch-katholische Kirche im Bridgeport-Viertel Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.551896,
@@ -14969,7 +14969,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Unitarian Church of Chicago",
-                  "text": "Die First Unitarian Church of Chicago ist eine unitarische universalistische Gemeinde.",
+                  "text": "Historische unitarische Kirche im Hyde-Park-Viertel Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.596975,
@@ -14978,7 +14978,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "KAM Isaiah Israel Temple",
-                  "text": "Der KAM Isaiah Israel Temple ist eine Reformgemeinde in Chicago.",
+                  "text": "Reformjüdische Synagoge im Hyde-Park-Viertel Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.598625,
@@ -14987,7 +14987,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Al Sadiq Mosque",
-                  "text": "Die Al Sadiq Mosque war die erste eigens erbaute Moschee in Chicago.",
+                  "text": "Erste Moschee in Chicago, gebaut 1922.",
                   "category": "religious",
                   "coords": [
                         -87.624902,
@@ -15005,7 +15005,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Church of Deliverance",
-                  "text": "Die First Church of Deliverance ist eine bedeutende afroamerikanische Kirche in Chicago.",
+                  "text": "Historische Pfingstkirche an der South Side Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.624134,
@@ -15014,7 +15014,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Nativity of Our Lord Catholic Church",
-                  "text": "Die Nativity of Our Lord Catholic Church befindet sich im Beverly Viertel.",
+                  "text": "Römisch-katholische Kirche im Lincoln-Park-Viertel Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.643244,
@@ -15023,7 +15023,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "Die Holy Cross Catholic Church befindet sich im Ukrainian Village Viertel.",
+                  "text": "Römisch-katholische Kirche im Ukrainian-Village-Viertel Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.669049,
@@ -15032,7 +15032,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "New Life Seventh Day Adventist Church",
-                  "text": "Die New Life Seventh Day Adventist Church ist eine Kirche der Siebenten-Tags-Adventisten in Chicago.",
+                  "text": "Siebenten-Tags-Adventisten-Kirche im Humboldt-Park-Viertel Chicagos.",
                   "category": "religious",
                   "coords": [
                         -87.668114,
@@ -15104,7 +15104,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Burnham Park",
-                  "text": "Der Burnham Park ist ein Park am Michigansee, entworfen von Daniel Burnham.",
+                  "text": "Seeuferpark am Michigansee in Chicago.",
                   "category": "park",
                   "coords": [
                         -87.601708,
@@ -15160,7 +15160,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Institute for the Study of Ancient Cultures Museum",
-                  "text": "Az Institute for the Study of Ancient Cultures Museum egy múzeum a Chicagói Egyetemen, amely az ókori Közel-Keletre összpontosít.",
+                  "text": "Ősi közel-keleti tárgyak múzeuma a Chicagói Egyetemen a Hyde Parkban, Logistics Industry.",
                   "category": "museum",
                   "coords": [
                         -87.597519,
@@ -15169,7 +15169,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "David and Alfred Smart Museum of Art",
-                  "text": "A David and Alfred Smart Museum of Art egy művészeti múzeum a Chicagói Egyetemen, sokszínű gyűjteménnyel.",
+                  "text": "David és Alfred Smart Művészeti Múzeum a Chicagói Egyetem campusán Chicagóban.",
                   "category": "museum",
                   "coords": [
                         -87.600186,
@@ -15196,7 +15196,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Drake Fountain",
-                  "text": "A Drake Fountain egy monumentális szökőkút Chicagóban.",
+                  "text": "Történelmi bronz szökőkút a Washington Streeten, Chicago belvárosában.",
                   "category": "historical",
                   "coords": [
                         -87.552749,
@@ -15223,7 +15223,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation",
-                  "text": "A Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation az afrikai héberek zsinagógája.",
+                  "text": "Az etióp héber közösség zsinagógája Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.70262,
@@ -15241,7 +15241,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "St. Gelasius Church",
-                  "text": "A St. Gelasius Church ma a Shrine of Christ the King néven ismert.",
+                  "text": "Római katolikus szentély a chicagói Woodlawn negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.595684,
@@ -15250,7 +15250,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Mosque Maryam",
-                  "text": "A Mosque Maryam a Nation of Islam nemzeti központja.",
+                  "text": "Az Iszlám Nemzet központja Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.585008,
@@ -15259,7 +15259,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Avalon Regal Theater",
-                  "text": "Az Avalon Regal Theater egy történelmi mozi és színház Chicagóban.",
+                  "text": "Felújított Art Deco mozi Chicago déli oldalán.",
                   "category": "cultural",
                   "coords": [
                         -87.583516,
@@ -15268,7 +15268,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Trinity United Church of Christ",
-                  "text": "A Trinity United Church of Christ volt Barack Obama elnök temploma.",
+                  "text": "Progresszív megatemplom Chicago déli oldalán.",
                   "category": "religious",
                   "coords": [
                         -87.634266,
@@ -15277,7 +15277,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Michael the Archangel Catholic Church",
-                  "text": "A Saint Michael the Archangel Catholic Church egy katolikus templom az Old Town negyedben.",
+                  "text": "Lengyel székesegyházi stílusú templom Chicago déli oldalán.",
                   "category": "religious",
                   "coords": [
                         -87.547541,
@@ -15286,7 +15286,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Our Lady of Guadalupe Roman Catholic Church",
-                  "text": "A Our Lady of Guadalupe Roman Catholic Church a mexikói-amerikai közösséget szolgálja.",
+                  "text": "A Guadalupei Szűzanya római katolikus szentélye Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.546678,
@@ -15295,7 +15295,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Immaculate Conception Roman Catholic Church",
-                  "text": "Az Immaculate Conception Roman Catholic Church a Bridgeport negyedben található.",
+                  "text": "Történelmi római katolikus templom a chicagói Bridgeport negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.551896,
@@ -15304,7 +15304,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Unitarian Church of Chicago",
-                  "text": "A First Unitarian Church of Chicago egy unitárius univerzalista gyülekezet.",
+                  "text": "Történelmi unitárius templom a chicagói Hyde Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.596975,
@@ -15313,7 +15313,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "KAM Isaiah Israel Temple",
-                  "text": "A KAM Isaiah Israel Temple egy reform zsidó gyülekezet Chicagóban.",
+                  "text": "Reform zsidó zsinagóga a chicagói Hyde Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.598625,
@@ -15322,7 +15322,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Al Sadiq Mosque",
-                  "text": "Az Al Sadiq Mosque az első célzottan épített mecset Chicagóban.",
+                  "text": "Az első mecset Chicagóban, 1922-ben épült.",
                   "category": "religious",
                   "coords": [
                         -87.624902,
@@ -15340,7 +15340,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Church of Deliverance",
-                  "text": "A First Church of Deliverance egy jelentős afroamerikai templom Chicagóban.",
+                  "text": "Történelmi pünkösdi templom Chicago déli oldalán.",
                   "category": "religious",
                   "coords": [
                         -87.624134,
@@ -15349,7 +15349,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Nativity of Our Lord Catholic Church",
-                  "text": "A Nativity of Our Lord Catholic Church a Beverly negyedben található.",
+                  "text": "Római katolikus templom a chicagói Lincoln Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.643244,
@@ -15358,7 +15358,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "A Holy Cross Catholic Church az Ukrainian Village negyedben található.",
+                  "text": "Római katolikus templom a chicagói Ukrainian Village negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.669049,
@@ -15367,7 +15367,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "New Life Seventh Day Adventist Church",
-                  "text": "A New Life Seventh Day Adventist Church egy hetednapi adventista templom Chicagóban.",
+                  "text": "Hetednapi adventista templom a chicagói Humboldt Park negyedben.",
                   "category": "religious",
                   "coords": [
                         -87.668114,
@@ -15439,7 +15439,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Burnham Park",
-                  "text": "A Burnham Park egy park a Michigan-tó partján, Daniel Burnham tervezte.",
+                  "text": "Tóparti park a Michigan-tó partján Chicagóban.",
                   "category": "park",
                   "coords": [
                         -87.601708,
@@ -15495,7 +15495,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Institute for the Study of Ancient Cultures Museum",
-                  "text": "Muzeul Institutului pentru Studiul Culturilor Antice este un muzeu la Universitatea din Chicago, concentrat pe Orientul Apropiat antic.",
+                  "text": "Muzeu de artefacte antice din Orientul Apropiat la Universitatea din Chicago în Hyde Park, Logistics Industry.",
                   "category": "museum",
                   "coords": [
                         -87.597519,
@@ -15504,7 +15504,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "David and Alfred Smart Museum of Art",
-                  "text": "Muzeul de Artă David și Alfred Smart este un muzeu de artă la Universitatea din Chicago cu o colecție diversă.",
+                  "text": "Muzeul de Artă David și Alfred Smart pe campusul Universității din Chicago, Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.600186,
@@ -15531,7 +15531,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Drake Fountain",
-                  "text": "Fântâna Drake este o fântână monumentală din Chicago.",
+                  "text": "Fântână istorică din bronz pe Washington Street, centrul orașului Chicago.",
                   "category": "historical",
                   "coords": [
                         -87.552749,
@@ -15558,7 +15558,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation",
-                  "text": "Congregația Beth Shalom B’nai Zaken Ethiopian Hebrew este o sinagogă a evreilor africani.",
+                  "text": "Sinagogă a comunității etiopiene evreiești din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.70262,
@@ -15576,7 +15576,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "St. Gelasius Church",
-                  "text": "Biserica St. Gelasius este cunoscută astăzi ca Shrine of Christ the King.",
+                  "text": "Altar romano-catolic în cartierul Woodlawn din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.595684,
@@ -15585,7 +15585,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Mosque Maryam",
-                  "text": "Moscheea Maryam este centrul național al Națiunii Islamului.",
+                  "text": "Sediu central al Națiunii Islamului din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.585008,
@@ -15594,7 +15594,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Avalon Regal Theater",
-                  "text": "Teatrul Avalon Regal este un cinematograf și teatru istoric din Chicago.",
+                  "text": "Cinematograf Art Deco restaurat în partea de sud a orașului Chicago.",
                   "category": "cultural",
                   "coords": [
                         -87.583516,
@@ -15603,7 +15603,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Trinity United Church of Christ",
-                  "text": "Biserica Trinity United Church of Christ a fost biserica președintelui Barack Obama.",
+                  "text": "Megabiserică progresistă în partea de sud a orașului Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.634266,
@@ -15612,7 +15612,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Michael the Archangel Catholic Church",
-                  "text": "Biserica Catolică Sfântul Mihail Arhanghelul este o biserică catolică în cartierul Old Town.",
+                  "text": "Biserică în stil catedrală poloneză în partea de sud a orașului Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.547541,
@@ -15621,7 +15621,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Our Lady of Guadalupe Roman Catholic Church",
-                  "text": "Biserica Catolică Maica Domnului din Guadalupe servește comunitatea mexicano-americană.",
+                  "text": "Altar romano-catolic al Fecioarei din Guadalupe în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.546678,
@@ -15630,7 +15630,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Immaculate Conception Roman Catholic Church",
-                  "text": "Biserica Catolică a Neprihănitei Zămisliri se află în cartierul Bridgeport.",
+                  "text": "Biserică romano-catolică istorică în cartierul Bridgeport din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.551896,
@@ -15639,7 +15639,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Unitarian Church of Chicago",
-                  "text": "Biserica First Unitarian din Chicago este o congregație unitariană universalistă.",
+                  "text": "Biserică unitariană istorică în cartierul Hyde Park din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.596975,
@@ -15648,7 +15648,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "KAM Isaiah Israel Temple",
-                  "text": "Templul KAM Isaiah Israel este o congregație evreiască reformată din Chicago.",
+                  "text": "Sinagogă evreiască reformată în cartierul Hyde Park din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.598625,
@@ -15657,7 +15657,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Al Sadiq Mosque",
-                  "text": "Moscheea Al Sadiq a fost prima moschee construită special în Chicago.",
+                  "text": "Prima moschee din Chicago, construită în 1922.",
                   "category": "religious",
                   "coords": [
                         -87.624902,
@@ -15675,7 +15675,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Church of Deliverance",
-                  "text": "Biserica First Church of Deliverance este o biserică afro-americană proeminentă din Chicago.",
+                  "text": "Biserică penticostală istorică în partea de sud a orașului Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.624134,
@@ -15684,7 +15684,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Nativity of Our Lord Catholic Church",
-                  "text": "Biserica Catolică Nașterea Domnului se află în cartierul Beverly.",
+                  "text": "Biserică romano-catolică în cartierul Lincoln Park din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.643244,
@@ -15693,7 +15693,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "Biserica Catolică Sfânta Cruce se află în cartierul Ukrainian Village.",
+                  "text": "Biserică romano-catolică în cartierul Ukrainian Village din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.669049,
@@ -15702,7 +15702,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "New Life Seventh Day Adventist Church",
-                  "text": "Biserica New Life Seventh Day Adventist este o biserică adventistă de ziua a șaptea din Chicago.",
+                  "text": "Biserică adventistă de ziua a șaptea în cartierul Humboldt Park din Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.668114,
@@ -15774,7 +15774,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Burnham Park",
-                  "text": "Parcul Burnham este un parc pe malul lacului Michigan, proiectat de Daniel Burnham.",
+                  "text": "Parcul de pe malul lacului Michigan din Chicago.",
                   "category": "park",
                   "coords": [
                         -87.601708,
@@ -15830,7 +15830,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Institute for the Study of Ancient Cultures Museum",
-                  "text": "The Institute for the Study of Ancient Cultures Museum is a museum at the University of Chicago focusing on the ancient Near East.",
+                  "text": "Museum of ancient Near Eastern artifacts at the University of Chicago in Hyde Park, Logistics Industry.",
                   "category": "museum",
                   "coords": [
                         -87.597519,
@@ -15839,7 +15839,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "David and Alfred Smart Museum of Art",
-                  "text": "The David and Alfred Smart Museum of Art is an art museum at the University of Chicago with a diverse collection.",
+                  "text": "David and Alfred Smart Museum of Art on the University of Chicago campus in Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.600186,
@@ -15866,7 +15866,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Drake Fountain",
-                  "text": "The Drake Fountain is a monumental fountain in Chicago.",
+                  "text": "Historic bronze fountain on Washington Street in the Chicago Loop.",
                   "category": "historical",
                   "coords": [
                         -87.552749,
@@ -15893,7 +15893,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation",
-                  "text": "The Beth Shalom B’nai Zaken Ethiopian Hebrew Congregation is a synagogue serving African Hebrew Israelites.",
+                  "text": "Synagogue serving Chicago’s Ethiopian Hebrew community.",
                   "category": "religious",
                   "coords": [
                         -87.70262,
@@ -15911,7 +15911,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "St. Gelasius Church",
-                  "text": "St. Gelasius Church is now known as the Shrine of Christ the King.",
+                  "text": "Roman Catholic shrine in the Woodlawn neighborhood of Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.595684,
@@ -15920,7 +15920,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Mosque Maryam",
-                  "text": "The Mosque Maryam is the national center of the Nation of Islam.",
+                  "text": "Headquarters of the Nation of Islam in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.585008,
@@ -15929,7 +15929,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Avalon Regal Theater",
-                  "text": "The Avalon Regal Theater is a historic movie palace and theater in Chicago.",
+                  "text": "Restored Art Deco theater on Chicago’s South Side.",
                   "category": "cultural",
                   "coords": [
                         -87.583516,
@@ -15938,7 +15938,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Trinity United Church of Christ",
-                  "text": "Trinity United Church of Christ was the church of President Barack Obama.",
+                  "text": "Progressive megachurch on Chicago’s South Side.",
                   "category": "religious",
                   "coords": [
                         -87.634266,
@@ -15947,7 +15947,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Saint Michael the Archangel Catholic Church",
-                  "text": "Saint Michael the Archangel Catholic Church is a Catholic church in the Old Town neighborhood.",
+                  "text": "Polish cathedral-style church on Chicago’s South Side.",
                   "category": "religious",
                   "coords": [
                         -87.547541,
@@ -15956,7 +15956,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Our Lady of Guadalupe Roman Catholic Church",
-                  "text": "Our Lady of Guadalupe Roman Catholic Church serves the Mexican-American community.",
+                  "text": "Roman Catholic shrine dedicated to Our Lady of Guadalupe in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.546678,
@@ -15965,7 +15965,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Immaculate Conception Roman Catholic Church",
-                  "text": "Immaculate Conception Roman Catholic Church is located in the Bridgeport neighborhood.",
+                  "text": "Historic Roman Catholic church in the Bridgeport neighborhood of Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.551896,
@@ -15974,7 +15974,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Unitarian Church of Chicago",
-                  "text": "The First Unitarian Church of Chicago is a Unitarian Universalist congregation.",
+                  "text": "Historic Unitarian church in Chicago’s Hyde Park neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.596975,
@@ -15983,7 +15983,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "KAM Isaiah Israel Temple",
-                  "text": "KAM Isaiah Israel Temple is a Reform Jewish congregation in Chicago.",
+                  "text": "Reform Jewish synagogue in Chicago’s Hyde Park neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.598625,
@@ -15992,7 +15992,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Al Sadiq Mosque",
-                  "text": "The Al Sadiq Mosque was the first purpose-built mosque in Chicago.",
+                  "text": "First mosque built in Chicago, erected in 1922.",
                   "category": "religious",
                   "coords": [
                         -87.624902,
@@ -16010,7 +16010,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "First Church of Deliverance",
-                  "text": "The First Church of Deliverance is a prominent African American church in Chicago.",
+                  "text": "Historic Pentecostal church on Chicago’s South Side.",
                   "category": "religious",
                   "coords": [
                         -87.624134,
@@ -16019,7 +16019,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Nativity of Our Lord Catholic Church",
-                  "text": "Nativity of Our Lord Catholic Church is located in the Beverly neighborhood.",
+                  "text": "Roman Catholic church in Chicago’s Lincoln Park neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.643244,
@@ -16028,7 +16028,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Holy Cross Catholic Church",
-                  "text": "Holy Cross Catholic Church is located in the Ukrainian Village neighborhood.",
+                  "text": "Roman Catholic church in Chicago’s Ukrainian Village neighborhood.",
                   "category": "religious",
                   "coords": [
                         -87.669049,
@@ -16037,7 +16037,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "New Life Seventh Day Adventist Church",
-                  "text": "New Life Seventh Day Adventist Church is a Seventh-day Adventist church in Chicago.",
+                  "text": "Seventh-day Adventist church in the Humboldt Park neighborhood of Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.668114,
@@ -16109,7 +16109,7 @@ factsAdvanced: { de: ["Filmpioniere zogen nach Kalifornien, um Edisons Patent-Mo
             },
             {
                   "name": "Burnham Park",
-                  "text": "Burnham Park is a park along Lake Michigan, designed by Daniel Burnham.",
+                  "text": "Lakefront park along Lake Michigan in Chicago.",
                   "category": "park",
                   "coords": [
                         -87.601708,
@@ -16199,7 +16199,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Carnegie Museum of Art",
-                  "text": "Das Carnegie Museum of Art ist eine bedeutende Kunstgalerie in Pittsburgh, Teil der Carnegie Museums of Pittsburgh.",
+                  "text": "Teil der Carnegie-Museen in Pittsburgh, bekannt für zeitgenössische Kunst.",
                   "category": "museum",
                   "coords": [
                         -79.949162,
@@ -16208,7 +16208,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Bicycle Heaven",
-                  "text": "Bicycle Heaven ist ein Museum in Pittsburgh, das der Geschichte und Kultur des Fahrrads gewidmet ist.",
+                  "text": "Weltweit größtes Fahrradmuseum mit über 4.000 Rädern in Pittsburgh.",
                   "category": "museum",
                   "coords": [
                         -80.032413,
@@ -16226,7 +16226,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Saint John Chrysostom Byzantine Catholic Church",
-                  "text": "Die byzantinische katholische Kirche St. Johannes Chrysostomus ist ein Gotteshaus in Pittsburgh für die byzantinische katholische Gemeinde.",
+                  "text": "Byzantinisch-katholische Kirche im Greenfield-Viertel von Pittsburgh.",
                   "category": "religious",
                   "coords": [
                         -79.944946,
@@ -16235,7 +16235,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Kelly Strayhorn Theater",
-                  "text": "Das Kelly Strayhorn Theater ist ein Theater im East Liberty Viertel von Pittsburgh.",
+                  "text": "Veranstaltungsort für darstellende Künste im East-Liberty-Viertel von Pittsburgh.",
                   "category": "cultural",
                   "coords": [
                         -79.925199,
@@ -16253,7 +16253,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Chinese Church",
-                  "text": "Die Pittsburgh Chinese Church ist ein Gotteshaus in Pittsburgh, das die chinesische Gemeinschaft bedient.",
+                  "text": "Chinesische christliche Gemeinde im Squirrel-Hill-Viertel von Pittsburgh.",
                   "category": "religious",
                   "coords": [
                         -79.950598,
@@ -16262,7 +16262,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Hundred Acres Manor Haunted House",
-                  "text": "Hundred Acres Manor Haunted House ist eine Spukhaus-Attraktion in Pittsburgh.",
+                  "text": "Spukhaus-Attraktion im South-Park-Gebiet von Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.00936,
@@ -16298,7 +16298,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Schenley Bridge",
-                  "text": "Die Schenley Bridge ist eine Brücke im Schenley Park in Pittsburgh, die Oakland mit dem Park verbindet.",
+                  "text": "Steinerne Bogenbrücke im Schenley Park in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.949112,
@@ -16307,7 +16307,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Panther Hollow Bridge",
-                  "text": "Die Panther Hollow Bridge ist eine Brücke im Schenley Park in Pittsburgh, die die Panther Hollow Schlucht überspannt.",
+                  "text": "Fachwerkbrücke über den Panther Hollow im Schenley Park.",
                   "category": "landmark",
                   "coords": [
                         -79.946746,
@@ -16343,7 +16343,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood Bridge",
-                  "text": "Die Glenwood Bridge ist eine Brücke über den Monongahela River in Pittsburgh.",
+                  "text": "Stahlfachwerkbrücke über den Monongahela River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.93534,
@@ -16352,7 +16352,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood B&O Railroad Bridge",
-                  "text": "Die Glenwood B&O Railroad Bridge ist eine Eisenbahnbrücke in Pittsburgh, ursprünglich für die Baltimore and Ohio Railroad gebaut.",
+                  "text": "Eisenbahnbrücke über den Monongahela River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.930962,
@@ -16361,7 +16361,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Musical Theater",
-                  "text": "Das Pittsburgh Musical Theater ist eine Theaterkompanie in Pittsburgh.",
+                  "text": "Theaterkompanie mit Sitz im South Side von Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.032463,
@@ -16370,7 +16370,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Ohio Connecting Railroad Bridge",
-                  "text": "Die Ohio Connecting Railroad Bridge ist eine Eisenbahnbrücke in Pittsburgh.",
+                  "text": "Eisenbahnbrücke über den Ohio River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.040933,
@@ -16379,7 +16379,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "McKees Rocks Bridge",
-                  "text": "Die McKees Rocks Bridge ist eine Brücke über den Ohio River nahe Pittsburgh.",
+                  "text": "Stahlfachwerkbrücke über den Ohio River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.053534,
@@ -16388,7 +16388,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "31st Street Bridge",
-                  "text": "Die 31st Street Bridge ist eine Brücke in Pittsburgh.",
+                  "text": "Brücke über den Allegheny River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.976437,
@@ -16397,7 +16397,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "33rd Street Railroad Bridge",
-                  "text": "Die 33rd Street Railroad Bridge ist eine Eisenbahnbrücke in Pittsburgh.",
+                  "text": "Eisenbahnbrücke über den Allegheny River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.974709,
@@ -16415,7 +16415,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Oakland Square Historic District",
-                  "text": "Der Oakland Square Historic District ist ein historischer Bezirk und Park im Oakland Viertel von Pittsburgh.",
+                  "text": "Historischer Bezirk im Oakland-Viertel von Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -79.951619,
@@ -16424,7 +16424,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Flagstaff Hill",
-                  "text": "Der Flagstaff Hill ist ein Hügel im Schenley Park in Pittsburgh mit Aussicht.",
+                  "text": "Hügel mit Fahnenmast im Schenley Park in Pittsburgh.",
                   "category": "natural",
                   "coords": [
                         -79.944101,
@@ -16433,7 +16433,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Mellon Park",
-                  "text": "Der Mellon Park ist ein öffentlicher Park im Shadyside Viertel von Pittsburgh.",
+                  "text": "Park in den Vierteln Shadyside und Point Breeze von Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -79.916947,
@@ -16442,7 +16442,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Frick Park",
-                  "text": "Der Frick Park ist ein großer öffentlicher Park in Pittsburgh, der größte Park der Stadt.",
+                  "text": "Größter Park in Pittsburgh mit Wanderwegen.",
                   "category": "park",
                   "coords": [
                         -79.905056,
@@ -16487,7 +16487,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Riverview Park",
-                  "text": "Der Riverview Park ist ein öffentlicher Park im Perry North Viertel von Pittsburgh.",
+                  "text": "Park am Ohio River im North-Side-Viertel von Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -80.020058,
@@ -16496,7 +16496,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Sandcastle Water Park",
-                  "text": "Der Sandcastle Water Park ist ein Wasserpark in Pittsburgh am Monongahela River.",
+                  "text": "Wasserpark am Monongahela River in Pittsburgh.",
                   "category": "recreational",
                   "coords": [
                         -79.928902,
@@ -16543,7 +16543,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Carnegie Museum of Art",
-                  "text": "A Carnegie Művészeti Múzeum egy jelentős művészeti galéria Pittsburghben, a Carnegie Múzeumok része.",
+                  "text": "A Carnegie Múzeumok része Pittsburghben, kortárs művészetéről ismert.",
                   "category": "museum",
                   "coords": [
                         -79.949162,
@@ -16552,7 +16552,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Bicycle Heaven",
-                  "text": "A Bicycle Heaven egy múzeum Pittsburghben, amely a kerékpárok történetének és kultúrájának szentelt.",
+                  "text": "A világ legnagyobb kerékpármúzeuma, több mint 4000 biciklivel Pittsburghben.",
                   "category": "museum",
                   "coords": [
                         -80.032413,
@@ -16570,7 +16570,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Saint John Chrysostom Byzantine Catholic Church",
-                  "text": "Szent Aranyszájú János bizánci katolikus templom egy istentiszteleti hely Pittsburghben a bizánci katolikus közösség számára.",
+                  "text": "Bizánci katolikus templom a pittsburghi Greenfield negyedben.",
                   "category": "religious",
                   "coords": [
                         -79.944946,
@@ -16579,7 +16579,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Kelly Strayhorn Theater",
-                  "text": "A Kelly Strayhorn Színház egy színház Pittsburgh East Liberty negyedében.",
+                  "text": "Előadóművészeti helyszín a pittsburghi East Liberty negyedben.",
                   "category": "cultural",
                   "coords": [
                         -79.925199,
@@ -16597,7 +16597,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Chinese Church",
-                  "text": "A Pittsburgh-i Kínai Templom egy istentiszteleti hely Pittsburghben, amely a kínai közösséget szolgálja.",
+                  "text": "Kínai keresztény gyülekezet a pittsburghi Squirrel Hill negyedben.",
                   "category": "religious",
                   "coords": [
                         -79.950598,
@@ -16606,7 +16606,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Hundred Acres Manor Haunted House",
-                  "text": "A Hundred Acres Manor Kísértetház egy kísértetház-attrakció Pittsburghben.",
+                  "text": "Kísértetház látványosság a pittsburghi South Park területén.",
                   "category": "landmark",
                   "coords": [
                         -80.00936,
@@ -16642,7 +16642,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Schenley Bridge",
-                  "text": "A Schenley híd egy híd Pittsburgh Schenley Parkjában, amely összeköti Oaklandet a parkkal.",
+                  "text": "Kőíves híd a pittsburghi Schenley Parkban.",
                   "category": "landmark",
                   "coords": [
                         -79.949112,
@@ -16651,7 +16651,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Panther Hollow Bridge",
-                  "text": "A Panther Hollow híd egy híd Pittsburgh Schenley Parkjában, amely a Panther Hollow szakadék felett ível át.",
+                  "text": "Rácsszerkezetű híd a Panther Hollow felett a Schenley Parkban.",
                   "category": "landmark",
                   "coords": [
                         -79.946746,
@@ -16687,7 +16687,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood Bridge",
-                  "text": "A Glenwood híd egy híd a Monongahela folyón Pittsburghben.",
+                  "text": "Acél rácsos híd a Monongahela folyó felett Pittsburghben.",
                   "category": "landmark",
                   "coords": [
                         -79.93534,
@@ -16696,7 +16696,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood B&O Railroad Bridge",
-                  "text": "A Glenwood B&O vasúti híd egy vasúti híd Pittsburghben, eredetileg a Baltimore and Ohio Railroad számára épült.",
+                  "text": "Vasúti híd a Monongahela folyó felett Pittsburghben.",
                   "category": "landmark",
                   "coords": [
                         -79.930962,
@@ -16705,7 +16705,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Musical Theater",
-                  "text": "A Pittsburgh Musical Theater egy színházi társulat Pittsburghben.",
+                  "text": "Színházi társaság a pittsburghi South Side-ban.",
                   "category": "landmark",
                   "coords": [
                         -80.032463,
@@ -16714,7 +16714,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Ohio Connecting Railroad Bridge",
-                  "text": "Az Ohio Connecting vasúti híd egy vasúti híd Pittsburghben.",
+                  "text": "Vasúti híd az Ohio folyó felett Pittsburghben.",
                   "category": "landmark",
                   "coords": [
                         -80.040933,
@@ -16723,7 +16723,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "McKees Rocks Bridge",
-                  "text": "A McKees Rocks híd egy híd az Ohio folyón Pittsburgh közelében.",
+                  "text": "Acél rácsos híd az Ohio folyó felett Pittsburghben.",
                   "category": "landmark",
                   "coords": [
                         -80.053534,
@@ -16732,7 +16732,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "31st Street Bridge",
-                  "text": "A 31st Street híd egy híd Pittsburghben.",
+                  "text": "Híd az Allegheny folyó felett Pittsburghben.",
                   "category": "landmark",
                   "coords": [
                         -79.976437,
@@ -16741,7 +16741,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "33rd Street Railroad Bridge",
-                  "text": "A 33rd Street vasúti híd egy vasúti híd Pittsburghben.",
+                  "text": "Vasúti híd az Allegheny folyó felett Pittsburghben.",
                   "category": "landmark",
                   "coords": [
                         -79.974709,
@@ -16759,7 +16759,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Oakland Square Historic District",
-                  "text": "Az Oakland Square Historic District egy történelmi negyed és park Pittsburgh Oakland negyedében.",
+                  "text": "Történelmi negyed a pittsburghi Oakland negyedben.",
                   "category": "park",
                   "coords": [
                         -79.951619,
@@ -16768,7 +16768,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Flagstaff Hill",
-                  "text": "A Flagstaff Hill egy domb Pittsburgh Schenley Parkjában, kilátással.",
+                  "text": "Dombbal zászlórúddal a pittsburghi Schenley Parkban.",
                   "category": "natural",
                   "coords": [
                         -79.944101,
@@ -16777,7 +16777,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Mellon Park",
-                  "text": "A Mellon Park egy közpark Pittsburgh Shadyside negyedében.",
+                  "text": "Park a pittsburghi Shadyside és Point Breeze negyedekben.",
                   "category": "park",
                   "coords": [
                         -79.916947,
@@ -16786,7 +16786,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Frick Park",
-                  "text": "A Frick Park egy nagy közpark Pittsburghben, a város legnagyobb parkja.",
+                  "text": "Pittsburgh legnagyobb parkja, túraútvonalakkal.",
                   "category": "park",
                   "coords": [
                         -79.905056,
@@ -16831,7 +16831,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Riverview Park",
-                  "text": "A Riverview Park egy közpark Pittsburgh Perry North negyedében.",
+                  "text": "Park az Ohio folyó partján a pittsburghi North Side negyedben.",
                   "category": "park",
                   "coords": [
                         -80.020058,
@@ -16840,7 +16840,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Sandcastle Water Park",
-                  "text": "A Sandcastle Water Park egy vízipark Pittsburghben a Monongahela folyónál.",
+                  "text": "Vízipark a Monongahela folyó partján Pittsburghben.",
                   "category": "recreational",
                   "coords": [
                         -79.928902,
@@ -16887,7 +16887,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Carnegie Museum of Art",
-                  "text": "Muzeul de Artă Carnegie este o galerie de artă importantă din Pittsburgh, parte a Muzeelor Carnegie din Pittsburgh.",
+                  "text": "Parte a Muzeelor Carnegie din Pittsburgh, cunoscut pentru arta contemporană.",
                   "category": "museum",
                   "coords": [
                         -79.949162,
@@ -16896,7 +16896,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Bicycle Heaven",
-                  "text": "Bicycle Heaven este un muzeu din Pittsburgh dedicat istoriei și culturii bicicletelor.",
+                  "text": "Cel mai mare muzeu de biciclete din lume, cu peste 4.000 de biciclete în Pittsburgh.",
                   "category": "museum",
                   "coords": [
                         -80.032413,
@@ -16914,7 +16914,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Saint John Chrysostom Byzantine Catholic Church",
-                  "text": "Biserica Catolică Bizantină Sfântul Ioan Gură de Aur este un lăcaș de cult în Pittsburgh pentru comunitatea catolică bizantină.",
+                  "text": "Biserică catolică bizantină în cartierul Greenfield din Pittsburgh.",
                   "category": "religious",
                   "coords": [
                         -79.944946,
@@ -16923,7 +16923,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Kelly Strayhorn Theater",
-                  "text": "Teatrul Kelly Strayhorn este un teatru în cartierul East Liberty din Pittsburgh.",
+                  "text": "Locație de arte performative în cartierul East Liberty din Pittsburgh.",
                   "category": "cultural",
                   "coords": [
                         -79.925199,
@@ -16941,7 +16941,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Chinese Church",
-                  "text": "Biserica Chineză din Pittsburgh este un lăcaș de cult în Pittsburgh care deservește comunitatea chineză.",
+                  "text": "Comunitate creștină chineză în cartierul Squirrel Hill din Pittsburgh.",
                   "category": "religious",
                   "coords": [
                         -79.950598,
@@ -16950,7 +16950,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Hundred Acres Manor Haunted House",
-                  "text": "Hundred Acres Manor Haunted House este o atracție de casă bântuită în Pittsburgh.",
+                  "text": "Atracție de casă bântuită în zona South Park din Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.00936,
@@ -16986,7 +16986,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Schenley Bridge",
-                  "text": "Podul Schenley este un pod în Parcul Schenley din Pittsburgh, care leagă Oakland de parc.",
+                  "text": "Pod de piatră cu arc în Schenley Park, Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.949112,
@@ -16995,7 +16995,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Panther Hollow Bridge",
-                  "text": "Podul Panther Hollow este un pod în Parcul Schenley din Pittsburgh, care traversează prăpastia Panther Hollow.",
+                  "text": "Pod cu zăbrele peste Panther Hollow în Schenley Park.",
                   "category": "landmark",
                   "coords": [
                         -79.946746,
@@ -17031,7 +17031,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood Bridge",
-                  "text": "Podul Glenwood este un pod peste râul Monongahela din Pittsburgh.",
+                  "text": "Pod de oțel cu zăbrele peste râul Monongahela în Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.93534,
@@ -17040,7 +17040,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood B&O Railroad Bridge",
-                  "text": "Podul feroviar Glenwood B&O este un pod feroviar în Pittsburgh, construit inițial pentru Baltimore and Ohio Railroad.",
+                  "text": "Pod feroviar peste râul Monongahela în Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.930962,
@@ -17049,7 +17049,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Musical Theater",
-                  "text": "Pittsburgh Musical Theater este o companie de teatru în Pittsburgh.",
+                  "text": "Companie de teatru cu sediul în South Side, Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.032463,
@@ -17058,7 +17058,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Ohio Connecting Railroad Bridge",
-                  "text": "Podul feroviar Ohio Connecting este un pod feroviar în Pittsburgh.",
+                  "text": "Pod feroviar peste râul Ohio în Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.040933,
@@ -17067,7 +17067,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "McKees Rocks Bridge",
-                  "text": "Podul McKees Rocks este un pod peste râul Ohio lângă Pittsburgh.",
+                  "text": "Pod de oțel cu zăbrele peste râul Ohio în Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.053534,
@@ -17076,7 +17076,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "31st Street Bridge",
-                  "text": "Podul 31st Street este un pod în Pittsburgh.",
+                  "text": "Pod peste râul Allegheny în Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.976437,
@@ -17085,7 +17085,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "33rd Street Railroad Bridge",
-                  "text": "Podul feroviar 33rd Street este un pod feroviar în Pittsburgh.",
+                  "text": "Pod feroviar peste râul Allegheny în Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.974709,
@@ -17103,7 +17103,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Oakland Square Historic District",
-                  "text": "Districtul istoric Oakland Square este un district istoric și parc în cartierul Oakland din Pittsburgh.",
+                  "text": "District istoric în cartierul Oakland din Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -79.951619,
@@ -17112,7 +17112,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Flagstaff Hill",
-                  "text": "Flagstaff Hill este un deal în Parcul Schenley din Pittsburgh, oferind priveliști.",
+                  "text": "Deal cu catarg pentru drapel în Schenley Park, Pittsburgh.",
                   "category": "natural",
                   "coords": [
                         -79.944101,
@@ -17121,7 +17121,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Mellon Park",
-                  "text": "Parcul Mellon este un parc public în cartierul Shadyside din Pittsburgh.",
+                  "text": "Parcul în cartierele Shadyside și Point Breeze din Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -79.916947,
@@ -17130,7 +17130,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Frick Park",
-                  "text": "Parcul Frick este un parc public mare în Pittsburgh, cel mai mare parc al orașului.",
+                  "text": "Cel mai mare parc din Pittsburgh, cu trasee de drumeții.",
                   "category": "park",
                   "coords": [
                         -79.905056,
@@ -17175,7 +17175,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Riverview Park",
-                  "text": "Parcul Riverview este un parc public în cartierul Perry North din Pittsburgh.",
+                  "text": "Parcul pe malul râului Ohio în cartierul North Side din Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -80.020058,
@@ -17184,7 +17184,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Sandcastle Water Park",
-                  "text": "Sandcastle Water Park este un parc acvatic în Pittsburgh pe râul Monongahela.",
+                  "text": "Parc acvatic pe râul Monongahela în Pittsburgh.",
                   "category": "recreational",
                   "coords": [
                         -79.928902,
@@ -17231,7 +17231,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Carnegie Museum of Art",
-                  "text": "The Carnegie Museum of Art is a major art gallery in Pittsburgh, part of the Carnegie Museums of Pittsburgh.",
+                  "text": "Part of the Carnegie Museums of Pittsburgh, known for contemporary art.",
                   "category": "museum",
                   "coords": [
                         -79.949162,
@@ -17240,7 +17240,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Bicycle Heaven",
-                  "text": "Bicycle Heaven is a museum in Pittsburgh dedicated to the history and culture of bicycles.",
+                  "text": "World’s largest bicycle museum with over 4,000 bikes in Pittsburgh.",
                   "category": "museum",
                   "coords": [
                         -80.032413,
@@ -17258,7 +17258,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Saint John Chrysostom Byzantine Catholic Church",
-                  "text": "Saint John Chrysostom Byzantine Catholic Church is a place of worship in Pittsburgh serving the Byzantine Catholic community.",
+                  "text": "Byzantine Catholic church in the Greenfield neighborhood of Pittsburgh.",
                   "category": "religious",
                   "coords": [
                         -79.944946,
@@ -17267,7 +17267,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Kelly Strayhorn Theater",
-                  "text": "The Kelly Strayhorn Theater is a theater in Pittsburgh's East Liberty neighborhood.",
+                  "text": "Performing arts venue in the East Liberty neighborhood of Pittsburgh.",
                   "category": "cultural",
                   "coords": [
                         -79.925199,
@@ -17285,7 +17285,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Chinese Church",
-                  "text": "Pittsburgh Chinese Church is a place of worship in Pittsburgh serving the Chinese community.",
+                  "text": "Chinese Christian church in the Squirrel Hill neighborhood of Pittsburgh.",
                   "category": "religious",
                   "coords": [
                         -79.950598,
@@ -17294,7 +17294,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Hundred Acres Manor Haunted House",
-                  "text": "Hundred Acres Manor Haunted House is a haunted house attraction in Pittsburgh.",
+                  "text": "Haunted house attraction in the South Park area of Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.00936,
@@ -17330,7 +17330,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Schenley Bridge",
-                  "text": "The Schenley Bridge is a bridge in Pittsburgh's Schenley Park, connecting Oakland to the park.",
+                  "text": "Stone arch bridge in Schenley Park, Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.949112,
@@ -17339,7 +17339,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Panther Hollow Bridge",
-                  "text": "The Panther Hollow Bridge is a bridge in Pittsburgh's Schenley Park, spanning the Panther Hollow ravine.",
+                  "text": "Truss bridge spanning Panther Hollow in Schenley Park.",
                   "category": "landmark",
                   "coords": [
                         -79.946746,
@@ -17375,7 +17375,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood Bridge",
-                  "text": "The Glenwood Bridge is a bridge crossing the Monongahela River in Pittsburgh.",
+                  "text": "Steel truss bridge over the Monongahela River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.93534,
@@ -17384,7 +17384,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Glenwood B&O Railroad Bridge",
-                  "text": "The Glenwood B&O Railroad Bridge is a railroad bridge in Pittsburgh, originally built for the Baltimore and Ohio Railroad.",
+                  "text": "Railroad bridge over the Monongahela River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.930962,
@@ -17393,7 +17393,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Pittsburgh Musical Theater",
-                  "text": "Pittsburgh Musical Theater is a theater company in Pittsburgh.",
+                  "text": "Theater company based in the South Side of Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.032463,
@@ -17402,7 +17402,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Ohio Connecting Railroad Bridge",
-                  "text": "The Ohio Connecting Railroad Bridge is a railroad bridge in Pittsburgh.",
+                  "text": "Railroad bridge over the Ohio River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.040933,
@@ -17411,7 +17411,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "McKees Rocks Bridge",
-                  "text": "The McKees Rocks Bridge is a bridge over the Ohio River near Pittsburgh.",
+                  "text": "Steel truss bridge over the Ohio River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -80.053534,
@@ -17420,7 +17420,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "31st Street Bridge",
-                  "text": "The 31st Street Bridge is a bridge in Pittsburgh.",
+                  "text": "Bridge over the Allegheny River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.976437,
@@ -17429,7 +17429,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "33rd Street Railroad Bridge",
-                  "text": "The 33rd Street Railroad Bridge is a railroad bridge in Pittsburgh.",
+                  "text": "Railroad bridge over the Allegheny River in Pittsburgh.",
                   "category": "landmark",
                   "coords": [
                         -79.974709,
@@ -17447,7 +17447,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Oakland Square Historic District",
-                  "text": "Oakland Square Historic District is a historic district and park in Pittsburgh's Oakland neighborhood.",
+                  "text": "Historic district in the Oakland neighborhood of Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -79.951619,
@@ -17456,7 +17456,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Flagstaff Hill",
-                  "text": "Flagstaff Hill is a hill in Pittsburgh's Schenley Park offering views.",
+                  "text": "Hill with a flagpole in Schenley Park, Pittsburgh.",
                   "category": "natural",
                   "coords": [
                         -79.944101,
@@ -17465,7 +17465,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Mellon Park",
-                  "text": "Mellon Park is a public park in Pittsburgh's Shadyside neighborhood.",
+                  "text": "Park in the Shadyside and Point Breeze neighborhoods of Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -79.916947,
@@ -17474,7 +17474,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Frick Park",
-                  "text": "Frick Park is a large public park in Pittsburgh, the city's largest park.",
+                  "text": "Largest park in Pittsburgh, featuring hiking trails.",
                   "category": "park",
                   "coords": [
                         -79.905056,
@@ -17519,7 +17519,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Riverview Park",
-                  "text": "Riverview Park is a public park in Pittsburgh's Perry North neighborhood.",
+                  "text": "Park on the Ohio River in the North Side neighborhood of Pittsburgh.",
                   "category": "park",
                   "coords": [
                         -80.020058,
@@ -17528,7 +17528,7 @@ factsAdvanced: { de: ["Historisch und aktuell der unbestrittene größte Eisenba
             },
             {
                   "name": "Sandcastle Water Park",
-                  "text": "Sandcastle Water Park is a water park in Pittsburgh located along the Monongahela River.",
+                  "text": "Water park on the Monongahela River in Pittsburgh.",
                   "category": "recreational",
                   "coords": [
                         -79.928902,
@@ -17591,7 +17591,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cascade Springs Nature Preserve",
-                  "text": "Ein Naturschutzgebiet in der georgischen Luft- und Raumfahrtregion.",
+                  "text": "Ein Naturschutzgebiet mit einem Quellbach und Wanderwegen im Aerospace Industry.",
                   "category": "park",
                   "coords": [
                         -84.481259,
@@ -17600,7 +17600,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Walking Dead - Kingdom filming location",
-                  "text": "Ein Drehort der Serie „The Walking Dead“ in Georgia.",
+                  "text": "Drehort der Kingdom-Siedlung aus der Serie The Walking Dead in Aerospace Industry.",
                   "category": "landmark",
                   "coords": [
                         -84.432064,
@@ -17654,7 +17654,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Uptown Comedy Corner",
-                  "text": "Ein Comedy-Theater in der georgischen Luft- und Raumfahrtregion.",
+                  "text": "Comedy-Club mit Live-Stand-up-Auftritten in Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.428182,
@@ -17672,7 +17672,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Academy Theatre",
-                  "text": "Ein Theater in der georgischen Luft- und Raumfahrtregion.",
+                  "text": "Theater mit Bühnenaufführungen in Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.408573,
@@ -17744,7 +17744,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Teaching Museum South",
-                  "text": "Ein Lehrmuseum in der georgischen Luft- und Raumfahrtregion.",
+                  "text": "Museum für pädagogische Ausstellungen in Aerospace Industry.",
                   "category": "museum",
                   "coords": [
                         -84.411243,
@@ -17780,7 +17780,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cellairis Amphitheatre at Lakewood",
-                  "text": "Das Cellairis Amphitheatre at Lakewood ist ein Theater in georgia-aerospace-industry-economic-v2.",
+                  "text": "Open-Air-Amphitheater am Lakewood in der Region Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.396008,
@@ -17789,7 +17789,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Old Atlanta Prison Farm",
-                  "text": "Die Old Atlanta Prison Farm sind Ruinen in georgia-aerospace-industry-economic-v2.",
+                  "text": "Ehemaliges Gefängnisbauernhof mit historischen Gebäuden in der Aerospace Industry.",
                   "category": "historical",
                   "coords": [
                         -84.334937,
@@ -17798,7 +17798,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Southside Park",
-                  "text": "Southside Park ist ein Park in georgia-aerospace-industry-economic-v2.",
+                  "text": "Ein Park mit Sportplätzen und Picknickbereichen im Süden von Aerospace Industry.",
                   "category": "park",
                   "coords": [
                         -84.369294,
@@ -17827,7 +17827,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cascade Springs Nature Preserve",
-                  "text": "Egy természetvédelmi terület a grúziai repülőgépipari régióban.",
+                  "text": "Egy természetvédelmi terület forrásfolyással és túraútvonalakkal az Aerospace Industryban.",
                   "category": "park",
                   "coords": [
                         -84.481259,
@@ -17836,7 +17836,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Walking Dead - Kingdom filming location",
-                  "text": "A „The Walking Dead” sorozat forgatási helyszíne Georgiában.",
+                  "text": "A The Walking Dead sorozat Kingdom településének forgatási helyszíne Aerospace Industryban.",
                   "category": "landmark",
                   "coords": [
                         -84.432064,
@@ -17890,7 +17890,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Uptown Comedy Corner",
-                  "text": "Egy komédiaszínház a grúziai repülőgépipari régióban.",
+                  "text": "Élő stand-up comedy klubb Aerospace Industryban.",
                   "category": "cultural",
                   "coords": [
                         -84.428182,
@@ -17908,7 +17908,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Academy Theatre",
-                  "text": "Egy színház a grúziai repülőgépipari régióban.",
+                  "text": "Színház színpadi előadásokkal Aerospace Industryban.",
                   "category": "cultural",
                   "coords": [
                         -84.408573,
@@ -17980,7 +17980,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Teaching Museum South",
-                  "text": "Egy tanító múzeum a grúziai repülőgépipari régióban.",
+                  "text": "Múzeum oktatási kiállításokkal Aerospace Industryban.",
                   "category": "museum",
                   "coords": [
                         -84.411243,
@@ -18016,7 +18016,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cellairis Amphitheatre at Lakewood",
-                  "text": "A Cellairis Amphitheatre at Lakewood egy színház a georgia-aerospace-industry-economic-v2-ben.",
+                  "text": "Lakewood-i szabadtéri amfiteátrum az Aerospace Industry területén.",
                   "category": "cultural",
                   "coords": [
                         -84.396008,
@@ -18025,7 +18025,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Old Atlanta Prison Farm",
-                  "text": "Az Old Atlanta Prison Farm romok a georgia-aerospace-industry-economic-v2-ben.",
+                  "text": "Egykori börtöntanya történelmi épületekkel az Aerospace Industry-ban.",
                   "category": "historical",
                   "coords": [
                         -84.334937,
@@ -18034,7 +18034,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Southside Park",
-                  "text": "A Southside Park egy park a georgia-aerospace-industry-economic-v2-ben.",
+                  "text": "Egy park sportpályákkal és piknikezőhelyekkel az Aerospace Industry déli részén.",
                   "category": "park",
                   "coords": [
                         -84.369294,
@@ -18063,7 +18063,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cascade Springs Nature Preserve",
-                  "text": "O rezervație naturală în regiunea aerospațială din Georgia.",
+                  "text": "O rezervație naturală cu un pârâu de izvor și trasee de drumeție în Aerospace Industry.",
                   "category": "park",
                   "coords": [
                         -84.481259,
@@ -18072,7 +18072,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Walking Dead - Kingdom filming location",
-                  "text": "Un loc de filmare din serialul „The Walking Dead” în Georgia.",
+                  "text": "Locație de filmare a comunității Kingdom din serialul The Walking Dead în Aerospace Industry.",
                   "category": "landmark",
                   "coords": [
                         -84.432064,
@@ -18126,7 +18126,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Uptown Comedy Corner",
-                  "text": "Un teatru de comedie în regiunea aerospațială din Georgia.",
+                  "text": "Club de comedie cu spectacole live de stand-up în Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.428182,
@@ -18144,7 +18144,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Academy Theatre",
-                  "text": "Un teatru în regiunea aerospațială din Georgia.",
+                  "text": "Teatru cu spectacole scenice în Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.408573,
@@ -18216,7 +18216,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Teaching Museum South",
-                  "text": "Un muzeu didactic în regiunea aerospațială din Georgia.",
+                  "text": "Muzeu cu expoziții educaționale în Aerospace Industry.",
                   "category": "museum",
                   "coords": [
                         -84.411243,
@@ -18252,7 +18252,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cellairis Amphitheatre at Lakewood",
-                  "text": "Cellairis Amphitheatre at Lakewood este un teatru în georgia-aerospace-industry-economic-v2.",
+                  "text": "Amfiteatru în aer liber la Lakewood în zona Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.396008,
@@ -18261,7 +18261,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Old Atlanta Prison Farm",
-                  "text": "Old Atlanta Prison Farm sunt ruine în georgia-aerospace-industry-economic-v2.",
+                  "text": "Fostă fermă închisoare cu clădiri istorice în Aerospace Industry.",
                   "category": "historical",
                   "coords": [
                         -84.334937,
@@ -18270,7 +18270,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Southside Park",
-                  "text": "Southside Park este un parc în georgia-aerospace-industry-economic-v2.",
+                  "text": "Un parc cu terenuri sportive și zone de picnic în partea de sud a Aerospace Industry.",
                   "category": "park",
                   "coords": [
                         -84.369294,
@@ -18299,7 +18299,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cascade Springs Nature Preserve",
-                  "text": "A nature preserve located in the Georgia aerospace region.",
+                  "text": "A nature preserve with a spring-fed stream and hiking trails in the Aerospace Industry area.",
                   "category": "park",
                   "coords": [
                         -84.481259,
@@ -18308,7 +18308,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Walking Dead - Kingdom filming location",
-                  "text": "A filming location from the television series The Walking Dead in Georgia.",
+                  "text": "Filming location for the Kingdom community from The Walking Dead in Aerospace Industry.",
                   "category": "landmark",
                   "coords": [
                         -84.432064,
@@ -18362,7 +18362,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Uptown Comedy Corner",
-                  "text": "A comedy theatre located in the Georgia aerospace region.",
+                  "text": "Comedy club with live stand-up performances in Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.428182,
@@ -18380,7 +18380,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Academy Theatre",
-                  "text": "A theatre located in the Georgia aerospace region.",
+                  "text": "Theatre hosting stage performances in Aerospace Industry.",
                   "category": "cultural",
                   "coords": [
                         -84.408573,
@@ -18452,7 +18452,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "The Teaching Museum South",
-                  "text": "A teaching museum located in the Georgia aerospace region.",
+                  "text": "Museum with educational exhibits in Aerospace Industry.",
                   "category": "museum",
                   "coords": [
                         -84.411243,
@@ -18488,7 +18488,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Cellairis Amphitheatre at Lakewood",
-                  "text": "The Cellairis Amphitheatre at Lakewood is a theatre in georgia-aerospace-industry-economic-v2.",
+                  "text": "Outdoor amphitheater on Lakewood in the Aerospace Industry area.",
                   "category": "cultural",
                   "coords": [
                         -84.396008,
@@ -18497,7 +18497,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Old Atlanta Prison Farm",
-                  "text": "The Old Atlanta Prison Farm are ruins in georgia-aerospace-industry-economic-v2.",
+                  "text": "Former prison farm with historic buildings in the Aerospace Industry area.",
                   "category": "historical",
                   "coords": [
                         -84.334937,
@@ -18506,7 +18506,7 @@ factsAdvanced: { de: ["Andrew Carnegie gründete hier in den 1870er Jahren ein m
             },
             {
                   "name": "Southside Park",
-                  "text": "Southside Park is a park in georgia-aerospace-industry-economic-v2.",
+                  "text": "A park with sports fields and picnic areas in Southside Aerospace Industry.",
                   "category": "park",
                   "coords": [
                         -84.369294,
@@ -18552,7 +18552,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
       "de": [
             {
                   "name": "Bull Riding",
-                  "text": "Ein Theater, das Bullenreitveranstaltungen präsentiert.",
+                  "text": "Rodeo-Arena für Bullenreiten in der Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.548062,
@@ -18570,7 +18570,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Cannonball Music Hall",
-                  "text": "Eine Musikspielstätte für Live-Auftritte.",
+                  "text": "Historische Musikbühne in der Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.618914,
@@ -18579,7 +18579,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Coastal Credit Union Music Park at Walnut Creek",
-                  "text": "Ein Open-Air-Musikort, der Konzerte veranstaltet.",
+                  "text": "Großes Freiluftkonzertgelände am Walnut Creek in der Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.576394,
@@ -18588,7 +18588,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Anderson Point Park",
-                  "text": "Ein Park mit Wanderwegen und Picknickplätzen.",
+                  "text": "Ein Park an einer Landspitze mit Angelsteg in der Carolina Biotech Industry.",
                   "category": "park",
                   "coords": [
                         -78.542266,
@@ -18597,7 +18597,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Adventure Landing",
-                  "text": "Ein Themenpark mit Wasserattraktionen und Fahrgeschäften.",
+                  "text": "Wasserpark mit Minigolf und Fahrgeschäften in der Carolina Biotech Industry.",
                   "category": "recreational",
                   "coords": [
                         -78.588091,
@@ -18608,7 +18608,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
       "hu": [
             {
                   "name": "Bull Riding",
-                  "text": "Bikázós eseményeket bemutató színház.",
+                  "text": "Bikázó rodeó aréna a Carolina Biotech Industry területén.",
                   "category": "cultural",
                   "coords": [
                         -78.548062,
@@ -18626,7 +18626,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Cannonball Music Hall",
-                  "text": "Élő előadásoknak otthont adó zeneterem.",
+                  "text": "Történelmi zenei terem a Carolina Biotech Industry-ban.",
                   "category": "cultural",
                   "coords": [
                         -78.618914,
@@ -18635,7 +18635,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Coastal Credit Union Music Park at Walnut Creek",
-                  "text": "Szabadtéri zenei helyszín koncertek számára.",
+                  "text": "Nagy szabadtéri koncerthelyszín a Walnut Creek mellett a Carolina Biotech Industry-ban.",
                   "category": "cultural",
                   "coords": [
                         -78.576394,
@@ -18644,7 +18644,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Anderson Point Park",
-                  "text": "Sétányokkal és piknikezőhelyekkel rendelkező park.",
+                  "text": "Egy park egy földnyelvnél horgászmólóval a Carolina Biotech Industryban.",
                   "category": "park",
                   "coords": [
                         -78.542266,
@@ -18653,7 +18653,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Adventure Landing",
-                  "text": "Vízi attrakciókkal és játékokkal rendelkező vidámpark.",
+                  "text": "Vidámpark vízi csúszdákkal és minigolfozási lehetőséggel a Carolina Biotech Industry-ban.",
                   "category": "recreational",
                   "coords": [
                         -78.588091,
@@ -18664,7 +18664,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
       "ro": [
             {
                   "name": "Bull Riding",
-                  "text": "Un teatru care prezintă evenimente de călărie pe tauri.",
+                  "text": "Arenă de rodeo pentru călărit tauri în Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.548062,
@@ -18682,7 +18682,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Cannonball Music Hall",
-                  "text": "O sală de muzică care găzduiește spectacole live.",
+                  "text": "Sală de muzică istorică în Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.618914,
@@ -18691,7 +18691,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Coastal Credit Union Music Park at Walnut Creek",
-                  "text": "Un loc de muzică în aer liber care găzduiește concerte.",
+                  "text": "Amplasament mare de concerte în aer liber lângă Walnut Creek în Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.576394,
@@ -18700,7 +18700,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Anderson Point Park",
-                  "text": "Un parc cu poteci de plimbare și zone de picnic.",
+                  "text": "Un parc pe un cap de uscat cu un debarcader de pescuit în Carolina Biotech Industry.",
                   "category": "park",
                   "coords": [
                         -78.542266,
@@ -18709,7 +18709,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Adventure Landing",
-                  "text": "Un parc tematic cu atracții acvatice și plimbări.",
+                  "text": "Parac de distracții cu tobogane acvatice și mini-golf în Carolina Biotech Industry.",
                   "category": "recreational",
                   "coords": [
                         -78.588091,
@@ -18720,7 +18720,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
       "en": [
             {
                   "name": "Bull Riding",
-                  "text": "A theatre presenting bull riding events.",
+                  "text": "Rodeo arena hosting bull riding events in the Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.548062,
@@ -18738,7 +18738,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Cannonball Music Hall",
-                  "text": "A music hall hosting live performances.",
+                  "text": "Historic music hall in the Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.618914,
@@ -18747,7 +18747,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Coastal Credit Union Music Park at Walnut Creek",
-                  "text": "An outdoor music venue hosting concerts.",
+                  "text": "Large outdoor concert venue at Walnut Creek in the Carolina Biotech Industry.",
                   "category": "cultural",
                   "coords": [
                         -78.576394,
@@ -18756,7 +18756,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Anderson Point Park",
-                  "text": "A park with walking trails and picnic areas.",
+                  "text": "A park at Anderson Point with a fishing pier in Carolina Biotech Industry.",
                   "category": "park",
                   "coords": [
                         -78.542266,
@@ -18765,7 +18765,7 @@ factsAdvanced: { de: ["Luftfahrt ist das absolut wichtigste Exportprodukt des Bu
             },
             {
                   "name": "Adventure Landing",
-                  "text": "A theme park with water attractions and rides.",
+                  "text": "Water park with mini-golf and rides in the Carolina Biotech Industry.",
                   "category": "recreational",
                   "coords": [
                         -78.588091,
@@ -18838,7 +18838,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Columbus Obelisk",
-                  "text": "Der Columbus Obelisk ist ein Denkmal zu Ehren von Christoph Kolumbus im Patterson Park.",
+                  "text": "Obelisk zu Ehren von Christoph Kolumbus im Patterson-Park-Viertel von Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.574522,
@@ -18847,7 +18847,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Beth Am Synagogue",
-                  "text": "Die Beth Am Synagoge ist eine konservative Synagoge in Baltimore.",
+                  "text": "Konservative Synagoge im Stadtteil Mount Washington von Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.637746,
@@ -18856,7 +18856,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "The Patricia and Arthur Modell Performing Arts Center at the Lyric",
-                  "text": "Das Patricia and Arthur Modell Performing Arts Center at the Lyric ist ein Veranstaltungsort für darstellende Künste in Baltimore.",
+                  "text": "Beaux-Arts-Theater im Mount Vernon-Viertel von Baltimore, eröffnet 1894.",
                   "category": "cultural",
                   "coords": [
                         -76.618153,
@@ -18865,7 +18865,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Transfiguration of our Lord Russian Orthodox Church",
-                  "text": "Die Transfiguration of our Lord Russian Orthodox Church ist eine russisch-orthodoxe Kirche in Baltimore.",
+                  "text": "Russisch-orthodoxe Kirche im Coldstream-Homestead-Viertel von Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.586069,
@@ -18874,7 +18874,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint Michael the Archangel Ukrainian Catholic Church",
-                  "text": "Die Saint Michael the Archangel Ukrainian Catholic Church ist eine ukrainisch-katholische Kirche in Baltimore.",
+                  "text": "Ukrainisch-katholische Kirche an der Eastern Avenue in Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.582616,
@@ -18883,7 +18883,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Rosary Catholic Church",
-                  "text": "Die Holy Rosary Catholic Church ist eine katholische Kirche in Baltimore.",
+                  "text": "Römisch-katholische Kirche im Fells-Point-Viertel von Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.58755,
@@ -18892,7 +18892,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Church Hospital",
-                  "text": "Das Church Hospital ist ein historisches Gebäude in Baltimore, das einst als Krankenhaus diente.",
+                  "text": "Historisches ehemaliges Krankenhausgebäude am Broadway in Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.594167,
@@ -18919,7 +18919,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Gwynns Falls / Leakin Park",
-                  "text": "Der Gwynns Falls / Leakin Park ist ein großer Stadtpark entlang des Gwynns Falls in Baltimore.",
+                  "text": "Großer Park entlang des Gwynns-Falls-Bachs im Westen von Baltimore.",
                   "category": "park",
                   "coords": [
                         -76.690914,
@@ -18955,7 +18955,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Great Blacks In Wax Museum",
-                  "text": "Das Great Blacks In Wax Museum ist ein Wachsfigurenmuseum, das afroamerikanische Geschichte und Persönlichkeiten zeigt.",
+                  "text": "Ein Wachsmuseum in Baltimore mit lebensgroßen Figuren afroamerikanischer Persönlichkeiten.",
                   "category": "museum",
                   "coords": [
                         -76.596853,
@@ -18964,7 +18964,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Fallsway Fountain",
-                  "text": "Der Fallsway Fountain ist ein Springbrunnen und Denkmal im Zentrum von Baltimore.",
+                  "text": "Ein historischer Brunnen am Fallsway in Baltimore, Überbleibsel des städtischen Wassersystems.",
                   "category": "historical",
                   "coords": [
                         -76.611784,
@@ -18991,7 +18991,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Clifton Park Valve House",
-                  "text": "Das Clifton Park Valve House ist eine Ruine eines Wasserwerks im Clifton Park in Baltimore.",
+                  "text": "Historisches Pumpenhaus von 1888 im Clifton Park, Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.586973,
@@ -19000,7 +19000,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Faith Theological Seminary",
-                  "text": "Das Faith Theological Seminary ist eine religiöse Bildungseinrichtung im Hafen von Baltimore.",
+                  "text": "Ein christliches Priesterseminar in Baltimore in einem Backsteingebäude in ruhiger Seitenstraße.",
                   "category": "religious",
                   "coords": [
                         -76.605962,
@@ -19009,7 +19009,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "Die First Church of Christ Scientist ist eine Kirche der Christlichen Wissenschaft im Hafen von Baltimore.",
+                  "text": "Eine Kirche Christi, Wissenschaftler in Baltimore mit weißer Säulenfassade und Kuppel.",
                   "category": "religious",
                   "coords": [
                         -76.621079,
@@ -19018,7 +19018,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Trinity Russian Orthodox Church",
-                  "text": "Die Holy Trinity Russian Orthodox Church ist eine russisch-orthodoxe Kirche im Hafen von Baltimore.",
+                  "text": "Eine russisch-orthodoxe Kirche in Baltimore mit charakteristischen Zwiebeltürmen.",
                   "category": "religious",
                   "coords": [
                         -76.592466,
@@ -19027,7 +19027,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Har Sinai Church of Christ",
-                  "text": "Die Har Sinai Church of Christ ist eine Kirche Christi im Hafen von Baltimore.",
+                  "text": "Eine Kirche Christi in Baltimore mit roter Backsteinsfassade und Bleiglasfenstern.",
                   "category": "religious",
                   "coords": [
                         -76.593986,
@@ -19036,7 +19036,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Taylors Chapel",
-                  "text": "Taylors Chapel ist eine Kapelle im Hafen von Baltimore.",
+                  "text": "Eine historische Kapelle in Baltimore, benannt nach der Familie Taylor, mit angrenzendem Friedhof.",
                   "category": "religious",
                   "coords": [
                         -76.577258,
@@ -19045,7 +19045,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "University Chapel",
-                  "text": "Die University Chapel ist eine Hochschulkapelle im Hafen von Baltimore.",
+                  "text": "Eine Universitätskapelle in Baltimore mit hohem Turm und Holzbänken für interreligiöse Gottesdienste.",
                   "category": "religious",
                   "coords": [
                         -76.586109,
@@ -19054,7 +19054,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of Mary Our Queen",
-                  "text": "Die Cathedral of Mary Our Queen ist eine römisch-katholische Kathedrale im Hafen von Baltimore.",
+                  "text": "Die Mutterkirche der Erzdiözese Baltimore, eine modernistische Kathedrale aus der Mitte des 20. Jahrhunderts an der North Charles Street.",
                   "category": "religious",
                   "coords": [
                         -76.626049,
@@ -19063,7 +19063,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint John's Episcopal Church",
-                  "text": "Saint John's Episcopal Church ist eine episkopale Kirche im Hafen von Baltimore.",
+                  "text": "Eine bischöfliche Kirche in Baltimore mit neugotischem Spitzturm und historischer Orgel.",
                   "category": "religious",
                   "coords": [
                         -76.608772,
@@ -19072,7 +19072,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Incarnation",
-                  "text": "Die Cathedral of the Incarnation ist eine Kathedrale im Hafen von Baltimore.",
+                  "text": "Eine bischöfliche Kathedrale im Homeland-Viertel von Baltimore, aus Stein gebaut.",
                   "category": "religious",
                   "coords": [
                         -76.616867,
@@ -19081,7 +19081,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Muhammad Mosque Number Six",
-                  "text": "Die Muhammad Mosque Number Six ist eine Moschee der Nation of Islam im Hafen von Baltimore.",
+                  "text": "Eine Moschee der Nation of Islam in Baltimore, untergebracht in einem ehemaligen Kirchengebäude.",
                   "category": "religious",
                   "coords": [
                         -76.682841,
@@ -19090,7 +19090,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Shaarei Tfiloh Congregation",
-                  "text": "Die Shaarei Tfiloh Congregation ist eine jüdische Gemeinde im Hafen von Baltimore.",
+                  "text": "Die älteste durchgehend genutzte Synagoge Baltimores, erbaut im 19. Jahrhundert im Jonestown-Viertel.",
                   "category": "religious",
                   "coords": [
                         -76.650588,
@@ -19099,7 +19099,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lovely Lane United Methodist Church",
-                  "text": "Die Lovely Lane United Methodist Church ist eine methodistische Kirche im Hafen von Baltimore.",
+                  "text": "Eine historische methodistische Kirche in Baltimore, erbaut 1874 im Queen-Anne-Stil.",
                   "category": "religious",
                   "coords": [
                         -76.615651,
@@ -19108,7 +19108,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Annunciation Greek Orthodox Church",
-                  "text": "Die Cathedral of the Annunciation Greek Orthodox Church ist eine griechisch-orthodoxe Kathedrale im Hafen von Baltimore.",
+                  "text": "Eine griechisch-orthodoxe Kathedrale in Baltimore mit blauen Kuppeln und byzantinischer Architektur.",
                   "category": "religious",
                   "coords": [
                         -76.617908,
@@ -19117,7 +19117,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint James the Less Roman Catholic Church",
-                  "text": "Saint James the Less Roman Catholic Church ist eine römisch-katholische Kirche im Hafen von Baltimore.",
+                  "text": "Eine römisch-katholische Kirche im Woodberry-Viertel von Baltimore mit steinernem Glockenturm.",
                   "category": "religious",
                   "coords": [
                         -76.601492,
@@ -19126,7 +19126,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sweet Prospect Baptist Church",
-                  "text": "Die Sweet Prospect Baptist Church ist eine Baptistengemeinde im Hafen von Baltimore.",
+                  "text": "Eine Baptistenkirche in Baltimore mit weißer Holzverkleidung und einem Kirchturm.",
                   "category": "religious",
                   "coords": [
                         -76.604615,
@@ -19135,7 +19135,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Historic Saint Francis Xavier Catholic Church",
-                  "text": "Die Historic Saint Francis Xavier Catholic Church ist eine historische katholische Kirche im Hafen von Baltimore.",
+                  "text": "Die älteste historisch afroamerikanische katholische Gemeinde der USA, gegründet 1864 in Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.597748,
@@ -19144,7 +19144,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Butchers Hill Historic District",
-                  "text": "Das Butchers Hill Historic District ist ein historisches Viertel im Hafen von Baltimore.",
+                  "text": "Ein historisches Viertel in Baltimore mit Reihenhäusern und Kopfsteinpflasterstraßen, einst Heimat von Metzgern.",
                   "category": "landmark",
                   "coords": [
                         -76.587466,
@@ -19153,7 +19153,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Carrie Murray Nature Center",
-                  "text": "Das Carrie Murray Nature Center ist ein Naturzentrum im Hafen von Baltimore.",
+                  "text": "Ein Naturzentrum im Gwynns Falls Park in Baltimore, benannt nach einer lokalen Naturschützerin.",
                   "category": "landmark",
                   "coords": [
                         -76.695438,
@@ -19191,7 +19191,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Columbus Obelisk",
-                  "text": "A Columbus Obelisk egy emlékmű Kolumbusz Kristóf tiszteletére a Patterson Parkban.",
+                  "text": "Kolumbusz Kristóf tiszteletére állított obeliszk a baltimore-i Patterson Park negyedben.",
                   "category": "historical",
                   "coords": [
                         -76.574522,
@@ -19200,7 +19200,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Beth Am Synagogue",
-                  "text": "A Beth Am zsinagóga egy konzervatív zsinagóga Baltimore-ban.",
+                  "text": "Konzervatív zsinagóga a baltimore-i Mount Washington negyedben.",
                   "category": "religious",
                   "coords": [
                         -76.637746,
@@ -19209,7 +19209,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "The Patricia and Arthur Modell Performing Arts Center at the Lyric",
-                  "text": "A Patricia and Arthur Modell Performing Arts Center at the Lyric egy előadóművészeti helyszín Baltimore-ban.",
+                  "text": "Beaux-Arts stílusú színház Baltimore Mount Vernon negyedében, 1894-ben nyitotta meg kapuit.",
                   "category": "cultural",
                   "coords": [
                         -76.618153,
@@ -19218,7 +19218,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Transfiguration of our Lord Russian Orthodox Church",
-                  "text": "A Transfiguration of our Lord Russian Orthodox Church egy orosz ortodox templom Baltimore-ban.",
+                  "text": "Orosz ortodox templom Baltimore Coldstream Homestead negyedében.",
                   "category": "religious",
                   "coords": [
                         -76.586069,
@@ -19227,7 +19227,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint Michael the Archangel Ukrainian Catholic Church",
-                  "text": "A Saint Michael the Archangel Ukrainian Catholic Church egy ukrán katolikus templom Baltimore-ban.",
+                  "text": "Ukrán katolikus templom a baltimore-i Eastern Avenue-n.",
                   "category": "religious",
                   "coords": [
                         -76.582616,
@@ -19236,7 +19236,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Rosary Catholic Church",
-                  "text": "A Holy Rosary Catholic Church egy katolikus templom Baltimore-ban.",
+                  "text": "Római katolikus templom Baltimore Fells Point negyedében.",
                   "category": "religious",
                   "coords": [
                         -76.58755,
@@ -19245,7 +19245,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Church Hospital",
-                  "text": "A Church Hospital egy történelmi épület Baltimore-ban, amely egykor kórházként szolgált.",
+                  "text": "Történelmi volt kórházépület a baltimore-i Broadway-n.",
                   "category": "landmark",
                   "coords": [
                         -76.594167,
@@ -19272,7 +19272,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Gwynns Falls / Leakin Park",
-                  "text": "A Gwynns Falls / Leakin Park egy nagy városi park a Gwynns Falls patak mentén Baltimore-ban.",
+                  "text": "Nagy park a Gwynns Falls patak mentén Baltimore nyugati részén.",
                   "category": "park",
                   "coords": [
                         -76.690914,
@@ -19308,7 +19308,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Great Blacks In Wax Museum",
-                  "text": "A Great Blacks In Wax Museum egy viaszfigura-múzeum, amely afroamerikai történelmet és személyiségeket mutat be.",
+                  "text": "Egy viaszmúzeum Baltimore-ban, amely életnagyságú afroamerikai személyiségeket mutat be.",
                   "category": "museum",
                   "coords": [
                         -76.596853,
@@ -19317,7 +19317,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Fallsway Fountain",
-                  "text": "A Fallsway Fountain egy szökőkút és emlékmű Baltimore belvárosában.",
+                  "text": "Egy történelmi kút a Fallsway mentén Baltimore-ban, a városi vízrendszer maradványa.",
                   "category": "historical",
                   "coords": [
                         -76.611784,
@@ -19344,7 +19344,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Clifton Park Valve House",
-                  "text": "A Clifton Park Valve House egy vízmű romja a baltimore-i Clifton Parkban.",
+                  "text": "Történelmi szivattyúház 1888-ból a baltimore-i Clifton Parkban.",
                   "category": "historical",
                   "coords": [
                         -76.586973,
@@ -19353,7 +19353,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Faith Theological Seminary",
-                  "text": "A Faith Theological Seminary egy vallási oktatási intézmény Baltimore kikötőjében.",
+                  "text": "Egy keresztény teológiai szeminárium Baltimore-ban, téglából épült, csendes mellékutcában.",
                   "category": "religious",
                   "coords": [
                         -76.605962,
@@ -19362,7 +19362,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "A First Church of Christ Scientist egy keresztény tudományos templom Baltimore kikötőjében.",
+                  "text": "Egy Keresztény Tudomány templom Baltimore-ban, fehér oszlopos homlokzattal és kupolával.",
                   "category": "religious",
                   "coords": [
                         -76.621079,
@@ -19371,7 +19371,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Trinity Russian Orthodox Church",
-                  "text": "A Holy Trinity Russian Orthodox Church egy orosz ortodox templom Baltimore kikötőjében.",
+                  "text": "Egy orosz ortodox templom Baltimore-ban, jellegzetes hagymakupolákkal.",
                   "category": "religious",
                   "coords": [
                         -76.592466,
@@ -19380,7 +19380,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Har Sinai Church of Christ",
-                  "text": "A Har Sinai Church of Christ egy Krisztus-templom Baltimore kikötőjében.",
+                  "text": "Egy Krisztus-templom Baltimore-ban, vörös téglahomlokzattal és ólomüveg ablakokkal.",
                   "category": "religious",
                   "coords": [
                         -76.593986,
@@ -19389,7 +19389,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Taylors Chapel",
-                  "text": "A Taylors Chapel egy kápolna Baltimore kikötőjében.",
+                  "text": "Egy történelmi kápolna Baltimore-ban, a Taylor családról elnevezve, mellette temetővel.",
                   "category": "religious",
                   "coords": [
                         -76.577258,
@@ -19398,7 +19398,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "University Chapel",
-                  "text": "Az University Chapel egy egyetemi kápolna Baltimore kikötőjében.",
+                  "text": "Egy egyetemi kápolna Baltimore-ban, magas toronnyal és fapadokkal, ökumenikus istentiszteletekhez.",
                   "category": "religious",
                   "coords": [
                         -76.586109,
@@ -19407,7 +19407,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of Mary Our Queen",
-                  "text": "A Cathedral of Mary Our Queen egy római katolikus székesegyház Baltimore kikötőjében.",
+                  "text": "A Baltimore-i főegyházmegye anyatemploma, egy 20. század közepi modernista katedrális a North Charles Streeten.",
                   "category": "religious",
                   "coords": [
                         -76.626049,
@@ -19416,7 +19416,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint John's Episcopal Church",
-                  "text": "A Saint John's Episcopal Church egy episzkopális templom Baltimore kikötőjében.",
+                  "text": "E egy episzkopális templom Baltimore-ban, neogótikus tornyos toronnyal és történelmi orgonával.",
                   "category": "religious",
                   "coords": [
                         -76.608772,
@@ -19425,7 +19425,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Incarnation",
-                  "text": "A Cathedral of the Incarnation egy székesegyház Baltimore kikötőjében.",
+                  "text": "Egy episzkopális katedrális Baltimore Homeland negyedében, kőből épült.",
                   "category": "religious",
                   "coords": [
                         -76.616867,
@@ -19434,7 +19434,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Muhammad Mosque Number Six",
-                  "text": "A Muhammad Mosque Number Six egy iszlám mecset Baltimore kikötőjében.",
+                  "text": "Az Iszlám Nemzet mecsete Baltimore-ban, egykori templomépületben.",
                   "category": "religious",
                   "coords": [
                         -76.682841,
@@ -19443,7 +19443,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Shaarei Tfiloh Congregation",
-                  "text": "A Shaarei Tfiloh Congregation egy zsidó közösség Baltimore kikötőjében.",
+                  "text": "Baltimore legrégebben folyamatosan működő zsinagógája, a 19. században épült a Jonestown negyedben.",
                   "category": "religious",
                   "coords": [
                         -76.650588,
@@ -19452,7 +19452,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lovely Lane United Methodist Church",
-                  "text": "A Lovely Lane United Methodist Church egy metodista templom Baltimore kikötőjében.",
+                  "text": "Egy történelmi metodista templom Baltimore-ban, 1874-ben épült Queen Anne stílusban.",
                   "category": "religious",
                   "coords": [
                         -76.615651,
@@ -19461,7 +19461,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Annunciation Greek Orthodox Church",
-                  "text": "A Cathedral of the Annunciation Greek Orthodox Church egy görög ortodox székesegyház Baltimore kikötőjében.",
+                  "text": "Egy görög ortodox katedrális Baltimore-ban, kék kupolákkal és bizánci építészettel.",
                   "category": "religious",
                   "coords": [
                         -76.617908,
@@ -19470,7 +19470,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint James the Less Roman Catholic Church",
-                  "text": "A Saint James the Less Roman Catholic Church egy római katolikus templom Baltimore kikötőjében.",
+                  "text": "Egy római katolikus templom Baltimore Woodberry negyedében, kő harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         -76.601492,
@@ -19479,7 +19479,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sweet Prospect Baptist Church",
-                  "text": "A Sweet Prospect Baptist Church egy baptista gyülekezet Baltimore kikötőjében.",
+                  "text": "Egy baptista templom Baltimore-ban, fehér faburkolattal és toronnyal.",
                   "category": "religious",
                   "coords": [
                         -76.604615,
@@ -19488,7 +19488,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Historic Saint Francis Xavier Catholic Church",
-                  "text": "A Historic Saint Francis Xavier Catholic Church egy történelmi katolikus templom Baltimore kikötőjében.",
+                  "text": "A legrégebbi történelmileg afroamerikai katolikus gyülekezet az USA-ban, 1864-ben alapították Baltimore-ban.",
                   "category": "religious",
                   "coords": [
                         -76.597748,
@@ -19497,7 +19497,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Butchers Hill Historic District",
-                  "text": "A Butchers Hill Historic District egy történelmi negyed Baltimore kikötőjében.",
+                  "text": "Egy történelmi negyed Baltimore-ban, sorházakkal és macskaköves utcákkal, egykor hentesek lakták.",
                   "category": "landmark",
                   "coords": [
                         -76.587466,
@@ -19506,7 +19506,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Carrie Murray Nature Center",
-                  "text": "A Carrie Murray Nature Center egy természetközpont Baltimore kikötőjében.",
+                  "text": "Egy természeti központ Baltimore Gwynns Falls Parkjában, egy helyi természetvédőről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -76.695438,
@@ -19544,7 +19544,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Columbus Obelisk",
-                  "text": "Columbus Obelisk este un monument în onoarea lui Cristofor Columb în Parcul Patterson.",
+                  "text": "Obelisc în cinstea lui Cristofor Columb în cartierul Patterson Park din Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.574522,
@@ -19553,7 +19553,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Beth Am Synagogue",
-                  "text": "Sinagoga Beth Am este o sinagogă conservatoare în Baltimore.",
+                  "text": "Sinagogă conservatoare în cartierul Mount Washington din Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.637746,
@@ -19562,7 +19562,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "The Patricia and Arthur Modell Performing Arts Center at the Lyric",
-                  "text": "Patricia and Arthur Modell Performing Arts Center at the Lyric este un loc pentru artele spectacolului în Baltimore.",
+                  "text": "Teatru în stil Beaux-Arts în cartierul Mount Vernon din Baltimore, deschis în 1894.",
                   "category": "cultural",
                   "coords": [
                         -76.618153,
@@ -19571,7 +19571,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Transfiguration of our Lord Russian Orthodox Church",
-                  "text": "Biserica Ortodoxă Rusă Transfiguration of our Lord este o biserică ortodoxă rusă în Baltimore.",
+                  "text": "Biserică ortodoxă rusă în cartierul Coldstream Homestead din Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.586069,
@@ -19580,7 +19580,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint Michael the Archangel Ukrainian Catholic Church",
-                  "text": "Biserica Catolică Ucraineană Saint Michael the Archangel este o biserică catolică ucraineană în Baltimore.",
+                  "text": "Biserică catolică ucraineană pe Eastern Avenue din Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.582616,
@@ -19589,7 +19589,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Rosary Catholic Church",
-                  "text": "Biserica Catolică Holy Rosary este o biserică catolică în Baltimore.",
+                  "text": "Biserică romano-catolică în cartierul Fells Point din Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.58755,
@@ -19598,7 +19598,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Church Hospital",
-                  "text": "Church Hospital este o clădire istorică în Baltimore, care a funcționat odinioară ca spital.",
+                  "text": "Fostă clădire de spital istorică pe Broadway în Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.594167,
@@ -19625,7 +19625,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Gwynns Falls / Leakin Park",
-                  "text": "Parcul Gwynns Falls / Leakin Park este un parc urban mare de-a lungul pârâului Gwynns Falls în Baltimore.",
+                  "text": "Parcul mare de-a lungul pârâului Gwynns Falls în vestul Baltimore-ului.",
                   "category": "park",
                   "coords": [
                         -76.690914,
@@ -19661,7 +19661,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Great Blacks In Wax Museum",
-                  "text": "Great Blacks In Wax Museum este un muzeu de figuri de ceară care prezintă istoria și personalitățile afro-americane.",
+                  "text": "Un muzeu al figurilor de ceară din Baltimore, cu statui mărime naturală ale personalităților afro-americane.",
                   "category": "museum",
                   "coords": [
                         -76.596853,
@@ -19670,7 +19670,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Fallsway Fountain",
-                  "text": "Fallsway Fountain este o fântână arteziană și monument în centrul orașului Baltimore.",
+                  "text": "O fântână istorică pe Fallsway din Baltimore, o relicvă a sistemului de apă al orașului.",
                   "category": "historical",
                   "coords": [
                         -76.611784,
@@ -19697,7 +19697,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Clifton Park Valve House",
-                  "text": "Clifton Park Valve House este o ruină a unei stații de pompare a apei în Parcul Clifton din Baltimore.",
+                  "text": "Clădire istorică a pompei din 1888 în Clifton Park, Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.586973,
@@ -19706,7 +19706,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Faith Theological Seminary",
-                  "text": "Faith Theological Seminary este o instituție de învățământ religios în Portul Baltimore.",
+                  "text": "Un seminar teologic creștin în Baltimore, într-o clădire de cărămidă pe o stradă liniștită.",
                   "category": "religious",
                   "coords": [
                         -76.605962,
@@ -19715,7 +19715,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "First Church of Christ Scientist este o biserică a Științei Creștine în Portul Baltimore.",
+                  "text": "O biserică a Științei Creștine în Baltimore, cu fațadă albă cu coloane și o cupolă.",
                   "category": "religious",
                   "coords": [
                         -76.621079,
@@ -19724,7 +19724,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Trinity Russian Orthodox Church",
-                  "text": "Holy Trinity Russian Orthodox Church este o biserică ortodoxă rusă în Portul Baltimore.",
+                  "text": "O biserică ortodoxă rusă în Baltimore, cu turle în formă de ceapă.",
                   "category": "religious",
                   "coords": [
                         -76.592466,
@@ -19733,7 +19733,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Har Sinai Church of Christ",
-                  "text": "Har Sinai Church of Christ este o biserică a lui Hristos în Portul Baltimore.",
+                  "text": "O biserică a lui Hristos din Baltimore, cu fațadă de cărămidă roșie și vitralii.",
                   "category": "religious",
                   "coords": [
                         -76.593986,
@@ -19742,7 +19742,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Taylors Chapel",
-                  "text": "Taylors Chapel este o capelă în Portul Baltimore.",
+                  "text": "O capelă istorică în Baltimore, numită după familia Taylor, cu un cimitir alăturat.",
                   "category": "religious",
                   "coords": [
                         -76.577258,
@@ -19751,7 +19751,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "University Chapel",
-                  "text": "University Chapel este o capelă universitară în Portul Baltimore.",
+                  "text": "O capelă universitară din Baltimore, cu un turn înalt și bănci de lemn, pentru slujbe interreligioase.",
                   "category": "religious",
                   "coords": [
                         -76.586109,
@@ -19760,7 +19760,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of Mary Our Queen",
-                  "text": "Cathedral of Mary Our Queen este o catedrală romano-catolică în Portul Baltimore.",
+                  "text": "Catedrala-mamă a Arhidiecezei de Baltimore, o catedrală modernistă de la mijlocul secolului XX pe North Charles Street.",
                   "category": "religious",
                   "coords": [
                         -76.626049,
@@ -19769,7 +19769,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint John's Episcopal Church",
-                  "text": "Saint John's Episcopal Church este o biserică episcopală în Portul Baltimore.",
+                  "text": "O biserică episcopală în Baltimore, cu un turn gotic ascuțit și o orgă istorică.",
                   "category": "religious",
                   "coords": [
                         -76.608772,
@@ -19778,7 +19778,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Incarnation",
-                  "text": "Cathedral of the Incarnation este o catedrală în Portul Baltimore.",
+                  "text": "O catedrală episcopală în cartierul Homeland din Baltimore, construită din piatră.",
                   "category": "religious",
                   "coords": [
                         -76.616867,
@@ -19787,7 +19787,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Muhammad Mosque Number Six",
-                  "text": "Muhammad Mosque Number Six este o moschee a Națiunii Islamului în Portul Baltimore.",
+                  "text": "O moschee a Națiunii Islamului din Baltimore, într-o fostă clădire bisericească.",
                   "category": "religious",
                   "coords": [
                         -76.682841,
@@ -19796,7 +19796,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Shaarei Tfiloh Congregation",
-                  "text": "Shaarei Tfiloh Congregation este o congregație evreiască în Portul Baltimore.",
+                  "text": "Cea mai veche sinagogă din Baltimore în funcțiune continuă, construită în secolul al XIX-lea în cartierul Jonestown.",
                   "category": "religious",
                   "coords": [
                         -76.650588,
@@ -19805,7 +19805,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lovely Lane United Methodist Church",
-                  "text": "Lovely Lane United Methodist Church este o biserică metodistă unită în Portul Baltimore.",
+                  "text": "O biserică metodistă istorică din Baltimore, construită în 1874 în stil Queen Anne.",
                   "category": "religious",
                   "coords": [
                         -76.615651,
@@ -19814,7 +19814,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Annunciation Greek Orthodox Church",
-                  "text": "Cathedral of the Annunciation Greek Orthodox Church este o catedrală greco-ortodoxă în Portul Baltimore.",
+                  "text": "O catedrală greco-ortodoxă în Baltimore, cu domuri albastre și arhitectură bizantină.",
                   "category": "religious",
                   "coords": [
                         -76.617908,
@@ -19823,7 +19823,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint James the Less Roman Catholic Church",
-                  "text": "Saint James the Less Roman Catholic Church este o biserică romano-catolică în Portul Baltimore.",
+                  "text": "O biserică romano-catolică în cartierul Woodberry din Baltimore, cu un turn de clopotniță din piatră.",
                   "category": "religious",
                   "coords": [
                         -76.601492,
@@ -19832,7 +19832,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sweet Prospect Baptist Church",
-                  "text": "Sweet Prospect Baptist Church este o biserică baptistă în Portul Baltimore.",
+                  "text": "O biserică baptistă din Baltimore, cu o placare din lemn alb și un turn al bisericii.",
                   "category": "religious",
                   "coords": [
                         -76.604615,
@@ -19841,7 +19841,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Historic Saint Francis Xavier Catholic Church",
-                  "text": "Historic Saint Francis Xavier Catholic Church este o biserică catolică istorică în Portul Baltimore.",
+                  "text": "Cea mai veche parohie catolică istoric afro-americană din SUA, fondată în 1864 în Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.597748,
@@ -19850,7 +19850,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Butchers Hill Historic District",
-                  "text": "Butchers Hill Historic District este un cartier istoric în Portul Baltimore.",
+                  "text": "Un cartier istoric din Baltimore cu case înșiruite și străzi pietruite, odinioară locuit de măcelari.",
                   "category": "landmark",
                   "coords": [
                         -76.587466,
@@ -19859,7 +19859,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Carrie Murray Nature Center",
-                  "text": "Carrie Murray Nature Center este un centru natural în Portul Baltimore.",
+                  "text": "Un centru al naturii în Gwynns Falls Park din Baltimore, numit după o conservaționistă locală.",
                   "category": "landmark",
                   "coords": [
                         -76.695438,
@@ -19897,7 +19897,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Columbus Obelisk",
-                  "text": "The Columbus Obelisk is a monument honoring Christopher Columbus in Patterson Park.",
+                  "text": "Obelisk honoring Christopher Columbus in the Patterson Park neighborhood of Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.574522,
@@ -19906,7 +19906,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Beth Am Synagogue",
-                  "text": "Beth Am Synagogue is a Conservative synagogue in Baltimore.",
+                  "text": "Conservative synagogue in the Mount Washington neighborhood of Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.637746,
@@ -19915,7 +19915,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "The Patricia and Arthur Modell Performing Arts Center at the Lyric",
-                  "text": "The Patricia and Arthur Modell Performing Arts Center at the Lyric is a performing arts venue in Baltimore.",
+                  "text": "Beaux-Arts theater in the Mount Vernon district of Baltimore, opened in 1894.",
                   "category": "cultural",
                   "coords": [
                         -76.618153,
@@ -19924,7 +19924,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Transfiguration of our Lord Russian Orthodox Church",
-                  "text": "Transfiguration of our Lord Russian Orthodox Church is a Russian Orthodox church in Baltimore.",
+                  "text": "Russian Orthodox church in the Coldstream Homestead neighborhood of Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.586069,
@@ -19933,7 +19933,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint Michael the Archangel Ukrainian Catholic Church",
-                  "text": "Saint Michael the Archangel Ukrainian Catholic Church is a Ukrainian Catholic church in Baltimore.",
+                  "text": "Ukrainian Catholic church on Eastern Avenue in Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.582616,
@@ -19942,7 +19942,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Rosary Catholic Church",
-                  "text": "Holy Rosary Catholic Church is a Catholic church in Baltimore.",
+                  "text": "Roman Catholic church in the Fells Point neighborhood of Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.58755,
@@ -19951,7 +19951,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Church Hospital",
-                  "text": "Church Hospital is a historic building in Baltimore that once served as a hospital.",
+                  "text": "Historic former hospital building on Broadway in Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.594167,
@@ -19978,7 +19978,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Gwynns Falls / Leakin Park",
-                  "text": "Gwynns Falls / Leakin Park is a large urban park along the Gwynns Falls stream in Baltimore.",
+                  "text": "Large park along the Gwynns Falls stream in west Baltimore.",
                   "category": "park",
                   "coords": [
                         -76.690914,
@@ -20014,7 +20014,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Great Blacks In Wax Museum",
-                  "text": "The Great Blacks In Wax Museum is a wax museum that features African American history and figures.",
+                  "text": "A wax museum in Baltimore featuring life-sized figures of notable African Americans.",
                   "category": "museum",
                   "coords": [
                         -76.596853,
@@ -20023,7 +20023,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Fallsway Fountain",
-                  "text": "The Fallsway Fountain is a fountain and monument in downtown Baltimore.",
+                  "text": "A historic drinking fountain on Fallsway in Baltimore, a relic of the city's water system.",
                   "category": "historical",
                   "coords": [
                         -76.611784,
@@ -20050,7 +20050,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Clifton Park Valve House",
-                  "text": "The Clifton Park Valve House is a ruin of a waterworks building in Clifton Park in Baltimore.",
+                  "text": "Historic pump house built in 1888 in Clifton Park, Baltimore.",
                   "category": "historical",
                   "coords": [
                         -76.586973,
@@ -20059,7 +20059,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Faith Theological Seminary",
-                  "text": "Faith Theological Seminary is a religious educational institution in the Port of Baltimore.",
+                  "text": "A Christian seminary in Baltimore housed in a brick building on a quiet side street.",
                   "category": "religious",
                   "coords": [
                         -76.605962,
@@ -20068,7 +20068,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "First Church of Christ Scientist is a Christian Science church in the Port of Baltimore.",
+                  "text": "A Christian Science church in Baltimore with a white-columned façade and a dome.",
                   "category": "religious",
                   "coords": [
                         -76.621079,
@@ -20077,7 +20077,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Holy Trinity Russian Orthodox Church",
-                  "text": "Holy Trinity Russian Orthodox Church is a Russian Orthodox church in the Port of Baltimore.",
+                  "text": "A Russian Orthodox church in Baltimore, recognized by its onion domes.",
                   "category": "religious",
                   "coords": [
                         -76.592466,
@@ -20086,7 +20086,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Har Sinai Church of Christ",
-                  "text": "Har Sinai Church of Christ is a Church of Christ congregation in the Port of Baltimore.",
+                  "text": "A Church of Christ in Baltimore with a red brick façade and stained glass windows.",
                   "category": "religious",
                   "coords": [
                         -76.593986,
@@ -20095,7 +20095,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Taylors Chapel",
-                  "text": "Taylors Chapel is a chapel in the Port of Baltimore.",
+                  "text": "A historic chapel in Baltimore, named after the Taylor family, with a cemetery.",
                   "category": "religious",
                   "coords": [
                         -76.577258,
@@ -20104,7 +20104,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "University Chapel",
-                  "text": "University Chapel is a university chapel in the Port of Baltimore.",
+                  "text": "A university chapel in Baltimore with a tall spire and wooden pews, used for interfaith services.",
                   "category": "religious",
                   "coords": [
                         -76.586109,
@@ -20113,7 +20113,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of Mary Our Queen",
-                  "text": "Cathedral of Mary Our Queen is a Roman Catholic cathedral in the Port of Baltimore.",
+                  "text": "The mother church of the Archdiocese of Baltimore, a mid-20th-century modernist cathedral on North Charles Street.",
                   "category": "religious",
                   "coords": [
                         -76.626049,
@@ -20122,7 +20122,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint John's Episcopal Church",
-                  "text": "Saint John's Episcopal Church is an Episcopal church in the Port of Baltimore.",
+                  "text": "An Episcopal church in Baltimore with a Gothic spire and a historic pipe organ.",
                   "category": "religious",
                   "coords": [
                         -76.608772,
@@ -20131,7 +20131,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Incarnation",
-                  "text": "Cathedral of the Incarnation is a cathedral in the Port of Baltimore.",
+                  "text": "An Episcopal cathedral in the Homeland neighborhood of Baltimore, built of stone.",
                   "category": "religious",
                   "coords": [
                         -76.616867,
@@ -20140,7 +20140,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Muhammad Mosque Number Six",
-                  "text": "Muhammad Mosque Number Six is a Nation of Islam mosque in the Port of Baltimore.",
+                  "text": "A Nation of Islam mosque in Baltimore, housed in a former church building.",
                   "category": "religious",
                   "coords": [
                         -76.682841,
@@ -20149,7 +20149,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Shaarei Tfiloh Congregation",
-                  "text": "Shaarei Tfiloh Congregation is a Jewish congregation in the Port of Baltimore.",
+                  "text": "The oldest continuously operating synagogue in Baltimore, built in the 19th century in Jonestown.",
                   "category": "religious",
                   "coords": [
                         -76.650588,
@@ -20158,7 +20158,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lovely Lane United Methodist Church",
-                  "text": "Lovely Lane United Methodist Church is a United Methodist church in the Port of Baltimore.",
+                  "text": "A historic Methodist church in Baltimore, built in 1874 in the Queen Anne style.",
                   "category": "religious",
                   "coords": [
                         -76.615651,
@@ -20167,7 +20167,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cathedral of the Annunciation Greek Orthodox Church",
-                  "text": "Cathedral of the Annunciation Greek Orthodox Church is a Greek Orthodox cathedral in the Port of Baltimore.",
+                  "text": "A Greek Orthodox cathedral in Baltimore with blue domes and Byzantine architecture.",
                   "category": "religious",
                   "coords": [
                         -76.617908,
@@ -20176,7 +20176,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Saint James the Less Roman Catholic Church",
-                  "text": "Saint James the Less Roman Catholic Church is a Roman Catholic church in the Port of Baltimore.",
+                  "text": "A Roman Catholic church in Baltimore's Woodberry neighborhood with a stone bell tower.",
                   "category": "religious",
                   "coords": [
                         -76.601492,
@@ -20185,7 +20185,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sweet Prospect Baptist Church",
-                  "text": "Sweet Prospect Baptist Church is a Baptist church in the Port of Baltimore.",
+                  "text": "A Baptist church in Baltimore with white clapboard siding and a steeple.",
                   "category": "religious",
                   "coords": [
                         -76.604615,
@@ -20194,7 +20194,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Historic Saint Francis Xavier Catholic Church",
-                  "text": "Historic Saint Francis Xavier Catholic Church is a historic Catholic church in the Port of Baltimore.",
+                  "text": "The oldest historically Black Catholic parish in the United States, founded in 1864 in Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.597748,
@@ -20203,7 +20203,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Butchers Hill Historic District",
-                  "text": "Butchers Hill Historic District is a historic district in the Port of Baltimore.",
+                  "text": "A historic district in Baltimore featuring row houses and cobblestone streets, once home to butchers.",
                   "category": "landmark",
                   "coords": [
                         -76.587466,
@@ -20212,7 +20212,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Carrie Murray Nature Center",
-                  "text": "Carrie Murray Nature Center is a nature center in the Port of Baltimore.",
+                  "text": "A nature center in Baltimore's Gwynns Falls Park, named after a local conservationist.",
                   "category": "landmark",
                   "coords": [
                         -76.695438,
@@ -20277,7 +20277,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Children's Museum of Houston",
-                  "text": "Ein interaktives Kindermuseum mit zum Anfassen.",
+                  "text": "Kindermuseum mit über 90.000 Quadratmetern interaktiver Ausstellungen im Museumsviertel von Houston.",
                   "category": "museum",
                   "coords": [
                         -95.385245,
@@ -20295,7 +20295,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston Museum of Natural Science",
-                  "text": "Ein Naturkundemuseum mit Planetarium und Schmetterlingszentrum.",
+                  "text": "Naturkundemuseum mit berühmter Dinosaurierhalle und Planetarium in Houston.",
                   "category": "museum",
                   "coords": [
                         -95.389698,
@@ -20331,7 +20331,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston City Hall",
-                  "text": "Der Sitz der Stadtverwaltung von Houston.",
+                  "text": "Historisches Rathausgebäude von 1939 in der Innenstadt von Houston.",
                   "category": "historical",
                   "coords": [
                         -95.369375,
@@ -20340,7 +20340,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Bayou Music Center",
-                  "text": "Ein Live-Musikveranstaltungsort für Konzerte und Events.",
+                  "text": "Musikspielstätte an den Ufern des Buffalo Bayou in Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.367189,
@@ -20349,7 +20349,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Christ Church Cathedral ist die Kathedrale der Episkopalkirche von Texas in Houston.",
+                  "text": "Episkopalkathedrale im neugotischen Stil in der Innenstadt von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.360816,
@@ -20358,7 +20358,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Mother of Mercy Church",
-                  "text": "Our Mother of Mercy Church ist eine historische katholische Kirche in Houstons Fifth Ward.",
+                  "text": "Historische katholische Kirche von 1910 an der Southmore Boulevard in Houston.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
@@ -20376,7 +20376,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Annunciation Greek Orthodox Cathedral ist die Kathedrale der Griechisch-Orthodoxen Metropolie von Denver in Houston.",
+                  "text": "Griechisch-orthodoxe Kathedrale im byzantinischen Stil im Montrose-Viertel von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.392047,
@@ -20394,7 +20394,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lawndale Art Center",
-                  "text": "Lawndale Art Center ist ein gemeinnütziges Kunstzentrum in Houstons Third Ward.",
+                  "text": "Zentrum für zeitgenössische Kunst im Third Ward von Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.386682,
@@ -20403,7 +20403,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Presbyterian Houston",
-                  "text": "First Presbyterian Houston ist eine der ältesten presbyterianischen Kirchen in Houston.",
+                  "text": "Historische presbyterianische Kirche von 1928 in der Innenstadt von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.3896,
@@ -20412,7 +20412,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "St. Paul's United Methodist Church",
-                  "text": "St. Paul's United Methodist Church ist eine historische methodistische Kirche in der Innenstadt von Houston.",
+                  "text": "Historische methodistische Kirche von 1911 im Fourth Ward von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.388704,
@@ -20421,7 +20421,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Miller Outdoor Theatre",
-                  "text": "Miller Outdoor Theatre ist ein kostenloses Freilichttheater im Hermann Park in Houston.",
+                  "text": "Open-Air-Theater mit kostenlosen Aufführungen im Hermann Park, Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.388888,
@@ -20430,7 +20430,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cynthia Woods Mitchell Center for the Arts",
-                  "text": "Cynthia Woods Mitchell Center for the Arts ist ein Veranstaltungsort für darstellende Künste an der University of Houston.",
+                  "text": "Aufführungsort an der University of Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.344049,
@@ -20439,7 +20439,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Co-Cathedral of the Sacred Heart ist die Konkathedrale der römisch-katholischen Erzdiözese Galveston-Houston in Houston.",
+                  "text": "Moderne römisch-katholische Kathedrale von 2008 in der Innenstadt von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.368674,
@@ -20448,7 +20448,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Antioch Missionary Baptist Church",
-                  "text": "Antioch Missionary Baptist Church ist eine historische schwarze Baptistenkirche in Houston.",
+                  "text": "Historische Baptistenkirche von 1875 im Fourth Ward von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.372057,
@@ -20475,7 +20475,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Alley Theatre",
-                  "text": "Alley Theatre ist eine professionelle Theaterkompanie in Houston.",
+                  "text": "Tony-preisgekröntes Theater im Theaterbezirk von Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.365342,
@@ -20484,7 +20484,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Jones Hall",
-                  "text": "Jones Hall ist die Heimat des Houston Symphony in Houston.",
+                  "text": "Konzertsaal der Houston Symphony in der Innenstadt von Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.365029,
@@ -20493,7 +20493,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Catholic Church",
-                  "text": "Annunciation Catholic Church ist eine historische katholische Kirche in der Innenstadt von Houston.",
+                  "text": "Historische römisch-katholische Kirche von 1870 an der Texas Avenue in Houston.",
                   "category": "religious",
                   "coords": [
                         -95.357257,
@@ -20502,7 +20502,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Our Lady of Guadalupe Catholic Church ist eine historische Kirche, die der hispanischen Gemeinschaft in Houston dient.",
+                  "text": "Historische katholische Kirche von 1912 im Second Ward von Houston.",
                   "category": "religious",
                   "coords": [
                         -95.345026,
@@ -20529,7 +20529,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "MacGregor Park",
-                  "text": "MacGregor Park ist ein Park in Houstons Third Ward.",
+                  "text": "20 Hektar großer Park mit Joggingpfaden und Tennisplätzen in Houston.",
                   "category": "park",
                   "coords": [
                         -95.339813,
@@ -20556,7 +20556,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sam Houston Park",
-                  "text": "Sam Houston Park ist ein Park in der Innenstadt von Houston mit historischen Gebäuden.",
+                  "text": "Park in der Innenstadt mit einer Sammlung historischer Häuser.",
                   "category": "park",
                   "coords": [
                         -95.371865,
@@ -20574,7 +20574,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Discovery Green",
-                  "text": "Discovery Green ist ein großer Stadtpark in der Innenstadt von Houston.",
+                  "text": "5 Hektar großer Stadtpark mit Springbrunnen und Veranstaltungsflächen in der Innenstadt von Houston.",
                   "category": "park",
                   "coords": [
                         -95.359604,
@@ -20592,7 +20592,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Downtown Aquarium",
-                  "text": "Downtown Aquarium ist ein Aquarium und Restaurantkomplex in Houston.",
+                  "text": "Aquarium und Restaurant mit einem 500.000-Gallonen-Becken in der Innenstadt von Houston.",
                   "category": "recreational",
                   "coords": [
                         -95.367408,
@@ -20621,7 +20621,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Children's Museum of Houston",
-                  "text": "Interaktív gyermekmúzeum tapintható kiállításokkal.",
+                  "text": "Gyermekmúzeum több mint 90.000 négyzetméternyi interaktív kiállítással a houstoni Múzeumnegyedben.",
                   "category": "museum",
                   "coords": [
                         -95.385245,
@@ -20639,7 +20639,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston Museum of Natural Science",
-                  "text": "Természettudományi múzeum planetáriummal és pillangóközponttal.",
+                  "text": "Természettudományi múzeum híres dinoszauruszcsarnokkal és planetáriummal Houstonban.",
                   "category": "museum",
                   "coords": [
                         -95.389698,
@@ -20675,7 +20675,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston City Hall",
-                  "text": "Houston város önkormányzatának székhelye.",
+                  "text": "Történelmi városháza épület 1938-ból a houstoni belvárosban.",
                   "category": "historical",
                   "coords": [
                         -95.369375,
@@ -20684,7 +20684,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Bayou Music Center",
-                  "text": "Élőzenei helyszín koncertek és események számára.",
+                  "text": "Zenei helyszín a Buffalo Bayou partján Houstonban.",
                   "category": "cultural",
                   "coords": [
                         -95.367189,
@@ -20693,7 +20693,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "A Christ Church Cathedral a texasi episkopális egyház székesegyháza Houstonban.",
+                  "text": "Gótikus stílusú episzkopális székesegyház a houstoni belvárosban.",
                   "category": "religious",
                   "coords": [
                         -95.360816,
@@ -20702,7 +20702,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Mother of Mercy Church",
-                  "text": "Az Our Mother of Mercy Church egy történelmi katolikus templom Houston Fifth Ward negyedében.",
+                  "text": "Történelmi katolikus templom 1910-ből a houstoni Southmore Boulevard-on.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
@@ -20720,7 +20720,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Az Annunciation Greek Orthodox Cathedral a Denveri Görög Ortodox Metropólia székesegyháza Houstonban.",
+                  "text": "Bizánci stílusú görög ortodox székesegyház a houstoni Montrose negyedben.",
                   "category": "religious",
                   "coords": [
                         -95.392047,
@@ -20738,7 +20738,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lawndale Art Center",
-                  "text": "A Lawndale Art Center egy nonprofit művészeti központ Houston Third Ward negyedében.",
+                  "text": "Kortárs művészeti központ Houston Third Ward negyedében.",
                   "category": "cultural",
                   "coords": [
                         -95.386682,
@@ -20747,7 +20747,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Presbyterian Houston",
-                  "text": "A First Presbyterian Houston az egyik legrégebbi presbiteriánus templom Houstonban.",
+                  "text": "Történelmi presbiteriánus templom 1928-ból a houstoni belvárosban.",
                   "category": "religious",
                   "coords": [
                         -95.3896,
@@ -20756,7 +20756,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "St. Paul's United Methodist Church",
-                  "text": "A St. Paul's United Methodist Church egy történelmi metodista templom Houston belvárosában.",
+                  "text": "Történelmi metodista templom 1911-ből Houston Fourth Ward negyedében.",
                   "category": "religious",
                   "coords": [
                         -95.388704,
@@ -20765,7 +20765,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Miller Outdoor Theatre",
-                  "text": "A Miller Outdoor Theatre egy ingyenes szabadtéri színház a Hermann Parkban Houstonban.",
+                  "text": "Szabadtéri színház ingyenes előadásokkal a houstoni Hermann Parkban.",
                   "category": "cultural",
                   "coords": [
                         -95.388888,
@@ -20774,7 +20774,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cynthia Woods Mitchell Center for the Arts",
-                  "text": "A Cynthia Woods Mitchell Center for the Arts előadóművészeti helyszín a Houstoni Egyetemen.",
+                  "text": "Előadóhely a houstoni Egyetemen (University of Houston).",
                   "category": "cultural",
                   "coords": [
                         -95.344049,
@@ -20783,7 +20783,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "A Co-Cathedral of the Sacred Heart a Galveston-Houston-i Római Katolikus Főegyházmegye társszékesegyháza Houstonban.",
+                  "text": "Modern római katolikus székesegyház 2008-ból a houstoni belvárosban.",
                   "category": "religious",
                   "coords": [
                         -95.368674,
@@ -20792,7 +20792,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Antioch Missionary Baptist Church",
-                  "text": "Az Antioch Missionary Baptist Church egy történelmi fekete baptista templom Houstonban.",
+                  "text": "Történelmi baptista templom 1875-ből Houston Fourth Ward negyedében.",
                   "category": "religious",
                   "coords": [
                         -95.372057,
@@ -20819,7 +20819,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Alley Theatre",
-                  "text": "Az Alley Theatre egy profi színházi társaság Houstonban.",
+                  "text": "Tony-díjas színház a houstoni Színháznegyedben.",
                   "category": "cultural",
                   "coords": [
                         -95.365342,
@@ -20828,7 +20828,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Jones Hall",
-                  "text": "A Jones Hall a Houston Symphony otthona Houstonban.",
+                  "text": "Koncertterem, a houstoni szimfonikus zenekar otthona a belvárosban.",
                   "category": "cultural",
                   "coords": [
                         -95.365029,
@@ -20837,7 +20837,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Catholic Church",
-                  "text": "Az Annunciation Catholic Church egy történelmi katolikus templom Houston belvárosában.",
+                  "text": "Történelmi római katolikus templom 1870-ből a houstoni Texas Avenue-n.",
                   "category": "religious",
                   "coords": [
                         -95.357257,
@@ -20846,7 +20846,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Az Our Lady of Guadalupe Catholic Church egy történelmi templom, amely a houstoni spanyol ajkú közösséget szolgálja.",
+                  "text": "Történelmi katolikus templom 1912-ből Houston Second Ward negyedében.",
                   "category": "religious",
                   "coords": [
                         -95.345026,
@@ -20873,7 +20873,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "MacGregor Park",
-                  "text": "A MacGregor Park egy park Houston Third Ward negyedében.",
+                  "text": "50 holdas park futópályákkal és teniszpályákkal Houstonban.",
                   "category": "park",
                   "coords": [
                         -95.339813,
@@ -20900,7 +20900,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sam Houston Park",
-                  "text": "A Sam Houston Park egy park Houston belvárosában, történelmi épületekkel.",
+                  "text": "Belvárosi park történelmi házak gyűjteményével.",
                   "category": "park",
                   "coords": [
                         -95.371865,
@@ -20918,7 +20918,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Discovery Green",
-                  "text": "A Discovery Green egy nagy városi park Houston belvárosában.",
+                  "text": "5 hektáros városi park szökőkutakkal és rendezvényterekkel a houstoni belvárosban.",
                   "category": "park",
                   "coords": [
                         -95.359604,
@@ -20936,7 +20936,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Downtown Aquarium",
-                  "text": "A Downtown Aquarium egy akvárium és étteremkomplexum Houstonban.",
+                  "text": "Akvárium és étterem egy 500.000 gallonos tartállyal a houstoni belvárosban.",
                   "category": "recreational",
                   "coords": [
                         -95.367408,
@@ -20965,7 +20965,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Children's Museum of Houston",
-                  "text": "Un muzeu interactiv pentru copii cu exponate practice.",
+                  "text": "Muzeu pentru copii cu peste 90.000 de picioare pătrate de exponate interactive în districtul muzeelor din Houston.",
                   "category": "museum",
                   "coords": [
                         -95.385245,
@@ -20983,7 +20983,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston Museum of Natural Science",
-                  "text": "Un muzeu de științe naturale cu planetariu și centru de fluturi.",
+                  "text": "Muzeu de științe naturale cu o renumită sală a dinozaurilor și planetariu în Houston.",
                   "category": "museum",
                   "coords": [
                         -95.389698,
@@ -21019,7 +21019,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston City Hall",
-                  "text": "Sediul guvernului municipal al orașului Houston.",
+                  "text": "Clădire istorică a primăriei construită în 1939 în centrul Houstonului.",
                   "category": "historical",
                   "coords": [
                         -95.369375,
@@ -21028,7 +21028,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Bayou Music Center",
-                  "text": "Un loc de muzică live care găzduiește concerte și evenimente.",
+                  "text": "Locație de concerte pe malurile Buffalo Bayou în Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.367189,
@@ -21037,7 +21037,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Catedrala Christ Church este catedrala Episcopiei Episcopaliene din Texas, în Houston.",
+                  "text": "Catedrală episcopală în stil gotic revival în centrul Houstonului.",
                   "category": "religious",
                   "coords": [
                         -95.360816,
@@ -21046,7 +21046,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Mother of Mercy Church",
-                  "text": "Our Mother of Mercy Church este o biserică catolică istorică în cartierul Fifth Ward din Houston.",
+                  "text": "Biserică catolică istorică construită în 1910 pe Southmore Boulevard în Houston.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
@@ -21064,7 +21064,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Catedrala Ortodoxă Greacă Annunciation este catedrala Mitropoliei Ortodoxe Grecești din Denver, în Houston.",
+                  "text": "Catedrală ortodoxă greacă în stil bizantin în cartierul Montrose din Houston.",
                   "category": "religious",
                   "coords": [
                         -95.392047,
@@ -21082,7 +21082,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lawndale Art Center",
-                  "text": "Lawndale Art Center este un centru de artă non-profit în cartierul Third Ward din Houston.",
+                  "text": "Centru de artă contemporană în Third Ward din Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.386682,
@@ -21091,7 +21091,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Presbyterian Houston",
-                  "text": "First Presbyterian Houston este una dintre cele mai vechi biserici prezbiteriene din Houston.",
+                  "text": "Biserică prezbiteriană istorică construită în 1928 în centrul Houstonului.",
                   "category": "religious",
                   "coords": [
                         -95.3896,
@@ -21100,7 +21100,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "St. Paul's United Methodist Church",
-                  "text": "St. Paul's United Methodist Church este o biserică metodistă istorică în centrul orașului Houston.",
+                  "text": "Biserică metodistă istorică construită în 1911 în Fourth Ward din Houston.",
                   "category": "religious",
                   "coords": [
                         -95.388704,
@@ -21109,7 +21109,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Miller Outdoor Theatre",
-                  "text": "Miller Outdoor Theatre este un teatru gratuit în aer liber în Hermann Park din Houston.",
+                  "text": "Teatru în aer liber cu spectacole gratuite în Hermann Park, Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.388888,
@@ -21118,7 +21118,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cynthia Woods Mitchell Center for the Arts",
-                  "text": "Cynthia Woods Mitchell Center for the Arts este un loc de spectacole la Universitatea din Houston.",
+                  "text": "Loc de spectacole la Universitatea din Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.344049,
@@ -21127,7 +21127,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Co-Cathedral of the Sacred Heart este co-catedrala Arhiepiscopiei Romano-Catolice de Galveston-Houston din Houston.",
+                  "text": "Catedrală romano-catolică modernă construită în 2008 în centrul Houstonului.",
                   "category": "religious",
                   "coords": [
                         -95.368674,
@@ -21136,7 +21136,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Antioch Missionary Baptist Church",
-                  "text": "Antioch Missionary Baptist Church este o biserică baptistă istorică afro-americană din Houston.",
+                  "text": "Biserică baptistă istorică construită în 1875 în Fourth Ward din Houston.",
                   "category": "religious",
                   "coords": [
                         -95.372057,
@@ -21163,7 +21163,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Alley Theatre",
-                  "text": "Alley Theatre este o companie de teatru profesionistă din Houston.",
+                  "text": "Teatru premiat cu Tony în Districtul Teatrului din Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.365342,
@@ -21172,7 +21172,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Jones Hall",
-                  "text": "Jones Hall este casa Orchestrei Simfonice din Houston.",
+                  "text": "Sala de concerte a Orchestrei Simfonice din Houston în centrul orașului.",
                   "category": "cultural",
                   "coords": [
                         -95.365029,
@@ -21181,7 +21181,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Catholic Church",
-                  "text": "Annunciation Catholic Church este o biserică catolică istorică în centrul orașului Houston.",
+                  "text": "Biserică romano-catolică istorică construită în 1870 pe Texas Avenue în Houston.",
                   "category": "religious",
                   "coords": [
                         -95.357257,
@@ -21190,7 +21190,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Our Lady of Guadalupe Catholic Church este o biserică istorică care deservește comunitatea hispanică din Houston.",
+                  "text": "Biserică catolică istorică construită în 1912 în Second Ward din Houston.",
                   "category": "religious",
                   "coords": [
                         -95.345026,
@@ -21217,7 +21217,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "MacGregor Park",
-                  "text": "MacGregor Park este un parc în cartierul Third Ward din Houston.",
+                  "text": "Parcul de 50 de acri cu piste de alergare și terenuri de tenis în Houston.",
                   "category": "park",
                   "coords": [
                         -95.339813,
@@ -21244,7 +21244,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sam Houston Park",
-                  "text": "Sam Houston Park este un parc în centrul orașului Houston cu clădiri istorice.",
+                  "text": "Parcul din centru cu o colecție de case istorice.",
                   "category": "park",
                   "coords": [
                         -95.371865,
@@ -21262,7 +21262,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Discovery Green",
-                  "text": "Discovery Green este un parc urban mare în centrul orașului Houston.",
+                  "text": "Parcul urban de 12 acri cu fântâni și spații pentru evenimente în centrul Houstonului.",
                   "category": "park",
                   "coords": [
                         -95.359604,
@@ -21280,7 +21280,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Downtown Aquarium",
-                  "text": "Downtown Aquarium este un acvariu și un complex de restaurante din Houston.",
+                  "text": "Acvariu și restaurant cu un rezervor de 500.000 de galoane în centrul Houstonului.",
                   "category": "recreational",
                   "coords": [
                         -95.367408,
@@ -21309,7 +21309,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Children's Museum of Houston",
-                  "text": "An interactive children's museum with hands-on exhibits.",
+                  "text": "Children's museum with over 90,000 square feet of interactive exhibits in the Houston Museum District.",
                   "category": "museum",
                   "coords": [
                         -95.385245,
@@ -21327,7 +21327,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston Museum of Natural Science",
-                  "text": "A natural science museum with a planetarium and a butterfly center.",
+                  "text": "Museum of natural science with a renowned dinosaur hall and planetarium in Houston.",
                   "category": "museum",
                   "coords": [
                         -95.389698,
@@ -21363,7 +21363,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Houston City Hall",
-                  "text": "The seat of municipal government for the city of Houston.",
+                  "text": "Historic city hall building built in 1939 in downtown Houston.",
                   "category": "historical",
                   "coords": [
                         -95.369375,
@@ -21372,7 +21372,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Bayou Music Center",
-                  "text": "A live music venue hosting concerts and events.",
+                  "text": "Music venue on the banks of Buffalo Bayou in Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.367189,
@@ -21381,7 +21381,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Christ Church Cathedral",
-                  "text": "Christ Church Cathedral is the cathedral of the Episcopal Diocese of Texas in Houston.",
+                  "text": "Gothic Revival Episcopal cathedral in downtown Houston.",
                   "category": "religious",
                   "coords": [
                         -95.360816,
@@ -21390,7 +21390,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Mother of Mercy Church",
-                  "text": "Our Mother of Mercy Church is a historic Catholic church in Houston's Fifth Ward.",
+                  "text": "Historic Catholic church built in 1910 on Southmore Boulevard in Houston.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
@@ -21408,7 +21408,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Annunciation Greek Orthodox Cathedral is the cathedral of the Greek Orthodox Metropolis of Denver in Houston.",
+                  "text": "Byzantine-style Greek Orthodox cathedral in the Montrose neighborhood of Houston.",
                   "category": "religious",
                   "coords": [
                         -95.392047,
@@ -21426,7 +21426,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Lawndale Art Center",
-                  "text": "Lawndale Art Center is a nonprofit arts center in Houston's Third Ward.",
+                  "text": "Contemporary art center in the Third Ward of Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.386682,
@@ -21435,7 +21435,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "First Presbyterian Houston",
-                  "text": "First Presbyterian Houston is one of the oldest Presbyterian churches in Houston.",
+                  "text": "Historic Presbyterian church built in 1928 in downtown Houston.",
                   "category": "religious",
                   "coords": [
                         -95.3896,
@@ -21444,7 +21444,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "St. Paul's United Methodist Church",
-                  "text": "St. Paul's United Methodist Church is a historic Methodist church in downtown Houston.",
+                  "text": "Historic United Methodist church built in 1911 in the Fourth Ward of Houston.",
                   "category": "religious",
                   "coords": [
                         -95.388704,
@@ -21453,7 +21453,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Miller Outdoor Theatre",
-                  "text": "Miller Outdoor Theatre is a free outdoor theatre in Hermann Park in Houston.",
+                  "text": "Open-air theater offering free performances in Hermann Park, Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.388888,
@@ -21462,7 +21462,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Cynthia Woods Mitchell Center for the Arts",
-                  "text": "Cynthia Woods Mitchell Center for the Arts is a performing arts venue at the University of Houston.",
+                  "text": "Performance venue at the University of Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.344049,
@@ -21471,7 +21471,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Co-Cathedral of the Sacred Heart is the co-cathedral of the Roman Catholic Archdiocese of Galveston-Houston in Houston.",
+                  "text": "Modern Roman Catholic cathedral built in 2008 in downtown Houston.",
                   "category": "religious",
                   "coords": [
                         -95.368674,
@@ -21480,7 +21480,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Antioch Missionary Baptist Church",
-                  "text": "Antioch Missionary Baptist Church is a historic Black Baptist church in Houston.",
+                  "text": "Historic Baptist church built in 1875 in the Fourth Ward of Houston.",
                   "category": "religious",
                   "coords": [
                         -95.372057,
@@ -21507,7 +21507,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Alley Theatre",
-                  "text": "Alley Theatre is a professional theatre company in Houston.",
+                  "text": "Tony Award-winning theater in the Houston Theater District.",
                   "category": "cultural",
                   "coords": [
                         -95.365342,
@@ -21516,7 +21516,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Jones Hall",
-                  "text": "Jones Hall is the home of the Houston Symphony in Houston.",
+                  "text": "Concert hall home to the Houston Symphony in downtown Houston.",
                   "category": "cultural",
                   "coords": [
                         -95.365029,
@@ -21525,7 +21525,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Annunciation Catholic Church",
-                  "text": "Annunciation Catholic Church is a historic Catholic church in downtown Houston.",
+                  "text": "Historic Roman Catholic church built in 1870 on Texas Avenue in Houston.",
                   "category": "religious",
                   "coords": [
                         -95.357257,
@@ -21534,7 +21534,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Our Lady of Guadalupe Catholic Church is a historic church serving the Hispanic community in Houston.",
+                  "text": "Historic Catholic church built in 1912 in the Second Ward of Houston.",
                   "category": "religious",
                   "coords": [
                         -95.345026,
@@ -21561,7 +21561,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "MacGregor Park",
-                  "text": "MacGregor Park is a park in Houston's Third Ward.",
+                  "text": "50-acre park with jogging trails and tennis courts in Houston.",
                   "category": "park",
                   "coords": [
                         -95.339813,
@@ -21588,7 +21588,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Sam Houston Park",
-                  "text": "Sam Houston Park is a park in downtown Houston featuring historic buildings.",
+                  "text": "Downtown park with a collection of historic houses.",
                   "category": "park",
                   "coords": [
                         -95.371865,
@@ -21606,7 +21606,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Discovery Green",
-                  "text": "Discovery Green is a large urban park in downtown Houston.",
+                  "text": "12-acre urban park with fountains and event spaces in downtown Houston.",
                   "category": "park",
                   "coords": [
                         -95.359604,
@@ -21624,7 +21624,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
             },
             {
                   "name": "Downtown Aquarium",
-                  "text": "Downtown Aquarium is an aquarium and restaurant complex in Houston.",
+                  "text": "Aquarium and restaurant with a 500,000-gallon tank in downtown Houston.",
                   "category": "recreational",
                   "coords": [
                         -95.367408,
@@ -21671,7 +21671,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
       "de": [
             {
                   "name": "Z I Hale Museum",
-                  "text": "Das Z I Hale Museum ist ein Museum in der texanischen Windenergiewirtschaftsregion.",
+                  "text": "Lokales Geschichtsmuseum in der Wind Energy Region.",
                   "category": "museum",
                   "coords": [
                         -99.96148,
@@ -21682,7 +21682,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
       "hu": [
             {
                   "name": "Z I Hale Museum",
-                  "text": "A Z I Hale Múzeum egy múzeum a Texas Szélenergia Gazdasági régiójában.",
+                  "text": "Helytörténeti múzeum a Wind Energy régióban.",
                   "category": "museum",
                   "coords": [
                         -99.96148,
@@ -21693,7 +21693,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
       "ro": [
             {
                   "name": "Z I Hale Museum",
-                  "text": "Muzeul Z I Hale este un muzeu în regiunea economică eoliană din Texas.",
+                  "text": "Muzeu de istorie locală în regiunea Wind Energy.",
                   "category": "museum",
                   "coords": [
                         -99.96148,
@@ -21704,7 +21704,7 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
       "en": [
             {
                   "name": "Z I Hale Museum",
-                  "text": "Z I Hale Museum is a museum in the Texas Wind Energy Economic region.",
+                  "text": "Local history museum in the Wind Energy region.",
                   "category": "museum",
                   "coords": [
                         -99.96148,
@@ -21749,7 +21749,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
       "de": [
             {
                   "name": "United States Naval Shipbuilding Museum",
-                  "text": "Das United States Naval Shipbuilding Museum ist ein Museum in Boston, das die USS Salem beherbergt.",
+                  "text": "Marinemuseum an Bord des Kreuzers USS Salem in Quincy bei Boston.",
                   "category": "museum",
                   "coords": [
                         -70.971697,
@@ -21767,7 +21767,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Edward M. Kennedy Institute for the United States Senate",
-                  "text": "Das Edward M. Kennedy Institute ist ein Museum in Boston, das dem US-Senat gewidmet ist.",
+                  "text": "Institut mit einem originalgetreuen Nachbau des US-Senatssaals nahe der JFK-Bibliothek in Boston.",
                   "category": "museum",
                   "coords": [
                         -71.035431,
@@ -21776,7 +21776,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John F. Kennedy Presidential Library and Museum",
-                  "text": "Die John F. Kennedy Presidential Library and Museum ist ein Museum in Boston, das die Präsidentenbibliothek von John F. Kennedy ist.",
+                  "text": "Präsidentenbibliothek und Museum entworfen von I.M. Pei auf Columbia Point in Boston.",
                   "category": "museum",
                   "coords": [
                         -71.033987,
@@ -21785,7 +21785,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WEZE-AM (Boston)",
-                  "text": "WEZE-AM ist ein Radiosenderturm in Boston.",
+                  "text": "AM-Radioturm in Quincy für den Großraum Boston.",
                   "category": "tower",
                   "coords": [
                         -71.041428,
@@ -21794,7 +21794,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WMEX (AM)",
-                  "text": "WMEX (AM) ist ein Radiosenderturm in Boston.",
+                  "text": "AM-Radiosendeturm in Quincy, Massachusetts.",
                   "category": "tower",
                   "coords": [
                         -71.041454,
@@ -21803,7 +21803,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fore River Bridge",
-                  "text": "Die Fore River Bridge ist eine Hubbrücke in Boston.",
+                  "text": "Klappbrücke über den Fore River zwischen Quincy und Weymouth.",
                   "category": "landmark",
                   "coords": [
                         -70.967211,
@@ -21812,7 +21812,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Quincy Adams Birthplace",
-                  "text": "John Quincy Adams Birthplace ist eine Attraktion in Boston; es ist der Geburtsort von John Quincy Adams.",
+                  "text": "Historisches Haus in Quincy, Geburtshaus von Präsident John Quincy Adams.",
                   "category": "landmark",
                   "coords": [
                         -71.00347,
@@ -21821,7 +21821,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Lovells Island",
-                  "text": "Lovells Island ist ein Park in Boston, Teil der Boston Harbor Islands.",
+                  "text": "Inselpark im Bostoner Hafen mit Stränden und Wanderwegen.",
                   "category": "park",
                   "coords": [
                         -70.927907,
@@ -21830,7 +21830,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Long Island",
-                  "text": "Long Island ist ein Park in Boston, Teil der Boston Harbor Islands.",
+                  "text": "Unbewohnte Insel im Bostoner Hafen, für die Öffentlichkeit gesperrt.",
                   "category": "park",
                   "coords": [
                         -70.965475,
@@ -21839,7 +21839,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Spectacle Island",
-                  "text": "Spectacle Island ist ein Park in Boston, Teil der Boston Harbor Islands.",
+                  "text": "Inselpark im Bostoner Hafen mit Besucherzentrum und Badestrand.",
                   "category": "park",
                   "coords": [
                         -70.986716,
@@ -21848,7 +21848,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Moon Island",
-                  "text": "Moon Island ist ein Park in Boston, Teil der Boston Harbor Islands.",
+                  "text": "Park auf Moon Island, Teil der Boston Harbor Islands National Recreation Area.",
                   "category": "park",
                   "coords": [
                         -70.991108,
@@ -21857,7 +21857,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Governor Hutchinson's Field",
-                  "text": "Governor Hutchinson's Field ist ein Naturschutzgebiet in Boston, ein historisches Feld.",
+                  "text": "Historisches Feld, das Landsitz von Gouverneur Thomas Hutchinson war.",
                   "category": "natural",
                   "coords": [
                         -71.064567,
@@ -21866,7 +21866,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Dorchester Shores Reservation",
-                  "text": "Dorchester Shores Reservation ist ein Park in Boston.",
+                  "text": "Uferpark an der Dorchester Bay in Boston.",
                   "category": "park",
                   "coords": [
                         -71.048612,
@@ -21875,7 +21875,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Georges Island",
-                  "text": "Georges Island ist ein Park in Boston mit Fort Warren.",
+                  "text": "Parkinsel im Boston Harbor mit dem historischen Fort Warren.",
                   "category": "park",
                   "coords": [
                         -70.928164,
@@ -21884,7 +21884,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Forbes Hill Standpipe",
-                  "text": "Forbes Hill Standpipe ist ein Turm in Boston.",
+                  "text": "Ein historischer Standturm in Biotech, der einst der Wasserversorgung diente, mit konischem Dach.",
                   "category": "tower",
                   "coords": [
                         -71.02821,
@@ -21893,7 +21893,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Meeting House Hill",
-                  "text": "Meeting House Hill ist ein Gipfel in Boston.",
+                  "text": "Ein natürlicher Hügel in Biotech, der einen weiten Blick über die Umgebung bietet.",
                   "category": "natural",
                   "coords": [
                         -71.06108,
@@ -21902,7 +21902,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Josiah Quincy House",
-                  "text": "Josiah Quincy House ist ein historisches Hausmuseum in Boston.",
+                  "text": "Ein historisches Hausmuseum in Biotech, Geburtshaus von Josiah Quincy, mit Möbeln aus dem 18. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         -71.014699,
@@ -21911,7 +21911,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Captain Robert Bennet Forbes House",
-                  "text": "Captain Robert Bennet Forbes House ist ein historisches Hausmuseum in Boston.",
+                  "text": "Ein historisches Hausmuseum in Biotech, einst Heimat eines Kapitäns und Philanthropen.",
                   "category": "museum",
                   "coords": [
                         -71.06508,
@@ -21920,7 +21920,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pierce House",
-                  "text": "Pierce House ist ein historisches Hausmuseum in Boston.",
+                  "text": "Ein Hausmuseum aus dem 17. Jahrhundert in Biotech, eines der ältesten Gebäude der Region.",
                   "category": "museum",
                   "coords": [
                         -71.053349,
@@ -21929,7 +21929,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Strong",
-                  "text": "Fort Strong ist ein Fort in Boston.",
+                  "text": "Eine Küstenfestung in Biotech, erbaut zur Verteidigung des Hafens von Boston.",
                   "category": "fortress",
                   "coords": [
                         -70.955936,
@@ -21938,7 +21938,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Independence",
-                  "text": "Fort Independence ist ein Fort in Boston.",
+                  "text": "Eine fünfeckige Festung auf Castle Island in Biotech, heute ein State Park.",
                   "category": "fortress",
                   "coords": [
                         -71.011097,
@@ -21947,7 +21947,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Wintrhop Jr. Iron Furnace",
-                  "text": "John Winthrop Jr. Iron Furnace ist eine archäologische Stätte in Boston.",
+                  "text": "Eine historische Eisenhütte in Biotech, eine der ersten in den amerikanischen Kolonien.",
                   "category": "historical",
                   "coords": [
                         -71.02718,
@@ -21956,7 +21956,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "All Souls Unitarian Universalist Church",
-                  "text": "All Souls Unitarian Universalist Church ist ein Gotteshaus in Boston.",
+                  "text": "Eine unitarisch-universalistische Kirche in Biotech mit Steinfassade und Fensterrose.",
                   "category": "religious",
                   "coords": [
                         -71.000803,
@@ -21965,7 +21965,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Wollaston Congregational Church",
-                  "text": "Wollaston Congregational Church ist ein Gotteshaus in Boston.",
+                  "text": "Eine kongregationalistische Kirche in Biotech mit weißem Turm und historischem Charakter.",
                   "category": "religious",
                   "coords": [
                         -71.020031,
@@ -21974,7 +21974,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Bethel Hispanic Seventh-day Adventist Church",
-                  "text": "Bethel Hispanic Seventh-day Adventist Church ist ein Gotteshaus in Boston.",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten in Biotech mit Gottesdiensten auf Spanisch.",
                   "category": "religious",
                   "coords": [
                         -71.061314,
@@ -21983,7 +21983,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "The Parish of All Saints",
-                  "text": "The Parish of All Saints ist ein Gotteshaus in Boston.",
+                  "text": "Eine bischöfliche Kirche in Biotech, bekannt für ihr Gemeindezentrum und Aktivitäten.",
                   "category": "religious",
                   "coords": [
                         -71.063123,
@@ -21992,7 +21992,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Community Church of Neponset",
-                  "text": "Community Church of Neponset ist ein Gotteshaus in Boston.",
+                  "text": "Eine überkonfessionelle Gemeindekirche im Neponset-Gebiet von Biotech.",
                   "category": "religious",
                   "coords": [
                         -71.040947,
@@ -22001,7 +22001,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Quincy Bay",
-                  "text": "Quincy Bay ist eine Bucht in Boston.",
+                  "text": "Quincy Bay, eine Bucht an der Küste von Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.974492,
@@ -22010,7 +22010,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Walton Cove",
-                  "text": "Walton Cove ist eine Bucht in Boston.",
+                  "text": "Walton Cove, eine kleine Bucht an der Küste von Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.895892,
@@ -22019,7 +22019,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pleasure Bay",
-                  "text": "Pleasure Bay ist eine Bucht in Boston.",
+                  "text": "Pleasure Bay, eine Freizeitbucht in Biotech.",
                   "category": "landmark",
                   "coords": [
                         -71.017479,
@@ -22028,7 +22028,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Boston Harbor",
-                  "text": "Boston Harbor ist eine Bucht in Boston.",
+                  "text": "Boston Harbor, ein Naturhafen in Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.96616,
@@ -22037,7 +22037,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Deer Island Light",
-                  "text": "Deer Island Light ist ein Leuchtturm im Bostoner Hafen.",
+                  "text": "Deer Island Light, ein Leuchtturm auf Deer Island bei Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.954508,
@@ -22046,7 +22046,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "West Head",
-                  "text": "Eine Klippe auf der Westseite einer Insel in Boston.",
+                  "text": "West Head, ein felsiges Vorgebirge an der Westküste von Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.975533,
@@ -22055,7 +22055,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Baxter Street Historic District",
-                  "text": "Ein historischer Bezirk im Gebiet von Boston.",
+                  "text": "Baxter Street Historic District, ein historisches Viertel mit erhaltenen Gebäuden an der Baxter Street.",
                   "category": "landmark",
                   "coords": [
                         -70.995048,
@@ -22064,7 +22064,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Savin Hill Cove",
-                  "text": "Eine kleine Bucht im Stadtteil Dorchester von Boston.",
+                  "text": "Savin Hill Cove, eine Bucht an der Küste von Biotech bei Savin Hill.",
                   "category": "landmark",
                   "coords": [
                         -71.043383,
@@ -22075,7 +22075,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
       "hu": [
             {
                   "name": "United States Naval Shipbuilding Museum",
-                  "text": "Az United States Naval Shipbuilding Museum egy múzeum Bostonban, amely a USS Salem otthona.",
+                  "text": "Haditengerészeti múzeum a USS Salem cirkáló fedélzetén Quincyben, Boston közelében.",
                   "category": "museum",
                   "coords": [
                         -70.971697,
@@ -22093,7 +22093,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Edward M. Kennedy Institute for the United States Senate",
-                  "text": "Az Edward M. Kennedy Institute egy múzeum Bostonban, amely az Egyesült Államok Szenátusának szentelt.",
+                  "text": "Intézet az USA Szenátusának teljes méretű másolatával a JFK Könyvtár közelében Bostonban.",
                   "category": "museum",
                   "coords": [
                         -71.035431,
@@ -22102,7 +22102,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John F. Kennedy Presidential Library and Museum",
-                  "text": "A John F. Kennedy Presidential Library and Museum egy múzeum Bostonban, amely John F. Kennedy elnöki könyvtára.",
+                  "text": "Elnöki könyvtár és múzeum, I.M. Pei tervei alapján a bostoni Columbia Pointon.",
                   "category": "museum",
                   "coords": [
                         -71.033987,
@@ -22111,7 +22111,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WEZE-AM (Boston)",
-                  "text": "A WEZE-AM egy rádióadó-torony Bostonban.",
+                  "text": "AM rádiótorony Quincyben, a bostoni térség számára.",
                   "category": "tower",
                   "coords": [
                         -71.041428,
@@ -22120,7 +22120,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WMEX (AM)",
-                  "text": "A WMEX (AM) egy rádióadó-torony Bostonban.",
+                  "text": "AM rádióállomás torony Quincyben, Massachusetts államban.",
                   "category": "tower",
                   "coords": [
                         -71.041454,
@@ -22129,7 +22129,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fore River Bridge",
-                  "text": "A Fore River Bridge egy függőleges híd Bostonban.",
+                  "text": "Felnyitható híd a Fore River felett Quincy és Weymouth között.",
                   "category": "landmark",
                   "coords": [
                         -70.967211,
@@ -22138,7 +22138,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Quincy Adams Birthplace",
-                  "text": "John Quincy Adams szülőhelye egy látványosság Bostonban; John Quincy Adams születési helye.",
+                  "text": "Történelmi ház Quincyben, John Quincy Adams elnök szülőháza.",
                   "category": "landmark",
                   "coords": [
                         -71.00347,
@@ -22147,7 +22147,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Lovells Island",
-                  "text": "A Lovells Island egy park Bostonban, a Boston Harbor Islands része.",
+                  "text": "Sziget park a bostoni kikötőben strandokkal és túraútvonalakkal.",
                   "category": "park",
                   "coords": [
                         -70.927907,
@@ -22156,7 +22156,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Long Island",
-                  "text": "A Long Island egy park Bostonban, a Boston Harbor Islands része.",
+                  "text": "Lakatlan sziget a bostoni kikötőben, a nyilvánosság elől elzárva.",
                   "category": "park",
                   "coords": [
                         -70.965475,
@@ -22165,7 +22165,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Spectacle Island",
-                  "text": "A Spectacle Island egy park Bostonban, a Boston Harbor Islands része.",
+                  "text": "Sziget park a bostoni kikötőben látogatóközponttal és fürdőstranddal.",
                   "category": "park",
                   "coords": [
                         -70.986716,
@@ -22174,7 +22174,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Moon Island",
-                  "text": "A Moon Island egy park Bostonban, a Boston Harbor Islands része.",
+                  "text": "Park a Moon Islandon, a Boston Harbor Islands Nemzeti Rekreációs Terület része.",
                   "category": "park",
                   "coords": [
                         -70.991108,
@@ -22183,7 +22183,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Governor Hutchinson's Field",
-                  "text": "A Governor Hutchinson's Field egy természetvédelmi terület Bostonban, egy történelmi mező.",
+                  "text": "Történelmi mező, amely Thomas Hutchinson kormányzó birtoka volt.",
                   "category": "natural",
                   "coords": [
                         -71.064567,
@@ -22192,7 +22192,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Dorchester Shores Reservation",
-                  "text": "A Dorchester Shores Reservation egy park Bostonban.",
+                  "text": "Parti park a Dorchester-öbölben, Bostonban.",
                   "category": "park",
                   "coords": [
                         -71.048612,
@@ -22201,7 +22201,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Georges Island",
-                  "text": "A Georges Island egy park Bostonban, Fort Warrennel.",
+                  "text": "Park-sziget a Boston Harborban, a történelmi Fort Warren erőddel.",
                   "category": "park",
                   "coords": [
                         -70.928164,
@@ -22210,7 +22210,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Forbes Hill Standpipe",
-                  "text": "A Forbes Hill Standpipe egy torony Bostonban.",
+                  "text": "Egy történelmi álló víztorony Biotechban, kúpos tetővel, egykor vízellátásra használták.",
                   "category": "tower",
                   "coords": [
                         -71.02821,
@@ -22219,7 +22219,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Meeting House Hill",
-                  "text": "A Meeting House Hill egy csúcs Bostonban.",
+                  "text": "Egy természetes domb Biotechban, amely kilátást nyújt a környékre.",
                   "category": "natural",
                   "coords": [
                         -71.06108,
@@ -22228,7 +22228,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Josiah Quincy House",
-                  "text": "A Josiah Quincy House egy történelmi házmúzeum Bostonban.",
+                  "text": "Egy történelmi házmúzeum Biotechban, Josiah Quincy szülőháza, 18. századi bútorokkal.",
                   "category": "museum",
                   "coords": [
                         -71.014699,
@@ -22237,7 +22237,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Captain Robert Bennet Forbes House",
-                  "text": "A Captain Robert Bennet Forbes House egy történelmi házmúzeum Bostonban.",
+                  "text": "Egy történelmi házmúzeum Biotechban, egy kapitány és filantróp egykori otthona.",
                   "category": "museum",
                   "coords": [
                         -71.06508,
@@ -22246,7 +22246,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pierce House",
-                  "text": "A Pierce House egy történelmi házmúzeum Bostonban.",
+                  "text": "Egy 17. századi házmúzeum Biotechban, a régió egyik legrégebbi épülete.",
                   "category": "museum",
                   "coords": [
                         -71.053349,
@@ -22255,7 +22255,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Strong",
-                  "text": "A Fort Strong egy erőd Bostonban.",
+                  "text": "Egy part menti erőd Biotechban, Boston kikötőjének védelmére épült.",
                   "category": "fortress",
                   "coords": [
                         -70.955936,
@@ -22264,7 +22264,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Independence",
-                  "text": "A Fort Independence egy erőd Bostonban.",
+                  "text": "Egy ötszögletű erőd a Castle Islanden Biotechban, ma állami park.",
                   "category": "fortress",
                   "coords": [
                         -71.011097,
@@ -22273,7 +22273,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Wintrhop Jr. Iron Furnace",
-                  "text": "A John Winthrop Jr. Iron Furnace egy régészeti lelőhely Bostonban.",
+                  "text": "Egy történelmi vaskohó Biotechban, az első vasolvasztók egyike az amerikai gyarmatokon.",
                   "category": "historical",
                   "coords": [
                         -71.02718,
@@ -22282,7 +22282,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "All Souls Unitarian Universalist Church",
-                  "text": "Az All Souls Unitarian Universalist Church egy istentiszteleti hely Bostonban.",
+                  "text": "Egy unitárius univerzalista templom Biotechban, kőhomlokzattal és rózsaablakkal.",
                   "category": "religious",
                   "coords": [
                         -71.000803,
@@ -22291,7 +22291,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Wollaston Congregational Church",
-                  "text": "A Wollaston Congregational Church egy istentiszteleti hely Bostonban.",
+                  "text": "Egy kongregacionalista templom Biotechban, fehér toronnyal és történelmi jelleggel.",
                   "category": "religious",
                   "coords": [
                         -71.020031,
@@ -22300,7 +22300,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Bethel Hispanic Seventh-day Adventist Church",
-                  "text": "A Bethel Hispanic Seventh-day Adventist Church egy istentiszteleti hely Bostonban.",
+                  "text": "Egy hetednapi adventista templom Biotechban, spanyol nyelvű istentiszteletekkel.",
                   "category": "religious",
                   "coords": [
                         -71.061314,
@@ -22309,7 +22309,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "The Parish of All Saints",
-                  "text": "A The Parish of All Saints egy istentiszteleti hely Bostonban.",
+                  "text": "Egy episzkopális templom Biotechban, közösségi terméről és programjairól ismert.",
                   "category": "religious",
                   "coords": [
                         -71.063123,
@@ -22318,7 +22318,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Community Church of Neponset",
-                  "text": "A Community Church of Neponset egy istentiszteleti hely Bostonban.",
+                  "text": "Egy felekezetközi közösségi templom Biotech Neponset negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.040947,
@@ -22327,7 +22327,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Quincy Bay",
-                  "text": "A Quincy Bay egy öböl Bostonban.",
+                  "text": "Quincy Bay, egy öböl Biotech partján.",
                   "category": "landmark",
                   "coords": [
                         -70.974492,
@@ -22336,7 +22336,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Walton Cove",
-                  "text": "A Walton Cove egy öböl Bostonban.",
+                  "text": "Walton Cove, egy kis öböl Biotech partvonalán.",
                   "category": "landmark",
                   "coords": [
                         -70.895892,
@@ -22345,7 +22345,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pleasure Bay",
-                  "text": "A Pleasure Bay egy öböl Bostonban.",
+                  "text": "Pleasure Bay, egy szabadidős öböl Biotechben.",
                   "category": "landmark",
                   "coords": [
                         -71.017479,
@@ -22354,7 +22354,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Boston Harbor",
-                  "text": "A Boston Harbor egy öböl Bostonban.",
+                  "text": "Boston Harbor, egy természetes kikötő Biotechben.",
                   "category": "landmark",
                   "coords": [
                         -70.96616,
@@ -22363,7 +22363,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Deer Island Light",
-                  "text": "A Deer Island Light egy világítótorony a bostoni kikötőben.",
+                  "text": "Deer Island Light, egy világítótorony a Deer Islandon, Biotech közelében.",
                   "category": "landmark",
                   "coords": [
                         -70.954508,
@@ -22372,7 +22372,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "West Head",
-                  "text": "Egy szikla egy sziget nyugati oldalán, Bostonban.",
+                  "text": "West Head, egy sziklás hegyfok Biotech nyugati partján.",
                   "category": "landmark",
                   "coords": [
                         -70.975533,
@@ -22381,7 +22381,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Baxter Street Historic District",
-                  "text": "Egy történelmi negyed Boston térségében.",
+                  "text": "Baxter Street Historic District, egy történelmi negyed megőrzött épületekkel a Baxter Streeten.",
                   "category": "landmark",
                   "coords": [
                         -70.995048,
@@ -22390,7 +22390,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Savin Hill Cove",
-                  "text": "Egy kis öböl Boston Dorchester negyedében.",
+                  "text": "Savin Hill Cove, egy öböl Biotech partján, Savin Hill közelében.",
                   "category": "landmark",
                   "coords": [
                         -71.043383,
@@ -22401,7 +22401,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
       "ro": [
             {
                   "name": "United States Naval Shipbuilding Museum",
-                  "text": "Muzeul de Construcții Navale al Statelor Unite este un muzeu din Boston care găzduiește USS Salem.",
+                  "text": "Muzeu naval la bordul crucișătorului USS Salem în Quincy, lângă Boston.",
                   "category": "museum",
                   "coords": [
                         -70.971697,
@@ -22419,7 +22419,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Edward M. Kennedy Institute for the United States Senate",
-                  "text": "Institutul Edward M. Kennedy este un muzeu din Boston dedicat Senatului Statelor Unite.",
+                  "text": "Institut cu o replică la scară reală a sălii Senatului SUA lângă Biblioteca JFK din Boston.",
                   "category": "museum",
                   "coords": [
                         -71.035431,
@@ -22428,7 +22428,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John F. Kennedy Presidential Library and Museum",
-                  "text": "Biblioteca și Muzeul Prezidențial John F. Kennedy este un muzeu din Boston, biblioteca prezidențială a lui John F. Kennedy.",
+                  "text": "Biblioteca și muzeul prezidențial proiectate de I.M. Pei pe Columbia Point din Boston.",
                   "category": "museum",
                   "coords": [
                         -71.033987,
@@ -22437,7 +22437,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WEZE-AM (Boston)",
-                  "text": "WEZE-AM este un turn de radio în Boston.",
+                  "text": "Turn de radio AM în Quincy care transmite pentru zona Boston.",
                   "category": "tower",
                   "coords": [
                         -71.041428,
@@ -22446,7 +22446,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WMEX (AM)",
-                  "text": "WMEX (AM) este un turn de radio în Boston.",
+                  "text": "Turn de post de radio AM în Quincy, Massachusetts.",
                   "category": "tower",
                   "coords": [
                         -71.041454,
@@ -22455,7 +22455,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fore River Bridge",
-                  "text": "Podul Fore River este un pod vertical de ridicare din Boston.",
+                  "text": "Pod basculant peste râul Fore care leagă Quincy de Weymouth.",
                   "category": "landmark",
                   "coords": [
                         -70.967211,
@@ -22464,7 +22464,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Quincy Adams Birthplace",
-                  "text": "Locul de naștere al lui John Quincy Adams este o atracție în Boston; este locul de naștere al lui John Quincy Adams.",
+                  "text": "Casă istorică în Quincy, locul nașterii președintelui John Quincy Adams.",
                   "category": "landmark",
                   "coords": [
                         -71.00347,
@@ -22473,7 +22473,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Lovells Island",
-                  "text": "Lovells Island este un parc în Boston, parte a Insulelor Boston Harbor.",
+                  "text": "Parcul insular din portul Boston cu plaje și trasee de drumeție.",
                   "category": "park",
                   "coords": [
                         -70.927907,
@@ -22482,7 +22482,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Long Island",
-                  "text": "Long Island este un parc în Boston, parte a Insulelor Boston Harbor.",
+                  "text": "Insulă nelocuită în portul Boston, închisă publicului.",
                   "category": "park",
                   "coords": [
                         -70.965475,
@@ -22491,7 +22491,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Spectacle Island",
-                  "text": "Spectacle Island este un parc în Boston, parte a Insulelor Boston Harbor.",
+                  "text": "Parcul insular din portul Boston cu centru de vizitare și plajă pentru înot.",
                   "category": "park",
                   "coords": [
                         -70.986716,
@@ -22500,7 +22500,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Moon Island",
-                  "text": "Moon Island este un parc în Boston, parte a Insulelor Boston Harbor.",
+                  "text": "Parcul de pe Insula Lunii, parte a Zonei Naționale de Recreere Boston Harbor Islands.",
                   "category": "park",
                   "coords": [
                         -70.991108,
@@ -22509,7 +22509,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Governor Hutchinson's Field",
-                  "text": "Governor Hutchinson's Field este o rezervație naturală în Boston, un câmp istoric.",
+                  "text": "Câmp istoric, fosta proprietate a guvernatorului Thomas Hutchinson.",
                   "category": "natural",
                   "coords": [
                         -71.064567,
@@ -22518,7 +22518,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Dorchester Shores Reservation",
-                  "text": "Dorchester Shores Reservation este un parc în Boston.",
+                  "text": "Parcul de pe malul golfului Dorchester din Boston.",
                   "category": "park",
                   "coords": [
                         -71.048612,
@@ -22527,7 +22527,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Georges Island",
-                  "text": "Georges Island este un parc în Boston cu Fort Warren.",
+                  "text": "Insulă-parc în portul Boston, cu fortul istoric Fort Warren.",
                   "category": "park",
                   "coords": [
                         -70.928164,
@@ -22536,7 +22536,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Forbes Hill Standpipe",
-                  "text": "Forbes Hill Standpipe este un turn în Boston.",
+                  "text": "Un turn de apă istoric în Biotech, cu acoperiș conic, folosit odinioară pentru alimentarea cu apă.",
                   "category": "tower",
                   "coords": [
                         -71.02821,
@@ -22545,7 +22545,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Meeting House Hill",
-                  "text": "Meeting House Hill este un vârf în Boston.",
+                  "text": "Un deal natural în Biotech, care oferă o vedere asupra zonei înconjurătoare.",
                   "category": "natural",
                   "coords": [
                         -71.06108,
@@ -22554,7 +22554,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Josiah Quincy House",
-                  "text": "Josiah Quincy House este un muzeu al casei istorice în Boston.",
+                  "text": "Un muzeu-casă istoric în Biotech, casa natală a lui Josiah Quincy, cu mobilier din secolul al XVIII-lea.",
                   "category": "museum",
                   "coords": [
                         -71.014699,
@@ -22563,7 +22563,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Captain Robert Bennet Forbes House",
-                  "text": "Captain Robert Bennet Forbes House este un muzeu al casei istorice în Boston.",
+                  "text": "Un muzeu-casă istoric în Biotech, fosta casă a unui căpitan de navă și filantrop.",
                   "category": "museum",
                   "coords": [
                         -71.06508,
@@ -22572,7 +22572,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pierce House",
-                  "text": "Pierce House este un muzeu al casei istorice în Boston.",
+                  "text": "Un muzeu-casă din secolul al XVII-lea în Biotech, una dintre cele mai vechi clădiri din zonă.",
                   "category": "museum",
                   "coords": [
                         -71.053349,
@@ -22581,7 +22581,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Strong",
-                  "text": "Fort Strong este un fort în Boston.",
+                  "text": "O fortăreață de coastă în Biotech, construită pentru apărarea portului Boston.",
                   "category": "fortress",
                   "coords": [
                         -70.955936,
@@ -22590,7 +22590,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Independence",
-                  "text": "Fort Independence este un fort în Boston.",
+                  "text": "O fortăreață pentagonală pe Castle Island din Biotech, acum un parc de stat.",
                   "category": "fortress",
                   "coords": [
                         -71.011097,
@@ -22599,7 +22599,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Wintrhop Jr. Iron Furnace",
-                  "text": "John Winthrop Jr. Iron Furnace este un sit arheologic în Boston.",
+                  "text": "Un cuptor de fier istoric în Biotech, unul dintre primele din coloniile americane.",
                   "category": "historical",
                   "coords": [
                         -71.02718,
@@ -22608,7 +22608,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "All Souls Unitarian Universalist Church",
-                  "text": "All Souls Unitarian Universalist Church este un loc de cult în Boston.",
+                  "text": "O biserică unitarian-universalistă în Biotech, cu fațadă de piatră și un rozaceu.",
                   "category": "religious",
                   "coords": [
                         -71.000803,
@@ -22617,7 +22617,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Wollaston Congregational Church",
-                  "text": "Wollaston Congregational Church este un loc de cult în Boston.",
+                  "text": "O biserică congregațională în Biotech, cu un turn alb și caracter istoric.",
                   "category": "religious",
                   "coords": [
                         -71.020031,
@@ -22626,7 +22626,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Bethel Hispanic Seventh-day Adventist Church",
-                  "text": "Bethel Hispanic Seventh-day Adventist Church este un loc de cult în Boston.",
+                  "text": "O biserică adventistă de ziua a șaptea în Biotech, cu slujbe în limba spaniolă.",
                   "category": "religious",
                   "coords": [
                         -71.061314,
@@ -22635,7 +22635,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "The Parish of All Saints",
-                  "text": "The Parish of All Saints este un loc de cult în Boston.",
+                  "text": "O biserică episcopală în Biotech, cunoscută pentru sala sa parohială și activități.",
                   "category": "religious",
                   "coords": [
                         -71.063123,
@@ -22644,7 +22644,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Community Church of Neponset",
-                  "text": "Community Church of Neponset este un loc de cult în Boston.",
+                  "text": "O biserică comunitară interconfesională în zona Neponset din Biotech.",
                   "category": "religious",
                   "coords": [
                         -71.040947,
@@ -22653,7 +22653,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Quincy Bay",
-                  "text": "Quincy Bay este un golf în Boston.",
+                  "text": "Quincy Bay, un golf pe coasta Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.974492,
@@ -22662,7 +22662,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Walton Cove",
-                  "text": "Walton Cove este un golf în Boston.",
+                  "text": "Walton Cove, un mic golf pe linia de coastă a Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.895892,
@@ -22671,7 +22671,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pleasure Bay",
-                  "text": "Pleasure Bay este un golf în Boston.",
+                  "text": "Pleasure Bay, un golf de agrement în Biotech.",
                   "category": "landmark",
                   "coords": [
                         -71.017479,
@@ -22680,7 +22680,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Boston Harbor",
-                  "text": "Boston Harbor este un golf în Boston.",
+                  "text": "Boston Harbor, un port natural în Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.96616,
@@ -22689,7 +22689,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Deer Island Light",
-                  "text": "Deer Island Light este un far în portul Boston.",
+                  "text": "Deer Island Light, un far pe insula Deer Island lângă Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.954508,
@@ -22698,7 +22698,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "West Head",
-                  "text": "O stâncă pe partea de vest a unei insule din Boston.",
+                  "text": "West Head, un promontoriu stâncos pe coasta de vest a Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.975533,
@@ -22707,7 +22707,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Baxter Street Historic District",
-                  "text": "Un district istoric în zona Bostonului.",
+                  "text": "Baxter Street Historic District, un cartier istoric cu clădiri conservate pe Baxter Street.",
                   "category": "landmark",
                   "coords": [
                         -70.995048,
@@ -22716,7 +22716,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Savin Hill Cove",
-                  "text": "Un mic golf în cartierul Dorchester din Boston.",
+                  "text": "Savin Hill Cove, un golf pe coasta Biotech, lângă Savin Hill.",
                   "category": "landmark",
                   "coords": [
                         -71.043383,
@@ -22727,7 +22727,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
       "en": [
             {
                   "name": "United States Naval Shipbuilding Museum",
-                  "text": "The United States Naval Shipbuilding Museum is a museum in Boston that is home to the USS Salem.",
+                  "text": "Naval museum aboard the cruiser USS Salem in Quincy, near Boston.",
                   "category": "museum",
                   "coords": [
                         -70.971697,
@@ -22745,7 +22745,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Edward M. Kennedy Institute for the United States Senate",
-                  "text": "The Edward M. Kennedy Institute is a museum in Boston dedicated to the United States Senate.",
+                  "text": "Institute with a full-scale replica of the U.S. Senate chamber near the JFK Library in Boston.",
                   "category": "museum",
                   "coords": [
                         -71.035431,
@@ -22754,7 +22754,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John F. Kennedy Presidential Library and Museum",
-                  "text": "The John F. Kennedy Presidential Library and Museum is a museum in Boston that is the presidential library of John F. Kennedy.",
+                  "text": "Presidential library and museum designed by I.M. Pei on Columbia Point in Boston.",
                   "category": "museum",
                   "coords": [
                         -71.033987,
@@ -22763,7 +22763,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WEZE-AM (Boston)",
-                  "text": "WEZE-AM is a radio station tower in Boston.",
+                  "text": "AM radio tower in Quincy transmitting for the Boston area.",
                   "category": "tower",
                   "coords": [
                         -71.041428,
@@ -22772,7 +22772,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "WMEX (AM)",
-                  "text": "WMEX (AM) is a radio station tower in Boston.",
+                  "text": "AM radio station tower in Quincy, Massachusetts.",
                   "category": "tower",
                   "coords": [
                         -71.041454,
@@ -22781,7 +22781,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fore River Bridge",
-                  "text": "The Fore River Bridge is a vertical lift bridge in Boston.",
+                  "text": "Bascule bridge over the Fore River connecting Quincy and Weymouth.",
                   "category": "landmark",
                   "coords": [
                         -70.967211,
@@ -22790,7 +22790,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Quincy Adams Birthplace",
-                  "text": "John Quincy Adams Birthplace is an attraction in Boston; it is the birthplace of John Quincy Adams.",
+                  "text": "Historic house in Quincy, birthplace of President John Quincy Adams.",
                   "category": "landmark",
                   "coords": [
                         -71.00347,
@@ -22799,7 +22799,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Lovells Island",
-                  "text": "Lovells Island is a park in Boston, part of the Boston Harbor Islands.",
+                  "text": "Island park in Boston Harbor with beaches and hiking trails.",
                   "category": "park",
                   "coords": [
                         -70.927907,
@@ -22808,7 +22808,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Long Island",
-                  "text": "Long Island is a park in Boston, part of the Boston Harbor Islands.",
+                  "text": "Uninhabited island in Boston Harbor, closed to the public.",
                   "category": "park",
                   "coords": [
                         -70.965475,
@@ -22817,7 +22817,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Spectacle Island",
-                  "text": "Spectacle Island is a park in Boston, part of the Boston Harbor Islands.",
+                  "text": "Island park in Boston Harbor with a visitor center and swimming beach.",
                   "category": "park",
                   "coords": [
                         -70.986716,
@@ -22826,7 +22826,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Moon Island",
-                  "text": "Moon Island is a park in Boston, part of the Boston Harbor Islands.",
+                  "text": "Park on Moon Island, part of the Boston Harbor Islands National Recreation Area.",
                   "category": "park",
                   "coords": [
                         -70.991108,
@@ -22835,7 +22835,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Governor Hutchinson's Field",
-                  "text": "Governor Hutchinson's Field is a nature reserve in Boston, a historic field.",
+                  "text": "Historic field that was the country estate of Governor Thomas Hutchinson.",
                   "category": "natural",
                   "coords": [
                         -71.064567,
@@ -22844,7 +22844,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Dorchester Shores Reservation",
-                  "text": "Dorchester Shores Reservation is a park in Boston.",
+                  "text": "Waterfront park on Dorchester Bay in Boston.",
                   "category": "park",
                   "coords": [
                         -71.048612,
@@ -22853,7 +22853,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Georges Island",
-                  "text": "Georges Island is a park in Boston with Fort Warren.",
+                  "text": "Park island in Boston Harbor, home to Fort Warren.",
                   "category": "park",
                   "coords": [
                         -70.928164,
@@ -22862,7 +22862,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Forbes Hill Standpipe",
-                  "text": "Forbes Hill Standpipe is a tower in Boston.",
+                  "text": "A historic standpipe tower in Biotech, once used for water supply, with a conical roof.",
                   "category": "tower",
                   "coords": [
                         -71.02821,
@@ -22871,7 +22871,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Meeting House Hill",
-                  "text": "Meeting House Hill is a peak in Boston.",
+                  "text": "A natural hill in Biotech, offering views of the surrounding area.",
                   "category": "natural",
                   "coords": [
                         -71.06108,
@@ -22880,7 +22880,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Josiah Quincy House",
-                  "text": "Josiah Quincy House is a historic house museum in Boston.",
+                  "text": "A historic house museum in Biotech, birthplace of Josiah Quincy, with 18th-century furnishings.",
                   "category": "museum",
                   "coords": [
                         -71.014699,
@@ -22889,7 +22889,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Captain Robert Bennet Forbes House",
-                  "text": "Captain Robert Bennet Forbes House is a historic house museum in Boston.",
+                  "text": "A historic house museum in Biotech, once home to a sea captain and philanthropist.",
                   "category": "museum",
                   "coords": [
                         -71.06508,
@@ -22898,7 +22898,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pierce House",
-                  "text": "Pierce House is a historic house museum in Boston.",
+                  "text": "A 17th-century house museum in Biotech, one of the oldest buildings in the area.",
                   "category": "museum",
                   "coords": [
                         -71.053349,
@@ -22907,7 +22907,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Strong",
-                  "text": "Fort Strong is a fort in Boston.",
+                  "text": "A coastal fort in Biotech, built to defend Boston Harbor.",
                   "category": "fortress",
                   "coords": [
                         -70.955936,
@@ -22916,7 +22916,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Fort Independence",
-                  "text": "Fort Independence is a fort in Boston.",
+                  "text": "A pentagonal fort on Castle Island in Biotech, now a state park.",
                   "category": "fortress",
                   "coords": [
                         -71.011097,
@@ -22925,7 +22925,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "John Wintrhop Jr. Iron Furnace",
-                  "text": "John Winthrop Jr. Iron Furnace is an archaeological site in Boston.",
+                  "text": "A historic iron furnace site in Biotech, one of the first in the American colonies.",
                   "category": "historical",
                   "coords": [
                         -71.02718,
@@ -22934,7 +22934,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "All Souls Unitarian Universalist Church",
-                  "text": "All Souls Unitarian Universalist Church is a place of worship in Boston.",
+                  "text": "A Unitarian Universalist church in Biotech with a stone façade and a rose window.",
                   "category": "religious",
                   "coords": [
                         -71.000803,
@@ -22943,7 +22943,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Wollaston Congregational Church",
-                  "text": "Wollaston Congregational Church is a place of worship in Boston.",
+                  "text": "A Congregational church in Biotech with a white tower and historic character.",
                   "category": "religious",
                   "coords": [
                         -71.020031,
@@ -22952,7 +22952,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Bethel Hispanic Seventh-day Adventist Church",
-                  "text": "Bethel Hispanic Seventh-day Adventist Church is a place of worship in Boston.",
+                  "text": "A Seventh-day Adventist church in Biotech holding services in Spanish.",
                   "category": "religious",
                   "coords": [
                         -71.061314,
@@ -22961,7 +22961,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "The Parish of All Saints",
-                  "text": "The Parish of All Saints is a place of worship in Boston.",
+                  "text": "An Episcopal church in Biotech, known for its parish hall and community programs.",
                   "category": "religious",
                   "coords": [
                         -71.063123,
@@ -22970,7 +22970,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Community Church of Neponset",
-                  "text": "Community Church of Neponset is a place of worship in Boston.",
+                  "text": "An interdenominational community church in the Neponset area of Biotech.",
                   "category": "religious",
                   "coords": [
                         -71.040947,
@@ -22979,7 +22979,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Quincy Bay",
-                  "text": "Quincy Bay is a bay in Boston.",
+                  "text": "Quincy Bay, a bay on the coast of Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.974492,
@@ -22988,7 +22988,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Walton Cove",
-                  "text": "Walton Cove is a bay in Boston.",
+                  "text": "Walton Cove, a small cove on the Biotech shoreline.",
                   "category": "landmark",
                   "coords": [
                         -70.895892,
@@ -22997,7 +22997,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Pleasure Bay",
-                  "text": "Pleasure Bay is a bay in Boston.",
+                  "text": "Pleasure Bay, a recreational bay in Biotech.",
                   "category": "landmark",
                   "coords": [
                         -71.017479,
@@ -23006,7 +23006,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Boston Harbor",
-                  "text": "Boston Harbor is a bay in Boston.",
+                  "text": "Boston Harbor, a natural harbor in Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.96616,
@@ -23015,7 +23015,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Deer Island Light",
-                  "text": "Deer Island Light is a lighthouse in Boston Harbor.",
+                  "text": "Deer Island Light, a lighthouse on Deer Island near Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.954508,
@@ -23024,7 +23024,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "West Head",
-                  "text": "A cliff on the western side of an island in Boston.",
+                  "text": "West Head, a rocky headland on the western coast of Biotech.",
                   "category": "landmark",
                   "coords": [
                         -70.975533,
@@ -23033,7 +23033,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Baxter Street Historic District",
-                  "text": "A historic district in the Boston area.",
+                  "text": "Baxter Street Historic District, a historic district with preserved buildings on Baxter Street.",
                   "category": "landmark",
                   "coords": [
                         -70.995048,
@@ -23042,7 +23042,7 @@ factsAdvanced: { de: ["Texas produziert mit weitem Abstand die meiste Windenergi
             },
             {
                   "name": "Savin Hill Cove",
-                  "text": "A small bay in the Dorchester neighborhood of Boston.",
+                  "text": "Savin Hill Cove, a cove on the Biotech coast near Savin Hill.",
                   "category": "landmark",
                   "coords": [
                         -71.043383,
@@ -23087,7 +23087,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       "de": [
             {
                   "name": "Anchorage Museum",
-                  "text": "Anchorage Museum ist ein Museum in Anchorage, das Kunst und Geschichte Alaskas zeigt.",
+                  "text": "Museum mit der größten Sammlung von Kunst und Artefakten Alaskas.",
                   "category": "museum",
                   "coords": [
                         -149.884594,
@@ -23096,7 +23096,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Anchorage Unitarian Universalist Fellowship",
-                  "text": "Anchorage Unitarian Universalist Fellowship ist eine Kirche in Anchorage.",
+                  "text": "Unitarisch-universalistische Kirche in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.827717,
@@ -23105,7 +23105,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "St. Innocent Orthodox Cathedral",
-                  "text": "St. Innocent Orthodox Cathedral ist eine Kathedrale in Anchorage, die der orthodoxen Diözese dient.",
+                  "text": "Kathedrale der Orthodoxen Kirche in Amerika, Diözese Alaska.",
                   "category": "religious",
                   "coords": [
                         -149.754533,
@@ -23114,7 +23114,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Our Lady of Guadalupe Cathedral ist eine katholische Kathedrale in Anchorage.",
+                  "text": "Römisch-katholische Kathedrale der Erzdiözese Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.943905,
@@ -23123,7 +23123,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Greater Friendship Baptist Church",
-                  "text": "Greater Friendship Baptist Church ist eine Kirche in Anchorage.",
+                  "text": "Baptistenkirche in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.866416,
@@ -23132,7 +23132,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Islamic Community Center of Anchorage",
-                  "text": "Islamic Community Center of Anchorage ist eine Moschee in Anchorage.",
+                  "text": "Größte Moschee Alaskas in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.861092,
@@ -23141,7 +23141,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Sri Ganesha Temple of Alaska",
-                  "text": "Sri Ganesha Temple of Alaska ist ein Hindu-Tempel in Anchorage.",
+                  "text": "Hindu-Tempel, Ganesha gewidmet, der erste seiner Art in Alaska.",
                   "category": "religious",
                   "coords": [
                         -149.954685,
@@ -23150,7 +23150,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "Ceremonial Start of Iditarod Trail Sled Dog Race ist eine Attraktion in Anchorage, wo das Iditarod-Rennen beginnt.",
+                  "text": "Jährlicher Startort des berühmten Iditarod-Schlittenhunderennens an der Fourth Avenue.",
                   "category": "landmark",
                   "coords": [
                         -149.889363,
@@ -23159,7 +23159,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Far North Bicentennial Park",
-                  "text": "Far North Bicentennial Park ist ein Park in Anchorage.",
+                  "text": "1.500 Hektar großer Park mit Wanderwegen und Skigebiet.",
                   "category": "park",
                   "coords": [
                         -149.75806,
@@ -23168,7 +23168,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Botanical Garden",
-                  "text": "Alaska Botanical Garden ist ein botanischer Garten in Anchorage.",
+                  "text": "110 Hektar großer botanischer Garten mit einheimischen Pflanzen Alaskas.",
                   "category": "park",
                   "coords": [
                         -149.759875,
@@ -23177,7 +23177,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Delaney Park Strip",
-                  "text": "Delaney Park Strip ist ein Park in Anchorage, der ursprünglich als Landebahn genutzt wurde.",
+                  "text": "Linearer Park, ursprünglich eine Brandschneise, heute Erholungsgebiet.",
                   "category": "park",
                   "coords": [
                         -149.897602,
@@ -23204,7 +23204,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Aviation Museum",
-                  "text": "Das Alaska Aviation Museum ist ein Museum in Anchorage, das der Luftfahrtgeschichte gewidmet ist.",
+                  "text": "Alaska Aviation Museum, ein Museum mit Flugzeugen aus der Geschichte der Luftfahrt Alaskas.",
                   "category": "museum",
                   "coords": [
                         -149.972511,
@@ -23213,7 +23213,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain City Church",
-                  "text": "Mountain City Church ist ein Gotteshaus in Anchorage.",
+                  "text": "Mountain City Church, eine Kirche in Anchorage mit Bergkulisse.",
                   "category": "religious",
                   "coords": [
                         -149.759931,
@@ -23222,7 +23222,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church ist ein Gotteshaus in Anchorage.",
+                  "text": "All Saints Episcopal Church, eine episkopale Kirche im Zentrum von Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.892965,
@@ -23231,7 +23231,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cathedral of the Holy Family",
-                  "text": "Cathedral of the Holy Family ist ein Gotteshaus in Anchorage.",
+                  "text": "Cathedral of the Holy Family, die katholische Kathedrale von Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.898066,
@@ -23249,7 +23249,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "Saint Nicholas of Myra Byzantine Catholic Church ist ein Gotteshaus in Anchorage.",
+                  "text": "Saint Nicholas of Myra Byzantine Catholic Church, eine byzantinisch-katholische Kirche in Anchorage mit byzantinischem Baustil.",
                   "category": "religious",
                   "coords": [
                         -149.898385,
@@ -23258,7 +23258,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "La Luz Del Mundo",
-                  "text": "La Luz Del Mundo ist ein Gotteshaus in Anchorage.",
+                  "text": "La Luz Del Mundo, eine Kirche der La Luz del Mundo Konfession in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.881874,
@@ -23267,7 +23267,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Springer Park",
-                  "text": "Springer Park ist ein Park in Anchorage.",
+                  "text": "Springer Park, ein Nachbarschaftspark in Anchorage mit Spielplätzen.",
                   "category": "park",
                   "coords": [
                         -149.896053,
@@ -23276,7 +23276,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "University Park",
-                  "text": "University Park ist ein Park in Anchorage.",
+                  "text": "University Park, ein Park neben dem Campus der University of Alaska Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.843165,
@@ -23285,7 +23285,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ruth Arcand Park",
-                  "text": "Ruth Arcand Park ist ein Park in Anchorage.",
+                  "text": "Ruth Arcand Park, ein Park in Anchorage benannt nach einer lokalen Persönlichkeit.",
                   "category": "park",
                   "coords": [
                         -149.819141,
@@ -23294,7 +23294,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Goose Lake Park",
-                  "text": "Goose Lake Park ist ein Park in Anchorage.",
+                  "text": "Goose Lake Park, ein Park um den Goose Lake in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.820229,
@@ -23303,7 +23303,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nichols Park",
-                  "text": "Nichols Park ist ein Park in Anchorage.",
+                  "text": "Nichols Park, ein Park in Anchorage mit Sportplätzen.",
                   "category": "park",
                   "coords": [
                         -149.820567,
@@ -23312,7 +23312,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Russian Jack Springs Park",
-                  "text": "Russian Jack Springs Park ist ein Park in Anchorage.",
+                  "text": "Russian Jack Springs Park, ein Park mit natürlichen Quellen in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.78592,
@@ -23321,7 +23321,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arnold L Muldoon Park",
-                  "text": "Arnold L Muldoon Park ist ein Park in Anchorage.",
+                  "text": "Arnold L Muldoon Park, ein Park benannt nach einem lokalen Beamten in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.741095,
@@ -23330,7 +23330,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Davis Park",
-                  "text": "Davis Park ist ein Park in Anchorage.",
+                  "text": "Davis Park, ein Park in Anchorage mit Wanderwegen.",
                   "category": "park",
                   "coords": [
                         -149.788727,
@@ -23339,7 +23339,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Resolution Park",
-                  "text": "Resolution Park ist ein Park in Anchorage.",
+                  "text": "Resolution Park, ein Park mit Blick auf den Cook Inlet in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.904269,
@@ -23348,7 +23348,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nulbay Park",
-                  "text": "Nulbay Park ist ein Park in Anchorage.",
+                  "text": "Nulbay Park, ein Park in Anchorage mit einem Teich.",
                   "category": "park",
                   "coords": [
                         -149.910318,
@@ -23357,7 +23357,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Elderberry Park",
-                  "text": "Elderberry Park ist ein Park in Anchorage.",
+                  "text": "Elderberry Park, ein Park in Anchorage mit Holundersträuchern.",
                   "category": "park",
                   "coords": [
                         -149.906556,
@@ -23366,7 +23366,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Margaret Eagan Sullivan Park",
-                  "text": "Margaret Eagan Sullivan Park ist ein Park in Anchorage.",
+                  "text": "Margaret Eagan Sullivan Park, ein Park am Chester Creek in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.920104,
@@ -23384,7 +23384,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ure Park",
-                  "text": "Ure Park ist ein Park in Anchorage.",
+                  "text": "Ure Park, ein kleiner Park in Anchorage mit Bänken.",
                   "category": "park",
                   "coords": [
                         -149.920978,
@@ -23393,7 +23393,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Roosevelt Park",
-                  "text": "Roosevelt Park ist ein Park in Anchorage.",
+                  "text": "Roosevelt Park, ein Park nach Theodore Roosevelt benannt in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.921653,
@@ -23402,7 +23402,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wilson Street Park",
-                  "text": "Wilson Street Park ist ein Park in Anchorage.",
+                  "text": "Wilson Street Park, ein Park an der Wilson Street in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.905395,
@@ -23411,7 +23411,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fairbanks Park",
-                  "text": "Fairbanks Park ist ein Park in Anchorage.",
+                  "text": "Fairbanks Park, ein Park in Anchorage benannt nach der Stadt Fairbanks.",
                   "category": "park",
                   "coords": [
                         -149.873238,
@@ -23420,7 +23420,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jacobson Park",
-                  "text": "Jacobson Park ist ein Park in Anchorage.",
+                  "text": "Jacobson Park, ein Park in Anchorage mit einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -149.846111,
@@ -23429,7 +23429,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "David Green Park",
-                  "text": "David Green Park ist ein Park in Anchorage.",
+                  "text": "David Green Park, ein Park benannt nach einem lokalen Philanthropen in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.847757,
@@ -23438,7 +23438,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wickersham Park",
-                  "text": "Wickersham Park ist ein Park in Anchorage.",
+                  "text": "Wickersham Park, ein Park in Anchorage benannt nach einem Territorialgouverneur.",
                   "category": "park",
                   "coords": [
                         -149.845801,
@@ -23449,7 +23449,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       "hu": [
             {
                   "name": "Anchorage Museum",
-                  "text": "Az Anchorage Museum egy múzeum Anchorage-ban, amely Alaszka művészetét és történelmét mutatja be.",
+                  "text": "Múzeum Alaszka legnagyobb művészeti és tárgyi gyűjteményével.",
                   "category": "museum",
                   "coords": [
                         -149.884594,
@@ -23458,7 +23458,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Anchorage Unitarian Universalist Fellowship",
-                  "text": "Az Anchorage Unitarian Universalist Fellowship egy templom Anchorage-ban.",
+                  "text": "Unitárius univerzalista templom Anchorage-ban.",
                   "category": "religious",
                   "coords": [
                         -149.827717,
@@ -23467,7 +23467,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "St. Innocent Orthodox Cathedral",
-                  "text": "A St. Innocent Orthodox Cathedral egy katedrális Anchorage-ban, amely az ortodox egyházmegyét szolgálja.",
+                  "text": "Az Amerikai Ortodox Egyház alaszkai egyházmegyejének székesegyháza.",
                   "category": "religious",
                   "coords": [
                         -149.754533,
@@ -23476,7 +23476,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Az Our Lady of Guadalupe Cathedral egy katolikus katedrális Anchorage-ban.",
+                  "text": "Az Anchorage-i Főegyházmegye római katolikus székesegyháza.",
                   "category": "religious",
                   "coords": [
                         -149.943905,
@@ -23485,7 +23485,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Greater Friendship Baptist Church",
-                  "text": "A Greater Friendship Baptist Church egy templom Anchorage-ban.",
+                  "text": "Baptista templom Anchorage-ban.",
                   "category": "religious",
                   "coords": [
                         -149.866416,
@@ -23494,7 +23494,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Islamic Community Center of Anchorage",
-                  "text": "Az Islamic Community Center of Anchorage egy mecset Anchorage-ban.",
+                  "text": "Alaszka legnagyobb mecsetje Anchorage-ban.",
                   "category": "religious",
                   "coords": [
                         -149.861092,
@@ -23503,7 +23503,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Sri Ganesha Temple of Alaska",
-                  "text": "A Sri Ganesha Temple of Alaska egy hindu templom Anchorage-ban.",
+                  "text": "Ganeshának szentelt hindu templom, az első ilyen Alaszka.",
                   "category": "religious",
                   "coords": [
                         -149.954685,
@@ -23512,7 +23512,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "A Ceremonial Start of Iditarod Trail Sled Dog Race egy látványosság Anchorage-ban, ahol az Iditarod verseny kezdődik.",
+                  "text": "A híres Iditarod kutyaszánverseny éves rajtja a Fourth Avenue-n.",
                   "category": "landmark",
                   "coords": [
                         -149.889363,
@@ -23521,7 +23521,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Far North Bicentennial Park",
-                  "text": "A Far North Bicentennial Park egy park Anchorage-ban.",
+                  "text": "1,5 km²-es park túraútvonalakkal és síterülettel.",
                   "category": "park",
                   "coords": [
                         -149.75806,
@@ -23530,7 +23530,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Botanical Garden",
-                  "text": "Az Alaska Botanical Garden egy botanikus kert Anchorage-ban.",
+                  "text": "45 hektáros botanikus kert alaszkai őshonos növényekkel.",
                   "category": "park",
                   "coords": [
                         -149.759875,
@@ -23539,7 +23539,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Delaney Park Strip",
-                  "text": "A Delaney Park Strip egy park Anchorage-ban, amelyet eredetileg leszállópályaként használtak.",
+                  "text": "Lineáris park, eredetileg tűzgát, ma rekreációs terület.",
                   "category": "park",
                   "coords": [
                         -149.897602,
@@ -23566,7 +23566,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Aviation Museum",
-                  "text": "Az Alaska Aviation Museum egy múzeum Anchorage-ban, amely a repülés történetének szentelt.",
+                  "text": "Alaska Aviation Museum, egy repülőgép-múzeum, amely Alaszka repüléstörténetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -149.972511,
@@ -23575,7 +23575,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain City Church",
-                  "text": "A Mountain City Church egy istentiszteleti hely Anchorage-ban.",
+                  "text": "Mountain City Church, egy templom Anchorage-ban, hegyi háttérrel.",
                   "category": "religious",
                   "coords": [
                         -149.759931,
@@ -23584,7 +23584,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "Az All Saints Episcopal Church egy istentiszteleti hely Anchorage-ban.",
+                  "text": "All Saints Episcopal Church, egy episzkopális templom Anchorage belvárosában.",
                   "category": "religious",
                   "coords": [
                         -149.892965,
@@ -23593,7 +23593,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cathedral of the Holy Family",
-                  "text": "A Cathedral of the Holy Family egy istentiszteleti hely Anchorage-ban.",
+                  "text": "Cathedral of the Holy Family, a katolikus székesegyház Anchorage-ban.",
                   "category": "religious",
                   "coords": [
                         -149.898066,
@@ -23611,7 +23611,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "A Saint Nicholas of Myra Byzantine Catholic Church egy istentiszteleti hely Anchorage-ban.",
+                  "text": "Saint Nicholas of Myra Byzantine Catholic Church, egy bizánci katolikus templom Anchorage-ban, bizánci építészeti stílusban.",
                   "category": "religious",
                   "coords": [
                         -149.898385,
@@ -23620,7 +23620,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "La Luz Del Mundo",
-                  "text": "A La Luz Del Mundo egy istentiszteleti hely Anchorage-ban.",
+                  "text": "La Luz Del Mundo, a La Luz del Mundo felekezet temploma Anchorage-ban.",
                   "category": "religious",
                   "coords": [
                         -149.881874,
@@ -23629,7 +23629,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Springer Park",
-                  "text": "A Springer Park egy park Anchorage-ban.",
+                  "text": "Springer Park, egy szomszédsági park Anchorage-ban, játszóterekkel.",
                   "category": "park",
                   "coords": [
                         -149.896053,
@@ -23638,7 +23638,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "University Park",
-                  "text": "A University Park egy park Anchorage-ban.",
+                  "text": "University Park, egy park az Alaszka Anchorage-i Egyetem campusa mellett.",
                   "category": "park",
                   "coords": [
                         -149.843165,
@@ -23647,7 +23647,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ruth Arcand Park",
-                  "text": "A Ruth Arcand Park egy park Anchorage-ban.",
+                  "text": "Ruth Arcand Park, egy park Anchorage-ban, egy helyi személyiségről elnevezve.",
                   "category": "park",
                   "coords": [
                         -149.819141,
@@ -23656,7 +23656,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Goose Lake Park",
-                  "text": "A Goose Lake Park egy park Anchorage-ban.",
+                  "text": "Goose Lake Park, egy park a Goose Lake körül Anchorage-ban.",
                   "category": "park",
                   "coords": [
                         -149.820229,
@@ -23665,7 +23665,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nichols Park",
-                  "text": "A Nichols Park egy park Anchorage-ban.",
+                  "text": "Nichols Park, egy park Anchorage-ban sportpályákkal.",
                   "category": "park",
                   "coords": [
                         -149.820567,
@@ -23674,7 +23674,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Russian Jack Springs Park",
-                  "text": "A Russian Jack Springs Park egy park Anchorage-ban.",
+                  "text": "Russian Jack Springs Park, egy park természetes forrásokkal Anchorage-ban.",
                   "category": "park",
                   "coords": [
                         -149.78592,
@@ -23683,7 +23683,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arnold L Muldoon Park",
-                  "text": "Arnold L Muldoon Park egy park Anchorage-ban.",
+                  "text": "Arnold L Muldoon Park, egy park Anchorage-ban, egy helyi tisztviselőről elnevezve.",
                   "category": "park",
                   "coords": [
                         -149.741095,
@@ -23692,7 +23692,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Davis Park",
-                  "text": "A Davis Park egy park Anchorage-ban.",
+                  "text": "Davis Park, egy park Anchorage-ban sétautakkal.",
                   "category": "park",
                   "coords": [
                         -149.788727,
@@ -23701,7 +23701,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Resolution Park",
-                  "text": "A Resolution Park egy park Anchorage-ban.",
+                  "text": "Resolution Park, egy park a Cook Inletre néző kilátással Anchorage-ban.",
                   "category": "park",
                   "coords": [
                         -149.904269,
@@ -23710,7 +23710,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nulbay Park",
-                  "text": "A Nulbay Park egy park Anchorage-ban.",
+                  "text": "Nulbay Park, egy park Anchorage-ban egy tóval.",
                   "category": "park",
                   "coords": [
                         -149.910318,
@@ -23719,7 +23719,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Elderberry Park",
-                  "text": "A Elderberry Park egy park Anchorage-ban.",
+                  "text": "Elderberry Park, egy park Anchorage-ban bodzabokrokkal.",
                   "category": "park",
                   "coords": [
                         -149.906556,
@@ -23728,7 +23728,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Margaret Eagan Sullivan Park",
-                  "text": "Margaret Eagan Sullivan Park egy park Anchorage-ban.",
+                  "text": "Margaret Eagan Sullivan Park, egy park a Chester Creek mellett Anchorage-ban.",
                   "category": "park",
                   "coords": [
                         -149.920104,
@@ -23746,7 +23746,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ure Park",
-                  "text": "Az Ure Park egy park Anchorage-ban.",
+                  "text": "Ure Park, egy kis park Anchorage-ban padokkal.",
                   "category": "park",
                   "coords": [
                         -149.920978,
@@ -23755,7 +23755,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Roosevelt Park",
-                  "text": "A Roosevelt Park egy park Anchorage-ban.",
+                  "text": "Roosevelt Park, egy park Theodore Roosevelt nevét viseli Anchorage-ban.",
                   "category": "park",
                   "coords": [
                         -149.921653,
@@ -23764,7 +23764,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wilson Street Park",
-                  "text": "A Wilson Street Park egy park Anchorage-ban.",
+                  "text": "Wilson Street Park, egy park a Wilson Streeten Anchorage-ban.",
                   "category": "park",
                   "coords": [
                         -149.905395,
@@ -23773,7 +23773,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fairbanks Park",
-                  "text": "A Fairbanks Park egy park Anchorage-ban.",
+                  "text": "Fairbanks Park, egy park Anchorage-ban, Fairbanks városáról elnevezve.",
                   "category": "park",
                   "coords": [
                         -149.873238,
@@ -23782,7 +23782,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jacobson Park",
-                  "text": "A Jacobson Park egy park Anchorage-ban.",
+                  "text": "Jacobson Park, egy park Anchorage-ban játszótérrel.",
                   "category": "park",
                   "coords": [
                         -149.846111,
@@ -23791,7 +23791,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "David Green Park",
-                  "text": "A David Green Park egy park Anchorage-ban.",
+                  "text": "David Green Park, egy park Anchorage-ban, egy helyi filantrópról elnevezve.",
                   "category": "park",
                   "coords": [
                         -149.847757,
@@ -23800,7 +23800,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wickersham Park",
-                  "text": "A Wickersham Park egy park Anchorage-ban.",
+                  "text": "Wickersham Park, egy park Anchorage-ban, egy területi kormányzóról elnevezve.",
                   "category": "park",
                   "coords": [
                         -149.845801,
@@ -23811,7 +23811,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       "ro": [
             {
                   "name": "Anchorage Museum",
-                  "text": "Anchorage Museum este un muzeu din Anchorage care prezintă arta și istoria Alaskăi.",
+                  "text": "Muzeu cu cea mai mare colecție de artă și artefacte din Alaska.",
                   "category": "museum",
                   "coords": [
                         -149.884594,
@@ -23820,7 +23820,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Anchorage Unitarian Universalist Fellowship",
-                  "text": "Anchorage Unitarian Universalist Fellowship este o biserică în Anchorage.",
+                  "text": "Biserică unitariană universalistă în Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.827717,
@@ -23829,7 +23829,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "St. Innocent Orthodox Cathedral",
-                  "text": "St. Innocent Orthodox Cathedral este o catedrală în Anchorage care servește dieceza ortodoxă.",
+                  "text": "Catedrala Bisericii Ortodoxe din America, Eparhia Alaska.",
                   "category": "religious",
                   "coords": [
                         -149.754533,
@@ -23838,7 +23838,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Our Lady of Guadalupe Cathedral este o catedrală catolică în Anchorage.",
+                  "text": "Catedrala romano-catolică a Arhidiecezei de Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.943905,
@@ -23847,7 +23847,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Greater Friendship Baptist Church",
-                  "text": "Greater Friendship Baptist Church este o biserică în Anchorage.",
+                  "text": "Biserică baptistă în Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.866416,
@@ -23856,7 +23856,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Islamic Community Center of Anchorage",
-                  "text": "Islamic Community Center of Anchorage este o moschee în Anchorage.",
+                  "text": "Cea mai mare moschee din Alaska, în Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.861092,
@@ -23865,7 +23865,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Sri Ganesha Temple of Alaska",
-                  "text": "Sri Ganesha Temple of Alaska este un templu hindus în Anchorage.",
+                  "text": "Templu hindus dedicat lui Ganesha, primul de acest fel din Alaska.",
                   "category": "religious",
                   "coords": [
                         -149.954685,
@@ -23874,7 +23874,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "Ceremonial Start of Iditarod Trail Sled Dog Race este o atracție în Anchorage unde începe cursa Iditarod.",
+                  "text": "Locul de start anual al celebrei curse de câini de sanie Iditarod, pe Fourth Avenue.",
                   "category": "landmark",
                   "coords": [
                         -149.889363,
@@ -23883,7 +23883,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Far North Bicentennial Park",
-                  "text": "Far North Bicentennial Park este un parc în Anchorage.",
+                  "text": "Parcul de 600 de hectare cu trasee și o zonă de schi.",
                   "category": "park",
                   "coords": [
                         -149.75806,
@@ -23892,7 +23892,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Botanical Garden",
-                  "text": "Alaska Botanical Garden este o grădină botanică în Anchorage.",
+                  "text": "Grădină botanică de 110 acri cu plante native din Alaska.",
                   "category": "park",
                   "coords": [
                         -149.759875,
@@ -23901,7 +23901,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Delaney Park Strip",
-                  "text": "Delaney Park Strip este un parc din Anchorage, care a fost folosit inițial ca pistă de aterizare.",
+                  "text": "Parcul liniar, inițial o fâșie de protecție împotriva incendiilor, acum zonă de recreere.",
                   "category": "park",
                   "coords": [
                         -149.897602,
@@ -23928,7 +23928,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Aviation Museum",
-                  "text": "Muzeul Aviației din Alaska este un muzeu din Anchorage dedicat istoriei aviației.",
+                  "text": "Alaska Aviation Museum, un muzeu cu aeronave din istoria aviației din Alaska.",
                   "category": "museum",
                   "coords": [
                         -149.972511,
@@ -23937,7 +23937,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain City Church",
-                  "text": "Mountain City Church este un lăcaș de cult în Anchorage.",
+                  "text": "Mountain City Church, o biserică în Anchorage cu un fundal montan.",
                   "category": "religious",
                   "coords": [
                         -149.759931,
@@ -23946,7 +23946,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "Biserica Episcopală All Saints este un lăcaș de cult în Anchorage.",
+                  "text": "All Saints Episcopal Church, o biserică episcopală în centrul orașului Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.892965,
@@ -23955,7 +23955,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cathedral of the Holy Family",
-                  "text": "Catedrala Sfintei Familii este un lăcaș de cult în Anchorage.",
+                  "text": "Cathedral of the Holy Family, catedrala catolică din Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.898066,
@@ -23973,7 +23973,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "Biserica Catolică Bizantină Sfântul Nicolae din Myra este un lăcaș de cult în Anchorage.",
+                  "text": "Saint Nicholas of Myra Byzantine Catholic Church, o biserică catolică bizantină în Anchorage cu stil arhitectural bizantin.",
                   "category": "religious",
                   "coords": [
                         -149.898385,
@@ -23982,7 +23982,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "La Luz Del Mundo",
-                  "text": "La Luz Del Mundo este un lăcaș de cult în Anchorage.",
+                  "text": "La Luz Del Mundo, o biserică a denominației La Luz del Mundo din Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.881874,
@@ -23991,7 +23991,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Springer Park",
-                  "text": "Springer Park este un parc în Anchorage.",
+                  "text": "Springer Park, un parc de cartier în Anchorage cu locuri de joacă.",
                   "category": "park",
                   "coords": [
                         -149.896053,
@@ -24000,7 +24000,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "University Park",
-                  "text": "University Park este un parc în Anchorage.",
+                  "text": "University Park, un parc adiacent campusului Universității din Alaska Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.843165,
@@ -24009,7 +24009,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ruth Arcand Park",
-                  "text": "Ruth Arcand Park este un parc în Anchorage.",
+                  "text": "Ruth Arcand Park, un parc în Anchorage numit după o personalitate locală.",
                   "category": "park",
                   "coords": [
                         -149.819141,
@@ -24018,7 +24018,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Goose Lake Park",
-                  "text": "Goose Lake Park este un parc în Anchorage.",
+                  "text": "Goose Lake Park, un parc în jurul lacului Goose Lake din Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.820229,
@@ -24027,7 +24027,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nichols Park",
-                  "text": "Nichols Park este un parc în Anchorage.",
+                  "text": "Nichols Park, un parc în Anchorage cu terenuri de sport.",
                   "category": "park",
                   "coords": [
                         -149.820567,
@@ -24036,7 +24036,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Russian Jack Springs Park",
-                  "text": "Russian Jack Springs Park este un parc în Anchorage.",
+                  "text": "Russian Jack Springs Park, un parc cu izvoare naturale în Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.78592,
@@ -24045,7 +24045,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arnold L Muldoon Park",
-                  "text": "Arnold L Muldoon Park este un parc în Anchorage.",
+                  "text": "Arnold L Muldoon Park, un parc numit după un oficial local în Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.741095,
@@ -24054,7 +24054,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Davis Park",
-                  "text": "Davis Park este un parc în Anchorage.",
+                  "text": "Davis Park, un parc în Anchorage cu trasee de mers pe jos.",
                   "category": "park",
                   "coords": [
                         -149.788727,
@@ -24063,7 +24063,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Resolution Park",
-                  "text": "Resolution Park este un parc în Anchorage.",
+                  "text": "Resolution Park, un parc cu vedere spre Cook Inlet în Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.904269,
@@ -24072,7 +24072,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nulbay Park",
-                  "text": "Nulbay Park este un parc în Anchorage.",
+                  "text": "Nulbay Park, un parc în Anchorage cu un iaz.",
                   "category": "park",
                   "coords": [
                         -149.910318,
@@ -24081,7 +24081,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Elderberry Park",
-                  "text": "Elderberry Park este un parc în Anchorage.",
+                  "text": "Elderberry Park, un parc în Anchorage cu tufe de soc.",
                   "category": "park",
                   "coords": [
                         -149.906556,
@@ -24090,7 +24090,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Margaret Eagan Sullivan Park",
-                  "text": "Margaret Eagan Sullivan Park este un parc în Anchorage.",
+                  "text": "Margaret Eagan Sullivan Park, un parc de-a lungul pârâului Chester Creek din Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.920104,
@@ -24108,7 +24108,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ure Park",
-                  "text": "Ure Park este un parc în Anchorage.",
+                  "text": "Ure Park, un parc mic în Anchorage cu bănci.",
                   "category": "park",
                   "coords": [
                         -149.920978,
@@ -24117,7 +24117,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Roosevelt Park",
-                  "text": "Roosevelt Park este un parc în Anchorage.",
+                  "text": "Roosevelt Park, un parc numit după Theodore Roosevelt în Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.921653,
@@ -24126,7 +24126,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wilson Street Park",
-                  "text": "Wilson Street Park este un parc în Anchorage.",
+                  "text": "Wilson Street Park, un parc pe Wilson Street în Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.905395,
@@ -24135,7 +24135,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fairbanks Park",
-                  "text": "Fairbanks Park este un parc în Anchorage.",
+                  "text": "Fairbanks Park, un parc în Anchorage numit după orașul Fairbanks.",
                   "category": "park",
                   "coords": [
                         -149.873238,
@@ -24144,7 +24144,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jacobson Park",
-                  "text": "Jacobson Park este un parc în Anchorage.",
+                  "text": "Jacobson Park, un parc în Anchorage cu un loc de joacă.",
                   "category": "park",
                   "coords": [
                         -149.846111,
@@ -24153,7 +24153,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "David Green Park",
-                  "text": "David Green Park este un parc în Anchorage.",
+                  "text": "David Green Park, un parc numit după un filantrop local în Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.847757,
@@ -24162,7 +24162,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wickersham Park",
-                  "text": "Wickersham Park este un parc în Anchorage.",
+                  "text": "Wickersham Park, un parc în Anchorage numit după un guvernator teritorial.",
                   "category": "park",
                   "coords": [
                         -149.845801,
@@ -24173,7 +24173,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       "en": [
             {
                   "name": "Anchorage Museum",
-                  "text": "Anchorage Museum is a museum in Anchorage showcasing art and history of Alaska.",
+                  "text": "Museum with the largest collection of Alaska art and artifacts.",
                   "category": "museum",
                   "coords": [
                         -149.884594,
@@ -24182,7 +24182,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Anchorage Unitarian Universalist Fellowship",
-                  "text": "Anchorage Unitarian Universalist Fellowship is a church in Anchorage.",
+                  "text": "Unitarian Universalist church in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.827717,
@@ -24191,7 +24191,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "St. Innocent Orthodox Cathedral",
-                  "text": "St. Innocent Orthodox Cathedral is a cathedral in Anchorage serving the Orthodox diocese.",
+                  "text": "Cathedral of the Orthodox Church in America Diocese of Alaska.",
                   "category": "religious",
                   "coords": [
                         -149.754533,
@@ -24200,7 +24200,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Our Lady of Guadalupe Cathedral is a Catholic cathedral in Anchorage.",
+                  "text": "Roman Catholic cathedral of the Archdiocese of Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.943905,
@@ -24209,7 +24209,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Greater Friendship Baptist Church",
-                  "text": "Greater Friendship Baptist Church is a church in Anchorage.",
+                  "text": "Baptist church in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.866416,
@@ -24218,7 +24218,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Islamic Community Center of Anchorage",
-                  "text": "Islamic Community Center of Anchorage is a mosque in Anchorage.",
+                  "text": "The largest mosque in Alaska, in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.861092,
@@ -24227,7 +24227,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Sri Ganesha Temple of Alaska",
-                  "text": "Sri Ganesha Temple of Alaska is a Hindu temple in Anchorage.",
+                  "text": "Hindu temple dedicated to Ganesha, the first of its kind in Alaska.",
                   "category": "religious",
                   "coords": [
                         -149.954685,
@@ -24236,7 +24236,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "Ceremonial Start of Iditarod Trail Sled Dog Race is an attraction in Anchorage where the Iditarod race begins.",
+                  "text": "Annual start location of the famous Iditarod sled dog race on Fourth Avenue.",
                   "category": "landmark",
                   "coords": [
                         -149.889363,
@@ -24245,7 +24245,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Far North Bicentennial Park",
-                  "text": "Far North Bicentennial Park is a park in Anchorage.",
+                  "text": "1,500-acre park with trails and a ski area.",
                   "category": "park",
                   "coords": [
                         -149.75806,
@@ -24254,7 +24254,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Botanical Garden",
-                  "text": "Alaska Botanical Garden is a botanical garden in Anchorage.",
+                  "text": "110-acre botanical garden with native Alaskan plants.",
                   "category": "park",
                   "coords": [
                         -149.759875,
@@ -24263,7 +24263,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Delaney Park Strip",
-                  "text": "Delaney Park Strip is a park in Anchorage that was originally used as an airstrip.",
+                  "text": "Linear park originally a firebreak, now used for recreation.",
                   "category": "park",
                   "coords": [
                         -149.897602,
@@ -24290,7 +24290,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Alaska Aviation Museum",
-                  "text": "The Alaska Aviation Museum is a museum in Anchorage dedicated to aviation history.",
+                  "text": "Alaska Aviation Museum, a museum showcasing aircraft from Alaska's aviation history.",
                   "category": "museum",
                   "coords": [
                         -149.972511,
@@ -24299,7 +24299,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain City Church",
-                  "text": "Mountain City Church is a place of worship in Anchorage.",
+                  "text": "Mountain City Church, a church in Anchorage with a mountain backdrop.",
                   "category": "religious",
                   "coords": [
                         -149.759931,
@@ -24308,7 +24308,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church is a place of worship in Anchorage.",
+                  "text": "All Saints Episcopal Church, an Episcopal church in downtown Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.892965,
@@ -24317,7 +24317,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cathedral of the Holy Family",
-                  "text": "Cathedral of the Holy Family is a place of worship in Anchorage.",
+                  "text": "Cathedral of the Holy Family, the Catholic cathedral of Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.898066,
@@ -24335,7 +24335,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "Saint Nicholas of Myra Byzantine Catholic Church is a place of worship in Anchorage.",
+                  "text": "Saint Nicholas of Myra Byzantine Catholic Church, a Byzantine Catholic church in Anchorage featuring Byzantine-style architecture.",
                   "category": "religious",
                   "coords": [
                         -149.898385,
@@ -24344,7 +24344,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "La Luz Del Mundo",
-                  "text": "La Luz Del Mundo is a place of worship in Anchorage.",
+                  "text": "La Luz Del Mundo, a church of the La Luz del Mundo denomination in Anchorage.",
                   "category": "religious",
                   "coords": [
                         -149.881874,
@@ -24353,7 +24353,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Springer Park",
-                  "text": "Springer Park is a park in Anchorage.",
+                  "text": "Springer Park, a neighborhood park in Anchorage with playgrounds.",
                   "category": "park",
                   "coords": [
                         -149.896053,
@@ -24362,7 +24362,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "University Park",
-                  "text": "University Park is a park in Anchorage.",
+                  "text": "University Park, a park adjacent to the University of Alaska Anchorage campus.",
                   "category": "park",
                   "coords": [
                         -149.843165,
@@ -24371,7 +24371,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ruth Arcand Park",
-                  "text": "Ruth Arcand Park is a park in Anchorage.",
+                  "text": "Ruth Arcand Park, a park in Anchorage named after a local figure.",
                   "category": "park",
                   "coords": [
                         -149.819141,
@@ -24380,7 +24380,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Goose Lake Park",
-                  "text": "Goose Lake Park is a park in Anchorage.",
+                  "text": "Goose Lake Park, a park surrounding Goose Lake in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.820229,
@@ -24389,7 +24389,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nichols Park",
-                  "text": "Nichols Park is a park in Anchorage.",
+                  "text": "Nichols Park, a park in Anchorage with sports fields.",
                   "category": "park",
                   "coords": [
                         -149.820567,
@@ -24398,7 +24398,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Russian Jack Springs Park",
-                  "text": "Russian Jack Springs Park is a park in Anchorage.",
+                  "text": "Russian Jack Springs Park, a park featuring natural springs in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.78592,
@@ -24407,7 +24407,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arnold L Muldoon Park",
-                  "text": "Arnold L Muldoon Park is a park in Anchorage.",
+                  "text": "Arnold L Muldoon Park, a park named after a local official in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.741095,
@@ -24416,7 +24416,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Davis Park",
-                  "text": "Davis Park is a park in Anchorage.",
+                  "text": "Davis Park, a park in Anchorage with walking trails.",
                   "category": "park",
                   "coords": [
                         -149.788727,
@@ -24425,7 +24425,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Resolution Park",
-                  "text": "Resolution Park is a park in Anchorage.",
+                  "text": "Resolution Park, a park with views of Cook Inlet in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.904269,
@@ -24434,7 +24434,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Nulbay Park",
-                  "text": "Nulbay Park is a park in Anchorage.",
+                  "text": "Nulbay Park, a park in Anchorage with a pond.",
                   "category": "park",
                   "coords": [
                         -149.910318,
@@ -24443,7 +24443,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Elderberry Park",
-                  "text": "Elderberry Park is a park in Anchorage.",
+                  "text": "Elderberry Park, a park in Anchorage with elderberry shrubs.",
                   "category": "park",
                   "coords": [
                         -149.906556,
@@ -24452,7 +24452,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Margaret Eagan Sullivan Park",
-                  "text": "Margaret Eagan Sullivan Park is a park in Anchorage.",
+                  "text": "Margaret Eagan Sullivan Park, a park along the Chester Creek in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.920104,
@@ -24470,7 +24470,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ure Park",
-                  "text": "Ure Park is a park in Anchorage.",
+                  "text": "Ure Park, a small park in Anchorage with benches.",
                   "category": "park",
                   "coords": [
                         -149.920978,
@@ -24479,7 +24479,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Roosevelt Park",
-                  "text": "Roosevelt Park is a park in Anchorage.",
+                  "text": "Roosevelt Park, a park named after Theodore Roosevelt in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.921653,
@@ -24488,7 +24488,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wilson Street Park",
-                  "text": "Wilson Street Park is a park in Anchorage.",
+                  "text": "Wilson Street Park, a park along Wilson Street in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.905395,
@@ -24497,7 +24497,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fairbanks Park",
-                  "text": "Fairbanks Park is a park in Anchorage.",
+                  "text": "Fairbanks Park, a park in Anchorage named after the city of Fairbanks.",
                   "category": "park",
                   "coords": [
                         -149.873238,
@@ -24506,7 +24506,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jacobson Park",
-                  "text": "Jacobson Park is a park in Anchorage.",
+                  "text": "Jacobson Park, a park in Anchorage with a playground.",
                   "category": "park",
                   "coords": [
                         -149.846111,
@@ -24515,7 +24515,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "David Green Park",
-                  "text": "David Green Park is a park in Anchorage.",
+                  "text": "David Green Park, a park named after a local philanthropist in Anchorage.",
                   "category": "park",
                   "coords": [
                         -149.847757,
@@ -24524,7 +24524,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Wickersham Park",
-                  "text": "Wickersham Park is a park in Anchorage.",
+                  "text": "Wickersham Park, a park in Anchorage named after a territorial governor.",
                   "category": "park",
                   "coords": [
                         -149.845801,
@@ -24580,7 +24580,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Clark County Wetlands Park",
-                  "text": "Ein großer Feuchtgebietspark und Naturschutzgebiet in Las Vegas.",
+                  "text": "120 Hektar großes Feuchtgebietsschutzgebiet nahe dem Las Vegas Strip.",
                   "category": "natural",
                   "coords": [
                         -114.99049,
@@ -24589,7 +24589,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cowabunga Bay Las Vegas",
-                  "text": "Ein Wasserpark in Las Vegas mit Rutschen und einem Wellenbad.",
+                  "text": "Wasserpark mit Wellenbad und Rutschen.",
                   "category": "recreational",
                   "coords": [
                         -115.024732,
@@ -24598,7 +24598,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Pool",
-                  "text": "Ein Park mit einem Schwimmbecken in Las Vegas.",
+                  "text": "Hadland Pool, ein Schwimmbadpark im Bezirk Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.1104,
@@ -24607,7 +24607,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Miller Playground",
-                  "text": "Ein Spielplatz in Las Vegas.",
+                  "text": "Miller Playground, ein Spielplatz im Bezirk Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.1128,
@@ -24616,7 +24616,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Valley County Park",
-                  "text": "Ein County-Park im Paradise Valley in Las Vegas.",
+                  "text": "Paradise Valley County Park, ein County-Park im Gebiet Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.108655,
@@ -24625,7 +24625,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Silver Springs Pool",
-                  "text": "Ein Park mit einem Schwimmbad in Las Vegas.",
+                  "text": "Silver Springs Pool, ein Schwimmbadpark im Bezirk Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.074892,
@@ -24634,7 +24634,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fox Ridge Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Fox Ridge Park, ein Park auf einem Hügel im Bezirk Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.0687,
@@ -24643,7 +24643,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Mesa",
-                  "text": "Ein Tafelberg in Las Vegas.",
+                  "text": "Whitney Mesa, ein Tafelberg im Gebiet Vegas Tourism Industry.",
                   "category": "natural",
                   "coords": [
                         -115.070274,
@@ -24652,7 +24652,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "White School Park and Sports Field",
-                  "text": "Ein Park mit Sportplatz in Las Vegas.",
+                  "text": "White School Park and Sports Field, ein Park mit Sportplätzen neben einer weißen Schule im Bezirk Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.061497,
@@ -24661,7 +24661,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Pool",
-                  "text": "Ein Park mit Schwimmbecken in Las Vegas.",
+                  "text": "Whitney Pool ist ein Park mit einem Schwimmbecken im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.0495,
@@ -24670,7 +24670,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Horsemans and Dog Fanciers Park",
-                  "text": "Ein Park für Reiter und Hundeliebhaber in Las Vegas.",
+                  "text": "Horsemans and Dog Fanciers Park bietet Flächen für Pferde und Hunde im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.049653,
@@ -24679,7 +24679,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Maslow Pool",
-                  "text": "Ein Park mit Pool in Las Vegas.",
+                  "text": "Maslow Pool ist ein Park mit einem Schwimmbecken im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.067036,
@@ -24688,7 +24688,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Parkdale Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Parkdale Park ist ein Stadtteilpark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.0771,
@@ -24697,7 +24697,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Pool",
-                  "text": "Ein Park mit Pool am ehemaligen Desert Inn in Las Vegas.",
+                  "text": "Desert Inn Pool ist ein Park mit einem Schwimmbecken nahe dem ehemaligen Desert-Inn-Resort in Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.0688,
@@ -24706,7 +24706,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Estates Island Park",
-                  "text": "Ein Park in der Desert Inn Estates in Las Vegas.",
+                  "text": "Desert Inn Estates Island Park ist eine Grünfläche auf einer Insel im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.0662,
@@ -24715,7 +24715,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Edwards Playground",
-                  "text": "Ein Spielplatz in Las Vegas.",
+                  "text": "Edwards Playground ist ein Spielplatzpark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.07383,
@@ -24724,7 +24724,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ronnow Playground",
-                  "text": "Ein Spielplatz in Las Vegas.",
+                  "text": "Ronnow Playground ist ein Spielplatzpark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.1005,
@@ -24733,7 +24733,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Bracken Playground",
-                  "text": "Ein Spielplatz in Las Vegas.",
+                  "text": "Bracken Playground ist ein Spielplatzpark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.1124,
@@ -24742,7 +24742,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jaycee Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Jaycee Park ist ein Gemeinschaftspark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.116783,
@@ -24751,7 +24751,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Green Valley Park",
-                  "text": "Ein Park im Green Valley in Las Vegas.",
+                  "text": "Green Valley Park ist eine Grünfläche im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.099322,
@@ -24760,7 +24760,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Bloom Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Desert Bloom Park ist ein Park mit Wüstenlandschaftsgestaltung im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.137395,
@@ -24769,7 +24769,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Hadland Park ist ein Stadtteilpark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.112786,
@@ -24778,7 +24778,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Freedom Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Freedom Park ist ein öffentlicher Park im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.10253,
@@ -24787,7 +24787,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Orr School Park",
-                  "text": "Ein Schulpark in Las Vegas.",
+                  "text": "Orr School Park ist ein Park neben der Orr School im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.129342,
@@ -24796,7 +24796,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winchester Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Winchester Park ist ein Park im Winchester-Viertel des Las-Vegas-Tourismusgebiets.",
                   "category": "park",
                   "coords": [
                         -115.108605,
@@ -24805,7 +24805,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Paradise Park ist ein Park im Paradise-Gebiet des Las-Vegas-Tourismusgebiets.",
                   "category": "park",
                   "coords": [
                         -115.111043,
@@ -24814,7 +24814,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Pecos Legacy Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Pecos Legacy Park ist ein Park entlang der Pecos Road im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.099232,
@@ -24823,7 +24823,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Vista Park",
-                  "text": "Ein Park mit Aussicht in Las Vegas.",
+                  "text": "Paradise Vista Park bietet Aussicht im Paradise-Gebiet des Las-Vegas-Tourismusgebiets.",
                   "category": "park",
                   "coords": [
                         -115.122681,
@@ -24832,7 +24832,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cannon School Park",
-                  "text": "Ein Schulpark in Las Vegas.",
+                  "text": "Cannon School Park ist ein Park neben der Cannon School im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.115471,
@@ -24841,7 +24841,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Henry Prendes Park at Hidden Palms",
-                  "text": "Ein Park in der Hidden Palms Gegend in Las Vegas.",
+                  "text": "Henry Prendes Park at Hidden Palms ist ein Park in der Hidden-Palms-Siedlung im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.1514,
@@ -24850,7 +24850,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arroyo Grande Sports Complex",
-                  "text": "Ein Sportkomplex in Las Vegas.",
+                  "text": "Arroyo Grande Sports Complex ist ein Sportpark mit Feldern im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.053203,
@@ -24859,7 +24859,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain View Park",
-                  "text": "Ein Park mit Bergblick in Las Vegas.",
+                  "text": "Mountain View Park bietet Bergblick im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.070756,
@@ -24868,7 +24868,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Discovery Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Discovery Park ist ein Park mit Spielplatz und Freifläche im Las-Vegas-Tourismusgebiet.",
                   "category": "park",
                   "coords": [
                         -115.073473,
@@ -24877,7 +24877,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Grapevine Springs Park",
-                  "text": "Ein Park mit Quellen in Las Vegas.",
+                  "text": "Grapevine Springs Park verfügt über eine Quelle oder ein Wasserfeature im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.076798,
@@ -24886,7 +24886,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winterwood Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Winterwood Park ist ein Stadtteilpark im Winterwood-Gebiet des Las-Vegas-Tourismusviertels.",
                   "category": "park",
                   "coords": [
                         -115.058127,
@@ -24895,7 +24895,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Joe Shoong Park",
-                  "text": "Ein Park in Las Vegas.",
+                  "text": "Joe Shoong Park ist ein Park benannt nach einer Gemeinschaftsfigur im Las-Vegas-Tourismusviertel.",
                   "category": "park",
                   "coords": [
                         -115.078363,
@@ -24915,7 +24915,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Clark County Wetlands Park",
-                  "text": "Egy nagy vizes élőhely park és természetvédelmi terület Las Vegasban.",
+                  "text": "120 hektáros vizes élőhely-rezervátum a Las Vegas Strip közelében.",
                   "category": "natural",
                   "coords": [
                         -114.99049,
@@ -24924,7 +24924,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cowabunga Bay Las Vegas",
-                  "text": "Csúszdákkal és hullámmedencével rendelkező vízipark Las Vegasban.",
+                  "text": "Vízipark hullámmedencével és csúszdákkal.",
                   "category": "recreational",
                   "coords": [
                         -115.024732,
@@ -24933,7 +24933,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Pool",
-                  "text": "Egy park medencével Las Vegasban.",
+                  "text": "Hadland Pool, egy úszómedence park a Vegas Tourism Industry kerületben.",
                   "category": "park",
                   "coords": [
                         -115.1104,
@@ -24942,7 +24942,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Miller Playground",
-                  "text": "Egy játszótér Las Vegasban.",
+                  "text": "Miller Playground, egy játszótér a Vegas Tourism Industry kerületben.",
                   "category": "park",
                   "coords": [
                         -115.1128,
@@ -24951,7 +24951,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Valley County Park",
-                  "text": "Egy megyei park a Paradise Valley-ben, Las Vegasban.",
+                  "text": "Paradise Valley County Park, egy megyei park a Vegas Tourism Industry területén.",
                   "category": "park",
                   "coords": [
                         -115.108655,
@@ -24960,7 +24960,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Silver Springs Pool",
-                  "text": "Egy park uszodával Las Vegasban.",
+                  "text": "Silver Springs Pool, egy úszómedence park a Vegas Tourism Industry kerületben.",
                   "category": "park",
                   "coords": [
                         -115.074892,
@@ -24969,7 +24969,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fox Ridge Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "Fox Ridge Park, egy park egy dombon a Vegas Tourism Industry kerületben.",
                   "category": "park",
                   "coords": [
                         -115.0687,
@@ -24978,7 +24978,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Mesa",
-                  "text": "Egy asztalhegy Las Vegasban.",
+                  "text": "Whitney Mesa, egy asztalhegy a Vegas Tourism Industry területén.",
                   "category": "natural",
                   "coords": [
                         -115.070274,
@@ -24987,7 +24987,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "White School Park and Sports Field",
-                  "text": "Egy park sportpályával Las Vegasban.",
+                  "text": "White School Park and Sports Field, egy park sportpályákkal egy fehér iskola mellett a Vegas Tourism Industry kerületben.",
                   "category": "park",
                   "coords": [
                         -115.061497,
@@ -24996,7 +24996,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Pool",
-                  "text": "Egy park medencével Las Vegasban.",
+                  "text": "A Whitney Pool egy park úszómedencével a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.0495,
@@ -25005,7 +25005,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Horsemans and Dog Fanciers Park",
-                  "text": "Egy park lovasok és kutyabarátok számára Las Vegasban.",
+                  "text": "A Horsemans and Dog Fanciers Park lovak és kutyák számára kínál helyet a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.049653,
@@ -25014,7 +25014,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Maslow Pool",
-                  "text": "Egy park medencével Las Vegasban.",
+                  "text": "A Maslow Pool egy park úszómedencével a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.067036,
@@ -25023,7 +25023,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Parkdale Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Parkdale Park egy városrészi park a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.0771,
@@ -25032,7 +25032,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Pool",
-                  "text": "Egy park medencével a korábbi Desert Inn mellett Las Vegasban.",
+                  "text": "A Desert Inn Pool egy park úszómedencével a régi Desert Inn szálloda közelében Las Vegasban.",
                   "category": "park",
                   "coords": [
                         -115.0688,
@@ -25041,7 +25041,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Estates Island Park",
-                  "text": "Egy park a Desert Inn Estates-ben, Las Vegasban.",
+                  "text": "A Desert Inn Estates Island Park egy zöldterület egy szigeten a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.0662,
@@ -25050,7 +25050,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Edwards Playground",
-                  "text": "Egy játszótér Las Vegasban.",
+                  "text": "Az Edwards Playground egy játszótérpark a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.07383,
@@ -25059,7 +25059,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ronnow Playground",
-                  "text": "Egy játszótér Las Vegasban.",
+                  "text": "A Ronnow Playground egy játszótérpark a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.1005,
@@ -25068,7 +25068,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Bracken Playground",
-                  "text": "Egy játszótér Las Vegasban.",
+                  "text": "A Bracken Playground egy játszótérpark a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.1124,
@@ -25077,7 +25077,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jaycee Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Jaycee Park egy közösségi park a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.116783,
@@ -25086,7 +25086,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Green Valley Park",
-                  "text": "Egy park a Green Valley-ben, Las Vegasban.",
+                  "text": "A Green Valley Park egy zöldterület a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.099322,
@@ -25095,7 +25095,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Bloom Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Desert Bloom Park egy park sivatagi tájépítészettel a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.137395,
@@ -25104,7 +25104,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Hadland Park egy városrészi park a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.112786,
@@ -25113,7 +25113,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Freedom Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Freedom Park egy nyilvános park a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.10253,
@@ -25122,7 +25122,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Orr School Park",
-                  "text": "Egy iskolai park Las Vegasban.",
+                  "text": "Az Orr School Park egy park az Orr School mellett a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.129342,
@@ -25131,7 +25131,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winchester Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Winchester Park egy park a Winchester negyedben, Las Vegas turisztikai területén.",
                   "category": "park",
                   "coords": [
                         -115.108605,
@@ -25140,7 +25140,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Paradise Park egy park a Paradise területen, Las Vegas turisztikai negyedében.",
                   "category": "park",
                   "coords": [
                         -115.111043,
@@ -25149,7 +25149,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Pecos Legacy Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Pecos Legacy Park egy park a Pecos Road mentén a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.099232,
@@ -25158,7 +25158,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Vista Park",
-                  "text": "Egy park kilátással Las Vegasban.",
+                  "text": "A Paradise Vista Park kilátást nyújt a Paradise területen, Las Vegas turisztikai negyedében.",
                   "category": "park",
                   "coords": [
                         -115.122681,
@@ -25167,7 +25167,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cannon School Park",
-                  "text": "Egy iskolai park Las Vegasban.",
+                  "text": "A Cannon School Park egy park a Cannon School mellett a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.115471,
@@ -25176,7 +25176,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Henry Prendes Park at Hidden Palms",
-                  "text": "Egy park a Hidden Palms környékén, Las Vegasban.",
+                  "text": "A Henry Prendes Park at Hidden Palms egy park a Hidden Palms lakóparkban, Las Vegas turisztikai negyedében.",
                   "category": "park",
                   "coords": [
                         -115.1514,
@@ -25185,7 +25185,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arroyo Grande Sports Complex",
-                  "text": "Egy sportkomplexum Las Vegasban.",
+                  "text": "Az Arroyo Grande Sports Complex egy sportpark pályákkal a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.053203,
@@ -25194,7 +25194,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain View Park",
-                  "text": "Egy park hegyi kilátással Las Vegasban.",
+                  "text": "A Mountain View Park hegyi kilátást nyújt a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.070756,
@@ -25203,7 +25203,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Discovery Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Discovery Park egy park játszótérrel és nyitott területtel a Las Vegas-i turisztikai területen.",
                   "category": "park",
                   "coords": [
                         -115.073473,
@@ -25212,7 +25212,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Grapevine Springs Park",
-                  "text": "Egy park forrásokkal Las Vegasban.",
+                  "text": "A Grapevine Springs Park forrással vagy vízi elemmel rendelkezik a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.076798,
@@ -25221,7 +25221,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winterwood Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Winterwood Park egy városrészi park a Winterwood területen, a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.058127,
@@ -25230,7 +25230,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Joe Shoong Park",
-                  "text": "Egy park Las Vegasban.",
+                  "text": "A Joe Shoong Park egy közösségi személyről elnevezett park a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
                   "coords": [
                         -115.078363,
@@ -25250,7 +25250,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Clark County Wetlands Park",
-                  "text": "Un parc mare de zone umede și rezervație naturală în Las Vegas.",
+                  "text": "Rezervație de zone umede de 120 de hectare lângă Las Vegas Strip.",
                   "category": "natural",
                   "coords": [
                         -114.99049,
@@ -25259,7 +25259,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cowabunga Bay Las Vegas",
-                  "text": "Un parc acvatic în Las Vegas, cu tobogane și o piscină cu valuri.",
+                  "text": "Parac de apă cu piscină cu valuri și tobogane.",
                   "category": "recreational",
                   "coords": [
                         -115.024732,
@@ -25268,7 +25268,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Pool",
-                  "text": "Un parc cu o piscină în Las Vegas.",
+                  "text": "Hadland Pool, un parc cu piscină în districtul Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.1104,
@@ -25277,7 +25277,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Miller Playground",
-                  "text": "Un loc de joacă în Las Vegas.",
+                  "text": "Miller Playground, un loc de joacă în districtul Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.1128,
@@ -25286,7 +25286,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Valley County Park",
-                  "text": "Un parc județean în Paradise Valley, Las Vegas.",
+                  "text": "Paradise Valley County Park, un parc județean în zona Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.108655,
@@ -25295,7 +25295,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Silver Springs Pool",
-                  "text": "Un parc cu o piscină în Las Vegas.",
+                  "text": "Silver Springs Pool, un parc cu piscină în districtul Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.074892,
@@ -25304,7 +25304,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fox Ridge Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Fox Ridge Park, un parc pe un deal în districtul Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.0687,
@@ -25313,7 +25313,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Mesa",
-                  "text": "Un masă de deal (mesa) în Las Vegas.",
+                  "text": "Whitney Mesa, un masă de masă în zona Vegas Tourism Industry.",
                   "category": "natural",
                   "coords": [
                         -115.070274,
@@ -25322,7 +25322,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "White School Park and Sports Field",
-                  "text": "Un parc cu teren sportiv în Las Vegas.",
+                  "text": "White School Park and Sports Field, un parc cu terenuri de sport lângă o școală albă în districtul Vegas Tourism Industry.",
                   "category": "park",
                   "coords": [
                         -115.061497,
@@ -25331,7 +25331,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Pool",
-                  "text": "Un parc cu piscină în Las Vegas.",
+                  "text": "Whitney Pool este un parc cu o piscină în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.0495,
@@ -25340,7 +25340,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Horsemans and Dog Fanciers Park",
-                  "text": "Un parc pentru călăreți și iubitorii de câini în Las Vegas.",
+                  "text": "Horsemans and Dog Fanciers Park oferă spații pentru cai și câini în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.049653,
@@ -25349,7 +25349,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Maslow Pool",
-                  "text": "Un parc cu piscină în Las Vegas.",
+                  "text": "Maslow Pool este un parc cu o piscină în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.067036,
@@ -25358,7 +25358,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Parkdale Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Parkdale Park este un parc de cartier în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.0771,
@@ -25367,7 +25367,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Pool",
-                  "text": "Un parc cu piscină lângă fostul Desert Inn din Las Vegas.",
+                  "text": "Desert Inn Pool este un parc cu o piscină lângă fostul complex Desert Inn din Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.0688,
@@ -25376,7 +25376,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Estates Island Park",
-                  "text": "Un parc în Desert Inn Estates, Las Vegas.",
+                  "text": "Desert Inn Estates Island Park este un spațiu verde pe o insulă în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.0662,
@@ -25385,7 +25385,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Edwards Playground",
-                  "text": "Un loc de joacă în Las Vegas.",
+                  "text": "Edwards Playground este un parc cu loc de joacă în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.07383,
@@ -25394,7 +25394,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ronnow Playground",
-                  "text": "Un loc de joacă în Las Vegas.",
+                  "text": "Ronnow Playground este un parc cu loc de joacă în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.1005,
@@ -25403,7 +25403,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Bracken Playground",
-                  "text": "Un loc de joacă în Las Vegas.",
+                  "text": "Bracken Playground este un parc cu loc de joacă în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.1124,
@@ -25412,7 +25412,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jaycee Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Jaycee Park este un parc comunitar în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.116783,
@@ -25421,7 +25421,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Green Valley Park",
-                  "text": "Un parc în Green Valley, Las Vegas.",
+                  "text": "Green Valley Park este un spațiu verde în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.099322,
@@ -25430,7 +25430,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Bloom Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Desert Bloom Park este un parc cu amenajări peisagistice de deșert în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.137395,
@@ -25439,7 +25439,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Hadland Park este un parc de cartier în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.112786,
@@ -25448,7 +25448,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Freedom Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Freedom Park este un parc public în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.10253,
@@ -25457,7 +25457,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Orr School Park",
-                  "text": "Un parc școlar în Las Vegas.",
+                  "text": "Orr School Park este un parc adiacent școlii Orr în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.129342,
@@ -25466,7 +25466,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winchester Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Winchester Park este un parc în cartierul Winchester al zonei turistice Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.108605,
@@ -25475,7 +25475,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Paradise Park este un parc în zona Paradise a districtului turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.111043,
@@ -25484,7 +25484,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Pecos Legacy Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Pecos Legacy Park este un parc de-a lungul Pecos Road în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.099232,
@@ -25493,7 +25493,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Vista Park",
-                  "text": "Un parc cu vedere în Las Vegas.",
+                  "text": "Paradise Vista Park oferă vedere în zona Paradise a districtului turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.122681,
@@ -25502,7 +25502,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cannon School Park",
-                  "text": "Un parc școlar în Las Vegas.",
+                  "text": "Cannon School Park este un parc lângă școala Cannon în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.115471,
@@ -25511,7 +25511,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Henry Prendes Park at Hidden Palms",
-                  "text": "Un parc în zona Hidden Palms din Las Vegas.",
+                  "text": "Henry Prendes Park at Hidden Palms este un parc în cartierul Hidden Palms din districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.1514,
@@ -25520,7 +25520,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arroyo Grande Sports Complex",
-                  "text": "Un complex sportiv în Las Vegas.",
+                  "text": "Arroyo Grande Sports Complex este un parc sportiv cu terenuri în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.053203,
@@ -25529,7 +25529,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain View Park",
-                  "text": "Un parc cu vedere la munte în Las Vegas.",
+                  "text": "Mountain View Park oferă vedere la munți în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.070756,
@@ -25538,7 +25538,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Discovery Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Discovery Park este un parc cu loc de joacă și spațiu deschis în zona turistică Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.073473,
@@ -25547,7 +25547,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Grapevine Springs Park",
-                  "text": "Un parc cu izvoare în Las Vegas.",
+                  "text": "Grapevine Springs Park are un izvor sau o caracteristică acvatică în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.076798,
@@ -25556,7 +25556,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winterwood Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Winterwood Park este un parc de cartier în zona Winterwood a districtului turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.058127,
@@ -25565,7 +25565,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Joe Shoong Park",
-                  "text": "Un parc în Las Vegas.",
+                  "text": "Joe Shoong Park este un parc numit după o figură comunitară în districtul turistic Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.078363,
@@ -25585,7 +25585,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Clark County Wetlands Park",
-                  "text": "A large wetland park and nature preserve in Las Vegas.",
+                  "text": "300-acre wetland preserve near the Las Vegas Strip.",
                   "category": "natural",
                   "coords": [
                         -114.99049,
@@ -25594,7 +25594,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cowabunga Bay Las Vegas",
-                  "text": "A water park in Las Vegas with slides and a wave pool.",
+                  "text": "Water park featuring a wave pool and slides.",
                   "category": "recreational",
                   "coords": [
                         -115.024732,
@@ -25603,7 +25603,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Pool",
-                  "text": "A park with a swimming pool in Las Vegas.",
+                  "text": "Hadland Pool, a swimming pool park in the Vegas Tourism Industry district.",
                   "category": "park",
                   "coords": [
                         -115.1104,
@@ -25612,7 +25612,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Miller Playground",
-                  "text": "A playground in Las Vegas.",
+                  "text": "Miller Playground, a playground in the Vegas Tourism Industry district.",
                   "category": "park",
                   "coords": [
                         -115.1128,
@@ -25621,7 +25621,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Valley County Park",
-                  "text": "A county park in Paradise Valley, Las Vegas.",
+                  "text": "Paradise Valley County Park, a county park in the Vegas Tourism Industry area.",
                   "category": "park",
                   "coords": [
                         -115.108655,
@@ -25630,7 +25630,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Silver Springs Pool",
-                  "text": "A park with a swimming pool in Las Vegas.",
+                  "text": "Silver Springs Pool, a swimming pool park in the Vegas Tourism Industry district.",
                   "category": "park",
                   "coords": [
                         -115.074892,
@@ -25639,7 +25639,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Fox Ridge Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Fox Ridge Park, a park on a ridge in the Vegas Tourism Industry district.",
                   "category": "park",
                   "coords": [
                         -115.0687,
@@ -25648,7 +25648,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Mesa",
-                  "text": "A flat-topped mesa in Las Vegas.",
+                  "text": "Whitney Mesa, a mesa (flat-topped hill) in the Vegas Tourism Industry area.",
                   "category": "natural",
                   "coords": [
                         -115.070274,
@@ -25657,7 +25657,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "White School Park and Sports Field",
-                  "text": "A park with a sports field in Las Vegas.",
+                  "text": "White School Park and Sports Field, a park with sports fields near a white school in the Vegas Tourism Industry district.",
                   "category": "park",
                   "coords": [
                         -115.061497,
@@ -25666,7 +25666,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Whitney Pool",
-                  "text": "A park with a pool in Las Vegas.",
+                  "text": "Whitney Pool is a park with a swimming pool in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.0495,
@@ -25675,7 +25675,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Horsemans and Dog Fanciers Park",
-                  "text": "A park for horsemen and dog enthusiasts in Las Vegas.",
+                  "text": "Horsemans and Dog Fanciers Park offers spaces for horses and dogs in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.049653,
@@ -25684,7 +25684,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Maslow Pool",
-                  "text": "A park with a pool in Las Vegas.",
+                  "text": "Maslow Pool is a park with a swimming pool in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.067036,
@@ -25693,7 +25693,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Parkdale Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Parkdale Park is a neighborhood park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.0771,
@@ -25702,7 +25702,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Pool",
-                  "text": "A park with a pool near the former Desert Inn in Las Vegas.",
+                  "text": "Desert Inn Pool is a park with a swimming pool near the former Desert Inn resort in Las Vegas.",
                   "category": "park",
                   "coords": [
                         -115.0688,
@@ -25711,7 +25711,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Inn Estates Island Park",
-                  "text": "A park in the Desert Inn Estates in Las Vegas.",
+                  "text": "Desert Inn Estates Island Park is a green space on an island in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.0662,
@@ -25720,7 +25720,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Edwards Playground",
-                  "text": "A playground in Las Vegas.",
+                  "text": "Edwards Playground is a playground park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.07383,
@@ -25729,7 +25729,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Ronnow Playground",
-                  "text": "A playground in Las Vegas.",
+                  "text": "Ronnow Playground is a playground park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.1005,
@@ -25738,7 +25738,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Bracken Playground",
-                  "text": "A playground in Las Vegas.",
+                  "text": "Bracken Playground is a playground park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.1124,
@@ -25747,7 +25747,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Jaycee Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Jaycee Park is a community park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.116783,
@@ -25756,7 +25756,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Green Valley Park",
-                  "text": "A park in Green Valley, Las Vegas.",
+                  "text": "Green Valley Park is a green space in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.099322,
@@ -25765,7 +25765,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Desert Bloom Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Desert Bloom Park is a park with desert landscaping in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.137395,
@@ -25774,7 +25774,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Hadland Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Hadland Park is a neighborhood park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.112786,
@@ -25783,7 +25783,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Freedom Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Freedom Park is a public park in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.10253,
@@ -25792,7 +25792,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Orr School Park",
-                  "text": "A school park in Las Vegas.",
+                  "text": "Orr School Park is a park adjacent to Orr School in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.129342,
@@ -25801,7 +25801,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winchester Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Winchester Park is a park in the Winchester neighborhood of the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.108605,
@@ -25810,7 +25810,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Paradise Park is a park in the Paradise area of the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.111043,
@@ -25819,7 +25819,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Pecos Legacy Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Pecos Legacy Park is a park along Pecos Road in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.099232,
@@ -25828,7 +25828,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Paradise Vista Park",
-                  "text": "A park with a view in Las Vegas.",
+                  "text": "Paradise Vista Park offers views in the Paradise area of the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.122681,
@@ -25837,7 +25837,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Cannon School Park",
-                  "text": "A school park in Las Vegas.",
+                  "text": "Cannon School Park is a park next to Cannon School in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.115471,
@@ -25846,7 +25846,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Henry Prendes Park at Hidden Palms",
-                  "text": "A park in the Hidden Palms area in Las Vegas.",
+                  "text": "Henry Prendes Park at Hidden Palms is a park in the Hidden Palms subdivision of the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.1514,
@@ -25855,7 +25855,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Arroyo Grande Sports Complex",
-                  "text": "A sports complex in Las Vegas.",
+                  "text": "Arroyo Grande Sports Complex is a sports park with fields in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.053203,
@@ -25864,7 +25864,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Mountain View Park",
-                  "text": "A park with mountain views in Las Vegas.",
+                  "text": "Mountain View Park offers mountain views in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.070756,
@@ -25873,7 +25873,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Discovery Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Discovery Park is a park with a playground and open space in the Las Vegas tourism area.",
                   "category": "park",
                   "coords": [
                         -115.073473,
@@ -25882,7 +25882,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Grapevine Springs Park",
-                  "text": "A park with springs in Las Vegas.",
+                  "text": "Grapevine Springs Park features a spring or water feature in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.076798,
@@ -25891,7 +25891,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Winterwood Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Winterwood Park is a neighborhood park in the Winterwood area of the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.058127,
@@ -25900,7 +25900,7 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
             },
             {
                   "name": "Joe Shoong Park",
-                  "text": "A park in Las Vegas.",
+                  "text": "Joe Shoong Park is a park named after a community figure in the Las Vegas tourism district.",
                   "category": "park",
                   "coords": [
                         -115.078363,
@@ -25990,7 +25990,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "New Orleans Pharmacy Museum",
-                  "text": "Museum in New Orleans zur Geschichte der Pharmazie und Apotheke.",
+                  "text": "Museum in einem historischen Apothekengebäude aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         -90.064897,
@@ -26143,7 +26143,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "Judge Perez Bridge",
-                  "text": "Die Judge-Perez-Brücke ist eine Hubbrücke in New Orleans.",
+                  "text": "Hubbrücke über den Mississippi River Gulf Outlet.",
                   "category": "landmark",
                   "coords": [
                         -90.008805,
@@ -26280,7 +26280,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "New Orleans Pharmacy Museum",
-                  "text": "Múzeum New Orleansban a gyógyszerészet és a patika történetének szentelve.",
+                  "text": "Múzeum egy 19. századi történelmi gyógyszertár épületben.",
                   "category": "museum",
                   "coords": [
                         -90.064897,
@@ -26433,7 +26433,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "Judge Perez Bridge",
-                  "text": "A Judge Perez híd egy felvonóhíd New Orleansban.",
+                  "text": "Felvonóhíd a Mississippi-folyó öblének kivezető csatornája fölött.",
                   "category": "landmark",
                   "coords": [
                         -90.008805,
@@ -26570,7 +26570,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "New Orleans Pharmacy Museum",
-                  "text": "Muzeu în New Orleans dedicat istoriei farmaciei și a apotecilor.",
+                  "text": "Muzeul găzduit într-o clădire istorică de farmacie din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         -90.064897,
@@ -26723,7 +26723,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "Judge Perez Bridge",
-                  "text": "Podul Judge Perez este un pod vertical lift în New Orleans.",
+                  "text": "Pod basculant peste canalul Mississippi River Gulf Outlet.",
                   "category": "landmark",
                   "coords": [
                         -90.008805,
@@ -26860,7 +26860,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "New Orleans Pharmacy Museum",
-                  "text": "Museum in New Orleans dedicated to the history of pharmacy and apothecary.",
+                  "text": "Museum housed in a historic 19th-century pharmacy building.",
                   "category": "museum",
                   "coords": [
                         -90.064897,
@@ -27013,7 +27013,7 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
             },
             {
                   "name": "Judge Perez Bridge",
-                  "text": "The Judge Perez Bridge is a vertical lift bridge in New Orleans.",
+                  "text": "Vertical lift bridge over the Mississippi River Gulf Outlet.",
                   "category": "landmark",
                   "coords": [
                         -90.008805,
@@ -27181,7 +27181,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Congregation Tiferet Israel",
-                  "text": "Die Congregation Tiferet Israel ist ein jüdischer Gottesdienstort in Austin.",
+                  "text": "Historische Synagoge, erbaut 1890.",
                   "category": "religious",
                   "coords": [
                         -97.756218,
@@ -27190,7 +27190,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "KVET-AM (Austin)",
-                  "text": "KVET-AM ist ein Radiosendemast in Austin, der auf AM sendet.",
+                  "text": "AM-Radiosendemast, sendet auf 1300 kHz.",
                   "category": "tower",
                   "coords": [
                         -97.716673,
@@ -27199,7 +27199,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Islamic Center of Greater Austin",
-                  "text": "Das Islamic Center of Greater Austin ist eine Moschee und ein Gemeindezentrum in Austin.",
+                  "text": "Islamisches Zentrum von Greater Austin dient der muslimischen Gemeinschaft im Technologiecluster.",
                   "category": "religious",
                   "coords": [
                         -97.686787,
@@ -27208,7 +27208,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northeast Park",
-                  "text": "Der Northeast Park ist ein öffentlicher Park in Austin mit Freizeiteinrichtungen.",
+                  "text": "Northeast Park ist ein Stadtteilpark im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.646948,
@@ -27217,7 +27217,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Cat Mountain",
-                  "text": "Cat Mountain ist ein Gipfel in der Gegend von Austin, der zum Wandern beliebt ist.",
+                  "text": "Cat Mountain ist ein markanter Hügel im Technologiecluster.",
                   "category": "natural",
                   "coords": [
                         -97.77973,
@@ -27226,7 +27226,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Burr Field",
-                  "text": "Burr Field ist ein Park in Austin mit Sportplätzen und Grünflächen.",
+                  "text": "Burr Field ist ein Sportfeldpark im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.658008,
@@ -27235,7 +27235,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Walter E. Long Metropolitan Park",
-                  "text": "Der Walter E. Long Metropolitan Park ist ein großer Park in Austin mit einem See und Wanderwegen.",
+                  "text": "Walter E. Long Metropolitan Park ist ein großer Park mit einem See im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.600243,
@@ -27244,7 +27244,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "North Oaks Neighborhood Park",
-                  "text": "Der North Oaks Neighborhood Park ist ein kleiner Park in Austin für die Anwohner.",
+                  "text": "North Oaks Neighborhood Park ist ein Park in der North-Oaks-Siedlung des Technologieclusters.",
                   "category": "park",
                   "coords": [
                         -97.671332,
@@ -27253,7 +27253,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dottie Jordan Park",
-                  "text": "Der Dottie Jordan Park ist ein Nachbarschaftspark in Austin mit Spielplätzen.",
+                  "text": "Dottie Jordan Park ist ein Stadtteilpark im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.674204,
@@ -27262,7 +27262,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "St. John's Park",
-                  "text": "Der St. John's Park ist ein Park in Austin, benannt nach der nahegelegenen Kirche.",
+                  "text": "St. John's Park ist ein Park nahe der St. John's Church im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.700448,
@@ -27271,7 +27271,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Patterson Neighborhood Park",
-                  "text": "Der Patterson Neighborhood Park ist ein Gemeindepark in Austin.",
+                  "text": "Patterson Neighborhood Park ist ein Park im Patterson-Gebiet des Technologieclusters.",
                   "category": "park",
                   "coords": [
                         -97.710263,
@@ -27280,7 +27280,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Springdale Park",
-                  "text": "Der Springdale Park ist ein Park in Austin mit Grünflächen.",
+                  "text": "Springdale Park ist ein Park entlang der Springdale Road im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.682107,
@@ -27289,7 +27289,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Pecan Springs School Park",
-                  "text": "Der Pecan Springs School Park ist ein Park in Austin neben einer Schule.",
+                  "text": "Pecan Springs School Park ist ein Park neben der Pecan Springs School im Technologiecluster.",
                   "category": "park",
                   "coords": [
                         -97.675937,
@@ -27298,7 +27298,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Colony Park District Park",
-                  "text": "Der Colony Park District Park ist ein öffentlicher Park in Austin für das Viertel Colony Park.",
+                  "text": "Colony Park District Park ist ein großer Park im Colony-Park-Viertel des Technologieclusters.",
                   "category": "park",
                   "coords": [
                         -97.63657,
@@ -27307,7 +27307,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Govalle Neighborhood Park",
-                  "text": "Der Govalle Neighborhood Park ist ein Park im Govalle-Gebiet von Austin.",
+                  "text": "Govalle Neighborhood Park ist ein Park im Govalle-Gebiet des Technologieclusters.",
                   "category": "park",
                   "coords": [
                         -97.690162,
@@ -27316,7 +27316,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northwest Recreation Center",
-                  "text": "Das Northwest Recreation Center ist ein Park und eine Freizeiteinrichtung in Austin.",
+                  "text": "Stadtpark mit Sportanlagen im Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.751326,
@@ -27325,7 +27325,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Bright Leaf Natural Area",
-                  "text": "Das Bright Leaf Natural Area ist ein Naturschutzgebiet in Austin mit Wanderwegen.",
+                  "text": "Naturschutzgebiet mit Wanderwegen im Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.771713,
@@ -27334,7 +27334,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Allen Memorial County Park",
-                  "text": "Der Allen Memorial County Park ist ein County-Park in der Gegend von Austin.",
+                  "text": "Gedenkpark zu Ehren von Allen im Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.754291,
@@ -27343,7 +27343,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Brentwood Neighborhood Park",
-                  "text": "Der Brentwood Neighborhood Park ist ein Park im Brentwood-Viertel von Austin.",
+                  "text": "Nachbarschaftspark mit Spielplatz im Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.730703,
@@ -27352,7 +27352,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Beverly S. Sheffield Northwest District Park",
-                  "text": "Der Beverly S. Sheffield Northwest District Park ist ein großer Bezirkspark in Austin.",
+                  "text": "Großer Bezirkspark benannt nach Beverly S. Sheffield im Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.742394,
@@ -27361,7 +27361,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dimension Gallery",
-                  "text": "Die Dimension Gallery ist eine Kunstgalerie in Austin mit zeitgenössischen Werken.",
+                  "text": "Galerie für zeitgenössische Kunst im Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.695826,
@@ -27370,7 +27370,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Painting With a Twist",
-                  "text": "Painting With a Twist ist ein Malkurs-Studio in Austin.",
+                  "text": "Malsalon, in dem Gäste unter Anleitung eigene Kunstwerke schaffen, im Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.728079,
@@ -27379,7 +27379,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Wonderspaces Austin",
-                  "text": "Wonderspaces Austin ist ein interaktiver Kunstraum in Austin.",
+                  "text": "Interaktive Kunstausstellung mit wechselnden Installationen im Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.685176,
@@ -27388,7 +27388,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Fort Colorado Historical Marker",
-                  "text": "Der Fort Colorado Historical Marker ist ein Denkmal, das an ein historisches Fort in der Gegend von Austin erinnert.",
+                  "text": "Historischer Marker erinnert an das Fort Colorado aus dem 19. Jahrhundert im Tech Cluster.",
                   "category": "historical",
                   "coords": [
                         -97.674535,
@@ -27397,7 +27397,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Film Society",
-                  "text": "Die Austin Film Society ist ein Kino und eine Filmorganisation in Austin.",
+                  "text": "Nonprofit-Filmorganisation mit regelmäßigen Vorführungen im Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.696152,
@@ -27415,7 +27415,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Community Cinema",
-                  "text": "Community Cinema ist ein Kino in Austin.",
+                  "text": "Unabhängiges Kino mit wechselndem Programm im Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.62282,
@@ -27424,7 +27424,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "G. A. Bailey Center for the Performing Arts",
-                  "text": "Das G. A. Bailey Center for the Performing Arts ist eine Spielstätte für darstellende Kunst in Austin.",
+                  "text": "Veranstaltungsort für darstellende Künste mit Theater und Konzerten im Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.682271,
@@ -27442,7 +27442,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "McCallum Arts Center",
-                  "text": "Das McCallum Arts Center ist ein Veranstaltungsort für darstellende und bildende Kunst in Austin.",
+                  "text": "Kunstzentrum mit Bühne und Ausstellungsräumen im Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.728786,
@@ -27451,7 +27451,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Table Tennis Association",
-                  "text": "Die Austin Table Tennis Association ist eine Einrichtung für Tischtennis in Austin.",
+                  "text": "Tischtennisverein mit Trainings- und Wettkampfmöglichkeiten im Tech Cluster.",
                   "category": "landmark",
                   "coords": [
                         -97.72418,
@@ -27460,7 +27460,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Zero Whiskey Tactical Arms",
-                  "text": "Zero Whiskey Tactical Arms ist ein Aussichtspunkt in Austin, der einen schönen Ausblick bietet.",
+                  "text": "Natürliches Gelände mit Schießanlage für taktisches Training im Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.715155,
@@ -27505,7 +27505,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Big Walnut Creek Nature Preserve",
-                  "text": "Ein Naturschutzgebiet, das den Korridor des Big Walnut Creek schützt.",
+                  "text": "Naturschutzgebiet entlang des Big Walnut Creek im Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.651116,
@@ -27514,7 +27514,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Decker Tallgrass Prairie Preserve",
-                  "text": "Ein Schutzgebiet zur Wiederherstellung des Tallgras-Prärie-Ökosystems.",
+                  "text": "Restaurierte Tallgras-Prärie im Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.605947,
@@ -27543,7 +27543,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Congregation Tiferet Israel",
-                  "text": "A Congregation Tiferet Israel egy zsidó istentiszteleti hely Austinban.",
+                  "text": "Történelmi zsinagóga, épült 1890-ben.",
                   "category": "religious",
                   "coords": [
                         -97.756218,
@@ -27552,7 +27552,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "KVET-AM (Austin)",
-                  "text": "A KVET-AM egy rádióállomás-torony Austinban, amely AM hullámon sugároz.",
+                  "text": "AM rádióadó torony, 1300 kHz-en sugároz.",
                   "category": "tower",
                   "coords": [
                         -97.716673,
@@ -27561,7 +27561,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Islamic Center of Greater Austin",
-                  "text": "Az Islamic Center of Greater Austin egy mecset és közösségi központ Austinban.",
+                  "text": "A Greater Austin-i Iszlám Központ a muszlim közösséget szolgálja a technológiai klaszterben.",
                   "category": "religious",
                   "coords": [
                         -97.686787,
@@ -27570,7 +27570,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northeast Park",
-                  "text": "A Northeast Park egy nyilvános park Austinban, sportolási lehetőségekkel.",
+                  "text": "A Northeast Park egy városrészi park a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.646948,
@@ -27579,7 +27579,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Cat Mountain",
-                  "text": "A Cat Mountain egy csúcs Austin környékén, népszerű túracélpont.",
+                  "text": "A Cat Mountain egy jellegzetes domb a technológiai klaszterben.",
                   "category": "natural",
                   "coords": [
                         -97.77973,
@@ -27588,7 +27588,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Burr Field",
-                  "text": "A Burr Field egy park Austinban sportpályákkal és nyílt terekkel.",
+                  "text": "A Burr Field egy sportpálya-park a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.658008,
@@ -27597,7 +27597,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Walter E. Long Metropolitan Park",
-                  "text": "A Walter E. Long Metropolitan Park egy nagy park Austinban, tóval és ösvényekkel.",
+                  "text": "A Walter E. Long Metropolitan Park egy nagy park tóval a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.600243,
@@ -27606,7 +27606,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "North Oaks Neighborhood Park",
-                  "text": "A North Oaks Neighborhood Park egy kis park Austinban a helyi lakosok számára.",
+                  "text": "A North Oaks Neighborhood Park egy park a North Oaks lakóparkban, a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.671332,
@@ -27615,7 +27615,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dottie Jordan Park",
-                  "text": "A Dottie Jordan Park egy környéki park Austinban játszóterekkel.",
+                  "text": "A Dottie Jordan Park egy városrészi park a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.674204,
@@ -27624,7 +27624,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "St. John's Park",
-                  "text": "A St. John's Park egy park Austinban, a közeli templomról elnevezve.",
+                  "text": "A St. John's Park egy park a Szent János-templom közelében a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.700448,
@@ -27633,7 +27633,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Patterson Neighborhood Park",
-                  "text": "A Patterson Neighborhood Park egy közösségi park Austinban.",
+                  "text": "A Patterson Neighborhood Park egy park a Patterson területen, a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.710263,
@@ -27642,7 +27642,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Springdale Park",
-                  "text": "A Springdale Park egy park Austinban zöldterületekkel.",
+                  "text": "A Springdale Park egy park a Springdale Road mentén a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.682107,
@@ -27651,7 +27651,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Pecan Springs School Park",
-                  "text": "A Pecan Springs School Park egy iskola melletti park Austinban.",
+                  "text": "A Pecan Springs School Park egy park a Pecan Springs School mellett a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.675937,
@@ -27660,7 +27660,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Colony Park District Park",
-                  "text": "A Colony Park District Park egy nyilvános park Austinban, a Colony Park negyedet szolgálja ki.",
+                  "text": "A Colony Park District Park egy nagy park a Colony Park negyedben, a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.63657,
@@ -27669,7 +27669,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Govalle Neighborhood Park",
-                  "text": "A Govalle Neighborhood Park egy park Austin Govalle negyedében.",
+                  "text": "A Govalle Neighborhood Park egy park a Govalle területen, a technológiai klaszterben.",
                   "category": "park",
                   "coords": [
                         -97.690162,
@@ -27678,7 +27678,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northwest Recreation Center",
-                  "text": "A Northwest Recreation Center egy park és rekreációs létesítmény Austinban.",
+                  "text": "Városi park sportlétesítményekkel a Tech Clusterben.",
                   "category": "park",
                   "coords": [
                         -97.751326,
@@ -27687,7 +27687,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Bright Leaf Natural Area",
-                  "text": "A Bright Leaf Natural Area egy természetvédelmi terület Austinban túraútvonalakkal.",
+                  "text": "Természetvédelmi terület túraútvonalakkal a Tech Clusterben.",
                   "category": "park",
                   "coords": [
                         -97.771713,
@@ -27696,7 +27696,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Allen Memorial County Park",
-                  "text": "Az Allen Memorial County Park egy megyei park Austin környékén.",
+                  "text": "Allen-emlékpark a Tech Clusterben.",
                   "category": "park",
                   "coords": [
                         -97.754291,
@@ -27705,7 +27705,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Brentwood Neighborhood Park",
-                  "text": "A Brentwood Neighborhood Park egy park Austin Brentwood negyedében.",
+                  "text": "Szomszédsági park játszótérrel a Tech Clusterben.",
                   "category": "park",
                   "coords": [
                         -97.730703,
@@ -27714,7 +27714,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Beverly S. Sheffield Northwest District Park",
-                  "text": "A Beverly S. Sheffield Northwest District Park egy nagy kerületi park Austinban.",
+                  "text": "Beverly S. Sheffieldről elnevezett kerületi park a Tech Clusterben.",
                   "category": "park",
                   "coords": [
                         -97.742394,
@@ -27723,7 +27723,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dimension Gallery",
-                  "text": "A Dimension Gallery egy kortárs művészeti galéria Austinban.",
+                  "text": "Kortárs művészeti galéria a Tech Clusterben.",
                   "category": "museum",
                   "coords": [
                         -97.695826,
@@ -27732,7 +27732,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Painting With a Twist",
-                  "text": "A Painting With a Twist egy festő- és kortyoló stúdió Austinban.",
+                  "text": "Festőműhely, ahol a vendégek irányított festésen vesznek részt a Tech Clusterben.",
                   "category": "museum",
                   "coords": [
                         -97.728079,
@@ -27741,7 +27741,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Wonderspaces Austin",
-                  "text": "A Wonderspaces Austin egy interaktív művészeti kiállítótér Austinban.",
+                  "text": "Interaktív művészeti kiállítás változó installációkkal a Tech Clusterben.",
                   "category": "museum",
                   "coords": [
                         -97.685176,
@@ -27750,7 +27750,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Fort Colorado Historical Marker",
-                  "text": "A Fort Colorado Historical Marker egy emlékmű, amely egy történelmi erődre emlékeztet Austin környékén.",
+                  "text": "Történelmi jelzőtábla emlékeztet a 19. századi Fort Colorado erődre a Tech Clusterben.",
                   "category": "historical",
                   "coords": [
                         -97.674535,
@@ -27759,7 +27759,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Film Society",
-                  "text": "Az Austin Film Society egy mozi és filmszervezet Austinban.",
+                  "text": "Nonprofit filmes szervezet rendszeres vetítésekkel a Tech Clusterben.",
                   "category": "cultural",
                   "coords": [
                         -97.696152,
@@ -27777,7 +27777,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Community Cinema",
-                  "text": "A Community Cinema egy mozi Austinban.",
+                  "text": "Független mozi változó műsorral a Tech Clusterben.",
                   "category": "cultural",
                   "coords": [
                         -97.62282,
@@ -27786,7 +27786,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "G. A. Bailey Center for the Performing Arts",
-                  "text": "A G. A. Bailey Center for the Performing Arts egy előadó-művészeti helyszín Austinban.",
+                  "text": "Előadóművészeti központ színházzal és koncertekkel a Tech Clusterben.",
                   "category": "cultural",
                   "coords": [
                         -97.682271,
@@ -27804,7 +27804,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "McCallum Arts Center",
-                  "text": "A McCallum Arts Center egy előadó- és képzőművészeti helyszín Austinban.",
+                  "text": "Művészeti központ színpaddal és kiállítóterekkel a Tech Clusterben.",
                   "category": "cultural",
                   "coords": [
                         -97.728786,
@@ -27813,7 +27813,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Table Tennis Association",
-                  "text": "Az Austin Table Tennis Association egy asztalitenisz-létesítmény Austinban.",
+                  "text": "Asztalitenisz-egyesület edzési és versenyzési lehetőségekkel a Tech Clusterben.",
                   "category": "landmark",
                   "coords": [
                         -97.72418,
@@ -27822,7 +27822,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Zero Whiskey Tactical Arms",
-                  "text": "A Zero Whiskey Tactical Arms egy kilátópont Austinban, festői kilátással.",
+                  "text": "Természetes terület taktikai lőtérrel a Tech Clusterben.",
                   "category": "natural",
                   "coords": [
                         -97.715155,
@@ -27867,7 +27867,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Big Walnut Creek Nature Preserve",
-                  "text": "Egy természetvédelmi terület, amely a Big Walnut Creek folyosóját védi.",
+                  "text": "Természetvédelmi terület a Big Walnut Creek mentén a Tech Clusterben.",
                   "category": "natural",
                   "coords": [
                         -97.651116,
@@ -27876,7 +27876,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Decker Tallgrass Prairie Preserve",
-                  "text": "Egy védett terület a magasfüves préri ökoszisztéma helyreállítására.",
+                  "text": "Helyreállított magasfüves préri a Tech Clusterben.",
                   "category": "natural",
                   "coords": [
                         -97.605947,
@@ -27905,7 +27905,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Congregation Tiferet Israel",
-                  "text": "Congregation Tiferet Israel este un loc de cult evreiesc din Austin.",
+                  "text": "Sinagogă istorică construită în 1890.",
                   "category": "religious",
                   "coords": [
                         -97.756218,
@@ -27914,7 +27914,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "KVET-AM (Austin)",
-                  "text": "KVET-AM este un turn de post de radio în Austin care transmite pe AM.",
+                  "text": "Turn de emisie radio AM, care transmite pe 1300 kHz.",
                   "category": "tower",
                   "coords": [
                         -97.716673,
@@ -27923,7 +27923,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Islamic Center of Greater Austin",
-                  "text": "Islamic Center of Greater Austin este o moschee și un centru comunitar din Austin.",
+                  "text": "Centrul Islamic din Greater Austin deservește comunitatea musulmană din clusterul tehnologic.",
                   "category": "religious",
                   "coords": [
                         -97.686787,
@@ -27932,7 +27932,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northeast Park",
-                  "text": "Northeast Park este un parc public din Austin care oferă facilități de agrement.",
+                  "text": "Northeast Park este un parc de cartier în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.646948,
@@ -27941,7 +27941,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Cat Mountain",
-                  "text": "Cat Mountain este un vârf în zona Austin, popular pentru drumeții.",
+                  "text": "Cat Mountain este un deal proeminent în clusterul tehnologic.",
                   "category": "natural",
                   "coords": [
                         -97.77973,
@@ -27950,7 +27950,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Burr Field",
-                  "text": "Burr Field este un parc în Austin cu terenuri sportive și spații deschise.",
+                  "text": "Burr Field este un parc cu terenuri sportive în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.658008,
@@ -27959,7 +27959,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Walter E. Long Metropolitan Park",
-                  "text": "Walter E. Long Metropolitan Park este un parc mare în Austin, cu un lac și trasee.",
+                  "text": "Walter E. Long Metropolitan Park este un parc mare cu un lac în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.600243,
@@ -27968,7 +27968,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "North Oaks Neighborhood Park",
-                  "text": "North Oaks Neighborhood Park este un parc mic din Austin pentru locuitorii din zonă.",
+                  "text": "North Oaks Neighborhood Park este un parc în cartierul North Oaks din clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.671332,
@@ -27977,7 +27977,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dottie Jordan Park",
-                  "text": "Dottie Jordan Park este un parc de cartier în Austin, cu locuri de joacă.",
+                  "text": "Dottie Jordan Park este un parc de cartier în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.674204,
@@ -27986,7 +27986,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "St. John's Park",
-                  "text": "St. John's Park este un parc în Austin, numit după biserica din apropiere.",
+                  "text": "St. John's Park este un parc lângă Biserica Sf. Ioan în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.700448,
@@ -27995,7 +27995,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Patterson Neighborhood Park",
-                  "text": "Patterson Neighborhood Park este un parc comunitar în Austin.",
+                  "text": "Patterson Neighborhood Park este un parc în zona Patterson a clusterului tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.710263,
@@ -28004,7 +28004,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Springdale Park",
-                  "text": "Springdale Park este un parc în Austin cu spații verzi.",
+                  "text": "Springdale Park este un parc de-a lungul Springdale Road în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.682107,
@@ -28013,7 +28013,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Pecan Springs School Park",
-                  "text": "Pecan Springs School Park este un parc din Austin adiacent unei școli.",
+                  "text": "Pecan Springs School Park este un parc adiacent școlii Pecan Springs în clusterul tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.675937,
@@ -28022,7 +28022,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Colony Park District Park",
-                  "text": "Colony Park District Park este un parc public din Austin care deservește cartierul Colony Park.",
+                  "text": "Colony Park District Park este un parc mare în cartierul Colony Park al clusterului tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.63657,
@@ -28031,7 +28031,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Govalle Neighborhood Park",
-                  "text": "Govalle Neighborhood Park este un parc în zona Govalle din Austin.",
+                  "text": "Govalle Neighborhood Park este un parc în zona Govalle a clusterului tehnologic.",
                   "category": "park",
                   "coords": [
                         -97.690162,
@@ -28040,7 +28040,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northwest Recreation Center",
-                  "text": "Northwest Recreation Center este un parc și o facilitate de agrement în Austin.",
+                  "text": "Parcul urban cu facilități sportive în Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.751326,
@@ -28049,7 +28049,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Bright Leaf Natural Area",
-                  "text": "Bright Leaf Natural Area este o rezervație naturală în Austin, cu trasee de drumeție.",
+                  "text": "Arie naturală protejată cu trasee de drumeție în Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.771713,
@@ -28058,7 +28058,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Allen Memorial County Park",
-                  "text": "Allen Memorial County Park este un parc județean în zona Austin.",
+                  "text": "Parcul memorial Allen în Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.754291,
@@ -28067,7 +28067,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Brentwood Neighborhood Park",
-                  "text": "Brentwood Neighborhood Park este un parc în cartierul Brentwood din Austin.",
+                  "text": "Parcul de cartier cu loc de joacă în Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.730703,
@@ -28076,7 +28076,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Beverly S. Sheffield Northwest District Park",
-                  "text": "Beverly S. Sheffield Northwest District Park este un parc district mare în Austin.",
+                  "text": "Parcul districtual mare numit după Beverly S. Sheffield în Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.742394,
@@ -28085,7 +28085,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dimension Gallery",
-                  "text": "Dimension Gallery este o galerie de artă din Austin care prezintă lucrări contemporane.",
+                  "text": "Galerie de artă contemporană în Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.695826,
@@ -28094,7 +28094,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Painting With a Twist",
-                  "text": "Painting With a Twist este un studio de pictură și degustare în Austin.",
+                  "text": "Atelier de pictură unde oaspeții creează opere de artă ghidat în Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.728079,
@@ -28103,7 +28103,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Wonderspaces Austin",
-                  "text": "Wonderspaces Austin este un spațiu expozițional interactiv de artă în Austin.",
+                  "text": "Expoziție de artă interactivă cu instalații rotative în Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.685176,
@@ -28112,7 +28112,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Fort Colorado Historical Marker",
-                  "text": "Fort Colorado Historical Marker este un monument care comemorează un fort istoric în zona Austin.",
+                  "text": "Marcator istoric care comemorează Fort Colorado din secolul al XIX-lea în Tech Cluster.",
                   "category": "historical",
                   "coords": [
                         -97.674535,
@@ -28121,7 +28121,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Film Society",
-                  "text": "Austin Film Society este un cinematograf și o organizație de film din Austin.",
+                  "text": "Organizație nonprofit de film cu proiecții regulate în Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.696152,
@@ -28139,7 +28139,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Community Cinema",
-                  "text": "Community Cinema este un cinematograf în Austin.",
+                  "text": "Cinematograf independent cu program variat în Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.62282,
@@ -28148,7 +28148,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "G. A. Bailey Center for the Performing Arts",
-                  "text": "G. A. Bailey Center for the Performing Arts este un loc de spectacole în Austin.",
+                  "text": "Centru de arte performative cu teatru și concerte în Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.682271,
@@ -28166,7 +28166,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "McCallum Arts Center",
-                  "text": "McCallum Arts Center este un loc pentru artele spectacolului și vizuale în Austin.",
+                  "text": "Centru de artă cu scenă și spații expoziționale în Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.728786,
@@ -28175,7 +28175,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Table Tennis Association",
-                  "text": "Austin Table Tennis Association este o facilitate pentru tenis de masă în Austin.",
+                  "text": "Asociație de tenis de masă cu facilități de antrenament și competiție în Tech Cluster.",
                   "category": "landmark",
                   "coords": [
                         -97.72418,
@@ -28184,7 +28184,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Zero Whiskey Tactical Arms",
-                  "text": "Zero Whiskey Tactical Arms este un punct de belvedere în Austin care oferă vederi pitorești.",
+                  "text": "Zonă naturală cu poligon de tragere tactic în Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.715155,
@@ -28229,7 +28229,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Big Walnut Creek Nature Preserve",
-                  "text": "O rezervație naturală care protejează coridorul pârâului Big Walnut Creek.",
+                  "text": "Rezervație naturală de-a lungul pârâului Big Walnut în Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.651116,
@@ -28238,7 +28238,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Decker Tallgrass Prairie Preserve",
-                  "text": "O rezervație dedicată restaurării ecosistemului de prerie cu iarbă înaltă.",
+                  "text": "Prerie de iarbă înaltă restaurată în Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.605947,
@@ -28267,7 +28267,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Congregation Tiferet Israel",
-                  "text": "Congregation Tiferet Israel is a Jewish place of worship in Austin.",
+                  "text": "Historic synagogue built in 1890.",
                   "category": "religious",
                   "coords": [
                         -97.756218,
@@ -28276,7 +28276,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "KVET-AM (Austin)",
-                  "text": "KVET-AM is a radio station tower in Austin broadcasting on AM.",
+                  "text": "AM radio tower broadcasting at 1300 kHz.",
                   "category": "tower",
                   "coords": [
                         -97.716673,
@@ -28285,7 +28285,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Islamic Center of Greater Austin",
-                  "text": "Islamic Center of Greater Austin is a mosque and community center in Austin.",
+                  "text": "Islamic Center of Greater Austin serves the Muslim community in the Tech Cluster.",
                   "category": "religious",
                   "coords": [
                         -97.686787,
@@ -28294,7 +28294,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northeast Park",
-                  "text": "Northeast Park is a public park in Austin offering recreational facilities.",
+                  "text": "Northeast Park is a neighborhood park in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.646948,
@@ -28303,7 +28303,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Cat Mountain",
-                  "text": "Cat Mountain is a peak in the Austin area, popular for hiking.",
+                  "text": "Cat Mountain is a prominent hill in the Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.77973,
@@ -28312,7 +28312,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Burr Field",
-                  "text": "Burr Field is a park in Austin with sports fields and open space.",
+                  "text": "Burr Field is a sports field park in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.658008,
@@ -28321,7 +28321,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Walter E. Long Metropolitan Park",
-                  "text": "Walter E. Long Metropolitan Park is a large park in Austin featuring a lake and trails.",
+                  "text": "Walter E. Long Metropolitan Park is a large park with a lake in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.600243,
@@ -28330,7 +28330,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "North Oaks Neighborhood Park",
-                  "text": "North Oaks Neighborhood Park is a small park in Austin for local residents.",
+                  "text": "North Oaks Neighborhood Park is a park in the North Oaks subdivision of the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.671332,
@@ -28339,7 +28339,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dottie Jordan Park",
-                  "text": "Dottie Jordan Park is a neighborhood park in Austin with playgrounds.",
+                  "text": "Dottie Jordan Park is a neighborhood park in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.674204,
@@ -28348,7 +28348,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "St. John's Park",
-                  "text": "St. John's Park is a park in Austin named after the nearby church.",
+                  "text": "St. John's Park is a park near St. John's Church in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.700448,
@@ -28357,7 +28357,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Patterson Neighborhood Park",
-                  "text": "Patterson Neighborhood Park is a community park in Austin.",
+                  "text": "Patterson Neighborhood Park is a park in the Patterson area of the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.710263,
@@ -28366,7 +28366,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Springdale Park",
-                  "text": "Springdale Park is a park in Austin with green space.",
+                  "text": "Springdale Park is a park along Springdale Road in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.682107,
@@ -28375,7 +28375,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Pecan Springs School Park",
-                  "text": "Pecan Springs School Park is a park adjacent to a school in Austin.",
+                  "text": "Pecan Springs School Park is a park adjacent to Pecan Springs School in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.675937,
@@ -28384,7 +28384,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Colony Park District Park",
-                  "text": "Colony Park District Park is a public park in Austin serving the Colony Park neighborhood.",
+                  "text": "Colony Park District Park is a large park in the Colony Park neighborhood of the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.63657,
@@ -28393,7 +28393,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Govalle Neighborhood Park",
-                  "text": "Govalle Neighborhood Park is a park in Austin's Govalle area.",
+                  "text": "Govalle Neighborhood Park is a park in the Govalle area of the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.690162,
@@ -28402,7 +28402,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Northwest Recreation Center",
-                  "text": "Northwest Recreation Center is a park and recreation facility in Austin.",
+                  "text": "Urban park with sports facilities in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.751326,
@@ -28411,7 +28411,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Bright Leaf Natural Area",
-                  "text": "Bright Leaf Natural Area is a natural preserve in Austin with hiking trails.",
+                  "text": "Natural area with hiking trails in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.771713,
@@ -28420,7 +28420,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Allen Memorial County Park",
-                  "text": "Allen Memorial County Park is a county park in the Austin area.",
+                  "text": "Memorial park named after Allen in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.754291,
@@ -28429,7 +28429,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Brentwood Neighborhood Park",
-                  "text": "Brentwood Neighborhood Park is a park in the Brentwood neighborhood of Austin.",
+                  "text": "Neighborhood park with playground in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.730703,
@@ -28438,7 +28438,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Beverly S. Sheffield Northwest District Park",
-                  "text": "Beverly S. Sheffield Northwest District Park is a large district park in Austin.",
+                  "text": "Large district park named after Beverly S. Sheffield in the Tech Cluster.",
                   "category": "park",
                   "coords": [
                         -97.742394,
@@ -28447,7 +28447,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Dimension Gallery",
-                  "text": "Dimension Gallery is an art gallery in Austin showcasing contemporary works.",
+                  "text": "Contemporary art gallery in the Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.695826,
@@ -28456,7 +28456,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Painting With a Twist",
-                  "text": "Painting With a Twist is a paint-and-sip studio in Austin.",
+                  "text": "Paint-and-sip studio offering guided art sessions in the Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.728079,
@@ -28465,7 +28465,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Wonderspaces Austin",
-                  "text": "Wonderspaces Austin is an interactive art exhibition space in Austin.",
+                  "text": "Interactive art exhibition with rotating installations in the Tech Cluster.",
                   "category": "museum",
                   "coords": [
                         -97.685176,
@@ -28474,7 +28474,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Fort Colorado Historical Marker",
-                  "text": "Fort Colorado Historical Marker is a monument commemorating a historic fort in the Austin area.",
+                  "text": "Historical marker commemorating 19th-century Fort Colorado in the Tech Cluster.",
                   "category": "historical",
                   "coords": [
                         -97.674535,
@@ -28483,7 +28483,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Film Society",
-                  "text": "Austin Film Society is a cinema and film organization in Austin.",
+                  "text": "Nonprofit film society with regular screenings in the Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.696152,
@@ -28501,7 +28501,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Community Cinema",
-                  "text": "Community Cinema is a movie theater in Austin.",
+                  "text": "Independent cinema with rotating program in the Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.62282,
@@ -28510,7 +28510,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "G. A. Bailey Center for the Performing Arts",
-                  "text": "G. A. Bailey Center for the Performing Arts is a performing arts venue in Austin.",
+                  "text": "Performing arts center with theater and concerts in the Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.682271,
@@ -28528,7 +28528,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "McCallum Arts Center",
-                  "text": "McCallum Arts Center is a performing and visual arts venue in Austin.",
+                  "text": "Arts center with stage and exhibition spaces in the Tech Cluster.",
                   "category": "cultural",
                   "coords": [
                         -97.728786,
@@ -28537,7 +28537,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Austin Table Tennis Association",
-                  "text": "Austin Table Tennis Association is a facility for table tennis in Austin.",
+                  "text": "Table tennis club with training and competition facilities in the Tech Cluster.",
                   "category": "landmark",
                   "coords": [
                         -97.72418,
@@ -28546,7 +28546,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Zero Whiskey Tactical Arms",
-                  "text": "Zero Whiskey Tactical Arms is a viewpoint in Austin offering scenic views.",
+                  "text": "Natural area with a tactical shooting range in the Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.715155,
@@ -28591,7 +28591,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Big Walnut Creek Nature Preserve",
-                  "text": "A nature preserve protecting the Big Walnut Creek corridor.",
+                  "text": "Nature preserve along Big Walnut Creek in the Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.651116,
@@ -28600,7 +28600,7 @@ factsAdvanced: { de: ["Die Boeing Company wurde 1916 in Seattle von dem Holzhän
             },
             {
                   "name": "Decker Tallgrass Prairie Preserve",
-                  "text": "A preserve dedicated to restoring tallgrass prairie ecosystem.",
+                  "text": "Restored tallgrass prairie in the Tech Cluster.",
                   "category": "natural",
                   "coords": [
                         -97.605947,

@@ -39,7 +39,52 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "nino-konis-santana-national-park-nature-v2",
+    id: "nino-konis-santana-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein geschützter, unberührter Sandstrand innerhalb der vielfältigen Ökosysteme des Nino Konis Santana Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        127.163446,
+                        -8.345824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Védett, érintetlen homokos strand a Nino Konis Santana Nemzeti Park változatos ökoszisztémájában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.163446,
+                        -8.345824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă protejată, cu nisip imaculat, situată în cadrul ecosistemelor diverse din Parcul Național Nino Konis Santana.",
+                  "category": "recreational",
+                  "coords": [
+                        127.163446,
+                        -8.345824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A pristine, protected sandy beach situated within the diverse ecosystems of Nino Konis Santana National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        127.163446,
+                        -8.345824
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TL-LA",
     coords: [127.1840, -8.4111],
@@ -111,7 +156,52 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-matebian-nature-v2",
+    id: "mount-matebian-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Matebean Mane",
+                  "text": "Mount Matebean Mane ist ein bedeutender Berggipfel in mount-matebian-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.596554,
+                        -8.641524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Matebean Mane",
+                  "text": "A Mount Matebean Mane egy jelentős hegycsúcs a mount-matebian-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.596554,
+                        -8.641524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Matebean Mane",
+                  "text": "Mount Matebean Mane este un vârf montan important din mount-matebian-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.596554,
+                        -8.641524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Matebean Mane",
+                  "text": "Mount Matebean Mane is a prominent mountain peak situated in mount-matebian-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.596554,
+                        -8.641524
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-BA",
     coords: [126.5910, -8.6253],
@@ -219,7 +309,268 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-seloi-nature-v2",
+    id: "lake-seloi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chapel of St.Teresa de Vila",
+                  "text": "Mit Blick auf die malerische Umgebung des Seloi-Sees bietet diese christliche Kapelle einen pittoresken Ort der Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        125.579194,
+                        -8.638571
+                  ]
+            },
+            {
+                  "name": "Capela Aldeia Fatuk-Hun",
+                  "text": "Diese lokale Kirche im Dorf Fatuk-Hun liegt in der Nähe der ruhigen natürlichen Umgebung des Seloi-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        125.608502,
+                        -8.637578
+                  ]
+            },
+            {
+                  "name": "Capela Fahisoi",
+                  "text": "Diese christliche Kapelle in Fahisoi dient der Gemeinde rund um den Seloi-See und ist ein bescheidener, aber zentraler Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63844,
+                        -8.666993
+                  ]
+            },
+            {
+                  "name": "Evangelica Assembleia de Deus",
+                  "text": "Vor der Kulisse der Region des Seloi-Sees beherbergt diese christliche Einrichtung Versammlungen der örtlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551349,
+                        -8.681291
+                  ]
+            },
+            {
+                  "name": "Capela Catolica Samalete",
+                  "text": "Diese katholische Kapelle in Samalete bietet den Bewohnern, die in der Nähe der Feuchtgebiete des Seloi-Sees leben, spirituelle Führung.",
+                  "category": "landmark",
+                  "coords": [
+                        125.511159,
+                        -8.6729
+                  ]
+            },
+            {
+                  "name": "Market Lakbo",
+                  "text": "Auf diesem lebhaften lokalen Marktplatz in der Nähe des Seloi-Sees treffen sich die Dorfbewohner, um regionale landwirtschaftliche Produkte zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.547373,
+                        -8.68481
+                  ]
+            },
+            {
+                  "name": "Mercado Solerema",
+                  "text": "Dieser Marktplatz im Bezirk des Seloi-Sees ist ein wichtiger Handelsplatz für Dinge des täglichen Bedarfs und lokale Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560154,
+                        -8.657921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapel of St.Teresa de Vila",
+                  "text": "A Seloi-tó festői környezetére néző keresztény kápolna festői elmélkedési helyet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.579194,
+                        -8.638571
+                  ]
+            },
+            {
+                  "name": "Capela Aldeia Fatuk-Hun",
+                  "text": "Ez a helyi templom Fatuk-Hun faluban fekszik, közel a Seloi-tó nyugodt természeti környezetéhez.",
+                  "category": "religious",
+                  "coords": [
+                        125.608502,
+                        -8.637578
+                  ]
+            },
+            {
+                  "name": "Capela Fahisoi",
+                  "text": "A Seloi-tó körüli közösséget szolgáló fahisoi keresztény kápolna szerény, de központi találkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63844,
+                        -8.666993
+                  ]
+            },
+            {
+                  "name": "Evangelica Assembleia de Deus",
+                  "text": "A Seloi-tó régiójának hátterében található keresztény létesítmény a helyi gyülekezet összejöveteleinek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551349,
+                        -8.681291
+                  ]
+            },
+            {
+                  "name": "Capela Catolica Samalete",
+                  "text": "Ez a samaletei katolikus kápolna spirituális útmutatást nyújt a Seloi-tó vizenyős területei közelében élő lakosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.511159,
+                        -8.6729
+                  ]
+            },
+            {
+                  "name": "Market Lakbo",
+                  "text": "Ezen a nyüzsgő helyi piacon a Seloi-tó közelében a falubeliek összegyűlnek, hogy eladják a regionális mezőgazdasági termékeket.",
+                  "category": "cultural",
+                  "coords": [
+                        125.547373,
+                        -8.68481
+                  ]
+            },
+            {
+                  "name": "Mercado Solerema",
+                  "text": "A Seloi-tó körzetében működő piac a napi szükségleti cikkek és a helyi áruk kulcsfontosságú kereskedési helye.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560154,
+                        -8.657921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapel of St.Teresa de Vila",
+                  "text": "Având vedere la împrejurimile pitorești ale Lacului Seloi, această capelă creștină oferă un loc pitoresc de reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        125.579194,
+                        -8.638571
+                  ]
+            },
+            {
+                  "name": "Capela Aldeia Fatuk-Hun",
+                  "text": "Această biserică locală din satul Fatuk-Hun se află lângă mediul natural liniștit al Lacului Seloi.",
+                  "category": "religious",
+                  "coords": [
+                        125.608502,
+                        -8.637578
+                  ]
+            },
+            {
+                  "name": "Capela Fahisoi",
+                  "text": "Deservind comunitatea din jurul Lacului Seloi, această capelă creștină din Fahisoi este un punct de adunare modest, dar central.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63844,
+                        -8.666993
+                  ]
+            },
+            {
+                  "name": "Evangelica Assembleia de Deus",
+                  "text": "Având pe fundal regiunea Lacului Seloi, această unitate creștină găzduiește adunări pentru congregația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551349,
+                        -8.681291
+                  ]
+            },
+            {
+                  "name": "Capela Catolica Samalete",
+                  "text": "Această capelă catolică din Samalete oferă îndrumare spirituală locuitorilor care trăiesc în apropierea zonelor umede ale Lacului Seloi.",
+                  "category": "landmark",
+                  "coords": [
+                        125.511159,
+                        -8.6729
+                  ]
+            },
+            {
+                  "name": "Market Lakbo",
+                  "text": "Această piață locală plină de viață de lângă Lacul Seloi este locul unde sătenii se adună pentru a vinde produse agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.547373,
+                        -8.68481
+                  ]
+            },
+            {
+                  "name": "Mercado Solerema",
+                  "text": "Funcționând în districtul Lacului Seloi, această piață servește ca un loc comercial crucial pentru necesitățile zilnice și bunurile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560154,
+                        -8.657921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapel of St.Teresa de Vila",
+                  "text": "Overlooking the scenic surroundings of Lake Seloi, this Christian chapel provides a picturesque place of reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        125.579194,
+                        -8.638571
+                  ]
+            },
+            {
+                  "name": "Capela Aldeia Fatuk-Hun",
+                  "text": "This local church in the village of Fatuk-Hun lies near the tranquil natural environment of Lake Seloi.",
+                  "category": "religious",
+                  "coords": [
+                        125.608502,
+                        -8.637578
+                  ]
+            },
+            {
+                  "name": "Capela Fahisoi",
+                  "text": "Serving the community around Lake Seloi, this Christian chapel in Fahisoi is a modest but central gathering point.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63844,
+                        -8.666993
+                  ]
+            },
+            {
+                  "name": "AOG Sarlala",
+                  "text": "Set against the backdrop of the Lake Seloi region, this Christian facility hosts gatherings for the local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551349,
+                        -8.681291
+                  ]
+            },
+            {
+                  "name": "Capela Catolica Samalete",
+                  "text": "This Catholic chapel in Samalete provides spiritual guidance to residents living near the wetlands of Lake Seloi.",
+                  "category": "landmark",
+                  "coords": [
+                        125.511159,
+                        -8.6729
+                  ]
+            },
+            {
+                  "name": "Market Lakbo",
+                  "text": "This lively local marketplace near Lake Seloi is where villagers gather to sell regional agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        125.547373,
+                        -8.68481
+                  ]
+            },
+            {
+                  "name": "Mercado Solerema",
+                  "text": "Operating in the Lake Seloi district, this marketplace serves as a crucial trading spot for daily necessities and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560154,
+                        -8.657921
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TL-AL",
     coords: [125.5510, -8.6558],
@@ -255,7 +606,124 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-mundo-perdido-nature-v2",
+    id: "mount-mundo-perdido-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "View point",
+                  "text": "Dieser View point ist eine Attraktion in mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38152,
+                        -8.774626
+                  ]
+            },
+            {
+                  "name": "Gorilla cave parking",
+                  "text": "Gorilla cave parking ist eine lokale Attraktion in mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.393429,
+                        -8.784179
+                  ]
+            },
+            {
+                  "name": "Lekiraka cave",
+                  "text": "Lekiraka cave ist eine interessante Attraktion in mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391831,
+                        -8.786169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View point",
+                  "text": "Ez a kilátópont egy vonzerő a mount-mundo-perdido-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38152,
+                        -8.774626
+                  ]
+            },
+            {
+                  "name": "Gorilla cave parking",
+                  "text": "A Gorilla cave parking egy helyi látványosság a mount-mundo-perdido-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.393429,
+                        -8.784179
+                  ]
+            },
+            {
+                  "name": "Lekiraka cave",
+                  "text": "A Lekiraka cave egy érdekes látványosság a mount-mundo-perdido-nature-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391831,
+                        -8.786169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere este o atracție din mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38152,
+                        -8.774626
+                  ]
+            },
+            {
+                  "name": "Gorilla cave parking",
+                  "text": "Gorilla cave parking este o atracție locală din mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.393429,
+                        -8.784179
+                  ]
+            },
+            {
+                  "name": "Lekiraka cave",
+                  "text": "Lekiraka cave este o atracție interesantă din mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391831,
+                        -8.786169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View point",
+                  "text": "This view point is an attraction in mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38152,
+                        -8.774626
+                  ]
+            },
+            {
+                  "name": "Gorilla cave parking",
+                  "text": "Gorilla cave parking is a local attraction located in mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.393429,
+                        -8.784179
+                  ]
+            },
+            {
+                  "name": "Lekiraka cave",
+                  "text": "Lekiraka cave is an interesting attraction situated in mount-mundo-perdido-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391831,
+                        -8.786169
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-VI",
     coords: [126.3540, -8.7408],
@@ -291,7 +759,268 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "seical-river-nature-v2",
+    id: "seical-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Das Portuguese Fort ist eine touristische Attraktion in seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.598461,
+                        -8.474996
+                  ]
+            },
+            {
+                  "name": "Atatada",
+                  "text": "Atatada ist ein Leuchtturm in der Region seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.596594,
+                        -8.470501
+                  ]
+            },
+            {
+                  "name": "Dom Bosco Laga",
+                  "text": "Dom Bosco Laga ist ein Denkmal in seical-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.600884,
+                        -8.472054
+                  ]
+            },
+            {
+                  "name": "Monumentu Luis Manu-Aman",
+                  "text": "Monumentu Luis Manu-Aman ist ein bedeutendes Denkmal in seical-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.614484,
+                        -8.48487
+                  ]
+            },
+            {
+                  "name": "Orfonato FMA Laga",
+                  "text": "Orfonato FMA Laga ist ein Wohngebäude in seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.604882,
+                        -8.468913
+                  ]
+            },
+            {
+                  "name": "Capela Larifanu",
+                  "text": "Capela Larifanu ist eine Kirche, die der Gemeinde in seical-river-nature-v2 dient.",
+                  "category": "religious",
+                  "coords": [
+                        126.630832,
+                        -8.481744
+                  ]
+            },
+            {
+                  "name": "Mercado Laga",
+                  "text": "Mercado Laga ist ein lokaler Marktplatz in seical-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.610129,
+                        -8.484151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "A Portuguese Fort egy turisztikai látványosság a seical-river-nature-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.598461,
+                        -8.474996
+                  ]
+            },
+            {
+                  "name": "Atatada",
+                  "text": "Az Atatada egy világítótorony a seical-river-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.596594,
+                        -8.470501
+                  ]
+            },
+            {
+                  "name": "Dom Bosco Laga",
+                  "text": "A Dom Bosco Laga egy emlékmű a seical-river-nature-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        126.600884,
+                        -8.472054
+                  ]
+            },
+            {
+                  "name": "Monumentu Luis Manu-Aman",
+                  "text": "A Monumentu Luis Manu-Aman egy jelentős emlékmű a seical-river-nature-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        126.614484,
+                        -8.48487
+                  ]
+            },
+            {
+                  "name": "Orfonato FMA Laga",
+                  "text": "Az Orfonato FMA Laga egy lakóépület seical-river-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        126.604882,
+                        -8.468913
+                  ]
+            },
+            {
+                  "name": "Capela Larifanu",
+                  "text": "A Capela Larifanu egy templom seical-river-nature-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        126.630832,
+                        -8.481744
+                  ]
+            },
+            {
+                  "name": "Mercado Laga",
+                  "text": "A Mercado Laga egy helyi piac seical-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.610129,
+                        -8.484151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Portuguese Fort este o atracție turistică situată în seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.598461,
+                        -8.474996
+                  ]
+            },
+            {
+                  "name": "Atatada",
+                  "text": "Atatada este un far aflat în zona seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.596594,
+                        -8.470501
+                  ]
+            },
+            {
+                  "name": "Dom Bosco Laga",
+                  "text": "Dom Bosco Laga este un monument istoric din seical-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.600884,
+                        -8.472054
+                  ]
+            },
+            {
+                  "name": "Monumentu Luis Manu-Aman",
+                  "text": "Monumentu Luis Manu-Aman este un monument important din seical-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.614484,
+                        -8.48487
+                  ]
+            },
+            {
+                  "name": "Orfonato FMA Laga",
+                  "text": "Orfonato FMA Laga este o clădire rezidențială din seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.604882,
+                        -8.468913
+                  ]
+            },
+            {
+                  "name": "Capela Larifanu",
+                  "text": "Capela Larifanu este o biserică din seical-river-nature-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.630832,
+                        -8.481744
+                  ]
+            },
+            {
+                  "name": "Mercado Laga",
+                  "text": "Mercado Laga este o piață locală din seical-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.610129,
+                        -8.484151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "The Portuguese Fort is a tourist attraction located in seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.598461,
+                        -8.474996
+                  ]
+            },
+            {
+                  "name": "Atatada",
+                  "text": "Atatada is a lighthouse found in the seical-river-nature-v2 region.",
+                  "category": "landmark",
+                  "coords": [
+                        126.596594,
+                        -8.470501
+                  ]
+            },
+            {
+                  "name": "Dom Bosco Laga",
+                  "text": "Dom Bosco Laga is a monument situated in seical-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.600884,
+                        -8.472054
+                  ]
+            },
+            {
+                  "name": "Monumentu Luis Manu-Aman",
+                  "text": "Monumentu Luis Manu-Aman is a notable monument in seical-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.614484,
+                        -8.48487
+                  ]
+            },
+            {
+                  "name": "Orfonato FMA Laga",
+                  "text": "Orfonato FMA Laga is a residential building located in seical-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.604882,
+                        -8.468913
+                  ]
+            },
+            {
+                  "name": "Capela Larifanu",
+                  "text": "Capela Larifanu is a church serving the community in seical-river-nature-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.630832,
+                        -8.481744
+                  ]
+            },
+            {
+                  "name": "Mercado Laga",
+                  "text": "Mercado Laga is a local marketplace located in seical-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.610129,
+                        -8.484151
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TL-BA",
     coords: [126.5650, -8.4411],
@@ -327,7 +1056,124 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "tono-river-nature-v2",
+    id: "tono-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Dieser sandige Uferbereich erstreckt sich entlang des Flusses Tono und bietet einen natürlichen Ort zum Sonnenbaden und für den Zugang zum Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        124.257957,
+                        -9.232768
+                  ]
+            },
+            {
+                  "name": "Igreja São Miguel Arcanjo de Padiae",
+                  "text": "Diese christliche Kirche in Padiae ist dem Erzengel Michael geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347152,
+                        -9.248442
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Jose Operario Padiae",
+                  "text": "Eine christliche Kapelle der örtlichen Gemeinde, die dem Heiligen Josef dem Arbeiter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        124.345791,
+                        -9.247458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "A Tono folyó partján elterülő homokos partszakasz természetes napozóhelyet és közvetlen vízkapcsolatot biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        124.257957,
+                        -9.232768
+                  ]
+            },
+            {
+                  "name": "Igreja São Miguel Arcanjo de Padiae",
+                  "text": "Ezt a padiae-i keresztény templomot Mihály arkangyalnak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347152,
+                        -9.248442
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Jose Operario Padiae",
+                  "text": "A helyi közösséget szolgáló keresztény kápolna, amelyet Munkás Szent Józsefnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        124.345791,
+                        -9.247458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "Întinzându-se de-a lungul malurilor râului Tono, această zonă nisipoasă de pe mal oferă un loc natural pentru plajă și acces la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        124.257957,
+                        -9.232768
+                  ]
+            },
+            {
+                  "name": "Igreja São Miguel Arcanjo de Padiae",
+                  "text": "Această biserică creștină din Padiae este închinată Arhanghelului Mihail.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347152,
+                        -9.248442
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Jose Operario Padiae",
+                  "text": "O capelă creștină ce deservește comunitatea locală, închinată Sfântului Iosif Muncitorul.",
+                  "category": "landmark",
+                  "coords": [
+                        124.345791,
+                        -9.247458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "Stretching along the banks of the Tono River, this sandy riverside area provides a natural spot for sunbathing and water access.",
+                  "category": "recreational",
+                  "coords": [
+                        124.257957,
+                        -9.232768
+                  ]
+            },
+            {
+                  "name": "Igreja São Miguel Arcanjo de Padiae",
+                  "text": "This Christian church is dedicated to St. Michael the Archangel in Padiae.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347152,
+                        -9.248442
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Jose Operario Padiae",
+                  "text": "A Christian chapel serving the local community, dedicated to St. Joseph the Worker.",
+                  "category": "landmark",
+                  "coords": [
+                        124.345791,
+                        -9.247458
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TL-OE",
     coords: [124.3160, -9.2638],
@@ -363,7 +1209,268 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-taroman-nature-v2",
+    id: "mount-taroman-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lolo Kiik",
+                  "text": "Lolo Kiik ist ein markanter Berggipfel im Gebiet von mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.1,
+                        -9.183889
+                  ]
+            },
+            {
+                  "name": "Lolo Siat",
+                  "text": "Lolo Siat ist ein Berggipfel in der Region mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.107222,
+                        -9.173333
+                  ]
+            },
+            {
+                  "name": "Lolo Pampor",
+                  "text": "Lolo Pampor ist ein Berggipfel im Gebiet von mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.159722,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Railuli",
+                  "text": "Lolo Railuli ist ein Berggipfel in der Region mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.162222,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Cieleru",
+                  "text": "Lolo Cieleru ist ein Gipfel in der Landschaft von mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.167222,
+                        -9.156111
+                  ]
+            },
+            {
+                  "name": "Lolo Henestas",
+                  "text": "Lolo Henestas ist ein Berggipfel im Gebiet von mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.164444,
+                        -9.146944
+                  ]
+            },
+            {
+                  "name": "Kapela Fatuloro",
+                  "text": "Kapela Fatuloro ist eine lokale Kapelle in mount-taroman-nature-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.180045,
+                        -9.228003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lolo Kiik",
+                  "text": "A Lolo Kiik egy hegycsúcs a mount-taroman-nature-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        125.1,
+                        -9.183889
+                  ]
+            },
+            {
+                  "name": "Lolo Siat",
+                  "text": "A Lolo Siat egy hegycsúcs, amely a mount-taroman-nature-v2 területén található.",
+                  "category": "natural",
+                  "coords": [
+                        125.107222,
+                        -9.173333
+                  ]
+            },
+            {
+                  "name": "Lolo Pampor",
+                  "text": "A Lolo Pampor egy hegycsúcs a mount-taroman-nature-v2 térségében.",
+                  "category": "natural",
+                  "coords": [
+                        125.159722,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Railuli",
+                  "text": "A Lolo Railuli egy hegycsúcs a mount-taroman-nature-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        125.162222,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Cieleru",
+                  "text": "A Lolo Cieleru a mount-taroman-nature-v2 régió hegyvidéki tájának egyik csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        125.167222,
+                        -9.156111
+                  ]
+            },
+            {
+                  "name": "Lolo Henestas",
+                  "text": "A Lolo Henestas egy hegycsúcs a mount-taroman-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.164444,
+                        -9.146944
+                  ]
+            },
+            {
+                  "name": "Kapela Fatuloro",
+                  "text": "A Kapela Fatuloro egy helyi kápolna a mount-taroman-nature-v2 régióban.",
+                  "category": "religious",
+                  "coords": [
+                        125.180045,
+                        -9.228003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lolo Kiik",
+                  "text": "Lolo Kiik este un vârf montan situat în zona mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.1,
+                        -9.183889
+                  ]
+            },
+            {
+                  "name": "Lolo Siat",
+                  "text": "Lolo Siat este un vârf de munte situat în regiunea mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.107222,
+                        -9.173333
+                  ]
+            },
+            {
+                  "name": "Lolo Pampor",
+                  "text": "Lolo Pampor este un vârf montan din regiunea mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.159722,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Railuli",
+                  "text": "Lolo Railuli este un vârf montan situat în mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.162222,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Cieleru",
+                  "text": "Lolo Cieleru este un vârf care face parte din peisajul zonei mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.167222,
+                        -9.156111
+                  ]
+            },
+            {
+                  "name": "Lolo Henestas",
+                  "text": "Lolo Henestas este un vârf montan aflat în zona mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.164444,
+                        -9.146944
+                  ]
+            },
+            {
+                  "name": "Kapela Fatuloro",
+                  "text": "Kapela Fatuloro este o capelă locală situată în mount-taroman-nature-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.180045,
+                        -9.228003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lolo Kiik",
+                  "text": "Lolo Kiik is a notable mountain peak situated in the mount-taroman-nature-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        125.1,
+                        -9.183889
+                  ]
+            },
+            {
+                  "name": "Lolo Siat",
+                  "text": "Lolo Siat is a mountain peak located within the mount-taroman-nature-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        125.107222,
+                        -9.173333
+                  ]
+            },
+            {
+                  "name": "Lolo Pampor",
+                  "text": "Lolo Pampor is a peak offering scenic views in mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.159722,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Railuli",
+                  "text": "Lolo Railuli is a notable mountain peak in mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.162222,
+                        -9.156944
+                  ]
+            },
+            {
+                  "name": "Lolo Cieleru",
+                  "text": "Lolo Cieleru is a peak forming part of the landscape in mount-taroman-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.167222,
+                        -9.156111
+                  ]
+            },
+            {
+                  "name": "Lolo Henestas",
+                  "text": "Lolo Henestas is a mountain peak found in the mount-taroman-nature-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        125.164444,
+                        -9.146944
+                  ]
+            },
+            {
+                  "name": "Kapela Fatuloro",
+                  "text": "Kapela Fatuloro is a local chapel situated in mount-taroman-nature-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.180045,
+                        -9.228003
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-CO",
     coords: [125.1270, -9.2133],
@@ -435,7 +1542,88 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "north-laclo-river-nature-v2",
+    id: "north-laclo-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santo Cristo Nai Liurai",
+                  "text": "Diese dem Santo Cristo geweihte christliche Stätte liegt in der vom Nord-Laclo-Flussbecken geprägten Naturlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        125.965565,
+                        -8.547148
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Vizaun Kristaun de Timor-Leste",
+                  "text": "Diese evangelische christliche Kirche bringt moderne Glaubenspraktiken zu den Gemeinden entlang des Nord-Laclo-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        126.007125,
+                        -8.517768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santo Cristo Nai Liurai",
+                  "text": "A Santo Cristónak szentelt keresztény emlékhely az Északi-Laclo folyó medencéje által kialakított természeti tájban található.",
+                  "category": "landmark",
+                  "coords": [
+                        125.965565,
+                        -8.547148
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Vizaun Kristaun de Timor-Leste",
+                  "text": "Ez az evangéliumi keresztény templom modern istentiszteleti gyakorlatokat hoz az Északi-Laclo folyó menti közösségekbe.",
+                  "category": "landmark",
+                  "coords": [
+                        126.007125,
+                        -8.517768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santo Cristo Nai Liurai",
+                  "text": "Dedicat lui Santo Cristo, acest lăcaș creștin se află în peisajul natural format de bazinul râului North Laclo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.965565,
+                        -8.547148
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Vizaun Kristaun de Timor-Leste",
+                  "text": "Această biserică creștină evanghelică aduce practici moderne de cult comunităților de-a lungul râului North Laclo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.007125,
+                        -8.517768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santo Cristo Nai Liurai",
+                  "text": "Dedicated to Santo Cristo, this Christian site lies within the natural landscape formed by the North Laclo River basin.",
+                  "category": "landmark",
+                  "coords": [
+                        125.965565,
+                        -8.547148
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Vizaun Kristaun de Timor-Leste",
+                  "text": "This evangelical Christian church brings modern worship practices to the communities along the North Laclo River.",
+                  "category": "landmark",
+                  "coords": [
+                        126.007125,
+                        -8.517768
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TL-MT",
     coords: [126.0140, -8.5133],
@@ -471,7 +1659,196 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "south-laclo-river-nature-v2",
+    id: "south-laclo-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estatua Sao Miguel",
+                  "text": "Diese christliche Statue des heiligen Michael steht als schützende Figur mit Blick auf das üppige Tal des Süd-Laclo-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        125.95975,
+                        -9.042716
+                  ]
+            },
+            {
+                  "name": "Convento OFM Fatuberliu",
+                  "text": "Dieses Franziskanerkloster liegt in der Region des Süd-Laclo-Flusses und dient als spiritueller Rückzugsort und Missionsstation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.985863,
+                        -9.038
+                  ]
+            },
+            {
+                  "name": "Koventu FSGM",
+                  "text": "Dieses christliche Kloster dient der Gemeinde in der Nähe des Süd-Laclo-Flusses und beherbergt Schwestern, die sich der religiösen und sozialen Arbeit widmen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996925,
+                        -9.022846
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquia Fatuberliu",
+                  "text": "Die christliche Pfarrkirche Fatuberliu dient als spirituelles Zentrum in der ländlichen Umgebung nahe des South Laclo Rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996678,
+                        -9.025021
+                  ]
+            },
+            {
+                  "name": "Merkadu Welaluhu",
+                  "text": "Auf diesem lokalen Markt werden frische regionale Waren aus dem Tal des South Laclo Rivers angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.993847,
+                        -9.030835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estatua Sao Miguel",
+                  "text": "Szent Mihály ez a keresztény szobra védelmező alakként áll, és a Dél-Laclo folyó buja völgyére néz.",
+                  "category": "landmark",
+                  "coords": [
+                        125.95975,
+                        -9.042716
+                  ]
+            },
+            {
+                  "name": "Convento OFM Fatuberliu",
+                  "text": "A Dél-Laclo folyó régiójában megbúvó ferences kolostor spirituális menedékként és missziós bázisként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.985863,
+                        -9.038
+                  ]
+            },
+            {
+                  "name": "Koventu FSGM",
+                  "text": "A Dél-Laclo folyó melletti közösséget szolgáló keresztény kolostor vallási és szociális munkának szentelt nővéreknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996925,
+                        -9.022846
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquia Fatuberliu",
+                  "text": "A fatuberliui keresztény plébániatemplom spirituális központként szolgál a South Laclo folyó menti vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996678,
+                        -9.025021
+                  ]
+            },
+            {
+                  "name": "Merkadu Welaluhu",
+                  "text": "Ezen a helyi piacon a South Laclo folyó völgyéből származó friss, regionális árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.993847,
+                        -9.030835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estatua Sao Miguel",
+                  "text": "Această statuie creștină a Sfântului Mihail stă ca o figură protectoare cu vedere la valea luxuriantă a râului South Laclo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.95975,
+                        -9.042716
+                  ]
+            },
+            {
+                  "name": "Convento OFM Fatuberliu",
+                  "text": "Ascunsă în regiunea râului South Laclo, această mănăstire franciscană servește ca un refugiu spiritual și bază misionară.",
+                  "category": "landmark",
+                  "coords": [
+                        125.985863,
+                        -9.038
+                  ]
+            },
+            {
+                  "name": "Koventu FSGM",
+                  "text": "Deservind comunitatea de lângă râul South Laclo, această mănăstire creștină găzduiește surori dedicate muncii religioase și sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996925,
+                        -9.022846
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquia Fatuberliu",
+                  "text": "Biserica parohială creștină din Fatuberliu servește ca centru spiritual în mediul rural de lângă râul South Laclo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996678,
+                        -9.025021
+                  ]
+            },
+            {
+                  "name": "Merkadu Welaluhu",
+                  "text": "Această piață locală oferă produse proaspete regionale din valea râului South Laclo.",
+                  "category": "cultural",
+                  "coords": [
+                        125.993847,
+                        -9.030835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estatua Sao Miguel",
+                  "text": "This Christian statue of Saint Michael stands as a protective figure overlooking the lush valley of the South Laclo River.",
+                  "category": "landmark",
+                  "coords": [
+                        125.95975,
+                        -9.042716
+                  ]
+            },
+            {
+                  "name": "Convento OFM Fatuberliu",
+                  "text": "Nestled in the South Laclo River region, this Franciscan convent serves as a spiritual retreat and missionary base.",
+                  "category": "landmark",
+                  "coords": [
+                        125.985863,
+                        -9.038
+                  ]
+            },
+            {
+                  "name": "Koventu FSGM",
+                  "text": "Serving the community near the South Laclo River, this Christian convent houses sisters dedicated to religious and social work.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996925,
+                        -9.022846
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquia Fatuberliu",
+                  "text": "The Christian parish church of Fatuberliu serves as a spiritual center in the rural setting near the South Laclo River.",
+                  "category": "landmark",
+                  "coords": [
+                        125.996678,
+                        -9.025021
+                  ]
+            },
+            {
+                  "name": "Merkadu Welaluhu",
+                  "text": "This local marketplace offers fresh regional goods from the South Laclo River valley.",
+                  "category": "cultural",
+                  "coords": [
+                        125.993847,
+                        -9.030835
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TL-MF",
     coords: [125.9610, -9.0000],
@@ -507,7 +1884,340 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-curi-nature-v2",
+    id: "mount-curi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Behau Beach (Km 41)",
+                  "text": "Der Behau Beach (Km 41) ist ein malerischer Strand in mount-curi-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.886,
+                        -8.47645
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "Der Snorkeling spot ist eine beliebte Attraktion zum Schnorcheln in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.883615,
+                        -8.475364
+                  ]
+            },
+            {
+                  "name": "Mount Curi",
+                  "text": "Der Mount Curi ist ein Berg und Aussichtspunkt in mount-curi-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.90691,
+                        -8.505839
+                  ]
+            },
+            {
+                  "name": "Gruta St Antonio",
+                  "text": "Die Gruta St Antonio ist eine christliche Grotte in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.915738,
+                        -8.557389
+                  ]
+            },
+            {
+                  "name": "Kapela lakumesak",
+                  "text": "Die Kapela lakumesak ist eine christliche Kapelle in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.921276,
+                        -8.553731
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquia São Vicente",
+                  "text": "Der Salaun Paroquia São Vicente ist ein christliches Gemeindezentrum in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.919783,
+                        -8.553951
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da graca- Condar",
+                  "text": "Die Igreja Nossa Senhora da graca- Condar ist eine christliche Kirche in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.959984,
+                        -8.53554
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Jose Operario Iliheu",
+                  "text": "Die Igreza Sao Jose Operario Iliheu ist ein christliches Gotteshaus in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.948085,
+                        -8.53757
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora Peregrinação",
+                  "text": "Die Kapela Nossa Senhora Peregrinação ist eine christliche Kapelle in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908766,
+                        -8.555005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Behau Beach (Km 41)",
+                  "text": "A Behau Beach (Km 41) egy festői strand a mount-curi-nature-v2 nevű helységben.",
+                  "category": "recreational",
+                  "coords": [
+                        125.886,
+                        -8.47645
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "A Snorkeling spot egy könnyűbúvárkodásra alkalmas látványosság a mount-curi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.883615,
+                        -8.475364
+                  ]
+            },
+            {
+                  "name": "Mount Curi",
+                  "text": "A Mount Curi egy hegycsúcs a mount-curi-nature-v2 nevű régióban.",
+                  "category": "natural",
+                  "coords": [
+                        125.90691,
+                        -8.505839
+                  ]
+            },
+            {
+                  "name": "Gruta St Antonio",
+                  "text": "A Gruta St Antonio egy vallási barlang és keresztény helyszín a mount-curi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.915738,
+                        -8.557389
+                  ]
+            },
+            {
+                  "name": "Kapela lakumesak",
+                  "text": "A Kapela lakumesak egy keresztény kápolna mount-curi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.921276,
+                        -8.553731
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquia São Vicente",
+                  "text": "A Salaun Paroquia São Vicente egy keresztény helyszín a mount-curi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.919783,
+                        -8.553951
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da graca- Condar",
+                  "text": "Az Igreja Nossa Senhora da graca- Condar egy keresztény templom a mount-curi-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.959984,
+                        -8.53554
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Jose Operario Iliheu",
+                  "text": "Az Igreza Sao Jose Operario Iliheu egy keresztény templom mount-curi-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.948085,
+                        -8.53757
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora Peregrinação",
+                  "text": "A Kapela Nossa Senhora Peregrinação egy vallási épület a mount-curi-nature-v2 nevű helységben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908766,
+                        -8.555005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Behau Beach (Km 41)",
+                  "text": "Behau Beach (Km 41) este o plajă situată în mount-curi-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.886,
+                        -8.47645
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "Snorkeling spot este o atracție subacvatică din mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.883615,
+                        -8.475364
+                  ]
+            },
+            {
+                  "name": "Mount Curi",
+                  "text": "Mount Curi este un vârf muntos din mount-curi-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.90691,
+                        -8.505839
+                  ]
+            },
+            {
+                  "name": "Gruta St Antonio",
+                  "text": "Gruta St Antonio este o grotă creștină din regiunea mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.915738,
+                        -8.557389
+                  ]
+            },
+            {
+                  "name": "Kapela lakumesak",
+                  "text": "Kapela lakumesak este un sit creștin din mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.921276,
+                        -8.553731
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquia São Vicente",
+                  "text": "Salaun Paroquia São Vicente este o clădire creștină din mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.919783,
+                        -8.553951
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da graca- Condar",
+                  "text": "Igreja Nossa Senhora da graca- Condar este o biserică creștină situată în mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.959984,
+                        -8.53554
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Jose Operario Iliheu",
+                  "text": "Igreza Sao Jose Operario Iliheu este o clădire creștină în mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.948085,
+                        -8.53757
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora Peregrinação",
+                  "text": "Kapela Nossa Senhora Peregrinação este un loc creștin de pelerinaj în mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908766,
+                        -8.555005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Behau Beach (Km 41)",
+                  "text": "Behau Beach (Km 41) is a scenic beach destination in mount-curi-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.886,
+                        -8.47645
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "The Snorkeling spot is a popular aquatic attraction in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.883615,
+                        -8.475364
+                  ]
+            },
+            {
+                  "name": "Mount Curi",
+                  "text": "Mount Curi is a prominent peak situated in mount-curi-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.90691,
+                        -8.505839
+                  ]
+            },
+            {
+                  "name": "Gruta St Antonio",
+                  "text": "The Gruta St Antonio is a Christian grotto located in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.915738,
+                        -8.557389
+                  ]
+            },
+            {
+                  "name": "Kapela lakumesak",
+                  "text": "Kapela lakumesak is a Christian chapel located in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.921276,
+                        -8.553731
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquia São Vicente",
+                  "text": "Salaun Paroquia São Vicente is a Christian parish facility in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.919783,
+                        -8.553951
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da graca- Condar",
+                  "text": "Igreja Nossa Senhora da graca- Condar is a Christian church in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.959984,
+                        -8.53554
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Jose Operario Iliheu",
+                  "text": "Igreza Sao Jose Operario Iliheu is a Christian church situated in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.948085,
+                        -8.53757
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora Peregrinação",
+                  "text": "Kapela Nossa Senhora Peregrinação is a Christian chapel located in mount-curi-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908766,
+                        -8.555005
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-MT",
     coords: [125.9390, -8.4878],
@@ -543,7 +2253,52 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "lore-reserve-nature-v2",
+    id: "lore-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Dieser abgelegene Strand im Lore-Naturreservat bietet ein unberührtes Küstenökosystem mit einem reichen Meeresleben.",
+                  "category": "recreational",
+                  "coords": [
+                        127.04017,
+                        -8.64475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "A Lore Természetvédelmi Területen elhelyezkedő eldugott strand érintetlen tengerparti ökoszisztémát kínál gazdag tengeri élővilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        127.04017,
+                        -8.64475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "Situată în Rezervația Naturală Lore, această plajă izolată oferă un ecosistem de coastă neatins și o viață marină bogată.",
+                  "category": "recreational",
+                  "coords": [
+                        127.04017,
+                        -8.64475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "Set within the Lore Nature Reserve, this secluded beach offers an unspoiled coastal ecosystem with rich marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        127.04017,
+                        -8.64475
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TL-LA",
     coords: [127.0210, -8.6439],
@@ -579,7 +2334,124 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-maubara-nature-v2",
+    id: "lake-maubara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Das Portuguese Fort ist ein historisches Denkmal kolonialer Architektur in lake-maubara-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.204597,
+                        -8.610517
+                  ]
+            },
+            {
+                  "name": "Lagoa Masin Maubara Area Nacional Protezidu",
+                  "text": "Die Maubara Salt Lake Conservation Area ist ein Naturschutzgebiet in lake-maubara-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.253557,
+                        -8.605582
+                  ]
+            },
+            {
+                  "name": "Salt lake",
+                  "text": "Der Salt lake ist eine natürliche Sehenswürdigkeit in lake-maubara-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250165,
+                        -8.605262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "A Portuguese Fort egy gyarmati építészetet őrző történelmi emlékmű lake-maubara-nature-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        125.204597,
+                        -8.610517
+                  ]
+            },
+            {
+                  "name": "Lagoa Masin Maubara Area Nacional Protezidu",
+                  "text": "A Maubara Salt Lake Conservation Area egy védett természeti látványosság lake-maubara-nature-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.253557,
+                        -8.605582
+                  ]
+            },
+            {
+                  "name": "Salt lake",
+                  "text": "A Salt lake egy figyelemre méltó természeti látványosság lake-maubara-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250165,
+                        -8.605262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Portuguese Fort este un monument istoric de arhitectură colonială în lake-maubara-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.204597,
+                        -8.610517
+                  ]
+            },
+            {
+                  "name": "Lagoa Masin Maubara Area Nacional Protezidu",
+                  "text": "Maubara Salt Lake Conservation Area este o atracție naturală protejată din lake-maubara-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.253557,
+                        -8.605582
+                  ]
+            },
+            {
+                  "name": "Salt lake",
+                  "text": "Salt lake este o atracție naturală situată în lake-maubara-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250165,
+                        -8.605262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "The Portuguese Fort is a historical monument preserving colonial architecture in lake-maubara-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.204597,
+                        -8.610517
+                  ]
+            },
+            {
+                  "name": "Maubara Salt Lake Conservation Area",
+                  "text": "Maubara Salt Lake Conservation Area is a preserved natural attraction located in lake-maubara-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.253557,
+                        -8.605582
+                  ]
+            },
+            {
+                  "name": "Salt lake",
+                  "text": "Salt lake is a notable natural attraction found in lake-maubara-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250165,
+                        -8.605262
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TL-LI",
     coords: [125.1970, -8.6111],
@@ -615,7 +2487,124 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "be-malae-lake-nature-v2",
+    id: "be-malae-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kapela aimalae",
+                  "text": "Eingebettet in die malerischen Ufer des Be Malae-Sees bietet diese christliche Kapelle einen ruhigen Ort für Gebete inmitten der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        125.031683,
+                        -8.880428
+                  ]
+            },
+            {
+                  "name": "Gruta Sanirin",
+                  "text": "Diese christliche Grotte ist in die Naturlandschaft in der Nähe des Be Malae-Sees eingebettet und bietet einen speziellen Raum für die Marienverehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        124.998039,
+                        -8.899938
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Dieser Marktplatz in der Nähe des Be Malae-Sees ist ein Zentrum des Geschehens, wo Einheimische frischen Fisch und landwirtschaftliche Produkte handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        125.040858,
+                        -8.870979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kapela aimalae",
+                  "text": "A Be Malae-tó festői partjainak közelében megbúvó keresztény kápolna békés imádkozási helyet kínál a természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.031683,
+                        -8.880428
+                  ]
+            },
+            {
+                  "name": "Gruta Sanirin",
+                  "text": "Ez a keresztény barlang a Be Malae-tó melletti természeti tájba ékelődik, dedikált teret biztosítva a Mária-tiszteletnek.",
+                  "category": "landmark",
+                  "coords": [
+                        124.998039,
+                        -8.899938
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "A Be Malae-tó melletti nyüzsgő piacon a helyiek friss halat és mezőgazdasági termékeket cserélhetnek gazdát.",
+                  "category": "cultural",
+                  "coords": [
+                        125.040858,
+                        -8.870979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kapela aimalae",
+                  "text": "Ascunsă lângă malurile pitorești ale lacului Be Malae, această capelă creștină oferă un loc liniștit pentru rugăciune, înconjurat de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        125.031683,
+                        -8.880428
+                  ]
+            },
+            {
+                  "name": "Gruta Sanirin",
+                  "text": "Această grotă creștină este cuibărită în peisajul natural de lângă Lacul Be Malae, oferind un spațiu dedicat devotamentului marian.",
+                  "category": "landmark",
+                  "coords": [
+                        124.998039,
+                        -8.899938
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Un centru de activitate lângă Lacul Be Malae, această piață permite localnicilor să tranzacționeze pește proaspăt și produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        125.040858,
+                        -8.870979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kapela aimalae",
+                  "text": "Nestled near the scenic shores of Be Malae Lake, this Christian chapel offers a serene spot for prayer surrounded by nature.",
+                  "category": "landmark",
+                  "coords": [
+                        125.031683,
+                        -8.880428
+                  ]
+            },
+            {
+                  "name": "Gruta Sanirin",
+                  "text": "This Christian grotto is nestled into the natural landscape near Be Malae Lake, providing a dedicated space for Marian devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        124.998039,
+                        -8.899938
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "A hub of activity near Be Malae Lake, this marketplace allows locals to trade fresh fish and agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        125.040858,
+                        -8.870979
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TL-BO",
     coords: [125.0450, -8.8572],
@@ -651,7 +2640,52 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "belulik-river-nature-v2",
+    id: "belulik-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suco Raimea Nature Conservation and Sacred Forest",
+                  "text": "Ein geschütztes Naturschutzgebiet und ein heiliger Wald, die die lokale Artenvielfalt in der Nähe des Belulik-Flusses bewahren.",
+                  "category": "natural",
+                  "coords": [
+                        125.495176,
+                        -9.225709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suco Raimea Nature Conservation and Sacred Forest",
+                  "text": "Védett természetvédelmi terület és szent erdő, amely megőrzi a helyi biológiai sokféleséget a Belulik folyó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        125.495176,
+                        -9.225709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suco Raimea Nature Conservation and Sacred Forest",
+                  "text": "O rezervație naturală protejată și o pădure sacră care conservă biodiversitatea locală în apropierea râului Belulik.",
+                  "category": "natural",
+                  "coords": [
+                        125.495176,
+                        -9.225709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suco Raimea Nature Conservation and Sacred Forest",
+                  "text": "A protected nature reserve and sacred forest area preserving the local biodiversity near the Belulik River.",
+                  "category": "natural",
+                  "coords": [
+                        125.495176,
+                        -9.225709
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TL-AN",
     coords: [125.5160, -9.1833],
@@ -687,7 +2721,52 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     },
   },
   {
-    id: "irabere-river-nature-v2",
+    id: "irabere-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein natürlicher Sandstrand nahe der Mündung, wo der Irabere-Fluss auf das Meer trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        126.713451,
+                        -8.757945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Természetes homokos strand a torkolat közelében, ahol az Irabere folyó a tengerbe ömlik.",
+                  "category": "recreational",
+                  "coords": [
+                        126.713451,
+                        -8.757945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă cu nisip natural situată aproape de gura de vărsare unde râul Irabere se întâlnește cu marea.",
+                  "category": "recreational",
+                  "coords": [
+                        126.713451,
+                        -8.757945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A natural sandy beach located near the mouth where the Irabere River meets the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        126.713451,
+                        -8.757945
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TL-VI",
     coords: [126.7320, -8.7611],

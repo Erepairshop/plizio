@@ -205,7 +205,7 @@ export const denmarkNatureV2: POI[] = [
       "de": [
             {
                   "name": "Skjern Å Bad",
-                  "text": "Skjern Å Bad ist ein Badebereich am Fluss Skjern Å.",
+                  "text": "Flussbadeplatz an der Skjern Å.",
                   "category": "recreational",
                   "coords": [
                         8.503043,
@@ -223,7 +223,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ringhøj",
-                  "text": "Ein historischer Grabhügel in der Nähe des Flusses Skjern Å.",
+                  "text": "Ein runder Grabhügel nahe dem Fluss Skjern Aa.",
                   "category": "historical",
                   "coords": [
                         8.57131,
@@ -268,7 +268,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Galgehøj",
-                  "text": "Eine historische archäologische Stätte am Fluss Skjern Å.",
+                  "text": "Historischer Galgenhügel mit Blick auf das Skjern-Å-Tal.",
                   "category": "historical",
                   "coords": [
                         8.53498,
@@ -279,7 +279,7 @@ export const denmarkNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Skjern Å Bad",
-                  "text": "A Skjern Å Bad egy fürdőhely a Skjern Å folyó mentén.",
+                  "text": "Folyami fürdőhely a Skjern Å-n.",
                   "category": "recreational",
                   "coords": [
                         8.503043,
@@ -297,7 +297,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ringhøj",
-                  "text": "Történelmi sírhalom a Skjern-folyó közelében.",
+                  "text": "Egy kör alakú temetkezési halom a Skjern Aa folyó közelében.",
                   "category": "historical",
                   "coords": [
                         8.57131,
@@ -342,7 +342,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Galgehøj",
-                  "text": "Történelmi régészeti lelőhely a Skjern-folyó mentén.",
+                  "text": "Történelmi akasztódomb a Skjern-Å-völgyre néző kilátással.",
                   "category": "historical",
                   "coords": [
                         8.53498,
@@ -353,7 +353,7 @@ export const denmarkNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Skjern Å Bad",
-                  "text": "Skjern Å Bad este o zonă de scăldat de-a lungul râului Skjern Å.",
+                  "text": "Loc de scăldat pe râul Skjern Å.",
                   "category": "recreational",
                   "coords": [
                         8.503043,
@@ -371,7 +371,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ringhøj",
-                  "text": "Un tumul istoric situat în apropierea râului Skjern.",
+                  "text": "Un movilă funerară circulară lângă râul Skjern Aa.",
                   "category": "historical",
                   "coords": [
                         8.57131,
@@ -416,7 +416,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Galgehøj",
-                  "text": "Un sit arheologic istoric lângă râul Skjern.",
+                  "text": "Deal istoric al spânzurătorii cu vedere spre valea Skjern Å.",
                   "category": "historical",
                   "coords": [
                         8.53498,
@@ -427,7 +427,7 @@ export const denmarkNatureV2: POI[] = [
       "en": [
             {
                   "name": "Skjern Å Bad",
-                  "text": "Skjern Å Bad is a swimming area along the river Skjern Å.",
+                  "text": "River bathing area along the Skjern Å.",
                   "category": "recreational",
                   "coords": [
                         8.503043,
@@ -445,7 +445,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ringhøj",
-                  "text": "A historic burial mound located near the Skjern River.",
+                  "text": "A circular burial mound near the Skjern River.",
                   "category": "historical",
                   "coords": [
                         8.57131,
@@ -490,7 +490,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Galgehøj",
-                  "text": "A historic archaeological site by the Skjern River.",
+                  "text": "Historic gallows hill overlooking the Skjern Å valley.",
                   "category": "historical",
                   "coords": [
                         8.53498,
@@ -1231,7 +1231,7 @@ export const denmarkNatureV2: POI[] = [
       "de": [
             {
                   "name": "Nørre Trabshøi",
-                  "text": "Ein prähistorischer Grabhügel in der Nähe des Nors-Sees.",
+                  "text": "Ein Grabhügel am Nordufer des Nors-Sees.",
                   "category": "historical",
                   "coords": [
                         8.517038,
@@ -1267,7 +1267,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Grønhøi",
-                  "text": "Ein antiker Hügel und archäologische Stätte am Nors-See.",
+                  "text": "Ein grüner Grabhügel nahe dem Nors-See.",
                   "category": "historical",
                   "coords": [
                         8.532956,
@@ -1285,7 +1285,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Tvillingshøi",
-                  "text": "Ein archäologischer Grabhügel in der Nähe des Nors-Sees.",
+                  "text": "Ein Paar bronzezeitlicher Grabhügel nahe dem Nors-See.",
                   "category": "historical",
                   "coords": [
                         8.543378,
@@ -1296,7 +1296,7 @@ export const denmarkNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Nørre Trabshøi",
-                  "text": "Prehisztorikus sírhalom a Nors-tó közelében.",
+                  "text": "Egy temetkezési halom a Nors-tó északi partján.",
                   "category": "historical",
                   "coords": [
                         8.517038,
@@ -1332,7 +1332,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Grønhøi",
-                  "text": "Ősi halom és régészeti lelőhely a Nors-tónál.",
+                  "text": "Egy zöld temetkezési halom a Nors-tó közelében.",
                   "category": "historical",
                   "coords": [
                         8.532956,
@@ -1350,7 +1350,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Tvillingshøi",
-                  "text": "Régészeti sírhalom a Nors-tó közelében.",
+                  "text": "Egy pár bronzkori temetkezési halom a Nors-tó közelében.",
                   "category": "historical",
                   "coords": [
                         8.543378,
@@ -1361,7 +1361,7 @@ export const denmarkNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Nørre Trabshøi",
-                  "text": "Un tumul preistoric situat în apropierea lacului Nors.",
+                  "text": "Un movilă funerară pe malul nordic al Lacului Nors.",
                   "category": "historical",
                   "coords": [
                         8.517038,
@@ -1397,7 +1397,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Grønhøi",
-                  "text": "Un tumul vechi și sit arheologic la lacul Nors.",
+                  "text": "Un movilă funerară verde lângă Lacul Nors.",
                   "category": "historical",
                   "coords": [
                         8.532956,
@@ -1415,7 +1415,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Tvillingshøi",
-                  "text": "Un tumul arheologic situat în apropierea lacului Nors.",
+                  "text": "O pereche de movile funerare din epoca bronzului lângă Lacul Nors.",
                   "category": "historical",
                   "coords": [
                         8.543378,
@@ -1426,7 +1426,7 @@ export const denmarkNatureV2: POI[] = [
       "en": [
             {
                   "name": "Nørre Trabshøi",
-                  "text": "A prehistoric burial mound located near Nors Lake.",
+                  "text": "A burial mound on the north shore of Nors Lake.",
                   "category": "historical",
                   "coords": [
                         8.517038,
@@ -1462,7 +1462,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Grønhøi",
-                  "text": "An ancient mound and archaeological site at Nors Lake.",
+                  "text": "A green burial mound near Nors Lake.",
                   "category": "historical",
                   "coords": [
                         8.532956,
@@ -1480,7 +1480,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Tvillingshøi",
-                  "text": "An archaeological burial mound located near Nors Lake.",
+                  "text": "A pair of Bronze Age burial mounds near Nors Lake.",
                   "category": "historical",
                   "coords": [
                         8.543378,
@@ -1537,7 +1537,7 @@ export const denmarkNatureV2: POI[] = [
       "de": [
             {
                   "name": "Hans Nielsen - Speedway Legend Exhibition",
-                  "text": "Eine Museumsausstellung, die der Speedway-Legende Hans Nielsen gewidmet ist.",
+                  "text": "Die Hans Nielsen – Speedway-Legenden-Ausstellung in Raabjerg Mile, Eröffnung 2025.",
                   "category": "museum",
                   "coords": [
                         10.430861,
@@ -1546,7 +1546,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Redningshuset",
-                  "text": "Ein historisches Rettungshaus, das heute als Museum dient.",
+                  "text": "Museum in einem ehemaligen Rettungsbootshaus in der Raabjerg-Mile-Dünenlandschaft.",
                   "category": "museum",
                   "coords": [
                         10.388948,
@@ -1573,7 +1573,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Hulsig Kirke",
-                  "text": "Eine weiße Dorfkirche in der Nähe der dänischen Küste.",
+                  "text": "Hulsig Kirke, eine Kirche nahe der Wanderdüne Raabjerg Mile in Nordjütland.",
                   "category": "religious",
                   "coords": [
                         10.459583,
@@ -1584,7 +1584,7 @@ export const denmarkNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Hans Nielsen - Speedway Legend Exhibition",
-                  "text": "Hans Nielsen speedway-legendának szentelt múzeumi kiállítás.",
+                  "text": "A Hans Nielsen – Speedway-legenda kiállítás Raabjerg Mile-ban, nyitás 2025-ben.",
                   "category": "museum",
                   "coords": [
                         10.430861,
@@ -1593,7 +1593,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Redningshuset",
-                  "text": "Egy történelmi mentőház, amely ma múzeumként működik.",
+                  "text": "Múzeum egy egykori mentőcsónakházban a Raabjerg Mile homokdűnéknél.",
                   "category": "museum",
                   "coords": [
                         10.388948,
@@ -1620,7 +1620,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Hulsig Kirke",
-                  "text": "Egy fehér falusi templom a dán tengerpart közelében.",
+                  "text": "Hulsig Kirke, egy templom a vándorló homokdűne Raabjerg Mile közelében Észak-Jütlandban.",
                   "category": "religious",
                   "coords": [
                         10.459583,
@@ -1631,7 +1631,7 @@ export const denmarkNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Hans Nielsen - Speedway Legend Exhibition",
-                  "text": "O expoziție muzeală dedicată legendei speedway-ului Hans Nielsen.",
+                  "text": "Expoziția Hans Nielsen – Legendă a Speedway-ului din Raabjerg Mile, deschisă în 2025.",
                   "category": "museum",
                   "coords": [
                         10.430861,
@@ -1640,7 +1640,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Redningshuset",
-                  "text": "O fostă stație de salvare istorică, transformată în muzeu.",
+                  "text": "Muzeu într-o fostă stație de salvare pe dunele Raabjerg Mile.",
                   "category": "museum",
                   "coords": [
                         10.388948,
@@ -1667,7 +1667,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Hulsig Kirke",
-                  "text": "O biserică albă de sat situată aproape de coasta daneză.",
+                  "text": "Biserica Hulsig, o biserică lângă duna de nisip migratoare Raabjerg Mile în Iutlanda de Nord.",
                   "category": "religious",
                   "coords": [
                         10.459583,
@@ -1678,7 +1678,7 @@ export const denmarkNatureV2: POI[] = [
       "en": [
             {
                   "name": "Hans Nielsen - Speedway Legend Exhibition",
-                  "text": "A museum exhibition dedicated to the speedway legend Hans Nielsen.",
+                  "text": "Hans Nielsen – Speedway Legend Exhibition in Raabjerg Mile, opening in 2025.",
                   "category": "museum",
                   "coords": [
                         10.430861,
@@ -1687,7 +1687,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Redningshuset",
-                  "text": "A historic rescue house that now serves as a museum.",
+                  "text": "Museum in a former lifeboat station at the Raabjerg Mile dune landscape.",
                   "category": "museum",
                   "coords": [
                         10.388948,
@@ -1714,7 +1714,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Hulsig Kirke",
-                  "text": "A white village church located near the Danish coast.",
+                  "text": "Hulsig Church, a church near the migrating sand dune Raabjerg Mile in North Jutland.",
                   "category": "religious",
                   "coords": [
                         10.459583,
@@ -1771,7 +1771,7 @@ export const denmarkNatureV2: POI[] = [
       "de": [
             {
                   "name": "Den Gamle Station",
-                  "text": "Ein Museum, das in einem ehemaligen Bahnhofsgebäude untergebracht ist.",
+                  "text": "Museum in einem alten Bahnhof im Gudenaa-Delta.",
                   "category": "museum",
                   "coords": [
                         10.320402,
@@ -1780,7 +1780,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ørsted Kirke",
-                  "text": "Eine historische Kirche in der Region Gudenå Delta.",
+                  "text": "Die Ørsted Kirke liegt im Gudenaa-Delta nahe der Kommune Norddjurs.",
                   "category": "religious",
                   "coords": [
                         10.338478,
@@ -1789,7 +1789,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Vejlby Kirke",
-                  "text": "Ein denkmalgeschütztes Kirchengebäude in der Nähe von Allingåbro.",
+                  "text": "Die Vejlby Kirke in Allingåbro liegt im Gudenaa-Delta.",
                   "category": "religious",
                   "coords": [
                         10.337692,
@@ -1800,7 +1800,7 @@ export const denmarkNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Den Gamle Station",
-                  "text": "Egy korábbi vasútállomás épületében berendezett múzeum.",
+                  "text": "Múzeum egy régi vasútállomáson a Gudenaa-deltában.",
                   "category": "museum",
                   "coords": [
                         10.320402,
@@ -1809,7 +1809,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ørsted Kirke",
-                  "text": "Történelmi templom a Gudenå-delta régiójában.",
+                  "text": "Az Ørsted-templom a Gudenaa-deltában, Norddjurs község közelében található.",
                   "category": "religious",
                   "coords": [
                         10.338478,
@@ -1818,7 +1818,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Vejlby Kirke",
-                  "text": "Műemléki templomépület Allingåbro közelében.",
+                  "text": "A Vejlby-templom Allingåróban, a Gudenaa-deltában fekszik.",
                   "category": "religious",
                   "coords": [
                         10.337692,
@@ -1829,7 +1829,7 @@ export const denmarkNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Den Gamle Station",
-                  "text": "Un muzeu situat în clădirea unei foste gări.",
+                  "text": "Muzeu într-o gară veche în Delta Gudenaa.",
                   "category": "museum",
                   "coords": [
                         10.320402,
@@ -1838,7 +1838,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ørsted Kirke",
-                  "text": "O biserică istorică în regiunea Deltei Gudenå.",
+                  "text": "Biserica Ørsted este situată în Delta Gudenaa, lângă comuna Norddjurs.",
                   "category": "religious",
                   "coords": [
                         10.338478,
@@ -1847,7 +1847,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Vejlby Kirke",
-                  "text": "O clădire bisericească istorică lângă Allingåbro.",
+                  "text": "Biserica Vejlby din Allingåbro, situată în Delta Gudenaa.",
                   "category": "religious",
                   "coords": [
                         10.337692,
@@ -1858,7 +1858,7 @@ export const denmarkNatureV2: POI[] = [
       "en": [
             {
                   "name": "Den Gamle Station",
-                  "text": "A museum housed in a former railway station building.",
+                  "text": "Museum in a historic railway station in the Gudenaa River delta.",
                   "category": "museum",
                   "coords": [
                         10.320402,
@@ -1867,7 +1867,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Ørsted Kirke",
-                  "text": "A historic church located in the Gudenå Delta region.",
+                  "text": "Ørsted Church is located in the Gudenaa Delta near the Norddjurs municipality.",
                   "category": "religious",
                   "coords": [
                         10.338478,
@@ -1876,7 +1876,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Vejlby Kirke",
-                  "text": "A historic church building located near Allingåbro.",
+                  "text": "Vejlby Church in Allingåbro, located in the Gudenaa Delta.",
                   "category": "religious",
                   "coords": [
                         10.337692,
@@ -3796,7 +3796,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Talerstolen",
-                  "text": "Talerstolen ist eine markante Sehenswürdigkeit in der Landschaft der Limfjord-Inseln.",
+                  "text": "Auffällige Felsformation wie eine Rednerkanzel auf den Limfjord-Inseln.",
                   "category": "landmark",
                   "coords": [
                         9.083137,
@@ -3825,7 +3825,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Talerstolen",
-                  "text": "A Talerstolen egy jellegzetes látnivaló a Limfjord-szigetek vidékén.",
+                  "text": "Kiemelkedő sziklaképződmény, amely szószékre hasonlít a Limfjord-szigeteken.",
                   "category": "landmark",
                   "coords": [
                         9.083137,
@@ -3854,7 +3854,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Talerstolen",
-                  "text": "Talerstolen este un obiectiv turistic remarcabil din peisajul insulelor Limfjord.",
+                  "text": "Formațiune stâncoasă proeminentă asemănătoare unei tribune pe Insulele Limfjord.",
                   "category": "landmark",
                   "coords": [
                         9.083137,
@@ -3883,7 +3883,7 @@ export const denmarkNatureV2: POI[] = [
             },
             {
                   "name": "Talerstolen",
-                  "text": "Talerstolen is a notable landmark in the landscape of the Limfjord Islands.",
+                  "text": "Prominent rock formation resembling a pulpit on the Limfjord Islands.",
                   "category": "landmark",
                   "coords": [
                         9.083137,

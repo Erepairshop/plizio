@@ -4,7 +4,340 @@ import type { POI } from "./poi";
 
 export const poiExtraJapanNatureV2: POI[] = [
   {
-    id: "jp-fuji-hakone-izu-national-park-nature-v2",
+    id: "jp-fuji-hakone-izu-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ameyama",
+                  "text": "Ein 1257 Meter hoher Gipfel im Tanzawa-Gebirge, der anspruchsvolle Pfade für erfahrene Wanderer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        139.123322,
+                        35.437946
+                  ]
+            },
+            {
+                  "name": "Hinokidakka",
+                  "text": "Ein Berggipfel in der Tanzawa-Kette, der durch seine dichten Bestände an japanischen Zedern geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        139.115618,
+                        35.431299
+                  ]
+            },
+            {
+                  "name": "Mount Yagura",
+                  "text": "Ein kegelförmiger Gipfel, der einen spektakulären, freien Blick auf den Berg Fuji über das Ashigara-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        139.035369,
+                        35.328614
+                  ]
+            },
+            {
+                  "name": "Mt. Fuji viewpoint",
+                  "text": "Ein Panoramapunkt im Nationalpark, der die schneebedeckte Spitze des Berges Fuji perfekt einrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        139.001019,
+                        35.333771
+                  ]
+            },
+            {
+                  "name": "Mt. Ōno",
+                  "text": "Dieser Gipfel ist bekannt für seine grasbewachsenen Hänge und den Panoramablick auf den Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        139.048732,
+                        35.385976
+                  ]
+            },
+            {
+                  "name": "Mt. Komotsurushi",
+                  "text": "Ein Aussichtspunkt in den Tanzawa-Bergen, der weite Ausblicke auf den Vulkan Fuji bietet.",
+                  "category": "natural",
+                  "coords": [
+                        138.978431,
+                        35.463816
+                  ]
+            },
+            {
+                  "name": "Mt. Azegamaru",
+                  "text": "Ein markanter Gipfel im westlichen Tanzawa-Gebirge, der besonders für seine Rhododendren bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        139.032184,
+                        35.478016
+                  ]
+            },
+            {
+                  "name": "Ashigara Shrine",
+                  "text": "Ein alter Shinto-Schrein, der tief in den Wäldern am Ashigara-Pass liegt.",
+                  "category": "religious",
+                  "coords": [
+                        139.080929,
+                        35.33277
+                  ]
+            },
+            {
+                  "name": "Yamakita Tsuburano Park",
+                  "text": "Ein malerischer Park auf einem Hügel mit weitem Blick über die Sagami-Bucht und den Fuji.",
+                  "category": "park",
+                  "coords": [
+                        139.050984,
+                        35.368963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ameyama",
+                  "text": "1257 méter magas csúcs a Tanzava-hegységben, amely kihívást jelentő útvonalakat kínál a tapasztalt túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        139.123322,
+                        35.437946
+                  ]
+            },
+            {
+                  "name": "Hinokidakka",
+                  "text": "Hegyi csúcs a Tanzava-vonulatban, amelyet sűrű japán cédruserdők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        139.115618,
+                        35.431299
+                  ]
+            },
+            {
+                  "name": "Mount Yagura",
+                  "text": "Kúp alakú csúcs, ahonnan látványos, zavartalan kilátás nyílik a Fudzsi-hegyre az Ashigara-völgy felett.",
+                  "category": "natural",
+                  "coords": [
+                        139.035369,
+                        35.328614
+                  ]
+            },
+            {
+                  "name": "Mt. Fuji viewpoint",
+                  "text": "Panorámás pont a nemzeti parkban, amely tökéletesen keretezi a Fudzsi havas csúcsát.",
+                  "category": "natural",
+                  "coords": [
+                        139.001019,
+                        35.333771
+                  ]
+            },
+            {
+                  "name": "Mt. Ōno",
+                  "text": "Ez a hegycsúcs füves lejtőiről és a Fuji-hegyre nyíló panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        139.048732,
+                        35.385976
+                  ]
+            },
+            {
+                  "name": "Mt. Komotsurushi",
+                  "text": "Kilátópont a Tanzawa-hegységben, amely tágas kilátást nyújt a Fuji-vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        138.978431,
+                        35.463816
+                  ]
+            },
+            {
+                  "name": "Mt. Azegamaru",
+                  "text": "A nyugati Tanzawa-hegység egyik kiemelkedő csúcsa, amely különösen a rododendronjairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        139.032184,
+                        35.478016
+                  ]
+            },
+            {
+                  "name": "Ashigara Shrine",
+                  "text": "Ősi sintoista szentély, amely az Ashigara-hágó erdeinek mélyén található.",
+                  "category": "religious",
+                  "coords": [
+                        139.080929,
+                        35.33277
+                  ]
+            },
+            {
+                  "name": "Yamakita Tsuburano Park",
+                  "text": "Festői dombtetői park, amely széles kilátást nyújt a Sagami-öbölre és a Fuji-hegyre.",
+                  "category": "park",
+                  "coords": [
+                        139.050984,
+                        35.368963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ameyama",
+                  "text": "Un vârf de 1257 de metri în Munții Tanzawa, ce oferă trasee provocatoare pentru drumeții experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        139.123322,
+                        35.437946
+                  ]
+            },
+            {
+                  "name": "Hinokidakka",
+                  "text": "Un vârf montan în masivul Tanzawa, caracterizat prin pădurile sale dese de cedru japonez.",
+                  "category": "natural",
+                  "coords": [
+                        139.115618,
+                        35.431299
+                  ]
+            },
+            {
+                  "name": "Mount Yagura",
+                  "text": "Un vârf conic ce oferă o vedere spectaculoasă și neobstrucționată spre Muntele Fuji peste valea Ashigara.",
+                  "category": "natural",
+                  "coords": [
+                        139.035369,
+                        35.328614
+                  ]
+            },
+            {
+                  "name": "Mt. Fuji viewpoint",
+                  "text": "Un punct panoramic în parcul național care încadrează perfect vârful înzăpezit al Muntelui Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        139.001019,
+                        35.333771
+                  ]
+            },
+            {
+                  "name": "Mt. Ōno",
+                  "text": "Acest vârf este cunoscut pentru pantele sale înierbate și panorama asupra Muntelui Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        139.048732,
+                        35.385976
+                  ]
+            },
+            {
+                  "name": "Mt. Komotsurushi",
+                  "text": "Un punct de observație în munții Tanzawa, oferind vederi largi către vulcanul Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        138.978431,
+                        35.463816
+                  ]
+            },
+            {
+                  "name": "Mt. Azegamaru",
+                  "text": "Un vârf proeminent în munții Tanzawa de vest, cunoscut în special pentru rododendronii săi.",
+                  "category": "natural",
+                  "coords": [
+                        139.032184,
+                        35.478016
+                  ]
+            },
+            {
+                  "name": "Ashigara Shrine",
+                  "text": "Un vechi sanctuar shintoist situat adânc în pădurile din trecătoarea Ashigara.",
+                  "category": "religious",
+                  "coords": [
+                        139.080929,
+                        35.33277
+                  ]
+            },
+            {
+                  "name": "Yamakita Tsuburano Park",
+                  "text": "Un parc pitoresc pe deal, care oferă vederi largi asupra golfului Sagami și a muntelui Fuji.",
+                  "category": "park",
+                  "coords": [
+                        139.050984,
+                        35.368963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ameyama",
+                  "text": "A 1,257-meter peak in the Tanzawa Mountains offering challenging trails for experienced hikers.",
+                  "category": "natural",
+                  "coords": [
+                        139.123322,
+                        35.437946
+                  ]
+            },
+            {
+                  "name": "Hinokidakka",
+                  "text": "A mountain peak in the Tanzawa range characterized by its dense Japanese cedar forests.",
+                  "category": "natural",
+                  "coords": [
+                        139.115618,
+                        35.431299
+                  ]
+            },
+            {
+                  "name": "Mount Yagura",
+                  "text": "A conical peak providing a spectacular, unobstructed view of Mount Fuji across the Ashigara Valley.",
+                  "category": "natural",
+                  "coords": [
+                        139.035369,
+                        35.328614
+                  ]
+            },
+            {
+                  "name": "Mt. Fuji viewpoint",
+                  "text": "A panoramic point in the national park that perfectly frames Mount Fuji's snow-capped peak.",
+                  "category": "natural",
+                  "coords": [
+                        139.001019,
+                        35.333771
+                  ]
+            },
+            {
+                  "name": "Mt. Ōno",
+                  "text": "This peak is known for its grassy slopes and panoramic views of Mount Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        139.048732,
+                        35.385976
+                  ]
+            },
+            {
+                  "name": "Mt. Komotsurushi",
+                  "text": "A viewpoint peak in the Tanzawa mountains offering expansive sights of Mount Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        138.978431,
+                        35.463816
+                  ]
+            },
+            {
+                  "name": "Mt. Azegamaru",
+                  "text": "A prominent peak in the western Tanzawa range known especially for its rhododendrons.",
+                  "category": "natural",
+                  "coords": [
+                        139.032184,
+                        35.478016
+                  ]
+            },
+            {
+                  "name": "Ashigara Shrine",
+                  "text": "An ancient Shinto shrine nestled deep within the forests of the Ashigara Pass.",
+                  "category": "religious",
+                  "coords": [
+                        139.080929,
+                        35.33277
+                  ]
+            },
+            {
+                  "name": "Yamakita Tsuburano Park",
+                  "text": "A scenic hilltop park featuring broad views of Sagami Bay and Mount Fuji.",
+                  "category": "park",
+                  "coords": [
+                        139.050984,
+                        35.368963
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-22",
     coords: [139.024, 35.405],
@@ -51,7 +384,268 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un parc national comprenant le mont Fuji, les cinq lacs de Fuji, Hakone, la péninsule d'Izu et les îles d'Izu.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-fuji-hakone-izu-national-park-nature-v2.webp"},
   {
-    id: "jp-biwa-see-nature-v2",
+    id: "jp-biwa-see-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yobai falls",
+                  "text": "Die Yobai-Wasserfälle liegen in den Bergen nahe dem Biwa-See und sind für ihre natürliche Schönheit bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        135.959283,
+                        35.2605
+                  ]
+            },
+            {
+                  "name": "Buna-gatake",
+                  "text": "Der Buna-gatake ist ein markanter Gipfel im Hira-Gebirge und bietet Wanderwege mit Blick auf den Biwa-See.",
+                  "category": "natural",
+                  "coords": [
+                        135.896985,
+                        35.26462
+                  ]
+            },
+            {
+                  "name": "Doman-dake",
+                  "text": "Dieser Berggipfel erhebt sich am Westufer des Biwa-Sees und bietet Wanderern einen weiten Blick über das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        135.908102,
+                        35.24057
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "Dieser Shinto-Schrein aus dem Jahr 1603 ist berühmt für sein großes Torii, das direkt im Wasser des Biwa-Sees steht.",
+                  "category": "religious",
+                  "coords": [
+                        136.011094,
+                        35.2746
+                  ]
+            },
+            {
+                  "name": "Omi Maiko Nakahama Beach",
+                  "text": "Dieser beliebte Sandstrand am Biwa-See ist für seine Pinienhaine und das klare Wasser bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        135.960778,
+                        35.227999
+                  ]
+            },
+            {
+                  "name": "Ukawa Shrine",
+                  "text": "Ein ruhiger Shinto-Schrein in der Nähe der Küste, der in die friedliche Waldlandschaft eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017489,
+                        35.28058
+                  ]
+            },
+            {
+                  "name": "Hiyoshi Shrine",
+                  "text": "Diese traditionelle Shinto-Stätte ist den Schutzgottheiten der Region am Biwa-See gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017454,
+                        35.284979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yobai falls",
+                  "text": "A Jóbai-vízesés a Biwa-tó közeli hegyekben található, és természetes szépségéről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        135.959283,
+                        35.2605
+                  ]
+            },
+            {
+                  "name": "Buna-gatake",
+                  "text": "A Buna-gatake a Hira-hegység egyik kiemelkedő csúcsa, amely a Biwa-tóra néző túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        135.896985,
+                        35.26462
+                  ]
+            },
+            {
+                  "name": "Doman-dake",
+                  "text": "Ez a hegycsúcs a Biva-tó nyugati partján magasodik, és széles kilátást nyújt a túrázóknak a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        135.908102,
+                        35.24057
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "Ez az 1603-as alapítású sintó szentély a Biva-tó vizében álló hatalmas torii kapujáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        136.011094,
+                        35.2746
+                  ]
+            },
+            {
+                  "name": "Omi Maiko Nakahama Beach",
+                  "text": "Ez a népszerű homokos strand a Biva-tónál fenyőligeteiről és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        135.960778,
+                        35.227999
+                  ]
+            },
+            {
+                  "name": "Ukawa Shrine",
+                  "text": "Egy csendes sintó szentély a part közelében, amely a békés erdei tájba simul.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017489,
+                        35.28058
+                  ]
+            },
+            {
+                  "name": "Hiyoshi Shrine",
+                  "text": "Ez a hagyományos sintó szentély a Biva-tó régiójának védőistenségeinek van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017454,
+                        35.284979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yobai falls",
+                  "text": "Cascadele Yobai sunt situate în munții de lângă Lacul Biwa, fiind cunoscute pentru frumusețea lor naturală.",
+                  "category": "natural",
+                  "coords": [
+                        135.959283,
+                        35.2605
+                  ]
+            },
+            {
+                  "name": "Buna-gatake",
+                  "text": "Buna-gatake este un vârf proeminent din Munții Hira, oferind trasee de drumeție cu vedere spre Lacul Biwa.",
+                  "category": "natural",
+                  "coords": [
+                        135.896985,
+                        35.26462
+                  ]
+            },
+            {
+                  "name": "Doman-dake",
+                  "text": "Acest vârf montan se înalță pe malul vestic al lacului Biwa, oferind drumeților o vedere panoramică asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        135.908102,
+                        35.24057
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "Acest sanctuar șintoist din 1603 este faimos pentru marea sa poartă torii care stă direct în apele lacului Biwa.",
+                  "category": "religious",
+                  "coords": [
+                        136.011094,
+                        35.2746
+                  ]
+            },
+            {
+                  "name": "Omi Maiko Nakahama Beach",
+                  "text": "Această plajă de nisip populară de pe lacul Biwa este cunoscută pentru pădurile sale de pini și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        135.960778,
+                        35.227999
+                  ]
+            },
+            {
+                  "name": "Ukawa Shrine",
+                  "text": "Un sanctuar șintoist liniștit lângă coastă, amplasat în peisajul forestier pașnic.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017489,
+                        35.28058
+                  ]
+            },
+            {
+                  "name": "Hiyoshi Shrine",
+                  "text": "Acest sit șintoist tradițional este dedicat zeităților protectoare ale regiunii lacului Biwa.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017454,
+                        35.284979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yobai falls",
+                  "text": "Yobai falls is a scenic waterfall located in the mountains near Lake Biwa, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        135.959283,
+                        35.2605
+                  ]
+            },
+            {
+                  "name": "Buna-gatake",
+                  "text": "Buna-gatake is a prominent peak in the Hira Mountains offering challenging trails and views over Lake Biwa.",
+                  "category": "natural",
+                  "coords": [
+                        135.896985,
+                        35.26462
+                  ]
+            },
+            {
+                  "name": "Doman-dake",
+                  "text": "This mountain peak rises on the western shore of Lake Biwa, offering hikers wide views over the water.",
+                  "category": "natural",
+                  "coords": [
+                        135.908102,
+                        35.24057
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "This Shinto shrine dating back to 1603 is famous for its large torii gate standing directly in the waters of Lake Biwa.",
+                  "category": "religious",
+                  "coords": [
+                        136.011094,
+                        35.2746
+                  ]
+            },
+            {
+                  "name": "Omi Maiko Nakahama Beach",
+                  "text": "This popular sandy beach on Lake Biwa is known for its pine groves and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        135.960778,
+                        35.227999
+                  ]
+            },
+            {
+                  "name": "Ukawa Shrine",
+                  "text": "A quiet Shinto shrine near the coast, nestled into the peaceful forest landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017489,
+                        35.28058
+                  ]
+            },
+            {
+                  "name": "Hiyoshi Shrine",
+                  "text": "This traditional Shinto site is dedicated to the guardian deities of the Lake Biwa region.",
+                  "category": "landmark",
+                  "coords": [
+                        136.017454,
+                        35.284979
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "JP-25",
     coords: [136.0, 35.25],
@@ -98,7 +692,124 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Le plus grand lac d'eau douce du Japon, situé dans la préfecture de Shiga.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-biwa-see-nature-v2.webp"},
   {
-    id: "jp-shinano-fluss-nature-v2",
+    id: "jp-shinano-fluss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ABN",
+                  "text": "Ein markantes Leuchtfeuer an der Mündung des Shinano-Flusses, das der Navigation in der Bucht von Niigata dient.",
+                  "category": "landmark",
+                  "coords": [
+                        139.111218,
+                        37.950601
+                  ]
+            },
+            {
+                  "name": "ouun bridge",
+                  "text": "Diese wichtige Straßenbrücke der Route 49 überquert den Shinano-Fluss und verbindet die Regionen östlich von Niigata.",
+                  "category": "landmark",
+                  "coords": [
+                        139.153828,
+                        37.840407
+                  ]
+            },
+            {
+                  "name": "Niigata Rice Cracker Museum",
+                  "text": "Ein interaktives Museum in Niigata, in dem Besucher ihre eigenen Senbei-Reiskräcker über offenem Feuer backen können.",
+                  "category": "recreational",
+                  "coords": [
+                        139.163744,
+                        37.929221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ABN",
+                  "text": "Jellegzetes világítótorony a Sinano-folyó torkolatánál, amely a niigatai öbölben segíti a navigációt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.111218,
+                        37.950601
+                  ]
+            },
+            {
+                  "name": "ouun bridge",
+                  "text": "Ez a fontos közúti híd a 49-es úton ível át a Sinano-folyó felett, összekötve a Niigatától keletre fekvő régiókat.",
+                  "category": "landmark",
+                  "coords": [
+                        139.153828,
+                        37.840407
+                  ]
+            },
+            {
+                  "name": "Niigata Rice Cracker Museum",
+                  "text": "Interaktív múzeum Niigatában, ahol a látogatók saját senbei rizskekszet süthetnek nyílt tűz felett.",
+                  "category": "recreational",
+                  "coords": [
+                        139.163744,
+                        37.929221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ABN",
+                  "text": "Un far distinctiv la gura de vărsare a râului Shinano, care servește la navigația în golful Niigata.",
+                  "category": "landmark",
+                  "coords": [
+                        139.111218,
+                        37.950601
+                  ]
+            },
+            {
+                  "name": "ouun bridge",
+                  "text": "Acest pod rutier important de pe traseul 49 traversează râul Shinano, conectând regiunile de la est de Niigata.",
+                  "category": "landmark",
+                  "coords": [
+                        139.153828,
+                        37.840407
+                  ]
+            },
+            {
+                  "name": "Niigata Rice Cracker Museum",
+                  "text": "Un muzeu interactiv din Niigata unde vizitatorii își pot coace propriile fursecuri de orez senbei pe foc deschis.",
+                  "category": "recreational",
+                  "coords": [
+                        139.163744,
+                        37.929221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ABN",
+                  "text": "A distinctive lighthouse beacon at the mouth of the Shinano River, serving navigation in the Niigata bay.",
+                  "category": "landmark",
+                  "coords": [
+                        139.111218,
+                        37.950601
+                  ]
+            },
+            {
+                  "name": "ouun bridge",
+                  "text": "This important road bridge on Route 49 crosses the Shinano River, connecting the regions east of Niigata.",
+                  "category": "landmark",
+                  "coords": [
+                        139.153828,
+                        37.840407
+                  ]
+            },
+            {
+                  "name": "Niigata Rice Cracker Museum",
+                  "text": "An interactive museum in Niigata where visitors can bake their own senbei rice crackers over an open fire.",
+                  "category": "recreational",
+                  "coords": [
+                        139.163744,
+                        37.929221
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JP-15",
     coords: [139.11, 37.92],
@@ -145,7 +856,448 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Le fleuve le plus long et le plus large du Japon, traversant les préfectures de Nagano et Niigata.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-shinano-fluss-nature-v2.webp"},
   {
-    id: "jp-aso-kuju-nationalpark-nature-v2",
+    id: "jp-aso-kuju-nationalpark-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Office of Mount Aso Ecomusee",
+                  "text": "Diese Ökomuseums-Einrichtung bietet umfangreiche lehrreiche Ausstellungen zur Geologie und Natur des Aso-Kuju-Nationalparks.",
+                  "category": "museum",
+                  "coords": [
+                        131.053285,
+                        32.830838
+                  ]
+            },
+            {
+                  "name": "Mt. Kishima-dake",
+                  "text": "Ein markanter Vulkankegel, der sich innerhalb der malerischen Grenzen des Aso-Kuju-Nationalparks befindet.",
+                  "category": "natural",
+                  "coords": [
+                        131.057898,
+                        32.892721
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi-dake",
+                  "text": "Einer der fünf zentralen Gipfel der vulkanischen Aso-Gruppe, der sich markant im Nationalpark erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        131.057998,
+                        32.87371
+                  ]
+            },
+            {
+                  "name": "Mt. Naka-dake",
+                  "text": "Dieser weltweit bekannte, aktive Stratovulkangipfel verfügt über einen ständig dampfenden Krater, der für Besucher zugänglich ist.",
+                  "category": "natural",
+                  "coords": [
+                        131.097004,
+                        32.88353
+                  ]
+            },
+            {
+                  "name": "Mt. Taka-dake",
+                  "text": "Als höchste Erhebung unter den fünf Aso-Bergen dominiert dieser Gipfel die Skyline des Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        131.10391,
+                        32.884365
+                  ]
+            },
+            {
+                  "name": "Kamishikimi Kumanoimasu Shrine",
+                  "text": "Ein bekannter Shinto-Schrein in einem tiefen, moosbewachsenen Wald, der in der Aso-Region eine mystische Atmosphäre ausstrahlt.",
+                  "category": "religious",
+                  "coords": [
+                        131.158503,
+                        32.853804
+                  ]
+            },
+            {
+                  "name": "Mount Neko-dake",
+                  "text": "Dieser Berg zeichnet sich durch seinen gezackten, mehrgipfligen Kamm aus und ist ein optisch auffälliger Teil des Aso-Calderarandes.",
+                  "category": "natural",
+                  "coords": [
+                        131.144593,
+                        32.883948
+                  ]
+            },
+            {
+                  "name": "Ichinomiyamachi Miyaji",
+                  "text": "Ein historisches Viertel in der Nähe des Aso-Schreins, das für seine traditionellen Ladenfronten und zahlreichen Quellwasserbrunnen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        131.115878,
+                        32.951383
+                  ]
+            },
+            {
+                  "name": "Aso Mizuki Meguri Shopping Street",
+                  "text": "Eine traditionelle Einkaufsstraße, durchsetzt mit natürlichen Wasserquellen, die aus den Aso-Bergen fließen.",
+                  "category": "landmark",
+                  "coords": [
+                        131.116669,
+                        32.948993
+                  ]
+            },
+            {
+                  "name": "Aso Shrine",
+                  "text": "Einer der ältesten Shinto-Schreine Japans, der traditionell von großer Bedeutung für die Gemeinden rund um die Aso-Caldera ist.",
+                  "category": "religious",
+                  "coords": [
+                        131.116059,
+                        32.947724
+                  ]
+            },
+            {
+                  "name": "Kiyomizu-dera Temple",
+                  "text": "Eine buddhistische Stätte inmitten der Naturlandschaft der Aso-Region, die einen ruhigen Rückzugsort bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        131.090433,
+                        32.80021
+                  ]
+            },
+            {
+                  "name": "Foot bath",
+                  "text": "Ein öffentliches thermales Fußbad, das das natürliche geothermische Thermalwasser der vulkanischen Aso-Zone nutzt.",
+                  "category": "natural",
+                  "coords": [
+                        131.078994,
+                        32.936625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Office of Mount Aso Ecomusee",
+                  "text": "Ez az ökomúzeum létesítmény kiterjedt oktatási kiállításokat kínál az Aso-Kuju Nemzeti Park geológiájáról és természetéről.",
+                  "category": "museum",
+                  "coords": [
+                        131.053285,
+                        32.830838
+                  ]
+            },
+            {
+                  "name": "Mt. Kishima-dake",
+                  "text": "Egy jellegzetes vulkáni kúp, amely az Aso-Kuju Nemzeti Park festői határain belül található.",
+                  "category": "natural",
+                  "coords": [
+                        131.057898,
+                        32.892721
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi-dake",
+                  "text": "Az Aso vulkáni csoport öt központi csúcsának egyike, amely kiemelkedően magasodik a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        131.057998,
+                        32.87371
+                  ]
+            },
+            {
+                  "name": "Mt. Naka-dake",
+                  "text": "Ez a világszerte ismert aktív rétegvulkán csúcs egy folyamatosan gőzölgő kráterrel rendelkezik, amely nyitva áll a látogatók előtt.",
+                  "category": "natural",
+                  "coords": [
+                        131.097004,
+                        32.88353
+                  ]
+            },
+            {
+                  "name": "Mt. Taka-dake",
+                  "text": "Az Aso öt hegye közül a legmagasabb pontot alkotó csúcs uralja a nemzeti park látképét.",
+                  "category": "natural",
+                  "coords": [
+                        131.10391,
+                        32.884365
+                  ]
+            },
+            {
+                  "name": "Kamishikimi Kumanoimasu Shrine",
+                  "text": "Egy nevezetes sintó szentély egy mély, mohás erdőben, amely misztikus hangulatot idéz az Aso régióban.",
+                  "category": "religious",
+                  "coords": [
+                        131.158503,
+                        32.853804
+                  ]
+            },
+            {
+                  "name": "Mount Neko-dake",
+                  "text": "Csipkézett, többcsúcsú gerincével jellemezve ez a hegy az Aso-kaldera peremének vizuálisan lenyűgöző része.",
+                  "category": "natural",
+                  "coords": [
+                        131.144593,
+                        32.883948
+                  ]
+            },
+            {
+                  "name": "Ichinomiyamachi Miyaji",
+                  "text": "Egy történelmi negyed az Aso-szentély közelében, amely hagyományos üzlethelyiségeiről és számos forrásvízi kútjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        131.115878,
+                        32.951383
+                  ]
+            },
+            {
+                  "name": "Aso Mizuki Meguri Shopping Street",
+                  "text": "Egy hagyományos bevásárlóutca, amelyet az Aso-hegyekből fakadó természetes vízforrások tagolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        131.116669,
+                        32.948993
+                  ]
+            },
+            {
+                  "name": "Aso Shrine",
+                  "text": "Japán egyik legrégebbi sintó szentélye, amely hagyományosan mély jelentőséggel bír az Aso-kaldera körüli közösségek számára.",
+                  "category": "religious",
+                  "coords": [
+                        131.116059,
+                        32.947724
+                  ]
+            },
+            {
+                  "name": "Kiyomizu-dera Temple",
+                  "text": "Egy buddhista helyszín az Aso régió természeti tája között, amely csendes menedéket nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        131.090433,
+                        32.80021
+                  ]
+            },
+            {
+                  "name": "Foot bath",
+                  "text": "Egy nyilvános termál lábfürdő, amely az Aso vulkáni övezet természetes geotermikus melegvizét használja.",
+                  "category": "natural",
+                  "coords": [
+                        131.078994,
+                        32.936625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Office of Mount Aso Ecomusee",
+                  "text": "Această facilitate a ecomuzeului oferă expoziții educaționale ample privind geologia și natura Parcului Național Aso-Kuju.",
+                  "category": "museum",
+                  "coords": [
+                        131.053285,
+                        32.830838
+                  ]
+            },
+            {
+                  "name": "Mt. Kishima-dake",
+                  "text": "Un con vulcanic distinctiv situat în limitele pitorești ale Parcului Național Aso-Kuju.",
+                  "category": "natural",
+                  "coords": [
+                        131.057898,
+                        32.892721
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi-dake",
+                  "text": "Unul dintre cele cinci vârfuri centrale ale grupului vulcanic Aso, care se înalță proeminent în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        131.057998,
+                        32.87371
+                  ]
+            },
+            {
+                  "name": "Mt. Naka-dake",
+                  "text": "Acest vârf de stratovulcan activ, cunoscut la nivel mondial, prezintă un crater care fumegă constant, accesibil vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        131.097004,
+                        32.88353
+                  ]
+            },
+            {
+                  "name": "Mt. Taka-dake",
+                  "text": "Formând cea mai mare altitudine dintre cei Cinci Munți Aso, acest vârf domină orizontul parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        131.10391,
+                        32.884365
+                  ]
+            },
+            {
+                  "name": "Kamishikimi Kumanoimasu Shrine",
+                  "text": "Un altar șintoist renumit, situat într-o pădure adâncă de mușchi, care evocă o atmosferă mistică în regiunea Aso.",
+                  "category": "religious",
+                  "coords": [
+                        131.158503,
+                        32.853804
+                  ]
+            },
+            {
+                  "name": "Mount Neko-dake",
+                  "text": "Caracterizat de creasta sa zimțată, cu mai multe vârfuri, acest munte este o parte vizual frapantă a marginii calderei Aso.",
+                  "category": "natural",
+                  "coords": [
+                        131.144593,
+                        32.883948
+                  ]
+            },
+            {
+                  "name": "Ichinomiyamachi Miyaji",
+                  "text": "Un cartier istoric de lângă Altarul Aso, cunoscut pentru vitrinele sale tradiționale și numeroasele fântâni cu apă de izvor.",
+                  "category": "landmark",
+                  "coords": [
+                        131.115878,
+                        32.951383
+                  ]
+            },
+            {
+                  "name": "Aso Mizuki Meguri Shopping Street",
+                  "text": "O stradă de cumpărături tradițională presărată cu surse de apă naturală care curg din munții Aso.",
+                  "category": "landmark",
+                  "coords": [
+                        131.116669,
+                        32.948993
+                  ]
+            },
+            {
+                  "name": "Aso Shrine",
+                  "text": "Unul dintre cele mai vechi altare șintoiste din Japonia, cu o semnificație profundă din punct de vedere tradițional pentru comunitățile din jurul calderei Aso.",
+                  "category": "religious",
+                  "coords": [
+                        131.116059,
+                        32.947724
+                  ]
+            },
+            {
+                  "name": "Kiyomizu-dera Temple",
+                  "text": "Un loc budist situat în peisajul natural al regiunii Aso, oferind un refugiu liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        131.090433,
+                        32.80021
+                  ]
+            },
+            {
+                  "name": "Foot bath",
+                  "text": "O baie publică termală pentru picioare care utilizează apele geotermale naturale ale zonei vulcanice Aso.",
+                  "category": "natural",
+                  "coords": [
+                        131.078994,
+                        32.936625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Office of Mount Aso Ecomusee",
+                  "text": "This eco-museum facility provides extensive educational exhibits regarding the geology and nature of Aso-Kuju National Park.",
+                  "category": "museum",
+                  "coords": [
+                        131.053285,
+                        32.830838
+                  ]
+            },
+            {
+                  "name": "Mt. Kishima-dake",
+                  "text": "A distinctive volcanic cone located within the scenic bounds of Aso-Kuju National Park.",
+                  "category": "natural",
+                  "coords": [
+                        131.057898,
+                        32.892721
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi-dake",
+                  "text": "One of the five central peaks of the Aso volcanic group, rising prominently in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        131.057998,
+                        32.87371
+                  ]
+            },
+            {
+                  "name": "Mt. Naka-dake",
+                  "text": "This globally known active stratovolcano peak features a constantly steaming crater accessible to visitors.",
+                  "category": "natural",
+                  "coords": [
+                        131.097004,
+                        32.88353
+                  ]
+            },
+            {
+                  "name": "Mt. Taka-dake",
+                  "text": "Forming the highest elevation among the Aso Five Mountains, this peak dominates the national park's skyline.",
+                  "category": "natural",
+                  "coords": [
+                        131.10391,
+                        32.884365
+                  ]
+            },
+            {
+                  "name": "Kamishikimi Kumanoimasu Shrine",
+                  "text": "A noted Shinto shrine set within a deep, mossy forest that evokes a mystical atmosphere in the Aso region.",
+                  "category": "religious",
+                  "coords": [
+                        131.158503,
+                        32.853804
+                  ]
+            },
+            {
+                  "name": "Mount Neko-dake",
+                  "text": "Characterized by its jagged, multi-peaked ridge, this mountain is a visually striking part of the Aso caldera edge.",
+                  "category": "natural",
+                  "coords": [
+                        131.144593,
+                        32.883948
+                  ]
+            },
+            {
+                  "name": "Ichinomiyamachi Miyaji",
+                  "text": "A historic district near Aso Shrine known for its traditional storefronts and numerous spring water fountains.",
+                  "category": "landmark",
+                  "coords": [
+                        131.115878,
+                        32.951383
+                  ]
+            },
+            {
+                  "name": "Aso Mizuki Meguri Shopping Street",
+                  "text": "A traditional shopping avenue interspersed with natural water sources flowing from the Aso mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        131.116669,
+                        32.948993
+                  ]
+            },
+            {
+                  "name": "Aso Shrine",
+                  "text": "One of Japan's oldest Shinto shrines, traditionally holding deep significance for the communities around the Aso caldera.",
+                  "category": "religious",
+                  "coords": [
+                        131.116059,
+                        32.947724
+                  ]
+            },
+            {
+                  "name": "Kiyomizu-dera Temple",
+                  "text": "A Buddhist site set amongst the natural scenery of the Aso region, providing a quiet retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        131.090433,
+                        32.80021
+                  ]
+            },
+            {
+                  "name": "Foot bath",
+                  "text": "A public thermal foot bath utilizing the natural geothermal hot spring waters of the Aso volcanic zone.",
+                  "category": "natural",
+                  "coords": [
+                        131.078994,
+                        32.936625
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-43",
     coords: [131.10, 32.88],
@@ -192,7 +1344,556 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Parc national comprenant le volcan actif Aso et les monts Kujū.", "Situé sur l'île de Kyushu dans le sud du Japon.", "Joue un rôle dans l'identité locale de la région.", "Reconnu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-aso-kuju-nationalpark-nature-v2.webp"},
   {
-    id: "jp-berg-kita-nature-v2",
+    id: "jp-berg-kita-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Kannon",
+                  "text": "Der höchste Gipfel des Houou-Zan-Massivs in den Südalpen, bekannt für seine schroffen Granitformationen.",
+                  "category": "natural",
+                  "coords": [
+                        138.304756,
+                        35.701739
+                  ]
+            },
+            {
+                  "name": "Mount Yakushi",
+                  "text": "Einer der drei markanten Gipfel des Berges Houou, benannt nach der buddhistischen Gottheit der Heilung.",
+                  "category": "natural",
+                  "coords": [
+                        138.31162,
+                        35.695849
+                  ]
+            },
+            {
+                  "name": "Mount Hirogochi",
+                  "text": "Ein Gipfel in den Südalpen (Akaishi-Gebirge) an der Grenze zwischen den Präfekturen Shizuoka und Yamanashi.",
+                  "category": "natural",
+                  "coords": [
+                        138.235862,
+                        35.60601
+                  ]
+            },
+            {
+                  "name": "Mount Nōtori",
+                  "text": "Einer der drei Shirane-Gipfel in den Südalpen, bekannt für seine bis in den Sommer verbleibenden Schneefelder.",
+                  "category": "natural",
+                  "coords": [
+                        138.236865,
+                        35.62118
+                  ]
+            },
+            {
+                  "name": "Mount Mibu",
+                  "text": "Ein Gebirgsgipfel in den Südalpen, an dem drei Bergkämme an der Grenze von drei Präfekturen zusammentreffen.",
+                  "category": "natural",
+                  "coords": [
+                        138.218574,
+                        35.644127
+                  ]
+            },
+            {
+                  "name": "Mount Nakashirane",
+                  "text": "Ein hoher Kammgipfel in den Südalpen, der die Berge Kita-dake und Ainodake miteinander verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        138.228256,
+                        35.658621
+                  ]
+            },
+            {
+                  "name": "Der Aino",
+                  "text": "Japans vierthöchster Gipfel in den Südalpen, bekannt für sein massives und breites Gipfelplateau.",
+                  "category": "natural",
+                  "coords": [
+                        138.228348,
+                        35.646037
+                  ]
+            },
+            {
+                  "name": "Der Kita",
+                  "text": "Der zweithöchste Berg Japans in den Südalpen, berühmt für seine einzigartige alpine Flora.",
+                  "category": "natural",
+                  "coords": [
+                        138.238808,
+                        35.674321
+                  ]
+            },
+            {
+                  "name": "Mount Kotaro",
+                  "text": "Ein Gipfel in den Südalpen, der einen beeindruckenden Blick auf den nahe gelegenen Berg Kita-dake bietet.",
+                  "category": "natural",
+                  "coords": [
+                        138.240001,
+                        35.700819
+                  ]
+            },
+            {
+                  "name": "Mount Ina-Arakura",
+                  "text": "Ein abgelegener Gipfel in den Südalpen an der Grenze zwischen den Präfekturen Nagano und Yamanashi.",
+                  "category": "natural",
+                  "coords": [
+                        138.193872,
+                        35.68914
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobei",
+                  "text": "Ein Gipfel in den Südalpen, der sich auf dem Kammweg zum markanten Berg Shiomi-dake befindet.",
+                  "category": "natural",
+                  "coords": [
+                        138.186112,
+                        35.644562
+                  ]
+            },
+            {
+                  "name": "Mount Senjo",
+                  "text": "Wegen seiner anmutigen Form und der drei Gletscherkare wird er oft als „Königin der Südalpen“ bezeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        138.183602,
+                        35.720078
+                  ]
+            },
+            {
+                  "name": "Mount Kai-Koma",
+                  "text": "Ein markanter Gipfel in den Südalpen, der für sein helles Gestein aus weißem Granit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        138.236815,
+                        35.757943
+                  ]
+            },
+            {
+                  "name": "Mount Asayo",
+                  "text": "Ein Gipfel in den Südalpen, der für sein zerklüftetes, felsiges Gelände in der Nähe des Berges Kai-Koma bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        138.241307,
+                        35.731723
+                  ]
+            },
+            {
+                  "name": "Mt. Jizo",
+                  "text": "Einer der Houou-Gipfel, berühmt für den 18 Meter hohen Obelisken am Gipfel des Jizo-gatake.",
+                  "category": "natural",
+                  "coords": [
+                        138.298714,
+                        35.712091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Kannon",
+                  "text": "A Déli-Alpokban található Houou-zan masszívum legmagasabb csúcsa, amely meredek gránitformációiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.304756,
+                        35.701739
+                  ]
+            },
+            {
+                  "name": "Mount Yakushi",
+                  "text": "A Houou-hegy három jellegzetes csúcsának egyike, amelyet a gyógyítás buddhista istenségéről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        138.31162,
+                        35.695849
+                  ]
+            },
+            {
+                  "name": "Mount Hirogochi",
+                  "text": "Csúcs a Déli-Alpokban (Akaishi-hegység), Sizuoka és Jamanasi prefektúrák határán.",
+                  "category": "natural",
+                  "coords": [
+                        138.235862,
+                        35.60601
+                  ]
+            },
+            {
+                  "name": "Mount Nōtori",
+                  "text": "A Déli-Alpok három Sirane-csúcsának egyike, amely nyáron is megmaradó hómezőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.236865,
+                        35.62118
+                  ]
+            },
+            {
+                  "name": "Mount Mibu",
+                  "text": "Csúcs a Déli-Alpokban, ahol három hegygerinc találkozik három prefektúra határán.",
+                  "category": "natural",
+                  "coords": [
+                        138.218574,
+                        35.644127
+                  ]
+            },
+            {
+                  "name": "Mount Nakashirane",
+                  "text": "Magas gerinccsúcs a Déli-Alpokban, amely összeköti a Kita-dake és az Ainodake hegyeket.",
+                  "category": "natural",
+                  "coords": [
+                        138.228256,
+                        35.658621
+                  ]
+            },
+            {
+                  "name": "Mt. Ai",
+                  "text": "Japán negyedik legmagasabb csúcsa a Déli-Alpokban, amely hatalmas, széles fennsíkjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.228348,
+                        35.646037
+                  ]
+            },
+            {
+                  "name": "Mount Kita",
+                  "text": "Japán második legmagasabb hegye a Déli-Alpokban, amely egyedülálló alpesi flórájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        138.238808,
+                        35.674321
+                  ]
+            },
+            {
+                  "name": "Mount Kotaro",
+                  "text": "Csúcs a Déli-Alpokban, amely lenyűgöző kilátást nyújt a közeli Kita-dake hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        138.240001,
+                        35.700819
+                  ]
+            },
+            {
+                  "name": "Mount Ina-Arakura",
+                  "text": "Elszigetelt csúcs a Déli-Alpokban, Nagano és Jamanasi prefektúrák határán.",
+                  "category": "natural",
+                  "coords": [
+                        138.193872,
+                        35.68914
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobei",
+                  "text": "Csúcs a Déli-Alpokban, amely a jellegzetes Siomi-dake felé vezető gerincen található.",
+                  "category": "natural",
+                  "coords": [
+                        138.186112,
+                        35.644562
+                  ]
+            },
+            {
+                  "name": "Mount Senjo",
+                  "text": "Kecses formája és három gleccserkatlana miatt gyakran a „Déli-Alpok királynőjének” nevezik.",
+                  "category": "natural",
+                  "coords": [
+                        138.183602,
+                        35.720078
+                  ]
+            },
+            {
+                  "name": "Mount Kai-Koma",
+                  "text": "Jellegzetes csúcs a Déli-Alpokban, amely fehér gránitból álló világos kőzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.236815,
+                        35.757943
+                  ]
+            },
+            {
+                  "name": "Mount Asayo",
+                  "text": "Csúcs a Déli-Alpokban, amely a Kai-Koma közelében található egyenetlen, sziklás terepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.241307,
+                        35.731723
+                  ]
+            },
+            {
+                  "name": "Mt. Jizo",
+                  "text": "A Houou-csúcsok egyike, amely a Jizo-gatake tetején található 18 méter magas obeliszkről híres.",
+                  "category": "natural",
+                  "coords": [
+                        138.298714,
+                        35.712091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Kannon",
+                  "text": "Cel mai înalt vârf al masivului Houou-zan din Alpii Sudici, cunoscut pentru formațiunile sale de granit abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        138.304756,
+                        35.701739
+                  ]
+            },
+            {
+                  "name": "Mount Yakushi",
+                  "text": "Unul dintre cele trei vârfuri distinctive ale Muntelui Houou, numit după divinitatea budistă a vindecării.",
+                  "category": "natural",
+                  "coords": [
+                        138.31162,
+                        35.695849
+                  ]
+            },
+            {
+                  "name": "Mount Hirogochi",
+                  "text": "Un vârf în Alpii de Sud (Munții Akaishi), situat la granița dintre prefecturile Shizuoka și Yamanashi.",
+                  "category": "natural",
+                  "coords": [
+                        138.235862,
+                        35.60601
+                  ]
+            },
+            {
+                  "name": "Mount Nōtori",
+                  "text": "Unul dintre cele trei vârfuri Shirane din Alpii de Sud, cunoscut pentru câmpurile de zăpadă care persistă vara.",
+                  "category": "natural",
+                  "coords": [
+                        138.236865,
+                        35.62118
+                  ]
+            },
+            {
+                  "name": "Mount Mibu",
+                  "text": "Un vârf montan în Alpii de Sud, unde se întâlnesc trei creste la granița a trei prefecturi.",
+                  "category": "natural",
+                  "coords": [
+                        138.218574,
+                        35.644127
+                  ]
+            },
+            {
+                  "name": "Mount Nakashirane",
+                  "text": "Un vârf de creastă înalt în Alpii de Sud, care face legătura între munții Kita-dake și Ainodake.",
+                  "category": "natural",
+                  "coords": [
+                        138.228256,
+                        35.658621
+                  ]
+            },
+            {
+                  "name": "Mt. Ai",
+                  "text": "Al patrulea cel mai înalt vârf din Japonia, situat în Alpii de Sud, cunoscut pentru platoul său masiv și lat.",
+                  "category": "natural",
+                  "coords": [
+                        138.228348,
+                        35.646037
+                  ]
+            },
+            {
+                  "name": "Mount Kita",
+                  "text": "Al doilea cel mai înalt munte din Japonia, situat în Alpii de Sud, faimos pentru flora sa alpină unică.",
+                  "category": "natural",
+                  "coords": [
+                        138.238808,
+                        35.674321
+                  ]
+            },
+            {
+                  "name": "Mount Kotaro",
+                  "text": "Un vârf din Alpii de Sud care oferă o priveliște impresionantă asupra muntelui Kita-dake din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        138.240001,
+                        35.700819
+                  ]
+            },
+            {
+                  "name": "Mount Ina-Arakura",
+                  "text": "Un vârf izolat în Alpii de Sud, aflat la granița dintre prefecturile Nagano și Yamanashi.",
+                  "category": "natural",
+                  "coords": [
+                        138.193872,
+                        35.68914
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobei",
+                  "text": "Un vârf din Alpii de Sud, situat pe traseul de creastă către muntele Shiomi-dake.",
+                  "category": "natural",
+                  "coords": [
+                        138.186112,
+                        35.644562
+                  ]
+            },
+            {
+                  "name": "Mount Senjo",
+                  "text": "Adesea numit „Regina Alpilor de Sud” datorită formei sale grațioase și a celor trei circuri glaciare.",
+                  "category": "natural",
+                  "coords": [
+                        138.183602,
+                        35.720078
+                  ]
+            },
+            {
+                  "name": "Mount Kai-Koma",
+                  "text": "Un vârf distinctiv în Alpii de Sud, cunoscut pentru roca sa deschisă la culoare formată din granit alb.",
+                  "category": "natural",
+                  "coords": [
+                        138.236815,
+                        35.757943
+                  ]
+            },
+            {
+                  "name": "Mount Asayo",
+                  "text": "Un vârf în Alpii de Sud, cunoscut pentru terenul său stâncos și accidentat din apropierea muntelui Kai-Koma.",
+                  "category": "natural",
+                  "coords": [
+                        138.241307,
+                        35.731723
+                  ]
+            },
+            {
+                  "name": "Mt. Jizo",
+                  "text": "Unul dintre vârfurile Houou, faimos pentru obeliscul de 18 metri înălțime din vârful Jizo-gatake.",
+                  "category": "natural",
+                  "coords": [
+                        138.298714,
+                        35.712091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Kannon",
+                  "text": "The highest peak of the Houou-zan massif in the Southern Alps, known for its rugged granite formations.",
+                  "category": "natural",
+                  "coords": [
+                        138.304756,
+                        35.701739
+                  ]
+            },
+            {
+                  "name": "Mount Yakushi",
+                  "text": "One of the three distinctive peaks of Mount Houou, named after the Buddhist deity of healing.",
+                  "category": "natural",
+                  "coords": [
+                        138.31162,
+                        35.695849
+                  ]
+            },
+            {
+                  "name": "Mount Hirogochi",
+                  "text": "A peak in the Southern Alps (Akaishi Mountains) on the border of Shizuoka and Yamanashi prefectures.",
+                  "category": "natural",
+                  "coords": [
+                        138.235862,
+                        35.60601
+                  ]
+            },
+            {
+                  "name": "Mount Nōtori",
+                  "text": "One of the three Shirane peaks in the Southern Alps, known for its snow fields that remain late into summer.",
+                  "category": "natural",
+                  "coords": [
+                        138.236865,
+                        35.62118
+                  ]
+            },
+            {
+                  "name": "Mount Mibu",
+                  "text": "A mountain peak in the Southern Alps where three ridges meet at the border of three prefectures.",
+                  "category": "natural",
+                  "coords": [
+                        138.218574,
+                        35.644127
+                  ]
+            },
+            {
+                  "name": "Mount Nakashirane",
+                  "text": "A high ridge peak in the Southern Alps connecting Mount Kita and Mount Ainodake.",
+                  "category": "natural",
+                  "coords": [
+                        138.228256,
+                        35.658621
+                  ]
+            },
+            {
+                  "name": "Mt. Ai",
+                  "text": "Japan's fourth highest peak in the Southern Alps, known for its massive and broad summit plateau.",
+                  "category": "natural",
+                  "coords": [
+                        138.228348,
+                        35.646037
+                  ]
+            },
+            {
+                  "name": "Mount Kita",
+                  "text": "The second highest mountain in Japan, located in the Southern Alps and famous for its unique alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        138.238808,
+                        35.674321
+                  ]
+            },
+            {
+                  "name": "Mount Kotaro",
+                  "text": "A peak in the Southern Alps offering an impressive view of the nearby Mount Kita.",
+                  "category": "natural",
+                  "coords": [
+                        138.240001,
+                        35.700819
+                  ]
+            },
+            {
+                  "name": "Mount Ina-Arakura",
+                  "text": "A remote peak in the Southern Alps on the border of Nagano and Yamanashi prefectures.",
+                  "category": "natural",
+                  "coords": [
+                        138.193872,
+                        35.68914
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobei",
+                  "text": "A peak in the Southern Alps situated on the ridge path toward the prominent Mount Shiomi.",
+                  "category": "natural",
+                  "coords": [
+                        138.186112,
+                        35.644562
+                  ]
+            },
+            {
+                  "name": "Mount Senjo",
+                  "text": "Often called the \"Queen of the Southern Alps\" for its graceful shape and three glacial cirques.",
+                  "category": "natural",
+                  "coords": [
+                        138.183602,
+                        35.720078
+                  ]
+            },
+            {
+                  "name": "Mount Kai-Koma",
+                  "text": "A striking peak in the Southern Alps known for its light-colored rock made of white granite.",
+                  "category": "natural",
+                  "coords": [
+                        138.236815,
+                        35.757943
+                  ]
+            },
+            {
+                  "name": "Mount Asayo",
+                  "text": "A peak in the Southern Alps known for its rugged, rocky terrain near Mount Kai-Koma.",
+                  "category": "natural",
+                  "coords": [
+                        138.241307,
+                        35.731723
+                  ]
+            },
+            {
+                  "name": "Mt. Jizo",
+                  "text": "One of the Houou peaks, famous for the 18-meter-high obelisk rock at the summit of Jizo-gatake.",
+                  "category": "natural",
+                  "coords": [
+                        138.298714,
+                        35.712091
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JP-19",
     coords: [138.24, 35.67],
@@ -239,7 +1940,988 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["La deuxième plus haute montagne du Japon après le Fuji, située dans les monts Akaishi.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-berg-kita-nature-v2.webp"},
   {
-    id: "jp-yakushima-wald-nature-v2",
+    id: "jp-yakushima-wald-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Taiko",
+                  "text": "Ein schroffer Berggipfel, umgeben von den dichten, alten Zedernwäldern von Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.443538,
+                        30.304262
+                  ]
+            },
+            {
+                  "name": "Mt. Kuniwari",
+                  "text": "Ein steiler, bewaldeter Vulkangipfel, der in die Wolken über dem wilden Gelände von Yakushima ragt.",
+                  "category": "natural",
+                  "coords": [
+                        130.415386,
+                        30.352648
+                  ]
+            },
+            {
+                  "name": "Yoggo Valley",
+                  "text": "Eine bewaldete Naturtal-Attraktion in der Wildnis von Yakushima.",
+                  "category": "landmark",
+                  "coords": [
+                        130.444538,
+                        30.382269
+                  ]
+            },
+            {
+                  "name": "Mt. Nagata",
+                  "text": "Ein markanter Berggipfel, der sich über die alten Wälder von Yakushima erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        130.49241,
+                        30.342924
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubokiri",
+                  "text": "Ein aufragender Berggipfel im zerklüfteten Gelände von Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.481347,
+                        30.372014
+                  ]
+            },
+            {
+                  "name": "Mt. Yoshida",
+                  "text": "Ein hoher Berggipfel, der steile Wanderwege durch die Insellandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        130.477281,
+                        30.399363
+                  ]
+            },
+            {
+                  "name": "Wilson's Stump",
+                  "text": "Die massiven, ausgehöhlten Überreste einer riesigen Yakusugi-Zeder.",
+                  "category": "landmark",
+                  "coords": [
+                        130.541417,
+                        30.355417
+                  ]
+            },
+            {
+                  "name": "Daio Sugi",
+                  "text": "Eine der ältesten und größten antiken Yakusugi-Zedern entlang der Bergpfade.",
+                  "category": "landmark",
+                  "coords": [
+                        130.536353,
+                        30.359622
+                  ]
+            },
+            {
+                  "name": "Jomon Sugi (Cedar Tree)",
+                  "text": "Ein Aussichtspunkt, der einen Blick auf eine riesige, uralte Zeder tief im Wald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        130.531903,
+                        30.360801
+                  ]
+            },
+            {
+                  "name": "Mount Miyanoura",
+                  "text": "Der höchste Gipfel der Insel Yakushima, berühmt für seine üppige Vegetation und den Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        130.504206,
+                        30.336116
+                  ]
+            },
+            {
+                  "name": "Mt. Kurio",
+                  "text": "Ein zerklüfteter Berggipfel, der Teil des zentralen Hochlands von Yakushima ist.",
+                  "category": "natural",
+                  "coords": [
+                        130.507002,
+                        30.333545
+                  ]
+            },
+            {
+                  "name": "Mt. Kuromi",
+                  "text": "Ein felsiger Berggipfel, der durch seine steilen Granitblöcke und alpinen Pflanzen gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        130.508552,
+                        30.317421
+                  ]
+            },
+            {
+                  "name": "Mt. Koban",
+                  "text": "Ein markanter Berggipfel, der sich inmitten der alten Zedernwälder erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        130.510968,
+                        30.308078
+                  ]
+            },
+            {
+                  "name": "Mt. Shichigo",
+                  "text": "Ein hoch aufragender Gipfel, der von den dichten, moosigen Wäldern der Insel umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        130.492473,
+                        30.280685
+                  ]
+            },
+            {
+                  "name": "Kawakamisugi",
+                  "text": "Eine majestätische alte Zeder, die hoch im dichten Wald von Yakushima steht.",
+                  "category": "landmark",
+                  "coords": [
+                        130.5402,
+                        30.302909
+                  ]
+            },
+            {
+                  "name": "Yakusugi Land",
+                  "text": "Ein geschützter Naturpark mit zugänglichen Wegen durch einen Wald aus uralten Zedern.",
+                  "category": "landmark",
+                  "coords": [
+                        130.575436,
+                        30.304773
+                  ]
+            },
+            {
+                  "name": "Buddha cedar",
+                  "text": "Eine alte Zeder, die für ihren ungewöhnlich geformten, knorrigen Stamm bekannt ist, der einem Buddha ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        130.571961,
+                        30.303845
+                  ]
+            },
+            {
+                  "name": "Sennensugi Cedar",
+                  "text": "Eine Attraktion, die die historischen Holzeinschlagsorte und -methoden in den alten Zedernwäldern zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        130.574966,
+                        30.303714
+                  ]
+            },
+            {
+                  "name": "Azalea River",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen Waldbach, der von leuchtend blühenden Pflanzen gesäumt ist.",
+                  "category": "natural",
+                  "coords": [
+                        130.570687,
+                        30.304477
+                  ]
+            },
+            {
+                  "name": "Kusugawa Trail",
+                  "text": "Ein historischer, moosbedeckter Wanderweg, der einst für den Transport von geschlagenen Zedernstämmen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        130.587338,
+                        30.396185
+                  ]
+            },
+            {
+                  "name": "Mount Aiko",
+                  "text": "Ein hoch aufragender Berggipfel, der für seine steilen Pfade und die dichte umgebende Wildnis bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        130.600212,
+                        30.366025
+                  ]
+            },
+            {
+                  "name": "Kugurisugi cedar",
+                  "text": "Eine einzigartige Riesenzeder mit einem ausgehöhlten Stamm, der einen natürlichen Tunnel auf dem Wanderweg bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570897,
+                        30.370129
+                  ]
+            },
+            {
+                  "name": "nature observatory footpath",
+                  "text": "Ein malerischer Holzsteg, der für die sichere Beobachtung des Ökosystems des Urwaldes angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        130.565524,
+                        30.353131
+                  ]
+            },
+            {
+                  "name": "Third Generation Cedar",
+                  "text": "Eine faszinierende Baumformation, bei der drei Generationen von Zedern nacheinander aus einem einzigen Baumstumpf gewachsen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        130.559927,
+                        30.354146
+                  ]
+            },
+            {
+                  "name": "Nidaiosugi Cedar",
+                  "text": "Eine beeindruckende Zeder der zweiten Generation, die direkt aus den Überresten eines alten Baumstumpfes wächst.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570886,
+                        30.376677
+                  ]
+            },
+            {
+                  "name": "Nagata Inakahama Beach",
+                  "text": "Ein sandiger Küstenstreifen, der als wichtiger Nistplatz für Meeresschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        130.433608,
+                        30.407398
+                  ]
+            },
+            {
+                  "name": "Yakushima National Park",
+                  "text": "Ein 2012 gegründetes Naturschutzgebiet mit einer weltweit anerkannten Welterbestätte aus alten Wäldern.",
+                  "category": "natural",
+                  "coords": [
+                        130.440372,
+                        30.35594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Taiko",
+                  "text": "Egy zord hegycsúcs, amelyet Jakusima sűrű, ősi cédruserdői vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        130.443538,
+                        30.304262
+                  ]
+            },
+            {
+                  "name": "Mt. Kuniwari",
+                  "text": "Egy meredek, erdős vulkáni csúcs, amely a felhőkbe nyúlik Jakusima vad terepe fölött.",
+                  "category": "natural",
+                  "coords": [
+                        130.415386,
+                        30.352648
+                  ]
+            },
+            {
+                  "name": "Yoggo Valley",
+                  "text": "Egy erdős természeti völgy attrakció Jakusima vadonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        130.444538,
+                        30.382269
+                  ]
+            },
+            {
+                  "name": "Mt. Nagata",
+                  "text": "Egy kiemelkedő hegycsúcs, amely Jakusima ősi erdei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        130.49241,
+                        30.342924
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubokiri",
+                  "text": "Egy magasba törő hegycsúcs Jakusima zord terepén.",
+                  "category": "natural",
+                  "coords": [
+                        130.481347,
+                        30.372014
+                  ]
+            },
+            {
+                  "name": "Mt. Yoshida",
+                  "text": "Egy magas hegycsúcs, amely meredek túraútvonalakat kínál a sziget tájain keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        130.477281,
+                        30.399363
+                  ]
+            },
+            {
+                  "name": "Wilson's Stump",
+                  "text": "Egy óriási Jakusugi cédrusfa hatalmas, kivájt maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        130.541417,
+                        30.355417
+                  ]
+            },
+            {
+                  "name": "Daio Sugi",
+                  "text": "Az egyik legrégebbi és legnagyobb ősi Jakusugi cédrusfa a hegyi ösvények mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        130.536353,
+                        30.359622
+                  ]
+            },
+            {
+                  "name": "Jomon Sugi (Cedar Tree)",
+                  "text": "Egy kilátópont, ahonnan megpillantható az erdő mélyén megbúvó ősi óriáscédrus.",
+                  "category": "natural",
+                  "coords": [
+                        130.531903,
+                        30.360801
+                  ]
+            },
+            {
+                  "name": "Mount Miyanoura",
+                  "text": "Jakusima szigetének legmagasabb csúcsa, amely buja növényzetéről és panorámájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        130.504206,
+                        30.336116
+                  ]
+            },
+            {
+                  "name": "Mt. Kurio",
+                  "text": "Egy zord hegycsúcs, amely Jakusima központi fennsíkjának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        130.507002,
+                        30.333545
+                  ]
+            },
+            {
+                  "name": "Mt. Kuromi",
+                  "text": "Sziklás hegycsúcs, amelyet meredek gránittömbök és alpesi növények jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        130.508552,
+                        30.317421
+                  ]
+            },
+            {
+                  "name": "Mt. Koban",
+                  "text": "Egy különálló hegycsúcs, amely az ősi cédruserdők közepette emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        130.510968,
+                        30.308078
+                  ]
+            },
+            {
+                  "name": "Mt. Shichigo",
+                  "text": "A sziget sűrű, mohás erdei által körülvett, magasba tornyosuló hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        130.492473,
+                        30.280685
+                  ]
+            },
+            {
+                  "name": "Kawakamisugi",
+                  "text": "Egy fenséges ősi cédrusfa, amely magasan áll a sűrű jakusimai erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        130.5402,
+                        30.302909
+                  ]
+            },
+            {
+                  "name": "Yakusugi Land",
+                  "text": "Védett természeti park, amely hozzáférhető ösvényeket kínál egy ősi cédruserdőn keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        130.575436,
+                        30.304773
+                  ]
+            },
+            {
+                  "name": "Buddha cedar",
+                  "text": "Egy ősi cédrusfa, amely szokatlan formájú, Buddhára emlékeztető göcsörtös törzséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        130.571961,
+                        30.303845
+                  ]
+            },
+            {
+                  "name": "Sennensugi Cedar",
+                  "text": "Az ősi cédruserdőkben egykor használt fakitermelési helyszíneket és módszereket bemutató látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        130.574966,
+                        30.303714
+                  ]
+            },
+            {
+                  "name": "Azalea River",
+                  "text": "Festői kilátópont, amely egy élénken virágzó növényekkel szegélyezett erdei patakra néz.",
+                  "category": "natural",
+                  "coords": [
+                        130.570687,
+                        30.304477
+                  ]
+            },
+            {
+                  "name": "Kusugawa Trail",
+                  "text": "Egy történelmi, mohával borított túraútvonal, amelyet egykor a kivágott cédrusrönkök szállítására használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        130.587338,
+                        30.396185
+                  ]
+            },
+            {
+                  "name": "Mount Aiko",
+                  "text": "Egy magasba tornyosuló hegycsúcs, amely meredek ösvényeiről és az őt körülvevő sűrű vadonról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        130.600212,
+                        30.366025
+                  ]
+            },
+            {
+                  "name": "Kugurisugi cedar",
+                  "text": "Egyedülálló óriáscédrus, amelynek kivájt törzse természetes alagutat képez a túraútvonalon.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570897,
+                        30.370129
+                  ]
+            },
+            {
+                  "name": "nature observatory footpath",
+                  "text": "Egy festői fa sétány, amelyet az őserdő ökoszisztémájának biztonságos megfigyelésére terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        130.565524,
+                        30.353131
+                  ]
+            },
+            {
+                  "name": "Third Generation Cedar",
+                  "text": "Egy lenyűgöző faalakzat, ahol három generációnyi cédrus nőtt ki egymás után egyetlen tönkből.",
+                  "category": "landmark",
+                  "coords": [
+                        130.559927,
+                        30.354146
+                  ]
+            },
+            {
+                  "name": "Nidaiosugi Cedar",
+                  "text": "Egy lenyűgöző második generációs cédrusfa, amely közvetlenül egy ősi fatönk maradványaiból nő ki.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570886,
+                        30.376677
+                  ]
+            },
+            {
+                  "name": "Nagata Inakahama Beach",
+                  "text": "Homokos partszakasz, amely a tengeri teknősök kulcsfontosságú fészkelőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        130.433608,
+                        30.407398
+                  ]
+            },
+            {
+                  "name": "Yakushima National Park",
+                  "text": "2012-ben alapított védett természetvédelmi terület, amely egy világszerte elismert ősi erdei világörökségi helyszínt foglal magába.",
+                  "category": "natural",
+                  "coords": [
+                        130.440372,
+                        30.35594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Taiko",
+                  "text": "Un vârf montan accidentat, înconjurat de pădurile dese și străvechi de cedru din Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.443538,
+                        30.304262
+                  ]
+            },
+            {
+                  "name": "Mt. Kuniwari",
+                  "text": "Un vârf vulcanic abrupt, împădurit, care se înalță spre nori deasupra terenului sălbatic din Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.415386,
+                        30.352648
+                  ]
+            },
+            {
+                  "name": "Yoggo Valley",
+                  "text": "O atracție naturală reprezentând o vale împădurită în sălbăticia din Yakushima.",
+                  "category": "landmark",
+                  "coords": [
+                        130.444538,
+                        30.382269
+                  ]
+            },
+            {
+                  "name": "Mt. Nagata",
+                  "text": "Un vârf montan proeminent care se înalță deasupra pădurilor antice din Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.49241,
+                        30.342924
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubokiri",
+                  "text": "Un vârf montan impunător situat în terenul accidentat din Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.481347,
+                        30.372014
+                  ]
+            },
+            {
+                  "name": "Mt. Yoshida",
+                  "text": "Un vârf montan înalt care oferă trasee abrupte de drumeție prin peisajul insulei.",
+                  "category": "natural",
+                  "coords": [
+                        130.477281,
+                        30.399363
+                  ]
+            },
+            {
+                  "name": "Wilson's Stump",
+                  "text": "Rămășițele masive și scobite ale unui cedru uriaș Yakusugi.",
+                  "category": "landmark",
+                  "coords": [
+                        130.541417,
+                        30.355417
+                  ]
+            },
+            {
+                  "name": "Daio Sugi",
+                  "text": "Unul dintre cei mai vechi și mai mari cedri antici Yakusugi de-a lungul traseelor montane.",
+                  "category": "landmark",
+                  "coords": [
+                        130.536353,
+                        30.359622
+                  ]
+            },
+            {
+                  "name": "Jomon Sugi (Cedar Tree)",
+                  "text": "Un punct de belvedere care oferă o privire asupra unui cedru uriaș antic ascuns adânc în pădure.",
+                  "category": "natural",
+                  "coords": [
+                        130.531903,
+                        30.360801
+                  ]
+            },
+            {
+                  "name": "Mount Miyanoura",
+                  "text": "Cel mai înalt vârf de pe insula Yakushima, faimos pentru vegetația sa luxuriantă și vederile panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        130.504206,
+                        30.336116
+                  ]
+            },
+            {
+                  "name": "Mt. Kurio",
+                  "text": "Un vârf montan accidentat care face parte din zonele muntoase centrale ale insulei Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.507002,
+                        30.333545
+                  ]
+            },
+            {
+                  "name": "Mt. Kuromi",
+                  "text": "Un vârf montan stâncos, caracterizat prin bolovanii săi abrupți de granit și plantele alpine.",
+                  "category": "natural",
+                  "coords": [
+                        130.508552,
+                        30.317421
+                  ]
+            },
+            {
+                  "name": "Mt. Koban",
+                  "text": "Un vârf montan distinct care se înalță în mijlocul pădurilor antice de cedru.",
+                  "category": "natural",
+                  "coords": [
+                        130.510968,
+                        30.308078
+                  ]
+            },
+            {
+                  "name": "Mt. Shichigo",
+                  "text": "Un vârf impunător înconjurat de pădurile dense și pline de mușchi ale insulei.",
+                  "category": "natural",
+                  "coords": [
+                        130.492473,
+                        30.280685
+                  ]
+            },
+            {
+                  "name": "Kawakamisugi",
+                  "text": "Un cedru antic maiestuos, care stă înalt în pădurea densă din Yakushima.",
+                  "category": "landmark",
+                  "coords": [
+                        130.5402,
+                        30.302909
+                  ]
+            },
+            {
+                  "name": "Yakusugi Land",
+                  "text": "Un parc natural protejat care oferă trasee accesibile printr-o pădure de cedri antici.",
+                  "category": "landmark",
+                  "coords": [
+                        130.575436,
+                        30.304773
+                  ]
+            },
+            {
+                  "name": "Buddha cedar",
+                  "text": "Un cedru antic renumit pentru trunchiul său noduros, cu o formă neobișnuită ce seamănă cu un Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        130.571961,
+                        30.303845
+                  ]
+            },
+            {
+                  "name": "Sennensugi Cedar",
+                  "text": "O atracție care prezintă siturile istorice de exploatare forestieră și metodele folosite în pădurile antice de cedru.",
+                  "category": "landmark",
+                  "coords": [
+                        130.574966,
+                        30.303714
+                  ]
+            },
+            {
+                  "name": "Azalea River",
+                  "text": "Un punct de belvedere pitoresc cu vedere la un pârâu de pădure mărginit de plante vibrante înflorite.",
+                  "category": "natural",
+                  "coords": [
+                        130.570687,
+                        30.304477
+                  ]
+            },
+            {
+                  "name": "Kusugawa Trail",
+                  "text": "Un traseu istoric de drumeție, acoperit de mușchi, folosit odată pentru transportul buștenilor de cedru tăiați.",
+                  "category": "landmark",
+                  "coords": [
+                        130.587338,
+                        30.396185
+                  ]
+            },
+            {
+                  "name": "Mount Aiko",
+                  "text": "Un vârf montan impunător, cunoscut pentru traseele sale abrupte și sălbăticia densă înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        130.600212,
+                        30.366025
+                  ]
+            },
+            {
+                  "name": "Kugurisugi cedar",
+                  "text": "Un cedru uriaș unic, cu un trunchi scobit care formează un tunel natural pe traseul de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570897,
+                        30.370129
+                  ]
+            },
+            {
+                  "name": "nature observatory footpath",
+                  "text": "O pasarelă pitorească din lemn, concepută pentru a vizualiza în siguranță ecosistemul pădurii seculare.",
+                  "category": "landmark",
+                  "coords": [
+                        130.565524,
+                        30.353131
+                  ]
+            },
+            {
+                  "name": "Third Generation Cedar",
+                  "text": "O formațiune fascinantă de copaci în care trei generații de cedri au crescut secvențial dintr-o singură buturugă.",
+                  "category": "landmark",
+                  "coords": [
+                        130.559927,
+                        30.354146
+                  ]
+            },
+            {
+                  "name": "Nidaiosugi Cedar",
+                  "text": "Un cedru impresionant de a doua generație, care crește direct din rămășițele unei buturugi antice.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570886,
+                        30.376677
+                  ]
+            },
+            {
+                  "name": "Nagata Inakahama Beach",
+                  "text": "O întindere de coastă cu nisip, binecunoscută ca un loc crucial de cuibărit pentru țestoasele marine.",
+                  "category": "recreational",
+                  "coords": [
+                        130.433608,
+                        30.407398
+                  ]
+            },
+            {
+                  "name": "Yakushima National Park",
+                  "text": "O rezervație naturală protejată, înființată în 2012, care include un sit de patrimoniu recunoscut la nivel global cu păduri antice.",
+                  "category": "natural",
+                  "coords": [
+                        130.440372,
+                        30.35594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Taiko",
+                  "text": "A rugged mountain peak surrounded by the dense, ancient cedar forests of Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.443538,
+                        30.304262
+                  ]
+            },
+            {
+                  "name": "Mt. Kuniwari",
+                  "text": "A steep, forested volcanic peak soaring into the clouds above the wild terrain of Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.415386,
+                        30.352648
+                  ]
+            },
+            {
+                  "name": "Yoggo Valley",
+                  "text": "A forested nature valley attraction in the Yakushima wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        130.444538,
+                        30.382269
+                  ]
+            },
+            {
+                  "name": "Mt. Nagata",
+                  "text": "A prominent mountain peak rising above the ancient forests of Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.49241,
+                        30.342924
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubokiri",
+                  "text": "A towering mountain peak situated in the rugged terrain of Yakushima.",
+                  "category": "natural",
+                  "coords": [
+                        130.481347,
+                        30.372014
+                  ]
+            },
+            {
+                  "name": "Mt. Yoshida",
+                  "text": "A high mountain peak offering steep hiking trails through the island landscape.",
+                  "category": "natural",
+                  "coords": [
+                        130.477281,
+                        30.399363
+                  ]
+            },
+            {
+                  "name": "Wilson's Stump",
+                  "text": "The massive, hollowed-out remains of a giant Yakusugi cedar tree.",
+                  "category": "landmark",
+                  "coords": [
+                        130.541417,
+                        30.355417
+                  ]
+            },
+            {
+                  "name": "Daio Sugi",
+                  "text": "One of the oldest and largest ancient Yakusugi cedar trees along the mountain trails.",
+                  "category": "landmark",
+                  "coords": [
+                        130.536353,
+                        30.359622
+                  ]
+            },
+            {
+                  "name": "Jomon Sugi (Cedar Tree)",
+                  "text": "A viewpoint offering a glimpse of an ancient giant cedar hidden deep in the forest.",
+                  "category": "natural",
+                  "coords": [
+                        130.531903,
+                        30.360801
+                  ]
+            },
+            {
+                  "name": "Mount Miyanoura",
+                  "text": "The highest peak on Yakushima Island, famous for its lush vegetation and panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        130.504206,
+                        30.336116
+                  ]
+            },
+            {
+                  "name": "Mt. Kurio",
+                  "text": "A rugged mountain peak forming part of Yakushima's central highlands.",
+                  "category": "natural",
+                  "coords": [
+                        130.507002,
+                        30.333545
+                  ]
+            },
+            {
+                  "name": "Mt. Kuromi",
+                  "text": "A rocky mountain peak characterized by its steep granite boulders and alpine plants.",
+                  "category": "natural",
+                  "coords": [
+                        130.508552,
+                        30.317421
+                  ]
+            },
+            {
+                  "name": "Mt. Koban",
+                  "text": "A distinct mountain peak rising amidst the ancient cedar forests.",
+                  "category": "natural",
+                  "coords": [
+                        130.510968,
+                        30.308078
+                  ]
+            },
+            {
+                  "name": "Mt. Shichigo",
+                  "text": "A towering peak surrounded by the dense, mossy woodlands of the island.",
+                  "category": "natural",
+                  "coords": [
+                        130.492473,
+                        30.280685
+                  ]
+            },
+            {
+                  "name": "Kawakamisugi",
+                  "text": "A majestic ancient cedar tree standing tall in the dense Yakushima forest.",
+                  "category": "landmark",
+                  "coords": [
+                        130.5402,
+                        30.302909
+                  ]
+            },
+            {
+                  "name": "Yakusugi Land",
+                  "text": "A protected nature park featuring accessible trails through a forest of ancient cedar trees.",
+                  "category": "landmark",
+                  "coords": [
+                        130.575436,
+                        30.304773
+                  ]
+            },
+            {
+                  "name": "Buddhasugi",
+                  "text": "An ancient cedar tree renowned for its unusually shaped, knobby trunk resembling a Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        130.571961,
+                        30.303845
+                  ]
+            },
+            {
+                  "name": "Yakusugi cedar harvesting",
+                  "text": "An attraction showcasing the historical logging sites and methods used in the ancient cedar forests.",
+                  "category": "landmark",
+                  "coords": [
+                        130.574966,
+                        30.303714
+                  ]
+            },
+            {
+                  "name": "Azalea River",
+                  "text": "A scenic viewpoint overlooking a forest stream lined with vibrant blooming plants.",
+                  "category": "natural",
+                  "coords": [
+                        130.570687,
+                        30.304477
+                  ]
+            },
+            {
+                  "name": "Kusugawa Trail",
+                  "text": "A historic, moss-covered hiking path once used for transporting cut cedar logs.",
+                  "category": "landmark",
+                  "coords": [
+                        130.587338,
+                        30.396185
+                  ]
+            },
+            {
+                  "name": "Mount Aiko",
+                  "text": "A towering mountain peak known for its steep trails and dense surrounding wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        130.600212,
+                        30.366025
+                  ]
+            },
+            {
+                  "name": "Kugurisugi cedar",
+                  "text": "A unique giant cedar tree with a hollowed trunk forming a natural tunnel on the hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570897,
+                        30.370129
+                  ]
+            },
+            {
+                  "name": "nature observatory footpath",
+                  "text": "A scenic wooden walkway designed for safely viewing the old-growth forest ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        130.565524,
+                        30.353131
+                  ]
+            },
+            {
+                  "name": "Third Generation Cedar",
+                  "text": "A fascinating tree formation where three generations of cedars have grown sequentially from a single stump.",
+                  "category": "landmark",
+                  "coords": [
+                        130.559927,
+                        30.354146
+                  ]
+            },
+            {
+                  "name": "Nidaiosugi Cedar",
+                  "text": "An impressive second-generation cedar tree growing directly out of the remains of an ancient stump.",
+                  "category": "landmark",
+                  "coords": [
+                        130.570886,
+                        30.376677
+                  ]
+            },
+            {
+                  "name": "Nagata Inakahama Beach",
+                  "text": "A sandy coastal stretch well-known as a crucial nesting ground for sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        130.433608,
+                        30.407398
+                  ]
+            },
+            {
+                  "name": "Yakushima National Park",
+                  "text": "A protected nature reserve established in 2012, featuring a globally recognized heritage site of ancient forests.",
+                  "category": "natural",
+                  "coords": [
+                        130.440372,
+                        30.35594
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "JP-46",
     coords: [130.5, 30.35],
@@ -286,7 +2968,232 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Une forêt subtropicale sur l'île de Yakushima, connue pour ses cèdres anciens appelés Yakusugi.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-yakushima-wald-nature-v2.webp"},
   {
-    id: "jp-towada-see-nature-v2",
+    id: "jp-towada-see-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gentōgura",
+                  "text": "Ein Berggipfel in der Towada-Region, der weite Ausblicke über die umliegende Wildnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        140.839474,
+                        40.426845
+                  ]
+            },
+            {
+                  "name": "Mt. Akaiwa",
+                  "text": "Ein Gipfel im Towada-Hachimantai-Nationalpark, der für seine herbstliche Laubfärbung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        140.899991,
+                        40.415048
+                  ]
+            },
+            {
+                  "name": "Mt. Ogura",
+                  "text": "Ein Berg in der Nähe des Towada-Sees, der Panoramablicke auf den Kratersee ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        140.909883,
+                        40.459528
+                  ]
+            },
+            {
+                  "name": "Mt. Ohanabe",
+                  "text": "Ein hoher Gipfel im Towada-Hachimantai-Nationalpark mit weitem Blick auf die Landschaft von Aomori.",
+                  "category": "natural",
+                  "coords": [
+                        140.880061,
+                        40.510316
+                  ]
+            },
+            {
+                  "name": "Towada Shrine",
+                  "text": "Ein antiker Shinto-Schrein, der in den dichten Wäldern am Ufer des Towada-Sees verborgen liegt.",
+                  "category": "religious",
+                  "coords": [
+                        140.892145,
+                        40.433161
+                  ]
+            },
+            {
+                  "name": "Gozengahama",
+                  "text": "Ein ruhiger Sandstrand am Ufer des Towada-Sees, ideal für entspannte Spaziergänge am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        140.890191,
+                        40.432022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gentōgura",
+                  "text": "Hegycsúcs a Towada-régióban, amely tágas kilátást nyújt a környező vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        140.839474,
+                        40.426845
+                  ]
+            },
+            {
+                  "name": "Mt. Akaiwa",
+                  "text": "Hegycsúcs a Towada-Hachimantai Nemzeti Parkban, amely őszi lombhullató színeiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        140.899991,
+                        40.415048
+                  ]
+            },
+            {
+                  "name": "Mt. Ogura",
+                  "text": "A Towada-tó közelében fekvő hegy, ahonnan panorámás kilátás nyílik a krátertóra.",
+                  "category": "natural",
+                  "coords": [
+                        140.909883,
+                        40.459528
+                  ]
+            },
+            {
+                  "name": "Mt. Ohanabe",
+                  "text": "Magas hegycsúcs a Towada-Hachimantai Nemzeti Parkban, kilátással Aomori tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        140.880061,
+                        40.510316
+                  ]
+            },
+            {
+                  "name": "Towada Shrine",
+                  "text": "Ősi sintoista szentély, amely a Towada-tó partján, sűrű erdőkben rejlik.",
+                  "category": "religious",
+                  "coords": [
+                        140.892145,
+                        40.433161
+                  ]
+            },
+            {
+                  "name": "Gozengahama",
+                  "text": "Nyugodt homokos strand a Towada-tó partján, amely ideális vízparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        140.890191,
+                        40.432022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gentōgura",
+                  "text": "Un vârf montan în regiunea Towada, oferind vederi largi asupra sălbăticiei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        140.839474,
+                        40.426845
+                  ]
+            },
+            {
+                  "name": "Mt. Akaiwa",
+                  "text": "Un vârf în Parcul Național Towada-Hachimantai, cunoscut pentru culorile sale spectaculoase de toamnă.",
+                  "category": "natural",
+                  "coords": [
+                        140.899991,
+                        40.415048
+                  ]
+            },
+            {
+                  "name": "Mt. Ogura",
+                  "text": "Un munte lângă Lacul Towada, oferind vederi panoramice asupra lacului vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        140.909883,
+                        40.459528
+                  ]
+            },
+            {
+                  "name": "Mt. Ohanabe",
+                  "text": "Un vârf înalt în Parcul Național Towada-Hachimantai, cu vederi largi asupra peisajului din Aomori.",
+                  "category": "natural",
+                  "coords": [
+                        140.880061,
+                        40.510316
+                  ]
+            },
+            {
+                  "name": "Towada Shrine",
+                  "text": "Un altar șintoist antic ascuns în pădurile dese de pe malul Lacului Towada.",
+                  "category": "religious",
+                  "coords": [
+                        140.892145,
+                        40.433161
+                  ]
+            },
+            {
+                  "name": "Gozengahama",
+                  "text": "O plajă liniștită pe malul Lacului Towada, ideală pentru plimbări relaxante pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        140.890191,
+                        40.432022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gentōgura",
+                  "text": "A mountain peak in the Towada region offering expansive views over the surrounding wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        140.839474,
+                        40.426845
+                  ]
+            },
+            {
+                  "name": "Mt. Akaiwa",
+                  "text": "A peak in the Towada-Hachimantai National Park noted for its autumn foliage.",
+                  "category": "natural",
+                  "coords": [
+                        140.899991,
+                        40.415048
+                  ]
+            },
+            {
+                  "name": "Mt. Ogura",
+                  "text": "A mountain near Lake Towada providing panoramic views of the crater lake.",
+                  "category": "natural",
+                  "coords": [
+                        140.909883,
+                        40.459528
+                  ]
+            },
+            {
+                  "name": "Mt. Ohanabe",
+                  "text": "A high peak in Towada-Hachimantai National Park with broad views of the Aomori landscape.",
+                  "category": "natural",
+                  "coords": [
+                        140.880061,
+                        40.510316
+                  ]
+            },
+            {
+                  "name": "Towada Shrine",
+                  "text": "An ancient Shinto shrine hidden within the dense forests on the shores of Lake Towada.",
+                  "category": "religious",
+                  "coords": [
+                        140.892145,
+                        40.433161
+                  ]
+            },
+            {
+                  "name": "Gozengahama",
+                  "text": "A peaceful beach on the shores of Lake Towada, ideal for relaxing walks by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        140.890191,
+                        40.432022
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "JP-02",
     coords: [140.88, 40.47],
@@ -333,7 +3240,664 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Le plus grand lac de cratère de l'île de Honshū, situé à la frontière entre les préfectures d'Aomori et d'Akita.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-towada-see-nature-v2.webp"},
   {
-    id: "jp-chubu-sangaku-nationalpark-nature-v2",
+    id: "jp-chubu-sangaku-nationalpark-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Higashitenjo",
+                  "text": "Ein Gipfel auf der Omote-Ginza-Wanderroute, der für seine einzigartigen Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        137.715558,
+                        36.353414
+                  ]
+            },
+            {
+                  "name": "Mount Ohtensho",
+                  "text": "Mit 2.922 Metern ist dies der höchste Punkt des Omote-Ginza-Grats.",
+                  "category": "natural",
+                  "coords": [
+                        137.701123,
+                        36.364993
+                  ]
+            },
+            {
+                  "name": "Nakabusa Onsen",
+                  "text": "Ein historischer Thermalort in den Bergen, der als Hauptausgangspunkt für den Berg Tsubakuro dient.",
+                  "category": "landmark",
+                  "coords": [
+                        137.745482,
+                        36.394137
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubakuro",
+                  "text": "Berühmt für seinen weißen Granitsand und die ikonische Felsformation „Delfinfelsen“.",
+                  "category": "natural",
+                  "coords": [
+                        137.712772,
+                        36.406859
+                  ]
+            },
+            {
+                  "name": "Mt. Io",
+                  "text": "Der „Schwefelberg“ ist für seine vulkanische Landschaft und die Nähe zum Berg Mitsumatarenge bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        137.650613,
+                        36.380637
+                  ]
+            },
+            {
+                  "name": "Mt. Akadake",
+                  "text": "Ein Gipfel, der nach seinem charakteristischen roten Boden und Gestein benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        137.632853,
+                        36.369758
+                  ]
+            },
+            {
+                  "name": "Mt. Warimo",
+                  "text": "Ein schroffer Gipfel an der Kreuzung mehrerer bedeutender alpiner Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        137.60383,
+                        36.408293
+                  ]
+            },
+            {
+                  "name": "Mt. Washiba",
+                  "text": "Einer der 100 berühmten Berge Japans, bekannt für seine Adlerflügelform und den alpinen See.",
+                  "category": "natural",
+                  "coords": [
+                        137.605245,
+                        36.403024
+                  ]
+            },
+            {
+                  "name": "Mt. Mitsumatarenge",
+                  "text": "Ein Gipfel an der Grenze der drei Präfekturen Toyama, Gifu und Nagano.",
+                  "category": "natural",
+                  "coords": [
+                        137.587729,
+                        36.39002
+                  ]
+            },
+            {
+                  "name": "Mt. Jiidake",
+                  "text": "Ein Gipfel an der Grenze zwischen Toyama und Nagano, der bei Bergwanderern sehr beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        137.591162,
+                        36.411182
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobegoro",
+                  "text": "Bekannt für sein gewaltiges Goro-Kar, ein spektakuläres Gletschertal.",
+                  "category": "natural",
+                  "coords": [
+                        137.539943,
+                        36.392584
+                  ]
+            },
+            {
+                  "name": "Mt. Sugoroku",
+                  "text": "Bekannt für sein weites alpines Plateau und den spiegelnden Sugoroku-Teich.",
+                  "category": "landmark",
+                  "coords": [
+                        137.587121,
+                        36.371883
+                  ]
+            },
+            {
+                  "name": "Mt. Momisawa",
+                  "text": "Ein Gipfel, der einen direkten Blick auf die scharfe Spitze des Berges Yari bietet.",
+                  "category": "natural",
+                  "coords": [
+                        137.607861,
+                        36.366572
+                  ]
+            },
+            {
+                  "name": "Mt. Akaushi",
+                  "text": "Ein entlegener Gipfel in den Nordalpen, bekannt für seine rötlich-braunen Granithänge.",
+                  "category": "natural",
+                  "coords": [
+                        137.603293,
+                        36.4616
+                  ]
+            },
+            {
+                  "name": "Takamagahara Onsen",
+                  "text": "Japans höchste und entlegenste heiße Quelle im Freien, die nur durch eine lange Wanderung erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        137.584921,
+                        36.445424
+                  ]
+            },
+            {
+                  "name": "Mt. Suisho",
+                  "text": "Wegen der Bergkristalle, die früher an seinen schwarzen Hängen gefunden wurden, auch als „Kristallberg“ bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        137.602808,
+                        36.426373
+                  ]
+            },
+            {
+                  "name": "Mt. Noguchigoro",
+                  "text": "Bemerkenswert für seine ausgedehnten Blockfelder und sein hellweißes Granit-Erscheinungsbild.",
+                  "category": "natural",
+                  "coords": [
+                        137.637895,
+                        36.432699
+                  ]
+            },
+            {
+                  "name": "Mount Mitsudake",
+                  "text": "Ein Berg mit drei Gipfeln auf dem Weg zwischen dem Berg Noguchigoro und dem Berg Suisho.",
+                  "category": "natural",
+                  "coords": [
+                        137.649437,
+                        36.454766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Higashitenjo",
+                  "text": "Az Omote-Ginza túraútvonal egyik csúcsa, amely egyedi sziklaformációiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        137.715558,
+                        36.353414
+                  ]
+            },
+            {
+                  "name": "Mount Ohtensho",
+                  "text": "Az Omote-Ginza gerinc legmagasabb pontja, 2922 méter magasan.",
+                  "category": "natural",
+                  "coords": [
+                        137.701123,
+                        36.364993
+                  ]
+            },
+            {
+                  "name": "Nakabusa Onsen",
+                  "text": "Történelmi hegyi hőforrás, amely a Cubakuro-hegy fő túraútvonalának kiindulópontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        137.745482,
+                        36.394137
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubakuro",
+                  "text": "Fehér gránithomokjáról és az ikonikus „Delfin-szikla” formációról híres.",
+                  "category": "natural",
+                  "coords": [
+                        137.712772,
+                        36.406859
+                  ]
+            },
+            {
+                  "name": "Mt. Io",
+                  "text": "A „Kén-hegy” vulkáni tájáról és a Micumaterenge-hegy közelségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        137.650613,
+                        36.380637
+                  ]
+            },
+            {
+                  "name": "Mt. Akadake",
+                  "text": "Jellegzetes vörös talajáról és kőzeteiről elnevezett csúcs az Északi-Alpokban.",
+                  "category": "natural",
+                  "coords": [
+                        137.632853,
+                        36.369758
+                  ]
+            },
+            {
+                  "name": "Mt. Warimo",
+                  "text": "Egyenetlen csúcs több fontos alpesi túraútvonal találkozásánál.",
+                  "category": "natural",
+                  "coords": [
+                        137.60383,
+                        36.408293
+                  ]
+            },
+            {
+                  "name": "Mt. Washiba",
+                  "text": "Japán 100 híres hegyének egyike, amely sasfészek alakjáról és alpesi taváról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        137.605245,
+                        36.403024
+                  ]
+            },
+            {
+                  "name": "Mt. Mitsumatarenge",
+                  "text": "Csúcs Tojama, Gifu és Nagano prefektúrák hármashatáránál.",
+                  "category": "natural",
+                  "coords": [
+                        137.587729,
+                        36.39002
+                  ]
+            },
+            {
+                  "name": "Mt. Jiidake",
+                  "text": "Tojama és Nagano határán fekvő alpesi csúcs, amely népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        137.591162,
+                        36.411182
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobegoro",
+                  "text": "Hatalmas Goro-völgyéről, egy látványos gleccservölgyről híres.",
+                  "category": "natural",
+                  "coords": [
+                        137.539943,
+                        36.392584
+                  ]
+            },
+            {
+                  "name": "Mt. Sugoroku",
+                  "text": "Széles alpesi fennsíkjáról és a tükröződő Szugoroku-tóról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        137.587121,
+                        36.371883
+                  ]
+            },
+            {
+                  "name": "Mt. Momisawa",
+                  "text": "Csúcs, amelyről közvetlen kilátás nyílik a Jari-hegy éles csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        137.607861,
+                        36.366572
+                  ]
+            },
+            {
+                  "name": "Mt. Akaushi",
+                  "text": "Távoli csúcs az Északi-Alpokban, vörösesbarna gránitlejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        137.603293,
+                        36.4616
+                  ]
+            },
+            {
+                  "name": "Takamagahara Onsen",
+                  "text": "Japán legmagasabb és legtávolabbi szabadtéri hőforrása, amely csak hosszú túrával érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        137.584921,
+                        36.445424
+                  ]
+            },
+            {
+                  "name": "Mt. Suisho",
+                  "text": "„Kristály-hegyként” is ismert a fekete lejtőin egykor talált hegyikristályok miatt.",
+                  "category": "natural",
+                  "coords": [
+                        137.602808,
+                        36.426373
+                  ]
+            },
+            {
+                  "name": "Mt. Noguchigoro",
+                  "text": "Kiterjedt sziklatörmelékeiről és ragyogó fehér gránit megjelenéséről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        137.637895,
+                        36.432699
+                  ]
+            },
+            {
+                  "name": "Mount Mitsudake",
+                  "text": "Háromcsúcsú hegy a Nogucsigoro-hegy és a Szuiso-hegy közötti ösvényen.",
+                  "category": "natural",
+                  "coords": [
+                        137.649437,
+                        36.454766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Higashitenjo",
+                  "text": "Un vârf de pe traseul de drumeție Omote-Ginza, cunoscut pentru formațiunile sale stâncoase unice.",
+                  "category": "natural",
+                  "coords": [
+                        137.715558,
+                        36.353414
+                  ]
+            },
+            {
+                  "name": "Mount Ohtensho",
+                  "text": "Cel mai înalt punct al crestei Omote-Ginza, situat la 2.922 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        137.701123,
+                        36.364993
+                  ]
+            },
+            {
+                  "name": "Nakabusa Onsen",
+                  "text": "O stațiune termală montană istorică, servind drept punct de plecare principal pentru muntele Tsubakuro.",
+                  "category": "landmark",
+                  "coords": [
+                        137.745482,
+                        36.394137
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubakuro",
+                  "text": "Renumit pentru nisipul său alb de granit și formațiunea iconică „Stânca Delfinului”.",
+                  "category": "natural",
+                  "coords": [
+                        137.712772,
+                        36.406859
+                  ]
+            },
+            {
+                  "name": "Mt. Io",
+                  "text": "„Muntele de sulf” este cunoscut pentru peisajul său vulcanic și proximitatea de muntele Mitsumatarenge.",
+                  "category": "natural",
+                  "coords": [
+                        137.650613,
+                        36.380637
+                  ]
+            },
+            {
+                  "name": "Mt. Akadake",
+                  "text": "Un vârf numit după solul și rocile sale roșii distinctive, tipice pentru Alpii Nordici.",
+                  "category": "natural",
+                  "coords": [
+                        137.632853,
+                        36.369758
+                  ]
+            },
+            {
+                  "name": "Mt. Warimo",
+                  "text": "Un vârf accidentat situat la intersecția mai multor trasee majore de drumeție alpină.",
+                  "category": "natural",
+                  "coords": [
+                        137.60383,
+                        36.408293
+                  ]
+            },
+            {
+                  "name": "Mt. Washiba",
+                  "text": "Unul dintre cei 100 de munți celebri ai Japoniei, cunoscut pentru forma sa de aripă de vultur și lacul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        137.605245,
+                        36.403024
+                  ]
+            },
+            {
+                  "name": "Mt. Mitsumatarenge",
+                  "text": "Un vârf care marchează granița triplă a prefecturilor Toyama, Gifu și Nagano.",
+                  "category": "natural",
+                  "coords": [
+                        137.587729,
+                        36.39002
+                  ]
+            },
+            {
+                  "name": "Mt. Jiidake",
+                  "text": "Un vârf alpin situat la granița dintre Toyama și Nagano, popular printre excursioniști.",
+                  "category": "natural",
+                  "coords": [
+                        137.591162,
+                        36.411182
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobegoro",
+                  "text": "Celebru pentru masivul său Circ Goro, o vale glaciară spectaculoasă.",
+                  "category": "natural",
+                  "coords": [
+                        137.539943,
+                        36.392584
+                  ]
+            },
+            {
+                  "name": "Mt. Sugoroku",
+                  "text": "Cunoscut pentru platoul său alpin larg și iazul reflectorizant Sugoroku-ike.",
+                  "category": "landmark",
+                  "coords": [
+                        137.587121,
+                        36.371883
+                  ]
+            },
+            {
+                  "name": "Mt. Momisawa",
+                  "text": "Un vârf care oferă o vedere directă asupra culmii ascuțite a muntelui Yari.",
+                  "category": "natural",
+                  "coords": [
+                        137.607861,
+                        36.366572
+                  ]
+            },
+            {
+                  "name": "Mt. Akaushi",
+                  "text": "Un vârf izolat din Alpii Nordici, cunoscut pentru versanții săi de granit brun-roșcat.",
+                  "category": "natural",
+                  "coords": [
+                        137.603293,
+                        36.4616
+                  ]
+            },
+            {
+                  "name": "Takamagahara Onsen",
+                  "text": "Cea mai înaltă și izolată izvoare termală în aer liber din Japonia, accesibilă doar printr-o drumeție lungă.",
+                  "category": "landmark",
+                  "coords": [
+                        137.584921,
+                        36.445424
+                  ]
+            },
+            {
+                  "name": "Mt. Suisho",
+                  "text": "Cunoscut și sub numele de „Muntele de Cristal” pentru cristalele de stâncă găsite odinioară pe versanții săi negri.",
+                  "category": "natural",
+                  "coords": [
+                        137.602808,
+                        36.426373
+                  ]
+            },
+            {
+                  "name": "Mt. Noguchigoro",
+                  "text": "Remarcabil pentru câmpurile sale extinse de bolovani și aspectul de granit alb strălucitor.",
+                  "category": "natural",
+                  "coords": [
+                        137.637895,
+                        36.432699
+                  ]
+            },
+            {
+                  "name": "Mount Mitsudake",
+                  "text": "Un munte cu trei vârfuri situat pe traseul dintre muntele Noguchigoro și muntele Suisho.",
+                  "category": "natural",
+                  "coords": [
+                        137.649437,
+                        36.454766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Higashitenjo",
+                  "text": "A peak on the Omote-Ginza hiking route known for its unique rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        137.715558,
+                        36.353414
+                  ]
+            },
+            {
+                  "name": "Mount Ohtensho",
+                  "text": "The highest point of the Omote-Ginza ridge, standing at 2,922 meters.",
+                  "category": "natural",
+                  "coords": [
+                        137.701123,
+                        36.364993
+                  ]
+            },
+            {
+                  "name": "Nakabusa Onsen",
+                  "text": "A historic mountain hot spring resort serving as the main trailhead for Mount Tsubakuro.",
+                  "category": "landmark",
+                  "coords": [
+                        137.745482,
+                        36.394137
+                  ]
+            },
+            {
+                  "name": "Mt. Tsubakuro",
+                  "text": "Famed for its white granite sand and the iconic \"Dolphin Rock\" formation.",
+                  "category": "natural",
+                  "coords": [
+                        137.712772,
+                        36.406859
+                  ]
+            },
+            {
+                  "name": "Mt. Io",
+                  "text": "The \"Sulfur Mountain\" is known for its volcanic landscape and proximity to Mount Mitsumatarenge.",
+                  "category": "natural",
+                  "coords": [
+                        137.650613,
+                        36.380637
+                  ]
+            },
+            {
+                  "name": "Mt. Akadake",
+                  "text": "A peak named for its distinctive red soil and rocks typical of the Northern Alps.",
+                  "category": "natural",
+                  "coords": [
+                        137.632853,
+                        36.369758
+                  ]
+            },
+            {
+                  "name": "Mt. Warimo",
+                  "text": "A rugged peak situated at the junction of several major alpine hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        137.60383,
+                        36.408293
+                  ]
+            },
+            {
+                  "name": "Mt. Washiba",
+                  "text": "One of Japan's 100 Famous Mountains, known for its eagle-wing shape and alpine lake.",
+                  "category": "natural",
+                  "coords": [
+                        137.605245,
+                        36.403024
+                  ]
+            },
+            {
+                  "name": "Mt. Mitsumatarenge",
+                  "text": "A peak marking the tri-border of Toyama, Gifu, and Nagano prefectures.",
+                  "category": "natural",
+                  "coords": [
+                        137.587729,
+                        36.39002
+                  ]
+            },
+            {
+                  "name": "Mt. Jiidake",
+                  "text": "An alpine peak located on the border between Toyama and Nagano, popular with hikers.",
+                  "category": "natural",
+                  "coords": [
+                        137.591162,
+                        36.411182
+                  ]
+            },
+            {
+                  "name": "Mt. Kurobegoro",
+                  "text": "Famous for its massive Goro Cirque, a spectacular glacial valley.",
+                  "category": "natural",
+                  "coords": [
+                        137.539943,
+                        36.392584
+                  ]
+            },
+            {
+                  "name": "Mt. Sugoroku",
+                  "text": "Known for its wide alpine plateau and the reflective Sugoroku-ike pond.",
+                  "category": "landmark",
+                  "coords": [
+                        137.587121,
+                        36.371883
+                  ]
+            },
+            {
+                  "name": "Mt. Momisawa",
+                  "text": "A peak offering a direct view of the sharp summit of Mount Yari.",
+                  "category": "natural",
+                  "coords": [
+                        137.607861,
+                        36.366572
+                  ]
+            },
+            {
+                  "name": "Mt. Akaushi",
+                  "text": "A remote peak in the Northern Alps known for its reddish-brown granite slopes.",
+                  "category": "natural",
+                  "coords": [
+                        137.603293,
+                        36.4616
+                  ]
+            },
+            {
+                  "name": "Takamagahara Onsen",
+                  "text": "Japan's highest and most remote open-air hot spring, accessible only by a long hike.",
+                  "category": "landmark",
+                  "coords": [
+                        137.584921,
+                        36.445424
+                  ]
+            },
+            {
+                  "name": "Mt. Suisho",
+                  "text": "Also known as \"Crystal Mountain\" for the rock crystals once found on its black slopes.",
+                  "category": "natural",
+                  "coords": [
+                        137.602808,
+                        36.426373
+                  ]
+            },
+            {
+                  "name": "Mt. Noguchigoro",
+                  "text": "Notable for its extensive boulder fields and bright white granite appearance.",
+                  "category": "natural",
+                  "coords": [
+                        137.637895,
+                        36.432699
+                  ]
+            },
+            {
+                  "name": "Mount Mitsudake",
+                  "text": "A triple-peaked mountain on the trail between Mount Noguchigoro and Mount Suisho.",
+                  "category": "natural",
+                  "coords": [
+                        137.649437,
+                        36.454766
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-20",
     coords: [137.65, 36.38],
@@ -380,7 +3944,1312 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Comprend les monts Hida ou Alpes du Nord et est réputé pour ses sommets et vallées spectaculaires.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-chubu-sangaku-nationalpark-nature-v2.webp"},
   {
-    id: "jp-berg-asahi-nature-v2",
+    id: "jp-berg-asahi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Keigetsu",
+                  "text": "Ein schroffer Gipfel im Daisetsuzan-Gebirge, bekannt für sein anspruchsvolles Gelände und seine alpine Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        142.910564,
+                        43.698022
+                  ]
+            },
+            {
+                  "name": "Mt. Ryoun",
+                  "text": "Ein hoher Berggipfel in Hokkaido mit weitem Blick über den zentralen Daisetsuzan-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        142.897035,
+                        43.698263
+                  ]
+            },
+            {
+                  "name": "Mt. Hokkai",
+                  "text": "Ein alpiner Gipfel im Herzen der vulkanischen Daisetsuzan-Gebirgsgruppe in Zentrale-Hokkaido.",
+                  "category": "natural",
+                  "coords": [
+                        142.895769,
+                        43.676493
+                  ]
+            },
+            {
+                  "name": "Mount Daisetsu",
+                  "text": "Teil von Japans größtem Nationalpark, berühmt für gewaltige Vulkangipfel und weitläufige alpine Blumenfelder.",
+                  "category": "landmark",
+                  "coords": [
+                        142.893419,
+                        43.682039
+                  ]
+            },
+            {
+                  "name": "Mt. Matsuda",
+                  "text": "Ein abgelegener Gipfel innerhalb der Daisetsuzan-Vulkangruppe, beliebt bei erfahrenen Bergwanderern.",
+                  "category": "natural",
+                  "coords": [
+                        142.890455,
+                        43.672816
+                  ]
+            },
+            {
+                  "name": "Mt. Nakadake",
+                  "text": "Ein markanter Berggipfel in der Nähe des geothermischen Nakadake-Onsen-Gebiets im Hochgebirge.",
+                  "category": "natural",
+                  "coords": [
+                        142.875856,
+                        43.685626
+                  ]
+            },
+            {
+                  "name": "Mt. Hokuchin",
+                  "text": "Der zweithöchste Berg Hokkaidos mit einer dramatischen Landschaft aus dunklem Vulkangestein und Schnee.",
+                  "category": "natural",
+                  "coords": [
+                        142.879886,
+                        43.692788
+                  ]
+            },
+            {
+                  "name": "Mt. Nokogiri",
+                  "text": "Ein gezackter Gipfel, dessen sägezahnartiger Grat ein markantes Merkmal der Skyline von Daisetsuzan ist.",
+                  "category": "natural",
+                  "coords": [
+                        142.876318,
+                        43.697688
+                  ]
+            },
+            {
+                  "name": "Mt. Pippu",
+                  "text": "Ein hochalpiner Gipfel mit weitem Blick auf das umliegende Ishikari-Gebirge im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        142.863143,
+                        43.698961
+                  ]
+            },
+            {
+                  "name": "Nakadake hot spring",
+                  "text": "Eine natürliche geothermische Freiluftquelle, die sich in einem abgelegenen Hochtal des Gebirges befindet.",
+                  "category": "natural",
+                  "coords": [
+                        142.860944,
+                        43.681494
+                  ]
+            },
+            {
+                  "name": "Mt. Nagayama",
+                  "text": "Ein aussichtsreicher Berggipfel im Nationalpark, der über schroffe und felsige Wanderwege erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        142.848176,
+                        43.699562
+                  ]
+            },
+            {
+                  "name": "Mt. Aibetsu",
+                  "text": "Ein steiler und felsiger Gipfel im nördlichen Teil der vulkanischen Daisetsuzan-Gebirgsgruppe.",
+                  "category": "natural",
+                  "coords": [
+                        142.857102,
+                        43.707919
+                  ]
+            },
+            {
+                  "name": "View Point 5",
+                  "text": "Ein ausgewiesener Aussichtspunkt mit weitem Blick über das Vulkanplateau und die umliegenden Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        142.833005,
+                        43.660493
+                  ]
+            },
+            {
+                  "name": "Hagoromo Falls",
+                  "text": "Einer der höchsten Wasserfälle Japans, der in mehreren Stufen durch die Tenninkyo-Schlucht stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        142.786897,
+                        43.626328
+                  ]
+            },
+            {
+                  "name": "Mt. Mamiya",
+                  "text": "Ein alpiner Gipfel, benannt nach dem berühmten japanischen Entdecker Mamiya Rinzo aus dem 19. Jahrhundert.",
+                  "category": "natural",
+                  "coords": [
+                        142.872777,
+                        43.672012
+                  ]
+            },
+            {
+                  "name": "Mt. Hakuun",
+                  "text": "Ein Berggipfel, der sich durch seine weißen Felsvorsprünge auszeichnet und oft von Wolken umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        142.90592,
+                        43.661205
+                  ]
+            },
+            {
+                  "name": "Yanbe Onsen Observatory",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf das Yanbe-Onsen-Gebiet und vulkanische Dampföffnungen.",
+                  "category": "natural",
+                  "coords": [
+                        142.920617,
+                        43.624903
+                  ]
+            },
+            {
+                  "name": "The 2nd. Flower field",
+                  "text": "Eine hochgelegene Wiese, die für ihre farbenfrohe Pracht saisonaler alpiner Wildblumen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        142.929613,
+                        43.637466
+                  ]
+            },
+            {
+                  "name": "1st Viewing point for Mt. Midori",
+                  "text": "Ein strategischer Aussichtspunkt, der speziell für den besten Blick auf die grünen Hänge des Mount Midori dient.",
+                  "category": "natural",
+                  "coords": [
+                        142.931815,
+                        43.634167
+                  ]
+            },
+            {
+                  "name": "Viewing platform 0.5km to Trail Head, 4km to Mt. Midori",
+                  "text": "Ein praktischer Rastplatz für Wanderer, nur einen halben Kilometer vom Beginn des Wanderwegs entfernt.",
+                  "category": "natural",
+                  "coords": [
+                        142.931043,
+                        43.63156
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Eine erhöhte Plattform mit 360-Grad-Blick auf die schroffe Vulkanlandschaft des Daisetsuzan-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        142.955663,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Itagaki New path junction",
+                  "text": "Eine Wegkreuzung, die als malerischer Aussichtspunkt über die dichten Wälder und Gipfel des Nationalparks dient.",
+                  "category": "natural",
+                  "coords": [
+                        142.921939,
+                        43.654876
+                  ]
+            },
+            {
+                  "name": "Mount Midori",
+                  "text": "Ein Berggipfel, der in den Sommermonaten für das satte Grün seiner üppigen Vegetation bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        142.920343,
+                        43.649874
+                  ]
+            },
+            {
+                  "name": "Mt. Koizumi",
+                  "text": "Ein markanter Gipfel in der zentralen Vulkangruppe mit weitem Blick über das Landesinnere von Hokkaido.",
+                  "category": "natural",
+                  "coords": [
+                        142.921268,
+                        43.666723
+                  ]
+            },
+            {
+                  "name": "Mt. Goshiki",
+                  "text": "Wegen seiner vielfältigen vulkanischen Mineralien und auffälligen Felsformationen „Fünffarbenberg“ genannt.",
+                  "category": "natural",
+                  "coords": [
+                        142.912785,
+                        43.671279
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi",
+                  "text": "Ein markanter Berggipfel, dessen Form an einen traditionellen japanischen Hut ohne Krempe erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        142.921754,
+                        43.680443
+                  ]
+            },
+            {
+                  "name": "Mt. Aka",
+                  "text": "Wegen seines oxidierten vulkanischen Bodens und des leuchtenden Herbstlaubes als „Roter Berg“ bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        142.924793,
+                        43.672878
+                  ]
+            },
+            {
+                  "name": "Kurodake",
+                  "text": "Ein beliebter Gipfel, der per Seilbahn erreichbar ist und spektakuläre Blicke auf die Sounkyo-Schlucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        142.920263,
+                        43.697549
+                  ]
+            },
+            {
+                  "name": "Amaryo Waterfall Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen freien Blick auf den Amaryo-Wasserfall inmitten der Berglandschaft von Daisetsuzan.",
+                  "category": "natural",
+                  "coords": [
+                        142.929042,
+                        43.700508
+                  ]
+            },
+            {
+                  "name": "Takamatsudai Viewpoint",
+                  "text": "Ein erhöhter Beobachtungspunkt, der weite Ausblicke über die vulkanischen Hänge und Täler des Asahi-Gebirges ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        142.93919,
+                        43.710543
+                  ]
+            },
+            {
+                  "name": "The 1st Flower Park",
+                  "text": "Dieser Hochgebirgspark ist bekannt für seine saisonalen alpinen Blumenwiesen in der Nähe des Berges Asahi.",
+                  "category": "natural",
+                  "coords": [
+                        142.952528,
+                        43.674182
+                  ]
+            },
+            {
+                  "name": "Mt. Chubetsu",
+                  "text": "Dieser 1.963 Meter hohe Gipfel im Daisetsuzan-Nationalpark bietet anspruchsvolle Wanderwege und alpine Panoramaausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        142.894522,
+                        43.59112
+                  ]
+            },
+            {
+                  "name": "Daiichi koen",
+                  "text": "Ein kleiner Naturpark am Fuße des Gebirges, der als Ausgangspunkt für Erkundungen der lokalen Flora dient.",
+                  "category": "landmark",
+                  "coords": [
+                        142.824001,
+                        43.611982
+                  ]
+            },
+            {
+                  "name": "Daini koen",
+                  "text": "Eine gepflegte Grünanlage in der Nähe der Wanderwege, die einen ruhigen Rückzugsort in der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        142.834046,
+                        43.598412
+                  ]
+            },
+            {
+                  "name": "Kinko-iwa Rock",
+                  "text": "Diese markante Felsformation ist ein markantes Merkmal am Wanderweg und ähnelt einer natürlichen Skulptur.",
+                  "category": "landmark",
+                  "coords": [
+                        142.853216,
+                        43.662312
+                  ]
+            },
+            {
+                  "name": "Seppeki Hotspring",
+                  "text": "Diese natürliche Thermalquelle sprudelt in einer zerklüfteten Felsregion und bietet Entspannung in wilder Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        142.911317,
+                        43.631607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Keigetsu",
+                  "text": "A Daiszecuzan-hegység egyik sziklás csúcsa, amely kihívást jelentő terepéről és alpesi tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        142.910564,
+                        43.698022
+                  ]
+            },
+            {
+                  "name": "Mt. Ryoun",
+                  "text": "Magas hegycsúcs Hokkaidón, ahonnan tágas kilátás nyílik a Daiszecuzan Nemzeti Park központi részére.",
+                  "category": "natural",
+                  "coords": [
+                        142.897035,
+                        43.698263
+                  ]
+            },
+            {
+                  "name": "Mt. Hokkai",
+                  "text": "Alpesi csúcs a vulkanikus Daiszecuzan-hegycsoport szívében, Hokkaido központi részén.",
+                  "category": "natural",
+                  "coords": [
+                        142.895769,
+                        43.676493
+                  ]
+            },
+            {
+                  "name": "Mount Daisetsu",
+                  "text": "Japán legnagyobb nemzeti parkjának része, amely hatalmas vulkáni csúcsairól és alpesi virágmezőiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        142.893419,
+                        43.682039
+                  ]
+            },
+            {
+                  "name": "Mt. Matsuda",
+                  "text": "Távoli csúcs a Daiszecuzan vulkáni csoportban, amely népszerű a komoly hegyi túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        142.890455,
+                        43.672816
+                  ]
+            },
+            {
+                  "name": "Mt. Nakadake",
+                  "text": "Kiemelkedő hegycsúcs a Nakadake termálforrás geotermikus területének közelében a magashegységben.",
+                  "category": "natural",
+                  "coords": [
+                        142.875856,
+                        43.685626
+                  ]
+            },
+            {
+                  "name": "Mt. Hokuchin",
+                  "text": "Hokkaido második legmagasabb hegye, amely sötét vulkáni kőzetekből és hóból álló drámai tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        142.879886,
+                        43.692788
+                  ]
+            },
+            {
+                  "name": "Mt. Nokogiri",
+                  "text": "Cakkos csúcs, amelynek fűrészfogas gerince a Daiszecuzan látképének jellegzetes vonása.",
+                  "category": "natural",
+                  "coords": [
+                        142.876318,
+                        43.697688
+                  ]
+            },
+            {
+                  "name": "Mt. Pippu",
+                  "text": "Magas alpesi csúcs, ahonnan tiszta kilátás nyílik a környező Isikari-hegységre a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        142.863143,
+                        43.698961
+                  ]
+            },
+            {
+                  "name": "Nakadake hot spring",
+                  "text": "Természetes, szabadtéri geotermikus forrás egy távoli, magasan fekvő völgyben a hegyek között.",
+                  "category": "natural",
+                  "coords": [
+                        142.860944,
+                        43.681494
+                  ]
+            },
+            {
+                  "name": "Mt. Nagayama",
+                  "text": "Látványos hegycsúcs a nemzeti parkban, amely zord és sziklás túraútvonalakon keresztül érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        142.848176,
+                        43.699562
+                  ]
+            },
+            {
+                  "name": "Mt. Aibetsu",
+                  "text": "Meredek és sziklás csúcs a vulkanikus Daiszecuzan-hegycsoport északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        142.857102,
+                        43.707919
+                  ]
+            },
+            {
+                  "name": "View Point 5",
+                  "text": "Kijelölt kilátópont, ahonnan pazar kilátás nyílik a vulkáni fennsíkra és a környező csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        142.833005,
+                        43.660493
+                  ]
+            },
+            {
+                  "name": "Hagoromo Falls",
+                  "text": "Japán egyik legmagasabb vízesése, amely több lépcsőben zúdul le a Tenninkjo-szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        142.786897,
+                        43.626328
+                  ]
+            },
+            {
+                  "name": "Mt. Mamiya",
+                  "text": "Alpesi csúcs, amelyet a híres 19. századi japán felfedezőről, Mamija Rinzóról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        142.872777,
+                        43.672012
+                  ]
+            },
+            {
+                  "name": "Mt. Hakuun",
+                  "text": "Hegycsúcs, amelyet fehér sziklakibúvások jellemeznek, és gyakran felhők veszik körül.",
+                  "category": "natural",
+                  "coords": [
+                        142.90592,
+                        43.661205
+                  ]
+            },
+            {
+                  "name": "Yanbe Onsen Observatory",
+                  "text": "Kilátó, ahonnan széles rálátás nyílik a Janbe termálvizes területre és a vulkáni gőzölgőkre.",
+                  "category": "natural",
+                  "coords": [
+                        142.920617,
+                        43.624903
+                  ]
+            },
+            {
+                  "name": "The 2nd. Flower field",
+                  "text": "Magasan fekvő rét, amely a szezonális alpesi vadvirágok színes pompájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        142.929613,
+                        43.637466
+                  ]
+            },
+            {
+                  "name": "1st Viewing point for Mt. Midori",
+                  "text": "Stratégiai kilátópont, amelyet a Midori-hegy zöldellő lejtőire nyíló legjobb kilátás érdekében alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        142.931815,
+                        43.634167
+                  ]
+            },
+            {
+                  "name": "Viewing platform 0.5km to Trail Head, 4km to Mt. Midori",
+                  "text": "Kényelmes pihenőhely túrázók számára, mindössze fél kilométerre az ösvény kezdetétől.",
+                  "category": "natural",
+                  "coords": [
+                        142.931043,
+                        43.63156
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Megemelt platform, ahonnan 360 fokos kilátás nyílik a Daiszecuzan-masszívum zord vulkáni tájára.",
+                  "category": "natural",
+                  "coords": [
+                        142.955663,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Itagaki New path junction",
+                  "text": "Egy ösvénykereszteződés, amely festői kilátóhelyként szolgál a nemzeti park sűrű erdőire és csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        142.921939,
+                        43.654876
+                  ]
+            },
+            {
+                  "name": "Mount Midori",
+                  "text": "Hegycsúcs, amely a nyári hónapokban buja növényzetének mélyzöld árnyalatairól nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        142.920343,
+                        43.649874
+                  ]
+            },
+            {
+                  "name": "Mt. Koizumi",
+                  "text": "A központi vulkáni csoport egyik kiemelkedő csúcsa, ahonnan tágas kilátás nyílik Hokkaido belsejére.",
+                  "category": "natural",
+                  "coords": [
+                        142.921268,
+                        43.666723
+                  ]
+            },
+            {
+                  "name": "Mt. Goshiki",
+                  "text": "Változatos vulkáni ásványai és feltűnő sziklaalakzatai miatt „Ötszínű hegynek” nevezik.",
+                  "category": "natural",
+                  "coords": [
+                        142.912785,
+                        43.671279
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi",
+                  "text": "Jellegzetes hegycsúcs, amelynek alakja egy hagyományos japán karima nélküli kalapra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        142.921754,
+                        43.680443
+                  ]
+            },
+            {
+                  "name": "Mt. Aka",
+                  "text": "Oxidált vulkáni talaja és ragyogó őszi lombkoronája miatt „Vörös-hegyként” ismert.",
+                  "category": "natural",
+                  "coords": [
+                        142.924793,
+                        43.672878
+                  ]
+            },
+            {
+                  "name": "Kurodake",
+                  "text": "Népszerű, kötélpályával elérhető csúcs, ahonnan látványos kilátás nyílik a Szounkjo-szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        142.920263,
+                        43.697549
+                  ]
+            },
+            {
+                  "name": "Amaryo Waterfall Viewpoint",
+                  "text": "Erről a kilátópontról nagyszerű rálátás nyílik a Daiszecuzan-hegység sűrűjében megbújó Amaryo-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        142.929042,
+                        43.700508
+                  ]
+            },
+            {
+                  "name": "Takamatsudai Viewpoint",
+                  "text": "Egy magaslati figyelőpont, ahonnan tágas kilátás nyílik az Aszahi-hegység vulkanikus lejtőire és völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        142.93919,
+                        43.710543
+                  ]
+            },
+            {
+                  "name": "The 1st Flower Park",
+                  "text": "Ez a magashegyi park a szezonálisan nyíló alpesi virágmezőiről ismert az Aszahi-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        142.952528,
+                        43.674182
+                  ]
+            },
+            {
+                  "name": "Mt. Chubetsu",
+                  "text": "A Daiszecuzan Nemzeti Park 1963 méter magas csúcsa kihívást jelentő túraútvonalakat és alpesi panorámát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        142.894522,
+                        43.59112
+                  ]
+            },
+            {
+                  "name": "Daiichi koen",
+                  "text": "A hegység lábánál fekvő kis természetvédelmi terület, amely kiindulópontként szolgál a helyi flóra felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        142.824001,
+                        43.611982
+                  ]
+            },
+            {
+                  "name": "Daini koen",
+                  "text": "A túraútvonalak közelében található gondozott zöldterület, amely csendes erdei pihenőhelyet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        142.834046,
+                        43.598412
+                  ]
+            },
+            {
+                  "name": "Kinko-iwa Rock",
+                  "text": "Ez a különleges sziklaformáció a túraútvonal egyik jellegzetes pontja, amely egy természetes szoborra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        142.853216,
+                        43.662312
+                  ]
+            },
+            {
+                  "name": "Seppeki Hotspring",
+                  "text": "Ez a természetes termálforrás egy sziklás vidéken tör fel, vadregényes környezetben kínálva felfrissülést.",
+                  "category": "natural",
+                  "coords": [
+                        142.911317,
+                        43.631607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Keigetsu",
+                  "text": "Un vârf accidentat din lanțul Daisetsuzan, cunoscut pentru terenul său provocator și peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        142.910564,
+                        43.698022
+                  ]
+            },
+            {
+                  "name": "Mt. Ryoun",
+                  "text": "Un vârf montan înalt din Hokkaido, care oferă vederi vaste asupra Parcului Național Daisetsuzan central.",
+                  "category": "natural",
+                  "coords": [
+                        142.897035,
+                        43.698263
+                  ]
+            },
+            {
+                  "name": "Mt. Hokkai",
+                  "text": "Un vârf alpin situat în inima grupului montan vulcanic Daisetsuzan din centrul insulei Hokkaido.",
+                  "category": "natural",
+                  "coords": [
+                        142.895769,
+                        43.676493
+                  ]
+            },
+            {
+                  "name": "Mount Daisetsu",
+                  "text": "Parte a celui mai mare parc național din Japonia, renumit pentru vârfurile vulcanice masive și câmpurile de flori alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        142.893419,
+                        43.682039
+                  ]
+            },
+            {
+                  "name": "Mt. Matsuda",
+                  "text": "Un vârf izolat din grupul vulcanic Daisetsuzan, popular printre excursioniștii montani experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        142.890455,
+                        43.672816
+                  ]
+            },
+            {
+                  "name": "Mt. Nakadake",
+                  "text": "Un vârf montan proeminent situat în apropierea zonei geotermale a izvoarelor termale Nakadake.",
+                  "category": "natural",
+                  "coords": [
+                        142.875856,
+                        43.685626
+                  ]
+            },
+            {
+                  "name": "Mt. Hokuchin",
+                  "text": "Al doilea cel mai înalt munte din Hokkaido, oferind un peisaj dramatic de rocă vulcanică și zăpadă.",
+                  "category": "natural",
+                  "coords": [
+                        142.879886,
+                        43.692788
+                  ]
+            },
+            {
+                  "name": "Mt. Nokogiri",
+                  "text": "Un vârf zimțat a cărui creastă în formă de fierăstrău este o caracteristică distinctivă a orizontului Daisetsuzan.",
+                  "category": "natural",
+                  "coords": [
+                        142.876318,
+                        43.697688
+                  ]
+            },
+            {
+                  "name": "Mt. Pippu",
+                  "text": "Un vârf alpin înalt care oferă vederi clare asupra lanțului muntos Ishikari din jur.",
+                  "category": "natural",
+                  "coords": [
+                        142.863143,
+                        43.698961
+                  ]
+            },
+            {
+                  "name": "Nakadake hot spring",
+                  "text": "Un izvor geotermal natural în aer liber, situat într-o vale izolată la mare altitudine în munți.",
+                  "category": "natural",
+                  "coords": [
+                        142.860944,
+                        43.681494
+                  ]
+            },
+            {
+                  "name": "Mt. Nagayama",
+                  "text": "Un vârf montan pitoresc din parcul național, accesibil prin trasee de drumeție accidentate și stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        142.848176,
+                        43.699562
+                  ]
+            },
+            {
+                  "name": "Mt. Aibetsu",
+                  "text": "Un vârf abrupt și stâncos în partea de nord a grupului montan vulcanic Daisetsuzan.",
+                  "category": "natural",
+                  "coords": [
+                        142.857102,
+                        43.707919
+                  ]
+            },
+            {
+                  "name": "View Point 5",
+                  "text": "Un punct de observație desemnat, care oferă vederi panoramice asupra platoului vulcanic și a vârfurilor.",
+                  "category": "natural",
+                  "coords": [
+                        142.833005,
+                        43.660493
+                  ]
+            },
+            {
+                  "name": "Hagoromo Falls",
+                  "text": "Una dintre cele mai înalte cascade din Japonia, căzând în mai multe trepte în defileul Tenninkyo.",
+                  "category": "landmark",
+                  "coords": [
+                        142.786897,
+                        43.626328
+                  ]
+            },
+            {
+                  "name": "Mt. Mamiya",
+                  "text": "Un vârf alpin numit după faimosul explorator japonez din secolul al XIX-lea, Mamiya Rinzo.",
+                  "category": "natural",
+                  "coords": [
+                        142.872777,
+                        43.672012
+                  ]
+            },
+            {
+                  "name": "Mt. Hakuun",
+                  "text": "Un vârf montan caracterizat prin aflorimentele sale stâncoase albe, adesea înconjurat de nori.",
+                  "category": "natural",
+                  "coords": [
+                        142.90592,
+                        43.661205
+                  ]
+            },
+            {
+                  "name": "Yanbe Onsen Observatory",
+                  "text": "Un punct de observație care oferă o vedere largă asupra zonei izvoarelor termale Yanbe și a fumarolelor.",
+                  "category": "natural",
+                  "coords": [
+                        142.920617,
+                        43.624903
+                  ]
+            },
+            {
+                  "name": "The 2nd. Flower field",
+                  "text": "O pajiște la mare altitudine, cunoscută pentru spectacolul colorat de flori sălbatice alpine sezoniere.",
+                  "category": "natural",
+                  "coords": [
+                        142.929613,
+                        43.637466
+                  ]
+            },
+            {
+                  "name": "1st Viewing point for Mt. Midori",
+                  "text": "Un punct de observație strategic, poziționat pentru cea mai bună vedere a versanților verzi ai Muntelui Midori.",
+                  "category": "natural",
+                  "coords": [
+                        142.931815,
+                        43.634167
+                  ]
+            },
+            {
+                  "name": "Viewing platform 0.5km to Trail Head, 4km to Mt. Midori",
+                  "text": "Un loc de odihnă convenabil pentru drumeți, situat la doar o jumătate de kilometru de începutul traseului.",
+                  "category": "natural",
+                  "coords": [
+                        142.931043,
+                        43.63156
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "O platformă elevată care oferă vederi de 360 de grade asupra peisajului vulcanic accidentat din Daisetsuzan.",
+                  "category": "natural",
+                  "coords": [
+                        142.955663,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Itagaki New path junction",
+                  "text": "O intersecție de trasee care servește drept punct de belvedere pitoresc asupra pădurilor și vârfurilor parcului.",
+                  "category": "natural",
+                  "coords": [
+                        142.921939,
+                        43.654876
+                  ]
+            },
+            {
+                  "name": "Mount Midori",
+                  "text": "Un vârf montan renumit pentru nuanțele de verde intens ale vegetației sale luxuriante în lunile de vară.",
+                  "category": "natural",
+                  "coords": [
+                        142.920343,
+                        43.649874
+                  ]
+            },
+            {
+                  "name": "Mt. Koizumi",
+                  "text": "Un vârf proeminent din grupul vulcanic central, oferind vederi extinse asupra interiorului insulei Hokkaido.",
+                  "category": "natural",
+                  "coords": [
+                        142.921268,
+                        43.666723
+                  ]
+            },
+            {
+                  "name": "Mt. Goshiki",
+                  "text": "Denumit „Muntele celor cinci culori” pentru mineralele sale vulcanice variate și formațiunile stâncoase frapante.",
+                  "category": "natural",
+                  "coords": [
+                        142.912785,
+                        43.671279
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi",
+                  "text": "Un vârf muntos distinctiv, a cărui formă seamănă cu o pălărie tradițională japoneză fără boruri.",
+                  "category": "natural",
+                  "coords": [
+                        142.921754,
+                        43.680443
+                  ]
+            },
+            {
+                  "name": "Mt. Aka",
+                  "text": "Cunoscut sub numele de „Muntele Roșu” pentru solul său vulcanic oxidat și frunzișul de toamnă.",
+                  "category": "natural",
+                  "coords": [
+                        142.924793,
+                        43.672878
+                  ]
+            },
+            {
+                  "name": "Kurodake",
+                  "text": "Un vârf popular accesibil cu telecabina, oferind vederi spectaculoase asupra defileului Sounkyo.",
+                  "category": "natural",
+                  "coords": [
+                        142.920263,
+                        43.697549
+                  ]
+            },
+            {
+                  "name": "Amaryo Waterfall Viewpoint",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra cascadei Amaryo, situată în peisajul montan din Daisetsuzan.",
+                  "category": "natural",
+                  "coords": [
+                        142.929042,
+                        43.700508
+                  ]
+            },
+            {
+                  "name": "Takamatsudai Viewpoint",
+                  "text": "Un punct de observație la înălțime care oferă vederi largi peste versanții vulcanici și văile munților Asahi.",
+                  "category": "natural",
+                  "coords": [
+                        142.93919,
+                        43.710543
+                  ]
+            },
+            {
+                  "name": "The 1st Flower Park",
+                  "text": "Acest parc montan înalt este cunoscut pentru pajiștile sale cu flori alpine sezoniere din apropierea muntelui Asahi.",
+                  "category": "natural",
+                  "coords": [
+                        142.952528,
+                        43.674182
+                  ]
+            },
+            {
+                  "name": "Mt. Chubetsu",
+                  "text": "Acest vârf de 1.963 de metri din Parcul Național Daisetsuzan oferă trasee de drumeție provocatoare și vederi alpine panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        142.894522,
+                        43.59112
+                  ]
+            },
+            {
+                  "name": "Daiichi koen",
+                  "text": "Un mic parc natural la poalele munților, care servește ca punct de plecare pentru explorarea florei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        142.824001,
+                        43.611982
+                  ]
+            },
+            {
+                  "name": "Daini koen",
+                  "text": "O zonă verde amenajată în apropierea traseelor de drumeție, care oferă un refugiu liniștit în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        142.834046,
+                        43.598412
+                  ]
+            },
+            {
+                  "name": "Kinko-iwa Rock",
+                  "text": "Această formațiune stâncoasă proeminentă este o trăsătură distinctivă de pe traseul de drumeție, asemănătoare unei sculpturi naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        142.853216,
+                        43.662312
+                  ]
+            },
+            {
+                  "name": "Seppeki Hotspring",
+                  "text": "Acest izvor termal natural țâșnește într-o regiune stâncoasă, oferind relaxare într-un cadru sălbatic.",
+                  "category": "natural",
+                  "coords": [
+                        142.911317,
+                        43.631607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Keigetsu",
+                  "text": "A rugged peak in the Daisetsuzan range, known for its challenging terrain and alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        142.910564,
+                        43.698022
+                  ]
+            },
+            {
+                  "name": "Mt. Ryoun",
+                  "text": "A high mountain peak in Hokkaido offering vast views over the central Daisetsuzan National Park.",
+                  "category": "natural",
+                  "coords": [
+                        142.897035,
+                        43.698263
+                  ]
+            },
+            {
+                  "name": "Mt. Hokkai",
+                  "text": "An alpine summit located in the heart of the volcanic Daisetsuzan mountain group in central Hokkaido.",
+                  "category": "natural",
+                  "coords": [
+                        142.895769,
+                        43.676493
+                  ]
+            },
+            {
+                  "name": "Mount Daisetsu",
+                  "text": "Part of Japan's largest national park, famous for its massive volcanic peaks and extensive alpine flower fields.",
+                  "category": "landmark",
+                  "coords": [
+                        142.893419,
+                        43.682039
+                  ]
+            },
+            {
+                  "name": "Mt. Matsuda",
+                  "text": "A remote peak within the Daisetsuzan Volcanic Group, popular among serious mountain trekkers.",
+                  "category": "natural",
+                  "coords": [
+                        142.890455,
+                        43.672816
+                  ]
+            },
+            {
+                  "name": "Mt. Nakadake",
+                  "text": "A prominent mountain peak situated near the geothermal Nakadake hot spring area in the high mountains.",
+                  "category": "natural",
+                  "coords": [
+                        142.875856,
+                        43.685626
+                  ]
+            },
+            {
+                  "name": "Mt. Hokuchin",
+                  "text": "The second-highest mountain in Hokkaido, offering a dramatic landscape of volcanic rock and snow.",
+                  "category": "natural",
+                  "coords": [
+                        142.879886,
+                        43.692788
+                  ]
+            },
+            {
+                  "name": "Mt. Nokogiri",
+                  "text": "A jagged summit whose saw-toothed ridge is a distinctive feature of the Daisetsuzan skyline.",
+                  "category": "natural",
+                  "coords": [
+                        142.876318,
+                        43.697688
+                  ]
+            },
+            {
+                  "name": "Mt. Pippu",
+                  "text": "A high alpine peak providing clear views of the surrounding Ishikari mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        142.863143,
+                        43.698961
+                  ]
+            },
+            {
+                  "name": "Nakadake hot spring",
+                  "text": "A natural, open-air geothermal spring located in a remote high-altitude valley of the range.",
+                  "category": "natural",
+                  "coords": [
+                        142.860944,
+                        43.681494
+                  ]
+            },
+            {
+                  "name": "Mt. Nagayama",
+                  "text": "A scenic mountain peak within the national park, accessible via rugged and rocky hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        142.848176,
+                        43.699562
+                  ]
+            },
+            {
+                  "name": "Mt. Aibetsu",
+                  "text": "A steep and rocky summit in the northern part of the Daisetsuzan Volcanic Group.",
+                  "category": "natural",
+                  "coords": [
+                        142.857102,
+                        43.707919
+                  ]
+            },
+            {
+                  "name": "View Point 5",
+                  "text": "A designated observation point offering sweeping vistas of the volcanic plateau and surrounding peaks.",
+                  "category": "natural",
+                  "coords": [
+                        142.833005,
+                        43.660493
+                  ]
+            },
+            {
+                  "name": "Hagoromo Falls",
+                  "text": "One of Japan's highest waterfalls, cascading in multiple tiers down the Tenninkyo Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        142.786897,
+                        43.626328
+                  ]
+            },
+            {
+                  "name": "Mt. Mamiya",
+                  "text": "An alpine peak named after the famous 19th-century Japanese explorer Mamiya Rinzo.",
+                  "category": "natural",
+                  "coords": [
+                        142.872777,
+                        43.672012
+                  ]
+            },
+            {
+                  "name": "Mt. Hakuun",
+                  "text": "A mountain peak characterized by its white rocky outcrops, often surrounded by clouds.",
+                  "category": "natural",
+                  "coords": [
+                        142.90592,
+                        43.661205
+                  ]
+            },
+            {
+                  "name": "Yanbe Onsen Observatory",
+                  "text": "An overlook providing a wide view of the Yanbe hot spring area and volcanic steam vents.",
+                  "category": "natural",
+                  "coords": [
+                        142.920617,
+                        43.624903
+                  ]
+            },
+            {
+                  "name": "The 2nd. Flower field",
+                  "text": "A high-altitude meadow known for its colorful display of seasonal alpine wildflowers.",
+                  "category": "natural",
+                  "coords": [
+                        142.929613,
+                        43.637466
+                  ]
+            },
+            {
+                  "name": "1st Viewing point for Mt. Midori",
+                  "text": "A strategic viewpoint specifically positioned for the best vista of the green slopes of Mount Midori.",
+                  "category": "natural",
+                  "coords": [
+                        142.931815,
+                        43.634167
+                  ]
+            },
+            {
+                  "name": "Viewing platform 0.5km to Trail Head, 4km to Mt. Midori",
+                  "text": "A convenient rest spot for hikers located just half a kilometer from the trail head.",
+                  "category": "natural",
+                  "coords": [
+                        142.931043,
+                        43.63156
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "An elevated platform providing 360-degree views of the rugged Daisetsuzan volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        142.955663,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Itagaki New path junction",
+                  "text": "A trail junction that serves as a scenic lookout over the park's dense forests and peaks.",
+                  "category": "natural",
+                  "coords": [
+                        142.921939,
+                        43.654876
+                  ]
+            },
+            {
+                  "name": "Mount Midori",
+                  "text": "A mountain peak renowned for the deep green hues of its lush vegetation during the summer months.",
+                  "category": "natural",
+                  "coords": [
+                        142.920343,
+                        43.649874
+                  ]
+            },
+            {
+                  "name": "Mt. Koizumi",
+                  "text": "A prominent peak in the central volcanic group, offering expansive views of Hokkaido's interior.",
+                  "category": "natural",
+                  "coords": [
+                        142.921268,
+                        43.666723
+                  ]
+            },
+            {
+                  "name": "Mt. Goshiki",
+                  "text": "Named the \"Five-Colored Mountain\" for its varied volcanic minerals and striking rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        142.912785,
+                        43.671279
+                  ]
+            },
+            {
+                  "name": "Mt. Eboshi",
+                  "text": "A distinctive mountain summit whose shape resembles a traditional Japanese brimless hat.",
+                  "category": "natural",
+                  "coords": [
+                        142.921754,
+                        43.680443
+                  ]
+            },
+            {
+                  "name": "Mt. Aka",
+                  "text": "Known as the \"Red Mountain\" for its oxidized volcanic soil and brilliant autumn foliage.",
+                  "category": "natural",
+                  "coords": [
+                        142.924793,
+                        43.672878
+                  ]
+            },
+            {
+                  "name": "Kurodake",
+                  "text": "A popular peak accessible by ropeway, offering spectacular vistas of the dramatic Sounkyo Gorge.",
+                  "category": "natural",
+                  "coords": [
+                        142.920263,
+                        43.697549
+                  ]
+            },
+            {
+                  "name": "Amaryo Waterfall Viewpoint",
+                  "text": "This viewpoint offers a clear look at the Amaryo Waterfall nestled within the mountainous landscape of Daisetsuzan.",
+                  "category": "natural",
+                  "coords": [
+                        142.929042,
+                        43.700508
+                  ]
+            },
+            {
+                  "name": "Takamatsudai Viewpoint",
+                  "text": "An elevated observation point providing wide views over the volcanic slopes and valleys of the Asahi mountains.",
+                  "category": "natural",
+                  "coords": [
+                        142.93919,
+                        43.710543
+                  ]
+            },
+            {
+                  "name": "The 1st Flower Park",
+                  "text": "This high-altitude park is known for its seasonal alpine flower meadows near Mount Asahi.",
+                  "category": "natural",
+                  "coords": [
+                        142.952528,
+                        43.674182
+                  ]
+            },
+            {
+                  "name": "Mt. Chubetsu",
+                  "text": "This 1,963-meter peak in Daisetsuzan National Park offers challenging hiking trails and panoramic alpine views.",
+                  "category": "natural",
+                  "coords": [
+                        142.894522,
+                        43.59112
+                  ]
+            },
+            {
+                  "name": "Daiichi koen",
+                  "text": "A small nature park at the base of the mountains, serving as a starting point for exploring the local flora.",
+                  "category": "landmark",
+                  "coords": [
+                        142.824001,
+                        43.611982
+                  ]
+            },
+            {
+                  "name": "Daini koen",
+                  "text": "A maintained green area near the hiking trails, offering a quiet retreat in the natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        142.834046,
+                        43.598412
+                  ]
+            },
+            {
+                  "name": "Kinko-iwa Rock",
+                  "text": "This striking rock formation is a prominent feature along the hiking trail, resembling a natural sculpture.",
+                  "category": "landmark",
+                  "coords": [
+                        142.853216,
+                        43.662312
+                  ]
+            },
+            {
+                  "name": "Seppeki Hotspring",
+                  "text": "This natural thermal spring bubbles up in a rugged rocky region, offering relaxation in a wild setting.",
+                  "category": "natural",
+                  "coords": [
+                        142.911317,
+                        43.631607
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JP-01",
     coords: [142.85, 43.66],
@@ -427,7 +5296,268 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Le plus haut sommet de Hokkaidō, faisant partie du complexe volcanique de Daisetsuzan.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-berg-asahi-nature-v2.webp"},
   {
-    id: "jp-shikotsu-toya-nationalpark-nature-v2",
+    id: "jp-shikotsu-toya-nationalpark-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Monbetsu",
+                  "text": "Dieser Gipfel ist durch seine markanten Funkmasten auf der Spitze erkennbar und bietet einen freien Blick auf den Shikotsu-See.",
+                  "category": "natural",
+                  "coords": [
+                        141.394216,
+                        42.794005
+                  ]
+            },
+            {
+                  "name": "Observation Tower, Maruyama-Toomi",
+                  "text": "Ein hölzerner Aussichtsturm auf dem Berg Maruyama, der ein 360-Grad-Panorama des Shikotsu-Toya-Nationalparks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        141.444952,
+                        42.744497
+                  ]
+            },
+            {
+                  "name": "Mount Morappu",
+                  "text": "Ein markanter Gipfel am Südufer des Shikotsu-Sees, der ein beliebtes Ziel für Wanderer in der vulkanischen Landschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        141.413258,
+                        42.753803
+                  ]
+            },
+            {
+                  "name": "Mt. Fuppushi",
+                  "text": "Ein aktiver Vulkan mit einer bewaldeten Basis, der sich direkt neben dem Shikotsu-See erhebt und für seine raue alpine Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        141.358894,
+                        42.716859
+                  ]
+            },
+            {
+                  "name": "Mount Tappukoppu",
+                  "text": "Ein kleinerer bewaldeter Berg in der Nähe des Dorfes Lake Shikotsu, der einen sanften Aufstieg mit Blick auf das Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        141.297198,
+                        42.693961
+                  ]
+            },
+            {
+                  "name": "Eniwa Dake",
+                  "text": "Ein zerklüfteter Vulkanberg, der für seinen markanten, scharfen Felsgipfel bekannt ist, der den Shikotsu-See überragt.",
+                  "category": "natural",
+                  "coords": [
+                        141.285385,
+                        42.793318
+                  ]
+            },
+            {
+                  "name": "Marukoma Onsen",
+                  "text": "Ein historisches Onsen am Westufer des Shikotsu-Sees, dessen natürliche Bäder direkt mit dem Wasserspiegel des Sees verbunden sind.",
+                  "category": "recreational",
+                  "coords": [
+                        141.310699,
+                        42.780364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Monbetsu",
+                  "text": "Ez a csúcs a tetején található jellegzetes rádiótornyokról ismerhető fel, és zavartalan kilátást nyújt a Shikotsu-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        141.394216,
+                        42.794005
+                  ]
+            },
+            {
+                  "name": "Observation Tower, Maruyama-Toomi",
+                  "text": "A Maruyama-hegyen található fából készült kilátótorony, amely 360 fokos panorámát nyújt a Shikotsu-Toya Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        141.444952,
+                        42.744497
+                  ]
+            },
+            {
+                  "name": "Mount Morappu",
+                  "text": "A Shikotsu-tó déli partján található jellegzetes csúcs, amely a túrázók kedvelt célpontja a vulkanikus tájon.",
+                  "category": "natural",
+                  "coords": [
+                        141.413258,
+                        42.753803
+                  ]
+            },
+            {
+                  "name": "Mt. Fuppushi",
+                  "text": "Aktív vulkán erdős lábbal, amely közvetlenül a Shikotsu-tó mellett magasodik, és zord alpesi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        141.358894,
+                        42.716859
+                  ]
+            },
+            {
+                  "name": "Mount Tappukoppu",
+                  "text": "Egy kisebb erdős hegy a Shikotsu-tó faluja közelében, amely könnyű túrát kínál kilátással a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        141.297198,
+                        42.693961
+                  ]
+            },
+            {
+                  "name": "Eniwa Dake",
+                  "text": "Egyenetlen vulkáni hegy, amely a Shikotsu-tó fölé magasodó jellegzetes, éles sziklás csúcsáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        141.285385,
+                        42.793318
+                  ]
+            },
+            {
+                  "name": "Marukoma Onsen",
+                  "text": "Történelmi onsen a Shikotsu-tó nyugati partján, amelynek természetes fürdői közvetlenül kapcsolódnak a tó vízszintjéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        141.310699,
+                        42.780364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Monbetsu",
+                  "text": "Acest vârf este recognoscibil după turnurile de comunicații proeminente din vârf și oferă o vedere clară asupra lacului Shikotsu.",
+                  "category": "natural",
+                  "coords": [
+                        141.394216,
+                        42.794005
+                  ]
+            },
+            {
+                  "name": "Observation Tower, Maruyama-Toomi",
+                  "text": "Un turn de observare din lemn pe muntele Maruyama, care oferă o panoramă de 360 de grade a Parcului Național Shikotsu-Toya.",
+                  "category": "natural",
+                  "coords": [
+                        141.444952,
+                        42.744497
+                  ]
+            },
+            {
+                  "name": "Mount Morappu",
+                  "text": "Un vârf proeminent pe malul sudic al lacului Shikotsu, fiind o destinație populară pentru drumeții în peisajul vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        141.413258,
+                        42.753803
+                  ]
+            },
+            {
+                  "name": "Mt. Fuppushi",
+                  "text": "Un vulcan activ cu o bază împădurită, care se înalță chiar lângă lacul Shikotsu, cunoscut pentru flora sa alpină aspră.",
+                  "category": "natural",
+                  "coords": [
+                        141.358894,
+                        42.716859
+                  ]
+            },
+            {
+                  "name": "Mount Tappukoppu",
+                  "text": "Un munte împădurit mai mic lângă satul Lake Shikotsu, oferind o urcare ușoară cu vedere la apă.",
+                  "category": "natural",
+                  "coords": [
+                        141.297198,
+                        42.693961
+                  ]
+            },
+            {
+                  "name": "Eniwa Dake",
+                  "text": "Un munte vulcanic accidentat, cunoscut pentru vârful său stâncos ascuțit și distinctiv care domină lacul Shikotsu.",
+                  "category": "natural",
+                  "coords": [
+                        141.285385,
+                        42.793318
+                  ]
+            },
+            {
+                  "name": "Marukoma Onsen",
+                  "text": "Un onsen istoric pe malul de vest al lacului Shikotsu, ale cărui băi naturale sunt conectate direct la nivelul apei lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        141.310699,
+                        42.780364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Monbetsu",
+                  "text": "This peak is recognizable by the prominent communication towers at its summit and offers an unobstructed view of Lake Shikotsu.",
+                  "category": "natural",
+                  "coords": [
+                        141.394216,
+                        42.794005
+                  ]
+            },
+            {
+                  "name": "Observation Tower, Maruyama-Toomi",
+                  "text": "A wooden observation tower on Mount Maruyama providing a 360-degree panorama of the Shikotsu-Toya National Park.",
+                  "category": "natural",
+                  "coords": [
+                        141.444952,
+                        42.744497
+                  ]
+            },
+            {
+                  "name": "Mount Morappu",
+                  "text": "A prominent peak on the southern shore of Lake Shikotsu, serving as a popular destination for hikers in the volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        141.413258,
+                        42.753803
+                  ]
+            },
+            {
+                  "name": "Mt. Fuppushi",
+                  "text": "An active volcano with a forested base rising directly beside Lake Shikotsu, known for its rugged alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        141.358894,
+                        42.716859
+                  ]
+            },
+            {
+                  "name": "Mount Tappukoppu",
+                  "text": "A smaller forested mountain near Lake Shikotsu village, offering a gentle climb with views over the water.",
+                  "category": "natural",
+                  "coords": [
+                        141.297198,
+                        42.693961
+                  ]
+            },
+            {
+                  "name": "Eniwa Dake",
+                  "text": "A rugged volcanic mountain known for its distinctive, sharp rocky summit overlooking Lake Shikotsu.",
+                  "category": "natural",
+                  "coords": [
+                        141.285385,
+                        42.793318
+                  ]
+            },
+            {
+                  "name": "Marukoma Onsen",
+                  "text": "A historic onsen on the western shore of Lake Shikotsu whose natural baths are directly linked to the lake's water level.",
+                  "category": "recreational",
+                  "coords": [
+                        141.310699,
+                        42.780364
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-01",
     coords: [141.33, 42.75],
@@ -474,7 +5604,664 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un parc national à Hokkaidō, nommé d'après les deux lacs, Shikotsu et Tōya, qu'il entoure.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-shikotsu-toya-nationalpark-nature-v2.webp"},
   {
-    id: "jp-kiso-fluss-nature-v2",
+    id: "jp-kiso-fluss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Midori Ward Hall",
+                  "text": "Dieses städtische Rathaus bietet in seinem mehrstöckigen Bürgergebäude lokale Verwaltungsdienste an.",
+                  "category": "historical",
+                  "coords": [
+                        136.952334,
+                        35.070825
+                  ]
+            },
+            {
+                  "name": "Good'n Cool",
+                  "text": "In diesem zeitgenössischen Theater finden verschiedene Live-Aufführungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        136.929197,
+                        35.071482
+                  ]
+            },
+            {
+                  "name": "Brother Communication Space)",
+                  "text": "Dieses Firmenmuseum zeigt die Geschichte und die technologischen Innovationen des Nähmaschinenherstellers Brother.",
+                  "category": "museum",
+                  "coords": [
+                        136.920874,
+                        35.118897
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo Locale of Nagoya",
+                  "text": "Diese christliche Ortsgemeinde versammelt sich in einem bemerkenswert großen Gebäude mit imposanten architektonischen Merkmalen.",
+                  "category": "castle",
+                  "coords": [
+                        136.953466,
+                        35.104623
+                  ]
+            },
+            {
+                  "name": "Shimada Park)",
+                  "text": "Dieser Erholungspark bietet offene Rasenflächen und gepflasterte Spazierwege für die Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        136.982206,
+                        35.124577
+                  ]
+            },
+            {
+                  "name": "Horagai Park",
+                  "text": "Dieser Nachbarschaftspark bietet schattige Sitzbereiche und Spielgeräte unter altem Baumbestand.",
+                  "category": "park",
+                  "coords": [
+                        136.975624,
+                        35.100105
+                  ]
+            },
+            {
+                  "name": "Takinomizu Park",
+                  "text": "Dieser öffentliche Park ist für seinen malerischen Blick über die umliegenden Wohnviertel bekannt.",
+                  "category": "park",
+                  "coords": [
+                        136.977447,
+                        35.092481
+                  ]
+            },
+            {
+                  "name": "Shakushida Park",
+                  "text": "Dieser Vorstadtpark bietet eine offene Grünfläche, die von Wohnhäusern und engen Straßen gesäumt ist.",
+                  "category": "park",
+                  "coords": [
+                        136.944295,
+                        35.101147
+                  ]
+            },
+            {
+                  "name": "Kasadera Park",
+                  "text": "Dieser Park liegt in der Nähe des historischen Tempels Kasadera Kannon und bietet traditionelle Landschaftselemente und Wanderwege.",
+                  "category": "park",
+                  "coords": [
+                        136.940279,
+                        35.099313
+                  ]
+            },
+            {
+                  "name": "Yobitsugi park",
+                  "text": "Dieser historische Gemeindepark umfasst einen kleinen Teich und Steindenkmäler, die an das lokale Erbe erinnern.",
+                  "category": "park",
+                  "coords": [
+                        136.930412,
+                        35.106028
+                  ]
+            },
+            {
+                  "name": "Mizuho Park",
+                  "text": "Dieser weitläufige Stadtpark verfügt über große Sportanlagen, darunter ein großes Leichtathletikstadion und Baseballfelder.",
+                  "category": "park",
+                  "coords": [
+                        136.943047,
+                        35.12382
+                  ]
+            },
+            {
+                  "name": "Hosoguchiike Park",
+                  "text": "Das Herzstück dieses Erholungsgebietes ist ein ruhiger Teich, der von einem gepflasterten Rundweg umgeben ist.",
+                  "category": "park",
+                  "coords": [
+                        137.002283,
+                        35.112552
+                  ]
+            },
+            {
+                  "name": "Great Buddha of Shurakuen",
+                  "text": "Diese monumentale buddhistische Statue, die am 21. Mai 1927 eingeweiht wurde, thront imposant auf einem Hügel über der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        136.904481,
+                        35.043891
+                  ]
+            },
+            {
+                  "name": "Nagoya Iwanoue Reformed Church",
+                  "text": "Diese christliche Kirche dient der reformierten Gemeinde in einem bescheidenen, modernen Gebäude mit einem markanten Kreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        136.979716,
+                        35.087056
+                  ]
+            },
+            {
+                  "name": "Honden",
+                  "text": "Dieses Hauptheiligtum bewahrt die heiligen Gegenstände der Shinto-Kami vor den Blicken der Öffentlichkeit auf.",
+                  "category": "religious",
+                  "coords": [
+                        136.953392,
+                        35.086688
+                  ]
+            },
+            {
+                  "name": "Konarumi Hachiman Shrine",
+                  "text": "Dieser Shinto-Schrein ist der Gottheit des Bogenschießens und des Krieges gewidmet und wird von alten Kampferbäumen geschützt.",
+                  "category": "landmark",
+                  "coords": [
+                        136.954741,
+                        35.097856
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Das zentrale Bauwerk des Tempelkomplexes beherbergt das wichtigste Verehrungsobjekt.",
+                  "category": "religious",
+                  "coords": [
+                        136.93666,
+                        35.099481
+                  ]
+            },
+            {
+                  "name": "Narumi Onsen Hot Spring",
+                  "text": "Dieses traditionelle öffentliche Badehaus bietet mineralreiches Thermalwasser in einer entspannten gemeinschaftlichen Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        136.949741,
+                        35.07785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Midori Ward Hall",
+                  "text": "Ez a községi városháza helyi önkormányzati adminisztrációs szolgáltatásokat nyújt többszintes polgári épületében.",
+                  "category": "historical",
+                  "coords": [
+                        136.952334,
+                        35.070825
+                  ]
+            },
+            {
+                  "name": "Good'n Cool",
+                  "text": "Ez a kortárs színházi helyszín különféle beltéri előadóművészeti esteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        136.929197,
+                        35.071482
+                  ]
+            },
+            {
+                  "name": "Brother Communication Space)",
+                  "text": "Ez a vállalati múzeum a Brother varrógépgyártó cég történetét és technológiai újításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        136.920874,
+                        35.118897
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo Locale of Nagoya",
+                  "text": "Ez a helyi keresztény gyülekezet egy figyelemre méltóan nagy, impozáns építészeti jegyekkel rendelkező épületben gyűlik össze.",
+                  "category": "castle",
+                  "coords": [
+                        136.953466,
+                        35.104623
+                  ]
+            },
+            {
+                  "name": "Shimada Park)",
+                  "text": "Ez a szabadidőpark nyitott füves területekkel és kikövezett sétautakkal várja a helyi lakosokat.",
+                  "category": "park",
+                  "coords": [
+                        136.982206,
+                        35.124577
+                  ]
+            },
+            {
+                  "name": "Horagai Park",
+                  "text": "Ez a környékbeli park árnyékos ülőhelyeket és játszótéri eszközöket kínál az öreg fák alatt.",
+                  "category": "park",
+                  "coords": [
+                        136.975624,
+                        35.100105
+                  ]
+            },
+            {
+                  "name": "Takinomizu Park",
+                  "text": "Ez a közpark a környező lakónegyedekre nyíló magaslati panorámájáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        136.977447,
+                        35.092481
+                  ]
+            },
+            {
+                  "name": "Shakushida Park",
+                  "text": "Ez a külvárosi park nyitott zöldterületet kínál, amelyet lakóházak és szűk utcák határolnak.",
+                  "category": "park",
+                  "coords": [
+                        136.944295,
+                        35.101147
+                  ]
+            },
+            {
+                  "name": "Kasadera Park",
+                  "text": "A történelmi Kasadera Kannon templom közelében található park hagyományos tájképi elemekkel és sétautakkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        136.940279,
+                        35.099313
+                  ]
+            },
+            {
+                  "name": "Yobitsugi park",
+                  "text": "Ez a történelmi közösségi park egy kis tavat és a helyi örökségnek emléket állító kőemlékműveket foglal magában.",
+                  "category": "park",
+                  "coords": [
+                        136.930412,
+                        35.106028
+                  ]
+            },
+            {
+                  "name": "Mizuho Park",
+                  "text": "Ez a kiterjedt városi park jelentős sportlétesítményekkel rendelkezik, beleértve egy nagy atlétikai stadiont és baseballpályákat.",
+                  "category": "park",
+                  "coords": [
+                        136.943047,
+                        35.12382
+                  ]
+            },
+            {
+                  "name": "Hosoguchiike Park",
+                  "text": "A rekreációs terület központja egy nyugodt tó, amelyet egy kikövezett sétaút vesz körül.",
+                  "category": "park",
+                  "coords": [
+                        137.002283,
+                        35.112552
+                  ]
+            },
+            {
+                  "name": "Great Buddha of Shurakuen",
+                  "text": "Az 1927. május 21-én felszentelt monumentális buddhista szobor egy domb tetején állva magasodik a város fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        136.904481,
+                        35.043891
+                  ]
+            },
+            {
+                  "name": "Nagoya Iwanoue Reformed Church",
+                  "text": "Ez a keresztény templom a református gyülekezetet szolgálja egy szerény, modern épületben, amelyen egy jól látható kereszt áll.",
+                  "category": "landmark",
+                  "coords": [
+                        136.979716,
+                        35.087056
+                  ]
+            },
+            {
+                  "name": "Honden",
+                  "text": "Ez a fő szentélyépület a sintó kamik szent tárgyait őrzi, elzárva a nyilvánosság elől.",
+                  "category": "religious",
+                  "coords": [
+                        136.953392,
+                        35.086688
+                  ]
+            },
+            {
+                  "name": "Konarumi Hachiman Shrine",
+                  "text": "Ezt az íjászat és a háború istenségének szentelt sintó szentélyt ősi kámforfák védelmezik.",
+                  "category": "landmark",
+                  "coords": [
+                        136.954741,
+                        35.097856
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "A templomkomplexum központi építészeti szerkezete a fő tiszteletbeli tárgynak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        136.93666,
+                        35.099481
+                  ]
+            },
+            {
+                  "name": "Narumi Onsen Hot Spring",
+                  "text": "Ez a hagyományos nyilvános fürdőház ásványi anyagokban gazdag termálvizet kínál nyugodt közösségi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        136.949741,
+                        35.07785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Midori Ward Hall",
+                  "text": "Această primărie municipală oferă servicii administrative ale guvernului local în clădirea sa civică cu mai multe etaje.",
+                  "category": "historical",
+                  "coords": [
+                        136.952334,
+                        35.070825
+                  ]
+            },
+            {
+                  "name": "Good'n Cool",
+                  "text": "Această locație de teatru contemporan găzduiește o varietate de spectacole live de artă scenică.",
+                  "category": "cultural",
+                  "coords": [
+                        136.929197,
+                        35.071482
+                  ]
+            },
+            {
+                  "name": "Brother Communication Space)",
+                  "text": "Acest muzeu corporativ prezintă istoria și inovațiile tehnologice ale companiei de mașini de cusut Brother.",
+                  "category": "museum",
+                  "coords": [
+                        136.920874,
+                        35.118897
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo Locale of Nagoya",
+                  "text": "Această congregație creștină locală se adună într-o clădire deosebit de mare, caracterizată prin trăsături arhitecturale impunătoare.",
+                  "category": "castle",
+                  "coords": [
+                        136.953466,
+                        35.104623
+                  ]
+            },
+            {
+                  "name": "Shimada Park)",
+                  "text": "Acest parc de agrement dispune de zone cu iarbă deschise și alei pavate pentru rezidenții locali.",
+                  "category": "park",
+                  "coords": [
+                        136.982206,
+                        35.124577
+                  ]
+            },
+            {
+                  "name": "Horagai Park",
+                  "text": "Acest parc de cartier oferă zone de relaxare la umbră și echipamente de joacă sub copaci maturi.",
+                  "category": "park",
+                  "coords": [
+                        136.975624,
+                        35.100105
+                  ]
+            },
+            {
+                  "name": "Takinomizu Park",
+                  "text": "Acest parc public este cunoscut pentru priveliștile sale pitorești la înălțime asupra cartierelor rezidențiale din jur.",
+                  "category": "park",
+                  "coords": [
+                        136.977447,
+                        35.092481
+                  ]
+            },
+            {
+                  "name": "Shakushida Park",
+                  "text": "Acest parc suburban oferă un spațiu verde deschis, mărginit de case rezidențiale și străzi înguste.",
+                  "category": "park",
+                  "coords": [
+                        136.944295,
+                        35.101147
+                  ]
+            },
+            {
+                  "name": "Kasadera Park",
+                  "text": "Situat în apropierea templului istoric Kasadera Kannon, acest parc prezintă elemente de peisaj tradiționale și trasee de mers pe jos.",
+                  "category": "park",
+                  "coords": [
+                        136.940279,
+                        35.099313
+                  ]
+            },
+            {
+                  "name": "Yobitsugi park",
+                  "text": "Acest parc comunitar istoric include un mic iaz și monumente de piatră care comemorează moștenirea locală.",
+                  "category": "park",
+                  "coords": [
+                        136.930412,
+                        35.106028
+                  ]
+            },
+            {
+                  "name": "Mizuho Park",
+                  "text": "Acest parc urban vast dispune de facilități sportive majore, inclusiv un mare stadion de atletism și terenuri de baseball.",
+                  "category": "park",
+                  "coords": [
+                        136.943047,
+                        35.12382
+                  ]
+            },
+            {
+                  "name": "Hosoguchiike Park",
+                  "text": "Piesa centrală a acestei zone de recreere este un iaz liniștit înconjurat de un circuit de mers pe jos pavat.",
+                  "category": "park",
+                  "coords": [
+                        137.002283,
+                        35.112552
+                  ]
+            },
+            {
+                  "name": "Great Buddha of Shurakuen",
+                  "text": "Consacrată pe 21 mai 1927, această statuie budistă monumentală se înalță impunător pe un deal care domină orașul.",
+                  "category": "landmark",
+                  "coords": [
+                        136.904481,
+                        35.043891
+                  ]
+            },
+            {
+                  "name": "Nagoya Iwanoue Reformed Church",
+                  "text": "Această biserică creștină servește congregația reformată într-o clădire modestă, modernă, cu o cruce proeminentă.",
+                  "category": "landmark",
+                  "coords": [
+                        136.979716,
+                        35.087056
+                  ]
+            },
+            {
+                  "name": "Honden",
+                  "text": "Această clădire a sanctuarului principal protejează obiectele sacre ale kami-urilor șintoiste departe de ochii publicului.",
+                  "category": "religious",
+                  "coords": [
+                        136.953392,
+                        35.086688
+                  ]
+            },
+            {
+                  "name": "Konarumi Hachiman Shrine",
+                  "text": "Dedicat zeității tirului cu arcul și a războiului, acest sanctuar șintoist este adăpostit de arbori de camfor străvechi.",
+                  "category": "landmark",
+                  "coords": [
+                        136.954741,
+                        35.097856
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Structura arhitecturală centrală a complexului de temple găzduiește obiectul principal de venerație.",
+                  "category": "religious",
+                  "coords": [
+                        136.93666,
+                        35.099481
+                  ]
+            },
+            {
+                  "name": "Narumi Onsen Hot Spring",
+                  "text": "Această baie publică tradițională oferă ape termale bogate în minerale într-un cadru comunitar relaxat.",
+                  "category": "recreational",
+                  "coords": [
+                        136.949741,
+                        35.07785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Midori Ward Hall",
+                  "text": "This municipal townhall provides local government administrative services in its multi-story civic building.",
+                  "category": "historical",
+                  "coords": [
+                        136.952334,
+                        35.070825
+                  ]
+            },
+            {
+                  "name": "Good'n Cool",
+                  "text": "This contemporary theatre venue hosts a variety of live indoor performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        136.929197,
+                        35.071482
+                  ]
+            },
+            {
+                  "name": "Brother Communication Space)",
+                  "text": "This corporate museum showcases the history and technological innovations of the Brother sewing machine company.",
+                  "category": "museum",
+                  "coords": [
+                        136.920874,
+                        35.118897
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo Locale of Nagoya",
+                  "text": "This local Christian congregation gathers in a notably large building characterized by imposing architectural features.",
+                  "category": "castle",
+                  "coords": [
+                        136.953466,
+                        35.104623
+                  ]
+            },
+            {
+                  "name": "Shimada Park",
+                  "text": "This recreational park features open grassy areas and paved walking paths for local residents.",
+                  "category": "park",
+                  "coords": [
+                        136.982206,
+                        35.124577
+                  ]
+            },
+            {
+                  "name": "Horagai Park",
+                  "text": "This neighborhood park provides shaded seating areas and playground equipment under mature trees.",
+                  "category": "park",
+                  "coords": [
+                        136.975624,
+                        35.100105
+                  ]
+            },
+            {
+                  "name": "Takinomizu Park",
+                  "text": "This public park is known for its elevated scenic views overlooking the surrounding residential neighborhoods.",
+                  "category": "park",
+                  "coords": [
+                        136.977447,
+                        35.092481
+                  ]
+            },
+            {
+                  "name": "Shakushida Park",
+                  "text": "This suburban park offers an open green space bordered by residential houses and narrow streets.",
+                  "category": "park",
+                  "coords": [
+                        136.944295,
+                        35.101147
+                  ]
+            },
+            {
+                  "name": "Kasadera Park",
+                  "text": "Located near the historic Kasadera Kannon temple, this park features traditional landscape elements and walking trails.",
+                  "category": "park",
+                  "coords": [
+                        136.940279,
+                        35.099313
+                  ]
+            },
+            {
+                  "name": "Yobitsugi park",
+                  "text": "This historical community park includes a small pond and stone monuments commemorating local heritage.",
+                  "category": "park",
+                  "coords": [
+                        136.930412,
+                        35.106028
+                  ]
+            },
+            {
+                  "name": "Mizuho Park",
+                  "text": "This expansive urban park features major athletic facilities including a large athletics stadium and baseball fields.",
+                  "category": "park",
+                  "coords": [
+                        136.943047,
+                        35.12382
+                  ]
+            },
+            {
+                  "name": "Hosoguchiike Park",
+                  "text": "The centerpiece of this recreation area is a serene pond surrounded by a paved walking circuit.",
+                  "category": "park",
+                  "coords": [
+                        137.002283,
+                        35.112552
+                  ]
+            },
+            {
+                  "name": "Great Buddha of Shurakuen",
+                  "text": "Consecrated on May 21, 1927, this monumental Buddhist statue stands imposingly atop a hill overlooking the city.",
+                  "category": "landmark",
+                  "coords": [
+                        136.904481,
+                        35.043891
+                  ]
+            },
+            {
+                  "name": "Nagoya Iwanoue Reformed Church",
+                  "text": "This Christian church serves the Reformed congregation in a modest, modern building with a prominent cross.",
+                  "category": "landmark",
+                  "coords": [
+                        136.979716,
+                        35.087056
+                  ]
+            },
+            {
+                  "name": "Honden",
+                  "text": "This main sanctuary building safeguards the sacred objects of the Shinto kami away from public view.",
+                  "category": "religious",
+                  "coords": [
+                        136.953392,
+                        35.086688
+                  ]
+            },
+            {
+                  "name": "Konarumi Hachiman Shrine",
+                  "text": "Dedicated to the deity of archery and war, this Shinto shrine is sheltered by ancient camphor trees.",
+                  "category": "landmark",
+                  "coords": [
+                        136.954741,
+                        35.097856
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "The central architectural structure of the temple complex houses the primary object of veneration.",
+                  "category": "religious",
+                  "coords": [
+                        136.93666,
+                        35.099481
+                  ]
+            },
+            {
+                  "name": "Narumi Onsen Hot Spring",
+                  "text": "This traditional public bathhouse offers mineral-rich thermal waters in a relaxed communal setting.",
+                  "category": "recreational",
+                  "coords": [
+                        136.949741,
+                        35.07785
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JP-21",
     coords: [136.9, 35.08],
@@ -521,7 +6308,880 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un grand fleuve du centre du Japon, surnommé le Rhin du Japon pour ses paysages pittoresques.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-kiso-fluss-nature-v2.webp"},
   {
-    id: "jp-nikko-nationalpark-nature-v2",
+    id: "jp-nikko-nationalpark-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamozawa Imperial Villa",
+                  "text": "Eine kaiserliche Villa von 1916, die Architekturstile der Edo- und Meiji-Zeit vereint.",
+                  "category": "museum",
+                  "coords": [
+                        139.591283,
+                        36.752381
+                  ]
+            },
+            {
+                  "name": "Takinoo-jinja Shrine",
+                  "text": "Ein friedlicher Waldschrein in Nikko, der für seine drei heiligen Zedern bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.592031,
+                        36.765372
+                  ]
+            },
+            {
+                  "name": "Futarasan-jinja Shrine Chugu",
+                  "text": "Ein 784 gegründeter Shinto-Schrein am Nordufer des Chuzenji-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        139.487555,
+                        36.741653
+                  ]
+            },
+            {
+                  "name": "Chūzen Temple",
+                  "text": "Ein buddhistischer Tempel von 784, berühmt für die aus einem Baumstamm geschnitzte Kannon-Statue.",
+                  "category": "religious",
+                  "coords": [
+                        139.491793,
+                        36.731064
+                  ]
+            },
+            {
+                  "name": "Furukawa Bridge",
+                  "text": "Eine historische Eisenbrücke, die als Zeugnis der frühen industriellen Entwicklung gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444968,
+                        36.665306
+                  ]
+            },
+            {
+                  "name": "Mt. Nyohō",
+                  "text": "Ein markanter Berggipfel in Nikko, der Teil der heiligen Vulkankette ist.",
+                  "category": "natural",
+                  "coords": [
+                        139.536479,
+                        36.811443
+                  ]
+            },
+            {
+                  "name": "Mt. Omanago",
+                  "text": "Ein erloschener Vulkan in Nikko, der bei Bergsteigern für seine Panorama-Aussicht beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        139.507096,
+                        36.795287
+                  ]
+            },
+            {
+                  "name": "Mount Nantai",
+                  "text": "Ein heiliger Schichtvulkan, der steil über dem Chuzenji-See aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        139.490885,
+                        36.765209
+                  ]
+            },
+            {
+                  "name": "Hangetsu-san",
+                  "text": "Ein Berg mit Aussichtsplattform, die einen weiten Blick über den Chuzenji-See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        139.475847,
+                        36.710746
+                  ]
+            },
+            {
+                  "name": "Hanaishi Shrine",
+                  "text": "Ein kleiner, ruhiger Shinto-Schrein in der Nähe der malerischen Kanmangafuchi-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        139.587115,
+                        36.752235
+                  ]
+            },
+            {
+                  "name": "Seiryū Shrine",
+                  "text": "Ein lokales Heiligtum, das in der natürlichen Waldlandschaft von Nikko eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.593706,
+                        36.754569
+                  ]
+            },
+            {
+                  "name": "Taiyū-in Mausoleum",
+                  "text": "Das prachtvolle Mausoleum des dritten Tokugawa-Shoguns, Iemitsu, erbaut 1653.",
+                  "category": "landmark",
+                  "coords": [
+                        139.594634,
+                        36.758362
+                  ]
+            },
+            {
+                  "name": "Italian Embassy Villa Memory Park",
+                  "text": "Ein ehemaliges diplomatisches Sommerhaus am Chuzenji-See, entworfen von Antonin Raymond.",
+                  "category": "museum",
+                  "coords": [
+                        139.485162,
+                        36.725355
+                  ]
+            },
+            {
+                  "name": "British Embassy Villa Memorial Park",
+                  "text": "Eine rekonstruierte viktorianische Villa am Seeufer, die einst britischen Diplomaten diente.",
+                  "category": "museum",
+                  "coords": [
+                        139.486008,
+                        36.726655
+                  ]
+            },
+            {
+                  "name": "Nikko Nature Museum",
+                  "text": "Ein Museum, das die Ökologie und Entstehung der vulkanischen Landschaft Nikkos erklärt.",
+                  "category": "museum",
+                  "coords": [
+                        139.500107,
+                        36.738573
+                  ]
+            },
+            {
+                  "name": "Dainichido Ruins",
+                  "text": "Überreste einer historischen Tempelhalle, die Zeugnis von Nikkos religiöser Vergangenheit ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        139.580241,
+                        36.749118
+                  ]
+            },
+            {
+                  "name": "Hokkedo Hall",
+                  "text": "Eine heilige buddhistische Gebetshalle, die zum UNESCO-Weltkulturerbe von Nikko gehört.",
+                  "category": "religious",
+                  "coords": [
+                        139.596016,
+                        36.757829
+                  ]
+            },
+            {
+                  "name": "Line-up Jizō",
+                  "text": "Diese langen Reihen von Jizo-Steinstatuen stehen am Ufer des Kanmangafuchi-Abgrunds.",
+                  "category": "landmark",
+                  "coords": [
+                        139.589181,
+                        36.749092
+                  ]
+            },
+            {
+                  "name": "Koreizan Shrine",
+                  "text": "Ein ruhiger Shinto-Schrein, der tief in den bewaldeten Bergen des Nikko-Nationalparks liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.596077,
+                        36.759067
+                  ]
+            },
+            {
+                  "name": "Nukazuka Inari Shrine",
+                  "text": "Dieser Shinto-Schrein ist Inari gewidmet und zeichnet sich durch seine charakteristischen Fuchsstatuen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        139.58231,
+                        36.748096
+                  ]
+            },
+            {
+                  "name": "Nishi-machi Tashi-dō",
+                  "text": "Ein historisches buddhistisches Gebäude im Nishi-machi-Viertel, das der Meditation und dem Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        139.591411,
+                        36.749681
+                  ]
+            },
+            {
+                  "name": "Futarasanjinja Sizumiya",
+                  "text": "Ein kleiner Shinto-Schrein, der als Teil des heiligen Futarasan-Komplexes in der Natur liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.500414,
+                        36.782723
+                  ]
+            },
+            {
+                  "name": "Miko Stone",
+                  "text": "Ein heiliger Stein innerhalb des Shinto-Komplexes, der traditionell mit den Miko-Schreinmädchen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.496713,
+                        36.739476
+                  ]
+            },
+            {
+                  "name": "Tobiishi Hachiman Shrine",
+                  "text": "Ein Hachiman gewidmetes Shinto-Heiligtum, das sich am Fuße der Nikko-Berge befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.590034,
+                        36.752797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamozawa Imperial Villa",
+                  "text": "Egy 1916-os császári villa, amely az Edo- és a Meidzsi-korszak stílusait ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        139.591283,
+                        36.752381
+                  ]
+            },
+            {
+                  "name": "Takinoo-jinja Shrine",
+                  "text": "Békés erdei szentély Nikkóban, amely három szent cédrusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.592031,
+                        36.765372
+                  ]
+            },
+            {
+                  "name": "Futarasan-jinja Shrine Chugu",
+                  "text": "784-ben alapított sintoista szentély a Csúzendzsi-tó északi partján.",
+                  "category": "religious",
+                  "coords": [
+                        139.487555,
+                        36.741653
+                  ]
+            },
+            {
+                  "name": "Chūzen Temple",
+                  "text": "784-ben alapított buddhista templom, híres egy fatörzsből faragott Kannon-szobráról.",
+                  "category": "religious",
+                  "coords": [
+                        139.491793,
+                        36.731064
+                  ]
+            },
+            {
+                  "name": "Furukawa Bridge",
+                  "text": "Történelmi vashíd, amely a korai ipari fejlődés emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444968,
+                        36.665306
+                  ]
+            },
+            {
+                  "name": "Mt. Nyohō",
+                  "text": "Nikkó egyik jellegzetes hegycsúcsa, amely a szent vulkánlánc része.",
+                  "category": "natural",
+                  "coords": [
+                        139.536479,
+                        36.811443
+                  ]
+            },
+            {
+                  "name": "Mt. Omanago",
+                  "text": "Nikkó kialudt vulkánja, amely panorámás kilátása miatt népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        139.507096,
+                        36.795287
+                  ]
+            },
+            {
+                  "name": "Mount Nantai",
+                  "text": "Szent rétegvulkán, amely meredeken emelkedik a Csúzendzsi-tó fölé.",
+                  "category": "natural",
+                  "coords": [
+                        139.490885,
+                        36.765209
+                  ]
+            },
+            {
+                  "name": "Hangetsu-san",
+                  "text": "Hegy kilátóval, ahonnan pazar kilátás nyílik a Csúzendzsi-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        139.475847,
+                        36.710746
+                  ]
+            },
+            {
+                  "name": "Hanaishi Shrine",
+                  "text": "Kicsi, csendes sintoista szentély a festői Kanmangafucsi-szurdok közelében.",
+                  "category": "religious",
+                  "coords": [
+                        139.587115,
+                        36.752235
+                  ]
+            },
+            {
+                  "name": "Seiryū Shrine",
+                  "text": "Nikkó erdei környezetébe ágyazott helyi szentély.",
+                  "category": "religious",
+                  "coords": [
+                        139.593706,
+                        36.754569
+                  ]
+            },
+            {
+                  "name": "Taiyū-in Mausoleum",
+                  "text": "A harmadik Tokugava-sogun, Iemicu 1653-ban épült díszes mauzóleuma.",
+                  "category": "landmark",
+                  "coords": [
+                        139.594634,
+                        36.758362
+                  ]
+            },
+            {
+                  "name": "Italian Embassy Villa Memory Park",
+                  "text": "Antonin Raymond által tervezett egykori diplomáciai nyaraló a Csúzendzsi-tónál.",
+                  "category": "museum",
+                  "coords": [
+                        139.485162,
+                        36.725355
+                  ]
+            },
+            {
+                  "name": "British Embassy Villa Memorial Park",
+                  "text": "Rekonstruált viktoriánus villa a tóparton, amely egykor brit diplomatákat szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        139.486008,
+                        36.726655
+                  ]
+            },
+            {
+                  "name": "Nikko Nature Museum",
+                  "text": "Nikkó vulkáni tájának ökológiáját és kialakulását bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        139.500107,
+                        36.738573
+                  ]
+            },
+            {
+                  "name": "Dainichido Ruins",
+                  "text": "Egy történelmi templomcsarnok maradványai, Nikkó vallási múltjának emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        139.580241,
+                        36.749118
+                  ]
+            },
+            {
+                  "name": "Hokkedo Hall",
+                  "text": "Nikkó UNESCO világörökségéhez tartozó szent buddhista imacsarnok.",
+                  "category": "religious",
+                  "coords": [
+                        139.596016,
+                        36.757829
+                  ]
+            },
+            {
+                  "name": "Line-up Jizō",
+                  "text": "A Kanmangafuchi-szakadék partján sorakozó kő Jizo-szobrok különleges látványt nyújtanak.",
+                  "category": "landmark",
+                  "coords": [
+                        139.589181,
+                        36.749092
+                  ]
+            },
+            {
+                  "name": "Koreizan Shrine",
+                  "text": "Egy csendes sintoista szentély, amely mélyen a Nikkó Nemzeti Park erdős hegyei között fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        139.596077,
+                        36.759067
+                  ]
+            },
+            {
+                  "name": "Nukazuka Inari Shrine",
+                  "text": "Ez a sintoista szentély Inarinak van szentelve, és jellegzetes rókaszobrairól ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        139.58231,
+                        36.748096
+                  ]
+            },
+            {
+                  "name": "Nishi-machi Tashi-dō",
+                  "text": "Egy történelmi buddhista épület Nishi-machi negyedében, amely meditációs és imahelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        139.591411,
+                        36.749681
+                  ]
+            },
+            {
+                  "name": "Futarasanjinja Sizumiya",
+                  "text": "Egy apró sintoista szentély, amely a szent Futarasan-komplexum részeként fekszik a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        139.500414,
+                        36.782723
+                  ]
+            },
+            {
+                  "name": "Miko Stone",
+                  "text": "A sintoista komplexum egyik szent köve, amely hagyományosan a miko szentélyszüzekhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        139.496713,
+                        36.739476
+                  ]
+            },
+            {
+                  "name": "Tobiishi Hachiman Shrine",
+                  "text": "Hacsimannak szentelt sintoista szentély a Nikkó-hegység lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        139.590034,
+                        36.752797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamozawa Imperial Villa",
+                  "text": "O vilă imperială din 1916 care îmbină stilurile arhitecturale Edo și Meiji.",
+                  "category": "museum",
+                  "coords": [
+                        139.591283,
+                        36.752381
+                  ]
+            },
+            {
+                  "name": "Takinoo-jinja Shrine",
+                  "text": "Un sanctuar liniștit în pădurea din Nikko, cunoscut pentru cei trei cedri sfinți.",
+                  "category": "religious",
+                  "coords": [
+                        139.592031,
+                        36.765372
+                  ]
+            },
+            {
+                  "name": "Futarasan-jinja Shrine Chugu",
+                  "text": "Un sanctuar șintoist fondat în 784, situat pe malul nordic al lacului Chuzenji.",
+                  "category": "religious",
+                  "coords": [
+                        139.487555,
+                        36.741653
+                  ]
+            },
+            {
+                  "name": "Chūzen Temple",
+                  "text": "Un templu budist din 784, renumit pentru statuia Kannon sculptată dintr-un trunchi de copac.",
+                  "category": "religious",
+                  "coords": [
+                        139.491793,
+                        36.731064
+                  ]
+            },
+            {
+                  "name": "Furukawa Bridge",
+                  "text": "Un pod istoric din fier, considerat o mărturie a dezvoltării industriale timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444968,
+                        36.665306
+                  ]
+            },
+            {
+                  "name": "Mt. Nyohō",
+                  "text": "Un vârf muntos proeminent în Nikko, parte a lanțului vulcanic sacru.",
+                  "category": "natural",
+                  "coords": [
+                        139.536479,
+                        36.811443
+                  ]
+            },
+            {
+                  "name": "Mt. Omanago",
+                  "text": "Un vulcan stins în Nikko, popular printre excursioniști pentru priveliștile sale panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        139.507096,
+                        36.795287
+                  ]
+            },
+            {
+                  "name": "Mount Nantai",
+                  "text": "Un stratovulcan sacru care se înalță abrupt deasupra lacului Chuzenji.",
+                  "category": "natural",
+                  "coords": [
+                        139.490885,
+                        36.765209
+                  ]
+            },
+            {
+                  "name": "Hangetsu-san",
+                  "text": "Un munte cu o platformă de observație ce oferă o vedere panoramică asupra lacului Chuzenji.",
+                  "category": "natural",
+                  "coords": [
+                        139.475847,
+                        36.710746
+                  ]
+            },
+            {
+                  "name": "Hanaishi Shrine",
+                  "text": "Un sanctuar șintoist mic și liniștit, situat lângă pitoreasca cheie Kanmangafuchi.",
+                  "category": "religious",
+                  "coords": [
+                        139.587115,
+                        36.752235
+                  ]
+            },
+            {
+                  "name": "Seiryū Shrine",
+                  "text": "Un sanctuar local integrat în peisajul forestier natural din Nikko.",
+                  "category": "religious",
+                  "coords": [
+                        139.593706,
+                        36.754569
+                  ]
+            },
+            {
+                  "name": "Taiyū-in Mausoleum",
+                  "text": "Mausoleul somptuos al celui de-al treilea shogun Tokugawa, Iemitsu, construit în 1653.",
+                  "category": "landmark",
+                  "coords": [
+                        139.594634,
+                        36.758362
+                  ]
+            },
+            {
+                  "name": "Italian Embassy Villa Memory Park",
+                  "text": "O fostă vilă diplomatică de vară pe malul lacului Chuzenji, proiectată de Antonin Raymond.",
+                  "category": "museum",
+                  "coords": [
+                        139.485162,
+                        36.725355
+                  ]
+            },
+            {
+                  "name": "British Embassy Villa Memorial Park",
+                  "text": "O vilă victoriană reconstruită pe malul lacului, care a servit cândva diplomaților britanici.",
+                  "category": "museum",
+                  "coords": [
+                        139.486008,
+                        36.726655
+                  ]
+            },
+            {
+                  "name": "Nikko Nature Museum",
+                  "text": "Un muzeu care explică ecologia și formarea peisajului vulcanic din Nikko.",
+                  "category": "museum",
+                  "coords": [
+                        139.500107,
+                        36.738573
+                  ]
+            },
+            {
+                  "name": "Dainichido Ruins",
+                  "text": "Rămășițele unei săli istorice de templu, care atestă trecutul religios al orașului Nikko.",
+                  "category": "historical",
+                  "coords": [
+                        139.580241,
+                        36.749118
+                  ]
+            },
+            {
+                  "name": "Hokkedo Hall",
+                  "text": "O sală sacră de rugăciune budistă, parte a patrimoniului mondial UNESCO din Nikko.",
+                  "category": "religious",
+                  "coords": [
+                        139.596016,
+                        36.757829
+                  ]
+            },
+            {
+                  "name": "Line-up Jizō",
+                  "text": "Aceste rânduri lungi de statui de piatră Jizo sunt aliniate de-a lungul malului prăpăstiei Kanmangafuchi.",
+                  "category": "landmark",
+                  "coords": [
+                        139.589181,
+                        36.749092
+                  ]
+            },
+            {
+                  "name": "Koreizan Shrine",
+                  "text": "Un sanctuar shintoist liniștit, situat adânc în munții împăduriți ai Parcului Național Nikko.",
+                  "category": "landmark",
+                  "coords": [
+                        139.596077,
+                        36.759067
+                  ]
+            },
+            {
+                  "name": "Nukazuka Inari Shrine",
+                  "text": "Acest sanctuar shintoist este dedicat lui Inari și este decorat cu statui de vulpi caracteristice.",
+                  "category": "landmark",
+                  "coords": [
+                        139.58231,
+                        36.748096
+                  ]
+            },
+            {
+                  "name": "Nishi-machi Tashi-dō",
+                  "text": "O clădire budistă istorică în districtul Nishi-machi, servind ca loc de meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        139.591411,
+                        36.749681
+                  ]
+            },
+            {
+                  "name": "Futarasanjinja Sizumiya",
+                  "text": "Un mic sanctuar shintoist situat în natură, ca parte a complexului sacru Futarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        139.500414,
+                        36.782723
+                  ]
+            },
+            {
+                  "name": "Miko Stone",
+                  "text": "O piatră sacră în complexul shintoist, legată tradițional de fecioarele miko ale sanctuarului.",
+                  "category": "landmark",
+                  "coords": [
+                        139.496713,
+                        36.739476
+                  ]
+            },
+            {
+                  "name": "Tobiishi Hachiman Shrine",
+                  "text": "Un sanctuar shintoist dedicat lui Hachiman, situat la poalele munților Nikko.",
+                  "category": "landmark",
+                  "coords": [
+                        139.590034,
+                        36.752797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamozawa Imperial Villa",
+                  "text": "An imperial villa from 1916 that combines Edo and Meiji period architectural styles.",
+                  "category": "museum",
+                  "coords": [
+                        139.591283,
+                        36.752381
+                  ]
+            },
+            {
+                  "name": "Takinoo-jinja Shrine",
+                  "text": "A peaceful forest shrine in Nikko, known for its three sacred cedar trees.",
+                  "category": "religious",
+                  "coords": [
+                        139.592031,
+                        36.765372
+                  ]
+            },
+            {
+                  "name": "Futarasan-jinja Shrine Chugu",
+                  "text": "A Shinto shrine founded in 784, located on the northern shore of Lake Chuzenji.",
+                  "category": "religious",
+                  "coords": [
+                        139.487555,
+                        36.741653
+                  ]
+            },
+            {
+                  "name": "Chūzen Temple",
+                  "text": "A Buddhist temple from 784, famous for its Kannon statue carved from a living tree trunk.",
+                  "category": "religious",
+                  "coords": [
+                        139.491793,
+                        36.731064
+                  ]
+            },
+            {
+                  "name": "Furukawa Bridge",
+                  "text": "A historic iron bridge considered a testament to early industrial development.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444968,
+                        36.665306
+                  ]
+            },
+            {
+                  "name": "Mt. Nyohō",
+                  "text": "A prominent mountain peak in Nikko, part of the sacred volcanic range.",
+                  "category": "natural",
+                  "coords": [
+                        139.536479,
+                        36.811443
+                  ]
+            },
+            {
+                  "name": "Mt. Omanago",
+                  "text": "An extinct volcano in Nikko, popular among hikers for its panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        139.507096,
+                        36.795287
+                  ]
+            },
+            {
+                  "name": "Mount Nantai",
+                  "text": "A sacred stratovolcano rising steeply above Lake Chuzenji.",
+                  "category": "natural",
+                  "coords": [
+                        139.490885,
+                        36.765209
+                  ]
+            },
+            {
+                  "name": "Hangetsu-san",
+                  "text": "A mountain with an observation platform offering sweeping views over Lake Chuzenji.",
+                  "category": "natural",
+                  "coords": [
+                        139.475847,
+                        36.710746
+                  ]
+            },
+            {
+                  "name": "Hanaishi Shrine",
+                  "text": "A small, quiet Shinto shrine located near the scenic Kanmangafuchi Abyss.",
+                  "category": "religious",
+                  "coords": [
+                        139.587115,
+                        36.752235
+                  ]
+            },
+            {
+                  "name": "Seiryū Shrine",
+                  "text": "A local sanctuary embedded in the natural forest landscape of Nikko.",
+                  "category": "religious",
+                  "coords": [
+                        139.593706,
+                        36.754569
+                  ]
+            },
+            {
+                  "name": "Taiyū-in Mausoleum",
+                  "text": "The lavish mausoleum of the third Tokugawa shogun, Iemitsu, built in 1653.",
+                  "category": "landmark",
+                  "coords": [
+                        139.594634,
+                        36.758362
+                  ]
+            },
+            {
+                  "name": "Italian Embassy Villa Memory Park",
+                  "text": "A former diplomatic summer retreat on Lake Chuzenji, designed by Antonin Raymond.",
+                  "category": "museum",
+                  "coords": [
+                        139.485162,
+                        36.725355
+                  ]
+            },
+            {
+                  "name": "British Embassy Villa Memorial Park",
+                  "text": "A reconstructed Victorian lakeside villa that once served British diplomats.",
+                  "category": "museum",
+                  "coords": [
+                        139.486008,
+                        36.726655
+                  ]
+            },
+            {
+                  "name": "Nikko Nature Museum",
+                  "text": "A museum explaining the ecology and formation of Nikko's volcanic landscape.",
+                  "category": "museum",
+                  "coords": [
+                        139.500107,
+                        36.738573
+                  ]
+            },
+            {
+                  "name": "Dainichido Ruins",
+                  "text": "Remains of a historic temple hall that bear witness to Nikko's religious past.",
+                  "category": "historical",
+                  "coords": [
+                        139.580241,
+                        36.749118
+                  ]
+            },
+            {
+                  "name": "Hokkedo Hall",
+                  "text": "A sacred Buddhist prayer hall that is part of Nikko's UNESCO World Heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        139.596016,
+                        36.757829
+                  ]
+            },
+            {
+                  "name": "Line-up Jizō",
+                  "text": "These long rows of stone Jizo statues are lined up along the banks of the Kanmangafuchi Abyss.",
+                  "category": "landmark",
+                  "coords": [
+                        139.589181,
+                        36.749092
+                  ]
+            },
+            {
+                  "name": "Koreizan Shrine",
+                  "text": "A serene Shinto shrine nestled deep within the forested mountains of Nikko National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        139.596077,
+                        36.759067
+                  ]
+            },
+            {
+                  "name": "Nukazuka Inari Shrine",
+                  "text": "This Shinto shrine is dedicated to Inari and features characteristic fox statues in a forest setting.",
+                  "category": "landmark",
+                  "coords": [
+                        139.58231,
+                        36.748096
+                  ]
+            },
+            {
+                  "name": "Nishi-machi Tashi-dō",
+                  "text": "A historic Buddhist building in the Nishi-machi district, serving as a place for meditation and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        139.591411,
+                        36.749681
+                  ]
+            },
+            {
+                  "name": "Futarasanjinja Sizumiya",
+                  "text": "A small Shinto shrine situated in a natural setting as part of the sacred Futarasan complex.",
+                  "category": "landmark",
+                  "coords": [
+                        139.500414,
+                        36.782723
+                  ]
+            },
+            {
+                  "name": "Miko Stone",
+                  "text": "A sacred stone within the Shinto complex, traditionally associated with the Miko shrine maidens.",
+                  "category": "landmark",
+                  "coords": [
+                        139.496713,
+                        36.739476
+                  ]
+            },
+            {
+                  "name": "Tobiishi Hachiman Shrine",
+                  "text": "A Shinto shrine dedicated to Hachiman, located at the foot of the Nikko mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        139.590034,
+                        36.752797
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-09",
     coords: [139.49, 36.73],
@@ -568,7 +7228,160 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un parc national connu pour ses sites classés au patrimoine mondial de l'UNESCO, ses montagnes, ses lacs, ses cascades et ses sources thermales.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-nikko-nationalpark-nature-v2.webp"},
   {
-    id: "jp-berg-ontake-nature-v2",
+    id: "jp-berg-ontake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ontake",
+                  "text": "Dieser 3.067 Meter hohe aktive Vulkan ist ein heiliger Ort für Pilger und der zweithöchste Vulkan Japans.",
+                  "category": "natural",
+                  "coords": [
+                        137.480406,
+                        35.892991
+                  ]
+            },
+            {
+                  "name": "Makuiwa",
+                  "text": "Diese gewaltige Felsformation aus vulkanischem Gestein ähnelt einem riesigen Vorhang und entstand durch die Aktivität des Berges Ontake.",
+                  "category": "landmark",
+                  "coords": [
+                        137.54436,
+                        35.834036
+                  ]
+            },
+            {
+                  "name": "Kongo-Do",
+                  "text": "Diese Shinto-Halle an den Hängen des Ontake wird traditionell von Bergasketen für ihre spirituellen Übungen genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        137.498778,
+                        35.895005
+                  ]
+            },
+            {
+                  "name": "Ontake-jinja Shrine",
+                  "text": "Dieser heilige Schrein ist der Gottheit des Berges Ontake gewidmet und dient als wichtiger Ausgangspunkt für Bergpilger.",
+                  "category": "landmark",
+                  "coords": [
+                        137.51128,
+                        35.899358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Ontake",
+                  "text": "Ez a 3067 méter magas aktív tűzhányó Japán második legmagasamerre vulkánja és fontos zarándokhely.",
+                  "category": "natural",
+                  "coords": [
+                        137.480406,
+                        35.892991
+                  ]
+            },
+            {
+                  "name": "Makuiwa",
+                  "text": "Ez a hatalmas, függönyre emlékeztető vulkanikus sziklafal az Ontake-hegy korábbi aktivitása során jött létre.",
+                  "category": "landmark",
+                  "coords": [
+                        137.54436,
+                        35.834036
+                  ]
+            },
+            {
+                  "name": "Kongo-Do",
+                  "text": "Az Ontake-hegy lejtőin álló sintoista csarnokot hagyományosan a hegyi aszkéták használják spirituális gyakorlataikhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        137.498778,
+                        35.895005
+                  ]
+            },
+            {
+                  "name": "Ontake-jinja Shrine",
+                  "text": "Ezt a szentélyt az Ontake-hegy istenségének szentelték, és a hegyi zarándokok fontos kiindulópontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        137.51128,
+                        35.899358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Ontake",
+                  "text": "Acest vulcan activ cu înălțimea de 3.067 de metri este un loc sacru de pelerinaj și al doilea cel mai înalt vulcan din Japonia.",
+                  "category": "natural",
+                  "coords": [
+                        137.480406,
+                        35.892991
+                  ]
+            },
+            {
+                  "name": "Makuiwa",
+                  "text": "Această formațiune stâncoasă masivă din rocă vulcanică seamănă cu o cortină uriașă și a fost formată de activitatea Muntelui Ontake.",
+                  "category": "landmark",
+                  "coords": [
+                        137.54436,
+                        35.834036
+                  ]
+            },
+            {
+                  "name": "Kongo-Do",
+                  "text": "Această sală Shinto de pe pantele Muntelui Ontake este folosită tradițional de asceții montani pentru practicile lor spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        137.498778,
+                        35.895005
+                  ]
+            },
+            {
+                  "name": "Ontake-jinja Shrine",
+                  "text": "Acest sanctuar sacru este dedicat zeității Muntelui Ontake și servește ca punct de plecare major pentru pelerinii montani.",
+                  "category": "landmark",
+                  "coords": [
+                        137.51128,
+                        35.899358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Ontake",
+                  "text": "At 3,067 meters, this active volcano is a sacred pilgrimage site and the second-highest volcano in Japan.",
+                  "category": "natural",
+                  "coords": [
+                        137.480406,
+                        35.892991
+                  ]
+            },
+            {
+                  "name": "Makuiwa",
+                  "text": "This massive rock formation of volcanic stone resembles a giant curtain and was formed by the activity of Mount Ontake.",
+                  "category": "landmark",
+                  "coords": [
+                        137.54436,
+                        35.834036
+                  ]
+            },
+            {
+                  "name": "Kongo-Do",
+                  "text": "This Shinto hall on the slopes of Mt. Ontake is traditionally used by mountain ascetics for their spiritual practices.",
+                  "category": "landmark",
+                  "coords": [
+                        137.498778,
+                        35.895005
+                  ]
+            },
+            {
+                  "name": "Ontake-jinja Shrine",
+                  "text": "Dedicated to the deity of Mount Ontake, this sacred shrine serves as a major gateway for mountain pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        137.51128,
+                        35.899358
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JP-20",
     coords: [137.48, 35.89],
@@ -615,7 +7428,628 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un grand stratovolcan et le deuxième plus haut volcan du Japon. Il est considéré comme une montagne sacrée.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-berg-ontake-nature-v2.webp"},
   {
-    id: "jp-aokigahara-wald-nature-v2",
+    id: "jp-aokigahara-wald-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Four Mountains",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die dichten Baumkronen des Aokigahara-Waldes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        138.700428,
+                        35.521168
+                  ]
+            },
+            {
+                  "name": "KAGIKAKE pass",
+                  "text": "Ein malerischer Bergpass, der für seine weiten Perspektiven auf die Region der Fuji-Fünf-Seen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        138.663123,
+                        35.517647
+                  ]
+            },
+            {
+                  "name": "Kunimasu Museum",
+                  "text": "Das Museum erzählt die Geschichte der seltenen Kunimasu-Forelle, die nach ihrer Wiederentdeckung als Sensation galt.",
+                  "category": "museum",
+                  "coords": [
+                        138.671793,
+                        35.494172
+                  ]
+            },
+            {
+                  "name": "Fugaku Wind Cave",
+                  "text": "Diese natürliche Lavahöhle hält ganzjährig eine Temperatur von etwa 3 Grad und diente früher als Kühlschrank.",
+                  "category": "natural",
+                  "coords": [
+                        138.657503,
+                        35.477501
+                  ]
+            },
+            {
+                  "name": "Narusawa Ice Cave",
+                  "text": "Eine vor 1.200 Jahren entstandene Lavahöhle, die für ihre ganzjährigen Eissäulen und engen Tunnel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        138.666539,
+                        35.474791
+                  ]
+            },
+            {
+                  "name": "Sankodai",
+                  "text": "Ein dreifacher Aussichtspunkt mit Blick auf die drei Seen Saiko, Shojiko und Motosuko gleichzeitig.",
+                  "category": "natural",
+                  "coords": [
+                        138.682471,
+                        35.48792
+                  ]
+            },
+            {
+                  "name": "Fujiten Snow Resort",
+                  "text": "Ein familienfreundliches Skigebiet, das an den nördlichen Ausläufern des Berges Fuji liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        138.687761,
+                        35.44203
+                  ]
+            },
+            {
+                  "name": "Nount Igadono",
+                  "text": "Ein markanter Gipfel in der Bergkette, die den dichten Aokigahara-Wald umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        138.686471,
+                        35.431582
+                  ]
+            },
+            {
+                  "name": "Mount Omuro",
+                  "text": "Ein ruhender Nebenkrater des Fuji, der vollständig mit dichtem Wald bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        138.653611,
+                        35.440833
+                  ]
+            },
+            {
+                  "name": "Omuro Cave",
+                  "text": "Eine versteckte Lavahöhle am Fuße des bewaldeten Berges Omuro im Aokigahara-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        138.658549,
+                        35.452045
+                  ]
+            },
+            {
+                  "name": "Aokigahara",
+                  "text": "Ein dichter Wald auf erstarrter Lava, der für sein unwegsames vulkanisches Gelände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        138.649635,
+                        35.452828
+                  ]
+            },
+            {
+                  "name": "Fuji Fuketsu Cave",
+                  "text": "Ein vertikales Lavahöhlensystem, das tief in der vulkanischen Wildnis des Aokigahara-Waldes liegt.",
+                  "category": "natural",
+                  "coords": [
+                        138.652353,
+                        35.451162
+                  ]
+            },
+            {
+                  "name": "Mt. Ryugatake",
+                  "text": "Ein Gipfel, der für den „Diamanten-Fuji“-Effekt bekannt ist, wenn die Sonne genau über dem Krater steht.",
+                  "category": "natural",
+                  "coords": [
+                        138.583666,
+                        35.446642
+                  ]
+            },
+            {
+                  "name": "Fuji Shiba-sakura Festival Observation Deck",
+                  "text": "Eine hohe Aussichtsplattform mit Blick auf das Blütenmeer aus 800.000 pinkfarbenen Moosphlox-Pflanzen.",
+                  "category": "natural",
+                  "coords": [
+                        138.600303,
+                        35.443353
+                  ]
+            },
+            {
+                  "name": "Nakanokura Pass View Point",
+                  "text": "Dieser Aussichtspunkt lieferte das Motiv des Berges Fuji, das auf dem japanischen 1.000-Yen-Geldschein zu sehen ist.",
+                  "category": "natural",
+                  "coords": [
+                        138.572994,
+                        35.475681
+                  ]
+            },
+            {
+                  "name": "Panorama Hill",
+                  "text": "Ein Wanderziel, das eine klare Aussicht auf das „Grüne Meer“ des Aokigahara-Waldes und den Fuji bietet.",
+                  "category": "natural",
+                  "coords": [
+                        138.59754,
+                        35.482416
+                  ]
+            },
+            {
+                  "name": "Fuji Chobo no Yu - Yurari",
+                  "text": "Ein öffentliches Badehaus mit verschiedenen Thermalbecken, die einen direkten Blick auf den Fuji ermöglichen.",
+                  "category": "recreational",
+                  "coords": [
+                        138.691445,
+                        35.476333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Four Mountains",
+                  "text": "Kilátópont, amely széles rálátást nyújt az Aokigahara-erdő sűrű lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        138.700428,
+                        35.521168
+                  ]
+            },
+            {
+                  "name": "KAGIKAKE pass",
+                  "text": "Festői hegyi hágó, amely a Fuji öt tó régiójára nyíló tágas perspektíváiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.663123,
+                        35.517647
+                  ]
+            },
+            {
+                  "name": "Kunimasu Museum",
+                  "text": "A múzeum a ritka Kunimasu pisztráng történetét meséli el, amelynek újrafelfedezése szenzációnak számított.",
+                  "category": "museum",
+                  "coords": [
+                        138.671793,
+                        35.494172
+                  ]
+            },
+            {
+                  "name": "Fugaku Wind Cave",
+                  "text": "Ez a természetes lávabarlang egész évben 3 fok körüli hőmérsékletet tart, és régen hűtőként szolgált.",
+                  "category": "natural",
+                  "coords": [
+                        138.657503,
+                        35.477501
+                  ]
+            },
+            {
+                  "name": "Narusawa Ice Cave",
+                  "text": "Egy 1200 évvel ezelőtt keletkezett lávabarlang, amely egész évben megmaradó jégoszlopairól és szűk alagútjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        138.666539,
+                        35.474791
+                  ]
+            },
+            {
+                  "name": "Sankodai",
+                  "text": "Hármas kilátóhely, ahonnan egyszerre látható a Saiko, a Shojiko és a Motosuko tó.",
+                  "category": "natural",
+                  "coords": [
+                        138.682471,
+                        35.48792
+                  ]
+            },
+            {
+                  "name": "Fujiten Snow Resort",
+                  "text": "Családbarát síterep, amely a Fuji-hegy északi lábánál fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        138.687761,
+                        35.44203
+                  ]
+            },
+            {
+                  "name": "Nount Igadono",
+                  "text": "Jellegzetes csúcs az Aokigahara-erdőt körülvevő hegyláncban.",
+                  "category": "natural",
+                  "coords": [
+                        138.686471,
+                        35.431582
+                  ]
+            },
+            {
+                  "name": "Mount Omuro",
+                  "text": "A Fuji egyik szunnyadó mellékkrátere, amelyet teljesen sűrű erdő borít.",
+                  "category": "natural",
+                  "coords": [
+                        138.653611,
+                        35.440833
+                  ]
+            },
+            {
+                  "name": "Omuro Cave",
+                  "text": "Rejtett lávabarlang az erdős Omuro-hegy lábánál, az Aokigahara területén.",
+                  "category": "landmark",
+                  "coords": [
+                        138.658549,
+                        35.452045
+                  ]
+            },
+            {
+                  "name": "Aokigahara",
+                  "text": "Dermedt láván kialakult sűrű erdő, amely nehéz vulkanikus terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        138.649635,
+                        35.452828
+                  ]
+            },
+            {
+                  "name": "Fuji Fuketsu Cave",
+                  "text": "Függőleges lávabarlang-rendszer, amely mélyen az Aokigahara-erdő vulkanikus vadonjában található.",
+                  "category": "natural",
+                  "coords": [
+                        138.652353,
+                        35.451162
+                  ]
+            },
+            {
+                  "name": "Mt. Ryugatake",
+                  "text": "A „Gyémánt Fuji” jelenségről ismert csúcs, amikor a nap pontosan a kráter felett áll.",
+                  "category": "natural",
+                  "coords": [
+                        138.583666,
+                        35.446642
+                  ]
+            },
+            {
+                  "name": "Fuji Shiba-sakura Festival Observation Deck",
+                  "text": "Magaslati kilátóterasz, ahonnan 800 000 virágzó rózsaszín lángvirágra nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        138.600303,
+                        35.443353
+                  ]
+            },
+            {
+                  "name": "Nakanokura Pass View Point",
+                  "text": "Ez a kilátópont szolgáltatta a japán 1000 jenes bankjegyen látható Fuji-hegy képének mintáját.",
+                  "category": "natural",
+                  "coords": [
+                        138.572994,
+                        35.475681
+                  ]
+            },
+            {
+                  "name": "Panorama Hill",
+                  "text": "Túraútvonal, ahonnan tiszta kilátás nyílik az Aokigahara-erdő „zöld tengerére” és a Fujira.",
+                  "category": "natural",
+                  "coords": [
+                        138.59754,
+                        35.482416
+                  ]
+            },
+            {
+                  "name": "Fuji Chobo no Yu - Yurari",
+                  "text": "Nyilvános fürdőház különböző termálmedencékkel, amelyekből közvetlen kilátás nyílik a Fujira.",
+                  "category": "recreational",
+                  "coords": [
+                        138.691445,
+                        35.476333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Four Mountains",
+                  "text": "Un punct de belvedere care oferă o vedere largă asupra coroanelor dense ale pădurii Aokigahara.",
+                  "category": "natural",
+                  "coords": [
+                        138.700428,
+                        35.521168
+                  ]
+            },
+            {
+                  "name": "KAGIKAKE pass",
+                  "text": "O trecătoare montană pitorească, cunoscută pentru perspectivele sale largi asupra regiunii celor cinci lacuri Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        138.663123,
+                        35.517647
+                  ]
+            },
+            {
+                  "name": "Kunimasu Museum",
+                  "text": "Muzeul spune povestea rarei păstrăv Kunimasu, a cărei redescoperire a fost considerată o senzație.",
+                  "category": "museum",
+                  "coords": [
+                        138.671793,
+                        35.494172
+                  ]
+            },
+            {
+                  "name": "Fugaku Wind Cave",
+                  "text": "Această peșteră naturală de lavă menține o temperatură de aproximativ 3 grade tot anul și a servit în trecut drept frigider.",
+                  "category": "natural",
+                  "coords": [
+                        138.657503,
+                        35.477501
+                  ]
+            },
+            {
+                  "name": "Narusawa Ice Cave",
+                  "text": "O peșteră de lavă formată acum 1.200 de ani, cunoscută pentru coloanele sale de gheață perene și tunelurile înguste.",
+                  "category": "natural",
+                  "coords": [
+                        138.666539,
+                        35.474791
+                  ]
+            },
+            {
+                  "name": "Sankodai",
+                  "text": "Un punct de belvedere triplu cu vedere spre lacurile Saiko, Shojiko și Motosuko simultan.",
+                  "category": "natural",
+                  "coords": [
+                        138.682471,
+                        35.48792
+                  ]
+            },
+            {
+                  "name": "Fujiten Snow Resort",
+                  "text": "O stațiune de schi potrivită pentru familii, situată la poalele nordice ale Muntelui Fuji.",
+                  "category": "landmark",
+                  "coords": [
+                        138.687761,
+                        35.44203
+                  ]
+            },
+            {
+                  "name": "Nount Igadono",
+                  "text": "Un vârf proeminent în lanțul muntos care înconjoară pădurii deasă Aokigahara.",
+                  "category": "natural",
+                  "coords": [
+                        138.686471,
+                        35.431582
+                  ]
+            },
+            {
+                  "name": "Mount Omuro",
+                  "text": "Un crater secundar latent al muntelui Fuji, acoperit în întregime de o pădure deasă.",
+                  "category": "natural",
+                  "coords": [
+                        138.653611,
+                        35.440833
+                  ]
+            },
+            {
+                  "name": "Omuro Cave",
+                  "text": "O peșteră de lavă ascunsă la baza muntelui împădurit Omuro, în zona Aokigahara.",
+                  "category": "landmark",
+                  "coords": [
+                        138.658549,
+                        35.452045
+                  ]
+            },
+            {
+                  "name": "Aokigahara",
+                  "text": "O pădure deasă pe lavă solidificată, cunoscută pentru terenul său vulcanic accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        138.649635,
+                        35.452828
+                  ]
+            },
+            {
+                  "name": "Fuji Fuketsu Cave",
+                  "text": "Un sistem vertical de peșteri de lavă, situat adânc în sălbăticia vulcanică a pădurii Aokigahara.",
+                  "category": "natural",
+                  "coords": [
+                        138.652353,
+                        35.451162
+                  ]
+            },
+            {
+                  "name": "Mt. Ryugatake",
+                  "text": "Un vârf cunoscut pentru efectul „Fuji de Diamant”, când soarele se aliniază exact deasupra craterului.",
+                  "category": "natural",
+                  "coords": [
+                        138.583666,
+                        35.446642
+                  ]
+            },
+            {
+                  "name": "Fuji Shiba-sakura Festival Observation Deck",
+                  "text": "O platformă de belvedere înaltă, cu vedere la marea de flori formată din 800.000 de plante de phlox roz.",
+                  "category": "natural",
+                  "coords": [
+                        138.600303,
+                        35.443353
+                  ]
+            },
+            {
+                  "name": "Nakanokura Pass View Point",
+                  "text": "Acest punct de belvedere a oferit motivul Muntelui Fuji care apare pe bancnota japoneză de 1.000 de yeni.",
+                  "category": "natural",
+                  "coords": [
+                        138.572994,
+                        35.475681
+                  ]
+            },
+            {
+                  "name": "Panorama Hill",
+                  "text": "O destinație de drumeție care oferă o vedere clară asupra „mării verzi” a pădurii Aokigahara și a muntelui Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        138.59754,
+                        35.482416
+                  ]
+            },
+            {
+                  "name": "Fuji Chobo no Yu - Yurari",
+                  "text": "O baie publică cu diverse bazine termale care oferă o vedere directă către Muntele Fuji.",
+                  "category": "recreational",
+                  "coords": [
+                        138.691445,
+                        35.476333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Four Mountains",
+                  "text": "An observation point offering a broad view over the dense canopy of the Aokigahara forest.",
+                  "category": "natural",
+                  "coords": [
+                        138.700428,
+                        35.521168
+                  ]
+            },
+            {
+                  "name": "KAGIKAKE pass",
+                  "text": "A scenic mountain pass known for its sweeping perspectives of the Fuji Five Lakes region.",
+                  "category": "natural",
+                  "coords": [
+                        138.663123,
+                        35.517647
+                  ]
+            },
+            {
+                  "name": "Kunimasu Museum",
+                  "text": "The museum tells the story of the rare Kunimasu trout, whose rediscovery was considered a sensation.",
+                  "category": "museum",
+                  "coords": [
+                        138.671793,
+                        35.494172
+                  ]
+            },
+            {
+                  "name": "Fugaku Wind Cave",
+                  "text": "This natural lava cave maintains a temperature of about 3 degrees year-round and formerly served as a refrigerator.",
+                  "category": "natural",
+                  "coords": [
+                        138.657503,
+                        35.477501
+                  ]
+            },
+            {
+                  "name": "Narusawa Ice Cave",
+                  "text": "A lava cave formed 1,200 years ago, known for its year-round ice pillars and narrow tunnels.",
+                  "category": "natural",
+                  "coords": [
+                        138.666539,
+                        35.474791
+                  ]
+            },
+            {
+                  "name": "Sankodai",
+                  "text": "A triple observation point overlooking lakes Saiko, Shojiko, and Motosuko simultaneously.",
+                  "category": "natural",
+                  "coords": [
+                        138.682471,
+                        35.48792
+                  ]
+            },
+            {
+                  "name": "Fujiten Snow Resort",
+                  "text": "A family-friendly ski resort located on the northern foothills of Mount Fuji.",
+                  "category": "landmark",
+                  "coords": [
+                        138.687761,
+                        35.44203
+                  ]
+            },
+            {
+                  "name": "Nount Igadono",
+                  "text": "A prominent peak within the mountain range surrounding the dense Aokigahara forest.",
+                  "category": "natural",
+                  "coords": [
+                        138.686471,
+                        35.431582
+                  ]
+            },
+            {
+                  "name": "Mount Omuro",
+                  "text": "A dormant lateral cone of Mt Fuji that is entirely covered in dense forest.",
+                  "category": "natural",
+                  "coords": [
+                        138.653611,
+                        35.440833
+                  ]
+            },
+            {
+                  "name": "Omuro Cave",
+                  "text": "A hidden lava cave located at the base of the forested Mount Omuro in the Aokigahara area.",
+                  "category": "landmark",
+                  "coords": [
+                        138.658549,
+                        35.452045
+                  ]
+            },
+            {
+                  "name": "Aokigahara",
+                  "text": "A dense forest grown on hardened lava, known for its rugged volcanic terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        138.649635,
+                        35.452828
+                  ]
+            },
+            {
+                  "name": "Fuji Fuketsu Cave",
+                  "text": "A vertical lava cave system located deep within the volcanic wilderness of the Aokigahara forest.",
+                  "category": "natural",
+                  "coords": [
+                        138.652353,
+                        35.451162
+                  ]
+            },
+            {
+                  "name": "Mt. Ryugatake",
+                  "text": "A peak famous for the 'Diamond Fuji' effect when the sun aligns perfectly over the crater.",
+                  "category": "natural",
+                  "coords": [
+                        138.583666,
+                        35.446642
+                  ]
+            },
+            {
+                  "name": "Fuji Shiba-sakura Festival Observation Deck",
+                  "text": "A high observation deck overlooking the sea of 800,000 blooming pink moss phlox flowers.",
+                  "category": "natural",
+                  "coords": [
+                        138.600303,
+                        35.443353
+                  ]
+            },
+            {
+                  "name": "Nakanokura Pass View Point",
+                  "text": "This viewpoint provided the motif of Mount Fuji that appears on the Japanese 1,000 yen banknote.",
+                  "category": "natural",
+                  "coords": [
+                        138.572994,
+                        35.475681
+                  ]
+            },
+            {
+                  "name": "Panorama Hill",
+                  "text": "A hiking destination offering clear vistas of the Aokigahara 'Sea of Trees' and Mount Fuji.",
+                  "category": "natural",
+                  "coords": [
+                        138.59754,
+                        35.482416
+                  ]
+            },
+            {
+                  "name": "Fuji Chobo no Yu - Yurari",
+                  "text": "A public bathhouse featuring various thermal pools that offer a direct view of Mount Fuji.",
+                  "category": "recreational",
+                  "coords": [
+                        138.691445,
+                        35.476333
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "JP-19",
     coords: [138.65, 35.47],
@@ -662,7 +8096,628 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Forêt située au pied du mont Fuji, réputée pour sa densité et son silence.", "Située au centre du Japon, sur l'île de Honshū.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Documentée dans des études locales et régionales."],
     }, image: "/poi-images/jp-aokigahara-wald-nature-v2.webp"},
   {
-    id: "jp-chuzenji-see-nature-v2",
+    id: "jp-chuzenji-see-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Usagi Shima (Rabbit Island)",
+                  "text": "Diese kleine Halbinsel am Chuzenji-See bietet malerische Wanderwege und einen Blick auf den Vulkan Nantai.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425258,
+                        36.801854
+                  ]
+            },
+            {
+                  "name": "Sources of Yumoto Onsen",
+                  "text": "An diesem geothermalen Ort sprudelt heißes, schwefelhaltiges Wasser direkt aus dem sumpfigen Boden.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425035,
+                        36.808272
+                  ]
+            },
+            {
+                  "name": "Odashirogahara Wetland",
+                  "text": "Dieses Hochmoor ist berühmt für die 'Einsame Birke' und seine weiten, jahreszeitlich wechselnden Gräser.",
+                  "category": "natural",
+                  "coords": [
+                        139.4225,
+                        36.77198
+                  ]
+            },
+            {
+                  "name": "Yutaki Falls Observation Deck",
+                  "text": "Diese Plattform bietet einen direkten Blick auf den 70 Meter hohen Wasserfall, der über eine Lavawand stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        139.428363,
+                        36.795006
+                  ]
+            },
+            {
+                  "name": "Yunoko-Yudaki Observation Deck",
+                  "text": "Dieser Aussichtspunkt blickt auf den Ort, an dem der Yunoko-See in den imposanten Yutaki-Wasserfall übergeht.",
+                  "category": "natural",
+                  "coords": [
+                        139.428475,
+                        36.796631
+                  ]
+            },
+            {
+                  "name": "Senjogahara Observation Deck",
+                  "text": "Von hier aus hat man einen Panoramablick über das 400 Hektar große Senjogahara-Hochmoor und die umliegenden Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        139.450222,
+                        36.7772
+                  ]
+            },
+            {
+                  "name": "Mt. Taro",
+                  "text": "Dieser 2.368 Meter hohe Gipfel gehört zur Nikko-Vulkangruppe und ist ein beliebtes Ziel für Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        139.482797,
+                        36.817904
+                  ]
+            },
+            {
+                  "name": "Mt. Komanago",
+                  "text": "Der Berg Komanago ist ein 2.323 Meter hoher Vulkanberg, der Teil der heiligen Berge von Nikko ist.",
+                  "category": "natural",
+                  "coords": [
+                        139.510855,
+                        36.807267
+                  ]
+            },
+            {
+                  "name": "Futarayamanoookami",
+                  "text": "Dieses Denkmal ehrt die Gottheit des Berges Futarasan, der seit dem Altertum als heilig verehrt wird.",
+                  "category": "historical",
+                  "coords": [
+                        139.48985,
+                        36.764756
+                  ]
+            },
+            {
+                  "name": "Mt. Sha",
+                  "text": "Dieser 1.827 Meter hohe Berg bietet Wanderern eine spektakuläre Aussicht auf den Chuzenji-See.",
+                  "category": "natural",
+                  "coords": [
+                        139.444775,
+                        36.719672
+                  ]
+            },
+            {
+                  "name": "Fish and Forest Observation Garden",
+                  "text": "Dieses Forschungszentrum informiert Besucher über die Forellen- und Lachszucht in den Gewässern von Nikko.",
+                  "category": "museum",
+                  "coords": [
+                        139.450944,
+                        36.755316
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "Diese Aussichtsplattform bietet einen weiten Blick über die dichten Wälder des Nikko-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        139.451575,
+                        36.758098
+                  ]
+            },
+            {
+                  "name": "Yukawa",
+                  "text": "Der Fluss Yukawa verbindet den Yunoko-See mit dem Chuzenji-See und ist bekannt für sein klares Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        139.447653,
+                        36.770187
+                  ]
+            },
+            {
+                  "name": "Mount Nikko-Shirane",
+                  "text": "Mit 2.578 Metern ist dies der höchste Gipfel der Kanto-Region und ein noch immer aktiver Vulkan.",
+                  "category": "natural",
+                  "coords": [
+                        139.375922,
+                        36.798614
+                  ]
+            },
+            {
+                  "name": "Onsen-ji Temple",
+                  "text": "In diesem Tempel können Besucher in heißen Thermalquellen baden, die als heilig und heilend gelten.",
+                  "category": "religious",
+                  "coords": [
+                        139.423396,
+                        36.80843
+                  ]
+            },
+            {
+                  "name": "Sangetsu Hotel Public Bath",
+                  "text": "Dieses traditionelle japanische Bad bietet Entspannung mit mineralreichem Thermalwasser direkt im Hotel.",
+                  "category": "recreational",
+                  "coords": [
+                        139.425357,
+                        36.806755
+                  ]
+            },
+            {
+                  "name": "Anyo no Yu",
+                  "text": "Dieses kostenlose öffentliche Fußbad in Nikko Yumoto wird direkt von den lokalen Schwefelquellen gespeist.",
+                  "category": "recreational",
+                  "coords": [
+                        139.424449,
+                        36.806826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Usagi Shima (Rabbit Island)",
+                  "text": "A Chuzenji-tó ezen kis félszigete festői ösvényeket és szép kilátást kínál a Nantai-vulkánra.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425258,
+                        36.801854
+                  ]
+            },
+            {
+                  "name": "Sources of Yumoto Onsen",
+                  "text": "Ezen a geotermikus helyen forró, kénes víz tör fel közvetlenül a mocsaras talajból.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425035,
+                        36.808272
+                  ]
+            },
+            {
+                  "name": "Odashirogahara Wetland",
+                  "text": "Ez a magaslati lápvidék híres a „Magányos Nyírfáról” és a vöröses színűvé váló rétjéről.",
+                  "category": "natural",
+                  "coords": [
+                        139.4225,
+                        36.77198
+                  ]
+            },
+            {
+                  "name": "Yutaki Falls Observation Deck",
+                  "text": "Ez a kilátó közvetlen rálátást nyújt a 70 méter magas vízesésre, amely egy lávafalon zúdul le.",
+                  "category": "natural",
+                  "coords": [
+                        139.428363,
+                        36.795006
+                  ]
+            },
+            {
+                  "name": "Yunoko-Yudaki Observation Deck",
+                  "text": "Erről a pontról rálátni arra a helyre, ahol a Yunoko-tó vize az impozáns Yutaki-vízeséssé válik.",
+                  "category": "natural",
+                  "coords": [
+                        139.428475,
+                        36.796631
+                  ]
+            },
+            {
+                  "name": "Senjogahara Observation Deck",
+                  "text": "Innen panorámás kilátás nyílik a 400 hektáros Senjogahara-lápvidékre és a környező hegycsúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        139.450222,
+                        36.7772
+                  ]
+            },
+            {
+                  "name": "Mt. Taro",
+                  "text": "Ez a 2368 méter magas csúcs a Nikkó-vulkáncsoport tagja, és a hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        139.482797,
+                        36.817904
+                  ]
+            },
+            {
+                  "name": "Mt. Komanago",
+                  "text": "A Komanago-hegy egy 2323 méter magas vulkáni csúcs, amely Nikkó szent hegyeinek részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        139.510855,
+                        36.807267
+                  ]
+            },
+            {
+                  "name": "Futarayamanoookami",
+                  "text": "Ez az emlékmű a Futarasan-hegy istenségének tiszteletére készült, akit ősidők óta szentként tisztelnek.",
+                  "category": "historical",
+                  "coords": [
+                        139.48985,
+                        36.764756
+                  ]
+            },
+            {
+                  "name": "Mt. Sha",
+                  "text": "Ez az 1827 méter magas hegy látványos kilátást kínál a túrázóknak a Chuzenji-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        139.444775,
+                        36.719672
+                  ]
+            },
+            {
+                  "name": "Fish and Forest Observation Garden",
+                  "text": "Ez a kutatóközpont a Nikkó vizeiben zajló pisztráng- és lazactenyésztésről tájékoztatja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        139.450944,
+                        36.755316
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "Ez a kilátóterasz széles rálátást biztosít a Nikkó Nemzeti Park sűrű erdőire.",
+                  "category": "natural",
+                  "coords": [
+                        139.451575,
+                        36.758098
+                  ]
+            },
+            {
+                  "name": "Yukawa",
+                  "text": "A Yukawa-folyó összeköti a Yunoko-tavat a Chuzenji-tóval, és tiszta vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        139.447653,
+                        36.770187
+                  ]
+            },
+            {
+                  "name": "Mount Nikko-Shirane",
+                  "text": "A maga 2578 méterével ez a Kanto-régió legmagasabb csúcsa, és egy máig aktív vulkán.",
+                  "category": "natural",
+                  "coords": [
+                        139.375922,
+                        36.798614
+                  ]
+            },
+            {
+                  "name": "Onsen-ji Temple",
+                  "text": "Ebben a templomban a látogatók szentnek és gyógyhatásúnak tartott termálvízben fürödhetnek.",
+                  "category": "religious",
+                  "coords": [
+                        139.423396,
+                        36.80843
+                  ]
+            },
+            {
+                  "name": "Sangetsu Hotel Public Bath",
+                  "text": "Ez a hagyományos japán fürdő ásványi anyagokban gazdag termálvízzel kínál felfrissülést a szállodában.",
+                  "category": "recreational",
+                  "coords": [
+                        139.425357,
+                        36.806755
+                  ]
+            },
+            {
+                  "name": "Anyo no Yu",
+                  "text": "Ezt a nikkó-yumotói ingyenes lábfürdőt közvetlenül a helyi kénes források táplálják.",
+                  "category": "recreational",
+                  "coords": [
+                        139.424449,
+                        36.806826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Usagi Shima (Rabbit Island)",
+                  "text": "Această mică peninsulă de pe lacul Chuzenji oferă poteci pitorești și vedere spre vulcanul Nantai.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425258,
+                        36.801854
+                  ]
+            },
+            {
+                  "name": "Sources of Yumoto Onsen",
+                  "text": "În acest sit geotermal, apa termală sulfuroasă clocotește direct din pământul mlăștinos.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425035,
+                        36.808272
+                  ]
+            },
+            {
+                  "name": "Odashirogahara Wetland",
+                  "text": "Această zonă mlăștinoasă de mare altitudine este celebră pentru „mesteacănul singuratic” și vegetația sa variată.",
+                  "category": "natural",
+                  "coords": [
+                        139.4225,
+                        36.77198
+                  ]
+            },
+            {
+                  "name": "Yutaki Falls Observation Deck",
+                  "text": "Această platformă oferă o vedere directă asupra cascadei de 70 de metri care se prăbușește peste un perete de lavă.",
+                  "category": "natural",
+                  "coords": [
+                        139.428363,
+                        36.795006
+                  ]
+            },
+            {
+                  "name": "Yunoko-Yudaki Observation Deck",
+                  "text": "Acest punct de observație oferă o vedere asupra locului unde lacul Yunoko se transformă în cascada Yutaki.",
+                  "category": "natural",
+                  "coords": [
+                        139.428475,
+                        36.796631
+                  ]
+            },
+            {
+                  "name": "Senjogahara Observation Deck",
+                  "text": "De aici aveți o vedere panoramică asupra mlaștinii Senjogahara de 400 de hectare și a vârfurilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        139.450222,
+                        36.7772
+                  ]
+            },
+            {
+                  "name": "Mt. Taro",
+                  "text": "Acest vârf de 2.368 de metri face parte din grupul vulcanic Nikko și este o destinație populară pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        139.482797,
+                        36.817904
+                  ]
+            },
+            {
+                  "name": "Mt. Komanago",
+                  "text": "Muntele Komanago este un vârf vulcanic de 2.323 de metri, făcând parte din munții sacri din Nikko.",
+                  "category": "natural",
+                  "coords": [
+                        139.510855,
+                        36.807267
+                  ]
+            },
+            {
+                  "name": "Futarayamanoookami",
+                  "text": "Acest monument onorează zeitatea muntelui Futarasan, venerat ca fiind sacru încă din antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        139.48985,
+                        36.764756
+                  ]
+            },
+            {
+                  "name": "Mt. Sha",
+                  "text": "Acest munte de 1.827 de metri oferă drumeților o vedere spectaculoasă asupra lacului Chuzenji.",
+                  "category": "natural",
+                  "coords": [
+                        139.444775,
+                        36.719672
+                  ]
+            },
+            {
+                  "name": "Fish and Forest Observation Garden",
+                  "text": "Acest centru de cercetare informează vizitatorii despre creșterea păstrăvului și somonului în apele din Nikko.",
+                  "category": "museum",
+                  "coords": [
+                        139.450944,
+                        36.755316
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "Această platformă de observație oferă o priveliște largă asupra pădurilor dese din Parcul Național Nikko.",
+                  "category": "natural",
+                  "coords": [
+                        139.451575,
+                        36.758098
+                  ]
+            },
+            {
+                  "name": "Yukawa",
+                  "text": "Râul Yukawa face legătura între lacul Yunoko și lacul Chuzenji, fiind cunoscut pentru apele sale limpezi.",
+                  "category": "natural",
+                  "coords": [
+                        139.447653,
+                        36.770187
+                  ]
+            },
+            {
+                  "name": "Mount Nikko-Shirane",
+                  "text": "La 2.578 de metri, acesta este cel mai înalt vârf din regiunea Kanto și un vulcan încă activ.",
+                  "category": "natural",
+                  "coords": [
+                        139.375922,
+                        36.798614
+                  ]
+            },
+            {
+                  "name": "Onsen-ji Temple",
+                  "text": "În acest templu, vizitatorii se pot scălda în izvoare termale considerate sacre și curative.",
+                  "category": "religious",
+                  "coords": [
+                        139.423396,
+                        36.80843
+                  ]
+            },
+            {
+                  "name": "Sangetsu Hotel Public Bath",
+                  "text": "Această baie japoneză tradițională oferă relaxare cu apă termală bogată în minerale chiar în incinta hotelului.",
+                  "category": "recreational",
+                  "coords": [
+                        139.425357,
+                        36.806755
+                  ]
+            },
+            {
+                  "name": "Anyo no Yu",
+                  "text": "Această baie publică gratuită pentru picioare din Nikko Yumoto este alimentată direct de izvoarele sulfuroase locale.",
+                  "category": "recreational",
+                  "coords": [
+                        139.424449,
+                        36.806826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Usagi Shima (Rabbit Island)",
+                  "text": "This small peninsula on Lake Chuzenji offers scenic walking trails and views of Mount Nantai.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425258,
+                        36.801854
+                  ]
+            },
+            {
+                  "name": "Sources of Yumoto Onsen",
+                  "text": "This geothermal site features hot, sulfurous water bubbling up directly from the marshy ground.",
+                  "category": "landmark",
+                  "coords": [
+                        139.425035,
+                        36.808272
+                  ]
+            },
+            {
+                  "name": "Odashirogahara Wetland",
+                  "text": "This high-altitude wetland is famous for the 'Lonely Birch Tree' and its vast, seasonally changing grasses.",
+                  "category": "natural",
+                  "coords": [
+                        139.4225,
+                        36.77198
+                  ]
+            },
+            {
+                  "name": "Yutaki Falls Observation Deck",
+                  "text": "This platform offers a head-on view of the 70-meter high waterfall cascading down a wall of lava.",
+                  "category": "natural",
+                  "coords": [
+                        139.428363,
+                        36.795006
+                  ]
+            },
+            {
+                  "name": "Yunoko-Yudaki Observation Deck",
+                  "text": "This viewpoint overlooks the spot where Lake Yunoko plunges into the impressive Yutaki Falls.",
+                  "category": "natural",
+                  "coords": [
+                        139.428475,
+                        36.796631
+                  ]
+            },
+            {
+                  "name": "Senjogahara Observation Deck",
+                  "text": "This deck provides a panoramic view over the 400-hectare Senjogahara marshland and surrounding peaks.",
+                  "category": "natural",
+                  "coords": [
+                        139.450222,
+                        36.7772
+                  ]
+            },
+            {
+                  "name": "Mt. Taro",
+                  "text": "This 2,368-meter peak is part of the Nikko volcanic group and is a popular destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        139.482797,
+                        36.817904
+                  ]
+            },
+            {
+                  "name": "Mt. Komanago",
+                  "text": "Mount Komanago is a 2,323-meter high volcanic peak that forms part of the sacred mountains of Nikko.",
+                  "category": "natural",
+                  "coords": [
+                        139.510855,
+                        36.807267
+                  ]
+            },
+            {
+                  "name": "Futarayamanoookami",
+                  "text": "This memorial honors the deity of Mount Futarasan, which has been worshipped as sacred since ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        139.48985,
+                        36.764756
+                  ]
+            },
+            {
+                  "name": "Mt. Sha",
+                  "text": "This 1,827-meter mountain offers hikers spectacular views over Lake Chuzenji and Mount Nantai.",
+                  "category": "natural",
+                  "coords": [
+                        139.444775,
+                        36.719672
+                  ]
+            },
+            {
+                  "name": "Fish and Forest Observation Garden",
+                  "text": "This research center educates visitors about trout and salmon breeding in the waters of Nikko.",
+                  "category": "museum",
+                  "coords": [
+                        139.450944,
+                        36.755316
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "This observation platform provides a broad view over the dense forests of the Nikko National Park.",
+                  "category": "natural",
+                  "coords": [
+                        139.451575,
+                        36.758098
+                  ]
+            },
+            {
+                  "name": "Yukawa",
+                  "text": "The Yukawa River connects Lake Yunoko to Lake Chuzenji and is famous for its clear, cold waters.",
+                  "category": "natural",
+                  "coords": [
+                        139.447653,
+                        36.770187
+                  ]
+            },
+            {
+                  "name": "Mount Nikko-Shirane",
+                  "text": "At 2,578 meters, this is the highest peak in the Kanto region and remains an active volcano.",
+                  "category": "natural",
+                  "coords": [
+                        139.375922,
+                        36.798614
+                  ]
+            },
+            {
+                  "name": "Onsen-ji Temple",
+                  "text": "At this temple, visitors can bathe in hot thermal springs that are considered both sacred and medicinal.",
+                  "category": "religious",
+                  "coords": [
+                        139.423396,
+                        36.80843
+                  ]
+            },
+            {
+                  "name": "Sangetsu Hotel Public Bath",
+                  "text": "This traditional Japanese bath provides relaxation with mineral-rich thermal water within the hotel premises.",
+                  "category": "recreational",
+                  "coords": [
+                        139.425357,
+                        36.806755
+                  ]
+            },
+            {
+                  "name": "Anyo no Yu",
+                  "text": "This free public foot bath in Nikko Yumoto is fed directly by the local sulfurous springs.",
+                  "category": "recreational",
+                  "coords": [
+                        139.424449,
+                        36.806826
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "JP-09",
     coords: [139.46, 36.74],
@@ -709,7 +8764,268 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un lac pittoresque du parc national de Nikkō, formé par l'éruption du mont Nantai.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-chuzenji-see-nature-v2.webp"},
   {
-    id: "jp-yoshino-kumano-nationalpark-nature-v2",
+    id: "jp-yoshino-kumano-nationalpark-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sakura chaya Teahouse",
+                  "text": "Einst von blühenden Kirschbäumen beschattet, markieren die überwachsenen Ruinen dieses traditionellen Teehauses einen malerischen ehemaligen Rastplatz im Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        135.831743,
+                        33.778055
+                  ]
+            },
+            {
+                  "name": "Tamaki Jinja)",
+                  "text": "Dieser denkmalgeschützte Shinto-Schrein befindet sich in der bergigen Landschaft des Yoshino-Kumano-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        135.830009,
+                        33.924857
+                  ]
+            },
+            {
+                  "name": "Mount Tamaki",
+                  "text": "Dieser Berggipfel im Yoshino-Kumano-Nationalpark bietet malerische Wanderwege durch dichte, alte Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        135.831612,
+                        33.926589
+                  ]
+            },
+            {
+                  "name": "Doro-kyo Gorge)",
+                  "text": "Dieser markante Aussichtspunkt überblickt eine tiefe Schlucht, die durch steile Klippen und smaragdgrünes Wasser geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        135.89481,
+                        33.913062
+                  ]
+            },
+            {
+                  "name": "Kitayama-Kyo Gorge)",
+                  "text": "Dieser Aussichtspunkt bietet Panoramablicke auf die schroffen, bewaldeten Klippen des Kitayama-Flusstals.",
+                  "category": "natural",
+                  "coords": [
+                        135.898018,
+                        33.921823
+                  ]
+            },
+            {
+                  "name": "Akiba Shrine",
+                  "text": "Dieser lokale Shinto-Schrein ist traditionell dem Schutz vor Feuer gewidmet und liegt eingebettet in einer ruhigen natürlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        135.883671,
+                        33.912645
+                  ]
+            },
+            {
+                  "name": "Yunokuchi Onsen",
+                  "text": "Besucher können in den therapeutischen heißen Quellen dieses traditionellen, von Natur umgebenen öffentlichen Badehauses entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        135.88926,
+                        33.864401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sakura chaya Teahouse",
+                  "text": "Az egykor virágzó cseresznyefák által árnyékolt, hagyományos teaház benőtt romjai egy festői egykori pihenőhelyet jelölnek a nemzeti parkban.",
+                  "category": "historical",
+                  "coords": [
+                        135.831743,
+                        33.778055
+                  ]
+            },
+            {
+                  "name": "Tamaki Jinja)",
+                  "text": "Ez a műemlékvédelem alatt álló sintoista szentély a Josino-Kumano Nemzeti Park hegyvidéki területén található.",
+                  "category": "religious",
+                  "coords": [
+                        135.830009,
+                        33.924857
+                  ]
+            },
+            {
+                  "name": "Mount Tamaki",
+                  "text": "A Josino-Kumano Nemzeti Parkban magasodó hegycsúcs festői ösvényeket kínál sűrű, ősi erdőkön keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        135.831612,
+                        33.926589
+                  ]
+            },
+            {
+                  "name": "Doro-kyo Gorge)",
+                  "text": "Ez a lenyűgöző kilátópont egy mély szurdokra néz, amelyet meredek sziklafalak és smaragdzöld folyóvíz jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        135.89481,
+                        33.913062
+                  ]
+            },
+            {
+                  "name": "Kitayama-Kyo Gorge)",
+                  "text": "A panorámás kilátást nyújtó pontról a látogatók megcsodálhatják a Kitajama-folyó völgyének zord, erdős szikláit.",
+                  "category": "natural",
+                  "coords": [
+                        135.898018,
+                        33.921823
+                  ]
+            },
+            {
+                  "name": "Akiba Shrine",
+                  "text": "Ezt a helyi sintoista szentélyt hagyományosan a tűz elleni védelemnek szentelték, és egy csendes, természeti környezetben fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        135.883671,
+                        33.912645
+                  ]
+            },
+            {
+                  "name": "Yunokuchi Onsen",
+                  "text": "A látogatók a természet lágy ölén található hagyományos nyilvános fürdőház gyógyító termálvizében pihenhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        135.88926,
+                        33.864401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sakura chaya Teahouse",
+                  "text": "Odată umbrită de cireși înfloriți, ruinele invadate de vegetație ale acestei ceainării tradiționale marchează un fost loc de odihnă pitoresc din parcul național.",
+                  "category": "historical",
+                  "coords": [
+                        135.831743,
+                        33.778055
+                  ]
+            },
+            {
+                  "name": "Tamaki Jinja)",
+                  "text": "Acest altar șintoist de patrimoniu este situat în peisajul montan al Parcului Național Yoshino-Kumano.",
+                  "category": "religious",
+                  "coords": [
+                        135.830009,
+                        33.924857
+                  ]
+            },
+            {
+                  "name": "Mount Tamaki",
+                  "text": "Ridicându-se în Parcul Național Yoshino-Kumano, acest vârf montan oferă trasee pitorești prin păduri seculare dese.",
+                  "category": "natural",
+                  "coords": [
+                        135.831612,
+                        33.926589
+                  ]
+            },
+            {
+                  "name": "Doro-kyo Gorge)",
+                  "text": "Acest punct de belvedere dramatic oferă o priveliște spre un defileu adânc, caracterizat de stânci abrupte și ape de smarald.",
+                  "category": "natural",
+                  "coords": [
+                        135.89481,
+                        33.913062
+                  ]
+            },
+            {
+                  "name": "Kitayama-Kyo Gorge)",
+                  "text": "Oferind vederi panoramice, acest punct de observație permite vizitatorilor să admire stâncile împădurite și abrupte ale văii râului Kitayama.",
+                  "category": "natural",
+                  "coords": [
+                        135.898018,
+                        33.921823
+                  ]
+            },
+            {
+                  "name": "Akiba Shrine",
+                  "text": "Acest altar local șintoist este dedicat în mod tradițional protecției împotriva incendiilor și este amplasat într-un cadru natural liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        135.883671,
+                        33.912645
+                  ]
+            },
+            {
+                  "name": "Yunokuchi Onsen",
+                  "text": "Vizitatorii se pot relaxa în apele termale terapeutice ale acestei băi publice tradiționale, înconjurate de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        135.88926,
+                        33.864401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sakura chaya Teahouse",
+                  "text": "Once shaded by blooming cherry trees, the overgrown ruins of this traditional teahouse mark a picturesque former resting place in the national park.",
+                  "category": "historical",
+                  "coords": [
+                        135.831743,
+                        33.778055
+                  ]
+            },
+            {
+                  "name": "Tamaki Jinja",
+                  "text": "This heritage-listed Shinto shrine is located in the mountainous terrain of the Yoshino-Kumano National Park.",
+                  "category": "religious",
+                  "coords": [
+                        135.830009,
+                        33.924857
+                  ]
+            },
+            {
+                  "name": "Mount Tamaki",
+                  "text": "Rising within the Yoshino-Kumano National Park, this mountain peak offers scenic trails through dense ancient forests.",
+                  "category": "natural",
+                  "coords": [
+                        135.831612,
+                        33.926589
+                  ]
+            },
+            {
+                  "name": "Doro-kyo Gorge)",
+                  "text": "This dramatic viewpoint overlooks a deep ravine characterized by sheer cliffs and the emerald waters of the river below.",
+                  "category": "natural",
+                  "coords": [
+                        135.89481,
+                        33.913062
+                  ]
+            },
+            {
+                  "name": "Kitayama-Kyo Gorge)",
+                  "text": "Offering panoramic vistas, this viewpoint allows visitors to take in the rugged, forested cliffs of the Kitayama river valley.",
+                  "category": "natural",
+                  "coords": [
+                        135.898018,
+                        33.921823
+                  ]
+            },
+            {
+                  "name": "Akiba Shrine",
+                  "text": "This local Shinto shrine is traditionally dedicated to the protection against fire and is nestled in a quiet natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        135.883671,
+                        33.912645
+                  ]
+            },
+            {
+                  "name": "Yunokuchi Onsen",
+                  "text": "Visitors can relax in the therapeutic hot spring waters of this traditional public bathhouse surrounded by nature.",
+                  "category": "recreational",
+                  "coords": [
+                        135.88926,
+                        33.864401
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-30",
     coords: [135.84, 33.85],
@@ -756,7 +9072,124 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Un parc national s'étendant sur les préfectures de Mie, Nara et Wakayama, connu pour ses sites sacrés et ses chemins de pèlerinage.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-yoshino-kumano-nationalpark-nature-v2.webp"},
   {
-    id: "jp-ishikari-fluss-nature-v2",
+    id: "jp-ishikari-fluss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Asoiwa",
+                  "text": "Ein Berg am Ufer des Ishikari-Flusses, der weite Ausblicke auf die umliegenden landwirtschaftlichen Ebenen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        141.520654,
+                        43.307919
+                  ]
+            },
+            {
+                  "name": "Tobetsu Town Hall",
+                  "text": "Das Verwaltungszentrum einer Stadt, die für ihre engen kulturellen Bindungen an Schweden und ihre nordisch inspirierte Architektur bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        141.516969,
+                        43.223719
+                  ]
+            },
+            {
+                  "name": "Nishi Tobetsu Shrine",
+                  "text": "Ein ruhiger Shinto-Schrein in der ländlichen Gegend von Tobetsu, der lokalen Gottheiten gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        141.440526,
+                        43.185617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Asoiwa",
+                  "text": "Az Ishikari-folyó partján fekvő hegy, amely tágas kilátást nyújt a környező mezőgazdasági síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        141.520654,
+                        43.307919
+                  ]
+            },
+            {
+                  "name": "Tobetsu Town Hall",
+                  "text": "Egy olyan város közigazgatási központja, amely Svédországhoz fűződő szoros kulturális kapcsolatairól és északi stílusú építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        141.516969,
+                        43.223719
+                  ]
+            },
+            {
+                  "name": "Nishi Tobetsu Shrine",
+                  "text": "Csendes sintó szentély Tobetsu vidéki területén, amelyet a helyi istenségeknek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        141.440526,
+                        43.185617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Asoiwa",
+                  "text": "Un munte pe malul râului Ishikari, oferind vederi largi asupra câmpiilor agricole din jur.",
+                  "category": "natural",
+                  "coords": [
+                        141.520654,
+                        43.307919
+                  ]
+            },
+            {
+                  "name": "Tobetsu Town Hall",
+                  "text": "Centrul administrativ al unui oraș cunoscut pentru legăturile sale culturale strânse cu Suedia și arhitectura de inspirație nordică.",
+                  "category": "historical",
+                  "coords": [
+                        141.516969,
+                        43.223719
+                  ]
+            },
+            {
+                  "name": "Nishi Tobetsu Shrine",
+                  "text": "Un sanctuar shintoist liniștit în zona rurală din Tobetsu, dedicat zeităților locale.",
+                  "category": "religious",
+                  "coords": [
+                        141.440526,
+                        43.185617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Asoiwa",
+                  "text": "A mountain on the banks of the Ishikari River offering wide views over the surrounding agricultural plains.",
+                  "category": "natural",
+                  "coords": [
+                        141.520654,
+                        43.307919
+                  ]
+            },
+            {
+                  "name": "Tobetsu Town Hall",
+                  "text": "The administrative center of a town known for its close cultural ties to Sweden and Nordic-inspired architecture.",
+                  "category": "historical",
+                  "coords": [
+                        141.516969,
+                        43.223719
+                  ]
+            },
+            {
+                  "name": "Nishi Tobetsu Shrine",
+                  "text": "A quiet Shinto shrine in the rural area of Tobetsu, dedicated to local deities.",
+                  "category": "religious",
+                  "coords": [
+                        141.440526,
+                        43.185617
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "JP-01",
     coords: [141.47, 43.26],
@@ -850,7 +9283,520 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Le plus grand parc national du Japon, situé à Hokkaidō. Il est réputé pour sa nature sauvage préservée et ses paysages alpins.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-daisetsuzan-nationalpark-nature-v2.webp"},
   {
-    id: "jp-berg-yari-nature-v2",
+    id: "jp-berg-yari-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Oku-Maruyama",
+                  "text": "Ein zentraler Gipfel in den Nordalpen, der einen Panoramablick auf das Flusstal des Azusa und die umliegenden Hochgebirge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        137.619314,
+                        36.324124
+                  ]
+            },
+            {
+                  "name": "Mount Yari",
+                  "text": "Dieser 3.180 Meter hohe Gipfel, der den Spitznamen „Speer der Alpen“ trägt, ist berühmt für seinen außergewöhnlich scharfen und spitzen Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        137.647629,
+                        36.34198
+                  ]
+            },
+            {
+                  "name": "Mt. Ohbami",
+                  "text": "Ein hoher Gipfel am Hauptkamm der Nordalpen, nur ein kurzes Stück südlich des ikonischen Mount Yari gelegen.",
+                  "category": "natural",
+                  "coords": [
+                        137.646056,
+                        36.335812
+                  ]
+            },
+            {
+                  "name": "Mount Naka",
+                  "text": "Ein felsiger Gipfel auf dem Grat zwischen dem Berg Yari und dem Berg Minami in den Nordalpen.",
+                  "category": "natural",
+                  "coords": [
+                        137.646683,
+                        36.329817
+                  ]
+            },
+            {
+                  "name": "Mount Akaiwa",
+                  "text": "Ein Gipfel am schroffen Grat, der den Berg Yari mit dem Berg Nishidake verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        137.684053,
+                        36.343346
+                  ]
+            },
+            {
+                  "name": "Mount Nishi",
+                  "text": "Ein Gipfel, der für seinen steilen Aufstieg und den Panoramablick auf die Yari-Hotaka-Kette bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        137.67958,
+                        36.337236
+                  ]
+            },
+            {
+                  "name": "Mount Minami",
+                  "text": "Ein 3.032 Meter hoher Gipfel, der einen spektakulären Blick auf die „Daigiretto“-Lücke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        137.650752,
+                        36.319056
+                  ]
+            },
+            {
+                  "name": "Mount Kita-Hotaka",
+                  "text": "Ein zerklüfteter Granitgipfel mit den steilsten Felswänden des Hotaka-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        137.652048,
+                        36.302468
+                  ]
+            },
+            {
+                  "name": "Mount Mae-Jonen",
+                  "text": "Ein Nebengipfel des Berges Jonen mit Blick auf die Azumino-Ebene.",
+                  "category": "natural",
+                  "coords": [
+                        137.73811,
+                        36.32304
+                  ]
+            },
+            {
+                  "name": "Mount Jonen",
+                  "text": "Ein pyramidenförmiger Gipfel in den Nordalpen, der markant über dem Azumino-Tal thront.",
+                  "category": "natural",
+                  "coords": [
+                        137.727598,
+                        36.325534
+                  ]
+            },
+            {
+                  "name": "Mount Yokotoshi",
+                  "text": "Ein Gipfel auf dem Kamm entlang des malerischen Wanderwegs vom Berg Jonen zum Berg Otensho.",
+                  "category": "natural",
+                  "coords": [
+                        137.726987,
+                        36.342639
+                  ]
+            },
+            {
+                  "name": "Mt. Yumiori",
+                  "text": "Dieser nach seiner bogenähnlichen Form benannte Gipfel bietet Ausblicke auf das Hida-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        137.596524,
+                        36.34952
+                  ]
+            },
+            {
+                  "name": "Mount Nukedo",
+                  "text": "Ein Teil des Kasa-ga-take-Grats, der für seine alpine Hochflora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        137.575159,
+                        36.327659
+                  ]
+            },
+            {
+                  "name": "Mount Kasa",
+                  "text": "Der Berg zeichnet sich durch seine symmetrische Form aus, die an einen traditionellen japanischen Schirm erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        137.55039,
+                        36.315485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Oku-Maruyama",
+                  "text": "Központi csúcs az Északi-Alpokban, amely panorámás kilátást nyújt az Azusza-folyó völgyére és a környező magas hegyláncokra.",
+                  "category": "natural",
+                  "coords": [
+                        137.619314,
+                        36.324124
+                  ]
+            },
+            {
+                  "name": "Mount Yari",
+                  "text": "Az „Alpok lándzsájának” becézett 3180 méteres csúcs kivételesen éles és hegyes tetejéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        137.647629,
+                        36.34198
+                  ]
+            },
+            {
+                  "name": "Mt. Ohbami",
+                  "text": "Magas csúcs az Északi-Alpok főgerincén, közvetlenül az ikonikus Jari-hegytől délre.",
+                  "category": "natural",
+                  "coords": [
+                        137.646056,
+                        36.335812
+                  ]
+            },
+            {
+                  "name": "Mount Naka",
+                  "text": "Sziklás csúcs az Északi-Alpokban, a Jari-hegy és a Minami-hegy közötti gerincen.",
+                  "category": "natural",
+                  "coords": [
+                        137.646683,
+                        36.329817
+                  ]
+            },
+            {
+                  "name": "Mount Akaiwa",
+                  "text": "Csúcs a Jari-hegyet és a Nisidake-hegyet összekötő egyenetlen gerincen.",
+                  "category": "natural",
+                  "coords": [
+                        137.684053,
+                        36.343346
+                  ]
+            },
+            {
+                  "name": "Mount Nishi",
+                  "text": "A Jari-Hotaka-hegységre nyíló panorámájáról és meredek emelkedőjéről ismert csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        137.67958,
+                        36.337236
+                  ]
+            },
+            {
+                  "name": "Mount Minami",
+                  "text": "Egy 3032 méter magas csúcs, amely látványos kilátást nyújt a „Daigiretto” szakadékra.",
+                  "category": "natural",
+                  "coords": [
+                        137.650752,
+                        36.319056
+                  ]
+            },
+            {
+                  "name": "Mount Kita-Hotaka",
+                  "text": "Egyenetlen gránitcsúcs, amely a Hotaka-hegység legmeredekebb sziklafalaival rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        137.652048,
+                        36.302468
+                  ]
+            },
+            {
+                  "name": "Mount Mae-Jonen",
+                  "text": "A Jonen-hegy mellékcsúcsa, amely az Azumino-síkságra néz.",
+                  "category": "natural",
+                  "coords": [
+                        137.73811,
+                        36.32304
+                  ]
+            },
+            {
+                  "name": "Mount Jonen",
+                  "text": "Az Északi-Alpok piramis alakú csúcsa, amely az Azumino-völgy felől is jól látható.",
+                  "category": "natural",
+                  "coords": [
+                        137.727598,
+                        36.325534
+                  ]
+            },
+            {
+                  "name": "Mount Yokotoshi",
+                  "text": "Gerinccsúcs a Jonen-hegytől az Otensho-hegyig tartó festői túraútvonal mentén.",
+                  "category": "natural",
+                  "coords": [
+                        137.726987,
+                        36.342639
+                  ]
+            },
+            {
+                  "name": "Mt. Yumiori",
+                  "text": "Az íj alakjáról elnevezett csúcsról kiváló kilátás nyílik a Hida-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        137.596524,
+                        36.34952
+                  ]
+            },
+            {
+                  "name": "Mount Nukedo",
+                  "text": "A Kasza-ga-take gerinc része, amely magashegyi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        137.575159,
+                        36.327659
+                  ]
+            },
+            {
+                  "name": "Mount Kasa",
+                  "text": "A hegy szimmetrikus alakjáról ismert, amely egy hagyományos japán esernyőre emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        137.55039,
+                        36.315485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Oku-Maruyama",
+                  "text": "Un vârf central din Alpii Nordici care oferă vedere panoramică asupra văii râului Azusa și a lanțurilor muntoase înalte din jur.",
+                  "category": "natural",
+                  "coords": [
+                        137.619314,
+                        36.324124
+                  ]
+            },
+            {
+                  "name": "Mount Yari",
+                  "text": "Supranumit „Sulița Alpilor”, acest vârf de 3.180 de metri este renumit pentru vârful său excepțional de ascuțit și tăios.",
+                  "category": "natural",
+                  "coords": [
+                        137.647629,
+                        36.34198
+                  ]
+            },
+            {
+                  "name": "Mt. Ohbami",
+                  "text": "Un vârf înalt situat pe creasta principală a Alpilor Nordici, la mică distanță spre sud de emblematicul Munte Yari.",
+                  "category": "natural",
+                  "coords": [
+                        137.646056,
+                        36.335812
+                  ]
+            },
+            {
+                  "name": "Mount Naka",
+                  "text": "Un vârf stâncos situat pe creasta dintre muntele Yari și muntele Minami din Alpii Nordici.",
+                  "category": "natural",
+                  "coords": [
+                        137.646683,
+                        36.329817
+                  ]
+            },
+            {
+                  "name": "Mount Akaiwa",
+                  "text": "Un vârf pe creasta accidentată care leagă muntele Yari de muntele Nishidake.",
+                  "category": "natural",
+                  "coords": [
+                        137.684053,
+                        36.343346
+                  ]
+            },
+            {
+                  "name": "Mount Nishi",
+                  "text": "Un vârf cunoscut pentru ascensiunea sa abruptă și vederea panoramică asupra lanțului Yari-Hotaka.",
+                  "category": "natural",
+                  "coords": [
+                        137.67958,
+                        36.337236
+                  ]
+            },
+            {
+                  "name": "Mount Minami",
+                  "text": "Un vârf de 3.032 de metri care oferă o vedere spectaculoasă asupra golului „Daigiretto”.",
+                  "category": "natural",
+                  "coords": [
+                        137.650752,
+                        36.319056
+                  ]
+            },
+            {
+                  "name": "Mount Kita-Hotaka",
+                  "text": "Un vârf de granit accidentat, cu cele mai abrupte fețe de stâncă din lanțul Hotaka.",
+                  "category": "natural",
+                  "coords": [
+                        137.652048,
+                        36.302468
+                  ]
+            },
+            {
+                  "name": "Mount Mae-Jonen",
+                  "text": "Un vârf subsidiar al muntelui Jonen, care domină câmpia Azumino.",
+                  "category": "natural",
+                  "coords": [
+                        137.73811,
+                        36.32304
+                  ]
+            },
+            {
+                  "name": "Mount Jonen",
+                  "text": "Un vârf în formă de piramidă din Alpii Nordici, vizibil din valea Azumino.",
+                  "category": "natural",
+                  "coords": [
+                        137.727598,
+                        36.325534
+                  ]
+            },
+            {
+                  "name": "Mount Yokotoshi",
+                  "text": "Un vârf de creastă situat de-a lungul traseului pitoresc de la muntele Jonen la muntele Otensho.",
+                  "category": "natural",
+                  "coords": [
+                        137.726987,
+                        36.342639
+                  ]
+            },
+            {
+                  "name": "Mt. Yumiori",
+                  "text": "Denumit după forma sa de arc, acest vârf oferă vederi spre munții Hida.",
+                  "category": "natural",
+                  "coords": [
+                        137.596524,
+                        36.34952
+                  ]
+            },
+            {
+                  "name": "Mount Nukedo",
+                  "text": "Parte a crestei Kasa-ga-take, cunoscută pentru flora sa alpină înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        137.575159,
+                        36.327659
+                  ]
+            },
+            {
+                  "name": "Mount Kasa",
+                  "text": "Muntele se distinge prin forma sa simetrică ce amintește de o umbrelă tradițională japoneză.",
+                  "category": "natural",
+                  "coords": [
+                        137.55039,
+                        36.315485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Oku-Maruyama",
+                  "text": "A central peak in the Northern Alps that offers panoramic views of the Azusa River valley and the surrounding high ranges.",
+                  "category": "natural",
+                  "coords": [
+                        137.619314,
+                        36.324124
+                  ]
+            },
+            {
+                  "name": "Mount Yari",
+                  "text": "Nicknamed the \"Spear of the Alps,\" this 3,180-meter peak is famous for its exceptionally sharp and pointed summit.",
+                  "category": "natural",
+                  "coords": [
+                        137.647629,
+                        36.34198
+                  ]
+            },
+            {
+                  "name": "Mt. Ohbami",
+                  "text": "A high peak situated on the main ridge of the Northern Alps, just a short distance south of the iconic Mount Yari.",
+                  "category": "natural",
+                  "coords": [
+                        137.646056,
+                        36.335812
+                  ]
+            },
+            {
+                  "name": "Mount Naka",
+                  "text": "A rocky peak situated on the ridge between Mount Yari and Mount Minami in the Northern Alps.",
+                  "category": "natural",
+                  "coords": [
+                        137.646683,
+                        36.329817
+                  ]
+            },
+            {
+                  "name": "Mount Akaiwa",
+                  "text": "A peak on the rugged ridge connecting Mount Yari to Mount Nishidake.",
+                  "category": "natural",
+                  "coords": [
+                        137.684053,
+                        36.343346
+                  ]
+            },
+            {
+                  "name": "Mount Nishi",
+                  "text": "A peak known for its steep ascent and panoramic views of the Yari-Hotaka range.",
+                  "category": "natural",
+                  "coords": [
+                        137.67958,
+                        36.337236
+                  ]
+            },
+            {
+                  "name": "Mount Minami",
+                  "text": "A 3,032-meter peak offering a spectacular view of the \"Daigiretto\" gap.",
+                  "category": "natural",
+                  "coords": [
+                        137.650752,
+                        36.319056
+                  ]
+            },
+            {
+                  "name": "Mount Kita-Hotaka",
+                  "text": "A rugged granite peak featuring the steepest rock faces in the Hotaka range.",
+                  "category": "natural",
+                  "coords": [
+                        137.652048,
+                        36.302468
+                  ]
+            },
+            {
+                  "name": "Mount Mae-Jonen",
+                  "text": "A subsidiary peak of Mount Jonen overlooking the Azumino plain.",
+                  "category": "natural",
+                  "coords": [
+                        137.73811,
+                        36.32304
+                  ]
+            },
+            {
+                  "name": "Mount Jonen",
+                  "text": "A pyramid-shaped peak iconic to the Northern Alps, visible from the Azumino valley.",
+                  "category": "natural",
+                  "coords": [
+                        137.727598,
+                        36.325534
+                  ]
+            },
+            {
+                  "name": "Mount Yokotoshi",
+                  "text": "A ridge-top peak located along the scenic trail from Mount Jonen to Mount Otensho.",
+                  "category": "natural",
+                  "coords": [
+                        137.726987,
+                        36.342639
+                  ]
+            },
+            {
+                  "name": "Mt. Yumiori",
+                  "text": "Named for its bow-like shape, this peak offers views of the Hida mountains.",
+                  "category": "natural",
+                  "coords": [
+                        137.596524,
+                        36.34952
+                  ]
+            },
+            {
+                  "name": "Mount Nukedo",
+                  "text": "Part of the Kasa-ga-take ridge, known for its high alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        137.575159,
+                        36.327659
+                  ]
+            },
+            {
+                  "name": "Mount Kasa",
+                  "text": "The mountain is distinguished by its symmetrical shape resembling a traditional Japanese umbrella.",
+                  "category": "natural",
+                  "coords": [
+                        137.55039,
+                        36.315485
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "JP-20",
     coords: [137.64, 36.34],
@@ -897,7 +9843,88 @@ export const poiExtraJapanNatureV2: POI[] = [
       fr: ["Une montagne proéminente des monts Hida, connue pour sa forme en fer de lance.", "Situé sur le territoire de l'État insulaire du Japon, dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Documenté dans des études locales et régionales."],
     }, image: "/poi-images/jp-berg-yari-nature-v2.webp"},
   {
-    id: "jp-akan-mashu-nationalpark-nature-v2",
+    id: "jp-akan-mashu-nationalpark-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shigechan Land",
+                  "text": "Ein skurriler, lokal geschaffener Vergnügungspark im Bereich des Akan-Mashu-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        143.985408,
+                        43.528287
+                  ]
+            },
+            {
+                  "name": "Kamisato Shrine",
+                  "text": "Ein traditioneller Shinto-Schrein, der in die natürliche Landschaft des Akan-Mashu-Nationalparks eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        144.113543,
+                        43.622588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shigechan Land",
+                  "text": "Egy mókás, helyiek által létrehozott vidámpark az Akan Masu Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        143.985408,
+                        43.528287
+                  ]
+            },
+            {
+                  "name": "Kamisato Shrine",
+                  "text": "Egy hagyományos sintó szentély, amelyet az Akan Masu Nemzeti Park természeti tája vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        144.113543,
+                        43.622588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shigechan Land",
+                  "text": "O zonă de atracție de distracții ciudată, realizată la nivel local, situată în Parcul Național Akan Mashu.",
+                  "category": "landmark",
+                  "coords": [
+                        143.985408,
+                        43.528287
+                  ]
+            },
+            {
+                  "name": "Kamisato Shrine",
+                  "text": "Un altar tradițional shintoist înconjurat de peisajul natural al Parcului Național Akan Mashu.",
+                  "category": "landmark",
+                  "coords": [
+                        144.113543,
+                        43.622588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shigechan Land",
+                  "text": "A quirky, locally-made amusement attraction area located within the Akan Mashu National Park region.",
+                  "category": "landmark",
+                  "coords": [
+                        143.985408,
+                        43.528287
+                  ]
+            },
+            {
+                  "name": "Kamisato Shrine",
+                  "text": "A traditional Shinto shrine surrounded by the natural landscape of Akan Mashu National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        144.113543,
+                        43.622588
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "JP-01",
     coords: [144.01, 43.58],

@@ -386,7 +386,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Lago Pojoj",
-                  "text": "Lago Pojoj ist ein Aussichtspunkt über einen See.",
+                  "text": "Kratersee umgeben von Kiefernwald.",
                   "category": "natural",
                   "coords": [
                         -91.672293,
@@ -395,7 +395,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Isla de las Orquídeas",
-                  "text": "Isla de las Orquídeas ist eine Inselattraktion auf dem See.",
+                  "text": "Kleine Insel, bekannt für ihre Orchideen auf dem Pojoj-See.",
                   "category": "landmark",
                   "coords": [
                         -91.668264,
@@ -404,7 +404,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago Aqua Tinta",
-                  "text": "Mirador Lago Aqua Tinta bietet einen Blick auf den Lago Aqua Tinta.",
+                  "text": "Aussichtspunkt mit Blick auf den rot getönten Agua Tinta See.",
                   "category": "natural",
                   "coords": [
                         -91.678378,
@@ -413,7 +413,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Laguna La Cañada",
-                  "text": "Mirador Laguna La Cañada ist ein Aussichtspunkt über die Laguna La Cañada.",
+                  "text": "Aussichtspunkt mit Blick auf eine kleine Lagune im landwirtschaftlichen Tal.",
                   "category": "natural",
                   "coords": [
                         -91.677937,
@@ -422,7 +422,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago El Caracol",
-                  "text": "Mirador Lago El Caracol bietet einen Blick auf den Lago El Caracol.",
+                  "text": "Aussichtspunkt mit Blick auf den nach seiner spiralförmigen Gestalt benannten El Caracol See.",
                   "category": "natural",
                   "coords": [
                         -91.680295,
@@ -442,7 +442,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Lago Pojoj",
-                  "text": "A Lago Pojoj egy kilátópont egy tóra.",
+                  "text": "Krátertó fenyőerdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -91.672293,
@@ -451,7 +451,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Isla de las Orquídeas",
-                  "text": "Az Isla de las Orquídeas egy sziget látványosság a tavon.",
+                  "text": "Kis sziget, amely orchideáiról ismert a Pojoj-tavon.",
                   "category": "landmark",
                   "coords": [
                         -91.668264,
@@ -460,7 +460,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago Aqua Tinta",
-                  "text": "A Mirador Lago Aqua Tinta kilátást nyújt a Lago Aqua Tintára.",
+                  "text": "Kilátó a vöröses színű Agua Tinta-tóra.",
                   "category": "natural",
                   "coords": [
                         -91.678378,
@@ -469,7 +469,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Laguna La Cañada",
-                  "text": "A Mirador Laguna La Cañada egy kilátópont a Laguna La Cañada felett.",
+                  "text": "Kilátó egy kis lagúnára a mezőgazdasági völgyben.",
                   "category": "natural",
                   "coords": [
                         -91.677937,
@@ -478,7 +478,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago El Caracol",
-                  "text": "A Mirador Lago El Caracol kilátást nyújt a Lago El Caracolra.",
+                  "text": "Kilátó a spirális alakjáról elnevezett El Caracol-tóra.",
                   "category": "natural",
                   "coords": [
                         -91.680295,
@@ -498,7 +498,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Lago Pojoj",
-                  "text": "Lago Pojoj este un punct de belvedere peste un lac.",
+                  "text": "Lac de crater înconjurat de pădure de pini.",
                   "category": "natural",
                   "coords": [
                         -91.672293,
@@ -507,7 +507,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Isla de las Orquídeas",
-                  "text": "Isla de las Orquídeas este o atracție insulară pe lac.",
+                  "text": "Insulă mică cunoscută pentru orhideele sale pe lacul Pojoj.",
                   "category": "landmark",
                   "coords": [
                         -91.668264,
@@ -516,7 +516,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago Aqua Tinta",
-                  "text": "Mirador Lago Aqua Tinta oferă o vedere spre Lacul Aqua Tinta.",
+                  "text": "Belvedere cu vedere asupra lacului Agua Tinta, cu ape roșiatice.",
                   "category": "natural",
                   "coords": [
                         -91.678378,
@@ -525,7 +525,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Laguna La Cañada",
-                  "text": "Mirador Laguna La Cañada este un punct de belvedere peste Laguna La Cañada.",
+                  "text": "Belvedere cu vedere asupra unei lagune mici în valea agricolă.",
                   "category": "natural",
                   "coords": [
                         -91.677937,
@@ -534,7 +534,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago El Caracol",
-                  "text": "Mirador Lago El Caracol oferă o vedere spre Lacul El Caracol.",
+                  "text": "Belvedere cu vedere asupra lacului El Caracol, numit după forma sa în spirală.",
                   "category": "natural",
                   "coords": [
                         -91.680295,
@@ -554,7 +554,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Lago Pojoj",
-                  "text": "Lago Pojoj is a viewpoint overlooking a lake.",
+                  "text": "Crater lake surrounded by pine forest.",
                   "category": "natural",
                   "coords": [
                         -91.672293,
@@ -563,7 +563,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Isla de las Orquídeas",
-                  "text": "Isla de las Orquídeas is an island attraction on the lake.",
+                  "text": "Small island known for its orchids on Lake Pojoj.",
                   "category": "landmark",
                   "coords": [
                         -91.668264,
@@ -572,7 +572,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago Aqua Tinta",
-                  "text": "Mirador Lago Aqua Tinta offers a view of Lake Aqua Tinta.",
+                  "text": "Viewpoint overlooking the reddish-tinted Lake Agua Tinta.",
                   "category": "natural",
                   "coords": [
                         -91.678378,
@@ -581,7 +581,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Laguna La Cañada",
-                  "text": "Mirador Laguna La Cañada is a viewpoint over Laguna La Cañada.",
+                  "text": "Viewpoint overlooking a small lagoon in the agricultural valley.",
                   "category": "natural",
                   "coords": [
                         -91.677937,
@@ -590,7 +590,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
             },
             {
                   "name": "Mirador Lago El Caracol",
-                  "text": "Mirador Lago El Caracol offers a view of Lake El Caracol.",
+                  "text": "Viewpoint offering views of Lake El Caracol, named for its spiral shape.",
                   "category": "natural",
                   "coords": [
                         -91.680295,

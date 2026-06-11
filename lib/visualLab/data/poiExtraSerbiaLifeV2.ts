@@ -466,7 +466,7 @@ export const serbiaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Römischer Brunnen",
-                  "text": "Berühmter historischer Brunnen in der Belgrader Festung.",
+                  "text": "Römischer Brunnen, ein tiefes historisches Bauwerk aus dem 18. Jahrhundert, nahe dem Botanischen Garten Belgrads.",
                   "category": "museum",
                   "coords": [
                         20.448182,
@@ -475,7 +475,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Archäologische Überreste der mittelalterlichen Burg des Despoten Stefan Lazarević.",
+                  "text": "Mittelalterliche Burgruine des Despoten Stefan Lazarević in der Nähe des Botanischen Gartens Belgrads.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -585,7 +585,7 @@ export const serbiaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Rimski bunar",
-                  "text": "Híres történelmi kút a belgrádi erődben.",
+                  "text": "Római kút, egy mély, 18. századi történelmi építmény a Belgrádi Botanikus Kert közelében.",
                   "category": "museum",
                   "coords": [
                         20.448182,
@@ -594,7 +594,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Sztefan Lazarevics despota középkori várának régészeti maradványai.",
+                  "text": "Stefan Lazarević despota középkori várának romjai a Belgrádi Botanikus Kert közelében.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -704,7 +704,7 @@ export const serbiaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Rimski bunar",
-                  "text": "Faimoasa fântână istorică din cetatea Belgradului.",
+                  "text": "Fântâna Romană, o construcție istorică adâncă din secolul al XVIII-lea, lângă Grădina Botanică din Belgrad.",
                   "category": "museum",
                   "coords": [
                         20.448182,
@@ -713,7 +713,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Rămășițe arheologice ale castelului medieval al despotului Stefan Lazarević.",
+                  "text": "Ruinele castelului medieval al despotului Stefan Lazarević lângă Grădina Botanică din Belgrad.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -823,7 +823,7 @@ export const serbiaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Roman Well",
-                  "text": "Famous historic well located in the Belgrade Fortress.",
+                  "text": "Roman Well, a deep 18th-century historic structure near the Belgrade Botanical Garden.",
                   "category": "museum",
                   "coords": [
                         20.448182,
@@ -832,7 +832,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Archaeological remains of the medieval castle of Despot Stefan Lazarević.",
+                  "text": "Medieval castle ruins of Despot Stefan Lazarević near the Belgrade Botanical Garden.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -1888,7 +1888,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panchitshev vrkh",
-                  "text": "Der höchste Gipfel des Kopaonik-Gebirges.",
+                  "text": "Panchichev vrh ist der höchste Gipfel des Kopaonik-Gebirges.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -1897,7 +1897,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Ein Gedenkmonument im Kopaonik-Nationalpark.",
+                  "text": "Ein steinerner Obelisk im Kopaonik-Nationalpark.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -1917,7 +1917,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panchitshev vrkh",
-                  "text": "A Kopaonik-hegység legmagasabb csúcsa.",
+                  "text": "A Panchichev vrh a Kopaonik-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -1926,7 +1926,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Emlékmű a Kopaonik Nemzeti Parkban.",
+                  "text": "Egy kő obeliszk a Kopaonik Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -1946,7 +1946,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panchitshev vrkh",
-                  "text": "Cel mai înalt vârf al munților Kopaonik.",
+                  "text": "Panchichev vrh este cel mai înalt vârf al masivului Kopaonik.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -1955,7 +1955,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Un monument comemorativ în Parcul Național Kopaonik.",
+                  "text": "Un obelisc de piatră în Parcul Național Kopaonik.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -1975,7 +1975,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panchichev vrh",
-                  "text": "The highest peak of the Kopaonik mountain range.",
+                  "text": "Panchichev vrh is the highest peak of the Kopaonik mountain range.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -1984,7 +1984,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "A commemorative monument in Kopaonik National Park.",
+                  "text": "A stone obelisk in Kopaonik National Park.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -3796,7 +3796,7 @@ export const serbiaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Čukar",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über den Vlasina-See.",
+                  "text": "Čukar ist ein felsiger Hügel mit Blick auf den Vlasina-See.",
                   "category": "natural",
                   "coords": [
                         22.318383,
@@ -3807,7 +3807,7 @@ export const serbiaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Čukar",
-                  "text": "Kilátópont, ahonnan panoráma nyílik a Vlaszina-tóra.",
+                  "text": "A Čukar egy sziklás domb, amely a Vlasina-tóra néz.",
                   "category": "natural",
                   "coords": [
                         22.318383,
@@ -3818,7 +3818,7 @@ export const serbiaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Čukar",
-                  "text": "Un punct de observație care oferă vederi asupra lacului Vlasina.",
+                  "text": "Čukar este o colină stâncoasă cu vedere la Lacul Vlasina.",
                   "category": "natural",
                   "coords": [
                         22.318383,
@@ -3829,7 +3829,7 @@ export const serbiaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Čukar",
-                  "text": "A scenic viewpoint offering views over Vlasina Lake.",
+                  "text": "Čukar is a rocky hill overlooking Vlasina Lake.",
                   "category": "natural",
                   "coords": [
                         22.318383,
@@ -4012,7 +4012,7 @@ export const serbiaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Amfiteatri i Gërmisë",
-                  "text": "Freilichtbühne im Gërmia-Park bei Pristina.",
+                  "text": "Das Amphitheater von Gërmia (Amfiteatri i Gërmisë) liegt im Waldgebiet Grmija bei Pristina.",
                   "category": "cultural",
                   "coords": [
                         21.199814,
@@ -4030,7 +4030,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panorama Dining",
-                  "text": "Aussichtspunkt mit Blick auf den Gërmia-Park.",
+                  "text": "Panorama Dining bietet einen Aussichtspunkt/Restaurant im Grmija-Wald.",
                   "category": "natural",
                   "coords": [
                         21.20636,
@@ -4048,7 +4048,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Sofalia/Zylfije Gashi",
-                  "text": "Aussichtspunkt in der Umgebung des Gërmia-Waldes.",
+                  "text": "Sofalia / Zylfije Gashi ist ein natürlicher Ort im Grmija-Wald.",
                   "category": "natural",
                   "coords": [
                         21.195097,
@@ -4057,7 +4057,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "sgjukaj 3",
-                  "text": "Lokaler Aussichtspunkt im Waldgebiet von Gërmia.",
+                  "text": "sgjukaj 3 ist ein natürlicher Punkt im Grmija-Wald.",
                   "category": "natural",
                   "coords": [
                         21.181132,
@@ -4075,7 +4075,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Cernaveri Home",
-                  "text": "Aussichtspunkt in der Nähe des Gërmia-Waldes.",
+                  "text": "Cernaveri Home ist ein ländliches Haus im Grmija-Wald.",
                   "category": "natural",
                   "coords": [
                         21.19389,
@@ -4104,7 +4104,7 @@ export const serbiaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Amfiteatri i Gërmisë",
-                  "text": "Szabadtéri színpad a Pristina melletti Gërmia parkban.",
+                  "text": "A Gërmia amfiteátrum (Amfiteatri i Gërmisë) a pristinai Grmija erdőben található.",
                   "category": "cultural",
                   "coords": [
                         21.199814,
@@ -4122,7 +4122,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panorama Dining",
-                  "text": "Kilátóhely panorámával a Gërmia-parkra.",
+                  "text": "A Panorama Dining kilátó/étterem a Grmija-erdőben.",
                   "category": "natural",
                   "coords": [
                         21.20636,
@@ -4140,7 +4140,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Sofalia/Zylfije Gashi",
-                  "text": "Kilátóhely a Gërmia-erdő környékén.",
+                  "text": "A Sofalia / Zylfije Gashi egy természeti hely a Grmija-erdőben.",
                   "category": "natural",
                   "coords": [
                         21.195097,
@@ -4149,7 +4149,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "sgjukaj 3",
-                  "text": "Helyi kilátópont a Gërmia erdős területén.",
+                  "text": "A sgjukaj 3 egy természeti pont a Grmija-erdőben.",
                   "category": "natural",
                   "coords": [
                         21.181132,
@@ -4167,7 +4167,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Cernaveri Home",
-                  "text": "Kilátóhely a Gërmia-erdő közelében.",
+                  "text": "A Cernaveri Home egy vidéki ház a Grmija-erdőben.",
                   "category": "natural",
                   "coords": [
                         21.19389,
@@ -4196,7 +4196,7 @@ export const serbiaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Amfiteatri i Gërmisë",
-                  "text": "Amfiteatru în aer liber în parcul Gërmia de lângă Pristina.",
+                  "text": "Amfiteatrul Gërmia (Amfiteatri i Gërmisë) se află în pădurea Grmija lângă Priștina.",
                   "category": "cultural",
                   "coords": [
                         21.199814,
@@ -4214,7 +4214,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panorama Dining",
-                  "text": "Punct de observație cu vedere panoramică asupra parcului Gërmia.",
+                  "text": "Panorama Dining oferă un punct de belvedere / restaurant în pădurea Grmija.",
                   "category": "natural",
                   "coords": [
                         21.20636,
@@ -4232,7 +4232,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Sofalia/Zylfije Gashi",
-                  "text": "Punct de belvedere în zona pădurii Gërmia.",
+                  "text": "Sofalia / Zylfije Gashi este un loc natural în pădurea Grmija.",
                   "category": "natural",
                   "coords": [
                         21.195097,
@@ -4241,7 +4241,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "sgjukaj 3",
-                  "text": "Punct local de belvedere în zona împădurită Gërmia.",
+                  "text": "sgjukaj 3 este un punct natural în pădurea Grmija.",
                   "category": "natural",
                   "coords": [
                         21.181132,
@@ -4259,7 +4259,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Cernaveri Home",
-                  "text": "Punct de belvedere situat lângă pădurea Gërmia.",
+                  "text": "Cernaveri Home este o casă rurală în pădurea Grmija.",
                   "category": "natural",
                   "coords": [
                         21.19389,
@@ -4288,7 +4288,7 @@ export const serbiaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Amfiteatri i Gërmisë",
-                  "text": "Open-air amphitheatre in Gërmia Park near Pristina.",
+                  "text": "The Gërmia Amphitheatre (Amfiteatri i Gërmisë) is set in the Grmija forest near Pristina.",
                   "category": "cultural",
                   "coords": [
                         21.199814,
@@ -4306,7 +4306,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Panorama Dining",
-                  "text": "Viewpoint offering scenic views over Gërmia Park.",
+                  "text": "Panorama Dining is a viewpoint/restaurant in the Grmija forest.",
                   "category": "natural",
                   "coords": [
                         21.20636,
@@ -4324,7 +4324,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Sofalia/Zylfije Gashi",
-                  "text": "Viewpoint located in the vicinity of the Gërmia forest.",
+                  "text": "Sofalia / Zylfije Gashi is a natural site in the Grmija forest.",
                   "category": "natural",
                   "coords": [
                         21.195097,
@@ -4333,7 +4333,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "sgjukaj 3",
-                  "text": "Local viewpoint within the Gërmia forest area.",
+                  "text": "sgjukaj 3 is a natural spot in the Grmija forest.",
                   "category": "natural",
                   "coords": [
                         21.181132,
@@ -4351,7 +4351,7 @@ export const serbiaLifeV2: POI[] = [
             },
             {
                   "name": "Cernaveri Home",
-                  "text": "Viewpoint situated near the Gërmia forest.",
+                  "text": "Cernaveri Home is a rural house within the Grmija forest.",
                   "category": "natural",
                   "coords": [
                         21.19389,

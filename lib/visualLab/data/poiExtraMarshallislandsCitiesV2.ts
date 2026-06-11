@@ -7,7 +7,7 @@ export const marshallislandsCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Alele National Museum",
-                  "text": "Das Alele National Museum ist ein Museum in Majuro.",
+                  "text": "Nationalmuseum der Marshallinseln mit traditionellen Artefakten und Ausstellungen in Majuro.",
                   "category": "museum",
                   "coords": [
                         171.373581,
@@ -16,7 +16,7 @@ export const marshallislandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Assumption",
-                  "text": "Die Mariä-Himmelfahrt-Kathedrale ist eine Kultstätte in Majuro.",
+                  "text": "Die Kathedrale der Himmelfahrt in Majuro ist die katholische Kathedrale der Diözese der Marshallinseln.",
                   "category": "religious",
                   "coords": [
                         171.378148,
@@ -27,7 +27,7 @@ export const marshallislandsCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Alele National Museum",
-                  "text": "Az Alele Nemzeti Múzeum egy múzeum Majuróban.",
+                  "text": "A Marshall-szigetek nemzeti múzeuma hagyományos tárgyakkal és kiállításokkal Majuróban.",
                   "category": "museum",
                   "coords": [
                         171.373581,
@@ -36,7 +36,7 @@ export const marshallislandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Assumption",
-                  "text": "A Nagyboldogasszony-székesegyház egy istentiszteleti hely Majuróban.",
+                  "text": "A Mennybemenetel székesegyház Majuróban a Marshall-szigeteki egyházmegye katolikus székesegyháza.",
                   "category": "religious",
                   "coords": [
                         171.378148,
@@ -47,7 +47,7 @@ export const marshallislandsCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Alele National Museum",
-                  "text": "Muzeul Național Alele este un muzeu situat în Majuro.",
+                  "text": "Muzeul național al Insulelor Marshall, cu artefacte tradiționale și expoziții în Majuro.",
                   "category": "museum",
                   "coords": [
                         171.373581,
@@ -56,7 +56,7 @@ export const marshallislandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Assumption",
-                  "text": "Catedrala Adormirii Maicii Domnului este un lăcaș de cult situat în Majuro.",
+                  "text": "Catedrala Adormirii Maicii Domnului din Majuro este catedrala catolică a Diecezei Insulelor Marshall.",
                   "category": "religious",
                   "coords": [
                         171.378148,
@@ -67,7 +67,7 @@ export const marshallislandsCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Alele National Museum",
-                  "text": "The Alele National Museum is a museum located in Majuro.",
+                  "text": "National museum of the Marshall Islands featuring traditional artifacts and exhibits in Majuro.",
                   "category": "museum",
                   "coords": [
                         171.373581,
@@ -76,7 +76,7 @@ export const marshallislandsCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Assumption",
-                  "text": "The Cathedral of the Assumption is a place of worship located in Majuro.",
+                  "text": "The Cathedral of the Assumption in Majuro is the Catholic cathedral of the Diocese of the Marshall Islands.",
                   "category": "religious",
                   "coords": [
                         171.378148,

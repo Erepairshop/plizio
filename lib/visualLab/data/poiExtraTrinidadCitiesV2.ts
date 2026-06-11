@@ -1033,7 +1033,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Mahatma Ghandi",
-                  "text": "Eine Gedenkstatue für Mahatma Gandhi im Stadtviertel Laventille.",
+                  "text": "Eine Bronzestatue von Mahatma Gandhi in Laventille.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
@@ -1069,7 +1069,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "Eine lokale Sehenswürdigkeit in Laventille.",
+                  "text": "Der Hauptsitz von Symmetry Trinidad Limited, ein markantes Gebäude in Laventille.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -1087,7 +1087,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "Ein religiöser Ort in Laventille.",
+                  "text": "Die Heilig-Name-Kirche (römisch-katholisch) in Laventille.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -1161,7 +1161,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Mahatma Ghandi",
-                  "text": "Mahatma Gandhi emlékére állított szobor Laventille negyedében.",
+                  "text": "Mahatma Gandhi bronzszobra Laventille-ben.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
@@ -1197,7 +1197,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "Helyi látványosság Laventille városában.",
+                  "text": "A Symmetry Trinidad Limited székhelye, egy jellegzetes épület Laventille-ben.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -1215,7 +1215,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "Vallási kegyhely Laventille városában.",
+                  "text": "A Szent Név-templom (római katolikus) Laventille-ben.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -1289,7 +1289,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Mahatma Ghandi",
-                  "text": "O statuie comemorativă a lui Mahatma Gandhi în cartierul Laventille.",
+                  "text": "O statuie de bronz a lui Mahatma Gandhi în Laventille.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
@@ -1325,7 +1325,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "O atracție locală în Laventille.",
+                  "text": "Sediul central al Symmetry Trinidad Limited, o clădire proeminentă în Laventille.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -1343,7 +1343,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "Un lăcaș de cult situat în Laventille.",
+                  "text": "Biserica Sfântul Nume (romano-catolică) din Laventille.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -1417,7 +1417,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Mahatma Ghandi",
-                  "text": "A commemorative statue of Mahatma Gandhi located in the Laventille area.",
+                  "text": "A bronze statue of Mahatma Gandhi in Laventille.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
@@ -1453,7 +1453,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "A local attraction in Laventille.",
+                  "text": "The headquarters of Symmetry Trinidad Limited, a prominent building in Laventille.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -1471,7 +1471,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "A place of worship located in Laventille.",
+                  "text": "Holy Name Roman Catholic Church in Laventille.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -1536,7 +1536,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Harmonites Steel Orchestra",
-                  "text": "Eine Spielstätte des Steelpan-Orchesters in Morvant.",
+                  "text": "Der Panyard der Harmonites Steel Orchestra in Morvant.",
                   "category": "cultural",
                   "coords": [
                         -61.469518,
@@ -1545,7 +1545,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "roller skating rink",
-                  "text": "Eine Freizeitanlage zum Rollschuhlaufen in Morvant.",
+                  "text": "Eine Rollschuhbahn in Morvant, ein beliebter Freizeitort.",
                   "category": "landmark",
                   "coords": [
                         -61.463094,
@@ -1565,7 +1565,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Harmonites Steel Orchestra",
-                  "text": "Steelpan zenekar fellépőhelye Morvantban.",
+                  "text": "A Harmonites Steel Orchestra panyardja Morvantban.",
                   "category": "cultural",
                   "coords": [
                         -61.469518,
@@ -1574,7 +1574,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "roller skating rink",
-                  "text": "Görkorcsolyázásra szolgáló szabadidős létesítmény Morvantban.",
+                  "text": "Egy görkorcsolyapálya Morvantban, népszerű szabadidős hely.",
                   "category": "landmark",
                   "coords": [
                         -61.463094,
@@ -1594,7 +1594,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Harmonites Steel Orchestra",
-                  "text": "Un sediu al orchestrei de steelpan în Morvant.",
+                  "text": "Panyardul Orchestrei de Oțel Harmonites din Morvant.",
                   "category": "cultural",
                   "coords": [
                         -61.469518,
@@ -1603,7 +1603,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "roller skating rink",
-                  "text": "O facilitate de recreere pentru patinaj pe rotile în Morvant.",
+                  "text": "Un patinoar cu role în Morvant, un loc popular de agrement.",
                   "category": "landmark",
                   "coords": [
                         -61.463094,
@@ -1623,7 +1623,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Harmonites Steel Orchestra",
-                  "text": "A venue for a steelpan orchestra located in Morvant.",
+                  "text": "The panyard of the Harmonites Steel Orchestra in Morvant.",
                   "category": "cultural",
                   "coords": [
                         -61.469518,
@@ -1632,7 +1632,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "roller skating rink",
-                  "text": "A recreational facility for roller skating in Morvant.",
+                  "text": "A roller skating rink in Morvant, a popular recreational spot.",
                   "category": "landmark",
                   "coords": [
                         -61.463094,
@@ -1688,7 +1688,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mount St. Benedict",
-                  "text": "Mount St. Benedict ist ein Aussichtspunkt in St. Joseph.",
+                  "text": "Der Mount St. Benedict, ein Hügel mit einem Benediktinerkloster und Panoramablick.",
                   "category": "natural",
                   "coords": [
                         -61.39519,
@@ -1697,7 +1697,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Exodus Pan Yard",
-                  "text": "Exodus Pan Yard ist eine Attraktion in St. Joseph.",
+                  "text": "Der Panyard der Exodus Steel Orchestra in St. Joseph.",
                   "category": "landmark",
                   "coords": [
                         -61.395295,
@@ -1706,7 +1706,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Agape Bible ministries",
-                  "text": "Agape Bible ministries ist eine Attraktion in St. Joseph.",
+                  "text": "Das Kirchengebäude von Agape Bible Ministries in St. Joseph.",
                   "category": "landmark",
                   "coords": [
                         -61.409567,
@@ -1715,7 +1715,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Roman Catholic Church",
-                  "text": "Die Saint Joseph Roman Catholic Church ist eine bekannte Kultstätte in St. Joseph.",
+                  "text": "Die römisch-katholische Kirche St. Joseph in St. Joseph, eine historische Pfarrkirche.",
                   "category": "religious",
                   "coords": [
                         -61.413761,
@@ -1726,7 +1726,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mount St. Benedict",
-                  "text": "A Mount St. Benedict egy kilátó St. Joseph városában.",
+                  "text": "A Mount St. Benedict, egy domb bencés kolostorral és panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -61.39519,
@@ -1735,7 +1735,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Exodus Pan Yard",
-                  "text": "Az Exodus Pan Yard egy látványosság St. Joseph városában.",
+                  "text": "Az Exodus Steel Orchestra panyardja St. Joseph-ben.",
                   "category": "landmark",
                   "coords": [
                         -61.395295,
@@ -1744,7 +1744,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Agape Bible ministries",
-                  "text": "Az Agape Bible ministries egy látványosság St. Joseph városában.",
+                  "text": "Az Agape Bible Ministries templomépülete St. Joseph-ben.",
                   "category": "landmark",
                   "coords": [
                         -61.409567,
@@ -1753,7 +1753,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Roman Catholic Church",
-                  "text": "A Saint Joseph Roman Catholic Church egy ismert istentiszteleti hely St. Joseph városában.",
+                  "text": "A St. Joseph-i római katolikus templom, egy történelmi plébániatemplom.",
                   "category": "religious",
                   "coords": [
                         -61.413761,
@@ -1764,7 +1764,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mount St. Benedict",
-                  "text": "Mount St. Benedict este un punct de belvedere situat în St. Joseph.",
+                  "text": "Mount St. Benedict, un deal cu o mănăstire benedictină și vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         -61.39519,
@@ -1773,7 +1773,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Exodus Pan Yard",
-                  "text": "Exodus Pan Yard este o atracție situată în St. Joseph.",
+                  "text": "Panyardul Orchestrei de Oțel Exodus din St. Joseph.",
                   "category": "landmark",
                   "coords": [
                         -61.395295,
@@ -1782,7 +1782,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Agape Bible ministries",
-                  "text": "Agape Bible ministries este o atracție situată în St. Joseph.",
+                  "text": "Clădirea bisericii Agape Bible Ministries din St. Joseph.",
                   "category": "landmark",
                   "coords": [
                         -61.409567,
@@ -1791,7 +1791,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Roman Catholic Church",
-                  "text": "Saint Joseph Roman Catholic Church este un lăcaș de cult cunoscut situat în St. Joseph.",
+                  "text": "Biserica Romano-Catolică Sfântul Iosif din St. Joseph, o biserică parohială istorică.",
                   "category": "religious",
                   "coords": [
                         -61.413761,
@@ -1802,7 +1802,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mount St. Benedict",
-                  "text": "Mount St. Benedict is a viewpoint located in St. Joseph.",
+                  "text": "Mount St. Benedict, a hill with a Benedictine monastery and panoramic views.",
                   "category": "natural",
                   "coords": [
                         -61.39519,
@@ -1811,7 +1811,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Exodus Pan Yard",
-                  "text": "Exodus Pan Yard is an attraction located in St. Joseph.",
+                  "text": "The panyard of Exodus Steel Orchestra in St. Joseph.",
                   "category": "landmark",
                   "coords": [
                         -61.395295,
@@ -1820,7 +1820,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Agape Bible ministries",
-                  "text": "Agape Bible ministries is an attraction located in St. Joseph.",
+                  "text": "Agape Bible Ministries church building in St. Joseph.",
                   "category": "landmark",
                   "coords": [
                         -61.409567,
@@ -1829,7 +1829,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Joseph Roman Catholic Church",
-                  "text": "Saint Joseph Roman Catholic Church is a notable place of worship located in St. Joseph.",
+                  "text": "Saint Joseph Roman Catholic Church in St. Joseph, a historic parish church.",
                   "category": "religious",
                   "coords": [
                         -61.413761,
@@ -1929,7 +1929,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "TTPost Dome",
-                  "text": "Ein lokales Denkmal der Post in Piarco.",
+                  "text": "Das markante kuppelförmige TTPost-Gebäude in Piarco.",
                   "category": "historical",
                   "coords": [
                         -61.345512,
@@ -1947,7 +1947,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Ein markantes Begrüßungsschild und Denkmal in Piarco.",
+                  "text": "Das Willkommensschild am Eingang zu Oropune Gardens in Piarco.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -1958,7 +1958,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "TTPost Dome",
-                  "text": "Helyi postai emlékmű Piarco városában.",
+                  "text": "A jellegzetes kupola alakú TTPost-épület Piarco-ban.",
                   "category": "historical",
                   "coords": [
                         -61.345512,
@@ -1976,7 +1976,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Jellegzetes üdvözlőtábla és emlékmű Piarco városában.",
+                  "text": "Az Oropune Gardens bejáratánál lévő üdvözlőtábla Piarco-ban.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -1987,7 +1987,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "TTPost Dome",
-                  "text": "Un monument poștal local situat în Piarco.",
+                  "text": "Clădirea distinctivă în formă de dom a TTPost din Piarco.",
                   "category": "historical",
                   "coords": [
                         -61.345512,
@@ -2005,7 +2005,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Un semn de bun venit și monument distinctiv în Piarco.",
+                  "text": "Semnul de bun venit la intrarea în Oropune Gardens din Piarco.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -2016,7 +2016,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "TTPost Dome",
-                  "text": "A local postal monument located in Piarco.",
+                  "text": "The distinctive dome-shaped TTPost building in Piarco.",
                   "category": "historical",
                   "coords": [
                         -61.345512,
@@ -2034,7 +2034,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "A prominent welcome sign and monument in Piarco.",
+                  "text": "The welcome sign at the entrance to Oropune Gardens in Piarco.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -2090,7 +2090,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "National Science Centre",
-                  "text": "Das National Science Centre ist ein Museum in Arouca.",
+                  "text": "Das Nationale Wissenschaftszentrum in Arouca, ein interaktives Wissenschaftsmuseum.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -2099,7 +2099,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Cow Land",
-                  "text": "Cow Land ist eine Attraktion in Arouca.",
+                  "text": "Eine Weidefläche mit Kühen in Arouca, bekannt als Cow Land.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -2108,7 +2108,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "bolo garden ist eine Attraktion in Arouca.",
+                  "text": "Ein Gemeinschaftsgarten in Arouca, genannt Bolo Garden.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -2117,7 +2117,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Oropune Gardens Welcome sign ist ein Denkmal in Arouca.",
+                  "text": "Das Willkommensschild am Eingang zu Oropune Gardens in Arouca.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -2126,7 +2126,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "Der Prime Minister Park ist eine Attraktion in Arouca.",
+                  "text": "Der Prime Minister Park in Arouca, ein öffentlicher Park.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -2135,7 +2135,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "Surrey Village ist eine Attraktion in Arouca.",
+                  "text": "Das Wohngebiet Surrey Village in Arouca.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -2146,7 +2146,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "National Science Centre",
-                  "text": "A National Science Centre egy múzeum Arouca városában.",
+                  "text": "A Nemzeti Tudományos Központ Aroucában, egy interaktív tudományos múzeum.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -2155,7 +2155,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Cow Land",
-                  "text": "A Cow Land egy látványosság Arouca városában.",
+                  "text": "Egy legelő terület tehenekkel Aroucában, Cow Land néven ismert.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -2164,7 +2164,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "A bolo garden egy látványosság Arouca városában.",
+                  "text": "Egy közösségi kert Aroucában, Bolo Garden néven.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -2173,7 +2173,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Az Oropune Gardens Welcome sign egy emlékmű Arouca városában.",
+                  "text": "Az Oropune Gardens bejáratánál lévő üdvözlőtábla Aroucában.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -2182,7 +2182,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "A Prime Minister Park egy látványosság Arouca városában.",
+                  "text": "A Prime Minister Park Aroucában, egy közpark.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -2191,7 +2191,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "A Surrey Village egy látványosság Arouca városában.",
+                  "text": "A Surrey Village lakóövezet Aroucában.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -2202,7 +2202,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "National Science Centre",
-                  "text": "National Science Centre este un muzeu situat în Arouca.",
+                  "text": "Centrul Național de Știință din Arouca, un muzeu științific interactiv.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -2211,7 +2211,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Cow Land",
-                  "text": "Cow Land este o atracție situată în Arouca.",
+                  "text": "O pășune cu vaci în Arouca, cunoscută sub numele de Cow Land.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -2220,7 +2220,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "bolo garden este o atracție situată în Arouca.",
+                  "text": "O grădină comunitară în Arouca, numită Bolo Garden.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -2229,7 +2229,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Oropune Gardens Welcome sign este un monument situat în Arouca.",
+                  "text": "Semnul de bun venit la intrarea în Oropune Gardens din Arouca.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -2238,7 +2238,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "Prime Minister Park este o atracție situată în Arouca.",
+                  "text": "Parcul Primului Ministru din Arouca, un parc public.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -2247,7 +2247,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "Surrey Village este o atracție situată în Arouca.",
+                  "text": "Zona rezidențială Surrey Village din Arouca.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -2258,7 +2258,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "National Science Centre",
-                  "text": "National Science Centre is a museum located in Arouca.",
+                  "text": "National Science Centre in Arouca, an interactive science museum.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -2267,7 +2267,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Cow Land",
-                  "text": "Cow Land is an attraction located in Arouca.",
+                  "text": "A pasture with cows in Arouca, known as Cow Land.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -2276,7 +2276,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "bolo garden is an attraction located in Arouca.",
+                  "text": "A community garden in Arouca, called Bolo Garden.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -2285,7 +2285,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Oropune Gardens Welcome sign is a monument located in Arouca.",
+                  "text": "The welcome sign at the entrance to Oropune Gardens in Arouca.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -2294,7 +2294,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "Prime Minister Park is an attraction located in Arouca.",
+                  "text": "Prime Minister Park in Arouca, a public park.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -2303,7 +2303,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "Surrey Village is an attraction located in Arouca.",
+                  "text": "Surrey Village residential area in Arouca.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -2359,7 +2359,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Coffee Express WH",
-                  "text": "Ein interessanter Ort und Ausflugsziel in Curepe.",
+                  "text": "Das Coffee-Express-Lagerhaus in Curepe.",
                   "category": "landmark",
                   "coords": [
                         -61.446621,
@@ -2368,7 +2368,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "Eine lokale Attraktion in Curepe.",
+                  "text": "Ein markantes Gebäude mit einer Elchstatue in Curepe, Casa de la moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -2379,7 +2379,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Coffee Express WH",
-                  "text": "Érdekes helyi látnivaló Curepe városában.",
+                  "text": "A Coffee Express raktár Curepe-ben.",
                   "category": "landmark",
                   "coords": [
                         -61.446621,
@@ -2388,7 +2388,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "Helyi látványosság Curepe városában.",
+                  "text": "Egy jellegzetes épület jávorszarvas szoborral Curepe-ben, Casa de la Moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -2399,7 +2399,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Coffee Express WH",
-                  "text": "Un punct de interes și atracție în Curepe.",
+                  "text": "Depozitul Coffee Express din Curepe.",
                   "category": "landmark",
                   "coords": [
                         -61.446621,
@@ -2408,7 +2408,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "O atracție locală în Curepe.",
+                  "text": "O clădire distinctivă cu o statuie de elan în Curepe, Casa de la Moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -2419,7 +2419,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Coffee Express WH",
-                  "text": "A point of interest and attraction in Curepe.",
+                  "text": "Coffee Express warehouse in Curepe.",
                   "category": "landmark",
                   "coords": [
                         -61.446621,
@@ -2428,7 +2428,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "A local attraction in Curepe.",
+                  "text": "A distinctive building with a moose statue in Curepe, Casa de la moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -2685,7 +2685,88 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-carenage-cities-v2", "sights": {"de": [{"name": "Five Islands Water & Amusement Park", "text": "Ein Wasser- und Vergnügungspark in Carenage.", "category": "family", "coords": [-61.611341, 10.687665]}, {"name": "Chagville Beach", "text": "Chagville Beach ist ein bekannter Küstenabschnitt, der von Einheimischen und Besuchern in Carenage, Trinidad und Tobago, gleichermaßen geschätzt wird. Hier herrscht oft ein etwas lebhaftes Ambiente, das den Strand zu einem großartigen Ziel für geselliges Sonnenbaden und Schwimmen macht. Wer seinen Besuch auf einen Wochentagmorgen legt, kann einen etwas ruhigeren Ausflug ans Meer erleben.", "category": "recreational", "coords": [-61.609881, 10.687974]}], "hu": [{"name": "Five Islands Water & Amusement Park", "text": "Vízi és vidámpark Carenage településen.", "category": "family", "coords": [-61.611341, 10.687665]}, {"name": "Chagville Beach", "text": "A Chagville Beach egy jól ismert partszakasz, amelyet a helyiek és a látogatók gyakran élveznek Carenage-ban, Trinidad és Tobagóban. Itt gyakran élénk hangulat uralkodik, ami nagyszerű úti céllá teszi a társaságkedvelő napozáshoz és úszáshoz. Ha hétköznap délelőttre időzíti látogatását, valamivel nyugodtabb tengerparti kiruccanásban lehet része.", "category": "recreational", "coords": [-61.609881, 10.687974]}], "ro": [{"name": "Five Islands Water & Amusement Park", "text": "Un parc acvatic și de distracții situat în Carenage.", "category": "family", "coords": [-61.611341, 10.687665]}, {"name": "Chagville Beach", "text": "Plaja Chagville este o porțiune de coastă bine-cunoscută, frecventată atât de localnici, cât și de vizitatorii din Carenage, Trinidad și Tobago. O ambianță destul de plină de viață umple adesea aerul aici, făcând din aceasta o destinație excelentă pentru plajă socială și înot. Alegând o dimineață de zi a săptămânii pentru vizită vă poate oferi o ieșire la mare ceva mai calmă.", "category": "recreational", "coords": [-61.609881, 10.687974]}], "en": [{"name": "Five Islands Water & Amusement Park", "text": "A water and amusement park located in Carenage.", "category": "family", "coords": [-61.611341, 10.687665]}, {"name": "Chagville Beach", "text": "Chagville Beach is a well-known coastal stretch frequently enjoyed by locals and visitors in Carenage, Trinidad and Tobago. A somewhat lively ambiance often fills the air here, making it a great destination for social sunbathing and swimming. Timing your visit for a weekday morning can provide a slightly calmer seaside outing.", "category": "recreational", "coords": [-61.609881, 10.687974]}]},
+    id: "tt-carenage-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Five Islands Water & Amusement Park",
+                  "text": "Der Five Islands Water & Amusement Park in Carenage mit Rutschen und Schwimmbecken.",
+                  "category": "family",
+                  "coords": [
+                        -61.611341,
+                        10.687665
+                  ]
+            },
+            {
+                  "name": "Chagville Beach",
+                  "text": "Chagville Beach ist ein bekannter Küstenabschnitt, der von Einheimischen und Besuchern in Carenage, Trinidad und Tobago, gleichermaßen geschätzt wird. Hier herrscht oft ein etwas lebhaftes Ambiente, das den Strand zu einem großartigen Ziel für geselliges Sonnenbaden und Schwimmen macht. Wer seinen Besuch auf einen Wochentagmorgen legt, kann einen etwas ruhigeren Ausflug ans Meer erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.609881,
+                        10.687974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Five Islands Water & Amusement Park",
+                  "text": "A Five Islands Water & Amusement Park Carenage-ben csúszdákkal és medencékkel.",
+                  "category": "family",
+                  "coords": [
+                        -61.611341,
+                        10.687665
+                  ]
+            },
+            {
+                  "name": "Chagville Beach",
+                  "text": "A Chagville Beach egy jól ismert partszakasz, amelyet a helyiek és a látogatók gyakran élveznek Carenage-ban, Trinidad és Tobagóban. Itt gyakran élénk hangulat uralkodik, ami nagyszerű úti céllá teszi a társaságkedvelő napozáshoz és úszáshoz. Ha hétköznap délelőttre időzíti látogatását, valamivel nyugodtabb tengerparti kiruccanásban lehet része.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.609881,
+                        10.687974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Five Islands Water & Amusement Park",
+                  "text": "Parcul acvatic și de distracții Five Islands din Carenage, cu tobogane și piscine.",
+                  "category": "family",
+                  "coords": [
+                        -61.611341,
+                        10.687665
+                  ]
+            },
+            {
+                  "name": "Chagville Beach",
+                  "text": "Plaja Chagville este o porțiune de coastă bine-cunoscută, frecventată atât de localnici, cât și de vizitatorii din Carenage, Trinidad și Tobago. O ambianță destul de plină de viață umple adesea aerul aici, făcând din aceasta o destinație excelentă pentru plajă socială și înot. Alegând o dimineață de zi a săptămânii pentru vizită vă poate oferi o ieșire la mare ceva mai calmă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.609881,
+                        10.687974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Five Islands Water & Amusement Park",
+                  "text": "Five Islands Water & Amusement Park in Carenage with slides and pools.",
+                  "category": "family",
+                  "coords": [
+                        -61.611341,
+                        10.687665
+                  ]
+            },
+            {
+                  "name": "Chagville Beach",
+                  "text": "Chagville Beach is a well-known coastal stretch frequently enjoyed by locals and visitors in Carenage, Trinidad and Tobago. A somewhat lively ambiance often fills the air here, making it a great destination for social sunbathing and swimming. Timing your visit for a weekday morning can provide a slightly calmer seaside outing.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.609881,
+                        10.687974
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-DMN",
     coords: [-61.5833, 10.6833],
@@ -3139,7 +3220,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Fingers house",
-                  "text": "Ein interessanter Ort in La Brea.",
+                  "text": "Ein skurriles Haus mit fingerförmigen Skulpturen in La Brea.",
                   "category": "landmark",
                   "coords": [
                         -61.621128,
@@ -3159,7 +3240,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Fingers house",
-                  "text": "Helyi érdekesség La Brea településen.",
+                  "text": "Egy különös ház ujj alakú szobrokkal La Brea-ban.",
                   "category": "landmark",
                   "coords": [
                         -61.621128,
@@ -3179,7 +3260,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Fingers house",
-                  "text": "Un punct de interes în La Brea.",
+                  "text": "O casă ciudată cu sculpturi în formă de degete în La Brea.",
                   "category": "landmark",
                   "coords": [
                         -61.621128,
@@ -3199,7 +3280,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Fingers house",
-                  "text": "A point of interest in La Brea.",
+                  "text": "A quirky house with finger-shaped sculptures in La Brea.",
                   "category": "landmark",
                   "coords": [
                         -61.621128,
@@ -3340,7 +3421,304 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-mayaro-cities-v2", "sights": {"de": [{"name": "Sylvia's Beach Resort", "text": "Direkt an der Küste von Mayaro in Trinidad und Tobago integriert, verbindet Sylvia's Beach Resort komfortable Unterkünfte mit unmittelbarem Strandzugang. Die Gäste erwartet eine entspannte, urlaubsorientierte Atmosphäre, die zum Schwimmen und Faulenzen am Meer einlädt. Es ist eine wunderbare Option, dieses Resort während der Hochsaison im Sommer für einen echten tropischen Rückzugsort zu buchen.", "category": "recreational", "coords": [-60.999461, 10.280639]}, {"name": "Rash Resort", "text": "Das Rash Resort ist ein Strandresort in Mayaro.", "category": "recreational", "coords": [-60.998992, 10.275189]}, {"name": "Radix Beach Resort", "text": "Fest an den sandigen Grenzen von Mayaro positioniert, dient das Radix Beach Resort als klassische Strandunterkunft in Trinidad und Tobago. Die Umgebung erzeugt eine entspannte Stimmung und bietet Besuchern mühelose Übergänge zwischen ihren Zimmern und dem Ozean für Spaziergänge oder erfrischende Bäder. Die Planung eines Wochenendausflugs hierher stellt sicher, dass Sie den Sonnenschein an der Küste voll auskosten können.", "category": "recreational", "coords": [-60.999563, 10.273438]}, {"name": "Jaces Beach Resort", "text": "Das Jaces Beach Resort liegt in der lebhaften Küstenstadt Mayaro und fängt die Essenz eines Urlaubs am Meer in Trinidad ein. Es pflegt eine fröhliche und entspannte Umgebung, in der Sonnenbaden, Schwimmen und das gesellige Beisammensein an den Wellen die Hauptaktivitäten sind. Wer bereit für Erholung am Strand anreist, macht das Beste aus seiner Zeit in diesem angenehmen Resort.", "category": "recreational", "coords": [-61.0026, 10.276192]}, {"name": "Darus Salaam Mayaro Beach House", "text": "Mit Blick auf die herrlichen Gewässer von Mayaro bietet das Darus Salaam Mayaro Beach House eine intime Form der Unterkunft am Meer. Dieses Reiseziel bietet einen gemütlichen, friedlichen Charakter, der perfekt für Familien ist, die direkt vor ihrer Tür schwimmen und Sandburgen bauen möchten. Eine Vorausbuchung wird empfohlen, um sich dieses komfortable Stückchen Küstenidylle zu sichern.", "category": "recreational", "coords": [-60.998952, 10.294279]}, {"name": "Sea Kale Lane Beach House", "text": "Eingebettet in die einladenden Ufer von Mayaro fungiert das Sea Kale Lane Beach House als reizvolles Resort in Trinidad und Tobago. Eine ausgesprochen ruhige Stimmung durchflutet das Anwesen und ermutigt die Gäste, stundenlang den Sandstrand entlang zu spazieren oder in der sanften Brandung zu waten. Wenn Sie Sonnencreme und leichte Kleidung einpackcken, sind Sie perfekt für einen Aufenthalt an diesem entspannenden Rückzugsort gerüstet.", "category": "recreational", "coords": [-61.001201, 10.293271]}, {"name": "Moondrop Beach Resort", "text": "Das Moondrop Beach Resort hat sich als ruhiges Reiseziel an der Küste in Mayaro etabliert und verspricht authentische trinidadische Entspannung am Meer. Das Anwesen verbindet eine entspannte Urlaubsstimmung mit unmittelbaren Möglichkeiten zum Schwimmen und für ausgedehnte Spaziergänge am Ozean. Ein Besuch während der Trockenzeit bietet im Allgemeinen das beste Wetter, um die Zeit im Freien voll auszukosten.", "category": "recreational", "coords": [-60.999406, 10.276734]}, {"name": "Marakai villas mayaro", "text": "Die Marakai Villas Mayaro bieten Resortunterkünfte an der Küste von Mayaro.", "category": "recreational", "coords": [-60.996812, 10.305249]}], "hu": [{"name": "Sylvia's Beach Resort", "text": "A Trinidad és Tobago-i Mayaro tengerpartjába közvetlenül beépülő Sylvia's Beach Resort a kényelmes szállást és az azonnali strandkapcsolatot ötvözi. A vendégeket nyugodt, nyaralás-központú légkör fogadja, amely nagymértékben ösztönzi az úszást és a tengerparti heverészést. Nagyszerű választás a főszezonban lefoglalni egy igazi trópusi elvonuláshoz.", "category": "recreational", "coords": [-60.999461, 10.280639]}, {"name": "Rash Resort", "text": "A Rash Resort egy tengerparti üdülőhely Mayaro városában.", "category": "recreational", "coords": [-60.998992, 10.275189]}, {"name": "Radix Beach Resort", "text": "A Mayaro homokos határán fekvő Radix Beach Resort egy klasszikus tengerparti szálláshely Trinidad és Tobagóban. A környék laza hangulatot áraszt, így a látogatók könnyedén válthatnak a szobájuk és az óceán között egy séta vagy egy frissítő csobbanás erejéig. Egy itteni hétvégi kiruccanás megtervezése biztosítja, hogy teljes mértékben kihasználja a parti napsütést.", "category": "recreational", "coords": [-60.999563, 10.273438]}, {"name": "Jaces Beach Resort", "text": "A nyüzsgő Mayaro tengerparti városában található Jaces Beach Resort a trinidadi tengerparti nyaralás esszenciáját ragadja meg. Vidám és nyugodt környezetet ápol, ahol a napozás, az úszás és a hullámok melletti társasági élet a fő tevékenység. Érdemes felkészülten érkezni a tengerparti pihenésre, hogy a lehető legtöbbet hozza ki az ebben a kellemes üdülőhelyben töltött időből.", "category": "recreational", "coords": [-61.0026, 10.276192]}, {"name": "Darus Salaam Mayaro Beach House", "text": "A Mayaro gyönyörű vizeire néző Darus Salaam Mayaro Beach House a tengerparti szállás intim formáját kínálja. Ez az úti cél otthonos, békés karaktert nyújt, amely tökéletes azoknak a családoknak, akik közvetlenül az ajtójuk előtt szeretnének úszni és homokvárat építeni. Érdemes előre foglalni, hogy biztosítsa magának ezt a kényelmes kis parti ingatlant.", "category": "recreational", "coords": [-60.998952, 10.294279]}, {"name": "Sea Kale Lane Beach House", "text": "A Mayaro hívogató partjainál megbúvó Sea Kale Lane Beach House egy kedves üdülőhely Trinidad és Tobagóban. A szálláshelyet kifejezetten nyugodt hangulat lengi be, ami arra ösztönzi a vendégeket, hogy órákat töltsenek a homokos tengerparti sétákkal vagy a szelíd hullámokban gázolva. Fényvédő krém és könnyű ruházat csomagolásával tökéletesen felkészülhet egy itteni pihentető tartózkodásra.", "category": "recreational", "coords": [-61.001201, 10.293271]}, {"name": "Moondrop Beach Resort", "text": "A Mayaro derűs tengerparti úti céljaként megjelenő Moondrop Beach Resort autentikus trinidadi tengerparti pihenést ígér. A szálláshely a laza nyaralási aurát ötvözi az úszás és a hosszú óceánparti séták azonnali lehetőségeivel. Általában a száraz évszakban történő látogatás hozza a legkedvezőbb időjárást a szabadtéri élvezetek maximalizálásához.", "category": "recreational", "coords": [-60.999406, 10.276734]}, {"name": "Marakai villas mayaro", "text": "A Marakai villas mayaro üdülőhelyi szállást kínál Mayaro partvidékén.", "category": "recreational", "coords": [-60.996812, 10.305249]}], "ro": [{"name": "Sylvia's Beach Resort", "text": "Integrat direct în coasta Mayaro din Trinidad și Tobago, Sylvia's Beach Resort îmbină cazarea confortabilă cu acces imediat la plajă. Oaspeții sunt tratați cu o atmosferă relaxată, orientată spre vacanță, care încurajează puternic înotul și lenevitul la malul mării. Este o opțiune minunată de rezervat în timpul sezonului de vârf de vară pentru o adevărată retragere tropicală.", "category": "recreational", "coords": [-60.999461, 10.280639]}, {"name": "Rash Resort", "text": "Rash Resort este o stațiune pe plajă situată în Mayaro.", "category": "recreational", "coords": [-60.998992, 10.275189]}, {"name": "Radix Beach Resort", "text": "Poziționat ferm pe granițele nisipoase ale orașului Mayaro, Radix Beach Resort servește drept o proprietate clasică pe malul mării în Trinidad și Tobago. Împrejurimile generează o atmosferă relaxată, oferind vizitatorilor tranziții fără efort între camerele lor și ocean pentru plimbări sau băi revigorante. Planificarea unei escapade de weekend aici vă asigură că puteți profita din plin de soarele de pe coastă.", "category": "recreational", "coords": [-60.999563, 10.273438]}, {"name": "Jaces Beach Resort", "text": "Situat în vibrantul oraș de coastă Mayaro, Jaces Beach Resort surprinde esența unei vacanțe pe litoral din Trinidad. Acesta cultivă un mediu vesel și relaxat în care plaja, înotul și socializarea la valuri sunt principalele activități. Sosirea pregătită pentru petrecerea timpului liber pe plajă este cea mai bună abordare pentru a vă maximiza timpul în această stațiune plăcută.", "category": "recreational", "coords": [-61.0026, 10.276192]}, {"name": "Darus Salaam Mayaro Beach House", "text": "Cu vedere la apele frumoase din Mayaro, Darus Salaam Mayaro Beach House oferă o formă intimă de cazare pe malul mării. Această destinație oferă un caracter familiar, liniștit, perfect pentru familiile care doresc să înoate și să construiască castele de nisip chiar în fața ușii lor. Se recomandă rezervarea în avans pentru a vă asigura această piesă reconfortantă de pe coastă.", "category": "recreational", "coords": [-60.998952, 10.294279]}, {"name": "Sea Kale Lane Beach House", "text": "Ascuns în țărmurile primitoare din Mayaro, Sea Kale Lane Beach House acționează ca o evadare minunată în Trinidad și Tobago. O stare de spirit deosebit de liniștită inundă proprietatea, încurajând oaspeții să-și petreacă orele mergând pe plaja de nisip sau prin valurile blânde. Împachetarea de protecție solară și îmbrăcăminte ușoară vă va pregăti perfect pentru o ședere în această retragere relaxantă.", "category": "recreational", "coords": [-61.001201, 10.293271]}, {"name": "Moondrop Beach Resort", "text": "Apărând ca o destinație de coastă senină în Mayaro, Moondrop Beach Resort promite o relaxare autentică pe litoralul trinidadian. Proprietatea îmbină o aură de vacanță relaxată cu oportunități imediate de înot și plimbări lungi pe malul oceanului. Vizitarea în timpul sezonului uscat aduce în general cea mai favorabilă vreme pentru maximizarea bucuriei în aer liber.", "category": "recreational", "coords": [-60.999406, 10.276734]}, {"name": "Marakai villas mayaro", "text": "Marakai villas mayaro oferă cazare de tip resort de-a lungul coastei din Mayaro.", "category": "recreational", "coords": [-60.996812, 10.305249]}], "en": [{"name": "Sylvia's Beach Resort", "text": "Integrated directly into the Mayaro coastline of Trinidad and Tobago, Sylvia's Beach Resort merges comfortable accommodation with immediate beach access. Guests are treated to a relaxed, vacation-oriented atmosphere that heavily encourages swimming and lounging by the sea. It is a wonderful option to book during the peak summer season for a true tropical retreat.", "category": "recreational", "coords": [-60.999461, 10.280639]}, {"name": "Rash Resort", "text": "Rash Resort is a beach resort located in Mayaro.", "category": "recreational", "coords": [-60.998992, 10.275189]}, {"name": "Radix Beach Resort", "text": "Positioned firmly on the sandy borders of Mayaro, Radix Beach Resort serves as a classic beachfront property in Trinidad and Tobago. The surroundings generate a laid-back vibe, offering visitors effortless transitions between their rooms and the ocean for walks or refreshing dips. Planning a weekend getaway here ensures you can fully take advantage of the coastal sunshine.", "category": "recreational", "coords": [-60.999563, 10.273438]}, {"name": "Jaces Beach Resort", "text": "Situated in the vibrant coastal town of Mayaro, Jaces Beach Resort captures the essence of a Trinidadian seaside holiday. It cultivates a cheerful and relaxed environment where sunbathing, swimming, and socializing by the waves are the main activities. Arriving ready for beachside leisure is the best approach to maximizing your time at this pleasant resort.", "category": "recreational", "coords": [-61.0026, 10.276192]}, {"name": "Darus Salaam Mayaro Beach House", "text": "Overlooking the beautiful waters of Mayaro, the Darus Salaam Mayaro Beach House offers an intimate form of seaside lodging. This destination provides a homely, peaceful character perfect for families wanting to swim and build sandcastles right outside their door. Booking in advance is recommended to secure this comforting piece of coastal real estate.", "category": "recreational", "coords": [-60.998952, 10.294279]}, {"name": "Sea Kale Lane Beach House", "text": "Tucked into the inviting shores of Mayaro, the Sea Kale Lane Beach House acts as a lovely resort getaway in Trinidad and Tobago. A decidedly tranquil mood washes over the property, encouraging guests to spend hours walking the sandy beach or wading in the gentle surf. Packing sunscreen and light clothing will perfectly prepare you for a stay at this relaxing retreat.", "category": "recreational", "coords": [-61.001201, 10.293271]}, {"name": "Moondrop Beach Resort", "text": "Emerging as a serene coastal destination in Mayaro, Moondrop Beach Resort promises authentic Trinidadian seaside relaxation. The property blends a laid-back vacation aura with immediate opportunities for swimming and long walks by the ocean. Visiting during the dry season generally yields the most favorable weather for maximizing outdoor enjoyment.", "category": "recreational", "coords": [-60.999406, 10.276734]}, {"name": "Marakai villas mayaro", "text": "Marakai villas mayaro provides resort accommodation along the coast of Mayaro.", "category": "recreational", "coords": [-60.996812, 10.305249]}]},
+    id: "tt-mayaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sylvia's Beach Resort",
+                  "text": "Direkt an der Küste von Mayaro in Trinidad und Tobago integriert, verbindet Sylvia's Beach Resort komfortable Unterkünfte mit unmittelbarem Strandzugang. Die Gäste erwartet eine entspannte, urlaubsorientierte Atmosphäre, die zum Schwimmen und Faulenzen am Meer einlädt. Es ist eine wunderbare Option, dieses Resort während der Hochsaison im Sommer für einen echten tropischen Rückzugsort zu buchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999461,
+                        10.280639
+                  ]
+            },
+            {
+                  "name": "Rash Resort",
+                  "text": "Das Rash Resort in Mayaro an der Atlantikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998992,
+                        10.275189
+                  ]
+            },
+            {
+                  "name": "Radix Beach Resort",
+                  "text": "Fest an den sandigen Grenzen von Mayaro positioniert, dient das Radix Beach Resort als klassische Strandunterkunft in Trinidad und Tobago. Die Umgebung erzeugt eine entspannte Stimmung und bietet Besuchern mühelose Übergänge zwischen ihren Zimmern und dem Ozean für Spaziergänge oder erfrischende Bäder. Die Planung eines Wochenendausflugs hierher stellt sicher, dass Sie den Sonnenschein an der Küste voll auskosten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999563,
+                        10.273438
+                  ]
+            },
+            {
+                  "name": "Jaces Beach Resort",
+                  "text": "Das Jaces Beach Resort liegt in der lebhaften Küstenstadt Mayaro und fängt die Essenz eines Urlaubs am Meer in Trinidad ein. Es pflegt eine fröhliche und entspannte Umgebung, in der Sonnenbaden, Schwimmen und das gesellige Beisammensein an den Wellen die Hauptaktivitäten sind. Wer bereit für Erholung am Strand anreist, macht das Beste aus seiner Zeit in diesem angenehmen Resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.0026,
+                        10.276192
+                  ]
+            },
+            {
+                  "name": "Darus Salaam Mayaro Beach House",
+                  "text": "Mit Blick auf die herrlichen Gewässer von Mayaro bietet das Darus Salaam Mayaro Beach House eine intime Form der Unterkunft am Meer. Dieses Reiseziel bietet einen gemütlichen, friedlichen Charakter, der perfekt für Familien ist, die direkt vor ihrer Tür schwimmen und Sandburgen bauen möchten. Eine Vorausbuchung wird empfohlen, um sich dieses komfortable Stückchen Küstenidylle zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998952,
+                        10.294279
+                  ]
+            },
+            {
+                  "name": "Sea Kale Lane Beach House",
+                  "text": "Eingebettet in die einladenden Ufer von Mayaro fungiert das Sea Kale Lane Beach House als reizvolles Resort in Trinidad und Tobago. Eine ausgesprochen ruhige Stimmung durchflutet das Anwesen und ermutigt die Gäste, stundenlang den Sandstrand entlang zu spazieren oder in der sanften Brandung zu waten. Wenn Sie Sonnencreme und leichte Kleidung einpackcken, sind Sie perfekt für einen Aufenthalt an diesem entspannenden Rückzugsort gerüstet.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.001201,
+                        10.293271
+                  ]
+            },
+            {
+                  "name": "Moondrop Beach Resort",
+                  "text": "Das Moondrop Beach Resort hat sich als ruhiges Reiseziel an der Küste in Mayaro etabliert und verspricht authentische trinidadische Entspannung am Meer. Das Anwesen verbindet eine entspannte Urlaubsstimmung mit unmittelbaren Möglichkeiten zum Schwimmen und für ausgedehnte Spaziergänge am Ozean. Ein Besuch während der Trockenzeit bietet im Allgemeinen das beste Wetter, um die Zeit im Freien voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999406,
+                        10.276734
+                  ]
+            },
+            {
+                  "name": "Marakai villas mayaro",
+                  "text": "Die Marakai Villas Mayaro bieten Resortunterkünfte an der Küste von Mayaro.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.996812,
+                        10.305249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sylvia's Beach Resort",
+                  "text": "A Trinidad és Tobago-i Mayaro tengerpartjába közvetlenül beépülő Sylvia's Beach Resort a kényelmes szállást és az azonnali strandkapcsolatot ötvözi. A vendégeket nyugodt, nyaralás-központú légkör fogadja, amely nagymértékben ösztönzi az úszást és a tengerparti heverészést. Nagyszerű választás a főszezonban lefoglalni egy igazi trópusi elvonuláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999461,
+                        10.280639
+                  ]
+            },
+            {
+                  "name": "Rash Resort",
+                  "text": "A Rash Resort Mayaróban az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998992,
+                        10.275189
+                  ]
+            },
+            {
+                  "name": "Radix Beach Resort",
+                  "text": "A Mayaro homokos határán fekvő Radix Beach Resort egy klasszikus tengerparti szálláshely Trinidad és Tobagóban. A környék laza hangulatot áraszt, így a látogatók könnyedén válthatnak a szobájuk és az óceán között egy séta vagy egy frissítő csobbanás erejéig. Egy itteni hétvégi kiruccanás megtervezése biztosítja, hogy teljes mértékben kihasználja a parti napsütést.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999563,
+                        10.273438
+                  ]
+            },
+            {
+                  "name": "Jaces Beach Resort",
+                  "text": "A nyüzsgő Mayaro tengerparti városában található Jaces Beach Resort a trinidadi tengerparti nyaralás esszenciáját ragadja meg. Vidám és nyugodt környezetet ápol, ahol a napozás, az úszás és a hullámok melletti társasági élet a fő tevékenység. Érdemes felkészülten érkezni a tengerparti pihenésre, hogy a lehető legtöbbet hozza ki az ebben a kellemes üdülőhelyben töltött időből.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.0026,
+                        10.276192
+                  ]
+            },
+            {
+                  "name": "Darus Salaam Mayaro Beach House",
+                  "text": "A Mayaro gyönyörű vizeire néző Darus Salaam Mayaro Beach House a tengerparti szállás intim formáját kínálja. Ez az úti cél otthonos, békés karaktert nyújt, amely tökéletes azoknak a családoknak, akik közvetlenül az ajtójuk előtt szeretnének úszni és homokvárat építeni. Érdemes előre foglalni, hogy biztosítsa magának ezt a kényelmes kis parti ingatlant.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998952,
+                        10.294279
+                  ]
+            },
+            {
+                  "name": "Sea Kale Lane Beach House",
+                  "text": "A Mayaro hívogató partjainál megbúvó Sea Kale Lane Beach House egy kedves üdülőhely Trinidad és Tobagóban. A szálláshelyet kifejezetten nyugodt hangulat lengi be, ami arra ösztönzi a vendégeket, hogy órákat töltsenek a homokos tengerparti sétákkal vagy a szelíd hullámokban gázolva. Fényvédő krém és könnyű ruházat csomagolásával tökéletesen felkészülhet egy itteni pihentető tartózkodásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.001201,
+                        10.293271
+                  ]
+            },
+            {
+                  "name": "Moondrop Beach Resort",
+                  "text": "A Mayaro derűs tengerparti úti céljaként megjelenő Moondrop Beach Resort autentikus trinidadi tengerparti pihenést ígér. A szálláshely a laza nyaralási aurát ötvözi az úszás és a hosszú óceánparti séták azonnali lehetőségeivel. Általában a száraz évszakban történő látogatás hozza a legkedvezőbb időjárást a szabadtéri élvezetek maximalizálásához.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999406,
+                        10.276734
+                  ]
+            },
+            {
+                  "name": "Marakai villas mayaro",
+                  "text": "A Marakai villas mayaro üdülőhelyi szállást kínál Mayaro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.996812,
+                        10.305249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sylvia's Beach Resort",
+                  "text": "Integrat direct în coasta Mayaro din Trinidad și Tobago, Sylvia's Beach Resort îmbină cazarea confortabilă cu acces imediat la plajă. Oaspeții sunt tratați cu o atmosferă relaxată, orientată spre vacanță, care încurajează puternic înotul și lenevitul la malul mării. Este o opțiune minunată de rezervat în timpul sezonului de vârf de vară pentru o adevărată retragere tropicală.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999461,
+                        10.280639
+                  ]
+            },
+            {
+                  "name": "Rash Resort",
+                  "text": "Stațiunea Rash din Mayaro, pe coasta Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998992,
+                        10.275189
+                  ]
+            },
+            {
+                  "name": "Radix Beach Resort",
+                  "text": "Poziționat ferm pe granițele nisipoase ale orașului Mayaro, Radix Beach Resort servește drept o proprietate clasică pe malul mării în Trinidad și Tobago. Împrejurimile generează o atmosferă relaxată, oferind vizitatorilor tranziții fără efort între camerele lor și ocean pentru plimbări sau băi revigorante. Planificarea unei escapade de weekend aici vă asigură că puteți profita din plin de soarele de pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999563,
+                        10.273438
+                  ]
+            },
+            {
+                  "name": "Jaces Beach Resort",
+                  "text": "Situat în vibrantul oraș de coastă Mayaro, Jaces Beach Resort surprinde esența unei vacanțe pe litoral din Trinidad. Acesta cultivă un mediu vesel și relaxat în care plaja, înotul și socializarea la valuri sunt principalele activități. Sosirea pregătită pentru petrecerea timpului liber pe plajă este cea mai bună abordare pentru a vă maximiza timpul în această stațiune plăcută.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.0026,
+                        10.276192
+                  ]
+            },
+            {
+                  "name": "Darus Salaam Mayaro Beach House",
+                  "text": "Cu vedere la apele frumoase din Mayaro, Darus Salaam Mayaro Beach House oferă o formă intimă de cazare pe malul mării. Această destinație oferă un caracter familiar, liniștit, perfect pentru familiile care doresc să înoate și să construiască castele de nisip chiar în fața ușii lor. Se recomandă rezervarea în avans pentru a vă asigura această piesă reconfortantă de pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998952,
+                        10.294279
+                  ]
+            },
+            {
+                  "name": "Sea Kale Lane Beach House",
+                  "text": "Ascuns în țărmurile primitoare din Mayaro, Sea Kale Lane Beach House acționează ca o evadare minunată în Trinidad și Tobago. O stare de spirit deosebit de liniștită inundă proprietatea, încurajând oaspeții să-și petreacă orele mergând pe plaja de nisip sau prin valurile blânde. Împachetarea de protecție solară și îmbrăcăminte ușoară vă va pregăti perfect pentru o ședere în această retragere relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.001201,
+                        10.293271
+                  ]
+            },
+            {
+                  "name": "Moondrop Beach Resort",
+                  "text": "Apărând ca o destinație de coastă senină în Mayaro, Moondrop Beach Resort promite o relaxare autentică pe litoralul trinidadian. Proprietatea îmbină o aură de vacanță relaxată cu oportunități imediate de înot și plimbări lungi pe malul oceanului. Vizitarea în timpul sezonului uscat aduce în general cea mai favorabilă vreme pentru maximizarea bucuriei în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999406,
+                        10.276734
+                  ]
+            },
+            {
+                  "name": "Marakai villas mayaro",
+                  "text": "Marakai villas mayaro oferă cazare de tip resort de-a lungul coastei din Mayaro.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.996812,
+                        10.305249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sylvia's Beach Resort",
+                  "text": "Integrated directly into the Mayaro coastline of Trinidad and Tobago, Sylvia's Beach Resort merges comfortable accommodation with immediate beach access. Guests are treated to a relaxed, vacation-oriented atmosphere that heavily encourages swimming and lounging by the sea. It is a wonderful option to book during the peak summer season for a true tropical retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999461,
+                        10.280639
+                  ]
+            },
+            {
+                  "name": "Rash Resort",
+                  "text": "Rash Resort in Mayaro on the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998992,
+                        10.275189
+                  ]
+            },
+            {
+                  "name": "Radix Beach Resort",
+                  "text": "Positioned firmly on the sandy borders of Mayaro, Radix Beach Resort serves as a classic beachfront property in Trinidad and Tobago. The surroundings generate a laid-back vibe, offering visitors effortless transitions between their rooms and the ocean for walks or refreshing dips. Planning a weekend getaway here ensures you can fully take advantage of the coastal sunshine.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999563,
+                        10.273438
+                  ]
+            },
+            {
+                  "name": "Jaces Beach Resort",
+                  "text": "Situated in the vibrant coastal town of Mayaro, Jaces Beach Resort captures the essence of a Trinidadian seaside holiday. It cultivates a cheerful and relaxed environment where sunbathing, swimming, and socializing by the waves are the main activities. Arriving ready for beachside leisure is the best approach to maximizing your time at this pleasant resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.0026,
+                        10.276192
+                  ]
+            },
+            {
+                  "name": "Darus Salaam Mayaro Beach House",
+                  "text": "Overlooking the beautiful waters of Mayaro, the Darus Salaam Mayaro Beach House offers an intimate form of seaside lodging. This destination provides a homely, peaceful character perfect for families wanting to swim and build sandcastles right outside their door. Booking in advance is recommended to secure this comforting piece of coastal real estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.998952,
+                        10.294279
+                  ]
+            },
+            {
+                  "name": "Sea Kale Lane Beach House",
+                  "text": "Tucked into the inviting shores of Mayaro, the Sea Kale Lane Beach House acts as a lovely resort getaway in Trinidad and Tobago. A decidedly tranquil mood washes over the property, encouraging guests to spend hours walking the sandy beach or wading in the gentle surf. Packing sunscreen and light clothing will perfectly prepare you for a stay at this relaxing retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.001201,
+                        10.293271
+                  ]
+            },
+            {
+                  "name": "Moondrop Beach Resort",
+                  "text": "Emerging as a serene coastal destination in Mayaro, Moondrop Beach Resort promises authentic Trinidadian seaside relaxation. The property blends a laid-back vacation aura with immediate opportunities for swimming and long walks by the ocean. Visiting during the dry season generally yields the most favorable weather for maximizing outdoor enjoyment.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.999406,
+                        10.276734
+                  ]
+            },
+            {
+                  "name": "Marakai villas mayaro",
+                  "text": "Marakai villas mayaro provides resort accommodation along the coast of Mayaro.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.996812,
+                        10.305249
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-MRC",
     coords: [-61.0000, 10.3000],
@@ -3516,7 +3894,268 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-crown-point-cities-v2", "sights": {"de": [{"name": "Swallows Bay", "text": "Ein malerisches Strandgebiet in Crown Point auf Tobago.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "Sicher im Coco Reef Resort in Crown Point eingebettet, bietet dieser interne Strand ein exklusives Fleckchen karibischen Sandes. Seine geschlossene Natur fördert eine sehr kontrollierte, friedliche Atmosphäre, die ideal zum sanften Schwimmen und luxuriösen Sonnenbaden ist. Resortgäste sollten früh hinausgehen, um sich einen erstklassigen Liegeplatz in der Morgensonne zu sichern.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Ruinen einer britischen Festung aus dem 18. Jahrhundert in Crown Point.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "Ein berühmtes Korallenriff und Meerespark bei Crown Point.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "Eine beliebte Bucht und Strandgegend in Crown Point.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "Ein Ausflugsboot für Touristen in Crown Point.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "Das Crusoe Beach Resort verankert einen malerischen Abschnitt der Küste von Crown Point und gewährt direkten Zugang zum Meer in Trinidad und Tobago. Eine einladende, auf Urlaub ausgerichtete Atmosphäre überwiegt und drängt die Besucher dazu, mühelos zwischen Entspannung auf den Zimmern und Planschen in den Küstengewässern zu wechseln. Ein Sommerbesuch verspricht lebendige Erinnerungen am Strand und viel warmen Sonnenschein.", "category": "recreational", "coords": [-60.835751, 11.146294]}], "hu": [{"name": "Swallows Bay", "text": "Gleccseres tengerparti terület Crown Pointban, Tobagón.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "A Crown Point-i Coco Reef Resort területén biztonságosan megbúvó belső strand a karibi homok exkluzív foltját nyújtja. Zárt jellege rendkívül ellenőrzött, békés légkört teremt, amely ideális a gyengéd úszáshoz és a luxus napozáshoz. Az üdülőhely vendégeinek érdemes korán kilépniük, hogy biztosítsák a legjobb napozóhelyet a reggeli napsütésben.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Egy 18. századi brit erőd romjai Crown Pointban.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "Híres korallzátony és tengeri park Crown Point közelében.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "Népszerű öböl és tengerparti terület Crown Pointban.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "Turistahajó-szolgáltatás Crown Pointban.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "A Crown Point partvonalának egy festői szakaszát lehorgonyzó Crusoe Beach Resort közvetlen hozzáférést biztosít a tengerhez Trinidad és Tobagóban. A barátságos, nyaralás-központú hangulat uralkodik, amely arra ösztönzi a látogatókat, hogy könnyedén váltsanak a szobájukban való pihenés és a parti vizekben való csobbanás között. Egy nyári látogatás élénk tengerparti emlékeket és rengeteg meleg napsütést ígér.", "category": "recreational", "coords": [-60.835751, 11.146294]}], "ro": [{"name": "Swallows Bay", "text": "O zonă de plajă pitorească în Crown Point, Tobago.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "Amplasată în siguranță în Coco Reef Resort din Crown Point, această plajă internă oferă un petic exclusivist de nisip din Caraibe. Natura sa închisă favorizează o atmosferă extrem de controlată, pașnică, ideală pentru înot ușor și plajă de lux. Oaspeții complexului ar trebui să iasă devreme pentru a-și asigura un loc de relaxare excelent sub soarele dimineții.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Ruinele unui fort britanic din secolul al XVIII-lea în Crown Point.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "Un recif de corali renumit și parc marin lângă Crown Point.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "Un golf popular și o zonă de plajă în Crown Point.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "O barcă turistică ce operează din Crown Point.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "Ancorând o secțiune pitorească a coastei Crown Point, Crusoe Beach Resort oferă acces direct la mare în Trinidad și Tobago. O atmosferă primitoare, centrată pe vacanță, predomină, îndemnând vizitatorii să comute fără efort între relaxarea în camerele lor și stropirea în apele de coastă. O vizită de vară promite amintiri vii pe litoral și mult soare cald.", "category": "recreational", "coords": [-60.835751, 11.146294]}], "en": [{"name": "Swallows Bay", "text": "A scenic beach area in Crown Point, Tobago.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "Nestled securely within the Coco Reef Resort in Crown Point, this internal beach provides an exclusive patch of Caribbean sand. Its enclosed nature fosters a highly controlled, peaceful atmosphere ideal for gentle swimming and luxurious sunbathing. Resort guests should step out early to secure a prime lounging spot under the morning sun.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "The ruins of an 18th-century British fort in Crown Point.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "A famous coral reef and marine park near Crown Point.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "A popular bay and beach area in Crown Point.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "A tourist boat attraction operating from Crown Point.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "Anchoring a picturesque section of Crown Point's coastline, Crusoe Beach Resort grants direct access to the sea in Trinidad and Tobago. A welcoming, holiday-centric vibe predominates, urging visitors to switch effortlessly between relaxing in their rooms and splashing in the coastal waters. A summer visit promises vivid beachside memories and plenty of warm sunshine.", "category": "recreational", "coords": [-60.835751, 11.146294]}]},
+    id: "tt-crown-point-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Swallows Bay",
+                  "text": "Die Swallows Bay in Crown Point, eine Bucht mit Sandstrand und ruhigem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.838635,
+                        11.158469
+                  ]
+            },
+            {
+                  "name": "Coco Reef Internal Beach",
+                  "text": "Sicher im Coco Reef Resort in Crown Point eingebettet, bietet dieser interne Strand ein exklusives Fleckchen karibischen Sandes. Seine geschlossene Natur fördert eine sehr kontrollierte, friedliche Atmosphäre, die ideal zum sanften Schwimmen und luxuriösen Sonnenbaden ist. Resortgäste sollten früh hinausgehen, um sich einen erstklassigen Liegeplatz in der Morgensonne zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.839172,
+                        11.157471
+                  ]
+            },
+            {
+                  "name": "Fort Milford",
+                  "text": "Ruinen einer britischen Festung aus dem 18. Jahrhundert in Crown Point.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.842753,
+                        11.154155
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "Das Buccoo Reef in Crown Point, ein Korallenriff mit Schnorchelmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Store Bay",
+                  "text": "Store Bay, ein berühmter weißer Sandstrand in Crown Point mit Strandverkäufern.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.841124,
+                        11.15579
+                  ]
+            },
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "Das Ausflugsboot Sting in Crown Point mit Glasboden für Touren zum Buccoo Reef.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            },
+            {
+                  "name": "Crusoe Beach Resort",
+                  "text": "Das Crusoe Beach Resort verankert einen malerischen Abschnitt der Küste von Crown Point und gewährt direkten Zugang zum Meer in Trinidad und Tobago. Eine einladende, auf Urlaub ausgerichtete Atmosphäre überwiegt und drängt die Besucher dazu, mühelos zwischen Entspannung auf den Zimmern und Planschen in den Küstengewässern zu wechseln. Ein Sommerbesuch verspricht lebendige Erinnerungen am Strand und viel warmen Sonnenschein.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.835751,
+                        11.146294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swallows Bay",
+                  "text": "A Swallows Bay Crown Pointban, egy öböl homokos stranddal és nyugodt vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.838635,
+                        11.158469
+                  ]
+            },
+            {
+                  "name": "Coco Reef Internal Beach",
+                  "text": "A Crown Point-i Coco Reef Resort területén biztonságosan megbúvó belső strand a karibi homok exkluzív foltját nyújtja. Zárt jellege rendkívül ellenőrzött, békés légkört teremt, amely ideális a gyengéd úszáshoz és a luxus napozáshoz. Az üdülőhely vendégeinek érdemes korán kilépniük, hogy biztosítsák a legjobb napozóhelyet a reggeli napsütésben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.839172,
+                        11.157471
+                  ]
+            },
+            {
+                  "name": "Fort Milford",
+                  "text": "Egy 18. századi brit erőd romjai Crown Pointban.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.842753,
+                        11.154155
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "A Buccoo Reef Crown Pointban, egy korallzátony sznorkelezési lehetőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Store Bay",
+                  "text": "Store Bay, egy híres fehér homokos strand Crown Pointban strandárusokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.841124,
+                        11.15579
+                  ]
+            },
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "A Sting kirándulóhajó Crown Pointban üvegfenékkel, túrákkal a Buccoo Reefhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            },
+            {
+                  "name": "Crusoe Beach Resort",
+                  "text": "A Crown Point partvonalának egy festői szakaszát lehorgonyzó Crusoe Beach Resort közvetlen hozzáférést biztosít a tengerhez Trinidad és Tobagóban. A barátságos, nyaralás-központú hangulat uralkodik, amely arra ösztönzi a látogatókat, hogy könnyedén váltsanak a szobájukban való pihenés és a parti vizekben való csobbanás között. Egy nyári látogatás élénk tengerparti emlékeket és rengeteg meleg napsütést ígér.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.835751,
+                        11.146294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Swallows Bay",
+                  "text": "Swallows Bay în Crown Point, un golf cu plajă nisipoasă și apă calmă.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.838635,
+                        11.158469
+                  ]
+            },
+            {
+                  "name": "Coco Reef Internal Beach",
+                  "text": "Amplasată în siguranță în Coco Reef Resort din Crown Point, această plajă internă oferă un petic exclusivist de nisip din Caraibe. Natura sa închisă favorizează o atmosferă extrem de controlată, pașnică, ideală pentru înot ușor și plajă de lux. Oaspeții complexului ar trebui să iasă devreme pentru a-și asigura un loc de relaxare excelent sub soarele dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.839172,
+                        11.157471
+                  ]
+            },
+            {
+                  "name": "Fort Milford",
+                  "text": "Ruinele unui fort britanic din secolul al XVIII-lea în Crown Point.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.842753,
+                        11.154155
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "Reciful Buccoo din Crown Point, un recif de corali cu posibilități de snorkeling.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Store Bay",
+                  "text": "Store Bay, o faimoasă plajă de nisip alb în Crown Point, cu vânzători pe plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.841124,
+                        11.15579
+                  ]
+            },
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "Ambarcațiunea turistică Sting din Crown Point, cu fund de sticlă pentru excursii la Buccoo Reef.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            },
+            {
+                  "name": "Crusoe Beach Resort",
+                  "text": "Ancorând o secțiune pitorească a coastei Crown Point, Crusoe Beach Resort oferă acces direct la mare în Trinidad și Tobago. O atmosferă primitoare, centrată pe vacanță, predomină, îndemnând vizitatorii să comute fără efort între relaxarea în camerele lor și stropirea în apele de coastă. O vizită de vară promite amintiri vii pe litoral și mult soare cald.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.835751,
+                        11.146294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swallows Bay",
+                  "text": "Swallows Bay in Crown Point, a bay with sandy beach and calm water.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.838635,
+                        11.158469
+                  ]
+            },
+            {
+                  "name": "Coco Reef Internal Beach",
+                  "text": "Nestled securely within the Coco Reef Resort in Crown Point, this internal beach provides an exclusive patch of Caribbean sand. Its enclosed nature fosters a highly controlled, peaceful atmosphere ideal for gentle swimming and luxurious sunbathing. Resort guests should step out early to secure a prime lounging spot under the morning sun.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.839172,
+                        11.157471
+                  ]
+            },
+            {
+                  "name": "Fort Milford",
+                  "text": "The ruins of an 18th-century British fort in Crown Point.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.842753,
+                        11.154155
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "Buccoo Reef in Crown Point, a coral reef with snorkeling opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Store Bay",
+                  "text": "Store Bay, a famous white-sand beach in Crown Point with beach vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.841124,
+                        11.15579
+                  ]
+            },
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "Sting tourist boat in Crown Point with glass bottom for tours to Buccoo Reef.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            },
+            {
+                  "name": "Crusoe Beach Resort",
+                  "text": "Anchoring a picturesque section of Crown Point's coastline, Crusoe Beach Resort grants direct access to the sea in Trinidad and Tobago. A welcoming, holiday-centric vibe predominates, urging visitors to switch effortlessly between relaxing in their rooms and splashing in the coastal waters. A summer visit promises vivid beachside memories and plenty of warm sunshine.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.835751,
+                        11.146294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-TOB",
     coords: [-60.8333, 11.1500],
@@ -3582,7 +4221,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Laventille Watering Spot",
-                  "text": "Ein historisches Denkmal und ehemaliger Wasserplatz in Barataria.",
+                  "text": "Der historische Tränkeplatz in Barataria, einst eine Viehtränke.",
                   "category": "historical",
                   "coords": [
                         -61.494818,
@@ -3609,7 +4248,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "Eine lokale kulturelle Sehenswürdigkeit in Barataria.",
+                  "text": "Ein markantes Gebäude mit einer Elchstatue in Barataria, Casa de la moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -3638,7 +4277,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Laventille Watering Spot",
-                  "text": "Történelmi emlékmű és egykori víznyerő hely Baratariában.",
+                  "text": "A történelmi itatóhely Baratariában, egykori állatitató.",
                   "category": "historical",
                   "coords": [
                         -61.494818,
@@ -3665,7 +4304,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "Helyi kulturális látnivaló Baratariában.",
+                  "text": "Egy jellegzetes épület jávorszarvas szoborral Baratariában, Casa de la Moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -3694,7 +4333,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Laventille Watering Spot",
-                  "text": "Un monument istoric și fost punct de alimentare cu apă în Barataria.",
+                  "text": "Locul istoric de adăpare din Barataria, cândva o adăpătoare pentru animale.",
                   "category": "historical",
                   "coords": [
                         -61.494818,
@@ -3721,7 +4360,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "O atracție culturală locală în Barataria.",
+                  "text": "O clădire distinctivă cu o statuie de elan în Barataria, Casa de la Moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -3750,7 +4389,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Laventille Watering Spot",
-                  "text": "A historical monument and former watering spot in Barataria.",
+                  "text": "The historic watering spot in Barataria, once a livestock watering hole.",
                   "category": "historical",
                   "coords": [
                         -61.494818,
@@ -3777,7 +4416,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Casa De la moos",
-                  "text": "A local cultural attraction in Barataria.",
+                  "text": "A distinctive building with a moose statue in Barataria, Casa de la moos.",
                   "category": "landmark",
                   "coords": [
                         -61.449097,
@@ -3877,7 +4516,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Port of Spain Lighthouse",
-                  "text": "Ein historischer Leuchtturm und Wahrzeichen in Port of Spain.",
+                  "text": "Der Leuchtturm von Port of Spain in Woodbrook, ein historischer Leuchtturm.",
                   "category": "landmark",
                   "coords": [
                         -61.509479,
@@ -3913,7 +4552,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Phase II Pan Groove",
-                  "text": "Ein renommiertes Steelpan-Orchester mit Sitz in Woodbrook.",
+                  "text": "Der Panyard der Phase II Pan Groove Steel Orchestra in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.529706,
@@ -3922,7 +4561,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Queen's Hall",
-                  "text": "Ein bedeutender Veranstaltungsort für darstellende Künste in Port of Spain.",
+                  "text": "Queen's Hall ist ein Konzertsaal im Woodbrook-Viertel von Port of Spain.",
                   "category": "cultural",
                   "coords": [
                         -61.510727,
@@ -3940,7 +4579,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "St. James Park & Amphitheatre",
-                  "text": "Ein öffentlicher Park und Veranstaltungsort für Aufführungen im Freien.",
+                  "text": "St. James Park & Amphitheatre ist ein öffentlicher Park mit einem Freilufttheater in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
@@ -4003,7 +4642,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "Ein interessanter Punkt in Woodbrook.",
+                  "text": "Symmetry Trinidad Limited ist ein Bürogebäude in Woodbrook.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -4012,7 +4651,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "The Big Black Box",
-                  "text": "Ein kreativer Ort und Kunstzentrum in Woodbrook.",
+                  "text": "The Big Black Box ist ein bekannter Nachtclub in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.522361,
@@ -4021,7 +4660,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "Ein religiöser Ort in Woodbrook.",
+                  "text": "Holy Name ist eine Kirche in Woodbrook.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -4032,7 +4671,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Port of Spain Lighthouse",
-                  "text": "Történelmi világítótorony és jelkép Port of Spainben.",
+                  "text": "A Port of Spain-i világítótorony Woodbrookban, egy történelmi világítótorony.",
                   "category": "landmark",
                   "coords": [
                         -61.509479,
@@ -4068,7 +4707,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Phase II Pan Groove",
-                  "text": "Woodbrooki székhelyű, neves steelpan zenekar.",
+                  "text": "A Phase II Pan Groove Steel Orchestra panyardja Woodbrookban.",
                   "category": "cultural",
                   "coords": [
                         -61.529706,
@@ -4077,7 +4716,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Queen's Hall",
-                  "text": "Fontos előadóművészeti helyszín Port of Spainben.",
+                  "text": "A Queen's Hall egy koncertterem Woodbrookban, Port of Spain külvárosában.",
                   "category": "cultural",
                   "coords": [
                         -61.510727,
@@ -4095,7 +4734,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "St. James Park & Amphitheatre",
-                  "text": "Nyilvános park és szabadtéri előadóművészeti helyszín.",
+                  "text": "A St. James Park & Amphitheatre egy nyilvános park szabadtéri színházzal Woodbrookban.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
@@ -4158,7 +4797,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "Helyi látnivaló Woodbrookban.",
+                  "text": "A Symmetry Trinidad Limited egy irodaépület Woodbrookban.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -4167,7 +4806,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "The Big Black Box",
-                  "text": "Kreatív tér és művészeti központ Woodbrookban.",
+                  "text": "A The Big Black Box egy népszerű éjszakai klub Woodbrookban.",
                   "category": "cultural",
                   "coords": [
                         -61.522361,
@@ -4176,7 +4815,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "Vallási kegyhely Woodbrook városában.",
+                  "text": "A Holy Name egy templom Woodbrookban.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -4187,7 +4826,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Port of Spain Lighthouse",
-                  "text": "Un far istoric și punct de reper în Port of Spain.",
+                  "text": "Farul din Port of Spain din Woodbrook, un far istoric.",
                   "category": "landmark",
                   "coords": [
                         -61.509479,
@@ -4223,7 +4862,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Phase II Pan Groove",
-                  "text": "O renumită orchestră de tip steelpan cu sediul în Woodbrook.",
+                  "text": "Panyardul Orchestrei de Oțel Phase II Pan Groove din Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.529706,
@@ -4232,7 +4871,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Queen's Hall",
-                  "text": "O locație majoră pentru artele spectacolului în Port of Spain.",
+                  "text": "Queen's Hall este o sală de concerte în cartierul Woodbrook din Port of Spain.",
                   "category": "cultural",
                   "coords": [
                         -61.510727,
@@ -4250,7 +4889,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "St. James Park & Amphitheatre",
-                  "text": "Un parc public și spațiu de spectacole în aer liber.",
+                  "text": "St. James Park & Amphitheatre este un parc public cu un amfiteatru în aer liber în Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
@@ -4313,7 +4952,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "Un punct de interes în Woodbrook.",
+                  "text": "Symmetry Trinidad Limited este o clădire de birouri în Woodbrook.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -4322,7 +4961,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "The Big Black Box",
-                  "text": "Un spațiu creativ și centru de artă în Woodbrook.",
+                  "text": "The Big Black Box este un club de noapte popular în Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.522361,
@@ -4331,7 +4970,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "Un lăcaș de cult în Woodbrook.",
+                  "text": "Holy Name este o biserică în Woodbrook.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -4342,7 +4981,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Port of Spain Lighthouse",
-                  "text": "A historic lighthouse and landmark in Port of Spain.",
+                  "text": "Port of Spain Lighthouse in Woodbrook, a historic lighthouse.",
                   "category": "landmark",
                   "coords": [
                         -61.509479,
@@ -4378,7 +5017,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Phase II Pan Groove",
-                  "text": "A renowned steelpan orchestra based in Woodbrook.",
+                  "text": "The panyard of Phase II Pan Groove steel orchestra in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.529706,
@@ -4387,7 +5026,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Queen's Hall",
-                  "text": "A major performing arts venue in Port of Spain.",
+                  "text": "Queen's Hall is a concert hall in the Woodbrook area of Port of Spain.",
                   "category": "cultural",
                   "coords": [
                         -61.510727,
@@ -4405,7 +5044,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "St. James Park & Amphitheatre",
-                  "text": "A public park and outdoor performance space.",
+                  "text": "St. James Park & Amphitheatre is a public park with an outdoor amphitheater in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
@@ -4468,7 +5107,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Symmetry Trinidad Limited",
-                  "text": "A point of interest in Woodbrook.",
+                  "text": "Symmetry Trinidad Limited is a commercial office building in Woodbrook.",
                   "category": "landmark",
                   "coords": [
                         -61.51937,
@@ -4477,7 +5116,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "The Big Black Box",
-                  "text": "A creative space and arts center in Woodbrook.",
+                  "text": "The Big Black Box is a popular nightclub in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.522361,
@@ -4486,7 +5125,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Name",
-                  "text": "A place of worship in Woodbrook.",
+                  "text": "Holy Name is a church in Woodbrook.",
                   "category": "religious",
                   "coords": [
                         -61.508646,
@@ -4538,7 +5177,736 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-belmont-cities-v2", "sights": {"de": [{"name": "Port of Spain Lighthouse", "text": "Ein markanter Leuchtturm in der Nähe von Port of Spain.", "category": "landmark", "coords": [-61.509479, 10.647378]}, {"name": "National Museum & Art Gallery", "text": "Das Nationalmuseum zeigt bedeutende Sammlungen zur Kunst und Geschichte von Trinidad.", "category": "museum", "coords": [-61.510318, 10.662861]}, {"name": "Emperor Valley Zoo", "text": "Der Haupzoo der Insel, direkt am Queen's Park Savannah gelegen.", "category": "family", "coords": [-61.516417, 10.675622]}, {"name": "Invaders Steel Orchestra", "text": "Ein traditionsreiches Theater und Steelpan-Zentrum in Belmont.", "category": "cultural", "coords": [-61.524169, 10.665995]}, {"name": "Phase II Pan Groove", "text": "Ein prominentes Zentrum für Steelpan-Musik und kulturelle Darbietungen.", "category": "cultural", "coords": [-61.529706, 10.666975]}, {"name": "Cascadia Hotel Water Park", "text": "Ein Freizeitpark mit Wasserattraktionen beim Cascadia Hotel.", "category": "family", "coords": [-61.498734, 10.685289]}, {"name": "Queen's Hall", "text": "Eine wichtige Konzert- und Veranstaltungshalle in Port of Spain.", "category": "cultural", "coords": [-61.510727, 10.672871]}, {"name": "National Academy for the Performing Arts", "text": "Ein modernes Theater und Bildungszentrum für darstellende Künste.", "category": "cultural", "coords": [-61.511326, 10.663355]}, {"name": "Queen's Park Savannah", "text": "Der größte offene Park in Port of Spain, umgeben von historischen Gebäuden.", "category": "park", "coords": [-61.514064, 10.668863]}, {"name": "Nelson Mandela Park", "text": "Ein öffentlicher Park in Belmont, benannt nach Nelson Mandela.", "category": "park", "coords": [-61.525216, 10.66903]}, {"name": "Königliche Botanische Gärten", "text": "Einer der ältesten botanischen Gärten der Welt, gegründet im Jahr 1818.", "category": "park", "coords": [-61.514646, 10.675529]}, {"name": "Statue of Mahatma Ghandi", "text": "Ein Denkmal zu Ehren von Mahatma Gandhi in Belmont.", "category": "historical", "coords": [-61.515319, 10.657406]}, {"name": "The Mighty Sparrow's Statue", "text": "Eine Statue, die dem berühmten Calypso-Sänger The Mighty Sparrow gewidmet ist.", "category": "historical", "coords": [-61.510562, 10.671059]}, {"name": "Laventille Watering Spot", "text": "Ein lokales Wahrzeichen und historischer Brunnenplatz in Belmont.", "category": "historical", "coords": [-61.494818, 10.646668]}, {"name": "Brian Lara Statue", "text": "Eine Statue zu Ehren des legendären Cricketspielers Brian Lara.", "category": "historical", "coords": [-61.513922, 10.649632]}, {"name": "Symmetry Trinidad Limited", "text": "Eine lokale touristische Attraktion in der Gegend von Belmont.", "category": "landmark", "coords": [-61.51937, 10.65825]}, {"name": "The Lookout, Lady Chancellor Road", "text": "The Lookout an der Lady Chancellor Road ist ein bekannter Aussichtspunkt in Belmont. Von diesem Punkt in Trinidad und Tobago können Besucher einen atemberaubenden Weitblick über Port of Spain genießen.", "category": "natural", "coords": [-61.509911, 10.686171]}, {"name": "Highlanders Steel Orchestra", "text": "Ein Zentrum für Musik und Kunst mit Schwerpunkt auf Steelpan-Traditionen.", "category": "cultural", "coords": [-61.489354, 10.646866]}, {"name": "The Big Black Box", "text": "Ein alternativer Kunstraum für kulturelle Veranstaltungen und Ausstellungen.", "category": "cultural", "coords": [-61.522361, 10.661545]}, {"name": "Holy Name", "text": "Eine religiöse Stätte und ein Ort der Besinnung in Belmont.", "category": "religious", "coords": [-61.508646, 10.663445]}], "hu": [{"name": "Port of Spain Lighthouse", "text": "Jellegzetes világítótorony Port of Spain közelében.", "category": "landmark", "coords": [-61.509479, 10.647378]}, {"name": "National Museum & Art Gallery", "text": "A nemzeti múzeum Trinidad művészetének és történelmének jelentős gyűjteményeit mutatja be.", "category": "museum", "coords": [-61.510318, 10.662861]}, {"name": "Emperor Valley Zoo", "text": "A sziget fő állatkertje, közvetlenül a Queen's Park Savannah mellett.", "category": "family", "coords": [-61.516417, 10.675622]}, {"name": "Invaders Steel Orchestra", "text": "Nagy múltú színház és steelpan központ Belmontban.", "category": "cultural", "coords": [-61.524169, 10.665995]}, {"name": "Phase II Pan Groove", "text": "A steelpan zene és a kulturális előadások kiemelkedő központja.", "category": "cultural", "coords": [-61.529706, 10.666975]}, {"name": "Cascadia Hotel Water Park", "text": "Szórakoztató vízi park a Cascadia Hotelnél.", "category": "family", "coords": [-61.498734, 10.685289]}, {"name": "Queen's Hall", "text": "Fontos koncert- és rendezvénycsarnok Port of Spainben.", "category": "cultural", "coords": [-61.510727, 10.672871]}, {"name": "National Academy for the Performing Arts", "text": "Modern színház és előadóművészeti oktatási központ.", "category": "cultural", "coords": [-61.511326, 10.663355]}, {"name": "Queen's Park Savannah", "text": "Port of Spain legnagyobb nyitott parkja, amelyet történelmi épületek vesznek körül.", "category": "park", "coords": [-61.514064, 10.668863]}, {"name": "Nelson Mandela Park", "text": "Nelson Mandeláról elnevezett közpark Belmontban.", "category": "park", "coords": [-61.525216, 10.66903]}, {"name": "Royal Botanic Gardens", "text": "A világ egyik legrégebbi botanikus kertje, amelyet 1818-ban alapítottak.", "category": "park", "coords": [-61.514646, 10.675529]}, {"name": "Statue of Mahatma Ghandi", "text": "Mahatma Gandhi tiszteletére emelt emlékmű Belmontban.", "category": "historical", "coords": [-61.515319, 10.657406]}, {"name": "The Mighty Sparrow's Statue", "text": "A híres calypso énekesnek, The Mighty Sparrow-nak szentelt szobor.", "category": "historical", "coords": [-61.510562, 10.671059]}, {"name": "Laventille Watering Spot", "text": "Helyi jelkép és történelmi kút Belmontban.", "category": "historical", "coords": [-61.494818, 10.646668]}, {"name": "Brian Lara Statue", "text": "A legendás krikettjátékos, Brian Lara tiszteletére emelt szobor.", "category": "historical", "coords": [-61.513922, 10.649632]}, {"name": "Symmetry Trinidad Limited", "text": "Helyi turisztikai látványosság Belmont környékén.", "category": "landmark", "coords": [-61.51937, 10.65825]}, {"name": "The Lookout, Lady Chancellor Road", "text": "A Lady Chancellor Road-on található The Lookout egy híres kilátóhely Belmontban. Trinidad és Tobagó-i látogatásuk során a turisták innen lenyűgöző panorámát élvezhetnek Port of Spain városa felett.", "category": "natural", "coords": [-61.509911, 10.686171]}, {"name": "Highlanders Steel Orchestra", "text": "Zenei és művészeti központ, amely a steelpan hagyományokra összpontosít.", "category": "cultural", "coords": [-61.489354, 10.646866]}, {"name": "The Big Black Box", "text": "Alternatív művészeti tér kulturális események és kiállítások számára.", "category": "cultural", "coords": [-61.522361, 10.661545]}, {"name": "Holy Name", "text": "Vallási kegyhely és az elmélyülés helye Belmontban.", "category": "religious", "coords": [-61.508646, 10.663445]}], "ro": [{"name": "Port of Spain Lighthouse", "text": "Un far distinctiv situat în apropiere de Port of Spain.", "category": "landmark", "coords": [-61.509479, 10.647378]}, {"name": "National Museum & Art Gallery", "text": "Muzeul Național expune colecții importante de artă și istorie din Trinidad.", "category": "museum", "coords": [-61.510318, 10.662861]}, {"name": "Emperor Valley Zoo", "text": "Grădina zoologică principală a insulei, situată lângă Queen's Park Savannah.", "category": "family", "coords": [-61.516417, 10.675622]}, {"name": "Invaders Steel Orchestra", "text": "Un teatru cu tradiție și centru de steelpan în Belmont.", "category": "cultural", "coords": [-61.524169, 10.665995]}, {"name": "Phase II Pan Groove", "text": "Un centru proeminent pentru muzică steelpan și spectacole culturale.", "category": "cultural", "coords": [-61.529706, 10.666975]}, {"name": "Cascadia Hotel Water Park", "text": "Un parc de distracții cu atracții acvatice lângă Cascadia Hotel.", "category": "family", "coords": [-61.498734, 10.685289]}, {"name": "Queen's Hall", "text": "O importantă sală de concerte și spectacole în Port of Spain.", "category": "cultural", "coords": [-61.510727, 10.672871]}, {"name": "National Academy for the Performing Arts", "text": "Un teatru modern și centru de educație pentru artele spectacolului.", "category": "cultural", "coords": [-61.511326, 10.663355]}, {"name": "Queen's Park Savannah", "text": "Cel mai mare parc deschis din Port of Spain, înconjurat de clădiri istorice.", "category": "park", "coords": [-61.514064, 10.668863]}, {"name": "Nelson Mandela Park", "text": "Un parc public în Belmont, numit după Nelson Mandela.", "category": "park", "coords": [-61.525216, 10.66903]}, {"name": "Royal Botanic Gardens", "text": "Una dintre cele mai vechi grădini botanice din lume, înființată în 1818.", "category": "park", "coords": [-61.514646, 10.675529]}, {"name": "Statue of Mahatma Ghandi", "text": "Un monument ridicat în onoarea lui Mahatma Gandhi în Belmont.", "category": "historical", "coords": [-61.515319, 10.657406]}, {"name": "The Mighty Sparrow's Statue", "text": "O statuie dedicată celebrului cântăreț de calypso, The Mighty Sparrow.", "category": "historical", "coords": [-61.510562, 10.671059]}, {"name": "Laventille Watering Spot", "text": "Un punct de reper local și loc istoric de cișmea în Belmont.", "category": "historical", "coords": [-61.494818, 10.646668]}, {"name": "Brian Lara Statue", "text": "O statuie ridicată în onoarea legendarului jucător de cricket Brian Lara.", "category": "historical", "coords": [-61.513922, 10.649632]}, {"name": "Symmetry Trinidad Limited", "text": "O atracție turistică locală în zona Belmont.", "category": "landmark", "coords": [-61.51937, 10.65825]}, {"name": "The Lookout, Lady Chancellor Road", "text": "The Lookout, situat pe Lady Chancellor Road, este un punct de belvedere renumit din Belmont. Din această locație din Trinidad și Tobago, vizitatorii pot admira o vedere panoramică asupra Port of Spain.", "category": "natural", "coords": [-61.509911, 10.686171]}, {"name": "Highlanders Steel Orchestra", "text": "Un centru pentru muzică și artă, axat pe tradițiile steelpan.", "category": "cultural", "coords": [-61.489354, 10.646866]}, {"name": "The Big Black Box", "text": "Un spațiu de artă alternativ pentru evenimente culturale și expoziții.", "category": "cultural", "coords": [-61.522361, 10.661545]}, {"name": "Holy Name", "text": "Un sit religios și loc de meditație situat în Belmont.", "category": "religious", "coords": [-61.508646, 10.663445]}], "en": [{"name": "Port of Spain Lighthouse", "text": "A prominent lighthouse located near Port of Spain.", "category": "landmark", "coords": [-61.509479, 10.647378]}, {"name": "National Museum & Art Gallery", "text": "The national museum houses significant collections of art and history from Trinidad.", "category": "museum", "coords": [-61.510318, 10.662861]}, {"name": "Emperor Valley Zoo", "text": "The island's main zoo, located adjacent to the Queen's Park Savannah.", "category": "family", "coords": [-61.516417, 10.675622]}, {"name": "Invaders Steel Orchestra", "text": "A long-standing theatre and steelpan hub in Belmont.", "category": "cultural", "coords": [-61.524169, 10.665995]}, {"name": "Phase II Pan Groove", "text": "A prominent centre for steelpan music and cultural performances.", "category": "cultural", "coords": [-61.529706, 10.666975]}, {"name": "Cascadia Hotel Water Park", "text": "A recreational water park located at the Cascadia Hotel.", "category": "family", "coords": [-61.498734, 10.685289]}, {"name": "Queen's Hall", "text": "A major concert and performing arts venue in Port of Spain.", "category": "cultural", "coords": [-61.510727, 10.672871]}, {"name": "National Academy for the Performing Arts", "text": "A modern theatre and educational centre for performing arts.", "category": "cultural", "coords": [-61.511326, 10.663355]}, {"name": "Queen's Park Savannah", "text": "The largest open space in Port of Spain, surrounded by historic buildings.", "category": "park", "coords": [-61.514064, 10.668863]}, {"name": "Nelson Mandela Park", "text": "A public park in Belmont named after Nelson Mandela.", "category": "park", "coords": [-61.525216, 10.66903]}, {"name": "Royal Botanic Gardens", "text": "One of the oldest botanical gardens in the world, established in 1818.", "category": "park", "coords": [-61.514646, 10.675529]}, {"name": "Statue of Mahatma Ghandi", "text": "A monument erected in honor of Mahatma Gandhi in Belmont.", "category": "historical", "coords": [-61.515319, 10.657406]}, {"name": "The Mighty Sparrow's Statue", "text": "A statue dedicated to the famous calypso singer The Mighty Sparrow.", "category": "historical", "coords": [-61.510562, 10.671059]}, {"name": "Laventille Watering Spot", "text": "A local landmark and historical watering site in Belmont.", "category": "historical", "coords": [-61.494818, 10.646668]}, {"name": "Brian Lara Statue", "text": "A statue honoring the legendary cricketer Brian Lara.", "category": "historical", "coords": [-61.513922, 10.649632]}, {"name": "Symmetry Trinidad Limited", "text": "A local tourist attraction in the Belmont area.", "category": "landmark", "coords": [-61.51937, 10.65825]}, {"name": "The Lookout, Lady Chancellor Road", "text": "The Lookout on Lady Chancellor Road is a renowned viewpoint situated in Belmont. Visitors to this spot in Trinidad and Tobago can take in sweeping, panoramic views of Port of Spain.", "category": "natural", "coords": [-61.509911, 10.686171]}, {"name": "Highlanders Steel Orchestra", "text": "A centre for music and arts focused on steelpan traditions.", "category": "cultural", "coords": [-61.489354, 10.646866]}, {"name": "The Big Black Box", "text": "An alternative arts space for cultural events and exhibitions.", "category": "cultural", "coords": [-61.522361, 10.661545]}, {"name": "Holy Name", "text": "A religious site and place of reflection located in Belmont.", "category": "religious", "coords": [-61.508646, 10.663445]}]},
+    id: "tt-belmont-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Port of Spain Lighthouse",
+                  "text": "Port of Spain Lighthouse ist ein historischer Leuchtturm im Belmont-Viertel von Port of Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.509479,
+                        10.647378
+                  ]
+            },
+            {
+                  "name": "National Museum & Art Gallery",
+                  "text": "Das Nationalmuseum zeigt bedeutende Sammlungen zur Kunst und Geschichte von Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -61.510318,
+                        10.662861
+                  ]
+            },
+            {
+                  "name": "Emperor Valley Zoo",
+                  "text": "Der Haupzoo der Insel, direkt am Queen's Park Savannah gelegen.",
+                  "category": "family",
+                  "coords": [
+                        -61.516417,
+                        10.675622
+                  ]
+            },
+            {
+                  "name": "Invaders Steel Orchestra",
+                  "text": "Invaders Steel Orchestra ist eine berühmte Steelpan-Band aus Belmont.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.524169,
+                        10.665995
+                  ]
+            },
+            {
+                  "name": "Phase II Pan Groove",
+                  "text": "Ein prominentes Zentrum für Steelpan-Musik und kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.529706,
+                        10.666975
+                  ]
+            },
+            {
+                  "name": "Cascadia Hotel Water Park",
+                  "text": "Cascadia Hotel Water Park ist ein Hotel mit Wasserpark in Belmont.",
+                  "category": "family",
+                  "coords": [
+                        -61.498734,
+                        10.685289
+                  ]
+            },
+            {
+                  "name": "Queen's Hall",
+                  "text": "Eine wichtige Konzert- und Veranstaltungshalle in Port of Spain.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.510727,
+                        10.672871
+                  ]
+            },
+            {
+                  "name": "National Academy for the Performing Arts",
+                  "text": "Ein modernes Theater und Bildungszentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.511326,
+                        10.663355
+                  ]
+            },
+            {
+                  "name": "Queen's Park Savannah",
+                  "text": "Der größte offene Park in Port of Spain, umgeben von historischen Gebäuden.",
+                  "category": "park",
+                  "coords": [
+                        -61.514064,
+                        10.668863
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "Nelson Mandela Park ist ein öffentlicher Park in Belmont.",
+                  "category": "park",
+                  "coords": [
+                        -61.525216,
+                        10.66903
+                  ]
+            },
+            {
+                  "name": "Königliche Botanische Gärten",
+                  "text": "Einer der ältesten botanischen Gärten der Welt, gegründet im Jahr 1818.",
+                  "category": "park",
+                  "coords": [
+                        -61.514646,
+                        10.675529
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Ghandi",
+                  "text": "Ein Denkmal zu Ehren von Mahatma Gandhi in Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.515319,
+                        10.657406
+                  ]
+            },
+            {
+                  "name": "The Mighty Sparrow's Statue",
+                  "text": "Eine Statue, die dem berühmten Calypso-Sänger The Mighty Sparrow gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -61.510562,
+                        10.671059
+                  ]
+            },
+            {
+                  "name": "Laventille Watering Spot",
+                  "text": "Ein lokales Wahrzeichen und historischer Brunnenplatz in Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.494818,
+                        10.646668
+                  ]
+            },
+            {
+                  "name": "Brian Lara Statue",
+                  "text": "Brian Lara Statue ist eine Bronzestatue des Cricketspielers in Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.513922,
+                        10.649632
+                  ]
+            },
+            {
+                  "name": "Symmetry Trinidad Limited",
+                  "text": "Symmetry Trinidad Limited ist ein Bürogebäude in Belmont.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.51937,
+                        10.65825
+                  ]
+            },
+            {
+                  "name": "The Lookout, Lady Chancellor Road",
+                  "text": "The Lookout an der Lady Chancellor Road ist ein bekannter Aussichtspunkt in Belmont. Von diesem Punkt in Trinidad und Tobago können Besucher einen atemberaubenden Weitblick über Port of Spain genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -61.509911,
+                        10.686171
+                  ]
+            },
+            {
+                  "name": "Highlanders Steel Orchestra",
+                  "text": "Ein Zentrum für Musik und Kunst mit Schwerpunkt auf Steelpan-Traditionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.489354,
+                        10.646866
+                  ]
+            },
+            {
+                  "name": "The Big Black Box",
+                  "text": "Ein alternativer Kunstraum für kulturelle Veranstaltungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.522361,
+                        10.661545
+                  ]
+            },
+            {
+                  "name": "Holy Name",
+                  "text": "Holy Name ist eine Kirche in Belmont.",
+                  "category": "religious",
+                  "coords": [
+                        -61.508646,
+                        10.663445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Port of Spain Lighthouse",
+                  "text": "A Port of Spain Lighthouse egy történelmi világítótorony Belmontban, Port of Spainben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.509479,
+                        10.647378
+                  ]
+            },
+            {
+                  "name": "National Museum & Art Gallery",
+                  "text": "A nemzeti múzeum Trinidad művészetének és történelmének jelentős gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -61.510318,
+                        10.662861
+                  ]
+            },
+            {
+                  "name": "Emperor Valley Zoo",
+                  "text": "A sziget fő állatkertje, közvetlenül a Queen's Park Savannah mellett.",
+                  "category": "family",
+                  "coords": [
+                        -61.516417,
+                        10.675622
+                  ]
+            },
+            {
+                  "name": "Invaders Steel Orchestra",
+                  "text": "Az Invaders Steel Orchestra egy híres steelpan zenekar Belmontból.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.524169,
+                        10.665995
+                  ]
+            },
+            {
+                  "name": "Phase II Pan Groove",
+                  "text": "A steelpan zene és a kulturális előadások kiemelkedő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.529706,
+                        10.666975
+                  ]
+            },
+            {
+                  "name": "Cascadia Hotel Water Park",
+                  "text": "A Cascadia Hotel Water Park egy szálloda víziparkkal Belmontban.",
+                  "category": "family",
+                  "coords": [
+                        -61.498734,
+                        10.685289
+                  ]
+            },
+            {
+                  "name": "Queen's Hall",
+                  "text": "Fontos koncert- és rendezvénycsarnok Port of Spainben.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.510727,
+                        10.672871
+                  ]
+            },
+            {
+                  "name": "National Academy for the Performing Arts",
+                  "text": "Modern színház és előadóművészeti oktatási központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.511326,
+                        10.663355
+                  ]
+            },
+            {
+                  "name": "Queen's Park Savannah",
+                  "text": "Port of Spain legnagyobb nyitott parkja, amelyet történelmi épületek vesznek körül.",
+                  "category": "park",
+                  "coords": [
+                        -61.514064,
+                        10.668863
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "A Nelson Mandela Park egy nyilvános park Belmontban.",
+                  "category": "park",
+                  "coords": [
+                        -61.525216,
+                        10.66903
+                  ]
+            },
+            {
+                  "name": "Royal Botanic Gardens",
+                  "text": "A világ egyik legrégebbi botanikus kertje, amelyet 1818-ban alapítottak.",
+                  "category": "park",
+                  "coords": [
+                        -61.514646,
+                        10.675529
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Ghandi",
+                  "text": "Mahatma Gandhi tiszteletére emelt emlékmű Belmontban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.515319,
+                        10.657406
+                  ]
+            },
+            {
+                  "name": "The Mighty Sparrow's Statue",
+                  "text": "A híres calypso énekesnek, The Mighty Sparrow-nak szentelt szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -61.510562,
+                        10.671059
+                  ]
+            },
+            {
+                  "name": "Laventille Watering Spot",
+                  "text": "Helyi jelkép és történelmi kút Belmontban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.494818,
+                        10.646668
+                  ]
+            },
+            {
+                  "name": "Brian Lara Statue",
+                  "text": "A Brian Lara Statue egy bronzszobor a krikettjátékosról Belmontban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.513922,
+                        10.649632
+                  ]
+            },
+            {
+                  "name": "Symmetry Trinidad Limited",
+                  "text": "A Symmetry Trinidad Limited egy irodaépület Belmontban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.51937,
+                        10.65825
+                  ]
+            },
+            {
+                  "name": "The Lookout, Lady Chancellor Road",
+                  "text": "A Lady Chancellor Road-on található The Lookout egy híres kilátóhely Belmontban. Trinidad és Tobagó-i látogatásuk során a turisták innen lenyűgöző panorámát élvezhetnek Port of Spain városa felett.",
+                  "category": "natural",
+                  "coords": [
+                        -61.509911,
+                        10.686171
+                  ]
+            },
+            {
+                  "name": "Highlanders Steel Orchestra",
+                  "text": "Zenei és művészeti központ, amely a steelpan hagyományokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.489354,
+                        10.646866
+                  ]
+            },
+            {
+                  "name": "The Big Black Box",
+                  "text": "Alternatív művészeti tér kulturális események és kiállítások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.522361,
+                        10.661545
+                  ]
+            },
+            {
+                  "name": "Holy Name",
+                  "text": "A Holy Name egy templom Belmontban.",
+                  "category": "religious",
+                  "coords": [
+                        -61.508646,
+                        10.663445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Port of Spain Lighthouse",
+                  "text": "Port of Spain Lighthouse este un far istoric în Belmont, Port of Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.509479,
+                        10.647378
+                  ]
+            },
+            {
+                  "name": "National Museum & Art Gallery",
+                  "text": "Muzeul Național expune colecții importante de artă și istorie din Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -61.510318,
+                        10.662861
+                  ]
+            },
+            {
+                  "name": "Emperor Valley Zoo",
+                  "text": "Grădina zoologică principală a insulei, situată lângă Queen's Park Savannah.",
+                  "category": "family",
+                  "coords": [
+                        -61.516417,
+                        10.675622
+                  ]
+            },
+            {
+                  "name": "Invaders Steel Orchestra",
+                  "text": "Invaders Steel Orchestra este o celebră trupă de steelpan din Belmont.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.524169,
+                        10.665995
+                  ]
+            },
+            {
+                  "name": "Phase II Pan Groove",
+                  "text": "Un centru proeminent pentru muzică steelpan și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.529706,
+                        10.666975
+                  ]
+            },
+            {
+                  "name": "Cascadia Hotel Water Park",
+                  "text": "Cascadia Hotel Water Park este un hotel cu parc acvatic în Belmont.",
+                  "category": "family",
+                  "coords": [
+                        -61.498734,
+                        10.685289
+                  ]
+            },
+            {
+                  "name": "Queen's Hall",
+                  "text": "O importantă sală de concerte și spectacole în Port of Spain.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.510727,
+                        10.672871
+                  ]
+            },
+            {
+                  "name": "National Academy for the Performing Arts",
+                  "text": "Un teatru modern și centru de educație pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.511326,
+                        10.663355
+                  ]
+            },
+            {
+                  "name": "Queen's Park Savannah",
+                  "text": "Cel mai mare parc deschis din Port of Spain, înconjurat de clădiri istorice.",
+                  "category": "park",
+                  "coords": [
+                        -61.514064,
+                        10.668863
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "Nelson Mandela Park este un parc public în Belmont.",
+                  "category": "park",
+                  "coords": [
+                        -61.525216,
+                        10.66903
+                  ]
+            },
+            {
+                  "name": "Royal Botanic Gardens",
+                  "text": "Una dintre cele mai vechi grădini botanice din lume, înființată în 1818.",
+                  "category": "park",
+                  "coords": [
+                        -61.514646,
+                        10.675529
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Ghandi",
+                  "text": "Un monument ridicat în onoarea lui Mahatma Gandhi în Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.515319,
+                        10.657406
+                  ]
+            },
+            {
+                  "name": "The Mighty Sparrow's Statue",
+                  "text": "O statuie dedicată celebrului cântăreț de calypso, The Mighty Sparrow.",
+                  "category": "historical",
+                  "coords": [
+                        -61.510562,
+                        10.671059
+                  ]
+            },
+            {
+                  "name": "Laventille Watering Spot",
+                  "text": "Un punct de reper local și loc istoric de cișmea în Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.494818,
+                        10.646668
+                  ]
+            },
+            {
+                  "name": "Brian Lara Statue",
+                  "text": "Brian Lara Statue este o statuie de bronz a jucătorului de cricket în Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.513922,
+                        10.649632
+                  ]
+            },
+            {
+                  "name": "Symmetry Trinidad Limited",
+                  "text": "Symmetry Trinidad Limited este o clădire de birouri în Belmont.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.51937,
+                        10.65825
+                  ]
+            },
+            {
+                  "name": "The Lookout, Lady Chancellor Road",
+                  "text": "The Lookout, situat pe Lady Chancellor Road, este un punct de belvedere renumit din Belmont. Din această locație din Trinidad și Tobago, vizitatorii pot admira o vedere panoramică asupra Port of Spain.",
+                  "category": "natural",
+                  "coords": [
+                        -61.509911,
+                        10.686171
+                  ]
+            },
+            {
+                  "name": "Highlanders Steel Orchestra",
+                  "text": "Un centru pentru muzică și artă, axat pe tradițiile steelpan.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.489354,
+                        10.646866
+                  ]
+            },
+            {
+                  "name": "The Big Black Box",
+                  "text": "Un spațiu de artă alternativ pentru evenimente culturale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.522361,
+                        10.661545
+                  ]
+            },
+            {
+                  "name": "Holy Name",
+                  "text": "Holy Name este o biserică în Belmont.",
+                  "category": "religious",
+                  "coords": [
+                        -61.508646,
+                        10.663445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Port of Spain Lighthouse",
+                  "text": "Port of Spain Lighthouse is a historic lighthouse in Belmont, Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.509479,
+                        10.647378
+                  ]
+            },
+            {
+                  "name": "National Museum & Art Gallery",
+                  "text": "The national museum houses significant collections of art and history from Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -61.510318,
+                        10.662861
+                  ]
+            },
+            {
+                  "name": "Emperor Valley Zoo",
+                  "text": "The island's main zoo, located adjacent to the Queen's Park Savannah.",
+                  "category": "family",
+                  "coords": [
+                        -61.516417,
+                        10.675622
+                  ]
+            },
+            {
+                  "name": "Invaders Steel Orchestra",
+                  "text": "Invaders Steel Orchestra is a renowned steel pan band based in Belmont.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.524169,
+                        10.665995
+                  ]
+            },
+            {
+                  "name": "Phase II Pan Groove",
+                  "text": "A prominent centre for steelpan music and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.529706,
+                        10.666975
+                  ]
+            },
+            {
+                  "name": "Cascadia Hotel Water Park",
+                  "text": "Cascadia Hotel Water Park is a hotel with a water park in Belmont.",
+                  "category": "family",
+                  "coords": [
+                        -61.498734,
+                        10.685289
+                  ]
+            },
+            {
+                  "name": "Queen's Hall",
+                  "text": "A major concert and performing arts venue in Port of Spain.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.510727,
+                        10.672871
+                  ]
+            },
+            {
+                  "name": "National Academy for the Performing Arts",
+                  "text": "A modern theatre and educational centre for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.511326,
+                        10.663355
+                  ]
+            },
+            {
+                  "name": "Queen's Park Savannah",
+                  "text": "The largest open space in Port of Spain, surrounded by historic buildings.",
+                  "category": "park",
+                  "coords": [
+                        -61.514064,
+                        10.668863
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "Nelson Mandela Park is a public park in Belmont.",
+                  "category": "park",
+                  "coords": [
+                        -61.525216,
+                        10.66903
+                  ]
+            },
+            {
+                  "name": "Royal Botanic Gardens",
+                  "text": "One of the oldest botanical gardens in the world, established in 1818.",
+                  "category": "park",
+                  "coords": [
+                        -61.514646,
+                        10.675529
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Ghandi",
+                  "text": "A monument erected in honor of Mahatma Gandhi in Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.515319,
+                        10.657406
+                  ]
+            },
+            {
+                  "name": "The Mighty Sparrow's Statue",
+                  "text": "A statue dedicated to the famous calypso singer The Mighty Sparrow.",
+                  "category": "historical",
+                  "coords": [
+                        -61.510562,
+                        10.671059
+                  ]
+            },
+            {
+                  "name": "Laventille Watering Spot",
+                  "text": "A local landmark and historical watering site in Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.494818,
+                        10.646668
+                  ]
+            },
+            {
+                  "name": "Brian Lara Statue",
+                  "text": "Brian Lara Statue is a bronze statue of the cricketer in Belmont.",
+                  "category": "historical",
+                  "coords": [
+                        -61.513922,
+                        10.649632
+                  ]
+            },
+            {
+                  "name": "Symmetry Trinidad Limited",
+                  "text": "Symmetry Trinidad Limited is a commercial office building in Belmont.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.51937,
+                        10.65825
+                  ]
+            },
+            {
+                  "name": "The Lookout, Lady Chancellor Road",
+                  "text": "The Lookout on Lady Chancellor Road is a renowned viewpoint situated in Belmont. Visitors to this spot in Trinidad and Tobago can take in sweeping, panoramic views of Port of Spain.",
+                  "category": "natural",
+                  "coords": [
+                        -61.509911,
+                        10.686171
+                  ]
+            },
+            {
+                  "name": "Highlanders Steel Orchestra",
+                  "text": "A centre for music and arts focused on steelpan traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.489354,
+                        10.646866
+                  ]
+            },
+            {
+                  "name": "The Big Black Box",
+                  "text": "An alternative arts space for cultural events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.522361,
+                        10.661545
+                  ]
+            },
+            {
+                  "name": "Holy Name",
+                  "text": "Holy Name is a church in Belmont.",
+                  "category": "religious",
+                  "coords": [
+                        -61.508646,
+                        10.663445
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-POS",
     coords: [-61.5039, 10.6694],
@@ -4630,7 +5998,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bloody Bay",
-                  "text": "Ein malerischer und historischer Strand an der Küste von Tobago.",
+                  "text": "Bloody Bay ist ein malerischer Strand an der Küste von Parlatuvier.",
                   "category": "recreational",
                   "coords": [
                         -60.629886,
@@ -4641,7 +6009,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bloody Bay",
-                  "text": "Gleccseres és történelmi jelentőségű tengerpart Tobago partjainál.",
+                  "text": "A Bloody Bay egy festői strand Parlatuvier partján.",
                   "category": "recreational",
                   "coords": [
                         -60.629886,
@@ -4652,7 +6020,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bloody Bay",
-                  "text": "O plajă pitorească și istorică pe coasta insulei Tobago.",
+                  "text": "Bloody Bay este o plajă pitorească pe coasta din Parlatuvier.",
                   "category": "recreational",
                   "coords": [
                         -60.629886,
@@ -4663,7 +6031,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bloody Bay",
-                  "text": "A scenic and historic beach on the coast of Tobago.",
+                  "text": "Bloody Bay is a scenic beach on the coast of Parlatuvier.",
                   "category": "recreational",
                   "coords": [
                         -60.629886,
@@ -5060,7 +6428,304 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-black-rock-cities-v2", "sights": {"de": [{"name": "Mount Irvine Bay Beach", "text": "Der Mount Irvine Bay Beach erstreckt sich wunderschön entlang der Küste in Black Rock und ist ein sehr beliebter Sandstrand auf Tobago. Dieses Reiseziel balanciert eine lebendige lokale Energie mit natürlicher Schönheit, was es erstklassig zum Sonnenbaden, Schwimmen und zur Erkundung der Küste macht. Ein Besuch am späten Nachmittag bietet eine fantastische Gelegenheit, einen Sonnenuntergang an der Küste zu genießen.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Buccoo Reef", "text": "Ein geschütztes Korallenriff-Reservat vor der Küste von Tobago.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Buccoo Bay", "text": "Eine malerische Bucht in der Nähe von Black Rock.", "category": "landmark", "coords": [-60.811905, 11.176933]}, {"name": "Stone Haven Bay", "text": "Eine natürliche Meeresbucht an der Küste von Tobago.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "Eine weite Bucht, bekannt für ihre Küstenlandschaft.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "Überreste einer historischen Befestigungsanlage in Black Rock.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Atv Ride ", "text": "Eine Freizeitattraktion für Geländewagen-Fahrten in Black Rock.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Being with Horses", "text": "Eine Attraktion, die interaktive Erlebnisse mit Pferden anbietet.", "category": "landmark", "coords": [-60.808437, 11.182185]}], "hu": [{"name": "Mount Irvine Bay Beach", "text": "A Black Rock partja mentén gyönyörűen elterülő Mount Irvine Bay Beach egy nagyon kedvelt homokos menedék Tobagóban. Ez az úti cél egyensúlyban tartja az élénk helyi energiát a természeti szépséggel, így elsőrangú hely a napozáshoz, úszáshoz és a partvonal felfedezéséhez. A késő délutáni látogatás fantasztikus lehetőséget kínál a parti naplemente élvezetére.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Buccoo Reef", "text": "Védett korallzátony-rezervátum Tobago partjainál.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Buccoo Bay", "text": "Gleccser vájta, festői öböl Black Rock közelében.", "category": "landmark", "coords": [-60.811905, 11.176933]}, {"name": "Stone Haven Bay", "text": "Természetes tengeri öböl Tobago partjainál.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "Tágas öböl, amely tengerparti tájáról ismert.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "Egy történelmi erődítmény maradványai Black Rockban.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Atv Ride ", "text": "Szabadidős attrakció quad-túrákhoz Black Rockban.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Being with Horses", "text": "Lovas élményprogramokat kínáló látványosság.", "category": "landmark", "coords": [-60.808437, 11.182185]}], "ro": [{"name": "Mount Irvine Bay Beach", "text": "Întinzându-se frumos de-a lungul coastei în Black Rock, Mount Irvine Bay Beach este un refugiu de nisip foarte apreciat din Tobago. Această destinație echilibrează o energie locală vibrantă cu frumusețea naturală, făcând-o excelentă pentru plajă, înot și explorarea țărmului. Vizitarea după-amiaza târziu oferă o oportunitate fantastică de a vă bucura de un apus de soare pe coastă.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Buccoo Reef", "text": "O rezervație protejată de recif de corali în largul coastei Tobago.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Buccoo Bay", "text": "Un golf pitoresc situat în apropiere de Black Rock.", "category": "landmark", "coords": [-60.811905, 11.176933]}, {"name": "Stone Haven Bay", "text": "Un golf marin natural pe coasta insulei Tobago.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "Un golf larg, cunoscut pentru peisajul său de coastă.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "Rămășițele unei fortificații istorice în Black Rock.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Atv Ride ", "text": "O atracție de agrement pentru plimbări cu ATV-ul în Black Rock.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Being with Horses", "text": "O atracție care oferă experiențe interactive cu cai.", "category": "landmark", "coords": [-60.808437, 11.182185]}], "en": [{"name": "Mount Irvine Bay Beach", "text": "Stretching beautifully along the coast in Black Rock, Mount Irvine Bay Beach is a highly favored sandy retreat in Tobago. This destination balances a vibrant local energy with natural beauty, making it prime for sunbathing, swimming, and exploring the shoreline. Visiting in the late afternoon offers a fantastic opportunity to enjoy a coastal sunset.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Buccoo Reef", "text": "A protected coral reef reserve off the coast of Tobago.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Buccoo Bay", "text": "A scenic bay located near Black Rock.", "category": "landmark", "coords": [-60.811905, 11.176933]}, {"name": "Stone Haven Bay", "text": "A natural marine bay on the coast of Tobago.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "A wide bay known for its coastal scenery.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "The remains of a historical fortification in Black Rock.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Atv Ride ", "text": "A recreational attraction for ATV rides in Black Rock.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Being with Horses", "text": "An attraction offering interactive experiences with horses.", "category": "landmark", "coords": [-60.808437, 11.182185]}]},
+    id: "tt-black-rock-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "Der Mount Irvine Bay Beach erstreckt sich wunderschön entlang der Küste in Black Rock und ist ein sehr beliebter Sandstrand auf Tobago. Dieses Reiseziel balanciert eine lebendige lokale Energie mit natürlicher Schönheit, was es erstklassig zum Sonnenbaden, Schwimmen und zur Erkundung der Küste macht. Ein Besuch am späten Nachmittag bietet eine fantastische Gelegenheit, einen Sonnenuntergang an der Küste zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "Ein geschütztes Korallenriff-Reservat vor der Küste von Tobago.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Buccoo Bay",
+                  "text": "Buccoo Bay ist eine geschützte Bucht in Black Rock, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.811905,
+                        11.176933
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "Stone Haven Bay ist ein Sandstrand in Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "Great Courland Bay ist eine große Bucht in Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "Überreste einer historischen Befestigungsanlage in Black Rock.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Atv Ride bietet geführte Quad-Touren in Black Rock an.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Being with Horses",
+                  "text": "Eine Attraktion, die interaktive Erlebnisse mit Pferden anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.808437,
+                        11.182185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "A Black Rock partja mentén gyönyörűen elterülő Mount Irvine Bay Beach egy nagyon kedvelt homokos menedék Tobagóban. Ez az úti cél egyensúlyban tartja az élénk helyi energiát a természeti szépséggel, így elsőrangú hely a napozáshoz, úszáshoz és a partvonal felfedezéséhez. A késő délutáni látogatás fantasztikus lehetőséget kínál a parti naplemente élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "Védett korallzátony-rezervátum Tobago partjainál.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Buccoo Bay",
+                  "text": "A Buccoo Bay egy védett öböl Black Rockban, Tobagón.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.811905,
+                        11.176933
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "A Stone Haven Bay egy homokos strand Black Rockban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "A Great Courland Bay egy nagy öböl Black Rockban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "Egy történelmi erődítmény maradványai Black Rockban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Az Atv Ride vezetett quad túrákat kínál Black Rockban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Being with Horses",
+                  "text": "Lovas élményprogramokat kínáló látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.808437,
+                        11.182185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "Întinzându-se frumos de-a lungul coastei în Black Rock, Mount Irvine Bay Beach este un refugiu de nisip foarte apreciat din Tobago. Această destinație echilibrează o energie locală vibrantă cu frumusețea naturală, făcând-o excelentă pentru plajă, înot și explorarea țărmului. Vizitarea după-amiaza târziu oferă o oportunitate fantastică de a vă bucura de un apus de soare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "O rezervație protejată de recif de corali în largul coastei Tobago.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Buccoo Bay",
+                  "text": "Buccoo Bay este un golf adăpostit în Black Rock, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.811905,
+                        11.176933
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "Stone Haven Bay este o plajă cu nisip în Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "Great Courland Bay este un golf mare în Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "Rămășițele unei fortificații istorice în Black Rock.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Atv Ride oferă tururi ghidate cu ATV-ul în Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Being with Horses",
+                  "text": "O atracție care oferă experiențe interactive cu cai.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.808437,
+                        11.182185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "Stretching beautifully along the coast in Black Rock, Mount Irvine Bay Beach is a highly favored sandy retreat in Tobago. This destination balances a vibrant local energy with natural beauty, making it prime for sunbathing, swimming, and exploring the shoreline. Visiting in the late afternoon offers a fantastic opportunity to enjoy a coastal sunset.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Buccoo Reef",
+                  "text": "A protected coral reef reserve off the coast of Tobago.",
+                  "category": "natural",
+                  "coords": [
+                        -60.826653,
+                        11.180334
+                  ]
+            },
+            {
+                  "name": "Buccoo Bay",
+                  "text": "Buccoo Bay is a sheltered bay in Black Rock, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.811905,
+                        11.176933
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "Stone Haven Bay is a sandy beach in Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "Great Courland Bay is a large bay in Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "The remains of a historical fortification in Black Rock.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Atv Ride offers guided quad bike tours in Black Rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Being with Horses",
+                  "text": "An attraction offering interactive experiences with horses.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.808437,
+                        11.182185
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-TOB",
     coords: [-60.8000, 11.2000],
@@ -5284,7 +6949,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cow Land",
-                  "text": "Eine lokale Attraktion in Tacarigua.",
+                  "text": "Cow Land ist ein Viehbetrieb in Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -5293,7 +6958,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "Ein Garten und Ausflugsziel in Tacarigua.",
+                  "text": "Bolo Garden ist ein botanischer Garten in Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5302,7 +6967,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Ein Willkommensschild und Denkmal in Tacarigua.",
+                  "text": "Oropune Gardens Welcome sign markiert den Eingang zu den Gärten in Tacariqua.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -5311,7 +6976,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "Ein Park und Ausflugsziel in Tacarigua.",
+                  "text": "Prime Minister Park ist ein öffentlicher Park in Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -5322,7 +6987,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cow Land",
-                  "text": "Helyi látványosság Tacariguában.",
+                  "text": "A Cow Land egy állattenyésztő farm Tacariquában.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -5331,7 +6996,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "Kert és látványosság Tacariguában.",
+                  "text": "A Bolo Garden egy botanikus kert Tacariquában.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5340,7 +7005,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Üdvözlő tábla és emlékmű Tacariguában.",
+                  "text": "Az Oropune Gardens Welcome sign jelzi a kertek bejáratát Tacariquában.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -5349,7 +7014,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "Park és látványosság Tacariguában.",
+                  "text": "A Prime Minister Park egy nyilvános park Tacariquában.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -5360,7 +7025,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cow Land",
-                  "text": "O atracție locală în Tacarigua.",
+                  "text": "Cow Land este o fermă de animale în Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -5369,7 +7034,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "O grădină și atracție în Tacarigua.",
+                  "text": "Bolo Garden este o grădină botanică în Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5378,7 +7043,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "Un semn de bun venit și monument în Tacarigua.",
+                  "text": "Oropune Gardens Welcome sign marchează intrarea în grădini în Tacariqua.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -5387,7 +7052,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "Un parc și atracție în Tacarigua.",
+                  "text": "Prime Minister Park este un parc public în Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -5398,7 +7063,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cow Land",
-                  "text": "A local attraction in Tacarigua.",
+                  "text": "Cow Land is a livestock farm in Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.344946,
@@ -5407,7 +7072,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "A garden and attraction in Tacarigua.",
+                  "text": "Bolo Garden is a botanical garden in Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5416,7 +7081,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Oropune Gardens Welcome sign",
-                  "text": "A welcome sign and monument in Tacarigua.",
+                  "text": "Oropune Gardens Welcome sign marks the entrance to the gardens in Tacariqua.",
                   "category": "historical",
                   "coords": [
                         -61.352635,
@@ -5425,7 +7090,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Prime Minister Park",
-                  "text": "A park and attraction in Tacarigua.",
+                  "text": "Prime Minister Park is a public park in Tacariqua.",
                   "category": "landmark",
                   "coords": [
                         -61.346866,
@@ -5481,7 +7146,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "National Science Centre",
-                  "text": "Ein Museum in D'Abadie, das wissenschaftliche Themen präsentiert.",
+                  "text": "National Science Centre ist ein interaktives Wissenschaftsmuseum in Dabadie.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -5499,7 +7164,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "Eine Gartenanlage und Sehenswürdigkeit in D'Abadie.",
+                  "text": "Bolo Garden ist ein botanischer Garten in Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5508,7 +7173,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "Eine lokale Sehenswürdigkeit in der Siedlung Surrey Village.",
+                  "text": "Surrey Village ist ein Wohngebiet in Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -5519,7 +7184,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "National Science Centre",
-                  "text": "Tudományos témákat bemutató múzeum D'Abadie-ban.",
+                  "text": "A National Science Centre egy interaktív tudományos múzeum Dabadie-ban.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -5537,7 +7202,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "Kert és látnivaló D'Abadie városában.",
+                  "text": "A Bolo Garden egy botanikus kert Dabadie-ban.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5546,7 +7211,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "Helyi látnivaló Surrey Village településen.",
+                  "text": "A Surrey Village egy lakónegyed Dabadie-ban.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -5557,7 +7222,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "National Science Centre",
-                  "text": "Un muzeu în D'Abadie care prezintă teme științifice.",
+                  "text": "National Science Centre este un muzeu științific interactiv în Dabadie.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -5575,7 +7240,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "O grădină și atracție turistică în D'Abadie.",
+                  "text": "Bolo Garden este o grădină botanică în Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5584,7 +7249,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "Un obiectiv turistic local în așezarea Surrey Village.",
+                  "text": "Surrey Village este o zonă rezidențială în Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -5595,7 +7260,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "National Science Centre",
-                  "text": "A museum in D'Abadie presenting scientific themes.",
+                  "text": "National Science Centre is an interactive science museum in Dabadie.",
                   "category": "museum",
                   "coords": [
                         -61.324952,
@@ -5613,7 +7278,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "bolo garden",
-                  "text": "A garden and attraction located in D'Abadie.",
+                  "text": "Bolo Garden is a botanical garden in Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
@@ -5622,7 +7287,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Surrey Village",
-                  "text": "A local attraction located in the Surrey Village settlement.",
+                  "text": "Surrey Village is a residential area in Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.327075,
@@ -5938,7 +7603,268 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-plymouth-cities-v2", "sights": {"de": [{"name": "Mount Irvine Bay Beach", "text": "Der Mount Irvine Bay Beach entfaltet sich majestätisch in der Nähe von Plymouth und ist ein bemerkenswert malerischer Sandstrand in Trinidad und Tobago. Eine dynamische und doch entspannende Umgebung zieht Besucher an, die in klarem Wasser schwimmen und die tropische Sonne genießen möchten. Wer am Morgen ankommt, erlebt eine ruhigere Zeit, bevor das typische nachmittägliche Treiben am Meer beginnt.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Stone Haven Bay", "text": "Stone Haven Bay ist eine Küstenbucht in der Nähe von Plymouth.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "Die Great Courland Bay ist eine bemerkenswerte Bucht in der Gegend von Plymouth.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "Fort Bennett bietet historische Ruinen in Plymouth.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Great Courland Bay Monument", "text": "Das Great Courland Bay Monument ist ein Wahrzeichen in Plymouth.", "category": "historical", "coords": [-60.77799, 11.220231]}, {"name": "Atv Ride ", "text": "Atv Ride ist eine lokale Freizeitattraktion in Plymouth.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Fort James", "text": "Fort James ist eine archäologische Ruinenstätte in Plymouth.", "category": "historical", "coords": [-60.780678, 11.220355]}], "hu": [{"name": "Mount Irvine Bay Beach", "text": "A Plymouth közelében fenségesen kibontakozó Mount Irvine Bay Beach egy figyelemre méltóan festői homokos part Trinidad és Tobagóban. A dinamikus, mégis pihentető környezet vonzza a látogatókat, akik vágynak a tiszta vizekben való úszásra és a trópusi napsütés élvezetére. A reggeli érkezés nyugodtabb élményt nyújt, mielőtt megkezdődik a jellegzetes délutáni tengerparti nyüzsgés.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Stone Haven Bay", "text": "A Stone Haven Bay egy tengerparti öböl Plymouth közelében.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "A Great Courland Bay egy jelentős öböl Plymouth térségében.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "A Fort Bennett történelmi romokkal rendelkezik Plymouthban.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Great Courland Bay Monument", "text": "A Great Courland Bay Monument egy nevezetesség Plymouthban.", "category": "historical", "coords": [-60.77799, 11.220231]}, {"name": "Atv Ride ", "text": "Az Atv Ride egy helyi szabadidős látványosság Plymouthban.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Fort James", "text": "A Fort James egy régészeti romterület Plymouthban.", "category": "historical", "coords": [-60.780678, 11.220355]}], "ro": [{"name": "Mount Irvine Bay Beach", "text": "Desfășurându-se maiestuos lângă Plymouth, Mount Irvine Bay Beach este un țărm de nisip remarcabil de pitoresc din Trinidad și Tobago. Un mediu dinamic, dar relaxant, atrage vizitatorii dornici să înoate în ape limpezi și să se bucure de soarele tropical. Sosirea dimineața oferă o experiență mai calmă înainte de a începe forfota tipică de după-amiază la malul mării.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Stone Haven Bay", "text": "Stone Haven Bay este un golf de coastă situat lângă Plymouth.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "Great Courland Bay este un golf notabil situat în zona Plymouth.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "Fort Bennett prezintă ruine istorice situate în Plymouth.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Great Courland Bay Monument", "text": "Great Courland Bay Monument este un punct de reper situat în Plymouth.", "category": "historical", "coords": [-60.77799, 11.220231]}, {"name": "Atv Ride ", "text": "Atv Ride este o atracție de agrement locală în Plymouth.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Fort James", "text": "Fort James este un sit arheologic cu ruine situat în Plymouth.", "category": "historical", "coords": [-60.780678, 11.220355]}], "en": [{"name": "Mount Irvine Bay Beach", "text": "Unfolding majestically near Plymouth, Mount Irvine Bay Beach is a remarkably picturesque sandy shore in Trinidad and Tobago. A dynamic yet relaxing environment draws visitors eager to swim in clear waters and soak up the tropical sunshine. Arriving in the morning provides a calmer experience before the typical afternoon seaside bustle begins.", "category": "recreational", "coords": [-60.7958, 11.193689]}, {"name": "Stone Haven Bay", "text": "Stone Haven Bay is a coastal bay situated near Plymouth.", "category": "landmark", "coords": [-60.787615, 11.203351]}, {"name": "Great Courland Bay", "text": "Great Courland Bay is a notable bay located in the area of Plymouth.", "category": "landmark", "coords": [-60.779483, 11.215011]}, {"name": "Fort Bennett", "text": "Fort Bennett features historical ruins located in Plymouth.", "category": "historical", "coords": [-60.78572, 11.207397]}, {"name": "Great Courland Bay Monument", "text": "The Great Courland Bay Monument is a landmark situated in Plymouth.", "category": "historical", "coords": [-60.77799, 11.220231]}, {"name": "Atv Ride ", "text": "Atv Ride is a local recreational attraction in Plymouth.", "category": "landmark", "coords": [-60.777094, 11.211118]}, {"name": "Fort James", "text": "Fort James is an archaeological ruin site located in Plymouth.", "category": "historical", "coords": [-60.780678, 11.220355]}]},
+    id: "tt-plymouth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "Der Mount Irvine Bay Beach entfaltet sich majestätisch in der Nähe von Plymouth und ist ein bemerkenswert malerischer Sandstrand in Trinidad und Tobago. Eine dynamische und doch entspannende Umgebung zieht Besucher an, die in klarem Wasser schwimmen und die tropische Sonne genießen möchten. Wer am Morgen ankommt, erlebt eine ruhigere Zeit, bevor das typische nachmittägliche Treiben am Meer beginnt.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "Stone Haven Bay ist ein Sandstrand in Plymouth, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "Great Courland Bay ist eine große Bucht in Plymouth, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "Fort Bennett ist ein historisches Fort in Plymouth, Tobago.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay Monument",
+                  "text": "Great Courland Bay Monument erinnert an die erste Siedlung in Plymouth.",
+                  "category": "historical",
+                  "coords": [
+                        -60.77799,
+                        11.220231
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Atv Ride bietet geführte Quad-Touren in Plymouth an.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Fort James",
+                  "text": "Fort James ist ein historisches Fort in Plymouth, Tobago.",
+                  "category": "historical",
+                  "coords": [
+                        -60.780678,
+                        11.220355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "A Plymouth közelében fenségesen kibontakozó Mount Irvine Bay Beach egy figyelemre méltóan festői homokos part Trinidad és Tobagóban. A dinamikus, mégis pihentető környezet vonzza a látogatókat, akik vágynak a tiszta vizekben való úszásra és a trópusi napsütés élvezetére. A reggeli érkezés nyugodtabb élményt nyújt, mielőtt megkezdődik a jellegzetes délutáni tengerparti nyüzsgés.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "A Stone Haven Bay egy homokos strand Plymouthban, Tobagón.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "A Great Courland Bay egy nagy öböl Plymouthban, Tobagón.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "A Fort Bennett egy történelmi erőd Plymouthban, Tobagón.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay Monument",
+                  "text": "A Great Courland Bay Monument az első településre emlékeztet Plymouthban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.77799,
+                        11.220231
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Az Atv Ride vezetett quad túrákat kínál Plymouthban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Fort James",
+                  "text": "A Fort James egy történelmi erőd Plymouthban, Tobagón.",
+                  "category": "historical",
+                  "coords": [
+                        -60.780678,
+                        11.220355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "Desfășurându-se maiestuos lângă Plymouth, Mount Irvine Bay Beach este un țărm de nisip remarcabil de pitoresc din Trinidad și Tobago. Un mediu dinamic, dar relaxant, atrage vizitatorii dornici să înoate în ape limpezi și să se bucure de soarele tropical. Sosirea dimineața oferă o experiență mai calmă înainte de a începe forfota tipică de după-amiază la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "Stone Haven Bay este o plajă cu nisip în Plymouth, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "Great Courland Bay este un golf mare în Plymouth, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "Fort Bennett este un fort istoric în Plymouth, Tobago.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay Monument",
+                  "text": "Great Courland Bay Monument comemorează prima așezare în Plymouth.",
+                  "category": "historical",
+                  "coords": [
+                        -60.77799,
+                        11.220231
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Atv Ride oferă tururi ghidate cu ATV-ul în Plymouth.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Fort James",
+                  "text": "Fort James este un fort istoric în Plymouth, Tobago.",
+                  "category": "historical",
+                  "coords": [
+                        -60.780678,
+                        11.220355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Irvine Bay Beach",
+                  "text": "Unfolding majestically near Plymouth, Mount Irvine Bay Beach is a remarkably picturesque sandy shore in Trinidad and Tobago. A dynamic yet relaxing environment draws visitors eager to swim in clear waters and soak up the tropical sunshine. Arriving in the morning provides a calmer experience before the typical afternoon seaside bustle begins.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.7958,
+                        11.193689
+                  ]
+            },
+            {
+                  "name": "Stone Haven Bay",
+                  "text": "Stone Haven Bay is a sandy beach in Plymouth, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.787615,
+                        11.203351
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay",
+                  "text": "Great Courland Bay is a large bay in Plymouth, Tobago.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.779483,
+                        11.215011
+                  ]
+            },
+            {
+                  "name": "Fort Bennett",
+                  "text": "Fort Bennett is a historic fort in Plymouth, Tobago.",
+                  "category": "historical",
+                  "coords": [
+                        -60.78572,
+                        11.207397
+                  ]
+            },
+            {
+                  "name": "Great Courland Bay Monument",
+                  "text": "Great Courland Bay Monument commemorates the first settlement in Plymouth.",
+                  "category": "historical",
+                  "coords": [
+                        -60.77799,
+                        11.220231
+                  ]
+            },
+            {
+                  "name": "Atv Ride ",
+                  "text": "Atv Ride offers guided quad bike tours in Plymouth.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.777094,
+                        11.211118
+                  ]
+            },
+            {
+                  "name": "Fort James",
+                  "text": "Fort James is a historic fort in Plymouth, Tobago.",
+                  "category": "historical",
+                  "coords": [
+                        -60.780678,
+                        11.220355
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-TOB",
     coords: [-60.7833, 11.2167],
@@ -6039,7 +7965,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Little Rockly Bay",
-                  "text": "Eine kleine Küstenbucht in der Gegend von Morne Quinton.",
+                  "text": "Little Rockly Bay ist ein kleiner Strand in Morne Quinton.",
                   "category": "landmark",
                   "coords": [
                         -60.761791,
@@ -6048,7 +7974,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Rockly Bay",
-                  "text": "Eine markante Bucht an der Küste von Morne Quinton.",
+                  "text": "Rockly Bay ist eine große Bucht in Morne Quinton.",
                   "category": "landmark",
                   "coords": [
                         -60.738874,
@@ -6077,7 +8003,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Little Rockly Bay",
-                  "text": "Egy kis tengerparti öböl Morne Quinton környékén.",
+                  "text": "A Little Rockly Bay egy kis strand Morne Quintonban.",
                   "category": "landmark",
                   "coords": [
                         -60.761791,
@@ -6086,7 +8012,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Rockly Bay",
-                  "text": "Jelentős öböl Morne Quinton partjainál.",
+                  "text": "A Rockly Bay egy nagy öböl Morne Quintonban.",
                   "category": "landmark",
                   "coords": [
                         -60.738874,
@@ -6115,7 +8041,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Little Rockly Bay",
-                  "text": "Un mic golf de coastă situat în zona Morne Quinton.",
+                  "text": "Little Rockly Bay este o plajă mică în Morne Quinton.",
                   "category": "landmark",
                   "coords": [
                         -60.761791,
@@ -6124,7 +8050,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Rockly Bay",
-                  "text": "Un golf proeminent pe coasta din Morne Quinton.",
+                  "text": "Rockly Bay este un golf mare în Morne Quinton.",
                   "category": "landmark",
                   "coords": [
                         -60.738874,
@@ -6153,7 +8079,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Little Rockly Bay",
-                  "text": "A small coastal bay located in the Morne Quinton area.",
+                  "text": "Little Rockly Bay is a small beach in Morne Quinton.",
                   "category": "landmark",
                   "coords": [
                         -60.761791,
@@ -6162,7 +8088,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Rockly Bay",
-                  "text": "A prominent bay on the coast of Morne Quinton.",
+                  "text": "Rockly Bay is a large bay in Morne Quinton.",
                   "category": "landmark",
                   "coords": [
                         -60.738874,
@@ -6227,7 +8153,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Goldsborough Bay",
-                  "text": "Die Goldsborough Bay ist eine malerische Küstenbucht in Goldsborough.",
+                  "text": "Goldsborough Bay ist eine Bucht in Goldsborough.",
                   "category": "landmark",
                   "coords": [
                         -60.62502,
@@ -6238,7 +8164,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Goldsborough Bay",
-                  "text": "A Goldsborough Bay egy festői tengerparti öböl Goldsborough-ban.",
+                  "text": "A Goldsborough Bay egy öböl Goldsboroughban.",
                   "category": "landmark",
                   "coords": [
                         -60.62502,
@@ -6249,7 +8175,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Goldsborough Bay",
-                  "text": "Goldsborough Bay este un golf pitoresc de coastă din Goldsborough.",
+                  "text": "Goldsborough Bay este un golf în Goldsborough.",
                   "category": "landmark",
                   "coords": [
                         -60.62502,
@@ -6260,7 +8186,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Goldsborough Bay",
-                  "text": "Goldsborough Bay is a picturesque coastal bay in Goldsborough.",
+                  "text": "Goldsborough Bay is a bay in Goldsborough.",
                   "category": "landmark",
                   "coords": [
                         -60.62502,
@@ -6449,7 +8375,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "Corbin Wildlife ist eine Naturattraktion in Mason Hall.",
+                  "text": "Corbin Wildlife ist ein Wildtierreservat in Mason Hall.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6460,7 +8386,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "A Corbin Wildlife egy természeti látványosság Mason Hallban.",
+                  "text": "A Corbin Wildlife egy vadvilág-rezervátum Mason Hallban.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6471,7 +8397,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "Corbin Wildlife este o atracție în natură situată în Mason Hall.",
+                  "text": "Corbin Wildlife este un sanctuar de animale sălbatice în Mason Hall.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6482,7 +8408,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "Corbin Wildlife is a nature attraction situated in Mason Hall.",
+                  "text": "Corbin Wildlife is a wildlife sanctuary in Mason Hall.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6671,7 +8597,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tobago Cocoa Estate",
-                  "text": "Das Tobago Cocoa Estate ist ein Museum für das lokale Erbe in Richmond.",
+                  "text": "Tobago Cocoa Estate ist ein historisches Kakaoplantagenmuseum in Richmond.",
                   "category": "museum",
                   "coords": [
                         -60.58983,
@@ -6680,7 +8606,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Argyle Waterfalls & Nature Park",
-                  "text": "Argyle Waterfalls & Nature Park ist eine Naturattraktion in Richmond.",
+                  "text": "Argyle Waterfalls & Nature Park ist ein üppiger Naturpark mit Kaskadenwasserfällen in Richmond.",
                   "category": "landmark",
                   "coords": [
                         -60.586378,
@@ -6700,7 +8626,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tobago Cocoa Estate",
-                  "text": "A Tobago Cocoa Estate a helyi örökségnek szentelt múzeum Richmondban.",
+                  "text": "A Tobago Cocoa Estate egy történelmi kakaóültetvény-múzeum Richmondban.",
                   "category": "museum",
                   "coords": [
                         -60.58983,
@@ -6709,7 +8635,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Argyle Waterfalls & Nature Park",
-                  "text": "Az Argyle Waterfalls & Nature Park egy természeti látványosság Richmondban.",
+                  "text": "Az Argyle Waterfalls & Nature Park egy buja természeti park zuhatagos vízesésekkel Richmondban.",
                   "category": "landmark",
                   "coords": [
                         -60.586378,
@@ -6729,7 +8655,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tobago Cocoa Estate",
-                  "text": "Tobago Cocoa Estate este un muzeu dedicat patrimoniului local din Richmond.",
+                  "text": "Tobago Cocoa Estate este un muzeu istoric al plantației de cacao în Richmond.",
                   "category": "museum",
                   "coords": [
                         -60.58983,
@@ -6738,7 +8664,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Argyle Waterfalls & Nature Park",
-                  "text": "Argyle Waterfalls & Nature Park este o atracție naturală situată în Richmond.",
+                  "text": "Argyle Waterfalls & Nature Park este un parc natural luxuriant cu cascade în cascadă în Richmond.",
                   "category": "landmark",
                   "coords": [
                         -60.586378,
@@ -6758,7 +8684,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tobago Cocoa Estate",
-                  "text": "The Tobago Cocoa Estate is a museum dedicated to local heritage in Richmond.",
+                  "text": "Tobago Cocoa Estate is a historic cocoa plantation museum in Richmond.",
                   "category": "museum",
                   "coords": [
                         -60.58983,
@@ -6767,7 +8693,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "Argyle Waterfalls & Nature Park",
-                  "text": "Argyle Waterfalls & Nature Park is a natural attraction located in Richmond.",
+                  "text": "Argyle Waterfalls & Nature Park is a lush nature park with cascading waterfalls in Richmond.",
                   "category": "landmark",
                   "coords": [
                         -60.586378,
@@ -6832,7 +8758,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "Ein Wildpark und Naturziel in der Nähe von Glamis.",
+                  "text": "Corbin Wildlife ist ein Wildtierreservat in Glamis.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6843,7 +8769,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "Vadaspark és természeti látnivaló Glamis közelében.",
+                  "text": "A Corbin Wildlife egy vadvilág-rezervátum Glamisban.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6854,7 +8780,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "Un parc natural și atracție turistică lângă Glamis.",
+                  "text": "Corbin Wildlife este un sanctuar de animale sălbatice în Glamis.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -6865,7 +8791,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Corbin Wildlife",
-                  "text": "A wildlife park and nature attraction near Glamis.",
+                  "text": "Corbin Wildlife is a wildlife sanctuary in Glamis.",
                   "category": "landmark",
                   "coords": [
                         -60.703929,
@@ -7363,7 +9289,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Harry's Water Park",
-                  "text": "Ein beliebter Wasserpark und Erholungsgebiet.",
+                  "text": "Harry's Water Park ist ein familienfreundlicher Wasserpark an der Brothers Road.",
                   "category": "family",
                   "coords": [
                         -61.262463,
@@ -7372,7 +9298,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "San Pedro Forest Reserve",
-                  "text": "Ein geschütztes Waldgebiet und Naturschutzgebiet.",
+                  "text": "San Pedro Forest Reserve ist ein geschützter Regenwald an der Brothers Road.",
                   "category": "natural",
                   "coords": [
                         -61.250207,
@@ -7383,7 +9309,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Harry's Water Park",
-                  "text": "Népszerű vízi park és kikapcsolódási terület.",
+                  "text": "A Harry's Water Park egy családbarát vízipark a Brothers Roadon.",
                   "category": "family",
                   "coords": [
                         -61.262463,
@@ -7392,7 +9318,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "San Pedro Forest Reserve",
-                  "text": "Védett erdőterület és természetvédelmi terület.",
+                  "text": "A San Pedro Forest Reserve egy védett esőerdő a Brothers Roadon.",
                   "category": "natural",
                   "coords": [
                         -61.250207,
@@ -7403,7 +9329,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Harry's Water Park",
-                  "text": "Un parc acvatic popular și zonă de recreere.",
+                  "text": "Harry's Water Park este un parc acvatic pentru familii pe Brothers Road.",
                   "category": "family",
                   "coords": [
                         -61.262463,
@@ -7412,7 +9338,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "San Pedro Forest Reserve",
-                  "text": "O zonă forestieră protejată și rezervație naturală.",
+                  "text": "San Pedro Forest Reserve este o pădure tropicală protejată pe Brothers Road.",
                   "category": "natural",
                   "coords": [
                         -61.250207,
@@ -7423,7 +9349,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Harry's Water Park",
-                  "text": "A popular water park and recreation area.",
+                  "text": "Harry's Water Park is a family-friendly water park on Brothers Road.",
                   "category": "family",
                   "coords": [
                         -61.262463,
@@ -7432,7 +9358,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             },
             {
                   "name": "San Pedro Forest Reserve",
-                  "text": "A protected forest area and nature reserve.",
+                  "text": "San Pedro Forest Reserve is a protected rainforest in Brothers Road.",
                   "category": "natural",
                   "coords": [
                         -61.250207,

@@ -54,7 +54,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "de": [
             {
                   "name": "Parque Natural Tres Pinos",
-                  "text": "Parque Natural Tres Pinos ist ein Naturpark in der Sierra Madre Oriental.",
+                  "text": "Naturpark mit drei markanten Kiefern in der Madre Oriental.",
                   "category": "natural",
                   "coords": [
                         -99.917404,
@@ -65,7 +65,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Natural Tres Pinos",
-                  "text": "Parque Natural Tres Pinos egy természeti park a Sierra Madre Orientalban.",
+                  "text": "Természeti park három jellegzetes fenyővel a Madre Orientalban.",
                   "category": "natural",
                   "coords": [
                         -99.917404,
@@ -76,7 +76,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Natural Tres Pinos",
-                  "text": "Parque Natural Tres Pinos este un parc natural în Sierra Madre Oriental.",
+                  "text": "Parcul natural cu trei pini proeminenți în Madre Oriental.",
                   "category": "natural",
                   "coords": [
                         -99.917404,
@@ -87,7 +87,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "en": [
             {
                   "name": "Parque Natural Tres Pinos",
-                  "text": "Parque Natural Tres Pinos is a natural park in the Sierra Madre Oriental.",
+                  "text": "Natural park with three prominent pines in Madre Oriental.",
                   "category": "natural",
                   "coords": [
                         -99.917404,
@@ -249,7 +249,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "de": [
             {
                   "name": "Picacho del Diablo",
-                  "text": "Picacho del Diablo ist der höchste Berg in Baja California.",
+                  "text": "Der Picacho del Diablo ist der höchste Gipfel Baja Californias in der Sierra San Pedro Mártir nahe San Pedro Martir.",
                   "category": "natural",
                   "coords": [
                         -115.375058,
@@ -258,7 +258,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador Picacho",
-                  "text": "Mirador Picacho ist ein Aussichtspunkt in der Sierra San Pedro Mártir.",
+                  "text": "Aussichtspunkt auf dem Gipfel des Picacho im San Pedro Martir.",
                   "category": "natural",
                   "coords": [
                         -115.445392,
@@ -267,7 +267,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador al Altar",
-                  "text": "Mirador al Altar ist eine Attraktion in der Sierra San Pedro Mártir.",
+                  "text": "Aussichtspunkt mit Blick auf das Altar-Gebiet in San Pedro Martir.",
                   "category": "landmark",
                   "coords": [
                         -115.447434,
@@ -276,7 +276,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo del Parque San Pedro Mártir",
-                  "text": "Museo del Parque San Pedro Mártir ist ein Museum in der Sierra San Pedro Mártir.",
+                  "text": "Museum im Parque San Pedro Mártir mit Exponaten zur lokalen Natur und Geschichte.",
                   "category": "museum",
                   "coords": [
                         -115.488729,
@@ -287,7 +287,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Picacho del Diablo",
-                  "text": "Picacho del Diablo a legmagasabb csúcs Alsó-Kaliforniában.",
+                  "text": "A Picacho del Diablo Baja California legmagasabb csúcsa a Sierra San Pedro Mártir-hegységben, San Pedro Martir közelében.",
                   "category": "natural",
                   "coords": [
                         -115.375058,
@@ -296,7 +296,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador Picacho",
-                  "text": "Mirador Picacho egy kilátópont a Sierra San Pedro Mártirban.",
+                  "text": "Kilátó a Picacho csúcsán San Pedro Martirban.",
                   "category": "natural",
                   "coords": [
                         -115.445392,
@@ -305,7 +305,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador al Altar",
-                  "text": "Mirador al Altar egy látványosság a Sierra San Pedro Mártirban.",
+                  "text": "Kilátó az Altar vidékére San Pedro Martirban.",
                   "category": "landmark",
                   "coords": [
                         -115.447434,
@@ -314,7 +314,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo del Parque San Pedro Mártir",
-                  "text": "Museo del Parque San Pedro Mártir egy múzeum a Sierra San Pedro Mártirban.",
+                  "text": "Múzeum a San Pedro Mártir Parkban, helyi természeti és történelmi kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -115.488729,
@@ -325,7 +325,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Picacho del Diablo",
-                  "text": "Picacho del Diablo este cel mai înalt vârf din Baja California.",
+                  "text": "Picacho del Diablo este cel mai înalt vârf din Baja California, în munții Sierra San Pedro Mártir, lângă San Pedro Martir.",
                   "category": "natural",
                   "coords": [
                         -115.375058,
@@ -334,7 +334,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador Picacho",
-                  "text": "Mirador Picacho este un punct de belvedere în Sierra San Pedro Mártir.",
+                  "text": "Punct de belvedere pe vârful Picacho în San Pedro Martir.",
                   "category": "natural",
                   "coords": [
                         -115.445392,
@@ -343,7 +343,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador al Altar",
-                  "text": "Mirador al Altar este o atracție în Sierra San Pedro Mártir.",
+                  "text": "Punct de belvedere spre zona Altar în San Pedro Martir.",
                   "category": "landmark",
                   "coords": [
                         -115.447434,
@@ -352,7 +352,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo del Parque San Pedro Mártir",
-                  "text": "Museo del Parque San Pedro Mártir este un muzeu în Sierra San Pedro Mártir.",
+                  "text": "Muzeu în Parcul San Pedro Mártir cu expoziții despre natura și istoria locală.",
                   "category": "museum",
                   "coords": [
                         -115.488729,
@@ -363,7 +363,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "en": [
             {
                   "name": "Picacho del Diablo",
-                  "text": "Picacho del Diablo is the highest peak in Baja California.",
+                  "text": "Picacho del Diablo is the highest peak in Baja California, in the Sierra San Pedro Mártir range near San Pedro Martir.",
                   "category": "natural",
                   "coords": [
                         -115.375058,
@@ -372,7 +372,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador Picacho",
-                  "text": "Mirador Picacho is a viewpoint in the Sierra San Pedro Mártir.",
+                  "text": "Viewpoint on the peak of Picacho in San Pedro Martir.",
                   "category": "natural",
                   "coords": [
                         -115.445392,
@@ -381,7 +381,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mirador al Altar",
-                  "text": "Mirador al Altar is an attraction in the Sierra San Pedro Mártir.",
+                  "text": "Viewpoint overlooking the Altar area in San Pedro Martir.",
                   "category": "landmark",
                   "coords": [
                         -115.447434,
@@ -390,7 +390,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo del Parque San Pedro Mártir",
-                  "text": "Museo del Parque San Pedro Mártir is a museum in the Sierra San Pedro Mártir.",
+                  "text": "Museum in Parque San Pedro Mártir with exhibits on local nature and history.",
                   "category": "museum",
                   "coords": [
                         -115.488729,
@@ -446,7 +446,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Teatro Bam",
-                  "text": "Teatro Bam ist ein Theater in der Llanura Costera del Golfo.",
+                  "text": "Theater Bam, ein kulturelles Zentrum in Costera Del Golfo.",
                   "category": "cultural",
                   "coords": [
                         -97.045615,
@@ -466,7 +466,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Teatro Bam",
-                  "text": "A Teatro Bam egy színház a Llanura Costera del Golfóban.",
+                  "text": "Bam Színház, kulturális központ Costera Del Golfóban.",
                   "category": "cultural",
                   "coords": [
                         -97.045615,
@@ -486,7 +486,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Teatro Bam",
-                  "text": "Teatro Bam este un teatru în Llanura Costera del Golfo.",
+                  "text": "Teatrul Bam, un centru cultural în Costera Del Golfo.",
                   "category": "cultural",
                   "coords": [
                         -97.045615,
@@ -506,7 +506,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Teatro Bam",
-                  "text": "Teatro Bam is a theatre in the Llanura Costera del Golfo.",
+                  "text": "Teatro Bam, a cultural center in Costera Del Golfo.",
                   "category": "cultural",
                   "coords": [
                         -97.045615,
@@ -668,7 +668,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "de": [
             {
                   "name": "El Picacho",
-                  "text": "Ein malerischer Aussichtspunkt in der Sierra de Gijón Region.",
+                  "text": "Berggipfel El Picacho in De Gijon.",
                   "category": "natural",
                   "coords": [
                         -96.524322,
@@ -686,7 +686,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Comunitario",
-                  "text": "Ein Gemeinschaftsmuseum in der Sierra de Gijón Region.",
+                  "text": "Gemeinschaftsmuseum mit lokalen Ausstellungen in De Gijon.",
                   "category": "museum",
                   "coords": [
                         -96.5408,
@@ -704,7 +704,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Eco Centrum",
-                  "text": "Ein ökologisches Zentrum in der Sierra de Gijón Region.",
+                  "text": "Ökologisches Zentrum in De Gijon.",
                   "category": "landmark",
                   "coords": [
                         -96.527203,
@@ -713,7 +713,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Fábrica de mezcal el rey de matatlán",
-                  "text": "Eine Mezcal-Fabrik namens 'El Rey de Matatlán' in der Sierra de Gijón Region.",
+                  "text": "Mezcal-Brennerei 'El Rey de Matatlán' in De Gijon.",
                   "category": "landmark",
                   "coords": [
                         -96.526008,
@@ -731,7 +731,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Edificio U",
-                  "text": "Ruinen des Gebäudes U in der Sierra de Gijón Region.",
+                  "text": "Historisches U-förmiges Gebäude in De Gijon.",
                   "category": "historical",
                   "coords": [
                         -96.449679,
@@ -740,7 +740,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Patio 4",
-                  "text": "Ruinen des Patio 4 in der Sierra de Gijón Region.",
+                  "text": "Historischer Ort 'Patio 4' in De Gijon.",
                   "category": "historical",
                   "coords": [
                         -96.449631,
@@ -796,7 +796,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "hu": [
             {
                   "name": "El Picacho",
-                  "text": "Festői kilátó a Sierra de Gijón régióban.",
+                  "text": "El Picacho hegycsúcs De Gijonban.",
                   "category": "natural",
                   "coords": [
                         -96.524322,
@@ -814,7 +814,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Comunitario",
-                  "text": "Közösségi múzeum a Sierra de Gijón régióban.",
+                  "text": "Közösségi múzeum helyi kiállításokkal De Gijonban.",
                   "category": "museum",
                   "coords": [
                         -96.5408,
@@ -832,7 +832,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Eco Centrum",
-                  "text": "Ökológiai központ a Sierra de Gijón régióban.",
+                  "text": "Ökológiai központ De Gijonban.",
                   "category": "landmark",
                   "coords": [
                         -96.527203,
@@ -841,7 +841,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Fábrica de mezcal el rey de matatlán",
-                  "text": "Mezcal gyár 'El Rey de Matatlán' néven a Sierra de Gijón régióban.",
+                  "text": "„El Rey de Matatlán” mezcal-főzde De Gijonban.",
                   "category": "landmark",
                   "coords": [
                         -96.526008,
@@ -859,7 +859,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Edificio U",
-                  "text": "U épület romjai a Sierra de Gijón régióban.",
+                  "text": "Történelmi U alakú épület De Gijonban.",
                   "category": "historical",
                   "coords": [
                         -96.449679,
@@ -868,7 +868,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Patio 4",
-                  "text": "A 4. udvar romjai a Sierra de Gijón régióban.",
+                  "text": "Történelmi helyszín 'Patio 4' De Gijonban.",
                   "category": "historical",
                   "coords": [
                         -96.449631,
@@ -924,7 +924,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "ro": [
             {
                   "name": "El Picacho",
-                  "text": "Un punct de belvedere pitoresc în regiunea Sierra de Gijón.",
+                  "text": "Vârful muntos El Picacho în De Gijon.",
                   "category": "natural",
                   "coords": [
                         -96.524322,
@@ -942,7 +942,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Comunitario",
-                  "text": "Un muzeu comunitar în regiunea Sierra de Gijón.",
+                  "text": "Muzeu comunitar cu expoziții locale în De Gijon.",
                   "category": "museum",
                   "coords": [
                         -96.5408,
@@ -960,7 +960,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Eco Centrum",
-                  "text": "Un centru ecologic în regiunea Sierra de Gijón.",
+                  "text": "Centru ecologic în De Gijon.",
                   "category": "landmark",
                   "coords": [
                         -96.527203,
@@ -969,7 +969,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Fábrica de mezcal el rey de matatlán",
-                  "text": "O fabrică de mezcal cunoscută sub numele de 'El Rey de Matatlán' în regiunea Sierra de Gijón.",
+                  "text": "Distileria de mezcal „El Rey de Matatlán” în De Gijon.",
                   "category": "landmark",
                   "coords": [
                         -96.526008,
@@ -987,7 +987,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Edificio U",
-                  "text": "Ruinele clădirii U în regiunea Sierra de Gijón.",
+                  "text": "Clădire istorică în formă de U în De Gijon.",
                   "category": "historical",
                   "coords": [
                         -96.449679,
@@ -996,7 +996,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Patio 4",
-                  "text": "Ruinele curții 4 în regiunea Sierra de Gijón.",
+                  "text": "Sit istoric 'Patio 4' în De Gijon.",
                   "category": "historical",
                   "coords": [
                         -96.449631,
@@ -1052,7 +1052,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "en": [
             {
                   "name": "El Picacho",
-                  "text": "A scenic viewpoint in the Sierra de Gijón region.",
+                  "text": "Mountain peak El Picacho in De Gijon.",
                   "category": "natural",
                   "coords": [
                         -96.524322,
@@ -1070,7 +1070,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Comunitario",
-                  "text": "A community museum in the Sierra de Gijón region.",
+                  "text": "Community museum with local exhibits in De Gijon.",
                   "category": "museum",
                   "coords": [
                         -96.5408,
@@ -1088,7 +1088,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Eco Centrum",
-                  "text": "An ecological centre in the Sierra de Gijón region.",
+                  "text": "Ecological center in De Gijon.",
                   "category": "landmark",
                   "coords": [
                         -96.527203,
@@ -1097,7 +1097,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Fábrica de mezcal el rey de matatlán",
-                  "text": "A mezcal factory known as 'El Rey de Matatlán' in the Sierra de Gijón region.",
+                  "text": "Mezcal distillery 'El Rey de Matatlán' in De Gijon.",
                   "category": "landmark",
                   "coords": [
                         -96.526008,
@@ -1115,7 +1115,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Edificio U",
-                  "text": "Ruins of Building U in the Sierra de Gijón region.",
+                  "text": "Historic U-shaped building in De Gijon.",
                   "category": "historical",
                   "coords": [
                         -96.449679,
@@ -1124,7 +1124,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Patio 4",
-                  "text": "Ruins of Patio 4 in the Sierra de Gijón region.",
+                  "text": "Historic site 'Patio 4' in De Gijon.",
                   "category": "historical",
                   "coords": [
                         -96.449631,
@@ -1251,7 +1251,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "de": [
             {
                   "name": "Beach Loreto Bay",
-                  "text": "Ein Strand in der Sierra de la Giganta.",
+                  "text": "Sandstrand an der Loreto Bay in De La Giganta.",
                   "category": "recreational",
                   "coords": [
                         -111.348162,
@@ -1262,7 +1262,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Beach Loreto Bay",
-                  "text": "Egy strand a Sierra de la Gigantában.",
+                  "text": "Homokos strand a Loreto-öbölben De La Gigantában.",
                   "category": "recreational",
                   "coords": [
                         -111.348162,
@@ -1273,7 +1273,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Beach Loreto Bay",
-                  "text": "O plajă în Sierra de la Giganta.",
+                  "text": "Plajă nisipoasă în Golful Loreto din De La Giganta.",
                   "category": "recreational",
                   "coords": [
                         -111.348162,
@@ -1284,7 +1284,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "en": [
             {
                   "name": "Beach Loreto Bay",
-                  "text": "A beach in the Sierra de la Giganta area.",
+                  "text": "Sandy beach on Loreto Bay in De La Giganta.",
                   "category": "recreational",
                   "coords": [
                         -111.348162,
@@ -1481,7 +1481,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "de": [
             {
                   "name": "Santuario El Taray",
-                  "text": "Santuario El Taray ist ein Naturschutzgebiet in der Sierra de Arteaga.",
+                  "text": "Naturschutzgebiet Santuario El Taray in De Arteaga.",
                   "category": "natural",
                   "coords": [
                         -100.48144,
@@ -1492,7 +1492,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Santuario El Taray",
-                  "text": "Santuario El Taray egy természetvédelmi terület a Sierra de Arteagában.",
+                  "text": "Santuario El Taray természetvédelmi terület De Arteagában.",
                   "category": "natural",
                   "coords": [
                         -100.48144,
@@ -1503,7 +1503,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Santuario El Taray",
-                  "text": "Santuario El Taray este o rezervație naturală în Sierra de Arteaga.",
+                  "text": "Sanctuarul natural Santuario El Taray în De Arteaga.",
                   "category": "natural",
                   "coords": [
                         -100.48144,
@@ -1514,7 +1514,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "en": [
             {
                   "name": "Santuario El Taray",
-                  "text": "Santuario El Taray is a nature reserve in the Sierra de Arteaga.",
+                  "text": "Natural sanctuary Santuario El Taray in De Arteaga.",
                   "category": "natural",
                   "coords": [
                         -100.48144,
@@ -2189,7 +2189,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Miradorcido. Camino a Puente de Dios",
-                  "text": "Ein Aussichtspunkt auf dem Weg nach Puente de Dios in der Sierra Gorda.",
+                  "text": "Aussichtspunkt am Weg zur Puente de Dios (Brücke Gottes) in De Queretaro.",
                   "category": "natural",
                   "coords": [
                         -99.58678,
@@ -2198,7 +2198,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Sierra Gorda",
-                  "text": "Ein UNESCO-Biosphärenreservat in der Sierra Gorda.",
+                  "text": "Das Biosphärenreservat Sierra Gorda ist ein UNESCO-geschütztes Gebiet mit Nebelwäldern und Schluchten nahe Querétaro.",
                   "category": "natural",
                   "coords": [
                         -99.49317,
@@ -2216,7 +2216,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mundo Acuático",
-                  "text": "Ein Wasserpark-Resort in der Sierra Gorda.",
+                  "text": "Wasserpark Mundo Acuático in De Queretaro.",
                   "category": "recreational",
                   "coords": [
                         -99.475218,
@@ -2225,7 +2225,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Histórico de la Sierra Gorda",
-                  "text": "Ein historisches Museum der Sierra Gorda.",
+                  "text": "Historisches Museum der Sierra Gorda in De Queretaro.",
                   "category": "museum",
                   "coords": [
                         -99.473728,
@@ -2234,7 +2234,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Misión de Santiago de Jalpan",
-                  "text": "Eine historische Mission in der Sierra Gorda.",
+                  "text": "Missionskirche Santiago de Jalpan, Teil der UNESCO-Weltkulturerbe-Missionen der Sierra Gorda.",
                   "category": "landmark",
                   "coords": [
                         -99.473897,
@@ -2254,7 +2254,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Miradorcido. Camino a Puente de Dios",
-                  "text": "Egy kilátópont a Puente de Dios felé vezető úton a Sierra Gordában.",
+                  "text": "Kilátó a Puente de Dios (Isten hídja) felé vezető úton De Queretaróban.",
                   "category": "natural",
                   "coords": [
                         -99.58678,
@@ -2263,7 +2263,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Sierra Gorda",
-                  "text": "UNESCO bioszféra-rezervátum a Sierra Gordában.",
+                  "text": "A Sierra Gorda Bioszféra-rezervátum egy UNESCO védett terület felhőerdőkkel és kanyonokkal Querétaro közelében.",
                   "category": "natural",
                   "coords": [
                         -99.49317,
@@ -2281,7 +2281,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mundo Acuático",
-                  "text": "Egy vízipark-üdülőhely a Sierra Gordában.",
+                  "text": "Mundo Acuático vízipark De Queretaróban.",
                   "category": "recreational",
                   "coords": [
                         -99.475218,
@@ -2290,7 +2290,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Histórico de la Sierra Gorda",
-                  "text": "A Sierra Gorda régió történeti múzeuma.",
+                  "text": "A Sierra Gorda Történelmi Múzeuma De Queretaróban.",
                   "category": "museum",
                   "coords": [
                         -99.473728,
@@ -2299,7 +2299,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Misión de Santiago de Jalpan",
-                  "text": "Egy történelmi misszió a Sierra Gordában.",
+                  "text": "Santiago de Jalpan missziós templom, a Sierra Gorda UNESCO világörökség misszióinak része.",
                   "category": "landmark",
                   "coords": [
                         -99.473897,
@@ -2319,7 +2319,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Miradorcido. Camino a Puente de Dios",
-                  "text": "Un punct de belvedere pe drumul către Puente de Dios în Sierra Gorda.",
+                  "text": "Punct de belvedere pe drumul spre Puente de Dios (Podul lui Dumnezeu) în De Queretaro.",
                   "category": "natural",
                   "coords": [
                         -99.58678,
@@ -2328,7 +2328,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Sierra Gorda",
-                  "text": "O rezervație a biosferei UNESCO în Sierra Gorda.",
+                  "text": "Rezervația Biosferei Sierra Gorda este o arie protejată UNESCO cu păduri de nori și canioane lângă Querétaro.",
                   "category": "natural",
                   "coords": [
                         -99.49317,
@@ -2346,7 +2346,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mundo Acuático",
-                  "text": "Un parc acvatic stațiune în Sierra Gorda.",
+                  "text": "Parcul acvatic Mundo Acuático în De Queretaro.",
                   "category": "recreational",
                   "coords": [
                         -99.475218,
@@ -2355,7 +2355,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Histórico de la Sierra Gorda",
-                  "text": "Un muzeu istoric al regiunii Sierra Gorda.",
+                  "text": "Muzeul Istoric al Sierra Gorda în De Queretaro.",
                   "category": "museum",
                   "coords": [
                         -99.473728,
@@ -2364,7 +2364,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Misión de Santiago de Jalpan",
-                  "text": "O misiune istorică în regiunea Sierra Gorda.",
+                  "text": "Biserica misiunii Santiago de Jalpan, parte a misiunilor Sierra Gorda din patrimoniul UNESCO.",
                   "category": "landmark",
                   "coords": [
                         -99.473897,
@@ -2384,7 +2384,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Miradorcido. Way to Puente de Dios",
-                  "text": "A viewpoint on the way to Puente de Dios in the Sierra Gorda.",
+                  "text": "Viewpoint along the way to Puente de Dios (Bridge of God) in De Queretaro.",
                   "category": "natural",
                   "coords": [
                         -99.58678,
@@ -2393,7 +2393,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Sierra Gorda",
-                  "text": "A UNESCO biosphere reserve in the Sierra Gorda region.",
+                  "text": "Sierra Gorda Biosphere Reserve is a UNESCO-protected area with cloud forests and canyons near Querétaro.",
                   "category": "natural",
                   "coords": [
                         -99.49317,
@@ -2411,7 +2411,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Mundo Acuático",
-                  "text": "A water park resort in the Sierra Gorda.",
+                  "text": "Water park Mundo Acuático in De Queretaro.",
                   "category": "recreational",
                   "coords": [
                         -99.475218,
@@ -2420,7 +2420,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Histórico de la Sierra Gorda",
-                  "text": "A historical museum of the Sierra Gorda region.",
+                  "text": "Historical Museum of the Sierra Gorda in De Queretaro.",
                   "category": "museum",
                   "coords": [
                         -99.473728,
@@ -2429,7 +2429,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Misión de Santiago de Jalpan",
-                  "text": "A historic mission in the Sierra Gorda region.",
+                  "text": "Mission church Santiago de Jalpan, part of the UNESCO Sierra Gorda missions.",
                   "category": "landmark",
                   "coords": [
                         -99.473897,
@@ -2558,7 +2558,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "de": [
             {
                   "name": "Bandera Monumental",
-                  "text": "Eine monumentale Flagge in Tehuacán, eine der monumentalen Flaggen Mexikos.",
+                  "text": "Eine monumentale mexikanische Flagge an einem hohen Mast steht in Tehuacán nahe der Innenstadt.",
                   "category": "historical",
                   "coords": [
                         -97.427638,
@@ -2567,7 +2567,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de la evolución",
-                  "text": "Ein Museum über Evolution in Tehuacán.",
+                  "text": "Evolutionsmuseum mit Exponaten zur Erdgeschichte in De Tehuacan.",
                   "category": "museum",
                   "coords": [
                         -97.440199,
@@ -2576,7 +2576,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Manantial San Lorenzo",
-                  "text": "Eine natürliche Quellattraktion in Tehuacán.",
+                  "text": "Quelle Manantial San Lorenzo in De Tehuacan.",
                   "category": "landmark",
                   "coords": [
                         -97.436641,
@@ -2587,7 +2587,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Bandera Monumental",
-                  "text": "Egy monumentális zászló Tehuacánban, Mexikó egyik monumentális zászlaja.",
+                  "text": "Egy monumentális mexikói zászló egy magas árbocon áll Tehuacánban a belváros közelében.",
                   "category": "historical",
                   "coords": [
                         -97.427638,
@@ -2596,7 +2596,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de la evolución",
-                  "text": "Egy evolúciós múzeum Tehuacánban.",
+                  "text": "Evolúciós múzeum a Föld történetének kiállításaival De Tehuacanban.",
                   "category": "museum",
                   "coords": [
                         -97.440199,
@@ -2605,7 +2605,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Manantial San Lorenzo",
-                  "text": "Egy természetes forrás látványosság Tehuacánban.",
+                  "text": "Manantial San Lorenzo-forrás De Tehuacanban.",
                   "category": "landmark",
                   "coords": [
                         -97.436641,
@@ -2616,7 +2616,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Bandera Monumental",
-                  "text": "Un steag monumental în Tehuacán, unul dintre steagurile monumentale ale Mexicului.",
+                  "text": "Un steag monumental mexican pe un stâlp înalt se află în Tehuacán, lângă centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -97.427638,
@@ -2625,7 +2625,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de la evolución",
-                  "text": "Un muzeu despre evoluție în Tehuacán.",
+                  "text": "Muzeul Evoluției cu exponate despre istoria Pământului în De Tehuacan.",
                   "category": "museum",
                   "coords": [
                         -97.440199,
@@ -2634,7 +2634,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Manantial San Lorenzo",
-                  "text": "O atracție naturală cu izvor în Tehuacán.",
+                  "text": "Izvorul Manantial San Lorenzo în De Tehuacan.",
                   "category": "landmark",
                   "coords": [
                         -97.436641,
@@ -2645,7 +2645,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
       "en": [
             {
                   "name": "Monumental Flag",
-                  "text": "A monumental flag in Tehuacán, one of the monumental flags of Mexico.",
+                  "text": "A monumental Mexican flag on a tall pole is located in Tehuacán near the city center.",
                   "category": "historical",
                   "coords": [
                         -97.427638,
@@ -2654,7 +2654,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Evolutions museum",
-                  "text": "A museum about evolution in Tehuacán.",
+                  "text": "Evolution museum with exhibits on Earth's history in De Tehuacan.",
                   "category": "museum",
                   "coords": [
                         -97.440199,
@@ -2663,7 +2663,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Manantial San Lorenzo",
-                  "text": "A natural spring attraction in Tehuacán.",
+                  "text": "Spring Manantial San Lorenzo in De Tehuacan.",
                   "category": "landmark",
                   "coords": [
                         -97.436641,
@@ -2731,7 +2731,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Jurásica",
-                  "text": "Das Museo Jurásica in der Sierra de Guadalupe ist ein Museum, das sich mit Dinosauriern befasst.",
+                  "text": "Dinosauriermuseum Museo Jurásica in De Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.053963,
@@ -2740,7 +2740,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "borrego",
-                  "text": "Borrego ist ein Schloss im Gebiet der Sierra de Guadalupe.",
+                  "text": "Schloss Borrego in De Guadalupe.",
                   "category": "castle",
                   "coords": [
                         -99.030634,
@@ -2758,7 +2758,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de Piroctecnia",
-                  "text": "Das Museo de Piroctecnia in der Sierra de Guadalupe ist ein Museum zur Pyrotechnik.",
+                  "text": "Feuerwerksmuseum in De Guadalupe, eröffnet 2022.",
                   "category": "museum",
                   "coords": [
                         -99.119573,
@@ -2767,7 +2767,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
-                  "text": "Das Centro Ecoturístico y Educación Ambiental 'Sierra de Guadalupe' ist ein Zentrum für Ökotourismus und Umweltbildung.",
+                  "text": "Ökotourismus- und Umweltbildungszentrum Sierra de Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.088866,
@@ -2785,7 +2785,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de historia natural",
-                  "text": "Das Museo de historia natural in der Sierra de Guadalupe ist ein naturhistorisches Museum.",
+                  "text": "Naturkundemuseum in De Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.036825,
@@ -2803,7 +2803,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento ABC",
-                  "text": "Das Monumento ABC in der Sierra de Guadalupe ist ein Denkmal mit der Aufschrift 'ABC'.",
+                  "text": "Monument ABC – ein Denkmal mit den Buchstaben ABC in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.017843,
@@ -2812,7 +2812,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Cuchara",
-                  "text": "La Cuchara ist ein monumentaler Löffel im Gebiet der Sierra de Guadalupe.",
+                  "text": "Historisches Denkmal 'La Cuchara' (Der Löffel) in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.023029,
@@ -2821,7 +2821,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bola Iluminada",
-                  "text": "Die Bola Iluminada ist eine beleuchtete Kugel als Monument in der Sierra de Guadalupe.",
+                  "text": "Beleuchtete Kugel 'Bola Iluminada' in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.039432,
@@ -2830,7 +2830,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Segunda Glorieta de Frambuesas",
-                  "text": "Die Segunda Glorieta de Frambuesas ist ein Kreisverkehr mit Himbeer-Motiv in der Sierra de Guadalupe.",
+                  "text": "Zweiter Himbeerkreisel (Segunda Glorieta de Frambuesas) in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.038949,
@@ -2839,7 +2839,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Kiosco de San Rafael",
-                  "text": "Der Kiosco de San Rafael ist ein Kiosk im Gebiet der Sierra de Guadalupe.",
+                  "text": "Kiosk Kiosco de San Rafael in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.123808,
@@ -2848,7 +2848,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Hidalgo",
-                  "text": "Das Monumento a Hidalgo in der Sierra de Guadalupe ist ein Denkmal zu Ehren von Miguel Hidalgo.",
+                  "text": "Denkmal für Miguel Hidalgo in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.128787,
@@ -2857,7 +2857,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "Die Bandera Monumental ist eine große Flagge im Gebiet der Sierra de Guadalupe.",
+                  "text": "Monumentale Flagge (Bandera Monumental) in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.163288,
@@ -2866,7 +2866,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Morelos",
-                  "text": "Das Monumento a Morelos in der Sierra de Guadalupe ist ein Denkmal für José María Morelos.",
+                  "text": "Denkmal für José María Morelos in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.13242,
@@ -2884,7 +2884,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Cueva de los Tecotines",
-                  "text": "Die Cueva de los Tecotines ist eine archäologische Höhle im Gebiet der Sierra de Guadalupe.",
+                  "text": "Höhle Cueva de los Tecotines in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.062069,
@@ -2902,7 +2902,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Die Asta Bandera ist ein Fahnenmast im Gebiet der Sierra de Guadalupe.",
+                  "text": "Fahnenmast Asta Bandera in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.050702,
@@ -2911,7 +2911,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Diego",
-                  "text": "Die Estatua de Juan Diego ist eine Statue des heiligen Juan Diego in der Sierra de Guadalupe.",
+                  "text": "Statue von Juan Diego in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.046699,
@@ -2920,7 +2920,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Escultura Las Américas",
-                  "text": "Die Escultura Las Américas ist eine Skulptur, die die Amerikas darstellt, in der Sierra de Guadalupe.",
+                  "text": "Eine historische Skulptur, die die Amerikas darstellt, in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.021884,
@@ -2929,7 +2929,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Pirámide San Carlos",
-                  "text": "Die Pirámide San Carlos ist eine pyramidenförmige Monument im Gebiet der Sierra de Guadalupe.",
+                  "text": "Eine historische Pyramide namens San Carlos in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.04806,
@@ -2947,7 +2947,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Trilogia",
-                  "text": "La Trilogia ist ein Monument, das eine Trilogie darstellt, in der Sierra de Guadalupe.",
+                  "text": "Ein historisches Denkmal namens 'La Trilogia' in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.048647,
@@ -2956,7 +2956,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Primera Glorieta de Frambuesas",
-                  "text": "Die Primera Glorieta de Frambuesas ist der erste Kreisverkehr mit Himbeer-Motiv in der Sierra de Guadalupe.",
+                  "text": "Ein historischer Kreisverkehr namens 'Erster Himbeer-Kreisverkehr' in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.04112,
@@ -2965,7 +2965,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Albarradón de San Cristóbal",
-                  "text": "Der Albarradón de San Cristóbal ist ein Damm oder Wall im Gebiet der Sierra de Guadalupe.",
+                  "text": "Ein historischer Damm namens San Cristóbal in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.033467,
@@ -2983,7 +2983,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua moderna",
-                  "text": "Die Estatua moderna ist eine moderne Statue im Gebiet der Sierra de Guadalupe.",
+                  "text": "Eine historische moderne Statue in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.008967,
@@ -2992,7 +2992,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a la Familia",
-                  "text": "Das Monumento a la Familia ist ein Denkmal für die Familie in der Sierra de Guadalupe.",
+                  "text": "Ein historisches Familienmonument in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.014599,
@@ -3001,7 +3001,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Arcada",
-                  "text": "Die Arcada ist ein Bogenmonument im Gebiet der Sierra de Guadalupe.",
+                  "text": "Eine historische Arkade in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.090334,
@@ -3019,7 +3019,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "arbol forestal II",
-                  "text": "Arbol forestal II ist ein Baummerkmal im Gebiet der Sierra de Guadalupe.",
+                  "text": "Ein historischer Waldbaum in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.126829,
@@ -3028,7 +3028,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Puente de Fierro",
-                  "text": "Die Puente de Fierro ist ein Denkmal in der Sierra de Guadalupe.",
+                  "text": "Eine historische Eisenbrücke in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.034753,
@@ -3037,7 +3037,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura Los Héroes Tecámac",
-                  "text": "Die Casa de la Cultura Los Héroes Tecámac ist ein Kulturzentrum in der Sierra de Guadalupe.",
+                  "text": "Ein Kulturzentrum, benannt nach den Helden von Tecámac, in De Guadalupe.",
                   "category": "cultural",
                   "coords": [
                         -99.024083,
@@ -3057,7 +3057,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Jurásica",
-                  "text": "A Sierra de Guadalupe-i Museo Jurásica egy dinoszauruszokkal foglalkozó múzeum.",
+                  "text": "Jurásica Múzeum (dinoszaurusz-múzeum) De Guadalupeban.",
                   "category": "museum",
                   "coords": [
                         -99.053963,
@@ -3066,7 +3066,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "borrego",
-                  "text": "A Borrego egy kastély a Sierra de Guadalupe területén.",
+                  "text": "Borrego vár De Guadalupeban.",
                   "category": "castle",
                   "coords": [
                         -99.030634,
@@ -3084,7 +3084,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de Piroctecnia",
-                  "text": "A Sierra de Guadalupe-i Museo de Piroctecnia a pirotechnika múzeuma.",
+                  "text": "Tűzijáték múzeum De Guadalupében, 2022-ben nyílt meg.",
                   "category": "museum",
                   "coords": [
                         -99.119573,
@@ -3093,7 +3093,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
-                  "text": "A 'Sierra de Guadalupe' Ökoturisztikai és Környezeti Nevelési Központ ökoturizmussal és környezeti neveléssel foglalkozik.",
+                  "text": "Sierra de Guadalupe Ökoturisztikai és Környezeti Nevelési Központ.",
                   "category": "museum",
                   "coords": [
                         -99.088866,
@@ -3111,7 +3111,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de historia natural",
-                  "text": "A Sierra de Guadalupe-i Museo de historia natural természetrajzi múzeum.",
+                  "text": "Természetrajzi múzeum De Guadalupeban.",
                   "category": "museum",
                   "coords": [
                         -99.036825,
@@ -3129,7 +3129,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento ABC",
-                  "text": "A Sierra de Guadalupe-i Monumento ABC egy 'ABC' feliratú emlékmű.",
+                  "text": "ABC Emlékmű – ABC betűket formázó emlékmű De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.017843,
@@ -3138,7 +3138,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Cuchara",
-                  "text": "A La Cuchara egy monumentális kanál a Sierra de Guadalupe területén.",
+                  "text": "„La Cuchara” (A kanál) történelmi emlékmű De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.023029,
@@ -3147,7 +3147,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bola Iluminada",
-                  "text": "A Bola Iluminada egy megvilágított gömb emlékmű a Sierra de Guadalupe-ben.",
+                  "text": "„Bola Iluminada” világító gömb De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.039432,
@@ -3156,7 +3156,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Segunda Glorieta de Frambuesas",
-                  "text": "A Segunda Glorieta de Frambuesas egy málna tematikájú körforgalom a Sierra de Guadalupe-ben.",
+                  "text": "Második Málna Körforgalom (Segunda Glorieta de Frambuesas) De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.038949,
@@ -3165,7 +3165,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Kiosco de San Rafael",
-                  "text": "A Kiosco de San Rafael egy kioszk a Sierra de Guadalupe területén.",
+                  "text": "Kiosco de San Rafael pavilon De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.123808,
@@ -3174,7 +3174,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Hidalgo",
-                  "text": "A Sierra de Guadalupe-i Monumento a Hidalgo egy Miguel Hidalgo tiszteletére emelt emlékmű.",
+                  "text": "Miguel Hidalgo-emlékmű De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.128787,
@@ -3183,7 +3183,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "A Bandera Monumental egy nagy zászló a Sierra de Guadalupe területén.",
+                  "text": "Monumentális zászló (Bandera Monumental) De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.163288,
@@ -3192,7 +3192,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Morelos",
-                  "text": "A Sierra de Guadalupe-i Monumento a Morelos José María Morelos emlékműve.",
+                  "text": "José María Morelos-emlékmű De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.13242,
@@ -3210,7 +3210,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Cueva de los Tecotines",
-                  "text": "A Cueva de los Tecotines egy régészeti barlang a Sierra de Guadalupe területén.",
+                  "text": "Cueva de los Tecotines-barlang De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.062069,
@@ -3228,7 +3228,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Az Asta Bandera egy zászlórúd a Sierra de Guadalupe területén.",
+                  "text": "Asta Bandera zászlórúd De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.050702,
@@ -3237,7 +3237,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Diego",
-                  "text": "A Estatua de Juan Diego egy szobra Juan Diego szentnek a Sierra de Guadalupe-ben.",
+                  "text": "Juan Diego szobra De Guadalupeban.",
                   "category": "historical",
                   "coords": [
                         -99.046699,
@@ -3246,7 +3246,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Escultura Las Américas",
-                  "text": "Az Escultura Las Américas egy szobor, amely Amerikát ábrázolja, a Sierra de Guadalupe-ben.",
+                  "text": "A két Amerikát jelképező történelmi szobor De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.021884,
@@ -3255,7 +3255,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Pirámide San Carlos",
-                  "text": "A Pirámide San Carlos egy piramis alakú emlékmű a Sierra de Guadalupe területén.",
+                  "text": "San Carlos nevű történelmi piramis De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.04806,
@@ -3273,7 +3273,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Trilogia",
-                  "text": "A La Trilogia egy trilógiát ábrázoló emlékmű a Sierra de Guadalupe-ben.",
+                  "text": "'La Trilogia' nevű történelmi emlékmű De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.048647,
@@ -3282,7 +3282,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Primera Glorieta de Frambuesas",
-                  "text": "A Primera Glorieta de Frambuesas az első málna tematikájú körforgalom a Sierra de Guadalupe-ben.",
+                  "text": "Történelmi körforgalom 'Első Málna Körforgalom' néven De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.04112,
@@ -3291,7 +3291,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Albarradón de San Cristóbal",
-                  "text": "Az Albarradón de San Cristóbal egy gát vagy sánc a Sierra de Guadalupe területén.",
+                  "text": "San Cristóbal nevű történelmi gát De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.033467,
@@ -3309,7 +3309,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua moderna",
-                  "text": "Az Estatua moderna egy modern szobor a Sierra de Guadalupe területén.",
+                  "text": "Történelmi modern szobor De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.008967,
@@ -3318,7 +3318,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a la Familia",
-                  "text": "A Monumento a la Familia a család emlékműve a Sierra de Guadalupe-ben.",
+                  "text": "Történelmi családi emlékmű De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.014599,
@@ -3327,7 +3327,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Arcada",
-                  "text": "Az Arcada egy ív emlékmű a Sierra de Guadalupe területén.",
+                  "text": "Történelmi árkád De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.090334,
@@ -3345,7 +3345,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "arbol forestal II",
-                  "text": "Az Arbol forestal II egy fa emlékmű a Sierra de Guadalupe területén.",
+                  "text": "Történelmi erdei fa De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.126829,
@@ -3354,7 +3354,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Puente de Fierro",
-                  "text": "A Puente de Fierro egy emlékmű a Sierra de Guadalupe-ban.",
+                  "text": "Történelmi vashíd De Guadalupe-ban.",
                   "category": "historical",
                   "coords": [
                         -99.034753,
@@ -3363,7 +3363,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura Los Héroes Tecámac",
-                  "text": "A Casa de la Cultura Los Héroes Tecámac egy művészeti központ a Sierra de Guadalupe-ban.",
+                  "text": "A Tecámac hőseiről elnevezett kulturális központ De Guadalupe-ban.",
                   "category": "cultural",
                   "coords": [
                         -99.024083,
@@ -3383,7 +3383,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Jurásica",
-                  "text": "Muzeul Jurásica din Sierra de Guadalupe este un muzeu dedicat dinozaurilor.",
+                  "text": "Muzeul Jurassic (muzeul dinozaurilor) în De Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.053963,
@@ -3392,7 +3392,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "borrego",
-                  "text": "Borrego este un castel în zona Sierra de Guadalupe.",
+                  "text": "Castelul Borrego în De Guadalupe.",
                   "category": "castle",
                   "coords": [
                         -99.030634,
@@ -3410,7 +3410,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de Piroctecnia",
-                  "text": "Muzeul de Piroctecnie din Sierra de Guadalupe este un muzeu al pirotehnicii.",
+                  "text": "Muzeul de Piroctecnie din De Guadalupe, deschis în 2022.",
                   "category": "museum",
                   "coords": [
                         -99.119573,
@@ -3419,7 +3419,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
-                  "text": "Centrul Ecoturistic și de Educație Ecologică 'Sierra de Guadalupe' este dedicat ecoturismului și educației ecologice.",
+                  "text": "Centrul de Ecoturism și Educație Ecologică Sierra de Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.088866,
@@ -3437,7 +3437,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de historia natural",
-                  "text": "Muzeul de Istorie Naturală din Sierra de Guadalupe este un muzeu de istorie naturală.",
+                  "text": "Muzeu de istorie naturală în De Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.036825,
@@ -3455,7 +3455,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento ABC",
-                  "text": "Monumentul ABC din Sierra de Guadalupe este un monument cu inscripția 'ABC'.",
+                  "text": "Monumentul ABC – un monument în formă de literele ABC în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.017843,
@@ -3464,7 +3464,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Cuchara",
-                  "text": "La Cuchara este o lingură monumentală în zona Sierra de Guadalupe.",
+                  "text": "Monumentul istoric 'La Cuchara' (Lingura) în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.023029,
@@ -3473,7 +3473,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bola Iluminada",
-                  "text": "Bola Iluminada este un monument sub formă de sferă iluminată în Sierra de Guadalupe.",
+                  "text": "„Bola Iluminada” – sferă iluminată în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.039432,
@@ -3482,7 +3482,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Segunda Glorieta de Frambuesas",
-                  "text": "Segunda Glorieta de Frambuesas este un sens giratoriu cu tema zmeură în Sierra de Guadalupe.",
+                  "text": "Al doilea sens giratoriu cu zmeură (Segunda Glorieta de Frambuesas) în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.038949,
@@ -3491,7 +3491,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Kiosco de San Rafael",
-                  "text": "Kiosco de San Rafael este un chioșc în zona Sierra de Guadalupe.",
+                  "text": "Chioșcul Kiosco de San Rafael în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.123808,
@@ -3500,7 +3500,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Hidalgo",
-                  "text": "Monumentul a Hidalgo din Sierra de Guadalupe este un monument în cinstea lui Miguel Hidalgo.",
+                  "text": "Monumentul lui Miguel Hidalgo în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.128787,
@@ -3509,7 +3509,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "Bandera Monumental este un drapel de mari dimensiuni în zona Sierra de Guadalupe.",
+                  "text": "Steag monumental (Bandera Monumental) în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.163288,
@@ -3518,7 +3518,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Morelos",
-                  "text": "Monumentul a Morelos din Sierra de Guadalupe este un monument pentru José María Morelos.",
+                  "text": "Monumentul lui José María Morelos în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.13242,
@@ -3536,7 +3536,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Cueva de los Tecotines",
-                  "text": "Cueva de los Tecotines este o peșteră arheologică în zona Sierra de Guadalupe.",
+                  "text": "Peștera Cueva de los Tecotines în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.062069,
@@ -3554,7 +3554,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Asta Bandera este un catarg pentru steag în zona Sierra de Guadalupe.",
+                  "text": "Stâlpul de steag Asta Bandera în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.050702,
@@ -3563,7 +3563,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Diego",
-                  "text": "Estatua de Juan Diego este o statuie a sfântului Juan Diego în Sierra de Guadalupe.",
+                  "text": "Statuia lui Juan Diego în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.046699,
@@ -3572,7 +3572,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Escultura Las Américas",
-                  "text": "Escultura Las Américas este o sculptură care reprezintă Americile în Sierra de Guadalupe.",
+                  "text": "O sculptură istorică ce reprezintă Americile în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.021884,
@@ -3581,7 +3581,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Pirámide San Carlos",
-                  "text": "Pirámide San Carlos este un monument în formă de piramidă în zona Sierra de Guadalupe.",
+                  "text": "O piramidă istorică numită San Carlos în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.04806,
@@ -3599,7 +3599,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Trilogia",
-                  "text": "La Trilogia este un monument care reprezintă o trilogie în Sierra de Guadalupe.",
+                  "text": "Un monument istoric numit 'La Trilogia' în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.048647,
@@ -3608,7 +3608,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Primera Glorieta de Frambuesas",
-                  "text": "Primera Glorieta de Frambuesas este primul sens giratoriu cu tema zmeură în Sierra de Guadalupe.",
+                  "text": "Un sens giratoriu istoric numit 'Primul Sens Giratoriu al Zmeurei' în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.04112,
@@ -3617,7 +3617,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Albarradón de San Cristóbal",
-                  "text": "Albarradón de San Cristóbal este un dig sau întăritură în zona Sierra de Guadalupe.",
+                  "text": "Un dig istoric numit San Cristóbal în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.033467,
@@ -3635,7 +3635,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua moderna",
-                  "text": "Estatua moderna este o statuie modernă în zona Sierra de Guadalupe.",
+                  "text": "O statuie modernă istorică în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.008967,
@@ -3644,7 +3644,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a la Familia",
-                  "text": "Monumentul a la Familia este un monument dedicat familiei în Sierra de Guadalupe.",
+                  "text": "Un monument istoric dedicat familiei în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.014599,
@@ -3653,7 +3653,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Arcada",
-                  "text": "Arcada este un monument sub formă de arc în zona Sierra de Guadalupe.",
+                  "text": "O arcadă istorică în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.090334,
@@ -3671,7 +3671,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "arbol forestal II",
-                  "text": "Arbol forestal II este un monument sub formă de copac în zona Sierra de Guadalupe.",
+                  "text": "Un copac forestier istoric în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.126829,
@@ -3680,7 +3680,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Puente de Fierro",
-                  "text": "Puente de Fierro este un monument în Sierra de Guadalupe.",
+                  "text": "Un pod de fier istoric în De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.034753,
@@ -3689,7 +3689,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura Los Héroes Tecámac",
-                  "text": "Casa de la Cultura Los Héroes Tecámac este un centru de artă în Sierra de Guadalupe.",
+                  "text": "Un centru cultural numit după eroii din Tecámac în De Guadalupe.",
                   "category": "cultural",
                   "coords": [
                         -99.024083,
@@ -3709,7 +3709,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo Jurásica",
-                  "text": "The Museo Jurásica in the Sierra de Guadalupe is a museum about dinosaurs.",
+                  "text": "Jurassic museum (dinosaur museum) in De Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.053963,
@@ -3718,7 +3718,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "borrego",
-                  "text": "Borrego is a castle in the Sierra de Guadalupe area.",
+                  "text": "Castle Borrego in De Guadalupe.",
                   "category": "castle",
                   "coords": [
                         -99.030634,
@@ -3736,7 +3736,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de Piroctecnia",
-                  "text": "The Museo de Piroctecnia in the Sierra de Guadalupe is a museum of pyrotechnics.",
+                  "text": "Fireworks museum in De Guadalupe, opened in 2022.",
                   "category": "museum",
                   "coords": [
                         -99.119573,
@@ -3745,7 +3745,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
-                  "text": "The Centro Ecoturístico y Educación Ambiental 'Sierra de Guadalupe' is a center for ecotourism and environmental education.",
+                  "text": "Ecotourism and Environmental Education Center Sierra de Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.088866,
@@ -3763,7 +3763,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Museo de historia natural",
-                  "text": "The Museo de historia natural in the Sierra de Guadalupe is a natural history museum.",
+                  "text": "Natural history museum in De Guadalupe.",
                   "category": "museum",
                   "coords": [
                         -99.036825,
@@ -3781,7 +3781,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento ABC",
-                  "text": "The Monumento ABC in the Sierra de Guadalupe is a monument featuring the letters 'ABC'.",
+                  "text": "ABC Monument – a monument shaped like the letters ABC in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.017843,
@@ -3790,7 +3790,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Cuchara",
-                  "text": "La Cuchara is a monumental spoon in the Sierra de Guadalupe area.",
+                  "text": "Historic monument 'La Cuchara' (The Spoon) in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.023029,
@@ -3799,7 +3799,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bola Iluminada",
-                  "text": "Bola Iluminada is an illuminated globe monument in the Sierra de Guadalupe.",
+                  "text": "Illuminated ball 'Bola Iluminada' in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.039432,
@@ -3808,7 +3808,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Segunda Glorieta de Frambuesas",
-                  "text": "Segunda Glorieta de Frambuesas is a roundabout with a raspberry theme in the Sierra de Guadalupe.",
+                  "text": "Second Raspberry Roundabout (Segunda Glorieta de Frambuesas) in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.038949,
@@ -3817,7 +3817,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Kiosco de San Rafael",
-                  "text": "Kiosco de San Rafael is a kiosk in the Sierra de Guadalupe area.",
+                  "text": "Kiosk Kiosco de San Rafael in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.123808,
@@ -3826,7 +3826,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Hidalgo",
-                  "text": "The Monumento a Hidalgo in the Sierra de Guadalupe is a monument honoring Miguel Hidalgo.",
+                  "text": "Monument to Miguel Hidalgo in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.128787,
@@ -3835,7 +3835,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "Bandera Monumental is a large flag in the Sierra de Guadalupe area.",
+                  "text": "Monumental flag (Bandera Monumental) in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.163288,
@@ -3844,7 +3844,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a Morelos",
-                  "text": "The Monumento a Morelos in the Sierra de Guadalupe is a monument to José María Morelos.",
+                  "text": "Monument to José María Morelos in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.13242,
@@ -3862,7 +3862,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Cueva de los Tecotines",
-                  "text": "Cueva de los Tecotines is an archaeological cave in the Sierra de Guadalupe area.",
+                  "text": "Cave Cueva de los Tecotines in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.062069,
@@ -3880,7 +3880,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Asta Bandera is a flagpole in the Sierra de Guadalupe area.",
+                  "text": "Flagpole Asta Bandera in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.050702,
@@ -3889,7 +3889,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Diego",
-                  "text": "Estatua de Juan Diego is a statue of Saint Juan Diego in the Sierra de Guadalupe.",
+                  "text": "Statue of Juan Diego in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.046699,
@@ -3898,7 +3898,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Escultura Las Américas",
-                  "text": "Escultura Las Américas is a sculpture representing the Americas in the Sierra de Guadalupe.",
+                  "text": "A historical sculpture representing the Americas in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.021884,
@@ -3907,7 +3907,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Pirámide San Carlos",
-                  "text": "Pirámide San Carlos is a pyramid-shaped monument in the Sierra de Guadalupe area.",
+                  "text": "A historical pyramid named San Carlos in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.04806,
@@ -3925,7 +3925,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "La Trilogia",
-                  "text": "La Trilogia is a monument representing a trilogy in the Sierra de Guadalupe.",
+                  "text": "A historical monument called 'La Trilogia' in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.048647,
@@ -3934,7 +3934,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Primera Glorieta de Frambuesas",
-                  "text": "Primera Glorieta de Frambuesas is the first raspberry-themed roundabout in the Sierra de Guadalupe.",
+                  "text": "A historical roundabout called 'First Raspberry Roundabout' in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.04112,
@@ -3943,7 +3943,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Albarradón de San Cristóbal",
-                  "text": "Albarradón de San Cristóbal is a dam or embankment in the Sierra de Guadalupe area.",
+                  "text": "A historical embankment named San Cristóbal in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.033467,
@@ -3961,7 +3961,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Estatua moderna",
-                  "text": "Estatua moderna is a modern statue in the Sierra de Guadalupe area.",
+                  "text": "A historical modern statue in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.008967,
@@ -3970,7 +3970,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Monumento a la Familia",
-                  "text": "Monumento a la Familia is a monument to the family in the Sierra de Guadalupe.",
+                  "text": "A historical monument to the family in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.014599,
@@ -3979,7 +3979,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Arcada",
-                  "text": "Arcada is an arch monument in the Sierra de Guadalupe area.",
+                  "text": "A historical arcade in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.090334,
@@ -3997,7 +3997,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "arbol forestal II",
-                  "text": "Arbol forestal II is a tree monument in the Sierra de Guadalupe area.",
+                  "text": "A historical forest tree in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.126829,
@@ -4006,7 +4006,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Puente de Fierro",
-                  "text": "Puente de Fierro is a monument in Sierra de Guadalupe.",
+                  "text": "A historical iron bridge in De Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -99.034753,
@@ -4015,7 +4015,7 @@ export const poiExtraMexicoReliefV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura Los Héroes Tecámac",
-                  "text": "Casa de la Cultura Los Héroes Tecámac is an arts centre in Sierra de Guadalupe.",
+                  "text": "A cultural center named after the heroes of Tecámac in De Guadalupe.",
                   "category": "cultural",
                   "coords": [
                         -99.024083,

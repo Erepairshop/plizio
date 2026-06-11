@@ -45,7 +45,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "manga site",
-                  "text": "Der Manga-Standort ist ein Aussichtspunkt in Teyateyaneng.",
+                  "text": "Eine Sandsteinfelsformation namens Manga in den Hügeln von Teyateyaneng.",
                   "category": "natural",
                   "coords": [
                         27.762996,
@@ -56,7 +56,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "manga site",
-                  "text": "A Manga-helyszín egy kilátópont Teyateyanengben.",
+                  "text": "Homokkő sziklaformáció Manga néven Teyateyaneng dombjaiban.",
                   "category": "natural",
                   "coords": [
                         27.762996,
@@ -67,7 +67,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "manga site",
-                  "text": "Locația Manga este un punct de belvedere în Teyateyaneng.",
+                  "text": "O formațiune de gresie numită Manga în dealurile Teyateyaneng.",
                   "category": "natural",
                   "coords": [
                         27.762996,
@@ -78,7 +78,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "manga site",
-                  "text": "The Manga site is a viewpoint in Teyateyaneng.",
+                  "text": "A sandstone rock formation known as Manga in the Teyateyaneng hills.",
                   "category": "natural",
                   "coords": [
                         27.762996,
@@ -222,7 +222,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mohale's Hoek LECSA Church",
-                  "text": "Die LECSA-Kirche ist ein bedeutendes Gotteshaus in Mohale's Hoek.",
+                  "text": "Evangelische Kirche in Mohale's Hoek aus einheimischem Sandstein, ein Wahrzeichen der Stadt.",
                   "category": "religious",
                   "coords": [
                         27.466339,
@@ -233,7 +233,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mohale's Hoek LECSA Church",
-                  "text": "A LECSA-templom egy jelentős imaház Mohale's Hoekban.",
+                  "text": "Evangélikus templom Mohale's Hoekben, helyi homokkőből, a város jelképe.",
                   "category": "religious",
                   "coords": [
                         27.466339,
@@ -244,7 +244,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mohale's Hoek LECSA Church",
-                  "text": "Biserica LECSA este un lăcaș de cult important în Mohale's Hoek.",
+                  "text": "Biserică evanghelică în Mohale's Hoek, construită din gresie locală, un reper al orașului.",
                   "category": "religious",
                   "coords": [
                         27.466339,
@@ -255,7 +255,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mohale's Hoek LECSA Church",
-                  "text": "The LECSA Church is an important place of worship in Mohale's Hoek.",
+                  "text": "Evangelical church in Mohale's Hoek built with local sandstone, a landmark in the town.",
                   "category": "religious",
                   "coords": [
                         27.466339,
@@ -619,7 +619,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Morija Museum & Archives",
-                  "text": "Das Morija Museum & Archives ist eine bekannte kulturelle Einrichtung in Morija.",
+                  "text": "Ein Museum in Morija, Lesotho, das die größte Sammlung von Basotho-Artefakten und Missionsarchiven beherbergt.",
                   "category": "museum",
                   "coords": [
                         27.508848,
@@ -628,7 +628,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Dinosaur Footprints",
-                  "text": "Die Dinosaur Footprints sind eine bedeutende archäologische Stätte in Morija.",
+                  "text": "Fossilisierte Dinosaurierabdrücke auf einer Sandsteinplatte in Morija.",
                   "category": "historical",
                   "coords": [
                         27.513085,
@@ -639,7 +639,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Morija Museum & Archives",
-                  "text": "A Morija Museum & Archives egy jelentős kulturális intézmény Morija városában.",
+                  "text": "Egy múzeum Morijában, Lesothóban, amely a legnagyobb Basotho műtárgy- és missziós archívumgyűjteményt őrzi.",
                   "category": "museum",
                   "coords": [
                         27.508848,
@@ -648,7 +648,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Dinosaur Footprints",
-                  "text": "A Dinosaur Footprints egy figyelemre méltó régészeti lelőhely Morijában.",
+                  "text": "Megkövesedett dinoszaurusz lábnyomok egy homokkőlapon Morijában.",
                   "category": "historical",
                   "coords": [
                         27.513085,
@@ -659,7 +659,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Morija Museum & Archives",
-                  "text": "Morija Museum & Archives este o instituție culturală și un muzeu remarcabil în Morija.",
+                  "text": "Un muzeu în Morija, Lesotho, care găzduiește cea mai mare colecție de artefacte basotho și arhive misionare.",
                   "category": "museum",
                   "coords": [
                         27.508848,
@@ -668,7 +668,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Dinosaur Footprints",
-                  "text": "Dinosaur Footprints este un sit arheologic notabil în Morija.",
+                  "text": "Urme fosilizate de dinozaur pe o placă de gresie la Morija.",
                   "category": "historical",
                   "coords": [
                         27.513085,
@@ -679,7 +679,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Morija Museum & Archives",
-                  "text": "The Morija Museum & Archives is a prominent cultural institution and museum in Morija.",
+                  "text": "A museum in Morija, Lesotho, housing the largest collection of Basotho artifacts and missionary archives.",
                   "category": "museum",
                   "coords": [
                         27.508848,
@@ -688,7 +688,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Dinosaur Footprints",
-                  "text": "The Dinosaur Footprints site is a notable archaeological area in Morija.",
+                  "text": "Fossilized dinosaur footprints on a sandstone slab at Morija.",
                   "category": "historical",
                   "coords": [
                         27.513085,
@@ -832,7 +832,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "King's Residence",
-                  "text": "Die King's Residence ist eine historische Burg in Matsieng.",
+                  "text": "Ein königlicher Wohnsitz mit Strohdach im Matsieng-Tal.",
                   "category": "castle",
                   "coords": [
                         27.565263,
@@ -843,7 +843,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "King's Residence",
-                  "text": "A King's Residence egy történelmi kastély Matsiengben.",
+                  "text": "Egy nádtetős királyi rezidencia a Matsieng-völgyben.",
                   "category": "castle",
                   "coords": [
                         27.565263,
@@ -854,7 +854,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "King's Residence",
-                  "text": "King's Residence este un castel istoric situat în Matsieng.",
+                  "text": "O reședință regală cu acoperiș de paie în valea Matsieng.",
                   "category": "castle",
                   "coords": [
                         27.565263,
@@ -865,7 +865,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "King's Residence",
-                  "text": "The King's Residence is a historic castle located in Matsieng.",
+                  "text": "A thatched-roof royal residence in the Matsieng valley.",
                   "category": "castle",
                   "coords": [
                         27.565263,
@@ -965,7 +965,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bismadal Game Reserve",
-                  "text": "Das Wildreservat Bismadal ist ein Naturschutzgebiet in Peka.",
+                  "text": "Ein Grasland-Wildreservat mit verstreuten Akazienbäumen nahe Peka.",
                   "category": "natural",
                   "coords": [
                         27.697409,
@@ -976,7 +976,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bismadal Game Reserve",
-                  "text": "A Bismadal Vadrezervátum egy természetvédelmi terület Peka területén.",
+                  "text": "Egy füves vadrezervátum akácfákkal Peka közelében.",
                   "category": "natural",
                   "coords": [
                         27.697409,
@@ -987,7 +987,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bismadal Game Reserve",
-                  "text": "Rezervația de vânătoare Bismadal este o rezervație naturală din Peka.",
+                  "text": "O rezervație de vânat de iarbă cu salcâmi împrăștiați lângă Peka.",
                   "category": "natural",
                   "coords": [
                         27.697409,
@@ -998,7 +998,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bismadal Game Reserve",
-                  "text": "Bismadal Game Reserve is a protected nature reserve situated in Peka.",
+                  "text": "A grassland game reserve with scattered acacia trees near Peka.",
                   "category": "natural",
                   "coords": [
                         27.697409,
@@ -1362,7 +1362,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rock pools",
-                  "text": "Die Felsenpools in Sehlabathebe sind eine natürliche Attraktion.",
+                  "text": "Natürliche Felsenbecken im Sehlabathebe-Fluss zwischen Basaltfelsen.",
                   "category": "landmark",
                   "coords": [
                         29.11979,
@@ -1380,7 +1380,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Rock arches",
-                  "text": "Die natürlichen Felsbögen sind eine Sehenswürdigkeit in Sehlabathebe.",
+                  "text": "Granit-Felsbögen, durch Wind erodiert, im Hochland von Sehlabathebe.",
                   "category": "landmark",
                   "coords": [
                         29.123746,
@@ -1389,7 +1389,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Three Bushmen viewpoint",
-                  "text": "Dieser Aussichtspunkt in Sehlabathebe bietet eine weite Sicht.",
+                  "text": "Ein Aussichtspunkt mit Blick auf das Sehlabathebe-Tal, benannt nach drei Felsmalereien der San.",
                   "category": "natural",
                   "coords": [
                         29.124542,
@@ -1400,7 +1400,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rock pools",
-                  "text": "A Sehlabathebe-i sziklamedencék egy természeti látnivaló.",
+                  "text": "Természetes sziklamedencék a Sehlabathebe folyóban bazaltsziklák között.",
                   "category": "landmark",
                   "coords": [
                         29.11979,
@@ -1418,7 +1418,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Rock arches",
-                  "text": "A természetes sziklaívek egy látnivaló Sehlabathebe-ben.",
+                  "text": "Szél által erodált gránit sziklaívek a Sehlabathebe-felföldön.",
                   "category": "landmark",
                   "coords": [
                         29.123746,
@@ -1427,7 +1427,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Three Bushmen viewpoint",
-                  "text": "Ez a Sehlabathebe-i kilátópont széles kilátást biztosít.",
+                  "text": "Kilátó a Sehlabathebe-völgyre, három San-sziklarajzról elnevezve.",
                   "category": "natural",
                   "coords": [
                         29.124542,
@@ -1438,7 +1438,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rock pools",
-                  "text": "Bazinele stâncoase din Sehlabathebe sunt o atracție naturală.",
+                  "text": "Bazine naturale de stâncă în râul Sehlabathebe printre bolovani de bazalt.",
                   "category": "landmark",
                   "coords": [
                         29.11979,
@@ -1456,7 +1456,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Rock arches",
-                  "text": "Arcurile stâncoase naturale sunt o atracție în Sehlabathebe.",
+                  "text": "Arcuri de granit erodate de vânt în podișul Sehlabathebe.",
                   "category": "landmark",
                   "coords": [
                         29.123746,
@@ -1465,7 +1465,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Three Bushmen viewpoint",
-                  "text": "Acest punct de belvedere din Sehlabathebe oferă o vedere largă.",
+                  "text": "Un punct de belvedere cu vedere asupra văii Sehlabathebe, numit după trei picturi rupestre San.",
                   "category": "natural",
                   "coords": [
                         29.124542,
@@ -1476,7 +1476,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rock pools",
-                  "text": "The rock pools in Sehlabathebe are a natural attraction.",
+                  "text": "Natural rock pools in the Sehlabathebe River among basalt boulders.",
                   "category": "landmark",
                   "coords": [
                         29.11979,
@@ -1494,7 +1494,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Rock arches",
-                  "text": "The natural rock arches are an attraction in Sehlabathebe.",
+                  "text": "Granite rock arches eroded by wind in the Sehlabathebe highlands.",
                   "category": "landmark",
                   "coords": [
                         29.123746,
@@ -1503,7 +1503,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Three Bushmen viewpoint",
-                  "text": "This viewpoint in Sehlabathebe offers a wide view.",
+                  "text": "A viewpoint overlooking the Sehlabathebe valley, named after three San rock paintings.",
                   "category": "natural",
                   "coords": [
                         29.124542,
@@ -1692,7 +1692,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Thaba Bosiu Amphitheater",
-                  "text": "Das Amphitheater von Thaba-Bosiu ist ein historischer Veranstaltungsort.",
+                  "text": "Ein natürliches Amphitheater an den Hängen des Thaba-Bosiu-Berges, genutzt für traditionelle Versammlungen.",
                   "category": "cultural",
                   "coords": [
                         27.661425,
@@ -1701,7 +1701,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Qiloane",
-                  "text": "Der Berg Qiloane ist ein markanter Gipfel in der Nähe von Thaba-Bosiu.",
+                  "text": "Auffälliger kegelförmiger Hügel nahe Thaba-Bosiu, eine natürliche Sehenswürdigkeit in Lesotho.",
                   "category": "natural",
                   "coords": [
                         27.686176,
@@ -1710,7 +1710,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Thaba-Bosiu",
-                  "text": "Berg in Thaba-Bosiu.",
+                  "text": "Ein Sandsteinplateau in der Nähe von Maseru, Begräbnisstätte von König Moshoeshoe I.",
                   "category": "natural",
                   "coords": [
                         27.671202,
@@ -1721,7 +1721,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Thaba Bosiu Amphitheater",
-                  "text": "A Thaba-Bosiu amfiteátrum egy történelmi helyszín.",
+                  "text": "Természetes amfiteátrum a Thaba Bosiu-hegy lejtőin, hagyományos összejövetelek helyszíne.",
                   "category": "cultural",
                   "coords": [
                         27.661425,
@@ -1730,7 +1730,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Qiloane",
-                  "text": "A Qiloane-hegy egy jellegzetes csúcs Thaba-Bosiu közelében.",
+                  "text": "Feltűnő kúp alakú domb Thaba-Bosiu közelében, természeti látványosság Lesothóban.",
                   "category": "natural",
                   "coords": [
                         27.686176,
@@ -1739,7 +1739,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Thaba-Bosiu",
-                  "text": "Hegy Thaba-Bosiu-ban.",
+                  "text": "Egy homokkő-fennsík Maseru közelében, I. Moshoeshoe király temetkezési helye.",
                   "category": "natural",
                   "coords": [
                         27.671202,
@@ -1750,7 +1750,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Thaba Bosiu Amphitheater",
-                  "text": "Amfiteatrul din Thaba-Bosiu este un loc istoric.",
+                  "text": "Un amfiteatru natural pe versanții muntelui Thaba Bosiu, folosit pentru adunări tradiționale.",
                   "category": "cultural",
                   "coords": [
                         27.661425,
@@ -1759,7 +1759,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Qiloane",
-                  "text": "Muntele Qiloane este un vârf distinctiv în apropiere de Thaba-Bosiu.",
+                  "text": "Deal conic distinct lângă Thaba-Bosiu, un reper natural în Lesotho.",
                   "category": "natural",
                   "coords": [
                         27.686176,
@@ -1768,7 +1768,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Thaba-Bosiu",
-                  "text": "Vârf în Thaba-Bosiu.",
+                  "text": "Un platou de gresie lângă Maseru, locul de înmormântare al regelui Moshoeshoe I.",
                   "category": "natural",
                   "coords": [
                         27.671202,
@@ -1779,7 +1779,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Thaba Bosiu Amphitheater",
-                  "text": "The Thaba-Bosiu Amphitheater is a historic venue.",
+                  "text": "A natural amphitheater on the slopes of Thaba Bosiu mountain used for traditional gatherings.",
                   "category": "cultural",
                   "coords": [
                         27.661425,
@@ -1788,7 +1788,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Qiloane",
-                  "text": "Mount Qiloane is a distinctive peak near Thaba-Bosiu.",
+                  "text": "Distinctive conical hill near Thaba-Bosiu, a natural landmark in Lesotho.",
                   "category": "natural",
                   "coords": [
                         27.686176,
@@ -1797,7 +1797,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Thaba-Bosiu",
-                  "text": "Peak in Thaba-Bosiu.",
+                  "text": "A sandstone plateau near Maseru, burial site of King Moshoeshoe I.",
                   "category": "natural",
                   "coords": [
                         27.671202,
@@ -2249,7 +2249,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nazareth",
-                  "text": "Nazareth ist ein Aussichtspunkt in Molimo Nthuse.",
+                  "text": "Eine ganzjährige Quelle im Nthuse-Tal, bekannt als Nazareth.",
                   "category": "natural",
                   "coords": [
                         27.839264,
@@ -2260,7 +2260,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nazareth",
-                  "text": "A Názáret egy kilátó Molimo Nthuse városában.",
+                  "text": "Egy állandó forrás az Nthuse-völgyben, Nazareth néven ismert.",
                   "category": "natural",
                   "coords": [
                         27.839264,
@@ -2271,7 +2271,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nazareth",
-                  "text": "Nazaret este un punct de belvedere situat în Molimo Nthuse.",
+                  "text": "Un izvor peren în valea Nthuse, cunoscut ca Nazareth.",
                   "category": "natural",
                   "coords": [
                         27.839264,
@@ -2282,7 +2282,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nazareth",
-                  "text": "Nazareth is a viewpoint located in Molimo Nthuse.",
+                  "text": "A perennial spring in the Nthuse valley known as Nazareth.",
                   "category": "natural",
                   "coords": [
                         27.839264,
@@ -2382,7 +2382,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ha Kome Cave Village",
-                  "text": "Höhlendorf in Ha Kome.",
+                  "text": "Ein historisches Höhlendorf des Basotho-Volkes in den Kome-Klippen.",
                   "category": "landmark",
                   "coords": [
                         27.870182,
@@ -2391,7 +2391,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Malimong Cave",
-                  "text": "Höhle in Ha Kome.",
+                  "text": "Eine große Sandsteinhöhle, die als Unterstand dient, nahe dem Dorf Ha Kome.",
                   "category": "landmark",
                   "coords": [
                         27.90679,
@@ -2402,7 +2402,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ha Kome Cave Village",
-                  "text": "Barlangfalu Ha Kome-ban.",
+                  "text": "A basotho nép történelmi barlanglakó faluja a Kome-sziklákban.",
                   "category": "landmark",
                   "coords": [
                         27.870182,
@@ -2411,7 +2411,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Malimong Cave",
-                  "text": "Barlang Ha Kome-ban.",
+                  "text": "Egy nagy homokkőbarlang, amely menedékül szolgál Ha Kome falu közelében.",
                   "category": "landmark",
                   "coords": [
                         27.90679,
@@ -2422,7 +2422,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ha Kome Cave Village",
-                  "text": "Sat de peșteri în Ha Kome.",
+                  "text": "Un sat istoric de locuințe în peșteri ale poporului Basotho în stâncile Kome.",
                   "category": "landmark",
                   "coords": [
                         27.870182,
@@ -2431,7 +2431,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Malimong Cave",
-                  "text": "Peșteră în Ha Kome.",
+                  "text": "O peșteră mare de gresie folosită ca adăpost lângă satul Ha Kome.",
                   "category": "landmark",
                   "coords": [
                         27.90679,
@@ -2442,7 +2442,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ha Kome Cave Village",
-                  "text": "Cave village in Ha Kome.",
+                  "text": "A historic cave dwelling village of the Basotho people in the Kome cliffs.",
                   "category": "landmark",
                   "coords": [
                         27.870182,
@@ -2451,7 +2451,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
             },
             {
                   "name": "Malimong Cave",
-                  "text": "Cave in Ha Kome.",
+                  "text": "A large sandstone cave used for shelter near Ha Kome village.",
                   "category": "landmark",
                   "coords": [
                         27.90679,
@@ -2859,7 +2859,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ruins",
-                  "text": "Ruinen in Linakaneng.",
+                  "text": "Steinmauerruinen einer Basotho-Siedlung aus dem 19. Jahrhundert in Linakaneng.",
                   "category": "historical",
                   "coords": [
                         28.927086,
@@ -2870,7 +2870,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ruins",
-                  "text": "Romok Linakaneng-ben.",
+                  "text": "Egy 19. századi basotho település kőfalromjai Linakanengben.",
                   "category": "historical",
                   "coords": [
                         28.927086,
@@ -2881,7 +2881,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ruins",
-                  "text": "Ruine în Linakaneng.",
+                  "text": "Ruine de ziduri de piatră ale unei așezări Basotho din secolul al XIX-lea la Linakaneng.",
                   "category": "historical",
                   "coords": [
                         28.927086,
@@ -2892,7 +2892,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ruins",
-                  "text": "Ruins in Linakaneng.",
+                  "text": "Stone wall ruins of a 19th-century Basotho settlement at Linakaneng.",
                   "category": "historical",
                   "coords": [
                         28.927086,

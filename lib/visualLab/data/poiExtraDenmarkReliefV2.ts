@@ -7,7 +7,7 @@ export const denmarkReliefV2: POI[] = [
       "de": [
             {
                   "name": "Momhøj",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Yding Skovhøj.",
+                  "text": "Bronzezeitlicher Grabhügel in den bewaldeten Hügeln von Yding Skov.",
                   "category": "historical",
                   "coords": [
                         9.732807,
@@ -43,7 +43,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Møllehøj",
-                  "text": "Der höchste natürliche Punkt Dänemarks.",
+                  "text": "Møllehøj, die höchste Erhebung Dänemarks, im Yding Skovhøj.",
                   "category": "landmark",
                   "coords": [
                         9.82633,
@@ -81,7 +81,7 @@ export const denmarkReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Momhøj",
-                  "text": "Régészeti lelőhely Yding Skovhøj közelében.",
+                  "text": "Bronzkori halomsír az Yding-erdő dombjai között.",
                   "category": "historical",
                   "coords": [
                         9.732807,
@@ -117,7 +117,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Møllehøj",
-                  "text": "Dánia legmagasabb természetes pontja.",
+                  "text": "Møllehøj, Dánia legmagasabb pontja, az Yding Skovhøj területén.",
                   "category": "landmark",
                   "coords": [
                         9.82633,
@@ -155,7 +155,7 @@ export const denmarkReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Momhøj",
-                  "text": "Un sit arheologic situat în apropiere de Yding Skovhøj.",
+                  "text": "Movilă funerară din epoca bronzului în dealurile împădurite Yding Skov.",
                   "category": "historical",
                   "coords": [
                         9.732807,
@@ -191,7 +191,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Møllehøj",
-                  "text": "Cel mai înalt punct natural din Danemarca.",
+                  "text": "Møllehøj, cel mai înalt punct al Danemarcei, situat în Yding Skovhøj.",
                   "category": "landmark",
                   "coords": [
                         9.82633,
@@ -229,7 +229,7 @@ export const denmarkReliefV2: POI[] = [
       "en": [
             {
                   "name": "Momhøj",
-                  "text": "An archaeological site located near Yding Skovhøj.",
+                  "text": "Bronze Age burial mound in the forested hills of Yding Skov.",
                   "category": "historical",
                   "coords": [
                         9.732807,
@@ -265,7 +265,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Møllehøj",
-                  "text": "The highest natural point in Denmark.",
+                  "text": "Møllehøj, the highest point in Denmark, located in Yding Skovhøj.",
                   "category": "landmark",
                   "coords": [
                         9.82633,
@@ -1078,7 +1078,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Fjord",
-                  "text": "Ein flaches Fjordgebiet, das für seine Vogelwelt und Seehunde bekannt ist.",
+                  "text": "Avnø Fjord, ein flacher Fjord auf der Halbinsel Knudshoved Odde.",
                   "category": "landmark",
                   "coords": [
                         11.732693,
@@ -1087,7 +1087,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Dybsø Fjord",
-                  "text": "Ein geschütztes Buchtgebiet an der Küste von Seeland.",
+                  "text": "Dybsø Fjord, ein flacher Fjord auf der Halbinsel Knudshoved Odde.",
                   "category": "landmark",
                   "coords": [
                         11.764635,
@@ -1096,7 +1096,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Pumpestation",
-                  "text": "Eine historische Pumpstation im Avnø-Gebiet.",
+                  "text": "Historische Wasserpumpstation auf der Halbinsel Knudshoved Odde.",
                   "category": "landmark",
                   "coords": [
                         11.776761,
@@ -1105,7 +1105,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinø Kirke",
-                  "text": "Eine lokale Kirche, die der Gemeinde Svinø dient.",
+                  "text": "Die Svinø Kirke im Dorf Svinø auf der Halbinsel Knudshoved Odde.",
                   "category": "religious",
                   "coords": [
                         11.753526,
@@ -1143,7 +1143,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Fjord",
-                  "text": "Madárvilágáról és fókáiról ismert sekély fjordterület.",
+                  "text": "Az Avnø Fjord egy sekély fjord a Knudshoved Odde-félszigeten.",
                   "category": "landmark",
                   "coords": [
                         11.732693,
@@ -1152,7 +1152,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Dybsø Fjord",
-                  "text": "Védett öbölterület Sjælland partjainál.",
+                  "text": "A Dybsø Fjord egy sekély fjord a Knudshoved Odde-félszigeten.",
                   "category": "landmark",
                   "coords": [
                         11.764635,
@@ -1161,7 +1161,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Pumpestation",
-                  "text": "Történelmi szivattyúállomás az Avnø területén.",
+                  "text": "Történelmi vízszivattyú-állomás a Knudshoved Odde-félszigeten.",
                   "category": "landmark",
                   "coords": [
                         11.776761,
@@ -1170,7 +1170,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinø Kirke",
-                  "text": "Svinø közösségét kiszolgáló helyi templom.",
+                  "text": "A Svinø-templom Svinø faluban, a Knudshoved Odde-félszigeten.",
                   "category": "religious",
                   "coords": [
                         11.753526,
@@ -1208,7 +1208,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Fjord",
-                  "text": "O zonă de fjord cu adâncime mică, cunoscută pentru păsările și focile sale.",
+                  "text": "Fjordul Avnø, un fiord puțin adânc pe peninsula Knudshoved Odde.",
                   "category": "landmark",
                   "coords": [
                         11.732693,
@@ -1217,7 +1217,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Dybsø Fjord",
-                  "text": "O zonă de golf protejată pe coasta Zeelandei.",
+                  "text": "Fjordul Dybsø, un fiord puțin adânc pe peninsula Knudshoved Odde.",
                   "category": "landmark",
                   "coords": [
                         11.764635,
@@ -1226,7 +1226,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Pumpestation",
-                  "text": "O stație de pompare istorică situată în zona Avnø.",
+                  "text": "Stație istorică de pompare a apei pe peninsula Knudshoved Odde.",
                   "category": "landmark",
                   "coords": [
                         11.776761,
@@ -1235,7 +1235,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinø Kirke",
-                  "text": "O biserică locală care deservește comunitatea din Svinø.",
+                  "text": "Biserica Svinø din satul Svinø, pe peninsula Knudshoved Odde.",
                   "category": "religious",
                   "coords": [
                         11.753526,
@@ -1273,7 +1273,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Fjord",
-                  "text": "A shallow fjord area known for its birdlife and seals.",
+                  "text": "Avnø Fjord, a shallow fjord on the Knudshoved Odde peninsula.",
                   "category": "landmark",
                   "coords": [
                         11.732693,
@@ -1282,7 +1282,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Dybsø Fjord",
-                  "text": "A protected bay area on the coast of Zealand.",
+                  "text": "Dybsø Fjord, a shallow fjord on the Knudshoved Odde peninsula.",
                   "category": "landmark",
                   "coords": [
                         11.764635,
@@ -1291,7 +1291,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Avnø Pumpestation",
-                  "text": "A historical pumping station located in the Avnø area.",
+                  "text": "Historic water pumping station on the Knudshoved Odde peninsula.",
                   "category": "landmark",
                   "coords": [
                         11.776761,
@@ -1300,7 +1300,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinø Kirke",
-                  "text": "A local church serving the community of Svinø.",
+                  "text": "Svinø Church in the village of Svinø on the Knudshoved Odde peninsula.",
                   "category": "religious",
                   "coords": [
                         11.753526,
@@ -1366,7 +1366,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Askildhøj",
-                  "text": "Ein archäologischer Fundplatz auf der Halbinsel Helgenæs.",
+                  "text": "Bronzezeitlicher Grabhügel auf der Halbinsel Helgenaes.",
                   "category": "historical",
                   "coords": [
                         10.523092,
@@ -1375,7 +1375,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tyskertårnet",
-                  "text": "Ein Beobachtungsturm aus dem Zweiten Weltkrieg mit weitem Blick über das Meer.",
+                  "text": "Der Tyskertårn (Deutscher Turm) ist eine natürliche Felsformation auf der Halbinsel Helgenæs.",
                   "category": "natural",
                   "coords": [
                         10.526582,
@@ -1384,7 +1384,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bursklint",
-                  "text": "Ein Aussichtspunkt an der Steilküste von Helgenæs.",
+                  "text": "Kreidefelsen an der Küste von Helgenaes.",
                   "category": "natural",
                   "coords": [
                         10.537175,
@@ -1431,7 +1431,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Askildhøj",
-                  "text": "Régészeti lelőhely a Helgenæs-félszigeten.",
+                  "text": "Bronzkori temetkezési halom a Helgenaes-félszigeten.",
                   "category": "historical",
                   "coords": [
                         10.523092,
@@ -1440,7 +1440,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tyskertårnet",
-                  "text": "Második világháborús figyelőtorony tágas kilátással a tengerre.",
+                  "text": "A Tyskertårn (Német torony) egy természetes sziklaformáció a Helgenæs-félszigeten.",
                   "category": "natural",
                   "coords": [
                         10.526582,
@@ -1449,7 +1449,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bursklint",
-                  "text": "Kilátópont Helgenæs meredek partvidékén.",
+                  "text": "Krétaszikla a Helgenaes partján.",
                   "category": "natural",
                   "coords": [
                         10.537175,
@@ -1496,7 +1496,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Askildhøj",
-                  "text": "Un sit arheologic pe peninsula Helgenæs.",
+                  "text": "Movilă funerară din epoca bronzului pe peninsula Helgenaes.",
                   "category": "historical",
                   "coords": [
                         10.523092,
@@ -1505,7 +1505,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tyskertårnet",
-                  "text": "Un turn de observație din al Doilea Război Mondial, cu o vedere largă asupra mării.",
+                  "text": "Tyskertårnet (Turnul German) este o formațiune naturală de stâncă pe peninsula Helgenæs.",
                   "category": "natural",
                   "coords": [
                         10.526582,
@@ -1514,7 +1514,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bursklint",
-                  "text": "Un punct de belvedere pe coasta abruptă a peninsulei Helgenæs.",
+                  "text": "Stâncă de cretă pe coasta Helgenaes.",
                   "category": "natural",
                   "coords": [
                         10.537175,
@@ -1561,7 +1561,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Askildhøj",
-                  "text": "An archaeological site on the Helgenæs peninsula.",
+                  "text": "Bronze Age burial mound on the Helgenaes peninsula.",
                   "category": "historical",
                   "coords": [
                         10.523092,
@@ -1570,7 +1570,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "The German Tower",
-                  "text": "A WWII observation tower with wide views over the sea.",
+                  "text": "The German Tower (Tyskertårnet) is a natural rock formation on the Helgenæs peninsula.",
                   "category": "natural",
                   "coords": [
                         10.526582,
@@ -1579,7 +1579,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bursklint",
-                  "text": "A viewpoint on the steep coast of Helgenæs.",
+                  "text": "Chalk cliff on the coast of Helgenaes.",
                   "category": "natural",
                   "coords": [
                         10.537175,
@@ -2176,7 +2176,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Sørhøj",
-                  "text": "Ein antiker Grabhügel in der Nähe von Kragelund Bakke.",
+                  "text": "Prähistorischer Grabhügel auf dem Kragelund Bakke-Hügel.",
                   "category": "historical",
                   "coords": [
                         9.474014,
@@ -2223,7 +2223,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Sørhøj",
-                  "text": "Egy ősi sírhalom Kragelund Bakke közelében.",
+                  "text": "Őskori temetkezési halom a Kragelund Bakke dombon.",
                   "category": "historical",
                   "coords": [
                         9.474014,
@@ -2270,7 +2270,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Sørhøj",
-                  "text": "Un tumul funerar antic în apropiere de Kragelund Bakke.",
+                  "text": "Movilă preistorică pe dealul Kragelund Bakke.",
                   "category": "historical",
                   "coords": [
                         9.474014,
@@ -2317,7 +2317,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Sørhøj",
-                  "text": "An ancient burial mound near Kragelund Bakke.",
+                  "text": "Prehistoric burial mound on Kragelund Bakke hill.",
                   "category": "historical",
                   "coords": [
                         9.474014,
@@ -2446,7 +2446,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rosendal",
-                  "text": "Ein historisches Herrenhaus in der Nähe von Fakse Kalkbrud.",
+                  "text": "Rosendal, ein Herrenhaus in der Faxe-Gemeinde, nahe dem Kalkbruch Fakse.",
                   "category": "historical",
                   "coords": [
                         12.110873,
@@ -2464,7 +2464,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Ivans Kunstgalleri",
-                  "text": "Eine lokale Kunstgalerie im Bereich von Fakse Kalkbrud.",
+                  "text": "Kunstgalerie im Kalksteinbruch von Fakse.",
                   "category": "museum",
                   "coords": [
                         12.126514,
@@ -2520,7 +2520,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rosendal",
-                  "text": "Történelmi udvarház Fakse Kalkbrud közelében.",
+                  "text": "Rosendal, egy kúria Faxe plébániában, a Fakse-mészkőbánya közelében.",
                   "category": "historical",
                   "coords": [
                         12.110873,
@@ -2538,7 +2538,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Ivans Kunstgalleri",
-                  "text": "Helyi művészeti galéria a Fakse Kalkbrud területén.",
+                  "text": "Művészeti galéria a Fakse-i mészkőbányában.",
                   "category": "museum",
                   "coords": [
                         12.126514,
@@ -2594,7 +2594,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rosendal",
-                  "text": "Un conac istoric situat lângă Fakse Kalkbrud.",
+                  "text": "Rosendal, un conac în parohia Faxe, lângă cariera de calcar Fakse.",
                   "category": "historical",
                   "coords": [
                         12.110873,
@@ -2612,7 +2612,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Ivans Kunstgalleri",
-                  "text": "O galerie de artă locală din zona Fakse Kalkbrud.",
+                  "text": "Galerie de artă în cariera de calcar de la Fakse.",
                   "category": "museum",
                   "coords": [
                         12.126514,
@@ -2668,7 +2668,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rosendal",
-                  "text": "A historic manor house located near Fakse Kalkbrud.",
+                  "text": "Rosendal, a manor house in Faxe parish, near the Fakse limestone quarry.",
                   "category": "historical",
                   "coords": [
                         12.110873,
@@ -2686,7 +2686,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Ivans Kunstgalleri",
-                  "text": "A local art gallery in the Fakse Kalkbrud area.",
+                  "text": "Art gallery set in the Fakse limestone quarry.",
                   "category": "museum",
                   "coords": [
                         12.126514,
@@ -3148,7 +3148,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Smedehøje",
-                  "text": "Eine Reihe prähistorischer Hügelgräber in Jyske Ås.",
+                  "text": "Zwei benachbarte Grabhügel in der Heidelandschaft von Jyske As.",
                   "category": "historical",
                   "coords": [
                         10.131645,
@@ -3222,7 +3222,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Smedehøje",
-                  "text": "Őskori sírhalmok sorozata Jyske Ås területén.",
+                  "text": "Két szomszédos halomsír a Jyske As hangás vidékén.",
                   "category": "historical",
                   "coords": [
                         10.131645,
@@ -3296,7 +3296,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Smedehøje",
-                  "text": "O serie de tumuli preistorici în localitatea Jyske Ås.",
+                  "text": "Două movile funerare alăturate în peisajul de stepă al Jyske As.",
                   "category": "historical",
                   "coords": [
                         10.131645,
@@ -3370,7 +3370,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Smedehøje",
-                  "text": "A series of prehistoric burial mounds in Jyske Ås.",
+                  "text": "Two adjacent burial mounds in the heathland of Jyske As.",
                   "category": "historical",
                   "coords": [
                         10.131645,
@@ -3517,7 +3517,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kammerherrens Høj",
-                  "text": "Ein markanter Grabhügel in der Gegend von Borre Bakkekam.",
+                  "text": "Großer Grabhügel auf dem Kamm des Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.523059,
@@ -3526,7 +3526,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kraghøj",
-                  "text": "Eine archäologische Ausgrabungsstätte in Borre Bakkekam.",
+                  "text": "Rundhügel aus der Bronzezeit auf dem Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.527745,
@@ -3535,7 +3535,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Hauledshøj",
-                  "text": "Überreste einer prähistorischen Stätte in Borre Bakkekam.",
+                  "text": "Grabhügel mit Blick auf die Küste, auf dem Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.49056,
@@ -3600,7 +3600,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kammerherrens Høj",
-                  "text": "Jellegzetes sírhalom Borre Bakkekam környékén.",
+                  "text": "Nagy halomsír a Borre Bakkekam gerincén.",
                   "category": "historical",
                   "coords": [
                         12.523059,
@@ -3609,7 +3609,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kraghøj",
-                  "text": "Régészeti ásatási terület Borre Bakkekam területén.",
+                  "text": "Kerek bronzkori halom a Borre Bakkekamon.",
                   "category": "historical",
                   "coords": [
                         12.527745,
@@ -3618,7 +3618,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Hauledshøj",
-                  "text": "Prehisztorikus helyszín maradványai Borre Bakkekam területén.",
+                  "text": "Tengerre néző halomsír a Borre Bakkekamon.",
                   "category": "historical",
                   "coords": [
                         12.49056,
@@ -3683,7 +3683,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kammerherrens Høj",
-                  "text": "Un tumul proeminent în zona Borre Bakkekam.",
+                  "text": "Movilă funerară mare pe creasta Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.523059,
@@ -3692,7 +3692,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kraghøj",
-                  "text": "Un sit de excavații arheologice în Borre Bakkekam.",
+                  "text": "Movilă rotundă din epoca bronzului pe Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.527745,
@@ -3701,7 +3701,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Hauledshøj",
-                  "text": "Vestigiile unui sit preistoric în Borre Bakkekam.",
+                  "text": "Movilă funerară cu vedere la coastă, pe Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.49056,
@@ -3766,7 +3766,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kammerherrens Høj",
-                  "text": "A prominent burial mound in the Borre Bakkekam area.",
+                  "text": "Large burial mound on the ridge of Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.523059,
@@ -3775,7 +3775,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kraghøj",
-                  "text": "An archaeological excavation site in Borre Bakkekam.",
+                  "text": "Round Bronze Age mound on Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.527745,
@@ -3784,7 +3784,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Hauledshøj",
-                  "text": "Remains of a prehistoric site in Borre Bakkekam.",
+                  "text": "Burial mound with coastal views on Borre Bakkekam.",
                   "category": "historical",
                   "coords": [
                         12.49056,
@@ -3859,7 +3859,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bryggehøj",
-                  "text": "Ein prähistorischer Grabhügel in Aars Høje.",
+                  "text": "Grabhügel in der Hügelkette Aars Hoje, nahe der Stadt Aars.",
                   "category": "historical",
                   "coords": [
                         9.474595,
@@ -3877,7 +3877,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Pisselhøj",
-                  "text": "Ein archäologisch bedeutender Hügel in Aars Høje.",
+                  "text": "Kleiner Grabhügel am Rande der Aars Hoje Hügel.",
                   "category": "historical",
                   "coords": [
                         9.471188,
@@ -3886,7 +3886,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kæmpehøj",
-                  "text": "Ein antiker Grabhügel in der Landschaft von Aars Høje.",
+                  "text": "Riesengrabhügel, der höchste Punkt der Aars Hoje Gruppe.",
                   "category": "historical",
                   "coords": [
                         9.53606,
@@ -3895,7 +3895,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "Ein historisches Bodendenkmal in Aars Høje.",
+                  "text": "Grabhügel auf einem Feld in der Nähe von Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.544373,
@@ -3904,7 +3904,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klavshøj",
-                  "text": "Einer der charakteristischen Grabhügel in Aars Høje.",
+                  "text": "Grabhügel mit gut erhaltener Steinkiste in Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.557645,
@@ -3933,7 +3933,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bryggehøj",
-                  "text": "Egy őskori sírhalom Aars Høje területén.",
+                  "text": "Halomsír az Aars Hoje dombsorban, Aars város közelében.",
                   "category": "historical",
                   "coords": [
                         9.474595,
@@ -3951,7 +3951,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Pisselhøj",
-                  "text": "Régészeti szempontból jelentős halom Aars Høje-ben.",
+                  "text": "Kis halomsír az Aars Hoje dombok szélén.",
                   "category": "historical",
                   "coords": [
                         9.471188,
@@ -3960,7 +3960,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kæmpehøj",
-                  "text": "Egy ókori sírhalom Aars Høje táján.",
+                  "text": "Óriás halomsír, az Aars Hoje csoport legmagasabb pontja.",
                   "category": "historical",
                   "coords": [
                         9.53606,
@@ -3969,7 +3969,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "Történelmi földvár oder sírhalom Aars Høje területén.",
+                  "text": "Halomsír egy mezőn, Aars Hoje közelében.",
                   "category": "historical",
                   "coords": [
                         9.544373,
@@ -3978,7 +3978,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klavshøj",
-                  "text": "Az Aars Høje jellegzetes sírhalmainak egyike.",
+                  "text": "Jó állapotú kőládás halomsír az Aars Hoje-ban.",
                   "category": "historical",
                   "coords": [
                         9.557645,
@@ -4007,7 +4007,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bryggehøj",
-                  "text": "Un gorgan preistoric în Aars Høje.",
+                  "text": "Movilă funerară în șirul de dealuri Aars Hoje, lângă orașul Aars.",
                   "category": "historical",
                   "coords": [
                         9.474595,
@@ -4025,7 +4025,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Pisselhøj",
-                  "text": "Un tumul cu semnificație arheologică în Aars Høje.",
+                  "text": "Movilă funerară mică la marginea dealurilor Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.471188,
@@ -4034,7 +4034,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kæmpehøj",
-                  "text": "Un tumul antic în peisajul din Aars Høje.",
+                  "text": "Movilă uriașă, cel mai înalt punct al grupului Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.53606,
@@ -4043,7 +4043,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "Un monument istoric al solului în Aars Høje.",
+                  "text": "Movilă funerară pe un câmp lângă Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.544373,
@@ -4052,7 +4052,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klavshøj",
-                  "text": "Unul dintre tumulii caracteristici din Aars Høje.",
+                  "text": "Movilă funerară cu un cist de piatră bine păstrat în Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.557645,
@@ -4081,7 +4081,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Bryggehøj",
-                  "text": "A prehistoric burial mound in Aars Høje.",
+                  "text": "Burial mound in the Aars Hoje hill chain near Aars town.",
                   "category": "historical",
                   "coords": [
                         9.474595,
@@ -4099,7 +4099,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Pisselhøj",
-                  "text": "An archaeologically significant mound in Aars Høje.",
+                  "text": "Small burial mound at the edge of the Aars Hoje hills.",
                   "category": "historical",
                   "coords": [
                         9.471188,
@@ -4108,7 +4108,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Kæmpehøj",
-                  "text": "An ancient burial mound in the Aars Høje landscape.",
+                  "text": "Giant burial mound, the highest point of the Aars Hoje group.",
                   "category": "historical",
                   "coords": [
                         9.53606,
@@ -4117,7 +4117,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "A historical ground monument in Aars Høje.",
+                  "text": "Burial mound in a field near Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.544373,
@@ -4126,7 +4126,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klavshøj",
-                  "text": "One of the characteristic burial mounds in Aars Høje.",
+                  "text": "Burial mound with a well-preserved stone cist in Aars Hoje.",
                   "category": "historical",
                   "coords": [
                         9.557645,
@@ -5299,7 +5299,7 @@ export const denmarkReliefV2: POI[] = [
       "de": [
             {
                   "name": "Flyvholm Redningsstation",
-                  "text": "Ein Museum in einer ehemaligen Rettungsstation an der Küste.",
+                  "text": "Museum in einer historischen Rettungsstation an der Küste von Harboore.",
                   "category": "museum",
                   "coords": [
                         8.154471,
@@ -5317,7 +5317,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Harboøre Kirke",
-                  "text": "Eine historische Kirche in der Ortschaft Harboøre.",
+                  "text": "Die Harboøre Kirke in der Stadt Harboøre an der Westküste Jütlands.",
                   "category": "religious",
                   "coords": [
                         8.18567,
@@ -5328,7 +5328,7 @@ export const denmarkReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Flyvholm Redningsstation",
-                  "text": "Múzeum egy egykori tengerparti mentőállomáson.",
+                  "text": "Múzeum egy történelmi mentőállomáson a Harboore parton.",
                   "category": "museum",
                   "coords": [
                         8.154471,
@@ -5346,7 +5346,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Harboøre Kirke",
-                  "text": "Történelmi templom Harboøre településen.",
+                  "text": "A Harboøre-templom Harboøre városában, Jylland nyugati partján.",
                   "category": "religious",
                   "coords": [
                         8.18567,
@@ -5357,7 +5357,7 @@ export const denmarkReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Flyvholm Redningsstation",
-                  "text": "Un muzeu amenajat într-o fostă stație de salvare de pe coastă.",
+                  "text": "Muzeu într-o fostă stație de salvare pe coasta Harboore.",
                   "category": "museum",
                   "coords": [
                         8.154471,
@@ -5375,7 +5375,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Harboøre Kirke",
-                  "text": "O biserică istorică în localitatea Harboøre.",
+                  "text": "Biserica Harboøre din orașul Harboøre, pe coasta de vest a Iutlandei.",
                   "category": "religious",
                   "coords": [
                         8.18567,
@@ -5386,7 +5386,7 @@ export const denmarkReliefV2: POI[] = [
       "en": [
             {
                   "name": "Flyvholm Redningsstation",
-                  "text": "A museum housed in a former coastal rescue station.",
+                  "text": "Museum in a historic lifeboat station on the Harboore coast.",
                   "category": "museum",
                   "coords": [
                         8.154471,
@@ -5404,7 +5404,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Harboøre Kirke",
-                  "text": "A historic church located in the village of Harboøre.",
+                  "text": "Harboøre Church in the town of Harboøre on the west coast of Jutland.",
                   "category": "religious",
                   "coords": [
                         8.18567,
@@ -6154,7 +6154,7 @@ export const denmarkReliefV2: POI[] = [
       "de": [
             {
                   "name": "Ebhøj",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Vognserup.",
+                  "text": "Grabhügel im Waldgebiet von Vognserup, nahe einem Moor.",
                   "category": "historical",
                   "coords": [
                         11.61256,
@@ -6228,7 +6228,7 @@ export const denmarkReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Ebhøj",
-                  "text": "Egy régészeti lelőhely Vognserup közelében.",
+                  "text": "Halomsír a Vognserup erdős területén, egy láp közelében.",
                   "category": "historical",
                   "coords": [
                         11.61256,
@@ -6302,7 +6302,7 @@ export const denmarkReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Ebhøj",
-                  "text": "Un sit arheologic situat în apropiere de Vognserup.",
+                  "text": "Movilă funerară în zona împădurită Vognserup, lângă o mlaștină.",
                   "category": "historical",
                   "coords": [
                         11.61256,
@@ -6376,7 +6376,7 @@ export const denmarkReliefV2: POI[] = [
       "en": [
             {
                   "name": "Ebhøj",
-                  "text": "An archaeological site located near Vognserup.",
+                  "text": "Burial mound in the forested area of Vognserup near a bog.",
                   "category": "historical",
                   "coords": [
                         11.61256,
@@ -6514,7 +6514,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Lindhøj",
-                  "text": "Prähistorische archäologische Stätte in Mols Bjerge.",
+                  "text": "Grabhügel im Nationalpark Mols Bjerge, mit Blick auf die Bucht.",
                   "category": "historical",
                   "coords": [
                         10.510471,
@@ -6523,7 +6523,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinhøj",
-                  "text": "Antike Ausgrabungsstätte in Mols Bjerge.",
+                  "text": "Grabhügel auf einer Wiese in den Mols Bjerge Hügeln.",
                   "category": "historical",
                   "coords": [
                         10.523013,
@@ -6541,7 +6541,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Agri Dyssen",
-                  "text": "Ein bekanntes Megalithgrab in der Nähe von Agri in Mols Bjerge.",
+                  "text": "Der Agri Dyssen ist ein neolithischer Grabhügel in den Mols Bjerge-Bergen.",
                   "category": "historical",
                   "coords": [
                         10.515331,
@@ -6550,7 +6550,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Stabelhøje",
-                  "text": "Zwei markante Grabhügel aus der Bronzezeit in Mols Bjerge.",
+                  "text": "Gruppe bronzezeitlicher Grabhügel in den Mols-Bjerge-Hügeln.",
                   "category": "historical",
                   "coords": [
                         10.522903,
@@ -6559,7 +6559,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Brunhøje",
-                  "text": "Prähistorischer Grabhügel in der Landschaft von Mols Bjerge.",
+                  "text": "Hügelgräber aus prähistorischer Zeit in den Mols-Bjerge-Hügeln.",
                   "category": "historical",
                   "coords": [
                         10.515551,
@@ -6597,7 +6597,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Lindhøj",
-                  "text": "Prehisztorikus régészeti lelőhely Mols Bjerge területén.",
+                  "text": "Halomsír a Mols Bjerge Nemzeti Parkban, az öbölre néző kilátással.",
                   "category": "historical",
                   "coords": [
                         10.510471,
@@ -6606,7 +6606,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinhøj",
-                  "text": "Ókori régészeti helyszín Mols Bjerge vidékén.",
+                  "text": "Halomsír egy réten a Mols Bjerge dombokban.",
                   "category": "historical",
                   "coords": [
                         10.523013,
@@ -6624,7 +6624,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Agri Dyssen",
-                  "text": "Ismert megalitikus sír Agri közelében, Mols Bjerge területén.",
+                  "text": "Az Agri Dyssen egy neolitikus temetkezési halom a Mols Bjerge dombságban.",
                   "category": "historical",
                   "coords": [
                         10.515331,
@@ -6633,7 +6633,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Stabelhøje",
-                  "text": "Két jellegzetes bronzkori halomsír Mols Bjerge területén.",
+                  "text": "Bronzkori halomsírok csoportja a Mols Bjerge dombokban.",
                   "category": "historical",
                   "coords": [
                         10.522903,
@@ -6642,7 +6642,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Brunhøje",
-                  "text": "Prehisztorikus halomsír Mols Bjerge tájain.",
+                  "text": "Őskori halomsírok a Mols Bjerge dombokban.",
                   "category": "historical",
                   "coords": [
                         10.515551,
@@ -6680,7 +6680,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Lindhøj",
-                  "text": "Sit arheologic preistoric în Mols Bjerge.",
+                  "text": "Movilă funerară în Parcul Național Mols Bjerge, cu vedere spre golf.",
                   "category": "historical",
                   "coords": [
                         10.510471,
@@ -6689,7 +6689,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinhøj",
-                  "text": "Sit arheologic antic în Mols Bjerge.",
+                  "text": "Movilă funerară pe o pajiște în dealurile Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.523013,
@@ -6707,7 +6707,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Agri Dyssen",
-                  "text": "Un mormânt megalitic cunoscut lângă Agri în Mols Bjerge.",
+                  "text": "Agri Dyssen, o movilă funerară neolitică în dealurile Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.515331,
@@ -6716,7 +6716,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Stabelhøje",
-                  "text": "Două movile funerare distinctive din epoca bronzului în Mols Bjerge.",
+                  "text": "Grup de movile funerare din epoca bronzului în dealurile Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.522903,
@@ -6725,7 +6725,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Brunhøje",
-                  "text": "Tumul preistoric în peisajul din Mols Bjerge.",
+                  "text": "Movile funerare preistorice în dealurile Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.515551,
@@ -6763,7 +6763,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Lindhøj",
-                  "text": "Prehistoric archaeological site in Mols Bjerge.",
+                  "text": "Burial mound in Mols Bjerge National Park overlooking the bay.",
                   "category": "historical",
                   "coords": [
                         10.510471,
@@ -6772,7 +6772,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Svinhøj",
-                  "text": "Ancient archaeological site in Mols Bjerge.",
+                  "text": "Burial mound in a meadow in the Mols Bjerge hills.",
                   "category": "historical",
                   "coords": [
                         10.523013,
@@ -6790,7 +6790,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Agri Dyssen",
-                  "text": "A well-known megalithic tomb near Agri in Mols Bjerge.",
+                  "text": "Agri Dyssen, a Neolithic burial mound in the Mols Bjerge hills.",
                   "category": "historical",
                   "coords": [
                         10.515331,
@@ -6799,7 +6799,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Stabelhøje",
-                  "text": "Two prominent Bronze Age burial mounds in Mols Bjerge.",
+                  "text": "Group of Bronze Age burial mounds in the Mols Bjerge hills.",
                   "category": "historical",
                   "coords": [
                         10.522903,
@@ -6808,7 +6808,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Brunhøje",
-                  "text": "Prehistoric burial mound in the Mols Bjerge landscape.",
+                  "text": "Cluster of prehistoric burial mounds in the Mols Bjerge hills.",
                   "category": "historical",
                   "coords": [
                         10.515551,
@@ -8125,7 +8125,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Helenehøj",
-                  "text": "Ein bemerkenswerter prähistorischer Fundort in Odsherred Bakke.",
+                  "text": "Grabhügel auf dem Odsherred Bakke mit Aussicht auf den Isefjord.",
                   "category": "historical",
                   "coords": [
                         11.622582,
@@ -8217,7 +8217,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Helenehøj",
-                  "text": "Figyelemre méltó őskori lelőhely Odsherred Bakke-ben.",
+                  "text": "Halomsír az Odsherred Bakke-n, az Isefjordra nyíló kilátással.",
                   "category": "historical",
                   "coords": [
                         11.622582,
@@ -8309,7 +8309,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Helenehøj",
-                  "text": "Un sit preistoric remarcabil în Odsherred Bakke.",
+                  "text": "Movilă funerară pe Odsherred Bakke cu vedere la Isefjord.",
                   "category": "historical",
                   "coords": [
                         11.622582,
@@ -8401,7 +8401,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Helenehøj",
-                  "text": "A notable prehistoric site in Odsherred Bakke.",
+                  "text": "Burial mound on Odsherred Bakke with a view of Isefjord.",
                   "category": "historical",
                   "coords": [
                         11.622582,
@@ -9232,7 +9232,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rødby Kirke",
-                  "text": "Die Hauptpfarrkirche von Rødby mit einer langen Geschichte.",
+                  "text": "Mittelalterliche Backsteinkirche auf dem Lolland Bakke Hügel.",
                   "category": "religious",
                   "coords": [
                         11.386243,
@@ -9241,7 +9241,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tirsted Kirke",
-                  "text": "Eine große mittelalterliche Kirche, bekannt für ihren Runenstein.",
+                  "text": "Romanische Feldsteinkirche mit Turm auf dem Lolland Bakke.",
                   "category": "religious",
                   "coords": [
                         11.345307,
@@ -9315,7 +9315,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rødby Kirke",
-                  "text": "Rødby fő plébániatemploma, amely hosszú múltra tekint vissza.",
+                  "text": "Középkori téglatemplom a Lolland Bakke dombon.",
                   "category": "religious",
                   "coords": [
                         11.386243,
@@ -9324,7 +9324,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tirsted Kirke",
-                  "text": "Egy nagy középkori templom, amely rúnakövéről ismert.",
+                  "text": "Romanikus terméskő templom toronnyal a Lolland Bakke-n.",
                   "category": "religious",
                   "coords": [
                         11.345307,
@@ -9398,7 +9398,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rødby Kirke",
-                  "text": "Biserica parohială principală din Rødby, cu o istorie îndelungată.",
+                  "text": "Biserică medievală de cărămidă pe dealul Lolland Bakke.",
                   "category": "religious",
                   "coords": [
                         11.386243,
@@ -9407,7 +9407,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tirsted Kirke",
-                  "text": "O biserică medievală mare, cunoscută pentru piatra sa runică.",
+                  "text": "Biserică romanică din piatră de câmp cu turn pe Lolland Bakke.",
                   "category": "religious",
                   "coords": [
                         11.345307,
@@ -9481,7 +9481,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Rødby Kirke",
-                  "text": "The main parish church of Rødby with a long history.",
+                  "text": "Medieval brick church on Lolland Bakke hill.",
                   "category": "religious",
                   "coords": [
                         11.386243,
@@ -9490,7 +9490,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Tirsted Kirke",
-                  "text": "A large medieval church known for its runic stone.",
+                  "text": "Romanesque fieldstone church with a tower on Lolland Bakke.",
                   "category": "religious",
                   "coords": [
                         11.345307,
@@ -9601,7 +9601,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klemensker Svømmebad",
-                  "text": "Ein öffentliches Schwimmbad in Klemensker auf Bornholm.",
+                  "text": "Öffentliches Schwimmbad in Klemensker auf Bornholm.",
                   "category": "recreational",
                   "coords": [
                         14.812205,
@@ -9648,7 +9648,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klemensker Svømmebad",
-                  "text": "Nyilvános úszómedence Bornholm szigetén, Klemenskerben.",
+                  "text": "Nyilvános uszoda Klemenskerben, Bornholmon.",
                   "category": "recreational",
                   "coords": [
                         14.812205,
@@ -9695,7 +9695,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klemensker Svømmebad",
-                  "text": "O piscină publică în Klemensker, pe insula Bornholm.",
+                  "text": "Piscină publică în Klemensker, pe insula Bornholm.",
                   "category": "recreational",
                   "coords": [
                         14.812205,
@@ -9742,7 +9742,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Klemensker Svømmebad",
-                  "text": "A public swimming pool in Klemensker on Bornholm.",
+                  "text": "Public swimming pool in Klemensker on Bornholm.",
                   "category": "recreational",
                   "coords": [
                         14.812205,
@@ -10213,7 +10213,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Nøbbet Kirke",
-                  "text": "Eine malerische Landkirche in der Nähe von Langø Bakke.",
+                  "text": "Die Nøbbet Kirke auf dem Hügel Lango Bakke in Jütland.",
                   "category": "religious",
                   "coords": [
                         11.272092,
@@ -10287,7 +10287,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Nøbbet Kirke",
-                  "text": "Festői vidéki templom Langø Bakke közelében.",
+                  "text": "A Nøbbet-templom a Lango Bakke dombon, Jyllandban.",
                   "category": "religious",
                   "coords": [
                         11.272092,
@@ -10361,7 +10361,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Nøbbet Kirke",
-                  "text": "O biserică rurală pitorească în apropiere de Langø Bakke.",
+                  "text": "Biserica Nøbbet pe dealul Lango Bakke din Iutlanda.",
                   "category": "religious",
                   "coords": [
                         11.272092,
@@ -10435,7 +10435,7 @@ export const denmarkReliefV2: POI[] = [
             },
             {
                   "name": "Nøbbet Kirke",
-                  "text": "A picturesque rural church located near Langø Bakke.",
+                  "text": "Nøbbet Church on Lango Bakke hill in Jutland.",
                   "category": "religious",
                   "coords": [
                         11.272092,

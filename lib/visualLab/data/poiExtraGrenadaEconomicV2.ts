@@ -318,7 +318,772 @@ export const grenadaEconomicV2: POI[] = [
     image: "/poi-images/grenada-westerhall-estate-economic-v2.webp",
   },
   {
-    id: "grenada-grand-anse-business-district-economic-v2", "sights": {"de": [{"name": "Portici Beach", "text": "Im Geschäftsviertel Grand Anse auf Grenada verborgen, bietet der Portici Beach ein gemütliches Stück maritimer Ruhe. Besucher treffen auf ein entspanntes, entschleunigtes Umfeld, das sich deutlich von den größeren Hauptstränden in der Nähe unterscheidet. Ein erfrischendes Bad oder das Ausruhen im warmen Sand machen den Aufenthalt perfekt. Wer sich den besten Platz zum Faulenzen sichern möchte, sollte frühzeitig eintreffen.", "category": "recreational", "coords": [-61.777656, 12.016604]}, {"name": "Morne Rouge Beach", "text": "Der Strand Morne Rouge im Geschäftsviertel Grand Anse gilt als einer der ruhigsten und schönsten an der Küste Grenadas. Das geschützte Wasser sorgt für eine wunderbar friedliche und familienfreundliche Atmosphäre, der man sich kaum entziehen kann. Waten, Schwimmen und das Entspannen im weichen Sand sind die schönsten Arten, diesen Ort zu genießen. Die Sonnenuntergänge sind hier meist atemberaubend, was einen Besuch am späten Tag besonders lohnenswert macht.", "category": "recreational", "coords": [-61.772915, 12.019792]}, {"name": "Grenada Artificial Reef Project", "text": "Das Grenada Artificial Reef Project ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.767876, 12.022587]}, {"name": "Pink Gin Beach", "text": "In der Nähe des Geschäftsviertels Grand Anse gelegen, verleiht Pink Gin Beach der Küste Grenadas einen Hauch von Eleganz. Die Gegend strahlt eine einladende, etwas lebhaftere Resort-Stimmung aus und bietet dennoch viel Platz zum Abschalten. Besucher können sich auf klares Wasser für ein entspanntes Schwimmen und ausreichend Platz zum Sonnenbaden freuen. Es ist ein fantastischer Ort, um einen sonnigen tropischen Vormittag zu verbringen.", "category": "recreational", "coords": [-61.791664, 12.008798]}, {"name": "Magazine Beach", "text": "Magazine Beach erstreckt sich anmutig innerhalb des Geschäftsviertels Grand Anse auf Grenada. Das Ambiente ist verhältnismäßig entspannt und bietet eine schöne Auszeit für alle, die sowohl Sand als auch Meer suchen. Hier finden Sie ausgezeichnete Bedingungen zum Faulenzen, für Strandspaziergänge oder ein Bad in den tropischen Gewässern. Sonnencreme und ein kühles Getränk sind äußerst empfehlenswerte Begleiter für diesen Ausflug.", "category": "recreational", "coords": [-61.78652, 12.010458]}, {"name": "Water Activity Beach", "text": "Gelegen im lebhaften Geschäftsviertel Grand Anse von Grenada, ist der Water Activity Beach ein Zentrum für maritimen Spaß. Wie der Name schon sagt, ist die Stimmung hier meist fröhlich und voller Besucher, die die dynamische Energie des Ozeans auskosten. Schwimmen, Strandspaziergänge und das Beobachten der Wellen gehören zu den besten Aktivitäten für den Tag. Wer mit leichtem Gepäck, aber viel Begeisterung anreist, wird diesen lebendigen Ort lieben.", "category": "recreational", "coords": [-61.782405, 12.012775]}, {"name": "Grooms Beach", "text": "Der Grooms Beach liegt günstig im Geschäftsviertel Grand Anse und bietet einen friedlichen Küstenabschnitt auf Grenada. Die Umgebung wirkt herrlich intim und zieht vor allem Paare und Ruhesuchende an. Die Gäste verbringen ihre Zeit meistens mit einem Bad im ruhigen Wasser oder beim gemütlichen Lesen in der Sonne. Es ist eine fantastische Wahl für einen sanften, stressfreien Vormittag.", "category": "recreational", "coords": [-61.780524, 12.014233]}, {"name": "L'Anse Aux Epines Beach", "text": "Der L'Anse Aux Epines Beach schmiegt sich als charmanter Sandbogen in das Geschäftsviertel Grand Anse auf Grenada. Er besticht durch eine entspannte, aber dezent gehobene lokale Atmosphäre, die sofort einlädt. Besucher schätzen das klare Wasser für ein erfrischendes Bad und den weichen Sand für ausgedehnte Sonnenstunden. Es lohnt sich, eine Kamera mitzubringen, um die wunderbaren Küstenansichten festzuhalten.", "category": "recreational", "coords": [-61.759526, 12.001952]}, {"name": "Pandy Beach", "text": "Der Pandy Beach befindet sich im Geschäftsviertel Grand Anse und präsentiert eine ruhige Ecke der weiten Küste Grenadas. Die Stimmung ist hier überwiegend friedlich und bietet eine wundervolle Alternative zu den belebteren Orten der Umgebung. Freuen Sie sich auf ruhiges Wasser und weichen Sand, die sich ideal für einen ungezwungenen Tag am Meer eignen. Wer am späten Vormittag anreist, hat ausreichend Zeit, um die Seele baumeln zu lassen.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Mount Hartman Nature Reserve and Dove Sanctuary", "text": "Das Mount Hartman Nature Reserve and Dove Sanctuary ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.744849, 12.011093]}, {"name": "Grand Anse Marine Protected Area", "text": "Die Grand Anse Marine Protected Area ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Royalton Beach", "text": "Der Royalton Beach, gelegen im Geschäftsviertel Grand Anse, versprüht einen Hauch von Insel-Luxus auf Grenada. Mit seinem raffinierten, aber einladenden Resort-Flair fällt es Gästen leicht, sich sofort wohlzufühlen. Sonnenbaden und sanftes Waten in den warmen Gewässern sind hier absolute Lieblingsaktivitäten. Eine Sonnenbrille und ein schicker Sonnenhut machen diesen Strandtag perfekt.", "category": "recreational", "coords": [-61.783905, 12.011808]}, {"name": "Diamond Club Beach", "text": "Im Geschäftsviertel Grand Anse gelegen, ist Diamond Club Beach ein attraktiver Fleck an Grenadas wunderschöner Küste. Der Ort verspricht eine entspannte und leicht exklusive Atmosphäre für alle, die an seinen Ufern spazieren. Besucher können hier wunderbar schwimmen, faulenzen und den weiten Blick über das Meer in sich aufsaugen. Für das schönste Erlebnis bietet sich ein Besuch am frühen Nachmittag an.", "category": "recreational", "coords": [-61.785063, 12.011052]}, {"name": "Grand Anse Beach", "text": "Der Grand Anse Beach ist das unangefochtene Highlight im Geschäftsviertel Grand Anse auf Grenada. Bekannt für sein lebendiges, aber entspanntes Flair, zieht der weite Sandstrand Einheimische und Reisende gleichermaßen an. Die Tage verbringt man hier am besten mit Schwimmen im ruhigen, klaren Wasser und langen Spaziergängen entlang der malerischen Bucht. Da es sich um ein beliebtes Wahrzeichen handelt, kann ein Besuch unter der Woche ruhigere Ecken offenbaren.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Camerhogne Park", "text": "Camerhogne Park ist ein Park in Geschäftsviertel Grand Anse.", "category": "park", "coords": [-61.759838, 12.023946]}, {"name": "Breezy Point", "text": "Breezy Point ist ein Aussichtspunkt in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.77359, 11.996481]}, {"name": "Kalinago", "text": "Kalinago ist ein Strandresort in Geschäftsviertel Grand Anse.", "category": "recreational", "coords": [-61.771846, 12.020502]}, {"name": "Tan Tan Beach", "text": "Tan Tan Beach bereichert das Geschäftsviertel Grand Anse in Grenada um seinen ganz eigenen, charmanten Charakter. Die Umgebung ist meist friedlich und bietet eine erholsame Küstenoase unweit des Zentrums. Spaziergänge an der Wasserkante und Sonnenbäder sind die bevorzugten Möglichkeiten, diesen Ort auszukosten. Mit einem guten Buch und ein paar lokalen Snacks wird der Aufenthalt zu einem perfekten Halbtagesausflug.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "Horizon Yacht Charters", "text": "Horizon Yacht Charters ist eine Attraktion in Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.768972, 12.00089]}, {"name": "Fuller Island Casa", "text": "Fuller Island Casa ist eine Attraktion in Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.767125, 12.007863]}, {"name": "Conch Graveyard", "text": "Conch Graveyard ist eine lokale Attraktion in Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.777063, 12.002554]}], "hu": [{"name": "Portici Beach", "text": "A grenadai Grand Anse üzleti negyedében eldugott Portici Beach egy hangulatos kis szeletet kínál a tengerparti nyugalomból. A látogatók egy nyugodt, lassabb tempójú környezettel találkozhatnak, amely különbözik a közeli nagyobb strandoktól. Egy frissítő csobbanás vagy a meleg homokban való pihenés tökéletessé teszi a látogatást. Érdemes korán érkezni, hogy a legjobb helyet foglalhassuk el a pihenéshez.", "category": "recreational", "coords": [-61.777656, 12.016604]}, {"name": "Morne Rouge Beach", "text": "A Grand Anse üzleti negyedben található Morne Rouge Beach a grenadai tengerpart egyik leghíresebb és legnyugodtabb szépsége. A védett vizek csodálatosan békés és családbarát légkört teremtenek, aminek nehéz ellenállni. A vízben való gázolás, az úszás és a puha homokon való pihenés kellemes módja a környék élvezetének. A naplemente látványa általában lélegzetelállító, így tökéletes egy késő délutáni látogatáshoz.", "category": "recreational", "coords": [-61.772915, 12.019792]}, {"name": "Grenada Artificial Reef Project", "text": "A Grenada Artificial Reef Project egy természetvédelmi terület Geschäftsviertel Grand Anse városában.", "category": "natural", "coords": [-61.767876, 12.022587]}, {"name": "Pink Gin Beach", "text": "A Grand Anse üzleti negyed közelében elhelyezkedő Pink Gin Beach egy csipetnyi eleganciát kölcsönöz Grenada partvidékének. A terület hívogató, kissé energikusabb üdülőhelyi hangulatot hordoz, miközben továbbra is bőséges teret kínál a kikapcsolódásra. A látogatók tiszta vízre számíthatnak az úszáshoz, és hatalmas térre a napozáshoz. Fantasztikus hely egy napsütéses trópusi délelőtt eltöltésére.", "category": "recreational", "coords": [-61.791664, 12.008798]}, {"name": "Magazine Beach", "text": "A Magazine Beach kecsesen húzódik a grenadai Grand Anse üzleti negyedben. A hangulat viszonylag nyugodt, szép menedéket nyújtva azoknak, akik homokra és tengerre egyaránt vágynak. Kiváló feltételeket talál a heverészéshez, az árapály közelében tett sétákhoz és a trópusi vizekben való megmártózáshoz. A naptej és egy hideg ital erősen ajánlott kísérői a látogatásnak.", "category": "recreational", "coords": [-61.78652, 12.010458]}, {"name": "Water Activity Beach", "text": "A grenadai Grand Anse üzleti negyed vibráló szívében fekvő Water Activity Beach a tengerparti szórakozás központja. Ahogy a neve is sugallja, a hangulat itt élénk, gyakran tele van látogatókkal, akik élvezik az óceán dinamikus energiáját. Az úszás, a tengerparti séták és a hullámok nézése csak néhány módja a nap eltöltésének. Ezen a lendületes helyszínen a könnyed pakolás, de a nagy lelkesedés a legjobb választás.", "category": "recreational", "coords": [-61.782405, 12.012775]}, {"name": "Grooms Beach", "text": "A Grand Anse üzleti negyedben kényelmesen elhelyezkedő Grooms Beach egy békés grenadai partvidéket kínál. A környezet elragadóan intim, többnyire párokat és a csendes menedéket keresőket vonzza. A vendégek jellemzően a nyugodt vízben való fürdőzéssel vagy a napon történő kényelmes olvasással töltik az idejüket. Pompás választás egy lágy, stresszmentes délelőtthöz.", "category": "recreational", "coords": [-61.780524, 12.014233]}, {"name": "L'Anse Aux Epines Beach", "text": "A grenadai Grand Anse üzleti negyedben megbúvó L'Anse Aux Epines Beach egy hangulatos homokos ívet alkot. Kellemes, mégis finoman elegáns helyi atmoszférával büszkélkedhet, amely igazán hívogató. A látogatók értékelni fogják a tiszta vizet az úszáshoz és a puha homokot a hosszú, kényelmes pihenéshez. Remek ötlet egy fényképezőgépet is magunkkal vinni, hogy megörökítsük a csodás parti kilátást.", "category": "recreational", "coords": [-61.759526, 12.001952]}, {"name": "Pandy Beach", "text": "A Grand Anse üzleti negyedben elhelyezkedő Pandy Beach Grenada hatalmas partjainak egy csendes szegletét tárja elénk. A légkör a derűs felé hajlik, így csodálatos alternatívát nyújt a környék forgalmasabb pontjaival szemben. Arra számíthat, hogy nyugodt vizeket és puha homokot élvezhet, amely éppen megfelelő egy kötetlen tengerparti naphoz. A késő délelőtti érkezés bőséges időt biztosít a teljes kikapcsolódásra.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Mount Hartman Nature Reserve and Dove Sanctuary", "text": "A Mount Hartman Nature Reserve and Dove Sanctuary egy természetvédelmi terület Geschäftsviertel Grand Anse városában.", "category": "natural", "coords": [-61.744849, 12.011093]}, {"name": "Grand Anse Marine Protected Area", "text": "A Grand Anse Marine Protected Area egy természetvédelmi terület Geschäftsviertel Grand Anse városában.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Royalton Beach", "text": "A Grand Anse üzleti negyedben található Royalton Beach a szigeti luxus egy kis érintését nyújtja Grenadában. Kifinomult, mégis barátságos üdülőhelyi hangulatának köszönhetően a vendégek azonnal otthon érezhetik magukat. A napozás és a lágy fürdőzés a meleg vizekben kihagyhatatlan tevékenységek errefelé. Ha bepakolja kedvenc napszemüvegét és egy elegáns kalapot, teljessé teheti az ideális strandolást.", "category": "recreational", "coords": [-61.783905, 12.011808]}, {"name": "Diamond Club Beach", "text": "A Grand Anse üzleti negyedben megbúvó Diamond Club Beach egy vonzó pont Grenada gyönyörű partvonalán. A helyszín nyugodt és kissé exkluzív légkört ígér azoknak, akik a partjain barangolnak. A látogatók kényelmesen úszhatnak, pihenhetnek és magukba szívhatják a tenger elsöprő látványát. A legszebb élmény érdekében érdemes kora délutánra időzíteni a látogatást.", "category": "recreational", "coords": [-61.785063, 12.011052]}, {"name": "Grand Anse Beach", "text": "A Grand Anse Beach a grenadai Grand Anse üzleti negyed meghatározó ékköve. A pezsgő, mégis fesztelen hangulatáról híres hatalmas homokos part a helyieket és az utazókat egyaránt vonzza. A nappalokat tökéletesen el lehet itt tölteni a nyugodt, tiszta vízben úszva és a festői öböl mentén sétálva. Mivel népszerű nevezetességről van szó, egy hétköznapi látogatás csendesebb pillanatokat nyújthat.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Camerhogne Park", "text": "A Camerhogne Park egy park Geschäftsviertel Grand Anse városában.", "category": "park", "coords": [-61.759838, 12.023946]}, {"name": "Breezy Point", "text": "A Breezy Point egy kilátó Geschäftsviertel Grand Anse városában.", "category": "natural", "coords": [-61.77359, 11.996481]}, {"name": "Kalinago", "text": "A Kalinago egy tengerparti üdülőhely Geschäftsviertel Grand Anse városában.", "category": "recreational", "coords": [-61.771846, 12.020502]}, {"name": "Tan Tan Beach", "text": "A Tan Tan Beach saját, egyedi bájával gazdagítja a grenadai Grand Anse üzleti negyedet. A környezet általában békés, így egy pihentető tengerparti oázist biztosít nem messze a negyed központjától. A vízparti séta és a napozás a legkedveltebb módja e látványosság felfedezésének. Egy jó könyv és némi helyi harapnivaló magunkkal vétele tökéletes félnapos kikapcsolódássá varázsolja.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "Horizon Yacht Charters", "text": "A Horizon Yacht Charters egy látványosság Geschäftsviertel Grand Anse területén.", "category": "landmark", "coords": [-61.768972, 12.00089]}, {"name": "Fuller Island Casa", "text": "A Fuller Island Casa egy látványosság Geschäftsviertel Grand Anse területén.", "category": "landmark", "coords": [-61.767125, 12.007863]}, {"name": "Conch Graveyard", "text": "A Conch Graveyard egy helyi látványosság Geschäftsviertel Grand Anse területén.", "category": "landmark", "coords": [-61.777063, 12.002554]}], "ro": [{"name": "Portici Beach", "text": "Ascunsă în districtul comercial Grand Anse din Grenada, Portici Beach oferă un petic confortabil de seninătate pe litoral. Vizitatorii întâlnesc un mediu relaxat, cu un ritm mai lent, diferit de plajele principale mai mari din apropiere. O baie răcoroasă sau odihna pe nisipul cald asigură o vizită perfectă. Se recomandă o sosire timpurie pentru a ocupa cel mai bun loc pentru relaxare.", "category": "recreational", "coords": [-61.777656, 12.016604]}, {"name": "Morne Rouge Beach", "text": "Situată în districtul comercial Grand Anse, plaja Morne Rouge este recunoscută pentru frumusețea și calmul său pe coasta din Grenada. Apele adăpostite creează o atmosferă minunat de senină și potrivită pentru familii, greu de refuzat. Băile la mal, înotul și relaxarea pe nisipul moale sunt modalități încântătoare de a te bucura de această zonă. Apusurile de soare sunt în general uluitoare, fiind un loc perfect pentru o vizită spre seară.", "category": "recreational", "coords": [-61.772915, 12.019792]}, {"name": "Grenada Artificial Reef Project", "text": "Grenada Artificial Reef Project este o rezervație naturală situată în Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.767876, 12.022587]}, {"name": "Pink Gin Beach", "text": "Poziționată lângă districtul comercial Grand Anse, Pink Gin Beach adaugă o notă de eleganță țărmului din Grenada. Zona poartă o vibrație de stațiune primitoare, puțin mai energică, oferind în același timp mult spațiu pentru relaxare. Vizitatorii se pot aștepta la ape limpezi pentru înot și la un spațiu amplu pentru a se bucura de soare. Este un loc fantastic pentru a petrece o dimineață tropicală însorită.", "category": "recreational", "coords": [-61.791664, 12.008798]}, {"name": "Magazine Beach", "text": "Magazine Beach se întinde cu grație în cadrul districtului comercial Grand Anse din Grenada. Atmosfera este relativ relaxată, oferind o evadare minunată pentru cei care caută atât nisip, cât și mare. Veți găsi condiții excelente pentru a vă odihni, a vă plimba pe țărm și a vă scufunda în apele tropicale. Crema de protecție solară și o băutură rece sunt parteneri foarte recomandați pentru vizită.", "category": "recreational", "coords": [-61.78652, 12.010458]}, {"name": "Water Activity Beach", "text": "Situată în vibrantul district comercial Grand Anse din Grenada, plaja Water Activity este un centru pentru distracția pe litoral. Așa cum sugerează și numele, atmosfera de aici este plină de viață, adesea plină de vizitatori care se bucură de energia dinamică a oceanului. Înotul, plimbările pe plajă și privirea valurilor sunt doar câteva moduri de a petrece ziua. Împachetarea sumară, dar aducerea entuziasmului, vă va prinde bine în această locație animată.", "category": "recreational", "coords": [-61.782405, 12.012775]}, {"name": "Grooms Beach", "text": "Situată convenabil în districtul comercial Grand Anse, plaja Grooms Beach oferă o coastă pașnică din Grenada. Mediul se simte încântător de intim, atrăgând în mare parte cupluri și persoane care caută un refugiu liniștit. Oaspeții își petrec, de obicei, timpul făcând baie în apele calme sau citind confortabil sub soare. Este o alegere splendidă pentru o dimineață senină, fără stres.", "category": "recreational", "coords": [-61.780524, 12.014233]}, {"name": "L'Anse Aux Epines Beach", "text": "Cuibărită în districtul comercial Grand Anse din Grenada, plaja L'Anse Aux Epines formează o curbă fermecătoare de nisip. Se mândrește cu o atmosferă locală relaxată, dar subtil elegantă, care este cu adevărat primitoare. Vizitatorii vor aprecia apele limpezi pentru înot și nisipul fin pentru ședințe lungi și confortabile de relaxare. Aducerea unui aparat foto este o idee excelentă pentru a surprinde priveliștile minunate de coastă.", "category": "recreational", "coords": [-61.759526, 12.001952]}, {"name": "Pandy Beach", "text": "Poziționată în districtul comercial Grand Anse, plaja Pandy Beach reprezintă un colț liniștit al țărmurilor întinse din Grenada. Atmosfera înclină spre liniște, oferind o alternativă minunată la locurile mai aglomerate din zonă. Așteptați-vă să vă bucurați de ape calme și de un nisip fin, care sunt tocmai potrivite pentru o zi lejeră pe malul mării. O sosire spre sfârșitul dimineții asigură suficient timp pentru o relaxare deplină.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Mount Hartman Nature Reserve and Dove Sanctuary", "text": "Mount Hartman Nature Reserve and Dove Sanctuary este o rezervație naturală situată în Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.744849, 12.011093]}, {"name": "Grand Anse Marine Protected Area", "text": "Grand Anse Marine Protected Area este o rezervație naturală situată în Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Royalton Beach", "text": "Royalton Beach, situată în districtul comercial Grand Anse, oferă o notă de lux insular în Grenada. Prin vibrația sa rafinată, dar primitoare de stațiune, este ușor pentru oaspeți să se simtă imediat ca acasă. Plaja și plimbările blânde prin apele calde sunt activități absolut obligatorii aici. Ochelarii de soare preferați și o pălărie elegantă completează ziua ideală de plajă.", "category": "recreational", "coords": [-61.783905, 12.011808]}, {"name": "Diamond Club Beach", "text": "Aflată în districtul comercial Grand Anse, plaja Diamond Club Beach este un loc atractiv pe frumoasa coastă a Grenadei. Locația promite o atmosferă relaxată și ușor exclusivistă pentru cei care rătăcesc pe țărmurile sale. Vizitatorii pot înota confortabil, se pot relaxa și pot admira priveliștea spectaculoasă a mării. Pentru cea mai bună experiență, planificarea unei vizite la începutul după-amiezii este minunată.", "category": "recreational", "coords": [-61.785063, 12.011052]}, {"name": "Grand Anse Beach", "text": "Plaja Grand Anse Beach este bijuteria definitorie a districtului comercial Grand Anse din Grenada. Renumită pentru ambianța sa vibrantă, dar relaxantă, ea atrage deopotrivă localnici și călători pe întinderea sa vastă de nisip. Zilele aici se petrec perfect înotând în apele calme și limpezi și plimbându-te de-a lungul golfului pitoresc. Având în vedere că este un punct de atracție popular, o vizită în timpul săptămânii ar putea oferi un colț mai liniștit.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Camerhogne Park", "text": "Camerhogne Park este un parc situat în Geschäftsviertel Grand Anse.", "category": "park", "coords": [-61.759838, 12.023946]}, {"name": "Breezy Point", "text": "Breezy Point este un punct de belvedere situat în Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.77359, 11.996481]}, {"name": "Kalinago", "text": "Kalinago este o stațiune pe plajă situată în Geschäftsviertel Grand Anse.", "category": "recreational", "coords": [-61.771846, 12.020502]}, {"name": "Tan Tan Beach", "text": "Tan Tan Beach adaugă propriul farmec unic districtului comercial Grand Anse din Grenada. Cadrul este în general liniștit, oferind o oază de coastă relaxantă, nu departe de centrul districtului. Plimbarea la marginea apei și plaja sunt modalitățile preferate de a îmbrățișa această priveliște. Aducerea unei cărți bune și a unor gustări locale o fac o evadare perfectă de jumătate de zi.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "Horizon Yacht Charters", "text": "Horizon Yacht Charters este o atracție situată în Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.768972, 12.00089]}, {"name": "Fuller Island Casa", "text": "Fuller Island Casa este o atracție situată în Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.767125, 12.007863]}, {"name": "Conch Graveyard", "text": "Conch Graveyard este o atracție locală din Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.777063, 12.002554]}], "en": [{"name": "Portici Beach", "text": "Tucked away in the Grand Anse Commercial District of Grenada, Portici Beach offers a cozy patch of seaside serenity. Visitors encounter a relaxed, slower-paced environment distinct from the larger main beaches nearby. Enjoying a refreshing dip or resting on the warm sand makes for a perfect visit. An early arrival is recommended to secure the best spot for lounging.", "category": "recreational", "coords": [-61.777656, 12.016604]}, {"name": "Morne Rouge Beach", "text": "Set in the Grand Anse Commercial District, Morne Rouge Beach is famously beautiful and calm on the Grenadian coast. The sheltered waters create a wonderfully serene and family-friendly atmosphere that is hard to resist. Wading, swimming, and relaxing on the soft sand are delightful ways to enjoy this area. Sunset views here are generally breathtaking, making it perfect for a late-day visit.", "category": "recreational", "coords": [-61.772915, 12.019792]}, {"name": "Grenada Artificial Reef Project", "text": "Grenada Artificial Reef Project is a nature reserve located in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.767876, 12.022587]}, {"name": "Pink Gin Beach", "text": "Positioned near the Grand Anse Commercial District, Pink Gin Beach adds a touch of elegance to Grenada's shoreline. The area carries an inviting, slightly more energetic resort vibe while still offering plenty of room to unwind. Visitors can look forward to clear waters for a swim and ample space to bask in the sun. It is a fantastic spot to spend a sunny tropical morning.", "category": "recreational", "coords": [-61.791664, 12.008798]}, {"name": "Magazine Beach", "text": "Magazine Beach stretches gracefully within the Grand Anse Commercial District in Grenada. The vibe is relatively laid-back, providing a lovely escape for those seeking both sand and sea. You will find excellent conditions for lounging, walking near the tide, and dipping into the tropical waters. Sunscreen and a cold drink are highly recommended companions for your visit.", "category": "recreational", "coords": [-61.78652, 12.010458]}, {"name": "Water Activity Beach", "text": "Set in the vibrant Grand Anse Commercial District of Grenada, Water Activity Beach is a hub for seaside fun. As the name suggests, the atmosphere here is lively, often filled with visitors enjoying the ocean's dynamic energy. Swimming, beach strolls, and watching the waves are just a few ways to spend the day. Packing lightly but bringing enthusiasm will serve you well at this spirited location.", "category": "recreational", "coords": [-61.782405, 12.012775]}, {"name": "Grooms Beach", "text": "Conveniently located in the Grand Anse Commercial District, Grooms Beach offers a peaceful Grenadian coastline. The environment feels delightfully intimate, mostly attracting couples and those looking for a quiet retreat. Guests typically spend their time bathing in the calm waters or reading comfortably under the sun. It is a splendid choice for a mellow, stress-free morning.", "category": "recreational", "coords": [-61.780524, 12.014233]}, {"name": "L'Anse Aux Epines Beach", "text": "Nestled in the Grand Anse Commercial District of Grenada, L'Anse Aux Epines Beach forms a charming sandy curve. It boasts a relaxed yet subtly upscale local atmosphere that is truly inviting. Visitors will appreciate the clear waters for a swim and the soft sands for long, comfortable lounging sessions. Bringing a camera is a great idea to capture the lovely coastal views.", "category": "recreational", "coords": [-61.759526, 12.001952]}, {"name": "Pandy Beach", "text": "Positioned within the Grand Anse Commercial District, Pandy Beach presents a quiet corner of Grenada's expansive shores. The atmosphere leans toward the serene, providing a wonderful alternative to the busier spots in the area. Expect to enjoy calm waters and soft sand that are just right for a casual day by the sea. A late morning arrival ensures plenty of time to fully unwind.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Mount Hartman Nature Reserve and Dove Sanctuary", "text": "Mount Hartman Nature Reserve and Dove Sanctuary is a nature reserve located in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.744849, 12.011093]}, {"name": "Grand Anse Marine Protected Area", "text": "Grand Anse Marine Protected Area is a nature reserve located in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Royalton Beach", "text": "Royalton Beach, located in the Grand Anse Commercial District, offers a touch of island luxury in Grenada. With its refined yet welcoming resort vibe, it is easy for guests to feel instantly at home. Sunbathing and gentle wading in the warm waters are absolute must-do activities here. Packing your favorite sunglasses and an elegant hat completes the ideal beach day.", "category": "recreational", "coords": [-61.783905, 12.011808]}, {"name": "Diamond Club Beach", "text": "Found in the Grand Anse Commercial District, Diamond Club Beach is an attractive spot on Grenada's beautiful coastline. The location promises a relaxed and slightly exclusive atmosphere for those who wander its shores. Visitors can comfortably swim, lounge, and soak up the sweeping views of the sea. For the finest experience, planning a visit during the early afternoon is wonderful.", "category": "recreational", "coords": [-61.785063, 12.011052]}, {"name": "Grand Anse Beach", "text": "Grand Anse Beach is the defining jewel of the Grand Anse Commercial District in Grenada. Renowned for its vibrant yet easygoing ambiance, it draws locals and travelers alike to its vast sandy stretch. Days here are perfectly spent swimming in the calm, clear waters and walking along the scenic bay. Since it is a popular landmark, visiting on a weekday might offer a quieter corner.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Camerhogne Park", "text": "Camerhogne Park is a park located in Geschäftsviertel Grand Anse.", "category": "park", "coords": [-61.759838, 12.023946]}, {"name": "Breezy Point", "text": "Breezy Point is a viewpoint located in Geschäftsviertel Grand Anse.", "category": "natural", "coords": [-61.77359, 11.996481]}, {"name": "Kalinago", "text": "Kalinago is a beach resort located in Geschäftsviertel Grand Anse.", "category": "recreational", "coords": [-61.771846, 12.020502]}, {"name": "Tan Tan Beach", "text": "Tan Tan Beach adds its own unique charm to the Grand Anse Commercial District of Grenada. The setting is generally peaceful, providing a relaxing coastal oasis not far from the district's center. Strolling along the water's edge and sunbathing are the favored ways to embrace this sight. Bringing a good book and some local snacks makes it a perfect half-day getaway.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "Horizon Yacht Charters", "text": "Horizon Yacht Charters is an attraction located in Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.768972, 12.00089]}, {"name": "Fuller Island Casa", "text": "Fuller Island Casa is an attraction situated in Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.767125, 12.007863]}, {"name": "Conch Graveyard", "text": "Conch Graveyard is a local attraction in Geschäftsviertel Grand Anse.", "category": "landmark", "coords": [-61.777063, 12.002554]}]},
+    id: "grenada-grand-anse-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portici Beach",
+                  "text": "Im Geschäftsviertel Grand Anse auf Grenada verborgen, bietet der Portici Beach ein gemütliches Stück maritimer Ruhe. Besucher treffen auf ein entspanntes, entschleunigtes Umfeld, das sich deutlich von den größeren Hauptstränden in der Nähe unterscheidet. Ein erfrischendes Bad oder das Ausruhen im warmen Sand machen den Aufenthalt perfekt. Wer sich den besten Platz zum Faulenzen sichern möchte, sollte frühzeitig eintreffen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "Der Strand Morne Rouge im Geschäftsviertel Grand Anse gilt als einer der ruhigsten und schönsten an der Küste Grenadas. Das geschützte Wasser sorgt für eine wunderbar friedliche und familienfreundliche Atmosphäre, der man sich kaum entziehen kann. Waten, Schwimmen und das Entspannen im weichen Sand sind die schönsten Arten, diesen Ort zu genießen. Die Sonnenuntergänge sind hier meist atemberaubend, was einen Besuch am späten Tag besonders lohnenswert macht.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "Das Grenada Artificial Reef Project ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "In der Nähe des Geschäftsviertels Grand Anse gelegen, verleiht Pink Gin Beach der Küste Grenadas einen Hauch von Eleganz. Die Gegend strahlt eine einladende, etwas lebhaftere Resort-Stimmung aus und bietet dennoch viel Platz zum Abschalten. Besucher können sich auf klares Wasser für ein entspanntes Schwimmen und ausreichend Platz zum Sonnenbaden freuen. Es ist ein fantastischer Ort, um einen sonnigen tropischen Vormittag zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "Magazine Beach erstreckt sich anmutig innerhalb des Geschäftsviertels Grand Anse auf Grenada. Das Ambiente ist verhältnismäßig entspannt und bietet eine schöne Auszeit für alle, die sowohl Sand als auch Meer suchen. Hier finden Sie ausgezeichnete Bedingungen zum Faulenzen, für Strandspaziergänge oder ein Bad in den tropischen Gewässern. Sonnencreme und ein kühles Getränk sind äußerst empfehlenswerte Begleiter für diesen Ausflug.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "Gelegen im lebhaften Geschäftsviertel Grand Anse von Grenada, ist der Water Activity Beach ein Zentrum für maritimen Spaß. Wie der Name schon sagt, ist die Stimmung hier meist fröhlich und voller Besucher, die die dynamische Energie des Ozeans auskosten. Schwimmen, Strandspaziergänge und das Beobachten der Wellen gehören zu den besten Aktivitäten für den Tag. Wer mit leichtem Gepäck, aber viel Begeisterung anreist, wird diesen lebendigen Ort lieben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "Der Grooms Beach liegt günstig im Geschäftsviertel Grand Anse und bietet einen friedlichen Küstenabschnitt auf Grenada. Die Umgebung wirkt herrlich intim und zieht vor allem Paare und Ruhesuchende an. Die Gäste verbringen ihre Zeit meistens mit einem Bad im ruhigen Wasser oder beim gemütlichen Lesen in der Sonne. Es ist eine fantastische Wahl für einen sanften, stressfreien Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "Der L'Anse Aux Epines Beach schmiegt sich als charmanter Sandbogen in das Geschäftsviertel Grand Anse auf Grenada. Er besticht durch eine entspannte, aber dezent gehobene lokale Atmosphäre, die sofort einlädt. Besucher schätzen das klare Wasser für ein erfrischendes Bad und den weichen Sand für ausgedehnte Sonnenstunden. Es lohnt sich, eine Kamera mitzubringen, um die wunderbaren Küstenansichten festzuhalten.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Der Pandy Beach befindet sich im Geschäftsviertel Grand Anse und präsentiert eine ruhige Ecke der weiten Küste Grenadas. Die Stimmung ist hier überwiegend friedlich und bietet eine wundervolle Alternative zu den belebteren Orten der Umgebung. Freuen Sie sich auf ruhiges Wasser und weichen Sand, die sich ideal für einen ungezwungenen Tag am Meer eignen. Wer am späten Vormittag anreist, hat ausreichend Zeit, um die Seele baumeln zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "Das Mount Hartman Nature Reserve and Dove Sanctuary ist ein geschützter Wald auf dem Mount Hartman, Heimat der gefährdeten Grenada-Taube.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Geschütztes Korallenriff und Meeresreservat am Grand Anse Strand.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "Der Royalton Beach, gelegen im Geschäftsviertel Grand Anse, versprüht einen Hauch von Insel-Luxus auf Grenada. Mit seinem raffinierten, aber einladenden Resort-Flair fällt es Gästen leicht, sich sofort wohlzufühlen. Sonnenbaden und sanftes Waten in den warmen Gewässern sind hier absolute Lieblingsaktivitäten. Eine Sonnenbrille und ein schicker Sonnenhut machen diesen Strandtag perfekt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "Im Geschäftsviertel Grand Anse gelegen, ist Diamond Club Beach ein attraktiver Fleck an Grenadas wunderschöner Küste. Der Ort verspricht eine entspannte und leicht exklusive Atmosphäre für alle, die an seinen Ufern spazieren. Besucher können hier wunderbar schwimmen, faulenzen und den weiten Blick über das Meer in sich aufsaugen. Für das schönste Erlebnis bietet sich ein Besuch am frühen Nachmittag an.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Der Grand Anse Beach ist das unangefochtene Highlight im Geschäftsviertel Grand Anse auf Grenada. Bekannt für sein lebendiges, aber entspanntes Flair, zieht der weite Sandstrand Einheimische und Reisende gleichermaßen an. Die Tage verbringt man hier am besten mit Schwimmen im ruhigen, klaren Wasser und langen Spaziergängen entlang der malerischen Bucht. Da es sich um ein beliebtes Wahrzeichen handelt, kann ein Besuch unter der Woche ruhigere Ecken offenbaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Öffentlicher Park mit Panoramablick auf die Grand Anse Bucht.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Felsige Landzunge am südlichen Ende des Grand Anse Strandes.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "Kalinago ist ein Strandresort in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach bereichert das Geschäftsviertel Grand Anse in Grenada um seinen ganz eigenen, charmanten Charakter. Die Umgebung ist meist friedlich und bietet eine erholsame Küstenoase unweit des Zentrums. Spaziergänge an der Wasserkante und Sonnenbäder sind die bevorzugten Möglichkeiten, diesen Ort auszukosten. Mit einem guten Buch und ein paar lokalen Snacks wird der Aufenthalt zu einem perfekten Halbtagesausflug.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Yachtcharter für Segeltörns entlang der Küste Grenadas.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Private Strandvilla an der Grand Anse Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Ort, an dem weggeworfene Conch-Schalen sich anhäufen, eine lokale Kuriosität.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portici Beach",
+                  "text": "A grenadai Grand Anse üzleti negyedében eldugott Portici Beach egy hangulatos kis szeletet kínál a tengerparti nyugalomból. A látogatók egy nyugodt, lassabb tempójú környezettel találkozhatnak, amely különbözik a közeli nagyobb strandoktól. Egy frissítő csobbanás vagy a meleg homokban való pihenés tökéletessé teszi a látogatást. Érdemes korán érkezni, hogy a legjobb helyet foglalhassuk el a pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "A Grand Anse üzleti negyedben található Morne Rouge Beach a grenadai tengerpart egyik leghíresebb és legnyugodtabb szépsége. A védett vizek csodálatosan békés és családbarát légkört teremtenek, aminek nehéz ellenállni. A vízben való gázolás, az úszás és a puha homokon való pihenés kellemes módja a környék élvezetének. A naplemente látványa általában lélegzetelállító, így tökéletes egy késő délutáni látogatáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "A Grenada Artificial Reef Project egy természetvédelmi terület Geschäftsviertel Grand Anse városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "A Grand Anse üzleti negyed közelében elhelyezkedő Pink Gin Beach egy csipetnyi eleganciát kölcsönöz Grenada partvidékének. A terület hívogató, kissé energikusabb üdülőhelyi hangulatot hordoz, miközben továbbra is bőséges teret kínál a kikapcsolódásra. A látogatók tiszta vízre számíthatnak az úszáshoz, és hatalmas térre a napozáshoz. Fantasztikus hely egy napsütéses trópusi délelőtt eltöltésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "A Magazine Beach kecsesen húzódik a grenadai Grand Anse üzleti negyedben. A hangulat viszonylag nyugodt, szép menedéket nyújtva azoknak, akik homokra és tengerre egyaránt vágynak. Kiváló feltételeket talál a heverészéshez, az árapály közelében tett sétákhoz és a trópusi vizekben való megmártózáshoz. A naptej és egy hideg ital erősen ajánlott kísérői a látogatásnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "A grenadai Grand Anse üzleti negyed vibráló szívében fekvő Water Activity Beach a tengerparti szórakozás központja. Ahogy a neve is sugallja, a hangulat itt élénk, gyakran tele van látogatókkal, akik élvezik az óceán dinamikus energiáját. Az úszás, a tengerparti séták és a hullámok nézése csak néhány módja a nap eltöltésének. Ezen a lendületes helyszínen a könnyed pakolás, de a nagy lelkesedés a legjobb választás.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "A Grand Anse üzleti negyedben kényelmesen elhelyezkedő Grooms Beach egy békés grenadai partvidéket kínál. A környezet elragadóan intim, többnyire párokat és a csendes menedéket keresőket vonzza. A vendégek jellemzően a nyugodt vízben való fürdőzéssel vagy a napon történő kényelmes olvasással töltik az idejüket. Pompás választás egy lágy, stresszmentes délelőtthöz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "A grenadai Grand Anse üzleti negyedben megbúvó L'Anse Aux Epines Beach egy hangulatos homokos ívet alkot. Kellemes, mégis finoman elegáns helyi atmoszférával büszkélkedhet, amely igazán hívogató. A látogatók értékelni fogják a tiszta vizet az úszáshoz és a puha homokot a hosszú, kényelmes pihenéshez. Remek ötlet egy fényképezőgépet is magunkkal vinni, hogy megörökítsük a csodás parti kilátást.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "A Grand Anse üzleti negyedben elhelyezkedő Pandy Beach Grenada hatalmas partjainak egy csendes szegletét tárja elénk. A légkör a derűs felé hajlik, így csodálatos alternatívát nyújt a környék forgalmasabb pontjaival szemben. Arra számíthat, hogy nyugodt vizeket és puha homokot élvezhet, amely éppen megfelelő egy kötetlen tengerparti naphoz. A késő délelőtti érkezés bőséges időt biztosít a teljes kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "A Mount Hartman Természetvédelmi Terület és Galambrezervátum egy védett erdő a Mount Hartmanon, a veszélyeztetett grenadai galamb otthona.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Védett korallzátony és tengeri rezervátum a Grand Anse strand mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "A Grand Anse üzleti negyedben található Royalton Beach a szigeti luxus egy kis érintését nyújtja Grenadában. Kifinomult, mégis barátságos üdülőhelyi hangulatának köszönhetően a vendégek azonnal otthon érezhetik magukat. A napozás és a lágy fürdőzés a meleg vizekben kihagyhatatlan tevékenységek errefelé. Ha bepakolja kedvenc napszemüvegét és egy elegáns kalapot, teljessé teheti az ideális strandolást.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "A Grand Anse üzleti negyedben megbúvó Diamond Club Beach egy vonzó pont Grenada gyönyörű partvonalán. A helyszín nyugodt és kissé exkluzív légkört ígér azoknak, akik a partjain barangolnak. A látogatók kényelmesen úszhatnak, pihenhetnek és magukba szívhatják a tenger elsöprő látványát. A legszebb élmény érdekében érdemes kora délutánra időzíteni a látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "A Grand Anse Beach a grenadai Grand Anse üzleti negyed meghatározó ékköve. A pezsgő, mégis fesztelen hangulatáról híres hatalmas homokos part a helyieket és az utazókat egyaránt vonzza. A nappalokat tökéletesen el lehet itt tölteni a nyugodt, tiszta vízben úszva és a festői öböl mentén sétálva. Mivel népszerű nevezetességről van szó, egy hétköznapi látogatás csendesebb pillanatokat nyújthat.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Közkert panorámás kilátással a Grand Anse-öbölre.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Sziklás földnyelv a Grand Anse strand déli végén.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "A Kalinago egy tengerparti üdülőhely Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "A Tan Tan Beach saját, egyedi bájával gazdagítja a grenadai Grand Anse üzleti negyedet. A környezet általában békés, így egy pihentető tengerparti oázist biztosít nem messze a negyed központjától. A vízparti séta és a napozás a legkedveltebb módja e látványosság felfedezésének. Egy jó könyv és némi helyi harapnivaló magunkkal vétele tökéletes félnapos kikapcsolódássá varázsolja.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Jachtbérlet vitorlásutakhoz Grenada partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Privát tengerparti villa a Grand Anse-öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Hely, ahol eldobott kagylóhéjak halmozódnak fel, helyi különlegesség.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portici Beach",
+                  "text": "Ascunsă în districtul comercial Grand Anse din Grenada, Portici Beach oferă un petic confortabil de seninătate pe litoral. Vizitatorii întâlnesc un mediu relaxat, cu un ritm mai lent, diferit de plajele principale mai mari din apropiere. O baie răcoroasă sau odihna pe nisipul cald asigură o vizită perfectă. Se recomandă o sosire timpurie pentru a ocupa cel mai bun loc pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "Situată în districtul comercial Grand Anse, plaja Morne Rouge este recunoscută pentru frumusețea și calmul său pe coasta din Grenada. Apele adăpostite creează o atmosferă minunat de senină și potrivită pentru familii, greu de refuzat. Băile la mal, înotul și relaxarea pe nisipul moale sunt modalități încântătoare de a te bucura de această zonă. Apusurile de soare sunt în general uluitoare, fiind un loc perfect pentru o vizită spre seară.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "Grenada Artificial Reef Project este o rezervație naturală situată în Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "Poziționată lângă districtul comercial Grand Anse, Pink Gin Beach adaugă o notă de eleganță țărmului din Grenada. Zona poartă o vibrație de stațiune primitoare, puțin mai energică, oferind în același timp mult spațiu pentru relaxare. Vizitatorii se pot aștepta la ape limpezi pentru înot și la un spațiu amplu pentru a se bucura de soare. Este un loc fantastic pentru a petrece o dimineață tropicală însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "Magazine Beach se întinde cu grație în cadrul districtului comercial Grand Anse din Grenada. Atmosfera este relativ relaxată, oferind o evadare minunată pentru cei care caută atât nisip, cât și mare. Veți găsi condiții excelente pentru a vă odihni, a vă plimba pe țărm și a vă scufunda în apele tropicale. Crema de protecție solară și o băutură rece sunt parteneri foarte recomandați pentru vizită.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "Situată în vibrantul district comercial Grand Anse din Grenada, plaja Water Activity este un centru pentru distracția pe litoral. Așa cum sugerează și numele, atmosfera de aici este plină de viață, adesea plină de vizitatori care se bucură de energia dinamică a oceanului. Înotul, plimbările pe plajă și privirea valurilor sunt doar câteva moduri de a petrece ziua. Împachetarea sumară, dar aducerea entuziasmului, vă va prinde bine în această locație animată.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "Situată convenabil în districtul comercial Grand Anse, plaja Grooms Beach oferă o coastă pașnică din Grenada. Mediul se simte încântător de intim, atrăgând în mare parte cupluri și persoane care caută un refugiu liniștit. Oaspeții își petrec, de obicei, timpul făcând baie în apele calme sau citind confortabil sub soare. Este o alegere splendidă pentru o dimineață senină, fără stres.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "Cuibărită în districtul comercial Grand Anse din Grenada, plaja L'Anse Aux Epines formează o curbă fermecătoare de nisip. Se mândrește cu o atmosferă locală relaxată, dar subtil elegantă, care este cu adevărat primitoare. Vizitatorii vor aprecia apele limpezi pentru înot și nisipul fin pentru ședințe lungi și confortabile de relaxare. Aducerea unui aparat foto este o idee excelentă pentru a surprinde priveliștile minunate de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Poziționată în districtul comercial Grand Anse, plaja Pandy Beach reprezintă un colț liniștit al țărmurilor întinse din Grenada. Atmosfera înclină spre liniște, oferind o alternativă minunată la locurile mai aglomerate din zonă. Așteptați-vă să vă bucurați de ape calme și de un nisip fin, care sunt tocmai potrivite pentru o zi lejeră pe malul mării. O sosire spre sfârșitul dimineții asigură suficient timp pentru o relaxare deplină.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "Rezervația Naturală Mount Hartman și Sanctuarul Porumbeilor este o pădure protejată pe Muntele Hartman, habitat al porumbelului endemic Grenada, specie pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Rezervă marină protejată cu recif de corali de-a lungul plajei Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "Royalton Beach, situată în districtul comercial Grand Anse, oferă o notă de lux insular în Grenada. Prin vibrația sa rafinată, dar primitoare de stațiune, este ușor pentru oaspeți să se simtă imediat ca acasă. Plaja și plimbările blânde prin apele calde sunt activități absolut obligatorii aici. Ochelarii de soare preferați și o pălărie elegantă completează ziua ideală de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "Aflată în districtul comercial Grand Anse, plaja Diamond Club Beach este un loc atractiv pe frumoasa coastă a Grenadei. Locația promite o atmosferă relaxată și ușor exclusivistă pentru cei care rătăcesc pe țărmurile sale. Vizitatorii pot înota confortabil, se pot relaxa și pot admira priveliștea spectaculoasă a mării. Pentru cea mai bună experiență, planificarea unei vizite la începutul după-amiezii este minunată.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Plaja Grand Anse Beach este bijuteria definitorie a districtului comercial Grand Anse din Grenada. Renumită pentru ambianța sa vibrantă, dar relaxantă, ea atrage deopotrivă localnici și călători pe întinderea sa vastă de nisip. Zilele aici se petrec perfect înotând în apele calme și limpezi și plimbându-te de-a lungul golfului pitoresc. Având în vedere că este un punct de atracție popular, o vizită în timpul săptămânii ar putea oferi un colț mai liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Parc public cu vedere panoramică asupra golfului Grand Anse.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Promontoriu stâncos la capătul sudic al plajei Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "Kalinago este o stațiune pe plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach adaugă propriul farmec unic districtului comercial Grand Anse din Grenada. Cadrul este în general liniștit, oferind o oază de coastă relaxantă, nu departe de centrul districtului. Plimbarea la marginea apei și plaja sunt modalitățile preferate de a îmbrățișa această priveliște. Aducerea unei cărți bune și a unor gustări locale o fac o evadare perfectă de jumătate de zi.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Închirieri iahturi pentru croaziere cu vele de-a lungul coastei Grenadei.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Vilă privată pe malul golfului Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Loc unde se acumulează cochilii de scoici aruncate, o curiozitate locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portici Beach",
+                  "text": "Tucked away in the Grand Anse Commercial District of Grenada, Portici Beach offers a cozy patch of seaside serenity. Visitors encounter a relaxed, slower-paced environment distinct from the larger main beaches nearby. Enjoying a refreshing dip or resting on the warm sand makes for a perfect visit. An early arrival is recommended to secure the best spot for lounging.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "Set in the Grand Anse Commercial District, Morne Rouge Beach is famously beautiful and calm on the Grenadian coast. The sheltered waters create a wonderfully serene and family-friendly atmosphere that is hard to resist. Wading, swimming, and relaxing on the soft sand are delightful ways to enjoy this area. Sunset views here are generally breathtaking, making it perfect for a late-day visit.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "Grenada Artificial Reef Project is a nature reserve located in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "Positioned near the Grand Anse Commercial District, Pink Gin Beach adds a touch of elegance to Grenada's shoreline. The area carries an inviting, slightly more energetic resort vibe while still offering plenty of room to unwind. Visitors can look forward to clear waters for a swim and ample space to bask in the sun. It is a fantastic spot to spend a sunny tropical morning.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "Magazine Beach stretches gracefully within the Grand Anse Commercial District in Grenada. The vibe is relatively laid-back, providing a lovely escape for those seeking both sand and sea. You will find excellent conditions for lounging, walking near the tide, and dipping into the tropical waters. Sunscreen and a cold drink are highly recommended companions for your visit.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "Set in the vibrant Grand Anse Commercial District of Grenada, Water Activity Beach is a hub for seaside fun. As the name suggests, the atmosphere here is lively, often filled with visitors enjoying the ocean's dynamic energy. Swimming, beach strolls, and watching the waves are just a few ways to spend the day. Packing lightly but bringing enthusiasm will serve you well at this spirited location.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "Conveniently located in the Grand Anse Commercial District, Grooms Beach offers a peaceful Grenadian coastline. The environment feels delightfully intimate, mostly attracting couples and those looking for a quiet retreat. Guests typically spend their time bathing in the calm waters or reading comfortably under the sun. It is a splendid choice for a mellow, stress-free morning.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "Nestled in the Grand Anse Commercial District of Grenada, L'Anse Aux Epines Beach forms a charming sandy curve. It boasts a relaxed yet subtly upscale local atmosphere that is truly inviting. Visitors will appreciate the clear waters for a swim and the soft sands for long, comfortable lounging sessions. Bringing a camera is a great idea to capture the lovely coastal views.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Positioned within the Grand Anse Commercial District, Pandy Beach presents a quiet corner of Grenada's expansive shores. The atmosphere leans toward the serene, providing a wonderful alternative to the busier spots in the area. Expect to enjoy calm waters and soft sand that are just right for a casual day by the sea. A late morning arrival ensures plenty of time to fully unwind.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "Mount Hartman Nature Reserve and Dove Sanctuary is a protected forest on Mount Hartman, home to the critically endangered Grenada dove.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Protected coral reef and marine reserve along Grand Anse Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "Royalton Beach, located in the Grand Anse Commercial District, offers a touch of island luxury in Grenada. With its refined yet welcoming resort vibe, it is easy for guests to feel instantly at home. Sunbathing and gentle wading in the warm waters are absolute must-do activities here. Packing your favorite sunglasses and an elegant hat completes the ideal beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "Found in the Grand Anse Commercial District, Diamond Club Beach is an attractive spot on Grenada's beautiful coastline. The location promises a relaxed and slightly exclusive atmosphere for those who wander its shores. Visitors can comfortably swim, lounge, and soak up the sweeping views of the sea. For the finest experience, planning a visit during the early afternoon is wonderful.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Grand Anse Beach is the defining jewel of the Grand Anse Commercial District in Grenada. Renowned for its vibrant yet easygoing ambiance, it draws locals and travelers alike to its vast sandy stretch. Days here are perfectly spent swimming in the calm, clear waters and walking along the scenic bay. Since it is a popular landmark, visiting on a weekday might offer a quieter corner.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Public park with panoramic views of Grand Anse Bay.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Rocky headland at the southern tip of Grand Anse Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "Kalinago is a beach resort located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach adds its own unique charm to the Grand Anse Commercial District of Grenada. The setting is generally peaceful, providing a relaxing coastal oasis not far from the district's center. Strolling along the water's edge and sunbathing are the favored ways to embrace this sight. Bringing a good book and some local snacks makes it a perfect half-day getaway.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Yacht charter service for sailing trips along the Grenada coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Private beachfront villa on Grand Anse Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Pile of discarded conch shells, a local curiosity.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "city",
     name: { de: "Geschäftsviertel Grand Anse", hu: "Grand Anse üzleti negyed", ro: "Districtul comercial Grand Anse", en: "Grand Anse Commercial District" },

@@ -448,7 +448,7 @@ export const tuvaluCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teone Church",
-                  "text": "Die Teone Church ist eine Touristenattraktion in Fakaifou.",
+                  "text": "Teone Church in Fakaifou (Tuvalu) ist eine christliche Kirche auf dem Atoll Funafuti.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -457,7 +457,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "Die Ahmadiyya Tuvalu Mosque ist eine Kultstätte in Fakaifou.",
+                  "text": "Ahmadiyya Tuvalu Mosque in Fakaifou ist die Moschee der Ahmadiyya-Gemeinde in Tuvalu.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -468,7 +468,7 @@ export const tuvaluCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teone Church",
-                  "text": "A Teone Church egy turisztikai látványosság Fakaifou városában.",
+                  "text": "A Teone Church Fakaifouban (Tuvalu) egy keresztény templom a Funafuti-atollon.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -477,7 +477,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "Az Ahmadiyya Tuvalu Mosque egy istentiszteleti épület Fakaifouban.",
+                  "text": "Az Ahmadiyya Tuvalu Mecset Fakaifouban az Ahmadiyya közösség mecsete Tuvaluban.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -488,7 +488,7 @@ export const tuvaluCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teone Church",
-                  "text": "Teone Church este o atracție turistică din Fakaifou.",
+                  "text": "Teone Church din Fakaifou (Tuvalu) este o biserică creștină pe atolul Funafuti.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -497,7 +497,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "Ahmadiyya Tuvalu Mosque este un lăcaș de cult situat în Fakaifou.",
+                  "text": "Ahmadiyya Tuvalu Mosque din Fakaifou este moscheea comunității Ahmadiyya din Tuvalu.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -508,7 +508,7 @@ export const tuvaluCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teone Church",
-                  "text": "Teone Church is a tourist attraction located in Fakaifou.",
+                  "text": "Teone Church in Fakaifou (Tuvalu) is a Christian church on Funafuti atoll.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -517,7 +517,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "Ahmadiyya Tuvalu Mosque is a place of worship situated in Fakaifou.",
+                  "text": "Ahmadiyya Tuvalu Mosque in Fakaifou is the mosque of the Ahmadiyya community in Tuvalu.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -574,7 +574,7 @@ export const tuvaluCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teone Church",
-                  "text": "Eine lokale Kirche und Sehenswürdigkeit in Senala.",
+                  "text": "Teone Church in Senala (Tuvalu) ist eine christliche Kirche auf dem Atoll Funafuti.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -583,7 +583,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "Eine Moschee der Ahmadiyya-Gemeinschaft in Senala.",
+                  "text": "Ahmadiyya Tuvalu Mosque in Senala ist die Moschee der Ahmadiyya-Gemeinde in Tuvalu.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -594,7 +594,7 @@ export const tuvaluCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teone Church",
-                  "text": "Helyi templom és látnivaló Senala településen.",
+                  "text": "A Teone Church Senalában (Tuvalu) egy keresztény templom a Funafuti-atollon.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -603,7 +603,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "Az ahmadijja közösség mecsetje Senalában.",
+                  "text": "Az Ahmadiyya Tuvalu Mecset Senalában az Ahmadiyya közösség mecsete Tuvaluban.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -614,7 +614,7 @@ export const tuvaluCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teone Church",
-                  "text": "O biserică locală și atracție în Senala.",
+                  "text": "Teone Church din Senala (Tuvalu) este o biserică creștină pe atolul Funafuti.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -623,7 +623,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "O moschee a comunității Ahmadiyya din Senala.",
+                  "text": "Ahmadiyya Tuvalu Mosque din Senala este moscheea comunității Ahmadiyya din Tuvalu.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -634,7 +634,7 @@ export const tuvaluCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teone Church",
-                  "text": "A local church and attraction in Senala.",
+                  "text": "Teone Church in Senala (Tuvalu) is a Christian church on Funafuti atoll.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -643,7 +643,7 @@ export const tuvaluCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmadiyya Tuvalu Mosque",
-                  "text": "A mosque of the Ahmadiyya community in Senala.",
+                  "text": "Ahmadiyya Tuvalu Mosque in Senala is the mosque of the Ahmadiyya community in Tuvalu.",
                   "category": "religious",
                   "coords": [
                         179.197278,
@@ -745,7 +745,7 @@ export const tuvaluCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teone Church",
-                  "text": "Die Teone Church ist eine Sehenswürdigkeit in Lofeagai.",
+                  "text": "Teone Church in Lofeagai (Tuvalu) ist eine christliche Kirche auf dem Atoll Funafuti.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -756,7 +756,7 @@ export const tuvaluCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teone Church",
-                  "text": "A Teone Church egy látványosság Lofeagaiban.",
+                  "text": "A Teone Church Lofeagaiban (Tuvalu) egy keresztény templom a Funafuti-atollon.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -767,7 +767,7 @@ export const tuvaluCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teone Church",
-                  "text": "Teone Church este o atracție situată în Lofeagai.",
+                  "text": "Teone Church din Lofeagai (Tuvalu) este o biserică creștină pe atolul Funafuti.",
                   "category": "landmark",
                   "coords": [
                         179.197025,
@@ -778,7 +778,7 @@ export const tuvaluCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teone Church",
-                  "text": "Teone Church is an attraction situated in Lofeagai.",
+                  "text": "Teone Church in Lofeagai (Tuvalu) is a Christian church on Funafuti atoll.",
                   "category": "landmark",
                   "coords": [
                         179.197025,

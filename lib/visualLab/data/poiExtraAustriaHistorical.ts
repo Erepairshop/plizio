@@ -26,7 +26,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Luberegg",
-                  "text": "Schloss Luberegg ist ein bedeutendes Barockschloss in der Nähe der Schallaburg.",
+                  "text": "Schloss Luberegg bei Schallaburg, denkmalgeschütztes Schloss.",
                   "category": "castle",
                   "coords": [
                         15.314048,
@@ -35,7 +35,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Rothenhof",
-                  "text": "Ein historisches Schloss in der Region der Schallaburg.",
+                  "text": "Schloss Rothenhof ist ein Schloss in der Nähe von Schloss Schallaburg in Niederösterreich.",
                   "category": "castle",
                   "coords": [
                         15.33141,
@@ -53,7 +53,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schallaburg",
-                  "text": "Schallaburg ist ein bekanntes Renaissanceschloss und Ausstellungszentrum.",
+                  "text": "Schloss Schallaburg ist ein Renaissance-Schloss, das ein Museum für Kulturgeschichte beherbergt.",
                   "category": "museum",
                   "coords": [
                         15.35555,
@@ -100,7 +100,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Luberegg",
-                  "text": "Schloss Luberegg egy jelentős barokk kastély a Schallaburg közelében.",
+                  "text": "Luberegg kastélya Schallaburg mellett, műemlék kastély.",
                   "category": "castle",
                   "coords": [
                         15.314048,
@@ -109,7 +109,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Rothenhof",
-                  "text": "Történelmi kastély a Schallaburg régiójában.",
+                  "text": "A Rothenhof-kastély egy kastély a Schallaburg közelében, Alsó-Ausztriában.",
                   "category": "castle",
                   "coords": [
                         15.33141,
@@ -127,7 +127,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schallaburg",
-                  "text": "A Schallaburg egy híres reneszánsz kastély és kiállítási központ.",
+                  "text": "A Schallaburg-kastély egy reneszánsz kastély, amely kultúrtörténeti múzeumnak ad otthont.",
                   "category": "museum",
                   "coords": [
                         15.35555,
@@ -174,7 +174,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Luberegg",
-                  "text": "Schloss Luberegg este un castel baroc important situat lângă Castelul Schallaburg.",
+                  "text": "Castelul Luberegg lângă Schallaburg, castel monument istoric.",
                   "category": "castle",
                   "coords": [
                         15.314048,
@@ -183,7 +183,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Rothenhof",
-                  "text": "Un castel istoric în regiunea castelului Schallaburg.",
+                  "text": "Castelul Rothenhof este un castel lângă Castelul Schallaburg din Austria Inferioară.",
                   "category": "castle",
                   "coords": [
                         15.33141,
@@ -201,7 +201,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schallaburg",
-                  "text": "Schallaburg este un renumit castel renascentist și centru expozițional.",
+                  "text": "Castelul Schallaburg este un castel renascentist care găzduiește un muzeu de istorie culturală.",
                   "category": "museum",
                   "coords": [
                         15.35555,
@@ -248,7 +248,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Luberegg",
-                  "text": "Schloss Luberegg is a notable Baroque castle located near Schallaburg Castle.",
+                  "text": "Luberegg Castle near Schallaburg, a listed castle.",
                   "category": "castle",
                   "coords": [
                         15.314048,
@@ -257,7 +257,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schloss Rothenhof",
-                  "text": "A historical castle in the region of Schallaburg Castle.",
+                  "text": "Schloss Rothenhof is a castle near Schallaburg Castle in Lower Austria.",
                   "category": "castle",
                   "coords": [
                         15.33141,
@@ -275,7 +275,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Schallaburg",
-                  "text": "Schallaburg is a famous Renaissance castle and exhibition center.",
+                  "text": "Schallaburg Castle is a Renaissance castle housing a museum of cultural history.",
                   "category": "museum",
                   "coords": [
                         15.35555,
@@ -392,7 +392,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hohlensteinhöhle",
-                  "text": "Ein Höhleneingang in der Region Mariazell.",
+                  "text": "Die Hohlensteinhöhle ist eine Karsthöhle nahe der Basilika von Mariazell.",
                   "category": "landmark",
                   "coords": [
                         15.343245,
@@ -448,7 +448,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hohlensteinhöhle",
-                  "text": "Barlangbejárat Mariazell közelében.",
+                  "text": "A Hohlensteinhöhle egy karsztbarlang a Mariazelli Bazilika közelében.",
                   "category": "landmark",
                   "coords": [
                         15.343245,
@@ -504,7 +504,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hohlensteinhöhle",
-                  "text": "O intrare în peșteră situată în regiunea Mariazell.",
+                  "text": "Peștera Hohlensteinhöhle este o peșteră carstică lângă Bazilica din Mariazell.",
                   "category": "landmark",
                   "coords": [
                         15.343245,
@@ -560,7 +560,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hohlensteinhöhle",
-                  "text": "A cave entrance located in the Mariazell region.",
+                  "text": "Hohlensteinhöhle is a limestone cave near the Mariazell Basilica.",
                   "category": "landmark",
                   "coords": [
                         15.343245,
@@ -701,7 +701,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hahnstein",
-                  "text": "Ein markanter Berg in der Steiermark, der von Admont aus erreichbar ist.",
+                  "text": "Der Hahnstein ist eine große Felsformation nahe der Admont Abbey in der Steiermark.",
                   "category": "landmark",
                   "coords": [
                         14.4879,
@@ -793,7 +793,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hahnstein",
-                  "text": "Jellegzetes hegy Stájerországban, amely Admont felől érhető el.",
+                  "text": "A Hahnstein egy nagy sziklaformáció az Admonti Apátság közelében, Stájerországban.",
                   "category": "landmark",
                   "coords": [
                         14.4879,
@@ -885,7 +885,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hahnstein",
-                  "text": "Un munte proeminent în Stiria, accesibil dinspre Admont.",
+                  "text": "Hahnstein este o formațiune stâncoasă mare lângă Abația Admont din Stiria.",
                   "category": "landmark",
                   "coords": [
                         14.4879,
@@ -977,7 +977,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Hahnstein",
-                  "text": "A prominent mountain in Styria accessible from Admont.",
+                  "text": "Hahnstein is a large rock formation near Admont Abbey in Styria.",
                   "category": "landmark",
                   "coords": [
                         14.4879,
@@ -1559,7 +1559,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Freibad Pöchlarn",
-                  "text": "Ein öffentliches Freibad und Erholungsgebiet.",
+                  "text": "Das Freibad Pöchlarn liegt in der Nähe von Schloss Artstetten und bietet ein beheiztes Becken.",
                   "category": "recreational",
                   "coords": [
                         15.198504,
@@ -1577,7 +1577,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Korneuburger Kreuz",
-                  "text": "Ein traditionelles Flurkreuz oder Bildstock in der Landschaft.",
+                  "text": "Das Korneuburger Kreuz ist ein denkmalgeschützter Wegkreuz bei Schloss Artstetten.",
                   "category": "landmark",
                   "coords": [
                         15.153671,
@@ -1633,7 +1633,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Freibad Pöchlarn",
-                  "text": "Nyilvános szabadtéri strand és szabadidős terület.",
+                  "text": "A pöchlarni szabadtéri uszoda az artstetteni kastély közelében található, fűtött medencével.",
                   "category": "recreational",
                   "coords": [
                         15.198504,
@@ -1651,7 +1651,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Korneuburger Kreuz",
-                  "text": "Hagyományos útmenti feszület vagy képoszlop a vidéken.",
+                  "text": "A Korneuburger Kreuz egy műemlékvédelem alatt álló útmenti kereszt az Artstetteni kastély mellett.",
                   "category": "landmark",
                   "coords": [
                         15.153671,
@@ -1707,7 +1707,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Freibad Pöchlarn",
-                  "text": "O piscină publică în aer liber și zonă de agrement.",
+                  "text": "Piscina în aer liber din Pöchlarn este situată lângă Castelul Artstetten și oferă o piscină încălzită.",
                   "category": "recreational",
                   "coords": [
                         15.198504,
@@ -1725,7 +1725,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Korneuburger Kreuz",
-                  "text": "O troiță tradițională situată în zona rurală.",
+                  "text": "Crucea Korneuburger Kreuz este un crucifix de drum protejat ca monument lângă Castelul Artstetten.",
                   "category": "landmark",
                   "coords": [
                         15.153671,
@@ -1781,7 +1781,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Freibad Pöchlarn",
-                  "text": "A public outdoor swimming pool and recreational area.",
+                  "text": "The outdoor pool in Pöchlarn is located near Artstetten Castle and offers a heated pool.",
                   "category": "recreational",
                   "coords": [
                         15.198504,
@@ -1799,7 +1799,7 @@ export const poiExtraAustriaHistorical: POI[] = [
             },
             {
                   "name": "Korneuburger Kreuz",
-                  "text": "A traditional wayside shrine located in the countryside.",
+                  "text": "The Korneuburger Kreuz is a heritage-listed wayside cross near Artstetten Castle.",
                   "category": "landmark",
                   "coords": [
                         15.153671,

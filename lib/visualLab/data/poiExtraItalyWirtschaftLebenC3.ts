@@ -7,7 +7,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
       "de": [
             {
                   "name": "Monumento ai Caduti di Boccasette",
-                  "text": "Ein Denkmal für die Gefallenen in der Po-Region.",
+                  "text": "Kriegerdenkmal für die Gefallenen von Boccasette am Po-Delta.",
                   "category": "historical",
                   "coords": [
                         12.420636,
@@ -16,7 +16,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "Eine Sehenswürdigkeit am 45. Breitengrad in Po.",
+                  "text": "Markierung des 45. Breitengrads Nord am Deich des Po.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -25,7 +25,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Eine historische Gebetsstätte in Po.",
+                  "text": "Kirche der seligen Jungfrau vom Rosenkranz am Po-Fluss.",
                   "category": "religious",
                   "coords": [
                         12.413398,
@@ -36,7 +36,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
       "hu": [
             {
                   "name": "Monumento ai Caduti di Boccasette",
-                  "text": "A Po régió elesettjeinek emlékére emelt emlékmű.",
+                  "text": "A boccasette-i elesettek emlékműve a Pó-delta mentén.",
                   "category": "historical",
                   "coords": [
                         12.420636,
@@ -45,7 +45,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "A 45. északi szélességi kört jelző látványosság Po területén.",
+                  "text": "Az északi 45. szélességi kör jelzése a Pó folyó töltésén.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -54,7 +54,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Történelmi templom Po területén.",
+                  "text": "A Rózsafüzér Királynője temploma a Pó folyónál.",
                   "category": "religious",
                   "coords": [
                         12.413398,
@@ -65,7 +65,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
       "ro": [
             {
                   "name": "Monumento ai Caduti di Boccasette",
-                  "text": "Un monument dedicat celor căzuți în regiunea Po.",
+                  "text": "Monumentul eroilor căzuți din Boccasette, situat de-a lungul deltei râului Po.",
                   "category": "historical",
                   "coords": [
                         12.420636,
@@ -74,7 +74,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "O atracție care marchează paralela 45 nord în Po.",
+                  "text": "Marcajul paralelei 45° nord pe digul râului Po.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -83,7 +83,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Un lăcaș de cult istoric situat în Po.",
+                  "text": "Biserica Sfintei Fecioare a Rozariului pe râul Po.",
                   "category": "religious",
                   "coords": [
                         12.413398,
@@ -94,7 +94,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
       "en": [
             {
                   "name": "Monumento ai Caduti di Boccasette",
-                  "text": "A monument dedicated to the fallen in the Po region.",
+                  "text": "War memorial dedicated to the fallen of Boccasette, located along the Po River delta.",
                   "category": "historical",
                   "coords": [
                         12.420636,
@@ -103,7 +103,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "An attraction marking the 45th parallel north in Po.",
+                  "text": "Marker of the 45th parallel north on the Po River embankment.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -112,7 +112,7 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "A historic place of worship located in Po.",
+                  "text": "Church of the Blessed Virgin of the Rosary on the Po River.",
                   "category": "religious",
                   "coords": [
                         12.413398,

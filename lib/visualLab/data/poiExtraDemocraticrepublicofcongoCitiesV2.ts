@@ -851,7 +851,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chateau de Dungu",
-                  "text": "Chateau de Dungu ist ein Schloss in Dungu.",
+                  "text": "Ein Schloss mit französischem Flair und umliegendem Park in Dungu.",
                   "category": "castle",
                   "coords": [
                         28.562964,
@@ -862,7 +862,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chateau de Dungu",
-                  "text": "A(z) Chateau de Dungu egy kastély Dungu településen.",
+                  "text": "Francia stílusú kastély parkkal Dunguban.",
                   "category": "castle",
                   "coords": [
                         28.562964,
@@ -873,7 +873,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chateau de Dungu",
-                  "text": "Chateau de Dungu este un castel în Dungu.",
+                  "text": "Un castel cu influențe franceze și parc în Dungu.",
                   "category": "castle",
                   "coords": [
                         28.562964,
@@ -884,7 +884,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chateau de Dungu",
-                  "text": "Chateau de Dungu is a castle located in Dungu.",
+                  "text": "A French-style castle with a surrounding park in Dungu.",
                   "category": "castle",
                   "coords": [
                         28.562964,
@@ -944,7 +944,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mahnmal für die Opfer der Force Publique",
-                  "text": "Das Monument to the victims of the Force Publique ist ein historisches Denkmal in Faradje.",
+                  "text": "Denkmal in Faradje, das an die Opfer der kolonialen Force Publique erinnert.",
                   "category": "historical",
                   "coords": [
                         29.708732,
@@ -955,7 +955,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument aux morts de la Force Publique",
-                  "text": "A Monument to the victims of the Force Publique egy történelmi emlékmű Faradje városában.",
+                  "text": "Faradjei emlékmű a gyarmati Force Publique áldozatainak emlékére.",
                   "category": "historical",
                   "coords": [
                         29.708732,
@@ -966,7 +966,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument aux morts de la Force Publique",
-                  "text": "Monument to the victims of the Force Publique este un monument istoric din Faradje.",
+                  "text": "Monument în Faradje care comemorează victimele forței publice coloniale.",
                   "category": "historical",
                   "coords": [
                         29.708732,
@@ -977,7 +977,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument to the victims of the Force Publique",
-                  "text": "The Monument to the victims of the Force Publique is a historical monument in Faradje.",
+                  "text": "Monument in Faradje commemorating the victims of the colonial Force Publique.",
                   "category": "historical",
                   "coords": [
                         29.708732,

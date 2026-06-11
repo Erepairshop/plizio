@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraNorthkoreaCitiesV2: POI[] = [
   {
-    id: "kp-pyongyang-cities-v2",
+    id: "kp-pyongyang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Korean Central History Museum",
+                  "text": "Das Koreanische Zentrale Historische Museum zeigt umfangreiche Artefakte, die die Vergangenheit der Nation chronologisch darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        125.754553,
+                        39.020073
+                  ]
+            },
+            {
+                  "name": "Korean Art Museum",
+                  "text": "Das im September 1954 gegründete Koreanische Kunstmuseum bietet eine riesige Sammlung traditioneller und moderner nationaler Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        125.754081,
+                        39.018584
+                  ]
+            },
+            {
+                  "name": "Taedong River Sunrise Revolutionary Historic Site",
+                  "text": "Die revolutionäre historische Stätte des Sonnenaufgangs am Taedong-Fluss ist eine erhaltene Sehenswürdigkeit am Flussufer, die an das politische Erbe erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.75468,
+                        39.015782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korean Central History Museum",
+                  "text": "A Koreai Központi Történeti Múzeum kiterjedt műtárgyakat mutat be, amelyek a nemzet múltját mesélik el.",
+                  "category": "museum",
+                  "coords": [
+                        125.754553,
+                        39.020073
+                  ]
+            },
+            {
+                  "name": "Korean Art Museum",
+                  "text": "Az 1954 szeptemberében alapított Koreai Művészeti Múzeum hatalmas gyűjteménnyel rendelkezik a hagyományos és modern nemzeti művészetből.",
+                  "category": "museum",
+                  "coords": [
+                        125.754081,
+                        39.018584
+                  ]
+            },
+            {
+                  "name": "Taedong River Sunrise Revolutionary Historic Site",
+                  "text": "A Tedong-folyói napfelkelte forradalmi történelmi emlékhely egy megőrzött folyóparti látványosság, amely a politikai örökségnek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.75468,
+                        39.015782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korean Central History Museum",
+                  "text": "Muzeul Central de Istorie Coreeană expune artefacte extinse care fac cronica trecutului națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        125.754553,
+                        39.020073
+                  ]
+            },
+            {
+                  "name": "Korean Art Museum",
+                  "text": "Înființat în septembrie 1954, Muzeul de Artă Coreeană prezintă o colecție vastă de opere de artă naționale tradiționale și moderne.",
+                  "category": "museum",
+                  "coords": [
+                        125.754081,
+                        39.018584
+                  ]
+            },
+            {
+                  "name": "Taedong River Sunrise Revolutionary Historic Site",
+                  "text": "Situl Istoric Revoluționar al Răsăritului pe Râul Taedong este o atracție conservată pe malul râului care comemorează moștenirea politică.",
+                  "category": "landmark",
+                  "coords": [
+                        125.75468,
+                        39.015782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korean Central History Museum",
+                  "text": "The Korean Central History Museum displays extensive artifacts chronicling the nation's past.",
+                  "category": "museum",
+                  "coords": [
+                        125.754553,
+                        39.020073
+                  ]
+            },
+            {
+                  "name": "Korean Art Museum",
+                  "text": "Established in September 1954, the Korean Art Museum features a vast collection of traditional and modern national artwork.",
+                  "category": "museum",
+                  "coords": [
+                        125.754081,
+                        39.018584
+                  ]
+            },
+            {
+                  "name": "Taedong River Sunrise Revolutionary Historic Site",
+                  "text": "The Taedong River Sunrise Revolutionary Historic Site is a preserved riverside attraction commemorating political heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        125.75468,
+                        39.015782
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "KP-01",
     coords: [125.7533, 39.0194],
@@ -45,7 +162,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tower of Immortality",
-                  "text": "Denkmal in Hamhŭng.",
+                  "text": "Der Turm der Unsterblichkeit in Hamhung, ein monumentaler Turm, der die Juche-Ideologie würdigt.",
                   "category": "historical",
                   "coords": [
                         127.513088,
@@ -54,7 +171,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonhwadang",
-                  "text": "Attraktion in Hamhŭng.",
+                  "text": "Sonhwa-Halle in Hamhung, eine öffentliche Halle für politische und kulturelle Veranstaltungen.",
                   "category": "landmark",
                   "coords": [
                         127.52388,
@@ -65,7 +182,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tower of Immortality",
-                  "text": "Emlékmű Hamhŭng-ban.",
+                  "text": "A Halhatatlanság Tornya Hamhungban, egy monumentális torony, amely a Dzsucse eszmét dicsőíti.",
                   "category": "historical",
                   "coords": [
                         127.513088,
@@ -74,7 +191,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonhwadang",
-                  "text": "Látnivaló Hamhŭng-ban.",
+                  "text": "Sonhwa terem Hamhungban, nyilvános terem politikai és kulturális események számára.",
                   "category": "landmark",
                   "coords": [
                         127.52388,
@@ -85,7 +202,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tower of Immortality",
-                  "text": "Monument în Hamhŭng.",
+                  "text": "Turnul Nemuririi din Hamhung, un turn monumental care comemorează ideologia Juche.",
                   "category": "historical",
                   "coords": [
                         127.513088,
@@ -94,7 +211,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonhwadang",
-                  "text": "Atracție în Hamhŭng.",
+                  "text": "Sala Sonhwa din Hamhung, o sală publică pentru evenimente politice și culturale.",
                   "category": "landmark",
                   "coords": [
                         127.52388,
@@ -105,7 +222,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tower of Immortality",
-                  "text": "Monument in Hamhŭng.",
+                  "text": "The Tower of Immortality in Hamhung, a monumental tower commemorating the Juche ideology.",
                   "category": "historical",
                   "coords": [
                         127.513088,
@@ -114,7 +231,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sonhwa Hall",
-                  "text": "Attraction in Hamhŭng.",
+                  "text": "Sonhwa Hall in Hamhung, a public hall for political and cultural events.",
                   "category": "landmark",
                   "coords": [
                         127.52388,
@@ -170,7 +287,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fine Art Museum",
-                  "text": "Das Fine Art Museum ist ein Museum in Chŏngjin.",
+                  "text": "Das Museum der Schönen Künste in Chongjin, das nordkoreanische Gemälde und Skulpturen zeigt.",
                   "category": "museum",
                   "coords": [
                         129.797803,
@@ -179,7 +296,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Il-Sung Monument",
-                  "text": "Das Kim Il-Sung Monument ist ein Denkmal in Chŏngjin.",
+                  "text": "Ein Denkmal für Kim Il-Sung in Chongjin, eine Hommage an den Gründungsführer.",
                   "category": "historical",
                   "coords": [
                         129.795091,
@@ -190,7 +307,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fine Art Museum",
-                  "text": "A Fine Art Museum egy múzeum Chŏngjin városában.",
+                  "text": "A Szépművészeti Múzeum Chongjinban, észak-koreai festményeket és szobrokat bemutatva.",
                   "category": "museum",
                   "coords": [
                         129.797803,
@@ -199,7 +316,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Il-Sung Monument",
-                  "text": "A Kim Il-Sung Monument egy emlékmű Chŏngjin városában.",
+                  "text": "Kim Ir Szen emlékmű Chongjinban, tiszteletadás az alapító vezető előtt.",
                   "category": "historical",
                   "coords": [
                         129.795091,
@@ -210,7 +327,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fine Art Museum",
-                  "text": "Fine Art Museum este un muzeu situat în Chŏngjin.",
+                  "text": "Muzeul de Arte Frumoase din Chongjin, care expune picturi și sculpturi nord-coreene.",
                   "category": "museum",
                   "coords": [
                         129.797803,
@@ -219,7 +336,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Il-Sung Monument",
-                  "text": "Kim Il-Sung Monument este un monument în Chŏngjin.",
+                  "text": "Un monument dedicat lui Kim Ir-sen în Chongjin, un omagiu adus liderului fondator.",
                   "category": "historical",
                   "coords": [
                         129.795091,
@@ -230,7 +347,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fine Art Museum",
-                  "text": "Fine Art Museum is a museum located in Chŏngjin.",
+                  "text": "The Fine Art Museum in Chongjin, displaying North Korean paintings and sculptures.",
                   "category": "museum",
                   "coords": [
                         129.797803,
@@ -239,7 +356,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Il-Sung Monument",
-                  "text": "Kim Il-Sung Monument is a monument located in Chŏngjin.",
+                  "text": "A monument to Kim Il-Sung in Chongjin, a tribute to the founding leader.",
                   "category": "historical",
                   "coords": [
                         129.795091,
@@ -335,7 +452,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-wonsan-cities-v2",
+    id: "kp-wonsan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "People's Army Martyrs Memorial Tower",
+                  "text": "Der steinerne Obelisk im Stadtzentrum ehrt die gefallenen Soldaten der Volksarmee.",
+                  "category": "historical",
+                  "coords": [
+                        127.44693,
+                        39.149284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "People's Army Martyrs Memorial Tower",
+                  "text": "A városközpontban álló kőobeliszk a Néphadsereg elesett katonái előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        127.44693,
+                        39.149284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "People's Army Martyrs Memorial Tower",
+                  "text": "Acest obelisc de piatră din centrul orașului onorează soldații căzuți ai Armatei Populare.",
+                  "category": "historical",
+                  "coords": [
+                        127.44693,
+                        39.149284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "People's Army Martyrs Memorial Tower",
+                  "text": "This stone obelisk in the city center honors the fallen soldiers of the People's Army.",
+                  "category": "historical",
+                  "coords": [
+                        127.44693,
+                        39.149284
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-07",
     coords: [127.4436, 39.1539],
@@ -379,7 +541,232 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-sinuiju-cities-v2",
+    id: "kp-sinuiju-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amnok(Yalu) River Broken Bridge",
+                  "text": "Eine im Koreakrieg zerbombte Brücke, deren Überreste heute als Mahnmal mitten im Yalu-Fluss enden.",
+                  "category": "landmark",
+                  "coords": [
+                        124.389949,
+                        40.115983
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "Ein markierter Grenzpunkt am Ufer des Yalu-Flusses mit Blick auf die chinesische Stadt Dandong.",
+                  "category": "landmark",
+                  "coords": [
+                        124.392371,
+                        40.115168
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Revolutionary Museum",
+                  "text": "Ein Museum in Sinuiju mit umfangreichen Exponaten zur politischen und regionalen Geschichte der Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        124.399346,
+                        40.107926
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Party Committee Revolutionary Historic Site",
+                  "text": "Eine historische Gedenkstätte in Sinuiju, die den politischen Aktivitäten der Provinzleitung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        124.394348,
+                        40.105187
+                  ]
+            },
+            {
+                  "name": "North Phyongan Provincial Art Theatre",
+                  "text": "Ein bedeutendes Kulturzentrum für Aufführungen von sozialistischer Oper und traditionellem koreanischem Tanz.",
+                  "category": "cultural",
+                  "coords": [
+                        124.390246,
+                        40.097424
+                  ]
+            },
+            {
+                  "name": "North Pyongan Provincial Fine Arts Studio",
+                  "text": "Ein Atelierkomplex, in dem monumentale Propagandakunst und traditionelle koreanische Malereien entstehen.",
+                  "category": "museum",
+                  "coords": [
+                        124.39305,
+                        40.097895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amnok(Yalu) River Broken Bridge",
+                  "text": "A koreai háborúban lebombázott híd, amelynek roncsai ma emlékhelyként állnak a Jalu-folyó közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.389949,
+                        40.115983
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "Kijelölt határpont a Jalu-folyó partján, kilátással a kínai Dandong városára.",
+                  "category": "landmark",
+                  "coords": [
+                        124.392371,
+                        40.115168
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Revolutionary Museum",
+                  "text": "Szinuidzsu múzeuma, amely a tartomány politikai és regionális történelmét bemutató tárlatoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        124.399346,
+                        40.107926
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Party Committee Revolutionary Historic Site",
+                  "text": "Történelmi emlékhely Szinuidzsuban, amely a tartományi vezetés politikai tevékenységének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        124.394348,
+                        40.105187
+                  ]
+            },
+            {
+                  "name": "North Phyongan Provincial Art Theatre",
+                  "text": "Jelentős kulturális központ, ahol szocialista operákat és hagyományos koreai táncokat adnak elő.",
+                  "category": "cultural",
+                  "coords": [
+                        124.390246,
+                        40.097424
+                  ]
+            },
+            {
+                  "name": "North Pyongan Provincial Fine Arts Studio",
+                  "text": "Művészeti műhelykomplexum, ahol monumentális propagandafestmények és hagyományos koreai alkotások készülnek.",
+                  "category": "museum",
+                  "coords": [
+                        124.39305,
+                        40.097895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amnok(Yalu) River Broken Bridge",
+                  "text": "Un pod bombardat în timpul Războiului din Coreea, ale cărui ruine rămase se termină brusc în mijlocul fluviului Yalu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.389949,
+                        40.115983
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "Un punct de frontieră marcat pe malul fluviului Yalu, oferind vedere spre orașul chinez Dandong.",
+                  "category": "landmark",
+                  "coords": [
+                        124.392371,
+                        40.115168
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Revolutionary Museum",
+                  "text": "Un muzeu din Sinuiju cu expoziții vaste despre istoria politică și regională a provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        124.399346,
+                        40.107926
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Party Committee Revolutionary Historic Site",
+                  "text": "Un sit istoric comemorativ din Sinuiju, dedicat activităților politice ale conducerii provinciale.",
+                  "category": "landmark",
+                  "coords": [
+                        124.394348,
+                        40.105187
+                  ]
+            },
+            {
+                  "name": "North Phyongan Provincial Art Theatre",
+                  "text": "Un centru cultural important pentru spectacole de operă socialistă și dans tradițional coreean.",
+                  "category": "cultural",
+                  "coords": [
+                        124.390246,
+                        40.097424
+                  ]
+            },
+            {
+                  "name": "North Pyongan Provincial Fine Arts Studio",
+                  "text": "Un complex de ateliere unde se creează artă monumentală de propagandă și picturi tradiționale coreene.",
+                  "category": "museum",
+                  "coords": [
+                        124.39305,
+                        40.097895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amnok(Yalu) River Broken Bridge",
+                  "text": "A bridge bombed during the Korean War, whose remaining spans end abruptly in the middle of the Yalu River.",
+                  "category": "landmark",
+                  "coords": [
+                        124.389949,
+                        40.115983
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "A marked border point on the banks of the Yalu River with views across to the Chinese city of Dandong.",
+                  "category": "landmark",
+                  "coords": [
+                        124.392371,
+                        40.115168
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Revolutionary Museum",
+                  "text": "A museum in Sinuiju featuring extensive exhibits on the political and regional history of the province.",
+                  "category": "museum",
+                  "coords": [
+                        124.399346,
+                        40.107926
+                  ]
+            },
+            {
+                  "name": "North Pyongan Province Party Committee Revolutionary Historic Site",
+                  "text": "A historic commemorative site in Sinuiju dedicated to the political activities of the provincial leadership.",
+                  "category": "landmark",
+                  "coords": [
+                        124.394348,
+                        40.105187
+                  ]
+            },
+            {
+                  "name": "North Phyongan Provincial Art Theatre",
+                  "text": "A major cultural center for performances of socialist opera and traditional Korean dance.",
+                  "category": "cultural",
+                  "coords": [
+                        124.390246,
+                        40.097424
+                  ]
+            },
+            {
+                  "name": "North Pyongan Provincial Fine Arts Studio",
+                  "text": "An art studio complex where monumental propaganda art and traditional Korean paintings are created.",
+                  "category": "museum",
+                  "coords": [
+                        124.39305,
+                        40.097895
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-03",
     coords: [124.3983, 40.0994],
@@ -471,7 +858,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kaechon Revolutionary Site",
-                  "text": "Attraktion in Kaech'ŏn.",
+                  "text": "Die revolutionäre Stätte von Kaechon, ein historischer Ort, der mit der koreanischen Revolution verbunden ist.",
                   "category": "landmark",
                   "coords": [
                         125.89255,
@@ -482,7 +869,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kaechon Revolutionary Site",
-                  "text": "Látnivaló Kaech'ŏn-ban.",
+                  "text": "A Kaechoni Forradalmi Emlékhely, a koreai forradalomhoz kapcsolódó történelmi helyszín.",
                   "category": "landmark",
                   "coords": [
                         125.89255,
@@ -493,7 +880,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kaechon Revolutionary Site",
-                  "text": "Atracție în Kaech'ŏn.",
+                  "text": "Situl Revoluționar Kaechon, un loc istoric asociat cu revoluția coreeană.",
                   "category": "landmark",
                   "coords": [
                         125.89255,
@@ -504,7 +891,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kaechon Revolutionary Site",
-                  "text": "Attraction in Kaech'ŏn.",
+                  "text": "The Kaechon Revolutionary Site, a historic location associated with the Korean revolution.",
                   "category": "landmark",
                   "coords": [
                         125.89255,
@@ -560,7 +947,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "Das Koryo Museum (Sungyangwan Academy) ist ein Museum in Kaesŏng.",
+                  "text": "Das Koryo-Museum in der ehemaligen Sungyangwan-Konfuzius-Akademie in Kaesong, das Artefakte aus der Goryeo-Zeit zeigt.",
                   "category": "museum",
                   "coords": [
                         126.570744,
@@ -578,7 +965,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "Das Revolutionary Museum for the History of Kaesong ist ein Museum in Kaesŏng.",
+                  "text": "Ein Museum in Kaesong, das der Geschichte der Revolution in der Region gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         126.559262,
@@ -587,7 +974,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Manwoldae Palace",
-                  "text": "Der Manwoldae Palace ist eine archäologische Stätte in Kaesŏng.",
+                  "text": "Die Ruinen des Manwoldae-Palastes, der wichtigsten Goryeo-Königspalastes in Kaesong.",
                   "category": "historical",
                   "coords": [
                         126.542601,
@@ -596,7 +983,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae ist eine archäologische Stätte in Kaesŏng.",
+                  "text": "Kaesong Chomsongdae, eine historische astronomische Sternwarte aus der Goryeo-Zeit.",
                   "category": "historical",
                   "coords": [
                         126.539708,
@@ -605,7 +992,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
-                  "text": "Sonjuk Bridge and Phyochung Monuments ist eine archäologische Stätte in Kaesŏng.",
+                  "text": "Die Sonjuk-Brücke und die Phyochung-Denkmäler in Kaesong, Gedenkstätten für den Gelehrten Jeong Mong-ju.",
                   "category": "historical",
                   "coords": [
                         126.565847,
@@ -614,7 +1001,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nullimun Gate",
-                  "text": "눌리문 ist eine Burg in Kaesŏng.",
+                  "text": "Das Nullimun-Tor ist ein historisches Burgtor in Kaesong, der alten Hauptstadt der Koryo-Dynastie.",
                   "category": "castle",
                   "coords": [
                         126.535538,
@@ -623,7 +1010,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namsan Mountain",
-                  "text": "Namsan Mountain ist ein Berggipfel in Kaesŏng.",
+                  "text": "Berg mit Aussicht auf die historische Stadt Kaesong.",
                   "category": "natural",
                   "coords": [
                         126.55362,
@@ -632,7 +1019,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namdaemun",
-                  "text": "Namdaemun ist ein Denkmal in Kaesŏng.",
+                  "text": "Südliches Stadttor von Kaesong aus der Goryeo-Dynastie.",
                   "category": "historical",
                   "coords": [
                         126.55646,
@@ -643,7 +1030,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "A Koryo Museum (Sungyangwan Academy) egy múzeum Kaesŏng városában.",
+                  "text": "A Korjo Múzeum a hajdani Sungyangwan Konfuciánus Akadémiában Kaesongban, korjo kori tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         126.570744,
@@ -661,7 +1048,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "A Revolutionary Museum for the History of Kaesong egy múzeum Kaesŏng városában.",
+                  "text": "Múzeum Kaesongban, amely a régió forradalmának történetének szentelt.",
                   "category": "museum",
                   "coords": [
                         126.559262,
@@ -670,7 +1057,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Manwoldae Palace",
-                  "text": "A Manwoldae Palace egy régészeti lelőhely Kaesŏng városában.",
+                  "text": "A Manwoldae palota romjai, a fő korjo királyi palota Kaesongban.",
                   "category": "historical",
                   "coords": [
                         126.542601,
@@ -679,7 +1066,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaesong Chomsongdae",
-                  "text": "A Kaesong Chomsongdae egy régészeti lelőhely Kaesŏng városában.",
+                  "text": "Kaesong Chomsongdae, történelmi csillagvizsgáló a korjo korból.",
                   "category": "historical",
                   "coords": [
                         126.539708,
@@ -688,7 +1075,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
-                  "text": "A Sonjuk Bridge and Phyochung Monuments egy régészeti lelőhely Kaesŏng városában.",
+                  "text": "A Sonjuk híd és a Phyochung emlékművek Kaesongban, Jeong Mong-ju tudós emlékére.",
                   "category": "historical",
                   "coords": [
                         126.565847,
@@ -697,7 +1084,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nullimun Gate",
-                  "text": "A 눌리문 egy vár Kaesŏng városában.",
+                  "text": "A Nullimun-kapu egy történelmi várkapu Kaesongban, a Koryo-dinasztia ősi fővárosában.",
                   "category": "castle",
                   "coords": [
                         126.535538,
@@ -706,7 +1093,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namsan Mountain",
-                  "text": "A Namsan Mountain egy hegycsúcs Kaesŏng területén.",
+                  "text": "Kilátóhegy a történelmi Kaesong város felett.",
                   "category": "natural",
                   "coords": [
                         126.55362,
@@ -715,7 +1102,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namdaemun",
-                  "text": "A Namdaemun egy emlékmű Kaesŏng városában.",
+                  "text": "Kaesong déli kapuja a Korjo-dinasztia korából.",
                   "category": "historical",
                   "coords": [
                         126.55646,
@@ -726,7 +1113,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "Koryo Museum (Sungyangwan Academy) este un muzeu în Kaesŏng.",
+                  "text": "Muzeul Koryo găzduit în fosta Academie Confucianistă Sungyangwan din Kaesong, care expune artefacte din perioada Goryeo.",
                   "category": "museum",
                   "coords": [
                         126.570744,
@@ -744,7 +1131,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "Revolutionary Museum for the History of Kaesong este un muzeu în Kaesŏng.",
+                  "text": "Un muzeu în Kaesong dedicat istoriei revoluției în regiune.",
                   "category": "museum",
                   "coords": [
                         126.559262,
@@ -753,7 +1140,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Manwoldae Palace",
-                  "text": "Manwoldae Palace este un sit arheologic situat în Kaesŏng.",
+                  "text": "Ruinele Palatului Manwoldae, principalul palat regal Goryeo din Kaesong.",
                   "category": "historical",
                   "coords": [
                         126.542601,
@@ -762,7 +1149,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae este un sit arheologic situat în Kaesŏng.",
+                  "text": "Kaesong Chomsongdae, un observator astronomic istoric din perioada Goryeo.",
                   "category": "historical",
                   "coords": [
                         126.539708,
@@ -771,7 +1158,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
-                  "text": "Sonjuk Bridge and Phyochung Monuments este un sit arheologic situat în Kaesŏng.",
+                  "text": "Podul Sonjuk și Monumentele Phyochung din Kaesong, memoriale dedicate savantului Jeong Mong-ju.",
                   "category": "historical",
                   "coords": [
                         126.565847,
@@ -780,7 +1167,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nullimun Gate",
-                  "text": "눌리문 este un castel situat în Kaesŏng.",
+                  "text": "Poarta Nullimun este o poartă istorică de castel din Kaesong, vechea capitală a dinastiei Koryo.",
                   "category": "castle",
                   "coords": [
                         126.535538,
@@ -789,7 +1176,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namsan Mountain",
-                  "text": "Namsan Mountain este un vârf montan situat în Kaesŏng.",
+                  "text": "Munte cu vedere asupra orașului istoric Kaesong.",
                   "category": "natural",
                   "coords": [
                         126.55362,
@@ -798,7 +1185,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namdaemun",
-                  "text": "Namdaemun este un monument situat în Kaesŏng.",
+                  "text": "Poarta de sud a orașului Kaesong din dinastia Goryeo.",
                   "category": "historical",
                   "coords": [
                         126.55646,
@@ -809,7 +1196,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "Koryo Museum (Sungyangwan Academy) is a museum located in Kaesŏng.",
+                  "text": "The Koryo Museum housed in the former Sungyangwan Confucian Academy in Kaesong, displaying Goryeo-era artifacts.",
                   "category": "museum",
                   "coords": [
                         126.570744,
@@ -827,7 +1214,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "Revolutionary Museum for the History of Kaesong is a museum located in Kaesŏng.",
+                  "text": "A museum in Kaesong dedicated to the history of the revolution in the region.",
                   "category": "museum",
                   "coords": [
                         126.559262,
@@ -836,7 +1223,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Manwoldae Palace",
-                  "text": "Manwoldae Palace is an archaeological site located in Kaesŏng.",
+                  "text": "The ruins of Manwoldae Palace, the main Goryeo royal palace in Kaesong.",
                   "category": "historical",
                   "coords": [
                         126.542601,
@@ -845,7 +1232,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae is an archaeological site located in Kaesŏng.",
+                  "text": "Kaesong Chomsongdae, a historic astronomical observatory from the Goryeo period.",
                   "category": "historical",
                   "coords": [
                         126.539708,
@@ -854,7 +1241,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
-                  "text": "Sonjuk Bridge and Phyochung Monuments is an archaeological site located in Kaesŏng.",
+                  "text": "Sonjuk Bridge and the Phyochung Monuments in Kaesong, memorials to the scholar Jeong Mong-ju.",
                   "category": "historical",
                   "coords": [
                         126.565847,
@@ -863,7 +1250,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nullimun Gate",
-                  "text": "눌리문 is a castle located in Kaesŏng.",
+                  "text": "The Nullimun Gate is a historic castle gate in Kaesong, the ancient capital of the Koryo dynasty.",
                   "category": "castle",
                   "coords": [
                         126.535538,
@@ -872,7 +1259,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namsan Mountain",
-                  "text": "Namsan Mountain is a peak located in Kaesŏng.",
+                  "text": "Mountain with views over the historic city of Kaesong.",
                   "category": "natural",
                   "coords": [
                         126.55362,
@@ -881,7 +1268,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namdaemun",
-                  "text": "Namdaemun is a monument located in Kaesŏng.",
+                  "text": "Southern gate of Kaesong from the Goryeo dynasty.",
                   "category": "historical",
                   "coords": [
                         126.55646,
@@ -937,7 +1324,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sariwon History Museum",
-                  "text": "Das Sariwon History Museum ist ein Museum in Sariwŏn.",
+                  "text": "Das Sariwon-Geschichtsmuseum dokumentiert die Geschichte von Sariwon und der Provinz Hwanghae.",
                   "category": "museum",
                   "coords": [
                         125.75114,
@@ -948,7 +1335,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sariwon History Museum",
-                  "text": "A Sariwon History Museum egy múzeum Sariwŏn városában.",
+                  "text": "A Sariwoni Történeti Múzeum Sariwon és Hwanghae tartomány történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         125.75114,
@@ -959,7 +1346,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sariwon History Museum",
-                  "text": "Sariwon History Museum este un muzeu în Sariwŏn.",
+                  "text": "Muzeul de Istorie din Sariwon documentează istoria orașului Sariwon și a provinciei Hwanghae.",
                   "category": "museum",
                   "coords": [
                         125.75114,
@@ -970,7 +1357,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sariwon History Museum",
-                  "text": "Sariwon History Museum is a museum in Sariwŏn.",
+                  "text": "The Sariwon History Museum documents the history of Sariwon and Hwanghae Province.",
                   "category": "museum",
                   "coords": [
                         125.75114,
@@ -1066,7 +1453,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kp-pyongsong-cities-v2",
+    id: "kp-pyongsong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Munhwa Market",
+                  "text": "Der Munhwa-Markt in Pyongsong fungiert als geschäftiges Handelszentrum, in dem landwirtschaftliche Produkte und Industriegüter an die Stadtbevölkerung verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        125.826007,
+                        39.256776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Munhwa Market",
+                  "text": "A pyongsongi Munhwa piac forgalmas kereskedelmi központként működik, ahol mezőgazdasági termékeket és iparcikkeket adnak el a városi lakosságnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.826007,
+                        39.256776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Munhwa Market",
+                  "text": "Piața Munhwa din Pyongsong acționează ca un centru comercial aglomerat, unde produsele agricole și bunurile fabricate sunt vândute populației urbane.",
+                  "category": "cultural",
+                  "coords": [
+                        125.826007,
+                        39.256776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Munhwa Market",
+                  "text": "The Munhwa Market in Pyongsong acts as a busy trading center where agricultural products and manufactured goods are sold to the urban population.",
+                  "category": "cultural",
+                  "coords": [
+                        125.826007,
+                        39.256776
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-02",
     coords: [125.8456, 39.2464],
@@ -1114,7 +1546,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Taebonggak",
-                  "text": "Taebonggak ist ein Schloss in Haeju.",
+                  "text": "Taebonggak ist eine Burg auf einem Hügel mit Blick auf Haeju.",
                   "category": "castle",
                   "coords": [
                         125.702691,
@@ -1123,7 +1555,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Daranisŏkdang",
-                  "text": "Daranisŏkdang ist ein Schloss in Haeju.",
+                  "text": "Daranisŏkdang ist eine Steinburg in Haeju.",
                   "category": "castle",
                   "coords": [
                         125.717222,
@@ -1132,7 +1564,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "Das Hwanghaenamdo Revolutionary History Museum ist ein Museum in Haeju.",
+                  "text": "Das Revolutionsgeschichtliche Museum Hwanghaenamdo behandelt die revolutionäre Geschichte der Provinz Süd-Hwanghae.",
                   "category": "museum",
                   "coords": [
                         125.708867,
@@ -1141,7 +1573,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haeju Zoo",
-                  "text": "Der Haeju Zoo ist ein zoologischer Garten in Haeju.",
+                  "text": "Der Haeju-Zoo ist ein Familienausflugsziel mit vielfältiger Tierwelt.",
                   "category": "family",
                   "coords": [
                         125.701782,
@@ -1152,7 +1584,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Taebonggak",
-                  "text": "A Taebonggak egy kastély Haeju városában.",
+                  "text": "A Taebonggak egy dombon álló vár, amely Haejura néz.",
                   "category": "castle",
                   "coords": [
                         125.702691,
@@ -1161,7 +1593,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Daranisŏkdang",
-                  "text": "A Daranisŏkdang egy kastély Haeju városában.",
+                  "text": "A Daranisŏkdang egy kővár Haejuban.",
                   "category": "castle",
                   "coords": [
                         125.717222,
@@ -1170,7 +1602,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "A Hwanghaenamdo Revolutionary History Museum egy múzeum Haeju városában.",
+                  "text": "A Hwanghaenamdo Forradalmi Történeti Múzeum Dél-Hwanghae tartomány forradalmi történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
                         125.708867,
@@ -1179,7 +1611,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haeju Zoo",
-                  "text": "A Haeju Zoo egy állatkert Haeju városában.",
+                  "text": "A Haeju Állatkert családi látványosság változatos állatvilággal.",
                   "category": "family",
                   "coords": [
                         125.701782,
@@ -1190,7 +1622,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Taebonggak",
-                  "text": "Taebonggak este un castel în Haeju.",
+                  "text": "Taebonggak este un castel pe un deal cu vedere spre Haeju.",
                   "category": "castle",
                   "coords": [
                         125.702691,
@@ -1199,7 +1631,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Daranisŏkdang",
-                  "text": "Daranisŏkdang este un castel în Haeju.",
+                  "text": "Daranisŏkdang este o fortăreață de piatră în Haeju.",
                   "category": "castle",
                   "coords": [
                         125.717222,
@@ -1208,7 +1640,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "Hwanghaenamdo Revolutionary History Museum este un muzeu în Haeju.",
+                  "text": "Muzeul de Istorie Revoluționară Hwanghaenamdo acoperă istoria revoluționară a provinciei South Hwanghae.",
                   "category": "museum",
                   "coords": [
                         125.708867,
@@ -1217,7 +1649,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haeju Zoo",
-                  "text": "Haeju Zoo este o grădină zoologică în Haeju.",
+                  "text": "Grădina Zoologică Haeju este o atracție pentru familii, cu o diversitate de animale.",
                   "category": "family",
                   "coords": [
                         125.701782,
@@ -1228,7 +1660,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Taebonggak",
-                  "text": "Taebonggak is a castle in Haeju.",
+                  "text": "Taebonggak is a castle on a hill overlooking Haeju.",
                   "category": "castle",
                   "coords": [
                         125.702691,
@@ -1237,7 +1669,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Daranisŏkdang",
-                  "text": "Daranisŏkdang is a castle in Haeju.",
+                  "text": "Daranisŏkdang is a stone fortress in Haeju.",
                   "category": "castle",
                   "coords": [
                         125.717222,
@@ -1246,7 +1678,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "Hwanghaenamdo Revolutionary History Museum is a museum in Haeju.",
+                  "text": "The Hwanghaenamdo Revolutionary History Museum covers the revolutionary history of South Hwanghae Province.",
                   "category": "museum",
                   "coords": [
                         125.708867,
@@ -1255,7 +1687,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haeju Zoo",
-                  "text": "Haeju Zoo is a zoo in Haeju.",
+                  "text": "Haeju Zoo is a family attraction with diverse wildlife.",
                   "category": "family",
                   "coords": [
                         125.701782,
@@ -1311,7 +1743,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jagang Province Kim Il Sung Revolutionary Museum",
-                  "text": "Museum in Kanggye.",
+                  "text": "Das Jagang Kim-Il-sung-Revolutionsmuseum schildert die revolutionären Aktivitäten Kim-Il-sungs in der Provinz Jagang.",
                   "category": "museum",
                   "coords": [
                         126.589709,
@@ -1320,7 +1752,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Archaic Site",
-                  "text": "Archäologische Stätte in Kanggye.",
+                  "text": "Ganggye Asa ist eine historische Stätte nahe dem Hauptplatz von Kanggye.",
                   "category": "historical",
                   "coords": [
                         126.595311,
@@ -1329,7 +1761,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haebangwon Theater",
-                  "text": "Theater in Kanggye.",
+                  "text": "Das Haebangwon-Theater ist eine Kulturstätte im Zentrum von Kanggye.",
                   "category": "cultural",
                   "coords": [
                         126.602118,
@@ -1338,7 +1770,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Water Park",
-                  "text": "Wasserpark in Kanggye.",
+                  "text": "Der Kanggye-Wasserpark bietet Rutschen und Becken für Familienvergnügen.",
                   "category": "family",
                   "coords": [
                         126.595677,
@@ -1347,7 +1779,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye City Theater",
-                  "text": "Theater in Kanggye.",
+                  "text": "Das Kanggye-Theater ist die wichtigste Spielstätte der Stadt.",
                   "category": "cultural",
                   "coords": [
                         126.586105,
@@ -1356,7 +1788,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Zoo",
-                  "text": "Zoo in Kanggye.",
+                  "text": "Der Kanggye-Zoo beherbergt Tiere aus aller Welt.",
                   "category": "family",
                   "coords": [
                         126.574067,
@@ -1365,7 +1797,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yonpung Revolutionary Site",
-                  "text": "Museum in Kanggye.",
+                  "text": "Die revolutionäre Stätte Yonphung ist ein Museum zur Revolutionsgeschichte in Kanggye.",
                   "category": "museum",
                   "coords": [
                         126.598377,
@@ -1374,7 +1806,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Kim Il Sung and Kim Jong Il",
-                  "text": "Denkmal in Kanggye.",
+                  "text": "Die Kim-Il-sung- und Kim-Jong-il-Denkmäler in Kanggye ehren die beiden Führer.",
                   "category": "historical",
                   "coords": [
                         126.59436,
@@ -1383,7 +1815,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Inphung Pavilion",
-                  "text": "Attraktion in Kanggye.",
+                  "text": "Der Inphung-Pavillon bietet eine malerische Aussicht über Kanggye.",
                   "category": "landmark",
                   "coords": [
                         126.587597,
@@ -1394,7 +1826,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jagang Province Kim Il Sung Revolutionary Museum",
-                  "text": "Múzeum Kanggye-ben.",
+                  "text": "A Jagang Kim Ir Szen Forradalmi Múzeum Kim Ir Szen forradalmi tevékenységét mutatja be Jagang tartományban.",
                   "category": "museum",
                   "coords": [
                         126.589709,
@@ -1403,7 +1835,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Archaic Site",
-                  "text": "Régészeti lelőhely Kanggye-ben.",
+                  "text": "A Ganggye Asa egy történelmi helyszín Kanggye főtere közelében.",
                   "category": "historical",
                   "coords": [
                         126.595311,
@@ -1412,7 +1844,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haebangwon Theater",
-                  "text": "Színház Kanggye-ben.",
+                  "text": "A Haebangwon Színház egy kulturális helyszín Kanggye központjában.",
                   "category": "cultural",
                   "coords": [
                         126.602118,
@@ -1421,7 +1853,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Water Park",
-                  "text": "Vízipark Kanggye-ben.",
+                  "text": "A Kanggye Vízipark csúszdákkal és medencékkel várja a családokat.",
                   "category": "family",
                   "coords": [
                         126.595677,
@@ -1430,7 +1862,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye City Theater",
-                  "text": "Színház Kanggye-ben.",
+                  "text": "A Kanggye Színház a város fő előadóhelye.",
                   "category": "cultural",
                   "coords": [
                         126.586105,
@@ -1439,7 +1871,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Zoo",
-                  "text": "Állatkert Kanggye-ben.",
+                  "text": "A Kanggye Állatkert a világ minden tájáról származó állatoknak ad otthont.",
                   "category": "family",
                   "coords": [
                         126.574067,
@@ -1448,7 +1880,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yonpung Revolutionary Site",
-                  "text": "Múzeum Kanggye-ben.",
+                  "text": "A Yonphung Forradalmi Helyszín egy múzeum, amely Kanggye forradalmi történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
                         126.598377,
@@ -1457,7 +1889,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Kim Il Sung and Kim Jong Il",
-                  "text": "Emlékmű Kanggye-ben.",
+                  "text": "A Kim Ir Szen és Kim Dzsong Il emlékművek Kanggyében a két vezető előtt tisztelegnek.",
                   "category": "historical",
                   "coords": [
                         126.59436,
@@ -1466,7 +1898,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Inphung Pavilion",
-                  "text": "Látnivaló Kanggye-ben.",
+                  "text": "Az Inphung Pavilon festői kilátást nyújt Kanggyére.",
                   "category": "landmark",
                   "coords": [
                         126.587597,
@@ -1477,7 +1909,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jagang Province Kim Il Sung Revolutionary Museum",
-                  "text": "Muzeu în Kanggye.",
+                  "text": "Muzeul Revoluționar Jagang Kim Ir-sen prezintă activitățile revoluționare ale lui Kim Ir-sen în provincia Jagang.",
                   "category": "museum",
                   "coords": [
                         126.589709,
@@ -1486,7 +1918,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Archaic Site",
-                  "text": "Sit arheologic în Kanggye.",
+                  "text": "Ganggye Asa este un sit istoric lângă piața principală a orașului Kanggye.",
                   "category": "historical",
                   "coords": [
                         126.595311,
@@ -1495,7 +1927,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haebangwon Theater",
-                  "text": "Teatru în Kanggye.",
+                  "text": "Teatrul Haebangwon este un spațiu cultural în centrul orașului Kanggye.",
                   "category": "cultural",
                   "coords": [
                         126.602118,
@@ -1504,7 +1936,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Water Park",
-                  "text": "Parc acvatic în Kanggye.",
+                  "text": "Parcul Acvatic Kanggye oferă tobogane și piscine pentru distracția familiilor.",
                   "category": "family",
                   "coords": [
                         126.595677,
@@ -1513,7 +1945,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye City Theater",
-                  "text": "Teatru în Kanggye.",
+                  "text": "Teatrul Kanggye este principala sală de spectacole a orașului.",
                   "category": "cultural",
                   "coords": [
                         126.586105,
@@ -1522,7 +1954,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Zoo",
-                  "text": "Grădină zoologică în Kanggye.",
+                  "text": "Grădina Zoologică Kanggye găzduiește animale din întreaga lume.",
                   "category": "family",
                   "coords": [
                         126.574067,
@@ -1531,7 +1963,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yonpung Revolutionary Site",
-                  "text": "Muzeu în Kanggye.",
+                  "text": "Situl Revoluționar Yonphung este un muzeu despre istoria revoluționară din Kanggye.",
                   "category": "museum",
                   "coords": [
                         126.598377,
@@ -1540,7 +1972,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Statue of Kim Il Sung and Kim Jong Il",
-                  "text": "Monument în Kanggye.",
+                  "text": "Monumentele Kim Ir-sen și Kim Jong-il din Kanggye îi onorează pe cei doi lideri.",
                   "category": "historical",
                   "coords": [
                         126.59436,
@@ -1549,7 +1981,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Inphung Pavilion",
-                  "text": "Atracție în Kanggye.",
+                  "text": "Pavilionul Inphung oferă o priveliște pitorească asupra orașului Kanggye.",
                   "category": "landmark",
                   "coords": [
                         126.587597,
@@ -1560,7 +1992,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jagang Kim Il-Sung Revolutionary Museum",
-                  "text": "Museum in Kanggye.",
+                  "text": "The Jagang Kim Il-Sung Revolutionary Museum chronicles Kim Il-Sung's revolutionary activities in Jagang Province.",
                   "category": "museum",
                   "coords": [
                         126.589709,
@@ -1569,7 +2001,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ganggye Asa",
-                  "text": "Archaeological site in Kanggye.",
+                  "text": "Ganggye Asa is a historical site near Kanggye's main square.",
                   "category": "historical",
                   "coords": [
                         126.595311,
@@ -1578,7 +2010,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haebangwon Theatre",
-                  "text": "Theatre in Kanggye.",
+                  "text": "Haebangwon Theatre is a cultural venue in central Kanggye.",
                   "category": "cultural",
                   "coords": [
                         126.602118,
@@ -1587,7 +2019,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Water Park",
-                  "text": "Water park in Kanggye.",
+                  "text": "Kanggye Water Park offers slides and pools for family fun.",
                   "category": "family",
                   "coords": [
                         126.595677,
@@ -1596,7 +2028,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Theatre",
-                  "text": "Theatre in Kanggye.",
+                  "text": "Kanggye Theatre is the main performance venue in the city.",
                   "category": "cultural",
                   "coords": [
                         126.586105,
@@ -1605,7 +2037,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kanggye Zoo",
-                  "text": "Zoo in Kanggye.",
+                  "text": "Kanggye Zoo houses animals from around the world.",
                   "category": "family",
                   "coords": [
                         126.574067,
@@ -1614,7 +2046,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yonphung Revolutionary Site",
-                  "text": "Museum in Kanggye.",
+                  "text": "Yonphung Revolutionary Site is a museum about revolutionary history in Kanggye.",
                   "category": "museum",
                   "coords": [
                         126.598377,
@@ -1623,7 +2055,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Il-Sung and Kim Jong-Il Monuments",
-                  "text": "Monument in Kanggye.",
+                  "text": "The Kim Il-Sung and Kim Jong-Il Monuments stand in Kanggye in honor of the two leaders.",
                   "category": "historical",
                   "coords": [
                         126.59436,
@@ -1632,7 +2064,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Inphung Pavilion",
-                  "text": "Attraction in Kanggye.",
+                  "text": "Inphung Pavilion offers scenic views over Kanggye.",
                   "category": "landmark",
                   "coords": [
                         126.587597,
@@ -1732,7 +2164,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tokchon City Theatre",
-                  "text": "Das Tokchon City Theatre ist ein Theater in Tŏkch'ŏn.",
+                  "text": "Das Tokchon-Stadttheater ist das kulturelle Zentrum von Tokchon.",
                   "category": "cultural",
                   "coords": [
                         126.303223,
@@ -1743,7 +2175,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tokchon City Theatre",
-                  "text": "A Tokchon City Theatre egy színház Tŏkch'ŏn városában.",
+                  "text": "A Tokchon Városi Színház Tokchon kulturális központja.",
                   "category": "cultural",
                   "coords": [
                         126.303223,
@@ -1754,7 +2186,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tokchon City Theatre",
-                  "text": "Tokchon City Theatre este un teatru în Tŏkch'ŏn.",
+                  "text": "Teatrul Municipal Tokchon este centrul cultural al orașului Tokchon.",
                   "category": "cultural",
                   "coords": [
                         126.303223,
@@ -1765,7 +2197,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tokchon City Theatre",
-                  "text": "Tokchon City Theatre is a theatre in Tŏkch'ŏn.",
+                  "text": "Tokchon City Theatre is the cultural hub of Tokchon.",
                   "category": "cultural",
                   "coords": [
                         126.303223,
@@ -1817,7 +2249,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kp-kimchaek-cities-v2",
+    id: "kp-kimchaek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kimchaek Market",
+                  "text": "Der Markt von Kimchaek ist ein wichtiger kommerzieller Treffpunkt in der Industriestadt und erleichtert den lokalen Austausch von Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        129.181451,
+                        40.673271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kimchaek Market",
+                  "text": "A Kimchaek piac egy fontos kereskedelmi gyülekezőhely az iparvárosban, amely megkönnyíti a mindennapi áruk helyi cseréjét.",
+                  "category": "cultural",
+                  "coords": [
+                        129.181451,
+                        40.673271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kimchaek Market",
+                  "text": "Piața Kimchaek este un important spațiu de adunare comercială în orașul industrial, facilitând schimbul local de mărfuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        129.181451,
+                        40.673271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kimchaek Market",
+                  "text": "Kimchaek Market is an important commercial gathering space in the industrial city, facilitating the local exchange of daily commodities.",
+                  "category": "cultural",
+                  "coords": [
+                        129.181451,
+                        40.673271
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-09",
     coords: [129.1978, 40.6694],
@@ -1865,7 +2342,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Art Gallery",
-                  "text": "Art Gallery ist ein Museum in Rasŏn.",
+                  "text": "Die Kunstgalerie in Rason zeigt lokale und nationale Kunst.",
                   "category": "museum",
                   "coords": [
                         130.296132,
@@ -1876,7 +2353,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Art Gallery",
-                  "text": "Az Art Gallery egy múzeum Rasŏn városában.",
+                  "text": "A Rasoni Művészeti Galéria helyi és országos művészeti alkotásokat állít ki.",
                   "category": "museum",
                   "coords": [
                         130.296132,
@@ -1887,7 +2364,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Art Gallery",
-                  "text": "Art Gallery este un muzeu situat în Rasŏn.",
+                  "text": "Galeria de Artă din Rason expune artă locală și națională.",
                   "category": "museum",
                   "coords": [
                         130.296132,
@@ -1898,7 +2375,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Art Gallery",
-                  "text": "Art Gallery is a museum located in Rasŏn.",
+                  "text": "The Art Gallery in Rason exhibits local and national art.",
                   "category": "museum",
                   "coords": [
                         130.296132,
@@ -1994,7 +2471,196 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-hyesan-cities-v2",
+    id: "kp-hyesan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "Ein offizieller Grenzpunkt am Fluss Amnok, der die Grenze zwischen Hyesan und der chinesischen Stadt Changbai markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        128.174927,
+                        41.407049
+                  ]
+            },
+            {
+                  "name": "Hyesan Jinseong",
+                  "text": "Eine archäologische Stätte, die Überreste einer alten Festung am strategischen Ufer des Amnok-Flusses zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        128.177897,
+                        41.40584
+                  ]
+            },
+            {
+                  "name": "Ryanggang Province Kim Jeong-suk Arts Theater",
+                  "text": "Ein großes Theatergebäude in Hyesan, das für Musik- und Tanzaufführungen zu Ehren der Geschichte der Region genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        128.173455,
+                        41.404834
+                  ]
+            },
+            {
+                  "name": "Monument to the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "Zwei monumentale Bronzestatuen von Kim Il-sung und Kim Jong-il, die auf einem Hügel über der Stadt Hyesan stehen.",
+                  "category": "historical",
+                  "coords": [
+                        128.177314,
+                        41.403078
+                  ]
+            },
+            {
+                  "name": "Hyesan Market",
+                  "text": "Ein geschäftiger Grenzhundelmarkt in Hyesan, wo Waren über den schmalen Fluss Amnok gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        128.164488,
+                        41.398844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "Hivatalos határpont az Amnok-folyónál, amely Hjeszan és a kínai Csangbaj városa közötti határt jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        128.174927,
+                        41.407049
+                  ]
+            },
+            {
+                  "name": "Hyesan Jinseong",
+                  "text": "Régészeti lelőhely, amely egy egykori erődítmény maradványait mutatja be az Amnok-folyó stratégiai partján.",
+                  "category": "historical",
+                  "coords": [
+                        128.177897,
+                        41.40584
+                  ]
+            },
+            {
+                  "name": "Ryanggang Province Kim Jeong-suk Arts Theater",
+                  "text": "Hjeszan nagyméretű színházépülete, amely a régió történelme előtt tisztelgő zenei és táncelőadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        128.173455,
+                        41.404834
+                  ]
+            },
+            {
+                  "name": "Monument to the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "Kim Ir Szen és Kim Dzsongil két monumentális bronzszobra, amelyek a Hjeszan városára néző dombon állnak.",
+                  "category": "historical",
+                  "coords": [
+                        128.177314,
+                        41.403078
+                  ]
+            },
+            {
+                  "name": "Hyesan Market",
+                  "text": "Hjeszan nyüzsgő határmenti piaca, ahol az árucsere a keskeny Amnok-folyón keresztül zajlik.",
+                  "category": "cultural",
+                  "coords": [
+                        128.164488,
+                        41.398844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "Un punct de frontieră oficial pe râul Amnok, care marchează granița dintre Hyesan și orașul chinez Changbai.",
+                  "category": "landmark",
+                  "coords": [
+                        128.174927,
+                        41.407049
+                  ]
+            },
+            {
+                  "name": "Hyesan Jinseong",
+                  "text": "Un sit arheologic care prezintă vestigiile unei vechi fortărețe pe malul strategic al râului Amnok.",
+                  "category": "historical",
+                  "coords": [
+                        128.177897,
+                        41.40584
+                  ]
+            },
+            {
+                  "name": "Ryanggang Province Kim Jeong-suk Arts Theater",
+                  "text": "O clădire mare de teatru din Hyesan, utilizată pentru spectacole de muzică și dans care onorează istoria regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        128.173455,
+                        41.404834
+                  ]
+            },
+            {
+                  "name": "Monument to the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "Două statui monumentale de bronz ale lui Kim Il-sung și Kim Jong-il, situate pe un deal care domină orașul Hyesan.",
+                  "category": "historical",
+                  "coords": [
+                        128.177314,
+                        41.403078
+                  ]
+            },
+            {
+                  "name": "Hyesan Market",
+                  "text": "O piață de frontieră aglomerată în Hyesan, unde mărfurile sunt tranzacționate peste râul îngust Amnok.",
+                  "category": "cultural",
+                  "coords": [
+                        128.164488,
+                        41.398844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sino-Korean Border Point",
+                  "text": "An official border point on the Amnok River, marking the boundary between Hyesan and the Chinese city of Changbai.",
+                  "category": "landmark",
+                  "coords": [
+                        128.174927,
+                        41.407049
+                  ]
+            },
+            {
+                  "name": "Hyesan Jinseong",
+                  "text": "An archaeological site showing the remains of an ancient fortress on the strategic banks of the Amnok River.",
+                  "category": "historical",
+                  "coords": [
+                        128.177897,
+                        41.40584
+                  ]
+            },
+            {
+                  "name": "Ryanggang Province Kim Jeong-suk Arts Theater",
+                  "text": "A large theater building in Hyesan used for music and dance performances honoring the region's history.",
+                  "category": "cultural",
+                  "coords": [
+                        128.173455,
+                        41.404834
+                  ]
+            },
+            {
+                  "name": "Monument to the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "Two monumental bronze statues of Kim Il-sung and Kim Jong-il, standing on a hill overlooking the city of Hyesan.",
+                  "category": "historical",
+                  "coords": [
+                        128.177314,
+                        41.403078
+                  ]
+            },
+            {
+                  "name": "Hyesan Market",
+                  "text": "A busy border trade market in Hyesan, where goods are traded across the narrow Amnok River.",
+                  "category": "cultural",
+                  "coords": [
+                        128.164488,
+                        41.398844
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-10",
     coords: [128.1758, 41.4014],
@@ -2394,7 +3060,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Samjiyon Revolutionary Museum",
-                  "text": "Historisches Museum in Samjiyŏn.",
+                  "text": "Das Revolutionsgeschichtliche Museum Samjiyon beschreibt die revolutionäre Vergangenheit von Samjiyon.",
                   "category": "museum",
                   "coords": [
                         128.341799,
@@ -2403,7 +3069,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Great Comrade Kim Il Sung",
-                  "text": "Denkmal in Samjiyŏn.",
+                  "text": "Bronzestatue von Kim Il-sung in Samjiyon am Fuße des Paektu-Berges.",
                   "category": "historical",
                   "coords": [
                         128.338167,
@@ -2412,7 +3078,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pegaebong Secret Camp Revolutionary Site",
-                  "text": "Historische Stätte in Samjiyŏn.",
+                  "text": "Das geheime Lager Pillow Bong ist ein historisches Revolutionsversteck nahe Samjiyon.",
                   "category": "landmark",
                   "coords": [
                         128.304899,
@@ -2423,7 +3089,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Samjiyon Revolutionary Museum",
-                  "text": "Történeti múzeum Samjiyŏnban.",
+                  "text": "A Samjiyoni Forradalmi Történeti Múzeum Samjiyon forradalmi múltját mutatja be.",
                   "category": "museum",
                   "coords": [
                         128.341799,
@@ -2432,7 +3098,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Great Comrade Kim Il Sung",
-                  "text": "Emlékmű Samjiyŏnban.",
+                  "text": "Kim Ir Szen bronzszobra Szamdzsijonban a Pekdu-hegy lábánál.",
                   "category": "historical",
                   "coords": [
                         128.338167,
@@ -2441,7 +3107,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pegaebong Secret Camp Revolutionary Site",
-                  "text": "Történelmi emlékhely Samjiyŏnban.",
+                  "text": "A Pillow Bong Titkos Tábor egy forradalmi rejtekhely Samjiyon közelében.",
                   "category": "landmark",
                   "coords": [
                         128.304899,
@@ -2452,7 +3118,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Samjiyon Revolutionary Museum",
-                  "text": "Muzeu istoric în Samjiyŏn.",
+                  "text": "Muzeul de Istorie Revoluționară Samjiyon detaliază trecutul revoluționar al orașului Samjiyon.",
                   "category": "museum",
                   "coords": [
                         128.341799,
@@ -2461,7 +3127,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Great Comrade Kim Il Sung",
-                  "text": "Monument în Samjiyŏn.",
+                  "text": "Statuia de bronz a lui Kim Ir Sen în Samjiyon la poalele muntelui Paektu.",
                   "category": "historical",
                   "coords": [
                         128.338167,
@@ -2470,7 +3136,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pegaebong Secret Camp Revolutionary Site",
-                  "text": "Loc istoric în Samjiyŏn.",
+                  "text": "Tabăra Secretă Pillow Bong este un ascunzătoare istorică revoluționară lângă Samjiyon.",
                   "category": "landmark",
                   "coords": [
                         128.304899,
@@ -2481,7 +3147,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Samjiyon Revolutionary Historical Museum",
-                  "text": "Historical museum in Samjiyŏn.",
+                  "text": "Samjiyon Revolutionary Historical Museum details the revolutionary past of Samjiyon.",
                   "category": "museum",
                   "coords": [
                         128.341799,
@@ -2490,7 +3156,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Great Comrade Kim Il Sung",
-                  "text": "Monument in Samjiyŏn.",
+                  "text": "Bronze statue of Kim Il Sung in Samjiyon at the foot of Mount Paektu.",
                   "category": "historical",
                   "coords": [
                         128.338167,
@@ -2499,7 +3165,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
-                  "text": "Historic site in Samjiyŏn.",
+                  "text": "Pillow Bong Secret Camp is a historic revolutionary hideout near Samjiyon.",
                   "category": "landmark",
                   "coords": [
                         128.304899,

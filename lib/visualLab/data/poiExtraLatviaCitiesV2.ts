@@ -691,7 +691,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Breseskalns",
-                  "text": "Eine archäologische Fundstätte in der Region Madona.",
+                  "text": "Ein alter Burgberg bei Madona mit historischer Bedeutung.",
                   "category": "historical",
                   "coords": [
                         26.238423,
@@ -709,7 +709,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novadpētniecības un mākslas muzejs",
-                  "text": "Regionalmuseum für Geschichte und Kunst in Madona.",
+                  "text": "Ein Museum für Heimatkunde und Kunst in Madona.",
                   "category": "museum",
                   "coords": [
                         26.210321,
@@ -718,7 +718,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novada kultūras centrs",
-                  "text": "Ein Zentrum für kulturelle Veranstaltungen in Madona.",
+                  "text": "Das wichtigste Kulturzentrum in Madona mit Veranstaltungen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         26.217381,
@@ -826,7 +826,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Peldvieta",
-                  "text": "Ein Schwimmbecken in Madona für die sommerliche Erholung.",
+                  "text": "Ein beliebter Badeplatz an einem See bei Madona.",
                   "category": "recreational",
                   "coords": [
                         26.220482,
@@ -837,7 +837,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Breseskalns",
-                  "text": "Régészeti lelőhely Madona régiójában.",
+                  "text": "Egy ősi földvár Madona közelében, történelmi jelentőséggel.",
                   "category": "historical",
                   "coords": [
                         26.238423,
@@ -855,7 +855,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novadpētniecības un mākslas muzejs",
-                  "text": "Madona regionális történelmi és művészeti múzeuma.",
+                  "text": "Helytörténeti és művészeti múzeum Madonában.",
                   "category": "museum",
                   "coords": [
                         26.210321,
@@ -864,7 +864,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novada kultūras centrs",
-                  "text": "Kulturális rendezvények központja Madonában.",
+                  "text": "A madonai kultúra központja, rendezvényekkel és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         26.217381,
@@ -972,7 +972,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Peldvieta",
-                  "text": "Úszómedence Madonában a nyári kikapcsolódáshoz.",
+                  "text": "Egy népszerű fürdőhely egy tónál Madona közelében.",
                   "category": "recreational",
                   "coords": [
                         26.220482,
@@ -983,7 +983,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Breseskalns",
-                  "text": "Un sit arheologic situat în regiunea Madona.",
+                  "text": "O fortificație antică pe deal lângă Madona, cu semnificație istorică.",
                   "category": "historical",
                   "coords": [
                         26.238423,
@@ -1001,7 +1001,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novadpētniecības un mākslas muzejs",
-                  "text": "Muzeul regional de istorie și artă din Madona.",
+                  "text": "Un muzeu de istorie locală și artă în Madona.",
                   "category": "museum",
                   "coords": [
                         26.210321,
@@ -1010,7 +1010,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novada kultūras centrs",
-                  "text": "Un centru pentru evenimente culturale în Madona.",
+                  "text": "Centrul cultural principal din Madona, care găzduiește evenimente și expoziții.",
                   "category": "cultural",
                   "coords": [
                         26.217381,
@@ -1118,7 +1118,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Peldvieta",
-                  "text": "O piscină în Madona pentru recreere pe timp de vară.",
+                  "text": "Un loc popular de înot pe un lac lângă Madona.",
                   "category": "recreational",
                   "coords": [
                         26.220482,
@@ -1129,7 +1129,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Breseskalns",
-                  "text": "An archaeological site located in the Madona region.",
+                  "text": "An ancient hillfort near Madona, with historical significance.",
                   "category": "historical",
                   "coords": [
                         26.238423,
@@ -1147,7 +1147,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novadpētniecības un mākslas muzejs",
-                  "text": "Regional museum of history and art in Madona.",
+                  "text": "A museum of local history and art in Madona.",
                   "category": "museum",
                   "coords": [
                         26.210321,
@@ -1156,7 +1156,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Madonas novada kultūras centrs",
-                  "text": "A center for cultural events in Madona.",
+                  "text": "The main cultural center in Madona, hosting events and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         26.217381,
@@ -1264,7 +1264,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Peldvieta",
-                  "text": "A swimming pool in Madona used for summer recreation.",
+                  "text": "A popular swimming spot on a lake near Madona.",
                   "category": "recreational",
                   "coords": [
                         26.220482,
@@ -1420,7 +1420,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pauguļu ezers",
-                  "text": "Der Pauguļu ezers in Ludza ist ein Natursee, der sich hervorragend für eine Auszeit im Grünen eignet.",
+                  "text": "Ein malerischer See bei Ludza, von Wäldern umgeben.",
                   "category": "natural",
                   "coords": [
                         27.6646,
@@ -1584,7 +1584,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pauguļu ezers",
-                  "text": "A Pauguļu ezers Ludza területén egy természetes tó, amely kiváló a zöldben való kikapcsolódáshoz.",
+                  "text": "Egy festői tó Ludza közelében, erdőkkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         27.6646,
@@ -1748,7 +1748,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pauguļu ezers",
-                  "text": "Pauguļu ezers din Ludza este un lac natural, excelent pentru o pauză în mijlocul naturii.",
+                  "text": "Un lac pitoresc lângă Ludza, înconjurat de păduri.",
                   "category": "natural",
                   "coords": [
                         27.6646,
@@ -1912,7 +1912,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pauguļu ezers",
-                  "text": "Pauguļu ezers in Ludza is a natural lake, great for a break in the greenery.",
+                  "text": "A scenic lake near Ludza, surrounded by forests.",
                   "category": "natural",
                   "coords": [
                         27.6646,
@@ -2068,7 +2068,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kapelle St. Georg",
-                  "text": "Eine dem heiligen Georg gewidmete Kapelle in Jēkabpils.",
+                  "text": "Heritage-geschützte St.-Georgs-Kapelle in Krustpils.",
                   "category": "religious",
                   "coords": [
                         25.860568,
@@ -2133,7 +2133,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Svētā Georga kapella",
-                  "text": "Szent Györgynek szentelt kápolna Jēkabpils városában.",
+                  "text": "Örökségvédelmi Szent György-kápolna Krustpilsben.",
                   "category": "religious",
                   "coords": [
                         25.860568,
@@ -2198,7 +2198,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Svētā Georga kapella",
-                  "text": "O capelă dedicată Sfântului Gheorghe din Jēkabpils.",
+                  "text": "Capela Sf. Gheorghe protejată de patrimoniu în Krustpils.",
                   "category": "religious",
                   "coords": [
                         25.860568,
@@ -2263,7 +2263,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Svētā Georga kapella",
-                  "text": "A chapel dedicated to Saint George in Jēkabpils.",
+                  "text": "Heritage-listed St. George's Chapel in Krustpils.",
                   "category": "religious",
                   "coords": [
                         25.860568,
@@ -2356,7 +2356,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vikmestes pilskalns",
-                  "text": "Eine archäologische Stätte auf einem ehemaligen Burgberg.",
+                  "text": "Heritage-geschützter alter Burgberg in Siguldas Pilseta.",
                   "category": "historical",
                   "coords": [
                         24.828723,
@@ -2374,7 +2374,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krusta kalna pilskalns",
-                  "text": "Ein historischer Hügel mit archäologischer Bedeutung.",
+                  "text": "Ein alter Burgberg auf dem Kreuzberg in Sigulda.",
                   "category": "historical",
                   "coords": [
                         24.848331,
@@ -2437,7 +2437,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas panorāmas rats",
-                  "text": "Ein Riesenrad, das einen Panoramablick auf Sigulda bietet.",
+                  "text": "Am 11. September 1974 eröffnetes Riesenrad in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.843564,
@@ -2446,7 +2446,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kraukļu aiza",
-                  "text": "Eine geologische Formation, bekannt als Rabenschlucht.",
+                  "text": "Eine Sandsteinschlucht in Sigulda, bekannt für ihre Felsformationen.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
@@ -2464,7 +2464,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ķeizarkrēsls",
-                  "text": "Ein historischer Aussichtsplatz, bekannt als Kaiserstuhl.",
+                  "text": "Eine Felsformation namens Kaisersessel im Tal der Gauja.",
                   "category": "landmark",
                   "coords": [
                         24.823627,
@@ -2500,7 +2500,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Satezeles kanjons",
-                  "text": "Eine kleine, malerische Schlucht in der Region Sigulda.",
+                  "text": "Eine Schlucht des Flusses Satezele bei Sigulda mit steilen Sandsteinwänden.",
                   "category": "landmark",
                   "coords": [
                         24.868609,
@@ -2527,7 +2527,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dzintaru darbnīca",
-                  "text": "Eine Werkstatt, in der die Verarbeitung von Bernstein gezeigt wird.",
+                  "text": "Eine Werkstatt, in der Bernstein-Schmuck gefertigt wird, bei Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
@@ -2536,7 +2536,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradīzes kalns",
-                  "text": "Ein beliebter Aussichtspunkt, bekannt für seine weite Fernsicht.",
+                  "text": "Ein Hügel mit Panoramablick auf das Gauja-Tal und Sigulda.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -2545,7 +2545,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Ein Kulturzentrum und Konzerthaus in Sigulda.",
+                  "text": "Ein Konzertsaal mit einem markanten weißen Flügel-Design in Sigulda.",
                   "category": "cultural",
                   "coords": [
                         24.844732,
@@ -2554,7 +2554,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mīlas Beka",
-                  "text": "Ein romantischer Aussichtspunkt in der Nähe von Sigulda.",
+                  "text": "Ein kleiner Bach in Sigulda, bekannt als Liebesbach.",
                   "category": "natural",
                   "coords": [
                         24.841454,
@@ -2563,7 +2563,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Ein Kletterwald und Abenteuerpark im Freien.",
+                  "text": "Ein Abenteuerpark mit Seilrutschen und Hindernisparcours im Wald bei Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.8291,
@@ -2572,7 +2572,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "Der Standort einer ehemaligen Skisprungschanze in Sigulda.",
+                  "text": "Ein ehemaliger Skisprunghügel in Sigulda, heute als Aussichtspunkt genutzt.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -2590,7 +2590,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kājnieku tilts",
-                  "text": "Eine Fußgängerbrücke über den Fluss Gauja.",
+                  "text": "Eine Fußgängerbrücke über die Gauja in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.807073,
@@ -2599,7 +2599,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Komplex neue Burg von Sigulda",
-                  "text": "Das historische Areal rund um das Neue Schloss Sigulda.",
+                  "text": "Ein Ensemble aus dem Neuen Schloss des 19. Jahrhunderts und seinem Park in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -2617,7 +2617,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas Katoļu baznīca",
-                  "text": "Eine katholische Kirche in Sigulda.",
+                  "text": "Moderne katholische Kirche in Sigulda in der Nähe des Gauja-Flusstals.",
                   "category": "religious",
                   "coords": [
                         24.857003,
@@ -2763,7 +2763,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vikmestes pilskalns",
-                  "text": "Régészeti lelőhely egy egykori várhegyen.",
+                  "text": "Örökségvédelmi ősi várdomb Siguldas Pilsetában.",
                   "category": "historical",
                   "coords": [
                         24.828723,
@@ -2781,7 +2781,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krusta kalna pilskalns",
-                  "text": "Történelmi domb régészeti jelentőséggel.",
+                  "text": "Egy ősi földvár a Kereszt-hegyen Siguldában.",
                   "category": "historical",
                   "coords": [
                         24.848331,
@@ -2844,7 +2844,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas panorāmas rats",
-                  "text": "Óriáskerék, amely panorámás kilátást nyújt Siguldára.",
+                  "text": "1974. szeptember 11-én megnyílt óriáskerék Siguldában.",
                   "category": "landmark",
                   "coords": [
                         24.843564,
@@ -2853,7 +2853,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kraukļu aiza",
-                  "text": "Holló-szurdokként ismert geológiai képződmény.",
+                  "text": "Egy homokkő-szakadék Siguldában, sziklaformációiról ismert.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
@@ -2871,7 +2871,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ķeizarkrēsls",
-                  "text": "Történelmi kilátóhely, amelyet Császárszéknek neveznek.",
+                  "text": "Egy sziklaformáció, a Császár-szék a Gauja folyó völgyében.",
                   "category": "landmark",
                   "coords": [
                         24.823627,
@@ -2907,7 +2907,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Satezeles kanjons",
-                  "text": "Egy kis, festői szurdok Sigulda régiójában.",
+                  "text": "A Satezele-folyó kanyonja Sigulda közelében, meredek homokkőfalakkal.",
                   "category": "landmark",
                   "coords": [
                         24.868609,
@@ -2934,7 +2934,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dzintaru darbnīca",
-                  "text": "Műhely, ahol a borostyán feldolgozását mutatják be.",
+                  "text": "Egy műhely, ahol borostyán ékszereket készítenek, Sigulda közelében.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
@@ -2943,7 +2943,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradīzes kalns",
-                  "text": "Népszerű kilátóhely, amely széles körpanorámájáról ismert.",
+                  "text": "Egy domb, panorámás kilátással a Gauja-völgyre és Siguldára.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -2952,7 +2952,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Kulturális központ és hangversenyterem Siguldában.",
+                  "text": "Egy hangversenyterem, jellegzetes fehér zongora formával Siguldában.",
                   "category": "cultural",
                   "coords": [
                         24.844732,
@@ -2961,7 +2961,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mīlas Beka",
-                  "text": "Romantikus kilátóhely Sigulda közelében.",
+                  "text": "Egy kis patak Siguldában, ismert mint a Szerelem-patak.",
                   "category": "natural",
                   "coords": [
                         24.841454,
@@ -2970,7 +2970,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Szabadtéri kötélpálya- és kalandpark.",
+                  "text": "Egy kalandpark, kötélpályákkal és akadálypályákkal az erdőben Sigulda közelében.",
                   "category": "landmark",
                   "coords": [
                         24.8291,
@@ -2979,7 +2979,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "Egy egykori síugró sánc helyszíne Siguldában.",
+                  "text": "Egy egykori síugró domb Siguldában, ma kilátóként használják.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -2997,7 +2997,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kājnieku tilts",
-                  "text": "Gyalogoshíd a Gauja folyó felett.",
+                  "text": "Egy gyalogos híd a Gauja folyón Siguldában.",
                   "category": "landmark",
                   "coords": [
                         24.807073,
@@ -3006,7 +3006,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunās pils komplekss",
-                  "text": "A siguldai új kastély körüli történelmi terület.",
+                  "text": "Egy komplexum, amely a 19. századi Új kastélyt és parkját foglalja magában Siguldában.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -3024,7 +3024,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas Katoļu baznīca",
-                  "text": "Katolikus templom Sigulda városában.",
+                  "text": "Modern katolikus templom Siguldában, a Gauja folyó völgyének közelében.",
                   "category": "religious",
                   "coords": [
                         24.857003,
@@ -3170,7 +3170,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vikmestes pilskalns",
-                  "text": "Un sit arheologic situat pe o fostă colină fortificată.",
+                  "text": "Movilă de fortăreață străveche protejată de patrimoniu în Siguldas Pilseta.",
                   "category": "historical",
                   "coords": [
                         24.828723,
@@ -3188,7 +3188,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krusta kalna pilskalns",
-                  "text": "O colină istorică cu semnificație arheologică.",
+                  "text": "O fortificație antică pe Dealul Crucii din Sigulda.",
                   "category": "historical",
                   "coords": [
                         24.848331,
@@ -3251,7 +3251,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas panorāmas rats",
-                  "text": "O roată panoramică ce oferă vederi asupra orașului Sigulda.",
+                  "text": "Roata mare deschisă pe 11 septembrie 1974 în Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.843564,
@@ -3260,7 +3260,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kraukļu aiza",
-                  "text": "O formațiune geologică cunoscută sub numele de Râpa Corbilor.",
+                  "text": "O ravenă de gresie în Sigulda, cunoscută pentru formațiunile sale de stâncă.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
@@ -3278,7 +3278,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ķeizarkrēsls",
-                  "text": "Un loc istoric de belvedere, cunoscut sub numele de Scaunul Împăratului.",
+                  "text": "O formațiune stâncoasă numită Scaunul Împăratului în valea râului Gauja.",
                   "category": "landmark",
                   "coords": [
                         24.823627,
@@ -3314,7 +3314,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Satezeles kanjons",
-                  "text": "Un mic canion pitoresc situat în regiunea Sigulda.",
+                  "text": "Un canion al râului Satezele lângă Sigulda, cu pereți abrupți de gresie.",
                   "category": "landmark",
                   "coords": [
                         24.868609,
@@ -3341,7 +3341,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dzintaru darbnīca",
-                  "text": "Un atelier unde este prezentată prelucrarea chihlimbarului.",
+                  "text": "Un atelier unde se confecționează bijuterii din chihlimbar, lângă Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
@@ -3350,7 +3350,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradīzes kalns",
-                  "text": "Un punct de belvedere popular, cunoscut pentru vederile sale largi.",
+                  "text": "Un deal care oferă vederi panoramice asupra văii Gauja și a orașului Sigulda.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -3359,7 +3359,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Un centru cultural și sală de concerte în Sigulda.",
+                  "text": "O sală de concerte cu un design distinctiv de pian alb în Sigulda.",
                   "category": "cultural",
                   "coords": [
                         24.844732,
@@ -3368,7 +3368,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mīlas Beka",
-                  "text": "Un punct de belvedere romantic situat lângă Sigulda.",
+                  "text": "Un pârâu mic în Sigulda, cunoscut sub numele de Pârâul Iubirii.",
                   "category": "natural",
                   "coords": [
                         24.841454,
@@ -3377,7 +3377,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Un parc de aventură în aer liber cu trasee de cățărare.",
+                  "text": "Un parc de aventuri cu tiroliane și trasee cu obstacole în pădurea de lângă Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.8291,
@@ -3386,7 +3386,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "Locul unei foste trambuline de sărituri cu schiurile în Sigulda.",
+                  "text": "Un deal fost de sărituri cu schiurile în Sigulda, acum folosit ca punct de belvedere.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -3404,7 +3404,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kājnieku tilts",
-                  "text": "Un pod pietonal peste râul Gauja.",
+                  "text": "Un pod pietonal peste râul Gauja în Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.807073,
@@ -3413,7 +3413,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunās pils komplekss",
-                  "text": "Complexul istoric din jurul Noului Castel din Sigulda.",
+                  "text": "Un complex care include Castelul Nou din secolul al XIX-lea și parcul său din Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -3431,7 +3431,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas Katoļu baznīca",
-                  "text": "O biserică catolică din Sigulda.",
+                  "text": "Biserică catolică modernă în Sigulda, aproape de valea râului Gauja.",
                   "category": "religious",
                   "coords": [
                         24.857003,
@@ -3577,7 +3577,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vikmestes pilskalns",
-                  "text": "An archaeological site located on a former hillfort.",
+                  "text": "Heritage-listed ancient hillfort in Siguldas Pilseta.",
                   "category": "historical",
                   "coords": [
                         24.828723,
@@ -3595,7 +3595,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Krusta kalna pilskalns",
-                  "text": "A historic hill with archaeological significance.",
+                  "text": "An ancient hillfort on Cross Hill in Sigulda.",
                   "category": "historical",
                   "coords": [
                         24.848331,
@@ -3658,7 +3658,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Sigulda Ferris wheel",
-                  "text": "A Ferris wheel offering panoramic views of Sigulda.",
+                  "text": "Ferris wheel opened on 11 September 1974 in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.843564,
@@ -3667,7 +3667,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kraukļu aiza",
-                  "text": "A geological formation known as the Raven's Ravine.",
+                  "text": "A sandstone ravine in Sigulda, known for its rock formations.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
@@ -3685,7 +3685,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ķeizarkrēsls",
-                  "text": "A historic viewpoint known as the Emperor's Chair.",
+                  "text": "A rock formation called Emperor's Chair in the Gauja River valley.",
                   "category": "landmark",
                   "coords": [
                         24.823627,
@@ -3721,7 +3721,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Satezeles kanjons",
-                  "text": "A small, scenic canyon in the Sigulda region.",
+                  "text": "A canyon of the Satezele River near Sigulda, with steep sandstone walls.",
                   "category": "landmark",
                   "coords": [
                         24.868609,
@@ -3748,7 +3748,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dzintaru darbnīca",
-                  "text": "A workshop showcasing the processing of amber.",
+                  "text": "A workshop where amber jewelry is crafted, near Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
@@ -3757,7 +3757,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradise hill",
-                  "text": "A popular viewpoint known for its expansive vistas.",
+                  "text": "A hill offering panoramic views of the Gauja valley and Sigulda.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -3766,7 +3766,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "A cultural center and concert hall in Sigulda.",
+                  "text": "A concert hall with a distinctive white grand piano design in Sigulda.",
                   "category": "cultural",
                   "coords": [
                         24.844732,
@@ -3775,7 +3775,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mīlas Beka",
-                  "text": "A romantic viewpoint located near Sigulda.",
+                  "text": "A small stream in Sigulda, known as the Love Stream.",
                   "category": "natural",
                   "coords": [
                         24.841454,
@@ -3784,7 +3784,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "An outdoor rope course and adventure park.",
+                  "text": "An adventure park with zip lines and obstacle courses in the forest near Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.8291,
@@ -3793,7 +3793,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "The site of a former ski jumping hill in Sigulda.",
+                  "text": "A former ski jump hill in Sigulda, now used as a viewpoint.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -3811,7 +3811,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kājnieku tilts",
-                  "text": "A pedestrian bridge crossing the Gauja river.",
+                  "text": "A pedestrian bridge crossing the Gauja River in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.807073,
@@ -3820,7 +3820,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Complex of Sigulda New Castle",
-                  "text": "The historic area surrounding the Sigulda New Castle.",
+                  "text": "A complex including the 19th-century New Castle and its park in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -3838,7 +3838,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Siguldas Katoļu baznīca",
-                  "text": "A Catholic church located in Sigulda.",
+                  "text": "Modern Catholic church in Sigulda near the Gauja River valley.",
                   "category": "religious",
                   "coords": [
                         24.857003,
@@ -4021,7 +4021,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mākslinieku dārzs",
-                  "text": "„Garten der Künstler“ in Vangaži, ein malerischer Außenbereich.",
+                  "text": "Ein Künstlergarten in Vangaži mit Skulpturen und Grünanlagen.",
                   "category": "landmark",
                   "coords": [
                         24.583973,
@@ -4059,7 +4059,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mākslinieku dārzs",
-                  "text": "„Művészek kertje” Vangažiban, egy festői szabadtéri terület.",
+                  "text": "Egy művészkert Vangažiban, szobrokkal és növényzettel.",
                   "category": "landmark",
                   "coords": [
                         24.583973,
@@ -4097,7 +4097,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mākslinieku dārzs",
-                  "text": "„Grădina Artiștilor” din Vangaži, o zonă pitorească în aer liber.",
+                  "text": "O grădină a artiștilor în Vangaži, cu sculpturi și verdeață.",
                   "category": "landmark",
                   "coords": [
                         24.583973,
@@ -4135,7 +4135,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Mākslinieku dārzs",
-                  "text": "\"Artists' Garden\" in Vangaži, a scenic outdoor area.",
+                  "text": "An artists' garden in Vangaži with sculptures and greenery.",
                   "category": "landmark",
                   "coords": [
                         24.583973,
@@ -4471,7 +4471,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Burg Sesswegen",
-                  "text": "Überreste einer mittelalterlichen Burg in Cesvaine.",
+                  "text": "Neugotisches Schloss auf den Grundmauern einer mittelalterlichen Burg in Cesvaine.",
                   "category": "castle",
                   "coords": [
                         26.312058,
@@ -4489,7 +4489,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Smēdes Nams",
-                  "text": "Ein Museum in Cesvaine.",
+                  "text": "Ein Museum in einem historischen Schmiedehaus in Cesvaine.",
                   "category": "museum",
                   "coords": [
                         26.308812,
@@ -4527,7 +4527,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cesvaines viduslaiku pils",
-                  "text": "Középkori várromok Cesvaine településen.",
+                  "text": "Neogótikus kastély egy középkori vár alapjain Cesvaine-ben.",
                   "category": "castle",
                   "coords": [
                         26.312058,
@@ -4545,7 +4545,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Smēdes Nams",
-                  "text": "Múzeum Cesvaine városában.",
+                  "text": "Egy múzeum egy történelmi kovácsházban Cesvainében.",
                   "category": "museum",
                   "coords": [
                         26.308812,
@@ -4583,7 +4583,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cesvaines viduslaiku pils",
-                  "text": "Ruinele unui castel medieval în Cesvaine.",
+                  "text": "Castel neogotic pe fundațiile unui castel medieval în Cesvaine.",
                   "category": "castle",
                   "coords": [
                         26.312058,
@@ -4601,7 +4601,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Smēdes Nams",
-                  "text": "Un muzeu în Cesvaine.",
+                  "text": "Un muzeu într-o casă istorică de fierar în Cesvaine.",
                   "category": "museum",
                   "coords": [
                         26.308812,
@@ -4639,7 +4639,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cesvaine Castle",
-                  "text": "The ruins of a medieval castle in Cesvaine.",
+                  "text": "Neo-Gothic palace on the foundations of a medieval castle in Cesvaine.",
                   "category": "castle",
                   "coords": [
                         26.312058,
@@ -4657,7 +4657,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Smēdes Nams",
-                  "text": "A museum located in Cesvaine.",
+                  "text": "A museum in a historic blacksmith's house in Cesvaine.",
                   "category": "museum",
                   "coords": [
                         26.308812,
@@ -5029,7 +5029,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dabas Parks „Dvietes paliene\"",
-                  "text": "Ein Naturpark in der Flussaue der Dviete.",
+                  "text": "Ein Naturpark, der die Aue der Dviete und ihre Feuchtgebiete schützt.",
                   "category": "natural",
                   "coords": [
                         26.212588,
@@ -5038,7 +5038,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais kalns",
-                  "text": "Eine archäologische Ausgrabungsstätte in Ilūkste.",
+                  "text": "Ein historischer Hügel mit alten Befestigungen bei Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.261772,
@@ -5047,7 +5047,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes katoļu baznīcas drupas",
-                  "text": "Die Überreste der katholischen Kirche von Ilūkste.",
+                  "text": "In Ilukste stehen die Ruinen der katholischen Kirche.",
                   "category": "historical",
                   "coords": [
                         26.298531,
@@ -5056,7 +5056,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Pilskalnes Siguldiņa”",
-                  "text": "Ein Naturschutzgebiet mit Wanderwegen in Ilūkste.",
+                  "text": "Das Naturschutzgebiet Pilskalnes Siguldiņa liegt bei Ilukste.",
                   "category": "natural",
                   "coords": [
                         26.257125,
@@ -5065,7 +5065,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes brīvdabas estrāde",
-                  "text": "Ein Freilichttheater in Ilūkste.",
+                  "text": "Das Freiluft-Amphitheater von Ilukste ist ein kultureller Veranstaltungsort.",
                   "category": "cultural",
                   "coords": [
                         26.285901,
@@ -5074,7 +5074,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes Siguldiņa",
-                  "text": "Ein malerischer Ort mit Naturpfaden in Ilūkste.",
+                  "text": "Pilskalnes Siguldiņa ist ein alter Burgberg nahe Ilukste.",
                   "category": "landmark",
                   "coords": [
                         26.266176,
@@ -5083,7 +5083,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes muižas drupas",
-                  "text": "Die Ruinen des ehemaligen Herrenhauses Pilskalne.",
+                  "text": "Die Ruinen des Guts Pilskalne befinden sich bei Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.266222,
@@ -5092,7 +5092,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pils terase",
-                  "text": "Eine Aussichtsterrasse in Ilūkste.",
+                  "text": "Die Burgterrasse in Ilukste bietet eine Aussicht über die Stadt.",
                   "category": "landmark",
                   "coords": [
                         26.267676,
@@ -5110,7 +5110,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais ezers",
-                  "text": "Der Melnais ezers ist ein ruhiger See in Ilukste, der von Natur umgeben ist.",
+                  "text": "Der Schwarze See (Melnais ezers) liegt in Ilukste.",
                   "category": "natural",
                   "coords": [
                         26.315286,
@@ -5175,7 +5175,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dabas Parks „Dvietes paliene\"",
-                  "text": "Természetvédelmi terület a Dviete folyó árterében.",
+                  "text": "Egy természetvédelmi park, mely a Dviete folyó árterét és vizes élőhelyeit védi.",
                   "category": "natural",
                   "coords": [
                         26.212588,
@@ -5184,7 +5184,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais kalns",
-                  "text": "Régészeti lelőhely Ilūkste közelében.",
+                  "text": "Egy történelmi domb ősi erődítésekkel Ilukste közelében.",
                   "category": "historical",
                   "coords": [
                         26.261772,
@@ -5193,7 +5193,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes katoļu baznīcas drupas",
-                  "text": "Az ilūksteti katolikus templom romjai.",
+                  "text": "Ilukstében találhatók a katolikus templom romjai.",
                   "category": "historical",
                   "coords": [
                         26.298531,
@@ -5202,7 +5202,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Pilskalnes Siguldiņa”",
-                  "text": "Természetvédelmi terület gyalogutakkal Ilūkste közelében.",
+                  "text": "A Pilskalnes Siguldiņa természetvédelmi terület Ilukste közelében található.",
                   "category": "natural",
                   "coords": [
                         26.257125,
@@ -5211,7 +5211,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes brīvdabas estrāde",
-                  "text": "Szabadtéri amfiteátrum Ilūkste városában.",
+                  "text": "Az Ilukste-i szabadtéri amfiteátrum kulturális rendezvények helyszíne.",
                   "category": "cultural",
                   "coords": [
                         26.285901,
@@ -5220,7 +5220,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes Siguldiņa",
-                  "text": "Gyalogtúrákra alkalmas festői terület Ilūkste közelében.",
+                  "text": "A Pilskalnes Siguldiņa egy ókori erődített domb Ilukste közelében.",
                   "category": "landmark",
                   "coords": [
                         26.266176,
@@ -5229,7 +5229,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes muižas drupas",
-                  "text": "A pilskalnei udvarház romjai.",
+                  "text": "A Pilskalne-kúria romjai Ilukste közelében találhatók.",
                   "category": "historical",
                   "coords": [
                         26.266222,
@@ -5238,7 +5238,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pils terase",
-                  "text": "Kastélyterasz és kilátóhely Ilūkste városában.",
+                  "text": "Az ilukstei várterasz kilátást nyújt a városra.",
                   "category": "landmark",
                   "coords": [
                         26.267676,
@@ -5256,7 +5256,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais ezers",
-                  "text": "A Melnais ezers egy csendes tó Ilukste területén, amelyet természet vesz körül.",
+                  "text": "A Fekete-tó (Melnais ezers) Ilukstében található.",
                   "category": "natural",
                   "coords": [
                         26.315286,
@@ -5321,7 +5321,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dabas Parks „Dvietes paliene\"",
-                  "text": "Un parc natural situat în lunca râului Dviete.",
+                  "text": "Un parc natural care protejează lunca râului Dviete și zonele umede ale acestuia.",
                   "category": "natural",
                   "coords": [
                         26.212588,
@@ -5330,7 +5330,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais kalns",
-                  "text": "Un sit arheologic în Ilūkste.",
+                  "text": "Un deal istoric cu fortificații antice lângă Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.261772,
@@ -5339,7 +5339,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes katoļu baznīcas drupas",
-                  "text": "Ruinele bisericii catolice din Ilūkste.",
+                  "text": "În Ilukste se află ruinele bisericii catolice.",
                   "category": "historical",
                   "coords": [
                         26.298531,
@@ -5348,7 +5348,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Pilskalnes Siguldiņa”",
-                  "text": "O rezervație naturală cu trasee de drumeție în Ilūkste.",
+                  "text": "Rezervația naturală Pilskalnes Siguldiņa se află lângă Ilukste.",
                   "category": "natural",
                   "coords": [
                         26.257125,
@@ -5357,7 +5357,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes brīvdabas estrāde",
-                  "text": "Un amfiteatru în aer liber în Ilūkste.",
+                  "text": "Amfiteatrul în aer liber din Ilukste este un loc pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         26.285901,
@@ -5366,7 +5366,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes Siguldiņa",
-                  "text": "O atracție pitorească cu poteci naturale în Ilūkste.",
+                  "text": "Pilskalnes Siguldiņa este un deal fortificat antic lângă Ilukste.",
                   "category": "landmark",
                   "coords": [
                         26.266176,
@@ -5375,7 +5375,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes muižas drupas",
-                  "text": "Ruinele conacului Pilskalne.",
+                  "text": "Ruinele conacului Pilskalne se află lângă Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.266222,
@@ -5384,7 +5384,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pils terase",
-                  "text": "O terasă cu belvedere în Ilūkste.",
+                  "text": "Terasa castelului din Ilukste oferă o vedere asupra orașului.",
                   "category": "landmark",
                   "coords": [
                         26.267676,
@@ -5402,7 +5402,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais ezers",
-                  "text": "Melnais ezers este un lac liniștit în Ilukste, înconjurat de natură.",
+                  "text": "Lacul Negru (Melnais ezers) se află în Ilukste.",
                   "category": "natural",
                   "coords": [
                         26.315286,
@@ -5467,7 +5467,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dabas Parks „Dvietes paliene\"",
-                  "text": "A nature park located in the Dviete river floodplain.",
+                  "text": "A nature park protecting the Dviete River floodplain and its wetlands.",
                   "category": "natural",
                   "coords": [
                         26.212588,
@@ -5476,7 +5476,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais kalns",
-                  "text": "An archaeological site located in Ilūkste.",
+                  "text": "A historical hill with ancient fortifications near Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.261772,
@@ -5485,7 +5485,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilūkstes katoļu baznīcas drupas",
-                  "text": "The ruins of the Ilūkste Catholic church.",
+                  "text": "Ruins of the Catholic church in Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.298531,
@@ -5494,7 +5494,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Pilskalnes Siguldiņa”",
-                  "text": "A nature reserve with walking trails in Ilūkste.",
+                  "text": "Pilskalnes Siguldiņa nature reserve near Ilukste.",
                   "category": "natural",
                   "coords": [
                         26.257125,
@@ -5503,7 +5503,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ilukste amphitheatre",
-                  "text": "An outdoor amphitheatre in Ilūkste.",
+                  "text": "Open-air amphitheatre in Ilukste hosting cultural events.",
                   "category": "cultural",
                   "coords": [
                         26.285901,
@@ -5512,7 +5512,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes Siguldiņa",
-                  "text": "A scenic attraction with nature trails in Ilūkste.",
+                  "text": "Pilskalnes Siguldiņa, an ancient hillfort near Ilukste.",
                   "category": "landmark",
                   "coords": [
                         26.266176,
@@ -5521,7 +5521,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilskalnes muižas drupas",
-                  "text": "The ruins of the Pilskalne manor.",
+                  "text": "Ruins of Pilskalne manor near Ilukste.",
                   "category": "historical",
                   "coords": [
                         26.266222,
@@ -5530,7 +5530,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Pils terase",
-                  "text": "A terrace viewpoint and attraction in Ilūkste.",
+                  "text": "Castle terrace offering views over Ilukste.",
                   "category": "landmark",
                   "coords": [
                         26.267676,
@@ -5548,7 +5548,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Melnais ezers",
-                  "text": "Melnais ezers is a quiet lake in Ilukste, surrounded by natural scenery.",
+                  "text": "Black Lake (Melnais ezers) in Ilukste.",
                   "category": "natural",
                   "coords": [
                         26.315286,
@@ -6127,7 +6127,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mellužu pludmale",
-                  "text": "Der Melluži-Strand befindet sich in der Gegend von Priedaine.",
+                  "text": "Der Strand Mellužu pludmale in Priedaine (Jūrmala) ist ein beliebter Badeort.",
                   "category": "recreational",
                   "coords": [
                         23.712213,
@@ -6154,7 +6154,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "Ein Informationszentrum und Museum für Energieeffizienz.",
+                  "text": "Das Latvenergo Energieeffizienzzentrum in Priedaine ist ein interaktives Museum.",
                   "category": "museum",
                   "coords": [
                         23.789502,
@@ -6163,7 +6163,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Jūrmalas pilsētas muzejs",
-                  "text": "Ein Museum zur Geschichte und Kultur von Jūrmala.",
+                  "text": "Das Jūrmala Stadtmuseum in Priedaine zeigt die Geschichte des Kurorts.",
                   "category": "museum",
                   "coords": [
                         23.801411,
@@ -6190,7 +6190,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piemineklis Mihailam Zadornovam",
-                  "text": "Ein Denkmal zu Ehren des Schriftstellers Michail Sadornow.",
+                  "text": "In Priedaine (Jūrmala) steht das Denkmal für den Schriftsteller Michail Sadornow.",
                   "category": "historical",
                   "coords": [
                         23.762321,
@@ -6199,7 +6199,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Raiņa sēta",
-                  "text": "Der ehemalige Sommerhauskomplex des Dichters Rainis.",
+                  "text": "Raiņa sēta in Priedaine ist das ehemalige Gehöft des Dichters Rainis.",
                   "category": "landmark",
                   "coords": [
                         23.745109,
@@ -6255,7 +6255,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mellužu pludmale",
-                  "text": "A Melluži strand a Priedaine területén található.",
+                  "text": "A Mellužu pludmale strand Priedaine-ben (Jūrmala) népszerű fürdőhely.",
                   "category": "recreational",
                   "coords": [
                         23.712213,
@@ -6282,7 +6282,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "Energiahatékonysággal foglalkozó központ és múzeum.",
+                  "text": "A Latvenergo Energiahatékonysági Központ Priedaine-ben egy interaktív múzeum.",
                   "category": "museum",
                   "coords": [
                         23.789502,
@@ -6291,7 +6291,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Jūrmalas pilsētas muzejs",
-                  "text": "Jūrmala történelmét és kultúráját bemutató múzeum.",
+                  "text": "A Jūrmala Városi Múzeum Priedaine-ben bemutatja az üdülőváros történetét.",
                   "category": "museum",
                   "coords": [
                         23.801411,
@@ -6318,7 +6318,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piemineklis Mihailam Zadornovam",
-                  "text": "Mihail Zadornov író tiszteletére emelt emlékmű.",
+                  "text": "Priedaine-ben (Jūrmala) található Mihail Zadornow író emlékműve.",
                   "category": "historical",
                   "coords": [
                         23.762321,
@@ -6327,7 +6327,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Raiņa sēta",
-                  "text": "Rainis költő egykori nyaralóegyüttese.",
+                  "text": "A Raiņa sēta Priedaine-ben a költő Rainis egykori tanyája.",
                   "category": "landmark",
                   "coords": [
                         23.745109,
@@ -6383,7 +6383,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mellužu pludmale",
-                  "text": "Plaja Melluži este situată în zona Priedaine.",
+                  "text": "Plaja Mellužu pludmale din Priedaine (Jūrmala) este o stațiune populară.",
                   "category": "recreational",
                   "coords": [
                         23.712213,
@@ -6410,7 +6410,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "Un centru de eficiență energetică și muzeu.",
+                  "text": "Centrul de Eficiență Energetică Latvenergo din Priedaine este un muzeu interactiv.",
                   "category": "museum",
                   "coords": [
                         23.789502,
@@ -6419,7 +6419,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Jūrmalas pilsētas muzejs",
-                  "text": "Un muzeu dedicat istoriei și culturii orașului Jūrmala.",
+                  "text": "Muzeul orașului Jūrmala din Priedaine prezintă istoria stațiunii.",
                   "category": "museum",
                   "coords": [
                         23.801411,
@@ -6446,7 +6446,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Piemineklis Mihailam Zadornovam",
-                  "text": "Un monument dedicat scriitorului Mihail Zadornov.",
+                  "text": "În Priedaine (Jūrmala) se află monumentul scriitorului Mihail Zadornîi.",
                   "category": "historical",
                   "coords": [
                         23.762321,
@@ -6455,7 +6455,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Raiņa sēta",
-                  "text": "Complexul fostei case de vară a poetului Rainis.",
+                  "text": "Raiņa sēta din Priedaine este fosta gospodărie a poetului Rainis.",
                   "category": "landmark",
                   "coords": [
                         23.745109,
@@ -6511,7 +6511,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mellužu pludmale",
-                  "text": "Melluži beach is located in the area of Priedaine.",
+                  "text": "Mellužu beach in Priedaine, Jūrmala.",
                   "category": "recreational",
                   "coords": [
                         23.712213,
@@ -6538,7 +6538,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "An energy efficiency center and museum.",
+                  "text": "Latvenergo Energy Efficiency Centre in Priedaine, an interactive museum.",
                   "category": "museum",
                   "coords": [
                         23.789502,
@@ -6547,7 +6547,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Jurmala city museum",
-                  "text": "A museum documenting the history and culture of Jūrmala.",
+                  "text": "Jūrmala City Museum in Priedaine, showcasing the resort's history.",
                   "category": "museum",
                   "coords": [
                         23.801411,
@@ -6574,7 +6574,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to Mikhail Zadorny",
-                  "text": "A monument dedicated to the writer Mikhail Zadornov.",
+                  "text": "Monument to writer Mikhail Zadorny in Priedaine, Jūrmala.",
                   "category": "historical",
                   "coords": [
                         23.762321,
@@ -6583,7 +6583,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Raiņa sēta",
-                  "text": "The former summer cottage complex of the poet Rainis.",
+                  "text": "Raiņa sēta, the former homestead of poet Rainis in Priedaine.",
                   "category": "landmark",
                   "coords": [
                         23.745109,
@@ -6703,7 +6703,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalekaura ezers",
-                  "text": "Der Kalekaura ezers in Ape ist ein Natursee, der sich gut für ruhige Erkundungen eignet.",
+                  "text": "Der Kalekaura-See liegt nahe der Stadt Ape.",
                   "category": "natural",
                   "coords": [
                         26.786374,
@@ -6741,7 +6741,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalekaura ezers",
-                  "text": "A Kalekaura ezers Ape területén egy természetes tó, amely alkalmas a csendes felfedezésre.",
+                  "text": "A Kalekaura-tó Ape városa közelében található.",
                   "category": "natural",
                   "coords": [
                         26.786374,
@@ -6779,7 +6779,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalekaura ezers",
-                  "text": "Kalekaura ezers din Ape este un lac natural, potrivit pentru explorări liniștite.",
+                  "text": "Lacul Kalekaura se află lângă orașul Ape.",
                   "category": "natural",
                   "coords": [
                         26.786374,
@@ -6817,7 +6817,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalekaura ezers",
-                  "text": "Kalekaura ezers in Ape is a natural lake, well-suited for quiet exploration.",
+                  "text": "Lake Kalekaura near Ape.",
                   "category": "natural",
                   "coords": [
                         26.786374,
@@ -8053,7 +8053,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dagdas pilsētas pludmale",
-                  "text": "Der Stadtstrand von Dagda lädt zum Entspannen ein.",
+                  "text": "Der Stadtstrand von Dagda lädt zum Baden und Erholen ein.",
                   "category": "recreational",
                   "coords": [
                         27.545694,
@@ -8208,7 +8208,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dagdas pilsētas pludmale",
-                  "text": "Dagda városi strandja pihenésre hívogat.",
+                  "text": "Dagda városi strandja fürdőzésre és pihenésre hív.",
                   "category": "recreational",
                   "coords": [
                         27.545694,
@@ -8363,7 +8363,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dagdas pilsētas pludmale",
-                  "text": "Plaja urbană din Dagda invită la relaxare.",
+                  "text": "Plaja orașului Dagda invită la scăldat și relaxare.",
                   "category": "recreational",
                   "coords": [
                         27.545694,
@@ -8518,7 +8518,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dagdas pilsētas pludmale",
-                  "text": "The city beach of Dagda invites visitors to relax.",
+                  "text": "Dagda town beach, a recreational area by the lake.",
                   "category": "recreational",
                   "coords": [
                         27.545694,
@@ -8719,7 +8719,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "dabas parks „Abavas senleja”",
-                  "text": "Ein Naturpark im malerischen Urstromtal der Abava.",
+                  "text": "Der Naturpark Abava-Senleja erstreckt sich entlang des Abava-Flusses bei Kandava.",
                   "category": "natural",
                   "coords": [
                         22.349128,
@@ -8728,7 +8728,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinen der Ordensburg Kandau",
-                  "text": "Ein historischer Burgwall in Kandava.",
+                  "text": "Der Ritterburgberg (Kandavas bruņinieku pilskalns) ist eine alte Befestigungsanlage in Kandava.",
                   "category": "historical",
                   "coords": [
                         22.778663,
@@ -8764,7 +8764,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Valtermuiža",
-                  "text": "Ein historisches Herrenhaus in der Nähe von Kandava.",
+                  "text": "Die Ruinen des Valter-Guts (Valtermuiža) befinden sich in Kandava.",
                   "category": "historical",
                   "coords": [
                         22.796545,
@@ -8773,7 +8773,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas kroņa muiža",
-                  "text": "Ein ehemaliges Krongut in Kandava.",
+                  "text": "Das Kandava Kron-Gut (Kandavas kroņa muiža) ist ein historisches Anwesen.",
                   "category": "historical",
                   "coords": [
                         22.771041,
@@ -8782,7 +8782,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas Mācītājmuiža",
-                  "text": "Ein historisches Pfarrhaus in Kandava.",
+                  "text": "Das Pfarrgut (Kandavas Mācītājmuiža) in Kandava war der Wohnsitz des Pfarrers.",
                   "category": "historical",
                   "coords": [
                         22.756983,
@@ -8791,7 +8791,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Sēravotu dziedinātavas drupas",
-                  "text": "Die Überreste einer ehemaligen Heilanstalt an Schwefelquellen.",
+                  "text": "Die Ruinen der Schwefelquell-Heilanstalt (Sēravotu dziedinātavas drupas) liegen bei Kandava.",
                   "category": "historical",
                   "coords": [
                         22.777527,
@@ -8802,7 +8802,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "dabas parks „Abavas senleja”",
-                  "text": "Természetvédelmi terület a festői Abava-völgyben.",
+                  "text": "Az Abava-senleja természeti park a Kandava melletti Abava folyó mentén húzódik.",
                   "category": "natural",
                   "coords": [
                         22.349128,
@@ -8811,7 +8811,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas bruņinieku pilskalns",
-                  "text": "Történelmi lovagi várhely Kandava városában.",
+                  "text": "A Kandavai Lovagvár-domb (Kandavas bruņinieku pilskalns) egy régi erődítmény Kandavában.",
                   "category": "historical",
                   "coords": [
                         22.778663,
@@ -8847,7 +8847,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Valtermuiža",
-                  "text": "Történelmi udvarház Kandava környékén.",
+                  "text": "A Valter-kúria (Valtermuiža) romjai Kandavában találhatók.",
                   "category": "historical",
                   "coords": [
                         22.796545,
@@ -8856,7 +8856,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas kroņa muiža",
-                  "text": "Egykori koronabirtok Kandava városában.",
+                  "text": "A Kandavai Korona-kúria (Kandavas kroņa muiža) egy történelmi birtok.",
                   "category": "historical",
                   "coords": [
                         22.771041,
@@ -8865,7 +8865,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas Mācītājmuiža",
-                  "text": "Történelmi lelkészlak Kandava területén.",
+                  "text": "A Kandavai Lelkész-kúria (Kandavas Mācītājmuiža) a lelkész lakhelye volt.",
                   "category": "historical",
                   "coords": [
                         22.756983,
@@ -8874,7 +8874,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Sēravotu dziedinātavas drupas",
-                  "text": "Egykori kénes gyógyfürdő romjai.",
+                  "text": "A kénforrás gyógyintézet (Sēravotu dziedinātavas drupas) romjai Kandava közelében találhatók.",
                   "category": "historical",
                   "coords": [
                         22.777527,
@@ -8885,7 +8885,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "dabas parks „Abavas senleja”",
-                  "text": "Un parc natural situat în valea pitorească a râului Abava.",
+                  "text": "Parcul natural Abava-senleja se întinde de-a lungul râului Abava lângă Kandava.",
                   "category": "natural",
                   "coords": [
                         22.349128,
@@ -8894,7 +8894,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas bruņinieku pilskalns",
-                  "text": "Un sit arheologic al unei cetăți vechi în Kandava.",
+                  "text": "Dealul Cavalerilor din Kandava (Kandavas bruņinieku pilskalns) este o veche fortificație.",
                   "category": "historical",
                   "coords": [
                         22.778663,
@@ -8930,7 +8930,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Valtermuiža",
-                  "text": "Un conac istoric în apropiere de Kandava.",
+                  "text": "Ruinele conacului Valter (Valtermuiža) se află în Kandava.",
                   "category": "historical",
                   "coords": [
                         22.796545,
@@ -8939,7 +8939,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas kroņa muiža",
-                  "text": "Un fost conac al coroanei în Kandava.",
+                  "text": "Conacul Regal din Kandava (Kandavas kroņa muiža) este o proprietate istorică.",
                   "category": "historical",
                   "coords": [
                         22.771041,
@@ -8948,7 +8948,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas Mācītājmuiža",
-                  "text": "O fostă casă parohială istorică în Kandava.",
+                  "text": "Conacul Pastorului din Kandava (Kandavas Mācītājmuiža) a fost reședința preotului.",
                   "category": "historical",
                   "coords": [
                         22.756983,
@@ -8957,7 +8957,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Sēravotu dziedinātavas drupas",
-                  "text": "Ruinele unui fost stabiliment balnear cu izvoare sulfuroase.",
+                  "text": "Ruinele sanatoriului cu izvoare sulfuroase (Sēravotu dziedinātavas drupas) se află lângă Kandava.",
                   "category": "historical",
                   "coords": [
                         22.777527,
@@ -8968,7 +8968,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "dabas parks „Abavas senleja”",
-                  "text": "A nature park in the scenic Abava River valley.",
+                  "text": "Abava River valley nature park near Kandava.",
                   "category": "natural",
                   "coords": [
                         22.349128,
@@ -8977,7 +8977,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas bruņinieku pilskalns",
-                  "text": "An ancient knight's hillfort in Kandava.",
+                  "text": "Kandava Knights' Hillfort, an ancient fortified hill.",
                   "category": "historical",
                   "coords": [
                         22.778663,
@@ -9013,7 +9013,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Valtermuiža",
-                  "text": "A historical manor house near Kandava.",
+                  "text": "Valtermuiža manor ruins in Kandava.",
                   "category": "historical",
                   "coords": [
                         22.796545,
@@ -9022,7 +9022,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas kroņa muiža",
-                  "text": "A former crown manor in Kandava.",
+                  "text": "Kandava Crown Manor, a historic estate.",
                   "category": "historical",
                   "coords": [
                         22.771041,
@@ -9031,7 +9031,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kandavas Mācītājmuiža",
-                  "text": "A historical pastor's manor in Kandava.",
+                  "text": "Kandava Pastor's Manor, a historic clergy residence.",
                   "category": "historical",
                   "coords": [
                         22.756983,
@@ -9040,7 +9040,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Sēravotu dziedinātavas drupas",
-                  "text": "The ruins of a former sulphur spring health resort.",
+                  "text": "Ruins of the sulfur spring health resort near Kandava.",
                   "category": "historical",
                   "coords": [
                         22.777527,
@@ -9097,7 +9097,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ķerru pilskalns",
-                  "text": "Ein alter lettischer Burgberg in der Region Priekule.",
+                  "text": "Der Ķerru-Burgberg (Ķerru pilskalns) ist eine alte Wallburg bei Priekule.",
                   "category": "historical",
                   "coords": [
                         21.61649,
@@ -9115,7 +9115,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Priekules muiža",
-                  "text": "Ein historisches Gutshaus mit Parkanlage in Priekule.",
+                  "text": "Das Gut Priekule (Priekules muiža) ist ein historischer Herrensitz.",
                   "category": "historical",
                   "coords": [
                         21.581274,
@@ -9126,7 +9126,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ķerru pilskalns",
-                  "text": "Régi lett várhely a Priekule régióban.",
+                  "text": "A Ķerru-várdomb (Ķerru pilskalns) egy régi földvár Priekule közelében.",
                   "category": "historical",
                   "coords": [
                         21.61649,
@@ -9144,7 +9144,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Priekules muiža",
-                  "text": "Történelmi udvarház parkkal Priekulében.",
+                  "text": "A Priekulei kúria (Priekules muiža) történelmi kastély.",
                   "category": "historical",
                   "coords": [
                         21.581274,
@@ -9155,7 +9155,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ķerru pilskalns",
-                  "text": "O veche colină fortificată letonă în regiunea Priekule.",
+                  "text": "Dealul fortificat Ķerru (Ķerru pilskalns) este o veche fortificație lângă Priekule.",
                   "category": "historical",
                   "coords": [
                         21.61649,
@@ -9173,7 +9173,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Priekules muiža",
-                  "text": "Un conac istoric cu parc în Priekule.",
+                  "text": "Conacul Priekule (Priekules muiža) este un domeniu istoric.",
                   "category": "historical",
                   "coords": [
                         21.581274,
@@ -9184,7 +9184,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ķerru pilskalns",
-                  "text": "An ancient Latvian hillfort in the Priekule region.",
+                  "text": "Ķerru Hillfort near Priekule, an ancient fortification.",
                   "category": "historical",
                   "coords": [
                         21.61649,
@@ -9202,7 +9202,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Priekules muiža",
-                  "text": "A historical manor house with a park in Priekule.",
+                  "text": "Priekule Manor, a historic estate.",
                   "category": "historical",
                   "coords": [
                         21.581274,
@@ -9601,7 +9601,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pižuka dīķis",
-                  "text": "Ein Erholungsgebiet an einem Teich in Vaiņode.",
+                  "text": "Der Pižuks-Teich in Vainode ist ein familienfreundliches Ausflugsziel.",
                   "category": "family",
                   "coords": [
                         21.849026,
@@ -9610,7 +9610,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vaiņodes kultūras nams",
-                  "text": "Das lokale Kulturzentrum in Vaiņode.",
+                  "text": "Das Kulturhaus von Vaiņode (Vaiņodes kultūras nams) dient kulturellen Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         21.844833,
@@ -9648,7 +9648,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pižuka dīķis",
-                  "text": "Tóparti pihenőhely Vaiņode településen.",
+                  "text": "A Pižuks-tó Vainodében családbarát kirándulóhely.",
                   "category": "family",
                   "coords": [
                         21.849026,
@@ -9657,7 +9657,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vaiņodes kultūras nams",
-                  "text": "Helyi kulturális központ Vaiņode településen.",
+                  "text": "A Vaiņode-i Kulturális Ház (Vaiņodes kultūras nams) kulturális rendezvényeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         21.844833,
@@ -9695,7 +9695,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pižuka dīķis",
-                  "text": "O zonă de recreere lângă un iaz în Vaiņode.",
+                  "text": "Iazul Pižuks din Vainode este o destinație prietenoasă pentru familii.",
                   "category": "family",
                   "coords": [
                         21.849026,
@@ -9704,7 +9704,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vaiņodes kultūras nams",
-                  "text": "Centrul cultural local din Vaiņode.",
+                  "text": "Casa de Cultură din Vaiņode (Vaiņodes kultūras nams) găzduiește evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         21.844833,
@@ -9742,7 +9742,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pižuka dīķis",
-                  "text": "A recreational pond area in Vaiņode.",
+                  "text": "Pižuks Pond in Vainode, a family-friendly recreational spot.",
                   "category": "family",
                   "coords": [
                         21.849026,
@@ -9751,7 +9751,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Vaiņodes kultūras nams",
-                  "text": "The local cultural center in Vaiņode.",
+                  "text": "Vaiņode Cultural House, a venue for community events.",
                   "category": "cultural",
                   "coords": [
                         21.844833,
@@ -10033,7 +10033,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Elejas muiža",
-                  "text": "Ein historisches Herrenhausensemble in Eleja.",
+                  "text": "Das Gut Eleja (Elejas muiža) ist ein historisches Anwesen in Eleja.",
                   "category": "historical",
                   "coords": [
                         23.700672,
@@ -10042,7 +10042,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Elejas izstāžu zāle",
-                  "text": "Ein Kultur- und Ausstellungszentrum in Eleja.",
+                  "text": "Die Ausstellungshalle von Eleja (Elejas izstāžu zāle) zeigt Kunst und Kultur.",
                   "category": "cultural",
                   "coords": [
                         23.700258,
@@ -10051,7 +10051,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bij. Suņu audzētava",
-                  "text": "Ruinen eines ehemaligen Gebäudes in Eleja.",
+                  "text": "Die ehemalige Hundezucht (bij. Suņu audzētava) in Eleja ist ein historischer Ort.",
                   "category": "historical",
                   "coords": [
                         23.697022,
@@ -10060,7 +10060,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Magazīnklēts",
-                  "text": "Historische Ruinen in Eleja.",
+                  "text": "Das Magazīnklēts in Eleja ist ein historisches Lagerhaus.",
                   "category": "historical",
                   "coords": [
                         23.697926,
@@ -10071,7 +10071,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Elejas muiža",
-                  "text": "Történelmi udvarház-együttes Elejában.",
+                  "text": "Az Elejai kúria (Elejas muiža) egy történelmi birtok Elejában.",
                   "category": "historical",
                   "coords": [
                         23.700672,
@@ -10080,7 +10080,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Elejas izstāžu zāle",
-                  "text": "Kulturális és kiállítási központ Elejában.",
+                  "text": "Az Elejai Kiállítóterem (Elejas izstāžu zāle) művészeti és kulturális kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         23.700258,
@@ -10089,7 +10089,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bij. Suņu audzētava",
-                  "text": "Egy egykori épület romjai Elejában.",
+                  "text": "Az egykori kutyatenyészet (bij. Suņu audzētava) Elejában történelmi hely.",
                   "category": "historical",
                   "coords": [
                         23.697022,
@@ -10098,7 +10098,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Magazīnklēts",
-                  "text": "Történelmi romok Elejában.",
+                  "text": "A Magazīnklēts Elejában egy történelmi raktárépület.",
                   "category": "historical",
                   "coords": [
                         23.697926,
@@ -10109,7 +10109,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Elejas muiža",
-                  "text": "Un ansamblu istoric de conace în Eleja.",
+                  "text": "Conacul Eleja (Elejas muiža) este o proprietate istorică în Eleja.",
                   "category": "historical",
                   "coords": [
                         23.700672,
@@ -10118,7 +10118,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Elejas izstāžu zāle",
-                  "text": "Un centru cultural și expozițional în Eleja.",
+                  "text": "Sala de Expoziții din Eleja (Elejas izstāžu zāle) găzduiește expoziții de artă și cultură.",
                   "category": "cultural",
                   "coords": [
                         23.700258,
@@ -10127,7 +10127,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bij. Suņu audzētava",
-                  "text": "Ruinele unei foste clădiri în Eleja.",
+                  "text": "Fosta crescătorie de câini (bij. Suņu audzētava) din Eleja este un loc istoric.",
                   "category": "historical",
                   "coords": [
                         23.697022,
@@ -10136,7 +10136,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Magazīnklēts",
-                  "text": "Ruine istorice în Eleja.",
+                  "text": "Magazīnklēts din Eleja este un depozit istoric.",
                   "category": "historical",
                   "coords": [
                         23.697926,
@@ -10147,7 +10147,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Elejas muiža",
-                  "text": "A historical manor ensemble in Eleja.",
+                  "text": "Eleja Manor, a historic estate.",
                   "category": "historical",
                   "coords": [
                         23.700672,
@@ -10156,7 +10156,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Elejas izstāžu zāle",
-                  "text": "A cultural and exhibition center in Eleja.",
+                  "text": "Eleja Exhibition Hall, hosting art and cultural exhibits.",
                   "category": "cultural",
                   "coords": [
                         23.700258,
@@ -10165,7 +10165,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "bij. Suņu audzētava",
-                  "text": "Ruins of a former building in Eleja.",
+                  "text": "Former dog breeding kennels in Eleja, a historical site.",
                   "category": "historical",
                   "coords": [
                         23.697022,
@@ -10174,7 +10174,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Magazīnklēts",
-                  "text": "Historical ruins in Eleja.",
+                  "text": "Magazīnklēts, a historic storehouse in Eleja.",
                   "category": "historical",
                   "coords": [
                         23.697926,
@@ -10231,7 +10231,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vēstures ekspozīcija",
-                  "text": "Eine historische Ausstellung in Auce.",
+                  "text": "Die Geschichtsausstellung in Auce zeigt die lokale Vergangenheit.",
                   "category": "museum",
                   "coords": [
                         22.896853,
@@ -10251,7 +10251,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vēstures ekspozīcija",
-                  "text": "Helytörténeti kiállítás Auce városában.",
+                  "text": "Az Auce-i történelmi kiállítás a helyi múltat mutatja be.",
                   "category": "museum",
                   "coords": [
                         22.896853,
@@ -10271,7 +10271,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vēstures ekspozīcija",
-                  "text": "O expoziție istorică în Auce.",
+                  "text": "Expoziția de istorie din Auce prezintă trecutul local.",
                   "category": "museum",
                   "coords": [
                         22.896853,
@@ -10291,7 +10291,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vēstures ekspozīcija",
-                  "text": "A historical exhibition in Auce.",
+                  "text": "History exhibition in Auce, showcasing local heritage.",
                   "category": "museum",
                   "coords": [
                         22.896853,
@@ -10357,7 +10357,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sprīdīši",
-                  "text": "Museum in Tērvete, gewidmet der Schriftstellerin Anna Brigadere.",
+                  "text": "Das Sprīdīši-Museum in Tērvete ist dem lettischen Sagenhelden gewidmet.",
                   "category": "museum",
                   "coords": [
                         23.376626,
@@ -10375,7 +10375,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes Klosterkalns",
-                  "text": "Historische archäologische Stätte auf einem Hügel in Tērvete.",
+                  "text": "Der Klosterberg (Tērvetes Klosterkalns) in Tērvete ist ein alter Kultplatz.",
                   "category": "historical",
                   "coords": [
                         23.383018,
@@ -10384,7 +10384,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilskalns",
-                  "text": "Antiker Burgberg und archäologische Stätte in Tērvete.",
+                  "text": "Der Burgberg von Tērvete (Tērvetes pilskalns) war eine alte Siedlung.",
                   "category": "historical",
                   "coords": [
                         23.384792,
@@ -10393,7 +10393,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilsdrupas",
-                  "text": "Überreste einer alten Burg in Tērvete.",
+                  "text": "Die Burgruine von Tērvete (Tērvetes pilsdrupas) ist eine mittelalterliche Festung.",
                   "category": "castle",
                   "coords": [
                         23.38671,
@@ -10438,7 +10438,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaisa takas",
-                  "text": "Abenteuerpark mit Seilkletterparcours in Tērvete.",
+                  "text": "Die Seilrutschen (Rope tracks) in Tērvete führen durch den Baumwipfelpark.",
                   "category": "landmark",
                   "coords": [
                         23.377458,
@@ -10456,7 +10456,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalnamuiža",
-                  "text": "Historisches Herrenhaus in der Region Tērvete.",
+                  "text": "Das Gut Kalnamuiža liegt in der Nähe von Tērvete.",
                   "category": "historical",
                   "coords": [
                         23.389775,
@@ -10467,7 +10467,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sprīdīši",
-                  "text": "Múzeum Tērvetében, Anna Brigadere írónő emlékére.",
+                  "text": "A Tērvete-i Sprīdīši Múzeum a lett monda hősének van szentelve.",
                   "category": "museum",
                   "coords": [
                         23.376626,
@@ -10485,7 +10485,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes Klosterkalns",
-                  "text": "Történelmi régészeti lelőhely egy dombon Tērvetében.",
+                  "text": "A Tērvete-i Klosterkalns (kolostordomb) egy régi kultikus hely.",
                   "category": "historical",
                   "coords": [
                         23.383018,
@@ -10494,7 +10494,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilskalns",
-                  "text": "Ókori várhely és régészeti lelőhely Tērvetében.",
+                  "text": "A Tērvete-i várdomb (Tērvetes pilskalns) egy régi település volt.",
                   "category": "historical",
                   "coords": [
                         23.384792,
@@ -10503,7 +10503,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilsdrupas",
-                  "text": "Egy ősi vár romjai Tērvetében.",
+                  "text": "A Tērvete-i várrom (Tērvetes pilsdrupas) egy középkori erődítmény.",
                   "category": "castle",
                   "coords": [
                         23.38671,
@@ -10548,7 +10548,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaisa takas",
-                  "text": "Kalandpark kötélpályákkal Tērvetében.",
+                  "text": "A Tērvete-i kötélpályák (Rope tracks) a lombkoronaparkon át vezetnek.",
                   "category": "landmark",
                   "coords": [
                         23.377458,
@@ -10566,7 +10566,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalnamuiža",
-                  "text": "Történelmi kúria Tērvete környékén.",
+                  "text": "A Kalnamuiža kúria Tērvete közelében található.",
                   "category": "historical",
                   "coords": [
                         23.389775,
@@ -10577,7 +10577,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sprīdīši",
-                  "text": "Muzeu în Tērvete dedicat scriitoarei Anna Brigadere.",
+                  "text": "Muzeul Sprīdīši din Tērvete este dedicat eroului din basmele letone.",
                   "category": "museum",
                   "coords": [
                         23.376626,
@@ -10595,7 +10595,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes Klosterkalns",
-                  "text": "Sit arheologic istoric pe un deal în Tērvete.",
+                  "text": "Dealul Mănăstirii (Tērvetes Klosterkalns) din Tērvete este un loc de cult străvechi.",
                   "category": "historical",
                   "coords": [
                         23.383018,
@@ -10604,7 +10604,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilskalns",
-                  "text": "Vechi sit arheologic și cetate pe deal în Tērvete.",
+                  "text": "Dealul fortificat Tērvete (Tērvetes pilskalns) a fost o așezare antică.",
                   "category": "historical",
                   "coords": [
                         23.384792,
@@ -10613,7 +10613,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilsdrupas",
-                  "text": "Ruinele unui castel vechi situat în Tērvete.",
+                  "text": "Ruinele castelului Tērvete (Tērvetes pilsdrupas) sunt o fortăreață medievală.",
                   "category": "castle",
                   "coords": [
                         23.38671,
@@ -10658,7 +10658,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaisa takas",
-                  "text": "Parc de aventură cu trasee de corzi în Tērvete.",
+                  "text": "Traseele cu frânghii (Rope tracks) din Tērvete traversează parcul de coronament.",
                   "category": "landmark",
                   "coords": [
                         23.377458,
@@ -10676,7 +10676,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalnamuiža",
-                  "text": "Conac istoric situat în regiunea Tērvete.",
+                  "text": "Conacul Kalnamuiža se află lângă Tērvete.",
                   "category": "historical",
                   "coords": [
                         23.389775,
@@ -10687,7 +10687,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sprīdīši",
-                  "text": "Museum in Tērvete dedicated to writer Anna Brigadere.",
+                  "text": "Sprīdīši Museum in Tērvete, dedicated to the folklore character.",
                   "category": "museum",
                   "coords": [
                         23.376626,
@@ -10705,7 +10705,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes Klosterkalns",
-                  "text": "Historical archaeological site on a hill in Tērvete.",
+                  "text": "Tērvete Monastery Hill, an ancient site with monastic ruins.",
                   "category": "historical",
                   "coords": [
                         23.383018,
@@ -10714,7 +10714,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilskalns",
-                  "text": "Ancient hillfort and archaeological site in Tērvete.",
+                  "text": "Tērvete Hillfort, an ancient fortified settlement.",
                   "category": "historical",
                   "coords": [
                         23.384792,
@@ -10723,7 +10723,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Tērvetes pilsdrupas",
-                  "text": "Remains of an ancient castle located in Tērvete.",
+                  "text": "Ruins of Tērvete Castle, a medieval fortress.",
                   "category": "castle",
                   "coords": [
                         23.38671,
@@ -10768,7 +10768,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Rope tracks",
-                  "text": "Adventure park with rope climbing tracks in Tērvete.",
+                  "text": "Rope tracks in Tērvete Nature Park, an adventure obstacle course among trees.",
                   "category": "landmark",
                   "coords": [
                         23.377458,
@@ -10786,7 +10786,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kalnamuiža",
-                  "text": "Historical manor house located in the Tērvete region.",
+                  "text": "Kalnamuiža manor near Tērvete.",
                   "category": "historical",
                   "coords": [
                         23.389775,
@@ -10843,7 +10843,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gut Kraienhof",
-                  "text": "Ein historisches Herrenhaus in der Region Bērze.",
+                  "text": "Das Gut Kreija (Kreijas muiža) befindet sich in Berze.",
                   "category": "historical",
                   "coords": [
                         23.383175,
@@ -10863,7 +10863,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kreijas muiža",
-                  "text": "Történelmi udvarház Bērze környékén.",
+                  "text": "A Kreija-kúria (Kreijas muiža) Berzében található.",
                   "category": "historical",
                   "coords": [
                         23.383175,
@@ -10883,7 +10883,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kreijas muiža",
-                  "text": "Un conac istoric situat în regiunea Bērze.",
+                  "text": "Conacul Kreija (Kreijas muiža) se află în Berze.",
                   "category": "historical",
                   "coords": [
                         23.383175,
@@ -10903,7 +10903,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kreijas muiža",
-                  "text": "A historic manor house located in the Bērze region.",
+                  "text": "Kreija Manor in Berze, a historic estate.",
                   "category": "historical",
                   "coords": [
                         23.383175,
@@ -10978,7 +10978,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Munču vejdzirnavas",
-                  "text": "Die Ruinen der Windmühle von Munči.",
+                  "text": "Die Munču-Windmühle (Munču vejdzirnavas) in Galdnieki ist eine historische Mühle.",
                   "category": "historical",
                   "coords": [
                         24.19262,
@@ -10998,7 +10998,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Munču vejdzirnavas",
-                  "text": "A munči szélmalom romjai.",
+                  "text": "A Munču szélmalom (Munču vejdzirnavas) Galdniekiben egy történelmi malom.",
                   "category": "historical",
                   "coords": [
                         24.19262,
@@ -11018,7 +11018,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Munču vejdzirnavas",
-                  "text": "Ruinele morii de vânt din Munči.",
+                  "text": "Moara de vânt Munču (Munču vejdzirnavas) din Galdnieki este o moară istorică.",
                   "category": "historical",
                   "coords": [
                         24.19262,
@@ -11038,7 +11038,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Munču vejdzirnavas",
-                  "text": "The ruins of the Munči windmill.",
+                  "text": "Munču Windmill in Galdnieki, a historic wind-powered mill.",
                   "category": "historical",
                   "coords": [
                         24.19262,
@@ -11104,7 +11104,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Aizdzires muiža",
-                  "text": "Historisches Gutshaus-Ensemble und Sehenswürdigkeit in Vāne.",
+                  "text": "Das Gut Aizdzires (Aizdzires muiža) in Vane ist ein historisches Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         22.73061,
@@ -11133,7 +11133,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Aizdzires muiža",
-                  "text": "Történelmi kúriaegyüttes és látnivaló Vānéban.",
+                  "text": "Az Aizdzires-kúria (Aizdzires muiža) Vane-ban egy történelmi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         22.73061,
@@ -11162,7 +11162,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Aizdzires muiža",
-                  "text": "Complex de conace istorice și atracție în Vāne.",
+                  "text": "Conacul Aizdzires (Aizdzires muiža) din Vane este un reper istoric.",
                   "category": "landmark",
                   "coords": [
                         22.73061,
@@ -11191,7 +11191,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Aizdzires muiža",
-                  "text": "Historical manor complex and attraction in Vāne.",
+                  "text": "Aizdzires Manor in Vane, a historic landmark.",
                   "category": "landmark",
                   "coords": [
                         22.73061,
@@ -11374,7 +11374,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Cieceres dzirnavu dīķis",
-                  "text": "Der Cieceres dzirnavu dīķis ist ein friedlicher Teich in Zirni, der zur Entspannung einlädt.",
+                  "text": "Der Ciecere-Mühlenteich (Cieceres dzirnavu dīķis) liegt nahe Zirni.",
                   "category": "natural",
                   "coords": [
                         22.527709,
@@ -11448,7 +11448,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Cieceres dzirnavu dīķis",
-                  "text": "A Cieceres dzirnavu dīķis egy békés tó Zirni területén, amely pihenésre hív.",
+                  "text": "A Ciecere-malomtó (Cieceres dzirnavu dīķis) Zirni közelében található.",
                   "category": "natural",
                   "coords": [
                         22.527709,
@@ -11522,7 +11522,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Cieceres dzirnavu dīķis",
-                  "text": "Cieceres dzirnavu dīķis este un iaz liniștit în Zirni, care invită la relaxare.",
+                  "text": "Iazul morii Ciecere (Cieceres dzirnavu dīķis) se află lângă Zirni.",
                   "category": "natural",
                   "coords": [
                         22.527709,
@@ -11596,7 +11596,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Cieceres dzirnavu dīķis",
-                  "text": "Cieceres dzirnavu dīķis is a peaceful pond in Zirni, inviting relaxation.",
+                  "text": "Ciecere mill pond near Zirni, a tranquil water body.",
                   "category": "natural",
                   "coords": [
                         22.527709,
@@ -12184,7 +12184,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Trekņu dzirnavu dīķis",
-                  "text": "Ein lokaler Mühlenteich in Kaleti, ideal für eine ruhige Pause.",
+                  "text": "Der Trekņu-Mühlenteich (Trekņu dzirnavu dīķis) liegt bei Kaleti.",
                   "category": "natural",
                   "coords": [
                         21.600221,
@@ -12222,7 +12222,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Trekņu dzirnavu dīķis",
-                  "text": "Egy helyi malom-tó Kaleti területén, ideális egy nyugodt pihenőhöz.",
+                  "text": "A Trekņu-malomtó (Trekņu dzirnavu dīķis) Kaleti közelében található.",
                   "category": "natural",
                   "coords": [
                         21.600221,
@@ -12260,7 +12260,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Trekņu dzirnavu dīķis",
-                  "text": "Un iaz de moară local în Kaleti, ideal pentru o pauză liniștită.",
+                  "text": "Iazul morii Trekņu (Trekņu dzirnavu dīķis) se află lângă Kaleti.",
                   "category": "natural",
                   "coords": [
                         21.600221,
@@ -12298,7 +12298,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Trekņu dzirnavu dīķis",
-                  "text": "A local mill pond in Kaleti, ideal for a quiet break.",
+                  "text": "Trekņi mill pond near Kaleti, a natural pond.",
                   "category": "natural",
                   "coords": [
                         21.600221,
@@ -12364,7 +12364,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinen der Ordensburg Amboten",
-                  "text": "Die Ruinen einer mittelalterlichen Burg im Embūte-Tal.",
+                  "text": "Ruinen einer mittelalterlichen Burg aus dem 13. Jahrhundert in Embūte.",
                   "category": "castle",
                   "coords": [
                         21.819265,
@@ -12373,7 +12373,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes baznīca",
-                  "text": "Die Ruinen einer historischen Kirche in Embūte.",
+                  "text": "Historische Kirche in Embute, auf einem Hügel mit Blick über das Dorf.",
                   "category": "historical",
                   "coords": [
                         21.813362,
@@ -12391,7 +12391,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dēseles dzirnavu ezers",
-                  "text": "Der Dēseles dzirnavu ezers ist ein malerischer See in Embute, ideal für einen Spaziergang.",
+                  "text": "Natürlicher Mühlenteich bei Embute, im Tal gelegen.",
                   "category": "natural",
                   "coords": [
                         21.926618,
@@ -12411,7 +12411,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes viduslaiku pils pilsdrupas",
-                  "text": "Középkori várromok az Embūte-völgyben.",
+                  "text": "Egy 13. századi középkori vár romjai Embūtében.",
                   "category": "castle",
                   "coords": [
                         21.819265,
@@ -12420,7 +12420,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes baznīca",
-                  "text": "Egy történelmi templom romjai Embūte településen.",
+                  "text": "Történelmi templom Embute-ban, egy dombon, ahonnan rálátni a falura.",
                   "category": "historical",
                   "coords": [
                         21.813362,
@@ -12438,7 +12438,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dēseles dzirnavu ezers",
-                  "text": "A Dēseles dzirnavu ezers egy festői tó Embute területén, ideális egy sétához.",
+                  "text": "Természetes malomtó Embute közelében, a völgyben.",
                   "category": "natural",
                   "coords": [
                         21.926618,
@@ -12458,7 +12458,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes viduslaiku pils pilsdrupas",
-                  "text": "Ruinele unui castel medieval în valea Embūte.",
+                  "text": "Ruinele unui castel medieval din secolul al XIII-lea în Embūte.",
                   "category": "castle",
                   "coords": [
                         21.819265,
@@ -12467,7 +12467,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes baznīca",
-                  "text": "Ruinele unei biserici istorice în Embūte.",
+                  "text": "Biserică istorică în Embute, așezată pe o colină cu vedere spre sat.",
                   "category": "historical",
                   "coords": [
                         21.813362,
@@ -12485,7 +12485,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dēseles dzirnavu ezers",
-                  "text": "Dēseles dzirnavu ezers este un lac pitoresc în Embute, ideal pentru o plimbare.",
+                  "text": "Lac natural de moară lângă Embute, situat în vale.",
                   "category": "natural",
                   "coords": [
                         21.926618,
@@ -12505,7 +12505,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes viduslaiku pils pilsdrupas",
-                  "text": "The ruins of a medieval castle in the Embūte valley.",
+                  "text": "Ruins of a 13th-century medieval castle in Embūte.",
                   "category": "castle",
                   "coords": [
                         21.819265,
@@ -12514,7 +12514,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Embūtes baznīca",
-                  "text": "The ruins of a historical church in Embūte.",
+                  "text": "Historical church in Embute, set on a hill overlooking the village.",
                   "category": "historical",
                   "coords": [
                         21.813362,
@@ -12532,7 +12532,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Dēseles dzirnavu ezers",
-                  "text": "Dēseles dzirnavu ezers is a scenic lake in Embute, ideal for a walk.",
+                  "text": "Natural mill pond near Embute, set in a valley.",
                   "category": "natural",
                   "coords": [
                         21.926618,
@@ -12589,7 +12589,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Allažas muiža",
-                  "text": "Historisches Herrenhaus und Gutshof in Laidi.",
+                  "text": "Historisches Gutshaus in Laid, umgeben von einem Park.",
                   "category": "historical",
                   "coords": [
                         21.970229,
@@ -12600,7 +12600,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Allažas muiža",
-                  "text": "Történelmi kúria és birtok Laidiban.",
+                  "text": "Történelmi kastély Laid-ban, parkkal körülvéve.",
                   "category": "historical",
                   "coords": [
                         21.970229,
@@ -12611,7 +12611,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Allažas muiža",
-                  "text": "Conac istoric și moșie situate în Laidi.",
+                  "text": "Conac istoric în Laid, înconjurat de un parc.",
                   "category": "historical",
                   "coords": [
                         21.970229,
@@ -12622,7 +12622,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Allažas muiža",
-                  "text": "Historical manor house and estate located in Laidi.",
+                  "text": "Historical manor house in Laid, surrounded by a park.",
                   "category": "historical",
                   "coords": [
                         21.970229,
@@ -12697,7 +12697,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Zvirgzdu ezers",
-                  "text": "Ein ruhiger See in Alsunga, ideal für Naturliebhaber.",
+                  "text": "Zvirgzdu ezers, ein natürlicher See in Alsunga, beliebt zum Angeln.",
                   "category": "natural",
                   "coords": [
                         21.647636,
@@ -12715,7 +12715,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Alsungas dzirnavezers",
-                  "text": "Ein Mühlensee in Alsunga, der sich gut für Spaziergänge in der Natur eignet.",
+                  "text": "Alsungas dzirnavezers, ein Mühlenteich in Alsunga, der den umliegenden Wald spiegelt.",
                   "category": "natural",
                   "coords": [
                         21.5731,
@@ -12724,7 +12724,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kukšezers",
-                  "text": "Ein kleiner See in Alsunga, der eine ruhige Atmosphäre bietet.",
+                  "text": "Kukšezers, ein ruhiger See in Alsunga, bekannt für sein klares Wasser.",
                   "category": "natural",
                   "coords": [
                         21.682437,
@@ -12753,7 +12753,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Zvirgzdu ezers",
-                  "text": "Csendes tó Alsungában, ideális a természet kedvelőinek.",
+                  "text": "Zvirgzdu ezers, természetes tó Alsungában, horgászok kedvence.",
                   "category": "natural",
                   "coords": [
                         21.647636,
@@ -12771,7 +12771,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Alsungas dzirnavezers",
-                  "text": "Egy malom-tó Alsungában, amely kiválóan alkalmas természetjáró sétákhoz.",
+                  "text": "Alsungas dzirnavezers, malomtó Alsungában, tükrözve a környező erdőt.",
                   "category": "natural",
                   "coords": [
                         21.5731,
@@ -12780,7 +12780,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kukšezers",
-                  "text": "Egy kis tó Alsungában, amely nyugodt hangulatot áraszt.",
+                  "text": "Kukšezers, csendes tó Alsungában, tiszta vizéről ismert.",
                   "category": "natural",
                   "coords": [
                         21.682437,
@@ -12809,7 +12809,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Zvirgzdu ezers",
-                  "text": "Un lac liniștit în Alsunga, ideal pentru iubitorii de natură.",
+                  "text": "Lacul natural Zvirgzdu în Alsunga, popular pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         21.647636,
@@ -12827,7 +12827,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Alsungas dzirnavezers",
-                  "text": "Un lac de moară în Alsunga, potrivit pentru plimbări în natură.",
+                  "text": "Alsungas dzirnavezers, un iaz de moară în Alsunga, reflectând pădurea din jur.",
                   "category": "natural",
                   "coords": [
                         21.5731,
@@ -12836,7 +12836,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kukšezers",
-                  "text": "Un lac mic în Alsunga, care oferă o atmosferă liniștită.",
+                  "text": "Kukšezers, un lac liniștit în Alsunga, cunoscut pentru apa limpede.",
                   "category": "natural",
                   "coords": [
                         21.682437,
@@ -12865,7 +12865,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Zvirgzdu ezers",
-                  "text": "A calm lake in Alsunga, ideal for nature lovers.",
+                  "text": "Zvirgzdu ezers, a natural lake in Alsunga, popular for fishing.",
                   "category": "natural",
                   "coords": [
                         21.647636,
@@ -12883,7 +12883,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Alsungas dzirnavezers",
-                  "text": "A mill lake in Alsunga, well-suited for nature walks.",
+                  "text": "Alsungas dzirnavezers, a mill pond in Alsunga, reflecting the surrounding forest.",
                   "category": "natural",
                   "coords": [
                         21.5731,
@@ -12892,7 +12892,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Kukšezers",
-                  "text": "A small lake in Alsunga, offering a quiet atmosphere.",
+                  "text": "Kukšezers, a quiet lake in Alsunga, known for its clear water.",
                   "category": "natural",
                   "coords": [
                         21.682437,
@@ -12976,7 +12976,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ērkules ezers",
-                  "text": "Der Ērkules ezers ist ein natürliches Gewässer in Gudenieki, ideal für Naturliebhaber.",
+                  "text": "Ērkules ezers, ein kleiner natürlicher See in Gudenieki, von Schilf umgeben.",
                   "category": "natural",
                   "coords": [
                         21.717624,
@@ -13041,7 +13041,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ērkules ezers",
-                  "text": "Az Ērkules ezers egy természetes tó Gudenieki területén, amely ideális a természet kedvelőinek.",
+                  "text": "Ērkules ezers, kis természetes tó Gudeniekiben, nádas övezi.",
                   "category": "natural",
                   "coords": [
                         21.717624,
@@ -13106,7 +13106,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ērkules ezers",
-                  "text": "Ērkules ezers este un lac natural în Gudenieki, ideal pentru iubitorii de natură.",
+                  "text": "Lacul natural Ērkules în Gudenieki, un mic lac înconjurat de stuf.",
                   "category": "natural",
                   "coords": [
                         21.717624,
@@ -13171,7 +13171,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "Ērkules ezers",
-                  "text": "Ērkules ezers is a natural lake in Gudenieki, ideal for nature enthusiasts.",
+                  "text": "Ērkules ezers, a small natural lake in Gudenieki, surrounded by reeds.",
                   "category": "natural",
                   "coords": [
                         21.717624,
@@ -13687,7 +13687,7 @@ export const latviaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "dabas liegums „Pelcīšu purvs”",
-                  "text": "Ein Naturschutzgebiet, das ein Hochmoor-Ökosystem bei Usma schützt.",
+                  "text": "Hochmoor-Naturschutzgebiet am Usma-See mit einem Bohlenweg durch Kiefernwald.",
                   "category": "natural",
                   "coords": [
                         22.148403,
@@ -13696,7 +13696,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "MiniZoo",
-                  "text": "Ein kleiner Tierpark in der Nähe von Usma.",
+                  "text": "MiniZoo in Usma mit Kleintieren und exotischen Vögeln.",
                   "category": "family",
                   "coords": [
                         22.164545,
@@ -13707,7 +13707,7 @@ export const latviaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "dabas liegums „Pelcīšu purvs”",
-                  "text": "Az Usma-tó közeli mocsárvilágot védő természetvédelmi terület.",
+                  "text": "Lápos természetvédelmi terület az Usma-tó mellett, deszkajárda fenyőerdőn át.",
                   "category": "natural",
                   "coords": [
                         22.148403,
@@ -13716,7 +13716,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "MiniZoo",
-                  "text": "Kisméretű állatpark Usma környékén.",
+                  "text": "MiniZoo Usmában, kisállatokkal és egzotikus madarakkal.",
                   "category": "family",
                   "coords": [
                         22.164545,
@@ -13727,7 +13727,7 @@ export const latviaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "dabas liegums „Pelcīšu purvs”",
-                  "text": "O rezervație naturală care protejează un ecosistem de mlaștină lângă Usma.",
+                  "text": "Rezervație naturală de turbărie lângă lacul Usma, cu o pasarelă prin pădure de pini.",
                   "category": "natural",
                   "coords": [
                         22.148403,
@@ -13736,7 +13736,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "MiniZoo",
-                  "text": "O mică grădină zoologică în zona Usma.",
+                  "text": "MiniZoo în Usma, cu animale mici și păsări exotice.",
                   "category": "family",
                   "coords": [
                         22.164545,
@@ -13747,7 +13747,7 @@ export const latviaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "dabas liegums „Pelcīšu purvs”",
-                  "text": "A nature reserve protecting a bog ecosystem near Usma.",
+                  "text": "Raised bog nature reserve near Lake Usma with a boardwalk through pine forest.",
                   "category": "natural",
                   "coords": [
                         22.148403,
@@ -13756,7 +13756,7 @@ export const latviaCitiesV2: POI[] = [
             },
             {
                   "name": "MiniZoo",
-                  "text": "A small animal park or petting zoo in the Usma area.",
+                  "text": "MiniZoo in Usma features small farm animals and exotic birds.",
                   "category": "family",
                   "coords": [
                         22.164545,

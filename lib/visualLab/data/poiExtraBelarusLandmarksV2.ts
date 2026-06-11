@@ -287,7 +287,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Tsarkva sv. Antoniia Vialikaga (1868)",
-                  "text": "Eine im Jahr 1868 errichtete St.-Antonius-Kirche in Kosava.",
+                  "text": "St.-Antonius-Kirche, erbaut 1868 nahe der Burg Kosava.",
                   "category": "landmark",
                   "coords": [
                         25.15266,
@@ -296,7 +296,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Kastsiol Naisviatseishai Troitsy (1877)",
-                  "text": "Eine historische Dreifaltigkeitskirche aus dem Jahr 1877 in Kosava.",
+                  "text": "Heilig-Dreifaltigkeits-Kirche von 1877 auf dem Gelände des Schlosses Kossawa.",
                   "category": "landmark",
                   "coords": [
                         25.159118,
@@ -314,7 +314,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Tsarkva Sviatoga Georgiia",
-                  "text": "Eine dem heiligen Georg geweihte Kirche in Kosava.",
+                  "text": "Dem heiligen Georg geweihte kleine orthodoxe Kirche nahe Schloss Kossawa.",
                   "category": "religious",
                   "coords": [
                         25.145543,
@@ -334,7 +334,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Tsarkva sv. Antoniia Vialikaga (1868)",
-                  "text": "1868-ban épült Szent Antal-templom Koszavában.",
+                  "text": "Szent Antal-templom, épült 1868-ban Kosava vára közelében.",
                   "category": "landmark",
                   "coords": [
                         25.15266,
@@ -343,7 +343,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Kastsiol Naisviatseishai Troitsy (1877)",
-                  "text": "Történelmi Szentháromság-templom 1877-ből Koszavában.",
+                  "text": "1877-ben épült Szentháromság-templom a Kosava kastély területén.",
                   "category": "landmark",
                   "coords": [
                         25.159118,
@@ -361,7 +361,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Tsarkva Sviatoga Georgiia",
-                  "text": "Szent György tiszteletére szentelt templom Koszavában.",
+                  "text": "Szent Györgynek szentelt kis ortodox templom a Kosava kastély közelében.",
                   "category": "religious",
                   "coords": [
                         25.145543,
@@ -381,7 +381,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Tsarkva sv. Antoniia Vialikaga (1868)",
-                  "text": "Biserica Sfântul Anton, construită în anul 1868 în Kosava.",
+                  "text": "Biserica Sfântul Anton, construită în 1868 lângă Castelul Kosava.",
                   "category": "landmark",
                   "coords": [
                         25.15266,
@@ -390,7 +390,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Kastsiol Naisviatseishai Troitsy (1877)",
-                  "text": "Biserica Sfânta Treime, datând din 1877, situată în Kosava.",
+                  "text": "Biserica Sfintei Treimi construită în 1877 pe terenul Castelului Kosava.",
                   "category": "landmark",
                   "coords": [
                         25.159118,
@@ -408,7 +408,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Tsarkva Sviatoga Georgiia",
-                  "text": "O biserică dedicată Sfântului Gheorghe în Kosava.",
+                  "text": "O mică biserică ortodoxă dedicată Sfântului Gheorghe lângă Castelul Kosava.",
                   "category": "religious",
                   "coords": [
                         25.145543,
@@ -428,7 +428,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "St. Anthony Church (1868)",
-                  "text": "St. Anthony Church, built in 1868 in Kosava.",
+                  "text": "St. Anthony's Church built in 1868 near Kosava Castle.",
                   "category": "landmark",
                   "coords": [
                         25.15266,
@@ -437,7 +437,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Church (1877)",
-                  "text": "Historical Holy Trinity Church from 1877, located in Kosava.",
+                  "text": "Holy Trinity Church built in 1877 on the grounds of Kosava Castle.",
                   "category": "landmark",
                   "coords": [
                         25.159118,
@@ -455,7 +455,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "St. George Church",
-                  "text": "A church dedicated to St. George in Kosava.",
+                  "text": "Small Orthodox church dedicated to St. George near Kosava Castle.",
                   "category": "religious",
                   "coords": [
                         25.145543,
@@ -521,7 +521,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Zalaty fazan",
-                  "text": "Ein kleiner Tierpark in der Nähe der Schlossruine von Ruschany.",
+                  "text": "Goldfasanen-Gehege in der Nähe der Ruzhany-Palastruinen.",
                   "category": "recreational",
                   "coords": [
                         24.84863,
@@ -541,7 +541,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Zalaty fazan",
-                  "text": "Kis állatkert a ruzsanyi palotaromok közelében.",
+                  "text": "Aranyfácános kifutó a Ruzsanyi palota romjai közelében.",
                   "category": "recreational",
                   "coords": [
                         24.84863,
@@ -561,7 +561,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Zalaty fazan",
-                  "text": "O mică grădină zoologică lângă ruinele palatului Rujani.",
+                  "text": "Incintă cu fazani aurii lângă ruinele Palatului Ruzhany.",
                   "category": "recreational",
                   "coords": [
                         24.84863,
@@ -581,7 +581,7 @@ export const belarusLandmarksV2: POI[] = [
             },
             {
                   "name": "Zalaty fazan",
-                  "text": "A small zoo located near the Ruzhany Palace ruins.",
+                  "text": "Golden pheasant enclosure near the Ruzhany Palace ruins.",
                   "category": "recreational",
                   "coords": [
                         24.84863,

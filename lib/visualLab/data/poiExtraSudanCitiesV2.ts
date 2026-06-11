@@ -123,7 +123,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Military Museum",
-                  "text": "Das Military Museum ist ein Museum mit militärischen Ausstellungen in Khartum Bahri.",
+                  "text": "Militärmuseum mit historischen Waffen und Uniformen in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.542868,
@@ -132,7 +132,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Arkaweet Park - Bahri",
-                  "text": "حديقة اركويت - بحري ist ein lokaler Wasserpark in Khartum Bahri.",
+                  "text": "Familienpark im Viertel Arkaweet von Bahri mit Picknickplätzen und einem Spielplatz.",
                   "category": "family",
                   "coords": [
                         32.542061,
@@ -141,7 +141,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Palace Museum",
-                  "text": "Das Palace Museum ist ein Ausstellungszentrum in Khartum Bahri.",
+                  "text": "Museum in einem ehemaligen Königspalast in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.528694,
@@ -150,7 +150,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Ethnological Museum",
-                  "text": "Das Ethnological Museum ist ein Museum in Khartum Bahri.",
+                  "text": "Ethnologisches Museum mit traditioneller sudanesischer Kultur und Artefakten in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.534253,
@@ -168,7 +168,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Natural History Museum",
-                  "text": "Das Natural History Museum ist eine naturkundliche Einrichtung in Khartum Bahri.",
+                  "text": "Naturkundemuseum mit Ausstellungen zu sudanesischer Tierwelt und Fossilien in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.539803,
@@ -186,7 +186,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Theological College",
-                  "text": "كلية اللاهوت الإنجيلية ist ein lokaler Aussichtspunkt in Khartum Bahri.",
+                  "text": "Evangelisch-theologisches College auf einem begrünten Campus in Bahri.",
                   "category": "natural",
                   "coords": [
                         32.531028,
@@ -195,7 +195,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Mak Nimr Bridge",
-                  "text": "كبري المك نمر ist eine bekannte Touristenattraktion in Khartum Bahri.",
+                  "text": "Straßenbrücke über den Blauen Nil, die Bahri mit Khartum verbindet.",
                   "category": "landmark",
                   "coords": [
                         32.532999,
@@ -204,7 +204,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Nile Bridge",
-                  "text": "كبري النيل الأزرق ist eine markante lokale Attraktion in Khartum Bahri.",
+                  "text": "Blau-Nil-Brücke, eine Fahrzeug- und Fußgängerbrücke über den Blauen Nil in Bahri.",
                   "category": "landmark",
                   "coords": [
                         32.543775,
@@ -231,7 +231,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Sands",
-                  "text": "رمال الأسد ist ein Beobachtungspunkt in Khartum Bahri.",
+                  "text": "Lion Sands, eine natürliche Sandformation nahe dem Blauen Nil in Bahri.",
                   "category": "natural",
                   "coords": [
                         32.510264,
@@ -240,7 +240,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Art Touch Gallery",
-                  "text": "معرض ارت طتش ist eine Kunstgalerie in Khartum Bahri.",
+                  "text": "Kunstgalerie in Bahri mit Werken lokaler sudanesischer Künstler.",
                   "category": "museum",
                   "coords": [
                         32.535938,
@@ -249,7 +249,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blackcraft",
-                  "text": "Blackcraft ist eine unabhängige Galerie in Khartum Bahri.",
+                  "text": "Blackcraft-Galerie mit Metallarbeiten und Skulpturen in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.530064,
@@ -258,7 +258,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Atanye",
-                  "text": "Atanye ist eine Galerie für bildende Kunst in Khartum Bahri.",
+                  "text": "Atanye, ein Museum für sudanesisches Erbe und Handwerk in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.528784,
@@ -267,7 +267,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio ist eine kreative Galerie in Khartum Bahri.",
+                  "text": "Khaish Art Studio, ein Museum und Arbeitsraum für Maler und Bildhauer in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.534573,
@@ -276,7 +276,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Shambat Bridge",
-                  "text": "كبري شمبات ist eine Brücke in Khartum Bahri.",
+                  "text": "Eine Straßenbrücke über den Blauen Nil, die Khartum und Bahri verbindet.",
                   "category": "landmark",
                   "coords": [
                         32.507085,
@@ -287,7 +287,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Military Museum",
-                  "text": "A Military Museum egy katonai kiállításokat bemutató múzeum Khartum Bahriban.",
+                  "text": "Katonai múzeum történelmi fegyverekkel és egyenruhákkal Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.542868,
@@ -296,7 +296,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Arkaweet Park - Bahri",
-                  "text": "A حديقة اركويت - بحري egy helyi aquapark Khartum Bahriban.",
+                  "text": "Családi park Bahri Arkaweet negyedében, piknikezőhelyekkel és játszótérrel.",
                   "category": "family",
                   "coords": [
                         32.542061,
@@ -305,7 +305,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Palace Museum",
-                  "text": "A Palace Museum egy kiállítóhely Khartum Bahriban.",
+                  "text": "Múzeum egy egykori királyi palotában Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.528694,
@@ -314,7 +314,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Ethnological Museum",
-                  "text": "Az Ethnological Museum egy múzeum Khartum Bahriban.",
+                  "text": "Néprajzi múzeum hagyományos szudáni kultúrával és tárgyakkal Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.534253,
@@ -332,7 +332,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Natural History Museum",
-                  "text": "A Natural History Museum egy természettudományi intézmény Khartum Bahriban.",
+                  "text": "Természetrajzi múzeum szudáni vadvilágról és kövületekről Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.539803,
@@ -350,7 +350,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Theological College",
-                  "text": "A كلية اللاهوت الإنجيلية egy helyi kilátó Khartum Bahriban.",
+                  "text": "Evangélikus teológiai főiskola parkosított egyetemvárossal Bahri-ban.",
                   "category": "natural",
                   "coords": [
                         32.531028,
@@ -359,7 +359,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Mak Nimr Bridge",
-                  "text": "A كبري المك نمر egy ismert turisztikai látványosság Khartum Bahriban.",
+                  "text": "Közúti híd a Kék Nílus felett, összekötve Bahri-t Kartúmmal.",
                   "category": "landmark",
                   "coords": [
                         32.532999,
@@ -368,7 +368,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Nile Bridge",
-                  "text": "A كبري النيل الأزرق egy kiemelkedő helyi látványosság Khartum Bahriban.",
+                  "text": "Kék Nílus híd, jármű- és gyalogoshíd a Kék Nílus felett Bahri-ban.",
                   "category": "landmark",
                   "coords": [
                         32.543775,
@@ -395,7 +395,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Sands",
-                  "text": "A رمال الأسد egy megfigyelőpont Khartum Bahriban.",
+                  "text": "Lion Sands, egy természetes homokformáció a Kék Nílus közelében Bahri-ban.",
                   "category": "natural",
                   "coords": [
                         32.510264,
@@ -404,7 +404,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Art Touch Gallery",
-                  "text": "A معرض ارت طتش egy művészeti galéria Khartum Bahriban.",
+                  "text": "Kortárs művészeti galéria Bahri-ban, helyi szudáni művészek alkotásaival.",
                   "category": "museum",
                   "coords": [
                         32.535938,
@@ -413,7 +413,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blackcraft",
-                  "text": "A Blackcraft egy független galéria Khartum Bahriban.",
+                  "text": "Blackcraft galéria fémtárgyakkal és szobrokkal Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.530064,
@@ -422,7 +422,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Atanye",
-                  "text": "Az Atanye egy vizuális művészeti galéria Khartum Bahriban.",
+                  "text": "Atanye, a szudáni örökség és kézművesség múzeuma Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.528784,
@@ -431,7 +431,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Khaish Art Studio",
-                  "text": "A Khaish Art Studio egy kreatív galéria Khartum Bahriban.",
+                  "text": "Khaish Art Studio, múzeum és munkatér festők és szobrászok számára Bahri-ban.",
                   "category": "museum",
                   "coords": [
                         32.534573,
@@ -440,7 +440,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Shambat Bridge",
-                  "text": "A كبري شمبات egy híd Khartum Bahriban.",
+                  "text": "A Kék-Níluson átívelő közúti híd, amely Kartúmot és Bahrit köti össze.",
                   "category": "landmark",
                   "coords": [
                         32.507085,
@@ -451,7 +451,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Military Museum",
-                  "text": "Military Museum este un muzeu cu expoziții militare în Khartum Bahri.",
+                  "text": "Muzeul militar cu arme și uniforme istorice din Bahri.",
                   "category": "museum",
                   "coords": [
                         32.542868,
@@ -460,7 +460,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Arkaweet Park - Bahri",
-                  "text": "حديقة اركويت - بحري este un parc acvatic local în Khartum Bahri.",
+                  "text": "Parcul familial din cartierul Arkaweet din Bahri, cu zone de picnic și un loc de joacă.",
                   "category": "family",
                   "coords": [
                         32.542061,
@@ -469,7 +469,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Palace Museum",
-                  "text": "Palace Museum este un centru expozițional situat în Khartum Bahri.",
+                  "text": "Muzeul găzduit într-un fost palat regal din Bahri.",
                   "category": "museum",
                   "coords": [
                         32.528694,
@@ -478,7 +478,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Ethnological Museum",
-                  "text": "Ethnological Museum este un muzeu din Khartum Bahri.",
+                  "text": "Muzeul etnologic cu cultura și artefacte tradiționale sudaneze din Bahri.",
                   "category": "museum",
                   "coords": [
                         32.534253,
@@ -496,7 +496,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Natural History Museum",
-                  "text": "Natural History Museum este o instituție de științe naturale în Khartum Bahri.",
+                  "text": "Muzeul de istorie naturală cu expoziții despre fauna și fosilele sudaneze din Bahri.",
                   "category": "museum",
                   "coords": [
                         32.539803,
@@ -514,7 +514,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Theological College",
-                  "text": "كلية اللاهوت الإنجيلية este un punct de belvedere local în Khartum Bahri.",
+                  "text": "Colegiul teologic evanghelic cu un campus peisagistic în Bahri.",
                   "category": "natural",
                   "coords": [
                         32.531028,
@@ -523,7 +523,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Mak Nimr Bridge",
-                  "text": "كبري المك نمر este o atracție turistică cunoscută în Khartum Bahri.",
+                  "text": "Pod rutier peste Nilul Albastru, care leagă Bahri de Khartoum.",
                   "category": "landmark",
                   "coords": [
                         32.532999,
@@ -532,7 +532,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Nile Bridge",
-                  "text": "كبري النيل الأزرق este o atracție locală proeminentă în Khartum Bahri.",
+                  "text": "Podul Nilul Albastru, un pod pentru vehicule și pietoni peste Nilul Albastru în Bahri.",
                   "category": "landmark",
                   "coords": [
                         32.543775,
@@ -559,7 +559,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Sands",
-                  "text": "رمال الأسد este un punct de observare în Khartum Bahri.",
+                  "text": "Lion Sands, o formațiune naturală de nisip lângă Nilul Albastru din Bahri.",
                   "category": "natural",
                   "coords": [
                         32.510264,
@@ -568,7 +568,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Art Touch Gallery",
-                  "text": "معرض ارت طتش este o galerie de artă în Khartum Bahri.",
+                  "text": "Galerie de artă contemporană în Bahri, cu lucrări ale artiștilor locali sudanezi.",
                   "category": "museum",
                   "coords": [
                         32.535938,
@@ -577,7 +577,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blackcraft",
-                  "text": "Blackcraft este o galerie independentă situată în Khartum Bahri.",
+                  "text": "Galeria Blackcraft cu lucrări din metal și sculpturi în Bahri.",
                   "category": "museum",
                   "coords": [
                         32.530064,
@@ -586,7 +586,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Atanye",
-                  "text": "Atanye este o galerie de arte vizuale în Khartum Bahri.",
+                  "text": "Atanye, un muzeu al patrimoniului și meșteșugurilor sudaneze din Bahri.",
                   "category": "museum",
                   "coords": [
                         32.528784,
@@ -595,7 +595,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio este o galerie creativă în Khartum Bahri.",
+                  "text": "Khaish Art Studio, un muzeu și spațiu de lucru pentru pictori și sculptori din Bahri.",
                   "category": "museum",
                   "coords": [
                         32.534573,
@@ -604,7 +604,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Shambat Bridge",
-                  "text": "كبري شمبات este un pod situat în Khartum Bahri.",
+                  "text": "Un pod rutier peste Nilul Albastru, care leagă Khartoum de Bahri.",
                   "category": "landmark",
                   "coords": [
                         32.507085,
@@ -615,7 +615,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Military Museum",
-                  "text": "The Military Museum is an institution exhibiting military artifacts in Khartum Bahri.",
+                  "text": "Military museum exhibiting historic weapons and uniforms in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.542868,
@@ -624,7 +624,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Arkaweet Park - Bahri",
-                  "text": "حديقة اركويت - بحري is a local water park in Khartum Bahri.",
+                  "text": "Family park in the Arkaweet neighborhood of Bahri with picnic areas and a playground.",
                   "category": "family",
                   "coords": [
                         32.542061,
@@ -633,7 +633,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Palace Museum",
-                  "text": "The Palace Museum is an exhibition center situated in Khartum Bahri.",
+                  "text": "Museum housed in a former royal palace in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.528694,
@@ -642,7 +642,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Ethnological Museum",
-                  "text": "The Ethnological Museum is a dedicated museum facility in Khartum Bahri.",
+                  "text": "Ethnological museum showcasing traditional Sudanese culture and artifacts in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.534253,
@@ -660,7 +660,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Natural History Museum",
-                  "text": "The Natural History Museum is an educational institution located in Khartum Bahri.",
+                  "text": "Natural history museum with exhibits on Sudanese wildlife and fossils in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.539803,
@@ -678,7 +678,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Theological College",
-                  "text": "كلية اللاهوت الإنجيلية is a localized observation viewpoint in Khartum Bahri.",
+                  "text": "Evangelical theological college set in a landscaped campus in Bahri.",
                   "category": "natural",
                   "coords": [
                         32.531028,
@@ -687,7 +687,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Mak Nimr Bridge",
-                  "text": "كبري المك نمر is a notable tourist attraction in Khartum Bahri.",
+                  "text": "Road bridge spanning the Blue Nile, connecting Bahri to Khartoum.",
                   "category": "landmark",
                   "coords": [
                         32.532999,
@@ -696,7 +696,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blue Nile Bridge",
-                  "text": "كبري النيل الأزرق is a prominent local attraction in Khartum Bahri.",
+                  "text": "Blue Nile Bridge, a vehicle and pedestrian bridge over the Blue Nile in Bahri.",
                   "category": "landmark",
                   "coords": [
                         32.543775,
@@ -723,7 +723,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Sands",
-                  "text": "رمال الأسد is an observational viewpoint situated in Khartum Bahri.",
+                  "text": "Lion Sands, a natural sand formation near the Blue Nile in Bahri.",
                   "category": "natural",
                   "coords": [
                         32.510264,
@@ -732,7 +732,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Art Touch Gallery",
-                  "text": "معرض ارت طتش is an art gallery space in Khartum Bahri.",
+                  "text": "Contemporary art gallery in Bahri featuring works by local Sudanese artists.",
                   "category": "museum",
                   "coords": [
                         32.535938,
@@ -741,7 +741,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Blackcraft",
-                  "text": "Blackcraft is an independent gallery located in Khartum Bahri.",
+                  "text": "Blackcraft gallery showcasing metalwork and sculptures in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.530064,
@@ -750,7 +750,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Atanye",
-                  "text": "Atanye is a visual arts gallery in Khartum Bahri.",
+                  "text": "Atanye, a museum of Sudanese heritage and crafts in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.528784,
@@ -759,7 +759,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio is a creative gallery in Khartum Bahri.",
+                  "text": "Khaish Art Studio, a museum and workspace for painters and sculptors in Bahri.",
                   "category": "museum",
                   "coords": [
                         32.534573,
@@ -768,7 +768,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             },
             {
                   "name": "Shambat Bridge",
-                  "text": "كبري شمبات is a structural bridge located in Khartum Bahri.",
+                  "text": "A road bridge over the Blue Nile connecting Khartoum and Bahri.",
                   "category": "landmark",
                   "coords": [
                         32.507085,
@@ -2463,7 +2463,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al-Hasaheisa",
-                  "text": "الحصاحيصا ist eine bemerkenswerte Attraktion in der Stadt Al-Hasaheisa.",
+                  "text": "Al-Hasaheisa, ein historischer Marktort im Zentrum von Hasaheisa.",
                   "category": "landmark",
                   "coords": [
                         33.302222,
@@ -2483,7 +2483,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al-Hasaheisa",
-                  "text": "A الحصاحيصا egy figyelemre méltó látványosság Al-Hasaheisa városában.",
+                  "text": "Al-Hasaheisa, történelmi piactér Hasaheisa központjában.",
                   "category": "landmark",
                   "coords": [
                         33.302222,
@@ -2503,7 +2503,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al-Hasaheisa",
-                  "text": "الحصاحيصا este o atracție demnă de remarcat în orașul Al-Hasaheisa.",
+                  "text": "Al-Hasaheisa, un centru istoric de piață în Hasaheisa.",
                   "category": "landmark",
                   "coords": [
                         33.302222,
@@ -2523,7 +2523,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al-Hasaheisa",
-                  "text": "الحصاحيصا is a noteworthy attraction in the city of Al-Hasaheisa.",
+                  "text": "Al-Hasaheisa, a historic market town center in Hasaheisa.",
                   "category": "landmark",
                   "coords": [
                         33.302222,

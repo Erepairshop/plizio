@@ -7,7 +7,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Golem Korab",
-                  "text": "Der Berg Korab ist der höchste Gipfel Albaniens und Nordmazedoniens.",
+                  "text": "Der Berg Korab ist mit 2764 m der höchste Gipfel Nordmazedoniens an der Grenze zu Albanien.",
                   "category": "natural",
                   "coords": [
                         20.546858,
@@ -36,7 +36,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Golem Korab",
-                  "text": "A Korab-hegy Albánia és Észak-Macedónia legmagasabb hegycsúcsa.",
+                  "text": "A Korab-hegy (2764 m) Észak-Macedónia legmagasabb csúcsa az albán határon.",
                   "category": "natural",
                   "coords": [
                         20.546858,
@@ -65,7 +65,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Golem Korab",
-                  "text": "Muntele Korab este cel mai înalt vârf din Albania și Macedonia de Nord.",
+                  "text": "Muntele Korab, cu 2764 m, este cel mai înalt vârf al Macedoniei de Nord la granița cu Albania.",
                   "category": "natural",
                   "coords": [
                         20.546858,
@@ -94,7 +94,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mount Korab",
-                  "text": "Mount Korab is the highest peak in Albania and North Macedonia.",
+                  "text": "Mount Korab, at 2,764 m, is the highest peak in North Macedonia on the border with Albania.",
                   "category": "natural",
                   "coords": [
                         20.546858,
@@ -250,7 +250,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jorgov Kamen",
-                  "text": "Malerischer Aussichtspunkt im Pelister-Gebirge.",
+                  "text": "Natürliche Felsformation auf dem Pelister-Gipfel mit Panoramablick über den Berg.",
                   "category": "natural",
                   "coords": [
                         21.222828,
@@ -268,7 +268,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Dihovo river pool",
-                  "text": "Der Dihovo-Flusspool ist ein Schwimmbecken am Pelister-Gipfel.",
+                  "text": "Natürlicher Flusspool im Dihovo-Gebiet nahe dem Pelister-Gipfel.",
                   "category": "recreational",
                   "coords": [
                         21.255515,
@@ -277,7 +277,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Basen Dihovo",
-                  "text": "Basen Dihovo ist ein Schwimmbecken am Pelister-Gipfel.",
+                  "text": "Schwimmbecken im Dihovo-Gebiet nahe dem Pelister-Gipfel.",
                   "category": "recreational",
                   "coords": [
                         21.257966,
@@ -324,7 +324,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jorgov Kamen",
-                  "text": "Gleccseres tájra néző kilátópont a Peliszter-hegységben.",
+                  "text": "Természetes sziklaformáció a Pelister-csúcson, panorámás kilátással a hegyre.",
                   "category": "natural",
                   "coords": [
                         21.222828,
@@ -342,7 +342,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Dihovo river pool",
-                  "text": "A Dihovo folyómenti medence egy úszóhely a Pelister-csúcsnál.",
+                  "text": "Természetes folyami medence a Dihovo területén a Pelister-csúcs közelében.",
                   "category": "recreational",
                   "coords": [
                         21.255515,
@@ -351,7 +351,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Basen Dihovo",
-                  "text": "A Basen Dihovo egy úszómedence a Pelister-csúcsnál.",
+                  "text": "Úszómedence a Dihovo területén a Pelister-csúcs közelében.",
                   "category": "recreational",
                   "coords": [
                         21.257966,
@@ -398,7 +398,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jorgov Kamen",
-                  "text": "Punct de belvedere pitoresc în munții Pelister.",
+                  "text": "Formațiune naturală de stâncă pe Vârful Pelister, cu vedere panoramică asupra muntelui.",
                   "category": "natural",
                   "coords": [
                         21.222828,
@@ -416,7 +416,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Dihovo river pool",
-                  "text": "Piscina fluvială Dihovo este o piscină situată lângă vârful Pelister.",
+                  "text": "Bazin natural de râu în zona Dihovo lângă Vârful Pelister.",
                   "category": "recreational",
                   "coords": [
                         21.255515,
@@ -425,7 +425,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Basen Dihovo",
-                  "text": "Basen Dihovo este o piscină situată lângă vârful Pelister.",
+                  "text": "Piscină în zona Dihovo lângă Vârful Pelister.",
                   "category": "recreational",
                   "coords": [
                         21.257966,
@@ -472,7 +472,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jorgov Kamen",
-                  "text": "Scenic viewpoint located in the Pelister mountains.",
+                  "text": "Natural rock formation on Pelister Peak, offering panoramic views of the mountain.",
                   "category": "natural",
                   "coords": [
                         21.222828,
@@ -490,7 +490,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Dihovo river pool",
-                  "text": "Dihovo river pool is a swimming area located near Pelister Peak.",
+                  "text": "Natural river pool in the Dihovo area near Pelister Peak.",
                   "category": "recreational",
                   "coords": [
                         21.255515,
@@ -499,7 +499,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Basen Dihovo",
-                  "text": "Basen Dihovo is a swimming pool located near Pelister Peak.",
+                  "text": "Swimming pool in the Dihovo area near Pelister Peak.",
                   "category": "recreational",
                   "coords": [
                         21.257966,
@@ -1294,7 +1294,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Bazen FZTs",
-                  "text": "Ein Schwimmbad im Pcinja-Tal für Erholung.",
+                  "text": "Freizeitbad namens FZTs im Pcinja-Tal.",
                   "category": "recreational",
                   "coords": [
                         21.742363,
@@ -1314,7 +1314,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Bazen FZTs",
-                  "text": "Úszómedence a Pcinja-völgyben kikapcsolódáshoz.",
+                  "text": "FZTs nevű rekreációs medence a Pcinja-völgyben.",
                   "category": "recreational",
                   "coords": [
                         21.742363,
@@ -1334,7 +1334,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Bazen FZTs",
-                  "text": "O piscină în Valea Pcinja pentru recreere.",
+                  "text": "Piscină recreativă numită FZTs în Valea Pcinja.",
                   "category": "recreational",
                   "coords": [
                         21.742363,
@@ -1354,7 +1354,7 @@ export const northmacedoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Bazen FZTs",
-                  "text": "A swimming pool in the Pcinja Valley for recreation.",
+                  "text": "Recreational pool named FZTs in the Pcinja Valley.",
                   "category": "recreational",
                   "coords": [
                         21.742363,
@@ -2716,7 +2716,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vrshina",
-                  "text": "Ein markanter Gipfel in der Gebirgsregion Galicica.",
+                  "text": "Gipfel im Galicica-Gebirge mit Panoramablick auf den Ohridsee.",
                   "category": "landmark",
                   "coords": [
                         20.901189,
@@ -2745,7 +2745,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vrshina",
-                  "text": "Jellegzetes csúcs a Galicsica hegyvidéki régiójában.",
+                  "text": "Csúcs a Galicica-hegységben, panorámás kilátással az Ohridi-tóra.",
                   "category": "landmark",
                   "coords": [
                         20.901189,
@@ -2774,7 +2774,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vrshina",
-                  "text": "Un vârf proeminent în regiunea montană Galicica.",
+                  "text": "Vârf în munții Galicica cu vedere panoramică asupra lacului Ohrid.",
                   "category": "landmark",
                   "coords": [
                         20.901189,
@@ -2803,7 +2803,7 @@ export const northmacedoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vršina",
-                  "text": "A prominent peak in the Galicica mountain region.",
+                  "text": "Peak in the Galicica Mountains with panoramic views of Lake Ohrid.",
                   "category": "landmark",
                   "coords": [
                         20.901189,

@@ -117,7 +117,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Kaštieľ Sokoľany",
-                  "text": "Ein historisches Landschloss in Sokoľany.",
+                  "text": "Ein Barockschloss neben dem US-Steel-Werk in Košice.",
                   "category": "historical",
                   "coords": [
                         21.233352,
@@ -126,7 +126,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Panské sídlo",
-                  "text": "Ein ehemaliger Herrensitz in der Umgebung von Košice.",
+                  "text": "Der ehemalige Herrensitz der Familie Szirmay nahe dem US-Steel-Gelände.",
                   "category": "historical",
                   "coords": [
                         21.166553,
@@ -164,7 +164,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Kaštieľ Sokoľany",
-                  "text": "Történelmi kastély Sokoľanyban.",
+                  "text": "Barokk kastély a košicei US-Steel gyár mellett.",
                   "category": "historical",
                   "coords": [
                         21.233352,
@@ -173,7 +173,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Csáky-kastély",
-                  "text": "Egykori úri lak Kassa környékén.",
+                  "text": "A Szirmay család egykori kúriája az US-Steel terület közelében.",
                   "category": "historical",
                   "coords": [
                         21.166553,
@@ -211,7 +211,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Kaštieľ Sokoľany",
-                  "text": "Un conac istoric în Sokoľany.",
+                  "text": "Un conac baroc lângă uzina US Steel din Košice.",
                   "category": "historical",
                   "coords": [
                         21.233352,
@@ -220,7 +220,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Panské sídlo",
-                  "text": "O fostă reședință nobiliară în împrejurimile orașului Košice.",
+                  "text": "Fosta reședință a familiei Szirmay lângă zona US Steel.",
                   "category": "historical",
                   "coords": [
                         21.166553,
@@ -258,7 +258,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Kaštieľ Sokoľany",
-                  "text": "A historic manor house in Sokoľany.",
+                  "text": "A Baroque manor house next to the US Steel plant in Košice.",
                   "category": "historical",
                   "coords": [
                         21.233352,
@@ -267,7 +267,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
             },
             {
                   "name": "Panské sídlo",
-                  "text": "A former manor house in the vicinity of Košice.",
+                  "text": "The former residence of the Szirmay family near the US Steel complex.",
                   "category": "historical",
                   "coords": [
                         21.166553,
@@ -563,7 +563,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
       "de": [
             {
                   "name": "Kaštieľ Pečeňady",
-                  "text": "Ein historisches Herrenhaus in der Ortschaft Pečeňady.",
+                  "text": "Herrenhaus, erbaut 1820, nahe dem Kernkraftwerk Jaslovske Bohunice.",
                   "category": "historical",
                   "coords": [
                         17.719336,
@@ -572,7 +572,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
             },
             {
                   "name": "Kaštieľ Jaslovské Bohunice",
-                  "text": "Ein herrschaftliches Anwesen in Jaslovské Bohunice.",
+                  "text": "Ein Renaissanceschloss direkt neben dem Kernkraftwerk Jaslovské Bohunice.",
                   "category": "historical",
                   "coords": [
                         17.643064,
@@ -601,7 +601,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
       "hu": [
             {
                   "name": "Kaštieľ Pečeňady",
-                  "text": "Történelmi kúria Pečeňady településen.",
+                  "text": "1820-ban épült kastély a Jaslovske Bohunice erőmű közelében.",
                   "category": "historical",
                   "coords": [
                         17.719336,
@@ -610,7 +610,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
             },
             {
                   "name": "Kaštieľ Jaslovské Bohunice",
-                  "text": "Egy nemesi kúria Jaslovské Bohunice területén.",
+                  "text": "Reneszánsz kastély közvetlenül a Jaslovské Bohunice-i atomerőmű mellett.",
                   "category": "historical",
                   "coords": [
                         17.643064,
@@ -639,7 +639,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
       "ro": [
             {
                   "name": "Kaštieľ Pečeňady",
-                  "text": "Un conac istoric situat în localitatea Pečeňady.",
+                  "text": "Conac construit în 1820 lângă centrala nucleară Jaslovske Bohunice.",
                   "category": "historical",
                   "coords": [
                         17.719336,
@@ -648,7 +648,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
             },
             {
                   "name": "Kaštieľ Jaslovské Bohunice",
-                  "text": "O reședință nobiliară situată în Jaslovské Bohunice.",
+                  "text": "Un conac renascentist chiar lângă centrala nucleară de la Jaslovské Bohunice.",
                   "category": "historical",
                   "coords": [
                         17.643064,
@@ -677,7 +677,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
       "en": [
             {
                   "name": "Kaštieľ Pečeňady",
-                  "text": "A historical manor house located in the village of Pečeňady.",
+                  "text": "Manor house built in 1820 near the Jaslovske Bohunice power plant.",
                   "category": "historical",
                   "coords": [
                         17.719336,
@@ -686,7 +686,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
             },
             {
                   "name": "Kaštieľ Jaslovské Bohunice",
-                  "text": "A stately manor house located in Jaslovské Bohunice.",
+                  "text": "A Renaissance manor house adjacent to the Jaslovské Bohunice nuclear power plant.",
                   "category": "historical",
                   "coords": [
                         17.643064,

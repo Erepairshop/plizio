@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraKyrgyzstanReliefV2: POI[] = [
   {
-    id: "pik-pobedy-relief-v2",
+    id: "pik-pobedy-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dschengisch Tschokusu",
+                  "text": "Mit 7.439 Metern ist dies der höchste Berg im Tienschan-Gebirge und der nördlichste Siebentausender.",
+                  "category": "natural",
+                  "coords": [
+                        80.129513,
+                        42.035016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Győzelem-csúcs",
+                  "text": "7439 méteres magasságával ez a Tien-san legmagasabb hegye és a legészakibb hétezres csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        80.129513,
+                        42.035016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jengish Chokusu",
+                  "text": "Cu 7.439 de metri, acesta este cel mai înalt munte din lanțul Tian-Șan și cel mai nordic vârf de peste 7.000 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        80.129513,
+                        42.035016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jengish Chokusu",
+                  "text": "At 7,439 meters, this is the highest mountain in the Tien Shan range and the northernmost 7,000er.",
+                  "category": "natural",
+                  "coords": [
+                        80.129513,
+                        42.035016
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1292, 42.0353],
@@ -47,7 +92,160 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "khan-tengri-relief-v2",
+    id: "khan-tengri-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khan Tengri",
+                  "text": "Ein markanter Gipfel in Form einer Marmorpyramide, der 7.010 Meter erreicht und als einer der schönsten der Welt gilt.",
+                  "category": "natural",
+                  "coords": [
+                        80.175012,
+                        42.210811
+                  ]
+            },
+            {
+                  "name": "Eastern Shatyr",
+                  "text": "Ein bedeutender Gipfel im zentralen Tienschan, der auf dem von Khan Tengri ausgehenden Grat liegt.",
+                  "category": "natural",
+                  "coords": [
+                        80.250798,
+                        42.219225
+                  ]
+            },
+            {
+                  "name": "Przhevalsky",
+                  "text": "Ein vergletscherter Gipfel im zentralen Tienschan-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        80.284169,
+                        42.23507
+                  ]
+            },
+            {
+                  "name": "Western Shatyr",
+                  "text": "Ein hoher, vergletscherter Berggipfel in der Saryjas-Kette.",
+                  "category": "natural",
+                  "coords": [
+                        80.22853,
+                        42.216655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khan Tengri",
+                  "text": "Jellegzetes márványpiramis alakú csúcs, amely 7010 méter magas, és a világ egyik legszebbjeként tartják számon.",
+                  "category": "natural",
+                  "coords": [
+                        80.175012,
+                        42.210811
+                  ]
+            },
+            {
+                  "name": "Eastern Shatyr",
+                  "text": "A központi Tien-san egyik jelentős csúcsa a Khan Tengriből induló gerincen.",
+                  "category": "natural",
+                  "coords": [
+                        80.250798,
+                        42.219225
+                  ]
+            },
+            {
+                  "name": "Przhevalsky",
+                  "text": "Eljegesedett hegycsúcs a Középső-Tien-san hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        80.284169,
+                        42.23507
+                  ]
+            },
+            {
+                  "name": "Western Shatyr",
+                  "text": "Magas, gleccserekkel borított hegycsúcs a Szarijaz-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        80.22853,
+                        42.216655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khan Tengri",
+                  "text": "Un vârf piramidal de marmură distinctiv, care atinge 7.010 metri, considerat unul dintre cei mai frumoși din lume.",
+                  "category": "natural",
+                  "coords": [
+                        80.175012,
+                        42.210811
+                  ]
+            },
+            {
+                  "name": "Eastern Shatyr",
+                  "text": "Un vârf major din Tian-Șanul Central, situat pe creasta care se întinde de la Khan Tengri.",
+                  "category": "natural",
+                  "coords": [
+                        80.250798,
+                        42.219225
+                  ]
+            },
+            {
+                  "name": "Przhevalsky",
+                  "text": "Un vârf muntos înghețat situat în masivul Tian-Șanul Central.",
+                  "category": "natural",
+                  "coords": [
+                        80.284169,
+                        42.23507
+                  ]
+            },
+            {
+                  "name": "Western Shatyr",
+                  "text": "Un vârf muntos înalt și înghețat din lanțul Saryjaz.",
+                  "category": "natural",
+                  "coords": [
+                        80.22853,
+                        42.216655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khan Tengri",
+                  "text": "A distinctive marble pyramid peak reaching 7,010 meters, considered one of the world's most beautiful.",
+                  "category": "natural",
+                  "coords": [
+                        80.175012,
+                        42.210811
+                  ]
+            },
+            {
+                  "name": "Eastern Shatyr",
+                  "text": "A major peak in the Central Tien Shan, situated on the ridge extending from Khan Tengri.",
+                  "category": "natural",
+                  "coords": [
+                        80.250798,
+                        42.219225
+                  ]
+            },
+            {
+                  "name": "Przhevalsky",
+                  "text": "A glaciated peak located in the Central Tien Shan mountain massif.",
+                  "category": "natural",
+                  "coords": [
+                        80.284169,
+                        42.23507
+                  ]
+            },
+            {
+                  "name": "Western Shatyr",
+                  "text": "A high, glaciated mountain peak situated in the Saryjaz range.",
+                  "category": "natural",
+                  "coords": [
+                        80.22853,
+                        42.216655
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1747, 42.2105],
@@ -267,7 +465,88 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "chuy-valley-relief-v2",
+    id: "chuy-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Evraziia parky",
+                  "text": "Ein Freizeitpark, der Fahrgeschäfte und Unterhaltungsattraktionen im Tschüi-Tal bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        74.520449,
+                        42.827668
+                  ]
+            },
+            {
+                  "name": "Khulifa al'-Rashiddin",
+                  "text": "Eine islamische Kultstätte, die nach den rechtgeleiteten Kalifen benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.508204,
+                        42.844428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Evraziia parky",
+                  "text": "Egy vidámpark, amely körhintákat és szórakoztató látványosságokat kínál a Csüj-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        74.520449,
+                        42.827668
+                  ]
+            },
+            {
+                  "name": "Khulifa al'-Rashiddin",
+                  "text": "A Rashidun kalifákról elnevezett iszlám istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        74.508204,
+                        42.844428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Evraziia parky",
+                  "text": "Un parc de distracții care oferă atracții și divertisment în Valea Chuy.",
+                  "category": "recreational",
+                  "coords": [
+                        74.520449,
+                        42.827668
+                  ]
+            },
+            {
+                  "name": "Khulifa al'-Rashiddin",
+                  "text": "Un lăcaș de cult islamic numit după Califii Rashidun.",
+                  "category": "landmark",
+                  "coords": [
+                        74.508204,
+                        42.844428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Evraziia parky",
+                  "text": "An amusement park offering rides and entertainment attractions in the Chuy Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        74.520449,
+                        42.827668
+                  ]
+            },
+            {
+                  "name": "Khulifa al'-Rashiddin",
+                  "text": "An Islamic worship site named after the Rashidun Caliphs.",
+                  "category": "landmark",
+                  "coords": [
+                        74.508204,
+                        42.844428
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-C",
     coords: [74.5, 42.8],
@@ -311,7 +590,52 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "suusamyr-valley-relief-v2",
+    id: "suusamyr-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mechet' - Susamyr",
+                  "text": "Dieses islamische Gebetshaus liegt im hochgelegenen Suusamyr-Tal und wird von ansässigen Viehzüchtern besucht.",
+                  "category": "religious",
+                  "coords": [
+                        73.742686,
+                        42.233162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mechet' - Susamyr",
+                  "text": "Ez az iszlám imaház a magasan fekvő Suusamyr-völgyben található, és a helyi állattenyésztők látogatják.",
+                  "category": "religious",
+                  "coords": [
+                        73.742686,
+                        42.233162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mechet' - Susamyr",
+                  "text": "Această casă de rugăciune islamică este situată în valea Suusamyr, la mare altitudine, și este vizitată de crescătorii de animale din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        73.742686,
+                        42.233162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mechet' - Susamyr",
+                  "text": "This Islamic prayer house is located in the high-altitude Suusamyr Valley and is visited by local pastoralists.",
+                  "category": "religious",
+                  "coords": [
+                        73.742686,
+                        42.233162
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-C",
     coords: [73.8, 42.2],
@@ -355,7 +679,196 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "ala-archa-gorge-relief-v2",
+    id: "ala-archa-gorge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "pik Semionova-Tian'-Shan'skogo",
+                  "text": "Der höchste Gipfel der Kirgisischen Kette mit 4895 Metern, benannt nach dem Entdecker Pjotr Semjonow.",
+                  "category": "natural",
+                  "coords": [
+                        74.571548,
+                        42.520889
+                  ]
+            },
+            {
+                  "name": "Svobodnaia Koreia",
+                  "text": "Ein markanter Granitgipfel im Ala-Artscha-Nationalpark, bekannt für seine steile Nordwand bei Bergsteigern.",
+                  "category": "natural",
+                  "coords": [
+                        74.545026,
+                        42.496514
+                  ]
+            },
+            {
+                  "name": "Panoramnyi vid okolo \"Raskolotogo Serdtsa\"",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Ak-Sai-Gletscher und den markanten Felsen, der an ein gebrochenes Herz erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        74.492552,
+                        42.55588
+                  ]
+            },
+            {
+                  "name": "Plato Tepshi",
+                  "text": "Eine grasbewachsene Hochebene, die einen weiten Rundblick auf die schneebedeckten Gipfel des Tienschan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        74.50111,
+                        42.556087
+                  ]
+            },
+            {
+                  "name": "Ala-Artscha-Nationalpark",
+                  "text": "Ein alpiner Nationalpark mit Gletschern, Fichtenwäldern und dem durch eine Schlucht fließenden Ala-Artscha-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        74.481095,
+                        42.540502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pik Semionova-Tian'-Shan'skogo",
+                  "text": "A Kirgiz-hegység legmagasabb csúcsa 4895 méterrel, Pjotr Szemjonov kutatóról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        74.571548,
+                        42.520889
+                  ]
+            },
+            {
+                  "name": "Svobodnaia Koreia",
+                  "text": "Jellegzetes gránitcsúcs az Ala-Arcsa Nemzeti Parkban, meredek északi fala híres a hegymászók körében.",
+                  "category": "natural",
+                  "coords": [
+                        74.545026,
+                        42.496514
+                  ]
+            },
+            {
+                  "name": "Panoramnyi vid okolo \"Raskolotogo Serdtsa\"",
+                  "text": "Kilátópont az Ak-Sai-gleccserre és a kettétört szívre emlékeztető jellegzetes sziklára.",
+                  "category": "natural",
+                  "coords": [
+                        74.492552,
+                        42.55588
+                  ]
+            },
+            {
+                  "name": "Plato Tepshi",
+                  "text": "Füves fennsík, amely széles körpanorámát kínál a Tien-san hófödte csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        74.50111,
+                        42.556087
+                  ]
+            },
+            {
+                  "name": "Alarcha uluttuk tabiiat parky",
+                  "text": "Alpesi nemzeti park gleccserekkel, fenyőerdőkkel és a szurdokon átfolyó Ala-Arcsa folyóval.",
+                  "category": "natural",
+                  "coords": [
+                        74.481095,
+                        42.540502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pik Semionova-Tian'-Shan'skogo",
+                  "text": "Cel mai înalt vârf din lanțul muntos Kârgâz, cu 4895 metri, numit după exploratorul Piotr Semionov.",
+                  "category": "natural",
+                  "coords": [
+                        74.571548,
+                        42.520889
+                  ]
+            },
+            {
+                  "name": "Svobodnaia Koreia",
+                  "text": "Un vârf de granit proeminent în Parcul Național Ala-Archa, cunoscut printre alpiniști pentru peretele său nordic abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        74.545026,
+                        42.496514
+                  ]
+            },
+            {
+                  "name": "Panoramnyi vid okolo \"Raskolotogo Serdtsa\"",
+                  "text": "Un punct de observație cu vedere spre ghețarul Ak-Sai și stânca distinctivă ce seamănă cu o inimă frântă.",
+                  "category": "natural",
+                  "coords": [
+                        74.492552,
+                        42.55588
+                  ]
+            },
+            {
+                  "name": "Plato Tepshi",
+                  "text": "Un platou înalt înierbat care oferă o panoramă circulară largă asupra vârfurilor înzăpezite ale Tien Shan.",
+                  "category": "natural",
+                  "coords": [
+                        74.50111,
+                        42.556087
+                  ]
+            },
+            {
+                  "name": "Parcul Național Ala-Archa",
+                  "text": "Un parc național alpin cu ghețari, păduri de molid și râul Ala-Archa care curge printr-un defileu.",
+                  "category": "natural",
+                  "coords": [
+                        74.481095,
+                        42.540502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pik Semionova-Tian'-Shan'skogo",
+                  "text": "The highest peak of the Kyrgyz Range at 4,895 meters, named after the explorer Pyotr Semenov.",
+                  "category": "natural",
+                  "coords": [
+                        74.571548,
+                        42.520889
+                  ]
+            },
+            {
+                  "name": "Svobodnaia Koreia",
+                  "text": "A prominent granite peak in Ala-Archa National Park, famous among climbers for its steep north face.",
+                  "category": "natural",
+                  "coords": [
+                        74.545026,
+                        42.496514
+                  ]
+            },
+            {
+                  "name": "Panoramic view near the \"Broken Heart\"",
+                  "text": "A viewpoint overlooking the Ak-Sai glacier and the distinctive rock resembling a broken heart.",
+                  "category": "natural",
+                  "coords": [
+                        74.492552,
+                        42.55588
+                  ]
+            },
+            {
+                  "name": "Tepshi plateau",
+                  "text": "A grassy high plateau offering a wide circular panorama of the snow-capped Tien Shan peaks.",
+                  "category": "natural",
+                  "coords": [
+                        74.50111,
+                        42.556087
+                  ]
+            },
+            {
+                  "name": "Ala-Archa Nature Park",
+                  "text": "An alpine national park featuring glaciers, spruce forests, and the Ala-Archa River flowing through a gorge.",
+                  "category": "natural",
+                  "coords": [
+                        74.481095,
+                        42.540502
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-C",
     coords: [74.48, 42.56],
@@ -399,7 +912,52 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "terskey-ala-too-relief-v2",
+    id: "terskey-ala-too-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karakol chokusu",
+                  "text": "Die höchste vergletscherte Pyramide des Terskej-Alatau-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        78.464047,
+                        42.172433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karakol chokusu",
+                  "text": "A Terszkej-Alatau-hegység legmagasabb, eljegesedett piramis alakú csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        78.464047,
+                        42.172433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karakol chokusu",
+                  "text": "Cea mai înaltă piramidă înghețată din lanțul muntos Terskey Alatau.",
+                  "category": "natural",
+                  "coords": [
+                        78.464047,
+                        42.172433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karakol peak",
+                  "text": "The highest glaciated pyramid in the Terskey Alatau range.",
+                  "category": "natural",
+                  "coords": [
+                        78.464047,
+                        42.172433
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KG-Y",
     coords: [78.5, 42.16],
@@ -487,7 +1045,52 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "jyrgalan-valley-relief-v2",
+    id: "jyrgalan-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shakhtiorlorgo dank!",
+                  "text": "Ein Denkmal in Dschyrgalan, das den Bergleuten gewidmet ist, die die lokalen Kohlevorkommen abbauten.",
+                  "category": "historical",
+                  "coords": [
+                        79.00801,
+                        42.613582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shakhtiorlorgo dank!",
+                  "text": "Emlékmű Jyrgalanban, amelyet a helyi szénlelőhelyeken dolgozó bányászok tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        79.00801,
+                        42.613582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shakhtiorlorgo dank!",
+                  "text": "Un monument în Jyrgalan dedicat minerilor care au exploatat zăcămintele locale de cărbune.",
+                  "category": "historical",
+                  "coords": [
+                        79.00801,
+                        42.613582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shakhtiorlorgo dank!",
+                  "text": "A monument in Jyrgalan dedicated to the miners who worked the local coal deposits.",
+                  "category": "historical",
+                  "coords": [
+                        79.00801,
+                        42.613582
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-Y",
     coords: [79.0, 42.6],
@@ -531,7 +1134,52 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "chong-kemin-valley-relief-v2",
+    id: "chong-kemin-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zhashyl-Kol",
+                  "text": "Ein smaragdgrüner Gebirgssee im Chong-Kemin-Tal, der malerisch in die unberührte Natur eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        76.353332,
+                        42.78429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zhashyl-Kol",
+                  "text": "Smaragdzöld hegyi tó a Chong-Kemin-völgyben, amely festői módon ágyazódik a háborítatlan természetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        76.353332,
+                        42.78429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zhashyl-Kol",
+                  "text": "Un lac montan de un verde smarald în valea Chong-Kemin, situat pitoresc în mijlocul naturii virgine.",
+                  "category": "landmark",
+                  "coords": [
+                        76.353332,
+                        42.78429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zhashyl-Kol",
+                  "text": "An emerald-green mountain lake in the Chong-Kemin valley, picturesquely nestled in untouched nature.",
+                  "category": "landmark",
+                  "coords": [
+                        76.353332,
+                        42.78429
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-C",
     coords: [76.25, 42.75],
@@ -663,7 +1311,448 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "fergana-valley-relief-v2",
+    id: "fergana-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arsif",
+                  "text": "Ein historischer Siedlungsplatz in der Fergana-Region, der Einblicke in die lokale ländliche Kultur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.973584,
+                        40.424545
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Farg'oniy",
+                  "text": "Ein gepflegter Park und Denkmal zu Ehren des mittelalterlichen Gelehrten Ahmad Al-Farghani.",
+                  "category": "landmark",
+                  "coords": [
+                        72.061559,
+                        40.523442
+                  ]
+            },
+            {
+                  "name": "World War II 1941-1945",
+                  "text": "Ein Gedenkkomplex mit Ewiger Flamme zur Ehre der Gefallenen des Zweiten Weltkriegs aus der Region.",
+                  "category": "historical",
+                  "coords": [
+                        72.068116,
+                        40.525638
+                  ]
+            },
+            {
+                  "name": "Musajon xoji jome' masjidi",
+                  "text": "Eine klassische usbekische Moschee mit einem schattigen Vorhof für Gebete im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        72.030255,
+                        40.481531
+                  ]
+            },
+            {
+                  "name": "Tolmozor jome' masjidi",
+                  "text": "Ein muslimisches Heiligtum mit traditionellen Ziegelarbeiten und einem markanten grünen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        72.078522,
+                        40.494545
+                  ]
+            },
+            {
+                  "name": "Imom Buxoriy jome' masjidi",
+                  "text": "Eine nach dem berühmten Gelehrten al-Buchari benannte Moschee mit prachtvoller geometrischer Ornamentik.",
+                  "category": "landmark",
+                  "coords": [
+                        72.021008,
+                        40.51197
+                  ]
+            },
+            {
+                  "name": "Abu Hanifa jome' masjidi",
+                  "text": "Ein religiöses Zentrum, das nach der sunnitischen Rechtsschule des Abu Hanifa benannt ist und lokale Pilger anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        72.070467,
+                        40.517058
+                  ]
+            },
+            {
+                  "name": "Mavlonxon xoji jome' masjidi",
+                  "text": "Eine Freitagsmoschee mit einem kunstvoll gestalteten Mihrab und Platz für hunderte Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        72.099521,
+                        40.540775
+                  ]
+            },
+            {
+                  "name": "Qo'shkechik jome' masjidi",
+                  "text": "Eine malerische Moschee an der Straßenkreuzung, die durch ihre weithin sichtbare goldene Kuppel besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        72.04017,
+                        40.520142
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Diese Freitagsmoschee im Ferghanatal dient als bedeutendes spirituelles Zentrum für die muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        71.955704,
+                        40.424951
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ein lebhafter zentralasiatischer Basar, auf dem frische Lebensmittel und traditionelle Waren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        71.890394,
+                        40.517567
+                  ]
+            },
+            {
+                  "name": "Clothes market",
+                  "text": "Ein spezialisierter Markt für Textilien, der eine große Auswahl an traditioneller und moderner Kleidung bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        72.064749,
+                        40.526554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arsif",
+                  "text": "Történelmi településhely a Fergana-régióban, amely betekintést nyújt a helyi vidéki kultúrába.",
+                  "category": "landmark",
+                  "coords": [
+                        71.973584,
+                        40.424545
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Farg'oniy",
+                  "text": "Gondozott park és emlékmű a középkori tudós, Ahmad Al-Fargáni tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        72.061559,
+                        40.523442
+                  ]
+            },
+            {
+                  "name": "World War II 1941-1945",
+                  "text": "Emlékkomplexum öröklánggal a második világháború helyi áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        72.068116,
+                        40.525638
+                  ]
+            },
+            {
+                  "name": "Musajon xoji jome' masjidi",
+                  "text": "Klasszikus üzbég mecset árnyékos előudvarral a szabadtéri imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.030255,
+                        40.481531
+                  ]
+            },
+            {
+                  "name": "Tolmozor jome' masjidi",
+                  "text": "Hagyományos téglaépítésű muzulmán szentély feltűnő zöld minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        72.078522,
+                        40.494545
+                  ]
+            },
+            {
+                  "name": "Imom Buxoriy jome' masjidi",
+                  "text": "A híres tudósról, al-Buháriról elnevezett mecset pompás geometrikus díszítéssel.",
+                  "category": "landmark",
+                  "coords": [
+                        72.021008,
+                        40.51197
+                  ]
+            },
+            {
+                  "name": "Abu Hanifa jome' masjidi",
+                  "text": "Abu Hanifa szunnita jogtudósról elnevezett vallási központ, amely vonzza a helyi zarándokokat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.070467,
+                        40.517058
+                  ]
+            },
+            {
+                  "name": "Mavlonxon xoji jome' masjidi",
+                  "text": "Pénteki mecset művészien kialakított mihrábbal és férőhellyel több száz hívő számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.099521,
+                        40.540775
+                  ]
+            },
+            {
+                  "name": "Qo'shkechik jome' masjidi",
+                  "text": "Gidres-bodros mecset az útkereszteződésnél, amely messziről látható arany kupolájával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        72.04017,
+                        40.520142
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Ez a Fergan-völgyi pénteki mecset a helyi muszlim közösség fontos spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        71.955704,
+                        40.424951
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Egy élénk közép-ázsiai bazár, ahol friss élelmiszereket és hagyományos árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        71.890394,
+                        40.517567
+                  ]
+            },
+            {
+                  "name": "Clothes market",
+                  "text": "Textíliákra szakosodott piac, amely hagyományos és modern ruházati cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        72.064749,
+                        40.526554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arsif",
+                  "text": "O așezare istorică în regiunea Fergana, oferind perspective asupra culturii rurale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        71.973584,
+                        40.424545
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Farg'oniy",
+                  "text": "Un parc bine întreținut și un monument în onoarea savantului medieval Ahmad Al-Farghani.",
+                  "category": "landmark",
+                  "coords": [
+                        72.061559,
+                        40.523442
+                  ]
+            },
+            {
+                  "name": "World War II 1941-1945",
+                  "text": "Un complex memorial cu o flacără eternă în onoarea celor din regiune căzuți în Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        72.068116,
+                        40.525638
+                  ]
+            },
+            {
+                  "name": "Musajon xoji jome' masjidi",
+                  "text": "O moschee uzbecă clasică, având o curte umbrită pentru rugăciunile în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        72.030255,
+                        40.481531
+                  ]
+            },
+            {
+                  "name": "Tolmozor jome' masjidi",
+                  "text": "Un lăcaș musulman cu zidărie tradițională din cărămidă și un minaret verde proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        72.078522,
+                        40.494545
+                  ]
+            },
+            {
+                  "name": "Imom Buxoriy jome' masjidi",
+                  "text": "O moschee numită după celebrul savant al-Bukhari, decorată cu ornamentații geometrice splendide.",
+                  "category": "landmark",
+                  "coords": [
+                        72.021008,
+                        40.51197
+                  ]
+            },
+            {
+                  "name": "Abu Hanifa jome' masjidi",
+                  "text": "Un centru religios numit după școala sunnită a lui Abu Hanifa, care atrage pelerini locali.",
+                  "category": "landmark",
+                  "coords": [
+                        72.070467,
+                        40.517058
+                  ]
+            },
+            {
+                  "name": "Mavlonxon xoji jome' masjidi",
+                  "text": "O moschee de vineri cu un mihrab lucrat artistic și spațiu pentru sute de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        72.099521,
+                        40.540775
+                  ]
+            },
+            {
+                  "name": "Qo'shkechik jome' masjidi",
+                  "text": "O moschee pitorească la intersecția drumurilor, care se remarcă prin cupola aurie vizibilă de la distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        72.04017,
+                        40.520142
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Această moschee de vineri din Valea Ferghana servește ca un important centru spiritual pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        71.955704,
+                        40.424951
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Un bazar plin de viață din Asia Centrală, unde se vând alimente proaspete și mărfuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        71.890394,
+                        40.517567
+                  ]
+            },
+            {
+                  "name": "Clothes market",
+                  "text": "O piață specializată în textile, care oferă o gamă largă de haine tradiționale și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        72.064749,
+                        40.526554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsif",
+                  "text": "A historical settlement site in the Fergana region offering insights into local rural culture.",
+                  "category": "landmark",
+                  "coords": [
+                        71.973584,
+                        40.424545
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Farg'oniy",
+                  "text": "A well-maintained park and monument dedicated to the medieval scholar Ahmad Al-Farghani.",
+                  "category": "landmark",
+                  "coords": [
+                        72.061559,
+                        40.523442
+                  ]
+            },
+            {
+                  "name": "World War II 1941-1945",
+                  "text": "A memorial complex with an eternal flame honoring those from the region who fell during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        72.068116,
+                        40.525638
+                  ]
+            },
+            {
+                  "name": "Musajon xoji jome' masjidi",
+                  "text": "A classic Uzbek mosque featuring a shaded forecourt for outdoor prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.030255,
+                        40.481531
+                  ]
+            },
+            {
+                  "name": "Tolmozor jome' masjidi",
+                  "text": "A Muslim sanctuary featuring traditional brickwork and a prominent green minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        72.078522,
+                        40.494545
+                  ]
+            },
+            {
+                  "name": "Imom Buxoriy jome' masjidi",
+                  "text": "A mosque named after the famous scholar al-Bukhari, featuring splendid geometric ornamentation.",
+                  "category": "landmark",
+                  "coords": [
+                        72.021008,
+                        40.51197
+                  ]
+            },
+            {
+                  "name": "Abu Hanifa jome' masjidi",
+                  "text": "A religious center named after the Sunni school of Abu Hanifa, attracting local pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        72.070467,
+                        40.517058
+                  ]
+            },
+            {
+                  "name": "Mavlonxon xoji jome' masjidi",
+                  "text": "A Friday mosque featuring an elaborately designed mihrab and capacity for hundreds of worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.099521,
+                        40.540775
+                  ]
+            },
+            {
+                  "name": "Qo'shkechik jome' masjidi",
+                  "text": "A picturesque mosque at the crossroads, distinguished by its golden dome visible from afar.",
+                  "category": "landmark",
+                  "coords": [
+                        72.04017,
+                        40.520142
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "This Friday mosque in the Fergana Valley serves as an important spiritual center for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        71.955704,
+                        40.424951
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A lively Central Asian bazaar trading in fresh food and traditional local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        71.890394,
+                        40.517567
+                  ]
+            },
+            {
+                  "name": "Clothes market",
+                  "text": "A specialized textile market offering a wide selection of traditional and modern garments.",
+                  "category": "cultural",
+                  "coords": [
+                        72.064749,
+                        40.526554
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-J",
     coords: [72.0, 40.5],
@@ -707,7 +1796,52 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "syrt-plateau-relief-v2",
+    id: "syrt-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pereval Ashusu (Pass)",
+                  "text": "Ein Hochgebirgspass mit weitem Blick über das Syrt-Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        77.999422,
+                        41.476622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pereval Ashusu (Pass)",
+                  "text": "Magashegyi hágó, ahonnan kilátás nyílik a Szirt-fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        77.999422,
+                        41.476622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pereval Ashusu (Pass)",
+                  "text": "O trecătoare montană înaltă, cu vedere panoramică asupra platoului Syrt.",
+                  "category": "natural",
+                  "coords": [
+                        77.999422,
+                        41.476622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pereval Ashusu (Pass)",
+                  "text": "A high mountain pass offering views over the vast Syrt plateau.",
+                  "category": "natural",
+                  "coords": [
+                        77.999422,
+                        41.476622
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "KG-Y",
     coords: [78.0, 41.5],
@@ -752,7 +1886,52 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     }
   },
   {
-    id: "karkara-valley-relief-v2",
+    id: "karkara-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paleontology trail Tuz Gorge Panorama",
+                  "text": "Ein Panoramaweg über der Tus-Schlucht, bekannt für ihre Salzschichten und antiken Fossilien.",
+                  "category": "natural",
+                  "coords": [
+                        79.201529,
+                        42.62808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paleontology trail Tuz Gorge Panorama",
+                  "text": "Panorámaösvény a Tuz-szurdok felett, amely sószikláiról és ősi kövületeiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        79.201529,
+                        42.62808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paleontology trail Tuz Gorge Panorama",
+                  "text": "O potecă panoramică deasupra defileului Tuz, cunoscut pentru straturile de sare și fosilele antice.",
+                  "category": "natural",
+                  "coords": [
+                        79.201529,
+                        42.62808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paleontology trail Tuz Gorge Panorama",
+                  "text": "A panoramic trail overlooking the Tuz Gorge, known for its salt layers and ancient fossils.",
+                  "category": "natural",
+                  "coords": [
+                        79.201529,
+                        42.62808
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KG-Y",
     coords: [79.1667, 42.6667],

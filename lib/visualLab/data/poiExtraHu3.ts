@@ -2335,7 +2335,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
-                  "text": "Nagy Bivalyhalom ist eine archäologische Ausgrabungsstätte in der ungarischen Puszta.",
+                  "text": "Archäologische Stätte eines bronzezeitlichen Grabhügels in der Hortobágy.",
                   "category": "historical",
                   "coords": [
                         21.160089,
@@ -2409,7 +2409,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
-                  "text": "A Nagy Bivalyhalom egy régészeti lelőhely a magyar pusztán.",
+                  "text": "Nagy Bivalyhalom régészeti terület, egy bronzkori halomsír a Hortobágyon.",
                   "category": "historical",
                   "coords": [
                         21.160089,
@@ -2483,7 +2483,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
-                  "text": "Nagy Bivalyhalom este un sit arheologic situat în pusta maghiară.",
+                  "text": "Sit arheologic al unei movile funerare din epoca bronzului în Hortobágy.",
                   "category": "historical",
                   "coords": [
                         21.160089,
@@ -2557,7 +2557,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
-                  "text": "Nagy Bivalyhalom is an archaeological site located in the Hungarian Puszta.",
+                  "text": "Archaeological site of a Bronze Age burial mound in the Hortobágy.",
                   "category": "historical",
                   "coords": [
                         21.160089,
@@ -3748,7 +3748,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Zamczok",
-                  "text": "Eine archäologische Stätte in der Nähe von Nógrád.",
+                  "text": "Ruinen einer kleinen mittelalterlichen Burg im Nograd-Wildpark.",
                   "category": "historical",
                   "coords": [
                         19.094857,
@@ -3775,7 +3775,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Kilátó",
-                  "text": "Ein Aussichtspunkt mit Blick auf die Region Nógrád.",
+                  "text": "Natürlicher Aussichtspunkt oberhalb des Nógrád Wildlife Parks.",
                   "category": "natural",
                   "coords": [
                         19.035683,
@@ -3784,7 +3784,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Berkenyei vérszilvafasor",
-                  "text": "Eine Allee aus Kirschpflaumenbäumen in Berkenye.",
+                  "text": "Allee von Blutpflaumenbäumen, einer seltenen Sorte, im Nograd-Wildpark.",
                   "category": "landmark",
                   "coords": [
                         19.080073,
@@ -3793,7 +3793,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Csurgó forrás",
-                  "text": "Eine natürliche Wasserquelle in der Region Nógrád.",
+                  "text": "Natürliche Quelle im Nógrád Wildlife Park.",
                   "category": "landmark",
                   "coords": [
                         19.043328,
@@ -3822,7 +3822,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Zamczok",
-                  "text": "Régészeti lelőhely Nógrád közelében.",
+                  "text": "Zamczok, egy középkori kisvár romjai a Nógrádi Vadasparkban.",
                   "category": "historical",
                   "coords": [
                         19.094857,
@@ -3849,7 +3849,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Kilátó",
-                  "text": "Kilátópont panorámával a nógrádi tájra.",
+                  "text": "Természetes kilátó a Nógrád Vadvédelmi Park felett.",
                   "category": "natural",
                   "coords": [
                         19.035683,
@@ -3858,7 +3858,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Berkenyei vérszilvafasor",
-                  "text": "Vérszilvafasor Berkenye településén.",
+                  "text": "Berkenyei vérszilvafasor, egy ritka fajta vérszilvafák sora a Nógrádi Vadasparkban.",
                   "category": "landmark",
                   "coords": [
                         19.080073,
@@ -3867,7 +3867,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Csurgó forrás",
-                  "text": "Természetes vízforrás a nógrádi vidéken.",
+                  "text": "Természetes forrás a Nógrád Vadvédelmi Parkban.",
                   "category": "landmark",
                   "coords": [
                         19.043328,
@@ -3896,7 +3896,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Zamczok",
-                  "text": "Un sit arheologic în apropiere de Nógrád.",
+                  "text": "Ruinele unui mic castel medieval în Parcul Natural Nógrád.",
                   "category": "historical",
                   "coords": [
                         19.094857,
@@ -3923,7 +3923,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Kilátó",
-                  "text": "Un punct de belvedere cu vedere asupra regiunii Nógrád.",
+                  "text": "Punct de belvedere natural deasupra Parcului Natural Nógrád.",
                   "category": "natural",
                   "coords": [
                         19.035683,
@@ -3932,7 +3932,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Berkenyei vérszilvafasor",
-                  "text": "O alee de pruni roșii în localitatea Berkenye.",
+                  "text": "Aleu de pruni sângerii, o varietate rară, în Parcul Natural Nógrád.",
                   "category": "landmark",
                   "coords": [
                         19.080073,
@@ -3941,7 +3941,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Csurgó forrás",
-                  "text": "Un izvor natural de apă în regiunea Nógrád.",
+                  "text": "Izvor natural în Parcul Natural Nógrád.",
                   "category": "landmark",
                   "coords": [
                         19.043328,
@@ -3970,7 +3970,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Zamczok",
-                  "text": "An archaeological site located near Nógrád.",
+                  "text": "Ruins of a small medieval castle in the Nógrád Wildlife Park.",
                   "category": "historical",
                   "coords": [
                         19.094857,
@@ -3997,7 +3997,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Kilátó",
-                  "text": "A viewpoint overlooking the Nógrád region.",
+                  "text": "Natural lookout point above the Nógrád Wildlife Park.",
                   "category": "natural",
                   "coords": [
                         19.035683,
@@ -4006,7 +4006,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Berkenyei vérszilvafasor",
-                  "text": "An avenue of cherry plum trees in Berkenye.",
+                  "text": "Avenue of blood plum trees, a rare variety, in the Nógrád Wildlife Park.",
                   "category": "landmark",
                   "coords": [
                         19.080073,
@@ -4015,7 +4015,7 @@ export const poiExtraHu3: POI[] = [
             },
             {
                   "name": "Csurgó forrás",
-                  "text": "A natural water spring in the Nógrád area.",
+                  "text": "Natural spring within the Nógrád Wildlife Park.",
                   "category": "landmark",
                   "coords": [
                         19.043328,

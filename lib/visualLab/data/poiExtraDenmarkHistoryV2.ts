@@ -817,7 +817,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Vår",
-                  "text": "Ein altes dänisches Herrenhaus in der Region Aggersborg.",
+                  "text": "Vår, ein historisches Herrenhaus nahe der Wikingerringburg Aggersborg.",
                   "category": "historical",
                   "coords": [
                         9.452,
@@ -873,7 +873,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Vår",
-                  "text": "Régi dán kúria Aggersborg régiójában.",
+                  "text": "Vår, egy történelmi kúria az Aggersborg viking gyűrűerőd közelében.",
                   "category": "historical",
                   "coords": [
                         9.452,
@@ -929,7 +929,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Vår",
-                  "text": "Un vechi conac danez în regiunea Aggersborg.",
+                  "text": "Conacul Vår, un conac istoric lângă fortăreața vikingă inelară Aggersborg.",
                   "category": "historical",
                   "coords": [
                         9.452,
@@ -985,7 +985,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Vår",
-                  "text": "An old Danish manor house in the Aggersborg region.",
+                  "text": "Vår Manor, a historic manor house near the Aggersborg Viking ring fortress.",
                   "category": "historical",
                   "coords": [
                         9.452,
@@ -1096,7 +1096,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Barnet",
-                  "text": "Eine Fundstätte mit Überresten aus der dänischen Vorzeit.",
+                  "text": "Ein vorgeschichtlicher Grabhügel nahe Schloss Dragsholm.",
                   "category": "historical",
                   "coords": [
                         11.414726,
@@ -1105,7 +1105,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Hanghøi",
-                  "text": "Ein historischer Grabhügel in der Umgebung von Odsherred.",
+                  "text": "Ein bronzezeitlicher Grabhügel nahe Schloss Dragsholm.",
                   "category": "historical",
                   "coords": [
                         11.416243,
@@ -1114,7 +1114,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sandgravshøjen",
-                  "text": "Ein prähistorisches Denkmal, das von der frühen Besiedlung zeugt.",
+                  "text": "Ein sandiger Grabhügel nahe Schloss Dragsholm.",
                   "category": "historical",
                   "coords": [
                         11.409715,
@@ -1170,7 +1170,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Barnet",
-                  "text": "Egy lelőhely dániai őskori maradványokkal.",
+                  "text": "Egy őskori temetkezési halom a Dragsholm-kastély közelében.",
                   "category": "historical",
                   "coords": [
                         11.414726,
@@ -1179,7 +1179,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Hanghøi",
-                  "text": "Egy történelmi sírhalom Odsherred környékén.",
+                  "text": "Egy bronzkori temetkezési halom a Dragsholm-kastély közelében.",
                   "category": "historical",
                   "coords": [
                         11.416243,
@@ -1188,7 +1188,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sandgravshøjen",
-                  "text": "Egy őskori műemlék, amely a korai letelepedésről tanúskodik.",
+                  "text": "Egy homokos temetkezési halom a Dragsholm-kastély közelében.",
                   "category": "historical",
                   "coords": [
                         11.409715,
@@ -1244,7 +1244,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Barnet",
-                  "text": "Un sit cu rămășițe din preistoria daneză.",
+                  "text": "Un movilă funerară preistorică lângă Castelul Dragsholm.",
                   "category": "historical",
                   "coords": [
                         11.414726,
@@ -1253,7 +1253,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Hanghøi",
-                  "text": "Un tumul funerar istoric situat în zona Odsherred.",
+                  "text": "Un movilă funerară din epoca bronzului lângă Castelul Dragsholm.",
                   "category": "historical",
                   "coords": [
                         11.416243,
@@ -1262,7 +1262,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sandgravshøjen",
-                  "text": "Un monument preistoric ce atestă așezările timpurii.",
+                  "text": "Un movilă funerară nisipoasă lângă Castelul Dragsholm.",
                   "category": "historical",
                   "coords": [
                         11.409715,
@@ -1318,7 +1318,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Barnet",
-                  "text": "A site featuring remains from Danish prehistory.",
+                  "text": "A prehistoric burial mound near Dragsholm Castle.",
                   "category": "historical",
                   "coords": [
                         11.414726,
@@ -1327,7 +1327,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Hanghøi",
-                  "text": "A historical burial mound located in the Odsherred area.",
+                  "text": "A Bronze Age burial mound near Dragsholm Castle.",
                   "category": "historical",
                   "coords": [
                         11.416243,
@@ -1336,7 +1336,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sandgravshøjen",
-                  "text": "A prehistoric monument witnessing early settlement.",
+                  "text": "A sandy burial mound near Dragsholm Castle.",
                   "category": "historical",
                   "coords": [
                         11.409715,
@@ -1861,7 +1861,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "Eine archäologische Ausgrabungsstätte im Bereich von Hjerl Hede.",
+                  "text": "Ein prähistorischer Grabhügel namens Rønhøj auf der Hjerl Hede.",
                   "category": "historical",
                   "coords": [
                         8.945275,
@@ -1888,7 +1888,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Storehøj",
-                  "text": "Eine historische archäologische Stätte in Hjerl Hede.",
+                  "text": "Ein großer Grabhügel namens Storehøj auf der Hjerl Hede.",
                   "category": "historical",
                   "coords": [
                         8.936296,
@@ -1935,7 +1935,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "Régészeti lelőhely Hjerl Hede területén.",
+                  "text": "Egy őskori temetkezési halom, a Rønhøj a Hjerl Hede-n.",
                   "category": "historical",
                   "coords": [
                         8.945275,
@@ -1962,7 +1962,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Storehøj",
-                  "text": "Történelmi régészeti helyszín Hjerl Hede területén.",
+                  "text": "Egy nagy temetkezési halom, a Storehøj a Hjerl Hede-n.",
                   "category": "historical",
                   "coords": [
                         8.936296,
@@ -2009,7 +2009,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "Un sit arheologic în zona Hjerl Hede.",
+                  "text": "Un tumul preistoric numit Rønhøj pe Hjerl Hede.",
                   "category": "historical",
                   "coords": [
                         8.945275,
@@ -2036,7 +2036,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Storehøj",
-                  "text": "Un sit arheologic istoric în Hjerl Hede.",
+                  "text": "Un tumul mare numit Storehøj pe Hjerl Hede.",
                   "category": "historical",
                   "coords": [
                         8.936296,
@@ -2083,7 +2083,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Rønhøj",
-                  "text": "An archaeological site in the Hjerl Hede area.",
+                  "text": "A prehistoric burial mound named Rønhøj on Hjerl Hede.",
                   "category": "historical",
                   "coords": [
                         8.945275,
@@ -2110,7 +2110,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Storehøj",
-                  "text": "A historical archaeological site in Hjerl Hede.",
+                  "text": "A large burial mound Storehøj on Hjerl Hede.",
                   "category": "historical",
                   "coords": [
                         8.936296,
@@ -2266,7 +2266,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dalhøj",
-                  "text": "Ein antiker dänischer Grabhügel aus der Vorzeit.",
+                  "text": "Ein vorgeschichtlicher Grabhügel nahe Schloss Voergaard.",
                   "category": "historical",
                   "coords": [
                         10.239396,
@@ -2275,7 +2275,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kæmpehøjen",
-                  "text": "Ein markanter Hügel aus der Bronzezeit in der dänischen Landschaft.",
+                  "text": "Ein großer alter Grabhügel nahe Schloss Voergaard.",
                   "category": "historical",
                   "coords": [
                         10.229657,
@@ -2320,7 +2320,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dannerhøj",
-                  "text": "Ein antiker Hügel in der Umgebung des Schlosses Voergaard.",
+                  "text": "Ein Grabhügel namens Dannerhøj nahe dem Schloss Voergaard.",
                   "category": "historical",
                   "coords": [
                         10.229005,
@@ -2340,7 +2340,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dalhøj",
-                  "text": "Egy ősi dán sírhalom a régmúltból.",
+                  "text": "Egy őskori temetkezési halom a Voergaard-kastély közelében.",
                   "category": "historical",
                   "coords": [
                         10.239396,
@@ -2349,7 +2349,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kæmpehøjen",
-                  "text": "Jellegzetes bronzkori halom a dán tájban.",
+                  "text": "Egy nagy ősi temetkezési halom a Voergaard-kastély közelében.",
                   "category": "historical",
                   "coords": [
                         10.229657,
@@ -2394,7 +2394,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dannerhøj",
-                  "text": "Ősi domb a Voergaard-kastély környékén.",
+                  "text": "Egy temetkezési halom, a Dannerhøj a Voergaard kastély közelében.",
                   "category": "historical",
                   "coords": [
                         10.229005,
@@ -2414,7 +2414,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dalhøj",
-                  "text": "Un tumul antic danez din preistorie.",
+                  "text": "Un movilă funerară preistorică lângă Castelul Voergaard.",
                   "category": "historical",
                   "coords": [
                         10.239396,
@@ -2423,7 +2423,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kæmpehøjen",
-                  "text": "Un dâmb distinctiv din epoca bronzului în peisajul danez.",
+                  "text": "Un movilă funerară mare și veche lângă Castelul Voergaard.",
                   "category": "historical",
                   "coords": [
                         10.229657,
@@ -2468,7 +2468,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dannerhøj",
-                  "text": "Un dâmb antic în împrejurimile castelului Voergaard.",
+                  "text": "Un tumul numit Dannerhøj lângă Castelul Voergaard.",
                   "category": "historical",
                   "coords": [
                         10.229005,
@@ -2488,7 +2488,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dalhøj",
-                  "text": "An ancient Danish burial mound from prehistoric times.",
+                  "text": "A prehistoric burial mound near Voergaard Castle.",
                   "category": "historical",
                   "coords": [
                         10.239396,
@@ -2497,7 +2497,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kæmpehøjen",
-                  "text": "A prominent Bronze Age mound in the Danish landscape.",
+                  "text": "A large ancient burial mound near Voergaard Castle.",
                   "category": "historical",
                   "coords": [
                         10.229657,
@@ -2542,7 +2542,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Dannerhøj",
-                  "text": "An ancient mound in the vicinity of Voergaard Castle.",
+                  "text": "A burial mound near Voergaard Castle.",
                   "category": "historical",
                   "coords": [
                         10.229005,
@@ -2626,7 +2626,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Lille Maglehøj",
-                  "text": "Lille Maglehøj ist ein geschützter prähistorischer Grabhügel in Dänemark.",
+                  "text": "Ein kleiner vorgeschichtlicher Grabhügel nahe Knud Rasmussens Haus.",
                   "category": "historical",
                   "coords": [
                         12.037228,
@@ -2691,7 +2691,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Lille Maglehøj",
-                  "text": "Lille Maglehøj egy védett őskori sírhalom Dániában.",
+                  "text": "Egy kis őskori temetkezési halom Knud Rasmussen háza közelében.",
                   "category": "historical",
                   "coords": [
                         12.037228,
@@ -2756,7 +2756,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Lille Maglehøj",
-                  "text": "Lille Maglehøj este o tumulă preistorică protejată din Danemarca.",
+                  "text": "Un mic movilă funerară preistorică lângă casa lui Knud Rasmussen.",
                   "category": "historical",
                   "coords": [
                         12.037228,
@@ -2821,7 +2821,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Lille Maglehøj",
-                  "text": "Lille Maglehøj is a protected prehistoric burial mound in Denmark.",
+                  "text": "A small prehistoric burial mound near Knud Rasmussen's house.",
                   "category": "historical",
                   "coords": [
                         12.037228,
@@ -2950,7 +2950,7 @@ export const denmarkHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Langdalshøj",
-                  "text": "Ein prähistorischer Grabhügel in der Nähe von Gammel Estrup.",
+                  "text": "Ein Langhügel oder Grabhügel nahe dem Herrenhaus Gl Estrup.",
                   "category": "historical",
                   "coords": [
                         10.456599,
@@ -2977,7 +2977,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sankt Michaels Kirke",
-                  "text": "Eine Pfarrkirche im Dorf Pindstrup.",
+                  "text": "Sankt Michaels Kirke, eine lutherische Kirche in Pindstrup bei Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.401634,
@@ -2986,7 +2986,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Pindstrup Kirke",
-                  "text": "Eine lokale Kirche, die das Gebiet von Pindstrup bedient.",
+                  "text": "Pindstrup Kirke, eine lutherische Kirche in Pindstrup bei Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.418942,
@@ -2995,7 +2995,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Auning Kirke",
-                  "text": "Eine historische Kirche in der Stadt Auning.",
+                  "text": "Auning Kirke, eine historische Kirche in Auning bei Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.376134,
@@ -3006,7 +3006,7 @@ export const denmarkHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Langdalshøj",
-                  "text": "Gammel Estrup közelében található őskori sírhalom.",
+                  "text": "Egy hosszú halom vagy temetkezési halom a Gl Estrup kastély közelében.",
                   "category": "historical",
                   "coords": [
                         10.456599,
@@ -3033,7 +3033,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sankt Michaels Kirke",
-                  "text": "Pindstrup faluban található plébániatemplom.",
+                  "text": "Sankt Michaels Kirke, egy evangélikus templom Pindstrupban, Gl. Estrup mellett.",
                   "category": "religious",
                   "coords": [
                         10.401634,
@@ -3042,7 +3042,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Pindstrup Kirke",
-                  "text": "A pindstrupi területet kiszolgáló helyi templom.",
+                  "text": "Pindstrup Kirke, egy evangélikus templom Pindstrupban, Gl. Estrup mellett.",
                   "category": "religious",
                   "coords": [
                         10.418942,
@@ -3051,7 +3051,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Auning Kirke",
-                  "text": "Történelmi templom Auning városában.",
+                  "text": "Auning Kirke, egy történelmi templom Auningban, Gl. Estrup mellett.",
                   "category": "religious",
                   "coords": [
                         10.376134,
@@ -3062,7 +3062,7 @@ export const denmarkHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Langdalshøj",
-                  "text": "Un tumul preistoric situat lângă Gammel Estrup.",
+                  "text": "Un movilă lungă sau tumul lângă conacul Gl Estrup.",
                   "category": "historical",
                   "coords": [
                         10.456599,
@@ -3089,7 +3089,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sankt Michaels Kirke",
-                  "text": "O biserică parohială situată în satul Pindstrup.",
+                  "text": "Biserica Sfântul Mihail, o biserică luterană în Pindstrup, lângă Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.401634,
@@ -3098,7 +3098,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Pindstrup Kirke",
-                  "text": "O biserică locală care deservește zona Pindstrup.",
+                  "text": "Biserica Pindstrup, o biserică luterană în Pindstrup, lângă Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.418942,
@@ -3107,7 +3107,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Auning Kirke",
-                  "text": "O biserică istorică situată în orașul Auning.",
+                  "text": "Biserica Auning, o biserică istorică în Auning, lângă Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.376134,
@@ -3118,7 +3118,7 @@ export const denmarkHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Langdalshøj",
-                  "text": "A prehistoric burial mound located near Gammel Estrup.",
+                  "text": "A long barrow or burial mound near Gl Estrup manor.",
                   "category": "historical",
                   "coords": [
                         10.456599,
@@ -3145,7 +3145,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sankt Michaels Kirke",
-                  "text": "A parish church located in the village of Pindstrup.",
+                  "text": "St. Michael's Church, a Lutheran church in Pindstrup near Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.401634,
@@ -3154,7 +3154,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Pindstrup Kirke",
-                  "text": "A local church serving the Pindstrup area.",
+                  "text": "Pindstrup Church, a Lutheran church in Pindstrup near Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.418942,
@@ -3163,7 +3163,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Auning Kirke",
-                  "text": "A historic church located in the town of Auning.",
+                  "text": "Auning Church, a historic church in Auning near Gl. Estrup.",
                   "category": "religious",
                   "coords": [
                         10.376134,
@@ -5236,7 +5236,7 @@ export const denmarkHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Barnedys",
-                  "text": "Archäologische Fundstätte mit historischen Überresten bei Sorø.",
+                  "text": "Ein Grabhügel nahe der Klosterkirche Soro.",
                   "category": "historical",
                   "coords": [
                         11.559978,
@@ -5245,7 +5245,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sorø Museum",
-                  "text": "Regionalmuseum zur Geschichte und Kultur von Sorø.",
+                  "text": "Sorø Museum, ein Heimatmuseum im Sorø Klosterkomplex.",
                   "category": "museum",
                   "coords": [
                         11.55639,
@@ -5254,7 +5254,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kongshøj",
-                  "text": "Ein markanter historischer Grabhügel in der Nähe von Sorø.",
+                  "text": "Ein königlicher Grabhügel nahe der Klosterkirche Soro.",
                   "category": "historical",
                   "coords": [
                         11.542851,
@@ -5272,7 +5272,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Essotanken i Sorø",
-                  "text": "Restaurierte historische Tankstelle, die heute als Museum dient.",
+                  "text": "Das Essotanken-Museum in Sorø nahe der Klosterkirche.",
                   "category": "museum",
                   "coords": [
                         11.559103,
@@ -5281,7 +5281,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Akademihaven",
-                  "text": "Historischer Landschaftsgarten der Sorø Akademie.",
+                  "text": "Akademihaven, der akademische Garten der Sorø Akademie, ein historischer Park.",
                   "category": "park",
                   "coords": [
                         11.553895,
@@ -5290,7 +5290,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Store Ladegaard",
-                  "text": "Historisches Herrenhaus und ehemaliger Gutshof bei Sorø.",
+                  "text": "Store Ladegaard, ein historisches Herrenhaus am Sorø See.",
                   "category": "historical",
                   "coords": [
                         11.607834,
@@ -5319,7 +5319,7 @@ export const denmarkHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Barnedys",
-                  "text": "Régészeti lelőhely történelmi maradványokkal Sorø közelében.",
+                  "text": "Egy temetkezési halom a soroi kolostortemplom közelében.",
                   "category": "historical",
                   "coords": [
                         11.559978,
@@ -5328,7 +5328,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sorø Museum",
-                  "text": "Sorø történetét és kultúráját bemutató regionális múzeum.",
+                  "text": "Sorø Museum, egy helytörténeti múzeum a Sorø kolostorkomplexumban.",
                   "category": "museum",
                   "coords": [
                         11.55639,
@@ -5337,7 +5337,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kongshøj",
-                  "text": "Jelentős történelmi halomsír Sorø közelében.",
+                  "text": "Egy királyi temetkezési halom a soroi kolostortemplom közelében.",
                   "category": "historical",
                   "coords": [
                         11.542851,
@@ -5355,7 +5355,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Essotanken i Sorø",
-                  "text": "Restaurált történelmi benzinkút, amely ma múzeumként működik.",
+                  "text": "Az Essotanken múzeum Sorøban, a kolostortemplom közelében.",
                   "category": "museum",
                   "coords": [
                         11.559103,
@@ -5364,7 +5364,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Akademihaven",
-                  "text": "A Sorøi Akadémia történelmi tájképi kertje.",
+                  "text": "Akademihaven, a Sorø Akadémia akadémiai kertje, egy történelmi park.",
                   "category": "park",
                   "coords": [
                         11.553895,
@@ -5373,7 +5373,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Store Ladegaard",
-                  "text": "Történelmi udvarház és egykori birtok Sorø közelében.",
+                  "text": "Store Ladegaard, egy történelmi kúria a Sorø-tó mellett.",
                   "category": "historical",
                   "coords": [
                         11.607834,
@@ -5402,7 +5402,7 @@ export const denmarkHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Barnedys",
-                  "text": "Sit arheologic cu vestigii istorice situat lângă Sorø.",
+                  "text": "Un movilă funerară lângă Biserica Mănăstirii Soro.",
                   "category": "historical",
                   "coords": [
                         11.559978,
@@ -5411,7 +5411,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sorø Museum",
-                  "text": "Muzeu regional despre istoria și cultura orașului Sorø.",
+                  "text": "Muzeul Sorø, un muzeu de istorie locală în complexul mănăstirii Sorø.",
                   "category": "museum",
                   "coords": [
                         11.55639,
@@ -5420,7 +5420,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kongshøj",
-                  "text": "O movilă funerară istorică proeminentă lângă Sorø.",
+                  "text": "Un movilă funerară regală lângă Biserica Mănăstirii Soro.",
                   "category": "historical",
                   "coords": [
                         11.542851,
@@ -5438,7 +5438,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Essotanken i Sorø",
-                  "text": "Stație de benzină istorică restaurată, folosită azi ca muzeu.",
+                  "text": "Muzeul Essotanken din Sorø, lângă biserica mănăstirii.",
                   "category": "museum",
                   "coords": [
                         11.559103,
@@ -5447,7 +5447,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Akademihaven",
-                  "text": "Grădina peisagistică istorică a Academiei din Sorø.",
+                  "text": "Akademihaven, grădina academică a Academiei Sorø, un parc istoric.",
                   "category": "park",
                   "coords": [
                         11.553895,
@@ -5456,7 +5456,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Store Ladegaard",
-                  "text": "Conac istoric și fostă moșie situată lângă Sorø.",
+                  "text": "Store Ladegaard, un conac istoric lângă lacul Sorø.",
                   "category": "historical",
                   "coords": [
                         11.607834,
@@ -5485,7 +5485,7 @@ export const denmarkHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Barnedys",
-                  "text": "Archaeological site with historical remains near Sorø.",
+                  "text": "A burial mound near Soro Monastery Church.",
                   "category": "historical",
                   "coords": [
                         11.559978,
@@ -5494,7 +5494,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Sorø Museum",
-                  "text": "Regional museum about the history and culture of Sorø.",
+                  "text": "Sorø Museum, a local history museum in the Sorø Monastery complex.",
                   "category": "museum",
                   "coords": [
                         11.55639,
@@ -5503,7 +5503,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Kongshøj",
-                  "text": "A prominent historical burial mound located near Sorø.",
+                  "text": "A royal burial mound near Soro Monastery Church.",
                   "category": "historical",
                   "coords": [
                         11.542851,
@@ -5521,7 +5521,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Essotanken i Sorø",
-                  "text": "Restored historic gas station now serving as a museum.",
+                  "text": "A museum called Essotanken in Sorø near the monastery church.",
                   "category": "museum",
                   "coords": [
                         11.559103,
@@ -5530,7 +5530,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Akademihaven",
-                  "text": "Historical landscaped garden of the Sorø Academy.",
+                  "text": "Akademihaven, the academic garden of Sorø Academy, a historic park.",
                   "category": "park",
                   "coords": [
                         11.553895,
@@ -5539,7 +5539,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Store Ladegaard",
-                  "text": "Historical manor house and former estate near Sorø.",
+                  "text": "Store Ladegaard, a historic manor house near Sorø Lake.",
                   "category": "historical",
                   "coords": [
                         11.607834,
@@ -5740,7 +5740,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Præstehøj",
-                  "text": "Ein antiker Grabhügel im dänischen Skanderborg.",
+                  "text": "Ein prähistorischer Grabhügel namens Præstehøj nahe den Skanderborger Burgruinen.",
                   "category": "historical",
                   "coords": [
                         9.924432,
@@ -5785,7 +5785,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Bybadet",
-                  "text": "Eine zentrale öffentliche Badeanlage in Skanderborg.",
+                  "text": "Ein Freibad zur Erholung nahe den Skanderborger Burgruinen.",
                   "category": "recreational",
                   "coords": [
                         9.934422,
@@ -5832,7 +5832,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Præstehøj",
-                  "text": "Ókori sírhalom a dániai Skanderborgban.",
+                  "text": "Egy őskori temetkezési halom, a Præstehøj, a skanderborgi várromok közelében.",
                   "category": "historical",
                   "coords": [
                         9.924432,
@@ -5877,7 +5877,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Bybadet",
-                  "text": "Központi nyilvános fürdőhely Skanderborgban.",
+                  "text": "Egy szabadtéri fürdőhely a skanderborgi várromok közelében.",
                   "category": "recreational",
                   "coords": [
                         9.934422,
@@ -5924,7 +5924,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Præstehøj",
-                  "text": "Un tumul antic în Skanderborg, Danemarca.",
+                  "text": "Un tumul preistoric numit Præstehøj lângă Ruinele Castelului Skanderborg.",
                   "category": "historical",
                   "coords": [
                         9.924432,
@@ -5969,7 +5969,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Bybadet",
-                  "text": "O zonă publică centrală de scăldat situată în Skanderborg.",
+                  "text": "O zonă de înot în aer liber lângă Ruinele Castelului Skanderborg.",
                   "category": "recreational",
                   "coords": [
                         9.934422,
@@ -6016,7 +6016,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Præstehøj",
-                  "text": "An ancient burial mound in Skanderborg, Denmark.",
+                  "text": "A prehistoric burial mound near Skanderborg Castle Ruins.",
                   "category": "historical",
                   "coords": [
                         9.924432,
@@ -6061,7 +6061,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Bybadet",
-                  "text": "A central public bathing area located in Skanderborg.",
+                  "text": "A recreational outdoor swimming area near Skanderborg Castle Ruins.",
                   "category": "recreational",
                   "coords": [
                         9.934422,
@@ -6757,7 +6757,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Ørritslevgaard",
-                  "text": "Ein traditionsreiches dänisches Herrenhaus in der Nähe von Otterup.",
+                  "text": "Ørritslevgaard, ein Schloss nahe dem Glavendrup Runenstein auf Fünen.",
                   "category": "castle",
                   "coords": [
                         10.419215,
@@ -6831,7 +6831,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Ørritslevgaard",
-                  "text": "Hagyományőrző dán udvarház Otterup közelében.",
+                  "text": "Ørritslevgaard, egy kastély a Glavendrup rúnakő közelében Funen szigetén.",
                   "category": "castle",
                   "coords": [
                         10.419215,
@@ -6905,7 +6905,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Ørritslevgaard",
-                  "text": "Un conac danez cu o istorie bogată, situat lângă Otterup.",
+                  "text": "Castelul Ørritslevgaard, un castel lângă piatra runică Glavendrup din Funen.",
                   "category": "castle",
                   "coords": [
                         10.419215,
@@ -6979,7 +6979,7 @@ export const denmarkHistoryV2: POI[] = [
             },
             {
                   "name": "Ørritslevgaard",
-                  "text": "A traditional Danish manor house located near Otterup.",
+                  "text": "Ørritslevgaard, a castle near the Glavendrup rune stone on Funen.",
                   "category": "castle",
                   "coords": [
                         10.419215,

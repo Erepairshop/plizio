@@ -389,7 +389,7 @@ imageHint: "Valbona Valley river and high peaks",
       "de": [
             {
                   "name": "Samuel King seaside",
-                  "text": "Samuel King seaside liegt im Nationalpark Divjaka-Karavasta.",
+                  "text": "Küstenerholungsgebiet im Nationalpark Divjaka-Karavasta mit Lagunenblicken.",
                   "category": "recreational",
                   "coords": [
                         19.407812,
@@ -400,7 +400,7 @@ imageHint: "Valbona Valley river and high peaks",
       "hu": [
             {
                   "name": "Samuel King seaside",
-                  "text": "Samuel King seaside a Divjaka-Karavasta Nemzeti Parkban található.",
+                  "text": "Tengerparti pihenőterület a Divjaka-Karavasta Nemzeti Parkban, lagúnakilátással.",
                   "category": "recreational",
                   "coords": [
                         19.407812,
@@ -411,7 +411,7 @@ imageHint: "Valbona Valley river and high peaks",
       "ro": [
             {
                   "name": "Samuel King seaside",
-                  "text": "Samuel King seaside se află în Parcul Național Divjaka-Karavasta.",
+                  "text": "Zonă de recreere maritimă în Parcul Național Divjaka-Karavasta, cu vedere la lagună.",
                   "category": "recreational",
                   "coords": [
                         19.407812,
@@ -422,7 +422,7 @@ imageHint: "Valbona Valley river and high peaks",
       "en": [
             {
                   "name": "Samuel King seaside",
-                  "text": "Samuel King seaside is located in the Divjaka-Karavasta National Park.",
+                  "text": "Seaside recreational area in Divjaka-Karavasta National Park with lagoon views.",
                   "category": "recreational",
                   "coords": [
                         19.407812,
@@ -1215,7 +1215,7 @@ imageHint: "Orikum Lagoon and coastal reeds",
       "de": [
             {
                   "name": "Plazhi Diaporit",
-                  "text": "Strand bei den Butrint-Feuchtgebieten.",
+                  "text": "Diaporti-Strand, ein sandiger Uferstreifen am Rande des Butrint-Feuchtgebiets.",
                   "category": "recreational",
                   "coords": [
                         19.981232,
@@ -1226,7 +1226,7 @@ imageHint: "Orikum Lagoon and coastal reeds",
       "hu": [
             {
                   "name": "Plazhi Diaporit",
-                  "text": "Strand a Butrint vizes élőhelyek közelében.",
+                  "text": "Diaporti strand, homokos partszakasz a Butrint vizes élőhely szélén.",
                   "category": "recreational",
                   "coords": [
                         19.981232,
@@ -1237,7 +1237,7 @@ imageHint: "Orikum Lagoon and coastal reeds",
       "ro": [
             {
                   "name": "Plazhi Diaporit",
-                  "text": "Plajă lângă zonele umede Butrint.",
+                  "text": "Plaja Diaporti, o fâșie nisipoasă la marginea zonei umede Butrint.",
                   "category": "recreational",
                   "coords": [
                         19.981232,
@@ -1248,7 +1248,7 @@ imageHint: "Orikum Lagoon and coastal reeds",
       "en": [
             {
                   "name": "Plazhi Diaporit",
-                  "text": "Beach near the Butrint wetlands.",
+                  "text": "Diaporit beach, a sandy shore on the edge of Butrint wetland.",
                   "category": "recreational",
                   "coords": [
                         19.981232,
@@ -1627,7 +1627,7 @@ imageHint: "Mali i Polisit mountain flora and landscape",
       "de": [
             {
                   "name": "Maja Suka e Boshnjës",
-                  "text": "Ein hoher Berggipfel im Cukal-Massiv in Albanien.",
+                  "text": "Berggipfel in der Cukal-Kette von Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.71339,
@@ -1638,7 +1638,7 @@ imageHint: "Mali i Polisit mountain flora and landscape",
       "hu": [
             {
                   "name": "Maja Suka e Boshnjës",
-                  "text": "Magas hegycsúcs az albániai Cukal-masszívumban.",
+                  "text": "Hegycsúcs a Cukal-hegységben, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.71339,
@@ -1649,7 +1649,7 @@ imageHint: "Mali i Polisit mountain flora and landscape",
       "ro": [
             {
                   "name": "Maja Suka e Boshnjës",
-                  "text": "Un vârf montan înalt în masivul Cukal din Albania.",
+                  "text": "Vârf de munte în lanțul Cukal din Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.71339,
@@ -1660,7 +1660,7 @@ imageHint: "Mali i Polisit mountain flora and landscape",
       "en": [
             {
                   "name": "Maja Suka e Boshnjës",
-                  "text": "A high mountain peak in the Cukal massif in Albania.",
+                  "text": "A mountain peak in the Cukal range of Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.71339,
@@ -2386,7 +2386,7 @@ imageHint: "Cukal mountains karst landscape Albania",
       "de": [
             {
                   "name": "Plazhi i Akernisë",
-                  "text": "Strand in Pishe Poro.",
+                  "text": "Akernia-Strand, ein abgelegener Sandstrand nahe Pishe Poro.",
                   "category": "recreational",
                   "coords": [
                         19.37375,
@@ -2397,7 +2397,7 @@ imageHint: "Cukal mountains karst landscape Albania",
       "hu": [
             {
                   "name": "Plazhi i Akernisë",
-                  "text": "Strand Pishe Poróban.",
+                  "text": "Akernia strand, egy félreeső homokos tengerpart Pishe Poro közelében.",
                   "category": "recreational",
                   "coords": [
                         19.37375,
@@ -2408,7 +2408,7 @@ imageHint: "Cukal mountains karst landscape Albania",
       "ro": [
             {
                   "name": "Plazhi i Akernisë",
-                  "text": "Plajă în Pishe Poro.",
+                  "text": "Plaja Akernia, o plajă nisipoasă izolată lângă Pishe Poro.",
                   "category": "recreational",
                   "coords": [
                         19.37375,
@@ -2419,7 +2419,7 @@ imageHint: "Cukal mountains karst landscape Albania",
       "en": [
             {
                   "name": "Plazhi i Akernisë",
-                  "text": "Beach in Pishe Poro.",
+                  "text": "Akernia beach, a remote sandy beach near Pishe Poro.",
                   "category": "recreational",
                   "coords": [
                         19.37375,

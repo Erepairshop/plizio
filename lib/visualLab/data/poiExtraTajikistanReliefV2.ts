@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraTajikistanReliefV2: POI[] = [
   {
-    id: "hissar-range-relief-v2",
+    id: "hissar-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anzob",
+                  "text": "Dieser Aussichtspunkt bietet ein Panorama auf die zerklüfteten Gipfel des Hissargebirges.",
+                  "category": "natural",
+                  "coords": [
+                        68.865282,
+                        39.083151
+                  ]
+            },
+            {
+                  "name": "Anzob Tunnel - South Entrance",
+                  "text": "Dieser über 5 km lange Tunnel ist eine lebenswichtige Verbindung, die den Anzob-Pass im Hissargebirge unterquert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.70034,
+                        39.061863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anzob",
+                  "text": "Ez a kilátópont panorámás kilátást nyújt a Hisszar-hegység csipkés csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        68.865282,
+                        39.083151
+                  ]
+            },
+            {
+                  "name": "Anzob Tunnel - South Entrance",
+                  "text": "Ez a több mint 5 km hosszú alagút létfontosságú összeköttetés, amely a Hisszar-hegység Anzob-hágója alatt halad át.",
+                  "category": "landmark",
+                  "coords": [
+                        68.70034,
+                        39.061863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anzob",
+                  "text": "Acest punct de observare oferă o panoramă asupra vârfurilor accidentate ale munților Hissar.",
+                  "category": "natural",
+                  "coords": [
+                        68.865282,
+                        39.083151
+                  ]
+            },
+            {
+                  "name": "Anzob Tunnel - South Entrance",
+                  "text": "Acest tunel de peste 5 km lungime este o legătură vitală care trece pe sub pasul Anzob din munții Hissar.",
+                  "category": "landmark",
+                  "coords": [
+                        68.70034,
+                        39.061863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anzob-Ziddi Viewpoint",
+                  "text": "This viewpoint offers a panorama of the rugged peaks of the Hissar mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        68.865282,
+                        39.083151
+                  ]
+            },
+            {
+                  "name": "Anzob Tunnel - South Entrance",
+                  "text": "This tunnel, over 5 km long, is a vital link passing under the Anzob Pass in the Hissar Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        68.70034,
+                        39.061863
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TJ-RR",
     coords: [68.8, 39.05],
@@ -195,7 +276,196 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     },
   },
   {
-    id: "darvaz-range-relief-v2",
+    id: "darvaz-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arts Centre",
+                  "text": "Dieses moderne Kulturzentrum dient als Veranstaltungsort für lokale Kunstausstellungen und traditionelle Darbietungen im Darvaz-Gebirge.",
+                  "category": "cultural",
+                  "coords": [
+                        70.776776,
+                        38.457064
+                  ]
+            },
+            {
+                  "name": "Muzei vintorogova kozla",
+                  "text": "Dieses Museum widmet sich der seltenen Schraubenziege (Markhor), einer im Pamir-Gebirge heimischen Wildziegenart.",
+                  "category": "museum",
+                  "coords": [
+                        70.781244,
+                        38.456648
+                  ]
+            },
+            {
+                  "name": "Shikaī",
+                  "text": "Diese Festungsruine überblickt den Fluss Pandsch an der strategisch wichtigen Grenze zu Afghanistan.",
+                  "category": "fortress",
+                  "coords": [
+                        70.842994,
+                        38.438459
+                  ]
+            },
+            {
+                  "name": "Karon",
+                  "text": "Diese weitläufige archäologische Stätte war einst ein bedeutendes Zentrum des Zoroastrismus mit Tempeln und einem Observatorium.",
+                  "category": "landmark",
+                  "coords": [
+                        70.848737,
+                        38.45102
+                  ]
+            },
+            {
+                  "name": "Cross Border Market",
+                  "text": "Auf diesem Markt an der Grenze tauschen Händler aus Tadschikistan und Afghanistan lokale Waren und Textilien aus.",
+                  "category": "cultural",
+                  "coords": [
+                        70.827178,
+                        38.454382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arts Centre",
+                  "text": "Ez a modern kulturális központ helyi művészeti kiállításoknak és hagyományos előadásoknak ad otthont a Darvaz-hegységben.",
+                  "category": "cultural",
+                  "coords": [
+                        70.776776,
+                        38.457064
+                  ]
+            },
+            {
+                  "name": "Muzei vintorogova kozla",
+                  "text": "Ez a múzeum a ritka pödröttszarvú kecskének (markhor) szentelték, amely a Pamír-hegységben honos vadkecskefaj.",
+                  "category": "museum",
+                  "coords": [
+                        70.781244,
+                        38.456648
+                  ]
+            },
+            {
+                  "name": "Shikaī",
+                  "text": "Ez az erődrom a Pandzs-folyóra néz az Afganisztánnal közös, stratégiailag fontos határon.",
+                  "category": "fortress",
+                  "coords": [
+                        70.842994,
+                        38.438459
+                  ]
+            },
+            {
+                  "name": "Karon",
+                  "text": "Ez a kiterjedt régészeti lelőhely egykor a zoroasztrizmus jelentős központja volt templomokkal és obszervatóriummal.",
+                  "category": "landmark",
+                  "coords": [
+                        70.848737,
+                        38.45102
+                  ]
+            },
+            {
+                  "name": "Cross Border Market",
+                  "text": "Ezen a határon fekvő piacon tádzsik és afgán kereskedők cserélnek gazdát helyi árukkal és textíliákkal.",
+                  "category": "cultural",
+                  "coords": [
+                        70.827178,
+                        38.454382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arts Centre",
+                  "text": "Acest centru cultural modern servește drept loc de desfășurare pentru expoziții de artă locală și spectacole tradiționale în Munții Darvaz.",
+                  "category": "cultural",
+                  "coords": [
+                        70.776776,
+                        38.457064
+                  ]
+            },
+            {
+                  "name": "Muzei vintorogova kozla",
+                  "text": "Acest muzeu este dedicat rarei capre cu coarne în spirală (Markhor), o specie de capră sălbatică nativă Munților Pamir.",
+                  "category": "museum",
+                  "coords": [
+                        70.781244,
+                        38.456648
+                  ]
+            },
+            {
+                  "name": "Shikaī",
+                  "text": "Această ruină de fortăreață domină râul Panj la granița strategică cu Afganistanul.",
+                  "category": "fortress",
+                  "coords": [
+                        70.842994,
+                        38.438459
+                  ]
+            },
+            {
+                  "name": "Karon",
+                  "text": "Acest sit arheologic vast a fost odată un centru major al zoroastrismului, cu temple și un observator.",
+                  "category": "landmark",
+                  "coords": [
+                        70.848737,
+                        38.45102
+                  ]
+            },
+            {
+                  "name": "Cross Border Market",
+                  "text": "În această piață de frontieră, comercianții din Tadjikistan și Afganistan schimbă bunuri locale și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        70.827178,
+                        38.454382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arts Centre",
+                  "text": "This modern cultural centre serves as a venue for local art exhibitions and traditional performances in the Darvaz Range.",
+                  "category": "cultural",
+                  "coords": [
+                        70.776776,
+                        38.457064
+                  ]
+            },
+            {
+                  "name": "Muzei vintorogova kozla",
+                  "text": "This museum is dedicated to the rare Markhor, a species of wild goat native to the Pamir Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        70.781244,
+                        38.456648
+                  ]
+            },
+            {
+                  "name": "Shikaī",
+                  "text": "This fortress ruin overlooks the Panj River on the strategic border with Afghanistan.",
+                  "category": "fortress",
+                  "coords": [
+                        70.842994,
+                        38.438459
+                  ]
+            },
+            {
+                  "name": "The Ancient City of Karon",
+                  "text": "This vast archaeological site was once a major centre of Zoroastrianism, featuring temples and an observatory.",
+                  "category": "landmark",
+                  "coords": [
+                        70.848737,
+                        38.45102
+                  ]
+            },
+            {
+                  "name": "Cross Border Market",
+                  "text": "At this border market, Tajik and Afghan traders exchange local goods and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        70.827178,
+                        38.454382
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TJ-GB",
     coords: [70.8, 38.5],
@@ -746,7 +1016,52 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     },
   },
   {
-    id: "rasht-valley-relief-v2",
+    id: "rasht-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazaar (mini)",
+                  "text": "Ein kleiner lokaler Marktplatz, der im Rasht-Tal die Grundversorgung bereitstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        70.375338,
+                        39.025633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazaar (mini)",
+                  "text": "Egy kis helyi piac, amely alapvető árucikkekkel látja el a Rast-völgyet.",
+                  "category": "cultural",
+                  "coords": [
+                        70.375338,
+                        39.025633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazaar (mini)",
+                  "text": "O mică piață locală care furnizează bunuri esențiale în Valea Rasht.",
+                  "category": "cultural",
+                  "coords": [
+                        70.375338,
+                        39.025633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazaar (mini)",
+                  "text": "A small local marketplace supplying essential goods in the Rasht Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        70.375338,
+                        39.025633
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TJ-RR",
     coords: [70.3, 39.0],
@@ -794,7 +1109,124 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     },
   },
   {
-    id: "fergana-valley-tajik-relief-v2",
+    id: "fergana-valley-tajik-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kokhi Istiklol",
+                  "text": "Eine moderne Festungsanlage in Chudschand, die mit ihren Mauern und Türmen die tadschikische Geschichte feiert.",
+                  "category": "castle",
+                  "coords": [
+                        69.78885,
+                        40.262831
+                  ]
+            },
+            {
+                  "name": "naberezhnaia so sportploshchadkoi",
+                  "text": "Eine gepflegte Uferpromenade am Syrdarja mit Sportgeräten und einem Panoramablick auf den Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        69.805267,
+                        40.266155
+                  ]
+            },
+            {
+                  "name": "ia liubliu Tadzhikistan",
+                  "text": "Ein farbenfroher dekorativer Schriftzug an der Promenade von Chudschand, der als beliebter Fotopunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.816402,
+                        40.280114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kokhi Istiklol",
+                  "text": "Modern erődítmény Hudzsandban, amely falaival és tornyaival a tadzsik történelmet ünnepli.",
+                  "category": "castle",
+                  "coords": [
+                        69.78885,
+                        40.262831
+                  ]
+            },
+            {
+                  "name": "naberezhnaia so sportploshchadkoi",
+                  "text": "Gondozott vízparti sétány a Szir-darjánál, sporteszközökkel és panorámás kilátással a folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        69.805267,
+                        40.266155
+                  ]
+            },
+            {
+                  "name": "ia liubliu Tadzhikistan",
+                  "text": "Színes dekoratív felirat Hudzsand sétányán, amely népszerű fotózási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.816402,
+                        40.280114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kokhi Istiklol",
+                  "text": "O fortăreață modernă în Khujand, care celebrează istoria tadjică prin zidurile și turnurile sale.",
+                  "category": "castle",
+                  "coords": [
+                        69.78885,
+                        40.262831
+                  ]
+            },
+            {
+                  "name": "naberezhnaia so sportploshchadkoi",
+                  "text": "O faleză îngrijită pe malul râului Sîrdaria, dotată cu echipamente sportive și vedere panoramică la râu.",
+                  "category": "natural",
+                  "coords": [
+                        69.805267,
+                        40.266155
+                  ]
+            },
+            {
+                  "name": "ia liubliu Tadzhikistan",
+                  "text": "Un semn decorativ colorat pe faleza din Khujand, servind ca punct de referință popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.816402,
+                        40.280114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Independence",
+                  "text": "A modern fortress-style structure in Khujand, celebrating Tajik history with its walls and towers.",
+                  "category": "castle",
+                  "coords": [
+                        69.78885,
+                        40.262831
+                  ]
+            },
+            {
+                  "name": "corniche with sport area",
+                  "text": "A manicured riverside promenade along the Syr Darya with sports equipment and panoramic river views.",
+                  "category": "natural",
+                  "coords": [
+                        69.805267,
+                        40.266155
+                  ]
+            },
+            {
+                  "name": "I love Tajikistan",
+                  "text": "A colorful decorative sign located on the Khujand promenade, serving as a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        69.816402,
+                        40.280114
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TJ-SU",
     coords: [69.8, 40.3],
@@ -842,7 +1274,88 @@ export const poiExtraTajikistanReliefV2: POI[] = [
     },
   },
   {
-    id: "murghab-plateau-relief-v2",
+    id: "murghab-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazar, vse est'",
+                  "text": "Ein vielfältiger lokaler Marktplatz, der auf dem Murghab-Plateau eine breite Palette von Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.971947,
+                        38.176622
+                  ]
+            },
+            {
+                  "name": "Sary Kol Bazar",
+                  "text": "Ein hoch gelegener Marktplatz, der der lokalen Gemeinschaft auf dem Murghab-Plateau dient.",
+                  "category": "cultural",
+                  "coords": [
+                        73.973824,
+                        38.175145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazar, vse est'",
+                  "text": "Egy sokoldalú helyi piac, amely az áruk széles skáláját kínálja a Murgáb-fennsíkon.",
+                  "category": "cultural",
+                  "coords": [
+                        73.971947,
+                        38.176622
+                  ]
+            },
+            {
+                  "name": "Sary Kol Bazar",
+                  "text": "Egy magasan fekvő piac, amely a helyi közösséget szolgálja a Murgáb-fennsíkon.",
+                  "category": "cultural",
+                  "coords": [
+                        73.973824,
+                        38.175145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazar, vse est'",
+                  "text": "O piață locală diversă care oferă o gamă largă de bunuri pe platoul Murghab.",
+                  "category": "cultural",
+                  "coords": [
+                        73.971947,
+                        38.176622
+                  ]
+            },
+            {
+                  "name": "Sary Kol Bazar",
+                  "text": "O piață de mare altitudine care servește comunitatea locală pe platoul Murghab.",
+                  "category": "cultural",
+                  "coords": [
+                        73.973824,
+                        38.175145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazar, vse est'",
+                  "text": "A diverse local marketplace offering a wide range of goods on the Murghab plateau.",
+                  "category": "cultural",
+                  "coords": [
+                        73.971947,
+                        38.176622
+                  ]
+            },
+            {
+                  "name": "Sary Kol Bazar",
+                  "text": "A high-altitude marketplace serving the local community on the Murghab plateau.",
+                  "category": "cultural",
+                  "coords": [
+                        73.973824,
+                        38.175145
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "TJ-GB",
     coords: [74.0, 38.2],

@@ -283,7 +283,7 @@ imageHint: "Talum industrial site in Kidričevo",
       "de": [
             {
                   "name": "Rogaška Riviera",
-                  "text": "Riviera-Strand bei der Glashütte Rogaška.",
+                  "text": "Thermalbad mit Freibecken in der Nähe der Glashütte Rogaška.",
                   "category": "recreational",
                   "coords": [
                         15.634121,
@@ -294,7 +294,7 @@ imageHint: "Talum industrial site in Kidričevo",
       "hu": [
             {
                   "name": "Rogaška Riviera",
-                  "text": "Riviera strand a Rogaška üveggyár közelében.",
+                  "text": "Termálfürdő szabadtéri medencékkel a Rogaška üveggyár közelében.",
                   "category": "recreational",
                   "coords": [
                         15.634121,
@@ -305,7 +305,7 @@ imageHint: "Talum industrial site in Kidričevo",
       "ro": [
             {
                   "name": "Rogaška Riviera",
-                  "text": "Plaja Riviera lângă fabrica de sticlă Rogaška.",
+                  "text": "Stațiune termală cu bazine în aer liber lângă fabrica de sticlă Rogaška.",
                   "category": "recreational",
                   "coords": [
                         15.634121,
@@ -316,7 +316,7 @@ imageHint: "Talum industrial site in Kidričevo",
       "en": [
             {
                   "name": "Rogaška Riviera",
-                  "text": "Riviera Beach near Rogaška Glassworks.",
+                  "text": "Thermal spa with outdoor pools near the Rogaška glassworks.",
                   "category": "recreational",
                   "coords": [
                         15.634121,
@@ -1290,7 +1290,88 @@ imageHint: "The towering Trbovlje chimney rising above the valley",
     },
     image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp",
 },  {
-    id: "slovenia-ljubljanske-mlekarne-economic-v2", "sights": {"de": [{"name": "Jožetove terase", "text": "Strand bei den Ljublanske Mlekarne.", "category": "recreational", "coords": [14.514766, 46.105578]}, {"name": "Plaža Sava - Laguna", "text": "Versteckt im städtischen Trubel in der Nähe der Ljubljanske Mlekarne, entpuppt sich die Plaža Sava - Laguna als unerwartete Erholungsoase. Sie strahlt einen entspannten, alltäglichen Charme aus, der den Stadtbewohnern eine schnelle Flucht aus der Routine ermöglicht. Man kann hier bequem faulenzen, die Nachmittagssonne tanken oder einen friedlichen Spaziergang machen. Ein Besuch unter der Woche ist eine fantastische Möglichkeit, diesen Ort von seiner ruhigsten Seite kennenzulernen.", "category": "recreational", "coords": [14.520872, 46.096808]}], "hu": [{"name": "Jožetove terase", "text": "Strand a Ljublanske Mlekarne közelében.", "category": "recreational", "coords": [14.514766, 46.105578]}, {"name": "Plaža Sava - Laguna", "text": "A Ljubljanske Mlekarne (Ljubljanai Tejüzem) közelében, a városi tájba simulva a Plaža Sava - Laguna egy rendkívül meglepő pihenőoázisként szolgál. Folyamatosan nyugodt, hétköznapi báj árad belőle, amely gyors kikapcsolódást nyújt a városlakóknak a mindennapi rutinból. A látogatók kényelmesen elnyúlva élvezhetik a délutáni napsütést, vagy tehetnek egy békés sétát. Ha hétköznap látogatunk ide, fantasztikus lehetőségünk nyílik a hely legcsendesebb arcának megismerésére.", "category": "recreational", "coords": [14.520872, 46.096808]}], "ro": [{"name": "Jožetove terase", "text": "Plajă lângă Ljublanske Mlekarne.", "category": "recreational", "coords": [14.514766, 46.105578]}, {"name": "Plaža Sava - Laguna", "text": "Ascunsă în peisajul urban din apropierea Fabricii de Lactate din Ljubljana, Plaža Sava - Laguna servește ca o oază de recreere cu totul neașteptată. Radiază constant un farmec relaxat, de zi cu zi, care le oferă locuitorilor orașului o evadare rapidă din rutina lor zilnică. Vă puteți relaxa cu ușurință, vă puteți bucura de soarele după-amiezii sau puteți face o plimbare pașnică. Vizitarea în timpul săptămânii este o modalitate fantastică de a experimenta acest loc în cel mai liniștit moment al său.", "category": "recreational", "coords": [14.520872, 46.096808]}], "en": [{"name": "Jožetove terase", "text": "Beach near Ljublanske Mlekarne.", "category": "recreational", "coords": [14.514766, 46.105578]}, {"name": "Plaža Sava - Laguna", "text": "Tucked within the urban landscape near the Ljubljana Dairy, Plaža Sava - Laguna serves as a highly unexpected recreational oasis. It constantly radiates a relaxed, everyday charm that grants city dwellers a quick escape from their daily routines. You can easily lounge comfortably, soak up the afternoon sun, or take a peaceful stroll. Visiting during a weekday is a fantastic way to experience this specific spot at its absolute quietest.", "category": "recreational", "coords": [14.520872, 46.096808]}]},
+    id: "slovenia-ljubljanske-mlekarne-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Terrassierte Gärten auf einem Hügel mit Aussicht über Ljubljana.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "Versteckt im städtischen Trubel in der Nähe der Ljubljanske Mlekarne, entpuppt sich die Plaža Sava - Laguna als unerwartete Erholungsoase. Sie strahlt einen entspannten, alltäglichen Charme aus, der den Stadtbewohnern eine schnelle Flucht aus der Routine ermöglicht. Man kann hier bequem faulenzen, die Nachmittagssonne tanken oder einen friedlichen Spaziergang machen. Ein Besuch unter der Woche ist eine fantastische Möglichkeit, diesen Ort von seiner ruhigsten Seite kennenzulernen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Teraszos kertek egy dombon, kilátással Ljubljanára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "A Ljubljanske Mlekarne (Ljubljanai Tejüzem) közelében, a városi tájba simulva a Plaža Sava - Laguna egy rendkívül meglepő pihenőoázisként szolgál. Folyamatosan nyugodt, hétköznapi báj árad belőle, amely gyors kikapcsolódást nyújt a városlakóknak a mindennapi rutinból. A látogatók kényelmesen elnyúlva élvezhetik a délutáni napsütést, vagy tehetnek egy békés sétát. Ha hétköznap látogatunk ide, fantasztikus lehetőségünk nyílik a hely legcsendesebb arcának megismerésére.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Grădini în terase pe un deal cu vedere spre Ljubljana.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "Ascunsă în peisajul urban din apropierea Fabricii de Lactate din Ljubljana, Plaža Sava - Laguna servește ca o oază de recreere cu totul neașteptată. Radiază constant un farmec relaxat, de zi cu zi, care le oferă locuitorilor orașului o evadare rapidă din rutina lor zilnică. Vă puteți relaxa cu ușurință, vă puteți bucura de soarele după-amiezii sau puteți face o plimbare pașnică. Vizitarea în timpul săptămânii este o modalitate fantastică de a experimenta acest loc în cel mai liniștit moment al său.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Terraced gardens on a hill with views over Ljubljana.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "Tucked within the urban landscape near the Ljubljana Dairy, Plaža Sava - Laguna serves as a highly unexpected recreational oasis. It constantly radiates a relaxed, everyday charm that grants city dwellers a quick escape from their daily routines. You can easily lounge comfortably, soak up the afternoon sun, or take a peaceful stroll. Visiting during a weekday is a fantastic way to experience this specific spot at its absolute quietest.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "factory",
     name: { de: "Ljubljanaer Molkerei", hu: "Ljubljanai Tejgyár", ro: "Lactatele Ljubljana", en: "Ljubljana Dairy"},

@@ -608,7 +608,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       "de": [
             {
                   "name": "Sini Kamen'",
-                  "text": "Sini Kamen ist ein Denkmal in der Region der Memelniederung.",
+                  "text": "Blauer Stein, ein Findling mit sagenumwobener Geschichte im Neman-Tiefland.",
                   "category": "historical",
                   "coords": [
                         24.311491,
@@ -619,7 +619,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       "hu": [
             {
                   "name": "Sini Kamen'",
-                  "text": "Sini Kamen egy emlékmű a Nyeman-alföld régiójában.",
+                  "text": "Kék kő, egy mondák által övezett szikladarab a Neman-alföldön.",
                   "category": "historical",
                   "coords": [
                         24.311491,
@@ -630,7 +630,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       "ro": [
             {
                   "name": "Sini Kamen'",
-                  "text": "Sini Kamen este un monument situat în regiunea câmpiei râului Niemen.",
+                  "text": "Piatra Albastră, un bloc erratic înconjurat de legende în Câmpia Nemanului.",
                   "category": "historical",
                   "coords": [
                         24.311491,
@@ -641,7 +641,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       "en": [
             {
                   "name": "Sini Kamen",
-                  "text": "Sini Kamen is a monument located in the Neman Lowland region.",
+                  "text": "Blue Stone, a legendary glacial erratic in the Neman Lowland.",
                   "category": "historical",
                   "coords": [
                         24.311491,
@@ -755,7 +755,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Lagoiskaia tkatskaia fabryka",
-                  "text": "Eine Weberei in Lahoysk, die traditionelles Handwerk präsentiert.",
+                  "text": "Weberei in Lahojsk, gegründet 1838, in der Nähe des Logoysk-Kraters.",
                   "category": "landmark",
                   "coords": [
                         27.850232,
@@ -764,7 +764,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Mastatskaia galereia Siargeia Davidovicha",
-                  "text": "Eine Kunstgalerie in Lahoysk, die Werke von Syarhey Davidovich ausstellt.",
+                  "text": "Kunstgalerie Syarhey Davidovich mit Werken des gleichnamigen Künstlers im Gebiet des Logoysk-Kraters.",
                   "category": "museum",
                   "coords": [
                         27.843257,
@@ -773,7 +773,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Kastsiol Sviatoga Kazimira",
-                  "text": "Eine katholische Kirche in Lahoysk, dem heiligen Kasimir geweiht.",
+                  "text": "St.-Kasimir-Kirche in Lahojsk, in der Nähe des Logoysk-Kraters.",
                   "category": "landmark",
                   "coords": [
                         27.852907,
@@ -793,7 +793,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Lagoiskaia tkatskaia fabryka",
-                  "text": "Hagyományos kézművességet bemutató szövőgyár Lahojszkban.",
+                  "text": "Lahojski szövőgyár, alapítva 1838-ban a Logoysk-kráter közelében.",
                   "category": "landmark",
                   "coords": [
                         27.850232,
@@ -802,7 +802,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Mastatskaia galereia Siargeia Davidovicha",
-                  "text": "Syarhey Davidovich műveit bemutató művészeti galéria Lahojszkban.",
+                  "text": "Syarhey Davidovich Művészeti Galéria a művész munkáival a Logoyski-kráter területén.",
                   "category": "museum",
                   "coords": [
                         27.843257,
@@ -811,7 +811,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Kastsiol Sviatoga Kazimira",
-                  "text": "Szent Kázmér tiszteletére szentelt katolikus templom Lahojszkban.",
+                  "text": "Szent Kázmér-templom Lahojskban, a Logoysk-kráter közelében.",
                   "category": "landmark",
                   "coords": [
                         27.852907,
@@ -831,7 +831,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Lagoiskaia tkatskaia fabryka",
-                  "text": "O fabrică de țesut din Lahojsk care prezintă meșteșugul tradițional.",
+                  "text": "Fabrica de țesut din Lahojsk, înființată în 1838 lângă Craterul Logoysk.",
                   "category": "landmark",
                   "coords": [
                         27.850232,
@@ -840,7 +840,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Mastatskaia galereia Siargeia Davidovicha",
-                  "text": "O galerie de artă din Lahojsk care expune lucrările lui Syarhey Davidovich.",
+                  "text": "Galeria de artă Syarhey Davidovich cu lucrări ale artistului omonim în zona craterului Logoysk.",
                   "category": "museum",
                   "coords": [
                         27.843257,
@@ -849,7 +849,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Kastsiol Sviatoga Kazimira",
-                  "text": "O biserică catolică din Lahojsk, dedicată Sfântului Cazimir.",
+                  "text": "Biserica Sfântul Cazimir în Lahojsk, lângă Craterul Logoysk.",
                   "category": "landmark",
                   "coords": [
                         27.852907,
@@ -869,7 +869,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Lahojsk weaving factory",
-                  "text": "A weaving factory in Lahojsk showcasing traditional craftsmanship.",
+                  "text": "Lahojsk weaving factory founded in 1838 near Logoysk Crater.",
                   "category": "landmark",
                   "coords": [
                         27.850232,
@@ -878,7 +878,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "Syarhey Davidovich Art Gallery",
-                  "text": "An art gallery in Lahojsk exhibiting the works of Syarhey Davidovich.",
+                  "text": "Syarhey Davidovich Art Gallery featuring works by the artist in the Logoysk Crater area.",
                   "category": "museum",
                   "coords": [
                         27.843257,
@@ -887,7 +887,7 @@ imageHint: "Vast marshlands of Polesie",
             },
             {
                   "name": "St. Casimir Catholic Church",
-                  "text": "A Catholic church in Lahojsk dedicated to Saint Casimir.",
+                  "text": "St. Casimir's Church in Lahojsk near Logoysk Crater.",
                   "category": "landmark",
                   "coords": [
                         27.852907,

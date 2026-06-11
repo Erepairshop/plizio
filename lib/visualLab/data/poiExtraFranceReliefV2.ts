@@ -538,7 +538,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Die Kernzone des UNESCO-Biosphärenreservats rund um den Mont Ventoux.",
+                  "text": "Kernzone des UNESCO-Biosphärenreservats rund um den markanten Mont Ventoux.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -603,7 +603,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "A Mont Ventoux körüli UNESCO bioszféra-rezervátum központi zónája.",
+                  "text": "A Mont Ventoux jellegzetes csúcsa körüli UNESCO bioszféra-rezervátum központi zónája.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -668,7 +668,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Zona centrală a rezervației biosferei UNESCO din jurul Muntelui Ventoux.",
+                  "text": "Zona centrală a Rezervației UNESCO a Biosferei Mont Ventoux, în jurul muntelui emblematic.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -733,7 +733,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "The core zone of the UNESCO Biosphere Reserve surrounding Mont Ventoux.",
+                  "text": "The core zone of the UNESCO biosphere reserve around the iconic Mont Ventoux.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -889,7 +889,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "La Sauvette",
-                  "text": "Der höchste Gipfel des Massif des Maures in der Provence.",
+                  "text": "Signal de la Sauvette, ein Gipfel im Maures-Massiv mit Panoramablick.",
                   "category": "landmark",
                   "coords": [
                         6.336722,
@@ -898,7 +898,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pons",
-                  "text": "Die Ruinen einer alten Kapelle im Massif des Maures.",
+                  "text": "Historische Kirche Saint-Pons im Massif des Maures.",
                   "category": "historical",
                   "coords": [
                         6.311539,
@@ -954,7 +954,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "La Sauvette",
-                  "text": "A Massif des Maures legmagasabb csúcsa Provence-ban.",
+                  "text": "Signal de la Sauvette, egy csúcs a Maures-hegységben, panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
                         6.336722,
@@ -963,7 +963,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pons",
-                  "text": "Egy régi kápolna romjai a Massif des Maures hegységben.",
+                  "text": "Történelmi Saint-Pons templom a Maures-hegységben.",
                   "category": "historical",
                   "coords": [
                         6.311539,
@@ -1019,7 +1019,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "La Sauvette",
-                  "text": "Cel mai înalt vârf din Masivul Maures în Provence.",
+                  "text": "Signal de la Sauvette, un vârf în masivul Maures, cu vedere panoramică.",
                   "category": "landmark",
                   "coords": [
                         6.336722,
@@ -1028,7 +1028,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pons",
-                  "text": "Ruinele unei vechi capele în Masivul Maures.",
+                  "text": "Biserica istorică Saint-Pons în masivul Maures.",
                   "category": "historical",
                   "coords": [
                         6.311539,
@@ -1084,7 +1084,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "La Sauvette",
-                  "text": "The highest peak of the Massif des Maures in Provence.",
+                  "text": "Signal de la Sauvette, a summit in the Maures massif with panoramic views.",
                   "category": "landmark",
                   "coords": [
                         6.336722,
@@ -1093,7 +1093,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pons",
-                  "text": "The ruins of an old chapel in the Massif des Maures.",
+                  "text": "Historic church Saint-Pons in the Massif des Maures.",
                   "category": "historical",
                   "coords": [
                         6.311539,
@@ -1186,7 +1186,7 @@ export const franceReliefV2: POI[] = [
       "de": [
             {
                   "name": "Zoo d'Asson",
-                  "text": "Ein zoologischer Garten in der Nähe des Mont Garbi.",
+                  "text": "Zoo in Asson mit einheimischen Tieren der Pyrenäen.",
                   "category": "recreational",
                   "coords": [
                         -0.267725,
@@ -1195,7 +1195,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Paul",
-                  "text": "Eine Kirche am Fuße des Mont Garbi.",
+                  "text": "Kirche Saint-Paul im Bergdorf Mont Garbi.",
                   "category": "religious",
                   "coords": [
                         -0.252881,
@@ -1206,7 +1206,7 @@ export const franceReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Zoo d'Asson",
-                  "text": "Egy állatkert a Mont Garbi közelében.",
+                  "text": "Állatkert Asson-ban a Pireneusok helyi állataival.",
                   "category": "recreational",
                   "coords": [
                         -0.267725,
@@ -1215,7 +1215,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Paul",
-                  "text": "Egy templom a Mont Garbi lábánál.",
+                  "text": "Szent Pál-templom a Mont Garbi hegyi faluban.",
                   "category": "religious",
                   "coords": [
                         -0.252881,
@@ -1226,7 +1226,7 @@ export const franceReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Zoo d'Asson",
-                  "text": "O grădină zoologică situată în apropiere de Mont Garbi.",
+                  "text": "Grădină zoologică în Asson cu animale locale din Pirinei.",
                   "category": "recreational",
                   "coords": [
                         -0.267725,
@@ -1235,7 +1235,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Paul",
-                  "text": "O biserică situată la poalele muntelui Mont Garbi.",
+                  "text": "Biserica Saint-Paul în satul montan Mont Garbi.",
                   "category": "religious",
                   "coords": [
                         -0.252881,
@@ -1246,7 +1246,7 @@ export const franceReliefV2: POI[] = [
       "en": [
             {
                   "name": "Zoo d'Asson",
-                  "text": "A zoological garden located near Mont Garbi.",
+                  "text": "Zoo in Asson with local wildlife of the Pyrenees.",
                   "category": "recreational",
                   "coords": [
                         -0.267725,
@@ -1255,7 +1255,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Paul",
-                  "text": "A church located at the foot of Mont Garbi.",
+                  "text": "Church Saint-Paul in the mountain village of Mont Garbi.",
                   "category": "religious",
                   "coords": [
                         -0.252881,
@@ -2095,7 +2095,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Zentrale Schutzzone des Biosphärenreservats Mont Ventoux.",
+                  "text": "Kernzone des Biosphärenreservats im gesamten Massif du Ventoux.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -2160,7 +2160,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "A Mont Ventoux bioszféra-rezervátum központi védelmi övezete.",
+                  "text": "A Ventoux-hegység bioszféra-rezervátumának központi védett területe.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -2225,7 +2225,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Zona centrală de protecție a rezervației biosferei Mont Ventoux.",
+                  "text": "Zona protejată centrală a Rezervației Biosferei din Masivul Ventoux.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -2290,7 +2290,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Central protection zone of the Mont Ventoux biosphere reserve.",
+                  "text": "The central protected area of the Mont Ventoux massif biosphere reserve.",
                   "category": "natural",
                   "coords": [
                         5.274874,
@@ -2419,7 +2419,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église paroissiale Saint-Antoine",
-                  "text": "Eine lokale Pfarrkirche, die dem heiligen Antonius gewidmet ist.",
+                  "text": "Pfarrkirche Saint-Antoine, um 1200 erbaut, in der Ebene der Saône.",
                   "category": "religious",
                   "coords": [
                         5.122926,
@@ -2466,7 +2466,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église paroissiale Saint-Antoine",
-                  "text": "Szent Antalnak szentelt helyi plébániatemplom.",
+                  "text": "Szent Antal plébániatemplom, épült 1200 körül, a Saône-síkságon.",
                   "category": "religious",
                   "coords": [
                         5.122926,
@@ -2513,7 +2513,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église paroissiale Saint-Antoine",
-                  "text": "O biserică parohială locală dedicată Sfântului Anton.",
+                  "text": "Biserica parohială Sfântul Anton, construită în jurul anului 1200, în câmpia Saône.",
                   "category": "religious",
                   "coords": [
                         5.122926,
@@ -2560,7 +2560,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église paroissiale Saint-Antoine",
-                  "text": "A local parish church dedicated to Saint Anthony.",
+                  "text": "Parish church of Saint-Antoine, built around 1200, in the Saône plain.",
                   "category": "religious",
                   "coords": [
                         5.122926,
@@ -2635,7 +2635,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Dent de l'Ours",
-                  "text": "Ein Berggipfel im Chartreuse-Massiv in Frankreich.",
+                  "text": "Dent de l'Ours, ein felsiger Gipfel im Chartreuse-Massiv, bekannt für Kletterrouten.",
                   "category": "landmark",
                   "coords": [
                         5.820785,
@@ -2689,7 +2689,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Porte de l'Enclos",
-                  "text": "Ein landschaftlich schöner Aussichtspunkt im Chartreuse-Massiv.",
+                  "text": "Natursteinbogen oder Felstor im Chartreuse-Gebirge, der den Zugang zum inneren Tal bildet.",
                   "category": "natural",
                   "coords": [
                         5.79988,
@@ -2718,7 +2718,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Dent de l'Ours",
-                  "text": "Hegycsúcs a franciaországi Chartreuse-masszívumban.",
+                  "text": "Dent de l'Ours, egy sziklás csúcs a Chartreuse-hegységben, híres mászóutakkal.",
                   "category": "landmark",
                   "coords": [
                         5.820785,
@@ -2772,7 +2772,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Porte de l'Enclos",
-                  "text": "Szép kilátást nyújtó pont a Chartreuse-masszívumban.",
+                  "text": "Természetes sziklakapu a Chartreuse-hegységben, amely a belső völgy bejáratát jelzi.",
                   "category": "natural",
                   "coords": [
                         5.79988,
@@ -2801,7 +2801,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Dent de l'Ours",
-                  "text": "Un vârf muntos în masivul Chartreuse din Franța.",
+                  "text": "Dent de l'Ours, un vârf stâncos în masivul Chartreuse, cunoscut pentru traseele de cățărare.",
                   "category": "landmark",
                   "coords": [
                         5.820785,
@@ -2855,7 +2855,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Porte de l'Enclos",
-                  "text": "Un punct de belvedere pitoresc din masivul Chartreuse.",
+                  "text": "Un arc natural de piatră sau o poartă stâncoasă în Masivul Chartreuse, marcând intrarea într-o vale interioară.",
                   "category": "natural",
                   "coords": [
                         5.79988,
@@ -2884,7 +2884,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Dent de l'Ours",
-                  "text": "A mountain peak in the Chartreuse Massif in France.",
+                  "text": "Dent de l'Ours, a rocky peak in the Chartreuse massif known for climbing routes.",
                   "category": "landmark",
                   "coords": [
                         5.820785,
@@ -2938,7 +2938,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Porte de l'Enclos",
-                  "text": "A scenic viewpoint located in the Chartreuse Massif.",
+                  "text": "A natural rock arch or gate in the Chartreuse mountains, marking the entrance to an inner valley.",
                   "category": "natural",
                   "coords": [
                         5.79988,
@@ -3526,7 +3526,7 @@ export const franceReliefV2: POI[] = [
       "de": [
             {
                   "name": "Tour des Aiguillons",
-                  "text": "Überreste eines mittelalterlichen Turms auf dem Larzac-Plateau.",
+                  "text": "Ruine eines mittelalterlichen Wachturms auf dem Larzac-Plateau mit weitem Blick über die Hochebene.",
                   "category": "historical",
                   "coords": [
                         3.172681,
@@ -3555,7 +3555,7 @@ export const franceReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Tour des Aiguillons",
-                  "text": "Egy középkori torony maradványai a Larzac-fennsíkon.",
+                  "text": "Egy középkori őrtorony romja a Larzac-fennsíkon, kilátással a fennsíkra.",
                   "category": "historical",
                   "coords": [
                         3.172681,
@@ -3584,7 +3584,7 @@ export const franceReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Tour des Aiguillons",
-                  "text": "Rămășițele unui turn medieval de pe platoul Larzac.",
+                  "text": "Ruina unui turn de pază medieval pe Podișul Larzac, cu vedere întinsă asupra platoului.",
                   "category": "historical",
                   "coords": [
                         3.172681,
@@ -3613,7 +3613,7 @@ export const franceReliefV2: POI[] = [
       "en": [
             {
                   "name": "Tour des Aiguillons",
-                  "text": "Remains of a medieval tower on the Larzac plateau.",
+                  "text": "Ruins of a medieval watchtower on the Larzac plateau overlooking the vast limestone plain.",
                   "category": "historical",
                   "coords": [
                         3.172681,
@@ -4903,7 +4903,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Sagittaire",
-                  "text": "Eine religiöse Kapelle in der Region des Millevaches-Plateaus.",
+                  "text": "Kapelle Saint-Sagittaire auf dem Plateau de Millevaches.",
                   "category": "religious",
                   "coords": [
                         2.121733,
@@ -4923,7 +4923,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Sagittaire",
-                  "text": "Vallási kápolna a Millevaches-fennsík régiójában.",
+                  "text": "Szent Sagittaire-kápolna a Millevaches-fennsíkon.",
                   "category": "religious",
                   "coords": [
                         2.121733,
@@ -4943,7 +4943,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Sagittaire",
-                  "text": "O capelă religioasă situată în regiunea Platoului Millevaches.",
+                  "text": "Capela Saint-Sagittaire pe Platoul Millevaches.",
                   "category": "religious",
                   "coords": [
                         2.121733,
@@ -4963,7 +4963,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Sagittaire",
-                  "text": "A religious chapel situated in the Millevaches Plateau region.",
+                  "text": "Chapel Saint-Sagittaire on the Plateau de Millevaches.",
                   "category": "religious",
                   "coords": [
                         2.121733,
@@ -5344,7 +5344,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Goutaroux",
-                  "text": "Ein Berggipfel in der Region des Mont Aiguille.",
+                  "text": "Felsformation am Mont Aiguille.",
                   "category": "landmark",
                   "coords": [
                         5.593441,
@@ -5380,7 +5380,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Galerie Kyeper",
-                  "text": "Eine Kunstgalerie in der Nähe des Mont Aiguille.",
+                  "text": "Museum zur Geschichte und Besteigung des markanten Mont Aiguille.",
                   "category": "museum",
                   "coords": [
                         5.572457,
@@ -5389,7 +5389,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "Eine Kapelle in der Bergregion des Mont Aiguille.",
+                  "text": "Kapelle Notre-Dame am Fuße des Mont Aiguille.",
                   "category": "religious",
                   "coords": [
                         5.558858,
@@ -5418,7 +5418,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Goutaroux",
-                  "text": "Egy hegycsúcs a Mont Aiguille régiójában.",
+                  "text": "Sziklaalakzat a Mont Aiguille-nél.",
                   "category": "landmark",
                   "coords": [
                         5.593441,
@@ -5454,7 +5454,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Galerie Kyeper",
-                  "text": "Egy művészeti galéria a Mont Aiguille közelében.",
+                  "text": "Múzeum, amely a jellegzetes Mont Aiguille hegymászásának és történelmének van szentelve.",
                   "category": "museum",
                   "coords": [
                         5.572457,
@@ -5463,7 +5463,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "Egy kápolna a Mont Aiguille hegyvidéki területén.",
+                  "text": "Notre-Dame-kápolna a Mont Aiguille lábánál.",
                   "category": "religious",
                   "coords": [
                         5.558858,
@@ -5492,7 +5492,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Goutaroux",
-                  "text": "Un vârf montan din regiunea Mont Aiguille.",
+                  "text": "Formațiune stâncoasă lângă Mont Aiguille.",
                   "category": "landmark",
                   "coords": [
                         5.593441,
@@ -5528,7 +5528,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Galerie Kyeper",
-                  "text": "O galerie de artă situată în apropiere de Mont Aiguille.",
+                  "text": "Muzeu dedicat istoriei și escaladării celebrului munte Mont Aiguille.",
                   "category": "museum",
                   "coords": [
                         5.572457,
@@ -5537,7 +5537,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "O capelă situată în regiunea montană Mont Aiguille.",
+                  "text": "Capela Notre-Dame la poalele Mont Aiguille.",
                   "category": "religious",
                   "coords": [
                         5.558858,
@@ -5566,7 +5566,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Goutaroux",
-                  "text": "A mountain peak in the Mont Aiguille region.",
+                  "text": "Rock formation near Mont Aiguille.",
                   "category": "landmark",
                   "coords": [
                         5.593441,
@@ -5602,7 +5602,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Galerie Kyeper",
-                  "text": "An art gallery located near Mont Aiguille.",
+                  "text": "A museum dedicated to the history and climbing of the distinct Mont Aiguille.",
                   "category": "museum",
                   "coords": [
                         5.572457,
@@ -5611,7 +5611,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "A chapel located in the Mont Aiguille mountain region.",
+                  "text": "Chapel Notre-Dame at the foot of Mont Aiguille.",
                   "category": "religious",
                   "coords": [
                         5.558858,
@@ -5758,7 +5758,7 @@ export const franceReliefV2: POI[] = [
       "de": [
             {
                   "name": "Pébouine",
-                  "text": "Ein Berggipfel in der Gegend von Mont Lure.",
+                  "text": "Felsiger Aussichtspunkt am Mont Lure.",
                   "category": "landmark",
                   "coords": [
                         5.684936,
@@ -5776,7 +5776,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle",
-                  "text": "Eine kleine Kapelle in der Region Mont Lure.",
+                  "text": "Kleine Bergkapelle am Mont Lure.",
                   "category": "religious",
                   "coords": [
                         5.696661,
@@ -5785,7 +5785,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-ès-Liens",
-                  "text": "Eine dem Heiligen Petrus geweihte Kirche am Mont Lure.",
+                  "text": "Kirche Saint-Pierre-ès-Liens am Mont Lure, dem Heiligen Petrus in Ketten gewidmet.",
                   "category": "religious",
                   "coords": [
                         5.691226,
@@ -5796,7 +5796,7 @@ export const franceReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Pébouine",
-                  "text": "Hegycsúcs Mont Lure környékén.",
+                  "text": "Sziklás kilátópont a Mont Lure-on.",
                   "category": "landmark",
                   "coords": [
                         5.684936,
@@ -5814,7 +5814,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle",
-                  "text": "Egy kis kápolna a Mont Lure régióban.",
+                  "text": "Kis hegyi kápolna a Mont Lure-on.",
                   "category": "religious",
                   "coords": [
                         5.696661,
@@ -5823,7 +5823,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-ès-Liens",
-                  "text": "Szent Péternek szentelt templom a Mont Lure-nél.",
+                  "text": "Szent Péter-láncai-templom a Mont Lure-on, Szent Péter láncainak szentelve.",
                   "category": "religious",
                   "coords": [
                         5.691226,
@@ -5834,7 +5834,7 @@ export const franceReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Pébouine",
-                  "text": "Un vârf muntos în zona Mont Lure.",
+                  "text": "Punct de belvedere stâncos pe Mont Lure.",
                   "category": "landmark",
                   "coords": [
                         5.684936,
@@ -5852,7 +5852,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle",
-                  "text": "O mică capelă în regiunea Mont Lure.",
+                  "text": "Capelă mică de munte pe Mont Lure.",
                   "category": "religious",
                   "coords": [
                         5.696661,
@@ -5861,7 +5861,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-ès-Liens",
-                  "text": "O biserică dedicată Sfântului Petru pe Mont Lure.",
+                  "text": "Biserica Saint-Pierre-ès-Liens pe Mont Lure, dedicată Sfântului Petru în lanțuri.",
                   "category": "religious",
                   "coords": [
                         5.691226,
@@ -5872,7 +5872,7 @@ export const franceReliefV2: POI[] = [
       "en": [
             {
                   "name": "Pébouine",
-                  "text": "A mountain peak in the Mont Lure area.",
+                  "text": "Rocky lookout on Mont Lure.",
                   "category": "landmark",
                   "coords": [
                         5.684936,
@@ -5890,7 +5890,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Chapelle",
-                  "text": "A small chapel in the Mont Lure region.",
+                  "text": "Small mountain chapel on Mont Lure.",
                   "category": "religious",
                   "coords": [
                         5.696661,
@@ -5899,7 +5899,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-ès-Liens",
-                  "text": "A church dedicated to Saint Peter on Mont Lure.",
+                  "text": "Church Saint-Pierre-ès-Liens on Mont Lure, dedicated to Saint Peter in Chains.",
                   "category": "religious",
                   "coords": [
                         5.691226,
@@ -6001,7 +6001,7 @@ export const franceReliefV2: POI[] = [
       "de": [
             {
                   "name": "Plan d'eau du Pas des Ondes",
-                  "text": "Ein Wasserpark und Erholungsgebiet in Mont Paradis.",
+                  "text": "Künstlicher Badesee am Fuß des Mont Paradis, umgeben von Bergkulisse.",
                   "category": "recreational",
                   "coords": [
                         5.366474,
@@ -6010,7 +6010,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Les Aiguilles",
-                  "text": "Ein markanter Berggipfel in der Region Mont Paradis.",
+                  "text": "Nadelförmige Felsen am Mont Paradis.",
                   "category": "landmark",
                   "coords": [
                         5.391723,
@@ -6046,7 +6046,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Madeleine",
-                  "text": "Ein Sakralbau in der Gegend von Mont Paradis.",
+                  "text": "Kirche Sainte-Madeleine am Mont Paradis, Maria Magdalena gewidmet.",
                   "category": "religious",
                   "coords": [
                         5.386314,
@@ -6066,7 +6066,7 @@ export const franceReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Plan d'eau du Pas des Ondes",
-                  "text": "Egy vízi park és szabadidőközpont Mont Paradis-ban.",
+                  "text": "Mesterséges fürdőtó a Mont Paradis lábánál, hegyi háttérrel.",
                   "category": "recreational",
                   "coords": [
                         5.366474,
@@ -6075,7 +6075,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Les Aiguilles",
-                  "text": "Egy hegycsúcs Mont Paradis közelében.",
+                  "text": "Tű alakú sziklák a Mont Paradis-on.",
                   "category": "landmark",
                   "coords": [
                         5.391723,
@@ -6111,7 +6111,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Madeleine",
-                  "text": "Egy templom Mont Paradis területén.",
+                  "text": "Szent Mária Magdolna-templom a Mont Paradis-on, Mária Magdolnának szentelve.",
                   "category": "religious",
                   "coords": [
                         5.386314,
@@ -6131,7 +6131,7 @@ export const franceReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Plan d'eau du Pas des Ondes",
-                  "text": "Un parc acvatic și zonă de agrement în Mont Paradis.",
+                  "text": "Lac de înot artificial la poalele Mont Paradis, înconjurat de peisaj montan.",
                   "category": "recreational",
                   "coords": [
                         5.366474,
@@ -6140,7 +6140,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Les Aiguilles",
-                  "text": "Un vârf montan în regiunea Mont Paradis.",
+                  "text": "Stânci în formă de ac pe Mont Paradis.",
                   "category": "landmark",
                   "coords": [
                         5.391723,
@@ -6176,7 +6176,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Madeleine",
-                  "text": "Un lăcaș de cult situat în zona Mont Paradis.",
+                  "text": "Biserica Sainte-Madeleine pe Mont Paradis, dedicată Sfintei Maria Magdalena.",
                   "category": "religious",
                   "coords": [
                         5.386314,
@@ -6196,7 +6196,7 @@ export const franceReliefV2: POI[] = [
       "en": [
             {
                   "name": "Plan d'eau du Pas des Ondes",
-                  "text": "A water park and leisure area in Mont Paradis.",
+                  "text": "A man-made swimming lake at the foot of Mont Paradis, backed by mountain scenery.",
                   "category": "recreational",
                   "coords": [
                         5.366474,
@@ -6205,7 +6205,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Les Aiguilles",
-                  "text": "A prominent mountain peak in the Mont Paradis region.",
+                  "text": "Needle-shaped rocks on Mont Paradis.",
                   "category": "landmark",
                   "coords": [
                         5.391723,
@@ -6241,7 +6241,7 @@ export const franceReliefV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Madeleine",
-                  "text": "A place of worship located in the Mont Paradis area.",
+                  "text": "Church Sainte-Madeleine on Mont Paradis, dedicated to Mary Magdalene.",
                   "category": "religious",
                   "coords": [
                         5.386314,

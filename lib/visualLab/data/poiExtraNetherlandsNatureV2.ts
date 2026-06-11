@@ -889,7 +889,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Meerzoo",
-                  "text": "Ein Zoo im Gebiet Weerribben-Wieden.",
+                  "text": "Meerzoo ist ein Wassererlebnispark in den Weerribben-Wieden, mit Rutschen und Spielbereichen.",
                   "category": "recreational",
                   "coords": [
                         5.90756,
@@ -927,7 +927,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Meerzoo",
-                  "text": "Állatkert a Weerribben-Wieden területén.",
+                  "text": "A Meerzoo egy vízi élménypark a Weerribben-Wiedenben, csúszdákkal és játszóterekkel.",
                   "category": "recreational",
                   "coords": [
                         5.90756,
@@ -965,7 +965,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Meerzoo",
-                  "text": "O grădină zoologică în zona Weerribben-Wieden.",
+                  "text": "Meerzoo este un parc acvatic în Weerribben-Wieden, cu tobogane și zone de joacă.",
                   "category": "recreational",
                   "coords": [
                         5.90756,
@@ -1003,7 +1003,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Meerzoo",
-                  "text": "A zoo in the Weerribben-Wieden area.",
+                  "text": "Meerzoo is a water fun park in Weerribben-Wieden, with slides and play areas.",
                   "category": "recreational",
                   "coords": [
                         5.90756,
@@ -2023,7 +2023,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "De Reep",
-                  "text": "Ein ruhiges Naturschutzgebiet innerhalb des Waterdunen-Areals.",
+                  "text": "De Reep ist ein Gezeitenbach im Naturschutzgebiet Waterdunen.",
                   "category": "natural",
                   "coords": [
                         3.495147,
@@ -2097,7 +2097,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "De Reep",
-                  "text": "Nyugodt természetvédelmi terület a Waterdunen térségében.",
+                  "text": "A De Reep egy árapály-patak a Waterdunen természetvédelmi területen.",
                   "category": "natural",
                   "coords": [
                         3.495147,
@@ -2171,7 +2171,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "De Reep",
-                  "text": "O rezervație naturală liniștită în cadrul zonei Waterdunen.",
+                  "text": "De Reep este un pârâu de maree în rezervația naturală Waterdunen.",
                   "category": "natural",
                   "coords": [
                         3.495147,
@@ -2245,7 +2245,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "De Reep",
-                  "text": "A peaceful nature reserve within the Waterdunen area.",
+                  "text": "De Reep is a tidal creek in the Waterdunen nature reserve.",
                   "category": "natural",
                   "coords": [
                         3.495147,
@@ -2347,7 +2347,7 @@ export const netherlandsNatureV2: POI[] = [
       "de": [
             {
                   "name": "Surfstrand",
-                  "text": "Surfstrand bei Vlietlanden.",
+                  "text": "Sandstrand zum Surfen an den Vlietlanden-Seen.",
                   "category": "recreational",
                   "coords": [
                         4.458655,
@@ -2358,7 +2358,7 @@ export const netherlandsNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Surfstrand",
-                  "text": "Surfstrand Vlietlanden közelében.",
+                  "text": "Homokos szörfpart a Vlietlanden-tavaknál.",
                   "category": "recreational",
                   "coords": [
                         4.458655,
@@ -2369,7 +2369,7 @@ export const netherlandsNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Surfstrand",
-                  "text": "Surfstrand lângă Vlietlanden.",
+                  "text": "Plajă nisipoasă pentru surf pe lacurile Vlietlanden.",
                   "category": "recreational",
                   "coords": [
                         4.458655,
@@ -2380,7 +2380,7 @@ export const netherlandsNatureV2: POI[] = [
       "en": [
             {
                   "name": "Surfstrand",
-                  "text": "Surfstrand near Vlietlanden.",
+                  "text": "Sandy surf beach on the Vlietlanden lakes.",
                   "category": "recreational",
                   "coords": [
                         4.458655,
@@ -2437,7 +2437,7 @@ export const netherlandsNatureV2: POI[] = [
       "de": [
             {
                   "name": "Vuntusstrand",
-                  "text": "Vuntusstrand in den Oostelijk Vechtplassen.",
+                  "text": "Strand am Vuntus-See im Vechtplassen-Gebiet.",
                   "category": "recreational",
                   "coords": [
                         5.081155,
@@ -2448,7 +2448,7 @@ export const netherlandsNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Vuntusstrand",
-                  "text": "Vuntusstrand az Oostelijk Vechtplassen területén.",
+                  "text": "Vuntus-tóparti strand a Vechtplassen területén.",
                   "category": "recreational",
                   "coords": [
                         5.081155,
@@ -2459,7 +2459,7 @@ export const netherlandsNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Vuntusstrand",
-                  "text": "Vuntusstrand în Oostelijk Vechtplassen.",
+                  "text": "Plajă pe malul lacului Vuntus în zona Vechtplassen.",
                   "category": "recreational",
                   "coords": [
                         5.081155,
@@ -2470,7 +2470,7 @@ export const netherlandsNatureV2: POI[] = [
       "en": [
             {
                   "name": "Vuntusstrand",
-                  "text": "Vuntusstrand in the Oostelijk Vechtplassen.",
+                  "text": "Lakeside beach on the Vuntus lake in the Vechtplassen area.",
                   "category": "recreational",
                   "coords": [
                         5.081155,
@@ -3049,7 +3049,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Slot Crayenstein",
-                  "text": "Eine historische Schlossanlage im Gebiet von Westerschouwen.",
+                  "text": "Schloss Slot Crayenstein in den Bossen Van Schouwen, denkmalgeschützt (Grad 2).",
                   "category": "castle",
                   "coords": [
                         3.73455,
@@ -3123,7 +3123,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Slot Crayenstein",
-                  "text": "Történelmi kastélyhelyszín Westerschouwen területén.",
+                  "text": "Slot Crayenstein kastély a Bossen Van Schouwen erdőben, műemlék (2. fokozat).",
                   "category": "castle",
                   "coords": [
                         3.73455,
@@ -3197,7 +3197,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Slot Crayenstein",
-                  "text": "Un sit de castel istoric situat în zona Westerschouwen.",
+                  "text": "Castelul Slot Crayenstein din pădurea Bossen Van Schouwen, monument istoric (gradul 2).",
                   "category": "castle",
                   "coords": [
                         3.73455,
@@ -3271,7 +3271,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Slot Crayenstein",
-                  "text": "A historic castle site located in the Westerschouwen area.",
+                  "text": "Slot Crayenstein castle in Bossen Van Schouwen, a heritage site (grade 2).",
                   "category": "castle",
                   "coords": [
                         3.73455,
@@ -3625,7 +3625,7 @@ export const netherlandsNatureV2: POI[] = [
       "de": [
             {
                   "name": "Zuidstrand",
-                  "text": "Zuidstrand im Salentse Bos.",
+                  "text": "Südlicher Strand im Salentse-Wald.",
                   "category": "recreational",
                   "coords": [
                         5.529551,
@@ -3634,7 +3634,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Noordstrand",
-                  "text": "Noordstrand im Salentse Bos.",
+                  "text": "Nördlicher Strand im Salentse-Wald.",
                   "category": "recreational",
                   "coords": [
                         5.53381,
@@ -3661,7 +3661,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Kinderbad",
-                  "text": "Ein Kinderbecken im Gebiet von Salentse Bos.",
+                  "text": "Flaches Kinderplanschbecken im Salentse-Wald.",
                   "category": "recreational",
                   "coords": [
                         5.4381,
@@ -3672,7 +3672,7 @@ export const netherlandsNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Zuidstrand",
-                  "text": "Zuidstrand a Salentse Bos-ban.",
+                  "text": "Déli strand a Salentse-erdőben.",
                   "category": "recreational",
                   "coords": [
                         5.529551,
@@ -3681,7 +3681,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Noordstrand",
-                  "text": "Noordstrand a Salentse Bos-ban.",
+                  "text": "Északi strand a Salentse-erdőben.",
                   "category": "recreational",
                   "coords": [
                         5.53381,
@@ -3708,7 +3708,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Kinderbad",
-                  "text": "Gyermekmedence Salentse Bos területén.",
+                  "text": "Sekély gyermekmedence a Salentse-erdőben.",
                   "category": "recreational",
                   "coords": [
                         5.4381,
@@ -3719,7 +3719,7 @@ export const netherlandsNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Zuidstrand",
-                  "text": "Plaja Zuidstrand în Salentse Bos.",
+                  "text": "Plajă sudică în pădurea Salentse.",
                   "category": "recreational",
                   "coords": [
                         5.529551,
@@ -3728,7 +3728,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Noordstrand",
-                  "text": "Plaja Noordstrand în Salentse Bos.",
+                  "text": "Plajă nordică în pădurea Salentse.",
                   "category": "recreational",
                   "coords": [
                         5.53381,
@@ -3755,7 +3755,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Kinderbad",
-                  "text": "O piscină pentru copii situată în Salentse Bos.",
+                  "text": "Bazin de joacă pentru copii în pădurea Salentse.",
                   "category": "recreational",
                   "coords": [
                         5.4381,
@@ -3766,7 +3766,7 @@ export const netherlandsNatureV2: POI[] = [
       "en": [
             {
                   "name": "Zuidstrand",
-                  "text": "Zuidstrand in the Salentse Bos.",
+                  "text": "Southern beach within the Salentse forest.",
                   "category": "recreational",
                   "coords": [
                         5.529551,
@@ -3775,7 +3775,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Noordstrand",
-                  "text": "Noordstrand in the Salentse Bos.",
+                  "text": "Northern beach in the Salentse forest.",
                   "category": "recreational",
                   "coords": [
                         5.53381,
@@ -3802,7 +3802,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Kinderbad",
-                  "text": "A children's swimming pool located in Salentse Bos.",
+                  "text": "Shallow children's paddling pool in the Salentse forest.",
                   "category": "recreational",
                   "coords": [
                         5.4381,
@@ -3904,7 +3904,7 @@ export const netherlandsNatureV2: POI[] = [
       "de": [
             {
                   "name": "Kasteel Well",
-                  "text": "Ein historisches Wasserschloss in der Region Maasduinen.",
+                  "text": "Kasteel Well ist eine Burg aus dem 17. Jahrhundert im Gebiet Maasduinen.",
                   "category": "castle",
                   "coords": [
                         6.088709,
@@ -3922,7 +3922,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "More2bfit",
-                  "text": "Ein Wasserpark und eine Freizeiteinrichtung in Maasduinen.",
+                  "text": "Fitness- und Freizeitzentrum More2bfit in Maasduinen, eröffnet 2006.",
                   "category": "recreational",
                   "coords": [
                         6.061493,
@@ -3940,7 +3940,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "Eine katholische Kirche in Well, die dem Heiligen Vitus gewidmet ist.",
+                  "text": "Sint-Vituskerk ist eine 1958 erbaute römisch-katholische Kirche in Maasduinen.",
                   "category": "religious",
                   "coords": [
                         6.090299,
@@ -3960,7 +3960,7 @@ export const netherlandsNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Kasteel Well",
-                  "text": "Történelmi vízi vár a Maasduinen területén.",
+                  "text": "A Kasteel Well egy 17. századi vár a Maasduinen területén.",
                   "category": "castle",
                   "coords": [
                         6.088709,
@@ -3978,7 +3978,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "More2bfit",
-                  "text": "Vízi park és szabadidős létesítmény Maasduinenben.",
+                  "text": "More2bfit fitnesz- és szabadidőközpont Maasduinenben, 2006-ban nyílt meg.",
                   "category": "recreational",
                   "coords": [
                         6.061493,
@@ -3996,7 +3996,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "Szent Vitusnak szentelt katolikus templom Well településen.",
+                  "text": "A Sint-Vituskerk egy 1958-ban épült római katolikus templom Maasduinenben.",
                   "category": "religious",
                   "coords": [
                         6.090299,
@@ -4016,7 +4016,7 @@ export const netherlandsNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Kasteel Well",
-                  "text": "Un castel istoric cu șanț de apă situat în zona Maasduinen.",
+                  "text": "Castelul Well este un castel din secolul al XVII-lea în zona Maasduinen.",
                   "category": "castle",
                   "coords": [
                         6.088709,
@@ -4034,7 +4034,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "More2bfit",
-                  "text": "Un parc acvatic și o facilitate de recreere în Maasduinen.",
+                  "text": "Centrul de fitness și agrement More2bfit din Maasduinen, deschis în 2006.",
                   "category": "recreational",
                   "coords": [
                         6.061493,
@@ -4052,7 +4052,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "O biserică catolică din Well, dedicată Sfântului Vitus.",
+                  "text": "Sint-Vituskerk este o biserică romano-catolică construită în 1958 în Maasduinen.",
                   "category": "religious",
                   "coords": [
                         6.090299,
@@ -4072,7 +4072,7 @@ export const netherlandsNatureV2: POI[] = [
       "en": [
             {
                   "name": "Kasteel Well",
-                  "text": "A historic moated castle located in the Maasduinen area.",
+                  "text": "Kasteel Well is a 17th-century castle in the Maasduinen area.",
                   "category": "castle",
                   "coords": [
                         6.088709,
@@ -4090,7 +4090,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "More2bfit",
-                  "text": "A water park and recreational facility in Maasduinen.",
+                  "text": "More2bfit fitness and recreation centre in Maasduinen, opened in 2006.",
                   "category": "recreational",
                   "coords": [
                         6.061493,
@@ -4108,7 +4108,7 @@ export const netherlandsNatureV2: POI[] = [
             },
             {
                   "name": "Sint-Vituskerk",
-                  "text": "A Catholic church in Well, dedicated to Saint Vitus.",
+                  "text": "Sint-Vituskerk is a Roman Catholic church built in 1958 in Maasduinen.",
                   "category": "religious",
                   "coords": [
                         6.090299,

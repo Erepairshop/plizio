@@ -132,7 +132,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Höfði-Haus",
-                  "text": "Das historische Gebäude am Meer war 1986 der Ort des Gipfeltreffens zwischen Reagan und Gorbatschow, das den Kalten Krieg beendete.",
+                  "text": "Islands wichtigstes Kunstmuseum in einem Gebäude von 1916 an der Fríkirkjuvegur in Reykjavík.",
                   "category": "famous buildings/residences",
                   "confidence": "high",
                   "coords": [
@@ -161,7 +161,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Ljósmyndasafn Reykjavíkur",
-                  "text": "Ein Museum in Reykjavík, das isländische und internationale Fotografie präsentiert.",
+                  "text": "Fotografiemuseum im Zentrum von Reykjavík.",
                   "category": "museum",
                   "coords": [
                         -21.941393,
@@ -413,7 +413,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Rauðarárvík",
-                  "text": "Eine kleine Bucht an der Küste von Reykjavík.",
+                  "text": "Bucht an der Küste von Reykjavik.",
                   "category": "landmark",
                   "coords": [
                         -21.915944,
@@ -440,7 +440,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Aurora Reykjavik Northern Lights Center",
-                  "text": "Ein Informationszentrum in Reykjavík, das sich dem Phänomen des Nordlichts widmet.",
+                  "text": "Interaktives Museum, das die Wissenschaft und Folklore der Nordlichter erklärt.",
                   "category": "museum",
                   "coords": [
                         -21.944686,
@@ -503,7 +503,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Art Gallery 101",
-                  "text": "Eine lokale Kunstgalerie im Stadtzentrum von Reykjavík.",
+                  "text": "Galerie für zeitgenössische Kunst mit Werken isländischer Künstler.",
                   "category": "museum",
                   "coords": [
                         -21.924788,
@@ -621,7 +621,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Höfði-ház",
-                  "text": "A tengerparti történelmi épületben zajlott 1986-ban a Reagan és Gorbacsov közötti csúcstalálkozó, amely a hidegháború végét jelezte.",
+                  "text": "Izland legjelentősebb művészeti múzeuma egy 1916-os épületben, a Fríkirkjuvegur utcában Reykjavíkban.",
                   "category": "famous buildings/residences",
                   "confidence": "high",
                   "coords": [
@@ -650,7 +650,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Ljósmyndasafn Reykjavíkur",
-                  "text": "Reykjavíki múzeum, amely izlandi és nemzetközi fotóművészetet mutat be.",
+                  "text": "Fotómúzeum Reykjavík központjában.",
                   "category": "museum",
                   "coords": [
                         -21.941393,
@@ -902,7 +902,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Rauðarárvík",
-                  "text": "Kis öböl Reykjavík tengerpartján.",
+                  "text": "Öböl Reykjavík partvidékén.",
                   "category": "landmark",
                   "coords": [
                         -21.915944,
@@ -929,7 +929,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Aurora Reykjavik Northern Lights Center",
-                  "text": "Reykjavíki információs központ, amely az északi fény jelenségének van szentelve.",
+                  "text": "Interaktív múzeum, amely bemutatja az északi fények tudományát és folklórját.",
                   "category": "museum",
                   "coords": [
                         -21.944686,
@@ -992,7 +992,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Art Gallery 101",
-                  "text": "Helyi művészeti galéria Reykjavík városközpontjában.",
+                  "text": "Kortárs művészeti galéria izlandi művészek alkotásaival.",
                   "category": "museum",
                   "coords": [
                         -21.924788,
@@ -1110,7 +1110,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Casa Höfði",
-                  "text": "Această clădire istorică a găzduit în 1986 summitul dintre Reagan și Gorbaciov, un moment crucial care a marcat sfârșitul Războiului Rece.",
+                  "text": "Cel mai important muzeu de artă al Islandei, într-o clădire din 1916 pe strada Fríkirkjuvegur din Reykjavík.",
                   "category": "famous buildings/residences",
                   "confidence": "high",
                   "coords": [
@@ -1139,7 +1139,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Ljósmyndasafn Reykjavíkur",
-                  "text": "Un muzeu din Reykjavík care prezintă fotografii islandeze și internaționale.",
+                  "text": "Muzeu de fotografie în centrul Reykjavík.",
                   "category": "museum",
                   "coords": [
                         -21.941393,
@@ -1391,7 +1391,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Rauðarárvík",
-                  "text": "Un mic golf situat pe coasta orașului Reykjavík.",
+                  "text": "Golf pe coasta orașului Reykjavik.",
                   "category": "landmark",
                   "coords": [
                         -21.915944,
@@ -1418,7 +1418,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Aurora Reykjavik Northern Lights Center",
-                  "text": "Un centru de informare din Reykjavík dedicat fenomenului aurorei boreale.",
+                  "text": "Muzeu interactiv care explică știința și folclorul aurorii boreale.",
                   "category": "museum",
                   "coords": [
                         -21.944686,
@@ -1481,7 +1481,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Art Gallery 101",
-                  "text": "O galerie de artă locală situată în centrul orașului Reykjavík.",
+                  "text": "Galerie de artă contemporană cu lucrări ale artiștilor islandezi.",
                   "category": "museum",
                   "coords": [
                         -21.924788,
@@ -1628,7 +1628,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Reykjavik Museum of Photography",
-                  "text": "A museum in Reykjavík showcasing Icelandic and international photography.",
+                  "text": "Museum of Photography in central Reykjavík.",
                   "category": "museum",
                   "coords": [
                         -21.941393,
@@ -1637,7 +1637,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "National Gallery of Iceland",
-                  "text": "The country's leading art gallery in Reykjavík focusing on Icelandic art.",
+                  "text": "Iceland's premier art museum housed in a 1916 building on Fríkirkjuvegur in Reykjavík.",
                   "category": "museum",
                   "coords": [
                         -21.939219,
@@ -1880,7 +1880,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Rauðarárvík",
-                  "text": "A small bay located on the coast of Reykjavík.",
+                  "text": "Bay in Reykjavik's coastline.",
                   "category": "landmark",
                   "coords": [
                         -21.915944,
@@ -1907,7 +1907,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Aurora Reykjavik Northern Lights Center",
-                  "text": "An information center in Reykjavík dedicated to the phenomenon of the northern lights.",
+                  "text": "Interactive museum explaining the science and folklore of the Northern Lights.",
                   "category": "museum",
                   "coords": [
                         -21.944686,
@@ -1970,7 +1970,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Art Gallery 101",
-                  "text": "A local art gallery located in the city center of Reykjavík.",
+                  "text": "Contemporary art gallery showcasing Icelandic artists.",
                   "category": "museum",
                   "coords": [
                         -21.924788,
@@ -2020,7 +2020,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hönnunarsafn Íslands",
-                  "text": "Dieses Museum in Kópavogur konzentriert sich auf isländisches Design und angewandte Kunst.",
+                  "text": "Designmuseum in Kópavogur.",
                   "category": "museum",
                   "coords": [
                         -21.920556,
@@ -2119,7 +2119,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Bessastaðanes",
-                  "text": "Ein Naturschutzgebiet auf der Halbinsel in der Nähe von Kópavogur.",
+                  "text": "Halbinsel mit malerischen Küstenwanderwegen und Vogelwelt.",
                   "category": "natural",
                   "coords": [
                         -21.978092,
@@ -2200,7 +2200,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Wat Thai Island",
-                  "text": "Ein thailändisches buddhistisches Kloster und Tempel in Kópavogur.",
+                  "text": "Thai-buddhistischer Tempel in Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.884805,
@@ -2209,7 +2209,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Lindakirkja",
-                  "text": "Eine moderne lutherische Kirche in Kópavogur.",
+                  "text": "Lindakirkja-Kirche in Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.863846,
@@ -2227,7 +2227,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Grensáskirkja",
-                  "text": "Eine lokale Gemeindekirche in Kópavogur.",
+                  "text": "1996 erbaute Grensáskirkja in Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.887313,
@@ -2281,7 +2281,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Elliðavatn",
-                  "text": "Elliðavatn ist ein See in Kopavogur, der für seine malerische Landschaft bekannt ist.",
+                  "text": "Elliðavatn-See, beliebt zum Angeln und Wandern.",
                   "category": "natural",
                   "coords": [
                         -21.783546,
@@ -2398,7 +2398,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Asparlundur",
-                  "text": "Asparlundur ist ein Spielplatz in Kopavogur, ideal für einen aktiven Nachmittag mit der Familie.",
+                  "text": "Asparlundur-Familienpark mit Spielplätzen und Picknickbereichen.",
                   "category": "family",
                   "coords": [
                         -21.881639,
@@ -2454,7 +2454,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hönnunarsafn Íslands",
-                  "text": "Ez a kópavoguri múzeum az izlandi dizájnra és iparművészetre összpontosít.",
+                  "text": "Designmúzeum Kópavogurban.",
                   "category": "museum",
                   "coords": [
                         -21.920556,
@@ -2553,7 +2553,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Bessastaðanes",
-                  "text": "Természetvédelmi terület a félszigeten Kópavogur közelében.",
+                  "text": "Bessastaðanes-félsziget, festői tengerparti sétányokkal és madárvilággal.",
                   "category": "natural",
                   "coords": [
                         -21.978092,
@@ -2634,7 +2634,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Wat Thai Island",
-                  "text": "Thaiföldi buddhista kolostor és templom Kópavogurban.",
+                  "text": "Thai buddhista templom Kópavogurban.",
                   "category": "religious",
                   "coords": [
                         -21.884805,
@@ -2643,7 +2643,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Lindakirkja",
-                  "text": "Modern evangélikus templom Kópavogurban.",
+                  "text": "Lindakirkja templom Kópavogurban.",
                   "category": "religious",
                   "coords": [
                         -21.863846,
@@ -2661,7 +2661,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Grensáskirkja",
-                  "text": "Helyi közösségi templom Kópavogurban.",
+                  "text": "1996-ban épült Grensáskirkja Kópavogurban.",
                   "category": "religious",
                   "coords": [
                         -21.887313,
@@ -2715,7 +2715,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Elliðavatn",
-                  "text": "Az Elliðavatn egy tó Kopavogurban, amely festői tájáról ismert.",
+                  "text": "Elliðavatn-tó, népszerű horgász- és túracélpont.",
                   "category": "natural",
                   "coords": [
                         -21.783546,
@@ -2832,7 +2832,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Asparlundur",
-                  "text": "Az Asparlundur egy játszótér Kopavogurban, ideális egy aktív délutánhoz a családdal.",
+                  "text": "Asparlundur családi park játszóterekkel és piknikezőhelyekkel.",
                   "category": "family",
                   "coords": [
                         -21.881639,
@@ -2888,7 +2888,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Hönnunarsafn Íslands",
-                  "text": "Acest muzeu din Kópavogur se concentrează pe designul și arta aplicată islandeză.",
+                  "text": "Muzeu de design în Kópavogur.",
                   "category": "museum",
                   "coords": [
                         -21.920556,
@@ -2987,7 +2987,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Bessastaðanes",
-                  "text": "O rezervație naturală pe peninsula de lângă Kópavogur.",
+                  "text": "Peninsula Bessastaðanes, cu trasee de coastă pitorești și păsări.",
                   "category": "natural",
                   "coords": [
                         -21.978092,
@@ -3068,7 +3068,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Wat Thai Island",
-                  "text": "O mănăstire și un templu budist thailandez în Kópavogur.",
+                  "text": "Templu thailandez budist în Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.884805,
@@ -3077,7 +3077,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Lindakirkja",
-                  "text": "O biserică luterană modernă în Kópavogur.",
+                  "text": "Biserica Lindakirkja în Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.863846,
@@ -3095,7 +3095,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Grensáskirkja",
-                  "text": "O biserică comunitară locală în Kópavogur.",
+                  "text": "Biserica Grensáskirkja construită în 1996 în Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.887313,
@@ -3149,7 +3149,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Elliðavatn",
-                  "text": "Elliðavatn este un lac din Kopavogur, cunoscut pentru peisajul său pitoresc.",
+                  "text": "Lacul Elliðavatn, popular pentru pescuit și drumeții.",
                   "category": "natural",
                   "coords": [
                         -21.783546,
@@ -3266,7 +3266,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Asparlundur",
-                  "text": "Asparlundur este un teren de joacă din Kopavogur, ideal pentru o după-amiază activă cu familia.",
+                  "text": "Parcul de familie Asparlundur, cu locuri de joacă și zone de picnic.",
                   "category": "family",
                   "coords": [
                         -21.881639,
@@ -3322,7 +3322,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Museum Of Design And Applied Art",
-                  "text": "This museum in Kópavogur focuses on Icelandic design and applied art.",
+                  "text": "Design museum in Kópavogur.",
                   "category": "museum",
                   "coords": [
                         -21.920556,
@@ -3421,7 +3421,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Bessastaðanes",
-                  "text": "A nature reserve on the peninsula near Kópavogur.",
+                  "text": "Peninsula with scenic coastal walks and birdlife.",
                   "category": "natural",
                   "coords": [
                         -21.978092,
@@ -3502,7 +3502,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Wat Thai Island",
-                  "text": "A Thai Buddhist monastery and temple in Kópavogur.",
+                  "text": "Thai Buddhist temple in Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.884805,
@@ -3511,7 +3511,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Lindakirkja",
-                  "text": "A modern Lutheran church in Kópavogur.",
+                  "text": "Lindakirkja church in Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.863846,
@@ -3529,7 +3529,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Grensáskirkja",
-                  "text": "A local community church in Kópavogur.",
+                  "text": "Grensáskirkja church built in 1996 in Kópavogur.",
                   "category": "religious",
                   "coords": [
                         -21.887313,
@@ -3583,7 +3583,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Elliðavatn",
-                  "text": "Elliðavatn is a lake in Kopavogur, known for its scenic landscape.",
+                  "text": "Lake Elliðavatn, a popular spot for fishing and hiking.",
                   "category": "natural",
                   "coords": [
                         -21.783546,
@@ -3700,7 +3700,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
             },
             {
                   "name": "Asparlundur",
-                  "text": "Asparlundur is a playground in Kopavogur, ideal for an active afternoon with the family.",
+                  "text": "Asparlundur family park with playgrounds and picnic areas.",
                   "category": "family",
                   "coords": [
                         -21.881639,
@@ -4227,7 +4227,7 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
             },
             {
                   "name": "Mótorhjólasafn Íslands",
-                  "text": "Ein Museum in Akureyri, das der Geschichte der Motorräder in Island gewidmet ist.",
+                  "text": "Motorradmuseum Islands in Akureyri, eröffnet im Mai 2011.",
                   "category": "museum",
                   "coords": [
                         -18.081173,
@@ -4409,7 +4409,7 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
             },
             {
                   "name": "Mótorhjólasafn Íslands",
-                  "text": "Izlandi motorkerékpárok történetét bemutató múzeum Akureyriben.",
+                  "text": "Izland Motoros Múzeuma Akureyriben, megnyílt 2011 májusában.",
                   "category": "museum",
                   "coords": [
                         -18.081173,
@@ -4591,7 +4591,7 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
             },
             {
                   "name": "Mótorhjólasafn Íslands",
-                  "text": "Un muzeu din Akureyri dedicat istoriei motocicletelor din Islanda.",
+                  "text": "Muzeul Motocicletelor din Islanda în Akureyri, deschis în mai 2011.",
                   "category": "museum",
                   "coords": [
                         -18.081173,
@@ -4773,7 +4773,7 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
             },
             {
                   "name": "The Motorcycle Museum of Iceland",
-                  "text": "A museum in Akureyri dedicated to the history of motorcycles in Iceland.",
+                  "text": "The Motorcycle Museum of Iceland in Akureyri, opened in May 2011.",
                   "category": "museum",
                   "coords": [
                         -18.081173,
@@ -5323,7 +5323,988 @@ imageHint: "Keflavik harbor and rocky coastline",
     },
     image: "/poi-images/iceland-keflavik-cities-v2.webp",
 },  {
-    id: "iceland-gardabaer-cities-v2", "sights": {"de": [{"name": "Náttúrufræðistofa Kópavogs", "text": "Ein Naturkundemuseum in Kópavogur, das die lokale Fauna zeigt.", "category": "museum", "coords": [-21.909306, 64.111693]}, {"name": "Hönnunarsafn Íslands", "text": "Das isländische Museum für Design und angewandte Kunst in Garðabær.", "category": "museum", "coords": [-21.920556, 64.08905]}, {"name": "Borgir", "text": "Ein Naturschutzgebiet und Hügel mit historischer Bedeutung in Garðabær.", "category": "natural", "coords": [-21.91304, 64.112296]}, {"name": "Leikhúsið", "text": "Ein lokales Theater für Aufführungen in der Region Garðabær.", "category": "cultural", "coords": [-21.871931, 64.097152]}, {"name": "Byggðasafn Hafnarfjarðar", "text": "Um die Geschichte von Hafnarfjörður zu bewahren, bietet das Byggðasafn Hafnarfjarðar detaillierte Einblicke in das regionale Erbe. Museumsbesucher können in den Räumlichkeiten nahe Garðabær historische Exponate betrachten, welche die Vergangenheit der Gegend lebendig machen.", "category": "museum", "coords": [-21.959471, 64.070136]}, {"name": "Þjóðminjasafn Íslands - varðveisla", "text": "Ein Standort des Nationalmuseums für die Erhaltung isländischer Kulturgüter.", "category": "museum", "coords": [-21.932393, 64.114692]}, {"name": "Hofsstaðir", "text": "Eine archäologische Fundstelle eines Wikinger-Langhauses in Garðabær.", "category": "historical", "coords": [-21.914971, 64.087878]}, {"name": "Setbergsrústin", "text": "Die Ruinen eines alten Gehöfts in der Region Garðabær.", "category": "historical", "coords": [-21.928581, 64.067187]}, {"name": "Bookless Bungalow", "text": "Ein historisches Gebäude in Garðabær, das als Museum dient.", "category": "museum", "coords": [-21.964997, 64.070648]}, {"name": "Garðahraun - neðra", "text": "Ein weitläufiges Lavafeld und Naturschutzgebiet bei Garðabær.", "category": "natural", "coords": [-21.957393, 64.088825]}, {"name": "Gálgahraun", "text": "Ein markantes Lavafeld mit Wanderwegen und Küstenblick.", "category": "natural", "coords": [-21.964706, 64.095334]}, {"name": "Stekkjarhraun", "text": "Ein raues Lavagebiet, das Teil der Naturlandschaft von Garðabær ist.", "category": "natural", "coords": [-21.930557, 64.061734]}, {"name": "Vífilsstaðahraun", "text": "Ein durch vulkanische Aktivität geformtes Naturschutzgebiet.", "category": "natural", "coords": [-21.896227, 64.077008]}, {"name": "Vífilsstaðavatn", "text": "Ein malerischer See und Naturschutzgebiet in Garðabær.", "category": "natural", "coords": [-21.866162, 64.07406]}, {"name": "Hádegishólar", "text": "Ein Naturschutzgebiet mit vulkanischen Hügeln in Garðabær.", "category": "natural", "coords": [-21.868228, 64.094178]}, {"name": "Bessastaðanes", "text": "Ein Naturschutzgebiet auf einer Halbinsel bei Garðabær.", "category": "natural", "coords": [-21.978092, 64.108267]}, {"name": "Vitinn við Vitastíg", "text": "Ein markanter Leuchtturm an der Küste von Garðabær.", "category": "landmark", "coords": [-21.951409, 64.068893]}, {"name": "Hafnarborg", "text": "Ein Kulturzentrum und Kunstmuseum in Garðabær.", "category": "museum", "coords": [-21.955259, 64.067694]}, {"name": "Hellisgerði", "text": "Ein charmanter Park in Garðabær, bekannt für seine Lavaformationen.", "category": "park", "coords": [-21.958206, 64.071518]}, {"name": "Rútstún", "text": "Ein öffentlicher Stadtpark in Garðabær.", "category": "park", "coords": [-21.916816, 64.109794]}, {"name": "Hamarinn", "text": "Ein Aussichtspunkt auf einer Klippe in Garðabær.", "category": "natural", "coords": [-21.95025, 64.065877]}, {"name": "Leikskólalundur", "text": "Eine lokale Attraktion in Garðabær.", "category": "landmark", "coords": [-21.884813, 64.107093]}, {"name": "Álfaborg", "text": "Eine lokale Sehenswürdigkeit in Garðabær.", "category": "landmark", "coords": [-21.940722, 64.078614]}, {"name": "Lindakirkja", "text": "Eine moderne Kirche in Garðabær.", "category": "religious", "coords": [-21.863846, 64.094495]}, {"name": "Fríkirkjan í Hafnarfirði", "text": "Eine Freikirche in der Region Garðabær.", "category": "religious", "coords": [-21.954826, 64.069329]}, {"name": "Víðistaðakirkja", "text": "Eine lokale Kirche in Garðabær.", "category": "religious", "coords": [-21.96087, 64.075566]}, {"name": "Digraneskirkja", "text": "Eine moderne Kirche in Garðabær.", "category": "religious", "coords": [-21.886374, 64.107817]}], "hu": [{"name": "Náttúrufræðistofa Kópavogs", "text": "Természettudományi múzeum Kópavogurban, a helyi élővilág bemutatásával.", "category": "museum", "coords": [-21.909306, 64.111693]}, {"name": "Hönnunarsafn Íslands", "text": "Izlandi design- és iparművészeti múzeum Garðabærben.", "category": "museum", "coords": [-21.920556, 64.08905]}, {"name": "Borgir", "text": "Természetvédelmi terület és történelmi jelentőségű domb Garðabærben.", "category": "natural", "coords": [-21.91304, 64.112296]}, {"name": "Leikhúsið", "text": "Helyi színház előadások számára Garðabær környékén.", "category": "cultural", "coords": [-21.871931, 64.097152]}, {"name": "Byggðasafn Hafnarfjarðar", "text": "A Byggðasafn Hafnarfjarðar részletes betekintést nyújt a regionális örökségbe, hogy megőrizze Hafnarfjörður történetét. A múzeumlátogatók a Garðabær közelében lévő termekben olyan történelmi kiállítási tárgyakat tekinthetnek meg, amelyek életre keltik a környék múltját.", "category": "museum", "coords": [-21.959471, 64.070136]}, {"name": "Þjóðminjasafn Íslands - varðveisla", "text": "A Nemzeti Múzeum izlandi kulturális javakat őrző központja.", "category": "museum", "coords": [-21.932393, 64.114692]}, {"name": "Hofsstaðir", "text": "Viking kori hosszúház régészeti lelőhelye Garðabærben.", "category": "historical", "coords": [-21.914971, 64.087878]}, {"name": "Setbergsrústin", "text": "Egy régi tanya romjai Garðabær környékén.", "category": "historical", "coords": [-21.928581, 64.067187]}, {"name": "Bookless Bungalow", "text": "Múzeumként működő történelmi épület Garðabærben.", "category": "museum", "coords": [-21.964997, 64.070648]}, {"name": "Garðahraun - neðra", "text": "Kiterjedt lávamező és természetvédelmi terület Garðabær mellett.", "category": "natural", "coords": [-21.957393, 64.088825]}, {"name": "Gálgahraun", "text": "Jellegzetes lávamező túraútvonalakkal és tengerparti kilátással.", "category": "natural", "coords": [-21.964706, 64.095334]}, {"name": "Stekkjarhraun", "text": "Garðabær természeti tájának részét képező vad lávaterület.", "category": "natural", "coords": [-21.930557, 64.061734]}, {"name": "Vífilsstaðahraun", "text": "Vulkanikus tevékenység által formált természetvédelmi terület.", "category": "natural", "coords": [-21.896227, 64.077008]}, {"name": "Vífilsstaðavatn", "text": "Festői tó és természetvédelmi terület Garðabærben.", "category": "natural", "coords": [-21.866162, 64.07406]}, {"name": "Hádegishólar", "text": "Vulkanikus dombokkal teli természetvédelmi terület Garðabærben.", "category": "natural", "coords": [-21.868228, 64.094178]}, {"name": "Bessastaðanes", "text": "Természetvédelmi terület egy félszigeten Garðabærnél.", "category": "natural", "coords": [-21.978092, 64.108267]}, {"name": "Vitinn við Vitastíg", "text": "Jellegzetes világítótorony Garðabær partjainál.", "category": "landmark", "coords": [-21.951409, 64.068893]}, {"name": "Hafnarborg", "text": "Kulturális központ és művészeti múzeum Garðabærben.", "category": "museum", "coords": [-21.955259, 64.067694]}, {"name": "Hellisgerði", "text": "Bájos park Garðabærben, amely lávaformációiról ismert.", "category": "park", "coords": [-21.958206, 64.071518]}, {"name": "Rútstún", "text": "Nyilvános városi park Garðabærben.", "category": "park", "coords": [-21.916816, 64.109794]}, {"name": "Hamarinn", "text": "Sziklára épült kilátópont Garðabærben.", "category": "natural", "coords": [-21.95025, 64.065877]}, {"name": "Leikskólalundur", "text": "Helyi látványosság Garðabærben.", "category": "landmark", "coords": [-21.884813, 64.107093]}, {"name": "Álfaborg", "text": "Helyi nevezetesség Garðabærben.", "category": "landmark", "coords": [-21.940722, 64.078614]}, {"name": "Lindakirkja", "text": "Modern templom Garðabærben.", "category": "religious", "coords": [-21.863846, 64.094495]}, {"name": "Fríkirkjan í Hafnarfirði", "text": "Szabadtemplom Garðabær környékén.", "category": "religious", "coords": [-21.954826, 64.069329]}, {"name": "Víðistaðakirkja", "text": "Helyi templom Garðabærben.", "category": "religious", "coords": [-21.96087, 64.075566]}, {"name": "Digraneskirkja", "text": "Modern templom Garðabærben.", "category": "religious", "coords": [-21.886374, 64.107817]}], "ro": [{"name": "Náttúrufræðistofa Kópavogs", "text": "Un muzeu de istorie naturală în Kópavogur, care prezintă fauna locală.", "category": "museum", "coords": [-21.909306, 64.111693]}, {"name": "Hönnunarsafn Íslands", "text": "Muzeul islandez de design și artă aplicată din Garðabær.", "category": "museum", "coords": [-21.920556, 64.08905]}, {"name": "Borgir", "text": "O rezervație naturală și un deal cu semnificație istorică în Garðabær.", "category": "natural", "coords": [-21.91304, 64.112296]}, {"name": "Leikhúsið", "text": "Un teatru local pentru spectacole în regiunea Garðabær.", "category": "cultural", "coords": [-21.871931, 64.097152]}, {"name": "Byggðasafn Hafnarfjarðar", "text": "Pentru a păstra istoria orașului Hafnarfjörður, Byggðasafn Hafnarfjarðar oferă o perspectivă detaliată asupra moștenirii regionale. Vizitatorii muzeului pot admira expoziții istorice în sălile din apropiere de Garðabær, care dau viață trecutului zonei.", "category": "museum", "coords": [-21.959471, 64.070136]}, {"name": "Þjóðminjasafn Íslands - varðveisla", "text": "O locație a Muzeului Național pentru conservarea patrimoniului islandez.", "category": "museum", "coords": [-21.932393, 64.114692]}, {"name": "Hofsstaðir", "text": "Un sit arheologic ce cuprinde o casă lungă din epoca vikingă în Garðabær.", "category": "historical", "coords": [-21.914971, 64.087878]}, {"name": "Setbergsrústin", "text": "Ruinele unei vechi ferme în regiunea Garðabær.", "category": "historical", "coords": [-21.928581, 64.067187]}, {"name": "Bookless Bungalow", "text": "O clădire istorică în Garðabær care servește drept muzeu.", "category": "museum", "coords": [-21.964997, 64.070648]}, {"name": "Garðahraun - neðra", "text": "Un câmp de lavă extins și rezervație naturală lângă Garðabær.", "category": "natural", "coords": [-21.957393, 64.088825]}, {"name": "Gálgahraun", "text": "Un câmp de lavă distinctiv cu trasee de drumeție și vedere la coastă.", "category": "natural", "coords": [-21.964706, 64.095334]}, {"name": "Stekkjarhraun", "text": "O zonă de lavă aspră, parte a peisajului natural din Garðabær.", "category": "natural", "coords": [-21.930557, 64.061734]}, {"name": "Vífilsstaðahraun", "text": "O rezervație naturală formată prin activitate vulcanică.", "category": "natural", "coords": [-21.896227, 64.077008]}, {"name": "Vífilsstaðavatn", "text": "Un lac pitoresc și o rezervație naturală în Garðabær.", "category": "natural", "coords": [-21.866162, 64.07406]}, {"name": "Hádegishólar", "text": "O rezervație naturală cu dealuri vulcanice în Garðabær.", "category": "natural", "coords": [-21.868228, 64.094178]}, {"name": "Bessastaðanes", "text": "O rezervație naturală pe o peninsulă lângă Garðabær.", "category": "natural", "coords": [-21.978092, 64.108267]}, {"name": "Vitinn við Vitastíg", "text": "Un far distinctiv pe coasta din Garðabær.", "category": "landmark", "coords": [-21.951409, 64.068893]}, {"name": "Hafnarborg", "text": "Un centru cultural și muzeu de artă în Garðabær.", "category": "museum", "coords": [-21.955259, 64.067694]}, {"name": "Hellisgerði", "text": "Un parc fermecător în Garðabær, cunoscut pentru formațiunile sale de lavă.", "category": "park", "coords": [-21.958206, 64.071518]}, {"name": "Rútstún", "text": "Un parc public urban în Garðabær.", "category": "park", "coords": [-21.916816, 64.109794]}, {"name": "Hamarinn", "text": "Un punct de observație pe o stâncă în Garðabær.", "category": "natural", "coords": [-21.95025, 64.065877]}, {"name": "Leikskólalundur", "text": "O atracție locală în Garðabær.", "category": "landmark", "coords": [-21.884813, 64.107093]}, {"name": "Álfaborg", "text": "O atracție locală în Garðabær.", "category": "landmark", "coords": [-21.940722, 64.078614]}, {"name": "Lindakirkja", "text": "O biserică modernă în Garðabær.", "category": "religious", "coords": [-21.863846, 64.094495]}, {"name": "Fríkirkjan í Hafnarfirði", "text": "O biserică liberă în regiunea Garðabær.", "category": "religious", "coords": [-21.954826, 64.069329]}, {"name": "Víðistaðakirkja", "text": "O biserică locală în Garðabær.", "category": "religious", "coords": [-21.96087, 64.075566]}, {"name": "Digraneskirkja", "text": "O biserică modernă în Garðabær.", "category": "religious", "coords": [-21.886374, 64.107817]}], "en": [{"name": "Náttúrufræðistofa Kópavogs", "text": "A natural history museum in Kópavogur showcasing local wildlife.", "category": "museum", "coords": [-21.909306, 64.111693]}, {"name": "Museum Of Design And Applied Art", "text": "The Icelandic Museum of Design and Applied Art in Garðabær.", "category": "museum", "coords": [-21.920556, 64.08905]}, {"name": "Borgir", "text": "A nature reserve and hill with historical significance in Garðabær.", "category": "natural", "coords": [-21.91304, 64.112296]}, {"name": "Leikhúsið", "text": "A local theatre for performances in the Garðabær area.", "category": "cultural", "coords": [-21.871931, 64.097152]}, {"name": "Byggðasafn Hafnarfjarðar", "text": "Preserving the history of Hafnarfjörður, the Byggðasafn Hafnarfjarðar offers detailed insights into the regional heritage. Museum visitors can view historical exhibits in the premises near Garðabær that bring the area's past to life.", "category": "museum", "coords": [-21.959471, 64.070136]}, {"name": "Þjóðminjasafn Íslands - varðveisla", "text": "A National Museum site dedicated to the preservation of Icelandic heritage.", "category": "museum", "coords": [-21.932393, 64.114692]}, {"name": "Hofsstaðir", "text": "An archaeological site of a Viking-age longhouse in Garðabær.", "category": "historical", "coords": [-21.914971, 64.087878]}, {"name": "Setbergsrústin", "text": "The ruins of an ancient farmstead in the Garðabær area.", "category": "historical", "coords": [-21.928581, 64.067187]}, {"name": "Bookless Bungalow", "text": "A historical building in Garðabær serving as a museum.", "category": "museum", "coords": [-21.964997, 64.070648]}, {"name": "Garðahraun - neðra", "text": "An extensive lava field and nature reserve near Garðabær.", "category": "natural", "coords": [-21.957393, 64.088825]}, {"name": "Gálgahraun", "text": "A distinctive lava field featuring hiking trails and coastal views.", "category": "natural", "coords": [-21.964706, 64.095334]}, {"name": "Stekkjarhraun", "text": "A rugged lava area that is part of the natural landscape of Garðabær.", "category": "natural", "coords": [-21.930557, 64.061734]}, {"name": "Vífilsstaðahraun", "text": "A nature reserve shaped by volcanic activity near Vífilsstaðir.", "category": "natural", "coords": [-21.896227, 64.077008]}, {"name": "Vífilsstaðavatn", "text": "A scenic lake and nature reserve in Garðabær.", "category": "natural", "coords": [-21.866162, 64.07406]}, {"name": "Hádegishólar", "text": "A nature reserve featuring volcanic hills in Garðabær.", "category": "natural", "coords": [-21.868228, 64.094178]}, {"name": "Bessastaðanes", "text": "A nature reserve located on a peninsula near Garðabær.", "category": "natural", "coords": [-21.978092, 64.108267]}, {"name": "The Lighthouse at Vitastígur", "text": "A distinctive lighthouse on the coast of Garðabær.", "category": "landmark", "coords": [-21.951409, 64.068893]}, {"name": "Hafnarborg", "text": "A cultural centre and art museum located in Garðabær.", "category": "museum", "coords": [-21.955259, 64.067694]}, {"name": "Hellisgerði", "text": "A charming park in Garðabær known for its lava formations.", "category": "park", "coords": [-21.958206, 64.071518]}, {"name": "Rútstún", "text": "A public city park located in Garðabær.", "category": "park", "coords": [-21.916816, 64.109794]}, {"name": "Hamarinn", "text": "A viewpoint situated on a cliff in Garðabær.", "category": "natural", "coords": [-21.95025, 64.065877]}, {"name": "Leikskólalundur", "text": "A local attraction in Garðabær.", "category": "landmark", "coords": [-21.884813, 64.107093]}, {"name": "Álfaborg", "text": "A local attraction in Garðabær.", "category": "landmark", "coords": [-21.940722, 64.078614]}, {"name": "Lindakirkja", "text": "A modern church in Garðabær.", "category": "religious", "coords": [-21.863846, 64.094495]}, {"name": "Fríkirkjan í Hafnarfirði", "text": "A free church in the Garðabær area.", "category": "religious", "coords": [-21.954826, 64.069329]}, {"name": "Víðistaðakirkja", "text": "A local church in Garðabær.", "category": "religious", "coords": [-21.96087, 64.075566]}, {"name": "Digraneskirkja", "text": "A modern church in Garðabær.", "category": "religious", "coords": [-21.886374, 64.107817]}]},
+    id: "iceland-gardabaer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Ein Naturkundemuseum in Kópavogur, das die lokale Fauna zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Designmuseum in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "Ein Naturschutzgebiet und Hügel mit historischer Bedeutung in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Haupttheater in Garðabær, das Theaterstücke und Konzerte veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Um die Geschichte von Hafnarfjörður zu bewahren, bietet das Byggðasafn Hafnarfjarðar detaillierte Einblicke in das regionale Erbe. Museumsbesucher können in den Räumlichkeiten nahe Garðabær historische Exponate betrachten, welche die Vergangenheit der Gegend lebendig machen.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "Ein Standort des Nationalmuseums für die Erhaltung isländischer Kulturgüter.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Eine archäologische Fundstelle eines Wikinger-Langhauses in Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Die Ruinen eines alten Gehöfts in der Region Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "Bookless Bungalow, Museum in Garðabær, erbaut 1910.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Ein weitläufiges Lavafeld und Naturschutzgebiet bei Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Ein markantes Lavafeld mit Wanderwegen und Küstenblick.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "Ein raues Lavagebiet, das Teil der Naturlandschaft von Garðabær ist.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "Ein durch vulkanische Aktivität geformtes Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Vífilsstaðavatn-See, umgeben von Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Hádegishólar-Hügel mit Panoramablick über die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Eine grasbewachsene Landzunge mit Panoramablick auf die Küste von Reykjanes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Vitinn við Vitastíg",
+                  "text": "Ein kleiner weißer Leuchtturm am Küstenweg von Vitastígur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Kunstmuseum Hafnarborg in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "Ein charmanter Park in Garðabær, bekannt für seine Lavaformationen.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Öffentlicher Park Rútstún in Garðabær.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "Ein felsiger Hügel mit Wanderwegen und Aussicht über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Ein Spielplatz und Picknickbereich in einem kleinen Wäldchen.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "Ein markanter Lavafelsen, der angeblich von Elfen bewohnt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Lindakirkja-Kirche in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "Eine Freikirche in der Region Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "1986 erbaute Víðistaðakirkja in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "Eine moderne Kirche in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Természettudományi múzeum Kópavogurban, a helyi élővilág bemutatásával.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Designmúzeum Garðabærben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "Természetvédelmi terület és történelmi jelentőségű domb Garðabærben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Leikhúsið, a garðabæri színház, amely színdaraboknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "A Byggðasafn Hafnarfjarðar részletes betekintést nyújt a regionális örökségbe, hogy megőrizze Hafnarfjörður történetét. A múzeumlátogatók a Garðabær közelében lévő termekben olyan történelmi kiállítási tárgyakat tekinthetnek meg, amelyek életre keltik a környék múltját.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "A Nemzeti Múzeum izlandi kulturális javakat őrző központja.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Viking kori hosszúház régészeti lelőhelye Garðabærben.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Egy régi tanya romjai Garðabær környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "Bookless Bungalow múzeum Garðabærben, épült 1910-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Kiterjedt lávamező és természetvédelmi terület Garðabær mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Jellegzetes lávamező túraútvonalakkal és tengerparti kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "Garðabær természeti tájának részét képező vad lávaterület.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "Vulkanikus tevékenység által formált természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Vífilsstaðavatn-tó, sétányokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Hádegishólar-dombok, panorámás kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Füves félsziget, panorámás kilátással a Reykjanes-partra.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Vitinn við Vitastíg",
+                  "text": "Egy kis fehér világítótorony a Vitastígur tengerparti ösvényén.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Hafnarborg művészeti múzeum Garðabærben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "Bájos park Garðabærben, amely lávaformációiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Rútstún közpark Garðabærben.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "Sziklás domb túraösvényekkel és kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Játszótér és piknikezőhely egy kis ligetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "Egy jellegzetes lávakő, amely állítólag tündérek otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Lindakirkja templom Garðabærben.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "Szabadtemplom Garðabær környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "1986-ban épült Víðistaðakirkja Garðabærben.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "Modern templom Garðabærben.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Un muzeu de istorie naturală în Kópavogur, care prezintă fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Muzeu de design în Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "O rezervație naturală și un deal cu semnificație istorică în Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Teatrul principal din Garðabær, care găzduiește piese de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Pentru a păstra istoria orașului Hafnarfjörður, Byggðasafn Hafnarfjarðar oferă o perspectivă detaliată asupra moștenirii regionale. Vizitatorii muzeului pot admira expoziții istorice în sălile din apropiere de Garðabær, care dau viață trecutului zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "O locație a Muzeului Național pentru conservarea patrimoniului islandez.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Un sit arheologic ce cuprinde o casă lungă din epoca vikingă în Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Ruinele unei vechi ferme în regiunea Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "Bookless Bungalow, muzeu în Garðabær, construit în 1910.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Un câmp de lavă extins și rezervație naturală lângă Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Un câmp de lavă distinctiv cu trasee de drumeție și vedere la coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "O zonă de lavă aspră, parte a peisajului natural din Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "O rezervație naturală formată prin activitate vulcanică.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Lacul Vífilsstaðavatn, înconjurat de trasee de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Dealurile Hádegishólar, cu vedere panoramică asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Un promontoriu ierbos care oferă vederi panoramice ale coastei Reykjanes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Vitinn við Vitastíg",
+                  "text": "Un mic far alb pe poteca de coastă de la Vitastígur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Muzeu de artă Hafnarborg în Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "Un parc fermecător în Garðabær, cunoscut pentru formațiunile sale de lavă.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Parcul public Rútstún în Garðabær.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "Un deal stâncos cu trasee de drumeție și vedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Un loc de joacă și zonă de picnic într-o pădurice.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "O stâncă distinctivă de lavă, despre care se spune că este casa elfilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Biserica Lindakirkja în Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "O biserică liberă în regiunea Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "Biserica Víðistaðakirkja construită în 1986 în Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "O biserică modernă în Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "A natural history museum in Kópavogur showcasing local wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Museum Of Design And Applied Art",
+                  "text": "Design museum in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "A nature reserve and hill with historical significance in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "The main theatre in Garðabær, hosting plays and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Preserving the history of Hafnarfjörður, the Byggðasafn Hafnarfjarðar offers detailed insights into the regional heritage. Museum visitors can view historical exhibits in the premises near Garðabær that bring the area's past to life.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "A National Museum site dedicated to the preservation of Icelandic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "An archaeological site of a Viking-age longhouse in Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "The ruins of an ancient farmstead in the Garðabær area.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "Bookless Bungalow, museum in Garðabær, built in 1910.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "An extensive lava field and nature reserve near Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "A distinctive lava field featuring hiking trails and coastal views.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "A rugged lava area that is part of the natural landscape of Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "A nature reserve shaped by volcanic activity near Vífilsstaðir.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Lake Vífilsstaðavatn, surrounded by walking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Hádegishólar hills offering panoramic views of the area.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "A grassy headland offering panoramic views of the Reykjanes coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "The Lighthouse at Vitastígur",
+                  "text": "A small white lighthouse on the coastal path at Vitastígur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Hafnarborg art museum in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "A charming park in Garðabær known for its lava formations.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Rútstún public park in Garðabær.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "A rocky hill with hiking trails and views over the town.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "A playground and picnic area set in a small grove of trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "A distinctive lava rock said to be home to elves.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Lindakirkja church in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "A free church in the Garðabær area.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "Víðistaðakirkja church built in 1986 in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "A modern church in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Garðabær", hu: "Garðabær", ro: "Garðabær", en: "Garðabær"},
@@ -5419,7 +6400,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
       "de": [
             {
                   "name": "Fischersetur",
-                  "text": "Das Bobby Fischer Center ist ein Museum in Selfoss, das dem berühmten Schachspieler gewidmet ist.",
+                  "text": "Ein Museum, das Bobby Fischer gewidmet ist und sein Leben sowie die Schachweltmeisterschaft 1972 zeigt.",
                   "category": "museum",
                   "coords": [
                         -20.996286,
@@ -5428,7 +6409,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Litla leikhúsið við Sigtún",
-                  "text": "Litla leikhúsið við Sigtún ist ein Theater in Selfoss.",
+                  "text": "Ein kleines Gemeinschaftstheater, das Theaterstücke und kulturelle Veranstaltungen ausrichtet.",
                   "category": "cultural",
                   "coords": [
                         -21.000274,
@@ -5437,7 +6418,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Gallery Listasel",
-                  "text": "Die Gallery Listasel ist eine Kunstgalerie in der Stadt Selfoss.",
+                  "text": "Eine Kunstgalerie, die zeitgenössische isländische Gemälde und Skulpturen ausstellt.",
                   "category": "museum",
                   "coords": [
                         -21.003179,
@@ -5446,7 +6427,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Selfosskirkja",
-                  "text": "Selfosskirkja ist eine Kultstätte in Selfoss.",
+                  "text": "1957 erbaute Selfosskirkja in Selfoss.",
                   "category": "religious",
                   "coords": [
                         -21.009368,
@@ -5455,7 +6436,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Laugardælakirkja",
-                  "text": "Laugardælakirkja ist eine lokale Kultstätte in Selfoss.",
+                  "text": "Holzkirche in der isländischen Landschaft nahe Selfoss.",
                   "category": "religious",
                   "coords": [
                         -20.967079,
@@ -5475,7 +6456,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
       "hu": [
             {
                   "name": "Fischersetur",
-                  "text": "A Bobby Fischer Center egy múzeum Selfossban, amelyet a híres sakkozónak szenteltek.",
+                  "text": "Bobby Fischernek szentelt múzeum, amely bemutatja életét és az 1972-es sakkvilágbajnokságot.",
                   "category": "museum",
                   "coords": [
                         -20.996286,
@@ -5484,7 +6465,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Litla leikhúsið við Sigtún",
-                  "text": "A Litla leikhúsið við Sigtún egy színház Selfossban.",
+                  "text": "Kis közösségi színház, amely színdarabokat és kulturális eseményeket rendez.",
                   "category": "cultural",
                   "coords": [
                         -21.000274,
@@ -5493,7 +6474,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Gallery Listasel",
-                  "text": "A Gallery Listasel egy művészeti galéria Selfoss városában.",
+                  "text": "Kortárs izlandi festményeket és szobrokat bemutató művészeti galéria.",
                   "category": "museum",
                   "coords": [
                         -21.003179,
@@ -5502,7 +6483,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Selfosskirkja",
-                  "text": "A Selfosskirkja egy istentiszteleti hely Selfossban.",
+                  "text": "1957-ben épült Selfosskirkja Selfossban.",
                   "category": "religious",
                   "coords": [
                         -21.009368,
@@ -5511,7 +6492,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Laugardælakirkja",
-                  "text": "A Laugardælakirkja egy helyi istentiszteleti hely Selfossban.",
+                  "text": "Fából készült templom az izlandi vidéken Selfoss közelében.",
                   "category": "religious",
                   "coords": [
                         -20.967079,
@@ -5531,7 +6512,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
       "ro": [
             {
                   "name": "Fischersetur",
-                  "text": "Centrul Bobby Fischer este un muzeu din Selfoss dedicat celebrului jucător de șah.",
+                  "text": "Un muzeu dedicat lui Bobby Fischer, care prezintă viața sa și campionatul mondial de șah din 1972.",
                   "category": "museum",
                   "coords": [
                         -20.996286,
@@ -5540,7 +6521,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Litla leikhúsið við Sigtún",
-                  "text": "Litla leikhúsið við Sigtún este un teatru situat în Selfoss.",
+                  "text": "Un mic teatru comunitar care găzduiește piese de teatru și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -21.000274,
@@ -5549,7 +6530,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Gallery Listasel",
-                  "text": "Gallery Listasel este o galerie de artă din orașul Selfoss.",
+                  "text": "O galerie de artă care expune picturi și sculpturi contemporane islandeze.",
                   "category": "museum",
                   "coords": [
                         -21.003179,
@@ -5558,7 +6539,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Selfosskirkja",
-                  "text": "Selfosskirkja este un lăcaș de cult situat în Selfoss.",
+                  "text": "Biserica Selfosskirkja construită în 1957 în Selfoss.",
                   "category": "religious",
                   "coords": [
                         -21.009368,
@@ -5567,7 +6548,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Laugardælakirkja",
-                  "text": "Laugardælakirkja este un lăcaș de cult local din Selfoss.",
+                  "text": "Biserică de lemn în peisajul islandez lângă Selfoss.",
                   "category": "religious",
                   "coords": [
                         -20.967079,
@@ -5587,7 +6568,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
       "en": [
             {
                   "name": "The Bobby Fischer Center",
-                  "text": "The Bobby Fischer Center is a museum in Selfoss dedicated to the famous chess player.",
+                  "text": "A museum dedicated to Bobby Fischer, showcasing his life and the 1972 World Chess Championship.",
                   "category": "museum",
                   "coords": [
                         -20.996286,
@@ -5596,7 +6577,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Litla leikhúsið við Sigtún",
-                  "text": "Litla leikhúsið við Sigtún is a theatre located in Selfoss.",
+                  "text": "A small community theater hosting plays and cultural events.",
                   "category": "cultural",
                   "coords": [
                         -21.000274,
@@ -5605,7 +6586,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Gallery Listasel",
-                  "text": "Gallery Listasel is an art gallery located in the town of Selfoss.",
+                  "text": "An art gallery showcasing contemporary Icelandic paintings and sculptures.",
                   "category": "museum",
                   "coords": [
                         -21.003179,
@@ -5614,7 +6595,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Selfosskirkja",
-                  "text": "Selfosskirkja is a place of worship situated in Selfoss.",
+                  "text": "Selfosskirkja church built in 1957 in Selfoss.",
                   "category": "religious",
                   "coords": [
                         -21.009368,
@@ -5623,7 +6604,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
             },
             {
                   "name": "Laugardælakirkja",
-                  "text": "Laugardælakirkja is a local place of worship located in Selfoss.",
+                  "text": "Wooden church in the Icelandic countryside near Selfoss.",
                   "category": "religious",
                   "coords": [
                         -20.967079,
@@ -5690,7 +6671,7 @@ imageHint: "Selfoss bridge over Olfusa river",
       "de": [
             {
                   "name": "Byggðarsafnið",
-                  "text": "Ein Regionalmuseum in Akranes.",
+                  "text": "Ein Heimatmuseum mit Ausstellungen zur Fischerei- und Landwirtschaftsgeschichte von Akranes.",
                   "category": "museum",
                   "coords": [
                         -22.044504,
@@ -5699,7 +6680,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Langisandur",
-                  "text": "Ein Strand in Akranes.",
+                  "text": "Ein langer Sandstrand, beliebt zum Schwimmen und für Spaziergänge an der Küste.",
                   "category": "recreational",
                   "coords": [
                         -22.057946,
@@ -5708,7 +6689,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Krossvíkurviti",
-                  "text": "Ein Leuchtturm in Akranes.",
+                  "text": "Ein Leuchtturm mit Blick auf die felsige Küste von Krossvík.",
                   "category": "landmark",
                   "coords": [
                         -22.054085,
@@ -5717,7 +6698,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Gamli Akranesviti",
-                  "text": "Ein alter Leuchtturm in Akranes.",
+                  "text": "Alter Leuchtturm von Akranes, erbaut 1918, entworfen von Thorvald Krabbe.",
                   "category": "landmark",
                   "coords": [
                         -22.095454,
@@ -5726,7 +6707,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Akranesviti",
-                  "text": "Eine Attraktion in Akranes.",
+                  "text": "Akranesviti, Leuchtturm in Akranes, entworfen von Architekt Axel Sveinsson.",
                   "category": "landmark",
                   "coords": [
                         -22.094948,
@@ -5737,7 +6718,7 @@ imageHint: "Selfoss bridge over Olfusa river",
       "hu": [
             {
                   "name": "Byggðarsafnið",
-                  "text": "Helytörténeti múzeum Akranesben.",
+                  "text": "Helytörténeti múzeum, amely Akranes halászatának és mezőgazdaságának örökségét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -22.044504,
@@ -5746,7 +6727,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Langisandur",
-                  "text": "Strand Akranesben.",
+                  "text": "Hosszú homokos tengerpart, népszerű úszásra és parti sétákra.",
                   "category": "recreational",
                   "coords": [
                         -22.057946,
@@ -5755,7 +6736,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Krossvíkurviti",
-                  "text": "Világítótorony Akranesben.",
+                  "text": "Világítótorony, amely Krossvík sziklás partjára néz.",
                   "category": "landmark",
                   "coords": [
                         -22.054085,
@@ -5764,7 +6745,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Gamli Akranesviti",
-                  "text": "Régi világítótorony Akranesben.",
+                  "text": "Régi akranesi világítótorony, 1918-ban épült, Thorvald Krabbe tervezte.",
                   "category": "landmark",
                   "coords": [
                         -22.095454,
@@ -5773,7 +6754,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Akranesviti",
-                  "text": "Látnivaló Akranesben.",
+                  "text": "Akranesviti világítótorony Akranesben, Axel Sveinsson építész tervezte.",
                   "category": "landmark",
                   "coords": [
                         -22.094948,
@@ -5784,7 +6765,7 @@ imageHint: "Selfoss bridge over Olfusa river",
       "ro": [
             {
                   "name": "Byggðarsafnið",
-                  "text": "Un muzeu regional în Akranes.",
+                  "text": "Un muzeu de istorie locală cu exponate despre patrimoniul pescăresc și agricol din Akranes.",
                   "category": "museum",
                   "coords": [
                         -22.044504,
@@ -5793,7 +6774,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Langisandur",
-                  "text": "O plajă în Akranes.",
+                  "text": "O plajă lungă cu nisip, populară pentru înot și plimbări pe coastă.",
                   "category": "recreational",
                   "coords": [
                         -22.057946,
@@ -5802,7 +6783,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Krossvíkurviti",
-                  "text": "Un far în Akranes.",
+                  "text": "Un far care domină coasta stâncoasă a lui Krossvík.",
                   "category": "landmark",
                   "coords": [
                         -22.054085,
@@ -5811,7 +6792,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Gamli Akranesviti",
-                  "text": "Un far vechi în Akranes.",
+                  "text": "Farul vechi din Akranes, construit în 1918, proiectat de Thorvald Krabbe.",
                   "category": "landmark",
                   "coords": [
                         -22.095454,
@@ -5820,7 +6801,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Akranesviti",
-                  "text": "O atracție în Akranes.",
+                  "text": "Akranesviti, far în Akranes, proiectat de arhitectul Axel Sveinsson.",
                   "category": "landmark",
                   "coords": [
                         -22.094948,
@@ -5831,7 +6812,7 @@ imageHint: "Selfoss bridge over Olfusa river",
       "en": [
             {
                   "name": "Byggðarsafnið",
-                  "text": "A regional museum in Akranes.",
+                  "text": "A local history museum with exhibits on Akranes' fishing and farming heritage.",
                   "category": "museum",
                   "coords": [
                         -22.044504,
@@ -5840,7 +6821,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Langisandur",
-                  "text": "A beach in Akranes.",
+                  "text": "A long sandy beach popular for swimming and coastal walks.",
                   "category": "recreational",
                   "coords": [
                         -22.057946,
@@ -5849,7 +6830,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Krossvíkurviti",
-                  "text": "A lighthouse in Akranes.",
+                  "text": "A lighthouse overlooking the rocky coast of Krossvík.",
                   "category": "landmark",
                   "coords": [
                         -22.054085,
@@ -5858,7 +6839,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Gamli Akranesviti",
-                  "text": "An old lighthouse in Akranes.",
+                  "text": "Old Akranes lighthouse built in 1918, designed by Thorvald Krabbe.",
                   "category": "landmark",
                   "coords": [
                         -22.095454,
@@ -5867,7 +6848,7 @@ imageHint: "Selfoss bridge over Olfusa river",
             },
             {
                   "name": "Akranesviti",
-                  "text": "An attraction in Akranes.",
+                  "text": "Akranesviti, lighthouse in Akranes, designed by architect Axel Sveinsson.",
                   "category": "landmark",
                   "coords": [
                         -22.094948,
@@ -5971,7 +6952,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
       "de": [
             {
                   "name": "Stórhöfði",
-                  "text": "Leuchtturm am Stórhöfði auf Vestmannaeyjar, bekannt als windigster Ort Europas.",
+                  "text": "Ein Wachsmuseum mit Wikingerfiguren in Vestmannaeyjar.",
                   "category": "landmark",
                   "coords": [
                         -20.288457,
@@ -5980,7 +6961,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Urðir",
-                  "text": "Leuchtturm in Vestmannaeyjar.",
+                  "text": "Vulkanisches Schuttfeld auf der Insel Heimaey.",
                   "category": "landmark",
                   "coords": [
                         -20.227842,
@@ -5989,7 +6970,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Skansinn",
-                  "text": "Museum am Skansinn in Vestmannaeyjar.",
+                  "text": "Eine Festung aus dem 16. Jahrhundert, die heute ein Museum ist und den Hafen von Heimaey bewacht.",
                   "category": "museum",
                   "coords": [
                         -20.261457,
@@ -5998,7 +6979,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sæheimar Aquarium",
-                  "text": "Aquarium in Vestmannaeyjar.",
+                  "text": "Ein Aquarium mit einheimischen Meeresbewohnern, darunter gerettete Papageitaucher und Robben.",
                   "category": "family",
                   "coords": [
                         -20.269189,
@@ -6007,7 +6988,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Víkin",
-                  "text": "Strand in Vestmannaeyjar.",
+                  "text": "Eine kleine Küstenbucht mit einer Bademöglichkeit und Blick auf die umliegenden Inseln.",
                   "category": "recreational",
                   "coords": [
                         -20.279439,
@@ -6016,7 +6997,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Byggðasafn",
-                  "text": "Heimatmuseum in Vestmannaeyjar.",
+                  "text": "Ein Museum zur Geschichte der Vestmannaeyjar, einschließlich des Vulkanausbruchs von 1973.",
                   "category": "museum",
                   "coords": [
                         -20.26908,
@@ -6025,7 +7006,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Eldheimar",
-                  "text": "Museum über den Vulkanausbruch in Vestmannaeyjar.",
+                  "text": "Ein interaktives Museum, das dem Eldfell-Ausbruch von 1973 gewidmet ist, der Heimaey umgestaltete.",
                   "category": "museum",
                   "coords": [
                         -20.260094,
@@ -6034,7 +7015,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Herjólfstown",
-                  "text": "Viking-Wachsfigurenmuseum in Vestmannaeyjar.",
+                  "text": "Ein Wachsmuseum mit lebensechten Figuren, die das Leben und die Geschichte der Wikinger darstellen.",
                   "category": "museum",
                   "coords": [
                         -20.297158,
@@ -6043,7 +7024,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Stafsnes",
-                  "text": "Strandabschnitt in Vestmannaeyjar.",
+                  "text": "Eine felsige Landzunge mit Wanderwegen und Seevogelkolonien.",
                   "category": "recreational",
                   "coords": [
                         -20.311944,
@@ -6052,7 +7033,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Heimaklettur",
-                  "text": "Bergspitze in Vestmannaeyjar.",
+                  "text": "Charakteristische Felsformation in Vestmannaeyjar.",
                   "category": "natural",
                   "coords": [
                         -20.261301,
@@ -6061,7 +7042,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sprangan",
-                  "text": "Attraktion in Vestmannaeyjar.",
+                  "text": "Eine steile Vulkanklippe, die zum Springen ins Meer genutzt wird, bei Einheimischen beliebt.",
                   "category": "landmark",
                   "coords": [
                         -20.284183,
@@ -6070,7 +7051,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Klauf",
-                  "text": "Küste und Attraktion in Vestmannaeyjar.",
+                  "text": "Eine enge vulkanische Spalte oder Schlucht, die durch frühere Ausbrüche entstanden ist.",
                   "category": "landmark",
                   "coords": [
                         -20.284952,
@@ -6079,7 +7060,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Flakkarinn",
-                  "text": "Aussichtspunkt in Vestmannaeyjar.",
+                  "text": "Eine markante Felssäule, die aus der Vulkanlandschaft ragt.",
                   "category": "natural",
                   "coords": [
                         -20.253078,
@@ -6088,7 +7069,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Goslok",
-                  "text": "Attraktion in Vestmannaeyjar.",
+                  "text": "Ein Steinmonument, das an das Ende des Eldfell-Ausbruchs von 1973 erinnert.",
                   "category": "landmark",
                   "coords": [
                         -20.250105,
@@ -6097,7 +7078,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Landakirkja",
-                  "text": "Ein Gotteshaus in Vestmannaeyjar.",
+                  "text": "Lutherische Kirche im Zentrum von Heimaey.",
                   "category": "religious",
                   "coords": [
                         -20.2723,
@@ -6108,7 +7089,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
       "hu": [
             {
                   "name": "Stórhöfði",
-                  "text": "Világítótorony a Vestmannaeyjar-szigeteki Stórhöfði-nél, Európa egyik legszelesebb helye.",
+                  "text": "Viking tematikájú viaszmúzeum Vestmannaeyjarban.",
                   "category": "landmark",
                   "coords": [
                         -20.288457,
@@ -6117,7 +7098,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Urðir",
-                  "text": "Világítótorony Vestmannaeyjarban.",
+                  "text": "Vulkani törmelékmező a Heimaey szigeten.",
                   "category": "landmark",
                   "coords": [
                         -20.227842,
@@ -6126,7 +7107,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Skansinn",
-                  "text": "Múzeum a Vestmannaeyjar-szigeteki Skansinnnél.",
+                  "text": "Egy 16. századi erődítmény, amely múzeumként működik és védi Heimaey kikötőjét.",
                   "category": "museum",
                   "coords": [
                         -20.261457,
@@ -6135,7 +7116,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sæheimar Aquarium",
-                  "text": "Akvárium Vestmannaeyjarban.",
+                  "text": "Akvárium, amely helyi tengeri élővilágot mutat be, köztük mentett lundákat és fókákat.",
                   "category": "family",
                   "coords": [
                         -20.269189,
@@ -6144,7 +7125,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Víkin",
-                  "text": "Strand Vestmannaeyjarban.",
+                  "text": "Tengerparti öböl fürdőzéssel és kilátással a környező szigetekre.",
                   "category": "recreational",
                   "coords": [
                         -20.279439,
@@ -6153,7 +7134,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Byggðasafn",
-                  "text": "Helytörténeti múzeum Vestmannaeyjarban.",
+                  "text": "Múzeum, amely Vestmannaeyjar történetét mutatja be, beleértve az 1973-as vulkánkitörést.",
                   "category": "museum",
                   "coords": [
                         -20.26908,
@@ -6162,7 +7143,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Eldheimar",
-                  "text": "Múzeum a Vestmannaeyjar-szigeteki vulkánkitörésről.",
+                  "text": "Interaktív múzeum, amely az 1973-as Eldfell-kitörésnek állít emléket, ami átformálta Heimaey-t.",
                   "category": "museum",
                   "coords": [
                         -20.260094,
@@ -6171,7 +7152,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Herjólfstown",
-                  "text": "Viking viaszmúzeum Vestmannaeyjarban.",
+                  "text": "Viaszmúzeum élethű figurákkal, amelyek a viking életet és történelmet ábrázolják.",
                   "category": "museum",
                   "coords": [
                         -20.297158,
@@ -6180,7 +7161,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Stafsnes",
-                  "text": "Strandszakasz Vestmannaeyjarban.",
+                  "text": "Sziklás félsziget túraösvényekkel és tengeri madarak telepeivel.",
                   "category": "recreational",
                   "coords": [
                         -20.311944,
@@ -6189,7 +7170,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Heimaklettur",
-                  "text": "Hegycsúcs Vestmannaeyjarban.",
+                  "text": "Jellegzetes sziklaformáció Vestmannaeyjarban.",
                   "category": "natural",
                   "coords": [
                         -20.261301,
@@ -6198,7 +7179,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sprangan",
-                  "text": "Látnivaló Vestmannaeyjarban.",
+                  "text": "Meredek vulkanikus szikla, amelyet a tengerbe ugrásra használnak, népszerű a helyiek körében.",
                   "category": "landmark",
                   "coords": [
                         -20.284183,
@@ -6207,7 +7188,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Klauf",
-                  "text": "Partszakasz és látnivaló Vestmannaeyjarban.",
+                  "text": "Szűk vulkanikus hasadék vagy szurdok, amely korábbi kitörések során keletkezett.",
                   "category": "landmark",
                   "coords": [
                         -20.284952,
@@ -6216,7 +7197,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Flakkarinn",
-                  "text": "Kilátópont Vestmannaeyjarban.",
+                  "text": "Jellegzetes sziklaoszlop, amely a vulkanikus tájból emelkedik ki.",
                   "category": "natural",
                   "coords": [
                         -20.253078,
@@ -6225,7 +7206,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Goslok",
-                  "text": "Látnivaló Vestmannaeyjarban.",
+                  "text": "Kőemlék, amely az 1973-as Eldfell-kitörés végét jelzi.",
                   "category": "landmark",
                   "coords": [
                         -20.250105,
@@ -6234,7 +7215,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Landakirkja",
-                  "text": "Templom Vestmannaeyjarban.",
+                  "text": "Evangélikus templom Heimaey központjában.",
                   "category": "religious",
                   "coords": [
                         -20.2723,
@@ -6245,7 +7226,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
       "ro": [
             {
                   "name": "Stórhöfði",
-                  "text": "Far la Stórhöfði în Vestmannaeyjar, cunoscut drept unul dintre cele mai vântoase locuri din Europa.",
+                  "text": "Un muzeu de ceară cu figuri vikinge în Vestmannaeyjar.",
                   "category": "landmark",
                   "coords": [
                         -20.288457,
@@ -6254,7 +7235,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Urðir",
-                  "text": "Far în Vestmannaeyjar.",
+                  "text": "Câmp de grohotiș vulcanic pe insula Heimaey.",
                   "category": "landmark",
                   "coords": [
                         -20.227842,
@@ -6263,7 +7244,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Skansinn",
-                  "text": "Muzeu la Skansinn în Vestmannaeyjar.",
+                  "text": "O fortificație din secolul al XVI-lea transformată în muzeu, care păzește portul Heimaey.",
                   "category": "museum",
                   "coords": [
                         -20.261457,
@@ -6272,7 +7253,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sæheimar Aquarium",
-                  "text": "Acvariu în Vestmannaeyjar.",
+                  "text": "Un acvariu cu viață marină locală, inclusiv papagai de mare și foci salvate.",
                   "category": "family",
                   "coords": [
                         -20.269189,
@@ -6281,7 +7262,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Víkin",
-                  "text": "Plajă în Vestmannaeyjar.",
+                  "text": "Un golf de coastă cu un loc de înot și vedere asupra insulelor din jur.",
                   "category": "recreational",
                   "coords": [
                         -20.279439,
@@ -6290,7 +7271,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Byggðasafn",
-                  "text": "Muzeu de istorie locală în Vestmannaeyjar.",
+                  "text": "Un muzeu care acoperă istoria Vestmannaeyjar, inclusiv erupția vulcanică din 1973.",
                   "category": "museum",
                   "coords": [
                         -20.26908,
@@ -6299,7 +7280,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Eldheimar",
-                  "text": "Muzeu despre erupția vulcanică din Vestmannaeyjar.",
+                  "text": "Un muzeu interactiv dedicat erupției Eldfell din 1973, care a remodelat Heimaey.",
                   "category": "museum",
                   "coords": [
                         -20.260094,
@@ -6308,7 +7289,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Herjólfstown",
-                  "text": "Muzeu de ceară viking în Vestmannaeyjar.",
+                  "text": "Un muzeu de ceară cu figuri realiste care înfățișează viața și istoria vikingilor.",
                   "category": "museum",
                   "coords": [
                         -20.297158,
@@ -6317,7 +7298,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Stafsnes",
-                  "text": "Secțiune de plajă în Vestmannaeyjar.",
+                  "text": "Un promontoriu stâncos cu trasee de drumeție și colonii de păsări marine.",
                   "category": "recreational",
                   "coords": [
                         -20.311944,
@@ -6326,7 +7307,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Heimaklettur",
-                  "text": "Vârf de munte în Vestmannaeyjar.",
+                  "text": "Formațiune stâncoasă distinctivă în Vestmannaeyjar.",
                   "category": "natural",
                   "coords": [
                         -20.261301,
@@ -6335,7 +7316,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sprangan",
-                  "text": "Atracție în Vestmannaeyjar.",
+                  "text": "O stâncă vulcanică abruptă folosită pentru sărituri în mare, populară printre localnici.",
                   "category": "landmark",
                   "coords": [
                         -20.284183,
@@ -6344,7 +7325,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Klauf",
-                  "text": "Coastă și atracție în Vestmannaeyjar.",
+                  "text": "O fisură vulcanică îngustă sau un defileu format de erupțiile trecute.",
                   "category": "landmark",
                   "coords": [
                         -20.284952,
@@ -6353,7 +7334,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Flakkarinn",
-                  "text": "Punct de belvedere în Vestmannaeyjar.",
+                  "text": "Un stâlp de piatră distinctiv care iese din peisajul vulcanic.",
                   "category": "natural",
                   "coords": [
                         -20.253078,
@@ -6362,7 +7343,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Goslok",
-                  "text": "Atracție în Vestmannaeyjar.",
+                  "text": "Un monument de piatră care comemorează sfârșitul erupției Eldfell din 1973.",
                   "category": "landmark",
                   "coords": [
                         -20.250105,
@@ -6371,7 +7352,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Landakirkja",
-                  "text": "Un lăcaș de cult în Vestmannaeyjar.",
+                  "text": "Biserică luterană în centrul orașului Heimaey.",
                   "category": "religious",
                   "coords": [
                         -20.2723,
@@ -6391,7 +7372,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Urðir",
-                  "text": "Lighthouse in Vestmannaeyjar.",
+                  "text": "Volcanic scree field on Heimaey island.",
                   "category": "landmark",
                   "coords": [
                         -20.227842,
@@ -6400,7 +7381,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Skansinn",
-                  "text": "Museum at Skansinn in Vestmannaeyjar.",
+                  "text": "A 16th-century fortification turned museum, guarding the harbour of Heimaey.",
                   "category": "museum",
                   "coords": [
                         -20.261457,
@@ -6409,7 +7390,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sæheimar Aquarium",
-                  "text": "Aquarium in Vestmannaeyjar.",
+                  "text": "An aquarium featuring local marine life, including rescued puffins and seals.",
                   "category": "family",
                   "coords": [
                         -20.269189,
@@ -6418,7 +7399,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Víkin",
-                  "text": "Beach in Vestmannaeyjar.",
+                  "text": "A coastal cove with a swimming spot and views of the surrounding islands.",
                   "category": "recreational",
                   "coords": [
                         -20.279439,
@@ -6427,7 +7408,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Byggðasafn",
-                  "text": "Local history museum in Vestmannaeyjar.",
+                  "text": "A museum covering the history of Vestmannaeyjar, including the 1973 volcanic eruption.",
                   "category": "museum",
                   "coords": [
                         -20.26908,
@@ -6436,7 +7417,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Eldheimar",
-                  "text": "Museum about the volcanic eruption in Vestmannaeyjar.",
+                  "text": "An interactive museum dedicated to the 1973 Eldfell eruption that reshaped Heimaey.",
                   "category": "museum",
                   "coords": [
                         -20.260094,
@@ -6445,7 +7426,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Viking wax museum",
-                  "text": "Viking wax museum in Vestmannaeyjar.",
+                  "text": "A wax museum with lifelike figures depicting Viking life and history.",
                   "category": "museum",
                   "coords": [
                         -20.297158,
@@ -6454,7 +7435,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Stafsnes",
-                  "text": "Beach area in Vestmannaeyjar.",
+                  "text": "A rocky headland with hiking trails and seabird colonies.",
                   "category": "recreational",
                   "coords": [
                         -20.311944,
@@ -6463,7 +7444,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Home Rock",
-                  "text": "Mountain peak in Vestmannaeyjar.",
+                  "text": "Distinctive rock formation in Vestmannaeyjar.",
                   "category": "natural",
                   "coords": [
                         -20.261301,
@@ -6472,7 +7453,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Sprangan",
-                  "text": "Attraction in Vestmannaeyjar.",
+                  "text": "A steep volcanic cliff used for diving into the sea, popular with locals.",
                   "category": "landmark",
                   "coords": [
                         -20.284183,
@@ -6481,7 +7462,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Klauf",
-                  "text": "Coastal area and attraction in Vestmannaeyjar.",
+                  "text": "A narrow volcanic fissure or gorge formed by past eruptions.",
                   "category": "landmark",
                   "coords": [
                         -20.284952,
@@ -6490,7 +7471,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Flakkarinn",
-                  "text": "Viewpoint in Vestmannaeyjar.",
+                  "text": "A distinctive rock pillar jutting out of the volcanic landscape.",
                   "category": "natural",
                   "coords": [
                         -20.253078,
@@ -6499,7 +7480,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Goslok",
-                  "text": "Attraction in Vestmannaeyjar.",
+                  "text": "A stone monument commemorating the end of the 1973 Eldfell eruption.",
                   "category": "landmark",
                   "coords": [
                         -20.250105,
@@ -6508,7 +7489,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             },
             {
                   "name": "Landakirkja",
-                  "text": "A place of worship in Vestmannaeyjar.",
+                  "text": "Lutheran church in Heimaey's town center.",
                   "category": "religious",
                   "coords": [
                         -20.2723,
@@ -6562,7 +7543,232 @@ imageHint: "Vestmannaeyjar harbor and steep cliffs",
     },
     image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp",
 },  {
-    id: "iceland-grindavik-cities-v2", "sights": {"de": [{"name": "Hópsnes", "text": "Ein Leuchtturm auf der Halbinsel Hópsnes bei Grindavík.", "category": "landmark", "coords": [-22.406511, 63.826403]}, {"name": "Sundlaug Grindavíkur", "text": "Ein Wasserpark in Grindavík.", "category": "family", "coords": [-22.431517, 63.843901]}, {"name": "Kvikan", "text": "Ein Kulturzentrum und Museum in Grindavík.", "category": "museum", "coords": [-22.432283, 63.83962]}, {"name": "Lágafell", "text": "Nahe der isländischen Ortschaft Grindavík erhebt sich der Berggipfel Lágafell. Naturbegeisterte erwartet bei einem Besuch dieses Ausflugsziels ein eindrucksvoller Blick auf die karge und vulkanische Landschaft der Umgebung.", "category": "natural", "coords": [-22.45762, 63.85632]}, {"name": "Þorbjörn", "text": "Ein markanter Berggipfel bei Grindavík.", "category": "natural", "coords": [-22.44095, 63.864283]}, {"name": "Reykjanes Vaknar", "text": "Eine Galerie in Grindavík.", "category": "museum", "coords": [-22.435212, 63.844105]}], "hu": [{"name": "Hópsnes", "text": "Világítótorony a grindavíki Hópsnes-félszigeten.", "category": "landmark", "coords": [-22.406511, 63.826403]}, {"name": "Sundlaug Grindavíkur", "text": "Vízi park Grindavík városában.", "category": "family", "coords": [-22.431517, 63.843901]}, {"name": "Kvikan", "text": "Kulturális központ és múzeum Grindavíkban.", "category": "museum", "coords": [-22.432283, 63.83962]}, {"name": "Lágafell", "text": "Az izlandi Grindavík település közelében emelkedik a Lágafell hegycsúcs. A természet szerelmeseit e kirándulóhely meglátogatásakor lenyűgöző kilátás várja a környék kopár és vulkanikus tájára.", "category": "natural", "coords": [-22.45762, 63.85632]}, {"name": "Þorbjörn", "text": "Hegycsúcs Grindavík környékén.", "category": "natural", "coords": [-22.44095, 63.864283]}, {"name": "Reykjanes Vaknar", "text": "Galéria Grindavíkban.", "category": "museum", "coords": [-22.435212, 63.844105]}], "ro": [{"name": "Hópsnes", "text": "Un far situat pe peninsula Hópsnes lângă Grindavík.", "category": "landmark", "coords": [-22.406511, 63.826403]}, {"name": "Sundlaug Grindavíkur", "text": "Un parc acvatic din Grindavík.", "category": "family", "coords": [-22.431517, 63.843901]}, {"name": "Kvikan", "text": "Un centru cultural și muzeu din Grindavík.", "category": "museum", "coords": [-22.432283, 63.83962]}, {"name": "Lágafell", "text": "În apropierea localității islandeze Grindavík se înalță vârful montan Lágafell. Iubitorii de natură sunt așteptați cu o priveliște impresionantă asupra peisajului arid și vulcanic al împrejurimilor la vizitarea acestei destinații.", "category": "natural", "coords": [-22.45762, 63.85632]}, {"name": "Þorbjörn", "text": "Un vârf montan în apropiere de Grindavík.", "category": "natural", "coords": [-22.44095, 63.864283]}, {"name": "Reykjanes Vaknar", "text": "O galerie din Grindavík.", "category": "museum", "coords": [-22.435212, 63.844105]}], "en": [{"name": "Hópsnes", "text": "A lighthouse located on the Hópsnes peninsula near Grindavík.", "category": "landmark", "coords": [-22.406511, 63.826403]}, {"name": "Sundlaug Grindavíkur", "text": "A water park located in Grindavík.", "category": "family", "coords": [-22.431517, 63.843901]}, {"name": "Kvikan", "text": "A cultural centre and museum in Grindavík.", "category": "museum", "coords": [-22.432283, 63.83962]}, {"name": "Lágafell", "text": "Near the Icelandic town of Grindavík rises the natural mountain peak of Lágafell. Nature lovers can look forward to an impressive view of the barren and volcanic landscape of the surroundings when visiting this destination.", "category": "natural", "coords": [-22.45762, 63.85632]}, {"name": "Þorbjörn", "text": "A prominent mountain peak near Grindavík.", "category": "natural", "coords": [-22.44095, 63.864283]}, {"name": "Reykjanes awakens", "text": "An art gallery located in Grindavík.", "category": "museum", "coords": [-22.435212, 63.844105]}]},
+    id: "iceland-grindavik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hópsnes",
+                  "text": "Felsige Halbinsel mit Leuchtturm am Eingang zum Hafen von Grindavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.406511,
+                        63.826403
+                  ]
+            },
+            {
+                  "name": "Sundlaug Grindavíkur",
+                  "text": "Ein geothermisches Schwimmbad mit heißen Töpfen, Rutschen und Saunen.",
+                  "category": "family",
+                  "coords": [
+                        -22.431517,
+                        63.843901
+                  ]
+            },
+            {
+                  "name": "Kvikan",
+                  "text": "Ein Kulturmuseum, das die Geschichte der Fischereiindustrie in Grindavík hervorhebt.",
+                  "category": "museum",
+                  "coords": [
+                        -22.432283,
+                        63.83962
+                  ]
+            },
+            {
+                  "name": "Lágafell",
+                  "text": "Kleiner Vulkankrater bei Grindavík, leichter Wanderweg in der Nähe der Blauen Lagune.",
+                  "category": "natural",
+                  "coords": [
+                        -22.45762,
+                        63.85632
+                  ]
+            },
+            {
+                  "name": "Þorbjörn",
+                  "text": "Vulkanischer Berg auf der Reykjanes-Halbinsel nahe Grindavik.",
+                  "category": "natural",
+                  "coords": [
+                        -22.44095,
+                        63.864283
+                  ]
+            },
+            {
+                  "name": "Reykjanes Vaknar",
+                  "text": "Eine Ausstellung, die die Vulkanausbrüche auf Reykjanes seit 2021 dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -22.435212,
+                        63.844105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hópsnes",
+                  "text": "Sziklás félsziget világítótoronnyal, Grindavík kikötőjének bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.406511,
+                        63.826403
+                  ]
+            },
+            {
+                  "name": "Sundlaug Grindavíkur",
+                  "text": "Geotermikus uszodakomplexum forró medencékkel, csúszdákkal és szaunákkal.",
+                  "category": "family",
+                  "coords": [
+                        -22.431517,
+                        63.843901
+                  ]
+            },
+            {
+                  "name": "Kvikan",
+                  "text": "Kulturális múzeum, amely Grindavík halászati iparának történetét emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        -22.432283,
+                        63.83962
+                  ]
+            },
+            {
+                  "name": "Lágafell",
+                  "text": "Kis vulkanikus kráter Grindavík közelében, könnyű sétaútvonal a Blue Lagoon környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -22.45762,
+                        63.85632
+                  ]
+            },
+            {
+                  "name": "Þorbjörn",
+                  "text": "Vulkáni hegy a Reykjanes-félszigeten Grindavík közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -22.44095,
+                        63.864283
+                  ]
+            },
+            {
+                  "name": "Reykjanes Vaknar",
+                  "text": "Kiállítás, amely dokumentálja a Reykjanes-félsziget vulkánkitöréseit 2021 óta.",
+                  "category": "museum",
+                  "coords": [
+                        -22.435212,
+                        63.844105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hópsnes",
+                  "text": "Peninsulă stâncoasă cu far la intrarea în portul Grindavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.406511,
+                        63.826403
+                  ]
+            },
+            {
+                  "name": "Sundlaug Grindavíkur",
+                  "text": "Un complex de înot geotermal cu băi fierbinți, tobogane și saune.",
+                  "category": "family",
+                  "coords": [
+                        -22.431517,
+                        63.843901
+                  ]
+            },
+            {
+                  "name": "Kvikan",
+                  "text": "Un muzeu cultural care evidențiază istoria industriei pescărești din Grindavík.",
+                  "category": "museum",
+                  "coords": [
+                        -22.432283,
+                        63.83962
+                  ]
+            },
+            {
+                  "name": "Lágafell",
+                  "text": "Crater vulcanic mic lângă Grindavík, potecă ușoară lângă Laguna Albastră.",
+                  "category": "natural",
+                  "coords": [
+                        -22.45762,
+                        63.85632
+                  ]
+            },
+            {
+                  "name": "Þorbjörn",
+                  "text": "Munte vulcanic pe Peninsula Reykjanes lângă Grindavik.",
+                  "category": "natural",
+                  "coords": [
+                        -22.44095,
+                        63.864283
+                  ]
+            },
+            {
+                  "name": "Reykjanes Vaknar",
+                  "text": "O expoziție care documentează erupțiile vulcanice din Reykjanes începând cu 2021.",
+                  "category": "museum",
+                  "coords": [
+                        -22.435212,
+                        63.844105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hópsnes",
+                  "text": "Rocky headland with a lighthouse at the entrance to Grindavík harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.406511,
+                        63.826403
+                  ]
+            },
+            {
+                  "name": "Sundlaug Grindavíkur",
+                  "text": "A geothermal swimming complex with hot pots, slides, and saunas.",
+                  "category": "family",
+                  "coords": [
+                        -22.431517,
+                        63.843901
+                  ]
+            },
+            {
+                  "name": "Kvikan",
+                  "text": "A cultural museum highlighting the history of Grindavik's fishing industry.",
+                  "category": "museum",
+                  "coords": [
+                        -22.432283,
+                        63.83962
+                  ]
+            },
+            {
+                  "name": "Lágafell",
+                  "text": "Small volcanic crater near Grindavík, easy hiking trail close to the Blue Lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        -22.45762,
+                        63.85632
+                  ]
+            },
+            {
+                  "name": "Þorbjörn",
+                  "text": "Volcanic mountain on the Reykjanes Peninsula near Grindavik.",
+                  "category": "natural",
+                  "coords": [
+                        -22.44095,
+                        63.864283
+                  ]
+            },
+            {
+                  "name": "Reykjanes awakens",
+                  "text": "An exhibition documenting the volcanic eruptions on Reykjanes since 2021.",
+                  "category": "museum",
+                  "coords": [
+                        -22.435212,
+                        63.844105
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Grindavík", hu: "Grindavík", ro: "Grindavík", en: "Grindavík"},
@@ -6639,7 +7845,7 @@ imageHint: "Grindavik harbor with fishing boats",
             },
             {
                   "name": "Brúarnesti",
-                  "text": "Historische Überreste und Ruinen in der Nähe von Ísafjörður.",
+                  "text": "Ein erhaltenes Holzhaus aus dem 19. Jahrhundert, einst Wohnhaus eines örtlichen Kaufmanns.",
                   "category": "historical",
                   "coords": [
                         -23.174413,
@@ -6704,7 +7910,7 @@ imageHint: "Grindavik harbor with fishing boats",
             },
             {
                   "name": "Brúarnesti",
-                  "text": "Történelmi maradványok és romok Ísafjörður közelében.",
+                  "text": "Egy megőrzött 19. századi faház, egykor helyi kereskedő otthona.",
                   "category": "historical",
                   "coords": [
                         -23.174413,
@@ -6769,7 +7975,7 @@ imageHint: "Grindavik harbor with fishing boats",
             },
             {
                   "name": "Brúarnesti",
-                  "text": "Rămășițe istorice și ruine situate în apropiere de Ísafjörður.",
+                  "text": "O casă de lemn conservată din secolul al XIX-lea, cândva locuința unui comerciant local.",
                   "category": "historical",
                   "coords": [
                         -23.174413,
@@ -6834,7 +8040,7 @@ imageHint: "Grindavik harbor with fishing boats",
             },
             {
                   "name": "Brúarnesti",
-                  "text": "Historical remains and ruins located near Ísafjörður.",
+                  "text": "A preserved 19th-century timber house, once home to a local merchant.",
                   "category": "historical",
                   "coords": [
                         -23.174413,
@@ -6928,7 +8134,7 @@ imageHint: "Isafjordur town view from above the fjord",
             },
             {
                   "name": "Ernan (Wrack)",
-                  "text": "Die Überreste eines Schiffswracks in der Nähe von Sauðárkrókur.",
+                  "text": "Die rostenden Überreste eines Fischerbootes, die bei Ebbe auf den Wattflächen sichtbar sind.",
                   "category": "landmark",
                   "coords": [
                         -19.609374,
@@ -6957,7 +8163,7 @@ imageHint: "Isafjordur town view from above the fjord",
             },
             {
                   "name": "Ernan (skipsflak)",
-                  "text": "Egy hajóroncs maradványai Sauðárkrókur közelében.",
+                  "text": "Egy halászhajó rozsdásodó roncsai, amelyek apálykor láthatók az árapálysíkságon.",
                   "category": "landmark",
                   "coords": [
                         -19.609374,
@@ -6986,7 +8192,7 @@ imageHint: "Isafjordur town view from above the fjord",
             },
             {
                   "name": "Ernan (skipsflak)",
-                  "text": "Rămășițele unei epave lângă Sauðárkrókur.",
+                  "text": "Rămășițele ruginite ale unei nave de pescuit, vizibile pe platourile de maree la reflux.",
                   "category": "landmark",
                   "coords": [
                         -19.609374,
@@ -7015,7 +8221,7 @@ imageHint: "Isafjordur town view from above the fjord",
             },
             {
                   "name": "Ernan (Shipwreck)",
-                  "text": "The remains of a shipwreck near Sauðárkrókur.",
+                  "text": "The rusting remains of a fishing vessel, visible on the tidal flats.",
                   "category": "landmark",
                   "coords": [
                         -19.609374,
@@ -7082,7 +8288,7 @@ imageHint: "Saudarkrokur town and the fjord",
       "de": [
             {
                   "name": "Listasafn Árnesinga",
-                  "text": "Ein Kunstmuseum in Hveragerði.",
+                  "text": "Ein Museum für zeitgenössische Kunst in einem Gewächshaus-Stil-Gebäude in der geothermischen Stadt.",
                   "category": "museum",
                   "coords": [
                         -21.185016,
@@ -7091,7 +8297,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Leirgerður",
-                  "text": "Eine lokale Attraktion in Hveragerði.",
+                  "text": "Geothermische heiße Quelle in Hveragerdi.",
                   "category": "landmark",
                   "coords": [
                         -21.180823,
@@ -7100,7 +8306,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Hverasvæði",
-                  "text": "Eine geothermische Attraktion in Hveragerði.",
+                  "text": "Eine heiße Quelle, die mehrmals täglich ausbricht, umgeben von dampfenden Schloten.",
                   "category": "landmark",
                   "coords": [
                         -21.188641,
@@ -7111,7 +8317,7 @@ imageHint: "Saudarkrokur town and the fjord",
       "hu": [
             {
                   "name": "Listasafn Árnesinga",
-                  "text": "Művészeti múzeum Hveragerðiben.",
+                  "text": "Kortárs művészeti múzeum egy üvegház stílusú épületben a geotermikus városban.",
                   "category": "museum",
                   "coords": [
                         -21.185016,
@@ -7120,7 +8326,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Leirgerður",
-                  "text": "Helyi látványosság Hveragerðiben.",
+                  "text": "Geotermikus forró forrás Hveragerdiban.",
                   "category": "landmark",
                   "coords": [
                         -21.180823,
@@ -7129,7 +8335,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Hverasvæði",
-                  "text": "Geotermikus látványosság Hveragerðiben.",
+                  "text": "Egy forró forrás, amely naponta többször kitör, gőzölgő nyílásokkal körülvéve.",
                   "category": "landmark",
                   "coords": [
                         -21.188641,
@@ -7140,7 +8346,7 @@ imageHint: "Saudarkrokur town and the fjord",
       "ro": [
             {
                   "name": "Listasafn Árnesinga",
-                  "text": "Un muzeu de artă în Hveragerði.",
+                  "text": "Un muzeu de artă contemporană într-o clădire în stil seră din orașul geotermal.",
                   "category": "museum",
                   "coords": [
                         -21.185016,
@@ -7149,7 +8355,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Leirgerður",
-                  "text": "O atracție locală în Hveragerði.",
+                  "text": "Izvor termal geotermal în Hveragerdi.",
                   "category": "landmark",
                   "coords": [
                         -21.180823,
@@ -7158,7 +8364,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Hverasvæði",
-                  "text": "O atracție geotermală în Hveragerði.",
+                  "text": "Un izvor termal care erupe de mai multe ori pe zi, înconjurat de guri aburinde.",
                   "category": "landmark",
                   "coords": [
                         -21.188641,
@@ -7169,7 +8375,7 @@ imageHint: "Saudarkrokur town and the fjord",
       "en": [
             {
                   "name": "LA Art Museum",
-                  "text": "An art museum in Hveragerði.",
+                  "text": "A contemporary art museum set in a greenhouse-style building in the geothermal town.",
                   "category": "museum",
                   "coords": [
                         -21.185016,
@@ -7178,7 +8384,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Leirgerður",
-                  "text": "A local attraction in Hveragerði.",
+                  "text": "Geothermal hot spring in Hveragerdi.",
                   "category": "landmark",
                   "coords": [
                         -21.180823,
@@ -7187,7 +8393,7 @@ imageHint: "Saudarkrokur town and the fjord",
             },
             {
                   "name": "Eternity Geysir",
-                  "text": "A geothermal attraction in Hveragerði.",
+                  "text": "A hot spring that erupts several times a day, surrounded by steaming vents.",
                   "category": "landmark",
                   "coords": [
                         -21.188641,
@@ -7245,7 +8451,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
       "de": [
             {
                   "name": "Hvalasafnið á Húsavík",
-                  "text": "Das Húsavík Whale Museum ist ein Schifffahrtsmuseum, das sich mit der Ökologie der Wale in Húsavík befasst.",
+                  "text": "Walmuseum in Húsavík.",
                   "category": "museum",
                   "coords": [
                         -17.344713,
@@ -7263,7 +8469,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurviti",
-                  "text": "Húsavíkurviti ist ein Leuchtturm, der der Küstenschifffahrt in Húsavík dient.",
+                  "text": "Leuchtturm im Hafen von Húsavík.",
                   "category": "landmark",
                   "coords": [
                         -17.362192,
@@ -7272,7 +8478,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Safnahúsið",
-                  "text": "The Culture House ist ein lokales Museum, das das Erbe von Húsavík bewahrt.",
+                  "text": "Ein Museum für regionale Kultur mit maritimen Exponaten und einem Walskelett.",
                   "category": "museum",
                   "coords": [
                         -17.337114,
@@ -7281,7 +8487,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurfjall",
-                  "text": "Húsavíkurfjall ist ein markanter Berggipfel in der Nähe der Stadt Húsavík.",
+                  "text": "417 m hoher Berg über Húsavík mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         -17.30155,
@@ -7290,7 +8496,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "North Sailing",
-                  "text": "North Sailing ist eine Touristenattraktion, die Aktivitäten in Húsavík anbietet.",
+                  "text": "Der Abfahrtsort für Walbeobachtungstouren in die Skjálfandi-Bucht.",
                   "category": "landmark",
                   "coords": [
                         -17.343646,
@@ -7310,7 +8516,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
       "hu": [
             {
                   "name": "Hvalasafnið á Húsavík",
-                  "text": "A Húsavíki Bálnamúzeum a bálnák ökológiájára összpontosító tengerészeti múzeum Húsavíkban.",
+                  "text": "Bálnamúzeum Húsavíkban.",
                   "category": "museum",
                   "coords": [
                         -17.344713,
@@ -7328,7 +8534,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurviti",
-                  "text": "A Húsavíkurviti egy világítótorony, amely a part menti navigációt segíti Húsavíkban.",
+                  "text": "Világítótorony Húsavík kikötőjében.",
                   "category": "landmark",
                   "coords": [
                         -17.362192,
@@ -7337,7 +8543,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Safnahúsið",
-                  "text": "A The Culture House egy helyi múzeum, amely Húsavík örökségét őrzi.",
+                  "text": "Regionális kulturális múzeum, tengeri kiállításokkal és egy bálna csontvázzal.",
                   "category": "museum",
                   "coords": [
                         -17.337114,
@@ -7346,7 +8552,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurfjall",
-                  "text": "A Húsavíkurfjall egy jelentős hegycsúcs Húsavík városa közelében.",
+                  "text": "A Húsavík felett 417 m magasra emelkedő hegy, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -17.30155,
@@ -7355,7 +8561,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "North Sailing",
-                  "text": "A North Sailing egy turisztikai látványosság, amely programokat kínál Húsavíkban.",
+                  "text": "A bálnaleső túrák indulási pontja a Skjálfandi-öbölbe.",
                   "category": "landmark",
                   "coords": [
                         -17.343646,
@@ -7375,7 +8581,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
       "ro": [
             {
                   "name": "Hvalasafnið á Húsavík",
-                  "text": "Muzeul Balenelor din Húsavík este un muzeu maritim dedicat ecologiei balenelor din Húsavík.",
+                  "text": "Muzeul balenelor din Húsavík.",
                   "category": "museum",
                   "coords": [
                         -17.344713,
@@ -7393,7 +8599,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurviti",
-                  "text": "Húsavíkurviti este un far care ghidează navigația de coastă în Húsavík.",
+                  "text": "Far în portul din Húsavík.",
                   "category": "landmark",
                   "coords": [
                         -17.362192,
@@ -7402,7 +8608,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Safnahúsið",
-                  "text": "The Culture House este un muzeu local care păstrează moștenirea din Húsavík.",
+                  "text": "Un muzeu al culturii regionale, cu exponate maritime și un schelet de balenă.",
                   "category": "museum",
                   "coords": [
                         -17.337114,
@@ -7411,7 +8617,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurfjall",
-                  "text": "Húsavíkurfjall este un vârf montan notabil situat lângă orașul Húsavík.",
+                  "text": "Munte înalt de 417 m deasupra Húsavíkur, cu vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         -17.30155,
@@ -7420,7 +8626,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "North Sailing",
-                  "text": "North Sailing este o atracție turistică care oferă activități în Húsavík.",
+                  "text": "Punctul de plecare pentru tururile de observare a balenelor în golful Skjálfandi.",
                   "category": "landmark",
                   "coords": [
                         -17.343646,
@@ -7440,7 +8646,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
       "en": [
             {
                   "name": "The Húsavík Whale Museum",
-                  "text": "The Húsavík Whale Museum is a dedicated maritime museum focusing on whale ecology in Húsavík.",
+                  "text": "Whale museum in Húsavík.",
                   "category": "museum",
                   "coords": [
                         -17.344713,
@@ -7458,7 +8664,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurviti",
-                  "text": "Húsavíkurviti is a lighthouse guiding coastal navigation in Húsavík.",
+                  "text": "Lighthouse in the port of Húsavík.",
                   "category": "landmark",
                   "coords": [
                         -17.362192,
@@ -7467,7 +8673,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "The Culture House",
-                  "text": "The Culture House is a local museum preserving the heritage of Húsavík.",
+                  "text": "A museum of regional culture, featuring maritime exhibits and a whale skeleton.",
                   "category": "museum",
                   "coords": [
                         -17.337114,
@@ -7476,7 +8682,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "Húsavíkurfjall",
-                  "text": "Húsavíkurfjall is a notable mountain peak located near the town of Húsavík.",
+                  "text": "Mountain rising 417 m above Húsavík, offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         -17.30155,
@@ -7485,7 +8691,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
             },
             {
                   "name": "North Sailing",
-                  "text": "North Sailing is a tourist attraction offering activities in Húsavík.",
+                  "text": "The departure point for whale watching tours into Skjálfandi Bay.",
                   "category": "landmark",
                   "coords": [
                         -17.343646,
@@ -7552,7 +8758,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
       "de": [
             {
                   "name": "Andakíll",
-                  "text": "Andakíll ist ein bedeutendes Naturschutzgebiet in der Nähe von Borgarnes.",
+                  "text": "Ein malerisches Flusstal mit Wanderwegen und Lachsfischen.",
                   "category": "natural",
                   "coords": [
                         -21.789438,
@@ -7561,7 +8767,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Safnahús Borgarfjarðar",
-                  "text": "Das Safnahús Borgarfjarðar ist ein Museum für regionale Kulturgeschichte in Borgarnes.",
+                  "text": "Ein Regionalmuseum, das die Geschichte und Kultur des Borgarfjörður zeigt.",
                   "category": "museum",
                   "coords": [
                         -21.920341,
@@ -7570,7 +8776,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Landnámssetur Íslands",
-                  "text": "The Settlement Center ist ein Museum in Borgarnes, das sich mit der Besiedlungsgeschichte Islands befasst.",
+                  "text": "Ein interaktives Museum über die Besiedlung Islands durch die Wikinger und die Sagas.",
                   "category": "museum",
                   "coords": [
                         -21.923204,
@@ -7579,7 +8785,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Skallagrímsgarður",
-                  "text": "Skallagrímsgarður ist ein bekannter öffentlicher Park in Borgarnes.",
+                  "text": "Skallagrímsgarður-Park in Borgarnes.",
                   "category": "park",
                   "coords": [
                         -21.920364,
@@ -7588,7 +8794,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Gamli Sparisjóðurinn",
-                  "text": "Gamli Sparisjóðurinn ist eine historische Sehenswürdigkeit in Borgarnes.",
+                  "text": "Ein historisches Holzhaus von 1900, die alte Sparkasse von Borgarnes.",
                   "category": "landmark",
                   "coords": [
                         -21.925133,
@@ -7597,7 +8803,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Borgarkirkja",
-                  "text": "Die Borgarkirkja ist eine Kirche und ein Ort der Andacht in Borgarnes.",
+                  "text": "Kirche in Borgarnes mit Blick auf den Fjord.",
                   "category": "religious",
                   "coords": [
                         -21.915772,
@@ -7617,7 +8823,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
       "hu": [
             {
                   "name": "Andakíll",
-                  "text": "Az Andakíll egy jelentős természetvédelmi terület Borgarnes közelében.",
+                  "text": "Festői folyóvölgy túraútvonalakkal és lazachorgászattal.",
                   "category": "natural",
                   "coords": [
                         -21.789438,
@@ -7626,7 +8832,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Safnahús Borgarfjarðar",
-                  "text": "A Safnahús Borgarfjarðar egy regionális kultúrtörténeti múzeum Borgarnesben.",
+                  "text": "Regionális múzeum, amely Borgarfjörður történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         -21.920341,
@@ -7635,7 +8841,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Landnámssetur Íslands",
-                  "text": "A The Settlement Center egy múzeum Borgarnesben, amely Izland betelepülésének történetét mutatja be.",
+                  "text": "Interaktív múzeum Izland viking betelepítéséről és a sagákról.",
                   "category": "museum",
                   "coords": [
                         -21.923204,
@@ -7644,7 +8850,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Skallagrímsgarður",
-                  "text": "A Skallagrímsgarður egy ismert közpark Borgarnes városában.",
+                  "text": "Skallagrímsgarður park Borgarnesben.",
                   "category": "park",
                   "coords": [
                         -21.920364,
@@ -7653,7 +8859,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Gamli Sparisjóðurinn",
-                  "text": "A Gamli Sparisjóðurinn egy történelmi látványosság Borgarnesben.",
+                  "text": "Történelmi faház 1900-ból, Borgarnes régi takarékpénztára.",
                   "category": "landmark",
                   "coords": [
                         -21.925133,
@@ -7662,7 +8868,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Borgarkirkja",
-                  "text": "A Borgarkirkja egy templom és imádkozóhely Borgarnesben.",
+                  "text": "Templom Borgarnesben, a fjordra néző kilátással.",
                   "category": "religious",
                   "coords": [
                         -21.915772,
@@ -7682,7 +8888,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
       "ro": [
             {
                   "name": "Andakíll",
-                  "text": "Andakíll este o importantă rezervație naturală în apropiere de Borgarnes.",
+                  "text": "O vale pitorească a râului cu trasee de mers pe jos și pescuit de somon.",
                   "category": "natural",
                   "coords": [
                         -21.789438,
@@ -7691,7 +8897,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Safnahús Borgarfjarðar",
-                  "text": "Safnahús Borgarfjarðar este un muzeu dedicat istoriei culturale regionale din Borgarnes.",
+                  "text": "Un muzeu regional care prezintă istoria și cultura din Borgarfjörður.",
                   "category": "museum",
                   "coords": [
                         -21.920341,
@@ -7700,7 +8906,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Landnámssetur Íslands",
-                  "text": "The Settlement Center este un muzeu din Borgarnes care prezintă istoria colonizării Islandei.",
+                  "text": "Un muzeu interactiv despre așezarea vikingă a Islandei și despre sagă.",
                   "category": "museum",
                   "coords": [
                         -21.923204,
@@ -7709,7 +8915,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Skallagrímsgarður",
-                  "text": "Skallagrímsgarður este un parc public bine-cunoscut din orașul Borgarnes.",
+                  "text": "Parcul Skallagrímsgarður în Borgarnes.",
                   "category": "park",
                   "coords": [
                         -21.920364,
@@ -7718,7 +8924,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Gamli Sparisjóðurinn",
-                  "text": "Gamli Sparisjóðurinn este o atracție istorică din Borgarnes.",
+                  "text": "O clădire istorică de lemn din 1900, vechea bancă de economii din Borgarnes.",
                   "category": "landmark",
                   "coords": [
                         -21.925133,
@@ -7727,7 +8933,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Borgarkirkja",
-                  "text": "Borgarkirkja este o biserică și un lăcaș de cult din Borgarnes.",
+                  "text": "Biserică în Borgarnes, cu vedere spre fiord.",
                   "category": "religious",
                   "coords": [
                         -21.915772,
@@ -7747,7 +8953,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
       "en": [
             {
                   "name": "Andakíll",
-                  "text": "Andakíll is a significant nature reserve located near Borgarnes.",
+                  "text": "A scenic river valley with walking trails and salmon fishing.",
                   "category": "natural",
                   "coords": [
                         -21.789438,
@@ -7756,7 +8962,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Safnahús Borgarfjarðar",
-                  "text": "Safnahús Borgarfjarðar is a museum dedicated to regional cultural history in Borgarnes.",
+                  "text": "A regional museum showcasing the history and culture of Borgarfjörður.",
                   "category": "museum",
                   "coords": [
                         -21.920341,
@@ -7765,7 +8971,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "The Settlement Center",
-                  "text": "The Settlement Center is a museum in Borgarnes that explores the history of Iceland's settlement.",
+                  "text": "An interactive museum about the Viking settlement of Iceland and the Sagas.",
                   "category": "museum",
                   "coords": [
                         -21.923204,
@@ -7774,7 +8980,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Skallagrímsgarður",
-                  "text": "Skallagrímsgarður is a well-known public park located in the town of Borgarnes.",
+                  "text": "Skallagrímsgarður park in Borgarnes.",
                   "category": "park",
                   "coords": [
                         -21.920364,
@@ -7783,7 +8989,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Gamli Sparisjóðurinn",
-                  "text": "Gamli Sparisjóðurinn is a historical attraction in Borgarnes.",
+                  "text": "A historic timber building from 1900, the old savings bank of Borgarnes.",
                   "category": "landmark",
                   "coords": [
                         -21.925133,
@@ -7792,7 +8998,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
             },
             {
                   "name": "Borgarkirkja",
-                  "text": "Borgarkirkja is a church and place of worship located in Borgarnes.",
+                  "text": "Church in Borgarnes overlooking the fjord.",
                   "category": "religious",
                   "coords": [
                         -21.915772,
@@ -7905,7 +9111,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
       "de": [
             {
                   "name": "Hellir",
-                  "text": "Der Hellir ist ein Leuchtturm in Höfn.",
+                  "text": "Natürliche Höhle in der Vatnajökull-Region nahe Hofn.",
                   "category": "landmark",
                   "coords": [
                         -15.185708,
@@ -7914,7 +9120,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hvanneyjarviti",
-                  "text": "Der Hvanneyjarviti ist ein Leuchtturm in Höfn.",
+                  "text": "Leuchtturm an der Südküste nahe Hofn.",
                   "category": "landmark",
                   "coords": [
                         -15.187388,
@@ -7923,7 +9129,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Svavarssafn - Listasafn",
-                  "text": "Das Svavarssafn ist ein Museum in Höfn.",
+                  "text": "Ein Kunstmuseum, das den Werken des Malers Svavar Guðnason gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -15.211652,
@@ -7932,7 +9138,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Ósland",
-                  "text": "Ósland ist ein Naturschutzgebiet in Höfn.",
+                  "text": "Ein Küstennaturschutzgebiet mit Vogelbeobachtung und Blick auf den Vatnajökull-Gletscher.",
                   "category": "natural",
                   "coords": [
                         -15.206781,
@@ -7941,7 +9147,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hornafjörður",
-                  "text": "Der Hornafjörður ist ein Leuchtturm in Höfn.",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Hornafjörður und die umliegenden Berge.",
                   "category": "landmark",
                   "coords": [
                         -15.200399,
@@ -7952,7 +9158,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
       "hu": [
             {
                   "name": "Hellir",
-                  "text": "A Hellir egy világítótorony Höfnben.",
+                  "text": "Természetes barlang a Vatnajökull régióban Hofn közelében.",
                   "category": "landmark",
                   "coords": [
                         -15.185708,
@@ -7961,7 +9167,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hvanneyjarviti",
-                  "text": "A Hvanneyjarviti egy világítótorony Höfnben.",
+                  "text": "Világítótorony a déli parton Hofn közelében.",
                   "category": "landmark",
                   "coords": [
                         -15.187388,
@@ -7970,7 +9176,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Svavarssafn - Listasafn",
-                  "text": "A Svavarssafn egy múzeum Höfnben.",
+                  "text": "Művészeti múzeum, amely Svavar Guðnason festő munkáinak szentelt.",
                   "category": "museum",
                   "coords": [
                         -15.211652,
@@ -7979,7 +9185,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Ósland",
-                  "text": "Ósland egy természetvédelmi terület Höfnben.",
+                  "text": "Tengerparti természetvédelmi terület madármegfigyeléssel és kilátással a Vatnajökull gleccserre.",
                   "category": "natural",
                   "coords": [
                         -15.206781,
@@ -7988,7 +9194,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hornafjörður",
-                  "text": "A Hornafjörður egy világítótorony Höfnben.",
+                  "text": "Kilátó, amely a Hornafjörður fjordra és a környező hegyekre nyújt kilátást.",
                   "category": "landmark",
                   "coords": [
                         -15.200399,
@@ -7999,7 +9205,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
       "ro": [
             {
                   "name": "Hellir",
-                  "text": "Hellir este un far în Höfn.",
+                  "text": "Peșteră naturală în regiunea Vatnajökull lângă Hofn.",
                   "category": "landmark",
                   "coords": [
                         -15.185708,
@@ -8008,7 +9214,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hvanneyjarviti",
-                  "text": "Hvanneyjarviti este un far în Höfn.",
+                  "text": "Far pe coasta de sud lângă Hofn.",
                   "category": "landmark",
                   "coords": [
                         -15.187388,
@@ -8017,7 +9223,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Svavarssafn - Listasafn",
-                  "text": "Svavarssafn este un muzeu în Höfn.",
+                  "text": "Un muzeu de artă dedicat operelor pictorului Svavar Guðnason.",
                   "category": "museum",
                   "coords": [
                         -15.211652,
@@ -8026,7 +9232,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Ósland",
-                  "text": "Ósland este o rezervație naturală în Höfn.",
+                  "text": "O rezervație naturală de coastă cu observarea păsărilor și vedere asupra ghețarului Vatnajökull.",
                   "category": "natural",
                   "coords": [
                         -15.206781,
@@ -8035,7 +9241,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hornafjörður",
-                  "text": "Hornafjörður este un far în Höfn.",
+                  "text": "Un punct de belvedere care oferă vedere asupra fiordului Hornafjörður și a munților din jur.",
                   "category": "landmark",
                   "coords": [
                         -15.200399,
@@ -8046,7 +9252,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
       "en": [
             {
                   "name": "Hellir",
-                  "text": "Hellir is a lighthouse in Höfn.",
+                  "text": "Natural cave in the Vatnajökull region near Hofn.",
                   "category": "landmark",
                   "coords": [
                         -15.185708,
@@ -8055,7 +9261,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hvanneyjarviti",
-                  "text": "Hvanneyjarviti is a lighthouse in Höfn.",
+                  "text": "Lighthouse on the south coast near Hofn.",
                   "category": "landmark",
                   "coords": [
                         -15.187388,
@@ -8064,7 +9270,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Svavarssafn - Listasafn",
-                  "text": "Svavarssafn is a museum in Höfn.",
+                  "text": "An art museum dedicated to the works of painter Svavar Guðnason.",
                   "category": "museum",
                   "coords": [
                         -15.211652,
@@ -8073,7 +9279,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Ósland",
-                  "text": "Ósland is a nature reserve in Höfn.",
+                  "text": "A coastal nature reserve with birdwatching and views of Vatnajökull glacier.",
                   "category": "natural",
                   "coords": [
                         -15.206781,
@@ -8082,7 +9288,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
             },
             {
                   "name": "Hornafjörður",
-                  "text": "Hornafjörður is a lighthouse in Höfn.",
+                  "text": "A viewpoint overlooking the Hornafjörður fjord and the surrounding mountains.",
                   "category": "landmark",
                   "coords": [
                         -15.200399,
@@ -8267,7 +9473,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
       "de": [
             {
                   "name": "Hvoll",
-                  "text": "Ein Heimatmuseum in Dalvík.",
+                  "text": "Ein kleines Bauernmuseum mit Gegenständen aus der landwirtschaftlichen Geschichte von Dalvík.",
                   "category": "museum",
                   "coords": [
                         -18.532794,
@@ -8276,7 +9482,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Böggvistaðafjall",
-                  "text": "Ein Berg und Naturschutzgebiet bei Dalvík.",
+                  "text": "Ein Berggipfel mit Wanderwegen und Aussicht über den Eyjafjörður.",
                   "category": "natural",
                   "coords": [
                         -18.568784,
@@ -8285,7 +9491,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Svarfaðardalur",
-                  "text": "Ein Naturschutzgebiet in einem Tal bei Dalvík.",
+                  "text": "Das grüne Tal Svarfaðardalur bei Dalvík, umgeben von Bergen.",
                   "category": "natural",
                   "coords": [
                         -18.526118,
@@ -8296,7 +9502,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
       "hu": [
             {
                   "name": "Hvoll",
-                  "text": "Helytörténeti múzeum Dalvíkban.",
+                  "text": "Kis tanyamúzeum Dalvík mezőgazdasági történetének tárgyaival.",
                   "category": "museum",
                   "coords": [
                         -18.532794,
@@ -8305,7 +9511,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Böggvistaðafjall",
-                  "text": "Hegy és természetvédelmi terület Dalvík közelében.",
+                  "text": "Hegycsúcs túraútvonalakkal és kilátással az Eyjafjörðurre.",
                   "category": "natural",
                   "coords": [
                         -18.568784,
@@ -8314,7 +9520,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Svarfaðardalur",
-                  "text": "Természetvédelmi terület egy völgyben Dalvík közelében.",
+                  "text": "A Svarfaðardalur zöld völgye Dalvík mellett, hegyekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -18.526118,
@@ -8325,7 +9531,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
       "ro": [
             {
                   "name": "Hvoll",
-                  "text": "Un muzeu de istorie locală în Dalvík.",
+                  "text": "Un mic muzeu al fermei cu artefacte din istoria agricolă a orașului Dalvík.",
                   "category": "museum",
                   "coords": [
                         -18.532794,
@@ -8334,7 +9540,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Böggvistaðafjall",
-                  "text": "Un munte și o rezervație naturală lângă Dalvík.",
+                  "text": "Un vârf de munte cu trasee de drumeție și vedere asupra fiordului Eyjafjörður.",
                   "category": "natural",
                   "coords": [
                         -18.568784,
@@ -8343,7 +9549,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Svarfaðardalur",
-                  "text": "O rezervație naturală într-o vale lângă Dalvík.",
+                  "text": "Valea verde Svarfaðardalur lângă Dalvík, înconjurată de munți.",
                   "category": "natural",
                   "coords": [
                         -18.526118,
@@ -8354,7 +9560,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
       "en": [
             {
                   "name": "Hvoll",
-                  "text": "A local folk museum in Dalvík.",
+                  "text": "A small farm museum with artifacts from Dalvik's agricultural history.",
                   "category": "museum",
                   "coords": [
                         -18.532794,
@@ -8363,7 +9569,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Böggvistaðafjall",
-                  "text": "A mountain and nature reserve near Dalvík.",
+                  "text": "A mountain peak offering hiking trails and views over Eyjafjörður.",
                   "category": "natural",
                   "coords": [
                         -18.568784,
@@ -8372,7 +9578,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
             },
             {
                   "name": "Svarfaðardalur",
-                  "text": "A nature reserve in a valley near Dalvík.",
+                  "text": "Svarfaðardalur, a green valley near Dalvík surrounded by mountains.",
                   "category": "natural",
                   "coords": [
                         -18.526118,
@@ -8476,7 +9682,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
       "de": [
             {
                   "name": "Súgandisey",
-                  "text": "Súgandisey ist ein Leuchtturm in Stykkishólmur.",
+                  "text": "Kleine Insel im Hafen von Stykkishólmur.",
                   "category": "landmark",
                   "coords": [
                         -22.723322,
@@ -8485,7 +9691,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Skipavík",
-                  "text": "Skipavík ist ein Leuchtturm in Stykkishólmur.",
+                  "text": "Die Bucht Skipavík in Stykkishólmur, ein natürlicher Hafen.",
                   "category": "landmark",
                   "coords": [
                         -22.756182,
@@ -8494,7 +9700,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Æðarsetur Íslands",
-                  "text": "Das Eider Duck Museum ist ein Museum in Stykkishólmur.",
+                  "text": "Das Eiderenten-Museum in Stykkishólmur über die Daunengewinnung.",
                   "category": "museum",
                   "coords": [
                         -22.727603,
@@ -8503,7 +9709,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Vatnasafn",
-                  "text": "Die Library of Water ist ein Museum in Stykkishólmur.",
+                  "text": "Die Bibliothek des Wassers in Stykkishólmur zeigt Gletscherwasserproben.",
                   "category": "museum",
                   "coords": [
                         -22.728731,
@@ -8512,7 +9718,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Íþróttamiðstöð",
-                  "text": "Íþróttamiðstöð ist ein Wasserpark in Stykkishólmur.",
+                  "text": "Das Sportzentrum Íþróttamiðstöð in Stykkishólmur mit Hallenbad.",
                   "category": "family",
                   "coords": [
                         -22.72936,
@@ -8521,7 +9727,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Helgafell",
-                  "text": "Helgafell ist ein Gipfel in Stykkishólmur, bekannt für seine Sagen.",
+                  "text": "Berg Helgafell auf der Halbinsel Snæfellsnes bei Stykkishólmur.",
                   "category": "natural",
                   "coords": [
                         -22.72895,
@@ -8532,7 +9738,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
       "hu": [
             {
                   "name": "Súgandisey",
-                  "text": "A Súgandisey egy világítótorony Stykkishólmurban.",
+                  "text": "Kis sziget Stykkishólmur kikötőjében.",
                   "category": "landmark",
                   "coords": [
                         -22.723322,
@@ -8541,7 +9747,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Skipavík",
-                  "text": "A Skipavík egy világítótorony Stykkishólmurban.",
+                  "text": "Skipavík öble Stykkishólmurban, egy természetes kikötő.",
                   "category": "landmark",
                   "coords": [
                         -22.756182,
@@ -8550,7 +9756,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Æðarsetur Íslands",
-                  "text": "Az Eider Duck Museum egy múzeum Stykkishólmurban.",
+                  "text": "A pehelykacsa-múzeum Stykkishólmurban a pehelytermelésről.",
                   "category": "museum",
                   "coords": [
                         -22.727603,
@@ -8559,7 +9765,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Vatnasafn",
-                  "text": "A Library of Water egy múzeum Stykkishólmurban.",
+                  "text": "A Víz Könyvtára Stykkishólmurban gleccservíz-mintákat mutat be.",
                   "category": "museum",
                   "coords": [
                         -22.728731,
@@ -8568,7 +9774,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Íþróttamiðstöð",
-                  "text": "Az Íþróttamiðstöð egy vízi park Stykkishólmurban.",
+                  "text": "Az Íþróttamiðstöð sportközpont Stykkishólmurban uszodával.",
                   "category": "family",
                   "coords": [
                         -22.72936,
@@ -8577,7 +9783,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Helgafell",
-                  "text": "Helgafell egy hegycsúcs Stykkishólmur közelében, amely a sagákról ismert.",
+                  "text": "Helgafell-hegy a Snæfellsnes-félszigeten, Stykkishólmur közelében.",
                   "category": "natural",
                   "coords": [
                         -22.72895,
@@ -8588,7 +9794,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
       "ro": [
             {
                   "name": "Súgandisey",
-                  "text": "Súgandisey este un far în Stykkishólmur.",
+                  "text": "Insulă mică în portul din Stykkisholmur.",
                   "category": "landmark",
                   "coords": [
                         -22.723322,
@@ -8597,7 +9803,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Skipavík",
-                  "text": "Skipavík este un far în Stykkishólmur.",
+                  "text": "Golful Skipavík din Stykkishólmur, un port natural.",
                   "category": "landmark",
                   "coords": [
                         -22.756182,
@@ -8606,7 +9812,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Æðarsetur Íslands",
-                  "text": "Muzeul Eider Duck este un muzeu în Stykkishólmur.",
+                  "text": "Muzeul rațelor eider din Stykkishólmur despre producția de puf.",
                   "category": "museum",
                   "coords": [
                         -22.727603,
@@ -8615,7 +9821,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Vatnasafn",
-                  "text": "Library of Water este un muzeu în Stykkishólmur.",
+                  "text": "Biblioteca Apei din Stykkishólmur prezintă mostre de apă glaciară.",
                   "category": "museum",
                   "coords": [
                         -22.728731,
@@ -8624,7 +9830,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Íþróttamiðstöð",
-                  "text": "Íþróttamiðstöð este un parc acvatic în Stykkishólmur.",
+                  "text": "Centrul sportiv Íþróttamiðstöð din Stykkishólmur cu piscină interioară.",
                   "category": "family",
                   "coords": [
                         -22.72936,
@@ -8633,7 +9839,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Helgafell",
-                  "text": "Helgafell este un vârf muntos în Stykkishólmur, cunoscut din saga.",
+                  "text": "Muntele Helgafell pe peninsula Snæfellsnes, lângă Stykkishólmur.",
                   "category": "natural",
                   "coords": [
                         -22.72895,
@@ -8644,7 +9850,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
       "en": [
             {
                   "name": "Súgandisey",
-                  "text": "Súgandisey is a lighthouse in Stykkishólmur.",
+                  "text": "Small island in the harbor of Stykkisholmur.",
                   "category": "landmark",
                   "coords": [
                         -22.723322,
@@ -8653,7 +9859,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Skipavík",
-                  "text": "Skipavík is a lighthouse in Stykkishólmur.",
+                  "text": "Skipavík bay in Stykkishólmur, a natural harbour.",
                   "category": "landmark",
                   "coords": [
                         -22.756182,
@@ -8662,7 +9868,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Eider Duck Museum",
-                  "text": "The Eider Duck Museum is a museum in Stykkishólmur.",
+                  "text": "Eider Duck Museum in Stykkishólmur, dedicated to eiderdown farming.",
                   "category": "museum",
                   "coords": [
                         -22.727603,
@@ -8671,7 +9877,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Library of Water",
-                  "text": "The Library of Water is a museum in Stykkishólmur.",
+                  "text": "Library of Water in Stykkishólmur, featuring water samples from Icelandic glaciers.",
                   "category": "museum",
                   "coords": [
                         -22.728731,
@@ -8680,7 +9886,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Íþróttamiðstöð",
-                  "text": "Íþróttamiðstöð is a water park in Stykkishólmur.",
+                  "text": "Íþróttamiðstöð sports centre in Stykkishólmur with an indoor pool.",
                   "category": "family",
                   "coords": [
                         -22.72936,
@@ -8689,7 +9895,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             },
             {
                   "name": "Helgafell",
-                  "text": "Helgafell is a peak in Stykkishólmur, known from the sagas.",
+                  "text": "Helgafell mountain on the Snæfellsnes peninsula near Stykkishólmur.",
                   "category": "natural",
                   "coords": [
                         -22.72895,
@@ -8931,7 +10137,7 @@ imageHint: "Vogar coastline and residential houses",
       "de": [
             {
                   "name": "Múlastofa",
-                  "text": "Ein Museum in Vopnafjörður.",
+                  "text": "Das Museum Múlastofa in Vopnafjörður zur lokalen Geschichte.",
                   "category": "museum",
                   "coords": [
                         -14.826434,
@@ -8940,7 +10146,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Kolbeinstangi",
-                  "text": "Ein Leuchtturm in Vopnafjörður.",
+                  "text": "Die Landzunge Kolbeinstangi ragt bei Vopnafjörður ins Meer.",
                   "category": "landmark",
                   "coords": [
                         -14.792272,
@@ -8951,7 +10157,7 @@ imageHint: "Vogar coastline and residential houses",
       "hu": [
             {
                   "name": "Múlastofa",
-                  "text": "Múzeum Vopnafjörðurban.",
+                  "text": "A Múlastofa múzeum Vopnafjörðurban a helyi történelemről.",
                   "category": "museum",
                   "coords": [
                         -14.826434,
@@ -8960,7 +10166,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Kolbeinstangi",
-                  "text": "Világítótorony Vopnafjörðurban.",
+                  "text": "A Kolbeinstangi-félsziget Vopnafjörðurnál nyúlik a tengerbe.",
                   "category": "landmark",
                   "coords": [
                         -14.792272,
@@ -8971,7 +10177,7 @@ imageHint: "Vogar coastline and residential houses",
       "ro": [
             {
                   "name": "Múlastofa",
-                  "text": "Un muzeu în Vopnafjörður.",
+                  "text": "Muzeul Múlastofa din Vopnafjörður despre istoria locală.",
                   "category": "museum",
                   "coords": [
                         -14.826434,
@@ -8980,7 +10186,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Kolbeinstangi",
-                  "text": "Un far în Vopnafjörður.",
+                  "text": "Peninsula Kolbeinstangi se întinde în mare lângă Vopnafjörður.",
                   "category": "landmark",
                   "coords": [
                         -14.792272,
@@ -8991,7 +10197,7 @@ imageHint: "Vogar coastline and residential houses",
       "en": [
             {
                   "name": "Múlastofa",
-                  "text": "A museum in Vopnafjörður.",
+                  "text": "Múlastofa museum in Vopnafjörður, showcasing local history.",
                   "category": "museum",
                   "coords": [
                         -14.826434,
@@ -9000,7 +10206,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Kolbeinstangi",
-                  "text": "A lighthouse in Vopnafjörður.",
+                  "text": "Kolbeinstangi peninsula jutting into the sea near Vopnafjörður.",
                   "category": "landmark",
                   "coords": [
                         -14.792272,
@@ -9057,7 +10263,7 @@ imageHint: "Vogar coastline and residential houses",
       "de": [
             {
                   "name": "Saga Centre",
-                  "text": "Ein Museum in Hvolsvöllur.",
+                  "text": "Das Saga-Zentrum in Hvolsvöllur widmet sich der Njáls-Saga.",
                   "category": "museum",
                   "coords": [
                         -20.224996,
@@ -9066,7 +10272,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Lava Centre",
-                  "text": "Eine Attraktion in Hvolsvöllur.",
+                  "text": "Das Lava-Zentrum in Hvolsvöllur zeigt interaktive Vulkanausstellungen.",
                   "category": "landmark",
                   "coords": [
                         -20.236268,
@@ -9077,7 +10283,7 @@ imageHint: "Vogar coastline and residential houses",
       "hu": [
             {
                   "name": "Saga Centre",
-                  "text": "Múzeum Hvolsvöllurban.",
+                  "text": "A Saga Központ Hvolsvöllurban a Njáls-sagának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         -20.224996,
@@ -9086,7 +10292,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Lava Centre",
-                  "text": "Látnivaló Hvolsvöllurban.",
+                  "text": "A Lava Központ Hvolsvöllurban interaktív vulkánkiállításokat kínál.",
                   "category": "landmark",
                   "coords": [
                         -20.236268,
@@ -9097,7 +10303,7 @@ imageHint: "Vogar coastline and residential houses",
       "ro": [
             {
                   "name": "Saga Centre",
-                  "text": "Un muzeu în Hvolsvöllur.",
+                  "text": "Centrul Saga din Hvolsvöllur este dedicat sagăi Njáls.",
                   "category": "museum",
                   "coords": [
                         -20.224996,
@@ -9106,7 +10312,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Lava Centre",
-                  "text": "O atracție în Hvolsvöllur.",
+                  "text": "Centrul Lava din Hvolsvöllur oferă expoziții interactive despre vulcani.",
                   "category": "landmark",
                   "coords": [
                         -20.236268,
@@ -9117,7 +10323,7 @@ imageHint: "Vogar coastline and residential houses",
       "en": [
             {
                   "name": "Saga Centre",
-                  "text": "A museum in Hvolsvöllur.",
+                  "text": "Saga Centre in Hvolsvöllur, a museum dedicated to the Njáls saga.",
                   "category": "museum",
                   "coords": [
                         -20.224996,
@@ -9126,7 +10332,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Lava Centre",
-                  "text": "An attraction in Hvolsvöllur.",
+                  "text": "Lava Centre in Hvolsvöllur, an interactive exhibition on volcanic activity.",
                   "category": "landmark",
                   "coords": [
                         -20.236268,
@@ -9813,7 +11019,7 @@ imageHint: "Vogar coastline and residential houses",
       "de": [
             {
                   "name": "Arnarstapi",
-                  "text": "Ein kleiner Leuchtturm in Arnarstapi.",
+                  "text": "Arnarstapi mit dem natürlichen Felsentor Gatklettur und Basaltsäulen.",
                   "category": "landmark",
                   "coords": [
                         -23.61616,
@@ -9831,7 +11037,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Ströndin við Stapa og Hellna",
-                  "text": "Ein malerisches Naturschutzgebiet an der Küste von Arnarstapi.",
+                  "text": "Der Küstenstreifen zwischen Stapi und Hellnar mit schwarzem Sand.",
                   "category": "natural",
                   "coords": [
                         -23.629479,
@@ -9840,7 +11046,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Stapafell",
-                  "text": "Ein markanter Berggipfel bei Arnarstapi.",
+                  "text": "Vulkanischer Berg auf der Snæfellsnes-Halbinsel bei Arnarstapi.",
                   "category": "natural",
                   "coords": [
                         -23.657833,
@@ -9858,7 +11064,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Eystrigjá",
-                  "text": "Eine natürliche Attraktion in Arnarstapi.",
+                  "text": "Die Schlucht Eystrigjá bei Arnarstapi mit tiefem Spalt zwischen Felsen.",
                   "category": "landmark",
                   "coords": [
                         -23.617764,
@@ -9869,7 +11075,7 @@ imageHint: "Vogar coastline and residential houses",
       "hu": [
             {
                   "name": "Arnarstapi",
-                  "text": "Kisméretű világítótorony Arnarstapiban.",
+                  "text": "Arnarstapi a Gatklettur természetes kőhíddal és bazaltoszlopokkal.",
                   "category": "landmark",
                   "coords": [
                         -23.61616,
@@ -9887,7 +11093,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Ströndin við Stapa og Hellna",
-                  "text": "Festői tengerparti természetvédelmi terület Arnarstapiban.",
+                  "text": "A partvonal Stapi és Hellnar között fekete homokkal.",
                   "category": "natural",
                   "coords": [
                         -23.629479,
@@ -9896,7 +11102,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Stapafell",
-                  "text": "Jellegzetes hegycsúcs Arnarstapi közelében.",
+                  "text": "Vulkáni hegy a Snæfellsnes-félszigeten Arnarstapinál.",
                   "category": "natural",
                   "coords": [
                         -23.657833,
@@ -9914,7 +11120,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Eystrigjá",
-                  "text": "Természeti látványosság Arnarstapiban.",
+                  "text": "Az Eystrigjá-szurdok Arnarstapinál mély hasadékkal a sziklák között.",
                   "category": "landmark",
                   "coords": [
                         -23.617764,
@@ -9925,7 +11131,7 @@ imageHint: "Vogar coastline and residential houses",
       "ro": [
             {
                   "name": "Arnarstapi",
-                  "text": "Un far mic în Arnarstapi.",
+                  "text": "Arnarstapi cu arcul natural Gatklettur și coloane de bazalt.",
                   "category": "landmark",
                   "coords": [
                         -23.61616,
@@ -9943,7 +11149,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Ströndin við Stapa og Hellna",
-                  "text": "O rezervație naturală de coastă pitorească în Arnarstapi.",
+                  "text": "Fâșia de coastă între Stapi și Hellnar cu nisip negru.",
                   "category": "natural",
                   "coords": [
                         -23.629479,
@@ -9952,7 +11158,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Stapafell",
-                  "text": "Un vârf muntos proeminent lângă Arnarstapi.",
+                  "text": "Munte vulcanic pe Peninsula Snæfellsnes lângă Arnarstapi.",
                   "category": "natural",
                   "coords": [
                         -23.657833,
@@ -9970,7 +11176,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Eystrigjá",
-                  "text": "O atracție naturală în Arnarstapi.",
+                  "text": "Canionul Eystrigjá de lângă Arnarstapi cu o crăpătură adâncă între stânci.",
                   "category": "landmark",
                   "coords": [
                         -23.617764,
@@ -9981,7 +11187,7 @@ imageHint: "Vogar coastline and residential houses",
       "en": [
             {
                   "name": "Arnarstapi",
-                  "text": "A small lighthouse in Arnarstapi.",
+                  "text": "Arnarstapi, a coastal village with the Gatklettur stone arch and basalt columns.",
                   "category": "landmark",
                   "coords": [
                         -23.61616,
@@ -9999,7 +11205,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Ströndin við Stapa og Hellna",
-                  "text": "A scenic coastal nature reserve in Arnarstapi.",
+                  "text": "The shoreline between Stapi and Hellnar, a black sand beach.",
                   "category": "natural",
                   "coords": [
                         -23.629479,
@@ -10008,7 +11214,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Stapafell",
-                  "text": "A prominent mountain peak near Arnarstapi.",
+                  "text": "Volcanic mountain on the Snæfellsnes peninsula near Arnarstapi.",
                   "category": "natural",
                   "coords": [
                         -23.657833,
@@ -10026,7 +11232,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Eystrigjá",
-                  "text": "A natural attraction in Arnarstapi.",
+                  "text": "Eystrigjá canyon near Arnarstapi, a deep rift between cliffs.",
                   "category": "landmark",
                   "coords": [
                         -23.617764,
@@ -10083,7 +11289,7 @@ imageHint: "Vogar coastline and residential houses",
       "de": [
             {
                   "name": "Hólmavík",
-                  "text": "Ein kleiner Leuchtturm, der die Schifffahrt vor der Küste von Hólmavík unterstützt.",
+                  "text": "Malerischer Ort Hólmavík am Steingrímsfjörður.",
                   "category": "landmark",
                   "coords": [
                         -21.674611,
@@ -10101,7 +11307,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Borgarvarða",
-                  "text": "Ein Aussichtspunkt in Hólmavík, der einen weiten Blick über den Fjord bietet.",
+                  "text": "Steinhügel auf einem Hügel oberhalb von Hólmavík.",
                   "category": "natural",
                   "coords": [
                         -21.67577,
@@ -10110,7 +11316,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hólmavíkurkirkja",
-                  "text": "Die lutherische Kirche von Hólmavík, die markant auf einem Hügel über dem Ort thront.",
+                  "text": "Holzkirche von 1937 mit rotem Dach und weißen Wänden in Hólmavík.",
                   "category": "religious",
                   "coords": [
                         -21.669915,
@@ -10121,7 +11327,7 @@ imageHint: "Vogar coastline and residential houses",
       "hu": [
             {
                   "name": "Hólmavík",
-                  "text": "Hólmavík partjainál található kis világítótorony, amely a hajózást segíti.",
+                  "text": "Festői város Hólmavík a Steingrímsfjörður partján.",
                   "category": "landmark",
                   "coords": [
                         -21.674611,
@@ -10139,7 +11345,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Borgarvarða",
-                  "text": "Kilátópont Hólmavíkban, ahonnan szép kilátás nyílik a fjorda.",
+                  "text": "Kőkupac egy dombon Hólmavík fölött.",
                   "category": "natural",
                   "coords": [
                         -21.67577,
@@ -10148,7 +11354,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hólmavíkurkirkja",
-                  "text": "Hólmavík evangélikus temploma, amely jellegzetesen emelkedik a település fölé.",
+                  "text": "1937-ben épült fakápolna piros tetővel és fehér falakkal Hólmavíkban.",
                   "category": "religious",
                   "coords": [
                         -21.669915,
@@ -10159,7 +11365,7 @@ imageHint: "Vogar coastline and residential houses",
       "ro": [
             {
                   "name": "Hólmavík",
-                  "text": "Un mic far care asistă navigația în largul coastei Hólmavík.",
+                  "text": "Orașul pitoresc Hólmavík pe malul Steingrímsfjörður.",
                   "category": "landmark",
                   "coords": [
                         -21.674611,
@@ -10177,7 +11383,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Borgarvarða",
-                  "text": "Un punct de belvedere în Hólmavík, oferind o vedere panoramică asupra fiordului.",
+                  "text": "Movilă de piatră pe un deal deasupra Hólmavík.",
                   "category": "natural",
                   "coords": [
                         -21.67577,
@@ -10186,7 +11392,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hólmavíkurkirkja",
-                  "text": "Biserica luterană din Hólmavík, situată proeminent pe un deal deasupra localității.",
+                  "text": "Biserică de lemn construită în 1937, cu acoperiș roșu și pereți albi în Hólmavík.",
                   "category": "religious",
                   "coords": [
                         -21.669915,
@@ -10197,7 +11403,7 @@ imageHint: "Vogar coastline and residential houses",
       "en": [
             {
                   "name": "Hólmavík",
-                  "text": "A small lighthouse assisting navigation off the coast of Hólmavík.",
+                  "text": "Picturesque town of Hólmavík on the shore of Steingrímsfjörður.",
                   "category": "landmark",
                   "coords": [
                         -21.674611,
@@ -10206,7 +11412,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Museum of Sorcery and Witchcraft",
-                  "text": "A fascinating museum in Hólmavík about the history of magic and witchcraft in Iceland.",
+                  "text": "Museum of Icelandic witchcraft and sorcery featuring exhibits on 17th-century witch trials.",
                   "category": "museum",
                   "coords": [
                         -21.66539,
@@ -10215,7 +11421,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Borgarvarða",
-                  "text": "A viewpoint in Hólmavík offering a wide view over the fjord.",
+                  "text": "Stone cairn on a hill overlooking Hólmavík.",
                   "category": "natural",
                   "coords": [
                         -21.67577,
@@ -10224,7 +11430,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hólmavíkurkirkja",
-                  "text": "The Lutheran church of Hólmavík, situated prominently on a hill overlooking the town.",
+                  "text": "Wooden church built in 1937 with a red roof and white walls in Hólmavík.",
                   "category": "religious",
                   "coords": [
                         -21.669915,
@@ -10371,7 +11577,7 @@ imageHint: "Vogar coastline and residential houses",
       "de": [
             {
                   "name": "Sjóminjasafnið á Hellissandi",
-                  "text": "Ein Schifffahrtsmuseum in Hellissandur.",
+                  "text": "Das Seefahrtsmuseum in Hellissandur mit Fischerbooten und Ausrüstung.",
                   "category": "museum",
                   "coords": [
                         -23.885506,
@@ -10380,7 +11586,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Fish huts",
-                  "text": "Historische Fischerhütten in Hellissandur.",
+                  "text": "Traditionelle Fischhütten aus Holz am Ufer von Hellissandur.",
                   "category": "landmark",
                   "coords": [
                         -23.930857,
@@ -10389,7 +11595,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hellissandur street art",
-                  "text": "Farbenfrohe Wandmalereien in Hellissandur.",
+                  "text": "Street-Art-Wandgemälde auf Gebäuden in Hellissandur.",
                   "category": "landmark",
                   "coords": [
                         -23.885119,
@@ -10400,7 +11606,7 @@ imageHint: "Vogar coastline and residential houses",
       "hu": [
             {
                   "name": "Sjóminjasafnið á Hellissandi",
-                  "text": "Tengerészeti múzeum Hellissandurban.",
+                  "text": "A Hellissandur-i Tengerészeti Múzeum halászhajókkal és felszereléssel.",
                   "category": "museum",
                   "coords": [
                         -23.885506,
@@ -10409,7 +11615,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Fish huts",
-                  "text": "Történelmi halászkunyhók Hellissandurban.",
+                  "text": "Hagyományos fahalas házak a hellissanduri parton.",
                   "category": "landmark",
                   "coords": [
                         -23.930857,
@@ -10418,7 +11624,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hellissandur street art",
-                  "text": "Színes falfestmények Hellissandurban.",
+                  "text": "Utcai művészeti falfestmények Hellissandur épületein.",
                   "category": "landmark",
                   "coords": [
                         -23.885119,
@@ -10429,7 +11635,7 @@ imageHint: "Vogar coastline and residential houses",
       "ro": [
             {
                   "name": "Sjóminjasafnið á Hellissandi",
-                  "text": "Un muzeu maritim în Hellissandur.",
+                  "text": "Muzeul Maritim din Hellissandur cu bărci de pescuit și echipamente.",
                   "category": "museum",
                   "coords": [
                         -23.885506,
@@ -10438,7 +11644,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Fish huts",
-                  "text": "Colibe de pescari istorice în Hellissandur.",
+                  "text": "Colibe tradiționale din lemn pentru uscarea peștelui pe malul mării în Hellissandur.",
                   "category": "landmark",
                   "coords": [
                         -23.930857,
@@ -10447,7 +11653,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hellissandur street art",
-                  "text": "Picturi murale colorate în Hellissandur.",
+                  "text": "Picturi murale de artă stradală pe clădirile din Hellissandur.",
                   "category": "landmark",
                   "coords": [
                         -23.885119,
@@ -10458,7 +11664,7 @@ imageHint: "Vogar coastline and residential houses",
       "en": [
             {
                   "name": "Sjóminjasafnið á Hellissandi",
-                  "text": "A maritime museum in Hellissandur.",
+                  "text": "Sjóminjasafnið maritime museum in Hellissandur, featuring fishing boats and gear.",
                   "category": "museum",
                   "coords": [
                         -23.885506,
@@ -10467,7 +11673,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Fish huts",
-                  "text": "Historic fishing huts in Hellissandur.",
+                  "text": "Traditional wooden fish-drying huts on the shore in Hellissandur.",
                   "category": "landmark",
                   "coords": [
                         -23.930857,
@@ -10476,7 +11682,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Hellissandur street art",
-                  "text": "Colorful street art murals in Hellissandur.",
+                  "text": "Street art murals decorating buildings in Hellissandur.",
                   "category": "landmark",
                   "coords": [
                         -23.885119,
@@ -10533,7 +11739,7 @@ imageHint: "Vogar coastline and residential houses",
       "de": [
             {
                   "name": "Langabúð",
-                  "text": "Langabúð ist ein historisches Museumsgebäude in Djúpivogur.",
+                  "text": "Langabúð, ein historischer Handelsplatz, heute Museum in Djúpivogur.",
                   "category": "museum",
                   "coords": [
                         -14.283171,
@@ -10542,7 +11748,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Æðarsteinn",
-                  "text": "Æðarsteinn ist ein Leuchtturm in der Gegend von Djúpivogur.",
+                  "text": "Der Findling Æðarsteinn an der Küste bei Djúpivogur.",
                   "category": "landmark",
                   "coords": [
                         -14.293667,
@@ -10551,7 +11757,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Steine und Kristalle Ausstellung",
-                  "text": "Auðunns Mineraliensammlung ist ein Museum in Djúpivogur.",
+                  "text": "Auðunns Mineraliensammlung in Djúpivogur mit isländischen Kristallen.",
                   "category": "museum",
                   "coords": [
                         -14.285436,
@@ -10560,7 +11766,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Teigarhorn",
-                  "text": "Teigarhorn ist ein Naturschutzgebiet nahe Djúpivogur.",
+                  "text": "Teigarhorn, ein Küstenvogelschutzgebiet mit Klippen bei Djúpivogur.",
                   "category": "natural",
                   "coords": [
                         -14.431295,
@@ -10569,7 +11775,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Bones and stones museum - gift shop",
-                  "text": "Das Bones and Stones Museum in Djúpivogur ist eine lokale Attraktion mit einem Souvenirgeschäft.",
+                  "text": "Museum und Geschenkladen mit Fossilien und Mineralien in Djúpivogur.",
                   "category": "landmark",
                   "coords": [
                         -14.29012,
@@ -10580,7 +11786,7 @@ imageHint: "Vogar coastline and residential houses",
       "hu": [
             {
                   "name": "Langabúð",
-                  "text": "A Langabúð egy történelmi múzeumépület Djúpivogur-ban.",
+                  "text": "Langabúð, egy történelmi kereskedőhely, ma múzeum Djúpivogurban.",
                   "category": "museum",
                   "coords": [
                         -14.283171,
@@ -10589,7 +11795,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Æðarsteinn",
-                  "text": "Az Æðarsteinn egy világítótorony Djúpivogur térségében.",
+                  "text": "Az Æðarsteinn hatalmas vándorkő a djúpivoguri parton.",
                   "category": "landmark",
                   "coords": [
                         -14.293667,
@@ -10598,7 +11804,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Steinasafn Auðunns",
-                  "text": "Auðunn ásványgyűjteménye egy múzeum Djúpivogur-ban.",
+                  "text": "Auðunn ásványgyűjteménye Djúpivogurban izlandi kristályokkal.",
                   "category": "museum",
                   "coords": [
                         -14.285436,
@@ -10607,7 +11813,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Teigarhorn",
-                  "text": "A Teigarhorn egy természetvédelmi terület Djúpivogur közelében.",
+                  "text": "Teigarhorn, egy tengerparti madárrezervátum sziklákkal Djúpivogur mellett.",
                   "category": "natural",
                   "coords": [
                         -14.431295,
@@ -10616,7 +11822,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Bones and stones museum - gift shop",
-                  "text": "A Bones and Stones Múzeum Djúpivogur-ban egy helyi látnivaló ajándékbolttal.",
+                  "text": "Múzeum és ajándékbolt fosszíliákkal és ásványokkal Djúpivogurban.",
                   "category": "landmark",
                   "coords": [
                         -14.29012,
@@ -10627,7 +11833,7 @@ imageHint: "Vogar coastline and residential houses",
       "ro": [
             {
                   "name": "Langabúð",
-                  "text": "Langabúð este o clădire istorică muzeală situată în Djúpivogur.",
+                  "text": "Langabúð, un fost post comercial istoric, acum muzeu în Djúpivogur.",
                   "category": "museum",
                   "coords": [
                         -14.283171,
@@ -10636,7 +11842,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Æðarsteinn",
-                  "text": "Æðarsteinn este un far situat în zona Djúpivogur.",
+                  "text": "Æðarsteinn, un bloc eratic mare pe coasta lângă Djúpivogur.",
                   "category": "landmark",
                   "coords": [
                         -14.293667,
@@ -10645,7 +11851,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Steinasafn Auðunns",
-                  "text": "Colecția de minerale a lui Auðunn este un muzeu situat în Djúpivogur.",
+                  "text": "Colecția de minerale a lui Auðunn din Djúpivogur, cu cristale islandeze.",
                   "category": "museum",
                   "coords": [
                         -14.285436,
@@ -10654,7 +11860,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Teigarhorn",
-                  "text": "Teigarhorn este o rezervație naturală situată lângă Djúpivogur.",
+                  "text": "Teigarhorn, o rezervație de păsări de coastă cu stânci lângă Djúpivogur.",
                   "category": "natural",
                   "coords": [
                         -14.431295,
@@ -10663,7 +11869,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Bones and stones museum - gift shop",
-                  "text": "Muzeul Bones and Stones din Djúpivogur este o atracție locală cu un magazin de suveniruri.",
+                  "text": "Muzeu și magazin de suveniruri cu fosile și minerale în Djúpivogur.",
                   "category": "landmark",
                   "coords": [
                         -14.29012,
@@ -10674,7 +11880,7 @@ imageHint: "Vogar coastline and residential houses",
       "en": [
             {
                   "name": "Langabúð",
-                  "text": "Langabúð is a historic museum building in Djúpivogur.",
+                  "text": "Langabúð, a historic trading post turned museum in Djúpivogur.",
                   "category": "museum",
                   "coords": [
                         -14.283171,
@@ -10683,7 +11889,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Æðarsteinn",
-                  "text": "Æðarsteinn is a lighthouse in the area of Djúpivogur.",
+                  "text": "Æðarsteinn, a large erratic boulder on the coast near Djúpivogur.",
                   "category": "landmark",
                   "coords": [
                         -14.293667,
@@ -10692,7 +11898,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Auðunn's Mineral Collection",
-                  "text": "Auðunn's Mineral Collection is a museum in Djúpivogur.",
+                  "text": "Auðunn's Mineral Collection in Djúpivogur, displaying Icelandic crystals.",
                   "category": "museum",
                   "coords": [
                         -14.285436,
@@ -10701,7 +11907,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Teigarhorn",
-                  "text": "Teigarhorn is a nature reserve located near Djúpivogur.",
+                  "text": "Teigarhorn, a coastal bird reserve with cliffs near Djúpivogur.",
                   "category": "natural",
                   "coords": [
                         -14.431295,
@@ -10710,7 +11916,7 @@ imageHint: "Vogar coastline and residential houses",
             },
             {
                   "name": "Bones and stones museum - gift shop",
-                  "text": "The Bones and Stones Museum in Djúpivogur is a local attraction with a gift shop.",
+                  "text": "Bones and stones museum and gift shop in Djúpivogur, featuring fossils and minerals.",
                   "category": "landmark",
                   "coords": [
                         -14.29012,

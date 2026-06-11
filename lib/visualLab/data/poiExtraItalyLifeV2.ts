@@ -3409,7 +3409,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Acaya",
-                  "text": "Eine befestigte Renaissance-Burg in der Ortschaft Acaya in Apulien.",
+                  "text": "Renaissance-Festung mit fünfeckigem Grundriss im Dorf Acaya.",
                   "category": "castle",
                   "coords": [
                         18.296074,
@@ -3456,7 +3456,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Acaya",
-                  "text": "Megerősített reneszánsz vár az apuliai Acaya településen.",
+                  "text": "Ötszög alaprajzú reneszánsz erőd Acaya faluban.",
                   "category": "castle",
                   "coords": [
                         18.296074,
@@ -3503,7 +3503,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Acaya",
-                  "text": "Un castel renascentist fortificat situat în localitatea Acaya din Puglia.",
+                  "text": "Fortăreață renascentistă cu plan pentagonal în satul Acaya.",
                   "category": "castle",
                   "coords": [
                         18.296074,
@@ -3550,7 +3550,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Acaya",
-                  "text": "A fortified Renaissance castle located in the village of Acaya in Puglia.",
+                  "text": "Renaissance fortress with a pentagonal layout in the village of Acaya.",
                   "category": "castle",
                   "coords": [
                         18.296074,
@@ -4309,7 +4309,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Corno Piccolo",
-                  "text": "Ein felsiger Berggipfel im Nationalpark Gran Sasso.",
+                  "text": "Zweithöchster Gipfel des Gran Sasso, 2655 Meter hoch.",
                   "category": "landmark",
                   "coords": [
                         13.559981,
@@ -4318,7 +4318,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Pizzo d'Intermesoli",
-                  "text": "Ein markanter Berg im Nationalpark Gran Sasso.",
+                  "text": "2635 Meter hoher Berg im Gran-Sasso-Massiv.",
                   "category": "landmark",
                   "coords": [
                         13.527238,
@@ -4383,7 +4383,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Corno Piccolo",
-                  "text": "Egy sziklás hegycsúcs a Gran Sasso Nemzeti Parkban.",
+                  "text": "A Gran Sasso második legmagasabb csúcsa, 2655 méter.",
                   "category": "landmark",
                   "coords": [
                         13.559981,
@@ -4392,7 +4392,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Pizzo d'Intermesoli",
-                  "text": "Egy jellegzetes hegy a Gran Sasso Nemzeti Parkban.",
+                  "text": "2635 méter magas hegy a Gran Sasso masszívumban.",
                   "category": "landmark",
                   "coords": [
                         13.527238,
@@ -4457,7 +4457,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Corno Piccolo",
-                  "text": "Un vârf muntos stâncos în Parcul Național Gran Sasso.",
+                  "text": "Al doilea cel mai înalt vârf al Gran Sasso, 2655 m.",
                   "category": "landmark",
                   "coords": [
                         13.559981,
@@ -4466,7 +4466,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Pizzo d'Intermesoli",
-                  "text": "Un munte proeminent în Parcul Național Gran Sasso.",
+                  "text": "Munte de 2635 m în masivul Gran Sasso.",
                   "category": "landmark",
                   "coords": [
                         13.527238,
@@ -4531,7 +4531,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Corno Piccolo",
-                  "text": "A rocky mountain peak in the Gran Sasso National Park.",
+                  "text": "Second highest peak of the Gran Sasso, rising to 2,655 meters.",
                   "category": "landmark",
                   "coords": [
                         13.559981,
@@ -4540,7 +4540,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Pizzo d'Intermesoli",
-                  "text": "A prominent mountain in the Gran Sasso National Park.",
+                  "text": "A 2,635-meter-high mountain in the Gran Sasso massif.",
                   "category": "landmark",
                   "coords": [
                         13.527238,
@@ -4660,7 +4660,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "sito archeologico di Spolverino - Alberese",
-                  "text": "Eine archäologische Stätte im Gebiet Alberese des Parks.",
+                  "text": "Römische und mittelalterliche Ruinen im Naturpark Maremma nahe Alberese.",
                   "category": "historical",
                   "coords": [
                         11.070698,
@@ -4734,7 +4734,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "sito archeologico di Spolverino - Alberese",
-                  "text": "Régészeti lelőhely a park Alberese területén.",
+                  "text": "Római és középkori romok a Maremma Regionális Parkban, Alberese közelében.",
                   "category": "historical",
                   "coords": [
                         11.070698,
@@ -4808,7 +4808,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "sito archeologico di Spolverino - Alberese",
-                  "text": "Un sit arheologic situat în zona Alberese a parcului.",
+                  "text": "Ruine romane și medievale în Parcul Regional Maremma, lângă Alberese.",
                   "category": "historical",
                   "coords": [
                         11.070698,
@@ -4882,7 +4882,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "sito archeologico di Spolverino - Alberese",
-                  "text": "An archaeological site located in the Alberese area of the park.",
+                  "text": "Roman and medieval ruins in the Maremma Regional Park near Alberese.",
                   "category": "historical",
                   "coords": [
                         11.070698,
@@ -5776,7 +5776,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Antonio Farsetti",
-                  "text": "Das Denkmal für Antonio Farsetti befindet sich im Gebiet des Po-Deltas.",
+                  "text": "Historische Villa der Familie Farsetti im Po-Delta-Naturschutzgebiet.",
                   "category": "historical",
                   "coords": [
                         12.331494,
@@ -5803,7 +5803,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa della Beata Vergine del Carmine",
-                  "text": "Die Chiesa della Beata Vergine del Carmine ist eine religiöse Stätte im Po-Delta.",
+                  "text": "Kirche der seligen Jungfrau Maria vom Berge Karmel im Po-Delta-Naturschutzgebiet.",
                   "category": "religious",
                   "coords": [
                         12.325337,
@@ -5812,7 +5812,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa del Santissimo Cuore di Gesù",
-                  "text": "Die Chiesa del Santissimo Cuore di Gesù ist ein Kirchengebäude im Po-Delta.",
+                  "text": "Kirche des Heiligsten Herzens Jesu im Po-Delta-Naturschutzgebiet.",
                   "category": "religious",
                   "coords": [
                         12.335875,
@@ -5841,7 +5841,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Antonio Farsetti",
-                  "text": "Antonio Farsetti emlékműve a Pó-delta területén található.",
+                  "text": "A Farsetti család történelmi villája a Pó-delta természetvédelmi területén.",
                   "category": "historical",
                   "coords": [
                         12.331494,
@@ -5868,7 +5868,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa della Beata Vergine del Carmine",
-                  "text": "A Chiesa della Beata Vergine del Carmine egy templom a Pó-delta területén.",
+                  "text": "A Boldogságos Szűz Mária temploma a Pó-delta természetvédelmi területen.",
                   "category": "religious",
                   "coords": [
                         12.325337,
@@ -5877,7 +5877,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa del Santissimo Cuore di Gesù",
-                  "text": "A Chiesa del Santissimo Cuore di Gesù egy templom a Pó-delta környékén.",
+                  "text": "Jézus Szentséges Szíve temploma a Pó-delta természetvédelmi területen.",
                   "category": "religious",
                   "coords": [
                         12.335875,
@@ -5906,7 +5906,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Antonio Farsetti",
-                  "text": "Monumentul lui Antonio Farsetti se află în zona Rezervației Naturale Delta Po.",
+                  "text": "Vilă istorică a familiei Farsetti în rezervația naturală a Deltei Po.",
                   "category": "historical",
                   "coords": [
                         12.331494,
@@ -5933,7 +5933,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa della Beata Vergine del Carmine",
-                  "text": "Chiesa della Beata Vergine del Carmine este un lăcaș de cult situat în Delta Po.",
+                  "text": "Biserica Sfintei Fecioare Maria din Carmel în Rezervația Naturală a Deltei Po.",
                   "category": "religious",
                   "coords": [
                         12.325337,
@@ -5942,7 +5942,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa del Santissimo Cuore di Gesù",
-                  "text": "Chiesa del Santissimo Cuore di Gesù este o biserică situată în zona Deltei Po.",
+                  "text": "Biserica Preasfintei Inimi a lui Isus în Rezervația Naturală a Deltei Po.",
                   "category": "religious",
                   "coords": [
                         12.335875,
@@ -5971,7 +5971,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Antonio Farsetti",
-                  "text": "The monument to Antonio Farsetti is located in the Po Delta area.",
+                  "text": "Historic villa of the Farsetti family in the Po Delta nature reserve.",
                   "category": "historical",
                   "coords": [
                         12.331494,
@@ -5998,7 +5998,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa della Beata Vergine del Carmine",
-                  "text": "The Chiesa della Beata Vergine del Carmine is a place of worship in the Po Delta region.",
+                  "text": "Church of the Blessed Virgin of Mount Carmel in the Po Delta Nature Reserve.",
                   "category": "religious",
                   "coords": [
                         12.325337,
@@ -6007,7 +6007,7 @@ export const italyLifeV2: POI[] = [
             },
             {
                   "name": "Chiesa del Santissimo Cuore di Gesù",
-                  "text": "The Chiesa del Santissimo Cuore di Gesù is a church located in the Po Delta area.",
+                  "text": "Church of the Most Sacred Heart of Jesus in the Po Delta Nature Reserve.",
                   "category": "religious",
                   "coords": [
                         12.335875,

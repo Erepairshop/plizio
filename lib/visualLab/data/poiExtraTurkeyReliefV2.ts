@@ -202,7 +202,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Sümbüllü Kilise",
-                  "text": "Eine historische Felsenkirche im Ihlara-Tal.",
+                  "text": "In den Fels gehauene byzantinische Kirche mit Fresken im Ihlara-Tal.",
                   "category": "historical",
                   "coords": [
                         34.302972,
@@ -229,7 +229,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Kirkdamalti Kilisesi",
-                  "text": "Eine historische Felsenkirche, die dem Heiligen Georg gewidmet ist.",
+                  "text": "In den Fels gehauene St.-Georgs-Kirche im Ihlara-Tal, mit Fresken.",
                   "category": "historical",
                   "coords": [
                         34.292235,
@@ -276,7 +276,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Sümbüllü Kilise",
-                  "text": "Történelmi sziklába vájt templom az Ihlara-völgyben.",
+                  "text": "A Ihlara-völgyi sziklába vájt bizánci templom falfestményekkel.",
                   "category": "historical",
                   "coords": [
                         34.302972,
@@ -303,7 +303,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Kirkdamalti Kilisesi",
-                  "text": "Szent Györgynek szentelt történelmi sziklatemplom.",
+                  "text": "Szent György-templom az Ihlara-völgyben, sziklába vágva, freskókkal.",
                   "category": "historical",
                   "coords": [
                         34.292235,
@@ -350,7 +350,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Sümbüllü Kilise",
-                  "text": "O biserică istorică săpată în stâncă în Valea Ihlara.",
+                  "text": "Biserică săpată în stâncă din Valea Ihlara, cu fresce bizantine.",
                   "category": "historical",
                   "coords": [
                         34.302972,
@@ -377,7 +377,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Kirkdamalti Kilisesi",
-                  "text": "O biserică istorică săpată în stâncă, dedicată Sfântului Gheorghe.",
+                  "text": "Biserica Sfântul Gheorghe din Valea Ihlara, săpată în stâncă, cu fresce.",
                   "category": "historical",
                   "coords": [
                         34.292235,
@@ -424,7 +424,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Jacinth Church",
-                  "text": "A historical rock-cut church in the Ihlara Valley.",
+                  "text": "Rock-cut Byzantine church with frescoes in the Ihlara Valley.",
                   "category": "historical",
                   "coords": [
                         34.302972,
@@ -451,7 +451,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Saint George Church",
-                  "text": "A historic rock-cut church dedicated to Saint George.",
+                  "text": "Rock-cut Saint George Church in Ihlara Valley, with frescoes.",
                   "category": "historical",
                   "coords": [
                         34.292235,
@@ -1087,7 +1087,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "de": [
             {
                   "name": "Pancarlı Dağı",
-                  "text": "Ein Berggipfel in der Region der Türkischen Riviera.",
+                  "text": "Pancarlı Dağı an der Türkischen Riviera ist ein Berg mit Wanderwegen und Aussicht.",
                   "category": "landmark",
                   "coords": [
                         29.984617,
@@ -1098,7 +1098,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Pancarlı Dağı",
-                  "text": "Hegység az úgynevezett Török Riviéra régiójában.",
+                  "text": "A Pancarlı Dağı a Török Riviérán egy hegy túraútvonalakkal és kilátással.",
                   "category": "landmark",
                   "coords": [
                         29.984617,
@@ -1109,7 +1109,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Pancarlı Dağı",
-                  "text": "Un vârf muntos situat în regiunea Rivierei Turcești.",
+                  "text": "Pancarlı Dağı pe Coasta Turcoaz este un munte cu trasee de drumeție și priveliști.",
                   "category": "landmark",
                   "coords": [
                         29.984617,
@@ -1120,7 +1120,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "en": [
             {
                   "name": "Pancarlı Dağı",
-                  "text": "A mountain peak located in the Turkish Riviera region.",
+                  "text": "Pancarlı Dağı on the Turquoise Coast is a mountain with hiking trails and views.",
                   "category": "landmark",
                   "coords": [
                         29.984617,
@@ -1265,7 +1265,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "de": [
             {
                   "name": "Urla Kum Denizi Plajı",
-                  "text": "Urla Kum Denizi Plajı ist ein Strand in Aegean Coast Relief.",
+                  "text": "Urla Kum Denizi Strand, ein Sandstrand an der Ägäisküste nahe Urla.",
                   "category": "recreational",
                   "coords": [
                         26.783017,
@@ -1274,7 +1274,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Mavi Plaj",
-                  "text": "Mavi Plaj ist ein Strand in Aegean Coast Relief.",
+                  "text": "Mavi Plaj (Blauer Strand), ein beliebter Badeplatz an der Ägäisküste.",
                   "category": "recreational",
                   "coords": [
                         26.742964,
@@ -1285,7 +1285,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Urla Kum Denizi Plajı",
-                  "text": "Az Urla Kum Denizi Plajı egy strand az Aegean Coast Relief területén.",
+                  "text": "Urla Kum Denizi Plajı, homokos strand az Égei-tenger partján, Urla közelében.",
                   "category": "recreational",
                   "coords": [
                         26.783017,
@@ -1294,7 +1294,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Mavi Plaj",
-                  "text": "A Mavi Plaj egy tengerpart az Aegean Coast Relief térségében.",
+                  "text": "Mavi Plaj (Kék Strand), népszerű fürdőhely az Égei-tenger partján.",
                   "category": "recreational",
                   "coords": [
                         26.742964,
@@ -1305,7 +1305,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Urla Kum Denizi Plajı",
-                  "text": "Urla Kum Denizi Plajı este o plajă din Aegean Coast Relief.",
+                  "text": "Plaja Urla Kum Denizi, o plajă nisipoasă pe coasta Mării Egee lângă Urla.",
                   "category": "recreational",
                   "coords": [
                         26.783017,
@@ -1314,7 +1314,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Mavi Plaj",
-                  "text": "Mavi Plaj este o plajă situată în Aegean Coast Relief.",
+                  "text": "Mavi Plaj (Plaja Albastră), un loc popular de scăldat pe coasta Mării Egee.",
                   "category": "recreational",
                   "coords": [
                         26.742964,
@@ -1325,7 +1325,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       "en": [
             {
                   "name": "Urla Kum Denizi Plajı",
-                  "text": "Urla Kum Denizi Plajı is a beach in Aegean Coast Relief.",
+                  "text": "Urla Kum Denizi Beach, a sandy beach on the Aegean coast near Urla.",
                   "category": "recreational",
                   "coords": [
                         26.783017,
@@ -1334,7 +1334,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
             },
             {
                   "name": "Mavi Plaj",
-                  "text": "Mavi Plaj is a beach situated in Aegean Coast Relief.",
+                  "text": "Mavi Plaj (Blue Beach), a popular swimming spot on the Aegean coast.",
                   "category": "recreational",
                   "coords": [
                         26.742964,
@@ -1652,7 +1652,484 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-harran-plain-relief-v2",
+    id: "tr-harran-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harran",
+                  "text": "Eine antike Siedlung, die für ihre einzigartigen, kegelförmigen Bienenkorbhäuser aus Lehm bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        39.029913,
+                        36.86293
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "Ein Museum in traditionellen Lehmhäusern, das das historische Leben in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        39.032149,
+                        36.861705
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "Ein Kulturzentrum, das den Besuchern die traditionelle Architektur und Lebensweise von Harran näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        39.035809,
+                        36.861139
+                  ]
+            },
+            {
+                  "name": "Harran, Ulu Çamı",
+                  "text": "Die Ruinen der Großen Moschee gelten als eines der ältesten islamischen Bauwerke in Anatolien.",
+                  "category": "historical",
+                  "coords": [
+                        39.031098,
+                        36.86497
+                  ]
+            },
+            {
+                  "name": "Harran Kalesi",
+                  "text": "Eine gewaltige Festung, die auf den Ruinen eines vorislamischen Mondtempels errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        39.035317,
+                        36.859596
+                  ]
+            },
+            {
+                  "name": "Tell Magrin",
+                  "text": "Ein historischer Siedlungshügel, der aus der flachen Agrarebene von Harran emporragt.",
+                  "category": "historical",
+                  "coords": [
+                        39.041588,
+                        36.831707
+                  ]
+            },
+            {
+                  "name": "Küplüce Höyüğü",
+                  "text": "Ein antiker archäologischer Hügel inmitten des fruchtbaren Harran-Beckens.",
+                  "category": "historical",
+                  "coords": [
+                        39.023861,
+                        36.813972
+                  ]
+            },
+            {
+                  "name": "Uzunyol Höyüğü",
+                  "text": "Eine erdüberdeckte archäologische Stätte, die Jahrhunderte kontinuierlicher Besiedlung repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        38.984583,
+                        36.806604
+                  ]
+            },
+            {
+                  "name": "Sütlüce Höyüğü",
+                  "text": "Ein großer Siedlungshügel, der sich in der weiten, geschichtsträchtigen Ebene befindet.",
+                  "category": "historical",
+                  "coords": [
+                        38.9731,
+                        36.824975
+                  ]
+            },
+            {
+                  "name": "Bellitaş Höyüğü",
+                  "text": "Ein antiker Tell, der Schichten zivilisatorischer Geschichte in der Region birgt.",
+                  "category": "historical",
+                  "coords": [
+                        39.124862,
+                        36.916603
+                  ]
+            },
+            {
+                  "name": "İmam Bakır Camii ve Türbesi",
+                  "text": "Ein religiöser Komplex mit dem Grab des verehrten Imams Mohammed al-Baqir.",
+                  "category": "landmark",
+                  "coords": [
+                        39.054176,
+                        36.866655
+                  ]
+            },
+            {
+                  "name": "Hayati Harrani Camii",
+                  "text": "Eine Moschee mit einem markanten Grabmal, das einem Sufi-Heiligen aus dem 12. Jahrhundert gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.024605,
+                        36.86617
+                  ]
+            },
+            {
+                  "name": "İbn-i Teymiyye El Hayat-i Harrani Camii",
+                  "text": "Ein bedeutender Moscheekomplex im historischen Zentrum der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.023307,
+                        36.870497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harran",
+                  "text": "Ősi település, amely egyedülálló, kúp alakú, vályogból készült méhkas-házairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        39.029913,
+                        36.86293
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "Hagyományos vályogházakban kialakított múzeum, amely a régió történelmi életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.032149,
+                        36.861705
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "Kulturális központ, amely bemutatja Harran hagyományos építészetét és életmódját.",
+                  "category": "museum",
+                  "coords": [
+                        39.035809,
+                        36.861139
+                  ]
+            },
+            {
+                  "name": "Harran, Ulu Çamı",
+                  "text": "A Nagy Mecset romjai, amelyet Anatólia egyik legrégebbi iszlám építményeként tartanak számon.",
+                  "category": "historical",
+                  "coords": [
+                        39.031098,
+                        36.86497
+                  ]
+            },
+            {
+                  "name": "Harran Kalesi",
+                  "text": "Hatalmas erődítmény, amely egy iszlám előtti holdtemplom romjaira épült.",
+                  "category": "landmark",
+                  "coords": [
+                        39.035317,
+                        36.859596
+                  ]
+            },
+            {
+                  "name": "Tell Magrin",
+                  "text": "Történelmi településhalom, amely Harran lapos mezőgazdasági síkságából emelkedik ki.",
+                  "category": "historical",
+                  "coords": [
+                        39.041588,
+                        36.831707
+                  ]
+            },
+            {
+                  "name": "Küplüce Höyüğü",
+                  "text": "Ősi régészeti halom a termékeny Harran-medence közepén.",
+                  "category": "historical",
+                  "coords": [
+                        39.023861,
+                        36.813972
+                  ]
+            },
+            {
+                  "name": "Uzunyol Höyüğü",
+                  "text": "Földdel borított régészeti lelőhely, amely évszázadok folyamatos lakottságát reprezentálja.",
+                  "category": "historical",
+                  "coords": [
+                        38.984583,
+                        36.806604
+                  ]
+            },
+            {
+                  "name": "Sütlüce Höyüğü",
+                  "text": "Hatalmas településhalom a tágas, történelmi síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        38.9731,
+                        36.824975
+                  ]
+            },
+            {
+                  "name": "Bellitaş Höyüğü",
+                  "text": "Ősi településhalom, amely a régió civilizációs történelmének rétegeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        39.124862,
+                        36.916603
+                  ]
+            },
+            {
+                  "name": "İmam Bakır Camii ve Türbesi",
+                  "text": "Vallási komplexum, amely a tisztelt Mohammed al-Bákir imám sírját foglalja magában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.054176,
+                        36.866655
+                  ]
+            },
+            {
+                  "name": "Hayati Harrani Camii",
+                  "text": "Egy 12. századi szúfi szentnek szentelt mecset jellegzetes síremlékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.024605,
+                        36.86617
+                  ]
+            },
+            {
+                  "name": "İbn-i Teymiyye El Hayat-i Harrani Camii",
+                  "text": "Jelentős mecsetkomplexum a város történelmi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.023307,
+                        36.870497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harran",
+                  "text": "O așezare antică faimoasă pentru casele sale unice din chirpici, în formă de stup.",
+                  "category": "historical",
+                  "coords": [
+                        39.029913,
+                        36.86293
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "Un muzeu amenajat în case tradiționale din chirpici, care prezintă viața istorică locală.",
+                  "category": "museum",
+                  "coords": [
+                        39.032149,
+                        36.861705
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "Un centru cultural care prezintă vizitatorilor arhitectura și stilul de viață tradițional din Harran.",
+                  "category": "museum",
+                  "coords": [
+                        39.035809,
+                        36.861139
+                  ]
+            },
+            {
+                  "name": "Harran, Ulu Çamı",
+                  "text": "Ruinele Marii Moschei, recunoscută ca una dintre cele mai vechi structuri islamice din Anatolia.",
+                  "category": "historical",
+                  "coords": [
+                        39.031098,
+                        36.86497
+                  ]
+            },
+            {
+                  "name": "Harran Kalesi",
+                  "text": "O fortăreață masivă construită pe ruinele unui templu pre-islamic al Lunii.",
+                  "category": "landmark",
+                  "coords": [
+                        39.035317,
+                        36.859596
+                  ]
+            },
+            {
+                  "name": "Tell Magrin",
+                  "text": "O movilă istorică care se ridică deasupra câmpiei agricole plate din Harran.",
+                  "category": "historical",
+                  "coords": [
+                        39.041588,
+                        36.831707
+                  ]
+            },
+            {
+                  "name": "Küplüce Höyüğü",
+                  "text": "O movilă arheologică antică situată în bazinul fertil al Harranului.",
+                  "category": "historical",
+                  "coords": [
+                        39.023861,
+                        36.813972
+                  ]
+            },
+            {
+                  "name": "Uzunyol Höyüğü",
+                  "text": "Un sit arheologic acoperit de pământ, reprezentând secole de locuire continuă.",
+                  "category": "historical",
+                  "coords": [
+                        38.984583,
+                        36.806604
+                  ]
+            },
+            {
+                  "name": "Sütlüce Höyüğü",
+                  "text": "O movilă mare de așezare situată în câmpia istorică vastă.",
+                  "category": "historical",
+                  "coords": [
+                        38.9731,
+                        36.824975
+                  ]
+            },
+            {
+                  "name": "Bellitaş Höyüğü",
+                  "text": "Un sit antic de tip tell, care conține straturi ale istoriei civilizației din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        39.124862,
+                        36.916603
+                  ]
+            },
+            {
+                  "name": "İmam Bakır Camii ve Türbesi",
+                  "text": "Un complex religios care adăpostește mormântul veneratului imam Mohammed al-Baqir.",
+                  "category": "landmark",
+                  "coords": [
+                        39.054176,
+                        36.866655
+                  ]
+            },
+            {
+                  "name": "Hayati Harrani Camii",
+                  "text": "O moschee dedicată unui sfânt sufit din secolul al XII-lea, cu un mormânt proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        39.024605,
+                        36.86617
+                  ]
+            },
+            {
+                  "name": "İbn-i Teymiyye El Hayat-i Harrani Camii",
+                  "text": "Un complex important de moschei situat în inima istorică a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.023307,
+                        36.870497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harran",
+                  "text": "Ancient settlement famous for its unique conical beehive adobe houses.",
+                  "category": "historical",
+                  "coords": [
+                        39.029913,
+                        36.86293
+                  ]
+            },
+            {
+                  "name": "Harran Culture House",
+                  "text": "A museum set in traditional mud-brick beehive houses showcasing historical local life.",
+                  "category": "museum",
+                  "coords": [
+                        39.032149,
+                        36.861705
+                  ]
+            },
+            {
+                  "name": "Harran Kültür Evi",
+                  "text": "A cultural center showcasing the traditional architecture and lifestyle of Harran.",
+                  "category": "museum",
+                  "coords": [
+                        39.035809,
+                        36.861139
+                  ]
+            },
+            {
+                  "name": "Harran, Ulu Çamı",
+                  "text": "Ruins of the Great Mosque, recognized as one of the oldest Islamic structures in Anatolia.",
+                  "category": "historical",
+                  "coords": [
+                        39.031098,
+                        36.86497
+                  ]
+            },
+            {
+                  "name": "Harran Kalesi",
+                  "text": "A massive fortress built on the ruins of a pre-Islamic Moon Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        39.035317,
+                        36.859596
+                  ]
+            },
+            {
+                  "name": "Tell Magrin",
+                  "text": "A historic settlement mound rising above the flat agricultural plains of Harran.",
+                  "category": "historical",
+                  "coords": [
+                        39.041588,
+                        36.831707
+                  ]
+            },
+            {
+                  "name": "Küplüce Höyüğü",
+                  "text": "An ancient archaeological mound located in the fertile Harran basin.",
+                  "category": "historical",
+                  "coords": [
+                        39.023861,
+                        36.813972
+                  ]
+            },
+            {
+                  "name": "Uzunyol Höyüğü",
+                  "text": "An earth-covered archaeological site representing centuries of continuous habitation.",
+                  "category": "historical",
+                  "coords": [
+                        38.984583,
+                        36.806604
+                  ]
+            },
+            {
+                  "name": "Sütlüce Höyüğü",
+                  "text": "A large settlement mound situated within the vast historical plain.",
+                  "category": "historical",
+                  "coords": [
+                        38.9731,
+                        36.824975
+                  ]
+            },
+            {
+                  "name": "Bellitaş Höyüğü",
+                  "text": "An ancient tell site containing layers of civilizational history in the region.",
+                  "category": "historical",
+                  "coords": [
+                        39.124862,
+                        36.916603
+                  ]
+            },
+            {
+                  "name": "İmam Bakır Camii ve Türbesi",
+                  "text": "A religious complex featuring the tomb of the revered Imam Mohammed al-Baqir.",
+                  "category": "landmark",
+                  "coords": [
+                        39.054176,
+                        36.866655
+                  ]
+            },
+            {
+                  "name": "Hayati Harrani Camii",
+                  "text": "A mosque dedicated to a 12th-century Sufi saint, featuring a prominent tomb.",
+                  "category": "landmark",
+                  "coords": [
+                        39.024605,
+                        36.86617
+                  ]
+            },
+            {
+                  "name": "İbn-i Teymiyye El Hayat-i Harrani Camii",
+                  "text": "A significant mosque complex in the historic heart of Harran.",
+                  "category": "landmark",
+                  "coords": [
+                        39.023307,
+                        36.870497
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "TR-63",
     coords: [39.0333, 36.8667],

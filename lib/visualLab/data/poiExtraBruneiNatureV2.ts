@@ -67,7 +67,88 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
     {
-    id: "bn-bukit-patoi-forest-recreation-park-nature-v2",
+    id: "bn-bukit-patoi-forest-recreation-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Batu Apoi",
+                  "text": "Die Masjid Kampong Batu Apoi liegt in der Nähe des Bukit Patoi Walderholungsparks und dient als Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        115.110157,
+                        4.714684
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Haji Abu Bakar",
+                  "text": "Die Masjid Pengiran Haji Abu Bakar bietet einen ruhigen Ort für islamische Gottesdienste nahe dem bewaldeten Bukit Patoi.",
+                  "category": "landmark",
+                  "coords": [
+                        115.051619,
+                        4.649054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Batu Apoi",
+                  "text": "A Masjid Kampong Batu Apoi a Bukit Patoi erdei rekreációs park közelében található imaház.",
+                  "category": "landmark",
+                  "coords": [
+                        115.110157,
+                        4.714684
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Haji Abu Bakar",
+                  "text": "A Masjid Pengiran Haji Abu Bakar csendes helyet biztosít az iszlám istentiszteletek számára a fás Bukit Patoi közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.051619,
+                        4.649054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Batu Apoi",
+                  "text": "Masjid Kampong Batu Apoi este situată lângă parcul forestier de recreere Bukit Patoi și servește ca loc de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        115.110157,
+                        4.714684
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Haji Abu Bakar",
+                  "text": "Masjid Pengiran Haji Abu Bakar oferă un loc liniștit pentru slujbele islamice în apropierea zonei împădurite Bukit Patoi.",
+                  "category": "landmark",
+                  "coords": [
+                        115.051619,
+                        4.649054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Batu Apoi",
+                  "text": "Masjid Kampong Batu Apoi is located near the Bukit Patoi Forest Recreation Park, serving as a place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        115.110157,
+                        4.714684
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Haji Abu Bakar",
+                  "text": "Masjid Pengiran Haji Abu Bakar provides a quiet place for Islamic worship near the forested Bukit Patoi.",
+                  "category": "landmark",
+                  "coords": [
+                        115.051619,
+                        4.649054
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BN-TE",
     coords: [115.110, 4.708],
@@ -195,7 +276,52 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-brunei-river-nature-v2",
+    id: "bn-brunei-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Serdang",
+                  "text": "Die Serdang Moschee liegt am Ufer und fügt sich harmonisch in die Naturlandschaft am Brunei-Fluss ein.",
+                  "category": "landmark",
+                  "coords": [
+                        114.998974,
+                        4.908394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Serdang",
+                  "text": "A parti Serdang mecset harmonikusan illeszkedik a Brunei-folyó természeti tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        114.998974,
+                        4.908394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Serdang",
+                  "text": "Moscheea Serdang, situată pe mal, se integrează armonios în peisajul natural de-a lungul râului Brunei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.998974,
+                        4.908394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Serdang Mosque",
+                  "text": "Serdang Mosque is located on the bank, harmoniously blending into the natural landscape along the Brunei River.",
+                  "category": "landmark",
+                  "coords": [
+                        114.998974,
+                        4.908394
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BN-BM",
     coords: [114.992, 4.887],
@@ -259,7 +385,52 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-bukit-shahbandar-nature-v2",
+    id: "bn-bukit-shahbandar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taman Rekreasi Hutan Bukit Shahbandar",
+                  "text": "Dieses Naturschutzgebiet zeichnet sich durch sein hügeliges Gelände und sein ausgedehntes Netz an Dschungel-Wanderwegen aus.",
+                  "category": "natural",
+                  "coords": [
+                        114.854474,
+                        4.951715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taman Rekreasi Hutan Bukit Shahbandar",
+                  "text": "Ezt a természetvédelmi területet dombos domborzata és kiterjedt dzsungel-túraútvonal-hálózata jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        114.854474,
+                        4.951715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taman Rekreasi Hutan Bukit Shahbandar",
+                  "text": "Această rezervație naturală se caracterizează prin terenul său deluros și rețeaua extinsă de trasee de drumeții prin junglă.",
+                  "category": "natural",
+                  "coords": [
+                        114.854474,
+                        4.951715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Shahbandar Recreational Park",
+                  "text": "This nature reserve is characterized by its hilly terrain and extensive network of jungle hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        114.854474,
+                        4.951715
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BN-BM",
     coords: [114.858, 4.957],
@@ -451,7 +622,88 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-sungai-liang-forest-park-nature-v2",
+    id: "bn-sungai-liang-forest-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pantai Peranginan Kg Sungai Liang",
+                  "text": "Diese Küstenerholungsattraktion in der Nähe des Waldgebiets Sungai Liang bietet einen Sandstrand, der sich ideal für Strandspaziergänge eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.485363,
+                        4.68583
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Liang",
+                  "text": "Dieses islamische Gotteshaus bildet einen spirituellen Mittelpunkt für die muslimische Gemeinde in der Dorfregion Sungai Liang.",
+                  "category": "landmark",
+                  "coords": [
+                        114.49606,
+                        4.67774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantai Peranginan Kg Sungai Liang",
+                  "text": "A Sungai Liang erdőterület közelében található tengerparti rekreációs látványosság homokos partszakasszal várja a tengerparti séták kedvelőit.",
+                  "category": "landmark",
+                  "coords": [
+                        114.485363,
+                        4.68583
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Liang",
+                  "text": "Ez az iszlám istentiszteleti hely a Sungai Liang falu környékén élő muszlim közösség szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        114.49606,
+                        4.67774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pantai Peranginan Kg Sungai Liang",
+                  "text": "Această atracție de recreere de pe coastă, situată în apropierea zonei forestiere Sungai Liang, are un țărm nisipos potrivit pentru plimbări pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        114.485363,
+                        4.68583
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Liang",
+                  "text": "Acest lăcaș de cult islamic reprezintă un punct focal spiritual pentru comunitatea musulmană care locuiește în zona satului Sungai Liang.",
+                  "category": "landmark",
+                  "coords": [
+                        114.49606,
+                        4.67774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pantai Peranginan Kg Sungai Liang",
+                  "text": "This coastal recreation attraction near the Sungai Liang forest area features a sandy shoreline suitable for seaside strolls.",
+                  "category": "landmark",
+                  "coords": [
+                        114.485363,
+                        4.68583
+                  ]
+            },
+            {
+                  "name": "Liang River Village Mosque",
+                  "text": "This Islamic place of worship provides a spiritual focal point for the Muslim community residing in the Sungai Liang village area.",
+                  "category": "landmark",
+                  "coords": [
+                        114.49606,
+                        4.67774
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BN-BE",
     coords: [114.484, 4.673],
@@ -515,7 +767,124 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-peradayan-forest-reserve-nature-v2",
+    id: "bn-peradayan-forest-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Patoi",
+                  "text": "Der bewaldete Gipfel des Bukit Patoi liegt eingebettet im dichten Dschungel des Peradayan Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        115.1792,
+                        4.746144
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Selangan",
+                  "text": "Die islamische Masjid Kampong Selangan ist ein ländliches Gotteshaus in der üppigen Umgebung des Peradayan Forest Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        115.097936,
+                        4.645331
+                  ]
+            },
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kampung Rataie",
+                  "text": "Die Masjid Rancangan Perumahan Negara Kampung Rataie dient den muslimischen Bewohnern der nationalen Wohnsiedlung als zentrale Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        115.06182,
+                        4.658208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Patoi",
+                  "text": "A Bukit Patoi erdős csúcsa a Peradayan Erdőrezervátum sűrű dzsungelébe ékelődik.",
+                  "category": "natural",
+                  "coords": [
+                        115.1792,
+                        4.746144
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Selangan",
+                  "text": "A muszlim Masjid Kampong Selangan egy vidéki istentiszteleti hely a Peradayan Erdőrezervátum buja környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.097936,
+                        4.645331
+                  ]
+            },
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kampung Rataie",
+                  "text": "A Masjid Rancangan Perumahan Negara Kampung Rataie a nemzeti lakótelep muszlim lakosainak központi mecsetjeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        115.06182,
+                        4.658208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Patoi",
+                  "text": "Vârful împădurit al Bukit Patoi se află ascuns în jungla deasă a rezervației forestiere Peradayan.",
+                  "category": "natural",
+                  "coords": [
+                        115.1792,
+                        4.746144
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Selangan",
+                  "text": "Lăcașul islamic Masjid Kampong Selangan este un loc de cult rural în împrejurimile luxuriante ale rezervației forestiere Peradayan.",
+                  "category": "landmark",
+                  "coords": [
+                        115.097936,
+                        4.645331
+                  ]
+            },
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kampung Rataie",
+                  "text": "Masjid Rancangan Perumahan Negara Kampung Rataie servește drept moschee centrală pentru locuitorii musulmani din complexul național de locuințe.",
+                  "category": "landmark",
+                  "coords": [
+                        115.06182,
+                        4.658208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Patoi",
+                  "text": "The forested peak of Bukit Patoi is nestled within the dense jungle of the Peradayan Forest Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        115.1792,
+                        4.746144
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Selangan",
+                  "text": "The Islamic Masjid Kampong Selangan is a rural house of worship in the lush surroundings of the Peradayan Forest Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        115.097936,
+                        4.645331
+                  ]
+            },
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kampung Rataie",
+                  "text": "The Masjid Rancangan Perumahan Negara Kampung Rataie serves as the central mosque for the Muslim residents of the national housing scheme.",
+                  "category": "landmark",
+                  "coords": [
+                        115.06182,
+                        4.658208
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BN-TE",
     coords: [115.111, 4.707],
@@ -579,7 +948,808 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
     {
-    id: "bn-temburong-river-nature-v2",
+    id: "bn-temburong-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewing Tower",
+                  "text": "Dieser Beobachtungsturm am Fluss Temburong ermöglicht einen Panoramablick über das dichte Flusstal.",
+                  "category": "landmark",
+                  "coords": [
+                        115.006333,
+                        4.756969
+                  ]
+            },
+            {
+                  "name": "Buffalo #3",
+                  "text": "Die Tierskulptur Buffalo #3 am Ufer des Temburong würdigt die Bedeutung der Wasserbüffel für die regionale Landwirtschaft.",
+                  "category": "historical",
+                  "coords": [
+                        115.005749,
+                        4.758092
+                  ]
+            },
+            {
+                  "name": "Buffalo #2",
+                  "text": "Das Denkmal Buffalo #2 in Temburong stellt eine weitere markante Wasserbüffelfigur zur Erinnerung an das ländliche Erbe dar.",
+                  "category": "historical",
+                  "coords": [
+                        115.007238,
+                        4.755765
+                  ]
+            },
+            {
+                  "name": "Bulatan Hospital",
+                  "text": "Der Kreisverkehr am Bulatan Hospital in Temburong dient als markanter Orientierungspunkt auf dem Weg zur medizinischen Einrichtung.",
+                  "category": "landmark",
+                  "coords": [
+                        115.021145,
+                        4.765582
+                  ]
+            },
+            {
+                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
+                  "text": "Die Galeri Warisan Kesenian dan Kebudayaan in Temburong stellt historische Kunstwerke und traditionelle Kulturgüter des Bezirks aus.",
+                  "category": "museum",
+                  "coords": [
+                        115.072285,
+                        4.7064
+                  ]
+            },
+            {
+                  "name": "Surau Syurfatul Jannah",
+                  "text": "Der islamische Gebetsraum Surau Syurfatul Jannah am Temburong River bietet Anwohnern einen spirituellen Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997907,
+                        4.781626
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hidayah Kampung Patiambun",
+                  "text": "Die Surau Darul Hidayah im Kampung Patiambun ist ein lokaler muselmanischer Andachtsraum am Ufer des Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.00175,
+                        4.791476
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Limbang",
+                  "text": "Die neue Moschee von Limbang zeichnet sich durch ihre moderne islamische Architektur nahe der Temburong-Flussregion aus.",
+                  "category": "landmark",
+                  "coords": [
+                        115.011001,
+                        4.770395
+                  ]
+            },
+            {
+                  "name": "Saint Edmund's Catholic Church",
+                  "text": "Die katholische St. Edmund Kirche versammelt die christliche Gemeinde im Gebiet um den Temburong-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        115.001564,
+                        4.740381
+                  ]
+            },
+            {
+                  "name": "Surau Darul Ehsan",
+                  "text": "Die islamische Gebetsstätte Surau Darul Ehsan ist ein zentraler Anlaufpunkt für Gläubige in der Flussregion Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008144,
+                        4.760589
+                  ]
+            },
+            {
+                  "name": "Surau Hospital Limbang",
+                  "text": "Der Andachtsraum Surau Hospital Limbang dient Patienten und Besuchern des örtlichen Krankenhauses als religiöser Rückzugsort.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019465,
+                        4.765285
+                  ]
+            },
+            {
+                  "name": "Limbang Methodist Church",
+                  "text": "Die Limbang Methodist Church ist ein christliches Gotteshaus, das die lokale protestantische Glaubensgemeinschaft betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        115.005582,
+                        4.744046
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Church",
+                  "text": "Die christliche St. Mark's Church bietet regelmäßige Gottesdienste für die Gläubigen nahe der Temburong-Region an.",
+                  "category": "landmark",
+                  "coords": [
+                        115.004562,
+                        4.74285
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Iman",
+                  "text": "Die Baitul Iman Moschee präsentiert sich als spirituelles islamisches Zentrum inmitten der grünen Temburong-Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008732,
+                        4.75588
+                  ]
+            },
+            {
+                  "name": "Masjid Utama Mohammad Salleh",
+                  "text": "Die große islamische Utama Mohammad Salleh Moschee ist ein architektonisches Wahrzeichen der muslimischen Gemeinde am Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        115.070784,
+                        4.70766
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Puni",
+                  "text": "Die Masjid Kampong Puni betreut die islamischen Bewohner des ländlichen Dorfes Puni in Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041865,
+                        4.689506
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Belais",
+                  "text": "Die Dorfgemeinschaft von Belais versammelt sich zum islamischen Gebet in der lokal verankerten Masjid Kampong Belais.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041727,
+                        4.672519
+                  ]
+            },
+            {
+                  "name": "Perusahaan Kulit Ayam",
+                  "text": "Der Handelsplatz Perusahaan Kulit Ayam nahe dem Temburong-Fluss hat sich auf den Verkauf von Geflügelprodukten spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        115.002884,
+                        4.791803
+                  ]
+            },
+            {
+                  "name": "Limbang Pasar",
+                  "text": "Auf dem zentralen Markt Limbang Pasar handeln die Einheimischen mit frischem Gemüse und regionalen Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        115.009595,
+                        4.753559
+                  ]
+            },
+            {
+                  "name": "Pusat Penjaja Medan Bangkita",
+                  "text": "Das Hawker-Zentrum Pusat Penjaja Medan Bangkita lockt mit einer Vielfalt an warmen asiatischen Straßenküchen-Gerichten.",
+                  "category": "cultural",
+                  "coords": [
+                        115.010973,
+                        4.754496
+                  ]
+            },
+            {
+                  "name": "Tamu Limbang",
+                  "text": "Der traditionelle Wochenmarkt Tamu Limbang bietet eine Fülle an handwerklichen Erzeugnissen und frischen Lebensmitteln am Fluss.",
+                  "category": "cultural",
+                  "coords": [
+                        115.008576,
+                        4.754293
+                  ]
+            },
+            {
+                  "name": "Limbang Tamu Jumaat",
+                  "text": "Der Freitagsmarkt Limbang Tamu Jumaat ist ein lebhafter Treffpunkt für Bauern, die hier wöchentlich ihre Ernten verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        115.007619,
+                        4.75737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewing Tower",
+                  "text": "Ez a Temburong folyó menti kilátótorony panorámás kilátást nyújt a sűrű folyóvölgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        115.006333,
+                        4.756969
+                  ]
+            },
+            {
+                  "name": "Buffalo #3",
+                  "text": "A Temburong partján álló Buffalo #3 szobor a vízibivalyok regionális mezőgazdaságban betöltött szerepét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        115.005749,
+                        4.758092
+                  ]
+            },
+            {
+                  "name": "Buffalo #2",
+                  "text": "A temburongi Buffalo #2 emlékmű egy újabb vízibivaly-alakot ábrázol a vidéki örökség tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        115.007238,
+                        4.755765
+                  ]
+            },
+            {
+                  "name": "Bulatan Hospital",
+                  "text": "A temburongi Bulatan Kórház körforgalma fontos tájékozódási pontként szolgál az egészségügyi intézmény felé.",
+                  "category": "landmark",
+                  "coords": [
+                        115.021145,
+                        4.765582
+                  ]
+            },
+            {
+                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
+                  "text": "A temburongi Galeri Warisan Kesenian dan Kebudayaan a kerület történelmi műalkotásait és hagyományos kulturális tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        115.072285,
+                        4.7064
+                  ]
+            },
+            {
+                  "name": "Surau Syurfatul Jannah",
+                  "text": "A Temburong folyó mentén fekvő Surau Syurfatul Jannah muszlim imaterem lelki találkozóhely a helyiek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997907,
+                        4.781626
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hidayah Kampung Patiambun",
+                  "text": "A Kampung Patiambunban található Surau Darul Hidayah egy helyi muszlim imaház a Temburong partján.",
+                  "category": "landmark",
+                  "coords": [
+                        115.00175,
+                        4.791476
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Limbang",
+                  "text": "A limbangi új mecset modern iszlám építészetével tűnik ki a Temburong folyó régiójának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.011001,
+                        4.770395
+                  ]
+            },
+            {
+                  "name": "Saint Edmund's Catholic Church",
+                  "text": "A katolikus Szent Ödön-templom a Temburong folyó környékének keresztény közösségét fogja össze.",
+                  "category": "landmark",
+                  "coords": [
+                        115.001564,
+                        4.740381
+                  ]
+            },
+            {
+                  "name": "Surau Darul Ehsan",
+                  "text": "A Surau Darul Ehsan muszlim imaház központi találkozóhely a hívők számára a Temburong folyó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008144,
+                        4.760589
+                  ]
+            },
+            {
+                  "name": "Surau Hospital Limbang",
+                  "text": "A Surau Hospital Limbang imaház a helyi kórház betegei és látogatói számára nyújt vallási menedéket.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019465,
+                        4.765285
+                  ]
+            },
+            {
+                  "name": "Limbang Methodist Church",
+                  "text": "A Limbang Metodista Templom egy keresztény istentiszteleti hely, amely a helyi protestáns gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        115.005582,
+                        4.744046
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Church",
+                  "text": "A keresztény Szent Márk-templom rendszeres istentiszteleteket tart a hívők számára a Temburong régió közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.004562,
+                        4.74285
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Iman",
+                  "text": "A Baitul Iman mecset egy spirituális iszlám központ a zöld temburongi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008732,
+                        4.75588
+                  ]
+            },
+            {
+                  "name": "Masjid Utama Mohammad Salleh",
+                  "text": "A nagy iszlám Utama Mohammad Salleh mecset a folyó menti muszlim közösség építészeti nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        115.070784,
+                        4.70766
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Puni",
+                  "text": "A Masjid Kampong Puni a temburongi Puni vidéki falu muszlim lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041865,
+                        4.689506
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Belais",
+                  "text": "Belais falu közössége a helyben gyökerező Masjid Kampong Belais mecsetben gyűlik össze iszlám imára.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041727,
+                        4.672519
+                  ]
+            },
+            {
+                  "name": "Perusahaan Kulit Ayam",
+                  "text": "A Temburong folyó közelében fekvő Perusahaan Kulit Ayam piactér baromfitermékek értékesítésére specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        115.002884,
+                        4.791803
+                  ]
+            },
+            {
+                  "name": "Limbang Pasar",
+                  "text": "A Limbang Pasar központi piacán a helyiek friss zöldségekkel és regionális árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        115.009595,
+                        4.753559
+                  ]
+            },
+            {
+                  "name": "Pusat Penjaja Medan Bangkita",
+                  "text": "A Pusat Penjaja Medan Bangkita árusközpont forró ázsiai utcai ételek széles választékával vonzza a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        115.010973,
+                        4.754496
+                  ]
+            },
+            {
+                  "name": "Tamu Limbang",
+                  "text": "A Tamu Limbang hagyományos heti piac kézműves termékek és friss élelmiszerek bőségét kínálja a folyó partján.",
+                  "category": "cultural",
+                  "coords": [
+                        115.008576,
+                        4.754293
+                  ]
+            },
+            {
+                  "name": "Limbang Tamu Jumaat",
+                  "text": "A Limbang Tamu Jumaat pénteki piac nyüzsgő találkozóhely a terményeiket hetente itt árusító gazdák számára.",
+                  "category": "cultural",
+                  "coords": [
+                        115.007619,
+                        4.75737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewing Tower",
+                  "text": "Acest turn de observare de pe râul Temburong permite o vedere panoramică asupra văii dese a râului.",
+                  "category": "landmark",
+                  "coords": [
+                        115.006333,
+                        4.756969
+                  ]
+            },
+            {
+                  "name": "Buffalo #3",
+                  "text": "Sculptura Buffalo #3 de pe malul râului Temburong omagiază importanța bivolilor de apă în agricultura regională.",
+                  "category": "historical",
+                  "coords": [
+                        115.005749,
+                        4.758092
+                  ]
+            },
+            {
+                  "name": "Buffalo #2",
+                  "text": "Monumentul Buffalo #2 din Temburong prezintă încă o figură de bivol de apă, amintind de patrimoniul rural.",
+                  "category": "historical",
+                  "coords": [
+                        115.007238,
+                        4.755765
+                  ]
+            },
+            {
+                  "name": "Bulatan Hospital",
+                  "text": "Sensul giratoriu de la Spitalul Bulatan din Temburong este un punct de reper important în drum spre unitatea medicală.",
+                  "category": "landmark",
+                  "coords": [
+                        115.021145,
+                        4.765582
+                  ]
+            },
+            {
+                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
+                  "text": "Galeri Warisan Kesenian dan Kebudayaan din Temburong expune opere de artă istorice și bunuri culturale tradiționale ale districtului.",
+                  "category": "museum",
+                  "coords": [
+                        115.072285,
+                        4.7064
+                  ]
+            },
+            {
+                  "name": "Surau Syurfatul Jannah",
+                  "text": "Sala de rugăciune islamică Surau Syurfatul Jannah de lângă râul Temburong oferă locuitorilor un loc de întâlnire spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997907,
+                        4.781626
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hidayah Kampung Patiambun",
+                  "text": "Surau Darul Hidayah din Kampung Patiambun este un loc local de cult musulman pe malul râului Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.00175,
+                        4.791476
+                  ]
+            },
+            {
+                  "name": "Masjid Baru Limbang",
+                  "text": "Noua moschee din Limbang se distinge prin arhitectura sa islamică modernă, aproape de regiunea râului Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.011001,
+                        4.770395
+                  ]
+            },
+            {
+                  "name": "Saint Edmund's Catholic Church",
+                  "text": "Biserica catolică Sfântul Edmund adună comunitatea creștină din zona din jurul râului Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.001564,
+                        4.740381
+                  ]
+            },
+            {
+                  "name": "Surau Darul Ehsan",
+                  "text": "Lăcașul de cult islamic Surau Darul Ehsan este un punct central pentru credincioșii din regiunea râului Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008144,
+                        4.760589
+                  ]
+            },
+            {
+                  "name": "Surau Hospital Limbang",
+                  "text": "Sala de rugăciune Surau Hospital Limbang servește pacienților și vizitatorilor spitalului local drept refugiu religios.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019465,
+                        4.765285
+                  ]
+            },
+            {
+                  "name": "Limbang Methodist Church",
+                  "text": "Biserica Metodistă Limbang este un lăcaș de cult creștin care deservește comunitatea locală protestantă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.005582,
+                        4.744046
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Church",
+                  "text": "Biserica creștină Sfântul Marcu oferă slujbe regulate pentru credincioșii din apropierea regiunii Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.004562,
+                        4.74285
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Iman",
+                  "text": "Moscheea Baitul Iman este un centru spiritual islamic situat în peisajul verde al regiunii Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008732,
+                        4.75588
+                  ]
+            },
+            {
+                  "name": "Masjid Utama Mohammad Salleh",
+                  "text": "Marea moschee islamică Utama Mohammad Salleh este un punct de reper arhitectural al comunității musulmane de pe râu.",
+                  "category": "landmark",
+                  "coords": [
+                        115.070784,
+                        4.70766
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Puni",
+                  "text": "Masjid Kampong Puni deservește locuitorii islamici ai satului rural Puni din Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041865,
+                        4.689506
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Belais",
+                  "text": "Comunitatea satului Belais se adună pentru rugăciunea islamică la Masjid Kampong Belais, cu rădăcini locale.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041727,
+                        4.672519
+                  ]
+            },
+            {
+                  "name": "Perusahaan Kulit Ayam",
+                  "text": "Piața Perusahaan Kulit Ayam din apropierea râului Temburong este specializată în vânzarea de produse din carne de pasăre.",
+                  "category": "cultural",
+                  "coords": [
+                        115.002884,
+                        4.791803
+                  ]
+            },
+            {
+                  "name": "Limbang Pasar",
+                  "text": "În piața centrală Limbang Pasar, localnicii fac comerț cu legume proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        115.009595,
+                        4.753559
+                  ]
+            },
+            {
+                  "name": "Pusat Penjaja Medan Bangkita",
+                  "text": "Centrul de vânzători ambulanți Pusat Penjaja Medan Bangkita atrage cu o varietate de mâncăruri asiatice calde de stradă.",
+                  "category": "cultural",
+                  "coords": [
+                        115.010973,
+                        4.754496
+                  ]
+            },
+            {
+                  "name": "Tamu Limbang",
+                  "text": "Piața săptămânală tradițională Tamu Limbang oferă o abundență de produse artizanale și alimente proaspete pe malul râului.",
+                  "category": "cultural",
+                  "coords": [
+                        115.008576,
+                        4.754293
+                  ]
+            },
+            {
+                  "name": "Limbang Tamu Jumaat",
+                  "text": "Piața de vineri Limbang Tamu Jumaat este un punct de întâlnire plin de viață pentru fermierii care își vând săptămânal recoltele aici.",
+                  "category": "cultural",
+                  "coords": [
+                        115.007619,
+                        4.75737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewing Tower",
+                  "text": "This viewing tower along the Temburong River allows for a panoramic look over the dense river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        115.006333,
+                        4.756969
+                  ]
+            },
+            {
+                  "name": "Buffalo #3",
+                  "text": "The Buffalo #3 monument along the Temburong River commemorates the importance of water buffalo to regional agriculture.",
+                  "category": "historical",
+                  "coords": [
+                        115.005749,
+                        4.758092
+                  ]
+            },
+            {
+                  "name": "Buffalo #2",
+                  "text": "The Buffalo #2 monument in Temburong features another water buffalo figure marking the area's rural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        115.007238,
+                        4.755765
+                  ]
+            },
+            {
+                  "name": "Bulatan Hospital",
+                  "text": "The roundabout at Bulatan Hospital in Temburong serves as a prominent landmark on the way to the medical facility.",
+                  "category": "landmark",
+                  "coords": [
+                        115.021145,
+                        4.765582
+                  ]
+            },
+            {
+                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
+                  "text": "The Galeri Warisan Kesenian dan Kebudayaan in Temburong exhibits historical artworks and traditional cultural artifacts of the district.",
+                  "category": "museum",
+                  "coords": [
+                        115.072285,
+                        4.7064
+                  ]
+            },
+            {
+                  "name": "Surau Syurfatul Jannah",
+                  "text": "The Islamic prayer room Surau Syurfatul Jannah by the Temburong River offers residents a spiritual meeting point.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997907,
+                        4.781626
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hidayah Kampung Patiambun",
+                  "text": "The Surau Darul Hidayah in Kampung Patiambun is a local Muslim devotional space on the banks of the Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.00175,
+                        4.791476
+                  ]
+            },
+            {
+                  "name": "Limbang New Mosque",
+                  "text": "The Limbang New Mosque is characterized by its modern Islamic architecture near the Temburong River region.",
+                  "category": "landmark",
+                  "coords": [
+                        115.011001,
+                        4.770395
+                  ]
+            },
+            {
+                  "name": "Saint Edmund's Catholic Church",
+                  "text": "Saint Edmund's Catholic Church gathers the Christian community in the area around the Temburong River.",
+                  "category": "landmark",
+                  "coords": [
+                        115.001564,
+                        4.740381
+                  ]
+            },
+            {
+                  "name": "Surau Darul Ehsan",
+                  "text": "The Islamic prayer site Surau Darul Ehsan is a central gathering point for worshippers in the Temburong river region.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008144,
+                        4.760589
+                  ]
+            },
+            {
+                  "name": "Surau Hospital Limbang",
+                  "text": "The Surau Hospital Limbang prayer room serves as a religious retreat for patients and visitors of the local hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019465,
+                        4.765285
+                  ]
+            },
+            {
+                  "name": "Limbang Methodist Church",
+                  "text": "The Limbang Methodist Church is a Christian house of worship serving the local Protestant congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        115.005582,
+                        4.744046
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Church",
+                  "text": "The Christian Saint Mark's Church offers regular services for the faithful near the Temburong region.",
+                  "category": "landmark",
+                  "coords": [
+                        115.004562,
+                        4.74285
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Iman",
+                  "text": "The Masjid Baitul Iman stands as a spiritual Islamic center amidst the green Temburong landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        115.008732,
+                        4.75588
+                  ]
+            },
+            {
+                  "name": "Masjid Utama Mohammad Salleh",
+                  "text": "The grand Islamic Masjid Utama Mohammad Salleh is an architectural landmark for the Muslim community along the river.",
+                  "category": "landmark",
+                  "coords": [
+                        115.070784,
+                        4.70766
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Puni",
+                  "text": "The Masjid Kampong Puni serves the Islamic residents of the rural village of Puni in Temburong.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041865,
+                        4.689506
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Belais",
+                  "text": "The village community of Belais gathers for Islamic prayer at the locally rooted Masjid Kampong Belais.",
+                  "category": "landmark",
+                  "coords": [
+                        115.041727,
+                        4.672519
+                  ]
+            },
+            {
+                  "name": "Perusahaan Kulit Ayam",
+                  "text": "The Perusahaan Kulit Ayam marketplace near the Temburong River specializes in the sale of poultry products.",
+                  "category": "cultural",
+                  "coords": [
+                        115.002884,
+                        4.791803
+                  ]
+            },
+            {
+                  "name": "Limbang Pasar",
+                  "text": "At the central Limbang Pasar marketplace, locals trade in fresh vegetables and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        115.009595,
+                        4.753559
+                  ]
+            },
+            {
+                  "name": "Pusat Penjaja Medan Bangkita",
+                  "text": "The Pusat Penjaja Medan Bangkita hawker center attracts visitors with a variety of hot Asian street food dishes.",
+                  "category": "cultural",
+                  "coords": [
+                        115.010973,
+                        4.754496
+                  ]
+            },
+            {
+                  "name": "Tamu Limbang",
+                  "text": "The traditional Tamu Limbang weekly market offers an abundance of handmade crafts and fresh food by the river.",
+                  "category": "cultural",
+                  "coords": [
+                        115.008576,
+                        4.754293
+                  ]
+            },
+            {
+                  "name": "Limbang Tamu Jumaat",
+                  "text": "The Limbang Tamu Jumaat Friday market is a bustling meeting point for farmers selling their weekly harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        115.007619,
+                        4.75737
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BN-TE",
     coords: [115.068, 4.733],
@@ -643,7 +1813,124 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-tutong-river-nature-v2",
+    id: "bn-tutong-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Penapar",
+                  "text": "Eine lokale Dorfmoschee in der Nähe der malerischen Ufer des Tutong-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        114.667224,
+                        4.721643
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Perpindahan Bukit Beruang",
+                  "text": "Ein islamisches Gotteshaus, das der Siedlung Bukit Beruang in der Nähe des Tutong-Flusses dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.605154,
+                        4.734295
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Bukit Beruang",
+                  "text": "Eine ältere, traditionelle Moschee, die der historischen Gemeinde in der Nähe des Tutong-Flusses dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.617407,
+                        4.74183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Penapar",
+                  "text": "Helyi falusi mecset a Tutong folyó festői partján.",
+                  "category": "landmark",
+                  "coords": [
+                        114.667224,
+                        4.721643
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Perpindahan Bukit Beruang",
+                  "text": "Egy iszlám istentiszteleti hely a Tutong folyó melletti Bukit Beruang település szolgálatában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.605154,
+                        4.734295
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Bukit Beruang",
+                  "text": "Régebbi, hagyományos mecset, amely a Tutong folyó melletti történelmi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.617407,
+                        4.74183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Penapar",
+                  "text": "O moschee a satului local, situată lângă malurile pitorești ale râului Tutong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.667224,
+                        4.721643
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Perpindahan Bukit Beruang",
+                  "text": "Un lăcaș de cult islamic care deservește așezarea Bukit Beruang de lângă râul Tutong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.605154,
+                        4.734295
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Bukit Beruang",
+                  "text": "O moschee mai veche, tradițională, care deservește comunitatea istorică din apropierea râului Tutong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.617407,
+                        4.74183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Penapar",
+                  "text": "A local village mosque set near the scenic banks of the Tutong River.",
+                  "category": "landmark",
+                  "coords": [
+                        114.667224,
+                        4.721643
+                  ]
+            },
+            {
+                  "name": "Kampong Perpindahan Bukit Beruang Mosque",
+                  "text": "An Islamic place of worship serving the Bukit Beruang resettlement near the Tutong River.",
+                  "category": "landmark",
+                  "coords": [
+                        114.605154,
+                        4.734295
+                  ]
+            },
+            {
+                  "name": "Masjid Lama Bukit Beruang",
+                  "text": "An older, traditional mosque serving the historical community near the Tutong River.",
+                  "category": "landmark",
+                  "coords": [
+                        114.617407,
+                        4.74183
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BN-TU",
     coords: [114.636, 4.761],
@@ -771,7 +2058,412 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-wasai-kandal-nature-v2",
+    id: "bn-wasai-kandal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Titian Akar Waterfall",
+                  "text": "Der Titian Akar Wasserfall ist ein verborgener Wasserlauf im tropischen Regenwald des Wasai Kandal Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        114.868556,
+                        4.905521
+                  ]
+            },
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "Der \"X\" Wasserfall ist eine kleine, abgeschiedene Kaskade im dichten Dschungelgebiet von Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863668,
+                        4.904108
+                  ]
+            },
+            {
+                  "name": "Selangan Kaca Waterfall",
+                  "text": "Das klare Wasser des Selangan Kaca Wasserfalls sammelt sich in einem flachen Naturbecken inmitten der Waldvegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863733,
+                        4.902501
+                  ]
+            },
+            {
+                  "name": "Bebuhun Waterfall",
+                  "text": "Der Bebuhun Wasserfall bahnt sich seinen Weg durch üppiges Dschungelgrün entlang der Wanderwege in Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863662,
+                        4.900843
+                  ]
+            },
+            {
+                  "name": "Mandian Waterfall",
+                  "text": "Der Mandian Wasserfall ist bekannt für seinen kleinen Wasserpool, der einst als natürlicher Badeort inmitten der Natur genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867381,
+                        4.907041
+                  ]
+            },
+            {
+                  "name": "Masjid Paduka Seri Begawan Sultan Omar Ali Saifuddien",
+                  "text": "Diese Moschee in der Nähe des Naturgebiets ist eine wichtige islamische Gebetsstätte mit einem charakteristischen Kuppeldesign.",
+                  "category": "landmark",
+                  "coords": [
+                        114.814218,
+                        4.867818
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Sharif Ali",
+                  "text": "Die Masjid Sultan Sharif Ali dient als markante muslimische Gebetsstätte mit lokaler Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842026,
+                        4.888339
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Perumahan Baitul Mal",
+                  "text": "Balai Ibadat Perumahan Baitul Mal ist ein lokaler islamischer Gebetsraum für die umliegende Wohngemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        114.848492,
+                        4.898575
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Die Masjid Ar-Rahman ist eine engagierte Moschee, die muslimischen Gläubigen der Nachbarschaft einen spirituellen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.853826,
+                        4.892683
+                  ]
+            },
+            {
+                  "name": "Gerai Muafakat Kampong Selayun Sengkurong 'B'",
+                  "text": "Dieser Gemeinschaftsmarkt in Kampong Selayun Sengkurong 'B' bietet eine Vielzahl lokaler Stände mit landwirtschaftlichen Erzeugnissen.",
+                  "category": "cultural",
+                  "coords": [
+                        114.848941,
+                        4.894924
+                  ]
+            },
+            {
+                  "name": "Pasar Tani",
+                  "text": "Pasar Tani ist ein Agrarmarkt, der sich auf den Direktverkauf frischer Ernteerträge an Verbraucher konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        114.847006,
+                        4.895996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Titian Akar Waterfall",
+                  "text": "A Titian Akar vízesés egy rejtett vízfolyás a Wasai Kandal Natúrpark trópusi esőerdejében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.868556,
+                        4.905521
+                  ]
+            },
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "Az \"X\" vízesés egy kis, elszigetelt zuhatag Wasai Kandal sűrű dzsungelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863668,
+                        4.904108
+                  ]
+            },
+            {
+                  "name": "Selangan Kaca Waterfall",
+                  "text": "A Selangan Kaca vízesés tiszta vize egy sekély természetes medencében gyűlik össze az erdei növényzet közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863733,
+                        4.902501
+                  ]
+            },
+            {
+                  "name": "Bebuhun Waterfall",
+                  "text": "A Bebuhun vízesés buja dzsungelnövényzet között tör magának utat a Wasai Kandal túraútvonalai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863662,
+                        4.900843
+                  ]
+            },
+            {
+                  "name": "Mandian Waterfall",
+                  "text": "A Mandian vízesés kis vízmedencéjéről ismert, amelyet egykor természetes fürdőhelyként használtak a természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867381,
+                        4.907041
+                  ]
+            },
+            {
+                  "name": "Masjid Paduka Seri Begawan Sultan Omar Ali Saifuddien",
+                  "text": "Ez a természetvédelmi terület közelében található mecset egy fontos iszlám imaház, jellegzetes kupolás kialakítással.",
+                  "category": "landmark",
+                  "coords": [
+                        114.814218,
+                        4.867818
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Sharif Ali",
+                  "text": "A Masjid Sultan Sharif Ali egy kiemelkedő, helyi építészeti stílusú muszlim istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842026,
+                        4.888339
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Perumahan Baitul Mal",
+                  "text": "A Balai Ibadat Perumahan Baitul Mal egy helyi iszlám imaterem, amely a környező lakóközösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        114.848492,
+                        4.898575
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "A Masjid Ar-Rahman egy mecset, amely spirituális teret biztosít a környékbeli muszlim hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.853826,
+                        4.892683
+                  ]
+            },
+            {
+                  "name": "Gerai Muafakat Kampong Selayun Sengkurong 'B'",
+                  "text": "Ez a közösségi piac a Kampong Selayun Sengkurong 'B' területén különféle helyi standokat kínál mezőgazdasági termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        114.848941,
+                        4.894924
+                  ]
+            },
+            {
+                  "name": "Pasar Tani",
+                  "text": "A Pasar Tani egy termelői piac, amely a friss betakarítású termékek közvetlenül a fogyasztóknak történő értékesítésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        114.847006,
+                        4.895996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Titian Akar Waterfall",
+                  "text": "Cascada Titian Akar este un curs de apă ascuns în pădurea tropicală a Parcului Natural Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.868556,
+                        4.905521
+                  ]
+            },
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "Cascada „X” este o cascadă mică și izolată din zona cu junglă densă a regiunii Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863668,
+                        4.904108
+                  ]
+            },
+            {
+                  "name": "Selangan Kaca Waterfall",
+                  "text": "Apa limpede a cascadei Selangan Kaca se adună într-un bazin natural puțin adânc, în mijlocul vegetației forestiere.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863733,
+                        4.902501
+                  ]
+            },
+            {
+                  "name": "Bebuhun Waterfall",
+                  "text": "Cascada Bebuhun își face loc prin verdeața luxuriantă a junglei de-a lungul traseelor de drumeție din Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863662,
+                        4.900843
+                  ]
+            },
+            {
+                  "name": "Mandian Waterfall",
+                  "text": "Cascada Mandian este cunoscută pentru piscina sa de apă, folosită cândva ca un loc natural de scăldat în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867381,
+                        4.907041
+                  ]
+            },
+            {
+                  "name": "Masjid Paduka Seri Begawan Sultan Omar Ali Saifuddien",
+                  "text": "Această moschee situată în apropierea zonei naturale este un important loc de rugăciune islamic, cu un design caracteristic al cupolei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.814218,
+                        4.867818
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Sharif Ali",
+                  "text": "Masjid Sultan Sharif Ali servește ca un proeminent lăcaș de cult musulman cu arhitectură locală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842026,
+                        4.888339
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Perumahan Baitul Mal",
+                  "text": "Balai Ibadat Perumahan Baitul Mal este o sală de rugăciune islamică locală ce deservește comunitatea rezidențială din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        114.848492,
+                        4.898575
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Masjid Ar-Rahman este o moschee dedicată ce oferă un spațiu spiritual pentru credincioșii musulmani din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        114.853826,
+                        4.892683
+                  ]
+            },
+            {
+                  "name": "Gerai Muafakat Kampong Selayun Sengkurong 'B'",
+                  "text": "Această piață comunitară din Kampong Selayun Sengkurong 'B' oferă o varietate de tarabe locale cu produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        114.848941,
+                        4.894924
+                  ]
+            },
+            {
+                  "name": "Pasar Tani",
+                  "text": "Pasar Tani este o piață agricolă axată pe vânzarea de produse agricole proaspăt recoltate direct consumatorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        114.847006,
+                        4.895996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Titian Akar Waterfall",
+                  "text": "The Titian Akar Waterfall is a hidden water cascade plunging through the tropical rainforest of Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.868556,
+                        4.905521
+                  ]
+            },
+            {
+                  "name": "\"X\" Waterfall",
+                  "text": "The \"X\" Waterfall is a small, secluded cascade nestled in the dense jungle area of Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863668,
+                        4.904108
+                  ]
+            },
+            {
+                  "name": "Selangan Kaca Waterfall",
+                  "text": "The clear waters of the Selangan Kaca Waterfall gather in a shallow natural pool surrounded by forest vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863733,
+                        4.902501
+                  ]
+            },
+            {
+                  "name": "Bebuhun Waterfall",
+                  "text": "The Bebuhun Waterfall carves its way through lush jungle foliage along the hiking paths in Wasai Kandal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.863662,
+                        4.900843
+                  ]
+            },
+            {
+                  "name": "Mandian Waterfall",
+                  "text": "Mandian Waterfall is known for its small plunge pool, which historically served as a natural bathing spot in the forest.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867381,
+                        4.907041
+                  ]
+            },
+            {
+                  "name": "Masjid Paduka Seri Begawan Sultan Omar Ali Saifuddien",
+                  "text": "Located near the nature area, this mosque is an important Islamic site featuring a distinctive domed design.",
+                  "category": "landmark",
+                  "coords": [
+                        114.814218,
+                        4.867818
+                  ]
+            },
+            {
+                  "name": "Masjid Sultan Sharif Ali",
+                  "text": "The Masjid Sultan Sharif Ali serves as a prominent Muslim place of worship featuring local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        114.842026,
+                        4.888339
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Perumahan Baitul Mal",
+                  "text": "Balai Ibadat Perumahan Baitul Mal is a local Islamic prayer hall serving the surrounding residential community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.848492,
+                        4.898575
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Masjid Ar-Rahman is a dedicated mosque providing a spiritual space for the neighborhood's Muslim worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.853826,
+                        4.892683
+                  ]
+            },
+            {
+                  "name": "Gerai Muafakat Kampong Selayun Sengkurong 'B'",
+                  "text": "This community marketplace in Kampong Selayun Sengkurong 'B' offers a variety of local stalls selling agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        114.848941,
+                        4.894924
+                  ]
+            },
+            {
+                  "name": "Pasar Tani",
+                  "text": "Pasar Tani is an agricultural market focused on selling fresh farm produce directly to consumers.",
+                  "category": "cultural",
+                  "coords": [
+                        114.847006,
+                        4.895996
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BN-BM",
     coords: [114.832, 4.881],
@@ -1027,7 +2719,88 @@ export const poiExtraBruneiNatureV2: POI[] = [
     },
   },
   {
-    id: "bn-selirong-island-forest-reserve-nature-v2",
+    id: "bn-selirong-island-forest-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surau Kampung Tanjung Pagar",
+                  "text": "Ein kleiner Gemeinde-Gebetssaal in der Nähe des üppigen Waldreservats der Insel Selirong.",
+                  "category": "religious",
+                  "coords": [
+                        115.203637,
+                        4.89204
+                  ]
+            },
+            {
+                  "name": "Masjid besar Sundar",
+                  "text": "Eine große zentrale Moschee für die islamische Gemeinschaft in der Nähe der Küstenwaldreservate.",
+                  "category": "landmark",
+                  "coords": [
+                        115.212507,
+                        4.897114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surau Kampung Tanjung Pagar",
+                  "text": "Egy kis közösségi imaterem a buja Selirong-sziget Erdőrezervátum közelében.",
+                  "category": "religious",
+                  "coords": [
+                        115.203637,
+                        4.89204
+                  ]
+            },
+            {
+                  "name": "Masjid besar Sundar",
+                  "text": "Egy nagy központi mecset, amely a tengerparti erdőrezervátumok közelében élő iszlám közösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        115.212507,
+                        4.897114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surau Kampung Tanjung Pagar",
+                  "text": "O mică sală de rugăciune comunitară situată în apropierea luxuriantei Rezervații Forestiere a Insulei Selirong.",
+                  "category": "religious",
+                  "coords": [
+                        115.203637,
+                        4.89204
+                  ]
+            },
+            {
+                  "name": "Masjid besar Sundar",
+                  "text": "O mare moschee centrală care deservește comunitatea islamică de lângă rezervațiile forestiere de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.212507,
+                        4.897114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surau Kampung Tanjung Pagar",
+                  "text": "A small community prayer hall located near the lush Selirong Island Forest Reserve.",
+                  "category": "religious",
+                  "coords": [
+                        115.203637,
+                        4.89204
+                  ]
+            },
+            {
+                  "name": "Masjid besar Sundar",
+                  "text": "A large central mosque catering to the Islamic community near the coastal forest reserves.",
+                  "category": "landmark",
+                  "coords": [
+                        115.212507,
+                        4.897114
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BN-BM",
     coords: [115.127, 4.887],

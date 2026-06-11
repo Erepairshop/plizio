@@ -991,7 +991,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "Leuchtturm Patras",
-                  "text": "Ein ikonischer steinerner Leuchtturm und Wahrzeichen im Hafen von Patras.",
+                  "text": "Leuchtturm im Hafen von Patras, erbaut 1999.",
                   "category": "landmark",
                   "coords": [
                         21.725689,
@@ -1009,7 +1009,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "N.O.P",
-                  "text": "Ein Schwimmbad im Hafenbereich von Patras.",
+                  "text": "N.O.P Stadtstrand direkt am Hafen von Patras.",
                   "category": "recreational",
                   "coords": [
                         21.725148,
@@ -1074,7 +1074,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "Pharos tes Patras",
-                  "text": "Jellegzetes kő világítótorony és tájékozódási pont Patrasz kikötőjében.",
+                  "text": "Világítótorony Patras kikötőjében, 1999-ben épült.",
                   "category": "landmark",
                   "coords": [
                         21.725689,
@@ -1092,7 +1092,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "N.O.P",
-                  "text": "Egy úszómedence Patrasz kikötői negyedében.",
+                  "text": "N.O.P városi strand a Patras-i kikötő mellett.",
                   "category": "recreational",
                   "coords": [
                         21.725148,
@@ -1157,7 +1157,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "Pharos tes Patras",
-                  "text": "Un far iconic din piatră și un punct de reper în portul Patras.",
+                  "text": "Far în portul Patras, construit în 1999.",
                   "category": "landmark",
                   "coords": [
                         21.725689,
@@ -1175,7 +1175,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "N.O.P",
-                  "text": "O piscină situată în zona portului din Patras.",
+                  "text": "Plaja urbană N.O.P, lângă portul Patras.",
                   "category": "recreational",
                   "coords": [
                         21.725148,
@@ -1240,7 +1240,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "Patras Lighthouse",
-                  "text": "An iconic stone lighthouse and landmark at the Port of Patras.",
+                  "text": "Lighthouse in Patras Port built in 1999.",
                   "category": "landmark",
                   "coords": [
                         21.725689,
@@ -1258,7 +1258,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             },
             {
                   "name": "N.O.P",
-                  "text": "A swimming pool located in the port area of Patras.",
+                  "text": "N.O.P urban beach adjacent to Patras Port.",
                   "category": "recreational",
                   "coords": [
                         21.725148,
@@ -1920,7 +1920,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
       "de": [
             {
                   "name": "Καλαμάκι",
-                  "text": "Kalamaki ist ein Strand in der Nähe der Raffinerie von Korinth.",
+                  "text": "Kalamaki Strand nahe der Motorenöl-Raffinerie, beliebt zum Windsurfen.",
                   "category": "recreational",
                   "coords": [
                         23.010735,
@@ -1929,7 +1929,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Κρυφή",
-                  "text": "Krifi ist ein Strand in der Nähe der Raffinerie von Korinth.",
+                  "text": "Versteckte Kiesbucht Kryfi mit klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         23.008297,
@@ -1940,7 +1940,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
       "hu": [
             {
                   "name": "Καλαμάκι",
-                  "text": "Kalamaki egy strand a korinthoszi finomító közelében.",
+                  "text": "Kalamaki strand a Motor Oil finomító közelében, szörfözők kedvence.",
                   "category": "recreational",
                   "coords": [
                         23.010735,
@@ -1949,7 +1949,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Κρυφή",
-                  "text": "Krifi egy strand a korinthoszi finomító közelében.",
+                  "text": "Rejtett Kryfi kavicsos öböl tiszta vízzel.",
                   "category": "recreational",
                   "coords": [
                         23.008297,
@@ -1960,7 +1960,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
       "ro": [
             {
                   "name": "Καλαμάκι",
-                  "text": "Kalamaki este o plajă situată în apropierea rafinăriei din Corint.",
+                  "text": "Plaja Kalamaki, lângă rafinăria Motor Oil, populară pentru windsurfing.",
                   "category": "recreational",
                   "coords": [
                         23.010735,
@@ -1969,7 +1969,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Κρυφή",
-                  "text": "Krifi este o plajă situată în apropierea rafinăriei din Corint.",
+                  "text": "Golful ascuns Kryfi, cu pietriș și apă limpede.",
                   "category": "recreational",
                   "coords": [
                         23.008297,
@@ -1980,7 +1980,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
       "en": [
             {
                   "name": "Καλαμάκι",
-                  "text": "Kalamaki is a beach located near the Corinth refinery.",
+                  "text": "Kalamaki beach near the Motor Oil Refinery, popular for windsurfing.",
                   "category": "recreational",
                   "coords": [
                         23.010735,
@@ -1989,7 +1989,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Κρυφή",
-                  "text": "Krifi is a beach located near the Corinth refinery.",
+                  "text": "Hidden Kryfi cove with pebbles and clear water.",
                   "category": "recreational",
                   "coords": [
                         23.008297,
@@ -2234,7 +2234,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Ormos Agiou Nikolaou",
-                  "text": "Eine Bucht in der Nähe von Lavrio an der Küste der Ägäis.",
+                  "text": "Bucht des Hl. Nikolaus (Ormos Agiou Nikolaou) im Industriepark Lavrion.",
                   "category": "landmark",
                   "coords": [
                         24.072152,
@@ -2290,7 +2290,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Ormos Agiou Nikolaou",
-                  "text": "Öböl Lavrio közelében az Égei-tenger partján.",
+                  "text": "Szent Miklós-öböl (Ormos Agiou Nikolaou) a Lavrioni Ipari Parkban.",
                   "category": "landmark",
                   "coords": [
                         24.072152,
@@ -2346,7 +2346,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Ormos Agiou Nikolaou",
-                  "text": "Un golf lângă Lavrio, situat pe coasta Mării Egee.",
+                  "text": "Golful Sfântul Nicolae (Ormos Agiou Nikolaou) în Parcul Industrial Lavrion.",
                   "category": "landmark",
                   "coords": [
                         24.072152,
@@ -2402,7 +2402,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
             },
             {
                   "name": "Ormos Agiou Nikolaou",
-                  "text": "A bay near Lavrio located on the Aegean coast.",
+                  "text": "Bay of St. Nicholas (Ormos Agiou Nikolaou) in the Lavrion Industrial Park.",
                   "category": "landmark",
                   "coords": [
                         24.072152,

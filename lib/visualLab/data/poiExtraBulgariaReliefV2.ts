@@ -178,7 +178,7 @@ export const bulgariaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Wichren",
-                  "text": "Der höchste Gipfel des Pirin-Gebirges in Bulgarien.",
+                  "text": "Wichren, mit 2.914 m der höchste Gipfel des Pirin-Gebirges.",
                   "category": "natural",
                   "coords": [
                         23.398844,
@@ -196,7 +196,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Kutelo",
-                  "text": "Der zweithöchste Gipfel im Pirin-Gebirge.",
+                  "text": "Kutelo, ein 2.908 m hoher Gipfel im Pirin-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         23.400034,
@@ -225,7 +225,7 @@ export const bulgariaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Vihren",
-                  "text": "A bulgáriai Pirin-hegység legmagasabb csúcsa.",
+                  "text": "Vihren, 2914 m, a Pirin-hegység legmagasabb csúcsa.",
                   "category": "natural",
                   "coords": [
                         23.398844,
@@ -243,7 +243,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Kutelo",
-                  "text": "A Pirin-hegység második legmagasabb csúcsa.",
+                  "text": "Kutelo, 2908 m magas csúcs a Pirin-hegységben.",
                   "category": "landmark",
                   "coords": [
                         23.400034,
@@ -272,7 +272,7 @@ export const bulgariaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Vikhren",
-                  "text": "Cel mai înalt vârf din munții Pirin din Bulgaria.",
+                  "text": "Vihren, la 2.914 m, cel mai înalt vârf al munților Pirin.",
                   "category": "natural",
                   "coords": [
                         23.398844,
@@ -290,7 +290,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Kutelo",
-                  "text": "Al doilea cel mai înalt vârf din munții Pirin.",
+                  "text": "Kutelo, un vârf de 2.908 m în munții Pirin.",
                   "category": "landmark",
                   "coords": [
                         23.400034,
@@ -319,7 +319,7 @@ export const bulgariaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Vihren",
-                  "text": "The highest peak of the Pirin Mountains in Bulgaria.",
+                  "text": "Vihren, at 2,914 m the highest peak of the Pirin Mountains.",
                   "category": "natural",
                   "coords": [
                         23.398844,
@@ -337,7 +337,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Kutelo",
-                  "text": "The second highest peak in the Pirin Mountains.",
+                  "text": "Kutelo, a 2,908 m high peak in the Pirin Mountains.",
                   "category": "landmark",
                   "coords": [
                         23.400034,
@@ -2176,7 +2176,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Ebrenes",
-                  "text": "Historische Ruinen in der Region des Rhodopen-Plateaus.",
+                  "text": "Ewrenes (Pulowo), Ruinen einer mittelalterlichen Festung auf dem Rhodopen-Plateau.",
                   "category": "historical",
                   "coords": [
                         24.26058,
@@ -2196,7 +2196,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Ebrenes",
-                  "text": "Történelmi romok a Rodope-fennsík régiójában.",
+                  "text": "Evrenes (Pulovo), egy középkori erőd romjai a Rodope-fennsíkon.",
                   "category": "historical",
                   "coords": [
                         24.26058,
@@ -2216,7 +2216,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Ebrenes",
-                  "text": "Ruine istorice în regiunea platoului Rodopi.",
+                  "text": "Evrenes (Pulovo), ruinele unei cetăți medievale pe Podișul Rodopilor.",
                   "category": "historical",
                   "coords": [
                         24.26058,
@@ -2236,7 +2236,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Evrenes (Pulovo)",
-                  "text": "Historical ruins in the Rhodope Plateau region.",
+                  "text": "Evrenes (Pulovo), ruins of a medieval fortress on the Rhodope Plateau.",
                   "category": "historical",
                   "coords": [
                         24.26058,
@@ -3067,7 +3067,7 @@ export const bulgariaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Zelenikovski manastir \"Sv. Ioan Kr'stitel\"",
-                  "text": "Abgelegenes orthodoxes Kloster in den Balkangebirgen.",
+                  "text": "Bulgarisch-orthodoxes Kloster in einem abgelegenen Tal des Balkangebirges.",
                   "category": "religious",
                   "coords": [
                         24.804272,
@@ -3078,7 +3078,7 @@ export const bulgariaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Zelenikovski manastir \"Sv. Ioan Kr'stitel\"",
-                  "text": "Távoli ortodox kolostor a Balkán-hegységben.",
+                  "text": "Bolgár ortodox kolostor a Balkán-hegység egy félreeső völgyében.",
                   "category": "religious",
                   "coords": [
                         24.804272,
@@ -3089,7 +3089,7 @@ export const bulgariaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Zelenikovski manastir \"Sv. Ioan Kr'stitel\"",
-                  "text": "Mănăstire ortodoxă izolată situată în Munții Balcani.",
+                  "text": "Mănăstire ortodoxă bulgară situată într-o vale izolată a Munților Balcani.",
                   "category": "religious",
                   "coords": [
                         24.804272,
@@ -3100,7 +3100,7 @@ export const bulgariaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Zelenikovski monastery",
-                  "text": "Remote Orthodox monastery located in the Balkan Mountains.",
+                  "text": "Bulgarian Orthodox monastery located in a remote valley of the Balkan Mountains.",
                   "category": "religious",
                   "coords": [
                         24.804272,
@@ -3373,7 +3373,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Tetevenska Baba",
-                  "text": "Ein markanter Berggipfel im Balkangebirge.",
+                  "text": "Ein markanter Felspfeiler auf dem Kamm des Balkangebirges.",
                   "category": "landmark",
                   "coords": [
                         24.286123,
@@ -3393,7 +3393,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Tetevenska Baba",
-                  "text": "Egy jellegzetes hegycsúcs a Balkán-hegységben.",
+                  "text": "Egy jellegzetes sziklacsúcs a Balkán-hegység gerincén.",
                   "category": "landmark",
                   "coords": [
                         24.286123,
@@ -3413,7 +3413,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Tetevenska Baba",
-                  "text": "Un vârf montan proeminent în munții Stara Planina.",
+                  "text": "Un vârf stâncos distinctiv pe creasta Munților Balcani.",
                   "category": "landmark",
                   "coords": [
                         24.286123,
@@ -3433,7 +3433,7 @@ export const bulgariaReliefV2: POI[] = [
             },
             {
                   "name": "Tetevenska baba",
-                  "text": "A prominent mountain peak in the Stara Planina range.",
+                  "text": "A distinctive rock peak on the Stara Planina ridge.",
                   "category": "landmark",
                   "coords": [
                         24.286123,

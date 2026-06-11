@@ -61,7 +61,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Zivilschutzmuseum",
-                  "text": "Einzigartiges Museum in einem Bunker über den Zivilschutz.",
+                  "text": "Das Zivilschutzmuseum dokumentiert den Schweizer Zivilschutz mit originalgetreuen Bunkeranlagen und Schutzausrüstung.",
                   "category": "museum",
                   "coords": [
                         8.526978,
@@ -79,7 +79,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Haus Konstruktiv",
-                  "text": "Museum für konstruktive, konkrete und konzeptionelle Kunst.",
+                  "text": "Das Haus Konstruktiv zeigt eine Sammlung konkreter und konstruktiver Kunst von der Nachkriegszeit bis zur Gegenwart.",
                   "category": "museum",
                   "coords": [
                         8.525269,
@@ -106,7 +106,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Focus Terra",
-                  "text": "Interaktives Museum für Geowissenschaften der ETH Zürich.",
+                  "text": "Das Focus Terra ist ein erdwissenschaftliches Museum der ETH Zürich mit interaktiven Ausstellungen zu Geologie und Naturgefahren.",
                   "category": "museum",
                   "coords": [
                         8.547457,
@@ -331,7 +331,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirche Oberstrass",
-                  "text": "Evangelische Kirche im Zürcher Stadtkreis Oberstrass.",
+                  "text": "Die Kirche Oberstrass ist eine reformierte Kirche im neuromanischen Stil mit einem markanten Turm im Zürcher Quartier Oberstrass.",
                   "category": "religious",
                   "coords": [
                         8.546811,
@@ -349,7 +349,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Herz Jesu Wiedikon",
-                  "text": "Große katholische Kirche im neugotischen Stil in Wiedikon.",
+                  "text": "Die Herz-Jesu-Kirche Wiedikon ist eine katholische Kirche aus den 1890er Jahren mit zwei Türmen und neoromanischen Elementen.",
                   "category": "religious",
                   "coords": [
                         8.514238,
@@ -700,7 +700,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Keen",
-                  "text": "Eine öffentliche Badeanlage in Zürich West.",
+                  "text": "Familienfreundliche Einrichtung namens Keen im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.524962,
@@ -718,7 +718,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "Eine Schulschwimmanlage in Zürich West.",
+                  "text": "Schulschwimmanlage Kügeliloo im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.528038,
@@ -745,7 +745,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schul-Schwimmbad Altweg",
-                  "text": "Ein Schulschwimmbad in Zürich West.",
+                  "text": "Schul-Schwimmbad Altweg im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.492076,
@@ -754,7 +754,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Entspannung im öffentlichen Bad in Zürich West.",
+                  "text": "Hammam & Spa im historischen Stadtbad Zürich im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.527128,
@@ -763,7 +763,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Wellenbad",
-                  "text": "Wellenbad für Schwimmspaß in Zürich West.",
+                  "text": "Wellenbad im Zürich West District mit künstlichen Wellen.",
                   "category": "family",
                   "coords": [
                         8.498531,
@@ -772,7 +772,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Strandbad Mythenquai",
-                  "text": "Strandbad am See für einen erholsamen Tag in Zürich West.",
+                  "text": "Strandbad Mythenquai am Seeufer im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.535755,
@@ -781,7 +781,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Tierpark Waidberg",
-                  "text": "Tierpark für einen gemütlichen Familienspaziergang in Zürich West.",
+                  "text": "Tierpark Waidberg auf dem Hügel im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.517004,
@@ -790,7 +790,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Wahlenpark",
-                  "text": "Planschbecken für kleine Kindern in Zürich West.",
+                  "text": "Planschbecken im Wahlenpark im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.541041,
@@ -799,7 +799,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Unterer Letten",
-                  "text": "Historisches Flussbad zum Schwimmen in Zürich West.",
+                  "text": "Flussbad Unterer Letten an der Limmat im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.529185,
@@ -808,7 +808,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Au-Höngg",
-                  "text": "Naturnahes Flussbad zur Erholung in Zürich West.",
+                  "text": "Flussbad Au-Höngg an der Limmat im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.490216,
@@ -817,7 +817,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Fritschiwiese",
-                  "text": "Flaches Becken zum Planschen für Kinder in Zürich West.",
+                  "text": "Planschbecken auf der Fritschiwiese im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.512264,
@@ -826,7 +826,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Sihlhölzli",
-                  "text": "Kleines Becken für den Wasserspaß der Kinder in Zürich West.",
+                  "text": "Planschbecken im Sihlhölzli im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.523754,
@@ -835,7 +835,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Volière",
-                  "text": "Voliere mit verschiedenen Vogelarten in Zürich West.",
+                  "text": "Die Volière Zürich ist eine große Freiflugvoliere mit exotischen Vögeln am Zürichseeufer im Stadtzentrum.",
                   "category": "family",
                   "coords": [
                         8.535687,
@@ -844,7 +844,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Frauenbad Stadthausquai",
-                  "text": "Traditionelles Flussbad für Frauen in Zürich West.",
+                  "text": "Historisches Frauenbad am Stadthausquai im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.54215,
@@ -853,7 +853,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Josefwiese",
-                  "text": "Planschbecken für Kinder im Park in Zürich West.",
+                  "text": "Planschbecken auf der Josefwiese im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.522806,
@@ -862,7 +862,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Borrweg",
-                  "text": "Watschbecken für kleine Kinder in Zürich West.",
+                  "text": "Planschbecken am Borrweg im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.50549,
@@ -871,7 +871,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vogelzucht Martins",
-                  "text": "Vogelzucht-Anlage zum Besichtigen in Zürich West.",
+                  "text": "Vogelzucht Martins im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.502493,
@@ -889,7 +889,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Bachwiesen",
-                  "text": "Wasserspielbereich für Familien in Zürich West.",
+                  "text": "Planschbecken an den Bachwiesen im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.48607,
@@ -898,7 +898,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Föhrenwald",
-                  "text": "Kleines Becken für Kinder in Zürich West.",
+                  "text": "Planschbecken im Föhrenwald im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.541697,
@@ -907,7 +907,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Althoos",
-                  "text": "Planschbecken für Familien in Zürich West.",
+                  "text": "Planschbecken in Althoos im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.521485,
@@ -981,7 +981,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Zivilschutzmuseum",
-                  "text": "Egyedülálló múzeum egy bunkerben a polgári védelemről.",
+                  "text": "A Zivilschutzmuseum a svájci polgári védelmet mutatja be eredeti bunkerekkel és védőfelszerelésekkel.",
                   "category": "museum",
                   "coords": [
                         8.526978,
@@ -999,7 +999,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Haus Konstruktiv",
-                  "text": "Konstruktív, konkrét és konceptuális művészeti múzeum.",
+                  "text": "A Haus Konstruktiv a konkrét és konstruktív művészet gyűjteményét mutatja be a háború utáni időszaktól napjainkig.",
                   "category": "museum",
                   "coords": [
                         8.525269,
@@ -1026,7 +1026,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Focus Terra",
-                  "text": "Az ETH Zürich interaktív földtudományi múzeuma.",
+                  "text": "A Focus Terra az ETH Zürich földtudományi múzeuma, interaktív kiállításokkal a geológiáról és a természeti veszélyekről.",
                   "category": "museum",
                   "coords": [
                         8.547457,
@@ -1251,7 +1251,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirche Oberstrass",
-                  "text": "Evangélikus templom Zürich Oberstrass városrészében.",
+                  "text": "Az Oberstrassi templom egy református templom neoromán stílusban, jellegzetes toronnyal a zürichi Oberstrass negyedben.",
                   "category": "religious",
                   "coords": [
                         8.546811,
@@ -1269,7 +1269,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Herz Jesu Wiedikon",
-                  "text": "Nagy neogótikus stílusú katolikus templom Wiedikonban.",
+                  "text": "A Wiedikoni Jézus Szíve-templom egy 1890-es években épült katolikus templom két toronnyal és neoromán elemekkel.",
                   "category": "religious",
                   "coords": [
                         8.514238,
@@ -1620,7 +1620,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Keen",
-                  "text": "Nyilvános fürdőhely Zürich nyugati részén.",
+                  "text": "Családbarát létesítmény, Keen néven, a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.524962,
@@ -1638,7 +1638,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "Iskolai úszólétesítmény Zürich nyugati részén.",
+                  "text": "Kügeliloo iskolai úszólétesítmény a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.528038,
@@ -1665,7 +1665,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schul-Schwimmbad Altweg",
-                  "text": "Iskolai úszómedence Zürich nyugati részén.",
+                  "text": "Altweg iskolai uszoda a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.492076,
@@ -1674,7 +1674,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Kikapcsolódás a közfürdőben Zürich Westben.",
+                  "text": "Hammam és spa a történelmi Stadtbad Zürich épületében, a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.527128,
@@ -1683,7 +1683,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Wellenbad",
-                  "text": "Hullámfürdő a családi szórakozáshoz Zürich Westben.",
+                  "text": "Hullámfürdő a Zürich nyugati kerületben, mesterséges hullámokkal.",
                   "category": "family",
                   "coords": [
                         8.498531,
@@ -1692,7 +1692,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Strandbad Mythenquai",
-                  "text": "Strandfürdő a tóparton egy pihentető naphoz Zürich Westben.",
+                  "text": "Mythenquai tóparti strand a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.535755,
@@ -1701,7 +1701,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Tierpark Waidberg",
-                  "text": "Vadaspark egy kellemes családi sétához Zürich Westben.",
+                  "text": "Waidberg állatpark a dombon a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.517004,
@@ -1710,7 +1710,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Wahlenpark",
-                  "text": "Pancsoló kisgyermekek számára Zürich Westben.",
+                  "text": "Pancsolómedence a Wahlenparkban a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.541041,
@@ -1719,7 +1719,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Unterer Letten",
-                  "text": "Történelmi folyami fürdő úszáshoz Zürich Westben.",
+                  "text": "Unterer Letten folyami fürdő a Limmat partján a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.529185,
@@ -1728,7 +1728,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Au-Höngg",
-                  "text": "Természetközeli folyami fürdő pihenéshez Zürich Westben.",
+                  "text": "Au-Höngg folyami fürdő a Limmat partján a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.490216,
@@ -1737,7 +1737,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Fritschiwiese",
-                  "text": "Sekély medence pancsoláshoz gyermekeknek Zürich Westben.",
+                  "text": "Pancsolómedence a Fritschiwiese réten a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.512264,
@@ -1746,7 +1746,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Sihlhölzli",
-                  "text": "Kis medence a gyermekek vízi szórakozásához Zürich Westben.",
+                  "text": "Pancsolómedence a Sihlhölzli területén a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.523754,
@@ -1755,7 +1755,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Volière",
-                  "text": "Röpdék különböző madárfajokkal Zürich Westben.",
+                  "text": "A Zürichi Volière egy nagy szabadröptű madárház egzotikus madarakkal a Zürichi-tó partján, a városközpontban.",
                   "category": "family",
                   "coords": [
                         8.535687,
@@ -1764,7 +1764,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Frauenbad Stadthausquai",
-                  "text": "Hagyományos folyami fürdő nők számára Zürich Westben.",
+                  "text": "Történelmi női fürdő a Stadthausquai-nál a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.54215,
@@ -1773,7 +1773,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Josefwiese",
-                  "text": "Pancsoló gyermekeknek a parkban Zürich Westben.",
+                  "text": "Pancsolómedence a Josefwiese-n a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.522806,
@@ -1782,7 +1782,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Borrweg",
-                  "text": "Pancsoló kisgyermekeknek Zürich Westben.",
+                  "text": "Pancsolómedence a Borrweg-nél a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.50549,
@@ -1791,7 +1791,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vogelzucht Martins",
-                  "text": "Madártenyésztő telep látogatásra Zürich Westben.",
+                  "text": "Martins madártenyészet a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.502493,
@@ -1809,7 +1809,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Bachwiesen",
-                  "text": "Vízi játszótér családoknak Zürich Westben.",
+                  "text": "Pancsolómedence a Bachwiesen-nél a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.48607,
@@ -1818,7 +1818,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Föhrenwald",
-                  "text": "Kis medence gyermekeknek Zürich Westben.",
+                  "text": "Pancsolómedence a Föhrenwald erdőben a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.541697,
@@ -1827,7 +1827,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Althoos",
-                  "text": "Pancsoló családok számára Zürich Westben.",
+                  "text": "Pancsolómedence Althoos-ban a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.521485,
@@ -1901,7 +1901,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Zivilschutzmuseum",
-                  "text": "Muzeu unic într-un buncăr despre protecția civilă.",
+                  "text": "Muzeul Protecției Civile documentează protecția civilă elvețiană cu buncăre originale și echipamente de protecție.",
                   "category": "museum",
                   "coords": [
                         8.526978,
@@ -1919,7 +1919,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Haus Konstruktiv",
-                  "text": "Muzeu pentru artă constructivă, concretă și conceptuală.",
+                  "text": "Haus Konstruktiv prezintă o colecție de artă concretă și constructivă din perioada postbelică până în prezent.",
                   "category": "museum",
                   "coords": [
                         8.525269,
@@ -1946,7 +1946,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Focus Terra",
-                  "text": "Muzeu interactiv de științe ale pământului al ETH Zürich.",
+                  "text": "Focus Terra este un muzeu de științe ale pământului al ETH Zürich, cu expoziții interactive despre geologie și pericole naturale.",
                   "category": "museum",
                   "coords": [
                         8.547457,
@@ -2171,7 +2171,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirche Oberstrass",
-                  "text": "Biserică evanghelică situată în districtul Oberstrass din Zürich.",
+                  "text": "Biserica Oberstrass este o biserică reformată în stil neoromanic, cu un turn distinctiv în cartierul Oberstrass din Zurich.",
                   "category": "religious",
                   "coords": [
                         8.546811,
@@ -2189,7 +2189,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Herz Jesu Wiedikon",
-                  "text": "Biserică catolică impunătoare în stil neogotic din zona Wiedikon.",
+                  "text": "Biserica Inimii lui Isus din Wiedikon este o biserică catolică din anii 1890, cu două turnuri și elemente neoromanice.",
                   "category": "religious",
                   "coords": [
                         8.514238,
@@ -2540,7 +2540,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Keen",
-                  "text": "O unitate de baie publică în Zurich West.",
+                  "text": "Locație familială numită Keen în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.524962,
@@ -2558,7 +2558,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "O facilitate de înot școlară în Zurich West.",
+                  "text": "Instalație de înot școlară Kügeliloo în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.528038,
@@ -2585,7 +2585,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schul-Schwimmbad Altweg",
-                  "text": "O piscină școlară în Zurich West.",
+                  "text": "Piscină școlară Altweg în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.492076,
@@ -2594,7 +2594,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Relaxare la baia publică din Zurich West.",
+                  "text": "Hammam și spa la istoricul Stadtbad Zürich în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.527128,
@@ -2603,7 +2603,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Wellenbad",
-                  "text": "Piscină cu valuri pentru distracție la scăldat în Zurich West.",
+                  "text": "Bazin cu valuri în Districtul Zurich Vest, cu valuri artificiale.",
                   "category": "family",
                   "coords": [
                         8.498531,
@@ -2612,7 +2612,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Strandbad Mythenquai",
-                  "text": "Ștrand pe malul lacului pentru o zi relaxantă în Zurich West.",
+                  "text": "Plajă pe malul lacului Mythenquai în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.535755,
@@ -2621,7 +2621,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Tierpark Waidberg",
-                  "text": "Parc de animale pentru o plimbare plăcută în familie în Zurich West.",
+                  "text": "Parcul animalier Waidberg pe deal în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.517004,
@@ -2630,7 +2630,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Wahlenpark",
-                  "text": "Piscină pentru copii mici în Zurich West.",
+                  "text": "Bazin de joacă în Wahlenpark, Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.541041,
@@ -2639,7 +2639,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Unterer Letten",
-                  "text": "Baie fluvială istorică pentru înot în Zurich West.",
+                  "text": "Baie fluvială Unterer Letten pe râul Limmat în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.529185,
@@ -2648,7 +2648,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Au-Höngg",
-                  "text": "Baie fluvială aproape de natură pentru relaxare în Zurich West.",
+                  "text": "Baie fluvială Au-Höngg pe râul Limmat în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.490216,
@@ -2657,7 +2657,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Fritschiwiese",
-                  "text": "Piscină cu apă puțin adâncă pentru copii în Zurich West.",
+                  "text": "Bazin de joacă pe pajiștea Fritschiwiese în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.512264,
@@ -2666,7 +2666,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Sihlhölzli",
-                  "text": "Piscină mică pentru distracția copiilor în Zurich West.",
+                  "text": "Bazin de joacă în zona Sihlhölzli din Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.523754,
@@ -2675,7 +2675,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Volière",
-                  "text": "Volieră cu diverse specii de păsări în Zurich West.",
+                  "text": "Voliera din Zürich este o volieră mare de zbor liber cu păsări exotice pe malul lacului Zürich, în centrul orașului.",
                   "category": "family",
                   "coords": [
                         8.535687,
@@ -2684,7 +2684,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Frauenbad Stadthausquai",
-                  "text": "Baie fluvială tradițională pentru femei în Zurich West.",
+                  "text": "Baie istorică pentru femei la Stadthausquai în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.54215,
@@ -2693,7 +2693,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Josefwiese",
-                  "text": "Piscină pentru copii în parcul din Zurich West.",
+                  "text": "Bazin de joacă pe Josefwiese în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.522806,
@@ -2702,7 +2702,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Borrweg",
-                  "text": "Piscină pentru copii mici în Zurich West.",
+                  "text": "Bazin de joacă la Borrweg în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.50549,
@@ -2711,7 +2711,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vogelzucht Martins",
-                  "text": "Zonă de creștere a păsărilor pentru vizitare în Zurich West.",
+                  "text": "Creșterea de păsări Martins în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.502493,
@@ -2729,7 +2729,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Bachwiesen",
-                  "text": "Zonă de joacă cu apă pentru familii în Zurich West.",
+                  "text": "Bazin de joacă la Bachwiesen în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.48607,
@@ -2738,7 +2738,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Föhrenwald",
-                  "text": "Piscină mică pentru copii în Zurich West.",
+                  "text": "Bazin de joacă în pădurea Föhrenwald din Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.541697,
@@ -2747,7 +2747,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Althoos",
-                  "text": "Piscină pentru familii în Zurich West.",
+                  "text": "Bazin de joacă în Althoos, Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.521485,
@@ -2821,7 +2821,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Zivilschutzmuseum",
-                  "text": "Unique museum in a bunker about civil defense.",
+                  "text": "The Zivilschutzmuseum documents Swiss civil protection with original bunkers and protective equipment.",
                   "category": "museum",
                   "coords": [
                         8.526978,
@@ -2839,7 +2839,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Haus Konstruktiv",
-                  "text": "Museum for constructive, concrete, and conceptual art.",
+                  "text": "Haus Konstruktiv displays a collection of concrete and constructive art from the post-war period to the present.",
                   "category": "museum",
                   "coords": [
                         8.525269,
@@ -2866,7 +2866,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Focus Terra",
-                  "text": "Interactive earth sciences museum of ETH Zurich.",
+                  "text": "Focus Terra is an earth science museum at ETH Zurich featuring interactive exhibits on geology and natural hazards.",
                   "category": "museum",
                   "coords": [
                         8.547457,
@@ -3091,7 +3091,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirche Oberstrass",
-                  "text": "Protestant church located in Zurich's Oberstrass district.",
+                  "text": "Kirche Oberstrass is a Reformed church in Neo-Romanesque style with a distinctive tower in Zurich's Oberstrass quarter.",
                   "category": "religious",
                   "coords": [
                         8.546811,
@@ -3109,7 +3109,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Herz Jesu Wiedikon",
-                  "text": "Large Neogothic Catholic church in the Wiedikon area.",
+                  "text": "Herz Jesu Wiedikon is a Catholic church built in the 1890s with twin towers and Neo-Romanesque features.",
                   "category": "religious",
                   "coords": [
                         8.514238,
@@ -3460,7 +3460,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Keen",
-                  "text": "A public bathing facility in Zurich West.",
+                  "text": "A family-friendly venue called Keen in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.524962,
@@ -3478,7 +3478,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "A school swimming facility in Zurich West.",
+                  "text": "School swimming facility Kügeliloo in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.528038,
@@ -3505,7 +3505,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Schul-Schwimmbad Altweg",
-                  "text": "A school swimming pool in Zurich West.",
+                  "text": "School swimming pool Altweg in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.492076,
@@ -3514,7 +3514,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Relaxation at the public bath in Zurich West.",
+                  "text": "Hammam and spa at the historic Stadtbad Zürich in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.527128,
@@ -3523,7 +3523,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Wellenbad",
-                  "text": "Wave pool for swimming fun in Zurich West.",
+                  "text": "Wave pool in Zurich West District with artificial waves.",
                   "category": "family",
                   "coords": [
                         8.498531,
@@ -3532,7 +3532,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Strandbad Mythenquai",
-                  "text": "Lakeside bath for a relaxing day in Zurich West.",
+                  "text": "Lakeside beach Mythenquai in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.535755,
@@ -3541,7 +3541,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Tierpark Waidberg",
-                  "text": "Animal park for a pleasant family walk in Zurich West.",
+                  "text": "Animal park on Waidberg hill in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.517004,
@@ -3550,7 +3550,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Wahlenpark",
-                  "text": "Paddling pool for small children in Zurich West.",
+                  "text": "Paddling pool in Wahlenpark in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.541041,
@@ -3559,7 +3559,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Unterer Letten",
-                  "text": "Historic river bath for swimming in Zurich West.",
+                  "text": "River swimming area Unterer Letten on the Limmat in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.529185,
@@ -3568,7 +3568,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Flussbad Au-Höngg",
-                  "text": "Natural river bath for relaxation in Zurich West.",
+                  "text": "River swimming area Au-Höngg on the Limmat in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.490216,
@@ -3577,7 +3577,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Fritschiwiese",
-                  "text": "Shallow pool for children to splash in Zurich West.",
+                  "text": "Paddling pool on Fritschiwiese meadow in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.512264,
@@ -3586,7 +3586,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Sihlhölzli",
-                  "text": "Small pool for children's water fun in Zurich West.",
+                  "text": "Paddling pool in the Sihlhölzli area of Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.523754,
@@ -3595,7 +3595,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Volière",
-                  "text": "Aviary with various bird species in Zurich West.",
+                  "text": "The Volière Zürich is a large walk-in aviary with exotic birds on the shores of Lake Zurich in the city center.",
                   "category": "family",
                   "coords": [
                         8.535687,
@@ -3604,7 +3604,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Frauenbad Stadthausquai",
-                  "text": "Traditional river bath for women in Zurich West.",
+                  "text": "Historic women's bathing area at Stadthausquai in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.54215,
@@ -3613,7 +3613,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Josefwiese",
-                  "text": "Paddling pool for children in the park in Zurich West.",
+                  "text": "Paddling pool on Josefwiese in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.522806,
@@ -3622,7 +3622,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Borrweg",
-                  "text": "Wading pool for small children in Zurich West.",
+                  "text": "Paddling pool at Borrweg in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.50549,
@@ -3631,7 +3631,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vogelzucht Martins",
-                  "text": "Bird breeding facility to visit in Zurich West.",
+                  "text": "Bird breeding facility Martins in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.502493,
@@ -3649,7 +3649,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Bachwiesen",
-                  "text": "Water play area for families in Zurich West.",
+                  "text": "Paddling pool at Bachwiesen in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.48607,
@@ -3658,7 +3658,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Föhrenwald",
-                  "text": "Small pool for children in Zurich West.",
+                  "text": "Paddling pool in Föhrenwald forest in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.541697,
@@ -3667,7 +3667,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Planschbecken Althoos",
-                  "text": "Paddling pool for families in Zurich West.",
+                  "text": "Paddling pool in Althoos in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.521485,
@@ -3886,7 +3886,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kapelle des Heiligen Jean-Baptiste",
-                  "text": "Eine kleine Kapelle, die dem heiligen Johannes dem Täufer gewidmet ist.",
+                  "text": "Die Chapelle Saint Jean-Baptiste befindet sich am Fuss der Grande-Dixence-Talsperre, der höchsten Gewichtsstaumauer der Welt.",
                   "category": "religious",
                   "coords": [
                         7.403121,
@@ -3960,7 +3960,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint Jean-Baptiste",
-                  "text": "Keresztelő Szent Jánosnak szentelt kis kápolna.",
+                  "text": "A Keresztelő Szent János-kápolna a Grande Dixence-gát lábánál található, amely a világ legmagasabb gravitációs gátja.",
                   "category": "religious",
                   "coords": [
                         7.403121,
@@ -4034,7 +4034,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint Jean-Baptiste",
-                  "text": "O mică capelă dedicată Sfântului Ioan Botezătorul.",
+                  "text": "Capela Sfântul Ioan Botezătorul se află la baza barajului Grande Dixence, cel mai înalt baraj de greutate din lume.",
                   "category": "religious",
                   "coords": [
                         7.403121,
@@ -4108,7 +4108,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint Jean-Baptiste",
-                  "text": "A small chapel dedicated to Saint John the Baptist.",
+                  "text": "The Chapel of St. John the Baptist is at the foot of the Grande Dixence dam, the world's tallest gravity dam.",
                   "category": "religious",
                   "coords": [
                         7.403121,
@@ -4930,7 +4930,7 @@ export const switzerlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Burg Spitzenberg",
-                  "text": "Eine ehemalige mittelalterliche Burg im Emmental.",
+                  "text": "Die Burg Spitzenberg ist eine mittelalterliche Burgruine auf einem Hügel über dem Emmental.",
                   "category": "castle",
                   "coords": [
                         7.811736,
@@ -4984,7 +4984,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirchgemeindehaus",
-                  "text": "Ein lokaler Veranstaltungsort für kulturelle und kirchliche Ereignisse.",
+                  "text": "Gemeindehaus der Kirchgemeinde im Agri Dairy Emmental.",
                   "category": "cultural",
                   "coords": [
                         7.785739,
@@ -4993,7 +4993,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Erdburg Zwingherr",
-                  "text": "Eine historische archäologische Stätte in der Emmentaler Region.",
+                  "text": "Historische Erdburg Zwingherr im Agri Dairy Emmental.",
                   "category": "historical",
                   "coords": [
                         7.722937,
@@ -5004,7 +5004,7 @@ export const switzerlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Burg Spitzenberg",
-                  "text": "Egykori középkori vár az Emmental régióban.",
+                  "text": "A Spitzenberg-vár egy középkori várrom egy dombon, az Emmental fölött.",
                   "category": "castle",
                   "coords": [
                         7.811736,
@@ -5058,7 +5058,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirchgemeindehaus",
-                  "text": "Helyi rendezvényhelyszín kulturális és egyházi események számára.",
+                  "text": "Egyházközségi közösségi ház az Agri Dairy Emmentalban.",
                   "category": "cultural",
                   "coords": [
                         7.785739,
@@ -5067,7 +5067,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Erdburg Zwingherr",
-                  "text": "Történelmi régészeti lelőhely az Emmental régióban.",
+                  "text": "Történelmi földvár, Zwingherr, az Agri Dairy Emmentalban.",
                   "category": "historical",
                   "coords": [
                         7.722937,
@@ -5078,7 +5078,7 @@ export const switzerlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Burg Spitzenberg",
-                  "text": "O fostă cetate medievală situată în Emmental.",
+                  "text": "Castelul Spitzenberg este o ruină medievală pe un deal deasupra regiunii Emmental.",
                   "category": "castle",
                   "coords": [
                         7.811736,
@@ -5132,7 +5132,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirchgemeindehaus",
-                  "text": "Un loc de desfășurare local pentru evenimente culturale și bisericești.",
+                  "text": "Casa comunitară a parohiei bisericești în Agri Dairy Emmental.",
                   "category": "cultural",
                   "coords": [
                         7.785739,
@@ -5141,7 +5141,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Erdburg Zwingherr",
-                  "text": "Un sit arheologic istoric din regiunea Emmental.",
+                  "text": "Cetate de pământ istorică Zwingherr în Agri Dairy Emmental.",
                   "category": "historical",
                   "coords": [
                         7.722937,
@@ -5152,7 +5152,7 @@ export const switzerlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Burg Spitzenberg",
-                  "text": "A former medieval castle located in the Emmental region.",
+                  "text": "Burg Spitzenberg is a medieval castle ruin on a hill overlooking the Emmental.",
                   "category": "castle",
                   "coords": [
                         7.811736,
@@ -5206,7 +5206,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kirchgemeindehaus",
-                  "text": "A local venue for cultural and church-related events.",
+                  "text": "Community hall of the church parish in Agri Dairy Emmental.",
                   "category": "cultural",
                   "coords": [
                         7.785739,
@@ -5215,7 +5215,7 @@ export const switzerlandEconomicV2: POI[] = [
             },
             {
                   "name": "Erdburg Zwingherr",
-                  "text": "A historic archaeological site in the Emmental region.",
+                  "text": "Historic earth castle Zwingherr in Agri Dairy Emmental.",
                   "category": "historical",
                   "coords": [
                         7.722937,

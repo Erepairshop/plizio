@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraTajikistanEconomicV2: POI[] = [
   {
-    id: "nurek-hpp-economic-v2",
+    id: "nurek-hpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na more",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick auf das monumentale Wasserkraftwerk Nurek und seine gewaltige Staumauer.",
+                  "category": "natural",
+                  "coords": [
+                        69.249655,
+                        38.322066
+                  ]
+            },
+            {
+                  "name": "Krasivyi vid na nurekskoe vodokhranilishche",
+                  "text": "Genießen Sie das Panorama über das tiefe, türkisfarbene Wasser des Norak-Stausees von diesem erhöhten Aussichtspunkt aus.",
+                  "category": "natural",
+                  "coords": [
+                        69.258987,
+                        38.320408
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "Ein lokales muslimisches Gebetshaus mit traditioneller Architektur im Bereich der Nurek-Siedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        69.282125,
+                        38.395274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na more",
+                  "text": "Erről a kilátópontról széles panoráma nyílik a monumentális nureki vízerőműre és annak hatalmas gátjára.",
+                  "category": "natural",
+                  "coords": [
+                        69.249655,
+                        38.322066
+                  ]
+            },
+            {
+                  "name": "Krasivyi vid na nurekskoe vodokhranilishche",
+                  "text": "Élvezze a Norak-víztározó mély, türkizkék vizére nyíló panorámát erről a magaslati kilátópontról.",
+                  "category": "natural",
+                  "coords": [
+                        69.258987,
+                        38.320408
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "Hagyományos építészetű helyi muszlim imaház a nureki lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        69.282125,
+                        38.395274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na more",
+                  "text": "Acest punct de observație oferă o vedere panoramică asupra monumentalei hidrocentrale Nurek și a barajului său masiv.",
+                  "category": "natural",
+                  "coords": [
+                        69.249655,
+                        38.322066
+                  ]
+            },
+            {
+                  "name": "Krasivyi vid na nurekskoe vodokhranilishche",
+                  "text": "Bucurați-vă de panorama asupra apelor turcoaz adânci ale lacului de acumulare Norak din acest punct de observație înalt.",
+                  "category": "natural",
+                  "coords": [
+                        69.258987,
+                        38.320408
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "O casă locală de rugăciune musulmană, cu arhitectură tradițională, situată în zona așezării Nurek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.282125,
+                        38.395274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "POV",
+                  "text": "This vantage point offers a wide view over the monumental Nurek hydropower plant and its massive dam.",
+                  "category": "natural",
+                  "coords": [
+                        69.249655,
+                        38.322066
+                  ]
+            },
+            {
+                  "name": "View of Norak Reservoir",
+                  "text": "Enjoy the panorama over the deep, turquoise waters of the Norak reservoir from this elevated vantage point.",
+                  "category": "natural",
+                  "coords": [
+                        69.258987,
+                        38.320408
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "A local Muslim house of prayer featuring traditional architecture in the Nurek settlement area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.282125,
+                        38.395274
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TJ-KT",
     coords: [69.3242, 38.3717],
@@ -131,7 +248,556 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "talco-aluminium-plant-economic-v2",
+    id: "talco-aluminium-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tank",
+                  "text": "Ein Panzerdenkmal als Mahnmal für die militärische Geschichte in Tursunsoda.",
+                  "category": "landmark",
+                  "coords": [
+                        68.21782,
+                        38.517902
+                  ]
+            },
+            {
+                  "name": "Muzei goroda i biblioteka",
+                  "text": "Das Stadtmuseum und die Bibliothek von Tursunsoda mit Ausstellungen zur lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        68.228383,
+                        38.513682
+                  ]
+            },
+            {
+                  "name": "Dom veterana truda i voiny T. Isomitdin",
+                  "text": "Ein Gedenkhaus für einen hochdekorierten Veteranen der Arbeit und des Krieges.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235284,
+                        38.510875
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi park",
+                  "text": "Ein zentraler Freizeitpark in Tursunsoda mit Grünflächen für die städtische Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        68.231114,
+                        38.511781
+                  ]
+            },
+            {
+                  "name": "Maschid Dekhai Sarkor",
+                  "text": "Eine muslimische Dorfmoschee, die als spirituelles Zentrum der lokalen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.203274,
+                        38.502524
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presviatoi Bogoroditsy",
+                  "text": "Eine russisch-orthodoxe Kirche, geweiht dem Schutz der Heiligen Muttergottes.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247509,
+                        38.518895
+                  ]
+            },
+            {
+                  "name": "Maschid Aloma",
+                  "text": "Ein lokales muslimisches Gebetshaus im Stadtviertel von Tursunsoda.",
+                  "category": "landmark",
+                  "coords": [
+                        68.243831,
+                        38.518431
+                  ]
+            },
+            {
+                  "name": "Maschid (Chkalov)",
+                  "text": "Eine kleine Moschee im Chkalov-Viertel für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        68.176599,
+                        38.509241
+                  ]
+            },
+            {
+                  "name": "Avtobaza",
+                  "text": "Ein lokaler Marktplatz in der Nähe des Transportknotenpunkts der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234571,
+                        38.513913
+                  ]
+            },
+            {
+                  "name": "Rynok \"Panchshanbe\"",
+                  "text": "Ein traditioneller Basar, dessen Name auf den lebhaften Donnerstagsmarkt hinweist.",
+                  "category": "cultural",
+                  "coords": [
+                        68.325798,
+                        38.525015
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "Ein nach den Arbeitern des Aluminiumwerks benannter Markt für Güter des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        68.236163,
+                        38.541918
+                  ]
+            },
+            {
+                  "name": "Bozori markazii Tursunzoda",
+                  "text": "Der geschäftige Hauptbasar von Tursunsoda im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        68.241024,
+                        38.511418
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "Ein zentraler Marktplatz, bekannt für frische Erzeugnisse und lokales Handwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234475,
+                        38.511936
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "Ein lokaler Marktplatz mit einer Vielzahl an Ständen für Lebensmittel und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        68.217061,
+                        38.506139
+                  ]
+            },
+            {
+                  "name": "Kh'ammomi Rogon",
+                  "text": "Ein traditionelles öffentliches Badehaus, das der Entspannung und Hygiene dient.",
+                  "category": "recreational",
+                  "coords": [
+                        68.119183,
+                        38.505657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tank",
+                  "text": "Tursunszoda katonai múltjára emlékeztető harckocsi-emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        68.21782,
+                        38.517902
+                  ]
+            },
+            {
+                  "name": "Muzei goroda i biblioteka",
+                  "text": "Tursunszoda városi múzeuma és könyvtára helytörténeti kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        68.228383,
+                        38.513682
+                  ]
+            },
+            {
+                  "name": "Dom veterana truda i voiny T. Isomitdin",
+                  "text": "Emlékház egy elismert munka- és háborús veterán tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235284,
+                        38.510875
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi park",
+                  "text": "Tursunszoda központi pihenőparkja zöldfelületekkel és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        68.231114,
+                        38.511781
+                  ]
+            },
+            {
+                  "name": "Maschid Dekhai Sarkor",
+                  "text": "A helyi közösség spirituális központjaként szolgáló falusi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        68.203274,
+                        38.502524
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presviatoi Bogoroditsy",
+                  "text": "Az Istenanya oltalmának szentelt orosz ortodox templom.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247509,
+                        38.518895
+                  ]
+            },
+            {
+                  "name": "Maschid Aloma",
+                  "text": "Tursunszoda egyik városnegyedében található helyi muszlim imaház.",
+                  "category": "landmark",
+                  "coords": [
+                        68.243831,
+                        38.518431
+                  ]
+            },
+            {
+                  "name": "Maschid (Chkalov)",
+                  "text": "A Cskalov negyedben álló kis mecset a mindennapi imádságok helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        68.176599,
+                        38.509241
+                  ]
+            },
+            {
+                  "name": "Avtobaza",
+                  "text": "Helyi piactér a város közlekedési csomópontjának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234571,
+                        38.513913
+                  ]
+            },
+            {
+                  "name": "Rynok \"Panchshanbe\"",
+                  "text": "Hagyományos bazár, amelynek neve a nyüzsgő csütörtöki piacra utal.",
+                  "category": "cultural",
+                  "coords": [
+                        68.325798,
+                        38.525015
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "Az alumíniumkohó munkásairól elnevezett piac, ahol napi fogyasztási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        68.236163,
+                        38.541918
+                  ]
+            },
+            {
+                  "name": "Bozori markazii Tursunzoda",
+                  "text": "Tursunszoda nyüzsgő központi bazárja a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        68.241024,
+                        38.511418
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "Központi piactér, amely friss terményeiről és helyi kézműves áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234475,
+                        38.511936
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "Helyi piac élelmiszerek és háztartási cikkek széles választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        68.217061,
+                        38.506139
+                  ]
+            },
+            {
+                  "name": "Kh'ammomi Rogon",
+                  "text": "Hagyományos nyilvános fürdőház, amely a kikapcsolódást és a tisztálkodást szolgálja.",
+                  "category": "recreational",
+                  "coords": [
+                        68.119183,
+                        38.505657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tank",
+                  "text": "Un monument reprezentat de un tanc, ridicat în memoria istoriei militare din Tursunzoda.",
+                  "category": "landmark",
+                  "coords": [
+                        68.21782,
+                        38.517902
+                  ]
+            },
+            {
+                  "name": "Muzei goroda i biblioteka",
+                  "text": "Muzeul și biblioteca orașului Tursunzoda, găzduind expoziții de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        68.228383,
+                        38.513682
+                  ]
+            },
+            {
+                  "name": "Dom veterana truda i voiny T. Isomitdin",
+                  "text": "O casă memorială dedicată unui veteran al muncii și al războiului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235284,
+                        38.510875
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi park",
+                  "text": "Un parc central de agrement în Tursunzoda, oferind spații verzi pentru relaxare urbană.",
+                  "category": "recreational",
+                  "coords": [
+                        68.231114,
+                        38.511781
+                  ]
+            },
+            {
+                  "name": "Maschid Dekhai Sarkor",
+                  "text": "O moschee sătească ce servește ca centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        68.203274,
+                        38.502524
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presviatoi Bogoroditsy",
+                  "text": "O biserică ortodoxă rusă, închinată Acoperământului Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247509,
+                        38.518895
+                  ]
+            },
+            {
+                  "name": "Maschid Aloma",
+                  "text": "O casă de rugăciune musulmană locală situată într-un cartier din Tursunzoda.",
+                  "category": "landmark",
+                  "coords": [
+                        68.243831,
+                        38.518431
+                  ]
+            },
+            {
+                  "name": "Maschid (Chkalov)",
+                  "text": "O mică moschee în cartierul Cikalov, destinată rugăciunilor zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.176599,
+                        38.509241
+                  ]
+            },
+            {
+                  "name": "Avtobaza",
+                  "text": "O piață locală situată în apropierea nodului de transport al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234571,
+                        38.513913
+                  ]
+            },
+            {
+                  "name": "Rynok \"Panchshanbe\"",
+                  "text": "Un bazar tradițional al cărui nume sugerează o piață plină de viață organizată joia.",
+                  "category": "cultural",
+                  "coords": [
+                        68.325798,
+                        38.525015
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "O piață numită după muncitorii combinatului de aluminiu, oferind bunuri de consum zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        68.236163,
+                        38.541918
+                  ]
+            },
+            {
+                  "name": "Bozori markazii Tursunzoda",
+                  "text": "Bazarul central plin de viață din Tursunzoda, situat în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        68.241024,
+                        38.511418
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "O piață centrală cunoscută pentru produse proaspete și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234475,
+                        38.511936
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "O piață locală cu o varietate de tarabe pentru alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        68.217061,
+                        38.506139
+                  ]
+            },
+            {
+                  "name": "Kh'ammomi Rogon",
+                  "text": "O baie publică tradițională destinată relaxării și igienei.",
+                  "category": "recreational",
+                  "coords": [
+                        68.119183,
+                        38.505657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tank",
+                  "text": "A tank monument serving as a memorial to military history in Tursunzoda.",
+                  "category": "landmark",
+                  "coords": [
+                        68.21782,
+                        38.517902
+                  ]
+            },
+            {
+                  "name": "Muzei goroda i biblioteka",
+                  "text": "The city museum and library of Tursunzoda, featuring local history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        68.228383,
+                        38.513682
+                  ]
+            },
+            {
+                  "name": "Dom veterana truda i voiny T. Isomitdin",
+                  "text": "A memorial house dedicated to a decorated veteran of labor and war.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235284,
+                        38.510875
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A central leisure park in Tursunzoda providing green spaces for urban recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        68.231114,
+                        38.511781
+                  ]
+            },
+            {
+                  "name": "Maschid Dekhai Sarkor",
+                  "text": "A village Muslim mosque serving as the spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        68.203274,
+                        38.502524
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Presviatoi Bogoroditsy",
+                  "text": "A Russian Orthodox church dedicated to the Intercession of the Holy Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247509,
+                        38.518895
+                  ]
+            },
+            {
+                  "name": "Maschid Aloma",
+                  "text": "A local Muslim house of prayer situated in a neighborhood of Tursunzoda.",
+                  "category": "landmark",
+                  "coords": [
+                        68.243831,
+                        38.518431
+                  ]
+            },
+            {
+                  "name": "Maschid (Chkalov)",
+                  "text": "A small mosque in the Chkalov district intended for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.176599,
+                        38.509241
+                  ]
+            },
+            {
+                  "name": "Avtobaza",
+                  "text": "A local marketplace situated near the city's transport hub.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234571,
+                        38.513913
+                  ]
+            },
+            {
+                  "name": "Rynok \"Panchshanbe\"",
+                  "text": "A traditional bazaar whose name suggests a lively Thursday market.",
+                  "category": "cultural",
+                  "coords": [
+                        68.325798,
+                        38.525015
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "A market named after the aluminium plant workers, offering daily consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        68.236163,
+                        38.541918
+                  ]
+            },
+            {
+                  "name": "Bozori markazii Tursunzoda",
+                  "text": "The bustling main bazaar of Tursunzoda located in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        68.241024,
+                        38.511418
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi bazar",
+                  "text": "A central marketplace known for fresh produce and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        68.234475,
+                        38.511936
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "A local marketplace with a variety of stalls for food and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        68.217061,
+                        38.506139
+                  ]
+            },
+            {
+                  "name": "Kh'ammomi Rogon",
+                  "text": "A traditional public bathhouse serving relaxation and hygiene needs.",
+                  "category": "recreational",
+                  "coords": [
+                        68.119183,
+                        38.505657
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TJ-RR",
     coords: [68.2192, 38.5336],
@@ -259,7 +925,88 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "sangtuda-1-hpp-economic-v2",
+    id: "sangtuda-1-hpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pasi Gach",
+                  "text": "Ein lokales Denkmal in Sangtuda, das nahe dem Ufer des Flusses Wachsch errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        69.162772,
+                        38.012323
+                  ]
+            },
+            {
+                  "name": "Kattasan",
+                  "text": "Alte Ruinen in der Nähe des Wasserkraftwerks Sangtuda, die von der frühen Besiedlung der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        69.058363,
+                        38.090592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pasi Gach",
+                  "text": "Sangtuda egyik helyi emlékműve, amelyet a Vakhsh-folyó partjának közelében emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        69.162772,
+                        38.012323
+                  ]
+            },
+            {
+                  "name": "Kattasan",
+                  "text": "Ősi romok a Sangtuda vízerőmű közelében, amelyek a régió korai betelepüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        69.058363,
+                        38.090592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pasi Gach",
+                  "text": "Un monument local în Sangtuda, ridicat în apropierea malurilor râului Vakhsh.",
+                  "category": "historical",
+                  "coords": [
+                        69.162772,
+                        38.012323
+                  ]
+            },
+            {
+                  "name": "Kattasan",
+                  "text": "Ruine antice în apropierea hidrocentralei Sangtuda, care atestă așezările timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        69.058363,
+                        38.090592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pasi Gach",
+                  "text": "A local monument in Sangtuda erected near the banks of the Vakhsh River.",
+                  "category": "historical",
+                  "coords": [
+                        69.162772,
+                        38.012323
+                  ]
+            },
+            {
+                  "name": "Kattasan",
+                  "text": "Ancient ruins near the Sangtuda hydroelectric power plant area reflecting the region's early history.",
+                  "category": "historical",
+                  "coords": [
+                        69.058363,
+                        38.090592
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TJ-KT",
     coords: [69.1306, 38.0772],
@@ -323,7 +1070,52 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kayrakkum-hpp-economic-v2",
+    id: "kayrakkum-hpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camping Place",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über das weite Kajrakkumi-Reservoir am Fluss Syrdarja bietet.",
+                  "category": "natural",
+                  "coords": [
+                        70.032585,
+                        40.325641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camping Place",
+                  "text": "Megemelt kilátóhely, ahonnan széles panoráma nyílik a Szir-darja folyón található Kajrakkumi-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        70.032585,
+                        40.325641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camping Place",
+                  "text": "Un punct de observație ridicat care oferă o vedere largă asupra rezervorului Qayroqqum de pe râul Sîrdaria.",
+                  "category": "natural",
+                  "coords": [
+                        70.032585,
+                        40.325641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camping Place",
+                  "text": "An elevated viewpoint offering a broad view over the vast Qayroqqum Reservoir on the Syr Darya river.",
+                  "category": "natural",
+                  "coords": [
+                        70.032585,
+                        40.325641
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TJ-SU",
     coords: [69.9606, 40.2794],
@@ -387,7 +1179,88 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "yovon-chemical-plant-economic-v2",
+    id: "yovon-chemical-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "Ein Ehrenmal in Jowon, das an eine bedeutende lokale Persönlichkeit der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            },
+            {
+                  "name": "Bozori markazii nokh'iiai Iovon",
+                  "text": "Der belebte zentrale Marktplatz von Jowon, auf dem regionales Kunsthandwerk und frische Lebensmittel gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.037947,
+                        38.31803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "Jovon egyik emlékműve, amely a régió egyik jelentős helyi személyiségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            },
+            {
+                  "name": "Bozori markazii nokh'iiai Iovon",
+                  "text": "Jovon nyüzsgő központi piaca, ahol regionális kézműves termékeket és friss élelmiszereket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.037947,
+                        38.31803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "Un monument în Iovon, dedicat unei personalități locale importante din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            },
+            {
+                  "name": "Bozori markazii nokh'iiai Iovon",
+                  "text": "Piața centrală plină de viață din Iovon, unde se vând produse artizanale regionale și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        69.037947,
+                        38.31803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "A commemorative monument in Yovon dedicated to a significant local figure of the region.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            },
+            {
+                  "name": "Bozori markazii nokh'iiai Iovon",
+                  "text": "The bustling central marketplace of Yovon, where regional handicrafts and fresh produce are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        69.037947,
+                        38.31803
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TJ-KT",
     coords: [69.0400, 38.3100],
@@ -515,7 +1388,448 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "shurab-coal-mine-economic-v2",
+    id: "shurab-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arkhitekturnyi kompleks Khazrati Baba",
+                  "text": "Ein historischer Architekturkomplex und Museum, das dem Erbe von Khazrati Baba gewidmet ist und traditionelle tadschikische Handwerkskunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        70.587491,
+                        39.98263
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Bolo",
+                  "text": "Eine hochgelegene Moschee im Dorf Kuruk, die sich durch ihre Lage am Berghang und die schlichte Lehmarchitektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        70.559863,
+                        39.968858
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Kh'azrati Shokh'",
+                  "text": "Diese zentrale Freitagsmoschee ist dem Heiligen Khazrati Shokh gewidmet und beeindruckt durch ihr geschnitztes Holzinterieur.",
+                  "category": "landmark",
+                  "coords": [
+                        70.57642,
+                        39.973461
+                  ]
+            },
+            {
+                  "name": "Masch'idi Kunch'ok",
+                  "text": "Eine kleine Dorfmoschee im Kunchok-Viertel, die ein wichtiges Zentrum für die lokale Gemeinschaft in dieser ländlichen Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        70.565969,
+                        39.967703
+                  ]
+            },
+            {
+                  "name": "Masch'idi Firdavsi",
+                  "text": "Diese Moschee ist nach dem berühmten persischen Dichter Firdavsi benannt und dient als Ort für Gebet und Bildung.",
+                  "category": "landmark",
+                  "coords": [
+                        70.566642,
+                        39.983193
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Khoch'i Ustozi Vali",
+                  "text": "Die Hauptmoschee der Gemeinde, benannt nach einem angesehenen religiösen Lehrer, mit einem traditionellen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        70.561855,
+                        39.980243
+                  ]
+            },
+            {
+                  "name": "Masch'idi Tagi Sada",
+                  "text": "Eine lokale muslimische Gebetsstätte in der Bergbausiedlung Schurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.560545,
+                        39.97286
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Miiona",
+                  "text": "Eine Moschee für die Bewohner der zentralen Viertel von Schurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.562184,
+                        39.974084
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Kh'isor",
+                  "text": "Muslimische Gebetsstätte im Viertel Sari Chisor der Industriestadt Schurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.567651,
+                        39.974472
+                  ]
+            },
+            {
+                  "name": "Masch'idi Chakalak",
+                  "text": "Eine kleine Moschee im Chakalak-Viertel der ehemaligen sowjetischen Minenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        70.564717,
+                        39.97572
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Bozor",
+                  "text": "Diese Moschee liegt in der Nähe des oberen Marktbereichs von Schurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.569827,
+                        39.975481
+                  ]
+            },
+            {
+                  "name": "Bozori Chorkukh'",
+                  "text": "Der zentrale Marktplatz im Chorku-Enklave-Gebiet, bekannt für lokalen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        70.56303,
+                        39.979152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arkhitekturnyi kompleks Khazrati Baba",
+                  "text": "Történelmi építészeti komplexum és múzeum, amely Khazrati Baba örökségének szentelve mutatja be a hagyományos tadzsik kézművességet.",
+                  "category": "museum",
+                  "coords": [
+                        70.587491,
+                        39.98263
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Bolo",
+                  "text": "Magasan fekvő mecset Kuruk faluban, amely hegyoldali elhelyezkedésével és egyszerű vályogépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        70.559863,
+                        39.968858
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Kh'azrati Shokh'",
+                  "text": "Ez a központi pénteki mecset Khazrati Shokh szentnek van szentelve, és faragott fa belső terével nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        70.57642,
+                        39.973461
+                  ]
+            },
+            {
+                  "name": "Masch'idi Kunch'ok",
+                  "text": "Kicsiny falusi mecset Kunchok negyedben, amely a helyi közösség fontos központja ebben a vidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        70.565969,
+                        39.967703
+                  ]
+            },
+            {
+                  "name": "Masch'idi Firdavsi",
+                  "text": "Ez a mecset a híres perzsa költőről, Firdavsiról kapta a nevét, és imádság, valamint oktatás helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        70.566642,
+                        39.983193
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Khoch'i Ustozi Vali",
+                  "text": "A közösség fő mecsetje, amelyet egy tisztelt vallási tanítóról neveztek el, és hagyományos minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        70.561855,
+                        39.980243
+                  ]
+            },
+            {
+                  "name": "Masch'idi Tagi Sada",
+                  "text": "Helyi muszlim imaház Shurab bányásztelepülésén.",
+                  "category": "landmark",
+                  "coords": [
+                        70.560545,
+                        39.97286
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Miiona",
+                  "text": "Mecset Shurab központi negyedének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.562184,
+                        39.974084
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Kh'isor",
+                  "text": "Muszlim imaház Shurab iparvárosának Sari Khisor negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        70.567651,
+                        39.974472
+                  ]
+            },
+            {
+                  "name": "Masch'idi Chakalak",
+                  "text": "Egy kis mecset az egykori szovjet bányászváros Chakalak negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        70.564717,
+                        39.97572
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Bozor",
+                  "text": "Ez a mecset Shurab felső piaci területe közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        70.569827,
+                        39.975481
+                  ]
+            },
+            {
+                  "name": "Bozori Chorkukh'",
+                  "text": "A központi piactér Chorku környékén, amely a helyi kereskedelemről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        70.56303,
+                        39.979152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arkhitekturnyi kompleks Khazrati Baba",
+                  "text": "Un complex arhitectural istoric și muzeu dedicat moștenirii lui Khazrati Baba, prezentând măiestria tradițională tadjikă.",
+                  "category": "museum",
+                  "coords": [
+                        70.587491,
+                        39.98263
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Bolo",
+                  "text": "O moschee situată la înălțime în satul Kuruk, remarcându-se prin amplasarea pe versant și arhitectura simplă din lut.",
+                  "category": "landmark",
+                  "coords": [
+                        70.559863,
+                        39.968858
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Kh'azrati Shokh'",
+                  "text": "Această moschee centrală de vineri este dedicată sfântului Khazrati Shokh și impresionează prin interiorul său din lemn sculptat.",
+                  "category": "landmark",
+                  "coords": [
+                        70.57642,
+                        39.973461
+                  ]
+            },
+            {
+                  "name": "Masch'idi Kunch'ok",
+                  "text": "O mică moschee de sat în cartierul Kunchok, reprezentând un centru important pentru comunitatea locală din această regiune rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.565969,
+                        39.967703
+                  ]
+            },
+            {
+                  "name": "Masch'idi Firdavsi",
+                  "text": "Această moschee poartă numele celebrului poet persan Firdavsi și servește ca loc pentru rugăciune și educație.",
+                  "category": "landmark",
+                  "coords": [
+                        70.566642,
+                        39.983193
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Khoch'i Ustozi Vali",
+                  "text": "Moscheea principală a comunității, numită după un respectat învățător religios, având un minaret tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        70.561855,
+                        39.980243
+                  ]
+            },
+            {
+                  "name": "Masch'idi Tagi Sada",
+                  "text": "Un lăcaș de cult musulman local în așezarea minieră Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.560545,
+                        39.97286
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Miiona",
+                  "text": "O moschee pentru locuitorii cartierelor centrale din Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.562184,
+                        39.974084
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Kh'isor",
+                  "text": "Lăcaș de cult musulman în cartierul Sari Khisor din orașul industrial Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.567651,
+                        39.974472
+                  ]
+            },
+            {
+                  "name": "Masch'idi Chakalak",
+                  "text": "O mică moschee în cartierul Chakalak din fostul oraș minier sovietic.",
+                  "category": "landmark",
+                  "coords": [
+                        70.564717,
+                        39.97572
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Bozor",
+                  "text": "Această moschee este situată în apropierea zonei pieței de sus din Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.569827,
+                        39.975481
+                  ]
+            },
+            {
+                  "name": "Bozori Chorkukh'",
+                  "text": "Piața centrală din zona enclavei Chorku, cunoscută pentru comerțul local.",
+                  "category": "cultural",
+                  "coords": [
+                        70.56303,
+                        39.979152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arkhitekturnyi kompleks Khazrati Baba",
+                  "text": "A historical architectural complex and museum dedicated to the legacy of Khazrati Baba, showcasing traditional Tajik craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        70.587491,
+                        39.98263
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Bolo",
+                  "text": "A high-altitude mosque in Kuruk village, distinguished by its mountainside location and simple mud-brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        70.559863,
+                        39.968858
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Kh'azrati Shokh'",
+                  "text": "This central Friday mosque is dedicated to the holy Khazrati Shokh and features impressive carved wooden interiors.",
+                  "category": "landmark",
+                  "coords": [
+                        70.57642,
+                        39.973461
+                  ]
+            },
+            {
+                  "name": "Masch'idi Kunch'ok",
+                  "text": "A small village mosque in the Kunchok quarter, serving as a vital community hub in this rural region.",
+                  "category": "landmark",
+                  "coords": [
+                        70.565969,
+                        39.967703
+                  ]
+            },
+            {
+                  "name": "Masch'idi Firdavsi",
+                  "text": "Named after the famous Persian poet Ferdowsi, this mosque serves as a place for prayer and religious study.",
+                  "category": "landmark",
+                  "coords": [
+                        70.566642,
+                        39.983193
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Khoch'i Ustozi Vali",
+                  "text": "The community's main Friday mosque, named after a respected religious teacher and featuring a traditional minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        70.561855,
+                        39.980243
+                  ]
+            },
+            {
+                  "name": "Masch'idi Tagi Sada",
+                  "text": "A local Muslim place of worship in the Shurab coal-mining settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        70.560545,
+                        39.97286
+                  ]
+            },
+            {
+                  "name": "Masch'idi K'uruk'i Miiona",
+                  "text": "A mosque serving the residents of the central neighborhoods of Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.562184,
+                        39.974084
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Kh'isor",
+                  "text": "Muslim place of worship in the Sari Khisor neighborhood of the industrial town Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.567651,
+                        39.974472
+                  ]
+            },
+            {
+                  "name": "Masch'idi Chakalak",
+                  "text": "A small mosque in the Chakalak neighborhood of the former Soviet mining town.",
+                  "category": "landmark",
+                  "coords": [
+                        70.564717,
+                        39.97572
+                  ]
+            },
+            {
+                  "name": "Masch'idi Sari Bozor",
+                  "text": "This mosque is located near the upper market area of Shurab.",
+                  "category": "landmark",
+                  "coords": [
+                        70.569827,
+                        39.975481
+                  ]
+            },
+            {
+                  "name": "Bozori Chorkukh'",
+                  "text": "The central marketplace in the Chorku enclave area, known for local trade.",
+                  "category": "cultural",
+                  "coords": [
+                        70.56303,
+                        39.979152
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "TJ-SU",
     coords: [70.5200, 40.0500],
@@ -579,7 +1893,124 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "khujand-silk-factory-economic-v2",
+    id: "khujand-silk-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murodbakhsh",
+                  "text": "Eine lokale islamische Moschee in der Nähe der Seidenfabrik Chudschand, die den religiösen Praktiken der örtlichen Gemeinde und der Arbeiter dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.59565,
+                        40.271006
+                  ]
+            },
+            {
+                  "name": "Maschidi Bobokhucha",
+                  "text": "Eine traditionelle Moschee, die einen Ort für die täglichen islamischen Gebete in der Nähe von Chudschands historischer Seidenindustrie bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.614481,
+                        40.278637
+                  ]
+            },
+            {
+                  "name": "Sugdiion",
+                  "text": "Ein lebhafter lokaler Marktplatz in der Nähe der Seidenfabrik Chudschand, der eine Vielzahl von Waren und regionalen Handelsartikeln anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.570327,
+                        40.270275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murodbakhsh",
+                  "text": "Egy helyi iszlám mecset a hudzsand-i selyemgyár közelében, amely a helyi közösség és a munkások vallási gyakorlatát szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.59565,
+                        40.271006
+                  ]
+            },
+            {
+                  "name": "Maschidi Bobokhucha",
+                  "text": "Egy hagyományos mecset, amely helyet biztosít a napi iszlám imákhoz Hudzsand történelmi selyemiparának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.614481,
+                        40.278637
+                  ]
+            },
+            {
+                  "name": "Sugdiion",
+                  "text": "Nyüzsgő helyi piac a hudzsand-i selyemgyár közelében, amely különféle árukat és regionális kereskedelmi cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.570327,
+                        40.270275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murodbakhsh",
+                  "text": "O moschee islamică locală situată lângă fabrica de mătase Khujand, care deservește practicile religioase ale comunității locale și ale muncitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        69.59565,
+                        40.271006
+                  ]
+            },
+            {
+                  "name": "Maschidi Bobokhucha",
+                  "text": "O moschee tradițională care oferă un loc pentru rugăciunile islamice zilnice în vecinătatea industriei istorice a mătăsii din Khujand.",
+                  "category": "landmark",
+                  "coords": [
+                        69.614481,
+                        40.278637
+                  ]
+            },
+            {
+                  "name": "Sugdiion",
+                  "text": "O piață locală vibrantă situată lângă fabrica de mătase Khujand, oferind o varietate de bunuri și articole comerciale regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.570327,
+                        40.270275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murodbakhsh",
+                  "text": "A local Islamic mosque near the Khujand silk factory, catering to the religious practices of the local community and workers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.59565,
+                        40.271006
+                  ]
+            },
+            {
+                  "name": "Maschidi Bobokhucha",
+                  "text": "A traditional mosque providing a place for daily Islamic prayers in the vicinity of Khujand's historic silk industry.",
+                  "category": "landmark",
+                  "coords": [
+                        69.614481,
+                        40.278637
+                  ]
+            },
+            {
+                  "name": "Sugdiion",
+                  "text": "A vibrant local marketplace situated near the Khujand silk factory, offering a variety of goods and regional trade items.",
+                  "category": "cultural",
+                  "coords": [
+                        69.570327,
+                        40.270275
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TJ-SU",
     coords: [69.6200, 40.2800],
@@ -643,7 +2074,88 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "danghara-fez-economic-v2",
+    id: "danghara-fez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soli Sard",
+                  "text": "Die Ruinen dieser historischen Festung thronen auf einem Hügel und überblicken die Landschaft von Danghara.",
+                  "category": "castle",
+                  "coords": [
+                        69.326901,
+                        38.128393
+                  ]
+            },
+            {
+                  "name": "Bozori Kaionush",
+                  "text": "Ein traditioneller Basar in Danghara, bekannt für seine lebhafte Atmosphäre und lokale kulinarische Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        69.297887,
+                        38.12275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoli Zard",
+                  "text": "Ennek a történelmi erődnek a romjai egy dombtetőn állnak, ahonnan belátni Danghara vidékét.",
+                  "category": "castle",
+                  "coords": [
+                        69.326901,
+                        38.128393
+                  ]
+            },
+            {
+                  "name": "Bozori Kaionush",
+                  "text": "Hagyományos bazár Dangharában, amely élénk hangulatáról és helyi kulináris specialitásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.297887,
+                        38.12275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoli Zard",
+                  "text": "Ruinele acestei cetăți istorice tronează pe un deal, dominând peisajul din Danghara.",
+                  "category": "castle",
+                  "coords": [
+                        69.326901,
+                        38.128393
+                  ]
+            },
+            {
+                  "name": "Bozori Kaionush",
+                  "text": "Un bazar tradițional în Danghara, cunoscut pentru atmosfera sa plină de viață și specialitățile culinare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.297887,
+                        38.12275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoli Zard",
+                  "text": "The ruins of this historical fortress sit atop a hill, overlooking the Danghara landscape.",
+                  "category": "castle",
+                  "coords": [
+                        69.326901,
+                        38.128393
+                  ]
+            },
+            {
+                  "name": "Bozori Kaionush",
+                  "text": "A traditional bazaar in Danghara known for its lively atmosphere and local culinary specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        69.297887,
+                        38.12275
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TJ-KT",
     coords: [69.3400, 38.1000],
@@ -707,7 +2219,124 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "panj-fez-economic-v2",
+    id: "panj-fez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MTF kolkhoza Moska",
+                  "text": "Überreste eines ehemaligen sowjetischen Viehzuchtbetriebs aus der Kollektivierungsära.",
+                  "category": "historical",
+                  "coords": [
+                        68.460194,
+                        37.261973
+                  ]
+            },
+            {
+                  "name": "MTF kolkhoza imeni Kalinina",
+                  "text": "Ruinen einer nach Kalinin benannten staatlichen Milchviehfarm aus der Sowjetzeit.",
+                  "category": "historical",
+                  "coords": [
+                        68.479726,
+                        37.274234
+                  ]
+            },
+            {
+                  "name": "Mamnu'gokh'i davlatii tabii Beshai Palangon",
+                  "text": "Ein bedeutendes Naturschutzgebiet am Fluss Wachsch, das seltene Tugai-Auenwälder schützt.",
+                  "category": "natural",
+                  "coords": [
+                        68.4317,
+                        37.233354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MTF kolkhoza Moska",
+                  "text": "Egy hajdani szovjet állattartó telep maradványai a kollektivizálás korából.",
+                  "category": "historical",
+                  "coords": [
+                        68.460194,
+                        37.261973
+                  ]
+            },
+            {
+                  "name": "MTF kolkhoza imeni Kalinina",
+                  "text": "Egy Kalininről elnevezett, szovjet korabeli állami tejgazdaság romjai.",
+                  "category": "historical",
+                  "coords": [
+                        68.479726,
+                        37.274234
+                  ]
+            },
+            {
+                  "name": "Mamnu'gokh'i davlatii tabii Beshai Palangon",
+                  "text": "A Vahs folyó menti természetvédelmi terület, amely ritka tugaj-ártéri erdőket őriz.",
+                  "category": "natural",
+                  "coords": [
+                        68.4317,
+                        37.233354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MTF kolkhoza Moska",
+                  "text": "Vestigiile unei foste ferme zootehnice sovietice din epoca colectivizării.",
+                  "category": "historical",
+                  "coords": [
+                        68.460194,
+                        37.261973
+                  ]
+            },
+            {
+                  "name": "MTF kolkhoza imeni Kalinina",
+                  "text": "Ruinele unei ferme lactate de stat din perioada sovietică, numită după Kalinin.",
+                  "category": "historical",
+                  "coords": [
+                        68.479726,
+                        37.274234
+                  ]
+            },
+            {
+                  "name": "Mamnu'gokh'i davlatii tabii Beshai Palangon",
+                  "text": "O rezervație naturală importantă pe râul Vakhsh, care protejează păduri de luncă de tip tugay.",
+                  "category": "natural",
+                  "coords": [
+                        68.4317,
+                        37.233354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MTF kolkhoza Moska",
+                  "text": "Remains of a former Soviet livestock farm from the collectivization era.",
+                  "category": "historical",
+                  "coords": [
+                        68.460194,
+                        37.261973
+                  ]
+            },
+            {
+                  "name": "MTF kolkhoza imeni Kalinina",
+                  "text": "Ruins of a Soviet-era state dairy farm named after Kalinin.",
+                  "category": "historical",
+                  "coords": [
+                        68.479726,
+                        37.274234
+                  ]
+            },
+            {
+                  "name": "\"Tigrovaya Balka\" Nature Reserve",
+                  "text": "A major nature reserve on the Vakhsh River protecting rare tugay riparian forests.",
+                  "category": "natural",
+                  "coords": [
+                        68.4317,
+                        37.233354
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TJ-KT",
     coords: [68.4600, 37.2300],
@@ -771,7 +2400,376 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "sughd-fez-economic-v2",
+    id: "sughd-fez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karusel'",
+                  "text": "Ein klassisches Karussell im öffentlichen Erholungspark in der Region Sugd.",
+                  "category": "landmark",
+                  "coords": [
+                        69.645317,
+                        40.29474
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Ein Riesenrad im Parkgelände von Chudschand, das den Besuchern einen weiten Blick über die Umgebung der Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.644752,
+                        40.29571
+                  ]
+            },
+            {
+                  "name": "Kokhi Rudaki",
+                  "text": "Ein prächtiger Kulturpalast und Theater in Chudschand, der für große Konzerte, Festivals und Theaterveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646454,
+                        40.270684
+                  ]
+            },
+            {
+                  "name": "Samoliot",
+                  "text": "Ein ausrangiertes Passagierflugzeug, das als einzigartiges Wahrzeichen und Attraktion in einem Wohngebiet von Chudschand ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.637764,
+                        40.295047
+                  ]
+            },
+            {
+                  "name": "Maschidi Balodurkun",
+                  "text": "Eine lokale Moschee, die den Bewohnern des Viertels Balodurkun im Gebiet Chudschand dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.663276,
+                        40.294734
+                  ]
+            },
+            {
+                  "name": "Gumbaz kabud",
+                  "text": "Eine Moschee in Chudschand, die sich durch ihre schöne blau geflieste Kuppel in zentralasiatischer Architekturtradition auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.636303,
+                        40.283942
+                  ]
+            },
+            {
+                  "name": "Davronkhon",
+                  "text": "Eine Gemeindemoschee in der Region Sugd, in der sich die Anwohner zu den täglichen geistlichen Diensten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651933,
+                        40.27063
+                  ]
+            },
+            {
+                  "name": "Maschidi Khoch'agon",
+                  "text": "Eine traditionelle lokale Moschee am Stadtrand von Chudschand, die die klassische regionale Sakralarchitektur widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.667664,
+                        40.292587
+                  ]
+            },
+            {
+                  "name": "Maschidi Vodnik",
+                  "text": "Eine Viertelmoschee in Chudschand, die sich in dem Bezirk befindet, der traditionell von Flusshafenarbeitern bewohnt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.688255,
+                        40.316025
+                  ]
+            },
+            {
+                  "name": "Rynok 34",
+                  "text": "Ein praktischer Viertelmarkt im 34. Bezirk von Chudschand, der die Anwohner mit Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646105,
+                        40.3044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karusel'",
+                  "text": "Klasszikus körhinta a Sugd régió nyilvános szabadidőparkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        69.645317,
+                        40.29474
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Óriáskerék Hudzsand parkjában, amely magaslati kilátást nyújt a látogatóknak a város környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        69.644752,
+                        40.29571
+                  ]
+            },
+            {
+                  "name": "Kokhi Rudaki",
+                  "text": "Hudzsand nagyszabású kulturális palotája és színháza, amelyet nagykoncertekre, fesztiválokra és színházi eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646454,
+                        40.270684
+                  ]
+            },
+            {
+                  "name": "Samoliot",
+                  "text": "Egy kiselejtezett utasszállító repülőgép, amelyet egyedi nevezetességként és látványosságként állítottak ki Hudzsand egyik lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.637764,
+                        40.295047
+                  ]
+            },
+            {
+                  "name": "Maschidi Balodurkun",
+                  "text": "Helyi mecset, amely Hudzsand környékén, Balodurkun negyed lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.663276,
+                        40.294734
+                  ]
+            },
+            {
+                  "name": "Gumbaz kabud",
+                  "text": "Hudzsandi mecset, amely a közép-ázsiai építészeti hagyományokat követő, gyönyörű kék csempés kupolájáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        69.636303,
+                        40.283942
+                  ]
+            },
+            {
+                  "name": "Davronkhon",
+                  "text": "Közösségi mecset a Sugd régióban, ahol a helyi lakosok naponta összegyűlnek lelki alkalmakra.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651933,
+                        40.27063
+                  ]
+            },
+            {
+                  "name": "Maschidi Khoch'agon",
+                  "text": "Hagyományos helyi mecset Hudzsand külvárosában, amely a klasszikus regionális vallási építészetet tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.667664,
+                        40.292587
+                  ]
+            },
+            {
+                  "name": "Maschidi Vodnik",
+                  "text": "Hudzsandi negyedi mecset abban a kerületben, amelyet hagyományosan a folyami kikötői munkások laktak.",
+                  "category": "landmark",
+                  "coords": [
+                        69.688255,
+                        40.316025
+                  ]
+            },
+            {
+                  "name": "Rynok 34",
+                  "text": "Kényelmes környéki piac Hudzsand 34. kerületében, amely napi szükségleti cikkekkel látja el a helyi lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646105,
+                        40.3044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karusel'",
+                  "text": "Un carusel clasic situat în parcul public de recreere din regiunea Sugd.",
+                  "category": "landmark",
+                  "coords": [
+                        69.645317,
+                        40.29474
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "O roată panoramică în zona parcului din Hudjand, oferind vizitatorilor vederi de la înălțime asupra împrejurimilor orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.644752,
+                        40.29571
+                  ]
+            },
+            {
+                  "name": "Kokhi Rudaki",
+                  "text": "Un mare palat al culturii și teatru în Hudjand, utilizat pentru concerte majore, festivaluri și evenimente teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646454,
+                        40.270684
+                  ]
+            },
+            {
+                  "name": "Samoliot",
+                  "text": "Un avion de pasageri retras din uz, expus ca punct de reper și atracție unică într-o zonă rezidențială din Hudjand.",
+                  "category": "landmark",
+                  "coords": [
+                        69.637764,
+                        40.295047
+                  ]
+            },
+            {
+                  "name": "Maschidi Balodurkun",
+                  "text": "O moschee locală care deservește locuitorii cartierului Balodurkun din zona Hudjand.",
+                  "category": "landmark",
+                  "coords": [
+                        69.663276,
+                        40.294734
+                  ]
+            },
+            {
+                  "name": "Gumbaz kabud",
+                  "text": "O moschee din Hudjand care se distinge prin cupola sa albastră placată cu faianță, urmând tradițiile arhitecturale din Asia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.636303,
+                        40.283942
+                  ]
+            },
+            {
+                  "name": "Davronkhon",
+                  "text": "O moschee comunitară în regiunea Sugd, unde locuitorii locali se adună pentru serviciile spirituale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651933,
+                        40.27063
+                  ]
+            },
+            {
+                  "name": "Maschidi Khoch'agon",
+                  "text": "O moschee locală tradițională la periferia Hudjandului, reflectând arhitectura religioasă regională clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        69.667664,
+                        40.292587
+                  ]
+            },
+            {
+                  "name": "Maschidi Vodnik",
+                  "text": "O moschee de cartier din Hudjand situată în districtul locuit în mod tradițional de lucrătorii din portul fluvial.",
+                  "category": "landmark",
+                  "coords": [
+                        69.688255,
+                        40.316025
+                  ]
+            },
+            {
+                  "name": "Rynok 34",
+                  "text": "O piață de cartier convenabilă în districtul 34 din Hudjand, care oferă produse de bază zilnice locuitorilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646105,
+                        40.3044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karusel'",
+                  "text": "A classic carousel ride located within the public recreation park in the Sughd region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.645317,
+                        40.29474
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "A Ferris wheel in Khujand's park area providing visitors with elevated views of the city surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        69.644752,
+                        40.29571
+                  ]
+            },
+            {
+                  "name": "Kokhi Rudaki",
+                  "text": "A grand palace of culture and theatre in Khujand used for major concerts, festivals, and theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646454,
+                        40.270684
+                  ]
+            },
+            {
+                  "name": "Samoliot",
+                  "text": "A retired passenger aircraft displayed as a unique landmark and attraction in a Khujand residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.637764,
+                        40.295047
+                  ]
+            },
+            {
+                  "name": "Maschidi Balodurkun",
+                  "text": "A local mosque serving the residents of the Balodurkun neighborhood in the Khujand area.",
+                  "category": "landmark",
+                  "coords": [
+                        69.663276,
+                        40.294734
+                  ]
+            },
+            {
+                  "name": "Gumbaz kabud",
+                  "text": "A mosque in Khujand distinguished by its beautiful blue tiled dome, following Central Asian architectural traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        69.636303,
+                        40.283942
+                  ]
+            },
+            {
+                  "name": "Davronkhon",
+                  "text": "A community mosque in the Sughd region where local residents gather for daily spiritual services.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651933,
+                        40.27063
+                  ]
+            },
+            {
+                  "name": "Maschidi Khoch'agon",
+                  "text": "A traditional local mosque in the Khujand outskirts reflecting classic regional religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.667664,
+                        40.292587
+                  ]
+            },
+            {
+                  "name": "Maschidi Vodnik",
+                  "text": "A neighborhood mosque in Khujand located in the district traditionally inhabited by river port workers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.688255,
+                        40.316025
+                  ]
+            },
+            {
+                  "name": "Rynok 34",
+                  "text": "A convenient neighborhood market in Khujand's 34th district providing daily essentials to local residents.",
+                  "category": "cultural",
+                  "coords": [
+                        69.646105,
+                        40.3044
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TJ-SU",
     coords: [69.6400, 40.2800],
@@ -899,7 +2897,52 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "dushanbe-tpp-economic-v2",
+    id: "dushanbe-tpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masch'idi ch'ome'i \"Kalinin\"",
+                  "text": "Eine islamische Moschee nahe dem Wärmekraftwerk Duschanbe, die den religiösen Bedürfnissen der Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.751845,
+                        38.596311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masch'idi ch'ome'i \"Kalinin\"",
+                  "text": "A Dusanbe hőerőmű közelében található iszlám mecset, amely a helyi lakosok vallási igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        68.751845,
+                        38.596311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masch'idi ch'ome'i \"Kalinin\"",
+                  "text": "O moschee islamică situată lângă centrala termoelectrică Dușanbe, care răspunde nevoilor religioase ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        68.751845,
+                        38.596311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masch'idi ch'ome'i \"Kalinin\"",
+                  "text": "An Islamic mosque situated near the Dushanbe Thermal Power Plant, catering to the religious needs of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        68.751845,
+                        38.596311
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TJ-DU",
     coords: [68.7600, 38.6100],
@@ -963,7 +3006,88 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "takob-fluorite-mine-economic-v2",
+    id: "takob-fluorite-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bustonsaroi berunazshakh'rii Kh'ukumati Ch'umkh'urii Toch'ikiston",
+                  "text": "Ein prächtiger Regierungspalast in Takob, der als Residenz in der malerischen Berglandschaft dient.",
+                  "category": "castle",
+                  "coords": [
+                        68.849133,
+                        38.852291
+                  ]
+            },
+            {
+                  "name": "Olam Jakhon",
+                  "text": "Die verlassenen Ruinen von Olam Jakhon befinden sich in der Nähe der historischen Takob-Fluorit-Mine.",
+                  "category": "historical",
+                  "coords": [
+                        69.001634,
+                        38.785058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bustonsaroi berunazshakh'rii Kh'ukumati Ch'umkh'urii Toch'ikiston",
+                  "text": "Pompás kormányzati palota Takobban, amely rezidenciaként szolgál a festői hegyi környezetben.",
+                  "category": "castle",
+                  "coords": [
+                        68.849133,
+                        38.852291
+                  ]
+            },
+            {
+                  "name": "Olam Jakhon",
+                  "text": "Olam Jakhon elhagyatott romjai a történelmi Takob fluoritbánya közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        69.001634,
+                        38.785058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bustonsaroi berunazshakh'rii Kh'ukumati Ch'umkh'urii Toch'ikiston",
+                  "text": "Un palat guvernamental somptuos în Takob, care servește drept reședință în peisajul montan pitoresc.",
+                  "category": "castle",
+                  "coords": [
+                        68.849133,
+                        38.852291
+                  ]
+            },
+            {
+                  "name": "Olam Jakhon",
+                  "text": "Ruinele abandonate de la Olam Jakhon se află în apropierea minei istorice de fluorit Takob.",
+                  "category": "historical",
+                  "coords": [
+                        69.001634,
+                        38.785058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Republic of Tajikistan Government Palace",
+                  "text": "A magnificent government palace in Takob serving as an official residence in the scenic mountain landscape.",
+                  "category": "castle",
+                  "coords": [
+                        68.849133,
+                        38.852291
+                  ]
+            },
+            {
+                  "name": "Olam Jakhon",
+                  "text": "The abandoned ruins of Olam Jakhon are located near the historic Takob fluorite mine.",
+                  "category": "historical",
+                  "coords": [
+                        69.001634,
+                        38.785058
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "TJ-RR",
     coords: [68.9100, 38.8200],
@@ -1155,7 +3279,124 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "dushanbe-cement-plant-economic-v2",
+    id: "dushanbe-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "by Fossa",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Industrielandschaft und die Hügel beim Zementwerk von Duschanbe.",
+                  "category": "natural",
+                  "coords": [
+                        68.74527,
+                        38.679644
+                  ]
+            },
+            {
+                  "name": "Vid na gorod",
+                  "text": "Der Aussichtspunkt Vid na gorod bietet einen beeindruckenden Panoramablick auf das Stadtgebiet von Duschanbe.",
+                  "category": "natural",
+                  "coords": [
+                        68.749846,
+                        38.69762
+                  ]
+            },
+            {
+                  "name": "Kuli Dushanbe",
+                  "text": "Dieser beliebte Wasserpark am Duschanbe-See bietet zahlreiche Rutschen und Bademöglichkeiten zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        68.785101,
+                        38.678888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "by Fossa",
+                  "text": "Ez a kilátópont széles körkilátást nyújt az ipari tájra és a dombokra a Dusanbe cementgyár közelében.",
+                  "category": "natural",
+                  "coords": [
+                        68.74527,
+                        38.679644
+                  ]
+            },
+            {
+                  "name": "Vid na gorod",
+                  "text": "A Vid na gorod kilátópont lenyűgöző panorámát kínál Dusanbe városi területére.",
+                  "category": "natural",
+                  "coords": [
+                        68.749846,
+                        38.69762
+                  ]
+            },
+            {
+                  "name": "Kuli Dushanbe",
+                  "text": "Ez a népszerű vízi park a Dusanbe-tónál számos csúszdát és fürdőzési lehetőséget kínál a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        68.785101,
+                        38.678888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "by Fossa",
+                  "text": "Acest punct de observare oferă o vedere largă asupra peisajului industrial și a dealurilor de lângă fabrica de ciment Dushanbe.",
+                  "category": "natural",
+                  "coords": [
+                        68.74527,
+                        38.679644
+                  ]
+            },
+            {
+                  "name": "Vid na gorod",
+                  "text": "Punctul de belvedere Vid na gorod oferă o panoramă impresionantă asupra zonei urbane a orașului Dushanbe.",
+                  "category": "natural",
+                  "coords": [
+                        68.749846,
+                        38.69762
+                  ]
+            },
+            {
+                  "name": "Kuli Dushanbe",
+                  "text": "Acest parc acvatic popular de la lacul Dushanbe oferă numeroase tobogane și facilități de înot pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        68.785101,
+                        38.678888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "by Fossa",
+                  "text": "This viewpoint offers a wide view over the industrial landscape and the hills near the Dushanbe cement plant.",
+                  "category": "natural",
+                  "coords": [
+                        68.74527,
+                        38.679644
+                  ]
+            },
+            {
+                  "name": "Vid na gorod",
+                  "text": "The Vid na gorod viewpoint offers an impressive panoramic view of the Dushanbe urban area.",
+                  "category": "natural",
+                  "coords": [
+                        68.749846,
+                        38.69762
+                  ]
+            },
+            {
+                  "name": "Kuli Dushanbe (Dushanbe Lake)",
+                  "text": "This popular water park at Dushanbe Lake features numerous slides and swimming facilities for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        68.785101,
+                        38.678888
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TJ-DU",
     coords: [68.7700, 38.6200],
@@ -1219,7 +3460,952 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "vakhsh-fertilizer-plant-economic-v2",
+    id: "vakhsh-fertilizer-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Korona",
+                  "text": "Ein kronenförmiges Monument im Stadtzentrum, das die nationale Souveränität symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "Dieses Denkmal zeigt einen Oldtimer-Traktor und erinnert an die landwirtschaftliche Entwicklung der Region Wachsch.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Ein imposanter Flaggenmast im Stadtzentrum, an dem die tadschikische Nationalflagge weht.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Eine Skulptur, die das Staatswappen Tadschikistans darstellt und den öffentlichen Platz schmückt.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "Ein nach dem Dichter Rudaki benannter Park mit schattigen Alleen und Erholungsflächen.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "Teppa muzei Bibikhur",
+                  "text": "Dieses Museum für moderne Geschichte wurde auf einem archäologischen Hügel (Teppa) errichtet.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.837709
+                  ]
+            },
+            {
+                  "name": "Bobodzhon Gafurov",
+                  "text": "Eine Statue zu Ehren des berühmten tadschikischen Historikers und Staatsmannes Bobojon Ghafurov.",
+                  "category": "historical",
+                  "coords": [
+                        68.783692,
+                        37.832575
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Regionalmuseum, das archäologische Funde und ethnografische Exponate der Provinz Chatlon zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        68.779847,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Akvapark Sarband",
+                  "text": "Ein Wasserpark mit Rutschen und Pools in der Nähe des Sarband-Staudamms am Fluss Wachsch.",
+                  "category": "recreational",
+                  "coords": [
+                        68.879096,
+                        37.862098
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "Eine russisch-orthodoxe Kirche, die als spirituelles Zentrum für die lokale christliche Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.786524,
+                        37.832481
+                  ]
+            },
+            {
+                  "name": "Darvozai Lamanos",
+                  "text": "Ein lokaler Gebetsort und Torweg im Lomonossow-Viertel der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        68.794092,
+                        37.839327
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sv. Rocha",
+                  "text": "Eine dem Heiligen Rochus geweihte Kirche, die die christliche Minderheit der Region betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        68.768222,
+                        37.844078
+                  ]
+            },
+            {
+                  "name": "Mechet' 14 mikr",
+                  "text": "Eine Nachbarschaftsmoschee, die die Bewohner des 14. Mikrodistrikts mit Gebetsräumen versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763658,
+                        37.843702
+                  ]
+            },
+            {
+                  "name": "Mechet' Urgut makhallia",
+                  "text": "Eine kleine Gemeinschaftsmoschee im Urgut-Viertel für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        68.787189,
+                        37.828423
+                  ]
+            },
+            {
+                  "name": "Maschiti Lamanos",
+                  "text": "Eine Moschee im Lomonossow-Distrikt, die als lokales religiöses Zentrum fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.797858,
+                        37.849825
+                  ]
+            },
+            {
+                  "name": "Maschidi Gogol'",
+                  "text": "Diese Moschee liegt an der Gogol-Straße und ist nach dem berühmten Schriftsteller benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.785322,
+                        37.841103
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Ein traditionelles islamisches Gebetshaus für die Gläubigen der umliegenden Wohngebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        68.782578,
+                        37.82464
+                  ]
+            },
+            {
+                  "name": "Dekhkon-Bozori Khochi Sharif",
+                  "text": "Ein großer Bauernmarkt, bekannt als Khoji Sharif, auf dem regionale Agrarprodukte verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804415,
+                        37.847
+                  ]
+            },
+            {
+                  "name": "Bozorchai Tets",
+                  "text": "Ein kleiner Markt in der Nähe des Wärmekraftwerks, der die Arbeiter der Umgebung versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781562,
+                        37.844046
+                  ]
+            },
+            {
+                  "name": "Bazar Farovon",
+                  "text": "Ein belebter Basar mit einer großen Auswahl an Haushaltswaren und frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781149,
+                        37.830483
+                  ]
+            },
+            {
+                  "name": "Bazar stroitel'nykh materialov Khodzhi Sharif",
+                  "text": "Ein spezialisierter Marktkomplex innerhalb von Khoji Sharif, der Baumaterialien anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804146,
+                        37.844216
+                  ]
+            },
+            {
+                  "name": "Novyi bazar Khodzhi Sharif",
+                  "text": "Einer der größten Handelsplätze der Region für Kleidung und Textilien.",
+                  "category": "cultural",
+                  "coords": [
+                        68.808036,
+                        37.843215
+                  ]
+            },
+            {
+                  "name": "Khammom (Bania)",
+                  "text": "Ein traditionelles öffentliches Badehaus mit Dampfbädern zur Entspannung der Anwohner.",
+                  "category": "recreational",
+                  "coords": [
+                        68.778288,
+                        37.842075
+                  ]
+            },
+            {
+                  "name": "Bania Lamanos",
+                  "text": "Ein öffentliches Badehaus im Lomonossow-Viertel, das traditionelle Waschrituale ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        68.798798,
+                        37.844027
+                  ]
+            },
+            {
+                  "name": "Bania Tets",
+                  "text": "Dieses Badehaus liegt in der Nähe des Heizkraftwerks und wird oft von dessen Arbeitern genutzt.",
+                  "category": "recreational",
+                  "coords": [
+                        68.780592,
+                        37.844803
+                  ]
+            },
+            {
+                  "name": "Pokiza",
+                  "text": "Eine für ihre Sauberkeit bekannte öffentliche Badeanstalt, die klassische Waschdienste anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        68.774059,
+                        37.84365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korona",
+                  "text": "Egy korona alakú emlékmű a városközpontban, amely a nemzeti szuverenitást jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "Ez az emlékmű egy veterán traktort ábrázol, emléket állítva a vakhshi régió mezőgazdasági fejlődésének.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Egy impozáns zászlórúd a városközpontban, amelyen a tadzsik nemzeti lobogó látható.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Tádzsikisztán állami címerét ábrázoló szobor, amely a nyilvános teret díszíti.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "A Rudaki költőről elnevezett park árnyas sétányokkal és pihenőhelyekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "Teppa muzei Bibikhur",
+                  "text": "Ez a modern történelmi múzeum egy régészeti dombra (Teppa) épült.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.837709
+                  ]
+            },
+            {
+                  "name": "Bobodzhon Gafurov",
+                  "text": "Szobor a híres tadzsik történész és államférfi, Bobojon Ghafurov tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        68.783692,
+                        37.832575
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Regionális múzeum, amely Khatlon tartomány régészeti leleteit és néprajzi tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.779847,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Akvapark Sarband",
+                  "text": "Vízi vidámpark csúszdákkal és medencékkel a Vakhsh-folyó Sarband-gátja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        68.879096,
+                        37.862098
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "Orosz ortodox templom, amely a helyi keresztény közösség lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        68.786524,
+                        37.832481
+                  ]
+            },
+            {
+                  "name": "Darvozai Lamanos",
+                  "text": "Helyi imaház és kapu a város Lomonoszov negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        68.794092,
+                        37.839327
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sv. Rocha",
+                  "text": "Szent Rókusnak szentelt templom, amely a régió keresztény kisebbségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        68.768222,
+                        37.844078
+                  ]
+            },
+            {
+                  "name": "Mechet' 14 mikr",
+                  "text": "Környékbeli mecset, amely a 14. mikrokerület lakóinak biztosít imádkozási lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763658,
+                        37.843702
+                  ]
+            },
+            {
+                  "name": "Mechet' Urgut makhallia",
+                  "text": "Kicsi közösségi mecset az Urgut negyedben a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        68.787189,
+                        37.828423
+                  ]
+            },
+            {
+                  "name": "Maschiti Lamanos",
+                  "text": "Mecset a Lomonoszov kerületben, amely helyi vallási központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        68.797858,
+                        37.849825
+                  ]
+            },
+            {
+                  "name": "Maschidi Gogol'",
+                  "text": "Ez a mecset a Gogol utcában található, és a híres íróról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        68.785322,
+                        37.841103
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Hagyományos iszlám imaház a környező lakónegyedek hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.782578,
+                        37.82464
+                  ]
+            },
+            {
+                  "name": "Dekhkon-Bozori Khochi Sharif",
+                  "text": "Nagy termelői piac, Khoji Sharif néven ismert, ahol a régió mezőgazdasági termékeit árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804415,
+                        37.847
+                  ]
+            },
+            {
+                  "name": "Bozorchai Tets",
+                  "text": "Kisméretű piac a hőerőmű közelében, amely a környék munkásait szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781562,
+                        37.844046
+                  ]
+            },
+            {
+                  "name": "Bazar Farovon",
+                  "text": "Nyüzsgő bazár, ahol háztartási cikkek és friss élelmiszerek széles választéka található.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781149,
+                        37.830483
+                  ]
+            },
+            {
+                  "name": "Bazar stroitel'nykh materialov Khodzhi Sharif",
+                  "text": "A Khoji Sharif komplexumon belüli specializált piac, amely építőanyagokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804146,
+                        37.844216
+                  ]
+            },
+            {
+                  "name": "Novyi bazar Khodzhi Sharif",
+                  "text": "A régió egyik legnagyobb ruházati és textilkereskedelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        68.808036,
+                        37.843215
+                  ]
+            },
+            {
+                  "name": "Khammom (Bania)",
+                  "text": "Hagyományos nyilvános fürdő gőzfürdőkkel a helyi lakosok kikapcsolódására.",
+                  "category": "recreational",
+                  "coords": [
+                        68.778288,
+                        37.842075
+                  ]
+            },
+            {
+                  "name": "Bania Lamanos",
+                  "text": "Nyilvános fürdő a Lomonoszov negyedben, amely hagyományos tisztálkodási lehetőséget nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        68.798798,
+                        37.844027
+                  ]
+            },
+            {
+                  "name": "Bania Tets",
+                  "text": "Ez a fürdő a hőerőmű közelében található, és gyakran használják az ottani munkások.",
+                  "category": "recreational",
+                  "coords": [
+                        68.780592,
+                        37.844803
+                  ]
+            },
+            {
+                  "name": "Pokiza",
+                  "text": "Tisztaságáról ismert nyilvános fürdő, amely klasszikus mosdási szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        68.774059,
+                        37.84365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korona",
+                  "text": "Un monument în formă de coroană situat în centrul orașului, simbolizând suveranitatea națională.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "Acest monument prezintă un tractor de epocă, amintind de dezvoltarea agricolă a regiunii Vakhsh.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Un catarg impunător în centrul orașului, unde flutură steagul național al Tadjikistanului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "O sculptură care reprezintă emblema de stat a Tadjikistanului, decorând piața publică.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "Un parc numit după poetul Rudaki, oferind alei umbrite și spații de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "Teppa muzei Bibikhur",
+                  "text": "Acest muzeu de istorie modernă este construit pe un dâmb arheologic (Teppa).",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.837709
+                  ]
+            },
+            {
+                  "name": "Bobodzhon Gafurov",
+                  "text": "O statuie în cinstea celebrului istoric și om de stat tadjic Bobojon Ghafurov.",
+                  "category": "historical",
+                  "coords": [
+                        68.783692,
+                        37.832575
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Muzeu regional care prezintă descoperiri arheologice și exponate etnografice din provincia Khatlon.",
+                  "category": "museum",
+                  "coords": [
+                        68.779847,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Akvapark Sarband",
+                  "text": "Un parc acvatic cu tobogane și piscine situat lângă barajul Sarband de pe râul Vakhsh.",
+                  "category": "recreational",
+                  "coords": [
+                        68.879096,
+                        37.862098
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "O biserică ortodoxă rusă care servește drept centru spiritual pentru comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        68.786524,
+                        37.832481
+                  ]
+            },
+            {
+                  "name": "Darvozai Lamanos",
+                  "text": "Un lăcaș de cult local și poartă de acces în cartierul Lomonosov al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        68.794092,
+                        37.839327
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sv. Rocha",
+                  "text": "O biserică dedicată Sfântului Roch, care deservește minoritatea creștină din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        68.768222,
+                        37.844078
+                  ]
+            },
+            {
+                  "name": "Mechet' 14 mikr",
+                  "text": "O moschee de cartier care oferă spațiu de rugăciune pentru locuitorii din microdistrictul 14.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763658,
+                        37.843702
+                  ]
+            },
+            {
+                  "name": "Mechet' Urgut makhallia",
+                  "text": "O mică moschee comunitară în cartierul Urgut pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.787189,
+                        37.828423
+                  ]
+            },
+            {
+                  "name": "Maschiti Lamanos",
+                  "text": "O moschee în districtul Lomonosov, care funcționează ca un centru religios local.",
+                  "category": "landmark",
+                  "coords": [
+                        68.797858,
+                        37.849825
+                  ]
+            },
+            {
+                  "name": "Maschidi Gogol'",
+                  "text": "Această moschee este situată pe strada Gogol și este numită după celebrul scriitor.",
+                  "category": "landmark",
+                  "coords": [
+                        68.785322,
+                        37.841103
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Un lăcaș de cult islamic tradițional pentru credincioșii din zonele rezidențiale învecinate.",
+                  "category": "landmark",
+                  "coords": [
+                        68.782578,
+                        37.82464
+                  ]
+            },
+            {
+                  "name": "Dekhkon-Bozori Khochi Sharif",
+                  "text": "O piață agroalimentară mare, cunoscută sub numele de Khoji Sharif, unde se vând produse agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804415,
+                        37.847
+                  ]
+            },
+            {
+                  "name": "Bozorchai Tets",
+                  "text": "O piață mică lângă centrala termoelectrică, care deservește muncitorii din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781562,
+                        37.844046
+                  ]
+            },
+            {
+                  "name": "Bazar Farovon",
+                  "text": "Un bazar plin de viață, cu o selecție largă de articole de uz casnic și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781149,
+                        37.830483
+                  ]
+            },
+            {
+                  "name": "Bazar stroitel'nykh materialov Khodzhi Sharif",
+                  "text": "Un complex comercial specializat în cadrul Khoji Sharif, care oferă materiale de construcție.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804146,
+                        37.844216
+                  ]
+            },
+            {
+                  "name": "Novyi bazar Khodzhi Sharif",
+                  "text": "Unul dintre cele mai mari centre comerciale din regiune pentru îmbrăcăminte și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        68.808036,
+                        37.843215
+                  ]
+            },
+            {
+                  "name": "Khammom (Bania)",
+                  "text": "O baie publică tradițională cu băi de aburi pentru relaxarea locuitorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        68.778288,
+                        37.842075
+                  ]
+            },
+            {
+                  "name": "Bania Lamanos",
+                  "text": "O baie publică în cartierul Lomonosov, care oferă facilități tradiționale de spălare.",
+                  "category": "recreational",
+                  "coords": [
+                        68.798798,
+                        37.844027
+                  ]
+            },
+            {
+                  "name": "Bania Tets",
+                  "text": "Această baie este situată lângă centrala termoelectrică și este frecvent utilizată de muncitorii de acolo.",
+                  "category": "recreational",
+                  "coords": [
+                        68.780592,
+                        37.844803
+                  ]
+            },
+            {
+                  "name": "Pokiza",
+                  "text": "O unitate de baie publică cunoscută pentru curățenie, oferind servicii clasice de spălare.",
+                  "category": "recreational",
+                  "coords": [
+                        68.774059,
+                        37.84365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korona",
+                  "text": "A crown-shaped monument in the city center symbolizing national sovereignty.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "This monument features a vintage tractor, commemorating the agricultural development of the Vakhsh region.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "A soaring flagpole in the city center flying the national flag of Tajikistan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "A sculpture depicting the national emblem of Tajikistan, decorating the public square.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "A public park named after the poet Rudaki featuring shaded walkways and recreational areas.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "Teppa (modern history museum)",
+                  "text": "This modern history museum is built atop a prominent archaeological mound known as a Teppa.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.837709
+                  ]
+            },
+            {
+                  "name": "Bobojon Ghafurov statue",
+                  "text": "A statue honoring the famous Tajik historian and statesman Bobojon Ghafurov.",
+                  "category": "historical",
+                  "coords": [
+                        68.783692,
+                        37.832575
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Regional museum showcasing archaeological finds and ethnographic exhibits from the Khatlon province.",
+                  "category": "museum",
+                  "coords": [
+                        68.779847,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Sarband Aquapark",
+                  "text": "A water park with slides and pools located near the Sarband dam on the Vakhsh River.",
+                  "category": "recreational",
+                  "coords": [
+                        68.879096,
+                        37.862098
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "A Russian Orthodox church serving as a spiritual center for the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        68.786524,
+                        37.832481
+                  ]
+            },
+            {
+                  "name": "Darvozai Lamanos",
+                  "text": "A local place of worship and gateway located in the Lomonosov neighborhood of the city.",
+                  "category": "religious",
+                  "coords": [
+                        68.794092,
+                        37.839327
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sv. Rocha",
+                  "text": "A church dedicated to Saint Roch serving the Christian minority in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        68.768222,
+                        37.844078
+                  ]
+            },
+            {
+                  "name": "Mechet' 14 mikr",
+                  "text": "A neighborhood mosque providing prayer facilities for residents of the 14th microdistrict.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763658,
+                        37.843702
+                  ]
+            },
+            {
+                  "name": "Mechet' Urgut makhallia",
+                  "text": "A small community mosque located within the Urgut neighborhood for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.787189,
+                        37.828423
+                  ]
+            },
+            {
+                  "name": "Maschiti Lamanos",
+                  "text": "A mosque in the Lomonosov district functioning as a local religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        68.797858,
+                        37.849825
+                  ]
+            },
+            {
+                  "name": "Maschidi Gogol'",
+                  "text": "This mosque is situated on Gogol Street and is locally named after the famous writer.",
+                  "category": "landmark",
+                  "coords": [
+                        68.785322,
+                        37.841103
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A traditional Islamic house of worship for the faithful of the surrounding residential areas.",
+                  "category": "landmark",
+                  "coords": [
+                        68.782578,
+                        37.82464
+                  ]
+            },
+            {
+                  "name": "Dekhkon-Bozori Khochi Sharif",
+                  "text": "A large farmers' market known as Khoji Sharif, selling regional agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804415,
+                        37.847
+                  ]
+            },
+            {
+                  "name": "Bozorchai Tets",
+                  "text": "A small marketplace located near the thermal power plant catering to local workers.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781562,
+                        37.844046
+                  ]
+            },
+            {
+                  "name": "Bazar Farovon",
+                  "text": "A bustling bazaar with a wide selection of household goods and fresh food items.",
+                  "category": "cultural",
+                  "coords": [
+                        68.781149,
+                        37.830483
+                  ]
+            },
+            {
+                  "name": "Bazar stroitel'nykh materialov Khodzhi Sharif",
+                  "text": "A specialized market complex within Khoji Sharif offering construction and building materials.",
+                  "category": "cultural",
+                  "coords": [
+                        68.804146,
+                        37.844216
+                  ]
+            },
+            {
+                  "name": "Hoji Sharif Bazaar",
+                  "text": "One of the region's largest trading hubs for clothing and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        68.808036,
+                        37.843215
+                  ]
+            },
+            {
+                  "name": "Khammom (Bania)",
+                  "text": "A traditional public bathhouse with steam rooms for the relaxation of local residents.",
+                  "category": "recreational",
+                  "coords": [
+                        68.778288,
+                        37.842075
+                  ]
+            },
+            {
+                  "name": "Bania Lamanos",
+                  "text": "A public bathhouse in the Lomonosov neighborhood providing traditional washing facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        68.798798,
+                        37.844027
+                  ]
+            },
+            {
+                  "name": "Bania Tets",
+                  "text": "This bathhouse is located near the thermal power plant and is frequently used by its workers.",
+                  "category": "recreational",
+                  "coords": [
+                        68.780592,
+                        37.844803
+                  ]
+            },
+            {
+                  "name": "Pokiza",
+                  "text": "A public bathing facility known for its cleanliness, offering classic washing services.",
+                  "category": "recreational",
+                  "coords": [
+                        68.774059,
+                        37.84365
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TJ-KT",
     coords: [68.8600, 37.8300],

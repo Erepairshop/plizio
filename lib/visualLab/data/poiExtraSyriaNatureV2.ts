@@ -47,7 +47,232 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "orontes-river-nature-v2",
+    id: "orontes-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "maoured mahieha Hama",
+                  "text": "Ein beliebter Uferplatz in Hama, berühmt für die Nähe zu den historischen Wasserrädern.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755367,
+                        35.092629
+                  ]
+            },
+            {
+                  "name": "Hama Castle",
+                  "text": "Ein monumentaler Zitadellenhügel im Stadtzentrum, der das Panorama von Hama dominiert.",
+                  "category": "castle",
+                  "coords": [
+                        36.749488,
+                        35.136324
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Eine historische Moschee, die auf einem römischen Tempelgelände errichtet wurde und ein quadratisches Minarett besitzt.",
+                  "category": "religious",
+                  "coords": [
+                        36.745246,
+                        35.134439
+                  ]
+            },
+            {
+                  "name": "Mohammad al-hamed",
+                  "text": "Ein lokales Gebetshaus in Hama, das für seine traditionelle levantinische Steinarchitektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        36.741413,
+                        35.127757
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali al-Qadri Mosque",
+                  "text": "Eine Moschee in Hama, die durch ihre klassische islamische Gestaltung und spirituelle Bedeutung besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        36.750823,
+                        35.130248
+                  ]
+            },
+            {
+                  "name": "Sultan Mosque",
+                  "text": "Eine markante Moschee im Altstadtviertel von Hama mit traditionellem Mauerwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751569,
+                        35.131315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "maoured mahieha Hama",
+                  "text": "Népszerű vízparti hely Hamában, amely a történelmi vízikerekek közelségéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755367,
+                        35.092629
+                  ]
+            },
+            {
+                  "name": "Hama Castle",
+                  "text": "Monumentális várdomb a városközpontban, amely uralja Hama panorámáját.",
+                  "category": "castle",
+                  "coords": [
+                        36.749488,
+                        35.136324
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Római templom helyére épült történelmi mecset, jellegzetes négyszögletes minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        36.745246,
+                        35.134439
+                  ]
+            },
+            {
+                  "name": "Mohammad al-hamed",
+                  "text": "Helyi imaház Hamában, amely hagyományos levantei kőépítészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        36.741413,
+                        35.127757
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali al-Qadri Mosque",
+                  "text": "Klasszikus iszlám kialakításáról és spirituális jelentőségéről ismert mecset Hamában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.750823,
+                        35.130248
+                  ]
+            },
+            {
+                  "name": "Sultan Mosque",
+                  "text": "Hama óvárosi negyedének jelentős mecsetje tradicionális kőművesmunkával.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751569,
+                        35.131315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "maoured mahieha Hama",
+                  "text": "Un loc popular pe malul apei în Hama, faimos pentru proximitatea sa față de roțile de apă istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755367,
+                        35.092629
+                  ]
+            },
+            {
+                  "name": "Hama Castle",
+                  "text": "O colină monumentală a citadelei în centrul orașului, care domină panorama orașului Hama.",
+                  "category": "castle",
+                  "coords": [
+                        36.749488,
+                        35.136324
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "O moschee istorică construită pe locul unui templu roman, având un minaret pătrat distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        36.745246,
+                        35.134439
+                  ]
+            },
+            {
+                  "name": "Mohammad al-hamed",
+                  "text": "Un lăcaș de cult local din Hama, cunoscut pentru arhitectura sa tradițională levantină din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        36.741413,
+                        35.127757
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali al-Qadri Mosque",
+                  "text": "O moschee în Hama, remarcabilă prin designul său islamic clasic și importanța sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        36.750823,
+                        35.130248
+                  ]
+            },
+            {
+                  "name": "Sultan Mosque",
+                  "text": "O moschee notabilă în cartierul vechi al orașului Hama, cu zidărie tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751569,
+                        35.131315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "maoured mahieha Hama",
+                  "text": "A popular riverside spot in Hama, famous for its proximity to the historical waterwheels.",
+                  "category": "landmark",
+                  "coords": [
+                        36.755367,
+                        35.092629
+                  ]
+            },
+            {
+                  "name": "Hama Castle",
+                  "text": "A monumental citadel mound in the city center that dominates the panorama of Hama.",
+                  "category": "castle",
+                  "coords": [
+                        36.749488,
+                        35.136324
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "A historical mosque built on a Roman temple site, featuring a distinct square minaret.",
+                  "category": "religious",
+                  "coords": [
+                        36.745246,
+                        35.134439
+                  ]
+            },
+            {
+                  "name": "Mohammad al-hamed",
+                  "text": "A local place of worship in Hama, known for its traditional Levantine stone architecture.",
+                  "category": "religious",
+                  "coords": [
+                        36.741413,
+                        35.127757
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali al-Qadri Mosque",
+                  "text": "A mosque in Hama known for its classic Islamic design and spiritual importance.",
+                  "category": "landmark",
+                  "coords": [
+                        36.750823,
+                        35.130248
+                  ]
+            },
+            {
+                  "name": "Sultan Mosque",
+                  "text": "A notable mosque in Hama's old quarter featuring traditional stone masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        36.751569,
+                        35.131315
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SY-HM",
     coords: [36.75, 35.1333],
@@ -135,7 +360,88 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-assad-nature-v2",
+    id: "lake-assad-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Gharir al Milh",
+                  "text": "Ein Wüstengipfel, der die weite Wasserfläche des Assad-Sees überragt.",
+                  "category": "natural",
+                  "coords": [
+                        38.375,
+                        35.947222
+                  ]
+            },
+            {
+                  "name": "Tall Jabir",
+                  "text": "Eine markante Erhebung am Rande des Sees in der Nähe der historischen Burg Qal'at Ja'bar.",
+                  "category": "natural",
+                  "coords": [
+                        38.416667,
+                        36.05
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Gharir al Milh",
+                  "text": "Sivatagi csúcs, amely az Aszad-tó kiterjedt víztükre fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        38.375,
+                        35.947222
+                  ]
+            },
+            {
+                  "name": "Tall Jabir",
+                  "text": "Jelentős magaslat a tó partján, a történelmi Qal'at Ja'bar vára közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.416667,
+                        36.05
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Gharir al Milh",
+                  "text": "Un vârf de deșert care domină întinderea vastă de apă a Lacului Assad.",
+                  "category": "natural",
+                  "coords": [
+                        38.375,
+                        35.947222
+                  ]
+            },
+            {
+                  "name": "Tall Jabir",
+                  "text": "O cotă proeminentă pe marginea lacului, în apropierea castelului istoric Qal'at Ja'bar.",
+                  "category": "natural",
+                  "coords": [
+                        38.416667,
+                        36.05
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Gharir al Milh",
+                  "text": "A desert peak overlooking the vast expanse of water of Lake Assad.",
+                  "category": "natural",
+                  "coords": [
+                        38.375,
+                        35.947222
+                  ]
+            },
+            {
+                  "name": "Tall Jabir",
+                  "text": "A prominent elevation on the lake's edge near the historic Qal'at Ja'bar castle.",
+                  "category": "natural",
+                  "coords": [
+                        38.416667,
+                        36.05
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SY-RA",
     coords: [38.3333, 36.0],
@@ -179,7 +485,124 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-qattinah-nature-v2",
+    id: "lake-qattinah-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall Husayn",
+                  "text": "Ein markanter Hügel, der einen weiten Blick über das Orontes-Tal und den Qattinah-See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.633138,
+                        34.600477
+                  ]
+            },
+            {
+                  "name": "Khirbat Tineiss",
+                  "text": "Überreste einer antiken Siedlung am östlichen Ufer des strategisch wichtigen Qattinah-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        36.616667,
+                        34.616667
+                  ]
+            },
+            {
+                  "name": "Khirbat ar Ram",
+                  "text": "Eine archäologische Stätte mit antiken Gebäuderesten in der fruchtbaren Region nahe dem Orontes.",
+                  "category": "historical",
+                  "coords": [
+                        36.5744,
+                        34.665865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tall Husayn",
+                  "text": "Jellegzetes domb, amelyről széles kilátás nyílik az Orontész-völgyre és a Kattina-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        36.633138,
+                        34.600477
+                  ]
+            },
+            {
+                  "name": "Khirbat Tineiss",
+                  "text": "Egy ősi település maradványai a stratégiai fontosságú Kattina-tó keleti partján.",
+                  "category": "historical",
+                  "coords": [
+                        36.616667,
+                        34.616667
+                  ]
+            },
+            {
+                  "name": "Khirbat ar Ram",
+                  "text": "Régészeti lelőhely antik épületmaradványokkal az Orontész közeli termékeny vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        36.5744,
+                        34.665865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tall Husayn",
+                  "text": "Un deal proeminent care oferă o vedere panoramică asupra văii râului Orontes și a lacului Qattinah.",
+                  "category": "natural",
+                  "coords": [
+                        36.633138,
+                        34.600477
+                  ]
+            },
+            {
+                  "name": "Khirbat Tineiss",
+                  "text": "Vestigiile unei așezări antice pe malul estic al lacului strategic Qattinah.",
+                  "category": "historical",
+                  "coords": [
+                        36.616667,
+                        34.616667
+                  ]
+            },
+            {
+                  "name": "Khirbat ar Ram",
+                  "text": "Un sit arheologic ce conține resturi de clădiri antice în regiunea fertilă de lângă Orontes.",
+                  "category": "historical",
+                  "coords": [
+                        36.5744,
+                        34.665865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall Husayn",
+                  "text": "A prominent hill offering wide views over the Orontes valley and Lake Qattinah.",
+                  "category": "natural",
+                  "coords": [
+                        36.633138,
+                        34.600477
+                  ]
+            },
+            {
+                  "name": "Khirbat Tineiss",
+                  "text": "Remains of an ancient settlement on the eastern shores of the strategic Lake Qattinah.",
+                  "category": "historical",
+                  "coords": [
+                        36.616667,
+                        34.616667
+                  ]
+            },
+            {
+                  "name": "Khirbat ar Ram",
+                  "text": "An archaeological site featuring ancient building remains in the fertile region near the Orontes.",
+                  "category": "historical",
+                  "coords": [
+                        36.5744,
+                        34.665865
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SY-HI",
     coords: [36.65, 34.6666],
@@ -223,7 +646,124 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-hermon-syria-nature-v2",
+    id: "mount-hermon-syria-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Shbib",
+                  "text": "Antike Ruinen auf den Hängen des Berges Hermon mit Resten einer alten Festung.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        33.416667
+                  ]
+            },
+            {
+                  "name": "Dschabal Asch-Schaich",
+                  "text": "Der höchste Gipfel des Anti-Libanon-Gebirges, der im Winter oft schneebedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.85645,
+                        33.41687
+                  ]
+            },
+            {
+                  "name": "Ain Hirsha Roman Temple",
+                  "text": "Ein gut erhaltener römischer Tempel am Westhang des Berges Hermon aus Kalkstein.",
+                  "category": "historical",
+                  "coords": [
+                        35.790528,
+                        33.453475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Shbib",
+                  "text": "Ősi romok a Hermon-hegy lejtőin, egy régi erődítmény maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        33.416667
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shaykh",
+                  "text": "Az Antilibanon-hegység legmagasabb csúcsa, amely télen gyakran hófödte.",
+                  "category": "natural",
+                  "coords": [
+                        35.85645,
+                        33.41687
+                  ]
+            },
+            {
+                  "name": "Ain Hirsha Roman Temple",
+                  "text": "Jó állapotban fennmaradt római templom a Hermon-hegy nyugati lejtőjén, mészkőből építve.",
+                  "category": "historical",
+                  "coords": [
+                        35.790528,
+                        33.453475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Shbib",
+                  "text": "Ruine antice pe versanții Muntelui Hermon, cu vestigii ale unei vechi fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        33.416667
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shaykh",
+                  "text": "Cel mai înalt vârf din munții Anti-Liban, adesea acoperit de zăpadă în timpul iernii.",
+                  "category": "natural",
+                  "coords": [
+                        35.85645,
+                        33.41687
+                  ]
+            },
+            {
+                  "name": "Ain Hirsha Roman Temple",
+                  "text": "Un templu roman bine conservat pe versantul vestic al Muntelui Hermon, construit din calcar.",
+                  "category": "historical",
+                  "coords": [
+                        35.790528,
+                        33.453475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Shbib",
+                  "text": "Ancient ruins on the slopes of Mount Hermon featuring remains of an old fortification.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        33.416667
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shaykh",
+                  "text": "The highest peak of the Anti-Lebanon range, often snow-capped during winter.",
+                  "category": "natural",
+                  "coords": [
+                        35.85645,
+                        33.41687
+                  ]
+            },
+            {
+                  "name": "Ain Hirsha Roman Temple",
+                  "text": "A well-preserved Roman temple on the western slope of Mount Hermon built from limestone.",
+                  "category": "historical",
+                  "coords": [
+                        35.790528,
+                        33.453475
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-QU",
     coords: [35.85, 33.4166],
@@ -267,7 +807,88 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-al-druze-nature-v2",
+    id: "jabal-al-druze-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal ad Duruz",
+                  "text": "Ein hohes Vulkanplateau, bekannt für seine dunklen Basaltböden und die Dörfer der Drusen.",
+                  "category": "natural",
+                  "coords": [
+                        36.733331,
+                        32.666649
+                  ]
+            },
+            {
+                  "name": "Al Kafer Battle Monument",
+                  "text": "Ein Denkmal und Aussichtspunkt, der an die Schlacht von Al-Kafer während des Großen Syrischen Aufstands erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        36.641287,
+                        32.637559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal ad Duruz",
+                  "text": "Magas vulkáni fennsík, amely sötét bazalttalajáról és a drúz falvakról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        36.733331,
+                        32.666649
+                  ]
+            },
+            {
+                  "name": "Al Kafer Battle Monument",
+                  "text": "Emlékmű és kilátóhely, amely a nagy szíriai felkelés al-kaferi csatájának állít emléket.",
+                  "category": "natural",
+                  "coords": [
+                        36.641287,
+                        32.637559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal ad Duruz",
+                  "text": "Un platou vulcanic înalt, cunoscut pentru solurile sale bazaltice închise la culoare și satele druze.",
+                  "category": "natural",
+                  "coords": [
+                        36.733331,
+                        32.666649
+                  ]
+            },
+            {
+                  "name": "Al Kafer Battle Monument",
+                  "text": "Un monument și punct de observație dedicat bătăliei de la Al-Kafer din timpul Marii Revolte Siriene.",
+                  "category": "natural",
+                  "coords": [
+                        36.641287,
+                        32.637559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal ad Duruz",
+                  "text": "A high volcanic plateau known for its dark basaltic soil and Druze villages.",
+                  "category": "natural",
+                  "coords": [
+                        36.733331,
+                        32.666649
+                  ]
+            },
+            {
+                  "name": "Al Kafer Battle Monument",
+                  "text": "A viewpoint and memorial dedicated to the Battle of Al-Kafer during the Great Syrian Revolt.",
+                  "category": "natural",
+                  "coords": [
+                        36.641287,
+                        32.637559
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-SU",
     coords: [36.7333, 32.6666],
@@ -311,7 +932,124 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "anti-lebanon-mountains-syria-nature-v2",
+    id: "anti-lebanon-mountains-syria-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr al Banat",
+                  "text": "Die Steinruinen eines antiken Turms oder Tempels im schroffen Anti-Libanon-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        36.15,
+                        33.85
+                  ]
+            },
+            {
+                  "name": "Washal `Arana",
+                  "text": "Eine traditionelle Windmühle in den Höhenlagen des Anti-Libanon-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        36.255556,
+                        33.825
+                  ]
+            },
+            {
+                  "name": "Tempel mit Kymakapitell-Ordnung Muhafazat as-Suwaydaʾ",
+                  "text": "Eine archäologische Stätte mit Ruinen, die durch besondere Kymakapitell-Architekturdetails bestechen.",
+                  "category": "historical",
+                  "coords": [
+                        36.314457,
+                        33.839309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr al Banat",
+                  "text": "Egy ókori torony vagy templom kőromjai a zord Antilibanon-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        36.15,
+                        33.85
+                  ]
+            },
+            {
+                  "name": "Washal `Arana",
+                  "text": "Hagyományos szélmalom az Antilibanon-hegység magaslatain.",
+                  "category": "landmark",
+                  "coords": [
+                        36.255556,
+                        33.825
+                  ]
+            },
+            {
+                  "name": "Tempel mit Kymakapitell-Ordnung Muhafazat as-Suwaydaʾ",
+                  "text": "Régészeti lelőhely különleges kymakapitell stílusú építészeti részletekkel díszített romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        36.314457,
+                        33.839309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr al Banat",
+                  "text": "Ruinele de piatră ale unui turn sau templu antic în munții abrupți Anti-Liban.",
+                  "category": "historical",
+                  "coords": [
+                        36.15,
+                        33.85
+                  ]
+            },
+            {
+                  "name": "Washal `Arana",
+                  "text": "O moară de vânt tradițională situată la altitudinile înalte ale munților Anti-Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.255556,
+                        33.825
+                  ]
+            },
+            {
+                  "name": "Tempel mit Kymakapitell-Ordnung Muhafazat as-Suwaydaʾ",
+                  "text": "Sit arheologic cu ruine ce prezintă detalii arhitecturale distinctive în stil Kymakapitell.",
+                  "category": "historical",
+                  "coords": [
+                        36.314457,
+                        33.839309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr al Banat",
+                  "text": "The stone ruins of an ancient tower or temple in the rugged Anti-Lebanon mountains.",
+                  "category": "historical",
+                  "coords": [
+                        36.15,
+                        33.85
+                  ]
+            },
+            {
+                  "name": "Washal `Arana",
+                  "text": "A traditional windmill structure located in the high altitudes of the Anti-Lebanon range.",
+                  "category": "landmark",
+                  "coords": [
+                        36.255556,
+                        33.825
+                  ]
+            },
+            {
+                  "name": "Tempel mit Kymakapitell-Ordnung Muhafazat as-Suwaydaʾ",
+                  "text": "An archaeological site featuring ruins with distinctive Kymakapitell-style architectural details.",
+                  "category": "historical",
+                  "coords": [
+                        36.314457,
+                        33.839309
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-RD",
     coords: [36.2333, 33.8833],
@@ -399,7 +1137,88 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-al-bishri-nature-v2",
+    id: "jabal-al-bishri-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rujm Abu Jir",
+                  "text": "Ein Gipfel im Jabal al-Bishri-Gebirge, bekannt für seine charakteristischen Kalksteinformationen.",
+                  "category": "natural",
+                  "coords": [
+                        39.25,
+                        35.416667
+                  ]
+            },
+            {
+                  "name": "Dabbah",
+                  "text": "Eine markante Erhebung im strategisch wichtigen Wüstenhochland Zentralsyriens.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.283333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rujm Abu Jir",
+                  "text": "A Jabal al-Bishri hegység egyik csúcsa, amely jellegzetes mészkőalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        39.25,
+                        35.416667
+                  ]
+            },
+            {
+                  "name": "Dabbah",
+                  "text": "Kiemelkedő magaslat Közép-Szíria stratégiailag fontos sivatagi fennsíkján.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.283333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rujm Abu Jir",
+                  "text": "Un vârf în munții Jabal al-Bishri, cunoscut pentru formațiunile sale caracteristice de calcar.",
+                  "category": "natural",
+                  "coords": [
+                        39.25,
+                        35.416667
+                  ]
+            },
+            {
+                  "name": "Dabbah",
+                  "text": "O cotă proeminentă în zonele înalte strategice de deșert din centrul Siriei.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.283333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rujm Abu Jir",
+                  "text": "A peak in the Jabal al-Bishri mountain range, known for its characteristic limestone formations.",
+                  "category": "natural",
+                  "coords": [
+                        39.25,
+                        35.416667
+                  ]
+            },
+            {
+                  "name": "Dabbah",
+                  "text": "A prominent elevation in the strategically important desert highlands of central Syria.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.283333
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-DY",
     coords: [39.25, 35.3333],
@@ -443,7 +1262,268 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "barada-river-nature-v2",
+    id: "barada-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Damascus Opera House",
+                  "text": "Dieses moderne Kulturzentrum am Umayyaden-Platz beherbergt drei verschiedene Theatersäle für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        36.278433,
+                        33.512381
+                  ]
+            },
+            {
+                  "name": "Salimiyya Takiyya",
+                  "text": "Dieser historische Komplex aus der osmanischen Zeit umfasst eine Moschee und eine ehemalige Pilgerherberge.",
+                  "category": "religious",
+                  "coords": [
+                        36.288009,
+                        33.529393
+                  ]
+            },
+            {
+                  "name": "Sebki Park",
+                  "text": "Dieser beliebte Park im Stadtzentrum ist ein grüner Treffpunkt mit zentralen Springbrunnen.",
+                  "category": "park",
+                  "coords": [
+                        36.288471,
+                        33.519254
+                  ]
+            },
+            {
+                  "name": "Al Jahez Park",
+                  "text": "Dieser schattige Stadtpark ist nach einem berühmten Gelehrten benannt und lädt Familien zum Verweilen ein.",
+                  "category": "park",
+                  "coords": [
+                        36.279988,
+                        33.517578
+                  ]
+            },
+            {
+                  "name": "Zain Al Abdeen Mosque",
+                  "text": "Diese historische Moschee befindet sich im Salihiyah-Viertel am Fuße des Berges Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.283401,
+                        33.529481
+                  ]
+            },
+            {
+                  "name": "Al Jisr Al Abyad Mosque",
+                  "text": "Diese Moschee liegt im Viertel Al-Jisr Al-Abyad und ist nach der historischen „Weißen Brücke“ benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.28784,
+                        33.524854
+                  ]
+            },
+            {
+                  "name": "Duk Al-Bab Mosque",
+                  "text": "Diese kleine, traditionelle Moschee liegt versteckt in der Nähe der historischen Tore der Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        36.290365,
+                        33.522674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Damascus Opera House",
+                  "text": "Ez az Omajjád téren található modern kulturális központ három különböző színházteremnek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        36.278433,
+                        33.512381
+                  ]
+            },
+            {
+                  "name": "Salimiyya Takiyya",
+                  "text": "Ez a történelmi oszmán kori együttes egy mecsetet és egy egykori zarándokszállást foglal magában.",
+                  "category": "religious",
+                  "coords": [
+                        36.288009,
+                        33.529393
+                  ]
+            },
+            {
+                  "name": "Sebki Park",
+                  "text": "Ez a népszerű városközponti park zöld találkozóhely, központi szökőkutakkal díszítve.",
+                  "category": "park",
+                  "coords": [
+                        36.288471,
+                        33.519254
+                  ]
+            },
+            {
+                  "name": "Al Jahez Park",
+                  "text": "Ez az árnyas városi park egy híres tudósról kapta a nevét, és kedvelt pihenőhely a családok számára.",
+                  "category": "park",
+                  "coords": [
+                        36.279988,
+                        33.517578
+                  ]
+            },
+            {
+                  "name": "Zain Al Abdeen Mosque",
+                  "text": "Ez a történelmi mecset a Szálihíja negyedben, a Kasziún-hegy lábánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        36.283401,
+                        33.529481
+                  ]
+            },
+            {
+                  "name": "Al Jisr Al Abyad Mosque",
+                  "text": "Ez a mecset az Al-Dzsiszr al-Abjad negyedben található, és a történelmi „Fehér hídról” kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        36.28784,
+                        33.524854
+                  ]
+            },
+            {
+                  "name": "Duk Al-Bab Mosque",
+                  "text": "Ez a kicsi, hagyományos mecset az óváros történelmi kapuinak közelében, rejtett helyen található.",
+                  "category": "religious",
+                  "coords": [
+                        36.290365,
+                        33.522674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Damascus Opera House",
+                  "text": "Acest centru cultural modern din Piața Umayyad găzduiește trei săli de spectacol diferite.",
+                  "category": "cultural",
+                  "coords": [
+                        36.278433,
+                        33.512381
+                  ]
+            },
+            {
+                  "name": "Salimiyya Takiyya",
+                  "text": "Acest complex istoric din epoca otomană cuprinde o moschee și un fost han pentru pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        36.288009,
+                        33.529393
+                  ]
+            },
+            {
+                  "name": "Sebki Park",
+                  "text": "Acest parc popular din centrul orașului este un punct de întâlnire verde, decorat cu fântâni centrale.",
+                  "category": "park",
+                  "coords": [
+                        36.288471,
+                        33.519254
+                  ]
+            },
+            {
+                  "name": "Al Jahez Park",
+                  "text": "Acest parc urban umbros poartă numele unui savant celebru și este un loc preferat de relaxare pentru familii.",
+                  "category": "park",
+                  "coords": [
+                        36.279988,
+                        33.517578
+                  ]
+            },
+            {
+                  "name": "Zain Al Abdeen Mosque",
+                  "text": "Această moschee istorică este situată în cartierul Salihiyah, la poalele muntelui Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.283401,
+                        33.529481
+                  ]
+            },
+            {
+                  "name": "Al Jisr Al Abyad Mosque",
+                  "text": "Această moschee se află în cartierul Al-Jisr Al-Abyad și este numită după istoricul „Pod Alb”.",
+                  "category": "landmark",
+                  "coords": [
+                        36.28784,
+                        33.524854
+                  ]
+            },
+            {
+                  "name": "Duk Al-Bab Mosque",
+                  "text": "Această moschee mică și tradițională este ascunsă lângă porțile istorice ale orașului vechi.",
+                  "category": "religious",
+                  "coords": [
+                        36.290365,
+                        33.522674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Damascus Opera House",
+                  "text": "This modern cultural center on Umayyad Square houses three different performance halls.",
+                  "category": "cultural",
+                  "coords": [
+                        36.278433,
+                        33.512381
+                  ]
+            },
+            {
+                  "name": "Salimiyya Takiyya",
+                  "text": "This historical Ottoman-era complex includes a mosque and a former pilgrims' hospice.",
+                  "category": "religious",
+                  "coords": [
+                        36.288009,
+                        33.529393
+                  ]
+            },
+            {
+                  "name": "Sebki Park",
+                  "text": "This popular city-center park is a green gathering spot featuring central fountains.",
+                  "category": "park",
+                  "coords": [
+                        36.288471,
+                        33.519254
+                  ]
+            },
+            {
+                  "name": "Al Jahez Park",
+                  "text": "This shaded urban park is named after a famous scholar and is a favorite leisure spot for families.",
+                  "category": "park",
+                  "coords": [
+                        36.279988,
+                        33.517578
+                  ]
+            },
+            {
+                  "name": "Zain Al Abdeen Mosque",
+                  "text": "This historical mosque is located in the Salihiyah district at the foot of Mount Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.283401,
+                        33.529481
+                  ]
+            },
+            {
+                  "name": "Al Jisr Al Abyad Mosque",
+                  "text": "This mosque is situated in the Al-Jisr Al-Abyad area and is named after the historic 'White Bridge'.",
+                  "category": "landmark",
+                  "coords": [
+                        36.28784,
+                        33.524854
+                  ]
+            },
+            {
+                  "name": "Duk Al-Bab Mosque",
+                  "text": "This small, traditional mosque is hidden near the historic gates of the Old City.",
+                  "category": "religious",
+                  "coords": [
+                        36.290365,
+                        33.522674
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SY-RD",
     coords: [36.2833, 33.5166],
@@ -487,7 +1567,196 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-zawiya-nature-v2",
+    id: "jabal-zawiya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arihah - Cherry Roundabout",
+                  "text": "Denkmal mit einer großen Kirschskulptur, die die Obstproduktion der Region Ariha feiert.",
+                  "category": "historical",
+                  "coords": [
+                        36.611384,
+                        35.821424
+                  ]
+            },
+            {
+                  "name": "Park aldura",
+                  "text": "Öffentlicher Erholungspark und Grünfläche in den Hügeln nahe Ariha.",
+                  "category": "landmark",
+                  "coords": [
+                        36.607246,
+                        35.816062
+                  ]
+            },
+            {
+                  "name": "Zawiya Mountain",
+                  "text": "Hohes Kalksteinplateau in Nordsyrien, das zahlreiche antike 'Tote Städte' beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        36.699719,
+                        35.733241
+                  ]
+            },
+            {
+                  "name": "Rouweiha",
+                  "text": "Bedeutende archäologische Stätte mit den Ruinen zweier großer byzantinischer Basiliken.",
+                  "category": "landmark",
+                  "coords": [
+                        36.695043,
+                        35.738047
+                  ]
+            },
+            {
+                  "name": "Sighata",
+                  "text": "Ruinen einer spätantiken landwirtschaftlichen Siedlung im Jabal-Zawiya-Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        36.649146,
+                        35.716306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arihah - Cherry Roundabout",
+                  "text": "Emlékmű egy nagy cseresznye szoborral, amely a régió gyümölcstermesztését ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        36.611384,
+                        35.821424
+                  ]
+            },
+            {
+                  "name": "Park aldura",
+                  "text": "Nyilvános pihenőpark és zöldterület az Ariha melletti dombokon.",
+                  "category": "landmark",
+                  "coords": [
+                        36.607246,
+                        35.816062
+                  ]
+            },
+            {
+                  "name": "Zawiya Mountain",
+                  "text": "Magas mészkőfennsík Észak-Szíriában, amely számos ősi 'Holt Városnak' ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        36.699719,
+                        35.733241
+                  ]
+            },
+            {
+                  "name": "Rouweiha",
+                  "text": "Fontos régészeti lelőhely, amely két nagy bizánci bazilika romjait tartalmazza.",
+                  "category": "landmark",
+                  "coords": [
+                        36.695043,
+                        35.738047
+                  ]
+            },
+            {
+                  "name": "Sighata",
+                  "text": "Késő antik mezőgazdasági település romjai a Jabal Zawiya hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        36.649146,
+                        35.716306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arihah - Cherry Roundabout",
+                  "text": "Monument cu o sculptură mare în formă de cireașă, care celebrează producția de fructe a regiunii Ariha.",
+                  "category": "historical",
+                  "coords": [
+                        36.611384,
+                        35.821424
+                  ]
+            },
+            {
+                  "name": "Park aldura",
+                  "text": "Parc public de recreere și spațiu verde în dealurile de lângă Ariha.",
+                  "category": "landmark",
+                  "coords": [
+                        36.607246,
+                        35.816062
+                  ]
+            },
+            {
+                  "name": "Zawiya Mountain",
+                  "text": "Podiș înalt de calcar din nordul Siriei, care adăpostește numeroase 'Orașe Moarte' antice.",
+                  "category": "natural",
+                  "coords": [
+                        36.699719,
+                        35.733241
+                  ]
+            },
+            {
+                  "name": "Rouweiha",
+                  "text": "Sit arheologic important care conține ruinele a două mari basilici bizantine.",
+                  "category": "landmark",
+                  "coords": [
+                        36.695043,
+                        35.738047
+                  ]
+            },
+            {
+                  "name": "Sighata",
+                  "text": "Ruinele unei așezări agricole din antichitatea târzie în masivul Jabal Zawiya.",
+                  "category": "historical",
+                  "coords": [
+                        36.649146,
+                        35.716306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arihah - Cherry Roundabout",
+                  "text": "Monument featuring a large cherry sculpture celebrating the region's fruit production.",
+                  "category": "historical",
+                  "coords": [
+                        36.611384,
+                        35.821424
+                  ]
+            },
+            {
+                  "name": "Park aldura",
+                  "text": "Public recreational park and green space in the hills near Ariha.",
+                  "category": "landmark",
+                  "coords": [
+                        36.607246,
+                        35.816062
+                  ]
+            },
+            {
+                  "name": "Zawiya Mountain",
+                  "text": "High limestone plateau in northern Syria featuring numerous ancient 'Dead Cities'.",
+                  "category": "natural",
+                  "coords": [
+                        36.699719,
+                        35.733241
+                  ]
+            },
+            {
+                  "name": "Rouweiha",
+                  "text": "Important archaeological site containing the ruins of two large Byzantine basilicas.",
+                  "category": "landmark",
+                  "coords": [
+                        36.695043,
+                        35.738047
+                  ]
+            },
+            {
+                  "name": "Sighata",
+                  "text": "Ruins of a late antique agricultural settlement in the Jabal Zawiya massif.",
+                  "category": "historical",
+                  "coords": [
+                        36.649146,
+                        35.716306
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-ID",
     coords: [36.6, 35.7333],
@@ -531,7 +1800,268 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "balikh-river-nature-v2",
+    id: "balikh-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall Aswad",
+                  "text": "Ein prähistorischer Siedlungshügel aus der Jungsteinzeit im Tal des Flusses Balich.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.916667
+                  ]
+            },
+            {
+                  "name": "Tall Zaydan",
+                  "text": "Ein bedeutender archäologischer Hügel, der eine prähistorische Gemeinschaft in Nordmesopotamien repräsentiert.",
+                  "category": "natural",
+                  "coords": [
+                        39.083333,
+                        35.933333
+                  ]
+            },
+            {
+                  "name": "Tall ash Shaykh As`ad",
+                  "text": "Ein antiker Siedlungshügel an den historischen Bewässerungswegen des Balich-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        35.883333
+                  ]
+            },
+            {
+                  "name": "Tall al Ma`z",
+                  "text": "Ein markanter Hügel mit Blick auf die landwirtschaftlich genutzten Flächen des Balich-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        36.0
+                  ]
+            },
+            {
+                  "name": "Sugar Factory",
+                  "text": "Ein industrielles Wahrzeichen, das für die regionale landwirtschaftliche Verarbeitung in Raqqa steht.",
+                  "category": "landmark",
+                  "coords": [
+                        39.073377,
+                        35.996144
+                  ]
+            },
+            {
+                  "name": "Brick Factory",
+                  "text": "Ein lokaler Industriestandort zur Herstellung von Baumaterialien in der Nähe des Balich-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        39.122671,
+                        35.942584
+                  ]
+            },
+            {
+                  "name": "Dahr al `Adul",
+                  "text": "Ein Wüstenrücken, der sich über die Flussebenen der nordsyrischen Steppe erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        39.133333,
+                        35.966667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tall Aswad",
+                  "text": "Őskori, neolitikus településhalom a Balikh-folyó völgyében.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.916667
+                  ]
+            },
+            {
+                  "name": "Tall Zaydan",
+                  "text": "Jelentős régészeti domb, amely egy észak-mezopotámiai őskori közösséget képvisel.",
+                  "category": "natural",
+                  "coords": [
+                        39.083333,
+                        35.933333
+                  ]
+            },
+            {
+                  "name": "Tall ash Shaykh As`ad",
+                  "text": "Ókori településhalom a Balikh-folyó történelmi öntözőútvonalai mentén.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        35.883333
+                  ]
+            },
+            {
+                  "name": "Tall al Ma`z",
+                  "text": "Kiemelkedő domb, ahonnan kilátás nyílik a Balikh-völgy mezőgazdasági területeire.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        36.0
+                  ]
+            },
+            {
+                  "name": "Sugar Factory",
+                  "text": "Ipari nevezetesség, amely a rakka-i régió mezőgazdasági feldolgozóiparát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        39.073377,
+                        35.996144
+                  ]
+            },
+            {
+                  "name": "Brick Factory",
+                  "text": "Helyi ipari létesítmény építőanyagok gyártására a Balikh-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.122671,
+                        35.942584
+                  ]
+            },
+            {
+                  "name": "Dahr al `Adul",
+                  "text": "Sivatagi gerinc, amely az észak-szíriai sztyeppe folyómenti síkságai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        39.133333,
+                        35.966667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tall Aswad",
+                  "text": "O movilă de așezare preistorică din neolitic, situată în valea râului Balikh.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.916667
+                  ]
+            },
+            {
+                  "name": "Tall Zaydan",
+                  "text": "O movilă arheologică importantă ce reprezintă o comunitate preistorică din nordul Mesopotamiei.",
+                  "category": "natural",
+                  "coords": [
+                        39.083333,
+                        35.933333
+                  ]
+            },
+            {
+                  "name": "Tall ash Shaykh As`ad",
+                  "text": "O movilă de așezare antică de-a lungul rutelor istorice de irigații ale râului Balikh.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        35.883333
+                  ]
+            },
+            {
+                  "name": "Tall al Ma`z",
+                  "text": "Un deal proeminent cu vedere spre terenurile agricole din valea Balikh.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        36.0
+                  ]
+            },
+            {
+                  "name": "Sugar Factory",
+                  "text": "Un reper industrial care reprezintă prelucrarea agricolă regională din Raqqa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.073377,
+                        35.996144
+                  ]
+            },
+            {
+                  "name": "Brick Factory",
+                  "text": "Un sit industrial local care produce materiale de construcție lângă râul Balikh.",
+                  "category": "landmark",
+                  "coords": [
+                        39.122671,
+                        35.942584
+                  ]
+            },
+            {
+                  "name": "Dahr al `Adul",
+                  "text": "O creastă de deșert care se ridică deasupra câmpiilor fluviale din stepa nord-siriană.",
+                  "category": "natural",
+                  "coords": [
+                        39.133333,
+                        35.966667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall Aswad",
+                  "text": "A prehistoric Neolithic settlement mound located in the Balikh River valley.",
+                  "category": "natural",
+                  "coords": [
+                        39.183333,
+                        35.916667
+                  ]
+            },
+            {
+                  "name": "Tall Zaydan",
+                  "text": "A significant archaeological mound representing a prehistoric community in northern Mesopotamia.",
+                  "category": "natural",
+                  "coords": [
+                        39.083333,
+                        35.933333
+                  ]
+            },
+            {
+                  "name": "Tall ash Shaykh As`ad",
+                  "text": "An ancient settlement mound along the historic irrigation routes of the Balikh River.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        35.883333
+                  ]
+            },
+            {
+                  "name": "Tall al Ma`z",
+                  "text": "A prominent hill overlooking the agricultural lands of the Balikh valley.",
+                  "category": "natural",
+                  "coords": [
+                        39.066667,
+                        36.0
+                  ]
+            },
+            {
+                  "name": "Sugar Factory",
+                  "text": "An industrial landmark representing the regional agricultural processing in Raqqa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.073377,
+                        35.996144
+                  ]
+            },
+            {
+                  "name": "Brick Factory",
+                  "text": "A local industrial site producing construction materials near the Balikh River.",
+                  "category": "landmark",
+                  "coords": [
+                        39.122671,
+                        35.942584
+                  ]
+            },
+            {
+                  "name": "Dahr al `Adul",
+                  "text": "A desert ridge rising above the river plains in the northern Syrian steppe.",
+                  "category": "natural",
+                  "coords": [
+                        39.133333,
+                        35.966667
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SY-RA",
     coords: [39.0833, 35.95],
@@ -575,7 +2105,160 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-muzairib-nature-v2",
+    id: "lake-muzairib-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Kawkaliyah",
+                  "text": "Antike Steinruinen in der Hauran-Region, gelegen nahe dem Ufer des Süßwassersees Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.032222,
+                        32.658889
+                  ]
+            },
+            {
+                  "name": "Khirbat as Samakh",
+                  "text": "Archäologische Überreste einer Basaltsteinsiedlung in den fruchtbaren Ebenen nahe dem Muzairib-See.",
+                  "category": "historical",
+                  "coords": [
+                        36.043611,
+                        32.724167
+                  ]
+            },
+            {
+                  "name": "Khirbat Manqulah",
+                  "text": "Diese Basaltruinen in der Hauran-Region markieren eine antike Siedlungsstätte nahe dem quellgespeisten Muzairib-See.",
+                  "category": "historical",
+                  "coords": [
+                        36.047854,
+                        32.707849
+                  ]
+            },
+            {
+                  "name": "Khirbat Manshiyah",
+                  "text": "Ruinen einer antiken Siedlung aus dunklem Vulkanbasalt, typisch für die Landschaft am Muzairib-See.",
+                  "category": "historical",
+                  "coords": [
+                        36.034167,
+                        32.715833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Kawkaliyah",
+                  "text": "Antik kőromok a Hauran-vidéken, az édesvizű Muzairib-tó partjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        36.032222,
+                        32.658889
+                  ]
+            },
+            {
+                  "name": "Khirbat as Samakh",
+                  "text": "Egy bazaltkőből épült település régészeti maradványai a Muzairib-tó közeli termékeny síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        36.043611,
+                        32.724167
+                  ]
+            },
+            {
+                  "name": "Khirbat Manqulah",
+                  "text": "Ezek a haurani bazaltromok egy antik lakóhelyet jelölnek a források táplálta Muzairib-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        36.047854,
+                        32.707849
+                  ]
+            },
+            {
+                  "name": "Khirbat Manshiyah",
+                  "text": "Sötét vulkáni bazaltból épült antik település romjai, amely jellemző a Muzairib-tó környéki tájra.",
+                  "category": "historical",
+                  "coords": [
+                        36.034167,
+                        32.715833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Kawkaliyah",
+                  "text": "Ruine antice de piatră în regiunea Hauran, situate lângă malul lacului cu apă dulce Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.032222,
+                        32.658889
+                  ]
+            },
+            {
+                  "name": "Khirbat as Samakh",
+                  "text": "Rămășițe arheologice ale unei așezări din piatră de bazalt în câmpiile fertile de lângă lacul Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.043611,
+                        32.724167
+                  ]
+            },
+            {
+                  "name": "Khirbat Manqulah",
+                  "text": "Aceste ruine de bazalt din regiunea Hauran marchează un sit antic de locuire lângă lacul Muzairib, alimentat de izvoare.",
+                  "category": "historical",
+                  "coords": [
+                        36.047854,
+                        32.707849
+                  ]
+            },
+            {
+                  "name": "Khirbat Manshiyah",
+                  "text": "Ruinele unei așezări antice din bazalt vulcanic închis la culoare, tipic pentru peisajul de la lacul Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.034167,
+                        32.715833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Kawkaliyah",
+                  "text": "Ancient stone ruins in the Hauran region, located near the shores of the freshwater Lake Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.032222,
+                        32.658889
+                  ]
+            },
+            {
+                  "name": "Khirbat as Samakh",
+                  "text": "Archaeological remains of a basalt stone settlement in the fertile plains near Lake Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.043611,
+                        32.724167
+                  ]
+            },
+            {
+                  "name": "Khirbat Manqulah",
+                  "text": "These basalt ruins in the Hauran region mark an ancient habitation site near the spring-fed Lake Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.047854,
+                        32.707849
+                  ]
+            },
+            {
+                  "name": "Khirbat Manshiyah",
+                  "text": "Ruins of an ancient settlement built from dark volcanic basalt, typical of the landscape at Lake Muzairib.",
+                  "category": "historical",
+                  "coords": [
+                        36.034167,
+                        32.715833
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SY-DR",
     coords: [36.0166, 32.7],
@@ -619,7 +2302,592 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-qasioun-nature-v2",
+    id: "jabal-qasioun-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "maro",
+                  "text": "Ein Aussichtspunkt an den Hängen des Berges Qasioun, der einen weiten Blick über die Stadt Damaskus bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.230649,
+                        33.537288
+                  ]
+            },
+            {
+                  "name": "Jabal Tall al Agha",
+                  "text": "Ein markanter Gipfel im Qasioun-Gebirge, der die nördlichen Vororte von Damaskus überragt.",
+                  "category": "natural",
+                  "coords": [
+                        36.233544,
+                        33.53369
+                  ]
+            },
+            {
+                  "name": "Jabal as Sawwani",
+                  "text": "Teil der Qasioun-Bergkette, bietet dieser Gipfel eine natürliche Barriere am Rande von Damaskus.",
+                  "category": "natural",
+                  "coords": [
+                        36.266667,
+                        33.55
+                  ]
+            },
+            {
+                  "name": "Al Erfan Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Viertel Jabal Qasioun, die der lokalen Gemeinschaft in Damaskus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.21175,
+                        33.550256
+                  ]
+            },
+            {
+                  "name": "Abd Alrahman ibn Awf mosque’s",
+                  "text": "Eine Moschee im Stadtteil Qasioun, benannt nach einem der Gefährten des Propheten Mohammed.",
+                  "category": "religious",
+                  "coords": [
+                        36.212023,
+                        33.552859
+                  ]
+            },
+            {
+                  "name": "ammar ben yaser",
+                  "text": "Ein muslimisches Gotteshaus in Damaskus, benannt nach Ammar ibn Yasir, einer wichtigen Figur der islamischen Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        36.227095,
+                        33.564718
+                  ]
+            },
+            {
+                  "name": "Omar bin Abdul Aziz Mosque",
+                  "text": "Diese Moschee ist nach dem umayyadischen Kalifen Omar bin Abdul Aziz benannt und liegt am Fuße des Berges Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.261902,
+                        33.620267
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Eine lokale Moschee im Qasioun-Gebiet, die durch ihre schlichte Architektur und ihre Bedeutung für die Anwohner geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256419,
+                        33.610877
+                  ]
+            },
+            {
+                  "name": "Al-Oumari Mosque",
+                  "text": "Eine muslimische Gebetsstätte in der Nähe der Berghänge von Qasioun, bekannt als Al-Oumari Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        36.214577,
+                        33.54716
+                  ]
+            },
+            {
+                  "name": "Al-Hedaya Mosque",
+                  "text": "Eine Moschee in Damaskus, die als religiöses Zentrum für die Bewohner der Jabal Qasioun Region fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.215614,
+                        33.55288
+                  ]
+            },
+            {
+                  "name": "Al-Mouhamadi Mosque",
+                  "text": "Die Al-Mouhamadi Moschee befindet sich in den Ausläufern des Qasioun und dient als Ort der Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        36.22061,
+                        33.547889
+                  ]
+            },
+            {
+                  "name": "Al-Sahabeh Mosque",
+                  "text": "Eine Moschee im Stadtviertel Qasioun, die nach den Gefährten des Propheten (Sahaba) benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.216129,
+                        33.542221
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ein lokales muslimisches Gotteshaus in der Nähe des Berges Qasioun in Damaskus.",
+                  "category": "landmark",
+                  "coords": [
+                        36.307941,
+                        33.595629
+                  ]
+            },
+            {
+                  "name": "Habeeb Ben Zayed Al-Ansari Mosque",
+                  "text": "Diese Moschee am Hang des Berges Qasioun trägt den Namen von Habeeb Ben Zayed Al-Ansari.",
+                  "category": "landmark",
+                  "coords": [
+                        36.194208,
+                        33.544812
+                  ]
+            },
+            {
+                  "name": "Al-Orfan Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Jabal Qasioun Viertel, die einen spirituellen Anlaufpunkt für die lokale Gemeinde bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201743,
+                        33.545122
+                  ]
+            },
+            {
+                  "name": "Al-Ahmed Mosque",
+                  "text": "Die Al-Ahmed Moschee ist ein religiöser Treffpunkt in den bewohnten Hängen des Berges Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.198029,
+                        33.538168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "maro",
+                  "text": "Kilátópont a Qasioun-hegy lejtőin, ahonnan tágas kilátás nyílik Damaszkusz városára.",
+                  "category": "landmark",
+                  "coords": [
+                        36.230649,
+                        33.537288
+                  ]
+            },
+            {
+                  "name": "Jabal Tall al Agha",
+                  "text": "Jellegzetes csúcs a Qasioun-hegységben, amely Damaszkusz északi külvárosai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        36.233544,
+                        33.53369
+                  ]
+            },
+            {
+                  "name": "Jabal as Sawwani",
+                  "text": "A Qasioun-hegység része, ez a csúcs természetes gátat alkot Damaszkusz szélén.",
+                  "category": "natural",
+                  "coords": [
+                        36.266667,
+                        33.55
+                  ]
+            },
+            {
+                  "name": "Al Erfan Mosque",
+                  "text": "Muszlim imaház a Jabal Qasioun negyedben, amely a damaszkuszi helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.21175,
+                        33.550256
+                  ]
+            },
+            {
+                  "name": "Abd Alrahman ibn Awf mosque’s",
+                  "text": "Mecset a Qasioun negyedben, amelyet Mohamed próféta egyik társáról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        36.212023,
+                        33.552859
+                  ]
+            },
+            {
+                  "name": "ammar ben yaser",
+                  "text": "Damaszkuszi muszlim imaház, amelyet Ammar ibn Jaszirról, az iszlám történelem jelentős alakjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        36.227095,
+                        33.564718
+                  ]
+            },
+            {
+                  "name": "Omar bin Abdul Aziz Mosque",
+                  "text": "Ezt a mecsetet Omar bin Abdul Aziz omajjád kalifáról nevezték el, és a Qasioun-hegy lábánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        36.261902,
+                        33.620267
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Helyi mecset a Qasioun területén, amelyet egyszerű építészete és a környékbeliek számára való jelentősége határoz meg.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256419,
+                        33.610877
+                  ]
+            },
+            {
+                  "name": "Al-Oumari Mosque",
+                  "text": "Muszlim imaház a Qasioun-hegyoldalak közelében, Al-Oumari mecsetként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.214577,
+                        33.54716
+                  ]
+            },
+            {
+                  "name": "Al-Hedaya Mosque",
+                  "text": "Mecset Damaszkuszban, amely a Jabal Qasioun régió lakóinak vallási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.215614,
+                        33.55288
+                  ]
+            },
+            {
+                  "name": "Al-Mouhamadi Mosque",
+                  "text": "Az Al-Mouhamadi mecset a Qasioun lábánál található, és az elmélkedés helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.22061,
+                        33.547889
+                  ]
+            },
+            {
+                  "name": "Al-Sahabeh Mosque",
+                  "text": "Mecset a Qasioun negyedben, amelyet a Próféta társairól (Szahába) neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        36.216129,
+                        33.542221
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Helyi muszlim imaház a damaszkuszi Qasioun-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.307941,
+                        33.595629
+                  ]
+            },
+            {
+                  "name": "Habeeb Ben Zayed Al-Ansari Mosque",
+                  "text": "Ez a Qasioun-hegy oldalában található mecset Habeeb Ben Zayed Al-Ansari nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        36.194208,
+                        33.544812
+                  ]
+            },
+            {
+                  "name": "Al-Orfan Mosque",
+                  "text": "Muszlim imaház a Jabal Qasioun negyedben, amely lelki központot jelent a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201743,
+                        33.545122
+                  ]
+            },
+            {
+                  "name": "Al-Ahmed Mosque",
+                  "text": "Az Al-Ahmed mecset vallási találkozóhely a Qasioun-hegy lakott lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        36.198029,
+                        33.538168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "maro",
+                  "text": "Un punct de observație pe pantele Muntelui Qasioun, care oferă o vedere panoramică asupra orașului Damasc.",
+                  "category": "landmark",
+                  "coords": [
+                        36.230649,
+                        33.537288
+                  ]
+            },
+            {
+                  "name": "Jabal Tall al Agha",
+                  "text": "Un vârf proeminent din lanțul muntos Qasioun, care domină suburbiile nordice ale Damascului.",
+                  "category": "natural",
+                  "coords": [
+                        36.233544,
+                        33.53369
+                  ]
+            },
+            {
+                  "name": "Jabal as Sawwani",
+                  "text": "Parte a lanțului muntos Qasioun, acest vârf formează o barieră naturală la marginea Damascului.",
+                  "category": "natural",
+                  "coords": [
+                        36.266667,
+                        33.55
+                  ]
+            },
+            {
+                  "name": "Al Erfan Mosque",
+                  "text": "Un lăcaș de cult musulman în cartierul Jabal Qasioun, care deservește comunitatea locală din Damasc.",
+                  "category": "landmark",
+                  "coords": [
+                        36.21175,
+                        33.550256
+                  ]
+            },
+            {
+                  "name": "Abd Alrahman ibn Awf mosque’s",
+                  "text": "O moschee din districtul Qasioun, numită după unul dintre companionii profetului Mahomed.",
+                  "category": "religious",
+                  "coords": [
+                        36.212023,
+                        33.552859
+                  ]
+            },
+            {
+                  "name": "ammar ben yaser",
+                  "text": "Un lăcaș de cult musulman din Damasc, numit după Ammar ibn Yasir, o figură importantă a istoriei islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        36.227095,
+                        33.564718
+                  ]
+            },
+            {
+                  "name": "Omar bin Abdul Aziz Mosque",
+                  "text": "Această moschee este numită după califul umayyad Omar bin Abdul Aziz și se află la poalele muntelui Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.261902,
+                        33.620267
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "O moschee locală în zona Qasioun, caracterizată prin arhitectura sa simplă și importanța pentru locuitorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256419,
+                        33.610877
+                  ]
+            },
+            {
+                  "name": "Al-Oumari Mosque",
+                  "text": "Un lăcaș de cult musulman situat lângă pantele muntelui Qasioun, cunoscut sub numele de Moscheea Al-Oumari.",
+                  "category": "landmark",
+                  "coords": [
+                        36.214577,
+                        33.54716
+                  ]
+            },
+            {
+                  "name": "Al-Hedaya Mosque",
+                  "text": "O moschee din Damasc care funcționează ca centru religios pentru locuitorii din regiunea Jabal Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.215614,
+                        33.55288
+                  ]
+            },
+            {
+                  "name": "Al-Mouhamadi Mosque",
+                  "text": "Moscheea Al-Mouhamadi este situată la poalele muntelui Qasioun și servește ca loc de reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        36.22061,
+                        33.547889
+                  ]
+            },
+            {
+                  "name": "Al-Sahabeh Mosque",
+                  "text": "O moschee din cartierul Qasioun, numită după companionii Profetului (Sahaba).",
+                  "category": "landmark",
+                  "coords": [
+                        36.216129,
+                        33.542221
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Un lăcaș de cult musulman local situat lângă muntele Qasioun din Damasc.",
+                  "category": "landmark",
+                  "coords": [
+                        36.307941,
+                        33.595629
+                  ]
+            },
+            {
+                  "name": "Habeeb Ben Zayed Al-Ansari Mosque",
+                  "text": "Această moschee de pe versantul muntelui Qasioun poartă numele lui Habeeb Ben Zayed Al-Ansari.",
+                  "category": "landmark",
+                  "coords": [
+                        36.194208,
+                        33.544812
+                  ]
+            },
+            {
+                  "name": "Al-Orfan Mosque",
+                  "text": "Un lăcaș de cult musulman în cartierul Jabal Qasioun, care oferă un punct de referință spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201743,
+                        33.545122
+                  ]
+            },
+            {
+                  "name": "Al-Ahmed Mosque",
+                  "text": "Moscheea Al-Ahmed este un loc de întâlnire religios în pantele locuite ale muntelui Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.198029,
+                        33.538168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "maro",
+                  "text": "A vantage point on the slopes of Mount Qasioun, offering wide views over the city of Damascus.",
+                  "category": "landmark",
+                  "coords": [
+                        36.230649,
+                        33.537288
+                  ]
+            },
+            {
+                  "name": "Jabal Tall al Agha",
+                  "text": "A prominent peak in the Qasioun mountain range, overlooking the northern suburbs of Damascus.",
+                  "category": "natural",
+                  "coords": [
+                        36.233544,
+                        33.53369
+                  ]
+            },
+            {
+                  "name": "Jabal as Sawwani",
+                  "text": "Part of the Qasioun mountain range, this peak forms a natural barrier on the edge of Damascus.",
+                  "category": "natural",
+                  "coords": [
+                        36.266667,
+                        33.55
+                  ]
+            },
+            {
+                  "name": "Al Erfan Mosque",
+                  "text": "A Muslim place of worship in the Jabal Qasioun neighborhood, serving the local community in Damascus.",
+                  "category": "landmark",
+                  "coords": [
+                        36.21175,
+                        33.550256
+                  ]
+            },
+            {
+                  "name": "Abd Alrahman ibn Awf mosque’s",
+                  "text": "A mosque in the Qasioun district, named after one of the companions of the Prophet Muhammad.",
+                  "category": "religious",
+                  "coords": [
+                        36.212023,
+                        33.552859
+                  ]
+            },
+            {
+                  "name": "ammar ben yaser",
+                  "text": "A Muslim place of worship in Damascus, named after Ammar ibn Yasir, a significant figure in Islamic history.",
+                  "category": "landmark",
+                  "coords": [
+                        36.227095,
+                        33.564718
+                  ]
+            },
+            {
+                  "name": "Omar bin Abdul Aziz Mosque",
+                  "text": "This mosque is named after the Umayyad caliph Omar bin Abdul Aziz and is located at the foot of Mount Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.261902,
+                        33.620267
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "A local mosque in the Qasioun area, defined by its simple architecture and significance to nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256419,
+                        33.610877
+                  ]
+            },
+            {
+                  "name": "Al-Oumari Mosque",
+                  "text": "A Muslim place of worship located near the Qasioun hillsides, known as the Al-Oumari Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        36.214577,
+                        33.54716
+                  ]
+            },
+            {
+                  "name": "Al-Hedaya Mosque",
+                  "text": "A mosque in Damascus that functions as a religious center for the residents of the Jabal Qasioun region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.215614,
+                        33.55288
+                  ]
+            },
+            {
+                  "name": "Al-Mouhamadi Mosque",
+                  "text": "The Al-Mouhamadi Mosque is situated in the foothills of Qasioun and serves as a place for reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        36.22061,
+                        33.547889
+                  ]
+            },
+            {
+                  "name": "Al-Sahabeh Mosque",
+                  "text": "A mosque in the Qasioun neighborhood, named after the companions of the Prophet (Sahaba).",
+                  "category": "landmark",
+                  "coords": [
+                        36.216129,
+                        33.542221
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A local Muslim house of prayer located near Mount Qasioun in Damascus.",
+                  "category": "landmark",
+                  "coords": [
+                        36.307941,
+                        33.595629
+                  ]
+            },
+            {
+                  "name": "Habeeb Ben Zayed Al-Ansari Mosque",
+                  "text": "This mosque on the slope of Mount Qasioun bears the name of Habeeb Ben Zayed Al-Ansari.",
+                  "category": "landmark",
+                  "coords": [
+                        36.194208,
+                        33.544812
+                  ]
+            },
+            {
+                  "name": "Al-Orfan Mosque",
+                  "text": "A Muslim place of worship in the Jabal Qasioun district, providing a spiritual focus for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201743,
+                        33.545122
+                  ]
+            },
+            {
+                  "name": "Al-Ahmed Mosque",
+                  "text": "The Al-Ahmed Mosque is a religious meeting point in the inhabited slopes of Mount Qasioun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.198029,
+                        33.538168
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-DI",
     coords: [36.2666, 33.55],
@@ -751,7 +3019,124 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "afrin-river-nature-v2",
+    id: "afrin-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ain Dara temple",
+                  "text": "Eine eisenzeitliche Tempelruine, die für ihre riesigen, in den Basaltboden gehauenen Fußabdrücke berühmt ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.852567,
+                        36.459628
+                  ]
+            },
+            {
+                  "name": "Qibar Fortress",
+                  "text": "Die Überreste einer antiken Festung auf einem Hügel, die strategisch über dem Afrin-Tal thronte.",
+                  "category": "historical",
+                  "coords": [
+                        36.906276,
+                        36.532158
+                  ]
+            },
+            {
+                  "name": "Bazaar of Afrin",
+                  "text": "Ein lebhafter regionaler Marktplatz, bekannt für hochwertiges Olivenöl, Seife und frische landwirtschaftliche Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874727,
+                        36.510804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ain Dara temple",
+                  "text": "Vaskori templomrom, amely a bazaltpadlóba vésett hatalmas lábnyomairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        36.852567,
+                        36.459628
+                  ]
+            },
+            {
+                  "name": "Qibar Fortress",
+                  "text": "Egy dombtetőn álló ókori erőd maradványai, amely stratégiai pontként magasodott az Afrin-völgy fölé.",
+                  "category": "historical",
+                  "coords": [
+                        36.906276,
+                        36.532158
+                  ]
+            },
+            {
+                  "name": "Bazaar of Afrin",
+                  "text": "Élénk regionális piac, amely kiváló minőségű olívaolajáról, szappanjairól és friss mezőgazdasági termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874727,
+                        36.510804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ain Dara temple",
+                  "text": "O ruină de templu din Epoca Fierului, celebră pentru urmele masive de pași sculptate în podeaua de bazalt.",
+                  "category": "historical",
+                  "coords": [
+                        36.852567,
+                        36.459628
+                  ]
+            },
+            {
+                  "name": "Qibar Fortress",
+                  "text": "Rămășițele unei cetăți antice pe un deal, care domina strategic valea Afrin.",
+                  "category": "historical",
+                  "coords": [
+                        36.906276,
+                        36.532158
+                  ]
+            },
+            {
+                  "name": "Bazaar of Afrin",
+                  "text": "O piață regională vibrantă, cunoscută pentru ulei de măsline de calitate, săpun și produse agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874727,
+                        36.510804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ain Dara temple",
+                  "text": "An Iron Age temple ruin famous for its massive footprints carved into the basalt floor.",
+                  "category": "historical",
+                  "coords": [
+                        36.852567,
+                        36.459628
+                  ]
+            },
+            {
+                  "name": "Qibar Fortress",
+                  "text": "The remains of an ancient hilltop fortress that strategically overlooked the Afrin valley.",
+                  "category": "historical",
+                  "coords": [
+                        36.906276,
+                        36.532158
+                  ]
+            },
+            {
+                  "name": "Bazaar of Afrin",
+                  "text": "A vibrant regional marketplace known for quality olive oil, soap, and fresh agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        36.874727,
+                        36.510804
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SY-HL",
     coords: [36.8666, 36.5],
@@ -795,7 +3180,52 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "al-sinn-river-nature-v2",
+    id: "al-sinn-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ash Shaykh Hamid al Bayqa",
+                  "text": "Ein islamisches Heiligtum oder eine Moschee in der Nähe der natürlichen Umgebung des Al-Sinn-Flusses in Syrien.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933333,
+                        35.283333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ash Shaykh Hamid al Bayqa",
+                  "text": "Iszlám szentély vagy mecset a szíriai Al-Sinn-folyó természeti környezetének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933333,
+                        35.283333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ash Shaykh Hamid al Bayqa",
+                  "text": "Un sanctuar islamic sau o moschee situată lângă cadrul natural al râului Al-Sinn din Siria.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933333,
+                        35.283333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ash Shaykh Hamid al Bayqa",
+                  "text": "An Islamic sanctuary or mosque located near the natural setting of the Al-Sinn River in Syria.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933333,
+                        35.283333
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SY-TA",
     coords: [35.95, 35.2666],
@@ -839,7 +3269,232 @@ export const poiExtraSyriaNatureV2: POI[] = [
     },
   },
   {
-    id: "tigris-river-syria-nature-v2",
+    id: "tigris-river-syria-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "DEŞTA HESNA",
+                  "text": "Ein Aussichtspunkt auf dem Deşta-Hesna-Plateau mit Blick auf die Landschaft nahe dem Tigris.",
+                  "category": "natural",
+                  "coords": [
+                        42.350927,
+                        37.038142
+                  ]
+            },
+            {
+                  "name": "Takyan Tepe",
+                  "text": "Ein antiker Siedlungshügel in der Region Cizre, der archäologische Spuren früher Zivilisationen birgt.",
+                  "category": "historical",
+                  "coords": [
+                        42.410361,
+                        37.164458
+                  ]
+            },
+            {
+                  "name": "Amarsava Höyük",
+                  "text": "Ein bedeutender archäologischer Hügel am Tigris, der auch als Takyan Tepe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.382011,
+                        37.172196
+                  ]
+            },
+            {
+                  "name": "Basorin",
+                  "text": "Archäologische Ausgrabungsstätte einer antiken Siedlung im Einzugsgebiet des oberen Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        42.344565,
+                        37.151689
+                  ]
+            },
+            {
+                  "name": "Takyan Höyük",
+                  "text": "Ein prähistorischer Siedlungshügel am Tigris mit Funden aus verschiedenen Epochen der Antike.",
+                  "category": "landmark",
+                  "coords": [
+                        42.39539,
+                        37.179501
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart of Jesus",
+                  "text": "Eine katholische Herz-Jesu-Kirche, die im Grenzgebiet nahe dem Tigris-Fluss liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.42171,
+                        37.085396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DEŞTA HESNA",
+                  "text": "Kilátópont a Deşta Hesna fennsíkon, kilátással a Tigris-folyó közeli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        42.350927,
+                        37.038142
+                  ]
+            },
+            {
+                  "name": "Takyan Tepe",
+                  "text": "Egy ókori településhalom Cizre régiójában, amely korai civilizációk régészeti nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        42.410361,
+                        37.164458
+                  ]
+            },
+            {
+                  "name": "Amarsava Höyük",
+                  "text": "Egy jelentős régészeti domb a Tigrisnél, amely Takyan Tepe néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.382011,
+                        37.172196
+                  ]
+            },
+            {
+                  "name": "Basorin",
+                  "text": "Egy ókori település régészeti ásatási területe a felső Tigris vízgyűjtő területén.",
+                  "category": "historical",
+                  "coords": [
+                        42.344565,
+                        37.151689
+                  ]
+            },
+            {
+                  "name": "Takyan Höyük",
+                  "text": "Egy őskori településhalom a Tigrisnél, különböző ókori korszakokból származó leletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        42.39539,
+                        37.179501
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart of Jesus",
+                  "text": "Egy katolikus Jézus Szíve-templom, amely a Tigris-folyó közeli határvidéken található.",
+                  "category": "landmark",
+                  "coords": [
+                        42.42171,
+                        37.085396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DEŞTA HESNA",
+                  "text": "Un punct de observație de pe platoul Deşta Hesna, cu vedere spre peisajul de lângă râul Tigru.",
+                  "category": "natural",
+                  "coords": [
+                        42.350927,
+                        37.038142
+                  ]
+            },
+            {
+                  "name": "Takyan Tepe",
+                  "text": "O movilă de așezare antică în regiunea Cizre, care adăpostește urme arheologice ale civilizațiilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        42.410361,
+                        37.164458
+                  ]
+            },
+            {
+                  "name": "Amarsava Höyük",
+                  "text": "O colină arheologică importantă de pe Tigru, cunoscută și sub numele de Takyan Tepe.",
+                  "category": "landmark",
+                  "coords": [
+                        42.382011,
+                        37.172196
+                  ]
+            },
+            {
+                  "name": "Basorin",
+                  "text": "Situl arheologic al unei așezări antice în bazinul superior al râului Tigru.",
+                  "category": "historical",
+                  "coords": [
+                        42.344565,
+                        37.151689
+                  ]
+            },
+            {
+                  "name": "Takyan Höyük",
+                  "text": "O movilă de așezare preistorică de pe Tigru, cu vestigii din diverse epoci ale antichității.",
+                  "category": "landmark",
+                  "coords": [
+                        42.39539,
+                        37.179501
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart of Jesus",
+                  "text": "O biserică catolică dedicată Sfintei Inimi a lui Isus, situată în zona de frontieră de lângă râul Tigru.",
+                  "category": "landmark",
+                  "coords": [
+                        42.42171,
+                        37.085396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DEŞTA HESNA",
+                  "text": "A viewpoint on the Deşta Hesna plateau, offering views of the landscape near the Tigris River.",
+                  "category": "natural",
+                  "coords": [
+                        42.350927,
+                        37.038142
+                  ]
+            },
+            {
+                  "name": "Takyan Tepe",
+                  "text": "An ancient settlement mound in the Cizre region, holding archaeological traces of early civilizations.",
+                  "category": "historical",
+                  "coords": [
+                        42.410361,
+                        37.164458
+                  ]
+            },
+            {
+                  "name": "Amarsava Höyük",
+                  "text": "A significant archaeological mound by the Tigris, also known as Takyan Tepe.",
+                  "category": "landmark",
+                  "coords": [
+                        42.382011,
+                        37.172196
+                  ]
+            },
+            {
+                  "name": "Basorin",
+                  "text": "The archaeological excavation site of an ancient settlement in the upper Tigris catchment area.",
+                  "category": "historical",
+                  "coords": [
+                        42.344565,
+                        37.151689
+                  ]
+            },
+            {
+                  "name": "Takyan Höyük",
+                  "text": "A prehistoric settlement mound by the Tigris, featuring finds from various ancient eras.",
+                  "category": "landmark",
+                  "coords": [
+                        42.39539,
+                        37.179501
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart of Jesus",
+                  "text": "A Catholic Sacred Heart church located in the border region near the Tigris River.",
+                  "category": "landmark",
+                  "coords": [
+                        42.42171,
+                        37.085396
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SY-HA",
     coords: [42.3666, 37.1],

@@ -44,7 +44,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "Palais de Tambari - le chef des Touareg ist ein Schloss in Zinder.",
+                  "text": "Ein historischer Palast des Tuareg-Häuptlings in Zinder, in traditioneller Architektur erbaut.",
                   "category": "castle",
                   "coords": [
                         8.985589,
@@ -53,7 +53,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Régional de Zinder",
-                  "text": "Das Musée Régional de Zinder ist ein Museum in Zinder.",
+                  "text": "Ein Museum mit Artefakten der Hausa- und Tuareg-Kultur in Zinder.",
                   "category": "museum",
                   "coords": [
                         8.991863,
@@ -62,7 +62,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sultanat de Zinder",
-                  "text": "Sultanat de Zinder ist ein Schloss in Zinder.",
+                  "text": "Der historische Sultanspalastkomplex in Zinder.",
                   "category": "castle",
                   "coords": [
                         9.001951,
@@ -71,7 +71,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "FADA CARLO",
-                  "text": "FADA CARLO ist ein Schloss in Zinder.",
+                  "text": "Ein historisches befestigtes Gebäude in Zinder.",
                   "category": "castle",
                   "coords": [
                         8.964927,
@@ -80,7 +80,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "gida",
-                  "text": "gida ist ein Schloss in Zinder.",
+                  "text": "Ein traditionelles Hausa-Schloss oder befestigtes Haus in Zinder.",
                   "category": "castle",
                   "coords": [
                         9.00167,
@@ -89,7 +89,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "Das CCFN - Centre Culturel Franco-Nigérien ist ein Kunstzentrum in Zinder.",
+                  "text": "Französisch-Nigrisches Kulturzentrum mit Bibliothek und Veranstaltungsräumen in Zinder.",
                   "category": "cultural",
                   "coords": [
                         8.990284,
@@ -98,7 +98,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Village Artisanal Palami",
-                  "text": "Village Artisanal Palami ist ein Kunstzentrum in Zinder.",
+                  "text": "Handwerkerdorf in Zinder, in dem lokale Kunsthandwerker traditionelle Waren herstellen und verkaufen.",
                   "category": "cultural",
                   "coords": [
                         8.97168,
@@ -109,7 +109,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "A Palais de Tambari - le chef des Touareg egy kastély Zinder városában.",
+                  "text": "A tuareg törzsfőnök történelmi palotája Zinderben, hagyományos stílusban épült.",
                   "category": "castle",
                   "coords": [
                         8.985589,
@@ -118,7 +118,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Régional de Zinder",
-                  "text": "A Musée Régional de Zinder egy múzeum Zinder városában.",
+                  "text": "Múzeum, amely a hausza és tuareg kultúra tárgyait mutatja be Zinderben.",
                   "category": "museum",
                   "coords": [
                         8.991863,
@@ -127,7 +127,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sultanat de Zinder",
-                  "text": "A Sultanat de Zinder egy kastély Zinder városában.",
+                  "text": "A történelmi szultáni palotaegyüttes Zinderben.",
                   "category": "castle",
                   "coords": [
                         9.001951,
@@ -136,7 +136,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "FADA CARLO",
-                  "text": "A FADA CARLO egy kastély Zinder városában.",
+                  "text": "Egy történelmi erődített épület Zinderben.",
                   "category": "castle",
                   "coords": [
                         8.964927,
@@ -145,7 +145,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "gida",
-                  "text": "A gida egy kastély Zinder városában.",
+                  "text": "Egy hagyományos hausza vár vagy erődített ház Zinderben.",
                   "category": "castle",
                   "coords": [
                         9.00167,
@@ -154,7 +154,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "A CCFN - Centre Culturel Franco-Nigérien egy művészeti központ Zinder városában.",
+                  "text": "Francia-nigeri kulturális központ könyvtárral és rendezvénytermekkel Zinderben.",
                   "category": "cultural",
                   "coords": [
                         8.990284,
@@ -163,7 +163,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Village Artisanal Palami",
-                  "text": "A Village Artisanal Palami egy művészeti központ Zinder városában.",
+                  "text": "Kézműves falu Zinderben, ahol a helyi mesterek hagyományos termékeket készítenek és árusítanak.",
                   "category": "cultural",
                   "coords": [
                         8.97168,
@@ -174,7 +174,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "Palais de Tambari - le chef des Touareg este un castel în Zinder.",
+                  "text": "Un palat istoric al șefului tuareg din Zinder, construit în arhitectură tradițională.",
                   "category": "castle",
                   "coords": [
                         8.985589,
@@ -183,7 +183,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Régional de Zinder",
-                  "text": "Musée Régional de Zinder este un muzeu în Zinder.",
+                  "text": "Un muzeu care prezintă artefacte ale culturii hausa și tuareg din Zinder.",
                   "category": "museum",
                   "coords": [
                         8.991863,
@@ -192,7 +192,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sultanat de Zinder",
-                  "text": "Sultanat de Zinder este un castel în Zinder.",
+                  "text": "Complexul istoric al palatului sultanului din Zinder.",
                   "category": "castle",
                   "coords": [
                         9.001951,
@@ -201,7 +201,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "FADA CARLO",
-                  "text": "FADA CARLO este un castel în Zinder.",
+                  "text": "O clădire fortificată istorică în Zinder.",
                   "category": "castle",
                   "coords": [
                         8.964927,
@@ -210,7 +210,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "gida",
-                  "text": "gida este un castel în Zinder.",
+                  "text": "Un castel tradițional hausa sau o casă fortificată în Zinder.",
                   "category": "castle",
                   "coords": [
                         9.00167,
@@ -219,7 +219,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "CCFN - Centre Culturel Franco-Nigérien este un centru de artă în Zinder.",
+                  "text": "Centru cultural franco-nigerian cu bibliotecă și săli de evenimente în Zinder.",
                   "category": "cultural",
                   "coords": [
                         8.990284,
@@ -228,7 +228,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Village Artisanal Palami",
-                  "text": "Village Artisanal Palami este un centru de artă în Zinder.",
+                  "text": "Sat artizanal în Zinder, unde meșteșugarii locali produc și vând bunuri tradiționale.",
                   "category": "cultural",
                   "coords": [
                         8.97168,
@@ -239,7 +239,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "Palais de Tambari - le chef des Touareg is a castle in Zinder.",
+                  "text": "A historic palace of the Tuareg chief in Zinder, built in traditional architecture.",
                   "category": "castle",
                   "coords": [
                         8.985589,
@@ -248,7 +248,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Régional de Zinder",
-                  "text": "Musée Régional de Zinder is a museum in Zinder.",
+                  "text": "A museum displaying artifacts of Hausa and Tuareg culture in Zinder.",
                   "category": "museum",
                   "coords": [
                         8.991863,
@@ -257,7 +257,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sultanat de Zinder",
-                  "text": "Sultanat de Zinder is a castle in Zinder.",
+                  "text": "The historic sultan's palace complex in Zinder.",
                   "category": "castle",
                   "coords": [
                         9.001951,
@@ -266,7 +266,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "FADA CARLO",
-                  "text": "FADA CARLO is a castle in Zinder.",
+                  "text": "A historic fortified building in Zinder.",
                   "category": "castle",
                   "coords": [
                         8.964927,
@@ -275,7 +275,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "gida",
-                  "text": "gida is a castle in Zinder.",
+                  "text": "A traditional Hausa castle or fortified house in Zinder.",
                   "category": "castle",
                   "coords": [
                         9.00167,
@@ -284,7 +284,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "CCFN - Centre Culturel Franco-Nigérien is an arts centre in Zinder.",
+                  "text": "Franco-Nigerian cultural centre with library and event spaces in Zinder.",
                   "category": "cultural",
                   "coords": [
                         8.990284,
@@ -293,7 +293,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Village Artisanal Palami",
-                  "text": "Village Artisanal Palami is an arts centre in Zinder.",
+                  "text": "Artisan village in Zinder where local craftspeople produce and sell traditional goods.",
                   "category": "cultural",
                   "coords": [
                         8.97168,
@@ -391,7 +391,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monument Roumbou",
-                  "text": "Monument Roumbou ist ein Denkmal in Tahoua.",
+                  "text": "Historisches Denkmal in Tahoua, das an eine lokale Persönlichkeit oder ein Ereignis erinnert.",
                   "category": "historical",
                   "coords": [
                         5.264466,
@@ -400,7 +400,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Avenu Mamadou Tandja",
-                  "text": "Avenu Mamadou Tandja ist ein Denkmal in Tahoua.",
+                  "text": "Allee, benannt nach dem ehemaligen nigrischen Präsidenten Mamadou Tandja in Tahoua.",
                   "category": "historical",
                   "coords": [
                         5.269708,
@@ -409,7 +409,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Renaissance",
-                  "text": "Das Monument de la Renaissance ist ein Denkmal in Tahoua.",
+                  "text": "Monument der Renaissance in Tahoua, ein Wahrzeichen für Versammlungen und Feierlichkeiten.",
                   "category": "historical",
                   "coords": [
                         5.284658,
@@ -418,7 +418,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal - Tahoua",
-                  "text": "Das Centre Artisanal - Tahoua ist ein Kunstzentrum in Tahoua.",
+                  "text": "Handwerkszentrum in Tahoua, in dem lokale Kunsthandwerker ihre Arbeiten ausstellen und verkaufen.",
                   "category": "cultural",
                   "coords": [
                         5.267144,
@@ -429,7 +429,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument Roumbou",
-                  "text": "A Monument Roumbou egy emlékmű Tahoua városában.",
+                  "text": "Történelmi emlékmű Tahouában, amely egy helyi személyiség vagy esemény előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         5.264466,
@@ -438,7 +438,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Avenu Mamadou Tandja",
-                  "text": "Az Avenu Mamadou Tandja egy emlékmű Tahoua városában.",
+                  "text": "A Mamadou Tandja egykori nigeri elnökről elnevezett sugárút Tahouában.",
                   "category": "historical",
                   "coords": [
                         5.269708,
@@ -447,7 +447,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Renaissance",
-                  "text": "A Monument de la Renaissance egy emlékmű Tahoua városában.",
+                  "text": "A Reneszánsz emlékmű Tahouában, gyakran találkozók és ünnepségek helyszíne.",
                   "category": "historical",
                   "coords": [
                         5.284658,
@@ -456,7 +456,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal - Tahoua",
-                  "text": "A Centre Artisanal - Tahoua egy művészeti központ Tahoua városában.",
+                  "text": "Kézműves központ Tahouában, ahol a helyi mesterek kiállítják és árusítják munkáikat.",
                   "category": "cultural",
                   "coords": [
                         5.267144,
@@ -467,7 +467,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument Roumbou",
-                  "text": "Monument Roumbou este un monument situat în Tahoua.",
+                  "text": "Monument istoric în Tahoua, care comemorează o personalitate sau un eveniment local.",
                   "category": "historical",
                   "coords": [
                         5.264466,
@@ -476,7 +476,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Avenu Mamadou Tandja",
-                  "text": "Avenu Mamadou Tandja este un monument în Tahoua.",
+                  "text": "Bulevard numit după fostul președinte nigerian Mamadou Tandja în Tahoua.",
                   "category": "historical",
                   "coords": [
                         5.269708,
@@ -485,7 +485,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Renaissance",
-                  "text": "Monument de la Renaissance este un monument în Tahoua.",
+                  "text": "Monumentul Renașterii din Tahoua, un reper pentru adunări și ceremonii.",
                   "category": "historical",
                   "coords": [
                         5.284658,
@@ -494,7 +494,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal - Tahoua",
-                  "text": "Centre Artisanal - Tahoua este un centru de artă în Tahoua.",
+                  "text": "Centru artizanal în Tahoua, unde meșteșugarii locali își expun și vând lucrările.",
                   "category": "cultural",
                   "coords": [
                         5.267144,
@@ -505,7 +505,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument Roumbou",
-                  "text": "Monument Roumbou is a monument located in Tahoua.",
+                  "text": "A historical monument in Tahoua commemorating a local figure or event.",
                   "category": "historical",
                   "coords": [
                         5.264466,
@@ -514,7 +514,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Avenu Mamadou Tandja",
-                  "text": "Avenu Mamadou Tandja is a monument located in Tahoua.",
+                  "text": "Avenue named after former Nigerien President Mamadou Tandja in Tahoua.",
                   "category": "historical",
                   "coords": [
                         5.269708,
@@ -523,7 +523,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Renaissance",
-                  "text": "Monument de la Renaissance is a monument in Tahoua.",
+                  "text": "A Renaissance monument in Tahoua, a landmark for gatherings and celebrations.",
                   "category": "historical",
                   "coords": [
                         5.284658,
@@ -532,7 +532,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Artisanal - Tahoua",
-                  "text": "Centre Artisanal - Tahoua is an arts centre located in Tahoua.",
+                  "text": "A craft center in Tahoua where local artisans display and sell their work.",
                   "category": "cultural",
                   "coords": [
                         5.267144,
@@ -576,7 +576,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Agadez Sultanate Palace",
-                  "text": "Sultanat d'Agadez سلطنة أغاديس ist ein Schloss in Agadez.",
+                  "text": "Historischer Lehmziegelpalast des Sultans von Agadez, ein Wahrzeichen der traditionellen Sahel-Architektur.",
                   "category": "castle",
                   "coords": [
                         7.988066,
@@ -585,7 +585,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "Podium et tribune de la maison de Jeunes MJC. ist ein Theater in Agadez.",
+                  "text": "Bühne und Tribüne des Jugend- und Kulturzentrums (MJC) in Agadez, genutzt für Veranstaltungen und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         7.988624,
@@ -594,7 +594,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d’Artisanal d’Agadez",
-                  "text": "Centre d’Artisanal d’Agadez ist ein Kunstzentrum in Agadez.",
+                  "text": "Handwerkszentrum in Agadez, bekannt für Tuareg-Kunsthandwerk und Silberarbeiten.",
                   "category": "cultural",
                   "coords": [
                         7.983255,
@@ -605,7 +605,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Agadez Sultanate Palace",
-                  "text": "A Sultanat d'Agadez سلطنة أغاديس egy kastély Agadez városában.",
+                  "text": "Agadez szultánjának történelmi vályogpalotája, a hagyományos száhel építészet jelképe.",
                   "category": "castle",
                   "coords": [
                         7.988066,
@@ -614,7 +614,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "A Podium et tribune de la maison de Jeunes MJC. egy színház Agadez városában.",
+                  "text": "Az agadezi Ifjúsági és Kulturális Központ (MJC) színpada és lelátója, rendezvények és előadások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         7.988624,
@@ -623,7 +623,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d’Artisanal d’Agadez",
-                  "text": "A Centre d’Artisanal d’Agadez egy művészeti központ Agadez városában.",
+                  "text": "Agadezi kézműves központ, híres tuareg kézműves termékeiről és ezüstmunkáiról.",
                   "category": "cultural",
                   "coords": [
                         7.983255,
@@ -634,7 +634,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Agadez Sultanate Palace",
-                  "text": "Sultanat d'Agadez سلطنة أغاديس este un castel în Agadez.",
+                  "text": "Palatul istoric de chirpici al sultanului din Agadez, un reper al arhitecturii tradiționale saheliene.",
                   "category": "castle",
                   "coords": [
                         7.988066,
@@ -643,7 +643,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "Podium et tribune de la maison de Jeunes MJC. este un teatru în Agadez.",
+                  "text": "Podiumul și tribuna Centrului de Tineret și Cultură (MJC) din Agadez, folosite pentru evenimente și spectacole.",
                   "category": "cultural",
                   "coords": [
                         7.988624,
@@ -652,7 +652,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d’Artisanal d’Agadez",
-                  "text": "Centre d’Artisanal d’Agadez este un centru de artă în Agadez.",
+                  "text": "Centru artizanal în Agadez, renumit pentru meșteșugurile tuarege și argintăria.",
                   "category": "cultural",
                   "coords": [
                         7.983255,
@@ -663,7 +663,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Agadez Sultanate Palace",
-                  "text": "Sultanat d'Agadez سلطنة أغاديس is a castle in Agadez.",
+                  "text": "The historic mud-brick palace of the Sultan of Agadez, a landmark of traditional Sahelian architecture.",
                   "category": "castle",
                   "coords": [
                         7.988066,
@@ -672,7 +672,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "Podium et tribune de la maison de Jeunes MJC. is a theatre in Agadez.",
+                  "text": "The stage and grandstand of the Agadez Youth and Culture Center (MJC), used for events and performances.",
                   "category": "cultural",
                   "coords": [
                         7.988624,
@@ -681,7 +681,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d’Artisanal d’Agadez",
-                  "text": "Centre d’Artisanal d’Agadez is an arts centre in Agadez.",
+                  "text": "An artisan center in Agadez featuring Tuareg crafts and silverwork.",
                   "category": "cultural",
                   "coords": [
                         7.983255,
@@ -781,7 +781,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "Das Musée Regionale Djermakoye de Dosso ist ein Museum in Dosso.",
+                  "text": "Regionalmuseum Djermakoye in Dosso, das Artefakte der Djerma-Kultur und Geschichte ausstellt.",
                   "category": "museum",
                   "coords": [
                         3.199169,
@@ -790,7 +790,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Culture du 18/12/2014",
-                  "text": "Maison de Culture du 18/12/2014 ist ein Theater in Dosso.",
+                  "text": "Kulturhaus, eröffnet am 18. Dezember 2014 in Dosso, das kulturelle Veranstaltungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         3.197541,
@@ -799,7 +799,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Artisanat",
-                  "text": "Artisanat ist ein Museum in Dosso.",
+                  "text": "Museum für traditionelles Handwerk in Dosso, das lokale kunsthandwerkliche Arbeiten zeigt.",
                   "category": "museum",
                   "coords": [
                         3.199451,
@@ -808,7 +808,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "Dosso vous Souhaite la bienvenue ist ein Denkmal in Dosso.",
+                  "text": "Willkommensmonument am Eingang von Dosso, das Besucher begrüßt.",
                   "category": "historical",
                   "coords": [
                         3.214179,
@@ -817,7 +817,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Place de Djermakoye",
-                  "text": "Die Place de Djermakoye ist ein Denkmal in Dosso.",
+                  "text": "Djermakoye-Platz in Dosso, ein zentraler öffentlicher Platz, benannt nach einem lokalen Herrscher.",
                   "category": "historical",
                   "coords": [
                         3.200303,
@@ -828,7 +828,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "A Musée Regionale Djermakoye de Dosso egy múzeum Dosso városában.",
+                  "text": "A Djermakoye Regionális Múzeum Dossóban, a dzserma kultúra és történelem tárgyaival.",
                   "category": "museum",
                   "coords": [
                         3.199169,
@@ -837,7 +837,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Culture du 18/12/2014",
-                  "text": "A Maison de Culture du 18/12/2014 egy színház Dosso városában.",
+                  "text": "2014. december 18-án megnyílt kulturális központ Dossóban, amely kulturális eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         3.197541,
@@ -846,7 +846,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Artisanat",
-                  "text": "Az Artisanat egy múzeum Dosso városában.",
+                  "text": "Hagyományos kézműves múzeum Dossóban, helyi mesterek munkáit bemutatva.",
                   "category": "museum",
                   "coords": [
                         3.199451,
@@ -855,7 +855,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "A Dosso vous Souhaite la bienvenue egy emlékmű Dosso városában.",
+                  "text": "Üdvözlő emlékmű Dosso bejáratánál, amely köszönti a látogatókat.",
                   "category": "historical",
                   "coords": [
                         3.214179,
@@ -864,7 +864,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Place de Djermakoye",
-                  "text": "A Place de Djermakoye egy emlékmű Dosso városában.",
+                  "text": "Djermakoye tér Dossóban, központi köz tér, amely egy helyi uralkodóról kapta a nevét.",
                   "category": "historical",
                   "coords": [
                         3.200303,
@@ -875,7 +875,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "Musée Regionale Djermakoye de Dosso este un muzeu în Dosso.",
+                  "text": "Muzeul Regional Djermakoye din Dosso, care expune artefacte ale culturii și istoriei Djerma.",
                   "category": "museum",
                   "coords": [
                         3.199169,
@@ -884,7 +884,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Culture du 18/12/2014",
-                  "text": "Maison de Culture du 18/12/2014 este un teatru situat în Dosso.",
+                  "text": "Casă de Cultură inaugurată pe 18 decembrie 2014 în Dosso, care găzduiește evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         3.197541,
@@ -893,7 +893,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Artisanat",
-                  "text": "Artisanat este un muzeu în Dosso.",
+                  "text": "Muzeu de meșteșuguri tradiționale în Dosso, care prezintă lucrări artizanale locale.",
                   "category": "museum",
                   "coords": [
                         3.199451,
@@ -902,7 +902,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "Dosso vous Souhaite la bienvenue este un monument situat în Dosso.",
+                  "text": "Monument de bun venit la intrarea în Dosso, care salută vizitatorii.",
                   "category": "historical",
                   "coords": [
                         3.214179,
@@ -911,7 +911,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Place de Djermakoye",
-                  "text": "Place de Djermakoye este un monument situat în Dosso.",
+                  "text": "Piața Djermakoye din Dosso, un spațiu public central numit după un conducător local.",
                   "category": "historical",
                   "coords": [
                         3.200303,
@@ -922,7 +922,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "Musée Regionale Djermakoye de Dosso is a museum located in Dosso.",
+                  "text": "The Djermakoye Regional Museum in Dosso, exhibiting artifacts of Djerma culture and history.",
                   "category": "museum",
                   "coords": [
                         3.199169,
@@ -931,7 +931,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Culture du 18/12/2014",
-                  "text": "Maison de Culture du 18/12/2014 is a theatre located in Dosso.",
+                  "text": "A cultural center inaugurated on 18 December 2014 in Dosso, hosting cultural events.",
                   "category": "cultural",
                   "coords": [
                         3.197541,
@@ -940,7 +940,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Artisanat",
-                  "text": "Artisanat is a museum located in Dosso.",
+                  "text": "A museum of traditional crafts in Dosso, displaying local artisan works.",
                   "category": "museum",
                   "coords": [
                         3.199451,
@@ -949,7 +949,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "Dosso vous Souhaite la bienvenue is a monument located in Dosso.",
+                  "text": "A welcome monument at the entrance to Dosso, greeting visitors.",
                   "category": "historical",
                   "coords": [
                         3.214179,
@@ -958,7 +958,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Place de Djermakoye",
-                  "text": "Place de Djermakoye is a monument located in Dosso.",
+                  "text": "Djermakoye Square in Dosso, a central public space named after a local ruler.",
                   "category": "historical",
                   "coords": [
                         3.200303,
@@ -1014,7 +1014,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kazelmarie ",
-                  "text": "Kazelmarie ist ein Schloss in Diffa.",
+                  "text": "Schlossähnliche Struktur in Diffa, möglicherweise eine historische Residenz oder Befestigung.",
                   "category": "castle",
                   "coords": [
                         12.61828,
@@ -1023,7 +1023,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune officielle",
-                  "text": "Tribune officielle ist ein Monument in Diffa.",
+                  "text": "Offizielle Tribüne in Diffa, genutzt für Zeremonien und öffentliche Versammlungen.",
                   "category": "historical",
                   "coords": [
                         12.613831,
@@ -1032,7 +1032,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune hippodrome",
-                  "text": "Tribune hippodrome ist ein Monument in Diffa.",
+                  "text": "Tribüne des Hippodroms (Pferderennbahn) in Diffa.",
                   "category": "historical",
                   "coords": [
                         12.589727,
@@ -1041,7 +1041,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Chateau d'eau",
-                  "text": "Chateau d'eau ist ein Monument in Diffa.",
+                  "text": "Historischer Wasserturm in Diffa, ein Wahrzeichen der Wasserversorgung der Stadt.",
                   "category": "historical",
                   "coords": [
                         12.604885,
@@ -1050,7 +1050,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Porte Diffa Yerima",
-                  "text": "Porte Diffa Yerima ist ein Monument in Diffa.",
+                  "text": "Das Yerima-Tor in Diffa, ein Eingangstor zur Stadt oder zu einem historischen Viertel.",
                   "category": "historical",
                   "coords": [
                         12.584873,
@@ -1061,7 +1061,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kazelmarie ",
-                  "text": "A Kazelmarie egy kastély Diffa városában.",
+                  "text": "Várhoz hasonló építmény Diffában, valószínűleg történelmi rezidencia vagy erődítmény.",
                   "category": "castle",
                   "coords": [
                         12.61828,
@@ -1070,7 +1070,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune officielle",
-                  "text": "A Tribune officielle egy műemlék Diffa városában.",
+                  "text": "Hivatalos lelátó Diffában, ceremóniák és nyilvános összejövetelek helyszíne.",
                   "category": "historical",
                   "coords": [
                         12.613831,
@@ -1079,7 +1079,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune hippodrome",
-                  "text": "A Tribune hippodrome egy műemlék Diffa városában.",
+                  "text": "A diffai hippodrom (lóversenypálya) lelátója.",
                   "category": "historical",
                   "coords": [
                         12.589727,
@@ -1088,7 +1088,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Chateau d'eau",
-                  "text": "A Chateau d'eau egy műemlék Diffa városában.",
+                  "text": "Történelmi víztorony Diffában, a város vízellátásának jelképe.",
                   "category": "historical",
                   "coords": [
                         12.604885,
@@ -1097,7 +1097,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Porte Diffa Yerima",
-                  "text": "A Porte Diffa Yerima egy műemlék Diffa városában.",
+                  "text": "A Yerima-kapu Diffában, bejárati kapu a városhoz vagy egy történelmi negyedhez.",
                   "category": "historical",
                   "coords": [
                         12.584873,
@@ -1108,7 +1108,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kazelmarie ",
-                  "text": "Kazelmarie este un castel în Diffa.",
+                  "text": "Structură asemănătoare unui castel în Diffa, posibil o reședință istorică sau fortificație.",
                   "category": "castle",
                   "coords": [
                         12.61828,
@@ -1117,7 +1117,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune officielle",
-                  "text": "Tribune officielle este un monument în Diffa.",
+                  "text": "Tribuna oficială din Diffa, folosită pentru ceremonii și adunări publice.",
                   "category": "historical",
                   "coords": [
                         12.613831,
@@ -1126,7 +1126,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune hippodrome",
-                  "text": "Tribune hippodrome este un monument în Diffa.",
+                  "text": "Tribuna hipodromului (pista de curse de cai) din Diffa.",
                   "category": "historical",
                   "coords": [
                         12.589727,
@@ -1135,7 +1135,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Chateau d'eau",
-                  "text": "Chateau d'eau este un monument în Diffa.",
+                  "text": "Turn de apă istoric în Diffa, un reper al sistemului de alimentare cu apă al orașului.",
                   "category": "historical",
                   "coords": [
                         12.604885,
@@ -1144,7 +1144,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Porte Diffa Yerima",
-                  "text": "Porte Diffa Yerima este un monument în Diffa.",
+                  "text": "Poarta Yerima din Diffa, o poartă de intrare în oraș sau într-un cartier istoric.",
                   "category": "historical",
                   "coords": [
                         12.584873,
@@ -1155,7 +1155,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kazelmarie ",
-                  "text": "Kazelmarie is a castle in Diffa.",
+                  "text": "A castle-like structure in Diffa, possibly a historical residence or fortification.",
                   "category": "castle",
                   "coords": [
                         12.61828,
@@ -1164,7 +1164,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune officielle",
-                  "text": "Tribune officielle is a monument in Diffa.",
+                  "text": "The official grandstand in Diffa, used for ceremonies and public gatherings.",
                   "category": "historical",
                   "coords": [
                         12.613831,
@@ -1173,7 +1173,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Tribune hippodrome",
-                  "text": "Tribune hippodrome is a monument in Diffa.",
+                  "text": "The grandstand of the hippodrome (horse racing track) in Diffa.",
                   "category": "historical",
                   "coords": [
                         12.589727,
@@ -1182,7 +1182,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Chateau d'eau",
-                  "text": "Chateau d'eau is a monument in Diffa.",
+                  "text": "A historic water tower in Diffa, a landmark of the town's water supply.",
                   "category": "historical",
                   "coords": [
                         12.604885,
@@ -1191,7 +1191,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Porte Diffa Yerima",
-                  "text": "Porte Diffa Yerima is a monument in Diffa.",
+                  "text": "The Yerima Gate in Diffa, an entrance gate to the city or a historic quarter.",
                   "category": "historical",
                   "coords": [
                         12.584873,
@@ -1687,7 +1687,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Residência do Sultão",
-                  "text": "Die Residência do Sultão ist eine Attraktion in Magaria.",
+                  "text": "Residenz des Sultans in Magaria, ein traditioneller königlicher Gebäudekomplex.",
                   "category": "landmark",
                   "coords": [
                         8.90753,
@@ -1698,7 +1698,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Residência do Sultão",
-                  "text": "A Residência do Sultão egy látványosság Magaria városában.",
+                  "text": "A szultán rezidenciája Magariában, hagyományos királyi épületegyüttes.",
                   "category": "landmark",
                   "coords": [
                         8.90753,
@@ -1709,7 +1709,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Residência do Sultão",
-                  "text": "Residência do Sultão este o atracție în Magaria.",
+                  "text": "Reședința sultanului în Magaria, un ansamblu regal tradițional.",
                   "category": "landmark",
                   "coords": [
                         8.90753,
@@ -1720,7 +1720,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Residência do Sultão",
-                  "text": "Residência do Sultão is an attraction located in Magaria.",
+                  "text": "The Sultan's residence in Magaria, a traditional royal compound.",
                   "category": "landmark",
                   "coords": [
                         8.90753,
@@ -1820,7 +1820,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tribune",
-                  "text": "Denkmal in N'Guigmi.",
+                  "text": "Eine Tribüne in Nguigmi, genutzt für lokale Veranstaltungen und Zeremonien.",
                   "category": "historical",
                   "coords": [
                         13.113202,
@@ -1831,7 +1831,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tribune",
-                  "text": "Emlékmű N'Guigmi-ben.",
+                  "text": "Lelátó Nguigmiben, helyi rendezvények és ceremóniák helyszíne.",
                   "category": "historical",
                   "coords": [
                         13.113202,
@@ -1842,7 +1842,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tribune",
-                  "text": "Monument în N'Guigmi.",
+                  "text": "O tribună în Nguigmi, folosită pentru evenimente și ceremonii locale.",
                   "category": "historical",
                   "coords": [
                         13.113202,
@@ -1853,7 +1853,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tribune",
-                  "text": "Monument in N'Guigmi.",
+                  "text": "A grandstand in Nguigmi, used for local events and ceremonies.",
                   "category": "historical",
                   "coords": [
                         13.113202,
@@ -2481,7 +2481,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "MJC Guidan Roumdji",
-                  "text": "Das MJC Guidan Roumdji ist ein Museum in Guidan Roumdji.",
+                  "text": "Das MJC (Jugend- und Kulturzentrum) in Guidan Roumdji, das als Museum für lokale Kultur fungiert.",
                   "category": "museum",
                   "coords": [
                         6.702572,
@@ -2490,7 +2490,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Chef de Canton de Guidan Roumdji",
-                  "text": "Palais du Chef de Canton de Guidan Roumdji ist ein Schloss in Guidan Roumdji.",
+                  "text": "Palast des Kantonshäuptlings in Guidan Roumdji, Residenz einer traditionellen Autorität.",
                   "category": "castle",
                   "coords": [
                         6.699909,
@@ -2501,7 +2501,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "MJC Guidan Roumdji",
-                  "text": "Az MJC Guidan Roumdji egy múzeum Guidan Roumdji városában.",
+                  "text": "Az MJC (Ifjúsági és Kulturális Központ) Guidan Roumdjiban, amely a helyi kultúra múzeumaként működik.",
                   "category": "museum",
                   "coords": [
                         6.702572,
@@ -2510,7 +2510,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Chef de Canton de Guidan Roumdji",
-                  "text": "A Palais du Chef de Canton de Guidan Roumdji egy kastély Guidan Roumdji városában.",
+                  "text": "A kantoni főnök palotája Guidan Roumdjiban, egy hagyományos vezető rezidenciája.",
                   "category": "castle",
                   "coords": [
                         6.699909,
@@ -2521,7 +2521,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "MJC Guidan Roumdji",
-                  "text": "MJC Guidan Roumdji este un muzeu în Guidan Roumdji.",
+                  "text": "MJC (Centrul de Tineret și Cultură) din Guidan Roumdji, care funcționează ca muzeu al culturii locale.",
                   "category": "museum",
                   "coords": [
                         6.702572,
@@ -2530,7 +2530,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Chef de Canton de Guidan Roumdji",
-                  "text": "Palais du Chef de Canton de Guidan Roumdji este un castel în Guidan Roumdji.",
+                  "text": "Palatul șefului de canton din Guidan Roumdji, reședința unei autorități tradiționale.",
                   "category": "castle",
                   "coords": [
                         6.699909,
@@ -2541,7 +2541,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "MJC Guidan Roumdji",
-                  "text": "MJC Guidan Roumdji is a museum in Guidan Roumdji.",
+                  "text": "The MJC (Youth and Culture Center) in Guidan Roumdji, functioning as a museum of local culture.",
                   "category": "museum",
                   "coords": [
                         6.702572,
@@ -2550,7 +2550,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Chef de Canton de Guidan Roumdji",
-                  "text": "Palais du Chef de Canton de Guidan Roumdji is a castle in Guidan Roumdji.",
+                  "text": "The palace of the canton chief in Guidan Roumdji, a traditional authority's residence.",
                   "category": "castle",
                   "coords": [
                         6.699909,
@@ -2650,7 +2650,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "de": [
             {
                   "name": "MJC de Tchinta",
-                  "text": "MJC de Tchinta ist ein Kunstzentrum in Tchin-Tabaraden.",
+                  "text": "Das MJC (Jugend- und Kulturzentrum) in Tchinta, eine kulturelle Einrichtung in Tabaraden.",
                   "category": "cultural",
                   "coords": [
                         5.803633,
@@ -2659,7 +2659,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sabre de la paix de Tchintabaraden",
-                  "text": "Sabre de la paix de Tchintabaraden ist ein Denkmal in Tchin-Tabaraden.",
+                  "text": "Das Schwert des Friedensdenkmals in Tchintabaraden, ein Symbol der regionalen Versöhnung.",
                   "category": "historical",
                   "coords": [
                         5.805829,
@@ -2670,7 +2670,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "MJC de Tchinta",
-                  "text": "Az MJC de Tchinta egy művészeti központ Tchin-Tabaraden városában.",
+                  "text": "Az MJC (Ifjúsági és Kulturális Központ) Tchintában, kulturális helyszín Tabaradenben.",
                   "category": "cultural",
                   "coords": [
                         5.803633,
@@ -2679,7 +2679,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sabre de la paix de Tchintabaraden",
-                  "text": "A Sabre de la paix de Tchintabaraden egy emlékmű Tchin-Tabaraden városában.",
+                  "text": "A Béke Kardja emlékmű Tchintabaradenben, a regionális megbékélés szimbóluma.",
                   "category": "historical",
                   "coords": [
                         5.805829,
@@ -2690,7 +2690,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "MJC de Tchinta",
-                  "text": "MJC de Tchinta este un centru de artă în Tchin-Tabaraden.",
+                  "text": "MJC (Centrul de Tineret și Cultură) din Tchinta, un spațiu cultural în Tabaraden.",
                   "category": "cultural",
                   "coords": [
                         5.803633,
@@ -2699,7 +2699,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sabre de la paix de Tchintabaraden",
-                  "text": "Sabre de la paix de Tchintabaraden este un monument în Tchin-Tabaraden.",
+                  "text": "Monumentul Sabia Păcii din Tchintabaraden, un simbol al reconcilierii regionale.",
                   "category": "historical",
                   "coords": [
                         5.805829,
@@ -2710,7 +2710,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       "en": [
             {
                   "name": "MJC de Tchinta",
-                  "text": "MJC de Tchinta is an arts centre located in Tchin-Tabaraden.",
+                  "text": "The MJC (Youth and Culture Center) in Tchinta, a cultural venue in Tabaraden.",
                   "category": "cultural",
                   "coords": [
                         5.803633,
@@ -2719,7 +2719,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
             },
             {
                   "name": "Sabre de la paix de Tchintabaraden",
-                  "text": "Sabre de la paix de Tchintabaraden is a monument located in Tchin-Tabaraden.",
+                  "text": "The Sword of Peace monument in Tchintabaraden, a symbol of regional reconciliation.",
                   "category": "historical",
                   "coords": [
                         5.805829,

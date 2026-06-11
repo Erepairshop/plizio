@@ -43,7 +43,340 @@ export const poiExtraChileCitiesV2: POI[] = [
     },
      image: "/poi-images/santiago-cities-v2.webp"},
   {
-    id: "puente-alto-cities-v2", "sights": {"de": [{"name": "Teatro Palermo", "text": "Theater in Puente Alto.", "category": "cultural", "coords": [-70.576205, -33.610228]}, {"name": "Bodega Casillero del Diablo", "text": "Museum in Puente Alto.", "category": "museum", "coords": [-70.576147, -33.634687]}, {"name": "Cerro Las Cabras", "text": "Gipfel in Puente Alto.", "category": "natural", "coords": [-70.603039, -33.625145]}, {"name": "Plaza Elvira Matte", "text": "Mitten in Puente Alto bietet dieser städtische Park eine willkommene grüne Oase abseits der belebten Straßen. Zwischen schattigen Bäumen und ruhigen Pfaden können Einheimische und Gäste wunderbar spazieren gehen oder eine kleine Pause einlegen. Ein idealer Ort, um an einem sonnigen Nachmittag im Freien zu entspannen und das lokale Leben zu beobachten.", "category": "park", "coords": [-70.576374, -33.585878]}, {"name": "Entrada Ex Regimiento", "text": "Denkmal in Puente Alto.", "category": "historical", "coords": [-70.574141, -33.612472]}, {"name": "Salas de Degustación y Catas", "text": "Verkostungsbereich in Puente Alto.", "category": "landmark", "coords": [-70.57514, -33.632565]}, {"name": "Monumento Castellón", "text": "Ruinen des Monumento Castellón in Puente Alto.", "category": "historical", "coords": [-70.575853, -33.598475]}, {"name": "Casa Don Melchor", "text": "Herrenhaus in Puente Alto.", "category": "historical", "coords": [-70.574548, -33.63425]}, {"name": "Centro Cultural de Puente Alto", "text": "Kunstzentrum in Puente Alto.", "category": "cultural", "coords": [-70.548904, -33.611051]}], "hu": [{"name": "Teatro Palermo", "text": "Színház Puente Altóban.", "category": "cultural", "coords": [-70.576205, -33.610228]}, {"name": "Bodega Casillero del Diablo", "text": "Múzeum Puente Altóban.", "category": "museum", "coords": [-70.576147, -33.634687]}, {"name": "Cerro Las Cabras", "text": "Hegycsúcs Puente Altóban.", "category": "natural", "coords": [-70.603039, -33.625145]}, {"name": "Plaza Elvira Matte", "text": "Puente Alto szívében ez a városi park kellemes zöld oázist nyújt a forgalmas utcáktól távol. Az árnyas fák és a csendes ösvények között a helyiek és a vendégek egyaránt remekül sétálhatnak vagy tarthatnak egy kis szünetet. Ideális helyszín, ha egy napsütéses délutánon a szabadban szeretnénk pihenni és figyelni a helyi életet.", "category": "park", "coords": [-70.576374, -33.585878]}, {"name": "Entrada Ex Regimiento", "text": "Emlékmű Puente Altóban.", "category": "historical", "coords": [-70.574141, -33.612472]}, {"name": "Salas de Degustación y Catas", "text": "Kóstolóhely Puente Altóban.", "category": "landmark", "coords": [-70.57514, -33.632565]}, {"name": "Monumento Castellón", "text": "A Monumento Castellón romjai Puente Altóban.", "category": "historical", "coords": [-70.575853, -33.598475]}, {"name": "Casa Don Melchor", "text": "Kúria Puente Altóban.", "category": "historical", "coords": [-70.574548, -33.63425]}, {"name": "Centro Cultural de Puente Alto", "text": "Művészeti központ Puente Altóban.", "category": "cultural", "coords": [-70.548904, -33.611051]}], "ro": [{"name": "Teatro Palermo", "text": "Teatru în Puente Alto.", "category": "cultural", "coords": [-70.576205, -33.610228]}, {"name": "Bodega Casillero del Diablo", "text": "Muzeu în Puente Alto.", "category": "museum", "coords": [-70.576147, -33.634687]}, {"name": "Cerro Las Cabras", "text": "Vârf în Puente Alto.", "category": "natural", "coords": [-70.603039, -33.625145]}, {"name": "Plaza Elvira Matte", "text": "În inima orașului Puente Alto, acest parc urban oferă o oază verde binevenită, departe de străzile aglomerate. Printre copacii umbroși și cărările liniștite, localnicii și oaspeții se pot plimba de minune sau pot lua o scurtă pauză. Un loc ideal pentru a vă relaxa în aer liber într-o după-amiază însorită și a observa viața locală.", "category": "park", "coords": [-70.576374, -33.585878]}, {"name": "Entrada Ex Regimiento", "text": "Monument în Puente Alto.", "category": "historical", "coords": [-70.574141, -33.612472]}, {"name": "Salas de Degustación y Catas", "text": "Loc de degustare în Puente Alto.", "category": "landmark", "coords": [-70.57514, -33.632565]}, {"name": "Monumento Castellón", "text": "Ruinele Monumento Castellón în Puente Alto.", "category": "historical", "coords": [-70.575853, -33.598475]}, {"name": "Casa Don Melchor", "text": "Conac în Puente Alto.", "category": "historical", "coords": [-70.574548, -33.63425]}, {"name": "Centro Cultural de Puente Alto", "text": "Centru cultural în Puente Alto.", "category": "cultural", "coords": [-70.548904, -33.611051]}], "en": [{"name": "Teatro Palermo", "text": "Theatre in Puente Alto.", "category": "cultural", "coords": [-70.576205, -33.610228]}, {"name": "Bodega Casillero del Diablo", "text": "Museum in Puente Alto.", "category": "museum", "coords": [-70.576147, -33.634687]}, {"name": "Cerro Las Cabras", "text": "Peak in Puente Alto.", "category": "natural", "coords": [-70.603039, -33.625145]}, {"name": "Plaza Elvira Matte", "text": "Right in the heart of Puente Alto, this urban park provides a welcoming green oasis away from the busy streets. Among shady trees and quiet paths, locals and visitors alike can enjoy a lovely walk or take a short break. It is an ideal spot to relax outdoors on a sunny afternoon and watch the local life go by.", "category": "park", "coords": [-70.576374, -33.585878]}, {"name": "Entrada Ex Regimiento", "text": "Monument in Puente Alto.", "category": "historical", "coords": [-70.574141, -33.612472]}, {"name": "Salas de Degustación y Catas", "text": "Tasting area in Puente Alto.", "category": "landmark", "coords": [-70.57514, -33.632565]}, {"name": "Monumento Castellón", "text": "Ruins of Monumento Castellón in Puente Alto.", "category": "historical", "coords": [-70.575853, -33.598475]}, {"name": "Casa Don Melchor", "text": "Manor in Puente Alto.", "category": "historical", "coords": [-70.574548, -33.63425]}, {"name": "Centro Cultural de Puente Alto", "text": "Arts centre in Puente Alto.", "category": "cultural", "coords": [-70.548904, -33.611051]}]},
+    id: "puente-alto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatro Palermo, ein historisches Theater mit neoklassizistischer Fassade in Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Weinkeller der bekannten chilenischen Marke Casillero del Diablo in Alto.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Hügel im Departamento Cerro Largo (Uruguay), Teil der Hügelkette Cuchilla Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Mitten in Puente Alto bietet dieser städtische Park eine willkommene grüne Oase abseits der belebten Straßen. Zwischen schattigen Bäumen und ruhigen Pfaden können Einheimische und Gäste wunderbar spazieren gehen oder eine kleine Pause einlegen. Ein idealer Ort, um an einem sonnigen Nachmittag im Freien zu entspannen und das lokale Leben zu beobachten.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Eingangstor des ehemaligen Militärregiments von Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Räume für Weinproben und Verkostungen in Alto, Teil des Weinguts.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Monumento Castellón, ein Denkmal auf dem Hauptplatz von Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Casa Don Melchor, ein historisches Weingut mit Besichtigungen in Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Kulturzentrum von Puente Alto mit Ausstellungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatro Palermo, egy történelmi színház neoklasszicista homlokzattal Alto-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "A híres chilei Casillero del Diablo márka borospincéje Alto-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Domb a Cerro Largo megyében (Uruguay), a Cuchilla Grande dombsor része.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Puente Alto szívében ez a városi park kellemes zöld oázist nyújt a forgalmas utcáktól távol. Az árnyas fák és a csendes ösvények között a helyiek és a vendégek egyaránt remekül sétálhatnak vagy tarthatnak egy kis szünetet. Ideális helyszín, ha egy napsütéses délutánon a szabadban szeretnénk pihenni és figyelni a helyi életet.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Az egykori alto-i katonai ezred bejárati kapuja.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Borkóstoló termek Alto-ban, a borászathoz tartozóan.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Monumento Castellón, egy emlékmű Alto főterén.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Casa Don Melchor, egy történelmi borászat látogatható pincével Alto-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Puente Alto-i kulturális központ kiállításokkal és műhelyekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatro Palermo, un teatru istoric cu fațadă neoclasică în Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Crama brandului chilian renumit Casillero del Diablo în Alto.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Deal în departamentul Cerro Largo (Uruguay), parte a lanțului de dealuri Cuchilla Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "În inima orașului Puente Alto, acest parc urban oferă o oază verde binevenită, departe de străzile aglomerate. Printre copacii umbroși și cărările liniștite, localnicii și oaspeții se pot plimba de minune sau pot lua o scurtă pauză. Un loc ideal pentru a vă relaxa în aer liber într-o după-amiază însorită și a observa viața locală.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Poarta de intrare a fostului regiment militar din Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Săli de degustare și crame în Alto, parte a podgoriei.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Monumento Castellón, un monument în piața centrală a orașului Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Casa Don Melchor, o cramă istorică cu tururi ghidate în Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Centrul Cultural din Puente Alto, cu expoziții și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatro Palermo, a historic theater with a neoclassical facade in Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Wine cellar of the famous Chilean brand Casillero del Diablo in Alto.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Cerro Las Cabras: a hill in Cerro Largo Department, Uruguay, part of the Cuchilla Grande range.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Right in the heart of Puente Alto, this urban park provides a welcoming green oasis away from the busy streets. Among shady trees and quiet paths, locals and visitors alike can enjoy a lovely walk or take a short break. It is an ideal spot to relax outdoors on a sunny afternoon and watch the local life go by.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Entrance gate of the former military regiment in Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Tasting rooms and wine sampling spaces in Alto, part of the winery.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Monumento Castellón, a monument on the main square of Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Casa Don Melchor, a historic winery with guided tours in Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Cultural Center of Puente Alto, hosting exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CL-RM",
     coords: [-70.5753, -33.6117],
@@ -99,7 +432,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Agua SMAPA",
-                  "text": "Museo del Agua SMAPA ist ein Museum in der Stadt Maipú.",
+                  "text": "Museum des Wasserwerks SMAPA in Maipú zur Geschichte der Wasserversorgung.",
                   "category": "museum",
                   "coords": [
                         -70.74748,
@@ -108,7 +441,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Maipú",
-                  "text": "Teatro Municipal de Maipú ist ein Theater in der Stadt Maipú.",
+                  "text": "Städtisches Theater von Maipú mit regelmäßigem Kulturprogramm.",
                   "category": "cultural",
                   "coords": [
                         -70.756815,
@@ -117,7 +450,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta Las Rosas de Maipú",
-                  "text": "Quinta Las Rosas de Maipú ist ein Denkmal in der Stadt Maipú.",
+                  "text": "Quinta Las Rosas de Maipú, 1994 erbaut, entworfen von José Luis Coo.",
                   "category": "historical",
                   "coords": [
                         -70.757977,
@@ -126,7 +459,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Casa Taller Museo Sonoro Organológico (MUSO) ist ein Kunstzentrum in der Stadt Maipú.",
+                  "text": "Museum für Musikinstrumente und Klanginstallationen in Maipú.",
                   "category": "cultural",
                   "coords": [
                         -70.779343,
@@ -135,7 +468,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Excapilla de La Victoria",
-                  "text": "Excapilla de La Victoria ist eine historische Ruine in der Stadt Maipú.",
+                  "text": "Die ehemalige Kapelle La Victoria in Maipu, erbaut am 5. April 1892.",
                   "category": "historical",
                   "coords": [
                         -70.764019,
@@ -164,7 +497,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Agua SMAPA",
-                  "text": "A Museo del Agua SMAPA egy múzeum Maipú városában.",
+                  "text": "A maipúi SMAPA vízmű múzeuma a vízellátás történetéről.",
                   "category": "museum",
                   "coords": [
                         -70.74748,
@@ -173,7 +506,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Maipú",
-                  "text": "A Teatro Municipal de Maipú egy színház Maipú városában.",
+                  "text": "Maipú városi színháza rendszeres kulturális műsorral.",
                   "category": "cultural",
                   "coords": [
                         -70.756815,
@@ -182,7 +515,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta Las Rosas de Maipú",
-                  "text": "A Quinta Las Rosas de Maipú egy emlékmű Maipú városában.",
+                  "text": "Quinta Las Rosas de Maipú, 1994-ben épült, José Luis Coo tervezte.",
                   "category": "historical",
                   "coords": [
                         -70.757977,
@@ -191,7 +524,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "A Casa Taller Museo Sonoro Organológico (MUSO) egy művészeti központ Maipú városában.",
+                  "text": "Hangszerek és hanginstallációk múzeuma Maipúban.",
                   "category": "cultural",
                   "coords": [
                         -70.779343,
@@ -200,7 +533,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Excapilla de La Victoria",
-                  "text": "Az Excapilla de La Victoria egy történelmi rom Maipú városában.",
+                  "text": "A La Victoria egykori kápolna Maipuban, épült 1892. április 5-én.",
                   "category": "historical",
                   "coords": [
                         -70.764019,
@@ -229,7 +562,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Agua SMAPA",
-                  "text": "Museo del Agua SMAPA este un muzeu situat în orașul Maipú.",
+                  "text": "Muzeul Apei SMAPA din Maipú, despre istoria alimentării cu apă.",
                   "category": "museum",
                   "coords": [
                         -70.74748,
@@ -238,7 +571,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Maipú",
-                  "text": "Teatro Municipal de Maipú este un teatru situat în orașul Maipú.",
+                  "text": "Teatrul Municipal din Maipú, cu program cultural regulat.",
                   "category": "cultural",
                   "coords": [
                         -70.756815,
@@ -247,7 +580,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta Las Rosas de Maipú",
-                  "text": "Quinta Las Rosas de Maipú este un monument situat în orașul Maipú.",
+                  "text": "Quinta Las Rosas de Maipú, construită în 1994, proiectată de José Luis Coo.",
                   "category": "historical",
                   "coords": [
                         -70.757977,
@@ -256,7 +589,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Casa Taller Museo Sonoro Organológico (MUSO) este un centru de arte situat în orașul Maipú.",
+                  "text": "Muzeu de instrumente muzicale și instalații sonore în Maipú.",
                   "category": "cultural",
                   "coords": [
                         -70.779343,
@@ -265,7 +598,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Excapilla de La Victoria",
-                  "text": "Excapilla de La Victoria este o ruină istorică situată în orașul Maipú.",
+                  "text": "Fosta capelă La Victoria din Maipu, construită la 5 aprilie 1892.",
                   "category": "historical",
                   "coords": [
                         -70.764019,
@@ -294,7 +627,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Agua SMAPA",
-                  "text": "Museo del Agua SMAPA is a museum located in the city of Maipú.",
+                  "text": "SMAPA Water Museum in Maipú, covering the history of water supply.",
                   "category": "museum",
                   "coords": [
                         -70.74748,
@@ -303,7 +636,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Municipal de Maipú",
-                  "text": "Teatro Municipal de Maipú is a theatre located in the city of Maipú.",
+                  "text": "Municipal Theatre of Maipú, featuring regular cultural performances.",
                   "category": "cultural",
                   "coords": [
                         -70.756815,
@@ -312,7 +645,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta Las Rosas de Maipú",
-                  "text": "Quinta Las Rosas de Maipú is a monument located in the city of Maipú.",
+                  "text": "Quinta Las Rosas de Maipú, built in 1994 designed by José Luis Coo.",
                   "category": "historical",
                   "coords": [
                         -70.757977,
@@ -321,7 +654,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Casa Taller Museo Sonoro Organológico (MUSO) is an arts centre located in the city of Maipú.",
+                  "text": "Museum of musical instruments and sound installations in Maipú.",
                   "category": "cultural",
                   "coords": [
                         -70.779343,
@@ -330,7 +663,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Excapilla de La Victoria",
-                  "text": "Excapilla de La Victoria is a historical ruin located in the city of Maipú.",
+                  "text": "Former chapel La Victoria in Maipu, built on 5 April 1892.",
                   "category": "historical",
                   "coords": [
                         -70.764019,
@@ -394,7 +727,7 @@ export const poiExtraChileCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cerro Santa Rosa",
-                  "text": "Cerro Santa Rosa ist ein markanter Berggipfel in La Florida.",
+                  "text": "Hügel im Departamento Florida (Uruguay), mit Blick auf die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
                         -70.530297,
@@ -403,7 +736,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Los Niños",
-                  "text": "Casa de Los Niños ist eine interessante Attraktion in La Florida.",
+                  "text": "Casa de Los Niños, ein Gemeinschaftszentrum für Kinder in Florida.",
                   "category": "landmark",
                   "coords": [
                         -70.528143,
@@ -412,7 +745,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Falla de Ramón",
-                  "text": "Mirador Falla de Ramón ist ein malerischer Aussichtspunkt in La Florida.",
+                  "text": "Aussichtspunkt mit Blick auf die Falla de Ramón und die Anden in Florida.",
                   "category": "natural",
                   "coords": [
                         -70.520721,
@@ -430,7 +763,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Cruz",
-                  "text": "Mirador de La Cruz ist ein schöner Aussichtspunkt über La Florida.",
+                  "text": "Aussichtspunkt mit einem großen Kreuz und Panoramablick auf Florida.",
                   "category": "natural",
                   "coords": [
                         -70.517083,
@@ -439,7 +772,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Casita",
-                  "text": "Mirador de La Casita ist ein beliebter Aussichtspunkt in La Florida.",
+                  "text": "Aussichtspunkt mit einer kleinen Hütte und weitem Blick ins Tal.",
                   "category": "natural",
                   "coords": [
                         -70.509162,
@@ -448,7 +781,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Sendero de Chile",
-                  "text": "Mirador Sendero de Chile bietet eine schöne Aussicht in La Florida.",
+                  "text": "Aussichtspunkt entlang des Sendero de Chile, eines Nationalen Wanderwegs.",
                   "category": "natural",
                   "coords": [
                         -70.5127,
@@ -459,7 +792,7 @@ export const poiExtraChileCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cerro Santa Rosa",
-                  "text": "A Cerro Santa Rosa egy kiemelkedő hegycsúcs La Floridában.",
+                  "text": "Domb a Florida megyében (Uruguay), kilátással a környező tájra.",
                   "category": "natural",
                   "coords": [
                         -70.530297,
@@ -468,7 +801,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Los Niños",
-                  "text": "A Casa de Los Niños egy érdekes látványosság La Floridában.",
+                  "text": "Casa de Los Niños, egy közösségi központ gyermekek számára Floridában.",
                   "category": "landmark",
                   "coords": [
                         -70.528143,
@@ -477,7 +810,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Falla de Ramón",
-                  "text": "A Mirador Falla de Ramón egy festői kilátó La Floridában.",
+                  "text": "Kilátópont a Ramón-törésvonalra és az Andokra Floridában.",
                   "category": "natural",
                   "coords": [
                         -70.520721,
@@ -495,7 +828,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Cruz",
-                  "text": "A Mirador de La Cruz egy gyönyörű kilátó La Floridában.",
+                  "text": "Kilátópont egy nagy kereszttel és panorámakilátással Floridában.",
                   "category": "natural",
                   "coords": [
                         -70.517083,
@@ -504,7 +837,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Casita",
-                  "text": "A Mirador de La Casita egy népszerű megfigyelőpont La Floridában.",
+                  "text": "Kilátópont egy kis házzal és messzire tekintő kilátással a völgyre.",
                   "category": "natural",
                   "coords": [
                         -70.509162,
@@ -513,7 +846,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Sendero de Chile",
-                  "text": "A Mirador Sendero de Chile festői kilátást kínál La Floridában.",
+                  "text": "Kilátópont a Sendero de Chile nemzeti túraút mentén.",
                   "category": "natural",
                   "coords": [
                         -70.5127,
@@ -524,7 +857,7 @@ export const poiExtraChileCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cerro Santa Rosa",
-                  "text": "Cerro Santa Rosa este un vârf de munte proeminent situat în La Florida.",
+                  "text": "Deal în departamentul Florida (Uruguay), cu vedere spre peisajul înconjurător.",
                   "category": "natural",
                   "coords": [
                         -70.530297,
@@ -533,7 +866,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Los Niños",
-                  "text": "Casa de Los Niños este o atracție interesantă din La Florida.",
+                  "text": "Casa de Los Niños, un centru comunitar pentru copii în Florida.",
                   "category": "landmark",
                   "coords": [
                         -70.528143,
@@ -542,7 +875,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Falla de Ramón",
-                  "text": "Mirador Falla de Ramón este un punct de belvedere pitoresc situat în La Florida.",
+                  "text": "Punct de belvedere cu vedere asupra Faliei de Ramón și Anzilor în Florida.",
                   "category": "natural",
                   "coords": [
                         -70.520721,
@@ -560,7 +893,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Cruz",
-                  "text": "Mirador de La Cruz este un punct de belvedere frumos cu vedere spre La Florida.",
+                  "text": "Belvedere cu o cruce mare și vedere panoramică asupra Floridei.",
                   "category": "natural",
                   "coords": [
                         -70.517083,
@@ -569,7 +902,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Casita",
-                  "text": "Mirador de La Casita este un punct de observație popular din La Florida.",
+                  "text": "Belvedere cu o căsuță și o vedere largă asupra văii.",
                   "category": "natural",
                   "coords": [
                         -70.509162,
@@ -578,7 +911,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Sendero de Chile",
-                  "text": "Mirador Sendero de Chile oferă priveliști pitorești în La Florida.",
+                  "text": "Belvedere de-a lungul traseului național Sendero de Chile.",
                   "category": "natural",
                   "coords": [
                         -70.5127,
@@ -589,7 +922,7 @@ export const poiExtraChileCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cerro Santa Rosa",
-                  "text": "Cerro Santa Rosa is a prominent mountain peak located in La Florida.",
+                  "text": "Cerro Santa Rosa: a hill in Florida Department, Uruguay, overlooking the surrounding countryside.",
                   "category": "natural",
                   "coords": [
                         -70.530297,
@@ -598,7 +931,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Los Niños",
-                  "text": "Casa de Los Niños is an interesting attraction located in La Florida.",
+                  "text": "Casa de Los Niños, a community center for children in Florida.",
                   "category": "landmark",
                   "coords": [
                         -70.528143,
@@ -607,7 +940,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Falla de Ramón",
-                  "text": "Mirador Falla de Ramón is a scenic viewpoint situated in La Florida.",
+                  "text": "Lookout point with views of the Falla de Ramón and the Andes in Florida.",
                   "category": "natural",
                   "coords": [
                         -70.520721,
@@ -625,7 +958,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Cruz",
-                  "text": "Mirador de La Cruz is a beautiful viewpoint overlooking La Florida.",
+                  "text": "Lookout with a large cross and panoramic views of Florida.",
                   "category": "natural",
                   "coords": [
                         -70.517083,
@@ -634,7 +967,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador de La Casita",
-                  "text": "Mirador de La Casita is a popular observation point in La Florida.",
+                  "text": "Lookout point with a small house and sweeping valley views.",
                   "category": "natural",
                   "coords": [
                         -70.509162,
@@ -643,7 +976,7 @@ export const poiExtraChileCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador Sendero de Chile",
-                  "text": "Mirador Sendero de Chile offers scenic vistas located in La Florida.",
+                  "text": "Lookout along the Sendero de Chile national hiking trail.",
                   "category": "natural",
                   "coords": [
                         -70.5127,

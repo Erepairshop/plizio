@@ -538,7 +538,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Illuka mõisa peahoone",
-                  "text": "Historisches Hauptgebäude des Gutshofs Illuka in Estland.",
+                  "text": "Hölzernes Herrenhaus in einem Waldgebiet auf dem Kuremagi-Hügel.",
                   "category": "historical",
                   "coords": [
                         27.493445,
@@ -547,7 +547,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jumalaema Uinumise peakirik",
-                  "text": "Hauptkathedrale des Pühtica-Klosters in Kuremägi.",
+                  "text": "Orthodoxe Kirche Mariä Entschlafung auf dem Kuremagi-Hügel.",
                   "category": "religious",
                   "coords": [
                         27.534866,
@@ -556,7 +556,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Illuka kirik",
-                  "text": "Historische Dorfkirche in Illuka.",
+                  "text": "Orthodoxe Holzkirche mit hohem Turm in Illuka nahe dem Kuremagi-Hügel.",
                   "category": "religious",
                   "coords": [
                         27.516443,
@@ -567,7 +567,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Illuka mõisa peahoone",
-                  "text": "Az észtországi Illuka-kúria történelmi főépülete.",
+                  "text": "Fából készült kastély erdős területen a Kuremagi-gerincen.",
                   "category": "historical",
                   "coords": [
                         27.493445,
@@ -576,7 +576,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jumalaema Uinumise peakirik",
-                  "text": "A kuremägi Pühtica-kolostor főszékesegyháza.",
+                  "text": "Ortodox templom az Elszenderedésnek szentelve a Kuremagi-gerincen.",
                   "category": "religious",
                   "coords": [
                         27.534866,
@@ -585,7 +585,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Illuka kirik",
-                  "text": "Történelmi falusi templom Illukában.",
+                  "text": "Ortodox fatemplom magas toronnyal Illukában, a Kuremagi-gerinc közelében.",
                   "category": "religious",
                   "coords": [
                         27.516443,
@@ -596,7 +596,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Illuka mõisa peahoone",
-                  "text": "Clădirea principală istorică a conacului Illuka din Estonia.",
+                  "text": "Conac din lemn într-o zonă împădurită pe Creasta Kuremagi.",
                   "category": "historical",
                   "coords": [
                         27.493445,
@@ -605,7 +605,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jumalaema Uinumise peakirik",
-                  "text": "Catedrala principală a Mănăstirii Pühtica din Kuremägi.",
+                  "text": "Biserică ortodoxă dedicată Adormirii Maicii Domnului pe Creasta Kuremagi.",
                   "category": "religious",
                   "coords": [
                         27.534866,
@@ -614,7 +614,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Illuka kirik",
-                  "text": "Biserică istorică de sat situată în Illuka.",
+                  "text": "Biserică ortodoxă de lemn cu turn înalt în Illuka, lângă creasta Kuremagi.",
                   "category": "religious",
                   "coords": [
                         27.516443,
@@ -625,7 +625,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Illuka mõisa peahoone",
-                  "text": "Historic main building of the Illuka manor in Estonia.",
+                  "text": "Wooden manor house in a forested area on Kuremagi Ridge.",
                   "category": "historical",
                   "coords": [
                         27.493445,
@@ -634,7 +634,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Jumalaema Uinumise peakirik",
-                  "text": "The main cathedral of the Pühtica Convent in Kuremägi.",
+                  "text": "Orthodox church dedicated to the Dormition on Kuremagi Ridge.",
                   "category": "religious",
                   "coords": [
                         27.534866,
@@ -643,7 +643,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Illuka kirik",
-                  "text": "Historic village church located in Illuka.",
+                  "text": "Wooden Orthodox church with a tall spire in Illuka near Kuremagi Ridge.",
                   "category": "religious",
                   "coords": [
                         27.516443,
@@ -790,7 +790,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Kõrveküla supelrand",
-                  "text": "Kõrveküla-Badestrand beim Magi-Hügel.",
+                  "text": "Kõrveküla Strand am Fuße des Vahi-Hügels.",
                   "category": "recreational",
                   "coords": [
                         26.768235,
@@ -801,7 +801,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Kõrveküla supelrand",
-                  "text": "Kõrveküla strand a Magi-dombnál.",
+                  "text": "Kõrveküla strand a Vahi-domb lábánál.",
                   "category": "recreational",
                   "coords": [
                         26.768235,
@@ -812,7 +812,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Kõrveküla supelrand",
-                  "text": "Plaja Kõrveküla lângă dealul Magi.",
+                  "text": "Plaja Kõrveküla la poalele dealului Vahi.",
                   "category": "recreational",
                   "coords": [
                         26.768235,
@@ -823,7 +823,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Kõrveküla supelrand",
-                  "text": "Kõrveküla beach near Magi Hill.",
+                  "text": "Kõrveküla beach at the foot of Vahi Hill.",
                   "category": "recreational",
                   "coords": [
                         26.768235,
@@ -898,7 +898,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Õisu järve ujumiskoht",
-                  "text": "Ein Badeplatz am Õisu-See in der Nähe von Koolimägi.",
+                  "text": "Badeplatz am Õisu-See auf dem Koolimägi-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         25.516097,
@@ -907,7 +907,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ahimäe karjääri ujumiskoht",
-                  "text": "Ein Badeplatz im Steinbruch Ahimäe bei Koolimägi.",
+                  "text": "Baden im Ahimäe-Steinbruch auf dem Koolimägi-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         25.616873,
@@ -916,7 +916,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kopra talu ujumiskoht",
-                  "text": "Ein Badeplatz beim Bauernhof Kopra in der Nähe von Koolimägi.",
+                  "text": "Kopra Bauernhof-Badeplatz am Koolimägi-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         25.614207,
@@ -945,7 +945,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Õisu järve ujumiskoht",
-                  "text": "Fürdőhely az Õisu-tónál, Koolimägi közelében.",
+                  "text": "Õisu-tavi fürdőhely a Koolimägi-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         25.516097,
@@ -954,7 +954,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ahimäe karjääri ujumiskoht",
-                  "text": "Fürdőhely az ahimäei kőfejtőnél, Koolimägi közelében.",
+                  "text": "Fürdőzés az Ahimäe kőbányában a Koolimägi-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         25.616873,
@@ -963,7 +963,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kopra talu ujumiskoht",
-                  "text": "Fürdőhely a Kopra tanyánál, Koolimägi közelében.",
+                  "text": "Kopra tanya fürdőhely a Koolimägi-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         25.614207,
@@ -992,7 +992,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Õisu järve ujumiskoht",
-                  "text": "O zonă de înot la lacul Õisu, lângă Koolimägi.",
+                  "text": "Loc de înot în Lacul Õisu pe Înălțimea Koolimägi.",
                   "category": "recreational",
                   "coords": [
                         25.516097,
@@ -1001,7 +1001,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ahimäe karjääri ujumiskoht",
-                  "text": "O zonă de înot în cariera Ahimäe, lângă Koolimägi.",
+                  "text": "Înot în cariera Ahimäe pe Înălțimea Koolimägi.",
                   "category": "recreational",
                   "coords": [
                         25.616873,
@@ -1010,7 +1010,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kopra talu ujumiskoht",
-                  "text": "O zonă de înot la ferma Kopra, lângă Koolimägi.",
+                  "text": "Loc de înot la ferma Kopra pe Înălțimea Koolimägi.",
                   "category": "recreational",
                   "coords": [
                         25.614207,
@@ -1039,7 +1039,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Õisu järve ujumiskoht",
-                  "text": "A swimming area at Lake Õisu near Koolimägi.",
+                  "text": "Õisu Lake swimming spot on the Koolimägi Rise.",
                   "category": "recreational",
                   "coords": [
                         25.516097,
@@ -1048,7 +1048,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ahimäe karjääri ujumiskoht",
-                  "text": "A swimming area at the Ahimäe quarry near Koolimägi.",
+                  "text": "Swimming in the Ahimäe quarry on Koolimägi Rise.",
                   "category": "recreational",
                   "coords": [
                         25.616873,
@@ -1057,7 +1057,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kopra talu ujumiskoht",
-                  "text": "A swimming area at Kopra farm near Koolimägi.",
+                  "text": "Kopra farm swimming spot by the Koolimägi Rise.",
                   "category": "recreational",
                   "coords": [
                         25.614207,
@@ -1168,7 +1168,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Luige näituseväljak",
-                  "text": "Ein Ausstellungsgelände und Veranstaltungsort in Tuuliku-Mägi.",
+                  "text": "Luige Ausstellungsgelände auf dem Tuuliku-Hügel.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
@@ -1177,7 +1177,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna küla kultuuritunnel",
-                  "text": "Ein kultureller Galerieraum im Dorf Kurna.",
+                  "text": "Kurna Dorf-Kulturtunnel unter dem Tuuliku-Hügel.",
                   "category": "museum",
                   "coords": [
                         24.838852,
@@ -1186,7 +1186,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna mõisa peahoone",
-                  "text": "Das Hauptgebäude des historischen Gutshofes Kurna.",
+                  "text": "Kurna Herrenhaus Hauptgebäude auf dem Tuuliku-Hügel.",
                   "category": "historical",
                   "coords": [
                         24.84234,
@@ -1195,7 +1195,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Gross Sausti Mõis",
-                  "text": "Das ehemalige Herrenhaus von Sausti in Tuuliku-Mägi.",
+                  "text": "Gross Sausti Herrenhaus auf dem Tuuliku-Hügel.",
                   "category": "historical",
                   "coords": [
                         24.780173,
@@ -1215,7 +1215,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Luige näituseväljak",
-                  "text": "Kiállítási terület és rendezvényhelyszín Tuuliku-Mägi településén.",
+                  "text": "Luige kiállítási terület a Tuuliku-dombon.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
@@ -1224,7 +1224,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna küla kultuuritunnel",
-                  "text": "Kulturális galéria Kurna falujában.",
+                  "text": "Kurna falu kultúralagútja a Tuuliku-domb alatt.",
                   "category": "museum",
                   "coords": [
                         24.838852,
@@ -1233,7 +1233,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna mõisa peahoone",
-                  "text": "A történelmi kurnai uradalom főépülete.",
+                  "text": "Kurna kúria főépülete a Tuuliku-dombon.",
                   "category": "historical",
                   "coords": [
                         24.84234,
@@ -1242,7 +1242,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Gross Sausti Mõis",
-                  "text": "A korábbi Sausti-kúria Tuuliku-Mägi településén.",
+                  "text": "Gross Sausti kúria a Tuuliku-dombon.",
                   "category": "historical",
                   "coords": [
                         24.780173,
@@ -1262,7 +1262,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Luige näituseväljak",
-                  "text": "Un teren de expoziții și loc de evenimente în Tuuliku-Mägi.",
+                  "text": "Terenul de expoziție Luige pe Dealul Tuuliku.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
@@ -1271,7 +1271,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna küla kultuuritunnel",
-                  "text": "Un spațiu cultural de tip galerie în satul Kurna.",
+                  "text": "Tunelul cultural al satului Kurna sub Dealul Tuuliku.",
                   "category": "museum",
                   "coords": [
                         24.838852,
@@ -1280,7 +1280,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna mõisa peahoone",
-                  "text": "Clădirea principală a conacului istoric Kurna.",
+                  "text": "Clădirea principală a conacului Kurna pe Dealul Tuuliku.",
                   "category": "historical",
                   "coords": [
                         24.84234,
@@ -1289,7 +1289,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Gross Sausti Mõis",
-                  "text": "Fostul conac Sausti din Tuuliku-Mägi.",
+                  "text": "Conacul Gross Sausti pe Dealul Tuuliku.",
                   "category": "historical",
                   "coords": [
                         24.780173,
@@ -1309,7 +1309,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Luige näituseväljak",
-                  "text": "An exhibition ground and event venue in Tuuliku-Mägi.",
+                  "text": "Luige exhibition ground on Tuuliku Hill.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
@@ -1318,7 +1318,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna küla kultuuritunnel",
-                  "text": "A cultural gallery space located in the village of Kurna.",
+                  "text": "Kurna village cultural tunnel under Tuuliku Hill.",
                   "category": "museum",
                   "coords": [
                         24.838852,
@@ -1327,7 +1327,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kurna mõisa peahoone",
-                  "text": "The main building of the historic Kurna manor.",
+                  "text": "Kurna manor main building on Tuuliku Hill.",
                   "category": "historical",
                   "coords": [
                         24.84234,
@@ -1336,7 +1336,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Gross Sausti Mõis",
-                  "text": "The former Sausti manor house in Tuuliku-Mägi.",
+                  "text": "Gross Sausti manor house on Tuuliku Hill.",
                   "category": "historical",
                   "coords": [
                         24.780173,
@@ -1438,7 +1438,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "Ein lokaler Badeplatz in der Region Suure-Oja.",
+                  "text": "Kullisilla Badeplatz in der Suure Oja Senke.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -1449,7 +1449,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "Helyi fürdőhely a Suure-Oja régióban.",
+                  "text": "Kullisilla fürdőhely a Suure Oja mélyedésben.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -1460,7 +1460,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "O zonă locală de scăldat situată în regiunea Suure-Oja.",
+                  "text": "Loc de înot Kullisilla în Depresiunea Suure Oja.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -1471,7 +1471,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "A local swimming area located in the Suure-Oja region.",
+                  "text": "Kullisilla swimming spot in the Suure Oja depression.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -1528,7 +1528,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Selgemäe ujumiskoht",
-                  "text": "Selgemäe ujumiskoht ist eine Badestelle in der Region Kivi-Mägi.",
+                  "text": "Selgemäe Badeplatz auf der Kivi-Hügelspitze.",
                   "category": "recreational",
                   "coords": [
                         25.244652,
@@ -1539,7 +1539,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Selgemäe ujumiskoht",
-                  "text": "A Selgemäe ujumiskoht egy fürdőhely a Kivi-Mägi régióban.",
+                  "text": "Selgemäe fürdőhely a Kivi-dombcsúcson.",
                   "category": "recreational",
                   "coords": [
                         25.244652,
@@ -1550,7 +1550,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Selgemäe ujumiskoht",
-                  "text": "Selgemäe ujumiskoht este o zonă de înot situată în regiunea Kivi-Mägi.",
+                  "text": "Loc de înot Selgemäe pe Vârful Dealului Kivi.",
                   "category": "recreational",
                   "coords": [
                         25.244652,
@@ -1561,7 +1561,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Selgemäe ujumiskoht",
-                  "text": "Selgemäe ujumiskoht is a swimming area situated in the Kivi-Mägi region.",
+                  "text": "Selgemäe swimming spot on Kivi Hill peak.",
                   "category": "recreational",
                   "coords": [
                         25.244652,
@@ -1618,7 +1618,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Nõo veskijärve supelrand",
-                  "text": "Strand am Veskijärv-See bei Nõo.",
+                  "text": "Nõo Mühlenteich-Strand am Silla-Hügel.",
                   "category": "recreational",
                   "coords": [
                         26.523973,
@@ -1627,7 +1627,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tõravere tiigi supelrand",
-                  "text": "Strand am Tõravere-Teich.",
+                  "text": "Tõravere Teich-Strand am Silla-Hügel.",
                   "category": "recreational",
                   "coords": [
                         26.469564,
@@ -1636,7 +1636,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Voika supelrand",
-                  "text": "Voika-Badestrand bei Silla-Mägi.",
+                  "text": "Voika Strand am Silla-Hügel.",
                   "category": "recreational",
                   "coords": [
                         26.479208,
@@ -1647,7 +1647,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Nõo veskijärve supelrand",
-                  "text": "Strand a Nõo melletti Veskijärv-tónál.",
+                  "text": "Nõo malomtó-strand a Silla-dombon.",
                   "category": "recreational",
                   "coords": [
                         26.523973,
@@ -1656,7 +1656,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tõravere tiigi supelrand",
-                  "text": "Strand a Tõravere-tónál.",
+                  "text": "Tõravere tó-parti strand a Silla-dombon.",
                   "category": "recreational",
                   "coords": [
                         26.469564,
@@ -1665,7 +1665,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Voika supelrand",
-                  "text": "Voika strand Silla-Mägi közelében.",
+                  "text": "Voika strand a Silla-dombon.",
                   "category": "recreational",
                   "coords": [
                         26.479208,
@@ -1676,7 +1676,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Nõo veskijärve supelrand",
-                  "text": "Plajă la lacul Veskijärv de lângă Nõo.",
+                  "text": "Plaja iazului morii Nõo pe Dealul Silla.",
                   "category": "recreational",
                   "coords": [
                         26.523973,
@@ -1685,7 +1685,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tõravere tiigi supelrand",
-                  "text": "Plajă la iazul Tõravere.",
+                  "text": "Plaja iazului Tõravere pe Dealul Silla.",
                   "category": "recreational",
                   "coords": [
                         26.469564,
@@ -1694,7 +1694,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Voika supelrand",
-                  "text": "Plaja Voika lângă Silla-Mägi.",
+                  "text": "Plaja Voika pe Dealul Silla.",
                   "category": "recreational",
                   "coords": [
                         26.479208,
@@ -1705,7 +1705,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Nõo veskijärve supelrand",
-                  "text": "Beach at Veskijärv lake near Nõo.",
+                  "text": "Nõo mill pond beach on Silla Hill.",
                   "category": "recreational",
                   "coords": [
                         26.523973,
@@ -1714,7 +1714,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tõravere tiigi supelrand",
-                  "text": "Beach at Tõravere pond.",
+                  "text": "Tõravere pond beach on Silla Hill.",
                   "category": "recreational",
                   "coords": [
                         26.469564,
@@ -1723,7 +1723,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Voika supelrand",
-                  "text": "Voika beach near Silla-Mägi.",
+                  "text": "Voika beach on Silla Hill.",
                   "category": "recreational",
                   "coords": [
                         26.479208,
@@ -1960,7 +1960,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Küti järve supelrand",
-                  "text": "Badestrand am Küti-See bei Mustamäe.",
+                  "text": "Küti See-Strand am Must-Hügel.",
                   "category": "recreational",
                   "coords": [
                         26.819372,
@@ -1971,7 +1971,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Küti järve supelrand",
-                  "text": "Strand a Küti-tónál, Mustamäe közelében.",
+                  "text": "Küti-tavi strand a Must-dombon.",
                   "category": "recreational",
                   "coords": [
                         26.819372,
@@ -1982,7 +1982,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Küti järve supelrand",
-                  "text": "Plajă la lacul Küti, lângă Mustamäe.",
+                  "text": "Plaja Lacului Küti pe Dealul Must.",
                   "category": "recreational",
                   "coords": [
                         26.819372,
@@ -1993,7 +1993,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Küti järve supelrand",
-                  "text": "Beach at Küti Lake near Mustamäe.",
+                  "text": "Küti Lake beach on Must Hill.",
                   "category": "recreational",
                   "coords": [
                         26.819372,
@@ -2275,7 +2275,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Kuremaa järve Änkküla supelrand",
-                  "text": "Strand am Kuremaa-See bei Änkküla.",
+                  "text": "Kuremaa See Änkküla Strand am Vana-Hügel.",
                   "category": "recreational",
                   "coords": [
                         26.540911,
@@ -2313,7 +2313,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Kuremaa järve Änkküla supelrand",
-                  "text": "Strand a Kuremaa-tónál, Änkküla közelében.",
+                  "text": "Kuremaa-tó Änkküla strandja a Vana-dombon.",
                   "category": "recreational",
                   "coords": [
                         26.540911,
@@ -2351,7 +2351,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Kuremaa järve Änkküla supelrand",
-                  "text": "Plajă la lacul Kuremaa lângă Änkküla.",
+                  "text": "Plaja Änkküla a Lacului Kuremaa pe Dealul Vana.",
                   "category": "recreational",
                   "coords": [
                         26.540911,
@@ -2389,7 +2389,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Kuremaa järve Änkküla supelrand",
-                  "text": "Beach at Kuremaa Lake near Änkküla.",
+                  "text": "Kuremaa Lake's Änkküla beach on Vana Hill.",
                   "category": "recreational",
                   "coords": [
                         26.540911,
@@ -2473,7 +2473,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Härgesoo tiigi supelrand",
-                  "text": "Strand am Teich Härgesoo.",
+                  "text": "Härgesoo Teich-Strand auf dem Liiva-Hügelkamm.",
                   "category": "recreational",
                   "coords": [
                         24.482588,
@@ -2511,7 +2511,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Härgesoo tiigi supelrand",
-                  "text": "Strand a Härgesoo-tónál.",
+                  "text": "Härgesoo tó-parti strand a Liiva-dombgerincen.",
                   "category": "recreational",
                   "coords": [
                         24.482588,
@@ -2549,7 +2549,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Härgesoo tiigi supelrand",
-                  "text": "Plajă la iazul Härgesoo.",
+                  "text": "Plaja iazului Härgesoo pe Creasta Dealului Liiva.",
                   "category": "recreational",
                   "coords": [
                         24.482588,
@@ -2587,7 +2587,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Härgesoo tiigi supelrand",
-                  "text": "Beach at Härgesoo pond.",
+                  "text": "Härgesoo pond beach on Liiva Hill ridge.",
                   "category": "recreational",
                   "coords": [
                         24.482588,
@@ -2716,7 +2716,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Boose supelrand",
-                  "text": "Strand nahe Suure Mägi.",
+                  "text": "Boose Strand nahe der Suure-Hügelspitze.",
                   "category": "recreational",
                   "coords": [
                         26.470474,
@@ -2725,7 +2725,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vana-Antsla supelrand",
-                  "text": "Der Vana-Antsla-Badestrand liegt in der Nähe des Suure Mägi Gipfels.",
+                  "text": "Vana-Antsla Strand auf der Suure-Hügelspitze.",
                   "category": "recreational",
                   "coords": [
                         26.523832,
@@ -2734,7 +2734,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Nässmõisa järve supelrand",
-                  "text": "Der Nässmõisa-See-Badestrand liegt bei Suure Mägi.",
+                  "text": "Nässmõisa See-Strand auf der Suure-Hügelspitze.",
                   "category": "recreational",
                   "coords": [
                         26.532078,
@@ -2770,7 +2770,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Liikluslinn",
-                  "text": "Liikluslinn ist ein Freizeitpark in Suure-Mägi.",
+                  "text": "Liikluslinn Verkehrsübungsplatz auf der Suure-Hügelspitze.",
                   "category": "recreational",
                   "coords": [
                         26.55025,
@@ -2781,7 +2781,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Boose supelrand",
-                  "text": "Strand a Suure Mägi közelében.",
+                  "text": "Boose strand a Suure-dombcsúcs közelében.",
                   "category": "recreational",
                   "coords": [
                         26.470474,
@@ -2790,7 +2790,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vana-Antsla supelrand",
-                  "text": "A Vana-Antsla strand a Suure Mägi csúcs közelében található.",
+                  "text": "Vana-Antsla strand a Suure-dombcsúcson.",
                   "category": "recreational",
                   "coords": [
                         26.523832,
@@ -2799,7 +2799,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Nässmõisa järve supelrand",
-                  "text": "A Nässmõisa-tavi strand Suure Mägi közelében fekszik.",
+                  "text": "Nässmõisa-tavi strand a Suure-dombcsúcson.",
                   "category": "recreational",
                   "coords": [
                         26.532078,
@@ -2835,7 +2835,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Liikluslinn",
-                  "text": "Liikluslinn egy élménypark Suure-Mägiben.",
+                  "text": "Liikluslinn forgalmi gyakorlópálya a Suure-dombcsúcson.",
                   "category": "recreational",
                   "coords": [
                         26.55025,
@@ -2846,7 +2846,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Boose supelrand",
-                  "text": "Plajă lângă Suure Mägi.",
+                  "text": "Plaja Boose lângă Vârful Dealului Suure.",
                   "category": "recreational",
                   "coords": [
                         26.470474,
@@ -2855,7 +2855,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vana-Antsla supelrand",
-                  "text": "Plaja Vana-Antsla este situată lângă vârful Suure Mägi.",
+                  "text": "Plaja Vana-Antsla pe Vârful Dealului Suure.",
                   "category": "recreational",
                   "coords": [
                         26.523832,
@@ -2864,7 +2864,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Nässmõisa järve supelrand",
-                  "text": "Plaja de pe lacul Nässmõisa se află lângă Suure Mägi.",
+                  "text": "Plaja Lacului Nässmõisa pe Vârful Dealului Suure.",
                   "category": "recreational",
                   "coords": [
                         26.532078,
@@ -2900,7 +2900,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Liikluslinn",
-                  "text": "Liikluslinn este un parc tematic situat în Suure-Mägi.",
+                  "text": "Parcul de circulație Liikluslinn pe Vârful Dealului Suure.",
                   "category": "recreational",
                   "coords": [
                         26.55025,
@@ -2911,7 +2911,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Boose supelrand",
-                  "text": "Beach near Suure Mägi.",
+                  "text": "Boose beach near Suure Hill peak.",
                   "category": "recreational",
                   "coords": [
                         26.470474,
@@ -2920,7 +2920,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Vana-Antsla supelrand",
-                  "text": "Vana-Antsla beach is located near the Suure Mägi peak.",
+                  "text": "Vana-Antsla beach on Suure Hill peak.",
                   "category": "recreational",
                   "coords": [
                         26.523832,
@@ -2929,7 +2929,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Nässmõisa järve supelrand",
-                  "text": "Nässmõisa lake beach is located near Suure Mägi.",
+                  "text": "Nässmõisa Lake beach on Suure Hill peak.",
                   "category": "recreational",
                   "coords": [
                         26.532078,
@@ -2965,7 +2965,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Liikluslinn",
-                  "text": "Liikluslinn is a theme park located in Suure-Mägi.",
+                  "text": "Liikluslinn traffic training park on Suure Hill peak.",
                   "category": "recreational",
                   "coords": [
                         26.55025,
@@ -3112,7 +3112,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Uuesalu Liivajärve supelrand",
-                  "text": "Strand am Liivajärv-See bei Uuesalu.",
+                  "text": "Uuesalu Sandsee-Strand auf dem Pae-Hügel.",
                   "category": "recreational",
                   "coords": [
                         24.8163,
@@ -3184,7 +3184,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Järveküla Spordihoone ujula",
-                  "text": "Ein Schwimmbad bei Pae-Mägi.",
+                  "text": "Schwimmbad der Sporthalle Järveküla auf dem Pae-Hügel.",
                   "category": "recreational",
                   "coords": [
                         24.821497,
@@ -3195,7 +3195,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Uuesalu Liivajärve supelrand",
-                  "text": "Strand az Uuesalu melletti Liivajärv-tónál.",
+                  "text": "Uuesalu Homok-tó strandja a Pae-dombon.",
                   "category": "recreational",
                   "coords": [
                         24.8163,
@@ -3267,7 +3267,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Järveküla Spordihoone ujula",
-                  "text": "Úszómedence Pae-Mägi területén.",
+                  "text": "Järveküla sportcsarnok uszodája a Pae-dombon.",
                   "category": "recreational",
                   "coords": [
                         24.821497,
@@ -3278,7 +3278,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Uuesalu Liivajärve supelrand",
-                  "text": "Plajă la lacul Liivajärv lângă Uuesalu.",
+                  "text": "Plaja Uuesalu a Lacului de Nisip pe Dealul Pae.",
                   "category": "recreational",
                   "coords": [
                         24.8163,
@@ -3350,7 +3350,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Järveküla Spordihoone ujula",
-                  "text": "O piscină în zona Pae-Mägi.",
+                  "text": "Piscina sălii de sport Järveküla pe Dealul Pae.",
                   "category": "recreational",
                   "coords": [
                         24.821497,
@@ -3361,7 +3361,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Uuesalu Liivajärve supelrand",
-                  "text": "Beach at Liivajärv lake near Uuesalu.",
+                  "text": "Uuesalu Liivajärve (Sand Lake) beach on Pae Hill.",
                   "category": "recreational",
                   "coords": [
                         24.8163,
@@ -3433,7 +3433,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Järveküla Spordihoone ujula",
-                  "text": "A swimming pool in the Pae-Mägi area.",
+                  "text": "Järveküla sports hall swimming pool on Pae Hill.",
                   "category": "recreational",
                   "coords": [
                         24.821497,
@@ -3490,7 +3490,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Veisjärve supelrand",
-                  "text": "Badestrand am Veisjärv-See beim Oja-Mägi-Hügel.",
+                  "text": "Veisjärve See-Strand am Oja-Hügel.",
                   "category": "recreational",
                   "coords": [
                         25.769949,
@@ -3510,7 +3510,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Veisjärve supelrand",
-                  "text": "Veisjärv-tavi strand az Oja Magi dombnál.",
+                  "text": "Veisjärve-tavi strand az Oja-dombon.",
                   "category": "recreational",
                   "coords": [
                         25.769949,
@@ -3530,7 +3530,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Veisjärve supelrand",
-                  "text": "Plaja lacului Veisjärv lângă dealul Oja Magi.",
+                  "text": "Plaja Lacului Veisjärve pe Dealul Oja.",
                   "category": "recreational",
                   "coords": [
                         25.769949,
@@ -3550,7 +3550,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Veisjärve supelrand",
-                  "text": "Veisjärv lake beach near Oja Magi Hill.",
+                  "text": "Veisjärve Lake beach on Oja Hill.",
                   "category": "recreational",
                   "coords": [
                         25.769949,
@@ -3616,7 +3616,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Naturschutzgebiet Alam-Pedja",
-                  "text": "Das Alam-Pedja-Naturschutzgebiet ist eines der größten Schutzgebiete Estlands.",
+                  "text": "Größtes Naturschutzgebiet Estlands mit Auen und Mooren im Bereich Kruusa Rida.",
                   "category": "natural",
                   "coords": [
                         26.19654,
@@ -3627,7 +3627,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Alam-Pedja looduskaitseala",
-                  "text": "Az Alam-Pedja természetvédelmi terület Észtország egyik legnagyobb védett területe.",
+                  "text": "Észtország legnagyobb természetvédelmi területe ártéri erdőkkel és lápokkal a Kruusa Rida vonalában.",
                   "category": "natural",
                   "coords": [
                         26.19654,
@@ -3638,7 +3638,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Alam-Pedja looduskaitseala",
-                  "text": "Rezervația naturală Alam-Pedja este una dintre cele mai mari zone protejate din Estonia.",
+                  "text": "Cea mai mare rezervație naturală din Estonia, cu lunci inundabile și mlaștini în zona Crucii Rida.",
                   "category": "natural",
                   "coords": [
                         26.19654,
@@ -3649,7 +3649,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Alam-Pedja Nature Reserve",
-                  "text": "Alam-Pedja Nature Reserve is one of the largest nature reserves in Estonia.",
+                  "text": "Largest nature reserve in Estonia, a mosaic of floodplains and bogs in the Kruusa Rida area.",
                   "category": "natural",
                   "coords": [
                         26.19654,
@@ -3841,7 +3841,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Mehikoorma supelrand",
-                  "text": "Badestrand Mehikoorma am Piiri Magi Hügel.",
+                  "text": "Mehikoorma Strand am Piiri-Hügel.",
                   "category": "recreational",
                   "coords": [
                         27.476919,
@@ -3850,7 +3850,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Mehikoorma tuletorni supelrand",
-                  "text": "Badestrand am Leuchtturm von Mehikoorma, Piiri Magi Hügel.",
+                  "text": "Mehikoorma Leuchtturm-Strand am Piiri-Hügel.",
                   "category": "recreational",
                   "coords": [
                         27.476502,
@@ -3861,7 +3861,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Mehikoorma supelrand",
-                  "text": "Mehikoorma strand a Piiri Magi domb közelében.",
+                  "text": "Mehikoorma strand a Piiri-dombon.",
                   "category": "recreational",
                   "coords": [
                         27.476919,
@@ -3870,7 +3870,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Mehikoorma tuletorni supelrand",
-                  "text": "Strand a Mehikoorma világítótoronynál, Piiri Magi domb.",
+                  "text": "Mehikoorma világítótorony-strand a Piiri-dombon.",
                   "category": "recreational",
                   "coords": [
                         27.476502,
@@ -3881,7 +3881,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Mehikoorma supelrand",
-                  "text": "Plaja Mehikoorma lângă Dealul Piiri Magi.",
+                  "text": "Plaja Mehikoorma pe Dealul Piiri.",
                   "category": "recreational",
                   "coords": [
                         27.476919,
@@ -3890,7 +3890,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Mehikoorma tuletorni supelrand",
-                  "text": "Plajă la farul din Mehikoorma, Dealul Piiri Magi.",
+                  "text": "Plaja farului Mehikoorma pe Dealul Piiri.",
                   "category": "recreational",
                   "coords": [
                         27.476502,
@@ -3901,7 +3901,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mehikoorma supelrand",
-                  "text": "Mehikoorma beach near Piiri Magi Hill.",
+                  "text": "Mehikoorma beach on Piiri Hill.",
                   "category": "recreational",
                   "coords": [
                         27.476919,
@@ -3910,7 +3910,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Mehikoorma tuletorni supelrand",
-                  "text": "Beach at the Mehikoorma lighthouse, Piiri Magi Hill.",
+                  "text": "Mehikoorma lighthouse beach on Piiri Hill.",
                   "category": "recreational",
                   "coords": [
                         27.476502,
@@ -4219,7 +4219,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ruu ujumiskoht",
-                  "text": "Eine Badestelle in der Nähe der Erhebung Ranna-Mägi.",
+                  "text": "Ruu Badeplatz am Ranna-Hügel.",
                   "category": "recreational",
                   "coords": [
                         25.190078,
@@ -4228,7 +4228,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tammiku ujumiskoht",
-                  "text": "Ein lokaler Badeplatz in der Region Ranna-Mägi.",
+                  "text": "Tammiku Badeplatz am Ranna-Hügel.",
                   "category": "recreational",
                   "coords": [
                         25.216228,
@@ -4275,7 +4275,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ruu ujumiskoht",
-                  "text": "Fürdőhely a Ranna-Mägi domb közelében.",
+                  "text": "Ruu fürdőhely a Ranna-dombon.",
                   "category": "recreational",
                   "coords": [
                         25.190078,
@@ -4284,7 +4284,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tammiku ujumiskoht",
-                  "text": "Helyi fürdőhely a Ranna-Mägi régióban.",
+                  "text": "Tammiku fürdőhely a Ranna-dombon.",
                   "category": "recreational",
                   "coords": [
                         25.216228,
@@ -4331,7 +4331,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ruu ujumiskoht",
-                  "text": "Un loc pentru scăldat situat în apropierea dealului Ranna-Mägi.",
+                  "text": "Loc de înot Ruu pe Dealul Ranna.",
                   "category": "recreational",
                   "coords": [
                         25.190078,
@@ -4340,7 +4340,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tammiku ujumiskoht",
-                  "text": "Un loc local pentru scăldat în regiunea Ranna-Mägi.",
+                  "text": "Loc de înot Tammiku pe Dealul Ranna.",
                   "category": "recreational",
                   "coords": [
                         25.216228,
@@ -4387,7 +4387,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Ruu ujumiskoht",
-                  "text": "A swimming spot located near the Ranna-Mägi hill.",
+                  "text": "Ruu swimming spot on Ranna Hill.",
                   "category": "recreational",
                   "coords": [
                         25.190078,
@@ -4396,7 +4396,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tammiku ujumiskoht",
-                  "text": "A local swimming spot in the Ranna-Mägi region.",
+                  "text": "Tammiku swimming spot on Ranna Hill.",
                   "category": "recreational",
                   "coords": [
                         25.216228,
@@ -4498,7 +4498,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Mulgi külamuuseum",
-                  "text": "Das Mulgi-Dorfmuseum ist ein lokales Museum, das in einem alten Schulhaus untergebracht ist.",
+                  "text": "Freilichtmuseum mit traditioneller Mulgi-Architektur in Kruusa Hari.",
                   "category": "museum",
                   "coords": [
                         25.341207,
@@ -4507,7 +4507,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "Ein Badeplatz in der Nähe des Kruusa-Hari-Rückens.",
+                  "text": "Badeplatz in der felsigen Landschaft des Kruusa-Hari-Kamms.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -4518,7 +4518,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Mulgi külamuuseum",
-                  "text": "A Mulgi falumúzeum egy régi iskolaépületben található helyi múzeum.",
+                  "text": "Szabadtéri múzeum hagyományos mulgi építészettel a Kruusa Hari-gerincen.",
                   "category": "museum",
                   "coords": [
                         25.341207,
@@ -4527,7 +4527,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "Fürdőhely a Kruusa-Hari-hátságnál.",
+                  "text": "Fürdőhely a Kruusa Hari-gerinc sziklás táján.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -4538,7 +4538,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Mulgi külamuuseum",
-                  "text": "Muzeul Satului Mulgi este un muzeu local situat într-o veche școală.",
+                  "text": "Muzeu în aer liber cu arhitectură tradițională Mulgi pe creasta Kruusa Hari.",
                   "category": "museum",
                   "coords": [
                         25.341207,
@@ -4547,7 +4547,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "Un loc de scăldat în zona crestei Kruusa-Hari.",
+                  "text": "Loc de înot în peisajul stâncos al crestei Kruusa Hari.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -4558,7 +4558,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mulgi Village Museum",
-                  "text": "Mulgi Village Museum is a local museum located in an old schoolhouse.",
+                  "text": "Open-air museum featuring traditional Mulgi architecture on Kruusa Hari Ridge.",
                   "category": "museum",
                   "coords": [
                         25.341207,
@@ -4567,7 +4567,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kullisilla ujumiskoht",
-                  "text": "A swimming area located in the Kruusa-Hari Ridge area.",
+                  "text": "Swimming spot amid the rocky landscape of Kruusa Hari Ridge.",
                   "category": "recreational",
                   "coords": [
                         25.280808,
@@ -4624,7 +4624,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Porkuni Kaieallika supelrand",
-                  "text": "Badestrand Kaieallika bei Porkuni.",
+                  "text": "Strand an der Kaieallika-Quelle auf dem Linna-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         26.202486,
@@ -4633,7 +4633,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Porkuni supelrand",
-                  "text": "Der Porkuni-Badestrand liegt bei der Linna Nukk Anhöhe.",
+                  "text": "Porkuni-Strand auf dem Linna-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         26.197601,
@@ -4671,7 +4671,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Porkuni Kaieallika supelrand",
-                  "text": "Kaieallika strand Porkuni közelében.",
+                  "text": "Strand a Kaieallika-forrásnál a Linna Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         26.202486,
@@ -4680,7 +4680,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Porkuni supelrand",
-                  "text": "A Porkuni strand a Linna Nukk magaslat közelében található.",
+                  "text": "Porkuni strand a Linna Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         26.197601,
@@ -4718,7 +4718,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Porkuni Kaieallika supelrand",
-                  "text": "Plaja Kaieallika lângă Porkuni.",
+                  "text": "Plajă la izvorul Kaieallika pe înălțimea Linna Nukk.",
                   "category": "recreational",
                   "coords": [
                         26.202486,
@@ -4727,7 +4727,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Porkuni supelrand",
-                  "text": "Plaja Porkuni este situată lângă dealul Linna Nukk.",
+                  "text": "Plaja Porkuni pe înălțimea Linna Nukk.",
                   "category": "recreational",
                   "coords": [
                         26.197601,
@@ -4765,7 +4765,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Porkuni Kaieallika supelrand",
-                  "text": "Kaieallika beach near Porkuni.",
+                  "text": "Beach at the Kaieallika spring on Linna Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         26.202486,
@@ -4774,7 +4774,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Porkuni supelrand",
-                  "text": "Porkuni beach is located near the Linna Nukk rise.",
+                  "text": "Porkuni beach on Linna Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         26.197601,
@@ -4858,7 +4858,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Badestrand von Räpina im Piiri-Tal.",
+                  "text": "Räpina-Strand im Piiri-Org-Tal.",
                   "category": "recreational",
                   "coords": [
                         27.529505,
@@ -4869,7 +4869,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Räpina strand a Piiri-völgyben.",
+                  "text": "Räpina strand a Piiri Org-völgyben.",
                   "category": "recreational",
                   "coords": [
                         27.529505,
@@ -4880,7 +4880,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Plaja Räpina în valea Piiri.",
+                  "text": "Plaja Räpina în Valea Piiri Org.",
                   "category": "recreational",
                   "coords": [
                         27.529505,
@@ -4891,7 +4891,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Räpina supelrand",
-                  "text": "Räpina beach in the Piiri Valley.",
+                  "text": "Räpina beach in Piiri Org Valley.",
                   "category": "recreational",
                   "coords": [
                         27.529505,
@@ -4948,7 +4948,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Jüri rand",
-                  "text": "Strand Jüri bei Tuuliku Nukk.",
+                  "text": "Jüris Strand auf dem Tuuliku-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         24.941188,
@@ -4957,7 +4957,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tuulevälja AÜ ujumiskoht",
-                  "text": "Badeplatz Tuulevälja in der Nähe der Tuuliku Nukk Anhöhe.",
+                  "text": "Badeplatz der Tuulevälja-Genossenschaft auf dem Tuuliku-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         24.952811,
@@ -4975,7 +4975,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
-                  "text": "Ein Museum in Tuuliku-Nukk, das der estnischen Freiheitsbewegung gewidmet ist.",
+                  "text": "Museum der estnischen Befreiungsbewegung in Lagedi auf dem Tuuliku-Nukk-Anstieg.",
                   "category": "museum",
                   "coords": [
                         24.940782,
@@ -5002,7 +5002,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lehmja muinasasula",
-                  "text": "Überreste einer eisenzeitlichen Siedlung in Tuuliku-Nukk.",
+                  "text": "Eisenzeitliche Siedlung von Lehmja auf dem Tuuliku-Nukk-Anstieg.",
                   "category": "historical",
                   "coords": [
                         24.883256,
@@ -5029,7 +5029,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Potuka ujumiskoht",
-                  "text": "Ein lokaler Badeplatz in der Gegend von Tuuliku-Nukk.",
+                  "text": "Badeplatz Potuka auf dem Tuuliku-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         24.940668,
@@ -5040,7 +5040,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Jüri rand",
-                  "text": "Jüri strand Tuuliku Nukk-nál.",
+                  "text": "Jüri strandja a Tuuliku Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         24.941188,
@@ -5049,7 +5049,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tuulevälja AÜ ujumiskoht",
-                  "text": "Tuulevälja fürdőhely a Tuuliku Nukk magaslat közelében.",
+                  "text": "Tuulevälja szövetkezet fürdőhelye a Tuuliku Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         24.952811,
@@ -5067,7 +5067,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
-                  "text": "Múzeum Tuuliku-Nukk településen, amely az észt szabadságmozgalomnak állít emléket.",
+                  "text": "Az észt felszabadító mozgalom múzeuma Lagediben a Tuuliku Nukk-emelkedőn.",
                   "category": "museum",
                   "coords": [
                         24.940782,
@@ -5094,7 +5094,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lehmja muinasasula",
-                  "text": "Vaskori település maradványai Tuuliku-Nukk területén.",
+                  "text": "Lehmja vaskori település a Tuuliku Nukk-emelkedőn.",
                   "category": "historical",
                   "coords": [
                         24.883256,
@@ -5121,7 +5121,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Potuka ujumiskoht",
-                  "text": "Helyi fürdőhely Tuuliku-Nukk területén.",
+                  "text": "Potuka fürdőhely a Tuuliku Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         24.940668,
@@ -5132,7 +5132,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Jüri rand",
-                  "text": "Plaja Jüri lângă Tuuliku Nukk.",
+                  "text": "Plaja lui Jüri pe înălțimea Tuuliku Nukk.",
                   "category": "recreational",
                   "coords": [
                         24.941188,
@@ -5141,7 +5141,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tuulevälja AÜ ujumiskoht",
-                  "text": "Loc de scăldat Tuulevälja lângă dealul Tuuliku Nukk.",
+                  "text": "Loc de înot al cooperativei Tuulevälja pe înălțimea Tuuliku Nukk.",
                   "category": "recreational",
                   "coords": [
                         24.952811,
@@ -5159,7 +5159,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
-                  "text": "Un muzeu în Tuuliku-Nukk dedicat mișcării de eliberare a Estoniei.",
+                  "text": "Muzeul Mișcării de Eliberare Estonă în Lagedi pe înălțimea Tuuliku Nukk.",
                   "category": "museum",
                   "coords": [
                         24.940782,
@@ -5186,7 +5186,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lehmja muinasasula",
-                  "text": "Vestigiile unei așezări din epoca fierului în Tuuliku-Nukk.",
+                  "text": "Așezarea din epoca fierului de la Lehmja pe înălțimea Tuuliku Nukk.",
                   "category": "historical",
                   "coords": [
                         24.883256,
@@ -5213,7 +5213,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Potuka ujumiskoht",
-                  "text": "O zonă locală de înot în zona Tuuliku-Nukk.",
+                  "text": "Loc de înot Potuka pe înălțimea Tuuliku Nukk.",
                   "category": "recreational",
                   "coords": [
                         24.940668,
@@ -5224,7 +5224,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Jüri rand",
-                  "text": "Jüri beach near Tuuliku Nukk.",
+                  "text": "Jüri's beach on Tuuliku Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         24.941188,
@@ -5233,7 +5233,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tuulevälja AÜ ujumiskoht",
-                  "text": "Tuulevälja swimming area near the Tuuliku Nukk rise.",
+                  "text": "Swimming spot of Tuulevälja cooperative on Tuuliku Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         24.952811,
@@ -5251,7 +5251,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Estonian Liberation Movement Museum at Lagedi",
-                  "text": "A museum in Tuuliku-Nukk dedicated to the Estonian liberation movement.",
+                  "text": "Museum of the Estonian Liberation Movement in Lagedi on Tuuliku Nukk Rise.",
                   "category": "museum",
                   "coords": [
                         24.940782,
@@ -5278,7 +5278,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "the iron-age settlement of Lehmja",
-                  "text": "The remains of an Iron Age settlement located in Tuuliku-Nukk.",
+                  "text": "Iron Age settlement of Lehmja on Tuuliku Nukk Rise.",
                   "category": "historical",
                   "coords": [
                         24.883256,
@@ -5305,7 +5305,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Potuka ujumiskoht",
-                  "text": "A local swimming area in the Tuuliku-Nukk area.",
+                  "text": "Potuka swimming spot on Tuuliku Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         24.940668,
@@ -5371,7 +5371,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kudina mõisa peahoone",
-                  "text": "Das Hauptgebäude des historischen Gutshofs von Kudina.",
+                  "text": "Hauptgebäude des Guts Kudina auf dem Vana-Nukk-Anstieg.",
                   "category": "historical",
                   "coords": [
                         26.69475,
@@ -5380,7 +5380,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Saare järve ujumiskoht",
-                  "text": "Ein Badeplatz am Saare-See in Vana-Nukk.",
+                  "text": "Badeplatz am Saare-See auf dem Vana-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         26.768336,
@@ -5400,7 +5400,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kudina mõisa peahoone",
-                  "text": "A történelmi Kudina-kúria főépülete.",
+                  "text": "A Kudina-kúria főépülete a Vana Nukk-emelkedőn.",
                   "category": "historical",
                   "coords": [
                         26.69475,
@@ -5409,7 +5409,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Saare järve ujumiskoht",
-                  "text": "Fürdőhely a Saare-tónál Vana-Nukk területén.",
+                  "text": "Fürdőhely a Saare-tónál a Vana Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         26.768336,
@@ -5429,7 +5429,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kudina mõisa peahoone",
-                  "text": "Clădirea principală a conacului istoric din Kudina.",
+                  "text": "Clădirea principală a conacului Kudina pe înălțimea Vana Nukk.",
                   "category": "historical",
                   "coords": [
                         26.69475,
@@ -5438,7 +5438,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Saare järve ujumiskoht",
-                  "text": "Un loc de scăldat la lacul Saare în Vana-Nukk.",
+                  "text": "Loc de înot la Lacul Saare pe înălțimea Vana Nukk.",
                   "category": "recreational",
                   "coords": [
                         26.768336,
@@ -5458,7 +5458,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Kudina mõisa peahoone",
-                  "text": "The main building of the historic Kudina manor estate.",
+                  "text": "Main building of Kudina Manor on Vana Nukk Rise.",
                   "category": "historical",
                   "coords": [
                         26.69475,
@@ -5467,7 +5467,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Saare järve ujumiskoht",
-                  "text": "A swimming area at Lake Saare in Vana-Nukk.",
+                  "text": "Swimming spot at Lake Saare on Vana Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         26.768336,
@@ -5524,7 +5524,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Maidla supelrand",
-                  "text": "Badestrand Maidla bei Liiva Nukk.",
+                  "text": "Maidla-Strand auf dem Liiva-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         24.580834,
@@ -5535,7 +5535,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Maidla supelrand",
-                  "text": "Maidla strand a Liiva Nukk közelében.",
+                  "text": "Maidla strand a Liiva Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         24.580834,
@@ -5546,7 +5546,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Maidla supelrand",
-                  "text": "Plaja Maidla lângă Liiva Nukk.",
+                  "text": "Plaja Maidla pe înălțimea Liiva Nukk.",
                   "category": "recreational",
                   "coords": [
                         24.580834,
@@ -5557,7 +5557,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Maidla supelrand",
-                  "text": "Maidla beach near Liiva Nukk.",
+                  "text": "Maidla beach on Liiva Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         24.580834,
@@ -5614,7 +5614,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Õepa",
-                  "text": "Historische Ruinen im Gebiet von Kadaka-Nukk.",
+                  "text": "Historische Stätte Õepa auf dem Kadaka-Nukk-Anstieg.",
                   "category": "historical",
                   "coords": [
                         24.242523,
@@ -5625,7 +5625,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Õepa",
-                  "text": "Történelmi romok Kadaka-Nukk területén.",
+                  "text": "Õepa történelmi helyszín a Kadaka Nukk-emelkedőn.",
                   "category": "historical",
                   "coords": [
                         24.242523,
@@ -5636,7 +5636,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Õepa",
-                  "text": "Ruine istorice situate în zona Kadaka-Nukk.",
+                  "text": "Situl istoric Õepa pe înălțimea Kadaka Nukk.",
                   "category": "historical",
                   "coords": [
                         24.242523,
@@ -5647,7 +5647,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Õepa",
-                  "text": "Historic ruins located in the Kadaka-Nukk area.",
+                  "text": "Õepa historical site on Kadaka Nukk Rise.",
                   "category": "historical",
                   "coords": [
                         24.242523,
@@ -5704,7 +5704,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Uhtjärve rand",
-                  "text": "Strand am Uhtjärv-See.",
+                  "text": "Strand am Uhtjärv-See auf dem Suure-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         26.550784,
@@ -5740,7 +5740,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tamme-Lauri tamm",
-                  "text": "Die Tamme-Lauri-Eiche ist der dickste und älteste Baum Estlands.",
+                  "text": "Älteste und dickste Eiche Estlands (über 1700 Jahre alt) bei Suure Nukk.",
                   "category": "landmark",
                   "coords": [
                         26.576691,
@@ -5769,7 +5769,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Uhtjärve rand",
-                  "text": "Strand az Uhtjärv-tónál.",
+                  "text": "Strand az Uhtjärv-tónál a Suure Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         26.550784,
@@ -5805,7 +5805,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tamme-Lauri tamm",
-                  "text": "A Tamme-Lauri tölgyfa Észtország legvastagabb és legöregebb fája.",
+                  "text": "Észtország legidősebb és legvastagabb tölgyfája (több mint 1700 éves) Suure Nukk közelében.",
                   "category": "landmark",
                   "coords": [
                         26.576691,
@@ -5834,7 +5834,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Uhtjärve rand",
-                  "text": "Plajă la lacul Uhtjärv.",
+                  "text": "Plajă la Lacul Uhtjärv pe înălțimea Suure Nukk.",
                   "category": "recreational",
                   "coords": [
                         26.550784,
@@ -5870,7 +5870,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tamme-Lauri tamm",
-                  "text": "Stejarul Tamme-Lauri este cel mai gros și mai bătrân copac din Estonia.",
+                  "text": "Cel mai bătrân și mai gros stejar din Estonia (peste 1700 de ani) lângă Suure Nukk.",
                   "category": "landmark",
                   "coords": [
                         26.576691,
@@ -5899,7 +5899,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Uhtjärve rand",
-                  "text": "Beach at Lake Uhtjärv.",
+                  "text": "Beach at Lake Uhtjärv on Suure Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         26.550784,
@@ -5935,7 +5935,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Tamme-Lauri tamm",
-                  "text": "The Tamme-Lauri oak is the thickest and oldest tree in Estonia.",
+                  "text": "Oldest and thickest oak tree in Estonia (over 1700 years old) near Suure Nukk.",
                   "category": "landmark",
                   "coords": [
                         26.576691,
@@ -6055,7 +6055,7 @@ export const estoniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Loo supelrand",
-                  "text": "Strand bei Loo.",
+                  "text": "Loo-Strand auf dem Pae-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         24.935139,
@@ -6064,7 +6064,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lagedi supelrand",
-                  "text": "Strand bei Lagedi.",
+                  "text": "Lagedi-Strand auf dem Pae-Nukk-Anstieg.",
                   "category": "recreational",
                   "coords": [
                         24.940831,
@@ -6075,7 +6075,7 @@ export const estoniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Loo supelrand",
-                  "text": "Strand Loonál.",
+                  "text": "Loo strand a Pae Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         24.935139,
@@ -6084,7 +6084,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lagedi supelrand",
-                  "text": "Strand Lagedi közelében.",
+                  "text": "Lagedi strand a Pae Nukk-emelkedőn.",
                   "category": "recreational",
                   "coords": [
                         24.940831,
@@ -6095,7 +6095,7 @@ export const estoniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Loo supelrand",
-                  "text": "Plajă lângă Loo.",
+                  "text": "Plaja Loo pe înălțimea Pae Nukk.",
                   "category": "recreational",
                   "coords": [
                         24.935139,
@@ -6104,7 +6104,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lagedi supelrand",
-                  "text": "Plajă lângă Lagedi.",
+                  "text": "Plaja Lagedi pe înălțimea Pae Nukk.",
                   "category": "recreational",
                   "coords": [
                         24.940831,
@@ -6115,7 +6115,7 @@ export const estoniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Loo supelrand",
-                  "text": "Beach near Loo.",
+                  "text": "Loo beach on Pae Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         24.935139,
@@ -6124,7 +6124,7 @@ export const estoniaReliefV2: POI[] = [
             },
             {
                   "name": "Lagedi supelrand",
-                  "text": "Beach near Lagedi.",
+                  "text": "Lagedi beach on Pae Nukk Rise.",
                   "category": "recreational",
                   "coords": [
                         24.940831,

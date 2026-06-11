@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraNorthkoreaNatureV2: POI[] = [
   {
-    id: "paektu-mountain-nature-v2",
+    id: "paektu-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Changbai Mountain West Slope",
+                  "text": "Ein Aussichtspunkt am Westhang des Changbai-Gebirges mit Blick auf den vulkanischen Gipfel und die umliegende Taiga.",
+                  "category": "natural",
+                  "coords": [
+                        128.02864,
+                        41.996986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Changbai Mountain West Slope",
+                  "text": "Kilátópont a Csangbaj-hegység nyugati lejtőjén, rálátással a vulkáni csúcsra és a környező tajgára.",
+                  "category": "natural",
+                  "coords": [
+                        128.02864,
+                        41.996986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Changbai Mountain West Slope",
+                  "text": "Un punct de observație pe versantul vestic al Munților Changbai, oferind o panoramă asupra vârfului vulcanic și a taigalei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        128.02864,
+                        41.996986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Changbai Mountain West Slope",
+                  "text": "A viewpoint on the western slope of the Changbai Mountains, overlooking the volcanic peak and the surrounding taiga.",
+                  "category": "natural",
+                  "coords": [
+                        128.02864,
+                        41.996986
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KP-10",
     coords: [128.055, 41.993],
@@ -147,7 +192,88 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       fr: ["Le paysage change radicalement au fil des saisons.", "Divisés en Kumgang intérieur, extérieur et maritime.", "Un centre important du bouddhisme coréen."],
     }, image: "/poi-images/kumgang-mountains-nature-v2.webp"},
   {
-    id: "taedong-river-nature-v2",
+    id: "taedong-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mansudae Art Theatre",
+                  "text": "Das 1976 eröffnete Mansudae-Kunsttheater in Pjöngjang ist ein großer Veranstaltungsort, an dem regelmäßig revolutionäre Opern und groß angelegte staatliche Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        125.748138,
+                        39.024013
+                  ]
+            },
+            {
+                  "name": "Pyongyang City People's Committee",
+                  "text": "Das Gebäude des Stadtvolkskomitees von Pjöngjang fungiert als Verwaltungssitz, der die lokale Verwaltung in der nordkoreanischen Hauptstadt überwacht.",
+                  "category": "historical",
+                  "coords": [
+                        125.747262,
+                        39.016652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansudae Art Theatre",
+                  "text": "Az 1976-ban megnyitott phenjani Manszude Művészeti Színház egy grandiózus helyszín, amely rendszeresen ad otthont forradalmi operáknak és nagyszabású állami előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.748138,
+                        39.024013
+                  ]
+            },
+            {
+                  "name": "Pyongyang City People's Committee",
+                  "text": "A Phenjan Városi Népi Bizottság épülete adminisztratív városházaként működik, amely az észak-koreai főváros helyi kormányzását felügyeli.",
+                  "category": "historical",
+                  "coords": [
+                        125.747262,
+                        39.016652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansudae Art Theatre",
+                  "text": "Deschis în 1976, Teatrul de Artă Mansudae din Phenian este un loc grandios care găzduiește în mod regulat opere revoluționare și spectacole de stat la scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        125.748138,
+                        39.024013
+                  ]
+            },
+            {
+                  "name": "Pyongyang City People's Committee",
+                  "text": "Clădirea Comitetului Popular al Orașului Phenian funcționează ca primărie administrativă care supraveghează guvernarea locală în capitala nord-coreeană.",
+                  "category": "historical",
+                  "coords": [
+                        125.747262,
+                        39.016652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansudae Art Theatre",
+                  "text": "Opened in 1976, the Mansudae Art Theatre in Pyongyang is a grand venue that regularly hosts revolutionary operas and large-scale state performances.",
+                  "category": "cultural",
+                  "coords": [
+                        125.748138,
+                        39.024013
+                  ]
+            },
+            {
+                  "name": "Pyongyang City People's Committee",
+                  "text": "The Pyongyang City People's Committee building functions as the administrative town hall overseeing local governance in the North Korean capital.",
+                  "category": "historical",
+                  "coords": [
+                        125.747262,
+                        39.016652
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KP-01",
     coords: [125.75, 39.02],
@@ -243,7 +369,160 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       fr: ["Environ 795 km de long.", "Le pont de l'amitié sino-coréenne traverse le fleuve à Sinuiju.", "Emplacement de plusieurs grandes centrales hydroélectriques."],
     }, image: "/poi-images/yalu-river-nature-v2.webp"},
   {
-    id: "tumen-river-nature-v2",
+    id: "tumen-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rear Russia-Korea maritime boundary",
+                  "text": "Ein Leuchtturm an der Mündung des Tumen-Flusses, der die Seegrenze zwischen Russland und Nordkorea markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        130.642778,
+                        42.335283
+                  ]
+            },
+            {
+                  "name": "Khasanskii prirodnyi park",
+                  "text": "Dieses Naturschutzgebiet schützt die Feuchtgebiete am Tumen-Fluss, wo Russland, China und Nordkorea aufeinandertreffen.",
+                  "category": "natural",
+                  "coords": [
+                        130.704526,
+                        42.390903
+                  ]
+            },
+            {
+                  "name": "Brücke der koreanisch-russischen Freundschaft",
+                  "text": "Diese 1959 fertiggestellte Eisenbahnbrücke über den Tumen-Fluss ist die einzige Landverbindung zwischen Russland und Nordkorea.",
+                  "category": "landmark",
+                  "coords": [
+                        130.640116,
+                        42.414659
+                  ]
+            },
+            {
+                  "name": "stolb trekh granits",
+                  "text": "Eine symbolische Grenzmarkierung am Dreiländereck, wo die Gebiete Russlands, Chinas und Nordkoreas zusammenkommen.",
+                  "category": "religious",
+                  "coords": [
+                        130.640165,
+                        42.420687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rear Russia-Korea maritime boundary",
+                  "text": "Világítótorony a Tumen-folyó torkolatánál, amely az Oroszország és Észak-Korea közötti tengeri határt jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        130.642778,
+                        42.335283
+                  ]
+            },
+            {
+                  "name": "Khasanskii prirodnyi park",
+                  "text": "Ez a természetvédelmi terület a Tumen-folyó menti vizenyős területeket óvja, ahol Oroszország, Kína és Észak-Korea határai találkoznak.",
+                  "category": "natural",
+                  "coords": [
+                        130.704526,
+                        42.390903
+                  ]
+            },
+            {
+                  "name": "Korea–Russia Friendship Bridge",
+                  "text": "A Tumen-folyón átívelő, 1959-ben elkészült vasúti híd az egyetlen szárazföldi összeköttetés Oroszország és Észak-Korea között.",
+                  "category": "landmark",
+                  "coords": [
+                        130.640116,
+                        42.414659
+                  ]
+            },
+            {
+                  "name": "stolb trekh granits",
+                  "text": "Szimbolikus határjelző a hármashatárnál, ahol Oroszország, Kína és Észak-Korea területei találkoznak.",
+                  "category": "religious",
+                  "coords": [
+                        130.640165,
+                        42.420687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rear Russia-Korea maritime boundary",
+                  "text": "Un far situat la gura de vărsare a râului Tumen, care marchează frontiera maritimă dintre Rusia și Coreea de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        130.642778,
+                        42.335283
+                  ]
+            },
+            {
+                  "name": "Khasanskii prirodnyi park",
+                  "text": "Această rezervație naturală protejează zonele umede de-a lungul râului Tumen, unde se întâlnesc granițele Rusiei, Chinei și Coreei de Nord.",
+                  "category": "natural",
+                  "coords": [
+                        130.704526,
+                        42.390903
+                  ]
+            },
+            {
+                  "name": "Korea–Russia Friendship Bridge",
+                  "text": "Acest pod feroviar peste râul Tumen, finalizat în 1959, este singura legătură terestră între Rusia și Coreea de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        130.640116,
+                        42.414659
+                  ]
+            },
+            {
+                  "name": "stolb trekh granits",
+                  "text": "Un marcaj de frontieră simbolic la punctul triplu, unde se întâlnesc teritoriile Rusiei, Chinei și Coreei de Nord.",
+                  "category": "religious",
+                  "coords": [
+                        130.640165,
+                        42.420687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rear Russia-Korea maritime boundary",
+                  "text": "A lighthouse at the mouth of the Tumen River, marking the maritime boundary between Russia and North Korea.",
+                  "category": "landmark",
+                  "coords": [
+                        130.642778,
+                        42.335283
+                  ]
+            },
+            {
+                  "name": "Khasansky Nature Park",
+                  "text": "This nature reserve protects the wetlands along the Tumen River where Russia, China, and North Korea meet.",
+                  "category": "natural",
+                  "coords": [
+                        130.704526,
+                        42.390903
+                  ]
+            },
+            {
+                  "name": "Korea–Russia Friendship Bridge",
+                  "text": "Completed in 1959, this railway bridge over the Tumen River is the only land link between Russia and North Korea.",
+                  "category": "landmark",
+                  "coords": [
+                        130.640116,
+                        42.414659
+                  ]
+            },
+            {
+                  "name": "stolb trekh granits",
+                  "text": "A symbolic border marker at the tripoint where the territories of Russia, China, and North Korea meet.",
+                  "category": "religious",
+                  "coords": [
+                        130.640165,
+                        42.420687
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KP-13",
     coords: [130.6, 42.4],
@@ -339,7 +618,124 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       fr: ["Environ 217 km de long.", "Lieu d'une bataille décisive lors de la guerre de Corée.", "Important pour l'irrigation des plaines environnantes."],
     }, image: "/poi-images/chongchon-river-nature-v2.webp"},
   {
-    id: "heaven-lake-nature-v2",
+    id: "heaven-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paektu Mountain",
+                  "text": "Der höchste Berg der Koreanischen Halbinsel, ein heiliger Vulkan mit einem tiefblauen Kratersee im Zentrum.",
+                  "category": "natural",
+                  "coords": [
+                        128.056396,
+                        42.007261
+                  ]
+            },
+            {
+                  "name": "Cliff Viewpoint",
+                  "text": "Ein schwindelerregender Aussichtspunkt an den Klippen oberhalb des Himmelssees, der weite Blicke über die Caldera bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.05862,
+                        42.048014
+                  ]
+            },
+            {
+                  "name": "Tempel",
+                  "text": "Ein kleiner taoistischer Schrein in der Nähe des heiligen Kratersees, der der spirituellen Bedeutung des Berges gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        128.057403,
+                        42.057836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paektu Mountain",
+                  "text": "A Koreai-félsziget legmagasabb hegye, egy szent vulkán, melynek közepén mélykék krátertó található.",
+                  "category": "natural",
+                  "coords": [
+                        128.056396,
+                        42.007261
+                  ]
+            },
+            {
+                  "name": "Cliff Viewpoint",
+                  "text": "Szédítő kilátópont a Mennyei-tó feletti sziklákon, ahonnan pazar kilátás nyílik a kalderára.",
+                  "category": "natural",
+                  "coords": [
+                        128.05862,
+                        42.048014
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Egy kis taoista szentély a szent krátertó közelében, amelyet a hegy spirituális jelentőségének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        128.057403,
+                        42.057836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paektu Mountain",
+                  "text": "Cel mai înalt munte din Peninsula Coreeană, un vulcan sacru cu un lac de crater de un albastru intens în centru.",
+                  "category": "natural",
+                  "coords": [
+                        128.056396,
+                        42.007261
+                  ]
+            },
+            {
+                  "name": "Cliff Viewpoint",
+                  "text": "Un punct de observație amețitor pe stâncile de deasupra Lacului Paradisului, oferind vederi largi asupra caldeirei.",
+                  "category": "natural",
+                  "coords": [
+                        128.05862,
+                        42.048014
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un mic altar taoist situat în apropierea lacului sacru din crater, dedicat semnificației spirituale a muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        128.057403,
+                        42.057836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paektu Mountain",
+                  "text": "The highest mountain on the Korean Peninsula, a sacred volcano featuring a deep blue crater lake at its center.",
+                  "category": "natural",
+                  "coords": [
+                        128.056396,
+                        42.007261
+                  ]
+            },
+            {
+                  "name": "Cliff Viewpoint",
+                  "text": "A dizzying viewpoint on the cliffs above Heaven Lake, offering expansive views across the volcanic caldera.",
+                  "category": "natural",
+                  "coords": [
+                        128.05862,
+                        42.048014
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A small Taoist shrine located near the sacred crater lake, dedicated to the mountain's spiritual significance.",
+                  "category": "landmark",
+                  "coords": [
+                        128.057403,
+                        42.057836
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KP-10",
     coords: [128.056, 42.006],
@@ -579,7 +975,160 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       fr: ["La région est connue pour ses vallées escarpées.", "Important pour la production d'électricité dans cette province isolée.", "La rivière est riche en populations de poissons."],
     }, image: "/poi-images/jangja-river-nature-v2.webp"},
   {
-    id: "imjin-river-nature-v2",
+    id: "imjin-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aegibong Peace Bell",
+                  "text": "Eine massive Bronzeglocke an einem hochgesicherten Aussichtspunkt direkt an der Grenze zu Nordkorea.",
+                  "category": "historical",
+                  "coords": [
+                        126.595833,
+                        37.755068
+                  ]
+            },
+            {
+                  "name": "Heiri Art Valley",
+                  "text": "Künstlerdorf mit avantgardistischer Architektur und über 50 Galerien für moderne Kunst und Literatur.",
+                  "category": "museum",
+                  "coords": [
+                        126.699009,
+                        37.78906
+                  ]
+            },
+            {
+                  "name": "Jangneung Royal Tomb, Paju",
+                  "text": "UNESCO-geschütztes Grab von König Injo mit traditionellen Joseon-Steinskulpturen inmitten eines Kiefernwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        126.709817,
+                        37.772626
+                  ]
+            },
+            {
+                  "name": "Aegibong Peace Ecopark",
+                  "text": "Modernes Observatorium mit Blick auf nordkoreanische Dörfer an der strategischen Mündung des Han-Flusses.",
+                  "category": "museum",
+                  "coords": [
+                        126.594105,
+                        37.753149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aegibong Peace Bell",
+                  "text": "Hatalmas bronzharang egy szigorúan őrzött kilátónál, közvetlenül az észak-koreai határnál.",
+                  "category": "historical",
+                  "coords": [
+                        126.595833,
+                        37.755068
+                  ]
+            },
+            {
+                  "name": "Heiri Art Valley",
+                  "text": "Művészfalu avantgárd építészettel és több mint 50 modern művészeti és irodalmi galériával.",
+                  "category": "museum",
+                  "coords": [
+                        126.699009,
+                        37.78906
+                  ]
+            },
+            {
+                  "name": "Jangneung Royal Tomb, Paju",
+                  "text": "UNESCO-listás sírhely Injo királynak, hagyományos Joseon-kori kőszobrokkal egy fenyőerdő közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.709817,
+                        37.772626
+                  ]
+            },
+            {
+                  "name": "Aegibong Peace Ecopark",
+                  "text": "Modern obszervatórium kilátással az észak-koreai falvakra a Han-folyó stratégiai torkolatánál.",
+                  "category": "museum",
+                  "coords": [
+                        126.594105,
+                        37.753149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aegibong Peace Bell",
+                  "text": "Un clopot masiv din bronz situat la un punct de observare cu securitate sporită de la granița cu Coreea de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        126.595833,
+                        37.755068
+                  ]
+            },
+            {
+                  "name": "Heiri Art Valley",
+                  "text": "Sat al artiștilor cu arhitectură avangardistă și peste 50 de galerii de artă modernă și literatură.",
+                  "category": "museum",
+                  "coords": [
+                        126.699009,
+                        37.78906
+                  ]
+            },
+            {
+                  "name": "Jangneung Royal Tomb, Paju",
+                  "text": "Sit funerar inclus în UNESCO al regelui Injo, cu sculpturi tradiționale în piatră din epoca Joseon într-o pădure de pini.",
+                  "category": "landmark",
+                  "coords": [
+                        126.709817,
+                        37.772626
+                  ]
+            },
+            {
+                  "name": "Aegibong Peace Ecopark",
+                  "text": "Observator modern cu vedere spre satele nord-coreene de peste estuarul strategic al râului Han.",
+                  "category": "museum",
+                  "coords": [
+                        126.594105,
+                        37.753149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aegibong Peace Bell",
+                  "text": "A massive bronze bell located at a high-security observatory overlooking North Korea.",
+                  "category": "historical",
+                  "coords": [
+                        126.595833,
+                        37.755068
+                  ]
+            },
+            {
+                  "name": "Heiri Art Valley",
+                  "text": "Village of artists and writers featuring avant-garde architecture and over 50 galleries for modern art and literature.",
+                  "category": "museum",
+                  "coords": [
+                        126.699009,
+                        37.78906
+                  ]
+            },
+            {
+                  "name": "Jangneung Royal Tomb, Paju",
+                  "text": "UNESCO-listed burial site of King Injo, featuring traditional Joseon stone sculptures set within a pine forest.",
+                  "category": "landmark",
+                  "coords": [
+                        126.709817,
+                        37.772626
+                  ]
+            },
+            {
+                  "name": "Aegibong Peace Ecopark",
+                  "text": "Modern observatory and eco-park offering views of North Korean villages across the strategic Han River estuary.",
+                  "category": "museum",
+                  "coords": [
+                        126.594105,
+                        37.753149
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KP-15",
     coords: [126.66, 37.8],
@@ -628,7 +1177,88 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
     }
   },
   {
-    id: "sapho-lake-nature-v2",
+    id: "sapho-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "SAM",
+                  "text": "Diese Ruinen ehemaliger militärischer Schutzwälle liegen verlassen in der Nähe des Sapho-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        127.560851,
+                        39.80083
+                  ]
+            },
+            {
+                  "name": "Samdo Beach",
+                  "text": "Der ruhige Sandstrand erstreckt sich entlang des klaren Wassers des Sapho-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        127.547869,
+                        39.771059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SAM",
+                  "text": "Ezek az egykori katonai védőművek romjai elhagyatottan állnak a Sapho-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        127.560851,
+                        39.80083
+                  ]
+            },
+            {
+                  "name": "Samdo Beach",
+                  "text": "A nyugodt, homokos tengerpart a Sapho-tó tiszta vize mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        127.547869,
+                        39.771059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SAM",
+                  "text": "Aceste ruine ale unor foste terasamente militare de protecție zac abandonate în apropierea lacului Sapho.",
+                  "category": "historical",
+                  "coords": [
+                        127.560851,
+                        39.80083
+                  ]
+            },
+            {
+                  "name": "Samdo Beach",
+                  "text": "Această plajă liniștită cu nisip se întinde de-a lungul apelor limpezi ale lacului Sapho.",
+                  "category": "recreational",
+                  "coords": [
+                        127.547869,
+                        39.771059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old SAM Revetment",
+                  "text": "These ruins of former military defensive revetments lie abandoned near the shores of Lake Sapho.",
+                  "category": "historical",
+                  "coords": [
+                        127.560851,
+                        39.80083
+                  ]
+            },
+            {
+                  "name": "Samdo Beach",
+                  "text": "This quiet sandy beach stretches along the clear waters of Lake Sapho.",
+                  "category": "recreational",
+                  "coords": [
+                        127.547869,
+                        39.771059
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KP-09",
     coords: [127.6, 39.8],
@@ -869,7 +1499,52 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       fr: ["L'un des plus grands producteurs de fruits du pays.", "Les forêts aident à réguler le microclimat pour l'arboriculture.", "Une zone modèle pour l'agroforesterie."],
     }, image: "/poi-images/kwail-county-forests-nature-v2.webp"},
   {
-    id: "manphung-lake-nature-v2",
+    id: "manphung-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kim Il-Sung Statue",
+                  "text": "Eine monumentale Bronzestatue, die über das Ufer des Manphung-Sees blickt.",
+                  "category": "historical",
+                  "coords": [
+                        125.777113,
+                        39.16949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kim Il-Sung Statue",
+                  "text": "Monumentális bronzszobor, amely a Manphung-tó partjára néz.",
+                  "category": "historical",
+                  "coords": [
+                        125.777113,
+                        39.16949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kim Il-Sung Statue",
+                  "text": "O statuie monumentală de bronz care domină malul lacului Manphung.",
+                  "category": "historical",
+                  "coords": [
+                        125.777113,
+                        39.16949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kim Il-Sung Statue",
+                  "text": "A monumental bronze statue overlooking the shores of the Manphung Lake.",
+                  "category": "historical",
+                  "coords": [
+                        125.777113,
+                        39.16949
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KP-01",
     coords: [125.68, 39.15],
@@ -917,7 +1592,52 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       fr: ["Fait partie d'un parc d'attractions.", "Populaire pour le canotage et les sports nautiques.", "Alimenté par les eaux de la rivière Taedong."],
     }, image: "/poi-images/manphung-lake-nature-v2.webp"},
   {
-    id: "ullim-falls-nature-v2",
+    id: "ullim-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ryongpho Revolutionary Historic Museum",
+                  "text": "Das Revolutionäre Historische Museum Ryongpho stellt regionale Artefakte aus, die die lokale politische Geschichte dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        127.09427,
+                        39.152393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ryongpho Revolutionary Historic Museum",
+                  "text": "A Rjongpho Forradalmi Történeti Múzeum regionális műtárgyakat állít ki, amelyek a helyi politikai történelmet dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        127.09427,
+                        39.152393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ryongpho Revolutionary Historic Museum",
+                  "text": "Muzeul Istoric Revoluționar Ryongpho expune artefacte regionale care documentează istoria politică locală.",
+                  "category": "museum",
+                  "coords": [
+                        127.09427,
+                        39.152393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ryongpho Revolutionary Historic Museum",
+                  "text": "The Ryongpho Revolutionary Historic Museum exhibits regional artifacts documenting the local political history.",
+                  "category": "museum",
+                  "coords": [
+                        127.09427,
+                        39.152393
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KP-07",
     coords: [127.1, 39.2],

@@ -70,7 +70,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Bruraskaret",
-                  "text": "Bruraskaret ist ein bekannter Aussichtspunkt am Rande der Trollveggen-Steilwand.",
+                  "text": "Der Gebirgspass Bruraskaret nahe der Trollveggen-Klippe.",
                   "category": "natural",
                   "coords": [
                         7.721816,
@@ -99,7 +99,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Bruraskaret",
-                  "text": "A Bruraskaret egy ismert kilátópont a Trollveggen szakadékának szélén.",
+                  "text": "A Bruraskaret hegyi hágó a Trollveggen sziklafal közelében.",
                   "category": "natural",
                   "coords": [
                         7.721816,
@@ -128,7 +128,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Bruraskaret",
-                  "text": "Bruraskaret este un punct de observație renumit situat pe marginea abruptă a peretelui Trollveggen.",
+                  "text": "Pasul montan Bruraskaret lângă stânca Trollveggen.",
                   "category": "natural",
                   "coords": [
                         7.721816,
@@ -157,7 +157,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Bruraskaret",
-                  "text": "Bruraskaret is a well-known viewpoint on the edge of the Trollveggen precipice.",
+                  "text": "Bruraskaret mountain pass near Trollveggen cliff.",
                   "category": "natural",
                   "coords": [
                         7.721816,
@@ -1258,7 +1258,7 @@ export const norwayReliefV2: POI[] = [
       "de": [
             {
                   "name": "Holmevassnosi",
-                  "text": "Ein Berggipfel im Breheimen-Gebirge in Norwegen.",
+                  "text": "Die Holmevassnosi ist ein 1680 m hoher Gipfel mit Blick auf den Holmevatnet-See im Breheimen-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         7.45562,
@@ -1269,7 +1269,7 @@ export const norwayReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Holmevassnosi",
-                  "text": "Hegycsúcs a norvégiai Breheimen-hegységben.",
+                  "text": "A Holmevassnosi egy 1680 m magas csúcs, amely a Holmevatnet-tóra néz a Breheimen-hegységben.",
                   "category": "landmark",
                   "coords": [
                         7.45562,
@@ -1280,7 +1280,7 @@ export const norwayReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Holmevassnosi",
-                  "text": "Un vârf muntos în munții Breheimen din Norvegia.",
+                  "text": "Holmevassnosi este un vârf de 1680 m care domină lacul Holmevatnet în munții Breheimen.",
                   "category": "landmark",
                   "coords": [
                         7.45562,
@@ -1291,7 +1291,7 @@ export const norwayReliefV2: POI[] = [
       "en": [
             {
                   "name": "Holmevassnosi",
-                  "text": "A mountain peak in the Breheimen Mountains of Norway.",
+                  "text": "Holmevassnosi is a 1680 m peak overlooking Lake Holmevatnet in the Breheimen Mountains.",
                   "category": "landmark",
                   "coords": [
                         7.45562,
@@ -1483,7 +1483,7 @@ export const norwayReliefV2: POI[] = [
       "de": [
             {
                   "name": "Stetinden",
-                  "text": "Ein markanter Berggipfel in Stetind.",
+                  "text": "Der Stetinden ist der Nationalberg Norwegens, ein 1392 m hoher Granitmonolith in der Gemeinde Steigen.",
                   "category": "landmark",
                   "coords": [
                         16.592781,
@@ -1494,7 +1494,7 @@ export const norwayReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Stetinden",
-                  "text": "Jellegzetes hegycsúcs Stetind környékén.",
+                  "text": "A Stetinden Norvégia nemzeti hegye, egy 1392 m magas gránit monolit Steigen községben.",
                   "category": "landmark",
                   "coords": [
                         16.592781,
@@ -1505,7 +1505,7 @@ export const norwayReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Stetinden",
-                  "text": "Un vârf muntos proeminent situat în Stetind.",
+                  "text": "Stetinden este muntele național al Norvegiei, un monolit de granit de 1392 m în comuna Steigen.",
                   "category": "landmark",
                   "coords": [
                         16.592781,
@@ -1516,7 +1516,7 @@ export const norwayReliefV2: POI[] = [
       "en": [
             {
                   "name": "Stetinden",
-                  "text": "A prominent mountain peak located in Stetind.",
+                  "text": "Stetinden is Norway's national mountain, a 1392 m high granite monolith in Steigen.",
                   "category": "landmark",
                   "coords": [
                         16.592781,
@@ -1879,7 +1879,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Skudenibbå",
-                  "text": "Ein Aussichtspunkt mit Blick auf das Gebiet Frafjord in Norwegen.",
+                  "text": "Der Gipfel Skudenibbå im Frafjord-Tal.",
                   "category": "natural",
                   "coords": [
                         6.285452,
@@ -1908,7 +1908,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Skudenibbå",
-                  "text": "A norvégiai Frafjord környékére néző kilátóhely.",
+                  "text": "A Skudenibbå csúcs a Frafjord-völgyben.",
                   "category": "natural",
                   "coords": [
                         6.285452,
@@ -1937,7 +1937,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Skudenibbå",
-                  "text": "Un punct de belvedere cu vedere spre zona Frafjord din Norvegia.",
+                  "text": "Vârful Skudenibbå în valea Frafjord.",
                   "category": "natural",
                   "coords": [
                         6.285452,
@@ -1966,7 +1966,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Skudenibbå",
-                  "text": "A viewpoint overlooking the Frafjord area in Norway.",
+                  "text": "Skudenibbå peak in Frafjord valley.",
                   "category": "natural",
                   "coords": [
                         6.285452,
@@ -2239,7 +2239,7 @@ export const norwayReliefV2: POI[] = [
       "de": [
             {
                   "name": "Storskogan naturreservat",
-                  "text": "Das Storskogan naturreservat ist ein geschütztes Naturgebiet in der Region Namdalen.",
+                  "text": "1993 eingerichtetes Naturschutzgebiet im Namdalen-Tal.",
                   "category": "natural",
                   "coords": [
                         11.981645,
@@ -2268,7 +2268,7 @@ export const norwayReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Storskogan naturreservat",
-                  "text": "A Storskogan naturreservat egy védett természeti terület Namdalen régiójában.",
+                  "text": "1993-ban létesített természetvédelmi terület a Namdalen-völgyben.",
                   "category": "natural",
                   "coords": [
                         11.981645,
@@ -2297,7 +2297,7 @@ export const norwayReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Storskogan naturreservat",
-                  "text": "Rezervația naturală Storskogan este o zonă naturală protejată din regiunea Namdalen.",
+                  "text": "Rezervație naturală înființată în 1993 în Valea Namdalen.",
                   "category": "natural",
                   "coords": [
                         11.981645,
@@ -2326,7 +2326,7 @@ export const norwayReliefV2: POI[] = [
       "en": [
             {
                   "name": "Storskogan naturreservat",
-                  "text": "Storskogan naturreservat is a protected nature reserve in the Namdalen region.",
+                  "text": "Nature reserve established in 1993 in the Namdalen Valley.",
                   "category": "natural",
                   "coords": [
                         11.981645,
@@ -2410,7 +2410,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Tokkeåi naturreservat",
-                  "text": "Ein geschütztes Naturreservat in den Telemark Highlands.",
+                  "text": "Naturschutzgebiet entlang des Flusses Tokkeåi im Telemark-Hochland, geschützt seit 2016.",
                   "category": "natural",
                   "coords": [
                         7.976498,
@@ -2437,7 +2437,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Brynesteinbrot",
-                  "text": "Ein historischer Steinbruch in den Telemark Highlands.",
+                  "text": "Der Wetzsteinbruch Brynesteinbrot im Hochland von Telemark.",
                   "category": "landmark",
                   "coords": [
                         8.033875,
@@ -2457,7 +2457,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Tokkeåi naturreservat",
-                  "text": "Védett természetvédelmi terület a Telemark-felföldön.",
+                  "text": "Természetvédelmi terület a Tokkeåi folyó mentén a Telemark-felföldön, 2016 óta védett.",
                   "category": "natural",
                   "coords": [
                         7.976498,
@@ -2484,7 +2484,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Brynesteinbrot",
-                  "text": "Történelmi kőfejtő a Telemark-felföldön.",
+                  "text": "A Brynesteinbrot fenőkőbánya a Telemark-felföldön.",
                   "category": "landmark",
                   "coords": [
                         8.033875,
@@ -2504,7 +2504,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Tokkeåi naturreservat",
-                  "text": "O rezervație naturală protejată în regiunea muntoasă Telemark.",
+                  "text": "Rezervație naturală de-a lungul râului Tokkeåi în Podișul Telemark, protejată din 2016.",
                   "category": "natural",
                   "coords": [
                         7.976498,
@@ -2531,7 +2531,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Brynesteinbrot",
-                  "text": "O carieră de piatră istorică în regiunea Telemark.",
+                  "text": "Cariera de piatră de ascuțit Brynesteinbrot în podișul Telemark.",
                   "category": "landmark",
                   "coords": [
                         8.033875,
@@ -2551,7 +2551,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Tokkeåi naturreservat",
-                  "text": "A protected nature reserve in the Telemark Highlands.",
+                  "text": "Nature reserve along the Tokkeåi river in the Telemark Highlands, protected since 2016.",
                   "category": "natural",
                   "coords": [
                         7.976498,
@@ -2578,7 +2578,7 @@ export const norwayReliefV2: POI[] = [
             },
             {
                   "name": "Brynesteinbrot",
-                  "text": "A historical quarry located in the Telemark Highlands.",
+                  "text": "Brynesteinbrot whetstone quarry in Telemark highlands.",
                   "category": "landmark",
                   "coords": [
                         8.033875,
@@ -2680,7 +2680,7 @@ export const norwayReliefV2: POI[] = [
       "de": [
             {
                   "name": "Gladstad prestegård",
-                  "text": "Gladstad prestegård im Vega-Archipel ist ein ehemaliges Pfarrhaus, das als Museum dient.",
+                  "text": "Das Pfarrhausmuseum Gladstad prestegård nahe Vegahavet.",
                   "category": "museum",
                   "coords": [
                         11.958994,
@@ -2691,7 +2691,7 @@ export const norwayReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Gladstad prestegård",
-                  "text": "A Vega-szigetvilágban található Gladstad prestegård egy egykori parókia, amely múzeumként működik.",
+                  "text": "A Gladstad lelkészlak múzeum Vegahavet közelében.",
                   "category": "museum",
                   "coords": [
                         11.958994,
@@ -2702,7 +2702,7 @@ export const norwayReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Gladstad prestegård",
-                  "text": "Gladstad prestegård din Arhipelagul Vega este o fostă casă parohială care servește ca muzeu.",
+                  "text": "Muzeul casei parohiale Gladstad prestegård lângă Vegahavet.",
                   "category": "museum",
                   "coords": [
                         11.958994,
@@ -2713,7 +2713,7 @@ export const norwayReliefV2: POI[] = [
       "en": [
             {
                   "name": "Gladstad prestegård",
-                  "text": "Gladstad prestegård in the Vega Archipelago is a former parsonage serving as a museum.",
+                  "text": "Gladstad vicarage museum near Vegahavet.",
                   "category": "museum",
                   "coords": [
                         11.958994,

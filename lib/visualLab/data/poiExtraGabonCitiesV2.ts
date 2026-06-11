@@ -430,7 +430,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "L'Ïle Fétiche",
-                  "text": "L'Ïle Fétiche ist ein interessanter Ort und eine Attraktion in Lastoursville.",
+                  "text": "Fetischinsel in Lastoursville, eine traditionelle spirituelle Stätte.",
                   "category": "landmark",
                   "coords": [
                         12.72783,
@@ -441,7 +441,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "L'Ïle Fétiche",
-                  "text": "A L'Ïle Fétiche egy nevezetesség és látványosság Lastoursville városában.",
+                  "text": "Fétis-sziget Lastoursville-ben, egy hagyományos spirituális hely.",
                   "category": "landmark",
                   "coords": [
                         12.72783,
@@ -452,7 +452,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "L'Ïle Fétiche",
-                  "text": "L'Ïle Fétiche este un punct de interes și o atracție situată în Lastoursville.",
+                  "text": "Insula Fetiș în Lastoursville, un sit spiritual tradițional.",
                   "category": "landmark",
                   "coords": [
                         12.72783,
@@ -463,7 +463,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "L'Ïle Fétiche",
-                  "text": "L'Ïle Fétiche is a point of interest and attraction located in Lastoursville.",
+                  "text": "Fetish island in Lastoursville, a traditional spiritual site.",
                   "category": "landmark",
                   "coords": [
                         12.72783,
@@ -548,7 +548,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Almamy Samory Touré",
-                  "text": "Almamy Samory Touré ist eine Attraktion in Ndjolé.",
+                  "text": "Denkmal für Samory Touré, den westafrikanischen Widerstandsführer, in Ndjole.",
                   "category": "landmark",
                   "coords": [
                         10.771792,
@@ -559,7 +559,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Almamy Samory Touré",
-                  "text": "Az Almamy Samory Touré egy látványosság Ndjolé városában.",
+                  "text": "Samory Touré, a nyugat-afrikai ellenállási vezető emlékműve Ndjole-ban.",
                   "category": "landmark",
                   "coords": [
                         10.771792,
@@ -570,7 +570,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Almamy Samory Touré",
-                  "text": "Almamy Samory Touré este o atracție în Ndjolé.",
+                  "text": "Monumentul lui Samory Touré, liderul rezistenței vest-africane, în Ndjole.",
                   "category": "landmark",
                   "coords": [
                         10.771792,
@@ -581,7 +581,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Almamy Samory Touré",
-                  "text": "Almamy Samory Touré is an attraction in Ndjolé.",
+                  "text": "Monument to Samory Touré, the West African resistance leader, in Ndjole.",
                   "category": "landmark",
                   "coords": [
                         10.771792,
@@ -988,7 +988,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Football",
-                  "text": "Football ist ein Denkmal in Cocobeach.",
+                  "text": "Historische Fußballstätte in Cocobeach.",
                   "category": "historical",
                   "coords": [
                         9.585047,
@@ -999,7 +999,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Football",
-                  "text": "A Football egy emlékmű Cocobeach városában.",
+                  "text": "Történelmi futballhelyszín Cocobeach-ben.",
                   "category": "historical",
                   "coords": [
                         9.585047,
@@ -1010,7 +1010,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Football",
-                  "text": "Football este un monument situat în Cocobeach.",
+                  "text": "Sit istoric de fotbal în Cocobeach.",
                   "category": "historical",
                   "coords": [
                         9.585047,
@@ -1021,7 +1021,7 @@ export const poiExtraGabonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Football",
-                  "text": "Football is a monument located in Cocobeach.",
+                  "text": "Historic football site in Cocobeach.",
                   "category": "historical",
                   "coords": [
                         9.585047,

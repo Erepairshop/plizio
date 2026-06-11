@@ -2744,7 +2744,7 @@ imageHint: "Mirador Steinfort nature center building",
             },
             {
                   "name": "Piscine de Vianden",
-                  "text": "Ein Wasserpark im Naturgebiet Stolzembourg.",
+                  "text": "Ein Schwimmbad in Vianden, gelegen in der Nähe des Waldes von Stolzembourg.",
                   "category": "recreational",
                   "coords": [
                         6.209628,
@@ -2827,7 +2827,7 @@ imageHint: "Mirador Steinfort nature center building",
             },
             {
                   "name": "Piscine de Vianden",
-                  "text": "Vízi park a Stolzembourg natúrparkban.",
+                  "text": "Uszoda Viandenben, a Stolzembourg-i erdő közelében.",
                   "category": "recreational",
                   "coords": [
                         6.209628,
@@ -2910,7 +2910,7 @@ imageHint: "Mirador Steinfort nature center building",
             },
             {
                   "name": "Piscine de Vianden",
-                  "text": "Un parc acvatic în zona naturală Stolzembourg.",
+                  "text": "O piscină în Vianden, situată lângă pădurea Stolzembourg.",
                   "category": "recreational",
                   "coords": [
                         6.209628,
@@ -2993,7 +2993,7 @@ imageHint: "Mirador Steinfort nature center building",
             },
             {
                   "name": "Piscine de Vianden",
-                  "text": "A water park in the Stolzembourg nature area.",
+                  "text": "A swimming pool in Vianden, located near the forest of Stolzembourg.",
                   "category": "recreational",
                   "coords": [
                         6.209628,

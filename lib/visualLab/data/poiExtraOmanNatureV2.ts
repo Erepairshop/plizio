@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraOmanNatureV2: POI[] = [
   {
-    id: "oman-al-saleel-national-park-nature-v2",
+    id: "oman-al-saleel-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "As Saleel national park",
+                  "text": "Dieser Park schützt einen Akazienwald in einer halbtrockenen Ebene, der Lebensraum für die seltene Arabische Gazelle bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        59.216756,
+                        22.30618
+                  ]
+            },
+            {
+                  "name": "Jabal Bani Khalid",
+                  "text": "Ein schroffer Berggipfel im östlichen Hadschar-Gebirge, der über den Wüstenebenen der Sharqiyah-Region thront.",
+                  "category": "natural",
+                  "coords": [
+                        59.23,
+                        22.43
+                  ]
+            },
+            {
+                  "name": "As Silil Natural Park",
+                  "text": "Dieses weitläufige Reservat ist von Akazienbäumen geprägt und dient dem Schutz der Gazellen sowie der Wüstenflora.",
+                  "category": "natural",
+                  "coords": [
+                        59.193175,
+                        22.330249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "As Saleel national park",
+                  "text": "Ez a park egy félsivatagi síkságon fekvő akácerdőt védelmez, amely a ritka arab gazellák fontos élőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        59.216756,
+                        22.30618
+                  ]
+            },
+            {
+                  "name": "Jabal Bani Khalid",
+                  "text": "Az Al-Hadzsar-hegység egyik zord csúcsa, amely a Sharqiyah régió sivatagi síkságai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        59.23,
+                        22.43
+                  ]
+            },
+            {
+                  "name": "As Silil Natural Park",
+                  "text": "Ezt a kiterjedt rezervátumot akácfák dominálják, és a gazellák, valamint a sivatagi flóra védelmét szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        59.193175,
+                        22.330249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "As Saleel national park",
+                  "text": "Acest parc protejează o pădure de acacia într-o câmpie semiaridă, oferind habitat pentru rara gazelă arabă.",
+                  "category": "landmark",
+                  "coords": [
+                        59.216756,
+                        22.30618
+                  ]
+            },
+            {
+                  "name": "Jabal Bani Khalid",
+                  "text": "Un vârf muntos abrupt din munții Al Hajar, care domină câmpiile deșertice din regiunea Sharqiyah.",
+                  "category": "natural",
+                  "coords": [
+                        59.23,
+                        22.43
+                  ]
+            },
+            {
+                  "name": "As Silil Natural Park",
+                  "text": "Această rezervație întinsă este dominată de arbori de acacia și servește la protejarea gazelelor și a florei de deșert.",
+                  "category": "natural",
+                  "coords": [
+                        59.193175,
+                        22.330249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "As Saleel national park",
+                  "text": "A national park protecting an acacia forest in a semi-arid plain, providing a habitat for the rare Arabian gazelle.",
+                  "category": "landmark",
+                  "coords": [
+                        59.216756,
+                        22.30618
+                  ]
+            },
+            {
+                  "name": "Jabal Bani Khalid",
+                  "text": "A rugged mountain peak in the eastern Hajar range towering over the desert plains of the Al Sharqiyah region.",
+                  "category": "natural",
+                  "coords": [
+                        59.23,
+                        22.43
+                  ]
+            },
+            {
+                  "name": "As Silil Natural Park",
+                  "text": "A sprawling reserve dominated by acacia trees, dedicated to the protection of gazelles and native desert flora.",
+                  "category": "natural",
+                  "coords": [
+                        59.193175,
+                        22.330249
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "OM-SJ",
     coords: [59.2069, 22.3781],
@@ -91,7 +208,124 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-qurum-natural-park-nature-v2",
+    id: "oman-qurum-natural-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qurum Beach",
+                  "text": "Der Qurum Beach ist ein langer Sandstrand an der Küste, der beliebte Möglichkeiten für Spaziergänge am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        58.479974,
+                        23.625684
+                  ]
+            },
+            {
+                  "name": "Marjan Beach",
+                  "text": "Der Strand Ras el Hammra ist eine malerische, von felsigen Klippen umgebene Sandbucht.",
+                  "category": "recreational",
+                  "coords": [
+                        58.491273,
+                        23.63896
+                  ]
+            },
+            {
+                  "name": "Al Qurm Mosque",
+                  "text": "Die Al Qurm Moschee ist eine islamische Gebetsstätte in unmittelbarer Nähe zum Grün des Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        58.486189,
+                        23.625193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qurum Beach",
+                  "text": "A Qurum Beach egy hosszú homokos tengerpart, amely népszerű lehetőségeket kínál a tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        58.479974,
+                        23.625684
+                  ]
+            },
+            {
+                  "name": "Marjan Beach",
+                  "text": "A Ras el Hammra strand egy festői homokos öböl, amelyet sziklás szirtek vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        58.491273,
+                        23.63896
+                  ]
+            },
+            {
+                  "name": "Al Qurm Mosque",
+                  "text": "Az Al Qurm mecset egy iszlám imahely a natúrpark zöldjének közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.486189,
+                        23.625193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qurum Beach",
+                  "text": "Qurum Beach este o plajă lungă cu nisip pe coastă, oferind oportunități populare pentru plimbări la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        58.479974,
+                        23.625684
+                  ]
+            },
+            {
+                  "name": "Marjan Beach",
+                  "text": "Plaja Ras el Hammra este un golf pitoresc cu nisip, înconjurat de stânci abrupte.",
+                  "category": "recreational",
+                  "coords": [
+                        58.491273,
+                        23.63896
+                  ]
+            },
+            {
+                  "name": "Al Qurm Mosque",
+                  "text": "Moscheea Al Qurm este un lăcaș de cult islamic situat în imediata apropiere a verdeței parcului natural.",
+                  "category": "landmark",
+                  "coords": [
+                        58.486189,
+                        23.625193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qurum Beach",
+                  "text": "Qurum Beach is a long sandy coastal shoreline offering popular opportunities for seaside walks.",
+                  "category": "recreational",
+                  "coords": [
+                        58.479974,
+                        23.625684
+                  ]
+            },
+            {
+                  "name": "Ras el Hammra beach",
+                  "text": "Ras el Hammra beach is a scenic sandy cove sheltered by surrounding rocky cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        58.491273,
+                        23.63896
+                  ]
+            },
+            {
+                  "name": "Al Qurm Mosque",
+                  "text": "The Al Qurm Mosque is an Islamic prayer site located in close proximity to the greenery of the natural park.",
+                  "category": "landmark",
+                  "coords": [
+                        58.486189,
+                        23.625193
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "OM-MA",
     coords: [58.4839, 23.6264],
@@ -135,7 +369,124 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-al-ansab-wetlands-nature-v2",
+    id: "oman-al-ansab-wetlands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Yaqeen mosque",
+                  "text": "Eine omanische Moschee, die in der Nähe des Feuchtgebiets Al Ansab spirituelle Einkehr bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.318616,
+                        23.499197
+                  ]
+            },
+            {
+                  "name": "Al Awabi Mosque",
+                  "text": "Ein islamischer Gebetsraum in der von Naturlandschaften geprägten Umgebung von Al Ansab.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30977,
+                        23.481058
+                  ]
+            },
+            {
+                  "name": "JAMEE HAMZA",
+                  "text": "Eine lokale Moschee für die omanische Gemeinde in der Nähe der Vogelbeobachtungsgebiete von Al Ansab.",
+                  "category": "religious",
+                  "coords": [
+                        58.346144,
+                        23.558168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Yaqeen mosque",
+                  "text": "Ománi mecset, amely az Al Ansab vizes élőhely közelében nyújt spirituális menedéket.",
+                  "category": "landmark",
+                  "coords": [
+                        58.318616,
+                        23.499197
+                  ]
+            },
+            {
+                  "name": "Al Awabi Mosque",
+                  "text": "Iszlám imaterem Al Ansab természeti tájakkal övezett környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30977,
+                        23.481058
+                  ]
+            },
+            {
+                  "name": "JAMEE HAMZA",
+                  "text": "Helyi mecset az ománi közösség számára az Al Ansab madármegfigyelő területek közelében.",
+                  "category": "religious",
+                  "coords": [
+                        58.346144,
+                        23.558168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Yaqeen mosque",
+                  "text": "O moschee omaneză care oferă reculegere spirituală în apropierea zonei umede Al Ansab.",
+                  "category": "landmark",
+                  "coords": [
+                        58.318616,
+                        23.499197
+                  ]
+            },
+            {
+                  "name": "Al Awabi Mosque",
+                  "text": "Un spațiu de rugăciune islamic în împrejurimile naturale din Al Ansab.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30977,
+                        23.481058
+                  ]
+            },
+            {
+                  "name": "JAMEE HAMZA",
+                  "text": "O moschee locală pentru comunitatea din Oman, în apropierea zonelor de observare a păsărilor din Al Ansab.",
+                  "category": "religious",
+                  "coords": [
+                        58.346144,
+                        23.558168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Yaqeen mosque",
+                  "text": "An Omani mosque offering spiritual retreat near the Al Ansab wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        58.318616,
+                        23.499197
+                  ]
+            },
+            {
+                  "name": "Al Awabi Mosque",
+                  "text": "An Islamic prayer room set within the natural landscapes of Al Ansab.",
+                  "category": "landmark",
+                  "coords": [
+                        58.30977,
+                        23.481058
+                  ]
+            },
+            {
+                  "name": "JAMEE HAMZA",
+                  "text": "A local mosque for the Omani community near the birdwatching areas of Al Ansab.",
+                  "category": "religious",
+                  "coords": [
+                        58.346144,
+                        23.558168
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-MA",
     coords: [58.3392, 23.5592],
@@ -179,7 +530,88 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-ayn-sahalnoot-nature-v2",
+    id: "oman-ayn-sahalnoot-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hood bin Aber Shrine",
+                  "text": "Ein traditioneller Schrein mit einer weißen Kuppel, der als Wallfahrtsort in den Bergen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        54.129214,
+                        17.217376
+                  ]
+            },
+            {
+                  "name": "Jabal Rehen",
+                  "text": "Ein zerklüfteter Berggipfel, der das malerische Sahalnoot-Tal überragt.",
+                  "category": "natural",
+                  "coords": [
+                        54.13,
+                        17.15
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hood bin Aber Shrine",
+                  "text": "Hagyományos, fehér kupolás kegyhely, amely hegyvidéki zarándokhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        54.129214,
+                        17.217376
+                  ]
+            },
+            {
+                  "name": "Jabal Rehen",
+                  "text": "Sziklás hegycsúcs, amely a festői Sahalnoot-völgy fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        54.13,
+                        17.15
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hood bin Aber Shrine",
+                  "text": "Un altar tradițional cu cupolă albă, care servește ca loc de pelerinaj în munți.",
+                  "category": "landmark",
+                  "coords": [
+                        54.129214,
+                        17.217376
+                  ]
+            },
+            {
+                  "name": "Jabal Rehen",
+                  "text": "Un vârf muntos accidentat care domină valea pitorească Sahalnoot.",
+                  "category": "natural",
+                  "coords": [
+                        54.13,
+                        17.15
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hood bin Aber Shrine",
+                  "text": "A traditional white-domed shrine serving as a pilgrimage site in the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        54.129214,
+                        17.217376
+                  ]
+            },
+            {
+                  "name": "Jabal Rehen",
+                  "text": "A rugged mountain peak towering over the scenic Sahalnoot valley.",
+                  "category": "natural",
+                  "coords": [
+                        54.13,
+                        17.15
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [54.1755, 17.1472],
@@ -223,7 +655,160 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-ayn-razat-nature-v2",
+    id: "oman-ayn-razat-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Botanic Garden, Caves",
+                  "text": "Ein botanischer Garten mit natürlichen Kalksteinhöhlen und einer Vielzahl von einheimischen Pflanzenarten bei der Quelle von Razat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.23584,
+                        17.129052
+                  ]
+            },
+            {
+                  "name": "Jabal Nashib",
+                  "text": "Ein hoher Berggipfel in der Region Dhofar, der während der Sommermonate eine besonders dichte, grüne Vegetation aufweist.",
+                  "category": "natural",
+                  "coords": [
+                        54.290724,
+                        17.112341
+                  ]
+            },
+            {
+                  "name": "Jabal Hayath",
+                  "text": "Ein prominenter Kalksteingipfel im östlichen Dhofar-Gebirge, der die wasserreichen Täler der Region überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        54.289837,
+                        17.129713
+                  ]
+            },
+            {
+                  "name": "Al-Majed Mosque",
+                  "text": "Eine moderne Moschee, die der örtlichen Gemeinschaft inmitten der fruchtbaren Gärten von Ayn Razat als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        54.20218,
+                        17.089217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Botanic Garden, Caves",
+                  "text": "Természetes mészkőbarlangokkal és számos őshonos növényfajjal rendelkező botanikus kert a Razat-forrásnál.",
+                  "category": "landmark",
+                  "coords": [
+                        54.23584,
+                        17.129052
+                  ]
+            },
+            {
+                  "name": "Jabal Nashib",
+                  "text": "Magas hegycsúcs Dhofar régióban, amely a nyári hónapokban különösen dús, zöld növényzetet mutat.",
+                  "category": "natural",
+                  "coords": [
+                        54.290724,
+                        17.112341
+                  ]
+            },
+            {
+                  "name": "Jabal Hayath",
+                  "text": "A keleti Dhofar-hegység egyik kiemelkedő mészkőcsúcsa, amely a régió vízben gazdag völgyeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        54.289837,
+                        17.129713
+                  ]
+            },
+            {
+                  "name": "Al-Majed Mosque",
+                  "text": "Modern mecset, amely az Ayn Razat termékeny kertjei között szolgálja a helyi közösség imahelyeként.",
+                  "category": "landmark",
+                  "coords": [
+                        54.20218,
+                        17.089217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Botanic Garden, Caves",
+                  "text": "O grădină botanică cu peșteri naturale de calcar și o varietate de specii de plante native la izvorul Razat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.23584,
+                        17.129052
+                  ]
+            },
+            {
+                  "name": "Jabal Nashib",
+                  "text": "Un vârf muntos înalt din regiunea Dhofar, care prezintă o vegetație verde deosebit de densă în timpul lunilor de vară.",
+                  "category": "natural",
+                  "coords": [
+                        54.290724,
+                        17.112341
+                  ]
+            },
+            {
+                  "name": "Jabal Hayath",
+                  "text": "Un vârf calcaros proeminent din lanțul Dhofar de est, cu vedere spre văile bogate în apă ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        54.289837,
+                        17.129713
+                  ]
+            },
+            {
+                  "name": "Al-Majed Mosque",
+                  "text": "O moschee modernă care servește ca loc de rugăciune pentru comunitatea locală, în mijlocul grădinilor fertile din Ayn Razat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.20218,
+                        17.089217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Botanic Garden, Caves",
+                  "text": "A botanic garden featuring natural limestone caves and a variety of native plant species at the Razat spring.",
+                  "category": "landmark",
+                  "coords": [
+                        54.23584,
+                        17.129052
+                  ]
+            },
+            {
+                  "name": "Jabal Nashib",
+                  "text": "A high mountain peak in the Dhofar region, exhibiting particularly dense green vegetation during the summer months.",
+                  "category": "natural",
+                  "coords": [
+                        54.290724,
+                        17.112341
+                  ]
+            },
+            {
+                  "name": "Jabal Hayath",
+                  "text": "A prominent limestone peak in the eastern Dhofar range, overlooking the region's water-rich valleys.",
+                  "category": "natural",
+                  "coords": [
+                        54.289837,
+                        17.129713
+                  ]
+            },
+            {
+                  "name": "Al-Majed Mosque",
+                  "text": "A modern mosque serving the local community as a place of prayer amidst the fertile gardens of Ayn Razat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.20218,
+                        17.089217
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [54.2344, 17.1264],
@@ -267,7 +852,124 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-ayn-athum-nature-v2",
+    id: "oman-ayn-athum-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Aram",
+                  "text": "Ein zerklüfteter Gipfel im östlichen Dhofar-Gebirge, der besonders nach dem Sommermonsun in dichtes Grün gehüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.380728,
+                        17.088803
+                  ]
+            },
+            {
+                  "name": "Jabal Damur",
+                  "text": "Ein Kalksteingipfel in der Nähe von Ayn Athum, der einen weiten Blick über die bewaldeten Hänge der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        54.349387,
+                        17.139002
+                  ]
+            },
+            {
+                  "name": "Sinkhole",
+                  "text": "Eine natürliche Karsthöhle in der Nähe der spektakulären saisonalen Wasserfälle von Ayn Athum.",
+                  "category": "landmark",
+                  "coords": [
+                        54.426346,
+                        17.116503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Aram",
+                  "text": "A keleti Dhofar-hegység sziklás csúcsa, amely a nyári monszun után különösen dús növényzetbe öltözik.",
+                  "category": "natural",
+                  "coords": [
+                        54.380728,
+                        17.088803
+                  ]
+            },
+            {
+                  "name": "Jabal Damur",
+                  "text": "Egy mészkőcsúcs Ayn Athum közelében, ahonnan pazar kilátás nyílik a régió erdős domboldalaira.",
+                  "category": "natural",
+                  "coords": [
+                        54.349387,
+                        17.139002
+                  ]
+            },
+            {
+                  "name": "Sinkhole",
+                  "text": "Természetes karsztbarlang az Ayn Athum látványos, időszakos vízeséseinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.426346,
+                        17.116503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Aram",
+                  "text": "Un vârf accidentat din lanțul Dhofar de est, care este învăluit în verdeață densă, în special după musonul de vară.",
+                  "category": "natural",
+                  "coords": [
+                        54.380728,
+                        17.088803
+                  ]
+            },
+            {
+                  "name": "Jabal Damur",
+                  "text": "Un vârf calcaros situat lângă Ayn Athum, oferind o vedere largă asupra versanților împăduriți ai regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        54.349387,
+                        17.139002
+                  ]
+            },
+            {
+                  "name": "Sinkhole",
+                  "text": "O cavitate carstică naturală situată în apropierea spectaculoaselor cascade sezoniere de la Ayn Athum.",
+                  "category": "landmark",
+                  "coords": [
+                        54.426346,
+                        17.116503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Aram",
+                  "text": "A rugged peak in the eastern Dhofar range, which is shrouded in dense greenery especially after the summer monsoon.",
+                  "category": "natural",
+                  "coords": [
+                        54.380728,
+                        17.088803
+                  ]
+            },
+            {
+                  "name": "Jabal Damur",
+                  "text": "A limestone peak located near Ayn Athum, offering a broad view over the forested hillsides of the region.",
+                  "category": "natural",
+                  "coords": [
+                        54.349387,
+                        17.139002
+                  ]
+            },
+            {
+                  "name": "Sinkhole",
+                  "text": "A natural karst cavity located near the spectacular seasonal waterfalls of Ayn Athum.",
+                  "category": "landmark",
+                  "coords": [
+                        54.426346,
+                        17.116503
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [54.3644, 17.1147],
@@ -311,7 +1013,340 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-ayn-khor-nature-v2",
+    id: "oman-ayn-khor-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Ali Bin Badr",
+                  "text": "Ein markanter Gipfel in den Dhofar-Bergen, der für seine Aussicht auf saisonale Wasserfälle bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.001263,
+                        17.130118
+                  ]
+            },
+            {
+                  "name": "Jebel Shudhub",
+                  "text": "Ein Bergmassiv, das sich während der Khareef-Monsunzeit in eine üppig grüne Landschaft verwandelt.",
+                  "category": "natural",
+                  "coords": [
+                        53.998491,
+                        17.13001
+                  ]
+            },
+            {
+                  "name": "Jebel Ghadaw",
+                  "text": "Dieser Gipfel bietet einen weiten Panoramablick über die Küstenebene von Salalah.",
+                  "category": "natural",
+                  "coords": [
+                        53.990609,
+                        17.129332
+                  ]
+            },
+            {
+                  "name": "Aqbat ash Shaykh",
+                  "text": "Ein steiler Gebirgspass in der Nähe von Ayn Khor mit dramatischen Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        54.02,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Ayn Kor (Kor Spring)",
+                  "text": "Eine saisonale Quelle, die während der Monsunzeit einen türkisfarbenen Pool und Wasserfälle bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        53.963761,
+                        17.048899
+                  ]
+            },
+            {
+                  "name": "Kor Spring",
+                  "text": "Ein beliebter Naturplatz in Dhofar, bekannt für sein kühles Quellwasser im Sommer.",
+                  "category": "landmark",
+                  "coords": [
+                        53.96962,
+                        17.040027
+                  ]
+            },
+            {
+                  "name": "Aqbat Ghuf",
+                  "text": "Ein Kalksteingipfel, der die zerklüftete Wüstenlandschaft im Süden Omans überragt.",
+                  "category": "natural",
+                  "coords": [
+                        54.01,
+                        17.07
+                  ]
+            },
+            {
+                  "name": "Sherzawt",
+                  "text": "Ein oft nebelverhangener Berggipfel in den grünen Hügeln der Dhofar-Region.",
+                  "category": "natural",
+                  "coords": [
+                        54.009697,
+                        17.099461
+                  ]
+            },
+            {
+                  "name": "Prophet Ayoub Region mosque",
+                  "text": "Diese Moschee befindet sich in der Nähe der Grabstätte, die traditionell dem Propheten Hiob zugeschrieben wird.",
+                  "category": "landmark",
+                  "coords": [
+                        53.993778,
+                        17.111552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Ali Bin Badr",
+                  "text": "A Dofár-hegység egyik jellegzetes csúcsa, amely a szezonális vízesésekre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        54.001263,
+                        17.130118
+                  ]
+            },
+            {
+                  "name": "Jebel Shudhub",
+                  "text": "Hegytömb, amely a Khareef monszun idején buja zöld tájjá változik.",
+                  "category": "natural",
+                  "coords": [
+                        53.998491,
+                        17.13001
+                  ]
+            },
+            {
+                  "name": "Jebel Ghadaw",
+                  "text": "Erről a csúcsról széles panoráma nyílik Szalála tengerparti síkságára.",
+                  "category": "natural",
+                  "coords": [
+                        53.990609,
+                        17.129332
+                  ]
+            },
+            {
+                  "name": "Aqbat ash Shaykh",
+                  "text": "Meredek hegyi hágó Ayn Khor közelében, drámai sziklaalakzatokkal.",
+                  "category": "natural",
+                  "coords": [
+                        54.02,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Ayn Kor (Kor Spring)",
+                  "text": "Szezonális forrás, amely a monszun idején türkizkék medencét és vízeséseket alkot.",
+                  "category": "landmark",
+                  "coords": [
+                        53.963761,
+                        17.048899
+                  ]
+            },
+            {
+                  "name": "Kor Spring",
+                  "text": "Népszerű természeti hely Dofárban, amely nyáron hűvös forrásvizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        53.96962,
+                        17.040027
+                  ]
+            },
+            {
+                  "name": "Aqbat Ghuf",
+                  "text": "Mészkőcsúcs, amely Dél-Omán tagolt sivatagi tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        54.01,
+                        17.07
+                  ]
+            },
+            {
+                  "name": "Sherzawt",
+                  "text": "Gyakran ködbe burkolózó hegycsúcs a dofári régió zöld dombjai között.",
+                  "category": "natural",
+                  "coords": [
+                        54.009697,
+                        17.099461
+                  ]
+            },
+            {
+                  "name": "Prophet Ayoub Region mosque",
+                  "text": "Ez a mecset a hagyományosan Jób prófétának tulajdonított sírhely közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        53.993778,
+                        17.111552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Ali Bin Badr",
+                  "text": "Un vârf proeminent din munții Dhofar, cunoscut pentru vederea asupra cascadelor sezoniere.",
+                  "category": "natural",
+                  "coords": [
+                        54.001263,
+                        17.130118
+                  ]
+            },
+            {
+                  "name": "Jebel Shudhub",
+                  "text": "Un masiv montan care se transformă într-un peisaj verde luxuriant în timpul sezonului musonic Khareef.",
+                  "category": "natural",
+                  "coords": [
+                        53.998491,
+                        17.13001
+                  ]
+            },
+            {
+                  "name": "Jebel Ghadaw",
+                  "text": "Acest vârf oferă o vedere panoramică largă asupra câmpiei de coastă din Salalah.",
+                  "category": "natural",
+                  "coords": [
+                        53.990609,
+                        17.129332
+                  ]
+            },
+            {
+                  "name": "Aqbat ash Shaykh",
+                  "text": "O trecătoare montană abruptă lângă Ayn Khor, cu formațiuni stâncoase dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        54.02,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Ayn Kor (Kor Spring)",
+                  "text": "Un izvor sezonier care formează un bazin turcoaz și cascade în timpul sezonului musonic.",
+                  "category": "landmark",
+                  "coords": [
+                        53.963761,
+                        17.048899
+                  ]
+            },
+            {
+                  "name": "Kor Spring",
+                  "text": "Un loc natural popular în Dhofar, cunoscut pentru apa rece de izvor în timpul verii.",
+                  "category": "landmark",
+                  "coords": [
+                        53.96962,
+                        17.040027
+                  ]
+            },
+            {
+                  "name": "Aqbat Ghuf",
+                  "text": "Un vârf de calcar care domină peisajul deșertic accidentat din sudul Omanului.",
+                  "category": "natural",
+                  "coords": [
+                        54.01,
+                        17.07
+                  ]
+            },
+            {
+                  "name": "Sherzawt",
+                  "text": "Un vârf muntos adesea învăluit în ceață, situat în dealurile verzi din regiunea Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.009697,
+                        17.099461
+                  ]
+            },
+            {
+                  "name": "Prophet Ayoub Region mosque",
+                  "text": "Această moschee se află lângă mormântul atribuit tradițional profetului Iov.",
+                  "category": "landmark",
+                  "coords": [
+                        53.993778,
+                        17.111552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Ali Bin Badr",
+                  "text": "A prominent peak in the Dhofar mountains, known for its views over seasonal waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        54.001263,
+                        17.130118
+                  ]
+            },
+            {
+                  "name": "Jebel Shudhub",
+                  "text": "A mountain massif that transforms into a lush green landscape during the Khareef monsoon season.",
+                  "category": "natural",
+                  "coords": [
+                        53.998491,
+                        17.13001
+                  ]
+            },
+            {
+                  "name": "Jebel Ghadaw",
+                  "text": "This peak offers a wide panoramic view over the coastal plain of Salalah.",
+                  "category": "natural",
+                  "coords": [
+                        53.990609,
+                        17.129332
+                  ]
+            },
+            {
+                  "name": "Aqbat ash Shaykh",
+                  "text": "A steep mountain pass near Ayn Khor featuring dramatic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        54.02,
+                        17.09
+                  ]
+            },
+            {
+                  "name": "Ayn Kor (Kor Spring)",
+                  "text": "A seasonal spring that forms a turquoise pool and waterfalls during the monsoon season.",
+                  "category": "landmark",
+                  "coords": [
+                        53.963761,
+                        17.048899
+                  ]
+            },
+            {
+                  "name": "Kor Spring",
+                  "text": "A popular natural spot in Dhofar, known for its cool spring water during the summer months.",
+                  "category": "landmark",
+                  "coords": [
+                        53.96962,
+                        17.040027
+                  ]
+            },
+            {
+                  "name": "Aqbat Ghuf",
+                  "text": "A limestone peak towering over the rugged desert landscape of southern Oman.",
+                  "category": "natural",
+                  "coords": [
+                        54.01,
+                        17.07
+                  ]
+            },
+            {
+                  "name": "Sherzawt",
+                  "text": "A mountain peak often shrouded in mist, located in the verdant hills of the Dhofar region.",
+                  "category": "natural",
+                  "coords": [
+                        54.009697,
+                        17.099461
+                  ]
+            },
+            {
+                  "name": "Prophet Ayoub Region mosque",
+                  "text": "This mosque is located near the tomb traditionally attributed to the Prophet Job.",
+                  "category": "landmark",
+                  "coords": [
+                        53.993778,
+                        17.111552
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [53.9497, 17.0603],
@@ -355,7 +1390,52 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-khawr-ruri-nature-v2",
+    id: "oman-khawr-ruri-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khawr Rawri Reserve",
+                  "text": "Dieser Süßwasserzulauf umgibt den antiken Hafen von Sumhuram und bildet eine üppig grüne Oase in der trockenen Landschaft von Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.430132,
+                        17.033751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khawr Rawri Reserve",
+                  "text": "A Sumhuram ősi kikötőjét körülvevő édesvízi öböl buja zöld oázist hoz létre a száraz Dhofar tájban.",
+                  "category": "natural",
+                  "coords": [
+                        54.430132,
+                        17.033751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khawr Rawri Reserve",
+                  "text": "Înconjurând portul antic Sumhuram, această intrare de apă dulce creează o oază verde luxuriantă în peisajul arid Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.430132,
+                        17.033751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khawr Rawri Reserve",
+                  "text": "Surrounding the ancient port of Sumhuram, this freshwater inlet creates a lush green oasis in the arid Dhofar landscape.",
+                  "category": "natural",
+                  "coords": [
+                        54.430132,
+                        17.033751
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [54.4339, 17.0378],
@@ -399,7 +1479,268 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-khawr-al-maghsail-nature-v2",
+    id: "oman-khawr-al-maghsail-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archeo",
+                  "text": "Antike Siedlungsreste, die in der Nähe der ökologisch bedeutsamen Küstenlagune von Khawr al-Maghsail entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        53.776469,
+                        16.883246
+                  ]
+            },
+            {
+                  "name": "Meerwasserfontäne",
+                  "text": "Natürliche Felslöcher, durch die der Indische Ozean bei starkem Wellengang spektakuläre Meerwasserfontänen wie Geysire emporschießen lässt.",
+                  "category": "landmark",
+                  "coords": [
+                        53.766087,
+                        16.8748
+                  ]
+            },
+            {
+                  "name": "Cliffs of Mughsayl",
+                  "text": "Dramatische Klippen am westlichen Ende von Salalah, die einen beeindruckenden Blick auf die Brandung des Arabischen Meeres bieten.",
+                  "category": "natural",
+                  "coords": [
+                        53.765012,
+                        16.875064
+                  ]
+            },
+            {
+                  "name": "Krutoi s'ezd",
+                  "text": "Ein steiler, serpentinenreicher Straßenabschnitt, der sich mit scharfen Haarnadelkurven durch die spektakuläre Küstengebirgslandschaft windet.",
+                  "category": "landmark",
+                  "coords": [
+                        53.724081,
+                        16.842431
+                  ]
+            },
+            {
+                  "name": "Mughsyl bay view",
+                  "text": "Ein Aussichtspunkt über der Bucht von Mughsayl, der den Blick auf den sechs Kilometer langen, weißen Sandstrand freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        53.753249,
+                        16.878316
+                  ]
+            },
+            {
+                  "name": "Khawr Al Mughsayl Reserve",
+                  "text": "Ein Naturschutzgebiet in einer Küstenlagune, das als wichtiger Rastplatz für Flamingos und zahlreiche Zugvögel dient.",
+                  "category": "natural",
+                  "coords": [
+                        53.781216,
+                        16.884431
+                  ]
+            },
+            {
+                  "name": "Fizayah Beach",
+                  "text": "Ein abgelegener weißer Sandstrand, der am Fuße steiler Klippen liegt und über eine abenteuerliche Schotterpiste erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        53.720297,
+                        16.838982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archeo",
+                  "text": "Ősi településmaradványok, amelyeket a Khawr al-Maghsail ökológiailag jelentős tengerparti lagúnájának közelében tártak fel.",
+                  "category": "historical",
+                  "coords": [
+                        53.776469,
+                        16.883246
+                  ]
+            },
+            {
+                  "name": "Blowholes",
+                  "text": "Természetes sziklakürtők, amelyeken keresztül az Indiai-óceán hullámai látványos tengervíz-szökőkutakat lövellnek ki a magasba.",
+                  "category": "landmark",
+                  "coords": [
+                        53.766087,
+                        16.8748
+                  ]
+            },
+            {
+                  "name": "Cliffs of Mughsayl",
+                  "text": "Drámai sziklák Salalah nyugati végénél, ahonnan lenyűgöző kilátás nyílik az Arab-tenger tajtékzó hullámaira.",
+                  "category": "natural",
+                  "coords": [
+                        53.765012,
+                        16.875064
+                  ]
+            },
+            {
+                  "name": "Krutoi s'ezd",
+                  "text": "A tengerparti út egy meredek szakaszai, amely éles hajtűkanyarokkal kanyarog át a látványos hegyvidéki tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        53.724081,
+                        16.842431
+                  ]
+            },
+            {
+                  "name": "Mughsyl bay view",
+                  "text": "A Mughsayl-öböl fölé magasodó kilátópont, ahonnan belátható a hat kilométer hosszú, fehér homokos tengerpart.",
+                  "category": "natural",
+                  "coords": [
+                        53.753249,
+                        16.878316
+                  ]
+            },
+            {
+                  "name": "Khawr Al Mughsayl Reserve",
+                  "text": "Tengerparti lagúnában fekvő természetvédelmi terület, amely a flamingók és számos vándormadár fontos pihenőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        53.781216,
+                        16.884431
+                  ]
+            },
+            {
+                  "name": "Fizayah Beach",
+                  "text": "Meredek sziklák lábánál fekvő, elszigetelt fehér homokos strand, amely egy kalandos murvás úton közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        53.720297,
+                        16.838982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archeo",
+                  "text": "Rămășițe ale unei așezări antice descoperite lângă laguna de coastă Khawr al-Maghsail, importantă din punct de vedere ecologic.",
+                  "category": "historical",
+                  "coords": [
+                        53.776469,
+                        16.883246
+                  ]
+            },
+            {
+                  "name": "Blowholes",
+                  "text": "Orificii naturale în stâncă prin care valurile Oceanului Indian aruncă jeturi spectaculoase de apă sărată sub formă de gheizere.",
+                  "category": "landmark",
+                  "coords": [
+                        53.766087,
+                        16.8748
+                  ]
+            },
+            {
+                  "name": "Cliffs of Mughsayl",
+                  "text": "Faleze dramatice la capătul vestic al orașului Salalah, oferind o vedere impresionantă asupra valurilor Mării Arabiei.",
+                  "category": "natural",
+                  "coords": [
+                        53.765012,
+                        16.875064
+                  ]
+            },
+            {
+                  "name": "Krutoi s'ezd",
+                  "text": "O secțiune de drum abruptă și șerpuitoare care trece prin curbe strânse prin peisajul muntos spectaculos de pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        53.724081,
+                        16.842431
+                  ]
+            },
+            {
+                  "name": "Mughsyl bay view",
+                  "text": "Un punct de observație deasupra golfului Mughsayl, care oferă o vedere asupra plajei cu nisip alb lungă de șase kilometri.",
+                  "category": "natural",
+                  "coords": [
+                        53.753249,
+                        16.878316
+                  ]
+            },
+            {
+                  "name": "Khawr Al Mughsayl Reserve",
+                  "text": "O rezervație naturală într-o lagună de coastă, servind drept loc de popas crucial pentru flamingo și numeroase păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        53.781216,
+                        16.884431
+                  ]
+            },
+            {
+                  "name": "Fizayah Beach",
+                  "text": "O plajă izolată cu nisip alb, situată la baza unor stânci abrupte și accesibilă printr-un drum de pietriș aventuros.",
+                  "category": "recreational",
+                  "coords": [
+                        53.720297,
+                        16.838982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archeo",
+                  "text": "Ancient settlement remains discovered near the ecologically significant coastal lagoon of Khawr al-Maghsail.",
+                  "category": "historical",
+                  "coords": [
+                        53.776469,
+                        16.883246
+                  ]
+            },
+            {
+                  "name": "Blowholes",
+                  "text": "Natural rock vents where the surging Indian Ocean waves erupt into spectacular seawater geysers during high tides.",
+                  "category": "landmark",
+                  "coords": [
+                        53.766087,
+                        16.8748
+                  ]
+            },
+            {
+                  "name": "Cliffs of Mughsayl",
+                  "text": "Dramatic cliffs at the western end of Salalah, providing a breathtaking view of the crashing Arabian Sea surf.",
+                  "category": "natural",
+                  "coords": [
+                        53.765012,
+                        16.875064
+                  ]
+            },
+            {
+                  "name": "Krutoi s'ezd",
+                  "text": "A steep, winding road section that snakes through the spectacular coastal mountain landscape with sharp hairpin turns.",
+                  "category": "landmark",
+                  "coords": [
+                        53.724081,
+                        16.842431
+                  ]
+            },
+            {
+                  "name": "Mughsyl bay view",
+                  "text": "An elevated viewpoint over Mughsayl Bay, offering a clear perspective of the six-kilometer-long white sandy beach.",
+                  "category": "natural",
+                  "coords": [
+                        53.753249,
+                        16.878316
+                  ]
+            },
+            {
+                  "name": "Khawr Al Mughsayl Reserve",
+                  "text": "A nature reserve in a coastal lagoon that serves as a vital resting ground for flamingos and numerous migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        53.781216,
+                        16.884431
+                  ]
+            },
+            {
+                  "name": "Fizayah Beach",
+                  "text": "A secluded white sand beach nestled at the foot of steep cliffs, accessible via an adventurous unpaved mountain track.",
+                  "category": "recreational",
+                  "coords": [
+                        53.720297,
+                        16.838982
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [53.7847, 16.8906],
@@ -443,7 +1784,52 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-al-abiyad-nature-v2",
+    id: "oman-wadi-al-abiyad-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Sahmah",
+                  "text": "Ein karger Gipfel, der das weiße Gestein und die Kieselstrände des Wadi Al-Abiyad überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        57.69,
+                        23.42
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Sahmah",
+                  "text": "Kopár hegycsúcs, amely a Vádi al-Abjad fehér szikláira és kavicsos medrére néz.",
+                  "category": "natural",
+                  "coords": [
+                        57.69,
+                        23.42
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Sahmah",
+                  "text": "Un vârf arid care domină stâncile albe și albiile pietroase din Wadi Al-Abiyad.",
+                  "category": "natural",
+                  "coords": [
+                        57.69,
+                        23.42
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Sahmah",
+                  "text": "A barren peak overlooking the white rocks and pebbly beds of Wadi Al-Abiyad.",
+                  "category": "natural",
+                  "coords": [
+                        57.69,
+                        23.42
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "OM-BJ",
     coords: [57.6533, 23.4914],
@@ -487,7 +1873,88 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-andam-nature-v2",
+    id: "oman-wadi-andam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Kashbah",
+                  "text": "Ein schroffer Berggipfel, der sich über den Schotterebenen und dem verzweigten System des Wadi Andam erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        58.07,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "A'Salam mosque",
+                  "text": "Ein lokales Gotteshaus mit einem bescheidenen Minarett, das die Dörfer entlang des Wadi Andam versorgt.",
+                  "category": "religious",
+                  "coords": [
+                        58.118614,
+                        22.517076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Kashbah",
+                  "text": "Zord hegycsúcs, amely a Wadi Andam kavicsos síkságai és kiterjedt vádi-rendszere fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        58.07,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "A'Salam mosque",
+                  "text": "Helyi imaház szerény minarettel, amely a Wadi Andam menti falvakat szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        58.118614,
+                        22.517076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Kashbah",
+                  "text": "Un vârf muntos abrupt care se ridică deasupra câmpiilor de pietriș și a sistemului ramificat al Wadi Andam.",
+                  "category": "natural",
+                  "coords": [
+                        58.07,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "A'Salam mosque",
+                  "text": "Un lăcaș de cult local, cu un minaret modest, care deservește satele de-a lungul Wadi Andam.",
+                  "category": "religious",
+                  "coords": [
+                        58.118614,
+                        22.517076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Kashbah",
+                  "text": "A rugged mountain peak rising above the gravel plains and the complex wadi system of Wadi Andam.",
+                  "category": "natural",
+                  "coords": [
+                        58.07,
+                        22.65
+                  ]
+            },
+            {
+                  "name": "A'Salam mosque",
+                  "text": "A local place of worship with a modest minaret serving the villages along Wadi Andam.",
+                  "category": "religious",
+                  "coords": [
+                        58.118614,
+                        22.517076
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "OM-SS",
     coords: [58.0772, 22.5800],
@@ -575,7 +2042,268 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-jebel-harim-nature-v2",
+    id: "oman-jebel-harim-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Harim",
+                  "text": "Der mit 2.087 Metern höchste Gipfel in Musandam, berühmt für seine alten Meeresfossilien.",
+                  "category": "natural",
+                  "coords": [
+                        56.232242,
+                        25.976328
+                  ]
+            },
+            {
+                  "name": "Ras Mintarah",
+                  "text": "Ein Berggipfel auf der Halbinsel Musandam mit Blick über das zerklüftete Kalksteingelände.",
+                  "category": "natural",
+                  "coords": [
+                        56.259341,
+                        26.004507
+                  ]
+            },
+            {
+                  "name": "Jabal Tukada",
+                  "text": "Ein Gipfel im nördlichen Hadschar-Gebirge, der über gewundene Bergstraßen erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.28856,
+                        26.010615
+                  ]
+            },
+            {
+                  "name": "Jabal Khawsha",
+                  "text": "Ein Kalksteingipfel in der Region Musandam, bekannt für seine karge Wüstenschönheit.",
+                  "category": "natural",
+                  "coords": [
+                        56.280435,
+                        26.00623
+                  ]
+            },
+            {
+                  "name": "Qarn Kamil",
+                  "text": "Ein Berggipfel im Hochland von Musandam mit Panorama auf die tiefen, felsigen Wadis.",
+                  "category": "natural",
+                  "coords": [
+                        56.224184,
+                        26.062764
+                  ]
+            },
+            {
+                  "name": "Jabal Hadaba",
+                  "text": "Ein felsiger Berggipfel im Jebel-Harim-Gebirge auf der Halbinsel Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.182281,
+                        26.018996
+                  ]
+            },
+            {
+                  "name": "Fossilien",
+                  "text": "Ein Gebiet in der Nähe des Jebel Harim, in dem Meeresfossilien im alten Kalkstein deutlich sichtbar sind.",
+                  "category": "historical",
+                  "coords": [
+                        56.207242,
+                        25.967141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal al Harim",
+                  "text": "Muszandam legmagasabb csúcsa (2087 m), amely ősi tengeri fosszíliáiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        56.232242,
+                        25.976328
+                  ]
+            },
+            {
+                  "name": "Ras Mintarah",
+                  "text": "Hegycsúcs a Muszandam-félszigeten, ahonnan kilátás nyílik a tagolt mészkővidékre.",
+                  "category": "natural",
+                  "coords": [
+                        56.259341,
+                        26.004507
+                  ]
+            },
+            {
+                  "name": "Jabal Tukada",
+                  "text": "Csúcs az északi Hadsar-hegységben, amely kanyargós hegyi utakon érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        56.28856,
+                        26.010615
+                  ]
+            },
+            {
+                  "name": "Jabal Khawsha",
+                  "text": "Mészkőcsúcs a Muszandam régióban, amely kopár sivatagi szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.280435,
+                        26.00623
+                  ]
+            },
+            {
+                  "name": "Qarn Kamil",
+                  "text": "Hegycsúcs a Muszandam-fennsíkon, panorámával a mély, sziklás vádikra.",
+                  "category": "natural",
+                  "coords": [
+                        56.224184,
+                        26.062764
+                  ]
+            },
+            {
+                  "name": "Jabal Hadaba",
+                  "text": "Sziklás hegycsúcs a Muszandam-félsziget Jebel Harim vonulatában.",
+                  "category": "natural",
+                  "coords": [
+                        56.182281,
+                        26.018996
+                  ]
+            },
+            {
+                  "name": "Fossils",
+                  "text": "Terület a Jebel Harim közelében, ahol tengeri fosszíliák láthatók az ősi mészkőben.",
+                  "category": "historical",
+                  "coords": [
+                        56.207242,
+                        25.967141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal al Harim",
+                  "text": "Cel mai înalt vârf din Musandam, la 2.087 de metri, faimos pentru fosilele sale marine antice.",
+                  "category": "natural",
+                  "coords": [
+                        56.232242,
+                        25.976328
+                  ]
+            },
+            {
+                  "name": "Ras Mintarah",
+                  "text": "Un vârf muntos în peninsula Musandam, oferind vederi asupra terenului calcaros accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        56.259341,
+                        26.004507
+                  ]
+            },
+            {
+                  "name": "Jabal Tukada",
+                  "text": "Un vârf în nordul Munților Hajar, accesibil prin drumuri montane sinuoase.",
+                  "category": "natural",
+                  "coords": [
+                        56.28856,
+                        26.010615
+                  ]
+            },
+            {
+                  "name": "Jabal Khawsha",
+                  "text": "Un vârf calcaros din regiunea Musandam, cunoscut pentru frumusețea sa deșertică aridă.",
+                  "category": "natural",
+                  "coords": [
+                        56.280435,
+                        26.00623
+                  ]
+            },
+            {
+                  "name": "Qarn Kamil",
+                  "text": "Un vârf de munte în zonele înalte din Musandam, cu panorame asupra wadi-urilor stâncoase adânci.",
+                  "category": "natural",
+                  "coords": [
+                        56.224184,
+                        26.062764
+                  ]
+            },
+            {
+                  "name": "Jabal Hadaba",
+                  "text": "Un vârf muntos stâncos în masivul Jebel Harim din peninsula Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.182281,
+                        26.018996
+                  ]
+            },
+            {
+                  "name": "Fossils",
+                  "text": "O zonă lângă Jebel Harim unde fosilele marine sunt vizibile clar în calcarul antic.",
+                  "category": "historical",
+                  "coords": [
+                        56.207242,
+                        25.967141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Harim",
+                  "text": "The highest peak in Musandam at 2,087 meters, famous for its ancient marine fossils.",
+                  "category": "natural",
+                  "coords": [
+                        56.232242,
+                        25.976328
+                  ]
+            },
+            {
+                  "name": "Ras Mintarah",
+                  "text": "A mountain summit in the Musandam Peninsula providing views over the rugged limestone terrain.",
+                  "category": "natural",
+                  "coords": [
+                        56.259341,
+                        26.004507
+                  ]
+            },
+            {
+                  "name": "Jabal Tukada",
+                  "text": "A peak in the northern Hajar range reachable via winding mountain roads.",
+                  "category": "natural",
+                  "coords": [
+                        56.28856,
+                        26.010615
+                  ]
+            },
+            {
+                  "name": "Jabal Khawsha",
+                  "text": "A limestone summit in the Musandam region known for its stark, desert beauty.",
+                  "category": "natural",
+                  "coords": [
+                        56.280435,
+                        26.00623
+                  ]
+            },
+            {
+                  "name": "Qarn Kamil",
+                  "text": "A mountain peak in the Musandam highlands with panoramas of the deep rocky wadis.",
+                  "category": "natural",
+                  "coords": [
+                        56.224184,
+                        26.062764
+                  ]
+            },
+            {
+                  "name": "Jabal Hadaba",
+                  "text": "A rocky mountain summit within the Jebel Harim range of the Musandam Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        56.182281,
+                        26.018996
+                  ]
+            },
+            {
+                  "name": "Fossils",
+                  "text": "An area near Jebel Harim where marine fossils are clearly visible in the ancient limestone.",
+                  "category": "historical",
+                  "coords": [
+                        56.207242,
+                        25.967141
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-MU",
     coords: [56.2300, 25.9753],
@@ -619,7 +2347,52 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-jebel-madar-nature-v2",
+    id: "oman-jebel-madar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Madar",
+                  "text": "Ein markanter Kalksteingipfel in der Scharqiya-Region, der für sein zerklüftetes Gelände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        58.14,
+                        22.39
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Madar",
+                  "text": "Jellegzetes mészkőcsúcs a Sarkija régióban, amely egyenetlen terepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        58.14,
+                        22.39
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Madar",
+                  "text": "Un vârf calcaros proeminent din regiunea Sharqiyah, cunoscut pentru terenul său accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        58.14,
+                        22.39
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Madar",
+                  "text": "A prominent limestone peak in the Sharqiyah region known for its rugged terrain.",
+                  "category": "natural",
+                  "coords": [
+                        58.14,
+                        22.39
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-SS",
     coords: [58.1219, 22.4286],
@@ -663,7 +2436,52 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-ash-shuwaymiyyah-nature-v2",
+    id: "oman-wadi-ash-shuwaymiyyah-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ash Shuwaymiyyah",
+                  "text": "Diese Festung überblickt die dramatischen Kalksteinklippen und das weite Tal des Wadi Ash Shuwaymiyyah.",
+                  "category": "castle",
+                  "coords": [
+                        55.700826,
+                        17.896874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ash Shuwaymiyyah",
+                  "text": "Ez az erőd a Wadi Ash Shuwaymiyyah drámai mészkőszikláira és tágas völgyére néz.",
+                  "category": "castle",
+                  "coords": [
+                        55.700826,
+                        17.896874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ash Shuwaymiyyah",
+                  "text": "Această fortăreață domină stâncile dramatice de calcar și valea largă a râului Wadi Ash Shuwaymiyyah.",
+                  "category": "castle",
+                  "coords": [
+                        55.700826,
+                        17.896874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ash Shuwaymiyyah",
+                  "text": "This castle overlooks the dramatic limestone cliffs and the wide valley of Wadi Ash Shuwaymiyyah.",
+                  "category": "castle",
+                  "coords": [
+                        55.700826,
+                        17.896874
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "OM-ZU",
     coords: [55.6669, 17.9250],
@@ -707,7 +2525,88 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-al-fara-nature-v2",
+    id: "oman-wadi-al-fara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Alayiah Fort",
+                  "text": "Überreste einer historischen Lehmfestung, die einst den Zugang zum Wadi Al-Fara bewachte.",
+                  "category": "historical",
+                  "coords": [
+                        57.442303,
+                        23.384935
+                  ]
+            },
+            {
+                  "name": "Al Rustaq Wildlife Reserve",
+                  "text": "Ein geschütztes Naturgebiet in den Bergen, in dem seltene arabische Gazellen und Leoparden beheimatet sind.",
+                  "category": "natural",
+                  "coords": [
+                        57.420486,
+                        23.312202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Alayiah Fort",
+                  "text": "Egy történelmi vályogerőd maradványai, amely egykor a Vádi al-Fara bejáratát őrizte.",
+                  "category": "historical",
+                  "coords": [
+                        57.442303,
+                        23.384935
+                  ]
+            },
+            {
+                  "name": "Al Rustaq Wildlife Reserve",
+                  "text": "Védett hegyi természetvédelmi terület, ahol ritka arab gazellák és leopárdok élnek.",
+                  "category": "natural",
+                  "coords": [
+                        57.420486,
+                        23.312202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Alayiah Fort",
+                  "text": "Rămășițele unei fortărețe istorice din chirpici care păzea odinioară intrarea în Wadi Al-Fara.",
+                  "category": "historical",
+                  "coords": [
+                        57.442303,
+                        23.384935
+                  ]
+            },
+            {
+                  "name": "Al Rustaq Wildlife Reserve",
+                  "text": "O zonă naturală protejată în munți, care adăpostește gazele arabe rare și leopardi.",
+                  "category": "natural",
+                  "coords": [
+                        57.420486,
+                        23.312202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Alayiah Fort",
+                  "text": "Remains of a historical mud-brick fort that once guarded the entrance to Wadi Al-Fara.",
+                  "category": "historical",
+                  "coords": [
+                        57.442303,
+                        23.384935
+                  ]
+            },
+            {
+                  "name": "Al Rustaq Wildlife Reserve",
+                  "text": "A protected mountain nature area home to rare Arabian gazelles and leopards.",
+                  "category": "natural",
+                  "coords": [
+                        57.420486,
+                        23.312202
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "OM-BJ",
     coords: [57.4525, 23.3644],
@@ -751,7 +2650,88 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-jebel-as-sarat-nature-v2",
+    id: "oman-jebel-as-sarat-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beautiful Wadi Pool",
+                  "text": "Ein klares, natürliches Wasserbecken, das tief in den felsigen Schluchten des Hadschar-Gebirges verborgen liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.080597,
+                        23.232085
+                  ]
+            },
+            {
+                  "name": "Western Hajar Starlight Reserve",
+                  "text": "Ein geschütztes Hochplateau, das als Lichtschutzgebiet ideal für die Sternenbeobachtung geeignet ist.",
+                  "category": "natural",
+                  "coords": [
+                        57.161626,
+                        23.29634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beautiful Wadi Pool",
+                  "text": "Tiszta, természetes vízmedence, amely mélyen a Hadzsar-hegység sziklás szurdokaiban rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        57.080597,
+                        23.232085
+                  ]
+            },
+            {
+                  "name": "Western Hajar Starlight Reserve",
+                  "text": "Védett fennsík, amely fényszennyezéstől mentes területként ideális csillagászati megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        57.161626,
+                        23.29634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beautiful Wadi Pool",
+                  "text": "Un bazin natural cu apă limpede, ascuns adânc în cheile stâncoase ale munților Hajar.",
+                  "category": "landmark",
+                  "coords": [
+                        57.080597,
+                        23.232085
+                  ]
+            },
+            {
+                  "name": "Western Hajar Starlight Reserve",
+                  "text": "Un platou înalt protejat, desemnat ca rezervație de cer înstelat, ideal pentru observarea astrelor.",
+                  "category": "natural",
+                  "coords": [
+                        57.161626,
+                        23.29634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beautiful Wadi Pool",
+                  "text": "A clear, natural water basin hidden deep within the rocky gorges of the Hajar Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        57.080597,
+                        23.232085
+                  ]
+            },
+            {
+                  "name": "Western Hajar Starlight Reserve",
+                  "text": "A protected high-altitude plateau designated as a starlight reserve, ideal for stargazing.",
+                  "category": "natural",
+                  "coords": [
+                        57.161626,
+                        23.29634
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-DA",
     coords: [57.1722, 23.2383],
@@ -795,7 +2775,232 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-khawr-awqad-nature-v2",
+    id: "oman-khawr-awqad-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khawr Awqad Reserve",
+                  "text": "Dieses Ökosystem in einer Küstenlagune ist ein wichtiger Zwischenstopp für Zugvögel auf ihrem Weg über das Arabische Meer.",
+                  "category": "natural",
+                  "coords": [
+                        54.035431,
+                        16.99119
+                  ]
+            },
+            {
+                  "name": "Khawr Al Qurm Al Kabir Reserve",
+                  "text": "In diesem geschützten Mündungsfeuchtgebiet gedeihen dichte Mangrovenwälder, die als Brutstätten für lokale Fischarten und Krebstiere dienen.",
+                  "category": "natural",
+                  "coords": [
+                        54.02005,
+                        16.984994
+                  ]
+            },
+            {
+                  "name": "Khawr Salalah",
+                  "text": "Dieses Reservat, ein langer Streifen Brackwasser parallel zum Strand, zieht in den Wintermonaten große Herden von Flamingos an.",
+                  "category": "natural",
+                  "coords": [
+                        54.069918,
+                        16.997424
+                  ]
+            },
+            {
+                  "name": "Khaftawt",
+                  "text": "In der Nähe der Küstenfeuchtgebiete gelegen, dient dieses lokale Gebetsgebäude den umliegenden Fischergemeinden.",
+                  "category": "religious",
+                  "coords": [
+                        54.018096,
+                        16.981902
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Dieses islamische Zentrum in der Nachbarschaft zeichnet sich durch sein traditionelles Minarett und einen schattigen Innenhof als Versammlungsort aus.",
+                  "category": "landmark",
+                  "coords": [
+                        54.056465,
+                        17.022737
+                  ]
+            },
+            {
+                  "name": "Bait Fadhil Mosque",
+                  "text": "Eine bescheiden dekorierte Gemeindemoschee, die für die täglichen Gebete der Anwohner errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        54.040933,
+                        17.000955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khawr Awqad Reserve",
+                  "text": "Ez a part menti lagúna ökoszisztéma létfontosságú pihenőhelyet biztosít az Arab-tengert átszelő vándormadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        54.035431,
+                        16.99119
+                  ]
+            },
+            {
+                  "name": "Khawr Al Qurm Al Kabir Reserve",
+                  "text": "Ebben a védett torkolati vizenyős területen sűrű mangroveerdők virágoznak, támogatva a helyi halivadékokat és a rákokat.",
+                  "category": "natural",
+                  "coords": [
+                        54.02005,
+                        16.984994
+                  ]
+            },
+            {
+                  "name": "Khawr Salalah",
+                  "text": "A stranddal párhuzamosan futó, sós vízből álló rezervátum a téli hónapokban hatalmas flamingócsapatokat vonz.",
+                  "category": "natural",
+                  "coords": [
+                        54.069918,
+                        16.997424
+                  ]
+            },
+            {
+                  "name": "Khaftawt",
+                  "text": "A part menti vizenyős területek közelében található helyi imaház a környező halászközösségeket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        54.018096,
+                        16.981902
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Ezt a környékbeli iszlám központot a hagyományos minaret és az árnyékos udvari gyülekezőhely jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        54.056465,
+                        17.022737
+                  ]
+            },
+            {
+                  "name": "Bait Fadhil Mosque",
+                  "text": "Egy szerényen díszített közösségi mecset, amelyet a helyi lakosok napi imáinak megtartására építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        54.040933,
+                        17.000955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khawr Awqad Reserve",
+                  "text": "Acest ecosistem de lagună de coastă oferă o oprire vitală pentru păsările migratoare care traversează Marea Arabiei.",
+                  "category": "natural",
+                  "coords": [
+                        54.035431,
+                        16.99119
+                  ]
+            },
+            {
+                  "name": "Khawr Al Qurm Al Kabir Reserve",
+                  "text": "Păduri dese de mangrove prosperă în această zonă umedă protejată din estuar, susținând pepinierele locale de pești și viața crustaceelor.",
+                  "category": "natural",
+                  "coords": [
+                        54.02005,
+                        16.984994
+                  ]
+            },
+            {
+                  "name": "Khawr Salalah",
+                  "text": "O întindere lungă de apă salmastră paralelă cu plaja, această rezervație atrage stoluri mari de flamingo în timpul lunilor de iarnă.",
+                  "category": "natural",
+                  "coords": [
+                        54.069918,
+                        16.997424
+                  ]
+            },
+            {
+                  "name": "Khaftawt",
+                  "text": "Situată lângă zonele umede de coastă, această clădire locală de rugăciune deservește comunitățile de pescari din împrejurimi.",
+                  "category": "religious",
+                  "coords": [
+                        54.018096,
+                        16.981902
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Acest centru islamic de cartier este caracterizat de minaretul său tradițional și de curtea umbrită pentru adunări.",
+                  "category": "landmark",
+                  "coords": [
+                        54.056465,
+                        17.022737
+                  ]
+            },
+            {
+                  "name": "Bait Fadhil Mosque",
+                  "text": "O moschee comunitară decorată modest, construită pentru a găzdui rugăciunile zilnice ale locuitorilor zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        54.040933,
+                        17.000955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khawr Awqad Reserve",
+                  "text": "This coastal lagoon ecosystem provides a vital stopover for migratory birds traversing the Arabian Sea.",
+                  "category": "natural",
+                  "coords": [
+                        54.035431,
+                        16.99119
+                  ]
+            },
+            {
+                  "name": "Khawr Al Qurm Al Kabir Reserve",
+                  "text": "Dense mangrove forests thrive in this protected estuarine wetland, supporting local fish nurseries and crustacean life.",
+                  "category": "natural",
+                  "coords": [
+                        54.02005,
+                        16.984994
+                  ]
+            },
+            {
+                  "name": "Khawr Salalah",
+                  "text": "A long stretch of brackish water parallel to the beach, this reserve attracts large flocks of flamingos during the winter months.",
+                  "category": "natural",
+                  "coords": [
+                        54.069918,
+                        16.997424
+                  ]
+            },
+            {
+                  "name": "Khaftawt",
+                  "text": "Situated near the coastal wetlands, this local prayer building serves the surrounding fishing communities.",
+                  "category": "religious",
+                  "coords": [
+                        54.018096,
+                        16.981902
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "This neighborhood Islamic centre is characterized by its traditional minaret and shaded courtyard gathering space.",
+                  "category": "landmark",
+                  "coords": [
+                        54.056465,
+                        17.022737
+                  ]
+            },
+            {
+                  "name": "Bait Fadhil Mosque",
+                  "text": "A modestly decorated community mosque built to accommodate the daily prayers of the area's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        54.040933,
+                        17.000955
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "OM-ZU",
     coords: [54.0417, 16.9944],
@@ -839,7 +3044,124 @@ export const poiExtraOmanNatureV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-khabbab-nature-v2",
+    id: "oman-wadi-khabbab-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Houses",
+                  "text": "Alte Steinhäuser, die in den Berghang gebaut wurden und traditionelle Hochgebirgsarchitektur zeigen.",
+                  "category": "natural",
+                  "coords": [
+                        56.150479,
+                        25.881912
+                  ]
+            },
+            {
+                  "name": "Jabal Ghabbas",
+                  "text": "Ein hoher Berggipfel in der Region Musandam mit dramatischem Blick auf die felsige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        56.152536,
+                        25.847873
+                  ]
+            },
+            {
+                  "name": "Jabal Hagab",
+                  "text": "Ein anspruchsvoller Kalksteingipfel in den Musandam-Bergen, beliebt bei Bergsteigern.",
+                  "category": "natural",
+                  "coords": [
+                        56.230119,
+                        25.829011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Houses",
+                  "text": "Régi kőházak a hegyoldalba építve, amelyek a hagyományos magashegyi építészetet tükrözik.",
+                  "category": "natural",
+                  "coords": [
+                        56.150479,
+                        25.881912
+                  ]
+            },
+            {
+                  "name": "Jabal Ghabbas",
+                  "text": "Magas hegycsúcs a Muszandam régióban, drámai kilátással a sziklás tájra.",
+                  "category": "natural",
+                  "coords": [
+                        56.152536,
+                        25.847873
+                  ]
+            },
+            {
+                  "name": "Jabal Hagab",
+                  "text": "Kihívást jelentő mészkőcsúcs a Muszandam-hegységben, amely népszerű a hegymászók körében.",
+                  "category": "natural",
+                  "coords": [
+                        56.230119,
+                        25.829011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Houses",
+                  "text": "Locuințe vechi din piatră construite în versantul muntelui, prezentând arhitectura tradițională de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        56.150479,
+                        25.881912
+                  ]
+            },
+            {
+                  "name": "Jabal Ghabbas",
+                  "text": "Un vârf muntos înalt în regiunea Musandam, oferind vederi dramatice asupra peisajului stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        56.152536,
+                        25.847873
+                  ]
+            },
+            {
+                  "name": "Jabal Hagab",
+                  "text": "Un vârf calcaros provocator în munții Musandam, popular printre alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        56.230119,
+                        25.829011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Houses",
+                  "text": "Ancient stone dwellings built into the mountainside, showcasing traditional high-altitude architecture.",
+                  "category": "natural",
+                  "coords": [
+                        56.150479,
+                        25.881912
+                  ]
+            },
+            {
+                  "name": "Jabal Ghabbas",
+                  "text": "A high mountain summit in the Musandam region providing dramatic views of the rocky landscape.",
+                  "category": "natural",
+                  "coords": [
+                        56.152536,
+                        25.847873
+                  ]
+            },
+            {
+                  "name": "Jabal Hagab",
+                  "text": "A challenging limestone peak in the Musandam mountains, popular among mountain climbers.",
+                  "category": "natural",
+                  "coords": [
+                        56.230119,
+                        25.829011
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "OM-MU",
     coords: [56.1669, 25.8672],

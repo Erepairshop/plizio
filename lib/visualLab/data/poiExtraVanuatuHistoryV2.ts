@@ -610,7 +610,7 @@ export const vanuatuHistoryV2: POI[] = [
             },
             {
                   "name": "Hot Spring",
-                  "text": "Eine natürliche heiße Quelle und eine Sehenswürdigkeit in Sulphur Bay.",
+                  "text": "Eine heiße Quelle im Dorf John Frum mit warmem Mineralwasser und malerischer Aussicht.",
                   "category": "landmark",
                   "coords": [
                         169.459462,
@@ -639,7 +639,7 @@ export const vanuatuHistoryV2: POI[] = [
             },
             {
                   "name": "Hot Spring",
-                  "text": "Természetes melegvizes forrás és látnivaló a Kén-öbölben.",
+                  "text": "Egy forró forrás John Frum faluban, meleg ásványvízzel és festői kilátással.",
                   "category": "landmark",
                   "coords": [
                         169.459462,
@@ -668,7 +668,7 @@ export const vanuatuHistoryV2: POI[] = [
             },
             {
                   "name": "Hot Spring",
-                  "text": "Un izvor termal natural și o atracție în Sulphur Bay.",
+                  "text": "Un izvor termal în satul John Frum, cu ape minerale calde și priveliști pitorești.",
                   "category": "landmark",
                   "coords": [
                         169.459462,
@@ -697,7 +697,7 @@ export const vanuatuHistoryV2: POI[] = [
             },
             {
                   "name": "Hot Spring",
-                  "text": "A natural hot spring and attraction in Sulphur Bay.",
+                  "text": "A hot spring in John Frum Village, with warm mineral waters and scenic views.",
                   "category": "landmark",
                   "coords": [
                         169.459462,

@@ -412,7 +412,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Tiraz Kale",
-                  "text": "Eine in den Fels gehauene Burgruine in der Region Göreme.",
+                  "text": "Tiraz Kale, eine Burgruine in einem Nationalpark mit Blick über den umliegenden Wald.",
                   "category": "castle",
                   "coords": [
                         34.808497,
@@ -421,7 +421,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Roma Kalesi",
-                  "text": "Eine markante Felsenburg im Herzen von Göreme.",
+                  "text": "Römische Burgruinen im Nationalpark.",
                   "category": "castle",
                   "coords": [
                         34.82962,
@@ -439,7 +439,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Çavuşin Kalesi",
-                  "text": "Eine beeindruckende, in den Fels gehauene Festung in Çavuşin.",
+                  "text": "In den Fels gehauene Burg von Çavuşin im Nationalpark Göreme, mit Höhlenwohnungen.",
                   "category": "castle",
                   "coords": [
                         34.842496,
@@ -486,7 +486,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Tiraz Kale",
-                  "text": "Sziklába vájt várrom a Göreme régióban.",
+                  "text": "Tiraz Kale, várrom egy nemzeti parkban, kilátással a környező erdőre.",
                   "category": "castle",
                   "coords": [
                         34.808497,
@@ -495,7 +495,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Roma Kalesi",
-                  "text": "Jellegzetes sziklavár Göreme szívében.",
+                  "text": "Római kori várrom a nemzeti parkban.",
                   "category": "castle",
                   "coords": [
                         34.82962,
@@ -513,7 +513,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Çavuşin Kalesi",
-                  "text": "Lenyűgöző, sziklába vájt erődítmény Çavuşinban.",
+                  "text": "Çavuşin sziklába vésett vára a Göreme Nemzeti Parkban, barlanglakásokkal.",
                   "category": "castle",
                   "coords": [
                         34.842496,
@@ -560,7 +560,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Tiraz Kale",
-                  "text": "O ruină de castel săpată în stâncă în regiunea Göreme.",
+                  "text": "Tiraz Kale, o ruină de castel într-un parc național, deasupra pădurii înconjurătoare.",
                   "category": "castle",
                   "coords": [
                         34.808497,
@@ -569,7 +569,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Roma Kalesi",
-                  "text": "Un castel de stâncă proeminent în inima localității Göreme.",
+                  "text": "Ruine ale unui castel roman în parcul național.",
                   "category": "castle",
                   "coords": [
                         34.82962,
@@ -587,7 +587,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Çavuşin Kalesi",
-                  "text": "O fortăreață impresionantă săpată în stâncă în Çavuşin.",
+                  "text": "Castelul săpat în stâncă din Çavuşin, în Parcul Național Göreme, cu locuințe rupestre.",
                   "category": "castle",
                   "coords": [
                         34.842496,
@@ -634,7 +634,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Tiraz Kale",
-                  "text": "A rock-cut castle ruin in the Göreme region.",
+                  "text": "Tiraz Castle ruin within a national park, overlooking the surrounding forest.",
                   "category": "castle",
                   "coords": [
                         34.808497,
@@ -643,7 +643,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Roman Castle",
-                  "text": "A prominent rock castle in the heart of Göreme.",
+                  "text": "Roman-era castle ruins in the national park.",
                   "category": "castle",
                   "coords": [
                         34.82962,
@@ -661,7 +661,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Çavuşin Castle",
-                  "text": "An impressive rock-cut fortress in Çavuşin.",
+                  "text": "Rock-hewn castle of Çavuşin in Göreme National Park, with cave dwellings.",
                   "category": "castle",
                   "coords": [
                         34.842496,
@@ -1069,7 +1069,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Aspendos Arena",
-                  "text": "Eine moderne Arena für kulturelle Veranstaltungen bei Aspendos.",
+                  "text": "Moderne Gloria-Aspendos-Arena neben dem antiken Theater von Aspendos.",
                   "category": "cultural",
                   "coords": [
                         31.166902,
@@ -1078,7 +1078,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Cistern",
-                  "text": "Überreste einer antiken Wasserzisterne in Aspendos.",
+                  "text": "Antike Zisterne nahe dem Aspendos-Theater, diente der Wasserversorgung.",
                   "category": "historical",
                   "coords": [
                         31.169273,
@@ -1096,7 +1096,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Aquaeduct",
-                  "text": "Beeindruckende Ruinen eines römischen Aquädukts bei Aspendos.",
+                  "text": "Römisches Aquädukt, das Wasser zum Aspendos-Theater führte.",
                   "category": "historical",
                   "coords": [
                         31.167529,
@@ -1125,7 +1125,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Aspendos Arena",
-                  "text": "Modern kulturális rendezvényhelyszín Aspendos közelében.",
+                  "text": "Modern Gloria Aspendos Aréna az ókori Aspendos színház mellett.",
                   "category": "cultural",
                   "coords": [
                         31.166902,
@@ -1134,7 +1134,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Cistern",
-                  "text": "Ókori víztározó maradványai Aspendosban.",
+                  "text": "Ókori ciszterna az Aspendos színház közelében, víztárolásra használták.",
                   "category": "historical",
                   "coords": [
                         31.169273,
@@ -1152,7 +1152,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Su kemeri",
-                  "text": "Egy római vízvezeték lenyűgöző romjai Aspendos közelében.",
+                  "text": "Római vízvezeték, amely vizet szállított az Aspendos színházba.",
                   "category": "historical",
                   "coords": [
                         31.167529,
@@ -1181,7 +1181,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Aspendos Arena",
-                  "text": "O arenă modernă pentru evenimente culturale lângă Aspendos.",
+                  "text": "Arena modernă Gloria Aspendos, alături de teatrul antic Aspendos.",
                   "category": "cultural",
                   "coords": [
                         31.166902,
@@ -1190,7 +1190,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Cistern",
-                  "text": "Rămășițele unei cisterne antice de apă în Aspendos.",
+                  "text": "Cisternă antică lângă teatrul Aspendos, folosită pentru depozitarea apei.",
                   "category": "historical",
                   "coords": [
                         31.169273,
@@ -1208,7 +1208,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Su kemeri",
-                  "text": "Ruine impresionante ale unui apeduct roman lângă Aspendos.",
+                  "text": "Apeduct roman care aducea apă la teatrul Aspendos.",
                   "category": "historical",
                   "coords": [
                         31.167529,
@@ -1237,7 +1237,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Gloria Aspendos Arena",
-                  "text": "A modern arena for cultural events near Aspendos.",
+                  "text": "Modern Gloria Aspendos Arena adjacent to the ancient Aspendos theatre.",
                   "category": "cultural",
                   "coords": [
                         31.166902,
@@ -1246,7 +1246,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Cistern",
-                  "text": "Remains of an ancient water cistern in Aspendos.",
+                  "text": "Ancient cistern near the Aspendos theatre, used for water storage.",
                   "category": "historical",
                   "coords": [
                         31.169273,
@@ -1264,7 +1264,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Aqueduct",
-                  "text": "Impressive ruins of a Roman aqueduct near Aspendos.",
+                  "text": "Roman aqueduct that carried water to the Aspendos theatre.",
                   "category": "historical",
                   "coords": [
                         31.167529,
@@ -1402,7 +1402,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Bodrum Halk Plajı",
-                  "text": "Bodrum Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.",
+                  "text": "Öffentlicher Strand am Fuße der Burg von Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.435683,
@@ -1411,7 +1411,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Halk Plajı",
-                  "text": "Kumbahçe Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.",
+                  "text": "Kumbahçe öffentlicher Strand, eine Sandbucht unterhalb der Burg von Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.439865,
@@ -1420,7 +1420,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Plajı",
-                  "text": "Kumbahçe Plajı ist ein Strand in Castle Landmarks.",
+                  "text": "Kumbahçe Strand, ein beliebter Sandstrand unterhalb der Burg von Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.440175,
@@ -1530,7 +1530,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Bodrum Halk Plajı",
-                  "text": "A Bodrum Halk Plajı egy nyilvános strand Castle Landmarks területén.",
+                  "text": "Bodrum Halk Plajı, nyilvános strand a bodrumi vár lábánál.",
                   "category": "recreational",
                   "coords": [
                         27.435683,
@@ -1539,7 +1539,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Halk Plajı",
-                  "text": "A Kumbahçe Halk Plajı egy nyilvános strand Castle Landmarks területén.",
+                  "text": "Kumbahçe Halk Plajı, homokos öböl a bodrumi vár alatt.",
                   "category": "recreational",
                   "coords": [
                         27.439865,
@@ -1548,7 +1548,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Plajı",
-                  "text": "A Kumbahçe Plajı egy tengerpart Castle Landmarks területén.",
+                  "text": "Kumbahçe Plajı, népszerű homokos strand a bodrumi vár alatt.",
                   "category": "recreational",
                   "coords": [
                         27.440175,
@@ -1658,7 +1658,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Bodrum Halk Plajı",
-                  "text": "Bodrum Halk Plajı este o plajă publică situată în Castle Landmarks.",
+                  "text": "Plaja publică Bodrum la poalele Castelului Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.435683,
@@ -1667,7 +1667,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Halk Plajı",
-                  "text": "Kumbahçe Halk Plajı este o plajă publică situată în Castle Landmarks.",
+                  "text": "Plaja publică Kumbahçe, o mică golfuleț nisipos sub Castelul Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.439865,
@@ -1676,7 +1676,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Plajı",
-                  "text": "Kumbahçe Plajı este o plajă situată în Castle Landmarks.",
+                  "text": "Plaja Kumbahçe, o plajă populară nisipoasă sub Castelul Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.440175,
@@ -1786,7 +1786,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Bodrum Halk Plajı",
-                  "text": "Bodrum Halk Plajı is a public beach situated in Castle Landmarks.",
+                  "text": "Public beach at the foot of Bodrum Castle.",
                   "category": "recreational",
                   "coords": [
                         27.435683,
@@ -1795,7 +1795,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Halk Plajı",
-                  "text": "Kumbahçe Halk Plajı is a public beach located in Castle Landmarks.",
+                  "text": "Kumbahçe Public Beach, a sandy cove near Bodrum Castle.",
                   "category": "recreational",
                   "coords": [
                         27.439865,
@@ -1804,7 +1804,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
             },
             {
                   "name": "Kumbahçe Plajı",
-                  "text": "Kumbahçe Plajı is a beach destination found in Castle Landmarks.",
+                  "text": "Kumbahçe Beach, a popular sandy beach below Bodrum Castle.",
                   "category": "recreational",
                   "coords": [
                         27.440175,

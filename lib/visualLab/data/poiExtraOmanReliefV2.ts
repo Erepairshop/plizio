@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraOmanReliefV2: POI[] = [
   {
-    id: "oman-al-hadschar-relief-v2",
+    id: "oman-al-hadschar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayt Maillah",
+                  "text": "Alte Ruinen in der rauen Al-Hadschar-Region, die Zeugnis von traditioneller Bergarchitektur ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        57.31,
+                        23.2
+                  ]
+            },
+            {
+                  "name": "Ras al Haraq",
+                  "text": "Ein einsamer Gipfel im zentralen Hadschar-Gebirge mit Blick auf tiefe Täler.",
+                  "category": "natural",
+                  "coords": [
+                        57.344549,
+                        23.194753
+                  ]
+            },
+            {
+                  "name": "Tour Guide",
+                  "text": "Ein Aussichtspunkt, der oft von Führern genutzt wird, um die weite Berglandschaft zu erklären.",
+                  "category": "natural",
+                  "coords": [
+                        57.388581,
+                        23.190064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayt Maillah",
+                  "text": "Ősi romok a zord Al-Haddzsar régióban, amelyek a hagyományos hegyi építészetről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        57.31,
+                        23.2
+                  ]
+            },
+            {
+                  "name": "Ras al Haraq",
+                  "text": "A Középső-Haddzsar magányos csúcsa, ahonnan kilátás nyílik a mély völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        57.344549,
+                        23.194753
+                  ]
+            },
+            {
+                  "name": "Tour Guide",
+                  "text": "Kilátóhely, amelyet gyakran használnak a vezetők a tágas hegyi táj bemutatására.",
+                  "category": "natural",
+                  "coords": [
+                        57.388581,
+                        23.190064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayt Maillah",
+                  "text": "Vechile ruine din regiunea accidentată Al Hajar, care stau mărturie arhitecturii montane tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        57.31,
+                        23.2
+                  ]
+            },
+            {
+                  "name": "Ras al Haraq",
+                  "text": "Un vârf solitar în munții Hajar Centrali, cu vedere spre văi adânce.",
+                  "category": "natural",
+                  "coords": [
+                        57.344549,
+                        23.194753
+                  ]
+            },
+            {
+                  "name": "Tour Guide",
+                  "text": "Un punct de observație folosit adesea de ghizi pentru a explica peisajul montan vast.",
+                  "category": "natural",
+                  "coords": [
+                        57.388581,
+                        23.190064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayt Maillah",
+                  "text": "Old ruins in the rugged Al Hajar region, bearing witness to traditional mountain architecture.",
+                  "category": "historical",
+                  "coords": [
+                        57.31,
+                        23.2
+                  ]
+            },
+            {
+                  "name": "Ras al Haraq",
+                  "text": "A solitary peak in the Central Hajar Mountains overlooking deep valleys.",
+                  "category": "natural",
+                  "coords": [
+                        57.344549,
+                        23.194753
+                  ]
+            },
+            {
+                  "name": "Tour Guide",
+                  "text": "A lookout point often used by guides to explain the vast mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        57.388581,
+                        23.190064
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-DA",
     coords: [57.3, 23.2],
@@ -147,7 +264,52 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-jebel-qamar-relief-v2",
+    id: "oman-jebel-qamar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sink hole",
+                  "text": "Eine tiefe natürliche Einsturzdoline im Kalksteingebirge des Jebel Qamar, die durch Karsterosion entstanden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        53.586941,
+                        16.773194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sink hole",
+                  "text": "A Jebel Qamar mészkőhegységében található mély, természetes víznyelő, amely karszterózió révén jött létre.",
+                  "category": "landmark",
+                  "coords": [
+                        53.586941,
+                        16.773194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sink hole",
+                  "text": "O dolină naturală adâncă în munții calcaroși Jebel Qamar, formată prin eroziune carstică.",
+                  "category": "landmark",
+                  "coords": [
+                        53.586941,
+                        16.773194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sink hole",
+                  "text": "A deep natural sinkhole in the limestone mountains of Jebel Qamar, formed by extensive karst erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        53.586941,
+                        16.773194
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-DH",
     coords: [53.5, 16.8],
@@ -195,7 +357,376 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-jebel-qara-relief-v2",
+    id: "oman-jebel-qara-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shaot",
+                  "text": "Ein natürlicher Höhleneingang in den Kalksteinfelsen des Jebel Qara-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        54.08,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Eyeetaut",
+                  "text": "Eine tiefe Karsthöhle in der zerklüfteten Hochlandschaft von Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Harr Sharqat",
+                  "text": "Diese Kalksteinhöhle ist charakteristisch für die wasserreiche Geologie der Region während des Monsuns.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Harr A Abdyrt",
+                  "text": "Ein Höhlenmund in den grünen Bergen oberhalb der Küstenstadt Salalah.",
+                  "category": "natural",
+                  "coords": [
+                        54.069799,
+                        17.149613
+                  ]
+            },
+            {
+                  "name": "Edhell",
+                  "text": "Eine geologisch interessante Höhlenöffnung im Kalksteinmassiv des Jebel Qara.",
+                  "category": "natural",
+                  "coords": [
+                        54.079518,
+                        17.17066
+                  ]
+            },
+            {
+                  "name": "Khujum",
+                  "text": "Ein großes natürliches Loch oder Höhleneingang auf dem Karstplateau von Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.070015,
+                        17.170796
+                  ]
+            },
+            {
+                  "name": "Jabal Sharif",
+                  "text": "Ein markanter Gipfel in der Qara-Kette, der während des Khareef oft in dichten Nebel gehüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.1,
+                        17.17
+                  ]
+            },
+            {
+                  "name": "Khadr Horr Caves",
+                  "text": "Eine Reihe von natürlichen Felskammern, die tief in den Kalkstein der südlichen Berge führen.",
+                  "category": "natural",
+                  "coords": [
+                        54.09,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Khadr Aja Caves",
+                  "text": "Höhleneingänge in den dramatischen Klippen, die dem Arabischen Meer zugewandt sind.",
+                  "category": "natural",
+                  "coords": [
+                        54.11,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Ejfoh",
+                  "text": "Ein abgelegener Höhleneingang in der unberührten Wildnis des südlichen Omans.",
+                  "category": "natural",
+                  "coords": [
+                        54.099999,
+                        17.140073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shaot",
+                  "text": "Természetes barlangbejárat a Jebel Qara-hegység mészkősziklái között.",
+                  "category": "natural",
+                  "coords": [
+                        54.08,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Eyeetaut",
+                  "text": "Mély karsztbarlang Dofár tagolt felföldi táján.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Harr Sharqat",
+                  "text": "Ez a mészkőbarlang jellemző a régió monszun idején vízgazdag geológiájára.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Harr A Abdyrt",
+                  "text": "Barlangszáj a Szalála tengerparti városa feletti zöld hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        54.069799,
+                        17.149613
+                  ]
+            },
+            {
+                  "name": "Edhell",
+                  "text": "Földtanilag érdekes barlangnyílás a Jebel Qara mészkőmasszívumában.",
+                  "category": "natural",
+                  "coords": [
+                        54.079518,
+                        17.17066
+                  ]
+            },
+            {
+                  "name": "Khujum",
+                  "text": "Hatalmas természetes lyuk vagy barlangbejárat a dofári karsztfennsíkon.",
+                  "category": "natural",
+                  "coords": [
+                        54.070015,
+                        17.170796
+                  ]
+            },
+            {
+                  "name": "Jabal Sharif",
+                  "text": "A Qara-hegység egyik jellegzetes csúcsa, amely a Khareef idején gyakran sűrű ködbe vész.",
+                  "category": "natural",
+                  "coords": [
+                        54.1,
+                        17.17
+                  ]
+            },
+            {
+                  "name": "Khadr Horr Caves",
+                  "text": "Természetes sziklakamrák sorozata, amelyek mélyen a déli hegyek mészkövébe vezetnek.",
+                  "category": "natural",
+                  "coords": [
+                        54.09,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Khadr Aja Caves",
+                  "text": "Barlangbejáratok az Arab-tengerre néző drámai sziklafalakban.",
+                  "category": "natural",
+                  "coords": [
+                        54.11,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Ejfoh",
+                  "text": "Távoli barlangbejárat Dél-Omán érintetlen vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        54.099999,
+                        17.140073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shaot",
+                  "text": "O intrare naturală de peșteră în stâncile de calcar ale munților Jebel Qara.",
+                  "category": "natural",
+                  "coords": [
+                        54.08,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Eyeetaut",
+                  "text": "O peșteră carstică adâncă în peisajul accidentat al podișului Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Harr Sharqat",
+                  "text": "Această peșteră de calcar este caracteristică geologiei bogate în apă a regiunii în timpul musonului.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Harr A Abdyrt",
+                  "text": "O gură de peșteră în munții verzi de deasupra orașului de coastă Salalah.",
+                  "category": "natural",
+                  "coords": [
+                        54.069799,
+                        17.149613
+                  ]
+            },
+            {
+                  "name": "Edhell",
+                  "text": "O deschidere de peșteră interesantă din punct de vedere geologic în masivul de calcar Jebel Qara.",
+                  "category": "natural",
+                  "coords": [
+                        54.079518,
+                        17.17066
+                  ]
+            },
+            {
+                  "name": "Khujum",
+                  "text": "O gaură naturală mare sau o intrare de peșteră pe platoul carstic din Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.070015,
+                        17.170796
+                  ]
+            },
+            {
+                  "name": "Jabal Sharif",
+                  "text": "Un vârf proeminent din lanțul Qara, adesea învăluit în ceață densă în timpul sezonului Khareef.",
+                  "category": "natural",
+                  "coords": [
+                        54.1,
+                        17.17
+                  ]
+            },
+            {
+                  "name": "Khadr Horr Caves",
+                  "text": "O serie de camere naturale în stâncă care duc adânc în calcarul munților din sud.",
+                  "category": "natural",
+                  "coords": [
+                        54.09,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Khadr Aja Caves",
+                  "text": "Intrări de peșteră în stâncile dramatice orientate spre Marea Arabiei.",
+                  "category": "natural",
+                  "coords": [
+                        54.11,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Ejfoh",
+                  "text": "O intrare de peșteră retrasă în sălbăticia neatinsă a Omanului de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        54.099999,
+                        17.140073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaot",
+                  "text": "A natural cave entrance tucked into the limestone cliffs of the Jebel Qara mountains.",
+                  "category": "natural",
+                  "coords": [
+                        54.08,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Eyeetaut",
+                  "text": "A deep karst cave located in the rugged highland landscape of Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Harr Sharqat",
+                  "text": "This limestone cave is characteristic of the region's water-rich geology during the monsoon.",
+                  "category": "natural",
+                  "coords": [
+                        54.06,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Harr A Abdyrt",
+                  "text": "A cave mouth situated in the green mountains above the coastal city of Salalah.",
+                  "category": "natural",
+                  "coords": [
+                        54.069799,
+                        17.149613
+                  ]
+            },
+            {
+                  "name": "Edhell",
+                  "text": "A geologically interesting cave opening in the limestone massif of Jebel Qara.",
+                  "category": "natural",
+                  "coords": [
+                        54.079518,
+                        17.17066
+                  ]
+            },
+            {
+                  "name": "Khujum",
+                  "text": "A large natural hole or cave entrance found on the karstic plateau of Dhofar.",
+                  "category": "natural",
+                  "coords": [
+                        54.070015,
+                        17.170796
+                  ]
+            },
+            {
+                  "name": "Jabal Sharif",
+                  "text": "A prominent summit in the Qara range, often enveloped in thick mist during the Khareef.",
+                  "category": "natural",
+                  "coords": [
+                        54.1,
+                        17.17
+                  ]
+            },
+            {
+                  "name": "Khadr Horr Caves",
+                  "text": "A series of natural rock chambers leading deep into the limestone of the southern mountains.",
+                  "category": "natural",
+                  "coords": [
+                        54.09,
+                        17.15
+                  ]
+            },
+            {
+                  "name": "Khadr Aja Caves",
+                  "text": "Cave entrances set into the dramatic cliffs facing the Arabian Sea.",
+                  "category": "natural",
+                  "coords": [
+                        54.11,
+                        17.14
+                  ]
+            },
+            {
+                  "name": "Ejfoh",
+                  "text": "A remote cave entrance located in the untouched wilderness of southern Oman.",
+                  "category": "natural",
+                  "coords": [
+                        54.099999,
+                        17.140073
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-DH",
     coords: [54.1, 17.1],
@@ -243,7 +774,88 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-tiwi-relief-v2",
+    id: "oman-wadi-tiwi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "beehave_grave",
+                  "text": "Diese antiken, kreisförmigen Steingräber aus der Bronzezeit thronen auf den hohen Gebirgskämmen über dem Wadi Tiwi.",
+                  "category": "historical",
+                  "coords": [
+                        59.191734,
+                        22.696845
+                  ]
+            },
+            {
+                  "name": "wadi tiwi",
+                  "text": "Ein Aussichtspunkt mit Blick auf den schmalen Talboden, der mit traditionellen Dattelpalmenfarmen und kleinen Dörfern übersät ist.",
+                  "category": "natural",
+                  "coords": [
+                        59.225801,
+                        22.77984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "beehave_grave",
+                  "text": "Ezek az ősi, bronzkori kör alakú kősírok a Wadi Tiwi feletti magas hegygerinceken sorakoznak.",
+                  "category": "historical",
+                  "coords": [
+                        59.191734,
+                        22.696845
+                  ]
+            },
+            {
+                  "name": "wadi tiwi",
+                  "text": "Kilátópont a szűk völgytalpra, amelyet hagyományos datolyapálma-ligetek és kis falvak tarkítanak.",
+                  "category": "natural",
+                  "coords": [
+                        59.225801,
+                        22.77984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "beehave_grave",
+                  "text": "Aceste morminte circulare antice din piatră, datând din Epoca Bronzului, sunt cocoțate pe crestele muntoase de deasupra Wadi Tiwi.",
+                  "category": "historical",
+                  "coords": [
+                        59.191734,
+                        22.696845
+                  ]
+            },
+            {
+                  "name": "wadi tiwi",
+                  "text": "Un punct de observație asupra fundului îngust al văii, punctat de ferme tradiționale de curmali și sate mici.",
+                  "category": "natural",
+                  "coords": [
+                        59.225801,
+                        22.77984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "beehave_grave",
+                  "text": "Ancient circular stone tombs from the Bronze Age perched on the high mountain ridges overlooking Wadi Tiwi.",
+                  "category": "historical",
+                  "coords": [
+                        59.191734,
+                        22.696845
+                  ]
+            },
+            {
+                  "name": "wadi tiwi",
+                  "text": "A viewpoint overlooking the narrow valley floor dotted with traditional date palm farms and small villages.",
+                  "category": "natural",
+                  "coords": [
+                        59.225801,
+                        22.77984
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "OM-SH",
     coords: [59.25, 22.75],
@@ -291,7 +903,52 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-arbaeen-relief-v2",
+    id: "oman-wadi-arbaeen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suwayh Waterfall and Pools",
+                  "text": "Eine natürliche Wüstenoase mit erfrischenden Kaskaden, die in tiefe Felsbecken stürzen.",
+                  "category": "natural",
+                  "coords": [
+                        58.991296,
+                        23.034733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suwayh Waterfall and Pools",
+                  "text": "Természetes sivatagi oázis frissítő vízesésekkel, amelyek mély sziklamedencékbe hullanak.",
+                  "category": "natural",
+                  "coords": [
+                        58.991296,
+                        23.034733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suwayh Waterfall and Pools",
+                  "text": "O oază naturală în deșert, cu cascade răcoritoare care se varsă în bazine adânci de stâncă.",
+                  "category": "natural",
+                  "coords": [
+                        58.991296,
+                        23.034733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suwayh Waterfall and Pools",
+                  "text": "A natural desert oasis with refreshing cascades falling into deep rock basins.",
+                  "category": "natural",
+                  "coords": [
+                        58.991296,
+                        23.034733
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "OM-MA",
     coords: [58.95, 23.05],
@@ -387,7 +1044,304 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-bani-awf-relief-v2",
+    id: "oman-wadi-bani-awf-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Awabi Castle",
+                  "text": "Das Al Awabi Castle ist eine bemerkenswerte historische Attraktion in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530564,
+                        23.299627
+                  ]
+            },
+            {
+                  "name": "Jabal hatt Al Sherqie Mountain view",
+                  "text": "Jabal hatt Al Sherqie bietet malerische Bergaussichten über oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.416784,
+                        23.166845
+                  ]
+            },
+            {
+                  "name": "Wadi Bani Kharous",
+                  "text": "Wadi Bani Kharous ist eine Naturattraktion, die wunderschöne Landschaften in oman-wadi-bani-awf-relief-v2 bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530579,
+                        23.243352
+                  ]
+            },
+            {
+                  "name": "Jabal al Jaru",
+                  "text": "Jabal al Jaru ist ein markanter Berggipfel in oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.47743,
+                        23.223599
+                  ]
+            },
+            {
+                  "name": "Little snake canyon walk",
+                  "text": "Der Little Snake Canyon Walk bietet einen malerischen Aussichtspunkt in oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.437493,
+                        23.240773
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon",
+                  "text": "Little Snake Canyon ist eine natürliche geografische Attraktion in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.451388,
+                        23.234807
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon Water Pools",
+                  "text": "Die Little Snake Canyon Water Pools sind eine attraktive natürliche Besonderheit in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.431542,
+                        23.245384
+                  ]
+            },
+            {
+                  "name": "ICE wildcampspot as well",
+                  "text": "Dieser Ort dient als Aussichtspunkt und wilder Campingplatz in oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.43042,
+                        23.173682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Awabi Castle",
+                  "text": "Az Al Awabi kastély egy figyelemre méltó történelmi látványosság oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530564,
+                        23.299627
+                  ]
+            },
+            {
+                  "name": "Jabal hatt Al Sherqie Mountain view",
+                  "text": "A Jabal hatt Al Sherqie hegyi kilátó festői panorámát kínál oman-wadi-bani-awf-relief-v2 területére.",
+                  "category": "natural",
+                  "coords": [
+                        57.416784,
+                        23.166845
+                  ]
+            },
+            {
+                  "name": "Wadi Bani Kharous",
+                  "text": "A Wadi Bani Kharous egy természeti látványosság, amely gyönyörű tájakat kínál oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530579,
+                        23.243352
+                  ]
+            },
+            {
+                  "name": "Jabal al Jaru",
+                  "text": "A Jabal al Jaru egy kiemelkedő hegycsúcs oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.47743,
+                        23.223599
+                  ]
+            },
+            {
+                  "name": "Little snake canyon walk",
+                  "text": "A Little snake canyon túraútvonal festői kilátópontot kínál oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.437493,
+                        23.240773
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon",
+                  "text": "A Little Snake Canyon egy természetes földrajzi látványosság oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.451388,
+                        23.234807
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon Water Pools",
+                  "text": "A Little Snake Canyon Water Pools egy vonzó természeti adottság oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.431542,
+                        23.245384
+                  ]
+            },
+            {
+                  "name": "ICE wildcampspot as well",
+                  "text": "Ez a hely festői kilátópontként és vadkempingező helyként is szolgál oman-wadi-bani-awf-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.43042,
+                        23.173682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Awabi Castle",
+                  "text": "Castelul Al Awabi este o atracție istorică notabilă din oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530564,
+                        23.299627
+                  ]
+            },
+            {
+                  "name": "Jabal hatt Al Sherqie Mountain view",
+                  "text": "Jabal hatt Al Sherqie oferă vederi pitorești la munte în oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.416784,
+                        23.166845
+                  ]
+            },
+            {
+                  "name": "Wadi Bani Kharous",
+                  "text": "Wadi Bani Kharous este o atracție naturală care oferă peisaje frumoase în oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530579,
+                        23.243352
+                  ]
+            },
+            {
+                  "name": "Jabal al Jaru",
+                  "text": "Jabal al Jaru este un vârf de munte proeminent situat în oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.47743,
+                        23.223599
+                  ]
+            },
+            {
+                  "name": "Little snake canyon walk",
+                  "text": "Traseul Little snake canyon oferă un punct de belvedere pitoresc în oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.437493,
+                        23.240773
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon",
+                  "text": "Little Snake Canyon este o atracție geografică naturală situată în oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.451388,
+                        23.234807
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon Water Pools",
+                  "text": "Little Snake Canyon Water Pools sunt o atracție naturală atrăgătoare din oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.431542,
+                        23.245384
+                  ]
+            },
+            {
+                  "name": "ICE wildcampspot as well",
+                  "text": "Această locație servește drept punct de belvedere pitoresc și loc de campare sălbatică în oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.43042,
+                        23.173682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Awabi Castle",
+                  "text": "Al Awabi Castle is a notable historic attraction in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530564,
+                        23.299627
+                  ]
+            },
+            {
+                  "name": "Jabal hatt Al Sherqie Mountain view",
+                  "text": "Jabal hatt Al Sherqie offers scenic mountain views across oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.416784,
+                        23.166845
+                  ]
+            },
+            {
+                  "name": "Wadi Bani Kharous",
+                  "text": "Wadi Bani Kharous is a natural attraction offering beautiful landscapes in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530579,
+                        23.243352
+                  ]
+            },
+            {
+                  "name": "Jabal al Jaru",
+                  "text": "Jabal al Jaru is a prominent mountain peak situated in oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.47743,
+                        23.223599
+                  ]
+            },
+            {
+                  "name": "Little snake canyon walk",
+                  "text": "The Little snake canyon walk provides a scenic viewpoint in oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.437493,
+                        23.240773
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon",
+                  "text": "Little Snake Canyon is a natural geographic attraction located in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.451388,
+                        23.234807
+                  ]
+            },
+            {
+                  "name": "Little Snake Canyon Water Pools",
+                  "text": "The Little Snake Canyon Water Pools are an attractive natural feature in oman-wadi-bani-awf-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        57.431542,
+                        23.245384
+                  ]
+            },
+            {
+                  "name": "ICE wildcampspot as well",
+                  "text": "This location serves as a scenic viewpoint and wild camping spot in oman-wadi-bani-awf-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        57.43042,
+                        23.173682
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "OM-BA",
     coords: [57.45, 23.25],
@@ -435,7 +1389,52 @@ export const poiExtraOmanReliefV2: POI[] = [
     }
   },
   {
-    id: "oman-jebel-misht-relief-v2",
+    id: "oman-jebel-misht-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musalalah",
+                  "text": "Antike Steinruinen am Fuße der gewaltigen Kalksteinwand des Jebel Misht.",
+                  "category": "historical",
+                  "coords": [
+                        56.95,
+                        23.27
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musalalah",
+                  "text": "Ősi kőromok a Dzsebel Mist hatalmas mészkőfalának lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        56.95,
+                        23.27
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musalalah",
+                  "text": "Ruine antice din piatră la poalele peretelui masiv de calcar al muntelui Jebel Misht.",
+                  "category": "historical",
+                  "coords": [
+                        56.95,
+                        23.27
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musalalah",
+                  "text": "Ancient stone ruins at the base of the massive limestone wall of Jebel Misht.",
+                  "category": "historical",
+                  "coords": [
+                        56.95,
+                        23.27
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-ZA",
     coords: [56.9, 23.25],
@@ -483,7 +1482,88 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-jebel-kawr-relief-v2",
+    id: "oman-jebel-kawr-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mutrid",
+                  "text": "Mutrid sind historische Ruinen, die Einblicke in die Vergangenheit der Region geben.",
+                  "category": "historical",
+                  "coords": [
+                        56.9,
+                        23.12
+                  ]
+            },
+            {
+                  "name": "Jebel Kawr",
+                  "text": "Der Jebel Kawr ist ein markanter Berggipfel, der die Landschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        57.014071,
+                        23.13871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mutrid",
+                  "text": "Mutrid egy történelmi romterület, amely bepillantást enged a régió múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        56.9,
+                        23.12
+                  ]
+            },
+            {
+                  "name": "Jebel Kawr",
+                  "text": "A Jebel Kawr egy kiemelkedő hegycsúcs, amely meghatározza a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        57.014071,
+                        23.13871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mutrid",
+                  "text": "Mutrid reprezintă o serie de ruine istorice care oferă indicii despre trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        56.9,
+                        23.12
+                  ]
+            },
+            {
+                  "name": "Jebel Kawr",
+                  "text": "Jebel Kawr este un vârf muntos proeminent care domină peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        57.014071,
+                        23.13871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mutrid",
+                  "text": "Mutrid is a site of historic ruins offering a glimpse into the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        56.9,
+                        23.12
+                  ]
+            },
+            {
+                  "name": "Jebel Kawr",
+                  "text": "Jebel Kawr is a prominent mountain peak dominating the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        57.014071,
+                        23.13871
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "OM-DA",
     coords: [56.95, 23.15],
@@ -579,7 +1659,52 @@ export const poiExtraOmanReliefV2: POI[] = [
     }
   },
   {
-    id: "oman-wadi-damm-relief-v2",
+    id: "oman-wadi-damm-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Sumarrah",
+                  "text": "Ein schroffer Gipfel in unmittelbarer Nähe zu den smaragdgrünen Wasserbecken des Wadi Damm.",
+                  "category": "natural",
+                  "coords": [
+                        56.893409,
+                        23.178765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Sumarrah",
+                  "text": "Sziklás csúcs a Wadi Damm smaragdzöld vízmedencéinek közvetlen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        56.893409,
+                        23.178765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Sumarrah",
+                  "text": "Un vârf abrupt situat în imediata apropiere a bazinelor de apă smarald din Wadi Damm.",
+                  "category": "natural",
+                  "coords": [
+                        56.893409,
+                        23.178765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Sumarrah",
+                  "text": "A rugged peak situated in close proximity to the emerald water pools of Wadi Damm.",
+                  "category": "natural",
+                  "coords": [
+                        56.893409,
+                        23.178765
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "OM-ZA",
     coords: [56.9, 23.2],
@@ -627,7 +1752,88 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-batinah-coast-relief-v2",
+    id: "oman-batinah-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese lokale islamische Moschee bietet einen ruhigen Ort für die täglichen Gebete an der Küste von al-Batina in Oman.",
+                  "category": "landmark",
+                  "coords": [
+                        57.053507,
+                        24.005701
+                  ]
+            },
+            {
+                  "name": "Al- Rathawan Mosque",
+                  "text": "Die Al-Rathawan-Moschee ist eine etablierte islamische Stätte für Versammlungen an der Küste von al-Batina.",
+                  "category": "landmark",
+                  "coords": [
+                        57.066986,
+                        23.992872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Ez a helyi iszlám mecset nyugodt környezetet biztosít a napi imákhoz az ománi Batinah-parton.",
+                  "category": "landmark",
+                  "coords": [
+                        57.053507,
+                        24.005701
+                  ]
+            },
+            {
+                  "name": "Al- Rathawan Mosque",
+                  "text": "Az Al-Rathawan mecset egy elismert iszlám gyülekezeti hely a Batinah-part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.066986,
+                        23.992872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee islamică locală oferă un cadru liniștit pentru rugăciunile zilnice de-a lungul coastei Batinah din Oman.",
+                  "category": "landmark",
+                  "coords": [
+                        57.053507,
+                        24.005701
+                  ]
+            },
+            {
+                  "name": "Al- Rathawan Mosque",
+                  "text": "Moscheea Al-Rathawan este un loc islamic stabilit pentru congregație de-a lungul coastei Batinah.",
+                  "category": "landmark",
+                  "coords": [
+                        57.066986,
+                        23.992872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "This local Islamic mosque provides a tranquil setting for daily prayers along Oman's Batinah coast.",
+                  "category": "landmark",
+                  "coords": [
+                        57.053507,
+                        24.005701
+                  ]
+            },
+            {
+                  "name": "Al- Rathawan Mosque",
+                  "text": "The Al-Rathawan Mosque is an established Islamic site for congregation along the Batinah coast.",
+                  "category": "landmark",
+                  "coords": [
+                        57.066986,
+                        23.992872
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "OM-BS",
     coords: [57.0, 24.0],
@@ -771,7 +1977,52 @@ export const poiExtraOmanReliefV2: POI[] = [
     }
   },
   {
-    id: "oman-ramlat-jadilah-relief-v2",
+    id: "oman-ramlat-jadilah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sleep in tents",
+                  "text": "Ein Erlebnis unter dem Sternenhimmel in den riesigen Sanddünen der Rub al-Chali-Wüste.",
+                  "category": "landmark",
+                  "coords": [
+                        53.519769,
+                        18.459067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sleep in tents",
+                  "text": "Éjszakai élmény a csillagos ég alatt a Rub-el-Háli sivatag hatalmas homokdűnéi között.",
+                  "category": "landmark",
+                  "coords": [
+                        53.519769,
+                        18.459067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sleep in tents",
+                  "text": "O experiență sub cerul înstelat, printre dunele uriașe de nisip din deșertul Rub al-Khali.",
+                  "category": "landmark",
+                  "coords": [
+                        53.519769,
+                        18.459067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sleep in tents",
+                  "text": "An overnight experience under the stars amidst the massive sand dunes of the Rub' al Khali desert.",
+                  "category": "landmark",
+                  "coords": [
+                        53.519769,
+                        18.459067
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "OM-DH",
     coords: [53.5, 18.5],
@@ -867,7 +2118,196 @@ export const poiExtraOmanReliefV2: POI[] = [
     },
   },
   {
-    id: "oman-wadi-hawqayn-relief-v2",
+    id: "oman-wadi-hawqayn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Hawqayn Trenches",
+                  "text": "Ein schmales Kalkstein-Labyrinth mit tiefen Felsspalten im Bett des Wadi Al-Hawqayn.",
+                  "category": "landmark",
+                  "coords": [
+                        57.336647,
+                        23.536554
+                  ]
+            },
+            {
+                  "name": "Wadi Al-Hawqayn",
+                  "text": "Ein malerisches Wadi mit ganzjährig fließenden Bächen und üppigen Palmenhainen.",
+                  "category": "landmark",
+                  "coords": [
+                        57.339225,
+                        23.550206
+                  ]
+            },
+            {
+                  "name": "Al-Hawqayn Waterfalls",
+                  "text": "Natürliche Kaskaden, die in tiefblaue Wasserbecken inmitten weißer Felsen stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        57.341294,
+                        23.546165
+                  ]
+            },
+            {
+                  "name": "Masjid Almamora",
+                  "text": "Eine örtliche Moschee im traditionellen omanischen Stil im Dorf Almamora.",
+                  "category": "landmark",
+                  "coords": [
+                        57.33053,
+                        23.534072
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "Ein schlichtes muslimisches Gebetshaus, das den Bewohnern des Al-Hawqayn-Tals dient.",
+                  "category": "religious",
+                  "coords": [
+                        57.363529,
+                        23.609671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Hawqayn Trenches",
+                  "text": "Mély sziklahasadékokkal szabdalt keskeny mészkőlabirintus a Vádi al-Haukain medrében.",
+                  "category": "landmark",
+                  "coords": [
+                        57.336647,
+                        23.536554
+                  ]
+            },
+            {
+                  "name": "Wadi Al-Hawqayn",
+                  "text": "Gleccser vájt völgy egész évben csörgedező patakokkal és buja pálmaligetekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        57.339225,
+                        23.550206
+                  ]
+            },
+            {
+                  "name": "Al-Hawqayn Waterfalls",
+                  "text": "Természetes vízesések, amelyek fehér sziklák között mélykék medencékbe zúdulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        57.341294,
+                        23.546165
+                  ]
+            },
+            {
+                  "name": "Masjid Almamora",
+                  "text": "Hagyományos ománi stílusú helyi mecset Almamora falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.33053,
+                        23.534072
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "Egyszerű muszlim imaház, amely az Al-Haukain völgy lakóit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        57.363529,
+                        23.609671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Hawqayn Trenches",
+                  "text": "Un labirint îngust de calcar, cu fisuri adânci în stâncă, situat în albia Wadi Al-Hawqayn.",
+                  "category": "landmark",
+                  "coords": [
+                        57.336647,
+                        23.536554
+                  ]
+            },
+            {
+                  "name": "Wadi Al-Hawqayn",
+                  "text": "Un wadi pitoresc, cu pârâuri care curg tot anul și plantații luxuriante de palmieri.",
+                  "category": "landmark",
+                  "coords": [
+                        57.339225,
+                        23.550206
+                  ]
+            },
+            {
+                  "name": "Al-Hawqayn Waterfalls",
+                  "text": "Cascade naturale care se varsă în bazine adânci de apă, printre stânci albe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.341294,
+                        23.546165
+                  ]
+            },
+            {
+                  "name": "Masjid Almamora",
+                  "text": "O moschee locală în stil tradițional omanez, situată în satul Almamora.",
+                  "category": "landmark",
+                  "coords": [
+                        57.33053,
+                        23.534072
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "O casă de rugăciune musulmană simplă, care deservește locuitorii văii Al-Hawqayn.",
+                  "category": "religious",
+                  "coords": [
+                        57.363529,
+                        23.609671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Hawqayn Trenches",
+                  "text": "A narrow limestone labyrinth with deep rock crevices in the bed of Wadi Al-Hawqayn.",
+                  "category": "landmark",
+                  "coords": [
+                        57.336647,
+                        23.536554
+                  ]
+            },
+            {
+                  "name": "Wadi Al-Hawqayn",
+                  "text": "A picturesque wadi featuring year-round flowing streams and lush palm groves.",
+                  "category": "landmark",
+                  "coords": [
+                        57.339225,
+                        23.550206
+                  ]
+            },
+            {
+                  "name": "Al-Hawqayn Waterfalls",
+                  "text": "Natural cascades tumbling into deep blue pools amidst white limestone rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        57.341294,
+                        23.546165
+                  ]
+            },
+            {
+                  "name": "Masjid Almamora",
+                  "text": "A local mosque in traditional Omani style located in the village of Almamora.",
+                  "category": "landmark",
+                  "coords": [
+                        57.33053,
+                        23.534072
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "A simple Muslim house of prayer serving the residents of the Al-Hawqayn valley.",
+                  "category": "religious",
+                  "coords": [
+                        57.363529,
+                        23.609671
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "OM-BA",
     coords: [57.33, 23.54],

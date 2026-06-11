@@ -1393,7 +1393,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Muzeum Minerałów i Skamieniałości",
-                  "text": "Ein Museum in Łysica, das Mineralien und Fossilien ausstellt.",
+                  "text": "Das Mineralien- und Fossilienmuseum auf dem Łysica-Gipfel zeigt Gesteine aus dem Heiligkreuzgebirge.",
                   "category": "museum",
                   "coords": [
                         20.881757,
@@ -1429,7 +1429,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Stefana Żeromskiego",
-                  "text": "Ein Denkmal zu Ehren des Schriftstellers Stefan Żeromski.",
+                  "text": "Das Stefan-Żeromski-Denkmal auf dem Łysica-Gipfel erinnert an den Schriftsteller.",
                   "category": "historical",
                   "coords": [
                         20.883795,
@@ -1449,7 +1449,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Muzeum Minerałów i Skamieniałości",
-                  "text": "Ásványokat és kövületeket bemutató múzeum Łysica településen.",
+                  "text": "A Łysica-csúcson található Ásvány- és Őslénytani Múzeum a Świętokrzyskie-hegység kőzeteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         20.881757,
@@ -1485,7 +1485,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Stefana Żeromskiego",
-                  "text": "Stefan Żeromski író tiszteletére emelt emlékmű.",
+                  "text": "A Stefan Żeromski-emlékmű a Łysica-csúcson az író előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         20.883795,
@@ -1505,7 +1505,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Muzeum Minerałów i Skamieniałości",
-                  "text": "Un muzeu în Łysica care expune minerale și fosile.",
+                  "text": "Muzeul de Minerale și Fosile de pe vârful Łysica prezintă roci din Munții Świętokrzyskie.",
                   "category": "museum",
                   "coords": [
                         20.881757,
@@ -1541,7 +1541,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Stefana Żeromskiego",
-                  "text": "Un monument ridicat în onoarea scriitorului Stefan Żeromski.",
+                  "text": "Monumentul lui Stefan Żeromski de pe vârful Łysica comemorează scriitorul.",
                   "category": "historical",
                   "coords": [
                         20.883795,
@@ -1561,7 +1561,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Muzeum Minerałów i Skamieniałości",
-                  "text": "A museum in Łysica exhibiting minerals and fossils.",
+                  "text": "The Museum of Minerals and Fossils on Łysica Peak displays rocks from the Świętokrzyskie Mountains.",
                   "category": "museum",
                   "coords": [
                         20.881757,
@@ -1597,7 +1597,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Stefana Żeromskiego",
-                  "text": "A monument dedicated to the writer Stefan Żeromski.",
+                  "text": "The Stefan Żeromski Monument on Łysica Peak commemorates the writer.",
                   "category": "historical",
                   "coords": [
                         20.883795,
@@ -1672,7 +1672,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka Wiślańska",
-                  "text": "Ein markanter Berggipfel in den Schlesischen Beskiden.",
+                  "text": "Die Magurka Wiślańska ist ein Gipfel in den Schlesischen Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.016389,
@@ -1690,7 +1690,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościelec",
-                  "text": "Ein bewaldeter Berggipfel in den Schlesischen Beskiden.",
+                  "text": "Der Kościelec ist ein Gipfel in den Schlesischen Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.020657,
@@ -1746,7 +1746,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka Wiślańska",
-                  "text": "Jellegzetes hegycsúcs a Sziléziai-Beszkidekben.",
+                  "text": "A Magurka Wiślańska egy csúcs a Sziléziai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.016389,
@@ -1764,7 +1764,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościelec",
-                  "text": "Erdős hegycsúcs a Sziléziai-Beszkidekben.",
+                  "text": "A Kościelec egy csúcs a Sziléziai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.020657,
@@ -1820,7 +1820,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka Wiślańska",
-                  "text": "Un vârf montan proeminent în Beskizii Silezieni.",
+                  "text": "Magurka Wiślańska este un vârf în Beskizii Silezieni.",
                   "category": "landmark",
                   "coords": [
                         19.016389,
@@ -1838,7 +1838,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościelec",
-                  "text": "Un vârf montan împădurit în Beskizii Silezieni.",
+                  "text": "Kościelec este un vârf în Beskizii Silezieni.",
                   "category": "landmark",
                   "coords": [
                         19.020657,
@@ -1894,7 +1894,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka Wiślańska",
-                  "text": "A prominent mountain peak in the Silesian Beskids.",
+                  "text": "Magurka Wiślańska is a peak in the Silesian Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.016389,
@@ -1912,7 +1912,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościelec",
-                  "text": "A forested mountain peak in the Silesian Beskids.",
+                  "text": "Kościelec is a peak in the Silesian Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.020657,
@@ -2365,7 +2365,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Grodzisko na górze Okopy",
-                  "text": "Überreste einer mittelalterlichen Wallburg auf einem Hügel.",
+                  "text": "Die Burgwallanlage auf dem Berg Okopy ist eine frühmittelalterliche Siedlung im Krakau-Tschenstochauer Jura.",
                   "category": "historical",
                   "coords": [
                         19.836401,
@@ -2383,7 +2383,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Jaskinia Nietoperzowa",
-                  "text": "Eine Höhle, die für ihre Fledermauskolonien und Knochenfunde bekannt ist.",
+                  "text": "Die Jaskinia Nietoperzowa ist eine Kalksteinhöhle im Krakau-Tschenstochauer Jura.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
@@ -2430,7 +2430,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Grodzisko na górze Okopy",
-                  "text": "Egy dombtetőn található középkori földvár maradványai.",
+                  "text": "Az Okopy-hegyi földvár egy kora középkori település a Krakkó-Częstochowai-fennsíkon.",
                   "category": "historical",
                   "coords": [
                         19.836401,
@@ -2448,7 +2448,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Jaskinia Nietoperzowa",
-                  "text": "Denevérkolóniáiról és csontleleteiről ismert barlang.",
+                  "text": "A Jaskinia Nietoperzowa egy mészkőbarlang a Krakkó–Częstochowai-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
@@ -2495,7 +2495,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Grodzisko na górze Okopy",
-                  "text": "Rămășițele unei cetăți medievale de pământ pe un deal.",
+                  "text": "Fortificația de pe dealul Okopy este o așezare medievală timpurie în Podișul Jura Cracovia-Częstochowa.",
                   "category": "historical",
                   "coords": [
                         19.836401,
@@ -2513,7 +2513,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Jaskinia Nietoperzowa",
-                  "text": "O peșteră cunoscută pentru coloniile de lilieci și descoperirile de oase.",
+                  "text": "Jaskinia Nietoperzowa este o peșteră de calcar în Podișul Cracovia-Częstochowa.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
@@ -2560,7 +2560,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Grodzisko na górze Okopy",
-                  "text": "Remains of a medieval hillfort located on a hilltop.",
+                  "text": "The stronghold on Mount Okopy is an early medieval settlement in the Kraków-Częstochowa Upland.",
                   "category": "historical",
                   "coords": [
                         19.836401,
@@ -2578,7 +2578,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Jaskinia Nietoperzowa",
-                  "text": "A cave known for its bat colonies and bone findings.",
+                  "text": "Jaskinia Nietoperzowa is a limestone cave in the Kraków-Częstochowa Upland.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
@@ -2978,7 +2978,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Plaża wiejska",
-                  "text": "Ländlicher Strand in der Masurischen Seenplatte.",
+                  "text": "Der Dorfstrand in der Masurischen Seenplatte ist ein natürlicher Badeplatz an einem See.",
                   "category": "recreational",
                   "coords": [
                         21.490858,
@@ -2996,7 +2996,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Tropikana",
-                  "text": "Wasserpark mit verschiedenen Pools und Wellnesseinrichtungen.",
+                  "text": "Tropikana ist ein Wasserpark mit Becken und Rutschen in der Masurischen Seenplatte.",
                   "category": "recreational",
                   "coords": [
                         21.558535,
@@ -3005,7 +3005,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Torfowisko Zełwąga",
-                  "text": "Naturschutzgebiet zum Schutz lokaler Torfmoore.",
+                  "text": "Das Zełwąga-Moor ist ein ausgedehntes Hochmoor in der Masurischen Seenplatte.",
                   "category": "natural",
                   "coords": [
                         21.523195,
@@ -3014,7 +3014,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Ehem. Paprotna-See",
-                  "text": "Ein geschütztes Naturgebiet in der masurischen Region.",
+                  "text": "Bażyna ist ein sumpfiges Waldgebiet in der Masurischen Seenplatte.",
                   "category": "natural",
                   "coords": [
                         21.482179,
@@ -3023,7 +3023,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Prawdowskie Wzgórze",
-                  "text": "Naturschutzgebiet, das ein hügeliges Waldgebiet umfasst.",
+                  "text": "Der Prawdowskie Hügel ist eine Moränenerhebung in der Masurischen Seenplatte.",
                   "category": "natural",
                   "coords": [
                         21.534213,
@@ -3034,7 +3034,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża wiejska",
-                  "text": "Falusi strand a Mazuri-tóvidéken.",
+                  "text": "A falusi strand a Mazuri-tóvidéken egy természetes fürdőhely egy tó partján.",
                   "category": "recreational",
                   "coords": [
                         21.490858,
@@ -3052,7 +3052,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Tropikana",
-                  "text": "Aquapark különböző medencékkel és wellness szolgáltatásokkal.",
+                  "text": "A Tropikana egy vízi park medencékkel és csúszdákkal a Mazuri-tóvidéken.",
                   "category": "recreational",
                   "coords": [
                         21.558535,
@@ -3061,7 +3061,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Torfowisko Zełwąga",
-                  "text": "Helyi tőzeglápokat védő természetvédelmi terület.",
+                  "text": "A Zełwąga-láp egy kiterjedt tőzegláp a Mazuri-tóvidéken.",
                   "category": "natural",
                   "coords": [
                         21.523195,
@@ -3070,7 +3070,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bażyna",
-                  "text": "Védett természeti terület a Mazuri-régióban.",
+                  "text": "A Bażyna egy mocsaras erdőterület a Mazuri-tóvidéken.",
                   "category": "natural",
                   "coords": [
                         21.482179,
@@ -3079,7 +3079,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Prawdowskie Wzgórze",
-                  "text": "Dombos erdőterületet magában foglaló természetvédelmi terület.",
+                  "text": "A Prawdowskie-domb egy morénás kiemelkedés a Mazuri-tóvidéken.",
                   "category": "natural",
                   "coords": [
                         21.534213,
@@ -3090,7 +3090,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża wiejska",
-                  "text": "Plajă rurală în regiunea lacurilor Mazuriene.",
+                  "text": "Plaja satului din Districtul Lacurilor Mazuriene este o înotătoare naturală pe un lac.",
                   "category": "recreational",
                   "coords": [
                         21.490858,
@@ -3108,7 +3108,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Tropikana",
-                  "text": "Parc acvatic cu diverse piscine și facilități de wellness.",
+                  "text": "Tropikana este un parc acvatic cu piscine și tobogane în Districtul Lacurilor Mazuriene.",
                   "category": "recreational",
                   "coords": [
                         21.558535,
@@ -3117,7 +3117,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Torfowisko Zełwąga",
-                  "text": "Rezervație naturală care protejează mlaștinile de turbă locale.",
+                  "text": "Turbăria Zełwąga este o mlaștină oligotrofă întinsă în Districtul Lacurilor Mazuriene.",
                   "category": "natural",
                   "coords": [
                         21.523195,
@@ -3126,7 +3126,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bażyna",
-                  "text": "O arie naturală protejată în regiunea Mazuriei.",
+                  "text": "Bażyna este o zonă forestieră mlăștinoasă din Districtul Lacurilor Mazuriene.",
                   "category": "natural",
                   "coords": [
                         21.482179,
@@ -3135,7 +3135,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Prawdowskie Wzgórze",
-                  "text": "Rezervație naturală care acoperă o zonă forestieră deluroasă.",
+                  "text": "Dealul Prawdowskie este o înălțime morenică în Districtul Lacurilor Mazuriene.",
                   "category": "natural",
                   "coords": [
                         21.534213,
@@ -3146,7 +3146,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Plaża wiejska",
-                  "text": "Rural beach in the Masurian Lake District.",
+                  "text": "The Village Beach in the Masurian Lake District is a natural swimming spot on a lake.",
                   "category": "recreational",
                   "coords": [
                         21.490858,
@@ -3164,7 +3164,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Tropikana",
-                  "text": "Water park with various pools and wellness facilities.",
+                  "text": "Tropikana is a water park with pools and slides in the Masurian Lake District.",
                   "category": "recreational",
                   "coords": [
                         21.558535,
@@ -3173,7 +3173,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Torfowisko Zełwąga",
-                  "text": "Nature reserve protecting local peat bogs.",
+                  "text": "Zełwąga Bog is an extensive raised bog in the Masurian Lake District.",
                   "category": "natural",
                   "coords": [
                         21.523195,
@@ -3182,7 +3182,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bażyna",
-                  "text": "A protected natural area in the Masurian region.",
+                  "text": "Bażyna is a swampy forest area in the Masurian Lake District.",
                   "category": "natural",
                   "coords": [
                         21.482179,
@@ -3191,7 +3191,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Prawdowskie Wzgórze",
-                  "text": "Nature reserve covering a hilly forest area.",
+                  "text": "Prawdowskie Hill is a moraine hill in the Masurian Lake District.",
                   "category": "natural",
                   "coords": [
                         21.534213,
@@ -3392,7 +3392,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Munczolik (Szczawinka)",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Der Munczolik (Szczawinka) ist ein Gipfel in den Żywiecer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.297005,
@@ -3401,7 +3401,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Dudová",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Die Dudová ist ein Berggipfel in den Arwaer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.346118,
@@ -3410,7 +3410,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Minčol",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Der Minčol ist ein Gipfel in den Arwaer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.285823,
@@ -3419,7 +3419,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Die Magurka im Beskid Żywiecki ist ein Berg mit einem Wanderweg zum Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.335881,
@@ -3428,7 +3428,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mechy",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Die Mechy sind ein Gipfel in den Arwaer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.311888,
@@ -3437,7 +3437,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Hoľa",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Die Hoľa ist ein Gipfel in den Arwaer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.349035,
@@ -3446,7 +3446,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Súšava",
-                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "text": "Die Súšava ist ein Gipfel in den Arwaer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.311152,
@@ -3466,7 +3466,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Munczolik (Szczawinka)",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Munczolik (Szczawinka) egy csúcs a Żywieci-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.297005,
@@ -3475,7 +3475,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Dudová",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Dudová egy hegycsúcs az Árvai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.346118,
@@ -3484,7 +3484,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Minčol",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Minčol egy csúcs az Árvai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.285823,
@@ -3493,7 +3493,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Magurka a Beskid Żywiecki hegységben egy hegy, amelyre túraút vezet.",
                   "category": "landmark",
                   "coords": [
                         19.335881,
@@ -3502,7 +3502,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mechy",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Mechy egy csúcs az Árvai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.311888,
@@ -3511,7 +3511,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Hoľa",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Hoľa egy csúcs az Árvai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.349035,
@@ -3520,7 +3520,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Súšava",
-                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "text": "A Súšava egy csúcs az Árvai-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.311152,
@@ -3540,7 +3540,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Munczolik (Szczawinka)",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Munczolik (Szczawinka) este un vârf în Beskizii Żywiecki.",
                   "category": "landmark",
                   "coords": [
                         19.297005,
@@ -3549,7 +3549,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Dudová",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Dudová este un vârf montan în Beskizii Orawa.",
                   "category": "landmark",
                   "coords": [
                         19.346118,
@@ -3558,7 +3558,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Minčol",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Minčol este un vârf în Beskizii Orawa.",
                   "category": "landmark",
                   "coords": [
                         19.285823,
@@ -3567,7 +3567,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Magurka din Munții Beskid Żywiecki, un munte cu un traseu de drumeție până în vârf.",
                   "category": "landmark",
                   "coords": [
                         19.335881,
@@ -3576,7 +3576,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mechy",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Mechy sunt un vârf în Beskizii Orawa.",
                   "category": "landmark",
                   "coords": [
                         19.311888,
@@ -3585,7 +3585,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Hoľa",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Hoľa este un vârf în Beskizii Orawa.",
                   "category": "landmark",
                   "coords": [
                         19.349035,
@@ -3594,7 +3594,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Súšava",
-                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "text": "Súšava este un vârf în Beskizii Orawa.",
                   "category": "landmark",
                   "coords": [
                         19.311152,
@@ -3614,7 +3614,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Munczolik (Szczawinka)",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Munczolik (Szczawinka) is a peak in the Żywiec Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.297005,
@@ -3623,7 +3623,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Dudová",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Dudová is a mountain peak in the Orawa Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.346118,
@@ -3632,7 +3632,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Minčol",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Minčol is a peak in the Orawa Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.285823,
@@ -3641,7 +3641,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magurka",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Magurka mountain in the Beskid Żywiecki range, with a hiking trail to the summit.",
                   "category": "landmark",
                   "coords": [
                         19.335881,
@@ -3650,7 +3650,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mechy",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Mechy is a peak in the Orawa Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.311888,
@@ -3659,7 +3659,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Hoľa",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Hoľa is a peak in the Orawa Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.349035,
@@ -3668,7 +3668,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Súšava",
-                  "text": "A mountain peak in Żywiec Beskids.",
+                  "text": "Súšava is a peak in the Orawa Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.311152,
@@ -3770,7 +3770,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Smilniansky vrch",
-                  "text": "Ein markanter Gipfel im Bergland der Niederen Beskiden.",
+                  "text": "Der Smilniansky vrch ist ein Gipfel in den Niederen Beskiden.",
                   "category": "landmark",
                   "coords": [
                         21.33967,
@@ -3797,7 +3797,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kostol sv. Žofie",
-                  "text": "Eine barocke Kirche in der Gemeinde Zborov.",
+                  "text": "Die St.-Sophien-Kirche in den Niederen Beskiden ist eine historische Holzkirche.",
                   "category": "religious",
                   "coords": [
                         21.307479,
@@ -3835,7 +3835,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Smilniansky vrch",
-                  "text": "Jelentős hegycsúcs az Alacsony-Beszkidek hegységben.",
+                  "text": "A Smilniansky vrch egy csúcs az Alacsony-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         21.33967,
@@ -3862,7 +3862,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kostol sv. Žofie",
-                  "text": "Barokk stílusú templom Zboró községben.",
+                  "text": "Szent Zsófia-templom az Alacsony-Beszkidekben, egy történelmi fatemplom.",
                   "category": "religious",
                   "coords": [
                         21.307479,
@@ -3900,7 +3900,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Smilniansky vrch",
-                  "text": "Un vârf montan proeminent în zona Beschizilor de Jos.",
+                  "text": "Smilniansky vrch este un vârf în Beskizii Mici.",
                   "category": "landmark",
                   "coords": [
                         21.33967,
@@ -3927,7 +3927,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kostol sv. Žofie",
-                  "text": "O biserică în stil baroc în comuna Zborov.",
+                  "text": "Biserica Sf. Sofia din Munții Beskizii Mici, o biserică istorică din lemn.",
                   "category": "religious",
                   "coords": [
                         21.307479,
@@ -3965,7 +3965,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Smilniansky vrch",
-                  "text": "A prominent peak in the Low Beskids mountain range.",
+                  "text": "Smilniansky vrch is a peak in the Low Beskids.",
                   "category": "landmark",
                   "coords": [
                         21.33967,
@@ -3992,7 +3992,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kostol sv. Žofie",
-                  "text": "A Baroque church in the village of Zborov.",
+                  "text": "St. Sophia's church in the Beskid Niski mountains, a historic wooden church.",
                   "category": "religious",
                   "coords": [
                         21.307479,
@@ -4094,7 +4094,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Ruiny zamku fortecznego w Rybotyczach",
-                  "text": "Die Überreste einer historischen Festungsanlage in Rybotycze.",
+                  "text": "Ruinen einer Festungsburg aus dem Jahr 1565 auf der Pogórze Przemyskie-Hochebene.",
                   "category": "castle",
                   "coords": [
                         22.651178,
@@ -4168,7 +4168,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Ruiny zamku fortecznego w Rybotyczach",
-                  "text": "Egy történelmi várkastély romjai Rybotycze településen.",
+                  "text": "Egy erődítményvár romjai 1565-ből a Pogórze Przemyskie-fennsíkon.",
                   "category": "castle",
                   "coords": [
                         22.651178,
@@ -4242,7 +4242,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Ruiny zamku fortecznego w Rybotyczach",
-                  "text": "Ruinele unei fortificații istorice situate în localitatea Rybotycze.",
+                  "text": "Ruinele unui castel fortăreață din 1565 pe Podișul Pogórze Przemyskie.",
                   "category": "castle",
                   "coords": [
                         22.651178,
@@ -4316,7 +4316,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Ruiny zamku fortecznego w Rybotyczach",
-                  "text": "The historical remains of a fortified castle located in Rybotycze.",
+                  "text": "Ruins of a fortress castle built in 1565 on the Pogórze Przemyskie Upland.",
                   "category": "castle",
                   "coords": [
                         22.651178,
@@ -4445,7 +4445,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bunior",
-                  "text": "Ein geschütztes Naturgebiet in den Sandezer Beskiden.",
+                  "text": "Bunior ist ein bewaldeter Gipfel im Beskid Sądecki-Gebirge.",
                   "category": "natural",
                   "coords": [
                         20.792369,
@@ -4454,7 +4454,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Parchowatka",
-                  "text": "Ein Berggipfel in den Sandezer Beskiden.",
+                  "text": "Die Parchowatka ist ein Gipfel in den Sączer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         20.783425,
@@ -4463,7 +4463,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wargulszańskie Góry",
-                  "text": "Eine landschaftlich reizvolle Erhebung in den polnischen Beskiden.",
+                  "text": "Die Wargulszańskie Góry sind ein Bergzug in den Sączer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         20.805259,
@@ -4472,7 +4472,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Łaziska",
-                  "text": "Ein bekannter Berggipfel in der Nähe des Poprad-Tals.",
+                  "text": "Die Łaziska ist ein Gipfel in den Sączer Beskiden.",
                   "category": "landmark",
                   "coords": [
                         20.800113,
@@ -4481,7 +4481,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wodospad na potoku Łomniczanka",
-                  "text": "Ein kleiner natürlicher Wasserfall am Bach Łomniczanka.",
+                  "text": "Der Wasserfall am Łomniczanka-Bach ist eine Kaskade im Beskid Sądecki-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         20.757294,
@@ -4519,7 +4519,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bunior",
-                  "text": "Védett természeti terület a Szandeci-Beszkidekben.",
+                  "text": "A Bunior egy erdős csúcs a Beskid Sądecki-hegységben.",
                   "category": "natural",
                   "coords": [
                         20.792369,
@@ -4528,7 +4528,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Parchowatka",
-                  "text": "Hegycsúcs a Szandeci-Beszkidek hegységben.",
+                  "text": "A Parchowatka egy csúcs a Szandeci-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         20.783425,
@@ -4537,7 +4537,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wargulszańskie Góry",
-                  "text": "Festői magaslat a lengyel Beszkidekben.",
+                  "text": "A Wargulszańskie Góry egy hegyvonulat a Szandeci-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         20.805259,
@@ -4546,7 +4546,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Łaziska",
-                  "text": "Ismert hegycsúcs a Poprád-völgy közelében.",
+                  "text": "A Łaziska egy csúcs a Szandeci-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         20.800113,
@@ -4555,7 +4555,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wodospad na potoku Łomniczanka",
-                  "text": "Kisméretű természetes vízesés a Łomniczanka-patakon.",
+                  "text": "A Łomniczanka-patak vízesése egy kaskád a Beskid Sądecki-hegységben.",
                   "category": "landmark",
                   "coords": [
                         20.757294,
@@ -4593,7 +4593,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bunior",
-                  "text": "O zonă naturală protejată în Beskizii Sądecki.",
+                  "text": "Bunior este un vârf împădurit în Masivul Beskid Sądecki.",
                   "category": "natural",
                   "coords": [
                         20.792369,
@@ -4602,7 +4602,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Parchowatka",
-                  "text": "Un vârf montan în munții Beskizii Sądecki.",
+                  "text": "Parchowatka este un vârf în Beskizii Sądecki.",
                   "category": "landmark",
                   "coords": [
                         20.783425,
@@ -4611,7 +4611,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wargulszańskie Góry",
-                  "text": "O cotă pitorească în munții Beskizi din Polonia.",
+                  "text": "Wargulszańskie Góry este un lanț muntos în Beskizii Sądecki.",
                   "category": "landmark",
                   "coords": [
                         20.805259,
@@ -4620,7 +4620,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Łaziska",
-                  "text": "Un vârf montan notabil în apropierea văii Poprad.",
+                  "text": "Łaziska este un vârf în Beskizii Sądecki.",
                   "category": "landmark",
                   "coords": [
                         20.800113,
@@ -4629,7 +4629,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wodospad na potoku Łomniczanka",
-                  "text": "O mică cascadă naturală pe pârâul Łomniczanka.",
+                  "text": "Cascada de pe pârâul Łomniczanka este o cascadă în Masivul Beskid Sądecki.",
                   "category": "landmark",
                   "coords": [
                         20.757294,
@@ -4667,7 +4667,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Bunior",
-                  "text": "A protected natural area in the Sądecki Beskids.",
+                  "text": "Bunior is a forested peak in the Beskid Sądecki range.",
                   "category": "natural",
                   "coords": [
                         20.792369,
@@ -4676,7 +4676,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Parchowatka",
-                  "text": "A mountain peak in the Sądecki Beskids range.",
+                  "text": "Parchowatka is a peak in the Sądecki Beskids.",
                   "category": "landmark",
                   "coords": [
                         20.783425,
@@ -4685,7 +4685,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wargulszańskie Góry",
-                  "text": "A scenic elevation in the Polish Beskids.",
+                  "text": "Wargulszańskie Góry is a mountain range in the Sądecki Beskids.",
                   "category": "landmark",
                   "coords": [
                         20.805259,
@@ -4694,7 +4694,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Łaziska",
-                  "text": "A notable mountain peak near the Poprad valley.",
+                  "text": "Łaziska is a peak in the Sądecki Beskids.",
                   "category": "landmark",
                   "coords": [
                         20.800113,
@@ -4703,7 +4703,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Wodospad na potoku Łomniczanka",
-                  "text": "A small natural waterfall on the Łomniczanka stream.",
+                  "text": "The waterfall on the Łomniczanka stream is a cascade in the Beskid Sądecki range.",
                   "category": "landmark",
                   "coords": [
                         20.757294,
@@ -5102,7 +5102,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "Eine katholische Pfarrkirche, die dem heiligen Nikolaus geweiht ist.",
+                  "text": "Die St.-Nikolaus-Pfarrkirche auf der Nordeuropäischen Tiefebene ist ein gotischer Backsteinbau.",
                   "category": "religious",
                   "coords": [
                         18.99443,
@@ -5113,7 +5113,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "Szent Miklósnak szentelt katolikus plébániatemplom.",
+                  "text": "Szent Miklós-plébániatemplom az Észak-európai síkságon, gótikus téglatemplom.",
                   "category": "religious",
                   "coords": [
                         18.99443,
@@ -5124,7 +5124,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "O biserică parohială catolică dedicată Sfântului Nicolae.",
+                  "text": "Biserica parohială Sf. Nicolae din Câmpia Europei de Nord, o biserică gotică din cărămidă.",
                   "category": "religious",
                   "coords": [
                         18.99443,
@@ -5135,7 +5135,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Kościół parafialny pw. św. Mikołaja",
-                  "text": "A Catholic parish church dedicated to Saint Nicholas.",
+                  "text": "St. Nicholas parish church on the North European Plain, a Gothic brick building.",
                   "category": "religious",
                   "coords": [
                         18.99443,
@@ -5411,7 +5411,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mini park linowy",
-                  "text": "Ein kleiner Seilpark mit Kletterelementen für Kinder.",
+                  "text": "Der Minikletterpark im Beskid Mały ist ein kleiner Seilpark im Wald.",
                   "category": "recreational",
                   "coords": [
                         19.388713,
@@ -5420,7 +5420,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magiczna Osada",
-                  "text": "Ein familienfreundlicher Themenpark oder Spielbereich.",
+                  "text": "Magiczna Osada ist ein Freizeitkomplex mit Hütten und Attraktionen im Beskid Mały.",
                   "category": "recreational",
                   "coords": [
                         19.388639,
@@ -5438,7 +5438,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Beskid",
-                  "text": "Ein Berggipfel in den Kleinen Beskiden in Polen.",
+                  "text": "Der Beskid ist ein 759 m hoher Gipfel in den Kleinen Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.305523,
@@ -5456,7 +5456,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Kaprówka",
-                  "text": "Ein Berggipfel in den polnischen Kleinen Beskiden.",
+                  "text": "Die Góra Kaprówka ist ein Gipfel in den Kleinen Beskiden.",
                   "category": "landmark",
                   "coords": [
                         19.308541,
@@ -5485,7 +5485,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mini park linowy",
-                  "text": "Kisméretű kötélpálya és mászópark gyerekeknek.",
+                  "text": "A minikötélpark a Beskid Małyban egy kis erdei kalandpark.",
                   "category": "recreational",
                   "coords": [
                         19.388713,
@@ -5494,7 +5494,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magiczna Osada",
-                  "text": "Családbarát élménypark vagy játszóhely.",
+                  "text": "A Magiczna Osada egy szabadidős komplexum házikókkal és látnivalókkal a Beskid Małyban.",
                   "category": "recreational",
                   "coords": [
                         19.388639,
@@ -5512,7 +5512,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Beskid",
-                  "text": "Hegycsúcs a lengyelországi Kis-Beszkidekben.",
+                  "text": "A Beskid egy 759 m magas csúcs a Kis-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.305523,
@@ -5530,7 +5530,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Kaprówka",
-                  "text": "Hegycsúcs a lengyel Kis-Beszkidekben.",
+                  "text": "A Góra Kaprówka egy csúcs a Kis-Beszkidekben.",
                   "category": "landmark",
                   "coords": [
                         19.308541,
@@ -5559,7 +5559,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mini park linowy",
-                  "text": "Un mic parc de aventură cu frânghii pentru copii.",
+                  "text": "Parcul de tiroliană mini din Beskid Mały este un mic parc de aventură în pădure.",
                   "category": "recreational",
                   "coords": [
                         19.388713,
@@ -5568,7 +5568,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magiczna Osada",
-                  "text": "Un parc tematic sau zonă de joacă pentru familii.",
+                  "text": "Magiczna Osada este un complex de agrement cu cabane și atracții în Beskid Mały.",
                   "category": "recreational",
                   "coords": [
                         19.388639,
@@ -5586,7 +5586,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Beskid",
-                  "text": "Un vârf muntos în Beskizii Mici din Polonia.",
+                  "text": "Beskid este un vârf de 759 m în Beskizii Mici.",
                   "category": "landmark",
                   "coords": [
                         19.305523,
@@ -5604,7 +5604,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Kaprówka",
-                  "text": "Un vârf muntos în Beskizii Mici polonezi.",
+                  "text": "Góra Kaprówka este un vârf în Beskizii Mici.",
                   "category": "landmark",
                   "coords": [
                         19.308541,
@@ -5633,7 +5633,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mini park linowy",
-                  "text": "A small rope park with climbing elements for children.",
+                  "text": "The Mini Rope Park in Beskid Mały is a small forest adventure park.",
                   "category": "recreational",
                   "coords": [
                         19.388713,
@@ -5642,7 +5642,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Magiczna Osada",
-                  "text": "A family-friendly theme park or playground area.",
+                  "text": "Magiczna Osada is a recreational complex with cottages and attractions in Beskid Mały.",
                   "category": "recreational",
                   "coords": [
                         19.388639,
@@ -5660,7 +5660,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Beskid",
-                  "text": "A mountain peak in the Little Beskids in Poland.",
+                  "text": "Beskid is a 759 m peak in the Little Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.305523,
@@ -5678,7 +5678,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Kaprówka",
-                  "text": "A mountain peak in the Polish Little Beskids.",
+                  "text": "Góra Kaprówka is a peak in the Little Beskids.",
                   "category": "landmark",
                   "coords": [
                         19.308541,
@@ -5978,7 +5978,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Kozia Góra",
-                  "text": "Strand an der Kozia Góra in der Kaschubischen Seenplatte.",
+                  "text": "Kozia Góra ist ein Hügel in der Kaschubischen Seenplatte mit Wanderwegen und Aussicht auf Seen.",
                   "category": "recreational",
                   "coords": [
                         17.964889,
@@ -5987,7 +5987,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Amfiteatr",
-                  "text": "Ein Freilichttheater in der Kaschubischen Seenplatte.",
+                  "text": "Das Amphitheater in der Kaschubischen Seenplatte ist ein Freiluftveranstaltungsort an einem See.",
                   "category": "cultural",
                   "coords": [
                         17.949219,
@@ -6016,7 +6016,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Kozia Góra",
-                  "text": "Strand a Kozia Góránál, a Kasub-tóvidéken.",
+                  "text": "A Kozia Góra egy domb a Kazub-tóvidéken túraútvonalakkal és tavakra nyíló kilátással.",
                   "category": "recreational",
                   "coords": [
                         17.964889,
@@ -6025,7 +6025,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Amfiteatr",
-                  "text": "Szabadtéri színpad a Kasub-tóvidéken.",
+                  "text": "A Kazub-tóvidék amfiteátruma egy tóparti szabadtéri rendezvényhelyszín.",
                   "category": "cultural",
                   "coords": [
                         17.949219,
@@ -6054,7 +6054,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Kozia Góra",
-                  "text": "Plajă la Kozia Góra în regiunea lacustră Cașubia.",
+                  "text": "Kozia Góra este un deal în Districtul Lacurilor Cașubiene cu trasee de drumeție și vedere la lacuri.",
                   "category": "recreational",
                   "coords": [
                         17.964889,
@@ -6063,7 +6063,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Amfiteatr",
-                  "text": "Un amfiteatru în regiunea lacurilor cașubiene.",
+                  "text": "Amfiteatrul din Districtul Lacurilor Cașubiene este un loc de evenimente în aer liber pe malul unui lac.",
                   "category": "cultural",
                   "coords": [
                         17.949219,
@@ -6092,7 +6092,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Kozia Góra",
-                  "text": "Beach at Kozia Góra in the Kashubian Lake District.",
+                  "text": "Kozia Góra is a hill in the Kashubian Lake District with hiking trails and lake views.",
                   "category": "recreational",
                   "coords": [
                         17.964889,
@@ -6101,7 +6101,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Amfiteatr",
-                  "text": "An amphitheatre in the Kashubian Lake District.",
+                  "text": "The Amphitheatre in the Kashubian Lake District is an outdoor events venue on a lake.",
                   "category": "cultural",
                   "coords": [
                         17.949219,
@@ -6536,7 +6536,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kiczorka",
-                  "text": "Ein markanter Berggipfel in den Inselbeskiden.",
+                  "text": "Die Kiczorka ist ein Gipfel in den Inselbeskiden (Beskid Wyspowy).",
                   "category": "landmark",
                   "coords": [
                         20.201056,
@@ -6554,7 +6554,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mały Ćwilinek",
-                  "text": "Ein Gipfel in den polnischen Inselbeskiden.",
+                  "text": "Mały Ćwilinek ist ein Berggipfel im Beskid Wyspowy mit Panoramablick.",
                   "category": "landmark",
                   "coords": [
                         20.200789,
@@ -6610,7 +6610,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kiczorka",
-                  "text": "Egy jellegzetes hegycsúcs a Szigetes-Beszkidekben.",
+                  "text": "A Kiczorka egy csúcs a Sziget-Beszkidekben (Beskid Wyspowy).",
                   "category": "landmark",
                   "coords": [
                         20.201056,
@@ -6628,7 +6628,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mały Ćwilinek",
-                  "text": "Hegycsúcs a lengyelországi Szigetes-Beszkidekben.",
+                  "text": "A Mały Ćwilinek egy hegycsúcs a Beskid Wyspowyban, panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
                         20.200789,
@@ -6684,7 +6684,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kiczorka",
-                  "text": "Un vârf montan proeminent în Beskizii Insulari.",
+                  "text": "Kiczorka este un vârf în Beskizii Insulari (Beskid Wyspowy).",
                   "category": "landmark",
                   "coords": [
                         20.201056,
@@ -6702,7 +6702,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mały Ćwilinek",
-                  "text": "Un vârf montan în Beskizii Insulari din Polonia.",
+                  "text": "Mały Ćwilinek este un vârf montan din Beskid Wyspowy, cu vedere panoramică.",
                   "category": "landmark",
                   "coords": [
                         20.200789,
@@ -6758,7 +6758,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kiczorka",
-                  "text": "A prominent mountain peak in the Island Beskids.",
+                  "text": "Kiczorka is a peak in the Island Beskids (Beskid Wyspowy).",
                   "category": "landmark",
                   "coords": [
                         20.201056,
@@ -6776,7 +6776,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Mały Ćwilinek",
-                  "text": "A mountain peak in the Polish Island Beskids.",
+                  "text": "Mały Ćwilinek is a mountain peak in the Beskid Wyspowy range offering panoramic views.",
                   "category": "landmark",
                   "coords": [
                         20.200789,
@@ -6860,7 +6860,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Leskowiec",
-                  "text": "Ein beliebter Wandergipfel in den Kleinen Beskiden in Polen.",
+                  "text": "Leskowiec ist ein Berggipfel im Beskid Mały mit einem Gipfelkreuz und Aussicht.",
                   "category": "landmark",
                   "coords": [
                         19.443158,
@@ -6878,7 +6878,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Groń Jana Pawła II",
-                  "text": "Ein Berggipfel, der zu Ehren von Papst Johannes Paul II. benannt wurde.",
+                  "text": "Groń Jana Pawła II ist ein Johannes-Paul-II.-gewidmeter Hügel im Beskid Mały mit einem Gedenkkreuz.",
                   "category": "landmark",
                   "coords": [
                         19.445174,
@@ -6905,7 +6905,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Sołowa",
-                  "text": "Ein bewaldeter Berggipfel in der Region der Kleinen Beskiden.",
+                  "text": "Die Góra Sołowa im Beskid Mały ist ein kegelförmiger Berggipfel.",
                   "category": "landmark",
                   "coords": [
                         19.494337,
@@ -6914,7 +6914,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kukowska Gajka",
-                  "text": "Ein kleinerer Gipfel im Gebirgszug der Beskiden.",
+                  "text": "Die Kukowska Gajka im Beskid Mały ist ein felsiger Aussichtspunkt bei Wanderern beliebt.",
                   "category": "landmark",
                   "coords": [
                         19.479817,
@@ -6934,7 +6934,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Leskowiec",
-                  "text": "Népszerű túrázóhely a Kis-Beszkidekben, Lengyelországban.",
+                  "text": "A Leskowiec egy hegycsúcs a Beskid Małyban, csúcskereszttel és kilátással.",
                   "category": "landmark",
                   "coords": [
                         19.443158,
@@ -6952,7 +6952,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Groń Jana Pawła II",
-                  "text": "Hegycsúcs, amelyet II. János Pál pápa tiszteletére neveztek el.",
+                  "text": "A Groń Jana Pawła II egy domb a Beskid Małyban, amelyet II. János Pál pápa tiszteletére emeltek, emlékkereszttel.",
                   "category": "landmark",
                   "coords": [
                         19.445174,
@@ -6979,7 +6979,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Sołowa",
-                  "text": "Erdős hegycsúcs a Kis-Beszkidek régiójában.",
+                  "text": "A Góra Sołowa a Kis-Beszkidekben egy kúp alakú hegycsúcs.",
                   "category": "landmark",
                   "coords": [
                         19.494337,
@@ -6988,7 +6988,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kukowska Gajka",
-                  "text": "Kisebb hegycsúcs a Beszkidek hegyláncában.",
+                  "text": "A Kukowska Gajka a Kis-Beszkidekben egy sziklás kilátóhely, túrázók kedvence.",
                   "category": "landmark",
                   "coords": [
                         19.479817,
@@ -7008,7 +7008,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Leskowiec",
-                  "text": "Un vârf montan popular pentru drumeții în Beskizii Mici din Polonia.",
+                  "text": "Leskowiec este un vârf montan din Beskid Mały, cu o cruce și vedere panoramică.",
                   "category": "landmark",
                   "coords": [
                         19.443158,
@@ -7026,7 +7026,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Groń Jana Pawła II",
-                  "text": "Un vârf montan numit în onoarea Papei Ioan Paul al II-lea.",
+                  "text": "Groń Jana Pawła II este un deal dedicat Papei Ioan Paul al II-lea, în Beskid Mały, cu o cruce comemorativă.",
                   "category": "landmark",
                   "coords": [
                         19.445174,
@@ -7053,7 +7053,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Sołowa",
-                  "text": "Un vârf montan împădurit în regiunea Beskizilor Mici.",
+                  "text": "Góra Sołowa din Beskizii Mici, un vârf muntos în formă de con.",
                   "category": "landmark",
                   "coords": [
                         19.494337,
@@ -7062,7 +7062,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kukowska Gajka",
-                  "text": "Un vârf mai mic în lanțul muntos al Beskizilor.",
+                  "text": "Kukowska Gajka din Beskizii Mici, un punct de belvedere stâncos popular printre drumeți.",
                   "category": "landmark",
                   "coords": [
                         19.479817,
@@ -7082,7 +7082,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Leskowiec",
-                  "text": "A popular hiking peak in the Little Beskids of Poland.",
+                  "text": "Leskowiec is a mountain peak in the Beskid Mały range, crowned with a cross and panoramic views.",
                   "category": "landmark",
                   "coords": [
                         19.443158,
@@ -7100,7 +7100,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Groń Jana Pawła II",
-                  "text": "A mountain peak named in honor of Pope John Paul II.",
+                  "text": "Groń Jana Pawła II is a hill in the Beskid Mały range dedicated to Pope John Paul II, marked by a memorial cross.",
                   "category": "landmark",
                   "coords": [
                         19.445174,
@@ -7127,7 +7127,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Góra Sołowa",
-                  "text": "A forested mountain peak in the Little Beskids region.",
+                  "text": "Góra Sołowa in the Beskid Mały range, a conical mountain peak.",
                   "category": "landmark",
                   "coords": [
                         19.494337,
@@ -7136,7 +7136,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kukowska Gajka",
-                  "text": "A smaller peak in the Beskid mountain range.",
+                  "text": "Kukowska Gajka in the Beskid Mały mountains, a rocky viewpoint popular with hikers.",
                   "category": "landmark",
                   "coords": [
                         19.479817,
@@ -7814,7 +7814,7 @@ export const polandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Ruiny Zamku w Myślenicach",
-                  "text": "Ruinen einer mittelalterlichen Burg auf dem Chełm-Gipfel.",
+                  "text": "Die Ruinen der Burg Myślenice liegen auf einem Hügel im Beskid Makowski.",
                   "category": "castle",
                   "coords": [
                         19.946958,
@@ -7841,7 +7841,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Niepodległości",
-                  "text": "Ein Denkmal zur Erinnerung an die Wiedererlangung der Unabhängigkeit.",
+                  "text": "Das Unabhängigkeitsdenkmal auf dem Gipfel des Beskid Makowski ist ein steinerner Obelisk.",
                   "category": "historical",
                   "coords": [
                         19.938744,
@@ -7850,7 +7850,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Myślenicki Ośrodek Kultury i Sportu",
-                  "text": "Ein lokales Zentrum für kulturelle Veranstaltungen und Sport.",
+                  "text": "Das Myślenice Kultur- und Sportzentrum liegt am Fuße des Beskid Makowski und bietet Schwimmbad, Sauna und Veranstaltungssäle.",
                   "category": "cultural",
                   "coords": [
                         19.942739,
@@ -7868,7 +7868,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba w Myślenicach",
-                  "text": "Ein historisches Sakralgebäude in der Umgebung von Myślenice.",
+                  "text": "Die St.-Jakobus-Kirche in Myślenice im Beskid Makowski ist eine historische Holzkirche.",
                   "category": "religious",
                   "coords": [
                         19.940536,
@@ -7888,7 +7888,7 @@ export const polandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Ruiny Zamku w Myślenicach",
-                  "text": "Egy középkori vár romjai a Chełm-csúcson.",
+                  "text": "A myślenicei vár romjai egy dombon találhatók a Beskid Makowskiban.",
                   "category": "castle",
                   "coords": [
                         19.946958,
@@ -7915,7 +7915,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Niepodległości",
-                  "text": "Az emlékmű a függetlenség visszaszerzésének tiszteletére áll.",
+                  "text": "A Függetlenségi emlékmű a Beskid Makowski csúcsán egy kő obeliszk.",
                   "category": "historical",
                   "coords": [
                         19.938744,
@@ -7924,7 +7924,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Myślenicki Ośrodek Kultury i Sportu",
-                  "text": "Helyi kulturális események és sportolás központja.",
+                  "text": "A Myślenice Kulturális és Sportközpont a Beskid Makowski lábánál található, uszodával, szaunával és rendezvénytermekkel.",
                   "category": "cultural",
                   "coords": [
                         19.942739,
@@ -7942,7 +7942,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba w Myślenicach",
-                  "text": "Történelmi egyházi épület Myślenice környékén.",
+                  "text": "Szent Jakab-templom Myślenicében a Beskid Makowskiban, egy történelmi fatemplom.",
                   "category": "religious",
                   "coords": [
                         19.940536,
@@ -7962,7 +7962,7 @@ export const polandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Ruiny Zamku w Myślenicach",
-                  "text": "Ruinele unui castel medieval situat pe vârful Chełm.",
+                  "text": "Ruinele castelului Myślenice se află pe un deal în Beskid Makowski.",
                   "category": "castle",
                   "coords": [
                         19.946958,
@@ -7989,7 +7989,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Niepodległości",
-                  "text": "Un monument ridicat în memoria redobândirii independenței.",
+                  "text": "Monumentul Independenței de pe vârful Beskid Makowski este un obelisc de piatră.",
                   "category": "historical",
                   "coords": [
                         19.938744,
@@ -7998,7 +7998,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Myślenicki Ośrodek Kultury i Sportu",
-                  "text": "Un centru local pentru evenimente culturale și sport.",
+                  "text": "Centrul Cultural și Sportiv Myślenice se află la poalele Beskid Makowski și oferă piscină, saună și săli de evenimente.",
                   "category": "cultural",
                   "coords": [
                         19.942739,
@@ -8016,7 +8016,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba w Myślenicach",
-                  "text": "O clădire religioasă istorică din zona Myślenice.",
+                  "text": "Biserica Sf. Iacob din Myślenice în Beskizii Makowski, o biserică istorică din lemn.",
                   "category": "religious",
                   "coords": [
                         19.940536,
@@ -8036,7 +8036,7 @@ export const polandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Ruiny Zamku w Myślenicach",
-                  "text": "Ruins of a medieval castle situated on the Chełm peak.",
+                  "text": "The ruins of Myślenice Castle sit on a hill in the Beskid Makowski range.",
                   "category": "castle",
                   "coords": [
                         19.946958,
@@ -8063,7 +8063,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Pomnik Niepodległości",
-                  "text": "A monument commemorating the recovery of independence.",
+                  "text": "The Independence Monument on the summit of Beskid Makowski is a stone obelisk.",
                   "category": "historical",
                   "coords": [
                         19.938744,
@@ -8072,7 +8072,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Myślenicki Ośrodek Kultury i Sportu",
-                  "text": "A local hub for cultural events and sports.",
+                  "text": "The Myślenice Centre of Culture and Sport at the foot of Beskid Makowski offers a pool, sauna, and event halls.",
                   "category": "cultural",
                   "coords": [
                         19.942739,
@@ -8090,7 +8090,7 @@ export const polandReliefV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Świętego Jakuba w Myślenicach",
-                  "text": "A historical religious building in the Myślenice area.",
+                  "text": "St. James Church in Myślenice in the Beskid Makowski region, a historic wooden church.",
                   "category": "religious",
                   "coords": [
                         19.940536,

@@ -117,7 +117,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Kasteel Reigershof",
-                  "text": "Ein Schlossgebäude in der Polderregion in der Nähe von Doel.",
+                  "text": "Kasteel Reigershof ist ein Schloss nahe dem Kernkraftwerk Doel, in der Polderlandschaft gelegen.",
                   "category": "castle",
                   "coords": [
                         4.313722,
@@ -153,7 +153,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Prosperpolder Noord",
-                  "text": "Ein Naturschutzgebiet in der Polderlandschaft bei Doel.",
+                  "text": "Naturschutzgebiet Prosperpolder Nord, ein Vogelschutzgebiet nördlich des Kernkraftwerks Doel.",
                   "category": "natural",
                   "coords": [
                         4.229085,
@@ -191,7 +191,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Kasteel Reigershof",
-                  "text": "Kastélyépület a polder régióban, Doel közelében.",
+                  "text": "A Kasteel Reigershof egy kastély a Doel atomerőmű közelében, a polder tájban található.",
                   "category": "castle",
                   "coords": [
                         4.313722,
@@ -227,7 +227,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Prosperpolder Noord",
-                  "text": "Természetvédelmi terület a Doel melletti polder tájon.",
+                  "text": "Prosperpolder-Észak természetvédelmi terület, madárrezervátum a Doel-i atomerőműtől északra.",
                   "category": "natural",
                   "coords": [
                         4.229085,
@@ -265,7 +265,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Kasteel Reigershof",
-                  "text": "O clădire de castel în regiunea polderelor, lângă Doel.",
+                  "text": "Kasteel Reigershof este un castel lângă centrala nucleară Doel, situat în peisajul de polder.",
                   "category": "castle",
                   "coords": [
                         4.313722,
@@ -301,7 +301,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Prosperpolder Noord",
-                  "text": "O rezervație naturală în peisajul polderelor de lângă Doel.",
+                  "text": "Rezervația naturală Prosperpolder Nord, o arie de protecție avifaunistică la nord de centrala nucleară Doel.",
                   "category": "natural",
                   "coords": [
                         4.229085,
@@ -339,7 +339,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Kasteel Reigershof",
-                  "text": "A castle building in the polder region near Doel.",
+                  "text": "Kasteel Reigershof is a castle near the Doel nuclear plant, situated in the polder landscape.",
                   "category": "castle",
                   "coords": [
                         4.313722,
@@ -375,7 +375,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
             },
             {
                   "name": "Prosperpolder Noord",
-                  "text": "A nature reserve in the polder landscape near Doel.",
+                  "text": "The Prosperpolder Noord nature reserve, a bird sanctuary north of the Doel nuclear plant.",
                   "category": "natural",
                   "coords": [
                         4.229085,
@@ -909,7 +909,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
       "de": [
             {
                   "name": "Piste hippique",
-                  "text": "Reitplatz bei Feluy Petrochemical.",
+                  "text": "Sandpferderennbahn neben dem petrochemischen Werk in Feluy.",
                   "category": "recreational",
                   "coords": [
                         4.184533,
@@ -918,7 +918,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
             },
             {
                   "name": "Pétangue",
-                  "text": "Petanque-Platz bei Feluy Petrochemical.",
+                  "text": "Boulebahn (Pétanque) am Kanal in der Industriezone von Feluy.",
                   "category": "recreational",
                   "coords": [
                         4.223902,
@@ -929,7 +929,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
       "hu": [
             {
                   "name": "Piste hippique",
-                  "text": "Lovaspálya a Feluy petrolkémiai üzem mellett.",
+                  "text": "Homokos lóversenypálya a feluy-i petrolkémiai üzem mellett.",
                   "category": "recreational",
                   "coords": [
                         4.184533,
@@ -938,7 +938,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
             },
             {
                   "name": "Pétangue",
-                  "text": "Pétanque-pálya a Feluy petrolkémiai üzem mellett.",
+                  "text": "Bouléző (pétanque) a csatorna mellett, Feluy ipari övezetében.",
                   "category": "recreational",
                   "coords": [
                         4.223902,
@@ -949,7 +949,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
       "ro": [
             {
                   "name": "Piste hippique",
-                  "text": "Pistă de echitație lângă Feluy Petrochemical.",
+                  "text": "O pistă de curse de cai din nisip lângă fabrica petrochimică din Feluy.",
                   "category": "recreational",
                   "coords": [
                         4.184533,
@@ -958,7 +958,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
             },
             {
                   "name": "Pétangue",
-                  "text": "Teren de pétanque lângă Feluy Petrochemical.",
+                  "text": "Terenuri de petanque lângă canal, în zona industrială Feluy.",
                   "category": "recreational",
                   "coords": [
                         4.223902,
@@ -969,7 +969,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
       "en": [
             {
                   "name": "Piste hippique",
-                  "text": "Equestrian track near Feluy Petrochemical.",
+                  "text": "A dirt horse racing track next to the Feluy petrochemical plant.",
                   "category": "recreational",
                   "coords": [
                         4.184533,
@@ -978,7 +978,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
             },
             {
                   "name": "Pétangue",
-                  "text": "Petanque court near Feluy Petrochemical.",
+                  "text": "Pétanque courts along the canal in the Feluy industrial zone.",
                   "category": "recreational",
                   "coords": [
                         4.223902,
@@ -1784,7 +1784,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
       "de": [
             {
                   "name": "Hippisme",
-                  "text": "Pferdesportanlage am Kanalhebewerk La Louvière.",
+                  "text": "Reitweg entlang der historischen Schiffshebewerke von La Louvière.",
                   "category": "recreational",
                   "coords": [
                         4.110095,
@@ -1795,7 +1795,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
       "hu": [
             {
                   "name": "Hippisme",
-                  "text": "Lovassport-létesítmény a La Louvière-i csatornafelvonónál.",
+                  "text": "Lovaglóút a La Louvière-i történelmi hajóliftek mentén.",
                   "category": "recreational",
                   "coords": [
                         4.110095,
@@ -1806,7 +1806,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
       "ro": [
             {
                   "name": "Hippisme",
-                  "text": "Facilitate ecvestră la liftul pentru canale din La Louvière.",
+                  "text": "Un traseu de călărie de-a lungul lifturilor istorice pentru vase din La Louvière.",
                   "category": "recreational",
                   "coords": [
                         4.110095,
@@ -1817,7 +1817,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
       "en": [
             {
                   "name": "Hippisme",
-                  "text": "Equestrian facility at the La Louviere Canal Lift.",
+                  "text": "A horse riding trail along the historic canal lifts of La Louvière.",
                   "category": "recreational",
                   "coords": [
                         4.110095,
@@ -2092,7 +2092,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
             },
             {
                   "name": "Kasteel Meerlaer",
-                  "text": "Ein historisches Schlossgut in der Gemeinde Tessenderlo.",
+                  "text": "Kasteel Meerlaer von 1867 in Tessenderlo (Chemie), geschütztes Kulturerbe.",
                   "category": "castle",
                   "coords": [
                         5.088737,
@@ -2166,7 +2166,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
             },
             {
                   "name": "Kasteel Meerlaer",
-                  "text": "Történelmi kastélybirtok Tessenderlo községben.",
+                  "text": "Meerlaer-kastély, 1867-ben épült Tessenderlo (Chemical) területén, védett örökség.",
                   "category": "castle",
                   "coords": [
                         5.088737,
@@ -2240,7 +2240,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
             },
             {
                   "name": "Kasteel Meerlaer",
-                  "text": "Un domeniu istoric cu castel în comuna Tessenderlo.",
+                  "text": "Castelul Meerlaer din 1867 în Tessenderlo (Chemical), patrimoniu protejat.",
                   "category": "castle",
                   "coords": [
                         5.088737,
@@ -2314,7 +2314,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
             },
             {
                   "name": "Kasteel Meerlaer",
-                  "text": "A historical castle estate located in the Tessenderlo municipality.",
+                  "text": "Kasteel Meerlaer built in 1867 in Tessenderlo Chemical, listed heritage.",
                   "category": "castle",
                   "coords": [
                         5.088737,

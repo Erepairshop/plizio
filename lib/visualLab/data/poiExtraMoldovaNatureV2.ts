@@ -691,7 +691,7 @@ export const moldovaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Marea Nordului",
-                  "text": "Strand am Stausee Costești-Stânca.",
+                  "text": "Marea Nordului (Nordsee) ist ein Erholungsgebiet am Stinca Costesti Stausee, möglicherweise mit Strand.",
                   "category": "recreational",
                   "coords": [
                         27.214069,
@@ -702,7 +702,7 @@ export const moldovaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Marea Nordului",
-                  "text": "Strand a Costești-Stânca víztározónál.",
+                  "text": "A Marea Nordului (Északi-tenger) rekreációs terület a Stinca Costesti-tározónál, valószínűleg stranddal.",
                   "category": "recreational",
                   "coords": [
                         27.214069,
@@ -713,7 +713,7 @@ export const moldovaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Marea Nordului",
-                  "text": "Plajă la lacul de acumulare Costești-Stânca.",
+                  "text": "Marea Nordului este o zonă de agrement pe lacul de acumulare Stinca Costesti, posibil cu plajă.",
                   "category": "recreational",
                   "coords": [
                         27.214069,
@@ -724,7 +724,7 @@ export const moldovaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Marea Nordului",
-                  "text": "Beach at the Costești-Stânca reservoir.",
+                  "text": "Marea Nordului (North Sea) is a recreational area on the Stinca Costesti Reservoir, possibly a beach.",
                   "category": "recreational",
                   "coords": [
                         27.214069,

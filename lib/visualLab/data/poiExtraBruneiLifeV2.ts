@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraBruneiLifeV2: POI[] = [
   {
-    id: "kilanas-agricultural-research-centre-life-v2",
+    id: "kilanas-agricultural-research-centre-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Bengkurong",
+                  "text": "Die Masjid Kampong Bengkurong befindet sich in der Nähe des Landwirtschaftsforschungszentrums Kilanas und dient den Anwohnern als Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        114.870989,
+                        4.847445
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda Abdul Mateen",
+                  "text": "Die Masjid Pengiran Muda Abdul Mateen ist eine moderne Moschee, die im Gebiet des Kilanas Landwirtschaftszentrums errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.845264,
+                        4.863832
+                  ]
+            },
+            {
+                  "name": "Masjid Duli Raja Isteri Pengiran Anak Damit",
+                  "text": "Die Duli Raja Isteri Pengiran Anak Damit Moschee ist ein architektonisch bedeutender Gebetsort nahe den landwirtschaftlichen Flächen von Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862832,
+                        4.861088
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Kilanas",
+                  "text": "Die Masjid Kampong Kilanas ist die zentrale Moschee der ländlichen Gemeinde von Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862847,
+                        4.870293
+                  ]
+            },
+            {
+                  "name": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "Die Masjid Jubli Perak Sultan Haji Hassanal Bolkiah wurde zum silbernen Jubiläum des Sultans im Landwirtschaftsbezirk erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        114.875679,
+                        4.881452
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bunut",
+                  "text": "Die Masjid Kampong Bunut ist ein Gebetsort für die islamische Bevölkerung in der Nachbarschaft von Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.886488,
+                        4.852642
+                  ]
+            },
+            {
+                  "name": "Gerai Kampung Jangsak",
+                  "text": "Der Gerai Kampung Jangsak ist ein lokaler Markt, auf dem Produkte aus dem umliegenden Agrargebiet von Kilanas gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        114.868598,
+                        4.878284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Bengkurong",
+                  "text": "A Masjid Kampong Bengkurong a Kilanas mezőgazdasági kutatóközpont közelében található, és a helyi lakosok imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        114.870989,
+                        4.847445
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda Abdul Mateen",
+                  "text": "A Masjid Pengiran Muda Abdul Mateen egy modern mecset, amely a Kilanas mezőgazdasági központ területén épült.",
+                  "category": "landmark",
+                  "coords": [
+                        114.845264,
+                        4.863832
+                  ]
+            },
+            {
+                  "name": "Masjid Duli Raja Isteri Pengiran Anak Damit",
+                  "text": "A Duli Raja Isteri Pengiran Anak Damit mecset egy építészetileg jelentős imádkozóhely Kilanas mezőgazdasági területeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862832,
+                        4.861088
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Kilanas",
+                  "text": "A Masjid Kampong Kilanas a vidéki Kilanas közösség központi mecsete.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862847,
+                        4.870293
+                  ]
+            },
+            {
+                  "name": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "A Masjid Jubli Perak Sultan Haji Hassanal Bolkiah a szultán ezüstjubileumára épült a mezőgazdasági körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.875679,
+                        4.881452
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bunut",
+                  "text": "A Masjid Kampong Bunut egy iszlám imádkozóhely a Kilanas szomszédságában élő lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.886488,
+                        4.852642
+                  ]
+            },
+            {
+                  "name": "Gerai Kampung Jangsak",
+                  "text": "A Gerai Kampung Jangsak egy helyi piac, ahol a környező kilanasi agrártérségből származó termékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        114.868598,
+                        4.878284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Bengkurong",
+                  "text": "Masjid Kampong Bengkurong este situată lângă Centrul de Cercetare Agricolă Kilanas, servind ca lăcaș de cult pentru locuitori.",
+                  "category": "landmark",
+                  "coords": [
+                        114.870989,
+                        4.847445
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda Abdul Mateen",
+                  "text": "Masjid Pengiran Muda Abdul Mateen este o moschee modernă construită în zona centrului agricol Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.845264,
+                        4.863832
+                  ]
+            },
+            {
+                  "name": "Masjid Duli Raja Isteri Pengiran Anak Damit",
+                  "text": "Moscheea Duli Raja Isteri Pengiran Anak Damit este un loc de rugăciune important din punct de vedere arhitectural, lângă terenurile agricole din Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862832,
+                        4.861088
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Kilanas",
+                  "text": "Masjid Kampong Kilanas este moscheea centrală a comunității rurale din Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862847,
+                        4.870293
+                  ]
+            },
+            {
+                  "name": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah a fost construită cu ocazia jubileului de argint al sultanului în districtul agricol.",
+                  "category": "landmark",
+                  "coords": [
+                        114.875679,
+                        4.881452
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bunut",
+                  "text": "Masjid Kampong Bunut este un loc de rugăciune pentru populația islamică din cartierul Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.886488,
+                        4.852642
+                  ]
+            },
+            {
+                  "name": "Gerai Kampung Jangsak",
+                  "text": "Gerai Kampung Jangsak este o piață locală unde se vând produse din zona agricolă înconjurătoare Kilanas.",
+                  "category": "cultural",
+                  "coords": [
+                        114.868598,
+                        4.878284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Bengkurong",
+                  "text": "Masjid Kampong Bengkurong is located near the Kilanas Agricultural Research Centre, serving as a house of worship for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        114.870989,
+                        4.847445
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda Abdul Mateen",
+                  "text": "Masjid Pengiran Muda Abdul Mateen is a modern mosque built in the area of the Kilanas Agricultural Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        114.845264,
+                        4.863832
+                  ]
+            },
+            {
+                  "name": "Duli Raja Isteri Pengiran Anak Damit Mosque",
+                  "text": "The Duli Raja Isteri Pengiran Anak Damit Mosque is an architecturally significant place of prayer near the agricultural lands of Kilanas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862832,
+                        4.861088
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Kilanas",
+                  "text": "Masjid Kampong Kilanas is the central mosque of the rural Kilanas community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.862847,
+                        4.870293
+                  ]
+            },
+            {
+                  "name": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah",
+                  "text": "Masjid Jubli Perak Sultan Haji Hassanal Bolkiah was built for the Sultan's silver jubilee within the agricultural district.",
+                  "category": "landmark",
+                  "coords": [
+                        114.875679,
+                        4.881452
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bunut",
+                  "text": "Masjid Kampong Bunut is a prayer place for the Islamic population in the Kilanas neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        114.886488,
+                        4.852642
+                  ]
+            },
+            {
+                  "name": "Gerai Kampung Jangsak",
+                  "text": "Gerai Kampung Jangsak is a local market trading products from the surrounding agricultural area of Kilanas.",
+                  "category": "cultural",
+                  "coords": [
+                        114.868598,
+                        4.878284
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BN-BM",
     coords: [114.861, 4.856],
@@ -47,7 +308,88 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "wasan-rice-fields-life-v2",
+    id: "wasan-rice-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surau",
+                  "text": "Der Surau inmitten der Wasan-Reisfelder dient den örtlichen Bauern als kleiner Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809931,
+                        4.766943
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Limau Manis",
+                  "text": "Die Kampong Limau Manis Moschee bietet der landwirtschaftlich geprägten Gemeinde an den Wasan-Reisfeldern einen Ort für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.824382,
+                        4.768987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surau",
+                  "text": "A Wasan rizsföldjei között található Surau kis imateremként szolgál a helyi gazdák számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809931,
+                        4.766943
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Limau Manis",
+                  "text": "A Kampong Limau Manis mecset a Wasan rizsföldek melletti mezőgazdasági közösség számára nyújt imádkozási lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        114.824382,
+                        4.768987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surau",
+                  "text": "Surau, aflat în mijlocul câmpurilor de orez Wasan, servește drept mică sală de rugăciune pentru fermierii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809931,
+                        4.766943
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Limau Manis",
+                  "text": "Moscheea Kampong Limau Manis oferă un loc de rugăciune comunității agricole de lângă câmpurile de orez Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.824382,
+                        4.768987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surau",
+                  "text": "The Surau set amongst the Wasan rice fields serves as a small prayer room for local farmers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809931,
+                        4.766943
+                  ]
+            },
+            {
+                  "name": "Kampong Limau Manis Mosque",
+                  "text": "Kampong Limau Manis Mosque provides a place of prayer for the agricultural community near the Wasan rice fields.",
+                  "category": "landmark",
+                  "coords": [
+                        114.824382,
+                        4.768987
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BN-BM",
     coords: [114.808, 4.755],
@@ -91,7 +433,88 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "taman-batang-duri-life-v2",
+    id: "taman-batang-duri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Sagan",
+                  "text": "Dieser markante Hügel in der Nähe von Taman Batang Duri stellt eine auffällige, mit dichter lokaler Vegetation bedeckte Erhebung dar.",
+                  "category": "natural",
+                  "coords": [
+                        115.030525,
+                        4.603482
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Sibut",
+                  "text": "Dieses Gotteshaus der Gemeinde dient den Bewohnern von Kampong Sibut und bietet eine ruhige, strukturierte Umgebung für die täglichen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        115.107766,
+                        4.612975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Sagan",
+                  "text": "Ez a Taman Batang Duri közelében található jellegzetes domb a helyi buja növényzettel borított, észrevehető kiemelkedést alkot.",
+                  "category": "natural",
+                  "coords": [
+                        115.030525,
+                        4.603482
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Sibut",
+                  "text": "Ez a közösségi istentiszteleti hely Kampong Sibut lakóit szolgálja ki, csendes, rendezett környezetet biztosítva a napi imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        115.107766,
+                        4.612975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Sagan",
+                  "text": "Acest deal distinct din apropiere de Taman Batang Duri reprezintă o ridicătură topografică vizibilă, acoperită de vegetație locală densă.",
+                  "category": "natural",
+                  "coords": [
+                        115.030525,
+                        4.603482
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Sibut",
+                  "text": "Acest lăcaș de cult comunitar deservește locuitorii din Kampong Sibut, oferind un mediu liniștit și structurat pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        115.107766,
+                        4.612975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sagan Hill",
+                  "text": "This distinct hill near Taman Batang Duri provides a noticeable topographic rise covered in dense local vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        115.030525,
+                        4.603482
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Sibut",
+                  "text": "This community place of worship serves the residents of Kampong Sibut, offering a quiet, structured environment for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        115.107766,
+                        4.612975
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "BN-TE",
     coords: [115.110, 4.582],
@@ -135,7 +558,88 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "brunei-bay-dolphin-watching-area-life-v2",
+    id: "brunei-bay-dolphin-watching-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Sungai Buloh",
+                  "text": "Die Kampong Sungai Buloh Moschee dient der muslimischen Gemeinde in der Nähe der Brunei Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        115.022719,
+                        4.991571
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Tanah Jambu",
+                  "text": "Die Kampong Tanah Jambu Moschee ist ein islamisches Gebetshaus in der Küstenregion am Brunei Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        115.003418,
+                        4.996813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Sungai Buloh",
+                  "text": "A Kampong Sungai Buloh mecset a Brunei-öböl közelében szolgálja a helyi muszlim közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        115.022719,
+                        4.991571
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Tanah Jambu",
+                  "text": "A Kampong Tanah Jambu mecset egy iszlám imaház a Brunei-öböl partmenti régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        115.003418,
+                        4.996813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Sungai Buloh",
+                  "text": "Moscheea Kampong Sungai Buloh deservește comunitatea musulmană din apropierea golfului Brunei.",
+                  "category": "landmark",
+                  "coords": [
+                        115.022719,
+                        4.991571
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Tanah Jambu",
+                  "text": "Moscheea Kampong Tanah Jambu este un lăcaș de cult islamic din regiunea de coastă a golfului Brunei.",
+                  "category": "landmark",
+                  "coords": [
+                        115.003418,
+                        4.996813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampong Sungai Buloh Mosque",
+                  "text": "The Kampong Sungai Buloh Mosque serves the local Muslim community near Brunei Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        115.022719,
+                        4.991571
+                  ]
+            },
+            {
+                  "name": "Kampong Tanah Jambu Mosque",
+                  "text": "Kampong Tanah Jambu Mosque is an Islamic house of prayer situated in the coastal region of Brunei Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        115.003418,
+                        4.996813
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BN-BM",
     coords: [115.015, 5.011],
@@ -223,7 +727,160 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "sinaut-agricultural-training-centre-life-v2",
+    id: "sinaut-agricultural-training-centre-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Haji Abdul Azim",
+                  "text": "Dieses Gotteshaus ist ein ausgewiesener Ort für islamische Gebete und religiöse Zusammenkünfte in der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        114.726283,
+                        4.816036
+                  ]
+            },
+            {
+                  "name": "Louis Mini Zoo",
+                  "text": "Dieser kleine Zoo beherbergt verschiedene Tierarten zur pädagogischen Beobachtung und zur Familienerholung.",
+                  "category": "recreational",
+                  "coords": [
+                        114.767366,
+                        4.806551
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sinaut",
+                  "text": "Diese Moschee fungiert als zentrale muslimische Kultstätte und bietet Platz für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        114.748522,
+                        4.815564
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Anak Isteri Pengiran Anak Sarah",
+                  "text": "Diese prominente muslimische Moschee fungiert als wichtiges spirituelles Zentrum für die umliegende Dorfgemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.764567,
+                        4.804919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Haji Abdul Azim",
+                  "text": "Ez az istentiszteleti hely az iszlám imák és vallási összejövetelek kijelölt helyszíne a helyi területen.",
+                  "category": "religious",
+                  "coords": [
+                        114.726283,
+                        4.816036
+                  ]
+            },
+            {
+                  "name": "Louis Mini Zoo",
+                  "text": "Ez a kis méretű állatkert különféle állatfajoknak ad otthont oktatási célú megfigyelésre és családi kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        114.767366,
+                        4.806551
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sinaut",
+                  "text": "Központi muszlim istentiszteleti létesítményként ez a mecset teret biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        114.748522,
+                        4.815564
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Anak Isteri Pengiran Anak Sarah",
+                  "text": "Ez a kiemelkedő muszlim mecset kulcsfontosságú spirituális központként működik a környező falu gyülekezete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.764567,
+                        4.804919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Haji Abdul Azim",
+                  "text": "Acest lăcaș de cult este un loc desemnat pentru rugăciuni islamice și adunări religioase din zona locală.",
+                  "category": "religious",
+                  "coords": [
+                        114.726283,
+                        4.816036
+                  ]
+            },
+            {
+                  "name": "Louis Mini Zoo",
+                  "text": "Această grădină zoologică la scară mică adăpostește diverse specii de animale pentru observație educațională și recreere în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        114.767366,
+                        4.806551
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sinaut",
+                  "text": "Funcționând ca unitate centrală de cult musulman, această moschee oferă un spațiu pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        114.748522,
+                        4.815564
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Anak Isteri Pengiran Anak Sarah",
+                  "text": "Această moschee musulmană proeminentă acționează ca un centru spiritual cheie pentru congregația satului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        114.764567,
+                        4.804919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Haji Abdul Azim",
+                  "text": "This place of worship is a designated venue for Islamic prayers and religious gatherings in the local area.",
+                  "category": "religious",
+                  "coords": [
+                        114.726283,
+                        4.816036
+                  ]
+            },
+            {
+                  "name": "Louis Mini Zoo",
+                  "text": "This small-scale zoo houses various animal species for educational observation and family recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        114.767366,
+                        4.806551
+                  ]
+            },
+            {
+                  "name": "Kampong Sinaut Mosque",
+                  "text": "Functioning as a central Muslim worship facility, this mosque provides a space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.748522,
+                        4.815564
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Anak Isteri Pengiran Anak Sarah",
+                  "text": "This prominent Muslim mosque acts as a key spiritual center for the surrounding village congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        114.764567,
+                        4.804919
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BN-TU",
     coords: [114.717, 4.809],
@@ -399,7 +1056,124 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "proboscis-monkey-river-safari-life-v2",
+    id: "proboscis-monkey-river-safari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Putat",
+                  "text": "Die Masjid Kampong Putat ist eine Moschee am Flussufer, die von der örtlichen islamischen Gemeinde genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        114.97535,
+                        4.834022
+                  ]
+            },
+            {
+                  "name": "Surau Itqan RPR Ranggau",
+                  "text": "Der Surau Itqan RPR Ranggau bietet der muslimischen Bevölkerung entlang des Flusses einen Ort für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997305,
+                        4.801563
+                  ]
+            },
+            {
+                  "name": "Masjid Yayasan Sultan Haji Hassanal Bolkiah",
+                  "text": "Die Masjid Yayasan Sultan Haji Hassanal Bolkiah ist eine bedeutende Moschee, die im Rahmen der Stiftung des Sultans in der Flussregion errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955472,
+                        4.852796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Putat",
+                  "text": "A Masjid Kampong Putat egy folyóparti mecset, amelyet a helyi iszlám közösség használ.",
+                  "category": "landmark",
+                  "coords": [
+                        114.97535,
+                        4.834022
+                  ]
+            },
+            {
+                  "name": "Surau Itqan RPR Ranggau",
+                  "text": "A Surau Itqan RPR Ranggau a folyó menti muszlim lakosság számára biztosít helyet a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997305,
+                        4.801563
+                  ]
+            },
+            {
+                  "name": "Masjid Yayasan Sultan Haji Hassanal Bolkiah",
+                  "text": "A Masjid Yayasan Sultan Haji Hassanal Bolkiah egy jelentős mecset, amelyet a szultán alapítványa építtetett a folyó menti régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955472,
+                        4.852796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Putat",
+                  "text": "Masjid Kampong Putat este o moschee situată pe malul râului, frecventată de comunitatea islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.97535,
+                        4.834022
+                  ]
+            },
+            {
+                  "name": "Surau Itqan RPR Ranggau",
+                  "text": "Surau Itqan RPR Ranggau oferă un spațiu pentru rugăciunile zilnice ale populației musulmane de-a lungul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997305,
+                        4.801563
+                  ]
+            },
+            {
+                  "name": "Masjid Yayasan Sultan Haji Hassanal Bolkiah",
+                  "text": "Masjid Yayasan Sultan Haji Hassanal Bolkiah este o moschee importantă construită prin fundația sultanului în zona râului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955472,
+                        4.852796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Putat",
+                  "text": "Masjid Kampong Putat is a riverside mosque used by the local Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.97535,
+                        4.834022
+                  ]
+            },
+            {
+                  "name": "Surau Itqan RPR Ranggau",
+                  "text": "Surau Itqan RPR Ranggau provides a space for daily prayers for the Muslim population along the river.",
+                  "category": "landmark",
+                  "coords": [
+                        114.997305,
+                        4.801563
+                  ]
+            },
+            {
+                  "name": "Masjid Yayasan Sultan Haji Hassanal Bolkiah",
+                  "text": "Masjid Yayasan Sultan Haji Hassanal Bolkiah is a prominent mosque built through the Sultan's foundation in the river region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955472,
+                        4.852796
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BN-BM",
     coords: [114.953, 4.869],
@@ -443,7 +1217,196 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "lumapas-agricultural-station-life-v2",
+    id: "lumapas-agricultural-station-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Proboscis Monkey Sighting",
+                  "text": "Diese Beobachtungsstelle in der Nähe der Lumapas Agricultural Station bietet Chancen, die endemischen Nasenaffen in den Mangrovenbäumen zu sehen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.890271,
+                        4.848008
+                  ]
+            },
+            {
+                  "name": "Masjid Al-kurnia",
+                  "text": "Die Masjid Al-kurnia ist eine lokale muslimische Moschee inmitten der ländlichen Umgebung von Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909995,
+                        4.79557
+                  ]
+            },
+            {
+                  "name": "Masjid Kg.Gadong",
+                  "text": "Die Masjid Kg.Gadong dient den Bewohnern in der Nähe der Lumapas Agricultural Station als islamischer Gebetsort.",
+                  "category": "landmark",
+                  "coords": [
+                        114.935799,
+                        4.769508
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Lumapas",
+                  "text": "Die Kampong Lumapas Moschee ist ein spiritueller Treffpunkt für die islamische Dorfgemeinschaft in der Landwirtschaftszone.",
+                  "category": "landmark",
+                  "coords": [
+                        114.907292,
+                        4.823437
+                  ]
+            },
+            {
+                  "name": "Gerai Nasi Katok Nini Kampong",
+                  "text": "Der Stand Gerai Nasi Katok Nini Kampong ist ein lokaler Markt für das beliebte bruneiische Hühnchen-Reis-Gericht Nasi Katok.",
+                  "category": "cultural",
+                  "coords": [
+                        114.91751,
+                        4.840825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Proboscis Monkey Sighting",
+                  "text": "Ez a Lumapas Agricultural Station közelében lévő megfigyelőhely esélyt kínál a mangrovefákon élő endemikus ormányos majmok megpillantására.",
+                  "category": "landmark",
+                  "coords": [
+                        114.890271,
+                        4.848008
+                  ]
+            },
+            {
+                  "name": "Masjid Al-kurnia",
+                  "text": "A Masjid Al-kurnia egy helyi muszlim mecset Lumapas vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909995,
+                        4.79557
+                  ]
+            },
+            {
+                  "name": "Masjid Kg.Gadong",
+                  "text": "A Masjid Kg.Gadong a Lumapas Agricultural Station közelében élők iszlám imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        114.935799,
+                        4.769508
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Lumapas",
+                  "text": "A Kampong Lumapas mecset az iszlám faluközösség spirituális találkozóhelye a mezőgazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.907292,
+                        4.823437
+                  ]
+            },
+            {
+                  "name": "Gerai Nasi Katok Nini Kampong",
+                  "text": "A Gerai Nasi Katok Nini Kampong nevű stand a népszerű brunei csirkés-rizses étel, a Nasi Katok helyi piaca.",
+                  "category": "cultural",
+                  "coords": [
+                        114.91751,
+                        4.840825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Proboscis Monkey Sighting",
+                  "text": "Acest loc de observație de lângă Stațiunea Agricolă Lumapas oferă șanse de a vedea maimuțele nasoase endemice în copacii de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        114.890271,
+                        4.848008
+                  ]
+            },
+            {
+                  "name": "Masjid Al-kurnia",
+                  "text": "Masjid Al-kurnia este o moschee musulmană locală situată în peisajul rural din Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909995,
+                        4.79557
+                  ]
+            },
+            {
+                  "name": "Masjid Kg.Gadong",
+                  "text": "Masjid Kg.Gadong servește drept loc de rugăciune islamic pentru locuitorii din apropierea Stațiunii Agricole Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.935799,
+                        4.769508
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Lumapas",
+                  "text": "Moscheea Kampong Lumapas este un punct de întâlnire spirituală pentru comunitatea islamică din zona agricolă.",
+                  "category": "landmark",
+                  "coords": [
+                        114.907292,
+                        4.823437
+                  ]
+            },
+            {
+                  "name": "Gerai Nasi Katok Nini Kampong",
+                  "text": "Standul Gerai Nasi Katok Nini Kampong este o piață locală pentru popularul fel de mâncare bruneian cu orez și pui, Nasi Katok.",
+                  "category": "cultural",
+                  "coords": [
+                        114.91751,
+                        4.840825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Proboscis Monkey Sighting",
+                  "text": "This spotting location near the Lumapas Agricultural Station offers chances to see endemic proboscis monkeys in the mangrove trees.",
+                  "category": "landmark",
+                  "coords": [
+                        114.890271,
+                        4.848008
+                  ]
+            },
+            {
+                  "name": "Masjid Al-kurnia",
+                  "text": "Masjid Al-kurnia is a local Muslim mosque set amid the rural landscape of Lumapas.",
+                  "category": "landmark",
+                  "coords": [
+                        114.909995,
+                        4.79557
+                  ]
+            },
+            {
+                  "name": "Masjid Kg.Gadong",
+                  "text": "Masjid Kg.Gadong serves as an Islamic prayer venue for residents near the Lumapas Agricultural Station.",
+                  "category": "landmark",
+                  "coords": [
+                        114.935799,
+                        4.769508
+                  ]
+            },
+            {
+                  "name": "Kampong Lumapas Mosque",
+                  "text": "Kampong Lumapas Mosque is a spiritual gathering point for the Islamic village community within the agricultural zone.",
+                  "category": "landmark",
+                  "coords": [
+                        114.907292,
+                        4.823437
+                  ]
+            },
+            {
+                  "name": "Gerai Nasi Katok Nini Kampong",
+                  "text": "The Gerai Nasi Katok Nini Kampong stall is a local market outlet serving the popular Bruneian chicken and rice dish, Nasi Katok.",
+                  "category": "cultural",
+                  "coords": [
+                        114.91751,
+                        4.840825
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BN-BM",
     coords: [114.912, 4.832],
@@ -487,7 +1450,268 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "wasan-hornbill-spot-life-v2",
+    id: "wasan-hornbill-spot-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bebuak Meritam (Entrance)",
+                  "text": "Der Eingang nach Bebuak Meritam markiert den Ausgangspunkt für Besucher, die die ungewöhnlichen vulkanischen Schlammformationen in Wasan erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867908,
+                        4.729344
+                  ]
+            },
+            {
+                  "name": "Meritam Volcanic Mud",
+                  "text": "Die Attraktion Meritam Volcanic Mud ermöglicht es Besuchern, blubbernde Schlammtöpfe zu beobachten und die natürlichen mineralreichen Becken von Wasan zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.87116,
+                        4.728434
+                  ]
+            },
+            {
+                  "name": "BEM Sungai Parit Merasam",
+                  "text": "BEM Sungai Parit Merasam ist eine evangelisch-christliche Kirche, die den spirituellen Bedürfnissen der lokalen Wasan-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.881188,
+                        4.685157
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hikmah",
+                  "text": "Die Surau Darul Hikmah ist eine kleine islamische Gebetsstätte in der Nähe des Wasan Hornbill Spot.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811814,
+                        4.670178
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Saint John The Baptist",
+                  "text": "Die katholische Kirche Saint John The Baptist ist ein christliches Gotteshaus in der ländlichen Umgebung von Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811783,
+                        4.671154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser Surau dient als lokaler islamischer Versammlungsraum für die Bewohner der Wasan-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.810273,
+                        4.738129
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Pelancongan Tedungan",
+                  "text": "Der Pasar Tani Pelancongan Tedungan ist ein landwirtschaftlicher Touristenmarkt, der lokale Produkte aus der Region Wasan anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        114.810198,
+                        4.736476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bebuak Meritam (Entrance)",
+                  "text": "A Bebuak Meritam bejárata a Wasanban található szokatlan vulkáni iszapformációkat felfedező látogatók kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867908,
+                        4.729344
+                  ]
+            },
+            {
+                  "name": "Meritam Volcanic Mud",
+                  "text": "A Meritam Vulkáni Iszap látványosság lehetővé teszi a látogatók számára, hogy bugyborékoló iszapfazekakat lássanak, és megtapasztalják Wasan természetes, ásványi anyagokban gazdag medencéit.",
+                  "category": "landmark",
+                  "coords": [
+                        114.87116,
+                        4.728434
+                  ]
+            },
+            {
+                  "name": "BEM Sungai Parit Merasam",
+                  "text": "A BEM Sungai Parit Merasam egy evangéliumi keresztény templom, amely a helyi wasani közösség spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.881188,
+                        4.685157
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hikmah",
+                  "text": "A Surau Darul Hikmah egy kis iszlám imaház a Wasan Hornbill Spot közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811814,
+                        4.670178
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Saint John The Baptist",
+                  "text": "A Keresztelő Szent János katolikus templom egy keresztény istentiszteleti hely Wasan vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811783,
+                        4.671154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a Surau helyi iszlám gyülekezeti teremként szolgál a Wasan régió lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.810273,
+                        4.738129
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Pelancongan Tedungan",
+                  "text": "A Pasar Tani Pelancongan Tedungan egy mezőgazdasági turisztikai piac, amely Wasan régió helyi termékeit kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        114.810198,
+                        4.736476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bebuak Meritam (Entrance)",
+                  "text": "Intrarea în Bebuak Meritam marchează punctul de plecare pentru vizitatorii care explorează formațiunile neobișnuite de noroi vulcanic din Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867908,
+                        4.729344
+                  ]
+            },
+            {
+                  "name": "Meritam Volcanic Mud",
+                  "text": "Atracția Meritam Volcanic Mud permite vizitatorilor să asiste la oale de noroi care clocotesc și să experimenteze piscinele naturale bogate în minerale din Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.87116,
+                        4.728434
+                  ]
+            },
+            {
+                  "name": "BEM Sungai Parit Merasam",
+                  "text": "BEM Sungai Parit Merasam este o biserică creștină evanghelică care servește nevoilor spirituale ale comunității locale din Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.881188,
+                        4.685157
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hikmah",
+                  "text": "Surau Darul Hikmah este un mic loc de rugăciune islamic situat în apropiere de Wasan Hornbill Spot.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811814,
+                        4.670178
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Saint John The Baptist",
+                  "text": "Biserica Catolică Sfântul Ioan Botezătorul este un lăcaș de cult creștin situat în zona rurală din jurul localității Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811783,
+                        4.671154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Acest Surau servește ca o sală de adunare islamică locală pentru locuitorii din regiunea Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.810273,
+                        4.738129
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Pelancongan Tedungan",
+                  "text": "Pasar Tani Pelancongan Tedungan este o piață agricolă turistică ce oferă produse locale din regiunea Wasan.",
+                  "category": "cultural",
+                  "coords": [
+                        114.810198,
+                        4.736476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bebuak Meritam (Entrance)",
+                  "text": "The entrance to Bebuak Meritam marks the starting point for visitors exploring the unusual volcanic mud formations in Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.867908,
+                        4.729344
+                  ]
+            },
+            {
+                  "name": "Meritam Volcanic Mud",
+                  "text": "The Meritam Volcanic Mud attraction allows visitors to witness bubbling mud pots and experience the natural mineral-rich pools of Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.87116,
+                        4.728434
+                  ]
+            },
+            {
+                  "name": "BEM Sungai Parit Merasam",
+                  "text": "BEM Sungai Parit Merasam is an evangelical Christian church serving the spiritual needs of the local Wasan community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.881188,
+                        4.685157
+                  ]
+            },
+            {
+                  "name": "Surau Darul Hikmah",
+                  "text": "Surau Darul Hikmah is a small Islamic prayer hall located near the Wasan Hornbill Spot.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811814,
+                        4.670178
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Saint John The Baptist",
+                  "text": "Saint John The Baptist Catholic Church is a Christian place of worship set in the rural surroundings of Wasan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.811783,
+                        4.671154
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This Surau serves as a local Islamic assembly room for the residents of the Wasan region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.810273,
+                        4.738129
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Pelancongan Tedungan",
+                  "text": "Pasar Tani Pelancongan Tedungan is an agricultural tourist market offering local produce from the Wasan region.",
+                  "category": "cultural",
+                  "coords": [
+                        114.810198,
+                        4.736476
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BN-BM",
     coords: [114.814, 4.743],
@@ -575,7 +1799,52 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "subok-ridge-macaque-trail-life-v2",
+    id: "subok-ridge-macaque-trail-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewpoint",
+                  "text": "Dieser erhöhte Aussichtspunkt am Subok Ridge Macaque Trail bietet einen weiten Blick über das grüne Kronendach.",
+                  "category": "natural",
+                  "coords": [
+                        114.955722,
+                        4.904596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewpoint",
+                  "text": "Ez a Subok Ridge Macaque Trail mentén fekvő kilátó széles rálátást biztosít a sűrű lombkoronára.",
+                  "category": "natural",
+                  "coords": [
+                        114.955722,
+                        4.904596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewpoint",
+                  "text": "Acest punct de belvedere de pe Subok Ridge Macaque Trail oferă o priveliște largă asupra coronamentului verde.",
+                  "category": "natural",
+                  "coords": [
+                        114.955722,
+                        4.904596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint",
+                  "text": "This elevated viewpoint along the Subok Ridge Macaque Trail provides a wide view over the green canopy.",
+                  "category": "natural",
+                  "coords": [
+                        114.955722,
+                        4.904596
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BN-BM",
     coords: [114.951, 4.908],
@@ -619,7 +1888,52 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "birau-agricultural-research-station-life-v2",
+    id: "birau-agricultural-research-station-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kg. Lubok Pulau",
+                  "text": "Eine Dorfmoschee, die der lokalen muslimischen Gemeinde in der Nähe der Birau Agricultural Research Station dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.662112,
+                        4.764274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kg. Lubok Pulau",
+                  "text": "Falusi mecset, amely a helyi muszlim gyülekezetet szolgálja ki a Birau Mezőgazdasági Kutatóállomás közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.662112,
+                        4.764274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kg. Lubok Pulau",
+                  "text": "O moschee de sat care deservește congregația musulmană locală din apropierea Stațiunii de Cercetare Agricolă Birau.",
+                  "category": "landmark",
+                  "coords": [
+                        114.662112,
+                        4.764274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampong Lubok Pulau Mosque",
+                  "text": "A village mosque catering to the local Muslim congregation near the Birau Agricultural Research Station.",
+                  "category": "landmark",
+                  "coords": [
+                        114.662112,
+                        4.764274
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BN-TU",
     coords: [114.673, 4.778],
@@ -663,7 +1977,124 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "luagan-lalak-bird-watching-area-life-v2",
+    id: "luagan-lalak-bird-watching-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kg Bukit Puan",
+                  "text": "Dieser malerische Aussichtspunkt im Dorf Bukit Puan bietet weitreichende Ausblicke über die umliegende grüne Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        114.467747,
+                        4.537942
+                  ]
+            },
+            {
+                  "name": "Kg Sungai Mau",
+                  "text": "Von diesem dörflichen Aussichtspunkt aus können Besucher den ruhigen Flusslauf beobachten, der sich durch das waldreiche Gelände schlängelt.",
+                  "category": "natural",
+                  "coords": [
+                        114.487222,
+                        4.550096
+                  ]
+            },
+            {
+                  "name": "Luagan Lalak Main Viewpoint",
+                  "text": "Dieser zentrale Aussichtspunkt überblickt einen großen alluvialen Süßwassersumpf und ist ideal, um zu beobachten, wie sich der Nebel über dem ruhigen Wasser lichtet.",
+                  "category": "natural",
+                  "coords": [
+                        114.475279,
+                        4.515327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kg Bukit Puan",
+                  "text": "Ez a Bukit Puan faluban található festői kilátó széles rálátást nyújt a környező zöldellő tájra.",
+                  "category": "natural",
+                  "coords": [
+                        114.467747,
+                        4.537942
+                  ]
+            },
+            {
+                  "name": "Kg Sungai Mau",
+                  "text": "Ebből a falusi kilátópontból a látogatók megfigyelhetik a helyi folyó nyugodt folyását, amint az erdős terepen kanyarog.",
+                  "category": "natural",
+                  "coords": [
+                        114.487222,
+                        4.550096
+                  ]
+            },
+            {
+                  "name": "Luagan Lalak Main Viewpoint",
+                  "text": "Ez a nagy alluviális édesvízi mocsárra néző központi kilátóhely ideális arra, hogy megfigyeljük, ahogy a köd felszáll a nyugodt vizekről.",
+                  "category": "natural",
+                  "coords": [
+                        114.475279,
+                        4.515327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kg Bukit Puan",
+                  "text": "Acest punct de belvedere pitoresc situat în satul Bukit Puan oferă perspective ample asupra peisajului verde înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        114.467747,
+                        4.537942
+                  ]
+            },
+            {
+                  "name": "Kg Sungai Mau",
+                  "text": "De la acest punct de observație din sat, vizitatorii pot urmări cursul liniștit al râului local care șerpuiește prin terenul împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        114.487222,
+                        4.550096
+                  ]
+            },
+            {
+                  "name": "Luagan Lalak Main Viewpoint",
+                  "text": "Având vedere la o mare mlaștină aluvială de apă dulce, acest punct central de observație este ideal pentru a privi cum se risipește ceața de pe apele liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        114.475279,
+                        4.515327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kg Bukit Puan",
+                  "text": "This scenic viewpoint situated in the village of Bukit Puan offers expansive perspectives over the surrounding verdant landscape.",
+                  "category": "natural",
+                  "coords": [
+                        114.467747,
+                        4.537942
+                  ]
+            },
+            {
+                  "name": "Kg Sungai Mau",
+                  "text": "From this village vantage point, visitors can observe the tranquil flow of the local river winding through the forested terrain.",
+                  "category": "natural",
+                  "coords": [
+                        114.487222,
+                        4.550096
+                  ]
+            },
+            {
+                  "name": "Luagan Lalak Main Viewpoint",
+                  "text": "Overlooking a large alluvial freshwater swamp, this central observation spot is ideal for watching the mist clear off the tranquil waters.",
+                  "category": "natural",
+                  "coords": [
+                        114.475279,
+                        4.515327
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "BN-BE",
     coords: [114.460, 4.542],
@@ -751,7 +2182,268 @@ export const poiExtraBruneiLifeV2: POI[] = [
     },
   },
   {
-    id: "luahan-agropark-life-v2",
+    id: "luahan-agropark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Masin",
+                  "text": "Dieses anerkannte Gotteshaus bietet einen traditionellen Rahmen für islamische religiöse Zeremonien und gemeinsame Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        114.845382,
+                        4.829511
+                  ]
+            },
+            {
+                  "name": "Masjid Pehin Khatib Abdullah",
+                  "text": "Dieses etablierte Gotteshaus dient der örtlichen muslimischen Gemeinde als Raum für die Religionsausübung.",
+                  "category": "religious",
+                  "coords": [
+                        114.823249,
+                        4.851662
+                  ]
+            },
+            {
+                  "name": "Kampong Pengkalan Batu Mosque",
+                  "text": "Diese den muslimischen Praktiken gewidmete Moschee ist ein integrales religiöses Bauwerk innerhalb des Dorfes.",
+                  "category": "landmark",
+                  "coords": [
+                        114.82782,
+                        4.799048
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Panchor Murai",
+                  "text": "Diese muslimische Moschee dient den spirituellen Bedürfnissen der Gläubigen und ist ein besonderer Ort für die tägliche Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809875,
+                        4.803439
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salaam",
+                  "text": "Dieses muslimische Gotteshaus bietet den Gemeindemitgliedern einen ruhigen Zufluchtsort für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.854333,
+                        4.810552
+                  ]
+            },
+            {
+                  "name": "Masjid Jefri Bolkiah",
+                  "text": "Diese bemerkenswerte muslimische Moschee ist ein architektonisches und spirituelles Wahrzeichen für die lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.815802,
+                        4.82008
+                  ]
+            },
+            {
+                  "name": "Pasar Serbaneka Kampong Masin dan Kampong Bebatik",
+                  "text": "Dieser Marktplatz verfügt über Stände, an denen verschiedene frische lokale Produkte und Waren des täglichen Bedarfs verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        114.843417,
+                        4.848495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Masin",
+                  "text": "Ez az elismert istentiszteleti hely hagyományos környezetet biztosít az iszlám vallási ceremóniákhoz és a közös imához.",
+                  "category": "religious",
+                  "coords": [
+                        114.845382,
+                        4.829511
+                  ]
+            },
+            {
+                  "name": "Masjid Pehin Khatib Abdullah",
+                  "text": "Ez a bevált istentiszteleti hely vallási gyakorlás céljából nyújt teret a helyi muszlim közösségnek.",
+                  "category": "religious",
+                  "coords": [
+                        114.823249,
+                        4.851662
+                  ]
+            },
+            {
+                  "name": "Kampong Pengkalan Batu Mosque",
+                  "text": "Ez a muszlim gyakorlatoknak szentelt mecset a falu szerves vallási építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        114.82782,
+                        4.799048
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Panchor Murai",
+                  "text": "A hívők spirituális igényeit szolgáló muszlim mecset a napi áhítat dedikált helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809875,
+                        4.803439
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salaam",
+                  "text": "Ez a muszlim istentiszteleti hely csendes menedéket nyújt a közösség tagjainak az imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        114.854333,
+                        4.810552
+                  ]
+            },
+            {
+                  "name": "Masjid Jefri Bolkiah",
+                  "text": "Ez a nevezetes muszlim mecset építészeti és spirituális mérföldkőként szolgál a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.815802,
+                        4.82008
+                  ]
+            },
+            {
+                  "name": "Pasar Serbaneka Kampong Masin dan Kampong Bebatik",
+                  "text": "Ezen a piacon a helyi friss termékek és mindennapi áruk széles választékát árusító standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        114.843417,
+                        4.848495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Masin",
+                  "text": "Acest lăcaș de cult recunoscut oferă un cadru tradițional pentru ceremoniile religioase islamice și rugăciunea comunală.",
+                  "category": "religious",
+                  "coords": [
+                        114.845382,
+                        4.829511
+                  ]
+            },
+            {
+                  "name": "Masjid Pehin Khatib Abdullah",
+                  "text": "Acest lăcaș de cult stabilit servește comunității musulmane locale, oferind spațiu pentru respectarea religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        114.823249,
+                        4.851662
+                  ]
+            },
+            {
+                  "name": "Kampong Pengkalan Batu Mosque",
+                  "text": "Dedicată practicilor musulmane, această moschee este o structură religioasă integrală în cadrul satului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.82782,
+                        4.799048
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Panchor Murai",
+                  "text": "Răspunzând nevoilor spirituale ale credincioșilor, această moschee musulmană este un loc dedicat devotamentului zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809875,
+                        4.803439
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salaam",
+                  "text": "Acest lăcaș de cult musulman oferă un sanctuar liniștit membrilor comunității pentru a se angaja în rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        114.854333,
+                        4.810552
+                  ]
+            },
+            {
+                  "name": "Masjid Jefri Bolkiah",
+                  "text": "Această moschee musulmană notabilă reprezintă un punct de reper arhitectural și spiritual pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        114.815802,
+                        4.82008
+                  ]
+            },
+            {
+                  "name": "Pasar Serbaneka Kampong Masin dan Kampong Bebatik",
+                  "text": "Această piață are tarabe care vând o varietate de produse locale proaspete și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        114.843417,
+                        4.848495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Masin",
+                  "text": "This recognized place of worship offers a traditional setting for Islamic religious ceremonies and communal prayer.",
+                  "category": "religious",
+                  "coords": [
+                        114.845382,
+                        4.829511
+                  ]
+            },
+            {
+                  "name": "Masjid Pehin Khatib Abdullah",
+                  "text": "This established place of worship serves the local Muslim community with space for religious observance.",
+                  "category": "religious",
+                  "coords": [
+                        114.823249,
+                        4.851662
+                  ]
+            },
+            {
+                  "name": "Kampong Pengkalan Batu Mosque",
+                  "text": "Dedicated to Muslim practices, this mosque is an integral religious structure within the village.",
+                  "category": "landmark",
+                  "coords": [
+                        114.82782,
+                        4.799048
+                  ]
+            },
+            {
+                  "name": "Kampong Panchor Murai Mosque",
+                  "text": "Serving the spiritual needs of the faithful, this Muslim mosque is a dedicated spot for daily devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        114.809875,
+                        4.803439
+                  ]
+            },
+            {
+                  "name": "Masjid As-Salaam",
+                  "text": "This Muslim place of worship provides a quiet sanctuary for community members to engage in prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.854333,
+                        4.810552
+                  ]
+            },
+            {
+                  "name": "Jefri Bolkiah Mosque",
+                  "text": "This notable Muslim mosque stands as an architectural and spiritual landmark for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.815802,
+                        4.82008
+                  ]
+            },
+            {
+                  "name": "Pasar Serbaneka Kampong Masin dan Kampong Bebatik",
+                  "text": "This marketplace features stalls selling a variety of fresh local produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        114.843417,
+                        4.848495
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "BN-BM",
     coords: [114.832, 4.845],
@@ -796,7 +2488,88 @@ export const poiExtraBruneiLifeV2: POI[] = [
     image: "/poi-images/luahan-agropark-life-v2.webp",
   },
   {
-    id: "pantai-seri-kenangan-playground-life-v2",
+    id: "pantai-seri-kenangan-playground-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pulau Bakuku",
+                  "text": "Pulau Bakuku ist ein Aussichtspunkt am Wasser, der weite Blicke auf die Küstenlandschaft am Pantai Seri Kenangan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.626401,
+                        4.787112
+                  ]
+            },
+            {
+                  "name": "Pantai Penabai",
+                  "text": "Der Strand Pantai Penabai zeichnet sich durch seinen weichen Sandstreifen entlang der Küste nahe dem Pantai Seri Kenangan Playground aus.",
+                  "category": "recreational",
+                  "coords": [
+                        114.627073,
+                        4.798217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pulau Bakuku",
+                  "text": "A Pulau Bakuku egy vízparti kilátó, amely tágas panorámát nyújt a Pantai Seri Kenangan partszakaszára.",
+                  "category": "natural",
+                  "coords": [
+                        114.626401,
+                        4.787112
+                  ]
+            },
+            {
+                  "name": "Pantai Penabai",
+                  "text": "A Pantai Penabai strandot a Pantai Seri Kenangan Playground közelében húzódó finom homoksávja jellemzi.",
+                  "category": "recreational",
+                  "coords": [
+                        114.627073,
+                        4.798217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pulau Bakuku",
+                  "text": "Pulau Bakuku este un punct de belvedere pe apă, oferind vederi largi asupra peisajului de coastă de la Pantai Seri Kenangan.",
+                  "category": "natural",
+                  "coords": [
+                        114.626401,
+                        4.787112
+                  ]
+            },
+            {
+                  "name": "Pantai Penabai",
+                  "text": "Plaja Pantai Penabai este caracterizată de fâșia sa de nisip fin de-a lungul coastei, lângă Pantai Seri Kenangan Playground.",
+                  "category": "recreational",
+                  "coords": [
+                        114.627073,
+                        4.798217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pulau Bakuku",
+                  "text": "Pulau Bakuku is a waterfront viewpoint offering sweeping vistas over the coastal landscape at Pantai Seri Kenangan.",
+                  "category": "natural",
+                  "coords": [
+                        114.626401,
+                        4.787112
+                  ]
+            },
+            {
+                  "name": "Pantai Penabai",
+                  "text": "Pantai Penabai beach is characterized by its soft stretch of sand along the coast near the Pantai Seri Kenangan Playground.",
+                  "category": "recreational",
+                  "coords": [
+                        114.627073,
+                        4.798217
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "BN-TU",
     coords: [114.636, 4.808],
